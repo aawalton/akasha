@@ -1,0 +1,157 @@
+---
+id: 67043490-46eb-5fe5-8052-28969fbfc258
+page-type-slug: story-chapter-royal-road
+title: "Ch87 Enlightenment"
+slug: 0087-ch87-enlightenment
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 87
+ownLength: 1928
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3614347/ch87-enlightenment"
+royalRoadId: "3614347"
+---
+
+These talismans can be used once a month, so I decide there is no better time to try the first one than now.
+
+In a single thought, the small white piece of jade holding a golden character shatters to dust.
+
+The glyph on its face spins around in the air, and collides with my forehead. All of the white mist making up its structure surrounds me like a misty white cloud.
+
+For a few seconds, it doesn’t feel like anything has happened.
+
+However, as the mist slowly settles, and seeps into my body from every side, the golden character on my forehead shimmers and disappears too. A mental switch triggers, and the hidden realm around me disappears.
+
+It is as though I’m floating in a serene white void, and the only thing left before me is the small booklet.
+
+Even my hands holding it fade away, and all concepts of time, fatigue, and distraction disappear too.
+
+When the pages of this manual flip by, there are no longer any words that confuse me.
+
+Sentences that were blurry headache-causing mysteries before now look like simple concepts.
+
+I’m able to take in all of the knowledge I look at without any mental blocks holding me back.
+
+While shattering this talisman, I only had a simple problem to solve in my mind. It was to figure out why the blood demon’s physique acted the way it did, and to figure out how I can become stronger using my own physique without falling down this harmful path.
+
+There are so many complex ideas and contradictions spinning through my thoughts at first, but all of a sudden all false information just fades away.
+
+My body and senses begin acting on their own.
+
+As I flip through the booklet, it selectively opens up my mind to the world around me to relate.
+
+Pages of a blood demon’s booklet come out of my storage, as I act on instinct, and the full illusory demon’s concealment art appears as well.
+
+Certain lines and diagrams appear as I flip through them, and the dots in a complex puzzle all connect. The energy flowing up from the array below me separates, and even the system descriptions of its three energy sources, Qi, Soul, and Dao Rhythm all come to mind.
+
+I can see the movements for my Martial Elite Body, and their perfect transition to a Martial Master, then, the complex moves necessary to become a Martial Grand Master settle into my psyche.
+
+Even the final page of this manual, outlining the ascension to a Martial Spirit Physique, I see it all.
+
+Everything becomes so plain and simple.
+
+Compared to this Martial Physique, both of the Demonic Techniques are fundamentally flawed. It must be why they are considered demonic in the first place.
+
+The main driving energy source in their cores is the user’s soul. One must tether their soul to the acquired physique to progress, and in order to not lose fractured pieces of their own soul every time the technique is used, a demon must consume blood qi pills which hold trace amounts of others’ souls.
+
+The more impure pills have large amounts of qi, or even physical flesh and blood infused too. These are usable sources of energy anchor points for a physique too, but they are far less efficient and can be even more erratic and unpredictable.
+
+The reason my Martial Elite Body can be active at all times is because it has no direct tethers to my two souls.
+
+They are completely different entities. The physique is self sustaining, not reliant on any external anchor points or energy sources.
+
+In fact, this is the first time I’m feeling this sensation referred to by my system as a Dao Rhythm.
+
+There is no description or explanation, but it aligns with what the martial manual describes as a path. It is an independent force, and the base principle of every single physique.
+
+I still cannot comprehend what it is on a deeper level, and why it manifests in other places like when I feel someone’s killing intent, or in Wang Ming’s body when he had no physique at all.
+
+However, I can now grasp a very surface level understanding of how they all share a common similarity.
+
+My mind dissects the nature of Qi next. It is the strongest and most abundant source of energy in this world. While a soul and a path rely on an individual’s will, raw qi is everywhere. It is why there are so many cultivators that can use it, despite knowing nothing of what it truly is.
+
+The state of uninterrupted pure focus wears off the moment I understand what I was striving to know.
+
+The white mist is gone, and the golden enlightenment character has faded.
+
+Yet, as I stand in the middle of this array, every single movement and technique in this martial manual is perfectly translated into my memory.
+
+I shift my stance and begin reciting it, one punch, kick, breathing technique, and lunge after another. In total, from the very beginning starting at a Martial Warrior, there are over two thousand movements, but they feel as simple and instinctual as though I’ve already practiced them every day for years.
+
+Without the pure extract, they do not do much in actually progressing my physique, however it feels like they are solidifying my Martial Elite Body, making the vibrations smoother and denser filling me with confidence. I spend the next few hours going through them all just to make sure what I’m seeing in my mind is real.
+
+Even though the enlightenment has entirely worn off, the knowledge sticks.
+
+A wide smile beams on my face as a check-in notification rings in my inner ear, telling me it’s already morning outside.
+
+With a simple thought, I exit my hidden realm, and step back onto the rocky ground of the valley outside. One by one, I upgrade 5 more veins, hook up their collection arrays, then slip away back inside.
+
+Out of curiosity, I make my way up the steps to the rematch simulator, and choose a level 6 blood demon to fight. They should be far stronger than me, but after yesterday’s practice, fighting a level 5 feels like it would be too simple.
+
+The sandy arena appears, and a blood demon instantly transforms and lunges at me with overwhelming speed.
+
+I’m struck in the head, but not killed immediately.
+
+It takes a few more blows before my vision goes black.
+
+I reload this feature with another 6,000 spirit stones, and jump in again.
+
+I’m killed in less than half a minute, and even after 3 more tries, my longest round lasts 45 seconds, and the best I manage to do is break one of his ribs.
+
+My punches are not hard enough, and the pressure of his physique still overwhelms mine. It feels like I’m hitting a heavy unmovable wall most of the time. Fighting without perfect grade talismans is something I wish to never do out in the real world. If I had to, facing someone with the same stage of physique even a single qi refining level higher than me has proven to lead to death every time.
+
+I stop wasting spirit stones, and walk back down to the cultivation array with the sensation of the single good punch I landed still stirring in the back of my mind.
+
+It felt like I got lucky, but the more I think about it, the more I feel like it wasn’t just a fluke. I coincidentally landed a punch on a minor flaw in his physique's vibrations, at the moment his soul was twisted in a strained in an especially irregular manner.
+
+I begin reciting my Martial Path Movements in the center of the array for practice, and continue picturing this flaw I caught by accident in my mind.
+
+–
+
+4 days pass.
+
+Every morning, I step outside of my hidden realm and use my new upgrade cards to create a perfect grade vein and attach a harvesting array.
+
+Now inside this valley, there are 31 perfect grade veins. One being used solely by Lan Xin to cultivate, and the other 30 are being farmed for spirit stones.
+
+I measure how much leaks out, and my estimate of about 3% before was accurate. About 970 spirit stones are collected from each vein every day, and the rest floods out into the valley.
+
+I’ve noticed some of the greenery come more alive, and even a few rock structures growing and shifting slightly from the runoff, but nothing too noticeable.
+
+The majority of my time is being spent inside my hidden realm. However, I do slip out to collect all of the spirit stones I’m gathering, and spend them on the rematch simulator every day.
+
+I do a few tests while collecting stones, attempting to pull these veins into my system storage, and even into my hidden realm, but it feels like I’m tugging against a powerful magnet that only gets stronger the harder I pull.
+
+They’re anchored to the outside world, to the point where it feels like they have wills of their own resisting me.
+
+I’m uncertain if this is my system silently rejecting my attempts, or if I’ll be able to do so when I become far stronger than these perfect grade veins myself.
+
+On my off time while I wait for more spirit stones to be refined I practice my Martial Movements to focus on heavier and more powerful strikes.
+
+Today, I go into my last match with eyes full of resolve.
+
+This level 6 blood demon has killed me dozens of times. Seeing his face grow long horns and distort into a bloody mess brings back the memories of failure in every prior fight.
+
+Though, when he lunges forward, the built up progress I’ve made over these few days comes back too.
+
+I dodge, and watch extremely closely through my spiritual senses for an opening.
+
+With such a demonic flawed technique, there are hundreds of weak points that I couldn’t see before hidden in plain sight.
+
+My hand grows heavy, and I perfectly balance my lunge and punch forward with one of the many martial movements I’ve practiced alone for many hours atop the five element cultivation array. My fist feels like a heavy sledgehammer as it cracks into this blood demon’s shoulder.
+
+A visible crimson crack opens up inside the blood energy itself, creating a fissure leading deep into the demon’s soul.
+
+This isn’t enough to kill it, but it is enough to send it flying backward roaring in agony.
+
+I’m not fast enough to block its next attack filled with fury, getting a clawed hand to the jaw. However, I attack back and strike him in the chest with a devastating blow. This time, breaking a few bones along with another soul fracture.
+
+Three and a half minutes pass, and I’ve lost a hand, an eye, and broken almost every bone in my body.
+
+Yet, I scream out in victory after shoving my one good fist through this demon’s skull at its final weak spot, killing an opponent an entire level higher than me with my bare hands for the first time.
+
+When I teleport back outside, the noonday sun lights up the satisfied smile on my face even wider.
+
+I slowly make my walk back through the field of perfect grade spirit veins, toward the only one that does not give off any excess qi residue.
+
+This is where Lan Xin has been cultivating for the last 6 days straight.

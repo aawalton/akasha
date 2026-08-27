@@ -1,0 +1,117 @@
+---
+id: 20413e78-e6c4-5398-9c14-f62b577e9325
+page-type-slug: story-chapter-royal-road
+title: "Ch98 10th Level Armored Lizards"
+slug: 0098-ch98-10th-level-armored-lizards
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 98
+ownLength: 1379
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3682570/ch98-10th-level-armored-lizards"
+royalRoadId: "3682570"
+---
+
+The late stage physique I sensed from afar finally comes within my spiritual senses, showing off the 4-meter-long dark black armored lizard’s intimidating stature.
+
+[Automatic Inspect Function Activated…][Unnamed Armored Lizard] [Age: 62][10th Level Qi Refiner][Earth Spiritual Root][7th Grade][Acquired Heavy Mountain Physique][Late Stage - Mortal Grade][No Innate Physique][Member of a large Armored Lizard brood, currently protecting a hoard of stolen eggs from the neighboring nests in this forest region. Has a major soul fracture from failing to break through into foundation establishment.]
+
+It matches my gaze, and shows rows of glossy black teeth turning up in a grin.
+
+When its claws dig into the earth floor, it lunges forward and disappears in a blur of black faster than my eyes can safely track.
+
+I can still perceive its general position, but it’s too late by the time it swipes me across the back.
+
+My defensive talisman breaks instantly, absorbing the impact, and I realize its strength is nearing some of the perfected stage blood demons I fought at Black Iron Mountain.
+
+Without hesitating, I pull out two incineration talismans and let them rip in the direction of the blur.
+
+A gut-wrenching screech echoes through the cave as it’s hit straight on, and multiple late-stage lizards in the vicinity are burned to ash.
+
+I crush a defensive talisman just in time as the melting monster jumps at me again, even though it’s missing both eyes and a large amount of flesh down its side.
+
+A perfected stone bullet talisman at this range is triggered, and its head explodes.
+
+I’m almost out of talismans, but I still have about ten upgrade cards in my storage.
+
+My eyes dart around, and only a few 7th level lizards are left in the swarm.
+
+One runs at me in anger, but I punch it in the neck, paralyzing it for a brief moment, then slice its head off with a perfect grade dagger. Far more run at me in anger right after.
+
+My heart is pumping with adrenaline, and even though these 7th and 8th level lizards with mid-stage physiques are roughly my strength, some even slightly higher; I can kill them with my bare hands.
+
+They are not as intelligent as blood demons. These lizards act on anger and instinct, while humans can strategize. This makes my detection for their physiques’ weaknesses even more deadly. All I need to do is outsmart them one time to win.
+
+Corpses stack all around me.
+
+I pull some into my system storage, especially those that have perfect grade arrows lodged in them, or ones I kill at close range, but many that are blown to pieces or defeated with longer range talismans are left behind.
+
+I watch as lizards dig their way out of the ground, exposing tunnels where more of their eggs hide. The chaotic explosions frighten weaker initial stage earth lizards less than ten years old from their hiding spots.
+
+They’re killed with a single punch or kick without much effort.
+
+When I make it over 50 meters away from the back wall where the rope rests, I start to see a few 8th grade eggs mixed into the hidden clumps, and I even spot a single 7th grade egg deep underground with my spiritual senses closer to the center of this deep hole in the earth. The familiar vibrations of a late-stage physique return the closer I get.
+
+This time, it’s more than one… they’re too blurred together for me to count if it’s two or three or possibly more…
+
+I begin to wonder why these lizards are all grouped up here, but take another step forward to feel the presence of a small palm-sized brown crystal deep beneath my feet far underground.
+
+I’ve only ever seen a few perfect grade black iron ore cores give off radiation like this strange gem. Though, its far different, giving off only pure qi infused with the earth element. My spiritual senses aren’t distorted, I can clearly see that it’s surrounded by multiple 10th level qi refining armored lizards on guard.
+
+As they sense my presence probing them, they screech loudly, sending waves of vibrations through the pit. It creates a chain reaction. More and more of them start to move, and let out screeches of their own.
+
+The whole ground shakes beneath my feet, and every single tunnel in the earth shifts as hundreds of armored lizards sense an attacker. They flood to the surface like a hive mind to confront me.
+
+The ground of the pit cracks open everywhere. Even some of the walls higher up begin cracking and shaking as armored lizards flood out.
+
+Over a hundred mixed initial and mid stage younglings make up the flood as the majority of the masses. With them, easily 50 more are matured at the 7th, 8th, and 9th level. Over a dozen are the most deadly 10th level armored lizards. They break out of the ground at once to surround me from all sides.
+
+My senses spike as these are only the visible ones; more and more seem to rush up from the ground out of sight, triggering an alarming amount of system scans to pop up.
+
+I pull out a small white jade sword artifact from my storage, the Anchored Qi Sword Slaughter Formation, and let it sink into my palm to activate.
+
+A warm white pulse of qi floods outward, surrounding my body in a thin white film.
+
+Instantly, twelve perfect grade blades emerge and begin spinning around me.
+
+The hordes of armored lizards that all attack at once are sliced to pieces in a spinning barrage of blades.
+
+Three enormous swords hover above these. They glow bright white, and give off the aura of initial stage foundation establishment cultivators.
+
+Last time I used this formation, I was up against a foundation establishment illusory demon…
+
+He managed to fend off these blades, making them seem less powerful in my subconscious.
+
+I’m quickly reminded of its true power. Only one of the tier 2 blades moves, and in a single arching motion, it slices clean through six level 10 armored lizards that all hold late-stage physiques.
+
+There is no resistance at all. They’re instantly killed.
+
+Within the Qi Refining Realm, while this formation is activated… I am invincible.
+
+Another quest complete notification triggers in my inner ear, but I do not look at it.
+
+Instead, I turn around and run toward the back wall I came from.
+
+I do not have enough spirit stones on me to charge this artifact again, and it will only last 30 seconds. The massive explosions that are now tearing up the pit floor are only breaking open caves and letting more and more lizards be called my way.
+
+Blood covers the ground as I run over the corpses of dozens of lizards every second.
+
+Every armored lizard that comes near me is sliced to flesh and broken scales. I do not need to defend at all; I only need to hop over the massive holes in the ground and new ones that form from the slaughter going on around me.
+
+I jump up onto the wall, and begin climbing up the rope.
+
+Over a hundred and fifty armored lizards have been obliterated, but more just keep on appearing from deeper underground.
+
+The countdown timer in my head falls below ten seconds, then five seconds, and I’ve only made it fifty meters up the side wall, less than a tenth of the way to the surface.
+
+The qi swords in the air fade, and the protective barrier around me disappears too.
+
+There is a brief moment of peace, but I still pull out a defensive talisman and my azure lightning attack talisman next.
+
+The horrifying mental image of over a hundred armored lizards crawling out of the walls behind me and up from the massive holes in the pit below toward me is all I see.
+
+A bolt of azure lightning escapes my hand toward the strongest group nearby with over 5 perfected stage lizards, burning them to ash.
+
+Yet, it does not slow the swarm at all. More just like them flood out to trample their corpses.
+
+I grit my teeth, close my eyes, and disappear into my hidden realm as the only means to escape I have left.

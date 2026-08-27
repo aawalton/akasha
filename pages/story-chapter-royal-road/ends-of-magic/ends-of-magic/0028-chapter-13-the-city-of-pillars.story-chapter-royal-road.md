@@ -1,0 +1,227 @@
+---
+id: 8fbed7f5-4b00-55a3-ba47-2b736e31fb12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: The City of Pillars"
+slug: 0028-chapter-13-the-city-of-pillars
+partOf: ends-of-magic
+position: 28
+ownLength: 2839
+unit: words
+ownProgress: 2839
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2527706/chapter-13-the-city-of-pillars"
+royalRoadId: "2527706"
+markedReadAt: "2026-06-29T20:08:10.098Z"
+---
+
+The City of Pillars was visible from quite some distance. Davrar’s up-curving horizon and the massive buildings meant that the Heirs could see the city from almost a hundred miles away. During the day, they appeared only as a series of blurry gray lines that slowly solidified into solid towers. But at night, they lit up like metallic beacons.
+
+The flying patrols became more frequent as the Heirs approached Esebus. But they relied on scanning magic and didn't come close to spotting the Heirs. There was one more obstacle in the final stretch, a series of sensor nets that ringed the city. Nathan bypassed them without too much trouble. That brought the Heirs to the outskirts of Esebus, where walled parks held hunting reserves and various other space-hungry recreation areas. Looming over it all were the evenly spaced hexagonal pillars of the buildings. At night, they glowed with internal clockwork and dazzling fractals.
+
+It was just a few hours before dawn, and the Heirs could have pushed to make it into the city. But Nathan called for a halt. This was the last time they would be able to rely on the wide open spaces of the wilderness to hide them, and could be the last break they had before the shit hit the fan. Once they were ensconced in their burrow, Nathan opened the conversation. “We need to make our plan for getting into the city and the details of fighting the Questors.”
+
+“Rest and wait for nightfall, then move in,” Aarl suggested with a shrug, as if it was self-evident.
+
+His sister shook her head. “You saw the illumination of the city, they are more active during the night. There will be more attention in the dark hours, and more people enjoying the nightlife. We should infiltrate during the day.”
+
+“Indeed,” Khachi agreed. “To be noticed would be a prophecy of death.”
+
+Sarah began pulling clothing out of dimensional bags and spreading it around. “I talked to Garna about this. They do not have Adventurers here, only soldiers. We cannot pretend to be soldiers, so we must not draw any attention. If we dress simply, we will appear to be pilgrims coming to see the beauty of the city of pillars.” She tossed a long robe towards Khachi. “We can’t disguise you with illusions, so a long robe that covers your body must suffice.”
+
+“Without my armor, I will be less protected. It is a symbol of my faith.” He wasn’t disagreeing, just explaining something they’d need to keep in mind.
+
+“I don’t think it’ll be too bad,” Nathan said. “They rely so much on their magical authentication, and that won’t be a problem.”
+
+Sarah disagreed. “If their eyes show us, but their magic does not, then they will investigate. We should stick to crowds where our lack of signature will not be noticed. If any soldiers attempt to question us, we should slay them and flee.”
+
+Nathan grimaced. “Let’s try to avoid that if we can. I want to try to avoid setting off any alerts until we want to. We want them to go from no idea anything is happening to the Questors getting personally involved immediately.”
+
+“We’ll hit that target by stealing their most valuable relics, yeah?” Aarl asked. “We know where those are.” He pulled out the map that they’d gotten from Sarya, with a particular building towards the center clearly marked. “These buildings are larger than I assumed. Finding the vault might be a dungeon by itself.”
+
+“I should be able to feel it,” Nathan replied with a grin. “They’ve probably got it shielded against magical detection from here to Keihona and back, but my senses are quite sensitive. If I can’t, then I can feel the shield of solemnance that’s projected out from it. It’s huge, but I can probably triangulate off it if necessary.”
+
+Aarl groaned. “What is a shield of solemnance? Sarya said those words, but never explained them.”
+
+“I think it suppresses destructive magic, especially destructive wizardry. There was one in Keihona as well,” Nathan explained.
+
+Stella was nodding. “It made practicing my new Insights of wizardry harder. It dampens extreme spells to prevent devastation.”
+
+“If it’s a problem, I’ll break it,” Nathan said with a shrug. “But most of the Questors of Badud’s grid are mages, so it’s likely more of a problem for them than for us.”
+
+“Unless they are excepted from the effect,” Sarah pointed out, and Nathan had to cede the point.
+
+"Let's just take it," Aarl replied as if the point was self-evident.
+
+“We should speak of these Questors we are to kill,” Khachi said. “If we are successful in raiding their vault, that will drip blood in their eyes. They will try to kill us. This is why we are targeting the vault.”
+
+They’d received some information on the enemy Questors from Sarya and her grid, though not complete details. They couldn’t know every one of their enemies’ weaknesses, or else Badud's grid would cry foul.
+
+“Amoh, the leader of the Seminary of Assassins,” Sarah started out, eyes far away as she summarized what they’d been told. “Illusions, teleportation, and poisoned blades."
+
+Khachi scowled. “Dishonorable combat. My aura will banish such trickery.”
+
+“Then I can shoot him,” Sarah replied with a satisfied expression.
+
+“I wouldn’t be so sure,” Nathan responded. “These are Questors. They don’t just have a single trick. They’ve been fighting and winning for thousands of years. I didn’t beat Badud straight up. I made him mad, then tricked him into thinking I died.”
+
+By almost dying, to be fair.
+
+Nathan continued. “We need to assume that all of these Questors are going to be like that. Amoh’s illusions will resist being countered, and he’ll have backup plans in case that fails. Hopefully, he isn’t prepared and teleports close enough that I can lock him down so we can take him out. But even then, I don’t expect him to go down easily.”
+
+The Heirs’ expressions dropped, but none contradicted Nathan. Questors were dangerous. The Heirs could fight at the same level now, but they were newcomers without the thousands of years of experience their opponents had.
+
+“Next is Sussu,” Sarah continued. “The leader of Esebus, and the one who’s likely here already. It is her vault we will rob, so my bones say she will respond first. Not famed as a fighter, but as an artificer and enchanter. Probably carries a blasphemous number of artifacts on her person.”
+
+Stella’s eyes sharpened. “Such effects are rarely capable of properly countering spells, only blocking them with brute force. My magic should be able to overwhelm her unless she is close, and then Nathan should be able to kill her."
+
+Sarah responded with a nod, then moved on. “Ogarius. Not much is known, though he is known to disguise himself with illusions. A master of mental magic, especially of fear. He fights with two swords, but rarely crosses blades with his enemies. More commonly, he slaughters panicked foes.”
+
+“This might be a better match for you than Amoh is,” Nathan said, gesturing to Khachi. “Or at least a blessing of courage that will help block his spells. We have to assume he can bypass mental skills.”
+
+Aarl gave a disgusted hiss. “Hear me, our truest edge is your antimagic. Every one of these foes will be helpless if you wrap them in your aura. We should be aiming for that target.”
+
+Nathan winced. “Yes, but I’ve already fought Badud. He knows what I can do, and they’ve likely gotten reports from the Maestro. They know better than to assume that they’ll win. They know about my abilities, but what they’re not expecting are yours.” His eyes swept the rest of the Heirs, making it clear he included all of them in that case.
+
+“We’ll try not to bait the castlebear, but we likely have no choice,” Sarah said, meeting her brother’s gaze. “If Nathan can capture them in his antimagic then we hold a prophecy of victory. But we must plan for what happens if he can’t.” She turned her attention to Nathan. “Tell us of Badud. We have all seen him fight, but you have beaten him once.”
+
+Nathan sighed and nodded. “Once, by catching him by surprise. He’s a war mage, the model for all of the Giantsrest Archmages. Calm thinking in combat, the flexibility of spells to fight any enemy. Fast flying, strong shields, and dozens of different types of magic capable of killing an army. He only used the [Last Arrow of Olita] on me after I’d survived a dozen other spells that would have killed just about any other enemy.”
+
+He’d described the fight with Badud before, but now he did it again, highlighting each of the spells that the other man had cast. He’d avoided describing the details of the Questor’s radiation-producing spell before, but now he spelled it out in detail. The Heirs needed to recognize if they’d received a lethal dose of radiation poisoning so they could get healed immediately.
+
+From there, they moved on to talking about the ways they could face the rest of the Questors that would show up to defend Esebus, coming up with strategies to face them individually or as a group. They had hopes that the Questors would show up in sequence, allowing them to be defeated one by one. But Nathan didn’t think that was likely. They might catch one out of position, but their enemies were too experienced for that to work more than once.
+
+Nathan thought that the Heirs still had a decent chance, even if they had to fight Badud’s grid all at once. But he had to acknowledge that they didn’t know what kind of tricks their enemies had access to. The end of their strategy session wasn’t satisfying because so much of their enemy’s last-ditch capability wasn’t known to them. They all went their separate directions, bunking down to get what rest they could before they moved into Esebus the next day.
+
+That left Nathan alone with his thoughts, and a growing doubt reared its head. It was undeniable that challenging Badud’s grid was dangerous. They’d decided to do it because it was the first step towards summoning a conclave of Questors to change the rules of Davrar. To put an end to the Endings.
+
+This isn’t even the only deed we’ll need to complete to impress enough of them that they’ll listen to us. It's just the first one. The real problem is that even if we succeed, how will we convince them to patch their game to be less terrible to all of the people who inhabit it?
+
+Nathan didn’t feel like he had a good answer to that question. It sounded like Sarya and her allies had tried something similar a long time ago, and it hadn’t gone well. But she seemed to think that they had a chance to succeed. He hoped it was at least somewhat likely, and not an immortal willing to take long odds on the offhand chance something worked.
+
+What ultimately worried him wasn’t that they’d fail. It was that they’d make unrecoverable sacrifices along the way, and then fail. Things like nuking a city, or even just the collateral damage caused by a high-level fight in the middle of a populated area. In Giantsrest, Nathan had murdered innocents to keep his secrets. The situation had been muddied enough and the outcome justified enough that he wasn’t sure it had been the wrong choice. But he’d put himself in the position where it became necessary. It had meant that he’d needed to succeed, to justify his actions.
+
+That was a feedback loop. If you did terrible things in pursuit of a noble goal, then you couldn’t fail. Because if you did, then you’d have just done terrible things with no purpose. But if you couldn’t fail, then you’d do more terrible things to justify your previous ones. It was a slippery slope, where every step down the slope not only made the next one easier, but also pushed you to keep sliding further down the slope, or else you shouldn't have started sliding.
+
+You need to be able to justify your actions even if you fail, because otherwise, you’re only moral if you’re successful, and there are enough unknowns to make that a fraught position to hold.
+
+The right approach was to not put yourself in positions where you needed to take those first steps downhill. But here they all were. About to enter a city where being noticed would bring a military more powerful than Giantsrest’s down on their head. The easiest way to avoid that attention would be murder.
+
+Even if they succeeded, they’d be fighting terrifying enemies in a densely populated city. They wouldn’t be able to hold back, and Nathan had to hope that it would be enough for both sides to want to avoid collateral damage. Though Badud hadn’t seemed to care about leveling the Ascendant Academy with the Giantsrest mages inside.
+
+Though that was after I’d freed the dungeon core, which probably factored into his thinking.
+
+It was also possible that this challenge or the next one would kill some or all of Nathan’s companions. Strangely enough, that option bothered him less than he’d expected. Nathan dug into that feeling, trying to understand why he felt that way. They’d all sworn an oath to defend Gemore against the dangers of Davrar, chosen to put themselves in harm’s way to protect others. He’d led them into it, but they all believed in it.
+
+I’m willing to make that sacrifice myself, if needed. To achieve our goal. And so are they. It’s about respecting their wishes. If any of us dies, it’s because we chose to walk this path.
+
+That was the difference. If he killed a random innocent, then it was him declaring that they were worth sacrificing for his goal, without knowing anything about them. If his friends died, then they died having chosen that this was a worthy cause.
+
+But the conclusion was inescapable. Succeeding in summoning a conclave wouldn’t be free, and the Heirs would have to pay a cost. Just getting the chance to stand before the Questors and make demands was going to require sacrifices. Success would mean that they got a chance to argue their case, and losing that argument would mean that everything they did would be for nothing.
+
+Then don’t lose. Start planning now.
+
+Nathan spent hours lying in his bedroll, thinking through how he would convince a bunch of hedonistic gamers to give up a portion of their fun to benefit the NPCs in their game. He had the beginnings of an idea, but it didn’t feel any closer to the answer when he finally fell asleep, and he continued thinking about it when he woke early to take the last watch.
+
+If anybody noticed his introspective mood when they were preparing to leave, they didn’t comment on it. Nathan was trying to decide if he should bring the topic up or leave it until after their little Esebus trip was concluded. His train of thought was interrupted by Khachi stepping in front of their exit, his fur glowing as if he were backlit by a rising sun.
+
+“Our foes have fought through a dozen Endings.” The wolfman’s voice was deep and thoughtful. “But they have not survived all of those fights. They are Questors, and they cannot be truly killed.” He swept his hand to indicate all of them. “We can be. For us, every fight may be the final one,” He clenched his fist. “Hold that weight close. They are experienced, but they will not face true risk or exert utmost effort to ensure victory. We will. We can beat them.”
+
+He paused and lifted his arms in benediction, glowing even brighter. “By my divinity, we shall find greatness. By our righteous cause, we will walk this path. For the future of Davrar, we will deliver victory.”
+
+The blessing settled over Nathan’s compatriots, the golden glow of powerful divine magic sinking into their bones. It settled onto Nathan and evaporated away, giving him only the barest touch of calm certainty. It was enough.
+
+We’ll figure it out when we get there.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 572
+
+Regenerative Focus: 5740/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 5
+
+Forewarning 4
+
+Arcane Insight 6
+
+Evasion 2
+
+Mental Vault 5
+
+Veracity 2
+
+Parkour 10
+
+Visibility Control 6
+
+High-tier Disguise 7
+
+High-tier Battle Cry 3
+
+Aura Control 5

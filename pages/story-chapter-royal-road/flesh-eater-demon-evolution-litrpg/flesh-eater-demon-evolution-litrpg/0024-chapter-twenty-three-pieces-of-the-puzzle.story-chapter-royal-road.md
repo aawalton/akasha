@@ -1,0 +1,181 @@
+---
+id: ef8e39bc-0c6b-5427-8f74-32ad72505f27
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-Three: Pieces of the Puzzle"
+slug: 0024-chapter-twenty-three-pieces-of-the-puzzle
+partOf: flesh-eater-demon-evolution-litrpg
+position: 24
+ownLength: 2849
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2631837/chapter-twenty-three-pieces-of-the-puzzle"
+royalRoadId: "2631837"
+---
+
+“You’re sure this is the right place?”
+
+Pyre snorted and contorted her body to duck under a low branch. Ah, how she missed being able to charge into things with no fear of worsening her injuries. She was never going to take the ability to crash through trees for granted ever again.
+
+“Yeah, it’s right. What, you getting cold feet?”
+
+Callan shifted nervously. “It’s not that, it just…” He swallowed. “It feels… wrong here.”
+
+The ghost had been saying the same thing since they’d first entered the Fred Zone. Personally Pyre thought the weird ichor-warped plants and animals probably had something to do with it, but Callan had actually looked kind of excited about that, so maybe it was something else. Maybe Fred’s corpse exuded an ominous demonic aura that told everyone to get the fuck away. On her part, the sloth fiend felt absolutely nothing unusual.
+
+“There.”
+
+Pyre shifted her eyes to the front. Ahead of them, rising up above the canopy, was a familiar silhouette. She would know that particular mound-shape anywhere. Callan squinted.
+
+“…A hill?” He didn’t sound very impressed.
+
+The demon ignored him and kept moving forward, pushing past the last bit of the forest before all the vegetation abruptly stopped. Just like she’d remembered, there was zero greenery starting in a circle around the mound. That, at least, seemed to catch Callan’s attention, though of course it played second fiddle to the very obvious hole on the side of the hill.
+
+“You dug your way out of a hill?”
+
+“It was more like smashing my way out, but yeah,” the demon drawled. She moved closer until she was right next to the hole. The dirt around the edges looked a bit more crumbly than before, and a few stray rocks and bits of dirt had fallen to the ground, but other than that the whole thing had held up pretty well. She’d been a little worried the entire mound would collapse, but it looked like it was made of tougher stuff than that. She warped a bit of flesh and made a waving gesture to the ghost.
+
+“Well? Come on.”
+
+Callan looked like the last thing he wanted to do was step—float, technically—into a giant suspicious mound that was apparently poisonous to all plants, but after taking a deep breath, he followed after the demon and ducked inside.
+
+His jaw promptly dropped.
+
+“Is that…?” he breathed.
+
+“Kid, meet Fred.”
+
+A disbelieving laugh rose out of Callan’s throat. It was quickly followed by a second, more hysterical one. “I was right.” He still had that breathless, slightly dazed tone. “I was right!”
+
+Pyre raised an eyebrow. “Care to explain what you’re talking about?”
+
+Callan immediately spun around to face her. “I’ve been tracking the ichor concentration on the peninsula,” he said, the words tumbling out in a rush. “I planted a circle using these plants I modified. Since plants are living things, they have a natural sensitivity to ichor, so I was able to tweak their seeds to boost that. Honestly I was worried I didn’t have enough seeds to make it worth, but I managed to set up a couple amplification and projection spells. It’s not perfect, but it gets the job done. So back to the ichor, I’ve been getting weird readings from the north for a while now, and all of it pointed to there being a massive source of ichor here even though everyone says the place is ichor-barren. No one believed me, but I was right all along!”
+
+The ghost was talking so fast that it was honestly kind of hard to understand what the fuck he was saying, but Pyre could tell he was feeling very vindicated right now. She approved of the general sentiment, so she nodded in agreement.
+
+“Nice,” she said. She shifted further inside, quickly scanning the cavern to see that it was the exact same as she’d left it.
+
+“Anyway, I figure we can hunker down here for a bit,” she continued. “I seriously doubt anyone’s gonna bother us here.” She moved towards the center of the space and plopped down right next to Fred’s dead body, ready to let [Regeneration]’s sloth bonus do its work.
+
+There was no response from Callan. She swiveled an eyeball in his direction and found the ghost still staring up at the dead titan’s body in awe. “You know you can come closer, right,” she said in amusement. “It’s not like it’s gonna bite.”
+
+The ghost nodded slowly, but he didn’t take his eyes off the corpse. “Sorry, it’s just. I’ve never seen a titan corpse before.” The tangible awe in his voice was almost enough to make Pyre wonder if she shouldn’t be a little more excited about seeing Fred. Almost. “Do you know if this was a demon or an angel or…?”
+
+“Demon, unless angels also have horns.” Pyre warped the uninjured part of her body to give the giant corpse a good-natured slap on the arm. “Fred here’s a dead ringer for my human form.” Well, technically it was the opposite, but considering the ancient demon was dead, she didn’t feel too bad about claiming the face for herself. Family resemblance and all, in so far as Fred could be considered “family.”
+
+Callan squinted at her. “…Fred.” He pronounced the name like it had personally wronged him.
+
+“Yeah, that’s what I said earlier. Weren’t you paying attention? It’s a good name.”
+
+“You named an ancient demon Fred?”
+
+“Well I had to call it something.” She peered up at the corpse. “Speaking of which, you said some cities extract ichor directly from titan corpses, right? You know how that works? ‘Cause last I checked, this thing’s flesh is harder than steel.”
+
+To emphasize her point (and also to double check if maybe she’d reached the necessary strength threshold), she shot a bone out into the side of the giant corpse. Callan yelped and jerked back, but same as before, nothing happened. The bone just stopped when it hit the skin, unable to pierce through. Pyre clicked her tongue and retracted the bone. Even over 100 strength wasn’t enough, it seemed. “See?”
+
+Callan looked slightly horrified at her actions, which she thought was weird when, by his own word, humans regularly stabbed the dead titans and drained their blood. He really had no room to be judging her for her treatment of the corpse.
+
+Apparently she’d spoken out loud, because the ghost scowled. “We do rituals first,” he insisted. “To show them proper respect.”
+
+“Really.” Pyre’s voice was flat.
+
+“…Well, we do for the angels,” Callan corrected a little sheepishly.
+
+“Damn. Poor demons.”
+
+“ …They did try to enslave humanity.”
+
+Ah, so the angel and demon war hadn’t just been about hating each other’s guts. Humans had been involved. Somehow, the revelation didn’t actually surprise Pyre that much. Considering humans were the “default species” of the system, she’d expected there to be some sort of history there. She was mostly surprised that humans had been alive that long ago—it must’ve been interesting for them to live alongside literal titan pseudo-gods.
+
+“Anyway, now that we’ve established we don’t care about stabbing the demon corpse, you got any clue how to break through the skin? How do you guys do it?”
+
+“It—It’s not supposed to be that difficult?” Callan’s brows furrowed, and he floated closer. “I mean, from what I’ve read, they just cut through and add a few lines to siphon the ichor out. I’ve never heard of the flesh being so… hard.”
+
+“Great, so Fred just happens to be the one dead titan I can’t draw ichor out of.” Not that she could’ve used it seeing as she was unable to use magic, but she could’ve stored it or something. There had to be other uses for the stuff, considering what a commodity it was.
+
+Plus, while she currently couldn’t eat dead flesh, on the off chance she one day gained the ability, she was absolutely going to eat Fred first thing. She couldn’t really do that when she couldn’t even bite through the damned demon’s skin.
+
+“How did you find this place to begin with?” Callan asked, curious. Pyre hummed.
+
+“That’s the thing, I didn’t. I woke up here.”
+
+The ghost frowned. “In the cavern?”
+
+“No, I mean I woke up in Fred’s stomach.”
+
+Callan didn’t say anything for a long time. When he finally did, his voice was weak. “…What?”
+
+Pyre waved her flesh at the corpse she was resting against. “Yep.” She popped the ‘p’ for emphasis. “Woke up in a pit with a bunch of other flesh lumps, ate them, then climbed my way out. Turns out it wasn’t a pit. We were fighting to death in Fred’s stomach the whole time,” she added with a chuckle.
+
+The ghost listened silently, brows furrowed in concentration. Pyre could practically see the wheels in his incorporeal head turning as he ran through her words. She studied him closely. “I’m guessing,” she began, “that that’s not how it usually goes.”
+
+Callan exhaled. “No. No, it’s not.” He rubbed his forehead. “Or, well, not anymore.” The ghost began drifting back and forth again. “That’s how the first descendants of the titan demons were born, at least based on the myths, but it was just that first generation. It should’ve stopped a long time ago.”
+
+“Maybe Fred’s a late bloomer,” Pyre suggested. The ghost shook his head.
+
+“That’s not possible. It was a curse,” Callan explained. “When the demons realized they weren’t going to win the war, they swore that even if the angels killed every last one of them, their flesh would live on. When the last of the ancient demons died, a spell caused all their bodies to birth new species of demonic descendants. It would’ve activated on all the corpses at the exact same time.”
+
+He drifted closer to Fred, raising a hand as if to touch only to draw away at the last moment. He closed his eyes in concentration.
+
+“I think… I can feel magic. Very old magic.”
+
+Pyre gave the ghost a long look. “You think someone could’ve used magic to freeze the corpse? Stop that spell from activating?” She’d already suspected magic was causing the flesh to harden, so it didn’t seem like that far of a stretch.
+
+Callan nodded slowly. “It’s possible.” He floated back, glancing at the cavern around them. “This whole place is covered in warding spells,” he murmured. He turned back to Fred. “But I’ve never seen a spell do something like this for so long. It would have to be very, very powerful magic.” He sounded a little mystified.
+
+“Okay,” Pyre began, “but if the spell was keeping everything in here frozen or whatever, then why did the curse activate now? Did it wear off or something?”
+
+The ghost shook his head. “I don’t think so? If it did, the other spells would’ve worn off too.” His voice slowed, hesitating. “Maybe… maybe someone tampered with it?”
+
+Both of their gazes shifted upwards. There, at the highest point in the mound, light beamed down from the perfect hole carved into the ceiling. The ray landed right on top of Fred’s torn-open stomach.
+
+“…Was that there when you climbed out?”
+
+“Yeah.” Pyre hummed thoughtfully. “There’s a barrier over it, though.”
+
+The ghost squinted at her. “How would you know that?”
+
+“I climbed up.” The demon’s voice was blunt. “What did you think all those stab marks in the walls were?”
+
+Callan opened his mouth, then closed it again. He shook his head. “You know what, I’m not even gonna ask,” he muttered. He cleared his throat. “Anyway, it’s possible someone could’ve broken inside, then put the ward back up when they left. But they’d have to be really, really strong—both to break in and to mimic the original spell. And I can’t think of a reason why they’d do that in the first place.”
+
+That was the real kicker, wasn’t it? Clearly there was some weird shit going on, way more complicated than she’d ever expected back when she’d first woken up in the flesh pit, and so far she had no idea what any of it meant. She’d thought her shattered soul was a big enough mystery on its own. Now, apparently, her physical body’s “birth” was also some grand puzzle. She really couldn’t catch a break.
+
+For now, Pyre extended part of her flesh, growing a few internal bones as support so she could rummage through her bag. After doing a quick check to make sure the evolution crystals were still there—it would suck to lose them before she hit the level threshold—she tugged out Pax’s map.
+
+The demon doubted they were going to figure out what was going on right now, so she made the executive decision to not spend more brain power on it than necessary. So far, at least, her apparently weird birth hadn’t affected her, and as long as it continued not to, she had other stuff to worry about first.
+
+“Well then, it sounds like we don’t know shit.” She pointed her eyes at the map. “Since I’m stuck here healing anyway, we might as well figure out where we’re heading.” She pointed a bone at the X. “I’m guessing you know what roads there are.”
+
+Callan frowned, glancing at Fred again. “You’re just… moving on?”
+
+“Oh I’m filled with curiosity, but we do need to figure out our route. Once that’s done, you can go back to studying the big demon corpse.”
+
+The ghost didn’t look totally convinced by her logic, but he nonetheless drifted over and peered down at the paper. “Uh, well, we’ll have to cross the Gravestone Mountains,” he began slowly. He pointed to the west end of said mountain range. “We could go through the Lightning Pass. It’s the most consistent path. We’ll end up near the border, but then we can travel south until we’re out of Ravarn and go from there.”
+
+It was a good thing she had the map in front of her or she would’ve understood none of what the ghost had just said. “Gravestone Mountains,” Pyre repeated. “Very ominous.” Lightning Pass wasn’t much better, to be honest.
+
+“There’s a lot of storms in the mountains,” Callan explained. “It’s, uh, pretty dangerous.”
+
+“Sounds fun.” Pyre carefully rolled the map up, which involved nudging it along with the blunt end of a bone, then deposited it back into her bag.
+
+She settled further back, using Fred’s dead body as support, and relaxed. “Anyway, I need to heal. I’m just gonna lay here and rest for a bit. You go study the dead demon or whatever.”
+
+Callan seemed more than eager to take her up on the offer and immediately drifted over to Fred’s corpse again. Pyre amused herself by watching the ghost dart about like a kid with a new toy, circling all the way around several times in an effort to study every inch of the ancient titan.
+
+At some point, Callan started floating higher up, clearly hoping to view the corpse from above. Pyre briefly considered warning him about the whole “ripped open stomach” thing, but by then it was already too late. The ghost’s face suddenly became very pale, and he looked like he wanted to barf if only he could. Pyre snorted.
+
+“I did say a bunch of flesh lumps fought to the death in there. What did you expect?”
+
+After that little hiccup and another smaller one when Callan saw the empty eye sockets, though, it was smooth sailing from there. The ghost floated, taking note of everything while also attempting to untangle whatever complex spell had been cast on the corpse, and Pyre laid back and let [Regeneration] do its job. It was actually kind of fascinating to watch her own flesh grow back. It kept the demon occupied.
+
+A few days later, she decided she’d healed enough and was ready to leave.
+
+It wasn’t a full recovery, mind you. A bit of flesh still had to regrow, and she was down one eye, but it was enough for her. Frankly, she was impressed with how quickly [Regeneration] had worked. It probably helped that the sloth bonus had been active basically the whole time.
+
+“So we’re just… leaving?” Callan sounded a little put out.
+
+Pyre raised an eyebrow at the ghost. “You’re the one who said the wards would keep this place hidden. We can always come back later.” She’d been considering using a stone to block the hole in the hill or something, but according to the ghost it wasn’t necessary. Supposedly one of the spells made people instinctively avoid the area, which was how it had remained hidden for so long. Only those who already knew it was there could actively seek it out.
+
+Callan nodded slowly, but he still didn’t look too happy about leaving his best “research material” behind. Pyre just snorted and continued forward, her bag swinging from a bone on her side. Personally, she was glad to be moving again.
+
+“Come on,” she said. “I want to see what’s in those mountains.”

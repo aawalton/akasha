@@ -1,0 +1,245 @@
+---
+id: b50e355a-9dd7-53b0-a97a-a0fb5eebe1f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Besieged Arrival"
+slug: 0042-chapter-27-besieged-arrival
+partOf: ends-of-magic
+position: 42
+ownLength: 2953
+unit: words
+ownProgress: 2953
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2728404/chapter-27-besieged-arrival"
+royalRoadId: "2728404"
+markedReadAt: "2026-06-29T20:08:36.922Z"
+---
+
+The Heirs tailed off on their practice as they approached their destination. None of them were expecting their next challenge to be easy or pleasant, and they wanted to get some leisure time in while they had the chance. Training had built upon their skills, but there were only so many Developments you could earn outside of combat.
+
+Aarl cooked, Sarah read, Stella played with magic, and Nathan and Khachi talked. He told the cleric most of what Sarya had said, especially the parts about how Davrar had changed from its original purpose. It seemed pertinent to Khachi's search for virtue to understand the true history of the world. Beyond that, Nathan just wanted his input.
+
+The wolfman’s response was troubled, his eyes on the cloudy nighttime sky. “Our quest continues, but I find the path growing uncertain before my eyes.”
+
+“What do you mean?” Nathan asked. He didn’t think these revelations significantly altered their goals. “If anything, we’re on more certain ground now. We deal with the blight, and we’re one step closer to getting a conclave and pushing through the changes we want. Those changes are going to be limited, but we have a better idea of the true limitations now.”
+
+Khachi pointed at Nathan. “I refer to the conclave. We do these deeds for a single conclave. We have one chance to hit our target. But the more I learn of the Questors, the greater my doubt grows. You stopped me from freeing slaves when we first approached Esebus, and it was the righteous decision. Due to our subsequent success, the entire continent of Esebus will be better.”
+
+Nathan nodded, seeing where Khachi was going with this. “Right, and the same thing will be true of Davrar. We work with the Questors because they're our path towards actually fixing things. We won't be able to fix everything, but the Endings - those we swore to end. We’ll ask for that and see where we end up.”
+
+The wolfman met Nathan’s eyes, pupils glowing gold. “Are the Endings the deepest evil on Davrar?”
+
+The question was earnest, and it made Nathan pause to consider. “They wipe out civilizations. Kill everybody. What could be worse?”
+
+“The Endings happen once in a hundred generations,” the wolfman replied. “Other evils occur to every person. Mind magic. Soul Eaters. The Blight. These are evils that plague Davrar for no purpose beyond the entertainment of the Questors. If we can only hit one target, which evil should be slain?”
+
+Nathan didn’t have a quick answer. This wasn’t an idle philosophical debate with no impact. This was something that mattered. The entire point of what they were doing was to convince the Questors to change Davrar for the better. To stand up as NPCs and complain that the game was evil, and ask for a morality patch.
+
+Which is worse? Cyclical apocalypses or the existence of mind control? If we can only get rid of one, which do we pick?
+
+When he answered, it was slowly, measuring every word. “Both. We’ll want advice from Sarya and see which arguments land. This isn’t a case where we have a limited amount of capital to spend. We genuinely need to convince them that things need to change, and a coherent argument will include all of that.”
+
+“To stare the ghoul in the eye, why would they agree? The Questors already tolerate these evils; why should they countenance change?”
+
+“They probably don’t think about it,” Nathan replied, spitting out the words. “Davrar does a lot of harm, and they’re part of it. But none of them feel responsible for it, so they’re able to ignore it. It’s just the way things are to them. But Sarya seems to think that if we get all the Questors together and confront them, they might realize continuing that evil is a choice, and do the right thing.”
+
+Khachi hummed doubtfully. “They failed to be better before. From Sarya's stories, Davrar has become worse.”
+
+Nathan nodded tiredly. “I don’t know. I hope. There’s not much else we can do. It’s been thousands of years since then. Maybe they’re ready for something new. Maybe they’ve come to care for the mortals.”
+
+The wolfman chuckled darkly. “I cannot imagine Ogarius holding sympathy for us mortals. He transformed people into monsters, and the seeds for that spell were planted long before we arrived. The only answer to that evil is judgment.” The word resonated with the world, taking on an extra weight when spoken by the cleric.
+
+Nathan blinked at his friend, confused. "What was that?"
+
+The cleric shook his head thoughtfully. "Something deeper. The edge of an Insight I must explore." He waved it away. "There are many who delight in their evil."
+
+“We’re not trying to convince Ogarius,” Nathan replied. “We can’t convince everybody, and it would be stupid to try. We need to convince enough to push through the decision. Then if Badud’s grid causes a problem, it’s not our problem, it’s a Questor problem.”
+
+Khachi nodded slowly. “It is the indentured again. Questors do evil, but it is more important to change the system than to challenge the evil directly.” He had a thoughtful look on his face. “Unless challenging the evil is how you change the system.”
+
+“But that’s not true here,” Nathan replied, then caveated. “At least, we don’t think so. We don’t know enough. Let’s see what Henrish is like. It’ll be our first experience outside of Sarya and Badud’s grids. Maybe we’ll end up travelling across Davrar and punishing evildoers. Or going back to Gemore and helping them with the Ending. But let’s try this first.”
+
+“All we must do is survive the challenges before us.” Khachi’s words were wry. “Should every attempt fail, I’ll become a god and begin smiting. That should summon their attention at least.”
+
+Nathan laughed, though it was dark humor. “Let’s keep that as a last resort. They’ve killed gods before. But if we don’t have any other options, I’ll help guide your wrath.”
+
+They shared the moment under the night sky, looking up at the world spread overhead and thinking about how they could make it better.
+
+–
+
+“A harmony of bells have blessed our voyage,” Eolinne said a few days later as they cleaned up from breakfast. “We are far past the waters I know, and I do not know how to evade the beasts here. But we have not even faced a redeye, much less a leviathan of the deeps.”
+
+“We’ve got a lot of protections stacking up,” Nathan replied. “My antimagic works against most magical senses, and the new counters to scrying might also contribute depending on the type of monster.”
+
+Eolinne pursed her lips. “Then my voyage home will be a harsh melody.”
+
+“Will you leave us in Helmaris?" Sarah asked. "My bones say that Sarya would have you stay there to carry us to our next challenge.”
+
+That statement made Eolinne pause in surprise before recovering her balance. “That would match her desires.” She admitted grudgingly. “I do not normally wait for the agents I transport, but you are no mere agents. I will ask."
+
+“How much longer until we arrive?” Aarl asked. “We’re getting close, aren’t we?”
+
+Their captain waved an idle hand. “No more than three days. I wonder at the port of Helmaris. I have never been here before. I do not know what song to listen for, or if it will be a trial to find safe anchorage.”
+
+“We’ll find out soon enough,” Nathan answered. “This is the last chance for practice or relaxation. As soon as we get there, it’s going to be back to it. Does anybody have specific training they want to do?”
+
+“We’ve hit all of the easy targets,” Sarah said dismissively. “We should discuss our plans for the Blight.”
+
+Nathan nodded in reply. “We don’t know as much as we'd like, but we’ve got some starting points. If the Seal is corrupted, it will cease cleansing the mana and instead actively corrupt it. It’s not just going to be a continent full of undead; it will also be poisoned by ambient undead mana. Kind of like fighting the undead army outside of Ardglass.”
+
+Sarah frowned at that. “Must Stella preserve her mana? If the local mana is corrupted, she won’t be able to absorb it?”
+
+Stella shook her head, though the motion was uncertain. “My mana breeds more of itself. But - I don’t know how it will affect my spellcasting. But Nathan has a skill for that, true?”
+
+“I do,” he confirmed. “The Living World says that my antimagic will drain corruption and cleanse blight. With my aura, I think that means we don’t have to worry about the corruption aspects so much. Khachi can deal with anything that gets through, I think his class is supposed to be the more typical solution to this kind of challenge.”
+
+The wolfman nodded. “I recall the blight outside of Ardglass. I broke the gloom with a prayer then, and I can do so again.”
+
+“The biggest challenge is going to be fighting for however long it takes us to get across the entire continent,” Nathan noted. “It’s going to be days and days of combat. We won’t be able to rest. I think the normal approach is to have a large enough army that you can rotate people, but we obviously can’t do that.”
+
+Stella cocked her head. “We’ll be flying. What kind of blasphemous undead can challenge us in the air?”
+
+“The Blights aren’t a pushover for Questors,” Nathan said. “If it were as easy as flying in there, then it wouldn’t be worth much. I think there’s going to be stuff we’ve never seen. Brox made mention of obelisks of bone, and Sarya mentioned living shadows and flesh tyrants. Then there are liches. I wouldn’t be surprised if there are flying undead, too.”
+
+“Khachi and Nathan can fight for days if need be, but we cannot,” Sarah replied. “We will need to discover a way to rest without fighting. We hid from our enemies underground in Esebus. Is there cause to doubt that strategy here?”
+
+Nathan shrugged. “I don’t know. We should test it before we need it. If we can’t figure out how to camp safely, we need to turn around and come back, then try again until we figure out a way to make it work. This is going to be a marathon, not a sprint.”
+
+They spent a little bit longer brainstorming specific strategies, but most of it came down to “dig a hole, disguise it, and see if they could deal with any problems that came up.” The actual battle plans were similar. They knew how to fight undead, but there were going to be new kinds of enemies in the Blight that they’d have to figure out on the fly.
+
+Especially since Sarya seems to think that giving us a full briefing would be too much help.
+
+Sarah announced that she could see their destination later that day, but it took them another couple of days to actually approach Helmaris. Nathan had been curious to see another example of a city managing the gigantic waves that Davrar’s oceans produced close to land. Both Litcliff and Keihonia had ancient artifacts that calmed the waves, but Kankus had used a brute-force wall of magic that allowed ships to pass, but not water.
+
+Helmaris did none of those things. Eolinne skillfully navigated them through a narrow channel and into a large bay. There were still waves beyond the bay mouth, but they were closer to things that somebody could surf than the kind of thing you’d expect from an apocalyptic hurricane.
+
+The city of Helmaris was somewhat disappointing in comparison to Keihonia and Esebus. But those cities were the most developed metropolises they’d seen on Davrar, and compared favorably with their equivalents on Earth. A better parallel for Helmaris was Litcliff, which also resembled a somewhat grungy port city stuck into a harsh coast.
+
+Helmaris was built up the side of a steep cliff, with a small set of breakwaters jutting out into the water to provide the last bit of shelter around their docks. Those docks let out into a small flat area that abutted the cliff, but after that, the city was mostly vertical. There were a few sets of lifts that moved continuously up and down, powered by a giant cable that didn’t stop moving. Nathan expected the whole thing to be powered by magic, but once they got closer, he could see that the elevators were powered by a massive set of wave-powered floats that ratcheted giant gears to keep the cables moving.
+
+“Why aren’t they using magic?” Stella asked, having seen the same thing Nathan had.
+
+“They are,” Nathan answered, reaching out his senses towards the city as the Grace of the Mists maneuvered towards the berthing spot that a portmaster was waving them towards. “But only passive magic. A bunch of key pieces are enchanted for strength and durability, but there’s nothing active. That’s true for the rest of the city, too. I can barely feel any active enchantments at all. Cooking stoves, some forge enchantments. Basic healing magic. Not much else.”
+
+Stella just looked more confused. “Hear me, do they have any magical Insights?”
+
+Nathan didn’t answer, preoccupied with the welcoming party that was waiting on the dock. Judging by first impressions, there were two merchants and two soldiers, each being one human and one orc. They flanked somebody Nathan thought was Henrish. The man was muscled like a bodybuilder, the heavy leather outfit he wore doing little to disguise his stature but making him look like a blacksmith. He had a few enchanted items that stood out against the mundanity of everybody else present. It was nothing dramatic, an enchanted hammer that would enhance the strength of any blows, a few charms to protect him from hostile magic, as well as an undervest that would let him teleport short distances.
+
+With a start, Nathan realized he was figuring out how difficult it would be to kill Henrish. It hadn’t been intentional, just a natural part of evaluating the Questor. His conclusion was that unless the man had some unexpected abilities, it wouldn’t be very challenging. The man didn’t carry himself with the lethal grace of an experienced fighter, and he didn’t have the mana pool of a mage. Nathan would disable his items and he'd be effectively helpless.
+
+The soldiers stood to his left and right like bodyguards. They were both big, the orc and the human difficult to distinguish except by the shade of exposed skin. They bore little in the way of magic but were armored in heavy forged metal. They carried swords at their hips, but their primary armament appeared to be heavy crossbows with metal limbs and a quiver of solid metal bolts for ammunition. The weapons were equipped with a crank-and-pulley system to allow for rapid reloading. They were also brutally functional, unadorned but with brutal pull weight. The two merchants were also large, dressed in heavy leather outfits to ward off the ocean chill. They looked ready to dive into heavy labor.
+
+The Grace of the Mists drifted to a stop against the dock, and the gangplank touched delicately down on the dock. Eolinne appeared next to Nathan and spoke in flowery words. “I am Eolinne, and the winds have made me captain of the Grace of the Mists. I represent Sarya in these dealings and in delivering these adventurers to you.” She waved a hand to the Heirs, and Nathan stepped forward.
+
+“I am Nathan Lark, and these are my teammates. I killed Badud on my own, and we just killed Badud, Ogarius, Sussu, and Amoh in Esebus.” He paused expectantly.
+
+The presumed Questor looked up, like he was reading an invisible notification. “Verified truth. I am Henrish, and I’m glad to welcome you to Helmaris. Follow me if it matches your desire, and we will speak of Questor matters. Eolinne, these quartermasters are eager to speak with you, to hear of the broader world and opportunities for trade.”
+
+She dipped in an elegant curtsey. “I would welcome the harmony of discussion.” She turned to Nathan and dipped her head. “I bid you sweet song and success in your quest. I will remain here until I receive other commands.”
+
+Henrish’s lips thinned, but he didn’t object, just watching the Heirs as they said quick goodbyes to Eolinne and left the ship behind to follow him deeper into the city.
+
+“It’s you, then,” Henrish said as soon as they left the docks. He shot Nathan a surveying glance, seeming unimpressed. “All of the elders believe you’re a catalyst of change.”
+
+Nathan couldn’t do anything but shrug. “That’s the goal.”
+
+Henrish harrumphed at that and gestured them onto a broad elevator platform that headed upwards.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 9
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 8
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 8
+
+Veracity 3
+
+Whiplash 1
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

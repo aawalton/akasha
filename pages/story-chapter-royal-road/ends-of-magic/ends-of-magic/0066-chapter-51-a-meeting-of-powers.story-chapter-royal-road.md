@@ -1,0 +1,205 @@
+---
+id: bf43e856-bd66-598a-89d9-9115514257c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: A Meeting of Powers"
+slug: 0066-chapter-51-a-meeting-of-powers
+partOf: ends-of-magic
+position: 66
+ownLength: 2703
+unit: words
+ownProgress: 2703
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2980643/chapter-51-a-meeting-of-powers"
+royalRoadId: "2980643"
+markedReadAt: "2026-06-29T20:09:22.913Z"
+---
+
+The Heirs had an audience as they came in for their landing on the grassy hilltop. The gathered Questors looked up from their own conversations with interested expressions, but only one of them stood to greet Sarya. He - they? - were short and wide, almost a dwarf in appearance, with a thick, lustrous beard and a matching mane of hair, both intricately braided. Gemstones were threaded into those braids, matching the rainbow shine of knee-length enchanted scalemail that was the match of any piece in Sussu’s vault.
+
+“Colborn,” Sarya greeted him. “I’m glad you came.”
+
+The short Questor chortled and spoke in a deep, resonant voice. “I’d go to any length to mend our faults, if there is a verified chance to set it right. I only hope this effort is not known as just another failure of our cause.” He passed a calm gaze over the Heirs. They stood awkwardly to the side, unsure whether to introduce themselves. “You’ve fancied them up. Good looks all throughout. Need a better belt for this one,” he reached a hand into his coat and pulled out a tough leather belt with a sturdy clasp and offered it to Nathan.
+
+He took it and replaced his own belt once he confirmed that it wasn't magical, just a fine piece of craftsmanship. “Thank you, though I’m not sure how long it'll last. I’m Nathan, and this is my team.” He introduced the rest of the Heirs by name, watching as Colborn’s smile grew. The other Questors sitting around the fire hadn’t gotten up yet, but their conversations had lapsed, and most of them were listening to the conversation.
+
+“Proper manners are to be rewarded in turn,” Colborn said, then snapped his fingers back at the other Questors. “Up, you forsaken scoundrels. They're the cause for our reunion, so move your ancient bones. Let’s have a proper introduction to the new sparks of the era.”
+
+“By Edes, that’s not us anymore, is it?” grumbled one of the other Questors, a skeletally thin and bald wizard carrying a staff topped with an orb as large as her head. It swirled with silver mist, and Nathan had only felt that kind of wizardry once before, when Badud had reversed time outside of Halsmet. Her mana pool was similarly enormous, and the level of wizardry enhancement present in it was a cut above what even Badud had possessed before Nathan stripped it from him. She gave a formal bow to the Heirs, letting go of the staff, which stayed perfectly straight and upright. “Mirus of the Silver.”
+
+“Of the Silver Tower of Kalis,” corrected one of the others primly. The speaker was a plump woman with a cracked and shattered divinity in place of a mana pool. It was significantly larger than Khachi’s, a towering pillar of broken power in the aether. She carried a half-dozen large books chained to her belt, each suspended by divine magic to avoid dragging her down. “You leave off the most impressive part of your title, Mirus.”
+
+“And you forgot to introduce yourself, Grand Hierophant Phryne,” Mirus shot back easily. “And stop staring at Khachi, it’s rude.”
+
+“Bah, I’m just trying to understand how in the entropy-dammed universe he’s achieved a godhead. Those don’t exist anymore.” She levelled a stern gaze. “You stole it, yes? From Deiman.”
+
+“I made it my own. I have turned it back to its true purpose,” Khachi corrected, his confidence unshakeable.
+
+From this angle, Nathan couldn’t help but compare his friend’s divinity to the Questor’s. Phryne's was larger and composed of multiple types of power - different gods, if Nathan was to guess - but it was damaged so badly that power was constantly leaking out into the aether. He didn’t know how she was holding it together, but it had to be crippling to do so.
+
+“We’re here to support them, not to steal their Insights.” The voice was raspy and stern, and came from a suit of blackened armor that towered over the other Questors. Nathan was pretty sure there was an equally large man inside, but the enchantments on the armor were so dense that the empty suit of armor could likely run around and fight on its own if necessary. It bowed to them. “A blessing of Deiman on our meeting. I am Vesh, and I’m present to keep these caustic idiots from detonating this whole mission.” He jerked his head towards Sarya. “Though it seems my student’s undertaken that task well enough.”
+
+Sarya rolled her eyes so hard that her whole head moved in a circle, but it was with a fond smile. “I learned from you, just as you had lessons from me.” Then she collected herself. “But if you must fight, then we have already failed.” She gestured towards the Heirs like a magician unveiling a trick. “They must carry this fight to gain the stature needed for the upcoming conclave.”
+
+Mirus pressed her lips together. “We’ll reserve our intervention for the most extreme magics. Badud is here, and I will be ready to undo any time-fuckery he attempts. The elemental trio may also be joining our enemies, and we’ll need to be ready for them. As accomplished as these mortals are, our peers are a challenge beyond what they should face.”
+
+“I’ve faced Badud’s time magic before,” Nathan said. “It didn’t beat me then, and that was almost a thousand levels ago.”
+
+“And a few class Developments,” Sarya clarified. “I told no lies when I said they killed Badud’s grid and cleared a blight without support. They didn’t even have information on what those threats entailed. Can any of us claim to have done so, below level one thousand?”
+
+“They’re below one thousand?” Vesh asked worriedly. “Sarya, you place untested metal…”
+
+“We’re all over a thousand now,” Stella broke in, irritated. “Killing a blight will do that. How many have you killed?”
+
+“Twenty-three,” Vesh answered offhandedly, though his attention was elsewhere. The helm rotated to Phryne. “They need the power of resurrection. Can you…”
+
+“I hold that power already," Khachi interrupted the armored Questor.
+
+The eyeslits turned back to the Heirs. “Ah. Luck is not your sole power, then.” If he was annoyed at being interrupted twice in quick succession, there was no trace of it in his voice.
+
+There were almost twenty more Questors watching the Heirs, but they were keeping their distance while the first group talked. As far as Nathan could tell, the watching Questors were equally decked out in powerful artifacts, and the four mages among them had mana pools to rival any Nathan had felt. But they acted awed by the Questors that the Heirs were now joking around with.
+
+These people are legends even among Questors, aren’t they?
+
+The conversation drifted into more casual waters, with Sarya and Colborn subtly steering the discussion to make the Heirs feel at ease. They were both leaders in their own way, and for all that the short and fabulously dressed Questor didn’t seem like the most powerful Questor around, he was unquestionably the one that everybody listened to.
+
+Eventually, Nathan got to meet all of the Questors who’d been hanging around the edges of the gathering. They’d all come in response to the call for this war and the subsequent conclave, and were all excited to revisit a cause they’d long thought lost. Over and over, Nathan encountered a mix of doubt and hope from people who wanted him to succeed but didn’t see a path to victory. All he could do was thank them for coming and promise to win. He also dutifully filed away the names and what he knew of their capabilities, just in case he needed it again.
+
+But if this is what’s on our side, then who’s coming to answer Sussu's call?
+
+The Heirs were also all on their best behavior, though in many cases that included being as impressive as possible. The Questors were curious about all of the Heirs’ builds, especially for Khachi and Stella. They didn’t probe too hard, and Nathan felt a feather-light touch of a social skill when somebody asked him just how he’d made antimagic into a viable build. The Questor blinked and wandered off in a slight daze, and Nathan looked over to see a wink from Colborn.
+
+Nathan was grateful for the short and fabulous Questor's assistance. He felt a bit like a piece of chum thrown to very curious sharks, and it was only because of Colborn’s assistance that those sharks were staying polite. It got easier when Aarl started pulling out various relics from Sussu’s vault, drawing in an audience to ooh and aah over treasures that had been stolen from an enemy. There were enough people who knew the history of enough places that they could identify the source of most of the items, even though they came from every era of Davrar.
+
+It was still a relief when the Questors of the Ashen Accord started teleporting in a few dozen at a time, appearing with muted pops of displaced air. They seemed surprised to find so many Questors already present, and then intimidated when they realized just who those Questors were.
+
+Kaelis broke away from the crowd and approached, leaving Slick behind to yell orders at the milling Questors and get them all moving in the same direction. Garna, Ushia, and Brox joined Sarya, though Brox kept someone between him and Vesh at all times. Garna pulled out a privacy enchantment to confer with her gridmates quickly.
+
+Nathan had to suppress a moment of paranoia once again. Sarya and her grid would not betray the Heirs. Or if they did, it wouldn’t be here and now. It would be later, on the battlefield of politics. Everybody here was hoping to win the war, with the possible exception of Nierna, who watched the elder Questors with an apprehensive look on her face.
+
+Colborn greeted Kaelis jovially and loudly. “I applaud your stewardship of my Accord, Kaelis. It is a blessing of the commune to see you engaged in such a vital conflict. This is the kind of action that we founded the Ashen Accord for, when Davrar was first opened to the masses.” All other conversations seemed to die naturally, leaving Colborn the opportunity to give a speech. He swept a broad hand towards the assembled crowd, his deep voice seeming to embrace his audience. “You have been told this is not merely another war, that we now stand beyond the grand game of Questors. Here you see that for the truth. We elders do not bother ourselves with petty squabbles.”
+
+His voice grew conspiratorial, “I will welcome you into a middling secret. The visible contests of the game are struggles for renown, for publicity, for the rare and hollow comfort of being seen.” Many of the younger Questors - including Liren and Vira - shifted uneasily at that, but Colborn responded with a knowing smile. “It is not shameful. You hunger for fame, and in this era, there is no way to achieve such a mask except by distinguishing yourself in such games.”
+
+Colborn raised his hand towards the sky above, a teacher making a point to his class. "True power is seldom seen in the wars of Questors. The real players of Davrar have no patience for masks, instead reaching for the bare faces beneath. We contest domains whose secrecy is their first defense, places and continents where true wealth is generated, and new Insights are forged.” Now it was the turn for the elder Questors to shift uncomfortably and shoot concerned glances between Colborn and his audience.
+
+I don’t think they appreciate him being so blunt about it.
+
+But he wasn’t done. Colborn clenched his raised hand into a fist, his presence suddenly towering over the gathered crowd. “But beneath that is another kind of conflict, where the philosophy of Davrar is decided. Where we reach for the levers beneath the board; the rules of resurrection, the bounds of godhood, the place of mortals in the order of things!” He thundered out the last line, and the crowd was utterly silent as this giant of a man ran flaming eyes across them.
+
+“That is what this War touches. Not merely who wins a polite massacre, not merely who controls what powerful city, but whose vision of Davrar takes root. Remember that when the spells begin to fall. This is a way beyond spectacle. This is choosing the future of the game, and in victory we will inscribe our will into the bedrock of history!”
+
+The Questors erupted into cheers, and the Heirs cheered along with them. A detached corner of Nathan’s mind noticed that he was cheering without having decided to do so, and that his sudden fierce dedication to the war wasn’t really his own. He agreed with it, which is probably why it had affected him. But still, there had been a mental effect imbued into the speech, bundled along with a buff of some kind. It was a surge of energy, a feeling of light muscles and sharp purpose. Defeat felt impossible, retreat unthinkable.
+
+If all of the Questors are feeling this, then they’ll fight to the last.
+
+The roar of the crowd lasted some time, and as soon as it started to ebb, Colborn yielded his place to Phryne. Three books rose from her belt and opened wide, and three parts of her divinity flared to life. “Quenfi, Lady of Cleansing Fire, I call upon your legacy to kindle our courage and temper our will. Edes, Witness of Promises, may your ashes mark a shared vow to hold fast our cause. Dravik, Stone beneath the Storm, by your legend, carry our strength past its limits when the world quakes. Joined by your names, let this host strike with burning courage, stand against every terror, and outlast the breaking sky!”
+
+Divine mana flowed from the aether to saturate the crowd of Questors, stiffening their spines and imbuing them with strength and durability. It wasn’t the golden flaring of Khachi’s blessing, but a twined braid of wrathful red, implacable grey, and patient blue. Nathan was enthralled with the different divine mana types. It was like his first time seeing new elemental mana types all over again.
+
+Then a familiar divine fire awoke beside him, and Khachi’s voice rolled out over the gathered Questors like distant thunder. It held a new depth, an echo of the divine purpose they’d witnessed at the Crater of Fallen Gods. “By my hand, I name this battle righteous, and I set valor in your hearts. I bless your arms with the strength to break the wicked, and your shields with the power to turn aside the cruel. Let no blow be wasted, and no wound go unpunished. Go forth and enact my judgment upon evil.”
+
+The power that flowed out of Nathan’s ally wasn’t the same as what came from Phryne. It was richer and imbued with shards of divinity that sank into every gathered Questor like embers to fan their spirits. It enhanced every aspect of what they were, and Nathan felt a sting of disappointment that he couldn’t share in the blessing.
+
+“Now that’s a blessing,” Mirus stage-whispered into the awed silence.
+
+Kaelis interrupted the awed quiet with a yell. “Positions!” A notification from Davrar accompanied him.
+
+Permanent Talent 1: Magical Destruction 4
+
+Permanent Talent 2: Immortal Body 8
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 9
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 8
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 4
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 6
+
+Aura Mastery 4

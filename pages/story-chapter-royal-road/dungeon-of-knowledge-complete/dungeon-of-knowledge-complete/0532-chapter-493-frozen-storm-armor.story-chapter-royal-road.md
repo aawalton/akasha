@@ -1,0 +1,195 @@
+---
+id: 33124d55-7a3e-57e6-aef4-54c1a217a063
+page-type-slug: story-chapter-royal-road
+title: "Chapter 493: Frozen Storm Armor"
+slug: 0532-chapter-493-frozen-storm-armor
+partOf: dungeon-of-knowledge-complete
+position: 532
+ownLength: 3590
+unit: words
+ownProgress: 3590
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2898352/chapter-493-frozen-storm-armor"
+royalRoadId: "2898352"
+markedReadAt: "2026-06-29T20:30:20.162Z"
+---
+
+Once again, Malika let her eyes search out each of her friends, one by one. A nervous gesture, she knew; an attempt to reassure herself that they were ok. Her eyes lingered longer on Ali as she worked to clean up the mess – they had almost lost her during the first attempt, and during the second run, Malika had made the mistake of assuming they had the Devastation Rush figured out. That error of judgment had almost gotten her friend killed again. It was truly terrifying just how unstoppable he had been, the ethereal form of the Death Knight, ignoring all barriers, monsters, and armor on his way to impaling whoever had the lowest health. It was a miracle that the soul magic infused through her body had provided something substantial to block his rush.
+
+Still, getting cut almost in half had not been fun, but at least she had her potent defensive skills and her healing. If Ali had been impaled, there would have been nothing left. Yet she had found herself outmaneuvered in battle, having foolishly put her teleport on recharge at the worst possible moment. It had been a rude awakening, learning that he could recover his recharge faster than she could use Martial Disruption, and she had been forced to watch helplessly as the mighty Death Knight had charged Ali down.
+
+It’s a good thing she’s so quick-witted under pressure.
+
+In hindsight, Ali’s solution was obvious, but Malika was one hundred percent certain she could not have come up with something that unexpected and effective in those mere fragments of a second she had while facing imminent annihilation.
+
+“You ok, Malika?” Ali said, glancing her way.
+
+“Uh, yes. I’m just glad you didn’t get… you know. Impaled.”
+
+“Me too,” Ali said, smiling at her. “I mean, technically I did. Not your fault. Come, I think his corpse is buried under that pile of ice over there. I’m sure you’ll want to appraise his armor before I deconstruct his body.”
+
+Malika got to her feet and trudged through the ice beside her tiny flying friend, not even bothering with the tiny stamina cost to walk in the air above it. “Thanks, Ali,” she said quietly.
+
+“For what?”
+
+“Not being mad at me. I let you down – I used my teleport early and couldn’t get to you when he charged…”
+
+“It’s ok,” Ali said, “besides, I didn’t want to see you get chopped in half again. One Malika is plenty.”
+
+Despite the grim joke, Malika had to chuckle. Her own thoughts remained frustrated, awash in bitter self-recrimination. Even though Ali seemed fine, she couldn’t shake the feeling that she was being let off too easily. She should have been prepared – better prepared – and she was certain Rezan would have berated her for her shortsightedness.
+
+“If you know what you’ve learned from the fight, then it is a success,” Rezan’s voice echoed in her mind, as if summoned by her thoughts to immediately contradict her assessment.
+
+That’s been happening a lot, she thought, frowning at the implications. Is it my Ancestral Soul Memories? It’s like they’ve been… grafted into me, I guess. Interwoven. It had to be; there was no other explanation. Whenever the memories came to her, they genuinely felt like her own memories, like they were nothing special, but they were far too on point, prescient even, to be mere recollection. While the memories came with remembered experiences, seemingly rooted in the past, they always seemed to apply especially well to the challenges immediately in front of them. It was uncanny.
+
+Even in this fight, Rezan’s voice had come to her with complete lucidity, reminding her to use her eyes and prodding her to remember to use her allies as assets in a battle. When she had used Infinite Perception, something had most definitely changed. Something had happened during the fight, while watching Haverron use his abilities, an unconscious shift, a sense of enlightenment lurking just below the surface of her mind.
+
+It felt like a breakthrough. I wonder… As she helped Ali and some of her minions shift the snow and ice to uncover Haverron’s corpse, she opened her notifications with more than a little curiosity, her mind scanning the glowing blue-white letters that she found waiting for her, hovering in the inner dojo that represented her soul.
+
+Eyes of the Soul has reached level 164 (+9).+90 attribute points.Martial Artist has reached level 84 (+3).Soul Strike has reached level 85 (+3).Healing Mantra has reached level 99 (+4).Perfect Body has reached level 58 (+2).Soul Armor has reached level 74 (+4).Enlightened Evasion has reached level 63.Divine Step has reached level 71 (+2).Second Wind has reached level 46.Clarity has reached level 58 (+2).Soul Sight has reached level 70 (+6).Dancing has reached level 15.
+
+Dancing? Why did dancing level up? She mused over it for a few moments, but nothing obvious sprang to mind, so she put the puzzle down for now. Something to work on more actively, I guess?
+
+Her eyes hovered over her Healing Mantra for a moment; something there felt incomplete. However, whatever it was, it was close – like she had earned an insight from healing herself back from the brink, and she was now on some threshold of understanding, but not quite there.
+
+If that’s not it… Her eyes drifted lower, pausing on Soul Sight, and then, she felt it: a sudden clarity as her mind finally grasped what Infinite Perception had been feeding her the entire fight.
+
+It was his eye magic!
+
+It was only then that her chime sounded. Hovering against the back wall of her visualized dojo, fresh lines of glowing text began to unfold.
+
+Requirements met for skill advancement. Ancestral Soul Memory: Rezan Jin.Perception has surpassed 350.Vitality has surpassed 350.Wisdom has surpassed 1800.Faced Haverron’s Mortal Gaze in combat and understood it.Observed at least three different forms of eye magic.Successfully disrupted a raid-level ability with Martial Disruption at least ten times.Saved someone below 5% remaining health.Survived Life Drain.Soul Sight gains Preternatural Acuity.(Soul Sight’s base range is doubled.)Soul Sight gains Health Sight.(You can see life energy. You can disrupt abilities activated with health.)Choose one advancement.
+
+Health? Range? Malika would likely have accepted any advancement to Soul Sight, but she had unlocked two, and both were fantastic. Soul Sight already boasted an impressive one-hundred-and-eighty-six-foot radius, and Preternatural Acuity would double that. But health-sight was an extraordinary ability, typically the exclusive domain of priests and other back-line healers. While she had to rely on intuition and her external perception skills to judge wounds and injuries, Ali could use her priests and acolytes to monitor health directly. It was true that she had learned to be effective even with her limited senses, but it was this ability that Haverron wielded in combat to such devastating effect. He could intelligently choose the weakest target because he could see their health. It had been a martial ability, not a mana-based spell, and Infinite Perception had revealed exactly how it had worked.
+
+She eyed the advancement requirements then, suddenly quite certain that the person below five percent she had saved had been herself when Haverron had cut her in half.
+
+Is it because Soul Sight is also eye magic? She didn’t know, but the insight she had gained by learning how Haverron used his Mortal Gaze must have been the trigger that had caused Soul Sight to advance. And it’s not just sight, she thought, noting the second part – she could disrupt abilities that used health energy to power them. The additional range offered would be an impressive advancement, but the health sight gave her many more options.
+
+Eager now, she accepted the advancement.
+
+The instant she accepted it, the sensation of enlightened understanding coalesced, and every single being around her blossomed with clouds of crimson energy waves, like a fluid flowing through their bodies. Calen and some of the rock beetles had the least. Beside her, Ali was a towering pillar of energy, clearly still benefiting from the vitality boost she had forced during combat, but it was the sheer density of vital energy pulsing within Mato and the Carnage Berserker that really drew her eyes.
+
+Suddenly, the Blood Shaman dropped a totem, whether by habit or because Ali asked her to; Malika was not certain, but she saw the skill. Infinite Perception reacted to the blood magic, and Martial Disruption quivered as if hovering on the brink, ready for her to wield.
+
+Wait, blood magic too? She had expected she would be able to disrupt abilities like Mato’s health spend for Bestial Combat, but she had just assumed blood magic was an alternative way to power spells without using mana. She had not expected to be inundated with a flood of understanding and the ability to disrupt it.
+
+“Ali, can you ask your berserker to use his attack power boost?”
+
+“Uh, sure?”
+
+Even before Malika had time to voice a response, she saw the rapidly shifting red waves within the giant troll, and Tol’brekk’s skill manifested before her widening eyes. She pulsed a little stamina and released Martial Disruption, firing a ripple of soul magic from her eyes to wash through the berserker. He grunted as if gut-punched, and a small amount of blood splashed onto the ground by his feet. The skill unraveled suddenly without effect.
+
+She returned the berserker’s glare with a grin and a thumbs-up. “Thanks!”
+
+Tol’brekk just growled and drew the freshly spilled blood up into his axes with an angry flourish. He knew what she had done.
+
+“That’s new,” Ali said, regarding her with curious eyes.
+
+“I can see health,” Malika explained. “I can disrupt health-based abilities, too.”
+
+“Wow, that sounds amazing!”
+
+Malika smiled at Ali and shoved a large chunk of ice to the side, finally revealing dark mithril plate armor below. It was most certainly an incredible skill. Already she found herself examining the Death Knight’s corpse, validating that no life energy – or undeath – remained. Up till now, she healed intuitively, relying on Healing Mantra to tell her when her target was full. Now she would be able to tell in advance how much they needed, dramatically changing her approach to healing.
+
+I’ll still need to double-check how differently the undead appear… Malika felt little urgency about the unanswered question, though it wasn’t like the undead were scarce in this Crypt of Kings, and she would have her answer the moment they moved on.
+
+So, finish up with the advances. One sixty-four. That’s really something, isn’t it? As she and Ali’s minions dug through the snow and ice, she distributed her attribute points. She spent twenty-two on dexterity and twenty on wisdom. Considering her remaining balance carefully, she allocated seventeen to endurance and sixteen to perception. Even as her body shifted and her armor skill strengthened, her vision and perception through Soul Sight crystallized with further sharpening clarity. Hmm, nice! Finally, she spent ten points on vitality, leaving three for strength and two for intelligence. That should do it.
+
+It took a few more minutes of sweaty work, but soon she had extracted a pile of gear she needed to appraise. Hopefully, none of it was cursed. It was unlikely that any of them would be able to use the Death Knight’s armor, not without substantial modifications. Still, Ali had many diverse minions, and failing that, she was certain that Thuli would definitely be interested.
+
+Carefully, she picked up the Death Knight’s sword to appraise it, marveling how well-crafted it seemed, and how light it felt for a weapon that was longer than she was.
+
+Haverron's Devastation, Mithril Runeblade – level 210Haverron’s dark blade is covered in runic inscriptions that glow with a cruel blue light, as if illuminated from within. The blade gives off a palpable aura of cold. Damage: Physical, Slashing, Ice+230% to Physical damageAdded Physical damage on hitAttacks gain +85% additional damage as Ice+115 Strength+92 Dexterity20% chance to cast level 53 Onslaught on hitRequirements: Strength 735, Dexterity 420Quality: Unique.Value: 593 gold.Two-Handed – Sword – Mithril
+
+“Oh, wow,” she exclaimed.
+
+“What?” Ali asked.
+
+“This is a unique blade,” Malika said.
+
+“Is it cursed?” Mato asked, eyeing it with suspicion.
+
+“No,” Malika said, suppressing a grin. It was amazing what personal experience with cursed items could do for one’s vigilance. “It’s super light, though.” To be more accurate, it was heavy: a sword needed weight to be effective, but it was far lighter than it would have been had it been forged from steel. It would be a remarkable weapon in the hands of an appropriate wielder, but the only ice swordsman she knew was Aiden, and she wasn’t sure if he could even use a greatsword, let alone one this large.
+
+“Mithril?” Calen asked.
+
+“Yup,” Malika answered. It was much more suited to the size of Ali’s berserker. Although, as she glanced at the hulking troll squatting nearby, still throwing dagger-like glares in her direction, she shuddered at the thought of such an enormous monster wielding a sword with a twenty percent chance to proc Onslaught.
+
+I don’t even know if he can use anything other than axes, she thought, but it was hard to miss the glowing aura of radiance following Ali’s troll bone warrior around, the result of him still waving two unsheathed Holy Avenger swords like the hordes of undead they’d just slain hadn’t been nearly enough to satisfy him. Kir’mogan taking to the pair of holy swords so readily had been a surprise, but trolls respected power, and those swords proudly bore Azryet’s name.
+
+“Hey, Ali?”
+
+“Hmm?”
+
+“Can your berserkers use swords? Or do they just use axes?” At Malika’s question, the dagger-glares from Tol’brekk vanished so fast she almost snorted at the comical display, and his eyes locked onto the greatsword in her grasp.
+
+“They can use swords; I think they just prefer axes. They’re seen as more brutal, or something. Why?”
+
+“Maybe when he hits level two hundred and ten, you can give him this?” She offered the greatsword. “We could also reset Haverron and kill him a few more times, now that we know how, and see if it drops again.”
+
+“Wow, this is a very impressive sword,” Ali said. In the background, Tol’brekk was vigorously nodding his head, like a child who’d just been asked if he wanted a warm chocolate-chip cookie. “I’d like to learn it, but… the Well is far more important.”
+
+“Sure,” Malika said, turning her attention to the armor pieces. They could consider boosting their options by farming the dungeon after their primary objective had been completed. Calen almost certainly had a plan by now, and by the time they came back, they’d undoubtedly be stronger.
+
+How did I jump from fleeing for my life to farming Haverron? I must be mad. Grinning to herself, she picked up the first armor piece.
+
+Grim Visage of the Frozen Storm – level 215A sleek, ages-darkened mithril helm. Runes of power have been etched around the angular eye slots, emitting an aura of potency that can be felt from several feet away. +117 Strength+93 Intelligence+46 Vitality+5 to skill level of Sword skills+35% to ResistanceGrants level 71 Unholy Might skillRequirements: Strength 753, Intelligence 430.Quality: Rare, Set.Value: 238 gold.Head – Full Helm – Mithril
+
+The Grim Visage was a full helm, covering everything, save for the narrow slot for the eyes, and it had been brushed to a matte finish. Either age or some forging process had darkened the mithril, dulling the characteristic silvery shine. Impressive. She set it aside carefully.
+
+Malika manhandled the heavy breastplate toward her for closer inspection.
+
+Battle Plate of the Frozen Storm – level 212Similar to the standard Devastation Knight full body plate armor, this piece features several personalized enhancements, including more potent ice magic enchantments, prominent mithril ridges, and several short spikes designed to deflect blows from the most vulnerable areas.Armor: 3052.+35% to Armor.+32% to Resistance.+116 Strength.+92 Dexterity.+46 Vitality.35% chance to cast level 61 Ice Barrier when hit.Requirements: Strength 742.Quality: Rare, Set.Value: 257 gold.Body – Full Plate – Mithril
+
+A second rare piece, the Battle Plate, was similar to many they’d looted off roaming Devastation Knights already; however, it was larger and better enchanted. Malika eyed the Ice Barrier enchantment closely. If Thuli could learn that one, he was going to find himself in even greater demand very quickly.
+
+Rime Encrusted Gauntlets of the Frozen Storm – level 211Dark, articulated heavy gauntlets that grow thick ridges and razor-sharp spikes of ice. The right gauntlet has been fitted with a short but sturdy length of chain intended to be attached to a weapon, preventing the wielder from being disarmed in battle.Added Ice damage on hit.Added Death damage on hit.+115 Intelligence.+92 Strength.+32% to Attack Speed.15% chance to cast level 71 Arctic Blast when hit.Requirements: Intelligence 739, Strength 422.Quality: Rare, Set.Value: 203 gold.Hands – Heavy Gauntlets – Mithril
+
+“These all look like they were made as a matching set,” Malika mused, although there was no sign of a mana signature on the pieces. “Ice and death damage on this one.” She set it aside and picked up the boots.
+
+Dread Walkers of the Frozen Storm – level 195Sabatons made from beautifully articulated plates of mithril.+107 Strength.+85 Dexterity.+42 Wisdom.+40% to Movement Speed.+4 to skill level of Movement skills.Grants level 71 Free Action skill.Requirements: Dexterity 683, Strength 390.Quality: Rare, Set.Value: 188 gold.Feet – Sabatons – Mithril
+
+“Oh, my…” Malika exclaimed upon appraising Haverron’s boots.
+
+“What?” Calen asked, bending over and peering curiously at the boots, even though he had no ability to inspect items.
+
+“This has forty percent to movement speed, plus four to movement skills, and grants the Free Action skill.”
+
+Calen let out a slow whistle. “Unstoppable.”
+
+The armor set was all unbelievably good, providing a veritable wealth of skill procs, granted skills, and high-level enchantments. From personal experience, she knew that the ice barriers and arctic blast procs were incessant and annoying. While Malika had a storage ring full of lower-level versions of all these items, it was great to have the pinnacle of the Devastation Knights’ equipment. Likely, she needed Ali to learn them soon; otherwise, she was going to run out of space.
+
+She reached out to pick up two rings, one dark and disturbingly ominous, and the other glittering like fresh frost.
+
+Arctic Band of the Frozen Storm – level 200A shimmering, silvery band that remains cold to the touch.+110 Intelligence.+88 Wisdom.+44 Vitality.+112% spell power to Ice skills.18% chance to inflict level 127 Ice Vulnerability curse on hit.+5% of your damage is returned as Mana over 30 seconds.Requirements: Intelligence 700.Quality: Rare, Set.Value: 299 gold.Ring – Mithril
+
+An ice mage’s dream, Malika thought, turning the ring over a few times, enjoying how the silvery reflection was warped by the frost that continually formed on the surface.
+
+“Hey, Ali,” she said, sharing the appraisal. “Good for your ice mages, maybe?”
+
+Ali studied the ring for a moment and then her gaze locked with Malika’s, her eyes widening in amazement. “An Ice Vulnerability curse and mana leech? I just wish my trolls were high enough level to use it already.”
+
+Malika just smiled, retrieving the three others she had collected from the horde of Death Knights they had to kill just to access Haverron’s plaza. “Here you go, these are a few lower-level variants.”
+
+“Oh! That’s enough to learn them!” But then Ali paused. “Hey, what does the ‘set’ mean in the Quality? That doesn’t show for me when I use Identify on it.”
+
+“I think it’s just that they’re made to match,” Malika said, holding the mithril ring up to the breastplate lying on the ground to show how closely the colors and designs matched. “Notice how all the armor pieces have the same dark finish, and they all have ‘Frozen Storm’ in the name?” But as she drew the ring toward the breastplate, both items pulsed with a soft, subtle glow.
+
+Huh? What is that?
+
+She pulled the ring back, and the glow faded, only to return when she brought it closer once more. On a hunch, she touched the ring to the breastplate and used Appraise a second time.
+
+Arctic Band of the Frozen Storm – level 200A shimmering, silvery band that remains cold to the touch. One of five items in the Frozen Storm set.+110 Intelligence.+88 Wisdom.+44 Vitality.+112% spell power to Ice skills.18% chance to inflict level 127 Ice Vulnerability curse on hit.+5% of your damage is returned as Mana over 30 seconds.Frozen Storm (2 piece): +50 Vitality.Frozen Storm (3 piece): +20% to Curse damage.Frozen Storm (4 piece): +50% spell power to Ice skills.Frozen Storm (5 piece): +4 to skill level of Ice skills.Requirements: Intelligence 700.Quality: Rare, Set.Value: 299 gold.Ring – Mithril
+
+“Oh, wow, Ali! Look at this!” Malika exclaimed, sharing the hidden set bonuses.
+
+“That’s incredible,” Ali gasped, “It only gets the benefits when the items are close? Do you think Thuli or Lydia can learn to make set enchantments?”
+
+“I think you have to wear multiple pieces to activate the hidden bonuses,” Malika said. At least that seemed obvious once her Appraise had revealed the details. It was pure serendipity that she had noticed it at all; every time she had looted the other Death Knight corpses, she had stored the armor pieces one at a time and never really looked at them other than separately. “We should definitely let the crafters know about this.”
+
+Malika smiled at Ali’s enthusiasm as she deconstructed all rings and armor spread out across the snow and ice, totally absorbed in what her Grimoire was inscribing.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,139 @@
+---
+id: a9f0d011-ff76-5755-9ca2-b49ec2e636ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 474: Farming Zulkora"
+slug: 0511-chapter-474-farming-zulkora
+partOf: dungeon-of-knowledge-complete
+position: 511
+ownLength: 1630
+unit: words
+ownProgress: 1630
+publishedAt: 2025-12-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2844615/chapter-474-farming-zulkora"
+royalRoadId: "2844615"
+markedReadAt: "2026-06-29T20:29:35.661Z"
+---
+
+Basil shivered at the sound of the enormous Pit Lord’s booming laughter as he taunted the sea of monsters that assaulted him. His ugly black pitted warglaive whistled through the air, reaping treants like wheat before he detonated his hellfire-empowered stomp attack yet again, setting some of the larger ones alight and knocking a half dozen rock beetles flying.
+
+“That blast wave of hellfire is decimating those treants,” Malika observed.
+
+“Yup,” Mato said. “They’re vulnerable to fire, alright.”
+
+“Balanced by the fact that his blood corruption doesn’t work on them,” Seth pointed out. No doubt, the blood corruption wasn’t something that bothered the necromancer and his unnervingly large army of undead as they observed the fight from the dangerous side of the Zulkora Rift.
+
+Basil had most certainly downed several protective elixirs to combat the effects, should he get too close to the action, but that wasn’t the plan. He downed another, just to be sure.
+
+“Don’t worry, we won’t get any closer,” Malika assured him.
+
+“What is blood corruption?”
+
+Basil glanced down at the sound of the soft, almost musical voice to find a blue ooze crawling along between his boots.
+
+“Not something you have to worry about, little one,” Mato said, smiling gently at Naia.
+
+“Are we ready to go?” Basil asked, still shaking off the nerves. He was platinum-ranked, but invading a hostile realm with a non-combat herbalist class was far outside his comfort zone.
+
+“Just waiting for our scout,” Tol’brekk replied, his gravelly voice drawing Basil’s attention to the small army of trolls grouped up near Seth’s undead.
+
+“Who did you get, Ali?” Malika asked.
+
+“Willow,” Tol’brekk said. “Aah, here she is now.”
+
+Moments later, Basil caught sight of the lithe form of the Beast Tamer sprinting through the Gate, running at a ground-eating pace while her enormous companion, Cami, loped along beside her, tongue lolling out like a dog going for a run in the park.
+
+“Sorry for making you wait,” Willow said. “I thought you guys would use Calen, but it seems he’s off scouting in the northern mountains. What are we looking for?”
+
+“Aah,” Basil said, taking his cue. “Gravity-affinity plants for Ali.” At her raised eyebrow, he pulled out the copy of the book Ryn had given him. He’d had to learn Draconic just to be able to read it. “It says here that we should be able to find some interesting possibilities if we make our way down into that valley, but it’s probably going to be a fight.”
+
+“Right,” Mato said, grinning broadly and pumping his fist in the air. “I’m counting on it!”
+
+“Ok, let’s go,” Willow said. “Cami, we’re looking for any plants that smell a little like those Sandwyrms.” The oversized Timber Wolf shook her head and sneezed, clearly not impressed, but they took point, and the entire ridge around Basil swarmed after her.
+
+“Keep to the middle of the pack,” Tol’brekk suggested. “We’ll protect you.”
+
+“Right, thanks,” Basil said, shifting to walk beside Seth as the entire group poured into the forest.
+
+They were no more than ten steps into the forest when it came alive, writhing with all manner of Treants, each and every one lashing out with heavy boughs and making the ordinary undergrowth shake with the thumps of heavy impacts.
+
+Tol’brekk echoed Mato’s roar as the melee broke out in earnest. Heavyset ape-like monsters swung from the spreading boughs that bore thick ropes of hanging lianas, levitating broken branches and rocks as weapons, while hundred-foot-long snakes loosened coils from the canopy above to grapple with the fighters below. Bright red and yellow parrots the size of Timber Wolves soared among the towering trunks to ravage whatever their talons could find.
+
+“Holy…” Basil whispered.
+
+“Keep your head down,” Seth murmured, waving his obsidian rod like an orchestra conductor. Crashing through the undergrowth, skeletons and zombies danced their violence to his tune.
+
+But this was no ordinary exploration group by any stretch of the imagination. Even with Basil’s decidedly extraordinary experience as an adventurer, he was certain nobody had ever seen anything like this. The field of battle extended far out among the trees, far further than he could see, brought to his ears as a chaotic roar and crash.
+
+While Ali had chosen not to join the team in person, she had provided a sizeable contingent of trolls, many of whom could be seen ripping through the trees with crimson-stained greataxes or standing at the back, filling the air with the soft swishing of deadly ice. Of the army of Sylvan Archers she had sent, none could be seen among the trees. However, the withering hail of glowing arrows and the disorienting flickers as they used their bizarre movement skills were unmistakable.
+
+Interspersed throughout were skeletons and zombies in uncountable numbers and infinitely varied forms, fighting beside the bluish, glowing specters of greater undead. Along the ground, and through the branches, squelched more oozes than Basil could count, and all of them unleashed their attacks in a chaotic melee that only the truly gifted could even begin to parse. Yet, Basil had not seen one of his friends’ minions hit one another even once.
+
+“Ali, send in the Guardians,” Seth called.
+
+From behind Basil, the ground began to rumble as the massive forms of enormous Forest Guardians burst through the trees, making vines and weeds burst forth with explosive growth.
+
+Basil gasped.
+
+“They’re too low level to be on the frontline out here,” Seth explained. “But Ali wants them to get some levels, and their healing auras are ridiculous with three summoners in play.”
+
+“I bet,” Basil managed, not quite managing to hide his shock at the display of raw power.
+
+Seth grinned at him, “It’s a lot, isn’t it?”
+
+“Aah, yes,” Basil agreed, his wide eyes still glued to the chaos.
+
+“Hey, is this worth anything?” Seth asked, pointing to a ring of small brown toadstools with fluorescent orange rims around their caps.
+
+Basil identified it immediately.
+
+Orange Glowveil – Mushroom – level 127 (Earth / Poison)
+
+“Oh, wow!” Basil exclaimed, the continuous surrounding clash of battle instantly all but forgotten as he fell to his knees and activated his defensive skills to protect himself against the orange haze that clung to the mushroom ring like a miasma. “These are incredible! I’ve never seen anything like this!”
+
+“We’ll keep you safe, and you make sure our trip is profitable,” Seth chuckled, stationing three large troll skeletons to guard him and then shouting something into the distance that Basil ignored. He carefully dug around the mushrooms, making sure he got the entire fungus, including the underground growth, and wrapped it all carefully in a collection bag.
+
+“Got it,” Basil said. This should be enough for Ali to add the imprint, he thought, his mind racing with the possibilities that having a reliable source would unlock. Poisons, armor potions, and anti-toxins for sure, but that’s just the beginning! As long as we can separate the essences cleanly… hrmm. Multi-phase distillation? But what catalyst is strong enough? I hope Eliyen knows the trick.
+
+Basil yelped suddenly as a flash and a thump jerked him out of his thoughts to find one of his bodyguards had batted a flying monster off its collision course with his prize. Immediately, he stored it in his ring.
+
+“Good, let’s move up,” Seth said. “Let me know if you see anything worth collecting as we go.”
+
+“Ok,” Basil said, brushing the dirt off his knees.
+
+Time passed in a rush, and Basil couldn’t rightly say if it had been one hour or ten. What he did know was that his storage ring was crammed full, gorged on the bounty of this Zulkora realm. Everything was incredible, fascinating, and he hadn’t even explored more than this one forest so far.
+
+“I’ve got a lot more space,” Seth said, taking Basil’s newest find – a gorgeous orchid with earth-affinity aerial roots and nature-affinity blossoms. “Don’t slow down.”
+
+“Are you sure?” Basil asked.
+
+“I brought extra storage rings along and I’m collecting all the most interesting corpses for Ali,” the necromancer said, grinning broadly. “I can’t wait to raise some of this stuff, it’s amazing!”
+
+Basil shivered. “Right.”
+
+“Hey, Basil!” Willow called from the front line as a strange lull fell across the forest. “You’re going to want to see this.”
+
+With several previously invisible Sylvan guards and the three skeletons Seth had assigned to him in tow, Basil hurried up to where the Beast Tamer stood. “What is it?”
+
+Wordlessly, Willow pointed, and Basil followed the finger upward. There, he encountered something his brain refused to accept.
+
+“Huh?”
+
+“Give it a moment,” Willow said, not taking her eyes from the phenomenon even for a second.
+
+Basil shaded his eyes from the bright sunlight and stared. Whatever hung there, hovering in the air, was enormous. It was brown and lumpy, and gnarled root-like objects protruded from its underside. Above, it seemed to be covered with a green and brown wavy carpet. It looks like an uprooted mountain… wait, are those actually roots?
+
+In an instant, his brain figured it out, and the bizarre phenomenon suddenly revealed itself for what it was. “That’s… a… forest?”
+
+“Yes,” Willow chuckled. “An entire floating forest. Identify one of the trees.”
+
+Basil did so immediately.
+
+Zulkora Floating Baobab – Elder Tree – level 157 (Gravity)
+
+Basil stared at it in silence for a while before it registered fully. If his class passives weren’t doing so much heavy lifting because it was a plant, there would have been no chance for him to even identify it. “Ali! We found it! Gravity trees!”
+
+“Coming,” Tol’brekk said, and one of the troll mages nearby shimmered and vanished, replaced by a golden-winged Fae. “Oh, wow, those are amazing!” Ali’s voice finished.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,115 @@
+---
+id: 2caa6939-4e24-502d-beed-7a55c22d4362
+page-type-slug: story-chapter-royal-road
+title: "Chapter 292: A Dungeon’s Dungeon (Part 2)"
+slug: 0327-chapter-292-a-dungeon-s-dungeon-part-2
+partOf: dungeon-of-knowledge-complete
+position: 327
+ownLength: 1870
+unit: words
+ownProgress: 1870
+publishedAt: 2025-06-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2386962/chapter-292-a-dungeons-dungeon-part-2"
+royalRoadId: "2386962"
+markedReadAt: "2026-06-29T20:22:24.975Z"
+---
+
+“Well now, there’s a thing,” Val’korr said, shuffling up to join Ali, staring at the newly spawned dungeon as if he were witnessing a ghost.
+
+As far as Ali knew, nobody understood how the Blind Lich commanded dungeons, but she had just duplicated it here within her domain – she had a minion dungeon.
+
+But the pain had not entirely vanished, and it took her a moment to realize that the excruciating sensation, tearing at her from within, came from the Affinity Aura of soul magic the raid witch doctor was emitting. With a flourish, Ali created a huge wall of barrier magic, supported by her domain, blocking the continuous assault of soul damage, and observed curiously as her domain-attached construct began leeching mana from it and grounding it into her domain.
+
+The unveiling of the mechanism behind Nevyn Eld’s minion dungeons had many complex implications and would require a lot of consideration later, but for now, Ali began by examining the shrine from the perspective of her troll, curious to see what it could do.
+
+Temple of Aman Rak A crafted shrine artifact, providing domain propagation and support abilities. Owner: Troll Witchdoctor.Teleportation Locus [Active].Mana Siphon [Active].Mana: Deconstruct an unresisting or inanimate target, imprinting its structure. Range: Domain.Mana: Summon an imprinted item or creature.Mana: Apply a Domain Enhancement.Experience: Create a dungeon denizen, attaching a willing external entity to the domain. Mana: Recharge the shrine’s mana reserve. 40,000/40,000Created by Nevyn Eld.Shrine – Artifact
+
+“Turn off the locus,” Ali said immediately, and the Teleportation Locus feature switched to inactive. While she was certain Nevyn Eld was still indisposed, it wasn’t wise to advertise her location to him as clearly as providing a convenient teleportation destination. Then she shared the shrine description with her friends, knowing Calen would be curious, and most likely Val’korr would be too.
+
+Having read Nevyn Eld’s book, she knew the three things that he believed constituted a dungeon, and it was therefore no surprise that she found the three first skills facilitating that. Her troll could deconstruct things to learn imprints, create imprinted objects, and it could make bosses. And she could clearly see it propagating the domain. However, there was one feature she had not expected.
+
+“So that’s how they became raid bosses,” Calen said, bent over his notebook, scribbling furiously.
+
+This shrine had a method to incorporate non-summoned entities as dungeon monsters. Throughout the Temple of Aman Rak, they had all wondered how the troll champions, Mok’freja, and Joraa had become bosses, but she hadn’t realized it was so blunt. The dungeon took them as minions, and then presumably enhanced them with domain magic. She wondered what Tol’brekk or perhaps Nevyn Eld himself had told them to convince them to submit their agency to the dungeon and become minions, but likely she would never find out.
+
+Instead, she tried the second option and was immediately presented with a set of choices.
+
+Imprints (Max: 30)1- Grim Totem2- Moss3- Troll Ice Mage4- Troll Bone Warrior5- Troll Blood Shaman6- Troll Witchdoctor7- Giant Troll Blood Berserker 8- Frost Weaver9- Frost Dragonet10- Vampiric Nightwing11- Spirit Nightwing12- Blood Thrall13- Armor (Body)14- Boots (Feet)15- Ancestral Bone Mask16- Charm (Hands)17- Frosted Sapphire Drop18- Frostweave Robes of Ice19- Carnage Bindings20- Jewelry (Tusk)21- Axe22- Orb (Off Hand) 23- Shield (Off Hand)24- Bone Knife (Main Hand)25- Wildflower26- Tree27- Bloodsteel28- Orchid29- Winter’s Desolate Celerity (Wand)30- Stone
+
+Ali studied the options, and the magic of the shrine that produced them, with the greatest care.
+
+“It’s just like my Grimoire, only smaller,” Ali said, sharing the options. There were a fixed number of imprints recorded, and no way to know if it could be expanded. While there appeared to be some level of categorization, like her own Grimoire, the categories themselves seemed to be less inclusive. Each class of troll was a separate imprint, the variations only covering class and skill level differences, height, race, and gender – at least from what she could read in the imprints.
+
+“Oh, that’s a relief,” Malika said.
+
+“What is?” Ali asked.
+
+“The Grim Totems were summoned,” she said. “I was afraid they killed trolls to make each one.”
+
+“I think they killed the trolls anyway,” Mato answered grimly.
+
+Most of the imprints on the list were things Ali already knew; however, a few looked interesting. “Now, how are you going to grow your domain?” Ali mused. Grim Totems and Blood Moss would not cut it for a soul-affinity owner, but she definitely wanted to study it in action.
+
+“Peacebloom?” Malika asked.
+
+“Oh, that’s a good idea,” Ali said, eyeing the wildflower imprint. It didn’t contain the small soul-affinity flowers, but that was easy to remedy. Ali planted several patches of it and her higher-level Soulshade Blossoms and made her witch doctor deconstruct them until he learned the imprints. Then she watched in fascination as he grew his domain, encroaching further on hers by planting the flowers. He struggled a little with something Ali recalled from her lower-level days – uncontrolled variance – he couldn’t choose which flower variant he planted, so he had to make several before he got the ones he needed. It was an annoyance she was glad she no longer needed to deal with.
+
+Ali spent the next hour or so exploring the entire imprint list, studying the runic magic, and enhancing her notes as she went. The trolls she knew were all there, with no additional variants, but she found a bloodsteel armor variant she didn’t know, so she had him make it a few times and added it to her own Grimoire.
+
+She constructed a collection of troll tusk jewelry – rings and braids – and simply stored them for use by her minions. She didn’t know yet if she would spend an imprint slot to learn them, but she made sure she had enough in case she needed to later.
+
+It was when she got to the axes that she truly struck gold. Both of Tol’brekk’s ridiculously powerful greataxes were imprinted in the shrine’s list. Immediately, Ali had him duplicate them several times and added them to her Grimoire to the wide-eyed stares of both Malika and her own Berserker.
+
+Variant: Decimation Slash Labrys added to Imprint: Axe.Variant: Tol’brekk’s Bloody Axe of Carnage added to Imprint: Axe.
+
+“Thuli is going to flip out when he sees you can make those,” Malika said.
+
+“I bet,” Ali grinned. “I’ll make him a few to play with, maybe he can learn to make those enchants on other items.”
+
+“A happy Dwarf, who would have thought?” Mato chortled.
+
+“Shh, he might hear,” Malika chuckled.
+
+Ali finished up her exploration, discovering the Glacial Orb of Defense and the Grim Skull Fetish in the orb imprint, and several orchids and flowers she hadn’t learned while in the dungeon itself. She added everything she could to her own Grimoire, stashing enough copies of everything else she might want for later. Most certainly she intended to make those orbs for her ice mages next time they fought anything.
+
+She moved on from the imprints, having exhausted the full list, and examined the strange ability of this shrine to add external people or monsters to its domain. The only way to figure it out is to try, she thought, and called over a Bone Warrior.
+
+“Use the shrine,” she told him, instructing him which ability to use, and teaching her witch doctor how to activate the feature for him. Her link to her bone warrior was abruptly cut, and the troll appeared to her as a minion of her new pet dungeon. She could sense the connection to it by proxy via her witch doctor.
+
+“Give him domain enhancement,” Ali said. “Affinity Aura and Strength.”
+
+The fledgling domain of her sub-dungeon flared, imbuing its power to the bone warrior and he became a boss, just like that. The ground erupted with sharp spikes of bone that periodically broke off and respawned, with the shards swirling around as dangerously sharp blades. She reflected on her amazing foresight as the slivers of bone shattered in a continuous cacophony of cracking against her barrier.
+
+So that must be how Mok’freja, Kir’vella, Kir’mogan, and Joraa became bosses of the Temple of Aman Rak. It seemed simple enough, she had just never suspected such an ability existed, and already wondered if she could in effect teach it to her shrine by deconstructing this artifact. Not that she could see a reason to use it, but still.
+
+Bone affinity aura, she thought. It seemed this shrine had all the major affinities of the troll bosses for its Affinity Aura skill, and she was curious if she could steal them from it. “Let me deconstruct him,” she said, and her witch doctor allowed her to deconstruct the Bone Warrior.
+
+[Sage of Learning]Domain Magic analyzed: Attribute Enhancement (Strength).Domain Magic analyzed: Affinity Aura (Bone).
+
+Interesting, she thought. I wonder if I can teach it Elemental Storm…
+
+She quickly tested it out, summoning a Toxic Spitter and giving it Elemental Storm, and then having her dungeon deconstruct it. Inspecting the skill through her witch doctor, she found that the shrine had granted its own affinities to the skill, just like her class did. And with just a few minutes of work, she systematically extracted all of them for herself.
+
+[Sage of Learning]Domain Magic analyzed: Elemental Storm (Bone).Domain Magic analyzed: Elemental Storm (Ice).Domain Magic analyzed: Elemental Storm (Blood).Domain Magic analyzed: Elemental Storm (Soul).
+
+Well, that was unexpected. It had certainly been an exceptionally enlightening and fascinating exercise – and most productive, too. She had no idea if she would use all of these, or if she wanted to know what an elemental blood storm even looked like, but the options were certainly there if she needed them. She still had many questions – for instance, how did the shrine artifact gain affinities? Could they be changed, or were they permanently assigned at creation time? Nevyn Eld must be able to manipulate it, she thought, but she couldn’t see any mechanism that might affect those attributes.
+
+After spending the time to teach it several more domain abilities, and extract the new affinities for herself, she finally decided there was little else she could learn from the artifact. Unless she deconstructed it, but she wasn’t exactly ready for that, especially seeing the Pathfinders and the Elven Council wanted to study it first.
+
+But she couldn’t store it now that it was active, and so, even though it made her feel bad, she unsummoned her witch doctor, causing the small dungeon domain to collapse, dissipating into her own domain, and then she returned the artifact to her storage.
+
+[Sage of Learning]Domain Magic analyzed: Affinity Aura (Soul).
+
+Considering all her witch doctor had taught her, she summoned a replacement, but as she did, she felt a strange pull on her skills – a connection to something familiar.
+
+“It’s good to see you again, Seeker,” the witch doctor said as he materialized. “Did you learn what you needed from the shrine?”
+
+“Wait… you remember?”
+
+“Of course, Seeker,” he said. “I enjoyed being a dungeon for a while.”
+
+Ali stared at her witch doctor, rendered entirely speechless by an unexpected avalanche of thoughts, realizations, and questions that tumbled through her mind.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

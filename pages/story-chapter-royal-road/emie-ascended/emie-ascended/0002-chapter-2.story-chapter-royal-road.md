@@ -1,0 +1,179 @@
+---
+id: bd6e8945-c772-5043-8289-65fa5375bb3f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2"
+slug: 0002-chapter-2
+partOf: emie-ascended
+position: 2
+ownLength: 2462
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3454830/chapter-2"
+royalRoadId: "3454830"
+---
+
+I awoke on a bed of verdant grass, just a few short steps away from a blurry distortion in space that marked the entrance to the dungeon.
+
+For centuries, I’d been able to accurately gauge the passing of time. But with the loss of my affinities, I had no clue how long I’d been asleep.
+
+It didn’t matter all that much since I was in a safe zone and there were no other challengers on the floor. Rho had said as much right before I’d lost consciousness.
+
+Since the dungeon’s spawns wouldn’t enter a safe zone, I was pretty much as safe as I could be anywhere. I wouldn’t even need to retreat to my demesne to sleep securely.
+
+That didn’t mean I wouldn’t still use the space as a sanctuary. I absolutely planned to use it the same way I had in the previous realm – as a home.
+
+Knowing that I was safe and nothing was pressing that had to be done, I took a few minutes to think about everything that had happened immediately leading up to my ascension.
+
+Though I felt discontented by how quickly the realm had forced me to ascend once I reached the pinnacle of power, my emotions regarding the topic felt distant and dull.
+
+After a bit of mental prodding, I discovered that I could still feel the warm feelings of love toward my friends and family, but the more negative feelings of loss and sadness took actual effort to manifest.
+
+That was probably a good thing, I decided once I stopped trying to force myself to feel sad.
+
+While I didn’t like that something was obviously interfering with my emotions, I could understand the value in not having Ascenders too focused on what they’d left behind.
+
+Deciding to embrace the future and focus forward instead of looking back, I pushed myself into a seated position, only then noticing my change in attire. The sight made me sigh.
+
+To be fair, my new clothes weren’t as bad as the white shirt and linen pants that the simulation had started me with. But still, a set of thin, brown, stretchy leggings and a long, purple tunic was a far cry from the enchanted robes I’d ascended in.
+
+At least the boots looked water-resistant.
+
+[Tunic (Average)]
+
+[Pants (Average)]
+
+[Boots (Average)]
+
+Everything was of average make, which wasn’t all that bad. It was certainly better than trash or poor, which were the two lowest item qualities.
+
+It was obvious that none of the clothing was reinforced or enchanted in any way. In fact, I doubted the materials could even hold an enchantment.
+
+Looking at the generic item descriptions, I’d forgotten how little information the system here provided. The basics would work alright for now, but I would definitely need a better inspection skill if I wanted to be a crafter.
+
+Climbing to my feet, I examined my surroundings more closely. There wasn’t much to see, aside from a small weapons rack next to the spatial distortion and a fountain that provided fresh water near the center of the clearing.
+
+Beyond the clearing was a distorted space, marking the edge of the safe zone. The only exception was a hallway directly opposite the dungeon portal, which looked like a path leading into a forest.
+
+I saw hints of familiar flowering herbs scattered between the bamboo and hardwood that marked the edge of the path, and I was curious about how deep the flora extended. It likely wasn’t very far. Probably only a couple of meters on either side, I’d guess.
+
+That was still pretty wide for a hallway.
+
+Once I was satisfied with my initial examination, I pulled up my status to see what had changed.
+
+***
+
+Name: Emie NeohimTitles: Ascender, Contender Level: 1Evolution: None
+
+Core Skills: Demesne (Rare)Stasis (Unique/Common)Restorative Healing (Rare)Lightning Bolt (Common)
+
+Skill Slots (2/14):Divide Space (Unique/Common)Dimensional Anchor (Common)                ***
+
+I found it a little odd that my home realm was now listed as my surname, but seeing it there didn’t really bother me. It would ensure I always remembered where I came from.
+
+I was pleased to see I had fourteen general skill slots annotated, even if two had already been taken by utility skills. I’d only had ten in the simulation, and that was considered on the upper end of average for Ascenders.
+
+From what I remembered from my time in the simulation, it was exceedingly rare for any Ascender to have more than twelve skill slots, and eight to ten was more common.
+
+Natives usually started with a single core skill and four to six general skill slots. Occasionally, someone might manifest two core skills and/or seven general skill slots, but those individuals were extremely rare.
+
+An Ascender with twelve skill slots was even rarer, though, and usually resulted in a new Ascender Dungeon appearing with the Ascender.
+
+Which… Rho had mentioned something about.
+
+She’d also mentioned that her clergy (proof that she was connected to the goddess) would be able to recognize my status, though others would not. I sincerely hoped that her priests and priestesses were discreet. Otherwise, leading a relatively normal life might be a lot harder than I hoped.
+
+Considering Rho had mentioned the value of anonymity, I felt there was a good chance that my secret wouldn’t spread from her clergy. I hoped not, at least.
+
+Having four core skills would also make me stand out if it were known. Thankfully, even the best inspection skills wouldn’t be able to peek at my core skills once I filled at least half of my regular skill slots, which I could easily do by recovering a handful of my old spells – or magical skills, as this realm liked to call them.
+
+Like the core of a planet, core skills were located at the very center of one’s soul, with the general skills layered above. As the skills grew, so would my soul, thus generating additional space that could hold more skills.
+
+The goddess’s clerics might still be able to see the details of one’s core skills, but any non-divine inspection skills shouldn’t be able to see anything once my core skills were obscured by additional skills.
+
+I’d need to balance utility skills and new elemental seed skills, especially if I wanted to become a successful Enchanter. But before I started plotting out my future build, I really needed to see what my new body was capable of and test the limits of my current skills.
+
+Especially my newest one.
+
+To start, I moved my new body through a series of katas I’d learned in my previous realm. My body still felt weak, but there was an underlying strength in my new form that was undeniable.
+
+My frame was more robust, and I could feel how much denser my bones were compared to my old human body. I suspected that with enough essence, this body would easily overshadow even the Pinnacle body I’d developed at the peak of my power in my former realm.
+
+Feeling only slightly winded, I headed over to the weapons rack and grabbed the longer of the two available quarterstaffs. It was quite a bit larger than what I was used to, but it seemed more proportionate to my new body than the shorter option.
+
+With my preferred weapon in hand, I went through several forms that I’d used over the centuries. The movements felt good, like this body was made for such physical exertions.
+
+[You have learned the skill: Staves (Common)!Would you like to slot Staves (Common)?]
+
+I rejected the skill.
+
+Though slotting it would make using staves more intuitive, I didn’t really need the system’s assistance. Maybe once I reached the absolute limit of what I could manage on my own, I’d change my mind. But for now, slotting the skill seemed like a bit of a waste.
+
+Shifting to the next weapon, I grabbed a spear and repeated the process, going through the familiar forms I’d honed over centuries. Once again, I ignored the offered skill and moved on to swords.
+
+Like this, I worked through the available weapons. I was better with some than others, but I had at least a basic proficiency with nearly every weapon the dungeon had provided. At the very least, I wouldn’t have to worry about hurting myself if I decided to use something different.
+
+I had to practice with some of the weapons for a while before the expected skill offer appeared, but most were offered pretty quickly. It didn’t take long before I successfully made my way through the entire rack.
+
+I considered myself competent or better with about half of the weapons available, but I ended up storing the entire weapons rack, just in case. One never knew when a particular weapon might come in handy, after all.
+
+After finishing with the weapons training, I moved on to testing the skills listed on my status, starting with the first: Demesne.
+
+I began by probing the soulbound dimensional pocket with my mind. The space was significantly smaller than it had been before I ascended, but not to the degree that I’d feared.
+
+It was still smaller than when it was first soulbound, but there was still plenty of room to store anything I might need while also serving as a secure residence.
+
+Since I could manipulate the size and shape of the space with ease, I altered its circular shape so the bottom was perfectly flat, and the top of the space was about fifteen feet high with a slightly domed ceiling.
+
+That placed it just a little over twice my new height, which was just enough to make it feel spacious without being overly wasteful.
+
+From there, I altered the space into something roughly ‘Y’ shaped, with one long branch being set aside for a residence, another long branch serving as storage, and the smallest branch reserved for an eventual garden.
+
+It was the same setup I’d used in the previous realm, just on a much smaller scale.
+
+I might decide to change things eventually, but right now I craved familiarity, and this was the easiest method I’d come up with to gain it.
+
+Unfortunately, the space was still just a cold, dark, empty space housing a single rack of low-grade weapons.
+
+Because my boon gave me control over things like lighting, I increased the illumination and temperature throughout the space before entering my demesne in the section reserved for my future residence.
+
+“Oh, wow. I forgot how unsettling it felt to basically stand in the middle of a void,” I murmured before pausing for a response.
+
+When none came, I was reminded that my AI companion, Lisa, hadn’t made the journey with me. She’d been stripped from my system and installed as the new Dungeon Master for the Realm Dungeon I’d helped set up immediately prior to my ascension.
+
+Losing her was a blow since it meant that I was truly alone. But like my other losses, the emotions felt distant – like they belonged to someone else.
+
+Though it probably wasn’t the healthiest coping mechanism, I ignored the dulled emotions and focused on my current situation.
+
+While the space inside was gently illuminated, the void outside the pocket dimension seemed to almost absorb light – much like Rho’s dress had in the transitional space.
+
+I didn’t care to see the vast emptiness any more now than I had before, so I quickly altered the floor of the residential section to look like hardwood and used Divide Space to create a wall separating my future home from the rest of the space.
+
+I then changed the walls to look like gray-painted drywall, marking the dividing wall with a doorframe surrounding a separate embedded divider. Using Divide Space this way took a bit of effort, but I enjoyed the challenge, and I could feel my efforts pushing the skill in ways it might not have been meant to be used.
+
+I gave the domed ceiling a textured look, which was probably a little odd given its shape, but I didn’t mind. The effect would probably be hidden most of the time since the ceiling would serve as the light source for the space.
+
+The large, empty room still needed furniture and a bit of décor to make it really feel like home, but I was satisfied with the sense of comfort and familiarity that the space already provided.
+
+I’d probably end up making some of what I needed over the next day or so. The rest I figured I could buy once I left the dungeon.
+
+Stepping outside of my new, if empty, home, I changed the bottom of the dimensional space to appear like aged stone and altered the perimeter to look like a hazy landscape.
+
+If I understood the space correctly, the barrier between my demesne and whatever existed outside would also hide the space from anything that might potentially perceive it.
+
+That wasn’t to say void creatures were roaming around or anything. But if something did happen to travel through the void, it wouldn’t do to have my soulbound space lit up like a beacon.
+
+Putting aside such thoughts since there was absolutely nothing that I could do about it, I examined the area of my demesne that would serve as storage. Applying a stasis effect on the entire branch was pretty simple, so I did that after using Divide Space to isolate that part of the dimensional space from the rest.
+
+Turning to the remaining area, I frowned as I thought back to my former garden.
+
+I’d left most of its upkeep to Lisa, which I wouldn’t be able to do this time around. That meant that I’d have to actually pay attention to what was going on in that part of my demesne if I wanted whatever I put in there to flourish.
+
+Obviously, there was nothing there right now, but I planned to change that, especially after seeing how many potentially valuable herbs were growing just along the edge of the safe zone.
+
+I was still a little amazed at how much the dungeon had provided right at the entrance of the very first floor. It made me curious about whether the locals trained their youths to harvest the bounty, or if it was largely overlooked due to ignorance.
+
+It was always possible that the dungeon had changed during its evolution into an Ascender Dungeon, so maybe such resources hadn’t been available before?
+
+There was no real way to know without leaving the dungeon and researching the matter – a step I fully intended to do as soon as my core skills were somewhat obscured.
+
+With nothing left to do within my demesne for the moment, I returned to the dungeon and moved on to the next skill.

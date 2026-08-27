@@ -1,0 +1,231 @@
+---
+id: ea93c8d9-6452-5209-99ed-3c48c6a76b7b
+page-type-slug: story-chapter-royal-road
+title: "33 - Duel of the Aspiring Magic Knights"
+slug: 0033-33-duel-of-the-aspiring-magic-knights
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 33
+ownLength: 1840
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3480904/33-duel-of-the-aspiring-magic-knights"
+royalRoadId: "3480904"
+---
+
+Reina had her sword attached to the harness on her back, which she had borrowed from one of the griffin’s saddlebags back at the blue lantern. Hopefully Kaelor wouldn’t mind.
+
+By the way, did you know that having a sword on your back is highly inefficient, especially if the sword is too long since drawing it would be physically impossible? No? Well anyways, let’s just ignore that for a second, since having a sword on your back is one of the coolest things anyone could do.
+
+As Meriel taught her how to cast shielding magic, I took the time to check out her stats.
+
+[HUMAN: REINA]
+
+Level: 24
+
+HP: ???
+
+Description:
+
+A physically capable individual from a small village who is able to wield many different weapons. Though not the greatest at it, she can cast simple spells learned from her mentor.
+
+Assessment:
+
+Friendly and strong with solid potential. She may accidentally kill you in the future.
+
+As expected, she had gained several levels since the last time I checked. But what was interesting was that her description and assessment had changed. Looks like it updates to have the latest information.
+
+I inspected Meriel as well, and she had gained a few levels, but everything else remained the same. It was much less of a difference than Reina, but it was likely because she was already at a pretty high level.
+
+As for myself…
+
+[PROTAGONIST: Allene]
+
+Level: 122 (+1)
+
+Strength: 20
+
+Agility: 32
+
+Vitality: 20
+
+Endurance: 32
+
+Intelligence: 19 (+1)
+
+Wisdom: 35
+
+I haven’t gained a single level naturally ever since I began my training with Meriel. Was it because I was already Level 123? I was gaining significantly more stats from just fulfilling tropes anyway.
+
+But even so, how did it make sense that learning Warmth Aura back then gave me a Level, yet defeating those Ice Wolves and fighting Skoll in Glacinus gave me nothing?
+
+Could it be that Levels were tied more to something else entirely? Maybe it was about learning new spells? But then why hadn’t I gained any Levels after teaching myself some wind magic? Was it because I still wasn’t proficient enough with them? Or was there something else I was missing entirely?
+
+Whatever it was, looking at my stats almost made me vomit. I had points in literally everything. So much for being an overpowered protagonist. My level might be high, but I had way too many points into Strength, Agility, and Vitality for a mage. How awful.
+
+Maybe I should consider being a magic knight instead.
+
+…
+
+Wait, that didn’t sound like a bad idea at all.
+
+I looked at the other two, about to relay my idea, only to find Meriel and Reina lying on the ground, far away from each other.
+
+“What the hell happened?”
+
+Reina sat up, scratching her head. “My shield exploded,” she said, laughing it off.
+
+I was concentrating so much on narration earlier that I didn’t even hear it.
+
+Meriel on the other hand, did not find it amusing at all. “I didn’t even think that was possible. I’m amazed, and not in a good way.”
+
+She facepalmed, sighing. “This might not work. If your shielding magic is so horrible that it almost kills us, I don’t think we can continue any further.”
+
+“Hey, why not?” Reina asked. “It’s better to practice here in the dungeon while we have revives, right?”
+
+Meriel shook her head. “Yes, but I’d rather not waste revives on training. We don’t even know how much more dangerous the later parts of the dungeon are.”
+
+“What happens if we run out of revives?” I asked.
+
+“We die. Permanently."
+
+My eyes grew wide.
+
+“Just kidding,” she said. “But all of us will be teleported back out the dungeon and lose all our items.”
+
+I sighed. “You and your damn jokes. Anyways, let me try to cast barrier magic. Maybe I can make it work.”
+
+“You should be learning support magic instead,” Meriel said. “Reina’s the tank, not you.”
+
+“Shielding counts as support, doesn’t it? If I manage to cast it on myself, maybe I can learn to cast it on others as well.”
+
+She thought about it for a moment.
+
+“Sure. Then go give it a try.”
+
+She briefly explained the sensation, feeling, and thought process behind shielding magic. In all honesty, it was pretty boring, so to sum it all up, I just had to visualize mana as a stable, protective layer around my body. That sounded simple enough.
+
+I gave it a try, casting the spell on myself.
+
+The moment I did, it exploded, sending Meriel and Reina flying off the city and into the void.
+
+…
+
+Just kidding. Have some more faith in me, alright?
+
+The shield wrapped around me like it was supposed to. Meriel took a step back, surprised that I had done it on the first try. Then, without warning, she threw a Fireball at me.
+
+I flinched, but the shield absorbed the damage, leaving me unscathed.
+
+“Whoa… Impressive as always, Allene!” Reina said.
+
+I smiled. “Thanks. So what do you think, Meriel?”
+
+“It’s not bad at all,” she said. “Why don’t you try casting it on Reina now? Dissipate your own shield first. It’ll be easier to only do it one at a time.”
+
+“No need. I can do it on both of us.”
+
+I tried casting it on Reina, and…
+
+Well, nothing happened. Guess I was too overconfident.
+
+“See?” Meriel said.
+
+“Good try,” Reina said.
+
+I looked away in embarrassment.
+
+I did just as Meriel said, dissipating my shield before casting the spell on Reina. A shield enveloped her.
+
+“Yup. This is definitely different from my exploding one from earlier,” she said.
+
+I laughed. “You think?”
+
+Meriel tapped her staff on the ground in a soft rhythm, thinking. Meanwhile, I walked up to her, hands behind my back.
+
+“So?” I began. “Actually, I’ve been thinking. What if I try to be a magic knight too?”
+
+She gave me a look. “Huh? What’s with the sudden change?”
+
+Because my stats were god-awful for a mage, but it could work for something that demanded versatility like a magic knight.
+
+“Because my stats are—” I stopped before accidentally spilling my thoughts out loud. “...or uh, I just thought it’d be fun to give it a try. Who knows? Maybe it’ll be a good fit for me.”
+
+She put a hand under her chin. “A magic knight, huh…?”
+
+Reina nodded, ecstatic. “I like that idea! Then both Allene and I will have the same kind of training!” She handed me her legendary sword, Dawn Sunderer. “Why don’t you give this a try?”
+
+I nodded, taking it. Strength filled my body right away. I was planning on using the Tree Sentinel’s Spear to practice with, but this would certainly make things easier—and a lot cooler, too.
+
+Meriel shrugged and backed away. “Sure, why not. If it’s a good fit for you, I don’t mind. It doesn’t seem like Kaelor and Talon will return soon from their expedition around the city, so we have some time. Let’s do this: the two of you will fight one another.”
+
+I raised my brows. “Fight each other? Why?”
+
+“Because I’m not too good with weapons. Reina is more proficient than you with melee combat, while you’re more proficient than she is in magic. It’ll be a nice contrast, and it’s good to learn how to duel with a partner.”
+
+Reina nodded excitedly. “That sounds like fun!”
+
+“Makes sense,” I said, calling my [INVENTORY] and giving Reina the spear.
+
+Meriel stood on the sideline, pointing her staff at us and casting shields on both of us.
+
+“Don’t worry about shielding for now—I’ll handle it,” she said. “You’ll be attacking each other until one of your shields breaks, which will determine the victor. That is the only rule. Is everything clear?”
+
+Reina and I moved to opposite ends of the field. “Yes,” we said at the same time.
+
+Meriel began a countdown.
+
+The moment she said “go,” we rushed toward each other. Reina took full advantage of her spear’s longer reach and fully extended her arms, trying to jab me from a distance. My stats in Agility were high enough that I was able to read it and dodge it, closing in and swinging at her. But Reina was fast—not in footwork, but in fully using her spear to keep me far away.
+
+Her weapon handling was, admittedly, much better than mine. But that was about the extent of it. I cast Fireball. She did too, and the two collided and exploded mid-air. I followed up with several swings of the divine sword, shooting out several arcs of light. It was my first time doing it, but I was just copying what Reina did when she killed me earlier.
+
+Reina tried to sidestep the attacks. She dodged all but one, and her shield absorbed the entire attack. She charged at me, thrusting her spear. I raised my sword and tried to parry it.
+
+Bad idea. Very, very bad idea. Parrying a spear was extraordinarily difficult.
+
+The impact nearly made the sword fly out of my hands.
+
+“Gagh!” I stumbled backward, readjusting my grip.
+
+“Your stance is horrible,” Meriel said from the sidelines.
+
+“I’m not used to fighting with a sword!”
+
+Reina swept the spear toward my legs as I was talking. I barely managed to jump over it before she transitioned right into another thrust at my chest.
+
+Was she really just Level 24? How was she so good at this? Maybe stats weren’t everything after all.
+
+I cast another shield around the one Meriel had already placed around me. Reina’s spear pierced into it, and the barrier cracked—but thankfully, it was the one I had cast.
+
+“Hey, no fair!” Reina cried. “Is that even allowed?”
+
+“Double-layering shields, huh? Sure, that’s allowed,” Meriel said.
+
+I jumped backward, pointing my sword at Reina and casting Fireball. But this one was different. I wasn’t sure if it was sheer luck or what, but the Fireball had a white glow to it this time. A divine glow. The Fireball wasn’t normal.
+
+The light from Dawn Sunderer fused with it.
+
+“Uh… what’s happening?” I muttered.
+
+Before anyone could respond, it shot out from the tip of my sword, heading straight toward Reina.
+
+“I can’t see! It’s too bright!” she screamed.
+
+She stood there, taking the full hit.
+
+It exploded. It wasn’t the same explosion as any other Fireball. It was much, much more powerful.
+
+The entire area became engulfed in a light so bright that it blinded the three of us.
+
+“What the?!” I let out.
+
+“What did you—AGH!” Meriel cried.
+
+I shielded my eyes for several seconds, otherwise I would’ve gone blind from how bright it was. When the light settled down, I glanced around, trying to take everything in.
+
+Reina and I stood there, our shields completely shattered. Yes, even mine, and I wasn’t even the one who was directly hit by it. And Meriel…
+
+She wasn’t even there anymore.
+
+Uh oh.
+
+I think I accidentally killed her.

@@ -1,0 +1,207 @@
+---
+id: e002703e-750e-55ac-9f6f-2a8ce0e15d41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 308: Carnage Berserker"
+slug: 0345-chapter-308-carnage-berserker
+partOf: dungeon-of-knowledge-complete
+position: 345
+ownLength: 3400
+unit: words
+ownProgress: 3400
+publishedAt: 2025-07-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2429509/chapter-308-carnage-berserker"
+royalRoadId: "2429509"
+markedReadAt: "2026-06-29T20:22:15.464Z"
+---
+
+Her body startled, jerking her awake at the strange, heavy thumping noise and the shuddering vibrations that shook the stone wall at her back. Heart pounding against her ribs, Coria sprang up into a ready crouch, her bow instantly summoned to her hand as her eyes scanned her surroundings. Nothing stirred and nothing broke the claustrophobic darkness of the ancient stone except a small clump of golden mushrooms at the end of the alleyway casting a dim illumination on the wall nearby.
+
+It took a few seconds for the disorientation and confusion to fade, and then the memories crashed back in. She had spent much of the night crying and unable to sleep, so much so that she realized she was disturbing the strangers who were rooming with her in this foreign stone house. Eventually, she had taken her borrowed blanket and sat out in the dark, empty street, desperately wishing she could see her father’s smile one more time.
+
+Dad… he’s… gone?
+
+Her throat closed and her eyes welled with the tears that threatened to overwhelm her.
+
+Thump.
+
+The stone paving under her feet shook as the sound snapped her attention toward the end of the alleyway. Carefully, she rose, senses dialed up to the maximum, but her body was sore, weary, and sluggish. She forced herself to move, trusting her skills to keep her footsteps silent, padding along the alleyway to the end of the row. All these houses had been provided for them to use, but they were most definitely in a dungeon, and she had seen enough of her people dying to sit idly by.
+
+She poked her head around the corner and found herself staring at an enormous boulevard of stone, wider than even one of the main branches back home. Out in the middle of the broad thoroughfare, she found her gaze glued to the largest troll she had ever seen. His broad back was covered with red tattoos and clad with a stretched leather jerkin that barely contained boulder-sized muscles. Two massive greataxes were gripped lazily in his hands. As she pressed her body up into the corner, trying to be as small as a mouse, the monster tipped his head back and sniffed the air – and then turned to look directly at her.
+
+Coria’s heart froze in fear and then suddenly accelerated as she clutched her bow with whitening knuckles, but then she heard some guttural words in the language of the Trolls, and the massive giant turned away from her. It was only then that she noticed the other figures – several normal-sized Trolls stood about in a loose group, and in the middle of their party floated the Fae, sitting on a glowing disk of magic. Beside her illuminated form, a green-and-gold book floated, opened to somewhere in the middle, spewing fountains of glowing runes, and another large book flew circles about her head, but she seemed to be studiously ignoring it.
+
+Aliandra Amariel. She recognized the Fae from the teleportation room – the last person to see her father alive. And their host.
+
+Cautiously, she approached, curious to see what was happening, but making sure to be ready to flee if the massive trolls attacked. The Trolls kept glancing at her, but none made any hostile gestures, and a few moments later, a large tree full of pink blossoms and ripe burgundy cherries appeared, and Aliandra moved on a few yards and began to summon her magic again.
+
+“Um… Hi,” Coria said, stopping before she got too close.
+
+“Hi, Coria? It’s safe, the Trolls won’t attack you,” Aliandra said, glancing up from her work and smiling.
+
+Somewhat reassured, Coria approached. Her heart was certainly still racing as she walked by the monstrously muscled giant troll, giving it a wide berth, but Aliandra had given her word, and the Trolls did not threaten her. “What are you doing?” she asked. It had to be some time before dawn, although she had little way to tell down here.
+
+“I realized you would all be hungry,” Aliandra said. “And I’m not sure how long it will take for Myrin’s Keep to absorb another six thousand mouths.”
+
+“So… you’re planting trees?” Coria asked as another tree appeared. This time, the tree was larger and laden with delicious-looking, shiny red apples.
+
+“I am not a cook or a crafter,” Aliandra said. “I’m a dungeon, and this is what I can do. I’ll plant apple trees, cherries, and peaches, and the trees will respawn every two hours. It’s not much, but I hope it will be able to tide you over for a while. I’ve also keyed the teleportation circles to your Pathfinders Guild rings, so you can transport your people to and from the town.”
+
+“Why are you doing this?” Coria asked. “Helping us?” She was a dungeon, and this went against everything she had ever been taught. Dungeons were fearsome things that lived only to make monsters and kill people.
+
+“Because I’m a dungeon?” Aliandra asked, as if reading her mind and Coria suddenly noticed the stoop of her shoulders and weariness in her voice. “It took a long time for me to learn to love my class after I learned what it was. But that has nothing to do with this. All this was once my home,” the Fae said, gesturing toward the ruins. “But Nevyn Eld came with his undead and his magic and killed my parents and destroyed it all. The entire city of Dal’mohra died that night. Everyone… except me.”
+
+Her too? Coria’s heart clenched in resonant grief. To hear her fresh pain echoed back to her, brought tears to her eyes once again. She reached up and angrily wiped the tears away.
+
+The giant troll extended a hand and plucked a shiny red apple from the newest tree like a cook taking a cup from a nearby shelf and stooped down to hand it to her. She blinked at it in surprise before retrieving it from where it was lost in the expanse of his enormous palm.
+
+“Thanks,” Coria mumbled.
+
+“You’re welcome,” the troll rumbled.
+
+“That’s why I’m helping,” Aliandra said. “If it wasn’t for a few friendly strangers, I wouldn’t have survived. I cannot take the pain for you, but at least I can make you something to eat, and you don’t have to be alone.”
+
+“I… thank you,” was all that she could manage, and to hide her uncontrollable emotions, she took a bite of the apple. It was crisp and filled her mouth with a sudden rush of incredible sweetness.
+
+Aliandra didn’t make her silence feel awkward, and so she stayed, moving with the group, and watching as the Fae lined the boulevard with hundreds of fruit trees, and even some glowing trees of light, content to just share the company of this stranger who somehow understood her feelings.
+
+Tala sat atop the Crooked Crown and allowed herself the gleeful grin that bubbled up from inside. Jax had finally lost his patience, and now she had landed an incredible mark. The first of many.
+
+Aliandra’s evolution had left her in such an awful mood, but when the zone-wide notifications came rolling in every other day, she had nearly lost it. It had been Kieran Mori who had counseled patience, and so she had waited, stewing in frustration and anxious to get back to Southport and her training.
+
+It was the Silver Cog setting up in town that had finally blown the lid off the pressure cooker. Already pressured by the road closures and the ascension of the Grand Tailor, Jax Hawkhurst had finally taken action.
+
+Just as Kieran predicted.
+
+When her eyes had come to rest on that small job posted on the assassin’s board downstairs, she knew it was time. Ostensibly claiming to be a job from the Guild of Tailors, Tala nonetheless instantly recognized Jax’s coded message for her, and her mark would be an evolved class!
+
+She retrieved her favorite dagger, coating the blade with her latest purchase, a Life Drinker poison, taking great care to avoid getting any on her skin. The irony of using the Silver Cog auction house to purchase the poison that would sabotage their effort to muscle in on the Myrin’s Keep business market sent a shiver of amusement and delight through her. Then, she activated her stealth and began her hunt.
+
+I can’t wait to see how many levels this one is worth!
+
+“No, I am not going to pay your protection scam!” he yelled, pushing the two representatives of the Town Watch out of the door and slamming it behind them. It was the second time they had come, and he was beginning to get really annoyed.
+
+He took a deep breath. “Thank you for being here,” he said, nodding to the two adventurers who had taken his quest to guard the Auction House. Without their presence, he was certain those thugs would not have left so easily.
+
+“No problem.”
+
+“That’s what we’re here for.”
+
+It wouldn’t have been so bad if he hadn’t been robbed earlier this week, and now he didn’t even have enough money to pay the stupid protection scam, even if he had been so inclined. Nor could he hire any mercenaries or guards from back home. And he had had absolutely zero luck with the other organizations in town – the garrison’s official had told him they were legally not allowed to interfere with internal affairs, a preposterous notion that was unfortunately confirmed by the new mayor. Even the Adventurers Guild could only offer occasional guards, whenever their adventurers were not busy with other things. If he had money, perhaps he could have made it worth their while.
+
+How he wished for the proper services of a real city. Doubt was clawing its way into his heart and refused to be dislodged. When he had seen the zone messages, he had been so certain this was his ticket to wealth and expanding profits for Silver Cog, but now, a mere couple of days later, he was having serious second thoughts. Unfortunately, he was already fully committed – he had his staff on contract, and the auction house outlet had just been established – and it had even had its first customer the other day.
+
+There’s no going back now, he told himself. But he desperately needed someone to bring him some business.
+
+Mieriel wiped the spilled ale from the dirty table with her soiled rag, ignoring the muted chatter and bustle of the Crooked Crown’s usual shady customers. Her mind shifted, drifting away from her body in the strange flowing grayness of her Astral Projection, passing easily through the insubstantial wall and into the guarded room beyond.
+
+The girl had just left, and this time she seemed excited. Tala Kane. It was hard to be sure, given the extraordinary development of her disguise skills, but Mieriel had a unique perspective – the Silent Assassin still couldn’t fully cloak the feel of their mind from her. Not many could.
+
+Mieriel had been staking out this place for months now, without much success, but just recently Tala had returned – and at a far higher level. Secluded training, maybe? Nevertheless, Vivian had insisted they figure out what she was up to – and Tala had been watching the jobs board for the last several days with a palpable energy of frustration and expectation, as if searching for something.
+
+Something she had clearly just found.
+
+Mieriel’s astral eyes reached the board, and quickly scanned it, memorizing everything as she typically did. But her heart stopped as she saw the small job posting, ostensibly from the ‘Guild of Tailors’. She had long since deciphered their prosaic code, and she instantly knew who they were targeting.
+
+Lydia Avery! I must warn her!
+
+Her awareness snapped back to her body, and she hastily left the shady bar, leaving her rag and the mugs on the table and ignoring the startled looks as some of the more perceptive patrons suddenly noticed her. They’re going to kill her to sabotage the Silver Cog trading house.
+
+As she stepped into the alleyway, the startling gong of the zone notification rang out.
+
+[Zone] Emberforge Paragon has advanced to the second tier.
+
+Thuli… fuck, he’s next, Mieriel thought as the ramifications of their plan spilled out across her mind – without the evolved crafters, Myrin’s Keep had little to offer Silver Cog, and their nascent effort to wriggle out from under the oppressive thumb of Jax Hawkhurst would be snuffed out before it even started. Against a high-level assassin like Tala, the non-combat crafters stood no chance.
+
+She set off at a sprint, downing an expensive agility potion as she raced back to the guild for help.
+
+Vivian, please be there!
+
+Mana surged from the black onyx of the shrine, and all the runes dimmed dramatically for a moment. The sound of a vast gong rang out across the shrine and beyond.
+
+[Zone] Emberforge Paragon has advanced to the second tier.
+
+Thuli stepped back from the shrine with something of a dazed look on his face, his hand falling limply to his side. It had taken longer than Ali had hoped to get back to him, but she had made his evolution her first priority after seeing to all the Ciradyl refugees.
+
+“Congratulations, Thuli,” she said as his two apprentices hovered curiously beside him.
+
+“Thank you, lass, for everything ya’ve done for me. I think I would still be lost in a keg of ale if ya hadn’t stopped by that day,” he said gravely. “But now my smithy is successful, I have two hard-working apprentices, Eimuuran steel, and the name and anvil of my ancestor. This evolved class is really something else.”
+
+“You did most of the work yourself,” she told him, rapping Mato’s heavy plate armor with a knuckle and smiling. “Did you get the list of the new items I learned?”
+
+“I did, thank you. I figured out the Decimation Slash Labrys already – that’s a real piece of work. All it took was Kavé teaching me the forging of Bloodsteel.”
+
+“Do you think you can transfer those enchantments to other weapon designs?” Ali asked. The plus-two-melee-skills seemed exceptionally powerful, as did the enhanced physical damage that the deadly greataxe bore – and she hadn’t forgotten Thuli’s thoughts on the true value of crafters cooperating with her dungeon skills and the anvil. The ability to recraft or tailor the enchantments on whatever she learned had enormous promise – and they had already enjoyed the benefits with the armor Thuli had crafted for the fire dungeon.
+
+“Yes, definitely – but it will probably only work on very large weapons like a glaive or halberd, or a greataxe like the labrys,” he paused seeming like he was about to dive into the details. “Blacksmithing technicalities,” he said instead. “I will need ta experiment though – with high quality steel, like Eimuuran steel. I want to try mixing Eimuuran steel with that Abyssal Bloodstone we found – I might be able ta do better than the Bloodsteel.”
+
+Ali was just happy her friend had found his answer finally and had earned both a fantastic class evolution and his name. It seemed he was already making great use of her new anvil.
+
+“Ok, lass, can ya send us back?”
+
+“To town? Or to the anvil?”
+
+Thuli gave her an incredulous look with a tilt of his head. “The anvil, of course! I have a thousand things to try!”
+
+“Of course,” Ali chuckled and crafted a runic circle for the dwarf and his apprentices to go explore his new abilities and skills down in the depths of the mines.
+
+As soon as they vanished, Ali shifted her attention to her minions.
+
+“Come,” she said, beckoning to Tol’brekk. “It’s finally your turn.”
+
+“Yes, Seeker.” The giant troll bowed his enormous, tusked head and stepped forward, his weight making the entire grove shiver.
+
+She shifted her perception into her berserker and reached out to touch the shrine with an enormous hand. Quickly, she activated the class evolution for him and ran through the path choices, deciding immediately to take whatever was his preference.
+
+[Zone] Carnage Berserker has advanced to the second tier.
+
+Ali’s Grimoire immediately appeared and spawned a glowing cloud of new runes that rapidly assembled themselves upon the pages of the troll chapter.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Based on what had happened when she had learned the Lirasian Oak Elder Tree variant, she had expected something like this, but for once she had a couple of open chapters available, so she selected one, expanding her Troll imprint with room for the new complex structure of an evolved berserker class.
+
+Variant: Carnage Berserker added to Imprint: Troll.
+
+Ali stared in awe as her enormous berserker grew bigger and heavier. Already-enormous muscles swelled and hardened and his skin darkened, taking on deeper, burgundy-red hues and the runes tattooed on his skin brightened.
+
+“This is most excellent, Seeker,” he said, flexing a massive bicep in appreciation.
+
+“You’re welcome,” she said, congratulating the former Death Knight on his second ascension – and this time with a class she could make excellent use of. Carefully, she inspected the impact of what he had chosen.
+
+The biggest change was a massive increase in strength and a crushing blow chance that was linked to increases in rage, and a substantial power increase to his bloodline. But Leap gained a stun effect, and Monstrous Armor gained heavy armor proficiency. Ali stared at the enormous monster, towering above her, trying to imagine how much more terrifying he would be in a full set of Eimuuran steel plate. She shook her head. Ouch. But even that wouldn’t be enough against the Lich.
+
+Overwhelming Power, one of his most effective melee skills, now had a new advancement that allowed him to spend his health to temporarily increase the power of any melee or movement skill. This, paired with his berserker rage skill, seemed to achieve the same thing she had done with Ritual Infusion, offering a controlled way to dramatically increase his damage at the most critical moment.
+
+“He’s huge!” Mato said, nodding his head in approval.
+
+Tol’brekk grunted and nodded back.
+
+“He’s terrifying, Ali,” Malika said, soberly. “And that’s after getting used to how terrifying he used to be.”
+
+“You made good choices,” she told him.
+
+“Thank you, Seeker,” Tol’brekk said.
+
+“Wait, you let him choose?” Mato asked, incredulously. “That’s priceless!”
+
+“Why not? He’s smart, and he understands melee fighting a whole lot better than I do,” Ali said.
+
+There were a few more things she needed to do. First, she quickly verified that she could summon a second berserker with the newly evolved Carnage Berserker class. As she had previously determined, she couldn’t summon another Tol’brekk – her skill seemed to have a hard limitation around summoning unique or named monsters. Still, her Grimoire had recognized the paths he had picked as applicable to the entire berserker troll variant. Studying the runes closely, she realized Tol’brekk’s Death Knight variant was still available, should she ever require something so awful.
+
+That means… she eyed the shrine speculatively. As soon as it recharged, she would have to run a few more berserkers through the evolution process exploring the different paths. Even if it cost her another Grimoire imprint, it would be worth it to understand the full extent of what her Shrine was capable of. Having a variety of builds will be good situationally, too.
+
+“What now?” Malika asked.
+
+“Time to take Thuli up on his promise,” Ali said, grinning. She stepped through the teleportation circle with her friends and Trolls following, appearing in the sweltering heat of the anvil chamber to find Thuli Emberforge and his apprentices busy setting up.
+
+“Hey, lassie,” Thuli said, glancing up at her. “What can I do for ya?”
+
+“What do you think about a plate armor commission?” Ali asked, gesturing at her newly evolved giant troll.
+
+“For that mountain?” Thuli asked, staring up at the giant troll. But he had a gleam in his eyes that betrayed the anticipation of a worthy blacksmithing challenge. “Let me get his measure quickly. Then I’m gonna need a lot more ore or steel.”
+
+“I think I can help with that,” Ali said, grinning at the excited Dwarf.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

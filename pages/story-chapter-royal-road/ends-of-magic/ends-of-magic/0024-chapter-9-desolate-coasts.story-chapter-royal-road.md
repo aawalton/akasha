@@ -1,0 +1,239 @@
+---
+id: 645d2f1c-5667-5e33-99fd-e6a4ab993b60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Desolate Coasts"
+slug: 0024-chapter-9-desolate-coasts
+partOf: ends-of-magic
+position: 24
+ownLength: 2792
+unit: words
+ownProgress: 2792
+publishedAt: 2025-08-04
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2491071/chapter-9-desolate-coasts"
+royalRoadId: "2491071"
+markedReadAt: "2026-06-29T20:08:02.372Z"
+---
+
+Nathan quickly lost sight of the other Heirs in the fog, though he could feel them with his magical senses. He locked in on Sarah’s signature and followed it as she set a course towards the coastline. The fog was dense, and the only way Nathan could tell they were heading the right direction was the sound of the waves pounding against the shore.
+
+The rest of the Heirs followed suit, tracking Sarah using their own abilities. Stella could sense the flight spell that she’d placed on Sarah, while Khachi was feeling the presence of his allies through his own magic, with the exception of Nathan. Aarl was following his sister via the simple expedient of holding onto her.
+
+It was a spooky experience to be running through a world of ethereal white as colossal waves battered against rock ahead. It was an awe-inspiring sound, with every crashing wave reverberating through his chest. He could only hope that Sarah’s vision was good enough to keep them out of the surf. Based on what he was hearing, it was the kind of natural force that nobody could fight against.
+
+Well, except for Stella. She could probably squash these waves if she was willing to put in the effort. But somebody might notice.
+
+Sarah was headed upwards, and Nathan made sure to keep pace with her. Before long, he could feel a faint spray from below as small droplets of salt water were flung into the air by the crashing waves. Then the crashing sound was behind them, and they started to descend. The rocky ground came out of nowhere, and Nathan nearly stumbled on the loose stones as he landed. All of the Heirs were nearby, though he still couldn’t see them, and the surf was too loud to talk. The stones underneath were shaking with each pounding breaker.
+
+That’s gotta be hell on the erosion. I wonder how much the shorelines get pushed back every year?
+
+After a moment to visually confirm they were all present and unhurt, Sarah took to the sky again, heading further inland as everybody followed her. She led them on a steep ascent, which confused Nathan. The mist was starting to thin, and he was wondering if her goal was to break out of the top. But that wouldn’t make sense, because they were trying to hide.
+
+His unspoken question was answered moments later as a sheer ridge of rock loomed out of the mist in front of him. Nathan jumped upwards, sailing over the jagged stone ridge. They turned downwards once again, skimming down the opposite face of the jutting rock wall.
+
+She's the one who can see through this; I just need to be more trusting.
+
+They continued flying into the mountains, hugging the ground as the mist grew thinner and thinner and the noises of the waves faded into the background. They passed over a few magical signatures that Nathan was pretty sure were dungeons, but there was no sign that anything had noticed their passage. Eventually, Khachi called a halt, and they collected on a ledge close to the base of a valley.
+
+The wolfman spoke to Nathan as he pulled out a cloth to dry the dew that had accumulated on his armor. “We have struck our target. Nathan, did your light shine on any soldiers or detection magic?”
+
+Nathan shook his head. “Nothing. We passed over a few dungeons but not much else. It looks pretty desolate.” He gestured around at the bare rock and mountains that surrounded them. Patches of scrubby greenery clung to the rock here and there, but mostly it was a landscape dominated by grey clouds and grey rock.
+
+“Then we proceed,” Aarl said, shaking out his hand from where he’d been holding onto his sister. “Sarah, can you retain the lead?”
+
+She nodded. “My eyes are still the best, though the dungeons worry me.”
+
+“Then let’s go,” Stella said grumpily, casting a gentle fire spell to dry out her robes. “Which direction is it?”
+
+Sarah’s tone was amused. “Follow my light.” She took off, the Heirs following suit once more. The mist cleared entirely as they covered the miles, the desolate landscape passing by unchanged except that the mountains were increasing in size. They continued like that for hours, the greatest trouble being in avoiding the various dungeons. Some were familiar, crypts of Quaz and Kalis conclave towers just like those that dotted the mountains between Gemore and Giantsrest.
+
+The former will spawn a grave tangle if you poke it wrong, while one of the latter nearly succeeded in turning me into a goat.
+
+But other types of Dungeon were new to them, and Nathan found them fascinating. There were none of the heavy golem-manned fortifications of the Edrani Empire, the vaguely serpentine architecture of the Sklias Dominion, or even face-shaped fortresses carved out of cliffs. Instead, the Heirs flew over forests of needle-like metal spires populated by shards of floating chain, or squat buildings manned by long-limbed stone gargoyles that tracked them with their eyes. The most interesting one was probably a glass-fronted cliff that danced with internal lights. Nathan felt powerful and interesting magic coming from it, and almost wanted to divert. But they weren’t here to deal with dungeons. They were here to deal with Questors.
+
+They stayed low and careful, despite not seeing any trace of scouts from Esebus - or even any other sign of civilization. But their goal was absolute stealth, and a single lapse of attention had the potential to alert their enemies and bring the armed forces of a nation down upon them. Per that caution, they made camp inside a bare cliff face, with Stella carving an opening into the solid rock that could only be accessed by a small and natural-looking crack. It was the sort of feature that would go completely unnoticed from the outside, and the bending passage meant that no light and little noise would escape from their hidden cave.
+
+Nathan surveyed the irregular interior of their campsite and sighed. “Truly, the height of luxury. I’ve been spoiled by Keihonia and the Grace of the Mists. We dealt with worse when we were starting off."
+
+“You still slept on the floor,” Aarl replied lightly. He pulled out the pile of blankets & padding that was Nathan’s bedding and dumped it on the floor before starting to unpack cooking gear from his dimensional bags.
+
+Khachi rapped his gauntlet against the stone wall, producing a clanging sound. “I am free of regret. We are here, with a mission. We are not deciding our path, or waiting to start our mission. Our feet are moving, our aim is true. Finally.”
+
+“Hear me, it feels good,” Stella agreed, casting the spell to light a smokeless magical fire for Aarl to cook with. “It’s been too long since we were out in the wilds. The freedom of the open wilds appeals to me. Fewer things I can't destroy.” She grinned around at them, not entirely serious.
+
+“I do miss the beds,” Sarah commented, looking forlornly down at her own - enchanted - sleeping roll.
+
+Nathan chuckled. “Fair enough. But clearing dungeons - that’s not really for us anymore. We’re a bit beyond that. We’re going after Questors and nations now.”
+
+Khachi frowned, his bushy eyebrows coming down. “We will always destroy dungeons. They are a danger to the innocent, and defeating them is our duty.” A spark of divine fire ignited in his eyes.
+
+“To speak of dungeons, why are there so many so close to Esebus? Don’t they need to clear them all to avoid the Ending of History?” Aarl’s voice was innocent.
+
+The wolfman paused, looking thoughtful. “Perhaps that is not their intention? Maybe they wish to spend effort elsewhere.” Then his expression darkened. “They do not have the time limit of a hundred years.”
+
+“Or they just haven’t gotten this far,” Nathan added. “We’re way out in the boonies. The first people we run into might be adventurers working to clear dungeons.”
+
+Sarah pursed her lips. “Or soldiers. They may not have an adventurer guild or culture in the same way Gemore does. Or Keihonia.”
+
+“They do,” Nathan said, remembering what he’d read about Esebus. “They’re not very prestigious, but joining the adventurers of Esebus is a way for people to escape poverty.”
+
+The Heirs looked confused by that, which was fair - it completely conflicted with their own background. In Gemore the adventurers were often at the top of the social pyramid. They weren't necessarily the richest, but they certainly had a higher social standing than the crafters and merchants. To them, being an adventurer wasn’t something you did because you needed money; it was something you did because it was your duty.
+
+Kinda like noblesse oblige.
+
+He shrugged. “It doesn’t change much. We’ll stay away from them if we can. But if we get noticed, we should be prepared to make sure they don’t sound the alarm.” He held up a hand to stall Khachi’s imminent objection. “Within reason. I’m not going to propose killing a town to keep our presence secret. But if we are noticed by enemy combatants, we need to make sure they don't give a report. We’re here to kill the leaders of their society, and we have a damned good reason to do it. So, we do it.”
+
+Khachi’s eyes retained their inner flame, but he didn’t contradict Nathan. He gave it some thought, then nodded. “Our fight is righteous.”
+
+The moment broke, and the Heirs all returned to the tasks necessary for camp. They talked a bit more, set watch, and then slept. Nathan meditated for a while, letting go of his worries.
+
+Travelling the next day proceeded much as it had the day before, though the Heirs did their best to stay on high alert. It paid off when Nathan spotted several specks circling in the distance. They stood out in his attention, despite having only a minute amount of detail.
+
+“Sarah, do you see those?” he asked, pointing towards the group of dots.
+
+She squinted in that direction, then her rifle appeared in her hands. She sighted down the barrel to help activate her skills. “They’re soldiers of Esebus. Enchanted armor with wings.”
+
+“Not worth being bold. We go around.” Khachi’s voice on the topic was certain, and Nathan didn’t disagree.
+
+Sarah took a moment to track angles. ‘They aren’t moving. We can stay behind the mountains from them. Unless there are more.”
+
+“Are they clearing dungeons?” Stella asked, peering towards the barely visible dots.
+
+“I don’t think that’s their aim.” Sarah didn’t sound certain. “They’re circling. As if they’re guarding something.”
+
+“I’m curious, but that’s not what we’re here for,” Nathan said. “Let’s go, and maybe fly a little lower. Some of us are glowing.” He threw a look towards Khachi, then pointed towards the route Sarah had indicated that would keep them out of sight of the distant specks.
+
+“My light will be assumed to come from a dungeon,” Khachi responded, but he followed as Nathan led the way into a lower-elevation route. They were still a hundred feet up in the air, but even at that height, they had to pay more attention to the terrain below them, both to stay hidden from enemies and because several monsters and dungeons could strike over that distance.
+
+It wasn’t just the dungeons that were a mix of familiar and novel. The six-legged pony-sized stalkers were the same as in Gemore, but the thirty-foot three-headed centipede that spat globs of sticky goo was unique. They made good time despite the threats, right up until the rocks below started shaking. The blast wave arrived a moment later, still vicious despite being partially blocked by the ridge.
+
+“Follow me!” Nathan cried and dove towards the shelter of the cliff wall. They needed more shelter to prevent the shock waves from swatting them out of the air, but if they went to the ground, they risked being buried if the quakes triggered a rockslide.
+
+What is going on?
+
+Nathan got his answer a moment later as a thunderous roar split the tail end of the shockwave, echoing through the mountains like the howl of a kaiju. It sounded hurt and angry, but mostly angry.
+
+The ground shook again, and another blast rolled across the landscape. Nathan reached out with his magical senses to figure out what was happening, but it wasn’t close. His best guess was that this combat was more than a mile away on the other side of the mountain, and it was still causing rocks to fall around them. Stella had cast a shield to protect them, and it shunted aside the worst of the damage as more blastwaves struck them.
+
+His senses finally focused in, and Nathan got a better sense of what was going on. There was some kind of gigantic monster over there, laced with innate magic, as well as a few people flying high above it. They were pummeling it with spells that were causing the explosions. The immense amount of mana was nearly saturating his magical senses at that distance. It was a new mana type, one Nathan hadn’t felt before.
+
+But given the size of the explosions, he had a sinking feeling he knew what it was. He felt the next spell being fired from one of the flyers, a concentrated effect that zipped downwards to strike the ground. As soon as it hit something solid, it triggered a complicated magical effect that resulted in a massive explosion, far more than the amount of energy in the original spell.
+
+A nuclear spell. Well, that’s a kick in the teeth. Now we need to get out of the fallout zone - if there is fallout.
+
+Nathan blew out a long breath, then signalled to the Heirs to get moving. The monster had a strong magical signature, but it was already weakening. A few more of the massive explosions sealed the deal. The Heirs were already headed away from the area and had never been close enough with a direct line of sight to see what the monster was. The air in that direction was tinged with dust, and they relied on that cover to gain more distance without being spotted.
+
+As soon as they’d gotten away, Stella rounded on Nathan. “That was blasphemous magic. What was it?”
+
+He met her eyes seriously. “It involves the Insights I’ve wanted to keep secret. We’ll talk about it tonight.”
+
+Her mouth twisted into a complicated expression. “Dragon’s breath.”
+
+“We must move,” Khachi interrupted, looking around wildly. “We may find more soldiers.”
+
+Aarl snorted. “More monsters, or more soldiers of Esebus. I don’t want to face those weapons. Not even as a game.”
+
+“I can shut them down,” Nathan said confidently. “I could have swatted the soldiers out of the sky and disabled their weapons. But Khachi’s right. We don’t want to get spotted.”
+
+They proceeded, keeping a wary eye out. It was a good thing too, as Sarah rounded an outcropping and froze, holding up a hand for all of them to stop. She waved Nathan forward, and he peeked his head around the rock next to her.
+
+Ahead of them was the end of the valley they’d been flying down, where they would have been forced to ascend over a pass to get to the next valley. There was a dungeon there, a cave entrance that looked suspiciously like a giant open mouth, complete with stalagmites and stalactites for teeth. A group of about thirty men trudged towards it, equipped with ragtag arms and armor. A few hundred feet above them floated a trio of figures in winged armor that positively radiated magic.
+
+Sarah’s voice was quiet, even though none of the figures were closer than four hundred feet away. “Slaves?”
+
+Nathan hissed a breath out between his teeth. “I think that here they’re ‘indentured’. But yeah, pretty much.”
+
+“What do we do?” She asked.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 80122/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 572
+
+Regenerative Focus: 5525/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 4
+
+Forewarning 4
+
+Arcane Insight 6
+
+Evasion 2
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 10
+
+Visibility Control 6
+
+High-tier Disguise 7
+
+High-tier Battle Cry 3
+
+Aura Control 5

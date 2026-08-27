@@ -1,0 +1,175 @@
+---
+id: d6debd7e-f985-5275-9ee1-7db35492422b
+page-type-slug: story-chapter-royal-road
+title: "64 - What Did You Tell Him?"
+slug: 0064-64-what-did-you-tell-him
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 64
+ownLength: 1641
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3628246/64-what-did-you-tell-him"
+royalRoadId: "3628246"
+---
+
+The main island was as crowded as it had been on the day of the Skycurrent Festival, but not for celebration.
+
+As Aeris, Reina, and I landed, we noticed several people sprinting around with all sorts of food, supplies, and medical equipment. Many people had been injured during the battle and were being taken away for treatment. The mages and healers did everything they could to take care of the wounded.
+
+Airships were parked not only on the main island, but also on the smaller surrounding islands. A few had suffered lighter damage, such as holes in their hulls or damaged sails, while others had larger chunks missing and cracks running through the entire ship. We overheard people talking about transporting these ships to a different city to get them fixed.
+
+“Keep an eye out for anybody with a ring on their finger,” I whispered.
+
+Realistically, it would be extremely difficult for either Reina or me to spot anyone among the crowds, but I trusted that Aeris’s draconic eyes would find at least one.
+
+“I was surprised by how suddenly the entire battle just ended,” Aeris said. “All the monsters fled when we came back after defeating one of the twins.”
+
+“It does feel off,” I said. “Especially with Aurelius. I’m not so sure what he’s planning. Doesn’t the fact that he’s disguising himself mean he thinks he can’t beat us?”
+
+“Of course it does,” Reina replied. “He’s scared!”
+
+I shook my head. “Well, I wouldn’t say scared, but he’s definitely less aggressive than before. Things should be a lot easier now that all the monsters are gone and the twins are dead, but still…”
+
+“I have a feeling he ordered all the monsters to retreat, but why?” Aeris said. “That would only put him at a disadvantage. Or maybe it’s to get our guards down?”
+
+“Maybe he didn’t want them to kill us anymore,” I said. “Each person that the monsters kill is another body that he can’t take.”
+
+But was that really the case? At this point, we had him cornered. He could try all he wanted to hide himself among us, but we knew where to look. The rings made it too obvious, since he could only take a person’s body if they had his ring on it. There was still a possibility that he had stolen a person’s body the typical way without the rings, but that was highly unlikely. That would require a person to voluntarily give up their soul, and I doubt anybody would do such a thing.
+
+Reina pointed ahead. “What’s that?”
+
+There was a crowd around a tent, which seemed to have been set up to treat the wounded. Unlike the other places around the island, this one was noticeably more crowded. It wasn’t just mages and medics here, but also soldiers. A few looked like Kaelor’s troops.
+
+As the three of us came near, one of the angels poked her head up.
+
+“Ah, you three,” she began. “Allene, Reina, and Aeris, correct? I’m glad you’re here. Could you come take a look?”
+
+I was about to ask how she knew our names, but I guess word had spread around.
+
+The angel pushed through the crowd, clearing the path for us. As we walked deeper into the tent, we saw several wounded people that made our injuries look minor. Some of them had injuries as severe as Kaelor’s severed arm.
+
+When we reached the end of the tent, we realized why there were so many people in here.
+
+Gabriel’s body was there. Unlike the others resting on camp beds, this body lay on the ground.
+
+From their perspective, this was the man who led the entire army of monsters. They didn’t know that he was a dungeon warden, or that his body was taken over by Aurelius, or that Aurelius was capable of toying with souls. They knew none of that.
+
+All they knew was that this body belonged to an enemy. In a way, they were right.
+
+On the body’s finger was the Soul Anchor Ring. A purple glint appeared no matter which angle I looked at it from.
+
+“Nobody’s taken that ring off?” Aeris asked.
+
+“We’ve tried, but it won’t budge,” a man said. “It’s the same as the ring on my finger.”
+
+I crouched beside the body. “I see—wait, what…?”
+
+I looked at the man who had said that. Sure enough, one of Aurelius’s rings was on his finger. He was one of the four people on these islands with the ring. If my guess from earlier was correct, Aurelius would likely hang close to the Soul Anchor Ring, which this man was doing now.
+
+“Looks like we’ve found our prime suspect,” Reina said.
+
+Aeris glared at her. “I don’t think that’s something you should be saying out loud.”
+
+The man tilted his head. “Suspect…? What do you mean?”
+
+With how many people there were with us under the tent, we didn’t want to reveal too much information and cause chaos. We’d already seen what happened when Kaelor told those ring wielders about Aurelius.
+
+“Reina, could you stay here and watch that?” I asked, pointing at Gabriel’s body. Then, I leaned in, whispering, “Make sure nobody tries anything funny with the Soul Anchor Ring. I know he says nobody’s able to pull it off, but be on the lookout for it anyway.”
+
+She nodded.
+
+Aeris and I asked the man with the ring to walk out the tent with us. He looked confused at first, but followed us anyway. We walked to a nearby place beneath a tree, where there were far fewer people.
+
+“So… are either of you going to explain what’s going on?” he asked.
+
+Aeris wasted no time and pointed at his ring. “We just need to check that you’re not an enemy.”
+
+“Huh?”
+
+I leaned into Aeris’s ear. “Don’t mention anything about Aurelius. Just make something up.”
+
+With that, she continued, “That ring on your finger is cursed. That’s why you and the others can’t remove them. We’re here to dispel that curse.”
+
+The man frowned. “Cursed? I mean, I don’t feel any different.”
+
+“It’s one of the quieter ones. If we don’t get rid of it now, it’ll creep up on you later on.”
+
+I raised Dawn Sunderer, slowly pointing it at him.
+
+“What the—?! What are you doing?!”
+
+I motioned with my other hand for him to stay calm. “I know this looks scary, but I promise it won’t hurt. This sword’s filled with divine magic. Take a good look at it. It’s capable of dispelling demonic energy.”
+
+Technically, I wasn’t lying. Dawn Sunderer did cure Kaelor and me from Demonic Blight, after all. The only problem was that these rings had nothing to do with any curse or blight—we just had to make sure that Aurelius wasn’t hiding among these bodies. From how this man was talking, I had a good feeling he wasn’t Aurelius, but it was still worth ruling him out.
+
+“I don’t know…” he said, backing into the tree. “What are you planning to do with it?”
+
+“I’ll press it against you—the non-sharp side, of course,” I said, smiling.
+
+The man shook his head. “Okay, I’m absolutely not letting you do that!”
+
+I looked at Aeris, whispering, “Should we pin him down?”
+
+She sighed. “Leave it to me.”
+
+And so she did. But not in the way I expected.
+
+She leaned closer to the man, putting a hand on his chest and smiling. The man stiffened up, taken by surprise. His face flushed red as his eyes met Aeris’s.
+
+“Uh…” I muttered. “What are you doing?”
+
+But Aeris continued on. She whispered something into his ear, which made his eyes shoot wide and his face became even redder. After a few seconds, she backed off.
+
+“Now be good for me and listen to us, alright?” she said.
+
+The man nodded right away.
+
+“I—you know what? I’m not even going to question it. If it works, it works,” I said, walking to the man and holding Dawn Sunderer beside him.
+
+“I can do the same for you later if you’d like, darling,” Aeris said.
+
+“I’ll pass on that.”
+
+The man stayed completely still as I gently rested the sword against his face. I kept it there for a moment, but there was no reaction at all. I brought Dawn Sunderer down to his ring, and it glowed brightly. The weapon had reacted the exact same way as the other ring wielders I had scanned before. This man didn’t seem to be Aurelius, either.
+
+“You’re free to go,” I said.
+
+The man nodded and began to walk away. But before he got too far, he looked back at Aeris. “About what you told me just now…”
+
+“I’ll think about it,” she said.
+
+The man nodded enthusiastically before heading back into the tent.
+
+Aeris turned to me, smiling. “Curious about what I told him?”
+
+“Not really.”
+
+“You sure?”
+
+“...Maybe a little.”
+
+“I’ll tell you if you give me a hug, darling.”
+
+“Stop messing around.”
+
+“I’m serious.”
+
+She opened her arms wide. I was thinking of just backing away, but Aeris stretched her arms even wider, encouraging me.
+
+“Fine. Whatever.”
+
+It wasn’t like this was anything to be shy about. Reina hugged me like this all the time, though I guess the context was a little different now since it was with a dragon who was in love with me.
+
+I hugged her for less than half a second before backing off. “All done. Now tell me.”
+
+She frowned. “That’s not fair. You call that a hug?”
+
+“It is. And you never specified how long we had to stay like that for.”
+
+“You’re so mean, darling. But fine. You win. What I told him was—”
+
+Loud screams cut her off.
+
+We turned in the direction of the tent.
+
+Those screams… they came from there.

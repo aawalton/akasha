@@ -1,0 +1,201 @@
+---
+id: f3311110-0207-5ac3-b824-ebbe1e738382
+page-type-slug: story-chapter-royal-road
+title: "Book Four Epilogue: The Fall of a Giant"
+slug: 0011-book-four-epilogue-the-fall-of-a-giant
+partOf: ends-of-magic
+position: 11
+ownLength: 3837
+unit: words
+ownProgress: 3837
+publishedAt: 2024-03-18
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1558827/book-four-epilogue-the-fall-of-a-giant"
+royalRoadId: "1558827"
+markedReadAt: "2026-06-29T20:07:37.137Z"
+---
+
+Yelun ran for her life, recasting [Mage Armor], but she knew it wouldn’t save her from the golems. The stone statues had been the guardians of the Academy, but now they were trying to kill everybody.
+
+They should have stayed in the suite. They would have been safe there, at least for a little while. But Yelun had wanted to get Suse out of the Academy during the night, so she wouldn’t be executed as an escaped slave. She hadn’t given the woman a second thought until tonight. But after listening to her story Yelun wanted to protect her.
+
+Roni and Hibor hadn’t been so sure, but Yelun convinced them. It hadn’t been hard. She’d been working on shaping them into loyal companions for years, after all. Her father always told her that a powerful mage needed helpers whose loyalty was beyond question.
+
+At first it had seemed like their escape had been blessed by the Giant. She’d been expecting a patrol to grab them, and she was ready to use the excuse of a [Message] from her brother to get past. But instead, they found what was left of a patrol. Five mages dismembered by giant hands. The golems had only left behind bloody footprints that led away from the scene of carnage.
+
+The doors had also stopped working, but the wall to the staircase had already been blown open by somebody else looking to escape. At ground level they’d found a battle between a dozen mages and half of that many golems. Roni had wanted to stay and help, the mana-cursed idiot. Her first cast of [Mage Armor] had been broken by a ricochet from a thrown rock, or maybe a spell. She wasn’t sure.
+
+Yelun took a deep breath, refocusing herself on the present. Her mind turned endlessly, trying to pull meaning out of the facts.
+
+What did Natad do? He broke the Academy, and now the golems are killing everybody! Did he kill the founder? Did he kill Badud?
+
+She was distracting herself from what mattered, which was running. They were almost out. Almost into the city. They could be safe there, get to her family and wait until everything calmed down.
+
+The Academy quaked around them, the walls jerking violently and throwing everybody off of their feet. There was a tremendous explosion that was muffled by the bulk of the Academy, but cracks still ran down the entire hallway and stone decorations fell from the ceiling. A head-sized chunk of rock bounced off Yelun’s [Mage Armor], and she pushed Suse aside before a second stone landed on her unprotected head.
+
+Hibor had managed to catch himself against the wall and helped them both up. They ran with increased urgency, breaking into the entrance hall.
+
+Giant’s Blood! I forgot about the security golems!
+
+Yelun froze in place, looking around. But the pedestals that should have held the Academy’s first line of defense were empty. At the end of the hall the grand doors out of the Academy stood wide. It looked like they’d been broken open from the inside.
+
+They moved cautiously across the vast expanse of open floor, avoiding the interview booth and the magical testing area. She could smell blood. They were halfway across the room when dozens of streaks of red-gold light burned through the huge room from top to bottom, blindingly bright.
+
+Yelun blinked against the afterimages and looked around to see Roni disintegrating into ash beside her, the floor where he’d been standing marked with a blackened hole. Then there was a faint explosion below and red light vomited from the hole before it blew out in a fountain of shattered stone. Yelun raised an arm to protect herself, but the [Mage Armor] took most of the attack and she was only scratched by a few smaller shards of rock that managed to penetrate.
+
+Hibor stopped to stare at the place where his best friend had been standing a moment ago, his mouth open in shock.
+
+They were all blown off their feet by another explosion, as an echoing wave of sound and pressure rolled through the chamber from the open door. It broke Yelun’s [Mage Armor] and her ears spiked in pain.
+
+She screamed, but couldn’t hear it. Looking up, she saw new cracks on the wall around the door. More stones fell. If they didn’t move soon, they were going to be trapped.
+
+Gritting her teeth, Yelun pushed herself up then grabbed Hibor and hauled him to his feet. She screamed in his face, though she couldn't hear her own words. “Come on. We need to get out before we join the Giant in his grave!”
+
+Together they grabbed Suse and stumbled out of the Academy as a corner of the entrance hall collapsed. Beyond was a scene of further devastation, with flattened buildings and bodies scattered around the streets. Magic flashed from fighting in the distance, and Yelun hesitated before pointing in a direction that looked safer. They needed to get away from the Academy before the entire thing collapsed.
+
+Giantsrest is chaos. We need to get to Halsmet, and hope they let us in.
+
+—
+
+Faline trudged away from Giantsrest in the disguise of a farmworker. The lockdown had been lifted the previous day, but she had waited an extra day to leave. Interrogating the first to leave after a lockdown was an old Nail trick, and she wasn’t going to take any risks.
+
+Not without Nathan to kill their magic.
+
+The assassin sighed and looked back at the lights of Giantsrest. She’d left the city near midnight, and it had taken most of the night to move through the crops in stealth. She could have moved much faster with Nathan’s ability to block detection magic.
+
+Grimacing, she turned back to the mountains and kept walking. Nathan’s Talents had been the opportunity she’d been waiting for. The chance to finally stop skulking around Giantsrest, gathering information and making only the rare kill in perfect circumstances. Together, they’d been able to kill and escape detection over and over again. It had made her greedy.
+
+She had gotten impatient, especially when the Founder had summoned the mages to counter the discord she had built. Faline had wanted to bring everything to a close, and had thought Nathan would understand the importance of the target. But she hadn’t understood how deeply his stubborn righteousness went, and hadn’t managed to shadow Kia’s light quickly enough. At least now she wouldn’t suffer as Nathan charged into a dungeon for fools.
+
+I wonder if he’s dead yet.
+
+It was obvious that her most recent apprentice had managed to get inside the Academy. The gossip of suspicious deaths told her that he’d avoided immediate detection and made some kills. But he wasn’t going to achieve the fall of the Academy. Nathan could fight mages, but he wasn’t a true assassin. He was predictable and foolish, and she expected him to kill a few dozen mages inside the Academy before the Questor found him and killed him.
+
+At least an assassin in the Academy would shake Giantsrest. She’d been worried they would retaliate against Gemore and Halsmet, but it seemed like Nathan’s deeds only made them more aware of their vulnerability. The mages in the street were calling for defense and consolidation, not retaliation.
+
+Her attention moved to the future. Nathan had proven that antimagic was the key to the Academy. Her top priority was getting back to Halsmet and scooping up an antimage as her next apprentice. The only question was - which one? Her bones said the siblings weren’t a good choice. They relied on each other too much, and two were harder to shape than one.
+
+Raf would be easier to influence. He was an angry young man, and Faline knew exactly how to mold him into a great Assassin. With his antimagic he would be a terror to Giantsrest.
+
+But Shai - Shai reminded Faline of herself. There was a blasphemous opportunity there, a chance to train a peer, not just a tool. If Shai dedicated herself to the destruction of Giantsrest, then Faline would be glad to help her claim power.
+
+With Antimagic, she can be like Nathan should have been.
+
+Her bard skills twinged, causing Faline to turn in surprise. She wasn’t a prophet, but her bard skills had Developed to let her sense the pivotal moments, the times when the threads of Fate drew tight before unwinding to reveal a new course. Something important was happening back in Giantsrest.
+
+Is Nathan dying? I hope he takes many lecturers with him.
+
+She studied the Academy again, frowning. The glowing haze that illuminated the building and the city around it was the same as ever. But the glowing decorations of the Academy itself were wrong. They flashed brightly, a siren instead of a lightshow. She’d seen the Academy hundreds of times, and it had never looked like this.
+
+Faline stared at the hated edifice, trying to understand what this meant. She spent a few minutes looking for any other signs before a faint cloud of dust puffed out near the base of the tallest tower. It was impossible to see people from this distance, but she squinted for them anyway.
+
+Then something detonated inside the Academy itself, and the central tower jumped upwards before collapsing down into the huge building . Faline’s mouth dropped open as she saw the damage being inflicted, and she started running back towards Giantsrest. This was an opportunity she would not miss.
+
+She halted a moment later when the sky lit with red fire. A cloud of magic manifested itself over the Academy, and the spell felt deadly. She could feel strong emotions emanating from the magic, like an honorable warrior saluting a foe before a duel.
+
+Endings-damned divine magic.
+
+The cloud dropped a second later, zipping downwards like a lightning bolt. The spell went through the Academy, and every one of the upper towers fell with it. The sun lit at that very moment, shining balefully down on the Academy as the entire structure started to collapse.
+
+A shockwave visibly rocked the academy, sending dust swirling in every direction and crushing the few lower towers that still stood. The blast propagated outwards, crushing the buildings close to the academy and ripping roofs off across the city. It ripped leaves off the orchards and flattened crops in a huge radius even outside of the city.
+
+Faline stood there and let the rush of air knock her over. She was stunned, and it had nothing to do with the explosion. The assassin lay on the ground and stared up at the sky, attempting to process what had just happened.
+
+Then she rolled lithely to her feet to watch what was left of the Ascendent Academy collapse under its own weight. It took a few minutes, and Faline watched as her long-delayed vengeance arrived. Only when the last piece of stonework fell into a cloud of dust did she shake herself and start sprinting back towards the city.
+
+I need to get back inside before anybody closes the gates. There will be smoke and blood inside the city, and I’m going to redden my blades with anybody who tries to stabilize it. My vengeance is available, I need only take it.
+
+A few seconds later she had another thought.
+
+He did it. He toppled the Academy. I wonder if he survived the deed.
+
+—
+
+The Heirs stood atop a mountaintop, giving Sarah the prime vantage point to pick off the last of the undead. She was hunched over her rifle, occasionally firing a shot down into the valley below.
+
+“So that’s a monastery of Quaz. I wanted to fight a Grave Tangle!” Stella said grumpily.
+
+Aarl yawned from where he was sitting on the peak. He’d stopped trying to clean crusted gore off his armor, and the look he shot Stella was less than amused. “Khachi would have killed it first. Your new spells are dragon’s breath, but his magic is the bane of the undead.” He gestured towards where the wolfman stood, surrounded by a nimbus of divine light.
+
+The newly christened [Shield of Hope] nodded back, a small smile playing along his canine lips. “Indeed. I begin to see the same light Nathan does, when he dismantles enemy spellwork with his aura.” The glow around him shifted and moved like he was flexing a muscle. “Though I am limited to destroying only the most vile of magics.”
+
+Sarah fired another shot off into the night, and far below a undead abomination fell. The [Sniper] scanned the valley one more time, then stood with a sigh. “That’s the last of the behemoths, but some smaller zombies may have escaped into the mountains. Should we do a sweep in the morning?”
+
+Aarl cocked his head upwards at the sky overhead. “Might as well take a quick look. It’s nearly morning.” He glanced towards Stella. “Want to try that [Fly] again? Maybe this time without dumping me a hundred feet onto the rocks.”
+
+The red-haired mage groaned. “You survived. Don’t fart ice at me.”
+
+Aarl rapped his metal-clad chest with a knuckle. “That wasn’t your deed. My armor limited the pain to bruising.”
+
+Stella stood up and pulled a scroll out of an inner pocket, unrolling it to study a well-worn schematic. Then she stepped forward and started to weave the new spell. “I can’t promise a prophecy of victory, but flight is worth being bold.” She walked over to Aarl to link the air and force magic to his limbs and then integrate the whole spell with a basic mana construct that would let Aarl guide his own flight.
+
+Fifteen minutes of intently focused work later she stepped away. “Done.” The sun came out as if waiting for her word, and everybody blinked in the sudden light.
+
+Aarl shrugged, shading his eyes as he looked upwards. “My bones say there’s a hidden cost here.” His helmet deployed to cover his head and he rose quickly into the sky, only to jerk as a rolling boom sounded across the mountains.
+
+The Heirs looked around, trying to locate the source of the sound. Nothing stood out, but then Aarl pointed from his higher viewpoint, rising higher into the sky and yelling down to them. “It’s the Ascendent Academy…” He trailed off, just watching whatever was happening beyond the mountains and out of sight of the rest of the Heirs.
+
+After a few moments Sarah got impatient and yelled up to him. “Share the light in your eyes! What’s going on?”
+
+Aarl dropped out of the sky, shaking his head as he landed gently on the mountaintop. “It’s the Academy. It’s… gone? It looked like the entire building collapsed.”
+
+“Nathan.” Stella said, with a vicious grin on her face.
+
+“Looks like he’ll be coming back sooner than we expected.” Khachi replied, glowing even more brightly as his satisfaction spilled out into the world.
+
+Sarah harrumphed and stood with a sigh. “I bet stalker bones to dragon’s teeth that he’ll have more levels than all of us together now.”
+
+Stella threw an arm around the taller woman. “Good. He’s going to go after the Endings soon.”
+
+“We’re aiming for the same target.” Aarl said. “I’ll be free of regret as long as we can walk by his side.”
+
+—
+
+Sarya Pamaris rushed to unlock her inner sanctum. Unfortunately, when the vault was built she’d decided that security trumped convenience. That meant it took a minimum of five minutes to enter the ultra-secure area where she kept the most powerful instruments of her role. She spent that time cursing her own paranoia and remembering commissioning the security.
+
+She’d been in Yrosa more than two thousand years ago when she’d run into a vault she couldn’t break into. Once the city plunged into chaos, Sarya had made sure to track down the family of enchanters that had built it. Then she’d enticed them to move to Keihona and work for her. That had been lucky for them, since Yrosa had fallen to the Ending of Fire shortly afterwards, while Keihona stood strong.
+
+When they’d asked how many security measures she wanted for this vault, she’d answered “All of them.” After all, it was a vault built to keep out Questors, and that was like containing a supernova. But they’d taken her meaning, and there was only so fast she could disable dozens of security measures, no matter how urgent a message she’d gotten.
+
+Currently, the only piece of information she had was that she’d received a communication marked with the highest level of priority. That kind of message could only be sent by another Questor, and it meant something big and time-sensitive was happening. She tapped her fingers against the vault door impatiently as the foot-thick mithril rolled aside ponderously.
+
+Sarya finally bustled into the small room, walking around the wide copper basin that took up the center of the space and going to the enchanted screens that occupied a desk set against the wall. It was the nexus of her grid, the center of communication with other Questors. If a hostile Questor got access to it, they could learn the details of dozens of plots and schemes.
+
+Lights blinked at her from other devices that Sarya used to communicate with her vassals and spies, but those weren’t her focus. Mortals often thought their news was the highest of priorities, but it rarely qualified. Yes, the secret alliances of hostile countries was important, but not as important as information on the Endings.
+
+There were a few messages from other Questors. But the one that had summoned her was from Ushia Mur, the Questor who’d delved farthest into prognostication. She was a priceless resource, even if she delighted in being cryptic. The message was simple.
+
+Look in on Giantsrest. Then check for messages from Badud. :)
+
+She frowned at the smiley face. It wasn’t out of character for Ushia, but the orcish woman knew it would irk Sarya. The seer had also left out any actual information, but the presence of the smiley face at least meant that the news was good, or at least funny.
+
+The slight woman sighed and spun around to activate the giant scrying bowl. It was a genuine artifact of Kalis, capable of showing any location on Davrar. The only way to block it was to hide somewhere the user of the bowl didn’t know about. Once it had booted up, she gave it a target. “Giantsrest from fifteen thousand feet directly overhead.”
+
+The bowl resolved into a crystal-clear image of the city in question. Or rather, what was left of it. The center of the city was devastated, with buildings knocked over and clear evidence of battles through the streets. The Academy itself was little more than a faintly glowing pile of rubble, and Sarya gaped at the utter destruction of what had once been a stronghold of her enemies.
+
+She panned her viewpoint around to try to understand what had happened. There were giant golems in the streets, some broken by magic and others still rampaging. Mages fought them, and mages died, occasionally destroying one of the golems as they went. People fled the city, most headed towards the satellite cities of Giantsrest.
+
+They lost control of the Grave of All Giants. How? Sussu enchanted it, and she’s the best on Davrar. Badud is supposed to be there now, dealing with… what was it called? Gemore, that’s right. Brox went to counter him as per the pact, but then he lost. As usual. His report was strangely optimistic, but didn’t elaborate. I need to lecture him again on writing proper accounts.
+
+Sarya grimaced again as she thought about Gemore. It was Brox’s territory, but she’d long ago resigned it to be little more than a speedbump for the ambitions of Giantsrest and the Questors who controlled it. Brox covered a vast territory, but he didn’t build for the future. If she or Ushia or Garna had been able to step up, they could have driven Giantsrest off the continent and established it as a stronghold. But it would have taken centuries of care and attention, and they all had other commitments.
+
+Though Ushia’s been shaping Agmon from a distance, to prevent Giantsrest from dominating the continent.
+
+She didn’t see the enemy Questor or any signs of his magic, and turned back to her communication tablets to get the rest of the story. As promised by Ushia, there was a series of messages from Badud. He wanted to start the Ending of History and ban Questors from the continent that Giantsrest occupied. She shot a look towards the scrying mirror. Had occupied. With the Academy gone and their capitol devastated, they’d be gone in fifty years.
+
+Sarya was dismissive of the request. With Brox dead, Badud must have lost to a mortal, and now he wanted to bring the Endings a thousand years early to take revenge on whoever had beaten him. That wasn’t what the Endings were for. She wasn’t about to let him use Davrar to unleash his frustration on the heroes that had managed to kill a Questor without one of their own. She made some notes to send agents to find out who had pulled that off, and make them an offer.
+
+Then she saw Badud’s latest message, with what he was offering in return.
+
+Complete cessation of his grid’s activities across three continents of our choice? And a guarantee that he personally won’t act against our interests for fifteen hundred years.
+
+Her eyebrows shot into her hairline. With minimal investment they would be able to tilt the balance of power on three battlefields, establishing new centers of power or crushing those of their enemies. Badud was one of the most combat-capable Questors around, with enough magical might to win duels and crush armies. This deal would reshape the strategic map, all in return for giving up one region with minimal investment.
+
+She almost rejected the offer outright, because it was too good to be true. Then she reconsidered.
+
+He’s being emotional. Whatever happened has him acting irrationally. We need to take this before he calms down and retracts the deal.
+
+Sarya reached for the tablet again, drafting a message to ask Ushia if she was willing to abandon Agmon. The orcish empire had been their true plan to check Giantsrest, though the other Questor had barely begun to guide their culture and traditions thus far. But the orcish seer disliked changing plans once they’d been made. Before Sarya had finished drafting her message, she received a note from the woman in question.
+
+Take the deal. It’s worth it. Then follow your instincts.
+
+Sarya blinked at the message. If Ushia was paying this much attention, that meant there was even more going on than she expected. She sent a quick acceptance to Badud, then checked which of her trusted agents was close to Litcliff. She needed to get people into Gemore.

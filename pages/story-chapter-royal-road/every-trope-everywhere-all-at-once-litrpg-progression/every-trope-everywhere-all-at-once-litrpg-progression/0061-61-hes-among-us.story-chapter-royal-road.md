@@ -1,0 +1,229 @@
+---
+id: bb86eb42-691e-54ee-863c-55960a12e552
+page-type-slug: story-chapter-royal-road
+title: "61 - He's Among Us"
+slug: 0061-61-hes-among-us
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 61
+ownLength: 1931
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3610314/61-hes-among-us"
+royalRoadId: "3610314"
+---
+
+The monster dragged us through the air with the chains wrapped around Aeris and me. We thrashed around, trying to break ourselves free, but the chains were too strong. It yanked onto Aeris’s neck, taking full control of her. I couldn’t do much either since they were around my arm and waist.
+
+The monster pulled the chains, sending me crashing against Aeris. The air was knocked out of my lungs. Still, I tried to sever the chains with Dawn Sunderer. It worked, but another chain immediately took its place.
+
+Then, a Fireball came.
+
+It exploded on the monster. The monster itself didn’t take any damage from it, but the living chains weakened from the impact, releasing us. We turned in the direction the spell had come from.
+
+Meriel and Kaelor had found us.
+
+Now that we were free, Aeris dug her claws into the monster. The beast let out a loud roar and tried to flee, but Kaelor and Meriel swept through, chasing it down. He cast wind spells to try and knock it out of the air, but the monster was completely unaffected.
+
+“What the…?” he said.
+
+“It’s immune to spells!” I yelled as Aeris and I flew just beside them.
+
+I jumped off Aeris, using my wings to burst through the air and taking a swing once I caught up to the monster. The beast twisted its body, not to dodge but to let its chains deflect my blade. The chains hardened at the moment of impact, sparks flying as my sword hit it.
+
+With the monster distracted by me, Kaelor swept in and jabbed it in the chest. It roared, sending its claws toward his face. Meriel backed him up and shielded him from the damage. Then, Aeris appeared on the other side, biting into its neck.
+
+Its chains trembled violently. They lashed out in every direction, trying to force Aeris to let go. One wrapped around her wing. Another hit Kaelor, but Meriel’s barrier held strong, leaving him unharmed.
+
+“Finish it!” Meriel yelled.
+
+Kaelor stabbed the beast in its eye. I swung at its wing, severing it from its body. Aeris clenched down tighter and broke its neck.
+
+We backed off. Its entire body became limp, only kept in the air because of Aeris’s jaw. The moment she let go, the monster fell through the sky, crashing through the clouds.
+
+We never saw it again.
+
+“Whew. That was fun,” Kaelor said.
+
+I let out a sigh of relief. “The hell it was! That thing was way too fast!”
+
+“The monster was physically stronger while it was combined with its other half,” Meriel said, “but it’s a lot quicker in this form, especially since it isn’t held back by the dungeon gate. There’s a tradeoff for everything.”
+
+“Dungeon gate?” Kaelor asked.
+
+Meriel nodded. “The monster was initially at the dungeon gate, keeping it open when it was combined with its other twin. We managed to take care of it and closed the gate, but…”
+
+She broke eye contact.
+
+“We let our guards down. We thought we had killed it after it fell through the air, but it suddenly reappeared as two halves and took us by surprise. Many of your soldiers were killed, Kaelor. Even one of your captains.”
+
+Kaelor looked around for confirmation. Aeris and I nodded.
+
+“I see,” he said. He slowly floated away, his sleeve hanging awkwardly where his left arm should’ve been. “Nothing could be done about that. Let’s keep moving.”
+
+I frowned. “Is that all you have to say?”
+
+“Yes.”
+
+“But they’re your soldiers,” I said. “That’s…”
+
+“Do you expect me to weep about their deaths?” he asked. “They knew what they signed up for when they joined my family’s army.”
+
+I clenched my hands. “You’re right, but…”
+
+“Allene,” he said. “Don’t mistake my lack of words for a lack of sympathy. I cared about them more than you could ever imagine. The act of closing the dungeon gate and stopping the monsters from pouring out wasn’t in vain. Their deaths weren’t in vain. This battle will remember their bravery and feats.”
+
+He and Meriel flew over to Aeris and sat on her back.
+
+“You’ll understand once you’ve been through enough battles,” he continued. “You only have two choices in the face of death, whether that be yourself or your allies: drowning yourself in sorrow or continuing forward.”
+
+I slowly took the seat behind them. Aeris began to fly back to the main battle.
+
+“You’re right,” I muttered. “Sorry.”
+
+***
+
+By the time we returned to the main battlefield, it was already over.
+
+The remaining twin had fallen.
+
+The rest of the monsters were fleeing, and the warriors of Whale Isles had their weapons put away, turning their attention to the wounded and caring for them on the airships.
+
+“It’s… over…?” Meriel said.
+
+We hovered over everyone, observing everything. The twin monster was on an airship, getting flown back to one of the islands, likely to have its body studied. It was completely motionless, with its arm chopped clean off and a fatal wound to its head.
+
+At the center of the sky was a crowd. Countless airships, allies, and giant creatures surrounded something. As Aeris flew us toward it, we noticed a whale who looked awfully familiar. Standing on top of her was a red-haired woman and a harpy who looked just as familiar.
+
+“Reina! Talon! Tuna!” I yelled.
+
+They turned to us, their eyes lighting up. When we came close enough, Talon shot toward us with his arms out, hugging Meriel and me.
+
+“Allene! Meriel! I’m so glad you’re all okay!” he cried.
+
+Kaelor tilted his head. “What about me?”
+
+Talon moved over to him. He was about to hug Kaelor, but his eyes shot wide after seeing what had happened to Kaelor.
+
+“Your arm…” he said.
+
+Kaelor smiled. “Yup. Guess this is going to be my new look for a while. But don’t worry too much about it—I’ll be alright thanks to Meriel’s healing magic.”
+
+Talon wrapped his arms around Kaelor. Kaelor smiled, patting the boy’s head.
+
+Tuna meowed, making all sorts of strange noises at Aeris. Aeris let out a low rumble as her eyes fluttered, breathing a tiny harmless fire at Tuna.
+
+I flew over to Reina.
+
+“You alright?” I asked.
+
+She had the same iron sword in her hand as the ones our other allies wielded.
+
+“Better than ever,” she said, smiling. “Glad to see you’ve all made it out alive!”
+
+“I should be the one saying that. You had blood coming out of your head the last time I saw you.”
+
+She laughed. “I did, but Meriel’s healing was amazing. It took me right back to fighting condition.”
+
+She raised her sword in the air. “Swinging a normal sword every now and then isn’t so bad. I wouldn’t want to get too reliant on using Dawn Sunderer.”
+
+“Where did you even get that sword anyway?” I asked.
+
+“Somebody died in front of me, so I took it from them.”
+
+I gave her a look. It was odd hearing something so serious in such a light tone.
+
+After we gathered ourselves, we turned our attention back to the crowd before us.
+
+“What’s this for?” I asked.
+
+Talon flew to us, standing on top of Tuna. “This is where Aurelius was killed.”
+
+I exchanged glances with Kaelor and Meriel.
+
+“What…?” I said.
+
+I flew through the air, pushing past everyone. When I arrived at the center, I saw it.
+
+Aurelius.
+
+His eyes were closed and his wings were stiff. He wasn’t breathing or moving, and the Soul Anchor ring was still on his finger.
+
+“Who killed him?” I asked nobody in particular.
+
+Everyone looked at each other, whispering.
+
+“I don’t think anyone did,” a male harpy said. “He just suddenly stopped while we were fighting him.”
+
+The others nodded.
+
+Another person said, “I was too busy dealing with the other monsters, but from what I remember, I saw him fighting everyone with that ring sword of his, and the next second, he was just… dead.”
+
+Kaelor flew over to me.
+
+“And where did his ring sword go?” he asked.
+
+“It broke away into several smaller rings,” a woman said. “I have one of them.”
+
+She raised her hand. One of the rings was on her finger.
+
+“I have another,” another said.
+
+“I do as well,” a third said.
+
+One by one, each of them revealed themselves in the crowd. And it wasn’t just them.
+
+“Me too,” Talon said.
+
+I looked at him, eyes wide. I never even noticed until he pointed it out.
+
+Aurelius’s rings… What were they doing in their hands?
+
+“Why do you all have his rings?” I asked.
+
+“The moment he died, the rings shot toward our hands,” a man said. “And look.”
+
+He tried pulling it out, but the ring wouldn’t budge. It was lodged deep into his finger. The crowd continued talking among themselves, trying to figure out what was going on.
+
+Kaelor motioned for me and the others to group up beside him. Aeris had already reverted back to her human form while I wasn’t looking. Strangely enough, the saddle that I had placed on her was still attached to her in this form, but reduced to a size that made it look like any other clothing accessory.
+
+“Something’s wrong,” Kaelor whispered to us. “Aurelius… I don’t think he’s actually dead.”
+
+Meriel nodded. “He must’ve transferred his soul to one of these people here. But who…? And what’s his plan?”
+
+“He’s preparing an attack,” Aeris said.
+
+We turned to her.
+
+“Dispelling a person’s soul and rendering a body hollow isn’t the only way for Aurelius to take over a body,” she went on. “His rings allow them to take over bodies as well—but only temporarily. As soon as we get those rings off, he won’t be able to take over them anymore.”
+
+“Those rings…?” Reina said. “So when he was shooting those rings at us all this time—”
+
+“It wasn’t just to incapacitate us,” Aeris said. “He wanted those rings to attach themselves to our fingers. And seeing this situation… it’s safe to assume he’s hiding among one of the people with his ring attached to them.”
+
+I cast [INSPECT] on each ring wielder, including Talon, but it didn’t return anything unusual. When I had inspected Aurelius back at the dungeon while he was possessing Gabriel, it had only shown Gabriel’s information instead of Aurelius’s. This was no different.
+
+Talon shifted in the air uncomfortably. “Um… I’m not Aurelius,” he said. “I’m still Talon, I promise.”
+
+None of us said anything.
+
+“Should we keep this between the six of us?” I asked.
+
+Kaelor nodded. “We should. The others aren’t aware of Aurelius’s power. If we tell everyone what these rings mean, they’ll hurt the ring wielders.” He glanced toward Talon. “Including him.”
+
+“Not just Talon, but all of them,” Meriel added. “We don’t know which ring wielder Aurelius is, and neither do they. The moment we tell everyone, every person with a ring becomes a suspect. Once panic sets in, people will start taking matters into their own hands and imprison innocent people. Some may even try to kill them.”
+
+“Which is exactly what Aurelius would want,” Aeris said.
+
+“Then what do we do?” I asked. “They already tried pulling the rings off, but they couldn’t.”
+
+Aeris nodded. “Those rings only move where Aurelius orders them to. It’s difficult to do anything at this point.”
+
+We looked at the crowd, all of us hovering in the middle of the sky.
+
+Among these people…
+
+Among our allies…
+
+Was Aurelius.
+
+Talon was no exception.

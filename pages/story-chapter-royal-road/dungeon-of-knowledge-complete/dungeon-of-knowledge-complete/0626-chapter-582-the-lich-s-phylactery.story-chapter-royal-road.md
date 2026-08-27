@@ -1,0 +1,315 @@
+---
+id: 3469cc0f-93fe-5e5f-8b92-8a85abaab833
+page-type-slug: story-chapter-royal-road
+title: "Chapter 582: The Lich’s Phylactery"
+slug: 0626-chapter-582-the-lich-s-phylactery
+partOf: dungeon-of-knowledge-complete
+position: 626
+ownLength: 4803
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183712/chapter-582-the-lichs-phylactery"
+royalRoadId: "3183712"
+---
+
+When the time comes, no matter what you feel, you must release the arrow.- Lyeneru Silverleaf
+
+To Ali’s intense shock and surprise, she woke up. This was not the first time she had been surprised to be alive, but hopefully it would be the last. She lay curled up, with someone’s arms gently cradling her body. Her good hand was being held, and a familiar power pulsed through her like a heartbeat of soul magic healing.
+
+Malika.
+
+Her left hand, however, throbbed like it had been flayed to the bone and stuck back together with glue and a few bits of string. Her mind struggled against a persistent, fuzzy haze, and when she tried to open her eyes, the incoming light stabbed through her brain with such force that she gasped and squeezed them shut.
+
+“Ali?” Malika said.
+
+“Malika?” Ali managed, her voice coming out as little more than a raspy whisper. “I’m alive…?” It was clearly true, judging by the pain, and yet, she couldn’t keep the confusion and uncertainty from her voice.
+
+“Yes, Ali. You are.” The hand holding her squeezed gently.
+
+Ugh, what happened to me? She hesitated, dreading what she would find, but she had to know, so she glanced at her notifications. Thankfully, the golden light of the script in her mind did not hurt.
+
+You have empowered magic using Life Channeling. -100% to maximum health.You have lost the Title: The Eternal Nightmare.You have received temporary health x63.You have received Azryet’s True Healing. Your Life Channeling affliction has been removed.
+
+There were hundreds of other notifications, but these were the ones that stood out to her.
+
+“Ali-friend?” Something squishy touched her cheek, brushing her with water-affinity mana.
+
+“Naia?” Ali gasped. “Is that you? You made it?” She remembered Naia attacking and being blasted to pieces by Nevyn Eld’s horrific magic, a sacrifice that had hollowed out her heart even though it had bought her life.
+
+“Ali-friend is ok! Naia is here,” Naia said, her tiny pseudopod threading around her fingers. Then Ali recalled the oozes coalescing, clumping up, and attacking again. There had been a fight…
+
+Ali cracked her eyelids just a little, wincing at the pain, and sure enough, the little blue ooze had crawled up Malika’s legs and was wrapping a pseudopod around her hand. The little ooze was trying to comfort her. Ali squeezed her back.
+
+“Malika… what happened? I lost my Eternal Nightmare curse…” Several figures stood nearby talking softly. They felt blurry and indistinct, but the sight of the enormous figure that could only be Azryet in the background finally allowed Ali to place her surroundings. The dragon god’s library.
+
+“Mato and Calen are back,” Malika answered. “They won. The Crypt of Kings is destroyed, and they brought back the Lich’s Phylactery. They’re over there right now trying to figure out how to break it.”
+
+“And…” Ali gulped, her throat painfully dry. “Nevyn Eld?” Whatever the result, she had to know. At least with the Phylactery in hand, they may stand a chance.
+
+“He’s dead, Ali,” Malika said, her tone strangely heavy.
+
+“Dead?”
+
+“Well, his soul is in the Phylactery,” Malika amended. “He’s a Lich. After you drained him, I was able to kill him, and then we brought you here to save you from dying. You nearly killed yourself, you know?” Something warm and wet splashed on her forearm.
+
+“I… I’m sorry,” Ali managed. Malika rarely cried, and the sight of it left a lump in her own throat. “I didn’t know what else to do.”
+
+“It’s ok,” Malika said, wiping her eyes with the back of a sleeve. “I’m just glad you’re alive.”
+
+“Aah, Aliandra. I see our hero is finally awake.” The deep vibrations of Azryet’s great voice rattled against the fragility of her bones, triggering bolts of pain that stabbed through her head once again, but there was a note of concern in his voice, and the triumph implied by his words was muted. “How are you feeling, little one?”
+
+How am I feeling? Her mind came up blank, reaching for an answer, but nothing came. “I’m… not little…” she managed, her voice breaking as she began to cough.
+
+“… you’re just huge,” Mato finished for her.
+
+At the sound of his voice and his familiar chuckle, a burst of relief surged through Ali’s heart, washing away a knot of tension and stress she had not even been aware she’d been holding. “Mato? You’re ok?”
+
+“I’m right here,” he said, an enormous hand reaching down to squeeze hers. “Oh, and Calen made it, too.”
+
+“Hi Ali,” Calen said from somewhere nearby.
+
+“I got to fight a dragon!” Mato said. “It was glorious, you should have seen it! I guess you did, you were there… thanks for breaking that stupid shield!”
+
+Everyone is… alive. Ali sighed. Mato’s excited words triggered memories that flooded back in a rush, but her mind could not unclench while there was still a threat. “The Phylactery?”
+
+“We have it,” Calen confirmed. “And Azryet says Nevyn Eld’s soul is definitely trapped inside.”
+
+“The Phylactery can wait,” Azryet said. “Your arm is more important.”
+
+“My arm?” Ali asked, glancing at her left hand. It was still throbbing painfully, but how could her injury be more important than dealing with the Lich and his Phylactery?
+
+“Do you realize what you have done?” Azryet asked, his voice louder and growing frustrated and angry.
+
+Ali winced at the physical force of his spoken words rattling her battered body and mind.
+
+“Azryet,” Lira said. While Lira’s voice was still calm and resonant, and she spoke just the single word, it carried the weight of a sharp edge that might have been disapproval.
+
+“I’m sorry,” he answered, but this time his voice was quieter and gentler. “I don’t suppose you even understand what you have wrought?”
+
+“Is it the curse?” Ali asked. Somehow, in her desperate rush to grasp something – anything – that might help, she had pulled on everything she had learned. Much of it drew from her experience studying the tattoos and runic formations that Nevyn Eld himself had created. It was not surprising that she had created a cursed item. And although she was now paying for it, she would do it all again if she had to do it over.
+
+“It’s not a mere curse. You have inscribed demonic magic on yourself with the blood of a Pit Lord,” Azryet answered.
+
+I had no choice. Yet her very soul sank at his words.
+
+When she didn’t answer, he continued. “Pit Lords are the direct descendants of the Demon God, Destraggoth, and they bear his bloodline. The true danger of the Demon God is that he propagates his bloodline through corruption. By using his blood, you have written that corruption directly into your own soul – or perhaps more accurately, you have corrupted your own bloodline with that of the Demon God. This demonic corruption will continue to fester, eating away at your bloodline until nothing of you remains, and then you will become a powerful demon spawn, propagating his influence into your own realm via your domain. Already, the corruption is leaking out. It’s twisting even my own domain.”
+
+“Can… can you heal it?” Ali asked, the horror of what she had done slowly percolating through the haziness in her mind.
+
+“No,” he said, with a note of finality in his voice that was tempered only with pain. “You invited it in by accepting the runes. The only way to survive is for your bloodline to grow strong enough to resist the corruption directly – and that won’t be possible until at least your next one or two class evolutions.”
+
+“How… how long?” Ali asked, glancing at her friends’ sad faces. “How long do I have?”
+
+“You would have succumbed in minutes if you hadn’t also inscribed my blood into that abomination you crafted – and yes, before you say more, I understand the necessity. It’s inspired work, but the consequences are… dire. My blood holds the bloodline of the Demon God at bay, but your soul is far too fragile to bear this burden. It is already cracking under the load – were I to do more, you would shatter.” Azryet’s sigh echoed through the library like a herald of doom. “It would be a mercy to kill you now. You will not last the week.”
+
+The harsh pronouncement echoed within her, but her heart was hollow. Hadn’t she given enough? How was it that, even though they had won, she would still have to suffer for Nevyn Eld and his evil. Now she was destined for a horrific fate: to become a demonic thrall to Destraggoth and corrupt her entire domain.
+
+And her friends. She met Malika’s worried gaze and squeezed Naia’s ‘hand’ again, and knew deep down in her heart that she would pay the same price ten times over to see them all safe again.
+
+“Azryet? Will you do it?” Ali asked, turning her gaze upon the mighty dragon. If there was truly no chance for her, she would accept her fate. At least she could choose her way out and not inflict this horrible duty upon her friends.
+
+Pensively, he growled, “I –”
+
+“No!” Malika exclaimed. “There must be a way. I… I have an evolved healing spell. I can even heal soul and attribute damage! But… why doesn’t it work?”
+
+“Destraggoth works through corruption,” Azryet said with a note of finality in his voice.
+
+“Oh, I can cure corruption,” Mato said.
+
+“You have barely crossed the threshold of the third tier, young Druid. Your enthusiasm is admirable, but Destraggoth is more powerful than even I,” Azryet rumbled.
+
+“Azryet, perhaps there is yet a way.” Lirasia’s quiet kindness resonated through the room, and Ali’s pain softened and faded.
+
+“Great Mother, there is no way I know of,” Azryet said, but a note in his tone betrayed hope that he might be proven wrong. “Even if we were to reset his evolution and fashion a tailored Path with our combined Authority, it would still prove too weak.”
+
+Mato echoed, “My path? I’d do anything for Ali.”
+
+“I know. Azryet, did you forget that my protégé earned the Incorruptible title for bearing the corruption of my Acorn in his heart?” Lira said.
+
+Azryet turned and fixed Mato with a piercing stare that might have been a glare, but then he broke his gaze and returned to Lira. “That would still be insufficient. Her soul has taken severe damage…” He suddenly turned a surprised glance on Malika. “… and the substrate…”
+
+“Would need to be powerful, yes?” Lira said and then turned to Calen. “Do you still carry the vials from the Wells?”
+
+“Yes!” Calen exclaimed, producing half a dozen filled vials in a flash.
+
+“You intend to make another Elixir… one tailored to her?” Azryet said, astonishment creeping into his voice. “Yet…”
+
+Ali smiled weakly at him. “You can say it.”
+
+Azryet expelled a sound like, ‘humph-grrr!’ then, he added, “I have come to care for you, Aliandra – you and your friends. To defeat a foe of Nevyn Eld’s ilk, of his ancient lineage and power, is no small achievement. We must do whatever it takes.”
+
+“What’s needed and how can I help?” Calen burst out, before coloring a little. “Sorry.”
+
+“Watch and learn, dear child,” Lira said, selecting three vials from Calen’s eagerly offered bounty. Quickly, she decanted a measure from each into a slowly spinning orb of liquid held aloft by powerful threads of emerald-green shining mana leaves. Ali would have assumed it to be a simple working, but for the tidal surge of mana that spanned all the roots woven throughout her domain, drawing from places and powers beyond her ken.
+
+Long minutes ticked by as Lira diligently and with pure unblinking focus, worked her magic, transforming the orb into a vibrant, pulsating sphere of light. Finally, she turned and said, “Mato…”
+
+“I don’t know what you are doing,” Mato said, standing tall and confident, but by his sides, his clenched fists trembled. “But, if it means you don’t have to kill Ali, I’ll do it. Whatever it takes.”
+
+Mato… Ali still had no idea what Lira was thinking, and she was certain Mato didn’t either. And yet, he offered without hesitation. Her throat began to constrict as her heart squeezed tight.
+
+“Nothing that severe, young Druid,” Lira said, her eyes sparkling with laughter that seemed so out of place, Ali had to release her pent-up emotions with a sigh. “I require but a single drop of your blood.”
+
+“Of course!” Mato said, glancing around rapidly. “Plenty to go around. Take ten if you need.”
+
+“Just the one, dear.”
+
+Calen immediately offered him a dagger, and he pierced the tip of his finger, allowing a single drop of his blood to fall onto Lira’s concoction, under her careful guidance. The instant the blood touched the surface of the orb, the light deepened into a steady, dark emerald glow.
+
+“Now, you, Azryet,” Lira said, collecting a drop of blood that shone like the sun and midnight blended in an incomprehensible fusion. As the orb brightened dramatically, Lira explained, “From you, we take a powerful healing substrate and the ability to excise damage using void.”
+
+“I see,” Azryet murmured, nodding sagely, although Ali barely grasped the Alchemy being wrought.
+
+“And for the final ingredient,” Lira said. She gently took Calen’s dagger and pricked her own hand, allowing a pale amber drop of sap to fall into the mixture. In the center of the orb, a brilliant kernel of green ignited – the color of the ancient deep woods, forests, and fresh spring growth.
+
+She fed Authority into the mixture in a flood, and a realm gong rang out, but Ali barely saw it as her entire being shuddered at the sight of the creation her aunt had wrought. Something dark and primal pulsed with anger deep within her marrow, and then her blood began to seethe. Heat burned along her veins and arteries, and the pain flooding through her was immediate and excruciating, as if a demon had awoken and summarily flayed open every nerve in her body with obsidian, acid-dripping talons. Dark red mist began to seep into the air from her left arm, and Ali let out a howl that shocked even her own haze-addled brain.
+
+A searing jolt of mana rushed through her, and her mind steadied.
+
+You have gained Clarity.
+
+“Uh, thanks,” Ali said, glancing at Malika. “What… was that?”
+
+“The demonic influence on your bloodline reacted instinctively to the elixir,” Lira said. She produced an acorn cap and dipped it into the liquid orb that she held cradled with her mana and offered it to Ali.
+
+Even with Malika’s healing and Lira’s kind gaze, Ali felt something within squeezing her heart at the sight of the elixir, but she steadied herself on Malika’s arms and gulped it down. She passed out the moment it went down her throat.
+
+Ali’s conscious awareness seeped back into her slowly, like waking from a dream. Something flowed into her body like a soothing stream. It sparkled and bubbled, washing its way through her, and the darkness and haze within her mind slowly began to dissolve.
+
+She lay there for an indeterminate time, clinging to the calmness and the relief that flowed within her, somehow washing her soul from the inside.
+
+And then, finally, she opened her eyes.
+
+“How are you feeling, dear?” Lira asked.
+
+How am I feeling? Like I need a cup of my aunt’s tea? Her arm throbbed a little, still, but her mind was blissfully clear and sharp. “I’m… ok?” she said, and to her amazement, it felt true.
+
+Ali sat up slowly with the aid of Malika’s helping hands guiding her and looked around.
+
+“I am humbled, Great Mother,” Azryet said, bowing his great scaled head toward the comparatively tiny dryad. “Your work is extraordinary.”
+
+“It is nothing,” she demurred, but Ali could tell that Lira was happy and relieved. “It’s never too late to learn something new, for all of us. Let’s go check on our dear Mato, shall we?”
+
+Ali turned to look around, and her eyes widened in shock as she saw Mato. She had been moved elsewhere within Azryet’s domain – a huge, vaulted ceiling rose overhead, and the chamber was filled with soft, diffuse light that emanated from the walls as much as the glowing holy plants. A great circle of the stone floor had been precisely excised, exposing the earth beneath. Mato was planted in the center, a giant tree that towered taller than ever before, but his bark glowed with an ominous reddish-black, and many of his branches were withered and twisted. A heavy pall of miasma cloaked the tree as a terrible aura of demonic energy radiated from him.
+
+“Mato?” she asked, her voice coming out as a startled, terrified squeak.
+
+“I’m ok, Ali,” he said, but even his telepathic voice was twisted and laden with repressed pain. Black sap oozed from the wounds in his bark, like demonic blood dripping down his trunk.
+
+“Lira! What is happening to him?” Ali squeaked.
+
+“He is taking your corruption upon himself,” Lira said, squeezing her hand in what was meant to be reassurance, but Ali was horrified by the sight.
+
+“But won’t he…”
+
+“Watch, dear,” Lira said. “With your mana sight.”
+
+Ali clutched at her robes with her hands, biting her lip, but as she watched, she saw what her aunt meant. The terrible corruption he had siphoned off from her was slowly fading. Bit by bit, the darkness receded. Green returned with aching slowness to his leaves, and if she observed closely for long enough, his bark was smoothing out.
+
+“That must be awful,” she said.
+
+“It’s fine,” Mato answered, but Ali ignored him. He was just being Mato – admitting pain would probably seem like failure to him. Besides, he was a tank for a living. He always took everyone’s pain upon himself – that hardly meant it was ok.
+
+“Yes, it is extremely painful,” Lira said. “And he will need to do this for you every few days. He can withstand it better than you could, given his endurance, health, and his Incorruptible title. Lifting your corruption will allow Malika to rejuvenate your soul and bloodline. You can’t allow it to progress too far. Promise me that, Aliandra.”
+
+“I will,” she said, the words twisting painfully in her heart at the implications for Mato, and at the sensation of Malika’s healing pouring into both of them. “As long as Mato is ok with it.” She turned to look at the tree and said, “If you ever want to stop, please just tell me.”
+
+“Don’t be silly, little one,” he answered. “We’re friends. I’m not going to let you down.”
+
+There were so many things Ali wanted to say. That he didn’t owe her anything. That he should look out for himself. How could she endure the pain of watching him suffer on her behalf – especially when they would need to perform this ritual every day? How can he… She forced herself to stop and just said, “Thank you, Mato.” She reached out to touch the bark of his tree as her voice struggled against the lump in her throat. He does this for me. And yet, if the tables were turned, she would have done the same for him in a heartbeat. For any of them. She sat down to wait beside him while he recovered.
+
+It took most of an hour before his bark was whole and his leaves restored to their former green, and then his trunk shivered and twisted as he shrank back down to his Beastkin form.
+
+“So, what do we do with this ugly thing?” Mato said, pointing at the Phylactery Calen still held. His recovery had taken a long while, but everyone was still gathered in the room.
+
+Lira had brewed some tea just as she’d wished for, and Ali gratefully sipped on it, enjoying the aroma while Naia wobbled happily, nestled now on her lap. Ali finally felt healthy. Her arm was still tender, and it still leaked darkened blood from around the voidstone runes, but the pain seemed manageable. Certainly, it was far better than before. Mato seemed to be back to his normal self – almost. He was still a little pale, but he seemed able to put a good face on it.
+
+“Lovely tea, thanks, Great Mother,” she said.
+
+Lira threw her a certain kind of smile. “Aunt Lira to you, dear. And, it’s a pleasure.”
+
+Ali smiled back.
+
+“We cannot just destroy the soul artifact,” Azryet said in the meantime. “I cannot deconstruct it while he’s inside. Freeing the Lich’s soul would allow him to escape and make a new Phylactery. Worse, he is employing a barrier reinforcement that is challenging to break.”
+
+“How do we even kill him, then?” Calen wanted to know.
+
+Indeed, it seemed nigh impossible to end a Lich who had amassed as much power as Nevyn Eld. Were they to kill his Avatar, as they had several times now, he could simply make a new one. If they figured out how to break his Phylactery, he was capable of fashioning a new one. Destroying both, according to Azryet, would leave his soul wandering the realm until he made a new Phylactery and the entire nightmare restarted all over again.
+
+But Ali was not even the slightest bit worried. “I know how to end him for good,” she said, levering herself laboriously to her feet. Suddenly, she had the attention of everyone locked upon her; a rather unsettling experience given that two of them were deity-ranked classes, past the fifth tier.
+
+“You can end him, where I cannot?” Azryet asked, balancing his severity with a broad wink. “Explain yourself, young lady!”
+
+Ha! Azryet seems rather pleased, she decided.
+
+“I’m over three thousand years old; I’ll have you know,” Ali said, drawing herself up to her full height. At that moment, she realized she was still wearing the Defiance of the Meek title, and she surreptitiously swapped it to Ancient instead, but the soft snort of mirth from Lira told her that her subterfuge had not gone unnoticed.
+
+“Nevertheless, ending his evil is the most important task we have,” Val’korr said soberly. “I, too, am curious what it is you have learned.”
+
+“It was his great secret,” Ali said. “He bound himself not just to his phylactery; he bound himself to his dungeon, too.”
+
+“Are you certain?” Azryet asked, his great eyes widening as the yellow and white swirls of holy mana within them shone. “That… that explains much.”
+
+“Absolutely certain,” Ali answered. She had experienced the dungeon rage several times during the battle when he had used domain magic to replenish his mana. At the time, she had not immediately recognized the implications, but the feeling was unmistakable. He hadn’t even needed World Walker due to the unique nature of his soul and his avatar being able to exist in separate locations. The second clue had been the simultaneous use of the Aegis of Absolution around his avatar and his phylactery. They were linked, after all.
+
+“That would explain why he was so powerful, nigh unstoppable,” Lyeneru said softly.
+
+“Yes. Nevyn Eld’s soul was the last boss of the Crypt of Kings,” Ali said. That had come to her when she had been confronted with the puzzle of how the three kings of ancient Dal’mohra had been squashed into a region of dungeon domain the size of that throne room, and all granted the champion-rank domain enhancement. Azryet himself had explained how Denizens eased the pressure on the domain, and it had been a small leap of insight to recognize what the Lich had done to himself. “I believe you’ll find he possesses a Mana Siphon domain magic spell. This was what allowed him to abuse the Aegis of Absolution while still being able to cast his magic with impunity.”
+
+“I see. That would explain why the shield appeared impervious. He could never run out of mana. But then, how then did you defeat…” Azryet paused with his talon upraised, looking about as sheepish as a majestic dragon could, which was to say, not much at all. “Oh, I see now. That is why you inscribed that cursed abomination upon your arm and bound yourself to your domain.” The great Dragon God fell silent for a few moments while his eyes fixed her with an unreadable expression. “You turned his Mana Siphon against him, didn’t you? You… burnt the mana of an entire dungeon?”
+
+“Yes,” Ali answered. There wasn’t much more to say, really. In the end, it was quite simple once she had the key. Mana Siphon worked both ways, so provided she could burn enough, it didn’t matter that he had the full power of the Crypt of Kings. She had intended to drain it all, dropping the Aegis guarding the Lich’s phylactery by running it out of mana, but Naia had intervened, using that same channel as a path to the Crypt of Kings, and offered her a portal linking the domains. From there, it had been trivial to consume all of the Crypt of Kings with her Domain Architect and claim the dungeon for herself. She could feel the Well of Eternity pulsing soft power into her domain from all the way across the Abyssal Realm.
+
+“Err… what does that all mean?” Mato asked, looking back and forth between her and Azryet with a confused frown on his face.
+
+“Nevyn Eld is a dungeon boss,” Ali said. “And he’s outside his domain.”
+
+“Wait, do you mean he is suffering Domain Withdrawal?” Calen asked.
+
+“Oh!” Mato exclaimed. “That’s good, right?”
+
+Calen winked at him. “Thanks for a wholly different sort of damage?”
+
+Azryet gurgled in appreciation. “Indeed!”
+
+“Not quite,” Ali said, nodding an apology to Lira for interrupting her as she was about to speak. “As Lira has explained, a Phylactery is basically a cocoon of domain mana wrapped up around a soul – a gross simplification of the fiendishly complex magic.”
+
+“Essentially correct, though,” Lira nodded.
+
+“It is the last remnant keeping him alive,” Ali finished.
+
+“And you have a way to separate them?” Azryet asked.
+
+“I do,” Ali said, gazing up at the big dragon. “May I prevail upon you for assistance one more time?”
+
+“It would be my pleasure,” Azryet said, his vast maw cracking into a toothy grin as holy mana began to condense within.
+
+“Right,” Ali said, summoning a small disk barrier in the air. “Put it there, please, Calen.”
+
+He set the alabaster urn on the floating golden disk and stepped back. Then he took another step, ever prudent.
+
+Ali took a deep breath. This was going to be a challenging undertaking, but she had lived within this spell for three thousand years, repaired it once, and even seen it cast. Besides, she had a cheat sheet.
+
+“Clarence?” she called, not needing to call a second time, or even raise her voice, before the eager tome popped into existence before her face and swooped around her head. As was his peculiar talent, he opened promptly at precisely the chapter she needed. Ali pushed up her sleeves and consulted her memories. She compared them to his brightly inscribed pages and then proceeded to channel her life energy into a storm of glittering arcane runes that she spun out of mana around her right wrist.
+
+Azryet’s gentle healing breath came down all around her like a sustaining cloud, buoying her up while she worked. Motes of light and mana bubbled up out of her body, but for the first time, her life energy was sustained by the Dragon God’s healing winds. As the spell left her fingertips, she knew it was perfect, for she finally understood what her mother’s spell actually did. She fed a single point of Authority into it.
+
+[Realm] Aliandra Amariel [Ancient] has cast the legendary spell: An Instant, Frozen in Time.
+
+A glittering golden cylinder snapped into existence in the heart of the chamber, capturing a twisted, transparent form within it like a firefly trapped in a pillar of amber. As the spell solidified, it drew his soul over into the Spirit Realm, leaving his Phylactery behind.
+
+Ali lowered her hands and sighed. “Thank you,” she said as the Dragon God’s healing breath faded, leaving her unscathed from the incredible spell her mother had created.
+
+“Ok, now what?” Mato asked, glancing between her and the golden tower she’d summoned.
+
+“Now, we wait,” Ali said.
+
+“Huh?” Mato snorted. “Huh. Right. Should I cook us some lunch? Beating up dragons does make a bear a bit hungry.”
+
+“Indeed, little one?” Azryet rumbled.
+
+A roar of laughter shook their group at that.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

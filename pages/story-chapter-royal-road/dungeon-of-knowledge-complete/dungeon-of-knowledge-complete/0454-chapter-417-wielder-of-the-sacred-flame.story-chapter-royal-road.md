@@ -1,0 +1,211 @@
+---
+id: 0b5bdda5-e616-5d79-8138-b0941686bb6e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 417: Wielder of the Sacred Flame"
+slug: 0454-chapter-417-wielder-of-the-sacred-flame
+partOf: dungeon-of-knowledge-complete
+position: 454
+ownLength: 3843
+unit: words
+ownProgress: 3843
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2696214/chapter-417-wielder-of-the-sacred-flame"
+royalRoadId: "2696214"
+markedReadAt: "2026-06-29T20:27:32.369Z"
+---
+
+“Um, I don’t understand,” Ali finally admitted, staring at the immense Shrine of the Calamity.
+
+Azryet let out a rumble, circling the shrine almost protectively, and said, “After a certain level, the shrine unlocks more potent abilities that require spending your experience to use, much like some advanced crafting skills. Once you achieve deity or otherwise pass the threshold for using Authority, further shrine options become available. Class Blend is the most important one – with that, you can make a minion with some of the traits of one imprint and the rest of the traits from another. The choices are random, and most of the time this produces something unusable, especially considering every property is considered for blend, including race, aptitudes, skills, and titles.”
+
+“That seems expensive. Why would you do that?” Ali asked. He seemed to ooze a particular frustration when talking about the ability, and Ali could hazard a guess why. Authority seemed to be an extraordinarily precious resource, even for one such as him.
+
+“If you capture a minion with a desirable trait or ability, you can graft it into a better minion body,” he said, gazing down at her with such a stern expression, she had to still an urge to squirm or even bolt. “But it costs Authority, something I can no longer afford. Once I became a dungeon and established myself here, I lost the ability to cross realm boundaries, and I grossly underestimated how quickly the mortal races would lose interest in a god without constant reminders of his existence.”
+
+Suddenly, his anxiety began to make sense. “You’re worried that Destraggoth will learn to add some of the ice mage’s skills to his demons?”
+
+“Yes, that Spectral Ice is… problematic. If he gains access to that, he will be able to manufacture demons that can shoot through my dragons’ void shields.”
+
+“Won’t he need at least three before he can make it?” Ali asked. He clearly didn’t have the imprint yet, having only captured one of her monsters so far. She could just not make any more ice trolls until she escaped.
+
+“Look at the first Authority ability,” Azryet suggested. “It allows you to take an imprint of something without destroying it – and it only requires one. Sooner or later – probably as soon as his recharge expires – Destraggoth will demand the corrupted troll and imprint it, and then it’s only a matter of time before we have ice affinity Pit Lords that can pierce my shields with ease.”
+
+“Doesn’t it say the subject must be willing?”
+
+“Yes,” Azryet said. “And that is Destraggoth’s unique advantage. His Pit Lords can corrupt anything with blood, turning them into demonic thralls, but retaining their skills. The troll is already willing.”
+
+“Oh.” That indeed made things much more dire. “Can’t you just go crush him?” Maalgaroth might be strong, but only compared to her. Against a force of nature like Azryet, there was no chance he would survive.
+
+“Destraggoth would go all out to defend Maalgaroth if I made a move. I’m sure I don’t have to tell you that you would never gain access to your rift if that were to happen,” Azryet said. “Much as I would prefer to just crush him, I cannot. I cannot risk drawing Destraggoth into a direct confrontation. I must again rely on you to kill Maalgaroth and deconstruct your troll, denying the demon god his prize. The only help you can count on from me will be a distraction from elsewhere along the battlefront. At least if you show up, Maalgaroth will believe he can win, and he will not flee with the corrupted troll nor call for help. You must appear weak enough to make him feel self-assured, presenting him with the tantalizing possibility of capturing more prizes, and then slay him at the height of his power.”
+
+It all sounded like a draconic fantasy novel plot, but, ignoring the fact that she would be the one facing a raid boss version of Maalgaroth, the plan was surprisingly well thought out. Maalgaroth was just arrogant enough to fall for her lure if she showed up with more trolls, especially now that he had a taste of the power and favor they could unlock for him. There was only one problem. “I don’t think I’m strong enough to beat him.”
+
+“That is why I brought you to the shrine,” Azryet said. “You have minions ready for evolution.”
+
+“You will let me use your shrine?”
+
+“You will need it. Maalgaroth is considerably stronger than you.” He indicated to the shrine, and Ali could tell from the way the mana shifted that he had enabled it for her. “Just make sure that when you recover your shrine, you re-evolve minions with the same paths.”
+
+“Why?”
+
+“Your shrine records all classes earned and paths taken on it. Once one of your minions unlocks a path and you use the shrine to create it, the path is available from then on for any compatible minions in the future. It is one of the most powerful tools in a dungeon’s arsenal. It is incidentally why dungeons have the potential to become the strongest deities – the synergies between the shrine and the ability to design paths for followers are unparalleled.”
+
+“So, you’re going to get my paths when I evolve my minions?”
+
+“Yes, but the likelihood that they will be useful with my restrictions is low. Still, it might give me something. But you almost certainly want the paths recorded for your future minions.”
+
+“Why exactly are so many dungeons restricted in what they can summon?” Ali asked. She didn’t understand why anyone would give up such versatility.
+
+“It is not they that are restricted,” Azryet answered. “It is you, specifically your mana, that sets you apart. You are the anomaly.”
+
+“My mana? What is special about arcane?” Ali asked. She did have a rather special gold variety of arcane magic, but she thought that was simply to do with her bloodline.
+
+“No, not arcane. It is your nature mana,” Azryet said. “It is the essence of nature magic to summon all manner of living things. Nature by itself is not particularly strong, but what it lacks in offensive power, it more than makes up for with its unmatched summoning.”
+
+“It’s not that bad for power,” Ali said. After all, she had poison wyverns and similar monsters, which were all quite strong.
+
+“Compared to the magic of the void?” Azryet asked, tilting his head to the side and letting a wisp of sizzling darkness escape from between his fangs.
+
+“Good point,” Ali conceded. She had faced his void breath attack personally, and even the lesser attacks of his dragons and kobolds were unreasonably powerful. But his point was much more than superficial power; she had fire mages, and she always relied on them when she needed something blown up. For damage, adventurers almost always sought out lightning or fire magic. “So, if I didn’t have nature magic, I would have been restricted to summoning Fae?”
+
+“Quite possibly,” Azryet said. “And likely arcane or nature elementals. It is common for dungeons to be able to summon elementals of their own affinities.”
+
+“I can summon any elemental,” Ali said. Based on what he had revealed, that might just be a property of her arcane affinity. “As long as I have that affinity in my domain in the location where the monster is summoned.” Well, it wasn’t strictly true; she hadn’t yet found a way to grow a bone affinity domain, and so her bone elementals had never worked.
+
+“That is a remarkable feat. One which will stand you in good stead for the future.”
+
+“Can you summon elementals?” Ali asked.
+
+“I do not know,” Azryet said.
+
+“Why not?”
+
+“Have you ever seen a void or holy elemental?”
+
+“No, I haven’t,” she admitted. But it was this perspective she had always craved – someone who had walked the path of being a dungeon class before and understood how it worked. She had figured out a lot of things on her own, but details like this were the kinds of things that required centuries of research to fully understand, and she simply hadn’t had that kind of time, whereas he had. “What exactly is Authority?” It was a subject that had teased her with profound understanding, and yet consistently eluded her.
+
+“The primordial mana?”
+
+“Yes. Val’korr said some people call it divine mana?”
+
+“Hmm, divine mana? Authority is something more profound, more fundamental to the existence of magic itself. Take it from someone who has already surpassed the divine threshold. It is the power to adjust traits and skills themselves – to manipulate magic on a foundational level. It’s impossible for those below the third or fourth evolution to even hold onto, decaying instantly into traited mana or even stamina, experience, or other forms of energy. The only exception I have ever found is a dungeon’s shrine, which can manipulate Authority during path selection or minion class assignment.”
+
+“My mom studied it extensively,” Ali said, pulling Clarence over and opening the surprisingly compliant book to the appropriate chapter and offering it to Azryet.
+
+The dragon leaned in closer and studied the text for a few moments. “Your mother was a smart woman. For someone who I assume hadn’t ascended, she has a surprisingly sharp grasp on the concept. Authority is connected to reputation, but the conventional understanding of reputation is potentially misleading. It is not that people know who you are or of your actions, it is that the fundamental fabric of traited mana has been imprinted by your Authority. Even before you can wield it explicitly, you generate Authority in small quantities by significant actions. It is the reason significance matters and how mentorship or godly tithes work the way they do – your actions carry traces of your mentor’s Authority and mana.” Azryet sighed. “I would have loved to sit down with your mother and discuss this at length.”
+
+“Me too,” Ali said, her voice catching in her throat.
+
+“Here, we can continue this discussion later,” Azryet said, revealing a surprising awareness of her inner surge of emotions. “Go ahead, summon your unevolved minions.”
+
+Ali wasted no time manifesting her Grimoire in the air before her and then summoning all the minions she had at level one hundred, while Azryet sat intrigued, fascinated by her floating book.
+
+Devouring Consumption – Ooze – level 100 (Nature / Death)Armored Drake – Dragon – level 100 (Fire)Bone Warrior – Troll – level 100 (Bone)Blood Shaman – Troll – level 100 (Blood)Witchdoctor – Troll – level 100 (Soul)
+
+In deference to Azryet, she began with the Armored Drake. As she worked her way through the surprisingly straightforward path choices, she asked, “Why are there so few shrine options? I would have thought you’d have a lot more by now.” Then she caught his eye and gasped as she realized how critical that must have sounded.
+
+“Shrines present many and diverse abilities as they grow,” he said, grinning widely at her – a somewhat terrifying display of enormous fangs. “I could not afford most of them. Ultimately, a dungeon is fixed in one place and dependent on fate and random chance to acquire useful imprints. A shrine’s purpose is to make the most of the imprints you capture, allowing some mixing and development to produce what you need. Any other ability is fluff and takes the space of something that could produce a much more powerful minion.”
+
+[Zone] Armored Drake has advanced to the second tier.
+
+Azryet’s words conclusively confirmed her suspicions of what the purpose of a shrine really was, and looking at the abilities he had, she found she had even more questions. “Do you mind explaining what these abilities do? And how you use them.”
+
+“Class Blend I have already explained. Suffice to say, I have spent enormous amounts of Authority trying to blend the skills of minions perfectly – it is frustratingly random, but worth every point once you learn a great combination. Force class or race evolution was my first Authority ability. Once you get the correct blend of skills, it can take years to level a minion to the proper levels and guide it through each evolution. Instead, you can pay Authority to boost the minion from one evolution to the next, at an exponentially greater cost as the minion advances. This ability saves enormous amounts of time, but for an incredible cost.”
+
+Ali nodded. It was clear to her now why reputation mattered so much to the dragon. It was his only source of this Authority. And the shrine likely wasn’t the only thing that Authority was used for.
+
+“Randomize Class is the singularly most powerful ability of the entire shrine, and yet the most frustrating and expensive. I’m certain it is the only advantage I have over Destraggoth. It creates a new class for the minion with randomly assigned skills, affinities, and aptitudes – the only limit being that they fall within my own minion summoning restrictions. It will never produce an ice affinity or a non-dragon for me, but everything else is possible, including abilities I have never seen before. Used in combination with Class Blend, I can discover and craft minions even if I cannot find the necessary skills to deconstruct.”
+
+[Zone] Bloodwielder of Aman Rak has advanced to the second tier.
+
+“That seems complicated,” Ali said. It was indeed as he had described – something random must be incredibly frustrating to use, especially when it cost something as important as his godly Authority. Now that he was critically low on that, he likely couldn’t use the ability to craft a minion that might get him out of this hole he found himself in. But there was something she didn’t quite understand. “Can you not edit your minions from spells you learn from your books?”
+
+“Edit?” He cocked his giant head slightly, his eyes whirling with brilliant light.
+
+“Um, yes, I can change the imprints in my Grimoire,” Ali answered. Quickly, she summoned a flight of Luminous Dragonets and a matching flight of Glitter Dragonets. “I made this one,” she said, pointing at the Glitter Dragonet swooping around her head, “by copying one of Calen’s spells and writing it into my book in the imprint for that one.”
+
+“Say more,” Azryet said, his voice rumbling as his great head lowered and his eyes took on an intensity that was sudden and frightening.
+
+“Um… ok,” she said, and then decided she would summon a Radiant Brawler and an Arcane Brawler. “I transmuted the affinities for this one,” she said. “Cael and Gage are restricted to space and arcane affinities, and they had no monsters to use against the shadow rift, so I made them this one to help out.” She was babbling, but honestly, the giant dragon’s face being so close to her was enough to steal the breath from her lungs.
+
+Slowly, his head withdrew as he seemed to realize he was terrifying her, but the intensity of the light in his eyes did not abate. “What can you make that is draconic and holy or void affinity?”
+
+“I don’t know?” she answered, feeling her heartbeat slowly returning to normal. “It’s fairly difficult, but I can try some things?” Her voice rose at the end, turning the statement into something that sounded embarrassingly like a question.
+
+[Zone] Devouring Consumption has advanced to the second tier.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Ali automatically selected a free chapter for her new evolved Ooze variant, resulting in an explosion of runic magic funneling rapidly into the pages of her Grimoire.
+
+“We have some time,” Azryet said. “And I am very interested in watching.”
+
+Her mind whirling, she reached for her Grimoire. Calm down, Ali, he’s not going to eat you. Certainly, if she were to be dinner, he would have eaten her a long time ago. She glanced over to see Tiraza looking on curiously, waiting for them to be done, with her beautiful aura of holy magic emanating from her like ghostly flames. And suddenly she had an idea.
+
+“Clarence, I need you,” she said, and her mother’s book flew over and settled into her lap, opening to the chapter on affinity transcription, as if it had read her mind. Then she turned to the kobold imprint and began trying to blend her Acolyte of Azryet with her Fire Mage.
+
+[Zone] Bone Champion has advanced to the second tier.
+
+The gong sounded, announcing Kir’mogan’s ascension to the second tier.
+
+It took every ounce of skill Ali had, and many consultations with Clarence. She messed up countless skill transcriptions, having to wipe them out and do them over, and, in the end, she hadn’t even been able to make an exact transcription due to the fundamental inherent incompatibilities between holy and fire. But at last, her Grimoire finally acknowledged her work.
+
+Grimoire of Summoning has reached level 53.Sage of Learning has reached level 65.Variant: Holy Fire Mage added to Imprint: Kobold.
+
+Carefully, she summoned one, exquisitely aware that Azryet had been scrutinizing her work the entire time.
+
+Holy Fire Mage – Kobold – level 67 (Holy).
+
+Ali glanced over the skill list carefully, but even under close examination, everything seemed fine. It had a Fireball skill that used holy flame instead of fire. It had a holy bolt. She hadn’t been able to give it Flame Shield, so instead she gave it an actual Holy Shield, just like Havok. It had two important skills that would set it apart in combat. The first mastery allowed all its holy offensive skills to heal any allies it hit instead of doing damage – a skill that made its area damage fireball vastly more versatile. The second was an ability that dropped consecrated holy fire on the ground wherever it did damage, a lingering area of damage and healing for foes and allies respectively – an exact copy of Havok’s skill. The rest of its skills she had left mostly intact, basic mage support skills boosting intelligence and such. Its Flame Dash movement skill was almost unchanged, just leaving consecrated fire instead of regular fire.
+
+“Um, I think it’s done,” she said, pushing the little Kobold forward for Azryet to see. She also shared the skill list and aptitudes. Holy damage would be useful for Azryet – it did extra damage to demons and undead, although she was certain a level sixty-seven kobold was not exactly a powerful monster.
+
+Azryet stared at it for a very long time.
+
+[Zone] Spirit Walker has advanced to the second tier.
+
+Not even the loud gong when Kir’vella advanced was enough to shake his focus.
+
+“Shoot,” Azryet commanded, finally breaking his silence and indicating the far wall with a great talon.
+
+“At once,” the quivering kobold said, staring wide-eyed up at the apotheosis of dragon-kind. A brilliant white and yellow ball of mana appeared hovering over his talons – an image that had been burned into Ali’s mind from many terrifying encounters. A fireball. Only this time, it came in holy flavor. It shot across the room, impacting the wall with a thump, and detonated in a rather impressive explosion of flickering ghostly white and yellow flames. And in its wake, it left lingering flames flickering on the floor and the wall. Her little kobold was not done yet, following up with eager demonstrations of his shield and holy bolts.
+
+“May I have this one?” Azryet asked, his whirling eyes sparkling with flecks of pitch black and glowing holy flames.
+
+He asked. It was a surprising thing; with all his intensity, she had expected him to demand it. To try and command her, and yet his voice had sounded polite and respectful, even when it was very obviously something he desperately wanted. She didn’t even respond; she simply summoned two more kobolds and offered them to him.
+
+He waved his claws through the three waiting Kobold mages, and they vanished in a puff of holy mana. Then his mana flickered, and the three kobolds stood before him once again, glancing about nervously, the near instant summoning serving as a casual reminder of just how far above her in power he really was.
+
+Mage – Kobold – level 63 (Holy) x3.
+
+“Thank you, Aliandra,” he said, looking up from his newest minions to meet her gaze. “I haven’t learned a new minion skill in far too long.”
+
+“You’re welcome,” Ali said, bowing her head to the dragon god just a little. “I can continue to look for interesting holy or void skills then and send them your way.”
+
+“That would be most appreciated,” Azryet said, still focused on the tiny kobold mages he had created. His glances between the kobold and the shrine seemed to indicate he was weighing something difficult. Then, with a rumbling sound like a huge sigh, he finally came to a decision.
+
+[Zone] Wielder of the Sacred Flame has advanced to the second tier.
+
+Mage – Kobold – level 100 (Holy).
+
+He boosted it? Ali had known the kobold was somehow important to him, simply by the intensity he had shown, but she hadn’t realized it was quite that important. In an instant, he had pushed the little kobold past its first evolution, clearly by using the shrine’s ‘force evolution’ ability, spending his precious Authority to accelerate the development of whichever new skill he valued in the kobold she had just transcribed. “It was worth the Authority?”
+
+“I may come to regret that decision,” Azryet said, “but your gift has two skills I do not have. Accelerating the process at this low level is barely affordable, but I am now critically low once more. Tell me, Aliandra, what do you want in exchange for this extraordinary gift?”
+
+“I’m glad I could help,” Ali answered. “Consider it a thank-you gift for your hospitality.” Azryet seemed to put great stock into keeping his word and upholding his deals, and having him be favorably disposed toward her in the future seemed like a good investment. But more pressingly, if she couldn’t recover her corrupted ice mage, and his fears materialized in the form of a new devastating development from Destraggoth, she didn’t want him blaming her as much; certainly, she felt a little guilty about dumping problems on him.
+
+“I may not be able to help you against Maalgaroth directly,” he rumbled, creating several of the newly evolved kobold mages. “But there is one way I can help, and it was what ultimately tipped me in favor of spending Authority – take these Wielders of the Sacred Flame with you. You have my gratitude for your generosity. Now, we should begin immediately, there is no way Destraggoth will be oblivious to all these zone messages.”
+
+“Thank you,” Ali said, immediately deconstructing the offered minions and adding them to her kobold imprint. “I will use it well.”
+
+Variant: Wielder of the Sacred Flame added to Imprint: Kobold.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

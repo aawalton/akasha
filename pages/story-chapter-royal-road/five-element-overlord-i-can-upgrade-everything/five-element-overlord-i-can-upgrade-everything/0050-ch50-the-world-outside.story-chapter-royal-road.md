@@ -1,0 +1,105 @@
+---
+id: 7db14a5c-b1dd-5796-afb6-a0bd2c687d65
+page-type-slug: story-chapter-royal-road
+title: "Ch50 The World Outside"
+slug: 0050-ch50-the-world-outside
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 50
+ownLength: 1170
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3372715/ch50-the-world-outside"
+royalRoadId: "3372715"
+---
+
+An enormous fiery energy manifestation of a Black Lotus floats upward, high into the sky above the Ravine.
+
+Servant camps within 10 kilometers feel the heat beating down on them, and a chain reaction of stewards’ communication talismans to the Outer Sect go off.
+
+These transmissions are quickly received, routed toward Gu Shan who oversees this Western Expansion project.
+
+“Another Celestial event… just like that purple warrior. Could they be connected?” he murmurs to himself, looking out off the Alchemy Peak he’s currently stationed at.
+
+It is in the direction across the Ravine.
+
+About 500 kilometers away, the border between the Hidden Mist County and the Black Marsh County intersects.
+
+In the Verdant Prefecture, there are three main powers, and four distinct counties.
+
+The Azure Cloud Sect rules over the Hidden Mist County, while the Blood Sword Sect rules the Black Marsh County.
+
+For hundreds of years, portions of the undeveloped land between the two sects has slowly been explored. The hard borders of these two rival sects have drifted closer and closer together. Recently, the tensions have been at an all time high.
+
+Many Outer Sect patrols have run into Blood Sword Sect scouts far too close to the Azure Cloud Sect’s borders. There have been reports of a purple warrior killing off anyone they come across within this undeveloped blind zone.
+
+All of the battlefields left behind consist of nothing but corpses, and degraded low grade spirit veins.
+
+Both Azure Cloud Sect bodies, and Blood Sword Sect bodies have been found at these horrific scenes, necessitating Gu Shan’s grandfather to investigate for himself.
+
+This ominous Black Lotus floating above the Ravine cannot be solely written off as a freak phenomenon like before.
+
+–
+
+At the same time, thousands of kilometers away, deeper into the safety of the Hidden Mist County; drama between the major families in Lingshi City continues to brew.
+
+Mu Shulan kneels before an old man sitting at the back of a pristine white meeting hall.
+
+Mu Zhiheng, her uncle, is the only other person in the room, presenting a storage pouch to an old senior at the back of the hall.
+
+“Patriarch. Our Mu Shulan has made a great connection during her work in the Red Pine Market these past months. Please, take a look at the items she has procured.”
+
+Mu Shouxin’s bushy eyebrows raise as he looks into the storage pouch.
+
+“Very good work. With the rising tensions at the border, we can auction these off and create a large amount of attention at our shops for a few days. It should increase our overall profits this month and give us more time...”
+
+He turns to the still kneeling girl, “You may make your way to the low grade 2nd Tier vein in my private courtyard, ten days of unrestricted cultivation shall be your reward.”
+
+Mu Shulan bows even lower, touching her forehead to the floor, “Thank you, Grandpa- I mean Patriarch.”
+
+She’s dismissed, and happily heads off to the back of the estate with a white token in hand.
+
+The doors of the meeting hall shut, and the two Foundation Establishment cultivators shift their expressions to ones of worry.
+
+Without a qi refiner in their presence, it is acceptable to release their aura. Mu Zhiheng’s 2nd level of Foundation Establishment floods out into the room as he turns to the Patriarch.
+
+“This should buy us some time. At least another month.”
+
+The old Patriarch nods, “The Jiang family is ruthless. They have been overstraining our shared spiritual veins for short term profits, while undercutting us in the Lingshi markets to eat up all of our shops’ business. Displaying Perfect Grade items of this nature will get more cultivators in the doors temporarily, but it is no permanent fix.”
+
+The Patriarch keeps a calm expression, but a wisp of his 6th level of Foundation Establishment aura creeps out in anger.
+
+“Their Patriarch has become quite cocky recently after reaching the late stage of Foundation Establishment. Especially with Mu Shulan’s father still occupied in the Black Marsh County, we do not have our full strength to resist their pressure. That ginger haired elder that runs the general store in the center of the city is continuously pushing the idea of marriage of our Mu Shulan with his lecherous son. For the sake of her future, and the promise I made with the Wang Family, we must hold out.”
+
+–
+
+On the opposite side of Lingshi City, in a modest and calm courtyard, a fat man and his brown bear kneel before another old man on an elevated platform.
+
+Behind them, a large garden of spiritual green apple trees goes on for as far as the eye can see. An enormous 10 meter long white moose roams freely in the garden, sniffing trees and snorting when the breeze flows by.
+
+“Patriarch, I have brought good news.” Wang Ming bows, breaking the silence, and presenting a low grade storage ring.
+
+Wang Yang’s brows tighten, and he accepts the ring.
+
+“A mysterious benefactor granted me this gift after buying multiple flame toads in the market. I wanted to get your approval before consuming it.”
+
+The Wang Family Head’s eyes widen as he sees what’s inside.
+
+An imperceptible flicker of his 6th level of Foundation Establishment slips out.
+
+“Grandson, this is no common healing elixir. Yes, it will rid you of your breakthrough injuries, and it will wash away the fatigue of many years of cultivation… There is a high chance it will even allow you to see a glimpse of something far more profound. What did they ask of you in return? You have not made a deal you cannot fulfill, have you?”
+
+Wang Ming shakes his head, “No… Nothing. He gave it to me after I gifted him that defective flame toad egg we have been trying to sell for years.”
+
+Wang Yang pauses to think, but Wang Ming continues in a hushed tone.
+
+“He also said that I have something called Gluttonous Intent, and it's what's holding me back from breaking through into the late stage of Qi Refinement.”
+
+The old man’s contemplation quickly ceases after hearing these words. His pupils constrict, and he scans the entire courtyard and spirit apple fields to make sure no one is listening in.
+
+“Are you certain of this? The man that gave you this pill said those exact words, Gluttonous Intent?”
+
+–
+
+In the center of Lingshi City, an angry ginger haired young man walks into the Jiang Family general store, walks up a flight of stairs, and slams open the office door in the back.
+
+“Father! I have a person I want you to find for me! He openly challenged my status in the Red Pine Market. All I know is that his aura could not be sensed, and he held a 2nd Tier Attack Talisman crackling all over with Azure Lightning. He purchased flame toads from the Wang Family loser, but I lost track of him in the market before I could find his true identity!”

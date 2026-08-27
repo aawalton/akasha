@@ -1,0 +1,197 @@
+---
+id: e19600e5-b8b2-5ce7-8f26-58c1978276dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17"
+slug: 0017-chapter-17
+partOf: emie-ascended
+position: 17
+ownLength: 2589
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3493354/chapter-17"
+royalRoadId: "3493354"
+---
+
+The most expensive item I’d purchased since ascending appeared in my hands, and I carefully scrutinized the simple-looking tool.
+
+The training device was meant to assist aspiring enchanters in shaping and imbuing their intent into an otherwise mundane item. It looked like a simple wooden stylus, or maybe a short, pen-sized wand, but I knew not to be fooled by appearances.
+
+Engraved along the side of the artifact were the symbols for ‘Enchant’ and ‘Training’. However, unlike most of the enchanting techniques of my previous realm, these symbols held no actual power. They simply advertised the item’s function.
+
+“It’s been a little while since I used one of these,” I murmured as I lightly gripped the weakly enchanted item.
+
+I removed one of the wooden blanks I’d just purchased and placed it on the crafting table. I’d examined every item before purchasing them, but I still took the time to look over the wooden piece to ensure it was perfect before starting.
+
+The last thing I wanted was a failure because I was using subpar materials.
+
+Seeing it was about as good as I could expect for something purchased in a supply store, I let out a slow breath as I traced the training aid from one end of the small token to the other and around the edges, priming the device as I drew ambient essence into the focus.
+
+Once the enchanting focus was sufficiently primed, I began imbuing my intent into the stored essence before directing the energy into the item.
+
+I wanted the finished item to create light, which was something I could only accomplish because light was an integral part of lightning. It needed to turn on or off at a touch, depending on its current state.
+
+If it was not illuminated, a touch would create light. If it was already glowing, a touch would cancel the effect.
+
+It was simple, but required perfect focus. Even a stray thought could be enough to sabotage one’s effort if they were not experienced enough to double back and reinforce their intent.
+
+What might have been difficult, if not impossible, for me to accomplish without the training tool suddenly became far more obtainable. My diminished mental stats made holding my focus and channeling my intent significantly harder than it would have otherwise been, but not so difficult that I couldn’t manage.
+
+When the stylus returned to the starting point, there was a small pulse marking the successful completion of my first enchantment.
+
+[You have successfully enchanted an item!You qualify for an advanced skill: Enchanting (Common)Would you like to slot the advanced skill: Enchanting (Common)?]
+
+An advanced skill just meant that the skill incorporated more subskills than a normal skill might. For Enchanting, it was probably things like imbuing, channeling, focused intent, essence manipulation, and other similar subskills.
+
+There was no actual listing of such a thing, but they were commonly acknowledged by most, including the clergy, as being an invisible aspect of skill acquisition and development.
+
+Happy that I’d managed to succeed on my very first time, I accepted the skill into one of my remaining slots. Practically giggling with excitement, I pulled up my status.
+
+***
+
+Name: Emie NeohimTitles: Ascender (hidden), Contender (hidden)Level: 9Evolution: None
+
+Core Skills: Demesne (Rare)Stasis (Unique/Common)Restorative Healing (Rare)Lightning Bolt (Common)
+
+Skill Slots (9/14):Divide Space (Unique/Common)Dimensional Anchor (Uncommon)Teleportation (Common)Herbalism (Common)Haste (Common)Repulsion Aura (Uncommon)Telekinesis (Common)Identify (Common)Enchanting (Common)                ***
+
+I was ecstatic about the gain, and I quickly brought the wooden focus to my lips and gave it a kiss.
+
+“You and I are going to make wonderful things together, just you wait,” I told the small device, still feeling giddy from my success.
+
+I’d finally recovered all of my most important skills, and I was eager to see what I could create next.
+
+“Emie? Are you in there?”
+
+I turned toward the muffled noise with a scowl before noticing the angle of the light shining through my window. Realizing how late it was, I winced and set down the obsidian ring I’d failed to enchant.
+
+“Sorry about that. I got a little carried away with Enchanting,” I said, motioning toward my workstation after opening the door to my new friends.
+
+I’d filled the little shelves behind the table with a variety of different enchanted items, most of which had little real use.
+
+Who needed a piece of wood that was extra durable? Or a piece of leather that changed colors?
+
+Most of the items I’d created had been little more than practice pieces as I worked through my current limitations. They weren’t meant to be actual products or anything.
+
+Of course, there were a few things that were genuinely useful. Things like a ring that would speed healing if someone were injured, or a pair of tiles that would fuse any cloth pressed between them.
+
+I planned to use the latter to craft my own bags once I picked up some suitable cloth, but that would have to be a project for another time.
+
+“That’s a lot of trinkets.” Cora’s eyes shifted from the workstation to the apartment, and her look of interest shifted to confusion. “Is this bigger than it should be? It looks bigger than the other rooms we’ve been in.”
+
+After a moment of examination, the rogue seemed to lose interest and shrugged the inconsistency away. I was glad that she wasn’t overly bothered by my slightly larger room. Besides, if they wanted to, we could always combine our apartments anyway.
+
+“You ready to go?”
+
+“Sure. Let me just…” I quickly touched each of my completed projects and the enchanting focus, safely storing them. “Ready.”
+
+Adding me to their party only took a few minutes, and I made a mental note to swap out my ‘not interested’ patch for an ‘already taken’ patch the next time that I worked a shift at the medical facility.
+
+“Do you want to come to our apartment so we can discuss our plans going forward now that we’re officially a party?” Cora asked after we finished up with the clerk.
+
+“Sure. That sounds fine.”
+
+When we arrived inside their apartment, I noted that it was set up much like mine, but was slightly larger and had an office attached.
+
+“This is bigger than my apartment,” I pointed out, recalling what she’d said about my apartment being larger than some of the others she’d been inside.
+
+“Yes, but it’s a double since there are two of us,” Cora said. “It started off with two bedrooms and two baths, but we were able to change the second bedroom into an office. There’s still a half-bath attached, but the extra space was added to the living room to make it larger.”
+
+“It’s nice,” I said with a smile as I looked around. “How did the renovation process go? Were there actual physical modifications, or was it something magical?”
+
+I was curious because if they were able to control the changes, that meant my apartment might have more flexibility than I realized.
+
+“Everything was done through the room controller,” Cora said. “I don’t know if yours is the same or if it’s different for us since we’re in a two-bedroom apartment, but there is an option to change the purpose of a room and specify what percentage of the total square footage is dedicated to each room.”
+
+Cora tapped the tile, and it expanded to cover the small coffee table. On the screen was a copy of the apartment’s current floor plan.
+
+“So, if I change the bedroom to be a kitchen, for example…”
+
+She tapped the square representing their bedroom and clicked a tab to change the room’s purpose. The open door leading to the bedroom took on a hazy look before clearing to reveal a room that was very obviously dedicated to cooking.
+
+It wasn’t quite what I’d gotten used to seeing during my time in the simulation, but I could figure out the purpose of most of the devices with little effort.
+
+“Everything works. We tested it when we were making changes,” Mike said.
+
+“Can you alter the layout further?” I asked. “For example, could you move that cooking station to be right next to the sinks along the wall?”
+
+Cora shook her head. “No. We can only change the purpose of the room. The layout seems to be set.” She pressed the tab, returning the room to its prior configuration as a bedroom. “See? It looks the same as it did before. We can’t change the bedding or any of the furniture, but that’s fine. The décor is acceptable.”
+
+“Can you alter the color at all?” I asked, noting that everything was still done in shades of silver and blue.
+
+“Yes. We changed it around at first, but decided we liked it like this better,” Cora replied. “But enough of that. Let’s talk about our first dungeon run. What do we think we did well, and where can we improve?”
+
+We spent a bit of time going over the delve, discussing ways that we might have worked better together while also highlighting some of the ways we were already meshing well.
+
+Though it wasn’t truly necessary, now that we’d officially become a party, I decided to share the fact that I had a sanctuary with my new party members.
+
+Being able to retreat to an isolated dimensional space was just too convenient not to share if we were going to delve together more than a few times. And since I had every intention of making this a long-term alliance, it seemed only right to come clean.
+
+Of course, I wasn’t going to tell them everything about the skill. Instead, I planned to present it as something completely separate from my inventory.
+
+There was the Inventory, and then there was the Sanctuary. The inventory would be presented as a skill, and I would explain the presence of the sanctuary as being the result of a boon I’d earned through service to my previous deity.
+
+It wasn’t even a lie, though it was misleading. I’d already started thinking of the two as different things, so it wouldn’t even be all that hard to keep track of.
+
+I just needed to put things back the way they’d been before I’d tried hiding the Golden Oak.
+
+“So, I have a bit of a secret that I wanted to wait to share until we officially became a party.” Seeing their expression darkening slightly, I held up my hands. “It’s nothing bad, but it also isn’t something that I want getting out. I actually earned a boon from my old realm’s deity because I assisted in establishing a second Realm Dungeon.”
+
+“The elite training place you told us about?” Cora asked.
+
+“Yes. Except I designed mine to be open to anyone who qualifies, with a focus on people coming from low-tier worlds,” I answered. “Anyway, my boon grants me access to a sanctuary – a completely separate dimensional space where I can rest safely, even inside the dungeon.
+
+“I’m not sure how it will change as I gain levels or evolve, but it’s already large enough to accommodate all three of us. Mike won’t have to build a campsite every night, nor will we have to worry about safety. It should be pretty much impossible for anyone or anything to access the space unless I personally bring them inside.”
+
+“You’re certain you can bring others with you?” Mike asked.
+
+“I am. Rho – the goddess’s representative who served as my initial guide – assured me of as much,” I replied. “Obviously, I haven’t tested it, but I have no doubt that she was being honest when she said it was possible.”
+
+“Can we see it, or is it something you can only access from the dungeon?” Cora asked.
+
+“I can enter it from anywhere. It’s basically just a big, empty room right now, but anything I leave inside remains even while I’m gone. I planned to pick up some furniture, but wanted to wait until I knew for sure whether we’d end up working together or not.”
+
+“Why is that?”
+
+“Because I doubt you’d want to sleep in separate beds,” I said with a grin.
+
+“Very true,” Cora admitted. “So… can we see it now?”
+
+“Sure, just give me a minute to make sure I can do this right.”
+
+I didn’t need a minute for anything other than resetting the space to how it had been before we’d left the dungeon.
+
+With the improvement my Demesne skill had undergone after I’d made my rushed changes, I found I had more space than I expected once I spread everything back out.
+
+I quickly recreated my sanctuary, making it appear just as it had before – like the inside of a normal home from Earth. Painted drywall, fake wood floors, and a domed ceiling.
+
+I guess technically, the domed ceiling wasn’t really a normal feature of a home, at least not in America. But it wasn’t so unusual that it would have stood out, either.
+
+I made the ceiling glow softly, illuminating the space enough to be comfortable, but otherwise left everything alone.
+
+This time, there was no doorway leading to the rest of the dimensional space. As far as anyone else was concerned, I wanted it to seem like the residential section of the demesne was a completely isolated location.
+
+“Alright,” I said, moving closer to the couple before extending my hands. “I haven’t tried bringing anyone into the space yet, so ensuring we are all touching would make things easier.”
+
+Without hesitation, the pair grabbed onto my hands. I didn’t wait, pulling us into my newly reestablished sanctuary.
+
+“It’s empty,” Cora said, looking around.
+
+“I did mention that,” I pointed out. “I didn’t have the money to furnish it before our last delve, and then I didn’t want to risk wasting money by buying something that might not be needed.”
+
+Mike looked around thoughtfully as he took in the space. I could almost see his mind working through the different possibilities.
+
+“This is definitely better than the stone shelters that I normally make,” he said. “Do you have to worry about airflow, or does the space handle all of that for you?”
+
+“The space handles it, though I’m not sure how it would handle smoke from a fire or anything like that. I haven’t wanted to risk it, so I’ve just been cooking in the dungeon.”
+
+Maybe if I’d encountered a floor that had a particularly bad environment, I would feel differently. I hoped that by then, I’d have enchanted cookware to negate the need for fire.
+
+We chatted for a bit about various options, making a few plans about how we’d go about turning the space into something that would work for us as a party.
+
+It mostly involved Mike using his Earth Manipulation skill to make things like decorative room dividers and simple furniture. The rest, we’d be buying as a party since the space would mostly serve as a party resource.
+
+I did make sure to point out that I would share any furniture we purchased with party funds if we ended up going our separate ways. I think that helped them both feel better about investing in a space that I had complete control over.
+
+I was still only able to exit at the location from which I’d entered my demesne, and I made sure to point out that limitation without mentioning that that would change eventually.
+
+I wasn’t sure how long it would take to get a second Dimensional Anchor, but I hoped it wouldn’t be long.

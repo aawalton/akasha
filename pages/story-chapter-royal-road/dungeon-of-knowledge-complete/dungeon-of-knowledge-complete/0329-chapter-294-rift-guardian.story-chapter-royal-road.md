@@ -1,0 +1,129 @@
+---
+id: d39d64f4-fd7f-5805-a338-66a8ca094b40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 294: Rift Guardian "
+slug: 0329-chapter-294-rift-guardian
+partOf: dungeon-of-knowledge-complete
+position: 329
+ownLength: 1884
+unit: words
+ownProgress: 1884
+publishedAt: 2025-06-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2392134/chapter-294-rift-guardian"
+royalRoadId: "2392134"
+markedReadAt: "2026-06-29T20:22:29.064Z"
+---
+
+“Here you go, Mato,” Ryn said, handing him the book.
+
+“Thanks, Ryn,” he said, glancing at the book she handed him.
+
+How to cook a dragon. Callista Merriweather.
+
+How to cook a dragon, indeed, he thought. Ali had told him that this cookbook had been moldering in Naia’s dungeon for years, discarded by an adventurer who had lost it in some scuffle with her oozes.
+
+He grinned as he paged through the book, seeing the recipes inside. Every possible way to cook dragon monster meat.
+
+“This is perfect, can I borrow it?” he asked. He knew someone who would love to read it, and he was almost terrified to think of what awful concoction the old crone would come up with.
+
+“What’s it for?” Ryn asked. “Are you going to learn the recipes?”
+
+“I want to encourage Tabitha to try Ali’s shrine to get a proper class,” Mato said. “I thought I’d bring her a gift.”
+
+“Sure, just remember to bring it back,” Ryn said with a smile.
+
+“Yup,” he said. “I was going to ask Ali to copy it first.”
+
+Perhaps more than once, he grinned. After clearing the mines, he had plenty of drake-meat in his storage.
+
+Ali stood at the entrance to the Emberforge Mines with the army of trolls she had used in the Corrupted Fire Drake fight serving as her personal guard in case they had missed any monsters in their breakneck haste. Clarence lazily circled about her head, his favorite ball clutched between his pages, having insisted on accompanying her. The jungle behind her was filled with the raucous calls of wild monsters and creatures and the incessant buzz of insects. It was still not integrated into her domain and spawned droves of hostile elementals – it was not safe down here without some protection.
+
+Ali, however, was not afraid. The jungle behind her was filled with elemental spawn in the forties and low fifties, and she was in her second evolution with an army of minions in the eighties and nineties. The dungeon itself was dead, and it should be safe enough now for her to claim the mines, hopefully increasing her shrine capacity, but more importantly, allowing her to make proper defenses against realm incursions.
+
+She stepped in through the tunnel, immediately noticing the substantial heat reduction. Orange-red glowing pools of lava still bubbled in the corners and founts of fire-affinity ambient mana gushed up like geysers, but it was nothing like the hostile flame of the domain that had once filled this space. She could actually breathe.
+
+“Come,” Ali said, and she was followed by a wave of mossy lumps, animated stick creatures, and stumpy mobile mushrooms. “Fill this area with plants.”
+
+Then, she opened her Grimoire and began channeling her mana as she walked through the twisting rocky passageways, sprouting a thick trail of Fire Grass everywhere. There was a time when she would have had to painstakingly wait for her mana to propagate through the new plants, but not anymore. Her domain flowed easily into the new grass, quite content to use fire mana instead of her more familiar arcane or nature, benefiting substantially from all her enhancements to spell power and haste, and her substantially higher class level. In her wake, her industrious minions filled in the gaps with mushrooms, wildflowers, and patches of moss.
+
+Her minions seemed to summon more robust varieties down here, presumably feeling the ambient fire mana, but their work was still random. I can clean it up later. Proper biomes and ecological concerns could wait – her highest priority was to expand her domain to grow her shrine’s mana pool and securing the dangerous rift to the Abyssal Realm.
+
+Whenever Ali found pools of lava up against the rock walls of the caves or passages, she planted Flame Lasher vines, making their black and red leaves cover the walls and lighting the way with their delicate glowing flowers of pure fire mana. Plants that could shift into defenders if necessary.
+
+Even with her enhanced speed, it took a while to reach the chamber that had been the Flame Broodmother’s lair, but when she got there, she decided to try planting a tree. The chamber was tall enough, so she grew a Lirasian Oak Elder Tree in the center – obviously a lot smaller than the one in the library – but as she had suspected, the evolved tree was so robust that the mere presence of fire grass and fire mana had no effect on it. In seconds, it was pumping out vast quantities of nature mana into the area, twisting and reshaping to form her domain.
+
+When she reached the landing, she did the same, although managing a slightly larger tree this time. She ignored the first and the last doorways for now, and the rune locks, heading straight down the empty demon wing, planting trees beside the bubbling tar pits, and filling in the intervening space with fire grass until she reached the rift chamber.
+
+Ice for sure, Ali thought, eyeing the corpses of the wargs and imps on the ground. Many of the demons had hellfire affinities, so ice should be a substantial advantage. Although this cavern had once been part of the fire domain of the mines, the room itself held no particular affinity given the lack of lava pits or sources of flame. The rift itself seemed to block any mana from passing across its glittering threshold.
+
+A Hellfire Warg shimmered through the tear in the fabric of the realm and howled. Ali ignored it as her Troll army mobbed it immediately, instead floating herself down into the center of the chamber and studying the space.
+
+While her minions took care of the riffraff, Ali planted the largest Lirasian Oak she could manage to fit inside the chamber, shaping the branches so they would not obscure the doorway or the rift itself. As soon as the mana from the tree began filling the rift chamber, she covered every available surface with Alpine Forget-me-nots. Then she lined the walls and the branches of the massive oak with the Azure Ice Queen orchids, creating a continuous soft rain of delicate ice crystals. In moments, the temperature plummeted, and Ali’s breath began to mist. Steam wafted off the massive shoulders of her berserker trolls.
+
+Good enough, Ali thought, and manifested her Grimoire into the icy air and began to summon.
+
+Mok’freja [Ice Queen] – Troll – level 97 (Ice).
+
+“Aah, it is you again,” Mok’freja said, raising her chin in defiance. “Have you summoned me to gloat? Or will you torture me?”
+
+“Neither,” Ali said, still trying to get used to the new manner of her minions. “I have a task of great importance for you. One for which your skills are uniquely suited.”
+
+The Troll mage blinked at her, the careful wall of defiance slowly crumbling. “What is it you require?” she asked, eyes flitting over the chamber and settling briefly on the shimmering rift.
+
+“I want you to guard this chamber. Secure it against the incursions of demons from the rift,” Ali said.
+
+“Excellent,” the Ice Queen answered, her eyes glittering with anticipation.
+
+“To help you, I’m going to give you a raid domain enhancement.”
+
+The troll finally chuckled with delight as Ali began to work – as if she had just offered her the greatest gift she could imagine.
+
+Likely, Ali would have duplicated the raid boss they had fought in the Temple of Aman Rak, but given the circumstances, she decided to go for a slight variation. It was a bit of a shame because an intelligence enhancement would have made her the ideal target for her Empowered Summoner, but she had to sacrifice something to make room for Slayer. She reached out and placed a hand on Mok’freja’s chilly arm.
+
+Domain Respawn applied to Mok’freja.Raid Domain Enhancement applied to Mok’freja.
+
+Around them, the chamber was slowly filling with the ice mana her flowers were generating, gradually entwining with her domain as her Adaptable Mana advancement folded it in and incorporated it into the weave, but Ali intended something far more potent.
+
+Affinity Aura (Ice) applied.Spell Cascade (Ice Bolt) applied.Slayer (Demon) applied.Domain Enhancement complete.Your reserved mana has increased by +3742.
+
+Domain mana infused her first Troll boss, and she grew substantially larger, all the while laughing maniacally. It would have been terrifying if she hadn’t felt the sheer joy radiating from Mok’freja as her power grew under the influence of her domain magic.
+
+“Perfect, Seeker! This is perfect!”
+
+Ice magic rippled through the room, instantly chilling everything.
+
+“Now that’s impressive,” Calen said, his voice echoing from above as he flew into the room from the doorway about halfway up the wall. “You have a unique raid boss.”
+
+“Oh! Hi, Calen, what are you doing here?” Ali asked.
+
+“I have a perception skill that can see into nearby realms, and I wanted to test it on the rift,” he said, gliding down to land beside her. “Mok’freja?” he asked, nodding to her newest troll boss.
+
+“Yes, but with Slayer instead of Intelligence,” Ali said. “I think Slayer will give her much more damage than the intelligence boost, and the heal every time she kills something will make her much more robust.”
+
+“That’s a good idea,” he said. “You could always leave the little ones in here with her,” he said. “Isn’t your domain dense enough now for that?” He pointed to the little kobold Acolyte standing in prayer up on the stairs near the doorway.
+
+“Yes, I think so,” she said. “Probably wouldn’t have worked if she had been evolved, but I don’t need to worry about that for a little while, I think.” While Calen explored the room, Ali bound the remaining monsters here to her domain, allowing them to respawn if killed.
+
+Clarence suddenly flickered, growing a protective sheet of golden barrier magic, and backed up from the rift, snapping his covers together aggressively.
+
+“Imp coming through,” Calen said, backing up. “I can see it.”
+
+“May I kill it?” Mok’freja asked, perking up immediately.
+
+“Yes,” Ali said. Sure enough, a few seconds later, a Hellfire Imp appeared, cackling as it scampered through the rift.
+
+In an instant, Mok’freja detonated a Frost Nova the size of the entire room, freezing everything in place except for the other Ice Mages and their familiars. Then, a devastating stream of ice bolts shot from her Troll raid boss, crashing into the imp and shattering it into pieces.
+
+“Excellent! Send more to feed me!” the ecstatic Troll mage yelled, clearly enjoying her first kill.
+
+“She sure turned into a caricature villain,” Calen observed.
+
+Ali laughed. “As long as she keeps the demons back, I don’t mind if she has aspirations of grandeur.” In fact, she was counting on her leveling up in here and growing her ice mage imprint for her.
+
+Still, there was more she could do, and with a substantial investment in mana, she summoned a level-appropriate Frost Weaver spider. Then she said, “Mok’freja, take this as your familiar.”
+
+“At once, Seeker,” she said, and moments later Ali’s reservation for the spider shattered and the monster scampered up the walls into a crack, leaving nothing showing save an uncomfortable number of glowing blue eyes and some strands of icy blue webbing.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

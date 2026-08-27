@@ -1,0 +1,205 @@
+---
+id: 1671df04-b76e-52ed-af8f-1d8b703ac0d1
+page-type-slug: story-chapter-royal-road
+title: "60 - Starcaller"
+slug: 0060-60-starcaller
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 60
+ownLength: 1713
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3605258/60-starcaller"
+royalRoadId: "3605258"
+---
+
+Kaelor moved the shoulder that his arm had been severed from, testing to see how much mobility it had. Meriel’s healing seemed to have gotten rid of much of the pain.
+
+“Feeling better?” I asked.
+
+“Much better, yes,” he said. “That is, considering I’m missing an entire arm.”
+
+I inspected the staff that Meriel had just given me.
+
+[ITEM: STARCALLER]
+
+Rarity: Epic
+
+Description:
+
+An ancient staff carved from wood that has absorbed countless years of magical practice. Tiny star-like particles drift around its crystal core, responding to the amount of magic in the air. It was once carried by an archmage who believed that strength lies not in power, but in guiding the flow of battle.
+
+Effects:
+
+- Significantly improves spell accuracy and control
+
+- Moderately reduces mana consumption
+
+- Consecutive casts of the same spell become easier to shape and maintain
+
+- The above effects are amplified for cosmic spells
+
+Reading the last effect, I asked, “What are cosmic spells?”
+
+“Magic that draws power directly from the stars,” Meriel said. “Why do you ask?”
+
+She looked at the staff in my hand. “Ah. Did you cast Analyze on it?”
+
+I nodded. “I’m surprised, considering I’ve never seen you cast anything like that before.”
+
+“It’s because I’m not able to,” she said. “That weapon was passed down to me by my mentor. He always tried teaching me cosmic spells since it was his specialty, but no matter how much I tried, I just couldn’t do it.”
+
+“How come?”
+
+She shrugged. “There could be many reasons. Mages can’t be masters at everything. Some people are just born naturally inclined toward some types of magic over the others.”
+
+“Then why do you still use this staff even though you can’t take full advantage of it?”
+
+“Because it’s still a great weapon despite that—and being a weapon from my past mentor, it holds a deep meaning to me.”
+
+Kaelor and I were able to stand normally again since Meriel had healed both of our legs. Kaelor paced around as the war loomed above us, deep in thought.
+
+“Kaelor?” Meriel called.
+
+He grabbed his dagger, practicing his swings. His movement looked awkward since he was missing his other arm, but even from somebody who was as inexperienced in hand-to-hand combat as me, I could tell he was still a lot better than most fighters.
+
+“Don’t tell me… are you thinking of fighting?” I asked.
+
+He stumbled as he swung too far ahead, finding it much harder to keep his balance with just one arm.
+
+“I have to,” he said. “The people of Whale Isles need me.”
+
+From everything we’ve seen so far, Kaelor was undoubtedly the strongest ally we had. Yet, the enemies managed to ambush us while we weren’t looking and left him with a permanent wound.
+
+“You’re in no condition to help us,” I said.
+
+“That isn’t for you to decide.”
+
+“But it is.”
+
+He gave me a look.
+
+“You’re our friend,” I continued. “If I had a missing arm, would you just let me continue fighting? Or would you rather have me stay back?”
+
+He didn’t say anything.
+
+“Please,” I said. “I can’t stand seeing you hurt. And not just you, but everyone else.”
+
+“Allene…” he said.
+
+Meriel brought a hand to my face, wiping away my…
+
+Tears?
+
+…What? Why was I crying so suddenly?
+
+“I didn’t think you were the type to get so emotional,” she said.
+
+I sniffed. “Wha… What? Why am I…?”
+
+Seeing that I wasn’t stopping, Meriel held me close, putting her chin over my head.
+
+Why was I acting like this?
+
+Was it just from seeing Kaelor being hurt? Just from the thought of everyone else getting hurt?
+
+That didn’t make sense. I knew myself better than anyone else. I shouldn’t be crying from something like that.
+
+So why was I?
+
+Then, it hit me. A flash of memory from my past life.
+
+My past friends.
+
+…
+
+My breathing slowly returned to normal. Meriel let go of me after realizing it, and I wiped away my final tears.
+
+Wasting no more time, we looked back up at the battle above the island. We saw Aeris flying through the air, chasing down one of the twin beasts. The other twin fought alongside Aurelius as they defended against dozens of our allies. But the battle had changed since the last time we looked. It wasn’t just the three of them anymore.
+
+The other monsters had arrived—the Halo Hounds, gargoyles, Porcelain Harpies, flying stone angels, and everything else. Their numbers weren’t nearly as large as the initial battle back in front of Whale Isles.
+
+Kaelor slowly rose into the air.
+
+“I’m sorry, Allene, but I can’t forgive myself if I just sit back and watch. I won’t do anything to put myself into any danger. I promise. I’ll keep my distance and cast wind spells from afar. How does that sound?”
+
+I sighed. “You’re still persistent after seeing me cry like that?”
+
+He laughed. “Absolutely. But hey, I appreciate the gesture. I didn’t think you cared about me so much.”
+
+My face grew red from embarrassment. “My body acted on its own. It had nothing to do with you.”
+
+Meriel walked over to Kaelor. “Stay close to me,” she said to him. “We’ll support Allene and the others from afar.”
+
+He nodded before lifting Meriel into the air with his wind magic. The two of them rose toward the battle, and I followed them with my wings.
+
+As we met the others, Aeris swept by. She growled and roared, trying to tell me something. Of course, I had no clue what she was saying, so I climbed onto her and made contact with the Dragonrider’s Saddle.
+
+“It’s coming!” she yelled.
+
+“Huh? What is?”
+
+“One of the twins!”
+
+As soon as she said that, the monster swept by, splitting the two of us from Meriel and Kaelor. This twin was the left half of the Chainbound Giant we had fought before. One wing. One eye. One arm.
+
+“It’s slippery,” Aeris said. “I’ve been chasing it all this time, but I can’t catch it.”
+
+As it hovered in the air before us, several other monsters emerged from beside it.
+
+“We’ll help you!” a voice called from behind us.
+
+Our allies emerged. Not just knights, archers, and mages, but also the giant monsters. Jellyfish, cloud serpents, turtles, manta rays, whales—they had all arrived to support us.
+
+“Whoa, where did they come from?” I asked.
+
+“We went out of our way to gather them,” a mage said. “Considering the situation we’re in, we’ll need all the help we can get.”
+
+The giant sky creatures shot forward, fighting the monsters right away. The jellyfish and manta rays used their stingers. The cloud serpents channeled lightning bolts and flicked their tails, while the turtles and whales bit into the enemies.
+
+The rest of our allies joined in on the attack, giving Aeris and I an opening to charge toward the twin beast without the other monsters getting in our way. Knowing it stood no chance against Aeris’s jaw, it quickly flew away, forcing us to chase it through the air.
+
+“We’re right behind you!” Kaelor shouted as he and Meriel followed us.
+
+The twin monster soared through the middle of the battle, hoping the other monsters would distract us. But Aeris kept her sight entirely focused on it, ignoring everything else.
+
+As she chased it down, I glanced around the battle. The other twin was in the distance, fighting against our other allies. I tried looking for Aurelius, but it was hard to find him with all the other angels here in the battle. From afar, he looked just like the rest of them in Gabriel’s body.
+
+Without warning, the twin beast we were chasing dove straight down toward the clouds, making all sorts of twists and turns during the descent. Aeris struggled to keep up. It was easy for her to fly straight, but for a dragon of her size, making too many turns was exhausting.
+
+By this point, the twin beast had fully hidden itself in the clouds. Aeris followed, tearing through.
+
+All visibility was gone now. The clouds pricked my skin as we flew through it, so I put away Dawn Sunderer and used the staff Meriel had just given me to cast shielding magic. I noticed the difference right away. It was much easier to cast the spell with this staff—either that, or it was because I was sharing some of my mana with Aeris. It was probably both.
+
+We heard a faint roar somewhere through the fog. I couldn’t see anything.
+
+“It led us here on purpose,” I said.
+
+Kaelor and Meriel were nowhere to be seen. They lost us while we were chasing the twin.
+
+“This is no advantage for it,” Aeris said. “I’ll clear the clouds for us.”
+
+Before she could, a large shadow appeared from beside us. Aeris twisted her body and breathed fire in its direction. But the shadow was gone.
+
+It reappeared on the other side.
+
+The beast dug its claws into Aeris’s side. She let out a roar, turning and trying to bite the beast. It disappeared into the clouds once again.
+
+“Aeris, are you okay?” I asked.
+
+“I’m fine,” she said. “My scales are too tough for it to do any real damage, but I think it knows that. Its real goal seems to be to exhaust me first.”
+
+Aeris flapped her wings forcefully, clearing the nearby clouds. The beast emerged from behind, but I expected the attack. Since it was immune to magic, I quickly drew Dawn Sunderer, swinging at it. I barely missed. The beast landed an attack on me, but the barrier I had cast earlier kept me free from any damage.
+
+I grabbed its arm. It roared, flying me into the air and away from Aeris as I held onto it. My wings flapped rapidly and kept me from being dragged with it.
+
+“Aeris!” I yelled.
+
+She turned and went for its head.
+
+But the twin didn’t try to dodge it. The broken chains hanging from its body came to life, wrapping around my arm, waist, and Aeris’s neck.
+
+She let out a roar as the chains choked her.
+
+The monster wasn’t running anymore.
+
+We were the ones in its grasp now.

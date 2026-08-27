@@ -1,0 +1,179 @@
+---
+id: c676c5ca-ff60-586d-8d37-756b31aafa01
+page-type-slug: story-chapter-royal-road
+title: "Chapter 413: A Deal with the Dragon"
+slug: 0450-chapter-413-a-deal-with-the-dragon
+partOf: dungeon-of-knowledge-complete
+position: 450
+ownLength: 3832
+unit: words
+ownProgress: 3832
+publishedAt: 2025-10-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2686203/chapter-413-a-deal-with-the-dragon"
+royalRoadId: "2686203"
+markedReadAt: "2026-06-29T20:27:23.668Z"
+---
+
+Ali’s gaze swept over the tiny area she had been granted – her entire domain in the remains of the cathedral chamber. To be fair, it was a large chamber, but compared to the space she had enjoyed prior to her unwilling sojourn in the Abyssal Realm, it was small. Her benefactor had been absent for almost two days now, although she had no way to know the exact passage of time down here, and she was getting progressively more bored and depressed. She tossed the worthless artifact she had finished crafting to the ground, a creation of mithril-inlaid Adamant Onyx that glowed with arcane runes and a core of arcanite to power it.
+
+Hearthstone – level 100Mana: Teleport yourself to the Locus. Recharge: 1 hour.Locus: Novaspark Academy of Magic, Myrin’s Keep.Created by Aliandra Amariel.Artifact
+
+The artifact had been surprisingly easy to make after she had asked to examine the scout’s hearthstone. It was basically a runic teleportation circle on a stone with some arcanite to cover the bulk of the cost. There was some fancy trickery needed to get it to project the circle that she had not encountered before, but it hadn’t been difficult to learn. She had crafted it from memory, but it didn’t work for the same reason the recall potions and her regular runic circles didn’t work: the Myrin’s Keep locus was gone.
+
+She had tried practicing her rune magic for hours, even messing around with the imprints in her Grimoire. She had read large chunks of Clarence until both she and the book had grown impatient and frustrated. She had summoned several Eyes of Agnor, unsummoning them shortly after, verifying that indeed they seemed to pick their affinities entirely at random, although it looked like she should be able to learn to influence the options with her Grimoire customization at some point. She decided on arcane and lightning and tried yet again.
+
+Eye of Agnor – Demon – level 136 (Arcane / Lightning)
+
+Your mana reservation has increased by +1020.
+
+It worked? She eyed the affinities suspiciously, unwilling to believe it had been that easy.  Obviously, she would need to try again to make sure it wasn’t just a fluke this time, but she had gotten precisely what she had intended this time. She poked and prodded at the massive floating demon a little, but she grew tired of it quickly and simply flopped down.
+
+A few minutes later, a vast surge of mana rushed through the chamber, and suddenly, Azryet was there in all his overwhelming presence and size, but instantly, he clamped down on his aura, muting it to the point where Ali could only feel it as a background pressure in her mind. She didn’t quite squeak, but it was a close call.
+
+“You’re back?” she asked, glancing up. She gasped at the sight of him. Azryet, the dragon god, looked like he’d been put through a wringer furnished with razor-sharp spikes. Rivers of glowing blood leaked from several huge gashes on his flanks. Blood that glowed with holy light and sparked with flecks of pure black, sizzling as it dripped onto her plants. “Oh, you’re hurt?”
+
+“It is of no matter,” he said, his great voice rumbling in the cavern. “One of the higher demons interferes with my healing, the wounds will close when its magic wears off.”
+
+“Oh, ok,” she said. He certainly didn’t look ok; the wounds were wider than her entire body and were being consumed by a strangely warped blood magic – a kind of corruption far beyond what she had personally experienced in the presence of the Pit Lord. It had to be something horrific if it could keep his incredible healing magic at bay. Ali decided she didn’t want to get too close, just in case it was as contagious as some of the other demonic corruptions she had had the misfortune to encounter.
+
+“You have greatly exceeded my expectations, little one. Your efforts have thrown Destraggoth’s forces into disarray, and it has been the catalyst for my first victory in centuries. You have my deepest gratitude,” Azryet said, bowing his head slightly toward her.
+
+“So, you’re going to send me home?” Ali asked. Despite her caution, hope ignited within her heart.
+
+“Alas, as I said when we sealed the bargain, I do not know how,” Azryet rumbled. Already, some of the corruption was beginning to fade, and his wounds were slowly closing. “However, I gave you my word. First, I will find this rift you spoke of, and then we will learn how to open it and send you back home.”
+
+“Ok, thank you,” Ali said. Not unexpected. She twisted her lips and frowned. It was not exactly what she had hoped for, but at least Azryet seemed committed to going through with his promise. “What do we do first?”
+
+Azryet seemed to change the subject, shifting his gaze to her latest minion, but before Ali could apologize for the offense of summoning demons in his realm, he said, “I see you have learned to make the Eye of Agnor. Would you share its skills with me?”
+
+“Surely you know them by now?” she asked, more than a little surprised by his request.
+
+“I do, but I have never been able to make them, and thus I have not seen the exact descriptions. I wish to confirm some details.”
+
+“Well, here you go.” She promptly pulled up the status and shared it.
+
+Race: DemonActive Buffs: Demonic MagusClass: Eye of Agnor – level 136- Arcane Eyes – level 101Mana: Fire a cone of Arcane Mana Burn from your Major Eye.Mana: Fire Arcane Bolts from a Peripheral Eye.Arcane, Ranged, Perception, Intelligence- Lightning Eyes – level 99Mana: Fire a Chain Lightning from a Primary Eye.Mana: Fire a chaotic Ball Lightning from your Higher Eye.Lightning, Ranged, Perception, Intelligence- Metamagic – level 61Mana: Empower a magic skill granting magical enhancement. Recharge: 30 seconds.Metamagic Enhancements: Amplified Casting, Accelerated Casting, Greater Spell Range, Spell Echo, Increased Area of Effect.Arcane, Lightning, Area, Intelligence- Infernal Archmage – level 58You gain +290% [skill x 5] to spell power, spell haste, mana control, and mental reaction speed when casting spells of your affinities.Arcane, Lightning, Mastery, Intelligence- Sentinel Sight – level 96You can see mana. All of your perceptions are accelerated when you are in danger. Arcane, Lightning, Perception- Demonic Magus – level 85Mana: Your Perception, Intelligence, and Wisdom are increased by +189.2% [40 + skill + base perception / 10]. Reserve: 20%Arcane, Lightning, Buff, Perception- Demonic Curse – level 77Mana: Curse your foe with one of your known curses. You can have up to 8 [1 + skill / 10] curses active at one time. You can cast multiple curses simultaneously, up to your maximum. Recharge: 10 seconds.Curse: Interrupted Casting.Curse: Lightning Vulnerability.Arcane, Lightning, Curse, Ranged, Intelligence- Teleport – level 80Mana: Teleport, moving instantly to a remote location you can see. Range: 68 meters. Recharge: 10 seconds.Mana: Teleport a Demon ally to your location. Range: 680 meters. Recharge: 5 seconds.Arcane, Lightning, Movement, Intelligence- Infernal Gaze – level 68All your eye-based Perception skills gain +204% [class + skill] range and spell power.Arcane, Lightning, Mastery, Perception, Intelligence- Demonic Command – level 73Mana: All nearby demonic allies gain increased Resistance, and short duration arcane barriers automatically block a portion of incoming attacks. All nearby demonic allies gain haste and Lightning Armor. Channeled. Range: 31.9 meters.Arcane, Lightning, Area, IntelligenceAptitudes- Arcane (Affinity): +100% spell power to Arcane magic- Lightning (Affinity): +85% spell power to Lightning magic- Sentinel (Racial): +136 to Perception- Languages: Demonic, Ancient Dal'mohran, Elvish, Draconic- Vulnerabilities (Racial): +50% extra damage from Holy- Ocular Superiority (Racial): Your eyes are unaffected by magical or mundane darkness- Ultra optics (Racial): Spell critical chance for eye-magic is proportional to Perception + Intelligence- Flying (Racial): You can flyAttributes- Vitality: 327- Strength: 202- Endurance: 77- Dexterity: 227- Perception: 1856 (+1214)- Intelligence: 1312 (+858)- Wisdom: 1017 (+665)Evasion: 952Dodge: 20%Resistance: 1958Magical Damage Reduction: 33.95%Health: 3270/3270Stamina: 770/770Mana: 8136/10170 (+2034 Reserved)
+
+“Interesting,” Azryet said after a few moments. “So, the affinities are truly random, then?”
+
+“Yes,” she confirmed, “but I seem to be able to influence them somewhat with my Grimoire.” She indicated the book hovering beside her. “Demonic Command, Demonic Curse, the eye skills, and Sentinel Sight all change based on the affinities, but otherwise the monster seems to be the same each time.”
+
+“A true template monster, then…” he rumbled.
+
+“Template?”
+
+“Yes. The monster itself follows a pattern, rather than an explicit skillset, but the variance is controlled – in this case, according to the random affinities selected.”
+
+“I see.” It made sense, and it was rather curious, but it was the only monster in her entire repertoire that followed this supposed template structure, so she had nothing to compare it with. “Do you mind?” she asked, pulling out an empty vial and pointing at the pools of his glowing blood forming among her plants.
+
+“I do not,” he said, “but I am curious why you would want my blood? Godhood conveys protection against most of the trickery that might be performed with it.”
+
+“I know an ink crafter who might be able to make something potent with it,” she said, collecting a full vial and storing it. Whether his wards would interfere with the crafting was something she would need to determine later.
+
+“Very well. Come, Aliandra, allow me to bring you to my library,” he said, and she felt the prickle of a powerful spell settling upon her, but somehow, it seemed to be waiting for her to accept. No sooner had she allowed it than she suddenly appeared in a vast chamber. It was indeed a library, with books and shelves as far as the eye could see. It was far larger than her library, sized for the dragon god himself, and as he settled on a rocky hollow in the center, not even his massive wingspan could reach the towering shelves of books that lined the walls.
+
+Ryn would love this!
+
+“Azryet. How may I serve?” The voice was both draconic and feminine, but filled with a powerful resonant quality, vibrating through Ali’s bones. She turned quickly to find herself staring at a golden-scaled dragon – far smaller than Azryet, but still enormous from the perspective of a Fae.
+
+“Aah, Tiraza. Aliandra here requires whatever knowledge we possess on teleportation magic. Exotic, or esoteric, with a specific focus on realm travel.”
+
+“At once.” The gleaming dragon vanished in a startling puff of holy mana, appearing on the far side of the library, diligently searching shelves and tomes to do Azryet’s bidding.
+
+“I fear that due to my distrust of strangers, I was not entirely honest with you at first,” Azryet said, looking down at her with an unreadable expression on his massive, scaled face.
+
+“How so?” Ali asked, a little thread of worry creeping in, dragging her attention away from the wealth of knowledge that must be contained within this library. Ancient knowledge, long lost from her own realm.
+
+“In our conversation prior, I deliberately led you to believe that I stand as an equal against Destraggoth,” Azryet said. “However, that couldn’t be further from the truth. I may be a god, but I cannot stand against his might. It is only a matter of time before he grows too powerful for me, and our precarious stalemate ends in my destruction. And when I fall, your realm will likely be crushed, as he will bend his entire might to crossing realms to conquer everything in his path. Subjugation and conquest have ever been his purpose. It was to prevent that eventuality that I first came to this accursed realm.”
+
+“But didn’t you just win a battle?” Ali asked. What had she fought that boss for if there was no hope?
+
+“Yes,” he said, rumbling in the depths of his throat. “But, ultimately, only a small reversal in a larger war.” He turned, lowering his body and head so that his eye could be closer to her level. “Godhood is usually first offered once a being surpasses level one thousand. It represents a fundamental shift in how progression and experience work – as personal combat or achievements become progressively harder, godhood provides an alternative source of growth: Reputation. A god thrives on followers who share traits, principles, and values. These followers work to increase the reputation of the god, and in exchange are offered progressively growing boons, crafted from the god’s mana, intent, and traits. It is through the accumulation of reputation that Authority can be earned.”
+
+“So, you just need followers who care about your ideals, and you can get stronger?” The theory was well understood, and she had researched it several times, but hearing it from the mouth of an actual god was something else entirely.
+
+“Precisely.” Azryet’s giant eye slowly blinked, and he shifted a little. “And therein lies the source of my weakness. For I am a dungeon, stuck here in this Abyssal Realm. There are no entities in this realm besides me and Destraggoth. And now you. There has been no opportunity to gain followers in thousands of years.”
+
+“But you have Havok, and Mato, and a few others from our guild.”
+
+“I do indeed, and I cannot describe how precious they all are. They are my only followers – there are no others. When Havok accepted my patronage and gained the title of First Paladin of Azryet, I gained my first level in longer than I can remember. And once again, when Mato reached his first evolution, and chose the path that I offered to him.”
+
+He created Mato’s evolution path? There were so many things to unpack in Azryet’s words, but she put her curiosity aside to concentrate instead on what he was trying to tell her. There would be time enough to consider the implications later. “That sounds pretty rough. But doesn’t Destraggoth suffer from the same problem?”
+
+“He has access to several demonic planes, along with millions of demon followers.” Azryet sighed, a great billowing gust of air. “But this is not all. Several thousand years ago, I was forced to pick a path that restricted my dungeon, not only to draconic minions, but also in affinity to holy or void. There was little choice at the time, but this decision has greatly limited my scope and growth over the ages, and I find myself unable to match Destraggoth and the ability of his Pit Lords to turn anything with blood into a demon for incorporation into his repertoire. Perhaps you can understand now why I look jealously upon your ability to make almost anything you encounter.”
+
+“Is there anything I can do?” Ali asked. She had just defeated a raid boss for him, but the slowly healing scars on the dragon-god’s face told her more eloquently than his words just how powerful the Demon God’s Lair really was. There was no way her magic or minions would sway the battle in any meaningful fashion.
+
+“You are here. From a different realm,” Azryet said, lowering his head so he could peer closely at her. She shrank back from the intimidating visage. “And you brought your domain with you through the rift.”
+
+“Err… yes?”
+
+“If you could teach me that…” Azryet’s eyes swirled with obvious hunger.
+
+“I don’t know how,” Ali stammered. “I got Adaptable Mana in my evolution, but I think it originally came from twisting my domain to share it with Aunt Lira.” She stared wide-eyed at him, but after a moment she recognized the glint in his eyes for what it really was – a scholar’s thirst for knowledge.
+
+“No matter,” Azryet said. “Your domain meshes with mine; I will study it carefully. What I require more than anything are followers. I need access to new monster skills, but I suspect finding holy or void dragons will be next to impossible. Above all, I crave new knowledge – all the advances in magic and skills that I have been denied over the years, locked away here in this accursed realm.”
+
+“You want to make another deal?” she asked, guessing his intention.
+
+“I do. If you promise to grow my followers when you return to your realm, I will offer you instruction in how to fight with your domain.”
+
+“I am not a member of your church, and… I have no desire for a god,” Ali answered. She kept her tone even and careful, trying to avoid offending him, but he didn’t seem to react harshly, so she continued. “Havok seems to be doing a good job promoting your patronage, and he is my friend, so I would help him anyway.”
+
+“I see,” Azryet said.
+
+“But I do have something else you wanted,” Ali said, noticing how his attention fixed on her as soon as she spoke the words. “I have the Grand Library Arcana – the greatest collection of magical works from Dal’mohra before it was destroyed three thousand years ago – and I can copy any book. I think we share a similar desire for knowledge.” It was, she knew, a bit of a stretch – she had had the grand library, and now it was technically lost to her, but, if she was to recover her dungeon and domain, she was certain she could at least rebuild the library from the spirit realm echo of it with some help from Cael, Gage, and Ryn. She just hoped Ryn had gotten out safely.
+
+“I think you have yourself a deal,” Azryet said, the mana in his eyes swirling in what could only be interpreted as an avaricious gleam. Perhaps she was reading too much into it, but the way he moved closer seemed to confirm that this dragon god’s hoard was books and knowledge. “I will grant you full access to my library, in exchange for you supplying me copies of the full contents of the Grand Library Arcana.”
+
+“Ok,” Ali said, hoping she hadn’t bitten off rather too much. The entire grand library would take a rather long time to copy, but for access to his draconic library, she was sure it would prove worthwhile.
+
+“There is more I would offer,” Azryet said. “You have brought sad tidings of the passing of Lirasia. Should we succeed in opening the rift, you will still need to fight your way through a powerful dungeon. I can offer aid in the form of a few minions, or I can offer to train you to use your domain mana to combat other dungeons.”
+
+“What do you mean, using my domain mana to combat other dungeons?” Ali asked, suddenly curious. She hadn’t thought much beyond finding a working teleportation spell or recovering the rift and opening it – he was right, she would have to fight her way solo through the entire dungeon that had supplanted hers. She was certain that Azryet could provide powerful minions, but the opportunity to learn a skill from him that would allow her to do it herself was something she couldn’t afford to pass up.
+
+“You studied the battlefront between my domain and Destraggoth’s, did you not?” he asked. “What did you observe, besides the leviathan?”
+
+“I saw your domain mana and his meeting in the middle and annihilating each other,” she answered.
+
+“Indeed,” he answered. “For hundreds of thousands of kilometers along the many boundaries between our domains, the domain magic battles ceaselessly.”
+
+“Doesn’t that create dungeon rage?” Ali asked, suddenly horrified at the scale, and just how much something like that must hurt.
+
+“It does,” he said, not elaborating further.
+
+She tried to imagine what it must be like to be subject to so much dungeon rage for as long as he must have existed in this realm, and her mind simply drew a blank. How he was still sane and even functional, let alone polite, was something she couldn’t even begin to fathom. “Why did you flinch when I turned my domain against you?” she asked, the thought suddenly popping into her head. “I mean, if you’re always experiencing so much dungeon rage, my little domain must feel insignificant.”
+
+“You surprised me, little one. Till then, I had not suspected that you were a dungeon within my domain. I have never seen magic that could hop realms or hide a domain from another,” he said. “It is a powerful skill you have, but be wary of how you share it, for it makes you exceptionally vulnerable. Should I choose to, I could consume your entire domain and all its mana in an instant, and you would be powerless to defend against it. That is what dungeon rage is – a dungeon’s defense against invasive mana – and it is what I will teach you to use.”
+
+“I would like to learn,” she said. She had already made the somewhat intuitive connection that her sharing her domain with Lira was what had propelled the Blooming Rot dungeon to grow so suddenly and aggressively when paired up with the undead monster she had become. Any tool to help her reclaim her space and clear Nevyn Eld’s abomination would be something she would take without hesitation.
+
+“Very well.” The dragon’s rumble of approval vibrated through the stone of the library, transmitting through her bones.
+
+The Dragon God, Azryet, offers his patronage.Mentor Patronage – AzryetTraits: Void, Holy, Domain, Deity, Minion, Draconic, Strength, Vitality, Endurance, Intelligence, Wisdom, Chaos, Combat, Healing, Knowledge.Experience gain is increased for actions aligned with your mentor or under their supervision. Gain additional skill unlocks and advances aligned with your mentor’s traits and experience.A portion of your increased experience is awarded to your mentor, increasing their reputation.Enchantment – TitheAccept this patronage?
+
+“Um, no offense, but I did say I wasn’t looking for a god patron,” Ali said, surprised at the sudden notification that appeared.
+
+“I respect your choice, Aliandra. That is not a godly patronage I offered. Besides, this way is better for what we must do.”
+
+“It’s… oh,” she said, suddenly noticing the difference. A mentor patronage? With a dungeon god? This was truly something incredible, even if it would likely be a temporary arrangement. Azryet had not pushed her to become a follower, something he desperately needed, at least according to his own words.
+
+That says more about him than an entire Grand Library of words, she realized, and then realized also that he could likely read her emotions – most of all, the deep and instinctual swell of her gratitude – with the utmost ease.
+
+Without any further hesitation, she bowed deeply and accepted the offer.
+
+“Thank you, Azryet,” she said simply. “What do we do next?”
+
+“Watch closely, and I will show you.”
+
+Something stirred over in the cathedral where he had allowed her to grow her domain. Her Subterranean Brood Queen, left to guard the area, perked up her head in surprise. Then Ali staggered as excruciating pain ripped through her mind, dragging her down as her vision dimmed and faded. She didn’t even feel when she hit the ground.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

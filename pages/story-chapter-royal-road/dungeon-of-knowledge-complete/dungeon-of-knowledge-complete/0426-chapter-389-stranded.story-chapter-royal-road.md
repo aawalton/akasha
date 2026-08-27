@@ -1,0 +1,171 @@
+---
+id: dcc5f7fd-879c-5df6-8cbd-1836b0203ce7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 389: Stranded"
+slug: 0426-chapter-389-stranded
+partOf: dungeon-of-knowledge-complete
+position: 426
+ownLength: 3022
+unit: words
+ownProgress: 3022
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2625253/chapter-389-stranded"
+royalRoadId: "2625253"
+markedReadAt: "2026-06-29T20:26:28.136Z"
+---
+
+Ali swayed on her feet, her vision blurring as her mind threatened to succumb to sheer exhaustion. She might have been fighting for hours – or days – she could no longer tell, but as she eked each hard-won rock or stone of this cavern, desperate to secure her domain, more and more demons poured through that tunnel, drawn to the surging source of fresh mana.
+
+She needed a bulwark, a wall, a fortress – something to hide behind safely before she collapsed, and the tide of demons swept her away. Time to figure out a safe way home, a way which wouldn’t end up killing her later due to abandoning her only available stretch of domain.
+
+At least I have some mana now, she thought.
+
+So tired…
+
+She couldn’t even tell when she had made the decision; in her almost dream-like zombie state, she opened her Grimoire and summoned a tree. The semi-lucid part of her rational mind screamed at her that the tree would dramatically increase the size and density of her domain mana, and that growing her dungeon in this realm would bring down even more demons upon her, but that voice felt muted, as if speaking to her from a great distance. She ignored it and finished her tree. Then, she summoned another.
+
+Lirasian Oak – Elder Tree – level 114 (Nature)Arcanite Birch – Elemental Tree – level 106 (Arcane)
+
+The two trees stood proudly near the center of the cavern, flanking the faint distortions – a spiderweb of hairline cracks hanging in the air – that were all that remained of the now fully closed rift. The majestic oak spread its branches high and wide through the cavern, not quite reaching the roof above, and the smaller Arcanite Birch lit from within with an intense golden glow as its mana ignited in her domain.
+
+Dense waves of mana billowed forth from the two trees, entwining and twisting together, surging out from the center, rapidly establishing the powerful weave of her domain throughout the cavern. She took comfort in the familiar feel as her senses expanded outward, traveling along the currents of the mana wave through the cavern.
+
+She very nearly collapsed right there.
+
+No… There was still something she needed to do. What was it again…
+
+A howl from the tunnel tore through the fog of exhaustion, and she remembered.
+
+One more.
+
+She opened her Grimoire, searching in a daze for the imprint of her dead rift guardian. The Ice Queen, who had protected her domain for so long.
+
+Mok’freja [Ice Queen] – Troll – level 105 (Ice)
+
+Summoning her sapped her much reduced mana, dredging up memories of facing the Ice Queen in the heart of Aman Rak.
+
+“I have failed you, Seeker,” the troll said, falling to her knees in self-abasement. “I am not worthy to be resummoned.”
+
+Ali blinked at her, stupefied for a moment until her addled brain caught up and realized she was apologizing for dying in the rift chamber. She wrestled for a few moments, but she was too tired to address it. Later…
+
+She surprised herself by having the presence of mind to summon a Frost Weaver familiar for her, and then she granted Mok’freja a raid domain enhancement and the same domain abilities she had had in the rift chamber.
+
+Domain Respawn applied to Mage of Piercing Frost.Raid Domain Enhancement applied to Mage of Piercing Frost.Affinity Aura (Ice) applied.Spell Cascade (Ice Bolt) applied.Slayer (Demon) applied.Domain Enhancement complete.Your reserved mana has increased by +1346.
+
+Her troll glanced up at her in surprise as the boon of powerful mana infused her body. “Seeker…?”
+
+“I’m having a really bad day. Protect me while I sleep…” she said, and her consciousness left her before she even slumped down on the mossy ground between the roots of her oak.
+
+***
+
+Ali woke, which was a surprising enough result on its own, and opened her eyes, finding herself where she had collapsed, lying on a bed of verdant green moss. It shone in her sight and bathed her with the soothing caress of her mana. The giant limbs of her Lirasian Oak stretched up, tall and strong, but several of the branches had been burnt or shattered by some devastating spell.
+
+Aunt Lira…
+
+Unbidden, the last memories she had of her aunt stormed her mind; the blast of death magic, the kind look in her eyes right before she died, and the horror of seeing her dead body animated by the Lich’s necromancy. Her throat closed up and her lungs clenched as she struggled to draw breath.
+
+Why? Why her? Idiotically, she found herself thinking that what she would miss most of all, was chatting with her aunt over a nice, soothing cup of tea. She made the best tea… angrily, she dashed tears from her eyes. I’ve work to do now. Focus.
+
+The loud crack of talons striking scales, and the soft swishing of a steady stream of chilling ice from nearby dragged her out of her fresh grief. She wiped her eyes with the back of her hands and sat up to assess the danger.
+
+She stared aghast at what met her gaze. Half of her domain was gone. The arcanite birch had been snapped in two, the top half of its trunk lying up against a large boulder, and the shattered fragments of branches were strewn across a broad area. A large oak branch lay where it had fallen, flung across the cavern by whatever magic had ripped it from the tree. Small tongues of black hellfire still burning on the wood sent twisting threads of smoke curling upward toward the roof.
+
+Her Armored Drake still stood no more than ten meters away, battered and bloody, battling three Abyssal Stalkers and several strangely twisted kobolds with feverishly glowing red eyes and dark ichor drool falling from their mouths. On one side, a couple of drake corpses lay with grievous wounds still marking their red-scaled bodies.
+
+Of the Abyssal Stalkers she had made, there was no sign. Only a single kobold acolyte remained, head bowed in prayer while her holy mana pulsed within the Armored Drake, struggling to undo the terrible gashes and puncture wounds.
+
+A loud, angry droning sound rose from up ahead, and a cloud of fist-sized red-and-black vampiric hornets flew into view at the far end of the cavern. Mana surged as a sudden crack split the air, and the entire swarm of demonic insects fell to the ground as the Frost Nova detonated dead center in their swarm. Ali glanced up to find Mok’freja focused intently on the monsters attacking her Armored Drake, firing multiple streams of ice bolts into their frenzied forms.
+
+It's a good thing none of those mind-flaying demons showed up. Or that Pit Lord. Wow.
+
+“Seeker?” her troll said, glancing over at her as she noticed her stirring. “You have awakened.”
+
+“Good work, great one,” Ali told her, using the trollish word for a respected pillar of the tribe and getting a sudden smile from the troll mage, although her magic did not falter even slightly.
+
+Ali didn’t exactly feel great, nor did she have any idea how long she had slept, but she was just grateful she hadn’t been murdered in her sleep by some of the crazy demonic monsters whose corpses now littered her cavern.
+
+Full mana… She opened her Grimoire and began to repair her trees and expand the moss carpet a little more while she checked the notifications that had come while she slept.
+
+Your Acolyte of Azryet has reached level 59.You have defeated Abyssal Stalker – Demonic Spider – level 55 (Blood).Your Dagger Rogue has reached level 51.You have defeated Vampiric Hornet – Demonic Insect – level 25-31 (Blood) x53.You have defeated Abyssal Stalker – Demonic Spider – level 75 (Blood).…Dungeon of Knowledge has reached level 127.+10 attribute points. …You have defeated Hellfire Imp – Demon – level 61 (Hellfire).You have defeated Corrupted Fire Drake – Demonic Dragon – level 97 (Hellfire).
+
+The stream of notifications was endless, and so she dismissed it and simply looked at her forces.
+
+Mage of Piercing Frost – Troll – level 111 (Ice)Acolyte of Azryet – Kobold – level 89 (Holy)Rogue – Kobold – level 85.Armored Drake – Dragon – level 96 (Fire)
+
+“Seeker, our allies are few,” her troll mage said, unleashing another volley of ice bolts at the twisted monsters.
+
+“Yes, they are,” Ali agreed, still shocked that they had withstood the continuous onslaught while she slept. Carefully, she assigned her attribute points from the level she had earned while her minions fought on her behalf: three each to perception and wisdom, and the remaining four to intelligence. Then, she turned her Empowered Summoner back on. Her small army instantly reacted to the dramatic increase in their combat power, additional flashes of arcane and nature magic gracing all their strikes.
+
+You have defeated Infernal Mage – Demonic Kobold – level 86 (Hellfire).Your Acolyte of Azryet has reached level 90.
+
+Demonic Kobold? Come to think of it, the drake corpses were the same demonic dragon that had guarded the end of the Emberforge Mines.
+
+She marshaled her mana and began to summon protectors. Her first pick was resummoning her champion Carnage Berserker, Tol’brekk, who had defended her against the Heroes of the Crimson Blade. He, too, seemed depressed by his failure to defend against Nevyn Eld’s assault of her dungeon, but his face lit with pleasure as she resummoned his axes and armor, and he instantly leapt into battle, landing on the cluster of demons gathered up around her Armored Drake with a stunning crash and a flurry of razor-sharp steel and blood.
+
+Next, she summoned Joraa and a few Abyssal Stalkers. A Blood Shaman would go a long way to stabilizing her forces, and she added him as her Empowered Summoner target to boost her wisdom. Recalling the swarm of vampiric hornets, she summoned a pair of Frost Dragonets, offering one to Mok’freja as a replacement for her missing familiar. Ice will be good, she decided – and what was better than flying, ice-breathing dragons?
+
+Having patched up her domain and substantially bolstered her forces, she reached outward and deconstructed the fruits of her minions’ hard labor.
+
+Variant: Corrupted Fire Drake added to Imprint: Dragon, Demon
+
+Variant: Infernal Mage added to Imprint: Kobold, Demon
+
+But the two notifications were not all she gained; all her basic demonic imprints grew substantially from the many higher-level corpses her minions had managed to defeat. Undoubtedly, the combination of a fire-immune tank with draconic scale armor and a raid-level ice mage with demon slayer had been very effective. It wasn’t much, and she was certain the new demonic imprints would be less than ideal pitted against the demons themselves, but she was happy with her Mage of Piercing Frost and her Carnage Berserker for now.
+
+Ali turned her attention to studying the remnants of the rift itself. The once-scintillating tear in the fabric of the realm was firmly shut, preventing her return to her home realm and Myrin’s Keep, and any chance that she could reunite with her friends and do something about her lost dungeon.
+
+She choked up again at the sudden reminder that Lira was… dead. It’s all my fault. She would still be alive if I weren’t there. Fresh tears welled up in her eyes before she wiped them away with a firm hand.
+
+I will grieve her properly after I get back, she told herself, biting her lip hard enough to draw blood while trying to muster her resolve against the enormity of the pit that had been torn right through her heart. I need to get home first. She had no idea if her friends were even ok.
+
+She reached a hand toward the rift, but it passed right through the faint cracks that hovered there like afterimages. Like someone had taken shattered pieces of glass and glued them back together, except this was the fabric of the realm. When she had first examined the rift, it had defied any of her attempts to adjust it – and after the rift break, she had been highly motivated to have it closed. But now it was shut and nothing could pass; a great outcome except for one little detail – she had no remaining minions but the ones right here in this cavern. None had survived back in her home realm, and there was no way for her to use her long-range teleportation to return.
+
+She pondered the rift some more. It had to be those spores. She had no memory of what had happened before waking up here with Calen, but those blue spores she would recognize anywhere. Somehow, there had been a Mana Eater on the other side, and draining the mana in the area had to have been the catalyst for closing the rift. Is it still there?
+
+Not particularly useful for me right now. She discarded that line of reasoning as being unhelpful. The method by which the rift had been closed was interesting, but it didn’t seem useful for getting her home. She needed to prioritize – staying alive was number one, then getting home and checking on her friends. Then she could worry about the rest.
+
+I need to do something about him, she thought. Mostly, she had been content to fly under the Blind Lich’s radar, but she had just learned precisely how bad an idea that was.
+
+She checked in with her monsters, but they seemed to be taking care of business remarkably effectively, so she turned her attention to her magic. If she couldn’t use the rift, and she couldn’t use her long-range teleport, she still had the option of making a runic circle to teleport to any known locus, or summoning recall potions. And now, she had enough domain mana to power a cross-realm teleportation on her own, regardless of whether the destination had enough mana.
+
+Still…  she eyed her domain warily. This was her only source of domain mana now, and it wouldn’t do to teleport back home and be stranded there without a way of clearing her Domain Withdrawal. Any way home needed to bring her domain with her or leave herself a way to return. Minions, of course. However, this was not a safe location, and some redundancy was in order. With a quick flex of Domain Mastery, she flattened a large boulder into a smooth disk, flush with her moss, and then transmuted mithril runes into its surface, forming a robust Locus.
+
+There, now I can come back whenever I need.
+
+No longer reliant on the rift, Ali quickly inscribed a teleportation runic circle from memory, coding it to the Myrin’s Keep locus instead of the almost certainly lost locus she had put in her dungeon. Happy to have a plan, she quickly finished up the runes and attached the circle to her domain. The circle connected and flared with active mana, but something seemed wrong.
+
+Did I get the locus wrong?
+
+Carefully, she checked her work, but there was nothing out of place. Still, the spell refused to connect. Even stepping inside the ring had no effect. It’s like I made a mistake with the locus, but I didn’t.
+
+Frowning, Ali summoned one of Morwynne’s famed Recall Potions and dashed it on the ground by her feet, ready to try and augment the smoke magic with her own mana once again, but the formation fizzled before it even connected.
+
+Volle, maybe? It wouldn’t be her ideal choice of location, but it was a locus she knew. The runic loci she was maintaining in Aman Rak, Naia’s Dungeon, and Kezda had all failed when her mana was wiped out, but the Volle locus should work – it was far from whatever must have taken out the Myrin’s Keep locus. But when she finished inscribing the circle, it also failed to connect.
+
+She puzzled over it for a long while, checking her runes carefully while the sounds of battle continued unabated in the background. On a hunch, she created a third circle – this one to Ciradyl. Ciradyl’s locus had been destroyed in the disaster, but she still remembered it. She meticulously inscribed the runes with her mana, but it also failed, confirming her worst scenario. She had not made any mistakes – and the conclusion was bleak and obvious; the loci at Volle and Myrin’s Keep had both been destroyed. In the same day.
+
+The implications were staggering.
+
+She had one more chance – her final memorized locus was the one at Vertias. It had remained mostly unused in favor of her link directly to Kezda. She hesitated.
+
+What if it’s broken, too?
+
+She decided she didn’t want to think about that possibility. Especially considering the unlikelihood that all the city loci she knew might have been simultaneously broken.
+
+A few minutes later, she stared down at the fourth broken teleportation circle with a sinking feeling of dread in her heart. Somehow, against all reason, every single locus was gone. Lira’s death had ripped her heart asunder, and she had lost her dungeon, the library, and her home. Everything was gone.
+
+All the while she had been fighting for her tiny foothold on this blasted realm, she had kept a bright spark of hope. She had sent Calen back home, and although she didn’t know what had become of her friends, she was sure they’d be alright – that they’d be worried about her back home. When this last circle failed, that spark had been extinguished like a tiny candle dropped into the inky black sea. What horrifying disaster could have taken out three cities at the same time?
+
+Slowly, Ali sank to the ground, staring into the distance in disbelief. She was out of ideas, out of tools, and despair stormed her heart as she faced the stark reality of her situation.
+
+I’m stuck here.
+
+Suddenly, she was assaulted by a high-pitched, mana-empowered screech that filled the cavern and tore through her mind, driving her to clutch her head with its insanity-inducing power.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,139 @@
+---
+id: afb2cebc-cee9-582e-b87a-efaa2642216d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18"
+slug: 0018-chapter-18
+partOf: emie-ascended
+position: 18
+ownLength: 1965
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3498921/chapter-18"
+royalRoadId: "3498921"
+---
+
+Though we could all use better gear, Mike and Cora agreed to spend a significant portion of their wealth to help furnish the sanctuary before our next delve.
+
+I had no doubt the couple were used to high-quality items, but they seemed perfectly fine purchasing the low-grade starter furniture that was only meant to last for a few years before needing to be replaced.
+
+I felt less inclined to accept such subpar furnishings, but unless I wanted to craft everything myself from materials I had harvested personally (which I didn’t), I’d have to get over it. The money we’d earned would only go so far.
+
+To be fair, some of what we picked up was actually pretty well made, but it was all crafted by copper or iron-ranked apprentices, which lowered the cost.
+
+In addition to the furniture we needed and a few pieces of décor that Cora insisted on – including a mirror and a pair of paintings to make the place more ‘homey’, we also picked up some regular bedding and the material I’d need to make more.
+
+With the bonding stones, I didn’t think it would be all that difficult to craft a few extra things. And who knew? Maybe Cora or Mike would discover they liked crafting such things and could handle all of that for me.
+
+“Oh, we meant to give you something earlier,” Cora said when we started heading back to the Dungeon Complex. “Can you stop by our apartment really quick? It won’t take long.”
+
+When we arrived, Cora and Mike immediately headed toward the coffee table and lifted the top, revealing a small storage space. They each grabbed a handful of items before closing the top and spreading their bounty on the table.
+
+“I thought you might want to save some money while you practice your craft,” Mike explained. “I’m not sure if you can use them or not, but I made everything by shaping real stone instead of manifesting it myself. There are several different types mixed in since I didn’t know what would be best. The Enchanters I’ve worked with in the past all had different preferences.”
+
+On the table were a few stone rings of different sizes, various stone charms with loops, and a stack of thinly sliced stone tiles.
+
+“These are great, thanks!” I said, feeling strangely touched by their thoughtfulness. “They are probably better than what I’ve been using so far. If you want, I can make you something specific as thanks?”
+
+“No thanks are needed,” Cora interjected. “You’re already providing us with a truly safe place to rest inside the dungeon and teaching us how to forage. We actually feel a little bad about how little we’ve been contributing in comparison.”
+
+“I don’t see it that way at all,” I assured them before sending the stone items into storage.
+
+Even if they didn’t ask for anything specific, I’d be sure to make something that each of them could use with the items.
+
+At low levels, the only real way to get compound effects on an item is to overlay enchantments. That meant I basically had to enchant the item twice if I wanted an item to have a second effect.
+
+Eventually, my mind would be capable of once again holding multiple intents simultaneously, but for now, I was already at my limit focusing on a single desired effect.
+
+That was fine, since enchanting small items like the ones gifted to me by my new teammates and the cheap blanks I’d picked up at the crafters’ emporium didn’t take all that much time or cause much mental strain.
+
+For now, I focused on practicing a variety of simple enchantments, then overlaying the first enchantments with complementary secondary enchantments.
+
+For example, one of the stone rings I enchanted with durability before adding a secondary effect of self-repair. Because I was still pretty weak, the self-repair enchantment was quite limited and would only work for minor damage.
+
+But just successfully enchanting a minor self-repair was still a significant accomplishment. It was one of the more difficult of the ‘simple’ enchantments available in this realm.
+
+By the time dinnertime rolled around, I actually managed to enchant one of the rings with a minor strength buff.
+
+While that was hardly worth mentioning when compared to what I’d been capable of crafting before my ascension, creating an effect that transferred from the item to the user was a huge jump in difficulty in this realm. So much so that successfully completing the item qualified my skill for an upgrade.
+
+I was given the option of taking a direct upgrade, which would raise the skill’s grade from Common to Uncommon and make using the skill easier with stronger results, or specializing the skill, which would provide a bonus to certain types of enchantments while making others more difficult.
+
+With barely any thought, I opted for the general skill upgrade. I had no need to specialize at this point in my progression, as doing so would likely be more limiting than helpful.
+
+Accepting the upgrade also earned me a level, pushing me even farther ahead of my new teammates and bringing me to level ten. I wasn’t sure why levels were only gained when someone upgraded or evolved a skill and not when it was originally learned.
+
+I assumed it had to do with how skills interacted with one’s soul, but I hadn’t found anything in the library that verified that assumption. It was really just a guess on my part, but it felt correct.
+
+As much as I wanted to test my newly improved skill, the mental fatigue from enchanting several items had built up to a point that I was finding it increasingly difficult to concentrate. Luckily, it was time to meet Cora and Mike for dinner.
+
+Placing the ring into storage, I headed to the dining hall in search of my new party members.
+
+“So, you want to head back to the dungeon tomorrow after breakfast?” Cora asked.
+
+I planned to take a late shift at the hospital to help out since I knew they were always short-handed. Though I didn’t consider myself a real Healer, I did enjoy seeing the relief on my patients’ faces when their bodies were made whole.
+
+I also liked knowing that my healing skill was improving with every patient I healed.
+
+“I do. I’m really curious about whether or not the Golden Oak will still be there, or if it was a one-time encounter sort of thing,” I said. “I’d also like to reach the first evolution sooner rather than later. I don’t know about the two of you, but I don’t much care for the restrictions that come with being unevolved, even if it does come with the benefit of free room and board.”
+
+“We agree,” Mike said with a nod.
+
+Our conversation was interrupted by a commotion at the other end of the dining hall.
+
+“What do you mean, you’re going to go on a delve with her old party? You need to be focused on our party’s growth, not some stupid natives!”
+
+The shout came from an angry man with the palest skin I’d seen in the realm thus far. His hair was a pale shade of yellow, and his eyes, a crystalline blue.
+
+The man he was yelling at stood protectively in front of a smaller woman. His body was larger than the other man’s, and while his skin was a few shades darker, the contrast wasn’t nearly as pronounced as the metallic black hair atop his head.
+
+The response from the dark-haired man was too quiet for me to make out from across the room, but whatever he said, it only served to anger the other man more.
+
+“Do not think! It is not your place to think!” yelled the irate blonde as he pushed a finger toward the other man.
+
+After examining the troublemakers with Identify, I sighed. “Why am I not surprised that Ascenders are causing problems?”
+
+“I don’t know. The Ascenders I’ve met so far haven’t been too bad. Most of the bad adventurers never make it this far. They either get overconfident or get themselves stabbed in the back because they’re assholes,” Cora said a bit too knowingly.
+
+“Didn’t Aribella and Hothen mention a new group of Ascenders who were causing problems?” Mike asked. “If the girl hiding behind the one guy is a healer, then this is probably them. With no Ascended Healers willing to join them, they would have had to recruit from the natives if they wanted a healer in the group.”
+
+“Five people seems like a lot, though, doesn’t it?” I asked.
+
+Mike and Cora both shrugged.
+
+“Four is usually considered optimal, but three or five are both common enough, depending on the party composition,” Mike answered.
+
+As I watched the drama play out, I found myself wishing that I had a bag of popcorn. Cliché it might be, but I’d found popcorn was always a good accompaniment to drama as long as I was not personally involved.
+
+It was just too bad the corn analog of this realm didn’t pop the same way.
+
+Based on what I could pick up from the argument, it seemed the black-haired guy had agreed to do a delve with their new healer’s old party. The leader of the Ascender group, the blonde guy, found out and forbade him from going with them.
+
+The really interesting part came when the leader reminded the dark-haired guy that he was oath-bound to follow the leader’s orders.
+
+“Funny that,” the nice guy said with a sneer. “Now that you mention it, I don’t really feel any compulsion to obey you anymore. It looks like our old oaths don’t apply here!”
+
+And then, as if suddenly realizing what he’d just said, the man started laughing.
+
+“I don’t have to listen to you anymore!” he yelled before turning to the two men flanking the blonde. “You guys don’t have to, either! Finally. FINALLY! We are free from those stupid oaths we took when we were too stupid to know what we were doing!”
+
+“What are you talking about? As your prince—”
+
+“NO! You are no longer my prince. You are no longer a prince at all! In fact, I’m going to withdraw my membership in your party right now!” The man cackled. “Be glad we’re not allowed to fight each other. You’ve always been weaker than the rest of us. Even hoarding the largest share of cores and outleveling us, you are still weaker.”
+
+The man’s words must have hit a nerve because the blonde immediately ordered his two remaining party members to subdue the rebel.
+
+I actually laughed out loud when the two other men simply looked at the princeling with disdain. Gone was any semblance of respect or deference.
+
+One of them said something I couldn’t quite catch through my laughter, and the blonde’s unnaturally pale skin began reddening. He moved as if to strike the one who’d instigated the situation, but found his movements stopped by a youthful-looking woman.
+
+“Violence is not allowed outside of the dungeon. If you cannot follow the rules, you’ll be exiled. Do not make me warn you again.”
+
+Only the princeling appeared frozen, as the nearby spectators shifted uneasily at the woman’s sudden appearance.
+
+Before anyone could fully process what had happened, the woman disappeared, taking the blonde man with her. That was probably a good call on her part. I could easily see the situation escalating again if she’d left him behind.
+
+The newly leaderless group of Ascenders huddled together and exchanged hushed whispers before the original instigator stepped back, shaking his head.
+
+I would have watched what happened afterward, but my food was gone, and I didn’t want to get stuck working too late.
+
+“So, tomorrow?”

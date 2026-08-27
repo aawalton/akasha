@@ -1,0 +1,127 @@
+---
+id: 0550c179-cfe9-5bc0-8c1e-97352ed3c54a
+page-type-slug: story-chapter-royal-road
+title: "Ch118 12th Level Qi Refiner"
+slug: 0118-ch118-12th-level-qi-refiner
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 118
+ownLength: 1569
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3806251/ch118-12th-level-qi-refiner"
+royalRoadId: "3806251"
+---
+
+The viscous sap-like liquid slowly trickles down the side of the glass, and its own aura rivals the density of Lan Xin’s soul fire particles in the air.
+
+It takes multiple seconds for the thick liquid to drip out of the side of the vial, but finally a single droplet falls out, slides down her tongue, and dissolves into the flames of her physique.
+
+Her serpent twists up her body at the same time, with far more understanding, intelligent eyes, watching as my talisman breaks, and I activate the 4th one I have on me.
+
+I pour out another small amber colored droplet into the serpent's open mouth to watch it dissolve in the same manner.
+
+“You stay inside Lan Xin’s soul and don’t let her die! I’ll personally come back to kill you if you do!”
+
+The snake pulls its head back and disappears from sight. A wave of thick dark yellow and invisible vibrations starts to pulse out from Lan Xin and her serpent as the sappy substance reacts. It begins to morph colors and turn into a pristine white. For a split second, every meridian in both of their bodies lights up, and the energy rushing through moves faster. The sap then shifts its hue again to match the exact yellow and orange of their flames.
+
+The damaged soul bond between them instantly thickens, aligning for once. The volume of their souls expands, and their physiques instantly begin to stabilize as a sturdy anchor has returned. The heat in the room multiplies as a result, and my defensive talisman shatters once again.
+
+I cork the honey vial and stow it away, activate a final defensive talisman, and run from the center of this vein as the ground breaks below me even more.
+
+I only have a few upgrade cards left in my storage. I use three on healing elixirs just to have them on hand, and the rest on more defensive talismans in case I have to go back in. There are still some perfect-grade attack talismans leftover in my storage, but I don’t feel the necessity to create any more.
+
+A single reusable perfect-grade arrow with my perfect-grade bow packs the same amount of power, and so does one of my raw fists.
+
+During this thought process, a pillar of yellow and orange flames begins to burst up from the ground, shooting over a hundred meters in the air less than a minute later.
+
+I continue to cautiously back up and watch as the bright flames grow even more intense.
+
+The subtle fluctuations that come off them, however, feel far more aligned and less erratic than before. This wave of fire is completely stable, instead of the chaotic bursts from before.
+
+Almost a full hour passes.
+
+The ground for hundreds of meters is burned and destroyed. I watch the entire structure of the earth below shift as an entire perfect-grade vein is overstrained and siphoned directly into this woman’s body.
+
+The ground around this vein collapses inward, creating a sinkhole with blackened ground that cannot handle the force of the aura pouring out of its center.
+
+Semi-translucent flames hit their most extreme point, pushing to over 200 meters into the sky before the violent reactions suddenly halt.
+
+The residue drifts away into the breeze, and not a single extra flame explodes into the sky.
+
+A tremor vibrates through the ground, and a faint pulse of hot aura hits me from almost half a kilometer away, even with the majority being confined within the tier 2 gathering array.
+
+A completed quest notification triggers in my mind.
+
+[Ding!]This story has been stolen from Royal Road. If you read it on Amazon, please report it[Congratulations! Emergency Quest Complete: [Save the vessel of the Flaming Serpent Physique from dying in their 12th level qi refining breakthrough.][Collect Your Rewards!][YES][NO]
+
+This is weaker than the average side quest notifications I’m used to, and when I mentally accept it in my system interface, the window disappears, fading out of existence in a pulsating and rigid manner.
+
+[Ding!][Rewards have been deposited into your storage!][x1 Emergency Lottery Die]
+
+When it fades, a single 30-sided yellow and black lottery die appears, but a faint ripple in space is noticeable when it does. It is almost like something shoved it through a layer of space with brute force into my mental storage.
+
+It is not as flawless as a normal side quest.
+
+The whole experience lasts almost a full second, and I’m left searching the depths of my mind for answers.
+
+‘What was that??’ ‘System! What just happened? Are you going to explain any of this to me?’ I call into the white void in my sea of consciousness, but after a few seconds pass, not even a glitching notification appears.
+
+I look through all of my system notifications again, and there are no signs of an emergency quest ever being there.
+
+Only silence remains in the vast emptiness of this valley for a few long minutes before the silhouette of Lan Xin appears walking toward me out from the crater of a spirit vein she just destroyed.
+
+Her aura is completely unrestrained.
+
+I can visibly see a pulsating energy veil around her, like a vibrating extra layer above the flickering flames on her skin. It is not only yellow and orange, but now with an invisible weight that makes the air around her ripple like a mirage.
+
+The flaming serpent is tightly wrapped around her neck and chest.
+
+Both of them have extremely serious expressions on their faces, but they are not within my spiritual senses range to tell how they really feel.
+
+I toss the small unique 30-sided die to the ground before she walks too close.
+
+[Ding!][Emergency Lottery Draw Successful!][x1 Verdant Steel Tower Shield] [2nd Tier Defensive Item]
+
+An enormous rectangular green shield instantly appears in my system storage without any manual rigid movements like the die itself did.
+
+Once a wave of fire hits my senses, I pull this new artifact from my storage, and it hits the ground in front of me with a loud thud.
+
+It’s almost as tall as I am and thicker than my arm is wide. I imprint it with a wisp of qi, and instantly a warm green pulse of energy flows through me, and all of the uncomfortable flames nearby are pushed away.
+
+[Ding!][Verdant Steel Tower Shield has bound to the Host!][Passive Ability: Creates a protective barrier when wielded, pushing away all harmful aura up to the strength of an initial stage foundation establishment cultivator indefinitely.][Active Ability: 5 Uses, Non-Rechargeable. Capable of blocking and reflecting back a full-force attack from a late-stage foundation establishment cultivator.]
+
+Even though the massive shield only covers my front, a heavy green aura hovers over my skin. I can instinctively feel that I’m protected from all sides, but I have no idea how. It is the highest-grade mechanical item I’ve ever seen before.
+
+Lan Xin takes a few more steps forward before she gets to the edge of my spiritual senses. I can start to feel her soul’s fluctuations again and read the bright change in her automatic system scan.
+
+Both she and her serpent have reached the 12th level of qi refinement, yet their auras are maxing out the passive function of this shield.
+
+I look over its top and stare her down.
+
+She doesn’t say a word for a few seconds, then subtly bows her head and retracts the dangerous flaming aura in the air.
+
+“Thank you… Maybe you were right. I rushed my breakthrough.”
+
+She walks closer again, now in a new set of pristine robes.
+
+Lan Xin pulls out six jade-white flags and presents them.
+
+“Your array flags, I’m returning them. I… will consider the other things you said too.”
+
+She gives off a mix of admiration, fear, confusion, and mostly embarrassment. Yet, deep down in her soul, that stirring sharpness that turns on all of my danger senses has become stronger. It is not targeting me, it is just present.
+
+I pull my shield into my storage and walk forward, grabbing the flags from her.
+
+“Well, I’m glad you didn’t die. That’s not all you owe me. You destroyed an entire perfect-grade vein too.”
+
+She opens her mouth to respond, but nothing comes out.
+
+I turn to look at the sky, toward Lingshi City.
+
+“You’ll have all the time in the world to pay me back later. Now, you need to put that arrogant smile and confident posture back into use. You don’t owe anyone at the wedding a thing, and need to make a good impression. You’re a 12th level qi refiner now. As far as I know, the only one in the entirety of the Azure Cloud Sect. Act like it. You have a reputation to uphold.”
+
+She lifts her head, and the timidity in her eyes fades. A churning sense of excitement sparks to life again in her soul. She straightens her back and puts on her perfect mask once again.
+
+A flying vessel is pulled from her storage ring, and she walks aboard.
+
+Even without letting out any of her qi, she has a presence to her now that gives off a faint, elusive aura. I can’t exactly perceive it, but I know I’ve felt it before around Foundation Establishment cultivators. These hidden stages of Qi Refinement are far more beneficial for a cultivator's vitality than any of the levels before.

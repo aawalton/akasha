@@ -1,0 +1,141 @@
+---
+id: 69e5e453-f3c3-5811-9cd2-49eedd0d8382
+page-type-slug: story-chapter-royal-road
+title: "Chapter 276: Challenge Arena"
+slug: 0310-chapter-276-challenge-arena
+partOf: dungeon-of-knowledge-complete
+position: 310
+ownLength: 2111
+unit: words
+ownProgress: 2111
+publishedAt: 2025-06-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2348123/chapter-276-challenge-arena"
+royalRoadId: "2348123"
+markedReadAt: "2026-06-29T20:21:48.044Z"
+---
+
+The battle raged across the plaza as Ali spent mana in intense study, a clash between the level ninety-eight Soul Monk who could sprint on air and punch with her soul, healing whenever she needed against a ferocious troll warrior, fearless in combat, sprouting bone axes from his body whenever Malika took to the air, or blades for slashing and stabbing at close range. With his phenomenal regeneration stacked against Malika’s healing, the two of them were able to continue fighting for far longer than Ali had imagined.
+
+So that’s what the book meant… Ali thought, observing Malika blocking a blade with a particular application of the defensive arts of the Nine Paths. All the while, her skills continued evaluating, sorting, storing, and connecting what she saw, experienced, and felt, as her body was moved to experience the fight firsthand.
+
+Suddenly, a surge of understanding blossomed in her mind, timed with the distinctive sound of her chime. Malika backed off. It came from her! A second smaller surge pulsed from the direction of the library entrance, like an echo of Malika’s breakthrough.
+
+Martial Insight has reached level 64.
+
+“You fight well,” Malika told the troll, bowing her head in respect for her opponent.
+
+“You fight almost as well as a troll,” he answered, beaming with the grin that hadn’t left his face for one instant for the entire duration of the match.
+
+“Ali, it works! I just got a level in Martial Artist,” Malika said.
+
+“I know,” Ali answered. “I just got a level in Martial Insight.” It seemed her Domain Tithe did not require an exact skill match. Both here, and in the library earlier with Ryn, the experience and traits tithed to her were applied to her closest matching skill. Martial Insight was her combat mastery, and Malika’s growth had fed that. Ali turned to peer at the shadows of the great archway with the missing stone doors that she still meant to replace and asked, “You too?”
+
+Sabri nodded from the shadows, clearly outlined by the mana that flowed within her. “I heard the match and came to watch; I hope that’s ok? I have an advancement to my Defensive Arts that helps me study combat by observing – and it just leveled up!”
+
+“I don’t mind,” Ali said, waving to invite her over. The sheer engagement and focus with which Sabri studied combat was hard to deny – she obviously lived for it. Besides, the entire purpose of her domain tithe seemed to be encouraging skill growth of masteries and knowledge skills.
+
+“Hey, Ali, I have an idea,” Malika said, glancing at Sabri to include her in the conversation. “Why don’t you make a challenge level?”
+
+“Oh!” Sabri exclaimed, her face lighting up immediately. “An arena!”
+
+“What’s that?” Ali asked, feeling decidedly out of the loop. Whatever it was, Malika was visibly excited about it, and now suddenly Sabri had caught the bug too.
+
+“As a dungeon, you have some unique advantages. Making empty space is not one of them,” Malika said, her eyes sparkling. “You mentioned wanting to make some practice rooms for people to train in, but you would be competing with the training rooms in the guild without offering anything that is uniquely yours.” Malika paused for a moment, studying the contented Bone Warrior standing at ease beside them. “How about making some monsters of various levels here in the plaza? Aren’t lower-level monsters very cheap for you now? Instruct them to spar with whoever comes down here to train. If they die, they can respawn.”
+
+“Would people want something like that?” Ali asked. “Won’t a non-lethal sparring match prevent them from leveling their class? Surely they would prefer to get full experience against a monster out there in the forest or something?”
+
+“I would use it,” Sabri said.
+
+“Yes, she’s a training maniac,” Malika said, grinning at Sabri. “She’d be using it all day.”
+
+Pot, kettle… Ali thought, but she kept it to herself and just enjoyed the obvious excitement on her friends’ faces.
+
+Malika continued, “Having a safe way of practicing skills against a wide variety of monsters is an enormous advantage. I would use it to test moves that I haven’t perfected yet. With your dungeon buff, people would level up their mastery skills while training – something that only happens rarely in the training room.”
+
+“It would be like the match Rezan made Malika, Hala, and Basir fight against your Forest Guardian,” Sabri added. “They all gained skill growth – and that was before the buff.”
+
+“I see,” Ali said, and suddenly she found her mind racing with ideas, but this time, instead of just writing them down, she decided to put them into practice immediately.
+
+She identified Sabri.
+
+Warrior – Human – level 33 (Soul)
+
+Sabri had clearly been working hard – no surprise – and had passed level thirty already, so Ali picked out a monster for her to face. The Ahn Khen girl didn’t know she was going to be the guinea pig, but Ali was certain she wouldn’t mind. Her Grimoire flared to life, and she summoned an Abyssal Stalker, setting it at level thirty-five. Then she immediately granted it respawn, watching the mana reservation drop to twenty-two as her domain shouldered a hefty percentage of the cost.
+
+Malika’s right, this is cheap.
+
+“How big is a typical arena?” Ali asked. She had seen martial arts tournaments but didn’t know the specific details.
+
+“About this big, a circle,” Malika said, pacing out an area on the ground.
+
+With barely any effort, Ali raised a circular platform of stone approximately the size Malika had indicated using Domain Mastery. By now, Sabri was hopping with restrained energy, presumably having deduced that a level thirty-five monster was not intended for Malika.
+
+“Defend the circle,” Ali commanded. “But do not kill anyone.” Her Abyssal Stalker lowered its thorax briefly and then leapt into the center of the ring.
+
+“There you go, Sabri,” Ali said, as her Stalker faded from view, managing somehow to acquire stealth even though they were watching it. Ali chuckled at the broad grin that broke out on Sabri’s face as she scrambled to equip her shield and sword and leapt into the ring.
+
+This time, Ali skipped her Study Trance, standing beside Malika and splitting her awareness with the demonic spider as they observed the match unfolding. It began with a massive Blood Shock Ambush delivered to Sabri’s back, but the tank had incredible resilience, recovering in an instant and raising her shield to block the next strike.
+
+“Defensive stance,” Malika observed, nodding her approval.
+
+Ali studied the battle carefully, but after a few moments, she said, “She’s going to lose this one, isn’t she?”
+
+“Yes,” Malika said, eyes narrowed as she studied the fight. “That stalker deals a lot of damage.”
+
+It was not a matter of skill; it was simply that Sabri’s class relied heavily on having a competent group to be effective. “If this is going to be an effective training tool, I probably need some healing, don’t I?” Ali asked.
+
+“Yes, that’s a fantastic idea, most people won’t have healing skills of their own,” Malika said. “Having healers available would allow the duels to go much longer, and they could train harder.”
+
+“And it would avoid accidents,” Ali added, manifesting her Grimoire into the air before her. She made it flare with light and mana, and in a remarkably short space of time, a soft yellow-white-scaled Acolyte of Azryet appeared before her; one of her favorite minions, and one that had lain unused in the pages of her Grimoire for far too long. She quickly made her kobold a wrist charm and a couple of mana potions to supplement her gear.
+
+“Oh, those guys are perfect,” Malika said.
+
+“Heal the people fighting in the ring,” Ali ordered, also attaching her kobold to the domain in this area. The pressure of her lower-level summons on her domain seemed almost insignificant now.
+
+“You know, you could offer some rewards for winning,” Malika said. “If someone defeats the monster in the ring, perhaps they can earn some gear or something. Can you make it so people can choose to get healing or not? Practice mode and a challenge mode?”
+
+“You know, I have a great idea for that,” Ali answered. She circled the edge of the ring, crafting electrum runes in the form of a Restoration Circle, and then imbued it with her domain mana. Immediately, the arena in which Sabri faced the demonic spider lit up with wisps of green restorative nature magic, pulsing softly and healing both combatants. “I gave it a Voluntary Trigger, so the person entering the ring can choose to have it on or off.”
+
+“That works,” Malika said, watching the fight intently. “If you could make a few level-one monsters, Vivian will be over the moon.”
+
+“For training the recruits without classes?” Ali asked. It was a great idea honestly, and it wasn’t particularly hard to do – she had spiders and slimes that would serve admirably, and she could probably even regress a kobold warrior back to level one and give it some old leather gear.
+
+“Exactly,” Malika said.
+
+“Before we do that, I have another safety feature,” Ali said. Still marveling at how much faster she could work her runic magic, she inscribed a locus near the doorway to the library and then, set slightly inside the restoration circle, she inscribed a triggered teleportation runic circle keyed to teleport anyone who dropped below half health to the doorway. She added the exclusion to make it ignore minions so it would only be people whisked out of risky fights; she didn’t want any misunderstandings caused by teleporting monsters into the recovery area.
+
+Then she spent the better part of an hour creating fighting rings with an array of monsters ranging from a level-one kobold warrior to the level eighty-one troll Bone Warrior, all with the orders to spar against any challenger. Each arena was protected by the twin Runic Circles: restoration and the teleportation failsafe. She summoned several acolytes and spread them about near the mid- to low-level arenas, and a blood shaman to monitor the highest-level arenas.
+
+“There,” Ali said. “What do you think?”
+
+“This is fantastic,” Malika exclaimed. “We just need somewhere for people to sit and watch the fights.”
+
+“Spectators?” Ali asked, raising her eyebrows.
+
+“Of course!” Malika grinned.
+
+“I can do that,” Ali said, a little surprised that Malika would care about spectating. On reflection, it made sense – people like Sabri could earn skill experience by watching important fights. And for people whose very way of life revolved around combat, watching was probably an essential cultural activity. She got to work, raising a few terraced stone benches near each ring, making mini-grandstand seats. Beside each set of stone benches, she planted a couple of Radiant Larches, quickly filling the entire space with light. By the time she was three-quarters done, her shrine reacted, updating to add light-affinity mana as an option. Now that’s handy.
+
+Throughout her entire construction process, Sabri had not faltered, fighting continuously, sustained by the continuous pulses of healing from the runic circle and the support acolytes, but finally, she broke off her match and hopped out of the ring. The Abyssal Stalker returned to the center to wait patiently for another challenger.
+
+Sabri was breathing heavily, but she was sporting an enormous grin. “I got two levels in Defensive Arts,” she exclaimed. “This is so awesome! Can you please keep it?”
+
+“Of course,” Ali said, and she knew she had at least one contender who would be down here every day. While her Martial Insight hadn’t gained any levels from Sabri’s fight, Ali had most definitely learned quite a few ways to use counters to block rogue-style speed slashes. With her sensitive perceptions, she had observed the steady, continuous trickle of experience filtering through her Domain Tithe.
+
+“Does it work for you too?” Malika asked, intuiting her train of thought.
+
+“Yes, I can see the tithe donating me small trickles of traited experience constantly,” Ali said, eyeing the array of new Arenas and wondering what it might be like if they were filled with regular contenders.
+
+“Can I tell everyone?” Sabri asked.
+
+“Sure,” Ali said, smiling at the infectious excitement bleeding off of the warrior. “I’ll probably post a quest note on the jobs board, or at least tell the Guildmaster about it in the next day or two.”
+
+“An empty arena would be sad indeed,” Malika said and then vaulted into the highest-level one to test her mettle against the troll Bone Warrior again.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

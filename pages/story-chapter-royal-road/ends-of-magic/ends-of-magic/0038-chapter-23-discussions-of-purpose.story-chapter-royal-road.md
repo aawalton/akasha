@@ -1,0 +1,227 @@
+---
+id: 44887b59-e097-59ca-b8e8-b9d7f8a88a07
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Discussions of Purpose"
+slug: 0038-chapter-23-discussions-of-purpose
+partOf: ends-of-magic
+position: 38
+ownLength: 3128
+unit: words
+ownProgress: 3128
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2690774/chapter-23-discussions-of-purpose"
+royalRoadId: "2690774"
+markedReadAt: "2026-06-29T20:08:29.215Z"
+---
+
+“Do you meditate often?” Sarya asked him. The light from the world above illuminated her gently, softening her sharp-edged style.
+
+Nathan exhaled slowly, enjoying the release of the tension that had been building since they’d set off towards Esebus. They’d succeeded, but it wasn’t until this moment that he’d really felt like he could stop feeling anxious about it. “I do. It helps keep me…” He trailed off, searching for words to describe all of the reasons he mediated. The pause stretched on too long. “It helps.”
+
+She looked away from him, eyes going up to study the world overhead. “It’s not a common practice among Questors. Our minds aren’t much like yours.”
+
+Nathan cocked his head at that. “You aren’t inhabiting the grey matter inside that skull? I suppose that makes sense, if destroying it doesn’t kill you. For me, meditation feels like it makes me the master of my own thoughts. I stop feeling like a passenger, like the situation dictates how I feel. I can discard distractions and decide how I want to feel instead of having that decision made for me.”
+
+Sarya seemed disturbed by that, though she still faced the sky. “You want to control how you feel? Because you disagree with emotional decisions?”
+
+He took his time before answering, thinking through the angles of the conversation. There were a few reasons why Sarya might want to learn more about him, and most of them were benign. She was helping get them in front of a decision-making body of Questors that could change how Davrar worked. She already agreed with his stated mission, but it made sense for her to help understand why he believed it and ensure he wasn’t secretly insane or going to fly off the handle and burn her by association. This was an interview, and one he needed to pass.
+
+He let the gap stretch before answering. “Not always. Not even usually. Intuition is important, and compassion is what keeps us human.” He grimaced. “I hate using ‘human’ to mean person. Lots of people aren’t human but quite definitely are people,” he gestured downwards to the container below them, where Khachi rested with the other Heirs. “I'd prefer to say that acting for others is what makes us people. If you don't value the feelings of others, then you forfeit something important. Something essential.”
+
+Nathan nodded his satisfaction at the statement before returning to Sarya’s original question. “I don’t hate emotional decisions. My empathy for others is what inspires me to do what I do.” He paused, remembering all the violence and death that had taken place today. “But I want - need - to be in control of my emotions in the moment, and not be distracted at important times. We ran into a group of indentured on the way into Esebus. It was easy to feel bad for them. I wanted to stop and help them because they were being forced to delve into dungeons. We found one of the graveyards. A lot of them die.”
+
+His gaze went distant, remembering the argument he’d had with Khachi. “But we didn’t do anything for them. The mission was to come here and kill the Questors. We needed to treat the cause of the disease, not spend our time on the symptoms. We left those people to fight and probably to die because this was more important.” He looked over to Sarya, and after a moment, she met his eyes. “My compassion guides me. But it doesn’t control me. It guides the end goals, but not the methods I use to get there.”
+
+She was observing him carefully and asked a question as soon as he was done talking. “Is that why you want to stop the Endings? Because of the harm they cause to people?”
+
+He nodded upwards at the continents arrayed overhead. “This world isn’t set up to ensure the best possible lives for everybody who lives here. It could be, but it isn’t. That offends me.”
+
+Sarya laughed quietly at that. It wasn't mean-spirited, instead holding an edge of bleakness. “That offense drives you beyond reason. You imagine the ways it could be better. How else would you remake Davrar, beyond removing the Endings?”
+
+Nathan blew air out of his lips in a long exhalation, unsure where to even start. “With a blank check? It’d be a utopia. There are probably limits imposed by resource availability. But I'd love for everybody to live forever. Without physical discomfort if they didn’t want it, and the power to do whatever they wanted. With a smart system like Davrar, it’s nothing you couldn’t achieve with some thought.”
+
+Sarya looked off into the distance and hummed noncommittally. “Infinite life requires infinite resources."
+
+Nathan waved that objection away. "There are a hundred billion stars in our galaxy and a trillion more galaxies besides, and Davrar can create antimatter. Growth can't be infinite, but it could happen for long enough that it would be hard to tell the difference."
+
+Sarya spoke again, her objection this time less veiled. "And if such places already existed and did not satisfy their occupants? If Davrar was an attempt to escape such realms, and discover new ways for people to live?”
+
+Nathan didn't take long to reply. “Then it’s a failure. You and the other Questors have your fun at the expense of all of the mortals. Just the fact that there are mortals is a failing.”
+
+The Questor didn’t turn and look at him, and Nathan got the sense they were venturing into well-trodden ground. “Then death is an evil?”
+
+Nathan cocked his head. “Of course it is. How is that a question? So much of what every mortal does is fight against death. We – I - fear nonexistence. My life would be better if I weren’t anxious about it all the time.” He could feel himself getting heated, the serenity of his recent meditation leaving him as the topic got him agitated. "Thus, meditation."
+
+Sarya looked back at him, and he couldn’t read her face. “You do not strain for immortality just for yourself, or even for your friends. But for all?”
+
+“I want to treat people the way they’d like to be treated, and I don’t think dying is part of that.” He glanced towards Sarya, brows furrowed in confusion. “I don’t understand you. You look at us, at the mortals of Davrar. You like us; you help us. But you don’t feel bad that one day we’ll die when you’ll live on forever.” He couldn’t help but let some bitterness creep into his voice.
+
+The Questor gestured helplessly. “It is the truth of Davrar, and not to be changed by any council. Even Davrar has its limits, and that one was built into its very founding. The mortals are the medium upon which the purpose of Davrar is built. But I care more for the mortals than most Questors.”
+
+Easy thing to say when you have guaranteed immortality.
+
+Nathan grunted noncommittally in response and looked away, finding himself irritated by Sarya’s attitude. The most annoying part was that what she said was probably true. She did seem to treat the mortals better than any other Questor he knew of, and genuinely was taking the time to get to know them before sending them into the meat grinder. Yelling about her inherent condescension and her privilege would only hurt his relationship with their most important ally.
+
+Sarya interrupted his train of thought gently. “We should speak more of what you intend to say to the conclave. Talk of utopia will receive a vicious response.” Now it was her turn to sound a bit bitter.
+
+Nathan got the message. Utopia was off the table, though he didn't regret asking about it. “You’ve hinted before that you tried to change the rules of Davrar to be better, to be kinder. What happened? It sounds relevant.”
+
+Sarya waved her hand noncommittally, not looking eager to talk about it. “We should speak of it, and we will give you more if the conclave is truly assembled. But it is a topic with an eon of context. Davrar was not always as it is now. It was once more akin to a research experiment in different societal structures and their response to stressors. We had dispensation to create true sapients instead of using smart systems and control them in many ways that are generally forbidden. The Distal Expansion prioritized nothing above knowledge, and evidence of new societies was the most prized knowledge of all.”
+
+She grimaced. “Over time, I began to suspect that holding power over other people drove my fellows away from scholarly pursuits. Some enjoyed causing pain, and…” she shook her head. “I don’t give verified truth; it happened over ten thousand arguments, and I do not do them justice. But when the hordes of the Distal Expansion arrived, they sought entertainment, not knowledge. We sought to change Davrar to hold to its meaning and not become merely a playground of the transcended. That our allowances did not become excuses for indulgence.”
+
+The Questor shrugged like it wasn’t a big deal, though her shoulders seemed to struggle against the weight. “We failed in every way we tried. Those who arrived later enjoy the spontaneity of mortals. The truth and depth of their suffering. Now we try and limit the damage. Not that there is any cohesion. Many of the original participants of Davrar have retreated from the grander games of the Questors.”
+
+He’d heard bits and pieces of this before, but Nathan was glad he was finally getting some of the broader context that defined Davrar and the problems he wanted to solve. It still all felt a bit fragile, as if he was missing context on every level. “What is the Distal Expansion like?”
+
+“An irrelevant place of stasis,” she responded quickly and bluntly. “It used to prioritize knowledge, learning as a way to distinguish itself from the old core. But that time passed. Now it finds itself a copy of the old. It stays static and collects votes of contentment. All work is to ensure that there is no change from the status quo. They will not intervene to force Davrar’s rules to change. Not anymore.”
+
+“But they could.”
+
+The Questor frowned at him in the way one frowns at a child who is convinced of something idiotic because they don’t understand the rules of the broader world. “Do not seek that as a solution. It is not.”
+
+Nathan raised his hands in surrender. “Alright – just trying to see if there were any backup plans in case the Conclave doesn’t work out.”
+
+She let loose a heavy sigh. “By Edes, sorry for my caustic words. This is a topic of anger for me. We could be so much better, but we are not. You are learning the truths that have forged my cynicism over the ages." She faced him directly. "If the conclave fails, then you should engage with the game of Questors. It is possible to change the standards of action, even if slowly. Ushia, Garna, Brox, and I try to punish the worst abuses of Questors. For the last few Endings, that has left us dueling with Badud’s grid.” She smirked and rapped the metal of the box lightly. “But now that balance has been turned, and it is time to involve ourselves with the broader game again.”
+
+“Why do you do it?” Nathan asked, being intentionally vague.
+
+Sarya twisted her lips in response to the question. “In Olilta’s name, I would say for honor, to care for mortals. To respect the original purpose of Davrar. But after this time, it is simply my mission. I chose my side, and now it is what I do, regardless of the original reason. I sometimes believe that it is the same for many of the older Questors. Our history is so deep that it has worn a groove that is difficult to escape.”
+
+“Well, I’m glad you’re still able to see what the original goal was,” Nathan replied, making an effort to be kind. “That you’re still in this to prevent abuse, and not just because you’ve made enemies that you want to grind into the mud.”
+
+She grinned back at him, teeth flashing in the diffuse light. “That carries some weight, too. The fall of Esebus is a golden light in my mind. Next, I would see the Aleph Grid’s reputation shattered to stardust.”
+
+“The Aleph grid?” Nathan asked.
+
+“As the Ashen Accord is to us, the Aleph grid is to Badud and his allies,” Sarya replied with an idle wave of her hand. “They play the game of Questors and entice new and unaffiliated Questors to their cause with the pleasures they hold.” Her tone was caustic on the word ‘pleasures’, leaving little doubt that it encompassed many things she found detestable.
+
+“Ah,” Nathan replied dryly. “Are they the target of our third deed?”
+
+Sarya paused, then dipped her head in a shallow nod. “Perhaps. It would not be a challenge for you alone. Four Questors is a challenge of one tier; hundreds is another. I am angling for a grand battle between grids." She met his eyes. "That you must dominate.”
+
+Nathan pressed his lips together, intimidated. “How? Just my aura alone is enough to turn that kind of battle?” He thought about it for a second. “I suppose it is.”
+
+“Indeed," she agreed. "It is a potent and novel power, and the counters have not been developed yet. In time, the mage-Questors will find insights to protect against antimagic.”
+
+“Stella already has one,” Nathan said absently, then wished he could take the words back. He didn’t think it was impossible that Sarya would treat knowledge of his weaknesses as a bargaining chip, especially after he demonstrated his power in an open engagement, and the value of it skyrocketed. Then he realized another unhappy outcome. “Badud has already experienced it twice, and if he knows the Aleph grid, and they know there’s this battle coming, they’ll try to figure it out beforehand.”
+
+Sarya raised her eyebrows at him. “Did you expect any other response to your power?”
+
+Nathan thought about that for a moment. “That suggests I should take Veilpiercer, to deepen my connection to wizardry. Make it harder to shut down my antimagic with a single skill.”
+
+“What are your options? We haven't spoken of them.” Sarya asked lightly, and Nathan realized he hadn’t described them while the other Heirs were talking. He hesitated before sharing, but decided that it was worth the downsides. Getting her advice was useful enough to offset the issues.
+
+After he was done, she had a firm answer for him. “Death of Legends. Such classes allow you to challenge even somebody who has set their build against you. It is a hidden power to surprise any that work to counter your antimagic. And..." she trailed off, face set in a glower as if struggling against something. “You will need it in the Conclave.”
+
+Nathan rolled his eyes at that cryptic hint, but nodded at her advice. He’d already been leaning towards Death of Legends before this; now he was just more certain. “Alright. I’ll wait a bit, but probably do that. Why don’t more people have two classes?”
+
+“Because the classes are orthogonal,” Sarya replied with a shrug. “It is a matter of much discussion, how to achieve two combat classes. Most early Questors attempted two classes until they succeeded, though Davrar exacts a punishing effort for it, and rarely is the second class useful in many situations.” She pointed at him. “Your classes are closer than most I’ve heard of, across my time on Davrar. Both focus on combat, but at angles. One is an open brawler class with a focus on countering magic, the other is a killer in the shadows that has developed to focus more on death in any circumstance.”
+
+She turned that finger on herself. “My second class is a messenger class, built to travel quickly and stealthily and reach my destination unhindered. But many of the skills only work if I am unknown to enemies. It complements my thief class, but only in limited ways.”
+
+“So - I’m special?” Nathan asked with a light smile.
+
+“Loved by Davrar,” Sarya said with a snort. "It's a joke, but a real one. I have known it to happen to mortals before. Those who charge into risk again and again for their principles. It was written into the founding of Davrar, to reward great anchors of civilization with true power.”
+
+“Great anchors?” Nathan asked, feeling like he was continually asking the Questor for definitions. But she hadn’t gotten tired of him doing so yet.
+
+“The great people, who define the change of eras,” she replied casually. “Don’t place too much calculation on it. It is but a single prompt to reward those who change the times, to see if they will continue doing so. We sought to determine if it was singular people who caused great changes, or underlying pressures. Nothing but a reminder of the early days of our study, but it explains some of your uniqueness. It will not protect you from death, merely see you benefit more from Davrar’s gifts than others.”
+
+Nathan hummed a bit, wondering if he should tell the Heirs, or even let this "great anchor" thing guide his actions at all. After a bit of thought, he decided against it. Sarya hadn’t told him anything definite, and also didn’t seem to think it was a big deal. Furthermore, it didn’t really change anything. He’d taken risks, and would continue to do so. But Davrar wouldn’t protect him from death, merely give him the rewards that came from overcoming the challenges he undertook.
+
+He let the conversation lapse and turned his gaze upwards to the world above. He’d gotten quite a lot to think about from Sarya, and she seemed willing to give him time for that thought.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 729
+
+Regenerative Focus: 7390/7390
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 7

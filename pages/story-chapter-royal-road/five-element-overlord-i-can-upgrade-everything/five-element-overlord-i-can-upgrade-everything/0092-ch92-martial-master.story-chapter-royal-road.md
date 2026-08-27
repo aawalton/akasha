@@ -1,0 +1,131 @@
+---
+id: e683079a-f474-5103-911b-2d3f336322ba
+page-type-slug: story-chapter-royal-road
+title: "Ch92 Martial Master"
+slug: 0092-ch92-martial-master
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 92
+ownLength: 1702
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3646143/ch92-martial-master"
+royalRoadId: "3646143"
+---
+
+Every detail from the Martial Path booklet has been ingrained in my mind with perfect clarity.
+
+Having read its pages while activating an enlightenment talisman, it feels as though I’ve read and memorized this book every day for years.
+
+The root sitting in my grasp feels strange to the touch. All of my instincts tell me to put it down, and to not ingest it by any means.
+
+These are the built up poisons and impurities that are normally found in a Martial Root. The small brown pills are made in batches of hundreds at a time, and usually a single root is used as the base ingredient for those elixirs.
+
+There are many auxiliary ingredients too.
+
+The tea recipe is the only one that I focus on at the moment. The only ingredient is the root itself, but even this has many detailed notes about how much of a single root a practitioner should drink at one time. The impurities still bleed through into other forms of consumption.
+
+I tap the bronze upgrade card in my hand to the dried brown root.
+
+In a flash of light, all of my danger instincts completely shift to ones of desire, like there is now a delicacy in my grasp.
+
+The root grows slightly more plump, and the dark brown coloring lightens to a pale tan. Three golden vine patterns slowly manifest and wrap around the base of the root, and a potent wave of vibrations that feel just like my physique ripple out at a steady rate.
+
+I pull out a perfect grade dagger from my storage, and begin slicing it up into small coin sized, disk-shaped cross sections. The center of the root is white and even more potent with the vibrating invisible extract.
+
+Each slice feels as tempting as an entire perfect grade martial root pill, and there are over 70 small slices. I pull them all into my storage one by one and pull out the inferior grade iron cauldron I brought with me along with a soothing fire talisman and a glass jug of purified water.
+
+In another flash of white light, the cauldron turns from nothing more than a sturdy iron bowl used by some mortals to an incredibly qi saturated dark black cauldron almost ten times as heavy. I place the soothing fire talisman beneath it and activate it to begin heating the metal.
+
+It takes a few minutes, but the black iron does become hot.
+
+All of the elements coming up from the array below me are perfectly balanced in this center point, allowing the water I pour into this hot iron cauldron to come to a boil in seconds.
+
+I pull away the soothing fire talisman into my storage, watch the bubbling water slightly cool, then pour the chopped martial root in.
+
+At first nothing happens. It just appears as though slices of this root are sitting in still clear water, not reacting.
+
+I follow the booklet’s instructions perfectly, stirring the mixture, placing the talisman beneath the bowl again every few minutes to bring it to a low boil, then to stir and allow for the water to rest and cool back down to just a warmer temperature.
+
+This process is repeated over and over again, and slowly, I watch as the cross sections of roots allow their inner extract to bleed out.
+
+I can feel it happening, like an invisible resin is seeping out. There is a visible reaction too. Pure white coloring of the inner root drips out, and the golden patterns carrying heavenly aura dissolve and stay tethered to the liquid. It happens slowly at first, but all within a few seconds by the 9th time I’ve reheated the bowl, something clicks.
+
+The still translucent water shifts to a milky opaque white and golden hue, the vibrations coming off of it shift enough to make it feel like an entire mid stage martial elite entity is standing in this hidden realm with me.
+
+I pick the hot bowl up and drink this tea while it’s still almost boiling. The booklet states that there is a small window in which this Martial Tea can be ingested before its potent effects begin to lessen, and I do not plan on missing it.
+
+A hot rush flows through me as I close my eyes, ignore the pain, and gulp down every drop. Then, begin the movements seared into my psyche.
+
+The memory of trying to perform these in the stone valley stronghold resurface. The mental and physical strain attempting to assimilate just 4 pills in a single day was far too intense and unnatural to withstand.
+
+Now, I feel that same tension coursing through my body, straining the exact same weak points, this time with far more potent and dangerous vibrations.
+
+However, there is a steady invisible rhythm emanating from the cultivation array beneath my feet. It has a calming effect on my physique, allowing the vibrations to tether to what is already here much faster. I don’t instantly feel the unstable strain, instead my physique feels more malleable and adaptable thanks to this array.
+
+My souls still bend and oscillate in an uncomfortable manner.
+
+I feel the silky smooth metaphysical misty ball try to separate and move into the weak points in my physique. Wherever there is extra tension, or overstrained portions of denser extract trying to assimilate, my souls try to stretch apart from the whole to support it like an anchor.
+
+For a moment in time, I even feel the subtle separation of the soul from my past life, and the one of the original body of Li Hao.
+
+The sensation of horrific cracking and a loud ringing noise in my mind forces me to halt these movements, and start cycling my Jade Purity Soul Scripture on the spot.
+
+This is nothing at all like the first initial and mid stages of this physique, they shifted into place without much effort at all.
+
+It takes over twenty minutes for my souls to settle down into a calm mist, enabling me to start the Martial movements again. The golden heavy aura has faded, but the extract from the tea is still potent and flowing through my body, attempting to merge with my physique.
+
+I’m able to carry out the movements about three times before the tension becomes too strong, and my souls instinctively try to fracture and hold my physique together again.
+
+This is exactly what I’ve witnessed happen with every blood demon I fight. Their souls tether to their physiques, and it allows them to become far stronger.
+
+I could do the same, and reach this next stage of the Martial Physique faster and more easily… However, then I would also obtain the same exact weakness that these demonic cultivators have.
+
+Instead I stop my movements and cycle my Jade Purity Soul Scripture again to settle my souls.
+
+Once I stand up again, I’m able to practice the movements five whole times through.
+
+Then, by the next trial, nine times.
+
+Eventually, over twenty full runs through of the transitional movements between the Martial Elite and Martial Master Physique can be executed without my souls destabilizing.
+
+An entire day passes by.
+
+I’m in such a focused and tranquil state that I would not have noticed this passage of time if a new check-in notification for upgrade cards did not appear in the back of my mind.
+
+When I halt my movements to collect them, I also pull out my perfect grade cauldron, and everything else I need to make another batch of tea.
+
+All of the extract has been absorbed, amounting to the equivalent of over 70 perfect grade martial root pills.
+
+A positive side effect is that my souls have become far more robust in the process, handling the strain of my physique without needing to merge, and it has resulted in my spiritual senses expanding to about 40 meters.
+
+–
+
+I spend 2 more days inside my hidden realm repeating the same process.
+
+Two more batches of golden and white vibrating tea are perfectly concocted, and I drink them at the optimal temperature each time.
+
+I do not sleep, eat, or even check the outside world at all.
+
+The only thing I’m concentrated on is my transitional Martial Movements, and stabilizing my souls in between.
+
+After 72 hours in total, a burst of invisible aura ripples throughout this five element cultivation array. It is strong enough to even make Little Red, calmly cultivating at the edge of the fire platform, grunt and open his eyes.
+
+[Acquired Martial Master Physique][Late Stage - Mortal Grade]
+
+My attention is focused on this new shimmering text in my mental status, and the immense strength I feel coursing through me.
+
+The transition from no physique at all to a Martial Warrior added half a level of strength. The jump next to a Martial Elite added an additional level. Now, I feel two full levels of strength added to my being.
+
+There is no additional physical energy in my body, I still only have the raw qi and dantian size of a 5th level qi refiner, but I can feel the depth of my strength touching that of a mid to late stage 8th level qi refiner.
+
+My muscles, tendons, even gaze feels heavier and exerting more force on existence around me.
+
+The rhythmic vibrations pouring out of the floor below me resonate with my physique on a far deeper level, but I still do not quite understand how or why… It is just an instinctual sensation that I can tap into.
+
+One thing I am sure of is the absurd mental and physical fatigue I’m experiencing right now.
+
+There is far more strength coursing through me, but I’m also running on fumes of no sleep for three days straight.
+
+At my current level of cultivation, food is much easier to go without. Enough raw qi keeps me satiated, but my body still craves sleep to fully recover.
+
+I step out of my hidden realm, and walk out of my bedroom toward my bathhouse courtyard, consume a perfect grade healing elixir, soak in a hot bath, and fall into deep sleep in the middle of the day.

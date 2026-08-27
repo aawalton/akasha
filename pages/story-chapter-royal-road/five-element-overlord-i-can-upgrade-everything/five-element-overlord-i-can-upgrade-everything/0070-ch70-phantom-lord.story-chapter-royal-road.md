@@ -1,0 +1,149 @@
+---
+id: 952cd554-0d9f-5a95-b3bf-88c27408f6ac
+page-type-slug: story-chapter-royal-road
+title: "Ch70 Phantom Lord"
+slug: 0070-ch70-phantom-lord
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 70
+ownLength: 1832
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3498763/ch70-phantom-lord"
+royalRoadId: "3498763"
+---
+
+I watch all of the remaining blood demons in the room charge toward Wang Ming and Jiang Ran.
+
+The fiery serpent that fought alongside Lan Xin now fiercely protects her while she lies bleeding from the eyes, mouth, nose, and ears on the cave floor. Her flaming innate physique flickers as she coughs and struggles to get up.
+
+I’m consumed by the notifications still ringing in my inner ear. I pull out the small white sword artifact that has appeared in my storage, and it instantly sinks into the back of my hand to create a glowing white tattoo-like mark.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Anchored Qi Sword Slaughter Formation][2nd Tier Offensive Formation]
+
+[Ding!][Anchored Qi Sword Slaughter Formation has bound to the Host!][Passive Ability: While activated, spiritual senses of the entire formation are transmitted, and a protective barrier surrounds the host and all soul bound entities.][Active Ability: 1 Use, Rechargeable (Cost-42,000 Spirit Stones). This Formation can be activated to create a single 50 meter diameter dome containing 12 Perfect Grade Tier 1 Qi Swords and 3 Low Grade Tier 2 Qi Swords. It will relentlessly attack all life within for 30 seconds.]
+
+The Illusory Demon in front of me disappears, and I mentally activate this artifact as it’s my last resort.
+
+A pulse of white hot qi radiates outward, and a film of energy surrounds me. A second thin veil of white light covers Little Red, who for the first time in weeks is attentive and watching the world around him.
+
+Twelve enormous semi-translucent white energy swords are summoned into existence from the pulse of qi, circling around me about 10 meters away.
+
+Above them, three massive opaque jade white blades materialize one by one.
+
+My spiritual senses are augmented, almost doubling to feel and see everything within 50 meters of me with perfect clarity.
+
+The Black Iron, Demonic Blood Energy, and clashing of acquired physiques are all negated. I can see everything.
+
+A mental 30 second countdown begins, and the fifteen white blades all spin and turn on their own, moving out of formation in a seemingly random but graceful pattern.
+
+Explosions fill the atmosphere, and I watch the rock ground all around me be torn bare.
+
+The high levels of energy make Blood Demons on the far side of the cave turn around and toward me.
+
+The three low grade tier two swords collide with the Phantom Lord less than 30 meters away.
+
+My awe and building confidence of this formation materializing around me is quickly broken. It is because the first low grade tier 2 blade that makes contact slices right through the man’s body, and he disappears like an illusion made of mist.
+
+Quickly, my senses shift to the side as I see him appear unharmed across the room.
+
+Another low grade tier 2 sword slices through him, and this one dissipates too.
+
+My Illusory Demon instincts stir, and I truly cannot tell where he is or what is real or fake.
+
+The third low grade Tier 2 sword swings down at seemingly nothing.
+
+Yet, an explosion of grey and white mist erupts into the air.
+
+Loud laughter echoes out, as the true body of this foundation establishment illusory demon appears. Two silver daggers in his hands stop the incoming qi sword.
+
+“I didn’t sense it on you before because of that robe, but you’re an illusory demon too! Nothing more than a 4th level qi refiner, but with a soul far more interesting than most late stage qi refiners…”
+
+Dozens of late stage Blood Demons enter my formation as his words hit my ears.
+
+The twelve perfect grade blades ruthlessly swing down on them from above. It only takes two to three slashes to completely annihilate a demon, and they swing multiple times per second.
+
+Fury filled demonic roars fill the cave as the floor is soaked with blood.
+
+All of the formations carved into stone have already been fractured and obliterated, making fewer and fewer Blood Demons capable of reforming near the back of the room outside my formation.
+
+I hold attack talismans of my own, but know they’ll be useless as I watch multiple low grade tier 2 qi swords come crashing down on the Phantom Lord at once.
+
+He blocks two and allows the third to strike him.
+
+Unlike the misty body doubles he created before, I actually watch this blade tear through his flesh, but it is not a deadly blow.
+
+There is hot white and grey mist filling his skin, flesh, and meridians.
+
+In this enhanced state of perception, I can vaguely tell what they are… many fractured and stretched cultivators’ souls, all refined and tethered directly to his late stage Illusory Demon’s physique.
+
+The Phantom Lord is still pushed backward, and the three foundation strength swords keep swinging.
+
+Despite being 151 years old… the only signs of age show in his eyes and pale face.
+
+The rest of his body looks no older than a middle aged man, and his movements are far too fast for my true senses to track.
+
+He blocks almost every single sword strike that comes his way, creating crater after crater, tearing open the bottom of this cave, exposing the center of this Black Iron Vein’s core. Yet also causing portions of the walls and ceiling to fall, closing off many of the exits in this room.
+
+His laughter rises as he’s hit over and over.
+
+“You are only slicing down the souls of your own squad captains! Do you know how many Azure Cloud Sect cultivators I’ve killed to make it this far? A low grade 2nd Tier artifact cannot stop an old demon like me!”
+
+He stops backtracking and instead comes running straight toward me.
+
+The timer in this array keeps counting down past 20 seconds, then 15, and eventually 10 remaining.
+
+The Phantom Lord is covered in deep white and red wounds.
+
+The craters and pits are filled with stagnant blood energy of the 40 fallen demons.
+
+However, he keeps moving forward.
+
+I try sending out earth and water bullets, but they’re harmless and slow compared to the blades that strike down on this demon over and over.
+
+“Do you think killing my army of Blood Demons can stop me? You’ve only made me stronger! Without having to separate my soul to control them, I can focus only on killing you!”
+
+He stops less than 5 meters away. His gaze stays locked on me even as he blocks most of the swords crashing down on him.
+
+Each strike is equivalent in strength to the full force blow of my Azure Lightning Attack Talisman.
+
+I’m protected from the shockwaves, but everyone else in this room is being assaulted by the constant collisions of foundation establishment strength killing intent.
+
+It even travels through the tunnels, forcing hundreds of illusory demons to pass out from the pressure.
+
+Every single Azure Cloud Sect squad that has survived this far halts in place, not daring to move toward the center of the mountain any further.
+
+Not only the three low grade tier 2 swords attack this demon now, but the twelve perfect grade tier 1 swords do too. Gashes open up all over his body, but grey and white illusory demonic soul energy floods in to heal the wounds faster than they form.
+
+As the countdown on this artifact falls below 5 seconds, then 3, then 1; the true strength divide between a qi refiner and a foundation establishment cultivator sinks in.
+
+Even the 10th level qi refining woman with an innate spirit grade physique was tossed around like trash.
+
+When the formation counter stops, the sword mark on my hand flickers and disappears, the miniature white jade sword artifact falls to the cave floor powerless with a light clink. All of the blades attacking this demon fade away to mist…
+
+The monstrous aura of a foundation establishment demon hits my true unprotected senses for the first time, shattering my black defensive talisman instantly, forcing the breath from my lungs, straining my meridians, and making me bleed from every orifice instantly.
+
+“That’s it? That’s all the Azure Cloud Sect can do? Once they report another failure, maybe they’ll actually send me someone strong to fight! You and this flaming girl will not be enough to push me over the edge to a perfected Illusory Demon physique. You’re nothing but trash, like all the others!”
+
+My head feels like it’s being squeezed by the pressure in the air alone, and my vision starts to blur.
+
+The Phantom Lord takes a slow step forward, but a small red toad jumps off my shoulder and stands between me and this demon.
+
+Little Red lets out a low croak and erupts into a burst of jet black flames.
+
+I can feel their overwhelming intensity, but for some reason the heat does not burn me…
+
+A horrific cracking sensation shakes my very being as it resonates through the thin soul bond between me and this flaming toad.
+
+It’s hard to comprehend what he’s doing, but I can vaguely feel the roaring black flames deep within him being torn apart and sacrificed. The Spirit Grade Acquired Black Lotus Flame Physique on his status rapidly shifts, falling from the perfected stage down to the late stage, then mid stage, and all the way down to the initial stage.
+
+Little Red’s mouth opens up, and a small flaming Black Lotus bursts outward.
+
+In my vision it does not appear to be moving fast, but the vibrations that pour off of it are so horrifying that it makes the qi in my meridians stop flowing. This is far stronger than the tiny rice sized fragment that little red once absorbed to hatch. It feels like ancient eyes of death are staring down at this mountain from directions I cannot comprehend. It does not only affect me, every living being in this mountain’s center is frozen in utter fear, unable to function for almost an entire second.
+
+The small black lotus collides with this Illusory Demon’s chest and sears a perfect hole right through it. His dantian and heart are incinerated without a trace. The nurtured black lotus flame fragment does not stop moving upward after searing through this demon. It melts through the ceiling of this cavern too, carving out a direct line of sight to the blue sky above before it explodes into a fiery chaotic blast.
+
+The Illusory Demon’s eyes widen in terror as black fire surrounds the wound, not allowing the white and grey wisps of soul energy to flow in and heal it. Without a heart, or a dantian to hold onto his fleeting vitality, the two daggers in his hands clang on the hard ground.
+
+A lifeless thud follows, and a gust of white and grey mist gushes out from his wound, allowing a flood of fractured and twisted souls to escape back into the atmosphere.
+
+There is a completed side quest notification ringing in my mind while I struggle to stay conscious.

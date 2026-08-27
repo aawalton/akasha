@@ -1,0 +1,197 @@
+---
+id: ba64c4d8-5038-5aec-bd71-1e1feee2d377
+page-type-slug: story-chapter-royal-road
+title: "39 - The Floating Knives' Challenge"
+slug: 0039-39-the-floating-knives-challenge
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 39
+ownLength: 1627
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3507550/39-the-floating-knives-challenge"
+royalRoadId: "3507550"
+---
+
+“Camille! Camille, wake up!” Reina cried, tears in her eyes as she tried shaking the ghost awake. Of course, it didn’t work. Her hand just phased right through every time.
+
+“Stop doing that,” I said. “She’ll pass out again if she sees your hand through her.”
+
+Reina backed off. “No… you’re a monster, Allene! You killed her!”
+
+I looked at the ghost’s chest, which didn’t rise or sink. Either she really was dead, or she never needed to breathe in the first place.
+
+“I guess that’s our cue to explore the manor,” I said, standing.
+
+Before I could take a step, the ghost shot awake, shrieking.
+
+“Camille!” Reina called, standing next to her. “Hey, are you okay?”
+
+“What…? What happened?”
+
+She looked around. When she saw me, she immediately grabbed her shoulder, which my hand had previously gone through.
+
+I shook my head, walking up to her. “Look, I don’t mean to judge, but what kind of ghost passes out whenever something passes through them?”
+
+Camille stood from her seat, backing away before bowing. “I deeply apologize,” she said in the same monotonous voice as before. “It is a weakness that I was simply born with. With that said, I hope the two of you enjoyed your meal while I was unconscious.”
+
+“You weren’t out for that long,” I said. “But anyway, we’re not here to eat. Reina and I are off to explore the manor and find the lever now.”
+
+We waved the ghost goodbye as we went to head out the dining room.
+
+“Wait,” Camille said, walking up to us. “Before that, I’d like to take the time to thank the two of you.”
+
+We turned to her.
+
+“Thank us?” Reina said.
+
+The ghost nodded. “The other visitors never considered letting me eat with them. You two are the first. Though it may be a small gesture, I truly do appreciate it.” She bowed again. “If the two of you don’t mind, please allow me to accompany you through this manor. Although my core duty is to greet the guests, I would like to repay your kindness with a tour.”
+
+Reina nodded, smiling. “That would be great! Can she come with us, Allene?”
+
+A tour, huh? That would be pretty handy. Maybe there would be some secret rooms only she knew about.
+
+“Sure, why not? She knows this place better than us anyway.”
+
+“Wonderful,” Camille said. “Then please follow me.”
+
+***
+
+Our first stop was the kitchen room, which was directly connected to the dining room we were in. I wasn’t sure what to expect after she opened the door, but this was not it.
+
+“What am I even looking at?” I said.
+
+Floating pans stirred soup by themselves. Knives chopped ingredients without anybody holding them. Brooms swept from corner to corner, and ovens lit up and pulled open by themselves.
+
+You get the idea. The entire kitchen was operating by itself.
+
+When we stepped in, one of the knives looked up and shot straight toward us.
+
+“What the—?!” I screamed, ducking.
+
+But it stopped just in front of us. It turned to Camille, shaking side to side. She nodded along.
+
+“It wants to play a game with you two,” she said, turning to us.
+
+“A game?” Reina asked. “Wait, how do you understand what it’s saying?”
+
+Before she could reply, Reina nodded enthusiastically. “A game? I’d love to! What are we going to do?”
+
+Camille pointed at the cutting boards. “You’ll be chopping a variety of vegetables. The victor is decided on two factors: how quickly you finish chopping, and how precise each cut is.”
+
+I took a step back. “I’m not doing this. It’s a waste of ti—”
+
+“Let’s go!” Reina said, grabbing my arm and bringing me over.
+
+“Wait, Reina! We’re here for the lever!”
+
+Since she wouldn't let go, I forcibly stopped us. She was usually much stronger than me, but I guess all those stats into Strength really helped me out this time.
+
+The floating knife spoke with Camille again. Maybe they spoke on a different wavelength or something, because neither Reina nor I could hear anything coming out of the knife. Somehow, Camille understood it perfectly fine. I guess this was like how Talon and Tuna sounded the first time we met them, but at least Tuna meowed.
+
+[TROPE INITIATED: ANIMATED INANIMATE OBJECTS]
+
+Completion criteria: Participate in the knife game. Ranking affects rewards.
+
+Before I knew it, Camille pushed us deep inside the kitchen, lining up Reina and me beside the counter. Several knives floated on both of our sides. We each had a cutting board in front of us and an array of vegetables, including tomatoes, onions, carrots, bell peppers, and so on.
+
+“I know I say this often, but I really do mean it each time,” I began. “How the hell did we even end up here?”
+
+Reina laughed, patting me on the head. “This will be good training, won’t it?”
+
+“I like your positivity, but in what world is this considered training? We’re not training to be chefs.”
+
+“If you want to be proficient with a sword, you have to start small,” Reina said, picking up her knife. “Master the art of cutting vegetables, and you’ll be great with the sword in no time! At least, that’s what my father taught me growing up.”
+
+“Did he really?”
+
+“Nope!”
+
+Camille stood in front of the counter, her hand held up high. I turned to my side, looking at the row of floating knives, ready to cut into the vegetables. It was a strange sight. Were these knives floating because a ghost was holding onto them? Or were they simply being controlled by some magic? It was probably the latter, considering Camille was a ghost but we could see her just fine. Although now that I look at her a bit closer, she does seem a bit transparent.
+
+Before I could think about it too hard, the maid swung her hand down. The challenge began.
+
+I quickly picked up a tomato, placing it on my cutting board and slicing through. I used to cook here and there back in the other world, so I had some experience. Good thing all the vegetables in front of us were ones that I was familiar with.
+
+After a few chops, I was done with the tomato. I grabbed the bell pepper, repeating the process. I briefly turned to my side.
+
+The floating knife closest to me was still on the tomato. Its cuts were slow and methodical, but precise. It might not beat me in speed, but it could in quality. I turned to my other side, curious about how Reina was doing.
+
+“Uh…” I muttered.
+
+Her tomato was completely smashed.
+
+“Did you use the blunt side of your knife?” I asked.
+
+She looked at me. “Blunt side?”
+
+I gave her a blank stare. At least I know there’s one participant who won’t beat me.
+
+She raised her knife and slammed it down with enough force to split the cutting board in half. Her tomato exploded all over our faces and clothes.
+
+“Agh! Reina, what the hell are you doing?!” I yelled.
+
+“Sorry, sorry!” she cried as she pushed the tomato aside and put another vegetable on the board.
+
+“No! No more cutting for you!” I screamed.
+
+The floating knife beside me suddenly slammed itself into its cutting board repeatedly, trying to convey some kind of message.
+
+Camille nodded. “It says your slicing technique is amateurish, Allene.”
+
+“Huh?” I looked at my board, realizing I had completely messed up on the bell pepper I was cutting. “Damn it! You’re distracting me, Reina!”
+
+“It says you hold your knife like a toddler,” Camille continued. “It also says it's hilarious how you’re barely tall enough to see over the counter and—”
+
+“Can you stop?!”
+
+She bowed. “Of course.”
+
+For a moment, everyone except Reina was locked in a state of concentration, cutting one vegetable after another. Before I knew it, we were all on the last vegetable. I initially thought all the vegetables here were ones that I was familiar with, but this one looked a bit different. It was like a mix between an onion and garlic.
+
+“Be careful,” Camille warned. “If your knife cuts too closely to its center, it will explode.”
+
+I stopped. “...explode?”
+
+I stared at my cutting board.
+
+Oh no.
+
+My knife had already gone right through the middle.
+
+“Why didn’t you say anything earli—”
+
+BOOM!
+
+It wasn't an explosion that could kill somebody, but thick, black smoke erupted everywhere, causing Reina and I to cough nonstop. As if recognizing what had happened, the closest kitchen hood turned on, sucking up all the smoke.
+
+When everything cleared, I looked around, realizing that all the floating knives had turned to me. I wasn’t sure if I was imagining it, but they seemed… upset?
+
+I looked down at my cutting board.
+
+It had shattered from the explosion—along with the knife.
+
+“Ah,” Camille said. “They’re upset that you ruined their kitchen tools.”
+
+Every floating utensil slowly turned toward Reina and I, and it wasn’t just the knives.
+
+“…Uh oh,” Reina said.
+
+One of the chef knives floated forward, hovering just in front of our faces. Unlike the others, this one was massive.
+
+Then, the chef knife began shaking.
+
+The entire kitchen joined in. Pots slammed shut. Ovens repeatedly burst open with flickering lights. A whisk spun so fast it created a mini-tornado.
+
+[TROPE COMPLETED: ANIMATED INANIMATE OBJECTS]
+
+[REWARD: For the next minute, you will understand the language of the manor’s kitchen tools.]
+
+As soon as I received that reward, I heard the chef knife speaking.
+
+“Kill them!” it ordered the other utensils.
+
+Reina turned to me. “What’s happening?!”
+
+I took her hand and began to sprint away.
+
+“They want us dead!”

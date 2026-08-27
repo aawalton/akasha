@@ -1,0 +1,115 @@
+---
+id: 512af34f-8229-5e23-ba23-6115e4df171a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 441: A Ring in the Forest"
+slug: 0478-chapter-441-a-ring-in-the-forest
+partOf: dungeon-of-knowledge-complete
+position: 478
+ownLength: 1564
+unit: words
+ownProgress: 1564
+publishedAt: 2025-11-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2757601/chapter-441-a-ring-in-the-forest"
+royalRoadId: "2757601"
+markedReadAt: "2026-06-29T20:28:24.535Z"
+---
+
+Giddy frowned at her desk as yet another leaf fell from the cursed trees, landing right on her work. It didn’t help that she had been staring at the intricate runework through her Mana Amplification Lenses, and the leaf had come down like a house falling from the sky. She clutched her fist over her heart in a vain attempt to still the loud thumping.
+
+The destruction of Myrin’s Keep was annoying. More than annoying. It was next to impossible to find materials, and when she did, the loss of Hadrik Goldbeard meant she had to go through a laborious ritual of IOU notes just to get what she needed. She already had too much work with half the guild suddenly advancing to platinum. How am I going to get these rings completed in time? she thought, glaring at the offending leaf.
+
+Besides, her feet were cold. She missed her workshop with underfloor heating runes, her little refrigerator with snacks and refreshing drinks, the lighting set perfectly just the way she wanted, and access to all her tools. What self-respecting jeweler plied her craft out in the wilds, for goodness’ sake? It’s uncivilized!
+
+A crack and a shimmer in the ambient mana made her glance up suddenly, and then she sighed, reaching up to touch the runes on her goggles, disabling the lenses before taking them off carefully and storing them.
+
+“Hi, Aliandra. What can I do for you?”
+
+“Hi, Giddy, is this a good time?” Aliandra asked.
+
+“As good as any,” she grumped, brushing the annoying leaf onto the ground.
+
+“What do you think of this?” Aliandra asked, holding out a strange, twisted band that seemed to have been grown, more than crafted.
+
+Her annoyance vanished as her professional curiosity muscled in and took over.
+
+Twisted Band of the Sylvan Summoner – level 107A band of oak, grown or carved into a twisted wreath. The muted pulsing glow of mana hearkens to the malignant gloom of a dark and forgotten twisted forest. +63 Wisdom.+12% to Nature damage. +15% to Minion movement speed.Minions gain additional Nature damage on hit.Minions gain additional Death damage on hit.+120% to Minion health regeneration.Parasitic: +5 Nature damage to wielder on activation of a skill or ability. Requires 750 Wisdom to unequip.Requirements: Wisdom 375Quality: Rare.Value: 238 gold.Ring – Oak
+
+“Parasitic?” Giddy gasped, raising her eyebrows. With a flick of her fingers across her temples, she retrieved the lenses, turned them back on, and began examining the unusual dark weave of mana that pulsed within it. “This is a cursed ring, Aliandra. I don’t recommend wearing it. Besides, I made you a whole set of good rings before you left.”
+
+“About that…” Aliandra said, trailing off.
+
+Sensing a dire premonition, Giddy flipped up her lenses and glanced up at the Fae beside her.
+
+“I was forced to deconstruct them. I’m sorry,” Aliandra said, wringing her hands.
+
+“You… what?” she exclaimed. “Those were two to three hundred gold each! What would possess you to deconstruct them?”
+
+“I needed the mana,” Aliandra said, having the decency to look embarrassed.
+
+“Mana?” Giddy spluttered, somehow speechless. She had worked hard on those rings, and Aliandra had used them as… mana potions? The nerve!
+
+“If it helps, your rings saved my life,” Aliandra said.
+
+“It better have been that important,” Giddy said, frowning, but somehow the way Aliandra said it caused her anger to vanish. There was a story there, and not a happy one. Giddy decided to return to steadier ground. “So, what do you want me to do with this ring?” Wood wasn’t her preferred medium, but she was comfortable working with it, nonetheless. Any Jewel Crafter worth her salt would be. It was just that the shine of silvery precious metals and beautiful, gleaming jewels suited her aesthetic much better.
+
+“Is there any chance you can learn those enchantments and make me a different ring?” Aliandra said. “One without the parasitic enchantment, and maybe with a different mana affinity for the damage? Err… and on somewhat short notice?”
+
+“I would need a few more samples to study the enchantments…” Giddy stopped speaking immediately at the sight of Aliandra producing six identical rings and dumping them out on her desk. “Aah, well that’s good.”
+
+Minion enchantments. Giddy wrinkled her nose. The rings wouldn’t fetch much on the auction house simply because summoners were incredibly rare, but for a class like Aliandra’s, the enchantments were probably ridiculously valuable.
+
+“I won’t be able to do different affinities until I get some samples of jewelry with on-hit enchantments of different types. The normal one is quite expensive, you know?” she said.
+
+“Would either of these work?” Aliandra said, offering several samples of two more rings on an outstretched palm. Several onyx bands and a couple of gleaming golden rings.
+
+“Ooh, pretty,” Giddy murmured, reaching out to examine them. Now this is more my style! Very nice.
+
+Onyx Band of the Void – level 83A band of pitch black that radiates void mana to those who can see it.+51 Dexterity.+40 Strength.+19 Perception.Added Void damage on hit.Grants level 23 Vanish skill. Recharge: 5 minutes.Requirements: Dexterity 291Quality: Rare.Value: 172 gold.Ring – Onyx
+
+Sacred Ring of the Golden Dragonflight – level 80A band of pure shining gold, infused with holy mana and inscribed with draconic runes.+50 Strength.+39 Dexterity.+21 Vitality.Added Holy damage on hit.Grants level 34 Holy Shield skill. Recharge: 5 minutes.Requirements: Strength 280.Quality: Rare.Value: 284 gold.Ring – Gold
+
+“Now these… these are quite good,” Giddy said, trying to contain her excitement upon appraising them. And she has enough samples for me to learn them, too!
+
+“Will they work?” Aliandra asked.
+
+“Yes, though it will take a little time and some more materials,” Giddy said, running the calculations in her head. Converting the regular on-hit enchantment to a minion version wouldn’t be particularly hard once she knew the base minion version of the enchantment. “I will only be able to do these affinities, though. Is that ok?”
+
+“Yes, holy and void are quite strong,” Aliandra said. “I’ve been struggling with monsters that have nature or death absorption. At least Holy will be fantastic for use against undead or demons. Void is outstanding, too. It seems to disintegrate pretty much anything.”
+
+“Yes, I agree. Errm… in return for making your ring, do you mind if I use this holy damage on hit enchantment to make some money? I mean after I make yours?” she asked. With the specter of the Blind Lich on Southport’s doorstep, a holy damage enchantment in her repertoire was going to make a fortune.
+
+“Of course,” Aliandra said. “That Holy Shield enchantment should fetch a good price, too – it works very well with defensive warriors and shamans. And I’ll want to commission an extra minion ring as a gift for Seth, too.”
+
+Well, maybe those minion enchantments will come in handy after all, Giddy thought. With both Aliandra and Seth in the market – and both of them willing to spend on top-quality gear – she would probably get some good mileage out of them. Seth, in particular, was the kind of adventurer who would come back and commission a few versions in different affinities just in case. But she was most excited about the prospect of learning the void and holy damage – and that Vanish skill enchantment would probably sell quite well to the right buyers, too. Finally, something that’s worth all the cold feet and annoying leaves.
+
+“I can pay in materials if you like,” Aliandra said. “That way, you can avoid all that ridiculous paperwork.”
+
+“Now you’re talking my language,” Giddy said, sighing in relief and then yelping in surprise as Aliandra pulled out a chunk of sizzling darkness that seemed to eat the light. “What is that?”
+
+“Voidstone,” Aliandra grinned. “I’m sure you’re going to have fun playing with it – just try not to touch it if you like your fingers.”
+
+Giddy immediately grabbed it using the Telekinesis skill on her own ring and stored it safely inside her storage enchantment. There would be plenty of time to experiment later. “Oh, Aliandra, while you’re here, I’m working on the platinum guild rings,” Giddy said. “Do you have any requests? I could perhaps put one of the minion enchants on yours?”
+
+“Mmm…” Aliandra said, her brow furrowing briefly. “Oh, I recently got a good mana dump skill. Could I get mana regeneration? The highest you can manage?”
+
+“Mana regeneration is only worth it if you have a large mana pool,” Giddy said. It was one of the cheapest enchants to make, and not particularly sought after. Most mages cared far more for damage, spell power, and other similar tools.
+
+“Oh, I usually have around sixty-five thousand mana,” Aliandra said.
+
+“You, what… how much?” Giddy coughed as her gasp caused her to inhale at exactly the wrong moment.
+
+“Sixty-five thousand,” Aliandra repeated the impossible number. “It’s expensive to keep a dungeon running, so I get some advantages.”
+
+“I see,” Giddy said. “Mana regeneration it is, then.” She couldn’t even imagine how much mana Aliandra would be generating per second with that big of a pool. “Give me a couple of days, ok?” And before Aliandra was even done waving goodbye, she had her lenses reactivated, and she was studying the intricate formations within the first Sacred Ring.
+
+“Bye,” Aliandra said, and Giddy waved in the direction of her voice.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,231 @@
+---
+id: 97062a7b-0cba-55f0-be1b-318602b054c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 540: Blackwell"
+slug: 0580-chapter-540-blackwell
+partOf: dungeon-of-knowledge-complete
+position: 580
+ownLength: 4893
+unit: words
+ownProgress: 4893
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3063043/chapter-540-blackwell"
+royalRoadId: "3063043"
+markedReadAt: "2026-06-29T20:32:05.675Z"
+---
+
+The village of Blackwell huddled in the valley, squat houses hunkered down, braced against the elements like a relic left behind while the world had marched on by. No more than two dozen houses – several not much more than huts – clustered there, fenced in by a rough stone wall with a rickety gate that likely offered more peace of mind than actual protection against monsters. Thin wisps of smoke curled upward from the soot-blackened tops of brick chimneys only to be violently dispersed by the strong winds as soon as they cleared the calmer air in the valley.
+
+His teleportation into Blackwell had required an extremely expensive reagent to compensate for the lack of a receiving Locus, which he had purchased at extortion-level pricing from the auction house. The Blind Lich’s war had upended the entire economy, and nowhere was that more obvious than in the prices and restrictions on magical transportation. There were regions, like the entire surroundings of Southport, that were entirely inaccessible due to the constant disruptions caused by war magic and warding spells. On their side, Donella Novaspark’s mages had been working hard, and their exceptional level growth was already proving its worth: the wards protecting Myrin’s Keep and its locus had become strong enough to rebuff even the power of the domain-enhanced teleportation array in the Crypt of Kings, forcing Haverron to choose teleportation endpoints well outside of the city to restock or bolster his unending siege of undead armies.
+
+While Donella had blithely laid much of the credit on having free access to all the accumulated knowledge within Ali’s extensive library, and creative use of the enormous mana battery linked to the dungeon buried under the academy, Calen still shuddered to think of the carnage that might have ensued had the Death Knight general been free to transport his forces directly inside the city walls.
+
+But Donella’s mages had honed their craft well, not only able to protect the city from incursion, but also having achieved sufficient mastery to send Calen the full length of the continent, and he’d arrived on this hill not far outside of Blackwell without the aid of any locus.
+
+Feels like cheating, he grinned privately, while his eyes lingered on the village, studying the rickety carts coming and going from the outlying, terraced rice paddies and the occasional tiny field carved out of the scant sections of arable land scattered throughout the valley floor.
+
+Blackwell, it seemed, existed. It exuded a sense of ageless tenacity, and he could already guess that its inhabitants would probably not even recognize prosperity if, by some miracle, it one day descended upon them.
+
+Miles beyond the tiny town, the land simply ended. It was like looking over the edge of the world – the barren, rocky plains ceased at a jagged edge, beyond which raged the legendary storm. Winds howled, tossing about boulders and rubble that never seemed to fall. Water sluiced upward from the hidden sea below, bathing everything in an upside-down deluge of never-ending rain. Even with his Eyes of the Archon focused at his maximum, he could barely penetrate the veil. Still, his enhanced senses were sufficient to be able to make out several of the promised floating islands with their inverted waterfalls gushing upward from far below.
+
+The Sea of Fractured Dreams. He could not help but shiver lightly, staring out at that impossible vista. Majestic but very, very dangerous.
+
+This was his destination, Ryn’s best theory as to the original location of Aalion, and Explorer was positively prickling with anticipation. It seemed he shared a calling with the resourceful librarian – Ryn was a tracker, relentlessly hunting her prey through the realms of dreams, divination, and the endless halls of ancient libraries by tracing the footprints of history left upon the pages of those moldering books. He had read every passage she had unearthed, feeding his Explorer skill with her uncovered knowledge, and while he could follow the esoteric path she had taken, he would never have been able to match her prodigious feats of skill.
+
+Still, while she’d been able to track their prey through millennia and countless pages, it was his skills that would be needed to walk the lands and uncover the final secrets. While the trail was ancient, the impact of it on history had been incalculable, and now, thanks to her efforts, he had a starting point. His gaze returned to Blackwell, and he stepped onto the meandering dirt path leading past his vantage point, walking briskly toward the town. He had memorized every map of this area that Ryn had managed to lay her hands on, but nobody in their right mind actually entered the Sea of Fractured Dreams. It was a perilous place, by all accounts, and unfortunately, that meant that much of his information about what might be found within the storm was based on conjecture, fairytales, and rank superstition.
+
+Calen approached the gate to find a portly, balding man in worn leather armor passed out in a chair beside it, snoring rather loudly.
+
+Warrior – Human – Level 43
+
+While Calen’s skill identified him as human, the shimmery silver thinning hair and the slightly pointed ears spoke to some significant Elven heritage in this man’s ancestry. Sun Elf, if he were reading the signs correctly, and even his Explorer skill concurred.
+
+“Excuse me,” Calen said, having to repeat himself a little louder before he got a reaction.
+
+“Aah… hrmph… Ahem. It’s two bits to enter Blackwell,” the man muttered blearily as he stirred, but as soon as he looked, his eyes shot open, wide enough to show white all around the iris, and he scrambled to his feet, stammering, “P… Pathfinder! Welcome, sir!”
+
+“I’m sorry for the surprise. I forgot to disable my stealth skills,” Calen said, offering a white lie to cover for his napping on duty. “I wonder if you might be able to help me?”
+
+“What do you need?” the man asked, collecting himself as best he could.
+
+“My mission is to scout the outlying edges of the Sea of Fractured Dreams. I’m looking for information before I head out. Do you have a map, or know someone who might?” Calen asked. The townsfolk of Myrin’s Keep had grown used to seeing Pathfinders dressed in their distinctive cloaks, and so he had mostly forgotten how impressive many people found them to be out in the world. Still, he didn’t mind leaning on the reputation afforded by his cloak to gain quicker access to information.
+
+“Aah. You want to talk to a wind runner. Ask for Old Bailey at the inn, he can tell you everything about the Hole,” the guard offered, still shifting about anxiously.
+
+“Thanks,” Calen said, smiling as he dropped a silver piece into the guard’s hand. While the man gasped at the shine of silver, Calen strode through the gate toward the most likely building.
+
+“Ah… Thank you, sir! You just let me know if there’s anything else you need!” the man called after him.
+
+Calen raised his hand in a friendly wave and approached what must be the inn. There was no sign indicating as such, but the saloon-style doors and the scuff marks of dozens of boots in the dirt outside were as much of a dead giveaway as the faint odor of stale ale.
+
+Calen pushed his way in through the swinging doors.
+
+The ground floor of the inn seemed to be a single, dingy taproom with a stairwell at the back that presumably led to rooms for rent on the upper floor, although, given the size, perhaps it was just the innkeeper’s apartment up there. Calen wrinkled his nose at the reek of sweat and the sour notes of spilled ale. Several pairs of eyes glanced up as he entered, followed by muted exclamations and whispers. Calen ignored them and approached the barkeep.
+
+“I was told I could find Old Bailey here?”
+
+“Aye, Pathfinder. That be him over in yonder corner. He’s not in trouble, now, is he?” the barkeep answered.
+
+“No. I’m just looking for information from a wind runner,” Calen reassured the man. “What is he drinking?”
+
+Without a word, the barkeep filled a wooden tankard from the tapped barrel on the rack behind him and placed it on the counter, smiling happily when Calen overpaid.
+
+Grabbing his bribe, Calen approached the table tucked into the dark corner. The man sitting there was definitely a half-elf, of the Sun Elf variety, just like himself, but he seemed far older. This Old Bailey had the weather-beaten look of an old trail.
+
+Herbalist – Half Elf – level 87
+
+“May I join you for a few minutes? I have a few questions,” Calen asked.
+
+“Is that for me?” the man responded, eyes glued to the fresh tankard in his hands.
+
+“Yup, I took the liberty, I hope you don’t mind,” Calen said politely, placing the ale on the rickety table and sliding it over to the herbalist. At a nod from the man, he sat down.
+
+The old half-elf took a deep pull from the fresh tankard before setting it back down again with a loud thump and a satisfied sigh. “So, what does a fancy-pants Pathfinder want from Old Bailey?”
+
+“What is a Wind Runner?” Calen asked. He had a pretty good idea already, but it was a fine place to begin the conversation.
+
+“Those of us who do not work the rice paddies or the fields gather Storm Blooms from the edge of the Hole.” He took another swig from his ale, burping in satisfaction.
+
+“Storm Blooms?”
+
+“Wind-affinity flowers,” Old Bailey answered with a nod. “They fetch a decent price on the open market. Helps keep us afloat during the winter.”
+
+“I am scouting for something lost in the… Hole,” Calen said, using the local name for the massive crater. “I was wondering if you might have any decent maps I could look at?”
+
+“No maps,” Old Bailey said, shaking his head. “Everything changes all the time, but I can tell you what you will find in there and then, perhaps you can reconsider your mission. Around the edges of the storm, you will encounter wind elementals. The little ones are easy enough to run from, but it’s the bigger ones that you need to be wary of. Further in, near the islands, you must worry about apparitions.”
+
+“Apparitions?” Calen asked, his senses already prickling at the new information.
+
+“Yes, apparitions. Beings of light. Everyone else will tell you they’re just stories, but they haven’t seen what I’ve seen,” Old Bailey said, and then he leaned in closer, and his voice dropped to a whisper. “I have seen two in my lifetime, and I count myself fortunate to be alive. They are the ghosts of powerful Elves, cursed to forever haunt the storm. If you see one, you should run, but it will probably be too late.”
+
+“I see,” Calen said, nodding along. The signs certainly supported Ryn’s crazy deduction. Several of the patrons scattered around the taproom had obvious signs of Sun Elf heritage. Some, like Old Bailey, still identified as half-elves many generations down the line, and if these ‘apparitions’ really were the ghosts of the lost Sun Elves of Aalion, then all he had to do was survive to find the secrets within the storm.
+
+Easier said than done, he told himself, resolving to take the intelligence seriously. He needed to be prepared for powerful enemies.
+
+Old Bailey seemed all too happy to continue talking, regaling him with numerous stories of close encounters, things to watch out for, and all kinds of superstitious advice – at least, as long as he kept the ale coming.
+
+“Ay, yup,” Old Bailey said, finishing his ale, now in high spirits. “You’ll probably want some of these then, if you’re set on venturing into the hellhole.” He fished out a vial with a swirling white liquid sloshing around inside of it.
+
+“Wind resistance?” Calen guessed, judging by the wisps of mana he could see swirling about the glass container.
+
+“Yup. Expensive, they are, but worth it. Go next door and ask for Cophira, she’s the alchemist. She can sell you as many as you need.” Then, he chuckled morosely, suddenly seeming sad. “Collect the Storm Blooms to make the wind resistance potions. Drink the potions to collect the Storm Blooms. It’s a never-ending cycle, just like the storm.” He raised his tankard, only to find it empty.
+
+“Here, take this,” Calen said, dropping a gold coin on the table. “Thank you for your time.”
+
+The man brightened and gave him a decidedly skew salute. “Too good, you are. Too good.”
+
+Calen nodded, leaving the oldtimer to call for a refill from the barkeep. He was obviously overpaying again, but with the kinds of dungeons they’d been delving lately, a single gold coin was not going to hurt him in the slightest, and Old Bailey had provided him with several excellent leads. He left his newest best friend to purchase all the ale he wanted and headed across the street to find the promised alchemist.
+
+***
+
+An hour later, Calen hovered above the mile-high crater’s edge. Storm winds lashed against him, turning the edges of his cloak into whips, while the salty spray of seawater drenched him, rendering his armor and clothing uncomfortable and cold. There was a note in the wind not only of roaring, but almost… wailing. It set his nerves on edge.
+
+I’m going to have to watch out for that spray, he thought, focusing on practical measures. It looks vicious. Wild wind-affinity mana snaked through the storm in thick rope-like strands that whipped the winds into a lashing frenzy of vortices and gusts. He could already see several of the promised wind elementals, almost invisible against the clouds as swirling funnels of violent energy. Stealth, he decided, would be of little use here in the heavy, salty rain that even at the boundary of the maelstrom pelted him from all sides. Storm Blooms – for they could be nothing else – sprouted in clumps from the rugged cliff face far below, but by far the majority seemed to have shed their earthly tethers, riding the blustering winds on broad, sail-like leaves.
+
+He retrieved one of his newly purchased elixirs and downed it.
+
+You have gained Wind Resistance.
+
+Instantly, the buffeting force of the tempest died down. His cloak settled down, resting on his back once again, and his hair ceased tying itself into knots. The wind itself hadn’t abated. Instead, it seemed somehow to ignore him, as if flowing around him were suddenly preferable to trying to rip him apart.
+
+Not bad, he thought, studying the now-empty vial in his hand before stashing it. He’d gone out on a limb and purchased several from the old herbalist, and it seemed his trust had been well placed. Hopefully, they would afford some measure of protection against wind-affinity magic, too. He eyed the roving knots of violent wind lurking within the storm.
+
+“Well, this mess isn’t going to explore itself,” he muttered. He flared his wings wide and donned the mantle of Mirage Armor, unleashing his decoys and hiding the emissions of his mana. He shrouded himself in the invisibility of Eclipse despite his doubts as to how effective it might be in the storm and then masked all signs and sounds of his passage. “Here goes,” he said, and took off, flying into the teeth of the storm.
+
+Explorer has reached level 120.
+
+Calen circled aimlessly for quite some time before he found anything of interest. It was nearly impossible to maintain his bearings in a world of constant change. The howling winds whipping saltwater spray everywhere drastically reduced his visibility, and he was forced to rely solely on his Explorer’s sense of direction to avoid getting entirely turned around.
+
+His Wind Resistance elixir was everything he’d been promised. Unfortunately, there were boulders. Rocks flew like leaves in the storm, anything and everything from gravel-sized chunks to tumbling blocks the size of houses, somehow levitated and tossed about by the roiling, chaotic magic powering the endless storm.
+
+It was here that Mirage Armor proved its worth.
+
+While flying through the turbulent winds, dodging rubble and avoiding boulders, a strange, steadily growing roaring caught his attention. Carefully, he reoriented himself, shifting angles and following the sound until something broke through the haze of water, but it wasn’t until he’d drawn much closer that it fully revealed itself to his eyes.
+
+Calen gasped at the immensity of the giant pillar of water he found flowing upward, carried upon an incredibly potent updraft of wind-affinity mana. The howling was deafening, and as he approached, even he began to be sucked upward as the stream of air and water began to overpower his elixir. He backed off a little, but by the time he had extricated himself from the stream, he found himself flying beside an enormous chunk of floating rock. The water fountained off the side of it, turning itself into more spray, but the flat top of the floating island seemed to have formed an oasis within the storm. Long-bladed willowy green vegetation covered its surface, and there was even a small, stunted, windswept tree clinging to the rock with gnarled roots and impressive tenacity. Clumps of reed-like grass filled the air with mournful sounds as they swayed in the strong winds.
+
+Calen approached slowly, testing the winds every step of the way, but he found he was able to land safely on the bizarre oasis floating within the storm. The roiling tempest within the rock made absolutely no sense to his perceptions. Chaos seemed to flow directly forth from a levitating, glowing alabaster boulder that hovered somewhere near the center of the island.
+
+Is that holy mana? How is that possible? Explorer quivered at the sight. The mana affinity was fiendishly tricky to decipher, given how warped it appeared, but it was clearly the source of the oasis effect, somehow providing shielding to the island and blunting the worst of the storm’s raging violence. On the other hand, it seemed to be a beacon attracting elementals.
+
+Wind Vortex – Elemental – level 68-83 (Wind) x16
+
+Hmm. Explorer didn’t consider the elementals to be enough of a threat to even prickle, even though there were many of them. He studied the elemental vortices colonizing the island, memorizing their paths and learning their patterns, and then, he summoned his bow.
+
+Ok, let’s see what you can do. For his first victim, he picked a level seventy Wind Vortex, briefly isolated on its own on the near side of the levitating rock that was so fascinating to his Explorer skill. His arrows blazed as he unleashed them in rapid succession. At his level, and with the legendary Lunaré’s Lament, the elemental didn’t last more than twenty seconds, and by the time it expired, Calen had fully replenished his mana and stamina.
+
+Not much of a challenge, he decided, rolling his shoulders. Then he summoned a full array of conjured arrows and unleashed a swift volley, quickly wiping out the remainder of the lurking elementals before he stalked forward to study the anomaly.
+
+Something about the mana in the area around the island and the boulder in the center bothered him, but even studying it closely for a few minutes, he found himself none the wiser, so he collected all the elemental cores and launched himself back out into the raging storm once again, alert for islands or rivers of water. And boulders, always the boulders.
+
+After the fifth island, Calen began to fully appreciate why Old Bailey said there were no maps. Even in the interminable haze, he could tell that these islands were drifting around randomly, at the mercy of the currents. A few more islands explored, and he realized something altogether more ominous – the higher he flew, the stronger the elementals were getting. He’d already seen a few past the second tier, and he was here on his own.
+
+It was an hour later that he encountered his first apparition. A far larger island than most loomed out of the mist, large enough to support a small forest and a hill, which seemed to be more a collection of boulders that had smashed into the island than anything else. Similar to every island he had explored so far, this one came with a floating rock that glowed with the strange aura of holy mana.
+
+Ryn had been unable to unearth much on the nature of the Well of Divinity, but just going by the name, Calen suspected it was either related to light or holy magic. Aalion, after all, had been called the City of Light. These strange floating rocks had to be related somehow to the city, or the Well itself. If the well had indeed possessed a holy affinity, then perhaps these remnants had touched it? Or were they the shards of Aalion, or crystallized fragments of whatever spell had destroyed it?
+
+Atop the hill stood something that shone with a far more powerful radiance than any elemental. He identified it without delay.
+
+Fractured Archon – Celestial – level 253 (Wind / Light)
+
+[Explorer]Category: Spawned MonsterThreat Level: Third TierMonster Type: Celestial, ArchonDamage: Wind, Light.Known Abilities: Unknown.
+
+The figure that hovered in perfect stillness was vaguely humanoid with brilliant wings of yellow light, but it had to be at least twelve feet tall. Calen’s brow furrowed at the bizarre sight of what appeared to be missing pieces – like whatever had assembled this monster had run out of parts. A circular hole was bored clean through the center of its chest. It had no waist, and its limbs had slices that appeared to have been removed from existence at random locations. There was even a vertical slice missing through the side of its head, as if one of Azryet’s void dragons had disintegrated it, and yet, somehow, it appeared to be entirely unaffected by these ailments.
+
+It turned its head suddenly to the side and flicked a hand, releasing a volley of near-invisible blades of air that shot forth to smash into a Wind Vortex with no effect.
+
+Not too smart. Attacking an elemental with its own affinity was never a bright idea, but the radiance of the Fractured Archon suddenly intensified, concentrating around its eyes. Before Calen could even blink, a pair of beams of searing light shot out, incinerating the Wind Vortex and a sizeable chunk of the rock beneath it. In the aftermath of the potent beam attack, orbs of similar radiance were left drifting in the air, strange little elementals that shone with light and flew over to circle the Celestial’s head like a crown of brilliant glowworms for several moments before they dispersed, flying off into the winds.
+
+But powerful. Note to self, don’t pick a fight with one of those. Instead, Calen studied the dappled, shimmering of the mana in the area, again finding it to be strangely twisted and chaotic. Somewhere in this crazy storm, Ryn was certain the ruins of Aalion could be found, and, while he had encountered many encouraging clues, he had found not one single solid lead.
+
+It must be here, he thought, but Explorer seemed to prickle at the back of his mind, urging him to ascend even higher, and so he continued, spiraling ever upward, despite the rising danger.
+
+It was several hours later that the biggest island emerged from the mist and winds. He had been growing worried as the light faded, but it turned out that he was merely in the shadow of a floating chunk of rock more than large enough to comfortably support Myrin’s Keep. He flew up around the side and gazed down upon a strange scene. Grasses and other plants grew wild across the expansive surface, while elementals of both light and wind cavorted in the air above, a strange, chaotic dance amid the floating Storm Blooms that might have been battle or a celebration. Several smaller hills and rocky outcrops jutted out, with small streams flowing from the collected mist and rain. They pooled together and eventually spilled out over the precipice of the island’s jagged edge, only to be churned into spray and mist by the winds. Dozens of strange celestials flew over the surface, many of them trailing dozens of orbs of light, seeming to revel in the warped chaotic mana.
+
+Suddenly, his chime sounded in the back of his mind.
+
+Explorer has reached level 122 (+2)Your actions have greatly increased the reputation of your patron.You have gained the Blessing of the Wanderer.
+
+Okay… why? Clearly, there was something significant about this place, and he could tell Explorer was prickling with redoubled fervor or energy. But he had no idea why.
+
+He studied the island again. Whatever was going on here felt like that forgotten word stuck on the tip of his tongue, a sliver away from being remembered.
+
+The only thing out of place that he could see, other than the now-familiar chaotic swirls of mana, seemed to be a ring of shattered stone, hovering above the earth in a small clearing toward the center of the forest. By now, the levitating, glowing holy boulders were nothing new, only this time they seemed to be in something of a roughly circular shape.
+
+It was a detail that screamed out its uncanny artificial nature to his senses. They were clearly ruins of some sort.
+
+He flew lower, swooping in for a closer look while paying careful attention to his mana and stamina, and maintaining his concealment skills with supreme focus. Many of the monsters on this island were already at a higher level than he was, and he had no desire to prove his skills without reason.
+
+Eventually, his circuitous path brought him closer to the center, where he finally set himself down on the ground. The roiling mana was so thick, it was causing his hair to stand on end, and strange flames of light and wind dashed out to dance across the nearby grass and treetops.
+
+What is this place?
+
+He studied it from the concealment of invisibility while the elementals cavorted overhead. The mana seemed to be projecting a strange, impossible pattern that confused his eyes, as if there was a second world out there, barely visible, superimposed upon the real.
+
+Wait… And then it flickered.
+
+He froze and stared. Just like the spirit realm! And yet it was so close to this realm that his senses had failed to distinguish it. In that moment of inspiration, he really looked, focusing his sight beyond the veil.
+
+Like he’d been peering intently at a scene beyond a window and then suddenly became aware of his own reflection in the glass, he finally saw it. What had been there all along.
+
+Brilliantly superimposed upon the view of the island was a grand city of magnificent buildings. Out in the distance, tall mountain peaks overlapped with the storm winds and the mists. Over the ring of fractured stone shimmered a well – no, the Well – a clear double image of the ruins overlapped with the pristine echo imprinted on the spirit realm. An image of the former glory of Aalion and the Well of Divinity.
+
+It’s here. Right here. He had to be miles above the sea, and everywhere below him on his journey upward, the spirit realm had been showing him the inside of the Thousand Celestial Peaks – a mountain range that had been entirely vaporized by the cataclysm. But here at the summit, almost three miles above the lashing waves below, he could finally see the image of Aalion – the echo imprinted upon the Spirit Realm. When it flickered and vanished, it was replaced by ruins and rubble, but the Well of Divinity remained – an image so powerful it seemed burned into the very nature of existence itself.
+
+Eyes of the Archon has reached level 92 (+4).
+
+He did not whoop with joy out loud because he very much liked living, but his heart leapt with excitement and his veins thrummed with triumph. I found it!
+
+Carefully, he backed away, retracing his path while his mind was left ablaze with questions. It was clear that the Well of Divinity, and indeed all of Aalion, had been wiped out, obliterated by the disaster that had sundered the world, spawning this crater and unleashing this eternal storm. But was there anything they could do? All that remained of the Well in the real world were these strange, chaotic mana-enriched stones.
+
+Ali needs to see this, he decided. If anyone can figure it out, it’s her. Ryn had led him to this place, and he had tracked it to its source, but now it was time to pass the banner on to the next hunter.
+
+He set down upon a relatively safe spot, devoid, for the moment, of monsters. From within his storage enchantment, he retrieved the artifact Ali had given him. A four-foot-wide slab of granite and densely inscribed with her most potent runic magic.
+
+He set it down upon the grass and then retrieved a Scroll of Greater Sending.
+
+Pulsing a little mana into it, the scroll turned to ash in a flash. “I found it,” he sent.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

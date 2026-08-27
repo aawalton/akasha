@@ -1,0 +1,199 @@
+---
+id: 8c677802-ef63-537e-a44c-d7ead86745eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: Springing the Trap"
+slug: 0031-chapter-16-springing-the-trap
+partOf: ends-of-magic
+position: 31
+ownLength: 2547
+unit: words
+ownProgress: 2547
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2554867/chapter-16-springing-the-trap"
+royalRoadId: "2554867"
+markedReadAt: "2026-06-29T20:08:15.976Z"
+---
+
+So far, Nathan hadn’t demonstrated a lot of finesse with his aura. Nearly everything in Esebus had been solvable with brute-force application of antimagic. But this door needed a more subtle touch. There were multiple components, but the two that Nathan cared about were the alarm and the anti-tamper mechanisms. If the door detected that it was being subverted, it would send out an alarm and fuse into a solid brick of metal multiple feet thick that would have to be cut through manually. It wouldn't stop them, but it would slow them down.
+
+And it wouldn’t send the right message.
+
+“I’m going to need a moment,” he said over his shoulder. “They should only be able to come in via the elevator. I’m blocking teleports into this level.” He saw the Heirs clearing the bodies and setting up in the now-vacant defensive positions. The emplaced weapons wouldn’t do them any good, but multiple inches of alloyed metal was a solid defense even if it had been stripped of most of its magic.
+
+He turned back to the door and dove into the complexity of the wizardry. It was on the same tier as the most complicated enchantments he’d hacked in the Ascendant Academy, but this time he didn’t have the advantage of a week of practice on the same paradigm of enchantments. The wizardry on this door was notably different, structured in a hierarchical manner like the more standard style of Esebus enchantments.
+
+Nathan’s goal here wasn’t to bypass the door in a stealthy manner. He wanted it open, but triggering the alarm was the goal, especially if the signal on the door went where he thought it did. He was pretty sure the alarm was more than a simple alert - it would also transmit information on the state of the enchantment. Nathan stopped jamming magical transmissions before he clamped down on the anti-tampering mechanisms that would sabotage the door. Then he brute-forced the opening mechanism. It was cruder and less precise than properly hacking the mechanisms, but it was certainly faster.
+
+The door flashed in protest, the anti-tampering system attempting to do its job and failing in the face of Nathan’s antimagic. The alarm system worked as it was supposed to, and transmitted its signal in a quick burst of magical energy. It appeared to go directly upwards, though Nathan wasn’t confident in the exact angle.
+
+With a quiet hiss, the door opened, a thick pane of metal sliding aside to reveal a smooth surface of dark metal. Nathan couldn’t feel any magic on it. He stared at it for a second, tempted to try to open it too. But that wasn’t the goal. He turned away and spoke aloud. “Alarm sent. I’m going to let teleports through. Be ready.” He raised the magical jamming again, but withdrew the aura from the room and hallway. He didn’t pull it back into himself, leaving the aura laced through the walls and floors of the space like jaws ready to snap shut.
+
+A few seconds later, there was a crack of an incoming teleport, and they all spun to see a tall androgynous woman standing in the opening of the door, not five feet from Nathan. Her clothes glowed with magical lights, and bracelets and anklets glowed with power. Her face was twisted up in disbelief and disgust, and she regarded them all haughtily as she opened her mouth. “What…”
+
+That was all she got out before the Heirs attacked. Sarah was the fastest, and her penetrator round pinged off an invisible shield of wizardry that wrapped around the woman. But Nathan was just a hair behind her, and his aura closed around the person he was pretty sure was a Questor with an iron grip.
+
+The shield surrounding her was multilayered, and the first layer was a simple layer of force strengthened to an almost ludicrous degree by wizardry. Nathan had seen defenses like this before and popped it like a soap bubble. The next layer was a dimensional enlargement spell, much like the one Badud had used in the battle over the pass. It stymied Nathan for longer, long enough for Aarl’s invisible axe to get stuck in the expanded space. But he understood this defense too, and knew to attack the struts of wizardry that enforced the space. That layer failed in moments, and the woman’s face shifted from disdain to shock as defenses capable of shrugging off city-destroying attacks were unravelled in moments.
+
+That just left the third and last layer of her shielding, which was something new. Stella’s laser lanced forward, and a mirrored shield of mana appeared to reflect the light back towards its source. There was a scream from behind Nathan, but he didn’t look back, too focused on closing the gap to get his hands on his opponent. But as soon as he got close, a gentle push of force nudged the woman out of his path. He moved again, and she drifted away once again. Sarah fired another round, and the bullet froze in midair before dropping to the ground.
+
+Nathan’s aura finally clapped together, surrounding the Questor in a high-pressure ball of antimagic set to deny all magic. She locked eyes with him and reached for a familiar-looking ring on her hand. It was identical to the one that Badud had used to call down [Quenfi’s Hatred] to kill Brox.
+
+If that’s anything like the [The Last Arrows of Olita], then it might be more than my antimagic can handle.
+
+Then Khachi hurtled into the woman from behind, hammer leading the way. The protective effect tried to activate again, first to nudge her away, then to blast Khachi with some kind of void spell. Both effects were eaten by Nathan’s aura, and Khachi’s hammer slammed into the back of the woman’s head. More magical effects flared. But they weren’t just fighting against Nathan’s antimagic - but also the divine wrath of righteousness wielded by a cleric well along the path of divinity.
+
+The Questor fell to the ground, her head quite thoroughly caved in. A life-saving healing spell tried to activate, but Nathan quashed it without effort.
+
+Nathan and Khachi looked down at the body in shock for a moment before another notification popped up.
+
+There was a pained choking sound from behind them, and both of them spun to see Stella lying prone on the ground. A six-inch hole was burned all the way through her shoulder from where the laser had been reflected. Her arm was barely attached to her body, and the charred flesh in her torso shuddered as she tried to breathe.
+
+That’s part of her lung.
+
+Nathan was struck with a sudden bout of helplessness. All of his power, and he hadn’t been able to stop this. He’d been specifically allowing Stella’s magic, and it had been turned back on her too quickly for him to interfere.
+
+Where Nathan was frozen, Khachi was moving. He took a confident stride forward, letting his hammer fall to the ground with a thud before raising one hand into the air. He placed the other hand on Stella’s forehead and intoned a forceful prayer that was more of a proclamation. “By the valor of our deeds, by the strength of this fallen foe, by my decree, she shall be made complete!”
+
+Golden light suffused Stella, hiding her form. The light wavered, and then the empty spot that had been her shoulder filled in. The gleam retreated, leaving her unwounded. It had even replaced the robes over the spot that had been hurt. She exhaled a shaky breath and held up the arm that had nearly been blown off.
+
+Khachi grasped it and pulled the mage to her feet, giving her a serious nod.
+
+Everybody was watching Stella with concern, wanting to make sure she was ok. Her mouth worked, but nothing came out as she gingerly touched the shoulder that had so recently been a charred hole.
+
+“I wish my healing brought my clothes back,” Nathan quipped, drawing attention away from her. He pointed down at the body, then back to the vault. “We probably have some time for loot. None of the other Questors should be on this continent, and I don’t think they’ll be ready to fight instantly. Aarl, I don’t think the next layer is magical, and I don't see any obvious way to get in. See if you can get through it manually. I’ll check our dear Sussu here for anything notable. Everybody else, watch out for other forces.”
+
+“How am I going to get through the door?” Aarl asked quizzically, looking over at the dark metal of the next layer of the vault.
+
+“It’s not magical,” Nathan repeated, then mimed hacking away with a sword.
+
+Aarl’s mouth opened in realization. “Ah, Dragon’s breath, finally.” His expression shifted to a grin, and he reached for his weapons pouch as he stepped towards the vault.
+
+Nathan turned back to the corpse lying at his feet and began inventorying the magical items on it. Nearly everything Sussu wore radiated both mana and wizardry, though it was all currently inactive. The pieces were powerful enough that they’d survived being immersed in his aura, but he was keeping it retracted to avoid any additional damage.
+
+They didn’t seem cursed in any way he could detect, but there was still something off about each of the items. The bracelets around her wrists held a vast dimensional space, while her loose robe had generated the defensive shielding and allowed flight. A necklace held several dozen utility enchantments, and a series of rings, bangles, and armbands held powerful offensive spells - including a delicate nose-stud that Nathan was pretty sure could cast a nuke-spell powerful enough to devastate the entire city of Esebus.
+
+I’m glad we fought her somewhere she didn’t want to destroy.
+
+It took him a few minutes to understand the problem. The items weren’t locked to Sussu through normal, curse-like means. But they were only as powerful as they were because she was some kind of artificer, and could create incredibly powerful items for her own personal use. The items were inactive for anybody else, and that wasn’t something that Nathan could fix.
+
+That didn’t make them worthless. If nothing else, they could ransom them later. The dimensional bracelets could also probably be cracked open to get access to everything inside. In addition, there were also a few items that weren’t directly linked to Sussu, such as the ring that roiled with divine power. He reached for it, then thought better of that. “Sarah, come grab all of this. It’s safe, just not usable. Be careful with this ring, it’s the same thing that Badud used to kill Brox.”
+
+She reached down, but hesitated at his words. Then she resumed the motion, grasping the ring and sliding it off Sussu’s hand. “I can feel it. A bottomless well of anger. It’s a prayer for boundless wrath.” She shivered, then slipped the ring into a pocket on her bandolier. She proceeded to follow Nathan’s instructions, stripping the rest of the enchanted items off before taking Sussu’s whole body into one of her larger dimensional bags.
+
+With that done, Nathan turned back to see Aarl in full armor, hacking away the next layer of the vault with Brox’s black-bladed sword. He’d started with a magical cleaver they’d picked up in Giantsrest, but it lay on the ground, dented and deformed with the magic dissipating. The weapon had been enchanted to cut through every other kind of metal like butter, but whatever this vault was made of had bested it.
+
+Nathan had never seen the black-bladed sword have difficulty cutting through anything. It was a construct of wizardry, the concept of destruction made physical. But here it was, only taking chunks from the metal of the vault. Aarl was swinging hard and fast, his strikes blurring together into a noise that sounded a bit like a chainsaw. He was nearly burrowing into the vault, carving out a cavern while the Heirs kept watch.
+
+Nathan walked over and picked up one of the shards of metal that had flown out of the chasm, turning it over in his hands. The sharp edge cut him nearly to the bone, and he dropped it in surprise, the wound healing before the bloody shard hit the floor.
+
+That shouldn’t have happened. I’ve got enough toughness enhancements that it takes an enchanted blade to even get past my skin.
+
+He leaned over to study the metal. It was still entirely nonmagical, but there was a faint signature in the aether. He’d never seen that in a solid material before; usually, that kind of thing was reserved for mana pools and the highest tiers of spells and magical effects. He drilled his aura into the aether and poked around, hoping to break it down. But the black shard of metal resisted the best he could do.
+
+Nathan frowned down at it, poking with his finger and magical senses both. It wasn’t an active presence in the aether, more like something passive that reinforced its material existence. To destroy or even physically alter this material, you needed to affect it on both planes at the same time. He probably could do it, but it would be like breaking unenchanted metal with his bare hands.
+
+“Huh,” he said, standing up straight. “We should gather up all of the metal we can. It’s adamant. Adamantium?”
+
+Stella’s eyebrows rose, and she looked around at the scattered shards of dark metal, then over at the wall of it that Aarl was busy tunneling through. “The legendary metal, used as a wall?” She sounded offended at the waste.
+
+Nathan opened his mouth to respond, but was interrupted by a victorious cry coming from the vault. “I’ve bested this dungeon,” Aarl called backwards, continuing to hack away at the sides of the hole. The edges were jagged, but he quickly enlarged them to something that Nathan would be able to squeeze through without cutting himself to pieces.
+
+“I’ll go in first. The best way to make sure they engage us is for us to clear out all of their loot, but I bet there’s going to be a few traps.”
+
+Aarl gave an exaggerated sigh, helmet retracting to show a pout. “Go ahead. Illuminate the treasure for us.”
+
+Nathan smirked at him. “I won’t touch anything.” He ducked low and slipped into the vault, anticipating what might be inside the vault of a Questor.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 872
+
+Bottomless Stamina : 85193/88200
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 644
+
+Regenerative Focus: 5441/6540
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 5
+
+Forewarning 4
+
+Arcane Insight 8
+
+Evasion 2
+
+Mental Vault 6
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 3
+
+Aura Control 6

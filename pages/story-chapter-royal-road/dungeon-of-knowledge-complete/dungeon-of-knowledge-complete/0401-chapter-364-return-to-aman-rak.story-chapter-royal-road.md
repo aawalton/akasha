@@ -1,0 +1,131 @@
+---
+id: 94e3c868-f5d5-554f-9396-5ddd5fea8905
+page-type-slug: story-chapter-royal-road
+title: "Chapter 364: Return to Aman Rak"
+slug: 0401-chapter-364-return-to-aman-rak
+partOf: dungeon-of-knowledge-complete
+position: 401
+ownLength: 2494
+unit: words
+ownProgress: 2494
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2565402/chapter-364-return-to-aman-rak"
+royalRoadId: "2565402"
+markedReadAt: "2026-06-29T20:25:35.438Z"
+---
+
+“I think I’m ready,” Ali announced. She was fussing unnecessarily, but she was as ready as she would ever be. She glanced at her friends, who were waiting patiently nearby in the darkness of the ruined second level of Dal’mohra, lit only by the soft greenish glow of the restoration circle and the clear radiance pouring off her new construct. They had all been so patient with her over the last couple of days while she finished her project and finally recovered fully from the last remnants of her life channeling. Still, it was clear they were all itching for something to do.
+
+“It’s beautiful, Ali,” Malika said, examining her work.
+
+“Mhm. Thanks,” Ali smiled. It really was. For once, she didn’t feel immodest by agreeing wholeheartedly with Malika’s assessment. A perfectly matched pair of polished alabaster rings floated beside each other – vertical rings like massive coins spinning in slow motion, enclosing a diameter of about four meters of currently empty air. Like an echo from the Infinite Maze, Ali had covered every available surface of the stone with densely inscribed runes of space magic – a feat that had taken all her ingenuity and two subsequent visits to the spirit realm to consult with Cael before she had completed it.
+
+But now, they were done. With enough power, the space outlined by the rings should theoretically connect, linking them like two sides of the same open doorway no matter how far she separated them.
+
+Ali gazed out over the edge of the city ruins, remembering Calen’s fall and the much more recent terminal flight of Bartak, the Crimson Blade’s tank. She shuddered, inching back until she felt the vertigo ease. Something about an abyss of blackness with only a dimly lit jungle floor far below twisted her guts and made her legs feel wobbly, even though she could easily catch herself with her barrier magic or teleport to safety.
+
+She firmly fixed her attention back on her work. The Gate pair was so immensely expensive and critical to the guild strategy that she had decided to install it within easy reach of Tol’brekk, giving him the additional task of guarding it. Even though she intended to bind it to her domain, leveraging her ability to respawn it, she certainly didn’t want random people waltzing in and breaking it, or worse, trying to steal it.
+
+“Ok, let me get this set up,” Ali said, dragging one of her paired Gates along with her, using her barrier magic. Even though they floated, it took some effort to overcome the inertia of so much stone. Finding a suitable spot near her raid boss, she wielded her mastery over her domain. A ruined building collapsed in on itself as she repurposed the stone to build a wide platform – a dais to hold the Gate. Wide stairs appeared, and she twisted the stone into a dark gray-and-black marble. A dozen glowing barriers snapped into place, setting up a framework upon which she installed the heavy blocks of glowing space-affinity magicite. Carefully, she lowered the Gate ring into place and then bound all of it to her domain.
+
+“Maybe raise the platform a little?” Calen suggested. “For easier access.”
+
+Ali glanced at the alignments and immediately saw the problem. “Ok,” she said, and the stone dais swelled, rising a half meter more.
+
+“That looks better,” Calen approved.
+
+“Ok, now for the hard part,” Ali muttered, taking a deep breath. Her mana surged within her veins, and a delicate tracery of silvery metal etched the marble, linking the magicite and the Gate with runes of inlaid mithril. But Ali had practiced these power conduits extensively – adapted from the runic circle around the Grand Library – and they flowed easily into place. Mana siphoned into the magicite through the gathering array, transformed from her domain into space affinity. As the crystals began to shine, radiating space mana into her domain, the mithril runes activated, pumping it into the Gate itself. The huge ring lit up and began to shine, but with nowhere to connect to, this end of the Gate artifact just hung there floating in the air, humming softly with unused power.
+
+Ali let out a held breath and stored the other end of the Gate and the remainder of the magicite in her ring. “Ok, now for the other end.”
+
+“Just be careful, ok?” Mato cautioned.
+
+“Yup,” Ali nodded, and she headed back to the library and the runic circle that would teleport her to the ruined Temple of Aman Rak. This was a circle she had maintained for some time now, and it was undoubtedly safe. Still, she was bringing a powerful contingent of minions to guard her while she worked, just in case.
+
+After a brief but familiar dislocation twisted in the pit of her stomach, Ali emerged in the middle of the Temple of Blood’s central courtyard at the pinnacle of Aman Rak and let her gaze take in the now-silent and quiet space. Bright, warm sun beat down on her shoulders, and a pair of crows the size of cats gazed down haughtily from their high perches on the roof of a partially demolished building. Dark stains and scars in the packed dirt beneath her feet reminded Ali of the immense battle fought against Tol’brekk and the Blind Lich, but for the most part, the jungle was already reclaiming the area. Soon enough, the encroaching vegetation would erase all traces of the fight and even the temple itself.
+
+The moment her teleportation magic completed, her wisdom attribute surged back to normal as it reunited her with the pair of Trolls she had sent ahead of her.
+
+“Keep an eye open for enemies,” Ali instructed.
+
+“Yes, Seeker,” Joraa said.
+
+Ali had been unconsciously avoiding using the betrayer of Aman Rak, but that was silly. Once she had been forced to summon him in the battle against Kieran Mori, she quickly realized that his unique titles and advancements made him one of the most powerful Blood Shamans in her repertoire. She stepped out of the runic circle, making space for the rest of her minion escort to join her.
+
+But Ali’s attention was glued to the wall of dense mana that seemed to be consuming the entire jungle below the temple, even encroaching past the walls and up into the courtyard in places.
+
+We got here just in time, she thought. The domain of death-affinity had grown immensely. She had not expected the Lyton Ruins dungeon to have expanded so far and so fast.
+
+She didn’t waste any more time. As her minions popped through the runic circle and fanned out to secure her position, she retrieved the Gate from storage, placing it in the center of the courtyard – in almost the exact spot where she had retrieved the Temple of Aman Rak shrine. She eyed the wall of death mana nervously as she worked to stabilize the artifact she had created.
+
+At least transportation via the Gate would be substantially faster; she wished she had had access to something this powerful when they were trying to evacuate Ciradyl – lines of people waiting to use a runic circle one at a time was no way to flee from a disaster like that.
+
+She worked quickly, checking the runes and enabling the link that would connect the two Gates across the vast distance. She hadn’t exactly tested it like this, but Cael was confident it would work. Although, her thoughts helpfully reminded her that the twins had never needed to put a Gate outside their domain before either. She ignored them and retrieved a small fortune of space-affinity magicite crystals that had been charging all day in the library. Ok, that’s actually a large fortune, she decided, eyeing the crackling crystals. They were the key to her plan – Gate magic was extremely mana intensive, and these magicite crystals carried enough mana from her domain to power this side for maybe fifteen minutes – it would be tight, but it should be enough to get the raid groups through. If that wasn’t sufficient, she had a few more sets of magicite prepared.
+
+She continued summoning more magicite from her storage, slotting the blocks into the prepared framework around the Gate and affixing the crystals, buzzing with an overabundance of mana, to the runic structure. Runes began to light up as the mana flowed through the construct, everything going according to plan.
+
+A slow billowing shift seen from out of the corner of her eyes caught her attention, and she looked up to find the looming wall of death-affinity mana had swelled halfway across the courtyard. Wait, is it moving? Domains grew, that she knew, but this was something else – it seemed to be coming at her like a slow-motion wave that towered almost a hundred meters overhead. Fast enough that she could visibly see its steady encroachment.
+
+Ali gritted her teeth and redoubled her efforts. She had only a few more power blocks to fit and link, but once that domain swept through this space, it would become substantially more difficult to ensure the Gate would be set up correctly. This kind of magic was delicate.
+
+“Problem,” she said, speaking with the deep resonant voice of her Carnage Berserker to her friends waiting beside the opposite end of the Gate back in the depths of her dungeon for it to open. “The dungeon is rapidly expanding.”
+
+“Get it open, Ali,” Malika said.
+
+“Working on it.” Somehow, the dungeon domain seemed to be gaining momentum. It had not been moving when she had first sighted it, but now it flowed rapidly across the courtyard as if somehow drawn to her.
+
+“Fuck,” she muttered, and Joraa glanced back at her. Her trolls all backed up, readying weapons and taking defensive stances as the wall of death-affinity mana broke over the Temple of Blood, flooding the courtyard and rushing into the forest beyond. Ali felt the prickle and the otherworldly chill like a ghost had just phased through her body. The runes on her Gate flickered as the eddies and surges of the death-affinity mana began to interfere with her delicate runework, and the ubiquitous miasma of the Lyton Ruins began to rise, seeping up out of the ground.
+
+Ali coughed as the dark mist reached her lungs. Hastily, she summoned one of her remaining crystals and patched it into the formation, but as she did, a shimmer of shadows flickered behind her, visible as a shadowy presence through Arcane Insight. She released the crystal, encasing herself in a bubble of barrier magic in an instant as she whirled to face whatever shadowy thing she had detected. An unnatural silence descended upon the courtyard, and somewhere behind her witch doctor, a dark shifting shape loomed.
+
+“Watch out!” Ali called, but her voice made no sound. A perfectly silent flash of light caught a gleaming blade, and her witch doctor collapsed in a soundless spray of blood.
+
+Your Witchdoctor has died.
+
+A dark figure stepped out from the shifting shadows. The gleaming white tusks and spikey hair were offset by skin so dark it seemed to devour the light. Thick, leathery, elongated ears stuck out sideways from a face painted with a stylized white skull. A twisted mana formation infused the paint, and Ali could even make out white bones painted on the rest of his shadow-shrouded body.
+
+Assassin – Undead Troll – level 132 (Shadow)
+
+“Thanks for the meal,” the being said with strangely sibilant Troll words that hung, shivering and echoing in the death-tainted air.
+
+Then his body shimmered with an extremely familiar magic as he vanished to the spirit realm with Spirit Walk.
+
+Mana shimmered a second time, and Ali could only stare helplessly as her stealthed Abyssal Stalker was cleaved almost in two by the gleaming bone-white dagger that flickered from the shadows, followed immediately afterward by the faint echo of soul magic as the undead troll assassin vanished to the spirit realm again.
+
+Your Abyssal Stalker has died.
+
+With her heart pounding frantically, Ali snapped a large barrier up around herself and the Gate. The teleportation circle was over ten meters away, so she crouched behind the safety of her barrier and called for help. “Come! Protect me!” she commanded. From anywhere near the library back home, her minions scrambled to comply, rushing toward the locus.
+
+Shadows flickered and twisted, billowing out from random spaces, and suddenly coalesced behind Joraa. His eyes widened as a flicker of mana and a gleam of white blurred toward his neck. Ali instantly recognized the strangely muted mana signatures of domain magic: Overpowering Strike, Slayer, and something she had never encountered before. Blood Shock slammed through her hastily summoned barrier disk and into the shaman, stunning him. The dagger vanished into the shadows, withdrawn by gaunt black fingers tipped with wickedly sharp nails. It flickered once more.
+
+Your Blood Shaman has died.
+
+The white, skull-painted face turned his dark, shadowy eyes to stare at her. “I’m coming for you! just you wait...” A thin tendril of blood rose from the shaman’s corpse, spiraling up and around the assassin’s arm as he studied it in apparent fascination. Then he vanished in a fresh shimmer of soul magic.
+
+A raid boss! I need to get out of here!
+
+Your Death’s Acolyte has died.
+
+Her rapidly dwindling forces stood around, searching the air for the elusive undead troll assassin, unable to take action. She had only a few seconds before her outmatched and flat-footed minions were overwhelmed. She glanced at the impossibly distant teleportation rune circle and then back at the Gate with one final missing power slot. She might not have enough time to wait for the Gate to come online, but she had options. She swapped her dropped Empowered Summoner buff to her kobold acolyte, and, with haste born from desperation, she snatched the last magicite crystal and dropped it into the final slot.
+
+Shadow magic exploded behind her, and the cursed dagger struck again.
+
+Your Acolyte of Azryet has died.
+
+Nope, that’s it… Ali reached for her long-range teleportation, quickly seeking a suitable Glitter Dragonet back in her library.
+
+The runes etched into the white stone of the Gate began to shine, flaring to blinding brightness in a fraction of a second as the artifact drew hungrily from the stored mana in the magicite. The flash of light abruptly faded, and the enclosed space within the ring rippled like the aftermath of a pebble dropped into a still pond.
+
+Far sooner than she had ever imagined, instead of the Temple of Blood, Ali saw Malika’s startled face staring back at her from the other side of the Gate.
+
+Pain crashed into Ali like an avalanche. The world tilted sideways. Her teleportation spell shattered as she crumpled to the ground, crushed under the immense weight of sudden dungeon rage.
+
+What the… how?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,141 @@
+---
+id: a6837cb3-f886-52d7-9071-72745c782baa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 475: The Lost City"
+slug: 0512-chapter-475-the-lost-city
+partOf: dungeon-of-knowledge-complete
+position: 512
+ownLength: 3494
+unit: words
+ownProgress: 3494
+publishedAt: 2025-12-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2847199/chapter-475-the-lost-city"
+royalRoadId: "2847199"
+markedReadAt: "2026-06-29T20:29:37.681Z"
+---
+
+Maintaining a slow, steady trickle of stamina and mana to power his concealment skills, Calen carefully crept down the widening passage that seemed roughly hewn from the ancient ice and rock by ancient miners of towering stature. There was more than enough room to accommodate the tall Death Knight he was tracking, let alone himself. He kept his back pressed up against the wall, trying his best to ignore the cold, and concentrating on masking the sounds of his feet while carefully controlling his breathing, leaning heavily on the sound concealment provided by Explorer.
+
+Waves of bone-numbing chill emanated from the walls, carried by the progressively denser mana of the potent domain of the Crypt of Kings. A domain that his skills identified as far stronger than any he had yet encountered in this realm, hanging over him with an ominous weight, a cloying heaviness that pressed down on him in the dark tunnel. Whatever this place was, he knew it was deadly, and the presence of the Death Knight patrol and the reason he was here in the first place was more than enough to convince him he was invading one of the Blind Lich’s lairs.
+
+Footprints glowed softly under the influence of his tracking and perception skills, sparkling a little as he studied them, beacons of magic drawing his attention in the pitch-black darkness to paint a clear path that followed the passage of the rocky tunnel downward. Swirls of mana and energy that were the remnants of the powerful Death Knight’s presence had been indelibly imprinted upon the air, telling a clear story of the power of the undead monster’s passive skill use.
+
+But the darkness of the tunnel was no obstacle to his vision, easily pierced by the sensitivity of Eyes of the Archon and the stacked perception attribute he had invested in so heavily, now surpassing thirteen hundred. An investment that was essential to keeping him alive in situations just like this one. A glance backward reassured him that the inky shadows of Ali’s dragons were still following along behind him as the passage continued to widen. Their shadow magic provided almost perfect concealment, sometimes even from his own perception skills, and he found himself relying on Sense Prey quite often to even locate the shadows in which they hid.
+
+He pressed onward, following the passage as it looped back around a huge rime-encrusted boulder, when a sudden, muffled booming sound echoed from the darkness up ahead. He froze instantly, holding his breath and pressing himself up into the nearest hollow along the icy wall, hoping the additional shadows would enhance his concealment. He waited, seconds ticking away in anxious vigilance, but the horrifying visage of the Death Knight did not reappear.
+
+He held his position in the shelter of his dubious cover for several minutes, but it was right as he started to relax and was about to step out that the noise suddenly echoed up the tunnel once more.
+
+What is that?
+
+He froze again, straining his ears and listening, wishing, not for the first time, that he had Mato’s enhanced hearing and smell. But nothing emerged from the darkness and dense swirling mana up ahead, so he had no choice but to continue to inch his way forward, a thread of anxiety trickling through the heightened vigilance and caution.
+
+His eyes searched out every nook and cranny, bored into every crevice or shadow as he made his way deeper into the Crypt of Kings, freezing with every echo of muffled sound, every indistinct noise from somewhere up ahead. Slowly, the rough-hewn ice and stone began to give way to smooth, ice-rimed walls, and the floor began to flatten out as the tunnel widened. A dim, silvery glow filtered in from somewhere in the distance up ahead.
+
+His foot came down upon dark paving, his magic perfectly consuming the sound of his footfall; however, he could still feel the abrupt absence of ice upon the smooth ancient stone surface, the sudden increase in traction underfoot offset by the disconcerting fact that the entire surface was canted over about ten degrees sideways – like he was stepping onto the deck of a boat frozen mid roll – no challenge for his high dexterity, however still rather disorienting.
+
+Is this a… road? He studied it closely. That’s weird. I think it is.
+
+His front foot was set upon the black stone of a street, and the other still rested on the ice-encrusted rock of the tunnel; as stark a contrast as he could imagine. Between the two, he straddled a jagged line of broken stone that spoke of some ancient disaster that had suddenly, incredibly, severed the entire street and somehow dumped it here deep underground, listing a little to the side.
+
+Explorer pricked at his consciousness, like something important hovering on the tip of his tongue, tantalizingly close and yet just out of reach.
+
+The tracks continued down the center of the dark, broad street, following as it meandered in a lazy, sinuous curve, quickly disappearing behind the artistically constructed buildings that blocked his view of what might lie up ahead. Black polished stone dominated the construction that towered up to meet high overhead, not a single straight line or flat surface to be found anywhere. Carefully, he crept forward, ears alert for any new sounds, eyes scanning relentlessly for signs of danger.
+
+Where are the monsters? This was, after all, a dungeon.
+
+He made his way down the strange street, unable to miss the silvery glow growing stronger and stronger from up ahead, nor the strange, muted clacking sounds, and a disturbing twisting sibilant hiss: a continuous susurrus that ebbed and flowed like a thousand dark silk scarves being dragged menacingly across the floor. He glanced back toward the shadows of Ali’s dragons, but he couldn’t risk talking for fear of alerting whatever lay lurking just beyond his sight.
+
+The road turned, and the glow suddenly became clear. In the center of the street, an intricate formation of silvery metal had been inlaid into the black stone and imbued with potent enough magic to make it shine. It hummed and crackled with energy, and, even from his distance, he could already feel the hair on his arms prickling.
+
+A rune circle? No… not quite.
+
+While it was reminiscent enough of one of Ali’s constructions, created from what appeared to be mithril and etched in runic script, any resemblance vanished upon even the most casual inspection. Where Ali preferred creating circles, this was more geometric in design; the center filled in with patterns and lines of inscribed delicate runes that were all far beyond his ability to perceive or even remotely understand. The most he got from it was the lightning-affinity mana, and that was obvious from the sparks that leaked from the points of the formation to crawl briefly across the stone before fading into the ambient energy and being absorbed into the surrounding domain.
+
+He moved on, carefully avoiding stepping on the unknown magical formation, entirely unsurprised to find Ali leaving one of her two minions behind to study it.
+
+He returned to his task, grimacing when he realized the tracks he was following were rapidly growing dimmer as the presence of the potent dungeon domain consumed all traces left by the Death Knight. Still, he tracked the fading footsteps and remaining traces of profane magical energy along the winding street, carefully noting the landmarks and memorizing the layout of what appeared to be an entirely unexplored ruin of a city.
+
+Or at least a piece of one.
+
+It was the second time he found himself exploring the buried ruins of an ancient city, but where the ruins of Dal’mohra had oozed the efficiency and practicality of its dwarven creators, this city had been built by beings with a flair for artistry. Elves? But it was like no Elven architecture he’d ever seen or read about. It showed in the lines of the buildings, seldom straight or angular. There were none of the rectangles or boxes so prominent in human or dwarf construction; rather, everything was curves and gentle arcs, rising to peaks or falling to troughs, lit by the aesthetically pleasing shimmer of mithril-silver-on-black emitted by the cryptic runic formation. Even the streets followed no discernible structure or plan, meandering every which way, presumably at the whim of their creators. At least they followed no structure or design he could fathom.
+
+And yet it was all so empty.
+
+Everything around him seemed to be in surprisingly good repair for a ruin, but the dense mana of the dungeon domain could easily explain that. Ali could – and regularly did – readjust the structure of what was present in her domain, and it seemed reasonable to expect that this dungeon could repair the buildings, preserving them from the ravages of time. In fact, it was only his intuition, and the persistent background mental shuffling and prickling as Explorer grappled with what he was discovering, that convinced him that the ruins might be something of historical significance, and not just a complete dungeon fabrication. All signs that anyone might once have lived here seemed to have been systematically erased; there was no debris, no litter, no furniture, nothing that wasn’t the eerily deserted dark stone streets or darkened empty windows and doorways staring back at him like abstract skulls.
+
+A sudden hollow clacking echoing from just up ahead interrupted his thoughts, a rapid staccato that sounded awfully like dry bone smacking rock. It sent him diving reflexively for cover in a darkened archway.
+
+Just up ahead, no more than ten yards away, a bone-white apparition appeared, darting across the street, its tiny feet striking the stone pavement with the rapid clacking sound of bone-on-stone. It paused, and he found himself staring at a bizarre skeleton, if that’s what it was, no more than three feet high. He would have assumed Gnome, or even a Fae; however, the proportions were all wrong – the arms and legs were too small, and the skull was far too big and had short, sharp horns. It was white like sun-bleached bone, despite the obvious lack of anything resembling a sun in the oppressive darkness of this dungeon, and in its left hand, it clutched a wicked-looking bone dagger longer than its torso. It turned toward him, revealing eye sockets that danced with incandescent sparks that illuminated its skull from within; an uncanny undead mockery of a candle-lantern that cast dancing shadows of rib bones onto the surface of the street and nearby buildings.
+
+Grim Spark [The Quick] – Undead, Bone Fetish – level 204 (Lightning)[Explorer]A macabre doll fashioned from bones steeped in dark energy and granted a semblance of life through a powerful necromantic ritual.Category: Dungeon BossThreat Level: Party.Monster Type: Undead Bone Fetish.Damage: Lightning, Physical.Known Abilities: --
+
+It turned its overly large skull to the left, and then right, and then, with a sudden, rapid clatter, it shot off at high speed, trailing little sparks of lightning that briefly lingered as magical footprints. Halfway down the street, it suddenly vanished, leaving a sheet of crackling lightning slowly fading upon the stone.
+
+Calen remained crouched in the darkened archway long after the monster had vanished, watching the fading wisps of its teleportation spell, grateful his skills had been sufficient to keep him concealed. It took altogether far too long for his racing heartbeat to quieten, but he waited it out, choosing to be calm when he finally ventured out once again. Scanning the ground with his tracking skills, he discovered he had lost the trail of the original Death Knight – all signs finally dispersed into the domain. All that remained were the footprints of the fetish, a trail that ended halfway down the side street in a cloud of swirling mana left over from the teleportation skill the monster had used.
+
+I could follow it, he thought. But, after careful consideration, he quickly discarded that idea. The lack of tracks on the streets did not imply a lack of monsters, as he had initially guessed. Rather, the dungeon erasing the tracks meant that there were likely many roaming monsters just like this one, and his tracking would be of limited use. Instead, he would need to be even more cautious to avoid being surprised again.
+
+Glancing across the intersecting streets, he shifted his strategy and picked a different road – the broader one. His approach would need to change from tracking the Death Knight to scouting out the dungeon, and so he followed the larger street toward another familiar silvery glow, memorizing the layout of the area, reasoning that the most important buildings might be found along the biggest roads.
+
+While the roads were spotless and perfectly clear, and the buildings had been preserved by the magic of the domain, inside was a different story altogether. Every time he checked inside one of the darkened doorways or poked his head into a window, he found the rooms filled with piles of ancient bones. Far more than could ever have been explained by the deaths of the original inhabitants, and all other signs of prior occupation seemed to have been systematically erased. More dungeon nonsense, he guessed.
+
+His progress was slowed by the necessity of avoiding rune formations etched or inlaid into the walls or the stone of the streets – anything that glowed with mana he treated like a dungeon trap, giving it a wide berth.
+
+He was in the process of navigating around a particularly intricate set of magical runes when the sudden sounds of marching steel boots rang out against the stone. He pulsed his mana, quickly manifesting his wings, trusting Eclipse to conceal them, and shot up to land perched atop the lower of the two adjacent buildings, and fixed his eyes on the darkened side street. The crunching clang approached, growing louder and louder until the walls and black stone began to glow with an inhospitably cold blue light.
+
+Three figures emerged, marching in unison, identically clad in long flowing black cowled robes that swirled about them like smoky wraiths as they marched, parting to reveal the dark gleam of steel armor beneath. Their eyes glowed with intense blue light, and a similar frozen radiance blazed like cold fire from runes etched into their swords and armor. They stepped out into the center of the broad street and turned as one, marching back the way he had just come, their feet stepping uncaringly upon the runed formation.
+
+Death Knights!
+
+Devastation Knight – Undead Dragonkin – level 187-191 (Ice) x3.
+
+[Explorer]A rare variant of a Death Knight summoned from the corpse of a powerful Dragonkin warrior. Devastation Knights were universally feared generals in the undead armies that laid waste to the realm during the Necromancer Wars.Category: Summoned Monster.Threat Level: Normal.Monster Type: Undead Dragonkin Death Knight.Damage: Ice, Physical.Known Abilities: Despair Aura.
+
+He stared at the identification in surprise. Stories told of The Breaking, and the Necromancer Wars, and how the dragonkin had joined the forces of evil, laying waste to the elves and the human domains. It was the reason that, even to this day, people feared Dragonkin. And here were three dragonkin death knights, and from the intuition he gained from Explorer, he could tell they were powerful foes. He shivered at the sight of the dangerous patrol, and in his focus, he almost missed the soft swishing sound behind him.
+
+At the last moment, he heard it and ducked as an enormous form descended from above. Air, and dense vortices of ice mana buffeted against his prone body as something landed upon the roof beside him with a heavy crunch.
+
+Skeletal Frost Dragon – Undead Dragon – level ??? (Ice)
+
+It was only a supreme act of will that kept the yelp from escaping his lips. I can’t even identify it! With Explorer having advanced so much, he had grown used to being able to identify the level of even advanced foes. With his current buffs and skills, he should be able to Identify anything up to level two hundred and twenty-eight.
+
+How powerful is this beast?
+
+The monster was enormous; a true dragon even larger than the Skeletal Wyvern they had faced in the library or the one they had defeated at the end of Alexander Gray’s dungeon. It towered above him, flaring its creaking bone wings wide, ice mana arcing between the naked bones of the wings like a magical skin. Flurries of snow and ice crystals drifted down from the powerful wings as the monster retracted them, resting them upon its back. The black stone of the roof crunched beneath the grip of giant talons while the skeletal head turned this way and that, studying the streets below with the unwavering gaze of a necromantically animated guardian.
+
+Calen held his breath, not moving a single muscle as he hugged the stone roof. His heart was beating so loudly that he just knew that any second now the monster would hear it. Seconds drew out longer and longer, stretching to minutes. Urgency rose within him as his need to breathe mounted steadily, but the moment he moved, he knew he would be discovered.
+
+A soft, almost imperceptible shadow flitted across the roof of the building opposite him. He frowned, momentarily distracted as he searched the darkness for signs of what it might be.
+
+Clack.
+
+A small, shattered fragment of bone clattered off the roof, falling to the street on the far side of the intersection. The reaction was instantaneous. Stone tiles ground into dust as the talons beside him flexed, and the undead dragon let out an ear-shattering roar that shook him to his core. A dense cone of blue magic burst forth from the bony maw, filling the air with a sudden glacial chill, far colder than even the ambient temperature of this frozen place. In a second, the Skeletal Frost Dragon had launched its enormous bulk into the air, and moving far faster than something of its mass had any right to, it was already on the opposite side of the intersection, bathing the street and buildings in its arctic dragon breath.
+
+Sheets of ice instantly covered everything as the dragon swooped up out of the street, circling high overhead, and by the time the monster had reached its peak, the patrol of Death Knights was already rushing down the street to investigate the noise.
+
+He took the cue and fled, flying as fast and as low as he could.
+
+It was several minutes later that he took a new perch upon a taller building, allowing his racing heart to recover from his frantic flight.
+
+Thanks, Ali, he thought, realizing who had provided the distraction to draw the dragon away.
+
+His new vantage point, a building somehow suspended entirely in the air, provided a fantastic view of the dungeon chamber. Not quite as big as Myrin’s Keep, he had a view of a sizeable fragment of a city – immediately, he started memorizing the layout with his skills. ‘Fragment’ certainly seemed an appropriate description; it looked as if someone had simply dropped a section of a city into a massive underground cavern, and sealed it away, entombing it under countless tons of ice and rock. He easily picked out several tunnels leading away, presumably to unseen parts of the dungeon. Patrols of death knights and skeletons roamed the streets below, and he could make out the large, lazily circling forms of several skeletal frost dragons.
+
+But his gaze was drawn to the far side of the city. Before a large open archway stood a Death Knight. It towered over the normal patrolling death knights, its shoulders at least twice as broad, standing impassively, stalwart, a grounded, glowing greatsword held ready in a two-handed grip.
+
+Haverron [The Devastator] – Undead Dragonkin – level 215 (Death / Ice).[Explorer]A unique Devastation Knight that commanded the legion of the Blind Lich during the Necromancer Wars. Prominently featured in both historical and mythical accounts of the war and invoked by parents across the continent as a bogeyman to encourage recalcitrant children to behave.Category: Dungeon Boss.Threat Level: Raid.Monster Type: Undead.Damage: Death, Ice, Physical.Known Abilities: Despair Aura.
+
+Calen swallowed uncomfortably. If the potent aura of mana welling up within the Death Knight was not enough, the fact that he was named and bore a title told Calen all he needed to know. Not only was this the guardian – the boss – of this dungeon chamber, but this was also the legendary Haverron of the ancient tales. This was, without a shadow of a doubt, the Blind Lich’s lair.
+
+And I’m strolling in here like it’s a Sunday afternoon walk in the park. Way to go, Calen.
+
+Just then, his notification chimes sounded.
+
+Your actions have increased the reputation of your Patron.
+
+Calen smiled inwardly. Despite the clear and present danger, he wouldn’t want to be anywhere else.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

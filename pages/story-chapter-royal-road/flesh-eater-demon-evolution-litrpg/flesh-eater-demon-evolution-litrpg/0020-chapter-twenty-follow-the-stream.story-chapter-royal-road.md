@@ -1,0 +1,171 @@
+---
+id: 8c9f24c7-36ef-5a9a-bed4-31d043b3ea06
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty: Follow the Stream"
+slug: 0020-chapter-twenty-follow-the-stream
+partOf: flesh-eater-demon-evolution-litrpg
+position: 20
+ownLength: 2661
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2608458/chapter-twenty-follow-the-stream"
+royalRoadId: "2608458"
+---
+
+It didn’t take long to reach the stream. The sound of rushing water soon hit Pyre’s ears as they navigated around a particularly dense patch of bushes. Well, the demon was mostly just shoving through, snapped branches be damned, but Callan was being more careful.
+
+“You’re literally a ghost,” she pointed out. “Just float through it.”
+
+“Habit,” he muttered.
+
+The stream itself was quite small when they finally reached it. It was narrow enough that a big jump could get you across and so shallow that Pyre could easily see the sharp rocks below.
+
+The water itself was crystal clear, flowing at a much faster pace than she’d expected. Little droplets sprayed outwards where waves crashed into jagged stones. If the demon really focused, she could make out what looked like the faint glow of an ichor stream running just beneath the water.
+
+“It’s this way,” Callan said, peering carefully ahead. His gaze kept darting around, never able to stay on one spot, and it only got worse the further they went. It was like he was expecting the chimera to pounce out from behind one of the trees at any moment.
+
+Pyre just hummed and began heading in that direction. This part of the forest didn’t have obvious ichor warping that she could see, and the lights in the trees were fairly scattered. Based on what Callan had said about how chimeras formed, it had probably originally formed somewhere in the Fred Zone, then left the area.
+
+“So, anything you can tell me about that thing’s powers?” she asked while they continued forward. The ghost pursed his lips.
+
+“…It was fast,” he finally said. His brows scrunched. “I remember feeling—feeling claws digging into me.” He shuddered, quickly shaking his head and shoving down the memory. “I think it had some sort of armor around it. Every spell I threw just bounced right off, if it didn’t completely dodge it.”
+
+“Oh, right, you were a mage.”
+
+The ghost bristled. “What’s that supposed to mean?”
+
+Pyre vaguely recalled him saying he "wasn't a very good mage" the last time she'd brought it up. Clearly the kid had some hang-ups about this. She raised an eyebrow. "Relax, it's just interesting to hear you talk about throwing spells and shit when I've never seen you cast anything myself."
+
+“Oh.” Callan’s shoulders deflated. The demon studied him, thinking back to that mage he’d drained. Up ahead, the stream curved to the right, so she turned right as well to follow its path.
+
+“So are you actually gonna try and fight the chimera too? Kind of need to know for planning’s sake,” she drawled. It didn’t really matter to her either way. As long as she devoured it in the end, she’d get the experience and subtrait shards she was looking for. Seeing as Callan was a ghost, even if he did decide to fight and turned out to be not-so-helpful, he literally, physically couldn’t get in the way even if he wanted to.
+
+“I’ll help.”
+
+Pyre raised an eyebrow. “You sure? That thing did kill you the first time.”
+
+He winced a little at that, but his jaw remained stubbornly set. “I can give support,” he insisted. He seemed quite serious about helping despite his obvious fear. The demon could respect it.
+
+“What about that draining thing you did on the mage? If you could do that again, you could probably knock it half-dead with one blow.” She paused. “Well, with one ghost drain.”
+
+Callan’s shoulders slumped at that. “I’ve tried. I haven’t been able to drain anything that quickly again.” He frowned, brows furrowing in thought. “I mean, I was pretty desperate, but I think it might’ve been because he was a mage? I think the higher constitution something has, the harder it is to drain, and his constitution was low.” He was starting to ramble, but Pyre figured it was better than him working himself into an anxiety-induced panic. Besides, she was learning some interesting stuff.
+
+“Plus, he was casting a spell at the same time,” Callan continued.
+
+“Yeah? What’s that got to do with it?”
+
+“Well, I drain—I drain life energy, basically. There’s, like, a barrier around everyone’s core that helps keep that vitality in, so I have to break through it to drain things. But when you’re casting magic, you have to lower that barrier, otherwise you can’t draw in the ichor around you to use for your spell. Well, unless you’re just using your body’s innate ichor, but that would kill you pretty fast—”
+
+“Hang on,” Pyre interrupted, “I thought ichor was the blood of those dead angels and demons or whatever. You’re saying everyone’s got some now?”
+
+“Sort of?” Callan frowned, clearly trying to think of the best way to explain it. “The ichor that was spilled onto the earth gives everything life, so every living thing has a tiny bit of innate ichor in them. It’s usually located in the soul and part of what forms your core. It’s not the actual substance, but more like the power of the ichor, if that makes sense.”
+
+It kind of did, kind of didn’t, but Pyre figured it would make more sense once she personally started dealing with more “ichor shit,” as she was starting to call it in her head. Which was really just an extension of magic shit.
+
+It did make her wonder, though, if she also had that “ichor core” or whatever. She did still have a piece of her soul, however small it was, and she was clearly alive, so probably yes. Unless reincarnated souls didn’t need ichor to give them life.
+
+There was also the question of whether the blockage around her soul was just a more intense version of the barrier Callan was talking about, seeing as both seemed to be natural defense mechanisms projected by a vague soul or core or whatever. The whole thing sounded way more complicated than she’d like.
+
+“Uh huh. You were saying about mages?”
+
+“Right, so mages have to lower the barrier around their core to take ichor in. It’s like the first thing we learn to do. But that also leaves you more vulnerable. I think that’s why I could drain that mage so quickly; he was in the middle of casting a spell. There wasn’t much blocking me.”
+
+She still didn’t totally get the life force ichor core barrier thing, but the concept of it being easier to drain something when there were no obstacles, at least, made simple sense. Pyre turned again as the stream veered once more. The trees around them, she noted, were starting to get more dense.
+
+“You said something about mages using their innate ichor or whatever and how that’d kill them.” Now that they were already talking about it, she might as well learn what she could about magic. It wasn’t like they had anything better to do before they reached the cave.
+
+Callan nodded. Talking about magic, it seemed, had temporarily taken his mind off the chimera and the soon-to-be fight.
+
+“I mean, like I said, ichor is what gives everything life. If you use up all of yours, well…” He gestured vaguely, but it got the point across. Drain the batteries and you were dead. “That’s why mages learn to draw in ichor from the atmosphere around them for their spells. How much you can pull in at once depends on how much you lower your barrier. Doing it too often, though, will expose your core to higher ichor concentrations."
+
+“Which means a bigger chance of getting ichor-warped.”
+
+“Yeah. And just plain dying from excessive ichor poisoning.”
+
+Honestly it all sounded pretty interesting to Pyre. It seemed like there was some serious cost-reward balancing going on with magic. Too bad she couldn’t use it herself to personally see what all this ichor-manipulating business was about. At least, not yet. If she did get her soul whole again, she might be able to.
+
+“You know a lot about this, kid,” the demon said. She was a little impressed. Callan ducked his head.
+
+“I like studying magic,” he mumbled. Pyre snorted.
+
+“Clearly. Can you use magic now?” A ghost mage could be pretty useful backup in a fight against a weird chimera beast.
+
+Callan nodded slowly. “Yeah, I—I just got the trait for it.” He swallowed. “I’m not very good at it though. My magic capacity’s really low.”
+
+“You say that like I know what you’re talking about.”
+
+“It’s basically how much ichor you can draw in at once. I said mages have to learn how to lower the barrier around their core, right? Well, you can only do that to a certain extent, and it varies based on the person. Some people can pretty much remove it entirely; other people only a little.” He shook his head. “I’ve never been able to lower mine much. I can’t pull in enough ichor for more powerful spells.”
+
+“Ah.” She hummed. “Well, magic’s magic. It’s more than I can do.”
+
+“You can’t—oh, right.” Callan looked embarrassed. “Your soul.”
+
+“Yep.” She directed one of her eyes over to Callan. “Don’t think I didn’t notice what you said about constitution affecting your draining, by the way. You definitely tried to drain me, didn’t you.”
+
+The ghost froze for a second, but the demon’s amused tone seemed to placate him, and he quickly relaxed again.
+
+“It didn’t work at all,” he admitted. Pyre would hope not. She didn’t have 100 constitution for nothing.
+
+The demon grinned. “Sure hope you don’t try to kill me while we’re fighting the chimera.”
+
+“Of course not!” Callan sputtered.
+
+“Right, you’d be fucked against that thing by yourself.”
+
+The ghost gave her a flat look. “I was going to say I wouldn’t because I don’t want to kill you anymore.”
+
+Pyre paused. Huh. That actually surprised her somewhat. She’d known he was putting aside his murderous intentions for the sake of keeping his village safe and now to deal with the chimera, but a part of her had assumed he’d go back to trying to “slay the demon” once everything was resolved. When had he even had the change of heart? Why?
+
+Must be another one of those human things she no longer understood, a part of her said. She focused her eyes back on the stream.
+
+The trees, Pyre noted, had grown taller. Straight trunks pointed up towards the sky while thin beams of light seeped down through the canopy. The sound of water, she realized, was getting louder, steadily crescendoing into something resembling a roar up ahead. She could smell the earthy scent of wet dirt.
+
+“We’re getting close,” Callan muttered. He was floating a little slower now, and Pyre also slowed her pace. Up ahead, a thick wall of bushes blocked her view.
+
+The demon stretched part of her body out, creating another pseudo-limb. She had three eyes active right now with five on reserve, and she temporarily grew one extra at the end of the limb. Shoving it through the bushes, she peered through the eye at what lay beyond.
+
+The forest opened into a clearing. Pyre saw that the source of the roaring sound was a small waterfall tumbling down the side of a rocky hill. It wasn’t especially tall, nowhere near the size of Fred’s mound and not even as high as some of the trees, but she could see an opening on its side.
+
+There, within the cave, was the chimera.
+
+When Callan had described chimeras as being basically super ichor-warped creatures, she’d built up an image in her head that was an amalgamation of the various fucked up animals and plants she’d encountered so far. Eyes in weird places, bones where there shouldn’t be, maybe an extra limb or two. The image had always been fuzzy, though, because she didn’t know what the “original” creature had been.
+
+Now, she was staring at the thing straight on, and she still couldn’t tell.
+
+Its head was completely skeletal, for one. A white skull with gaping, empty eye sockets rested on the floor of the cave. It did have eyes, though—they were simply placed in a vertical line down the center of its skull. Six of them glowing gold in the dim shadows.
+
+The rest of its body looked vaguely like something her blocked memories associated with a “lion,” but instead of fur, its surface was covered in bony plates that did indeed resemble armor. A second mouth opened across the creature’s stomach, holding the same gleaming sharp teeth as the ones sticking out of its skull.
+
+Something moved inside the cave, and Pyre watched as a tail flicked lazily up and down. A snake, she realized. Meanwhile, on its back, two large antlers bloomed outwards like strange wings. Its legs were even bent the wrong way, her mind informed her. The joints were backwards.
+
+The demon studied the chimera a little longer. Besides its tail swaying and the occasional rise and fall of its body, the creature didn’t seem interested in moving. It looked like it was resting. She tried to peer deeper into the cave to see if she could get a glimpse of the evolution crystals, but the chimera was blocking her view. Finally, she withdrew the pseudo-limb and reabsorbed both it and the eye.
+
+“…Is it there?” Callan’s whisper was so quiet that she barely heard him at first.
+
+“Yeah,” she answered in an equally quiet tone. Carefully, Pyre slid her bag off the bone she was using to carry it, letting it land soundlessly on a patch of grasses. She reabsorbed the bone and, after some consideration, grew a fourth eye. That way, she could make sure she was covering all her blind spots.
+
+Her current mouth was still the one she’d formed in her human disguise, so she absorbed it and grew a new, larger one with sharp teeth and a wide jaw. She’d keep two mouths as backup in case this thing damaged one.
+
+As for the rest of her preparation, she morphed her body into a more compact shape. She briefly considered a fancier shape or maybe forming some more pseudo-limbs or a whole internal skeleton in advance, but without actually knowing what the chimera could do, she couldn’t predict what would work best against it. She also wouldn’t be able to use [Flesh Sculpting] since it was on cooldown, but that wasn’t really an offensive skill anyway. Her other skills were all ready to go.
+
+Pyre shifted and started circling around the bush to get around it without alerting the chimera. Callan hovered anxiously behind her, the ghost’s eyes constantly switching back and forth between the demon and the cave. They soon reached the edge of the patch of bushes, where Pyre now had a clear diagonal angle to the chimera. She heard the ghost suck in a breath behind her.
+
+The chimera, Pyre noted, still hadn’t moved from its spot. She narrowed her eyes, judging the distance to the creature. It was close enough that she could shoot a bone out from here.
+
+Drawing some flesh back, the demon eyed the bit of stomach visible from where the creature was laying. She began morphing her flesh, forming a thick piece of bone with a sharp tip that gleamed in the sunlight, and studied the subtle up and down movements of the chimera’s body as it breathed.
+
+Up, down. Up, down.
+
+The chimera’s chest rose again. This time, the moment it fell, Pyre shot the bone spear straight into that exposed bit of stomach.
+
+Six yellow eyes snapped to her. Moments before the bone made impact, the chimera blinked. Its entire body turned a shimmering silver.
+
+The bone passed straight through it like it was nothing but air.
+
+Incorporeal.
+
+Of course.
+
+Pyre rapidly retracted the bone just as the chimera leapt to its feet. It bared its teeth, releasing a low rumble that seemed to shake the very earth.
+
+Without a second’s delay, the creature pounced.

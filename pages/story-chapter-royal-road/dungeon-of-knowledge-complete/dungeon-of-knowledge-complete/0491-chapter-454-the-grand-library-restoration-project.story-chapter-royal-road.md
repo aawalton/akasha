@@ -1,0 +1,141 @@
+---
+id: 882f5034-59f6-5fd2-80c5-fb3cb4ceb5c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 454: The Grand Library Restoration Project"
+slug: 0491-chapter-454-the-grand-library-restoration-project
+partOf: dungeon-of-knowledge-complete
+position: 491
+ownLength: 1866
+unit: words
+ownProgress: 1866
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2791981/chapter-454-the-grand-library-restoration-project"
+royalRoadId: "2791981"
+markedReadAt: "2026-06-29T20:28:51.885Z"
+---
+
+Ryn flew along beside Ali, admiring her new golden wings, mostly to keep her mind off the gloomy and sinister forest, and the obvious damage from extreme combat that littered the area Lira had once called her home. Bookwyrm had his talons firmly gripped into the padded shoulder of her shirt, and his tail wrapped around her neck while he took a nap.
+
+But as they approached the Grand Library Arcana, and the giant tree came into view, it became impossible to keep her mind from gloomy thoughts. Lira is gone. The dryad had always treated her kindly, and the sudden realization that she would never get to discuss the finer qualities of elvish teas or have her gentle words of wisdom when she felt down, dragged Ryn’s heart back into sadness.
+
+“It’s not going to be the same without her,” she said.
+
+“Lira?” Ali asked.
+
+“Yes. I still can’t believe she’s gone.”
+
+“Did you not hear the realm message?” Ali asked.
+
+“Realm message?” Ryn stopped, turning to face Ali. What’s she even talking about? What did I miss?
+
+“I guess you were in the Spirit Realm when the fight ended, so maybe you didn’t hear it,” Ali said, her expression momentarily thoughtful. “Lira cast a mythic World Magic spell called the Cycle of Rebirth. My theory is she cast it before she died, and it was interrupted by the Blind Lich raising her as an undead. When we defeated the treant boss, she begged us to kill her. I think she knew that dying again would release the World Magic, allowing it to finally be completed. Here, this is what we got when it was all over.”
+
+Ali shared an item identification with her, the text popping up golden among the floating books of her mind’s library.
+
+Acorn of RebirthAn acorn that glows with an intense inner light. The viridian-green of its potent mana is darkened by a foul curse.Soulbound (This artifact is bound to a soul)Curse of the Lich (The Acorn of Rebirth was cursed during its creation by the magic of a Lich. If it is used, the soul housed within it will be annihilated or corrupted beyond recognition.)Quality: Mythic, Unique.Soul Phylactery
+
+“Is that Lira in there?” Ryn asked, staring at it incredulously.
+
+“Yes,” Ali said, “At least, I believe so. It’s as sure as we can be. It was corrupted when we first got it, and when Mato cleansed the corruption, his mentorship enchantment with Lira purified too. He still has it, meaning she’s still alive. Somehow.”
+
+“How do we get her out of there?” Ryn asked, rubbing her chest. Suddenly, it was hard to breathe. Lira. Lira’s… alive?
+
+“I have no idea,” Ali said. “That’s why I’m prioritizing the library restoration so highly – I need your help. Once we restore the library, could you see if there are any references to any magic spells or artifacts that we might use to remove the curse and restore her from the phylactery?”
+
+“Of course, Ali,” Ryn gasped, feeling embarrassingly grateful to be asked to help. Immediately, her skills kicked in as Arcane Archive began suggesting leads from all the books she had read or researched, but she would need to find the books to truly begin the research project in earnest. It was with renewed hope that she flew into the darkness that was the Grand Library Arcana.
+
+“Let me restore the enchantment first, you should recover your teleport locus here,” Ali said, and vanished, leaving a startled Glitter Dragonet burping motes of light magic into the air beside her. Bookwyrm uncurled his neck and hissed at the newcomer, annoyed at having his beauty sleep disturbed.
+
+“Shh,” Ryn hushed him as the intruder darted away, and Bookwyrm curled up again with a self-satisfied air, and in moments was snoring softly. Lazybones, she thought, gently rubbing the ridges on the back of his head, making him cuddle up against her adorably. We’ll have to remake Lira’s favorite tea table, alright? And the chairs.
+
+Without further ado, she opened her Library Teleport skill, which now showed just the single destination – the spirit realm echo of this library. She pulsed a little mana into her skill to anchor a second library locus to this one, but nothing happened.
+
+That’s weird. She tried again, but the skill refused to take her mana. Before she could investigate further, her chime sounded.
+
+You have entered the Grand Library Arcana. All Learning and Knowledge magic is enhanced by 10%
+
+Moments later, Ali reappeared, this time a short way away where the dragonet had roosted among the dark branches of the enormous tree, and flew back to join her.
+
+“I can’t link to this library,” Ryn said.
+
+“Perhaps it needs books to be a library?” Ali said, glancing about at the disturbingly empty shelves. “I guess this won’t be as quick as I had hoped. I’m not looking forward to copying everything again.”
+
+“Oh, I should have thought of that,” Ryn said. There were a few requirements for her skill to recognize a place as a library – for instance, it had not recognized the old Reading Corner as a library even though it had books. But books were certainly a necessary condition. “And don’t worry too much about recopying, I have my Library Domain, remember? I stashed all the books before I fled.”
+
+With a little flick of her mana, Ryn summoned an entire row of books, placing them neatly on the empty shelf where they belonged, and with just that much, her Library Teleport skill lit up. Before doing anything else, she reclaimed the Grand Library Arcana as a destination for her skill.
+
+I was so worried, Ryn thought, now amused by her simple mistake. “It works now,” she said, cluing Ali in.
+
+“Phew,” Ali said, glancing about at the empty shelves.
+
+“Let me get the rest of the books,” Ryn said, setting to the task of unloading the books in her specialized storage. As more and more books slid into place on their shelves, her Library Domain grew progressively more dense, exerting more and more dominion over the space, until a bright golden light flashed out in the atrium and a flying book suddenly appeared.
+
+“Oh, hi, Clarence,” Ryn said, waving at the animate book, and Bookwyrm immediately raised his head, letting out a high-pitched, tiny roar and then took off to chase his arch-nemesis.
+
+They both shared a chuckle as they watched the antics for a few moments, and then Ryn asked, “What exactly is Clarence?”
+
+“I have no idea. Originally, he was my mother’s book, but he’s become far more than that. Not even Azryet could identify him, and Azryet is a four-mark dragon god,” Ali said, staring at the golden book swooping in circles out over the atrium.
+
+“Azryet?” Ryn asked. “Like, the Azryet? God of Havoc and The actual fricking Calamity? You met him?”
+
+“I did,” said the little Fae, wearing an unreadable expression, as she wielded her mana to fashion new tables and floors to replace the ones lost in the disaster.
+
+“What was he like?” Ryn asked enviously. She had read a lot about the dragon god from the history books, especially since Havok and his little church had gotten established, and she was excited to learn more from a first-hand encounter.
+
+“He almost killed me.”
+
+“You fought him? The dragon god?”
+
+“More like I cowered behind my barrier and swore at him while he tried to breathe me to death with his void magic. I barely survived,” Ali grimaced. “Clarence appeared during a standoff and tried to entice him into playing fetch with him by bringing the severed arm of a Pit Lord. I have no idea how he got it, but that probably saved my life, honestly. Azryet didn’t know what to make of him. Then we got to talking and we mourned Lira together.”
+
+“Ali!” Ryn exclaimed. “I don’t even know where to begin with that story.”
+
+“Me neither,” Ali said. “I just let it be. I survived, and I have no idea how, but it’s related to what I wanted to talk to you about. I may have signed you up for a lot of work without consulting you – I hope you don’t mind.”
+
+“What kind of work?” Ryn said. It sounded ominous, but Ali didn’t seem anxious.
+
+“I made a deal with Azryet. He helped me learn some skills to get me back home, and in exchange, I promised to share our entire library with him. He’s a bit of a scholar on the side, I think.”
+
+“You gave him our whole library for a skill?” Ryn asked. Clearly, context was important, and Ali had been stuck, but that was a rather steep exchange.
+
+“It’s not as bad as it sounds. He offered to share his entire library with us, we just have to copy it all,” Ali said.
+
+“Oh!” Ryn exclaimed. “Does that mean…”
+
+“Yes, I’m planning a trip to visit him again, and I want you to come along this time. You can get his library as a new destination, and I can introduce you to his librarian, Tiraza. When you do research for Lira’s acorn phylactery, I suspect we will need whatever resources he has moldering away in his ancient library.”
+
+“Oh, Ali! Thank you!” Ryn said, swooping over and hugging her in delight. Access to the ancient library of a dragon god? How much better could this day get? “When can we go? Is he polite? Should I sign up at the church? What should I wear?”
+
+“I don’t think he minds either way, I’m not a follower,” Ali said. “I think he just really wants access to any advanced magic and skill ideas that have been developed in the last few millennia since he left the realm. And company – I think he’s been lonely for far too long.”
+
+“I’ll make a list and get the books for you to copy from the Spirit Realm, then,” Ryn said. It wouldn’t hurt to show up with the most impressive offering up front. At that moment, her mana suddenly flared as Library Domain shunted two dozen tomes across from the Spirit Realm, making them swirl around her in a flurry before alighting on the table.
+
+“That’s convenient,” Ali said, quirking an eyebrow at the translucent tomes sitting innocently on the table. “Let me remake the lights quickly, and then I’ll copy all of these.” To Ryn’s surprise, she got a flying shoulder-nudge. “Excited yet?”
+
+“Yes?”
+
+“Wow, I’m totally not convinced.”
+
+“Ali! Seriously, I’m buzzing, or can’t you tell? I nearly hugged your neck off your shoulders.”
+
+“That’s more like the Ryn I know,” Ali smiled.
+
+“You’re such a rascal, do you know that? You just saunter in here all casual and start dropping… well, bombshells for news! I can’t believe you, Ali. Any other world-shaking news you feel like sharing? Anytime?”
+
+“Um, well, there’s a new rift we need to secure and I’m helping rebuild Myrin’s Keep, for starters…”
+
+Ryn let her eyebrows shoot up. “And just when are you planning to leave some time for reading, eh?”
+
+“Ooh. Never mess with a librarian?”
+
+“That’s right!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

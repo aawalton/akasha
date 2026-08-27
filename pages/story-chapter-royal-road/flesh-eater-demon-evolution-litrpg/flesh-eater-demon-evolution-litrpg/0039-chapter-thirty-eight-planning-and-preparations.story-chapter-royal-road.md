@@ -1,0 +1,155 @@
+---
+id: cf11f274-ae8a-565b-a825-0fda3ff66431
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-Eight: Planning and Preparations"
+slug: 0039-chapter-thirty-eight-planning-and-preparations
+partOf: flesh-eater-demon-evolution-litrpg
+position: 39
+ownLength: 2984
+unit: words
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2730004/chapter-thirty-eight-planning-and-preparations"
+royalRoadId: "2730004"
+---
+
+“You’re insane.”
+
+After their brief little trip into Magrath, Pyre and Callan had exited the city and returned to their “camp,” mostly to double check that the blob of excess flesh had melted by now. It had, and there didn’t seem to be any new footprints around the area, so it looked like chucking the detached flesh into water was indeed the way to go.
+
+With that issue resolved, that left Callan hover-pacing everywhere in his transparent state (he was probably too preoccupied to focus on looking opaque right now) and Pyre casually seated on a boulder as she scanned the paper she’d taken from the notice board. The paper that was the current source of the ghost’s stress.
+
+“Look, there’s way too many guards and wards and shit to break in, right? None of that’s gonna be a problem if we get let in.”
+
+“But as guards?” Callan tugged his hair in frustration. “You can’t even stay in that form for longer than four hours!”
+
+“I mean, I can keep the skeleton as long as I want.”
+
+The ghost looked unimpressed. “And everything else?”
+
+In response, Pyre reached into her bag and pulled out one of the many random knick-knacks she’d collected from those guards’ dead bodies: a roll of bandages. She raised it up to the ghost.
+
+“Technically, if I concentrate all the time, I can keep my flesh in this shape. [Flesh Sculpting] just lets me do it passively. But if I wrap a fuck ton of bandages around me while all my flesh’s in the right spot, that’ll keep everything in place. I’d only need to focus on keeping a few parts warped.” Her nose, namely, and probably the rest of her face. Which she didn’t think would be too hard to stay focused on compared to her entire body.
+
+Callan frowned. “So, what, you’re just going to show up at the garrison covered in bandages? That’s extremely suspicious looking. And what if something gets pulled loose and your flesh just falls off your skeleton? Or what if—”
+
+Pyre raised a hand to interrupt the ghost, and he promptly snapped his jaw shut. She raised an eyebrow in amusement.
+
+“I’d still have four hours of [Flesh Sculpting] if I ever need to remove the bandages. And besides, you said humans can also get ichor-warped, right?”
+
+Understanding began to dawn on the ghost’s face, but he still looked hesitant. Clearly it would take some more convincing. “You want to… pretend like you’re ichor-warped?” Callan’s voice was uncertain.
+
+The demon shrugged. “Seems like the easiest way to explain things.” She’d seen for herself how fucked-up those animals and plants in the Fred Zone had been. She hadn’t seen any ichor-warped humans yet, but she figured a bit of vaguely melting flesh was probably not outside the realm of possibility, if those ichor-warped animals were any indication. Not to mention that if someone asked about the bandages and she said it was because of ichor-warping, they’d probably feel like an asshole and leave the topic alone. It sounded like the perfect excuse.
+
+Callan’s jaw moved as he considered the demon’s words. “…What about all your knowledge gaps? You’re not gonna know a lot of things about the continent. Are you going to tell them you have amnesia?”
+
+Pyre had thought about that, but she’d eventually decided that it was probably best to keep that under wraps. Having amnesia would automatically mean her past was mysterious, and that would leave her open to more scrutiny. Some well-meaning sap might try and help her “discover her past,” then accidentally figure out that oops, the ichor-warped amnesiac was actually a demon the whole time. Not ideal.
+
+“That map was huge. There’s gotta be some random remote place I can say I’m from that’ll make sense.”
+
+Callan furrowed his brows. Compared to before, he actually seemed to be seriously considering this plan now. “Well,” he began, “if you say you’re from Drovna by the Shard Mountains, that could work? It’s really remote, and most people’ve never met anyone from that far north. There’s a lot of concentrated ichor up there, too, so that could also explain the ichor-warping…” His voice trailed, and he shook his head. “Hold on, that’s not the point! That poster’s just for the military—you don’t even know if you’ll be able to get a job as a guard from that!”
+
+In response, Pyre flipped the flyer over. There was substantially more text scrawled across the back in tiny letters, a stark contrast to the simple, bold words on the front. She tapped a particular paragraph near the bottom of the page.
+
+“See here? ‘Completion of training includes standard Auren guard and bodyguard certification. Though we encourage everyone to remain in the garrison, we understand that cadets may have different strengths and goals. Our instructors will provide recommendations for future paths after completion of basic training.’” She moved her finger to another bit of tiny text. “‘Please note: as the primary sponsor of this initiative, Lord Bellhein may observe a few training sessions.’”
+
+Callan frowned as the implications of those lines sunk in. They seemed fairly innocuous at a glance, but combined, it wasn’t a stretch to assume that the Bellheins were planning on siphoning away some of the top talent to join the manor’s guards rather than the military.
+
+The garrison’s goal was to recruit more people, so the note about “guard paths” felt out of place—unless they’d put it in so the Bellheins wouldn’t get in legal trouble when they pulled some cadets in to work as guards. And since the family was also putting a lot of money into the garrison, they weren’t going to say anything about it despite clearly being desperate for more soldiers.
+
+The ghost seemed to pick up on this too, and his lips thinned.
+
+“…Nobles will be nobles, I guess,” he muttered. He shook his head. “You think you’ll be one of the ones ‘recommended,’ though?”
+
+Pyre snorted. “Dude. Anyone with a base class can join the qualification round. I don’t think it’s gonna be hard to stand out.” That did lead the demon to her own main concern, though, which was the one thing stopping her from immediately jumping on this plan.
+
+“Hey, can other people see your stat sheet? Could someone pull up my species or something?” If they could, then this wasn’t going to work.
+
+Callan shook his head. “You can only view your own status screen and system notifications. There’s no way to see other people’s. There’re records of classes and the skills associated with them, though, so sometimes you’ll be asked to use skills to prove your class is really what you say it is. Same with professions. There’s a whole certification process some jobs require, but I don’t think the garrison will need that since they’re just asking for a base class. And you already know there’re spells that can tell species apart, but we have the charms for those.”
+
+Huh, interesting. She did have a totally normal, not obviously demonic class, so it shouldn’t be a problem if there did end up being something like that during the qualification exams. It sounded like a pretty shoddy system overall, though. There had to be hundreds of skills with similar effects. Faking a class really didn’t seem all that difficult.
+
+Callan seemed to sense what she was thinking. “It’s… definitely not perfect,” he said sheepishly. “Uh, that’s kind of why places have those alarm spells everywhere. Without them, there’s really no way to tell who’s a monster or not.”
+
+And even those spells could be bypassed with charms and other magic. Damn, no wonder the humans in Tivona’s memories had been so paranoid.
+
+“Alright, guess I’ll just have to be careful.” Pyre squinted down at the page again, taking note of the time and locations listed for the qualification rounds. There was one tomorrow afternoon at the garrison, which was nice. She wouldn’t have to wait around for long.
+
+“…You’re really doing this.” Callan sounded less questioning and more resigned at this point. Pyre raised an eyebrow.
+
+“Unless you’ve got a better idea, yeah. And I don’t think you do.” She’d heard enough of his musings to know that. Sure this plan had a fuck ton of holes and places it could go wrong, but so did every other option. Frankly—shoddy as it was—this was the most likely to succeed, funny as that was to think about.
+
+“We can find someplace closer to the garrison to set up camp, and you can wait there during the day. Go explore the city or something. There’s probably a ton of cool shit around. Maybe hit up a library or two.”
+
+Callan did look tempted at that, to Pyre’s amusement. The kid was probably itching to do more magic research, and this would give him a good chunk of time to pretty much do whatever he wanted while the demon was away. He pursed his lips.
+
+“For the record, I still think this is a terrible idea,” he began. He took a deep breath. “But you’re right. It’s probably the only real chance we’ve got.”
+
+The demon grinned. “Knew you’d see things my way, kid.”
+
+“But,” Callan continued, “if you’re really doing this, we’re going to need to do a lot of preparation first.”
+
+“Preparation,” it turned out, mostly involved a lot of shopping for whatever basic supplies Callan thought she’d need to have to avoid looking insanely suspicious.
+
+Pyre still had a fuck ton of money from all those guards, so the new, better fitting clothes weren’t a big damper on her wallet. She’d used the opportunity to buy three more class crystals as well, which was more expensive, but it wouldn’t be hard to get more coins if she ever ran out.
+
+“You’ll need a weapon, too,” Callan said. “No way you’d be able to travel so far without one.”
+
+They’d returned to the city while Pyre’s [Flesh Sculpting] was still active, so they’d been rushing to buy everything. Funnily enough, being in such a hurry actually made them blend in better with the residents of Magrath, and it left less time open for a random shopkeeper to try and start a conversation with them.
+
+The demon hummed, absently adjusting her new coat—blue, fairly plain, and it actually fit her—then reached into her bag.
+
+“This good enough?” She raised the dagger she’d lifted from one of the guard corpses just high enough for Callan to see before dropping it back into her bag and closing it again. Somehow she didn’t think having a blade out in the open in the middle of a city crawling with guards and soldiers was a very good idea.
+
+Callan frowned. “I guess it works,” he said reluctantly. “The garrison should issue weapons once training starts.”
+
+“Cool,” Pyre said, and that was that.
+
+After their impromptu shopping trip, they had to find a place closer to the garrison to “set up camp.” Since the base was located by the mountains and absolutely huge, this just meant finding a patch of forest bordering it. Callan was adamant about Pyre keeping him updated throughout her “garrison excursion,” which would be a lot easier to do if they had a designated meeting spot closer to the base.
+
+Now that they’d returned to the familiar quiet of the woods, albeit a different patch of them, they moved onto the last step of “preparations.” Aka, Callan drilling Pyre on every “obvious” detail about the world that he thought was relevant. Which was a lot.
+
+Frankly, most of it was too general for the demon to find it all that useful (she could’ve guessed the general climates and terrains of the countries from the map alone), but she did learn a few interesting tidbits. Apparently there’d been a country south of the Tavrell Empire called Dunric, for example, which the empire had invaded and conquered over a decade ago as the new emperor’s first big fuck you to the continent. That was probably something she should know.
+
+The big Solis Alliance on the map, too, had apparently been formed in response to this takeover, and it was one of the reasons the empire had decided to turn their efforts east instead of continuing to expand further south. It sounded like they were pretty much the second major superpower of the continent.
+
+Other “important information” included rapid general facts about the countries so Pyre wouldn’t be completely lost when they were brought up. Like the fact that Rhisor had the most prestigious magic academy on the continent and was home to generations of powerful mages (this was a fact that Callan seemed particularly excited to share) or that Lorrien was basically all trees and had a fuck ton of fae living there.
+
+Most of all, Callan dedicated a good chunk of time to talking about Drovna, her “country of origin” according to her official cover story.
+
+“It’s really cold there,” the ghost was saying. “Most of the human population is concentrated in the south, below the Shard Mountains and the Silver Peaks.” He pointed at the map, moving a translucent finger to outline what he was talking about. “There used to be a larger city on the Wing, too, but it was wiped out two decades ago.”
+
+Pyre raised an eyebrow. “What happened?”
+
+Callan winced. “Demon attack. There’s, uh, there’s still some smaller settlements there, but it’s nothing like before.” He coughed and continued.
+
+“Anyway, there’s a few villages up by the Shard Mountains. Beyond that, the weather gets so bad that no one really goes further north. Or, well, if it was just the weather it might be okay. The bigger problem is the amount of concentrated ichor. The Old Country’s completely saturated with the stuff, and the Footprints aren’t much better. You basically can’t enter those regions without immediately succumbing to ichor-poisoning.”
+
+Ah, there was her good old excuse for all the bandages. A remote, far north village really did seem like the perfect cover story.
+
+“Why’s there so much ichor up there anyway?” Pyre asked. Callan frowned.
+
+“We don’t know for sure, to be honest. I mean, no one’s been able to travel to the Old Country and return. But it’s theorized that there’s a graveyard of titan corpses up there. If you think about it, there’s not nearly enough corpses across the continent to account for all the ancient demons and angels. Some of them probably sank into the ocean, but it’s likely that the other ones are up north. That’s why there’s so much ichor there—it might even explain how extreme the weather is.” His eyes sparkled as he spoke. This was clearly a topic he was passionate about.
+
+“Huh, interesting.” Pyre leaned forward and tapped a random spot within the Shard Mountains. “Guess this is my new home,” she joked.
+
+Callan smiled wryly. “I guess so.” He hovered back from the map. “Just so you know, ichor-poisoning’s the same thing as ichor-warping. Some people call it the first one since, well, it shortens your lifespan, and some people suffer from it without showing visual signs. It varies a lot from person to person.”
+
+“Ah, so I’ll get a bunch of pity points. Cool.”
+
+The ghost winced. “I mean, probably? It could be the reason you left Drovna. Auren does get a good amount of travelers, including people who want to help fight against the empire. Drovna’s historically had a lot of clashes with the empire anyway, so it shouldn’t be too much of a stretch for you to want to join the garrison.”
+
+Callan had spent a good chunk of time stressing over the details of her backstory, but the demon was much more lax about the whole situation. She figured she could wing it if some random unexpected question came up—too much planning could feel unnatural, anyway. A few small contradictions here and there would probably just make her seem even more “authentically human.”
+
+Pyre rolled up the map and plopped it back into her bag. Her new bag, to be precise. She’d tossed it around a few times along with her new clothes to make them look more weathered and fitting for a traveler. It was still noticeably nicer than the old one she’d been hauling around, though. Much easier to carry things in.
+
+As another “blending in” tactic, she was currently caking mud onto her boots and then poorly brushing it off before adding some scratches and scuffs with a sharp bone. Honestly, she thought it looked pretty convincing.
+
+All that was left was to see if those bandages would actually hold her flesh in place enough for a bit of ichor-warping to work as an excuse.
+
+Pyre absorbed her little bone pick and reached for the roll of bandages. [Flesh Sculpting] would run out soon, so it was best to do this now while all her flesh was still shaped and in the right spots. She removed her outer coat, then rolled up her plain inner shirt’s sleeves. Carefully, she began to wrap the bandages around her arm, being sure to keep them tight enough that her flesh wouldn’t melt through them later or something. When she was done, she gave the bandages a final tug, then released her skill.
+
+All around her skeleton, her flesh began to droop away from her bones, becoming a shapeless mass once more. The wrapped arm, however, stayed put. Pyre bent it experimentally. The bandages held the flesh firmly in place.
+
+She grinned, and Callan released a breath. She couldn’t tell if the ghost was relieved that the bandages had worked or if he’d been secretly hoping that they didn’t so they wouldn’t have to go through with this plan. Probably a mix of both. Either way, it didn’t matter now.
+
+“Well,” the demon said, waving the bandaged arm around. “Looks like I’m ready to join the garrison.”

@@ -1,0 +1,183 @@
+---
+id: 34ac0a4b-025c-5009-9db6-1385965c0611
+page-type-slug: story-chapter-royal-road
+title: "Chapter 269: Evolution"
+slug: 0302-chapter-269-evolution
+partOf: dungeon-of-knowledge-complete
+position: 302
+ownLength: 2559
+unit: words
+ownProgress: 2559
+publishedAt: 2025-06-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2332526/chapter-269-evolution"
+royalRoadId: "2332526"
+markedReadAt: "2026-06-29T20:21:30.607Z"
+---
+
+Ali landed in the small grove, amazed to see just how much bigger the shrine had grown. It towered above the mossy ground and the little meandering stone path, reaching as high as some of her smaller trees, spreading a familiar glow around the grove from the runes that adorned its surface and the potent magic that flowed through them.
+
+Shrine of the Ancient GroveAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: Aliandra AmarielMana Siphon (Active).Mana: Unlock class experience.Mana: Unlock or enhance latent magical affinities.Mana: Unlock alternate classes.Mana: Class evolution.Owner’s Mana: Recharge the shrine’s mana reserve. 3,246,250/3,246,250Shrine – Artifact
+
+Her friends clustered around, curious and supportive. Even Lira had come, traveling via the trees to be with her.
+
+“Good luck, Ali,” Malika said, squeezing her hand.
+
+“I suggest getting something powerful,” Val’korr said. “There is no way the Blind Lich missed your mother’s mana within you.”
+
+Ali nodded; she hadn’t forgotten Nevyn Eld’s surprise at her barriers. They had done far more though, the Blind Lich had suffered a defeat at their hands, losing his grand array and even losing his Avatar.
+
+Suddenly, Clarence appeared in an ostentatious burst of golden sparks, swooped around Ali’s head several times and then settled down, hovering beside her right shoulder as if he were ready to provide moral support.
+
+Seeing no further reasons to procrastinate, she walked up to the shrine, placed her hand on it, and poured a little of her mana into the class evolution option.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 2,000,000
+
+Gathering Authority based on your actions, achievements, titles, reputation, and influence.
+
+Ali gasped, her breath catching in her throat as something essential was drawn from her by the shrine. It was not painful or unpleasant, as such. Disconcerting would be a far better description for the brilliant threads of color and energy that flowed from her, drawn from her body and into the shrine. Several minutes passed, and then the shrine blazed with sudden radiance.
+
++49 Authority.You may buy 10 attribute points per Authority point.9 paths have been found.
+
+Ali paused and took a deep breath to steady herself. “Uh, I have forty-nine Authority and nine paths. What exactly is Authority?” Her mother had used that term. She recalled struggling to understand the concept when she had studied her mother’s book looking for ways to transmute mana affinities, although she had gathered it was something important in the understanding of magic.
+
+“Aah, yes,” Val’korr said at once. “The Dal’mohran scholars used that word for it. The humans call it ‘Divine Mana’. Idiots. We Trolls have always referred to it as Primordial Magic – the source of power, magic, skills, in fact, everything.”
+
+“How does it work?” Ali asked, her eyes widening. She could almost taste the insight and understanding the ancient sage was about to dispense.
+
+“I don’t know,” Val’korr said.
+
+“What?”
+
+“I don’t know,” he repeated. “All I know is that it is inherently potent, but also unstable. It is supposed to be the foundational energy of reputation, experience, mana, stamina, and everything related to skills. Our classes are far too weak to use any of it directly and it must be transformed into the more stable, lesser forms such as mana to be useful. This is why a shrine is required to manipulate it.”
+
+“I was hoping for… more insight,” Ali said, disappointed. However, it was something. Presumably, this energy was powerful enough to modify her class, and it must be somehow related to how experience and traits worked to unlock advancement.
+
+“I’m sorry,” Val’korr said, shrugging. “This is highly advanced class theory – I would have asked your mother. Lirasia, do you know more?”
+
+“Just that it is likely to be the domain of deity,” she answered cryptically. But it did make some sense, given what Ali’s friends had mentioned about earning reputation for their patrons.
+
+“Clarence, do you have any information on Authority?” Ali asked, and then held her breath as he spun about and riffled through pages, but she sighed at the sight of the chapter he offered – one she had already studied at length without gaining much understanding.
+
+“For the purpose of your evolution, consider your Authority as points you can spend to buy nodes along your paths,” Val’korr said, finally coming up with something useful. “You can take as many paths as you want, but you must spend all your Authority.”
+
+“I can also buy attribute points,” Ali said. One level’s worth per Authority.
+
+“Yes, but it is through the paths that you will gain the most important improvements,” Val’korr explained.
+
+“Ok, let’s see what paths I got,” Ali said and brought them up.
+
+Arcane ScholarYou have restored the ancient Grand Library Arcana and opened its doors to those seeking to learn. Using the knowledge contained within, you have constantly sought grand and ancient runes and magic to further your studies. You have granted classes to many, taught language, sought to grow adventurers within your domain, and even taken two protégés under your wing. Devote yourself fully to the pursuit of knowledge, study, teaching, and research, taking full advantage of your magical library to help teach and spread what you know far and wide.Traits: Arcane, Intelligence, Knowledge, (-Combat)Path Length: 5Reachable Nodes:+10% spell power to Knowledge magic. Cost: 1+10% spell power to Arcane magic. Cost: 1Quality: UncommonPath – Keystone
+
+“Wow,” she said, and upon noticing the politely curious looks, she shared the first path she had been offered. Pulling from her heavy class investment in arcane magic, intelligence, and knowledge, she was being offered a keystone path for an arcane scholar.
+
+“Be cautious with this one,” Val’korr said. “Observe that it removes your combat traits.”
+
+“Oh,” she said, the path suddenly appearing much less attractive. “Is this a path to transition to a non-combat class then?”
+
+“It would seem so,” he answered. “If you spend a point on such a path, that trait will be removed from your class and all your combat skills will become inaccessible to you, requiring you to replace them with other compatible skills.”
+
+“Good to know,” Ali said, setting it aside. Without her barrier skill and her combat minions, she would have no way to defend herself against Nevyn Eld and his servants. She opened the next path.
+
+Arcane MageFuel your quest for more damage in combat with additional arcane spell power and new arcane combat skills.Traits: Arcane, Intelligence, (-Nature)Path Length: 7Reachable Nodes:+7% spell power to Arcane magic. Cost: 1+7 Intelligence. Cost: 1Quality: CommonPath – Trait
+
+She shared it with everyone too, but now, having seen how the traits worked, it was clear that this was taking her down the path of a specialist arcane mage – and she would need to give up her nature affinity if she wanted to pursue it. Nature was a core part of her heritage, and even her self-identity – she did not want to give it up, even for greater power.
+
+Next.
+
+ArcanistImproves your proficiency in Arcane magic.Traits: Arcane, IntelligencePath Length: 4Reachable Nodes:+5% spell power to Arcane magic. Cost: 1Quality: CommonPath – Affinity
+
+“This might work,” she said. A simple path with four nodes that would improve her arcane magic. It wasn’t nearly as impressive-looking as the first two, but she wouldn’t need to give up anything important to her. As of now, every single skill used her Arcane affinity, so it might be quite a substantial gain. Save it for later. That was just the third one.
+
+Rune ShaperYour proficiency in Runic Script and the languages of magic, and your relentless pursuit of studying formations has opened the path of the Rune Shaper. Hang up your swords and wands, instead turning your efforts to the creation of marvelous artifacts and the study of runic magic.Traits: Knowledge, Intelligence, Crafting, (-Combat)Path Length: 4Reachable Nodes:+15% spell power to Knowledge magic. Cost: 1+10 Intelligence. Cost: 1Quality: MagicalPath – Keystone
+
+“Another non-combat path,” she said, working her way through the list. Rune Shaper sounded interesting mainly because she loved rune magic. Likely this had been offered because of all her runic circles, the study of the runic arrays in Aman Rak, and the troll runic tattoos, but she wasn’t willing to give up her combat abilities quite yet.
+
+NecromancerYou have deconstructed hundreds of the undead and explored the nature of death-affinity magic through your Protégé. Develop a personal affinity with death magic, allowing you to summon the undead. The Necromancer path provides death affinity and access to new summoning skills.Traits: Intelligence, Minion, Death, (-Nature)Path Length: 11Reachable Nodes:+15% to minion vitality. Cost: 1+15% to minion attack speed. Cost: 1+15 Intelligence. Cost: 1Quality: MagicalPath – Affinity
+
+“Oh dear,” she said and shared Necromancer. “Is this why they say to be careful about picking your mentors and protégés?”
+
+“You have a necromancer as a protégé?” Val’korr asked, shock appearing on his face.
+
+“Yes, but he’s very sweet,” Ali answered, ignoring his sudden spluttering consternation, already moving on to the next path.
+
+Mana Sage
+
+Improve your skills for manipulating mana and increasing your mana pool.Traits: Intelligence, Wisdom, Knowledge, Mana.Path Length: 7Reachable Nodes:+25% to mana regeneration. Cost: 1Quality: MagicalPath – Trait
+
+Hmm, ok, she thought. Again, nothing that sounded quite so spectacular as some of the earlier options, but something she wouldn’t hate putting points into.
+
+Rune SageKnowledge is power – and you are ever hungry to learn more. Increase your proficiency in scholarly endeavors, knowledge skills, and runic magic. Traits: Intelligence, Knowledge.Path Length: 5Reachable Nodes:+10% spell power to Knowledge magic. Cost: 1Quality: UncommonPath – Trait
+
+“This seems like another possible candidate,” she said, sharing it and watching Calen writing furiously in his notebook. An option for runic magic that didn’t require her to become a non-combat class.
+
+What else?
+
+SummonerYour commitment to nature magic, and the summoning of minions for combat, has led you to even sacrifice your own personal attack skills. Now take your minions to the next level. Traits: Minion, NaturePath Length: 7Reachable Nodes:+10% spell haste to Minion skills. Cost: 1+20% to minion stamina regeneration. Cost: 1Quality: UncommonPath – Affinity
+
+“Something for my minions?” Ali studied the path of the summoner for a moment, noticing that it was attributed as an affinity path for some reason. But it had two traits – one for the nature affinity, and one for minions, so it seemed it would likely benefit both. This one seems to have potential.
+
+Domain EfficiencyYou have studied numerous domains, understood their structure, and even manipulated the shape of your own. You have studied the efficiency of magic, now improve the efficiency of your domain.Traits: Domain, ManaPath Length: 2Reachable Nodes:+20% domain mana. Cost: 1Quality: MagicalPath – Trait
+
+“The last one looks pretty easy,” she said. “Something to improve my domain mana.”
+
+Ali took out a pen and wrote down the paths that didn’t require her to sacrifice anything – she was not about to give up her combat abilities and she had no intention of becoming a Necromancer.
+
+Arcanist (Affinity)Mana Sage (Trait)Rune Sage (Trait)Summoner (Affinity)Domain Efficiency (Trait)
+
+“No keystone paths,” Ali said, a little disappointed; to gain the most powerful paths it seemed she would have to sacrifice something important.
+
+“You have a lot of points compared to the lengths of all those paths and the costs we’ve seen so far,” Calen said.
+
+“Don’t forget what the book told you,” Val’korr said. “Once you take a path, it might remove paths or add new ones.”
+
+“So, what do I do? Just pick a path that I’m most certain of and re-evaluate later?” Ali asked.
+
+“That is a good strategy,” Val’korr said. “But don’t wait too long to take the ones you want the most, because they might be withdrawn. It’s best to have a good idea of what your priorities are.”
+
+“Hmm,” Ali said. “Well, I love studying and learning, so Knowledge. Also, my minions are a core part of my dungeon and my combat strategy – everything really. I want something to boost my runic magic. I love teleportation and mana sight, and I wouldn’t say no to a better way to fly.”
+
+“That’s a lot, Ali,” Malika said.
+
+“Oh, and I think I need some abilities that improve my defenses and combat abilities – those Death Knights are hard to beat, and I’m sure we’re going to see more of them.” This one needed to be her highest priority; she just didn’t know what she could afford to sacrifice if it came down to it.
+
+“Don’t jinx us,” Mato said.
+
+“Ok, I think I’m going to start with Domain Efficiency,” Ali said. There was a lot on her list, and it was hard to sort them. Likely she would be forced to make some difficult choices. At least this first one was the easiest pick for her – and the cheapest. She selected the path and spent her first point, still mulling over her list and what would come out on top if she needed to make tradeoffs.
+
+[Domain Efficiency 1/2] Your Domain aptitude gains +20% domain mana.
+
+That easy? It seemed a little anticlimactic, she spent a point and got a notification. All the pent-up anxiety began to fade, replaced with a growing excitement. Twenty percent more mana from her domain contribution would be an amazing boon – she had struggled with mana often and being able to leverage her domain better would mean more minions, and bosses to defend her dungeon and help her friends. Better defenses. Yes.
+
+With a thought, she called up her aptitudes and examined the one for her Domain, finding that, as expected, it had increased.
+
+Domain (Class): Your mana increases with the size of your domain, up to +120%.
+
+“Well, that’s nice,” Ali said, sharing the change. “My domain mana became more efficient.” She had studied mana efficiency in depth from her mother’s book and she was rather excited to see how her domain would change once the path effects were applied. “I guess I’ll just finish it off then.”
+
+“Check the path for changes before you spend the second point,” Val’korr cautioned.
+
+“It can change?” Ali asked.
+
+“Each step along the path can reveal more or different options. Think about it like crossing a river, once you step on a stepping stone, further ones become reachable,” he said.
+
+“Ok,” Ali said, getting the strong impression that he had given that lecture more times than she could imagine. She called up the description for Domain Efficiency again and immediately noticed the changes.
+
+Domain EfficiencyYou have studied numerous domains, understood their structure, and even manipulated the shape of your own. You have studied the efficiency of magic, now improve the efficiency of your domain.Traits: Domain, ManaPath Length: 1Reachable Nodes:+30% domain mana. Cost: 1Quality: MagicalPath – Trait
+
+“The path length is shorter, and I can reach a thirty percent node from here,” Ali said, sharing it again while she tried to familiarize herself with the terminology from the paths and Val’korr’s book.
+
+“This is a common pattern for simple paths like this one,” Val’korr agreed. “It offers only one reachable node, but each step can build on the previous one like you see here.”
+
+“Ok, sounds simple enough,” Ali said, dropping a second point into Domain Efficiency.
+
+[Domain Efficiency 2/2] Your Domain aptitude gains +30% domain mana. Domain Efficiency path completed.47 Authority remaining.
+
+Ok, this is pretty straightforward. What’s next?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

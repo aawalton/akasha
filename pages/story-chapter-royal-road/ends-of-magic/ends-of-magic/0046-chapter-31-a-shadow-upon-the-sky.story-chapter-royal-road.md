@@ -1,0 +1,223 @@
+---
+id: ca6e406f-db56-5235-8835-9f2ba756dd1c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31:  A Shadow Upon the Sky"
+slug: 0046-chapter-31-a-shadow-upon-the-sky
+partOf: ends-of-magic
+position: 46
+ownLength: 2739
+unit: words
+ownProgress: 2739
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2768294/chapter-31-a-shadow-upon-the-sky"
+royalRoadId: "2768294"
+markedReadAt: "2026-06-29T20:08:44.389Z"
+---
+
+“Mental effect!” Nathan yelled, struggling to make his voice heard over the continuing roar of the Grave Tangles all around them. He was right next to the Heirs, but he yelled as loudly as possible to ensure they could all hear him. “This won’t last forever! Guards up!”
+
+In the meantime, he tried to isolate the magical fear from the intensity of the death magic that surrounded them. It was like staring into the sun, but the effect he was looking for was quite distinct from what was coming off the Grave Tangles. It was associated with wizardry in a new way he hadn’t felt before. If anything, it was closer to a dark mirror of divinity. As soon as he understood what was going on, he was able to partially nullify the effect, allowing the Heirs to shake themselves loose of its grip.
+
+It was a powerful piece of magic, and Nathan traced it outside the bubble of holy mana that protected the Heirs to an innocuous patch of darkness. He was momentarily confused before realizing there was another piece of wizardry active, and antimemetic effect. He burned Focus to pierce his senses into the patch of insidious darkness. It was slowly reaching towards them, untethered from any material anchor. To Nathan it felt like the fire elemental he’d faced, but with death mana instead of fire.
+
+The obvious approach was to use his aura to drill into the aether and kill it, but he hesitated. That would reveal his most potent ability, and likely betray that they could fix the Seal. Killing this death elemental with it would be tipping his hand. It took him a moment to think of another way, which was as simple as figuring out which of the named monsters this corresponded to.
+
+It’s a living shadow. And how do you kill shadows?
+
+“Khachi. Light! Bright as you can. Now.” Nathan spoke with deadly urgency.
+
+The wolfman didn’t hesitate. His divinity kindled, and he conjured a magical shield and hammer from his new bracers, banging them together. “I call the light, to illuminate the foe! Let the brightness of my soul be exposed and banish the darkness!” He put everything into the prayer, channeling the full weight of his power in ways he hadn't until this point. The resulting tide of brightness made every other flash of light Khachi had made pale in comparison.
+
+The effect was immediate, like switching on the floodlights at midnight. The dissipating aura of the Grave Tangles was burned away in moments, and the gloom that cloaked the battlefield went with it. The form of the death elemental - or living shadow - was revealed as a jagged slash of featureless darkness. It looked like a reaching hand of jagged darkness that was so black it appeared two-dimensional. It had almost enclosed them in its giant grip, but jerked in the sudden outpouring of light before disintegrating into fragments of magic with a hissing scream. The scraps of darkness dissipated like ash from a bonfire.
+
+That revealed more shadows stalking them from all directions, visible as impossibly black patches on the ground and in the sky. They fled from the light, but every part of them that was illuminated by Khachi’s magic was utterly destroyed. Nathan scanned around, and he could still feel the shadows hiding underground or on the far side of the mountains. But they were severely weakened, and of the two dozen he’d seen in the first instant of light, only six remained.
+
+“Good. Let’s move.” He spoke into the sudden silence that followed Khachi’s spell. The strike of a Grave Tangle punctuated his words, the heavy blow caught by one of Stella’s shields. The Heirs set off quickly, moving through the last set of peaks. The capability to see their enemies made all the difference in their confidence and speed, and Nathan cracked a joke about it. “The only thing scarier than a Grave Tangle facing you down is a Grave Tangle you can’t see hitting you from the darkness.”
+
+“I think whatever those things were is the greater terror,” Aarl replied dryly. “Hear me, I have mental protection skills, why aren’t they carrying this burden?”
+
+Sarah’s voice was similarly annoyed. “Without our skills, we would have panicked and run. These are strong foes, and a single skill of middling tier cannot challenge that. Did you achieve any ranks in the skill?”
+
+Aarl grunted, bashing aside a whipcrack tentacle with the gigantic magical club. “True aim. I did.”
+
+Then they were through, moving away from the series of tall, pillar-like peaks. A few more strikes lashed out at them, but they were easily deflected by the magic that surrounded the Heirs. With the gloom burnt away by Khachi’s magic, it was obvious the mountains were unnatural. They stood like a fence of rocky spikes in the path of anybody who wanted to penetrate deeper into the continent. Nathan wondered if it predated the blight or was a product of it. He probably could have figured it out by studying the compositions, but there was no good reason to stop and a lot of good reasons not to.
+
+The landscape beyond the mountains resembled a jagged maze of ridges and deltas, shaped by rain and darker forces into a place that would be a nightmare to traverse on foot. To Nathan’s eyes it looked deserted, but his magical senses told another story. Living shadows dwelt in crevices and behind the ridges, hiding from the light that Khachi brought with him.
+
+He informed the Heirs of his findings. “We need to keep going. There are more living shadows hiding down there.”
+
+Khachi grunted his agreement, though he wasn’t at his peak. None of them were, except Nathan. He’d spent some Focus to get on top of the fear effect from the shadows, but with the Grave Tangles’ roars he was capped on Stamina and would be for a little while.
+
+They moved across the landscape for a little while, dropping closer to the tops of the maze in case they needed cover. The shadows followed them, keeping behind ridges and under the ground. Without Khachi blasting his light at full strength, the murky darkness closed back in around them. The ambient death mana caused a dark fog to spontaneously generate and push in against the bubble of magic and antimagic that surrounded the Heirs.
+
+“It’s nighttime,” Sarah said, looking up towards the sky. Nothing had obviously changed, but if they were still trying to keep their sleep cycles up, it would be time to rest. The landscape around them still appeared to be a desolate and empty labyrinth of dark rock, but Nathan could feel the shadows still out there, keeping pace.
+
+“The shadows are still there. If we stop, they’ll close in.” He looked around, thinking. “They’re not seeing with their eyes. Khachi, can you send your magic out ahead as a decoy?”
+
+“They’ll still detect our magic,” Stella protested, tapping her staff and gesturing around at all of the magical items the rest of the Heirs were festooned with.
+
+“I think I can block that,” Nathan replied. “And if I can’t, then we’ll be able to tell they’re not fooled and we’ll think of something else.” He glanced back towards Khachi, waiting for a reply.
+
+The wolfman was pensive. “I can hit that target. If there is an enemy I am attacking with my light.” His words didn’t carry any special emphasis, but Nathan caught the request regardless.
+
+“There’s a living shadow that way, blocking our path,” he said, pointing almost directly ahead. It was even true, though the enemy in question was hiding underground and below the angle of his pointing finger. “Far, beyond easy sight.”
+
+Sarah squinted in that direction, opened her mouth, then closing it with a snap.
+
+Khachi nodded gravely. “Then I shall strike it down.” He bowed his head for a second and incanted a quiet prayer. “... and cast righteous light upon the enemy.” He released the mana, and a ball of radiance flew forward into the darkness like a tiny sun. It moved about as fast as the Heirs had been moving, casting its light in all directions.
+
+Meanwhile, Khachi’s own radiance dimmed, and Nathan assisted it by absorbing any of the magical light that escaped Khachi’s body. He also did his best to absorb the magical emanations of the rest of the Heirs. It wasn’t challenging, but it took a level of mental discipline to shield the magical signatures from escaping his bubble of antimagic without interfering with their sources.
+
+The living shadows moved off in pursuit of Khachi’s spell, which was still visible as a faint light in the distance. It was like looking at a bright light underwater, rippling occasionally as the gloom burnt away. Nathan spoke quietly. “We’re good. Time to hide. Stella?”
+
+She pointed down and to the side, towards a sheer cliff of stone. They moved towards it, and she carved out a cave for them with earth mana. As they did, it was revealed that only the first foot or so of the rock was blackened. The stone underneath was a rich reddish orange. That made Nathan imagine what the landscape would be like in its true colors. It would be gorgeous, a landscape of twisting rock and arches of red stone. But instead, the blight had turned it into black-on-black desolation.
+
+The Heirs entered Stella’s hidey hole, which led much deeper into the rock than usual. Once they were inside, she sealed them in, leaving several airholes. “I’ve got some oxygen in a dimensional jar if we need it,” she said, pulling out the ceramic object and pulling a tiny stopper out of a hole.
+
+Aarl looked around at the small space with pursed lips, then nodded. “It’ll serve. Nathan, can you carry the weight of our cooking enchantments?”
+
+“I can.” Nathan sat, crossing his legs in front of him. Truth be told, he could probably handle more than that, but there wasn’t any point in pushing himself. He was going to have to keep up this particular mental exercise overnight, and he wasn’t sure he’d be able to sleep.
+
+The food and company were a welcome reprieve from the bleak world outside, a reminder that the blight was only temporary. They'd only been here for a couple of days, but it felt much longer.
+
+Nathan volunteered to keep watch while the Heirs rested. He assumed that he wouldn’t be able to sleep at all. Khachi retired to meditate in a slow lightshow, but only after securing a promise that Nathan would alert the wolfman if he managed to figure out how to maintain their protection while asleep.
+
+Nathan did try, easing his attention to see if his aura would block the magical signatures on his own. Unfortunately, it appeared to be an imperfect solution, and he considered the experiment a failure after one of the living shadows showed up to poke around. It was thankfully looking in the wrong direction, but the episode left Nathan convinced that it wasn’t worth the risk. With the combination of Focus and Stamina on top of his bodily enhancements, he’d be fine for a few days without sleep.
+
+Holding his aura was easy, but just like holding a light weight for a long time, it became taxing. After several hours, Nathan found himself straining and tried various things to ease the burden. Eventually, he settled on rotating out different “layers” of his aura and enclosing them in a hollow bubble that blocked all magical signals, instead of trying to exempt the Heirs’ magic from his inner bubble but not the outer.
+
+The Heirs woke the next morning and quickly made ready for yet another day travelling through the blight.
+
+“I wonder what fresh ghoul we’ll face today,” Aarl mused aloud.
+
+Nathan’s imagination had been free to run wild over the night, but he kept his more elaborate worries inside and only answered with what he knew. “We’ve seen living shadows, but the other two things named were flesh tyrants and obelisks of bone. We don’t know what those are. All we can do is be on the lookout.”
+
+“If I see something that can be reasonably described as a flesh tyrant, I’m doing more than lighting it on fire,” Stella replied. “Hear me, that name is not a kind one.”
+
+“I’ll see it first,” Sarah said humorlessly. “There are dozens of new monsters out there, but most are limited to the ground. I worry more about the obelisks of bone. Their danger isn’t obvious, and I have not seen them.”
+
+Khachi grunted. “I cannot illuminate these questions. But in my meditations, I had an inspiration for a new prayer.” He stepped to the edge of their little cavern and raised his arms.
+
+Nathan released his aura with a grunt of relief, not confident in his ability to hide a prayer without messing up the magic.
+
+Khachi's words were slow and solemn, but Davrar reacted just as it had for the more dramatic prayers. “The dawn rises within me. The darkened sky cannot hide the light within. My spirit shines with nourishing light to see us through the shadowed night.” Divinity suffused the space, and divine mana sprang from the Aether. It thrummed in time to Khachi's words, then suffused the Heirs. They all sighed with contentment, though for Nathan that was releasing a burden rather than receiving a blessing.
+
+“What does it do?” Sarah asked, looking down at her arms as if she could see a visible difference.
+
+Khachi was looking at something nobody else could see, almost certainly a notification from Davrar. “My Insight carries the weight I hoped for. It will keep us all alert and rested until the blessing expires, which will be at least a day.”
+
+Aarl looked around the small cavern. “No more camping, then. Not until we’re done.” He sounded a bit forlorn. "Breakfast?"
+
+Stella opened her mouth to say something snarky, but Nathan cut her off with a raised hand. “I dropped the protections to let the blessing settle. We need to move, now.” He said it urgently, since he was able to feel a living shadow at the edge of his detection radius. It wasn’t sprinting towards them, but it was slinking in their direction.
+
+The Heirs took the warning to heart, and less than a minute later, Stella opened a tunnel back to the surface. They burst out into the shadowed landscape, ready for a fight, and found none. Khachi’s light grew brighter in opposition to the oppressive darkness, and Nathan could see that virtually nothing had changed in the landscape around them. The bleak labyrinth of ridges stretched off into the distance in all directions. The light didn’t reach far enough to expose the mountains they’d passed through yesterday.
+
+Nathan frowned, suddenly unsure which direction was correct. He thought he could detect a slow movement in the corrupted mana, and it seemed like an obvious assumption that the Seal was the source of it all.
+
+Sarah validated his guess by pointing in the same direction. “That way.”
+
+“What does it look like?” Stella asked curiously.
+
+The markswoman shrugged. “A ruined city, to rival Old Gemore. Taller, and built into a ring of hills capped with belltowers and surrounded by forest. I can’t see what lies at the center. It’s far. Two more days?”
+
+“Then let’s get going, while the going’s good,” Nathan replied, setting off. The Heirs followed behind him. Underneath them, the living shadow pooled underneath the rock, sulking and avoiding Khachi’s light.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 9
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 8
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 9
+
+Veracity 4
+
+Whiplash 1
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 5
+
+Aura Control 9

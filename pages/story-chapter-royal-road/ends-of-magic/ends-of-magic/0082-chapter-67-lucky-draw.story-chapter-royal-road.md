@@ -1,0 +1,221 @@
+---
+id: 896daadf-7ecc-50b0-8148-45e1b3e5c561
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: Lucky Draw"
+slug: 0082-chapter-67-lucky-draw
+partOf: ends-of-magic
+position: 82
+ownLength: 2881
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3195598/chapter-67-lucky-draw"
+royalRoadId: "3195598"
+---
+
+Nathan was left in a bit of an awkward situation. He’d started digging his magic-annihilating aura into the external shell of the arena in a bid to help Khachi against the fate-mage. But over the course of the duel, he’d only made it about halfway through, and Khachi hadn’t needed his help after all.
+
+Part of that had been his desire to move slowly, to avoid making a hole large enough that it could be noticed. The crystal wall was hundreds of feet from the nearest audience, and the ubiquitous magnification effects focused on the Questors inside the arena, not on the barrier itself. But the consequences for being caught ranged from funny to catastrophic, and Nathan was still unsure he should be risking this after all.
+
+I’m already committed. Might as well prove it’s possible in case I need it later.
+
+As it was, he was drilling a hole about a pencil-diameter in width, and the crystal was clear enough that it was invisible even if you knew what to look for. He still gave the bore a few kinks to prevent the straight line from standing out, or from giving any debris from the fight an easy way out. It would have been awkward if he’d done this during Kaelis’ fight against the water mage and a jet of water had sprayed out of the dueling arena.
+
+While he was focused on penetrating the defenses, Khachi’s next challenger appeared. He looked like a fairly standard mage, complete with robes, glowing jewelry, and a staff. But he wore a manic grin that worried Nathan. He looked over to Sarya for an explanation and got a confused shrug in response. Nathan had a bad feeling about this, so he redoubled his efforts. He was almost through.
+
+The moment the duel started, the other mage called out. “Atomic Insights cut indiscriminately, but you first opened that box.” Then he gestured, and a nuke spell flicked out, flying towards Khachi like a missile.
+
+Khachi tried to blast the spell and the Questor with beams of light. Both were protected by solid shields of force that were more than sufficient to hold for the few seconds Khachi had.
+
+Nathan felt ice suffuse his veins. The rest of the world stopped mattering. He focused all of his effort on the tip of his aura. He wasn’t trying to bore through the crystal any longer, instead driving his antimagic through the barrier like a pick through ice. He smashed his way through with a spearhead of antimagic. His magical senses found their way through, piggybacking on his aura, and he saw that the spell was already starting the compression sequence. He wouldn't make it in time.
+
+So instead, he sent his aura to the nearer target. Khachi had already surrounded himself in a golden sphere of shining power, all of the hoarded power from his speech expended in a single protective spell. Nathan added to that defense by wrapping him in a further bubble of antimagic, just barely managing to finish the coverage before the nuke detonated.
+
+For the second time, the bubble filled with brilliant light. A tiny hissing scream sounded as a stream of superheated gas escaped from the hole Nathan had bored in the arena walls, and he winced. But most of his attention was focused on holding off the rebounding waves of magical energy. Just as he’d hoped, the spell had been massively souped up with mana and wizardry. That meant most of the explosion was magical, and he could block it with his immaterial aura. With the full strength of his aura, it wasn’t even hard. But he could also feel the way Khachi’s bubble of magic shattered underneath the initial onslaught. There were more protections underneath, and they fared similarly, but Nathan could feel Khachi’s divinity raging in the eye of the firestorm.
+
+Nathan kept most of his focus on the piece of himself that was inside the arena with Khachi, ensuring that the defense held. It wasn't hard. His aura had developed to a point where it completely blocked mana-and-wizardry-based effects like this without much of a contest. He also glanced around surreptitiously to see if anybody had noticed that he was cheating. He saw a few furrowed eyebrows, but most of the expressions were merely tense over the result of the duel, not suspicious. Best yet, there were no notifications from Davrar about it.
+
+Maybe it's just so unexpected that nobody is considering it an option? Or maybe everybody assumes it's something about the spell?
+
+The storm of magic inside the arena began to fade, and Nathan withdrew his aura as soon as he felt that he could safely do so. There was no trace of the Questor. The man had died with his spell, unable to use Stella’s trick because of the extra magic he’d built into the blast.
+
+Nathan extracted his aura right before the spell finally cleared, revealing Khachi as a burnt and bloody mess. His armor was blackened and melted in a parallel to the appearance of his first opponent, and all of his visible fur had been burnt away. He was slumped slightly, and the audience’s eyes were fixed on him with glee or concern. Then Khachi straightened and stood tall, glowing with a soft light that fixed his armor and healed his wounds.
+
+Khachi raised a triumphant fist and shouted to the crowd. “I speak truth, and the truth cannot be silenced!”
+
+The crowd responded with a cheer, borne along by the triumphant emotion of Khachi’s victory. They’d come hoping for blood, for the permanent death of a noteworthy mortal. But now they cheered his survival against all odds.
+
+Khachi appeared beside Nathan, smelling of burnt hair and smoke still curling off him. He fixed Nathan with a stern expression. “The duels must be sacrosanct.” He didn’t say more than that, but his disapproval was clear.
+
+Nathan shrugged in return. “As sacrosanct as Davrar can be.” He wasn’t particularly surprised that Khachi had noticed, or that he was upset. It could be construed as a blemish on the wolfman’s honor. But Nathan would take a living Khachi over a perfectly honorable one, and he knew the wolfman wouldn't cause problems over it.
+
+Khachi tilted his head in acknowledgement. “Remember, any crack in my righteousness weakens my power.” Then he turned his head towards a new arrival. Colborn had popped out of his meetings and was hastening towards the Heirs. Nathan felt sudden anxiety that his cheating had been noticed and would have dire ramifications, but the Questor seemed more delighted than anything else.
+
+He didn't even greet them, just launching into an excited tirade. “Now is the time to exert every effort. We have the bones of a plan. It’s enough to validate, and will serve for an initial up-down poll. It won’t be binding, but it will serve as a significant anchoring of opinion.” The Heirs blinked at him in varying levels of confusion, so he spread his hands. “This is the time for our strongest points, and that means all of you. Every Questor watches your deeds and listens to your words, since we all know that they come with the risk of a final demise.”
+
+“I’ll challenge this one,” Sarah said, nodding towards the next speaker taking the stage. They didn’t look particularly impressive, a fighter in an ostentatious breastplate that didn't rise to the level of an artifact.
+
+“Then I’ll speak next,” Nathan said, going through the motions to enter his bid. The way the queue of speakers worked boiled down to Davrar taking every Questor's desires into account and giving them what they wanted, shifting between sides of the argument. All of the Questors wanted to hear from the mortals, if only to watch them fight afterwards.
+
+Speaking priority is a mixed blessing here, but it lets us shape the narrative nicely.
+
+“I’ll be the only one who hasn’t made an appearance," Aarl said wryly. “I’ll duel the person who speaks after Nathan.”
+
+Colborn rubbed his hands together gleefully. His teeth glinted beneath his beard. “Then I’ll speak after, to lay out the plan and signal the poll.”
+
+Sarya frowned at him. “Our enemies will try for your death nearly as hard as they do for the Heirs. They would deny us our best politician.”
+
+The short Questor wrinkled his nose. “'Best politician,' a crass insult, even if valid. But my death will only serve to highlight the risk taken by mortals standing on that stage,” he gave the Heirs an apologetic look. “Assuming their survival, of course. But we have other speakers. You can call the vote, even if I fall.”
+
+Sarya shifted uneasily. “The last time I stood on that stage, the outcome was awful.”
+
+Colborn raised an eyebrow. "All things must change." Then he turned his attention to the stage, where that speaker had cleared his throat. Sarah watched the Questor with a predatory gaze.
+
+He started with a conversational tone. “I’d wondered when this would be revealed for the plea that it is.” He didn’t even bother looking towards the Heirs, flicking a dismissive hand in their direction. “But now five mortals crowned in sudden power ask that we halt the Endings. They say that they are cruel, unjust.” The last word was said mockingly.
+
+“I will grant they have power, that has been verified. They have survived challenges that many Questors balk at.” He waved his hand again as if to dismiss those achievements, and turned to address the Heirs directly, “But your ascent should not end with legislation. You have climbed to the peaks of power and now seek to end your challenges with a petition.”
+
+He laughed, more confused than derisive. “You have challenged greatness and achieved it, and now you seek to circumvent the greatest challenge that Davrar offers. You try to defeat the Endings by pleading with us, instead of fighting them with your own power. The Endings are a condition of Davrar, and they are even older than most of us!”
+
+He shook his head sadly. “You do not vanquish such a challenge with a vote. You conquer them by blade and bone. By shattering the chains of this world, as you have already. An Ending is not so far beyond a Blight, much less a grid. If you wish to stand beyond the Endings, then defeat them. Do not come pleading to us to remove the challenge from your path. Marshal continuity across your generations, and build the institutions you dream of in spite of the Endings, not because you have succeeded in convincing us to ease your path.”
+
+His eyes sharpened into a glare. “Do not seek to cheat the trials of Davrar. The Endings are the natural order. Mortals contend with it, and some transcend those challenges. Then, as you have shown, an even smaller number may ascend to compete in the Game of Questors. You are on this road already. Walk it as you should.”
+
+“Can mortals become Questors?” Nathan murmured to Sarya. She shook her head minutely, though it didn’t seem certain. Nathan turned his attention back to the speaker, who was really starting to get on his nerves.
+
+The Questor turned his attention away from the Heirs, addressing the broader conclave again. “For all of their power, we have the perspective that these mortals lack. They understand nothing of galactic civilization, of the reasons that Davrar exists. Coming here and demanding that we immortals adjust the architecture of reality on their behalf is not proper. They have the tools to fight this battle themselves, and helping them bypass the Endings is not the purpose of the conclave.”
+
+A faint murmur of approval moved through various parts of the arena, and Nathan scowled. This was the argument he’d been afraid of. It didn’t really engage with what the Heirs had to say, instead simply claiming that the Heirs didn’t understand anything about the reasoning behind Davrar and letting the rest of the Questors ignore their arguments. It sounded good, but it was just rhetoric that gave the other Questors an excuse to turn their brains off and stop listening to anything but their biases.
+
+The Questor on the stage turned back to the Heirs. “You have ascended to the heights of Questors. Take your antimagic, your faith, your fire, and prove them on the truest battlefield. Survive an Ending. Break it. If you succeed, then you will not need our permission. And should you fail, then perhaps the next mortals to follow your path will know to focus their efforts productively, instead of making requests they do not understand.”
+
+He glanced around at the chamber a final time. “But do not mistake us. We will not rewrite the world because five remarkable mortals find it unbearable. We will not reward attempts to reach beyond the natural order of Davrar.”
+
+He nodded once. “Now, see if you can vanquish me and prove my own words true.”
+
+“Gladly,” Sarah said, eyes keen as she hefted her rifle. She glanced towards Sarya and the rest of the Questors. “Can you illuminate his abilities for me?”
+
+Vesh shook his armored helmet from side to side, his voice worried. “He is unknown to me, and I know every fighter of note. But I worry for a caustic trick.”
+
+Sarah twisted her lips. “Then I won’t give him the chance.”
+
+She vanished from the audience and appeared opposite the Questor, whose name Nathan didn’t care to learn. He gave her an acknowledging but vaguely mocking gesture by giving her a “come at me” move.
+
+Nathan sent his aura towards the arena, intending to provide antimagic support. But to his dismay, the hole he’d made earlier wasn’t present anymore. Davrar had remade the arena after the last set of duels, and now it was going to take half a minute for Nathan to bore through the arena again. He hoped he had long enough.
+
+The arena flashed to indicate the start of the duel, and Sarah’s gun sounded at exactly the same time, a bullet cracking into a thick magical barrier and sticking in place. It was still spinning and glowing a half-foot from his face, like a lethally angry hornet.
+
+Her opponent didn’t even blink, diving a hand into a dimensional pocket to withdraw a small rod. The magnification spell helpfully focused on it, and all of the Heirs gasped. Aarl had a copy in his bags, pilfered from Sussu’s vault. Sarya had called it a rod of annihilation, and Nathan was pretty sure it contained a dollop of antimatter.
+
+His aura wasn’t even halfway through the arena walls, and besides, what was he going to do? He couldn’t use his antimagic on the rod, all that would do is break the magical containment field that prevented detonation.
+
+Sarah hammered a second bullet into the back of the first, pushing it further into the thick gel-like shield that protected him. He raised the rod and gripped it with both hands, prepared to snap it.
+
+Then Sarah drew her revolvers, often neglected in favor of the greater stopping power of her rifle. But they made up for it in speed of fire, and she emptied both guns in a blazing fusillade of smoke. The bullets smashed into the shots she’d already fired, piling up to force the first slug all the way through the barrier.
+
+A broad arc of red splashed out, and the Questor fell like a scarecrow being run over by a tractor. The rod clattered to the base of the arena. Everybody watched it bounce across the crystalline floor with bated breath. Then Sarah swooped down and grabbed it, cupping it close and exhaling a ragged breath. “So much for the natural order.”
+
+Nathan whooped, ecstatic at the victory and Sarah’s survival.
+
+Aarl shot him a concerned look. “That weapon seems built to kill you. I hope they don’t have another. But here’s your secret weapon.” He handed Nathan the adamantium dagger, still in its unenchanted sheath.
+
+“Thanks,” Nathan said, taking the dagger and attaching it to the small of his back. He took a calming breath. He was about to speak, and afterwards the enemy would be able to set up their perfect set of duels against him. “I think a rod of annihilation beats an adamantium dagger.” He hopped out of his seat and started flying towards the center of the arena.
+
+Permanent Talent 1: Magical Destruction 8
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 6
+
+Forewarning 10
+
+The Truth of Magic 7
+
+Evasion 5
+
+Wizard’s Palace 6
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

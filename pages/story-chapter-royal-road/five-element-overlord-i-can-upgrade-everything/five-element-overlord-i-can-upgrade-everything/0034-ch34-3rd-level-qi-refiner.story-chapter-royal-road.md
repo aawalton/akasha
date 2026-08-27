@@ -1,0 +1,133 @@
+---
+id: 525b6727-f845-53fd-81c9-8a01630c9d92
+page-type-slug: story-chapter-royal-road
+title: "Ch34 3rd Level Qi Refiner"
+slug: 0034-ch34-3rd-level-qi-refiner
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 34
+ownLength: 1710
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3283086/ch34-3rd-level-qi-refiner"
+royalRoadId: "3283086"
+---
+
+Many servants and stewards still run around in fear. Some stay inside and do not make a sound, while others stick together and hold weapons in their hands everywhere they go.
+
+Multiple flying vessels appear overhead, coming from the Alchemy Peak, Forging Peak, and even unknown mountains further away that saw the purple flash of light in the sky.
+
+The voices of stewards fill my ears as I walk past the dining hall and toward my cave abode.
+
+“It must be the appearance of a treasure! If so many from the Outer Sect have already arrived in a hurry to be first, I bet it’s something that can help them achieve Foundation Establishment.”
+
+“No way, it’s an attack on our sect! That is the manifestated battle armor of a Golden Core!”
+
+“If Golden Cores were battling that close, we would all be dead by now from their clashing auras alone. There’s no way!”
+
+“Maybe one of the servants awakened an Innate Physique. I witnessed something like this over five decades ago at a grand wedding event of many prominent clans before my family declined in power, though it was nowhere near this extravagant.”
+
+“That could be it, but I still think it could equally likely be a treasure. An ancient priceless scripture was definitely unearthed… Come on, maybe we can find it before anyone else!”
+
+Some groups of stewards venture out into the forest, while others mind their own business and go on with their mundane lives.
+
+I, for one, enter my cave, close the curtain, and let out a nervous laugh I’ve been holding in. It slowly devolves into one of fear, then genuine hilarity, then of freedom.
+
+Just after leaving the market filled with mid and late-stage cultivators, showing me the strength that one can attain in this world, my eyes are opened even wider to the depth of power one can achieve.
+
+“Innate Physiques, huh? That was… truly terrifying.”
+
+I stare at the bronze mirror setup in my cave for a few minutes, and my gaze slowly hardens, along with my resolve. Then, I pull out a bright green apple the size of my head from my storage.
+
+Everyone has their own advantages in this world. They must lean on theirs, while I must do the same with mine.
+
+A bronze upgrade card floats before me, and I tap the nearest spirit fruit, filling my dark cave with a momentary flash of light.
+
+When it fades, a slightly smaller green apple is revealed. Its hue is deeper, like it had much longer to ripen and mature. Three bright shimmering golden vine patterns wrap around it. After a few deep breaths, to allow myself to fall into my Jade Purity Soul Scripture’s cultivation rhythm, I take a big bite out of the apple.
+
+The dense warmth fills my mouth and floods through my body instantly.
+
+In a single bite, I feel as though I just ate multiple Qi Gathering pills. Easily dozens of spirit stones.
+
+Memories of biting into the Serpent’s Plum come rushing back to me, yet this fruit is far more potent. My instincts take over, and I take another bite. Then, another, and another.
+
+Just seven bites later, and the entire apple is gone, stem, seeds, and all.
+
+I can feel the energy of at least five Serpent’s Plums now coursing through my meridians.
+
+The energy carries a faint green hue and is surrounded by the golden aura of what Xu Hong called a heavenly-grade artifact. When it flows into my dantian and spirit roots, it is a very calming process.
+
+There is no sharpness or ill intent imbued in this fruit.
+
+The bottleneck between the initial and mid-stage of level two is dissolved without any sudden jolts of pressure.
+
+I just drift off into a peaceful meditative state while cycling the excess energy in my body over and over again. It is like I’m drifting off to sleep into a white and green sea.
+
+Once the hot raw qi settles, I do not feel tired from the hundreds of cycles it took to digest. Instead, I feel rejuvenated, filled to the brim with energy. My spiritual senses have grown outward to almost five meters, and the bottleneck to the late stage of level two of Qi Refinement is already being pressed against in my dantian.
+
+I get excited, and even prepare to continue, but soon realize the flow of qi in the air is slightly different than it was this morning. Many stewards were using the spiritual vein beneath the caves, but now it feels as though almost double the ambient energy is available.
+
+When I peek my head outside, it’s already getting dark. What felt like a matter of minutes was actually many long hours in a peaceful trance, absorbing the effects of an incredible spirit fruit.
+
+Even as I leave to head out on my steward’s route to collect wood, I feel my meridians wide open and my mental clarity far more crisp than it was earlier.
+
+Once the route ends and I return home to the stewards’ quarters, I start to feel my meridians closing up back to their original state. The effects of this fruit are far more beneficial and calming than the Serpent’s Plum, but it wears off much faster too.
+
+When I get back to my cave, I pull out the four remaining fruits, 200 spirit stones, and about a dozen burnt Qi Gathering pills.
+
+The fullness and warmth I feel from the first fruit are almost halfway worn off. With the resources in front of me and the momentum I already have, I want to take advantage and see how far I can progress.
+
+Bright flashes of white upgrade lights fill the cave as I use every card in my possession to prepare.
+
+Many shimmering golden heavenly patterns light up the room, and the sweet scent is so strong, it seeps through the dark black cave walls to the outside momentarily. I drop everything into my storage, other than a single fruit and the 200 stones surrounding me in a perfect circle on all sides.
+
+I close my eyes, activate the Jade Purity Soul Scripture, and take another large bite.
+
+–
+
+My two souls, bound together, control the flowing green spiritual energy that enters my body.
+
+Every cycle pushes the energy through my meridians, into my spiritual roots, then pouring into my dantian. The strength of the misty white souls becomes stronger with every cycle, and their familiarity with the rest of my body becomes more consolidated as well.
+
+All of the qi that rests in my dantian settles like it is meant to exist there.
+
+Every particle of gaseous qi that does not saturate into my spirit roots is recycled and fuses with the rest of my flesh and blood.
+
+The small 9th grade five element spirit roots are tethered to an invisible bottleneck limiting my dantian to its current size. Every time wisps of golden heavenly light wash through my roots, it feels like the mysterious blockade loosens up for a moment.
+
+As my soul becomes more intertwined with the continuous flow of golden heavenly aura, it adapts and helps it flow to beneficial areas of my body too.
+
+The bottleneck to the late stage of level two dissolves with ease after this spiritual apple is consumed, and the barrier to the perfected stage breaks after just one more fruit.
+
+I am in a complete state of focus. Nothing in the outside world matters at all. I can only see and feel the perfect flowing lights of white, green, and golden energy moving throughout this human-shaped crucible that is my body.
+
+The spirit stones surrounding me slowly crumble to dust one by one as a miniature vortex forms in my cave, pulling in extra ambient qi. The momentum is rising, and with the two spirit fruits I have remaining, I do not waste any time. If I don’t act now, I will not have any better chances.
+
+Not only do I consume these, I also begin swallowing perfected Qi Gathering pills one by one, on instinct alone.
+
+I cannot tell if minutes or hours are passing between each one, I just feel the flowing energy and add more force when needed.
+
+The bottleneck at the peak of a second-level Qi Refiner is far more daunting than the one I had to break at the first level.
+
+The previous one was broken with just Qi Gathering pills, and I remember it felt like a glass ball barrier was surrounding my dantian that I had to shatter through.
+
+This bottleneck feels like an iron shield is surrounding my dantian. I cannot even see what it is like on the other side. The enormous amounts of invigorating green energy do saturate into the manifestation, making the iron softer and more malleable.
+
+The wisps of heavenly aura in my energy flows add to that effect, making it compress like tin foil, seemingly frail and thin in certain areas.
+
+With a huge pile of spirit stones surrounding me, and the influx of a dozen Qi Gathering pills whenever I spot these weaknesses, slowly, holes begin to show in the iron shield.
+
+Once areas of resistance open up, my soul takes over.
+
+There are already hundreds of spirit stones’ worth of excess qi circulating throughout my pathways. Most average Qi Refiners would reject this energy, and it would flow right out after one cycle of their cultivation technique.
+
+My Jade Purity Soul Scripture is special, allowing me to use this saved-up energy as a weapon against my own poor talent.
+
+A normal ninth-grade, five mixed-element spiritual root cultivator would most likely have to practice for a full century to challenge the third level of Qi Refining and succeed at wearing down the bottleneck.
+
+I allow the built-up qi in my body to continually flow through these small holes torn through the shield.
+
+They attempt to heal at a slow and steady rate, but my cycling energy is too fast and powerful to be held back.
+
+The bottleneck is broken, dissolved, and conquered, allowing the dantian to expand outward once again and be filled with a rush of hot, refined qi.
+
+I have broken through into the third level of Qi Refinement.

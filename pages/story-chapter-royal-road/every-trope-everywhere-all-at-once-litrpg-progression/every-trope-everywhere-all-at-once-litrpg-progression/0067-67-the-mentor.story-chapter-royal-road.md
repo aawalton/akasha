@@ -1,0 +1,261 @@
+---
+id: fde12502-735b-51dd-a1bc-5b0de635d779
+page-type-slug: story-chapter-royal-road
+title: "67 - The Mentor"
+slug: 0067-67-the-mentor
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 67
+ownLength: 2020
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3646707/67-the-mentor"
+royalRoadId: "3646707"
+---
+
+“Meriel!” Reina cried.
+
+Meriel collapsed into my arms as the dagger protruded from her chest, her grimoire falling out of her hands.
+
+“Meriel… Meriel, no…!” I muttered faintly.
+
+There wasn’t any time for tears. I held my hand over the dagger to pull it out and heal the wound, but I quickly realized that it would’ve been a fatal move.
+
+The dagger hadn’t just landed on any part of her chest.
+
+It had hit her heart.
+
+…
+
+No… If it did, she would’ve already lost consciousness by now.
+
+I turned in the direction the dagger had come from. One of the wounded men was standing on the other side of the tent. It wasn’t just any wounded soldier. He had a ring on his finger.
+
+That was the body Aurelius had decided to take.
+
+“That was a horrifying gamble,” he said. “If I had accidentally killed you, Allene, I wouldn’t be able to forgive myself. I’m glad that the elf jumped in for you—though I would’ve preferred it if I could leave her alive and take her body too.”
+
+He rushed toward us, but Reina stepped in to defend us.
+
+I continued to hold onto Meriel tightly.
+
+“Stay with me… Stay with me! Meriel, please!” I screamed.
+
+But she didn’t stop gasping. Her entire body trembled as she looked down at the wound. She tried to speak, but couldn’t. Blood spilled from her mouth. The dagger must’ve pierced one of her lungs.
+
+Time seemed to slow once our eyes met, her hand shuddering as she reached for my face.
+
+“Leave it… in…” she whispered. She couldn’t say much else other than that before coughing out more blood. “Bleeding… too much… heal over… it… remember… this…”
+
+Her hand fell limp as her eyes drifted past me. She was losing vision. Losing consciousness.
+
+She was completely right. Pulling the dagger from the wound would make the bleeding even worse.
+
+[TROPE INITIATED: THE MENTOR’S FINAL LESSON]
+
+Completion criteria: Meriel gives you a final lesson before her death.
+
+That System message…
+
+No…
+
+Meriel can’t die!
+
+She can’t!
+
+I did exactly as she said, healing the injury while the dagger was still lodged into her chest. Green light spilled from my palm as I hovered my hand over her chest, using as much mana as I could to heal her. The skin around the wound began to close, and the bleeding soon stopped.
+
+But she continued to cough out more blood. It wasn’t enough.
+
+I inspected myself. I had two unallocated stat points.
+
+Two.
+
+I dumped them into my Intelligence stat, bringing my total from twenty to twenty-two.
+
+But it barely made a difference.
+
+The spell had only healed the surface of the injury, but her lung was still severely injured.
+
+Damn it… if only I had more stat points!
+
+“Try… again…” Meriel whispered. “Concentrate… use that… book…”
+
+I put Starcaller away and picked up her grimoire. This should’ve enhanced all supportive spells, including healing.
+
+It should’ve.
+
+So then why wasn’t anything working…?
+
+I continued to do everything I could to help her. I brought my grimoire and hand closer. I tried pouring more mana into the spell, but that only made the healing unstable. Reina continued to defend us through all of this, but I knew she wouldn’t be able to keep this up for long.
+
+It was then that I heard footsteps and voices from behind.
+
+“Allene! Reina!” Kaelor called. It wasn’t just him. Aeris and Talon were also there, entering the tent with us.
+
+They gasped as they saw what had happened to Meriel, rushing to our side.
+
+“Meriel!” Talon yelled.
+
+Realizing there was nothing they could do for Meriel, Kaelor and Talon rushed to support Reina against Aurelius.
+
+“Aeris, help me get her out of this tent!” I shouted. “Go back to your dragon form and share your mana with me!”
+
+But Meriel grabbed me weakly.
+
+“Mana won’t… fix… keep trying…” she whispered.
+
+Tears fell from my eyes as I continued to do everything I could to heal her.
+
+The battle continued ahead of us. Eventually, Kaelor, Reina, and Talon landed some of their attacks on Aurelius, killing the wounded soldier he had possessed. His soul left the body, flying toward the back of the tent where Gabriel’s body lay.
+
+They rushed toward his soul, but it was too late. As soon as he went inside of Gabriel’s body, wind exploded from him, sending the tent flying away.
+
+Talon flew back, hitting a nearby tree. Reina jabbed her sword onto the grass, stopping herself, while Kaelor managed to keep himself upright with his own opposing wind spell. Aeris stood in front of Meriel and I during the blast, blocking the wind with her wings.
+
+“Back where I started,” Aurelius said, opening and closing Gabriel’s hand. It was also the same hand that the Soul Anchor Ring was on. He raised it into the air.
+
+“My ring’s coming off my finger!” Talon shouted from behind. “Everyone, watch out!”
+
+We looked at Talon. The ring on his finger shot out, flying through the air and gathering near Aurelius’s hand. But it wasn’t just his. The rings that had been stuck on the others’ hands soared through the air and collected in front of Aurelius.
+
+They expanded and formed into a sword made entirely out of those rings—the same one that had severed Kaelor’s arm and inflicted him and me with Demonic Blight.
+
+“She’s gone,” Aeris said. “Meriel’s gone.”
+
+My eyes widened. “...What?”
+
+I looked down at her.
+
+She wasn’t trembling anymore.
+
+She wasn’t gasping anymore.
+
+Her eyes were bereft of light, and her pulse…
+
+I couldn’t feel any.
+
+“No…” I began as my tears fell on her face. “This can’t be!”
+
+[TROPE COMPLETED: THE MENTOR’S FINAL LESSON]
+
+[The reward has been kept hidden]
+
+[TROPE COMPLETED: THE MENTOR MUST DIE]
+
+[The reward has been kept hidden]
+
+Aeris gritted her teeth.
+
+“We have to kill him, Allene. Let her go.”
+
+But that only made me hold her closer.
+
+Kaelor and Reina fought Aurelius at the same time. Talon tried to stand, but the impact from when he had hit the tree had left him hurt.
+
+All our other allies across the island had gathered around us by now. Seeing this, Aurelius thrust his hand, using a blast of wind to send Kaelor and Reina flying back. They landed beside me. Then, he raised his ring sword and circled it in the air.
+
+A vortex of wind enveloped the island, cutting off our other allies and forming a dome of wind around us. Nobody could get through to help us, and none of us could get through and escape.
+
+Aurelius shot forward.
+
+Kaelor went first and clashed blades with him, but with only one arm, Aurelius managed to catch him off balance, winning the clash and disarming him. His dagger fell too far to retrieve.
+
+Reina charged at him, but Aurelius thrust his hand, using a blast of wind to send her flying into the same tree that Talon did, dazing her.
+
+“Allene!” Aeris cried.
+
+Kaelor sprinted over to me. “Go,” he said. “I’ll keep Meriel’s body safe, so go!”
+
+He pointed, and wind gathered around Meriel’s body as he took her to where Reina and Talon were.
+
+Aeris went into her dragon form. She breathed fire at Aurelius, but he raised his hand, creating a wind wall that blocked all the fire. As soon as all the fire dissipated, he took flight and soared through the wind wall, his sword leading toward Aeris’s head.
+
+She swiped her claw, tried to bite him, and made several hard flaps with her wings to knock him out of the air, but he avoided all of it. Out of all the bodies Aurelius had possessed so far, Gabriel’s was undoubtedly his strongest and fastest.
+
+Now, his sword was just inches away from Aeris’s eye.
+
+But I couldn’t let him get her. I couldn’t let him hurt anyone anymore.
+
+I surged into the air with the wings, clashing blades with him. I held Dawn Sunderer in my right hand and Starcaller on my left. We exchanged a flurry of attacks in the air, flying upward, sideways, and everything in between. When he got too far, I shot him down with both fire and wind magic from Starcaller as well as arcs of light from Dawn Sunderer, mixing up my attacks to catch him off guard. Some of them grazed him, and he winced from the injury.
+
+But it wasn’t enough to take him down. I wasn’t going to stop until he was dead.
+
+Aeris swept by, and I climbed onto her saddle. We hunted him down together through the air.
+
+After several seconds of chasing, Aeris managed to catch him, biting down hard. He flicked his sword in front of him, stopping the bite. I ran across Aeris’s head and jumped down at him, jabbing my sword at his head. He dodged the attack and tried to pull his sword free from Aeris’s jaw, but he didn’t expect it to be completely stuck.
+
+Then, Kaelor appeared out of nowhere.
+
+He had taken flight while we weren’t looking, flying behind Aurelius with Giant Slayer and delivering a quick jab through his chest, giving him the same wound he had given Meriel.
+
+But I wasn’t done.
+
+I recovered mid-air and jabbed again, sending Dawn Sunderer straight through his head. The sword let out a bright glow, killing not just the body, but the soul itself. Dawn Sunderer’s holy magic was effective against him.
+
+For a moment, he screamed.
+
+The scream went on…
+
+And on…
+
+And on…
+
+Before we realized something was off. How was he still alive even after being stabbed through the head?
+
+A System message filled my entire vision.
+
+[STATUS]:
+
+[Final Health Insurance]
+
+- The next boss you face will survive a lethal attack once
+
+No… That can’t be… Not now…!
+
+Blood poured from his skull. With our swords still lodged into his body, he managed to wedge his blade free from Aeris’s jaw. He kicked Kaelor out of the sky, used a gust of wind to temporarily blind Aeris, and struck at me.
+
+I pulled Dawn Sunderer out of his skull and clashed blades with him. The injury instantly recovered. His wings hardened as he pushed forward, sending the two of us spiraling out of the sky. I was on the bottom. He wasn’t trying to attack me with his sword anymore.
+
+He was trying to plummet me to the ground.
+
+I tried everything I could to break free, but it was no use.
+
+“Let me go!” I shouted. “Don’t you need me alive?!”
+
+He didn’t say anything as we continued to fall through the air.
+
+That look in his eyes… it was almost as if he had lost all sense of reasoning.
+
+I was a second away from hitting the ground now. I closed my eyes, bracing for impact.
+
+But just before I hit the ground, a white light flashed, enveloping the entire island. System messages appeared everywhere, and time seemed to slow, letting me read them.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE MENTOR PASSES DOWN THEIR WEAPON (COMPLETED)
+
+- THE MENTOR MUST DIE (COMPLETED)
+
+- THE MENTOR’S FINAL LESSON (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[AWAKENING CONDITIONS MET]
+
+[TARGET: MERIEL]
+
+I blinked.
+
+We weren’t falling anymore.
+
+My body hovered just above the ground, stopped by some kind of powerful wind magic. Then, a gust of wind harsher than any I’ve ever seen before sent Aurelius flying away into the wind dome he had kept us in. He was stuck in it for several seconds before finally forcing his way back into the dome, his skin and clothes gashed from the wind.
+
+“Meriel…?” I muttered.
+
+I looked around, catching a glimpse of her. All the blood had disappeared from her clothes. The dagger that had been sticking out of her chest was gone, and so was the wound. The light engulfing her was blinding, and her eyes let out a faint glow as her hair floated unnaturally in the air.
+
+It was as if the entire world’s mana had gathered around her.
+
+[TROPE UPDATED: THE MENTOR MUST DIE]
+
+[COMPLETED → SUBVERTED]

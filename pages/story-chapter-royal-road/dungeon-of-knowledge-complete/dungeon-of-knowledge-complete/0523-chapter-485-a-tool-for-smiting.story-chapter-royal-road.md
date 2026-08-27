@@ -1,0 +1,177 @@
+---
+id: 352568dd-01e5-5868-983f-fc85d872d0f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 485: A Tool for Smiting"
+slug: 0523-chapter-485-a-tool-for-smiting
+partOf: dungeon-of-knowledge-complete
+position: 523
+ownLength: 2743
+unit: words
+ownProgress: 2743
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2876366/chapter-485-a-tool-for-smiting"
+royalRoadId: "2876366"
+markedReadAt: "2026-06-29T20:30:00.373Z"
+---
+
+Mato remained in his tree form, listening to the others moving around beneath his branches, feeling the sensation of his Consecration flickering and pulsing over the roots and brambles he had grown. He ignored the prickle of lightning from the coiling vines around his trunk, his consecration and base regeneration more than enough to overcome the damage. Overhead, his Lirasian Sage tree spirit floated quietly among his broad, reaching branches, casting the soft light of its nature magic aura to suffuse his Sanctuary with additional vitality.
+
+That was a good fight, he thought. Ali’s plan had been flawless, and while his role had been challenging, he had enjoyed the intensity of redirecting damage at the insane pace of the battle and the feeling of continuous healing flowing through his branches and trunk. And more than that, his skills had proved crucial to the success of their fight, which was always a good thing in his books. It seemed somewhat surprising, but all his experience of tanking with his Bear Form had proven invaluable in understanding precisely how to balance the flow of damage, ensuring the continued survival of his charges.
+
+He smiled inwardly at the uncharacteristically calm and philosophical bias to his thoughts that always accompanied his change to the tree form, and instead directed his attention to his notifications.
+
+Elemental Shapeshifter has reached level 153 (+8).+80 attribute points.Arboreal Sanctuary has reached level 65 (+5).Swipe has reached level 80 (+3).Brutal Restoration has reached level 76 (+3).Bear Form has reached level 74 (+3).Rampant Growth has reached level 42 (+3).Bestial Combat has reached level 63 (+3).Natural Prowess has reached level 63 (+6).Survival Instinct has reached level 77 (+5).Battle Trance has reached level 56 (+3).Last Stand has reached level 24 (+3).Identify has reached level 23 (+2).Cooking has reached level 22.
+
+Whoa! Eight levels? He pondered it slowly, in the unhurried manner of a tree, realizing after some introspection that his growth had come from two sources. Grim Spark had granted him six levels, the other two coming from the continual scraps against the Death Knight patrols. Somehow, along the way, he’d forgotten to check his notifications, and he now had eighty unspent attribute points to deal with. Could have done with a few of those earlier. Next time, do your homework, Mato!
+
+Right away, he spent twenty points each on vitality, endurance, and strength, reasoning that those were always his highest-value attributes. The ones boosted by Natural Prowess, and therefore each point spent had an outsized impact. Using a similar line of reasoning, he spent seven points on wisdom. After a moment’s thought, he decided that perception was critical to staying alive, so he spent seven points on that also, and then split the remaining six points evenly between intelligence and dexterity – both of which had situational value to his class.
+
+The next notification – an unexpected one – appeared as glowing text across the trunk of the much larger spirit tree he consulted when he interacted with his class. What is this, now?
+
+Requirements met for skill advancement.Arboreal Sanctuary has reached at least level 65.Vitality has surpassed 4000 in Tree Form.Wisdom has surpassed 2000 in Tree Form.Have taken more than ten times your total health on behalf of your allies in a single fight. Tree Form gains a new Granted Skill.Bark Armor (Increase your armor in Tree Form, proportional to your Wisdom)Heal (Single target direct heal, wielding both nature and holy mana)Deep Roots (Increase your regeneration rate in Tree Form, proportional to your Vitality)Choose one skill.
+
+In the depths of his tree-induced calm, he simply let the options settle in his mind, testing how each felt. Bark Armor, he discarded quickly – it simply felt inefficient – like he was trying to capture the essence of his Bear Form but not nearly as effectively.
+
+Tree is for support, he decided, even though throughout this last fight his role had been much more similar to a tank. Still, Bark Armor was unlikely to be effective against damage redirected to himself through Arboreal Sanctuary, which was his primary tanking tool in Tree Form. Besides, if he was getting hit directly in his Tree Form, something had come decidedly unstuck.
+
+Heal and Deep Roots, on the other hand, both seemed quite strong and well-aligned with his role in Tree Form. His regeneration would be shared with his allies and friends, and any increase to that would benefit them as well. On the other hand, while Heal did not have an area effect, it instead offered him the tantalizing option of being much more directly in control of the situation. If I make a mistake with redirecting damage, I will be able to fix it later. Also, an ability to help his friends that didn’t require him to take the damage himself would be a nice change.
+
+In the end, that was what resonated most strongly with him. He liked the idea of being a more active participant, and the Heal skill would grant him new options. He could be more versatile without sacrificing the strengths of his forms. He could assume a healing role in any fight where he didn’t have to move or tank; an option that had become more and more common when he joined the larger guild raid groups with Havok, Sabri, and Basir also available to tank.
+
+Happy that it fit, he committed the choice to his class and then tried it out several times, earning strange looks and more than a few excited chirps from the kobolds he cast it on. He sacrificed some health to Bestial Combat, verifying that he could use the skill on himself before he finally released his form, twisting his body back into his Beastkin shape.
+
+He shook out his legs and arms, reminding his body that he had blood now, and not sap, and stepped over the coiled vines that had fallen from his trunk. Sitting planted in one shape for several hours was uncomfortable.
+
+“I’m happy to help you get to the Well, little one,” he told Ali as he rejoined his friends. “I’ll fight anything you plan.”
+
+“Thanks, Mato,” she said, smiling up at him.
+
+“And then we find that stupid Lich’s Phylactery and smash it,” he added, punching his left palm with his fist and imagining a satisfying crunch.
+
+Then, he knelt beside the strange, arcing vines and retrieved his tools to safely collect the plant. Several chunks he stashed in his storage for later examination by Basil and Eliyen, but the rest he offered to Ali, recalling that she had an imprint for plants like this.
+
+Herb Gathering has reached level 31 (+2).
+
+Huh. Nice! Maybe one day – after all this – I’ll put that to use other than just collecting. He gnawed at his lip a little. Fine. I’ll hope for a better tomorrow, even if it’s helluva hard right now.
+
+He pushed those thoughts aside. “What’s next?”
+
+Kavé held the sword in her hand, disappointment and frustration threatening to overwhelm her after several hours slaving over the Anvil of the Emberforge.
+
+“It’s not working,” she said, mortified that even her voice came out sounding almost like a wail. She stared at the failed sword in her hands, but it remained stubbornly broken.
+
+Sharp Longsword – level 120An incomplete sword.Damage: Melee, Physical, Slashing.+117% to Physical damage.Support creative writers by reading their stories on Royal Road, not stolen versions.Added Physical damage on hit.+70 Strength.<Incomplete><Incomplete><Incomplete>Requirements: Strength 420.Quality: Uncommon, Incomplete.Created by Kavé Steelscale.One Hand – Longsword – Eimuuran Steel
+
+She had tried everything she could think of. She had poured every Holy Might potion into this thing, and nothing had happened.
+
+“It’s ok. We try again,” Havok said, nodding his head vigorously. The little Goblin had been such a good sport, casting his Smite skill on cue for what seemed like hundreds of attempts, but still, nothing had taken, and even the Anvil had not been much use.
+
+“What am I missing?”
+
+“We ask Azryet,” Havok said, his eyes glinting with fervor.
+
+“What?” she exclaimed. “You mean, Azryet? The actual Dragon God?”
+
+“Yup,” Havok said with a happy grin on his face. “He know what’s wrong.”
+
+“We can’t just…” she stared at the somehow joyful Goblin, aghast at his suggestion. The idea of simply showing up at the home of The Calamity and asking for help with her crafting was simply unthinkable. “Havok, we need to show proper respect. He is a god.”
+
+“Yes, show respect. Go ask him. Azryet big smiter, he like damage.” Havok was nodding his head up and down as if they were agreeing. “Ryn can teleport. Let’s go.”
+
+There was no way Kavé was going to agree to simply walk into Azryet’s domain and ask her patron deity for help with her sword. There was a sense of propriety to be maintained for these things. She hadn’t even been a follower for that long!
+
+***
+
+Kavé stared up at Tiraza’s golden eyes, feeling the pressure of being in the presence of a majestic being that far outstripped her in power and levels.
+
+“I’ll call him,” the dragon said, her voice rumbling through the vast library as the draconic syllables hammered into Kavé’s chest like she was speaking directly into her soul.
+
+This can’t be happening…
+
+She had clearly explained the problems with bothering Azryet for something as mundane as crafting, and yet, somehow, she had found herself being led by the hand as the excitable Goblin took her to the Grand Library Arcana, where Ryn had heard Havok’s explanation and immediately teleported all three of them here.
+
+She glanced over to Ryn for help, but the librarian seemed perfectly content, already pulling out several weighty tomes as she prepared to have a chat with the giant holy dragon before them.
+
+“He’s coming,” Tiraza declared.
+
+Kavé’s heart skipped a beat as the mana in the library surged. With an implosion of void energy, suddenly she was in the presence of the Dragon God. Waves of fear and awe rolled off him as he towered above her, and then suddenly, the force of his presence vanished, like a snuffed candle, only it had been incomprehensibly vast. She took a breath.
+
+“Havok, so good to see you again,” Azryet said, his voice shaking the very room to its foundations. “What can I do for you?”
+
+“Kavé stuck,” Havok said, ratting her out with a gleefully pointed finger.
+
+The vast draconic head tilted, lowering to fix Kavé with a piercing gaze.
+
+“I… I…” she stammered, and then held up the unfinished sword when the rest of her words failed her.
+
+“Kavé is trying to make a sword,” Ryn said, somehow unaffected by the majesty of Azryet. “But she couldn’t figure out how to finish it.”
+
+“Aah,” Azryet said, his eyes suddenly flickering with surges of mana that Kavé could feel prickling across her skin. “A holy sword, is it? This is to be a weapon for killing Death Knights?”
+
+“Um… yes,” she said, inwardly wishing Thuli had never suggested this miserable idea.
+
+“A noble task,” Azryet rumbled.
+
+“I tried everything, but… I couldn’t figure out how to make the new enchantments work.”
+
+“You have done everything correctly,” Azryet said. “You are simply missing the final step.”
+
+“What step?” Despite her shaky knees and shuddering breath, her curiosity perked up immediately.
+
+“It needs to be blessed.”
+
+“Blessed? How does this one do that?” Kavé asked, her heart dropping to her feet. She had no skills for blessing items. Did I just waste all this time? I can’t, can I?
+
+“Blessing is something a deity typically does. Usually. It can be channeled by a mortal on behalf of the deity, but ultimately, the conduit is to your patron. You cannot do it, but I can,” Azryet explained.
+
+“And why would you do that for something so mundane?” Kavé managed, for some reason, her nervousness deserting her in the moment.
+
+“You will learn, little one. Crafters can sometimes spread their patron’s reputation far wider than adventurers. Just promise me that when they come begging, you make these swords and spread them to all who would slay the undead.” Azryet gazed down upon her as if waiting for her response.
+
+“I promise,” she said, although she couldn’t imagine what he was talking about. Who is going to come begging? Why would people want a broken, unfinished sword?
+
+“Havok, watch and learn. You can pray for this blessing.”
+
+“I watch!” Havok declared, attentive, and with an edge of excitement visible in the way his body leaned forward, in the focus of his eyes.
+
+Azryet turned his head toward her, and Kavé felt the instant return of her terror as his giant maw opened. A blinding flame of white light kindled deep in his throat, and she stumbled, falling to the ground as it surged forward in a torrent. In an instant, she was engulfed in an inferno of white flames. The ground beneath her shuddered and shook as her ears were filled with a roaring crackle. But she felt only a mild warmth and the gentle sensation of being caressed by a brisk breeze. Then, as suddenly as it had come, the dragon’s breath vanished as Azryet shut his enormous maw, and a booming crash echoed through the room.
+
+At that moment, Kavé felt something rip inside her, like a small piece of herself – the essence of her being – had been painfully torn out, but the pain vanished in an instant, followed by a chime.
+
+You have lost experience.
+
+Kavé squeaked. It was a very undignified noise, particularly from her position sitting on her bruised rump with her legs flailing awkwardly in the air before her god. But her chimes were not done yet.
+
+You have learned the Enchantment: Holy Power V (Weapon).You have learned the Enchantment: Holy Damage V (Weapon).You have learned the Enchantment: Fear Ward.You have greatly increased the reputation of your patron.
+
+“What…”
+
+After a moment, she just about managed to squirm back up onto her knees. Her hand collected the sword reflexively, even though the chamber whirled about her for a moment before stabilizing with an unsettling lurch. Such power…
+
+“Behold the sword, little one,” Azryet said, amusement sparkling in his great eyes.
+
+It took a few moments, but her eyes slowly lowered to the sword in her lap. Somehow, the Eimuuran steel seemed to be glowing with an inner light that danced and flickered, as if a small portion of Azryet’s holy dragon fire had somehow been captured within the steel itself. With a sense of tentative awe, she appraised the item as he’d instructed, but what she found was no longer the broken, half-finished work she had brought before him.
+
+Azryet’s Wrath, Holy Avenger – level 120Blessed by the Dragon God Azryet, this sword glows with inner holy power, wreathing your mind to protect you from fear.Damage: Holy, Melee, Physical, Slashing.Added Physical damage on hit.Added Holy damage on hit.+117% to Physical damage.Attacks gain +57% additional damage as Holy.+70 Strength.Fear Ward (Your resistance to fear is greatly increased)Requirements: Strength 420.Quality: Rare.Created by Kavé Steelscale in the Dungeon of Knowledge.One Hand – Longsword – Eimuuran Steel
+
+“Oh,” was all she could manage as she stared at what her work had become.
+
+“It will cost you some small contribution of experience every time you make a blessed weapon,” Azryet explained, “like many advanced crafts. Even so, I hope you will honor your promise to make these blades and spread my name to the world. I think you will find it worthwhile nonetheless.”
+
+“This one will honor her word,” Kavé said, slowly standing up, holding the sword reverently. The cost in experience was nothing compared to what Galeth might accomplish with the astounding blade she now held, and she was certain she would earn it back many times over.
+
+And, he said he would bless them whenever I need it. She glanced over at Havok, who returned her gaze with a wide, toothy grin and a thumbs-up. She grinned back.
+
+Kavé turned and bowed toward the Dragon God. “Azryet…” she began, and found the words stuck in her throat.
+
+His eyes appeared to glitter with amusement and… something else? Could she imagine it might be approval? “You were saying?”
+
+“Thanks… uh, for the damage and… everything, Azryet,” she spluttered.
+
+“You’re welcome, Kavé Steelscale.”
+
+With her heart singing within her, she turned to Ryn. It was time to return to the anvil and use what her patron had so generously granted her.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

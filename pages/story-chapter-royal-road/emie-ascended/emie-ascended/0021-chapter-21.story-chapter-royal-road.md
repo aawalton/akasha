@@ -1,0 +1,161 @@
+---
+id: e7c0d1e5-390f-5a5c-9ae0-546582c4b312
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21"
+slug: 0021-chapter-21
+partOf: emie-ascended
+position: 21
+ownLength: 1962
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3510913/chapter-21"
+royalRoadId: "3510913"
+---
+
+Stephen came by my room after dinner and stayed just long enough to describe the volume of his storage and a general description of how the skill worked before excusing himself so I could start working.
+
+His pocket space was actually larger than I expected, though not by much. It held roughly the volume of a small coat closet, which I considered pretty generous for a ‘Common’ skill that I assumed he obtained via skillbook.
+
+He didn’t specify that, of course, but it made sense considering his prior affinities were Zoki and Nature. Of course, just because a skill was rated ‘Common’ didn’t mean that it was actually common.
+
+It would have probably been a little easier to just make the preservation bag, but I was experienced enough to craft an artifact capable of radiating an area-based effect with little real difficulty.
+
+“You’ll need to replace the essence core occasionally since it won’t be able to absorb ambient essence from within the dimensional space,” I warned the archer when I gave him the enchanted token the following day.
+
+With such a simple enchantment, it hadn’t taken long for me to create the artifact.
+
+In the center of the small, round, wooden token was a core-sized slot, which I’d crafted to fit the size of the cores we were currently collecting from the dungeon, if a little loosely.
+
+As we moved deeper into the dungeon, the cores would become bigger, so the additional space I’d added would serve to extend the item’s functionality. Eventually, the cores would become too large to work with the device, but at that point, I figured the space would probably need a stronger artifact.
+
+I explained all of that to the archer, and he seemed happy enough with the product.
+
+“Here,” he said, handing me a bundle. “I finished them last night. The leather is from the third-floor boss. It’s an alpha wolf, if you were curious.”
+
+I looked over the bracers. The craftsmanship was excellent, even if the materials used weren’t the highest quality due to their origin. It was still better than most of what we’d collected so far.
+
+“These look great. Thanks,” I said as I slipped the hard leather onto my forearms and tightened the straps.
+
+He’d made each bracer out of a single piece of leather, which would make them a lot easier to enchant later.
+
+“How long do you plan to spend on the third floor?” I asked.
+
+“I’ll probably only do one more run of the floor before moving on to the fourth floor,” Stephen replied. “My leveling has slowed quite a bit, and the mobs aren’t really much of a challenge.”
+
+“We’ll probably be moving on pretty soon as well.”
+
+After Cora and Mike’s delve without me, they’d managed to reach level twelve, making us all the same level. Though we were a few levels weaker than Stephen, we were also working together, making us capable of fighting much more difficult opponents without too much risk.
+
+I still felt strangely drawn to the archer, and I wasn’t quite sure why. It was an odd feeling – one that I didn’t really have experience with in my previous life. Sure, I’d had flings here and there, but nothing had ever been serious.
+
+It was actually kind of sad, in a way.
+
+Since I didn’t plan to avoid connections in this life, I said, “We’re heading into the dungeon the day after tomorrow. We should only be gone a couple of days. I’d like to check in and make sure the artifact is working properly when I get back, if you’re around.”
+
+It was a lame excuse to see him again, but I didn’t care. I’d never find out what was drawing me to the man if we didn’t spend at least a little time together.
+
+I was pleased when Stephen smiled brightly and said, “Sure. I’ll keep an eye out for you.”
+
+“You have a thing for the archer?” Cora asked later that evening when we met for dinner.
+
+Her husband chuckled lightly as he looked away and wisely said nothing.
+
+“I’m not sure what I feel toward him, honestly,” I answered. “It may be nothing more than a sense of connection due to our shared background in a Realm Dungeon. But he seems like a nice enough guy. I doubt that getting to know him would be a bad thing.”
+
+“I agree. It’s just too bad that he prefers to work alone,” the rogue said with an exaggerated sigh. “I don’t think that adding a fourth would slow us down much at all. If anything, having another ranged damage dealer might even speed up our progression.”
+
+“I doubt it would matter much either way,” Mike commented. “We all have strong ranged options now.”
+
+I ate my meal in silence for a few moments, observing the delvers around us as they went about their evenings. They all seemed so young. Aside from a table of Ascenders, everyone else in the room was very young.
+
+I watched as they joked and flirted, boasted and argued. This was an aspect of life I’d largely missed out on for what was probably a millennium or more, subjectively.
+
+In truth, I had no idea how old I really was. With all of the time dilation I’d subjected myself to, it was possible I’d experienced closer to two millennia.
+
+While I was glad that I’d met Cora and Mike, and I appreciated how they included me in so much, I really didn’t want to forever remain a third wheel.
+
+After a few more moments of contemplation, I asked, “Would either of you mind if I invited Stephen to join us on our next delve? Not the one we’re going on the day after tomorrow, but the next one?”
+
+Feeling the need to clarify, I added, “And not for anything long-term. I just thought it might be nice to work together when we move on to the next floor.”
+
+I had been mulling over the possibility of Stephen joining our party since Cora brought it up a few minutes earlier. I wasn’t sure why my mind was so fixated on the topic, but I figured it had to do with my own experiences operating as a solo delver.
+
+It really was quite lonely, and Stephen seemed like a nice enough guy. If I could convince him to join us, I felt like he would fit in nicely with the group.
+
+“I was wondering how long it would take for you to bring it up,” Cora said with a grin.
+
+Sharing his wife’s expression, Mike added, “We don’t mind adding a fourth to the group, but I’m not sure Stephen will be willing. He seemed pretty resolved to work alone.”
+
+“Well, it can’t hurt to ask,” I said, deciding to do just that the next time that I saw him.
+
+“What skillbook did we get?” Mike asked, with a gray-covered skillbook manifested from the last set of mobs we’d defeated.
+
+We’d spent the last couple of days on the third floor, and all of us had gained a level during that time.
+
+We’d just completed the last room of the floor for the second time, apart from the boss’s chamber, and this was the first skillbook we’d gotten during the delve.
+
+“Grip.”
+
+“That’s a good one for melee fighters,” I said. “The basic skill will reduce the chance of someone dropping something or being disarmed, which is always good for people who rely on a weapon.
+
+“Its real value, I think, comes from later evolutions, though. Depending on how it’s guided, it can evolve into a skill that lets you spider-walk up walls or hang from a ceiling. It’s a pretty good option for a rogue.”
+
+“Eh,” Cora said, wrinkling her nose. “Maybe if I didn’t have Arcane Blade and relied on regular blades. Climbing up walls sounds decently interesting, but it’s not something that I think would suit my build, especially considering I only have a limited number of skill slots.”
+
+She half-heartedly glanced toward her husband, knowing he probably wouldn’t want the skill either.
+
+“I don’t need it. Learning it would be a waste with my other skills.”
+
+“So, into the sell pile,” I said, holding out my hand since I was serving as the party’s porter.
+
+Cora handed me the skill book, along with the essence cores, coins, and random beast parts that the dungeon had given us as loot. They all disappeared into my storage.
+
+“Are we ready to move on?” Mike asked.
+
+“Might as well,” Cora said with a grin. “Let’s take out this boss and check out the next floor. Wouldn’t want to be completely unfamiliar with it if we might have a certain archer joining us soon.”
+
+I rolled my eyes at Cora’s antics. Technically, we were still a bit under-leveled for the fourth floor, but as Ascenders, we were more than capable of handling it.
+
+The boss was an alpha wolf, just like Stephen had mentioned.
+
+Of course, this wasn’t our first time facing the creature, though each encounter proved itself easier than the last.
+
+“Lightning Bolt,” I yelled loud enough for Cora to hear and move away if she was anywhere near the boss.
+
+I’d accidentally hit her once when the Lightning Bolt I’d cast jumped after hitting my original target. Thankfully, I noticed and was able to teleport to the rogue and heal her right away.
+
+I’d given her the minor healing ring I’d made afterward as an apology, though she insisted it wasn’t necessary. She still wore it, though.
+
+Since then, I’d started calling out when I was going to use the potentially dangerous skill, much like Mike did when he used Enflame while I was fighting nearby.
+
+I channeled the Lightning Bolt for three seconds, ensuring it was able to push through the boss’s defenses. As soon as my skill ended, the boss’s stiff body collapsed, letting Cora slip in and slide a knife between the wolf’s ribs.
+
+“Two hits, and I didn’t even have to do anything,” Mike said with a grin. “I think that’s a new record.”
+
+“Me too,” Cora said before looting the body.
+
+A second skillbook appeared, surprising all of us. This one had a light blue cover.
+
+“An Ice Skill,” she said with a grin. Looking at me, she added, “Oh, look at that. Ice Blade. You didn’t want that one, right? Surely, the skill could be better used by someone with Blade Mastery.”
+
+I knew she was joking, but I still felt my stomach lurch at her comment.
+
+“Stop playing, Cora. You know Emie has been pining over that one.”
+
+“But it’s a blade skill,” Cora pouted dramatically.
+
+“You already have a blade skill,” Mike pointed out. “Technically, you have three blade skills. Just give it to her already.”
+
+“Spoilsport,” the rogue said before beaming in my direction. “Here you go. I look forward to seeing what you can do with it.”
+
+I eagerly took the skillbook.
+
+Mike was right. This was one of the skills I’d had my hopes of getting the most. Not only would it grant me access to ice magic, but it would also allow me to manifest blades that I should be able to anchor to whatever weapon I was holding.
+
+Granted, it might take an evolution or an upgrade to manage, but I was fairly certain I could manage it right away instead of having to wait.
+
+“Break now, or after we get to the next floor?” Mike asked.
+
+“I’ll do a sweep of the room for any resources, then we might as well head on to the next floor. I can learn the skill while you guys get a fire going, if you want.”
+
+“Sounds good to me. I could use a meal.”

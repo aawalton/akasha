@@ -1,0 +1,247 @@
+---
+id: 598a21d7-ca4a-5801-8d62-8a38f6d96011
+page-type-slug: story-chapter-royal-road
+title: "40 - The Borrowed One"
+slug: 0040-40-the-borrowed-one
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 40
+ownLength: 1586
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3511930/40-the-borrowed-one"
+royalRoadId: "3511930"
+---
+
+Camille shut the door as Reina and I ran out of the kitchen and reentered the dining room. The floating knives and utensils that were chasing us slammed into the door, but without any hands, they couldn’t get through. Seconds later, they gave up.
+
+“What’s with them?!” I cried, letting go of Reina’s hand. “This is why I didn’t want to play their stupid little game! And what kind of vegetable explodes when you cut it?”
+
+“That was a hellsprout,” Camille said.
+
+“Let me guess. It comes from hell?” I asked.
+
+She nodded again.
+
+Wait, did hell actually exist in this world?
+
+Reina laughed at me. “You were so bad with a knife that you made the entire kitchen upset!”
+
+I turned to her. “Huh? That was not what happened! How could I possibly know that the vegetable I was cutting would explode? And you’re one to talk!”
+
+I glanced at our clothes, which looked like they were covered in blood. In reality, it was just Reina’s smashed tomato.
+
+“Whoops,” she said, shrugging.
+
+Camille waved her hand over our clothes. In an instant, all the remnants of the tomato disappeared, leaving our clothes looking as good as new.
+
+“Whoa… what kind of spell is that?” I asked.
+
+“One that every maid needs.”
+
+She then opened her palm toward the other side of the dining room. “Shall we move on?”
+
+“Yes!” Reina said, running over to her.
+
+“Only if we don’t encounter anything as crazy as those kitchen knives, then sure,” I said.
+
+The ghost maid looked at me. “I cannot promise anything. Just be sure not to accidentally destroy anything else in the manor. I believe the last time somebody broke a chair, the paintings came to life and chased them out.”
+
+With that, we headed off to another room. I could only pray for what we were about to find next.
+
+***
+
+Honestly?
+
+This next room was a lot more normal than I expected. Hopefully I didn’t just jinx that, since this world always has its ways to screw me over.
+
+Several tables and bookshelves lined the room, with floating orange lanterns hanging around the top. A large decorated window stood at the end, offering a view of the courtyard Reina and I had entered from.
+
+“Wow…” Reina let out. “That’s a lot of books.”
+
+She wasn’t lying. From where we were standing, it looked like there were at least a thousand.
+
+I walked up to one of the bookshelves, reaching out a hand. Just as I was about to pull a book out, I stopped myself, turning around.
+
+“Camille,” I said, my voice serious. “Please tell me these books won’t just suddenly explode in my face. I’m starting to get very sick of explosions.”
+
+And I wasn’t only talking about the exploding vegetable. Dawn Sunderer’s Divine Fireball was no exception.
+
+“I can assure you that this library is safe,” Camille said. “This room also serves as a study hall. The previous owner of the manor takes education extremely seriously.”
+
+Looking back at her, I realized that Reina was missing from where she had been standing initially.
+
+“Reina?” I called.
+
+“Over here!” she said.
+
+I turned in the direction of her voice, seeing her holding up a book. Of course, it wasn’t just any ordinary book.
+
+Remember that demonic sapling we found a while back? The one we picked up after we killed the Tree Sentinel? Well, I sensed the same demonic energy here, except now it was in the form of a book.
+
+“Ah,” Camille said, walking over. “It appears you’ve picked out the only book in this entire library that has a curse attached to it.”
+
+I looked at her, eyes wide. “Huh? A curse…? Didn’t you just say that this library is safe?”
+
+She nodded. “It is safe. The curse isn’t anything dangerous.”
+
+Reina opened the book, flipping through it. “What kind of curse is it?”
+
+“The kind that forces you to read through it. It’s harmless, but certainly annoying.”
+
+Oh no.
+
+“Reina, get away from that book!” I screamed, running at her.
+
+After hearing how much she had stammered over her words while reading the puzzle back at the manor’s front gate, I did not want to hear that again.
+
+But it was too late.
+
+[TROPE INITIATED: THE CURSED BOOK]
+
+Completion criteria: Listen to Reina until the curse finishes.
+
+A purple light erupted from the book, enveloping Reina’s face. Her eyes shot open, and her pupils became that same purple color. She opened her mouth, not out of her own volition but because the curse made her do it.
+
+She began to read in a much deeper voice than usual.
+
+“He who is the Borrowed One.
+
+He who is chained to eternal suffering, who has no mouth but must scream.
+
+He who borrows flesh, yet has none of his own.
+
+He who replaces.
+
+He who ushers a false identity.
+
+He who must escape.”
+
+What the hell was she reading? And not just that—she didn’t stutter a single time. Listening to this was somehow bearable.
+
+She continued:
+
+“The sinner who now walks beyond the manor.
+
+The faceless king.
+
+The shadow who seizes skin.
+
+Beware.
+
+For he wears the shape of the lost.
+
+He shall greet thee with thy mother’s smile.
+
+He shall call thee by thy name.
+
+He shall know the warmth of thy lover’s hand and the laughter of thy companions.
+
+Yet within his breast beats nothing.
+
+Nothing.
+
+Nothing but a yearning.”
+
+My entire body shivered as the floating lanterns in the library flickered, shaking. Camille stood there, listening to Reina’s words as if it were just any ordinary day.
+
+“The Borrowed One was not born of flesh.
+
+When the lord of this manor sought immortality, he carved away his own form piece by piece, abandoning his face, his voice, his blood, and his name.
+
+In the end, all that remained was…
+
+A creature that could become anything.
+
+A monster that no longer remembered what it originally was.
+
+And thus, the Borrowed One was born.”
+
+Reina slowly turned the page. The purple light grew brighter.
+
+“The Borrowed One wandereth still.
+
+Not as beast.
+
+Not as ghost.
+
+Not as man.
+
+But as all three. And more.
+
+For every warrior that stood before him, he became a greater warrior.
+
+For every mage that challenged him, he became a greater mage.
+
+He is the thief of self.
+
+The eater of identity.”
+
+I took a step back, feeling my heart race.
+
+“Reina, snap out of it!” I yelled.
+
+But it was like she couldn’t hear me.
+
+Moments later, the floating lanterns stopped shaking, and their lights became steady. The purple glow of the book dimmed, and Reina’s eyes went back to their normal red.
+
+[TROPE COMPLETED: THE CURSED BOOK]
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[127 → 128]
+
+I ran to Reina, shaking her.
+
+“Reina!” I called.
+
+She shook her head and wiped her eyes. “Allene…? That… That was awesome!”
+
+“Huh?”
+
+“That was the first time I ever read something so well! Maybe this curse isn’t such a bad thing after all. If something like this exists, maybe Meriel has a spell that can make me read better.”
+
+“I… yeah? Did you even realize what you read just now?”
+
+Reina nodded. “Yes. I was fully conscious while reading it.”
+
+I turned to Camille. “What was all that about?”
+
+“Would you like to know more about it?” she asked.
+
+“Will it take long? If so, then I’d rather not, because we need to find the lever as soon as—”
+
+“Yes please!” Reina said.
+
+I glared at her. “Reina, we need to stay focused.”
+
+“I know, but I think this could be useful information. Doesn’t the Borrowed One sound like an especially important name?”
+
+I’d be lying if I said it didn’t. But did that justify us wasting so much time?
+
+…
+
+“Fine,” I gave in.
+
+Camille pointed at one of the tables, and the three of us walked to it. As soon as we got near, three seats automatically pulled out with magic, just like the ones back in the dining room. Reina and I sat together on one side, while Camille sat on the other. She had taken the cursed book from Reina and placed it just in front of her.
+
+“The Borrowed One,” Camille began, “was the previous owner of this manor. He was a human, and a man who loved others more than he loved himself. But he wasn’t always called the Borrowed One. That name came much later. Back then, people simply called him Lord Aurelius.”
+
+The lanterns directly above us had a deeper glow than the rest, as though the manor itself was acknowledging this very moment. That was certainly one way to make things more dramatic.
+
+“He loved this place dearly. Every servant who worked here was treated as family, and every guest was welcomed warmly.”
+
+I leaned toward Reina. “Isn’t all of this just made-up lore for the dungeon?” I whispered. “None of this actually happened, right?”
+
+“I think…?” she whispered back. “Actually—no. I think this is based on real events. The entire dungeon is.”
+
+“The entire dungeon…?”
+
+Camille folded her hands together on top of the table, her expression darkening.
+
+“Throughout his life, his greatest passion was one thing and one thing only: achieving immortality—not in flesh, but in soul. To spare all living things the inevitability of death.”
+
+“And how did that go?” I asked.
+
+Camille looked at me. “It led to his madness. It led to him abandoning this very manor, all to chase after a futile goal.”

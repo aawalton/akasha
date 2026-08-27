@@ -1,0 +1,199 @@
+---
+id: 586add24-d565-5861-8b3b-53c27d82027b
+page-type-slug: story-chapter-royal-road
+title: "32 - Attacking the Mentor"
+slug: 0032-32-attacking-the-mentor
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 32
+ownLength: 1743
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3475841/32-attacking-the-mentor"
+royalRoadId: "3475841"
+---
+
+So uh… yeah. I was decapitated by Reina’s sword.
+
+“Ow,” I said, rubbing my neck as I respawned next to the blue lantern.
+
+Reina rushed over to me, letting her sword clatter onto the ground as she hugged me.
+
+“Allene, I’m so sorry! I didn’t mean to!” she cried.
+
+I pushed her away. “Yeah, yeah, of course you didn’t,” I said, sighing. “That’s why we don’t play around with swords. Especially not one enchanted with legendary holy magic.”
+
+“I’m sorry!”
+
+For some reason, Kaelor and Talon barely reacted to my death at all. They just briefly glanced at me as if it were just another random, unfortunate event before turning back around to scout the city.
+
+“How did it feel?” Meriel asked. It looked like she was holding back a laugh.
+
+“It didn’t hurt as much as I expected. Somehow. Maybe decapitation’s more painless than I thought?”
+
+She shook her head. “I doubt it. It’s because the pain tolerance within this dungeon is capped. You’ll still feel bruises and wounds, but anything greater than that is suppressed.”
+
+I looked into the blue lantern, noticing a brief glowing number. 9.
+
+“Welp. There goes one revive.”
+
+“I’m sorry!” Reina cried again. She tried pulling me into another embrace, but I held my arm out, keeping her away.
+
+I picked up her sword.
+
+[ITEM: DAWN SUNDERER]
+
+Rarity: Legendary
+
+Description:
+
+A radiant golden sword engraved with sun-shaped patterns along its blade. Warm light constantly flows from throughout the weapon with the energy of sunlight, illuminating nearby areas with a golden glow. Simply holding it fills the wielder with overwhelming power and determination.
+
+Effects:
+
+- Greatly increases physical strength while wielded
+
+- Is permanently enchanted with holy magic
+
+- Deals massively increased damage against demonic and corrupted enemies
+
+- The blade grows stronger in response to the wielder’s determination
+
+- Emits light capable of dispelling darkness and fear effects
+
+…
+
+Just as the effects say, I felt much stronger just from holding onto it. To think that Reina got a legendary weapon from her chest… I can’t believe it. I was honestly kind of jealous.
+
+“We can bring our loot outside the dungeon, right?” I asked Meriel.
+
+She nodded. “Of course, but only one per person. It’s a no-brainer that Reina should probably take that sword back with her. I doubt any of us would get anything better than that.”
+
+“But we’re still only in the first part of this dungeon, aren’t we? Wouldn’t the loot be better the further we go? If we managed to get something like this so early, I can only imagine what we’ll get next.”
+
+“Sure, but I wouldn’t depend on it. Getting something powerful is always rare, regardless of how deep we are into the dungeon.”
+
+I handed the sword back to Reina.
+
+“It suits me, doesn’t it?” she asked, letting the blade fall on her shoulder.
+
+“How honest do you want me to be?” I asked.
+
+“As honest as possible.”
+
+“Then no, not really. Your red hair and eyes don’t complement the holy sword all that well. Even then, your personality hardly matches something so divine.”
+
+She frowned. “Hey, that was mean!”
+
+“You asked me to be honest.”
+
+She looked at the sword, laughing. “I guess so. But this is a magic knight’s weapon, isn’t it? I think it’s perfect.” She turned to Meriel. “What do you think, Master? Will this sword make me a better student?”
+
+Meriel crossed her arms. “Maybe, but it won’t replace fundamentals. From the way I saw you fighting that horde of monsters right before we entered the city, I think you rely on your strength too much. You should use your spells more. That’s the one advantage magic knights have over normal knights—versatility.”
+
+Reina’s face lit up. “In that case, can we have another training session?”
+
+I tilted my head. “Another training session? Is this dungeon not enough training for you?”
+
+“No, I’m not saying that, but I think we would learn more quickly if it's directly from Meriel. Is that alright? And besides, that blue lantern over there can help us recover. I can’t think of any other better time than now.”
+
+I looked at Meriel. She thought about it for a moment before glancing over at Kaelor and Talon.
+
+“Will you guys take long?” she asked them.
+
+Kaelor looked back. “We’ll need some more time to scout out the city. Based on Talon’s words, this place may be more dangerous than I anticipated.”
+
+The boy nodded. “Actually, we’re about to go explore the city right now. There’s something I need to check.”
+
+“Do you need us?” Meriel asked.
+
+Kaelor shook his head. “We’ll be fine on our own. I’ll keep Talon safe. You guys can rest alongside the griffins and the whale—or train, for that matter.”
+
+And just like that, the two of them headed off into the dark city. They were bound to get lost in this labyrinth of a city, but I’m sure they’ll eventually find their way back.
+
+Meriel turned to us. “Then it’s settled,” she said, picking up her staff and holding onto it alongside her grimoire. “Let’s move a bit further away so we don’t accidentally kill the griffins.”
+
+***
+
+Reina and I stood together on one end of the designated training ground, while Meriel stood on the other end.
+
+From the way she had cast some kind of shielding magic on herself, it was obvious what she wanted us to do.
+
+“You want us to attack you?” I asked.
+
+She laughed. “You’re a smart one, aren’t you? Anyone with a brain should know that.”
+
+What the hell? Why was she suddenly talking like that?
+
+“I don’t like the sarcasm,” I said.
+
+“Then do something about it.”
+
+I gritted my teeth. Fine. She wants to provoke me? Then I’ll let her have it.
+
+[TROPE INITIATED: ATTACKING THE MENTOR AS TRAINING]
+
+Completion criteria: Finish the training session.
+
+I aimed my staff at her, letting a Fireball tear through the air. Meriel didn’t budge. She just watched it until it exploded in front of her face.
+
+The smoke cleared, revealing that her shield absorbed everything.
+
+“This grimoire is quite nice,” she said, looking at the open book in her hand. “It really does make shielding magic stronger.”
+
+I let out several more fire attacks after that, even sprinkling in a bit of wind magic here and there. But nothing worked.
+
+“Pathetic,” she said.
+
+“Damn it,” I muttered as I panted, tired from casting so many spells so quickly.
+
+Meriel pointed at Reina. She was up next.
+
+“Let’s focus on magic this time, Reina. And I don’t mean fire magic—I want you to use that sword in your hands. Don’t hit me with it directly. Use its holy magic instead, like the one that killed Allene.”
+
+Wow. So she was using my death as a reference point, huh? I see how it is.
+
+Gripping her divine sword tightly, Reina made several large, fast swings through the air. Arcs of light spewed out from it—the same kind that had decapitated me just a moment ago. My body shuddered just from thinking of it.
+
+Just as she had done with me, Meriel let the attacks hit her. I noticed her shield flickering just a bit, but it completely regenerated a second later.
+
+“Not bad. You did more damage to my shield than Allene, and she’s the one who’s supposed to be a mage. This doesn’t look good for you,” she said, looking at me. “And don’t try to blame it on her sword, either.”
+
+I can’t believe I’m saying this, but her taunts were making me really upset.
+
+“Hey, let’s coordinate our attacks,” I whispered to Reina, still staring ahead to make sure it wasn’t obvious.
+
+“Got it.”
+
+I readied my staff. “Three… two… one… now!”
+
+We attacked at the same time. Reina’s light arcs shot through the air first, hitting Meriel and weakening the shield. Then, my Fireball landed. When the smoke dissipated, Meriel stood there, smiling at us.
+
+We managed to shatter it.
+
+“Well done, you two. Now, what did we learn here?”
+
+“That it’s better to coordinate our attacks whenever we can,” I said, rolling my eyes. “How cliché.”
+
+[TROPE COMPLETED: THE POWER OF TEAMWORK]
+
+[REWARD: Pending…]
+
+“Exactly so. There are times when coordination is far more essential than an individual’s strength, but there are just as many times when you’ll be forced to fight on your own. A good mage should be well-versed in both areas, but since coordination is much more difficult to master, mages should spend the majority of their time training for it.”
+
+“What about me?” Reina asked.
+
+“As I mentioned earlier, a magic knight is extremely versatile. Your main position is always a frontliner, but whether it’s as a tank or an attacker is up to you. Maybe even a hybrid. A tank will rely far more on coordination, while an attacker can afford to be more selfish.”
+
+She walked up to us. “But seeing that Allene is already shaping up to be a battle mage, I think you’ll benefit a lot more from focusing on defending her from attacks. Becoming a tank may benefit you best.”
+
+Reina nodded. “I’m alright with that.”
+
+“Good,” Meriel said. “Then for now, we’ll practice the formation you two will be using throughout the rest of this training. Reina will stay on the front line, while Allene supports from the back. I’ll be teaching both of you spells suited to your respective roles. Reina will focus on shielding magic, while Allene will learn how to balance support and offense simultaneously.”
+
+I tilted my head. “Both at the same time? What do you mean?”
+
+She explained, “Take Haste, for example. It’s a buffing spell that increases a person’s speed, whether for dodging attacks or swinging their sword faster. Support spells are extremely valuable in battle because they strengthen your party without requiring constant attention. After casting Haste on Reina, you would transition into offensive magic while continuing to maintain and recast Haste whenever necessary. Does that make sense?”
+
+I nodded. “I see. So it’s basically a balancing act. If I spend all my time attacking without supporting my allies, then I’m wasting an easy source of extra strength. But if I spend all my time buffing instead of attacking, then that’s just wasted potential damage. Still... wouldn’t mana be a problem?”
+
+“Yes, but that’s why we train for it," Meriel said. "Anyway, it looks like you understand. Let’s begin now.”

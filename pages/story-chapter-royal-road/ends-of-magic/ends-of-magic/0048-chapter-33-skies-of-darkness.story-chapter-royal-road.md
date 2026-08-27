@@ -1,0 +1,245 @@
+---
+id: ccf81838-201c-5617-b048-6c48ae48d194
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33:  Skies of Darkness"
+slug: 0048-chapter-33-skies-of-darkness
+partOf: ends-of-magic
+position: 48
+ownLength: 2775
+unit: words
+ownProgress: 2775
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2788506/chapter-33-skies-of-darkness"
+royalRoadId: "2788506"
+markedReadAt: "2026-06-29T20:08:48.084Z"
+---
+
+“Trees of flesh?” Stella’s voice was confused. “What does that mean?”
+
+Sarah was looking closer, her eyes intent. “There’s something blurring my vision. The city looks a ruin, surrounded by a forest of desolate trees. But on the edges, farthest away from the core of the city, the truth burns through. The branches are bone and pulsing veins, and they bear fleshy fruit.”
+
+“An illusion?” Nathan asked, frowning. “I didn’t think death magic could do that.”
+
+“Maybe,” Sarah said, sounding unconvinced. “There is a sheen of grey color over the city, from the center to the outskirts. The light is pale and uneven, and the towers flicker. I do not know what kind of magic it is. It is easy to mistake this haze for magic.”
+
+Nathan pursed his lips. They were still quite some distance from the center of the blight, too far for him to see or work his aura. “Do you think the whole thing is a lie?”
+
+“The trees are true, just changed in form,” Khachi said thoughtfully. “The same is true of the city itself. It exists, but it is more corrupted than it appears.”
+
+“Should I nuke it?” Stella asked, sounding unsure. “It’s the heart of the blight, and my bones say there isn’t a better target.”
+
+Nathan shook his head. “We need access to the Seal. I don’t know if it's possible to destroy a Seal or not, but I don't want to have to dig it out from rubble as the rest of the blight tries to kill us.”
+
+“The city is large. Stella's new spells won't destroy the whole thing.” Sarah said.
+
+Stella wrung her hands together, nervous at the prospect of using her newest Insights. “If it detonates in the air then it will destroy buildings, but not bury them."
+
+Nathan hesitated. She had a point there. “We still don’t have the range. We need to be closer. We’ve already revealed Khachi’s light and your wizardry. We should get closer, so the hit is more certain. I don't want to give them more time to react than necessary."
+
+"I do need to be closer," Stella conceded.
+
+The Heirs started moving again, quickly traversing the skies. Nathan marveled at how his new Talent enhanced his movement. It didn’t enhance his ability to quickly change directions as much as his other movement skills did, but it increased his top speed and made it easier to move fast. Early ranks were usually easier, and it didn’t take long for Nathan to earn his first rank in the new Talent.
+
+Nathan’s attention was drawn away from his movement by the growing pressure of death mana. He didn’t know if it was an intentional attack or simply a natural progression of drawing closer to the corrupted seal, but the heavy aura was pressing in on Khachi’s aura hard, blocking off their view behind a black miasma.
+
+“It’s blocking my sight,” Sarah said, gesturing forward. “Something changed. It is beyond true darkness.”
+
+“The death mana is definitely pressing harder,” Nathan agreed. “I could hold it back, but I don't want to reveal my antimagic. Khachi, are you doing alright? Could you push this back?”
+
+He replied with a low rumble. “I hold that power. My divinity is swelling in strength against this foe. But it is not without limit. I will gauge my effort and call for aid when I must.”
+
+“Don’t stare the ghoul in the eye on your own.” Aarl’s voice was frustrated as he tried pulling out various weapons to see if any could push back the encroaching darkness. No variation of fire did it, and the death mana ate up a few magical attacks he sent out into the darkness. Eventually, he settled on a sword that seemed made of light.
+
+Khachi started incanting a quiet prayer, muttering continually as they flew. “The sun travels with us, carried in our hearts. The light is not banished, merely banked. One day it will emerge and reclaim its place, no matter how bleak the darkness.” His light swelled slowly in response, and his words grew steadier.
+
+The blight fought back, pressing in on them like a hand struggling to crush a stress ball. Nathan double-checked that there wasn’t a shadow or other death elemental out there, beyond sight. There was wizardry threaded through the death mana, more than there’d been previously. It felt like the control element of a massive spell, and it was strengthening the ambient death mana into a weapon to use against the Heirs.
+
+Nathan warned the Heirs about his findings. “The mana is being turned against us. I think this is the first stage in an attack.” He was tempted to cut the threads of control with his aura, but it wasn't critical. Instead, he had another idea. “Stella, you might be able to interfere with the wizardry controlling it. Give it a try, maybe with light mana to burn away the darkness?”
+
+She looked out at the surrounding darkness dubiously. “I’ll try to hit that target.” She started by creating a bright light, like an incredibly powerful flashlight. It penetrated only a few feet beyond the bubble provided by Khachi’s light. She frowned, then experimented with threading wizardry into the spell. It took a few attempts and some guidance from Nathan for her to get it to shine into the Aether, and then a bit longer to sweep away the threads of wizardry controlling the death mana. Once she figured it out, the beam burned away the darkness like a pressure washer on dirt. She swept it around, cutting swaths through the darkness before applying the same technique to an omnidirectional burst of light that cleared the fog of corruption pressing in on them.
+
+Khachi sighed in relief, stopping his ongoing prayer. “That’s true aim.” The blight still surrounded them with its desolate presence, but it was no longer an active pressure trying to crush them.
+
+Sarah frowned upwards, eyes focused on the clouds. They looked a bit thinner and farther up than before, though no light penetrated through. “More fliers. Thousands.”
+
+Khachi heaved another sigh, this one significantly more resigned. He flexed his arms and raised them, preparing for another exertion of divinity to sweep the sky clear.
+
+The clouds started descending, and for a moment Nathan thought that there were so many monsters they were blotting out the sky. But when he squinted upwards, that’s not what he saw. The clouds themselves were dropping, and they were black instead of the angry grey cast of the true clouds in Khachi’s light. Sarah cursed. “Dust. It’s going to block Khachi’s magic.”
+
+“Wind?” Aarl suggested, gesturing to Stella. “It’s been our weapon against dust before. It should also cast aside flying enemies”
+
+Stella frowned upwards, opening her mouth to protest. “I’ve never cast a wind spell that large before.”
+
+“First time for everything!” Nathan replied encouragingly. He looked downwards, towards the low ridges that split the landscape below into a spiked maze. “But if you’re going to use wizardry to make a storm, then we should get to cover.”
+
+They descended, with Stella muttering to herself as she channeled wind mana into a vague mess of magic before her. After a moment she waved it away with a curse. “Nathan, how does wind work?”
+
+“Uh,” he said dumbly before his brain refocused on the question. “Hot air rises, cold air sinks. If that happens in two places wind blows between them, from cold to hot. Is that enough?”
+
+She considered his words for a moment, then nodded. “Sparks my fire.” She began channeling another spell magic, weaving fire, wind and water mana into the spell. While she was working, the storm of black sand hit them, sparking off a bubble of divine mana around them. It was like being deep underwater once again, protected by a thin shield against the hungry blackness.
+
+The sand surrounding them wasn’t anything special. It had been leached black by constant exposure to death mana, but it wasn’t itself harmful. However, it was blocking Khachi’s light and the rest of their sight.
+
+“They’re coming,” Sarah said, voice tense. She raised her rifle as if to fire a shot, then lowered it again. “The weight of a mountain, borne on dead wings.”
+
+Nathan could feel them, diving down towards the Heirs. Most of the undead felt like the horned variety they’d fought not long after entering the blight, but some were bigger. “Stella?”
+
+“Just a moment,” she replied, focused entirely on her magic.
+
+Nathan could feel the spell she was building, it felt unstable, but he thought it would work. “Cast it. I’ll hold it together.”
+
+She complied, casting the spell upwards. The effect was immediate, with heat channeled from one side of the sky to the other through the medium of wizardry. Wind mana kickstarted the process, and a rotational gyre miles across formed above them, like a tornado turned on its side. The amount of force involved was immense, but Stella kept the mana flowing, letting the laws of physics carry her spell to an enormous scale.
+
+With all of the dust in the air, Nathan couldn’t see the effect of the magic at first. But he could feel the immense flows of mana tearing through the sky to support the spell. He reached out thin tendrils of antimagic to stabilize the places where Stella’s spell was growing turbulent and snarled back on itself. He specifically avoided interfering with the corrupted mana of the Blight, once again working extra hard to preserve the secret of what he could do.
+
+The wind picked up around them and the low-lying duststorm was torn away, sucked upwards. The Heirs were underneath the ridges and below the majority of the wind, but the edges of the wind blasted them with grit picked up from the barren ground. It wasn’t enough to block the Heirs’ view as the armada of flying creatures was yanked out of their dives, pulled sideways and then skywards. They flared their wings, trying to fight the hurricane-force winds and failing. Several of the larger creatures had their wings ripped off and spun through the air, the wind strong enough to keep them airborne even without their wings.
+
+“Wow. I don’t regret that suggestion,” Aarl said, looking upwards as thousands of undead were carried across the sky like leaves swept up in a gust. The clouds above tore apart as well, letting in traces of the nighttime sky. Instead of the familiar blue and white, it was colored in shades of grey and black. Something about the death mana in the air bled the vibrancy away.
+
+Stella kept channeling the spell, the torrent of mana powering the spell as she kept the horizontal hurricane running. The undead went up and up until they were just specks, then started their downward progress.
+
+“Should we move?” Sarah asked, watching the diffuse cloud of monsters plummeting down towards the ground.
+
+“No, we’re fine,” Nathan replied, estimating the angle. "I think they’re going to come down over there.” He pointed to the side. “We just need to stay below the ridgeline, unless we want to take the same journey.”
+
+Khachi was also watching the sky, and at Nathan’s comment he pursed his lips thoughtfully. “What if that is our desire? Stella can move the spell. Can we use it to travel to our destination?”
+
+Nathan blinked, opening his mouth to reply and then closing it. He glanced at Stella, then thought better of asking her a question at this very moment.
+
+Her eyes and mouth were glowing with pale light, and mana trailing off her hands and staff was so thick that it was visible to the nonmagical eye. She didn’t look like she was in a state to answer. She looked like somebody possessed by the storm, a vessel for unimaginable power that was going to burst through her fragile physical form at any moment.
+
+If she’d taken Mana Incarnate that might be closer to the truth.
+
+The cloud of flying undead hurtled downwards. Some of them were still vaguely trying to control their flight. but most were simply tumbling at the mercy of the wind. They made landfall with a series of muffled thumps that sprayed dust and rock into the air that was picked up by the wind. A few managed to catch the wind as it curved, and made for the Heirs. All but one were carried overhead, struggling vainly to lose altitude and reach the Heirs before they were sucked back into the sky.
+
+Sarah calmly raised her rifle. “This is a number of targets I can hit.” She fired once and the head of the diving monster exploded, the horned creature falling to the ground with a noise hidden by the sound of the wind.
+
+Stella shook herself and began ramping back on the spell. She didn’t kill it entirely, but relaxed her posture and stopped channeling so much mana that her eyes glowed. She looked up at Nathan and Khachi with a cocky grin. “That was a Development worth being bold. I heard your words, shall we ride the spell to the Seal?”
+
+Nathan looked around at the rest of the Heirs and shrugged. “I’m ready for it. I feel like we should have thought of this sooner.”
+
+“Our bones are settled,” Khachi said. “Let us strike towards the foe.”
+
+Sarah shook her head. “If we'd ridden a spell so far, the master of the Blight would have chances to counter it.” She shot Nathan a look. “There is a master behind these attacks, true aim?”
+
+He nodded in response. “Definitely. They’re controlling the undead, the blight, and presumably using it to do things like conjure up that dust storm.”
+
+“Then let’s cut their game before it reaches the final stages,” Aarl agreed.
+
+Stella pointed upwards and the Heirs ascended skywards, the breeze blowing around them growing stronger and stronger as they broke above the protection of the surrounding terrain. Khachi allowed the shield around them to dissipate, and the weakened wind caught the Heirs in its grasp. They were tossed around for a moment and blown apart, but Stella turned the spell down again until they were able to control their flight and regroup.
+
+“Will the shield interfere with flight?” Sarah asked, looking at Khachi questioningly. "I don't like being exposed in the blight."
+
+“It will,” Khachi replied. “The force will be blocked and diverted. But my aura and Nathan's combined can hold back the corruption."
+
+Sarah grimaced but held her tongue, glancing towards Stella.
+
+“Ready?” the mage asked, waiting for a round of assent before she began ramping up the spell again.
+
+It was a gentle increase in acceleration, but the acceleration kept going. Soon enough, the Heirs were zipping over the ground several times faster than they’d been moving before, and Stella was continuing to increase power. She was maintaining the wind spell on a smaller scale, but bringing it along as they travelled. It still reached high enough to disrupt the clouds above.
+
+The limiter on their speed wasn’t power, but rather turbulence. The spell grew more chaotic the more powerful it was, and too many vortices would send the Heirs tumbling apart and potentially dash them against the ground below. Nathan did what he could to help maintain the spell, feeling like he was trying to keep a top spinning by flicking the side.
+
+With his Galefoot class skill, he could get purchase on the fast-moving air, but maintaining his balance was difficult. Khachi was having a similar struggle, but Sarah and Aarl were holding steady, Stella’s flight spell giving them the control needed to stay stable.
+
+Together they sped across the sky, accelerated to a few hundred miles an hour by magically conjured wind and headed toward the center of the blight.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 3
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 9
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 9
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Control 10

@@ -1,0 +1,167 @@
+---
+id: e337ce35-6b81-52c0-9d3a-23b26420a9a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-Six: The Search"
+slug: 0037-chapter-thirty-six-the-search
+partOf: flesh-eater-demon-evolution-litrpg
+position: 37
+ownLength: 2765
+unit: words
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2721019/chapter-thirty-six-the-search"
+royalRoadId: "2721019"
+---
+
+Callan hadn’t been lying when he’d said it was uncanny to be solid again—or, well, to look solid again. He had to consciously focus on staying opaque, and every time he moved his legs to mimic walking, he was acutely aware of the fact that he had no weight. He was still floating, just closer to the ground now.
+
+The ghost’s eyes darted around as he continued down the stone road leading to Magrath. The moon shone brightly above, its silver light illuminating the smooth stones. At this time of night, no one would be around in Winrow, but here there were still people strolling leisurely along the path to the city. He even passed by a few carriages.
+
+Every time someone walked by him or he heard clopping hooves, he had to resist the urge to flinch. The bracelet Pax had given him was tied securely to his wrist, and it felt like a lifeline. Consciously, he knew that as long as no one bumped into him, they shouldn’t notice anything was wrong, but he couldn’t help but be nervous. He still remembered that mage’s eyes in the forest, the total fear and hostility when he’d seen the ghost.
+
+He smiled wryly to himself. He’d probably looked much the same when he’d first seen Pyre. It was the universal expression of a human gazing at a monster. Odd to think how much could change in such a short time.
+
+Odd, too, to be in Auren. He’d never left that peninsula before, much less the entire country, and now he found himself trekking across the same lands his parents had been born in. Had they passed through Magrath? Had they found his body yet?
+
+The thought of his parents made a twinge rise in his chest, so he quickly shoved the thought down. He’d already decided to move on with his new life—there was no use in thinking about Winrow now.
+
+Callan heard the squeak of approaching carriage wheels and quickly stepped closer to the side. He didn’t actually travel on the grass, worried that someone might notice his lack of footprints, but instead stuck as far to the edges of the road as possible. So far, this strategy had worked fairly smoothly, and he was quickly approaching the city gates.
+
+Magrath was “small” compared to other major cities across the continent, but to Callan, it might as well have been the ancient capital of the angels for all the difference it made. His eyes widened as he peered up at the massive city gates, the walls and frame carved entirely out of thick slabs of stone likely taken directly from the mountains behind the city.
+
+Compared to Winrow, where all the houses were fairly squat and never taller than two stories, the architects of Magrath had apparently been on a mission to make the buildings as tall as possible. They’d taken advantage of the inclined ground to form a sloped shape—the deeper into the city you went, the taller the buildings became. He could even see what looked like a sprawling manor in the northeast-most section that was practically flush with the mountains. The layout gave Magrath a grand feel, almost like a looming wave about to crash over you.
+
+Callan’s eyes shifted over to the mountains behind Magrath. He could see a few ledges and smaller watch posts carved directly into the mountainside, and tall stone pillars and arches covered what must be the city’s sanctum. Of course, he thought. No one would be stupid enough to leave a waterfall of ichor uncovered and unguarded.
+
+Every part of him itched to visit the sanctum and see this ichor deposit himself, but he reminded himself that he had a mission to do. And so, with reluctance, he forced his eyes away from the sanctum and back to the main city.
+
+The gates were open right now, and it took all his willpower to stay relaxed as he walked through alongside a few other travelers. None of the guards standing on either side gave him a second glance, and he internally exhaled in relief. It was probably a good thing that the city was so active at night, otherwise a lone traveler would’ve looked a lot more suspicious.
+
+As it was, Callan quickly entered and glanced around. All the streets in Magrath were paved, their surfaces covered in small, smooth pebbles laid out in careful patterns. Whereas Winrow’s buildings were separated by trees and greenery, the buildings here were densely packed together. A few street lamps illuminated the paths, and many store windows still glowed with warm light. The city was far from asleep.
+
+The ghost inched along the edge of the road, once again keeping a constant lookout for anything he might crash into. Based on the layout of the city, he was willing to bet that the wealthier parts were further inside nearer to the sanctum. With that in mind, he followed the winding roads up towards the back of Magrath, hoping to find a few stores or antique shops that might specialize in unique magical artifacts like a demon horn.
+
+His instincts turned out to be correct, because he soon reached a particularly wide street that was bordered with various storefronts. There were a lot of people here, too. He narrowly dodged a harried-looking businessman as he rushed past.
+
+Callan ducked into a narrow alleyway, sinking into the shadows to stay out of sight. He exhaled and activated [Invisibility]. He had four hours to search for any sign of Tivona’s horn.
+
+The timer started now.
+
+The meeting in the Bellhein manor ended with little fanfare. Daphne barely had enough time to duck into a side hallway when the dining hall’s heavy mahogany doors opened and a line of officials exited the room. Their expressions were weary, the late hour and the subject of their meeting hanging heavy over them, but Daphne didn’t pay them much attention. Pressed against the wall in the shadows of the hallway, her mind was still churning with everything she’d heard.
+
+“Daphne?”
+
+A tired voice snapped her out of her thoughts. She spun around to see Edmund standing at the opening of the hall. The officials and her uncle were heading in the other direction, but her cousin’s room was this way. In her distraction, she’d forgotten that, or maybe she’d subconsciously waited here on purpose. She did have a lot of questions, after all, and Edmund was the only person she really trusted to answer them.
+
+“I thought I felt something in the ward,” her cousin continued, still in that weary voice. He didn’t sound particularly surprised to see her there—they knew each other too well. Daphne pushed herself away from the wall and spun around to face him.
+
+Growing up together, she and her cousin had always been polar opposites. He’d been quiet and studious since a young age—she used to joke that he’d been born with the mind of a world-weary sixty-year-old—while she couldn’t stand extended silences. They even looked different: Daphne had inherited her mother’s wavy, flaming red hair while Edmund had his own mother’s darker locks. They did both share the same warm brown eyes, though. A classic Bellhein feature.
+
+“Is it true?” she demanded.
+
+Edmund’s lack of an immediate response was confirmation enough, and Daphne felt her face fall.
+
+“You can’t be serious. The empire’s been stuck behind the Spine for years! What’s changed?”
+
+Her cousin shook his head. “I wish I knew,” he murmured.
+
+“You’re sure it’s true? I mean, this is just one spy talking, right?”
+
+“A very experienced, well-respected spy,” Edmund corrected. He frowned. “I… have trouble believing it myself, but those in the capital seem convinced that the Empire will break into Auren by the end of the year.”
+
+Daphne was quiet at that. The Tavrell Empire had been a looming force since her childhood, a constant presence on the other side of the mountains. After the death of the old emperor and the crowning of the current one a decade ago, that tension had finally exploded when the empire suddenly renewed its expansion efforts. Still, even as more stories from the front came out, even after the empire conquered Dunric and then turned their attention east, she’d always been somewhat sheltered from it. The idea of the empire’s troops in Auren was… chilling, to say the least.
+
+“…You’re heading to the capital?”
+
+Edmund nodded. “We need to discuss our next steps. The spy believes it’s some sort of ritual spell they’re preparing. If there’s a possibility of halting the empire before it crosses into Auren, we’ll pour all our efforts into that, but we’re still lacking information. In the meantime, we’ll need to discuss defensive measures, how to communicate this to the citizens, contact Ravarn…” His voice trailed, and Daphne gave a little smile.
+
+“Sounds like you’ll be busy, huh.”
+
+Edmund returned the look. He always looked a little awkward whenever he tried to smile—he’d never quite figured out how to make it look natural—but she appreciated the sentiment. “Unfortunately, yes.”
+
+“Careful, any less enthusiasm and I might think you don’t like meetings.”
+
+“Perish the thought,” Edmund said dryly. He frowned, expression turning serious again. “I’m leaving tomorrow morning. I don’t know when I’ll be back.”
+
+“What?” Daphne glanced around when she realized she’d whisper-yelled more loudly than intended, but thankfully, it didn’t seem like anyone had noticed. She turned back to her cousin and continued at a slightly less intense volume. “Were any of you planning on telling me before the literal last second?”
+
+Edmund shifted uncomfortably. “Father was going to mention it to you tomorrow evening.”
+
+Daphne gave him an unimpressed look. “You mean after you’d already left.”
+
+“He said he doesn’t want to cause you unneeded stress in case it worsens your condition.”
+
+A fresh spark of irritation rose at that. “Worsen my condition,” she said sarcastically. As if. For better or for worse, there was only one thing that could affect her “condition.”
+
+Daphne had no doubt that her uncle wouldn’t have mentioned the new revelations in the war to her at all, either. He probably would’ve just said that Edmund was away on business and left it at that, knowing the man. Hell, the fact that he was sending his son to the capital instead of going himself, as the current head of the family, spoke volumes. Probably too scared of getting attacked by bandits on the way there, she thought darkly.
+
+She clenched her fist. The only thing somewhat keeping her temper at bay right now was the fact that Edmund looked equally disapproving of his father’s choices. She forced herself to take a deep breath and calm down. Her cousin wasn’t the one she was mad at.
+
+“Well, at least now I know,” Daphne muttered. “You be careful, okay?”
+
+“I will,” he said in that all-too serious way of his. Daphne snorted and raised her arms. Edmund just stared at her, and she rolled her eyes.
+
+“It’s called a hug,” she said, amused. Her cousin blinked.
+
+“Oh. Yes. Of course.” He stepped forward stiffly and returned the gesture in that awkward way of his. “Please try not to be too cruel to my father,” he murmured. “He does mean well.”
+
+“That depends on him,” Daphne said darkly. Edmund sighed, but he didn’t try to argue the point. They separated, and he gave her a final nod.
+
+“Take care, Daphne,” he said. There was a slight somber note to his voice, an unspoken message that ran like an undercurrent through every interaction she had. Daphne forced her lips into a grin.
+
+“I’m not going to die in one week,” she joked. “Give me some credit here. I’ve got a few years left at least. I’m way too stubborn to keel over now.”
+
+Edmund was quiet for a moment. Finally, he smiled slightly.
+
+“Yes,” he said. “I suppose you are.”
+
+[The skill [Basic Flesh Sculpting] has leveled up! Lvl 3 —> 4]
+
+[The trait [Regeneration (Sloth)] has leveled up! Lvl 5 —> 6]
+
+Finally, Pyre thought. She straightened. Getting [Regeneration] up to level 4 hadn’t taken long at all, but the last two levels had been like pulling teeth. Even [Flesh Sculpting] had gotten another level in that time, bringing the skill’s total cooldown down to 6 hours.
+
+The demon reabsorbed her “stab” bone, as she liked to call it, and watched as her latest training wound closed. [Regeneration] was definitely a lot faster now, she noted, taking only a few seconds to heal a minor injury. She’d count it as a win. It was good timing, too, since the sun was just starting to rise.
+
+Beyond the Aurelia Woods, beams of golden sunlight shone between the gaps in the mountains, dyeing the sky a rosy pink hue. The forest leaves shone, and the dew on the grasses sparkled like jewels in the morning light. They almost looked like their own mini-ichor lights scattered over the ground instead of the canopy.
+
+Pyre squinted at Magrath’s silhouette in the distance. Obviously it was too far away to see what was going on, but she figured Callan should be returning soon. He’d technically gone past his invisibility time limit a few hours ago, but he didn’t necessarily have to stay invisible the whole time he was searching.
+
+She was fully expecting the ghost to return, having searched through a chunk of the city, with no new leads, or maybe he’d have a list of stores to check the next night if he was lucky. The demon horn was a single small object in a giant city-shaped haystack, after all. She was already prepared for the long haul.
+
+That was why, when Callan returned about half an hour later with a complicated expression on his translucent face, his next words were a genuine surprise.
+
+“I know where it is.”
+
+Pyre paused, taking a second to digest the words. When they fully registered, she whistled.
+
+“Damn, you must’ve been moving. I thought it’d take three nights at least.” All hail the power of ghost espionage.
+
+“So?” she continued. “Where is it?”
+
+Callan didn’t immediately answer, which wasn’t the greatest of signs. His frown was also not a good sign considering how quickly they’d achieved their goal. Usually that called for more of a celebratory look, not the vaguely constipated expression the ghost currently had.
+
+Pyre raised an eyebrow. “Did someone eat it or something? Do we have to dig it out of some poor sap’s stomach?”
+
+Callan shot the demon an unimpressed look. He cleared his throat. “No. It’s fully intact and undamaged from what I can tell.”
+
+“But?”
+
+There was that constipated look again. The ghost hovered to the side slightly as if shifting his nonexistent weight. “Uh, I don’t know if we’ll be able to retrieve it.” His brows furrowed.
+
+“It was sold to the most powerful family in Magrath. I tried to visit their manor, and it’s really well guarded. They’ve got alarm spells, wards, and a bunch of guards posted everywhere—I couldn’t even get close. They’ve even got a ward that catches incorporeal things! Specifically incorporeal things!” He sounded both frustrated and also a little impressed at how thorough the manor’s owners had been.
+
+Pyre hummed. So, they’d found the horn at record speed, but it was located in some wealthy, powerful noble’s home who was apparently paranoid enough to put up wards for literally everything.
+
+It sounded like an interesting challenge to her.
+
+The demon turned to the bag she’d dropped in the grasses and formed a singular arm to rummage through it. A nice thing she’d learned about the [Skeletal Recall] subtrait while messing with it earlier was that she didn’t have to grow the entire skeleton. She could use it to form a single limb if she wanted to, which meant she could now reliably create moving, fully functional fingers at record speeds. Very handy indeed.
+
+Pyre’s hand brushed against the stashed clothes and cloak she’d stolen from those guards, and she yanked them out. In hindsight, she maybe should’ve folded them properly instead of haphazardly stuffing them into her bag, but ah well. If guards gave her shit for her clothes being wrinkly, then she was probably so suspicious-looking to begin with that less-dingy clothes wouldn’t have mattered.
+
+“Uh, what’re you doing?”
+
+Pyre turned to Callan, who looked less confused and more resigned as he watched her. The demon grinned and raised the clothes.
+
+“Well,” she drawled, “I figured I should check if it’s really as bad as you say.”
+
+It was time to see Magrath for herself.

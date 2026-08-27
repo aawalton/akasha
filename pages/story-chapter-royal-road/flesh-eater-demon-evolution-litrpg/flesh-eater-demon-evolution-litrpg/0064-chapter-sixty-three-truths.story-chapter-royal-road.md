@@ -1,0 +1,121 @@
+---
+id: 977d1d5a-d029-53ef-a42c-fd02c533d809
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Three: Truths"
+slug: 0064-chapter-sixty-three-truths
+partOf: flesh-eater-demon-evolution-litrpg
+position: 64
+ownLength: 2131
+unit: words
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3038941/chapter-sixty-three-truths"
+royalRoadId: "3038941"
+---
+
+Red light poured out from the circle of glyphs, the color stark against the subtle blue tints of the sanctum. Daphne cursed and backed away. Pyre could see the tip of her finger begin to glow as she prepared a spell.
+
+The demon shifted her weight, turning to face the ichor pool at the ready. Her flesh undulated below her bandages, but she didn’t shift or grow any bones just yet. She wasn’t blowing her cover unless she was sure she needed to.
+
+Pyre caught a glimpse of Callan turning invisible in the corner of her eye just as the light grew blinding. It engulfed the chamber, completely overpowering even the glow of the ichor. Through that light, Pyre could just barely make out a dark shadow forming in the center of the glyphs. It was followed by two hunched, significantly larger silhouettes on either side of it.
+
+Then, all at once, the glow died down. All traces of red light were confined back to those circular runes, and the blue and silver hues of the sanctum returned.
+
+Three new figures stood in the center of the chamber.
+
+Two of them weren’t human. The ballooning shadows had given way to reveal two hulking giants that stood at twice Pyre’s current height. Long, thick arms of corded muscle hung all the way down to the ground, and stringy black hair that resembled grass obscured much of their faces. From what the demon could see, their heads were somewhat humanoid, but they had no eyes. Rows of crooked teeth jutted out where they couldn’t fit inside wide mouths.
+
+Their skin was grey and caked in dirt and green moss. Their flesh looked hard, too, without any softness or give. It almost looked like someone had carved the creatures straight out of earth and stone. The faint, glowing red lights in the center of their hunched chests were the only parts of them that weren’t earthy in hue.
+
+Standing calmly between the two creatures was a human man. He looked older, his back straight and completely undeterred by the beings towering on either side of him. His stern, severe expression emphasized the wrinkles in his face. Long dark robes fell around his body, making him seem larger than he was, and Pyre could see some sort of symbol embroidered into the front of his clothing with silver threads. Callan’s voice hissed beside her ear.
+
+“Empire mage.”
+
+Daphne must have come to the same conclusion, based on the way her breath hitched. Her shoulders were tense, jaw rigid as her eyes darted between the human and the two creatures on either side of him. The man, meanwhile, simply dusted off his clothes and looked over at them. He frowned.
+
+“Where is Lord Bellhein?” His voice was smooth and confident, echoing slightly in the enclosed sanctum.
+
+Dark eyes landed on Daphne’s glowing finger, and the noble quickly dropped the spell. Pyre could practically see her mind working a mile a minute, but she managed to keep her face still. Daphne straightened and cleared her throat.
+
+“Apologies, you startled me.” She grabbed her dress and performed a light curtsey, the image of composed grace. “My uncle will be here shortly. He had some other business to attend to,” she murmured.
+
+The mage nodded slowly. “You are… Daphne, correct? I recognize you. Lord Bellhein mentioned you before.”
+
+Pyre could see Daphne grit her teeth before straightening again, her expression smoothed into a perfectly pleasant smile.
+
+“Yes, it’s nice to meet you.” She gestured over to Pyre, hesitating a little when she didn’t see Callan, but she didn’t miss a beat when she spoke. “This is my guard, Pyre. My uncle thought it would be rude to show up late without warning, so he sent me to inform you.”
+
+The mage turned to glance at Pyre, pausing when he took in her height and bandages. So far, he hadn’t been at all wary around Daphne—he probably didn’t know much about her beyond her being Lord Bellhein’s niece—but the demon’s presence seemed to give him pause.
+
+Pyre met the mage’s gaze steadily. It seemed like Daphne was trying to pretend like she knew what was going on, and so far, the charade was working. It was a good thing the man had recognized her as actually being who she said she was. Pyre decided it didn’t hurt to play along for now—they might be able to get some more information about the summoning circles if they played their cards right.
+
+Slowly, she dipped down in a slight bow and shifted her gaze to the side. That seemed to be enough to put the mage at ease for now. He cleared his throat and returned his attention to Daphne.
+
+“It’s still quite rude,” he said, a tinge of annoyance entering his voice. “I have places to be. I don’t have time to wait for your uncle to get here.”
+
+On either side of him, the two creatures shifted a little, long arms dragging along the sanctum floor. Pyre watched them closely, but they didn’t seem like they were planning to move closer or attack anytime soon. She wasn’t sure they were sapient, to be honest.
+
+The demon thought she could see sweat forming along Daphne’s forehead, her hands trembling ever so slightly, but she managed to project an impressive amount of outward confidence. If Pyre didn’t know that the noble had been completely blindsided by all of this, she would believe everything she was saying to the Empire mage.
+
+Through her thermal vision eye, Callan’s blue splotch slowly floated to the back of the sanctum. He hesitated a little around the giants, but neither one of them seemed to notice him, so he continued until he was a few feet behind the mage. Good thinking, Pyre thought. If things turned sour, the kid was in prime position to drain the man.
+
+The demon herself subtly shifted her weight. She’d left her guard-issued axe behind, but she did have a sheathed shortsword hanging from her belt. If this turned into a fight, it might not be possible to maintain her human disguise, but she could at least try in the beginning. There was still a chance that no fight happened at all, if Daphne managed to continue lying to the Empire man.
+
+The noble made a sympathetic noise. “I’m sorry, my uncle can be a bit… scattered.” She sighed dramatically. “You’d think he’d make more of an effort for something this important, but old habits die hard, I suppose.” The mage huffed in agreement, confirming both that he’d met Lord Bellhein before and that he didn’t particularly like the man. This was a business arrangement first and foremost.
+
+Daphne cocked her head. “If you’d like, I can pass a message to him, then you can be on your way. I wouldn’t want to take up too much of your time.” Her brown eyes were wide, making her look younger than usual. Between that and her deliberately smaller posture, she was the picture of innocent earnestness. Clearly the act worked on the man, because he didn’t seem to view her as a threat at all.
+
+He gestured at the creatures on either side of him, both still standing hunched and unmoving.
+
+“I was going to show him the increased size limitations of the transport circle,” he said wryly, “but I suppose you’ll have to tell him yourself.” He clicked his tongue. “I only came here because he demanded a live demonstration the last time we met. Clearly I shouldn’t have bothered.”
+
+Daphne nodded slowly, gaze moving carefully to the two beings in question. “And these are… golems, correct? They’re very impressive,” she complimented.
+
+Golems. At least Pyre now had a name for them. The word seemed vaguely familiar, but she couldn’t place where she’d heard it from or what, exactly, they were. She could guess, though.
+
+The man smiled at that. “Indeed. These are our final models.” He tapped one of the golem’s hanging arms. It didn’t react at all. “We should have a hundred ready in time for the invasion.”
+
+Daphne stiffened. Even Callan’s bluish gradient seemed to still at the mention. Pyre caught Daphne’s fingers squeezing the cloth of her dress so tightly that her knuckles turned white behind her back. The noble took a deep breath, attempting to calm herself.
+
+Daphne’s expression shifted into a frown, and she gave the two golems a skeptical look. “A hundred? Please forgive me, but I find that difficult to believe. Golems, especially ones as advanced as this, take a significant amount of time to create.”
+
+The man narrowed his eyes at that. “Perhaps it would be impossible in your puny little country,” he began, an edge of danger entering his voice for the first time, “but our mages are more than capable of it. Two weeks is plenty of time.”
+
+Two weeks. Daphne mouthed the words to herself like she couldn’t believe them.
+
+By now, the pieces were coming together to form a clear picture. All the little oddities of the past week made sense now—Lord Bellhein’s weird, paranoid behavior, the total shutdown of the sanctum, his certainty of an invasion from the Empire despite them never successfully crossing the Spine before.
+
+As it turned out, they didn’t need to make it past the mountains if they could directly transport soldiers—and monsters, it seemed—with ritual magic. Tivona’s horn just happened to be one of many components necessary for the spell to work.
+
+And Pyre’s soul fragment was another one. It might even be the most important one, based on its position on the platform.
+
+It would make sense based on what she knew of the war. If the Empire had the ability to perform a spell like this sooner, they would’ve. The only reason they hadn’t was because they didn’t have all the components necessary to power it. A single demon horn was nothing to an empire, especially one that apparently regularly worked with monsters. A soul shard? That was much rarer.
+
+How had the fragment ended up here in the first place? Pax had just said that her soul was “scattered,” but a part of her hadn’t expected that to be quite so literal. Had someone simply found it and realized it could be used for ritual magic? The demon didn’t know, and frankly, how the soul piece ended up here was the least of her worries. Her bigger concern was getting it back.
+
+It was funny. Pyre still didn’t feel especially strongly one way or another about putting her soul together or getting her memories back, but she wasn’t going to let a fragment go when it was right in front of her. And she certainly wasn’t going to let it be used in some fucked-up ritual. The thing belonged to her.
+
+Up ahead, Daphne was still frozen with the revelation of the impending invasion. Two weeks wasn’t a lot of time. For someone who’d grown up with the Empire kept at a distance by the Spine, always a threat but still far, it was probably earth-shattering.
+
+The mage frowned. “Is something wrong?” Daphne jumped a little, and his eyes narrowed in suspicion.
+
+“Sorry, I—I zoned out.” She coughed, laughing nervously. “It’s a bad habit of mine.”
+
+The mage, however, wasn’t listening. His dark eyes swept across the chamber, and Pyre could see the exact moment when they landed on the open tunnel door. The one Lord Bellhein didn’t know about and never used.
+
+“…Your uncle doesn’t know you’re here, does he.”
+
+Daphne stiffened. Pyre took a silent step closer, but so far the two golems hadn’t moved yet. The mage was staring at Daphne with a look of disdain.
+
+“I should’ve known. Of course Lord Bellhein wouldn’t be able to keep a leash on his ward,” he muttered. He shook his head, lip curled in a sneer. “You have no idea what you’ve gotten yourself into, girl.”
+
+The man took a step forward, dark robes streaming behind him as he moved. The red stones embedded in the golems glowed a little brighter. “If it were up to me, you would be dead where you stand, but I need your uncle’s cooperation.”
+
+His voice practically dripped with condescension. “Do me a favor and stay there like a good child until your uncle arrives. If you behave, you’ll leave with a minor memory wipe, and you’ll forget this ever happened.”
+
+“Like hell,” Daphne muttered under her breath. The mage frowned.
+
+“What?”
+
+Daphne’s head snapped up, brown eyes blazing with fury. “Go. To. Hell!”
+
+She threw her arm up, hands twisting in a series of rapid gestures. Red light flashed across the sanctum. In the next instant, a burst of scorching flames shot out of her palm, spiraling straight towards the Empire mage.

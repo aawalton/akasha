@@ -1,0 +1,127 @@
+---
+id: bcb53266-e5d0-53df-bed4-c5a9b7ac5ede
+page-type-slug: story-chapter-royal-road
+title: "Chapter 392: Close Encounter of the Demonic Kind"
+slug: 0429-chapter-392-close-encounter-of-the-demonic-kind
+partOf: dungeon-of-knowledge-complete
+position: 429
+ownLength: 2700
+unit: words
+ownProgress: 2700
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2633258/chapter-392-close-encounter-of-the-demonic-kind"
+royalRoadId: "2633258"
+markedReadAt: "2026-06-29T20:26:34.073Z"
+---
+
+Malika sprinted back to the camp with her heart pounding, hopping over roots, sprinting up tree trunks, and dancing along the fresh, verdant branches already sprouting new leaves in defiance of the blight that had once held this forest in its deathly grasp. Her footsteps barely rustled the leaves, and she relished the sensation of crisp, clear night air rushing across her cheeks, relying almost entirely on the broad range of perception she enjoyed from Soul Sight to navigate the darkness by the guiding light and flickering glow of their campfires.
+
+She’s alive!
+
+It took only a few minutes to find the spot where Mato had commandeered a campfire and set up his kitchen, cooking up a storm and doling out generous helpings of stew to all comers: the unfortunate, the weary, and the hungry. Malika hopped down from the branch she had landed on, alighting gracefully in the clearing, careful to choose a spot that was well inside the warmth and light of the campfire, so she didn’t startle Mato’s kitchen guests. Calen and Mato themselves had already seen her approaching, of course.
+
+“Malika. Welcome back,” Mato said, not even bothering to turn around from the campfire and his bubbling pot. “How is Seth?”
+
+Calen lifted his gaze from the unstrung bow in his lap, pausing his obscure maintenance of the bowstring to wave a quick greeting. Then he resumed his work, collecting a delicate mithril dagger from where it rested on the mossy boulder beside him and producing another length of twine that shimmered softly with imbued mana from his storage.
+
+“Seth is fine,” Malika said, and then took a deep breath. “Ali is alive!”
+
+“Of course she is. She’s toughness incarnate,” Mato answered, tossing a handful of spices into his pot and stirring vigorously.
+
+Oh, to have such a straightforward view on life! she thought, wanting nothing more than to punch him for that comment, but then she relented. It’s called having faith. He’s always been a believer, and it gives him a different kind of strength.
+
+But Calen’s head snapped up instantly, his eyes fixed intently on her as if desperate to believe her words. “How… how do you know?”
+
+“Seth still has her mentor patronage,” Malika answered, relishing the triumphant surge from her heart.
+
+“Oh, thank goodness,” Calen said, slumping down as if the tension of not knowing had been all that was keeping his knees functional. “I thought… I thought I got her killed. I wasn’t even conscious. I could have helped her…”
+
+“I told you so,” Mato said, handing Calen a steaming bowl of stew that gave off such an enticingly spicy aroma that Malika’s stomach instantly growled.
+
+“Yes, but you didn’t know!” Calen countered.
+
+“I did,” Mato insisted, wordlessly offering Malika a bowl heaped up with a generous helping. He gave her a wicked grin as her stomach repeated its noisy demands.
+
+“You’re insufferable, you know?” Calen grumbled.
+
+Apparently, Calen was considering smacking him, too.
+
+“Thanks,” Malika said, accepting dinner, and she sat down with her friends, grateful for something warm and filling after such an incredibly long and challenging day. She inhaled deeply and then took a small bite, savoring it for a moment. Then she wondered if Ali was starving. “Ok, so, how do we rescue her?”
+
+“We break that dungeon, flatten that Mana Eater, and then we go open the rift,” Mato said, dropping his bulky frame to the ground between the two of them with a grunt and digging in like a ravenous beast.
+
+Malika noted the bold and unsurprising simplicity of his plan – almost identical to the plan Seth had suggested only a few minutes ago. “I know a few people who will help.”
+
+“That’s a good plan,” Calen said, nodding as he cradled his chin in his right hand, bowstrings and stew forgotten. “We should probably discuss it with Vivian first thing in the morning, and then I can consult with the other raid leaders and draw up a map of the known monsters, bosses, and their locations. Once we get down into the dungeon, we can scout out the bosses and figure out which ones we need to kill and plot our route based on that. This time, we’ll be prepared.”
+
+Malika smiled. Calen, of course, had instantly filled in all the details, and even though he called it the same plan, his was nothing like Mato’s. But both of them seemed oblivious to that fact, nodding in agreement with each other. At least they did not have to fear the Blind Lich appearing from nowhere to upend the lives of thousands, bringing ruin and destruction… not for a while, anyhow.
+
+Her heart still felt impossibly tight, but most of the despair and anguish had already begun to fade. She was still struggling with Rezan’s death – the sudden loss of her mentor and the first role model she had acknowledged since her parents had passed. She would be struggling with that for a long time. But, what, if not this, was all her knowledge and training for? All the wisdom and skills she had earned under his blunt but effective tutelage. What good was being powerful if you didn’t use it to help your friends when they needed it? Rezan would definitely approve.
+
+Hang in there, Ali! We’re coming to get you.
+
+Ali jerked herself awake in the close embrace of her earthen tomb. Darkness pressed in on her from all sides, and even by the soft glimmer of her domain mana emanating from a few small patches of moss, she could see no exits that led onward from this small chamber of earth and rock. Only the long, dark, twisting path behind. Her acolyte sat in quiet repose, her hands clasped in Prayer above her heart and her back resting against the wall.
+
+Rock rippled, and the enormous carapace of the Subterranean Brood Queen swam out and emerged into the cramped and enclosed tunnel segment, swiveling her head to regard Ali closely, before she swam back into the earth to keep watch. Three fresh Borer Beetles skittered about, left by the anxious queen to keep her safe.
+
+Ali had stopped having her Brood Queen fill in the tunnel behind her after about an hour of boring their way through solid rock, but that had been so long ago that she had lost sight of the twisting and winding tunnel they had left in the dark. All that remained was the soft glow of her domain, propagating between the small footprints of wildflowers, moss, and mushrooms she had left behind. This had been one of several naps she had needed, but down in the unchanging world of a narrow underground hole, she had no idea if it had been a day passing, or if she had just been exhausted. Her only indication of the passage of time would likely be the slow healing of her Life Channeling – but although she could sense it, not enough time had passed for it to become clear on her status sheet.
+
+“Ok, let’s continue,” Ali announced. Immediately, the rock wall in front of her crumbled, and the heavy, augmented carapace of the Brood Queen appeared, creating a passage for her to follow.
+
+Ali summoned her Grimoire and began to follow. Her mana flowed into the floating magical tome, spilling green and golden light into the growing tunnel carved out by her earth-affinity beetle. Everywhere she stepped, she sprouted tiny golden glowcap mushrooms and bright green verdant moss – the original backbone of her domain, now so easy to summon that she could do it continuously, indefinitely, without ever running out of regenerated mana.
+
+But it was not her eyes she was using to see – all her focus and attention was in the subtle interplay of energy seen through her mana sight and the strange Earth Sense possessed by the Brood Queen. Lost, and without any sense of direction in this underground realm, she allowed her Brood Queen free rein to chase after any interesting rocks, ore, or metal veins, resulting in a meandering path that sliced through the earth, filled with a dimly lit trail of mushrooms and moss as she clung to the remnants of her domain like a thirsty traveler in the deserts of Brast, latching onto the last drops of water in their empty canteen.
+
+Something shifted then – a ripple in the tactile presence of Earth Sense in Ali’s mind. Something was different, a little below and to the side of where she walked. At first, she ignored it, assuming it was an unusual rock formation of insufficient value to interest her Brood Queen, but after a few moments, she realized that what she had detected was far larger than a mere mineral formation. Earth Sense could not convey what it was – it was not so much something that was sensed as much as it was something that seemed to be missing. A gap in her perception, as if something was blocking her ability to perceive in that area.
+
+“Can you check that out? Carefully?” She nudged her Brood Queen mentally, and immediately the tunnel took a sharp downward turn, heading directly toward the phenomenon, slowing down as the Queen intuited Ali’s need for subtlety and caution. Several minutes later, the giant beetle broke through into empty space, but she and her brood clung to the rock, just as comfortable upside down hanging over a sudden vast emptiness as swimming through the earth.
+
+Of course, Ali thought. Earth Sense was an earth-affinity perception skill – it didn’t work if there wasn’t any rock or dirt to sense through. Cautiously, she peered downward, favoring the Brood Queen’s eyes over her own, but nothing moved in the dark emptiness below. But even quiet as it seemed, there was no way she was waltzing down there in the dark without knowing what she would be walking into.
+
+She regarded the only two minions she had to her name: the Subterranean Brood Queen and her Acolyte of Azryet.
+
+If either of them dies, I’m finished. Sure, there were a dozen or so Rock Beetles that the queen had summoned to aid her, but it wasn’t nearly enough for this. She backed up into the tunnel again and began to summon her best scouts.
+
+Abyssal Stalker – Demonic Spider – level 78 (Blood).Dagger Rogue – Kobold – level 85.Your reserved mana has increased by +319.
+
+Even lacking most of the benefits of her previously extensive domain, it still wasn’t a particularly large amount of mana – at least, now that her mana pool was mostly full. The stalker was particularly good at picking out foes by the scent of their blood and scrambling around upside down where other minions couldn’t go, but the kobold was quite a bit smarter. As much as a slime or ooze excelled at getting into places others couldn’t go, she required some intelligence for this task.
+
+“Go find out what’s down there,” she said. “Don’t be seen.”
+
+“At once, Ancient Mistress,” the kobold whispered, visible only by the glow of his eyes glinting in the light of her Grimoire. He bowed and vanished into the darkness, followed immediately by a subtle shimmer in the shadows which was all she could see of her Abyssal Stalker. She watched curiously as the two of them landed in a pitch-dark tunnel, substantially broader than she had expected. Then she had them split up, one going in each direction to explore.
+
+It took almost fifteen minutes before her Abyssal Stalker reached a dead end – a small dry cavern strewn with jagged rocks, and by the time she had it return, she had dropped down into the tunnel herself, beginning to carpet the ground with her plants to expand her domain. The cavern it had discovered was not particularly large, but Ali hadn’t found much space to grow her domain till now, unless she simply excavated a cave somewhere in the middle of nowhere.
+
+But that won’t get me home.
+
+It wasn’t like she had a real plan, though, but at that very moment, her kobold rogue stepped through something that immediately grabbed her attention. The air around her minion had suddenly grown thick and hot, and it prickled with a raw energy and power that the kobold could sense even without mana sight. As soon as Ali focused on her rogue directly, she knew what it was – a domain. And it was heavy.
+
+It was the only description she had; the domain was so dense she felt like she could have her kobold swim through it. The weave – what she could feel of it through the mundane senses of her minion seemed fluid and flexible – but it was his nose that gave her the clues she needed. An acrid stench of burning that seared the nostrils, and the cloying iron tang of too much blood. She recognized it. It tasted and smelled like that Pit Lord – but to say she recognized it was like looking at a mountain and saying she recognized it from a pebble she had once seen.
+
+Hellfire and blood.
+
+Up ahead in the darkness of the tunnel, something moved. Something nearly invisible in the shadows – even to the uncanny dark vision of a kobold’s eyes. Twin red gleaming orbs glinted briefly from the darkness and then vanished. Her kobold held his breath and cowered in the shadows, trying to meld himself with the rock and jagged stone jutting from the walls until Ali was certain that whatever it was had moved on. Nestled as she was within his awareness, she could feel his heart pounding and the rush of blood pumping through his ears. Even though she was personally quite far from the unknown creature, she still shuddered.
+
+Carefully, she considered her predicament. She had found her first tunnel after hours of digging – her first anything – but it was blocked. On one side, she’d reached a dead end, and on the other, what seemed to be a powerful dungeon of hellfire and blood magic. It could not be a coincidence, given the demons she had encountered so far. It must be the dungeon Calen had scouted so long ago, the Lair of the Demon God, but she hadn’t quite expected the domain to extend so far or to be so powerful.
+
+I cannot risk it detecting me. If she grew her domain in that direction, she could easily trigger a dungeon rage, and there was no easier way to draw the ire of a dungeon. It would undoubtedly bring a horde of monsters down on her head, likely far more powerful than the break that had chased them through the rift. She was already deconstructing the domain plants she had grown in the tunnels behind her to prevent any chance of demons detecting her mana and using it to lead them to her. The extra mana her domain provided would be incredibly useful, but she couldn’t risk it. Until she found a safe spot, she would just continue dragging her domain along with her.
+
+She could circumvent the dungeon rage by twisting her mana to match the domain, but the thought of adapting herself to match that demonic dungeon domain sent shudders of revulsion and terror through her. She didn’t know for certain, but she was almost certain the undead Lira had somehow abused her compatibility to consume her entire dungeon – there was no other explanation for how fast Ali had lost everything. Or how completely.
+
+She levitated herself and her minions back up into the tunnel and closed it up behind her, taking care to deconstruct the last of the plants she had begun growing below. If her domain by the rift had attracted monsters, then planting this tunnel right outside the demon dungeon would simply be inviting disaster.
+
+All that remained were the remnants of her nature and arcane mana, slowly fading in the air below. As soon as it dispersed, she should be undetectable.
+
+I’ll just have to go around.
+
+The demon dungeon was large, but it couldn’t be that big, could it?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

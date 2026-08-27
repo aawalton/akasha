@@ -1,0 +1,193 @@
+---
+id: 802078af-7a72-5bd1-a861-edcd4a795905
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: Opening Statements"
+slug: 0078-chapter-63-opening-statements
+partOf: ends-of-magic
+position: 78
+ownLength: 2879
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3143448/chapter-63-opening-statements"
+royalRoadId: "3143448"
+---
+
+Nathan climbed to the top of the platform, trying not to feel crushed by the eyes of the tens of thousands of Questors, not to mention some greater number watching remotely. Kaelis gave him a firm nod as they passed each other, and the gesture made Nathan feel inexplicably better. There was a lot of pressure on him, but those around him believed in him. They thought he could do this, and who was he to say that they were wrong?
+
+He looked around at the assembled masses and seized firm control of himself. He didn’t bow, because that would set the wrong tone. For a heartbeat, he simply looked at them and let their anticipation build. He felt the attention of Davrar on him in more ways than one. The system itself was paying attention to him here, suppressing his social skills and conveying his words to the people Davrar had been built for.
+
+“Questors,” he began, his voice steady and a bit dry. “I stand before you a mortal. I’m sure a lot of you are wondering just how I got here, and I direct you to the events of the recent polite war between the Aleph Grid and the Ashen Accord. I believe my friends and I made our case for being heard rather clearly.”
+
+The statement was rewarded by a ripple of laughter from the audience, and Nathan let it settle before continuing in a more sincere tone. “But really, I’m here because I’m mortal. I’ve cleared a blight, I’ve killed grids and taken down their civilizations. But all of it was to get me right here, standing on a stage built for immortals. All of it, so I could ask for changes to Davrar.
+
+“Because Davrar is beautiful, in the way a storm at sea is beautiful. The world above is breathtaking, as is the way it teases you with unending adventure. Even the things that want to kill you are amazing. The varied dungeons, the way that history and magic are tied into every facet of the world. It’s a place ripe for the joy of exploring the dangerous unknown and building something from it.”
+
+His expression tightened slightly. “But the perspective of a mortal is a bit different. We live in ruins. Most towns are built on the wreckage of those who came before. Our roads run through collapsed empires, and the children grow up playing in broken fortresses and learning which stones hide lethal danger.” He looked down, pacing back and forth. “And at adulthood, we are inducted into terrifying knowledge - that the Endings come. That they will come again. That anything we build will be erased by the very design of Davrar.”
+
+He let the room sit with that for a moment. “It is a terror that becomes tradition, the background noise of our lives. You look around and see the wonders of the past, and know that even if you strive, it will never matter. No matter what you achieve, the Endings will hammer you flat all the same.”
+
+Nathan straightened up, his voice sharpening. “That is why I call the Endings cruel. Davrar is a world of challenge, of adventure. But the Endings are neither.” He raised a fist. “A challenge is an obstacle to overcome, and then the satisfaction of reshaping the world in victory. A challenge makes winning mean something, but the Endings betray that. They are a ceiling on meaning. Why build a city if the world will only devour it? Why love, or create, or plant trees? Oblivion will come for all of it regardless.”
+
+He opened his hand, spreading fingers wide. “Mortals accept death every day. I will die someday, and so long as it is a worthy cause, I won’t have any regrets. But under the Endings, there is no worthy cause. Any triumph is temporary, and any victory gets wiped away.”
+
+Nathan exhaled, letting the tension leak out of his body and his voice. “I’ve met many Questors, friends, and enemies alike. I call some evil and some good, but it doesn’t matter. What matters is that all of you avoid the Endings.” The crowd stirred. It wasn’t dramatic, just thousands of people fidgeting uncomfortably. “Most of you stay in places like Ostren, wiped clean of dangers and protected against the Endings. You engage with each other, not the greater world of Davrar.
+
+“It’s not cowardice,” he said firmly. “But the Endings are tedious, just like the Blights. Fighting one enemy across an entire continent?” He flicked his wrist. “They flatten the world, make every continent feel like the same story told again. A ruined civilization, dungeons across the land, and the mortals struggling to retake old glory and doomed to failure without incredible external aid from an entire grid of Questors.”
+
+He shook his head, looking down. “The Endings betray the thing most of you came here for. Adventure, exploration, and the chance to build something new.”
+
+Nathan’s tone warmed, his gaze rising. “Now imagine a Davrar that doesn’t eat its own stories. Imagine a world where mortal civilizations have the breathing room to grow and interact. Where politics matters because it persists, where art matters because it survives. Where institutions can be built, guided, and evolved instead of regularly ground down to rubble.”
+
+He made a wide gesture outwards, indicating the world beyond the arena. “You want novelty? You want interesting adventures and wars that are more than bragging rights? Then you need to allow mortals to build something worth engaging with. If you’re tired of the Game of Questors, then play the game of Davrar, with cities that become powers, cultures that have the space to look beyond survival. That is how you create stories that continue and grow. A stable world won’t become dull; it will be deep.”
+
+He lifted a finger, shifting into a more practical tone. “I know this isn’t a simple request. New magics and new species will need to be introduced in new ways, and I’m sure there are a thousand other details to address. I don’t have solutions for all of that. But look around. See all of the other Questors. If you agree that something needs to change, then you can make it happen! I know that a conclave usually starts with a concrete proposal, but this is too big. It will touch every continent, every Questor. We’re going to be figuring it out in real time. If you have ideas or want to get involved, talk to Colborn. He’ll be organizing committees and working on drafting up a full plan over the course of the conclave.” He pointed down at where the short Questor stood. He loomed larger, waving around at the crowd with gravitas.
+
+The reaction to that was mixed. Some people seemed excited to get involved. Others were confused by the lack of specifics, and even more thought the whole thing was ridiculous. Nathan spoke to that crowd next with steel in his voice, a challenging tone present he’d refrained from using this far. “Here is your choice, plainly stated. You can keep a world that devours its wonders before they have a chance to grow, where every mortal triumph is temporary scenery for immortal rivalries.” He paused, holding the tension for a critical moment. “Or you can choose a Davrar that grows legends, where victories endure, and mortals are more than just survivors scrounging in the ruins of their ancestors.”
+
+He drew a slow and exaggerated breath. “I know which Davrar I’ll fight for. I will not accept a meaningless death.” His voice rose just enough to make it a vow rather than a threat. “I ask you, vote for change. Vote to make Davrar better. A living world, with civilization and power instead of death and ruin.”
+
+Nathan bowed his head and walked down the steps, ceding the floor. A susurrus of voices sprang up as ten thousand Questors started to discuss his words. Nathan moved quickly, joining Colborn and the others and sharing a fast round of congratulations before vacating the stage and flying towards the seating area staked out by the Ashen Accord. The conclave was supposed to move quickly, and you weren’t allowed to hog the stage if you weren’t speaking or fighting.
+
+“How was it?” he asked quietly. He’d expected Colborn to answer, but the man appeared busy with his interface, eyes flicking back and forth and constantly speaking into a complex messaging enchantment that was catching and routing magical signals.
+
+Kaelis spoke instead. “Good. You proposed more than we expected. People will be expecting you to speak again. Earlier than we were ready for.”
+
+Nathan shrugged. “Our enemies are going to make sure they have a counter for me. I even expect I know who it’s going to be. There’s no way they’ll let you bait it out. I’ll just have to win.”
+
+The Questor shot Nathan a doubtful expression. “You’ve made enemies, and they have a chance to be rid of you permanently. They will value it over a strong argument.”
+
+“Probably,” Nathan agreed. “We just make them pay for the attempt.” He gestured out towards the stage, where the next speaker was already taking their position. “Maybe I should start now.”
+
+Sussu stepped onto the stage as if she owned it. Her time had started the moment Nathan had left the stage, but she didn’t hurry. The tall and androgynous woman strolled up to the speaking platform and raised a polite smile to the room. A magnifying effect appeared before the Heirs, allowing them to see her more clearly.
+
+“No,” Vesh said directly. “She’s mine. We need to draw the battle lines and show we stand behind you."
+
+“Questors,” Sussu said, voice dignified and polite. “This is a waste of our time. We all just listened to a mortal begging for mercy, trying to encrypt it as philosophy.” Her eyes flicked to Nathan. “He’s not even honest about what he is. He is a thief. He stole from my vault in Esebus, taking power he did not earn. He and his mortal friends used my artifacts to win a battle he had no place in. Now he stands here and claims that victory lets him speak to us on equal terms.”
+
+She sneered. “He speaks of changing Davrar, as if it belongs to him. He dreams loudly, because his life is short and he cannot bear the shape of Davrar as we made it. What is he, to ask us to bend to his will?” She snorted contemptuously. “He is a mote of dust, and I declare a prophecy of death. He will die soon, he will die loudly on this stage. Then he will vanish into the past with all of the other foolish mortals that mattered for a season before burning out. Let this thief be forgotten, so we may all return to matters worthy of us.”
+
+She stepped off the platform, shaking out the bangles on her arm and limbering up her shoulders in preparation for a fight.
+
+Vesh vanished from his seat in a twist of the deeper magic, the Davrar-executed teleport putting him on the opposite side of the stage from Sussu. The hemispherical stage suddenly became a larger hollow sphere. There was no moment of transition. It just became an orb, transparent to the point of barely being visible. The ground vanished from beneath both Questors as they floated on opposite sides of the enclosed space.
+
+The crystal flashed dimly once, then twice, and on the third flash the fight began. Sussu activated multiple magical items, the artificer pulling up shields of force and extending a blade of blazing light from her fist. Wizardry swirled in the air around her and reached outwards like the tentacles of a giant squid.
+
+Vesh simply vanished, and Nathan blinked. His magical senses couldn’t penetrate the sphere of crystal, and it left him feeling blind to what was actually happening. He resisted the urge to try and jam a tendril of antimagic through the crystal to give his senses a way in, and simply waited.
+
+Sussu also didn't seem to have any idea where Vesh had gone, and her barely-there tendrils of wizardry swiped through space randomly, trying to blindly catch the elusive black-armored fighter. Then she gave up and withdrew another weapon, pointing a cone-shaped artifact towards Vesh’s side of the arena. It blasted forth a rain of metal needles, each expanding as soon as they were fired to fill half the sphere with a rain of hot lead too thick to dodge.
+
+It was at that moment Vesh struck. He appeared behind Sussu, standing stock-still with his sword held diagonally down. The entire scene was frozen, with the only movement the plinking of the metal needles falling to the bottom of the arena. Nathan was confused by the stillness up until Sussu fell apart into two pieces. The shielding and panes of magic surrounding her also parted, useless against Vesh’s blade. He flicked the weapon to the side, sending out a fine spray of blood before wiping the weapon off and sheathing it. “Loot claimed in victory is not theft," he declared. "And everything starts as a dream."
+
+Then he vanished again, and Kaelis took the stage. Nathan knew that these first few speeches were important, but he was still surprised that Kaelis was appearing again so soon. He’d heard some of the discussion of the lineup, but it had shifted quickly and it seemed the plans had changed once again. He felt a little bit uncomfortable being so unaware of his own side's strategy, but there just hadn’t been another option. There were too many moving parts, too many different pieces of the conclave. He’d been focused on his own performance and just had to trust his allies to carry their own weight.
+
+Kaelis surveyed the conclave with an air of unmistakable authority honed by centuries of leading an organization of free-spirited fighters. “Questors. When one of us walks into a mortal city, what do we do? We do not learn their names. We do not respect sovereignty. We treat the mortals as pieces to be maneuvered, as the terrain of our battlefields. We expect respect, but do not offer it in return.”
+
+He leaned forward agressively. “I am not saying we are monsters. Apathy isn’t malice, but it is easier to carry because it requires nothing from us. We simply don’t care about the mortals until they become useful.” His voice shifted to sarcasm. “After all, they simply don’t live long enough to accomplish great deeds, do they?”
+
+Then he pointed back to Nathan and the Heirs. “But look at them. They rose on their own and accomplished deeds and fame that would make any Questor proud. We say that any of us could do the same, but why don’t we?”
+
+He gestured once, sharp and controlled. “Here is a truth. Mortals are what make Davrar interesting. The wars and squabbling of grids exist outside their side of Davrar. But the reason you are here is because of the mortals. They are the spark that creates meaning, because they feel the pressure of death in a way we don’t. They wish their lives to mean something, to have a testament to their existence. We are freed from that burden, so we come here to steal some of that fire, to warm ourselves against their light.”
+
+He lifted his chin. “This is why Davrar feels repetitive to many of you. The years blur together into feuds and decadence because we don’t engage with the mortals. They create new laws, trade, and art, and invent strange solutions to the problems of Davrar. By refusing to respect them, then Davrar itself loses the purpose that we so lack. This respect doesn’t mean we hand out thrones. It means we treat them as people, and when they make demands, we listen. If they ask for a legacy that is greater than rubble, then it is in our interest to consider it. Empowered mortals will make Davrar better, deeper. It will present a more interesting challenge to us, with more people like them.” Once more, he threw out his hand towards Nathan and the Heirs.
+
+“Our enemies will try to silence these mortals, to kill them so that we forget about all of these ideas. So remember them, and when the vote comes, choose depth.”
+
+Permanent Talent 1: Magical Destruction 7
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 6
+
+Forewarning 10
+
+The Truth of Magic 7
+
+Evasion 5
+
+Wizard’s Palace 6
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

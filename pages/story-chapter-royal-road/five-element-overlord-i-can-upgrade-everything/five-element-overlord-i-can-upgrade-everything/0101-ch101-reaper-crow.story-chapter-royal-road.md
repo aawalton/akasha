@@ -1,0 +1,99 @@
+---
+id: 91689151-879f-53f5-9075-32ffa710944e
+page-type-slug: story-chapter-royal-road
+title: "Ch101 Reaper Crow"
+slug: 0101-ch101-reaper-crow
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 101
+ownLength: 1248
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3704146/ch101-reaper-crow"
+royalRoadId: "3704146"
+---
+
+I fall to my knees, like gravity has increased by tens of times.
+
+All of my strength floods out of my body, making the stabilizing feature on my ring instantly activate. It’s overpowered, and my souls begin to stretch and bend at angles the most intense movements of the Martial Grandmaster physique could never force me to strain in this way.
+
+The crow swallows the armored lizard in its mouth, then takes a single step to its side.
+
+To me, it just appears like a black blur; it is moving too fast to properly track.
+
+Its sharp beak cracks into the pit floor, and it pulls out a single dark-colored egg. I recognize it as one of the 9th grade long-tusked boar eggs I never cared to dig out at the outskirts of the pit.
+
+The crow swallows it whole without a crunch, and a wave of extremely strong white mist fluctuates around its body. It reacts with the soul mist in the air, sending shockwaves upward and out of this pit before ceasing entirely just seconds later.
+
+Loud ringing in my ears pairs with partial blindness as the pressure brings me to lie face down on the floor.
+
+I activate a defensive talisman, but it does absolutely nothing, shattering in under half a second.
+
+My souls would have fractured many times over by now if the metallic gum holding them together was not here.
+
+A thud hits my muffled senses as this crow lays an egg, and my system scans it.
+
+[Automatic Inspect Function Activated…]
+
+[Unnamed Armored Boar] [Age: 0][No Qi Cultivation][Mutated Earth Spiritual Root][6th Grade][No Acquired Physique][Innate Heavy Mountain Physique][Initial Stage - Mortal Grade][Born from the Reaper Crow of the Misty Forest. In order to hatch, a Tier 1 perfect grade earth stone must be placed beneath it until fully absorbed.]
+
+“What… is going on…?” I murmur as blood drips from my nose and the corners of my mouth.
+
+It is a higher grade than any egg in this pit, but its features are familiar. The heavy mountain physique it has is common in the armored lizards, but it was never innate. The base egg was a long-tusked boar, so the species has stayed the same, but with some kind of mutation.
+
+This creature the system refers to as the Reaper Crow has the ability to create spiritual beast eggs.
+
+I keep trying to slip away into my hidden realm, but a strange instinct keeps me captivated on this crow, like I need to be in its presence longer. I’ve never felt forcefully compelled like this before.
+
+It disappears in a blur of black, and the golden eyes of this bird appear right in front of me.
+
+The pressure becomes so unbearable that I’m on the verge of passing out.
+
+I don’t know if it’s hungry and wants to eat me, or if it’s just curious, but I do not have enough time to even try to understand.
+
+Dense wisps of white mist destabilize the layer of my Physique that felt like impenetrable armor around my body.
+
+I feel a horrific tearing breaking apart in my chest. The Soul Gum Artifact is breaking, activating its single-time use capable of defending against a mid-stage foundation establishment strength soul attack… just from being in this monster’s natural presence. That means its true strength is far greater.
+
+When I try to picture the bronze door in my mind, for some reason my attention continues to be stuck on the crow before me instead. Its focused eyes locked on me do not allow me to do anything but stare back in fear. Logically, I know what I need to do, but my intuition and ability to act on it feels like it's being hijacked.
+
+I almost fade into an unconscious state, but a strange notification triggers in my inner ear.
+
+[Ding!]
+
+[??...]
+
+The text glitches, similar to the one instance I remember when I first entered my hidden realm. The notification flickers away to nothingness the instant I try to see what it is.
+
+Nothing shows up in my mind, but it does rekindle my concentration and gives me another half a second to think. My dwindling voice of reasoning pushes me to think about how this creature is drawn to corpses. I use my last burst of mental strength to pull a grey Tier 2 illusory demon corpse out of my storage.
+
+Not only does the crow’s pressure beat down on me, but now the force from the deceased phantom lord does too. I’m moments away from completely blacking out from the stress on my body and mind, but once this grey corpse hits the crow’s senses, the small shift in its attention is all I need.
+
+It’s like a small pocket of air has formed before me while I’m drowning in the depths of the sea. The bronze door in my mind cracks open a sliver, and I disappear into my hidden realm without looking back.
+
+The warm, safe aura of my five element cultivation array flows into me, and the soul gum succumbs to the stress it was under and shatters into white mist, leaving me without any external anchor.
+
+The majority of the horrific pressure is gone, but there are still particles of white mist churning about in my physique, forcing my ring to continuously stabilize it.
+
+I try to activate my Jade Purity Soul Scripture, but I’m already breathing heavily and sore all over.
+
+Small particles of this foreign white mist are pushed away from my chest every cycle, but I cough out blood every time. The tiny particles don’t leave my body.
+
+I swallow a healing elixir, but it only fills me with warmth and heals my muscle fatigue. It gives me a few minutes of clarity, but my souls are still being pulled apart, and my physique feels unstable, like it's off-kilter, about to completely unalign with my body.
+
+My head is pounding, and the second heavenly grade healing elixir I eat does almost nothing. I’m not physically injured, this is a continuous attack on my soul and physique from the mere residue left behind from that crow’s aura.
+
+Instead of just circulating my cultivation technique, I try standing up and practicing the Martial Grandmaster movements in the center of this array.
+
+After just a single cycle, I feel far worse and weaker than when I started.
+
+However, doing so has one positive effect. There is a self-regulating measure to these movements, squeezing out the foreign white mist that’s latched onto my physique.
+
+These small bits of the white mist brush against my most tense acupoints and automatically pulse relentlessly every time there is a major strain in my physique. They siphon wisps of strength from my soul every moment it is bent out of place to act as an anchor.
+
+It’s working, but not in a sustainable manner. The only thing cleansing my body of this poison is weakening me more every time I try it.
+
+A familiar, awful cracking sound echoes in my mind, and I recall it very clearly. I felt something like this once before when Little Red sacrificed his Black Lotus Flame physique to create an attack strong enough to kill a foundation establishment cultivator a full major realm above him.
+
+Since then, the perfected stage acquired physique has not recovered, staying at the initial stage without any explanation.
+
+I stop my movements with gritted teeth. There must be another way to rid myself of this poisonous mist.

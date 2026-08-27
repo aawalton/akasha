@@ -1,0 +1,263 @@
+---
+id: c70790c3-1292-5b4c-8032-4c5993572793
+page-type-slug: story-chapter-royal-road
+title: "Chapter 529: The Inner Ring"
+slug: 0569-chapter-529-the-inner-ring
+partOf: dungeon-of-knowledge-complete
+position: 569
+ownLength: 4889
+unit: words
+ownProgress: 4889
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3018674/chapter-529-the-inner-ring"
+royalRoadId: "3018674"
+markedReadAt: "2026-06-29T20:31:41.224Z"
+---
+
+It took nearly all the remaining daylight to drive the endless hordes of undead back past the Ciradyl trees beyond the battlements. When Ali had informed Lyeneru and Vivian that the Avatar of Annihilation had respawned deep within the core of the Well of Corruption dungeon, the Guildmaster had switched to sustainable patrols and defense rotations for the guild, giving up on any further progress in the dungeon for now. An unfortunate setback, but recovering lost ground should be easier the second time around.
+
+It had taken a few more strategically placed bosses before the battle finally stabilized enough for Lyeneru to take a break. Archers and holy mages upon the battlements, and she had moved her Carnage Berserker from the second level of the underground ruins to the middle of the grove of Ciradyl trees that supported a burgeoning city of Wood Elf refugees.
+
+Dumping her berserker in the center of the battlefield to face a continuous horde of undead and upgrading her domain enhancement to champion and equipping her with upgraded axes had made her day. The incongruous sound of raucous, booming laughter and savage poetry – delivered at devastating volume – echoed across the battlefield as the ordinarily furious berserker unleashed the blender of her Blood Vortex, turning swathes of lesser undead into finely chopped flying bits.
+
+Convinced, finally, that nobody else was likely to die in her absence, Ali found her friends and returned to the guild hall for a little rest time. When Mato pushed open the hastily repaired doors, she staggered, hit by a wall of sound and conflicting emotions.
+
+“I got ten Death Knights on my quest credit!” exclaimed a slender Elven Pathfinder seated cross-legged on the floor amongst several passed-out friends.
+
+“What are you going to buy when you turn it in?”
+
+“Why… why did she have to die?” someone sobbed, consoled by teary-eyed friends over on the couch.
+
+“… and then I hit it with my sword so hard…”
+
+“I can’t believe we’re cooped up in here again. I wanted to finish the dungeon!”
+
+Fresh grief collided with excitement and utter exhaustion, creating an overwhelming turmoil of emotional energy.
+
+“Are you ok, Ali?” Malika asked.
+
+“Yes…” she said. “I’m just tired. And this is a lot.”
+
+Malika reached out and touched her shoulder, fingers pulsing with a little touch of her healing magic.
+
+You have gained Clarity.
+
+“Thanks,” she said, as some of her tightly coiled muscles unclenched.
+
+“It is a bit overwhelming,” Malika agreed, looking for somewhere a little quieter.
+
+After her discussion with Lyeneru, all Ali’s anger had dissipated, leaving only a powerful sense of guilt and melancholy that twisted and flowed through her, seeking something concrete to connect with. Rationally, she knew everyone had tried their best, including herself, but that wasn’t good enough for the grieving townsfolk and the people they had lost – and despite her understanding of the situation, her heart would not let it go.
+
+If only… There should have been something I could do…
+
+The thoughts twisted and churned, live snakes in a firepit, never resting, endless variations on the same theme.
+
+Finally, she asked, “Can we go somewhere quieter?”
+
+“Sure, what do you have in mind?” Malika asked.
+
+Ali considered the question for a moment. Many places within her dungeon could serve, but she didn’t just want to sit alone. “Let’s go visit Cael and Gage,” she suggested, the idea popping out of her mouth the instant it appeared in her mind.
+
+It took nothing more than a short trip through the Grand Library Arcana to step into the appropriate runic circle, and Ali whisked herself into the spirit realm echo of the library. Ryn looked up instantly from where she sat surrounded by a cloud of spinning, swooping books and waved, but she immediately returned to her research. The golden floating boards of several in-progress games of Kings and Emperors flickered within the atrium, lending uncharacteristic light and color to the otherwise dull gray of the spirit realm. All about her, adventurers rushed this way and that, clearly busy with some task or another.
+
+“I didn’t realize this place had gotten so popular,” Ali remarked, her desire for peace and quiet crumbling even as she found herself happy for Cael and Gage. As she gazed out across the glittering game-boards, one of them flickered and popped. A brief scream echoed through the chamber as the loser fell through the suddenly insubstantial cloud of glittering golden sparks, only to be caught several meters below by a formation of space-affinity magic. The unfortunate player floated there for a moment before the formation pulsed, and she was deposited among her friends in the crowd of spectators to the sounds of good-natured teasing and gales of laughter.
+
+“Me neither,” Malika said, her eyes surveying the bustle of activity. “Ryn’s quests must be popular among the lower-level adventurers.”
+
+It was quite evidently true by the number of people playing or watching, and the excitement and energy that flowed through the crowd. There was even a small makeshift kiosk where an enterprising gnome had set up an impromptu betting business.
+
+“Gage! Ali is here. She came to visit!” Cael’s disembodied voice echoed excitedly throughout the library. Many heads turned to see, but they quickly returned to their entertainment.
+
+“She did?” Gage answered in surprise. “Oh, she did! Hi, Ali! How are you?”
+
+“I’m ok,” she answered, ignoring the tormented part of her deep down that knew it to be a lie. “I was hoping for a quiet chat, but…” The library here was busier even than hers in the real world. Many of the occupants seemed to be lower-level or regular non-combat townsfolk, apparently entirely unconcerned by the fact that they were within a high-level dungeon, and judging by their mood, Ali wondered how many of them were even aware of the undead siege outside.
+
+Ali and her friends spent far more time browsing the higher-level job postings, and so she was much more familiar with Ryn’s efforts to encourage people to visit Azryet’s domain – and a few people had taken his requests. However, Cael and Gage’s puzzles and games seemed far more popular – a safer way to earn experience in a dungeon.
+
+“Do you like it?” Cael asked. “We’ve been busy making lots of new puzzles, and then Ryn posts them on the guild board for people to find.”
+
+“It does seem popular,” Ali said. Clearly, she hadn’t come to visit in too long. Unfortunately, she had just been so busy lately, and she had been neglecting everything outside of her quest for Lira’s elixir. However, she really did approve of the space-magic safety net that had turned the previously deadly game into a carnival atmosphere. “Sorry, I haven’t come to visit in a while.”
+
+“It’s not a problem,” Gage said, shyly. “We’re just glad you’re here.”
+
+Wow, they’ve sure changed.
+
+“Come on in,” Cael added, punctuating his words with a free-standing ripple in reality that manifested before Ali and Malika. Through it, she could see a softly rippling image of the Infinite Maze’s core room, and the golden glowing cylinder that housed the twins’ body.
+
+Surprised and flattered, Ali stepped through the portal, followed shortly by Malika, and found herself once again in the twins’ central chamber. The bustle and noise cut out the instant the portal shut.
+
+That’s so much better, Ali sighed, just spending a whole moment enjoying the blessed silence.
+
+“So, how are you really, Ali?” Gage asked with quiet curiosity in his voice.
+
+Suddenly, it all came out in a rush. She hadn’t intended to share her guilt, her frustration, and her anger, but she spilled it all. Perhaps it was the unexpected source of concern that did it, but the dungeon, the attack on Myrin’s Keep, and how so many people had died all came tumbling out in a torrent. Again. As if his words had breached a dam, more and more spilled forth. Her horror at gaining the cursed title spilled from her lips, and her fear that she had drawn Nevyn Eld’s armies to Myrin’s Keep. Was she responsible for the deaths? Was she strong enough to save Lira or protect her friends?
+
+By the time she was done, her vision was blurred with tears. She wiped her face with the tissue Malika offered her as the core chamber fell once more into silence.
+
+“I think mom would have been proud of you,” Gage said suddenly. Ali might have dismissed such a thought from the paranoid and unbalanced twin, but his voice was filled with a quiet sincerity that she had not heard from him before.
+
+“I agree,” Cael said. “Sister, you are awesome!”
+
+“I didn’t expect you guys to be my cheerleaders,” Ali said, regaining a little control over her voice.
+
+“You don’t have control over everything, Ali,” Cael said, the more extroverted twin speaking with uncharacteristic weight. “Take it from us, we know. You are doing everything you can, and that’s more than enough. Any time you need relief from that curse, you can always visit – I’ve already blocked several of those eyes from teleporting in.”
+
+“When did you guys become so wise?” Ali asked, rather shocked at the dramatic change in their personalities.
+
+“We talk to lots of people every day now, thanks to you,” Gage answered.
+
+“And our memories are slowly coming back. From before,” Cael said.
+
+“We’re starting to remember who we once were,” Gage finished his brother’s thought. “Who we wanted to be.”
+
+The sun rose inside her heart, light and warmth parting the rain clouds of despair and guilt. “Thank you,” she said. And before the silence could reach the threshold of awkwardness, she added, “Why don’t we talk about something a little more fun?”
+
+“Fun?”
+
+“Like what?”
+
+“I brought some presents for you,” Ali said, manifesting her Grimoire in the glowing chamber and turning to her new extensive suite of arcane elementals. “This one is called a Calhedron,” she said, summoning several of the elementals, getting exclamations of excitement from Gage. “And I can teach you a whole bunch of domain magic spells so you can create decent bosses.”
+
+A sudden hammering at her door snapped her delicate focus.
+
+Donella frowned, her mind frantically grasping at the fraying threads of the rapidly unraveling, intricate formation. It had taken more than two hours to create, destroyed with just a moment of inconsiderate interruption, right at the cusp of completion.
+
+Carla had better have an impressive explanation for this, she thought, abandoning her futile attempts at saving the ruined work. She had told her assistant she was not to be disturbed – for precisely this reason. And now, more than two hundred gold worth of reagents was wasted, transformed into an amorphous lump of slowly smoking slag. She swept it off her desk and into the trash, straightening the papers and tools on her desk before she glared at the door.
+
+“What?” she said, not quite a yell, but she had most certainly unloaded a lot of her pent-up frustration into the exclamation.
+
+The door slammed open, revealing a red-faced Jax Hawkhurst, literally dragging her assistant Carla along with him as she struggled to stop the man physically. A gnome. Trying to stop a human by hanging onto his leg. The indignity of it!
+
+Still, last she’d heard, Jax was incarcerated in the garrison’s prison awaiting trial for the murder of William Turner. And yet, here he was, barging into her office without a guard or shackle in sight. She opened her mouth to say something, but at the last minute she changed tack. There was something fishy about all this.
+
+“It’s ok, Carla,” she said, forcing a calm tone. “I’ll handle this.”
+
+The look of relief on Carla’s face as she was dismissed from this impending altercation glanced off the wards of suspicion and guarded caution she raised. Donella ignored Carla, scurrying out of the room and shutting the door, transfixing Jax with a calculated glare, designed to hide the racing thoughts running in the background. What is his game?
+
+“To what do I owe the pleasure of your visit, Councilor Hawkhurst?” she asked, biting off the title sharply. She despised the man and everything he stood for – and being forced to deal with him politely simply because of his position on the council had always grated. It had come as something of a relief when she’d heard the news.
+
+“Your people refused access to long-range teleportation. What kind of service are you providing here? You’re required by law to provide services equally, discrimination is illegal, and I’m of a mind to sue,” Jax declared in a rush, his voice rising in faux anger toward the end, but Donella could see the clenched jaw muscles and the tension in his neck that betrayed the hints of inner anxiety: this was a man on shaky ground.
+
+“Of course. You are wanted for the murder of William Turner,” she said. It had come as a shock to everyone when the news broke, of course, but in her opinion, it couldn’t have happened to a better person. Still, calling it out directly would put him on the spot.
+
+His anger only deepened, his flush making his face turn purple with rage. “I’ve been framed. I need access to my lawyers. I don’t know what trick Markus pulled, but when I get to the bottom of it, he’s going to pay!”
+
+“I doubt it,” Donella said, her fury cold and crystal. Jax seemed to be pulling exactly the sort of stunt she had suspected. Somehow, he had slipped his guard, probably during the battle, and he had immediately attempted to flee from justice. “Markus has been appointed by the Crown. He has the trust of the king.” Besides, Markus de Voss was merely a bystander in this drama, and Jax’s ire was misplaced. Donella did not have any evidence, but she knew precisely who had instigated the dramatic public admission of guilt. And if she was right, the ‘trickery’ had merely lowered Jax’s inhibitions – any admission had come from within. Which neatly explained the magnitude of his evident fear.
+
+Mieriel Dawnbloom.
+
+Donella had vehemently opposed Vivian when she had brought Mieriel to town. Mind mages were an altogether nasty business, and she had no desire to be anywhere near one, even with her huge bonuses to wisdom and magical resistance. The fight between them had been epic, but Vivian had always had a legendary streak of stubbornness, and Donella had been unable to prevail. In the end, William Turner had sided with Vivian, bought in somehow by their ridiculous sob story, and that had been that.
+
+She hadn’t let it go at that, by no means. While Mieriel had been low enough level to be easy to resist, she had studied the woman, and by now, Donella had a pretty solid grasp on her abilities. She could not compel a fake confession; of that she was certain. Which meant the outwardly furious Jax Hawkhurst standing before her must be guilty of murder.
+
+Now that Mieriel was far higher level, not even Donella could figure out where she was if she wanted to hide. And so, she had no proof that the Sun Elf mind mage had been present at the Princess’s Petticoats Lounge, where the Councilor had been played. However, the zone notification of a mind mage advancing to the second tier a day later had been a dead giveaway. More than enough proof for her. Regardless, she couldn’t allow Jax to escape.
+
+“Let me remind you, I’m a councilor; you have no jurisdiction to restrain me,” Jax said, the muscles of his jaw working overtime. “Your teleportation network falls under the royal decree of essential services. You cannot deny me access.”
+
+“Indeed,” Donella said, and then poked the wounded beast. “I have no jurisdiction to prevent a guilty councilor from fleeing the crown’s justice.”
+
+“I was framed,” he snapped. “Are you deaf? You are guilty of denying me access to proper representation.”
+
+“While I have no jurisdiction here,” she said, smiling sweetly at him, “it is fortunate that the crown does. They have invoked the wartime provisions. I’m required to obtain approval for all long-range teleportation requests from the crown directly. Would you like to wait in the lobby while I make the request on your behalf? Or would you like to plead your case directly?”
+
+“That’s nonsense, and you know it!” he screamed, spittle spraying from his mouth as anger overrode what little sense of propriety he had remaining. “That’s for the southern regions that are currently under siege!”
+
+“I can accept teleportation into Myrin’s Keep for your legal representation,” Donella offered, readying her shield magic, just in case. Technically, Jax was correct; she was bending the law just a little, but she was certain the wartime provision would extend to Myrin’s Keep in the next day or two. Likely, just as soon as word got out that the Blind Lich’s armies had arrived in force and laid siege. Jax had obviously been planning to skip town during this window of uncertainty, and it gave her visceral pleasure to foil his plans.
+
+“This is not acceptable!” Jax yelled.
+
+Right, because it’s about escaping, not representation. Donella waved a hand, creating a glowing illusory view of the south road and the surroundings, filled with the teaming undead masses and the ceaseless bombardment of arrows and magic from the defending garrison and adventurers. “You could always try walking,” she suggested. “That option is not restricted.”
+
+Her lightning shield snapped into place the instant he lunged across her desk, and there was a loud crack as she reined in the power of the retaliatory strike. She had no desire to kill him, accidentally letting him avoid judgment. Jax’s limp body hit the desk heavily, crushing the ruined remnants of her project, and slid off to land on the floor.
+
+“Carla?” she called, flying over the unconscious councilor’s body, lying burnt and smoking on her carpet. “Could you call a couple of guards to take him away?”
+
+“O… of course,” Carla stammered as her wide eyes took in the scene. “Should I contact the Garrison?”
+
+“I think that would be appropriate,” Donella said. Jax spending some more time in the town’s jail, contemplating the failure of control that had driven him to try and physically strangle a platinum-ranked lightning mage, seemed like a perfect ending to this fiasco. At least she was no longer upset about her failed project and the wasted time and resources it had cost her.
+
+Still, I will need to have a frank discussion with Gerald Brand. We can’t have suspects slipping out of custody whenever they want. Exactly how did he get out?
+
+The air was laden with the cloying stench of undeath, inextricably entwined with corruption and the twisted alacrity of Nathaniel Sunstrider’s potent arcane magic. Acrid brimstone smoke swirled lazily upward from the corpse of the freshly slain Avatar of Annihilation, making Ali’s eyes water.
+
+The second kill of the Avatar of Annihilation had been so much easier than the first, and had required three fewer switches. She had observed Lyeneru’s third-tier class in action at the battlements of Myrin’s Keep, but that had been a blind altercation between two immense forces. Seeing her in action in a real raid setting had been more than eye-opening. She was far faster, vastly more powerful, and even her presence felt far more dominant.
+
+But it was not just her.
+
+The raid numbered nearly fifty adventurers, and most of them had gained at least ten levels for the first kill. She saw similar increases for all her minions. But even to Ali’s eyes, it was the growth in their teamwork that had played by far the largest role in turning a terrifying encounter into something almost mundane and pedestrian. Ali had felt a little trepidation taking on the dangerous encounter without despawning her minions back in town, but the moment battle was engaged, she’d shed all concerns of messing it up.
+
+“Easy, peasy,” Mato said, summing up her thoughts in his unique way.
+
+As the smoke began to clear, Ali drifted downward, her eyes studying the immense work of runic magic that had borne the Avatar of Annihilation, still swirling with domain mana. It was only after she had fully understood it that she summoned her domain and tore through the now-vulnerable layer of the Well of Corruption’s domain, dismantling everything in her path. She stopped only when her mana crashed up against the inner ring barrier, barring them from reaching Nathaniel’s innermost sanctum.
+
+All the remaining undead and elemental corpses strewn across the battlefield evaporated into slowly rising motes of mana as her skill deconstructed everything in its path.
+
+Variant: Theuronic Crystal added to Imprint: Elemental.Variant: Reaper of Ruin added to Imprint: Elemental.Variant: Crystal of Arcane Dominance added to Imprint: Arcane Construct.
+
+So that thing was called a Crystal of Arcane Dominance? Ali glanced over the new imprint inscribed in her Grimoire with a kind of scholarly curiosity – she wasn’t particularly interested in mind-control for practical purposes, but understanding how it worked was most certainly something she needed to study.
+
+A sudden surge of knowledge poured into her mind as her deconstruction fed her new and interesting Domain Magic. Her notifications chimed again as the wave of deconstruction evaporated the Avatar of Annihilation itself.
+
+[Sage of Learning]Domain Magic analyzed: Alternate Form.Domain Magic analyzed: Affinity Amplification.Domain Magic analyzed: Triggered Mana Echoes (Alternate Form).Domain Magic analyzed: Triggered Summon Construct (Crystal of Arcane Dominance).
+
+Calen landed silently beside her with his notebook already out and ready.
+
+Ali grinned at him and immediately opened the skill descriptions for the new skills. It had been quite some time since she had earned so many unfamiliar ones. Alternate Form was the very same ability Kir’vella had used to swap between her witch doctor and bat forms, but the rest of the abilities she had never encountered before.
+
+One by one, she shared them with the whole group.
+
+Affinity AmplificationRequirements: Champion domain enhancement. Magic affinity attack.Source: Avatar of Annihilation.Attacks with your magic apply a stacking magic Amplification debuff that increases all damage of that affinity. Skill – Domain Magic
+
+Calen nodded and began to write, not questioning an ability which they understood quite well after so many tries.
+
+Ali, however, had a somewhat different perspective.
+
+Wow, this is amazing! She had expected something tied to death or arcane affinities, or a skill that would require her to learn specific debuffs like her Curse Aura, but this was immediately useful with nearly every single one of her minions. Used to support a boss that struck rapidly or with area damage, it could be devastating. Her first thought was one of her ice or holy mages with Spell Cascade and Affinity Vulnerability, but the domain magic spell did not specify spells, which meant she could use it on her Sylvan Storm archers, or on a void rogue, and suddenly the options seemed endless.
+
+With many options dancing in her mind, she opened the next skill and shared the details.
+
+Triggered Mana EchoesRequirements: Raid domain enhancement or greater.Source: Avatar of Annihilation.Triggers: Spawn, Death, or any other Domain Magic.Whenever the chosen trigger event occurs, you summon Mana Echo minions. Recharge: 30 seconds.Mana Echoes are imperfect copies of a minion that are supported by the domain mana itself. They use mana in place of health and stamina. They inherit the first [Raid] or the first two [Champion] Domain Magic skills of the boss that summons them. The number and power of the Mana Echoes are proportional to the amount of time elapsed between triggers. Skill – Domain Magic
+
+This one spawned a flurry of discussion between Calen, Seth, and Lyeneru, but Ali tuned them out for a moment.
+
+So, these were the weird minions? She studied the domain magic carefully. The Mana Echo minions had been conspicuously not present in the additions she had made to her Grimoire, so it was super helpful that she had the skill sheet from using the Arcane Dominance crystals to compare with the baseline Theuronic Crystal. The summoned minions had only eight of the base skills, but they had inherited Alternate Form and Affinity Amplification, making them stand on par with a regular boss. Of course, their stamina and health had been replaced, making them die when they ran out of mana.
+
+This skill would require a little more strategy to use effectively, but she already had several great options in mind. Certainly, a Champion boss that summoned other bosses – even with the limits of an eroded skill list – might be quite powerful.
+
+She moved on to the next one.
+
+Triggered Summon ConstructRequirements: Raid domain enhancement or greater.Source: Avatar of Annihilation.Triggers: Spawn, Death, or any other Domain Magic.Whenever the chosen trigger event occurs, you summon the chosen construct. Recharge: 30 seconds.Skill – Domain Magic
+
+Uh… this seems crazy, Ali thought as she studied the final domain magic. And the more she thought about it, the crazier it got. It used a similar sort of trigger as the Mana Echo, but that was where the resemblance ended. Clearly, Nathaniel had chosen to trigger the construct summons on the spawn of the Mana Echoes – something that she might not have immediately considered, just from studying the description. There were already three constructs in her Grimoire, the pylon and the dominance crystal, but it was her own Arcanite Disruptor that drove the incredible versatility of this domain magic skill home. Proof that she could research constructs, make or commission them, and then add them to her Grimoire and therefore her boss repertoire stared up at her from the pages of her own Grimoire. Her first thought was to fashion arcane bombs, but the definition of a construct was almost too broad, and likely she would need some time to truly understand the full extent of what this skill might do for her dungeon.
+
+“They’re ready for you, Ali,” Malika said, scooping up several piles of essences and assorted magical reagents left behind in the wake of her deconstruction.
+
+“Ok.” Ali glanced up to find at least half the raid looking at her apprehensively. She didn’t blame them, though; one glance at the pulsing energy held back by the enormous purple dome barrier told her everything she needed to know about what would happen once it came down. Having torn down two of them already, she feared what she would unleash when she opened it.
+
+The healers braced visibly as she approached the barrier.
+
+The formation sprang easily to her fingers, and the golden darts lanced outward, piercing the thick arcane barrier, creating ripples that emanated outward from the point of impact. Purple smoke rose, and the barrier dissolved, rapidly eroded by the accelerating wave of destruction she had unleashed upon it.
+
+Corrupted dark mana, penned up behind the barrier, burst outward in a great billowing wave, crashing down upon the raid group.
+
+You have been afflicted with Soul Well Corruption.The twisted presence of the Corrupted Soul Well tears at the essence of your being.You are afflicted with nausea and disorientation.+21 Soul damage per second to stamina.+53 Soul damage per second to mana.+68 Death damage per second. Undead are healed instead of damaged. Corruption – Aura
+
+“Ugh, nasty!” Mato grumbled, and Ali instantly knew he was underselling it by a lot.
+
+Even under the protection of the potent Mental Fortitude elixir, her mind reeled. The world warped and shifted, bending in strange, incomprehensible ways, and for one horrific moment, she believed herself to be back in that nightmare. Then it slowly stabilized, and she found herself staring out across a blasted landscape.
+
+Ali swallowed uncomfortably. The soft pulse of holy magic registered in her peripheral senses as the healers distributed magic to counter the oppressive aura.
+
+The ground still pulsed with that dark, twisted energy, reaching all the way to the final barrier that encased Nathaniel, the dungeon artifact, and the well itself. Everywhere, like glowing tombstones, the ground was pierced by jagged blocky pylons of purple arcane magic. Walls of fractured barrier magic thrust up out of the ground, haphazard and shattered. It looked like the ruins of a once-beautiful city crafted from purple glittering crystal, right after the hand of a Titan had smashed down upon it from the heavens. Or the broken teeth of a vast purple subterranean monster.
+
+The wraith of Nathaniel Sunstrider stopped drifting and fixed Ali with dead, staring orbs. Then he raised a single, ethereal, bony hand to rest upon the floating dungeon artifact, and his undead body filled with a rush of mana.
+
+A giant circle of runes ignited among the shattered rubble and across the blighted ground. Purple and black smoke billowed upward as if frantically fleeing what would come. From the center of the glowing ring of power, shrouded by smoke and tendrils of necromancy, a dark figure arose.
+
+A dark purple glow ignited within the cloud, a blaze of malevolence emanating from a crystal embedded in the figure’s chest and tainted by swirling, restless currents of death. It pulsed. And after a pause, it pulsed again, like a steady, corrupted heartbeat of mana that bore down on them with the weight of mountains.
+
+“That’s… Shit, back up!” Seth exclaimed.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

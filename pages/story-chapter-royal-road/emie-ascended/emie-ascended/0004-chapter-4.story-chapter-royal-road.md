@@ -1,0 +1,191 @@
+---
+id: e0eb2d3f-7218-5bfb-b839-2ad8211568f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4"
+slug: 0004-chapter-4
+partOf: emie-ascended
+position: 4
+ownLength: 3099
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3454916/chapter-4"
+royalRoadId: "3454916"
+---
+
+My first meal in my new realm consisted of a variety of edible greens and berries foraged from the path between the safe zone and the first ‘room’. My efforts in identifying and collecting my meal resulted in another skill offer, this time, for Herbalism.
+
+I should have probably expected something like this since I’d held the skill in the simulation and knew a great deal about low-grade herbs and edible flora. And while it wasn’t on my list of skills that I planned to take, I had built in a buffer of sorts.
+
+My experience meant that I knew the value of the skill, and I immediately recognized it was worth making an exception for. I still wanted a general identification skill since Herbalism only provided information on flora.
+
+Identify, or one of its analogs, wouldn’t provide much more than the name and grade of a plant, so the skills wouldn’t overlap by much.
+
+Eventually, any information skills I gained would likely combine. But even if they didn’t, Herbalism was a good skill for any delver to have, especially one who had access to stasis storage.
+
+Not only did the skill inform on which plants were edible, but it also provided information on any effects a plant might grant. For Chefs, Alchemists, and the delvers interested in supplying them, the skill was invaluable.
+
+With that in mind, I accepted the skill.
+
+After eating my fill and storing the rest, I focused my attention on recovering the first of my target skills: Haste.
+
+My experience working with time magic made gaining a skill offer for Haste almost as easy as regaining Teleportation. Haste was just a little bit harder since I wasn’t just folding space. Instead, I was manifesting and holding a tight aura of altered time around my body.
+
+Just speeding my thoughts wouldn’t have done enough. I needed to be able to move faster as well.
+
+I was tempted to add a bit of lightning magic into the effect, but I realized that doing so would potentially add unexpected side effects, and maybe even harm the skill’s progression.
+
+After pushing the limits on what I could manage manually, I finally accepted the system’s skill offer, regaining one of my core combat skills. Unfortunately, my new Haste skill only let me move about 25% faster than normal.
+
+It was nowhere close to the speed at which I’d been able to move at my peak, but 25% was nothing to scoff at. Against an unsuspecting opponent, a quick burst of speed could make all the difference.
+
+Barrier was next. I didn’t want a solid barrier that merely tanked hits. I wanted a reactive barrier that deflected magical and physical attacks while also making it easier for me to move.
+
+I layered the magic a bit differently this time, focusing more on the force aspect of space, which I felt would work better to redirect incoming attacks. If I was correct, my new skill would also work to cut down on wind resistance by naturally redirecting the air around me.
+
+What I ended with was something closer to a force field, though the system actually labeled the skill as Repulsion Aura. I tested everything several times before accepting the final version offered, and was pleased when the skill appeared in my status as an Uncommon skill.
+
+The last of my former affinity-based skills that I planned to acquire right away was Telekinesis. Using the force aspects that I’d reinforced while creating my last skill, I managed to move a small stone by forcing the essence around it to propel the stone across the safe zone.
+
+It was a crude application, but it was enough for the system to recognize the skill and offer it to me. I practiced with it for nearly half an hour, hoping to increase the weight that I could affect or push the skill offered to the next rarity. Neither occurred, and I eventually gave in and accepted the skill as it was.
+
+Slotting the new skill felt a lot like clicking a puzzle piece in place. What was difficult and mentally straining before now seemed as simple as moving a limb.
+
+There was definitely a limit on the size, weight, and number of items that I could move at one time. After a bit of testing, I discovered that my current limit was one small, relatively light object, though I felt like I could push those limits a bit if I really tried.
+
+There was also a limitation on the distance at which I could use the skill, but even that was a significant improvement over the rough application I’d managed on my own. I felt confident that with dedicated effort, the effectiveness of the skill would grow quickly.
+
+With that, only Enchanting remained on my list of skills that I could recover without a skillbook. Unfortunately, I wasn’t even sure that I could recover Enchanting before leaving the dungeon.
+
+Thinking back to the simulation, I was fairly certain that I’d need an enchanting focus to learn the skill. I seemed to recall needing such a device until well after I’d reached the first evolution. Even then, using the small, stylus-looking focus made enchanting significantly easier.
+
+I’d still give it a try once I collected some material to work with, but for now, I was done with my efforts to recover my previous skills.
+
+I left the safe zone after resting for a bit. The light was still bright enough that I wasn’t concerned that the dungeon would shift to darkness anytime soon. That happened on floors that were meant to simulate outdoor biomes.
+
+When the light started fading, most would be forced to return to the safe zone or shelter in the hallways between rooms. However, the latter could only be used if both rooms on either side of the hallway had been cleared.
+
+That was something I’d learned in the simulation, and since magic wasn’t supposed to have changed significantly, I assumed the loophole still worked.
+
+However, a delver couldn’t just remain in the hallway indefinitely, even if they were injured.
+
+The rooms would reset during the eight or so hours of darkness, and the dungeon usually only gave someone about an hour or so after dawn before the mobs within the connecting rooms would sense them and attack.
+
+The same applied to lingering in hallways during daylight. Hanging out in cleared rooms was a much better option as long as you didn’t stay until the light started fading.
+
+If the reset began before you left a room, the respawning mobs would follow you and attack. And killing them only caused them to respawn.
+
+The dungeon wouldn’t even wait for the bodies to be looted, nor would the respawning mobs suddenly forget you were there, even if you’d retreated to a hallway. It created a very dangerous situation.
+
+Needless to say, I had no intention of remaining outside of the safe zone when darkness fell. But, luckily for me, I had access to a true sanctuary where I could retreat no matter how deep into the floor I might be.
+
+I’d already harvested most of the herbs in the hallway, though I did take a bit of time to explore the now-empty first room since I hadn’t bothered to forage after killing the squirrels.
+
+Once I’d gathered everything that appeared to be of value, I followed the path to the end of the room and continued as the space shrank to only a few feet on either side of the path. The false hallway was fairly short, only extending a handful of meters at most.
+
+Stopping just before the confined space expanded into a large room once again, I searched around the path, hoping to see what mobs the dungeon would send as its second challenge.
+
+The squirrels hadn’t been all that difficult, and I didn’t expect this room to pose much more of a challenge. The mobs could be the same, but more numerous, or completely different. There could also be more squirrels and something else. There was no real way to know until I stepped inside.
+
+The movement of underbrush along the pathway was the only warning I got before a shin-high barker launched itself at my legs.
+
+Barkers were named such because they collected bark as both a nesting material and a source of nourishment. If I recalled correctly, they mostly nested in the older bark and ate what they collected from living trees or freshly fallen branches.
+
+Interestingly enough, the small creatures made little yipping noises when they were agitated that sounded a lot like barks, too, though it wasn’t the same word as the outside of a tree in the Common tongue.
+
+Outside of the dungeon, barkers were skittish creatures that rarely interacted with people. They would only attack if they had no other choice. That wasn’t the case for dungeon-born barkers, or any other dungeon creature for that matter.
+
+They looked a bit like gophers, but with thick, oily fur instead of the soft coat that gophers from home had. They also had larger mouths and longer claws, which they used to great effect when they were forced to fight.
+
+I teleported a few steps away and knocked the barker to the side. They were somewhat resistant to blunt force attacks due to the way the oil reinforced their fur. It almost worked like a non-Newtonian fluid by hardening on impact and distributing the force.
+
+Knowing that, I quickly swapped to my spear and targeted one of the few truly vulnerable areas on the beast – its soft underside.
+
+I thrust my spear forward, cutting into the barker’s soft underbelly with hardly any resistance. The dungeon-provided spear wasn’t much more than a long stick with a bit of sharpened metal on the end, but that was fine. It was more than enough to defeat the weak beginner mobs of the first floor.
+
+That was probably the point, after all. I doubted the weapons were meant to be used for long since the dungeon tended to reward delvers with loot they could personally use.
+
+Not always, but generally. At least, it had been that way in the simulation.
+
+Rho had mentioned that things had changed in the realm from how they were in the simulation, so I couldn’t be certain. However, I felt like there was a good chance that I’d get replacement weapons soon enough.
+
+Worst case, I could just make them myself. I’d likely stick to non-metal weapons if that happened, but that was no big loss. I preferred staves and batons anyway.
+
+In fact, a magical blade skill was already on my list of skillbooks to look out for. With the right upgrade, I’d easily be able to use such a skill to turn staves and batons into spears, glaives, and swords.
+
+If I weren’t so concerned about gaining more seed skills, I’d probably just create my own Space Blade and be done with it. But I needed variety, not just for Enchanting, but for combat.
+
+Having access to multiple elements made it far less likely that I’d encounter an opponent that I couldn’t handle. Even if it took a while, as long as I had the right tools, I was confident I’d manage.
+
+I shook the blood from the end of my spear as the gopher-looking creature convulsed, squealing as its body failed.
+
+When the barker died a second later, it released a burst of essence, which my weak body eagerly absorbed. I’d already absorbed some from the testing I’d done with the squirrels earlier, but it hadn’t been enough to gain a level. My latest kill pushed me a bit closer, but I suspected it would take another barker or two to reach level two.
+
+The first several levels would come quickly, I knew. But that would change as I progressed. While killing a dungeon creature would provide a small amount of essence immediately, the core found within usually held around double the amount.
+
+I was pretty sure that cores were constructs of the dungeon since killing a creature outside of a dungeon did not result in the formation of a core.
+
+They still released a burst of essence, which was automatically absorbed by those involved in killing the creature. But like the loot function, core manifestation just didn’t work outside of dungeons.
+
+With that in mind, I tapped the carcass with my foot while focusing on my intent to loot the creature. The loot function was one of the weirder, more unrealistic things about the simulation that I wasn’t quite sure would actually translate to real life.
+
+Even knowing it was a possibility, I was still a little surprised when the body disappeared into wisps of essence, leaving a clean core and pelt lying on the ground.
+
+There was definitely a loss from using the system or the dungeon or whatever controlled the loot function within this realm’s dungeons, but I considered the convenience of not having to bother with processing my kills worth the cost.
+
+If reality followed the simulation, obtaining a core was pretty much a guarantee. However, anything beyond that was a toss-up unless someone had a specific skill that influenced what manifested. Without a harvesting-type skill, the loot received was basically random.
+
+It could be materials from the mob itself, coins, a level-appropriate piece of equipment, or even a skillbook – roughly in that order of likelihood. Obtaining a single raw material from the beast killed was by far the most common, while gaining a skillbook was the rarest reward.
+
+There were ways to change the allotment of loot, though.
+
+If I slotted a butchering skill, for example, then I’d always get meat in addition to the core and a random drop. If I upgraded the skill enough, that would expand to include valuable organs or other materials that might be harvested by a competent Butcher.
+
+There were other harvesting-related skills that either specialized or gave an overall boost to processing creatures. Some could even impact the value of non-raw material drops and the types of skills looted.
+
+I’d heard that some such skills even evolved into actual looting skills, but such things were more rumor than fact. At least, I’d never met anyone who actually claimed to have evolved a harvesting skill in such a way.
+
+“So, looting is still a thing in dungeons here,” I said thoughtfully as I picked up the core and pelt, just in time for another barker to launch itself from the underbrush.
+
+Even without Lisa’s response, I’d found that speaking my thoughts helped me to feel just a little less lonely. It was one of the many tricks I’d used to keep my sanity during previous periods of extended isolation.
+
+Dodging the attack, I sent the items into storage and turned my attention toward the angry dungeon mob.
+
+Fighting without the perception and sensory skills I’d become accustomed to was a bit of a challenge, but I found myself enjoying the added difficulty. Things had become too easy in the years leading up to my ascension.
+
+Another barker joined the first, and I managed to kill both of the creatures without needing to use a skill. I sent both bodies into storage just as a slightly larger wave of essence hit me, pushing me to level two.
+
+The increase wasn’t significant, but it was definitely noticeable.
+
+There was no allocation of stat points or anything like that, nor did I have to sleep for the levels to apply, like in my last realm. Instead, the level-up funneled essence into my mind, body, and soul, strengthening them based on how much each had been used since I’d gained my last level.
+
+And since I’d spent more time regaining skills than fighting, I was unsurprised when most of the improvement targeted my mind and soul.
+
+I continued forward, meeting a pair of barkers just before the room ended.
+
+While it truly did look like a typical forest immediately around the path, I could see the edges of the room between the trees. It wasn’t quite like being surrounded by the void, but it was close.
+
+Dispatching both barkers took less than a minute, and I quickly searched the floor for additional mobs and harvestable materials before moving on to the next room.
+
+Though it looked almost the same as the last, the path wasn’t as straight, and there were a few additional plants and herbs visible. I stepped forward, freezing when I saw the familiar tip of a fuzzy antenna peeking through the bottom of a nearby berry bush.
+
+Though the lagus appeared to be a small rabbit with long antennae instead of ears on top of its furry head, I knew they were more like sadistic cats who enjoyed toying with their prey instead of being prey animals themselves.
+
+Even outside the dungeon, the ferocious beasts would mercilessly attack anyone or anything that entered their territory. Within the dungeon, such violent tendencies were only enhanced.
+
+At a glance, they might appear pretty harmless, and I had no doubt that many unprepared delvers had found their ends due to the creatures’ deceptive appearance.
+
+I was pretty sure this particular species had evolved the whole fluffy prey animal appearance specifically to lure unsuspecting would-be predators to their deaths.
+
+From personal experience, I knew that their teeth included a pair of sharp incisors that allowed them to inject a paralyzing venom into their prey.
+
+They also had razor-sharp claws that could easily slice through light armor, making them particularly dangerous foes if they managed to latch onto someone.
+
+They were a challenge well beyond what I would have expected to find on the very first floor of the dungeon.
+
+The system’s identification worked on the antenna, showing the lone mob as a yellow threat – a fact which only reinforced my alarm, given the number of skills I had slotted. Even the boss shouldn’t be a yellow threat to someone with my demonstrated capabilities.
+
+For the lagus to be yellow, it meant that the system had determined that the mob would pose a modest challenge to me, personally.
+
+I wasn’t really concerned about a modest challenge since I didn’t think the lagus would actually be able to touch me, but what about the natives entering the floor? For a low-level mob to pose a modest challenge to me with my current skills, it would almost have to be a red or black threat to most of them.
+
+It just didn’t seem right for that kind of threat to be present on the very first floor.

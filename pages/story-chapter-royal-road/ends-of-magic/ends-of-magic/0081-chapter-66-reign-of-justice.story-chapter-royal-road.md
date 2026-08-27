@@ -1,0 +1,203 @@
+---
+id: d22aff25-c6b4-5453-8672-97aaa9b10f6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: Reign of Justice"
+slug: 0081-chapter-66-reign-of-justice
+partOf: ends-of-magic
+position: 81
+ownLength: 2977
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3183323/chapter-66-reign-of-justice"
+royalRoadId: "3183323"
+---
+
+The crowd grew intent as Khachi took the stage. This was the moment they’d been waiting for, for one of the Heirs to take the stage and expose themselves to challenges. But Khachi didn't seem concerned. His own glow was quite apparent despite the stage lighting. He spoke with a calm weight, as if imparting a truth to a friend.
+
+“I have walked across Davrar and seen many mortal societies,” he began. “In Giantsrest, I saw the mind treated as property, an entire society based on the theft of personhood. They treated people as assets for chattel slavery. Kindness was a luxury rarely afforded.” His eyes did not harden, but the light he cast was not kind. “Badud and his grid taught the mortals to look upon one another as instruments, and then left Giantsrest to develop on its own. When we liberated that city, I saw sins without a perpetrator. Children raised in horror, to perpetuate horror themselves because they had never known anything else. Men with no choice but obedience beyond reason, charging heedless into flame. It was beyond slavery. It was the torture of an entire people, carried out over centuries. This is the Questor’s sin, to create such conditions and shirk the responsibility for it."
+
+He paced to the other side of the platform, scanning his harsh gaze across the audience of Questors. “In Esebus, the chains were written in ink and coin instead of magic. Debt was the trap there, and a sentence to labor that never ends. They called it order, they called it lawful. Yet the effect is the same, a living soul reduced to a line in a ledger and treated with as much care.”
+
+He continued to pace, sweeping the accusing eyes across the crowd until they came to rest on the place where the Aleph grid sat. “Evil is not always a thing that announces itself. It does not always arrive with spectacle or the cackle of joyous cruelty. More often, it is a silent habit, the slow practice of treating a thinking, living being as a means rather than an end. It is a decision, made once, then made again, until it feels natural. That another person’s wellbeing is lighter than your convenience.” He nodded, as if to himself. “Now I call the actions of Badud and his grid evil.” The word rang in the arena, divine mana awakening in response.
+
+His gaze lifted to pan across the crowds. “You are not ignorant. You know virtue, and can praise honor when it is shown. You recognize injustice when it is turned upon you.” He was addressing the Questors as a whole. “Yet you do not extend that recognition to mortals. You hold power, and their role is to fear and obey.” Khachi’s chin lifted a fraction, in defiance. “The Endings, above all else, reveal the Evil of Davrar.” Once more, his voice boomed out with special emphasis, the aether vibrating with its passage. “Whole lands are broken beneath them. Civilizations, cities, peoples, destroyed to clear the board. For your convenience.” His eyes shone with cold, judgmental fire.
+
+He took a long breath and steadied himself, pulling back his tone. The arena was already suffused with divine power, and it waited for Khachi’s next words.
+
+“Once,” he said, “there were gods upon Davrar. They learned this truth, and saw the structure of the world. They prophesied their own fate, and rose against it.” His voice softened, as though grieving. “They tried to correct the world with power alone, to fix Davrar with their strength. And in so doing, they became tyrants themselves. They sought to break Davrar in anger, not to mend it with humility. They mistook their Davrar-bestowed might for true agency, and resolved to defeat you with the very power you granted them.” He held the room in a calm gaze. “Of course they failed. Power used in anger becomes tyranny.”
+
+Khachi touched his chest. “I began my path as a worshiper of Deiman, the god of righteous battle. I have shaped my own faith through victory over evil and the judgment of tyrants. I claimed what was left of Deiman’s godhead, but I refuse his impotent anger. I hold power, but that does not make me righteous. I am righteous because I follow tenets that constrain my power. Humility. Virtue. Resolve.” The words were more than sound travelling through the air. They resonated with the divinity that Khachi had laid across the audience, impressing upon them exactly what Khachi meant with those words.
+
+The entire space thrummed with Khachi’s conviction, and he closed his eyes, silent tears rolling down his face. “In the face of the failure of the gods, I ask for a better way.” He spread one hand, palm up, offering a path. “Begin where the harm is greatest. End the Endings. Explore other paths that do not require such death and destruction. Treat the mortals as people with their own value. But do not stop at one target. Mind-magic. Forced oaths. Blights. Soul eaters. Bear your responsibility as the burden it is, with respect for the lives that are shaped by it.”
+
+Khachi’s tone became almost pleading. “Choose to do better. Choose restraint and responsibility because you are great enough to bear it. Choose a Davrar where mortals may stand upright without coming to beg before you, where our lives are more than mere fuel for your amusement.”
+
+His voice did not rise, but it deepened, once more connecting with the magic that saturated the arena. “I ask with humility, I speak in virtue, and I will judge with resolve. Walk your paths with honor - or hear me now: I swear upon Davrar itself that I will stand in judgement, with the domain of Righteous Battle behind me.” At last, the gathered divinity found its purpose. The pressure that had been building through the arena turned, united in purpose, and poured into him in a smooth surge. The light gathered in Khachi like a dawning sun, and his feet lifted from the platform. The wolfman’s lips pulled back, exposing fangs in a vicious smile. “You have slain gods before, but you did it together. Come. Let us see if any of you can face one alone.”
+
+Khachi floated off the platform, his feet settling to the ground to take up his position to face the first challenger. The entire arena was silent, processing his words and the display of power.
+
+Sarah leaned in and spoke in a low, dry voice. “The glowing light wasn't around when he practiced."
+
+Nathan nodded, but he was turning over Khachi’s words. That was the speech he wished he’d given, and he couldn’t help but agree with the sentiment. Khachi’s words also stirred something in him, some nugget of an idea that was worth further inspiration. But for now, all he could do was watch and hope that his friend wouldn’t die as a result of speaking truth to power.
+
+Well, he could also prepare to cheat if needed. He hadn’t wanted to risk being caught earlier, but with Khachi’s boldfaced challenge to the Questors, Nathan couldn’t help but feel like his friend might need an extra edge. He extended a tendril of antimagic out towards the center of the arena, getting it over the stage just before the challenger appeared and the stage snapped shut.
+
+Nathan winced as Davrar’s power cut through his aura. It overpowered the strength of his normal antimagic and shunted his influence out of the space. Nathan might have been able to contest it by switching his aura over to the complete denial version, but he wasn’t ready to do something that might so obviously tip his hand without the direct need to. Instead, he left his aura poised on the outside of the arena, ready to pierce the crystal and intervene in the fighting.
+
+Khachi’s first opponent was a figure who at first looked like they’d been covered in melted and scorched gold. They raised a sword that looked similarly half-melted in a salute, and Nathan saw that the entire look was intentional. Even if the armor had been torched in a past battle, it had since been modified for easy movement.
+
+The arena flashed to signify the start of the battle, but neither combatant moved. A harsh golden light spilled forth from the Questor, and a feminine voice followed, resolute. “I am the Last Champion of Deiman, and I deny your claim to his power. You do not hold that domain, and in striking you down, I shall cleanse his legacy. Hear my words, and know your own judgement.” She launched herself across the arena, the light spilling down her blade and elongating it into a giant executioner’s sword.
+
+Khachi shook his head in denial, heedless of the glowing champion bearing down upon him. “I bear the mantle of Righteous Battle. For your side in this battle, I judge you false.” He swung at her, a golden hammer of divine energy forming in his hands to meet the sword seeking his head. It was a deeper light than his opponent’s, shining across more of the visible and magical spectrum. Both weapons were massive, the kind of thing you'd use to fight a kaiju rather than a person.
+
+The two weapons clashed, and the sword was found wanting. It shattered into motes of bleached light. Khachi’s hammer continued unimpeded, crashing through his enemy like she wasn’t even there. Instead of tossing her away, the conjured divine weapon evaporated her entirely. Khachi shone like a beacon in the center of the arena, a lighthouse of divine power. The moment passed, and Khachi released the weapon, letting it evaporate. He was alone, with not a trace of his opponent.
+
+The entire arena released a surprised breath at such a stunning and rapid victory, and Nathan had to prevent himself from pumping his fist and cheering. It didn’t look like it to the normal observer, but he knew that defeating a symbol of the old faith of Deiman was very significant to Khachi.
+
+“Kia would have enjoyed that,” Sarah said quietly, and Nathan fervently agreed. But there wasn’t time for them to discuss it further, because the next challenger had appeared, and it was accompanied by an indrawn breath from Ushia.
+
+“Bandrin Fate-weaver,” she explained tersely. “She has taken my powers to their furthest potential, to weave the threads of fate instead of merely reading them. Her rhymes become prophecies. The only path is counter-speech.” She whipped around to meet the Heirs' gazes. “If you can communicate with Khachi, tell him he must repudiate her points, and do so in the same meter. This is a battle of words more than arms."
+
+Nathan raised his hands helplessly. “That shell is immune to our messages just as much as yours. But I think he’ll figure it out.” He turned his attention back to the arena, outwardly calm. But inwardly, he was tense, and he poked the outside shell of the arena with his aura, trying to decide if this was the moment for him to cheat.
+
+The woman standing opposite Khachi certainly didn’t look scary. She looked like a pastel witch, with ruffled skirts and a broad hat that belonged in a fancy gala instead of a duel. She dipped in a small curtsey towards Khachi as the arena counted down, the gesture more of acknowledgement than respect.
+
+Then the duel started, and Bandrin sang out her words in a clear cadence. “O brave stray lamb, you’ve wandered from mortal fields into Questor halls. You’ve left the path, you’ve claimed our ground. Beyond your weight, beyond your sound.” Her smile widened, the sneer of a debutante dunking on a rival. “By mistaken course and pride confessed, your first brave strike will fail its test.”
+
+While Bandrin was speaking, Khachi had summoned forth lances of golden light. It should have taken him less than a second to get them downrange, but it inexplicably took longer. His magic flowed sluggishly in the face of the Questor's words. But the attacks did come together, and they fired across the battlefield in clean lines of light.
+
+Bandrin pirouetted in the air, her skirt flaring up as she spun around once and then twice, arms out. The divine spells were person-thick bars of divine fury, and Nathan had seen their like demolish undead the size of elephants. They were cast simultaneously but arrived in sequence, one passing right by her head, another underneath her arm, and the rest missing by a greater margin to splash harmlessly against the crystal behind her.
+
+Bandrin laughed, delighted. “See?” she purred. “This story knows its end.”
+
+Nathan tensed, seeing the effects of her magic even if he couldn’t feel it. He needed to decide if he was going to try to breach the shell, to cheat in the duels. It wouldn’t be instant, so if he wanted to intervene, it would have to be now.
+
+I probably need to do it sooner or later.
+
+He took a deep breath and made sure his aura was tightly adhered to his body, and the projection out to the central arena was needle-thin. He’d been successful at hiding his aura in the past, but if he smoothed over the aether within a decent fraction of the arena, somebody would notice. Then he swapped his aura over to complete denial of the arcane and started boring his way into the arena.
+
+Inside the duel, Khachi struggled for a moment, his glow dimming in the face of the Questor's mocking words. He tried to cast more spells, but they sputtered out. Then his eyes narrowed, and the light behind them swelled. He spoke, answering her in a rhythm that mirrored hers but with a deep and resonant voice that shattered her high tone. “I do not wander lost and small. I do not kneel, I do not fall. I stand with righteous judgment at my command. This is my purpose, and my vow. You will not unmake it now.” He cast the words towards her as he advanced, striding across the arena on a road of light.
+
+Her smile thinned, painted lips pressed together before opening in response. “Purpose? Hope? How sweet, how thin. A candle’s boast against the wind.” She casually pointed toward Khachi, and his stride faltered. “Your plans will break. Your friends will fall. Davrar will take you all. It makes no difference, little godling, how you gutter. A moment’s struggle, then a sputter. You will falter, your altar torn asunder.”
+
+Khachi’s glow flickered at her words, and he nearly fell out of the air. He seemed to struggle against a wind that only affected him.
+
+Nathan redoubled his efforts, but he wasn’t getting very far. The crystal shell wasn’t even a magical material. It was a manifestation of Davrar’s power. He could contest it, but it wasn’t easy or fast. He wiped away a bead of sweat from his forehead, which he didn't think would be remarkable with the current motive.
+
+Meanwhile, Khachi shouted into the unseen gale, taking an uneasy step forward. “Then let the wind rage. I do not beg a gentler stage.” His face was set, determined as he took another step. Power flowed through him, the same energy that had infused him during his speech pouring forth to strengthen his stance and push through the immaterial wind.
+
+“Hope is not a child’s excuse,” he roared at her. “It is the steel that stands against tyrants, the light by which the world is set right.” He forced another step forward, then another. His movement was coming easier now, his power obeying his commands.
+
+Bandrin’s skirts fluttered slightly as she drifted backwards, though she didn’t have much space to maneuver. “Bold little godling, bright little braid,” she began, voice lilting. “You think your light can change this land?” She made an elegant gesture to the audience. “Look there. They’ll laugh, they’ll jeer, they’ll let you speak until your dream is-”
+
+Khachi cut in, his cadence like a mailed fist striking the delicate glass of her speech and breaking the rhyme. “Applause does not matter. Nor favor, nor the tally of hands. Not here, not now. This is a duel to the death. To the Judgement.” The brilliance of his radiance shone forth, unfettered from her magic.
+
+Bandrin glanced left and right, seeming to think about making a break past Khachi. Instead, she lifted her chin and responded. “Then falter, then -”
+
+“No,” Khachi said, the syllable landing like a gavel as he closed in on her.
+
+“Choke on hope, drown in -”
+
+Khachi roared his defiance in her face, wordless denial accompanying a blast of power. He didn’t even swing a weapon. His light washed over her, golden and merciless, and she vanished in a blaze of clean power. The arena calmed, leaving Khachi as an avatar of light opposite a curl of smoke.
+
+The Heirs cheered loudly, followed a moment later by the Questors of the Ashen Accord.
+
+Permanent Talent 1: Magical Destruction 7
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 6
+
+Forewarning 10
+
+The Truth of Magic 7
+
+Evasion 5
+
+Wizard’s Palace 6
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

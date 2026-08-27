@@ -1,0 +1,233 @@
+---
+id: 892663fd-55b6-5f08-854e-71ae0a33fe7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26"
+slug: 0026-chapter-26
+partOf: emie-ascended
+position: 26
+ownLength: 3047
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3535304/chapter-26"
+royalRoadId: "3535304"
+---
+
+“I haven’t told them, so you’ll probably want to bring it up before you shift mid-fight,” I warned Stephen quietly when we entered the safe zone of the fourth floor.
+
+“I think I’m going to hold off on shifting for the first day,” he replied. “I’ve really been enjoying the camaraderie. I don’t want to ruin it just yet.”
+
+“I really don’t think it’ll change anything.”
+
+Stephen smiled, but didn’t look convinced.
+
+Since we’d all explored the first several rooms of the floor, we didn’t hesitate to leave the safe zone and head toward the first room. Sure enough, Stephen hung back, using his Archery and Shadow Bolt skills to provide ranged support during the engagements.
+
+“You running low on arrows?” Mike asked when Stephen stored another broken arrow after the fifth room. His quiver only held about twenty to start, and that number had already thinned by quite a bit.
+
+“A little. These low-grade arrows are a lot weaker than what I’m used to using. I also rely on Archery less when I fight alone, so I misjudged how many arrows I’d need for the delve.”
+
+“I’m not much of a fletcher, but I can make some arrows for you,” Mike offered. “There’s a type of crystal in the dungeon that is light like wood but durable enough not to break when used as a projectile. Emie has stored a bit of it for me. If you want, I can whip up a couple of dozen arrows for you later.”
+
+“We don’t have anything that would work for the fletching, though,” Cora pointed out. “Unless you found some metagnite you haven’t mentioned, you won’t be able to add the flexible feathering.”
+
+“Metagnite?” I asked. “I’ve never heard of that.”
+
+“It’s a type of mineral that naturally forms very thin sheets that are flexible when separated,” Mike answered.
+
+“So, like mica, then?”
+
+“Maybe? I’m not familiar with that term. I imagine they must not be the exact same thing. Otherwise, the term would have been translated directly.”
+
+“Well, I can handle the fletching myself if you are willing to craft the shafts and arrowheads. You can take whatever you think is appropriate compensation from my share of the loot,” Stephen said as he put away the last of his recovered arrows.
+
+“That sounds fair enough,” Mike replied. “I’m going to get started on harvesting the airy blooms. It’s nice having another experienced forager working with us. It makes this part of the delve go by so much faster.”
+
+Learning that Stephen had a foraging skill had been a nice surprise. It wasn’t quite as good as Herbalism, but Foraging at least helped with the harvesting process.
+
+Stephen had seemed just as surprised to see that our entire party took the time to forage after each room was cleared, even if Cora mostly stuck with Mike because she didn’t have a skill related to harvesting or identifying flora.
+
+On floors we’d already cleared a few times, she could function on her own. But the fourth floor was still new to us, so she mostly just stuck with Mike or me to prevent overlooking something valuable.
+
+Happy to lend a hand, the shapeshifting archer had joined right in, though he’d needed a bit of guidance on harvesting a few of the herbs that the Foraging skill didn’t really cover.
+
+“Should we take a break for lunch now, or after the next room?” Mike asked once we finished gathering the scattered resources from within the room.
+
+“I could eat,” Cora replied.
+
+“Me too,” I agreed.
+
+Stephen shrugged and nodded.
+
+Mike and Cora looked at me expectantly.
+
+“Alright. Time to share another secret, I guess,” I said, turning to our now-confused temporary party member. “I earned a boon from my former deity because I helped establish a second Realm Dungeon. As reward, I have a small dimensional space that serves as a sanctuary.
+
+“I still need to be touching anyone that I bring inside with me,” I added, holding out my hand. Cora had already grabbed my other one, forming a bridge between Mike and me. “I promise, it’s safe.”
+
+Stephen’s hesitation only lasted a moment before he slid his hand into mine. “I trust you.”
+
+Feeling an unusual warmth spreading through my chest, I shifted the four of us into the sanctuary of my demesne.
+
+“Oh,” Stephen exclaimed quietly. “I don’t know why, but I was imagining something more like a cave than a… house?”
+
+His hand was still in mine as he took in our change in surroundings, though Cora and Mike had already moved toward the table.
+
+The space looked a lot different from the way it had a few weeks earlier. Instead of being a sparsely furnished open room, the space truly did look more like a residence, if an unconventional one.
+
+Cora had picked up several pieces of décor, including curtains that gave the illusion of windows where none existed. There was also a fake fireplace that we combined with a set of antlers from one of the hearth deer to make the space feel warmer and more inviting.
+
+Cora had also shown that she did have a bit of artistic talent by painting several landscapes and other, more abstract pieces of art, which she then hung around the sanctuary to make the space feel a bit warmer.
+
+Mike had created very thin dividers out of stone and gemstone, with wavy patterns that created the illusion of texture and movement. The stone dividers created three semi-isolated sleeping rooms – one for me, one for the couple, and a third we’d recently added for Stephen.
+
+“Your bedroom is over here,” I said, motioning toward the newest partition as I released his hand. “I hope it’s not weird that we picked up a bed and bedding for you, but it seemed rude not to provide you with a comfortable place to sleep.
+
+“For now, our furniture is either handmade by one of us or purchased from one of the low-end shops that cater to new adults. It’s not the quality that any of us are used to, but it’s all we can really afford right now.”
+
+“You really didn’t have to go through this trouble for me. I would have been comfortable sleeping on a spare pelt, especially in my leopard form.”
+
+I smiled and glanced at the couple, who’d clearly heard his comment. They seemed a little surprised and curious at his statement, but I didn’t sense any tension in either of them.
+
+“I guess you’re ready to have that conversation now?” I asked as I headed toward the table.
+
+“Might as well get it over with.”
+
+“Before that,” I said, looking to my other two team members, “What do you all want for lunch?”
+
+I listed out the options, including the breakfast plates I’d prepared in advance. Not everything in my storage was made by my hand, though. Some we’d purchased from street vendors and other food-service providers instead.
+
+With the help of Mike and Cora, I’d stocked up on plenty of options for our delve – enough that I hopefully wouldn’t need to cook over a fire any time soon. I still might if I got the itch to do so, but I liked having the option of just relaxing instead.
+
+Once everyone had a meal in front of them, Stephen shared his own secret with the rest of our group.
+
+“A full shapeshifting ability? Like, you actually turn into the beast and have all of its senses and everything?” Cora asked.
+
+“That’s right.”
+
+“What can you shift into?”
+
+“A mist leopard and a mirror falcon,” Stephen answered. “They are creatures from my previous realm. I’m not sure either exists here, but I haven’t noticed any changes to my abilities in either form.”
+
+“A leopard I can see, but a falcon… aren’t they much smaller? Where does the extra mass go?”
+
+“My falcon form is pretty large. I’d say it’s about half of my regular size. As far as where the extra mass goes, I have no idea. I used to be able to shift into much larger creatures as well, so I’ve always just figured it was an aspect of Zoki magic.”
+
+As he answered their questions about his shapeshifting ability, I could see the tension draining out of him. I couldn’t help but smile as my friends proved they were exactly the type of people that I thought they were.
+
+Stephen seemed happy about their reaction as well. I could almost feel the relief radiating off of him in waves.
+
+“So, can we see you fight in beast form?” Cora asked with sparkling eyes.
+
+“Sure. Instead of just hanging back and peppering the mobs with arrows, I’ll show you what I can do in my leopard form.”
+
+We discussed our shift in approach as we ate, and after our meal, I moved us back to the empty room from which we’d departed.
+
+“Are you sure you’re both comfortable with Cora and me hanging back and providing ranged support?” Mike asked.
+
+I nodded. “I wanted to practice with Ice Blade and Haste, anyway. I trust both of you not to hit me with your ranged attacks.”
+
+Because I had so many more skills than most others, I often shifted which skills I used during encounters to ensure none were left to waste for too long.
+
+By this point, everyone in the party, including Stephen, knew that I was the Originator and that I had more skill slots than the rest of them. They also knew that I intended to fill my remaining slots with different elemental skills, which would likely change how I fought even further.
+
+I probably wouldn’t recreate the manatech weapons I’d relied on so heavily in my previous life now that I had access to different types of magic. I might make a few protective items, but there really wasn’t much reason for me to craft a staff that could manifest an Ice Blade when I could already do that with a skill.
+
+Sure, variety was good and all, but too much variety could sometimes be more problematic than it was worth. Further, I had the tendency to pick a favorite or two and stick with those unless circumstances demanded something different.
+
+It didn’t make sense to fight my way through enchanting elemental weapons when I already planned to acquire a variety of elemental skills.
+
+“Besides,” I continued, refocusing on the topic, “we’re all pretty much capable of handling these mobs on our own, even if some of them are ten levels stronger than most of us.”
+
+Ranging from level fifteen to twenty-five, the mobs used for the first half of the floor were weaker than the boss of the third floor, even if half of them technically out-leveled it.
+
+After the first few rooms, Cora had caught up to me and Mike, reaching level fifteen. Stephen was still a few levels higher than us, and I expected that gap to remain for a while.
+
+Native delvers would never have risked fighting groups of mobs ten levels stronger, especially not while still at level fifteen. But we were Ascenders with centuries or more of experience. Such a small disparity in strength just didn’t seem like that big of a deal, given our other advantages.
+
+Stephen gave me a hesitant smile as we stood near the entrance to the next room before shifting. The entire process barely took a second, and it almost looked like his entire body had broken apart before being reformed instantly.
+
+His new form was that of a sleek, muscular feline with deep blue eyes and mottled gray-blue fur. It almost looked like a snow leopard from Earth, just darker and with muted blue hues.
+
+“You’re beautiful,” I blurted without thinking.
+
+I instantly flushed in embarrassment. I hoped my comment didn’t make him feel any more awkward about things.
+
+“He is,” Cora agreed, not noticing my discomfort. “I won’t try to pet you or anything, but this form of yours is absolutely gorgeous. I’m even more curious about your mirror falcon form, now.”
+
+Stephen chuffed, making his thoughts somewhat apparent, even if he couldn’t easily communicate. That might pose a problem if we worked together long-term, and I wondered if there were Telepathy skills available locally.
+
+I didn’t recall seeing anything about Telepathy skillbooks coming out of this dungeon, either before or after its evolution. But just because this dungeon didn’t produce them didn’t mean such skillbooks were unavailable.
+
+The married couple hung back a few feet, allowing Stephen and me to enter the room first. The mobs were a mix of hearth deer and stone boars.
+
+Like the second-floor boss, the hearth deer antlers could absorb heat, but unless someone hit them with a skill that produced heat, something like Fireball or Lightning Bolt, for example, they never got more than uncomfortably warm. For that reason, I avoided using Lightning Bolt when I fought the creatures.
+
+Casting Haste, my movements sped up by a quarter. I wished that I could push the skill further, but unfortunately, that seemed to be my limit for now. Still, it was fast enough to give me an edge, which was good enough.
+
+As the leopard next to me swiped at a charging deer, I noticed a bluish shimmer over his claws. The rivets dug into the mob’s side were instantly covered with frost, which somehow failed to prevent the creature from bleeding heavily.
+
+The blood was thick and almost slushy, which formed thick trails down the creature’s fur before dripping heavily onto the ground.
+
+With a burst of wind-infused movement, Stephen darted to the next mob and dragged a clawed paw across its neck as the buck reared back to attack.
+
+I wanted to watch the shifter fight, but I forced myself to focus on my own fight instead. I suddenly felt jealous of Mike and Cora, who were able to watch our new temporary team member with much more ease while they provided ranged support.
+
+“Was the frost something your leopard form can do, or a skill you actually have slotted?” I asked when Stephen shifted back into his Dian form.
+
+“It’s a skill. I can control mist and have some stealth abilities inherent to the form itself, which I can’t use in this form,” he clarified. “But the frost and bleed effects were slotted skills I obtained through skillbooks.”
+
+“And the movement skill?”
+
+“An inherent ability. I’ve been looking for a movement skill that would work in my regular form, but I haven’t found anything that I like yet. Ideally, whatever I slot would work with my beast forms’ inherent abilities instead of directly replacing them.”
+
+“The Association has a few movement skillbooks for sale. Have you looked at any of those?” Cora asked.
+
+“I did. A couple of them will work, but they are asking too much for a copper ranker to afford. I figure, worst case, I’ll just wait until I evolve and can afford something good instead of settling for something now,” Stephen replied as he started looting the fallen mobs.
+
+The rest of us began doing the same, but were soon distracted by a strangled sound coming from the archer.
+
+“What is it?”
+
+Stephen held up a thin skillbook with a rich purple cover.
+
+“Oh! Is it Portal? Are we all going to be rich?” Cora asked with an excited giggle.
+
+Stephen shook his head. “No. Teleport.”
+
+“Oh,” Cora said, her expression dropping. “Well, you said you wanted a movement skill. It looks like the dungeon was listening.”
+
+The archer looked shocked by Cora’s suggestion.
+
+“Will it not work for you?” I asked, tilting my head.
+
+I could easily imagine his leopard form teleporting around a battlefield, slicing necks like a phantom. He’d be a terrifying opponent.
+
+“No. I mean, yes, it would work amazingly, but I can’t keep this. It’s too valuable.”
+
+“Meh. Need before greed. If someone in the party needs and wants it, then that takes priority over selling it. We were just talking about how you needed a movement skill for combat. I don’t personally need it since I already have Teleport slotted.”
+
+“I have Shadow Step, so slotting Teleport would be redundant, even if it is, arguably, a better skill since it isn’t limited to moving through shadows,” Cora said when I looked toward her.
+
+“I guess I could technically use it, but I don’t need it. I’m also fairly certain I’ll get the ability to move through earth once my Earth Manipulation skill upgrades. It’s something I could do before, so… Yeah. It’s all yours, if you want it.”
+
+“But it’s worth a lot of money, and I thought we agreed to sell any of the really valuable skillbooks we found.”
+
+“Yeah, if nobody needed it,” I countered. “If you really don’t want it, we can sell it, no problem. If you’d rather have some other kind of movement skill, I’m sure you’ll be able to afford it if we sell this one.
+
+“But I just imagined you in your leopard form, teleporting around and absolutely massacring your opponents. I cannot imagine a better movement skill for you, especially after you get the hang of it. I will say that using it will probably be harder to use than you expect at first.”
+
+I could remember how disorienting teleportation was in the beginning. It took a while to get used to it.
+
+Stephen looked longingly at the skillbook in his hand before shaking his head.
+
+Before he could decline, Mike said, “It seems kind of obvious that the dungeon wants you to have that skillbook. You’re the one who found it, and it came from one of the mobs that you killed alone.”
+
+“And that was immediately after you mentioned wanting a good movement skill,” Cora added. “Really, it’s fine. Take the skillbook.”
+
+Looking absolutely flabbergasted, the shifter looked from the skillbook to each of our faces before finally giving in.
+
+“Okay. Thank you. I’ll remember this,” he said before activating the book to slot the skill.
+
+I noticed that neither of my permanent party members seemed particularly upset by the potential loss of funds. Instead, they seemed pleased by the entire exchange.
+
+I was glad to see, once again, that my instincts regarding the pair were dead on.

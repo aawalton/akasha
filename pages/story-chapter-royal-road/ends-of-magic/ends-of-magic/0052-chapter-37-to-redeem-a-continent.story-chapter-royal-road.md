@@ -1,0 +1,229 @@
+---
+id: 11819690-05d8-5f8c-a708-3ce1a4a15c3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: To Redeem a Continent"
+slug: 0052-chapter-37-to-redeem-a-continent
+partOf: ends-of-magic
+position: 52
+ownLength: 2798
+unit: words
+ownProgress: 2798
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2829599/chapter-37-to-redeem-a-continent"
+royalRoadId: "2829599"
+markedReadAt: "2026-06-29T20:08:55.777Z"
+---
+
+Nathan took a deep breath and squared himself, standing before the magical construct that had doomed a continent. He’d been confused when Sarya had said you needed a powerful wizard to fix a corrupted Seal at any time other than the solstice. It had seemed like such a simple thing after he'd studied the Gemore Seal. But now he understood. It was a simple matter to corrupt a seal, but the blight would fight you if you tried to go the other direction.
+
+He ached with the strain of holding up the weight of the magic above him. He wanted to send his aura down into the seal to rip out the death mana poisoning it. But that wasn’t the responsible first step. If he ripped out the infestation by the roots, that might damage the seal irreparably. It also might not, but he didn't know.
+
+Luckily, he knew what an uncorrupted Seal was like, and he compared the magical structure of the Seal below him to his memory of the Gemore Seal. It was not a simple construct, but Nathan’s memory was perfect. He could see the places where the blightmind had integrated into the Seal. It had worked its way into various parts of the construct to ensure that all of the mana the Seal released was Death mana.
+
+But something else was different. The Blight had tied itself into the blank spots in the Seal, the parts of the mechanism that were beyond Wizardry. It was doing something there, something that he didn’t understand. There were twists and folds of the Wizardry that were new to Nathan. He could purge the Blight, but he couldn't be sure that would fix the issue unless he understood everything that was going on.
+
+His skills had Developed since he’d plumbed the depths of the Gemore Seal. His magical senses were more powerful, and his knowledge of magic was improved. This Seal wasn’t just corrupting magic; it was amplifying it. The blightmind had routed mana away from the empty spots in the framework, and they were generating mana from nothing. It wasn’t like a mage’s mana pool, which constantly recharged itself from the ambient environment. It wasn’t like wizardry, which worked through the medium of the aether. It was something different, the same thing that he’d probed at before and been unable to break through. It was the thing that Ushia had told him to leave alone.
+
+Nathan knew that his friends were fighting above, that they were holding off monsters to buy him time. He carried the weight of the Blightmind on his back, the strain of its weight only equaled by the Stamina he absorbed from it. Taking the time now to figure out the truth beyond Wizardry was foolish. But there was something here, something vital. He’d learned wizardry from a fire elemental that had tried to burn him alive. Now he was in the same situation, and it was time to repeat the deed with the next layer down.
+
+The Seals are the source of mana on Davrar.
+
+The Insight came easily, and seemed so obvious in retrospect. The Seals didn’t just purify mana, they also generated it. They powered the sun, they were the things that made Davrar magical by generating the mana that was the base of magic. By corrupting the Seal, the blight wasn’t just damaging this area, it was subverting some percentage of all of the mana in Davrar.
+
+Congratulations, you have developed the [Arcane Insight] Talent into [The Truth of Magic].
+
+Utility skill: [The Truth of Magic]
+
+You understand the truths of magic.
+
+The spots that Nathan couldn’t sense were the key to it all. They were the ultimate sources of the unique magic of the Seals. Those locations remained invisible to his sight, but he could see the way that the death mana wormed into them, creating an image from the negative space. He memorized the pattern and drove his own aura down into the Seal, following the exact routes of the mana. He blanked out everything else going on, trusting his body and durability to keep him intact while he focused only on keeping his antimagic exactly following the path of the invading mana.
+
+His aura ate the death mana from the inside out. He wasn’t ripping it out, or even cutting the mana off and letting it spasm and wither. His antimagic rippled through the death mana like an insect shedding its skin, replacing the darkness and leaving nothing behind.
+
+Congratulations, you have developed the [Aura Control] utility skill into [Aura Mastery].
+
+Utility skill: [Aura Mastery]
+
+Your Aura is enhanced in every way.
+
+The overwhelming darkness above him screeched in anguish at the displacement. It flailed wildly, thousands of gigantic death elementals smashing themselves down at Nathan. He'd finally revealed his full capabilities to the blightmind, and it went berserk. The coordination among the individual elements broke, and they each engaged in their own desperate attacks. Waves of fear and pulses of wizardry assaulted him, many of the attacks cancelling each other out as the aether was churned into a maelstrom of conflicting power. He weathered the storm, maintaining perfect control over his aura as he was pelted with strange twists of reality. The directions of up and down twisted, and without his antimagic, he would have been turned inside out.
+
+Congratulations, you have developed the [Mental Vault] utility skill into [Wizard’s Palace].
+
+Utility skill: [Wizard’s Palace]
+
+You carry your Tower of Solitude with you at all times. Your memory is perfect, your mental resources enhanced, and your mind’s defenses impregnable.
+
+Something from the flurry of Developments enabled him to feel the insides of the Seal through his aura in addition to his magical senses. It was like another sense of touch. He’d followed the roadmap that the blightmind had mapped for him, and he experimentally manipulated the mana flows, watching as the structure of the Seal shifted and changed in response. It had a weight to it, a momentum that felt physical, like there was a physical object clicking into a new position. One of the blank spots rotated, and Nathan allowed his aura to rotate with it until it locked into a new orientation. What was below him wasn’t a weightless construct built from magic, but an actual machine made from real materials.
+
+It could just be some enchantment rooted in principles of magic he didn't understand, but it didn’t feel like any mana or wizardry Nathan had encountered. It was a machine that birthed mana from somewhere, something rooted in laws of reality that were far beyond any other magic on Davrar. It was the source of mana, and he could map precisely how that magic spun into being from nothing. He chased that sense, following the mana into the aether and then deeper, to its source. He used his aura to pivot the machine and shift the kind of mana it was producing, from the cold darkness of death mana to the blinding harshness of arcane, and finally to the neutral mana that a normal Seal made.
+
+That further depth beyond the aether is the source of magic.
+
+Congratulations, you have developed the [Mystical Discernment] utility skill into [The Sense of Magic].
+
+Utility skill: The Sense of Magic
+
+You can sense all forms of magic.
+
+It was like a cloth had been pulled away from Nathan’s eyes. He could sense folds and twists in reality that radiated out from the Seal like thin cracks in a layer of glass. They stretched up into the sky and through the writhing torrent of magic that was the blightmind. The collection of death elementals slammed down on him with wizardry, and the cracks moved with it, following the power being funneled through the aether to attack Nathan.
+
+The Seals aren’t just creating mana, they’re unlocking wizardry too. It's a cycle.
+
+Directing his senses down, he could feel what was happening inside the Seal as it spun mana and wizardry from nothing. There was a moment of separation, as if the mana and the wizardry belonged to the background of the universe, and whatever was down there was teasing them apart from one another, giving them the character of the ambient magic on Davrar. Once separated and purified, the two forces were stable and could interact safely, but before that, they were raw and unstable.
+
+At least, that was his best guess. It wasn’t his most pressing thought at the moment, with the huge tentacles of death mana wriggling overhead, trying to simultaneously kill him and worm their way back into the Seal. Nathan held off the attempts to penetrate back into the Seal and withdrew his aura from the depths of the magical construct. He'd done what he came to do; now it was time to banish the magical mind above him.
+
+Ultimately, the idea was simple. If mana and wizardry could be generated by splitting them apart from some kind of cosmological background, could he destroy them by inverting the separation and combining them back together?
+
+He stood to his full height, staring up with useless eyes into the utter darkness of the blightmind before unleashing his aura against it. His antimagic billowed out in a wave that ate away at the mana above him. He struggled against the sheer density and will of the mile-wide mass of malevolent mana, feeling like he was trying to clean up a landfill with a vacuum. Then he tried his new Insight, fusing the mana and wizardry in a reverse of the process happening deep below ground.
+
+The two forces combined, then vanished, releasing a sparkling light. The hivemind screeched in pain and fury as a tide of Stamina slammed into Nathan. The mana evaporated above him, the density and will inside it unmade in an instant.
+
+Congratulations, you have developed the [Arcane Nullfield] Talent into [Magical Destruction].
+
+Talent: [Magical Destruction]
+
+You destroy magic of every kind, and can extend this effect with an aura. Any power destroyed is converted into Stamina.
+
+His aura raced upwards, unimpeded by trifles like the power of the mana that stood in its way. It cut through the blightmind like a stormfront, leaving nothing magical behind. The cracks that signified wizardry sealed shut, and the ambient mana was drained from the air.
+
+Nathan lifted into the air, bounding upward in the wake of his aura. The space where his aura passed was empty of magic of any kind. He was mildly surprised that it didn’t hinder his ascent, but his feet still found purchase in the air. The blightmind tried to escape, but he grabbed every tendril and pulled them in with threads of aura spread wide.
+
+He had to dodge around monstrous corpses raining down from the sky, presumably ones that the Heirs had killed. They were completely inert after passing through his aura, but the flesh still had mass, and he had to dodge around. It didn’t take Nathan long to ascend into the sky, burning away the entirety of the blightmind as he did so. The sparkle of annihilating magic lit his way.
+
+The Heirs came into view, and Nathan saw that they’d indeed been busy. They were sheltered in a golden bubble high in the sky, with hundreds of flying monsters circling around them like sharks. A toroid of lightning hung around them, warding off the encroaching monsters and crackling out fingers of lightning to seize any that got too close. Sarah’s rifle cracked in a rapid tempo, and monsters fell from the sky.
+
+One of the building-sized undead charged them, breaking through the barrier of lightning. It spasmed and jerked, but kept coming, and Nathan saw Aarl rush to meet it, stopping it cold by swinging a weapon that enlarged to the size of a car. But a large group of the smaller and more agile monsters sought to take advantage of the gap, flowing through the gap to strike at the Heirs directly. Khachi blasted them with light, roasting the undead alive and letting burning corpses fall from the sky.
+
+Stella channeled wind, and it was only then that Nathan noticed that there were far more of the undead in the distance. They were kept at bay by a massive wind system that Stella kept active, leaving her just enough attention to maintain the circle of lightning. They were too busy with their own fight to acknowledge Nathan, but they definitely saw when the mass of death mana they'd been fighting over got destroyed.
+
+Enough of this. I don’t need to hold back any longer.
+
+He unleashed his aura, stabbing it upwards into the circling monsters and ripping the magic from their flesh in a subtle fireworks show. All of them plummeted out of the sky at the same time, both big and small. Nathan ascended past them to join his friends. He stopped short of joining them, reeling in his aura and trying to understand if his new power had an off-switch. He didn’t want to turn off the Heir’s flight by accident.
+
+It took him a minute to figure out how to pull back on the complete magical destruction and return his aura to its more normal state. In the time that took, Stella spun up a nuke spell and lobbed it towards the cloud of fliers that were caught by the vortex of wind. That was a couple of miles distant, but Nathan gaped at the display. He almost reached out his aura to catch the spell, but held back.
+
+He jumped up towards the Heirs, breaking through Khachi’s golden barrier and yelling in outrage. “Stella! That’s way too close. We need shields now!”
+
+She just grinned at him. “I have a new Development. Watch.” She pointed in the direction she’d hurled the spell, casting a spherical shield spell around the Heirs. Nathan turned to watch, raising a hand to shield his eyes from the glare he knew was coming.
+
+The nuke spell detonated early, closer to the Heirs than it should have, but the light wasn’t blinding. The spell was muted, with most of it reflected off the distant terrain and the bodies of the flying monsters themselves. Then the shockwave arrived, and it was also muted, breaking around the shield much more gently than it should have.
+
+“I can shape all of my spells!” the mage announced giddily, giggling as the semicircle of destruction blasted the cloud of monsters into flaming ash. “So many Developments in this fight!”
+
+“Indeed,” Khachi chimed in, his expression more clouded. “I developed [Unwavering Zeal]. That Talent has been rank ten for a long time.”
+
+Aarl snickered. “We can all tell that you got some weighty Developments, Nathan. Did you kill your nemesis?”
+
+Nathan glanced downwards, seeing the vast and entirely empty coliseum far below. The Seal sat in the precise center, the circular vault-like doors closed now. “I did. The Seal is cleared, and I think we can call this deed complete.” Another notification appeared, as if Davrar agreed with him.
+
+“Hear me, that reveals the truth,” Sarah said. “It’s like the Grand Dungeon. A great reward for a great deed.”
+
+“Do you think the Questors knew?” Stella asked.
+
+“They definitely knew,” Nathan replied. “But they didn’t, or couldn’t, tell us.”
+
+"Nathan!" Aarl called out to get his attention, then tossed him a set of clothes to replace those that the blightmind had destroyed. “We killed the problem. What now? Should we make for Helmaris?”
+
+"Thanks," Nathan said, hurriedly putting on the clothes. It had been a while since there'd been magic strong enough to get all the way to his skin, and he'd been so preoccupied he hadn't really noticed he'd been naked. He pointed downward, towards the Seal. “Sarya mentioned that our deed was done once we’d cleared the Blight. And the Seal is the most obvious landmark. I have a sneaking suspicion that they’ll be showing up any minute.”
+
+Permanent Talent 1: Magical Destruction 2
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1274
+
+Bottomless Stamina : 112304/127400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 7329/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 9
+
+Impulse 6
+
+The Sense of Magic 2
+
+Forewarning 7
+
+The Truth of Magic 2
+
+Evasion 3
+
+Wizard’s Palace 2
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 3

@@ -1,0 +1,159 @@
+---
+id: cfef01b7-9a40-5483-aa73-8b38735f0610
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40"
+slug: 0040-chapter-40
+partOf: emie-ascended
+position: 40
+ownLength: 2289
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3655572/chapter-40"
+royalRoadId: "3655572"
+---
+
+“I’m a little jealous that my Shadow Step skill isn’t good enough to qualify for membership in the Porter Guild,” Cora said with a pout as Stephen scouted the floor in his bird form.
+
+I could tell it wasn’t something she felt all that strongly about, even if she did pretend to be put out by the rules. Cora was just like that.
+
+“They’d probably let you join if you could get the skill to let you travel between cities with at least one person,” I said.
+
+“But people with inventory skills can’t do that,” she countered.
+
+I shrugged. It was a relevant point. So was the argument that someone with a storage item could perform the same function as someone with an inventory.
+
+But I wasn’t the one who made the rules.
+
+“Still, it’s good that you both registered. If we’re lucky, the guild will escort the two of you to different cities, and we’ll have a much larger range of options for future travel.”
+
+“It’ll save a lot of money as well,” Mike pointed out. “That is, if the two of you are willing to transport us.”
+
+“Well, it’s not like we’ll be leaving you behind,” I said.
+
+It was something I’d already discussed with Stephen, so I knew he agreed with me on the point. Even if the two of us might pop over to another city alone for one reason or another, we wouldn’t just abandon Mike and Cora to do our own thing.
+
+I could also use the sanctuary to transport all of us, though I wasn’t quite sure how to bring that up.
+
+I didn’t think it would draw too much attention to have the three of them in the space while I teleported to a new location, but letting them know that I could directly open the space anywhere I had already set a Dimensional Anchor seemed like it might be too much.
+
+Maybe I was just overthinking it, but I still felt the need for some degree of secrecy when it came to my abilities.
+
+“It looks like we’re just the second group to enter the floor,” Stephen reported after shifting back into his Dian form. “The other group is heading this way, skirting the edge of the floor. They’re probably one of the newer bronze groups like us. I think I recognized a couple of them.”
+
+“What do you think, intercept or avoid?” Mike asked.
+
+“You know I tend to avoid interacting with other delvers whenever possible,” the shifter replied. “I don’t have any particular impression of the two I recognized. They just look familiar.”
+
+“How close are they?”
+
+“Pretty close. I expect you’ll be able to feel the vibrations from their movements soon enough.”
+
+“Well, if they’re that close, we might as well stay in the safe zone until they show up. That way, we won’t have to worry about them becoming hostile. It would give us a chance to get a feel for them without any real risk.”
+
+He made a good point. If the group were hostile, we could either leave and re-enter the dungeon later or consider what other actions might be appropriate, depending on the circumstances.
+
+Though I’d never been a bloodthirsty person, I’d lost the deep aversion I’d initially had to killing others a long time ago. If they wanted to start a fight, I certainly had no problems ending it as long as we could ensure there were no witnesses to raise future issues.
+
+It only took a quarter of an hour for the other group to approach the safe zone. There were five people – three men and two women. One of the men looked very familiar, though the rest of the party seemed less so.
+
+“Healer Emie!” the familiar-looking golden-haired man exclaimed when he saw me. With the way his dark purple eyes lit up, it was clear that I should recognize him. “Did your party just arrive?”
+
+“Yes. We haven’t been here very long. We were just about to head deeper into the floor.”
+
+“Already?” he asked, looking startled by my comment. “Didn’t you just evolve a few weeks ago? I would have thought you’d stick to the outer edges until you earn a few more levels.”
+
+I felt bad for not knowing who the man was, especially since it was clear he knew who I was. He was even familiar enough with me to know how recently I’d evolved.
+
+It took a moment for me to make the connection, but I eventually realized the man in front of me was one of the many patients I’d seen during our three-week break from delving.
+
+I’d regrown his right hand and most of his forearm just two weeks earlier.
+
+“Ah, well, we’re Ascenders, you know? We’re a little more capable than our levels might imply,” I said a little awkwardly. “How is the hand doing?”
+
+The man’s eyes brightened at my comment. He was clearly pleased that I remembered him.
+
+“It’s good! Better than good. It’s perfect! I still can’t thank you enough for regrowing it. I was worried I’d have to give up my dream of becoming an Ascender myself.”
+
+Motioning to the rest of his group, he said, “This is my new party. In case you forgot, I’m Jed. That’s Harlon, and his girlfriend Jeni. The one in red is Stacy. She focuses mostly on fire skills. And that’s Lannigrand. He’s our control specialist.
+
+“Their old parties fell apart after they reached the first evolution, so we all decided to partner up and make a new party! This is just our second delve, so we’re still taking things slow while we get used to working together.”
+
+That wasn’t much of a surprise. A lot of parties fell apart shortly after reaching ‘adulthood’. Many Dians just wanted to live normal lives and only bothered with the dungeon because it was required.
+
+That aspect hadn’t really changed from the time of the simulation, though I felt the percentage of the population who felt that way was significantly lower in modern times.
+
+After chatting with the newcomers for a few minutes, my party set off toward the center of the floor. We had no intention of going all the way to the boss, but challenging some of the higher-level beasts sounded more appealing to all of us than sticking to the outer edges.
+
+We split into pairs once we put some distance between us and Jed’s group, with plans to meet back when the light started fading. While we could have all stayed together, splitting up let us gain a lot more essence in the same amount of time.
+
+I mostly trained my newer skills in hopes of pushing them to the next level sooner rather than later. For particularly new skills like Void Strike, I knew it would be a while before the skill saw any meaningful changes.
+
+“When do you plan to start leveling Aerie?” Cora asked when we met back up and retreated into the sanctuary for the night.
+
+Fighting alone or in pairs made the delving a lot more challenging than it was when we stuck together as a group, but that also made the time pass by much faster as well.
+
+“It’ll probably be a while,” I admitted. “I don’t feel comfortable having her join us in the dungeon, but I’m keeping her in stasis when I’m not with her so she doesn’t get lonely. That will also slow her aging by a bit.”
+
+“Is that safe?”
+
+“I don’t see why it wouldn’t be.”
+
+To the small asolade, I’d disappeared for barely a moment before returning with friends. She’d been so excited at the new visitors that she’d darted from one person to the next before launching herself at her wall gym to show off.
+
+After watching with clear amusement for a few moments, Cora made a noise to get Aerie’s attention. It worked better than she expected and resulted in a small ball of fur trailing a fluffy tail shooting like a bullet toward her face.
+
+Cora laughed and caught the excited kit before swiftly losing hold of her as the bundle of excitement climbed literal circles around the rogue.
+
+Small species like asolades normally weren’t given essence cores to help them level until they were at least a few months old. Even then, it was weak cores given at a measured pace so they didn’t grow too quickly.
+
+They wouldn’t be allowed to evolve until they were a minimum of eight or nine months old, though some pet owners waited a full year or more to allow their beast companion plenty of time to grow and adapt to their changes.
+
+With the time shenanigans I was exposing Aerie to, I’d probably wait a little longer before introducing Aerie to essence cores, just to be safe.
+
+Besides, it wasn’t like I was in a hurry for her to level, nor did I plan to rely on her in any significant way as far as combat was concerned. I still planned to help her learn how to fight, but that was more so she could defend herself if the need ever arose.
+
+It was generally a policy of mine to limit the amount of enchanting that I did while in the dungeon. Though I had several commissions pending, none were so pressing that I wanted to give up my limited free time to complete them in the middle of a delve.
+
+And since almost every commission was basically for the same kind of item, I’d already decided that after this set of commissions, I was going to shift to a consignment model instead.
+
+I’d still take special orders when necessary – or when someone had a particular item they wanted me to enchant – but I felt that the way I was currently fulfilling commissions was more inefficient and time consuming than it needed to be.
+
+Putting the thought of enchantments out of my mind, I retrieved a book from storage and settled in to read after our evening meal.
+
+The book itself was an enchanted item that worked similarly to a Kindle reader, except with individual pages that could be flipped through like a traditionally bound book.
+
+The enchantment was clever in how it ensured there were always just enough pages to fit the entire book while never growing any thicker, no matter how many actual pages a story contained.
+
+Swapping to a new story was as easy as flipping back to the index and changing the selection. The old story would then be overwritten with the new one, allowing the reader to read to their heart’s content without needing to fill a bookshelf.
+
+While this realm’s version of traditional publishing still included bound books made of paper or a paper analog, many of those who enjoyed reading more than casually opted to read published stories using a composite book since it ended up being much cheaper in the long run.
+
+The stories available through the Delver Association’s network tended to be those written by amateur writers, much like the free reader platforms back on Earth before magic became a thing.
+
+While I enjoyed those as well, this realm didn’t have the same level of connectivity to make reading such stories widespread. In fact, without purchasing the network interface pad or residing within the Dungeon Complex, those stories were completely inaccessible.
+
+Compared to the network interface pad, composite books were cheap. It made the small cost of paying for each title, in addition to the artifact cost, much more palatable.
+
+In fact, I’d been able to afford the device at early bronze rank (not taking into consideration the large payout we’d gotten for the Portal skillbook). To illustrate the difference in cost, most probably won’t be able to afford their own personal network interface pad until well into steel rank.
+
+It was a cost in bronze bits compared to one in steel dimes.
+
+Next to me, Stephen settled in with his own composite book while Cora headed to the garden to let Aerie get a bit of fresh air. As strange as it might seem, the air really did seem noticeably fresher in the small garden than within the sanctuary, even if they technically shared the same air.
+
+With a thought, I ensured the garden was illuminated enough for the pair to see without any trouble. For the most part, I tried to keep the garden on a stable timescale. But since I started putting the space in stasis whenever I left, I’d lost track of my schedule.
+
+Sometimes, I really missed my old interface assistant. Even with the near-perfect memory I’d enjoyed at my former peak, I’d relied on Lisa for most of my scheduling needs.
+
+“You’re not going to go with her?” Stephen asked the other man.
+
+Mike shook his head and settled into one of the lounging chairs. He held a paper book in his hands, though it looked more like a puzzle book or a workbook than a novel. That thought was further reinforced by the pencil he retrieved from the small storage bag attached to his hip.
+
+“No. It’s pretty, but sensing how little earth is actually present beneath the surface is a little unsettling.”
+
+“But being in the sanctuary isn’t?” I asked.
+
+“Not at all,” the Earth Magi said with a shrug. “I have no idea why. Maybe it’s because it’s structured as a home instead of a garden.”
+
+I could understand that, especially coming from someone so in touch with the earth element.
+
+I leaned into Stephen, turning my focus back to the book in my hands. Moments like this were common enough in my new life, but I made sure to consciously appreciate each one when it came.

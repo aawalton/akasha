@@ -1,0 +1,119 @@
+---
+id: 0c217962-0330-5408-8ac2-bdf52104bed6
+page-type-slug: story-chapter-royal-road
+title: "Ch17 A Hard Lesson"
+slug: 0017-ch17-a-hard-lesson
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 17
+ownLength: 1262
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211916/ch17-a-hard-lesson"
+royalRoadId: "3211916"
+---
+
+Days begin to pass by, and the tension between me and this new neighbor only grows worse.
+
+I chop more wood than usual, stacking up my metal bin to overflow, almost 50% more wood in total than days before.
+
+It only takes me an extra half an hour, and it isn’t physically taxing. However, it’s the principle behind it.
+
+Xu Hong, the loudmouth, chops wood day and night. She works her way up to over 3.5 times the amount we’re told to chop.
+
+Every day when Zhou Kang comes by our huts, the purple-haired rat points to me and tells our steward that I’m slacking. He praises her and has made it part of his daily ritual to beat me.
+
+I make it a point not to fight back. With my dagger, copper bell, and ability to make lethal arrows, I’m certain I could handle this old man. Yet, there are witnesses, and there are superiors above him in this sect whose true strengths I do not yet understand.
+
+I only get a single spirit fragment back for my increased efforts and humiliating beatings.
+
+I’ve been using upgrade cards every day to form a spirit stone to cultivate with.
+
+These glowing hot white rocks worth 1,000 spirit fragments do not carry the same weight they did before I broke through to the first level of qi refinement.
+
+I’m able to absorb all of the energy in these stones within 2 hours of focused cultivation. That is the length of a single long session, before they turn to worthless grey dust.
+
+Even the qi that flows into my dantian and spirit roots is rather lackluster.
+
+There was a certain depth and sharpness to the serpent’s plum that these spirit stones can’t replicate. In fact, the widened state of my meridians starts to revert back to normal.
+
+The stimulation of my meridians was only a temporary side effect of the plum, most likely an evolved natural trait used by serpents to break through bottlenecks. It makes sense that once the fruit is used up, my meridians would shrink back to their natural state.
+
+Cultivating with spirit stones now feels lackluster. In fact, I don’t feel any progress at all…
+
+Most of the raw qi is flowing back into my body and waiting to be used for chopping wood. My dantian feels hot and slightly uncomfortable even when I go to sleep at night, like there is a casing around it made of extremely hard glass.
+
+The meager amount of qi I absorb every day is nowhere near enough to exert pressure to break it.
+
+I need another boost. Another fruit would be ideal, but that would be entirely up to luck. The most guaranteed option I have is to present Zhou Kang with a spirit stone once again and ask for a pill, or possibly more than one.
+
+Considering he steals them from the Alchemy Peak, any stones I give him would be pure profit.
+
+The only problem is his growing anger and temper toward me.
+
+I glance over at my purple-haired neighbor chopping wood and decide that two can play her game.
+
+Instead of stopping at a single overflowing bin today, I make a full pile next to it before stopping.
+
+It’s nowhere near her three and a half piles, but I’m here to play the long game. I want to make things believable.
+
+“Senior Zhou, I’m telling you, I worked the hardest I could today to chop this wood for you!” I plead with clasped hands to the steward when he arrives today. I even cover my face and hands with sweat and dirt.
+
+He grunts with a satisfied smile while taking my wood, still only throwing a single spirit fragment before walking away. “Good. So you can do two bins’ worth. I want to see you keep this up.”
+
+I use the upgrade card on my fragment to turn it into a spirit stone, but put it away in my storage instead of cultivating with it today. Then, make my way over to my neighbor’s hut with a smug grin.
+
+“Hey! You! Xu Hong! I’ll give you one chance for a truce!”
+
+Her vacant eyes wander around the forest before settling on me, the noise calling her.
+
+She stops chopping wood and steps my way.
+
+I didn’t bring my axe today, so she doesn’t point hers at me either.
+
+Still, she yells back, “A truce? To what? I already beat you, remember?”
+
+I roll my eyes. “I’m talking about you being a little rat. We’re both servants, captured by the sect, forced to do the same labor. We’re on the same side here, so you badmouthing me every time the steward comes along is not appreciated.”
+
+“I’m not badmouthing! I’m telling the truth!” she responds, still with dull eyes and a naive tone. Yet, there is something unsettling about this whole situation. A fool would not be so systematic about calling me out.
+
+I tighten my gaze and raise my fists. “Fine, then I want a rematch. I want to fight again.”
+
+She doesn’t say another word, she only rushes forward with her scarred fist held high too.
+
+Soon, loud collisions echo throughout the forest.
+
+Her movements are simple, brutal, and obviously honed through many battles.
+
+In fact, her techniques are far more advanced than my own.
+
+I only have extremely basic mixed martial arts practice knowledge from my previous life. I’ve never even used it to fight another human.
+
+The true reason I’m managing to fight back is that my strength is over double hers, it has nothing to do with technique.
+
+I don’t only block. I channel white-hot qi into my fists and punch back.
+
+The first one that collides with her ribs is a solid hit, sending her flying backward almost 10 meters.
+
+The look in her eyes turns from animalistic rage to a sharpness and awareness I swore was a hallucination in our last interaction.
+
+“I knew you were faking it! You’re not as dumb as you pretend to be. What is your game? What do you really want?” I yell out, and lunge forward, punching her with my other qi-infused fist across the face.
+
+The woman tries to dodge but tumbles backward from the impact.
+
+I follow and kick her while she’s down, flipping and tumbling her further until she slams into the trunk of a tree. I step on her chest and stare into her eyes; they contain a glint of fear and intelligence as they dart around. Yet, the pressure is far too heavy for her to get away.
+
+“Is this going to stop now? Whatever you’re trying to do, don’t involve me. I don’t want another word about my wood chopping to come out tomorrow.”
+
+Blood leaks from her mouth, but she doesn't say anything back.
+
+“Fine. You still want to stick with your act? I can get what I want in more ways than one.”
+
+I pull her to her feet and step back with my hands raised. “Come at me.”
+
+A glint of confusion passes through her eyes, but she still runs forward at me. A series of loud fist-to-skin collisions echo through the forest.
+
+I don’t use all my strength, I only prolong our fight until she’s breathing heavily, then infuse my fists with qi and bash her to the ground again.
+
+Over ten times, I battle this brute until she’s too exhausted to stand back up.
+
+“Looks like I won today.” I murmur, throwing her into her hut in the dead of night, and calmly walking back to mine.

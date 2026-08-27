@@ -1,0 +1,177 @@
+---
+id: e7601b7a-8d1e-5f45-b19e-a2ab9daaafd9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 342: Kings and Emperors (Part 2)"
+slug: 0379-chapter-342-kings-and-emperors-part-2
+partOf: dungeon-of-knowledge-complete
+position: 379
+ownLength: 2657
+unit: words
+ownProgress: 2657
+publishedAt: 2025-08-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2507013/chapter-342-kings-and-emperors-part-2"
+royalRoadId: "2507013"
+markedReadAt: "2026-06-29T20:23:27.769Z"
+---
+
+“I’ve got an idea,” Ryn said, surprising Ali with the speed she had grasped the layout. “Move your Acolyte like this,” she said, moving the piece forward and into the center, a decidedly vulnerable position.
+
+“Why would I do that?” Ali asked, studying the strange move.
+
+“Because you’re threatening this with your Warrior and your Archer,” Ryn said, pointing out the potential threat by playing through four likely subsequent moves, and Ali’s Sage of Learning suddenly sucked away a surprisingly large chunk of mana. She ignored it and returned to the board, making the move Ryn suggested.
+
+For the first time in the game, Cael failed to respond instantly.
+
+“Ali, I need you to read as much of that rulebook as you can,” Ryn said. “We need to know if there are more surprises. And let me know as soon as you figure out the time.”
+
+“We have about half an hour of sand each,” Ali said. “Ours is slightly lower.” In the silence, while Cael’s sand ran slowly into Ali’s reservoir, she quickly scanned the next few pages of the rulebook, relaying the contents to Ryn.
+
+“So… they’re playing with ancient Dal’mohran rules,” Ryn said. “Good, that will help us.”
+
+“Why is that good?” Ali asked. She hadn’t even known there were other rules for the game, although it made sense. Games must develop over time.
+
+“It’s the ruleset I’m most familiar with,” Ryn said, smiling up at her berserker. “Now, while he’s thinking, we should plan. He’s going to respond to the Acolyte with this move here,” Ryn said, moving the enemy Rogue. “And then we are going to be aggressive with our Mage by moving it here, which will develop our pieces at the same time as recovering our tempo in the center. That should put us back in the game – but we’re not out of the woods yet. Not by any means.”
+
+Sure enough, a minute later, the shimmering space-affinity Rogue moved to the exact spot Ryn had predicted. Ali responded quickly with her Mage as Ryn had suggested and then studied the rules a little more as Cael stalled out again, considering her move.
+
+“How did you do that?” Ali asked, using her Berserker’s deep voice.
+
+“What?” Ryn asked.
+
+“You predicted his move.”
+
+“Oh, as you get more advanced in the game, you learn how to examine the possibilities further and further ahead. I just explored all his possible moves for the next ten moves and determined that that was the best one. I’m certain he did the same and came to the same conclusion.”
+
+“Ten moves ahead?” Ali exclaimed, her mind boggling at the sheer explosion of possibilities that would have to be evaluated.
+
+“It’s not that hard,” Ryn said. “Most subtrees are stupid moves and can be easily eliminated in their entirety without much consideration. See, here,” she said, moving a Scout on the edge of the board. “This move has no value, and the entire tree of possibilities that starts with this move puts you at a disadvantage that cannot be recovered, so I just ignore it.”
+
+“Right. Still, ten is a lot to think about,” Ali said, realizing that basically, Ryn had suggested a tree pruning algorithm, but still, it would be extremely taxing to implement mentally.
+
+“I would use a lot more moves than ten for a critical position later in the game when everything is more developed,” she answered. “That’s what good players are doing when they ‘think.’ But I’m cheating a bit, my magic helps me think faster, and Arcane Archive lets me memorize the possibilities instantly. And my divination gives me surprisingly good insight when there is a possibly exceptional move hidden down an unexpected path.”
+
+“You’re cheating?”
+
+“Cheating is such a strong word,” Ryn said, giving her a positively wicked grin. “Fine, but so are they. They’re definitely abusing their magic to enhance their position, the first several moves demonstrate that clearly, even excluding the strange rule to add squares,” she explained. “You should cheat too, use your Sage of Learning, because I’m certain this is going to get harder as we put some pressure on.”
+
+“I can’t use any active magic,” Ali answered. But at least Sage of Learning would work passively.
+
+“I’ll get you some books to read – you can read simultaneously while playing, right?” Ryn asked.
+
+“Yes,” Ali answered, and with that, Ryn shot off back into the library, leaving the board set up with the next move she was recommending Ali make. She studied it carefully, realizing that again Ryn had made a prediction, and offered the best counter to it. Carefully, she tried to follow the possibilities in her mind, seeing if she could emulate what Ryn was really doing behind the scenes.
+
+But movement on the board caught her attention and she returned her focus to her opponents. Her position was still weaker than his, but the time Cael was taking to make his moves was encouraging. And so was the move he made – his Acolyte moving up one square, exactly as Ryn had predicted. As soon as the hourglass turned, Ali initiated the exchange, capturing the advanced Acolyte with her own, and promoting it to Priest.
+
+Her Priest was immediately captured by Cael’s Rogue, allowing him to promote it to Assassin, but it was all in vain as Ali’s Mage swooped in to capture the Assassin, leaving her with the interesting choice of promoting it to a Witch, Sorcerer, or an Archmage. On her own, she would have chosen Sorcerer for the stronger movement around the board, but Ryn had suggested Archmage instead, relying on its more potent attack to push their advantage.
+
+She chose Archmage, and the tall Mage piece grew suddenly taller, sprouting a staff and a robe, all made from the same golden arcane magic that so intrigued her.
+
+“Cael, she’s beating you,” Gage said, his voice urgent.
+
+“No, she isn’t!” Cael retorted.
+
+“I’m going to reset, we have enough sand,” Gage said.
+
+“Ok,” Cael answered, an edge of frustration making his voice snappy.
+
+Suddenly, the entire world flickered, as if on command, and pieces vanished and shifted as they moved around the board in the reverse order that they had been played, and to Ali’s surprise, she found herself teleported back to the center square on the back row as the Emperor of her team while she surveyed the board.
+
+All the pieces had moved, several reappearing on the board. Her promotions were reversed, and she suddenly recognized the position as the board arrangement from ten moves ago. A glow up in the hourglass caught her eye, as a big chunk of sand vanished from Cael’s reservoir, appearing instead in hers.
+
+“Special rule again?” Ali asked, annoyed that she hadn’t been told the rules upfront. What he had done had looked surprisingly similar to the echoes of the spirit realm, rewinding the game move by move each time it flickered.
+
+“Yes,” Gage said. “My second move.”
+
+He seems to be the one controlling any of the time manipulations, she realized. It had been the same in the previous Multiple Paths in Time puzzle.
+
+“Ryn, they cheated again,” she said.
+
+“What did they do?”
+
+“Unwound the game by ten moves,” Ali explained, describing the current position.
+
+“Did they unwind the extra column?” Ryn asked.
+
+“No,” Ali said, registering surprise. The extra column had been added in the unwound sequence, but it hadn’t been undone. “I guess Gage can only unwind Cael’s moves. It also consumed a bunch of their time and gave it to me.”
+
+“So that means he can’t just do it whenever he wants,” Ryn said, nodding thoughtfully. “No problem, we can do this.”
+
+“How?” Ali asked. The ability to simply take back any position was unreasonably powerful.
+
+“We will just beat them on every tree branch and every possibility, until they run out of sand. Knowing more about how it works will allow us to predict even the positions they will unwind to and prepare for them,” Ryn said. “Now, read these books while you respond with this move.”
+
+Ali bent over, the giant berserker finding it awkward to hold the tiny books Ryn had collected for her. But she opened them and began to scan the contents – the recorded details and analysis of many master-level games. Instantly, her Sage of Learning skill began drawing from her mana pool as she began to fill her mind with thousands of details, strategies, and ways of evaluating positions.
+
+She made her move on the board, but she decided to spend some of her hard-won sand – the result of Gage’s power move – to read through the rest of the rulebook. Or at least, as much of it as she could. Surprises were likely to get her killed.
+
+Gage, it seemed, had a surprising set of moves at his disposal, and he immediately used another one. A second board appeared, hovering beside the first one – this one only seven-by-seven and laid out with the novice-rank arrangement of pieces, but entirely unconnected from the current board. Cael then moved a Scout on that second board.
+
+After consulting briefly with Ryn, Ali returned and jumped across the gap between the boards to make her response, grateful that she had chosen to keep the strength boost via Empowered Summoner. In response, Cael applied a special drop move which she had only just read in the rule book, dropping a portal connecting a square in the middle of the big board to the edge of the smaller board.
+
+Ali reported the move, and Ryn immediately stopped her from responding.
+
+“Change of strategy, Ali,” Ryn said. “Look, the Mage on the first board is now attacking your Scout on the second board.”
+
+“How do you know it works like that?” Ali asked, seeing the line from the Mage that passed through the portal would, in fact, take it directly to the Scout on the second board.
+
+“It’s the only reason he would place the portal there like that,” she replied. “But we can use it, too. See, your Mage on this board can attack his Mage through the portal and be supported by your Scout?”
+
+Ugh, this is getting complicated, Ali thought, trying to follow Ryn’s logic, while watching her sketch it out on the ground because she didn’t have a second board.
+
+“I think I see,” she answered, making the move on the other side. It was incredible watching Ryn figure it out. She was never restricted to the current layout of the boards, instead speaking as if the future positions were just as visible to her in her mind as she repeatedly responded to threats and possibilities that hadn’t even materialized yet.
+
+***
+
+Ali’s brain hurt. She stared out over the chaos floating in the air, amazed that her mind was keeping track of it all. There were sixteen boards of seven-by-seven or larger, many of them expanded well beyond the standard game size, and some of them were even linked by bridges of squares. There were portals dotted everywhere, linking squares in complex ways and there were pieces locked in combat everywhere, many of them paused mid-attack while the game shifted to higher-priority threats like the gusts and swirls of a windy tempest.
+
+Her mind flickered through the possibilities, agreeing with Ryn. She took a look up at the hourglass, judging the time. Over the hours of play, her steady disadvantage in the time taken to get to each piece and make her move had added up to a substantial time advantage for Cael and Gage. Even with her mapping out all the portals to get around the boards faster than jumping, it was still something she couldn’t do anything about, and her two opponents had abused it heavily to unwind any of a number of strong positions Ali and Ryn had set up.
+
+Ryn’s patience seemed boundless, and she consistently came up with brilliant gambits and strategies. Once Ali had begun to learn how to explore the tree of moves by herself, Ryn had devoted her energy to exploring the more advantageous patterns, leaning on her divination to explore unconventional options, regularly coming up with absolutely brilliant responses that got them out of trouble, turning the tables on the twin brothers again and again, forcing them to spend their sand on resets.
+
+And it would all come down to this move.
+
+Ali touched her Berserker – the twice-promoted Warrior piece on the center-most board, not her raid boss who was facilitating her conversation with Ryn. However, she appreciated the symmetry of using Tol’brekk to dismantle the threat of the Crimson Blade, and now using her Berserker to undo Cael and Gage. She moved it forward one square, unleashing her and Ryn’s devastating master plan. With that single move, her Berserker was attacking three of Cael’s promoted pieces simultaneously – an Archmage, the Commander, and a Priest. Two of them through portals to other boards. But the brilliance of this move came from the fact that moving her Berserker off that square had opened the lines of attack for her Ranger and Archmage to attack Cael’s Emperor simultaneously through two other portals – and from opposite sides. This forced Cael to move his Emperor into a weak and exposed position because there was no single way to block the double-discovered check.
+
+Meaning that Ali would be able to capture a significant advantage using her Berserker. And if she was judging things correctly, she had been fast enough running around the board that they were under substantial time pressure, too.
+
+Either way, the twisted brothers were in deep trouble.
+
+“Gage, reset it,” Cael said.
+
+“We don’t have enough sand,” Gage stated. “Remove your portal.”
+
+“I can’t, I’m in check twice,” Cael said.
+
+“Well, why did you let yourself get cornered?” Gage snapped. “Now you’re going to lose.”
+
+“I don’t lose, I’m the best ever at Kings and Emperors,” Cael said.
+
+“Well, how are you going to get out of this mess?”
+
+“It’s your fault, you are supposed to be able to reset.”
+
+“Oh, you’re going to blame me now? After you made me reset fifteen times?” Gage yelled, sounding rather upset. “Maybe if you were better at the game, I wouldn’t need to reset so often!”
+
+“Sorry, Gage, I didn’t mean it,” Cael said, his voice filled with reconciliatory tones.
+
+“If you had just listened to me and killed her at the start, none of this would have happened,” Gage whined.
+
+“It’s ok, there are more challenges,” Cael said, reassuring his brother. The Emperor piece made from space magic slowly toppled over, hitting the arcane squares with a crack, bouncing a little before all the opposing pieces exploded into motes of mana, drifting up into the air.
+
+A large Gate appeared in the middle of the center board, and then to Ali’s horror, the golden board squares began to vanish rapidly from the outside in.
+
+She leaped toward the center, landing heavily, pain jabbing through her injured ankle, causing her to stumble as the ripple of vanishing squares rapidly closed in. She clambered to her feet wearily and stepped through the Gate, hardly even looking to see what was on the other side.
+
+Her notification chime sounded.
+
+Your group has defeated Kings and Emperors – Puzzle – level 109 (Arcane / Space).Dungeon of Knowledge has reached level 114 (+2).+20 attribute points.Arcane Insight has reached level 63.Arcane Recall has reached level 24.Sage of Learning has reached level 53.Empowered Summoner has reached level 54.Reading has reached level 17.
+
+“Ryn! We won!” Ali cheered, grateful that her friend couldn’t see just how tired she was after that long bout.
+
+“I knew we could take him,” Ryn said, smiling up at the cross-legged Berserker whose lap was covered with books and squeezing one of his enormous fingers.
+
+I might be stuck here by myself, but it’s nice to know I’m not alone.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

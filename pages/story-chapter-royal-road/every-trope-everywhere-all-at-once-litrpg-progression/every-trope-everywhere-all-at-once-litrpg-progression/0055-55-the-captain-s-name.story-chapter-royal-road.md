@@ -1,0 +1,219 @@
+---
+id: 24fc6558-f057-5a71-b53f-82c3790b7c98
+page-type-slug: story-chapter-royal-road
+title: "55 - The Captain's Name"
+slug: 0055-55-the-captain-s-name
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 55
+ownLength: 1722
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3582152/55-the-captains-name"
+royalRoadId: "3582152"
+---
+
+I quickly tossed Moonweaver into my [INVENTORY], wielding Giant Slayer with both hands. Surprisingly, I was able to hold onto it with just one, but it was beginning to strain my wrist.
+
+I flew toward the captain’s ship, landing just beside him. He was constantly yelling out commands to the others without end.
+
+“Are you one of those captains that don’t fight?” I asked.
+
+He looked at me, laughing. “No, not at all. But with all these monsters and the giant on our asses, I’d rather stay behind and coordinate our attacks.”
+
+“Makes sense. Anyway, the giant is immune to all magical attacks. We’ll be better off fighting it directly with weapons.”
+
+“Are you sure?”
+
+“I am,” I said, pointing. “Look.”
+
+We turned to the giant. It was hard to tell since everybody was attacking it at the same time, but we could see that the giant only ever reacted to the swords, spears, and bows. Yet, the giant completely ignored all of the mages’ attacks. A fireball even headed straight for its face, only for it to be completely unaffected. The only reaction it gave was a few blinks through the smoke.
+
+“Huh,” the captain said. “You’re right.”
+
+As we talked, the rest of the people on the ship defended us from the monsters.
+
+“I kind of feel bad just standing around and chatting,” I said.
+
+“You’ll get used to it once you’ve done it long enough.”
+
+“So you are one of those captains that just sit in the backline.”
+
+He unsheathed the sword at his hip. It was the typical iron sword any knight wielded. I would’ve expected a captain like him to have something more special, but I guess it was only his golden helmet that made him stand out from the others.
+
+“Stop making fun of me, eh? I’ll show you why I’m the captain.”
+
+He raised his sword high into the air, shouting, “The giant is immune to magic! Mages, stay behind and support the rest of us!”
+
+His thunderous voice could be heard across the entire sky. They all obeyed without question, taking a new formation.
+
+“That’s pretty cool,” I said. “Should I ask for your name, or should you stay as one of those unnamed side characters?”
+
+He tilted his head. “What do you mean?”
+
+“Never mind.”
+
+The captain cast wind magic on himself, taking flight and stepping off the ship. I did the same—only with wings instead of magic.
+
+Aeris flew to us, making all sorts of roaring noises.
+
+I shook my head. “I have no clue what you’re saying.”
+
+“She says we should aim for its head,” Meriel translated, able to understand her since she was sitting on the saddle.
+
+“That was exactly what I was planning,” the captain said.
+
+The others distracted the giant as it constantly swung its arms to keep them away. Seeing an opening, we shot toward its face. Several monsters flew into our path. Aeris and Meriel took care of most of them.
+
+Two stone angels slipped by, but the captain reacted quickly, flying into their path and decapitating them at the same time. Maybe it wasn’t just a normal iron sword after all, seeing how quickly it sliced through their stone bodies.
+
+The Chainbound Giant was next. Aeris went for its neck. Meriel cast spells on the captain and I as we went for its face.
+
+But the giant saw us.
+
+Even though one eye was focused on the troops attacking it, the other eye shot toward us. It cocked its head back and tried hitting us with it when we came in its range.
+
+I let out one hard flap with my wings, breaking my momentum and avoiding the attack. But the captain had other plans. He twisted his body to avoid the head, letting his blade follow through and slicing its forehead.
+
+The giant roared, throwing its arms out to keep us away. The rest of the troops now had an opening to attack, overwhelming the giant as they slashed and pierced the side of its body. As big and horrifying as the Chainbound Giant looked, it was honestly a pitiful sight. Being stuck in the dungeon gate meant its mobility was severely restricted, almost like it was a big toddler trying to keep flies away.
+
+Okay, there was probably a better way to describe it other than that, but it was the first thing I could think of.
+
+[BOSS: CHAINBOUND GIANT]
+
+HP: 82%
+
+That was a big improvement from the last time I checked. It was 96% just earlier.
+
+The captain continued his attacks, striking the giant’s head from above. Several hits landed, but with the number of monsters starting to surround them, he had to be careful about them as well.
+
+“It’s your turn, little girl!” the captain shouted as he dealt with the other monsters.
+
+I sighed. People really love to call me that, huh?
+
+Aeris grabbed the giant by its neck with her claw. It did everything it could to pull her away, but this only gave me an opening. I shot forward, leading with Giant Slayer.
+
+The giant had one of its eyes locked onto me, trying to block the attack with its hand.
+
+It didn’t work.
+
+My greatsword pierced through not only its palm but also its eyeball on the other side.
+
+It let out one final roar—one so loud that all of us were forced to cover our ears. All the nearby monsters collapsed from the sound, falling through the sky.
+
+The giant became motionless.
+
+It leaned too far forward and fell out of the dungeon gate, revealing the bottom half of its body. There was nothing there other than a section of its lower spine poking out where its hips should’ve been.
+
+As the giant fell through the sky, the chains holding it back broke free, and the dungeon gate closed behind it.
+
+[TROPE COMPLETED: DUNGEON OUTBREAK]
+
+[REWARD: +2 LEVELS]
+
+[LEVEL]
+
+[132 → 134]
+
+“We did it…” I began. “We closed the gate!”
+
+I flew to Aeris, giving her a gentle rub on her head. She snuggled into my hand. Then, I flew onto her back, raising a hand at Meriel.
+
+“What?” she asked.
+
+“High five,” I said.
+
+She rolled her eyes, but seeing how persistent I was, she eventually caved in, giving me what I wanted.
+
+“Satisfied?” she asked.
+
+I smiled. “Sure, but how did I do?”
+
+“Why are you asking me that?”
+
+“Because a mentor should praise their student once in a while. It keeps motivation high, you know?”
+
+She briefly looked away for a second.
+
+“...You did good.”
+
+“Heh. Thanks.”
+
+The remaining airships gathered around, and the captain flew next to us.
+
+“Good work, everyone,” he said before turning to Meriel and I. “You two are impressive. Are you adventurers?”
+
+“We are,” Meriel said. “And I’m currently training her to become competent enough to participate in my magic academy’s tournament.”
+
+“Oh? Which one?”
+
+“Arcstar Academy.”
+
+The captain’s eyes lit up. “What a coincidence. Kaelor’s family has connections to it.”
+
+“I know. That’s why I decided to stick with him. He promised he would be able to admit me as a professor.”
+
+That was, if we managed to take him to his brother in Glacinus. But with everything that was going on now, that seemed out of reach.
+
+I turned to Meriel. “Wait, that reminds me—then what’s the point of even training Reina and me anymore?”
+
+“Because I want my students to be strong enough to beat my friend’s students.”
+
+“You mean the mages that Reina and I saw back at Lyndale’s Adventurers Guild?”
+
+An image of the massive pink-robed elf came into my mind. It was too much of a memorable sight to forget.
+
+Meriel nodded. “I’m not typically a competitive person, but if it’s against them, I’d rather do everything I can to beat them.”
+
+“…Seriously? So you’re doing all of this just to one-up them?”
+
+Though I shouldn’t really be complaining. Having Meriel on my side was a quick way for me to learn all sorts of things about magic in this world.
+
+“And that’s not all,” she continued. “I also want you and Reina to be admitted into Arcstar Academy. The tournament you two will take part in isn't just to see which of us mages are worthy enough to become professors—it’s also for the academy to scout potential talents. In a way, it also acts as an entrance exam.”
+
+I raised my brows. “You want us to join the academy?”
+
+The captain tapped me on the shoulder.
+
+“You’d be stupid not to take it. In case you didn’t know, Arcstar Academy is one of the most famous magic academies in the entire world. All the folks who graduate from it are some of the most powerful people I’ve seen.”
+
+“Is that so…?”
+
+He nodded. “Anyway, let’s head back to the battle,” the captain said, looking behind us. The main battle waged on in the distance, but it was too hard to tell whether or not we were winning.
+
+We all nodded and started to move.
+
+“Say, I never did get your names, did I?” the captain asked.
+
+“Ah,” I said. “I’m Allene, and she’s Meriel. The dragon’s Aeris.”
+
+“Allene, Meriel, and Aeris,” he repeated, laughing. “My memory’s god awful, but I’ll do my best to remember them. My name is—”
+
+A roar came from below us.
+
+It was that same raspy, deep roar as the giant we had just killed.
+
+The moment we all looked down, it was already too late. A figure darted through, punching the captain. His helmet fell off his head. The force was too great, sending him hurling through one of the ships.
+
+The entire ship collapsed. Everyone on board screamed, preparing to take flight and save themselves.
+
+But then a second figure came, its massive arm crashing through the ship.
+
+Blood spilled through the air.
+
+More screams came before quickly dying down, revealing the devastation.
+
+Several people were killed from that attack alone.
+
+Even the captain.
+
+“That’s…” Meriel began.
+
+I gritted my teeth. “It’s not over…?”
+
+The Chainbound Giant from earlier was still alive. But not as one.
+
+It was as if it had split right down the middle into two separate bodies. Each had one eye, one arm, and one wing.
+
+We hadn’t killed it.
+
+We had only broken it free from its chains.

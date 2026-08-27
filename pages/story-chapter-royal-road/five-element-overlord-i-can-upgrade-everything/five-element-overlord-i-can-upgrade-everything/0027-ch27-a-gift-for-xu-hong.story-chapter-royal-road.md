@@ -1,0 +1,129 @@
+---
+id: ba188814-1d22-5622-a3d2-181c3951a621
+page-type-slug: story-chapter-royal-road
+title: "Ch27 A Gift For Xu Hong"
+slug: 0027-ch27-a-gift-for-xu-hong
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 27
+ownLength: 1374
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3245523/ch27-a-gift-for-xu-hong"
+royalRoadId: "3245523"
+---
+
+After walking into my cave abode, I find that a silky black curtain can be pulled over its entrance to create privacy from outside.
+
+It’s about three times as spacious as my old hut. The ambient qi in the air does not come from any specific direction. It floods in from the warm cave walls.
+
+There is a cultivation mat, a cushioned bed, two large wooden chests, a bronze mirror, and a large shelf. It is still a very simple living arrangement, but the warm qi in the air makes me feel extremely comfortable.
+
+Before even settling in, I pull the lottery die from my storage, and roll it on the black cave floor.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Spirit Eye Jade][2nd Tier Perception Item]
+
+While infusing the small green and white jade eye carving with my qi imprint, I drop the rest of my belongings into the closest chest to me.
+
+[Ding!][Spirit Eye Jade has bound to the Host!][Passive Ability: NONE.][Active Ability: 5 Uses, Non-Rechargeable. This artifact can be activated to grant the wielder 2 seconds of spiritual perception equal to the range of a mid-level foundation establishment cultivator.]
+
+The small jade eye in my palm feels cool to the touch, but with my mental imprint, I can feel the enormous amount of energy within.
+
+I let it fall into my storage, right beside the Azure Lightning Talisman I claimed last night.
+
+The long 8-kilometer walk through the forest while using my concealment art has tired me out quite a bit. Last night, I didn't get a wink of sleep either.
+
+I walk over to the small bed and collapse, releasing slightly more of my aura to alleviate the pressure building up.
+
+Every single steward in this living quarters is between the first and third level of qi refinement. Every cave is over 15 meters apart. I highly doubt any of them will be able to sense my presence, so I feel safe letting slightly more than usual out.
+
+While drifting off, a simple grin forms on my face.
+
+A sense of fulfillment grows inside me, as the first step of this Sect’s hierarchy has finally been climbed.
+
+Now, I must keep my head down even more, and study the power structures and general sentiments of the cultivators here. I cannot get overly excited before I even reap the rewards.
+
+–
+
+When the sun rises early the next morning, I feel fully restored.
+
+I collect my new upgrade cards, bringing my total to 11. However, in a matter of seconds it's brought back down to 8. I upgrade 2 more qi gathering pills, and use another on a brown and blackened pill from my storage to fulfill a promise I made two nights ago.
+
+Without hesitating, I pop one white and gold pill into my mouth and sit down to cultivate for an hour.
+
+Once the hot raw qi from one pill has fully settled in my dantian and spiritual roots, I get up and activate my concealment art, throw on my steward’s robe, and walk outside to start my day.
+
+The dining hall is crowded in the morning, so I stand in line and mind my own business.
+
+The majority of stewards are 8th and 9th grade root cultivators above 50 years old.
+
+A large amount are men too. I only spot 2 older women in total after managing to scan three dozen stewards.
+
+There aren't any interesting secrets I’ve uncovered. Most are petty crimes, like stealing pills, or killing fellow stewards. I quickly decide who to avoid, but still do not strike up any conversation on my first day here.
+
+I keep my head down, grab a tray of hot white rice, meat buns, and green tea, and sit alone contemplating what I’ve discovered while studying my route of servants to oversee today.
+
+There is a faint warm flow of qi within the tea I sip, giving me a pleasant surprise.
+
+It is at the same time that I realize this steward quarters does not only house stewards working on the western expansion project.
+
+About half of them come from a mountain over 100 kilometers away, called the Forging Peak.
+
+From overhearing a few conversations, it sounds like there is a mid grade 1st tier black iron mine nearby, about 20 kilometers away. That is where many stewards have been working long-term, and where many of the expansion stewards will work again once the roads and clearings have made their way up to the ravine.
+
+I finish my meal, and hand in the tray and tea cup with a smile, heading back to my cave with a slightly broader view of this servant quarters.
+
+For the next few hours, I cultivate in peace, eating another qi gathering pill, then slowly coming off it by absorbing the ambient qi in the air.
+
+It certainly isn’t as strong as pills, or even using spirit stones directly, but it is pleasant and feels natural.
+
+Eventually, I tie my new storage pouch to my waist and toss in a handful of spirit fragments for show, then head off down the dirt trail to start my new route.
+
+By the time the sun starts to get low in the sky, I arrive at the first hut on the list.
+
+One by one, I introduce myself with a firm first impression and take away all of the wood that servants have chopped.
+
+The majority are young boys while some are older middle aged men. Almost everyone has a full metal bin ready.
+
+There are a few with bruises and injuries that have them limping to greet me, yet I decide not to hit a single one of them today.
+
+In fact, if they have a full metal bin, I give them a spirit fragment. If they have extra, adding up to a full bin’s worth of logs, I even pay out two fragments.
+
+If their bin is not yet full, I do not collect it, and do not pay them any spirit fragments.
+
+Many bow with thankful eyes, and I know they will take advantage of my fairness and work harder.
+
+Others, especially those that did not hand in a bin, I can see only relief in their eyes.
+
+It will be a few days until I can see if they will become slackers, or recover their injuries and make use of my leniency to better themselves.
+
+I burn through the 30 fragments Gu Shan gifted me, and use 8 more of my own before making it to the final hut I’ve saved for last as the sun almost fully sets.
+
+Xu Hong leans up against her hut, twirling her axe around with her free hand as I approach.
+
+"Looks like it all worked out. Fancy new robe you’ve got there.”
+
+Her gaze looks complex, looking me up and down, trying to figure out if I just used her and will dispose of her now; or if I’ll truly fulfill my end of our deal.
+
+I collect the 4 piles of chopped wood beside her hut, then turn to her while reaching into my system storage, pretending to tap the storage bag at my side.
+
+A bright brown pill appears between my fingers, its golden vine patterns illuminating the forest.
+
+“If this doesn't kill you, it will certainly make your path of cultivation much easier.”
+
+It is the single remaining marrow cleansing pill that was left in Zhou Kang’s possession.
+
+I can smell its efficacy. Even with my meridians already cleared out, and my impurities cleansed, I can still feel the urge to consume this pill on the spot strongly.
+
+It is nowhere near as strong as Xu Hong’s urges.
+
+Her pupils dilate, and the axe swinging in her hand drops to the ground.
+
+I hear her swallow saliva as she tries to maintain composure and moves her hand forward to delicately take the pill from me.
+
+I drop 4 spirit fragments into her hand next to it. “And for your chopped wood, I can’t be exploiting my servants on my first day.”
+
+With a smirk, I turn around, but still watch the purple-haired woman bow in my spiritual vision.
+
+“Thank you. I promise you, I will survive.”
+
+“Good. You won’t be useful to me if you don’t.”

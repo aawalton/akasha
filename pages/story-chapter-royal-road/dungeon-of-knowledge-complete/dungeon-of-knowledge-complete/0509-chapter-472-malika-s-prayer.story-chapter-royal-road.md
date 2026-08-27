@@ -1,0 +1,297 @@
+---
+id: 207ed892-62aa-5d87-84dd-91d9e1720227
+page-type-slug: story-chapter-royal-road
+title: "Chapter 472: Malika’s Prayer"
+slug: 0509-chapter-472-malika-s-prayer
+partOf: dungeon-of-knowledge-complete
+position: 509
+ownLength: 4307
+unit: words
+ownProgress: 4307
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2838827/chapter-472-malikas-prayer"
+royalRoadId: "2838827"
+markedReadAt: "2026-06-29T20:29:30.988Z"
+---
+
+Calm welled up from deep within her, slowly radiating from the core of her body out through the energy pathways within her chest and abdomen, slowly circling, ever expanding. It flowed, building gently, but inexorably, down the length of her arms and out through her fingertips, spreading into the stillness of the Grove. The slow, soft pulsing of her energy matched the measured beat of her heart, and the steady rhythm of her inbreath followed by outbreath, drawing in air and the dense mana in her surroundings, allowing it to suffuse her body before returning it to the world she was in.
+
+She often meditated within the library, but lately she had come to find a deeper solace sitting here beside Ali’s shrine. While she could close her eyes, Soul Sight intensified when she did so, showing her the details of all the energy within the range of her growing perception skill, and the library was once again becoming, if not noisy, certainly more popular and busier. The cozy apartment Ali had made for her was a better choice, but out here, it was just her, Ali’s powerful domain, and the stupendous geyser of steadily flowing mana beside her that was the shrine, radiating forth like a beacon to the world.
+
+It reminded her of meditating on Rezan’s favorite rock, high enough in the mountains to have regular snow, beside the icy chill of the waterfall. The great formations of natural energy were a constant thrum, a steady flow, anchoring her more easily to the instant of now.
+
+Thoughts of Rezan flickered through her heart, leaving ripples of sadness in the stillness of her calm meditation. Time, she knew from hard-earned personal experience, would eventually temper her grief, but for now, she was content to simply remember the essence of who he had been to her, and allow the sadness to exist, offering it as a tribute to the mentor that had been taken from her far too soon.
+
+He chose.
+
+The thought flickered into her mind, and she found it strangely comforting. At first, she had despaired that he had given his life for so little – the death of the Blind Lich’s avatar – something he would simply respawn. But after talking with the others, and hearing their account of his story, she had finally realized that he had chosen to give his life to save them – a goal that had fit with the way he had lived his entire life. The true embodiment of the Nine Paths of Ahn Khen.
+
+Now, though, she found herself facing the prospect of a second Necromancer War as the armies of Death Knights spilled over the mountains to lay siege to Southport, leaving blighted destruction in their wake that spanned the entire Dol Kerriadh peninsula. All her life, she had yearned to be strong. Strong enough to right the injustices she saw around her, to help the people who could not help themselves. Yet, against the surging tides of undeath and necromancy, she found her spirit quailing, afraid, not strong enough. If Rezan had died facing him, who did she think she was to stand up to the Blind Lich?
+
+Ancestors. If you’re really there… I… I need to be stronger.
+
+Her mind stilled as something pulsed deep within her soul. The soft glow of blue-white appeared in her mind’s eye, devoid of the usual sound.
+
+You have offered a prayer to the Ancestors.
+
+The world held its breath.
+
+In the clarity and stillness of her Soul Sight, the world around her flickered, and Malika snapped her eyes open, suddenly finding herself shrouded in gray. The trees around her were gone. The cavern was gone, and she sat outside under the stars. The world flickered again, briefly flashing between Ali’s Forest Cavern and this strange starry night upon gently rolling hills.
+
+What the? This is… the Spirit Realm? She looked up at the stars for a moment, and then back to her surroundings. The only details that seemed consistent were the presence of the shrine at her back and the small circle of blue-glowing Ghost Mushrooms that circled it.
+
+A shimmer within her Soul Sight caught her, snagging her attention. Energy swirled, coalescing into a form. It grew denser, less indistinct in seconds, and suddenly Malika gasped in recognition.
+
+“Mom?”
+
+“Malika. Wow, you’re all grown up. Look at you,” her mother said, gazing at her with an unfathomable expression.
+
+Stunned into silence by the strange apparition, Malika could only stare. The form lacked substance, visible only to her Soul Sight as a dense swirling flow of mana and stamina, and yet, her mother’s face smiled at her. That face, so well-beloved, could not be mistaken.
+
+“You have nothing to say to your mother after so long?” The teasing grin upon her face sent an avalanche of memories cascading through Malika’s mind, her heart. “We waited for you.”
+
+Then another form began to take shape behind her, and she knew immediately who he was.
+
+“Dad…”
+
+“Daughter. Took you long enough,” he added gruffly, wearing a stern look upon his face. But, just like when she was younger, she could instantly see the joy and pride behind the mask.
+
+“Look how strong she is, Aza,” her mother said.
+
+“At least it seems that she has remembered her drills,” he said, but the stern mask cracked with the hint of a smile.
+
+“How….” Malika croaked, her mind struggling with the deluge of raw emotions and the impossibility of what she was seeing. Her mother and father, both taken from her on that fateful night so many years ago, stood right there smiling at her. She found herself running to embrace them, but her hands passed through the images of energy as insubstantial as ghosts.
+
+Malika swallowed, pushing down the lump that threatened to close her throat.
+
+“We are memories.” As the new voice spoke, her head whipped around to find Rezan regarding her, his wise eyes sparkling with rare amusement. “We are the echoes of our mana and energy, imprinted upon your soul by shared experience, made manifest by your prayer. Ghosts, if you will.”
+
+His words made no sense to her as she struggled to reconcile the grief of their deaths with the manifestations that sounded so much like them.
+
+“Remember that part of the Nine Paths that you always dismissed, claiming the Ancestors had forsaken you?” Rezan said. “This is that.”
+
+“I…don’t…” But she did. The entire chapter had been an obscure reference, instructions for praying to the Ancestors, and how the religion of the Ahn Khen worked. It had made no sense to her at the time, but now, sudden clarity burst within her, and she finally understood.
+
+These apparitions were not real. They were simply the impressions of Rezan, her mother, and her father, burned into her soul by their shared experiences, mana, and energy.
+
+Soul memories.
+
+The mechanism for how it all worked was far more technical than she could grasp, only that she understood it to work much the same way as a mana signature or a patron tithe. Perhaps Ali could explain it later.
+
+Yet, they were as real as anything she could imagine an Ancestor could be. The imprint of their very being, the echo and memories, anchored to reality, and written upon the canvas of her soul.
+
+“So, I keep you alive as long as I remember?”
+
+Rezan smiled. “It is the nature of everything to pass. In time, we too will disperse, making room for something new. But for a while, if you wish, we will walk with you, offering our help should you need it.”
+
+Malika had always rejected the Ancestors, convinced she had been abandoned the night her parents had died. And yet now, as she stared at the faces of her parents and her mentor, she felt her heart yearning for their love, steadfastness, advice, smiles – even if they were just memories. It’s not just the Ancestors. These are my family, my mentor, people who loved me.
+
+“I would like that,” she said, bowing her head. “Very… much.”
+
+Three memories have answered your prayer.Ancestral Memory Patronage – Ahn KhenSoul Memories: Aza Sho, Leila Yu, Rezan Jin.Experience gain is increased for actions aligned with your Soul Memories. Gain additional skill unlocks and advances aligned with your Soul Memories’ traits and experience.A portion of your increased experience is consumed to enhance the integrity and longevity of your Soul Memories. Enchantment – TitheAccept this patronage?
+
+Malika blinked to clear her vision, but her sight of the Spirit Realm blurred with the tears that spilled down her cheeks as she accepted the offer from the memories of her parents and mentor.
+
+“Don’t forget, you can come talk with us at any time,” Leila said. “Just visit us in your meditations.”
+
+“I think your friend wants to talk to you,” Rezan said, pointing at the small shape approaching with tiny wings that glowed with golden radiance even from her perspective in the spirit realm.
+
+“I will come visit every day,” Malika vowed, feeling a little wrench in her heart as the memories of her parents began to fade, the remnants of their mana and energy drifting toward her and quickly absorbed through her shirt, leaving a complex formation and a familiar warmth that settled in her heart.
+
+“Wait,” Malika said, as Rezan began to fade. His piercing blue eyes seemed to smile their curiosity as his form briefly stabilized. “Can I tell Sabri and the others about you?”
+
+“I would be honored to become their soul memories, too, should they wish. They have all reached the second tier, so their bloodlines are strong enough to support a soul memory,” Rezan said, bowing his head to her as his form faded out, and his energy also took up residence in her heart beside the memories of her parents.
+
+“Malika?” Ali called out. “Malika, are you alright?”
+
+The gray of the Spirit Realm faded from her eyes, and the trees regained their colors. The Ghost Mushrooms vanished, replaced with the golden glow of the arcane Glowcaps, and Malika found herself staring at Mato and Ali.
+
+“I’m… fine?” she whispered.
+
+“You’re leaking,” Mato said, pointing at her eyes.
+
+“I…” How do I even explain this? The experience had left her shaken and trembling, and, for a moment, she considered brushing it off, but it didn’t feel right. I will honor my Ancestors… and my friends. “I just met the memories of my parents,” she tried to explain. “And Rezan, he was there too.” And before they got the wrong impression, she shared her new patron enchantment.
+
+“Oh, Malika! That’s beautiful,” Ali gasped, and suddenly her friend was hugging her, while Mato plopped himself down beside her with a characteristic grunt. “How did it happen?”
+
+“I’ve always believed the ancestors our people revere had simply abandoned me,” she said. She recalled her loss of faith clearly – it had happened when she had watched her parents and her home burn. “I always thought they would be some ancient elders, or the heroes of legend. I never imagined I would meet the memories of my parents.”
+
+She wiped the tears from her face, not caring that she was probably smudging her cheeks with dust and mud, but Mato handed her a bottle of water and a cloth without a word.
+
+“I was worried about facing the Blind Lich’s undead army and finding myself not strong enough to help the victims of his evil. I haven’t prayed since I was a child, but I asked the ancestors to help me to be strong enough, and all three of them answered.”
+
+Ali squeezed her hand gently.
+
+“Ali, my mom said she had been waiting,” Malika said, fresh tears coming to her eyes. In her pride, harboring her anger toward those very ancestors, she had made her wait for over ten years.
+
+“You must have made them very happy today,” Ali said, sitting down beside her. “They must be so proud of how much you’ve grown.”
+
+“I don’t know…” Malika said, but her mother had sounded proud of her, and her father and Rezan both seemed to approve. “I don’t know how to live up to their memories. It’s complicated.”
+
+Ali simply nodded. Oh. She’d understand. This must be how she feels, in some ways, about her heritage. Malika shared a smile with the small Fae.
+
+“We can get stronger and defeat the Lich’s armies,” Mato said, meantime. “And then find all the mythical Wells and restore Lira from the acorn. There’s plenty to do.”
+
+“Oh, is that all?” Ali said, sarcasm dripping from her voice like syrup as she punched Mato on the shoulder. “Perhaps we should just do that, and then have a nice lunch after?”
+
+Suddenly, Malika found herself laughing as the emotional overload of talking to her parents and Rezan blended with the closeness of friends with whom she could share her worries and tears without shame or embarrassment. And for a moment, her fears vanished as her heart was filled with the warmth of happiness.
+
+***
+
+“I still need to get a lot stronger,” Malika said, as the three of them trooped into the library and she flopped onto a couch. “I’m not sure I know the best way to do that.”
+
+“You got some levels from those Sandwyrms, right?” Mato said.
+
+“I did,” she said. “I think I got three levels.” Malika pulled up the notifications and shared them with her friends.
+
+Eyes of the Soul has reached level 146 (+3).+30 attribute points.Martial Artist has reached level 77.Soul Strike has reached level 77 (+2).Healing Mantra has reached level 90 (+3).Perfect Body has reached level 52.Soul Armor has reached level 66 (+3).Enlightened Evasion has reached level 57 (+2).Divine Step has reached level 68.Second Wind has reached level 44.Clarity has reached level 52.Soul Sight has reached level 57 (+2).
+
+“That’s pretty good progress,” Ali said.
+
+“Yes,” Malika said, glancing over the details. Quickly, she worked through her priorities, spending eight points on dexterity, seven on wisdom, six on endurance, five on perception, and four on vitality. Yes, this is looking pretty decent.
+
+“Also, your gear is atrocious,” Mato said. “You haven’t upgraded most of your stuff since the Temple of Aman Rak. I know you like saving money, but seriously, Malika, don’t be afraid to spend a little. It will help.”
+
+Startled by his harsh words, Malika snapped her head around, but she only found a big grin on his face. “You’re one to talk.”
+
+“Here, Giddy said this is yours,” he said, tossing something small and shiny at her.
+
+A new guild ring? she thought, appraising it in the air, and then pausing to examine the small silvery band she caught. Quickly, she channeled her mana into the ring, binding it to herself, and then swapped her items and quests to the new ring before putting it on.
+
+Platinum Guild Ring – level 100A ring signifying platinum-level membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Malika YuIncreased Physical damage to Unarmed, Melee attacks. +35 to all attributes.+20% to block speed.Requirements: Wisdom 350.Quests[Deity Quest] Find the ancient wells and collect the essences for Azryet – 0/3[Platinum Quest] Eliminate undead attacking Southport – 0[Platinum Quest] Death Knight bounty – 0Mana: Store or retrieve an item. Capacity: 1341 / 5280 lbs.Created by Giddy Clicksprocket.Ring
+
+“Wow, this is nice,” Malika said. “Did you see this block speed enchantment?” She was already fast, but the faster she could block, the more monsters she could tank simultaneously without getting seriously hurt. And the additional damage to all her attacks sounded amazing.
+
+Perhaps there’s something to what he said.
+
+“So, how do I upgrade my other pieces?” she asked. Mato typically went to Thuli, and Ali liked Lydia’s work, but neither seemed to particularly call to her.
+
+“Zor’kan has returned to his favorite spot in the jungle level, and Calen just unloaded a whole pile of demonic hides and dragon scales with him before he left. Perhaps something he can make would suit you best?” Ali suggested.
+
+Demonic hide sounded a bit gross, but dragon-scale might be something she could see herself wearing.
+
+“Sounds good.”
+
+Mato clapped his hands together. “Girly shopping? Count me in!”
+
+Malika found herself competing with Ali to hit him fastest. “Mato!”
+
+***
+
+“Just one minute,” Zor’kan said, the troll leatherworker laboriously stirring a huge cauldron over a fire with what looked like a troll femur. Knowing him, it was probably grown from his own body. Toxic purple clouds billowed into the air and filled the clearing – and his hut – with an acrid chemical stench that burned at Malika’s nostrils.
+
+Malika couldn’t Identify him, but Ali had mentioned he had reached level one hundred and sixty-one. More than skilled enough to make gear she could use.
+
+“Aah, much better,” he said, putting his nose over the cauldron and breathing in a deep lungful of the toxic fumes, and then coughing violently for a few seconds before he left it and walked over to them. “How can I help?”
+
+Malika’s eyebrows raised even further at the sight.
+
+“We were wondering if you could take a look at Malika’s gear and see if there’s anything you can improve?” Ali asked.
+
+“Hmm, let me see,” Zor’kan said, the tall troll stooping down to peer at what Malika was wearing.
+
+“Rings are nice,” he said, nodding. “Tattoo is exceptional…”
+
+Malika grew a little embarrassed when he began prodding her other pieces, muttering under his breath. He scratched his left ear while frowning.
+
+“The rest is crap,” he finally declared.
+
+“Isn’t that a little harsh?” Malika asked. After all, her boots were a Swift Bone-Studded Jambeau that bore Zor’kan’s personal mana signature.
+
+“If you were sixty, they would be great,” he said. “You’re a hundred and forty-six; you might as well be wearing rags. We need to fix this emergency immediately. It’s a good thing you came to me.” Suddenly, the troll leatherworker was sitting down on the damp mossy ground, producing cured leather and hides from his pouch and spreading them around as he glanced back at her repeatedly as if assessing and sizing her up. “Can you imagine if someone saw you wearing all that? What would they think of me?”
+
+“Um, sorry,” Malika said, more than a little taken aback, but then the troll winked at her.
+
+“Soul mana. Monk,” he said, tugging on a tusk thoughtfully. “Fast?”
+
+“I can go at a decent speed,” she said.
+
+“She’s the fastest person I’ve ever seen,” Mato corrected, clicking his tongue in annoyance.
+
+“Show me,” Zor’kan said.
+
+Not knowing why he was being so pedantic, she nonetheless did what he asked, pushing her speed to the limits while running through several of the most basic forms she used for warmups.
+
+Zor’kan’s eyes widened as he watched.
+
+“She gets even faster the longer she fights,” Mato added.
+
+“See here, Ms. Malika,” Zor’kan said sagely. “I’ll give you a little free life advice. False modesty is dangerous when talking to your healer.” He paused, clearly amused by his joke. “Same goes for your armorer. Could get you killed.” He tutted a bit, sorting his materials, and then he picked two different hides. “Scales of a void dragon? Or Pit Lord hide?”
+
+“I think I like the dragon scale better,” Malika said.
+
+“Very good, now let’s see,” he said. “Proc enchantment for this, I think. Goes well with super-fast.” And his thick-fingered troll hands danced with uncanny dexterity as he began cutting, stitching, and weaving his craft.
+
+Even though it took nearly fifteen minutes, Malika found herself mesmerized by his incredible skills.
+
+“Here, try this,” he said, holding out a pair of black, gleaming dragon scale boots. “Similar structure to your jambeau, but a little better. Also, in the boot design you humans prefer.”
+
+Malika carefully took the offered pair of boots. “Thank you,” she said, bowing as she had seen the trolls do, and then, after he grinned, she examined them.
+
+Dragon Striders of Speed – level 140Comfortable boots, masterfully crafted from gleaming black dragon scale, inlaid and reinforced with bone to produce a rugged, but elegant pair of footwear. +80 Dexterity+64 Endurance+32 Wisdom4% of your damage is returned as Health over 30 seconds.+35% to Movement speed.Stamina: +150% to Movement speed for 3 seconds. Recharge: 45 seconds. Requirements: Dexterity 490Quality: Rare.Value: 284 gold.Created by Zor’kan.Feet – Dragonscale / Bone
+
+She gasped as soon as she saw what he had crafted. “A little better?” she exclaimed. “This is what you call a ‘little’ upgrade?” The basic attributes were more than double what had been crafted onto her Jambeau, and the movement speed enhancement was unreal. Even the health leech enchantment was doubled. “Zor’kan, seriously, this is incredible!”
+
+The troll eyed her quizzically, tipping his hand side-to-side. “Average,” he said. “It’s always easy to please people who don’t upgrade fast enough.” But the troll was grinning widely between his two prominent tusks, and she could tell he enjoyed her compliment.
+
+She quickly put the boots on, reveling in the sudden increase in speed as she sprinted around the little camp. And the burst of speed when she used the speed boost, well, it was something else.
+
+“Mind you don’t run into a tree!” Mato called over.
+
+“Here, calm down for a moment,” Zor’kan said. “Try these.”
+
+Malika glanced at him in surprise, only realizing then that she had been playing with her newfound speed for long enough that he had already finished a second piece.
+
+Dragonscale Bracers of Soul Mastery – level 144+82 Dexterity.+66 Wisdom.+33 Endurance.23% chance to apply Soul Mark curse on hit.+4 to skill level of Mastery skills.Requirements: Unarmed, Wisdom 504.Quality: Rare.Value: 322 gold.Created by Zor’kan.Hands – Dragonscale / Spirit Beast / Bone
+
+For the second time in half an hour, Malika’s jaw dropped. In amazement, she compared Zor’kan’s incredible creation with the Ancestral Spirit Beads she was currently wearing.
+
+Ancestral Spirit Beads – level 64+57% to mana regeneration.+11 Vitality+29 Dexterity+42 WisdomRequirements: Wisdom 224Quality: UncommonValue: 12 gold, 87 silverHands – Charm
+
+There’s simply no comparison, she thought. The attributes were far higher, and she would get an enormous plus four to her combat mastery, Martial Artist. Perhaps there’s something to Mato’s opinion. She glanced over at him to find him nodding knowingly at her.
+
+“What is Soul Mark?” she asked, ignoring what promised to be an insufferable comment from the Bear.
+
+“Try and see,” Zor’kan said, already busy with something else.
+
+Without a word, Mato shifted into his Bear Form. So, she punched him. Several times.
+
+On the third punch, something reacted with soul magic, settling on Mato’s frame, soaking in as the curse landed. And then Mato shared the curse.
+
+Soul Mark+5% Soul damage taken.+7% to the accuracy of all attacks targeting you.Curse – Duration: 30 seconds. Count: 1
+
+She unleashed a quick flurry of blows into him, triggering the curse twice more.
+
+“It stacks,” Mato sent directly into her mind. “Calen is going to love you for that accuracy.”
+
+“Triggered abilities work very well with speed builds,” Zor’kan said, inclining his head. “I think you’ll get a lot of use out of that. The faster you are, the higher it will stack.”
+
+“Well, that’s impressive,” Ali said, clearly calculating something in her head. Probably the exact damage tradeoffs for how many archers she should bring to the next fight to take advantage of the curse.
+
+“Here,” Zor’kan said. “One last thing. I hope you don’t mind the Pit Lord leather, but I needed materials with an affinity for blood.” In his hand, he held up what looked like several simple strands of tooled leather, almost like strings or ribbons, but of two different colors. There were several bone beads threaded into the strange item.
+
+“What is it?” Malika asked.
+
+“Tusk braid,” Zor’kan said, cackling with delight. “Don’t worry, I have made many items for your kind. I happened to notice you do not have good tusks, so I changed the design. You can either braid it into your hair or wear it as a choker around your neck. It will also work braided around your forearms or fists, but you already have the bracers.”
+
+He held the item out, touching her with it and pulsing a little mana.
+
+Soul Braid of Aman Rak – level 146Originally designed as a troll tusk-braid, this item has instead been redesigned to fit as a hair braid, choker, or bracer, simply by weaving or braiding it appropriately. This item can only be bound to an owner by a troll of Aman Rak.Owner: Malika Yu.+83 Wisdom+67 Perception+33 Vitality+42% Evasion +25% to all Soul damage, applied as Soul Burn over 30 seconds. +3 skill level to Bloodline skills. Requirements: Bloodline, Endurance 481, Wisdom 511Quality: Rare.Value: Soulbound.Head / Hands – Leather Braid Jewelry.
+
+Malika glanced up from the braid and met the eyes of the troll, crinkled at the corners with amusement.
+
+“Honorary troll,” Zor’kan said, grinning.
+
+“This… are you sure?” Malika said, stunned.
+
+For a moment, Zor’kan’s eyes firmed with a serious cast. “You are a Savior of Aman Rak. I will fight anyone who says you are not part of our tribe,” he vowed. And then he grinned wickedly, “Even if your tusks are puny.”
+
+“Thank you,” Malika said, bowing deeply, and then in trollish, she added. “It is an honor to wear your work. I will use it to bring down the vengeance of Aman Rak upon the Death Knights of the Blind Lich.”
+
+“You make a good troll,” Zor’kan said, bowing his head.
+
+“Ali, can you help me?” she asked, still in awe of the piece Zor’kan had made for her. Between the two of them, it didn’t take long to figure out the best way to weave it through her hair in place of her mundane hair ties.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

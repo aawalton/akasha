@@ -1,0 +1,129 @@
+---
+id: 59ba1bc5-168a-5d3d-80c8-46b5868ac701
+page-type-slug: story-chapter-royal-road
+title: "Chapter 347: Twins (Part 1)"
+slug: 0384-chapter-347-twins-part-1
+partOf: dungeon-of-knowledge-complete
+position: 384
+ownLength: 2015
+unit: words
+ownProgress: 2015
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2520227/chapter-347-twins-part-1"
+royalRoadId: "2520227"
+markedReadAt: "2026-06-29T20:24:57.985Z"
+---
+
+Ali paused outside the huge white marble building at the epicenter of the Infinite Maze, just long enough to summon a Berserker and two Abyssal Stalkers. Cael and Gage had not once demonstrated the capacity to summon combat minions, but she was taking no chances.
+
+A flight of Glitter Dragonets swooped in through the enormous arched entrance, followed by dozens of Ghostly Spiders. Then Ali sent in her stalkers. Only once she had eyes on the inside did she step forward, flanked by her berserker and staring around through the golden wall she had summoned to protect her. She held Minion Teleport ready in her mind. To her rear, her Ice Mage kept up a continuous barrage at the shades while simultaneously serving as her escape route.
+
+Ali halted, her breath catching in her throat at the sight of the silent chamber.
+
+The core chamber of the dungeon also served as the central key rune in the enormous work of rune magic. The sinuously curving walls were carved from the ubiquitous white marble, outlining the power rune, but they still left a wide-open space in the center. Tilted panels of barrier magic lined the walls near the roof, casting the whole space in a soft golden light.
+
+Lining every surface of polished white stone were thousands upon thousands of runes in a formation that sent chills running down Ali’s back. Without even examining them more closely, she could instantly tell who had inscribed them. If the necromantic formations she had destroyed in Aman Rak had been the culmination of the Lich’s project, this had to be the prototype.
+
+But not even that could hold her attention for long. Ali stared, speechless and scarcely breathing at the sight of the suspended magical construct in the center. A magic she knew had slumbered here for over three thousand years. After all, only one person in history could have made that glowing pillar of golden arcane light – and her mother had been dead for that long.
+
+Ropy tendrils of space and arcane mana flowed out of the golden cylinder, branching rapidly and folding themselves into the fabric of the dungeon’s domain. Soul runes shone in densely scribed formations she recognized from the Temple of Aman Rak, drawing energy from the formation.
+
+But Ali’s eyes remained glued in horror to the small Fae body suspended within the cylinder of her mother’s magic. All that remained of the body was a torso and a head, but even with just that much, it was clear he was Fae. From where his waist and shoulders should have been, ropy tendrils of mana sprouted, pouring out energy into the formation of soul runes that surrounded the glittering prison. His eyes were open, but all she could see was the golden light of magic within.
+
+Sorcerer [Rift Warden] – Fae / Mana Construct – level 125 (Arcane / Space)
+
+A great glittering golden barrier snapped into place between her and the broken Fae hanging suspended within the arcane construct, domain mana twisting and flowing through it, reinforcing it to an enormous degree.
+
+The moment the barrier appeared, a sharp crack echoed within the chamber. A faint spiderweb of cracks shot through the arcane cylinder, expanding to cover nearly two-thirds of its surface.
+
+Gage screamed.
+
+The thrumming barrier wavered for a moment. A second sharp report rang out, and tiny fragments of arcane dust and shards began to fall from the spreading cracks. The dungeon’s hastily summoned golden barrier collapsed, leaving the path to the glowing cylinder unobstructed, its occupant vulnerable.
+
+“She’s going to kill us,” Cael wailed, his voice panicked, and for the first time, Ali had a spatial direction to associate with the voice. The twitching of his mouth within the cylinder of arcane magic told her it was him.
+
+“I’m sorry, Cael. I… I couldn’t protect us when it counted,” the Fae Mana Construct said, this time speaking with Gage’s voice. “It’s too far gone now.”
+
+“You… you’re the same person?” Ali gasped, taking two steps further into the chamber, eyes fixed on the creature within. She had no idea what a mana construct was, but it was clear that whatever this person was, they were much modified by the powerful magic that hummed and glowed within the chamber. Perhaps even kept alive by it, but as Ali studied the ancient formations more closely, she found them to be frail and fragile, on the verge of catastrophic collapse. It was a mystery how her mother’s arcane construct had managed to last so long and how it inexplicably synergized with the vast formations of supporting soul magic runes etched across all the walls.
+
+“We are brothers. I’m the strong one,” Gage declared, a small measure of his antagonistic, sullen nature returning to his voice, but there was still a strong undercurrent of raw fear behind it.
+
+“And I’m the smart one,” Cael replied, his pride and arrogance held forth like a shield to protect him.
+
+“But you’re speaking from the same mouth,” Ali said, all thoughts of fighting fading away at the sight of this broken creature imprisoned in magic.
+
+“Well, we share a body, but that’s hardly relevant,” Gage answered. “If you’re going to kill us, can you get it over with quickly? I’d rather have it done here than wait for the shades.”
+
+“Can we talk first?” Ali asked.
+
+“What’s to talk about? You have captured our Emperor again, so we must die. I resign,” Cael answered with a note of finality, but Ali couldn’t help but hear the quaver in his voice.
+
+“Well, for one thing, how are you hanging there suspended in my mother’s magic?” Ali said, voicing the most pressing question on her mind.
+
+The Fae Mana Construct’s mouth moved, but no words came forth. The silence drew out for long moments while the brothers digested her question, mana pulsing and swirling through the formations with anxious energy.
+
+“Your mother?” Cael finally asked, incredulity in his voice.
+
+“Yes. Elowynn Amariel. My mother – this is her magic, is it not?” Ali said, spelling it out, reaching out to touch the cracked arcane surface before her, but at the last moment, she stayed her hand. It was so fragile, riddled with hairline cracks that leaked mana into the surrounding air. With all the information Sage of Learning was feeding into her mind, every detail she apprehended, there could be no shadow of a doubt. Ali had witnessed her mother create this very spell around her, and it had protected her for thousands of years. How it came to be here, too, defied explanation.
+
+“Nonsense,” Gage exclaimed. And then he added something entirely unexpected. “Elowynn Amariel is our mother. She cannot be yours.”
+
+About to rebut his comment, Ali paused. The golden mana Gage wielded was almost identical to hers. The memory of her long conversation with Lira flickered in from the back of her mind like a spirit realm echo.
+
+Could he be one of them?
+
+Ryn had inherited the same golden arcane mana, presumably as a descendent of Nevyn Eld’s meddling and his awful experiments. Ali no longer doubted the brothers’ claim that they had been close to Nevyn Eld before he became a Lich. The soul magic runes sustaining them – or feeding on them – were a dead giveaway.
+
+What story do they have? And how did they get so broken? Are they survivors of Nevyn Eld’s experiments? Ali took Clarence in hand and slowly turned to face the cylinder of arcane magic. Cael and Gage whimpered softly, obviously expecting violence, but she stopped right in front of the body, suspended by the magic that sustained them.
+
+“Clarence, would you mind showing them my mother’s mana?” she asked softly. She knew it was asking a lot of the poor book, but if she was right, then this was important.
+
+The book shuddered and curled his pages inward, but then he sprang open, flipping pages until she saw the incredible heart of the book, glowing with intricate arcane magic. She looked up from the book and caught the equally glowing golden eyes of Cael and Gage, knowing somehow that they were staring in awe at what Clarence had revealed.
+
+“Mother…” The voice was filled with awe and reverence, a subtle blend of both Cael and Gage, and for a moment, Ali wondered if this was what he had sounded like before the trauma of his illness, imprisonment and the thousands of years of loneliness that must have fractured his mind into two.
+
+“Do you know where she is?” Cael asked, as the briefly singular personality decohered, reverting to the two brothers. The hope and expectation in his voice tore at Ali’s heart.
+
+“She died,” Ali answered, swallowing against the lump in her throat. “You must have seen the fall of Dal’mohra from here. She died protecting me with this same spell.” Ali reached out and gently rested her fingertips on the golden cylinder of glittering arcane magic, surprised to notice just how deep the cracks ran, how old the magic really felt.
+
+“So… that was all true? And that Lich was really Nevyn Eld?”
+
+“Yes, he killed my father and forced my… our mother to sacrifice herself to save my life,” Ali said, clamping down on the anger and rage that crept unbidden into her voice.
+
+They stood there together in silence for a while before Cael finally spoke once more. “He helped save us before he… became a Lich. Before mother found us.”
+
+“But why?” Ali asked.
+
+“Nevyn Eld was one of the Guardians of the Realm,” Cael explained, his childlike admiration barely shaken by the revelation that his idol had become a Lich. “His research into soul magic and dungeons was unparalleled. We were weak, but he cared for us, protected us, and built this soul magic array to purify our bloodline – to make us strong. He said we could become guardians; that like him, we would be able to do great good. The Shadow Rift is a great danger to the realm, and he placed us here and charged us with protecting everyone against the shades.”
+
+Used you, more like. Whatever this is, it’s not a ‘bloodline purification’ array, Ali thought, eyeing the ominous soul magic formation pulsing around the brothers’ golden, glittering encasement. If that’s even a thing. But she kept her thoughts to herself. Curiously, several sizeable clusters of runes remained dark, seemingly disabled. Several collection arrays were still glowing, but whatever they were supposed to be drawing from the twins was blocked by the cylindrical barrier that encased them. Only about half the array still seemed to be operating correctly, as if someone had performed a makeshift patch job on the entire array, subverting its purpose. Whatever had happened, it demanded more study. Sometime, when I’m not about to be eaten piecemeal by shades.
+
+“But he was upset we couldn’t learn to make them,” Gage said, bitterness making his words harsh. “One day… one day…”
+
+“One day, he stopped coming,” Cael said, finishing the words his brother could not. “He abandoned us here.”
+
+“We held back the shades,” Gage said. “Even though we couldn’t kill them. We… we are still guardians, aren’t we?”
+
+So, that explains why they’re here, Ali thought. But their explanation opened almost as many questions as it answered. What had he been trying to achieve here? Was this an early attempt at harvesting a rift to make undead? To increase his power? And why…
+
+“What about Mother?” Ali asked.
+
+“She came not long after Nevyn Eld left,” Cael said. “We were dying when she found us.”
+
+“Dying?” Ali asked.
+
+“Our Fae bloodline is unstable,” Gage said. “Without the intervention of the purification array, it nearly consumed us.”
+
+“When Mother found us, she made the cylinder and restored the soul array to keep us alive,” Cael said.
+
+“She cried,” Gage said. “I remember that.”
+
+“She did,” Cael agreed. “She promised to come visit us regularly. But when the mountain exploded, she stopped coming. It’s been so long…” His voice trailed off sadly.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

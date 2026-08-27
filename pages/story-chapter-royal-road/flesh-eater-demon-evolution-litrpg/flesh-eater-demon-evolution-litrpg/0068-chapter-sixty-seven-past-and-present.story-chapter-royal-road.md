@@ -1,0 +1,193 @@
+---
+id: 0e2e14cc-d2a7-54a2-bc19-f3766b043213
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Seven: Past and Present"
+slug: 0068-chapter-sixty-seven-past-and-present
+partOf: flesh-eater-demon-evolution-litrpg
+position: 68
+ownLength: 3101
+unit: words
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3077034/chapter-sixty-seven-past-and-present"
+royalRoadId: "3077034"
+---
+
+Daphne paced back and forth, eyeing the crude crossroads Pyre was currently sketching with a critical eye. “You’ve summoned a crossroads demon before?” She sounded skeptical.
+
+“Yep,” Pyre said casually, popping the ‘p’ for emphasis. She didn’t even look up from where she was finishing off her drawing. A part of her suspected that Pax didn’t even need the symbol to appear—she certainly hadn’t when she’d shown up after they defeated Tivona. But she figured they might as well draw it just in case Pax wasn’t actively listening to the “crossroads demon line” right now, as Pyre liked to call it.
+
+“Why though? I mean, you’re a demon too!”
+
+“Yeah, but not a crossroads demon.” Pyre paused, scrutinizing a particularly crooked line before deciding it was fine. “We had to get some talismans. Still paying off that deal, actually, but it was probably worth it.” The magic sphere Edna had handed her during the garrison entry exam, at least, had proven that Pax hadn’t skimped on getting them the best anti-monster-detection-spell talismans available.
+
+Daphne frowned, finally stopping and turning to face the center of the clearing where Pyre was. She looked up, the moonlight beaming brightly down on her. “And you’re sure this’ll work? I mean, I’ve tried summoning one so many times.”
+
+“Oh, it’ll work.” Pyre finally finished drawing the crossroads and straightened, absently flicking the dirt off her finger. “This demon’s nosey as hell.”
+
+With that said, she took a step back, giving the etching ample space. Callan was hovering right at the edge of the clearing, clearly not keen on seeing Pax again, and Daphne stood between him and Pyre. She didn’t look too happy about enlisting the help of yet another demon either, but she seemed willing to accept it if it meant stopping the Empire.
+
+For a few moments, nothing happened. A cold wind gusted past, rustling the neighboring leaves. It was getting late—they’d need to make sure they returned to the manor before the sun rose, or the cover-up at the sanctum would’ve been for nothing.
+
+Daphne shifted her weight. “Are you sure—”
+
+Before she could finish her sentence, a familiar figure suddenly blinked into existence in the center of the clearing.
+
+As always, Pax’s appearance came with little fanfare. The crossroads demon made no sound, left no scent, and there were no accompanying flashes of light or magic signaling her arrival. She was simply there one moment where there was nothing before.
+
+Pyre studied the other demon. Pax looked mostly the same as she remembered—the same plain clothes, choppy white hair, uncanny pale eyes, and grey gloves. Compared to their last meeting in the Gravestone Mountains, however, one notable feature was missing.
+
+“No more bandages?” Pyre nodded at the demon in question. The flashes of pale skin below her sleeves were completely bare. Pax casually adjusted her gloves.
+
+“I found a temporary solution for the rotting,” she said simply. “It looks like I’ll be able to keep this ‘meat suit,’ as you called it, a little longer.” Exactly what that solution entailed, the demon didn’t share, and Pyre wasn’t especially interested in hearing it anyway. Not when there were more pressing things to worry about.
+
+Pax turned to face the rest of the clearing, a monochrome splotch against the darkened woods. Translucent eyes briefly scanned the area. Callan tensed, and Daphne looked a mixture of wary, curious, and somewhat surprised. Maybe she hadn’t expected a crossroads demon to actually show up. Or maybe she hadn’t expected one to look like Pax. She was fairly unassuming in appearance, even compared to Pyre’s human disguise. There was nothing obviously demonic about her at a glance.
+
+“I see you took my advice to heart and added a new mage to your little entourage,” Pax drawled. “Not a bad choice. Certainly more offensive potential than the ghost, but with a different set of… issues.”
+
+Daphne narrowed her eyes at that. “I’m not part of her entourage or whatever,” she said lowly. “This is just a temporary truce.” She took a step closer. “You’re a crossroads demon, right? We want to make a deal.”
+
+Pax gave the human a long look, pale eyes seeming to peer straight through her. “Cutting right to the chase, I see,” she finally said. “I can respect that.”
+
+“The ritual in the sanctum,” Callan piped up. He was still hovering by the trees, but he, like Daphne, seemed eager to get this over with as quickly as possible. His eyes briefly darted over to Pyre, then back to the crossroads demon. “There’s a barrier protecting the glyph circle. We need a way to break through it.”
+
+“Ah, that.” Pax casually glanced in the sanctum’s direction. “I was wondering when you’d find it.”
+
+“Answer the question,” Daphne cut in, voice low and firm. Slowly, the crossroads demon turned back.
+
+“It’s an extremely powerful spell,” she said simply. “I could break it, but you have nothing of equal value to offer me.”
+
+“So we can’t pay the price. Of course,” Callan muttered under his breath. He looked annoyed, but also not surprised. “Can you at least tell us where the other power sources are?”
+
+“I already did you a favor when I told you the horn’s location,” Pax said breezily. “Another one so soon wouldn’t be very fair, would it?” The demon’s eyes glinted, amused at Callan and Daphne’s growing frustration.
+
+Daphne huffed. “Okay, so you can’t help us. Great. We’ll figure it out ourselves.” She began to turn away, but paused and glanced back at Pax with a frown when the crossroads demon didn’t move. “You can leave now, you know.”
+
+“I could.” Pax cocked her head, pale eyes practically glowing in the moonlight. “But destroying the ritual wasn’t the only wish I heard in the stream. I believe you have another question for me.”
+
+Pyre glanced at Daphne at the same time as Callan’s eyes widened with realization. She’d thought this might happen, based on what she’d heard from Callan about crossroads demons. The sloth fiend didn’t know how it would go from here, though. She stepped a little closer.
+
+Daphne frowned. She still regarded the crossroads demon with clear wariness and suspicion, but Pyre could practically see the question in her eyes fighting to reach the surface.
+
+In the end, curiosity won.
+
+“Why didn’t anyone ever show up?” she blurted out. She swallowed. “I mean, I’ve—”
+
+“Tried to summon a crossroads demon before, yes, I know.” Pax chuckled. “I think every crossroads demon alive knows your name, Daphne Bellhein. You’re very loud. Drowned out the rest of the stream every time you called.”
+
+Daphne looked taken aback by that. Her gaze shifted over to Callan and Pyre, then back. “So… there wasn’t anything wrong with the summoning? You heard me?” Her frown deepened, a fresh wave of frustration entering her voice. “Why didn’t anyone answer, then?”
+
+Pyre listened silently. Admittedly she was somewhat curious about the answer herself. Callan was very much so, based on the way he leaned a little closer.
+
+Instead of answering directly, Pax turned, casually stepping over the drawn crossroads and peering up at the sky. “Crossroads demons have a lot of rules, you know,” she began, the words as easy as if she were commenting on the weather. She raised a gloved hand, counting with her fingers as she spoke. “Deals can’t be broken. Only one crossroads demon may handle a single request at a time. If a soul’s already been claimed, another crossroads demon can’t make a deal with them. And”—her eyes gleamed—“the result of a past deal can’t be fixed by making a new one.”
+
+Silence fell over the clearing. Callan sucked in a breath, and Daphne shook her head in disbelief as the implications of the words hit.
+
+“What’re you—I’ve never made a deal with a crossroads demon before!” She sounded adamant, and at a glance, Pyre thought she was telling the truth.
+
+In response, Pax simply chuckled. “Not you. Your parents.”
+
+The noble stilled. Brown eyes widened, nearly golden in the moonlight. Pax cocked her head, a bit of thinly masked glee entering her voice as she continued.
+
+“You didn’t think you just happened to be born without a soul barrier, did you? That doesn’t happen. The cycle would never allow it.” The demon smiled. “Your parents wanted a strong heir, one with great magic potential. They were mages themselves, but I’m sure you already knew that.”
+
+Pax hummed, taking a step closer to the stunned human. “Before you were born, your parents made a request to the stream. A crossroads demon answered.” She nodded at Daphne. “Congratulations. You have the highest spell potential of any living human.”
+
+“But—I—” Daphne stumbled, at a loss for words. One of her hands moved to her chest, clenching the cloth of her dress there. “But I’m like this!”
+
+“I didn’t say it was a good deal.” Pax chuckled, stepping over to the edge of the clearing and leaning casually against a tree trunk. “The crossroads demon who answered them was young and prideful. The rest of us knew the request, exactly as they wanted, couldn’t be granted. Your current illness is simply the result of that demon biting off more than they could chew.”
+
+Daphne’s mind seemed to be moving a mile a minute. Pyre could see her knuckles turning white from how hard her fingers were clenched. “Then that means—that hellhound—”
+
+Pax smiled. “After you were born and your parents learned the side effects of the deal, they were so furious that they refused to uphold their end of the bargain.” She clicked her tongue. “Foolish, really. No one can back out of a deal with a crossroads demon, not even the demon themself. Their fate was deserved.”
+
+Fresh anger cut through the turmoil in Daphne’s eyes. She took a step closer to the demon, red hair blazing behind her. “Deserved? How could you say that?”
+
+Pax shrugged, completely unperturbed by the human approaching. “They were foolish to think they could get out of a crossroads demon deal.” She chuckled to herself. “Even more foolish to think up such a silly request to begin with. ‘Unlimited spell potential,’” she mocked. “That crossroads demon was inexperienced, but they were equally stupid for ever thinking the deal would work out in the first place.”
+
+It happened in a flash. One moment Daphne had stilled, every muscle in her body drawn in a tense line. The next, red light beamed, and she was raising a hand before either Callan or Pyre could process what was happening.
+
+A streak of condensed, scorching flames shot straight towards the crossroads demon.
+
+Lightning quick, Pax slipped one grey glove off in a single smooth motion. She raised her bare hand seconds before the attack hit.
+
+The crackling fire vanished the moment it touched her palm.
+
+There were no burns, no sparks, no explosions. The flames were simply absorbed straight into her hand as if there were a hole or a vacuum there. Only a thin wisp of smoke rising from the impact point gave any indication that the flames had existed at all.
+
+Pax blew the lingering smoke away and stretched her fingers. Her hand look exactly the same as before—completely uninjured. She slipped her glove back on, expression pleased.
+
+“Not bad,” she said. “Decently strong spell. I’m sure it’ll be useful one day.”
+
+For a second, no one moved or spoke. Daphne’s finger was still pointed at the crossroads demon, and the realization of what she’d done seemed to hit her all at once. Her eyes widened, and the glow immediately faded. Her gaze remained fixed on Pax’s hand, where no sign of the absorbed spell remained. Pyre remembered that same attack almost burning through her bone shield.
+
+“I do recommend working on your temper,” Pax added lightly. “Another demon might not react the same. And you should know very well from your parents that it’s important to think things through before acting.”
+
+A fresh wave of fury flashed in Daphne’s eyes. She swallowed, clenching her fist and forcing herself to take a deep breath.
+
+In one quick motion, she spun around, red hair flaring behind her, and stormed off into the forest. Within seconds, she had completely vanished into the darkness.
+
+Callan shifted, eyeing the forest nervously, then Pax. Pyre could tell he wanted to go after her, but he was clearly still wary of the crossroads demon’s presence. Pyre waved dismissively at the ghost.
+
+“Go,” she said. “We’re done here anyway.”
+
+Callan glanced at her, brows furrowed. “Are you sure?”
+
+Pyre snorted. “Don’t worry, we’re just gonna have a nice demon chat. Nothing to worry about. Now shoo.”
+
+The ghost nodded slowly. He still looked a bit hesitant, but also relieved to get away from the crossroads demon. He floated forward, silvery form quickly disappearing into the trees behind Daphne. Soon, the only ones left in the clearing were the two demons.
+
+Now alone, Pyre turned to face Pax. The crossroads demon looked the same as before, a mildly amused expression on her face. Whatever magic or skill she’d used to absorb Daphne’s spell, it clearly hadn’t taken much—if any—effort from her at all.
+
+“You keep interesting company,” Pax said. She seemed pleased with the reaction she’d managed to get. It wasn’t all that different from the way she’d mocked Callan during their first meeting.
+
+Pyre gave her a long look. “You know, you could’ve gone about that different,” she drawled. “Maybe work on your word choice.”
+
+“I could’ve,” Pax agreed. “But I didn’t want to.” She chuckled to herself. “I already told you, when you reach my age, you have to make your own fun. Those two are too easy to rile up.”
+
+Pyre grunted in acknowledgement, but she didn’t move her eyes away from the other demon. She cocked her head.
+
+“That why you don’t try that with me?” A sharp grin stretched across her face. “Or do you have an age limit before someone’s too old to goad?”
+
+All at once, the smile dropped from Pax’s face. Pale eyes met flat grey, and the temperature in the clearing seemed to chill. Slowly, Pax pushed herself away from the tree trunk and strode forward.
+
+“I could try, if you’d like,” she began. She cocked her head. “I could mention that emptiness you feel, the hollowness that’s been following you since you first woke up. You’ve felt it. You know it’s there. And yet you can’t even begin to appreciate what you’re missing, because even that feeling is beyond you.”
+
+She took another step closer, only stopping when she was standing directly in front of the sloth fiend. This close, Pyre could see the sallow skin of the corpse Pax was wearing, the way those translucent eyes almost looked like glass in the moonlight. She was more acutely aware than ever that this wasn’t Pax’s true form.
+
+“You think it’s because of your soul,” the crossroads demon continued, still staring at Pyre with pale, unblinking eyes, “but I think you’re wrong. I think it’s innate, and no number of soul pieces you find will fix it.” Her voice lowered until it was barely above a whisper. “And I think part of you, deep down, knows it too.”
+
+For a moment, it was silent. Pyre didn’t say anything at first. Without the crossroads demon’s voice filling the space, the quiet of the clearing was suddenly all too apparent.
+
+The sloth fiend met Pax’s gaze steadily, neither one moving or looking away. Both scrutinizing the other. Finally, Pyre opened her mouth. The words that left were blunt and flat in their certainty.
+
+“You knew me, didn’t you.”
+
+The air thickened. Pax didn’t move or react, but Pyre could see a flash of something in those uncanny pale eyes. It was an old, deep-seated anger simmering just below the surface that seemed utterly uncharacteristic of the crossroads demon.
+
+Then, Pax took a step back. Just as quickly as the emotion had appeared, it was gone. Her eyes were once again unreadable, and a relaxed smile replaced any expression she might’ve had.
+
+“I should be going now,” she said, her voice once again light and casual. She nodded in the direction Daphne and Callan had gone. “Since you did give me a new spell to add to my collection, I’ll tell you this. There are three external glyph circles amplifying the main one in the sanctum. All of them are close by.”
+
+It felt like a concession, but for what, Pyre couldn’t say for sure. She hummed, absorbing the information for later.
+
+“Before you go, I’ve got one more question.” She cocked her head, dark hair billowing slightly in the wind. “You were the one who told us the horn’s in Magrath. Did you know a piece of my soul was here?”
+
+Before Pyre had even finished the question, Pax was already gone. There one moment, then vanished the next without a single trace. It was as if the demon had never been there at all.
+
+Shaking her head, Pyre strode forward, absently smoothing the crossroad etching away with her guard boots.
+
+She hadn’t planned on telling Pax that, but the longer the other demon had spoken, the more true the statement had seemed. The surety in her voice, the subtle, simmering anger, the familiarity—none of it made sense unless Pax had known who she was before her reincarnation. Before her memories were scattered.
+
+She’d had a theory for a while now, one silently growing in the background ever since coming across some of her more unusual past skillsets. She hadn’t taken it too seriously then, when her main evidence was an unusual proficiency with axe-fighting and the lore Callan knew about reincarnators. Now, though, she was certain.
+
+Pyre stepped down onto the etching one last time to make sure it was smoothed out, then turned towards the forest where the human and ghost had gone.
+
+According to Callan, all known reincarnators had lived their previous lives on this world. They simply retained their memories after rebirth while the vast majority of souls didn’t. The idea of a soul being reborn from a completely different “world” didn’t even seem to exist as a concept. It made her own status especially odd.
+
+Now, with Pax’s unspoken confirmation, there was a new possibility that could allow some of these inconsistencies to make sense. And the longer she thought about it, the more true it felt.
+
+Pyre strode into the forest, two thoughts ringing in her head.
+
+This wasn’t the first time she’d been reincarnated.
+
+And this wasn’t the first life she’d lived in this world.

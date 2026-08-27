@@ -1,0 +1,159 @@
+---
+id: 37d5b76a-3e66-5100-8b3f-60389a45cbde
+page-type-slug: story-chapter-royal-road
+title: "Ch68 10th Level Blood Demon"
+slug: 0068-ch68-10th-level-blood-demon
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 68
+ownLength: 1868
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3489814/ch68-10th-level-blood-demon"
+royalRoadId: "3489814"
+---
+
+“Weaklings! They could have sent me in here alone!” Jiang Ran’s voice yells out from inside the wide open cavern in the center of the mountain.
+
+The sounds of rocks breaking, and waves of heat ripple through the air too.
+
+“Good kill, Mantou.” Wang Ming calls in a serious tone from another direction, followed by the loud roar of a bear.
+
+Despite my spiritual senses being extremely clouded, I feel the presence of an extremely hot and strong acquired physique hit my psyche.
+
+I carefully walk forward, holding two talismans and examining the state of the battle behind what this 9th level blood demon was guarding me from.
+
+A thick Black Iron aura fills the air, as the inferior tier 2 vein’s core is in its center.
+
+There are extremely potent blood red energy symbols carved into the ground surrounding it. My spiritual senses may not be fully accurate, but my eyesight is good enough to see roughly 100 meters away on the opposite side of this enormous open cave.
+
+Dead blood demons litter the floor, and a tall ginger haired man holds up a thick flaming longsword. His body glows with the same aura, but it looks like molten rock.
+
+This is the same exact man I saw in the Red Pine Market one time, but he looks almost half a meter taller in his current state, activating an acquired physique I recall vividly.
+
+[Acquired Flaming Mountain Physique][Late Stage - Mortal Grade]
+
+He lets out a yell of victory, but quickly turns his heavy long sword to the far side of the room.
+
+“Fatty Wang, you actually made it here? I only came here to kill Bao Zhan, but now it looks like I get to clean up another problem too!”
+
+My gaze follows where he’s pointing, and the fat man that sold me Spiritual Apples and Flame Toad Eggs walks closer to him from the opposite side of this wide open cave.
+
+There are subtle fluctuations of hundreds of illusory demons and weaker blood demons that fight all throughout this mountain, but my focus rests solely on what’s in front of me.
+
+Wang Ming doesn’t look any different than I remember, there is only a shift in his stance and the resolve in his eyes. The fact that he made it through this deathtrap means something must have changed… a level 6 qi refiner without any special physique or ability could not defeat late stage blood demons.
+
+He must have taken the healing elixir I gifted him and somehow made use of the information about the gluttonous intent my system’s secret window found.
+
+“Jiang Ran! This is no place to settle our differences. We must work together for the sake of those who have fallen in our sect during this mission already!”
+
+The fiery man laughs to himself and slowly walks toward the beast and cultivator duo.
+
+However, my attention quickly shifts to the fluctuating blood energy on the floor of this cave. There are thin lines of crimson that flow out from every small cave opening in this circular room.
+
+They pulse faster and shine brighter every passing second, until I watch a dense ball of blood energy growing in the center of the ground. It looks like it's boiling and moving on its own like it's alive.
+
+A red hand bursts out of the side of this orb, and soon after feet, a torso, and a bright red face with long demonic horns.
+
+It looks like a monstrous creature, and my physique instantly feels an aura pulsing off of it, suppressing all my movements and instincts a large amount.
+
+Jiang Ran and Wang Ming both turn away from each other and toward the threat in the center of the room.
+
+A massive blood sword forms in the demon’s hands, and its eyes shift to the strongest resonating aura. It jumps away from the center of this blood energy array and right toward Jiang Ran.
+
+An explosion of fire, earth, blood, and qi erupts into the air.
+
+A wide open crater in the floor forms as the Flaming Mountain Physique’s sword clashes with the blood demon.
+
+My eyes widen in disbelief.
+
+Jiang Ran blocks the strike for a moment, but it is quickly overpowered.
+
+The proud cultivator is covered in a flash of white light, as a unique protective talisman around his neck shatters to save his life. Even still, he’s thrust flying backward, hitting the wall of the cave over 15 meters away.
+
+This blood demon’s head turns to Wang Ming, and a streak of red energy moves his way next.
+
+Another collision makes the ground shake, even on the opposite side of the room. An almost imperceptible aura fluctuates around Wang Ming as a heavy silver hammer is pulled from his storage ring.
+
+The aura surrounds him and his weapon, stopping the blood energy blade mid swing.
+
+The two are locked in a standstill for a moment, sending cracks through the cave floor, before the blood demon swallows a handful of pills, making the crimson light around him surge with ferocity.
+
+Wang Ming is sent flying backward, but the blood energy sword slashes that hit him disperse, covered with the invisible waves of intent they’re caught in.
+
+The Blood Demon turns its head to me next, even though I’m concealing my qi presence. It can still sense the Martial Elite physique resonating with it. In just a few steps, the distance between us is cleared. I get ready to activate my incineration talismans, but another streak of blood energy comes flying in from behind the demon.
+
+“You think you can defeat me just like that? You’re not the only one that can use these pills!” an angered yell is paired with the Flaming Mountain Physique erupting in fury.
+
+A crimson glow that smells of burning blood fills the atmosphere, and Jiang Ran’s muscles bulge. The sound of him crunching down on more blood qi pills coincides with the tearing of his skin as he swings his blade across his body again.
+
+The clash sends shockwaves through the room, stopping this blood demon from attacking me less than 20 meters away.
+
+It is just close enough for a system scan to appear.
+
+The demon’s age of 98 and cultivation level at the 10th level of qi refining are the first things I see. The second is its physique and valuable secret.
+
+[Acquired Blood Demon’s Physique][Initial Stage - Spirit Grade]
+
+[Has siphoned the qi infused blood energy of every Blood Sword Sect and Azure Cloud Sect cultivator that has died in Black Iron Mountain to elevate his acquired physique to the spirit grade.]
+
+Multiple shockwaves follow afterward, as red blurs zig zag all over the room.
+
+Craters form on the walls, floor, and missed sword slashes even hit the ceiling causing black iron soaked rocks to fall to the ground.
+
+A chaotic wave of slaughter comes out from the blood demon as Jiang Ran is outmaneuvered and sent flying to a back wall with a deep red gash in his chest.
+
+The demonic aura flickers in this Azure Cloud Sect cultivator, and he coughs up blood.
+
+“Fools! Use as many blood qi pills as you’d like, without elevating your physiques to the spirit grade, you’ll never be able to land a scratch on me!”
+
+The pure crimson blood demon turns his gaze away from the bleeding out Jiang Ran, toward Wang Ming still recovering from the last blow he took, then back to me.
+
+A blur of red fills my vision. My defensive talisman breaks while another use of my cloak’s defenses is activated. I shatter both incineration talismans in the direction I was hit and watch as two balls of fire and a reflected blood sword slash hit this demon.
+
+Only a small top layer of his thick flesh is burned away, and the energy slash that collides with him seems to do almost no real damage at all… There is a gruesome wound that opens up in his chest, but potent blood energy flows back in to heal it within seconds.
+
+“Not bad! You have a few tricks. I’ll have to kill you first…”
+
+Another blur of red comes my way, triggering my cloak’s reflective defenses again.
+
+This is the second to last activation left on this tier 2 defensive artifact… so, I don’t bother using any more perfect grade tier 1 talismans that won’t even injure this demon.
+
+A single Azure Lightning Attack Talisman activates in my grasp, and a bolt of foundation establishment lightning collides with the demon alongside his reflected sword slash.
+
+The explosion thrusts me backward, and the Azure outline of an electrocuted blood demon fills my vision through the chaos.
+
+His screams echo through the cave while he’s torn apart.
+
+Yet… when I hit the ground and start catching my breath, his loud cries do not stop.
+
+The crackling lightning fades, and a murderous laugh echoes out from the crater that was formed.
+
+“Is that all you’ve got? Come on, show me more!” he yells while walking through the ground that still crackles with static.
+
+His arms start growing back, and even half of his face fills with blood energy, regenerating on the spot.
+
+All of the array markings carved into the ground pulse and connect to his feet wherever he walks, siphoning more blood energy into his body and rejuvenating this demon until he stands up at the edge of the crater.
+
+My trump card failed… It has never failed…
+
+With my heart beating loud in my ears, I activate a defensive talisman in one hand and pull out a small 20 sided die in the other.
+
+There is only one more use left in this cloak, and nothing I have on me will kill this demon.
+
+A shiver ripples through my spine as he takes a step toward me and moves faster than my eyes can see, turning to a red blur.
+
+I grit my teeth and prepare for impact, but the room fills with a yellow and orange light before I can react.
+
+“Looks like you boys couldn’t handle the mastermind on your own. I guess I’ll have to save your lives…” an arrogant and condescending woman’s voice echoes through the air.
+
+However, when she comes flying out from one of the cave’s side walls, I can’t help but open my eyes in awe.
+
+Her entire body is covered in a radiant yellow and orange fire. Her hair, eyes, and smooth white jade skin are captivating. The matching flaming serpent that wraps around her neck and torso gives off an equally sharp and violent pressure stronger than anything I’ve ever felt.
+
+A single foot kick lands square on the Blood Demon’s sword. Deep orange and yellow cracks form all over it until it gives way and explodes in a ball of fire.
+
+This woman’s momentum does not slow, and she spins around in mid air to kick the Blood Demon’s unguarded chest.
+
+A wave of fire breaks a hole through his body and sends him flying backward, impacting the cave wall over 50 meters away.
+
+All I see next is another streak of yellow and orange fire following after her prey to finish the job.

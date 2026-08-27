@@ -1,0 +1,145 @@
+---
+id: a7b3aa2a-503e-5b39-adee-dd82f6dc2932
+page-type-slug: story-chapter-royal-road
+title: "Chapter 418: Rift Chamber"
+slug: 0455-chapter-418-rift-chamber
+partOf: dungeon-of-knowledge-complete
+position: 455
+ownLength: 2879
+unit: words
+ownProgress: 2879
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2698775/chapter-418-rift-chamber"
+royalRoadId: "2698775"
+markedReadAt: "2026-06-29T20:27:34.432Z"
+---
+
+Sabri slashed downward with her sword, but it glanced off the thick, resilient hide of the Fungaloth Ravager, barely doing any damage at all. She frowned in frustration. They were deep underground now, more than halfway through the mines, but it looked nothing like it used to. Instead of arid hot air with the Landing being a home to the nastiest of Hellfire Imp bosses that most of the guild gold-ranks had cut their teeth on, it was now humid and damp, overgrown with fungus. The walls and the ceiling glowed with faint bioluminescence, and Sabri was certain her nose would require several days to recover from the stench. If she were to go back and tell her previous self that there would be something worse in here than the Hellfire Imp, she would never have believed it – but the Fungaloth Ravager was beating two full raid groups by itself.
+
+It didn’t help that she felt like a third wheel. No, I am the third wheel. She was the only person in this double-raid of twenty-odd people with no useful role.
+
+“Incoming stun,” Calen called.
+
+A tremendous surge of stamina arose within the powerful Fungaloth Ravager as it hammered its powerful paws down, stunning Mato and knocking him senseless to the ground beside her. A bright flash of holy magic wreathed Havok’s sword as he lashed out, taunting the giant monster to attack him instead, and then took the retaliatory strike on his glowing holy shield.
+
+“Tank switch successful,” Calen announced. “Heals on Havok.”
+
+Sabri frowned again, irrationally jealous of the earnest and kind little Goblin. She was a tank, so why was she standing to the side just watching? But she understood the rationale that drove their strategy, and she even agreed with it. Still, watching Mato and Havok trade tanking between the two of them made her feel left out. She slapped the monster with a Shield Slam, but whether it did any good was debatable.
+
+The reasoning was simple – she had reached level ninety-nine on the way down here, and Havok had already reached one hundred. This was a two-tank trade; she was the third tank, and Havok would be slightly stronger with his higher level. Also, if she took the lesser role, she might take longer to hit the threshold, delaying her class evolution – something the entire raid was acutely aware of at the moment. It all made sense, but still… I want to do more!
+
+She watched Mato recover and take the boss back as soon as Havok was stunned, the switch smooth and masterful. She just stood there and unleashed her pitifully small damage, unable to even use her Soul Shout because she couldn’t turn off the taunt effect, and that would disrupt the healers and the tank rotation.
+
+Fighting their way down here had been awesome, though. At least she had that. Mato had set up a three-way trade between the tanks, with each of them taking turns on whatever the archers pulled next, and so she got to observe him in action. He was vastly more experienced than she was, and even just studying the way he controlled his monsters, how he placed them, and how efficiently he was at anticipating problems and intercepting loose monsters, had been educational. She had learned so much. Then, every third pull, she was able to try it out, putting her observations into action. Now, all she could do was observe.
+
+At least that’s something. Take the progress, Sabri. There’s more to growth than pure strength. Far more.
+
+“We’re not making progress,” Teagan said. “The boss is healing too fast for us.”
+
+“Most of us can’t do even a fraction of our normal damage,” Aiden said.
+
+At least that part isn’t just me. The hide of this monster was enhanced by some ridiculous damage reduction ability, she was certain. Nothing had felt so tough in her experience – and it felt far more than just mere armor.
+
+“We have to,” Calen said. “We cannot get to the rift chamber unless we can bypass this monster. Two raid groups must be enough.”
+
+He sounded frustrated, and there was even a little desperation in his voice. Sabri understood; she could tell he was pushing himself hard, wanting to get down to the rift chamber and rescue Aliandra. After all, that’s what this entire delve was about. But Teagan was right, they weren’t making headway, and without anything important to do, her mind kept wondering if it would have been better to include another damage-dealing class instead of her.
+
+“It’s not working,” Aiden said. “We’ll hold this monster while you three go and rescue Aliandra.”
+
+“Three of us to kill the Mana Eater?” Calen asked dubiously. “And will you guys be safe for that long? If you can’t hold this boss, we won’t be able to return.”
+
+“There’s no other way. We’ll hold it,” Aiden said. “Take Mato and Malika. We’ve been fighting for hours, and you said Malika grows stronger with time. She’s just about the only person who can do damage to anything – she should be enough to kill the Mana Eater. I’d give you Gara too, because she doesn’t have mana, but we need the healer here.”
+
+“How are you going to manage without Mato?”
+
+“You forgot we have Sabri,” Aiden said. “She’s easily able to tank this huge chunk of fungus.”
+
+“Oh, yes,” Calen said. “She’s perfect.”
+
+Sabri’s heart jumped at Calen and Aiden’s unhesitating vote of confidence in her abilities.
+
+“Ok, tank switch. Sabri, take over Mato’s next rotation. Healers, watch for the transition to Sabri,” Aiden shouted.
+
+Sabri confirmed she heard the swap and stepped up, suddenly feeling a hint of her old nervousness. On the ground beside her, Mato stirred, slowly rising to his paws, and she knew she had thirty seconds. The time ticked away slowly.
+
+“Fifteen seconds. Have fun!”
+
+It took Sabri a moment to realize the disembodied voice in her mind had come from Mato, and she turned to see him watching her with those deep, dark bear-eyes. Despite the nervous flutter in her heart, she found herself grinning at him.
+
+Her attention was yanked back to the boss before her as it reared up and smashed down on the tiny Goblin, crushing him into a stunned heap on the ground. She raised her shield and shouted.
+
+The air rippled with power as her soul-mana-enhanced voice rang through the Landing, ripping chunks out of the Fungaloth Ravager – small chunks, for sure – but more damage than she had been able to do with her sword. The massive maw whipped around and lunged at her, and she reflexively activated Critical Block. There was a second pulse that blasted the area momentarily clear of smoke, water vapor, and the ever-present haze of rotting spores as the monster’s damage was returned to it via her potent shield retaliation, and she knew she had the monster’s undivided attention until Havok would take it back.
+
+“Got it,” she yelled, grinning with a rush of fierce joy that filled her heart as the monster’s shattering roar crashed into her, and it began its furious assault. Her body began to buzz with the combined power of the raid’s healers and defensive buff spells.
+
+Now, all she had to do was tank it.
+
+Calen soared down through the open archway and into the tunnels that had once been the demon wing of the Emberforge Mines, his thoughts with the adventurers in the Landing, holding the monsters off so they might have a way back. He had briefly discussed disengaging the Ravager, but Aiden had been rightly worried that the Mana Eater might have a way to call for help when they engaged it, and so the guild group would be actively holding the boss till they got back. Or something unexpected happened. Calen kept three Scrolls of Sending in his ring for emergencies, and while he’d not needed them yet, he had left one with Aiden just in case.
+
+Below him, Mato’s huge dire Bear Form lumbered along with surprising speed as he roared, attracting creep spores and strange plant aberrations to him, while Malika darted back and forth glowing like a miniature sun, making monsters explode with her punches and kicks as she unleashed her magic, supercharged by several hours of continuous fighting.
+
+She’s going to be the key, he thought as they tore through the tunnels, emerging into the wider chambers and passageways. Without Malika’s ridiculous ability, he was certain the three of them would have no chance of taking out a raid boss of this power. But it all hinged on them being quick enough to ensure she didn’t lose the buff between engagements. He grimaced. This kind of time pressure was not his favorite circumstance.
+
+The vast chamber lay sprawled out ahead of him, still containing the black, bubbling tarpits belching acrid smoke that filled the air with an eye-watering haze, but the former demon wing of the Emberforge Mines was otherwise unrecognizable. Dark green fungal creep grew on every surface, pulsing slowly as it spawned creep spores, dripping sludge and ichor into the now-unbearably humid air, creating the disturbing feeling that he was flying inside some disgusting giant organism. The air stank of rot and putrescence.
+
+He drew his bow, conjuring seven glowing arrows, and releasing them in a smooth, well-practiced motion. His arrows shot out like the spokes of a glowing fan, creating strange, rapidly shifting shadows in the gloom as they sought out aberrant plants and creeping fungus, and before the arrows had even reached their targets, he was firing another volley.
+
+“Let’s go. Keep the pace,” he said, not that Malika or Mato needed him to say it.
+
+“What’s our strategy for the boss?” Mato’s thoughts appeared in his mind like a soft echo of his friend’s voice. The strange telepathic spell Ali had crafted always made him sound oddly distant.
+
+“Don’t drop combat, and we’ll rely on Malika’s Abiding Perseverance and my arrows to kill the boss,” he answered, speaking aloud for Malika’s benefit. It all hinged on them reaching the Rift chamber without Malika losing her combat powerup. And it was not just them, all the adventurers who had volunteered for this crazy attempt would be stuck fighting the denizens of Lira’s Blooming Rot dungeon until they succeeded. “You and Malika will need to trade off tanking the boss to let that Mutagenic Corruption drop.”
+
+“Right,” Malika said drily. “That’ll be fun.”
+
+“Of course we’re having fun,” Mato responded with a mental chuckle.
+
+Calen pushed his wings, flying in formation with his Motes of Light while Malika darted here and there, moving so fast she was leaving intense glowing afterimages in his vision and a trail of soft chimes in the back of his mind. He dodged a falling Creep Spore and dumped a full volley of arrows into the pack of Braconids scrambling down the wall, but Mato was already charging them, locking them down with his roar and Swipe.
+
+They paused here while Mato shredded bark and wood with his void claws and Malika tore into the monsters with unreal speed and power. He continued ahead, flying a little past the encounter to scout, but he kept up a steady barrage of arrows until the tough plant aberrations all died.
+
+“Fungaloth up ahead, and some archer Sylvans,” he said, giving Mato and Malika a little warning for what to expect as the giant fungal monster came charging into view. With its enormous health, it would take several minutes for them to kill, and he felt every second ticking away – every moment another moment their friends had to hold against the Landing boss. Everything urged him to hurry, to get to the Rift, but his rational mind knew that rushing would be a sure-fire way to get him and his friends killed.
+
+Patience. Even grabbing these bits of experience is good.
+
+***
+
+Calen’s arrows slammed into the Dark Treant guarding the entrance to the rift chamber, and a soft chime sounded in his mind as the enormous monster of wood and branches toppled to the ground to the sound of crashing, splintering wood.
+
+“Go!” he urged. His best estimate told him they had no more than twenty seconds to re-engage before Malika’s buff expired. As much as he despised diving into a raid encounter without pause to recover, they didn’t have a choice. He flew straight through the doorway as Mato charged in and launched himself off the ledge. The huge bear hung suspended for a moment before his massive weight found gravity, and he fell toward the giant, malevolent plant sprouting from the center of the rocky chamber. There was a blur and a flash of light, and Malika appeared next to the Mana Eater, dropping a punch that sent sap and jagged fragments of bark flying, and the fight was on.
+
+The giant bud heads on their thick, flexible stalks lunged at once, yawning wide to snap their thick, ichor-drenched, wooden teeth closed on Mato’s body, making blood and fur fly, but he simply roared and retaliated with his void claws and fangs. Each massive swipe landed with a loud, dull thud, a monstrous drumbeat of what he fervently hoped would be the plant’s doom. Malika’s body blurred as she dodged the thick, thorny whip vines, unleashing a constant stream of soul magic that strobed through the chamber.
+
+Calen placed his Motes of Light and then unleashed a continuous stream of glowing enchanted arrows at the monster while he observed, trying to catch the moment the Mana Eater revealed its domain magic skills. Ali does this so well, we could really do with her being here…
+
+The monster did not keep him waiting long; a powerful burst of mana surged from its core, and all the blue flowers shivered as if an unnatural breeze had caressed a field, and suddenly the entire room erupted with an explosion of blue spores. In less than a second, his entire mana pool vanished, leaving him reeling in disorientation. His Blessing of the Dawn failed entirely as he lost the mana needed for its reservation, dropping his attributes dramatically, and worse, losing his bonus cost reduction to stamina. His Motes of Light winked out of existence, dropping the chamber into a sudden gloomy darkness, lit only by the intense glow of Malika’s magic and the blue glowing flowers on the giant plant monster.
+
+“Fuck. Amplified spores!” he yelled, scrambling as he tried to recover his balance; at least his basic flight was a stamina ability. But without mana, he was suddenly reduced to mundane arrows, single shots, and his only stamina enchantment would be Armor Piercing. He fired, using a regular arrow, and his mana ticked up as his gear leeched some mana proportional to the damage, but the roomful of blue spores sucked greedily at the new mana he had gained and so he quickly spent it to switch his bow to the Howling Hellfire bow – he would need his stamina regeneration.
+
+“Switch out, Mato,” Malika said. “You have three stacks.”
+
+Mato growled angrily.
+
+A sudden double surge rippled through the domain, and the Mana Eater swelled up to enormous proportions, its bark darkening and beginning to give off a malevolent reddish glow. The whip vines lashed out toward Calen with terrible power and speed, and he was forced to dodge both the thorns and the explosion of stone splinters from the impact against the wall behind him. But it was the second ability that sent dread and despair coursing through him, an ability he recognized all too well. Magic flickered throughout the chamber, and suddenly, two dozen Braconids appeared, hanging from the creep on the walls. They scrambled down toward Mato and Malika, eager to rip them apart with their powerful branch-spider legs and mandibles.
+
+Fuck. It was the worst combination for them. With sufficient mana – any mana at all – he would be easily able to destroy the summoned monsters using his area damage, but he was being constantly drained by the mana spores, unfairly enhanced by domain magic. If they didn’t kill the spawns, Mato was going to be overrun and die.
+
+“Malika, we need to kill the spawns,” he said.
+
+“I know,” she answered, frustration creeping into her normally calm voice as her fists began lashing out at the swarming monsters.
+
+The domain surged again, and this time, a dozen humanoid forms rose from the creep along the floor; sylvan warriors with their resilient plant bodies covered with thorns and wielding strangely curved swords of dense, mana-enhanced ironwood.
+
+In an instant, the Mana Eater had changed the fight. Malika was incredibly powerful right now – their ace-in-the-hole, but she had no area damage. Her efforts were entirely consumed by healing Mato and punching summoned plants, while they were reduced to his and Mato’s efforts to damage the boss itself. And he might as well not have been there for all the damage he could do without his mana.
+
+This is the worst luck, he thought, his eyes drifting to the barely visible cracks hanging in space where the rift had once glittered. What can we do? Need a plan!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,143 @@
+---
+id: c0d59bcf-ba2a-5a43-ac73-8fc779378ac8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 396: A Holy Conservatory"
+slug: 0433-chapter-396-a-holy-conservatory
+partOf: dungeon-of-knowledge-complete
+position: 433
+ownLength: 2761
+unit: words
+ownProgress: 2761
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2643202/chapter-396-a-holy-conservatory"
+royalRoadId: "2643202"
+markedReadAt: "2026-06-29T20:26:42.739Z"
+---
+
+Where is everyone and everything? Ali was honestly stumped. She had been wandering around in this godforsaken dungeon for hours, following its endless maze of perfectly straight corridors and spotless chambers, and yet nothing had jumped out to attack her. Her nerves were beginning to fray from mounting anxiety without any outlet. It was as if everyone had simply checked out and forgotten to turn off the lights.
+
+She continued to make her painstakingly slow trek through the dungeon, occasionally deconstructing voidstone artifacts and trying to read the ripples in the domain, like a dowser searching for obscure signs of water, but even her systematic vandalism seemed to garner no attention. Instead of making her bolder, it tightened her tension like the coiling of a spring. But the destruction of the voidstone did not unravel any of the dungeon, and she had yet to find a single source of the holy-affinity mana flowing through the domain that was dense enough to sustain itself without the dozens of hovering voidstone pyramids, cubes, and other simple geometric shapes she had destroyed.
+
+What is this place? Ali gazed up at one of the endless murals wrapping up and across the ceiling, this one depicting a clutch of large eggs and what looked like it was intended to represent void-affinity lightning in the background. The dungeon was like nothing she had ever experienced or even read about in the accounts of Lyeneru’s exploits.
+
+She pressed on down the hallway, her elegant slippers making soft padding noises that echoed back from the starkly perfect walls, a tiny descant that pattered above the heavy footfalls of her berserker. Moss and small mushrooms sprouted, growing rapidly from every footstep, an effect that had become so natural now that she scarcely had to think of it.
+
+But then, she heard something different. Something sharp dragged across stone echoing down the hallway from somewhere up ahead – and it wasn’t coming from any of her minions.
+
+“Shh…” The instant her intent was expressed, all her minions froze, many of them even halting their breathing so that she could hear. A soft scraping sound, like that skeleton dragging a rusty longsword across the library floor that horrible day. It was followed by several clicks, noises that she both heard and felt via the vibrations through the stone. Then, it stopped.
+
+She waited for a few moments, and then the noises resumed.
+
+With a thought and a desire for silence, she sent her scouts up ahead. The far too long corridor came to an end at a perfectly hewn archway etched with geometric designs that appeared to be just as crisp and sharp as if they had been cut yesterday. Her senses reached through the Abyssal Stalkers as they crawled along the roof in perfect silence and stealth, finding a familiar scent of blood.
+
+Kobolds?
+
+“Astral Projection,” she said in her mind, turning to look at her Baelok Descrier. “Show me what’s in that chamber.”
+
+“Yes, Master.”
+
+With a brief, disorienting twist, her awareness separated from the body of the Descrier, flowing down the corridor as an entirely disembodied point of view. The chamber up ahead was not any different in construction from any of the intersection chambers she had encountered so far – a perfect cube hewn out of white stone, with several archways and passages leading elsewhere.
+
+But where the voidstone usually hovered, in the center of the room, she instead found a circle of floating flame. It was a flame of pure white holy mana, much like Mato or Havok’s consecration, and it burned steadily without any obvious fuel. Beside the fire stood a small golden-scaled figure, head bowed, taloned hands clasped in Prayer. A figure she recognized instantly.
+
+Acolyte – Kobold – level 96 (Holy)
+
+How did you get here? And, oh boy, you’re a high-level kobold! Every compendium she’d ever read listed kobolds as pests, not even typically a bronze-ranked threat. If only those authors could see this sight. These acolytes had been a feature of the Ruins of Dal’mohra when they had finally breached the library, but to find one here on the other end of a planar rift, bowed in the use of its recognizable Prayer skill set her mind to churning. Even at level ninety-six, there was no way such a small creature could have made its way past all those demons, to somehow breach this dungeon.
+
+Wait… She studied the mana carefully through the unfamiliar mana sight of the Descrier’s astral projection, and to her amazement, she saw the holy-affinity mana generated by its Prayer skill softly emanating from the kobold and spilling out into the surroundings. Some of it fed the consecration dancing silently before it, but the rest was hungrily absorbed into the domain itself.
+
+It’s feeding the domain. That much was suddenly obvious; it looked surprisingly similar to Naia’s slimes, but because the domain was fixed in place, she hadn’t even noticed the similarities at first. Which meant this kobold acolyte could not be an interloper like herself – likely it was a dungeon spawn – and it was attached to the domain, sustaining it with its magic. Indeed, when she looked closer, she could see the pulsing connection of mana within its chest.
+
+Her astral eyes shifted to take in the rest of the chamber, discovering, to her surprise, that this was not the only kobold within its walls. Several golden-scaled kobolds walked about the perimeter, their tails scraping along the ground and their claws clacking against the stone. That explains the noises. A number of them seemed to be tending strange golden-yellow flowers that grew from the many alcoves cut into the walls at regular intervals. More mana emanated from the flowers, adding to the aura of holy power that flowed from the room.
+
+Herbalist – Kobold – level 57-78 (Holy) x5.Sacred Lily – Wildflower – level 62-70 (Holy) x36.
+
+More clicking and the soft scraping of scales on stone, and two much larger kobolds entered the chamber from one of the other tunnels, patrolling over to the brazier and standing beside the acolyte bowed in prayer.
+
+Warrior – Kobold – level 89-91 x4.
+
+Again, she recognized the green-scaled kobolds as identical to her kobold warriors, only at a substantially higher level, and wearing much higher quality armor.
+
+She considered the room carefully.
+
+So, it’s a… kobold dungeon, then?
+
+It didn’t seem particularly dangerous given the power of her trolls, but she was still a little cautious, considering all the surprises she had been subjected to when fighting the demons. Still, she couldn’t imagine any way an acolyte or a bunch of warriors could summon a horde of monsters to fight her.
+
+Do I need to fight them? She could turn around and find another way, but that strategy had failed spectacularly against the demon dungeon. Likely, she would just wander aimlessly through the tunnels, making no progress, until she finally encountered something too powerful for her to handle and she either died or managed to flee in panic. She had never expected to be able to waltz through a dungeon and out the other side without encountering anything, and this room seemed manageable. Honestly, she was also tired of panic – this fight was one she could easily win, and she had the opportunity to learn something about this dungeon from the consecrated holy room. Even if it was just a way to improve the strength of her kobold imprint, it would be worth a little risk.
+
+Committed to action, Ali sent her rogues and stalkers swarming into the room under the cover of their stealth skills, skirting the edges to place themselves strategically, blocking the exits. She wasn’t taking any chances of having a kobold flee and alert the rest of the dungeon somehow. She crept closer with her trolls, trying to gauge how far her incredibly un-stealthy berserker could get before they were noticed. Tol’brekk’s idea of stealth was to yell battle poetry while leaping on the heads of his foes.
+
+A sudden raucous alarm of chirping and urgent chatter in draconic told her exactly when she had been made.
+
+“Go!” she yelled, waving her wand like a conductor’s baton, and her trolls burst into the room, while her Baelok Descrier teleported past the burning flame to reach the exit on the far side. The floating demon filled the room with the powerful aura of its mind-magic Compulsion. Tol’brekk, of course, leapt right into the center of the room, and chaos erupted.
+
+A series of buzzing pops filled the air as kite-shields of holy light manifested over the kobold warriors’ mundane shields, and they charged the massive berserker. The acolyte lit up with the mana formations of healing magic while the herbalists fled.
+
+“Don’t let them escape,” she commanded. One golden-scaled kobold suddenly floated into the air, arms and legs flailing, as the Descrier levitated it with its Telekinetic Eye. Bolts of mind magic blasted toward the others, while the now frenzied Abyssal Stalkers unleashed their Ambush attacks, tearing through the kobolds.
+
+A giant pillar of holy light descended upon the enemy acolyte, hasting and empowering its healing magic well beyond its normal capacity, suddenly, incredibly, staying the rout. But it lacked enough power to stand against the concerted might of her trolls and demons. Kir’mogan and her other warrior lashed out with their bone weapons, inflicting Mortal Wounds upon the kobolds, and the healing faltered. A burst of blood magic from Tol’brekk pushed his physical power well beyond anything that could be considered reasonable, and in a single strike, he cleaved the acolyte in two, sending one of the pieces bouncing off the far wall. The rest of the kobolds didn’t survive the death of their healer by more than a few seconds.
+
+Ali dismissed the notifications as the battle wrapped up – the fight being insufficient to raise her level. However, in a very real sense, she was only as powerful as her minions, and they had been leveling up quickly. And with each level gained, her Grimoire updated, permanently increasing the cap of what she was able to summon. She nodded to herself and stepped into the room personally, keeping a barrier at the ready and her eyes, ears, and half a dozen borrowed senses peeled for any reaction from the dungeon to her violent subjugation of the kobolds. Most dungeons didn’t rage in response to basic incursions, but she wasn’t taking any chances. When a minute or two passed with no evident reaction, Ali breathed a sigh of relief. Carefully, she set about deconstructing everything and earning a few higher-level options for kobold warriors and the acolyte.
+
+The acolyte had been wearing a holy robe which, while nice, didn’t measure up to Lydia’s work, so she deconstructed it, hoping that maybe she would find a few more along the way and learn a new variant. Lydia might like to see one. If I get back. If she survived. If there’s anything to get back to.
+
+Ali forcibly dismissed her depressive downward spiral and collected the golden rings from each of the warriors, studying them with keen interest.
+
+Sacred Ring of the Golden Dragonflight – level 80A band of pure, shining gold, infused with holy mana, and inscribed with draconic runes.+50 Strength.+39 Dexterity.+21 Vitality.Added Holy damage on hit.Grants level 34 Holy Shield skill. Recharge: 5 minutes.Requirements: Strength 280.Ring – Gold
+
+So, that’s where the holy shield came from! I think Havok would love one of these. Or maybe Sabri, she doesn’t have Holy Shield. The kobold warriors did not have an affinity for mana, nor were they paladins, and so she had guessed the shields had to have been from some kind of magical construct. Grinning quietly, she deconstructed each of them, reacting with a whispered cheer when her Grimoire flared with light and new runes.
+
+Variant: Sacred Ring of the Golden Dragonflight added to Imprint: Ring.
+
+The ring seemed to be a simple warrior ring design, albeit with a very unusual affinity and skill enchantment that raised it from average to exceptional, and it had certainly caught her attention. Quickly, she made a few, pushing her Grimoire Customization to resize them from the small bands used by kobold talons to the giant bracelet-sized ring needed to fit her trolls’ tusks, and then she handed them out to her minions. Kir’mogan and Tol’brekk didn’t prefer shields, so the Holy Shield skill would be wasted on them, but everything else was excellent. Then she glanced at Joraa, holding a shield in his hand.
+
+“Would you use this?” she asked, offering him one.
+
+“Oh, yes, Seeker. That is definitely a shaman ring.”
+
+“Very well, here you go,” she said, handing it over before finishing up her deconstruction.
+
+Variant: Holy Herbalist added to Imprint: Kobold.
+
+Curious, she summoned a Holy Herbalist and checked to see what kinds of skills it might possess, and suddenly found herself studying an idea that she had never encountered before.
+
+It uses healing magic… to grow plants?
+
+It was a surprisingly specialized class, most of its magic working only on plants, and furthermore, most of its specializations, the best bonuses, and advancements worked only on holy plants in particular, but she now had a healing-focused herbalist. As to what she might do with it, she couldn’t say, but she was a plant-based dungeon and there were holy plants right here for the taking. This was an opportunity she’d be a fool to pass up. Quickly, she deconstructed the flowers they had been tending.
+
+Variant: Sacred Lily added to Imprint: Wildflower.
+
+She stopped near the center of the room, standing in the spot the acolyte had occupied, right before the holy fire, and crouched down to examine the ground. Encircling the fire was a rune circle inscribed with gold inlaid into the white marble, each rune alight with tiny flames of the same holy fire. The runes were written in a language she hadn’t seen used for runic magic before.
+
+Draconic.
+
+Not just ordinary draconic, the structure was exquisitely wrought and most probably ancient. Whoever had made this was undoubtedly a master mage, familiar with draconic script and extraordinarily high-level holy magic. Immediately, she missed Clarence and the ability to leverage her mother’s wisdom to understand potent and unexpected magics. I hope you survived, Clarence! That would be a loss more poignant than most, she reflected. More personal.
+
+The runes were not too complicated, and Sage of Learning and Runic Script were already beginning to unravel the components and the general structure. To her amazement, the closest reference she had to this work was its similarity to the dungeon-wide suppression enchantment Cael and Gage had crafted – although it seemed to have a different, less invasive purpose.
+
+On a hunch, Ali called her acolyte over and said, “Come stand here and use Prayer.” If she were right, the risk of attacking this room would have more than paid off.
+
+“At once, Ancient Mistress,” her kobold chirped, promptly moving to the indicated spot and bowing her head. Her talons clicked together as she clasped her hands in front of her heart.
+
+Ali studied the mana within her minion, growing as the skill rapidly regenerated it. But as it reached full, the skill continued unabated with the excess mana spilling over, drawn out by the runes etched into the floor. After a few seconds, the consecrated fire brightened and began emitting mana into the domain.
+
+Ali stared at the casually overpowered magical runes as they continued to draw excess mana from her acolyte, using it to reinforce the domain itself. It was clear that this ability wasn’t necessarily intended by the author and creator of the runes, but Ali was literally speechless at witnessing a spell that allowed external mana to be drawn in and used by the domain.
+
+If I could learn how this works… She had no immediate power improvements or traps that sprang to mind; rather, the mere existence of this kind of magic called into question everything she had ever read about how domains worked, and particularly how dungeons functioned. Not even Nevyn Eld’s knowledgeable tome had provided a hint about this kind of possibility.
+
+Before deconstructing it to see if she could learn more about the domain in this local area, and more potential directional clues to an exit, she meticulously copied every single detail of the runework into her notebook. A few minutes in, her chime pinged cheerfully.
+
+Runic Script has reached level 62.Sage of Learning has reached level 59.
+
+Not bad!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

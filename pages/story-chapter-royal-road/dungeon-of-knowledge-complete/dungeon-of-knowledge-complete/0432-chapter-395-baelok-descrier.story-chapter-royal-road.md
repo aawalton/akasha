@@ -1,0 +1,89 @@
+---
+id: a623a32d-a7ef-50a9-a86d-49154e28fbd4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 395: Baelok Descrier"
+slug: 0432-chapter-395-baelok-descrier
+partOf: dungeon-of-knowledge-complete
+position: 432
+ownLength: 2646
+unit: words
+ownProgress: 2646
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2640475/chapter-395-baelok-descrier"
+royalRoadId: "2640475"
+markedReadAt: "2026-06-29T20:26:40.536Z"
+---
+
+“What is your will, Master?”
+
+The Baelok Descrier’s dry, demonic voice echoed strangely within Ali’s mind as the giant eye turned to regard her. She wasn’t quite sure she entirely liked being called ‘master,’ but the thing was a demon – it was probably the only title it respected. She was also unaccustomed to having her minions think their answers directly into her mind.
+
+“You will help my other minions and protect me,” she said. Generic orders for what was clearly a highly intelligent monster – even with its replicated demonic nature, embodied by its fearsome form and affinity, her minions were still constructs of her mana and autonomous extensions of her will – it would ‘want’ to interpret her instructions in the best possible way. It had somehow figured out that she understood Ancient Dal’mohran and addressed her first with that language – unless it had some obscure mind-mage shenanigans going on.
+
+“Very well,” it answered, turning to survey the rest of her forces with what looked remarkably like an air of superiority.
+
+Ali slipped her awareness into the mind of the observer demon, presumably a class of demonic sentinel, curious to understand what she had now at her disposal. Instantly, the dimly lit corridor sprang into perfect clarity, as if someone had just turned on the lights. More interestingly, she could see mana in high definition, only without the vibrant colors she was more accustomed to seeing. Around the heads of each of her minions, she could see a clear glow, and it took her only a few moments to correlate the halo phenomenon with the intelligence attribute of each of her minions.
+
+Wait, I can see through the walls, she suddenly realized. It wasn’t a particularly obvious ability because there was nothing interesting to see, but she could see several meters through solid rock. She could even see through her minions, as if everything was ghostly and semitransparent, reminding her of the spirit beasts in the spirit realm.
+
+Race: DemonActive Buffs: Demonic MagusClass: Baelok Descrier – level 90- Telekinetic Eye – level 56Mana: You may move objects with your Major Central Eye. Mana cost is proportional to mass. Channeled.Mind, Ranged, Perception, Intelligence- Mind Blast – level 54Mana: Fire a blast of mind magic from any of your peripheral eyes.Mind, Ranged, Perception, Intelligence- Psychic Scream – level 43Mana: Scream, blasting all foes in the area with mind-magic damage. Compel allied demons to attack your foes.Mind, Area, Intelligence- Astral Projection – level 31Mana: Project your mind outside of your body as an invisible, incorporeal form, taking your awareness and your perception with you. Channeled.Mind, Perception, Wisdom- Mind's Eye – level 35You can see mana. You can see through solid objects as if they were incorporeal. You can see the intelligence of beings around you. Mind, Perception- Demonic Magus – level 42Mana: Your Perception, Intelligence, and Wisdom are increased by +125.3% [40 + skill + base perception / 10]. Reserve: 20%Mind, Buff, Perception- Demonic Curse – level 29Mana: Curse your foe with one of your known curses. You can have up to 3 [1 + skill / 10] curses active at one time. Recharge: 10 seconds.Known Curses: Feeble Mind.Mind, Curse, Ranged, Intelligence- Teleport – level 37Mana: Teleport, moving instantly to a remote location you can see. Range: 42.2 meters. Recharge: 10 seconds.Mana: Teleport a Demon ally to your location. Range: 422 meters. Recharge: 5 seconds.Mind, Movement, Intelligence- Infernal Gaze – level 22All your eye-based Perception skills gain +112% [class + skill] range and spell power.Mind, Mastery, Perception, Intelligence- Compulsion – level 25Mana: All nearby demonic allies gain Frenzy. All nearby foes experience a greater need to flee. Allies gain increased resistance to mind-altering effects. Channeled. Range: 17.5 meters.Mind, Area, IntelligenceAptitudes- Mana (Affinity): Mind- Descrier (Racial): +90 [class level] to Perception- Languages: Demonic, Ancient Dal'mohran, Elvish, Draconic- Vulnerabilities (Racial): +50% extra damage from Holy- Telepathy: Communicate directly with the mind of sufficiently intelligent beings- Inscrutable (Class): Immune to mind-altering effects- Flying (Race): You can flyAttributes- Vitality: 222- Strength: 137- Endurance: 52- Dexterity: 154- Perception: 975 (+542)- Intelligence: 693 (+385)- Wisdom: 538 (+299)Evasion: 630Dodge: 20%Resistance: 1296Magical Damage Reduction: 33.96%Health: 2220/2220Stamina: 520/520Mana: 4304/5380 (1076 Reserved)
+
+Wow, I know where I’m coming if I need a perception boost. Ali studied her new minion very carefully; as usual, experiencing a remarkable lack of fear the moment the monster became her own. She prodded its hide with a finger, discovering it to be strangely supple and squishy, but the bony ridges and horns were much harder and sharper. A single peripheral eye – just a little smaller than her fist – turned, fixing her with a look of stoic forbearance. The monster didn’t say anything, but Ali stopped poking it. It seemed to have a grumpy old scholar personality, and it wouldn’t be good to develop a habit of annoying giant eye-demons with mind magic.
+
+The skills, though, were fascinating. She hadn’t even realized Compulsion was forcing her to flee every time she had been in the presence of one of these things – but in hindsight, she could see the signs. She could somewhat resist the effect with her high wisdom and magic resistance, but still, the effect seemed way more subtle than the Lich or his Death Knights wielding their aggressive fear and despair auras.
+
+She made it Teleport an Abyssal Stalker to itself, studying the spell she had observed when she had been attacked in the tunnel. Most of the Descrier’s buffs and skills boosted demonic allies only, which wasn’t too great for Ali, but she could see just how powerful it would be for a dungeon full of demons. Although she wasn’t complaining – she could see a lot of uses for this monster, and she finally had a high-level, perception-focused monster to use to protect her dungeon.
+
+If I ever get back. Or is this my new home now? She glanced up the passageway warily. No, I need to get out of this dungeon before I get noticed.
+
+She shook the thought off, trying to force herself to think a little more positively. After all, despite its horrifying looks, she had just earned a very powerful new monster, and that, at least, was something great. She turned back to her demon and made it use Astral Projection. As soon as it activated, she felt herself dissociate from the body, and the disembodied awareness flew down the corridor, passing easily through the rock of the walls and the endless murals etched upon them. It had a decent range, and she could use all the perception skills from the floating disembodied point of view.
+
+Wait. All perception skills? She glanced over at the sheet again, her gaze settling on Telekinetic Eye. This is a perception skill, so it should work… She activated it while looking at her enormous champion Carnage Berserker. To her astonishment, Tol’brekk’s giant troll feet drifted slowly up off the ground as the huge troll levitated, axes, armor, and all, flailing around a little in surprise. But when Ali saw the sheer amount of mana the skill was consuming just to move the huge troll, she put him down again. Perhaps this will be more useful with smaller monsters? She could see immediate applications for having the demon levitate her kobolds into hard-to-reach spots, freeing up her barrier magic for other uses. Or enemies, she realized, suddenly imagining a raid boss Baelok Descrier set up on the second level of the Dal’mohran ruins, picking up attackers and dropping them over the edge with its great eye.
+
+With a respectable group of minions to protect her from any threats or dungeon monsters, including a broad array of perception skills, Ali turned her attention back to the dungeon itself, picking the passage direction that led away from the demonic dungeon she had just fled. Of course, she remained alert, constantly aware of the vibrations through the floor, courtesy of her newly summoned Sacred Ooze. She tracked the sounds of their passage through the sensitive ears of her Spirit Nightwing bat, and she was even aware of what was going on beyond the uniform edges of the artificial passage via Earth Sense and the new bizarre ‘astral’ sight from her Baelok Descrier. She was not about to take any chances in a foreign and uncharted dungeon, particularly one with such dense mana making up the crystalline lattice of its domain.
+
+Now, where is the other side of this domain?
+
+She frowned momentarily. She had been cautious all along – or at least, tried to be, within the limits of her frantic scramble to stay alive – but every time something had happened, the demonic dungeon had demonstrated power so far beyond her expectations that she felt she had been constantly reacting just to stay alive. She shuddered at the memory of that vast cavern filled with powerful demons, and the Descrier that had effortlessly teleported into her hiding spot, bringing its allies with it. Even though she had put much more thought into her minions this time, and she was still alert and cautious, she couldn’t let any hint of complacency seep in.
+
+The domain that spread around her, though, was rightly fascinating. Even though the structure was delicate and finely wrought, she could feel the intangible power humming from all around her. An unlikely combination, but even so, the synergy between the void and the holy mana was remarkable, interacting in ways that would never have occurred to her to even try, let alone figure out – she was learning so much just from observing it. Her own mana shifted and flowed, following along with her as she walked, smoothly emitted from the absently summoned mushrooms and moss that carpeted the perfectly smooth floor as she walked. Her nature and arcane domain wove itself delicately around the crystalline structure of the powerful domain, coiling and twisting into the gaps like a trellis vine, shown to be wispy and insubstantial by contrast. But it did not trigger the dungeon rage, and for that, she was incredibly grateful for her subtle Adaptable Mana.
+
+She paused briefly, deconstructing the furthest reaches of her moss and mushroom carpet. A broader domain would grant her significant mana resources and, if she left minions behind, she could teleport away from any danger. However, leaving a trail of foreign mana, plants, and monsters inside a hostile dungeon was just asking for a disaster – a risk of discovery that was far too great in her mind. In and out. Like a ghost. She still had no idea what would happen if she allowed her domain to entirely disappear – would it simply rekindle if she summoned a new plant? Or would she be permanently stuck without a domain and fall victim to the domain withdrawal? Her gut clenched at the mere prospect; it was not a question she was keen to test.
+
+Finally, her mossy footsteps brought her to the end of the passageway. She could have flown the distance in a tenth of the time, but she was set upon bringing her domain with her. She paused in the open archway, on the threshold into a large chamber. It was a perfectly square room of moderately immense size. Several exit archways were visible, leading onward to unknown places. The floor remained white, polished, and spotless, and a vast relief carving of a flight of majestic dragons covered the broad vaulted ceiling, lit by small carved, glowing sconces near the top of the walls.
+
+Ali’s attention was captured by the artifact floating in the middle. An octahedron of pure blackness and geometric lines – like a square-based pyramid set atop a perfect inverted reflection. It hovered above the perfectly polished stone floor. A quiet, continuous sizzle filled the chamber with the persistent odor of ozone. She did a double-take before realizing that, no, it was not one of Nevyn Eld’s artifacts – it was far too black for that. It was as if she were peering into a dark hole from which no light could ever escape. Powerful tendrils of mana leaked from it into the surroundings, to be taken up by the domain itself, reinforcing and powering it.
+
+In the grip of something very much like awe, she identified it.
+
+Voidstone.
+
+She reached with a hand to touch it, but stopped a few centimeters from the thing, deciding that a block of pure voidstone would likely delete her fingers instantly. She did have a few healers now, but it was still not something she wanted to test.
+
+This answers the domain propagation question. This stone must be a form of magicite attuned to the void-affinity mana that infused the entire area, and it appeared to be propagating the domain itself, almost as if it served the same purpose as her trees and plants.
+
+She paused while she considered it carefully. Can I risk it?
+
+Losing a tree or a plant didn’t necessarily alert her immediately, but if she was paying attention to that area, she could clearly see what was happening with her domain-wide mana sight. But if this dungeon had its attention on this area, she was already well out of the frying pan and on her way to the fire.
+
+On the other hand… If she were able to disrupt the domain quietly enough, she might be able to carve out a small area for herself – enough to grow a sufficiently large domain to try some Gate experiments. With sufficient time, she might be able to connect to something in the Infinite Maze and return home that way. At worst, a minor disruption to the domain in this dungeon could point her in the direction it was weakest and give her some clue for how to escape.
+
+This is probably a terrible idea, she thought as she reached out a hand, hovering just beside the huge chunk of voidstone, but she had so few options for figuring anything out. Carefully, she activated her deconstruction. Black wisps and motes of void mana began to drift up and out of the stone as her powerful spell ripped through its structure until it completely dispersed, turning into a cloud of mana. For several long minutes after it evaporated, she stood, perfectly still, her entire attention focused on the diverse senses of her minions, but nothing changed, save a slight dimming of the ambient domain density. The ripples through the powerful domain were subtle, but she thought she could sense a very slight bias – a gradient in the strength of the mana. It’s more than I had before, she decided, glancing at her Grimoire as her chime sounded.
+
+Variant: Voidstone added to Imprint: Stone.
+
+That might come in handy. She didn’t have any void magic spells memorized, but once she got back to the library… She cut that train of thought off as she suddenly recalled the fate of her library and all the work that she and Ryn had put into it. She didn’t even know if Ryn was still alive. She swallowed down the awful thought.
+
+Struggling with a fluctuating mood that was part grief, part curious interest in the nature of the mana flowing about her, and part abject terror that she was in way over her head, she proceeded forward, picking a passageway that led out of the chamber in approximately the direction she had sensed. Out of a sense of thoroughness, she sent a single Abyssal Stalker up each of the other two passages to scout them out, wishing for the thousandth time that she had a cartography skill like Calen. She had a great memory, but she had been turned around so many times by now that she was sure she had no idea how to get back to the rift anymore.
+
+Just one more problem. She had a long list of those.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

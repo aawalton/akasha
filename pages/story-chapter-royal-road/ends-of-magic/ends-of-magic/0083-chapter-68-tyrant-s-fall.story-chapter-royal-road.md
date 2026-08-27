@@ -1,0 +1,195 @@
+---
+id: 6a625388-b894-5b0f-8f4f-8db388e6b956
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: Tyrant’s Fall"
+slug: 0083-chapter-68-tyrant-s-fall
+partOf: ends-of-magic
+position: 83
+ownLength: 3264
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3210202/chapter-68-tyrants-fall"
+royalRoadId: "3210202"
+---
+
+Nathan felt it when Davrar tried to teleport him into the center of the arena. It tried to shift his position to the stage, using the deeper magic of Davrar and involving forces that twisted off in directions beyond his understanding. It also failed utterly. Some element of the effect stumbled over his antimagic and caused the rapid cascade of energy to unravel without any magical or visual effect. He just didn't move. At another time, Nathan might have focused on that power, tried to plumb the interaction for everything it was worth. But right now, he was entirely focused on his upcoming speech, and the failure of the teleport mostly meant he had to get to the stage under his own power.
+
+The Questors certainly noticed the oddity. A ripple of confused whispers flowed across the arena as Nathan approached the speaking platform, and they noticed he hadn’t been teleported to the stage as every other speaker had been. He landed on the crystal surface and looked around at the crowd. The floor was clear, giving him a full view of the sphere of people surrounding him on all sides. If he focused, he could see individual faces watching him with curiosity, confusion, or anger. But if he just looked around, they devolved into a smear, like pixels on a screen. It was overwhelming, making Nathan feel as if he were under the microscope of a god.
+
+A slow breath calmed that minor bout of stage fright before Nathan started speaking. He hadn’t memorized what he was going to say, but that was just to give him room to improvise, to riff on other points that came up over the course of the day. Something he fully intended to do now.
+
+“Nothing about Davrar is natural,” he declared. “This entire world is artificial, imposing order onto stardust. Davrar itself is a megastructure, a giant spinning cylinder rotating to provide simulated gravity. If all of the force comes from the spin, each rotation takes about a hundred minutes. It is controlled by an artificial, unconscious mind you call a smart system.”
+
+He raised both hands to encompass the space and the world beyond. “This is incredible. The very purpose of civilization is to reject the natural order of things, to organize people to defy the natural order and safeguard the population against the monsters and plagues and famines that are part of nature. From that perspective, Davrar is a triumph. You have created a place of wonder, where fantasy is real, and magic is ever-present.”
+
+He wrinkled his nose. “But the laws of Davrar aren’t physics. They’re policy, and policy gets set by the people in charge, who are responsible for the consequences of that policy.” There was an obvious implication there, but Nathan wasn't quite ready to follow through on that. He changed tacks. “You say we do not understand your scale, that we cannot hope to comprehend the Distal Expansion, or the reasons that Davrar exists.” Nathan tilted his head and pursed his lips to show his doubt. “But I was not born on Davrar. I come from a world that I am told was on the cusp of joining the Distal Expansion. We were not primitive. We reached orbit around our world generations ago, split the atom, and survived the aftermath. We began to rewrite our own genetic code and experiment with artificial minds.”
+
+A loud murmur passed through the crowd, everybody turning to their neighbor to ask if that was true, or shouting that he was a liar, or diving into their interfaces to look for some kind of confirmation. He yelled into the disturbance, defiant. “I call upon Davrar to validate my origin! I was born on planet Earth, of the Sol system, and we have accomplished all that I claim!”
+
+From the reactions of the crowd, Nathan knew that the box was being presented to every Questor. They had proof that his words were true. “My work, before I was stolen to Davrar by Badud’s lackeys, was to engineer biology and eliminate human frailty. I was part of improving society, the drive towards a better life for all. In my home, death from disease is rare, and death from violence rarer still. I expected to grow old without ever having to fight.”
+
+Nathan paused, letting longing leak into his voice. "I love magic. If Earth were assimilated into the Distal Expansion, I might have come to Davrar as a Questor. I would have been a mage, and I would have enjoyed exploring the wonders of magic." But then his entire tone shifted into a snarl, long-banked anger flooding his words. "But I came to Davrar as a mortal and found a deathworld, a place where the most common death is a violent one. I had to fight for my freedom immediately upon arriving. I found myself in Giantsrest, a dystopia that used magic to make horror beyond anything I had believed possible.”  His furious gaze panned across the Questors. "So I fixed it. I cast down Giantsrest and gave the people of Gemore the tools to thrive in this hellscape of a world, where monsters outnumber people, and the ruins of the past are a warning against hope.”
+
+His eyes settled on Badud, the heat of his gaze making the other man shift and break eye contact. “Then Badud brought forward the Ending of History, just to block my efforts. He mocked my victory, saying that everything I built would be torn down, that it would all fall to the Ending within the century. He could not win on his own, so he enlisted the Endings to win his battles.” Nathan spat the words, derision dripping from his tone.
+
+“It's impossible to ‘marshal continuity across generations,’ when you're denied that time. On Earth, we had the scientific institution, which compounded knowledge across centuries, and scaled itself to shatter subatomic particles and reach for the stars. I was part of it. I believed in progress on Earth, and I believe in progress here. But on Earth, we strove to overcome the truly natural barriers of the cosmos, not the arbitrary ceiling of the Endings. A barrier imposed by your policies." Nathan cut his hand downwards for punctuation. “If the Endings were creatures, we would hunt them. If they were natural effects, we would master them. But they are not an external enemy we can defeat. They are part of the architecture that you oversee. So we are here to solve the Endings in the only manner available to us. To earn this conclave, we cast down an empire, defeated a blight, and smashed a grid.”
+
+He gestured languidly towards the Aleph Grid. “They seem just a bit upset about that.” The comment drew scattered laughs and offered a brief break in the tension.
+
+But that led right into the next part. He hoped he’d humanized himself enough for it to land properly. “But for a quirk of fate, I might have stood among you as another Questor. But instead, I am mortal. I will die, either now when one of you succeeds in killing me, or in the next Ending. I will be gone. My memories, my thoughts, everything I have learned and experienced, all gone forever.”
+
+The chamber quieted further, and Nathan held back a smile. “I do not want your pity. I want you to think of the Endings as something that extinguishes people like me, each one with their own interior world of hopes and dreams. You no longer bear that cost, but we do, and I ask that you not forget it.”
+
+He restrained his tone, keeping it from sharpening into accusation as he brought his speech towards its close. “You say that we cannot comprehend the reasons Davrar was built. I disagree. But it doesn’t really matter. I say that you don’t understand death, what it means for consciousness to end and never resume. If you truly believe the Endings are necessary, then keep in mind that what you’re doing is killing millions — billions — of thinking people prematurely.”
+
+He let that sink in for a second before his conclusion. “If you still believe the Endings must continue, then so be it. But do not call it natural. You are responsible for the deaths, and I will hold you accountable for them, immortality or not.”
+
+Nathan bowed his head and stepped off the platform. The audience was hushed, unsettled by the ending of his speech. He walked towards his position for the duels as the speaker’s podium descended into the ground and the stage reshaped itself into a bubble to contain the fights to come. He hoped that he’d managed to tempt Badud into fighting him, but he wasn’t expecting it. He was almost certain to face off against a speedster, and he was most worried about another rod of annihilation.
+
+Then his first opponent appeared, and Nathan’s heart dropped into his toes. It was the same Questor who’d cut him into pieces during the war. He’d been wearing golden armor before Nathan had disenchanted it, and Aarl had killed him. Now he wore an identical copy of that armor in blank adamantium, completely unenchanted. As far as Nathan could tell, he didn't have a speck of magic on him. He wasn’t even carrying a dimensional bag. He also held his helmet to the side, giving Nathan a good look at him. He had pale skin and golden hair, with a surprisingly thin face and an unsurprisingly haughty sneer. The arena flashed its countdown, and the man gestured arrogantly towards Nathan. “If you think on death so often, then I shall grant you direct experience.”
+
+The countdown timer flicked to zero, and the man had his helmet on and black blade out in a flash, shooting towards Nathan so fast it was like an animation that was skipping nine out of ten frames.
+
+Nathan was already tensed, and did two things as rapidly as possible. First, he saturated the man with the annihilating power of antimagic. The Questor indeed wasn’t wearing any magic at all, but his armor and blade were both made of adamantium, a metal reinforced through wizardry with strength beyond the physical. Nathan hadn’t worked out all of the details, but he’d been confident that prolonged exposure to his antimagic would degrade it. Now he just had to accelerate that process.
+
+Second, Nathan pinballed to the side, then juked once again as the Questor adjusted course. Nathan's skills let him move fast, and his [Legendkiller] skill equalized some of the gap in speed between them. But his class wasn’t entirely dedicated to speed in the way his opponent’s was, and he ended up down a leg and with a cut halfway through his chest. He grabbed the leg before it could spin too far away and held it against the wound and focused his Stamina to heal the wounds near-instantly, making the severed muscles, bone, and blood vessels align themselves and heal before blood could even spurt.
+
+But the Questor wasn’t giving him the time or space to do more than react. He reversed course almost as soon as Nathan had spun to face him, and this time Nathan wasn’t able to get out of the way. The black blade lashed out a dozen times, with each of Nathan’s head, torso, and limbs ending in multiple separate pieces. The dagger attached to his back skittered away, falling to the base of the arena. His consciousness retreated into the safety of his [Wizard’s Palace], where Nathan looked around at the information that was waiting for him. He gave himself a quick mental kick in the pants and locked in on his prepared Insight.
+
+Nathan’s body was his to command, and the combination of [Immortal Body] and [Wizard’s Palace] meant that he didn’t need a brain to do the controlling. His muscles couldn’t do much when they were severed, along with the bones they used for leverage. But biology had long figured out solutions to that, with various muscle structures that could maneuver without the need for a support structure.
+
+Nathan took inspiration from the tongue, specifically that of a frog, in which part of the muscle stiffened to form a supported base and then the rest catapulted itself forward in a tendril of sticky goo to ensnare the target insect. Except Nathan wasn’t ensnaring an insect. He used the detailed musculature plans he’d stored in his mind, along with boatloads of Stamina and Focus, to shoot out tendrils from each of the severed body parts to each of the others. The goal was to reconnect the various parts of his body and draw them back together. It meant he wouldn’t have to recreate his entire body from scratch whenever he got diced to pieces, which would drain his resources in short order. Luckily, the Questor had cut his head vertically, which allowed his neck muscles to do the heavy lifting. If it had been a horizontal slice, the process would have been trickier.
+
+Congratulations, you have developed the [Immortal Body] Talent into [Distributed Immortality].
+
+Talent: [Distributed Immortality]
+
+Your physical form exists as a coordinated whole, and can be rebuilt from any speck of flesh as long as you have the resources to do so. You may restructure yourself at a minuscule scale, reunite severed parts, banish toxins, and resist aging at the cost of Stamina. Death requires total destruction and the depletion of both Stamina and Focus.
+
+Nathan’s sight came back to see the Questor raising his blade triumphantly. Then he turned back towards Nathan, expecting to find a slowly regrowing body that he could repeat the process on. Nathan couldn’t see his face, but he hoped it bore the stupefied expression he was imagining at finding Nathan already whole and jumping away from him.
+
+“Surprise!” Nathan yelled and intensified his efforts with his antimagic, focused on the man’s blade. He also tried to strike the Questor as he struck once more. The man dodged Nathan's blows like an adult playing with a toddler, cutting Nathan to pieces once more. But his new Talent made it trivial to shoot out strands of flesh to reconnect the pieces and draw himself back together.
+
+His opponent let it happen, watching carefully as Nathan reconsolidated his body as soon as it had been cut apart. Then he set himself and went to work, blending Nathan’s body into ever-smaller pieces. He tried cutting Nathan’s head off, grabbing it, and carrying it away. But Nathan managed to latch on with a tendril and pull his body after it. Then the Questor tried again, this time using his speed to block the seeking tendrils of flesh.
+
+Nathan simply regrew his head on his already reassembled body. His new Talent meant he had full awareness of every piece of flesh, and so long as it still had some life to it he could use it to regrow himself. He gave his opponent a jaunty wave. Nathan was completely naked at this point, his clothes long since gone. At least he wasn’t covered with his own gore, since he could reabsorb his own organic matter to decrease the cost of healing.
+
+The Questor stopped and studied Nathan, eyes flicking back and forth behind the helmet like he was looking for a clue. Then he harrumphed. “Your resources are not infinite.”
+
+Indeed, they were not, though Nathan was still at over three-quarters on both Focus and Stamina. But Nathan wasn’t going to wait for them to deplete further, and he gave the man a sly grin. “Neither is your weapon!” He flicked a finger towards the man as his aura finally finished severing the connection between wizardry and metal. The blade of adamantium cracked loudly, then turned to grey dust in the Questor’s hands.
+
+Nathan's opponent stared at the dissolving weapon in confusion for a moment, and Nathan used that opportunity to dive downwards and scoop up the adamantium dagger from the floor. He looked up in time to receive an adamantium-gauntleted fist to the face. It pulped his lips and shattered a cheekbone. In the very same moment, the man was driving a fist into Nathan’s ribs. It failed to even crack them.
+
+“You haven't trained in unarmed combat much, have you?” Nathan asked with an already-healed mouth, easily weathering the hail of blows. He held onto the dagger tightly as the Questor tried to snatch it from him. The Questor had two hands on the weapon, but Nathan was stronger. The man grabbed at Nathan’s wrist in a hold that would have given him leverage, but Nathan seized his foe’s shoulder with his other arm and pulled him in for a brutal headbutt. It probably hurt Nathan more, but he felt the Questor’s head rattle off the inside of his helm, and the man lost his grip on the wrist holding the dagger.
+
+Nathan recovered first, and he still had a grip on the other man. He was tempted to make a show of it, to get rid of the armor and take him apart piece by piece. But that kind of showboating was both cruel and risky. Instead, he yanked the Questor forward again, straight into the dagger. It punched through the armor over his neck, the unyielding sharpness of Nathan’s blade punching through its simpler cousin to sever arteries, trachea, and spine.
+
+The Questor gurgled for a second, and Nathan withdrew the dagger, ready to stab again if he showed any sign of healing. But the Questor simply died. The body vanished, and Nathan raised his weapon to the sky in victory, a moment before it, too, flaked away to dust. He brushed his hands off and called out. "Next!"
+
+[Immortal Body]
+
+You have achieved precise control of your body at a minuscule level and the ability to reconstitute your body from near-total obliteration with Focus. This Talent will automatically spend Stamina to efficiently and immediately heal wounds. It can also bring you back from the smallest remaining speck of living tissue if you have Focus remaining. You can spend Stamina to make innate changes, which include banishing poison, countering aging, and restructuring your body on a minuscule level. Larger wounds and greater changes will cost more stamina. You can only die via total obliteration or running out of Stamina or Focus.
+
+[Distributed Immortality]
+
+Your physical form exists as a coordinated whole, and can be rebuilt from any speck of flesh as long as you have the resources to do so. You may restructure yourself at a minuscule scale, reunite severed parts, banish toxins, and resist aging at the cost of Stamina. Death requires total destruction and the depletion of both Stamina and Focus.
+
+Permanent Talent 1: Magical Destruction 9
+
+Permanent Talent 2: Distributed Immortality 2
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1295
+
+Bottomless Stamina: 91038/130500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 921
+
+Limitless Focus: 6740/9310
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 6
+
+Forewarning 10
+
+The Truth of Magic 7
+
+Evasion 5
+
+Wizard’s Palace 7
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

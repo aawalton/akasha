@@ -1,0 +1,117 @@
+---
+id: 6ebf3dce-cb82-5677-b6e7-625c1b72f8c8
+page-type-slug: story-chapter-royal-road
+title: "Ch107 Task For The Stewards"
+slug: 0107-ch107-task-for-the-stewards
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 107
+ownLength: 2037
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3739295/ch107-task-for-the-stewards"
+royalRoadId: "3739295"
+---
+
+“Really? Congrats! I’d be happy to come… but why have you chosen me for such an important position?” I reply, caught off guard that this is what he came all the way out here to ask.
+
+The smile on Wang Ming’s face grows, and he reflexively grabs the piece of soul metal around his neck.
+
+“You saved my life… and before that you helped me understand one of my family’s old secrets, breaking into the late stage of qi refining. I know we only just met, but I had to ask.”
+
+I look at him with a skeptical gaze, but the calm, enthusiastic fluctuations in his soul show he’s playing no tricks.
+
+It is just strange, almost everyone in this market knows him. He’s a named disciple. His family owns a large chunk of a good-sized cultivation city. His connections must be numerous.
+
+After seeing Lan Xin’s limitations in Lingshi City, my next goal was to get closer to some of the other powerful named disciples. This would lead to eventually getting closer to their patriarchs and even the peak masters here in the outer sect, but I assumed the first step would take a little longer.
+
+Wang Ming is inviting me straight into his inner circle.
+
+The longer I hesitate to respond, for some reason, his excitement grows more.
+
+“And… This is why I wanted to invite you too. It’s because you’d react like this… Everyone else just treats me like a pawn of the Wang family. Some just bow and grovel in hopes of a favor from my grandfather. Others ignore me or show disrespect to show their allegiance to our rivals. Yet, whenever I interact with you, it’s like you’re playing by your own rules… You give when you want to, and ask when you need, unbothered by what I, or what anyone thinks. It may just be your personality, or confidence in your own secret backing. Either way, I wish to forge a connection with you further, and my wedding day feels like the best time to make this request.”
+
+He awkwardly scratches Mantou’s head once he finishes speaking, and I slowly nod.
+
+“When and where is it?”
+
+Wang Ming pulls a small decorated jade slip out of his robe and hands it over.
+
+“In just three weeks, on the morning after the next new moon, it will be at the Wang family estate above Lingshi City. I checked your ledger, and even though you left the sect with Lan Xin this month already, and normal Outer Sect disciples aren’t meant to be allowed to leave the sect grounds this often, I managed to get you another week of leave if you’d like it. You can make your own travel plans or I can have a rented Wang family flying vessel sent to your fields to pick you up the day before.”
+
+I accept the slip, and pretend to think for a few more seconds despite having fully made up my mind. “That sounds reasonable. I agree, I’ll come and celebrate with you on this important day.”
+
+The excited man bows politely.
+
+“Good, good, good! Now, I’m off to visit some of the well-known major Qi refining families around these parts before making my rounds at the four outer peaks. We have to have many eyewitnesses to the marriage; it is tradition in older foundational clans like ours.”
+
+I smile and give a polite bow back while Wang Ming excitedly walks onto his flying vessel with Mantou, hardly hiding the skip in his step before flying away.
+
+The pair flies off out of sight, then I step onto my spirit crane’s back and nod. “Back to the fields… looks like we have more preparation to do than I thought.”
+
+—
+
+During the peaceful flight back, I sort through my purchases in my mental system space. I’m capable of moving items to and from specific storage rings with ease, as long as they all share my imprint. Though, I’m incapable of physically breaking or bending them unless they’re pulled out into the real world. The same goes for selecting any item with upgrade cards. This can only be done outside by hand or within my hidden realm.
+
+It may have limitations, but there is also an upside. After all, I wouldn’t be able to hold onto powerful corpses like the Phantom Lord in the past, or the perfected tier 2 martial root now, with an aura far too dangerous for me to handle with my natural body.
+
+After a few hours, I drop down directly into the center of the fields where the steward’s quarters rest above a low-grade vein.
+
+The sun is already starting to set, as traveling to and from the market is not a quick task.
+
+Every single steward has already returned to their cave abodes, but I yell out while descending and landing right in front of their caves.
+
+“Attention, all stewards of the 81st spirit plot of the Beast Mastery Peak, I have a task for all of you. It will be worth your time and energy.”
+
+With arms crossed, and my crane waiting behind me, I inspect the small collection of caves, huts, and minor roads built from this point connecting to all of the servant camps surrounding this field.
+
+One by one, the ten old men at the 1st level of qi refinement with 9th-grade roots all walk out and bow with respect.
+
+I pinpoint the one outlier, the one with a familiar face at the perfected stage of the 1st level of qi refinement. It is Shen Dehai, the steward that notified me of the planthopper infestation before it became too dire.
+
+“Here, open these rings and distribute the goods inside.” I toss a mid-quality storage ring to him. It is filled with recording crystals and the control disk capable of storing their information daily, along with 840 spirit stones.
+
+“After the planthopper incident, I have reason to believe someone may be targeting this spirit field. Each of you covers a few acres of land and monitors servant camps daily, but there will always be blind spots. I want all of these recording crystals placed in wide-open plots where the foot traffic is not as common. Anywhere that has potential access to the dirt roads connecting this plot to others owned by other members of the outer sect.”
+
+Shen Dehai opens the ring’s imprint and begins handing out six crystals to every steward, along with their portion of the spirit stones. He keeps the control disk for himself.
+
+“These spirit stones are for two weeks of monitoring. Each crystal needs a single stone daily to continue recording. Shen Dehai, you will report to me on the usual monthly check-ins to get a refill of spirit stones and deliver me the recordings. This will not be a profitable endeavor for me in the short term, but as you all must know by my low cultivation level and young age, I did not make it into this Outer Sect position in a normal fashion. Proving myself reliable is most important to me.”
+
+I can see some looks of concern forming on the stewards’ faces as they begin doing the math and see that the spirit stones they’ve been given are exactly what is needed to fulfill the task.
+
+This is just more work, for no extra pay.
+
+With my growing sensitivity to souls, I sense the subtle twists of unrest growing in some of them.
+
+I only smile and pull out ten small low-quality storage rings. Each one of them is filled with an 8th-grade armored lizard egg, a low-grade soul contract, a medium-grade calming earth talisman, and a full vial of low-quality qi gathering pills. I toss each ring to the stewards one by one.
+
+“This will be your payment. Not only for the extra work, but to ensure your secrecy. These are all 8th-grade armored lizard eggs, capable of growing to the mid stage of qi refinement within a decade. They have the potential of carrying your cultivation further than the limits of your 9th-grade roots. Also, considering how much I had to pay to get rid of planthoppers the other week, I assume once they hatch they will be a steady source of extra income for all of you. The qi gathering pills are so you are not tempted to siphon spirit stones to cultivate from the large supply I’ve granted you to use on the recording crystals. If you need more of these pills, just report to Shen Dehai and ask.”
+
+There is only silence in the steward quarters as one by one they open up these rings. The large brown eggs surface into their hands one by one, and I watch their eyes and souls light up in excitement and disbelief.
+
+I toss one last ring to Shen Dehai, this one filled with 25 9th-grade eggs, with low-grade calming earth talismans and the same low-grade soul contracts. There are an additional 100 spirit stones inside as well.
+
+“Those are 9th-grade eggs for young servants that look promising too. Do not hand them out recklessly; take your time in the selection. At the next auctions, make sure to buy promising servants. The price does not matter, as long as we begin building up a strong foundation of workers.”
+
+He catches the ring, and a few of the stewards watch him do so.
+
+No one dares to say a word; they only bow over and over, touching their foreheads to the ground.
+
+It makes sense. Stewards in these farming roles have a far better life than the old camps I came from out in the wilderness closer to the border. However, they still only make 1 to 2 spirit stones a month.
+
+The average beginner 9th-grade spirit beast costs upwards of 250 spirit stones, meaning they would have to work for decades without ever focusing on their cultivation to save up enough wealth.
+
+There are facilities surrounding the quest hall where stewards can rent out the usage of spirit beasts. That is either directly from other cultivators or from the Beast Mastery Peak themselves, as there are many plots assigned solely for breeding and raising beasts of various natures. They are incredibly pricey to rent and only worth doing so for specific tasks.
+
+Renting for shared cultivation is never worth the spirit stones. The benefits come from many years soul-bound together, growing in strength side by side.
+
+Someday, affording a 9th-grade beast is at least within the realm of possibility.
+
+However, 8th-grade eggs can sell for over a thousand spirit stones, and they mature much faster, meaning their potential to aid these steward’s poor root potential has not yet run out.
+
+It is an amount of wealth they would never scrape together in their lives. Considering the age range of these 1st-level stewards, from late 50s to early 70s, many of them do not have the longest lives ahead of them. A 9th-grade bonded beast would have benefited them in their youth, but the natural ability to cultivate starts to decline after the age of 60. To get the same noticeable boost, an 8th-grade armored lizard’s growth rate will be necessary.
+
+I can tell many of them still do not know if they are dreaming. This is exactly the reaction I wanted. While they’re still all in states of shock, I begin to turn around.
+
+“I’m going off to practice in closed-door cultivation. Carry out your tasks well, and there will be more rewards in the future. Fail me, and there will be punishments far more severe than the rewards. This may just be one of the many inferior-grade rice fields on the outer edge of the Beast Mastery Peak creating bulk feed for the breeding farms now, but this is your one and only opportunity to rise past mediocrity in this cruel world; do not mess it up. One day, plot 81 will be far more important, and you will be its foundation. We must keep our heads down and reap the benefits in silence.”
+
+I hop onto the spirit crane next and fly away, leaving the stewards bowing until I’m out of sight, up the small peak and back to my humble abode.

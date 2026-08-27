@@ -1,0 +1,171 @@
+---
+id: 75a86064-cb5a-5398-a9c8-b4a52a7a270b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 451: A Handful of Rings"
+slug: 0488-chapter-451-a-handful-of-rings
+partOf: dungeon-of-knowledge-complete
+position: 488
+ownLength: 2623
+unit: words
+ownProgress: 2623
+publishedAt: 2025-11-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2785975/chapter-451-a-handful-of-rings"
+royalRoadId: "2785975"
+markedReadAt: "2026-06-29T20:28:45.747Z"
+---
+
+“Excited?” Ali asked, glancing at him, her tiny golden wings humming softly as they descended through the trees.
+
+“Very,” Calen said, grinning. His own wings rippled lazily in the air behind him, diaphanous ripples of white light that contrasted against Ali’s golden glow without overwhelming it. “That battle pushed me over the threshold, I think.”
+
+“I can’t wait,” Ali said as they both alighted on the ground near the familiar tent in the middle of the messy camp in the forest outside the ruins of Myrin’s Keep.
+
+Your group has defeated Obsidian Sandwyrm – Elemental Dragon – level 204 (Earth / Gravity)Your group has defeated Sand Vortex – Elemental – level 83-91 (Earth / Gravity) Swarm x143
+
+“Are you going to try to figure out how to summon that Sandwyrm and the vortices?” Calen asked as he studied the ridiculous kill notifications closely.
+
+“You bet,” Ali said, smiling broadly. Then a frown creased her brow, “I just don’t know where I’m going to find gravity-affinity plants to make a domain biome for it.”
+
+“I want to explore that rift when we clear a path down to it. Maybe we’ll find something there?” Calen said. Just thinking about setting foot on another realm filled him with a rush of excitement. What would they find?
+
+“Yep, maybe,” Ali said. “But I might have better luck trying to transmute magicite into gravity-affinity.”
+
+Calen nodded thoughtfully, flipping through his notifications quickly.
+
+Realm Hunter has reached level 142 (+4).+40 attribute points.Radiant Archery has reached level 80 (+3).Arrows of Brilliance has reached level 71.Motes of Light has reached level 54 (+2).Explorer has reached level 72.Blessing of the Dawn has reached level 58 (+3).Eyes of the Archon has reached level 51 (+2).Righteous Fury has reached level 50 (+2).Azrael's Wings has reached level 37 (+2).Mirage Armor has reached level 53.Bowcraft has reached level 14.Howling Hellfire Bow has reached level 80 (+2).
+
+Finally, one hundred and forty. His Howling Hellfire Bow had reached its maximum level at last, but that wasn’t what had him brimming with anticipation as they approached the tent. Calen quickly spent ten points on dexterity, eleven each on perception and intelligence, and two each for all the rest. Perfect.
+
+“Hi, Giddy,” Calen said, announcing them as they reached the cluttered workbench set up outside the tent. The diminutive Gnome popped her head up from her delicate bench clamp, lowered the smoking wand in her hand, and peered at him through goggles that were designed for close-up, detailed work. Goggles that unflatteringly highlighted the dark bags of exhaustion under her eyes. How hard is she working?
+
+“Aah, Calen, Aliandra,” Giddy said. “Calen, I’m just finishing up your piece. While you wait, you can put this on. Vivian commissioned a lot of them.” The frazzled Gnome retrieved a thin, burnished metal band and tossed it in his direction. It wasn’t a particularly good throw, but he easily caught it anyway. She handed one to Aliandra, too.
+
+“Oh, you finished the new platinum guild rings?” Calen said, pushing a little mana into it to claim ownership.
+
+“Not even close,” she said. “There are so many of you nowadays. Here are the stats on yours.” And she shared the identification of his new ring.
+
+Platinum Guild Ring – level 100A ring signifying platinum-level membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Calen Avery+60 Dexterity.+48 Intelligence.+24 Perception.+11 Wisdom.+20% movement speed.+20% to Evasion.Requirements: Dexterity 350Quests: None.Mana: Store or retrieve an item. Capacity: 0 / 5280 lbs.Created by Giddy Clicksprocket.Ring – Platinum
+
+“Wow, you got some new enchantments,” Calen said, studying the ring. The twenty percent uplift to movement speed was a huge upgrade, but the clear winner on his new ring was the twenty percent improvement in his evasion rating. This is incredible!
+
+“Aliandra helped me learn those from some auction house purchases a while back, but I needed a few class levels to fully unlock them.”
+
+“Well, you’ve definitely outdone yourself with this!”
+
+Something flickered and sizzled as a small, intense flame of mana briefly appeared before the jewel crafter, filling the air with the acrid stench of burning metal and some curling wisps of white smoke that drifted off into the air. “Ok, it’s done. Here you go.” The Gnome handed him something small that glittered intensely.
+
+Calen held it up, marveling at the pure cut of the gemstone and the obvious mastery of her craftsmanship. “Is this…”
+
+“Light-affinity magicite behind that yellow diamond – makes for a pretty sparkle, doesn’t it? I bound it in a thin but sturdy setting of mithril to conduct the magic better, what do you think?” Giddy shared the stats and stood, staring at him expectantly, puffing up her chest with clear pride.
+
+“It’s perfect! Thank you!” Calen quickly removed his Frosted Sapphire Drop earring and replaced it with Giddy’s newest masterpiece, handing the old earring to her as part of their agreed-upon price.
+
+Scintillating Diamond Eardrop of the Ranger – level 130A scintillating hanging diamond drop earring that shines with an inner light. +75 Intelligence+60 Dexterity+37 Strength+23 Wisdom+15% to Light damage+15% to ResistanceRequirements: Intelligence 455Created by Giddy Clicksprocket.Head – Earring
+
+He meant it. Giddy had certainly outdone herself this time – the earring was an incredible upgrade for him, replacing the sapphire drop, which had mostly worthless enchantments for his class other than the intelligence increase. The new earring was optimized for his needs, clearly underscoring the value of a competent crafter.
+
+“Very shiny,” Ali said, flitting closer to examine it. “Is it enough?”
+
+“Yes!” he grinned. More important than the shiny gleam, both his strength and wisdom attributes had now crossed the threshold he needed for his two new bows. He retrieved The Scourge of Deadly Creep and winced in pain as the Darkwood bow twisted under his palm, sprouting roots that stabbed into his forearm, as if hungry for his blood or mana.
+
+He reviewed the bow’s abilities, long since committed to memory.
+
+The Scourge of Deadly Creep – level 140A longbow of gnarled and twisted Darkwood, covered with strange fungal spore pods. Every arrow fired from this bow trails a cloud of green spores in its wake. Damage: Ranged, Physical, Nature20% chance to inflict level 47 Deadly Poison on hit.20% chance to cast level 53 Grasping Roots on hit. +80 Dexterity.+15% increased attack speed.+2 to skill level of Ranged skills.Creep Spores (Arrows summon a level 12-31 Creep Spore in transit).Parasitic: +7 Nature damage to wielder on activation of a skill or ability. Requires 140 Wisdom and Strength to unequip.Requirements: Strength 145, Dexterity 1470Two-Handed – Bow
+
+“That’s a bit grim, isn’t it?” Giddy said, eyes wide in horror.
+
+“Yes, it’s cursed,” Ali said.
+
+“But it’s worth it,” Calen insisted. The gnarled and twisted Darkwood shimmered, raining a light sprinkling of toxic spores onto the ground. Hmm… Calen eyed the spores. Going to have to be careful carrying this in public. It was a phenomenal weapon, clearly worth the effort it had taken for him to exceed the attribute requirements of the parasitic enchantment, and worth the pain of wielding a weapon that would harm him.
+
+This is definitely a control weapon. With the proc chance of casting Grasping Roots, he could see himself favoring this bow over Cinderstrike, Longbow of the Heretic, when he needed to really lock down a horde of monsters. The poison trails, deadly poison proc, and the chance to summon explosive Creep Spores placed this weapon firmly in his repertoire as a powerful tool to control swarm monsters, hordes, or summoners.
+
+With a definite act of will, he forced the reluctant bow into his storage and retrieved his second bow. The shifting, transparent bow that appeared in his hands immediately sank its claws into his mind. Malevolent whispers floated just beyond the edge of reason, filling his mind with vague hints of grandeur and promises of power, tempting him with unspeakable rituals.
+
+No wonder this thing needs so much wisdom. He found that, while annoying, the whispers seemed manageable; he pushed them away to the back of his mind, studying the bow, not needing his notebook to recall the attributes and enchantments on it.
+
+Death’s Grasp, Spectral Bow – level 140An ethereal bow of shifting darkness, exuding a powerful malevolence. When held, this bow whispers of insanity and the barely intelligible memories of the forgotten dead. Damage: Ranged, Physical, Death+124% Physical damage with this weapon.50% of Physical damage is converted to Death.32% chance to inflict level 47 Death’s Grasp Curse on hit.+80 Dexterity.+64 Perception.+2 to skill level of Mastery skills.Parasitic: +5 Death damage to wielder on activation of a skill or ability. Wielder is afflicted with Death’s Grasp curse on equip, unless intelligence is greater than 735. Requires 130 Wisdom to avoid being driven insane by the whispers. Requirements: Strength 150, Dexterity 1470Two-Handed – Bow
+
+This bow was certainly going to be his default bow from now on. Far more than any bow he’d ever seen, with the sole exception of his mentors’ legendary bows, he was excited to wield this. Never had he seen a bow so focused on pure damage – the base enchantment more than doubled his physical damage, a number so mindbogglingly large that he couldn’t even fathom how it would feel in practice. Then the next two enchantments simply doubled down on more damage, first converting half his damage into death, but then there was the on-hit curse proc. A curse that inflicted death vulnerability, and even more death damage over time.
+
+Death’s Grasp+34 Death damage per second.Death Vulnerability (+25% more damage from Death).Level 56 Raise Zombie cast on death.Curse – Duration: 30 seconds.
+
+He wasn’t entirely sure he was comfortable with summoning zombies, but he would need to test it out to see if they were summoned under his control or not. Either way, just the first three enchantments on the bow were more than worth it.
+
+He would keep his Howling Hellfire Bow primarily for its ability to leech stamina, and Cinderstrike for the incredibly useful Slow curse on-hit proc and fire damage. But his main bow going forward was definitely the shifting, whispering Spectral Bow.
+
+“Thank you, Giddy,” he said, bowing deeply to the Gnome.
+
+“Oi! You’ll make me blush if you keep that up,” Giddy said.
+
+“Thank you, Giddy,” Ali said, taking the burnished platinum band offered to her. She pulsed a small amount of mana into it, binding it to herself.
+
+Platinum Guild Ring – level 100A ring signifying platinum-level membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Aliandra Amariel+60 Intelligence+48 Wisdom+24 Perception+345% to mana regeneration+120% to minion health regeneration+12% to minion movement speedRequirements: Intelligence 350Quests: None.Mana: Store or retrieve an item. Capacity: 0 / 2400 kg.Created by Giddy Clicksprocket.Ring – Platinum
+
+“I upgraded my mana regeneration enchantment for this piece,” Giddy said. “Is it enough?”
+
+“It’s perfect,” Ali smiled, slipping the new guild ring onto her finger and replacing the gold one. With a tiny burst of mana, she transferred all her quests and items to the new guild ring and its much larger storage enchantment. In addition to choosing the perfect attribute distribution, Giddy had more than honored her request for a lot of mana regeneration – and then, to round out the ring, she had included minion health regeneration and minion movement speed, which would improve all her minions across her entire domain. I may need to rebalance the difficulty of the training areas.
+
+“Here, these are the other rings you commissioned,” Giddy said, handing her several golden bands, all etched with light-consuming runes of midnight black.
+
+Sacred Band of the Void Summoner – level 150A plain gold band, delicately inlaid with void-infused runework that circles the entire ring.+85 Wisdom+68 Intelligence+49 PerceptionMinions gain additional Holy damage on hitMinions gain additional Void damage on hit+15% to Minion movement speedRequirements: Intelligence 525, Wisdom 375Created by Giddy Clicksprocket.Ring – Gold / Voidstone
+
+“Wow, Giddy! Your work is exceptional,” Ali said, examining the rings with unrestrained delight. Four of them were identical, while the fifth had been crafted at a lower level, just as she had asked. Ali immediately summoned her mana for Deconstruction.
+
+Giddy flinched, suddenly looking away and slapping her hands over her eyes.
+
+“What…”
+
+“Just tell me when it’s done,” Giddy moaned.
+
+“I…” Ali started. “I’m sorry. I won’t be using your work as a mana source again, unless my life is on the line.” Then she deconstructed the first three rings.
+
+Variant: Sacred Band of the Void Summoner added to Imprint: Ring.
+
+Giddy’s head snapped up with a sudden start, “Oh, I just leveled up!”
+
+“That’s good, right?” Ali said, slipping the remaining higher-level ring onto her finger, finally replacing the Twisted Band of the Sylvan Summoner. She stored the last commissioned Sacred Ring of the Void Summoner. Seth is going to love this.
+
+“I know you needed three to learn the imprint, and you wanted the lower level one as a gift, but why would you pay for the last one?” Giddy asked, pointing at the masterpiece now nestled snugly on her finger. “Can’t you just make them now?”
+
+“I can,” Ali said. “But then I wouldn’t be wearing your mana signature into battle.”
+
+“Hmph, ok. It’s your money,” Giddy said, but the sudden flush in her cheeks and the way her eyes suddenly didn’t want to meet hers told Ali that her gesture was as unexpected as it was cherished.
+
+“At some point, I will want a nature damage version,” Ali said, giving Giddy a way out of her moment of shyness.
+
+“I will be making a lot of different varieties soon, including with the nature and death affinities, too – at least for when the auction house gets back online. Damage on hit enchantments sell very well to rogues and monks, and other speed-based melee classes. If you want alternate rings, you can have a look at those,” Giddy said.
+
+“Archers, too,” Calen put in, nodding in agreement.
+
+“Thanks, but I know you’re busy right now, so treat that as a lower priority request. Whenever you have some free time,” Ali said, smiling at Giddy’s snort. It would be nice to have a ring in storage with the alternate damage types, especially one she could boost with her Empowered Summoner, but for now, she could always switch back to the Twisted Band of the Sylvan Summoner, should the occasion require it. She just didn’t like dealing with the parasitic damage.
+
+“How much mana regeneration do you have now?” Calen asked.
+
+“Let me see,” Ali said, opening her mana regeneration information.
+
+Mana RegenerationPercentage of maximum mana regenerated per hour.+100% Racial (Fae).+677% Gear.Total: 777%
+
+“Seven hundred and seventy-seven percent per hour.”
+
+Calen whistled in appreciation. “You’re a bad girl!”
+
+“Calen! Most of it comes from this new guild ring and my Spell-Rend Magus Slippers, but I also have some from the Frosted Sapphire Drop earring, and this,” she said, jiggling her wrist with the Ancestral Spirit Beads.
+
+“That must be a lot of mana per hour,” he said.
+
+“Yup.” Right now, Ali had a little over seventy thousand mana. She juggled the numbers in her head for a few moments, and then said, “Around one hundred and fifty-two mana per second.”
+
+“That would fill me up in ten seconds,” Calen chuckled, shaking his head in disbelief.
+
+“Yes, this is going to be very useful,” Ali said, waving her thanks to Giddy as they left her to her work. It was even more effective when she considered that she didn’t have to lose any of that regenerated mana even when she was full – she could simply channel it all into Empowered Summoner, making her minions that much stronger.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

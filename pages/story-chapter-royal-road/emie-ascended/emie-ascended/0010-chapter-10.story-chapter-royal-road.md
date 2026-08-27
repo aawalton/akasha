@@ -1,0 +1,159 @@
+---
+id: c068f2cf-d1a8-5e9b-8666-e82d2069e526
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10"
+slug: 0010-chapter-10
+partOf: emie-ascended
+position: 10
+ownLength: 2327
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3466379/chapter-10"
+royalRoadId: "3466379"
+---
+
+“Nobody outside of the clergy will know that you are the Originator,” Priest Zeth assured me when I spoke with him the following day.
+
+“Okay. I just wanted to make sure, since a lot of what I was reading made it seem like I might have some problems if anyone found out.”
+
+“Even if your status were to be discovered, I doubt anyone would cause you problems. At most, you’d be targeted by sycophants hoping to gain the favor of a potentially powerful Ascender.”
+
+“You don’t think my former space affinity will be an issue?”
+
+Priest Zeth tilted his head at the question before a look of understanding filled his gaze.
+
+“Ah. Now that you bring it up, I can see your hesitation. Space Magi are highly sought by almost every state and territory. Having the ability to travel safely between cities is invaluable, so… yes, you might want to keep that part quiet if you wish to avoid attention. I still don’t believe it would be a real issue. At most, you might have recruiters or powerful families offering you riches in exchange for a contract of service.”
+
+“Don’t Ascender Dungeons reflect the former affinities of their Originator?”
+
+“They typically do, but not always to the degree that an Originator’s previous affinities could be easily determined. Keep in mind that your fellow Ascenders’ former affinities will also influence the skills offered by the dungeon.
+
+“Yours were Space and Lightning?” he asked before pausing. “No, you have four core skills, and your record lists healing as a core skill. As an Ascender from Neohim, that means Space, Lightning, and Life or Nature?”
+
+“Close,” I said with a small smile. “Space, Time, and Arcane.”
+
+The Priest’s eyes grew wide. “Oh. Well. Arcane won’t be an issue since Dia doesn’t have a comparable aspect to Arcane. What our system labels as Arcane merely represents neutral essence. I doubt anyone would pick up on an increase in neutral skills. If you don’t mind me asking, where did Lightning Bolt come from, then?”
+
+“Rho let me decide on my last skill. I’ve always loved lightning and ice. Since I could only choose one, I went with lightning. It seemed to fit my fighting style a little better than ice,” I explained. “I also hope to maybe recreate some of the technology from my homeworld. Maybe bring back some of the technology lost during the upheaval.”
+
+The priest chuckled lightly at my comment. “While I won’t try to dissuade you, just know that Dia won’t allow certain technologies to propagate in this realm.”
+
+“Why is that?”
+
+With a sigh, the man said, “Certain technologies tend to make society complacent, and complacency does not lead to ascendance. Since our goddess wishes for as many of us to ascend as possible, allowing such technologies would be counterintuitive. It is also part of the reason why so much of the realm’s technology was lost when the demons appeared.”
+
+“I figured it was something like that. It really doesn’t make sense otherwise, given the time that has passed.”
+
+The news that I probably wouldn’t be able to introduce a lot of the advancements from my previous realm was a bit disappointing, but hopefully, Dia wouldn’t restrict me from making some things for personal use.
+
+I already knew that anything involving transmutation wasn’t going to be an option since that was one field that Dia heavily limited. It was unfortunate since the MealMaker I’d designed in my previous realm worked off of transmutation, but there was little that I could do about it.
+
+Not wanting to take up any more of the man’s time, I stood and thanked him for answering my questions.
+
+“I don’t mind at all,” he said as he escorted me to the door. “If you have more questions, feel free to come find me. I generally spend every other morning helping in the medical facility outside of the dungeon entrance. Perhaps you’d be interested in spending some time there as well?”
+
+“The clerk mentioned the healers were always looking for new apprentices, especially those with core healing skills,” I said.
+
+“He was correct. While core skills are always preferred, we accept anyone with a healing skill. It’s a good way to get experience. I doubt you need it as an Ascender, but you are welcome, nonetheless.”
+
+“Thank you. I’ll come by later. My healing skill was changed when I ascended, so it’s probably a good idea to get some experience with the new version.”
+
+“I look forward to it,” Zeth said with a smile.
+
+After swinging by the dining hall to exchange my dirty plate for a new plate full of lunch, I headed back to my room to continue my research.
+
+I still hadn’t looked over the information the clerk had given me regarding my fellow Ascenders, so I decided to read through that as I ate the mediocre food.
+
+It really wasn’t bad. I was just being a little snobbish.
+
+“Two generalists, a tank/healer, a Water Magi, an Earth Magi, and a rogue,” I murmured. “I thought magis were supposed to be super rare?”
+
+I set the paper aside and grabbed the information tablet, quickly verifying that magi were not quite as rare as I thought among Ascenders, but almost unheard of among the native population.
+
+It made sense if most lower realms produced ascenders with a single affinity. It was only logical that someone who managed to rise through the tiers and ascend with a single affinity would know that affinity well enough for the goddess to grant them a manipulation skill.
+
+I had no idea how the natives would manage such a thing. I could only imagine that it was something that came closer to the end of their journey and involved merging several elemental skills.
+
+Curiosity somewhat satisfied, I returned to the list.
+
+The Earth Magi and Rogue were the couple that the clerk had mentioned. They’d probably be looking for a healer and a tank unless the Earth Magi used his earth magic to fill the latter role. Even if he did, the individual listed as a tank/healer would probably be a good fit.
+
+I read over the information provided on the remaining Ascenders. Most didn’t provide much information aside from a few skills and their desired role in a party, but I found my eyes drawn to the one individual who’d indicated they were not interested in working with others.
+
+I wasn’t going to try to join the solo delver if he wanted to work alone, but I figured it wouldn’t be a bad thing to at least meet the guy. He only listed an Archery skill, so the rest of his build was a bit of a mystery.
+
+He almost had to have some kind of self-healing or enhanced regeneration if he planned to delve alone. Operating without such a skill would be foolish, and foolish people rarely survived long enough to ascend.
+
+Given that, I wondered why the man insisted on remaining alone. From experience, I could confidently say that having at least one trustworthy person at your back made delving a much better experience.
+
+Progression was also faster, I’d found, since encounters didn’t take as long.
+
+Regardless, it was his choice to make.
+
+Feeling the need to take a break, I headed to the clinic to look into getting some experience with my new healing skill.
+
+“Welcome, Ascender! What can I help you with?” one of the two clerics manning the intake desk asked when I walked up.
+
+I found it a little odd that clerics were performing the duties of normal clerks, but I figured the temple had a reason for doing things the way they did.
+
+“Priest Zeth and the clerk at the registration desk both mentioned that I should come here since I have a core healing skill.”
+
+Both clerics’ eyes widened at my answer. I couldn’t tell if they were just surprised or if they were both using some kind of inspection skill.
+
+Probably both.
+
+The woman who’d addressed me quickly nodded her head and handed me a form before motioning for me to follow her to a side desk.
+
+“I just need a few pieces of information to add you as an apprentice healer,” she explained. “Can you fill this out? It ensures your pay is registered with the correct Association account, so you get paid what you’re owed.
+
+“The funds you earn will be accessible through the quest completion desk inside the Association building until you reach the first evolution. At that point, you’ll be issued a card that you can use to access your account. You can withdraw funds after every shift or let it accumulate. It’s completely up to you.”
+
+When I nodded to acknowledge my understanding, the cleric continued, “There is a limit to how much you can earn per week while below bronze rank. However, any excess funds will not be lost. They will be held in reserve for you. Do you have any questions?”
+
+Within ten minutes, the paperwork was filled out, and the cleric, Meria, had me wearing the vestments of a healer, along with a small patch that indicated I was not interested in joining a party.
+
+Since clinics and hospitals were a great place to find healers, a lot of hopeful parties would apparently visit in search of a new party member. And since most healers wanted to join a party, it made sense to mark those who were free and interested so the rest of the healers wouldn’t be harassed unnecessarily.
+
+While I was interested in joining a party, I did not want the hassle that came with advertising myself as such. I also didn’t particularly want to join a group of brand-new delvers who’d need constant training and supervision.
+
+I could do it, but I didn’t really want to. I’d rather operate alone.
+
+Ideally, I wanted to find a group of people that I could rely on and trust. A group of equals with experience and maturity – not a bunch of kids who’d just gotten their first taste of power and had no concept of moderation.
+
+So, I’d opted for the ‘not interested’ patch, which should prevent most issues.
+
+The cost of the garment would be deducted from my pay, but the cleric assured me that the debt would be cleared with a single shift in the clinic – a shift I’d agreed to work right away to help with some of their personnel shortages due to the influx of new delvers.
+
+“Apprentice Healers get paid better than most apprentices,” Meria explained. “If you can heal bronze rankers or higher, the amount you earn will be higher, though it will still only be a fraction of what you’d earn as a full Healer, though, again, those funds are not truly lost. They are merely held in escrow until you reach the first evolution.
+
+“It’s not really fair, but there are rules governing how much an unevolved can earn outside of the dungeon. I think it’s meant to encourage youths to progress instead of stagnating early. And trust me, you do not want to stagnate unless you’ve given up hope of progressing further.”
+
+From Meria, I learned that when someone required healing, they had one of two ways to pay for it. The first was to pay a fee associated with the healing, based on the severity of the injury and the level of the patient.
+
+The facility had a triage artifact that diagnosed patients and determined the cost of healing, ensuring that everyone was treated fairly, regardless of who they were.
+
+The artifact was something I’d never seen before, meaning it was likely developed sometime after demons invaded the realm.
+
+The second option applied mostly to delvers. Those who were injured during a delve and couldn’t afford the fees associated with their care could sacrifice a percentage of their loot to pay for it instead.
+
+Like with the standard fee, the percentage increased based on the severity of the wound and the level of the delver. However, the percentage payment option had limitations and did not include things like limb regrowth.
+
+According to Meria, that was mostly because they simply didn’t have enough healers capable of such feats. In fact, they only had a single gold ranker who could regrow limbs or organs.
+
+They mostly dealt with injuries requiring organ regrowth since those were considered life-threatening, whereas other limb regeneration was not.
+
+For regular healing, most opted to exchange loot since the cost of healing was often higher than what they’d get for the loot, especially if they were injured early in their delve.
+
+“Children are an exception,” Meria explained. “By that, I mean those who are under fifteen and have not gained access to the system yet. Children are always healed without charge. The temple covers the fee, regardless of their circumstances, so you don’t have to worry about not getting paid if you find yourself healing a child.”
+
+“I wouldn’t care about something like that if a child needed healing,” I said, feeling almost offended that such a thing would even be considered.
+
+I knew some healers absolutely would refuse to heal a dying child, but they shouldn’t. People like that shouldn’t even have the ability to heal.
+
+As she guided me through the hallway, Meria said, “You might want to hide your title. The patch should deter most people from trying to recruit you, but if you advertise your status as an Ascender, they’ll probably ignore the patch and try anyway.
+
+“Even established teams would probably drop their healer to recruit an Ascended Healer. The benefits alone make you an appealing teammate. Add in your obvious experience and a core healing skill…”
+
+I understood. I’d seen established parties drop a member when they found someone who could fill the role better.
+
+I immediately opened my status and hid my Ascender title. I’d never been one to want the attention such things drew, anyway.

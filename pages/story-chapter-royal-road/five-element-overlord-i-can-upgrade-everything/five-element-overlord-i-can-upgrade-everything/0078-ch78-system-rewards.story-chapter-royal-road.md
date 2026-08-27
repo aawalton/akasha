@@ -1,0 +1,145 @@
+---
+id: 63cf7f41-9d05-5d6b-9055-d3edb1e9b07b
+page-type-slug: story-chapter-royal-road
+title: "Ch78 System Rewards"
+slug: 0078-ch78-system-rewards
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 78
+ownLength: 2092
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3554383/ch78-system-rewards"
+royalRoadId: "3554383"
+---
+
+A small palm sized bird made of semi-translucent green crystal appears in my storage.
+
+Beside it, there is a massive 10 meter high bronze door.
+
+When I try to pull the most valuable looking item out of my mental space, the bronze door does not budge.
+
+This door reacts much differently to my actions within the system storage.
+
+Normally, objects placed inside can be moved around, but they are unable to activate or be physically manipulated until I pull them out into my hands.
+
+This door cannot be moved, it feels as though it's rigid in the center of this storage space. When I try to grab it, my raw inner qi imprints it and lights up a notification in my inner ear.
+
+[Ding!][Minor Hidden Realm has bound to the Host!][Tier 1 Entrance Locked.][Price to Open - 1,000,000 Spirit Stones]
+
+The bronze door shudders, and I mentally pull a spirit stone from the depths of my storage to place up against the door. The cost price instantly ticks down to 999,999 and the door shimmers with a dim white glow after devouring the spirit stone.
+
+My eyes widen, and I mentally count the leftover stones in my storage. There is only slightly over 150,000.
+
+The enormous pile didn’t feel like it would run out any time soon. I could charge my 2nd tier slaughter array multiple times, or the Azure Lightning talisman over a dozen.
+
+The entire perfect grade tier 1 vein I overstrained is not enough to open this major lottery prize…
+
+The water in my bath ripples, as I uncontrollably shake with excitement.
+
+“It may be damaged… but it’s a 4th tier artifact…” I murmur, staring into my mental space for a few minutes, examining every little detail of this bronze door.
+
+Soon after, my attention shifts to the three cards I claimed from this main quest reward too.
+
+There is a common bronze perfect tier 1 upgrade card. After receiving 4 of these every morning for so long, they do not surprise me much anymore.
+
+The silver perfect tier 2 upgrade card beside it however, I pull out of my storage and feel it all over and think of the possibilities.
+
+I could upgrade the vein below my dwelling right now, and if my assumptions are correct, it would turn into a perfect grade tier 2 spiritual vein… That would be more powerful than the Vice Peak Master’s vein. It would be stronger than the entirety of the Black Iron Mountain’s spiritual pressure.
+
+While alluring, it would certainly be stolen from me by more powerful cultivators that could sense its presence. The concealment array I have can only hide up to low grade tier 2 veins… With only one tier 2 card, I can’t be certain I could protect it.
+
+Other ideas like upgrading my qi sword slaughter formation come to mind, or even my Azure Lightning attack talisman. Unlike when I’ve tried to tap my bronze cards to these items in the past, when this silver card comes in contact, they’re able to be selected.
+
+They would certainly be brought to the peak of the 2nd tier… Not only these tier 2 items, but even low grade tier 1 talismans and pills can be selected by the silver card. Quite literally anything can be upgraded to the peak of the 2nd tier if I wish it. However, I restrain myself. I’m in no immediate danger anymore.
+
+Using up large amounts of my daily check-in cards on talismans and protective items was necessary out in the undeveloped wilderness. Now, it may be more worth it to use them on some kind of elixir or cultivation technique that can be more beneficial to my own strength in the long run. My knowledge of Tier 2 items is severely lacking.
+
+I stow the silver card away, and pull out the bright golden perfect tier 3 upgrade card next.
+
+It does not give off any physical aura, but it resonates with something deep inside me, telling me this is an immensely powerful and valuable item.
+
+This has the potential to create a perfect grade golden core level artifact. I stow it away the instant I lay eyes on it, and delve deep into the system to check my quests again.
+
+The main quest has now shifted, with a new task reading:
+
+[Become a trusted member of the Azure Cloud Sect by becoming an Inner Disciple.]
+
+Even the late stage qi refiners I met in the wilderness are nowhere near joining the Inner Sect, and it seems even some foundation establishment cultivators are still confined to the outer sect peaks. Without any clear path toward this next milestone, I need to save these cards carefully and use them when the time is right.
+
+The only certainty of rewards I know I can trigger more often is the side quest, but it only grants me 1st tier cards.
+
+I let out a long sigh, and pull the emerald swallow out of my inventory.
+
+It is a tiny bird, small enough to fit in the palm of my hand.
+
+It is made from a semi-translucent green crystalline material.
+
+Yet, when the tiny swallow moves its head, and flaps its wings, it almost looks like soft flesh.
+
+[Ding!][Emerald Swallow has bound to the Host!][Passive Ability: Holds items inside a spatial storage compartment equivalent to a Tier 1 perfect grade ring.][Active Ability: 1 Use, Rechargeable(Cost-10,000 Spirit Stones). This Emerald Swallow can fly for 10 days straight on one charge, capable of traveling to and from any target within the host’s memories to drop off or pick up items. Is capable of using the same charge to battle an initial stage foundation establishment cultivator at full power for 1 minute.]
+
+A small ripple of white qi fuses with the bird, and a mental connection allows me to control it easily with my mind.
+
+Almost every single person I’ve ever met in this world all cycle through my consciousness, their faces triggering false activations of the emerald swallow I’ve bound with. Most recently, Wang Ming’s face shows up, and it feels like if I select his visage in my mind this swallow will fly away to find him.
+
+I quickly disregard his face, as he gave me a communication talisman to contact him instantly whenever I need.
+
+Yet, other faces come to mind. Bao Zhan, the dark skinned warrior on Combat Peak.
+
+Even though we do not share communication talismans, I could contact him right now if I wanted, and even send goods back and forth.
+
+My mind thinks back even further, and the purple haired woman, Xu Hong shows up in the mental space connected to this tiny bird.
+
+This makes even the faces of Gu Shan, and Qin Yue pop up in my mind, but I quickly push them away. Even a simple glance is enough to track them as potential links to this artifact.
+
+It flaps its wings like it’s ready to take off, but I quickly shift its settings to Wei Ping, the young 15 year old 1st level qi refiner far off in the servant camps that I left my wood collection route to.
+
+I shake my head, as I still have no reason to contact him.
+
+If I’ve learned anything about this system, it may seem as though it’s not listening, or gives me random items, but they’re always exactly what I need.
+
+I move my hand around, and the tiny emerald swallow flaps its wings and hops around on my fingers. It gives the illusion of being intelligent, but the more I play with it, the more obvious it is that these are automated movements, and it does not have a soul or true mind of its own. This is just an advanced tier 2 communication puppet.
+
+At this thought, a memory from earlier today returns. As the Law Enforcement Hall brought us all to the Outer Sect, we flew over the Alchemy Peak, and a low quality communication talisman vibrated deep inside my storage when we were within the limited 100 kilometer range.
+
+When I pull it out, an old message plays, “Chen Yilin reporting in, Senior. The Jiao Fruit and 3 qi nourishing pills you provided were enough to assist my breakthrough into the 4th level of qi refining. I’ve joined the Outer Sect Alchemy Peak as a named disciple’s apprentice and am awaiting your instructions.”
+
+A thin smile creeps onto my face.
+
+The first thing I think of is how simple it was for a cultivator with 8th grade roots to break through. All he needed was a few hundred spirit stones worth of pills and a spiritual fruit.
+
+The second is pure excitement. I tear off a fresh communication talisman and activate its recording function.
+
+“Good work, Junior. Here is a small reward to congratulate you. The main objective is to gain experience and connections within the peak. To confirm this message made its way to you, reply with a simple report on what you do on a daily basis, and what kind of elixirs you’re learning to make.”
+
+With the talisman, I add three more low quality qi nourishing pills that I acquired from the Stone Valley Stronghold, and 300 spirit stones into the emerald swallow’s storage.
+
+While these pale green pills are useless to me, even when upgraded to heavenly grade, I’ve heard many mid stage qi refiners talking about them in the markets. They are commonly used at the 4th, 5th, and 6th level of qi refining for cultivators that aren’t limited by 9th grade trash roots like myself.
+
+I mentally confirm that Chen Yilin is my target, and feel a small shift in the bird inside like it is only focused on the middle aged man’s face.
+
+Then, with a silent flutter of its wings, the emerald swallow disappears into the night.
+
+I sink back into the hot water of my bath, close my eyes, and think to myself, piecing together all of my options and only coming to a few clear paths forward.
+
+The first and most simple is to bide my time and relax on this peak, using daily upgrade cards to create perfect grade martial root pills. I can strengthen my acquired physique further, but there is a downside to this.
+
+I’ve studied the movements and calculated the pill consumption necessary for progressing from a Martial Elite to a Martial Master. It will take 200 perfect grade pills, so that is 50 straight days of checking in.
+
+On top of this, the movements and breathing techniques are far more intricate. It outlines that it is possible to follow them out with pills, but a far superior method is drinking the pure extract in a tea form or absorbing it through the skin at acupoints using concentrated paste. I do not have access to either of these…
+
+The second option to progress is to somehow get my hands on more barrier breaking pills. This will potentially raise my overall cultivation level, gaining me more upgrade cards per day, and is a surefire instant increase in strength.
+
+I do not recall any being available in the Red Pine Market, but tomorrow I can try to hand in my contribution points for another in the Quest Hall. If that does not work, I’ve already set in motion a test communication to a second possible source.
+
+The final, third course of action I have is to stack spirit stones and try to open this bronze door in my mind that is labeled as a 4th Tier Damaged Spatial Entity.
+
+I don’t know what a minor hidden realm is, nor do I even know the corresponding cultivation tier that comes after a golden core… This is the most valuable treasure I’ve ever come across, and it’s locked behind a million spirit stone entrance fee.
+
+After a few hours of long contemplation, I walk out of the bath and start setting up the jade white array flags of my qi gathering concealment array.
+
+No matter what I decide to do first out of the first two options, the third is possible to start on right now.
+
+Without hesitating at all, I use the single bronze upgrade card in my storage to upgrade the spirit vein below my abode, and instantly trigger the overstrain function on my tier 2 array.
+
+Instead of the rushed 1 hour timer I used in the Ravine, I set this one to a full week, and set its limit to only harvest it back down to a mid grade vein where it started.

@@ -1,0 +1,249 @@
+---
+id: 4409f2a8-80d7-5b40-b2f4-d82e3c20da39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: Small Talks"
+slug: 0071-chapter-56-small-talks
+partOf: ends-of-magic
+position: 71
+ownLength: 2960
+unit: words
+ownProgress: 2960
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3059296/chapter-56-small-talks"
+royalRoadId: "3059296"
+markedReadAt: "2026-06-29T20:09:32.601Z"
+---
+
+Nathan took a deep breath, centered himself, and prepared to engage in small talk. He’d already changed his face to make himself more popular with the Questors. He might as well put in the effort to socialize a bit, and there was no shortage of Questors who wanted to talk to him. The fact that he’d achieved the highest contribution percentage had made the rounds, and it seemed like every single Questor wanted to get their moment with the man of the hour and share a drink.
+
+He found himself repeating the same stock story over and over again when asked where he’d gotten his Insights. He described the fight against Giantsrest at least twenty times, dumbing down the story until it bore only a vague resemblance to the truth. A few people asked him about the Questors he’d killed, and he obliged. They delighted in seeing the boxes that confirmed that this mortal had killed Questors, and thought it was hilarious that he'd killed Badud three times.
+
+The whole time, he was musing on what Colborn had told him, picking at it like a scab. The idea of accepting just a small change to Davrar felt wrong. He’d sworn an oath to end the Endings, and he’d meant it. Merely making the Endings less terrible would be positive, but it wasn’t what he’d set out to do, and it felt like an abdication of responsibility.
+
+He moved through the social obligation in a haze, feeling like he was treading water. He wasn't really engaging with anyone who came to talk to him. But after a little while, he understood that it was fine. His purpose here was to win people over, and it required very little effort. He listened, made the appropriate noises at various points, and answered their questions in ways that left minimal surface area for further conversation. He didn’t chase anybody off, instead relying on the pressure from other Questors who wanted their turn with Nathan. They all wanted to like him, and all he had to do was avoid giving offense and be generally pleasant, and they'd fill in the gaps.
+
+Congratulations, you have developed the [High-tier Disguise] utility skill into [Blending].
+
+Utility skill: [Blending]
+
+You will be at home in any social situation, able to avoid provoking annoyance or suspicion even in unfamiliar environments.
+
+The Development surprised Nathan, and he had to hide his reaction to the sudden notification while talking to a couple who were trying to get Nathan to check out their tent. He politely declined and felt relieved when they didn’t push the issue. They were attractive enough, but at the moment, he felt a visceral disgust at the idea of being intimate with a Questor. It was like sleeping with an alien that viewed you as livestock and would turn around and butcher you ten minutes later.
+
+The next person to approach was Nierna, and she offered Nathan a vaguely frothing drink with a wide smile and gushed her congratulations. “All merits to the valiant hero! I apologize for doubting your prowess.”
+
+Nathan took the glass and raised it in a toast to her, trying to decide whether to drink.
+
+The decision was taken from him when Kaelis and Garna seemed to materialize behind the woman. Kaelis laid a hand on her shoulder, pulling her away from Nathan slightly, while Sarya swooped in and took the glass. She pulled out a vial and dumped it into the glass, which flashed bright red and began to whistle threateningly. At that point, Kaelis’s friendly hand turned into a firm grasp, and his expression grew thunderous. A few of the Questors around them seemed to understand the significance of what had just happened and reacted with shock.
+
+“Traitor,” Kaelis didn’t yell, but the words created an expanding bubble of silence in the hubbub of the party. “You sent our plan of battle to the enemy, and now you try to poison the man who won the war. I cast you out of the Ashen Accord. Join the Aleph Grid in ignominy." Without warning, he drew his weapon and beheaded her in a flashing moment. Then he looked around at the gathered Questors, many of whom seemed somewhat shell-shocked at the sudden violence. “We will have a vote later to confirm my actions, but for now, we have one more thing to celebrate!”
+
+Somebody cheered drunkenly, and then the rest of the crowd joined in. Nathan caught a few of them commenting on the drama and wondering what the Alpeh Grid had offered Nierna to make her betray the Accord. He heard more greed in those voices than judgment, and did not like the implication there.
+
+Nathan had stepped away to avoid the spray of blood. He raised an eyebrow at Sarya and the drink she was holding, which was still whistling. “Poison?”
+
+She held up the vial she’d emptied into the glass. “Diplomat’s friend. It reacts to poison. The more potent the poison, the more potent the reaction.” She gestured with the glass before stowing it away. “That is the most violent response I’ve ever seen.”
+
+“Tracks. Thank you for taking us seriously.”
+
+She quirked a smile and clapped him gently on the shoulder. “I’ve learned to trust your signals. My grid is observing your friends. Nobody will harm them tonight.”
+
+Nathan nodded. “Good idea. Still, I don’t know how much more of this I have in me.” He gestured around at the surrounding Questors, many of whom were eating up the spectacle.
+
+Sarya squeezed his shoulder, then released it. “Then come, sit by the fire. Talk with those who have earned the right to your words.” She turned and led the way through the crowd to a bubble of calm amidst the party. Myriad threads of faintly glowing mana surrounded a merrily burning fire, keyed to only allow specific people to pass. Sarya stepped through easily, lifting an eyebrow at Nathan.
+
+He used his antimagic to tease a hole through the magic and follow her in, replicating the trick he’d used to bypass security protocols in Giantsrest. Immediately, the hubbub of the party dropped to a low rumble, making conversation easier without completely divorcing people from the party. A few simple fires crackled inside, each surrounded by a dozen crude wooden stools. Most of the elder Questors sat around, talking in low voices or simply gazing into the fire.
+
+Mirus lifted her drink in appreciation at Nathan leaving her magic intact, and gestured for him to take the seat next to her. “That was a delicate touch. Where did you learn it?”
+
+“Giantsrest,” Nathan answered simply. “They used magical wards for everything, and I spent a while there sneaking around and killing mages while pretending to be a student of the Academy.”
+
+“Ah,” the mage said. “And I expect you to speak of a school, but not in that way. You knew these tricks before then, and rode your powers like a dragon. Balanced on the edge between power and survival.” She looked into the fire and paused before speaking again. “Like we did, back at the start of it all. When there is nobody to learn from, you must discover your own power."
+
+Nathan didn’t have an immediate response to that. He’d had enough deep conversations with Questors for the day. Mirus seemed like a decent person, but he wasn’t able to muster any good questions. Instead, he joined her in staring into the fire, letting the flickering flames mesmerize him. The Questor left him to it, letting silence fall.
+
+Eventually, Nathan thought of a question he’d like to ask. “Today I fought somebody who knew you. Kamus of the gold tower?”
+
+“I recognized his magic and saw his death,” Mirus responded. “He’s only died a score of times, and most of those were to gods and dragons.”
+
+“Will he want revenge?” Nathan asked. The Questor would almost certainly be able to beat the rest of the Heirs singlehandedly. Despite being a mage, he’d been able to resist Nathan’s antimagic. That scared Nathan.
+
+Mirus shook her head wryly. “Vengeance isn’t his method. But you have certainly attracted his interest, which may be worse. He is sure to meddle in the conclave, but I can’t parse if he’ll be an ally or an enemy.”
+
+“He said he’d break his class to learn my antimagic Insights. Would he really do that?” Nathan asked, halfway between curious and incredulous.
+
+“Verified certainty,” Mirus responded. “He wants every Insight. He is best described as a completionist. He will support your motions if he thinks it will make Davrar richer. But if you seek to remove something, he will deny you in every way he can.”
+
+Nathan blew his breath out and resumed staring into the fire. “Thank you. Any other warnings?”
+
+“Evesor is a terrible loser,” Mirus replied. “He will attempt to accomplish revenge. But he would oppose any measure raised on moral grounds, so his enmity is no great wound. He is the nexus of our opposition."
+
+“Anybody else I should know about?” Nathan asked sardonically, half-expecting to be treated to a whole catalog of Questors he’d offended in one way or another and would need to be careful of.
+
+But to his surprise, the wizard made a flicking motion with her hand. “Many. But I’m the wrong teacher for these lessons. Sarya and Colborn will tell you more tomorrow. At this moment, I shall leave you to your thoughts and the others who want to speak with you.” She got up and left, leaving the stool next to Nathan unoccupied.
+
+He waited for the next person to take the seat, feeling as if he were at a blind dating event. To his moderate surprise, the next person to sit down was Vesh, the black-armored fighter he’d seen zipping across the battlefield like a sharpened meteorite.
+
+Nathan nodded his respect to the other man. “What did you think of the battle?”
+
+The answer was direct and to the point. “Well-fought. You used a risky strategy, but it worked. Victory forgives many sins.”
+
+“Any tips?” Nathan asked. Vesh had trained Sarya, and he seemed like the most serious and martially inclined of the elder Questors. If he had advice, Nathan would listen.
+
+The man studied him for a moment, then shook his head. “You understand the core of combat. I could teach you small things, but they would be a waste of your focus. The game of Questors is not an easy one, and the conclave will push you to breaking. Keep your gaze focused on the essentials, those things that you need to avoid utter failure. Listen to Colborn, he is the master of politics.” He spoke gently, as if he were letting someone down after a decent but not great first date.
+
+Nathan looked into the darkness of the helmet, searching for eyes and finding none. He still didn’t know if there was an actual flesh-and-blood person inside the armor. “There’s always a lot going on, but the conclave does seem like the most important thing I’ve ever been involved in.” He waved his hand around to indicate the party. “What about all of this? Is the party important?”
+
+The helmet shook from side to side. “It is not. Everybody here already favors our cause. It is important that those here will be able to validate your deeds and morality to those who doubt, and I enjoy meeting you. But this is not a necessity. You do not need to make more friends here tonight. You need to rest and speak to your friends about essential targets.”
+
+Nathan nodded slowly and stood, glad to have an excuse to stop making nice with the Questors. “Ok. Tomorrow we’re going to Dawn’s Concord. See you there?”
+
+“Indeed. I will give you the help I am suited for, though it will mostly be in the ring.” Vesh stood himself. “Your friends are over there, there and there.” He pointed them out individually. “Camp nearby.”
+
+“Thanks,” Nathan replied, though he didn’t need the directions. He was well acquainted with the magical signatures of the Heirs, and could pick them out blindfolded in a crowd. Khachi was in the same secluded bubble with Nathan, seated at a different fire. He was talking to Phyrne in low but severe words.
+
+“...leads to atrocity. I will not see the evils of the gods return from my actions.”
+
+The hierophant lifted a finger. “But worship is a way to encourage proper behavior in a great many people. Don’t you wish for a peaceful, prosperous society? Religion was a source of much good in the ages before the Ending of Deicide.”
+
+Khachi rumbled his disagreement. “Worship as an exchange of faith for the chance at a reward does not carry weight. I would convince others of my principles without relying on bribery. The principles should be followed on their own merit.”
+
+“But that is faith!” Phryne disagreed vehemently, though she kept her voice low. “You should have followers because you are right, not because you are powerful. Every god had such principles, and it was that which formed the bedrocks of the respective faiths.”
+
+"People are fallible, no matter who they are," Khachi retorted. "The principles alone are worthy of worship, not the person espousing them."
+
+Nathan didn’t see the conversation ending anytime soon, and based on what Vesh had just told him, it wasn’t actually particularly important. He didn’t think Khachi was going to get any religious revelations from Phyrne, and it sounded like she was either trying to convince him to take on worshipers or spread the faiths of other gods. Either way, Khachi could make that kind of decision after the Conclave, since his only option at the moment was preaching to the surrounding Questors. “Khachi, let’s get some rest. We’ve got a long day tomorrow, and a lot to talk about.”
+
+The wolfman looked satisfied at getting the last word, and he stood quickly. “Very well. I would discuss this more.”
+
+Phryne shot a disgruntled look at Nathan for cutting off her response, then turned a sunny smile on Khachi. “I am gladdened to hear it. I will hear a prayer to Sereth for when you want to meet next.” Khachi gave her an unamused look, and she relented. “Any Questor should be able to contact me. I anticipate our next discussion.”
+
+With that, Nathan and Khachi stepped out of the protective dome to find that the party had shifted. It was a bit calmer, but had split into dozens of small groups, each doing its own thing. Some of those things were games, ranging from drinking contests and sparring matches to card games. Others were orgies. Nathan and Khachi avoided the latter while they made their way down the hill to where Sarah was engaged in a target-shooting competition, with mages throwing out solid targets for the competitors to shoot down. Bets were being exchanged, and Sarah stood in front of a pile of loot.
+
+“Are you winning?” Nathan asked, stepping up next to her.
+
+She shrugged, stowing her enchanted gun and stepping back. “A bit, but I don’t need the winnings. Are we going?” The crowd around her first seemed upset that she was leaving, but then cheered when she said she wasn’t going to take her winnings. It didn’t look like much to Nathan’s eyes, the sort of utility enchantments that made camping easier, but that the Heirs already had access to, and a bunch of bottles of fine alcohol.
+
+“We are,” he replied.
+
+They found Aarl and then promptly turned around, since he was otherwise occupied with a small group of friendly Questors. “I’ll get him later,” Sarah said, rolling her eyes hard enough that her entire head moved in a circle.
+
+“Don’t interrupt on our account,” Nathan said, amused. “He seems like he’s having the most fun of any of us.”
+
+Nathan tracked Stella to the outskirts of the party, where she was putting the finishing touches on a subterranean campsite similar to those they’d used in the blight. “I’m surprised you left the party. Is everything ok?” he asked.
+
+She shrugged. “It was too much. Too many Questors, most of them wanting something. A lot of mages who wanted to prove their prowess and then see me prove mine. But I don’t need to prove myself. Not after today.” She sounded exhausted and a little frustrated. "Fame is upsetting."
+
+“Same here,” Nathan answered. “Let’s rest and talk in the morning. I have the feeling we’re going to be making some hard decisions tomorrow.”
+
+“Where’s Aarl?” Stella asked.
+
+“Where do you expect?” Sarah asked, acerbically.
+
+Utility skill: High-tier Disguise
+
+This skill will make your disguises more convincing, especially in conversation. You will seem less suspicious even in doubtful circumstances.
+
+Utility skill: Blending
+
+You will be at home in any social situation, able to avoid provoking annoyance or suspicion even in unfamiliar environments.
+
+Permanent Talent 1: Magical Destruction 6
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 16832/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 2
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 5
+
+Forewarning 10
+
+The Truth of Magic 6
+
+Evasion 5
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

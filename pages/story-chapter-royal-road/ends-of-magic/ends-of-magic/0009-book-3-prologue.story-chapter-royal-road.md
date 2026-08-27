@@ -1,0 +1,171 @@
+---
+id: e3c03618-0044-50bc-b205-92fc2cc0225b
+page-type-slug: story-chapter-royal-road
+title: "Book 3 Prologue"
+slug: 0009-book-3-prologue
+partOf: ends-of-magic
+position: 9
+ownLength: 2498
+unit: words
+ownProgress: 2498
+publishedAt: 2023-06-02
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1232851/book-3-prologue"
+royalRoadId: "1232851"
+markedReadAt: "2026-06-29T20:07:33.291Z"
+---
+
+Brox Thastus was having a good time.
+
+After all, he’d just won a battle. He’d saved a city that he was rather fond of - and now they were throwing a festival in his honor.
+
+Again.
+
+He looked up from the high table spread with what passed for delicacies in the city-state of Itonia. The grand hall was built with fluted columns and delicate tapestries, designed to impress supplicants. But right now the noise from a thousand throats was mangling the carefully planned acoustics.
+
+This is probably more fun than anything that usually happens here.
+
+Dozens of partiers had their attention fixed on Brox, gazes filled with various combinations of greed, lust and worship. Brox noted a few who showed stronger signs of lust.
+
+I can handle greed, but real worship is a turn-off. I am feeling a good orgy though. It’ll help me feel properly victorious. Gotta do the speech first.
+
+Brox rose, picking up a gourd filled with shimmering liquid that was probably an ancient and priceless vintage of some local fruit or another. The motion cut off whatever notable had been attempting to speak over the roar of the crowd. Brox didn’t recognize the man, but it wasn’t like he kept track of the well-fed oligarchs who ran the city - he found their bowing and scraping blurred together. Instead, Brox raised his drink to the warriors who likely hadn’t been allowed inside this building before.
+
+“Siblings of Itonia!”
+
+A roar greeted his words as the lithe warriors scattered throughout the room cheered. Many of them raised weapons towards the ceiling, reveling in their victory.
+
+I think this was the first battle for most of them. I envy them that. I love fighting, but to confront your own mortality for the first time and then survive the experience - it never feels the same way again.
+
+But that thought spawned another one, and Brox’s lips quirked as he looked over the crowd that was eagerly expecting his words.
+
+I wish it hadn’t been their first battle. They need to be more self-reliant. I know it’s my turn on the Questor roster for Itonia, but I don’t want to have to come save them every other year. But I’m not about to sit down and waste a decade training them up.
+
+It was with that thought in mind that he continued his speech. “We have won a great victory today! Defeated the encroaching blight of the undead, and smashed the source of that foul magic. It was an honor to fight by your side!”
+
+I should count how many times I’ve said that phrase on Davrar. Probably hundreds?
+
+The hall shook with cheers, but Brox held out a calming hand. They quieted quickly, and Brox shivered at the feeling of hundreds of people obeying his will.
+
+I could have done a strategist build if I really wanted that. But I adventure for the blood in my teeth, not puzzles and responsibility.
+
+“Itonia is a land of prophecy, of seers! You are renowned for your foresight, and the guidance of those who dwell in the cave. It steers your rulers well, and guides your people.”
+
+Only about half of that was a lie. Maybe a bit more. But trying to fix a society gets really messy. And not the fun kind. The kind of messy where lovers stab you in the genitals.
+
+He paused again, leaving his audience hanging on his words. “But guidance and foresight have their limits! The wisest mind can do nothing without a strong arm to carry out its will. You must train yourself, hone the blades of your bodies. The next time your city is threatened, break the danger like a decorative pot!”
+
+There was some confused blinking, and Brox let out a small sigh. He’d never been great at rousing speeches, which is why he was trying to get in the habit of giving speeches after victory.
+
+“When next I return, I will test you! And I pray that I find peers among you!”
+
+Yeah, as if that’s a likely outcome.
+
+As the crowd realized he was done, they cheered once more and returned to their revelry. Brox eyed those he’d marked for invitations to his private celebration later, and was speculating on a likely source of oil when a bejeweled man stepped forward to speak to him.
+
+“You mean to leave soon, Lord Brox?”
+
+Swiveling to look at the annoying oligarch, Brox considered hanging him from the chandelier by his underwear - that was always worth a laugh. Then he paused to consider the question. It was time to consider his next move.
+
+I could go hang out with Sarya. She’s always good for a tumble and some interesting quests. She knows what I like.
+
+He pursed his lips, considering. That sounded so tame, and Sarya’s city of Keihona was so civilized. There was bound to be intrigue, maybe even some border skirmishes. But Brox didn’t feel like doing ‘rules of engagement’ right now.
+
+Maybe I should just head into the deep wilderness. Find a corrupted zone and try to break into its heart. That’s always a good no-holds-barred challenge.
+
+Brox sighed. He also didn’t really want to be on his own for months right now. Then he thought over the other opportunities he’d been notified of.
+
+There’s whatever’s going on with Gemore - Badud’s getting involved over there. Not sure I want to fight him again. He’s a pervert who takes all of this too seriously. Damned good mage though. Too bad he never fights fair - we could have a grand time if only he didn’t focus on winning all the time. He only plays when he’s certain of victory. It’s also a couple of continents over.
+
+The oligarch cleared his throat politely, as if to remind Brox of his question. Brox refocused on the middle-aged man, a grin spreading across his face. “I think I’ll ask the seers about it. But first, it’s time to give this hall a bit of decoration.”
+
+A moment later Brox admired his handiwork. The oligarch’s red robes did go nicely with the brass chandelier he was dangling from. The crowd underneath him was laughing at his outraged shouts and struggles. The other rulers of Itonia were already calling for one of the court mages to bring the influential man down, though they were shooting hesitant glances towards Brox.
+
+The Questor just laughed, shaking his head before asking a servant to fetch some oil and catching the eye of the first of his conquests for the evening.
+
+—-
+
+Around noon the next day, Brox walked slowly up the narrow path that led to the Cave of the Seers. He could have ascended the path much more quickly, but there were folk traditions surrounding the journey. Supposedly one needed to be observed walking humbly up the path in order to gain a favorable interpretation of the future.
+
+I know that’s Stalker shit. But it’s nice to get some air after last night.
+
+Brox smiled to himself. The Siblings of Itonia may not be wondrous warriors, but they certainly had some experience with lovemaking. And he’d chosen his bedmates well - after all, Brox’s reputation carried a lot of weight here. He wouldn’t be surprised if his erstwhile lovers ended up the leaders of a new military organization.
+
+Seems appropriate. I hope that they hold onto the spirit they showed last night. I’d love to return in a few decades and find a promiscuous order of warrior-lovers.
+
+The Questor enjoyed his daydream for a moment, then looked up the path to gauge the distance he had yet to climb. It was a tall mountain and he thought he’d gotten enough air for the morning.
+
+A heartbeat later, Brox stepped past the line of pilgrims waiting to gain entrance into the cave of the seers. They hunkered down, grabbing at hats and cloaks blown by the wind of Brox’s passage. A few sent glares his way, but they quickly restrained themselves when they saw who he was.
+
+The bald and androgynous receptionist bowed to Brox. “We greet the Questor. Enter, for you are expected.” Then they turned to the line of pilgrims. “Depart, and return one month hence. The questions Brox will ask will drain us until that time.”
+
+A series of muttered curses greeted the announcement, and Brox’s skills could detect the veiled hostility directed his way - but none of them came close to attacking, so Brox simply shrugged and walked deeper into the cave.
+
+He examined his surroundings with a jaded eye. The seers had decorated with an eye towards mysticism - chips of glowing crystals were set into arcane symbols on the rough walls and musky incense burned in lamps. Neither was bright enough to provide much illumination, making the roughly carved cave appear mysterious and threatening.
+
+Soon enough the twisting passage opened out into a grand space, lit by twisting magical tendrils stretching from cracks in the stone towards the center of the cavern. Chanting echoed strangely around the cave from unseen throats, and banners cracked in intangible winds.
+
+Brox rolled his eyes. He knew what was necessary for the future-sight of the Seers of Itonia - he’d been there when they’d been founded! The Questor Ushia Mur had started their whole order, giving the hermits of the cave her own Insights of foresight in exchange for an oath of eternal service to her and her friends. The hermits had combined those Insights with their own knowledge of the leyline that lay underneath the cave to allow them to peer into the future. Far into the future.
+
+It was an impressive ability, and all of Ushia’s friends had agreed that it was worth keeping Itonia around - at least until the next ending.
+
+And then we’ll need to really think about whether they're worth the effort to preserve. But no wonder Itonia doesn’t have a martial backbone, they can avoid most stupid dangers. And every time they’re truly threatened a Questor shows up and saves their spines.
+
+Brox shook his head to dispel the musing, zipping across the cave to appear before the seven robed figures who were kneeling in the focal point of the dancing magical energies.
+
+The wind of his movement threw back the hoods of their heavy robes, revealing six surprisingly young faces that glared at him resentfully. The last member of the seers was an older woman who bowed her head respectfully to Brox. She held out a steadying hand to the other seers. “Calm. Broaden your Sight. This is a Questor, and we will answer his questions, regardless of what it costs us.”
+
+Brox arched an eyebrow at the woman, who had to be the head seer.
+
+She bowed deeply at the waist, almost pressing her head against the ground. The other seers followed, though only reluctantly. Their voices sounded as one. “State your questions, and we will answer.”
+
+Then they rose, and the women spoke again. “Three questions. That is all we can muster, for what you will ask.”
+
+Maybe I should have thought through my questions in more detail. Eh, whatever.
+
+“If I go to Gemore, will it be interesting?”
+
+Several of the seers winced at the broadness of his question, but they joined their hands together and closed their eyes as one. Nothing happened for a moment, then the ambient magic in the chamber was sucked into the kneeling seers, who shivered under the strain of conducting so much magic.
+
+Maybe we should give them some more magic Insights. I don’t have any, but I’m sure Sarya’s got a half-dozen that would help them withstand this much mana.
+
+Then the seers opened their eyes and spoke as one. “You will decide the fate of Gemore and Giantsrest both.”
+
+Brox’s eyebrows vaulted towards his hairline. He hadn’t been expecting that. He blinked a few times and reevaluated his further questions. He’d been planning on asking one question about Gemore, one question about Sarya, and one question about wandering on his own. But…
+
+It’s worth being sure. I don’t like any ambiguity in this.
+
+“Do you mean that I will kill Badud and raze Giantsrest?”
+
+The seers showed some relief at the straightforward question, and once more closed their eyes as the magic writhed. But the prognostication was clearly more difficult than they expected. Magic drained into the seers for a solid minute, and they moaned and shivered as they looked into the future.
+
+Eventually the group of mages slumped to the ground, panting. The oldest seer spoke again, her voice thick.
+
+“We saw… the Ascendent Academy shattered, Badud slain. But it was not you that did it. Something beyond fate, somebody prophecy cannot see. But you will make that outcome possible, if you go to Gemore within the week.”
+
+Brox rubbed his chin, considering the answer carefully.
+
+Not just Giantsrest, but Badud killed? Damn, that’d be a first. And not me that does it, but something beyond fate? This is definitely worth my time. Let’s be sure it’s not just a weird edge case they got stuck on.
+
+“How do I ensure Giantsrest’s fall?”
+
+The seers sighed as one, wiping blood from noses and bracing themselves to work their magic once more. The old woman held up her hands. “I will answer this question alone. You all must think upon this experience, and level.”
+
+The other seers didn’t argue, and the woman stood, floating into the air as she channeled what magic remained in the cavern. The cave darkened as every trace of power was used to answer Brox’s final question.
+
+She spoke from midair, her form revealed to Brox’s skill-enhanced eyes. “When armies clash, you must fight Badud in open combat. To the death.”
+
+Then she crumpled to the stone floor, and Brox turned to leave.
+
+—
+
+The Questor stepped out of the cave. He frowned as he looked down at the city of Itonia far below.
+
+Seems like going to Gemore is going to be a real adventure. I wonder if I should call anybody else? Ushia’s not available, but I might be able to tempt Sarya with this, or some others from the local grid.
+
+With a shrug, Brox flashed down the mountain path, quickly passing the pilgrims he’d displaced from the cave and entering the city.
+
+No. If I invite more Questors in, so will Badud. And that would probably invalidate the prophecy. Besides, just think of the glory, to announce I destroyed one of their terrible slave-empires on my own. Well, at least caused it through whomever is immune to prophecy over there.
+
+Brox licked his lips as he glanced around Itonia, stepping toward one of the lounges in this part of town. Even though he preferred Gemore’s martial spirit to that of Itonia, Gemore didn’t have nearly the level of culture surrounding the arts of cuisine and pleasure.
+
+I have a week, right? I’ll stay here for at least a few more days before heading to Gemore.

@@ -1,0 +1,151 @@
+---
+id: 768c83a2-fbec-50ea-9182-e8fd871b2338
+page-type-slug: story-chapter-royal-road
+title: "Chapter 365: Headhunter"
+slug: 0402-chapter-365-headhunter
+partOf: dungeon-of-knowledge-complete
+position: 402
+ownLength: 2510
+unit: words
+ownProgress: 2510
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2568192/chapter-365-headhunter"
+royalRoadId: "2568192"
+markedReadAt: "2026-06-29T20:25:37.561Z"
+---
+
+“Help,” Ali croaked. Behind her, the ominous shadows and glinting blade surged through her remaining minions, reaping lives like wheat. Impossibly, her own domain billowed out of the Gate, pouring into the Temple of Blood and colliding with the death domain in a blaze of mutual annihilation. She ground her teeth, tasting the sudden metal tang of blood as she dragged herself toward the Gate.
+
+Something flickered beside her, and she felt a gentle hand lifting her. “I got you.” A searing burst of magic tore through her body.
+
+You have gained Clarity.
+
+“Malika?” Ali gasped. She hadn’t even seen her friend move.
+
+A roar split the air, followed by a heavy pounding run, and everyone sprang backward as two and a half tons of Carnage Berserker leapt through the Gate, tucking his head and curling up into a ball just to fit his massive bulk through the four-meter diameter circle. He hit the ground hard enough to bounce Ali into the air and rolled to his feet, axes swinging.
+
+Ethereal laughter echoed all around as Tol’brekk strained against the limits of his domain attachment, striking out again and again into the dense shadows. Mana flickered in rapid bursts, Spirit Walk, Blood Shock, and the massive surges of domain mana as both raid bosses tore into each other in an explosion of blood and steel.
+
+Malika’s magic had muted the pain, but it was still there, searing through her mind and body. Dungeon rage should not be possible – spatial magic did not admit mana. Everything she had read about Gates insisted on it, and she had personally tested it with the Abyssal Rift.
+
+As the red mist flowing from Tol’brekk’s enormous muscles deepened to match the dark shadows, Ali found herself able to ignore the pain as her boss’s rage leaked through her Martial Insight connection.
+
+“Can you fight?” Malika asked.
+
+Fight? Ali glanced up to find that Mato and Calen had already leapt through the Gate, and she could hear the bear’s roar and see the traces of incandescent arrows. “Y…yes,” she managed. “Should we run?” she asked, finding her voice.
+
+“I think we can take this,” Malika said, helping her to her feet. “It’s an assassin, and we’re stabilizing the fight. Bring the rest of your minions.”
+
+“Ok,” she said, finding the presence of mind to begin thinking once again. Reaching for her waiting minions, she called, “Come!”
+
+Ugh. Her mind hovered somewhere between the pain and the rage, committing to neither, but also not entirely clear as she tried to make sense of the battle. Tol’brekk had just used Blood Vortex and was ripping through the shadows as if seeking out his enemy by filling the entire space with blades. His rage grew as he continued to spend his health freely.
+
+As soon as Ali reassured her, Malika shot off to join the melee.
+
+Motes of light burst forth from Calen, and suddenly, the strangely painted assassin troll appeared, leaping toward the broad muscular back of the berserker. Arrows flew while Malika suddenly appeared in the air beside them, but the white blade flickered, accelerating to a ridiculous speed, burying itself between his shoulder blades. Tol’brekk roared in pain, and his blood painted the air crimson.
+
+The berserker leapt, swinging his axes in a vicious arc and the assassin’s ribs crunched as he flew sideways across the clearing, smacking into a building and knocking one of the few stone walls that remained standing down, but from within the cloud dust and the rubble, Ali saw a familiar death-affinity formation followed by a spherical blast-wave of darkness that instantly cleared the air, leaving only the shimmery remnants of Spirit Walk behind.
+
+Wait… was that Death Rupture? Did he just heal?
+
+The assassin suddenly appeared above the berserker again, stabbing downward into his eye. Tol’brekk threw him off, smashing him to the ground, but the assassin twisted away, flipping across the ground to shimmer into the spirit realm once more. An instant later, he reappeared to drive a massive domain-enhanced flurry of dagger strikes into the giant berserker, sending him crashing to his knees, stunned by the repeated Blood Shock.
+
+Then, to her horror, he fell forward, hitting the ground with an enormous crash.
+
+Your Carnage Berserker has been defeated.
+
+Holy crap! Ali’s mind froze at the sight of her most powerful minion lying dead on the ground. Then, the painted undead assassin tore through the courtyard amid a whirling maelstrom of dark blades of blood, ripping through Ali’s forces as they sprang through the Gate.
+
+“Mato, you tank him here. Malika, help me chase him down in the spirit realm.” Calen’s calm voice cut through her shock and surprise, waking her to the full fury of dungeon rage. But her mind was acclimating to the pain, well at least enough to allow some rational thought. “Ali, if you can, find a way to pin him down. He’s slippery, and he has far too many skills.”
+
+He just used Blood Vortex. How is that even possible? Ali took a moment to think. From the beginning, the undead assassin had been using three simultaneous attack domain magic skills every time it targeted one of her minions. He was obviously using stealth and Ambush to great effect, and freely abusing Spirit Walk to regain stealth in order to reuse his Ambush again and again. But where had the Spirit Walk come from? The monster was a shadow-affinity undead, and Spirit Walk was a soul-affinity skill. Or, for that matter, how was it even using Blood Vortex or Blood Shock? And she was certain it had used Death Rupture, a spell she’d only ever encountered once – in the repertoire of her Death’s Acolyte Kobolds.
+
+And then it clicked.
+
+“He steals skills from whatever he kills!” Ali shouted as five copies of Calen returned from the spirit realm with arrows and Motes of Light flying everywhere.
+
+“Aah, that’s what that is,” Calen said, pressing his lips into a firm line. “Get rid of the weaker minions and bring some more healers. We can’t afford to let him take more skills.”
+
+Mato roared as Calen exposed the assassin, and it turned to stab him with its unnaturally long dagger.
+
+Ali panicked, but although the blade sunk deep into Mato’s shoulder, he still landed a shattering strike with black claws that trailed void magic blacker than shadow. Roots exploded from the ground around them as they exchanged high-speed retaliatory strikes.
+
+An Acolyte of Azryet leapt through the gate, having finally made it, one of the few unbound healers she had left in the Challenge Arena, and it began healing Mato immediately. Shit, another low-level minion. Ali immediately bubbled the kobold – she needed the healing and couldn’t afford to send him back.
+
+The assassin shimmered, using Spirit Walk to escape from Mato’s grasp, and as soon as he did, Calen vanished from sight. Ali tracked his mana-copying movement skill as he chased it across the realms.
+
+Oh, that’s what they’re doing. She could see into the Spirit Realm with several ghostly spiders, and she found Malika standing there with her eyes closed. Suddenly, she spun, and her fist shifted into four echoes, punching toward an empty space. The assassin appeared with a crunching of bone, doubled over from the potent strikes that had been Rezan’s gift to Malika.
+
+While she traded blows with the troll, Calen suddenly unleashed his attack, an arrow brimming with so much power that Ali struggled to even look at it through the senses of her minions. The boss immediately fled to the real world, only to be met by Mato’s roar and sweeping claws. It was a strategy they had perfected in Aman Rak, pinning witch doctors between realms so Calen could wipe them out with Ambush.
+
+But this time, there was a flaw in the plan. The boss had stolen Death Rupture which was healing it every time he used it. The battle had stabilized already, but it was also a stalemate.
+
+Ali cast around, but she was down to the dregs of her free minions. She had Kir’mogan almost at the Gate – the one Bone Warrior that was at a high enough level to have the Mortal Wounds advancement, which might reduce the effectiveness of the healing gained from his stolen spell. But it was next to impossible to pin this assassin down – not even Mato’s roots kept him in place because he could simply escape them into the Spirit Realm or with his stolen Blood Vortex.
+
+Should I resummon Tol’brekk?
+
+While she racked her brains for a solution, she summoned another healer. If this was a stalemate, Mato was going to need more healing, but she decided to be smarter and summoned a Sacred Ooze – a minion that at least had no critical body parts and was therefore virtually immune to the worst effects of Ambush or critical damage. It also had no blood for Blood Shock to affect, and against the stolen Blood Vortex, her slime could just crawl into a hole or flatten itself against the ground. It was also very fast to summon the simple monster.
+
+“Ali?” Calen asked. “We need something.”
+
+“Thinking,” Ali said, reactively tossing out barriers with a fraction of her awareness. She studied the Temple of Blood, searching for anything she might use for inspiration, but all she found was jungle, rubble, and… Her eyes fell upon the packed and stained dirty ground and the thing that she was staring through without seeing. Her own domain billowed through the area, dense and strong. The very same thing that caused the splitting headache of dungeon rage.
+
+I can make a boss.
+
+The instant she thought it, her Grimoire flared to life. She spent Arcane Recall to accelerate the summoning to instantaneous.
+
+Subterranean Brood Queen – Rock Beetle – level 84 (Earth).
+
+Ali flew out and touched the enormous carapace of the Subterranean Brood Queen, binding her to her domain. She needed to work with all her speed.
+
+Domain Respawn applied to Subterranean Brood Queen.Raid Domain Enhancement applied to Subterranean Brood Queen.Affinity Aura (Earth) applied.Nova Strike (Boulder Strike) applied.Amplify Skill (Rock Armor)
+
+Ali still hadn’t tested the earth-affinity aura she had picked up from her last visit with Naia, but the little mimic slime had described how it worked – and if it was like she had said, it might just be the key that turned this fight.
+
+Domain Enhancement complete.Your reserved mana has increased by +747.
+
+The Subterranean Brood Queen hissed loudly as her body grew larger and denser, drawing up enormous amounts of the billowing domain mana. Earth-affinity mana rolled out from the giant beetle’s carapace, filling the Temple of Blood with a heavy weight and the smell of a freshly tilled field. The ground vibrated, and rubble drifted upward to hover ominously in the air, humming with suppressed power.
+
+The Queen dove. The massive bulk of the beetle, larger than some of the ruined buildings from the temple, suddenly vanished into the earth without a trace, but Ali, connected as she was to its awareness, could tell just how many Borer Beetles it was summoning as it lay in wait down below.
+
+“What did you do?” Mato asked.
+
+“Raid boss,” Ali answered.
+
+“… seriously?”
+
+Calen interrupted them with a devastating Ambush within the Spirit Realm that drove the painted assassin back into the mortal realm. It ran straight into the waiting void claws of an angry bear. Roots burst from the ground, grappling with the troll’s legs, tearing at the undead flesh with thorns longer than Ali’s palm.
+
+The courtyard rippled like water, and the assassin’s legs sank into it up to his knees. Rocks that had been hovering began to swirl like a giant whirlpool. Like a breaching whale, the enormous form of the Brood Queen burst from the rippling dirt in an explosion of rock and a swarm of crawling Rock Beetles.
+
+“Kir’mogan, go!” Ali commanded, sending her only remaining Bone Warrior into the fray.
+
+“It will be my pleasure,” he purred, charging forward and leaving trails of bone spikes in the ground. His axe blurred, slicing into the back of the assassin.
+
+“Mortal Wounds is up,” Ali called out.
+
+Mana surged as Calen appeared, simultaneously triggering Righteous Fury along with his unleashed Power Shot and Ambush combination. Soul magic played a softer descant in the background, and Malika appeared, fists blurring with speed as she hammered a flurry of blows that seemed to connect with every joint and pressure point.
+
+But Ali didn’t have a shaman left for Bloodlust, nor did she have a witch doctor to send Kir’mogan to the spirit realm, so when the assassin finally used Blood Vortex to break free from the Brood Queen’s grasping earth-affinity aura and escaped to the spirit realm, only Malika and Calen followed.
+
+It took them all of fifteen seconds to flush the assassin back into the real world, where Ali’s brood queen ambushed him from below, grappling him with treacherously liquid earth that hardened around his legs instantly and hammering him with an airborne avalanche of flying rubble.
+
+Death mana flickered within the undead Assassin, and Ali Disrupted it immediately, having seen the Death Rupture spell far more times than she could count. Just in time, she thought, as the trapped assassin found himself unable to dodge Kir’mogan’s wicked bone blade and the deadly Mortal Wounds.
+
+Another formation flickered within monster, the telltale signature of holy-affinity mana making Ali’s eyebrows crawl up over the top of her head as she recognized her Acolytes’ Heal spell.
+
+How the fuck is an undead using holy magic? She scrambled for Disruption, but it was still recharging from denying the Death Rupture.
+
+The healing spell completed, but the Assassin howled in agony as white smoke billowed up from his back and shoulders and his health took a dive. Ali took a deep breath of relief and then coughed as she got a whiff of the acrid stench of smoke and burnt undead flesh.
+
+Ali hung on, anxiously hiding within her barrier for several cycles of back and forth through to the spirit realm before the fight began to snowball. With the combination of Mortal Wounds and her Disruption, they slowly began to whittle down Assassin’s health. But as more and more time passed, Ali summoned more minions, and the steadily mounting power of Malika’s relentless soul magic became the weight that ground the assassin into dust.
+
+Suddenly, Malika appeared from the spirit realm, eyes glowing with an intense blue-white radiance, trailing visible streamers of leaking soul magic. Her attacks hovered just at the threshold of incomprehensible speed, almost too fast to even understand. Strikes landed with blasts of soul magic that were so intense as to be visible to the naked eye, rapidly piercing through the undead assassin like Lydia’s needle, shattering rock and stone behind him – small craters that were quickly erased by the earth-affinity aura of the giant Brood Queen swimming through the courtyard like a hungry shark.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

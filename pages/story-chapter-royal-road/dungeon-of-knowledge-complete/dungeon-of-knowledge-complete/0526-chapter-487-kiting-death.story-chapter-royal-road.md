@@ -1,0 +1,141 @@
+---
+id: fd4c4c1c-9d1a-584b-810d-8c090e5d73a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 487: Kiting Death"
+slug: 0526-chapter-487-kiting-death
+partOf: dungeon-of-knowledge-complete
+position: 526
+ownLength: 2534
+unit: words
+ownProgress: 2534
+publishedAt: 2025-12-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2881949/chapter-487-kiting-death"
+royalRoadId: "2881949"
+markedReadAt: "2026-06-29T20:30:06.874Z"
+---
+
+No wonder that thing was so ridiculous, Calen thought, staring in awe at the skill list Ali had just shared for the Grim Spark boss that had given them so much trouble.
+
+It’s a Sleeper!
+
+Lyeneru had warned him about the so-called ‘sleeper’ monsters. So had Nendir. Sleepers were one of the many ways experienced dungeon delvers died. A monster with a rare combination of skills, attributes, or abilities that pushed their challenge rating so far outside of the norm that they couldn’t be reliably assessed by class level. Only with advanced threat assessment perception skills could the danger be revealed. Something like Mato’s Survival Instinct, for instance.
+
+Like Explorer. He had not forgotten the intensity of his premonition when he had first seen what had to be the mana trail of Grim Spark shooting across the dungeon; that sensation was burned indelibly on his psyche.
+
+Without the sheer resilience of Malika’s monk defenses, the power of her relentless aptitude, and Ali’s uncanny resourcefulness, they would have died in seconds. Sure, they had escape potions and talismans, but when he applied the realistic and objective assessment Lyeneru always insisted on, he knew they would likely have been worthless. Grim Spark’s damage output was so gigantic and so sudden, they probably wouldn’t have had time to react.
+
+Name: Grim SparkRace: UndeadTitles: [The Quick]Active Buffs: Fetish Potency, Haste, Boss, RespawnClass: Bone Fetish – level 204- Stab – level 133Stamina: Melee attack for weapon damage +2403% [skill + strength].Critical strike chance is doubled against living targets.Physical, Melee, Dagger, Strength- Dagger Mastery – level 117 (+5)You are proficient with a dagger. Your reaction speed is enhanced. Critical strike chance is doubled when attacking from behind.Stamina: Duplicate a Melee, Physical, Dagger attack to strike up to 6 [1 + skill / 20] different targets simultaneously.Physical, Melee, Area, Mastery, Dexterity- Haste – level 88Mana: You have 293.3% [skill + intelligence / 10] Haste. Reserve: 45%Lightning, Movement, Haste, Intelligence- Lightning Hex – level 75Mana: Whenever you deal Physical or Lightning damage, you can curse your target with Lightning Vulnerability. Duration: 30 seconds.Lightning, Melee, Curse, Intelligence- Fetish Potency – level 102Stamina: Your Strength, Dexterity, and Intelligence are increased by +205.6% [40 + skill + base strength / 10]. Reserve: 20%Physical, Buff, Strength- Lightning Strike – level 90Mana: Enhance a Melee attack to do additional Lightning damage. Trigger Lightning Nova on dealing Critical Damage with the supported Melee skill.Lightning, Melee, Area, Intelligence- Lightning Leech – level 72 (+5)Gain 8.8% [4 + skill / 15] of your Lightning damage as health, stamina, and mana over 30 seconds.Lightning, Melee, Mastery, Intelligence- Bone Seer – level 89 (+5)Requires: Haste.If you are faster than your opponent, you can perceive weaknesses in their attack and defense.Your Critical Strike chance is increased proportionally to the difference in your relative speed.Your chance to block or evade Critical Damage is increased proportionally to the difference in your relative speed.Lightning, Mastery, Perception- Resilience of Bone – level 100You take half damage from Slashing or Piercing attacks.Stamina: Block or deflect a Physical attack, reducing damage taken proportional to dexterity and skill. Blocked attacks cannot cause critical damage.Physical damage is reduced by 277 [dexterity / 10].Your Evasion is increased by +6242 [skill x 7 + dexterity x 2].Physical, Defense, Dexterity- Lightning Teleport – level 43Mana: Instantly transport yourself to a nearby location. Trigger a Lightning Nova at your original location. Range: 34.35 meters. Recharge: 10 seconds.Lightning, Area, Movement, IntelligenceDomain Magic- Damage Multiplier: x2 to all attack and spell damage- Retaliation Trigger (Lightning Nova)- Spell Cascade (Lightning Nova)Aptitudes- Lightning (Affinity): +125% spell power to Lightning magic- Damage Absorption (Racial): Death damage is absorbed as healing- Immunities (Racial): Poison, Lightning- Vulnerabilities (Racial): +50% extra damage from Holy- Horde (Racial): +5% Haste per attacking Undead ally- Regeneration (Racial): +450% health regeneration. Holy damage cannot be regeneratedAttributes- Vitality: 515 (+89)- Strength: 2270 (+1634)- Endurance: 337- Dexterity: 2771 (+2105)- Perception: 239- Intelligence: 2053 (+1491)- Wisdom: 431 (+132)Equipment- Weapon: Dragonbone Carver – level 195- Head: Sigil of the Lich: Delirium – level 204- Ring: Charged Band of Electrocution – level 200Armor: 2937Physical Damage Reduction: 33.95%Evasion: 8690Dodge: 60.33%Resistance: 2448Magical Damage Reduction: 30%+23% to Attack speed.+120% Spell power to Lightning skills.Health: 25750/25750Stamina: 13480/16850 (3370 Reserved)Mana: 11036/21550 (10514 Reserved)
+
+Calen stared at the sheet Ali shared for several minutes in shocked silence. Everything about the lightning-affinity Bone Fetish was aligned around damage and speed. Its haste was frankly unreal, and the damage it could do with its primary dagger strike seemed worthy of the most powerful assassins he had ever seen: critical strike chance doubled against living targets, and doubled again when attacking from behind. Worse, it could stab six targets at a time with a melee version of his own multishot.
+
+The ridiculousness only started there, compounding damage upon damage with the incredible synergies of its skills and items. Its domain magic retaliated with Lightning Nova whenever it was hit, and Spell Cascade duplicated each Lightning Nova twice more. Lightning Leech meant it was gaining substantial health, mana, and stamina from all lightning damage, making it nigh impossible to kill. Like his own usage of leech, the diminutive undead monster did not have a large mana pool, but it didn’t need it – it would simply refill continuously from lightning damage.
+
+To add insult to injury, the Charged Band of Electrocution would trigger additional lightning damage in the form of Shock on any hit, while simultaneously boosting all lightning damage by one hundred and twenty percent.
+
+“It would be hard to make a more efficient, deadly monster if you tried,” Calen finally observed. There were additional synergies, such as the Lightning Nova proc every time it dealt critical damage, which would again be duplicated by its domain magic. But it was the Sigil of the Lich that sealed the deal. The Delirium runic tattoo had been spewing Panic and Confuse procs multiple times a second, and without Malika’s potent mental ward, they would likely have spent their remaining few seconds of life killing each other or cowering in fear.
+
+“I’m taking notes,” Ali said.
+
+“Aah, yes,” Calen said, leveling a startled glance at Ali for a moment as the import of what she’d just said sank in. Yes, that’s moderately terrifying. Fear the dungeon… my friend.
+
+Carefully, shaking off a shiver of unease, he noted every detail down in his notebook, along with all his observations. This monster had been deadly, opening his eyes to a new horizon of danger that dungeons could wreak upon the living.
+
+No, there was no way he was forgetting the sensation of that premonition of danger Explorer had shown him. Not if he wanted to live.
+
+Aliandra’s attention was drawn once again to the darkness and death that marched across the Plaza.
+
+Across the open expanse of dark stone and silvery runic inscriptions, Death Knights of various affinities and types patrolled in groups of two or three, and on the sidelines were perched two eerie skeletal frost dragons, their rime-covered bones leaking powerful ice mana into the surrounding area.
+
+Powerful mana-infused runes flared with domain magic, and several Death Knights simply vanished, flung with the monumental power of a domain-assisted teleportation array to locations unknown.
+
+A sudden thought latched onto her mind with an undeniable certainty. Is this another Death Knight factory? Something about the magic reminded her of the arrays she had found in Aman Rak, not to mention the sheer number of Death Knights and the teleportation array that was likely sending reinforcements for the Blind Lich’s army. But where do the souls come from?
+
+In the center, towering more than a head and shoulders above all others, stood a Devastation Knight of such gigantic stature she could scarcely believe it. She had to do a literal double-take, checking her perceptions by using her Eye of Agnor for another angle and with superior vision. Taller than most of her trolls, its broad shoulders bore heavy, mithril-spiked pauldrons that perfectly matched the gleaming, rune-inscribed breastplate encrusted in a thick layer of dark blue ice. Its head was covered by a massive plate helm, and two dancing sparks of unholy blue light glared out of a dark horizontal slash at eye level.
+
+Haverron [The Devastator] – Undead Dragonkin – level ??? (Death / Ice)
+
+Even at this distance, Ali was subjected to the cold prickling of magical fear clawing at her mind and saw the sheer density of the waves of dungeon mana billowing from the great Death Knight’s body.
+
+“Dual affinities, death and ice,” Ali whispered, careful to keep her voice low and quiet.
+
+“Do we have any idea of its abilities?” Malika asked.
+
+“None,” Calen answered.
+
+“The living cannot hide from my sight.”
+
+The voice bore down upon her like the weight of a falling mountain, crushing her mind and grinding down her will with overwhelming terror and despair. Ali gritted her teeth and braced herself.
+
+I… will not… be intimidated!
+
+She drove the unnatural terror from her mind with the sheer force of her willpower.
+
+“They are cowards, cowering in the dark, unfit for my blade. Bring me their corpses. The Master has need of foot-soldiers for his armies.”
+
+Ali shivered as the icy contempt blasted out across the plaza like the sound of a glacier cracking.
+
+No, you don’t! Ali gritted her teeth. After all, she’d faced the Blind Lich himself. This was nothing compared to him.
+
+A soft pulse of soul magic rippled outward from beside her.
+
+You have gained Clarity.
+
+But the easing of the pressure upon her mind was only a brief respite as, across the entire plaza, every last Death Knight turned, and Ali suddenly found herself transfixed by the chilling glare of countless eerily glowing undead eyes.
+
+As one, they all began to advance.
+
+“Aah, run!” Calen yelled.
+
+Calen sprinted as if his life depended on it. Hot on his heels, charging down the otherwise deserted street of black stone, lit only by the silvery light of mithril runes and their magical auras, was an implacable horde of Death Knights.
+
+You have been cursed with Damage Reflection.
+
+While he was fast enough on his feet, his flight had long surpassed his running speed. Unfortunately, if he flew at any reasonable height, the frost dragons wheeling overhead would get him, and if he wasn’t on the ground, the Death Knights would quickly lose interest and go find other targets. His friends.
+
+He drew Cinderstrike’s bowstring and conjured a full volley of arrows made from pure light, waiting for the moment he would pass the cross-street – mere seconds at his current speed. The three decoys that sprinted alongside him perfectly mimicked his actions.
+
+Just a little more, he thought, dodging suddenly to the left as a bolt of ice swished past his ear, shattering against the stone of the building beside him and showering him with a burst of frozen slush. A bolt of death magic clipped a decoy’s arm, and it evaporated with a shower of mana-sparks. He resummoned it immediately, choosing not to take the opportunity to go invisible. That ability he intended to hold in reserve just in case something went horribly wrong.
+
+Damage Reflection was terrifying for anyone who did physical damage. Fortunately, he had options. He could conjure magical arrows, and Cinderstrike’s primary enchantment converted all physical damage to fire.
+
+As soon as the corner loomed darkly before him, he veered sideways, loosing his entire volley of arrows, enchanted only with pure magical energy, back down the street at the encroaching waves of undead. He had just a fraction of a second to observe his arrows punching through the Death Knights, leaving flickers and blasts of explosive fire and light in their wake. More importantly, several were snagged by chains of light, and more received Cinderstrike’s signature Slow curse. The bulk of the group began to fall behind.
+
+You have been cursed with Lightning Vulnerability.
+
+Calen ignored the incessant curse messages. If he ever got close enough to that horde for those curses to matter, it would be all over for him.
+
+“We’re done, bring the next set.”
+
+Mato’s voice came to him as he shot down the new street, kiting the Death Knights behind him. He chose not to think about it too closely: the sheer audacity of their plan. Faced with so many Death Knights, he had simply reacted, shooting at all of them and charging off down the endless dark and winding streets of Mi’ir Valdanis.
+
+You have been cursed with Life Tap.
+
+And now they were ready.
+
+He darted down several alleyways, dodging around corners and making his way closer to where his friends lay in wait, shooting regular volleys of arrows of pure fire and light behind him to keep his pursuers slowed. With the map of the city ruins clear in his mind, he picked a corner two blocks away from his friends to lay his trap. He gathered himself and jumped high, using his old favorite kiting maneuver, spinning backward in the air, and fired.
+
+Nine arrows of light made a brilliant flash that streaked down the street, illuminating centuries-darkened rooms through strangely shaped doorways and windows. They ripped into the lead Death Knights, punching through armor and ancient twisted undead flesh before passing through and into the ones that followed. And in their wake, they left explosions and chains of light binding them to the ground.
+
+Fuck, he thought as he saw which Death Knights had avoided his chains. One regular ice Death Knight, and two Devastation Knights, each possessing the death affinity. Ali can only Disrupt one.
+
+But there was nothing he could do about it. Grappling Shot was on recharge, and he was far too close to change course. He sprinted around the corner and into the waiting gauntlet of Ali’s minions and Mato’s ferocious claws.
+
+“Two devastations!” he shouted as the three pursuing Death Knights tore around the corner, brimming with offensive magic and terrifying auras. But his worry was all for naught.
+
+Malika simply pointed at him and shot a blast of soul magic that pierced his chest.
+
+You have gained Clarity.
+
+And Ali… well…
+
+“Banish that one,” Ali declared, and her insane champion witch doctor cackled as she cast the magic.
+
+Calen saw it shimmer, twisting away to a gray shade of itself as his vision showed him the unfortunate Devastation Knight temporarily stranded in the spirit realm. Then the tiny golden darts shot outward, piercing the second Devastation Knight before it could even cast its curse.
+
+Obviously! I should have known better by now, he thought, grinning as he turned on a dime with his wings flaring before he sprinted back the way he had come. This part was always the trickiest – he would need to be fast if he wanted to get back to the horde and pull them away from his friends before they noticed. He retrieved a stamina potion, not comfortable risking the chance of missing Slow on one of the Death Knight horde – they were incredibly fast when they hunted.
+
+Time for round eight. Or was that nine? Suddenly, remembering his abject terror upon first encountering a Death Knight, he began chuckling to himself. Bring me that experience, you clattering fools!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

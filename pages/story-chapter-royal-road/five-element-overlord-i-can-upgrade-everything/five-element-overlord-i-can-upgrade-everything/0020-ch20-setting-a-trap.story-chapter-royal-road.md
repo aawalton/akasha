@@ -1,0 +1,113 @@
+---
+id: 084c87d7-9d49-5cb5-964b-bad260a7e89f
+page-type-slug: story-chapter-royal-road
+title: "Ch20 Setting a trap"
+slug: 0020-ch20-setting-a-trap
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 20
+ownLength: 1267
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211927/ch20-setting-a-trap"
+royalRoadId: "3211927"
+---
+
+I need to stay lowkey, but the urge to test my newfound strength is still present. I can feel the newly expanded energy pathways, and raw power coursing through me. It feels like I could lift 500 kg if I put my all into it.
+
+My vision is much sharper, able to focus on blades of grass with morning dew dripping off them over 20 meters away.
+
+My hearing has become so sharp that even the footsteps of my neighbor Xu Hong almost 500 meters away can be heard as she chops wood. It is not just the heavy slams of her axe that hit my ears.
+
+The shifting branches and shuffling in the brush of two mysterious stalkers is far easier to track. I can see their shadows out of the corner of my vision every time I turn my head. They are not close enough for me to feel their auras.
+
+My spiritual senses have increased dramatically, from no more than half a meter yesterday to now pushing out almost 3 meters in every direction.
+
+This sensation is not detailed at all in the basic qi cultivation booklet granted by the sect. Instead, all I know about it comes from my intuition gained from the Jade Purity Soul Scripture. After reaching the 2nd level of qi refinement, its basic functions have become very clear.
+
+Even with my eyes closed, I can see everything within about 3 meters of myself: The exact location of floating qi particles, every blade of grass, and even the worms and insects beneath my feet in the dirt.
+
+It is like perfect x-ray vision.
+
+The stalkers are way out of my spiritual range, so I can’t see what they look like, or how strong they are. I have to rely on my natural senses.
+
+A whole day of chopping wood passes, and I hand in my two bins' worth of logs without an issue.
+
+However, an unexpected notification rings in my inner ear when I get near Zhou Kang today.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+His whole status pops up, but I only focus on the text box at the bottom.
+
+[Has paid two fellow stewards to watch the Host’s every move. Plans to eliminate the Host once his stash of spirit stones is found.]
+
+As the old man leaves, and his sharp aura recedes with him up the mountain, I start to contemplate a few things.
+
+When I wasn’t refining qi yet, the system would only show this function when I made physical skin-to-skin contact. Yet, when I was a 1st level qi refiner, it even activated when I was half a meter away, clashing axes the first time with Xu Hong.
+
+Now, almost 3 meters away, as Zhou Kang threw me a spirit fragment, this notification was triggered.
+
+I can inspect anyone within my spiritual awareness… and this will only grow larger. After this realization passes, the actual content of the text box sinks in next.
+
+It is actually a sigh of relief that comes out. The stalkers are merely grunts like Zhou Kang, looking to satisfy their greed over the few spirit stones I lied about finding.
+
+Deep in my heart, I was dreading that maybe someone had discovered something about my battle with the black serpent… or worse, that somehow someone found out about my upgrade cards.
+
+Thankfully, now that there is no longer any mystery, I can deal with this without holding back.
+
+–
+
+Over the next 3 days, I stack more and more upgrade cards, bringing my total to 10 in my storage.
+
+There is a pent-up anger growing in Zhou Kang.
+
+In order to entice him further, I even comment that the pills he gave me are working well, after cutting out the impurities.
+
+He smiles on the surface, but the sharp aura of rage in his heart grows.
+
+The old man doesn’t take it out on me. Instead, he beats my neighbor relentlessly.
+
+Despite me not interfering in her nightly wood chopping, Xu Hong’s spirits have been low, and she can only chop a little over 3 bins' worth recently.
+
+Even when she works herself harder and meets the quota, Zhou Kang doesn’t acknowledge it. He just wants to beat the happiness out of someone else because he can’t have it himself.
+
+The pressure of the eyes on my back while working every day has become more intense.
+
+Today, after beating Xu Hong unconscious, far worse than I ever left her, Zhou Kang asks me, “Hey Junior, I’ll be able to get you another batch of pills soon if you want. What do you say?”
+
+While tensions are high, I think now is the perfect time to set a trap.
+
+“Really, you can, Senior?” I reply, letting out fake excitement. “I found some new stones yesterday morning, so maybe if I go searching in the stream again I can bring you even more. Count on 5 stones tomorrow.”
+
+The sharpness in his aura increases drastically, and a grin curves onto his face. Obviously, his men were watching me and know I found nothing yesterday. “Good, good. Until tomorrow, Li Hao.”
+
+–
+
+The familiar moans of pain echo through the night as Xu Hong drags herself to bed after waking up hours later.
+
+At this rate, I may have to carry that purple-haired woman’s lifeless body to the Ravine like I did Tang Min. We could have lived peacefully together… She started this feud by trying to focus this old man's rage on me instead.
+
+By morning, the moans cease, but she is not chopping wood early like me.
+
+I use a few upgrade cards to create some spirit stones, hiding them away in my storage for later, then follow through with my routine like any other day. Yet, I make sure to stack up far more than usual wood during the first half of the day, making it seem to my stalkers like I’m in a rush to finish.
+
+Well after noon, my normal time for going to the stream, I head there once all of the wood quota is chopped.
+
+The sound of extremely low muffled whispers hits my ears once I make my way to the stream, just an hour before dusk.
+
+They watch me from behind, about 200 meters away, never getting closer.
+
+That is, until I arrive at the water’s edge, and start looking over my shoulders before lifting up a large slate stone.
+
+Truthfully, there is nothing beneath it, but I let two spirit stones fall out of my storage and place them beside me on the stream’s edge. A few seconds later, I go digging through the mud in the same spot and pretend to pull out another two stones.
+
+Four shiny white-hot spirit stones rest on the shore, and I hear the whispers grow louder once I reach into the water of the stream a third time.
+
+I take extra long to fish out the 5th stone, then dry off my arm on my shirt and pants.
+
+At the same time, the whispers in the nearby brush cease. I hear the two figures slowly make their way toward me, no longer bothering to conceal themselves.
+
+When I turn around, and finally see them approaching less than 50 meters away, a third figure catches up from far behind.
+
+He looks slightly out of breath, like he ran here from a long way. However, the angry yell of Zhou Kang echoes loud and clear in my ears.
+
+“Do you think you can hide treasure from me that easily, Li Hao!?”

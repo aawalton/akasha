@@ -1,0 +1,227 @@
+---
+id: 2687f211-1354-5444-8b40-e0a1178e8a36
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: A Bubble of Flame"
+slug: 0026-chapter-11-a-bubble-of-flame
+partOf: ends-of-magic
+position: 26
+ownLength: 3051
+unit: words
+ownProgress: 3051
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2509191/chapter-11-a-bubble-of-flame"
+royalRoadId: "2509191"
+markedReadAt: "2026-06-29T20:08:06.240Z"
+---
+
+“What’s smothered your fire?” Sarah asked, observing Nathan’s suddenly downcast expression.
+
+He grimaced. “My tutoring skill. It just developed into an unambiguous social skill. ‘Listeners will understand your explanations and feel that what you say must be accurate, even when they would normally not be persuaded.’” Aside from some exchanged glances, his friends’ reactions were pretty muted to the revelation. He'd been expecting anger and disgust.
+
+Stella waved his concern away. “We follow your light regardless, and have since we began our journey.”
+
+Nathan looked around at the rest of the Heirs, searching for reservations. “I’ll be careful in using it. I don’t want to unilaterally dictate what we do.”
+
+“Speak the truth, and your skill will not harm us,” Khachi said, words deliberate and thoughtful.
+
+Nathan rubbed his neck uncomfortably. “But if I’m wrong, I need somebody to argue against me. I won’t always be right, and if you can’t tell me when I’m being an idiot, then some stupid plan is going to get us all killed.”
+
+“Our mental protection skills should let us bear that weight.” Aarl’s voice was wry. "Just hear our objections the first time."
+
+Stella waved her hands to reclaim his attention, seeming not to care much about his disclosure. “Let us speak of the danger behind these Insights of fission and fusion. How could a spell cause either, and what are the dangers?” Her eyes flicked back to the periodic table he'd been holding. “It seems either could provide a powerful spell, but which is more suited to safe spellcasting?”
+
+Upon seeing that nobody else was going to raise any objections to his new skill, Nathan turned his attention to the more pressing problem. “The next thing to explain is the different kinds of radiation. They’re each dangerous in their own way and require their own protections. Both fission and fusion produce all sorts of radiation and that’s how a lot of their energy comes out. Fission would take less energy and cause smaller explosions, so it would be safer in that regard and easier to experiment with. But it’s got one significant problem, in that it tends to create deadly and long-lasting fallout.” He hesitated, not confident in his next words. “We might be able to figure out a fission spell that didn’t cause fallout, but fusion reactions don’t produce any, at least if you’re using light elements like hydrogen and helium.”
+
+“Fallout?” Stella asked, sounding out the last word. “What is that?”
+
+“I mentioned that many elements could exist at multiple weights, but some of them are only kind of stable,” Nathan replied. “For the heavier elements in particular, there are a lot of allowed versions that are only kind of stable, and they’ll break down and continue the nuclear reaction over days or years. If those get inside your body first, then they’re incredibly poisonous. They’ll burn you with radiation from the inside.”
+
+“Ah,” Stella said, whetting her lips nervously. “Years. That’s the spell that the Esebus soldiers were using?”
+
+Nathan nodded. “I think I understand their spell a bit, and it’s possible - even likely - that they were using a version that doesn’t produce fallout. But I don’t know how to tell if they were, or how to be sure that we aren’t. That's why I took us away so quickly. I don't know if I can replicate a safe fission reaction, so let’s stick to fusion.”
+
+“And radiation?” the mage asked, focusing on him. “That’s the danger of Dalo’s spell? The reason he insisted that anybody who saw it was healed?”
+
+“Most likely,” came Nathan’s thoughtful reply. “There are three primary forms of radiation and a few secondary ones. The big one we need to worry about is gamma radiation, and I think I mentioned it when we talked about light. All it is is incredibly high-energy light. Much stronger than anything your lasers can produce.”
+
+Stella’s eyes narrowed as she absorbed that. “I know blue light holds more energy than red, and some light is invisible and even more dangerous - but why can’t a laser spell make gamma radiation? I could simply make it more powerful.”
+
+Nathan absentmindedly answered her question, trying to figure out how to explain particle radiation. “Ultimately, what we’re doing in your lasers is electrically exciting a gas and then amplifying the energy it emits. That can’t emit gamma radiation because they’d rather emit more radiation of a lower wavelength. There’s a cap on how powerful a photon released in that process can be, and it’s weaker than gamma.”
+
+“But light mana can still control gamma light because it is a photon.” Stella was thinking out loud as much as anything else and started sculpting reflective spheres of mana. “Will this work?”
+
+Nathan probed the spells she was trying out, trying to decide if it was up to the task. “We’ll need to test those spells. I think they’ll work, but there’s no nonmagical way to reflect gamma rays since they'll go right through a mirror. The only way to block them is a whole ton of mass. Being able to reflect them would be something unique to magic.”
+
+Stella shot him an unamused look. “I should be able to carry that weight, but we’ll test it. What of the other kinds of radiation?”
+
+“Alpha and beta. Both are charged, so electromagnetic shielding should work. Alpha is just a helium ion moving fast and should be very easy to block that way. Beta is a bit harder - it’s just an electron, but they tend to be going very quickly, so they're hard to stop, but a good electromagnetic shield should work. The secondary kinds of radiations are protons - so just a small positive charge - and neutrons, which might be the hardest of all.” He stopped for a second, squinting as he delved back into his memory.
+
+“I looked through all of this a decade ago, when I was deciding if I wanted to be a physicist or not, but I can’t for the life of me remember if fusion radiation produces neutrons. We should assume it does.” He nodded in satisfaction. “Neutrons aren’t charged, they penetrate more than gamma rays, and they’re pretty lethal to anything biological. I think a couple layers of force shields should do it, but we’ll need to test to be sure.”
+
+Stella added that to the list of notes she’d started making. “How do we test these - should we invent magic for the purpose?”
+
+Nathan smirked. “After one of Badud’s spells, I know what radiation damage feels like. If you’re hiding behind a mountain with me exposed, we can test it. I’m a pretty good guinea pig.”
+
+“Guinea pig?” Aarl asked in confusion. He’d been quietly listening to the conversation with the rest of the Heirs, but that comment made him break his silence.
+
+Nathan waved the comment away. “Test dummy. I’ll be able to tell if you’re properly shielding things, and I should be able to survive the blast even if the spell breaks containment.”
+
+I survived getting vaporized once, after all.
+
+Stella seemed to be intent on her spellforms again, layering light, electromagnetic, and force spells in a shell around a ball of mana that was serving as a placeholder for an eventual nuclear spell. She was trying to come up with a stable arrangement of the different kinds of mana that would be effective at containing energy instead of warding it off.
+
+“Tougher. If you want a successful reaction in there, those spells are going to need to withstand your strongest spell. Even if you make it as weak as possible.”
+
+The exhortation only sharpened Stella’s focus, and she scrapped the containment spell and started over. The new version was beefier and used Insights Nathan recognized from various shielding and containment spells. It felt to his magical senses like a hodgepodge of a laser spell, one of her capacitor spells, and a reinforced triple-layer forcefield. The spellwork expanded, and he had to take a step back to the edge of the cavern to avoid interrupting the revolving layers of magic.
+
+The Heirs drifted off to other tasks, taking care of the camp as Stella worked on her spell. Nathan kept an eye on Stella and her spell, making sure not to disturb her. Eventually, she put some finishing touches on the magic and shrunk it down a bit, looking to Nathan for approval.
+
+He studied it for a minute, noting how excessively overbuilt the whole thing was. Each individual layer of the force shield would deflect the strike of a grave tangle, and the internal layers were no less durable for being specialized against particular types of energy. He shrugged. “It looks good to me, but I’m not completely certain it’ll hold against the forces involved. We’ll test it tomorrow, once we find somewhere good.”
+
+“Won’t that bring eyes to us?” Sarah asked, concerned.
+
+“If this shield works, it shouldn’t,” Nathan replied, gesturing at the spell in front of him. “Even if it does, they’ll probably think it’s a dungeon, or a soldier shooting monsters.” He turned back to Stella. “Let’s just discuss how to actually trigger it. I think something like your father’s spell is a good idea, but we should be able to tune it in a few ways if we know what’s actually going on. Instead of just using air, we can use hydrogen, or maybe even helium. We can also try separating for deuterium, though I’m not sure if that will work.”
+
+“My target is nuclear mana,” Stella replied carefully, the fires in her eyes casting a flickering light around the cavern. “That Insight will allow the best possible control.”
+
+Nathan held up a calming hand. “The Insights I’ve given you will work, but I’m not sure they’ll be enough to get all the way to something like nuclear mana, if it exists. It might be split into fission and fusion, or something else. We’d probably need to go into the strong and weak nuclear forces for that.”
+
+“What are those?” The question was quiet, but intent. The mention of deeper forces had captured all of Stella’s attention. She looked at him cautiously, like somebody wary of a trick.
+
+Nathan shrugged. “I’m not really sure. This is the limit of my knowledge. I know they’re why some atoms are stable and others aren't, but I don’t know how, or why, or the math to describe it. But they're the reason that only elements of certain weights are stable."
+
+She looked disappointed but didn't push further, instead unraveling the shielding before spinning up a different spell from air mana. “Then let’s talk about how to filter out deuterium from hydrogen. Which I can get from zapping water with electricity, right? And then the deuterium is heavier than hydrogen. But it’s still hydrogen, so I can’t separate it out with a simple air spell.” She cocked an eyebrow at Nathan, pulling out a dimensional waterskin and extracting some water.
+
+The rest of the Heirs sighed and got back to the process of preparing camp. Stella was in the groove and wasn’t going to come out of it until she was satisfied.
+
+The territory they traveled through the next day was eerily silent, with more piles of rubble marking cleared dungeons. The only trace of those who’d cleared them was a long-abandoned camp with signs of extended habitation. A central fort area looked to have been raised with earth mana for the soldiers, while their auxiliaries camped outside in a rambling mess. On the outskirts was a sprawling graveyard with uncannily straight rows of markers set flat into the stone hillsides. The only differentiation between the graves was the names embossed onto the ground atop each one.
+
+Nathan took the Heirs down to land amongst them and strode through the markers for a second, skimming through the markings. The graves didn’t bear much of a trace of mana, though it appeared that each corpse was entombed under about six feet of solid rock. That would suffice to prevent any of them from rising as undead. He wasn’t sure what he was looking for, but he didn’t find it. Then they took off again, and Nathan did a quick estimate of the number of graves. There were at least a few thousand. He couldn’t see them all at once because of the curves of the hills, so it could have been as many as ten thousand. The number rivaled the maximum number of people who could have lived in the camp down in the base of the valley.
+
+“They must have brought in more to keep delving after the first waves died off.” His voice was quiet, respectful of the magnitude of the sacrifice represented here.
+
+Aarl’s was similarly quiet, but his tone held an edge of confusion. “Why are they so close to the camp? The new arrivals would see the marks of those who died before them.”
+
+“Whatever drove them, it was stronger than the fear of death.” Khachi’s words were hard-edged, his fur glowing with divine anger. "This is a high cost."
+
+They flew on, and eventually, Stella spotted the perfect place to test her new magic. It was a flat-bottomed valley that wasn’t easily visible from anywhere nearby. The spot was hidden from view from all directions, and a giant explosion would likely get reflected upwards without causing any landslides that could bury them. Most important of all, the valley had a bend to it where the Heirs could shelter while Nathan observed the nuclear test.
+
+Stella set up the proposed spell, carefully layering the protective elements around the fusion spell. It was a simple but powerful bubble of air mana containing a tiny amount of hydrogen they thought was enriched for deuterium. It probably wasn’t enriched an enormous amount, but any amount would help.
+
+If Dalo can make fusion happen with just normal air, then Stella should be able to do it with even shitty fuel.
+
+Once the spell was primed, they retreated around the twist in the valley, putting a few hundred feet of solid rock in between them and the experiment before sheltering behind more magical defenses. Nathan eyed the spell construct, then took a few steps back. Then a few more. Then he stepped into the sky, getting a little bit of elevation on their little experiment.
+
+I'd prefer to get my constituent atoms blasted into the air instead of buried underneath a mountain’s worth of rubble. It would be hard to regenerate underground.
+
+There wasn’t a prearranged signal, but that was because Nathan could feel it when Stella triggered her spell. Fire mana heated the hydrogen to temperatures that would melt metal, then the air mana contorted into a knot, forcing the hydrogen into a tight twist and scrunching down. It was like wringing water out of a towel, except you were also lighting the towel on fire and squeezing so hard that it squished down to the size of a pinhead.
+
+Nothing happened, and Nathan had a second of doubt. He’d thought that would be enough.
+
+Then the spell crunched down an infinitesimal amount more, and they achieved fusion. Stella had cut a small wedge out of the magnetic and light shielding, though it was still protected by the force spell. A wedge of the valley was illuminated with a stark, blinding light. The reflected photons burned Nathan’s eyes, and he didn’t see the first force spell failing from the bleed-through of secondary radiation.
+
+He did feel it happen through his magical senses, the same senses indicating that the shielding held a cauldron of magical fury. It never would have held without the electromagnetic spell containing most of the power. The reaction was done, but the immense energy trapped inside needed an outlet. They’d planned for this too, and the second layer of force barrier had a flaw in the same place. The sun-hot plasma punched through that spot like a truck barreling through tissue paper, and the concentrated power speared through the third and final layer of shielding with barely a pause.
+
+The jet of stellar fire sent out its own shockwave as it bored into the side of a mountain, the edges of the flame melting the stone for a hundred feet in every direction.
+
+The effects of the spell counted as magical enough for Nathan’s abilities to protect him from the worst of the effects. But he was still tossed about like a leaf in the wind by the shockwave, and the radiant heat pushed through his aura to scorch his skin and set his clothes smoldering with flame. He worriedly sent his senses backward to check on the Heirs, but they were fine behind their multilayered shield. They likely would have been safe without the shield, though with popped eardrums.
+
+Once the spell petered out, they emerged from cover and joined Nathan. Stella used wind magic to clear out the dust in the air and they all looked down on the ruined mountainside. The site of the spell was a blistered crater, and it looked like an angry giant had taken a plasma torch to the side of the nearby mountain. The rock still glowed from heat, and Nathan was the first one to break the silence.
+
+“That might be hard to scale down to something usable in combat. That was the smallest you could make it, right?”
+
+Stella looked at him like he was crazy. “Don’t smother my fire. I just need to learn to do that from afar.”
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina: 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 572
+
+Regenerative Focus: 5519/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 4
+
+Forewarning 4
+
+Arcane Insight 6
+
+Evasion 2
+
+Mental Vault 5
+
+Veracity 2
+
+Parkour 10
+
+Visibility Control 6
+
+High-tier Disguise 7
+
+High-tier Battle Cry 3
+
+Aura Control 5

@@ -1,0 +1,99 @@
+---
+id: 1038f38d-667f-5f39-8634-09b387f128ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 500: Hidden Chapel"
+slug: 0540-chapter-500-hidden-chapel
+partOf: dungeon-of-knowledge-complete
+position: 540
+ownLength: 2178
+unit: words
+ownProgress: 2178
+publishedAt: 2026-01-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2923463/chapter-500-hidden-chapel"
+royalRoadId: "2923463"
+markedReadAt: "2026-06-29T20:30:37.850Z"
+---
+
+The illusion shimmered as he stepped through it, and Calen found himself on the other side in a hallway, much like every other in the dungeon, with dark stone walls and floor and painted murals along the sides. But that’s where any similarities ended.
+
+Of the ubiquitous crimson carpets, there was no sign, and instead, the hallway was carpeted in ankle-deep drifts of dust that his magic left undisturbed even as he stepped out into it. Along the walls, rusted bolts and dark stains were all that remained of the sconces, and whatever had been painted upon the stone had long faded into obscurity.
+
+Even the mana in here looked different, somehow less dense and more chaotic, and he could tell the affinities were of a fundamentally different nature. For one thing, even as old as this place appeared to be, he did not feel like he was walking through a crypt. Nor did he find ice encrusting the ceilings or upon the altars. The impression he received from his Explorer skill was of a place far more ancient and real.
+
+Crouching down, he brushed away some of the dust from the foot of the illusory doorway, revealing ancient, decaying runes scratched into the stone – a labor that looked to have been achieved by a shaky hand wielding a dagger, rather than proper crafting. Yet somehow, he could tell that those runes were holding back the might of the dungeon’s domain.
+
+How does it not know? Undoubtedly, if the Crypt of Kings were aware of this holdout, these hallways would be swarming with Death Knights or worse in moments. A question for Ali, no doubt.
+
+As he stood, he regarded the ancient and decrepit passage with a surge of new excitement, eager to find what secrets it might hold. For, unless he was very mistaken, he was looking at the original stone of Mi’ir Valdanis, unspoiled by the dungeon for thousands of years.
+
+Eager as he was, he remembered his Pathfinder lessons. This place had runes that still worked, holding a second-tier dungeon’s domain at bay for ages. Rushing into a trap or danger would be an unforgivable folly. He meticulously consulted with his skills and then unfurled his wings, rising a foot above the dust-covered ground and slowly floating down the corridor, flanked by several decoys and allowing his motes of light to illuminate the way.
+
+He found three other passages linked to this one, two that led to illusory walls, granting passage back into an unknown part of the Crypt of Kings, if he had to bet, and one way filled with rubble from a cave-in: now fully blocked and impassable. He bypassed these distractions, his interest fixed on what lay up ahead. With great care, he reached out and brushed away a curtain of cobwebs, revealing an entrance into a dark chamber. There were three steps down into a recessed floor. Streamers of cobwebs hung like drapes from the ceiling, casting strange shadows as his motes wafted about. Along the back wall, a few stone shelves had been crudely bolted to the mortar, upon which a dozen dust-covered tomes lay strewn about haphazardly as if they had simply been tossed there and forgotten. In the center of the chamber stood a stone table with a low stone bench set beside it.
+
+An ancient, age-bleached skull lay upon the table beside matching arm-bones, but the rest of the skeleton had long collapsed to the ground to be mercifully concealed by the mounds of dust and cobwebs. Beside the skull, resting upon the table, something that wasn’t there shimmered softly under his new augmented vision. With his heart beginning to race, he drew one of his motes of light closer to get a better look. The rectangular shape of an open book, seamlessly spelled into invisibility, made a depression in the thick layer of dust that covered everything else.
+
+Careful to avoid disturbing the dead, he reached over and brushed the thick layer of dust from the invisible book, revealing an ancient Elvish script embossed into the cover. Thankfully, Ali’s teaching had been comprehensive, and he found the shimmering script to be intelligible, if cryptically written.
+
+The Journal of Eldorien Spellsage, Recordkeeper, Mi’ir Valdanis.
+
+Heart throbbing in his throat, he carefully turned to the first page.
+
+Herein, I record the destruction of the southern kingdoms and the fall of Mi’ir Valdanis to the dark armies of the Blind Lich.Let it be known above all else that the elves of Mi’ir Valdanis fought with valor and bravery, but in the end, were unable to stem the tide of the dead.
+
+Calen gasped, and immediately his notification chime rang out in the hallways of his mind, delicate but definitive proof of what he already knew to be a find of extraordinary historical significance.
+
+You have greatly increased the reputation of your patron. Realm Hunter has reached level 170.+10 attribute points.Motes of Light has reached level 65.Explorer has reached level 97 (+5).Blessing of the Dawn has reached level 70.Eclipse has reached level 46.Eyes of the Archon has reached level 67 (+3).Cartography has reached level 35 (+3).
+
+He grinned there in the gloomy chamber. Ali is going to flip when she gets her little hands on this! Lyeneru, too.
+
+Calen flipped the pages, revealing the contents of the ancient journal, all recorded in the elegant but antiquated script of the peerless recordkeeper. From the crinkling pages spilled reams of information: quantities of food and weapon supplies, distribution of military forces, outcomes of strategy meetings, and reports from distant battles. A wealth of history that had been scoured from the libraries of the modern world, but as the pages went by, the script grew shakier and progressively more unsteady. The pages slowly transitioned from troop numbers and battle deployments to meandering ravings about visions and nightmares, and by the end, many pages had been ripped from the book or stained with dark blotches and unintelligible scrawls.
+
+I hope you find peace in death, Calen thought, closing the book and storing it carefully. With deft movements, he stored the books from the shelves and the bones, too. We can finally offer him rest, Calen thought. Besides, they were in the middle of an undead dungeon, and leaving skeletons lying around was just asking for trouble.
+
+He carefully scanned every corner of this small chapel, and when he found nothing more, he retraced his steps, returning to find the others. At the very least, Ali would be interested in the runic magic, and he couldn’t wait to hear her opinion on Eldorien’s journal.
+
+“It’s just through here,” Calen said, pointing to an entirely unremarkable section of the giant mural depicting an epic battle scene. Above, several Night Elves in resplendent mithril armor, the shining mirror of the dark Death Knight armor pieces they had recovered, flew upon majestic gryphons while hurling spears, spells, or firing arrows down at a horde of ghouls depicted in excruciatingly gruesome detail. The expanse of wall he pointed to was simply a part of the mountainous background below the smoke-filled skies.
+
+Even with the incredible perception skills she had at her disposal, it was impossible to say that something was amiss. The density of the domain mana obscured any signs of tampering, and her visual senses insisted she was staring at a mere painted stone wall. Even quickly cycling through her monsters revealed nothing new.
+
+I could probably see it with an echolocation or True Sight, she thought, but none of her bats were high enough level, and the treants did not work particularly well without earth and an outdoor environment. As always, her to-do list grew ever longer. Carefully, she reached out her hand to examine the alleged secret passage.
+
+Even with Calen’s reassurance that it was an illusion, her mind still registered surprise as her fingers passed through the wall with just a tingle of mana prickling along her skin.
+
+“The library was in here?” she asked. The books Calen had shown her had filled her with fresh excitement, and she couldn’t wait to sit down with Ryn when they got back and study them.
+
+“I wouldn’t exactly call it a library,” Calen said. “More like a study or a chapel.”
+
+“Still, it had books!” Ali exclaimed. Books that had no known copies in any existing library. Much of the history from the Necromancer Wars and the subsequent Breaking of the World had been lost or purged from the world’s libraries. With those events having happened shortly after Ali had been entombed in her mother’s stasis barrier, she had struggled to piece together the stupendous power Nevyn Eld had unleashed upon the world and the events that had destroyed the mortal kingdoms and so radically altered even the geography of the continent. From what she had learned, these books had survived the Breaking, entombed here right under the Blind Lich’s nose. The journal of the insane sage, the recordkeeper, held tantalizing insights from someone who had witnessed these momentous events firsthand.
+
+Ali stepped through the illusory wall to find herself in a dark and dusty passage with only her own wings, barrier magic, and a bobbing mote of light shedding any illumination upon the ruins of what had to be the original elven city.
+
+“The runes I found are down here,” Calen said, crouching down and brushing away several handfuls of dust, revealing the worn flagstones beneath.
+
+Ali hovered lower, kneeling on a barrier disk just like she used to, keeping her wings still so as not to disturb the dust more than absolutely necessary, and peered eagerly at the stone floor.
+
+“These are definitely magical runes,” Ali murmured. They were carved in a style of Elvish script more similar to what she had originally learned than the modern script she saw used today, but whoever had scratched these runes had done it the hard way, painstakingly chiseling each symbol into the cold stone without the benefit of a proper inscription skill. Yet, the runes still held the faint traces of an unfamiliar mana, the last flickers of an arcane affinity that powered the strange wards that somehow still held back the overwhelming domain pressure of the Crypt of Kings.
+
+How did he achieve that?
+
+“Are they interesting?” Calen whispered breathlessly from behind her, and Ali glanced up to find a rare excitement written clearly upon his face.
+
+“Very! I’m going to need a few minutes to study them,” she told him, pulling out her notebook.
+
+“Ok, Mato and I will guard the hallway,” Malika said with a grin that Ali barely noticed.
+
+After hearing their acknowledgements, Ali activated her Study Trance and got to work. Many of the runic formations they had uncovered within the dungeon were easy to understand, especially given how much of Nevyn Eld’s work she had studied, but these were something different. The principles in play were unfamiliar to her, and so was the way the runes were arranged and connected. That something so roughly cobbled together could have held up for millennia spoke to a deeper understanding of efficiency and durability that she found instantly tantalizing. Any magic that could mess with the spread of a domain’s mana was of extraordinary importance to her personally, both as an academic interest and as a necessity for survival.
+
+Runic Script has reached level 78 (+3).Sage of Learning has reached level 83.
+
+Understanding slowly trickled into her as she finished recording the runes into her notebook a second time. This time, including all the ‘mistakes.’
+
+Her opinion of the long-dead recordkeeper, Eldorien Spellsage, had drastically altered as she had traced the runic structure that encircled the entire doorway. Every single shaky line, warped or altered rune, had its purpose. It was clear that it was a work of improvisation, greatly hurried perhaps by his awareness of a doom that had eventually overtaken the ancient city, but all the lines and connections were masterfully aligned into a perfect vision of the whole. The work of a sage with a deep understanding of magic. And yet, she could tell his state of mind from the way the runes were carved into the rock. Here was a scholar trapped in a dungeon of death, with no skills to escape, and even the wards seemed primarily designed to keep out a warped and twisted energy – an eldritch energy. Its effect on the domain itself seemed to be merely an unintended side-effect.
+
+Eldorien Spellsage had seen or sensed Baaoht Yll’shuum and had known he was doomed to insanity, and so, he had crafted this ward with skill that rivalled even that of Nevyn Eld himself. He had to have known his ward could protect his mind only for so long, but Ali could imagine the scholar crafting it anyway, hoping to extend his grip on sanity long enough to write his journal and pass the records of events on to the new age.
+
+I will make sure your books are preserved in the Grand Library Arcana, she promised. Hopefully, the long-dead recordkeeper would have approved.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

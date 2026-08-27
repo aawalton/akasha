@@ -1,0 +1,283 @@
+---
+id: 89af8e76-647c-5d2a-94da-1a475c1f68a7
+page-type-slug: story-chapter-royal-road
+title: "74 - Paradox"
+slug: 0075-74-paradox
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 75
+ownLength: 2377
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3703947/74-paradox"
+royalRoadId: "3703947"
+---
+
+The days have gone by faster ever since the battle. Fewer and fewer people visited the memorial island, and ships were being sent back to Whale Isles after being repaired elsewhere. The wounded had mostly recovered by now.
+
+Today was the day of the celebration. The sky was dark, but the islands were illuminated with lanterns and fire. Glowing airships circled around the island with celebratory banners alongside the giant sky creatures.
+
+It didn’t look all that different from the Skycurrent Festival. Roasted meats, drinks, music—they were all here. I supposed there were only so many ways to celebrate.
+
+But unlike the Skycurrent Festival, none of us were separated. We were all around the same table with food and drinks. And by all of us, I mean everyone besides Tuna, of course. She was unfortunately too large to sit on this island with us.
+
+In Reina’s fashion, her side of the table was stacked with plates of meat. Kaelor had more alcohol than food, while Aeris had a strange beverage filled to the brim with some subtly glowing liquid.
+
+“What even is that?” I asked her.
+
+“Liquid magic. I’ve been craving something like this for so long now.”
+
+“Liquid… magic? That’s a thing?”
+
+“It’s not exactly what you think, but it’s similar,” Meriel said. “Some species enjoy mana-rich meals. I’ve had quite a few myself.”
+
+Aeris took a sip, then leaned back, scrunching her face.
+
+“That’s strong!” she said.
+
+“Is it as strong as these?” Kaelor asked, holding up two glasses.
+
+“What are those? Frost vodka?”
+
+He nodded. “Want some?”
+
+“Let me finish my own drink first,” Aeris said. “Give it to Talon.”
+
+“Uh… Isn’t he too young for that?” I asked.
+
+They gave me a strange look.
+
+“Too young?” Kaelor said. “What do you mean?”
+
+Ah. I guess the concept of a legal drinking age didn’t exist in this world.
+
+[TROPE COMPLETED: THERE’S NO DRINKING AGE IN A FANTASY WORLD]
+
+Note: This trope applies only within this fictional world. Please drink responsibly in yours.
+
+[SKILL ACQUIRED: HAPPY HOUR]
+
+Type: Passive
+
+Effect:
+
+- Food and drinks consumed during celebrations provide slightly stronger recovery effects
+
+Talon took a glass from Kaelor’s hand, looking at it from an angle.
+
+“I don’t know… this might be too strong for me. Do you have anything else?”
+
+As Talon and Kaelor were deciding on their drinks, I glanced around the island. Dancers and waiters wove between the tables. A mix of flutes, harps, and drums were being played at each corner of the celebration, letting people choose what to listen to while enjoying their meals, depending on where they sat. The others and I were in an awkward middle. We heard both flutes and drums equally, but surprisingly, the music harmonized well.
+
+But the music wasn’t nearly as loud as some of the other things.
+
+Merchants shouted over each other as they tried to convince people to try their roasted meats and sweets. Cheers erupted every so often from somewhere across the island as another drinking contest or dance came to an end. The island was so lively that it was impossible to make sense of any conversations other than with the people at the same table.
+
+Yet, through all of this, the remnants of the battle remained. Even after being repaired, some of the buildings still had scars where their wood had been replaced, like a soldier’s skin after healing from injury.
+
+I looked at everyone’s faces. They smiled more tonight than they had in days, but every now and then, someone would raise a glass toward the sky with a silent prayer before returning to the festivities. I noticed this a lot in Whale Isles. Whenever somebody talked about their loved ones who had passed away, they would always glance upward.
+
+I brought my gaze back to my table, seeing Reina already halfway done with her enormous meal, looking as focused as someone in the middle of a battle. Just beside her, I heard Kaelor giving Talon advice on how to handle more alcohol. I wasn’t so sure if that was exactly something he should be teaching a boy, but then again, I guess it was normal in this world. But honestly, for a little boy to go through something as horrifying as a battle, he was more of a man than most adults.
+
+I felt something touching my shoulder. I turned to my side, noticing Aeris leaning against me with her eyes closed.
+
+“You didn’t happen to get drunk while I was looking away, did you?” I asked.
+
+I looked at her glass of liquid mana, which was completely empty. Did that even cause drunkenness?
+
+“Hm? Oh, I’m not drunk or anything,” she said.
+
+“Then why are you slumped against me?”
+
+She looked at me, smiling. “Oh, come on, darling. Do you hate me or something?”
+
+“No…?”
+
+“Then let me stay like this a little longer.”
+
+I heard Meriel snickering from beside me.
+
+“What?” I said, turning to her.
+
+“I can’t believe you made a dragon fall in love with you,” she said. “You really are full of surprises.”
+
+I leaned into her ear, whispering, “Could you do me a favor and dispel the love potion’s effects on Aeris?”
+
+Meriel took a bite of bread. She looked at me, turned back to the bread, and took another bite. That same process repeated a few more times.
+
+“So you are just going to keep eating or—”
+
+“I can’t do that,” she said.
+
+“Why not?”
+
+“I don’t know how to.”
+
+I gave her a blank stare.
+
+“What?” she said. “It’s not like I know every spell in the world. Though if you want to dispel it, there is someone who could do that, but they’re at Arcstar Academy.”
+
+Aeris got up from my shoulder. “Dispelling the love potion? That’s not a bad idea at all.”
+
+“I thought you’d be more opposed to it,” I said.
+
+“Not at all. I enjoy being in love with you, Allene, but it does make me a little sad that you don’t seem to feel the same way about me.”
+
+She frowned, looking down. I noticed her eyes growing watery. She was definitely fake crying right now.
+
+Definitely… right?
+
+But even so, the sight made my heart feel heavy.
+
+“I never said I didn’t…” I said.
+
+She turned back, her face lighting up. “So do you…?”
+
+I gulped. “Uh…”
+
+I waited for something to interrupt the scene, like a dancer tripping and falling on our table, or a random explosion happening somewhere.
+
+But nothing came. Nothing prevented me from giving Aeris an answer. For a world full of tropes, something definitely should be interrupting us right now.
+
+“I… I don’t know,” I began. “I mean, you’re a dragon and I’m a human, so—”
+
+“I’ll stay in my human form from now on,” she said. “And besides—I was a human before my soul took a dragon’s body.”
+
+I noticed Reina sneaking glances at us from across the table. She tried hiding it by chowing down on her meal, but it was obvious.
+
+“Hey Reina?” I called out, hoping she would say something about this.
+
+But she completely ignored me. Or rather, she was pretending not to hear me.
+
+“Don’t keep the poor girl waiting,” Meriel said. “Aeris deserves a response for her love, doesn’t she?”
+
+No. No, she doesn’t.
+
+I stood, taking Meriel’s hand and dragging her away from the table. “We’ll be right back, everyone! We’ve got something to take care of.”
+
+Kaelor and Talon gave a thumbs up, while Aeris and Reina had disappointment written all over their faces.
+
+I dragged Meriel through the island, bringing her away from the festivities. The music and voices were quieter now that we were on the edge of the island. It was completely empty, aside from the occasional creature or airship flying by. But we should be able to have a private conversation here.
+
+I pinned Meriel against the wall. It was an interesting sight considering I was nearly half her height—and considering she could just blast me away with a spell at any moment—but I had to get my point across.
+
+I looked around to make sure nobody had followed us.
+
+“Meriel,” I said.
+
+“Yes?”
+
+“Help.”
+
+“With that?”
+
+I threw both hands into the air. “You can’t just sit there smiling while Aeris says all of that in the middle of a celebration!”
+
+Meriel crossed her arms. “I don’t see the problem.”
+
+“You don’t see the problem? Come on—you already know how this world is with its tropes. I’m afraid of what might happen.”
+
+“You’re afraid of romantic tropes?”
+
+“I’m afraid of making things more unpredictable than they already are.”
+
+Meriel shrugged. “Just let it be. The Narrative guides how things go.”
+
+I let go of my arm on the wall, standing beside her.
+
+“Do you really think it exists?” I asked.
+
+She crossed her arms, staring at the dark sky.
+
+“That’s what controlled Aurelius to meet us,” Meriel said.
+
+“But what do you think it is, exactly?”
+
+She thought about it for a moment.
+
+“Every story has a narrative. I don’t think ours is any different.”
+
+“Then wouldn’t that mean things are predetermined? Us meeting each other and the others… do you think all of this was determined from the beginning?”
+
+“That’s a possibility,” she said. “Another possibility is that things aren’t predetermined. Maybe the Narrative just nudges people toward an intended path, just as it did with Aurelius.”
+
+“And what about your awakening? Did the Narrative cause that?”
+
+“That’s another possibility.”
+
+I frowned. “That doesn’t help.”
+
+“I don’t know what else to say. I’m in the same boat as you in terms of knowledge. Actually, that’s an overstatement. You should know more about all of this than me. What I can say is that all of this just leads to a paradox. Why would the Narrative lead to my awakening if awakening makes me aware of tropes? The fact that we’re aware of tropes weakens the Narrative’s influence over us.”
+
+She thought about it for a moment.
+
+“No,” she said. “I think it’s more likely that I’m not under its influence anymore.”
+
+“How do you know you’re not being controlled by it?”
+
+“Because the act of knowing the existence of the tropes and the Narrative is enough for me to not fall under their influence,” Meriel said. “Think about it from your perspective. Do you ever feel like you’re being controlled?”
+
+I shook my head. “I would say no, but what’s to say that even that response isn’t just what the Narrative made me say?”
+
+Meriel nodded. “Exactly. That’s the paradox. It doesn’t feel like we’re being controlled by anything, but what if that’s what the Narrative wants? We’re in the same situation as everyone else in this world. They don’t feel controlled by anything.”
+
+She continued, “Looking back at it now, it’s clear that I was being heavily controlled by the Narrative to fall into the mentor role for you.”
+
+We let silence stretch for a moment. So many things just didn’t make any sense.
+
+I looked at her. “I don’t mean to sound like a narcissist, but the Narrative revolves around me, doesn’t it?”
+
+“Because you’re the protagonist?”
+
+“I mean, yeah. And not just that, but everything that we know so far with you becoming my mentor and with Aurelius crossing paths with us… it just makes sense.”
+
+“It does,” Meriel said. “But I also wouldn’t rule out the possibility that you’re just fulfilling the Narrative’s intended role.”
+
+“What do you mean?”
+
+“You’re not more important than others just because you’re the protagonist,” she said. “Stories are not carried by protagonists alone. Remove the antagonist, and there is no conflict. Remove the mentor, and the protagonist finds difficulty growing. Remove the companions, and there is nobody to challenge or support them on the journey.”
+
+She stepped closer to the edge of the island.
+
+“Every role exists because another role gives it meaning. They’re all pieces of the same story.”
+
+“So... I might not actually be the center of everything?”
+
+“Exactly. A queen is powerful, but a chessboard cannot exist with only queens.”
+
+“That’s... oddly comforting.”
+
+She smiled. “I’ve read many stories throughout my life to know how certain narratives go. There aren’t always good endings for the protagonist, so I wouldn’t be too comfortable if I were you.”
+
+I looked at her. “That’s… not so comforting.”
+
+Feeling like my head was one sentence away from exploding, I sank to the floor. “Ugh… now we’re back to square one. And here I thought I was starting to understand things…”
+
+She laughed. “Paradoxes and confusion exist all the time when studying magic. You’ll get used to it at Arcstar Academy.”
+
+Just as she was about to walk back to the celebration, I stopped her.
+
+“There’s something I just remembered,” I said. “Remember the light that surrounded you after you awakened? I saw someone next to you back then. A woman.”
+
+She raised her brows. “A woman…?”
+
+I had to be careful what to say next. I couldn’t just outright tell her that it was the goddess who had reincarnated me into this world.
+
+“It was strange,” I said. “I was the only one who could see her, and it’s even stranger that you didn’t see her either. Something tells me she’s related to your awakening.”
+
+“Related to my awakening,” Meriel said. “And you said it was a woman? How peculiar…”
+
+I nodded. “What do you think?”
+
+She brushed the grass with the tip of her foot.
+
+“I think the woman you saw was an otherworldly force,” she guessed. “Perhaps a god.”
+
+Wow. She was spot on. I could always depend on Meriel to find the right answer.
+
+“Why do you think that?”
+
+“Because my awakening isn’t something that should be possible,” she said. “And when impossible things happen in this world, we say it’s the workings of a god. But if what you say is true, we could safely assume she is somehow related to the tropes and the Narrative of this world,” Meriel said. “But that’s about all the assumptions we could make. If we make too many false assumptions, we’d just spiral down a completely wrong path.”
+
+I nodded. “Yeah.”
+
+With that, we headed back to the others to wrap up the celebration.

@@ -1,0 +1,211 @@
+---
+id: 25a19195-0b86-5881-a9f6-f86c23d98499
+page-type-slug: story-chapter-royal-road
+title: "Ch119 Presenting a Gift"
+slug: 0119-ch119-presenting-a-gift
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 119
+ownLength: 3154
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3810727/ch119-presenting-a-gift"
+royalRoadId: "3810727"
+---
+
+We silently fly through the sky to Lingshi City, leaving behind the scarred land.
+
+While at the back of the vessel, I take time to mentally examine the small vial of honey floating in my system storage.
+
+The two droplets that were used up account for less than 20% of the concentrated liquid. If I had to guess there are still at least 8 or 9 droplets worth left inside.
+
+After witnessing its effects, powerful enough to stabilize a 12th level qi refiner's soul and spirit grade physique on the verge of fracturing, it is certainly worth far more than the mere 15,000 spirit stones the original honey was purchased for.
+
+It is a perfect grade system enhanced item, with an added perfected stage mortal grade enchantment. The difference is like night and day. It is the same as comparing a cultivator with and without a perfected mortal grade physique.
+
+It is no longer a normal perfected 1st tier item, without a doubt it should be classified as pseudo tier two. At least, in markets like Lingshi city, or the outer sect in general, there is nothing like it that I know of…
+
+I considered throwing in this honey as an added gift, but a wedding offering is meant to be a token of sincerity, not a blatant bribe.
+
+Plus, this is far too valuable to simply give away before I try it myself.
+
+Lan Xin turns my way, and stares at me while I think to myself for most of the vessel ride, but doesn’t say anything.
+
+The familiar sight of larger roads connecting to the city begins popping up, along with natural low- and mid-grade spiritual veins where minor qi refining families live around the outskirts of this major city.
+
+The three massive Tier 2 mountains come into view again, but instead of drifting to the center of the city square where tens of thousands of people conduct business in pavilions, storefronts, and out in the streets, Lan Xin turns the vessel toward one of the mountains instead.
+
+“The ceremony is being held on one of the lower cliffs of the Wang Clan’s peak. They’re opening up a portion of their guest estate to all of the surrounding clans and allied forces of the sect.”
+
+The vessel slowly lands in an open area where even larger ships are resting, lined up and protected by Wang and Mu Clan hired guards.
+
+Lan Xin pulls her ship back into her storage ring instead of leaving it here, and I begin to scan our surroundings.
+
+We’re about halfway up the Wang family mountain, and there is a well-decorated pathway leading to the public gathering. Green and white talismans are placed on trees lining the path, and the gravel-like dirt is all newly placed down, saturated with a high amount of qi.
+
+Stepping on it feels satisfying, like raw qi can be easily siphoned up through my feet with every step.
+
+Other vessels begin to fly in from surrounding clans, while the outlines of some visitors appear further down the mountain, making their way up from Lingshi City on foot or riding spiritual beasts.
+
+I turn to Lan Xin. “Let’s enter separately and meet again after the ceremony.”
+
+The fiery woman’s eyes flicker with yellow flames, and our surroundings heat up. She walks forward up the trail alone, murmuring, “Fine. As you wish.” Her aura settles down once she’s out of sight.
+
+I still wait alone and watch a few clans arrive, and others walk by.
+
+I’ve decided to loosen up the use of my Illusory Demon’s Concealment Art, and shift my outward cultivation up another minor realm, now releasing the strength of an initial stage 3rd-level qi refiner. The vibrations of my physique are being suppressed by my ring down to the martial elite status, that of a mid-stage mortal-grade physique.
+
+For an average 9th grade root at my age, this should be an impossible feat. However, today I’d like to slowly reveal a little more strength. When compared to other outer disciples of the sect, this is still bottom-of-the-barrel strength, hardly better than a steward.
+
+Yet, as I watch some of the approaching families that make their way here from Lingshi City, I see the real struggle of cultivators trying to make it on their own without the sect’s help.
+
+Many are elderly men, well into their 80s and 90s at the 3rd level of qi refining. Traveling with them, younger middle-aged men at the 1st and 2nd level of qi refining follow.
+
+These groups are the most common. It is usually one old patriarch and a few of their most promising offspring. Everyone in these clans has 9th-grade roots, mostly 4 elements or 5 mixed like mine.
+
+The system-scanned secrets all read similar messages, stating that they are presenting gifts to the Wang and Mu families in order to secure their good graces in the case that they gain even more control over the city.
+
+Every ten or so groups, there is a patriarch in the mid-stage of qi refining. They always have 8th-grade roots, and the men following behind them in these groups can be upwards of a dozen.
+
+Some of these stronger mid-stage clans have 1 or 2 women cultivators walking along with them, but it is far from common.
+
+I find that the stronger the patriarch, the more guests they bring along.
+
+A few family names stick out to me. I see a 6th-level qi refiner with the clan name Chen, making me wonder if this is the same lineage as the spy I have working for me in the alchemy peak. Another three 3rd-level qi refining patriarchs here have the family names Shen, Chu, and Liu. Two of these names remind me of the elderly old Chu and old Liu from the war, and Shen is the same name as the steward working for me back in the beast mastery peak’s rice fields.
+
+There are not only families. Occasional solo rogue cultivators approach the peak too, but none has any impressive cultivation that catches my eye.
+
+Instead of just standing by and watching people pass, I begin walking up the mountain alone too.
+
+A few of the mid-stage clans have representatives with Outer Sect Azure Cloud robes like me, so my appearance doesn’t draw too much attention.
+
+I peacefully make my way all the way up the path without any issues.
+
+The sight of tall green apple trees starts to come into view, and a portion of this mountain’s peak flattens out to make a wide open area. There are many rows of green apple trees, creating a small orchard, with soft grass and visible white qi in the air.
+
+I can’t see all the past the growing crowds to what is directly nearby, but my head does turn up to see much more of the private mountain. There are many more green apple trees, and barely visible infrastructure of the Wang family’s more personal private estate, with large palaces and many sophisticated structures higher up the mountain.
+
+The area all of these visiting cultivators walk into is not at the mountain’s peak; it is at a public point on a large cliff ledge, overlooking Lingshi City from afar.
+
+The crowd of families slowly moves forward and turns into a far more organized line.
+
+I see exactly what it’s headed toward: a large white marble gate, with two men sitting at a table in front of it. Each family stops and speaks with the two of them, presents their invitation jade slip, a gift, and continues on past the gate into the apple orchard.
+
+Almost every time, the contents of the storage rings are displayed out on the table for other guests to see, then recorded in a public ledger.
+
+Many of the initial-stage qi refining families gift 88 or 99 spirit stones, while mid-stage families commonly gift 333 spirit stones to each clan.
+
+I only spot two late-stage qi refiners. The first, an old man who appears to be a patriarch of his clan, gives two rings filled with 888 spirit stones, and they’re met with courteous nods while walking by.
+
+The second late-stage qi refiner is an older-looking woman.
+
+She’s a few families ahead of me in line, and it appears she’s the strongest in her group.
+
+[Automatic Inspect Function Activated…][Meng Ruo] [Age: 50][8th Level Qi Refiner][Water, Earth, Fire Spiritual Roots][7th Grade][Acquired Talisman Mastery Physique][Perfected Stage - Mortal Grade][Innate Minor Harmony Physique][Initial Stage - Mortal Grade][Is the strongest heiress of the Meng Clan, a minor foundational family in Lingshi City, but chooses to support her brother as the next clan head. Has never told anyone about her unique innate physique, capable of enchanting talismans.]
+
+She stands next to a younger man with similar dark hair but more chubby facial features. His system scan reads 41 years old, and a 5th-level qi refinement cultivation with four 7th-grade roots. He has a mid-stage talisman mastery physique, but nothing is innate.
+
+None of them wear Azure Cloud Sect robes; it appears they are all unassociated, living in Lingshi City full-time.
+
+There are about two dozen other members of their family with them, mostly older men at the late stage of qi refining standing as bodyguards, and a few children with 7th-grade roots standing behind their father, who appears to be this woman’s brother.
+
+She speaks up while presenting a high-grade ring to both seated men.
+
+“My father is still recovering after the mandatory talisman crafts necessary for the war, but he wants to show his full support in this clan merging. We have always been great allies of the Mu family. I hope that the Wang family will accept our kind intentions as well.”
+
+An enormous pile of spirit stones pours out from each ring, and many murmurs from mid-stage qi refining clans follow this display.
+
+The public ledger shifts as thousands of spirit stones are added as the contribution from the Meng family; however, she does not stop there.
+
+Six deep brown high-grade earth bullet talismans are brought out, and beside them, two perfect-grade crimson incineration talismans are presented. Finally, she sets a single heavy white fist-sized crystal down on the table.
+
+The moment it is lifted out of her storage ring, the swirling particles of gaseous qi in the air completely change their natural flow. It’s placed back into a storage ring moments after, but the subtle fluctuations remind me of the density of a tier 2 artifact.
+
+Meng Ruo bows her head in respect, and the two men behind the table smile politely and nod back, adding these gifts to the ledger.
+
+Her Meng clan rises up to the 4th spot, and I only see three clans above hers in the rankings.
+
+[1] [Lin Branch Clan] [9 Foundational Crystals, 1 Perfect Grade Vial of Initial Stage Enchanted Rock Bee Honey][2] [Wei Branch Clan] [9 Foundational Crystals, 1 Perfect Grade Vial of Initial Stage Enchanted Rock Bee Honey][3] [Jiang Clan] [9 Foundational Crystals, 9,999 Spirit Stones][4] [Meng Clan] [1 Foundational Crystal, 6 High Grade Talismans, 2 Perfect Grade Talismans, 6,666 Spirit Stones]
+
+The listings of these clans glow in a slightly different hue, making all aware that they are foundational clans.
+
+I instantly spot the Lin and Wei Clans gifts, inwardly smiling at the fact that my decision to create something more unique was correct.
+
+Though, my mind mostly lingers on that hot white stone, and now comparing it to the ledger, I’m certain that’s what a foundational crystal is. I’ve never seen one before, but it’s been referenced by my hidden realm multiple times. They’re needed to battle foundational cultivators in my rematch simulator, and also to open up the silver door.
+
+I quickly move on and look at other listings.
+
+Only two other foundational clans are present below the Meng clan, the Fu and Tang families. However, there is an individual name outranking them.
+
+[5] [Lan Xin] [6,666 Spirit Stones, 2 High Grade Spirit Peaches][6] [Tang Clan] [3,333 Spirit Stones, 2 High Grade Weapons][7] [Fu Clan] [3,333 Spirit Stones, 1 High Grade Weapon, 2 Mid Grade Weapons]
+
+All of the hundred or so other listings below them are from qi refining families.
+
+Their gifts are spirit stones and mid- and low-grade artifacts.
+
+At the very bottom of the list, there are four private listings, from the Beast Mastery, Alchemy, Forging, and Combat Peak, none of which show any names or donated amounts to the public.
+
+The younger-looking man behind the counter stands and points Meng Ruo and the rest of her visiting clan onward. “Please make yourselves comfortable in the preferred seating. Mu Shulan has set aside a place for your family to watch, and a special seat for you as one of her honorary guests.”
+
+The line continues forward.
+
+Once all of this foundational clan’s members are out of earshot, gossip from some of the mid-stage qi refining families resumes.
+
+“Did you hear that? The Patriarch of the Meng family is too weak to appear today. Could their clan really be the next to decline?”
+
+“Maybe… No one in their new generation has above 7th-grade roots. They may be destined to fall to become a qi refining clan soon. They’ll lose a lot of pull in the city…”
+
+“The Jiang Family Patriarch didn’t show up either. Are you saying they’re weak too?”
+
+“No way. The Jiang clan brought four of their foundation establishments along; it’s completely different.”
+
+“I heard Meng Ruo rejected the advances of the Fu and Tang patriarchs. She’s wasting her youth to chase the dreams of becoming capable of crafting perfect-grade talismans. At her age and root talent, she should just give it up and settle down.”
+
+I slowly dissect this gossip of this seemingly important woman, comparing her status to these claims.
+
+Her innate physique is an obvious thing to keep to herself, but she’s hiding even more. My system scan clearly read that she was a perfected stage talisman master, yet she is only capable of crafting high grade talismans in the public eye.
+
+More gifts are presented, and I finally walk up close enough to scan one of the two men at the table. He appears to be quite old, a 10th-level qi refiner named Wang Ruze. He’s 60 years old with 6th-grade roots, and a perfected-stage mortal-grade beast mastery physique.
+
+His system secret is quite interesting.
+
+[Is not a direct bloodline descendant of the Wang Family Patriarch. He was rewarded the Wang family name after many contributions and married Wang Ming’s aunt, tying his offspring to the main bloodline of the clan. He has vowed to not take any concubines. After Wang Ming’s father’s disappearance in a Sect Mission well over a decade ago, he has become an important father-like figure to this heir of the Wang Clan.]
+
+These intricate family details are not valuable to me directly; though, it does give some insight into how these cultivation families maintain their power, bringing in high-grade-root sons-in-law to inherit their name and keep their bloodline strong. His eyes and smile are kind, so I do not scrutinize him long.
+
+My attention is far more interested in the man beside him. From afar, he looked to be the younger of the two, with short brown hair and a calm visage of a young man. He has a larger frame than average, and is close to two meters tall, giving off a potent vitality. There is no actual qi infused aura at all permeating off of him, making these instinctual readings confusing.
+
+His system scan tells me the truth.
+
+[Automatic Inspect Function Activated…][Mu Zhiheng] [Age: 132][2nd Level Foundation Establishment][Water, Earth, Wood Spiritual Roots][6th Grade][Acquired Verdant Wood Physique][Initial Stage - Spirit Grade][No Innate Physique][Mu Shulan’s Uncle. He has mastered his family's acquired physique to its pinnacle; all scriptures past the initial stage of the spirit grade have been lost to time, passed down by hand from their great ancestor’s innate physique over ten generations ago.]
+
+The line moves forward, and a few minutes later I’m standing in front of the two men.
+
+I place my invitation slip before them, and Wang Ruze takes it, as it is branded with the Wang family insignia.
+
+His face wrinkles into a smile. “Ah, Li Hao, I was told a young guest from the Azure Cloud Sect would be coming to be one of Wang Ming’s honorary guests.”
+
+Mu Zhiheng’s eyebrows raise, and I sense a tiny twisting sensation in his calm, light green-tinted soul.
+
+Though, it is far more difficult to see than the Wang family qi refiner that stows my invitation away.
+
+I politely bow and present two mid-grade storage rings.
+
+“Just 333 spirit stones each. There is nothing else in these rings. It is all I can give as a humble display of thankfulness for Wang Ming’s kindness in helping me secure a position in the sect, and for Mu Shulan, as she helped me sell a few items in the Red Pine Market.”
+
+The two men crack the imprints on the inconspicuous rings, and their pupils both constrict in unison.
+
+They turn their heads toward each other briefly, then trade the rings to each other to peak inside the others. Each ring holds 333 spirit stones as I said, but there is a small brown pill in each with golden vine patterns wrapping around them.
+
+From the bewilderment growing on both of their faces, it's clear neither of them have ever seen such a pill, but the amount of space these items take up within these rings cannot be faked. Each pill carries more weight in these spatial items than so-called perfect grade weapons they have certainly handled in the past.
+
+These older men have very stable control over their emotions. After just a second, their faces calm and stop shifting, but I can still sense the subtle fluctuation in their souls.
+
+Behind me, there are mostly initial-stage qi refining clans, without the perception to catch on to what’s happening at all.
+
+I smile again and speak in a lower tone. “Please, just the spirit stones. I wish to show my sincerity, but without the extra unnecessary attention.”
+
+The sound of spirit stones dropping onto the counter follows, and my name shows up around the center of the gifting leaderboard with over a hundred names.
+
+Mu Zhiheng keeps a straight face and thanks me as though I’m any other clan walking in, but Wang Ruze can’t hold back a growing smile. “My little nephew sure knows how to make connections in the sect.”
+
+He hands me a small piece of white jade and points behind him. “You’ll be seated in the honorary guest area, off to the side of the main stage. This jade will warm up the closer you are to your seat. It will be right beside the rest of the Wang family. You can’t miss it. Once my duties here are done, I’ll be seated right next to you.”

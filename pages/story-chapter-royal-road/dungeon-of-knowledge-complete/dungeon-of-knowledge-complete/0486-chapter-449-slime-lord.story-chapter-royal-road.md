@@ -1,0 +1,185 @@
+---
+id: fde5b260-c039-5b17-8689-ea75ceb380c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 449: Slime Lord"
+slug: 0486-chapter-449-slime-lord
+partOf: dungeon-of-knowledge-complete
+position: 486
+ownLength: 2425
+unit: words
+ownProgress: 2425
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2780485/chapter-449-slime-lord"
+royalRoadId: "2780485"
+markedReadAt: "2026-06-29T20:28:41.587Z"
+---
+
+“Naia?” Ali called, searching in vain for her friend. The ooze dungeon domain mana was still woven through her own, so she had to be alive. Didn’t she?
+
+“Here.” A small pile of sand, a few meters in front of Ali, shivered softly and suddenly turned blue.
+
+“Naia!” Ali exclaimed. “You’re ok! I was worried about you.” She reached out and wrapped her arms gently around the softly glowing blue squishy bubble that was her friend. “You’re quite the mischief, you know that? How do you hide so well?”
+
+“Ali-friend,” Naia said, twisting and writhing a little in her surprise embrace, but not exactly pulling away either. “You saved me. Where did you go after the scary dead one came?”
+
+“The Lich? I have a long story to tell you,” Ali said, “but perhaps we should retreat for now? This place is dangerous. I’m just happy you’re fine.”
+
+“Naia isn’t fine.” The blue transparent membrane shivered with anxious worry. “Slime Lord is stuck; I cannot fight the trees and the wyrm. Too strong for me.”
+
+“Stuck?” It took a moment for Ali to parse Naia’s worries, but she quickly unraveled the tangled thread of the Mimic Slime’s alien logic as soon as she remembered that Slime Lord was Naia’s class and thought to identify her friend.
+
+Mimic Slime [Rift Warden] – Anomalous Ooze – level 100 (Water)
+
+“You’re level one hundred, Naia. That’s amazing! And you got a title too!”
+
+“No, it’s terrible,” Naia countered. “Can’t get stronger. Can’t fight a level two hundred wyrm. It ate the whole city, and most of the paladins and fighters that came afterward. Even worse, it ate my slimes and oozes, and there’s more coming out of the rift.”
+
+“There are more of those things?” Lyeneru said, interrupting with a sudden intensity that sent Naia scrambling to hide behind Ali, instantly shifting her body into the shape of a small bush.
+
+“Tell the scary elf lady that there are many more wyrms in the rift,” the bush whispered, trembling and vibrating with the sound of her voice, but otherwise indistinguishable from an actual real bush. Ali marveled at how even her mana affinity appeared to change to match. “They can pull the rift open with their magic.”
+
+Ooh, not good. Ali sighed. Dealing with just one had been hard enough.
+
+Lyeneru’s expression changed from intense to somewhat awkwardly embarrassed at Naia’s extreme reaction. “I’m sorry…”
+
+“She won’t hurt you, Naia,” Ali said, patting the bush gently. Even to the touch, her transformation was perfect; the branches and leaves felt real. Even if they were azure. Ha! Her little mimic friend did make the odd mistake.
+
+“You sure?”
+
+“Yes. She’s very intense, but she’s a good person. You could be friends if you want.”
+
+“She is Ali’s friend?” Naia asked, vibrating softly.
+
+“Yes,” Ali said. While her relationship with Lyeneru could hardly be described as a friendship, she certainly trusted the Night Elf more than most, and this wasn’t exactly the time to educate a slime on the complexities, intricacies, and variety of interpersonal relationships. Friendship seemed close enough.
+
+Lyeneru, for her part, stood awkwardly alongside them, clearly not knowing how to handle the little slime.
+
+“Bush is good?” Naia asked, changing the subject.
+
+“You make an awesome bush, Naia,” Ali said. “I like the little berries, that’s a good touch. The only problem is you’re a perfect blue bush in a desert of sand dunes, so you’re going to stand out a lot.”
+
+Naia wilted, slowly transforming back to her blue blob, and Ali instantly felt guilty for letting her down. “Lyeneru gives classes on stealth and concealment at the guild, if you want.”
+
+“Scary elf lady can teach Naia to hide better?”
+
+“I can,” Lyeneru said.
+
+“Friend?” Naia asked, bouncing over to Lyeneru and offering a thin pseudopod of blue slime.
+
+“Sure, Naia, it’s good to meet you,” Lyeneru said, taking the offered pseudopod and shaking it awkwardly. “The next class is tomorrow morning, if you want to join.”
+
+“Naia will join.”
+
+“Naia, will you come to my shrine? I can help you with your evolution, and then you will be able to grow again. We should probably leave soon,” Ali said, while studying the surrounding wasteland that had once been Volle. With the Sandwyrm dead, the plants pouring from the hole in the ground were growing more and more numerous, and soon they would have to fight them again. “I’ll unsummon the Gate once everyone returns. And, Naia, after we unlock your evolution, we can find you a new home.”
+
+“This is my home,” Naia said, and even though her body wasn’t capable of expressing a pout, Ali could feel it as clear as day. “The monsters don’t belong here; it is my cave, and my little river.”
+
+Ali turned to stare at Naia, surprised by the vehemence in her voice.
+
+“I would prefer you leave the Gate up, if possible, and maybe place a boss here,” Lyeneru put in.
+
+“Last time I left gates and teleportation circles, I lost my dungeon, and Volle and Vertias got attacked by monsters,” Ali said. She had no desire to inflict that on others again, nor did she want a continuous stream of invaders now that she had finally reclaimed her dungeon. The Abyssal Realm was more than enough.
+
+“This is a rift break, we need to defeat it and try to close the rift,” Lyeneru said, drawing a small growl of frustration from Ali that evidently surprised the Pathfinder.
+
+“Why should we do that?” Vivian said. “This is Toria, they can take care of their own mess.”
+
+“This is what the Pathfinders Guild was created for,” Lyeneru said. “If we give up our duty to defend against the monsters from beyond the rift, we may as well have just died when Ciradyl fell. The Pathfinder organization is not limited by the boundaries of human kingdoms,” Lyeneru said. “Safety for the realm is our mission.”
+
+Ali looked dubiously at the horde of plant monsters still spilling from the hole. It was a long way down to reach the rift, and what Lyeneru was suggesting would be an enormous undertaking. Especially if there were more Sandwyrms. “So, what do you plan to do?”
+
+“I will defend the realm myself if I must,” she said firmly, but then her expression fell. “Although against such a force, I would not succeed for long on my own. I’ll need help.” She turned to address Vivian again. “I was hoping to borrow a couple of your guild raid groups and fight our way down, now that there is less need for them to protect the townsfolk from monsters.”
+
+“Very well,” Vivian said. “I won’t force anyone to do it, but I will put up the quest on the board for anyone who wishes to sign up.”
+
+Lyeneru nodded, while all around, ears perked up, rather obviously eavesdropping on the conversation, and Ali could tell there would be no shortage of volunteers. Everyone in this guild is crazy, she thought, certainly to want to continue fighting after the encounter with the Sandwyrm. But Ali felt her own heart reacting in anticipation, too. There would be a lot of monsters to defeat, many imprints to be had, and the guild certainly would benefit from the opportunity to level up. I could level up a lot of minions with this quest. Maybe deal with evolutions first? Hold on. One step at a time.
+
+While anger had spiked in her chest as she was effectively being asked to defend the realms from yet another ill-placed Rift, she knew she was also the person best placed to do exactly that job, or at the very least, to defend the locations. She had growing power and strong minions, but she also knew first-hand how quickly it could all go sideways. Their enemy was not to be underestimated.
+
+“Do you have a plan to deal with the rift?” Ali asked, catching her breath a little as she drove to the heart of the problem. “Do you know how to close one?”
+
+“No, I don’t,” Lyeneru said, her mouth twisting with worry.
+
+“Well, Naia wants to reclaim her home,” Ali said. “Perhaps after we unlock her evolution, you can take her with you on your mission, and she can secure the rift just like I am blocking the one to the Abyssal Realm? After it’s secure, I can do some research with those gravity cores. If Naia is right and the wyrms can stretch the rift, then perhaps their magic can be used to close it permanently, too?” Of course, there was no way Ali was going to leave her little slime friend to guard the rift on her own. It would be a joint effort, just as she had originally planned.
+
+“Well, that’s better than no plan,” Lyeneru said, puffing out her cheeks. “I’m all for it. Any chance Ryn might be able to do some research for us? Or those crazy space mages?”
+
+“Four levels for you, too?” Calen asked.
+
+Mato pulled up his notifications quickly and checked. “Yup. Feels like I got cheated.”
+
+Elemental Shapeshifter has reached level 142 (+4).+40 attribute points.
+
+“What do you mean?”
+
+“You got the same, and you didn’t get to enjoy being Wyrm food,” Mato chuckled. He had brought up his outlying attributes a little over the last few levels, so this time he spent five each on perception and wisdom, and then ten each for strength, vitality, and endurance, and called it good.
+
+“Aah, can’t say I’m sad about that,” Calen said.
+
+“At least I’m loving my void claws,” Mato said, glancing through his skill increases. “I haven’t encountered anything they can’t slice.”
+
+Arboreal Sanctuary has reached level 59.Swipe has reached level 75 (+3).Brutal Restoration has reached level 71 (+3).Bear Form has reached level 68 (+2).Rampant Growth has reached level 38.Bestial Combat has reached level 58 (+3).Natural Prowess has reached level 55.Survival Instinct has reached level 70 (+2).Battle Trance has reached level 52 (+2).Last Stand has reached level 21.Herb Gathering has reached level 28.
+
+“I’m a little worried about her, though,” Mato said as the two of them approached the Gate where Ali was hard at work summoning a guardian boss to protect it.
+
+“You mean the part where she willingly got herself eaten by that Wyrm?” Calen said, frowning.
+
+“Yes. I didn’t have any choice in the matter. She chose it.”
+
+“It was effective,” Calen said. “But… she’s changed. Ever since she came back from the Abyssal Realm. I just hope she’s ok.”
+
+Mato frowned. “I think the best thing we can do for her is help her save Naia’s area and then figure out Lira’s acorn.”
+
+His friend nodded. “I don’t see much rest in our future, do you?”
+
+“Nope!” Mato clapped him on the shoulder. “Still, I’m glad my Herb Gathering is gaining levels. That’s what I plan to do when I retire.”
+
+“Oh, and here I thought you’d just gently Swipe and Brutally Restore them?”
+
+“Hmm, maybe that could be a new way to create elixirs?”
+
+They trekked through the sludge and twisted trees in what had once been Ali’s Forest Cavern, heading toward the shrine. It was dark, and the oppressive stench of rot hung heavy in the air, but the roaring of aberrant monsters had been silenced, and the only movement seemed to be coming from moths, dark green wisps, and other small creatures.
+
+Malika sighed and glanced at Ali, flying along beside the excited blue blob that was Naia. I’m just glad it all worked out ok. Trudging along beside her, Mato was growling.
+
+“What’s wrong, big bear?” Malika asked.
+
+“I don’t like this,” he said, waving his hand about in a vaguely all-encompassing gesture.
+
+“I know what you mean,” Malika said.
+
+“I just hope she can fix it quickly.”
+
+“Me too.” Even the light was sickly green or yellow from rare glowing fungi. Malika dearly missed the bright golden lights and beautiful bamboo forests and trees.
+
+“Here we are,” Calen said.
+
+“I’m going to help Naia process her evolution, and then there are a few experiments I want to run afterward,” Ali said. “It might take some time.”
+
+“I want to check in at the guild and then visit with my mom,” Calen said.
+
+“I’ll come with you,” Mato said. “My mom will probably be missing me, too.”
+
+“What about you, Malika?” Ali asked.
+
+“I’ll keep you company, while the mommy’s boys go do their duty,” Malika said, earning herself a pair of amused scowls from the accused. “I’ll meditate here while you work.”
+
+Malika returned Ali’s smile and settled down, visiting the growing dojo nestled in her soul to consult with the notifications of her growth.
+
+Eyes of the Soul has reached level 143 (+4).+40 attribute points.Martial Artist has reached level 72 (+2).Soul Strike has reached level 75 (+2).Healing Mantra has reached level 87 (+4).Perfect Body has reached level 51 (+2).Soul Armor has reached level 63 (+2).Enlightened Evasion has reached level 55.Divine Step has reached level 67 (+2).Second Wind has reached level 43 (+2).Clarity has reached level 48.Soul Sight has reached level 52 (+3).
+
+Malika studied her skill growth closely. In the face of the giant Sandwyrm, she had struggled. None of her physical damage had done anything, and she was better off than most. Only her Soul Strike had penetrated the incredible obsidian armored scales to do damage from within.
+
+Still, she had allowed herself to be swallowed by the monster somehow, and then she had confronted the reality of struggling to move with her lower strength attribute under the oppressive weight of its gravity magic.
+
+And Naia said there’s likely to be more? Malika glanced over at the unassuming little slime as Ali guided her to the shrine.
+
+I should keep up my investments in strength… but I can’t afford too much, otherwise my main attributes will lag. Hmm…
+
+Finally, she decided that the most she could afford was two points, provided she committed to continuing to develop the attribute in the future. Two more points went to intelligence, based on similar logic and the fact that not every fight would be strength dominant. Moving up her priority list, she spent four each on vitality and perception and then nine each on wisdom and endurance, boosting her main attributes and her resources simultaneously. Finally, she spent her last ten points on dexterity.
+
+There, that should be better. I should ask Ali to scout further out from Volle, in case any of those monsters made it all the way to Kezda.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

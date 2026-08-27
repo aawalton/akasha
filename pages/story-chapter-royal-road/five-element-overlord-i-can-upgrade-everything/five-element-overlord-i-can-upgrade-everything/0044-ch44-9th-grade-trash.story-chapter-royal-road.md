@@ -1,0 +1,127 @@
+---
+id: 99daec68-ba30-5418-a81e-09d55b73aae0
+page-type-slug: story-chapter-royal-road
+title: "Ch44 9th Grade Trash"
+slug: 0044-ch44-9th-grade-trash
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 44
+ownLength: 1646
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3338611/ch44-9th-grade-trash"
+royalRoadId: "3338611"
+---
+
+I don’t return to the underground vein. Instead, I head straight to the bathhouse to soak in the artificial hot spring.
+
+A few familiar stewards are here, as this is around the same time I normally finish my route.
+
+There has never been anything more than polite bows between us, however I can’t help but overhear the conversation between two extremely old men on the far side of the bath today.
+
+“Congratulations, old Liu, the 3rd level of qi refinement, just a year before you hit 80, maybe we’ll make it to 100 together.”
+
+“I remember hitting the 3rd level a few years back. Reaching my full potential sure felt good, I can only imagine how you feel hitting it 5 years earlier. As long as you don’t strain yourself trying to push any further. It’s smooth sailing from here on out. Us 9th grade roots have it tough, but at least we’re not burdened with the gleam of hope the 8th grades have.”
+
+Both men laugh together, and I sink deeper into my thoughts.
+
+Faced with the endless abyss of a bottleneck, it's no wonder most 9th grade roots give up at level 3. Hearing these old men celebrate like it's an achievement makes me slightly sick.
+
+They look almost identical. Wrinkled, hunch backed, and have tan skin from decades working as stewards. The only difference between them is that the older and wiser one, Old Chu, has no hair at all. The new 3rd level qi refiner has long grey hair tied up in a bun out of the water.
+
+I let out a sigh, then speak up to join the conversation.
+
+“Old Liu, Old Chu; I picked this up in the Red Pine Market, waiting for the right time to drink it. I hope you can allow this Junior to celebrate with you.”
+
+I smile and pull out three inferior quality spirit wines from my storage, and wade closer in the misty room.
+
+When the old men catch a glimpse of what I’m holding, their eyes gleam with interest.
+
+“Of course, Li Hao, right? One of the youngest 9th grade stewards I’ve seen in a long time. Maybe you can make it to the 3rd level before 60.” Old Liu remarks, grabbing one of the bottles.
+
+Old Chu accepts a bottle too, but isn't as talkative at first.
+
+We all uncork them at the same time and take a swig.
+
+“Not bad… this is inferior quality spirit rice wine, a bottle should cost at least a hundred fragments.” Old Chu murmurs, and takes a much bigger gulp with a smile.
+
+This is my first taste of alcohol in this world, and to be honest, I’m not impressed.
+
+It tastes sour, bitter, and sharp. Similar to bottom shelf low quality wine in my past life.
+
+Yet, the two old men seem to really enjoy it. The standards must be much different here.
+
+There is a faint amount of qi in each bottle, maybe ten or twenty fragments worth. However, by the time they’re halfway drunk, both men are rosy-cheeked and laughing more heartily than before.
+
+The two talk about old times, and unruly servants they’ve punished recently, so I don’t interrupt. However, when the topic of cultivation comes back around, I engage and pose a question.
+
+“Old Chu, you did say that 8th grade roots have a glimmer of hope before, what did you mean by that?”
+
+He laughs and takes a swig of wine, “Oh, Li Hao, you’ll soon learn to appreciate your trash 9th Grade roots like us. Sometimes, when the 8th grade stewards hit level 3, they go mad. They talk about seeing a light in the abyss sometimes when they sleep, or when they are deep in cultivation.”
+
+Old Liu laughs back, “Yeah, the worst part is it's true. There's plenty of stewards that rupture meridians chasing it, a few per year shatter their dantians too. I remember a few decades back one of the stewards actually broke into the 4th level. It was when I first joined the steward ranks. He moved up to the Outer Sect, and cast a shadow over all the other 8th grade stewards.”
+
+Old Chu clinks bottles with him again, and the two grow rosier in the cheeks while reminiscing on that day.
+
+My eyes widen as I piece together the connection. The main quest in my system comes to mind.
+
+“Wait, you’re saying if a steward reaches level 4 they can join the Outer Sect?”
+
+Old Chu finishes off his bottle and nods, “Of course. You’ll get the chance to apply at least. One of the Outer Sect peak masters still has to accept you.”
+
+Old Liu finishes his bottle too, so in order not to be left behind I chug the last third of mine.
+
+This young body is affected by the alcohol quite harshly. My reaction time slows, and my vision blurs quite a bit, however, I secretly activate my Jade Purity Soul Scripture and flush out most of the alcohol from my system within a minute. I bring it down to a manageable buzz before deciding to move again.
+
+“Well, thank you for the insight, Seniors. I congratulate you on your breakthrough again, Old Liu. I should get some rest for the night.”
+
+“Li Hao, you are truly a bright kid. This Senior will remember your praise, and gifts.” Old Liu replies in a drunken state, and continues to laugh with his friend.
+
+I leave the bathhouse with new insight, and even more motivation.
+
+–
+
+Over the next few days, I don’t cultivate very much.
+
+Some of my upgrade cards go toward creating more perfected defensive and incineration talismans, just to feel more secure while walking through the abandoned forest down in the ravine. I collect the refined spirit stones stored in the array flags daily, bringing my total wealth above ten thousand briefly.
+
+The imagery of that Demonic cultivator at the 8th stage of qi refining surviving an incineration talisman pops up in my mind daily. I decide to use up the full 10,000 spirit stones to recharge my Azure Lightning Attack Talisman.
+
+Upon mentally activating the recharge function, it pulls in every spirit stone within about a meter radius of it.
+
+I pour out huge piles of spirit stones from my storage for a few minutes straight, and watch the dormant rectangular jade light up and crackle with Azure Lightning once again.
+
+Holding this trump card in my storage again makes walking through the empty Ravine far less eerie.
+
+Aside from this, a perfected qi gathering pill is still consumed daily, for the benefits that the heavenly aura gives in stimulating my soul. However, the abyss-like bottleneck stays the same.
+
+I’ve tried eating a perfect healing elixir, but it has little to no effect on my healthy body.
+
+I even upgrade the last bottle of inferior quality spirit rice wine in my storage, and spend half a day sipping and refining it. The new wine is far more potent, and most of the sour and sharp taste of cheap wine is refined out. Just a single gulp can get me drunk, and the qi content has risen to easily a few dozen spirit stones within. I don’t finish the whole bottle, as it feels no different than absorbing raw qi. No unexpected insights come out of it.
+
+In a squeeze like this, a minor lottery from the system could help. Yet, when I open up my quest panel, everything looks almost exactly the same.
+
+[Ding!][Host has requested to see available quests.]
+
+[1 Main Quest Task Available][Officially join the Azure Cloud Sect by becoming an Outer Disciple.]
+
+[3 Side Quest Tasks Available][Reach the 4th Level of Qi Refinement, becoming a mid-level qi refiner.][Kill 5 Spirit Beasts, (1/5 complete).][Kill 5 Late Stage Qi Refiners, (1/5 complete).]
+
+[??? Mysterious Quest Tasks Available][Hidden]
+
+An additional side quest has been added after killing the Blood Sword Sect’s Late Stage Qi Refiner, to kill four more like him. Yet, running into more demonic cultivators like that seems far more up to chance than something I can control as a mere steward.
+
+The second side quest, however, killing spirit beasts does not appear too hard.
+
+The only problem is, it is not so simple to find spirit beasts, they do not interact with humans if they don't have to. The only time I even saw one in the past was because I was attracted by the emergence of a spiritual fruit.
+
+There are small signs of battles in the past where Blood Sword Sect cultivators must have fought with smaller beasts, but during their time in the Ravine, they cleared everything out in the vicinity.
+
+New beasts are not appearing because I’ve completely concealed the spiritual vein, and depleted the ravine of its natural qi. I consider releasing its aura to attract some beasts, but it may bring far more trouble than good.
+
+A 3rd level black serpent corpse held frozen in suspended animation is still sitting in the bottom of my storage as a constant reminder of what a mid grade vein could attract. I may be able to handle any unintelligent beasts that come my way, but if the Sect finds out what I’m hiding, that would not be manageable.
+
+Without quests that grant minor lotteries as an option to break this bottleneck, I spend most of my off time in the dining hall and bathhouse of the stewards’ quarters. I wait for the only option I have left.
+
+Finally, when the voice of Gu Shan rings through the night, yelling out what I’ve been dreaming to hear, a wide smile grows on my face.
+
+“Stewards! I’ll be making a quick trip to the Red Pine Market tonight. The ride price to tag along has doubled to 200 fragments. Please be ready to leave in front of the dining hall in fifteen minutes!”

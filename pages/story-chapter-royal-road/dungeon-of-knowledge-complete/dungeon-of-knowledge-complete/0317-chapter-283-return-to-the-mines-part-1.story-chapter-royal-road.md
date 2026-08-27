@@ -1,0 +1,143 @@
+---
+id: c084385e-0278-56bc-af0b-fc05b73baf85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 283: Return to the Mines (Part 1)"
+slug: 0317-chapter-283-return-to-the-mines-part-1
+partOf: dungeon-of-knowledge-complete
+position: 317
+ownLength: 2404
+unit: words
+ownProgress: 2404
+publishedAt: 2025-06-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2363673/chapter-283-return-to-the-mines-part-1"
+royalRoadId: "2363673"
+markedReadAt: "2026-06-29T20:22:03.526Z"
+---
+
+Ali stood at the entrance to the Emberforge Mines using a barrier to fend off the waves of heat billowing out from the dark tunnel, worrying incessantly about their plan. What if we can’t kill it? Or if we’re too slow? These thoughts, and others just like them ran around and around in her brain like a dog chasing its tail. It had all seemed so clear to her when she had proposed it up in the safety of the guild store, but now that she faced the mines… she knew what awaited them below. Only this time, so much hinged on their ability to pull this off.
+
+Lydia had come through for her with flying colors, producing an extraordinary robe; it didn’t have any explicit fire resistance enchantments on it this time, but the amount of base resistance she got from the higher-level work more than covered the difference.
+
+Elegant Frostweave Robes – level 95A long, elegant flowing mage robe, expertly crafted from frostweave fabric. It is cold to the touch and sheds trails of snow and ice crystals. Resistance: 1368+57 Intelligence+38 Perception+21 Wisdom+12 VitalityRequirements: Intelligence 333Created by Lydia Avery.Body – Frostweave
+
+As she stood facing the oppressive heat and fire mana billowing from the mines, Ali found a second reason to be grateful for her new robes – the Frostweave fabric kept her skin nice and cool. Aah, adventuring with style and comfort. What a revolution!
+
+“Is that all you’re bringing, Ali?” Malika asked, eyeing the forces arrayed beside her.
+
+“I can’t bring too many monsters with me,” Ali said. It was a strange problem to have; to be constrained by the width of the passages in the mines, rather than her now-excessive mana pool. It was not just the cramped quarters – the last time they had tried the final boss, she had discovered that the Corrupted Fire Drake encounter had a limit of about ten minions before the curse started to become overwhelming.
+
+Armored Drake – Dragon – level 78 (Fire) x2Bone Warrior – Troll – level 80 (Bone) x2Blood Shaman – Troll – level 83 (Blood) x2Ice Mage – Troll – level 83 (Ice) x3Witchdoctor – Troll – level 87 (Soul)Blood Berserker – Giant Troll – level 97 (Blood) x2
+
+“I think this should be good,” she said, studying her forces.
+
+“Everything is high level,” Calen observed.
+
+“Yes. I’m limiting myself to ten minions for the drake,” she explained. She would have to decide later how to pare her current group down.
+
+“What about leveling your minions?” he asked.
+
+“I’m not sure how it works yet,” Ali admitted, returning to the conundrum she had been pondering for a couple of days already. Minion Ego meant her minions could somehow gain experience.
+
+“I think you should bring some of your lower-level minions,” Calen said, scratching the back of his neck. “If it works anything like normal class leveling, you’ll have your answer much sooner from a level thirty.”
+
+“I just don’t want to slow us down,” Ali said. “Keeping the kobolds alive was challenging.”
+
+“Just resummon them as we go,” Mato offered. “Your book isn’t fast, but it’s a lot better than it used to be. And if it becomes a problem, you can just choose to not resummon them.”
+
+“If it works like that…” Ali said, considering her options. If it worked the way Calen thought, it meant she should be able to choose minions to add to her forces for no other reason than she wanted higher-level versions of them. She wrestled with the time constraints and her options for a few moments.
+
+You’re wasting time, Ali. In the end, what were a few low-level summons but extra mana? She could make a bigger group and just not resummon them if they died. If they lived, she would have her answer, and if they died, she didn’t lose much. Quickly, she added two ice-affinity minions with the expectation that most of the fire elementals would be vulnerable to their damage and then summoned two of her favorite lower-level minions.
+
+Frost Weaver – Spider – level 71 (Ice)Frost Dragonet – Dragon – level 64 (Ice)Abyssal Stalker – Demonic Spider – level 45 (Blood)Acolyte of Azryet – Kobold – level 23 (Holy)
+
+She would need to discard some before the final fight, but she may as well try them out on the way. She almost didn’t take the acolyte, given how challenging it would be to keep the extremely low-level kobold alive in there, but she had done it before, and the acolyte had proved to be one of her most crucial minions for much of her time before she had been forced to finally retire them early in Aman Rak.
+
+She retrieved Tol’brekk’s two axes, dropping them on the ground because she lacked the strength to lift them. Both berserker trolls swiveled their huge heads and locked their eyes on the weapons.
+
+“Seeker, I can use those best,” the male giant troll said, his eyes filled with pure avarice.
+
+“Don’t listen to him, Seeker. I am the stronger fighter, I should use them,” the female retorted.
+
+“One each,” Ali said firmly. “Decide fairly.” She was not used to her minions bickering or advocating for themselves as individuals; only once, when she had asked a shaman to drop her Ancestral Spirit Runes had she seen a minion have an actual emotional reaction and a strong opinion.
+
+Minion Ego is definitely having some effect, she thought as she watched the female troll pick up a shiny pebble and hide it behind her back before offering both enormous fists for her companion to choose. The female troll won the choice and snatched up Tol’brekk’s Bloody Axe of Carnage with a whoop of joy, leaving the Decimation Slash for the male.
+
+Still worried a little about her minions’ behavior, she crafted two bone greataxes so they would have a weapon for each hand.
+
+“I’m ready,” she said, turning to her waiting friends.
+
+“About time!” Mato exclaimed, but he was grinning. “That’s a pretty impressive army.”
+
+“Hush, you,” she said. “Let’s go.”
+
+Mato just chuckled and turned into his Bear Form, leading the way into the mines, followed by Ali’s two giant trolls who barely fit through the tunnel, bickering as they jostled for position like two rival kids.
+
+“First Shard of Flame,” Calen said, stepping forward, but the two berserkers immediately leapt forward, arriving at approximately the same time as Mato with great overhead smashes of their axes. The ice mages unleashed their ice bolts and the bone warriors charged, and they had barely even begun combat when the chime sounded.
+
+Your group has defeated Shard of Flame – Elemental – level 38 (Fire).
+
+“Whoa, already?” Ali gasped, stunned by how quickly it had died. When she had first walked these tunnels, she had required continual healing just to survive in the burning air, and her force of minions had been decimated in nearly every fight. Although her first army against the Emberforge Mines had been mostly low twenties and below. She had just killed a level thirty-eight elemental with a pair of level ninety-seven berserker trolls.
+
+“We’re just a little stronger,” Malika chuckled, snatching up the essence of flame.
+
+“Let’s go a little quicker,” Calen said, getting a roar from Mato as he turned to run down the heated corridor and Ali’s minions rushed to follow him. What followed was a ridiculous running battle with absolutely no time to rest as they tore through the elementals with frightful ease, the corridors filled with flashes of gleaming axes, swooshes of ice bolts, and crimson ribbons of blood magic. Ali bubbled her acolyte in barrier magic and whisked the little kobold down the tunnel beside her.
+
+“Spider hall coming up,” Calen shouted, but Ali’s minions did not even slow down, both berserkers activating Blood Vortex in the hallway and tearing through the spiders like they were an afterthought, any remnants being picked off by an exploding axe thrown into the darkness, or bolts of ice, or Calen’s explosions.
+
+In just a couple of minutes, Ali found herself a little out of breath, staring into the cavern of the Flame Broodmother. Before she could even consider changing up her minion army, Mato charged in and, with a hideous hiss, the Broodmother dropped from above blasting him with fire breath that turned the rock below his feet into slag. He deftly turned her toward the wall and the battle was engaged.
+
+“Go!” Ali commanded. Her minions roared, tearing into the cavern and charging down the giant spider with an obvious sense of eagerness; a hunger for battle.
+
+“Web explosion!” Ali called out, recognizing the domain mana pattern of Nova Strike and remembering how the Broodmother would pin them all to the walls with her webbing. Sure enough, the flaming web blasted outward, pinning everyone to the walls, just like before.
+
+But unlike before, Mato swiped through the web hitting the boss, and both berserkers shrugged off the web, one with Blood Vortex and the other with brute strength, clearing the entire cavern of spiders on their way back to the boss. Her ice mages dropped a frost nova and teleported out, followed by a shimmer that indicated her witch doctor returning from the spirit realm.
+
+A few moments later her chime sounded again. I hardly did anything…
+
+Your group has defeated Flame Broodmother – Spider – level 60 (Fire) Your Acolyte of Azryet has reached level 29 (+6).Your Abyssal Stalker has reached level 47 (+2).Your Frost Dragonet has reached level 65.
+
+Just like that, Ali’s Grimoire appeared, glowing brightly as the pages flipped and drawing in clouds of runes that erupted from her three minions, updating her imprints rapidly.
+
+“That’s new,” Malika said.
+
+“Congrats, Ali,” Calen offered.
+
+“It’s like you thought it would be,” Ali said, fascinated at the sensation of information flowing through her mind, activating her new magic. The dragonet and the stalker had already assigned their attributes by the time she checked, but her acolyte had not.
+
+“What is your wish, Ancient Mistress?” the robed kobold asked. It didn’t take long for Ali to decide on a plan for her acolyte, and she made sure the points were efficiently spent while they moved on to the next section of the mines.
+
+Their reckless pace through the winding tunnels didn’t slow even a bit as they tore through the elementals, spiders, Lava Lurkers, and even the first Living Flames without ever slowing down. Ali unsummoned her Armored Drakes, finding they were getting in the way of her berserkers more than they were helping, replacing them with another Frost Dragonet and an Ice Mage instead. But nobody stopped for her, she summoned them mid-combat. It wasn’t like she was doing anything else anyway. In fact, the bulk of her attention was going to analyzing the most common fire spells the elementals wielded in hopes of testing her new Disruption ability.
+
+When they finally reached the landing, Calen pulled the Living Flames two at a time, splitting them between Malika and Mato, but after the first two, they stopped splitting them. Instead, they tanked them side by side against the wall and let the berserkers cleave both simultaneously. Ali stopped healing her berserkers, letting them drop to about half health, and they tore through the elementals so quickly, most of the time they never even got to use their shield and regeneration skill.
+
+I guess ice vulnerability helps a lot too, Ali thought, watching her minions with Martial Insight, passing her time studying the ice bolt spells and trying to formulate the counter-magic to it, because otherwise, she would be spending all her time simply deconstructing the devastation her minions left behind.
+
+“Usual strategy for the clones,” Calen said, sprinting off into the room.
+
+Already? Ali thought, but the room beyond was almost empty, just two enormous Living Flames chasing Calen back to their position. She summoned a large barrier for herself and her acolyte and observed her minions tearing into the elemental Malika was tanking. It was nice to be able to use Healer’s Sight again, but Malika was not taking nearly enough damage to matter. Only the occasional undodged strike from the elemental did anything, and that damage was quickly healed by a restoration spell or Malika’s magic, which would shimmer as it rippled out from her, healing everything in melee range.
+
+“Explosion!” she called, and while her minions did get blasted into the air, none of her mages moved, taking the damage with their ice shields, frozen to the ground. The berserkers got tossed into the air by the powerful magic, but they leapt back, springing off the walls or ceiling – wherever they landed – and the fight continued with just a little healing thrown around to top everyone up.
+
+Before the second explosion, the Living Flame dropped in a sizzle and a sigh, falling to the ground.
+
+“The other side,” Ali instructed, but her minions were all smart enough to figure it out on their own and were already running through the doorway into the Landing to join Mato and the Blood Shaman she had left there with him.
+
+“Shield!” Ali shouted as the Living Flame threw up the dense impenetrable shield and began to attempt to respawn its clone. But the ice bolts penetrated right through the shield, causing the spell to fizzle instantly, and then the shield shattered under the combined onslaught of berserker axes.
+
+Your group has defeated Living Flame – Elemental – level 65 x2.Your Acolyte of Azryet has reached level 34 (+5).Your Abyssal Stalker has reached level 48.Your Frost Weaver has reached level 72.
+
+“Which skill should I choose, Ancient Mistress?” the kobold asked, waiting patiently beside her.
+
+Oh, Ali thought, realizing her kobold just unlocked her ninth skill for reaching level thirty. She glanced through the options, picking a spell called Cure which could dispel poison or disease, preferring the versatility it gave over the extra healing spell and the offensive holy smite that had been her other choices.
+
+“Door is open,” Malika said, stashing the strange distillate that Morwynne had concocted for them, and Ali stared through the doorway at the hordes of fire elementals patrolling around, remembering just how scary it had looked the first time.
+
+Mato huffed, not even bothering switching to talk, and walked out into the giant cavern of ramps, rocks, and bubbling pools of lava.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

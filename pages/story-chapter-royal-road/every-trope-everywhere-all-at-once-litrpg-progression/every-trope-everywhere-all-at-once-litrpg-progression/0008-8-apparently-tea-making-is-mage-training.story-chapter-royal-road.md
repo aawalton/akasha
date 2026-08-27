@@ -1,0 +1,319 @@
+---
+id: 2f1ebca5-37f6-574a-9f69-37e804c9263d
+page-type-slug: story-chapter-royal-road
+title: "8 - Apparently, Tea-Making Is Mage Training"
+slug: 0008-8-apparently-tea-making-is-mage-training
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 8
+ownLength: 1971
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3388367/8-apparently-tea-making-is-mage-training"
+royalRoadId: "3388367"
+---
+
+And so our training began without my consent.
+
+“Serve me a cup of tea,” Meriel said.
+
+I stared at her. “What?”
+
+“Serve me a cup of—”
+
+“No, I heard you the first time. But what does this have to do with training?”
+
+The blizzard outside was quieter now, but certainly still there. The fireplace filled the cabin with its crackle.
+
+Meriel nodded toward the tea kettle on top of the wooden table. Reina went to it and picked it up.
+
+“It’s empty,” she said. “How are we supposed to serve you tea if there’s no tea?”
+
+The white-robed mage pointed at the door.
+
+“The leaves are outside,” she said. “Not too far, not too close from here.”
+
+“You… want us to go outside? In that weather?” I asked.
+
+“This weather is normal in this region,” she said. “It doesn’t get much better. If anything, now is the calmest it has ever been in months.”
+
+I looked out the window.
+
+“You call that calm? We’ll freeze to death!”
+
+“Compared to usual, yes, it’s quite calm. How you approach this task is up to you. But as your mentor, I’d like to point you in the right direction.”
+
+She walked over to the fireplace, motioning for Reina and me to do the same. She crouched down, stuck her hands out, and warmed them with the fire.
+
+“Feel the heat,” she said. “Remember it when you’re out there.”
+
+I didn’t understand what she was getting at, but I followed along anyway. We crouched beside the fire and held our hands toward it.
+
+“There are a few spells that can help you out there,” Meriel began. “Do either of you have any ideas?”
+
+Reina went first. “Maybe we could hold a fire in our hands? That could keep us warm.”
+
+Meriel nodded. “Yes. That’s a good beginner spell. What else?”
+
+“Some kind of heat shield that could help us with the blizzard?” I tried.
+
+I didn’t know how prominent magic was in this world, but considering an archmage had made an arcane gambling machine, nothing was impossible.
+
+“What do you mean by that?” Meriel asked.
+
+“Like a spell that radiates heat around the body,” I said. “Instead of casting something like a Fireball, we could instead spread the heat around ourselves.”
+
+Meriel nodded softly. “I see. And how would you make sure you don’t burn yourself?”
+
+“We’d have to control it. Even if it’s not perfect, it should be fine considering how cold it is outside.”
+
+She smiled, impressed with my answer.
+
+“Good. Then let’s try and do just that.”
+
+“Right now?” Reina asked.
+
+“Right now.”
+
+We looked at each other. Neither of us had ever cast magic before in our lives. Even though I signed up with the guild as a mage, all the skills I’ve ever cast were from the System, not magic from this world.
+
+“Are you sure that’s something a beginner could do?” I asked.
+
+Meriel shook her head. “No.”
+
+“Then why—?”
+
+“I’m not here to treat you like everyone else. I’m here to raise mentees who can grow powerful enough to let me secure my position as one of the academy’s professors. If I treat you like any other beginner, you’ll just fall behind the other mentees.”
+
+I raised a brow. “The other mentees? Why do they matter?”
+
+“Because you’ll be competing against them. But enough questions.”
+
+Competing against other mentees…? Reina and I?
+
+“Fire is the most accessible element to cast,” she continued. “Most people see it as offensive magic, not defensive. Even a spell like Warmth Aura could burn things that touch you while it’s active. Still, it’ll help you survive the blizzard.”
+
+“So how do we begin?” Reina asked.
+
+“Close your eyes,” Meriel said. “Don’t think about the fire. Think about its warmth.”
+
+Reina and I did exactly as we were told. I wasn’t sure why I was listening so obediently, but what other choice did I have? The mage teleported us to the middle of nowhere. If I wanted to get back, I’d have to listen to her.
+
+“The fireplace didn’t grow this large by accident,” she said. “It started as one tiny flame before spreading to all the nearby logs. Magic works the same way. First, feel the warmth around you. Then imagine it flowing through your body instead. Always start from small to big.”
+
+I frowned. That sounded ridiculously vague.
+
+“How am I supposed to feel something invisible?” I asked.
+
+“You already are,” Meriel replied. “Your body knows warmth from cold. Instinctively, you understand the difference. Mana simply allows you to control it.”
+
+I turned over to my side. Reina was already trying it, her eyes closed, concentrating. Her face was turning red.
+
+“Um… Reina?”
+
+She didn’t say anything.
+
+“Rein—”
+
+Meriel covered my mouth. “Don’t break her concentration,” she whispered.
+
+We stared at her, giving her all the time she needed to succeed. And then…
+
+She fell over.
+
+“Uh…” I muttered.
+
+She lay there, completely silent. I tapped her shoulder, but she didn’t even react to it.
+
+“I think she passed out,” I said.
+
+Meriel put a hand under her chin, nodding. “I see.”
+
+“See what?”
+
+“She wasn’t trying to cast the spell. I think she was just holding her breath.”
+
+…
+
+I had no words.
+
+***
+
+[LEVEL]
+
+[117 → 118]
+
+[Intelligence]
+
+[-1 → 0]
+
+After a while of training, I received that System message. It told me two things: one, that I could naturally gain Levels in this world without completing tropes, and two, that the stats I gain during a natural level-up are automatically allocated, likely depending on the activity I was doing at the time.
+
+Out of curiosity, I called [INSPECT] on myself.
+
+[PROTAGONIST: Allene]
+
+Level: 117 (+1)
+
+HP: 576
+
+STAMINA: 50
+
+MANA: 50
+
+Strength: 20
+
+Agility: 20
+
+Vitality: 20
+
+Endurance: 1
+
+Intelligence: -1 (+1)
+
+Wisdom: 1
+
+[WARNING: Some values are kept hidden]
+
+Unallocated Stats: 60
+
+I looked at my Level and Intelligence. They both had a “(+1)” next to them.
+
+Interesting… so the System actually differentiates between stats gained naturally from this world and stats gained from tropes.
+
+With that aside, it took a lot longer than expected to learn the spell. Meriel was, thankfully, extremely patient with us.
+
+After about an hour of practicing right in front of the fireplace, I was starting to get a feel for how magic worked in this world. It was just as Meriel said—it’s always easier to imagine it as something that begins small, and grows big.
+
+Fireball? Small to big.
+
+Warmth Aura? Start at the heart, then spread it throughout the body.
+
+Magic was fundamentally different from the System skills I currently have. Ignoring the passive ones like [SENTINEL’S MOMENTUM] or [UNDERSTANDING ROACH], I also tried using my only active skill so far: [HIDDEN PATH DETECTION].
+
+Obviously, it didn’t uncover any secrets in this cabin, but it proved that the System skills were much easier to cast. I just had to think of its name with the intention of using it, and boom. [INSPECT] was even easier to use, considering I’ve been using it since the moment I came to this world.
+
+Although I managed to get used to casting Warmth Aura at an acceptable level—ignoring the fact that it was burning nearly all the hairs on my skin—Reina was… having a bit of a harder time.
+
+“You alright there?” I asked her.
+
+Her face was turning red again. She wasn’t holding her breath like before, was she?
+
+I felt a bit of heat emanating from her body, but it could’ve just been her natural body heat rather than the spell. Judging from how sweaty she was, it probably was.
+
+I decided to [INSPECT] her.
+
+[HUMAN: REINA]
+
+Level: 7
+
+HP: ???
+
+Description:
+
+A physically capable individual who is adept with the sword.
+
+Assessment:
+
+Harmless. Probably.
+
+It was nearly the same as when we had just first met: a bare-bones stat sheet, with the HP values hidden. Where were her other stats, anyway?
+
+If I were able to cast Warmth Aura with 0 Intelligence and 1 Wisdom, then her values must have been in the negatives, which honestly wasn’t very surprising. Sorry, Reina.
+
+At least she had gained a couple of Levels since the last time I checked. Good for her.
+
+Meriel didn’t give much critique throughout our training. Her teaching style was more about laying down hints for us rather than telling us outright how to do it.
+
+Reina fell back. She didn’t faint like before, but she was exhausted, her breathing heavy.
+
+“Ah… hah… a few more minutes… just a few more,” she panted.
+
+I gave her a soft look. “Hey, why don’t you just rest up? I’ll head out there myself and—”
+
+She grabbed my hand. “No! Don’t go!”
+
+I was surprised by the sudden movement. She gasped, taking her hand off me after realizing what she had done.
+
+“I…” she muttered. “I want to do it with you. Don’t leave me behind, please!”
+
+That was strange. Wasn’t she acting differently than before? When we first met, she seemed a lot more confident in herself. It was like ever since—
+
+My eyes widened.
+
+Ever since the incident with the love potion, she had been acting slightly differently. But how? I swore I took it away from her before she could drink any. The bottle was still completely full from what I remembered.
+
+I shook my head. No, I must’ve been misunderstanding things. She was probably just exhausted after everything we had been through today.
+
+Right…?
+
+I noticed her staring at me. When our eyes met, she quickly looked away.
+
+No… definitely not. There was no way.
+
+…
+
+Oh, who am I kidding? I’m not going to pretend to be one of those dumb protagonists. She’s definitely in love with me. That damned love potion was too potent! Even just a tiny drop—a little bit of liquid on the lips—is enough to make her feel this way! I should be grateful she didn’t drink more than that.
+
+But how am I going to deal with her now?
+
+Do I ignore it?
+
+Ask her about it?
+
+I ruffled my head. “Damn it!” I accidentally shouted.
+
+Reina and Meriel looked at me.
+
+Screw it.
+
+“Reina, I’m sorry!” I cried, grabbing her hand.
+
+“Wha-what? What’s wrong?” she asked, face flushing red at my touch.
+
+“You’re in love with me, aren’t you?”
+
+Her eyes widened.
+
+“What…? What are you talking about?”
+
+She looked away, her other hand covering her face. Yup. That pretty much confirmed everything.
+
+“Listen, that love potion from earlier—you accidentally drank some of it,” I said. “Even just a tiny drop, even a little bit of that liquid touching your lips, is enough for it to work.”
+
+She shook her head. “There’s no way!”
+
+“Reina, I’m serious!”
+
+I accidentally raised my voice.
+
+“Are you saying these feelings are fake…?” she asked.
+
+“Well, yeah? I mean, we’ve literally just met—”
+
+Reina threw my hand away, tears coming from her eyes as she stood and ran away. She opened the door and ran out into the blizzard.
+
+“Reina, wait!” I called after her.
+
+But it was too late. She was already gone.
+
+The cold rushed into the cabin—an amount not even the fireplace could defeat.
+
+“Oh?” Meriel said.
+
+“She’s going to freeze to death out there!” I cried.
+
+She chuckled. “It’s your duty to save her. Between the two of you, you’re the only one who knows how to cast Warmth Aura.”
+
+I turned to her. “What? What about you? You’re going to help me get her back, aren’t you?”
+
+She walked to the bed and lay on it.
+
+“No. Consider this a part of your training. You have about ten minutes before she freezes to death. Good luck out there.”
+
+“Huh?!”
+
+[TROPE INITIATED: THE EMOTIONALLY DISTRESSED COMPANION RUNS INTO DANGER AND MUST BE RESCUED]
+
+Completion criteria: Rescue Reina.
+
+Note: Ignore the long title.

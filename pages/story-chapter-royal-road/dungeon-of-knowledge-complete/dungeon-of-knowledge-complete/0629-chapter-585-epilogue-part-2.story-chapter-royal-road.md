@@ -1,0 +1,199 @@
+---
+id: fbb557c0-4591-5f6a-9ce0-37afc3c0a1d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 585: Epilogue (Part 2)"
+slug: 0629-chapter-585-epilogue-part-2
+partOf: dungeon-of-knowledge-complete
+position: 629
+ownLength: 2816
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187754/chapter-585-epilogue-part-2"
+royalRoadId: "3187754"
+---
+
+Mato roared, taunting the Penumbra Wyrm away from the others and ripping through its shadowy scales with his void claws. It did not bleed like normal monsters, but the black ichor that sprayed out counted, at least according to his Bleed Proliferation enchantment. The bleeds spread to the other Wyrms, making them hiss with anger, and in moments, they all turned on him with their ripping fangs formed from shadows and their dark breath attacks.
+
+Just as he had hoped. He summoned two void shields in front of him and received a heal from his Lirasian Sage.
+
+It was a strange thing to be responsible for someone’s life, and yet it wasn’t the first time for him. Siphoning the corruption from Ali every day was draining in a way that physical exertion could never match, and yet, the sight of her back to full health and tearing through the decaying shadow dungeon like a force of nature made it all worthwhile.
+
+I hope there are a lot more of these rifts, he thought. Sitting around and reminiscing about how hard it had been to face the Blind Lich had just made everyone morose. Fighting was far better. And having the four of them back together, taking out a dangerous dungeon – a remnant of the Blind Lich’s terrifying legacy – was almost nostalgic.
+
+He lashed out again, triggering his Critical Block against the retaliatory tail lash, wondering what had put him in such a philosophical mood. Right beside him, Malika pulsed with devastating flashes of soul magic, while Calen’s array of mirror images rained down a storm of arrows at the beleaguered monsters.
+
+But it was Ali who was truly terrifying to behold. Not content with simply unleashing a dungeon break of elite monsters, Ali was consuming the very domain of the dungeon at an incredible rate, replacing it with burgeoning growth, trees, and new monsters, all the while casting a ceaseless storm of rare and obscure spells that only she had ever heard of, much less mastered. Yet all of them were perfectly chosen for the situation, as if tailored to match the circumstances.
+
+All too soon, the Wyrms crashed to the ground amid a chorus of chimes, and the dungeon was no more.
+
+“One more down,” Malika said, handing the Lich’s artifact to Ali.
+
+“Are you going to make an outpost here, Ali?” Calen asked, his eyes still restlessly searching every shadowy corner for threats.
+
+“Yup. This one doesn’t look so dangerous that I need to close it,” Ali said.
+
+Mato grinned happily. He had enjoyed fighting the Penumbra Wyrms, and it would be good to have the opportunity to come back for more. There had only been one rift so far that they had decided was far too dangerous to leave open, and Ali had blocked that by surrounding it with Mana Eaters, draining the entire area of the mana needed to keep the rift open. Still, she had promised to reopen it when they were higher level – there were riches in there, after all, and plenty of exciting fights to be had.
+
+All the rest of the Lich’s rifts Ali had made safe by installing bosses to protect them, leaving them as potential training grounds for the up-and-coming guild members. Annotations for the increasingly weighty Dungeon Manual that Aiden was so fond of.
+
+“Come, let’s go home and get some food,” Malika suggested.
+
+“Perfect,” Mato answered. “I have a new recipe I want to try. Penumbra stew!”
+
+“Eew,” Ali exclaimed, wrinkling her nose in disgust.
+
+But Mato just laughed.  “Put some meat on those little bones.”
+
+“Mato Bahr! You stop that!”
+
+Ali reached out for the next book on Ryn’s pile, channeling a little mana into her Grimoire to duplicate it, but then she paused as she saw the title.
+
+Advanced Classes for the Runic Scholar by Maeria Runeweaver
+
+The original had not survived her stasis, and she had all but forgotten about it in the chaos that had followed her reawakening, but now, as her hand hovered over the book, her memories of that day in the Grand Library Arcana spilled back into her mind.
+
+She had been sitting exactly here, if she recalled correctly, and had been reading this exact book, when it had all begun.
+
+And now, it’s over. Nevyn Eld, the Blind Lich, the scourge of many realms, was truly dead, and they strove daily to unravel his legacy. Even now, she had dozens of outposts in strange realms, intrusions into places the Lich had been harvesting for power and bodies to fill the ranks of his undead armies. Fights raged constantly as her domain served to dam up the rift breaks, blocking the monsters from entering and rampaging through the cities and towns woefully unprepared for the apocalyptic devastation that waited just on the other side of a paper-thin rift.
+
+As her latest boss defeated another Penumbra Wyrm, a sudden cascade of chimes sounded in her mind, followed by the all-too-familiar, ear-shattering gong of the Realm notification.
+
+You have gained the Title: Guardian of the Realm. Your Rift Warden Title has been replaced. Guardian of the RealmThere are many ways to earn the title of Guardian of the Realm. You have defeated more than twenty rift breaks and defended your realm against more than one hundred third-tier or higher monsters. You have established outposts of your mana and minions on over ten different realms. +25% to damage against monsters from a different realm. +25% to defensive skills when fighting monsters from a different realm. You will be recognized as a protector of the realm. Beings of the third tier or higher can always detect this title.Title[Realm] A new Guardian of the Realm has arisen.You have gained Reputation.+15 Authority.
+
+“Congratulations,” Ryn said, not looking up from her book.
+
+Huh? Ali blinked with surprise; the book from her past momentarily forgotten. And fifteen authority, too! Too bad I couldn’t have gotten one of those when I fought him. Still, she discarded thoughts of the Blind Lich quickly enough. He was gone now.
+
+I wonder how annoying those messages are for everyone, she thought idly, but then she returned her attention to the book in her hands. Quickly, she completed her magic, dropping a duplicate book into her lap. She picked it up, thumbing through the pages as memories flowed back into her mind. Where would she be now if she hadn’t met Malika, Calen, and Mato that day?
+
+Probably dead, eaten by wolves, she thought soberly. Or worse, those smelly rats. At least she had survived her first monster encounter on her own, so it wouldn’t have been a totally embarrassing story.
+
+As Ali sat back, having completed duplicating the stack of books, Ryn gasped. “Hey, Ali. I think something is wrong with Clarence.”
+
+“What do you mean?” Ali asked, glancing around and finding the book weaving drunkenly through the air toward them. Ever since she had used him to finish her mother’s spell and end the Lich, he’d been leaking golden sparkles like a Glitter Dragonet, but Ali had barely thought anything of it. Now, however, it looked as if the poor book was swollen and about to burst at the seams.
+
+“Hey, Clarence, what’s wrong?” Ali asked, but the book came in for a crash landing, slamming into the table and bouncing twice before skidding to a halt. “Did you… eat something?”
+
+The book mournfully shook itself, as if uncertain, and then belched out a cloud of golden mana motes.
+
+“What’s wrong with him?” Ryn said, leaning over to steady him.
+
+“I don’t know,” Ali said, but then she looked. The book was filled with so much mana that it was blazing in her mana sight. “Where is that all coming from, Clarence? Can you get it out?”
+
+Clarence flopped on the table, and then finally his covers burst open and the pages zipped by until suddenly he reached the chapter that exposed his core. Like a radiant sun, the exquisite knot of energy that powered the book sprang out to hover there above his pages.
+
+At once, Ali saw the problem. When she had first seen what had become of her mother’s mana signature, she knew it was continually growing. The core that manifested out of Clarence’s pages was far larger than anything she’d seen before.
+
+“Is he…” Ryn gasped.
+
+“Yes, he’s transforming,” Ali said, astonished and awestruck all at the same time. “An evolution of sorts. I think he needs our help.” If Ali had to guess, it had all started when she had fed so much mana into recreating her mother’s spell – it must have caused the poor book’s core to absorb so much energy that it had finally pushed it across the threshold. How long had he been holding this back?
+
+“How?”
+
+“Feed him your mana,” Ali said, placing her hand beside Ryn’s on the open page Clarence displayed. “Arcane.”
+
+“Are you sure?” Ryn asked. “We’re not going to hurt him, are we?”
+
+“As sure as anything,” Ali said. After all, she had seen so many evolutions at her shrine, she could recognize even one as unusual as this.
+
+Together, they both began to channel golden mana into the twitching book. Immediately, the core began to swell, but as Ali studied it, she realized it would need more. Much more. She opened the floodgates to her mana pool. Slowly, the golden ball swelled, growing steadily as Ali poured tens of thousands of points of mana into it. Still, something was lacking.
+
+“What do you need, Clarence?” she asked.
+
+The book fluttered his pages dejectedly.
+
+“What about this?” Ali said, acting on a hunch. She fed him a point of Authority.
+
+Immediately, the book’s pages burst into a frenzy of activity as the glowing core doubled, tripled in size. Infinitesimally small runes flickered and twisted as the incomprehensible complexity of the core began to shift and change. Ali fed it another point, and then another, stopping only when the core had grown large enough to fill the entire atrium, surrounding the Elder Tree planted there.
+
+“Ali…” Ryn whispered, her eyes wide at the sight.
+
+“One more, I think,” Ali said. She could already see glimpses of the form Clarence had chosen, and she knew it would be more than worth it. The moment she fed the tenth point of Authority into the book, the glowing core shivered. The runes and mana formations spun, twisting inside out and finally burst forth to fill the entire atrium in a sparkling tower of golden light. Streamers of runes and spellwork curled outward, infusing every square inch of the Grand Library Arcana until the walls, the roof, the books, and even the giant tree began to shine.
+
+A strange tremor rippled through the library, and then the glow faded, leaving only the shape of her mother’s mana signature, evolved into the core of the book, hovering in the air around the giant tree.
+
+“No, you’re not a book anymore, are you?” Ali whispered as Clarence flipped his pages and closed his cover. He shimmied across the table to press up against her hands.
+
+“What is he?” Ryn said, but from the wide-eyed look of amazement, Ali was certain she’d already guessed.
+
+“Identify him,” Ali said, grinning as she did.
+
+The Nature of Magic – Eldritch Library – level ???? (Arcane)
+
+“He’s the whole library?” Ryn gasped.
+
+“I think he’s being helpful with his identification,” Ali suggested. “I’m not sure it’s possible for it to be accurate, but yes, I think he merged with the Grand Library Arcana. Maybe… maybe he always was?”
+
+“What does that even mean?” Ryn asked, shrugging.
+
+“I have no idea,” Ali chuckled, matching her shrug with one of her own, but Clarence immediately bobbed up and down, and portals sprang open in every doorway leading out of the library, and even from where she sat, Ali could tell they led to other realms. Oh, wow!
+
+Clarence took off and swooped about excitedly.
+
+“Pleased with yourself?” Ali asked.
+
+“Ali!” Ryn gasped. “Those… those are libraries!”
+
+“Oh, my,” Lira said, suddenly appearing from the branches of the tree. “That’s extraordinary.”
+
+“What do you think it is, Lira?” Ali asked.
+
+“I don’t think there is anything remotely like it, in all existence,” Lira said, for once looking surprised.
+
+“Is it safe, do you think?” Ryn asked, pointing a hand at one of the portals. “Those… I think they’re libraries. And they’re not from here.”
+
+“That’s an unknown realm, Ryn. Not even I know what you may find within,” Lira said. “I cannot identify our dear Clarence, and it is his mana that created those portals. Hopefully he will be able to guide you, but you will be vulnerable while exploring.”
+
+Clarence swooped down and nudged Lira’s hand and then circled her several times as if to agree.
+
+“Ali?” Ryn asked, looking for all the world like she was about to begin hopping up and down in excitement.
+
+“I’m excited, too, Ryn,” Ali said. “How about I rustle up a few willing guild members after I’m done at the shrine, and we can take a look?”
+
+“Yay!”
+
+“Aliandra, dear?” Lira said, and Ali glanced over to her aunt. “Perhaps it is unwise to leave portals to unknown realms open in the library?”
+
+“Right… yes. Clarence?” Ali said. The book perked up immediately at the sound of his name. “Do you mind closing those doors for now?”
+
+The book immediately drooped, but the strange portals shimmered and vanished, returning the doors back to mundane. She eyeballed the fey creature, who riffled a few pages innocently and pretended to be busy with something. Right. I trust you about as far as Mato likes to fly.
+
+Lira smiled and glanced significantly toward a party of low-level students entering the library. “I’m certain that will be much safer.”
+
+“Thanks,” Ali said, scanning the library thoughtfully. With everything secured, she was certain Ryn would be able to hold down the fort for a while, but… Ali pursed her lips and then directed several powerful minions stand guard at each entrance that had manifested a portal, just in case.
+
+Lira arched an eyebrow eloquently.
+
+“It’s not that I don’t trust you,” Ali said. “I’m not sure I entirely trust Clarence not to get into trouble.”
+
+“Fair enough, a suitable precaution,” Lira said, smiling gently. “Shall we go?”
+
+“Yes,” Ali said, taking to the air to fly alongside Lira as they made their way to the Grove, after all, there would be plenty of time to explore the libraries of other realms under the guidance of an eldritch book derived from the evolved mana signature of her mother.
+
+Neither of them spoke, but there was no awkwardness; they simply enjoyed each other’s presence and company. Lira had several apprentices seeking classes today, and Ali had taken the opportunity to coordinate with Vivian Ross – there would be quite a few third-tier evolutions and the fresh crop of guild recruits. It would be a rather large affair, with nearly half the applicants now coming from out of town, but granting classes to people was one of Ali’s favorite jobs. The looks on their faces when they got to choose a good class always touched her heart.
+
+“Lira,” Ali said, her thoughts returning to the past as they entered the Grove to find a whole host of people waiting for them up ahead, but Ali’s eyes remained unfocused, her thoughts dwelling on the memories of her parents. Her favorite memories, playing in this very Grove.
+
+“What is it, dear?” Lira asked.
+
+“Do you think they would have been ok with all this?” she finally asked.
+
+“Mhm,” Lira murmured, pausing for a moment to study her with her deep brown eyes. “Elowynn and Orian would have been incredibly proud of you.”
+
+“How do you know?” Ali asked. It was perhaps an unfair question, given her parents were no longer with them, but somehow, she needed to know.
+
+“I know because I am proud of you, too,” Lira said, smiling gently.
+
+“I… thank you,” Ali said. There were no tears this time, only the bittersweet melancholy memories of her parents. A lump in her throat, and a weight in her heart. But Lira’s words had touched something within her, and she knew she was right.
+
+I miss you, Ali thought, lingering a little longer on her favorite memories with them.
+
+“Come, let’s not keep them all waiting,” Lira suggested, her mana surging softly across the entire Grove. Delicate flowers sprouted and bloomed around the shrine – white peacebloom, and the mystic bluebells Ali knew her mother would have loved.
+
+“Ok. Let’s go,” Ali said, and together they made their way toward the waiting crowd of hopefuls, many of them turning with wide eyes of surprise or gasps of amazement at the two of them approaching through the sudden blossoming of thousands of wildflowers.
+
+The End.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

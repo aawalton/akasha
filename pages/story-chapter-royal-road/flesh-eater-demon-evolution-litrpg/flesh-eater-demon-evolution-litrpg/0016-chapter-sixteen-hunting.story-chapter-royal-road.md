@@ -1,0 +1,221 @@
+---
+id: cb2b9dc2-6faa-5eea-8227-b52f6e53e7da
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixteen: Hunting"
+slug: 0016-chapter-sixteen-hunting
+partOf: flesh-eater-demon-evolution-litrpg
+position: 16
+ownLength: 3751
+unit: words
+publishedAt: 2025-09-07
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2582478/chapter-sixteen-hunting"
+royalRoadId: "2582478"
+---
+
+[The trait [Vocalization] has leveled up! Lvl 1 —> 2]
+
+The notification floated in Pyre’s vision as she navigated through the darkened forest. Something about it struck her as very funny. Ah yes, she thought. Here she was, wandering the woods at night after making a deal with a crossroads demon who’d told her she was missing most of her soul, but hey, at least she’d yapped enough for [Vocalization] to level up. That counted for something, right?
+
+The demon glanced around. She could only have darkvision on two eyes at a time at [Eye Growth]’s current level, so she’d put one in the front, one in the back, and then stuck the third one in between her horns like a funny hat. Thanks to this setup, she could see Callan floating behind her.
+
+In the darkness, the ghost was more visible than ever, the silvery substance forming his body resembling a human-shaped mist. He still hadn’t said a word since their little encounter with Pax. Pyre was internally betting on when he’d finally say one of the many thoughts that were clearly running through his incorporeal head. She was giving it another five minutes max.
+
+It ended up being more like five seconds.
+
+“Thank you,” Callan suddenly blurted out.
+
+Pyre raised an eyebrow. Of all the things she’d expected the kid to start with, that hadn’t even been on the list.
+
+“For what?”
+
+The ghost faltered. “For—for earlier.” He gestured vaguely with his hands. “With Pax, I mean. Thanks, um, for stepping in.”
+
+“Oh, that.” The demon snorted. “Don’t worry about it. That was some pretty out of pocket shit.”
+
+Callan nodded hesitantly.
+
+“Anyway,” Pyre continued, contorting under a particularly low branch, “you said they sell class crystals, right? I’m guessing the store’s not gonna be open right now. I figure I’ll wait until the morning to head into the village.”
+
+She could theoretically go now, but she didn’t actually have much faith in her own ability to be stealthy (not when she was the size of a small hill). Even if she shifted into a more human-like form, it would still look suspicious as fuck for her to be wandering around wherever they kept the evolution crystal. Callan had said it was heavily guarded. Those guards probably wouldn’t hesitate to attack anything that got within thirty feet of it at this hour. On the other hand, if she went during the day in a full human disguise, she could probably get a lot closer to the crystal without alerting anyone.
+
+Interestingly enough, she still didn’t feel tired or sleepy. Maybe demons just didn’t need to sleep. That, or her 100+ constitution was boosting her energy.
+
+Whatever the reason, she now had hours to spare before she went after the crystals. She was pretty sure she was close to leveling, and there were bound to be more animals—both fucked-up and not—around the forest to devour. Why not do some hunting, she decided. It would also give her a chance to process all the information she’d gotten.
+
+After sliding around another bush, Pyre recognized the vegetation up ahead from the area beside the clearing where she’d killed that second patrol. It was probably a bit of a morbid landmark, but it made it easy to place herself in the forest. Plus, she was going to need to loot the bodies tomorrow anyway.
+
+“I’m going hunting,” she told Callan. The ghost blinked, apparently taken aback by the sudden announcement. “I’ll be back in the morning. You go do whatever ghosts do.” She shifted, ready to head deeper into the woods.
+
+“Wait!”
+
+The demon rotated all three eyeballs around to face the ghost, but he didn’t so much as flinch this time. Shame, it looked like the kid was starting to get used to it.
+
+“Yeah?”
+
+Callan hesitated. “You—that crossroads demon said you were a reincarnator.”
+
+Ah, right, he’d heard that. Well, no point in denying it now. “Yep,” she confirmed. “That a problem?”
+
+The ghost quickly shook his head. “No, no! It’s just, before this, you were… human?”
+
+“Something like that.” She hadn’t figured out yet if being an Earth human specifically would make her closer to an alien than to this world’s humans, but she figured that was getting too deep into the weeds.
+
+Callan frowned, once again adopting that thinking look. She raised an eyebrow.
+
+“If you’ve got something to say, say it or I’m heading out.”
+
+“…How do you do it?” The ghost’s eyes darted briefly to the side, where beyond the trees, the remains of the guard patrol lay. He quickly turned his attention back to the demon. “I mean, you didn’t even hesitate to—to eat them. Doesn’t it… bother you?”
+
+Pyre gave him a long look. “Not really,” she finally said. “The missing memories probably help.” Which were apparently actually missing soul pieces.
+
+She brought the ends of her body up in a movement resembling a shrug. “I guess I just never really thought that hard about it,” the demon said truthfully.
+
+Callan’s forehead creased, but he didn’t say anything after that. The sloth fiend took his lack of a response to mean the conversation was over. She moved her eyes back to their original positions, then turned and made her way deeper into the forest.
+
+Demons had always been something of a myth to Callan. Sure, he knew factually that they were real—the evidence of their existence was carved into the very earth. He heard stories about them all the time, and sometimes there were even direct reports and pieces of news from the mainland.
+
+But that was the issue. Winrow itself was a fairly isolated village, one cut off from the rest of the continent by the Gravestone Mountains. There wasn’t much in the way of life or civilization here. Many would call it an ichor-poor wasteland.
+
+Demons, like sprawling cities and titan corpses and massive lakes of ichor, had always felt immaterial to him as a result. He knew they existed, but they were a part of the mainland, not their little peninsula. Here, they were characters in fables. They’d never quite felt real to him, not until now.
+
+As Callan watched the mass of flesh disappear into the shadows of the forest, he had to reconcile those stories with the truth.
+
+And the truth, he was beginning to find, wasn’t exactly what he’d been expecting.
+
+Pyre was… strange. He’d been terrified of her at first, and that fear had only grown when he’d seen how easily she’d torn into the patrol guard. The violence, the overwhelming force, the blatant disregard for life—all of it had felt like a picture perfect representation of every demon tale he’d ever heard. These were the monsters descended from a species of ancient tyrants. Brutality was their nature. Subjugation, their lineage.
+
+But then, they’d summoned that crossroads demon with the cold gaze and the lilting, almost soothing voice that dripped venom with no hesitation. Never had he felt quite as vulnerable as when he’d been facing her, staring into those pale, clear eyes that seemed to look straight through him.
+
+And Pyre had defended him.
+
+It was a small gesture in the grand scheme of things. The demon herself didn’t seem to think much of it. But it had meant something, because none of the demons in the stories would ever have done that. And the longer Callan had watched her and Pax interact, the more he could no longer shake the feeling that the two demons standing in the clearing were not the same.
+
+If he really thought about it, as unflinching as Pyre had been when devouring the guards, she’d never seemed to particularly revel in the act of killing itself. She didn’t aim to inflict pain, she just ate because, to her, it was the natural thing to do, and she’d simply never bothered to second guess it. She wasn’t driven by malice or cruelty, but rather a distinct sense of detachment—to the world, to humans, to her own past life.
+
+That had been another shock. He’d heard of reincarnators, but they were so rare that he’d never guessed he would meet one. But did being a reincarnator matter when your memories were gone? When your soul was somehow shattered? The demon didn’t seem to put much stock in it, but Callan thought that maybe it still made a difference.
+
+Or maybe that was just him clinging onto hope, the hope that Pyre was not a monster, that she would keep her word and leave the village intact.
+
+The hope that he, now a monster himself, could find a way forward.
+
+Callan stared at the ground below him. It still felt wrong to not be able to feel solid earth beneath his feet anymore. Half the time he could barely stand to look at himself, unable to stop thinking about the way he could see straight through the incorporeal thing he’d become.
+
+Now, through translucent legs, his eyes landed on where the plants below him had begun to wither ever so slightly. He frowned and made to hover to a different spot, but he paused.
+
+“—a failure who got himself killed in the most pathetic way imaginable. Alone and powerless.”
+
+The crossroads demon’s words echoed in his mind. He pursed his lips. Carefully, he crouched down until he was closer to the grasses and raised his hands.
+
+The [Life Eater] trait, more than anything else, had felt like the final blow against his humanity. He’d purposely ignored it as long as he could for a reason. The ghost’s gaze drifted over to where Pyre had disappeared into the woods.
+
+He still wasn’t sure what to think of the demon, and he certainly didn’t trust her per se, but he was starting to be grateful that the first person he’d met since awakening was her and not someone else. Terrifying as she could be, he had an odd sort of respect for how purposeful the demon was. She made goals, pursued them, and nothing ever made her pause for long. Constantly progressing. Never allowing herself to be burdened by any weight.
+
+Callan exhaled and turned to the grasses again. He focused. Below his fingers, the plants rapidly began to decay.
+
+Maybe, he thought, it was time for him to start moving forward as well.
+
+It turned out the further away Pyre went from the Fred Zone, the less fucked-up the plants and animals became. She hadn’t spotted a weird plant since the heart-flower, and the snake she was currently eyeing looked completely normal. It was wound up in the tree below one of the ichor lights, and speaking of the lights, even those were less plentiful now. It looked like there really was less ichor close to the village, which made sense considering how shocked the patrol had been when they’d seen the warped flower.
+
+Pyre studied the snake for a moment. It was fairly large and long, its body coiled around the tree branch. Its eyes were open, but it hadn’t actually moved since she’d first noticed it. Maybe snakes slept with their eyes open.
+
+Now that she thought about it, she still hadn’t figured out exactly how much of something she needed to devour to get experience from it. This was a good chance to test it out.
+
+Shuffling closer, the demon stretched one part of her body out and grew a bone internally to support the “limb.” She still had to focus on the flesh itself to stop it from melting back into the main mound, but the internal skeleton made it way more stable. Useful subtrait, that one.
+
+Keeping an eye on the snake, she grew a mouth at the end of the fake limb and promptly took a bite out of its tail. It didn’t taste the same as the humans had, which made sense. She wasn’t sure if she actually liked the taste of the snake though, and the scales were even more annoying to spit out than bones were, but it wasn’t like she was eating it for flavor.
+
+The animal immediately began thrashing. It plunged down from the branch onto the grass, quickly moving to slither away, but Pyre held it in place by simply dropping the other end of her body onto it. The weight was more than enough to keep it still.
+
+Hm. No experience. That had been a pretty big bite, too.
+
+She retracted the limb and regrew the mouth on her main body. Then, in one clean bite, she devoured its head.
+
+[You have devoured (1) Forest Snake Lvl 2][Experience earned!]
+
+[You have gained (1) [Thermal Vision] subtrait shard]
+
+[You have gained (1) [Scales] subtrait shard]
+
+[You have gained (1) [Species Scent] subtrait shard]
+
+[You have gained (1) [Vibration Sense] subtrait shard]
+
+Still no level, but hey, now she sort of had an answer. She’d technically eaten a smaller portion of the snake with that second bite, but that had netted her the experience. Either she specifically needed to devour heads, or she got the experience when the devouring was fatal. She was leaning more on the second, mainly because those flesh lumps in the pit definitely hadn’t had heads. Good to know.
+
+She’d also finally gotten both a second [Thermal Vision] shard and a second [Species Scent] shard. The first ones had been from all the way back in Fred’s stomach. As for the new subtraits, it looked like [Scales] required nine shards total while [Vibration Sense] needed seven.
+
+Done with her first meal, Pyre continued moving through the forest. There weren’t as many animals around as she’d hoped, but then again, a lot of them were probably hiding. Still, even though it took longer than she would’ve liked, she eventually stumbled across another rabbit. A not-fucked-up rabbit, this time.
+
+[You have devoured (1) Forest Rabbit Lvl 3][Experience earned!]
+
+[You have gained (1) [Species Scent] subtrait shard]
+
+[You have gained (1) [Vibration Sense] subtrait shard]
+
+[You have gained (1) [Mobile Ears] subtrait shard]
+
+[Your species has leveled up! Lvl 11 —> 12][Strength +2, Agility +1, Constitution +3, Magic Resistance +3, Intelligence +1]
+
+[You have earned 10 points]
+
+[You have gained the [Basic Weight Manipulation] skill!]
+
+[You have gained (1) new trait!]
+
+Please select from the following options:[Telepathy (Sloth)], [Elemental Resistance (Sloth)], [Regeneration (Sloth)]
+
+There was the level she’d been looking for. A good one, too: both a new skill and a new trait.
+
+Jumping straight to business, Pyre pulled up the descriptions of the traits. Interestingly enough, there were only three options this time around when there’d always been four in the past. She suspected that little “sloth” append had something to do with it. It looked like she was finally starting to see her subspecies selection matter.
+
+Trait: Telepathy (Sloth)Allows user to communicate telepathically with a maximum number of targets equal to this trait’s level.A sloth fiend’s telepathy has the longest range among fiends, and that range increases with trait level. However, sloth fiends can only use telepathy on willing targets. The target may sever the telepathic connection at any point.Subtrait Slots: 5
+
+Trait: Elemental Resistance (Sloth)Strengthens user’s resistance against both magical and non-magical fire and cold. The effectiveness of this trait is proportional to its level.Sloth fiends gain additional elemental resistance when standing still.Subtrait Slots: 5
+
+Trait: Regeneration (Sloth)Boosts the user’s self-healing capabilities to a degree proportional with this trait’s level.Sloth fiends regenerate faster when standing still.Subtrait Slots: 4
+
+Pyre quickly read through the three options, and yep, the sloth pick was definitely starting to matter now. All things considered, she thought sloth fiends got the short end of the stick when it came to [Telepathy]. Sure, they apparently had the longest range, but the fact that someone could just decide to block the telepathy at any point noticeably limited its uses. It was still good for communication, especially with allies, but Pyre didn’t exactly have a lot of those, and she didn’t think she’d end up with many, either. She didn’t feel too bad about discarding that pick.
+
+The remaining two traits, on the other hand, seemed to better highlight the sloth fiend’s advertised defensive capabilities. Getting extra shit for standing still sounded like a great deal to Pyre.
+
+She liked both options, but she pretty quickly settled on [Regeneration]. It was more immediately and generally useful, and the sloth subspecies bonus would probably work better for it. If she was in a situation where she was getting pelted with, like, magic fire or something, being able to further reduce damage by standing still would be nice, but she’d still need to move at some point to actually approach the attacker. At that point, the bonus wouldn’t work anymore.
+
+[Regeneration]’s sloth bonus technically had a similar issue to [Elemental Resistance], but the difference was that it was a lot more useful during down time. Plus, better healing was just too good to pass up.
+
+[You have selected the [Regeneration (Sloth)] trait]
+
+Next, Pyre moved on to the new skill she’d gotten. After [Impact Absorption]’s giant wall of text, she was already mentally preparing herself for a long description when she pulled the screen up.
+
+Skill: Basic Weight Manipulation Level 1Once activated, this skill allows the user to manipulate their bodyweight for a duration equal to this skill’s level x 1 second. The degree to which the user’s weight can be manipulated is equal to an X% increase or decrease in the user’s weight where X = this trait’s level x 30. After the skill’s full duration has passed or after the skill is deactivated, the user will return to their regular weight. At Basic proficiency, the user can only manipulate their own body’s weight. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+All things considered, the description length could’ve been a lot worse. It helped that the skill itself was so interesting.
+
+So, right now she could increase or decrease her weight by 30%. The duration made her do a double take at first, but she could probably use the skill to enhance attacks, maybe help her speed if she suddenly had to dodge something. The cooldown was also pretty bad for the skill’s duration, but it would go down with levels. It was still significantly shorter than the cooldown for her other two skills.
+
+Well, assuming nights here didn’t last days or something, she still had a few hours until the sun rose. Seemed like a perfect time to test out the skill. Pyre mentally closed the notifications, then scanned the forest to see if she could find any more animals that hadn’t been scared off yet. Worst case scenario she’d punch a few trees or something.
+
+While she was at it, she put 3 points into strength, 2 into agility to round it out, 2 into constitution, and 3 into magic resistance. She pulled up her current stat sheet and was quite pleased with how it looked. It was funny to think about how empty it had been when she’d first viewed it after waking up.
+
+Name: Pyre [Tier 1]Species: [Lesser Fiend (Sloth), Lvl 12]Class: NoneTitles: Reincarnator, Amnesia, Above-Average Sentience, Cold Blooded, First EvolutionStatsStrength: 85Agility: 50Constitution: 113Magic Resistance: 83Intelligence: 40Points: 0Traits: [Amorphous 3], [Flesh Eater 5], [Scent 3], [Eye Growth 2], [Ossification 3], [Sound Perception 2], [Keratin 1], [Vocalization 2], [Regeneration (Sloth) 1]Skills [3/5]: [Basic Flesh Sculpting 1], [Basic Impact Absorption 1], [Basic Weight Manipulation 1]Subtrait Shards: [Thermal Vision 2/3], [Species Scent 3/4], [Omnivorous 6/10], [Far Sight 1/5], [Scales 1/9], [Vibration Sense 2/7], [Mobile Ears 1/6]Class Shards: [Warrior 5/5], [Ranger 3/5], [Mage 1/5]
+
+Thinking about her awakening brought her mind back to Pax and the soul scan. Her eyes narrowed. Missing most of her soul, huh? She felt like the revelation should hit her more, and it did spark some curiosity—mostly about how the hell her soul got shattered in the first place—but her emotions were still mostly flat. Maybe it was because of the missing soul chunks.
+
+Centuries or decades, Pax had said. A long time for a human. Probably not for a demon, though.
+
+What would even happen when her soul started to reform? Would she get her memories back? She’d probably be able to use magic once it was “whole” enough, which would be cool at least. Would a complete soul remove the hollow feeling that seemed to follow every brief spurt of emotion? Or was that just an inherent part of her being that had nothing to do with the state of her soul.
+
+There was also the problem of how to hunt down those “soul shards” in the first place, if she did decide to go after them. She didn’t know how many there were or where they were, and frankly, she didn’t feel too keen on asking Pax for another deal so quickly. She still found the current one shady as hell.
+
+Maybe she’d wait until after she found whatever object this was before deciding what to do about her soul. If Pax turned out to have been telling the truth about the “not dangerous” part, she’d be more willing to make another deal. In the meantime, she could see if she found any mentions of scattered soul shards on her travels, but she wasn’t going to pressure herself into hunting them down or anything. One thing at a time, she decided.
+
+Pyre contorted her body over to the front of a particularly large tree. It was a normal tree save for maybe its size (its trunk was nearly as thick as her), but it was about to get fucked-up by virtue of being her skill testing punching bag. Too bad for it that she hadn’t found any more animals.
+
+First she’d get the crystals so she could reach her second evolution requirements, then she’d head south and grab whatever the fuck Pax wanted. Then she’d go from there.
+
+Coiling her body back, the demon eyed the thick tree trunk. In one sharp motion, she hurled herself at its center, activating [Weight Manipulation] a second before she made contact.
+
+A flash of heat passed through her. She felt the vague sensation of herself getting heavier before she slammed into the tree with a loud crash. Bark snapped and cracked, the surface of the trunk splitting and folding under the impact.
+
+Another crack, and the entire tree tipped over. It landed hard on the forest floor with an echoing thud. Pyre grinned to herself.
+
+Yeah, she thought. She could work with this.

@@ -1,0 +1,153 @@
+---
+id: 8e4961cd-3852-595f-aae6-d8ed6ca4038f
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Three: Sanctum"
+slug: 0054-chapter-fifty-three-sanctum
+partOf: flesh-eater-demon-evolution-litrpg
+position: 54
+ownLength: 2620
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2915453/chapter-fifty-three-sanctum"
+royalRoadId: "2915453"
+---
+
+After breakfast, Daphne seemed noticeably more comfortable around the demon. Not fully so—Pyre definitely caught a few scrutinizing looks here and there, and she got the impression that the noble was the type who always kept her guard up to some degree. Still, it seemed like she’d passed whatever first “test” she’d been given, and in exchange, Daphne spoke a lot more freely around her now.
+
+To Pyre’s amusement, much of this talk involved her complaining about her uncle.
+
+“—know he says he’s trying,” the human was saying, “but can you blame me for thinking he’s up to something? I mean, he’s been pulling this sort of thing for decades!”
+
+The demon made a general noise of affirmation to show she was listening. They were currently walking down the main corridor of the manor towards the backyard, and they’d passed by a number of servants and guards along the way. Harris had sent her an encouraging nod when he’d passed by, so she figured she was probably doing alright.
+
+“I mean seriously, who hires a random Drovnan mercenary with like a week of garrison training as a personal guard? No offense,” Daphne added.
+
+“None taken.”
+
+The noble nodded, satisfied. “And he can’t even be bothered to stick around during the day! You know, to make sure he didn’t hire some psycho or something. You’d think he lives in the sanctum with how much time he spends there.”
+
+“There’s construction going on, right?” Pyre phrased it like a question, but thanks to Callan, she knew way more about the sanctum than was probably necessary. Then again, considering she couldn’t search for the key until she was away from Daphne, she might as well try and get more details about it. That ichor waterfall still sounded cool.
+
+Based on what Harris had said, the Bellhein family’s guards rotated between guarding the manor itself and the sanctum since the family technically owned it (she could practically hear a certain ghost grumbling about that fact in her mind). She’d been scheduled for a shift there tonight herself, though it sounded like she’d just be outside and not actually get to go in.
+
+Daphne nodded. “It’s been going on for a while, but it ramped up the last few weeks. My uncle says the pillars need to be redone, but it’s a waste of time and money if you ask me. There’s much better things he could be spending his time on right now.” Like the war, was the unspoken part.
+
+Up ahead, the corridor came to a stop as they reached the manor’s back entrance. The wide windows provided a clear view of the manor grounds, and two guards stood on either side of the large mahogany doors. Daphne nodded to them in greeting; neither one seemed particularly surprised to see the noble. Pyre did catch a few curious glances in her direction, but they didn’t actually say anything, so she didn’t either.
+
+After a few quick words, the two guards gripped the handles and pulled. In the next moment, the doors swung open to reveal the vast garden situated just behind the manor.
+
+In the very center stood a large white fountain. Clear water fell down in a curtain from its curled top, the droplets sparkling in the daylight. A smaller stream ran around the circular edge of the fountain’s base, and it glowed with the distinct silver of ichor.
+
+Around the fountain, rows of bright flowers spiraled outwards like the petals of a blooming rose. Stone walkways ran between the patches, occasionally widening into larger stone clearings that broke up the sea of flora.
+
+There was no fence around the garden—the walls around the whole property were more than enough protection—so the edges simply melded together with the grass covering the rest of the Bellhein lands. Pyre could see the trees she’d traveled through to meet Callan the previous night as well as the white arches of the sanctum in the distance. The looming Gravestone Mountains took up nearly half of the sky.
+
+Without stopping, Daphne stepped towards one of the larger cobblestone squares sitting to the right of the fountain. It soon became clear why there was ichor running through its base. On the other side of the paved area, five targets had been set up that reminded Pyre of the ones in the garrison training grounds. She could see what looked like scorch marks burned into their surfaces, and her eyebrow rose.
+
+Daphne settled on the opposite end of the square, positioning herself as far from the targets as possible. She raised her hands.
+
+With quick, practiced movements, the noble made a series of gestures, finishing the sequence by pressing her index fingers together in an arrow shape. In the next moment, the tips of her fingers began to glow with a warm red light. The light kept growing brighter and brighter until at last, a fiery orb shot out and flew towards the targets.
+
+The orb exploded on impact, sending a shower of sparks falling down to the ground. When the smoke cleared, Pyre could see a fresh scorch mark directly in the center of the bullseye.
+
+Daphne lowered her hands, satisfied. She glanced over at the demon expectantly. Pyre didn’t know what she was waiting for, so she just gave the noble an approving thumbs up. It wasn’t even a lie—she didn’t know shit about magic, but that had seemed pretty damn impressive to her.
+
+Daphne frowned.
+
+“You’re not… going to say anything?
+
+Some of the suspicion was back in her voice. The demon raised an eyebrow.
+
+“About what?”
+
+“The spell.” The mage waved at the target for emphasis. Pyre shrugged.
+
+“I’m not a magic expert. It looked fine to me.”
+
+“That’s not what I meant.” Daphne gestured at herself. “I mean, you know I’m ichor-poisoned, right. There’s no way you don’t know.”
+
+Pyre gave her a long look. She still couldn’t tell where the noble was going with this. “I might’ve heard that, yeah.”
+
+“So,” Daphne continued, “aren’t you going to say something about me wasting energy? Being too close to ichor? Worsening my condition?”
+
+Ah, so that’s what this was about. In hindsight, this whole magic practice situation had seemed very deliberate on the mage’s part, like she’d been purposely waiting for Pyre’s reaction. Either way, this sounded like a pretty big deal to her.
+
+The demon’s eyes shifted over to the target again, casually taking in the fresh burn that was still smoking a little, then turned back to Daphne. The noble was still watching her expectantly.
+
+“There’s not much to say,” Pyre said simply. She shrugged. “You’re the one who’s sick. I figure you’d know better than me about what you should and shouldn’t be doing.”
+
+Daphne’s mouth dropped open, but she quickly closed it again.
+
+“Oh my god.”
+
+The demon raised an eyebrow. “Is that a good ‘oh my god’ or a bad one.”
+
+“Thank you!” Daphne threw her hands up into the air, which answered that. “I’ve been trying to explain that to people for ages!”
+
+Pyre was pretty sure the noble was looking for some commiseration, so she added a “tough” complete with a sympathetic head nod that seemed to do the trick well enough. Daphne stepped over and grabbed her hand, shaking it enthusiastically.
+
+“Pyre, I really hope you’re not spying for my uncle or an axe murderer or a thief or something,” the noble said gravely, “because I could really use someone like you to talk to.”
+
+The demon gave her a long look, silent for a moment. A wry smile tugged at the corner of her lips. Slowly, she returned the handshake.
+
+“I hope so too.”
+
+“You and Lady Daphne seem to be getting along well.”
+
+Pyre glanced over at Harris. The rest of the day had passed by smoothly, mostly consisting of the demon following Daphne around, listening to the noble talk, and occasionally chiming in here and there. Pretty chill, all things considered. It looked like that was enough to be deemed “successful” in Harris’s eyes.
+
+The one caveat was that, because she’d been guarding Daphne all day, she hadn’t had a chance to really look for the gallery key. Pyre was planning on starting to search once her shift was over, but instead, she’d been swept away to the servant’s hall by Harris. Considering she’d succeeded in dodging meals all day, it figured that dinner would be the one she couldn’t avoid. Ah well, it wasn’t like it was that hard to make the flesh pocket again.
+
+“I guess.” Pyre stabbed one of the last remaining pieces on her plate and fake-chewed it as few times as she thought she could get away with. On the other side of the room, John looked vaguely scandalized, but she wasn’t actually doing anything wrong, so the older man couldn’t say anything about it.
+
+“Do you have any questions about your duties so far?” Harris continued.
+
+“Not really. It’s been pretty straightforward.” She almost said ‘easy,’ but that might be seen as disrespectful or something.
+
+Pyre glanced out the window. Between the lights in the dining hall, she couldn’t make out much beyond inky darkness outside. She knew it was getting late, though.
+
+“I saw I’ve got a shift at the sanctum tonight,” the demon commented casually.
+
+The other guard nodded. “Yes, we rotate between guarding the manor and the sanctum. That’s actually why I wanted to talk to you. I have the same shift tonight, so I thought I could show you the way there.”
+
+“Cool.” Pyre finished swallowing her last bite and let the piece of meat settle down in her food pocket. It would be nice to see the sanctum, but this did mean she’d have to wait until after this shift was over before she could properly search for the key. Maybe that would be better in the long run—the manor was still decently busy right now, but it would be a lot quieter once her shift was over.
+
+“Okay, we heading over now?” Harris nodded, so the demon grabbed her tray and rose. After setting it down with the other dirty dishes, she followed the guard out the room, down the hallway, and outside the manor.
+
+Almost immediately, they were greeted by the crisp night air. The sky was mostly dark by now, but there were just the faintest traces of maroon left near the horizon. That little bit of lingering light, though, was quickly fading. In the darkness, the manor windows glowed warmly.
+
+“This way,” Harris said. He began walking down the main path that led from the manor door to the main gate, where an array of guards stood at attention. So, they were indeed exiting the Bellhein premises to reach the sanctum. If she managed to steal the horn quietly, she could probably leave during one of her sanctum guard shifts. No one would even know she was gone until the next morning. It would certainly be the “least disruptive” getaway option, assuming she could pull it off.
+
+She snorted internally. Callan would definitely insist on trying to do it that way.
+
+The metal gates closed with a light squeak behind them. They were soon walking down Magrath’s stone road towards the mountains. Even at night, the white arches of the sanctum stuck out starkly, and that was without her darkvision. The little bits of the building that she could make out almost looked ghostly, and the effect only grew stronger the closer they got. The silver light of the fabled ichor waterfall cast the whole area in a faint, glowy haze.
+
+Soon, the sanctum proper became visible. Tall white pillars jutted up from the earth, connecting together in large, sloping roofs that ran straight into the mountainside. Separate, smaller towers and pillars were similarly built into the mountains, one wall formed by the cliffs and the other out of that same pure white stone. The white arches she’d seen from a distance were bridges connecting those towers; they spanned high above the ground, their curved shape reminiscent of flapping wings.
+
+Meanwhile, intricate engravings and embedded crystals formed intricate patterns all across the surface of the building. Despite the supposed construction going on, the exterior looked perfectly pristine.
+
+The scale was on a completely different level from the sanctum in Winrow, and that had already been the biggest building in the village. Magrath’s architects had apparently been intent on making the sanctum as tall and grand as possible, possibly in an effort to contain as much of the ichor waterfall within as they could. Pyre could only imagine how it looked on the inside if the outside was already this elaborate.
+
+“Normally, we have guards stationed both inside and outside the sanctum,” Harris explained as they approached the structure. “However, because of the construction, the interior has been closed off for now.” He coughed. “There were some… mishaps early on involving some falling rocks. Because of this, the sanctum has been locked, and we’re to remain outside.”
+
+Pyre hummed to show she was listening, but her eyes remained fixed on the building. The closer they got to it, the more she could hear the muffled roar of the waterfall inside, the brighter the glow of the ichor contained within. That wasn’t what made her pause, though.
+
+Something nagged at the back of her mind as she stared at those arches, and it only grew stronger the closer they got to it. She couldn’t put her finger on exactly what the feeling was, but something about the place felt familiar, almost. There was a magnetism to it, like an invisible string tugging her closer. Faint, barely more than a whisper, but undeniably present.
+
+Pyre’s eyes narrowed as they came to a stop in front of the closed doors. Harris stepped forward to speak to the two guards they were swapping in, but she barely paid attention to them. Instead, the demon raised a hand and pressed it against the wall. It was cool to the touch.
+
+“Ah, please avoid touching the building if you can,” Harris said when he turned to her. The two original guards were heading back to the manor now, leaving the two of them at the entrance. “Because of the construction, some parts might be fragile.”
+
+The demon grunted in acknowledgement and removed her hand. The brief contact hadn’t revealed anything, but the sensation hadn’t disappeared, either.
+
+“Just curious,” she said. She strode over to the other side of the door opposite Harris, adopting a similar position to the guard. “I’ve never seen a sanctum this big before.”
+
+“It’s incredible, isn’t it? Magrath wouldn’t be what it is without it.” The man sounded proud.
+
+Pyre tore her eyes away from the sanctum and studied her surroundings. Besides her and Harris, she could see four other guards standing further out by some of the smaller tower entrances. They looked pretty bored, which wasn’t a surprise given the hour.
+
+The demon wouldn’t be able to sneak into the sanctum with Harris here, but she resolved that the next time she had a shift, she’d find a way in. She’d even bring Callan along—the ghost would probably be overjoyed.
+
+Of course, it was entirely possible that the nagging sensation was nothing. For all she knew, she was just reacting to the concentrated ichor inside. She wasn’t going to leave the city without confirming that, though. On her mental list of “Magrath priorities,” getting into the sanctum moved up to number two—just below finding the horn and removing the curse.
+
+For now, Pyre settled into position to wait out the rest of her guard shift, counting down the time until she could return to the manor and search for the key.

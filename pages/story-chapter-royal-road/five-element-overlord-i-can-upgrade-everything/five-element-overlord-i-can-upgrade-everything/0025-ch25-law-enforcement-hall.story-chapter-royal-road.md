@@ -1,0 +1,111 @@
+---
+id: 32ae8da4-4c11-58b4-a44a-c6180c17594f
+page-type-slug: story-chapter-royal-road
+title: "Ch25 Law Enforcement Hall"
+slug: 0025-ch25-law-enforcement-hall
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 25
+ownLength: 1174
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3228918/ch25-law-enforcement-hall"
+royalRoadId: "3228918"
+---
+
+Around noon the next day, a loud voice blares through the forest.
+
+“Attention all servants of Zhou Kang! Stop your work at once, and make yourself presentable in front of your abodes!”
+
+There are still bags under my eyes from re-checking the battlefield that Xu Hong claimed to clean, and confirming she threw all of the poisoned earth and blood-stained rocks deep into the ravine. In addition to this, I stayed up all night practicing the Illusory Demon's concealment art.
+
+It is even more complex than I first thought it would be, but practicing it in tandem with my Jade Purity Soul Scripture, and upgrading 2 Qi Gathering pills to aid my practice, I mastered it to a minor degree.
+
+I can’t manipulate it quickly at will, or fully suppress my aura to appear as a mortal.
+
+However, I can suppress my outward cultivation to appear as a qi refiner that recently broke through to the 1st level.
+
+Something fascinating about this concealment art is that my souls themselves are used as an invisible blanket over my dantian, limiting the amount and density of qi that is let out. To a higher-level cultivator looking in, unless they do a deep dive and examine my soul, they will never even think that I’m hiding anything even if our gap in qi cultivation is immense.
+
+As this confidence fills me, I stand before my hut’s door and overhear the interrogation taking place at my neighbor’s place.
+
+“I don’t know anything. Senior Zhou didn’t come to collect my wood last night, so I chopped twice as hard today… I didn’t know if he was angry at me or not…” Xu Hong’s dull and naive voice replies.
+
+“She’s a Martial Warrior. Uncommon, but it would be impossible for her to overpower three 2nd level qi refiners… another dead end,” a raspy, low-toned man’s voice replies.
+
+A green-robed cultivator stands beside one in a sleek black one. Both have azure clouds on their chests.
+
+They start to turn away, but Xu Hong speaks up before they leave.
+
+“If you’re looking for someone out of the ordinary, you should check my neighbor. There was a strange warm burst of energy that came from his hut in the middle of the night a few days ago.”
+
+The two cultivators look at each other with confused expressions, then back to Xu Hong.
+
+“Thank you for your input. Carry on with your wood chopping. We will find a new steward for this camp by the end of today. All should return to normal soon.”
+
+Then, they leave, coming straight toward me.
+
+I stare forward, inwardly smiling, as the lines I told her to say landed without any suspicion of being false.
+
+The face of one of the approaching cultivators is familiar. He has a square jaw, brown hair, and wears a green outer sect disciple robe.
+
+It’s Gu Shan, the same cultivator that drove the flying boat when I was taken away from Donghe village. He’s a 59-year-old 6th level qi refiner, with four 7th grade spiritual roots, and no interesting secrets.
+
+When he gets within a 4-meter range of me, the same exact status window pops up, confirming nothing has changed.
+
+The stern-faced, dark-haired, well-built cultivator in a black robe beside him, on the other hand, shows a status far more impressive.
+
+[Automatic Inspect Function Activated…][Lu Fayun] [Age: 44][10th Level Qi Refiner][Water, Earth, and Metal Spiritual Roots][6th Grade][No Innate Physique][Failed to establish his foundation and suffered a minor fracture in his dantian. He can no longer progress unless he obtains a Tier 2 Healing Elixir from the Inner Sect.]
+
+He speaks as I read the golden text before me.
+
+“Servant Li Hao. Are you aware of the reason for our visit?”
+
+I planned on faking my nerves, but in the presence of an individual like this, I don’t have to perform much. A gulp, bow, and low reply is enough.
+
+“No, I do not know the reason, Senior.”
+
+“I am Lu Fayun. Vice Captain of the Outer Sect Law Enforcement Hall. There were three stewards murdered last night, and as of now, you’re our prime suspect.”
+
+I shiver as I feel genuine killing intent pour out of him.
+
+“I-Is that why Senior Zhou did not collect my wood last night?”
+
+He chuckles, “In fact, it is… you’re a smart one, aren’t you? How about you explain this for me then: how could a servant brought in by Gu Shan less than 2 months ago already break through into qi refinement? You must have an outside source for pills, maybe another sect? Are you working with outside forces to infiltrate the Azure Cloud Sect?”
+
+A barrage of questions comes at me, and the killing intent rises. It is enough to bring a normal level 1 qi refiner to their knees. So, I comply and play my role, exactly as I envisioned.
+
+“Senior Zhou said it was normal… to trade in my food and spirit fragments for qi gathering pills… I wouldn’t have broken through a few days ago without him.”
+
+I shove my hand into my pocket and pull out a cloth with a single blackened qi gathering pill that I pulled from Zhou Kang’s storage.
+
+Lu Fayun grabs it from my hand and examines the pill.
+
+“Stolen inferior elixirs from the alchemy peak? Usually, these are disposed of before anyone poisons themselves. You’re saying he would pay you with these instead of spirit fragments?”
+
+“Of course. There would be a new batch every week or so. I was holding off on eating that one because I didn’t know when the next batch would come in.”
+
+There is silence in the air, then I feel the cloth tossed back into my hands.
+
+“No motive. Why would he want to kill his only source of cultivation resources?” Lu Fayun murmurs under his breath.
+
+Gu Shan nods, waiting patiently for the thinking Law Enforcement Hall Officer to say something, but almost half a minute passes.
+
+The green-robed outer sect disciple speaks up in a hesitant manner, “Senior Lu, if I may… I’ve just recalled, this servant has an interesting background.”
+
+“I read his file. He’s an orphan from a farming village, nothing special.”
+
+“Well. The thing is, Miss Qin of the Inner Sect, she was the one to find him. For reasons unknown to me, she gave him a healing elixir the day they met.”
+
+Lu Fayun’s eyebrows rise. “He shares a positive string of fate with Miss Qin?”
+
+“Indeed. He does.”
+
+“In that case, maybe it would be wise to promote him as a steward…”
+
+He thinks for a few moments longer, then resolutely nods. “Yes, I will continue this investigation myself. Gu Shan, promote him to a steward right away, and make sure that my personal recommendation is in the file. For the other two replacements, choose whoever you wish.”
+
+“Understood, Senior Lu.”
+
+The black-robed man smiles and walks away down the dirt path.
+
+Gu Shan stays, and turns to me, “Grab everything you own. You’re coming with me to the Steward’s Quarters.”

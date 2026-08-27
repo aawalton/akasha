@@ -1,0 +1,111 @@
+---
+id: 9434a60d-0660-5aef-843e-d0e473b0a15b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 353: Library Divination"
+slug: 0390-chapter-353-library-divination
+partOf: dungeon-of-knowledge-complete
+position: 390
+ownLength: 1917
+unit: words
+ownProgress: 1917
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2535974/chapter-353-library-divination"
+royalRoadId: "2535974"
+markedReadAt: "2026-06-29T20:25:10.725Z"
+---
+
+The library buzzed and bustled with activity. Ever since Ryn had won the ancient Grand Library from Cael and Gage, she had begged Ali to come with her for her daily matches so that she could duplicate as many of the books from the spirit realm echo as possible. She knuckled the tight muscles in the small of her back and was rewarded with a satisfying pop as she stretched. With the substantial growth in Arcane Recall and the consequent improvement in her spell proficiency, haste, and control, the number of books contained in her library had exploded. She picked up the last book and put it on one of the piles beside her desk.
+
+There, that should do it for today. Just this last batch numbered over a thousand tomes, stacked up in piles around the table, nearly obscuring it from view.
+
+“You guys, come over here and help pack these away,” Ali said.
+
+With a chorus of happy chirps, a handful of low-level kobold librarians swarmed the pile, gathering improbably tall stacks each and staggering off to the last stretches of empty shelves along the far wall. “Don’t drop them,” Ali cautioned as they stumbled around. “And make sure you put them in the right order this time. You don’t want Ryn to be upset again, do you?”
+
+All she got in return were several mournful yips. Ali sighed and sat back down, surveying the upper level. With the massive influx of fresh books, it had been a scramble to make enough shelves to hold all of them, and now the top level of the ancient library was almost full.
+
+I’m going to need to expand down to the second level soon. Yay!
+
+In the wake of the Crimson Blade’s assault, many of the Elven refugees had gone into hiding, but as the days passed with no further threats on their lives – and with a little coaxing – they had returned to their temporary homes. Aiden had delegated logistics to Weldin Thriftpenny, but the tasks of acquiring the supplies, furniture, and food Ali couldn’t readily produce with her dungeon were monumental – as was the challenge of integrating thousands of refugees as productive members of Myrin’s Keep.
+
+As a result, the upper floor of the library had become a favorite hangout for hundreds of bored elves looking for something to pass the time till they found work. Groups clustered here and there, sitting on the floor because there were far too few chairs while Ali and Ryn’s little kobold librarians rushed about fetching and replacing books. The training arenas outside on the plaza were even busier.
+
+Happy to see the huge pile of new books begin to slowly dwindle, Ali turned her attention to her notebook. On the page before her, she had written out all her most pressing questions and tasks, divided by what she could deal with now and what would require her to be fully recovered. It was a list that seemed to only grow longer every time she looked at it.
+
+Even with all the excitement that still ran through her veins at the thought of finally being able to restore the Grand Library, Ali was exhausted from copying so many books. I need a break, or at least a bit of a change. What she really needed was one of her scribe or librarian kobolds to level up enough that they could take over copying at least the mundane books.
+
+She scanned down her list once more. By far, the most pressing unanswered question on the list was the meaning of her suddenly awakened bloodline. The description was rather vague, and no amount of staring at it had revealed any insights, but it had subsumed her Magical aptitude and added some additional curiosities like Arcane Infusion. Figuring out how it worked and how it would interact with her skills and class had suddenly become one of her top priorities.
+
+I wonder if there’s a book…
+
+A sudden movement caught her attention out of the corner of her eye. Nearby mana warped, snatching her attention away from the list, and her eyes fell upon a strange book sitting on the table beside her. A book that had most certainly not been there moments ago.
+
+It was gray. Not the sullen gray of storm clouds, brimming with dire portents, but the spent gray of cold campfire ash the next morning. The cover text, ornately scribed in a flowing, ancient Dal’mohran script, was of a deep, dark gray, similarly devoid of emotion. But by far, the strangest part of the book’s appearance was that she could see the wood grain of the table right through it. It shimmered and shifted as if not entirely there, like it was only the memory of a book manifested here upon the table.
+
+What the heck? Ali wondered, pulling away from it – she already had enough personality from one book. She eyed it from a little distance. Hold on, the title… she caught her breath.
+
+The Ancient Fae Bloodlines: Case studies from history – Cassia Denholm, Principal Historian, and Anthropologist, Dal’mohran University of Culture and Magic.
+
+Huh? She had just been thinking about her bloodline, and suddenly, this book appeared out of nowhere. She stared at it, instantly suspecting some trick or foul play, but other than the fading remnants of strange mana surrounding the book, and its weird appearance, she didn’t see anything else amiss.
+
+Is that divination-affinity mana? Or is Clarence teasing me somehow? Surely not.
+
+Curious now, she reached for it. She half expected her hand to pass through the book like it was an illusion, but to her surprise, her fingers encountered a solid surface that felt exactly like a leather-bound book. She opened the book and began to read.
+
+Ali finished the ghostly book quickly – it didn’t require much technical understanding like a spell textbook might have – and put it down, suddenly having more questions she had never considered before now floating around in her mind. Idly, she duplicated the volume while she dwelt on the opinions expressed by this long-dead researcher, Cassia Denholm.
+
+The Fae bloodlines, for there were several unique ones documented in its pages, were fickle, just as Lira had explained. Many of them vanished for decades or even centuries before manifesting many descendants later, seemingly by accident. What was certain was that the bloodlines were inherited, so she had definitely gotten hers from her mother.
+
+It was believed, at least by this author, although Ali knew Malika’s people had the same belief, that the bloodline was a gift and advancements of the bloodline by the bearer would accrue to the bloodline itself, strengthening it, and broadening its capabilities, meaning that whatever she earned during her life might be passed on to her descendants in even greater forms.
+
+What she learned was that the Fae bloodlines often carried debilitating negative effects as well as positive ones, and that they could lie dormant in a person for ages before fully manifesting through a skill or class advancement, affecting the person in surprising ways. In this, the book was even more insistent than Lira had been. Her golden arcane mana undoubtedly was one of these effects, however, her thoughts immediately went to her stunted wings and the previously unknown wasting affliction that had cost Cael and Gage half their body. At least Gage’s golden mana meant that the bloodline had the potential of awakening in him – if it hadn’t already done so. She would have to ask him the next time she visited.
+
+Still, she had no idea how it would develop, other than that her advancements to Arcane Recall were undoubtedly the result of her unwittingly developing her bloodline. The mana sensitivity she had had all her life was now noticeably stronger, enhancing her ability to perceive mana in subtle ways. It was as if mana now evoked subtle emotive feelings that she could somehow sense or see.
+
+Her hand suddenly shifted and hit the table as the book she had just finished reading faded away and vanished. Puzzled, Ali glanced around, but the sight that greeted her eyes was no more explicable; out over the atrium, Clarence was swooping around in apparent joyful and reckless abandon as several rowdy Elven children threw colorful balls for him to catch. Not strictly proper library etiquette. But his antics were not what caught Ali’s attention – rather, it was his strange new companions. All around him, a flock of half a dozen books flew, mimicking his movements, all the newcomers distinct in their semi-transparent grayness.
+
+Her mouth dropped open. What… the?
+
+“Ali, you ready?” Ryn said, popping into existence above her and floating down to land next to the table. She had another book on Kings and Emperors under her arm, and she no doubt wanted Ali to follow and copy more books while she played against Cael.
+
+“I’m sorry, Ryn. I think I need a break from copying,” Ali said, surreptitiously placing the duplicate book on Fae Bloodlines on top of the giant pile for the kobolds to sort. “I think I need to take care of some other things for a bit.”
+
+“No problem!” Ryn said, obviously cheerful.
+
+“Hey, Ryn?” Ali asked, wondering if perhaps her friend might shed some light on the bizarre happenings in the library. “What do you make of those flying ghost books?”
+
+“Oh, that?” Ryn said, gazing out to where Clarence was still cavorting with his new friends. “My level forty skill is called Library Domain. It imbues the space and the books in my libraries with my mana and intent.”
+
+“What does that even mean?” Ali asked, eyeing the subtle threads of divination mana she had seen earlier.
+
+“Well,” Ryn said. “I’m not certain. But I do have divination mana, and it seems that sometimes this causes books to phase over from the spirit realm, following the threads of fate.”
+
+“And?” Ali asked, still not quite getting it. Divination magic was so esoteric that even the language used to describe it was necessarily vague.
+
+“It seems they chase people who might need them,” Ryn summarized, shrugging her shoulders.
+
+“Oh,” was all she could say. It certainly explained the book on bloodlines appearing, but how did it explain what Clarence was doing? She studied the playful books for a long while.
+
+Unless he simply needed playmates?
+
+“Ryn?”
+
+“Hmm?”
+
+“Are you still going to play against Cael and Gage?” Ali asked. She was still shocked at how readily Ryn had chosen to bet her life on the game.
+
+“Of course, they’re learning quickly.”
+
+“Maybe a silly question, but… how good are you? Are you the top Kings and Emperors player on the continent?”
+
+“Oh, heavens no,” Ryn said, grinning broadly. “There are two dwarves in Thorel Moldur that beat me nine out of ten games. And those dwarves cannot even take a single game from Niatheris Duskrune, but I haven’t played her since she fled Ciradyl.”
+
+“Did she… survive?” Ali asked.
+
+“Oh, yes, she’s living in one of the houses you restored for the refugees,” Ryn said. “Hey, can I invite them to play against Cael and Gage? They would love to teach such a talented new player!”
+
+“Sure, I don’t see why not,” Ali agreed. Three players… she knows three players who can beat her. No wonder. She waved goodbye to Ryn as she vanished – off to beat an ancient dungeon at a similarly ancient board game.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,159 @@
+---
+id: c210ff8b-d704-577f-bf97-07483f82f10b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 408: Xammath and the Eye"
+slug: 0445-chapter-408-xammath-and-the-eye
+partOf: dungeon-of-knowledge-complete
+position: 445
+ownLength: 3653
+unit: words
+ownProgress: 3653
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2673010/chapter-408-xammath-and-the-eye"
+royalRoadId: "2673010"
+markedReadAt: "2026-06-29T20:27:13.036Z"
+---
+
+Ali looked down from above, gazing upon the chamber of the Eye of Agnor she had been sent to kill. It was nearly twice as big as the others she had encountered, hovering there with restless eyes that searched all about and guarding the exit that the scout told her led deeper into the true heart of the Demon God’s Lair.
+
+It was incredible to her that all this power and vast area was simply an outlying offshoot in a small backwater part of the giant conflict between these two unimaginably powerful dungeons. And here she was, sneaking in to poke the Demon God in the literal eye while he wasn’t looking.
+
+It’s definitely a raid boss, she thought, studying the powerful flow of domain mana through the oversized Sentinel. However, if Azryet was to be believed, two of its Domain Magic skills were immunity to holy and void. It was both a good thing and a bad thing. She would only need to contend with one domain magic, but it also meant she couldn’t use her newest Scion of Azryet to fight it, even though the vast area of the underground chamber could have supported the massive dragon.
+
+One entire side of the chamber was taken up by a waterfall of blood and a large pool, which would be convenient if she could place her berserker and blood shamans nearby. The walls were covered with the same strange clinging plants that burned with black hellfire but were never consumed, and, embedded like bloody stars within the walls, were countless sparkling red gems, Abyssal Bloodstone, leaking potent flows of blood mana out to mingle with the domain itself.
+
+Sentinel – Demon – level 152 (Arcane / Hellfire)
+
+Ali carefully withdrew from the tunnel entrance overlooking the chamber and surveyed her minions. She might be anxious about facing a raid monster without her friends, and Azryet’s cold assessment of her chances weighed on her, but what other choice did she have? Without help, she was doomed to be crushed between these two overwhelming forces before she could even have a chance of figuring out her way home.
+
+At least she had made more minions for this fight – over a third of her much-reduced mana pool was devoted to just this army. But as she surveyed her forces, she felt proud of how far her minions had come – always loyal, of course, but they had all grown substantially stronger.
+
+Tol’brekk [The Crimson Blade of Carnage] – Giant Troll – level 115 (Blood)Carnage Berserker – Giant Troll – level 109 (Blood).Armored Drake – Dragon – level 93 (Fire).Kir’mogan [The Brutal Blade] – Troll – level 98 (Bone)Bone Warrior – Troll – level 93-96 (Bone) x2.Abyssal Stalker – Demon – level 85 (Blood) x2.Dagger Rogue – Kobold – level 87 x2.
+
+She had been aiming for variety when she had built this army, but the primary attack force was melee. She had one tank, two berserkers, four assassin-class damage dealers, and the warriors who were versatile at range or melee and could counter healing as needed.
+
+Joraa [The Betrayer] – Troll – level 99 (Blood).Blood Shaman – Troll – level 93 (Blood).Acolyte of Azryet – Kobold – level 81-83 (Holy) x3.Sacred Ooze – Ooze – level 87 (Holy / Water).
+
+For healing, she covered the full spectrum of what she had at her disposal. Two blood shamans providing melee healing, totems, and bloodlust. Three acolytes for ranged healing, burst healing, and any kind of disease, corruption, or poison curing she might need. And the Sacred Ooze, which had proved to be a powerhouse of self-guided healing throughout the more deadly fights.
+
+Mage of Piercing Frost – Troll – level 102-107 (Ice) x2.Frost Dragonet – Dragon – level 92 (Ice) x2.Hellfire Imp – Demon – level 83-86 (Hellfire) x2.Fire Mage – Kobold – level 79 (Fire).Kir’vella [Empress of Bats] – Troll – level 95 (Soul)Baelok Descrier – Demon – level 92 (Mind).
+
+The bulk of her pure damage would come from her group of ranged magic users. Particularly, the two evolved ice mages were synergizing well with the frost dragonets. The hellfire imps were always a little tricky to use, given the number of demons in this dungeon that could heal from hellfire, but she still felt they had their place. She also covered a fair number of control options with this group, everything from telekinesis, frost nova, and spirit banishment.
+
+Devouring Consumption – Ooze – level 321 (221 temporary) (Nature / Death)
+
+The Devouring Consumption was in a class of its own, grown truly monstrously huge – it would serve as one of her primary sources of damage and control during the fight. And it was technically her highest-level minion by a large margin, but most of those levels were still temporary.
+
+I just hope it’s enough.
+
+She had even spent the last drops of her magical ink tattooing face enchantments on her berserker and one of the warriors. There was not much point in delaying; she had already extracted all the information she could from the anxious and fidgety kobold scout, so she crept up to the ledge once more.
+
+“Attack,” she said, keeping her voice soft, mainly communicating with her minions through the connection she shared with all of them. Her Carnage Berserkers were the first into the chamber, leaping recklessly from the rocky ledge above the lake of blood with their axes whistling through the hot, dry air.
+
+The Eye of Agnor hissed furiously, a harsh sound that filled the rocky chamber, and all the peripheral eyes swiveled to look upward. The rapid flickers of mana turned into purple bolts of arcane energy that streamed upward, curving to intercept the huge falling trolls in a continuous magical barrage that filled the cavern with strangely dancing shadows, while at the same time, Ali recognized the teleportation formations and prepared for the arrival of demons.
+
+For now, she allowed the teleport spell, deciding it wiser to keep her presence hidden for as long as possible. She remained safely hiding on the upper ledge with most of her mages and ranged casters, lowering the rest of the melee into the fight. At least those who were not able to fly, leap, scramble, or crawl their way down. Or like her Devouring Consumption, which simply fell, landing in the pool of blood with an enormous splash. Magic filled the cavern, a kaleidoscopic cacophony of color and frantic energy.
+
+And then the domain reacted.
+
+You have been cursed with Fire Vulnerability. -1071 to resistance against Fire magic.Curse – Aura
+
+That’s its domain magic? The notification loomed at her, vastly more problematic than just a few lines of text. With normal curses, she would simply have her witch doctor remove them, but with a domain magic curse aura, decursing had no effect. Well, technically, it could still be removed – but it was instantly reapplied by the domain, so that didn’t help. It reduced her resistance to almost half against all kinds of fire magic, including hellfire – but for some of her minions, that number was now negative.
+
+As her monsters rushed toward the Eye of Agnor, two roiling black balls of fire shot from each of the large primary eyes, detonating among the trolls and kobolds, one of them hitting her Devouring Consumption, sending burning gobs of black and green slime raining down into the lake of blood.
+
+Her healers instantly reacted to the sudden surge of damage, rapidly casting their spells to recover health, but Ali focused on her mana sight, studying the monster carefully, attentive for any surprise magic. In theory, there should be no more domain magic skills, just the curse aura. But it didn’t hurt to verify it; at least her Healer’s Sight could not see the health of this demon, so she assumed that meant it definitely was immune to holy.
+
+“Shoot the boss,” she instructed, directing her mages standing on the rocky ridge. With a raid domain enhancement, the fight would take much longer, even though she didn’t exactly expect any healing abilities with arcane and hellfire as the two affinities.
+
+More demons began appearing at random spots in the room as the Eye of Agnor summoned allies. Flame shield, she thought, identifying the full-body hellfire flames that covered each of the new arrivals. A fresh teleportation formation flickered into being, and Ali decided she’d seen enough of what this monster could summon. With a flick of her fingers, her golden darts shot out across the room and pierced the formation, shredding it.
+
+Out in the open, a huge black-green tentacle slapped down on a hellfire warg, but instead of crushing it, a small purple barrier of arcane magic appeared, shattering into shards from the impact, but leaving the demon unharmed beneath it.
+
+Hmm… It was not ideal, but it would be manageable. But then something else flickered, and several curses appeared, rolling out across random minions in a wave.
+
+The first one seemed to be an entirely new arcane affinity curse; one she had never seen before.
+
+You have been cursed with Interrupted Casting20% chance for magic spells or skills to catastrophically fizzle or spontaneously disrupt.Curse – Duration: 10 seconds.
+
+“Get this curse off of me,” Ali demanded, and Kir’vella began to purge curses from the raid.
+
+But the second curse was all too familiar. A hellfire curse she had struggled with from the warlocks in the Emberforge Mines. As soon as it appeared, she knew it would be trouble.
+
+You have been cursed with Explosive ConflagrationThis tale has been pilfered from Royal Road. If found on Amazon, kindly file a report.+150 Hellfire damage per second.Explodes when dispelled or expires, dealing hellfire damage to nearby targets. Range: 3 meters.Curse Proliferation (Whenever Explosive Conflagration damages a cursed target, it has a chance to refresh the curse duration or proliferate it to nearby targets).Curse – Duration: 10 seconds.
+
+“Decurse the conflagration!” Ali shouted, urgency overriding her calm. Within a crowd of melee monsters, the curse would be devastating, especially with the Fire Vulnerability all around, and triggering the explosion early would be worth it, just to reduce the chances of proliferation. But the boss wasn’t done yet. The increased area of effect meta-magic flickered briefly, and then hellfire burst forth from the higher eye, filling the area immediately in front of the demon, searing her minions and setting them alight.
+
+You have been cursed with Interrupted Casting.
+
+“Scatter!” she shouted, racing to separate her minions, to get them to spread out. Then the Explosive Conflagration began detonating as her witch doctor desperately tried to get ahead of the damage.
+
+Ugh. This Eye of Agnor had so far exclusively summoned hellfire imps and hellfire wargs. With the detonations of hellfire and the immolation spell it had just channeled, it was going to be next to impossible to kill the extra demons. Even now, Ali could see the wargs healing back to full. “Just eat it!” she yelled, sending her intent along with her verbal commands so the Devouring Consumption would understand. It would take enormous damage from the internal hellfire breaths once the warg was engulfed, but she had healers. And within the giant ooze, the roomful of hellfire explosions couldn’t heal it.
+
+Another teleport, she thought, identifying the boss’s magic, but instead of a new demon, like she had expected, she found herself suddenly staring down the giant maw of fangs and the purple glow of the major eye glaring at her from less than a meter away.
+
+Oh, crap, it moved! Ali barely managed to throw up a barrier as the world filled with a sizzling purple cone of arcane magic – magic that ripped and tore into her mages and kobolds, and the descrier sitting up on the ledge. Her eyes widened in shocked frustration as the purple began shredding her golden barrier, eating through it like her magical formation was a mere sugar cube dropped into warm water. In an instant, her barrier was left ragged, riddled with gaping holes, and the stream of bright purple arcane magic tore into her. A hot, violent, searing pain burned through her mind as her mana ignited and her health vanished.
+
+Figures. Move! She teleported instantly, swapping places with Tol’brekk as her mind dimly registered the nature of the horrific spell. Arcane Mana Burn. She had only once read about such a spell. Her switch with her berserker was barely in time, dumping her in the dark belly of the cavern, almost out of health and mana. She stumbled, snapping up a barrier just in time to take the detonation of two hellfire fireballs and the splat of a Hellfire Imp riding the flame.
+
+Tol’brekk’s greataxe bit deeply into the flesh of the Eye of Agnor, but not before Ali felt the reservation for several of her monsters snap as the devastating mana burn shredded her remaining casters still up on the ledge. Both her hellfire imps and her kobold Fire Mage collapsed, completely burned from within, acrid smoke rising from their eyes and ears. Her Baelok Descrier managed a teleport but collapsed as a smoking corpse upon arrival. One kobold acolyte perished, taking the brunt of the attack, while the other two managed to leap from the ledge using their restoration magic to survive the jump. The canny Kir’vella escaped to the spirit realm, and her two ice mages somehow managed to teleport away to a hastily cast frost nova, barely alive. A hellfire fireball detonated among them, shattering ice shields, and an arc of arcane bolts curved out across the cavern, finishing off one of the troll mages before she could even react.
+
+Crap, this is bad…
+
+There was a splat beside her as her Sacred Ooze landed, heavily damaged, but still alive. Ali activated Inspiration immediately, but at the sight of another teleportation formation within the Eye, she shot off, flying away quickly. She could not get hit by that again – she was very nearly empty on mana, and any more burnt would rip away her reservations – and even if she survived her own minions being forcibly released and turning on her, she would be stranded in the middle of the demon dungeon by herself. Just the thought of it filled her with utter dread.
+
+The Eye of Agnor appeared in the middle of the chamber, near the lake of blood – fortunately, too far from her to reach with its devastating eye magic.
+
+Blood magic, she thought as she watched her berserker leap once again from the ledge, performing a massive strike from above. She had minions that did not use mana – did not even have it – the berserkers and the shamans. Her rogues didn’t use much mana, and could function reasonably well without it, and although the stalkers did use mana, they would be of no use at range.
+
+“Pull back,” she sent to her bone warriors. They, at least, could attack from range with thrown bone axes.
+
+With another flick of her fingers, Ali shot off a disruption, shredding another teleport spell. We don’t need any more monsters at this party, thanks. She took a second to mop her brow – wishing she had a skill like Malika’s Clarity to instantly restore her presence of mind. She smiled wryly to herself. I guess survival has a way of focusing one’s priorities, right? Dad… he used to say that.
+
+She puffed out her cheeks. Right, what have I missed here?
+
+Slowly, the battle began to stabilize as Ali recovered her mana with Inspiration and a mana potion. The Devouring Consumption had effectively eaten anything she might have deconstructed to recover her mana – one unforeseen downside of bringing the monstrous ooze – but she took the opportunity to deconstruct all the black, burning plants growing off the walls and any abyssal bloodstone she could reach. Her remaining acolytes recovered, taking turns to use their Prayer skill and healing her minions back up to full. Her witch doctor returned from her spirit walk and resumed decursing the explosive conflagration, and, to her relief, had enough room to begin to remove the Interrupted Casting from her acolytes. Huge waves of black, sulfurous fire billowed from the higher eye while the six continuous arcing streams of arcane bolts flew from the Eye of Agnor, but her minions still stood.
+
+If that’s the worst it can do, I think I got this, Ali thought, flying up and deconstructing another bloodstone to bring her mana back up to full.
+
+A teleport formation flickered through the Eye, and Ali immediately fired her Disruption darts at it, but the spell fizzled instantly, coming out as a pathetic puff of golden glitter that hovered briefly in the air before dissipating. Fuck. “Get rid of this curse on…” Ali began, but suddenly, something massive appeared in the pool of blood near the center of the room, and an overpowering aura of presence rolled out from it, filling the room and causing every hostile demon to accelerate in frenzied movement.
+
+Ali’s blood curdled as she recognized what the boss had summoned.
+
+You have been afflicted with the Pit Lord’s Corrupted Blood.+30 damage per second bleed.Demonic energy infuses your blood, causing progressively worsening disorientation, perception distortion, nausea, and dizziness.After 30 minutes, your race gains the demonic trait, and you become a thrall of the Pit Lord. Contagious. Range: 25 meters.Corruption – Duration: 30 minutes.
+
+A wave of dizziness slammed into Ali as the giant demon slowly stomped up out of the pool, surveying the battle as glistening red blood dripped from his dark purple, leathery hide. He licked his lips with a long, crimson tongue, clearly enjoying the prospect of sowing carnage amongst the dismayed foes.
+
+Xammath [Desecrator] – Pit Lord – level ??? (Blood / Hellfire)
+
+“You will all submit yourselves as offerings for the Demon God!” he roared, shaking the cavern with his powerful booming voice, but he wasted no time waiting for their surrender. He lowered his gigantic war glaive and charged, impaling one of the Carnage Berserkers clean through the chest and unleashing an explosion of blood blades and burning hellfire. Then he reared up and brought his two huge front taloned feet down on the ground with a rock-shattering crash, blasting everything around him with a wave of hellfire that knocked most of Ali’s remaining minions flying.
+
+Already monitoring her Devouring Consumption closely, Ali used it to Identify Xammath again from a far higher level. Her eyes widened as she saw the Pit Lord’s level was one sixty!
+
+Ali reacted in an instant. There was no way her current forces were up for this; she had only one chance. The battle froze as she halted time, slipping into the gray tones of the spirit realm, but she did not need to think or consider her actions. She opened her Grimoire and summoned her dragon, and as the spirit realm faded, she hurriedly pulled up the status and skills, so she had at least some idea of how to use its abilities.
+
+Scion of Azryet – Abyssal Dragon – level 130 (Void).
+
+Your reserved mana has increased by +975.
+
+You’d better be as strong as I remember. Ali did not even need to tell her massive, black-scaled dragon what to attack. It thundered in fury at the mere sight of the Pit Lord and unleashed a beam of disintegration from its mouth in the form of dense void magic that sizzled as it tore through flesh and bone.
+
+The Pit Lord roared in pain, but its retaliation was instantaneous, an act of stunning violence and power; one moment it was standing in the shallows of the blood pool, and the next its enormous bulk was somehow in the air above the Scion of Azryet, war glaive cleaving downward, shattering void barriers and scales as the blade tore through the dragon’s hide. Blades of blood and hellfire exploded from the point of impact as the two giant monsters tore into each other, filling the cavern with furious roars and crashes as they fell heavily to the ground. Huge chunks of the war glaive’s blade were already missing, disintegrated by the void barriers, but the bloodsteel seemed to be regenerating rapidly.
+
+“You too,” Ali said, directing her command to the Devouring Consumption. A giant dark green pseudopod lanced upward, coiling around the Pit Lord’s neck as the three giant monsters began a deafening brawl in the center of the chamber. Rock split and shards flew as their titanic bodies struggled against one another. Blood, hellfire, and void all mingled to create a cacophony of noise and magic.
+
+Conventional wisdom would have her kill the Eye of Agnor first with her most powerful monsters, but this was a Pit Lord. She turned and threw up in the corner as the aura of corruption twisted its way deeper inside her, making the world shift and blur as it began to warp her perceptions. She tried to ignore the blood she had just thrown up and focused, rallying her minions to attack once more.
+
+Fuck, it’s also healing. The Pit Lord’s great wounds from the dragon’s talons and void magic were rapidly closing as the three of them brawled in the Eye of Agnor’s hellfire Immolation and the breaths and fireballs of the hellfire demons crawling around the cavern. “Pull it away!” she shouted, imbuing her intent into her Martial Insight. But moving the stubborn Pit Lord proved to be much harder than she hoped. With a massive stomp of his feet, hellfire blasted outward, knocking the Dragon and Ooze back away from him, and he raised his war glaive to the ceiling, summoning a vast, towering pyre of magic.
+
+Ali scrambled to summon barriers as giant black flaming gobs of hellfire and lances of blood rained down upon everything in the cavern like a hellish hailstorm of destruction.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

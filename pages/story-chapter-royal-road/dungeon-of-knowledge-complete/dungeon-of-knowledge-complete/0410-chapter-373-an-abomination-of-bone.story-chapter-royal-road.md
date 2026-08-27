@@ -1,0 +1,169 @@
+---
+id: 27084d57-1935-551e-b05c-3315fa95be07
+page-type-slug: story-chapter-royal-road
+title: "Chapter 373: An Abomination of Bone"
+slug: 0410-chapter-373-an-abomination-of-bone
+partOf: dungeon-of-knowledge-complete
+position: 410
+ownLength: 2764
+unit: words
+ownProgress: 2764
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2589828/chapter-373-an-abomination-of-bone"
+royalRoadId: "2589828"
+markedReadAt: "2026-06-29T20:25:54.541Z"
+---
+
+“Get out of the fucking fire! Idiot!” - Anonymous raid healer.
+
+Ali went all out the instant the mana shield dropped. She summoned her Winter’s Desolate Celerity wand and emptied it on all the highest-damage casters – two of which were her own evolved Mages of Piercing Frost.
+
+“Bloodlust,” she called. Joraa roared, throwing his head back to face the sky, and unleashed a fountain of blood runes upon the raid.
+
+Calen ignited Righteous Fury.
+
+Throughout the raid, people downed damage potions and glittered and shone as they burned their powerful recharge timers to eke out the most damage possible. Curses went up on the boss as Seth and the other debuff mages wielded their magic to enhance the effect of the group’s attacks. It would be a small window of time, and everyone was experienced enough to be exquisitely aware of that fact.
+
+Ali dropped a double Ritual Infusion on both of her berserkers, turning one pink and causing the other to sprout poppies from his hair. “Use everything!” she commanded, making them spend almost their entire health pools on their Overwhelming Power skill. Ali groaned and hung on for dear life, desperately trying to control them as the rage crashed into her like a rising wave, but the red haze faded as their Last Stand skills kicked in and she came to, finding enormous sprays of blood from their arms being sucked up into various blood-affinity weapons and totems as her berserkers yanked their enormous axes out of undead flesh, ready to go again.
+
+Ali studied the necromancer carefully as his health dwindled. She couldn’t miss the critical moment.
+
+“Fifteen percent,” she announced, barely registering her own words as she locked her gaze – and all her available perception skills – on him.
+
+“Twelve.”
+
+“Eleven.”
+
+“Nine.”
+
+Ali froze, leaving her minions to manage themselves, and devoted all her awareness to Arcane Insight. As the black knot of mana formed within Alexander Gray, she meticulously created the counter-formation in her mind, imbuing it into her Disruption skill, wishing she had had a few more moments to study his advanced Sacrifice.
+
+This had better work!
+
+He yanked the writhing formation from his body and launched it across the ruined town square, but Ali was ready. She released her golden darts, shooting them out from her fingertips. For a moment, they sank in, and the complex formation wobbled. But the Sacrifice spell ripped the unlife from the Bone Wight a mere fraction of a second before her Disruption annihilated it, and the Wight collapsed.
+
+Alexander Gray’s corpse swelled with the fresh influx of power, and his eerie laughter echoed across the ruins of Lyton.
+
+Fuck! How did that miss?
+
+She was rusty.
+
+It was hard to admit it, but she, Vivian Ross, the Guildmaster that all these adventurers looked up to, was rustier than an old Goblin dagger left lying in a sewer.
+
+There was a time when it would have been her directing this raid, but she had been forced to admit Calen was better at it. Oh, she still had more experience and perhaps even arguably better strategy ideas and decisions, but where she had lost her edge was in sheer speed and decisiveness. In the moment when the raid was collapsing, the leader needed to remain calm and, most importantly, make a decision. It never really needed to be the best decision, but any decision that could get the job done safely would do. It just needed to be delivered quickly and confidently.
+
+And for that, Calen had way surpassed her expectations.
+
+She was rusty, but she was still a platinum-ranked adventurer, and she needed to learn to pull her weight with this new and unfamiliar evolution of her class.
+
+She burned her most powerful recharge timer, enhancing her haste to synchronize with the potent rush of Bloodlust. Such a ridiculous spell. Both her blades burned with a hungry flame as she tore into the undead monster, striving to build her Ignite to the maximum damage over time. It was the best strategy for this kind of fight, in her opinion. While buffed to the gills, she would stack her Ignite as high as she could, and then she would roll it for as long as she could hit the monster, leaving it to continue burning long after the shield was restored. Every little bit to maximize damage. She struck with a powerful slash and stab combination, grinning as her first strike did critical damage and her mana ignited within the wound. She struck again, feeding mana to the voracious flame, coaxing it to grow, but she was shocked at how hungry it felt.
+
+No surprise, really, she reminded herself. They had brought Seth, a necromancer with Amplify Damage. It was an unfairly powerful curse, and more so given the ridiculously oversized raid focusing on a single monster. All the debuff mages were suddenly far more effective than normal. If she was not much mistaken, someone had managed to put a Fire Vulnerability curse up there, too.
+
+She grinned, slashing and whirling, reveling in the joyful freedom of having finally unblocked her class from the broken mess it had been for so long.
+
+A huge bolt of black ethereal energy shot outward from the boss, and the Bone Wight Sabri had been tanking collapsed. The undead mage swelled with power and began to cackle as his mana surged. Vivian’s blade clanged against the mana shield, and she realized the window had slammed shut.
+
+Damn it!
+
+As she turned to go hunt down the fresh specters he’d summoned and no doubt hidden in the ruins, the undead mage waved a gnarled hand. A sea of bones erupted from the ground, clamping down on all the melee fighters. The bones ground shut around her, squashing her arms to her sides as if trying to wring her dry of blood.
+
+“Got you, you slippery pest,” Alexander sneered. Every time he spoke, Vivian shuddered. She never knew if it was from the fear-laced magic or the sound of the undead’s malevolent and decrepit voice.
+
+“Fuck. Teleport is on recharge,” Malika said, speaking in Trollish of all things as she struggled against the bones of the prison that had snapped shut on her. “Watch him.”
+
+A ring of death magic bolts shot out around him, one punching Vivian in the ribs and another in her left calf, the wounds instantly decaying as the flesh rotted out. She hissed in pain.
+
+Shit! This was a new ability, and it was going to be hell on their melee. A crimson red ribbon shot out from inside Gara’s bone prison, piercing Vivian and jumping to Devan beside her, and then on to finish up with Braden, the magic repairing her injuries rapidly.
+
+Alexander Gray, however, turned away, fixing his glowing eyes on the priests and mages, aiming his bolts far beyond the tanks and melee. She had to act, and it had to be now. Fortunately, her class was a dexterity and strength build. Not even waiting for her muscles to finish repairing, she flexed her arms, pressing up and outward. The heavy bone bars creaked and groaned and then suddenly snapped with a violent recoil. She leapt from her shattered prison, triggering her Flame Rush skill to accelerate her to near-instant speed, and she unleashed her Cleave, targeting Malika.
+
+Her blade ripped through the bone prison, shattering the bonds that pinned Malika to the ground, but the follow-through bit deeply into her leg, igniting the wound with fire mana.
+
+“Sorry,” Vivian muttered, but there had been no other way to release her fast enough to save what would undoubtedly have become an artillery barrage of death magic at the weaker healers and mages.
+
+“Thanks,” was all Malika said, and with a pulse of her mana, she punched the necromancer in the neck, unleashing a powerful lance of her mana that penetrated the barrier and immediately snapped his attention back to her.
+
+Whatever her magic is taking from him, he hates it. He really wants her dead.
+
+Gara switched to the two specters, annoyed to find they had once been trolls.
+
+I will release you to the spirit realm, she told them, echoing the ritual promise she had offered to all the undead in Aman Rak. At least she had had the presence of mind to drop her Free Action totem back beside Malika before she had left. It was galling that she hadn’t predicted the prison or that she had been beaten to releasing their tank from her bindings by a warrior. She had even observed Teagan taking care of it earlier. Either way, it was her responsibility to ensure it never happened again.
+
+She returned her focus to the monster before her, curling blood into her axe and lashing out with Lacerate. Her blade bit into the ethereal flesh, barely doing any damage to the partially incorporeal monster, but she still cursed it with Vampiric Hex. Then, she attacked without holding back. Early in the fight, she had had to tank these because she was the only melee class with a shield, but now Basir and Sabri were there, and she devoted all her attention to healing and damage. Her totem was down, but the boss had suddenly begun lobbing his death magic in volleys, striking everyone nearby, and suddenly she was spending blood like water to heal them.
+
+“Don’t stand in the fucking pestilence!” Belmar shouted from the back. His frustrated words were instantly followed by appropriately angry-sounding Dwarven curse words.
+
+Gara wasn’t about to yell at her hosts, but she empathized with the poor Dwarf. These were experienced raiders – not noticing the pools of pestilence appearing under one’s feet was no excuse. Perhaps a few of those rogues needed extra lessons in situational awareness.
+
+She channeled her Blood Siphon again and again, pouring her blood into her magic to heal them all while she attacked to replenish herself slowly from her own Vampiric Hex.
+
+Watching through the eyes of her berserkers, Ali could tell the last specter was nearly dead, so she retrieved a fresh wand from her storage and waited. Soul Drain arced and twisted, the blue glow shimmering as it connected her witch doctor to the monster. Arrows smashed into it, followed by firebolts, and so many other attacks she could barely separate them all, and it suddenly collapsed with an unearthly shriek.
+
+“Mana shield is down, burn everything,” Calen said. Even he was starting to sound tired after such a grueling battle.
+
+“Bloodlust,” Ali commanded, and Joraa released the blood runes. Magic erupted across the entire raid as everyone once again burned hundreds of gold on expensive potions and consumables, expended their best skills and buffs to launch the final offensive.
+
+At least, she hoped it would be the final one. Missing that Sacrifice by a fraction of a second had stung. She clutched her wand tightly. There was no way she was making the same mistake again. She had studied the spell in detail, going over her memories of it with a fine-toothed comb.
+
+Still, she was a realist. She had been burned once already. If something could go wrong, it probably would. So she used only six of her wand’s nine charges on the mages in the group, granting them an incredible haste bonus for the short duration of the window they had. He had to be out of tricks by now. Surely!
+
+Clashing magic flickered and flashed, and she sorted through it all with her mana sight. Domain magic flared as Alexander Gray abused the Nova Strike domain spell he had stolen from the Wight to rip into the melee adventurers. To their credit, none of them flinched – they endured the withering storm of bone-rotting magic, unleashing their most powerful attacks and trusting that the healers would save them.
+
+She watched his health drop, and as it got closer and closer, her heartbeat accelerated more and more until she felt it was racing.
+
+“Fourteen percent,” Ali announced. I can’t miss again. She could feel half the raid glancing at her.
+
+“Twelve.”
+
+She didn’t hesitate; she turned her wand around and fired it into her own face. Cold seared up her nostrils and momentarily seemed to freeze her brain with a microsecond of debilitating pain, before it vanished just as quickly. Ouch!
+
+You have gained Winter’s Desolate Celerity.
+
+“Ten.”
+
+The dense knot of death magic coalesced within the undead heart of Alexander Gray. Within the accelerated moment created by the power of her spell haste and enhanced reaction speed, she studied his spell, checking every detail as she formed the counter-formation at record speed. This time, she was ready. Really ready. As soon as he pulled the formation out, preparing to fire it at the Plague Ghoul champing its slavering jaws at Havok, she launched her attack.
+
+Tiny, complex formations of golden mana shot forth like needles, lancing across the distance in an instant. As the dense knot of Sacrifice left Alexander Gray’s grasp, her spell found it and tore it to shreds, leaving nothing behind but smoke and shards of mana to float down toward the ground.
+
+“Fuck yes!” Calen cheered.
+
+“You meddlesome pest!” Alexander yelled, glaring furiously at her. The flame in his eye sockets intensified; Ali felt the blaze of his anger directed solely at her.
+
+Malika punched him in the face and broke the moment.
+
+But Alexander Gray was not done. A familiar but more powerful magic rippled through his entire body, levitating him a little above the ground. He completely ignored the withering hail of magic and arrows that struck him, now, intent solely on his magic.
+
+“Bone Avatar!” Ali yelled. “Get ready!” It was the same spell he had used in their last encounter, but, once again, his magic had grown substantially – clearly advanced or evolved in some way.
+
+What the hell was I thinking about tricks? Stupid, stupid…
+
+Bones ripped out of still-walking zombies, leaving them to collapse limply to the ground. More bones clattered across the cobblestones, drawn from the hundreds of dead skeletons. Everything hurtled to the necromancer in a swirling squall of wind and bone, each piece striking his body and melting against his undead flesh until it meshed into a cocoon around him while his laughter echoed from within.
+
+Only when every last scrap of bone had been ripped from every corpse did the maelstrom finally cease. As the dust settled, Ali beheld the Bone Abomination he had become. It had four squat legs and a broad chest. Its head was low slung, hanging almost within its chest, and flame burned within deep-set eyes. A vast maw opened, baring black-stained fangs, and trails of smoke curled up out of the mouth. That’s where all resemblance to any normal creature ended. This thing was constructed from mismatched bone, warped and melted into the giant misshapen form that loomed out of the dust. The spaces and gaps between the bones were filled with crackling black energy that seemed to animate the huge bulk with unholy vitality.
+
+Then, it vanished. There was a brief puff of dust, and suddenly, Malika was on the ground, blood spraying from large gashes sliced through her ribcage. The monster bit down hard on her shoulder, shaking its head as a cat might shake a rat.
+
+“Heal!” Ali screamed at her shamans and her acolyte, but they were already casting their magic. Mana poured out, holy and blood, pumping into Malika’s body, and she opened her eyes.
+
+Eyes that glowed intensely, spilling excess soul mana in trails and ribbons of light, as if her body was holding too much, and it was seeping out through her eyes and her skin. Still gripped by the monster’s enormous fangs, she punched with her free arm and released an intense burst of soul magic that blasted through the abomination’s head.
+
+She saw the formation in the domain mana. Kir’mogan’s Overpowering Strike and Frenzy at the same time.
+
+She’s going to die!
+
+The bone monstrosity smashed Malika to the ground, making her bounce like a ragdoll. As its claws blurred into action, she somehow stepped off the air and dodged. The giant claws whistled through the air, blasting dust and pebbles away from the wind of its passage, but to Ali’s relief, he missed – as did a golden barrier she had tried to cast in the way.
+
+Malika! She was still alive. They could still do this.
+
+But as the sudden bloom of hope swelled in her heart, she heard Malika’s voice.
+
+“Mato, help!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

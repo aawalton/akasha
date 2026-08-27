@@ -1,0 +1,175 @@
+---
+id: e98039e0-9d6c-52b9-83ef-ecfb1c2079a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Five: Lessons"
+slug: 0046-chapter-forty-five-lessons
+partOf: flesh-eater-demon-evolution-litrpg
+position: 46
+ownLength: 3519
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2790204/chapter-forty-five-lessons"
+royalRoadId: "2790204"
+---
+
+After a quiet lunch, Pyre made a quick visit to the latrines to dump the food out of her flesh pocket. She then circled back around to the armory, where group A’s next session would be.
+
+She’d already visited the building during her morning stroll, though she hadn’t been able to enter at the time. Not without giving a solid non-suspicious purpose, at least, which she didn’t have.
+
+The armory was one of the few buildings entirely constructed out of stone in the garrison, and it was deceptively large inside. There were very few windows, casting the whole space in dense shadows that further highlighted the assortment of armor and weaponry.
+
+Pyre was actually looking forward to this session. She was still firmly in the camp of “why use a weapon when growing sharp bones is easier,” but she figured she could use the weapons as references for shaping her bones in the future. They were probably as strong or stronger than metal at this point anyway, and figuring out how to shape them into blades would mean she could add slashing to her current arsenal of stabbing and bludgeoning. That didn’t sound too bad to her.
+
+In front of their gathered group, the weapons master was repeating some safety rules for the fourth time while introducing what each weapon was. There were a lot—everything from swords and spears and axes and bows to halberds, a whole ass scythe mounted casually to the back wall, some weird chain-whip thing, and a giant ball of spikes attached to a handle. That wasn’t even mentioning the assortment of armor and shields.
+
+Frankly, most of the stuff didn’t even look usable. Those spiky boots in the corner, for example, looked cool but would probably be hell to walk in. It wouldn’t surprise her if some of the items in here were the weapon master’s personal collection or something.
+
+“As you know,” the man in question was saying, pacing back and forth like his life depended on it, “the weapon of choice for the Auren military is the spear, but we have regiments with different specializations. As cadets, you will be expected to have basic proficiency with the sword, spear, axe, and bow. You’ll need to know how to handle them when necessary.”
+
+In the corner of Pyre’s eye, Declan was bouncing back and forth, practically vibrating with excitement. The cadet hadn’t pulled the trigger and actually moved tables by the end of lunch, but he’d purposely stood close by once she made it to the armory. Which wasn’t hard, considering most of the other cadets seemed to be giving her a wide berth. She was enjoying the extra personal space.
+
+On the other end of the spectrum, Merrick looked as solemn as ever. He hadn’t reacted when the demon had entered the room, and his face hadn’t so much as twitched at any of the weapon master’s spiel, either. That wasn’t too much of a surprise, assuming he already knew how to fight and use weapons and stuff.
+
+Pyre directed her attention back to the front of the room, where their instructor had finally stopped talking and had grabbed a crate with far more standard-looking weapons inside. These, he said, were just to practice proper grip and safety. Nothing more than that today. The noble kid scoffed and more than a few cadets looked disappointed, but no one tried to argue.
+
+One by one, the instructor passed out weapons—swords today, it looked like—to each of the cadets. He slowed down when he reached Pyre, frowning and squinting up at her.
+
+“You’re… very tall,” he muttered. “And I already thought that other guy was big. What are they feeding the cadets these days…”
+
+Humans, Pyre thought internally with a snort. Chimeras and other demons, too, but that probably wouldn’t matter as much as the former.
+
+The man shook his head. Observing in the corner of the room, Edna heaved an exasperated sigh while the man turned back to the blades. She’d seemed pretty exasperated with him the whole time, which made sense from what little Pyre had seen of their personalities so far. After some thought, the weapons master finally pulled a sword out and handed it to the demon.
+
+“This won’t be long enough, but it should do for today. I’ll see if I can find a more fitting one before we start proper combat instruction.”
+
+He turned to continue down the group, and Pyre stared down at the sword in her hand. She couldn’t feel its weight at all, which wasn’t really a surprise given her strength stat. The demon wrapped her fingers around the grip, and it was definitely a bit too narrow. She spent longer inspecting the actual blade itself, mentally committing the shape to memory. It was a shame she couldn’t just grow a bone here and now to do her experimenting, but oh well.
+
+It was also a shame that the blade was very obviously dull. Probably deliberately, considering a second later a clatter sounded around the armory as one of the cadets dropped their sword. Still, it did mean it wasn’t as good a reference as she’d like.
+
+“No no no!”
+
+The weapons master rapidly speedwalked towards another group of cadets who guiltily dropped their swords down from whatever they’d been doing. In the corner of the room, Edna pinched the bridge of her nose. Pyre didn’t know if this world had gods and religion and stuff (were the old angels and demons gods? Callan did call the titans “basically demigods”), but if they did, she figured the sergeant was praying to them right now.
+
+“Is that heavy?”
+
+Beside her, Declan was staring at her practice blade with wonder. His whisper-voice was hilariously bad—pretty much regular volume talking for most people—but the other half of the room was still getting scolded, so no one gave them a second glance. It didn’t seem intentional, either, which made it funnier. He was just extra loud by nature.
+
+The demon shrugged. “Not really.” She almost swung the sword to prove her point, but she could see the yelling weapons master from the corner of her eye and refrained. Contrary to Callan’s fears, she was an adult and perfectly capable of functioning in human society.
+
+She turned back to Declan, who was also holding a practice blade. Now that she could compare the two, her weapon was indeed unusually long. Probably special-made for the tall freaks in the garrison. Declan had followed the instructor’s directions and held the hilt in a fairly confident grip. Now that she thought about it, he probably would know how to use a sword if his parents had trained him like he’d said after his sparring match. It might be good to get some pointers—if she sucked too much with weapons she might not get picked for guard duty, reincarnated muscle-memory of hand-to-hand combat aside.
+
+“You ever use a sword before? You look like you know what you’re doing.”
+
+“Just a little.” Declan looked sheepish. “Uh, I’m actually pretty bad with swords. I’m more used to spears. You’re probably a lot better than me.” He looked hopeful at that, and Pyre realized he was probably hoping that she would train him. Funny how that happened. Too bad it wasn’t happening, at least not when it came to any form of human weaponry.
+
+“Nah, I didn’t use swords. I stuck to more unconventional stuff.” Technically not a lie. Bone spikes were very unconventional.
+
+Declan looked curious. “Is that more common in Drovna?”
+
+“Yes,” the demon said without missing a beat. Before she had a chance to come up with some more bullshit backstory, the weapons master returned to the front of the room. The cadets he’d been yelling at now stood, sulking, near Edna, swordless and probably with some laps to run.
+
+The brief conversation quickly fizzled out as Pyre and Declan both turned to face the instructor again. Once he had everyone’s attention, the lesson continued.
+
+“So, why did you decide to join the garrison?”
+
+Pyre raised an eyebrow. The rest of the day had passed fairly smoothly—for her, at least. The same couldn’t be said for all the cadets who were now running laps before they could eat dinner. Group A having a few fuckups made it infinitely easier for her to avoid sticking out as weird or suspicious, though, and it’d probably mean it would take less effort to get the attention of the Bellheins too. She’d have to see if she could figure out when Lord Bellhein would be returning for his next “observation” session. She’d put in more effort that day, maybe a solid 30% from her current 10.
+
+“Figured I could use a change of pace,” the demon drawled. The moment they’d been released to the mess hall, Declan had hurriedly joined her in line. It seemed like the more time passed, the more any reservations that the cadet held disappeared in favor of pure curiosity. She figured it was probably better to answer his questions rather than ignoring him, lest he poke around and accidentally figure out she was a demon.
+
+Declan nodded vigorously. “That makes sense. But why in Auren and not Drovna? Is Drovna’s military not recruiting?”
+
+“I haven’t been in Drovna for a while. I’m a mercenary,” she lied easily. Up ahead, the line moved forward as they neared the counter. It looked like the garrison served roughly the same meal everyday, which some recruits weren’t a fan of, if the mumbling of that noble cadet kid was any indication. Personally she thought it all tasted the same, but it wasn’t like she had human taste buds.
+
+Declan’s eyes lit up. “You’re a mercenary? No wonder you’re so good! How many places have you been to?” he asked eagerly.
+
+“Just here and Ravarn.” Also true, technically. She stepped forward to the counter and set the tray down. The lady serving the food gave her a side-eye, but she seemed a little more used to her appearance now. Pyre gave a lazy wave that only made the woman’s frown deepen as she started piling food onto the demon’s plate. And here she was thinking she’d found a nice friendly alternative to smiling, since apparently her smile was so off-putting. Such was life.
+
+Her plate, now covered with cold vegetables and chunks of meat, was slid across the counter. Pyre grabbed it and glanced around the mess hall. It was funny how most cadets seemed to sit at roughly the same tables every meal. Humans were creatures of habit indeed. Merrick, for example, was once again seated alone at that same table, ever quiet and sullen.
+
+She strode over without hesitating. Behind her, Declan faltered, clearly torn between following to ask more questions and wanting to avoid the other cadet for whatever reason. His caution ended up winning out, and once again Pyre was alone when she plopped down across from Merrick. The man didn’t say anything, but he did give her a slight nod before continuing to eat.
+
+The fact that other cadets avoided this table like the plague made it a consistent quiet spot, which was particularly useful for avoiding questions that might lead to suspicious landmine answers.
+
+Pyre picked up her fork, stabbed a vegetable, then shoved it into her mouth, remembering to chew this time. Considering how familiar this routine was already becoming, she might be a creature of habit, too.
+
+Routine or not, the day did differ from the previous one in an important way. Namely, she was supposed to meet up with Callan tonight, which was easier said than done. After emptying out her food pocket in the latrines again, she’d stepped into the barracks, which were exponentially louder tonight. The growing familiarity between the cadets and their desire to complain about training meant a whole lot more people sitting in the common areas. That wasn’t an issue, though, since they’d have to head to bed by the time lights out hit.
+
+The bigger problem was slipping out without a patrol noticing. She could probably use a bathroom excuse, but she figured she should save that for a last resort. Realistically she could only use the bathroom excuse three or four times before someone got suspicious or assumed she had serious dietary problems. Which wouldn’t bother her, if not for the fact that the garrison might kick her out because of that. It wasn’t like she knew what their metrics were.
+
+There was no way to leave out the front door without a guard noticing, so Pyre instead opted to open the window closest to her cot. A cool night breeze gusted inside, lightly rustling the various curtain dividers. This window faced the wall, so she’d just have to get into the trees and walk a bit to reach the patch behind the mess hall.
+
+“Um, are we allowed to leave the windows open?”
+
+Pyre glanced back to find one of the younger cadets looking nervously at her. She fixed her with a long stare, and the girl squeaked and promptly turned back to whatever she was doing. The demon mentally snorted. Edna really did have her work cut out for her if a stare was enough to intimidate a cadet into silence.
+
+Either way, it made her life a lot easier. By the time lights out rolled around, no one else had mentioned the window. Frankly, she’d done them a service. It was infinitely less stuffy in the room now.
+
+Pyre waited another hour or so until the whispers and shifting stopped. People did seem to be falling asleep a lot faster today, the exhaustion of training hitting them like bricks.
+
+Carefully, she extended some of the excess flesh on her back, once again growing an eye on the end to give the room a quick scan. She quickly verified that everyone was tucked away behind their privacy curtains, then rose.
+
+Stealth was not her strong suit—kind of hard to be stealthy when you were a giant, heavy mound of flesh—but she had the advantage of not needing to maintain her humanoid form right now. She unwound her bandages, removed her clothes, then allowed her body to dissolve back into a fleshy mound. The next order of business was just to stretch out long and thin—thin enough to get through the open window—and slither out like a fucked-up worm.
+
+She grew an eye on her “tail” to keep watch over the room, but the fact that humans didn’t have darkvision meant it was fairly easy to stay in the shadows and inch out. It took a fairly long time to get all her flesh through the window, but finally, she made it outside the barracks and dropped into the bushes.
+
+Pyre paused for a moment, listening for the sounds of the guards. In this snake-like form with her entire body touching the ground, her [Vibration Sense] was stronger than ever. She still couldn’t make out exact shapes or details, but she could tell from the faint tremors of footsteps that the guards weren’t on this side of the building right now. With the coast clear, she flattened out her body some more and slithered on over to the patch of trees by the wall.
+
+From there, it was easy enough to follow the perimeter of the garrison to the back of the dining hall. The trees here were indeed dense enough that she could probably shift back into a full humanoid form without being seen, but frankly she didn’t see the point when she was going to have to get back into the barracks.
+
+Up ahead, a faint, silvery mist hovered by the wall behind one of the larger trees. Once she got closer, she could make out Callan, the ghost’s brows furrowed as he tried his damnedest to not hover-pace around.
+
+“Yo.”
+
+The ghost shot backwards, phasing through the tree and releasing a half-strangled noise as he attempted to keep quiet. Pyre snorted.
+
+“What, did you forget what I looked like or something?”
+
+“I thought you’d show up in human form!” Callan hissed, gesturing at her current flesh-snake appearance. The demon waved her body in a motion vaguely resembling a shrug.
+
+“I had to get out the window. Keep the cover and all that.” As she spoke, she extended the other end of her body, snaking it up one of the tree trunks and into the canopy where she could grow an eye and keep it hidden among the leaves. This gave her a nice view of anyone who might be approaching their patch of trees, just in case [Vibration Sense] didn’t work out.
+
+Callan frowned and continued in a softer whisper. “Uh, speaking of that, no one’s figured out who you are, right?”
+
+“Nope.” She popped the ‘p,’ albeit a little more quietly than usual.
+
+The ghost nodded slowly. “Has Lord Bellhein shown up again? Is training going… well?” He sounded genuinely curious.
+
+Pyre decided not to mention the sparring incident. It wasn’t like it had blown her cover or anything, and she still didn’t know what to make of it herself.
+
+“I haven’t seen the guy around, but it’s the first day. Training’s been smooth sailing.” She chuckled. “You should see some of the other cadets. It’s not gonna be hard to stand out once the Bellheins decide to show up.”
+
+She gestured to Callan. “What about you? Find anything interesting?”
+
+The ghost immediately brightened at that. “There’s a huge library in the middle of the city,” he said, his voice already starting to pick up speed. “I was doing some digging in the magic section, and I think I’ll be able to bind the curse to the horn without a problem. I went through some of Magrath’s historical records, too. It looks like the Bellheins’ve been around since the city was first built. They own pretty much all the major buildings, even the city sanctum.” He frowned a little at that, looking put out.
+
+“I tried to visit, but the guards said the place was closed for construction. Honestly, I know it’s not uncommon, but I don’t think the Bellheins should be able to own the sanctum. That ichor should belong to the city. It’s crazy that they can just shut the place down on a whim—”
+
+“You find anything on the horn’s location?” Pyre interrupted the ensuing rant, amused. Callan blinked.
+
+“Oh, right.” He cleared his throat. “I didn’t find anything about the horn outside of those store records, no. I think it was a private purchase. It does sound like the Bellheins have a history of collecting rare artifacts, though.”
+
+“Yeah, that tracks.” The demon hummed. “That means they’ve probably got a display room in the manor or something. Should make it easy to find the horn once I’m inside.”
+
+Callan nodded in agreement. “I’m going to do some more research. Maybe I can find the manor’s floorplans.”
+
+“Cool. I’ll keep a lookout for anything over here too.” Through her “watch eye,” she could see the patrol pass by the trees, their backs to them as they made another circle around the barracks. If she wanted to sneak back in without getting seen, now would be the time to do it.
+
+“Alright, I’m heading back before the guards circle around again. Meet me here in two days.” She turned to begin slithering back to the barracks.
+
+“Be careful,” Callan called. The demon just snorted and gave a flick of her tail.
+
+“You too, kid.”
+
+Getting back into the building was easier than slipping out. She just did a quick scan with an eye appendage, then slithered through the window and under her cot’s curtains. She could hear snores around her, some soft and some very loud. It didn’t look like anyone else was awake right now.
+
+Now that she was inside once again, her first order of business was to morph back into her humanoid shape and rewrap the bandages. As she began to do so, she realized she hadn’t absorbed her hair and eyebrows when she’d gone into “snake mode.” Or her mouth. And her horns had popped up at some point. That might explain Callan’s reaction more.
+
+Pyre absorbed her horns and mentally began the face face face mantra again. She used [Skeletal Recall] to start growing the skeleton, then activated [Flesh Sculpting]. A notification flashed across her vision.
+
+[The skill [Basic Flesh Sculpting] has leveled up! Lvl 4 —> 5]
+
+Nice, the skill was leveling fairly quickly now that she was actually using it more often. She might even hit a point where she no longer needed to use the bandages at all once the duration was long enough. For now, though, she grabbed the roll to begin coiling around her freshly-formed limbs.
+
+The demon was just about to wrap her neck when a sudden, sharp pain coursed throughout her body. She grunted, the bandages slipping from her hand. A sudden wave of fatigue fell like a heavy wave over her. Pyre looked down.
+
+There, sitting innocuously on her chest, the inky black branches of the mark had begun to grow outwards.

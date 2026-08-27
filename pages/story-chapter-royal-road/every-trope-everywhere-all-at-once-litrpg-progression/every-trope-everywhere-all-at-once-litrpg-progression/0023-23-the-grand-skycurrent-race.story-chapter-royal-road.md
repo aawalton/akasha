@@ -1,0 +1,235 @@
+---
+id: 43e32d91-6293-5084-9c66-36a5486dbc7f
+page-type-slug: story-chapter-royal-road
+title: "23 - The Grand Skycurrent Race"
+slug: 0023-23-the-grand-skycurrent-race
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 23
+ownLength: 1697
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3441752/23-the-grand-skycurrent-race"
+royalRoadId: "3441752"
+---
+
+The horns sounded through the island. A voice followed.
+
+“Three…” the crowd and voice began to chant.
+
+“Two…”
+
+“One…”
+
+BOOM!
+
+The racers shot out from their starting positions—the whales, serpents, jellyfish, turtles, and everything else soaring through the skies. Even that one angel with the flying bathtub. Again, I had no clue how that was even allowed.
+
+Several riders took the lead up ahead. Talon was doing the best compared to the five of us. Tuna was freakishly fast. Hell, she was the only whale up ahead. The others were near the very back, alongside the riders who chose to race with jellyfish.
+
+The griffins that Meriel, Reina, Kaelor, and I took were all about the same speed. We weren’t the fastest compared to the others, but we were certainly not the slowest either.
+
+“Hey, do you understand what I’m saying?” I asked the griffin I was riding.
+
+He let out a trill, acknowledging my words.
+
+“Good. Let’s keep this pace, yeah?”
+
+He let out another trill.
+
+From all the races I’d seen in the other world, staying in the middle was a known strategy.
+
+“The ones in front of us will help cut some of the wind,” I said. “We’ll stick closely behind them and conserve our energy. And during the final stretch, we’ll burst through.”
+
+“Whoop whoop, coming through!” I heard a man’s voice from behind me.
+
+The moment I turned around, I saw the angel on the flying bathtub tearing through the skies. For some reason, he decided to stop right next to me.
+
+“Oi, check this out!”
+
+He held out both of his hands. Each of his fingers had a ring on it, all of them one size too large. He clicked his mouth, and the rings began to spin. And…
+
+…
+
+Yeah, that was literally it. He went out of his way to fly next to me just to show me this. It was as if he didn’t even care about the race.
+
+“I have no clue what you’re trying to show me,” I said.
+
+The spinning rings picked up speed, and he pointed an index finger at me.
+
+“Should I shoot you with this?”
+
+“Huh?”
+
+“Just kidding, hahaha!”
+
+He flicked his hand, and one of the spinning rings shot forward, cutting the air itself.
+
+“Bye-bye, butterfly!”
+
+His bathtub immediately accelerated through the sky, passing several riders in seconds.
+
+[TROPE COMPLETED: THE ENCOUNTER THAT MAKES ZERO SENSE DURING THE RACE]
+
+[REWARD: The next bathtub you fly will be 0.1% faster]
+
+Wow. What a fantastically useful skill!
+
+“What was that about?” Reina yelled from beside me.
+
+“I have no clue,” I said, facepalming. “The angel’s got some weird magic that lets his rings spin and accelerate.”
+
+“That’s oddly specific,” Meriel said. “Probably just some wind magic. Speaking of which…”
+
+Kaelor’s griffin flew in front of us as he stood tall on its back, facing us. We looked at him, jaws dropped.
+
+“Okay, first of all, watch where you’re going!” I yelled. “And second, how the hell are you standing like that and not falling?!”
+
+He smiled. “Because I trust my griffin. The griffins under my command are among the most well-trained ones in the world.”
+
+“That does not explain how you’re standing like that.”
+
+I looked at his feet, noticing that the winds were more concentrated there. It looked like they were keeping him steady on the griffin.
+
+“Are you a mage?” I asked.
+
+“A mage? Me? Not at all.”
+
+“Then how are you so good with wind magic? Even when you picked us up from the island earlier and brought us to your ship… You seem pretty good at it.”
+
+He gave me a funny look. “Hm. So you really are clueless about the Firstborn, huh? It’s almost like you’re from another wor—”
+
+“Please don’t,” I said right away. Thankfully, the System didn’t warn me for nearly being found out. “I’ve already had enough with Meriel accusing me of something so ridiculous.”
+
+I saw Meriel looking at me from the corner of my eye. She didn’t say anything about it.
+
+Noodle the serpent took refuge under her robes, and I could see its little body sticking out in certain parts. That was certainly one way to keep him in the race without having the winds blowing him away.
+
+During our entire talk, several riders passed by us. Still, we maintained our pace.
+
+“Wait a minute, are you all copying my plan?” Kaelor asked. “I don’t see why else we’re flying side by side. We’re not allies in this race.”
+
+“What plan?” I asked.
+
+“To stay in the middle so that the people in front of us could cut the air.”
+
+…
+
+“That was exactly my plan,” I said.
+
+“Same here,” Meriel said.
+
+We all turned to Reina.
+
+“Oh, I don’t really have a plan,” she said, shrugging. “I’m just trusting that my griffin knows what he's doing.”
+
+Of course.
+
+Finally, Kaelor turned back around. “Looks like we’re approaching a wind tunnel, everyone. Grab on tight!”
+
+Grab on tight, huh? He says that as he’s the only rider standing on top of his mount.
+
+I looked ahead, seeing a large, visible ring of white air. Each time a rider went through the ring, they shot forward at twice the speed as before.
+
+I clutched my reins tightly, preparing for the change in speed.
+
+Whoosh!
+
+As soon as I went through the ring, I felt my entire body cocking back, almost falling from my griffin. I readjusted my grip, grabbing on as hard as I could.
+
+“Agh!” a woman screamed up ahead.
+
+Two—no, three wyverns collided, spinning out of control. A giant turtle that was just behind them crashed into them, knocking two wyverns out of the wind tunnel.
+
+“Up!” Kaelor yelled.
+
+All at once, our griffins flew up, avoiding the crash. It didn’t matter that we were the ones riding them instead of him. They obeyed him without question.
+
+We began a sharp turn past an island.
+
+“Down!” Kaelor yelled.
+
+We couldn’t even see anything up ahead because of the turn. Still, the griffins did exactly as told and flew down, just barely staying inside the wind tunnel.
+
+We narrowly shot past a jumbled mess of wyverns and cloud serpents. Of all the creatures in this race, those two were among the fastest ones. But at the same time, their speed and length were exactly what caused their downfall.
+
+We exited the wind tunnel, returning to normal speed.
+
+“Whoa!” Reina shouted. “How did you know they crashed ahead of us? We couldn’t even see them!”
+
+Kaelor turned his entire body around to face us. I had no clue why he was doing that when he could turn just his head, but it looks like he enjoys making his movements dramatic.
+
+“The winds tell me everything I need to know, such as who is currently in first place.”
+
+When we arrived at the straight part of the race, I tried peeking ahead again to see who was there.
+
+I didn’t see anyone.
+
+“Where did everyone go?”
+
+Meriel pointed to the left. “They’re down there.”
+
+I turned to where she was pointing, seeing Tuna and a bathtub flying side by side, far ahead in the race. They were across the entire sky, at least several dozen islands away.
+
+“There’s nobody else besides those two in front of us,” Kaelor said. “Everyone who was once ahead of us has already crashed. Looks like we can’t use them to protect against the wind anymore. It’s time to cut through, my friends!”
+
+He gently tapped his foot against the griffin’s back, and he shot forward at an overwhelming speed. I tugged my reins, and my griffin followed just behind. Reina and Meriel did the same.
+
+After a moment, I tried looking for Tuna and the bathtub again, but they were entirely gone now. It would be impossible to catch up to them at this rate, even while our griffins were going at full speed now.
+
+How was a whale and a bathtub so fast, anyway?
+
+[TROPE INITIATED: THE SHORTCUT THAT DEFINITELY ISN’T SAFE]
+
+Completion criteria: Veer off the main path and pass through the cluster of islands to your right. Reach the finish line using this new route.
+
+A shortcut…?
+
+I turned to my right, seeing a group of about a hundred tiny islands too small for anybody to inhabit. You’re telling me that’s where I need to go to have a chance at winning?
+
+…
+
+You know what, why not? I didn’t feel like losing anyway.
+
+I tugged my reins toward those islands, and my griffin swerved off course.
+
+“Allene?!” Reina called after me.
+
+I didn’t look back. Sorry, Reina, but I’m leaving you in the dust!
+
+My griffin shot in between, through, and around those islands, doing several flips and other maneuvers that nearly threw me off. Out of complete primal fear, I pressed myself as close as I could against the griffin’s neck, holding on for dear life.
+
+“Wait, slow down! Slow down! I’m really going to fall off!” I cried.
+
+But the griffin didn’t listen.
+
+“I’m your rider, damn it! Slow down!”
+
+He kept going.
+
+For a moment, the path straightened out, and I took the time to gather myself. My entire body was trembling from how fast we were moving.
+
+“Well done,” I heard a voice behind me.
+
+I turned, eyes wide.
+
+It was Kaelor.
+
+“You… you took the shortcut too? How long have you been following behind me?” I asked.
+
+“The moment you left the main path,” he said, smiling. “I didn’t think you’d have the guts to do this.”
+
+I gritted my teeth. “Oh yeah? Well, either way, you’re not beating me!”
+
+My words seemed to spark something in his eyes.
+
+I saw flames. Hunger. A competitiveness I would’ve never expected from someone who was usually as composed as him.
+
+Our griffins flew side by side, making screeching noises. They seemed to be competing against each other, too.
+
+“I don’t like losing, you know,” Kaelor said.
+
+“Neither do I.”
+
+The sky finally opened up as we reentered the main path. The finish line was right there, with Tuna and the bathtub barely ahead of us.
+
+Somehow, we’d caught up to them.

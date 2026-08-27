@@ -1,0 +1,159 @@
+---
+id: b1e75f29-6284-5b97-881e-ad23811a49e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 401: The Ruins of Myrin’s Keep"
+slug: 0438-chapter-401-the-ruins-of-myrin-s-keep
+partOf: dungeon-of-knowledge-complete
+position: 438
+ownLength: 2992
+unit: words
+ownProgress: 2992
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2655443/chapter-401-the-ruins-of-myrins-keep"
+royalRoadId: "2655443"
+markedReadAt: "2026-06-29T20:26:53.393Z"
+---
+
+Mato had no time to dwell on the surprising healing effect spawned in the wake of his strike, as the second Dark Druid ripped into his flank with vicious, raking claws, an Ambush from the shadows, and he recognized the Panther Form blurring and shifting as it stalked beside him. He blocked the bear with a shoulder check, backing up carefully to try and avoid the flanking position.
+
+“The tree is healing!” Calen called out, and Mato flicked a glance at the back where, after a moment’s puzzlement, he finally realized the twisted and blackened tree growing in the street had not been there a few moments before. He swiped again, ignoring the tree, and somehow managed to catch both the bear and the panther with his claws. Again, he did less damage than he had expected, as if his strike had ripped larger gashes that instantly recovered a portion of the damage.
+
+“Mato, drag them to the tree.”
+
+Mato didn’t bother replying, instead springing into action. He backed up steadily, drawing the panther and the bear along with him as his claws ripped through the creep underfoot on the way to the conspicuous gnarled tree. But his efforts were suddenly thwarted as enormous roots erupted from the ground, twisting painfully around his paws with grinding creaks and explosions of fractured stone and slimy chunks of fungal creep.
+
+He pulled hard, relying on his prodigious strength and the ability of Rampant Growth to pass more easily through dense plants to free himself. He heard the thumping creaks before Calen even called it out, and behind him, near the tree druid, he caught sight of three new trees stomping their way over to the two archers.
+
+Dark Ent – Treant – level 84-86 (Nature) x3.
+
+Where did those come from? He hadn’t seen them earlier, but he dismissed it as irrelevant, simply flexing his magic and summoning roots and brambles from the ground in an explosion of growth that twisted and twined around the animated trees, slowing their forward rush. But they slipped their roots out of his grasp, pulling away and resuming their charge.
+
+It’s like fighting myself, he thought, tearing through the bear before him with his claws, only to have it blocked. Am I this annoying?
+
+Suddenly, the air was filled with a loud buzzing drone, and the sky and the surrounding ruins vanished in a dense cloud of biting, stinging insects. This time, however, he was close enough to see the surge of the tree druid’s magic summoning the swarm. He roared, taunting everything, while simultaneously transferring the damage from the delicate Lirasian Sage floating overhead to himself, and the buzzing grew denser and louder as the insects tore through each other trying to get to him. Then, he caught the scent of Malika right beside him, nearly invisible in the dense insect cloud, and the pulse of her healing mana touched him right as the entire world exploded in fire and lightning.
+
+Survival Instinct told him exactly how terrified he should be of Lyeneru Silverleaf and her ridiculous bow, but somehow Malika kept him from actually feeling the full force of the explosive volley as the plague of insects was suddenly incinerated in the blast.
+
+“Thanks,” he sent to Malika.
+
+“Fire vulnerability?” Calen asked.
+
+“Yes, for certain,” Lyeneru answered as the hail of arrows continued. “And they’re all summoners. Keep your eyes peeled for more.”
+
+Sure enough, he saw the mana flickering beside him as the bear summoned a pair of Braconids, both branch spiders instantly turning to attack him with multiple rapid strikes so fast he struggled to block all of them. The panther druid summoned a clump of Creep Spores, and he hunkered down, bracing himself as they all instantly detonated from their proximity to him. He huffed, frustrated at seeing Malika escape the detonation without even a single smear of creep slime reaching her.
+
+He unleashed his Swipe again, ripping through all the monsters in front of him, the two druids, the two Braconids, and one of the summoned Dark Ents.
+
+“Mato, hold the nature damage,” Calen said suddenly.
+
+“That’s my Brutal Restoration,” he sent back, puzzled at the request, but his next Swipe he only enhanced with his Bestial Combat.
+
+“Let Malika take care of the healing,” Calen answered, and suddenly Mato understood the strange effect he had observed earlier. Somehow, it was his nature damage that was causing them to recover so quickly from his strikes. Sneaky! His most recent attack had ripped through bark and sap, but the wounds were still visible.
+
+“Tree is down,” Lyeneru said, and suddenly the hail of arrows into his pack of monsters more than doubled as both archers bore down on them.
+
+Another wave of Creep Spores suddenly materialized, all detonating instantly, deafening him momentarily with the sheer explosive power, but Malika was ready beside him with the healing.
+
+A huge bolt of lightning and fire tore through the monsters, and a Dark Ent and a Braconid collapsed to the ground, but then Mato saw and smelled something vastly more dangerous than even the creep spores.
+
+“Corpse Flower!” he yelled, sending his thoughts to Calen with a sudden urgency as he began to back up, but fresh roots sprang from the ground, tangling his legs, and while he struggled with the sinewy, grappling vegetation, the black and red flowers growing on the two corpses slowly began to bloom, unfurling large fleshy petals. He ripped his legs from the binding roots and turned to charge, but as his powerful movement skill took hold, the flowers detonated in a staccato double explosion that picked him up and tossed him across the street into a broken stone wall. It cracked with a sharp report, raining rubble down on his head as he shook it, trying to dislodge the ringing from his ears.
+
+From various diverse locations, the monsters picked themselves up and began converging on him once again, looking no worse for wear. More Creep Spores materialized, rushing around at random, but fortunately, everyone else could fly. Mato charged back into the fray, barreling into the plant-bear with a crash. At that instant, his Survival Instinct triggered with an intensity that could only mean one thing. Ambush! Using only the direction sense from his precognitive perception skill, he instantly activated Critical Block. The sudden crack echoed across the street as his skill reflected the deadly ambush attack back to the much less armored panther-druid, and sap and leaves went flying as the monster collapsed in a boneless heap, victim of its own power.
+
+Then, Calen managed to land one of his chains of light on the remaining druid, pinning her down momentarily, while Lyeneru skewered her with a bolt of lightning and fire that pierced clean through her chest and shattered the creep and stone beneath her feet.
+
+Mato took a deep breath, scanning the impromptu street battlefield, but no more monsters came crawling out of the ruins, so he shifted back to his regular form and crouched down to study the remains of the bear druid that had slowly shifted back to her plant-humanoid shape.
+
+Looks a little like a half-dryad, he thought, turning the corpse over. Something like a cross between a tree and an elf. Much like Lira, she wore nothing more than bark and leaves, although she had been holding a shield and a mace, but all resemblance ended there. The leaves were blackened, the bark was rough, and the face looked feral instead of gentle and kind.
+
+He reached out and picked up the shield, tugging a little to dislodge it from the corpse.
+
+Rugged Heartwood Bulwark – level 93A rough-hewn, heavy ironwood shield that appears to have been grown rather than fashioned into shape. Linked to your mana, this shield will shapeshift with your changing forms. Armor: 558Block Chance: +35% (Blocked attacks cannot cause critical damage.)+56 Strength.+45 Vitality.+22% increased amount of damage blocked.Mana: Shapeshift.Requirements: Shapeshifter, Strength 326.Off Hand – Shield – Ironwood.
+
+Wow! I knew it! He had seen the druid carrying the bulwark before she had transformed, and it had seemed to blend into the Bear Form transformation. The shield itself was rather ugly, an asymmetrical slab of thick wood that hadn’t even been smoothed off at the edges. It still had leaves sticking out of the sides. But it’s a shapeshifter item! Honestly, he had grown rather jaded about gear drops and just resigned himself to having to get extremely expensive gear crafted to fit his class requirements. But this right here was an enormous upgrade for him, and nobody else could even use it.
+
+Trying to rein in his excitement, he reached for the mace.
+
+Dark Heartwood Mace – level 90A deceptively heavy mace crafted from the dense heartwood of an Ironwood tree. Linked to your mana, this weapon will shapeshift with your changing forms. Damage: Blunt, Physical.Heavy (Added Physical damage on hit with this weapon.)+55 Strength.+12% increased attack speed.Mana: Shapeshift.Requirements: Shapeshifter, Strength 315.One Hand – Mace – Ironwood.
+
+Oh, yes please! He couldn’t believe his luck, both items would be perfect for him, even the attributes were ideal. But then his eyes caught sight of a small detail – almost hidden against the gnarled wood of the monster’s hands, he caught sight of a small dark band around one of the fingers. Reaching down, he tugged at it, encountering a surprising degree of resistance before he slipped it off and examined it carefully.
+
+Dark Druidic Band – level 91A dark, polished band of wood. Linked to your mana, this ring will shapeshift with your changing forms. +54 Endurance.+45 Strength.+22 Vitality.+12% to Nature damage. Mana: Shapeshift.Requirements: Shapeshifter, Endurance 319Ring – Oak
+
+It might sound and even look ominous, but the attributes did not lie. This was an item designed for a shapeshifter druid, and even a tank druid with all that endurance.
+
+“Hey, all these items are shapeshifter items,” he said, not bothering to contain his excitement anymore. “Does anyone mind if I use them?”
+
+“If it’s an upgrade, go ahead,” Malika answered, smiling with clear amusement.
+
+“It’s three empty slots!” Mato answered, grinning broadly as he slipped the ring onto his finger and equipped the shield on his left arm. He reached out and grabbed the mace and gave it a few test swings, marveling at how heavy a piece of wood could feel with just a simple enchantment.
+
+But then a sudden pain lanced through his finger, and where the dark band encircled it, the skin began to discolor, growing dark and pulsing with a strange green infection. All along his left arm, he felt needles stabbing into him wherever the shield touched, roots that rapidly sprouted from the wood, boring into his flesh, and then the palm of his right hand curled around the grip of the mace.
+
+Shit, what is going on? And then suddenly his health began to drop. Not a lot, but every second he lost about ten health points.
+
+“Uh, I’m taking damage,” he said, and dropped the mace, or at least he tried to, but he couldn’t let go of it. He grasped it with the other hand and pulled, but it refused to budge. He ripped at the fastenings for the shield, but it too seemed glued to his arm so strongly that he couldn’t even rip it off.
+
+Malika stepped up and healed him with a touch, not that he really needed it immediately, but she bent over and examined the ring and the mace carefully, poking at the discolored and pulsing skin around them. “Mato, these items are cursed.”
+
+“Cursed?” Even though he had never encountered a cursed item before, he knew instantly that she was right. Something from each of these items was infecting his body, calling to his unconscious mind, and while he was taking damage continuously, it didn’t feel like a poison or an attack, but much more like the pain he experienced when he spent his health to power Brutal Combat. The items were drawing from his life energy for their own selfish gain.
+
+He shouted in frustration, “Get off me!” shaking his hands vigorously and jumping up and down. He smashed the mace into a tree, but the tree broke under the force of his strength and the enchanted power of the mace.
+
+He stopped, breathing heavily, and met Calen and Malika’s concerned gazes. “Fuck.” What was worse, he felt stupid. Everyone knew cursed items were a thing, and every dungeon delving guide warned about them. Be careful and check your loot for curses before you equip them, he echoed the Adventurer’s Guide in his mind, but once the items were equipped, it was too late. Well, he hadn’t seen anything on Identify so it must need a full Appraise, like Malika’s skill.
+
+“May I see?” Lyeneru said, surprisingly calm.
+
+He searched her face but found no judgment there, so he raised his arm with the mace attached to it and the ring still feeding off his finger.
+
+“They’re surprisingly good,” she said, inspecting each of them closely, but making no move to touch any of them or the corrupted-looking flesh where the items had invaded his body.
+
+“They were all big upgrades,” he said, still feeling the fool. If he hadn’t been so desperate to fill those gear slots, he wouldn’t have fallen into the trap.
+
+“These are cursed, too,” Malika said, standing up from her inspection of the other two druids. She had another mace in her hands – this one a two-hander, two daggers, and two rings. It seemed each of these Dark Druids had been rather well-equipped for dungeon spawn. Then, inexplicably, she slipped one of the rings onto her own finger.
+
+“Wait! What are you doing?” Mato exclaimed, but the skin around Malika’s finger twisted and darkened, pulsing with the strange, corrupting mana.
+
+“Malika?” Calen called, taking a step forward.
+
+“Yep, it’s pretty good. This one has dexterity instead of endurance, but it’s otherwise the same as yours, Mato,” she said. Then, to his amazement, she grabbed the ring with her other hand and twisted, pulling hard, and it dislodged from her finger, as if extremely reluctant.
+
+“Wait, how did you do that? How did you get it off?” he demanded, grabbing and twisting at his own ring. He had far more strength than she did, but all he managed to do was wrench his own finger painfully.
+
+“Wisdom,” Malika answered. “Here, let me show you the full Appraisal of your items.”
+
+Dark Heartwood Mace – level 90A deceptively heavy mace crafted from the dense heartwood of an Ironwood tree. Linked to your mana, this weapon will shapeshift with your changing forms. Damage: Blunt, Physical.Heavy (Added Physical damage on hit with this weapon.)+55 Strength.+12% increased attack speed.Mana: Shapeshift.Parasitic: +5 Nature damage to wielder on activation of a skill or ability. Requires 630 Wisdom to unequip.Requirements: Shapeshifter, Strength 315.Quality: Uncommon.Value: 89 gold.One Hand – Mace – Ironwood.Rugged Heartwood Bulwark – level 93A rough-hewn heavy ironwood shield that appears to have been grown rather than fashioned into shape. Linked to your mana, this shield will shapeshift with your changing forms. Armor: 669Block Chance: +35% (Blocked attacks cannot cause critical damage.)+56 Strength.+45 Vitality.+22% increased amount of damage blocked.Mana: Shapeshift.Parasitic: +9 Nature damage to wielder on activation of a skill or ability. Requires 677 Wisdom to unequip.Requirements: Shapeshifter, Strength 326.Quality: Uncommon.Value: 95.7 goldOff Hand – Shield – Ironwood.Dark Druidic Band – level 91A dark polished band of wood. Linked to your mana, this ring will shapeshift with your changing forms. +54 Endurance.+45 Strength.+22 Vitality.+12% to Nature damage. Mana: Shapeshift.Parasitic: +12 Nature damage per second. Requires 638 Wisdom to unequip.Requirements: Shapeshifter, Endurance 319Quality: Rare.Value: 127 gold. Ring – Oak
+
+“See? Each item has an additional Parasitic enchantment,” Malika explained. “That’s the curse, you can see how much wisdom you need to unequip it. That’s why I can take it off and you can’t – you don’t have over six hundred wisdom yet.”
+
+“I can get sixteen hundred in Tree Form,” he said, shifting quickly, but to his dismay, even though he had the requirements to unequip the items in this form, they shifted to blend with his body, and there was nothing to remove. Frustrated, he shifted back to normal, glaring at his four hundred and sixteen wisdom in Beastkin form. I should have put more points into wisdom.
+
+“That’s a very nice skill,” Lyeneru said. “Appraise?”
+
+“Yes,” Malika answered, looking somewhat uncomfortable. But Lyeneru either didn’t notice or gave no indication, and Mato only registered it because he knew of Malika’s origins.
+
+“Huh, that’s cool,” Calen interjected.
+
+“It’s definitely not cool,” Mato said, frowning at his friend who had that ‘look’ on his face. The one when he was presented with an interesting puzzle.
+
+“No, not you,” Calen answered, examining the items Malika was carrying, but carefully not touching anything. “The druids healed from your nature magic damage. That implies they have some kind of nature absorption – the parasitic enchantments probably heal them too.”
+
+“Oh, that’s nasty,” Malika said.
+
+“For you, Mato,” Lyeneru said. “Just keep the items for now. You can still fight, and they should be a big upgrade. It looks like you’re just going to take continual damage, and more damage when you activate abilities, but Malika can keep you healed for now.”
+
+“But how do I remove them?”
+
+“When we get back to the camp, we can try to find you some spare items with wisdom enchantments and maybe ask Eliyen to craft a wisdom elixir. If that’s not enough, you may need to put some points into wisdom for a few levels before you take them off.”
+
+“Ok,” Mato said, feeling rather glum. A couple of levels. It would be a tall order – he needed more than one hundred and fifty wisdom to make up the difference, and that would likely take a while. Seriously! Just when I get something good…
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,127 @@
+---
+id: 78f990c3-1ccf-5f65-93f0-a4ad19b2168d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 468: Scouting"
+slug: 0505-chapter-468-scouting
+partOf: dungeon-of-knowledge-complete
+position: 505
+ownLength: 2275
+unit: words
+ownProgress: 2275
+publishedAt: 2025-12-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2827160/chapter-468-scouting"
+royalRoadId: "2827160"
+markedReadAt: "2026-06-29T20:29:22.257Z"
+---
+
+This must be the place, Grelda thought, staring at the burnished steel sign and the heavy doors. She didn’t get along too well with Adventurers, not trusting their information, but she certainly knew how to find the best blacksmith in town: ask the best geared tank in the guild. The quiet girl who had directed her here had been wearing some of the best plate armor she had ever seen. And that shield, wow! She just hoped it wasn’t someone with too much money and access to an auction house.
+
+And that had led her to this ‘Thuli’s Steelworks’ – a rather understated smithy compared to some of the others she had passed on this road. But the mana signature on that shield had definitely been for Thuli.
+
+Well, there won’t be any answers just lying about on the street, she thought, and strode up to the door and pushed, finding it opening easily under her touch. That’s a good sign. The lobby area she found herself entering was empty, but the familiar din of the forge and anvil was only superseded by the loud chime that announced her entrance. She glanced around the modest smithy, noting the racks of swords and low-level plate armor packed in crates ready for shipping, but then her eyes caught sight of the wall and the array of shields on display.
+
+Suddenly, she found herself standing at the wall, reaching her hand out toward the shields. There were shields of a uniquely familiar black steel, gleaming dark red from within. Eimuuran steel? Here? There were Flamesteel shields, and even Blood Steel. And…
+
+Is this… mithril? Her fingers almost reached it when a deep voice called out from behind her.
+
+“A dwarven smith visiting me? Ta what do I owe this honor?”
+
+Grelda turned quickly, squashing the feeling that she had just been caught elbow-deep in the cookie jar, and took in the sight of the smith – presumably this was Thuli. He was a proper dwarven smith, broad of shoulder and thickly muscled in the back and torso, and heat radiated visibly from his skin and eyes.
+
+Blacksmith – Dwarf – level ???
+
+“Um, hi,” she said, stumbling over her introduction a bit. She had not expected to find a smith past his evolution in a border town like this. No, someone with that level of experience should be working in the capital or one of the major cities, not out here in the middle of nowhere. “I’m Grelda Flamebellows,” she said, offering a hand and feeling inadequate with her mere seventy levels.
+
+“Grelda,” he said, taking her hand and shaking it firmly, his beard shaking from the force. “Your family’s mastery of fire is legendary. I’m Thuli Emberforge, pleased to meet you.”
+
+“Emberforge?” she said, staring. “I didn’t know the name was still alive?” Even though that name had been signed on the girl’s shield, she had scarcely believed her own eyes. Everyone knew Thovir Emberforge, but how did this dwarf come to bear the name?
+
+“I earned it when I reached my evolution. I am a descendant of Thovir, but nobody has borne the name for far too long,” he said. “Come sit, what may I do for you, lassie?”
+
+“Lassie?” she snapped without thinking, “Better mind yer manners, boy. I may not have your levels, but I am your senior.”
+
+“Aye, sorry,” he said, bowing his head. “I mean no offense; it is just a habit.”
+
+Good job, Grelda, she chided, frowning to herself. Telling off the descendant of Thovir. Brilliant. “Um,” she said, shifting the topic to the reason she had sought him out. “They said you were the best smith in town, and I had a few questions.”
+
+“Who said that?” Thuli said, grinning broadly. “It certainly wasn’t any of my neighboring smiths, that’s for sure.”
+
+She rolled her eyes at him. “I know better than to ask a smith who’s the best smith – I asked one of the guild tanks – a short girl with an enormous shield.”
+
+“Oh, Sabri. She’s a dear, isn’t she? Always so polite.”
+
+“Aye,” she said. She filled her lungs and took the plunge. “Do you know anything of this Anvil and the dungeon?”
+
+“I do,” Thuli said.
+
+“So, it’s real, then?”
+
+“Yes, and I can vouch for it being the authentic anvil of Thovir Emberforge,” he said.
+
+“Is it true that it steals your best techniques for the dungeon?” she blurted out, before she had the time to fashion the question.
+
+“Steals?” Thuli said, a puzzled frown wrinkling his brow between his bushy eyebrows. “I guess it could be described that way, but it’s not really like that. If I had ta describe it, I would say you teach it your techniques, and it learns about what you can make. After that, the dungeon can make whatever you repaired or created upon the anvil. But it is knowledge magic, and a tithe. When you teach it, it teaches you something in return.”
+
+“So, ya don’t lose yer techniques?” Grelda asked. Dradur and Yair had been adamant that it was some sort of blacksmithing technique vampire.
+
+“No,” Thuli said. “But whatever ya teach it, it can teach ta others. So, if you wish to keep your knowledge secret, I don’t recommend using it.”
+
+“Have you used it yourself?”
+
+“I use it often,” Thuli said. “Aliandra helped me learn the secrets of Eimuuran steel, and then I taught it to my apprentice using the anvil. I have learned a great many things from the dungeon already, and if you don’t mind sharing your techniques, I have to say it is one of the fastest ways to learn new patterns and enchantments.”
+
+“Eimuuran steel?” Grelda glanced up at the black shield with the reddish gleaming undertones, wondering if she dared ask. Everyone knew of Eimuuran steel, especially in her family. Its enchantment potential, strength, and cost effectiveness were legendary. If I could just learn the forging of it, I’d be…
+
+“Aye. The anvil and forge work together. It can teach ya to forge Eimuuran steel if ya want,” Thuli said.
+
+But instead of asking, she changed subjects. “So, how does it work? Who do I talk to?” She still wasn’t sure she wanted to risk it, but Thuli seemed willing to share freely.
+
+“Ya thinking of trying it?” he asked.
+
+“I’m not sure,” she admitted.
+
+“Normally, ya would have ta hire a group from the guild to clear down to the anvil, and then you get six hours before the bosses respawn. But it just so happens that I’m making a run to the anvil today to make a bear some better armor, and I was going to bring my apprentice to train her. As the guild’s official blacksmith, I get free transport to the Anvil, so I could bring you with me and you can see it for yourself.”
+
+“Why would you do that for me?” Grelda asked suspiciously.
+
+“Your family’s techniques are an inspiration,” he said. “And you can consider it a bit of an apology for calling you a lass.”
+
+Calen drew his Pathfinder cloak tighter around his shoulders, shivering in the frigid alpine air. Below him, the ground was nothing but desolate snow and ice, and all around him, the jagged peaks of the Fangs of the Frost Wyrm reached far past him to pierce the unusually deep azure blue of the perfectly clear skies. It was fortunate that his wings were made from light, unhindered by his cloak; otherwise, they would likely have long since been frozen solid.
+
+He pressed on, flying deeper into the Spine of the World, the tallest mountains on the continent, thrust upward out of the depths of the world ages ago during The Breaking, following nothing more than his memories and his map, his Sense Prey skill having long since faded. Every breath took in too little air, and every breath out formed a cloud of ice crystals before him. But it would be enough. It had to be enough.
+
+At least I have company, he thought, glancing up at the inky smudges of shadows that he knew to be the pair of elusive Shadow Dragons Ali was using to help him scout the area. The extra pairs of eyes had been most welcome. Ever since he’d first been turned into a frog while scouting in Aman Rak, he held a great appreciation for the value of having someone watching his back.
+
+Lyeneru’s warnings about the dangers of the Fangs of the Frost Wyrm hung ominously in his mind as his keen eyes surveyed the ground, studying every nook and cranny, every crevice and boulder, but he saw nothing that lived. Still, he had left his mentor and friends days ago and hundreds of miles away to the southeast, and he had no desire to personally experience the dangers Lyeneru had spoken of.
+
+His eyes flicked up to catch a sudden movement, but it was already gone before he could even shift his gaze. He flew onward, feeding Eclipse with a continuous trickle of mana.
+
+There! It happened again, something blue against the glacial ice. His vision zoomed in, almost unconsciously, as his desire to see directed his Eyes of the Archon with the familiarity of months of practicing in battle.
+
+Frost Dragon – Dragon – level ??? (Ice)[Explorer]A large ice-affinity dragon after which the Fangs of the Frost Wyrm are named.Category: Normal.Threat Level: Second Tier.Monster Type: Dragon.Damage: Physical, Ice.Known Abilities: Breath Weapon.
+
+Stronger than me… by a lot. Explorer’s threat assessment was imprecise, but he was no stranger to the feeling of apprehension and pressure to hide as he studied the distant form of the wheeling blue dragon. Carefully, he adjusted his trajectory, descending slowly and moving closer to the glacial cliffside, relying on proximity to the jagged and exposed rock face to enhance his stealth magic, certain that Ali would be able to follow him by the faint traces of mana that managed to leak through his concealment skills.
+
+Far ahead, the Frost Dragon continued its flight, circling in front of the peak. Is it hunting? But for what? There’s nothing here… Whatever it was doing, it seemed to be searching for something, circling repeatedly as its majestic, spined head swiveled in all directions.
+
+The cerulean-scaled reptilian head searched the ground, the craggy peaks, and rocky cliffs, and then suddenly it snapped around, its piercing gaze spearing through Calen with eyes that blazed with intense ice mana. His heart thundered, a sudden urge to flee rising in his chest as he frantically searched for a way out. How did it find me? He couldn’t tell what mistake he had made, but he needed to be anywhere but here. Fast.
+
+The dragon roared in the distance, and giant wings flapped almost lazily as it suddenly accelerated toward him. He flared mana into his wings, summoning his second pair to accelerate his flight, scrambling his will and mana to flee.
+
+A second deafening roar answered the first, shaking the mountains, somehow coming from right behind him. As he snapped his head around, he found the immense form of a second Frost Dragon hovering right above him, larger than anything he had ever seen, save the Sandwyrm. An immense dragon the size of several large buildings, almost close enough for him to reach out and touch. Waves of sudden fear and cold poured out from its scaly, powerful body, smashing into him like a storm against a sparrow.
+
+Where did that come from? But he could see the wispy trails left by a fading ice-based movement skill.
+
+Ice mana surged from within the monster, and a deafening crack rang out, echoing from the nearby glaciers and chasms, and the dragon vanished. The sudden wake of turbulent air smashed into Calen’s body, flash-freezing his entire left side, and sent him tumbling out of control to bounce off the rocky cliffside.
+
+Stunned, he barely managed to catch himself with his wings before plummeting down onto the glacial ice, and as he steadied himself, his right eye caught sight of a titanic crash as the two dragons smashed into one another, roaring and biting, gleaming talons glinting in the late afternoon sunshine as they tried to ravage each other. Billowing jets of icy breath burst forth from between bared fangs, sending sudden spontaneous storms of ice-boulders flying, bouncing ineffectually off ice-enchanted blue dragonscale.
+
+A crashing wave of relief surged through him as he realized he hadn’t been caught, somehow clinging to his Eclipse despite being battered and tossed around, and his limbs stopped trembling as the dragon’s fear abated. He watched, half terrified and half fascinated, as the two titanic dragons attempted to resolve their dispute with fangs and claws and the sheer might of their physical power.
+
+Calen cowered, unashamedly hiding in the lee of the cliff, and retrieved an elixir of Ice Protection. He unstopped the cork, careful to store it instead of dropping it, and downed the gelid orange liquid that leaked warmth through the crystalline glass of the high-quality vial. A sudden burst of warmth blossomed in the center of his chest as the fire-affinity elixir began to work, dispelling the frostbite and high-level chill from his limbs and face. He chased it down with a healing potion.
+
+Even more careful, he thought ruefully, allowing himself to grimace at the awful taste of the potion while descending cautiously. He would leave the skies to the titanic dragons and content himself with skirting the ground from now on. Under the cover of their noisy battle, he hastily fled, taking a wide berth around them to leave the pass.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

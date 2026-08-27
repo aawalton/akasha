@@ -1,0 +1,209 @@
+---
+id: 511be3f1-f231-5d05-a799-6d339515436f
+page-type-slug: story-chapter-royal-road
+title: "71 - I'm Not the Only One"
+slug: 0071-71-im-not-the-only-one
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 71
+ownLength: 1939
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3673609/71-im-not-the-only-one"
+royalRoadId: "3673609"
+---
+
+Some time had passed since the dungeon outbreak.
+
+Ships were being sent away to other cities to get fixed. The ones that were too damaged to move either received just enough patching to fly to the next city or, in emergencies, were sent away with teleportation magic. However, doing so always used a lot of mana for the few mages who knew how to cast the spell, so only a few ships were able to be sent off per day with that method.
+
+Meanwhile, the injured continued to heal. The ones with scratches and lighter wounds got back onto their feet as early as the day after the battle. Some, however, were bedridden and were taken care of by the healers. The ones with injuries that would never fully heal were left with permanent scars of the battle. Kaelor was one of them.
+
+The dead would be remembered for as long as Whale Isles existed. Several smaller islands were reserved specifically to honor those who had passed away, whether from natural causes or during battle. The people of Whale Isles had a special island dedicated to those who had died during the dungeon outbreak, and we were standing on that very island.
+
+Countless stone monuments overlooked the water falling off the edges of the island. Hundreds of flowers of every color scattered among the grass as the winds carried their scent through the air. But they weren’t the ones covering most of the island. The stones with carved names on them did.
+
+Many families were here with us, visiting their loved ones.
+
+Reina was quietly praying to each stone one at a time, giving each one their own prayer before moving on to the next. We told her it would take too long to go through all of them, but she insisted anyway.
+
+Talon, Tuna, Aeris, and several other giant sky creatures surrounded the island, paying their respects in their own way. The ones who had fallen from the battle weren’t just people, but also some of the sky creatures.
+
+Kaelor spent extra time praying for the fallen ones in his army, whispering something under his breath. Some whispers lasted longer than others. Although he was too far for me to hear what he was saying, I could only assume he was giving each one a personal message. He told us he would not only be the one to deliver the news to their families, but also be the one to set up more graves for them back at the city they had come from.
+
+I had finished my prayers earlier than the others and stood off to the side, thinking about everything that had happened so far.
+
+After Aurelius had been killed, I went over to pick up the Soul Anchor Ring from his severed hand, and it slipped free without any resistance. For now, I had decided to keep it in my [INVENTORY]. I wasn’t so sure what to do with it, but it’s better in our hands than anybody else’s.
+
+After Meriel and I had read Aurelius’s journal, I couldn’t help but wonder what to do about the dungeon. Camille and the other people that Aurelius had tried to save… they were still all in there, trapped in a dungeon without being aware of it. Though we never saw anyone besides Camille, I recalled hearing that Aurelius had seen them in the manor’s upper floor, which Reina and I never explored.
+
+An angel stood beside me, waving his hand near my face. I broke out of my trance.
+
+“What is it?” I asked.
+
+“Nothing. You just looked a bit gloomy, so I was trying to save you from it.”
+
+“Thanks…”
+
+Hearing my low-energy voice, he continued, “Don’t be sad about their deaths. Be proud of all the allies who gave up their lives to defend us from those monsters. Because of them, we successfully protected these islands. Not a single non-military resident of Whale Isles lost their lives.”
+
+I smiled. “That’s a good way to think about things.”
+
+“It’s the only way to think about things,” he said. “If we had died instead of them, we would’ve wanted them to feel the same way about us. Misery has no place where honor deserves to be.”
+
+I gazed at all the graves before us. “Did you know any of them personally?”
+
+He nodded. “I did. I’m not a part of the military like they were, but they were close friends of mine that I had grown up with.”
+
+Silence stretched.
+
+I looked down. “I’m sorry to hear that.”
+
+“Don’t be,” he said, shaking his head. “I’m proud of them. And I'm grateful for everything they’ve done.”
+
+He tapped me on my shoulder and walked away, leaving me standing on the edge of the island by myself again. That man resembled Aurelius—or rather, Gabriel—in many ways.
+
+I decided to just think of it as closure for everything that had happened.
+
+I looked around the island, noticing Meriel sitting under a tree by herself, deep in thought. I kept my distance from her for a while, but she didn’t move once. I walked up to her, concerned.
+
+“Meriel?” I called.
+
+No response. No movement. Not even in her eyes.
+
+“Meriel,” I said again.
+
+Nothing.
+
+I pinched her ear.
+
+“Agh!” she cried, pulling away. “What was that for?!”
+
+“I mean, you wouldn’t respond to me,” I said, sitting beside her. “You didn’t notice me?”
+
+“Not at all.”
+
+“What were you thinking about?”
+
+She rubbed her ear, staring at the memorial ahead.
+
+“Everything,” she said. “It’s… strange. I should be one of them. I should’ve had a grave with my name on it, but—”
+
+I frowned. “Don’t say that.”
+
+“But it’s true.”
+
+She leaned into the tree behind us.
+
+“I didn’t just survive,” she said. “I died and then came back to life. When that dagger went through me, I… I already knew it was over. I knew I wouldn’t survive.”
+
+I looked at her.
+
+“Is it because of me?” I asked. “Because I wasn’t good enough at healing magic?”
+
+“That’s not it,” she said.
+
+“Then let me rephrase that question. If another mage had been with you at the time—somebody who was as proficient as you at healing magic—would you have survived?”
+
+She didn’t say anything.
+
+“Just tell me the truth, Meriel. You don’t like to sugarcoat things, right?”
+
+She sighed after a moment.
+
+“Yes. I would’ve survived. They would’ve been able to pull that knife free, and the bleeding would’ve temporarily gotten worse, but they would’ve been able to heal everything. The only reason I told you to leave the blade in was because it was the only way to reduce the bleeding. Your magic wouldn’t have been able to stop it.”
+
+I looked down. “...I see.”
+
+She turned to me. After seeing my expression, she pulled me close. “But I’m here now. Thanks for trying back then, Allene.”
+
+I touched my face, my eyes growing wide as I realized that tears were falling from my eyes.
+
+“Not again…” I muttered, voice trembling.
+
+Meriel patted my head. “There, there.”
+
+“Stop treating me like a kid.”
+
+“That doesn’t sound particularly convincing while you’re crying. You did the same back then after Kaelor lost his arm.”
+
+“I… Yeah… I don’t know why…”
+
+“Because you really care about us,” she said. “Your snarky personality doesn’t make it obvious, but I’ve seen many people throughout my life who act just like you but end up being the ones who care about their loved ones the most.”
+
+“Snarky…?” I said.
+
+“You haven’t noticed?”
+
+“I have.”
+
+“Then there’s nothing to be surprised about. But I think that kind of personality suits you well.”
+
+“How so?” I asked.
+
+“Because a snarky protagonist is a well-established trope,” she said. “Bonus points for being small, too. Aren’t you aware of it?”
+
+[TROPE COMPLETED: SNARKY PROTAGONIST]
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[154 → 155]
+
+I lifted my head off her shoulder, staring at her.
+
+“Trope…? You—”
+
+“I’m aware of them, yes.”
+
+“But how…?”
+
+“I don’t know. All I know is that it all began after I came back to life—after my awakening, per se.” She looked at her hands. “Everything feels… strange. The best way I can describe it is a rush of knowledge pouring into my head. I now realize what my role in this world was. It was to be a mentor for you, Allene. For the protagonist. Our first encounter back at the guild in Lyndale wasn’t a coincidence. We were meant to meet, and I was meant to be your mentor.”
+
+My jaw dropped. “I… I can’t believe it,” I said. “That’s amazing! Now I’m not the only one who—”
+
+She covered my mouth, gesturing for me to shush. I didn’t realize how loud I was until then. I should probably be a bit quieter, especially while everyone was in the middle of their prayer.
+
+“As with mentors in most stories,” Meriel continued, “I was meant to die. Nothing was a coincidence. Even the act of giving you my staff was a trope—the one where the mentor passes down their weapon. It’s strange. I didn’t really know why I gave you my weapon back then, but I had convinced myself it was the right move. Looking back at it now…”
+
+She shook her head. “It almost felt like I was being influenced by some external force. It’s just so strange…”
+
+“External force…” I said. “Aurelius mentioned something similar, didn’t he? After he had first taken over Gabriel’s body back at the dungeon, the first thing he did was try to retrieve the Soul Anchor Ring. But something didn’t let him. The Narrative didn’t let him—at least, not until he met us.”
+
+Meriel put a hand under her chin. “The Narrative, huh? Yes, I do remember hearing that. Perhaps that was also the same external force that has been subconsciously controlling me. But in Aurelius’s case, it was a lot more apparent, wasn’t it? He mentioned seeing messages that the Narrative didn’t permit him to retrieve the ring.”
+
+I nodded. “That was a System message.”
+
+“System…?”
+
+“You don’t know about it?”
+
+She shook her head. I guess her awakening only allowed her to instinctively understand tropes without the System.
+
+“I see messages that others don’t,” I explained. “It tells me whenever tropes initiate, get completed, and things like that. I get rewards for completing tropes, and punishments for failing them—though it’s pretty uncommon for me to fail any.”
+
+She tilted her head. “Rewards? Such as…?”
+
+“Stats. Like Levels, Vitality, Wisdom, and Endurance. Things like that.”
+
+“Stats?”
+
+“You don’t know about them even after your awakening?”
+
+She shook her head. “I’ve become aware of tropes, but stats are a new thing for me.”
+
+Interesting. I guess her awakening didn’t make her completely aware of everything like I did.
+
+“Does that explain why you keep pulling out random things from that void rift?” she asked.
+
+I nodded. “The love potion and the Giant Slayer sword… those were all rewards I had received after completing tropes. And not just that, but I also receive skills. The void rift is the [INVENTORY] skill, and as you could probably tell, it lets me store anything I want.”
+
+At this point, there was no longer any need to hide anything from her.
+
+So I told her everything I knew about the System and tropes, except for the fact that I was from another world—otherwise I’d receive a rather… frightening punishment.
+
+[TROPE IN PROGRESS: THE OTHERWORLDER’S SECRET]
+
+Completion criteria: Do not let anybody find out you’re from another world until the day you die.
+
+Punishment: You will no longer be recognized as the protagonist.

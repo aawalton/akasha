@@ -1,0 +1,213 @@
+---
+id: cca33479-25ab-5b52-a9fd-2579c4e9aa05
+page-type-slug: story-chapter-royal-road
+title: "77 - Arguing? Hug It Out"
+slug: 0078-77-arguing-hug-it-out
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 78
+ownLength: 2003
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3721920/77-arguing-hug-it-out"
+royalRoadId: "3721920"
+---
+
+As the night came to an end, Kaelor and Talon went to their room, while Meriel, Reina, Aeris, and I went to ours. The milkshake that Talon had made for us was an amazing treat, but something about it made me sleepy.
+
+Wait a minute…
+
+Did he put something in them…?
+
+…
+
+Nah, no way. It was probably just a sugar crash.
+
+“So,” I began, eyeing Reina and Aeris. “What on earth happened out there between the two of you?”
+
+To be honest, the answer was pretty clear from just a quick glance. If we compared Reina’s cuts and bruises to Aeris’s… Well, let’s just say it would end up looking like Reina was the training dummy.
+
+“It’s not fair!” Reina cried. “She… she…”
+
+“Hm?” Aeris said. “Go on. You’re going to say I cheated, aren’t you? Was it because of my fire breath that burned all the hairs off your face?”
+
+I took a closer look at Reina. “Huh. You actually did burn them off. Her face looks awfully smooth.”
+
+Reina pushed me away. “Don’t look! I’m telling you, Aeris didn’t give me a fair fight!”
+
+“Wahhh! Wahhh!” Aeris mocked. “But what did you think was going to happen? You’re a human going up against a dragon! You’ll never beat me in a million years, even in my human form!”
+
+I sighed. Looks like their spar didn’t exhaust them at all.
+
+Meriel sat at the back of the room on the desk she always used for writing. She slammed her hand on the table, yelling, “Could you two be quiet for once?! This happens every night! If you’re going to keep arguing, I’ll kick both of you out and have you two sleeping out there in the living room!”
+
+Reina crossed her arms. “I’ll stop if she admits it wasn’t a fair fight!”
+
+Aeris looked away. “I’ll stop if she admits it was a fair fight.”
+
+Meriel facepalmed. She had opened her journal several minutes ago, but the most she managed to write since then was a single sentence. I couldn’t blame her. Writing anything coherent in the presence of both Reina and Aeris was practically impossible.
+
+“Guys,” I said, pushing them apart. “Quit acting like children. Even Talon’s more mature than you two. Let’s settle things once and for all, yeah?”
+
+They looked at me.
+
+“And how do we do that?” Aeris asked.
+
+I gave a big smile. “By giving each other a nice, warm hug.”
+
+I shoved them together. They yelped. Aeris’s head was trapped awkwardly under Reina’s chin, and it looked more like they were tied up against each other rather than hugging. Still, this should do the trick.
+
+“Agh! What the?!” Reina yelled, trying to break free. I tensed my arms.
+
+Aeris, however, was much stronger than any of us in this room and was just half a second away from breaking herself free. I shot her a glare.
+
+“You better stay like this, or I’ll get upset,” I threatened.
+
+She stopped right away.
+
+“Now,” I continued, “wrap your arms around each other and repeat after me: ‘I’m sorry, Allene. We’ll be quiet for once and let you have a full night’s worth of rest.’ Are you ready?”
+
+“I’m not saying that!” they yelled at the same time.
+
+“If the two of you don’t listen to Allene, I’ll kick you out,” Meriel said. “The couch doesn’t sound particularly comfortable to sleep on with two people, does it?”
+
+They gulped, nodding.
+
+I smirked. “Alright. On a count of three. Ready? One… two… three!”
+
+They hesitated at first, but held each other in a full-blown embrace just soon after. Now that I thought about it, this was the closest they’ve ever gotten to each other. Reina and Aeris always kept a fair distance away even while they were talking.
+
+“Now hold still,” I said, backing away. I couldn’t help but laugh now that I was looking at it from a little further away. Their disgusted expressions only made things better.
+
+[TROPE COMPLETED: ARGUING? HUG IT OUT!]
+
+[SKILL ACQUIRED: THE PROTAGONIST’S EMBRACE]
+
+Type: Passive
+
+Effects:
+
+- Hugging someone makes them feel slightly more affection
+
+- A hidden effect occurs when hugging yourself
+
+A hidden effect? Well I’ll be damned. That made me too damn curious to not do it.
+
+And so I wrapped my arms around myself, awkwardly holding them there. The others looked at me like I was the embodiment of a narcissist, but I couldn’t help it. What if this so-called “hidden” effect gave me god-like abilities?
+
+After hugging myself long enough to feel stupid, I realized that literally nothing had changed. I didn’t gain any buffs, stats, or… well, anything. So I put my arms down.
+
+Sorry, correction—I tried to put my arms down, but they wouldn’t budge.
+
+“Allene… what are you doing?” Meriel asked.
+
+I did a full turn with my arms still wrapped around myself. “I’m stuck.”
+
+“Huh…?”
+
+“I can’t move my arms. I’m serious.”
+
+Aeris laughed from behind. “And you’re the one calling me a kid? Look at you, begging me for a hug. You’re adorable, darling.”
+
+I frowned, doing another turn. “In what world does hugging myself mean that I want yours as well?”
+
+“In my world, darling.”
+
+She ran at me with her arms stretched out, but Reina put a foot out, tripping her. Aeris faceplanted onto the floor, tears falling out of her eyes as she held a hand over her nose.
+
+“That hurts!” she cried. “My nose is bleeding!”
+
+“Dragons don’t have bloody noses,” I said.
+
+At the very least, I’ve never seen it happening before in any of the shows or movies I’ve ever watched. As far as I’m concerned, that was definitely not a trope. Feel free to prove me wrong, though.
+
+Aeris stood. Sure enough, her nose was perfectly fine. The shape of it, on the other hand, looked a bit more crooked than the last time I remembered. Was I seeing things right?
+
+I pushed Reina and Aeris aside, letting them deal with things at the corner of the room. They were actually a lot quieter now after I had forced them to hug. Hopefully they would stay like this for the rest of the night, but I wouldn’t bet anything on it.
+
+With that settled, I walked up to Meriel, taking a peek over her shoulder.
+
+“I’ve never seen you miss a night of writing in that thing,” I said, looking at her journal. “I’m actually kind of scared.”
+
+She looked up at me. “Scared…?”
+
+“Yeah, I mean… after reading Aurelius’s journal and all, I’m a bit traumatized from personal diaries.”
+
+She laughed, shaking her head. “Oh, please. Look at me. Do you think I could be a villain like he was?”
+
+“Nothing’s off the table,” I said. “Maybe you’ll be the ‘close friend becomes an antagonist’ trope.”
+
+Meriel gave me a look. “Okay—let’s not say that.”
+
+I read over the few words she had already written despite all the noise.
+
+“Writing about your awakening?” I asked.
+
+She nodded. “I’ve decided to document things closely, just in case.”
+
+“Why? Do you plan on sharing it? Would that even be a good idea?”
+
+“Probably not. I’m writing it for myself, not to show it to others. If there comes a time when somebody gets their hands on this journal, I’ll likely already be dead by then. At that point, I’m better off revealing everything to the world. Also, I just wanted to add some extra thoughts about something I told you back when we were at the memorial island.”
+
+She peeked around me, checking to make sure that Reina and Aeris were still away from us. Seeing that they were, she continued,
+
+“Back at the memorial island, I had mentioned we shouldn’t assume we’re the only people in this world who know about tropes. But we also have no reason to assume there are others.”
+
+I tilted my head. “Why did you only think of this now?”
+
+“Because think about it,” she continued. “Let’s assume a scenario in which we’re not the only ones who are aware of tropes. That suggests that there should be proof lying around somewhere about the tropes, whether in writing, scriptures, or anything else. It’s similar to magic. The world is too vast. Chances are, there should be more people like us out there. But if that was true, why does this world have nothing about the tropes at all? Why have we never encountered anything about tropes outside of ourselves? Could it be that we simply happen to be the most special people in this world?”
+
+“That’s definitely likely,” I said.
+
+“But what makes us special?”
+
+Well, outside of the fact I was reincarnated into this world with a System, probably that.
+
+“So you’re saying that if we’re not the only ones, then everything about tropes should’ve already been revealed or seen. Us never seeing anything suggests that we might really be special.”
+
+“That’s a solid probability, yes,” Meriel said. “But as with most scientific ideas, it’s hard to come to a conclusion without concrete evidence.”
+
+I sighed, staring at the ceiling. “You’re too smart for me, Meriel. It gives me headaches.”
+
+“Maybe that’s why I’ve awakened,” she said. “You don’t have to think about the tropes by yourself anymore. I can help you with that. I’m the missing piece you need.”
+
+I chuckled. “That actually makes sense. Wait—missing piece? What’s that supposed to mean?”
+
+“It means you’re too stupid to realize I’m calling you stupid.”
+
+…
+
+I rolled my eyes, taking a seat on the bed. “You’ve changed, Meriel. You feel a lot scummier now than before. I’m blaming it on your awakening.”
+
+“I think you’re just imagining it.”
+
+She went back to writing in her journal. I turned toward Reina and Aeris, who had somehow ended up on the floor, wrestling. My first instinct was to stop them, but I realized that this was what they needed to wear themselves down. If the spar wasn’t enough, this surely should be.
+
+Surely.
+
+I lay on the bed, staring at the ceiling. I always did the same routine every night before bed—opening my [INVENTORY], checking all of my in-progress tropes, my stats, and so on. It was always nice to see how many Levels I’d gained after defeating Aurelius. Being Level 156 was no joke, although Aeris was Level 200-something.
+
+“Ah,” I said as an idea popped in my head. “I just thought of something. We’re missing a fellow party member.”
+
+I cast [INVENTORY], gently pulling out a small companion who was unfortunately kept away because of how dangerous the dungeon and outbreak was.
+
+Meriel’s face lit up. “Hey, Noodle. Sorry we kept you in there for so long.”
+
+Noodle made a gentle “Wrrr,” as he flew in circles around the room before hovering beside Meriel.
+
+Now, please hold on—before you start calling us out for neglecting Noodle, I assure you that we have been letting him out ever since the battle was over. However, the only time we ever did was if two things were true: when we absolutely couldn’t lose him, or when we knew every piece of danger was gone. Unfortunately, that limited us to pretty much only letting him out in our room.
+
+But it wasn’t our fault he enjoys wandering around Whale Isles, especially when we’re not looking. It’s almost like he does it intentionally. There was a day when we all spent an hour looking for him around Whale Isles, just to see him at an eating competition with a giant. What was he even thinking, anyway, trying to challenge someone fifty times his size?
+
+Oh, I also forgot to mention that he’s been growing a lot bigger as well. How? No one has a clue. Maybe the void rift gave him some special nutrients that let him grow. As far as I was concerned, I had nothing in my inventory that he would want to eat. No candy, no meat, no—
+
+I blinked.
+
+Wait, what about Kaelor’s arm?
+
+…
+
+…
+
+…
+
+Nope. No way.

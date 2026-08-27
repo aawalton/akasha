@@ -1,0 +1,321 @@
+---
+id: 7a5c2f03-e17e-50a1-bce6-4e0d7dc66299
+page-type-slug: story-chapter-royal-road
+title: "10 - Matching Hair Ties"
+slug: 0010-10-matching-hair-ties
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 10
+ownLength: 1809
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3397399/10-matching-hair-ties"
+royalRoadId: "3397399"
+---
+
+Even in my sleep, the System didn’t leave me alone.
+
+[TROPE COMPLETED: THE REINCARNATED PROTAGONIST FINDS THEIR FIRST TRUE FRIEND]
+
+[ITEM ACQUIRED: MATCHING HAIR TIES]
+
+Description:
+
+A pair of soft black hair ties decorated with small silver star charms. Meant to symbolize friendship.
+
+This item will now appear in your [INVENTORY]
+
+[TROPE COMPLETED: THE EMOTIONALLY DISTRESSED COMPANION RUNS INTO DANGER AND MUST BE RESCUED]
+
+[REWARD: +2 LEVELS]
+
+[LEVEL]
+
+[118 → 120]
+
+I woke up to the sound of someone gasping. I wiped my eyes, dazed. Where was I again?
+
+Ah… that’s right. I found Reina in the middle of the blizzard and took her to a cave. The blanket over us made me so warm that I fell asleep on her shoulder.
+
+When I turned to my side, I saw her staring back at me, her cheeks flushed. Realizing that I had fallen asleep with my arms around her, I quickly pulled away.
+
+How long was I asleep for?
+
+From how much we were sweating, we must’ve stayed like this for a few hours.
+
+I glanced out of the cave. As expected, the blizzard showed no end. At the very least, we seemed to be safe here.
+
+“Are you feeling better?” I asked.
+
+She turned away, her expression gloomy.
+
+“Reina…?”
+
+She nodded softly. “I am, thanks to you. But…”
+
+“But…?”
+
+She pulled me close, crying.
+
+“I’m sorry, Allene! I’m sorry… I caused you so much trouble, and—”
+
+I smiled, patting her head. “It’s okay. It was my fault for saying those things to you.”
+
+If I remembered correctly, she was upset that I had called her feelings for me fake. But they were, weren’t they? If it weren’t for her accidentally tasting some of the love potion, none of this would have happened.
+
+“Meriel could help you,” I said. “She probably has a spell that could dispel the love potion’s effect.”
+
+She froze. “Dispel it…?”
+
+“Yeah. Then everything can go back to normal.”
+
+Her expression stiffened. “Normal…?”
+
+The cave was silent for a moment.
+
+“I…” she muttered. “I don’t know.”
+
+“What do you mean?”
+
+“I don’t know if I want to dispel it.”
+
+I wasn’t sure if I heard that correctly.
+
+“What?” I said, laughing. “You’re just joking around, right?”
+
+She wrapped her arms around her knees, her arms over the blanket. She didn’t reply.
+
+“Reina, but this isn’t you!” I said.
+
+“It is!” she cried. “How is it not? Think about it, Allene. I barely drank any of that potion.”
+
+I shook my head. “That’s true, but—”
+
+“But what?”
+
+I looked away.
+
+“So what are you trying to say? That these feelings are real?” I asked.
+
+I leaned back against the cold, stone wall a little too hard, hitting my head. I did everything I could to hide my pain since the situation clearly did not call for me to say “Ouch”.
+
+I continued, “I get where you’re coming from, but…”
+
+She held my hand, looking me in the eyes.
+
+“You saved me, Allene. I would’ve died out there! And even when we fought that Tree Sentinel, you were the one who protected me from it. I… I…!”
+
+Oh no. Here it is. The confession.
+
+“I want to get closer to you!”
+
+I blinked.
+
+“Huh?”
+
+“I want to be closer friends!”
+
+I scratched my head. That was… unexpected? I totally thought she was going to confess her love to me.
+
+“You… huh? That’s it?”
+
+She nodded enthusiastically.
+
+I felt my face getting red. Was I just misinterpreting this the entire time?
+
+Looks like a super small amount of the love potion only makes people want to get closer to me. That’s good to know.
+
+“So… friends,” I said. “Friends.”
+
+She nodded again.
+
+I let out a sigh of relief. I was the one who was wrong this entire time.
+
+“But if you don’t want to,” Reina continued, turning away, “then I’m sorry for—”
+
+“No! No, I’d love to!” I shouted.
+
+She looked back at me, eyes wide.
+
+“Really…?”
+
+“Yes, I mean it!”
+
+What was this feeling in my heart? This warmth?
+
+For the first time in my entire life, I was happy because of somebody else. I was happy because Reina was right next to me, smiling at me.
+
+I called my [INVENTORY] and pulled out the matching black hair ties that the System gave me. There was a small silver star charm on both of them.
+
+“Here—this is for you,” I said, handing one of them over.
+
+She held it with both of her hands cupped together, like it was something delicate.
+
+“This…? When did you get this?” she asked.
+
+“Don’t worry about it. Why don’t you put it on? Actually, no—let me put it on for you.”
+
+Her eyes bounced between the hair tie and me. Then, she smiled, handing it over to me and turning around.
+
+I tied her hair into a ponytail, a perfect hairstyle for a knight—or I’m sorry, a magic knight—like her. The hairstyle was not only practical since it kept hair out of the way during combat, but it was also—
+
+“Cute,” I said. “You look cute.”
+
+She turned back to me, smiling.
+
+Oops. Did I let my thoughts slip?
+
+“Your turn!”
+
+I handed her my tie and turned around. She played around with my hair for a little bit before letting go.
+
+“There!” she declared proudly.
+
+I touched the back of my head, feeling a tiny clump of hair.
+
+“...You turned my hair into a dumpling,” I said.
+
+“A dumpling?”
+
+Ah. I guess dumplings didn’t exist in this world.
+
+Admittedly—just by touching it alone—it did feel kind of cute. As a matter of fact, I felt cute.
+
+“I think it suits you,” Reina said. “You should keep your hair like this more often.”
+
+I shrugged. “I don’t really like tying up my hair.”
+
+“Why not?”
+
+“It makes my scalp feel weird. Sometimes it gives me a headache.”
+
+At least, it was that way in the other world. For some reason, I didn’t feel any discomfort at all right now.
+
+Then, it happened.
+
+The great explosion.
+
+My hair poofed into every direction, slashing Reina across the face. Blood spilled, and—
+
+Okay, maybe it wasn’t that dramatic, but my hair did go everywhere.
+
+“Whoops. Let me tie it up again,” she said.
+
+I laughed. The sound of it echoed through the entire cave. I had completely forgotten how loud the blizzard was just outside.
+
+…
+
+Strange.
+
+I couldn’t remember the last time I smiled this much around someone.
+
+As soon as Reina finished tying up my hair, we heard a soft crack beside us. There was a light. A light that began as one dot before expanding into a large oval, illuminating the entire cave.
+
+“What the…?” I began.
+
+At the center of that oval was… the cabin? An image of it? A reflection? Or—
+
+“Hey,” Meriel said, poking her head through.
+
+Reina and I flinched, scrambling back. The white-robed mage looked us dead in the eye, her eyebags more prominent with the portal’s lighting.
+
+“Good job. You finished the training. Well, part one, anyway. Come through.”
+
+We stared at the portal, jaws dropped.
+
+“How did you know we were here?” Reina asked.
+
+Meriel shrugged. “It wasn’t too hard. Since we’re the only three people in this entire region, I just cast a spell that searches for non-beastial heat signatures.”
+
+My jaw dropped even more.
+
+“We’re the only ones here? Where the hell did you take us?!”
+
+She blinked, then turned around, heading for the bed on the other side of the portal.
+
+“Portal closes in ten seconds. Countdown begins now. Five, four—”
+
+“At least start from ten if you’re gonna say that!” I cried.
+
+I stood, grabbing Reina’s hand with a smile. The blanket fell off us, but I quickly called [INVENTORY] and stuffed it back in.
+
+We ran through the portal.
+
+Wait a minute—if she knew how to use a portal this entire time, then why didn’t she use that to bring us from the guild to this cabin instead of the teleport spell? That would’ve been a whole lot better than landing on top of each other.
+
+She must’ve had a reason, right…?
+
+…
+
+No, never mind. From everything I’ve seen so far, Meriel was completely crazy in the head.
+
+The moment we touched the cabin’s floor, the portal closed behind us. I was a bit curious what would happen if a portal closed while somebody was in the middle of entering through, but I decided to save that morbid thought for another time.
+
+Meriel yawned.
+
+“You two look closer,” she said, glancing at our matching black hair ties and joined hands. “And judging by how sweaty the two of you are, you must’ve had a great time.”
+
+I quickly let go of Reina’s hand. “Whatever you’re thinking, that’s not what happened.” I stomped over to her. “Anyways! What the hell is wrong with you?! We would’ve died if—”
+
+“No, you wouldn’t have,” Meriel said. “I was watching over the two of you.”
+
+“Huh? Watching us? How?”
+
+She waved her staff around, and a giant eyeball appeared out of thin air. It looked like the Eye of Cthulhu.
+
+She continued, “This eye could see through the blizzard. It was watching over the two of you the moment you left. I could actually make it even bigger, but since we’re in the cabin—”
+
+“No, please don’t do that,” I cut in. The eye stared back at me, completely unmoving.
+
+Absolutely horrifying.
+
+“Oh, but don’t worry. I stopped watching the two of you the moment you entered the cave, so you could have your funtime.”
+
+“I’m telling you, that’s not what happened!” I cried.
+
+I turned to Reina. “Could you please say something?”
+
+She tilted her head, confused. “Funtime? Ah, yes! We did have a lot of fun together!”
+
+Meriel grinned at me.
+
+Damn it, Reina. Did you really not know what the mage was trying to say?
+
+Meriel waved her staff around again, and the eye disappeared, dissipating into countless white particles.
+
+“There’s no time to rest,” she said. “I’m impressed with your performance earlier, so we'll skip gathering the tea leaves for now. Part two of the training will begin.”
+
+“What?!” I cried out. “Reina and I almost froze to death, and you’re not even going to let us rest?!”
+
+Then, I heard it.
+
+That monstrous roar.
+
+That demonic growl.
+
+…
+
+It was Meriel’s stomach.
+
+“Now I’ll be teaching the two of you combat spells,” she said. “It’s time to hunt.”
+
+But I was too upset to listen to her.
+
+“You stupid mage! You’re just making us run errands for y—”
+
+My stomach growled as well. Reina laughed, pointing at me.
+
+Of course, her stomach also growled.
+
+[TROPE COMPLETED: GROWLING STOMACH DURING AN ARGUMENT]
+
+[ITEM ACQUIRED: SUSPICIOUS MEAT]
+
+Description:
+
+It smells surprisingly good.
+
+Effect:
+
+I facepalmed.
+
+Of course. This world always has its way with the worst timing ever.

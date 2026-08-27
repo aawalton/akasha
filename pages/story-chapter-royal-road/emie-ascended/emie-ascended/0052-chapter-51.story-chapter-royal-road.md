@@ -1,0 +1,219 @@
+---
+id: 7af32ef8-9ec8-5e71-b648-9c0011d9ed03
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51"
+slug: 0052-chapter-51
+partOf: emie-ascended
+position: 52
+ownLength: 2941
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3865053/chapter-51"
+royalRoadId: "3865053"
+---
+
+Sasha did have news when I checked in after my trip to the dungeon, but it wasn’t the news that I expected.
+
+“He disappeared?” I asked.
+
+The Porter nodded solemnly. “Yes. About three months ago. I had no idea until I asked around after he didn’t reply to my message.”
+
+“Is that… I’m guessing that isn’t normal for him, then?”
+
+“Not for this long. Daver often disappears for a few days at a time while he locates new cities, but he’s never gone more than a week between check-ins when he’s not delving. He also missed his last several portal transfers.”
+
+I frowned. I couldn’t think of much that would be capable of preventing a mithril-ranked Space Magi from checking in, aside from maybe death. And anything capable of killing a mithril ranker was nothing I wanted to encounter any time soon.
+
+“Are there any theories about what might have happened?” I asked.
+
+“Nothing official,” Sasha replied, running a hand through her teal hair. “Given his strength, the most hopeful option is that he somehow got pulled into an incursion breach after trying to close one.”
+
+“Why would that be a good option?” I asked. “I’d think being trapped inside the demon realm would be worse since he wouldn’t be able to restore his essence. And surely he would have already returned if it were possible.”
+
+“Maybe,” she conceded. “But at least that option gives him a chance at survival. And there’s always the possibility he might have escaped to a different realm.”
+
+“That’s possible?” I gasped.
+
+Though I’d read a bit about the early explorers, nothing I’d seen or heard had indicated that it was possible to get to different realms through the demon realm.
+
+Hidden realms, sure. There were certainly stories about those having portals to other realms. But I’d never heard even a rumor of someone going through the demon realm to get to another realm.
+
+My mind stuttered a bit as my thoughts circled the possibility. If the demons were regularly attacking other realms like they were attacking Dia, it made sense that a stranded explorer might slip through an open breach.
+
+Whether they thought they were returning to this realm or intentionally entering another didn’t matter all that much. The mere fact that it was possible was intriguing.
+
+“It is absolutely possible, though you shouldn’t share that fact with anyone outside of the guild,” Sasha replied. “As far as we know, nobody has ever gone through the demon realm to reach another realm, but that isn’t to say it hasn’t happened. If it has, the explorer either never made it back or never shared what happened publicly.”
+
+As fascinated as I was by the idea of one day exploring different realms, I still hadn’t explored much of the realm I was in.
+
+With that in mind, I asked, “So, should I just pay for a transfer to Goldwood, then?”
+
+I didn’t need to ask about the possibility that something extremely powerful had managed to kill the mithril ranker. Considering the state of the world, the only real options on that front were that another mithril ranker had killed him, or a demon of comparable strength had.
+
+“That probably won’t be necessary,” Sasha said. “When I discovered Daver was missing, I reached out to the Guild Leader’s Assistant and let him know that you were interested specifically in that city. While the news about Daver’s disappearance is still being suppressed, the fact that he is not performing his normal duties has not been missed.
+
+“Mathias said that he would personally facilitate you setting a waypoint in Goldwood if you’d be willing to add a monthly portal transfer between Goldwood and Saint’s Hollow. It is one of Daver’s more highly demanded scheduled routes.”
+
+She flipped her teal hair casually and added, “He’d rather you agree to more, but I expressed your desire to limit additional commitments at this time, given your membership in three different guilds. He agreed, though he wanted you to know that the option is there if you find yourself in need of a higher guaranteed monthly income.”
+
+“I don’t have a waypoint in Saint’s Hollow,” I said with a frown.
+
+“I’m sure Mathias will facilitate you with that as well,” Sasha assured me. “Really, the problem isn’t that we don’t have anyone capable of reaching either city. It’s that Portal skills are so rare. The number of Porters we have who are capable of opening portals simply cannot cover the demand.”
+
+Stretching lightly, Sasha added, “Honestly, you could easily make a living doing nothing but managing portal transfers. In fact, very few Porters with the Portal skill bother progressing beyond the second evolution for that very reason. Some don’t even bother going beyond the first.
+
+“Since that means their lifespan is significantly shorter than their fellow Porters without the skill, it creates a shortage that is nearly impossible to overcome.”
+
+I could see how that would be a vicious cycle. If roughly the same number of skillbooks dropped in a dungeon for Teleport and Portal, but those who learned Portal mostly became complacent because of their wealth and ended up stagnating and dying in a fraction of the time… yeah, I could understand how that might cause a problem.
+
+“They aren’t carried like crafters?” I asked. “I would have thought the guild would do that for those with valuable skills.”
+
+“We tried pushing a few people with the Portal skill through the third evolution, and you know what happened?” Before I could answer, Sasha continued, “The evolution failed. If you like to research, you should look into failed evolutions. It’s an actual thing that seems to only apply to those who have no actual desire to progress but are forced into it by others. It happens to crafters, too.”
+
+“What actually happens?”
+
+“They don’t evolve. They can still gain levels, but they don’t get any of the added longevity or the boost in power. They also become far more susceptible to stagnation.”
+
+“What if they decide they actually want to progress later?”
+
+Sasha shrugged. “I don’t know. Probably nothing, though I’ve never actually heard of someone making it to the next evolution who’d failed one before.”
+
+I made a mental note to look into failed evolutions when I got back to the apartment. It seemed strange to me that the goddess would block people from advancing just because they didn’t go about it the way she wanted.
+
+Since they’d been able to absorb the essence in the first place, they had to have contributed to earning it, after all. It seemed strange that motivation played a part at all.
+
+Or maybe I was missing something.
+
+“So? Are you interested in the deal, or would you rather just pay out of pocket for a teleport? Either way is fine. I doubt anyone will care about you setting a waypoint there if the issue is significant enough that Mathias is offering you a contract.”
+
+While I wasn’t crazy about adding yet another commitment, I’d already basically agreed to dedicate at least one day to managing portals. And portals paid a lot better than individual teleports.
+
+“Yes, I’m interested,” I answered. “But isn’t there at least one other Porter assigned to the city with the ability to open a portal?”
+
+“There is, but they…” She hesitated. “How do I say this?”
+
+After a moment of silent contemplation, Sasha slowly said, “The network doesn’t display everything. When I contacted Mathias, he let me know some things that didn’t make it into the records.
+
+“Basically, the other Porter is not well-liked, especially by the leadership of Goldwood. Daver has always been popular, but Penski, not so much. Since they share a lot of the same territory, after Daver disappeared, Penski was asked to cover some of the scheduled portal transfers.
+
+“He agreed, but apparently received several complaints. I suspect Mathias will eventually try to convince you to pick up the rest of Daver’s portal responsibilities now that you’ve come to his attention.”
+
+I sighed at the new information.
+
+“Thanks for letting me know. I’m really not interested at the moment, mostly because I’m still trying to find my own pace. I’ve also got some stuff going on with my party that I’ll need to figure out, but I will keep the option in mind.
+
+“If it’s possible, I’d like to schedule the transfer between Goldwood and Saint’s Hollow the same day I currently do the transfer between Sorenguard and Iron Fortress. Would that be an issue?”
+
+“I anticipated you’d want that,” she replied with a satisfied smile before passing me a sheet of paper. “And on that topic, here are the cities I need you to do portals between and the proposed schedule, per our last conversation.
+
+“All are either waypoints that you already have or waypoints that your partner has set. I’ve already included both Goldwood and Saint’s Hollow as well. Look over the times, all of which are based on Sorenguard time for simplicity. Most will be during the late evening and into the night due to the time difference.
+
+“Let me know if you have any problems with the schedule. If you’d rather start very early instead, I’ll need to know in the next few days so I can make the changes before the schedule is released to the public.”
+
+“It looks fine,” I said after giving the times and locations a cursory glance.
+
+I wasn’t worried about distance since five miles or five thousand miles were pretty much all the same as long as I was sufficiently familiar with the location.
+
+I’d already planned to dedicate the entire day to handling portal transfers anyway, so the added transfers weren’t that big of an issue.
+
+Besides, I could always ‘catch up’ on sleep using time dilation within my demesne if the timing made such a thing necessary.
+
+“Alright. I’ll be in touch before your next scheduled workday to facilitate the two new waypoints.”
+
+“Are you working on a new commission?” Stephen asked when I sighed and leaned back in my chair.
+
+Stephen and the others had learned not to interrupt me when I was focused on Enchanting since distractions could ruin a project. Even with my experience, it was something I had to be careful of.
+
+I was using the small workstation I’d set up in the spare room of our apartment since it was easier than rearranging the sanctuary or creating a separate crafting area hidden inside my demesne.
+
+The latter would have been easy enough, really, but I didn’t feel like adding to the number of secrets that I was keeping.
+
+“No. It’s just something extra I felt like trying,” I said, flicking the flat metal round in my hand to the side while storing my enchanting focus.
+
+The third-level enchant had failed, and I didn’t feel like messing with it anymore at the moment.
+
+“Well, it’s good to see you making something other than preservation storage devices.” He said with a grin before pausing and tilting his head cutely. “I’m assuming that wasn’t another storage device?”
+
+With a mirthless chuckle, I shook my head. “No. It had nothing to do with storage at all.”
+
+“Hmm. It’s too bad you can’t recreate the MealMaker you invented in your old realm,” Stephen said thoughtfully, referring to an invention I’d made that could transmute any material into an edible dish after recording that dish’s ‘blueprint.’
+
+“Yeah. It’s unfortunate that Dia doesn’t allow transmutation,” I agreed.
+
+It definitely would have been convenient to have instant access to any meal recorded without needing to bother with cooking, or even acquiring the proper ingredients.
+
+“Are you just feeling restless, or…”
+
+“I’m not sure what I’m feeling,” I admitted. “Restless is definitely a part of it, but it’s not all of it. I learned that a mithril-ranked Space Magi disappeared recently. I don’t know why it’s bothering me aside from the slight personal inconvenience it caused, though.”
+
+“What do you mean?”
+
+“Well, maybe it’s wrong to frame it that way,” I backtracked. “Daver disappearing isn’t really an inconvenience. I was hoping he’d help me set a waypoint in Goldwood, but obviously, he can’t do that if he’s missing.
+
+“In fact, his disappearance will probably work out to be quite lucrative for me since I’ll be picking up at least one of his regular portal transfers.” I frowned at my own comment and muttered, “Wow, that makes me sound really heartless.”
+
+“No, it doesn’t. It’s not like you’re celebrating his misfortune. Acknowledging that you benefit isn’t the same thing as being glad that someone has disappeared.”
+
+“I’m not glad, for the record.”
+
+“Okay.”
+
+I nodded at his quick acceptance and headed over to the couch. Stephen was already reading something on the tablet.
+
+I’d considered buying another tablet so I could have one for myself, but the price started in large steel. Though all of my ‘jobs’ were lucrative and I’d already earned more than enough to cover the cost, the thought of spending the majority of my savings on something that would primarily be used for entertainment didn’t sit well with me.
+
+I also wouldn’t be able to use anything that I purchased locally when I was inside my demesne, which was another reason not to bother buying one.
+
+I suspected the same might not be true if I could commission a tablet made by the same person who handled the enchantments for the communicators, but I could only imagine how much that would add to the cost.
+
+But at least then it should work from within my demesne since the upgraded communicators did.
+
+Conversely, I could always try to get the Enchanter to teach me how to do that particular enchantment. Or maybe I could figure it out on my own.
+
+Intent mattered, so if I could get ahold of a tablet whose enchantments hadn’t been finalized, I might be able to figure out how to allow it to work through the dimensional barrier.
+
+It would require a lot of testing, and that testing would likely be prohibitively expensive. It would have to be a project for later.
+
+Or maybe never.
+
+I sighed at the thought, but I also had to be realistic. Some things simply weren’t worth the time and effort it would take for me to accomplish them on my own.
+
+Glancing away from the tablet, my eyes trailed back to the small metal piece lying discarded on my workstation. I could probably buy something that would work just as well, but this was one of those things that I felt the itch to make myself.
+
+It was completely counter to my entire thought process about cost vs. benefit, but I couldn’t explain it. My brain didn’t always work logically.
+
+“What were you working on, anyway?” Stephen asked, noting the direction of my gaze.
+
+“Just an idea I had about an artifact that would let someone know that someone else was still alive, even if in completely separate realms.”
+
+“Where did that thought come from?” he asked, his eyes going wide at my response. “Are you planning to leave the realm or something?”
+
+“Not specifically, though I won’t say it’s an impossibility,” I answered honestly. “Something like that should also work to let people outside the dungeon know if a delver is still alive.”
+
+“But that isn’t what gave you the idea,” he said. It was a statement, not a question.
+
+“No. It isn’t.”
+
+I told him about Daver and the information I’d learned about incursion breaches potentially leading to other realms.
+
+I considered telling him that I felt pretty confident that even if I were to find myself in another realm, I’d be able to get back via the sanctuary.
+
+I hadn’t outright admitted that I could enter and exit the space from different locations, but I suspected Stephen had already put the pieces together. Mike and Cora might have as well, but I thought that less likely since I only really accessed the space with them while inside the dungeon.
+
+The reason that I didn’t say anything was that I couldn’t be certain that my demesne really would work across realms like that.
+
+Sure, it worked between the dungeon and Dia – presumably, since I hadn’t actually tested it yet – but that didn’t mean it would work if I were to travel to an entirely different realm ruled by a different deity.
+
+Heck, I couldn’t even be certain my demesne would work properly if I just ran out of essence.
+
+How much did my body actually regenerate on its own compared to what was just absorbed from the environment? What would happen if I ran out, and it turned out that my body didn’t regenerate anything?
+
+Would I lose access to the space and everything in it? Or would my essence reserves even matter since the space was bound to my soul?
+
+Without knowing the answers, I didn’t want to make any promises or even strong implied assurances. It was better just to avoid bringing it up at all.
+
+I hoped that if I found myself in another realm, I’d be able to just pop back using my demesne. That was definitely the best-case scenario. But it wasn’t like I had any plans to intentionally enter an incursion breach anytime soon.
+
+However, I did plan to learn how to close them, and I also planned on performing that service whenever the opportunity arose once I became strong enough to manage it.
+
+Since that probably wouldn’t be until I reached at least silver rank, it wasn’t something that I needed to worry about anytime soon. I had decades – centuries, even, to figure things out.

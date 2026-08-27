@@ -1,0 +1,167 @@
+---
+id: d5023b8b-34db-5ffd-b51f-e5a35ea18aa1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 482: Hasted, Lightning-Enchanted Stabbing"
+slug: 0520-chapter-482-hasted-lightning-enchanted-stabbing
+partOf: dungeon-of-knowledge-complete
+position: 520
+ownLength: 3148
+unit: words
+ownProgress: 3148
+publishedAt: 2025-12-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2867311/chapter-482-hasted-lightning-enchanted-stabbing"
+royalRoadId: "2867311"
+markedReadAt: "2026-06-29T20:29:54.155Z"
+---
+
+Ali took a deep breath and puffed air into her cheeks, surveying the remnants of her forces in dismay. Grim Spark was hunting them. That much had become abundantly clear over the last hour as they tried again and again to lose him within the ruins. Just when they thought they had finally outrun the dangerous skeletal fetish, it would reappear with a flash and a pitter-patter of tiny feet, sowing destruction and lightning in its wake before vanishing into the darkness once more.
+
+But she was not to have a moment of respite.
+
+“Incoming,” Calen shouted, taking to the air.
+
+She had just enough time to register the brilliant flare of lightning magic when Grim Spark materialized among her healers and mages. Sparks flew and the dagger blurred, and by the time Ali’s golden barrier snapped into place, two kobold priests and one of the holy mages were already dead, and the remaining sparks were grounding in intermittent discharges into the smooth pavement.
+
+A ripple of dark, ominous magic flickered briefly around the tiny skeleton, and suddenly, all her nearby minions were cowering or fleeing.
+
+You have resisted Grim Spark’s Panic.
+
+Several of her mages, out of range of the Panic, opened up with their holy and ice bolts, and she instantly lost several of her panicked minions to the sudden explosion of rapid lightning nova bursts cascading up and outward from the boss.
+
+A dark, murky green formation flickered, shooting outward from the monster, surging through her and her minions, reaching even far enough to clip Calen flying overhead.
+
+You have resisted Grim Spark’s Confuse. You have resisted Grim Spark’s Confuse. You have resisted Grim Spark’s Confuse.
+
+She stared in horror as Calen lit up with Righteous Fury and unleashed volleys of explosive arrows into her minions. At the same time, many of them began attacking each other, some of them far gone enough to try biting each other instead of using their skills.
+
+All that remained to Ali was the Eye of Agnor and Kir’vella, both with immense wisdom attributes to resist such attacks. Although with the champion witch doctor, Ali was half certain that a large portion of her abilities to resist confusion and panic were because she was already crazy. It had been less than a second, and the majority of her forces were nearly entirely incapacitated. And she’d just finished resummoning them.
+
+“Curse him,” she commanded, sending her intent mentally to all her minions as her mind rapidly resolved her suddenly reduced options.
+
+The Eye of Agnor unleashed Interrupted Casting first, taking advantage of its hasted spellcasting, but Kir’vella was not far behind with Spirit Banishment. Intuiting her intentions far more precisely than she expected, the witch doctor shimmered, crossing the veil to chase after the banished monster.
+
+“Malika, help!” Ali shouted.
+
+Malika didn’t even take the time to respond; she simply vanished, appearing among the panicked and confused minions with a pulsing aura of her soul magic. She shot off, sprinting among the confusion, leaving a wake of recovery as her Clarity overrode the debilitating effects of the mental attacks.
+
+“Where is it?” Mato asked.
+
+“I sent it to the spirit realm,” Ali answered for everyone.
+
+While Calen grappled with his shock and the realization, he had unleashed his arrow on his friends, Ali’s awareness flickered into the Spirit Realm, piggybacking upon her witch doctor’s senses.
+
+Just in time to experience a hasted, lightning-enchanted dagger to the ribs.
+
+“It can attack in the spirit realm?” Calen exclaimed, surprise overtaking his worries suddenly.
+
+Ali glanced at him, momentarily confused, before she remembered he could see across the realm boundary. “Seems that way,” she grumbled, simultaneously urging Kir’vella to flee. “We need a plan.”
+
+But before she could get an answer, Calen gasped, and she saw the flicker of a teleportation formation, and the monster suddenly appeared among them once again. Ali reacted instantly, triggering Minion Teleport and yanking herself and her nearby minions out of range.
+
+Malika shot in like a bolt fired from a bow, punching the Bone Fetish once in the skull, triggering a triple burst of lightning, and then she sprinted away from the group as the tiny skeletal monster scampered after her. She stopped in the middle of the street, simply healing herself, not even throwing a single punch.
+
+What…
+
+But clearly Mato had understood her message, because he charged off, smashing into the boss, triggering an explosion of lightning that engulfed both of them as he traded massive, slow strikes against the skeleton’s blinding speed.
+
+“Hold your attacks,” Calen said. “Just keep him healed.”
+
+Ali did one better than that, making her Eye of Agnor refresh the Interrupted Casting curse. If nothing else, it could make the Panic and Confuse a little less frequent. Then she switched her focus to studying the roiling mana blasting outward from the fetish in waves.
+
+“Figured out the curse yet?” Calen asked.
+
+“No,” she admitted, frustration leaking into her voice. “It looks like a support skill or a proc; it’s going to be a bit more difficult to disrupt.” But she could most certainly dismantle it, and her witch doctor could decurse. “Looks like it only targets people in the lightning.”
+
+“Stop his teleport, then,” Calen said.
+
+I should have thought of that. If she could stop the teleport often enough, it would no doubt make the fight that much more stable, and right now her healers might be struggling with the sheer damage Mato was taking, but he wasn’t exactly about to die. They would need to figure something out, though, because the fetish was healing somehow, and the retaliation trigger would increase its damage output substantially if they began attacking it. As if on cue, the teleportation formation condensed within Grim Spark, and Ali reacted, countering the spell with her tiny golden needles.
+
+“So, how do we kill it?” she asked, more than a little relieved her magic hadn’t been resisted.
+
+“Heavy damage, single strikes,” Calen said, studying the stalemate carefully. “Perhaps just hold off until Malika powers up and let her kill it?”
+
+“I’m not sure my healers can last that long.” But then she met Calen’s eyes as they both realized the same thing. “I’ll make some more, but I might miss some teleports.”
+
+“I think we will have to manage if that happens,” Calen said, grimacing. “We need berserkers, and anything with a strong ambush.”
+
+“Ok.” She pulled out her Grimoire, lighting the dark stone with gold and green illumination. Given that she had no real role in the fight other than suppressing the teleportation magic and removing the lightning vulnerability curses as soon as possible, she had plenty of mana to spare.
+
+But the first thing she summoned was not a berserker. She needed something simpler – one that would summon much more quickly – and offload her healers a little. A Sacred Ooze, she thought. The ooze was a healer that utilized holy magic, but unlike the kobold priests, its healing was a physical explosion of a tiny ooze made from holy water – not nearly as potent at healing, but its healing affected an area, and more importantly, would damage undead. No, that won’t work, she thought, suddenly realizing that every healing blast would damage the bone fetish, triggering more lightning. But she had an alternative – something that would hit very hard and still heal her minions and friends. She flipped the pages to the proper imprint and sent her mana flowing into the formations of runes, knowing that she wouldn’t be able to complete it before the thirty-odd seconds of disruption wore off. But replacing her holy fire kobold mage was by far the most efficient summon she could pick.
+
+Sure enough, halfway through her summoning, the formation of a lightning affinity teleport spell flickered into being within Grim Spark. But another magic flickered, like a strange echo of the spell, only shifted slightly, a little out of phase. Sparks cascaded off the monster, and suddenly the entire formation popped.
+
+Interrupted Casting.
+
+The curse was a strange tool; a twenty percent chance to disrupt magic. Ali vastly preferred reliable magic, but she wasn’t going to complain that she had gotten lucky, and even if she couldn’t control precisely which spells it disrupted, or pick strategically, a twenty percent spell suppression was still incredibly powerful. She didn’t even have to tell her Eye to refresh the curse; it simply did it, hovering above the battle, glaring down with menacing eyes. Lots of menacing eyes.
+
+A sudden crack shook the ground as a bolt of pure white light appeared, transfixing the boss with a thunderclap of power and an explosion of light and fire, and Calen appeared from nowhere, hovering above near the Eye and her Scion, for a moment reminding Ali of the first time she had seen Lyeneru. A nova of lightning burst from the monster several times, and the murky green of Confuse flickered around Calen’s radiant form, but presumably, he still had Clarity because he seemed unaffected by the dangerous spell. The boss’s health dipped noticeably from the powerful ambush combination he had unleashed, but no sooner had the attack landed than she saw its health begin to climb.
+
+“It’s healing,” she said. The healing magic seemed a little confusing – no explicit formation. Instead, it seemed similar in structure to Mato’s restoration. “I think it’s a lightning leech.”
+
+“It’s regenerating mana, too,” Malika called out.
+
+Unfortunately, its healing proved to be quite effective, and by the time her new holy fire mage appeared, Ali noted, to her dismay, that Grim Spark was once again at full health. Nevertheless, she now had a potent new option in this ridiculously chaotic fight.
+
+“Shoot it,” she said, the draconic words sounding harsher and more arrogant than she really felt, but her kobold nodded eagerly, instantly summoning her intense holy flames. The little kobold’s eyes began to shine with radiant inner holy light as she poured her skills and mana into the rapidly intensifying ball of flame hovering above her outstretched talons, and then, just when Ali thought it might spontaneously explode, she released it. It shot off across the dark street, a radiant sun shining out into the surrounding buildings, revealing briefly the splendor of Mi’ir Valdanis as it must have looked under clear daylight, and then it detonated.
+
+Mana exploded as spells reacted. Holy fire blossomed into an inferno, and within it, lightning burst forth, several sudden waves in response to the blast. Mato’s health spiked and then suddenly dipped in a whiplash reversal that had her healers suddenly frantic, but it worked just as she’d hoped. The holy flames burned deep into the undead Bone Fetish’s health, buffering Mato just in time to blunt the retaliation.
+
+Deep within the inferno of holy and lightning, a familiar formation blossomed, small and indistinct against the chaotic, explosive backdrop, but with the sheer amount of perception she had backing up her Arcane Insight, she recognized it instantly. Tiny golden needles of arcane magic flickered into existence, orbiting her fingers as she conjured the counter-formation to Grim Spark’s teleportation spell. She released it. The needles crossed the thirty-meter gap in an instant, trailing golden sparkles that hung, softly floating in the air. But when they punched into the formation, it was her magic that shattered.
+
+“Resisted!” she grumbled, loudly enough for the others to hear. Even with her hugely boosted attributes and high skill level, Grim Spark was still beyond even her ability to identify, and it was always a possibility that her offensive magic would be resisted. She just wished it hadn’t picked the worst possible time for it to happen.
+
+“That way,” Calen said, pointing. “Four streets over, moving this way.”
+
+The direction seemed consistent; it was clearly corralling them within this zone of the dungeon. Any time they moved too far, it would teleport away to block off their escape, leaving only their potions and talismans – options which would whisk them right out of the dungeon and back to Myrin’s Keep. Magic potent enough that she needed to avoid its use within the dungeon unless there was no other way to survive. She had told the others that Nevyn Eld could not sense them through the domain, but she was still wary of something as noisy as a cross-continent teleportation spell. It was, after all, one of the reasons she had made her runic circle in the cave outside.
+
+“Spread out,” she told her healers and mages, preparing for the sheer chaos of Grim Spark’s return. She had a minute or two – maybe less – and she intended to make full use of it. Her floating Grimoire flared to light as she poured mana into resummoning Tol’brekk.
+
+A white streak shot around the corner and up the street, trailing sparks in waves that crawled across the black stone before dissipating up against the buildings. A similarly fast streak of blue-white mana shot sideways to intercept it, a collision that detonated in a rupture of exploding lightning and flickering soul mana. Splitting her awareness across the battle, a task that risked interrupting her summoning magic, she created three barriers. They flickered into place barely in time to block the bulk of the lightning magic that threatened to wipe out her scrambling minions, but with a few well-placed healing spells and Malika stabilizing the fight by locking down the boss’s position, she managed to escape without losing anything. It had been close, though; a little too close.
+
+She kept a watchful eye on the tanking transition, restraining her minions from attacking as Malika and Mato juggled the Bone Fetish while bathed in a continuous eruption of lightning. Despite the enormous vitality he had in Bear Form, Mato’s health fluctuated wildly, with heart-stopping, teeth-gritting drops every time the vulnerability curse landed. Malika, with her much smaller health total, seemed to be in an even more terrifyingly precarious position, but her damage reduction was seeing heavy use. Still, her health all but disappeared in an instant several times. However, she was beginning to shine from within; the inner incandescence of concentrated soul mana oversaturating her defensive skills with steadily mounting power as the battle drew on longer and longer. Clearly, her evolved Relentless aptitude was the only thing keeping her alive – that and her ability to dodge, resist, and outright ignore magical damage.
+
+As she observed her slow summoning spell winding up to completion, the beginnings of an idea began to form within Ali’s mind.
+
+But first…
+
+Her Carnage Berserker suddenly appeared, a giant, towering over her even though she was hovering in the air.
+
+“What is your command, Seeker?” His deep voice sounded surprisingly gentle, but Tol’brekk’s eyes were already studying the battle and the coruscating lightning storm.
+
+Ali fired her golden darts, disrupting an attempted teleportation, and then dumped the weapons and armor she had collected from her Berserker’s previous corpse out of her storage enchantment, making a deafening clatter upon the stone beneath her, and then she tossed him a trollish Tusk Ring.
+
+“Equip yourself,” she said. Normally, she’d summon her minions with their gear already equipped, but even though it wasn’t much, collecting the old gear instead saved her time on the summoning spell.
+
+His enormous three-fingered hand caught the ring out of the air and slipped it onto his left tusk, and then with a wave of his other hand, all the gear vanished with tiny puffs of mana. An eyeblink later, the gear reappeared, but this time on his body.
+
+“Nice trick,” she complimented him, resolving to ask him to teach it to her later. She had seen Calen switch bows through his storage enchantment, but she hadn’t even considered a full gear swap.
+
+He grunted, his eyes returning to the battle with the intensity of one born for combat.
+
+“The bone fetish is our foe; I want you to kill it. But only use your highest damage and slowest strikes. Back out of the lightning as much as possible and don’t engage if you are cursed. Whatever you do, do not use Blood Vortex.”
+
+“Yes, Seeker,” the giant troll said with a frown on his brow, but he didn’t question her choices. “On hit damage trigger?”
+
+“Yes, Lightning Nova,” Ali explained.
+
+“Leap then,” he decided. He squatted down, his enormous thigh muscles bulging with force and stamina, and then he launched his considerable bulk high into the air, almost half his health vanishing in flight, sacrificed to power his coming strike. He flickered and flashed with holy magic as the nimble kobolds managed to land three heals before he came crashing to the ground like a roaring meteor from the heavens. Lightning exploded upward, the nova pierced through with dark shards of shattered stone pavement, and then the giant troll leaped backward out of the blast radius, bearing the telltale formation of the lightning curse.
+
+I shouldn’t have worried, Ali thought. While her berserkers were prone to losing control when they got too low on health, Tol’brekk had been fighting for her for quite a while now, and she had learned that he possessed a kind of battle-savvy that reminded her a little of Mato. He had carefully, perhaps instinctively, spent only enough health to commit to the strength of his attack, but not enough to entirely lose control, especially considering the competence of her kobold priests.
+
+“Cure Tol’brekk next,” Ali instructed.
+
+Kir’vella bobbed her head with birdlike agility and cackled hideously.
+
+Then, Ali sent her thoughts soaring high into the air, releasing her impatiently circling Scion of Azryet. The midnight black dragon folded its wings, dropping like a stone, and when it was barely a couple of meters above the ground, it flared its wings again, striking downward with a powerful talon strike. Its giant maw opened wide and released the concealed Black Hole breath weapon directly at Grim Spark’s head from point-blank range.
+
+As the boss exploded with retaliatory Lightning Novas and Confuse, the dragon’s wings, face, and chest became wreathed with barriers of pure void that seemed to eat the magic of the spells unleashed at it, drastically reducing the damage to itself before its wings surged and carried it back up into the air.
+
+In the wake of her dragon’s strike, the detonation of Calen’s ambush briefly shone out, banishing the darkness of the street before fading back to black.
+
+“Fire,” she commanded, and her mage released her held holy fireball. But as it exploded, she could already tell the problem. They were using only the most powerful strikes, and even so, she was forced to spread them out so as not to overwhelm Mato with excessive retaliatory lightning. But Grim Spark was still gaining health. And then she missed the next Disrupt, and the boss vanished.
+
+This is not working. We need to change the plan. Again.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

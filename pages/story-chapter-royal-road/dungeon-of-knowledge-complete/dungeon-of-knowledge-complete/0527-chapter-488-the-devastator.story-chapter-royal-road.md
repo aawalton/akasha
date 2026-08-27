@@ -1,0 +1,145 @@
+---
+id: 571674c8-09ba-5ed2-9231-646751054102
+page-type-slug: story-chapter-royal-road
+title: "Chapter 488: The Devastator"
+slug: 0527-chapter-488-the-devastator
+partOf: dungeon-of-knowledge-complete
+position: 527
+ownLength: 2409
+unit: words
+ownProgress: 2409
+publishedAt: 2025-12-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2884790/chapter-488-the-devastator"
+royalRoadId: "2884790"
+markedReadAt: "2026-06-29T20:30:09.430Z"
+---
+
+Malika stepped out onto the plaza, taking care to avoid some of the larger, shimmering formations inscribed into the black stone, keeping her eyes fixed on the huge Death Knight up ahead and the ominously glowing runed sword grasped in his mithril gauntlets. Two enormous skeletal frost dragons wheeled about high overhead.
+
+“Be careful, everyone,” she said. “We don’t know what he is capable of.” The instant the words had left her mouth, she cringed a little inwardly. Her friends were smart, the veterans of countless battles now, and they hardly needed her to remind them to be careful. Ali had already thrown a host of minions at him to try to learn as much as they could before engaging, but although she had pried out some secrets, it was never enough.
+
+“Yup,” Calen said. “As usual, keep your eyes and perception skills going to learn as much as possible, and be ready to run if we need to.”
+
+Malika immediately felt better hearing Calen reiterate their tried and tested plan for unknown bosses. She fed a small trickle of stamina to her eyes, overspending with Relentless to enhance Infinite Perception. Like eyes opening wider within her mind, a sudden rush of knowledge poured into her, analyzing the now familiar flows of stamina within Mato’s dense body as he walked out in front of their group. She could see the magic of his shapeshift, the flickers of energy that represented his combat mastery, and the Natural Prowess skill enhancing his attributes. She could see the meaning behind each flicker, as if she were reading the flows like Ali read runes.
+
+She took her usual spot behind Mato, and a little to the side, so that she had a clear view of the enemy. Behind her, flying above them, she could see Calen’s energy. And further back, the vast sea of power that represented Ali and her horde.
+
+“So, you have come. I will show you mortals the folly of hope.”
+
+The voice of Haverron crashed down upon her with immense power, the chill of fear breaking like a great wave against her Clarity and receding. Reflexively, she pulsed Healing Mantra, refreshing Clarity for her friends while she studied the stamina formations flickering within the Death Knight.
+
+A voice magic skill?
+
+A defiant roar echoed across the plaza as Mato challenged the Death Knight and charged. With a well-practiced pulse of stamina, Malika shot forward using Divine Step to match Mato’s Charge, the two of them rushing into battle together like so many times before. The pair of frost dragons let out unearthly screeches and dove toward them.
+
+About halfway to the foe, ice mana pulsed within the Death Knight’s chest, and seven swords suddenly materialized, each a magical replica of his runic greatsword, slowly circling him as they floated in the air, blades pointed to the sky. Lazily, they all turned, rotating outward like the unfurling petals of a blooming flower of icy blue, following along as the Death Knight began to walk toward them.
+
+Stamina pulsed behind the heavy mithril visor, triggering a rush of insight from Infinite Perception.
+
+Eye Magic! Ali had warned of the curses, but now she was close enough to see his skill for herself. And it was like nothing she’d ever imagined.
+
+You have been cursed with Life Tap.
+
+The battlefield exploded into a sudden frenzy of chaos. Mato hit Haverron with a mighty, ringing crash, claws and the power of the void contending with mithril armor and an instantaneous retaliation of ice barriers. A vast surge of frozen cold blasted outward from the monstrous, armor-clad undead body, carrying howling winds and shards of sudden ice.
+
+You have been chilled.
+
+Her body slowed, and Malika felt the prickle of continuous damage trying to claw its way through the protection of Soul Armor. She lashed out, punching the huge Death Knight in the center of his breastplate. Instantly, a surge of mana burst outward, and her fist connected with solid ice, crushing it. The lance of soul energy from her Soul Strike blasted onward from the point of contact, ignoring all barriers as it pierced through his body.
+
+A second blast of frigid air exploded outward from the point of her strike, spraying lances of retaliatory ice in all directions and blotting out the entire battlefield with a howling blizzard of snow and wind-blown rime. But Soul Sight revealed to her the true danger hidden within the storm. As far as her magical sight extended, across the plaza, dark gray, humanoid forms began to crawl up out of the ground, wielding blades of ice and the unholy glowing energy of their gathering spells.
+
+“Skeletons! Undead! Lots of them!” Ali yelled from somewhere in the distance, her voice barely carrying over the howling wind.
+
+Right beside Malika, three skeletal mages appeared, already firing ice bolts in her direction. The writhing, black form of a wraith shot out of the snow with a screech, detonating right beside her head. She dodged, suddenly finding herself contending with three animated ice swords that would have been impossible to see if she wasn’t using Infinite Perception and Soul Sight.
+
+She dodged again, avoiding a cone of icy breath from above and ducking back and forth as she stepped across the frigid, howling air, throwing punches as she could and pulsing Healing Mantra. Chaos erupted as Calen and Ali unleashed their area magic bombardment, but it was the sudden release from the chilling effect of the ice that made her smile.
+
+You have received Free Action.
+
+But her joy was short-lived as she recognized the surge of stamina that signaled Onslaught emanating from Haverron’s barely visible form, augmented by some death magic ability that seemed to be dramatically increasing the strength and power of his sword. The great blade flickered, suddenly far faster, cleaving through Mato and several of Ali’s minions at the same time. To her surprise, Malika found herself forced into desperate dodging and constant backpedaling as the floating ice blades emulated the same attack.
+
+Ridiculous! How fast is he? She darted back and forth but found herself cornered by several skeletons as one of the blades ripped into her left flank, just above her hip bone. Dammit, focus! Rezan would have your hide for this performance!
+
+You have been afflicted with Mortal Wounds-50% to Health gained.Physical – Duration: 30 seconds.You have been cursed with Frozen Doom.You are frozen.This content has been misappropriated from Royal Road; report any instances of this story if found elsewhere.Detonate with Frost Nova when Frozen Doom expires.Curse – Duration: 3 seconds. You have resisted Frozen.
+
+The tendrils of a powerful ice magic sank into her flesh as the curse dug its claws in.
+
+Three seconds! She instantly saw the problem and, as she forced extra stamina through her body to outheal the Mortal Wounds, she shot off into the sky, urgently trying to take the Frost Nova out of range of her friends. But the instant she left the protection of the Blood Shaman’s Free Action totem pulsing down there on the ground, her body froze solid and crashed to the ground.
+
+Fuck, I should have teleported, she thought, grimacing inwardly as she struggled against her icy prison. But it was to no avail – the Frozen Doom binding her with thick layers of ice shattered, exploding outward as her Frost Nova detonation vanished into the howling blizzard.
+
+“Rally, my minions! Crush the living!”
+
+This time, Haverron’s voice was imbued with far more power as dark waves of energy surged from the Knight, making the ice flying through the air shiver. The pull to mindlessly throw herself at him shattered off Malika’s reinforced mind as she watched the skill ripple outward like a far more potent version of Sabri’s Soul Shout. Undead minions erupted with formations of Onslaught and empowered Mastery skill, rallying powerfully with hasted attacks.
+
+This is insane.
+
+She couldn’t see a thing without Soul Sight, and she could barely hear over the unrelenting storm lashing out in all directions. It was only with her ability to see mana and stamina that she could even attempt to avoid the deadly icy blades, exploding wraiths, and the uncountable horde of skeletons throwing ice magic in all directions. It was only the combination of her speed and the Free Action totem that allowed her to dodge the empowered horde of undead, surging forward with unbelievable power and haste.
+
+A moment later, a hail of brightly glowing arrows whipped by, melting the front ranks of the undead horde and several walls of golden light snapped into place. Ice spells pelted the barriers like a hailstorm hammering a roof.
+
+Trust Calen and Ali, she thought, deliberately putting the summoned horde out of her mind, and she dove back into the fray, ice chilling her face and making her fingers ache from the bone-biting cold. But Mato needed healing, and she needed to punch the storm-bringer.
+
+As she swung her fist, a brilliant surge of domain-empowered magic seared through her mind. Stamina erupted from within Haverron’s dark, armored body with a formation of such power that her mind was instantly filled with shock, overwhelmed and intimidated, even from within the sanctuary of her Clarity.
+
+Someone’s going to die. It was clear as day. Nobody would be able to withstand whatever was coming.
+
+“Focus, Malika. What can you learn?”
+
+The memory of Rezan’s voice echoed in her mind, words he had spoken to her many times before – usually just before he unleashed an incredible attack that finished her off.
+
+But the voice within her mind touched the core of her soul, and everything stilled. The storm raged on outside, but within, she found her center, and her mind regained its Clarity. Haverron had to have some skill that drained her – she struggled to identify it – maybe her strength? Malika was not sure, but its impact was definitely eased by her Clarity, and with that she turned her gaze on the monster, focusing on the deluge of information flooding through her mind as Infinite Perception attempted to unravel the attack.
+
+Two domain skills. Sword. Mastery. Power. Movement.
+
+Her mind accelerated, racing so quickly that the ice and snow raging around her seemed to hover motionless, suspended in the air. Still, instead of clutching unthinkingly at every fleeting piece of knowledge and insight and no doubt missing as much as she gathered, she simply rested in her calm, trusting her powerful perception skill, her training, and the insights she had earned through hard-won fights.
+
+Spirit Realm?
+
+Suddenly, she saw it. The full power of his skill, fractions of a second before he unleashed it. A rushing Impale, an attack that would use the spirit realm to pierce through armor and barriers in the same way Calen’s arrows did. She could see him already growing indistinct, transparent, ethereal as his entire body shifted into the veil between the realms. It would be a truly devastating attack. She could see how fast it would be, the sheer power of the domain magic enhancements, and the path it would take across the …
+
+Ali!
+
+Haverron’s body blurred as his skill took hold, shooting across the battlefield, passing through enemies and allies alike as if they were insubstantial wisps or reflections. Malika’s mind balked at the sheer speed, faster than any arrow, faster even than her own body at full power. And at the opposite end of the plaza, she could see the slowly forming look of horrified realization draining the color from Ali’s face as her accelerated mind informed her of the danger far faster than she could move her body.
+
+Ali suddenly vanished, replaced by a troll, but Haverron’s attack redirected, turning a full ninety degrees instantly, unerringly bearing down on Ali’s new location. A golden barrier flickered into place with the speed of thought, but Malika knew the attack could not be blocked.
+
+Not by any physical or magical barrier.
+
+But Malika was more. Without thought, she stepped once, traversing the entire distance to the Fae instantly. Empowered by the unstoppable weight of a domain-empowered martial skill, the ghostly greatsword effortlessly shattered the Spirit Realm-aligned barrier that flickered in place for a moment and plunged deep into her chest.
+
+Haverron rematerialized as his skill ended. Malika’s vision blurred, and her mind dimly registered pain, registering surprise at the cloud of golden shards slowly spinning away. She shouldn’t have been able to touch that…
+
+“Malika!”
+
+It was Ali’s scream from right behind her that caught her on the brink. The abyss of unconsciousness yawned wide and deep, threatening to swallow her whole.
+
+“You are strong, Malika, always remember.” Her father’s voice echoed through her mind, reaching out from the past to steady her.
+
+Healing Mantra. She used the skill name as if she were chanting a mantra to focus her mind, and stamina rushed through her body, burning and healing as it struggled to overpower both Mortal Wounds and the huge greatsword pouring ice magic into her heart.
+
+She coughed, spraying blood from her ravaged lungs to tinkle and chime as the droplets froze and bounced off his mithril breastplate.
+
+“Humans. Your valiance is futile. I am the reaper. I will claim your life right after I rip your soul from this pathetic bag of flesh.”
+
+“Fuck you,” Malika managed, spitting out more blood, struggling to free herself from the impaling greatsword.
+
+“Die.”
+
+And with the finality of his pronouncement, he triggered Mortal Cleave, ripping his greatsword through Malika’s sternum, tearing clean through her ribs and out the side.
+
+You have been afflicted with Mortal Wounds.You have been cursed with Frozen Doom.
+
+The ice magic took hold, freezing the crimson spray of blood in the air.
+
+Your Frozen Doom has been dispelled.
+
+Thanks for removing the sword, idiot, Malika thought as the searing rush of stamina tore through her body, knitting her wound shut near instantly, burning through twice the stamina she would have needed and overwhelming her Mortal Wounds affliction with sheer brute force. But she didn’t care; she had plenty of mana and a Death Knight right in her face.
+
+She lashed out with her fist, catching him squarely in the center of his mithril visor with a clang, her soul magic blasting clean through his head, stealing the last few points of health she needed to restore herself to full strength.
+
+“Not today,” she ground out through gritted teeth. “Round two is mine!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

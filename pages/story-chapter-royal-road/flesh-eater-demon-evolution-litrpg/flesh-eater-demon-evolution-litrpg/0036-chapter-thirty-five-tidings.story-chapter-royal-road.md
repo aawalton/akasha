@@ -1,0 +1,111 @@
+---
+id: add31711-f3b5-5314-a4d6-cc9191b04d56
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-Five: Tidings"
+slug: 0036-chapter-thirty-five-tidings
+partOf: flesh-eater-demon-evolution-litrpg
+position: 36
+ownLength: 2474
+unit: words
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2716032/chapter-thirty-five-tidings"
+royalRoadId: "2716032"
+---
+
+Daphne Bellhein was a lot of things. She was the beautiful, sickly ward of Lord Bellhein with “oh so much potential, it’s really such a tragedy” to the everyday residents of Magrath, “sickly, but also a real spitfire” to the ones who knew a little more about her actual personality, and “an absolute terror” to those in her immediate family.
+
+She wore the last two titles with pride. The first one made her scowl (the sickly part, to be specific), but she couldn’t really do anything about it. Hating it didn’t stop it from being true.
+
+She shoved that out of her mind, though, because she had more important things to think about. Namely: figuring out what was going on in that damn meeting in the dining hall.
+
+Now, meetings weren’t terribly uncommon in the Bellhein manor. While they were nowhere near the highest echelons of Auren nobility, their position on the eastern border meant they were often privy to matters of the state long before they became public—if they ever did.
+
+Or, well, her uncle and cousin were. Her own position in the line of succession had long been forfeited. No one wanted an heir who probably wouldn’t live to thirty. That didn’t stop her from learning as much as she could, though. This manor had belonged to her parents, and even if they’d died before she could truly know them, she made it a point to know what went on here. And right now, it was clear that something extraordinary was happening.
+
+The doors to the dining hall had remained shut for the past six hours. There were guards stationed around all room entrances, and someone had even placed a silencing ward around the space to stop anyone from listening in. It was all very excessive if you asked her, but her uncle had always been more than a little paranoid.
+
+Daphne narrowed her eyes from where she stood carefully hidden behind a large stone statue of one of the angels of old. This had always been one of her favorite hiding spots since she was a child, and it continued to see use to this very day.
+
+A few weeks ago, they’d received word that the Tavrell Empire was ramping up their efforts on the border. The empire had struggled to cross the Spine for over a year now, and while they hadn’t heard anything to indicate that that might change, the increase in activity alone was enough to get people nervous. Everyone knew that the second the empire’s armies made it past the mountains, it was over for them. It didn’t matter how well trained their soldiers were—they wouldn’t last against the empire’s sheer might.
+
+Magrath’s position on the eastern border of the country meant they were as far removed from the war as possible, but that hardly mattered in the grand scheme of things. It certainly didn’t mean anything to her uncle, who was probably more worried about the war than nobles actually living near the front. He was constantly out trying to find mages and magical artifacts that could boost the manor’s defenses, and the fact that he’d been extra nervous lately was Daphne’s first hint that something was seriously wrong. The six-hour long meeting really just compounded that.
+
+The doors still hadn’t moved, so Daphne decided to initiate plan A. She rose from behind the statue and raised the tray she’d grabbed from the kitchen on the way here. Carefully balancing the cups of water, she tossed her hair back, smoothed out any wrinkles that might’ve appeared in her dress while she was crouching, and strode confidently forward towards the closed dining hall doors.
+
+Only to be immediately stopped by a guard stepping in front of her.
+
+“Lady Daphne, you should be resting.” The man’s voice sounded worried. Daphne mentally cursed, but she smiled widely at the guard.
+
+“Thank you for the concern, Harris, but I couldn’t sleep.” She furrowed her brows, eyeing the closed dining hall doors. “They’ve been inside for such a long time now. I thought it might be nice to bring them some drinks.” She raised the tray a little higher for emphasis.
+
+“I’d be happy to deliver the drinks for you,” Harris said in that oh-so-chivalrous way of his. The unfortunate thing about the guards (well, most of them at least) being generally kind, decent people was that she couldn’t even get angry at them when they followed her uncle’s orders. They really did mean well.
+
+“Ah, that’s very kind of you, but I don’t mind doing it myself.” She chuckled and brushed a stray strand of hair behind her ear. “I haven’t seen Uncle and Edmund all day.”
+
+Harris frowned and exchanged a look with the other guard stationed at the door, another one who fit into the category of “nice but also completely unwilling to disobey direct orders.” The guard cleared his throat.
+
+“I’m sorry, Lady Daphne, but we’re under strict orders not to let anyone inside.”
+
+She frowned and pouted a little. “Not even me?” she tried, but she already knew it was a lost cause. Harris carefully took the tray with an apologetic look on his face.
+
+“I’ll be sure to let them know you’re worried about them,” he said.
+
+Hiding her disappointment, Daphne nodded and wished the two guards a good night before turning and heading back down the hallway. She didn’t actually go back to her room, though. Instead, she circled around to one of the hallways that bordered the dining hall but didn’t include any doors for guards to stand by. Plan A hadn’t worked, but honestly it had been a bit of a long shot to begin with. That meant it was time for plan B.
+
+After first double-checking to make sure that the coast was clear, Daphne took a deep breath and closed her eyes. She focused on the wall in front of her, honing in on the subtle movement of ichor in the air until she had a clear mental image of the sound ward draped across the room. It was thick, completely encasing the space with no obvious gaps or weaknesses. She clicked her tongue. She recognized the magic signature as Edmund’s, which wasn’t a surprise. Her cousin had always been very detail-oriented when it came to wards. No matter.
+
+Still focusing on the spell, Daphne brought her hands up and clasped them together. She raised her index fingers and pressed them together in front of her, pointing them at the wall. Her brows furrowed as she muttered under her breath. Though she couldn’t see anything, she could feel a wave of warmth flow through her body as she pulled in strands of ichor, weaving and guiding the threads down into the tip of her index fingers.
+
+At the end of her chant, a tiny, dense ball of red light shot forward, slamming into the wall before disappearing in a spray of scattered sparks. It was a small, precise spell, the kind that would open up a single hole in the ward without breaking the whole thing and alerting the people inside.
+
+Daphne immediately pressed her ear to the wall. She had to shift around a few times to get to the right spot, but finally, when she moved just so, she heard it.
+
+Voices.
+
+She waited a moment, both to see if anyone would notice the new gap in the magic ward and to see if that old, familiar pain would rise in her chest this time. The hallway remained silent. She felt fine as a feather.
+
+Daphne grinned to herself and leaned closer to listen in.
+
+They stopped about fifteen minutes outside of Magrath. According to Callan, they were far enough away from any major roads that they should theoretically be out of sight, but it was also a much more populated area in general. If anyone saw them, then their plan was pretty much a no go. The city would be much better equipped to track and hunt down a demon than Winrow had been.
+
+By then, it was already night, so it was unlikely for too many people to be outside in the first place. Better safe than sorry though, as they said, and Pyre wasn’t in a particular rush to see the city. She’d get a good look at it when she eventually stepped inside after Callan located the horn. Until then, she was content to sit back and let the ghost gather whatever information he could find first.
+
+“So it’s black, curled like a ram’s horns, and used to belong to Tivona,” Callan was reciting.
+
+“I seriously doubt any records’re gonna include her name. They’ll probably just say it’s from a demon or an envy fiend if they’re being extra specific. You said it’ll be expensive as hell, too, so I’d start with the fanciest stores you can find.”
+
+Callan nodded in agreement. He hadn’t stopped hover-pacing since they’d “set up camp,” which really just meant Pyre plopping her bag down when they reached what looked like an isolated part of the woods. There was a dense overgrowth to one side, so she only had to watch one direction at a time, and a large boulder marked the location so they wouldn’t forget it. It was all the demon needed for a “camp.”
+
+“You’re fine heading in now?” Pyre said, raising an eyebrow. “No leftover lightning wounds?”
+
+Callan shook his head and smiled wryly. “Like you said, it’s best to get rid of the curse as soon as possible.” That, and the demon suspected he was also eager to see a proper city for the first time. He’d been practically vibrating with excitement the closer they’d gotten to Magrath.
+
+The ghost closed his eyes, focusing. His body shimmered for a second. Then, in the blink of an eye, he was once again standing in full, solid color. Callan nodded at the demon. “I’ll be back by morning. Until then, please try not to be seen,” he said.
+
+Pyre formed an appendage just so she could give a mock salute. The ghost rolled his eyes, but smiled even as he turned to begin making his way towards the city. Soon, he disappeared into the shadows of the trees, melting into the forest.
+
+The demon was now alone with several hours of time to kill, and she already had some ideas on how to spend it.
+
+The first thing she did was activate [Slothful Field]. She hadn’t had a chance to use it against Tivona thanks to the fiend’s main mode of attack being magic, and she was pretty confident that it would take more than 24 hours for them to find the horn. Magrath was big—that much was obvious even from far away—and Callan could only look in so many places before his abilities ran out. Right now was the perfect time to try and figure out how big the current range on [Slothful Field] was.
+
+The moment Pyre used the skill, the air around her seemed to warp. In a flash, the space circling her turned monochrome, as if all the colors had been drained away. Pyre shifted forward, and the sphere of grey followed her. Huh. This must be the field’s range.
+
+As she’d thought, it wasn’t very big right now. Maybe five feet all around her, if that. It would grow larger with more levels, though, but Pyre did also wonder if the field itself was visible to everyone or just her. If everyone could see it, then it would be harder to catch people off guard with the skill since most reasonable people would see a monochromatic sphere and not want to go in. She supposed she’d learn when she actually used the field in a fight, or she could ask Callan if they still hadn’t found the horn by the time the cooldown was done. Whichever came first.
+
+Experimentally, Pyre attempted to activate another skill. Just like the description had said, she couldn’t. When she focused, she found she could forcibly shut the field off before its full duration was up. If she was ever in a situation where she really needed to activate a skill and she’d used [Slothful Field], that could be a last ditch option. It seemed like it still took the full cooldown to recharge, though, even when the duration was cut short. Kind of annoying, but understandable.
+
+The demon would’ve liked to test [Slothful Time], too, but that one required her to actually be targeted by a ranged attack. Unless there were rock-throwing monkeys or something in the forest, that would probably be kind of hard to manage right now. She filed the skill away for another day.
+
+Instead, the demon directed her attention to another ability of hers. She’d fully healed since crossing the Pale River, but she hadn’t gotten another [Regeneration] level yet. Pyre squinted at the trait’s description just to make sure she wasn’t missing anything. It was in her best interest to level the trait as much as possible, and, well, there was one clear way to do that.
+
+First, she shifted around her eyes to make sure she could see anything that approached. Next, the demon stretched out one end of her body and curled it around to the front. She then grew a bone and proceeded to stab it into the flesh.
+
+It didn’t hurt very much, to be honest. The cut barely registered. Pyre had already suspected that she had a fairly high pain tolerance, but she’d encountered enough genuinely painful stuff so far (mostly the Great Fall, the chimera, and Tivona) to keep it a little vague. This proved that she really did just have a high tolerance in general. Whether that was a demon trait, unique to her, or a relic from her past life, she didn’t know, but it was useful for her current purposes.
+
+That being to level [Regeneration] as much as possible by the time the sun came up.
+
+In front of her, the stabbed end of her body quivered. She yanked the bone out, revealing a hole piercing straight through the thin bit of flesh. The flayed edges of the wound vibrated, and in front of her eyes, they began to stretch like threads stitching around the hole, slowly filling it. It was rather interesting to watch. Most of the time [Regeneration] was busy healing larger wounds that took too long for her to actively see them close like this.
+
+And so, when the cut in her flesh was fully healed, Pyre repeated the process with single-minded focus, only stopping to cycle through a few skill activations when their respective cooldowns were done. Might as well try and get some more skill levels too while she was at it, she thought.
+
+All in all, the demon thought it was a very productive night.

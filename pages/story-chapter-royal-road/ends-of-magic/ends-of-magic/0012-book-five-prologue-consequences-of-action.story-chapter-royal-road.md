@@ -1,0 +1,147 @@
+---
+id: a0ab3a6c-a607-54a2-a2ba-1f8612afadac
+page-type-slug: story-chapter-royal-road
+title: "Book Five Prologue: Consequences of Action"
+slug: 0012-book-five-prologue-consequences-of-action
+partOf: ends-of-magic
+position: 12
+ownLength: 2683
+unit: words
+ownProgress: 2683
+publishedAt: 2024-05-23
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1647692/book-five-prologue-consequences-of-action"
+royalRoadId: "1647692"
+markedReadAt: "2026-06-29T20:07:39.224Z"
+---
+
+The skyline of Esebus was gorgeous at night. Towers of crystal and magic pierced the sky, and people soared through the air on wings of bronze and chrome. The night was overcast, but the light of the city illuminated the clouds from below.
+
+Badud stared over the skyline moodily, watching a patrol of city guardians swoop high above. They were carried by constructs that would be better described as battlesuits than simple wings, and he considered blasting them from the sky to make a point. The Questor started absently crafting the necessary spell construct, not really intending to go through with it.
+
+But then he winced, the mana starting to unspool from the tight weave he’d been shaping. He gritted his teeth through the sudden headache, hurriedly banishing the failing spell before it could blow apart the rooftop terrace where he stood.
+
+It wasn’t even a Questor that did this. But my revenge was thorough, even if it was expensive.
+
+In a detached sort of way, Badud knew that the damage to his spellcasting wasn’t that bad. He could still cast any spell he knew. But without the automagic every spell would be slower and require more concentration. He wouldn’t naturally enhance every spell with wizardry. The guidance wouldn’t be automatic. And… Badud shook his head, stopping himself from reciting the litany of ways in which Nathan Lark had damaged his magical capabilities. The balcony railing creaked under his grip, and he forced himself to release it and clasp his hands behind his back. His gridmates would be here soon, and he needed to appear calm and collected before them.
+
+Even if it’s an obvious lie, given the deals I have made.
+
+As if summoned by the thought, Sussu levitated over the balcony. The stick-like woman appeared entirely androgynous, and her bare feet delicately cleared the railing before landing gently on the artful stonework of the terrace. She looked at Badud for a moment in bland examination.
+
+“It is a shame, that the project of Giantsrest is ended.” Sussu’s voice was level and dry, and it was only through long familiarity that Badud could detect the derision laced throughout her words.
+
+He frowned and returned her gaze flatly, not giving her the satisfaction of defending himself. “It is. Let us wait until the others arrive for the full description of the events.”
+
+Sussu nodded faintly, then clapped her hands twice. With each clap, another Questor appeared on the balcony.
+
+The first was a large and well-muscled man in loose and flowing robes. He’d teleported in sitting atop a chaise lounge, and was munching from a bowl of fruits. A wide-bladed scimitar leaned against the side of the couch, within easy reach.
+
+“Amoh.” Badud said in greeting before he turned to the other new arrival, his gaze narrowing at the gaunt man. “Ogarius.”
+
+They coordinated arriving like this. Hoping to catch me in the middle of defending myself to Sussu, and make me repeat myself.
+
+The last Questor was standing casually, wearing a hooded robe and holding a plain staff that had been the walking stick of a god. Some kind of skill concealed his face, exposing only the hint of a goatee and a satisfied smile. His voice was calm and smooth, like pouring oil. “Badud, it has truly been an age. Tell us of how Giantsrest fell while you were present.”
+
+Badud smoothed his expression, running his mind through the story he meant to tell. It galled him to make excuses, but he had to explain what had happened - and justify his response to it. “Several months ago, I decided it was time to tier up Giantsrest. I showed myself occasionally to give lessons and dispense appropriate Insights, but it was my desire to give them true advancement. I finished annihilating that blight up in Quilbor, the one that you allowed in, Amoh.” He turned his attention to the reclining man.
+
+Amoh shrugged blandly. “Edes as a witness, they were trained and motivated. Their failure is their own fate.”
+
+Neither Sussu nor Ogarius diverted their attention from Badud and he sighed, aware his attempt to divert attention had failed. He resumed his story. “I intended to teach them more magic and drive the expansion of Giantsrest over the continent. One of the mages there was skilled with dimensional magic, and I was attempting to usher him towards [Mass Teleport], and make that a common Insight of Giantsrest. Then they would have been able to ambush their enemies at will, quickly conquering the escaped slaves to the west. I expected it to draw in Brox, but he’s closer to a lizard than a dragon.”
+
+“What happened instead?” Sussu asked, cocking her head in a birdlike fashion.
+
+Badud twisted his mouth in annoyance. “The dimensional mage was a fool. He derived some Insight into summoning magic, and managed to pull in an outsider, from the external universe.”
+
+The others reacted with varying degrees of surprise, with Amoh freezing mid-chew while Sussu frowned slightly and Ogarius’s hidden face gave the impression of a cocked eyebrow.
+
+Badud waved his hands to dispel some of the suspense. “Not from anywhere important. Pre-orbitals, but he had an anti-magic Insight and my student was obsessed with even basic technological Insights. I set them against each other, thinking it a way to develop my student and grant Giantsrest deniable technological Insights. Think of that bounty, if Giantsrest could have developed their magic with even basic scientific Insights.”
+
+Ogarius’ voice emerged again, tinged with a faint hint of disapproval. “Antimagic Insights are a plague. You should have scrubbed this outsider before it could spread.”
+
+Sussu replied quickly, before Badud had a chance. “The downsides of antimagic make it a curse of Quenfi. It either denies all supporting magic and equipment, or is weakened to uselessness. Situationally useful, but without the capability for true power.” She tilted a hand towards Badud, indicating he should resume.
+
+He sighed again. “This outsider has a supporting build for it. One of the most monstrous self-healing Talents I have ever seen and Talent-enabled flight. A second class, focused on mundane stealth and disguise.”
+
+Amoh spat out a seed and regarded his colleagues in disgust. “Regard your history, and appreciate the pre-orbital Insights. Before the abstraction to smart systems, people need to understand the world, to change it with their own hands. I put godly treasures on the balance that this outsider has used his own hands to dissect or transmute people, before Davrar took him. Such worlds always resort to barbarism, and such things create strong Insights.” He regarded Badud with a glare. “What is his name? If his light is bright enough to scorch you, then we can’t refer to him as ‘outsider.’”
+
+“Nathan Lark.” Badud said with a frown. “His build countered Giantsrest - and me. My student was dead days after I set them up as rivals, and when I gathered an army to crush him, Brox was there. He knew Nathan’s potential, and sacrificed himself to protect the antimage. I was forced to retreat.”
+
+With a blade of oblivion in my gut. Brox had some counter to [Reverse Time], to preserve memory through the spell.
+
+Badud shrugged. “By the time I found him again, he had developed his antimagic at least three tiers above Unique, and I have never fought or heard of an antimage of such potency. He broke wizardry and survived my [Last Arrows of Olita].”
+
+Now all of the other Questors were glaring at Badud. “You used your [Last Arrows of Olita]?” Sussu said judgmentally, with a tinge of disbelief.
+
+“And this Nathan survived it.” Amoh said, his eyebrows drawn into a worried V. “If his antimagic is that powerful, he can teach it. With such a demonstration, many will learn it. That will be a blight on the future if we do not suppress it."
+
+Badud chewed his lip. “I made a deal. The Ending of History will come early to the Giantsrest continent.” He corrected himself. “The continent where Giantsrest once stood.”
+
+Sussu focused on Badud with laser-like focus. “That would be negotiated with Sarya’s grid, as the others who have claims there. What price?”
+
+“We withdraw from three continents of their choosing. And some personal promises from me to stay away from their aims.” Badud said tightly.
+
+Sussu’s lips pressed together, and Amoh made a disgusted noise. Ogarius’s lips worked, barely visible inside his hood. “You - you promised what?”
+
+Badud didn’t reply. They’d heard him well enough. They just had difficulty accepting it.
+
+Ogarius’s expression calmed after a moment. “This is not a problem fit for an Ending. It is like killing a rat with an [Annihilation bolt]! Sarya will demand I give up Estefar, and on the crux of my victory over Garna!”
+
+The hooded man was visibly fuming, stalking back and forth, eyes distant as they gazed over the ruin of decades of planning and plotting. Then he spun back to Badud, stabbing a finger towards the other Questor as his voice grew shrill. “You owe two dozen years of favor for this promise! To me!” The gaunt man kept pacing, whispering under his breath. “Naval routes are a loophole. Strike across the board. Bring in mercenaries, grant concessions instead of treasure, deniable leverage…”
+
+Amoh flicked his wrist to draw their attention. “If they decree I need to leave any of my investments, I will also claim two dozen years.” His mouth twisted disdainfully. “You should have sent [Assassins]. I have my Seminary, and you know Ogarius has his cells. An Ending is overkill.”
+
+Sussu’s head was bowed, but she looked up. “Send them anyways. With wealth to bribe. Kill this Nathan Lark before he leaves the continent. If Brox protected him, then he is important to our rivals. I would deny Sarya such an agent.”
+
+Ogarius thought about it. “I will send a cell to Litcliff. It seems a better point of origin than Agmon. They will eliminate Nathan Lark and his allies, and scout for the spread of the antimagic Insight.” He nodded decisively.
+
+“Send more.” Badud said, grumpy with the plans being made without his input. “Nathan has an assassin class, inherited from the tradition of the escaped slaves. He has levelled by slaughtering the mages of Giantsrest. He will not be simple prey.”
+
+“Good. I will send the most promising students. Nothing sharpens assassins like slaying other assassins. Blades in the dark are the sharpest.” Ogarius replied with a lazy smile.
+
+“That truth holds to both sides.” Sussu said, turning between them. “Nathan Lark may learn from your assasins, just as you hope to learn from him. I have a trader-agent in the area, and will send them to make arrangements with the peers of Litcliff. He will only find enemies there. What if they should go to Agmon?”
+
+Badud shook his head. "Gemore and Agmon are at war. Some of the treeborn tribes can be bribed to ensure that conflict flares hot. They will not seek safety in Agmon. They will go to Litcliff."
+
+"Ugh. Treeborn." Amoh said, then gestured with a piece of fruit. “Regardless, the smaller matter is dealt with. We should discuss the larger. How will this change grid politics?”
+
+“Losing three continents of their choice is a blow, but not a fatal one.” Sussu said, glancing around to see the reactions to her words. “It may even allow us to petition the Aleph grid for aid. They see us as better allies than Sarya.”
+
+“They might have even forgotten what I did.” Amoh said with a chuckle. “It was the Ending of Monsters, after all. Quite some time ago."
+
+Ogarius stroked his goatee thoughtfully. “The Alephs are too large to move quickly. We would be better off drawing in an independent Questor. Are there any new Questors we could tempt to join us, with lands to claim and battles to fight?”
+
+Badud kept silent, though he stewed internally. He’d always been opposed to involving the larger Grids in their struggle, or trying to bring new Questors into the sector. He liked how few Questors there were in this corner of Davrar. He wanted to be lord of all he surveyed, not merely one champion of many. But he wasn’t in a position to make that case now. Sussu had framed bringing in other Questors as a way to solve the problem, and Badud could feel the scales tipping against him.
+
+“I would accept bringing in one new member to our grid,” he said begrudgingly. “I will handle half of the recruitment cost, but there must be conditions. Our grid was formed to create new societies made possible with magic, and any addition must share that goal and have the ability to contribute.”
+
+Ogarius nodded thoughtfully. “Yes, I would rather share the credit of our demonstrations with a fifth than muddy the waters with a larger Grid. I will reach out to some like-minded members of my own batch to determine their interest.”
+
+Sussu seized the moment of accord quickly. “Then it is agreed. We will bring in another Questor to push back against Sarya’s claims. Do we whet the new Questor against the blight, or against one of Brox’s holdings?”
+
+“Send them towards Brox.” Badud said quickly. “He is a good opponent to learn how Questors fight.”
+
+“Shall we share our next plans?” Ogarius said, eyes evaluating the other Questors.
+
+Amoh shook his head. “I will not justify myself.”
+
+Ogarius nodded. “Very well. Good luck, and create something new.” He blipped away without a single indication of spellwork.
+
+Badud relaxed internally. He’d been worried that they’d all discuss their future plans, which he wasn’t interested in. He meant to take it easy for the next few decades - or centuries - as he rebuilt his spellcasting abilities. This way, he wouldn’t have to figure out a way to justify those actions to his compatriots.
+
+Though I should probably be worried why Amoh was so dismissive of the idea. What’s he up to?
+
+It wasn’t worth worrying about. With his duty discharged, Badud transported himself to one of his designated travel points. With barely a flicker he appeared in a large and well-appointed study, lit by a bluish light spilling through the window that dominated one wall. He spent a minute looking out over the underground city of Sangrad. Buildings spread out over every surface of the massive cave, the tallest structures clustered around the pillars of massive crystal that glowed with purple light. His vantage point was high above every other building, the Seal Fortress stretching upwards towards the opening in the roof of the cavern high above.
+
+He sat in the chair delicately, though his aches weren’t physical in any sense. Eventually, he reached for an enchanted bell sitting near his elbow. It rang without sound, and seconds later the door slid open to admit a formally-dressed woman who bowed deeply.
+
+“Archlord Badud. What is your will?”
+
+“The annual reports of the triumvirate for the last decade, as well as the records of the artifice guild auctions.” The woman nodded her understanding and turned to leave, but Badud raised a hand. “Wait. And the list of state assets with deep ocean capabilities. Mercenaries preferred. I don’t need that list immediately. Make it thorough.”
+
+The woman left with her amended instructions, and Badud laced his fingers together as he awaited the papers that would let him catch up on what had happened in Sangrad since his last visit.
+
+If Nathan slips through Sussu’s trap, then he’ll be vulnerable at sea. I’m never going to get within a hundred miles of that boy again, but if we destroy his ship, then he won’t be able to survive the deep ocean.
+
+It was only a few minutes before the woman returned with several folders of reports, and Badud licked a finger before diving in. There were more efficient methods of organization and data storage than paper, but he loved the feeling of control that came from manipulating an empire through such basic physical means.
+
+It was one of the reasons that Davrar was worth it.

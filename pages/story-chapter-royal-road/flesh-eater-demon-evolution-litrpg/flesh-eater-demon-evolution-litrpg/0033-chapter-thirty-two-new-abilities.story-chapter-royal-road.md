@@ -1,0 +1,123 @@
+---
+id: d7d3376d-9b39-5939-afde-2953850a1c95
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-Two: New Abilities"
+slug: 0033-chapter-thirty-two-new-abilities
+partOf: flesh-eater-demon-evolution-litrpg
+position: 33
+ownLength: 2678
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2697277/chapter-thirty-two-new-abilities"
+royalRoadId: "2697277"
+---
+
+Pyre focused on the metric shit-ton of notifications she’d gotten, slowly reading through them all one at a time now that the mark issue had been (somewhat) dealt with. For now.
+
+The first thing she noted was Tivona’s level. It looked like she’d been at the max for her first species evolution, assuming her threshold was also level 30. The memory of the envy fiend and that hellhound rose to the front of her mind. Apparently Tivona had simply never bothered to find a crystal to evolve with, which was probably good for them. They probably wouldn’t have been able to beat her if she’d gone through with her second evolution.
+
+Three traits had levelled, which was nice—especially [Regeneration]. At this point, Pyre was seriously considering purposely injuring herself a few times to see if that would make [Regeneration] level faster. To be fair, it was gaining levels decently quickly already, but if she could get it even higher, that would be great. Something for her to think more about in the future, she supposed.
+
+Thanks to the level gap, Pyre had gotten even more levels from Tivona than the chimera. Really, she was just happy the system counted her as having devoured Tivona in the first place; apparently she’d eaten just enough of her flesh before she’d self-exploded to still reap the rewards. Now that she was level 20, she only had 10 more levels to go before she hit the threshold for her second evolution.
+
+Pyre decided to save her points to distribute at the very end. Instead, she moved on to the new skill she’d gotten, mentally pulling up its description.
+
+Skill: Basic Slothful Time Level 1Once activated, the next ranged attack targeting the user that enters a range equal to a sphere with X radius around the user is slowed down. X = this traits level x 1 foot. Slowdown only begins once the attack has crossed into the defined range. The degree to which the attack is slowed down increases with this skill’s level. Attacks that do not physically enter the space around the user and melee attacks are unaffected by this skill.Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 24 hours. Cooldown decreases with skill level.
+
+Pyre’s eyebrows rose. Huh, another 24 hour cooldown skill that seemed like it would get more and more busted the higher level it got. Unlike [Slothful Field], though, this one was specific to ranged strikes, and it sounded like it would work with magic spells, too. It was a good defense against sudden surprise attacks, essentially giving her more time to react, which was quite good considering her agility wasn’t the greatest. The fact that it could only be used once per day meant she’d have to be selective about when to activate the skill, though. It would’ve been nice to have against Tivona—slowing down even one of those lightning bolts could’ve saved her some pain—but at least she had it now.
+
+Before moving on, the demon noticed that she’d now reached the maximum number of species skills currently allowed, if her stat sheet was to be believed. She still had 10 levels to go before her second evolution, though, which was probably when she’d get more skill slots. Maybe the “pause” in new species skills was to give her current ones a chance to level? She still had room for more class skills, at least, so it wasn’t like she’d get nothing these next 10 levels. Still, it was an interesting quirk of the system.
+
+Speaking of class skills, the demon continued on to her class-related notifications. She’d reached the Tier 2 class threshold surprisingly quickly—not that she was complaining. [Warrior] had been referred to as a base class, after all, so it made sense that it wasn’t supposed to last very long.
+
+Pyre pulled up the descriptions for her new class skill options, reading through them all one at a time.
+
+Class Skill: Basic CounterIf user activates this skill and a melee physical attack hits the user within a time frame equal to this skill’s level x 10 seconds, inflicts damage on the attacker equal to X% of the triggering attack’s total damage dealt to user. X = this skill’s level x 10. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 4 hours. Cooldown decreases with skill level.
+
+This skill had a nice “fuck you” energy to it that Pyre liked. 10% wasn’t a lot, but it would go up with more levels. Once it reached level 10, the attacker would have the full force of their own attack thrown right back at their faces.
+
+Granted, the skill didn’t seem to do anything to reduce the amount of damage Pyre herself took. It kind of reminded her of [Impact Absorption], except its effects were immediate and it didn’t have [Impact Absorption]’s defensive properties. Her first thought was to stack them, but the system had already confirmed that species skills took priority over class ones. [Impact Absorption] would actively worsen [Counter]’s output by reducing damage. It could still work as its own thing when [Impact Absorption] was on cooldown, though.
+
+Her high defenses in general might make this skill not as useful as it would be for someone who regularly took more damage from attacks, but it wasn’t like she didn’t still get hit with some nasty blows. She would’ve loved to throw 10% of the chimera’s bite back at it.
+
+For now, she moved on to the next skill description. It’d be easier to judge each skill’s usefulness after she’d read them all.
+
+Class Skill: Basic Piercing StrikeAfter activating this skill, the user’s next attack has additional piercing properties against armored foes. The skill’s effectiveness increases with level. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 4 hours. Cooldown decreases with skill level.
+
+Well, that was an almost refreshingly short description. It did leave a lot of questions, though, namely about what was considered “armored.” She was guessing actual, physically worn armor counted, but would bone armor count? What about exoskeletons, since those were sort of armor-like? It was too vague to tell, and frankly the skill in general seemed a little more niche than Pyre would like. Still, she read on to the last option.
+
+Class Skill: Basic AggravateAfter activating this skill, user can select a number of targets equal to this skill’s level who are within view of the user. These targets will feel heightened aggression towards the user for a duration equal to this skill’s level x 1 minute. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+This skill had the benefit of having the funniest name of the batch.
+
+At a glance, Pyre couldn’t tell why exactly she’d want to make people more angry at her, but then she remembered that [Savior] skill option she’d gotten some time ago. This, she guessed, was another skill that worked best in groups or parties since it would help her draw attacks to herself rather than someone else who might have shittier defenses.
+
+That being said, she pretty quickly decided against it for similar reasons to why she hadn’t picked [Savior]. Plus, Pyre was confident in her ability to piss people off without needing a skill to back her up. She’d done it with Tivona just fine.
+
+Now that she’d read through all the descriptions, Pyre was satisfied with selecting [Counter]. Sure, it might not deal as much return damage as it would for someone with worse defenses, but it seemed like a nice option to have up her sleeve. At the very least, she could make someone regret attacking her with a little ‘surprise,’ and its cooldown was honestly short compared to other skills she had. Yep, this was the one.
+
+[You have selected the [Basic Counter] class skill]
+
+Pyre was still set on saving her class change for the end, so she moved on to the subtrait shards she’d gotten. She finally had all the ones needed for [Skeletal Recall], so she applied it and pulled up the description.
+
+Subtrait: Skeletal RecallAllows user to store past skeletons and recreate them from memory without needing to spend the same length of time and focus as the original creation required. The number of skeletons that can be stored in this manner is equal to the main trait’s level / 4. User can replace old stored skeletons with new ones, but the replaced skeletons will lose the benefits of this subtrait.Main Trait: [Ossification]
+
+Pyre’s eyebrows shot up, and she let out a low whistle. Damn, she hadn’t known what to expect from this subtrait when she’d gotten that first shard from the chimera, but it sounded useful as hell. Now she wouldn’t be stuck painstakingly shaping her bones for specific skeletons all the time.
+
+Right now with [Ossification] at level 5, it looked like she could only store 1 skeleton, but that was plenty considering there was only one complex skeleton she’d tried to create so far in the first place. This would make disguising herself infinitely less time consuming. She’d still need to sculpt her flesh, but that was a lot faster than growing a bunch of tiny little bones and joints that were way more complicated than they had any right to be.
+
+The fact that she could “write over” old skeletons was also great. Her first human disguise, for example, had been more than a little fucked up. And while she definitely didn’t regret ignoring a bunch of bones the first time around (who really needed toes, anyway), she should probably build a more accurate skeleton if she was going to be storing it away for future easy access. Assuming the subtrait applied retroactively, she could load up that human disguise, then add some more details and store it away. Pyre made a mental note to test that out first thing once she was done with her class selection.
+
+The other two subtrait shards she’d gotten were far less interesting, though it was nice to finally get another [Far Sight] shard. Tivona, it seemed, had probably had very different main traits from her, and the low amount of subtraits gained reflected that. Or Pyre already had most of the major subtraits available for her traits. Either way, subtrait gain had definitely slowed down since her flesh pit days.
+
+Pyre’s eyes shifted to the last notification in the subtrait section.
+
+[You have gained (2) subtrait slot expansion shards][Use expansion shards?]
+
+Now this was new. Based on the name, she assumed these would let her expand the maximum number of subtraits a main trait could hold. If it didn’t do that, then it had a shitty name.
+
+A quick glance at her traits told her that [Ossification] and [Keratin] had both hit their maximum number of subtraits, with both of them only having 4 slots to begin with. Pyre decided to apply one expansion shard to [Ossification] just to test if her theory was right.
+
+[You have used (1) subtrait slot expansion shard on the [Ossification] trait][[Ossification] subtrait slots: 4 —> 5]
+
+So, apparently each shard only added one more slot—or at least that’s what these ones did. Considering all the useful subtraits she’d gotten from [Ossification] so far, she was happy to increase its slots.
+
+[Keratin] was more iffy. Did she actually need more space on it? Right now the only subtrait shards she had that might be applied to [Keratin] were [Scales], and that just didn’t seem worth it, especially when she didn’t know when she’d get more expansion shards.
+
+Pyre decided to save that last shard. If she got a cool subtrait at some point that looked like it was going to be applied to a filled trait, she’d use it then. No reason to make guesses now if she didn’t have to.
+
+Finally, the demon moved on to the last lingering notification before she could get started with her class change.
+
+Title: Conquering Sin: EnvyYou have slain an envy fiend, conquering the sin.You are less susceptible to transmutation spells.
+
+Speaking of abilities that would’ve been nice to have before fighting Tivona, Pyre thought in amusement. Oh well, it was still a good gain. She took special note of that “Conquering Sin” prefix. She was willing to bet there was a whole set of titles like this for each sin. Hell, there might even be a bonus if she got all seven. Awfully nice of the system to indirectly encourage her to kill her fellow fiends. If she’d had any moral qualms about it, she would be feeling pretty relieved right now, but she hadn’t in the first place so it was just funny instead.
+
+Done reading, Pyre willed away the title screen, leaving just her remaining points and the class quest notification. Now that there wasn’t so much stuff clouding her vision, she gave their surroundings another sweep.
+
+Outside, it looked like it had finally started raining. The wind howled, raindrops beating against the mountains in an aggressive downpour that threatened to overpower the sound of rumbling thunder. The tunnel, meanwhile, was still empty save for the two of them, and Pyre reached into her bag to pull out the remaining two class crystals she’d bought. They looked exactly the same as that first one, still suspiciously plain, but she already knew they were legit.
+
+The demon’s gaze landed on Callan, who’d taken post against the opposite tunnel wall. He was muttering under his breath, eyes moving back and forth as he presumably scanned his own notifications.
+
+Apparently Callan had a lot more notifications to deal with—possible, given he was a lower level and would’ve gotten even more experience from Tivona than she had—or he was just infinitely slower at decision-making. Either way, it took another few minutes before his muttering finally stopped.
+
+Pyre raised an eyebrow and held up the two class crystals.
+
+“You need one?” Last she’d checked, the ghost had only needed one more mage shard to get his base class, and Tivona had sure looked like a mage. Callan blinked a few times.
+
+“Uh, you don’t mind me using a crystal?”
+
+“Nah, I can always buy more.” It was easy to buy things when you weren’t using your own money. “Besides, seeing as you’re responsible for magic stuff, it’ll probably help if you’ve got a proper [Mage] class to go along with it.”
+
+Pax’s words hadn’t been wrong, however off the cuff they’d been. Pyre’s inability to use magic was her current biggest weakness, so it’d be for the best if at least one of them had stronger magic. Callan’s offensive spells weren’t the most amazing things in the world—seeing the shit Tivona could do in comparison had shown her that—but he seemed to know his stuff and was resourceful. Better a nerdy mage who could use plants to figure out what tunnel to take than zero magic at all.
+
+The ghost nodded slowly, and Pyre promptly threw one of the crystals at him. She had a brief moment to consider if he could actually touch one, being incorporeal and all, but he scrambled forward and managed to catch it in his hands. Neat. Class crystals could, in fact, be touched by incorporeal things.
+
+Callan sighed in relief and clutched the crystal securely against his chest, sending the demon an unimpressed look. Pyre just grinned and raised her own crystal in a toasting motion. The ghost shook his head, but he did the same with a small smile.
+
+The demon concentrated. Soon, the surface of the crystal began to glow silver like it had during her base class selection. Then, all at once, it disappeared.
+
+Class Quest: Unlock Tier 2 ClassMeet the requirements to unlock a Tier 2 class. You must achieve a class level of 10 and possess a class crystal to advance into a Tier 2 class.Reward: Experience, 10 points, Tier 2 class gained
+
+[Class Quest: Unlock Tier 2 Class completed!][Would you like to accept rewards?]
+
+Pyre mentally selected yes.

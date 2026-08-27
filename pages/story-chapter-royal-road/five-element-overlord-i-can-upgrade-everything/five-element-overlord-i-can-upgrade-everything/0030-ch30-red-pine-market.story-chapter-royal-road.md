@@ -1,0 +1,177 @@
+---
+id: 611281ab-e9df-5ac1-93f3-787baa599af8
+page-type-slug: story-chapter-royal-road
+title: "Ch30 Red Pine Market"
+slug: 0030-ch30-red-pine-market
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 30
+ownLength: 2098
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3258307/ch30-red-pine-market"
+royalRoadId: "3258307"
+---
+
+“One Medium Quality 1st Tier Verdant Steel Flying Sword for sale! Only 100 spirit stones!”
+
+“Low Quality Healing elixirs, 8 spirit stones each!”
+
+“A vial of 10 qi gathering pills, all low quality! Only 24 spirit stones! This offer ends soon!”
+
+The sound of salesmen fills my ears.
+
+It makes me smile, bringing me right back to my previous life. This is the sweet sound of unrestricted commerce.
+
+There seem to be three kinds of sellers in this market.
+
+The first, and most common, are the cultivators that set a blanket on the ground and scatter items all over it.
+
+This is where even common goods like servant dried food rations, fasting pills, and tools like axes and shovels are being sold. There are a few that even have signs up exchanging spirit stones for spirit fragments, marking up the price to make a few extra fragments on the side with each trade.
+
+The second type of seller at least has a table or wooden stall set up.
+
+Over half of these are in green robes with the Azure Cloud Sect logo on them, others seem to be rogue cultivators with cultivation levels ranging from the 2nd to 6th level of qi refinement.
+
+This is the largest collection of cultivators I’ve ever seen. Pretty much every single passerby is stronger than me.
+
+It is slightly unnerving, as the sharpness of some auras is overwhelming. If I accidentally walk too close, I can feel my skin prickle with sharp needles. Quickly, I adapt and become aware of how to walk through these small roads in between stalls.
+
+There has to be almost a thousand people here.
+
+Every few seconds, I watch transactions of spirit stones in the dozens, and sometimes even in the hundreds, be exchanged.
+
+While it is intimidating to be around all of these powerful cultivators, it is eye-opening.
+
+All of the pills being sold in stalls are extremely high quality.
+
+Even the ones marked as Low Quality; they are round, and not discolored at all…
+
+My standard of pills was certainly set low. Yet, even at the cheapest shop, the most qi gathering pills I could buy today would be about 20.
+
+After giving stones to Xu Hong, and using a few myself cultivating, the total in my storage sits at 47. This is nowhere near enough to fix my dwindling resource problem.
+
+It felt like a lot before coming here, but quickly I realize the depth of the levels to this cultivation world.
+
+“I’ll take it! 450 spirit stones for a set of high quality 1st Tier daggers like this is a steal!”
+
+I turn my head when I hear these words a few stalls away, and zero in on the shiny silver daggers being purchased by a 7th level qi refiner.
+
+He is purchasing from an enormous stall. It reads ‘Mu Family General Store’ on the banner above it.
+
+This is the 3rd and final type of seller at this market. At the end of every line of stalls, there are bigger setups that look like semi-permanent storefronts.
+
+I’ve seen a few set up by the Azure Cloud Sect, but it appears half of them are also rented out to cultivation families that live nearby. Some of them are co-owned it seems, as green-robed disciples work in Clan-run storefronts too.
+
+I look at all of the absurd prices for everything in this market and finally let out a sigh.
+
+While I could scrape by with the bare minimum spirit stones I have on me, I want to take advantage of this market to its fullest…
+
+Without hesitating any further, I walk up to the young woman that just sold that dagger set.
+
+“Excuse me miss, do you only sell? Or would your Mu Family be interested in purchasing items too?”
+
+A pair of brown eyes lock with mine, but quickly dart away like she is distracted, thinking of something else entirely. She still puts on a friendly smile. “That depends, what is it you’re trying to sell?”
+
+I pull out a steward’s storage pouch and place nothing but the silver and white dagger that was upgraded from a rusty butter knife inside.
+
+“Feel free to break the imprint, but don’t take it out. Just take a look inside and tell me if you want it.”
+
+The woman’s eyes show a glimmer of interest, and she carefully takes it from me.
+
+A series of notifications echo in my mind at the same time.
+
+[Automatic Inspect Function Activated…][Mu Shulan] [Age: 24][6th Level Qi Refiner][Mutated Wood, Earth, and Water Spiritual Roots][4th Grade][No Innate Physique][Has been thinking about running away from the Mu family, but is too indecisive to follow through. Her fiancé, Wang Ming, is not living up to the high standards of the Mu Family and their marriage will soon be delayed again.]
+
+“This… is a perfect-grade 1st Tier spiritual dagger. It appears it’s been used in battle a few times, but there is virtually no damage. It’s not every day I see one of these… How about 500 spirit stones?” she replies after a moment of pause with her mouth open.
+
+I raise an eyebrow and try to look around her shop for examples of prices for similar items, but the closest thing is a high-grade longsword for 350 spirit stones on the back wall.
+
+Most of the medium-grade items are between 100 and 200, while the low-grade weapons range from 50 to 100 stones.
+
+“I was looking for closer to a thousand.” I throw out a high offer, hoping to barter for an even better price than 500 stones.
+
+“Deal,” she replies, and starts shifting her hands under the counter before I can even get another word in.
+
+My mouth is still wide open, as I realize maybe there’s a reason she doesn't own even a single perfect-grade item in this whole shop.
+
+I see a flash of guilt wash across her face, so I decide to negotiate more instead of taking my offer back.
+
+“-And… how about you throw in a bow and arrows with it too.” I point to a sleek black bow hanging on a side wall, and a bucket of arrows below it.
+
+Her eyes dart toward the items, and she gives a firm nod without even thinking.
+
+I point toward a pile of low-quality talismans on a counter to her side, similar to the ones I activated before walking into this market.
+
+“A stack of those too.” She finally pauses, but agrees after a few seconds.
+
+“A Low Quality bow, and 3 dozen black iron arrows. And… a stack of talismans. Though, I assume if you’re looking for basic concealment items, you would probably want these instead.”
+
+She points to a stack beside the one I pointed to. Their paper looks thicker, and there are only about 10 sheets in the stack.
+
+“These will work outside the Red Pine Market. That first stack you pointed at is like the one you’re using now, only active within the range of the 2nd Tier Spirit Tree’s aura.”
+
+She points up to the towering tree we’re beneath. Then, grabs another stack of ten dark black talismans, adding it to the pile.
+
+“And here, these are new mid-grade defensive talismans the Mu Family has recently started selling. I’ll add these too, but that is about my limit.”
+
+I swallow hard, realizing even though she’s put up her final price, her cheerful tone still feels like she’s low-balled me. Though, I’m confident I’ve managed to get up closer to the actual price.
+
+“Yes, that will be enough. I hope that if we have future transactions, no questions will be asked about where I procure my perfect-grade items. You’ll be able to buy them at a low price as long as no one comes looking for the source.”
+
+Her eyes widen again, but she quickly nods and hands over the thick grey talisman papers, then takes the bow and arrows off the display wall.
+
+I try pulling the string back and feel it’s made of an extremely strong fiber. I have to use almost the full strength of my 2nd level qi refinement to pull the 250kg resistance string back.
+
+My old hunting bow hardly pulled back 25kg worth of resistance, meaning it will be far harder for any of my future targets to escape. After multiple enemies I’ve faced in battle have dodged my arrows with ease, this has been a major problem lingering in the back of my mind.
+
+She hands me my storage pouch back, now with spirit stones in it, and no dagger.
+
+“But… uhm. You’re using the Red Pine Market’s concealment talisman now, how will I know-”
+
+I collect the pouch of spirit stones, my new gear, then turn to leave.
+
+“That won’t be an issue. I think you’ll know when I return.”
+
+–
+
+After walking far away from the Mu Family’s stall, my heart is beating loud in my chest.
+
+I start to look around the market with a far more discerning eye.
+
+The only thing I look for is perfect-grade items. In my mind, there is no chance of it ever appearing on the blanket setups or smaller stalls, but I walk by every major storefront and find that not even they have perfect-grade items available.
+
+The Mu Family girl did not even put the dagger I sold her on display.
+
+My confusion starts to grow stronger, but once making two full laps around the market I just accept the fact. I’ve already wasted almost an hour and a half wandering. It’s time to stock up on what I came here to buy.
+
+The quality of pills does not matter one bit to me. Low Quality and High Quality are all the same, they’re going to be upgraded anyway.
+
+Even though I’m wearing a concealment talisman, I still alter my aura using my own concealment art, and never spend more than 100 spirit stones at once in a single stall.
+
+I acquire 20 full ten-pill vials of low-quality qi gathering pills for 413 spirit stones and 2 full ten-pill vials of low-quality healing elixirs for 155 spirit stones. Then, decide to slow down my spending.
+
+I mosey on by some of the smaller stalls at the far edge of the market, opposite the entrance I came in through.
+
+Every single person I walk by, their status screens pop up in my mind. At first it was quite jarring, but after hundreds of them have gone by now, I’m used to it.
+
+The most interesting thing is that even with concealment talismans on, my system shows me the full information of anyone within my spiritual awareness, no matter what.
+
+I see a familiar reading, a steward named Chen Yilin, pop up sitting down on the roadside in front of a brown blanket. There are a little under a hundred charred and deformed pills scattered on it.
+
+A small few actually look decently white-colored, without burn marks, but not a single one of them is a perfect sphere. These are all attempts at qi gathering pills.
+
+There is a nervous and anxious energy permeating off of him, and a sign that reads 1 spirit stone per pill beside him.
+
+The concealment talisman may blur his looks, but not the shaking turning of his head back and forth looking for potential buyers.
+
+I stop in front of his blanket and point down. “I’ll give you 40 spirit stones for everything. No need to count or bargain. That’s my final price.”
+
+That’s less than 25% of the market price for these ninety or so pills, and half of what he’s asking. However, not a single stall or blanket in this market dares to sell defects like this. I can smell the poison permeating from some of the clumps of blackened pills.
+
+He looks up, hesitates for a second, then turns his head to the horizon to see if the sun is here yet.
+
+Chen Yilin nods, and we swiftly make the trade. As soon as the spirit stones are in his hand, he leaves the entire blanket behind and heads toward the center of the market where the storefronts are more prevalent.
+
+I tap the storage pouch at my waist for show, but let everything before fall into my system storage like all the other items I’ve bought today.
+
+Just as I’m about to turn back, the dark silhouette of a fat man and a huge brown bear catch my eye sitting behind a small stall. It is not their size that attracts me, it’s the bright green spirit fruits he’s selling.

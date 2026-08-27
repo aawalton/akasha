@@ -1,0 +1,137 @@
+---
+id: 6f7a8baf-0b1d-5e57-9501-2c497b0521ae
+page-type-slug: story-chapter-royal-road
+title: "Ch49 4th Level Qi Refiner"
+slug: 0049-ch49-4th-level-qi-refiner
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 49
+ownLength: 1519
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3368446/ch49-4th-level-qi-refiner"
+royalRoadId: "3368446"
+---
+
+In the dark night, I slip away into the small cave entrance of my stolen stronghold.
+
+After dropping down a few levels, the heat in the air returns. Once landing on the bottom floor, it's hot enough that I start sweating.
+
+I collect the spirit stones that have built up in the array flags over the last day, then shift the settings to contain, pushing all of the naturally released qi toward the main room where the center of the vein is exposed. I have to carefully walk past the room that is too hot to enter. The rice sized flame fragment is still burning hot, and at this point it may be a lost cause trying to retrieve it.
+
+Once back in the center of the stronghold, my Jade Purity Soul Scripture is activated, and I sit in silence just getting used to my environment for half an hour.
+
+From the many conversations I had with vendors, the common advice was to eat a White Jiao fruit first, allow myself to drift to the edge of the mental abyss, and use a Qi Nourishing pill to overpower the darkness and break through. So, without hesitating any further, I throw a small white banana with golden patterns on its outside into my mouth, skin and all.
+
+It melts like butter, and tastes sweet like candy.
+
+The warm juice flows through my meridians the instant it makes contact with my saliva, and the heavenly aura vibrates, stimulating my soul.
+
+I watch the black abyss of a bottleneck be slightly lit up by a white and golden light.
+
+Yet, the 5 9th grade roots that this light is shining through have a thick filter over them. The illumination of the abyss is nothing like those vendors explained.
+
+With a sigh, I pull out a 2nd white jiao fruit, then a 3rd.
+
+The second shines a slightly brighter light out of the tinted windows that are my spirit roots, but the third hardly makes a difference.
+
+Only my physical body and soul are receiving benefits from these fruits.
+
+I can feel the warm essence saturating into my flesh and bones, filling them with energy in pockets that other pills and fruits never touched.
+
+The Jade Purity Soul Scripture continuously cycles the White Jiao fruits’ energy through my body, and into my spirit roots. I do not know how much time is passing, but based on the hundreds of cycles that repeat, it must be many hours.
+
+The view into the abyss grows ever so slightly, but there is no edge in sight. I decide to see if there are hidden bottlenecks that can be broken like all of the vendors said, even if I can’t see them.
+
+Carefully, I swallow the first deep green Qi Nourishing pill covered in golden vine patterns.
+
+When it dissolves into liquid jade, and floods into my meridians, it feels far more heavy and sharp than the fruits. The golden aura flows directly into my soul, and for the first few Jade Purity cycles, it feels like this dense essence is being guided straight into my spirit roots.
+
+For the first time, I feel a heavy pressure in the abyss.
+
+Streams of green liquid are illuminated in the darkness where I couldn’t see before, and the white glow of the fruit’s essence reflects off these pathways.
+
+To not lose sight of this feeling, I swallow more and more Qi Nourishing pills.
+
+One after another dissolves and flows into the abyss. I only stop after 9 pills, once the energy stops reaching further each time.
+
+I can no longer feel or see the spirit vein below me, nor the warm cave I reside in. Even the passage of time blurs. My total concentration is on this mental battle.
+
+My Jade Purity Soul Scripture cycles thousands of times before the heavy pressure in the abyss starts to recede, and the green flowing energy fully sinks in and saturates into the outer wall of my dantian.
+
+Despite the intensity fading, the white glow from my spirit roots still illuminates the mental view of the abyss. I grab three more White Jiao fruits from my storage, and eat them in quick succession.
+
+The bright white glow spreads further, then quickly swallow nine more Qi Nourishing pills to refine them together. This time around, my instincts are stronger, and I know exactly where I’m trying to go.
+
+The streams of green rivers, and white light reflecting off them flood into the darkness.
+
+My cultivation technique cycles as intuitively as breathing, another thousand times. I do not wait for the rivers to disappear, as I want to keep this forward momentum moving. I eat and swallow the last of my White Jiao fruits, and Qi Nourishing pills.
+
+The splash of energy sends enough raw qi to the edges of this spiritual abyss, that I finally understand what those vendors meant.
+
+Trickling waterfalls of medicinal qi start to leak over the edge.
+
+It is not in just one direction, it feels like these rivers all trickle off the top of a sphere, finally finding the edges of this barrier that needs to be overcome.
+
+Yet, this moment of bliss is short lived.
+
+Just as I start to see the edge of the abyss, the overstimulation of the massive amount of perfect grade fruits and pills wears off.
+
+Just like the first cycle, the rivers dry up, and the white glow illuminating the abyss dims.
+
+I can still feel the edge, but it's like dark clouds are floating back in to blur my senses.
+
+There is an enormous amount of raw qi flowing through the air in this room, naturally entering my meridians. However, it is nowhere near sharp and extreme enough of a shock to bring this moment of enlightenment back.
+
+With a resolute heart, I pull out the only perfect grade pills left in my storage that I think could have an effect.
+
+Two marrow cleansing pills, two healing elixirs, and half a dozen qi gathering pills.
+
+A wave of brown, white, and golden light floods into my body.
+
+I feel it stimulating my flesh, and healing my fatigue, while simultaneously washing through my meridians and pulling out impurities. The raw qi from the qi gathering pills is the only thing that makes any difference in the abyss, shining a brief flash of light to where the Qi Nourishing rivers flowed in the past.
+
+My body is overheating from the pressure in the air, and the strain I’ve been putting on it to try and keep focus. Yet, the healing elixirs are reversing these negative effects.
+
+My meridians try to close up from the constant use, but the marrow cleansing pills widen them up once again.
+
+I’ve tried all I can, but slowly, the dark clouds do come in, shielding my view of the edge of the bottleneck.
+
+The words of the old stewards replay in the back of my mind. They said 8th grade roots have it the worst, because sometimes they can see the edge of the abyss, and go mad their whole lives trying to reach it.
+
+Even with all of these heavenly grade pills and fruits, all I can do is manage the potential of an average 8th grade elderly steward. My 9th grade roots truly are those of a wastrel. The rumors were not exaggerated. This is the peak for most born like me.
+
+Most, that is.
+
+It’s still not over. I can buy double, or triple the supplies in the Red Pine Market next time.
+
+Even now… I can still slightly feel the edge of the abyss. I can still cycle the ambient qi in this room while my body is stimulated like it is.
+
+I have a system. I have the knowledge and life experience from an entirely different world.
+
+Even if I fail, I will inevitably succeed.
+
+I must stay resolute.
+
+At this moment, as my resolve wavers, I choose to not back down and gaze into the darkness despite being unable to see.
+
+I feel a quiver in the depths of my soul.
+
+It is not the heavenly aura from the pills I’ve consumed, and it is not my Jade Purity Soul Scripture cycling in the background.
+
+It is the soul contract I made weeks ago showing signs of life again.
+
+Unlike the first time, now it ripples over and over.
+
+It is like an echoing heartbeat that syncs up with mine.
+
+I feel the deep resonance with the resolve I’ve mustered, and my gaze sinks deeper into the abyss with every heartbeat.
+
+All of a sudden, white cracks form in the dark black clouds within my mind.
+
+They are like tiny fracture marks at first, but with every heartbeat that passes, they widen, shining through like bright rays of sunshine.
+
+It’s like I’m breaking out of an eggshell, watching reality open up around me as a mirror of darkness shatters away.
+
+All of a sudden, a satisfying pulse of qi explodes outward from my chest, and my eyes shoot wide open.
+
+Somehow… I’ve forcefully broken through into the 4th Level of Qi Refinement.

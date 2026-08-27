@@ -1,0 +1,179 @@
+---
+id: 86a54e5c-8b92-5fe3-abec-5a21bcb0e915
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty: The Demon of Envy"
+slug: 0031-chapter-thirty-the-demon-of-envy
+partOf: flesh-eater-demon-evolution-litrpg
+position: 31
+ownLength: 2520
+unit: words
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2674267/chapter-thirty-the-demon-of-envy"
+royalRoadId: "2674267"
+---
+
+Pyre’s gaze traced one of the last bolts of electricity, watching as it snaked down into the earth before finally fizzling out. Tivona had fully risen, and her face was twisted in visible fury. Her gouged eye continued to drip the distinct grey sludge that injured fiends left behind.
+
+Through the eye on her back, Pyre noted that Callan had turned invisible. She could still tell where he roughly was thanks to her thermal vision, though she didn’t know if Tivona had the same ability. Then again, even if she did, she looked so pissed off right now that she’d probably focus on Pyre as a target anyway. An eye getting stabbed was apparently more memorable than getting a little bit ghost-drained.
+
+“I’m guessing there’s no chance of you changing your mind and letting us leave?” Pyre joked.
+
+Tivona sneered and raised her hand. Before her palm had even finished glowing, Pyre was already leaping away. A lightning bolt blasted into the mountain behind her. Stray rubble bounced off her bone armor as she lunged for the other demon.
+
+She shot out a bone spike, which slammed into the ground a fraction of a second after Tivona’s body flashed. The envy fiend curled in on herself. A stray black feather drifted down as that same raven from before soared upwards. Her eye was still visibly damaged in this form, and she let out a piercing caw that rang throughout the narrow pass.
+
+Pyre narrowed her eyes, thinking. She needed to find a way to get close and stay there—the other demon had the advantage at range.
+
+As if to prove her point, Tivona gave a great flap of her jet black wings. Above them, the lightning flashing between the storm clouds swerved, and several bolts all shot down towards the sloth demon. She leapt away, rolling and ducking and sprinting in a zig-zag pattern as the lightning bolts kept coming. By the time they finally stopped, Tivona was even further away than before.
+
+Carefully, Pyre began growing some bones along her back. She didn’t extend them straight towards the demon; her bones slowed down the longer they grew, and Tivona was far away enough that they’d be easily dodgeable by the time they reached her.
+
+Instead, she stabbed them into the ground, letting them curve under the earth. Thankfully the dirt here was just loose enough that she could force them through with a bit of extra effort.
+
+The whole time, she kept her eyes on Tivona, still flapping above in that raven form with seemingly no intent to approach. Pyre briefly considered activating [Slothful Field], but she didn’t think it would be worth it. The other demon seemed to favor magic over skills, so it wouldn’t give her much of an advantage. No, what she really needed was to get the envy fiend to come closer.
+
+A bit more liquid dripped down from Tivona’s gouged eye. It landed with a splat on the ground.
+
+“Hey,” Pyre called. The wind was really picking up now, and the constant thunder meant she had to yell to be heard. Still feeding her bones further into the soil, she raised an arm and tapped one of the eyes on the front of her body. The corners of her mouth twisted up in a grin. “You’ve got something on your face.”
+
+The demon roared and dove downwards. A telltale lavender glow surrounded her body. In less than a second, the panther from before was snarling in Pyre’s face. She activated [Impact Absorption] and [Bracing Stance] just before its claws slashed into her bone armor.
+
+The ground trembled from the impact. She felt something chip, but the bones were managing to stay intact. Without hesitating, Pyre activated [Impact Absorption]’s second effect.
+
+Tivona’s body glowed again as she readied to dart away, but just before she could, Pyre shot the bones out of the earth. They circled around the other demon like a pseudo prison, rising to enclose her and block her escape just long enough to give the sloth fiend an opening. Pyre lunged.
+
+She reeled an appendage back, surrounded it in thick plates of bone while activating [Enfeebling Strike], then slammed it into the panther. She heard something crack as it flew back from the blow, only to get caught on the bones behind it.
+
+Not stopping, Pyre stretched out her flesh and grew a mouth on the end. But just before her jaws could snap around the demon’s body, a fresh bolt of lightning flared outwards.
+
+The sloth demon cursed as electricity roared around her. She managed to get a bite in before her muscles started spasming, and Tivona immediately shifted back into a bird and flew out of the bone cage.
+
+Pyre contorted some of her flesh, rippling it in the hopes of getting the numbness to wear down faster. It somewhat worked, but she could see parts of her bone armor were now singed and weakened. Through her thermal vision eye, she could barely make out a blueish blob floating close by.
+
+It was just her luck that the demon blocking their path would happen to be someone largely unaffected by her skills. Still, [Enfeebling Strike]’s duration should be active, even if it only worked on physical strikes, and she’d be damned if she let it go to waste.
+
+More sludge dripped down from the fresh bite mark on Tivona’s body, but it was already beginning to close. She was still flying high up—high up enough that Pyre couldn’t attack her directly with her bone spikes. They would be much too slow at this distance.
+
+Tivona’s feathers glowed, likely preparing another strike, but Pyre didn’t plan on letting her finish the spell.
+
+Turning, she sprinted towards the mountain side. Without stopping, she shot out a bone and stabbed it deep into the rocky earth, then activated [Weight Manipulation] to reduce her own weight as much as possible. With a great leap, she used that bone to fling herself up into the air and towards Tivona.
+
+The demon screeched and flapped her wings. Lightning pummeled down from above, temporarily blinding Pyre’s vision, but she remembered her current trajectory. Pushing past the burning sting of electricity, she shot out eight more bone spikes and aimed them where she’d last seen Tivona. She heard a shriek, which meant one of them must have hit. She forced the bones deeper just as gravity took hold and sent both her and the stabbed envy fiend barreling down to the ground.
+
+They landed hard, the impact denting the earth in a ring under their feet. Gusts of wind swirled around them.
+
+Sometime during the fall, Tivona had shifted back into her humanoid form and now struggled to stand. Pyre could see where her bone spike had pierced through the side of her torso. Viscous grey stained her violet robes.
+
+Furious eyes met Pyre’s. The demon lunged in an attempt to finish the envy fiend off. Tivona was faster.
+
+With one swift movement, she darted forwards and gripped onto one of Pyre’s arms. A curling wave of electricity shot out from her fingertips.
+
+The air sizzled. Pyre felt some of her flesh begin to melt as more and more of that searing pain coursed through her. She gritted her teeth as her muscles seized and tried to focus on growing another bone spike.
+
+Before she could, Tivona’s other hand slammed into her torso. A flash of lavender light was the only warning she got before that same all-consuming pain from before returned at full force.
+
+Electricity continued to flood her vision—Pyre was vaguely aware of her flesh contorting. Bones snapped and twisted, her torso undulated under the force of the magic. But she remained in place and didn’t push Tivona away, because through her blurred vision, she could detect a blueish gradient coming up behind the other demon.
+
+White light, faint at first, glowed from Tivona’s chest. She gasped, nearly lurching away, but Pyre dug the bone spike in deeper. The lavender glow around them strengthened. She was attempting to direct her lightning at Callan, Pyre realized.
+
+Gritting her teeth, the sloth fiend grew a wall of bone and wrapped it around herself and Tivona, attempting to wall the ghost off so he could continue to drain the demon. He had to nearly be done, she thought. She just needed Tivona’s magic to weaken, even a little, so she could think again past the roiling of flesh and the nonstop burning.
+
+The glow in Tivona’s chest brightened. She gasped. The forced shapeshifting and lightning both halted for less than a second, but Pyre immediately pounced on the opportunity.
+
+Forcing her flesh to stretch past the numbness and lingering pain, she opened her mouth wide. Tivona only had a millisecond to stare down the black maw before razor-sharp teeth tore into her torso.
+
+Almost immediately, memories flashed through Pyre’s mind in a rippling storm.
+
+A forest with a small pond, her own wavy reflection staring back. Two curling black horns on her head. The sensation of stumbling through a green forest as she grew more accustomed to her body. On the other side of those trees lay a village, its streets flooded with laughing humans crowded together. She felt an ache in her chest that she later recognized as longing.
+
+A voice, soothing and amiable. The demon was close to her in age, but he seemed so much more knowledgeable. Charming. Kind. Underneath it all was a barely-concealed ambition that stretched far beyond what she ever could have imagined.
+
+An absurd proposition, her own disagreement. He’d peered at the human village then, expression turning thoughtful.
+
+“You cannot help your nature, but you’ve chosen such an odd thing to be envious of,” he’d murmured. Those were the last words he’d said to her.
+
+Peaceful years after that. Her magic and shapeshifting strengthening until the day she could hide her horns and don a fully human disguise. Entering the village for the first time, befriending a flour-covered baker, learning to live like these people she’d watched for so long.
+
+Rising tensions as a human empire pushed past its borders. Growing monster activity in the surrounding forest. The baker, half-eaten. Her own fury when she’d ripped into those monsters, the sweetness of their flesh. The cold horror when she’d met eyes with the humans watching.
+
+Splitting pain, the sight of her own horn torn away, detached from her skull where it never should be. Fleeing into the mountains under a roaring storm. Years spent in the darkened tunnels.
+
+A hellhound arriving with contemptuous eyes. “Cyrus is requesting you join him,” it said.
+
+“I already told him I’m not interested.”
+
+Contempt turned to pure disdain. Beady red eyes fixed on her missing horn. “You’re satisfied with this? How long have you spent wasting away in these mountains? You haven’t even reached your second evolution. Have you fallen so far that you cannot work up the effort to find an evolution crystal? You could’ve been powerful. Cyrus saw so much potential in you.”
+
+She’d laughed, then, and hadn’t bothered to give an answer. The hellhound had narrowed his eyes.
+
+“Are you still upset because of those humans? What did you think would happen?”
+
+A wave of icy cold had washed over her. How did he know, she’d asked, but the answer had already become clear to her even as the hellhound stammered through vague answers. The paranoid village, the fearful humans—they would’ve needed a reason to step into the forest that night. A reason, perhaps, like someone warning them she would be there.
+
+She killed the hellhound in a fit of rage. Even without one of her horns, the creature was no match for her. It was nothing but a weak tool.
+
+Fresh, bitter anger and betrayal. Of humans, of demons, of her own nature. Festering resentment that couldn’t be soothed by a few squirming animals. When that pathetic human had stumbled into the tunnels, she’d taken pleasure in shifting her.
+
+Alone in those mountains, she stayed.
+
+Pyre lurched back to the present.
+
+She was vaguely aware of the taste of flesh between her teeth as the last remnants of Tivona’s memories faded. The demon herself was still in front of her, a limp shape barely clinging on to life.
+
+Thunder rumbled in Pyre’s ears. Over it, she realized Callan was yelling something. When her eyes snapped over to Tivona, her entire body was glowing violet. A bloody face sneered up at her.
+
+“You’ll regret this,” she spat. Her voice dripped with venom.
+
+The violet light flared just as Pyre’s teeth bit all the way through the other demon’s torso.
+
+The spell exploded outwards, a violent explosion of magic that beamed blindingly bright. It sent a shockwave ripping through the narrow pass. Pyre threw up a bone wall just as she was blasted back.
+
+The demon landed with a thud against the mountain side. She gritted her teeth and attempted to rise, but her morphed limbs made it difficult to stand. Notifications flitted past her vision. Where Tivona had just been, a dark stain marked the earth like a blooming flower. There were no traces of her body left. All of it had been disintegrated in that last, final attack.
+
+[You have devoured (1) Lesser Fiend (Envy) Lvl 30][Experience earned!]
+
+[The trait [Ossification] has leveled up! Lvl 4 —> 5]
+
+[The trait [Sound Perception] has leveled up! Lvl 2 —> 3]
+
+[The trait [Regeneration (Sloth)] has leveled up! Lvl 2 —> 3]
+
+[Your species has leveled up! Lvl 16 —> 20][Strength +9, Agility +7, Constitution +10, Magic Resistance +10, Intelligence +4]
+
+[You have earned 40 points]
+
+[You have gained the [Basic Slothful Time] skill!]
+
+[Your class has leveled up! Lvl 6 —> 10][Strength +4, Agility +2, Constitution +7, Magic Resistance +5, Intelligence +2]
+
+[You have earned 20 points]
+
+[You have gained (1) new class skill!]
+
+Please select from the following options:[Counter], [Piercing Strike], [Aggravate]
+
+[You have gained (1) [Far Sight] subtrait shard]
+
+[You have gained (1) [Omnivorous] subtrait shard]
+
+[You have gained (1) [Skeletal Recall] subtrait shard]
+
+[You have gained (2) subtrait slot expansion shards][Use expansion shards?]
+
+[Required amount of [Skeletal Recall] subtrait shards collected][Apply subtrait shards to [Ossification] trait?]
+
+[You have gained the [Conquering Sin: Envy] title!]
+
+[Class Quest: Unlock Tier 2 Class completed!][Would you like to accept rewards?]
+
+“Pyre!”
+
+Callan drifted forward, and the demon vaguely noted that he was moving more slowly than usual. Even with the bone shield up, some of those lightning bolts must have hit him.
+
+Her own eyes, however, focused down on her warped, asymmetrical chest. Some of the flesh was melting, and four eyes had been completely fried by the lightning. That wasn’t what caught her attention, though.
+
+No, what drew her gaze the most was the dark splotch in the very center of her torso. It looked like an ink-stain—one that had sunk deep beneath skin layers. From that origin point, dark lines sprawled out like branches or a web, climbing across a fourth of her chest. When Pyre shifted, the mark shone slightly violet.
+
+Callan stopped the moment he saw it.
+
+“…What is that?”

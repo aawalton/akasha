@@ -1,0 +1,105 @@
+---
+id: e3211fa3-fbdb-50e5-add8-a8c91877c50b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 322: Forging Raid Groups (Part 2)"
+slug: 0359-chapter-322-forging-raid-groups-part-2
+partOf: dungeon-of-knowledge-complete
+position: 359
+ownLength: 2038
+unit: words
+ownProgress: 2038
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2465210/chapter-322-forging-raid-groups-part-2"
+royalRoadId: "2465210"
+markedReadAt: "2026-06-29T20:22:45.028Z"
+---
+
+It was a rather bizarre experience fighting her own boss, but the raid group had been counting on her providing an acolyte and a rogue. For quite some time, she had assumed that if she, as the dungeon, observed the fight, experience would be drastically reduced. However, that did not happen when the adventurers faced Naia’s monsters, and as far as she could tell, Naia had a passive hive mind and couldn’t release her awareness of her minions even if she wanted to.
+
+So, the last time she had visited, Ali had asked her about it. According to Naia, she watched, but she just decided not to assist in any way because Ali had asked her not to. It was only after she had heard that, that Ali had realized people were still gaining experience even though she could technically see every fight all the time with her passive Arcane Insight that now granted mana sight across her entire domain.
+
+Ali wasn’t sure how good she was at resolving not to help her friends, though, but any reduction in experience gained had not been noticed – overshadowed perhaps by the increase in her minions’ power from her evolution, and the dramatic effect of her domain tithe on mastery skills. Most combat classes had at least one mastery skill – given how powerful they were at enhancing overall combat potential. She herself had three: Arcane Recall was an arcane mastery, Domain Mastery was of course a mastery for her domain, and Martial Insight was for her minions.
+
+Still, she had had to partition her awareness, observing with a resolve not to interfere, but also fighting as a kobold acolyte and rogue. Obviously, she earned no experience for her minions because she was fighting herself, but it was clear from the sudden influx of knowledge and experience after her newest raid boss was summarily defeated that many of the members of the first raid group had unlocked mastery advancements in addition to the four class levels most of them earned. So, at least, her presence hadn’t interfered with their growth much.
+
+And, even if I’m reducing their experience here, that won’t be a problem in Lyton Ruins or Blooming Rot. Ali was counting on it in fact – gold-ranked kobolds would be a powerful addition to her repertoire.
+
+“Don’t take it so hard, Lyeneru,” Rezan said, falling in beside the frowning Elf as Ali led the way toward the nature-affinity spawning pool.
+
+“Fine. I admit it,” Lyeneru grumbled, glaring at Vivian who was also walking beside her. “Your training is superior. Are you happy?”
+
+“What are you talking about?” Vivian asked, wearing a guarded expression that leaked nothing of her feelings.
+
+Ali just clamped her mouth shut and continued walking as a worried hush fell over the entire group of silver-ranked adventurers and Pathfinders following behind them.
+
+“Your adventurers are obviously much more skilled at raiding,” Lyeneru said. “Your teaching methods must be superior.”
+
+“Aah, that,” Vivian answered, not reacting in the slightest to the annoyed frustration boiling out of the normally reserved Night Elf. “It’s practice. My adventurers have been in Aliandra’s dungeon daily since they were level one. We are fortunate to have a dungeon to train in, and we would be negligent to not take full advantage of it.”
+
+“So, you have a cooperating dungeon. That changes nothing of what I said. Your adventurers assessed a raid threat in seconds, formulated a plan, and killed it cleanly on their first try, even when half of their team was facing a dungeon boss for the very first time.”
+
+“Lyeneru, you’re selling your Pathfinders short,” Vivian said, stopping and looking Lyeneru in the eyes. “Take that archer, Coria, for instance. Her bow skills are exquisite. And she’s not the only one, they all are extraordinarily well trained – I wanted to ask permission to use your people to train mine when they are not raiding. Sure, she might have been trembling with fear on her first pull, but we made her pull a raid dragon for her first time. I doubt even you would have done any better on your first trip into a dungeon. She might have been as green as a shaking leaf at the start of the fight, but you saw how quickly she adapted to the team – she was clearly operating effectively by the end. They all were.”
+
+Lyeneru stared at Vivian for a few moments without comment, but the frown of frustration marring her brow faded as she internalized Vivian’s positive assessment.
+
+“We will make four raid bosses like we planned. They will kill two a day each, and in two days they will be more than ready to face anything I saw from the scout report on the Lyton Ruins,” Vivian finished.
+
+Ali glanced at Coria, feeling a little bad for the girl given they were talking about her as if she wasn’t right there listening to it all, but she had come to trust Vivian’s assessment. Coria truly had exceptional archery skills, even she could see that, and she had adapted to her role in the fight like a fish to water. I think she’ll be ok. A few more runs and that scared-rabbit look will be gone forever.
+
+Ali stopped at the beach between the nature-affinity spawning pool and the Living Bamboo Forest, ignoring the heavy thumping of her Carnage Berserkers helping to wipe out any lurking monsters while she collected her thoughts. Every bit of extra experience would come in handy when they were out there fighting undead.
+
+Even though she was quite far from the pool of light, Ali could still feel the presence of light-affinity mana leaking into her domain, and that gave her an interesting idea. For her first task, she planted a stand of Radiant Larches, rounding out her new trees with some Luminous Glowcaps and a few other assorted mushrooms for variety. Her domain immediately began to draw on the new source of light mana, percolating it through the weave. But she didn’t think it was quite enough, so she summoned several fist-sized chunks of light-affinity magicite, binding them to her domain.
+
+One curious side effect of Adaptable Mana was that magicite bound to her domain began to contribute to it, just like her plants. The magical crystals absorbed ambient mana of any kind from around them, converting it to their natural affinity, and when they were full, they emitted that affinity as overflow, contributing to the growth of her domain.
+
+She ignored the gasps as the adventurers realized what it was that she had summoned as soon as the crystals began to glow. She finished binding the last one to the domain, waiting just a little for it to begin emitting light-affinity mana, and then she turned to her elemental chapter, and tried something that she had discovered in the mines; she summoned a Radiant Brawler, binding it to her domain during the creation process.
+
+Radiant Brawler – Elemental – level 48 (Light)Domain Respawn applied to Radiant Brawler.Raid Domain Enhancement applied to Radiant Brawler.
+
+It’s alive! It still felt like such a ridiculous cheat that she was able to make elementals of affinities she did not personally possess – but her Adaptable Mana was literally that.
+
+The bizarre, squat, four-legged elemental grew larger and larger as its translucent glowing body began to shine brightly while the four disconcerting tentacles that sprouted from its broad back waved ominously in the air. Although, perhaps it only seemed ominous to her because she was intensely familiar with just how easily she could be zapped by the light beams they produced, even through her barriers.
+
+Slayer (Elemental) applied.
+
+Again, her boss was intended for multiple purposes – this one needed to have sufficient power to suppress the continually spawning pool and the monsters that emerged from it, so she spent one of her Domain Magic skills on Elemental Slayer.
+
+Summoning (Glimmer Shard) applied.
+
+Ideally, she wanted Mass Summoning for this boss, but that required a level sixty monster, and she couldn’t make Radiant Brawlers that high yet – not to mention, placing a level sixty here would break the growth ramp she intended for the adventurers. So, she compromised. She was certain that the monsters summoned by her bosses were similarly restricted to the area of the boss, and her boss had a light affinity, so she was almost sure it would work. And Glimmer Shards were Swarm mobs.
+
+Spell Cascade (Light Ray) applied.
+
+Spell Cascade was an ability that had excited her since she had deconstructed Mok’freja, and this was the perfect opportunity for it. The Radiant Brawler could fire four beams simultaneously – and with this skill, each beam should be able to be repeated five times, making twenty aimable focused beams of light. A substantial challenge for a raid group, especially from a monster that had a teleport and haste. But it would also be incredibly useful for wiping out flying monsters spawned by the pools.
+
+A little smaller and no-one need ever complain about mosquitoes again. She giggled at her own thought. This is a giant mosquito-exterminator!
+
+Domain Enhancement complete.Your reserved mana has increased by +212.
+
+***
+
+Ali studied the fight with great interest, both from her own perspective and from the Fire Mage and acolyte she had participating in the fight. In typical form, Vivian had not wasted any time, throwing raid group four at this boss, but the first attempt had been simply a test run to study its abilities.
+
+Initially, she wasn’t certain why the Guildmaster had chosen to go out of order, but she realized it soon after – this group had a new tank, and likely Vivian wanted to observe him out here where he didn’t have a massive advantage.
+
+Ali had shared with Vivian where she intended on making her bosses, and the next two would be underground in the mines – a place where Basir’s earth magic would naturally dominate. She watched in fascination at how well he handled the teleporting hasted monster – firstly, earth magic was a little rarer in combat classes, but it seemed to suit him as a tank exceptionally well. But his instincts for haste were incredible, using his strange Earth Travel like a fish swimming through the dirt and rock to keep up pressure on the boss every time it shifted.
+
+“How is he doing that?” Vivian asked, just as surprised as Ali had been initially. But Ali had an advantage and had figured out the trick by studying his mana. The boy had a perception skill that was quite similar to the Tremor Sense of her slimes and oozes, and he could feel where the brawler went with much more precision than using his eyes. For one thing, none of the afterimages ever fooled him.
+
+“Earth Sense,” Rezan said, confirming her observations. “And he has had only Hala as a sparring partner for too long.” When confronted with a sea of blank looks, Rezan clarified further, “Hala is a lightning-based haste class. Basir has had to hone his ability to anticipate attacks and he excels at facing hasted opponents. This is the perfect match for him.”
+
+“He’s predictable,” Mato said, also studying the fight.
+
+“He’s not doing badly, though,” Ali said, defending the Ahn Khen tank.
+
+“No, I mean he’s a predictable tank – a great trait. Notice how easily his team adapts to his abilities and combat style, even though they’ve never fought with him before,” Mato explained. “He looks like a natural, definitely if this is his first boss fight.”
+
+“Basir has fought bosses before, but it’s been unfortunately rare,” Rezan said. “This will be an excellent learning experience for him."
+
+“Aah, he figured it out,” Mato said as Basir’s swirling rocks managed to block over half of the light beams, making his rocks explode into superheated chips. But every blocked beam failed to strike its intended target, taking an enormous load off the healers – a fact that Ali experienced first-hand through the senses of her acolyte.
+
+This shouldn’t take long. I definitely need my minions to gain a bunch of levels. I still don’t like those other adventurer groups snooping around my dungeon.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

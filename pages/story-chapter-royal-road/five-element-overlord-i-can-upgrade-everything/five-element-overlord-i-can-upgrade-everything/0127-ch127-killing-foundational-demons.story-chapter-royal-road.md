@@ -1,0 +1,145 @@
+---
+id: 479bb667-6874-5e7d-8208-491d6f746b4f
+page-type-slug: story-chapter-royal-road
+title: "Ch127 Killing Foundational Demons"
+slug: 0127-ch127-killing-foundational-demons
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 127
+ownLength: 1750
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3865088/ch127-killing-foundational-demons"
+royalRoadId: "3865088"
+---
+
+The clashing pillars of yellow fire and red demonic blood qi come closer as I fall through the air.
+
+I activate the fist-sized tier 2 emerald swallow first. It has another function than just a messenger puppet, one I haven’t used yet; the ability to fight on par with an initial-stage foundation establishment cultivator for one minute on a full charge.
+
+This green crystalline bird begins circling around me, connected by a thin invisible imprint.
+
+The second item I prepare is the Azure Lightning Attack Talisman, it is crackling and ready to be used in my left hand.
+
+Lastly, the massive Verdant Tower Shield rests on my right arm, exuding a protective aura that blocks me from the waves of pressure that grow stronger and stronger.
+
+As I fall through the treeline, fire burns all around me, and streaks of blood energy turn toward me the second I hit the ground.
+
+The flying vessel abruptly turns upward, soaring away without wasting a single second.
+
+The crazed bloody eyes, long cracked horns, yellow flame-covered, and verdant wood shard-ridden soul of a blood demon comes into my senses blurring in and out of sight.
+
+My shield’s passive ability protects me from the majority of the aura, but the intensity of this battle is so strong that some pressure slips through, making me have to concentrate even harder.
+
+A heavy black flaming blood qi infused axe comes swinging at me from an unguarded side. It is so energy dense, my senses are almost overwhelmed, it feels equivalent to the force of multiple azure lightning bolts surging my way.
+
+My heavy green shield senses its proximity and moves through the air like it has a mind of its own, carving out a curved line in the charred earth below my feet.
+
+The full-force attack of this Jiang Family Blood Demon is reflected back.
+
+The wave of fire, earth, and blood qi are so dense, they appear as pure concentrated liquid.
+
+The remaining active uses of my shield shifts down to 3 left, but it results in the low-grade tier 2 axe in this foundation establishment’s hands being cracked to pieces.
+
+This heavy tier 2 artifact absorbs a large amount of the blast, only leaving a deep scar across the blood demon’s chest. Though it does leave one arm hanging from his shoulder.
+
+Blood energy floods into his wound, beginning to heal it as he lets out a roar of anguish.
+
+This takes a toll on his sanity, pushing the blood demon into further madness.
+
+An emerald swallow swoops down from the sky, covered in a thin glossy layer of white qi.
+
+It is almost invisible in the flames and chaotic air, piercing right through the demon’s weak spot, severing its arm clean off.
+
+The excess blood energy spurts out, making him roar louder in anger.
+
+The swallow flaps its wings and turns faster than I can track, piercing right through the blood demon’s back and exploding out of the front of his chest.
+
+The bulging muscles, pulsing meridians, and fractured dantian and soul of this man writhe in fury as he tries to run at me. The tiny swallow swoops down for a final time and breaks his skull.
+
+My side quest ticker counts up one more foundation establishment kill as he falls dead to the floor.
+
+Another attacker comes from my side, wielding a long curved sword, triggering my Verdant Tower shield again. However, he’s slightly more conscious, not in such a furious almost mindless state like the last demon.
+
+On impact, he jumps to the side and dodges a majority of the reflected burst, only burning his back with shallow wounds.
+
+Loud clangs echo through the air as he swings his blade upward and blocks the emerald swallow’s strikes.
+
+I glance to my other side and watch Lan Xin scream out, “What are you doing here!? I can handle this on my own! You don’t have to try and save me again! I’m strong enough!”
+
+The sharp pressure in her flames breaks through the passive barrier in my shield that is supposed to block initial-stage foundation establishment pressure.
+
+She’s attacked head-on by Jiang Yu’s short swords, digging deep into her forearms, fracturing her bones as she blocks.
+
+Her serpent cannot leave her skin, as staying attached at close range strengthens their soul bond, increasing her raw power.
+
+Yet, even with their strength combined, she cannot win.
+
+The sensation of a physique and soul cracking riddles my senses.
+
+However, it does not feel the same as the broken soul of the blood demon I just killed, or even the sacrifice of a physique I recall vividly from Little Red.
+
+It feels more like her physique is expanding, and her soul is being stretched to handle an innate shift.
+
+She lets out a horrific scream, and the flames around her body burst out in a far brighter yellow like I’m staring into the sun.
+
+The sharp pressure vibrates around the edges of the flames, and her serpent’s head pokes out of her chest.
+
+Faint outlines of small bumps like budding horns made of flames start to form on the serpent’s forehead, but they flicker like they are unstable and painful to maintain.
+
+The final 2nd-level Jiang blood demon tries to attack Lan Xin from behind with his daggers while she’s locked in place blocking Jiang Yu.
+
+It does not go as he planned.
+
+The flaming woman erupts with fire, stunning Jiang Yu and pushing him back for the first time. With the moment of freedom, she turns around and shoves her flaming hand through the 2nd level foundation establishment man’s chest.
+
+She shatters his dantian and releases a wave of pure yellow flames, exploding him to pieces, and incinerating his remains with heavy vibrating fire.
+
+There is a ferocious roar that echoes out from her aura, even though her serpent’s mouth does not open.
+
+She runs after Jiang Yu, and they clash again with equal strength.
+
+During this burst of distraction, taking advantage of the shock this Jiang Family Blood Demon is facing after another fallen brother. I activate my azure lightning attack talisman at close range and watch the blue bolt of energy crash down in his direction.
+
+Even in the chaos, he manages to dodge the most fatal portion of the lightning. Offshoots of the violent bolt still hit him, burning his left side’s arm and leg to an unusable state, and destroying two trees behind him in the blast.
+
+This allows my emerald swallow to fly around his blade and tear a chunk out of his only good shoulder.
+
+Blood energy flows in to heal him, but the swallow relentlessly attacks with mechanical precision.
+
+Wide gaping holes form all over him, and static still lingers in his body. All of the built-up injuries from fighting Lan Xin and Mu Zhiheng also compound, leading to the complete soul fracture and destabilization of both of his physiques.
+
+The foundation establishment demon falls to the ground in agony, but it is not dead. My emerald swallow circles back toward me, flickering with a dim white light, as its charge has been siphoned down to empty.
+
+I take a few deep breaths, but my heart beats fast and loud in my head, making it hard to concentrate for a moment. The blood demon scrapes together blood qi pills from his storage and tries to heal the wounds all over his body.
+
+My physical strength is nowhere near enough to finish this with my bare hands. I quickly send off perfect grade arrows in succession, and simultaneously activate all of the perfect grade attack talismans I have leftover in my storage.
+
+The arrows don’t even pierce this blood demon’s skin, they bounce off like a ball hitting rubber. Even the barrage of stone bullets, pine spear explosions, and incineration flames all do almost nothing to this wounded foundational cultivator. The thick layers of his physiques even in their fractured states block them all from breaking through.
+
+The only tier 2 offensive artifact I have left is my qi sword slaughter formation. It would certainly finish him off, but I don't want to use this last resort item if I don’t have to.
+
+I pull out one of the crimson talismans Meng Ruo gave me before flying away.
+
+The instant I imprint it, its details as a one-time-use talisman show up in my mind.
+
+It is labeled as a perfect-grade tier 1 attack talisman, with an initial-stage mortal-grade harmony strengthening enchantment.
+
+I don’t read into it, only trigger its release, and watch a wave of red flames burst forth.
+
+The scorched earth and screams of the blood demon as its flesh is burned away are enough to tell me my guess was right.
+
+When looking at its raw qi output, it's slightly lacking compared to my system upgraded incineration talismans. However, this talisman is infused with the weight of a physique, quite similar to the method used in my own creation of the Martial Fireball, but with far more intricate intent. There is something about the vibrations in these flames that disrupts the flow of this blood demon’s physique on impact, causing the attacks to actually land against his real flesh.
+
+I don’t take any chances and release the second talisman’s flames too while the demon’s pathways are exposed and it is in a vulnerable state.
+
+The side quest ticker for foundation establishment kills moves up to four out of five, so I’m confident enough to finally move from my position. I pick up the heavy shield and throw it over my back to keep the passive aura-blocking ability, while running forward and pulling the two foundation establishment demons I killed into my system storage, their spatial rings, tier 2 artifacts, and all.
+
+I run past the crater where Lan Xin exploded another demon to blood mist and snatch his daggers and spatial ring too, then watch from a distance as she clashes with Jiang Yu.
+
+He’s at least a few levels of foundation establishment strength stronger than his brothers. The difference between the perfected mortal grade and initial spirit grade is extremely clear.
+
+Using the same strategies I did earlier would not work on this demon. His entire body is saturated in blood energy; it’s difficult to even see his flesh.
+
+Every attack Lan Xin landed before was absorbed like rubber.
+
+However, now, she lands sharp fiery yellow punches. There is a new density to her aura that stays behind equal to this blood demon’s power.

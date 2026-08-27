@@ -1,0 +1,67 @@
+---
+id: a0dba289-6fff-51a1-9351-7247ecfe8b72
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 3: Eighty-one years later"
+slug: 0091-epilogue-3-eighty-one-years-later
+partOf: ends-of-magic
+position: 91
+ownLength: 1543
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3353079/epilogue-3-eighty-one-years-later"
+royalRoadId: "3353079"
+---
+
+Eril rolled his eyes and dismissed the box from his sight. He was not about to accept responsibility for a place this far out. The only reason it was unclaimed was because nobody cared about Sansal. Probably only a few people outside of this backwater had ever heard about it, and that meant there was nobody to tell him what he could and couldn’t do.
+
+He stepped off the Seal and looked around, surveying the collapsed and ruined fortress that spread out below him. There were patch repairs here and there, but they were flimsy and novice compared to the masterful stonework of the original construction. Farther afield, he spotted what he was looking for in a crude settlement of dusty stone, with tiny walls barely taller than a man and a streamer of woodsmoke marking its position for miles around.
+
+Pathetic. It’s a bunch of squalid hovels.
+
+Eril avoided the rickety ladders and platforms to levitate down the side of the tower, preferring to trust his magic over the craftsmanship of these bumpkins. Dying out here wouldn’t be terrible, but he would need to track down another place so isolated that he didn’t have to worry about getting reported to one of the grids. Those restrictions rankled him. He’d heard that Davrar was a place where you could come to enjoy pleasures that were otherwise unavailable in the Distal Expansion, and made a note to check it out. But he’d apparently waited too long, and some puritanical movement had built up a society among the Questors that held them to a frankly ridiculous set of standards.
+
+But Eril had to admit that the magic was amazing. He’d listened to a few lectures he should have found boring, then spent a month training. And now he could bend the world to his will. He landed softly and looked back up at the huge height he’d just dropped, and then around at the rubble-strewn courtyard. “The least they could have done was clear this place.” He channeled air mana to help him hop over the huge blocks until he reached the collapsed gate, which had a path cut through it where the villagers had quarried stone to build their ramshackle village.
+
+Eril walked through it, nearly tripping as his simple sandals caught on the rough footing. “Entropy-damned -” he flashed a blast of fire at the ground he’d just tripped over, then leapt back as his shield bracelet activated to protect him from the heat of his own spell. Then he looked around furtively, checking to see if anybody had seen that.
+
+Luckily, there was nobody in sight. Which was good. It would have been unfortunate if his first introduction to the people here was a silly little mistake like that. He might have had to take drastic measures to be sure he made the proper first impression. After all, he wanted certain things from the inhabitants, and it would all be much easier if they viewed him with a certain measure of awe.
+
+It would have been easy if that mind-magic stuff still worked.
+
+He trudged out of the shadow of the Seal and started hiking along the rough road that connected it to the inhabited village. Eril rehearsed his words as he walked. “I grant bounty unto you in the form of the wonders of magic. I ask only…” He frowned. Too equal. He wasn’t going to ask them for things. He was going to inform them how it was going to be, and they were going to obey. He’d picked up social skills that would help with that, and even though [Persuasion] was still low-tier, it should make this all go decently well. And if nothing else worked, then he had other options. He caressed the pair of wands he carried. They held spells that he would be able to cast himself one day. But for now, they’d serve to make sure his point got across.
+
+Then Eril felt a tap on his shoulder. He stopped, brushing off his shoulder. He hadn’t heard anything, and he didn’t want to look a fool by jumping at phantoms. But the tap repeated, and he turned around slowly to face a newcomer who had appeared out of nowhere.
+
+It was an incredibly tall young man dressed in rough clothing, with heroic muscles and dirty blonde hair just barely too short to get in his eyes. Eril raised his eyebrows and opened his mouth to practice his spiel. This would be a good chance to get the lay of the land, and he was far enough from the village that he could hide a body if necessary. But he paused, briefly intimidated by the stern expression and hard eyes of his counterpart.
+
+“What are you planning here, Eril?” the young man asked. His voice was curious, but not in a way that was genuinely interested in the answer to his question. The tone was more like that of a judge asking a guilty man what kind of sentence he expected.
+
+“I’m here — to help!” Eril protested, stumbling over his words and raising his hands as if to protect himself. How did this man know his name? Then he realized what he was doing and brought his hands down, straightening his clothes. “I am from far away, from the lands of Sangrad. I bring magical power and knowledge of many things. I will aid your people if I decide you are worthy of my bounty.” He brought a hand up and snapped his fingers, conjuring a blue-green flame between them as a demonstration.
+
+The other man pursed his lips, unimpressed. “What are the wands at your belt for, then?”
+
+Eril glanced down and then back up. “Self-defense! These backwaters are dangerous places. But tell me, what is your name?”
+
+“I’m Nathan,” the man replied. “Nathan Lark.” He stared Eril in the eyes, as if searching for recognition. He smiled without mirth when he didn’t find it. “What do you want from Sansal in return for your bounty?”
+
+Eril made a show of shrugging. “I want merely to do good deeds for those less fortunate. These people live in hovels. I can teach them to build mansions.”
+
+Nathan held eye contact. “I don’t trust you. I’m going to go back to town and warn them not to accept your help.” He turned and started walking along the path as if he didn’t have a care in the world.
+
+The wand was cool in Eril’s hand as he drew it and carefully lined up his shot. He’d chosen the force dart over a fireball, since it was quieter. But it did mean he needed to aim. “No, you won’t.”
+
+The dart of force lashed towards Nathan’s back and evaporated into nothing. The young man turned back around with a grim look on his face. “Questors,” he spat, not even blinking as Eril fired another dart of force at his face.
+
+The Questor tossed the defective wand aside and drew the fireball wand with shaking hands before aiming it at Nathan. It refused to activate. The magical components binding it together came apart in Eril’s hands, and he watched as the expensive artifact fell to the ground in pieces. Eril looked up in time to see Nathan reach straight through magical shields to grab hold of his robes.
+
+“Davrar is not your playground,” Nathan said harshly. “The mortals are creations of this world, but that does not grant you the right to do whatever you wish to them. They have lives, and just because they will end does not make them worthless.” He held the Questor aloft, arm solid as a bar of metal.
+
+He watched Eril, waiting for him to stop squirming. When the Questor eventually fell limp, Nathan continued. “This is a warning. You may engage with Davrar and participate in the games of Questors. Find adventure, learn magic, fight in polite wars. But do not disrespect the mortals. Treat them as they wish to be treated, or else I will banish you from this world.”
+
+“Who are you?” Eril croaked out.
+
+“I am Davrar’s soul,” Nathan replied. “I watch over this world and ensure that people like you don’t do whatever you want. Now, if you’ll excuse me, I need to get to a friend’s hundredth birthday party. I spent long enough gone from their lives before I remembered how to be small again.” He cocked his arm back and hurled Eril skywards. The force of the throw broke ribs, and Eril screamed painfully as he saw the ground receding beneath him.
+
+Somehow, he saw Nathan give him a perfunctory wave before vanishing. Then Eril’s view spun to the ruined fortress that housed the seal. It rushed beneath him, and he flailed as if to reach down and grab onto the ruined stone. But it was hundreds of feet below him, and he flew past and began to fall towards a ruined wasteland of stone on the other side of the ancient fortress. Eril reached desperately for the levitation spell to control his descent. A blue box appeared in front of him.
+
+The magic failed him, and all Eril could do was watch the ground approach and contemplate the choices that had brought him here.

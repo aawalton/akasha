@@ -1,0 +1,165 @@
+---
+id: bc122c33-a0bb-59de-81f8-1cce20f78486
+page-type-slug: story-chapter-royal-road
+title: "93 - Monster Slayer"
+slug: 0094-93-monster-slayer
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 94
+ownLength: 1534
+unit: words
+publishedAt: 2026-08-23
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3852533/93-monster-slayer"
+royalRoadId: "3852533"
+---
+
+I wasn’t quite sure how to feel about going through Whale Isles’ dungeon again. On one hand, it felt nice knowing what to expect. On the other hand, this was where the entire ordeal with Aurelius began in the first place.
+
+Unlike last time, we didn’t have Tuna or the griffins to get us through. Most of us relied entirely on magic, while Talon and I used our wings. It was ironic that I was using the wings I’d obtained from the dungeon’s final section to make my way through the beginning.
+
+Kaelor led the way, blowing away debris and rubble out of our path as we flew toward the inverted city. Halfway there, my [HIDDEN PATH DETECTION] skill activated on its own. In case you don’t remember, the skill was recently upgraded to automatically detect secrets.
+
+A faint blue light appeared in front of me, leading toward one of the nearby floating structures. It was a church with shattered stone walls, most of which were covered in moss.
+
+“Hold on, everyone!” I yelled out.
+
+Kaelor—with his inhuman reaction—instantly stopped, causing Talon to crash into him. Meriel and Reina managed to stop just before crashing as well.
+
+“What’s wrong?” Kaelor called, looking back at me.
+
+I pointed at the church. “I think there’s some good loot in there. My nose is tingling.”
+
+“Since when could your nose smell loot?” Meriel asked.
+
+“Since now.”
+
+I began to fly toward it.
+
+Meriel sighed. “I thought we were here to get to the manor, not for loot.”
+
+Talon laughed. “I’m not complaining!” he said as he pointed at the anklet on his foot. “This has been pretty helpful ever since I got it from this dungeon. Maybe we’ll get some more cool stuff!”
+
+We landed at the floating church, taking a peek inside. Stone pillars lined the sides of the path. A single large statue of an angel stood on the far end, several times the size of any ordinary statue. Outside of that, the church was rather bare. It almost looked like one of those abandoned churches you’d find in a horror movie.
+
+“So where exactly is this ‘loot’ you’re talking about?” Meriel asked.
+
+Reina stepped further in, looking side to side. “Hm… I’m not seeing very much here. Is that huge statue the so-called loot you’re talking about?”
+
+“Definitely not,” I said.
+
+My eyes followed the light trail, which seemed to be leading toward the statue. However, the light died off near the end, so I couldn’t tell if it was literally pointing at the statue or behind it.
+
+Was Reina actually right? There’s no way my [HIDDEN PATH DETECTION] skill led me to a damn statue.
+
+…
+
+“Wait a minute,” I said. “A stone statue of an angel? Now why does that sound awfully familiar?”
+
+Reina turned to me, her eyes lighting up. “Ah! It looks just like those stone angels we saw back then in front of the manor! The ones that move whenever we don’t look at them!” She turned back to the one at the far end of the church. “Though this one looks a lot larger than the ones we saw before.”
+
+Just then, the stone angel’s eyelids opened, revealing glowing white eyes underneath. The entire church rumbled as debris and dust rained from the walls.
+
+“What did you bring us to, Allene?!” Talon cried.
+
+Kaelor burst out laughing, putting his hands—or, uh… sorry. His hand—behind his head. “Is this the loot you’re talking about? A surprise ambush?”
+
+Meriel facepalmed. “This was just about what I expected coming from you, Allene.”
+
+“Well I’m sorry that I’m a human who makes mistakes,” I said. “And what the hell’s that supposed to mean?”
+
+Unlike the stone angels Reina and I had seen back at the manor, this one still moved regardless of whether or not we were looking at it. We pulled out our weapons—Reina’s Giant Slayer greatsword, Talon’s slingshot, Kaelor’s dagger, and Meriel’s… hands?
+
+“You’re going into this with nothing?” I asked.
+
+“Why not? Might as well do so since I could cast magic without a staff or a grimoire now.”
+
+I shrugged. “If you say so.”
+
+Now what should I do here? I had two choices: either I could go for my trusty Dawn Sunderer and its hefty divine damage, or use Starcaller—the staff that Meriel had given me during the battle with Aurelius. Hm…
+
+Screw it. Both it is. It’d be totally badass for someone to wield both a sword and a staff, anyway.
+
+I called my [INVENTORY], pulling both of them out. Of course, I put Dawn Sunderer in my dominant hand since that’s the weapon that actually required my strength.
+
+The moment the statue took a step toward us, Kaelor and Reina shot out, facing it head on. Talon and Meriel stood in the back, attacking from afar. I took the opportunity to [INSPECT] it.
+
+[BOSS: GIANT STONE ANGEL]
+
+Level: 98
+
+HP: 100%
+
+Description:
+
+A colossal stone angel that slumbers in abandoned places of worship. Though it appears lifeless at first glance, it awakens the moment someone draws near.
+
+Assessment:
+
+Perhaps praying could calm it down.
+
+Hilarious. Praying at a giant monstrous statue coming toward us? Yeah, right.
+
+Though I couldn’t help but notice its Level. Is it just me, or is 98 awfully low? Maybe I’ve become too accustomed to seeing huge numbers lately.
+
+“What’re you spacing out for?” Meriel asked as she cast a massive fireball at the statue without looking. Was she trying to show off or something?
+
+I walked over to her, whispering, “I was just taking a quick moment to [INSPECT] it.”
+
+“Do you do that before every fight?”
+
+“Usually, yes. It’s good information, you know? If the enemy’s at an extremely high level, we’re probably better off fleeing. Though it looks like this one shouldn’t be too much of a struggle.”
+
+Kaelor attacked the statue by the head, while Reina slashed its legs. It roared after each hit, but even more so after taking blows from Reina. That wasn’t too surprising since her weapon specialized in taking down giant monsters. The statue retaliated with heavy swings of its arms. Though they were easy to dodge, one mistake and we’d get sent crashing into the church’s walls.
+
+“Gah! Take that!” Talon let out as he shot several pellets from his slingshot. He continued on with all sorts of strange noises with every attack.
+
+I couldn’t help but stop and stare because of the sounds he was making. Even Meriel did the same.
+
+“What?” he said, noticing our gazes.
+
+“You’re not going to do more damage by making those noises,” I said.
+
+“Yeah, but it makes me look cooler.”
+
+“Cooler is subjective,” Meriel said. “On the other hand, I think most people would agree you’re just being annoying.”
+
+He frowned. “You two are some party poopers!”
+
+I laughed, giving him a gentle nudge with my shoulder. “We’re just messing with you.”
+
+I took flight, aiming Starcaller at the statue’s head. A powerful blast of wind shot out, breaking off the statue’s ear. It let out a roar, trying to swat me out of the air, but I dodged the attack without much struggle.
+
+“Nice shot!” Kaelor said, flying next to me. “Let me try that.”
+
+He thrust out his hand, sending out a similar gust of wind. Instead of destroying the statue’s other ear, however, something even worse happened.
+
+He took off its hair.
+
+Yes.
+
+Kaelor took off the statue’s hair.
+
+So now we were fighting a bald, giant stone angel.
+
+Kaelor scratched his head. “Huh. That wasn’t supposed to happen. Guess I’ve gotta aim better next time.”
+
+Down below, Reina hacked off a chunk of its leg, forcing the statue onto its knees. Dust enveloped the entire church as it hit the ground, causing Reina, Talon, and Meriel to cough. Thankfully, Kaelor and I were safe from all the dust since we were high up in the air.
+
+With the monster down on the ground, the five of us unleashed our final hail of attacks. Kaelor and I plummeted toward its head. Meriel shot out both fire and wind from each of her hands, while Reina quickly climbed onto the monster’s back and impaled it through the chest, where its heart should’ve been. Statues didn’t have hearts, but still. The idea was there.
+
+Talon was—actually, I didn’t even know what he was doing. He just stood in the front of the statue with his arms crossed. Was he upset about what Meriel and I said to him just earlier?
+
+As soon as all our attacks connected, the monster let out a final roar before being enveloped in a flash of light, dissipating into the air. There was no second phase or anything. The entire fight was over without any of us breaking much of a sweat.
+
+[TROPE COMPLETED: THE PARTY’S TOO OVERLEVELED]
+
+Description: Nothing’s more satisfying than absolutely destroying an enemy after facing far more dangerous foes in the past.
+
+[SKILL ACQUIRED: MONSTER SLAYER]
+
+Type: Passive
+
+Effect:
+
+- Previously defeated enemies take increased damage
+
+Warning: You have reached the maximum number of passive skills (10/10). Please discard or reroll an existing passive skill, or any newly obtained passive skills will be lost.

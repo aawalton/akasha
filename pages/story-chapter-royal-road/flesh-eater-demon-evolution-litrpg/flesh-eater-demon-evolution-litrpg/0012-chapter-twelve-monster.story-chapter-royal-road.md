@@ -1,0 +1,189 @@
+---
+id: cc9046ca-b47d-51a5-9603-7d3a18eee4a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twelve: Monster"
+slug: 0012-chapter-twelve-monster
+partOf: flesh-eater-demon-evolution-litrpg
+position: 12
+ownLength: 2686
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2559121/chapter-twelve-monster"
+royalRoadId: "2559121"
+---
+
+The first human to notice them looked like a scout. He was carrying a bow and arrow, and his eyes had an odd gleam to them when the light hit them at the right angle. Maybe he had some kind of special skill or something, Pyre mused.
+
+Whatever it was, he was the first one to spot them. She could see the moment his gaze landed on them, round eyes widening like saucers. He took a step back, mouth opening to warn the group, but Pyre was already prepared.
+
+Quickly, she shifted the flesh around her floppy “arm” into solid bone, then extended it out with ligaments connecting the smaller sections. It wasn’t as neat as the whip-like appendage her fellow flesh lump had managed to make in the pit, but it got the job done.
+
+Just before any sound could leave the scout, the bone-rope shot forward, coiling around the man’s torso and yanking him forward. He made a strangled sound as his breath was squeezed out of him. His companions yelled and drew their weapons, but it was too late.
+
+Pyre retracted the bone-whip, and yep, it was a lot harder to control its trajectory than she’d thought. Physics and wave motion or whatever. She soon gave up on trying to aim it and instead tossed the human up into the air, where gravity could do the job for her. The ranger screamed as he plunged downwards, landing straight inside the demon’s open, waiting maw.
+
+[You have devoured (1) Human Ranger Lvl 9][Experience earned!]
+
+[You have gained (1) [Nails] subtrait shard]
+
+[You have gained (1) [Flesh Composition] subtrait shard]
+
+[You have gained (1) [Omnivorous] subtrait shard]
+
+[You have gained (1) [Far Sight] subtrait shard]
+
+[Required amount of [Nails] subtrait shards collected][Apply subtrait shards to [Keratin] trait?]
+
+[You have gained (1) [Ranger] class shard]
+
+Ah, it looked like she was right about that special sight ability. She was getting less subtrait shards from humans now, she noted, which was a little surprising. She would’ve thought there’d be more, but maybe she didn’t have the right traits yet to get those shards. There were probably a whole slew of subtraits for organs and shit.
+
+Pyre munched down on the human some more—by now she’d gotten pretty good at eating around the bones and clothes and other non-edible parts. She wasn’t sure what she’d been expecting for flavor, but flesh turned out to be a combination of savory, rich, and just a touch sweet. Her old memories bubbled up, drawing comparisons to pork.
+
+It tasted good. Delicious, even. But she couldn’t help but feel faintly disappointed. It was hard to tell why, though. Maybe part of her had been expecting the satisfaction to last a little longer. She was a flesh-eating demon—this was supposed to be her “thing,” right? Where was the burst of joy? Where were the fireworks?
+
+The smell of acid and the feeling of something crashing into her broke her out of her thoughts. Pyre twisted an eye around to see the remaining four humans had caught up, and one of them had her hand raised, palm still glowing with lingering magic. She was yelling something—there was a lot of yelling going on in general.
+
+“—didn’t say it was a demon, not a chimera!”
+
+“—surround it, we can’t afford to—”
+
+“—is that a ghost—”
+
+“—where’re the others—”
+
+Pyre mentally tuned them out. The magic blast hadn’t even singed her flesh, her magic resistance too high for the spell to have done any real damage. She saw the mage curse and take a step back, hand already glowing again.
+
+Pyre contorted her flesh and stretched one end out to wrap around the mage’s arm. She made an alarmed sound, but by then, the demon had finished devouring the ranger. She spat out the bones and absorbed the mouth, regrowing it directly in front of the mage. The gleaming rows of teeth slammed down before the human even had a chance to scream.
+
+[You have devoured (1) Human Mage Lvl 8][Experience earned!]
+
+[You have gained (1) [Flesh Composition] subtrait shard]
+
+[You have gained (1) [Omnivorous] subtrait shard]
+
+[You have gained (1) [Mage] class shard]
+
+“Run away!” someone was yelling. Callan, Pyre realized. He was floating wildly about, translucent sphere zipping back and forth in an attempt to separate the remaining patrol group from her. Despite his best efforts, it didn’t seem to be accomplishing much other than making the humans flinch every time he flew too close.
+
+“Tom, you take on the ghost! We’ll deal with the demon!”
+
+“What? No! I’m trying to help you!”
+
+Despite Callan’s protests, the patrol group quickly split into two. A second mage moved closer to Callan, a spellbook in hand, while a man gripping a sword and a woman with a spear faced Pyre with grim determination.
+
+“Did you devour the other party?” the woman asked through gritted teeth. Her eyes blazed with fury, shining in the light like a flickering flame, while her hands trembled in rage around her weapon.
+
+Pyre watched with a detached sort of interest. She opened her mouth, all sharp teeth and blood splatters, and answered, “What do you think?”
+
+It was a genuine question. She thought it was pretty obvious; there was no way the warrior didn’t know she’d killed the other party. And yet, despite this very clear fact, the confirmation only seemed to further ignite her anger. Had she been holding out hope? The demon couldn’t think of another reason for her to react like that.
+
+The guard let out a furious yell and hurled her spear forward. It jetted through the air, aimed straight at the demon’s open maw. But just before it could hit, a plate of bones shot out from the flesh mound. The tip of the spear slammed into hard white before bouncing off ineffectually.
+
+Something dug into the flesh on the other side of her body. Pyre swiveled around to see the other warrior attempting to slice through, pressing his entire body weight down on his sword, but the blade remained stuck. Through her other eye, the first guard was grabbing her fallen spear and readying to lunge again, but the demon had already seen enough.
+
+Focusing on her [Ossification] trait, she shot two sharpened bones out both sides of her. They pierced straight through the two humans’ stomachs. She heard one of them gasp, or maybe it was both of them. It was hard to tell. Their weapons fell to the ground with a clatter.
+
+Before they could struggle or bleed out, Pyre absorbed and regrew her two active mouths, one for each. With a snap of her jaws, she severed their heads from their bodies.
+
+[You have devoured (1) Human Warrior Lvl 9][You have devoured (1) Human Warrior Lvl 8][Experience earned!]
+
+[You have gained (1) [Flesh Composition] subtrait shard]
+
+[You have gained (2) [Omnivorous] subtrait shards]
+
+[Required amount of [Flesh Composition] subtrait shards collected][Apply subtrait shards to [Amorphous] trait?]
+
+[You have gained (2) [Warrior] class shards]
+
+[Required amount of [Warrior] class shards collected]
+
+[ERROR: No class crystal found][You cannot change into the [Warrior] class at this time]
+
+Still no level, Pyre thought idly while she tore into the flesh. They tasted largely the same as that first ranger had. Sure, there were some differences, but they weren’t nearly big enough for her to care. Clearly her old self hadn’t been a gourmet. She finished devouring the two humans, and once again, the brief pleasure she got from it was annoyingly short-lived.
+
+“—I’m telling you I’m on your side!”
+
+The sound of yelling broke Pyre out of her thoughts. Ah, right, there was still another one. She turned.
+
+On the other side of the small clearing, Callan hovered in front of the remaining mage, who had one hand over his spellbook and the other one raised while he chanted. Lights glowed around him, which she now knew to be partially ichor and probably part soul glow or whatever. The mage didn’t seem interested in listening to the ghost, who was growing increasingly panicked the longer the chanting went on.
+
+Pyre watched with vague interest as a ray of fire burst out of the mage’s fingertips. Callan yelped and drifted to the side, but the edge of his spherical body did disperse slightly where the flames touched it. Interesting. It looked like magic could touch incorporeal things by default.
+
+“Stop it! It’s me, Callan!”
+
+That actually made the mage pause mid-chant. His eyes darted up to the sphere, and for a second, Pyre could see the ghost’s expression twist into a hopeful one.
+
+It immediately fell when the mage resumed chanting and fired off another blast.
+
+“Whoever you once were, you are a monster now,” the man said grimly. There seemed to be genuine regret in his voice, interestingly enough. His hand glowed again. “I’m sorry, but there’s nothing to be done now. The least I can do is put your soul at rest, for your parents’ sake.”
+
+Callan’s face shattered. This next spell, Pyre noted, looked different than the first few blasts. This one glowed significantly brighter, and when she focused, she could actually see the faintest streams of silver light—ichor—being pulled up from the ground. The aura around the mage grew brighter and brighter. Whatever spell this was, he was clearly intending it to be the last. Based on the way Callan drifted away, he seemed to know it too.
+
+For a brief second, the demon wondered if she should step in. It immediately struck her as an odd thought. It wasn’t like she knew this kid beyond being vaguely impressed at his audacity. She didn’t understand where the sudden notion had come from.
+
+It didn’t end up mattering either way, because in that moment, the mage finished his chant. The sprawling aura around him condensed down into a single ball of light hovering over his palm, so bright that it was nearly blinding. The scent in the air turned sharp and pungent, and Pyre mentally readied herself to toss up a bone shield in case she was in range of the attack.
+
+But just as she began to contort her flesh, just as the mage raised his hand to fire off his spell, a loud scream reverberated throughout the forest.
+
+“NO!”
+
+A flash of light swallowed the surroundings, engulfing everything in pure white. Pyre’s two eyes closed instinctively. She shot a shield of bones out in front of her, but there was no impact.
+
+Slowly, the light faded. She opened her eyes again and retracted the bones. The clearing looked almost identical to before, save for two major differences.
+
+The first was the mage, who now lay face down on the ground in a motionless heap. His skin had turned a monochrome grey, as if the life had been drained out of him. His arm, caught mid-spell, flopped uselessly to his side. The scent of living flesh had completely disappeared.
+
+And in front of him, where once had been a silvery sphere, was now a human.
+
+A translucent human, to be exact. The boy—man—something in-between—had collapsed onto his knees and was gasping for breath, but she could clearly see bits of the forest ground straight through him. He wore plain, simple clothes, and equally incorporeal messy hair hung in front of his face. When he looked up, Pyre realized it was Callan. Somehow, he’d upgraded from a giant firefly with a face to a full ghostly body. She raised an eyebrow.
+
+“Did you just evolve?” He didn’t have a crystal, so it must’ve been that initial Tier 1 evolution. Killing one guy seemed like an awfully low set of requirements, though. Either ghosts had it easy, or the world had it out for demons.
+
+“I-I don’t—” Callan’s voice cut off as his eyes fell on the dead mage. His face twisted, and he seemed to fold in on himself. He was already quite scrawny, but he looked especially small like that.
+
+“How did you do that?” Pyre continued, curious.
+
+He didn’t give a response. The demon moved closer, peering down at the drained mage. He didn’t have any visible wounds, she noted, and his body seemed fully intact. On closer inspection, the grasses around the man had also wilted. Interesting. Did ghosts have a [Life Eater] trait or something?
+
+She swiveled an eye around, about to ask the ghost again and see if he’d actually answer this time, but she paused when she realized he was shaking slightly. She frowned.
+
+“Are you… crying?”
+
+“Leave me alone.”
+
+“Why’re you crying?” Her voice was blunt. The question seemed to trigger something in the boy. His head snapped up, and he glared at the demon as he floated up so that his feet were hovering a few inches above the ground.
+
+“Why?” He drifted forward until he was directly in front of Pyre, rage overpowering any residual fear. “Why do you think?”
+
+“I don’t know,” she said evenly. “That’s why I’m asking you.”
+
+A bitter laugh escaped his throat. Callan’s eyes darted wildly about the clearing, moving between the bloodstains and the two headless bodies and the dead mage lying a foot away from them. “You wouldn’t understand. You’re a monster.” He spat the last word out, putting as much venom in it as possible. Flat grey eyes met his unblinkingly.
+
+“You’re not wrong.” He wasn’t, even if it stirred something in the recesses of her mind. Once again, it lay just out of reach, a fact that was starting to annoy her more. “I’m a demon.”
+
+Callan opened his mouth to respond, but Pyre cut him off. “And you,” she continued, “are a ghost.” She jerked her body towards the dead mage, and he flinched. “Neat little draining trick, by the way. Didn’t know ghosts could do that.”
+
+“It was an accident,” Callan mumbled. “I didn’t mean to.”
+
+The demon raised an eyebrow. “But you still did. Like it or not, you’re not a human anymore either.”
+
+“…Is that supposed to make me feel better? What, you think I can just flip a switch and forget about being human?”
+
+Pyre barked a laugh. The irony didn’t escape her. “Of course not. I’m just pointing it out. I don’t really care either way.”
+
+She turned away, mentally applying the [Nails] and [Flesh Composition] subtraits while she did so. Her [Keratin] trait now had all four of its subrait slots filled, which did make her wonder what would happen if she found other [Keratin] subtrait shards. Would she have to discard them? Could she replace an existing subtrait, possibly expand the number of subtrait slots she had?
+
+It was nice to focus on her stat sheet again, she thought. This was simple and easy. The longer she’d spoken to Callan, the more she thought back to those flashes of emotion she’d seen during and after the fight—anger, hate, sorrow—the more that occasional nagging sensation in her head became harder to ignore. She decided she wasn’t built for complex thinking. She was perfectly happy devouring and leveling, thank you very much.
+
+A silvery shape flashed in the corner of her vision. Clearly she shouldn’t have spoken so soon.
+
+Pyre shifted an eye over to the side. There, she found Callan drifting behind her in his new ghostly humanoid form. She shot him an unimpressed look.
+
+“You really don’t know when to quit, kid.”
+
+“I’m going to the village with you,” he said stubbornly. He folded his arms over his chest. There was a haunted look in his eyes that hadn’t been there before, and on closer inspection, his hands shook slightly. But he made no move to leave.
+
+A long silence passed between them, broken only by the sound of branches snapping under Pyre’s body as she moved across the forest floor. She briefly considered trying to devour him anyway, but she already knew she couldn’t. Not without magic or some kind of specialized subtrait.
+
+“Fine,” she finally said, keeping her eyes focused ahead. She figured at some point, the ghost would give up and wander away. Until then, she had a class crystal to retrieve. “Be my guest.”

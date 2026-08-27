@@ -1,0 +1,165 @@
+---
+id: 1860d5ec-dfdf-5424-aea7-803a77678750
+page-type-slug: story-chapter-royal-road
+title: "Chapter 430: Sylvan Archer"
+slug: 0467-chapter-430-sylvan-archer
+partOf: dungeon-of-knowledge-complete
+position: 467
+ownLength: 2955
+unit: words
+ownProgress: 2955
+publishedAt: 2025-11-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2731728/chapter-430-sylvan-archer"
+royalRoadId: "2731728"
+markedReadAt: "2026-06-29T20:28:00.688Z"
+---
+
+By the time they reached the marketplace, Ali was ready. She skipped summoning a Pit Lord, deciding it was a little difficult to manage the blood corruption. Still, she had managed to summon an Eye of Agnor with hellfire and arcane affinities, and it hovered along beside them with a small cackling gaggle of Hellfire Imps hopping and skipping below it, casually setting the creep alight with their flame auras – a hellish mother duck brooding over her chicks.
+
+She made a few kobold Fire Mages, and the holy ones too, and then her typical complement of trolls. Although she was eschewing the Pit Lord for reasons of cost and ‘doesn’t play well in groups,’ she was most definitely going to use her Scion of Azryet.
+
+“Ok, I’m ready,” she said.
+
+“Mato, tank the spawns over by that pile of rubble,” Calen said. “The boss will remain untanked – he more or less ignores Taunts anyway. Malika, try disrupting his Disengage if you can. Vivian, attack the boss this time.”
+
+“Not the tree zombies?” Vivian asked, seeming a little surprised.
+
+“Ali will do her thing, and Lyeneru and I can multishot anything she misses,” Calen answered. “It seems much more useful to get your flames burning on the boss. The vulnerability debuff will help a lot.”
+
+“Ok.”
+
+My thing… Ali glanced over at her Fire Mages and Hellfire Imps and grinned. I guess I’m too predictable. She might have gone overboard with the fire magic, just a little.
+
+As the finer details of their strategy were hashed out, Ali studied the strange Sylvan monster standing concealed among the dark and twisted oak trees, while spreading her minions out into formations she would be able to protect and manage efficiently. He had the same strange root-like legs, appearing to be a cross between a tree and an elf, but some mutation had given him four arms, and he carried two bows with the ease of an Elvish ranger.
+
+Archer – Sylvan Elf / Plant – level 141 (Nature / Death).
+
+“Ok, let’s go,” Calen said, and both he and Lyeneru vanished, visible only as hazy outlines with her mana sight. A few seconds passed as the sense of power in the area mounted, and suddenly a pair of high-speed arrows appeared, already most of the way across the marketplace, flaring suddenly with powerful enchantments and slamming into the Sylvan Elf with earsplitting detonations.
+
+Instantly, the monster vanished, and, as Lyeneru had said, Ali found herself able to track it only via her mana sight and the vibrations picked up by her Devouring Consumption and Sacred Ooze.
+
+She waited, observing patiently. Suddenly, the air filled with a hail of arrows, dark ethereal ones that filled her mind with a strange sibilant whispering and wooden ones that trailed billowing clouds of green spores in their wake. The arrows fanned out across the entire marketplace, and suddenly, she was very busy. Barrier shields flickered in and out, intercepting arrows intended for her acolytes or mages, blocking the sudden Ambush strikes with loud cracks and golden flashes. She ignored Calen and Lyeneru, knowing they would just dodge, but many of her minions needed protection.
+
+Her imps, she left alone, relying on the flickering golden shields of arcane energy granted by the Eye of Agnor’s arcane aura to protect them. It hadn’t escaped her notice that her Eye of Agnor, summoned with her mana, used her signature golden arcane magic rather than the more common purple they used when she had encountered them in the Lair of the Demon God.
+
+Domain mana flared from behind the rubble where the boss had hidden himself, and a pair of huge, hulking trees materialized, charging out toward their forces.
+
+Zombie Dark Ent – Undead Treant – level 110-113 (Nature / Death) x2
+
+The trees appeared to be Lirasian Oaks, twisted and mutated by the pestilent domain of the Blooming Rot dungeon, turned into undead monsters covered with dark fungal growth and rotting wounds. The weight of their knotty, root-like legs made the ground tremble as they met Mato’s challenging roar.
+
+Several Creep Spores appeared, crawling their way out of the spore clouds, scrambling toward her healers. A barrier and several firebolts took care of those as she readied her monsters.
+
+You have been cursed with Death’s Grasp+34 Death damage per second.Death Vulnerability (+25% more damage from Death).Level 56 Raise Zombie cast on death.Curse – Duration: 30 seconds.
+
+The message pinged in her mind; a curse applied to Tol’brekk as he leapt for the Sylvan boss. “Decurse that,” Ali instructed.
+
+“Yes, Seeker,” her Kir’vella said, the evolved Spirit Walker standing a little crooked and hunched beside her, and the curse vanished in an instant.
+
+Two more zombie trees appeared in a flash of summoning magic, and as soon as Mato had them locked down, she responded. “Ok, begin.”
+
+Tol’brekk roared, leaping across the ruined marketplace, bringing his bloody greataxes down on the Sylvan Archer and smashing through rubble and trees to get at his prey. The blood shamans – tiered up to Bloodwielders of Aman Rak, now – vanished instantly, appearing from a pool of blood shed by the flying berserker. Kir’mogan and the Bone Champions shot off across the fractured stone ground and creep, leaving spines and bones sticking out in their wake.
+
+Overhead, the massive void dragon roared, releasing a sizzling beam of pure black that sliced through rock and trees with equal ease, filling the air with the stench of burned creep and the pungent odor of ozone.
+
+“Fire on the trees, everything else on the boss,” Ali commanded.
+
+Her kobold mages, both holy and fire, and her Hellfire Imps immediately unleashed a storm of fireballs at the monsters Mato was tanking. The ice mages unleashed their swishing streams of ice that flew through rock and trees, striking the Sylvan Archer, hopefully slowing it down with their chill affliction.
+
+And the Eye of Agnor unleashed all its fury. It teleported right behind the zombie trees, chaining an amplified immolation with twin hellfire fireballs into their dark rotten trunks and branches, and then fired a six-way stream of golden arcane bolts that arced upward into the air, unerringly homing in on the invisible and sprinting archer boss, something her demon could easily see with its mana sight. Then it began cursing the trees with Explosive Conflagration.
+
+Ok, that’s good. “Healers, watch Mato’s health in there.”
+
+Lyeneru tracked the boss through its Fade using True Sight, unleashing arrow after arrow as it sprinted from cover to cover. When it retaliated, she flared a little more energy through her wings, dodging sideways. It was a blessing that this monster did not have homing or guided arrows; it was more than annoying enough already.
+
+Archers are annoying! she thought with a wry grin. In fact, it was her only real criticism of Aliandra’s minion choices and strategy – she had not brought any archers. The choice to leave out the Sylvans was smart, though; their nature damage would only be a hindrance in this fight. She relies on mages too much. A good fire archer or ice archer would be so effective.
+
+She continued her assault as she studied Aliandra’s monster deployment with curious interest. She’s gotten better, though, she concluded, observing the tight formations designed to be easier to protect from sudden ambush with her barrier magic. Why is she not engaging, though? The delay might be waiting for the fight to stabilize, but they were on a time limit for respawns.
+
+Then she heard Aliandra’s soft Fae voice speaking. “Ok, begin.”
+
+Instantly, the melee monsters burst into action, but to her surprise, they charged the boss instead of the summoned tree zombies. She turned, just about to say something, when the entire marketplace erupted with an artillery onslaught of fire. The horrific eye demon appeared among the zombie trees, and unleashed multiple blasts of hellfire, while the mages rained a devastating barrage of fireballs, most of which detonated right on top of Mato in a hellish flickering inferno of black, red, and white flame that almost entirely blotted out the trees and the bear fighting within.
+
+Her glance flickered to Aliandra in worry, but the girl was focused, and so were the healers beside her, and when her eyes returned to Mato, she could barely see the holy magic flickering within the intense immolation keeping him alive. That and the holy fireballs. How does that even work? While she was familiar with the strategy of using a tank as an area attack target, she could not see the benefit here.
+
+But her eyes widened the moment she recognized the curses going up. Explosive Conflagration! It was one of the deadliest curses used by flame warlocks and fire dungeons alike. Then the eye demon launched another attack, filling the sky with six streams of powerful-looking, dense arcane bolts that curved, arcing their way through the air as they unerringly homed in on the invisible Sylvan Archer, joining with the soft streams of ice that seemed to ignore cover and barriers, seeking out the boss wherever he tried to hide.
+
+My goodness! She’s more powerful than a full raid group! Lyeneru stared in shock despite the fact that she knew what Aliandra was. The onslaught was scarcely believable, filling the area with a deafening roar of continuous explosions and waves of heat. Yet, Aliandra’s grasp of strategy had been greatly enhanced since Lyeneru had last seen her fight. Every detail seemed to be covered; her minions were chosen optimally with the proper perception skills to track invisibility, good skills to target a fast and wily foe at range, negating cover and evasion, while still bringing unbelievable fire to bear on the plants to exploit their vulnerability. She could only admire the use of synergies of holy fire to heal Mato and the flickers of shields that sprang up around the imps. Even the blasts of void and the occasional stray fireball seemed calculated to wipe out the accumulating poison spore clouds.
+
+“Oh, shit!” Aliandra blurted out suddenly.
+
+“You ok, Ali?” Calen asked.
+
+“Yes, all fine,” Aliandra answered after a few seconds. “A Fungaloth broke through my defenses and almost killed some guards at the refugee camp. I had to use the holy Fire Mage to heal them through the fight. They were a little freaked out by the detonations, but they figured it out quickly.”
+
+It was a simple exchange, but the implications dramatically and instantly changed Lyeneru’s assessment of Aliandra. She’s fighting out there, too, she thought, simply astounded. The power Aliandra was bringing to bear in this raid that had so impressed her was but a small fraction of her forces and her attention. The bulk of her power and the true strength of her class were back in her domain, protecting the townsfolk and fighting the entire Blooming Rot dungeon on every level simultaneously.
+
+She’s probably fighting underground, too. Holy shit! Any lingering doubts about the strategic value of rescuing Aliandra vanished like smoke in a gale, and an unmistakable shiver took hold inside Lyeneru as she instinctively recognized the power of a dungeon fully engaged. Thank everything that’s holy she’s on our side…
+
+I’m so glad she’s back, Calen thought, watching the continuous barrage of at least three distinct varieties of fire magic tearing up the remains of the marketplace. He kept up the rhythm of his arrows, matching Lyeneru in the air beside him, but the fight couldn’t be more different than the first time they had tried it.
+
+Their arrows were joined by golden arcs of arcane bolts rising from the terrifying eye demon Ali had summoned, and across the clearing, ice bolt streams pierced through trees and rubble, all the magic unerringly chasing the fleet-footed – or rooted – Sylvan Archer wherever he tried to hide.
+
+You have gained Onslaught.
+
+Calen responded to the sudden surge in his speed by releasing almost all his stamina into the instantaneous, triggered Power Shot his skill afforded, loading up an Explosive Shot enchantment and extra light damage while bracketing the Sylvan Archer with a tight cone of arrows.
+
+He did spare a thought for poor Mato, though, stoically enduring an enormous rain of fireballs, an unrelenting concussion of explosions, and the sizzling pop of the Explosive Conflagration detonating. But his delicate little Lirasian Sage floated calm and serene above the flames, bobbing in the updrafts while the dedicated kobolds’ holy magic kept the bear strong and healthy amid the flames.
+
+Another set of Zombie Dark Ents appeared in a gurgling plop of rot mana and rushed forward, splashing through pools of rot and clouds of spores to charge at Ali’s healers. Calen switched his next shot to a multishot volley spread out across all of them, including the boss, to spread Cinderstrike’s Slow curse and his chains of light among them, and drawing the Treants slowly across the broken ground and into the firestorm with Mato at its center. With a roar and an instant retaliatory claw strike, Mato secured the dark trees, and they quickly started to burn.
+
+“Twenty percent,” Ali called, causing Calen to tense up, but no new domain magic skill presented itself as they crossed the most common threshold for enrage or other low-health powerups.
+
+A shimmer appeared behind the boss.
+
+“Adds!” Malika shouted.
+
+“I’m on it,” Calen said, releasing another multishot volley, striking the respawned Sylvan warriors with his Grappling Shot, locking them down and setting them on course toward Mato again. His job was remarkably simple, really. With the fire taking care of all the summoned monsters, he didn’t even need to use his area damage much, and so he was just on spawn control, and extra damage on the boss. He fired another multishot volley, killing several creep spores with the extra arrows.
+
+As soon as Mato had picked up the warriors, Calen decided the fight was stable enough, and so he used Righteous Fury.
+
+You have gained Onslaught.
+
+Perfect! He unleashed another massive Power Shot upon the slippery Sylvan Archer. Arrows and magic hailed down, unhindered by the evasive maneuvers of the boss, nor the cover he tried to hide behind, and a few minutes later, the chime and collapse told him they had won.
+
+Your group has defeated Archer – Sylvan Elf / Plant – level 141 (Nature / Death).
+
+This was so much easier, wow! The moment the remaining summoned monsters also collapsed, flaming out like dry brush in a bonfire, he flipped open his notifications, eager to see what he’d earned.
+
+Realm Hunter has reached level 124 (+4).+40 attribute points.Radiant Archery has reached level 71.Arrows of Brilliance has reached level 68 (+2).Motes of Light has reached level 48.Explorer has reached level 68 (+2).Blessing of the Dawn has reached level 49 (+2).Eclipse has reached level 39.Eyes of the Archon has reached level 46 (+3).Righteous Fury has reached level 44.Azrael's Wings has reached level 32 (+2).Mirage Armor has reached level 46.Bowcraft has reached level 13.Cartography has reached level 23.
+
+Wow, that’s all coming along very nicely. He studied the skill advancements closely and then turned his attention to the new attribute points. They would come in handy for the next fight, for sure. With a few quick mental calculations, he spent ten points on dexterity, eleven each on intelligence and perception, and two each for all the others.
+
+There, now I’m ready for anything! He chuckled to himself. Well, ready for the next fight, anyways.
+
+Mato shook his head, slowly transforming back to his Beastkin form. His ears were ringing, and his nostrils were filled with the acrid stench of hellfire. He stumbled over to the others and sat down, waiting for his senses to recover – he wasn’t injured at all, it was merely the auditory and scent versions of afterimages after being hammered in the middle of a continuous rolling explosion for almost twenty minutes.
+
+“I need a minute,” Mato said, stretching his neck muscles and yawning.
+
+“What about the respawns?” Malika asked.
+
+“I’m already dismantling the domain along the path we took into town,” Ali said, her face still drawn into a mask of pure focus. “We should be ok.”
+
+“Thanks,” Mato said. After about five minutes, his senses calmed down, and, while the others discussed the fight and the gear, he retrieved his gardening trowel, spying a few rare herbs sprouting off to the side in amongst some rubble. Plants that he had only ever seen growing in Eliyen’s garden, and he was certain she would want them properly collected if she was ever to recover what the dungeon had uncaringly consumed.
+
+Without the urgent pressure of impending respawns, he took the time to study his growth.
+
+Elemental Shapeshifter has reached level 124 (+4).+40 attribute points.
+
+Four levels? Not bad, but I’m never going to tease Malika about sitting in the fire again.
+
+Arboreal Sanctuary has reached level 53.Swipe has reached level 68 (+2).Brutal Restoration has reached level 62.Bear Form has reached level 63 (+3).Rampant Growth has reached level 32.Bestial Combat has reached level 52 (+2).Natural Prowess has reached level 50 (+3).Survival Instinct has reached level 63 (+2).Battle Trance has reached level 45 (+2).Herb Gathering has reached level 24 (+2).
+
+He spent an even ten points on each of vitality, strength, and endurance, and then stared at dexterity for a few moments. Next time, he decided. Next time, I’ll give dexterity and intelligence a little love. He split his final ten points evenly between wisdom and perception.
+
+Getting stronger! Although he hadn’t failed to see just how far Ali had advanced while she’d been stuck in the Abyssal Realm. He would have his work cut out for him if he wanted to catch up.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

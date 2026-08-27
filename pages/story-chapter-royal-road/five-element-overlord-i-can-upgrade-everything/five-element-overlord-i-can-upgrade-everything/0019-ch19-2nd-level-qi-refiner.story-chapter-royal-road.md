@@ -1,0 +1,97 @@
+---
+id: 0115f288-1b56-5c0e-be2b-27ca03cdf5bf
+page-type-slug: story-chapter-royal-road
+title: "Ch19 2nd Level Qi Refiner"
+slug: 0019-ch19-2nd-level-qi-refiner
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 19
+ownLength: 1033
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211923/ch19-2nd-level-qi-refiner"
+royalRoadId: "3211923"
+---
+
+A hot wave of raw qi floods into my meridians, contained by a familiar golden light.
+
+The energy is at least 20 spirit stones' worth of qi, even more than the large bite of the serpent’s plum, yet the energy is so much more compact and pure.
+
+It feels like spirit stones are being injected straight into my bloodstream. There is no other motive connected to this energy flow at all. It is completely neutral, unlike the sharpness in the orange fruit.
+
+Instantly, I feel it flooding into my dantian like a crashing wave against the hard translucent wall that has been an unbreakable limiter around my growth this past week.
+
+The sensation of microfractures forming all around this glass sphere appears in my mind, and I calmly circulate the hot qi in my body over and over for 2 full hours.
+
+With every circulation, the microfractures grow larger, but by the time the intensity recedes, my dantian just feels even more hot and uncomfortable, and my flesh and meridians have been saturated with far more raw qi than any prior days. The majority of it will be worked off and naturally dissipated into the atmosphere as I work chopping wood tomorrow.
+
+“Really? That wasn't enough to break the bottleneck…?” I murmur to myself as I slowly open my eyes and stand up in my hut.
+
+The small fractures in the barrier are all already starting to close up now that the intense flowing energy in my body has been filtered. I can feel exactly where the problem lies, it is the extremely slow saturation within my spiritual roots. Despite the massive energy flow, only a small amount is managing to stay saturating them.
+
+This invisible barrier is tethered directly to my spiritual roots. They are just as essential in the leveling-up process. My dantian may have enough qi inside it to break through, but my spiritual roots are the final gatekeepers of my potential holding this glass sphere together. They need to be saturated fully to shatter this metaphysical bottleneck in my mind.
+
+I grit my teeth and pull out all four of the remaining pills.
+
+It fills my hut with a hot aura, and light even shines out of the window into the dark night outside.
+
+Whoever is watching me can certainly see that something out of the ordinary is happening, but I can’t stop now.
+
+I think about trying two pills at once.
+
+If one wasn't enough to shatter the bottleneck, then maybe two would do the trick.
+
+Yet, in the worst scenario where it doesn't work out, I would only have two pills remaining.
+
+It would leave me without any more significant attempts to try again.
+
+Based on the amount of cracks I felt, and the pressure that one pill granted me, I’m quite confident that three pills would do the job…
+
+Yet, even that feels risky. If there is some hidden barrier I still cannot feel, only having one pill leftover once I come down would be useless.
+
+The best course of action is to throw everything I have at this barrier and not leave anything to chance.
+
+I open my mouth and swallow all four of the remaining Qi-gathering pills in a single gulp.
+
+When the rushing pressure of over 80 spirit stones' worth of qi floods my system, all there is to do is control my breathing and focus every gaseous particle of qi I can toward the barrier in my chest.
+
+It’s like being plunged into a burning hot bath once again, but with a comforting golden resonance rippling through me from the vine-like patterns that dissolve into my meridians too.
+
+My meridians are forcefully opened up, and my skin becomes hot and red like it’s being blown up like a balloon.
+
+My nose bleeds from the pressure, but my mind and soul are completely calm.
+
+Deep spider-web cracks continue to grow larger and larger around my dantian, and the spiritual roots tethered around it.
+
+There is no slow and steady process. Instead, after the ocean of white-hot circulating qi collides with it a few times, the entire barrier shatters like it was never there.
+
+All of the excess qi floods into the new space of my growing dantian, and even my spirit roots grow in capacity as an invisible barrier around them is lifted.
+
+The energy pathways that link my bones, muscles, blood, and skin together all vibrate in unison, and the residual qi resting in my body settles within as though a new depth has just been found.
+
+In the dead of night, I break through into the initial stage of the 2nd level of Qi Refinement.
+
+If this were any normal cultivator, a burst of qi would flood outward, and any nearby practitioners would feel my presence. However, the copper bell talisman around my neck perfectly contains the pressure.
+
+I sit in place for the entire rest of the night, controlling and assimilating the excess qi still rushing through my meridians, stabilizing my new minor realm.
+
+The only thing that breaks me out of my perfect meditation is the loud system notifications ringing in my inner ear.
+
+[Ding!][2nd Level Qi Refiner Check-In Time threshold met.][Would you like to Check-In?][YES] [NO]
+
+I slowly open my eyes to see the golden floating text, and the morning sun outside as well.
+
+[Ding!][Rewards have been deposited into your storage!][x2 Perfect 1st Tier Upgrade Card][Please wait 1 day to Check-In again.]
+
+Two brand new bronze upgrade cards appear in my storage beside the two that are already there.
+
+A wide smile shows across my face, as I piece together the growing trend. For every time I rise in level, my daily check-in rewards will increase too.
+
+However, this grin is quickly wiped away.
+
+The sensation of being watched has grown even stronger.
+
+With my senses now heightened even more, I can feel the direction of my two stalkers very clearly.
+
+Even so, I walk outside with a calm expression as though nothing has changed, and get back to chopping wood.
+
+The only thing on my mind today is to figure out who they are, what they’re after, and how to get rid of this new growing problem…

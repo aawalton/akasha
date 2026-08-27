@@ -1,0 +1,95 @@
+---
+id: 6ddab305-8978-578a-9edd-fd208a745698
+page-type-slug: story-chapter-royal-road
+title: "Chapter 559: Divine Archon Versus Haverron"
+slug: 0602-chapter-559-divine-archon-versus-haverron
+partOf: dungeon-of-knowledge-complete
+position: 602
+ownLength: 2250
+unit: words
+publishedAt: 2026-03-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3129562/chapter-559-divine-archon-versus-haverron"
+royalRoadId: "3129562"
+---
+
+Ali stood out at the front of the raid group beside Mato, and for once, she could level a look to meet his eyes with her feet still on the ground. The Divine Archon she was inhabiting was tall; without his evolution that had packed more muscle, heavy hide, and wiry, ruddy fur, she would have been gazing downward to study the bear.
+
+Mato inclined his massive head and chuffed softly – softly for the immense bear. It came out as a half growl, heavily imbued with power. Ali’s gaze turned to the plaza where Nevyn Eld’s foremost general awaited them, his mithril-gauntleted hands resting on the pommel of the heavily rune-inscribed greatsword planted point down between his feet.
+
+Ali had killed this monster many times as Nevyn Eld constantly spent him and his Death Knights to pressure the Well of Divinity in Aalion, but she would never be able to lay eyes on him without remembering the cold violation of his greatsword sliding between her ribs. She shuddered. The Devastator was a powerful foe, and despite their full raid group with eight third-tier members, it wouldn’t do to underestimate him.
+
+The Devastation Knight’s massive teleportation array sat dark and unpowered, and for now, the Well of Divinity was quiet besides the ever-howling winds. Undead monsters still poured into her domain from somewhere via the entrance at Volle, to be repelled by her and Naia’s bosses working in tandem, but by far, the bulk of the Blind Lich’s forces were invested in the siege of Myrin’s Keep, assaulting the battlements with the tireless energy of the undead.
+
+As she verified that every inch of her domain was properly defended by allies or minions, Ali returned her attention to the upcoming confrontation. She pulsed a tiny bit of mana, and a massive Holy Avenger greatsword appeared in her hands. It was a marvel to experience just how light it felt in the hands of a third-tier being with strength as a primary attribute.
+
+She swung it back and forth, making swishing noises as it sliced the air, loosening up her shoulders in preparation, and then nodded to Lyeneru to indicate she was ready. With her tiered-up Martial Insight, she almost felt like she was the Divine Archon. Its sight, hearing, and sense of smell were all pouring effortlessly into her mind. She could feel the weight of the sword and sense the crackle of the magical buffs going up all around her. The heavy plate armor rested comfortably on her back and shoulders, and with her holy-affinity Eyes of the Archon, she could clearly see the energy powering Haverron himself – his unlife, the unholy vitality they would need to strike down.
+
+“Calen, are you ready?” Lyeneru asked.
+
+“Yes,” he answered with a confidence Ali was certain he should not have. This was the only part of the plan that had caused her heart to lurch. Calen planned to kite the Devastation Rush, and to that end, he had swapped his gear around until he was certain he had the lowest health in the entire raid group – no mean feat for someone who now boasted celestial blood. In exchange, he had every single speed boost the group could muster.
+
+“Ok, Mato. Go get him,” Lyeneru said.
+
+Right next to her, Mato rumbled, shaking his head before he ambled forward, his heavy paws crunching on the rime-covered plaza. Palms sweaty and muscles quivering, Ali forced her Divine Archon into a jog following beside the heavy bear, casting a glance to either side to make sure she wasn’t the only one charging recklessly into danger. Though what use heart palpitations and sweaty palms might be back in Myrin’s Keep, she could not tell – regardless, the Divine Archon did not suffer her nervousness, and Ali forced herself to relax into the powerful minion’s senses.
+
+It was truly incredible how immersive the connection to her minion was. She was right there, charging into battle against Haverron, only now swinging an enormous greatsword instead of hiding in the back with the healers. She missed her barrier, and she very nearly triggered the Archon’s holy shield protective bubble out of sheer anxiety when Haverron’s eyes blazed at the impudence of their attack, but, at the last moment, she remembered she was wearing the best plate armor Thuli could craft. Technically, she was ‘wearing’ a Divine Archon, a third-tier celestial paladin as she might have had she taken that Avatar skill so long ago, although her experience hardly hampered her ability to manage her defenders on Myrin’s Keep’s battlements.
+
+She was still studying the deployments of Nevyn Eld’s forces while gauging the distance to Haverron and sorting her melee strategies in her mind, which was why she saw the shining storm of arrows and the all-too-familiar rolling blast of explosions rippling through the forces right outside of Myrin’s Keep’s battlements. It was the second time she’d witnessed the immense strike from out of nowhere, and she snapped her head to the side, catching Calen in an uncharacteristic moment of distraction. She raised a celestial eyebrow, and Calen just winked at her.
+
+Ali frowned, returning to the imminent clash. The impudence! I’ll get answers out of him later! Right by her side, Mato roared, crashing into the giant Devastation Knight and triggering a retaliatory sheet of solid ice a half meter thick to materialize between them as a defensive enchantment. A second later, the familiar, incessantly howling arctic winds blasted out from Haverron, filling the air with thick flurries of icy snow and driven sleet. To her surprise, the Archon could see clearly through the storm. A circle of deadly conjured swords of pale blue ice bloomed from within Haverron, arching up over him to create a brief crown before they swooped out and began slashing at Mato, sizzling and crackling as they found their gaps blocked by suddenly appearing black oval shields. With a thought, Ali healed him.
+
+Two can play that game! she thought, and she used the archon’s signature Celestial Sword skill, flinging her holy greatsword out in a swooping arc, not unlike a boomerang. As it sliced through the ice and winds, it left whirling afterimages in its wake that converged toward Haverron as if his very undeath were a magnet for the holy weapons. Ice swords met holy images, and consecration began to flare up within the arctic storm. To her delight, Ali found that with a focused application of willpower, she could direct the holy sword images.
+
+The Archon, reacting on instinct, stuck out a hand, and the hilt of her giant greatsword slapped against her palm – some of Thuli and Kavé’s greatest work, in Ali’s opinion.
+
+Spells flickered in short, blinding bursts and staccato flashes as the rest of the raid engaged. Wind and ice mounted, summoned by the great Devastation Knight in the center of the storm, and the ground stirred as skeletons crawled to ghastly unlife, bidden by Haverron’s unholy magic. It was, she realized, a ridiculous advantage to know how that was achieved – an exquisitely designed combination of gear enchantments, skills, and the power of the Eye of the Lich ring she wore on her own finger. Every minion Haverron summoned would benefit from many of his own buffs, skills, and aptitudes – just like hers – and every undead crawling out of the icy ground would be subject to his soldier tithe.
+
+Ali swapped her aura to Turn Undead, and in an instant, every skeleton below level one hundred disintegrated into clouds of bone-white ash to be snatched up by the howling storm winds. Those that survived the aura quickly succumbed to the rain of fireballs, arrows, and whirling holy blades. The holy fires of Consecration began to build as Havok joined in, and Ali’s priest laid down Zone of Destruction. And if she wasn’t much mistaken, Mato’s delicate tree sage seemed to be tossing out a few strategic patches of its own.
+
+Haverron began to burn.
+
+Ali swapped her aura briefly to Redemption, causing all the skeleton corpses to melt and then evaporate into mana, drawn in by the aura to replenish her own, before she swapped it to Fanaticism, much to the obvious delight of Devan and the other melee raiders.
+
+“Time to smite,” Ali murmured, lighting her sword on fire with the power of the Holy Smite skill as she turned to unleash it upon Haverron with the flames of justice burning in her heart.
+
+“Here, try this,” Mato said.
+
+“Huh?” Ali said, but the Lirasian Sage danced a pirouette high up in the air and tossed a ball of green mana at her. Immediately, she began to swell, growing to enormous height as her strength mounted.
+
+You have gained Giant Growth.
+
+Let’s not get carried away, Ali, she told herself, but despite the seriousness of the encounter, she couldn’t quite suppress the surge of excitement and the rush of battle, and for just a moment, she understood Mato’s passion for combat. There was nothing quite like the visceral thrill of face-to-face combat in her experience. Especially when she was three times her Divine Archon’s normal size and beating down one of the Lich’s favored Devastation Knights.
+
+It helps that I’m in Myrin’s Keep, and the Divine Archon is ridiculously strong, she told herself, before she developed an unhealthy addiction to combat.
+
+Still, Haverron’s skill with the sword was uncanny. Even though her archon was a tier higher, and even though she had amplified her Celestial Sword mastery skill, she struggled to land a clean hit through his flawless flurry of blocks and parries.
+
+Unfortunately for him, she had other tools at her disposal.
+
+She took a step back and flung her sword again, filling the space with more and more images, and then she targeted Haverron directly with her Heal. He sizzled like a red-hot sword quenched in a bucket of water and howled with pain as the holy spell tore at him from the inside. While he was distracted, she unleashed a stream of arrows from her Soul Archon and Sylvan Storm, followed by a devastating Blood Vortex from the already enraged Carnage Berserker, who leapt eagerly into the fray.
+
+Ali saw the spell as soon as it manifested. The Death Knight’s body faded, growing suddenly insubstantial as he shouted a challenge. The giant berserker’s whistling axes suddenly found no purchase, slicing through the ghostly Death Knight like he was a Spirit Realm echo of himself. Instantly, the dark Knight shot off, aimed directly at Calen, but the half-elf’s body shimmered, multiplying into a host of Mirror Images that all scattered, shooting off in different directions at great speed.
+
+Haverron’s Devastation Rush was unerring, targeting the correct body without hesitation, but Calen was unbelievably fast, swooping across the plaza and plunging directly into the storm on a beeline for Mato.
+
+Hmm, not sure if this will work. Ali tried it anyway. Stamina use was not her forte, but when she spent it, the acceleration that jerked her body was unbelievable. Without the Divine Archon’s strength and endurance, she was certain she’d have been ripped apart, but the enchanted greatsword impaled the insubstantial ghostly form of Haverron like an unerring arrow piercing a bullseye from across the field.
+
+She didn’t slow him down, but her Impale skill ripped through his ghostly armor, tearing great rents in his flesh as he shot by.
+
+When his rush finally expired, he hadn’t so much as laid a scratch on Calen, and the arctic storm shifted to center on his new position. Ali cycled her auras to clear the field of the continually spawning undead and resumed her attack.
+
+“Elemental Storm!” The call echoed through the storm with a skill-amplified voice. A call Ali was used to making, but, although she could see the domain magic with her minions’ perception skills, the other mages had decent perception skills for magic. Besides, the more eyes on the dangerous magic spell, the better.
+
+She stepped forward, encasing herself in a giant bubble of shimmering, invulnerable holy magic. On cue, every single melee fighter besides Mato clustered behind her right as the Elemental Storm ripped outward, flash-freezing everything on the battlefield. A dense wall of overlapping black void scales snapped into place around Mato as he burned one of his new defensive recharges to weather the storm.
+
+Ice rapidly caked up on the outside of her holy shield, on the side facing Haverron. In the lee of her shield, she could see the grinning faces of the melee assassins, eager to get back into the fray, but Ali was not helpless inside her bubble. She began chaining her Heal skill, alternating between Mato and Haverron, even as he unleashed the apocalypse of ice.
+
+As soon as the storm passed, Ali dropped the shield, throwing her sword once more, and the thunder of continual magical detonations resumed.
+
+“All out,” Ali said, directing her minion forces. It was such a different fight with a full raid group and her away team instead of being personally present, but her minions were far more powerful than normal, benefiting from the immense bonuses granted from their third-tier advancements, Ali’s use of Authority in summoning them, the dungeon break passives, and the ridiculous power of her ring. Haverron might be a Death Knight general, but they clearly had the upper hand.
+
+She studied his health, from the eyes of Mirianth, her kobold priest, tracking the steady drop until it finally vanished.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

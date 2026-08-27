@@ -1,0 +1,115 @@
+---
+id: 087564db-4dad-517c-9f6c-8e2eec0ce204
+page-type-slug: story-chapter-royal-road
+title: "Chapter 575: Dragonsworn (Part 2)"
+slug: 0619-chapter-575-dragonsworn-part-2
+partOf: dungeon-of-knowledge-complete
+position: 619
+ownLength: 2111
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3173145/chapter-575-dragonsworn-part-2"
+royalRoadId: "3173145"
+---
+
+Mato let his roar thunder forth, not just to keep Bragni Doomhammer’s attention – he had that well-secured – but to refresh the strength debuff. The heavy hammer shimmered with power and blurred, becoming three hammers attached to three mithril-clad, undead arms. The triple strike landed with the force of successive descending meteors. He blocked the first with a lowered shoulder check, the second he caught with a hastily summoned void shield, but the last struck with bone-crushing force on his left front leg before he could yank it out of the way. Dammit! He ignored the loud crack and the black fragments of his shattered shield bouncing off his hide.
+
+Shards of shattered bone pierced through his muscles as his own weight upon his pulverized leg caused him to stumble. Holy magic burst through his wounds, smiting him with the wrath of the undead battle-cleric, but he could feel the taint of death that always twisted his magic, and the force of his Sanctuary and Incorruptible title working hard to unravel it. Again, the hammer spilled holy flame upon the ground – a lingering pool of flames that brought pain and would sap his health as long as he stood within it.
+
+Worse, it would heal Bragni, and the brutal, undead dwarf was healing himself more than enough already.
+
+Mato grimaced as he shifted sideways, favoring a three-legged stance for the moment to give a little more time for Brutal Restoration to combine forces with the timely heals from the raid healers. The deluge of healing magic set his bones straight and returned strength to his legs as he dragged Bragni away from the flames. The whole raid shifted around him, adjusting to his new position, and for most of the melee fighters, that meant they too would not have to stand in the fire to stab the foul cleric in the back.
+
+“Bark Skin, please,” Mato asked, sending his Lirasian Sage a mental request. Moments later, his hide stiffened and thickened, and he responded by casting Giant Growth on himself. His body stretched and swelled, gaining weight and strength in equal measure, and he shifted sideways and swatted the stocky, undead Dwarf against the wall with more than a little frustration in the blow. The clang of metal against stone rang loudly and, as Bragni rebounded off the wall, Mato bit down, his void-enhanced fangs slicing through the enchanted mithril pauldron like a dagger through paper.
+
+One piece at a time!
+
+“Rampage is up!” Devan cheered, clearly having learned to detect his new Rampage of the Wilds. No surprises here, whenever Mato successfully dealt critical damage, he gave everyone hitting the same target a twenty percent improvement on their ability to land critical strikes for a short time. Devan was a damage addict, and his bite was far more likely to deliver the required critical attack; it was inevitable that she would be excited about it.
+
+He chuckled to himself as he settled into the ebb and flow of attack and defense, shuffling back and forward to eke out any slight positional advantage while the rest of their team unleashed their best attacks. Mato had been horrified to hear the gongs, but after a brief hesitation, all Ali’s minions had continued attacking with her unique combat style, and he knew that his diminutive friend was still in it. Perhaps even fighting harder than he was.
+
+Time to take it up a notch, he decided, not enjoying the thought – even the slightest chance – of being the slouch on the team. She was buying them time to do a job; he would get it done. He summoned a fresh void shield, and when Bragni’s strike missed courtesy of a neat sidestep, he shoved it into his faceplate with the satisfying sizzle and hiss of void mana disintegrating mithril.
+
+“Switch tanks!” Sabri yelled, keeping track of the rotation and the stacks of Holy and Fire Amplification. Traditionally, in any guild raid, the highest-level tank would have taken that role – or the raid leader if the tanks’ jobs were too challenging. But this was hardly a traditional guild, and Mato didn’t mind; it freed him to enjoy the rush of battle. Besides, Sabri was reliable – any of the guild tanks were – and she had the most potent voice in the entire raid, easily able to carry across any racket with a tiny infusion of her soul mana.
+
+Mato sat tight, waiting for her to come and relieve him. He couldn’t exactly see what was going on, but his ears could pick out the noise and shouts, and a few moments later, Sabri’s gleaming form shot in from the side, and she shouted. Mato received a fresh opportunity to witness the power of that voice up close and personal. The air rippled as her soul magic blasted outward, crashing through Bragni, ignoring his armor.
+
+You have gained Soul Shout.
+
+Mato smiled as Sabri’s shout buffed several of his most important combat skills.
+
+The Dwarven King turned and swung at her with his shining hammer, but she was ready with her shield, deftly lashing out underneath the angled block to strike beyond his guard with her shortsword.
+
+As soon as Sabri had him secured and up against the wall, Mato turned and ran, crossing the full length of the throne room while his healers trailed behind him. He dove right into the flaming wall of Artur’s aura without hesitation and charged as soon as he was close enough, enjoying the sudden boost to his skills provided by Sabri’s shout.
+
+You have been afflicted with Fire Amplification.
+
+Well then, take this! He roared at once, taunting Artur from Havok, and lashed out with his claws. Right before his strike landed, he spent his health and mana, activating both Bestial Combat and Brutal Restoration. His void claws shredded through armor, leaving great tears behind, staggering the powerful Death Knight with the weight of his impact.
+
+Artur whirled, lashing out with his greatsword, using a potent set of skills that triggered a strong premonition of danger, but Mato had already seen his tricks, and his Critical Block answered the deadly Cleave with a clang that echoed across the chamber, briefly snuffing the flames in a wide sphere centered on him.
+
+“Got him,” Mato said.
+
+“Mato do damage!” Havok yelled, pumping his tiny green fist in the air before he sprinted off, leaving only the fires of his Consecration behind as a parting gift. At least, Mato assumed his fist was still green under all that mithril plate armor and holy defensive magic. You’ve sure come a long way, Mato thought, recalling the lowly, dirty goblin who’d come seeking the shrine without even a rusty sword to his name, wanting to make a name for himself that was better than his birth name, Sneeze.
+
+Mato grinned. It was fantastic working with enthusiastic people, and Havok was the very embodiment of enthusiasm.
+
+Your Fire Amplification has increased to 2.
+
+“Bragni is at twenty percent!” Ali called out, using the voice of her kobold priest, and even from this far away, deep in the thick of it, he couldn’t mistake the relief on Calen’s face at the confirmation that their friend was still fighting this fight with them. Relief, he had to admit, that rested well in his heart, too.
+
+“Artur, sixty-three percent!” Teagan added.
+
+The fight was going well, but Mato had to admit he was just a little disappointed. Sure, it was a hard fight, and there had been surprises, but he had expected a bit more from the final boss of the Blind Lich’s dungeon. Still, if he got to hit named Death Knights with all his might and rid the world of their foul stench and evil plans, it would be a worthwhile battle.
+
+He gave himself to the fight, the tense trading of blows, anticipating strategy, feints, and blocks.
+
+Your Fire Amplification has increased to 6 (+4).
+
+“Bragni, five percent!”
+
+“Bragni, two percent!”
+
+A soft chime sounded in the back of Mato’s mind, and his excitement faded a little more. Fights like these grew easier as time passed and threats were eliminated. Now they were down to one out of three, but right then, something happened that he did not expect.
+
+“You have killed my companions!” Artur roared, his voice deepening and beginning to shake the throne room. The flames danced higher. “Prepare to face my wrath!”
+
+Mato grimaced. Ugh, what’s he cooking up now?
+
+The blazing Death Knight began to grow, warping larger as his boots began to crack the flagstones beneath his feet. The crimson flames deepened, taking on an altogether more potent aura. His body swelled, his arms and legs twisting down toward the ground. Heavy talons erupted from his hands and feet, and scales of red so dark they might be mistaken for black erupted from his desiccated, undead skin. An agonized groan rose from him as his body seemed to knot up, the rampant changes too much for any vessel of flesh and blood to possibly hold. He shuddered violently, foaming red at the mouth. Suddenly, a pair of great, tattered wings burst from his back as he arched his head to the ceiling, his face elongating as heavy fangs sprouted within a decidedly reptilian maw.
+
+Dimly, somewhere in the background, Devan swore, “Ah fuck, that’s not my grandma!”
+
+Foolish as the jest was, it oddly served to settle the raid. Mato heard a certain grim clinking and creaking around him as bodies shifted in readiness, hands tightening on weapons and a couple of potions quickly being quaffed. He identified the beast.
+
+Artur Dragonsworn [The Rule of Law] – Undead Elder Red Dragon – level ??? (Fire)
+
+A shapeshifter! Yes!
+
+Mato charged! He shot past the giant elder red dragon, backing himself up against the wall, and roared his challenge at the powerful Death Knight turned Dragon. Artur turned and stared at him for a moment, and then thundered in Draconic:
+
+“Now, insect, you die!”
+
+The Elder Dragon inhaled massively, sucking in a wealth of flame from his own aura, and then breathed out in a sustained stream. Mato’s world turned to red as the hungry, roaring plume of dragon-fire consumed him. His body was resilient, and he blocked some of the incandescent red-hot dragon fire with Spell Breaker, but the flames raged on and on, searing crimson with a central core of blue so dark as to be nearly invisible. Stone turned to slag at his back and beneath his paws. His body screamed to breathe but there was nothing but flame in this intense, unending pyre.
+
+Mato’s Survival Instinct wailed in the grove of his mind.
+
+But he was a raid tank. He summoned his Shield Wall, his most potent defensive skill; an overlapping array of ebon void shields that he interposed between himself and the inferno. Six heals landed on him in rapid succession, in three entirely different affinities as the raid healing team went deathly silent from the intensity of their focus. Buffs and magical shields flickered and vaporized around him as the raid worked in concert to keep him alive and on all four paws against the maw of the unveiled draconic apocalypse. He lashed out blindly, relying entirely on his Sanctuary to feel where his prey stood, and grinned as his claws bit through dragon scales.
+
+More buffs, and several heals landed, and even a Ritual Infusion from Ali’s insane witch doctor, granting him a bonus of temporary health above his normal maximum – a mini Last Stand – at the cost of some random effect. No doubt his fur would be purple for a few days after this. A trivial price to pay for glory.
+
+Slowly, the flames faded, and sight returned as he beheld the majesty of Artur’s shapeshifted form.
+
+“Let’s fight,” he sent to his foe as he stepped out of the molten slag – all that was left of the stone floor in the aftermath of that prodigious breath weapon.
+
+Your Fire Amplification has increased to 21 (+15).
+
+Then Mato opened his mouth and exhaled forcefully right into Artur’s scaly face, unleashing the Breath of the Dragon God, granted to him by Azryet himself. Void magic shot forth from his maw in a violent jet of disintegration as he retaliated against the dragon with a weapon that would give even an Elder Red Dragon pause.
+
+“How’d you like that? Mine comes from the Dragon God himself!”
+
+His only answer was a roar of fury and a primal call to battle. This would be a battle to the death, and Mato would face it head-on.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

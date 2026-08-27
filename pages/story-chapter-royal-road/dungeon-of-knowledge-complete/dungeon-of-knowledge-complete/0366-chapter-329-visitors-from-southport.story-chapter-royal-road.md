@@ -1,0 +1,151 @@
+---
+id: ca67b518-3db2-53a4-b73a-9b33d44d9dc2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 329: Visitors From Southport"
+slug: 0366-chapter-329-visitors-from-southport
+partOf: dungeon-of-knowledge-complete
+position: 366
+ownLength: 2353
+unit: words
+ownProgress: 2353
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2478579/chapter-329-visitors-from-southport"
+royalRoadId: "2478579"
+markedReadAt: "2026-06-29T20:23:00.481Z"
+---
+
+Ali frowned at her notes and her failed experiments as if her displeasure and frustration would somehow knock some sense into the bits that most assuredly should have worked together just so.
+
+What did I miss?
+
+Coming hot off her success with the transcription of Glimmer Shards into Arcane Shards, she had naturally assumed that she would be able to apply her insights to transforming everything in her elemental imprint. Alas, the truth turned out to be far less exciting. Seemingly, she was still missing some fundamental insight, and the Glimmer Shards had been so simple that whatever she was missing hadn’t been necessary.
+
+To be so close, and yet still be denied – well, she wanted to tear her hair out.
+
+In frustration, she had switched her efforts over to attempting to transmute soul-affinity magicite from the variants she currently knew, but the failed shards of her numerous attempts littered her desk.
+
+Ali sighed. Maybe something simpler? How did I never figure out Mom was this brilliant? She swept the broken shards from the table, making a tinkling crystal rain on the flagstones before she absently deconstructed the trash. She paged through her Grimoire slowly, studying each variant.
+
+Hmm, what about this? She paused, studying one of the most basic variants: fire-affinity magicite. It was something she had picked up as a reward for defeating the Corrupted Fire Drake at the end of the Emberforge Mines. Even the smallest slivers of fire-affinity magicite she had seeded in the mines below as a reward for defeating the Hellfire Imp boss were exceptionally popular among the crafters, after all, who didn’t want a Wand of Fireball?
+
+But Ali didn’t want to make more fire-affinity magicite – she already had that. What she had set her more modest sights on was a variant – a specialization of fire. There were three she had personal experience with: Living Flame, Inferno, and Hellfire.
+
+“Come on, Clarence. I need your help,” Ali called, trying to coax the book over to an empty spot on the table beside her.
+
+Clarence was having none of it, remaining stubbornly shut.
+
+“I’m not buying the act,” Ali said archly.
+
+Clarence continued to sit still, pretending to be a mundane book.
+
+Ali scrutinized the obstreperous book, about to chew him out for being unhelpful when a different idea crossed her mind. “Hey, if this works, I would be able to make a ball out of fire…”
+
+Immediately, Clarence blurred, vanishing from his sulking station and reappearing in front of Ali, rattling back and forth and riffling his pages in excitement.
+
+“Tsk, tsk,” Ali clicked her tongue, shaking her head. “You’re too easy.”
+
+Clarence flopped back to the table, his pages drooping.
+
+“Hey, don’t be like that. I meant what I said – I’ll make you a ball out of flame. I just need to see that chapter on transmutation again.”
+
+Somewhat mollified, Clarence sprang open and presented the proper chapter triumphantly.
+
+“Thanks!” Ali settled in to read. One of the most surprising things she had learned about Clarence was that the pages he showed rarely contained exactly the same information. Even if she had already memorized the contents – there was always something new or differently explained. Initially, she had worried that Nathaniel Sunstrider would uncover her deception when he noticed that this effect was missing from his copy, but it was exceptionally subtle – and if Ali hadn’t been paying close attention – or had less wisdom, she suspected – she would never have noticed. It wasn’t even mind magic; instead, it seemed to be a virtuoso manipulation of knowledge magic itself – something she had put on her list of things to study. Unfortunately, it was a list that kept getting longer every time she looked at it, suggesting that perhaps her list and Clarence were cut from the same cloth. Now, of course, Nathaniel finding her out was no longer a concern for the worst possible reasons.
+
+Ali allowed her mind to settle into her Study Trance as she explored the nature of fire specializations. To her delight, she ended her session with fifteen pages of notes and diagrams, and a clear understanding of the required runic structure. Within just a few minutes of adjustments to her imprint, her Grimoire reacted, and her chime sounded.
+
+Variant: Magicite (Inferno) added to Imprint: Stone.Variant: Magicite (Hellfire) added to Imprint: Stone.Variant: Magicite (Living Flame) added to Imprint: Stone.
+
+Ali fed mana into her Grimoire and created a ball of Living Flame magicite, placing it on a sheet of her barrier magic so it didn’t burn the table. It was a small crystal sphere about the size of her fist and the color of an emerald, but visible within it was a dancing heart of green flame that grew brighter and brighter as the crystal began to absorb ambient mana from the library.
+
+Clarence perked up immediately, shuffling a little closer. Ali chuckled. “Yes, that’s your ball,” she said, and lobbed it over the railing into the atrium, not in the least bit worried about mixing the Eldritch Tome and flames.
+
+Clarence took off so fast that Ali had to snatch her loose notes from the air before they flew off after him.
+
+Ali slowly worked her way through her imprints, trying combinations and attempting to create new affinities. Her next success came from the Abyssal Bloodstone they had collected in Maalgaroth’s chambers.
+
+Variant: Bloodstone added to Imprint: Stone.
+
+“Easy,” she said. After all, it just took removing the demonic trait to get a pure blood-affinity magicite variant.
+
+Her next success was a bit of a shock.
+
+Variant: Magicite (Death) added to Imprint: Stone.
+
+She had tried it only for the sake of completion, and yet somehow it had made sense to her. She stared at the nearly transparent sickly green crystal, pulsing from within with a growing black aura. Is it because I fought the Lich? Summoned a Death Knight? Is that why I’m good at death magic? Or is it because I have Seth as a protégé?
+
+Ali stared at the ominous stone for a while, trying to settle her prickling nerves. It’s just magicite, she told herself firmly. A tool. A mineral. It’s not inherently evil. Seth had even had a great suggestion for if she ever learned something like this. Only slightly reluctantly, Ali retrieved her reference tomes on death magic and began crafting.
+
+Necromancer’s Wand of Amplify Damage – level 85 (Death)A plain electrum wand with a vaguely ominous aura.+51 Intelligence.Charge: Curse your target with a level 85 Amplify Damage. Charges: 0/11.Requirements: Intelligence 596.Created by Aliandra Amariel.Main Hand – Electrum
+
+The plain wand shimmered darkly on the table in front of her, rapidly drawing mana to itself like the crystal ball of Living Flame she had made for Clarence to play with. A dangerous weapon, Ali thought – but Seth had been right: it was the perfect weapon for a summoner. Her reference manual had suggested that the traditional wand base should be bone, preferably fresh, but she was having none of that gloomy nonsense. Electrum was far prettier.
+
+Gingerly, Ali reached out her hand to take the wand, but right before her fingertips brushed its gleaming sheen, she felt the weight of their mana entering the sewer. Five extremely powerful entities landed in her domain like an avalanche of stone lands in a still pond, snatching her attention away, up to the sewer entrance.
+
+Fire, shadow, holy, ice… more fire. Using her domain-wide Arcane Insight, she identified them by the quality and affinity of the mana they were exuding as the group strode quickly through the underground sewers, heading unerringly toward the Forest Cavern entrance as if following a clearly marked trail.
+
+Warrior [Dungeon Bane] – Beastkin – level ??? (Fire)Witch [Frozen Assassin] – Human – level ??? (Ice)Priest [Dungeon Bane] – Human – level ??? (Holy / Shadow)Rogue [Prince of Darkness] – Human – level ??? (Shadow)Hunter [Flame Strike] – Half-Elf – level ??? (Fire)
+
+She managed a quick glance from a Glitter Dragonet, barely enough time to get an impression before a flaming arrow skewered her minion.
+
+Higher than me. By a lot. The Beastkin warrior in the front was a brute of a man – he had pitch-black skin covered in dense red hair thick enough to be fur, with eyes that glowed with inner crimson fire. The others following along behind him seemed equally intimidating, all emanating powerful defensive magic formations and wearing what was clearly top-of-the-line adventuring gear.
+
+And that title… Dungeon Bane.
+
+I hope they’re friendly, Ali thought, failing to suppress a shudder of fear. Her instincts were screaming at her to flee and her mind conjured fresh images of Roderik Icecrown laughing as he chased her down. Come on Ali, you don’t know that. But deep inside, she already knew she was wrong.
+
+A familiar mana formation popped into the atrium.
+
+“Ali! Danger!” Ryn yelled, the synchronicity of her warning, sending an ice-cold shiver of fear down Ali’s spine.
+
+“Oh, no! The novices!” Ali exclaimed as her domain sense caught the small group of adventurers trying to earn some experience by challenging her low-level kobolds in the sewers. They were right in the path of the oncoming invaders.
+
+“Where?” Ryn gasped, landing beside her.
+
+“The sewers,” Ali gasped, snatching up her wand and dropping it into her pocket. “I need to warn them!”
+
+Seyah lowered her center over the spear Sabri had bought to celebrate her class change as the rest of her group prepared to attack. She barely knew any of them, her head still reeling from whiplash. Just a couple of days ago, she had been a destitute farmer in Kezda, and today she was a member of a novice combat group, fighting in the dungeon of her daughter’s friend, earning levels with her spear.
+
+What a crazy turn, she thought, her eyes focusing on the small group of kobolds. But she smiled. Over the years, she had all but forgotten her youthful hopes of being a spear warrior, after all, everyone knew your class was permanent. And she had the misfortune of being given the natural path of a farmer. Not that farming was bad, she respected the profession, but it had never been her passion.
+
+And now, I have a spear and magic. She triggered Spear Rush, empowering the simple wooden spear with soul magic, and shot across the damp mossy brick of the sewers, finally using the powerful Ahn Khen footwork as it was meant to be used. Her attack struck the angry kobold, piercing its side, and knocking it down as she hit a critical weakness in its armor and her magic unleashed extra damage. The kobold collapsed into the surprisingly clear sewer water flowing through the center channel and her notification chime sounded.
+
+“Good work,” Bronwyn said, the words of their group’s leader coming out a little like a question. She was barely half Seyah’s age, but she didn’t mind – they were all novices together.
+
+“Another group up ahead,” Yshara said, the scout’s form shifting like a mirage under the influence of her concealment spell.
+
+Seyah readied her spear and took a step forward into the tunnel intersection.
+
+“What have we here?” The voice sounded like gravel grinding on rock.
+
+Seyah turned to find an enormous Beastkin staring down at her and her comrades. Behind him, several others gathered, all wearing expensive, high-level gear. She blinked in surprise.
+
+“Aww, cute,” the priest said, his voice dripping sarcasm. “You guys should run along and play house upstairs, this place is not safe for you.”
+
+Seyah frowned. She was only level three and obviously, these guys were much stronger, but being made fun of and looked down on really stung.
+
+With a flash, a hand shot out, grabbing her by the throat and slamming her painfully into the wall. Suddenly, she found herself confronting a man she hadn’t even seen, dressed from head to toe in black leather with more daggers on his belt than was reasonable.
+
+“You disapprove?” he said, his voice muffled and scratchy from behind the black mask obscuring his face. “Perhaps I should slice you up, filthy Torian. You know you’re not welcome in New Daria.”
+
+Her gut clenched in fear as her lungs struggled in vain for even the slightest taste of air, but against the grip of a three-mark, she was powerless. Her heels scraped for purchase against the damp, moss-covered brick wall and as her vision began to flicker and darken, she saw the excitement and anticipation growing in his cruel gaze.
+
+If I must join the Ancestors today, I will spit in his eye as I go. She was Ahn Khen; she did not fear death, and she had not dropped her spear. Calm certainty filled her heart as she accepted her fate. She drew back her spear, gripping closer to the steel-tipped point to get better striking leverage from this awkward closeness.
+
+“Watch it, Beltz, she’s trying to stab you,” the raven-haired witch said.
+
+“What the fuck are you thinking?” Beltz shouted at her, drawing his free hand back. There was a dagger in it shimmering with dark magic. “You’re a level three!”
+
+Suddenly, there was a flash of gold and flapping wings slammed into his face, bright motes of light shooting out in all directions. He yelled, slapping whatever it was away with his dagger, spraying its blood across Seyah’s face, but in the chaos, he dropped her.
+
+As Seyah hit the dank, moss-covered brick, a taloned hand reached out from the shadows beyond the corner, grasping her arm and tugging urgently. In no position to deny it, she scrambled around the corner, her eyes widening to the size of saucers at the sight of a much higher-level, black-scaled kobold.
+
+Dungeon spawn!
+
+But the monster pointed down the dark tunnel to where the rest of her party was fleeing, shoving her in that direction, before wheeling back toward the commotion behind her and vanishing into the shadows.
+
+Seyah did not wait to see what would happen, she clutched her spear close and fled.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

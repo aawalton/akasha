@@ -1,0 +1,195 @@
+---
+id: 192b71ea-e407-509c-b318-b4473f841af6
+page-type-slug: story-chapter-royal-road
+title: "Ch124 Battle"
+slug: 0124-ch124-battle
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 124
+ownLength: 2883
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3840684/ch124-battle"
+royalRoadId: "3840684"
+---
+
+Wang Ruze’s eyes widen, “Are you certain? How do you know? Who gave you this information?”
+
+I subtly turn my gaze to the private rooms, “No one gave me the information. I’m just more observant than others it seems…”
+
+The old man’s cultivation technique activates, and the rosiness in his cheeks slowly fades. His eyes start to track the white beetle spinning around us, and his pupils shrink even more when he recognizes it as a rare puppet, not sold to the public.
+
+I reach to grab it, “Alert your patriarch as quietly as you can. It’s far more than just the Jiang family after you. Half the foundational clans and late stage qi refining clans have taken their side too. Almost everyone left is an enemy. Whatever is about to happen, it’s far bigger than the petty price gouging you’ve been seeing in the city shops.”
+
+The moment the sound barrier falls, Wang Ruze stands up, and politely bows as though nothing out of the ordinary is happening, walking down into the lower seating area toward the Patriarch and Wang Ming.
+
+Mu Shouxin leisurely walks with Mu Shulan as well, but with his keen vision, these subtle changes in the natural order can be picked up.
+
+More and more families unaware of the Jiang family's plans naturally leave. The remaining ones group together.
+
+I decide to turn my attention toward the seats of honor on the side of the Mu family, and tighten my gaze, letting a slightly more concentrated layer of vibrations out of my physique ring for a moment.
+
+It’s pointed mainly at one person, and she turns her head away from the sky in confusion when she feels my unnaturally strong fluctuations.
+
+Lan Xin raises her eyebrows at my stern gaze, but I turn toward the highest concentration of Blood Demon’s congregation and back to her. A glimmer of yellow flames sparks in her eyes as she rethinks Tang Fuchen’s words, and pieces together some understanding. Obviously, the tensions between families building in this city is about to snap, and we’re all about to be in the crossfire.
+
+She nods, and whispers in the ear of the older woman from the Meng clan beside her.
+
+Wang Ruze interacts with his patriarch far away, and when Wang Yang crosses paths with Mu Shouxin, their style of walking throughout the venue completely shifts.
+
+The white spirit moose moves all of a sudden, walking forward off the stage.
+
+Even the brown bear and green eagle follow behind, circling around the patriarchs and heirs in a defensive pattern. Mu Zhiheng stops laughing with a few old allied late stage qi refiners, and quickly makes his way to their side.
+
+This all occurs in under a minute, subtly altering the flow of the celebration.
+
+It is not in vain.
+
+The intense waves of blood demon vibrations grow stronger in the three foundational clans’ private seating, to the point where subtle red flickers of energy begin protruding out of one of the structures.
+
+This is enough for the most perceptive members in the venue to realize what kind of physiques are truly activating.
+
+An invisible wave of vibrations comes from the entrance of the venue too, making the ground shake. It completely distorts the ambience created by calming arrays and talismans in the green apple trees.
+
+Within less than a second, the peaceful green apple orchard is suffocated by an ominous killing intent. A near perfect blind sneak attack has been orchestrated.
+
+All three structures break open at once, and streaks of dark crimson blood aura surge out of all of them in different directions.
+
+Quickly, I pull my perception expanding spirit jade from my storage, and activate it on the spot to double my range and tracking speed.
+
+I'm able to mentally follow the majority of enemies without straining myself.
+
+They are late stage qi refining patriarchs, over twenty of them. A few are even 9th and 10th level qi refiners. Some, even glowing with blood aura, with small horns and claws protruding from their foreheads and hands.
+
+None have perfected physiques, as it appears this is the first time some have transformed, or they have other acquired physiques stronger that limit them from progressing a second.
+
+The acquired heavy mountain physique is the most common one I see among the lackey clans, radiating a pure earth element aura, while the Jiang Family has an advanced version, labeled the flaming mountain physique, giving off waves of pure fire and earth elemental energy.
+
+Those with additional blood aura have their original physiques completely overwhelmed, saturating their bodies in a crimson erratic hue.
+
+Each one looks like they have orders to follow, targeting certain pockets of the Wang and Mu clans.
+
+Out of the many attackers, only six streaks of blood energy move too fast for me to see; they’re all foundation establishment cultivators.
+
+Three of them come in the direction of the stage, but only one of them dives in directly toward me.
+
+When he gets within a close enough range, the system scan of a 1st level foundation establishment cultivator from the Fu Clan appears.
+
+A perfected mortal grade heavy mountain physique, and a perfected mortal grade blood demon physique is all I manage to see. His system secret alerts me that his mission is to kill Wang Tengru along with as many high profile late stage Wang family concubines and uncles as he can.
+
+I waste no time, and jump onto the table in front of the young boy who hasn’t even registered the situation yet. The eruptions of six foundation level auras are so strong that many initial and mid stage cultivators pass out on the spot in our surroundings. The overwhelming pressure is strong enough to make my ears ring and my meridians tighten up.
+
+My verdant tower shield drops out from my system storage, and I let it break through the wood, plates, wine, and spirit fruits with a loud crash. The mind-numbing blood auras are instantly propelled away by the shield’s passive ability, and a bright flash of light erupts from our table as an old man named Fu Louyan sends an attack at my shield with his full power.
+
+Wang Tengru stands behind me, enveloped in the passive protective field, capable of witnessing the chaos now without passing out from the pressure.
+
+Even though my high grade tier 2 shield artifact is taking the brunt of the blow, I can still feel the immense raw strength of this hit.
+
+The density of the qi coursing through his dantian and body is so much heavier than qi refiners, it feels like liquid iron. Even with confidence in my defenses, the reality of the stark difference between major realms still makes my bones shiver.
+
+A dark red slash of condensed stone and crimson blood aura from his two physiques is instantly halted from hitting its intended targets.
+
+The pressure from sending out this devastating attack cracks open his already damaged and fragile soul. When it is reflected back at him with full force, all of his internal energies are shattered apart with no hope of resistance.
+
+This full-powered dual perfected physique attack of a foundation establishment cultivator was meant to obliterate the most talented members of the Wang family. He is a glass-canon, not expecting anyone to survive to counter him.
+
+His own attack destroys his fragile soul and body. Both unstable physiques dislodge from their anchors and explode, blasting a ten meter wide hole in the ground at the base of the stage.
+
+Two late stage blood demons are instantly killed from the blast behind him, and a 9th level qi refiner, Feng Baishan, is hit by a wave of the debris, forcing him to cough up blood and fly backward into a sturdy base of a high grade green apple tree.
+
+Wang Tengru’s eyes widen in awe and fear as he looks at my back.
+
+I pull out my perfect grade obsidian bow, and pull back a perfect grade arrow, aiming it right over the top of the shield to prepare for any other attackers coming near.
+
+–
+
+At the same time, two streaks of red blood aura just barely reach my spiritual senses on the far side of the stage to attack the Mu family.
+
+A wave of yellow flame pillars upward into the sky, reminding me of the scene I witnessed this morning in the fields outside the city.
+
+Lan Xin pulls out a flaming pair of curved blades, attached by a chain in the center, and she clashes against an almost identical heavy mountain and blood demon physique infused attack from the Tang Patriarch.
+
+On impact, both blades of her tier 1 perfect grade artifact crack. She quickly adjusts her body, allowing the weapon to shatter to pieces and take some of the damage to weaken the attack.
+
+She crosses both her arms, and yellow serpent eyes appear from her chest.
+
+Her forearm’s bare skin collides with the rest of the earth infused blood qi, and an eruption of flames from the serpent’s mouth blasts forward to weaken it further. The entire attack is blocked with her raw strength.
+
+Meng Ruo, and dozens of Mu family descendants stand behind her in shock. The other hundred or more are passed out, bleeding from their noses on the ground as the pressure of a 12th level qi refiner clashing with a 1st level foundation establishment is overwhelming.
+
+Tang Fuchen yells out loud in fear, “H-How? You’re nothing but a qi refiner. It is a fact you’re only good for your beauty. Even innate physiques should not be able to fight above their realm… Two perfected mortal grade physiques should be just as strong as one spirit grade. How could a 10th level qi refiner block my full force attack…” He coughs up blood as the horns in his forehead crack, and his soul fractures become even worse after putting his all into this one strike.
+
+The Tang Patriarch tries to grab blood qi pills from his robes, but Lan Xin jumps forward off the stage before he can.
+
+A single spinning kick to his chest creates fractured yellow flames all over his body.
+
+Her serpent dives in after, biting a flaming chunk out of his neck as though there is no difference in their strength.
+
+Many late stage qi refiners observing the scene can’t move, unable to comprehend what they’re seeing. It is true, in every normal circumstance, it should be impossible for a qi refiner to lay a finger on a foundation establishment cultivator without special tier 2 artifacts.
+
+Even perfected 10th level qi refiners, they do not physically have enough qi stored in their dantians to create dense enough attacks or defenses. Normally, only a select few of battle oriented Noble Grade Physiques or higher have been known to fight above their realm.
+
+There is no logical explanation for the sight unraveling before their eyes.
+
+“So it was you! There is no way my son could have died from a mere 10th level blood demon at Black Iron Mountain! Lan Xin, it must be you! You’re Jiang Ran’s killer!” an angry voice yells out from her side, as a second streak of red foundational aura appears.
+
+It is Jiang Yu, father of the deceased Jiang Ran, a 3rd level Foundation Establishment Cultivator. This fiery red haired man shows far more vitality than Tang Fuchen whose eyes are quickly losing their spark of life.
+
+–
+
+I look away from this chaos, and start releasing arrows at any hint of malice coming close to the stage intending to kill the Wang Family.
+
+The attackers formation is completely screwed.
+
+This is because no one was killed in Fu Louyan’s desperate attack, and 8 late stage qi refiners from the Wang Family have made a protective formation around the younger and weaker descendants in the center of the stage.
+
+Within a matter of seconds, I no longer need to be the only one watching every side, only a thin line of defense is necessary.
+
+I watch as Wang Ruze battles not so far away, attempting to make his way back to the stage.
+
+He passes by the injured Feng Baishan, and the former shop owner sneers with anger.
+
+“It’s all your fault! You were talking with that Li Hao this whole time! You gave him that protective item to target us, didn’t you? It was all to ruin my Feng Clan’s plans! I didn’t want to use this on you. But I have no other choice, I’ll be caught in the crossfire of the main event soon if I don’t!”
+
+He pulls out a standard perfect grade incineration talisman, and begins to activate it.
+
+However, at the same moment, I send a jet black arrow flying through the air, landing square between this Feng Family patriarch’s eyes.
+
+He lets go of the talisman before it can even go off, with wide blank eyes of disbelief.
+
+As he falls back, slumping against the base of the apple tree again, he realizes his late stage qi refining clan was never an important force in this unfair feud. His death is meaningless, blending in with the worthless upturned rocks and dirt around him. Wang Ruze hardly bats an eye and keeps running by, approaching the front of the stage to see his son hiding behind me unharmed.
+
+–
+
+Three other streaks of foundational blood aura have appeared far out of my spiritual senses range.
+
+However, I can tell they’re the same strength, initial stage foundation cultivators, with two perfected mortal grade physiques each.
+
+Something isn’t right…
+
+We may have stopped the first stage of this attack without any major casualties, but there is still an underlying issue.
+
+The first eerie sensation I felt came from outside of the orchard. When this attack started, it nullified all of the arrays in this venue, but it was not emanating from any of the six foundational demons present.
+
+I send off another arrow to kill a 7th level qi refining patriarch, with a mid stage blood demon physique and nothing else.
+
+It is clear that they have not dedicated their lives to this physique like most members of the Blood Sword Sect I fought in the war. Almost all of the true sect members were able to achieve perfect grade physiques at the late stage of qi refining. I don’t even see anything above a late stage physique in this crowd other than the foundational attackers.
+
+Picking off half a dozen more over the next few seconds is not hard, especially with Wang Ruze now covering the back line as the leader for the late stage men and women in the Wang Clan. Many of them use mid and late stage talismans to slow down attackers from long range too, but I gain a majority of the kills.
+
+This is certainly exposing some of my hidden strength, as no average 3rd level qi refiner can operate a set of bow and arrows strong enough to kill late stage cultivators. However, now is not the time to hold back. I already showed off far more strength to keep myself safe with the tier 2 shield, there will be no Wang or Mu Clan left for me to curry favor with if I try to hide everything I have.
+
+My mind is still wandering and cautious, as I can feel the baseline killing intent in the air growing, and a blood demon physique far stronger than any one I’ve ever felt before approaching.
+
+All of a sudden, an extremely dark blotch of blood aura covers the sky. The passive aura blocking ability of my shield is completely negated.
+
+I feel an overwhelming pressure press down on me and everyone else in the orchard, like a massive wave of gravity is beating down on us.
+
+The dark shadow of a hand darkens the entire seating area and stage, but streaks of pure white and green light burst up from the ground and clash with it.
+
+A white moose lets out an ear splitting roar. An explosion of qi and vibrations bursts from its mouth, creating a circular shielding array in the sky to block all five fingers of the hand at once. The two Mid Stage Foundational Patriarchs of the Mu and Wang Clan both release their unrestrained auras of bright green and white beneath the moose.
+
+This whole side of the mountain is enveloped with their auras battling for dominance in the sky with the enormous hand of blood that threatens to crush us all.
+
+A single scan stands out as I look up in awe.
+
+[Automatic Inspect Function Activated…][Jiang Duo] [Age: 240][7th Level Foundation Establishment][Fire, Earth, and Metal Spiritual Root][5th Grade][Acquired Flaming Mountain Physique][Mid Stage - Spirit Grade][Acquired Blood Demon Physique][Mid Stage - Spirit Grade][No Innate Physique][He has cultivated the blood demon physique in private for decades in order to break past his spirit root potential and reach the late stage of foundation establishment. He seeks to eliminate the Wang and Mu families in order to secure two more tier 2 veins for his clan and create a strong base of operations for demonic cultivators in the Hidden Mist County. This is his final mission before earning the title of an official Blood Sword Sect Envoy.]

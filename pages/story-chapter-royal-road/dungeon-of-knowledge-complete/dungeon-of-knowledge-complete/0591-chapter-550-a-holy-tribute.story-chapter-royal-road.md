@@ -1,0 +1,249 @@
+---
+id: 4ba43790-336f-5755-88c7-591786981654
+page-type-slug: story-chapter-royal-road
+title: "Chapter 550: A Holy Tribute"
+slug: 0591-chapter-550-a-holy-tribute
+partOf: dungeon-of-knowledge-complete
+position: 591
+ownLength: 3523
+unit: words
+ownProgress: 3523
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3098348/chapter-550-a-holy-tribute"
+royalRoadId: "3098348"
+markedReadAt: "2026-06-29T20:32:30.469Z"
+---
+
+“So, what now?” Malika asked.
+
+Such a deceptively simple question. Layer upon layer, echo upon echo of possibility could play out from the choices they made now. Ali turned to meet her friend’s gaze, instantly understanding the depth of meaning in her eyes. While she would have loved to spend hours exploring her newest skills and abilities, a far more urgent issue lurked just on the horizon.
+
+Nevyn Eld.
+
+It was, after all, one of the major forces driving all her path decisions.
+
+“I need to sit down with Azryet and discuss the proper use of Authority,” Ali said. Then, she took a deep breath and spoke the words she knew would set her squarely on the path. “And then we should make a plan for taking care of the Blind Lich.”
+
+“Wow, Ali! A couple of paths, and now you’re taking the fight right to him?” Mato said, smiling with his eyes.
+
+“Gotta take out the trash, you know?” Ali said, welcoming his banter to lighten the seriousness of what was weighing down her heart. “I’m stronger than you now, remember?” She flexed her bicep to demonstrate.
+
+“Well, I’m in,” Mato said. “But you already knew that.”
+
+“Me too,” Malika said.
+
+“Is it wise to be hasty?” Vivian asked. “Should we really be provoking him?”
+
+“I think the time for that is long gone,” Ali said soberly. “Regardless of what we do now, he has already been provoked. Lira said she was able to feel the realm messages while in her acorn, so Nevyn Eld already knows we’ve defeated his dungeon at Ciradyl and restored the Well of Divinity. He might not be aware that we stole vials from the Well of Eternity, but he is most certainly aware of Lira’s ascension. We will not be able to avoid the coming showdown and, while we still have a few days in hand, I think we should prepare.”
+
+“Aliandra, I’m…” Lira began, but Ali cut her off.
+
+“Lira, you cannot feel guilty for my decisions,” she said, but she took Lira’s hand and squeezed it to show she was not upset. “I won’t stand for it. The Blind Lich is evil, and he’s coming regardless. Besides, there is nothing that would have changed my mind about saving you first.”
+
+“I agree with Aliandra,” Lyeneru said. “He will not take that without an aggressive response. We’ve bloodied his nose too many times now.”
+
+“I see,” Vivian said. “There are several things we need to take care of at the guild, and I will need Calen and Lyeneru. When do you want to meet?”
+
+“I want to visit Azryet immediately,” Ali said. “How about you all join us in his library when you’re done?”
+
+“Perfect, probably an hour?” Vivian said, already moving off.
+
+“You going to be ok by yourself, Ali?” Calen asked.
+
+“Mato and I will go with her,” Malika said.
+
+“I would come, too,” Lira said. “I have questions for Azryet.”
+
+“Ok, let’s go,” Ali said, heading off toward the library. This was a good arrangement. Her evolution and the surprising unlock of Authority as a resource had left her with many questions that her friends were not advanced enough to answer. More importantly, they had only a couple of days before the Lich reincarnated his avatar, and consulting with The Calamity sounded appropriate for the war that was sure to come. She grimaced at the thought, but there was no denying the reality.
+
+Grim, inescapable reality.
+
+***
+
+Ryn’s teleportation magic flickered around Ali, a beautiful dance of arcane formations. The spell formed, blooming slowly in delicate detail before Ali’s incredibly accelerated mana perception, sending a tingly feeling rushing up and down her skin before it completed. A moment later, the formation settled and whisked the five of them away.
+
+With a soft popping sound, Ali appeared in the gigantic draconic library with Lira, Mato, Malika, and then Ryn popping into place beside her.
+
+“Ryn, Aliandra, it is good to see you again,” Tiraza said. “Great Mother, congratulations on your ascension.” And the giant holy dragon bowed her head to Lira. “Mato, Malika, you are warmly welcome here.”
+
+“Thank you, dear,” Lira said, smiling.
+
+“Azryet will join us shortly,” the holy draconic librarian rumbled.
+
+“I brought some tea,” Lira said, her nature magic surging as she literally grew a table and matching chairs in the middle of the library. Moments later, the tea set was laid out perfectly, with little curls of steam rising from the teapot.
+
+A sudden, room-shaking boom announced Azryet’s arrival, and Ali’s eyes widened as she took in several bleeding slashes through his dark dragon scales. As she watched, the blood slowed and the cuts began to close under immense currents of holy mana.
+
+“Are you ok?” Ali gasped.
+
+“I just got a little carried away doing some research,” Azryet rumbled. “Nothing to worry about.”
+
+“Come join us for some tea, child,” Lira said, looking up at the enormous dragon.
+
+Ali glanced at the dragon god, who had just been called a child by her aunt, but Azryet seemed flattered rather than angry.
+
+“Of course, Great Mother,” he said, but Ali couldn’t imagine how a being so vast could fit on the small chairs Lira had made, nor use the tiny porcelain teacups she had laid out for them. There were clearly enough seats and tea settings, implying that Lira expected both dragons to join.
+
+But with a shimmer of a vast and incredible spell formation, Azryet’s form began to warp and shrink. It was Mato’s magic, only godly in size and formed from both holy and void affinities instead of nature, and in seconds, the giant form of the dragon god was replaced by a male humanoid of somewhat ambiguous race.
+
+At least the reptilian eyes and the scales over the backs of his hands and running up his neck seemed to demonstrate his draconic nature. He was elegantly dressed in a charcoal sweater and dark trousers of a surprisingly modern style, wearing his long, straight black hair loose and cascading down his broad shoulders. When he smiled, the sharpness of his teeth seemed quite unsettling, and he turned to catch Ali’s gaze with eyes that blazed with holy energy.
+
+He winked. “Thanks for the dragonkin,” he said, his voice still rumbling like it belonged to a body the size of the behemoth.
+
+In a flash, Tiraza duplicated the feat, appearing as a tall blonde woman with elven features and golden scales, but it was her elegant gown that truly caught Ali’s attention. Fashioned from gossamer silk, it positively shone with holy radiance, waving softly under its own power.
+
+“You look beautiful, Tiraza,” Lira said, inviting her to take a seat.
+
+“Thank you,” she said, offering a slight curtsey that, if this had been a court, Ali imagined would have been a perfect genuflection of a princess to her queen.
+
+Lydia would die if she saw this dress, Ali thought, taking a seat beside Ryn and Malika, and then accepted the offered cup of aromatic elven tea that Lira preferred. Wait… Ali thought as her eyes caught sight of the familiar mana signature on the dress from all the way across the table. When did they…
+
+“I want to offer my gratitude for your gift of mana during my ascension, Azryet,” Lira said. “Aliandra and I have both ascended to some form of a deific class, and we had some questions about the finer details of reputation and Authority.”
+
+“And I brought you a present,” Ali added. Gifts, she had decided, were Azryet’s weakness. Not surprising, given he was a dragon.
+
+At the sight of Azryet’s raised eyebrow, Ali opened her Grimoire and summoned several Sacred Guardians. As expected, outside of her domain, her magic was unable to support the tier-three holy elementals as she was far too removed from a holy biome. They all collapsed in a puff of mana, leaving their elemental cores gleaming on the ground.
+
+A soft, strangely hesitant surge of Azryet’s magic pulsed through the ground, evaporating the cores, and his expression instantly changed to one of profound surprise.
+
+Ali just grinned, recognizing precisely what had just happened.
+
+Moments later, a Sacred Guardian appeared to Azryet’s right hand, this time alive and shimmering as it stood there in its blessed holy armor, wielding a sword the likes of which Ali had never seen. Clearly, Azryet’s imprints had some impressive holy items, some of which had already appeared on the guild quest board as rewards, but it was the summoning of a non-dragon minion that had left the dragon god momentarily speechless.
+
+Ali clearly recalled the conversation where Azryet had revealed his class’s restriction to monsters of draconic lineage, and the discussion of the potential that he might be able to use elementals. Of course, neither of them had ever found a holy or void elemental, so it had seemed rather academic at the time.
+
+“You remembered,” Azryet said, his normally powerful voice strangely muted.
+
+“Yup,” Ali said, grinning. She had promised to keep her eye out for appropriate elementals, and Azryet had been her first thought when she had seen her Divine Archon summoning them in defense of the Well of Divinity. “I hope it helps.”
+
+“You have no idea what I can achieve with these, now that I have access to reputation and my shrine,” Azryet said. “How might I repay you?”
+
+“I think the time of counting debt passed when you showed me how to save Lira,” Ali said. Truly, that was a debt she would never be able to repay.
+
+The Dragon God rumbled deep in his throat, but, after a moment, he nodded. “I concur.” The depth of meaning-within-meaning implicit in his statement briefly caused Ali’s Sage of Learning to tingle, much to her surprise. How did he… what was that?
+
+“Drink your tea before it gets cold, Azryet,” Lira said.
+
+“Yes, Great Mother.”
+
+“Tsk, you can call me Lirasia, you know? I may be older than you, but you’re still far more powerful.”
+
+“I just offer respect where it’s due, Lirasia.”
+
+“Yes, of course,” she said with a smile, and pushed his tea just a little closer toward him with a couple of tiny branches she grew out of the tabletop.
+
+“This tea is lovely,” Tiraza said, expertly filling the sudden silence as Azryet sampled his cup.
+
+Azryet nodded his agreement, taking a long moment to savor the flavor. “It’s been too long since we had a taste of the old ways. Thank you.”
+
+Lira just smiled at him.
+
+“Reputation. It’s exactly as it sounds. When your followers achieve something notable in your name, or in alignment with your paths and traits, you can earn reputation proportional to the number of people impacted or the weight of the accomplishment. Authority is most often refilled in proportion to the reputation earned.”
+
+“It’s related to traits?” Ali asked. The revelation was surprising; however, it matched the way experience worked at least, and how mentorships seemed to benefit the participants based on the nature and paths of magic and the traits of experience earned. The shrine, too, she realized, connecting her recent insights from her class evolution.
+
+“It is indeed,” Azryet confirmed.
+
+At that moment, Ali’s train of thought was interrupted by a surge of mana that pulsed through her, originating from her domain on the upper floor of the library – a powerful burst of knowledge delivered via her dungeon’s tithe. Ali’s awareness flickered to the spot, revealing one of the visiting scholars sitting in front of a book with an expression of stunned amazement on her face.
+
+You have gained Reputation.+1 Authority.
+
+Oh! A skill breakthrough! And, by the feel of it, it seemed like it had been a major one. Ali could easily tell when someone gained a skill level in a knowledge or mastery trait skill, but this was something more. The scholar’s skill had advanced, granting a significant advancement or new ability – and to her amazement, that had provided her with not only a burst of experience, but also a small surge of reputation and a new point of Authority.
+
+“Authority is a primordial form of magic, the underpinnings of skills and abilities, and even just a little added to any skill or spell will greatly enhance the quality of the formation,” Azryet continued, drawing her attention back to the table and the steaming cup of tea before her. Ali took another sip, tuning back in.
+
+“So, the quality of followers matters more than the quantity?” Lira asked.
+
+That had been a consideration that hadn’t even occurred to Ali.
+
+“Yes,” Azryet said. “Though some like Lunaré and Helios do specialize in sheer numbers, relying on ubiquity to propagate their name through the lands. I personally believe a single, well-chosen champion can do far more for your reputation than an entire army. A person who elevates themselves to the status of a legend or hero can provide a continuous tribute of reputation for centuries, sometimes even after their death.”
+
+“What if you don’t have followers?” Ali asked. Nobody was going to be writing epic tales or spinning dramatic songs from the deeds of her legendary followers.
+
+“I recommend using followers – it’s far more efficient than doing it by yourself,” Azryet said, turning his gaze upon her.
+
+“I haven’t unlocked the ability to earn followers yet, just reputation and authority,” Ali explained. “My class seems to just be a first step in that direction.”
+
+“Aah, well, there are ways to earn your own reputation. Anything that impacts many people in an important way, positive or negative, can trigger reputation gain. If you wipe out a town, or save a town, for example. Obviously, wiping out the town can’t earn reputation with the townsfolk, but the principle still stands.”
+
+“That seems… morally agnostic?” Ali said.
+
+“Evil can also earn reputation,” Azryet said. “Like our friend, the foul-tasting Lich. Sometimes they have an easier time of it, given that reputation is more about the significance of actions or deeds. Moral concerns are things for sapient beings.”
+
+“He’s no friend of mine,” Ali said firmly, smiling wryly at the rich depth of the Dragon’s sarcasm.
+
+“Indeed. That one is no friend of the living,” Azryet said.
+
+“So, zone and realm messages are important events, then?” Ali asked.
+
+“Yes, depending on how many people hear them, and how important it might be. For instance, I get very little from such messages because the only relevant listener in this entire realm is Destraggoth.”
+
+“I got my first point of reputation for protecting a bronze-ranked adventurer team in my dungeon when I tiered up,” Ali said. “They almost died in the surge of increased spell power.”
+
+“You took an action that had great significance to their lives,” Azryet said. “And that seems to be in alignment with your traits, experience, and the orientation of your class. You can’t gain reputation for yourself by saving your own life, but for others, it works if your class is aligned that way.”
+
+“But aren’t my class and traits aligned by the actions I choose?” Ali asked. It had been her favorite theory of class growth back when she’d been studying.
+
+“Indeed,” Azryet said. “Your class only favors deeds like saving novices because you train it that way, effectively.”
+
+“I just earned a point of Authority for someone making a skill breakthrough in my library,” Ali added.
+
+“Oh? How is that possible?” Azryet asked, the mana in his eyes whirling faster.
+
+“The library has a learning enchantment around it, and my domain has a tithe for knowledge and mastery skills. I assume it has something to do with that.” She shared the details of her skill with them, and then, recognizing that she trusted everyone present, and he was her mentor, she shared the rest of her third-tier evolution.
+
+“You have done well, little Fae,” Azryet rumbled after taking the time to study her abilities.
+
+“Thank you,” she said.
+
+“I do not think you fully understand,” he added, making her catch her breath. “How much Authority did you earn to be able to achieve not only a demigod ascension, but also a superior bloodline in your second evolution?” Azryet’s eyes were like pools of darkness she felt drawn into.
+
+“Three hundred and six,” Ali said, seeing no reason to keep secrets with two gods in the room, both of which she counted as her closest advisors.
+
+“Three hundred…” Azryet said, drawing up suddenly. Lira gasped.
+
+“Is that bad?” Ali asked, her heart racing at their unexpected reactions.
+
+“Three hundred is… well, extraordinary,” Azryet rumbled. “Forty to fifty is more normal for the second evolution.”
+
+“I got forty-nine for my first one,” Ali said. At the time, she had thought that was normal, after all her friends had earned similar amounts.
+
+Azryet coughed, a puff of void jetting out of his nose and deleting the saucer under his teacup, but he barely noticed. “Your achievements must have been extraordinary and extremely well-aligned with your class.”
+
+“Lira always advised me to listen to my heart,” Ali said, and to her delight, she saw Lira’s eyes crinkling at the corners in a soft smile.
+
+“One does not earn over three hundred Authority at the second evolution merely by following whim and feeling; it has obviously required struggle and deeds that have affected the course of thousands of lives,” Azryet said, staring closely at her. “You are truly an extraordinary person.”
+
+Under such scrutiny and high praise, Ali’s cheeks heated up, and she was forced to look away. “I… I just hope I’m strong enough.”
+
+“Now, now, Azryet,” Lira said, calmly replacing his missing saucer. “You’re embarrassing her.”
+
+“Aah, sorry, little one,” he rumbled, leaning back a little. “To get back to your questions, that tithe is likely to be your largest source of reputation. In fact, the gains from your domain tithe are probably better than having followers – at least initially.”
+
+“Really?” Ali asked, glancing up.
+
+“Yes,” he said. “Don’t you have a whole town living in your domain, now?”
+
+“I do.” In fact, it was much more than that. In addition to Myrin’s Keep, Ciradyl was rapidly being repopulated as pockets of refugees converged on the Well of Souls due to the realm notifications and emigration of the Elven refugees from Myrin’s Keep. Obviously, it was not as populous as it had once been, but still, it was rapidly recovering as a major Elven city. Several thousand Dwarves, refugees of Thorel Moldur, were now making their living in the ruins of Dal’mohra. Val’korr’s concerted efforts had already begun repopulating Aman Rak, collecting refugees of all tribes into an unprecedented cosmopolitan, ever-expanding village where the temple had once stood.
+
+If any skill advancement boosted by her tithe counted, she might not miss the horde of followers the other gods seemed to amass. Still – she glanced at Lira – followers would be important for her aunt. “Wait, Aunt Lira, how did you jump to four marks? Weren’t you a bit above three hundred when… you know…” Ali trailed off, not wanting to put words to the horrible memory of Lira’s death.
+
+“I believe that would have to do with her unique class,” Azryet rumbled.
+
+“Indeed,” Lira said, putting down her teacup. “My class allows – allowed – me to hold Authority, and therefore earned experience, in abeyance, bolstering my forest instead of my own level. It was a unique ability that held immense potential. For centuries I waited, hiding in my forest and storing my experience in my trees and domain, perfecting my oaks, cultivating growth and hoping for the right moment.” Her eyes hardened. “I almost lost it all during the fall of Dal’mohra, and again when the Blind Lich’s servant sowed blight through my forest. If it had not been for you and your friends helping to recover those few acorns, it would have all been for naught. When you finally killed that shade and allowed Cycle of Rebirth to complete, I was reborn anew, but this time with all of that accumulated Authority incorporated into my class.”
+
+“That was an awful risk, Lira,” Ali said.
+
+“Yes, it was,” she said, her expression unreadable for a moment, before she crinkled into a smile. “But you saved me. Not once, but twice.”
+
+Ali fell silent, digesting the revelation. How must it have felt to keep herself weaker so that her forest could be strong? What dread must have gripped her heart at the thought of losing it all when Alexander Gray had poisoned her forest? Or when she had willingly stepped forward to take the bolt which would have ended Ali for good?
+
+Ali shook her head slowly and took a breath. It was all over now, and Lira was stronger than ever. And Ali vowed to protect her properly from now on.
+
+“Do you have any other questions?” Azryet asked.
+
+“Tell me more about how Authority interacts with mana…” she said, hanging on his every word. This, she was certain, would explain much of what had thus far eluded her from her mother’s inspired work on magic. She couldn’t wait to discover the truth.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

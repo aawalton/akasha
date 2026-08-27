@@ -1,0 +1,273 @@
+---
+id: 9d32cd45-f7a1-5186-8cc7-1abf6d5dfb64
+page-type-slug: story-chapter-royal-road
+title: "Chapter 562: The Lich’s Army"
+slug: 0605-chapter-562-the-lich-s-army
+partOf: dungeon-of-knowledge-complete
+position: 605
+ownLength: 5563
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3140145/chapter-562-the-lichs-army"
+royalRoadId: "3140145"
+---
+
+Malika touched down gently on the battlements above the South Gate, where Commander Gerald Brand himself was studying the seething masses of undead crashing against the town’s defenses with mindless, tireless regularity.
+
+Arrows and spells whistled out over the throng, shredding banshees, ghosts, and other flying monstrosities, but Malika settled her mind, searching inward. A brief moment of peace. One of the downsides of her Relentless and Abiding Perseverance combination was that if she neglected to engage in battle for a period longer than about twenty seconds, she would begin to rapidly lose her incredible advantage.
+
+She wasn’t physically tired – her endurance took care of that – but mentally, she was beginning to fray. Was there no end to the Blind Lich’s armies? Still, she could hardly complain. She was the last of her friends still stuck at the second tier, and that fact was eating at her. Ali, she understood, but both Mato and Calen had passed her quickly, and here she was, so close to the threshold she could almost taste it – and yet her class stubbornly refused to advance.
+
+Nothing I can do except push harder, she decided, sending a silent prayer to her Ancestors. Her plea was answered immediately.
+
+You have gained the Ancestral Memory: A Gift of Grace.
+
+Malika opened her eyes and studied the guest adventurers mustering behind the heavy gates, ready to sally forth and make one more strike into the heart of the Lich’s Armies.
+
+“How long?” Malika asked.
+
+“Five minutes,” Commander Brand asked.
+
+“I’ll just clear the path then, shall I?” she said. Malika leapt down from the battlements, floating lightly down toward the road right in front of the South Gate, with about eight seconds to spare. She ignored the shouts of shock and surprise that rang out from the battlements above as onlookers and defenders reacted to her long leap into the seething horde of ravening undead still clawing at the gates. She took a deep, slow breath, her entire body poised and ready, and her foot touched down on a ghoul’s head. She pulsed Soul Strike on contact, blasting downward through the ball of her foot and smashing the ghoul to the ground.
+
+As the chilling voices of Death Knights barking commands rang through the air, and the ringing swishes of their heavy swords being drawn could be heard above the moaning crush, Malika stepped off the ghoul beneath her feet and cracked her knuckles.
+
+Ghouls groaned, leaking a foul green drool that hung in streamers from their decaying mouths. Skeletons clacked and clattered in rusted armor. Banshees wailed, while ghosts shimmered. All eyes – or remnants of eyes – turned to stare hatefully at the sole living presence that dared to breach their ranks.
+
+“Ok, who wants to be first?” she asked.
+
+With a swelling roar, the undead horde rushed forward, claws reaching and jaws baring dark, stained fangs opening wide.
+
+As they surged into range, Malika twisted her shoulders and ribcage, rising elegantly onto one foot and pulling her arms in. Dancing, driven to incredible power and momentum with her Divine Step, she executed a pirouette as the undead horde washed by her as a breaking wave of black and gray, seeking to smother the stone dropped into their depths.
+
+Her leg flashed outward a dozen times. A dozen flashes of brilliant soul magic lit the undead. The air filled with sprayed ichor and the gruesome sound of shattering bone, but she wasn’t done. Not by any means.
+
+She launched herself into a perfect rendition of the second form, punching and kicking, her powerful footwork churning up dust from the road, and the lesser undead began to fly as she established her command over her space. A great howl and roar swelled from undead throats as the whole vanguard turned upon her en masse.
+
+Her breathing came slow and measured. Her body stretched and contracted, and she danced. Fueled by stamina, mind honed to the sharp edge of precision by Clarity, she whirled through the masses, dodging effortlessly as her fists spoke with precision and calm.
+
+It took less than five minutes before they opened the gates and unleashed the adventurers. Less than five minutes before the guards and mages upon the battlements began to take advantage of the press of monsters glued to her, striving with claws and talons to pierce or tear at her body, but she danced in and out among them like an ephemeral wisp, her mind content to flow with the tide of combat, always a hair’s breadth out of reach.
+
+It took ten minutes more before the mages realized she could dodge fireballs.
+
+She danced on within the inferno, Clarity helping her ignore the overwhelming stench of brimstone and burning rotten flesh. Death Knights and several greater undead joined in, bringing potent magic and powerful skills to the fight, but they were hampered by the press of bodies, by the flying pieces she shattered, and the continuous barrage of magic raining down from above. And whatever got through her defenses, she healed with a mere thought.
+
+Malika gave herself to the dance of battle, allowing her mind to settle in her body. Her awareness in the moment. On the ice bolt flying at her head. On the ghoul’s claws raking toward her leg. On the feel of the ground or the air beneath her feet. On the pulse of muscles firing in intricate coordination with the stamina flowing through her body.
+
+I’m so close. Any moment now… The thought skittered across the calmness of her mind without disturbing her focus. She turned, sizing up the Abomination before her, towering over her with three twisted arms holding rusty cleavers and spears. She had faced its kind before. It didn’t hold much challenge for her speed.
+
+A high, musical Fae voice rang out directly within her mind, “Malika! Help! Death Knights at the shrine!”
+
+Ali?
+
+Without hesitation, Malika stepped through rock, earth, and space, teleporting straight into the Forest Cavern below the town, and there, beyond the glowing blue lake, she saw Ali’s diminutive form, lit by the golden glow of an immense barrier, while her Archon and Troll grappled with a rapidly growing throng of Death Knights and howling monsters.
+
+“Oh, shit! Ali, I’m coming!” she yelled, throwing herself into an aerial sprint that sucked up brush and dirt from the wind of her wake.
+
+This was what they’d feared most.
+
+Ali scrambled backward as the hoarfrost rippled across the mossy ground, reaching for her with icy, clutching claws. She threw up another barrier in front of her, reinforced again by her domain, and the gray-white ice crinkled upward across it in a delicate tracery of beautiful crystals.
+
+Death Knights! Her eyes were drawn through the climbing ice crystals to the fluctuating portal of darkness, still spewing undead into the Forest Cavern and out across the mossy ground of her Grove. The small group of monsters she had brought as protection were all of the highest-level she could summon, her most powerful minions, and yet, they were being steadily pushed back by the monstrous, biting greatsword and glacial ice of the third-tier Devastation Knight and the swarm of underlings supporting him.
+
+Ali wasted no time. She manifested her Grimoire and began summoning at once. As Calen had so insightfully noted, she had so much spell haste now that even summoning third-tier monsters took at most between ten and fifteen seconds, which put combat summoning squarely in the set of her most potent tools.
+
+Tol’brekk swung, his heavy greataxes ringing loudly against the hoary mithril breastplate, but the towering Devastation Knight’s blade darkened ominously and the riposte bit deep into the Troll’s ribcage on his left side. He roared with fury and smashed the butt of his axe into the side of the Death Knight’s helm, denting it with a ringing report.
+
+Two more Devastation Knights forced their way through the portal, and with a great swing of a mighty hammer, one of the Knights shattered the first Barrier blocking entry into the Grove.
+
+Gritting her teeth, Ali cancelled her summon and repaired the barrier, returning to her Grimoire an instant later.
+
+As the rime-coated third-tier Knight straightened up, Tol’brekk headbutted it in the visor with such force that it stumbled backward. With a fresh river of blood running down his face, the enormous berserker, twice as broad at the shoulder as the armored Knight, swung his axes in a mighty cleaving strike aimed to decapitate the undead stumbling backward.
+
+A deafening clang rang out across the Grove, making oak leaves shiver, and Ali’s eyes widened to see both enormous axes stopped dead in the air by the jet-black, rune-covered blade firmly gripped by ice-covered gauntlets in an expertly executed side guard. A move demanding both the utmost skill and immense strength – most likely backed by a powerful skill.
+
+Holy sword images flickered across the Grove, biting into undead with unerring accuracy as the Divine Archon caught her flying blade, but not one struck more than a glancing blow on that towering Knight in his dark mithril plate. The celestial paladin took a distinct step backward as the Devastation Knight pressed his advance.
+
+Ali was close, her Grimoire blazing with energy and light, but the massive Death Knight kicked Tol’brekk in the side of his right knee, drawing a roar of pain and a crack like timber being split, and then threw his greatsword directly at Ali’s face. The immense weapon punched through her barrier with a crunch and a splintering crack, but Ali was no longer there. Instead, one of her minions was staring wide-eyed at the vibrating point of a mithril blade.
+
+Ali grimaced. She had taken advantage of the teleport to summon more unbound minions to her side, but the pickings were slim now – all of her most powerful minions were already tied up under Volle, defending the walls above ground, with Calen and Mato in the Crypt of Kings, or already right here in the Grove. Nevertheless, she teleported them to her side and restarted the summoning with her Grimoire.
+
+I just need… twenty seconds. Not even. Fifteen! She threw her newly arrived monsters into the fray, but only two were even barely past level two hundred, and the rest began falling quickly. Inside the barriers she had raised, the new Death Knights swung again, causing cracks to form in her barrier that would need to be repaired if she didn’t want a flood of undead to overwhelm her. If she didn’t do something quickly, she might lose the shrine, and without it secured, there could be no raising Malika to the third tier when she reached the threshold. That was unthinkable. No. Keep fighting!
+
+Her forces stumbled backward, driven by a wall of ice and the accuracy of the hungry, dark rune-blade. The crystals reached the top of her barrier, and Ali shrank back, trying to avoid the grasp of the chilling aura.
+
+She lost her summoning again when she was forced to abandon it to repair the barriers holding the armies at bay.
+
+I need help. Urgently, Ali sent her senses rippling out across the battlements up above, searching, hopping from minion to minion. All she found was an impenetrable firestorm outside the South Gate, flickering with brilliant discharges of soul magic from within. She shouted, using the voice of her closest boss, but the detonations and crashes continued unabated.
+
+She can’t hear me! What can I… but the solution came to her quickly. Golden runes flickered about her head, a sparkling halo that materialized in an instant, assembled into the formation of the arcane-affinity Sending spell.
+
+“Malika! Help! Death Knights have reached the shrine!” she sent.
+
+“Ali!” Malika’s voice echoed briefly as the dying remnants of her spell caught her reply. An instant later, a blazing blue-white star appeared in the far reaches of the Forest Cavern. It streaked across the cavern, growing rapidly into a shining meteor that slammed into the back of the oversized Devastation Knight with a flying front kick that lit up the entire cavern, casting the ancient, blackened tree trunks and Lira’s giant roots in sudden stark relief against the rocky ceiling and walls.
+
+The Devastation Knight stumbled forward, knocked off balance by the unexpected impact, missing a block, and taking a rage-fueled greataxe to the side of his breastplate. Tol’brekk roared his triumph, but his approach to celebration was an equally vicious backhand swipe that clipped the monster’s sword arm.
+
+Glowing blue-white eyes flicked toward Ali.
+
+Malika! Ali steadied her wobbly legs, overwhelmed with sudden gratitude at the sight of her friend. “Can you hold them off? I need time!” she shouted, identifying her friend.
+
+Monk [Savior of Aman Rak] – Human – level 249 (Soul)
+
+How long had she already been fighting for her to be leaking power of such magnitude? Soul magic radiated from her body in shimmering waves, driving the lesser undead back by the sheer force of her presence. The monk flickered and blurred, filling the air with the brilliant, rapid strobing of flashing punches and kicks, matching the tier three Devastation Knight’s sheer power with speed and grace.
+
+She was not yet at the third tier, and yet Malika’s strength and endurance were relentless. Her furious punches and flashing mana began to drive even the massive Devastation Knight back through an accumulation of damage. Tol’brekk rallied, and the Divine Archon began to press forward, driving the undead till his back was against the severely cracked barrier wall blocking the portal.
+
+Malika’s power was unquestioned, but Ali was a dungeon, and she stood within her own domain. Nowhere was she stronger. Her last advancement had given her so much spell haste that her Grimoire was blazing beneath her hands, lighting the pages with strands of flickering green and gold mana.
+
+When the moment came, Ali spent her last point of Authority without hesitation.
+
+Her mana cut off suddenly, startling her with its unexpected precipitousness. She double-checked her spell, but her minion materialized before her in all his gigantic demonic corpulence.
+
+Dekarradon [The Flames of Doom] – Pit Lord – level 252 (Blood / Hellfire)
+
+“What is your bidding, Master?” the Pit Lord said, his voice grating enough to make Ali’s teeth rattle in her jaw. The giant Pit Lord bowed his flame-wreathed head to her, but his beady black eyes flickered greedily toward the battle.
+
+“We are under attack,” Ali said.
+
+“I wish to fight,” he said, voice quivering with barely restrained desire. The massive talons – longer than her body – at the ends of his four thickset, squat legs clawed through the moss and stone below his feet with fervent energy.
+
+“And so, you shall. But before you do, I must grant you more power,” Ali said, her words in the demonic language sounding arrogantly pretentious even to her own ears.
+
+“It is good,” he intoned, eyes flashing with vile anticipation.
+
+She glanced at the radiant battle around the portal before summoning her mana, but Malika was holding the entire army of the dead by blocking the portal with the towering Death Knights she’d maneuvered into the ruined gap broken through her barriers.
+
+Ali quickly turned her attention to her Pit Lord. Her mind raced at the full speed granted by her prodigious intelligence attribute and her mental haste as she rapidly scanned through his skill list, searching for variations in advancements afforded by his status as a unique, named variant. Then, her eyes caught the details of his title.
+
+The Flames of Doom.Your brutality and flames have unlocked an aspect of the bloodline of the Demon God.+25% to Hellfire damage.+6 to skill level of Hellfire skills.Title
+
+Hellfire it is, then. And I know just the thing. Her mana came to do her bidding with such speed that it felt almost eager.
+
+Domain Respawn applied to Dekarradon.Champion Domain Enhancement applied to Dekarradon.Retaliation Trigger (Blast Wave) applied.Spell Cascade (Blast Wave) applied.
+
+Ali remembered just how terrifying the Grim Spark had been the first time they encountered him in the Crypt of Kings, with his multiple, cascading Lightning Novas that triggered every time he was hit. So, she shamelessly borrowed the same idea, granting it to her Pit Lord in the form of a hellfire Blast Wave – one of his base skills, doubling down on the benefits of his title.
+
+But she wasn’t done yet, and the portal was still expanding as undead claws shoved their way through from beyond, and undead began spilling into the Grove through the gaps as reality itself tore.
+
+Mass Summoning (Demon) applied. Triggered Mana Echoes (Mass Summoning) applied.
+
+She would have chosen the Retaliation Trigger or the Spell Cascade for mana echoes, but those were already a trigger chain, and somehow that made them an invalid trigger for the Mana Echoes. Ali did not have the time to investigate the problem right then, but Mass Summoning was good enough.
+
+Domain Enhancement complete.Your reserved mana has increased by +2129.
+
+Dekarradon swelled immediately, growing nearly twice as massive, as his body was racked by the powerful influx of domain mana. He twisted his neck and flexed his massive shoulders with a thunderous gurgle of delight. “Yes!”
+
+“Go!” she commanded.
+
+“At once, Master!” he growled, his face cracking into a wicked fanged grin that stretched far wider than was comfortable for any being of flesh and blood to witness. Sweeping the giant halberd up into a whirling arc over his head, the Pit Lord charged into battle, black flames bursting from his rippling, dark, demonic hide and rushing upward to wreathe his weapon with his flames.
+
+His gigantic form blurred forward, many times faster than anything his size should even be able to move, and impaled a ghoul, running the halberd clean through its oozing chest, axe blade and all. Unfazed, he raised the halberd high overhead and braced all four legs and his squat tail against the ground, as if the weight of the bits of ghoul still writhing on his weapon were of no consequence.
+
+The halberd descended in a sweeping cleave that howled and sizzled as the high-speed passage through the air fanned the black flames. The blade bit into gray, undead flesh, separating limbs and heads as it tossed pieces of ghouls and shattered skeleton bones flying through the air, bombarding distant trees with a gruesome rainfall.
+
+Then a Death Knight struck, scoring a deep slashing strike across the immense demon’s right shoulder, a deep gash that ripped through demonic flesh, sending gouts of dark blood spraying into the air.
+
+While Grim Spark had been her inspiration for the first two Domain Magic skills, the dangerous Bone Fetish had been a mere boss, and its Spell Cascade only ever triggered three times per hit. What happened next left Ali stunned by its sheer power. A rolling wave of intense black flames burst outward in a rapidly growing sphere around the Pit Lord, shaking the ground and reaching past thirty meters in radius. The shockwave flung smaller undead monsters into the air from the impact of compressed air and flames, but in a fraction of a second, all the launched undead were hit by a sudden cascade of identical blasts as the champion-ranked Spell Cascade duplicated it seven times over. Before her very eyes, the lesser undead were incinerated – skeletons vanished, simply gone, and ghouls were turned into puffs of dark ash and soot. All that remained were the hardier monsters – the Death Knights, the Banshees, and the couple of Wights that had clawed their way through the portal.
+
+Every single undead monster that still remained rose to their feet and locked their gazes upon the towering Pit Lord.
+
+“Good work, Ali!” Malika called out, flickering sideways in the blaze to land a vicious elbow-strike combination into the back of the largest Devastation Knight’s helm. The flickering lances of soul magic passed right through the armor, leaving little vortices of flame in the air to mark their passage.
+
+But Ali’s eyes were locked on the portal. A massive hand reached through, gripping the edge of the shimmering hole. A second, even larger hand that was missing two fingers took hold of the opposite side, and then a third joined the effort – a twisted, dark arm that still gripped a chain flail covered in blackened stains. The dark portal stretched wider, and something enormous squeezed through.
+
+Flesh Abomination – Undead Monstrosity – level 261.
+
+This abomination towered above the other undead, matching the Pit Lord for sheer size and weight. A grotesque, mismatched collection of limbs and body parts assembled by a mad tinkerer into a monstrosity that only vaguely adhered to humanoid shape. An enormous, fang-lined maw where its stomach should have been hung open, dripping lurid green spittle. Neither of the two heads mounted on those broad shoulders matched, and Ali could not even hazard a guess as to what creatures they may have originally belonged to. Each of the five misshapen arms brandished heavy steel weapons, picks, chains, or jagged sawblades.
+
+“Uh, Malika! Watch out!” Ali yelled.
+
+It screeched, high-pitched and shrill, setting Ali’s skin crawling and her toes curling, and it charged the Dekarradon with thunderous steps.
+
+“I see it, Ali,” Malika said, but her friend doubled down on delivering fists and elbows to the highest-tier Devastation Knight, while allowing the searing hellfire to roll off of her like water.
+
+Sudden, furious battle was joined as the Pit Lord’s halberd whistled through the scorching air, and the multitude of ripping and slicing weapons wielded by the Abomination tore into his demonic flesh. The air roared and sizzled as blast waves detonated with continuous fury, but the Abomination ignored its own cooking flesh, so intent was it on destroying the Pit Lord.
+
+Ali responded with an array of fresh barriers to block the portal and delay the undead, but a sudden wave of nausea washed over her as the Pit Lord’s blood corruption aura took hold. Ali grimaced, steadying herself as her powerful champion summoned an entire pack of Hellfire Cerberus demons to aid him. The three-headed wolf-demons, already frenzied and gaining onslaught from the demonic aura, howled loudly and charged the portal, breathing hellfire on the undead still spilling from the dark, shimmering hole through the shattered gaps in her barriers.
+
+But Dekarradon was not done. As the swirling mana formations of Mass Summoning completed, his final Domain Magic triggered, summoning four Mana Echoes to his side. Four more Pit Lords appeared, slightly smaller than Dekarradon himself, and a little hazy, almost translucent, but all four of them wielded identical massive halberds and charged into battle with reckless fury.
+
+More importantly, Ali knew, all four of them bore the first two Domain Magic skills she had granted Dekarradon. The battlefield instantly turned into a hellscape of overlapping spheres of explosive hellfire as five Pit Lords reacted to every single hit with overwhelming cascades of explosions. They tore the very air apart, sending a great pyre of rolling grey-black smoke up from a confrontation that was beginning to resemble an open volcano spewing hellfire to the heavens.
+
+“Nice, Ali,” Malika said, her shining, radiant form darting back and forth to unleash devastating punches and kicks, seeming to dance between the raging waves of hellfire.
+
+And just as she had intended, the deep gashes in Dekarradon’s hide vanished as his racial aptitude absorbed the hellfire damage from his own Mana Echoes as healing.
+
+Still, this was nowhere near enough to face down a portal connected to the heart of the Blind Lich’s army. Ali couldn’t even begin to reach the portal to dismantle it, and so, she turned to her Grimoire and began summoning once more. First, she made a Priest of Azryet to counter the effects of the Pit Lord’s corruption, and then she began churning out Soul Archons.
+
+Ali had managed three Soul Archons by the time Dekarradon used his Domain Magic again. A dozen Hellfire Imps popped into existence, cackling in glee, and instantly they vanished, merging forms with the perpetual flame, popping out to drop fireballs on anything nearby. Moments later, he triggered another four Mana Echoes.
+
+The Divine Archon, wielding her blade in the thick of it to stem the tide coming from the portal, switched to Frenzy aura as the number of allies rose.
+
+“Kill the Flesh Abomination,” Ali said, directing her forces as she summoned yet another Soul Archon to her side. The immense undead monster was a blazing effigy, but it fought on, seemingly unaffected by the searing, hungry flames. Its health was most certainly moving, bouncing downward in large chunks whenever one of her minions hit it. But it had the vast upward pressure of a monster with incredible regeneration, absorbing devastating blows with ease as its flesh simply sprouted new mutant growth at a crazed rate, often nothing like what had been there before.
+
+But the portal was only so wide, and her demonic horde was growing fast. Ali pressed her lips firmly and summoned her fifth Soul Archon, weaving their astonishing soul magic shots around Malika’s flickering form, taking advantage of her Soul Mark curse whenever she saw the chance.
+
+“Take that!” Malika shouted as her foot struck the back of the Devastation Knight’s head, and it toppled forward, ice long gone, burned up by the inferno. Several chimes sounded in Ali’s mind, but she felt the threshold through her domain. A sudden potency, valence – something powerful poised to strike. A simple use of Identify confirmed it beyond doubt.
+
+Monk [Savior of Aman Rak] – Human – level 250 (Soul)
+
+“Malika! The shrine is ready,” Ali yelled, unlocking it immediately.
+
+“I’ll lose my Relentless buff,” Malika said, a look of sudden indecision flickering across her face.
+
+“Your evolution will more than make up the difference,” Ali countered, knowing that it would be true even without the three points of Authority she would earn from her friend’s advancement. “This is more important. I can hold them off now.” She summoned runes to the air around her fingertips and cast Alacrity of the Deep Mind upon her friend, speeding up her cognitive abilities so she might process the shrine and her paths faster – a bargain at the cost of a minor headache, which she could probably heal away.
+
+“Ok,” Malika said, her gaze firming, and then she was suddenly beside the shrine.
+
+The instant she disengaged, the undead pressed forward in a wave. As soon as Dekarradon’s summoning recharge expired, Ali used him to summon another gaggle of hellfire imps and spent her own mana summoning a hellfire-affinity Eye of Agnor and her favorite kobold Pyromancer, doubling down on her already ludicrous fire theme. Her Grove was burning like the proverbial ninth plane of hell, but she just clenched her teeth and pressed on; she would fix it later.
+
+“Here, use this,” Ali said, retrieving a wand of fire vulnerability from her ring – left over from her first strategy against Haverron – and handed it to Emberious. The tiny kobold mage actually hopped up and down in glee as she took hold of the Eimuuran steel rod and began distributing curses like a demented trickster distributing exploding candy.
+
+Switching to demonic, Ali directed her Eye of Agnor to blanket the Death Knights with Explosive Conflagration, letting it auto-propagate through the undead, yet another source of hellfire to heal her nascent demonic army.
+
+“Push toward the portal,” Ali commanded. “Emberious, breathe on them!” If she could just get close enough to the portal, she was sure she would be able to dismantle it. It looked similar enough to the portals Haverron used to send assault forces to her floating island at Aalion, and she had had plenty of opportunity to study those.
+
+The little kobold Pyromaniac cackled and then took in a deep breath, inhaling for far longer than any lungs of her size should have been capable. Then she breathed out bright crimson dragon’s fire. It emerged in a broad, crackling torrent, gushing from her open mouth and even her nostrils. As more flames than could conceivably fit inside a tiny kobold billowed forth, enveloping the battlefield, the spark of a greater presence descended. It was not Azryet’s majesty, but the similarities were there, like an echo or a reflection of what might be. While the greater undead seemed unaffected, the rest – the fresh ghouls and zombies spilling through the portal – all froze. The Divine Archon wasted no time, switching to the Turn Undead aura, and all the frozen monsters collapsed, burning from within.
+
+Drawing from her extensive exposure to formations, memorized by studying the countless hours of training in her Arena, and against her bosses, Ali whipped up a glowing ring of shining emerald-green runes. Druidic and shamanic nature magic, in particular, were now an incredibly deep well of possibility, rounding out her repertoire of spells. In less than a second, her magic sprouted, growing, blooming, and then the runes burst into a silent cloud of floating emerald sparkles as the spell completed.
+
+She allowed a small smile at the sight of her Pit Lord’s growing army of demons and echoes, and then duplicated her new spell several times for some of the Mana Echoes, and the Divine Archon, too.
+
+You have gained Giant’s Strength+150% to strength.Magic – Duration: 1 minute.As Ali continued handing out various buffs, Dekarradon swung the immense halberd in a great sweeping arc, blades of blood exploding in a cascading ripple as his powerful strike knocked even the implacable Death Knights stumbling and reeling.
+
+But right then, the portal suddenly darkened, emitting an ominous aura of dread. Ali’s eyes locked onto it, her runes pulsing softly about her arms, forgotten mid-cast. A horrifying premonition of danger dug its claws into her, chilling her to the bone.
+
+And then he stepped through.
+
+The Blind Lich hovered upon the roiling, black mists that billowed out from the lower parts of his rich, ornately inscribed robes, making them flutter softly even in the sudden stillness of the Grove. The whole battlefield held its collective breath. Gaunt, emaciated hands pressed into a steeple above his cold, unbeating heart, making the blackened, claw-like fingernails click together as they touched. Powerful magic spilled out before him, leaking from the malefic enchantments imbued into the glittering rings hanging loosely from his withered fingers, twisting and bending the air – a mirage, but wrought from darkness. And through the veil of his crimson blindfold, the skin-crawling, hair-prickling, shuddering sensation of the full weight of his attention bore down upon her.
+
+Nevyn Eld [The Blind Lich] – Elder Lich – level ??? (Death / Soul)
+
+“Aah.” A sepulchral sigh escaped his lipless mouth – the stale, cold draft from a freshly opened crypt. His voice crackled and grated like slowly, methodically torn ancient parchment, ripped inch by inch. “Found you at last, little Fae.”
+
+(Thirty minutes earlier…)
+
+Raya was a platinum-ranked soldier. One of the few. The powerful. A three-mark.
+
+She’d reached the heretofore unimaginable milestone a week ago while defending the town, just like she’d always done. The ceremony at the shrine had been lovely, and her friends had all come. Aliandra, the dungeon, had remembered her, and even had a few kind words to say.
+
+None of it mattered now. She cowered behind the enchanted merlon atop the main battlement just like everyone else. A measly level one hundred and twelve was insignificant compared to the monster that had blotted out the sky with darkness and had summoned an army of the dead that covered the land like a plague of locusts.
+
+She glanced to the side to see the cloned holy mage beside her gamely lobbing fireballs of divine light out into the darkness while her white robe fluttered delicately about her in the breeze.
+
+Blazka [Bane of the Dead] – Kobold – level ??? (Holy)
+
+Even the fucking kobolds outclass me. This one was more than twice her level, and in the third tier, if the rumors were true.
+
+Raya shook her head and shifted to peek out through the crenel, but what she saw turned her blood to ice in her veins. The Blind Lich had left his skeletal steed and floated above the ground, channeling darkness that seemed to cling to his robes like tar. Around his head, he directed immense dragon bones in an unholy dance like a conductor to an unheard symphony. More and more bones appeared, and as they aligned, he spun enormous ropes of withered grey muscle and sinew from who knew where.
+
+What the hells is that thing?
+
+Her attention remained glued to the abomination forming on the far side of the battlefield, visible only due to its immense size, like a hare transfixed by the sight of an avalanche bearing down upon it. Still, the thing grew. Woven muscles twitched and spasmed, and an enormous leg bent at one of too many knees. Then another. And like a nightmarish newborn finding its legs for the first time, it rose. Six legs, dripping rotten flesh and ichor, and a body the size of the marketplace.
+
+Smaller undead – ghouls and Death Knights – swarmed the patchwork abomination, scaling the legs and crowding eagerly upon its back, glaring at her from eyelevel across the expanse.
+
+Shit! That’s…
+
+“Siege engine!” Raya screamed.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

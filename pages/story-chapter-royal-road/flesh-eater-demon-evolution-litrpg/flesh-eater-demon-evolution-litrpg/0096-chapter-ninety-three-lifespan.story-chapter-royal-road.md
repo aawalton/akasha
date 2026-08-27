@@ -1,0 +1,165 @@
+---
+id: 79416174-46f5-5dd6-8324-d50289b46884
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-Three: Lifespan"
+slug: 0096-chapter-ninety-three-lifespan
+partOf: flesh-eater-demon-evolution-litrpg
+position: 96
+ownLength: 2471
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3532576/chapter-ninety-three-lifespan"
+royalRoadId: "3532576"
+---
+
+Pyre’s eyes instinctively moved to Daphne. The noble sat stiffly in her chair, jaw clenched while Llyr waited patiently for them to respond. Callan shot her a worried look.
+
+Finally, after a few more moments of silence had passed, Daphne took a deep breath. She raised her head to meet Llyr’s gaze, speaking in a slow, careful tone.
+
+“It’s me,” she began. The hand resting on her chest tightened. “I’m… ichor-poisoned.” She swallowed. “It’s bad. I mean, I’m not an expert or anything, but I don’t… I don’t think I have long left.”
+
+It sounded like she had to force the words out. Maybe she did. Now that Pyre thought about it, even back when the mage had thought she was also ichor-poisoned, she tended to avoid saying the term itself. She’d mentioned hating the way people acted around her because of it, which could be the reason why. Putting it into words made it more “real.”
+
+While Daphne spoke, Llyr listened quietly. His expression remained neutral and impossible to read.
+
+“It’s not just the ichor-poisoning,” Daphne continued, the words coming quicker now as she rushed to get them out. “My soul barrier is very weak. Practically nonexistent. That’s why so much ichor’s been able to get in.”
+
+Llyr’s eyes sharpened slightly. “Are you a mage?”
+
+The noble grimaced. “Yeah.” She laughed dryly. “It’s both helpful and… really not.” Extra-powerful spells with practically no upper-limit in exchange for slow and steady poisoning.
+
+Llyr hummed, absorbing the words. Both Callan and Daphne shifted their weight as they waited for him to speak. In contrast, Pyre remained still. Watching.
+
+Finally, after nearly a minute had passed, Llyr opened his mouth.
+
+“I’ve never attempted to heal ichor-poisoning before,” the healer began, words slow and careful. Daphne’s shoulders slumped slightly, and the man continued. “However, if you permit it, I can try and take a closer look at the damage.”
+
+“You can look into people’s souls?” Callan blurted.
+
+“Somewhat, yes, though I’m certainly not an expert at it,” Llyr added with a light chuckle. He turned back to Daphne, expression becoming more serious. “Well?”
+
+The mage frowned. She looked pensive, eyes darting around the room. A cool wind blew in through the open window, rustling the curtains and a few of the dried herbs lining the shelves. Her fingers tapped along the chair’s armrest absentmindedly. She took a deep breath.
+
+“Okay,” she said. The noble stood, glancing around. “Where should I…?”
+
+“The cot is fine.” Llyr rose as well. “Please lie down. This shouldn’t hurt, but let me know if you feel any pain.”
+
+Nodding slowly, Daphne stepped over to the cot lying beside the glyph circle. Her shoulders were tense as she lay back, red hair fanning out around her head. Callan moved closer to watch, and Pyre stood as well. The demon settled at a spot by the foot of the bed, casually leaning against the wall. Here, she could see what was going on, and she was close enough that if the healer tried anything, a bone spike would cut him off quickly.
+
+Llyr turned then, crouching down by the water basin in the center of the rune circle. Carefully, he placed a hand inside, and Pyre saw a faint blue light emanate from his palm. The healer pulled his hand back, but this time, a layer of water surrounded it like a transparent glove or a bubble of some sort. The demon’s eyebrows rose.
+
+“I prefer to use water as a magic conduit,” Llyr explained, turning back to the cot. Callan had leaned closer, and even Daphne, for all her nerves, was watching the healer with curiosity. Based on his measured tone, Pyre suspected that this wasn’t the first time he’d had to explain this to patients.
+
+“Ichor channeled directly through the air can be a bit unruly,” he continued. He raised his hand higher, and the water surrounding it moved with it. “By drawing the ichor through a liquid first, it gives me more control. This is often necessary for more… delicate work.”
+
+“Delicate,” Daphne muttered. She turned her head to stare up at the ceiling again, laughing dryly. “I guess that’s one way to put it.”
+
+Llyr gave the mage a sympathetic look before stepping up to the cot. He raised his hand, the water swirling around it waving gently. “Please try to relax,” he said, and then his palm began to glow.
+
+Blue light flowed out from the center of the man’s hand, coursing through the rippling water until it glowed as well. In smooth, measured movements, the healer traced a few symbols into the air while muttering under his breath.
+
+Thin streams of water flowed away from his hand, coalescing in a ribbon of glowing light that slowly weaved itself into the shape of a sigil. Llyr continued chanting, guiding the floating runes of water into a single circle. The whole time, Callan watched every movement and rippling stream with open fascination.
+
+Finally, once all the water had been transferred from around his hand to the floating circle, Llyr shifted. He turned, and the runes followed the movement.
+
+Slowly, the healer guided the sigil down until it floated directly over Daphne. The mage stared at the streams of water warily, her whole body a line of tension. She seemed intent on watching the whole process, brown eyes fixed on the healer as he muttered a final chant.
+
+In a flash of light, Llyr’s eyes began to glow. The water churned, swirling around in their confined shape while the blue light grew stronger. Daphne’s jaw was tense, but based on her lack of reaction, it seemed the healer hadn’t been lying when he said she wouldn’t feel anything.
+
+Finally, after about a minute had passed, the light began to fade. Llyr’s eyes dimmed back down to their usual clear blue shade, and a frown formed on his face.
+
+The healer began ushering the streams of water away from Daphne. With a few absentminded flicks of his hand, they floated over to the water basin and collapsed back into ordinary droplets, landing with a light splash. Llyr didn’t even look at them. His brows remained furrowed.
+
+Carefully, Daphne sat back up. The cot creaked slightly beneath her. Her eyes darted over to the water basin, its surface now perfectly still, then to Llyr again.
+
+“…I’m guessing it’s not good,” she said slowly. This seemed to pull the healer out of his thoughts, and he turned to face her.
+
+“No,” he admitted. He shifted his weight. “What would you like to know first?”
+
+“How long do I have left?” Daphne said immediately. Her fingers wrung the blankets lying on the cot, leaving behind wrinkles and deep indents. “Don’t lie or try to soften the blow, either,” she added, jaw set. “I want to know the truth.”
+
+Llyr gave the noble a long look. Finally, he responded in a measured voice.
+
+“A year at most, likely less.” The healer’s tone remained even. Daphne’s expression didn’t change, but Pyre thought she saw her jaw tighten.
+
+“The ichor-poisoning has extended far into the soul,” Llyr continued. “Without a soul barrier, the ichor will continue to eat away at it. Even if you were to stop using magic entirely, it wouldn’t slow the poisoning in its current state.”
+
+The room fell silent at that. Daphne stared down into the water basin, but her eyes didn’t look like they were really focusing. Her whole body had frozen, and only her fingers squeezing the blankets gave away any movement. Her knuckles were beginning to turn white from the amount of force she was using.
+
+“I see.” Daphne’s voice was flat in a way Pyre had never heard before. Callan watched the other mage worriedly. “Is there any way to stop it?”
+
+“The damage that has already been done to the soul cannot be repaired,” Llyr said. “I’m afraid that’s beyond my or any other healer’s abilities.” He took a step closer to the glyph circle.
+
+“However, I may be able to create an artificial barrier around your soul that would prevent more ichor from contaminating it.”
+
+Daphne’s head shot up. “You can do that?”
+
+Llyr hesitated. “I haven’t tried it before,” he began slowly, “and it might not take the form of a barrier exactly. But I believe it can be done.” He frowned. “I must warn you, though, that this would be incredibly dangerous. Even putting aside my lack of experience, a spell so close to the soul could very easily go wrong. And if that were to happen…”
+
+The healer’s voice trailed, but he didn’t need to elaborate for Pyre to guess what he meant. If he fucked this spell up, he could end up damaging the soul even more. Daphne would either end up with an even more shortened lifespan or die right there on the spot.
+
+The demon studied the noble in question, her own expression neutral. She could practically see the thoughts churning in Daphne’s head as she ran over the given options. One of her hands rose to her chest again. Callan kept glancing between them, like he wanted to help but didn’t know how.
+
+“How long?” Daphne finally said. The words felt loud after the previous silence. “If the spell works, how much longer would I have?”
+
+“Considering the permanent damage,” Llyr began slowly, “I would say about ten or so more years. I’m sorry, I know that isn’t very lo—”
+
+“Are you kidding?” Daphne barked a laugh and shook her head, a storm of emotions in her eyes. “Ten years? That’s practically an eternity to me.” The last words were whispered half-disbelievingly to herself.
+
+Pyre vaguely wondered if the mage had, at any point in her life, thought she would live past thirty. Compared to an average human’s lifespan—not even mentioning the lifespans of demons and other nonhuman creatures—ten years was only a fraction, but it would mean the world to someone used to living on borrowed time.
+
+“I’ll do it.” Any lingering hesitation or other worries had disappeared from Daphne’s voice. Now, she faced Llyr with steely determination burning in her eyes. “Whatever spell or ritual you’re thinking, I’ll do it.” A wry smile tugged at the corners of her lips. “I mean, if I’ve only got a year left anyway, I might as well try, right?”
+
+Llyr was quiet for a moment, face unreadable in a way that Pyre was already starting to associate with him. Finally, the healer nodded.
+
+“Alright,” he said softly. He turned, now facing all three of them. “I will need to do some research first, test a few different spells. It may take me some time to prepare.”
+
+Daphne and Callan both turned to Pyre at that. The demon, still leaning casually against the wall, raised an eyebrow at their anxious faces.
+
+“Yeah, that’s fine,” she said. She waved dismissively at the healer. “Take whatever time you need. You’re the expert here.” Spending more time in Galen didn’t bother her. They still had a few months before Pax needed her mysterious object, and they had yet to really see Llyr’s abilities beyond the scan he’d just done.
+
+That, and as she stared at the hesitant hope growing on Daphne’s face, the demon found she didn’t want to stifle it.
+
+Llyr nodded. “You’re welcome to stay here in the meantime,” he said, gesturing at the infirmary’s open door to the mansion beyond.
+
+Daphne frowned at that. “Are you sure? You’re already doing so much for us. We wouldn’t want to bother you.”
+
+The healer chuckled. “I can assure you, I don’t mind. I have more space than I’ll ever need. I do keep a few rooms for storage, but any room that’s unlocked is free for you to use.”
+
+“Very generous,” Pyre drawled. “You sure you’re not gonna sell our organs or something?”
+
+“Well, I may ask you to run some errands for me,” Llyr said, smiling, “but that should be the extent of it.” He tilted his head, teardrop-shaped earrings swaying with the movement. “I’m quite good at healing organs, so replacements are rarely necessary.”
+
+“I’ll keep that in mind if I ever need to patch a hole in my stomach.” Not that Pyre actually had any organs, but the healer didn’t need to know that.
+
+Llyr laughed, the sound open and free. He turned to face all three of them.
+
+“I don’t believe I said it before,” he began, smiling, “but welcome to Serindell.”
+
+The mansion was quiet. If Pyre really focused, she could make out the sound of distant footsteps and voices as Callan and Daphne roamed around the building.
+
+Llyr had given them blanket permission to pick whatever rooms they wanted to stay in, and the two mages were taking that very seriously. Pyre was pretty sure that 90% of the rooms looked the same anyway (the noble who’d originally owned this place had clearly not been very creative), but that didn’t seem to stop them.
+
+Seeing as the demon didn’t need to sleep and wasn’t particularly picky, she’d told Callan and Daphne to pick a room for her, then watched as they ran up the stairs. They’d both been extra energetic since exiting the infirmary, and she’d be lying if she said she didn’t find it amusing.
+
+Now, Pyre strolled casually down the main corridor on the first floor, taking in the layout of the building and memorizing the rooms and hallways.
+
+Finally, once the demon had made a full loop of the space, she came to a stop in front of the infirmary again.
+
+Inside, Llyr was seated at the table. He appeared to be reviewing a paper that looked like it had a bunch of runes on it. The healer glanced up when he noticed the demon standing in the doorway.
+
+“Ah, Pyre.” He set the paper down, polite as ever. “Did you already choose a room?”
+
+She waved dismissively and stepped into the infirmary proper. “Nah, I’m letting Callan and Daphne pick for me.”
+
+Now that she was closer, Pyre studied the healer again. Llyr looked much the same as before, still carrying that calm, composed air. The water basin remained sitting in the center of the glyph circle, its surface currently smooth. Through the open window, she could see the sun was beginning to descend down from its peak.
+
+The demon focused on Llyr again, grey eyes meeting blue. Ever since she’d seen that spell of his earlier, a thought had entered her mind—a curiosity, you could call it—and it had only grown in the time since.
+
+Now, alone in the room, Pyre cocked her head at the healer. “You got time for another patient?” she drawled.
+
+Llyr’s gaze immediately sharpened at that. “Is there something wrong?”
+
+In response, the demon nodded at the water basin.
+
+“Mind taking a look at my soul?”

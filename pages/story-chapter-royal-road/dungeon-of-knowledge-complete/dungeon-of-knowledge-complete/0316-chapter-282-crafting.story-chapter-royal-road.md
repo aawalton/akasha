@@ -1,0 +1,211 @@
+---
+id: 8a50a69a-39ef-5d80-a0f1-0bb6891411a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 282: Crafting"
+slug: 0316-chapter-282-crafting
+partOf: dungeon-of-knowledge-complete
+position: 316
+ownLength: 3943
+unit: words
+ownProgress: 3943
+publishedAt: 2025-06-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2360781/chapter-282-crafting"
+royalRoadId: "2360781"
+markedReadAt: "2026-06-29T20:22:00.984Z"
+---
+
+Ali sat on her barrier, watching as the group approached the shrine, led by Vivian Ross and Val’korr. It was again a small group for a class advancement, but Vivian seemed to think that the addition of the Domain Tithe and the Challenge Arena was going to dramatically accelerate the training of the recruits – at least for the combat classes. At some point, if it had not already, word would spread far and wide from Myrin’s Keep. She would have to trust Vivian to keep that under control. Trust, but never blind. She was a second tier, evolved dungeon now, and she had returned from Aman Rak with powerful new minions and deeper insights. It was time to apply all her advantages to securing her domain.
+
+She directed her Forest Guardian boss to ignore them, allowing the group access to the grove. Her notice posted to the guild jobs board regarding her Challenge Arena had sparked a surprising amount of interest among the adventurers, and even now she could feel the activity on the plaza. It had been no more than half an hour after she had posted it before they had begun coming down in groups, even creating competitive games trying to see who could beat the hardest challenge. She had made one change already – she had used her Domain Mastery to make a large wooden noticeboard near the recovery area, and a couple of enterprising novices had set up a surprisingly popular betting pool.
+
+I guess it’s not just Sabri and Malika who are the combat freaks, she decided.
+
+But her Domain Tithe had had another, entirely unexpected effect. After the altercation in the guild, and her helping Cai Erwood to learn basic Trollish, she had several people asking her for language lessons. Both adventurers wanting to learn the language of the trolls, and several of the trolls wanting to learn common, as they began coming to terms with the fact that Myrin’s Keep might be a long-term stay for them.
+
+“Hi, Xera,” Ali said, greeting the little troll girl in Common as the party entered the grove.
+
+“Ali!” she squealed, running over to hug her. “Tarek said he’s getting his class today, and you’re going to help!” She started in Common but switched to Trollish halfway through as she ran out of words in her excitement.
+
+Of all her students, Xera and her little brother were definitely the cutest. Not for the first time, Ali wondered if her diminutive height had played a role in breaking the ice with the kids – both of them had taken to her far quicker than she expected. “Yes, I’m going to let them all use my shrine,” Ali said, pointing at the large obelisk of Adamant Onyx and magical glowing runes.
+
+“Ooh!” she said and ran over to touch it.
+
+“Xera, be careful,” her mother exclaimed. “This is a dungeon.”
+
+“It’s ok,” Ali said, reassuring her and ignoring the obviously unintentional prejudice against her class. “I’ll make sure she’s safe.”
+
+Ali studied the somewhat nervous applicants, standing in a group. There were five combat candidates, three crafters, and Tarek who stood apart from the others, supported by nearly all the Aman Rak troll refugees.
+
+“Are you sure this is ok?” Val’korr asked as the less excitable and more mature members of the group arrived.
+
+“Of course, Seeker. It is an honor to help Aman Rak,” she said, bowing to him. “Once their trials are complete, I will help them choose classes and affinities.” Then she unlocked class experience for each applicant, allowing Vivian to lead the combat applicants away to the sewer for their trial.
+
+Zor’kan immediately took Tarek to the side and began working with him doing strange things with bone extrusion that Ali knew had to be related to crafting.
+
+***
+
+It took a little over an hour for the applicants to complete their trials, to her relief all the combat applicants returned alive, although battered and covered with greenish-brown slime.
+
+Malika simply healed them while she spent a few moments explaining the features of her shrine and how they could use it to choose from several class options and any affinities they may latently possess, but then she also explained that the dungeon itself had affinities it could grant, and they were free to choose anything compatible. And then she began, leading Tarek to the shrine.
+
+He touched the shrine, and in seconds, mana surged through his body. Spikes of bone erupted through his skin, growing rapidly outward and turning him into a gruesome pincushion of bone to the sound of a couple of stifled screams of horror from some of the onlookers. But the bone twisted, shaping into spirals, and ridges, and then retracted inward, covering his body with plates of heavy-looking armor before it all fell away, landing on the ground in a heap. Tarek was silent for a few moments and then he stepped away from the shrine, his wounds rapidly closing under the influence of his regeneration. The same could not be said of his leather shirt and pants though – he would certainly need new clothes.
+
+Bonesmith – Troll – level 1 (Bone)
+
+“Bonesmith? What’s that?” Ali asked, immediately curious as she identified the newly classed Troll standing there with a faraway glazed look in his eyes as he explored the changes.
+
+“It is a class very similar to a blacksmith,” Zor’kan explained. “Using his magic, he can forge bone like a blacksmith forges steel to craft armor and weapons.”
+
+Ali watched in fascination as he grew a bone spike out of his arm and fashioned it into a crude dagger, healing the wound in his skin with his regeneration.
+
+“How will he learn his craft?” Ali asked after he had put his dagger away. “You don’t have any Bonesmiths left to mentor him. Will you train him?”
+
+“I cannot, my craft is too different. But he will be able to learn from any smith,” Zor’kan explained.
+
+“I know a great smith we can talk to if he doesn’t mind learning from a dwarf,” Ali said. She wasn’t sure Thuli was looking for another apprentice, but it wouldn’t hurt to ask.
+
+“Thank you, Aliandra,” Zor’kan said, bowing deeply to her, “I will speak to Tarek about it. It’s not like he will have much choice, something we who are left will need to get used to.” He made a pointed glance at the stubbornly proud Val’korr.
+
+Ali shepherded the remaining applicants through the shrine, one at a time, excited to see several of them taking advantage of her new domain affinities in their class choices. There was one fire sword, a mage that picked ice affinity, and one of the combat class applicants picked nature affinity, unlocking a druidic healer class – which clearly made Vivian super happy.
+
+But more importantly, Ali realized something; three of today’s applicants had no latent mana affinities, and all three were offered at least two of her domain’s affinities as choices. For this little group, every single candidate received a mana affinity they were happy with.
+
+She nodded to herself. Very pleasing.
+
+***
+
+Ali pushed on the heavy, burnished doors to Thuli’s smithy, happy that they were now enchanted to open easily even though they vastly outweighed her smaller body. The din and the heat washed over her, even with the full length of the antechamber between her and the forge proper. Thuli had also upgraded his entrance chime to be loud enough to be heard over the sounds of roaring flame and steel banging on steel, and it rang through the forge like the peals of a giant bell. She had to block her ears for a moment, but it had the desired effect: Thuli and Kavé appeared to answer their entrance promptly.
+
+Blacksmith – Dwarf – level 95 (Ember)Blacksmith – Dragonkin – level 42 (Steel)
+
+Another one close to his evolution, she realized belatedly.
+
+“Hi, Aliandra,” Thuli thundered, his voice the overly loud shout of someone who had been temporarily deafened by a loud noise and could not accurately judge his own volume. He greeted Mato warmly and looked over her two troll companions with an air of curious suspicion. “What have we here?”
+
+“Zor’kan and Tarek,” Ali introduced them. “Both of them have just begun learning Common,” she added. “They are refugees from the destruction of the Aman Rak tribe.” She explained their background in a little detail quickly to bring Thuli up to speed with the happenings of the last week.
+
+“So, we got Tarek a class, and Zor’kan said that Bonesmithing is similar enough to Blacksmithing that he might be able to learn from you. That is, if you have the time and capacity to take on another apprentice – I don’t want to pressure you, but I just don’t trust the other smiths that much.”
+
+“Hmm… Bonesmithing?” Thuli pulled on his beard thoughtfully. “I’ve never heard of it before. I would like ta see it in action before saying that I can help or no.”
+
+Ali turned to Tarek who was standing quietly beside Zor’kan. “Thuli would like to see you make something with your skills, is there something you can make to show him what you can do?”
+
+The troll nodded, and then spoke carefully, “May I use a hammer?”
+
+Thuli showed him to the forge and anvil, gesturing for him to choose from the immaculately maintained tools on their racks. Ali followed, curious to see what the young troll would do, and how his magic would manifest.
+
+Will it be like the Bone Dungeon? Or something entirely different?
+
+A peculiar swirl of mana appeared around his arm, drawing out a spike of bone that punctured through his skin before he snapped it off and his arm began to heal. Ali had seen this before, but Thuli certainly looked shocked. Tarek plunged the bone into the fire, feeding his mana through it. While he could certainly shape it with his mana directly, it seemed that whatever skill he was using was absorbing energy from the forge directly into the structure of the bone, shifting it subtly. After a few moments, he withdrew the now pliable and glowing sliver of bone and began to hammer it. If Ali had not known any better, she would have mistaken him for a blacksmith working on an iron rod. Only the rod looked a little too light and gray to be metal. He worked at it for several minutes, alternating different skills, and when he was finally done, he removed his work from the anvil, handing a completed arrowhead to Thuli before stepping back again.
+
+Ali hadn’t gotten to know Tarek at all before sending everyone to Myrin’s Keep, but she was struck by just how quiet and respectful he seemed. A rather dramatic contrast to Gara and Val’korr – and her general perception of trollish arrogance – but his innate seriousness reminded her more of Zor’kan’s demeanor.
+
+Kavé craned her neck to look at it while Thuli turned it over in his hand, the flicker of mana in his eyes and hands betraying the use of an advanced analysis skill. Thuli looked up at Tarek, his eyes assessing now, rather than suspicious.
+
+“Not bad for level one,” he said, eventually, handing the arrowhead back to the troll. “How about we do a week of provisional training ta see if my teaching really is compatible?”
+
+It took a little translation on Ali’s part, but Tarek’s smile was all the answer Thuli needed. “I will run some trollish classes this week,” she said. “You are both welcome to join. And Tarek will be learning to improve his common.” Thuli made a bit of a sour face at the sound of classes, but Kavé seemed quite excited – at least, if the toothy smile on her face was anything to go by.
+
+“We should also secure a good source of bone for practice material,” Thuli said, once again stroking his beard. “It’s a little gruesome to use yourself, and I can’t have him passing out from blood loss.”
+
+“I think a job request at the guild would be perfect to get supplies,” Ali suggested. There were constant skeleton incursions from the blighted forest creating a surplus of bone, much of which was being tossed into the sewers as soon as the townsfolk had discovered she would just dispose of it. And if that wasn’t enough, the adventurers could provide corpses; and there was always Seth too; if anyone knew where to find monster bones, it would be a necromancer.
+
+“Right. Kavé, can you take care of that when you drop the next delivery off at the guild store? And you,” he said to Tarek, “come, let me teach you how to use a hammer properly. None of this wee powder-puff delicacy like ya tapping on eggshells. Ya need authority, lad. Power, control and authority.”
+
+“Thank you so much for all you’ve done to help us,” Zor’kan said as they left the smithy. “It is well beyond what I had even asked. At least we have a slim chance of our tribe surviving now, I owe you a huge debt of gratitude.”
+
+“I’m just glad to be able to help,” Ali said, a little surprised at the genuine thanks from the troll. “How about we get you some tools and supplies while we’re in the crafter’s quarters?”
+
+“You’ve done more than enough,” he said, bowing his head respectfully.
+
+“Nonsense, how will you take over the Myrin’s Keep leatherworking market without having proper tools?” Ali said, grinning at him.
+
+“Do you honestly think my craft would be valued here?” he asked, looking a little surprised.
+
+“Myrin’s Keep does not boast any decent leatherworkers, at least, according to Calen,” she answered. “And the Adventurers Guild is growing fast. I think it’s a perfect time for you. You could earn some decent coin even just selling items to the guild store – I’m sure all the other trolls are going to struggle to support themselves at the start, but you could very easily provide the strength to get them established.”
+
+He didn’t say anything, but Ali could see his eyes scanning the shops with renewed interest and a little bit more of a spring in his step. Trolls were a proud people, and he had been humbled and wounded by the experiences of the last few weeks. The idea that his leatherworking would now be the strength his tribe needed seemed to resonate well with him, and it was nice to see a little more energy in his demeanor.
+
+I just hope he doesn’t turn out to be as grumpy as Val’korr.
+
+***
+
+“Here,” Ali said, pulling out one of the quartz wands of Winter’s Desolate Celerity, goosebumps prickling along the back of her hand under the chill of the powerful ice-affinity enchantments seeping through the clear crystal and into her fingers. She placed it carefully on the desk in front of Donella Novaspark and sat back.
+
+She had put all her experiments and exploration of her new advancements on hold and skipped out on all her research to book a little of Donella’s time to look at her wands. Calen was due home soon, and she didn’t want to miss the opportunity to help her friends break the town’s trade monopoly. As soon as Lydia finished her new robe, they would have to fly through the Emberforge Mines and clear everything in record time – and probably kill the Corrupted Fire Drake at the end just to have a shot at leveling Lydia past one hundred and triggering her evolution.
+
+To be certain of winning the fight, she wanted to bring to bear every tool she had. Having her Ice Mages able to cast their Ice Bolts almost three times faster was a bonus she couldn’t afford to ignore.
+
+“Can you recharge it?” Ali asked. The clerk downstairs had said the wand was too high level for any of the normal staff to recharge it and had suggested that only Donella may be able to authorize it.
+
+“Holy… where did you get this?” Donella exclaimed, snatching up the wand and examining it with awe. “This – this item is incredible, even for a non-ice-affinity mage.” She put the wand down reluctantly, after examining it from every angle. “Yes, I can recharge it for you. We do have a high-power mana transducer, but you can just leave it in an area with a high-density ambient mana and it will slowly recharge the magicite on its own. You have your domain, and that’s probably safer.”
+
+“How long would that take?” Ali asked.
+
+“A couple of days, maybe? With your domain’s mana density.”
+
+“I need it faster than that,” Ali said, frowning. “How fast is the transducer?”
+
+“Less than a minute, but I should warn you, force-charging it with a transducer is inefficient and it does have a small chance of failure, which might cause the magicite to explode.”
+
+“It has magicite in it?” Ali asked, examining the wand carefully.
+
+“Yup, that’s wand-crafting one-oh-one for you,” Donella explained, her voice taking on a classic lecturer tone. “There are three ways to make wands. You can take any old stick and imbue it with runes and your mana, making a consumable artifact like a scroll. Once the user expends the charges the item is broken. The advantage is it’s cheap, doesn’t require magicite, and can be used by anyone. We make a lot of those here at the Academy. The second approach is a rod – a reusable artifact that is inscribed with the runes for a single spell. The creator’s mana doesn’t matter because the user must supply compatible mana every use, but rods don’t have charges and can’t expire.”
+
+“And the third?” Ali asked, glancing at the crystal wand in her hand.
+
+“Wands like this are artifacts of a bygone era. They are powered by magicite and are fully rechargeable. Because the magicite casts the spell for you, compatible mana is not required. The crafter doesn’t need compatible mana to inscribe it, but you do need to charge it with a transducer or ambient mana.”
+
+“So,” Ali said, looking at the wand speculatively. “In theory… I could make this?”
+
+“If you know the runes, yes, but you will need to secure magicite, and that’s obviously next to impossible. I’ve made a few in my time using salvaged magicite. More recently, with whatever I can buy from Weldin Thriftpenny – I’m no expert with nature-affinity runes, but I’m rapidly becoming one,” Donella said, chuckling wryly.
+
+“Hmm…” Ali said, examining the quartz wand carefully, weighing up the possibilities. Absently, she said, “Ryn secured a fascinating book on nature-affinity rune magic from Ciradyl. I copied it for our library if you want to study it.” There was a distinct possibility that there wasn’t enough magicite in the three wands, but she desperately wanted to try. She retrieved some paper and quickly inscribed the runes she found on the wand with her mana sight, memorizing them and the structure of the connections. She pushed the page over to Donella along with one of the wands.
+
+“Would you mind double-checking my notes?”
+
+Donella looked puzzled but checked the runes carefully before pronouncing her reproduction to be perfect.
+
+Ali retrieved the other two depleted wands, laying them on the table next to the first one.
+
+“You have three?” Donella gasped. And then she made a choking cough as Ali’s deconstruction turned the first wand into a puff of sparkling mana, drifting away across the desk.
+
+Ali ignored her for a moment, deconstructing the remaining two wands. I hope it…
+
+Variant: Quartz added to Imprint: Stone.Variant: Magicite (Ice) added to Imprint: Stone.
+
+She did not get the wand imprint itself – that would have required a supply of almost fifteen of them – but with the magicite in her imprint, she should have enough of the pieces.
+
+“You… you…” Donella stammered, still struggling.
+
+Ali let her process what she had just witnessed and channeled some mana into her Grimoire, finding that enough of her new denser domain had permeated the academy from the sewers below that she was able to shape the quartz with her Sculpting and Domain Mastery.
+
+Once she had her wand base, Ali gathered her mana and began inscribing the runes into the quartz, consulting her notes whenever she wanted to double-check her memory. At first, Donella looked on in silence, but she leaned forward to study Ali’s work and before long she began delivering an increasingly animated lecture on the finer points of rune theory, pointing out nuances in the construction and arrangement of the individual circuits that Ali had been unaware of.
+
+“This is fine work,” Donnella nodded when Ali offered it up for inspection. “I just don’t understand how you could destroy the working ones just to practice. Those wands were priceless.”
+
+“I wasn’t just practicing,” Ali said, wielding her Grimoire and producing a small sliver of ice-affinity magicite which she caught and inserted into the waiting hollow chamber in the wand before closing it up. As soon as she linked it to the runes, her chime sounded.
+
+Runic Script has reached level 46 (+3).Winter’s Desolate Celerity – level 85 (Ice)A delicately carved wand of quartz with a deep core of glowing blue energy.+52 Intelligence.Charge: Cast Winter’s Desolate Celerity. Your target gains +85% [skill] to spell haste. The bonus is doubled if the target is chilled or frozen. Duration: 10 seconds. Charges: 0/9.Requirements: Intelligence 596.Created by Aliandra Amariel.Main Hand – Wand
+
+“Yes! It worked!” Ali crowed, ecstatic that her gamble had paid out. She turned the brand-new wand over in her hands, examining the sheen and the delicate runework. It was her first one, and she didn’t even care that it was a copy of Mok’freja’s work and wasn’t an original.
+
+The strangled half-words coming from Donella brought her eyes up to regard the speechless Gnome mage. “Here,” she said, passing the wand to her. “Would you accept this as payment for your time, and for the use of the mana-transducer to recharge some of the wands?” Ali asked, channeling her mana as she set out to make a few more. If there was a chance of blowing them up, she would take it and make more – she needed them charged urgently. Later, when she had the luxury of time, she would take advantage of Donella’s suggestion and use her domain.
+
+“I… I… yes,” Donella said, finally collecting her wits and breaking her gaze from the wand in her hand. “This is far more than fair payment, please let me know if there’s anything else I can help you with. I’ll let the staff know that you can use the mana transducer for free whenever you need it.”
+
+Happy, Ali finished several more wands under the watchful eyes of the lightning mage before she got up to go get them charged.
+
+“Hey, don’t forget to put your mana signature on these,” Donella said.
+
+It was only after she was halfway back to the guild hall that Ali realized this was the first time she had shown Donella she could make magicite.
+
+Oh well, she thought. It wasn’t like it changed much, only now she didn’t feel quite so constrained about adding magicite to her dungeon as a reward for the adventurers. And I have three different affinities now. Oh, and the Abyssal Bloodstone, that makes four. Although, Donella is probably going to badger Weldin until the ice magicite shows up in his store. Ali chuckled as she spotted a courier in Academy colors already approaching the guild.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

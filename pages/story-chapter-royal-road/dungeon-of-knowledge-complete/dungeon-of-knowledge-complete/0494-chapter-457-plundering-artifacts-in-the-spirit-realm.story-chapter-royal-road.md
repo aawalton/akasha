@@ -1,0 +1,205 @@
+---
+id: 3487affe-e5ce-5e42-9b2e-4ce9a72642e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 457: Plundering Artifacts in the Spirit Realm"
+slug: 0494-chapter-457-plundering-artifacts-in-the-spirit-realm
+partOf: dungeon-of-knowledge-complete
+position: 494
+ownLength: 2929
+unit: words
+ownProgress: 2929
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2797721/chapter-457-plundering-artifacts-in-the-spirit"
+royalRoadId: "2797721"
+markedReadAt: "2026-06-29T20:28:58.789Z"
+---
+
+Donella flew over the still mostly barren expanse of Myrin’s Keep, her sharp eyes taking in the various construction projects along the way. Most of the residential districts were still empty fields of grass, interrupted only by occasional trees and patches of yellow daisies. The slum districts would probably be the last to be rebuilt, but already they were strewn with tents and markers as people attempted to reclaim their former properties. It had been a vicious and drawn-out battle against Jax Hawkhurst to get the council to prioritize the Academy ahead of his offices and warehouses, and she was quite sure he would find some way to get back at her for his defeat. But today, she didn’t care.
+
+There, below her, stood mountains of white and green marble and the two Dwarven crafters hard at work wielding ropy streams of russet and ochre earth mana, visible even from this high up. But it was the powerful ripples and waves in the domain now permeating the entire town that captured her attention.
+
+She circled down, her wings crackling from the lightning discharge that caressed her skin with familiar prickling until she set herself down on a broad expanse of a type of black, polished stone she couldn’t immediately identify, studying the little Fae who was hard at work spinning runes out of mana with a speed and precision that frankly rivaled her own. It hadn’t been so long ago when Aliandra had come to her for lessons.
+
+“Hi, Aliandra,” she said, walking over and inspecting the almost completed circle. Is that Mithril?
+
+“Hi, Donella,” Aliandra said, waving without even looking up. Several of the Fae’s watchful minions, however, were facing her, and she was quite certain Aliandra could see using their eyes.
+
+“Why is it so big?” Donella asked. The work was exceptional, but the locus looked to be about five times the size of the original. This might require some adjustments to the plans.
+
+“With the elves wanting a locus in the forest, the guild getting one, and the one I keep in the Grand Library, I figured you would want to keep at least something of your previous exclusivity,” Aliandra said. “So, yours will be the biggest.”
+
+“Big is nice and all,” Donella said, “but how are we going to power it? The biggest draw of the Academy locus was the ability to cover the cost of transport for those who didn’t have enough mana.”
+
+Larger shipment capacity would bring a lot of new trade through her Academy and dramatically diminish the need for the Hawkhurst Trading Company’s services, but she only had the one mana battery. I can’t wait for Jax to see this. He’ll spit blood!
+
+Donella quelled the bloodthirsty thought. “Explain your thinking?”
+
+“All of the loci are domain-attached, so that shouldn’t be much of a problem going forward. However, I put a ton of space-affinity magicite under the floor –” Aliandra tapped the stone with her fingertips “– and this locus is linked to that, so you can use the mana battery for something else.”
+
+“How much magicite is ‘a ton,’ exactly?” Donella asked, curious to fathom what the Fae had just created.
+
+“Literally, a ton.”
+
+Holy shit! There was an unimaginable fortune buried beneath the floor of what was about to become her new Academy. “That’s… impressive. We will be able to take deliveries of entire merchant caravans through here…”
+
+“Yup, and Jax is going to hate your guts, probably,” Aliandra said, clearly thinking along the same lines as she had. “He will be unable to avoid using your services, unless he wants to be rendered entirely meaningless.”
+
+“Heck, with that much magicite we can probably receive something that weighs as much as the whole town, from as far away as the other side of the continent,” Donella said, her mind calculating the sheer amount of mana that would be required for such an undertaking, cross-referenced against her best estimate of what an actual ton of magicite might hold.
+
+“Or from another realm,” Aliandra whispered.
+
+Oh. So, that’s why. Donella did not miss the sudden sadness, nor the steely resolve that crossed Aliandra’s face like a fleeting reflection. “I’m sorry about that. I heard you tried to return from the Abyssal Realm, and it failed because the mana battery was drained.”
+
+“It’s ok,” Aliandra said, her face already smoothed back to her normal, focused expression. “Now it will never happen to anyone else ever again.” She sighed, setting her shoulders and returning to her work. “And you’ll have the best locus on the continent. There, it’s finished.” The Fae stood as the mithril runes lit up with a flood of fresh space-affinity mana flowing through the stone floor.
+
+“Thank you, Aliandra,” Donella said, waving as the small Fae took to the air on her softly humming golden wings, leaving an impossible work of magic and runes behind. “Words cannot express my appreciation for this gift. I’ll make sure the locus pattern is delivered to Morwynne Fizzlebang so that she can make new recall potions for your guild.”
+
+“Thanks,” Aliandra said, smiling down at her with tired eyes.
+
+To think I didn’t trust her at first, Donella thought. She had spent so much energy managing her experience, delaying the inevitable while she tried desperately to reverse the thoughtless actions of her youth. So many things to hopefully redirect her class evolution in the way she desperately wished, but never fully knowing if it was enough. In the end, when Blooming Rot took over, she had blasted several fungal monsters with her Chain Lightning to save her crafters and a few townsfolk, and she had heard the dreaded notifications. She had spent nearly a week wrestling with her emotions over what chimeric disaster her class would become via the natural evolution path, but Aliandra had simply ignored all that and granted her free use of the shrine.
+
+Archmagus of Runic Lightning. She raised a hand, and the lightning flickered, hovering above it as if trapped by her grasp. With just a thought, it twisted, shifting into crackling runes before she let them fade. The class was, in fact, far better than she had ever dared to hope. A class that pushed her focus in lightning and runic magic to heights she hadn’t even imagined possible. A class that would eventually rival even Nathaniel Sunstrider himself. Before he turned, she added. She had no desire to walk the dark path he had chosen. I will not. I will be better than that, and true to myself, no matter the cost.
+
+“That looks impressive.”
+
+Donella turned to find Brena approaching. Her daughter had reached her evolution at exactly the same time she had, and Donella couldn’t be prouder of her after seeing how effective she had become with her adventuring group. It was not the path she had had in mind, but Brena was just about as headstrong as she was at that age, but she was happy, and that’s what counted. “Heya, kiddo,” she said, affecting a drawl.
+
+“Oi, mom! I’m higher level than you, now!” Brenna said, bristling predictably.
+
+“Sure. But I’m still your mother,” she retorted, letting a sliver of a grin crack her façade. I can’t thank Aliandra enough.
+
+“And you will wind me up, is that it?”
+
+“It’s what all the loving parents do around here. Now, what can I do for my favorite little powerhouse?”
+
+“Mom!”
+
+Worthington stepped into the new, and surprisingly much larger auction house. The floor was a deep mahogany, and the higher ceilings and silvery white marble walls lent it a sense of airy spaciousness that he very much appreciated. Skylights had been masterfully crafted into the roof, letting in streams of sunlight. It had cost him a substantial ‘donation’ to the house of Asterford to ensure the restoration of the auction house had priority over some of the other projects. Most notably, his competition.
+
+There was still a lot of work to do, such as hanging pictures, finishing the furnishings, and purchasing new rugs for the floor, but right now, he had urgent work to do. Quickly, he shooed the crafters out and locked the door. Then he accessed the administrator features of the auction house terminal, now fully reconnected to the Silver Cog network.
+
+“Bixi?” he called, as the connection completed its linkage.
+
+“Aah, Worthington. So good to have you back online. Care to report?” Bixi’s voice came through, as clear as if she were standing right next to him.
+
+“A rogue dungeon took out the entire town, but the local dungeon and the Adventurers Guild have finally defeated it. The town is now in the process of being reconstructed, and we have a time-critical opportunity.” This was his most urgent business, and the reason he had spent so much of his hard-earned profits on Bastian Asterford’s goodwill.
+
+“Oh? An opportunity?”
+
+“The crown-appointed banker, Hadrik Goldbeard, was tragically killed – one of the many losses when the rogue dungeon struck,” Worthington said, knowing Bixi would get it immediately.
+
+“I see,” she said, the line going quiet for a few moments. “I have a few contacts I can call. We should be able to propose a new banker who owes Silver Cog a few favors.”
+
+“Thank you,” he said, a sudden weight falling from his shoulders. With an allied banker in town, he was certain he could defeat Jax Hawkhurst and thus claim the lion’s share of trade into and out of the new Myrin’s Keep. Time to take the gloves off!
+
+Whistling a happy tune as his mood soared, he returned to unlock the door and open the auction house for business. He had profits to make.
+
+“Did you enjoy the class?” Ali asked, glancing up from her work as Naia wobbled across the restored Grand Library cherry-wood floor to join her.
+
+“It was fun!” Naia said, bobbing up and down. “Lyeneru is clever-friend. I can turn into a chair now!” And of course, the enthusiastic mimic demonstrated a flawless rendition of one of the guild conference room chairs.
+
+“That’s impressive, Naia,” Ali said. And it really was – without knowing any better, she wouldn’t have thought twice about sitting on it.
+
+“I can do this, too,” Naia said, warping rapidly until she was a medium-sized wooden chest, bound with sturdy-looking iron bands and a thick, slightly rusted lock. The lid cracked open just enough to slip a hand inside, emitting a tantalizing gleam of gold from within. As the lid enticingly slipped a little wider, it revealed the hint of sharp, blackened teeth just inside the rim.
+
+“Um, that’s terrifying,” Ali said.
+
+Instantly, Naia transformed back to her blue blob, the recoil rippling through her jelly-like body, making her shake. “I did a bad chest? Lyeneru said it was tradition.”
+
+“No, Naia, your mimic chest was perfect. People would most certainly be fooled into sticking their hands inside, and then you can bite them,” Ali explained. Perhaps not the most useful shape for a mimic slime, but every monster compendium had artist renditions of toothy chests, filled with fake treasures, eager to bite the unwary.
+
+Naia wobbled a little as she laughed. “Lyeneru said it was funny, but she also gave me lots of really good ideas for hiding.”
+
+“That’s great, Naia.”
+
+“I joined the guild,” Naia said. “Now we can be guild-friends, too.”
+
+“Guild mates?”
+
+“Yes, that’s what the elf lady said.”
+
+She must mean Mieriel, Ali thought, quickly parsing Naia’s sudden change of subject. “I’m about to take Ryn to the Infinite Maze, do you want to come? You can meet Cael and Gage.” There were tons of books waiting for her to copy, stashed away in the Spirit Realm library, and she wanted to get a head start on the task, but there were other important tasks she needed Cael and Gage for.
+
+“Naia come,” she said, bobbing up and down and reverting to more broken speech in her excitement. “Adventure!”
+
+“Ok, let’s go,” Ali said and called to Kir’vella.
+
+“Who needs to be turned into a frog, Seeker?” Kir’vella asked, cackling wildly. “Frog soup is tasty. Frog legs swim nicely in broth!”
+
+“I want you to curse us over into the Spirit Realm,” Ali said.
+
+“Excellent!” Kir’vella cried, with entirely too much dramatic emphasis.
+
+I need to remake the teleportation circle to the Infinite Maze, Ali thought as the curse took effect, reminding herself that her to-do list was getting longer when it should really be getting shorter.
+
+Moments later, Ryn appeared, and then, without waiting for the witch doctor’s curse, Naia seeped through the air, landing beside Ali with a plop.
+
+“Oh,” Naia said. “So that’s how you do that.” Then, as if it were as trivial as walking, she shrank rapidly, appearing back in the normal realm as a gray-looking slime. A few moments later, she oozed back through the air, like blobs of viscous liquid seeping through tiny cracks, recombining on the Spirit Realm side. “This is fun! Show me more things!”
+
+“Well, I’m glad that’s easy for you,” Ali said, with a slight pang of jealousy. She hadn’t missed the fact that Naia appeared in a perfectly healthy, glowing blue color, and the mana of her domain followed her through the veil between the realms.
+
+“It’s not easy for you? You just go through the cracks,” Naia said, as if she were pointing out the obvious.
+
+Well, maybe to an ooze, the realm boundary looks like a porous rock wall. Ali couldn’t fathom the bizarre mindset of her friend, but it was certainly a useful skill.
+
+“Ali,” Cael said. “Welcome back!”
+
+“Who is that?” Naia asked.
+
+“Who is that?” Gage asked.
+
+“Naia, meet Cael and Gage – they are my brothers. Cael, Gage, this is Naia. She’s a slime dungeon.”
+
+“Where?” Naia asked, her pseudopods waving about in a searching pattern.
+
+“Where what?” Ali asked.
+
+“Cael? Gage?” Naia said. “I can feel their words, but… not here?”
+
+“Oh, we’re in the center of the Infinite Maze,” Cael said. “We have remote perception and a voice projection skill.”
+
+Introductions were followed by a whole host of curious questions while Ali waved to Ryn as she said goodbye and rushed toward the lower levels of the library.
+
+“Cael, can we borrow your suppression aura again?” Ali asked. “I have a dungeon artifact to study, and I don’t want its former owner teleporting in to reclaim it.”
+
+“Dungeon artifact? How does that work?” Cael asked, his voice filled with curiosity.
+
+“Well, that’s why I brought it here, and also why I brought Naia. I’ll place the artifact in the suppression aura and bind a minion to it. Then I’ll create everything recorded in the dungeon, and we all trade skills.”
+
+“Skills?”
+
+“Skills!” Naia said, wobbling with enthusiasm.
+
+“Domain Magic skills,” Ali said. “It’s time I taught you two how to make bosses.”
+
+Apparently, this statement achieved the unlikely result of silencing Cael and Gage for several long minutes.
+
+Ali performed the looting of the dungeon artifact right there on the top floor of the library in the Spirit Realm, under the protection of Cael and Gage’s monumental suppression array, while Kir’vella cackled away like a maniac. It might have been a risk, but she knew the twins’ array had fended off the Blind Lich’s attempt to retrieve the artifact at least once before. Still, it took some time to work through the entire dungeon artifact – there were far more variants encoded than what she’d found in the Lyton Ruins shrine. Most of Blooming Rot’s monsters were already inscribed in her Grimoire, but Ali took the time to update each variant to the highest level available.
+
+“Ok, now for the interesting part,” Ali muttered, and then fed every single domain magic skill that could possibly gain a death affinity to the subordinate dungeon. Kir’vella then spawned bosses and returned the skills to her. Once she had those done, Ali took advantage of her own domain mana to summon bosses and trade the skills to Cael and Gage, and Naia, too, receiving in turn their shared water and space affinity versions.
+
+“This is amazing!” Cael exclaimed for the umpteenth time.
+
+“So cool,” Gage added.
+
+Even though Cael and Gage got the least out of the deal, being restricted to elementals and space- and arcane-affinity magic, they still all profited greatly from plundering Blooming Rot. Ali taught them all the different levels of domain enhancement, giving them a powerful set of new tools for holding back the shadow realm. Even just a single Arcane Brawler as a raid boss near the rift would decimate more than eighty percent of whatever spilled out of that shifting dark realm.
+
+Naia was crooning over a few upgraded ooze imprints and all the new affinities and domain magic spells.
+
+Ali was most excited about Retaliation Trigger in water, space, and death-affinities – each adding a nova-like basic area damage skill to her repertoire. Blooming Rot even added a rot bolt variation, which would work with her extensive set of noxious Treants.
+
+“Wait, what is this?” Ali’s eyes stopped on an item she hadn’t expected. “An imprint for herbs?” Blooming Rot had consumed the entirety of Myrin’s Keep. Eliyen’s garden included. It seemed that every single herb, wildflower, grass, and tree was recorded. Without hesitation, Ali summoned every single one of them, not hesitating to spend the chapter for the imprint as she transferred all the rare and valuable plants to her own Grimoire.
+
+Imprint: Herb completed.
+
+That was unexpected! Basil and Eliyen are going to be so happy.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,95 @@
+---
+id: 1612f362-9de4-54a8-b7c4-4b34d8bd20a4
+page-type-slug: story-chapter-royal-road
+title: "Ch63 Growing Stronger"
+slug: 0063-ch63-growing-stronger
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 63
+ownLength: 1354
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3457836/ch63-growing-stronger"
+royalRoadId: "3457836"
+---
+
+Once I return to my private thatched hut, I put on my dark night concealment cloak to hide my aura entirely and begin to upgrade a few of the new talismans I picked up, along with one of each spirit fruit, and even three qi nourishing pills.
+
+I consume these three jade green and golden heavenly grade pills and sample each spirit fruit to sense their reaction to my body. Unfortunately, I don’t feel a significant stir in the initial stage bottleneck of the 4th level.
+
+Each one pushes more raw qi throughout my physical body, but my spiritual roots are no longer stimulated enough to be saturated. Only thin wisps of qi flow into my dantian, enough to maintain my cultivation, but not progress.
+
+It is expected, as this is the same feeling I’ve had even cultivating natural qi in the air for the last few weeks. Using Little Red to defy the odds of my 9th grade roots’ potential did crack through the unyielding abyss that holds every other cultivator back in my position.
+
+Experiencing that has planted a seed in my mind that no matter what the rules of this world say, there are always exceptions.
+
+When I pull the small pale purple low quality barrier breaking pill out from my storage, the smell that wafts off of it instantly flows through my meridians and subtly stimulates parts of my spiritual roots that have never been saturated before.
+
+I’m drawn to try swallowing this pill whole without even upgrading it. However, I hold myself back and quickly use a bronze upgrade card. The pale pill becomes saturated in a deep royal purple hue, and the familiar three heavenly golden patterns form on its edges.
+
+The smell that permeates out from this pill instantly fills the room, but I swallow it whole, hiding it behind my Tier 2 concealment cloak.
+
+As I feel the hot purple and golden essence rush into my body, dozens of cultivators nearby that were momentarily enveloped in the sweet purple mist all experience minor bottlenecks loosening from breathing in the scent alone.
+
+The invisible bottleneck inside me is shattered and dissolved too.
+
+Within the first minute of swallowing this pill, large amounts of raw qi resting in my meridians have a wide open channel to flow through straight to my dantian, and I jump from the initial stage to the mid stage of the 4th level of qi refinement. The purple aura acting as the catalyst for this process tries to seep out of my skin after completing its job, but my Jade Purity Soul Scripture activates and pulls it back. It uses the two silky white souls resting inside me to grab a hold of this purple and golden essence to recycle it over and over.
+
+My whole body heats up from the intensity of a pill meant for breakthroughs into the late stage of qi refinement.
+
+If the constant cycles weren't slowly diluting and spreading out this energy, and I didn't have an extra sturdy layer of my Martial Warrior Physique holding my flesh and bones intact, this pill would burn me alive from the inside out.
+
+Another internal crack pushes me from the mid stage to the late stage of level four no more than 15 minutes later.
+
+By the half hour mark, not a single trace of this purple aura remains inside me.
+
+It has all been used up, its medicinal properties consumed by my spirit roots, and the raw energy converted into pure white qi within my dantian.
+
+When I open my eyes, I feel the subtle shift in my strength and perception.
+
+However, the suppression of my 9th grade roots has become even more extreme.
+
+They only flared up while being saturated with that purple aura. Now, they’ve reverted back to their natural sealed state. This pill has done exactly what it said it would, break barriers. Now, I’m slightly stronger, but in my prospects of future progress, I’m right back to where I’ve started…
+
+–
+
+An entire week goes by.
+
+I try to cultivate with a few heavenly qi nourishing pills and common upgraded fruits again, but the same result occurs, only storing this raw qi in my dantian, bringing me nowhere closer to the perfected stage of the 4th level.
+
+After scouring the markets every morning and finding not a single one of these purple pills being traded, I quickly move on to my next course of progress I can actually control.
+
+I use up all of my stockpiled upgrade cards as well as new daily ones to create heavenly grade Martial Root pills.
+
+I spend almost all day inside, eating over 7 pills a day, diligently practicing my movements until I’ve completely exhausted the upgrade cards I saved.
+
+To go from absolutely no acquired physique to a Martial Warrior, it took 50 perfected pills. Since then, I’ve consumed almost double, exactly what the next stage of the manual outlines. At first the progress was slow, without any physical signs in sight, but one morning, as I consume my 100th pill since my Martial Warrior breakthrough, my whole body starts to tingle once again.
+
+As I work through the natural flowing movements, the Martial Root Extract settles in perfectly to every crease, fold, and tight space within my body and sea of consciousness.
+
+There is no resistance once the time is right, everything just clicks into place.
+
+Tighter, more refined, and more in sync vibrations that were building up finally attach to the foundation that was my Martial Warrior Physique and elevate it to a broader, stronger, and heavier physique.
+
+[Acquired Martial Elite Physique][Mid Stage - Mortal Grade]
+
+Golden lettering shifts in my mind too, and an instantaneous shift in strength is compounded into my being.
+
+The jump from no physique to the Martial Warrior physique added about half a qi refiner’s level of strength to my overall prowess.
+
+This new jump from a Martial Warrior to a Martial Elite adds an entire level of additional strength.
+
+From my limited experience so far with other acquired physiques, the common trend is that there are four stages to every physique. The Initial Stage, Middle Stage, Late Stage, and Perfected Stage. When fighting blood demons, they all had one of these four stages on their system readings, followed by the Mortal Grade Classification.
+
+Detailed in this Martial booklet, there are distinct names for the physique changes at every jump in its stage. The Martial Warrior physique being the Initial Stage name, and now the Martial Elite physique as the Middle Stage name of this same physique.
+
+There are even more labels for the late and perfected stages, making it seem very unique compared to the blood demons I fought that had no changes in their physique's actual name.
+
+I recall one of the general information pages in the front of this upgraded guide, and it makes sense why this is the case.
+
+This physique is most commonly used by mortals, devoid of spiritual roots. The half a level of qi refining strength gained by Martial Warriors at the initial stage of this physique is the natural limit for most.
+
+Others that train for decades longer may one day reach the middle stage, adding an entire additional level of strength. To mortals, this gap is far more significant than to qi cultivators. It is ingrained in this physiques history to make meaningful separations between these stages, while for physiques commonly used by qi cultivators, it is understood that with enough training one can push their physique to the perfected stage.
+
+Despite only being a late stage 4th level qi refiner myself, the raw power of an average 6th level qi refiner courses through me now. The shift in its name feels satisfying too, like there is even more to its purpose than this guide's simple explanation is leading on.
+
+Though, my attention quickly shifts elsewhere, and morphs to slight concern. The cloak I'm wearing is able to conceal my progress in qi cultivation, but the pulse of extremely sharp Martial Elite vibrations that comes out from my thatched hut cannot be hidden…

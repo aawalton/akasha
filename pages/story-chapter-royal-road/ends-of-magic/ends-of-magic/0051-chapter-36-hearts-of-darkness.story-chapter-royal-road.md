@@ -1,0 +1,201 @@
+---
+id: 4d3eedb2-3dc9-5e0e-8406-be4991576de2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Hearts of Darkness"
+slug: 0051-chapter-36-hearts-of-darkness
+partOf: ends-of-magic
+position: 51
+ownLength: 2764
+unit: words
+ownProgress: 2764
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2817914/chapter-36-hearts-of-darkness"
+royalRoadId: "2817914"
+markedReadAt: "2026-06-29T20:08:53.978Z"
+---
+
+The Seal in Old Gemore had been at the heart of the city, atop a mountain curled like a wave poised to crash. The magical workings that sustained the Heirs’ home continent had been within that mountain. It would only open on the night of the Solstice, when incredible amounts of magical power would be expelled towards the sun in the center of Davrar.
+
+This Seal would open at that time, too, and that’s when any attempt to fix the Blight was supposed to happen. At any other time, it was only possible to adjust the Seal through wizardry. Nathan was certain he could do it with his antimagic, and that was the whole basis of their current mission. He’d been expecting it to be simple. All he had to do was get to the Seal and flip a magical switch inside.
+
+Looking down at the source of the blight, he could tell it was going to be more complicated than he expected. The center of this ruined city was a massive coliseum dug out of the ground, and Nathan’s magical senses were telling him that the Seal was on the floor of the arena in its very center. None of them could see it with their eyes because the death mana here formed dense tendrils that stretched across the coliseum like a rat’s nest of bus-thick fiber. They were so dense as to be physical, and beyond the top few rows blended into a mass of impenetrable darkness.
+
+The Heirs hovered over the edge of the wall around the coliseum, looking down at the mess below them. Aarl was the first to break the silence, his voice wry, “Nathan, this is your nemesis to slay. May Algoa’s luck ride with you?”
+
+Nathan rolled his eyes. “This might be tricky. Khachi, can you try to burn your way through?”
+
+The wolfman grunted his assent, studying the floor of darkness before incanting a prayer. “Let my light shine forth, bright and clear, to burn through this darkness.” Divine power flared forth, and Khachi directed it downwards like an enormous flashlight. The spell burned through the top layers of mana cables as though Khachi was using a flamethrower on yarn. But beneath the top layer was another, and another beneath that. They slithered against each other like a pit of leeches drawn taught, and reacted to the light by surging upwards.
+
+The Heirs jerked backwards as flailing tendrils of pure mana and wizardry reached up for them. They sizzled in Khachi’s light before Nathan absorbed the remnants that got near. He panned his senses across the pit below. “They’re using the output of the seal as a power source. Unless you can counter the entire output at once, I don’t think your light can get through it.”
+
+“That is a weight I cannot bear,” Khachi said, making eye contact with Nathan. “Can you?”
+
+Nathan rolled his neck around. “I haven’t shown the offensive capabilities of my aura yet, but I think it’s time for me to cut loose. It looks like this final challenge is mine.”
+
+“Hardly a surprise," Sarah said. "There are still undead all around. If you start to threaten the Seal, they’ll probably swarm faster than a stalker’s pounce. We should stay here and fight them, instead of requiring you to defend us from that.” She waved a hand towards the tangible darkness below.
+
+“I don’t think it’ll be a problem if a few monsters try to attack,” Nathan replied, then reconsidered. “Actually, it would be pretty disruptive if a grave tangle lands on me while I’m trying to deal with complicated wizardry. But if you need to retreat, do so. I’ll run away if I have any problems.”
+
+“We can’t stay here forever,” Stella said, frowning down at the mass of shadowy mana. “Khachi’s blessing will expire, and we will need rest we can’t get. Not here.”
+
+Aarl gestured downwards once again. “As I said. Your nemesis. We’ll be up here killing undead.”
+
+Nathan nodded, biting his lip with nerves. “My aura won’t be able to protect you from the blight. Khachi, make sure to keep your light up.”
+
+The wolfman sighed with exasperation. “Teach a mage to light a fire. The final part of this deed awaits.” He looked at Nathan significantly, gesturing downwards.
+
+“Yeah, yeah, I got it,” Nathan said, steeling himself as he looked down at the churning mass of death mana. He’d done a lot of terrifying and disgusting things on Davrar. There was a particular thrill to it, the same sort of adrenaline rush that had drawn him to extreme sports back on Earth. But if you do anything for long enough, it would lose its appeal. Looking down at the cauldron of hostile magic, Nathan did not feel in the least bit excited. He mostly felt tired and like he'd rather do anything else than dive into a pit of gigantic worms forged from death and darkness.
+
+It’s a chance to get the next Development of your antimagic. Learn some new truths about magic.
+
+Nathan stayed floating next to the Heirs, taking deep breaths and closing his eyes as he focused on what his magical senses were telling him. He could feel the Heirs' eyes on him. “I’m just scoping everything out and making a plan.” They refrained from comment, giving him the chance to delve into the magical underpinnings of the death magic that blocked the Seal.
+
+He could feel the machinery of the Seal operating deep below, a combination of mana, wizardry, and some third thing Nathan didn’t understand spewing out the death and darkness that was the foundation of the blight. Above that was a slithering mass of death mana and associated wizardry that sat atop the Seal like a hive of enormous eels, leaching off the source of the magic. Nathan tried to sense the switch he’d need to flip near the top of the Seal. If possible, he’d love to do it from here. But he couldn’t easily detect it. If it was present, it was hidden underneath the mass of magic. He’d need to get closer.
+
+And if it’s been broken, I’ll need to find another solution.
+
+He turned his attention to the death mana, probing at the constantly writhing mass. It felt like an uncountable number of separate entities of mana and wizardry, like a giant pile of elementals. They didn’t have the sharp edges and aura of fear of the living shadows, but they had a kind of solidity that the shadows lacked. There was a greater pattern to their chaotic movements, with waves of propagating motion moving through the mana. The flowing tendrils didn’t act like creatures fighting each other, but like a swarm of fish reacting as one to stimuli.
+
+“Nathan?” Aarl asked curiously. “What holds your action?”
+
+He opened his eyes to reply. “I’m figuring out everything I can about all of this before everything kicks off.” Then he gave a self-conscious chuckle. “I’m also delaying as long as I can. I’m not in a hurry to dive into that.”
+
+“It would kill any of us,” Khachi added. “Only you can finish this task.” His eyes glowed with comforting light, but the bolstering effect slid off Nathan without effect.
+
+Still, he appreciated the gesture. “I know. Give me another minute,” Nathan said, closing his eyes and narrowing his focus. He’d been trying to understand the whole of the mile-wide mass of magic, but his first glance hadn’t revealed anything profound. By concentrating on a smaller section, he hoped to find more details. All he saw was shreds of mana passing between the tendrils of death mana at each touch, which was not surprising given the nature of the things.
+
+He was surprised by the lack of depth on display below. Of purpose. There was every sign that the blight had been testing them, probing for weaknesses to exploit. That was the entire reason they’d tried to keep weapons in reserve. He’d expected to find that intelligence here, and when he’d first seen the pit of magic, he’d thought it would be a magical brain. But there was no sign of intelligence below, just a massive amount of aggregated death mana, agitated into constant motion by the continuous influx of energy from below.
+
+I guess the liches were the real intelligence all along. They were directing everything and tried to finish us off personally as a last-ditch effort after their gigantic spell failed.
+
+With that conclusion, Nathan dove into the pit of magic, intent on tunneling down into the bottom to reset the seal and drain the death mana from the blight. He brought his aura in tight around his body, keeping it concentrated enough to burn through the semisolid mana that blocked his path.
+
+The tendrils reacted like he’d dropped bait into a feeding frenzy. A hundred train-sized tentacles of magic reached for him from all directions, heedless of the way his aura burned them. Darkness snapped around Nathan as they buried him under their semi-real bulk. But all of their power couldn’t bull through his concentrated aura, and he continued free-falling down towards the Seal far below.
+
+He’d thought the blight was exerting pressure before. Now it was like his aura was surrounded by thousands of gigantic serpents, all attempting to crush the unyielding sphere of antimagic that slipped through their tangled mass. He considered accelerating downwards but decided against it. He was falling fast enough and didn't want to interfere with a good thing.
+
+Then he slowed down, the gravity of Davrar reversing to bring him to a halt and begin to throw him up and out of the crushing embrace of the Tangle. He frowned, bringing his aura to bear against the wizardry. This wasn’t gravity or force mana like he’d felt from Dalo and Kullal back in Gemore. It was a space-twisting wizardry reminiscent of some of Badud’s spells. He broke the construct and resumed his fall, accelerating himself downwards this time.
+
+Within moments, there was another obstacle, a hissing disc of destruction. It was another wizardry construct, and one that Nathan was less familiar with. It was a deeper and more profound disintegration spell, and the hissing was its unmaking of air. Nathan needed to take a moment to understand the spell before he could begin dismantling it. In that moment, he noticed something else. The disc was hundreds of feet across and perfectly centered under him. Hundreds of the death-aspected mana worms should be impacting it every second. But none were. They all split perfectly around it while keeping the pressure on him.
+
+There’s no way this isn’t intelligent. These workings are too advanced, and the coordination is too good.
+
+Nathan swallowed, realizing he’d significantly underestimated his adversary. Whatever this mind on top of the Seal was, it wasn’t just a nest of death elementals grown from the mana that fed the blight. It was a hivemind of some kind, and its communication was mediated by the mana that flashed between the tendrils of magic whenever they made contact with one another in their ceaseless writhing. He'd call it the blightmind, which seemed appropriate.
+
+He considered trying to kill the blightmind directly with his antimagic. He likely could do it. There wasn’t more mana inside this coliseum than had been contained in that apocalyptic blast of mana that had almost killed the Heirs. But he could feel divine mana vaguely flashing above, along with the elemental magic of Stella’s spells. The Heirs were fighting, and the Seal was constantly replenishing the creature that Nathan currently sat inside. Draining all of this magic would take time. Time the Heirs probably didn’t have.
+
+So instead, Nathan tore apart the wizardly destruction that blocked his path and threw himself downwards, deeper into the whirling cauldron of intelligent death magic. He briefly considered trying to communicate with the blightmind, to see if he could convince or trick it to let him near the Seal. But he discarded the idea immediately. Establishing a means of communication would take time he didn’t have, and if he succeeded, what then? There was no common ground. Nathan and his friends were here to remove the deadly blight that this monster oversaw. There was no way they could do that without killing it, and it had tried to kill them dozens of times since they’d entered its domain.
+
+The blightmind never stopped trying to kill him as he descended, the efforts only growing more frantic and powerful as he got closer to the Seal. A spike of death mana flew up at him, so dense it would have exploded if not held together with bands of wizardry. The spell punched through his aura, and Nathan caught it with his hands, crushing and absorbing the magic even as it sapped the life from his arms. A flex of regeneration undid the damage, but it was a reminder that he wasn’t invincible. His antimagic was strong, but it wasn’t absolute against the magic that could be mustered by the locus of the blight.
+
+He pushed past its further attempts to stop him, including more deadly tricks and traps of wizardry and death mana. At some point, Nathan thought the blightmind stopped trying to kill him directly and shifted to delaying tactics, repeatedly throwing up shields and gravity reversal tricks to keep him from the Seal. Nathan was able to break most of it apart with just his antimagic, but raw physical force was required to push through periods of cancelled momentum or twanging space.
+
+One thing the blightmind didn’t do was throw rocks or material objects. There was no way that was beyond its capabilities, but maybe it just didn’t consider the possibility of using the stone of the colosseum against him. Its magic disintegrated his clothes piece by piece. The only thing that survived was the adamantium dagger he'd gotten from Sussu's vault. He let it fall to the ground below. He wouldn't need it.
+
+Eventually, his feet touched the sandy ground at the base of the coliseum. He’d been diverted slightly by all of the magic thrown at him, and was a hundred feet or so from the Seal. Ages of exposure to death mana had stained the sand and sharpened it to razors that prickled the bottoms of Nathan's feet. The blightmind had given up on elaborate wizardry and sought to crush him with the towering weight of its magic.
+
+Nathan trudged inside a bubble of darkness, his feet sinking into the sand as the blightmind bore down on him and his aura struggled to hold it up. It was torturous, with every sense blinded except for the overwhelming roar and weight of death mana pressing down upon him. But Nathan found it almost meditative. He closed his eyes and found it made no difference, so he took another step. There was nothing but him and the pressure. It was a feature of the world, sensory input that he could tolerate.
+
+Nathan reached his destination and opened his eyes to see faint light leaking upwards from the Seal. The irising vault-like door was partially open, and faint purple light leaked through the gaps between the massive tendrils of death mana that plunged into the depths of the magical construct. With a sinking feeling, Nathan reached a tendril of his antimagic forward to flip the wizardry switch that would set the Seal to purify magic instead of corrupt it.
+
+Nothing happened. The switch was disconnected from the system, and Nathan could feel the tendrils of death mana laced through the entire construct, maintaining a stranglehold on the corruptive magic deep below. He heard laughter in the roar of the magic above him, and wasn’t entirely sure he was imagining it.
+
+Permanent Talent 1: Arcane Nullfield 10
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 5703/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 7
+
+Inspiration 9
+
+Impulse 6
+
+Mystical Discernment 10
+
+Forewarning 7
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 9
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Control 10

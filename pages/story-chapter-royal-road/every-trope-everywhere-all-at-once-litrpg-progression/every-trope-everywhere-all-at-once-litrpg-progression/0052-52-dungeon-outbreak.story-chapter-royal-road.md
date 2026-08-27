@@ -1,0 +1,249 @@
+---
+id: d9566fb8-8712-5306-8b62-f43e3499acba
+page-type-slug: story-chapter-royal-road
+title: "52 - Dungeon Outbreak"
+slug: 0052-52-dungeon-outbreak
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 52
+ownLength: 1901
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3568040/52-dungeon-outbreak"
+royalRoadId: "3568040"
+---
+
+Aurelius floated at the center as all the monsters positioned themselves behind him, filling the entire sky and pouring out of the dungeon portal without end. As if it wasn’t obvious enough, [WRONG OBJECTIVE] kept going off.
+
+[SKILL: WRONG OBJECTIVE]
+
+Type: Passive
+
+Effect:
+
+- Instinctively sense when an area or encounter is not meant to be fought directly
+
+Of course. With how many enemies there were, fighting them would be impossible.
+
+It appeared Kaelor realized the same.
+
+“Go!” he shouted.
+
+At once, Aeris and Tuna tore through the air, fleeing from Aurelius and the rest of the monsters.
+
+“Chase them!” Aurelius shouted.
+
+The monsters followed.
+
+I activated the new skill I had received just earlier, [FLEE]. Aeris and Tuna immediately picked up speed, flying at a pace the monsters couldn’t keep up with.
+
+“Where are we going?” Reina asked.
+
+“We should head back to the main islands,” Meriel said.
+
+“We’re leading the monsters to everyone else?”
+
+“It’s the best option we have.” Kaelor folded his arms. “Whale Isles has its own army, and my men are there as well. If we’re going to fight them, we’ll need our allies.”
+
+I looked back. The portal was still open, and monsters were constantly coming out.
+
+Not dozens.
+
+Not hundreds.
+
+Thousands of them.
+
+Aurelius wasn’t even trying to catch us himself. He simply floated there among the swarm, watching. It looked like he was waiting for something.
+
+“He planned this,” I said. “Taking that angel’s body to escape the dungeon… waiting for us to enter so that he could try and take our bodies while we were in there… taking that Soul Anchor ring from beneath the manor… he planned everything.”
+
+Meriel looked at me. “What exactly does the ring do?” she asked.
+
+“It does two things: it prevents a person’s soul from being manipulated, and it prevents their body from being taken,” I explained. “It completely counters Aurelius. He must’ve taken it so that no one else could get their hands on it. He was likely afraid that Reina and I were going to accidentally stumble upon it, so he followed us to the manor and took it for himself. Even if we didn’t find it then, he must’ve thought it would be better to take it so that no adventurer ever could. But it’s strange…”
+
+“What is?” she asked.
+
+“That Soul Anchor Ring isn’t just loot the same way that Dawn Sunderer is, right? It came from a chest, but judging from the way it looks…”
+
+“The ring must’ve come from the outside world as well,” Meriel said. “That’s entirely possible. It isn’t loot that would simply respawn in a chest for the next dungeon run.”
+
+Reina crossed her arms.
+
+“Wasn’t the underground area locked behind a key that only he had?” she asked. “Why would he worry about us accidentally reaching it?”
+
+“It was locked, yes,” I said, “but there must’ve been another way to enter the manor’s cellar. That was why the lever spawned down there, remember? Since the lever’s location randomizes inside the manor after every dungeon run, it wouldn’t spawn a lever in a place that would be impossible for us to reach.”
+
+At that moment, a deafening screech echoed across the sky.
+
+We turned.
+
+One of the stained-glass ravens had broken away from the main swarm.
+
+Then another.
+
+Then a third.
+
+Unlike the rest of the monsters, these ravens were much faster.
+
+“They're coming!” Talon shouted.
+
+“I’ve got them,” Reina said.
+
+She ran toward Tuna’s tail. Golden light erupted around her as Dawn Sunderer flashed, sending several arcs of light toward the enemies. The first raven shattered into a rain of colorful glass, while the second lost half its wings and spiraled downward. The third managed to dodge the arcs, but Talon launched a rock with his slingshot, hitting it in the eye. It let out a high-pitched scream as it retreated back into the swarm.
+
+“Wait, are we even flying in the right direction?” Talon asked.
+
+We looked at him.
+
+“Now’s a little too late to ask that, isn’t it?!” I cried.
+
+Fortunately, we were. The islands came into view, scattered across the sky. The sight would’ve normally been beautiful, but now?
+
+It was impossible to think of it that way.
+
+Airships and giant creatures drifted between the islands. Countless inhabitants flew and walked throughout the islands, completely unaware that a horde of monsters was heading their way.
+
+The situation was only getting worse behind us.
+
+The ravens weren't the only monsters breaking away from the swarm anymore. The halo hounds leaped through the air, each paw creating temporary glowing platforms as they closed in on us. Several gargoyles emerged and slowly inched closer as well.
+
+Even worse, we had completely lost sight of Aurelius. Was he hiding within the swarm? I was surprised he wasn’t chasing us down with those rings of his.
+
+The islands grew larger. The buildings became visible. We were beginning to make out every individual person—the harpies, the angels, the humans, elves, giants, and everyone else. Whether they were adventurers like us, merchants, or residents of Whale Isles, they began to point toward us as we came near.
+
+The closer we flew, the more people noticed.
+
+Then, a bell suddenly rang from one of the islands. It was even louder than the bells we’d heard before during the Skycurrent Festival. It wasn’t just one, but many.
+
+The sound filled the entire sky.
+
+“Looks like they finally noticed,” Kaelor said. “Because we’re about to need every fighter we can get.”
+
+A massive shadow passed beneath us. We looked down, seeing an enormous airship emerging from one of the lower islands. Its sails stretched wide, catching the wind as dozens of warriors rushed across its deck.
+
+This wasn’t any ordinary airship. It was a warship.
+
+Several more emerged from the islands, followed by flares shooting into the sky.
+
+Red.
+
+Blue.
+
+Gold.
+
+Everyone was reacting to the attack.
+
+“They’re better prepared than I thought,” I said.
+
+“It isn’t every day we come across threats this big,” Talon began, “but when we do, all of us trust that our army is able to defend against it.”
+
+For the first time since leaving the dungeon, I felt a small amount of hope. Whale Isles wasn't helpless. Not even close.
+
+We were just seconds away from reaching the islands now.
+
+Then, a ring tore through the air between us, not to hurt any of us, but to get our attention.
+
+We turned.
+
+Aurelius revealed himself from within the swarm. He slowly raised a hand, and the monster army stopped. Thousands upon thousands of monsters froze in the air at once.
+
+Every harpy.
+
+Every gargoyle.
+
+Every raven.
+
+Every hound.
+
+All of them.
+
+“What is he doing?” Reina whispered.
+
+As the warships gathered, some of them were heading toward us. We noticed several of them readying their cannons to fire at us. But why? We were their allies.
+
+…
+
+Ah. I see why.
+
+It was because we were riding a damn dragon.
+
+Seeing what was happening, Talon quickly ran across Tuna’s head, waving his hands. He made all sorts of weird gestures that made no sense to me, but the people sailing the warships somehow understood what he was saying. They lowered their cannons, leaving Aeris alone.
+
+“I told them that the dragon is on our side,” Talon said.
+
+Maybe those arm movements were the equivalent of sign language, but with your entire arms instead of just the hands. Who knows.
+
+With the entire swarm of monsters stopped, Aurelius flew ahead, emphasizing his form as his wings stretched wide. He looked proud. Far too proud in a body that wasn’t even his.
+
+“What a sight,” he began, holding out his arms. “All these bodies. All this flesh before me.”
+
+We clutched our weapons tighter.
+
+“Your obsession with souls and bodies has made you a monster,” I said. “You weren’t imprisoned in a dungeon because of your beliefs. It was because you’re insane.”
+
+He looked at me, tilting his head.
+
+“Insane? Do I look insane to you?”
+
+“Honestly, yes, you do.”
+
+He laughed, the rings on his fingers shaking.
+
+“If insanity is what it takes to achieve my goals, then I’m willing to sacrifice my conscience for it.”
+
+All the warships gathered beside us, waiting to attack the monsters. The people on board wielded all sorts of weapons, from bows to staffs to swords. Most of them were harpies and angels.
+
+“So you’re acting for your own selfish goals?” Kaelor asked.
+
+Aurelius was quiet for a moment, thinking.
+
+“Selfish? I wouldn’t say that,” he said. “Many of the people I love are… gone. Some were murdered. Others died of disease. A few passed away from old age. They died because their bodies failed them, not because their souls were shattered.”
+
+“Yeah… that’s kind of how biology works,” I said.
+
+“It is,” Aurelius agreed. “But if someone has the power to keep their loved ones alive, they would be foolish not to use it. I am one of the only people in this world who possesses the knowledge and power to do so. The one who imprisoned me was far more foolish than I could ever be. They were afraid of the power I wield, but for what?”
+
+I looked down at Aeris. “I can’t believe he was your former master.”
+
+She growled. “He was only my master before he became insane. He saved me back then.”
+
+“Saved you?”
+
+“This body isn’t mine. I was a human before he transferred my soul into a dragon.”
+
+My eyes widened. “...What? Seriously?”
+
+She nodded. “My current human form actually resembles my original body for some reason. But I’m glad you gave me the love potion, Allene.”
+
+“Why? Is it that joyful to be in love with me?”
+
+“Actually it is—but that’s not the point. That dungeon made me lose sight of myself. I attacked every adventurer who came my way, even while I was still sentient enough to know that something was wrong with me. But I never realized it until now, after we left that dungeon. My senses have come back to me.”
+
+I smiled. “I guess the love potion turned out to be awfully useful after all. Who would’ve thought it would be potent enough to free you from the dungeon.”
+
+I turned back to Aurelius, seeing him pointing a finger at us.
+
+“I’ll ask you all one last time,” he said. “Relinquish your bodies, and I promise that your souls will find salvation.”
+
+I looked at the others. Kaelor. Meriel. Reina. Talon.
+
+They all had the same look in their eyes as I did.
+
+“We can’t do that,” I said.
+
+Aurelius sighed, shaking his head. “I’m sorry things had to turn out like this.”
+
+The swarm of monsters charged toward us.
+
+The warships around us reacted instantly, flying toward them. Tuna did the same, rushing forward with Reina and Talon.
+
+“Go,” I said, tapping the side of Aeris’s body. Her scales were rough.
+
+She ascended, taking Kaelor, Meriel, and me high above the battle. She attacked the monsters with her fire breath as Meriel and I stayed on top of her, casting our spells. Kaelor jumped off, taking flight with wind magic and facing the monsters directly with his dagger.
+
+[TROPE INITIATED: THE BATTLE OF TWO ARMIES]
+
+Completion criteria: Finish the battle. The outcome determines whether you receive rewards or punishments.
+
+[TROPE INITIATED: DUNGEON OUTBREAK]
+
+Completion criteria: Contain the outbreak.

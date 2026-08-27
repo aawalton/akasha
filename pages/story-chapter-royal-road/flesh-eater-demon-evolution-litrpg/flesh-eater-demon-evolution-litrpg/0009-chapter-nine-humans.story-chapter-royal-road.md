@@ -1,0 +1,265 @@
+---
+id: f9287583-f2f0-5726-91f6-0b178a3bfd40
+page-type-slug: story-chapter-royal-road
+title: "Chapter Nine: Humans"
+slug: 0009-chapter-nine-humans
+partOf: flesh-eater-demon-evolution-litrpg
+position: 9
+ownLength: 3568
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2539717/chapter-nine-humans"
+royalRoadId: "2539717"
+---
+
+[You have devoured (1) Forest Stag Lvl 3][Experience earned!]
+
+[You have gained (1) [Ligaments] subtrait shard]
+
+[You have gained (1) [Skeleton] subtrait shard]
+
+[You have gained (1) [Hair] subtrait shard]
+
+[You have gained (1) [Taste] subtrait shard]
+
+[You have gained (1) [External Ears] subtrait shard]
+
+[Maximum number of subtrait shards acquired from a single creature reached. Remaining subtrait shards discarded.]
+
+Pyre chewed idly down on the stag’s bones, spitting them out once she was done. She still couldn’t taste anything yet, but she had to say she was starting to enjoy the texture the skeleton provided compared to the boneless flesh lumps. The crunch added some nice variety to her otherwise flavorless meals. The fur was another story. That shit was terrible.
+
+After heading deeper into the forest, she’d run into another fucked-up rabbit (devoured), then this stag, which, like its smaller forest brethren, had its own special brand of “slightly fucked-upery.”
+
+The big one was that the thing had eyes on its antlers—a whole slew of them decorating every inch of the horns. There had to be at least twenty per antler. She’d been a little jealous, to be honest. After having eight eyes for so long, her current two felt woefully inadequate.
+
+Eating the stag hadn’t taken much effort at all. She was larger than the creature, and a well-timed bone stab got the job done. Between this and the two rabbits, she was feeling pretty satiated now, if she did say so herself, and the injuries from the fall seemed to hurt a little less. Or maybe she was just getting used to it. Probably both, actually.
+
+Chucking the last eyeball-covered antler away, Pyre absorbed her singular mouth back into her body and looked around. Compared to what she’d mentally dubbed The Fred Zone, this part of the forest was a little more interesting vegetation-wise. There were still the trees with the glowing lights and, of course, the silver streams, but there were also some more boulders and flowers to break up the monotony of green. Flowers that also, incidentally, were a little bit fucked-up.
+
+Her gaze shifted pointedly to a particularly large blossom nearby, which had a literal heart organ in the center of its petals. She could see it beating, too. Fun. She didn’t even have a heart right now—not that she wanted one. Organs would’ve probably made surviving that fall infinitely harder. Thank god for squishy flesh.
+
+Pyre was mentally debating the merits of eating the heart-flower and how badly she might fuck up her digestion when she heard it.
+
+Voices.
+
+Several, at that.
+
+Her two eyes swiveled around, but once again her lack of proper ears was making it impossible to tell what direction the sounds were coming from. “South-ish” was her best guess, so she abandoned the stag carcass and slid deeper into a thicker patch of trees, shifting her body into a mound shape. In the shadows, she would look like a hill to an unsuspecting observer. Her two eyes she moved low to the ground, where she could peer through the tall grasses. It was just in time, too, because the voices quickly grew louder.
+
+“—sure it’s this way?” one voice was saying. “This is really far in.”
+
+“If you’re scared, join the western patrol.” Another, gruffer voice scoffed. “We ain’t got time for you to be getting cold feet now.”
+
+“Sir,” a third voice interrupted. The footsteps slowed, and through the grasses, Pyre could finally make out what looked like a small group of humans approaching. A patrol group, apparently, if their words were to be believed.
+
+The demon’s first thought was that they looked almost disappointingly normal. After all the weird forest animals and plants, she’d been hoping for a third eye at least, maybe even some extra limbs or two. Alas, these humans didn’t look all that different from the vague flashes in her memories.
+
+There were six of them in total. They were dressed in relatively simple, weathered uniforms. A few had bits of armor on, and Pyre could see various weapons in their hands: sheathed swords, a bow and arrow, an axe. Even without her memories, she somehow didn’t think the humans of Earth had walked around dressed like that or carrying swords.
+
+A slender woman with a set of daggers hanging by her waist—the owner of the third voice—took a step forward, pointing ahead. The group’s eyes followed the line of her finger, finally landing on the ground where the chewed up remains of the fucked-up stag lay in a haphazard pile.
+
+Maybe she should’ve cleaned that up. Whoops.
+
+The tall, older man standing in the front of the group—probably the leader, based on his fancier clothing and armor—furrowed his brows. He crouched down, carefully nudging at the bones and grimacing a little at the amount of blood soaking into the dirt. The grasses had turned red at this point. The patrol group all shared meaningful looks.
+
+“…It could’ve been a bear?” the first voice said feebly. He appeared to be the youngest in the group, and his hands trembled slightly where they were wrapped around his bow.
+
+“It was the chimera,” the woman with the knives said bluntly. She shot the archer an unimpressed look. “It must’ve gone this way.”
+
+“I don’t get it, though.” That was a new voice. Pyre’s gaze shifted over to a man standing near the back of the group. He wasn’t carrying any weapons, interestingly enough, but his hands were clutched around a worn leatherbound book. Maybe that was the weapon. Maybe he knocked people’s skulls in with it. Realistically, though, she knew he was probably a mage.
+
+“There shouldn’t be a high enough concentration of ichor here to create a chimera,” the mage continued, his brows furrowing.
+
+“Folks saw it. Literally. You sayin’ they were hallucinating?”
+
+“I’m just saying it shouldn’t be possible!”
+
+“Well maybe we missed it. You know what that kid used to say. Maybe he was right all along.”
+
+“Enough.”
+
+The leader’s voice broke through the rising squabble, stern and leaving no room for argument. Pity, Pyre was starting to get invested. And they were mentioning some interesting stuff. Chimera? Ichor? Was that the glowing silver? This was a much-appreciated well of information.
+
+“Look.” The leader nodded his head, and everyone in the group swiveled around to see where he was pointing. Their eyes all collectively fell onto the flower with the beating heart in its center, and the group promptly fell silent.
+
+Okay, so maybe most things in this world weren’t weird and fucked up after all, Pyre thought. The patrol group looked way too disturbed for this to be normal.
+
+“…Stay close, keep your weapons drawn.” The leader finally broke through the quiet, his voice serious and somber. “Henry, contact the village and let the other patrols know to head north. The chimera went this way.” He slowly unsheathed the sword at his side. “Tell them to be careful. It looks like the entire northern region’s been ichor-warped.”
+
+The mage nodded and closed his eyes. Pyre watched in interest as he muttered something under his breath. A faint glow rose around him, the aura covering his entire body as he continued muttering. The distinct acidic scent of magic filtered through the usual mouth-watering flesh smells as he continued relaying the information to the village.
+
+Finally, once the man was done with his message, the glow faded and he opened his eyes again. He nodded to the leader, who gestured for the rest of the group to continue forward. Pyre watched them as they began to leave, mentally debating whether she should devour them now or tag along a little longer just to see what this chimera business was all about.
+
+In the end, the humans made the choice for her.
+
+A quiet shriek rang throughout the forest.
+
+The group paused. A few exasperated faces turned towards the archer, who had frozen in place, eyes blown wide and hands shaking.
+
+“I swear to god, if this is another—”
+
+“What the fuck is that.”
+
+Six pairs of eyes all turned, gazes landing directly on Pyre still in the forest, her own eyes now visible through the grasses this close.
+
+Well then.
+
+The group erupted into a panic. Swords and axes rose, arrows drawn while the leader desperately attempted to shout orders over the chaos, but Pyre wasn’t about to sit around and let them get the first hit in.
+
+She morphed her body all at once, rising from the shadows of the forest to her full form. The yelling grew louder, but she ignored them, activating [Ossification] and shooting a bone straight through the chest of the mage, who was already starting to glow with magic.
+
+The man choked. A gargled sound escaped his throat as he stumbled backwards, his book falling from his hands just before he collapsed to the ground in a heap, dead. His smell immediately faded.
+
+Ah shit, she hadn’t gotten a chance to eat him. Humans were, apparently, a lot more fragile than her fellow demonic flesh lumps. Pyre clicked her tongue. What a waste.
+
+“Monster!”
+
+The man with the gruff voice let out a furious yell. He stormed forward, axe raised despite the leader calling him back, and barreled towards Pyre. She morphed her flesh away, slipping to the side just as he brought his weapon down.
+
+Metal met air. The man stumbled, nearly tripping from his own momentum. The demon promptly grew a mouth just beside him. The guard’s eyes widened, but he wasn’t quick enough to escape. Before he could take his first step, the jaws clamped around his torso.
+
+[You have devoured (1) Human Warrior Lvl 6][Experience earned!]
+
+[You have gained (1) [Ligaments] subtrait shard]
+
+[You have gained (1) [Skeleton] subtrait shard]
+
+[You have gained (1) [Hair] subtrait shard]
+
+[You have gained (1) [Taste] subtrait shard]
+
+[You have gained (1) [External Ears] subtrait shard]
+
+[Maximum number of subtrait shards acquired from a single creature reached. Remaining subtrait shards discarded.]
+
+[You have gained (1) [Warrior] class shard]
+
+[Class Quest unlocked! 10 bonus points earned]
+
+Class Quest: Unlock Tier 1 ClassMeet the requirements to unlock a Tier 1 class. You must possess 5 matching Tier 1 class shards and a class crystal to unlock a class.Reward: Experience, 10 points, Tier 1 class gained
+
+Huh. Well, she certainly hadn’t been expecting that. She supposed that answered one of her biggest questions about her current stat sheet, but she didn’t have time to read the class quest in more detail before she felt something slam into her back. Fucking two eyes limited vision, she lamented.
+
+Pyre rotated an eye around just in time to see one of the remaining guards stepping back, a long sword in hand that possessed not a speck of blood or flesh on it. Her eyes were wide, flitting between the blade and Pyre’s unmarred body. 100 constitution flesh, it turned out, wasn’t so easy to cut.
+
+“I can’t slice through!” she yelled, frantic. “Blades don’t work!”
+
+“Stay calm!” the leader bellowed, but he couldn’t contain the slight waver in his voice. “Surround it. Remember your training!”
+
+“We didn’t train how to fight demons! What the hell is one doing here? What about the chimera!”
+
+Pyre didn’t give them a chance to continue, because in the next moment, she surged forward, a wave of flesh rising up over the cowering humans. The archer attempted to fire an arrow, but it bounced ineffectually off her body. In response, she speared a bone through the man’s shoulder. He dropped his bow with a scream that was quickly muffled by the jaws snapping over his head.
+
+[You have devoured (1) Human Ranger Lvl 4][Experience earned!]
+
+[The trait [Flesh Eater] has leveled up! Lvl 4 —> 5]
+
+[You have gained (1) [Ligaments] subtrait shard]
+
+[You have gained (1) [Skeleton] subtrait shard]
+
+[You have gained (1) [Hair] subtrait shard]
+
+[You have gained (1) [Taste] subtrait shard]
+
+[You have gained (1) [External Ears] subtrait shard]
+
+[Maximum number of subtrait shards acquired from a single creature reached. Remaining subtrait shards discarded.]
+
+[Required amount of [Ligaments] subtrait shards collected][Apply subtrait shards to [Ossification] trait?]
+
+[Required amount of [External Ears] subtrait shards collected][Apply subtrait shards to [Sound Perception] trait?]
+
+[You have gained (1) [Ranger] class shard]
+
+Pyre barely glanced at the notifications, focusing instead on the remaining three guards. She did grow an extra mouth, though, now that [Flesh Eater] had hit level 5. It felt very good to have two again. Three, once her other one got it together and healed.
+
+She dropped the archer’s now-headless body to the ground, spitting out the bits of bone and hair that she’d consumed. It looked like she only had to eat the heads to get the benefits of devouring, or maybe there was a minimum threshold for how much flesh she actually needed to eat for it to count. She should probably figure that out at some point.
+
+Three knives soared through the air aimed straight towards her. Pyre shifted her eyes out of the way just before they hit, allowing the blades to thump uselessly against her flesh. The leader and the woman who’d failed to damage her earlier charged forward with ferocious yells, their swords raised, and she had to admit she admired the courage. They were clearly shitting themselves in fear, but they were still attacking.
+
+Just for that, Pyre let their blades crash into her instead of dodging. They didn’t do anything, of course, but she figured it might make them feel better. She tanked the blows for a few moments, letting their frustration grow, before she finally warped the ends of her body up and closed both mouths around their heads, killing them quickly.
+
+[You have devoured (1) Human Warrior Lvl 7][You have devoured (1) Human Warrior Lvl 9][Experience earned!]
+
+[You have gained (2) [Skeleton] subtrait shards]
+
+[You have gained (2) [Hair] subtrait shards]
+
+[You have gained (1) [Taste] subtrait shard]
+
+[You have gained (2) [Nail] subtrait shards]
+
+[You have gained (2) [Flesh Composition] subtrait shards]
+
+[You have gained (1) [Omnivorous] subtrait shard]
+
+[Required amount of [Skeleton] subtrait shards collected][Apply subtrait shards to [Ossification] trait?]
+
+[Required amount of [Taste] subtrait shards collected][Apply subtrait shards to [Flesh Eater] trait?]
+
+[Your species has leveled up! Lvl 10 —> 11][Strength +3, Agility +2, Constitution +3, Magic Resistance +1, Intelligence +1]
+
+[You have earned 10 points]
+
+[You have gained (2) [Warrior] class shards]
+
+Pyre turned to the sole remaining guard, who was now scrambling to pull more knives out of her belt with shaking hands. Her eyes widened when she saw Pyre looking at her, and after taking one more glance at the surrounding carnage, she apparently decided it would be smartest to get the hell away and promptly abandoned her knives in favor of fleeing.
+
+She didn’t get far. A single bone shot through the stomach stopped her in her tracks, and it was immediately followed by the clamping of jaws.
+
+[You have devoured (1) Human Ranger Lvl 8][Experience earned!]
+
+[You have gained (1) [Hair] subtrait shard]
+
+[You have gained (1) [Nails] subtrait shard]
+
+[You have gained (1) [Flesh Composition] subtrait shard]
+
+[You have gained (1) [Omnivorous] subtrait shard]
+
+[Required amount of [Hair] subtrait shards collected][Apply subtrait shards to [Keratin] trait?]
+
+[You have gained (1) [Ranger] class shard]
+
+Finally, the string of notifications stopped. Pyre spit out the last of the crushed bones she’d devoured and turned to study her surroundings.
+
+The forest had fallen almost uncannily still. The smell of flesh had vanished completely, now replaced with the metallic scent of iron. Dark red bloomed across the earth, and scattered limbs and torsos lay strewn about the grasses where she hadn’t fully devoured the bodies. There were no signs of movement. She was the only living creature left in the area.
+
+Well then. That had been a lot easier than she’d thought it would be. It looked like her stats were significantly higher than average, then, which she probably could’ve guessed from all her bonus points.
+
+It occurred to Pyre, as her eyes swept over the remains of the fight, that she should probably feel something about slaughtering a bunch of what had once been her own kind. She focused on the headless torso of the leader, waiting for some emotions to rise up, maybe even some memories if she was lucky, but there was nothing but the persistent emptiness that had followed her since she’d first gained consciousness in this world.
+
+Oh well. Pyre mentally shrugged, pushing the feeling down, and started reading through her notifications. Technically they’d attacked first, anyway.
+
+The first thing she did was apply all the subtraits: [Taste], [Ligaments], [Skeleton], [External Ears], and [Hair]. Several waves of warmth washed over her as they took effect. She waited for the waves to fade, then promptly grew some eyebrows over her two active eyes. Sue her, she’d been waiting for this. She grew two ears, too, her current maximum at [Sound Perception]’s level, and placed them on opposite sides of her body. Hopefully now she’d stop struggling to figure out where noises were coming from.
+
+Next, Pyre moved on to her 20 available points—10 from the level up and 10 bonus from unlocking the class quest. She put 5 in constitution, and there was the usual warmth, the slight firmness increase, but that wasn’t all. The constant dull throb from her fall injuries, she realized, had faded slightly. She raised an eyebrow, and damn did it feel good to be able to do that now.
+
+She’d long suspected constitution improved her healing, but it looked like adding points to the stat worked like its own “mini-heal” that took effect immediately. She’d been using all her points as soon as she got them so far—she didn’t see any reason not to—but it might be worth saving a few if they could be used for backup healing like this. She already had really high stats, anyway. If worse came to worst, she could just use them.
+
+For now, she decided to leave her points alone and instead turned her attention to the most noteworthy notification she’d gotten: the class quest. Pyre pulled up her current stat sheet.
+
+Name: Pyre [Tier 1]Species: [Lesser Fiend (Sloth), Lvl 11]Class: NoneTitles: Reincarnator, Amnesia, Above-Average Sentience, Cold Blooded, First EvolutionStatsStrength: 80Agility: 47Constitution: 108Magic Resistance: 67Intelligence: 39Points: 15Traits: [Amorphous 3], [Flesh Eater 5], [Scent 3], [Eye Growth 2], [Ossification 3], [Sound Perception 2], [Keratin 1], [Vocalization 1]Skills [2/5]: [Basic Flesh Sculpting 1], [Basic Impact Absorption 1]Subtrait Shards: [Thermal Vision 1/3], [Species Scent 1/4], [Nails 3/4], [Flesh Composition 3/6], [Omnivorous 2/10]Class Shards: [Warrior 3/5], [Ranger 2/5]
+
+Sure enough, there at the bottom was a new section for the class shards. And only 5 were needed of each kind, which was less than she’d been expecting. She probably would’ve gotten a class shard from that mage, too, if she’d managed to eat him before he’d died. Oh well. It probably would’ve been a mage class or something anyway, so she wasn’t too upset about it.
+
+So, it looked like eating humans specifically gave her class shards. Or maybe it was just anything with a class, and the humans were the first ones she’d run into who fit the criteria. Either way, it didn’t seem like it’d be all that hard to get the shards she needed—she was more than halfway there with the [Warrior] class already. The real question was what the hell a class crystal was and where she was supposed to get one.
+
+Pyre’s eyes flitted down to the corpses. In hindsight, maybe she should’ve kept one or two of them alive for questioning.
+
+Carefully, the demon extended part of her flesh to nudge along the torsos that she hadn’t devoured. Rummaging through pockets and bags, she found what looked like food rations, money (probably), a map and various papers that were way too bloodstained to make use of, and some additional knives and other random knickknacks. Nothing that looked like a class crystal.
+
+She peered into the forest. If she looked closely, she could make out some bent grasses and the faint imprints of footprints on the earth. If she followed them, she’d probably find the village the group had mentioned. Maybe there she’d be able to get more information on where to get these crystals, what the fuck ichor and chimeras were, and really just the state of this world in general.
+
+It didn’t sound like too bad of a plan. Information was power, right? She could probably kidnap someone, scare the shit out of them, then get them to explain what was going on. It wasn’t like she had a ton of options, being a demonic flesh monster and all.
+
+Mind set, Pyre morphed her body back into a more compact form. She was ready to start making her way towards the village when suddenly, she stopped.
+
+There, through the trees, a glowing translucent orb of light hovered a few feet above the ground. At first she thought it might be one of the silver lights in the canopy, but it wasn’t quite bright enough, not to mention it was way larger and way too close to the ground. Pyre squinted at it, but it didn’t move from its spot.
+
+And if she craned her new ears, she swore she could hear muttering.
+
+Okay, she decided. Change of plans. Village second.
+
+First, she was going to figure out what that thing was.

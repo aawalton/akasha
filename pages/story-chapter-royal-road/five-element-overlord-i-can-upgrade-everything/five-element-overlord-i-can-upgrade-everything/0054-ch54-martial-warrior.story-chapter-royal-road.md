@@ -1,0 +1,119 @@
+---
+id: a5a5d694-1ebf-5d0b-bd4b-50da70774d10
+page-type-slug: story-chapter-royal-road
+title: "Ch54 Martial Warrior"
+slug: 0054-ch54-martial-warrior
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 54
+ownLength: 1615
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3397024/ch54-martial-warrior"
+royalRoadId: "3397024"
+---
+
+I still vividly remember the misleading information that was printed in the Basic Qi cultivation technique granted by the sect on my first day as a common servant. Its first glaring issue was that it stated the 10th level of Qi Refining was the peak of the first tier, when I’m certain my system recorded a reading of that 12th level Qi Refining woman once. The many other issues became clear after refining Qi with my far more efficient Jade Purity Soul Scripture.
+
+All of the recorded breathing techniques were not timed perfectly. The hand, arm, leg, and head positioning while sitting were usable, but inefficient. I can intuitively feel that these problems would compound over time at later stages of cultivation if they were incorporated into a cultivator’s foundation. Even the mental visualizations used to keep track of Qi in the sea of consciousness are vague and indirect, forcing the practitioner to guess and create a shaky mental image without a guide.
+
+This Martial Warrior booklet must have many inconsistencies and poorly recorded versions of the true technique too. I do not want to be influenced by anything it has to say before it’s upgraded.
+
+A flash of white light covers the booklet in my grasp, and quickly, it becomes a lot heavier.
+
+‘A Guide from Martial Warrior to Martial Spirit’ is re-lettered on the front cover, and easily a hundred more pages of text are added behind the ten or so that were present before.
+
+Quickly, I flip through and see tons of in-depth diagrams, breathing techniques, and oddly enough, farming guides.
+
+The further in I try to read, the more profound and incoherent many of the sentences seem.
+
+It is just like the time I upgraded the Illusory Demon’s Concealment Art. Portions of this text that I’m not strong enough to comprehend simply do not show themselves to me. It causes a throbbing headache when I linger too long on the later pages.
+
+So, I flip to the beginning again. Instead of explaining what this Acquired Physique is or how to properly conduct the breathing methods, there is a farming diagram.
+
+Images of a root that looks similar to what I remember as ginseng back in my past life are shown all over this page. The proper environments for artificially farming it are clearly outlined. The best temperatures, watering times, and soil content are meticulously stated.
+
+It is referred to as the ‘Martial Root,’ and many recipes for concocting elixirs, teas, and pastes with its extract are detailed.
+
+There are guides to use the five-year-old root variant, the twenty-year-old root variant, and even a one-hundred-year-old root variant.
+
+I flip past all of these pages and ignore how to consume the teas and pastes. The only one I care about is how to digest the elixirs. Finally, I find the section and memorize every single word.
+
+There are breathing patterns and even martial arts movements that must be conducted with them.
+
+I stay up all night practicing without even consuming a single pill.
+
+After I check in at the dining hall and scarf down a plate of hot meat buns, I return to my cave ready to attempt these strange methods that seem nothing like the cultivation techniques I’ve tried before.
+
+I pull out a dark brown Martial Root Elixir and examine it. The pill has a sour smell, mixed with a gritty earthy texture like it's just compacted dirt. There is a small amount of qi packed inside, but it's no more than a spirit fragment worth.
+
+A bronze upgrade card is tapped against it, and I peer through the flash of white light in anticipation.
+
+When it clears, a small pale tan-colored pill is left behind. It’s a quarter the size and has shimmering golden vine patterns wrapping around it.
+
+The scent that wafts off of it is sweet, with a sharp bitterness underneath. It makes my hair stand up on end, as the same pressure I remember feeling the day I transmigrated into this world ripples through me.
+
+This pressure is what I felt from that martial warrior… and again when I was in the presence of Xu Hong, even before she awakened her innate physique. This is the refined pure extract of a Martial Root.
+
+The longer I stare at it, the more questions I have.
+
+That faint presence of qi I felt in the pill before, I was expecting it to be enhanced too. Yet, when I push my spiritual senses inward past the golden patterns, I do not sense a single particle of qi in this pill.
+
+My eyebrows scrunch in confusion, but my excitement overpowers it. I swallow the pill within seconds and close my eyes to rehearse the martial arts movements and breathing patterns I practiced all night.
+
+Over a hundred squats, lunges, blocks, punches, bends, stretches, and kicks are rehearsed in perfect order. I can feel the pale essence of this pill being guided through my body by the golden essence it's wrapped in.
+
+It does not travel through my meridians at all. This essence flows through my body like it is a separate vessel.
+
+Every movement and breath I take pushes this extract around, and I feel the purpose of each movement with greater certainty. Every one of my muscles, tendons, bones, blood vessels, skin cells, strands of hair, and organs are touched upon in these abstract movements.
+
+By the time they’re complete, the wisp of pale energy and golden heavenly aura have faded away, deep into my body. It leaves behind a thin invisible blanket of energy.
+
+There is a very subtle tingling sensation running through me, but other than that, I feel no physical change.
+
+Without waiting, I pull out another pill and upgrade it on the spot to run through these movements again. By the time the evening comes around and I have to stop for a random cave search, I’ve fully assimilated 6 pills.
+
+A smile finally returns to my face as I walk through my wood collection route today. The subtle tingle remaining throughout my body is proof that my progress in this cultivation world has begun to move forward again.
+
+–
+
+Five full days pass.
+
+I move from eating 6 pills a day to over 10 by the last day.
+
+Every day, the tingling sensation in my body grows. Its intensity increases, but the weight of the sensation does too.
+
+There are no true physical changes in my body, but it feels like an invisible resin has soaked into every bit of my being. It becomes finer and more refined, and the hundreds of movements that once felt random and unfamiliar now have become almost second nature. There is not a single point on my body that has not been soaked by this extract.
+
+Every stretch, bend, and tension point has begun to reveal its purpose; rather than just being uncomfortable.
+
+In the dead of night, I eat one more pill and feel an overwhelming shift taking place throughout my entire being. My consciousness becomes more aware, and connects with the dormant extract that I’ve been flooding my body with all week.
+
+The invisible vibrations become just dense enough to align with my physical body. It is like they’re no longer just resting within me; they have finally clicked into place and become a part of me.
+
+An invisible shockwave of Martial Warrior Energy floods outward, moving through the cave walls like the qi barriers are not even there.
+
+I feel a window of golden text surfacing in my mind.
+
+[Acquired Martial Warrior Physique][Initial Stage - Mortal Grade]
+
+Is what I see as my strength grows instantly.
+
+It almost doesn't feel real.
+
+The qi in my meridians feels heavier, my muscles feel denser, and even my eyesight, hearing, and sense of smell are heightened.
+
+It is no small amount either. It's the same increase that breaking through one or two minor bottlenecks would achieve.
+
+Despite being an initial stage level 4 qi refiner, I feel as though my strength instantly increased to that of a late stage level 4 qi refiner. There is no backlash or fatigue or any bottleneck I had to fight to break through… It is completely different than my experiences cultivating qi with my 9th grade roots.
+
+Quickly, I pull out the booklet I’ve been studying and flip to the pages near the end of the Martial Warrior assimilation section.
+
+The process described is exactly what I feel. The only similar sensation I can relate it to are the few times I’ve come across powerful enemies with vicious killing intent. These invisible auras are similar.
+
+I flip past these pages and find myself reading the next section that gave me a headache if I stared at it too long before. Now, I’m capable of spending the many hours left in the night reading over the ‘Martial Elite’ section, memorizing and practicing a whole new assortment of breathing techniques and movements to add to the foundation of what I already know.
+
+When morning comes, I collect my 4 bronze upgrade cards and take a look in my storage.
+
+I used up my entire stockpile and newly acquired upgrade cards to create exactly 50 heavenly grade Martial Root pills this past week.
+
+Half of them are gone, leaving only 50 inferior pills remaining. The booklet does not directly state how many heavenly grade pills are needed, but it does state that roughly double the Martial Root Extract needs to be absorbed for each new minor stage. This supply will not be enough to complete the next stage of this Acquired Physique, so somehow, during this lockdown I’ll need to find a place to buy more.

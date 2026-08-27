@@ -1,0 +1,129 @@
+---
+id: 4aca8dc9-25ac-5f03-9630-e9e481dd63a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 409: The Grim Stalker"
+slug: 0446-chapter-409-the-grim-stalker
+partOf: dungeon-of-knowledge-complete
+position: 446
+ownLength: 2141
+unit: words
+ownProgress: 2141
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2675855/chapter-409-the-grim-stalker"
+royalRoadId: "2675855"
+markedReadAt: "2026-06-29T20:27:15.165Z"
+---
+
+Mato stood before the cavern entrance, his sharp senses picking out the unique scent of the fungal creep that was growing within the passage as the last remnants of the light of the day began to fade. It was hard to believe Ali had blown this hole in the cliffside to release the lake into the goblin hordes that had besieged Myrin’s Keep so long ago. It was a barely used hole under Myrin’s Keep, and now they were going to dive into a hostile dungeon through the same entrance to fight their way down until they found the rift and rescued her.
+
+He shook the mace and shield still stuck to his hands – the feeling of something foreign reaching into him from the contact still made his skin crawl. He deliberately pushed down the urge to try tearing it off his arm again.
+
+“Ok, Mato. Lead the way whenever you’re ready,” Calen said. Today’s delve team had grown to five with the addition of Vivian, who had decided to join them at the last minute.
+
+Mato nodded and twisted his body, growing muscles, fur, and thick armored hide as he settled into the familiar shape of his dire bear. The void magic sizzled softly as it reacted with the air, creating a strangely pungent scent, like the smell of a fresh lightning strike.
+
+He entered the rocky tunnel entrance with his claws cleaving boulders under the murky water that trickled through. That was one difference already; Ali’s dungeon had produced a stream of pristine, fresh water. This stream bubbled and stank. He paused for a moment to let his eyes adjust to the deeper darkness, but Calen quickly summoned light for them, so he pressed on, leading them toward Ali’s Forest Cavern. It was a short, rocky passage, but by the time he entered the cavern, his fur was sodden and muddy, and his paws were covered with the slime of mulched fungal creep. He carefully made his way up and out of the shallow gully that carried the small stream of foul water and emerged into a world entirely changed from what he had remembered.
+
+Gone were all Ali’s beautiful trees. Gone were the glowing golden mushrooms lighting the cavern like constellations of stars reflecting off a still pool of water. Instead, as far as his eyes could see, the cavern was filled with dark, foreboding oaks with twisted, blackened branches, weighed down by rotting fungal growth. His nose was assaulted with the stench of rot and decay, but the nature wisps were still present, dancing about with erratic swoops and zigzags, joined now by darker and more malevolent wisps of pure black as they cavorted in the dense mana of the domain.
+
+The sudden reek of undead and rot filled his nostrils, and a spike of urgency from his Survival Instinct was the only warning he got. Pain stabbed through his hind legs as his hamstrings were ripped out by brutal fangs.
+
+You have been afflicted with Hamstring.-50% to Movement speed.Physical – Duration: 20 seconds.You have been infected with Zombie Rot+4 Rot (Nature / Death) damage per second.Rot Vulnerability (+15% damage from Nature or Death)Disease
+
+He could already feel the decay setting in as the wound suppurated immediately, and a hot, uncomfortable throbbing set in. He whirled about and swiped at the monster that had ambushed him, but his movements were slow, and the strange, mangy wolf darted back out of reach.
+
+And Mato realized his mistake.
+
+Pain stabbed into him again as Survival Instinct warned him of the second ambusher just a little too late for him to turn back.
+
+You have been afflicted with Hamstring.
+
+Again, he felt the agony of his muscles rotting away under the influence of the wolf’s infected bite. The first wolf let out a mournful howl, and two more appeared, slinking out of the shadows and circling him warily, watching for an opening and biding their time with their wounded prey.
+
+Each wolf was bulky and heavy, perhaps half as large as himself. However, he had never seen wolves like these – they reeked of undeath and rot, and, while their bodies were covered in bark and leaves like the Sylvans, these were clearly rotting away. Large wounds ran with dark, seeping fluid, but the monsters appeared to be entirely unaffected by gashes and rot, which would have put a normal creature out of action.
+
+The wolf behind him darted forward, and he whirled, this time managing to block the attack, but a wolf blurred in his peripheral vision, vanishing and then suddenly appearing behind him to strike with dripping fangs.
+
+“Teleporting zombie wolves,” Mato thought, sending the message to Calen.
+
+The wolves suddenly whirled toward the gully as Malika sprang out of it, followed by Vivian Ross, and the two archers rising on their wings at a distance.
+
+“Shit, Mato, those are minions!” Calen exclaimed. “Where’s the boss?”
+
+“I don’t know. They have stealth,” he sent back. He’d also been a little too busy to think much beyond blocking and survival.
+
+“Stealth boss somewhere. Watch out for Ambush,” Calen said, and both he and Lyeneru began scanning the surroundings.
+
+“Right behind you, Mato,” Malika said, descending from above to punch at something invisible. Her fists blurred with speed, striking three times in what seemed like a single movement, making the empty air shimmer with her soul magic.  A triple blast of green erupted from the emptiness before her, shooting outward in an expanding ring.
+
+You have been afflicted with Poison.Your poison has increased to 3 (+2).
+
+Then, the boss materialized – a wolf of incredible size and power, almost as big as Mato was. Dark drool dripped from rotted holes in its mouth that revealed blackened fangs. Its eyes were dark and grim, and it raised its head and howled, causing the other four wolves to attack instantly. Mato could feel the stench of undeath pouring from the monster.
+
+Grim Stalker – Undead Plant Wolf – level 127 (Nature / Death).
+
+Mato roared, taunting the wolf pack to attack him. He lashed out with a compact Swipe, but the boss before him simply vanished like a mirage or a wraith. Survival Instinct told him exactly where the boss went – right behind him. His rear right hamstring was sliced clean through as the fangs rotted his flesh and muscles from the bone. Argh! Leave my legs alone! Mato stumbled, finding himself suddenly unable to stand. The pack closed in on him, pouncing on a downed foe, but Malika appeared beside him, pulsing him full of healing. Then Vivian whirled by, tearing through the wolves with twin, burning blades, as a hail of arrows rained down on all the monsters.
+
+The green pulses of poison blasted outward from the boss every time an arrow or sword struck it, cascading through the pack.
+
+Your poison has increased to 5 (+2).
+
+Ugh. Poison was nature damage. His parasitic items were all doing continuous pulses of nature damage, and he was infected with the Zombie Rot disease. Every single bite was loaded with rot, causing his flesh to decay and slough off, making the wounds they inflicted far more debilitating.
+
+He turned, finally unleashing his swipe, and felt the satisfying rush of his void magic claws tearing through rotten bark and sending a spray of decayed leaves flying. The wolves howled, ignoring their wounds and pressing their attacks. Slowly, he backed away, swiping carefully to keep them at bay, working in strategic uses of knockback and battlemaster and relying on his blocking to prevent as much of the rot damage as possible. But every time he hit the Grim Stalker, the nova of poison blasted through everything, and his stacks grew.
+
+“The poison is healing the minions,” Lyeneru said. “Focus on the boss only.”
+
+Mato finally got his back to a large boulder and some trees, but every time he thought he had the wolves pinned down, they would vanish from his sight, returning to Ambush him moments later. He ignored the minions, as Lyeneru had said, focusing on the boss, spending health to tear its bark asunder, allowing the archers more room to damage it without so much armor.
+
+Your poison has increased to 8 (+3).
+
+The poison by itself wasn’t particularly dangerous, but everyone, save for him, was heavily invested in dexterity and had incredibly rapid attacks. The problem was that it was stacking up fast. Too fast. He waited for the boss to teleport and then focused entirely on his senses, pushing his perception skills to the maximum. Survival Instinct triggered, and he responded with Critical Block, catching the Ambush perfectly. His retaliatory block caught the wolf in the face, reflecting its damage back to it in a brutal shattering strike that sent bark and ichor flying, and a single ring of poison rippled through the melee pack.
+
+“Slow attacks maybe?” Mato sent, directing his telepathic message to Calen. Somehow, they needed to minimize the poison damage before it was allowed to reach unmanageable proportions.
+
+Fortunately, Calen was just as sharp as he always expected. “Mato thinks the poison nova triggers on every hit,” he said.
+
+“Switch to Power Shot, then,” Lyeneru said, clearly getting the observation just as quickly.
+
+The battle instantly shifted as the strategy changed. Vivian switched to much more potent, but infrequent attacks, favoring fire damage heavily. Malika swapped to healing more, but she suddenly shimmered as her fist seemed to blur, striking the wolf five times simultaneously.
+
+Your poison has increased to 9.
+
+We need to kill this thing soon. His poison was getting out of hand, even with Malika right beside him. But that heavy strike had only triggered a single green poison nova. He lashed out with his claws, choosing to use Brutal Restoration and raking his claws across the rest of the wolf pack also, and suddenly the welcome refreshing sense of his healing magic augmented Malika’s continuous healing, and he stabilized. But for how long?
+
+Beside him, Malika shimmered and vanished. Huh?
+
+Your poison has increased to 10.
+
+He felt the heat of the strike before he even sensed the arrow. A huge blast of flame detonated right in his face, coupled with a deafening thunderclap and a flash of lightning that blinded him instantly. Going by scent and the urgent prickle of Survival Instinct, he blocked the wolves beside him and struck out blindly with his claws.
+
+A second later, a flaming arrow blazing with an intense core of light appeared, bright enough to be seen even through the blinding afterimages on his retinas. A second explosion ripped through the monster before him, but Malika was suddenly beside him, healing again.
+
+Your poison has increased to 12 (+2).
+
+But there was an extra chime and, as he blinked away the afterimages, he saw only the four minion wolves. Where the boss had once been, only a smoldering crater could be seen, strewn with vaguely wolf-shaped pieces of rotten bark and undead flesh.
+
+Ambush? Somehow, both Calen and Lyeneru had managed to reacquire stealth mid-combat and unleashed a pair of attacks so devastating they had blown away the Grim Stalker – or at least what had remained of its health.
+
+Mato roared again and lashed out with his Swipe as they settled in to finish the minions.
+
+Your group has defeated Grim Stalker – Undead Plant Wolf – level 127.Your group has defeated Grim Stalker – Undead Plant Wolf – level 94-95 x4.
+
+As the last Grim Stalker collapsed, Mato shifted immediately to his Tree Form, letting his Sanctuary aura ripple out from his trunk and roots. The holy fire of consecration ignited, covering the ground and blending with the gentle pulse of his Sanctuary nature magic – both rapidly dissolving the poisons and Zombie Rot as his friends sat beside his roots to recover their strength and mana.
+
+Elemental Shapeshifter has reached level 115 (+4).+40 attribute points.Arboreal Sanctuary has reached level 51 (+2).Swipe has reached level 63 (+2).Bear Form has reached level 59 (+2).Bestial Combat has reached level 47.Natural Prowess has reached level 46.Survival Instinct has reached level 59 (+3).Battle Trance has reached level 41.Identify has reached level 20.
+
+Perfect. A nice short battle with decent rewards. It was strangely awkward fighting with Lyeneru and Vivian instead of Ali. Not that it was a problem, in the calmness brought about by his Tree Form, he could admit he was missing her sparkling energy, golden magic, and powerful minions. Hang on, little one. We’re on our way.
+
+Turning his thoughts to more immediate issues, Mato immediately dumped all forty attribute points into wisdom. It wasn’t nearly enough, but there was no way he was going to stay stuck with a mace in his hand any longer than absolutely necessary. Ali would never let me forget it.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

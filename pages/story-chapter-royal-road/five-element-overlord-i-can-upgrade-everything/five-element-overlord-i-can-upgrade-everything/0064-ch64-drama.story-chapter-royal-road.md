@@ -1,0 +1,87 @@
+---
+id: 08cfa5aa-34c8-548e-bda5-0cc414a104c7
+page-type-slug: story-chapter-royal-road
+title: "Ch64 Drama"
+slug: 0064-ch64-drama
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 64
+ownLength: 1281
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3462371/ch64-drama"
+royalRoadId: "3462371"
+---
+
+Thousands of kilometers away in the ‘Jiang Clan General Store’ based in Lingshi City, an old ginger haired man picks up a communication talisman while reading illegally copied battle reports.
+
+“Jiang Ran, my son, I have great news to share. That mystery man you wanted to find, the one that used the Azure Lightning Attack Talisman, I’ve finally found a lead. There was a similar artifact used by Squad 414 to conquer the Green Rock Lake stronghold almost three weeks ago. Its user was not reported, but residue of its activation was traced by other squads that stopped by. The only cultivator strong enough to fit your description is a man named Bao Zhan, a 7th level qi refiner. He is an outer sect disciple of the Combat Peak, same as you. It is possible he has some secret vendetta against you for being promoted to a named disciple instead of him. I am happy to get rid of him and make it look like an accident, but he is registered to only have achieved the mid stage of the Acquired Black Iron Battle Physique. It may be more satisfying for you to finish the job yourself.”
+
+Far off in the undeveloped wilderness, leading a squad of his own on mandatory sect orders, Jiang Ran listens to this message and a sinister grin creeps onto his face.
+
+“Bao Zhan? Of the Combat Peak? Someone weaker than me, with no family backing at all? He dares to intimidate me in public and support my enemy’s business… Send me his squad's itinerary, I’ll take care of him myself, Father.”
+
+The entire trail he leads his squad on becomes tens of degrees hotter, a fiery red aura of his acquired physique leaking out of his skin.
+
+–
+
+Back in the Stone Valley Stronghold, Bao Zhan leaves his captain’s quarters holding a brand new storage ring full of provisions, along with a battle plan personally selected for him and his squad from the higher ups. His eyes shift toward a sharp invisible presence of an acquired physique seamlessly shifting from the initial to mid stage.
+
+He quickens his pace, making his way back to Squad 414’s camp.
+
+Nearby, only a few hundred meters away from the squad captain’s quarters where this dark skinned captain just left, a short brown haired woman sits with a worried expression on her face beside a large light green feathered eagle.
+
+She holds a small black compass in her hands and continuously feeds it spirit stones. The arrow on it points to the west, but it shifts erratically back and forth a few degrees, not landing in a perfectly straight direction.
+
+The curtain of her private area bursts open, and she reflexively screams while stowing away the compass.
+
+Bright yellow hair with fiery red and orange streaks in it fills her view when she turns around. A beautiful woman’s face registers next.
+
+Mu Shulan’s eyes turn from initial fright to one of relief and mild annoyance.
+
+“What? You’re not happy to see me? The number three ranked beauty of the Azure Cloud Sect?”
+
+Mu Shulan lets out an exasperated sigh, “Lan Xin… I just want some privacy… and do you really think beauty rankings are that important when we’re on the brink of all out war with the Blood Sword Sect?”
+
+The bright haired woman sways her hips and comes closer, staring Mu Shulan in the eyes until she gets uncomfortable and looks out the window again.
+
+“Of course it's important. They’re not going to let me die so easily, it would dampen the fighters' morale!”
+
+Lan Xin steps even closer, hanging her chest right in front of Mu Shulan’s averted gaze.
+
+“I only came because I care about you. I heard you had the chance to become one of Jiang Ran’s women. It looks like my work to get you into the 19th spot of the beauty rankings all this time wasn’t in vain. Why don’t you take him up on the offer?”
+
+Mu Shulan’s eyes grow angry. “You know I’m already engaged…”
+
+“To that Fatty Wang? I heard he failed to break through into the late stage a 2nd time. Come on, are you really going to marry a failure like-”
+
+A loud slap fills the silence in the room as Mu Shulan stands up, and Lan Xin holds her reddened cheek.
+
+“Wang Ming was my only childhood friend, only after I made it onto that stupid list did others start seeing me as a valuable member of the Mu Family. You’re like the rest of them. You don’t understand passion, you’ve never committed to anything real in your life! He’ll become a late stage qi refiner, and even a foundation establishment cultivator one day.”
+
+The small brown haired woman’s face turns bright red with anger, but Lan Xin’s loud laughter is the only noise that fills the room.
+
+“You delusional girl. Passion? That is a made up word to motivate the young. The Jiang Family will be the new owners of Lingshi City and have been steadily growing their power in the sect. If you don’t become Jiang Ran’s concubine, then maybe it's my time to step in. We both use fire magic and with my new beauty ranking, I’ll even manage to be his main wife and truly join the Jiang Family. I’ve already reached the 10th stage of qi refinement without any family backing of my own, it may be my fastest way to establish my foundation.”
+
+Lan Xin’s posture straightens up, and she looks down on the smaller brown haired woman.
+
+“This is the way life works. An opportunity is right in front of you, and you don’t snatch it. I have the same itinerary as you, more low and mid grade vein strongholds captured all leading up to Black Iron Mountain in a few days, right?”
+
+Mu Shulan’s eyebrows raise. “That’s right…”
+
+“Well, this is an opportunity for me. Don’t get in my way or we’ll have a real problem. I’m going to stand out and take all the merit for conquering this inferior 2nd grade black iron vein. This will be a resource mine the sect will talk about for decades, and I’m going to be the face of it!”
+
+Lan Xin does not give any time for a response, letting out a quiet scoff while strutting out of the private room. She does not bother to close the fabric curtain on her way out.
+
+–
+
+Approaching from the south, a duo of a fat man and a large brown bear trek through the wilderness alone.
+
+Wang Ming received a special leave of absence from the sect, as the patriarch of the Wang Clan volunteered to fight in his stead for a month while he practiced one of the family’s lost techniques.
+
+A large chunk of the spirit stone stores of the Wang Clan from this season’s higher grade green apple harvest and even a cut of their spirit vein mines were all spent on collecting emergency stockpiles of spirit fruits, spirit beast meat, spirit honey, and various rare spiritual herbs.
+
+The potent 7th level qi refinement aura flowing off the man and bear are proof that this investment was worthwhile.
+
+Now, he is on his way to receive orders for his first mission and relay this message to the main battlefield to relieve his grandfather of any more mandatory military duties.
+
+The tunnel vision focus in Wang Ming’s eyes as he approaches the Stone Valley Stronghold is not entirely because he’s ready for battle. It is also partially because if he doesn’t, he could easily injure the initial stage qi refiners passing by with the additional aura he is holding back.

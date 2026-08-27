@@ -1,0 +1,363 @@
+---
+id: 75e7512d-9d6e-5298-b962-5bdb266047f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 509: Shrine of the Ancient Grove"
+slug: 0549-chapter-509-shrine-of-the-ancient-grove
+partOf: dungeon-of-knowledge-complete
+position: 549
+ownLength: 6044
+unit: words
+ownProgress: 6044
+publishedAt: 2026-01-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2952118/chapter-509-shrine-of-the-ancient-grove"
+royalRoadId: "2952118"
+markedReadAt: "2026-06-29T20:30:56.910Z"
+---
+
+Looks like I’m done here, she thought. Ali had a group wanting to visit the shrine this afternoon, but she had a lot of her own shrine work she needed to accomplish before then, so she teleported right into the grove, bringing her guard minions with her.
+
+She reached out a hand and touched her shrine, the cold dark stone offering a sense of stability in her otherwise chaotic existence. It was one of the very few things she could say had remained a constant presence throughout her entire life. When she had inherited it, it had already been a large obelisk of ageless black stone, a testament to her father’s life’s work. Now, however, it towered taller than any building in Myrin’s Keep, covered in dense inscriptions of shining runes that emitted a low, throbbing hum. And that was just to her mundane senses: in her mana sight, it blazed like a golden pyre, emitting coronas of potent mana that she could even feel like an ethereal breeze gusting against her mana-sensitive skin.
+
+It took a quick moment to verify that all her efforts in planting broad fields of Eternal Reverie flowers in the spirit realm had updated her shrine: she could now offer mind-affinity to anyone who wanted it and was compatible. There was a time when she would have thought it too dangerous, but she had long since discovered that the world was filled with dangers far more terrifying than a mere mind mage.
+
+Ok, she decided. Minion evolutions first.
+
+She flipped open her Grimoire and summoned five monsters, each of which had achieved level one hundred in the Crypt of Kings – mostly during the battle against the Devastation Knight general, Haverron.
+
+“Ok, you first,” she said, speaking draconic for the benefit of the small, red-scaled kobold standing beside her. All her summoned kobolds could speak common now that she had taught it to several of them, but she still felt it was more appropriate to speak with them in their first language. Especially after having met Azryet.
+
+“Of course, Ancient Mistress,” her kobold said, bowing deeply. The diminutive reptilian mage stepped up to the shrine and placed her hand upon its rune-inscribed stone surface. Her talons clicked sharply against the stone.
+
+“Ok, it’s ready,” Ali said, activating the shrine.
+
+The kobold’s eyes glazed over for a moment, and then she refocused. “Which path should I pick?”
+
+“Do you have a preference?” Ali asked.
+
+Her kobold turned, staring at her with surprise written in her wide eyes. “You would let me pick?” she asked quietly, as if afraid that the offer might vanish if she spoke with any more force.
+
+“Of course. If you see a path you like, you should choose it.”
+
+“I…” the mage turned to look at the shrine, presumably reconsidering the offered paths before she looked back at Ali. “I like the Pyromancer path?” she said, the upward pitch in her voice at the end turning it into a question.
+
+“Then that should be your path,” Ali said, grinning at the sight of the kobold Fire Mage’s eyes lighting up with pure joy.
+
+A few moments later, the zone chime sounded loud and clear.
+
+[Zone] Pyromancer has advanced to the second tier.
+
+The scales visible upon her face, hands, and exposed tail deepened to a dark, glossy crimson, and she suddenly ignited with flames that flickered across her scales.
+
+“What did you get?” Ali asked, preferring to hear the answer instead of studying the skill sheet. There would be time for that later.
+
+In an excited voice, speaking so quickly she was tripping over her own words, the newly ascended kobold Pyromancer blurted out her skills. “Empowered Fireball, improved Flame Shield, Multishot on my fire mastery… and… I can breathe fire!”
+
+“Show me?” Ali asked, grinning widely as she found herself caught up in the little kobold’s pure excitement.
+
+The kobold stepped back, took a deep breath, and then breathed fire. An intense cone of orange-red flame jetted from her mouth, covering a broad arc of almost a hundred and twenty degrees and reaching past ten meters from where she stood. The intense flame roared and crackled, buffeting everything around with waves of heat. Flickering within the mana were the formations of several support skills and masteries, empowering it, making it hotter, more intense, and something else… Ignite?
+
+After almost twenty seconds, the kobold stopped, staring wide-eyed at the damage she had wrought upon the moss of the grove. “Ancient Mistress,” she gasped. “I’m sorry…”
+
+“Nonsense, I asked you to show me. Besides, that was amazing! You looked like a dragon!”
+
+From the sudden awe in the kobold’s eyes, Ali knew there wasn’t a compliment in the world that would top the one she had just offered. Suddenly, Ali felt pressure in her chest at the precise location Azryet’s mentorship had infused her, and the kobold startled as Ali heard its notification chime sounding.
+
+Ali gasped at the sight of the script appearing as red, fiery letters in her kobold’s eyes.
+
+You have earned the title: Delusions of Draconic MajestyThe blood of the Red Dragonflight runs in your veins.You can use Draconic Majesty while breathing fire, Intimidating all foes in sight of your flames. Recharge: 24 hours.Title
+
+“You earned a title!” Ali exclaimed.
+
+“Eep!” the kobold chirped.
+
+“No, no! This is amazing!” Ali reassured the suddenly trembling kobold.
+
+“It is?” she asked.
+
+“Yes! Look, it’s a draconic title!”
+
+“Oh…” the kobold said, and then her entire countenance brightened with joy. “Yay!” she jumped up and down, sending blazing flames shooting off in all directions.
+
+Ali chuckled. All in all, Pyromancer was a fantastic class, and she was incredibly pleased with the evolution. It took her Fire Mage in a unique direction, making her kobolds useful again, even beside her potent demonic hellfire users. The Pyromancer indeed had Ignite – a support skill that added a growing percentage of extra damage as a burn effect to any fire spell. She had received Empowered Casting meta magic, and her multishot could be used for firebolt and fireball.
+
+But it was the combination of fire breath and her improved flame shield that really made the class shine. This little kobold would be able to wade into melee range fearlessly and lay waste to any swarms of monsters that might come her way.
+
+And that Title: Ali was certain that it had to be Azryet’s meddling.
+
+Ali left her happy kobold juggling tiny balls of flame and returned to the rest of her waiting minions.
+
+Next, she evolved her Subterranean Brood Queen. For a monster like her, where her class and her race were inextricably entwined, there were no branching paths to choose from. Instead, she found a race upgrade.
+
+[Zone] Subterranean Brood Queen has advanced to the second tier.
+
+The huge queen grew even larger, her carapace creaking and cracking as the rock armor adjusted to her greater frame. Most of her skills advanced pretty linearly, but the bonuses she gained for consuming high-quality ores or metal for her shield became far more varied and interesting, and her brood summoning skill could now summon several juggernauts in addition to the smaller rock beetle swarm. That ability, just by itself, turned the queen into a portable army capable of dealing with many threats all on its own.
+
+Happy, Ali immediately teleported her queen into the mines and sent her on a mission to excavate better armor for herself, an order which was received with pure elation.
+
+“And which path would you like?” Ali asked, turning next to her Baelok Descrier. The descrier had three paths available to it, one of which greatly expanded its telepathy and surveillance powers. The second seemed to be focused more on mind-control and managing an army of demons, granting them enhanced mental buffs and directing from the back. The third seemed to be focused on offensive mental powers.
+
+“Master, I believe it is your role to direct battle, so that would be a poor choice for me, and you have a broad range of surveillance powers that far exceed anything I could gain from this evolution. I believe the correct choice is Psychomancer. Among the demonic horde, this is also a rare and powerful choice,” he said. “It should greatly enhance the power of mind blast and psychic scream, and Psychomancers usually gain a Confuse curse.”
+
+“Very well, if that’s your preferred choice, you have my permission.”
+
+“Thank you, Master.”
+
+[Zone] Baelok Psychomancer has advanced to the second tier.
+
+As soon as the gong sounded, the demon filled with mana and grew substantially larger. A long vertical slit appeared in the center of its forehead, opening to reveal an oval eye. Several smaller ones sprouted along the bony ridges along the sides until they matched the Eye of Agnor. However, it remained smaller, and its coloring was strikingly different. Its body darkened to a shimmering black color that seemed to shift and change, almost like slowly shifting shadows that played tricks on the mind. It reminded her somehow of Calen’s Mirage Armor.
+
+After exploring her demonic sentinel’s abilities in detail for some time, Ali moved to consider her next minion.
+
+Her Hellfire Warg, like her Subterranean Brood Queen, was a monster whose race and class were inextricably entwined. However, he had two choices, but it was not like she could speak to him in more than images, so she examined the options herself. One made him stealthier and faster, and the second seemed to be the rarer and more potent of the two options, making him larger and more robust, and putting more emphasis on his hellfire breath.
+
+After gauging his impression via her connection, she picked the second option.
+
+[Zone] Hellfire Cerberus has advanced to the second tier.
+
+This time, the change seemed even more dramatic. The warg grew substantially larger and broader, sprouting a third head between the two existing ones. The heads grew heavier, with larger jaws armed with far more dangerous teeth. Ridges and smoking cracks spread across its hide as it grew heavier and denser armor, and small licks of hellfire erupted from the cracks in lieu of fur, making it look like a beast of pure black flame had been barely contained by heavy armor.
+
+And when he growled, the ground shook.
+
+Ali nodded approvingly at the three-headed demonic wolf. Yes. Yes, this is perfect.
+
+“And finally, it’s your turn,” Ali said, turning to study the strangely quiet and demure troll standing beside her.
+
+“Would you make me choose, also, Seeker?” she asked.
+
+“Only if you want to,” Ali answered. She had her own preference this time. In the list of paths offered to her restoration shaman, she could clearly see the one her shrine had recorded from Teagan’s evolution: Nature’s Fount of Life, and she was really excited about getting the group buff. But like always, whenever she allowed her minions to choose their classes, she found they usually had a better affinity with it. At least that’s what she believed – perhaps she should talk to Azryet about it some more. She definitely wanted to grill him about her excited Pyromancer, who was still capering about, setting fire to everything in sight.
+
+“Very well, Seeker. If I am allowed, I would choose Life Bringer.”
+
+Ali had seen the Nature’s Fount of Life option and had been so excited she hadn’t even read the other options. She glanced at her shaman with some measure of surprise before glancing through her chosen option to see what it had to offer. Immediately, Ali understood. Teagan’s class had been a well-rounded shaman build, well-suited for filling a healer role, along with other support roles as needed within any adventurer group. It had versatility. Life Bringer, on the other hand, was a pure nature-affinity healer. It seemed to sacrifice everything else in exchange for powerful healing magic, and even the auxiliary spells, buffs, and totems were optimized for a singular purpose.
+
+“I can choose something else, Seeker,” the shaman quickly interjected, no doubt taking Ali’s silence for disapproval.
+
+“No. You should take Life Bringer,” Ali said. She had badly wanted Teagan’s Primal Ritual for her own armies – a mage version of Bloodlust that improved spell haste, wisdom, and intelligence. But a pure healing shaman would still probably be quite a boon to her armies. For Ali, a specialist was ideal.
+
+[Zone] Life Bringer has advanced to the second tier.
+
+The gong was loud and pealed out with a sound of finality, but when Ali examined her new Life Bringer’s skills, all her doubts vanished. She had a healer version of Bloodlust called Life Bringer, a skill named after her class. And it was incredible:
+
+Life Bringer – level 72Mana: Grant Life Bringer to yourself and all chosen allies. All healing magic gains +187.2% [skill x 2 x 1.3 (bloodline)] spell haste. Healing spells gain +93.6% [skill x 1.3 (bloodline)] additional healing over thirty seconds. Healing spells gain a +50% chance to refund their resource cost over thirty seconds. Due to the extreme strain on the target’s life and mana, Life Bringer and similar magic cannot be used on the same target more than once every fifteen minutes. Duration: 47.5 [wisdom / 20] seconds. Recharge: 15 minutes, Range: 63.2 meters.Blood, Bloodline, Buff, Area, Wisdom
+
+“That was a phenomenal choice,” Ali said.
+
+“Thank you, Seeker,” her troll said, sitting down on the mossy ground, presumably to take the time to familiarize herself with her newly advanced skills.
+
+Ali turned back to the shrine and studied her Grimoire. Most of her newest acquisitions, her highest-level minion options, had come from the Blooming Rot dungeon, or from their recent delve into the Crypt of Kings. Likely the most well-represented affinity in her Grimoire – at least among her best monster imprints – was death magic.
+
+Not exactly what she would have planned as a nature- and arcane-affinity mage. The plan was to soon return to Ciradyl and secure the Well. After that, Meere Kada, Telim Gor, and the Crypt of Kings. All of these dungeons were crawling with undead, either immune to death magic or worse, death affinity would buff or heal them.
+
+It was time to take Azryet’s guidance to heart: Ali needed to make the most out of her imprints, and while she could manually transcribe some affinities, it was an incredibly difficult endeavor, with no guarantee of success. On the other hand, she had a dungeon shrine. Her shrine, while not as powerful as Azryet’s, was brimming with affinity options and all the classes and evolution paths that she had recorded while servicing the town’s hopefuls and visiting platinum-rank aspirants.
+
+She summoned her easiest option.
+
+Dark Druid – Sylvan Elf / Plant – level 120 (Nature / Death)
+
+Her shrine chimed a loud, mournful sound as she reverted her tall Sylvan’s evolution, and removed her death affinity. The tall elf-tree hybrid plant shrank, diminishing in size and stature, and she shed dark, rotting leaves which fell to the ground like shorn hair beneath the hairdresser’s chair.
+
+“I’m sorry,” Ali said, recognizing the downcast expression in her sylvan’s bark-covered face. “I’m hoping this will make you much more useful in the future.”
+
+“Balance shall be as you will it to be, Ancient,” the Sylvan intoned, but Ali was not convinced she would be happy until she had finished with the re-evolution.
+
+“Come, let us study your paths,” Ali offered.
+
+The sheer number of paths offered to this sylvan druid was staggering – even with her enhanced reading skills, it took Ali almost ten minutes to fully read and understand each option, and then she had to wait while the Sylvan completed it herself.
+
+Why so many?
+
+The question hovered in her mind for quite a while until she remembered her discussion with Azryet. Is this what he meant? While the imprint itself was rather anemic, the Sylvan shared the Elf racial trait, allowing it to overlap with her recently gained and equally small Elf imprint. However, Ali had offered hundreds of classes and evolutions to the Pathfinders and the refugees from Ciradyl. If I understand Azryet correctly, the shrine has recorded all of that. And now the Shrine of the Ancient Grove was offering up this wealth of class options, all of which were compatible with a pure nature-affinity sylvan elf druid. After all, druids with nature affinity were a dime a dozen among the wood elves. All she needed to do was summon Sylvans and Elves and have them choose new classes and paths, and she could transcribe much of what her shrine had recorded over into her Grimoire. I’m going to be here for a while.
+
+“Which path should I pick?” her waiting Sylvan asked.
+
+Again, Ali offered her minion freedom to choose, “If there is something you prefer, you may pick that.” While she had her own preferences, and she was certain Azryet would have counseled optimizing the best possible combination, she had been surprised by her minions before, and it often turned out well. Besides, she could always redo the evolution with a different Sylvan to explore alternate choices later.
+
+“I do have a favorite… will you let me choose it?”
+
+“Go ahead.”
+
+[Zone] Druid of the Deep Woods has advanced to the second tier.
+
+“Deep Woods?” Ali gasped. She could not fathom how Lira’s influence had come to guide her Sylvan’s choice through the shrine, only that she felt a sudden pang of sadness as she missed her kind words and steady counsel. Ali tucked her emotions away for later. The only explanation she could imagine was that the Sylvans were originally from the Blooming Rot dungeon, and a monster the dungeon artifact had not possessed before Lira was forced to merge with it. If that convoluted path held, then this Sylvan bore some small fraction of Lira’s essence.
+
+The class, though, seemed excellent. A minor shapeshifting ability allowing the druid to memorize animals and plants and shift into them as needed – more suited to scouting and concealment than combat. A strong repertoire of nature healing magic, cleansing abilities for poison, disease, corruption, and an offensive, ranged nature spell. It could summon all manner of treants, spiders, wolves, and the like, and commune with them. The class included significant plant magic, including root control like Mato’s Rampant Growth. And finally, a pair of combat skills for use with a shield and a mace, along with an armor ability called Bark Skin.
+
+“Good choice,” Ali finally said. A strong, robust healer with moderately strong control and support abilities. It also had a pure nature affinity, so Ali could boost her magic substantially when the time came. Such a strong class had to be the result of so many elves using her shrine – Azryet, it seemed, knew his stuff.
+
+One more, she thought, her success with the sylvan elf prompting her to see if she could eke out another great class. This time, she summoned an Archer, carefully selecting one with Elven heritage and the four-armed variety they had faced in Myrin’s Keep. She seldom had use for archers, simply because her mage options were usually stronger, but that wasn’t because archers were inherently weak. Calen, Lyeneru, and the many Pathfinders were proof of that – Ali simply had not yet found an extraordinary class.
+
+Archer – Sylvan Elf / Plant – level 139 (Nature / Death)
+
+Just as she had done with her druid, she reverted thirty-nine levels and the death magic affinity, again resulting in a very unhappy Sylvan. But then she tried something new.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 50,000Latent mana affinities:- NatureCompatible domain mana affinities: - Ice- Arcane- Soul- Death- Mind- Lightning
+
+It had a surprisingly large set of options to choose from. It was obvious why affinities like blood and fire were missing from its list – it had sap, and fire was typically anathema to plant monsters. Death, she did not want. I have too much of that already. She also had a large assortment of ice-affinity monsters already, which left Arcane, Soul, Mind, and Lightning. While Arcane would be a strong choice for her, she had an arcane kobold mage in the works already, and her arcane-affinity Eyes of Agnor were rather impressive. A soul magic archer sounded very intriguing, but she found it was lightning that was calling to her most of all. Surely not because Lyeneru looks so cool, she thought to herself. Am I that shallow?
+
+“What do you think of adding a lightning affinity?” she asked.
+
+“That would work well with a bow,” the Sylvan said, creaking as he bowed to her. But the gleam of interest in his dark eyes and the rush of concealed excitement from her connection told her it was far more than just formal acceptance.
+
+Ali selected the option and then offered him the same choice she had offered to all her sentient minions. A few moments later, the gong sounded again, probably annoying half the town by now.
+
+[Zone] Sylvan Storm has advanced to the second tier.
+
+Well, that’s a cool class name, she thought, studying his abilities with more than a little interest.
+
+He had retained most of the abilities of the sylvan archer boss they had defeated while Myrin’s Keep was infested with Blooming Rot. Dual-wielding bows and some level of plant mastery. The Fade and Disengage skills seemed almost unchanged, just the movement speed enhancement was larger due to the better alignment of lightning and haste. He had two archery skills just like Calen, one for the bow and one for the ammunition, although all the death magic enhancements had vanished, replaced by powerful-looking lightning damage. He could conjure arrows of pure lightning or nature magic, imbue poisons or shock, and he could unleash a combination of poison and lightning nova on hit.
+
+His self-haste skill was extraordinary. On par even with Calen’s Righteous Fury.
+
+To round it off, he had a signature damage skill: Rain of Arrows, all of which could be enhanced with lightning and nature damage bonuses.
+
+This is very strong, she thought. Lightning rivalled fire as the premier damage affinity, and she could see why. As a dual-wielding archer with nature and lightning affinity, this new Sylvan was going to plug several holes in her minion strategy.
+
+Happily, she began to summon gear for him. She couldn’t give him The Scourge of Deadly Creep bow yet, so instead she crafted two Howling Hellfire Bows that were accepted with glee, as were the parasitic rings, which would still heal him, given his nature damage absorption aptitude, which was retained in the transition.
+
+“You’ve been noisy, Ali,” Calen said as he descended to the mossy ground beside her.
+
+“Ah, sorry,” Ali said. “Just going through my minions and preparing.”
+
+“Lightning and nature archer? Very impressive,” Calen said, nodding at the Sylvan, who was still fiddling with his new bows.
+
+“I just finished evolving him,” Ali said. “I got a ton of options for Sylvans because they’re compatible with all the Elves’ classes.” Quickly, she shared the Sylvan Storm’s sheet with him, knowing how much he enjoyed the details.
+
+“Wow, I think this might be stronger than the death ones,” Calen remarked, his voice distant as he clearly processed the facts and figures at high speed.
+
+“More damage and faster,” Ali agreed. “How was your scouting mission?”
+
+He blinked. “Oh – I didn’t – we found it, Ali! His phylactery. It’s guarded by the three kings of Dal’mohra.”
+
+“Oh, shit! You found Artur Dragonsworn, Bragni Doomhammer, and Thaldorien Stormshaper?” She still remembered how she had trembled at the sight of them in this very grove so long ago. How was he even still standing?
+
+“We ran like frightened fowl,” he admitted, drawing a smile from his friend.
+
+“Eh… right?” she said.
+
+“Pretty much. Now, I found something I need you to study,” Calen said, and then he produced fifteen heavyset humanoid corpses, still wearing shattered armor and displaying scales of varying shades of silver, browns, or reds. “Seth questioned one already, said it was from an isolated Dragonkin tribe being hunted relentlessly.”
+
+“Hunted?” Ali asked. The corpses on the ground were all well into the second tier. All the more reason to wipe out Kryostria if these Dragonkin required refuge.
+
+“Apparently, that realm is dominated by far more powerful monsters than these. The rift is seen as the lesser danger,” Calen said, the furrow on his brow deepening.
+
+“Wow. Well, let’s see what we’ve got,” Ali said, simultaneously deconstructing the entire pile.
+
+Imprint: Dragonkin completed.
+
+There was a time when inscribing Kavé’s race into her Grimoire would have bothered her greatly. Now, she just experienced a discomforting twinge but brushed it aside. It wasn’t like she was killing her friend to inscribe the chapter.
+
+“Looks like a warrior with good natural armor, and a melee fire wielder,” Ali said, browsing the imprint. “Oh, there’s an earth-affinity defensive warrior here, too.”
+
+“Can you make use of them?” Calen asked.
+
+“Second-tier robust fighters? Definitely,” Ali said, immediately summoning one and introducing him to the shrine. To her delight, several of her domain affinities were available as options, including holy and void. “After I get done, I think I should have several interesting affinity options. Maybe even a few to offer to Azryet.”
+
+“Well, that’s promising,” Calen said. “I have to run, Malika said Naia needed some help.”
+
+“Ok. Tell her I said hi,” Ali offered, and then devoted her full attention to eking out the most from her newest imprint.
+
+A couple of hours later, she stepped back and surveyed her work.
+
+“Not bad. Not bad at all. I just need to get you guys some levels now,” she said. She hadn’t managed a healer, but she had an offensive holy Dragonkin warrior and a monk-style fighter with a void affinity. All her new minions needed levels badly, though. At least when her Sylvan archer reached level two hundred or so, she would be able to give him the Charged Band of Electrocution they had recovered from all the ridiculous Bone Fetishes in the Crypt of Kings, but that would likely be a way off still.
+
+She was happy with her addition to the Abyssal Realm and didn’t want to mess with that any further, but that didn’t mean she had no options for leveling her newly evolved monsters. There were always the battlements of Myrin’s Keep, which was where she sent her Baelok Psychomancer, but she had another wild front that could use some taming.
+
+Taking only a fraction of a second to locate a suitable Glitter Dragonet, she teleported, landing in the strange split-realm of desert and jungle that Calen had said was named Zulkora. She brought with her most of her newly evolved minions, landing beside her champion, Maalgaroth. Or at least, landing within sight of the Pit Lord who was actively defending the rift against a horde of treants and rock beetles.
+
+Reflexively, she checked the violent conflict to ensure she wasn’t in any sort of danger before returning her attention to the task at hand.
+
+“Ok, here’s the plan,” she said, addressing her assembled minions, all of whom were also cautiously checking out their environment. She paused to give them time to take it in, before clearing her throat for attention. “I want you to make a party and clear that jungle of hostile monsters,” she said, pointing to the lush, overgrown island in the middle of the desolate sands of the desert. “Use the Hellfire Cerberus and the Divine Sword Dragonkin as your tanks. The Restoration Shaman is your primary healer, and the druid is support, control, and backup healing. Sylvan Storm, you and the Pyromancer are your primary damage sources, along with the Void Monk. Everyone got it?”
+
+Ali was answered with several nods and some eager smiles, and then she watched the eclectic group charge off in the direction she pointed. High level, intelligent minions, she mused. They seemed so eager and barely needed instruction most of the time, no doubt the doings of her Minion Ego advancement. Flexing her wings, Ali followed along behind the group, albeit at a much slower pace, sprouting giant Lirasian Oaks and laying out more of the Sparking Runner vines, adding a much higher-level lightning and nature biome to her dungeon.
+
+Up ahead, her minions had found their first opponent.
+
+Mantis-Shrike – Insect – level 142 (Nature)
+
+Ali stopped summoning, immediately worried by the size and power of the insect that shot out of the trees to impale her Cerberus with slicing sword-legs, powerful mandibles, and hard, buzzing chitinous wings. The blades sliced deep, dripping with a viscous green ichor and cutting through the heavy demonic hide like a carving knife through a plump, fresh roast.
+
+The Cerberus roared in pain, wheeling about to face the insect that was almost as large as he was. Black flame ignited in the three maws, raging out to incinerate the area in front of him, but the Mantis-Shrike had already vanished, flying so fast as to fool the eyes, and leaving behind several bleeding gashes on the pair of Dragonkin warriors. Another roar and swooping dive, and the stabbing, slicing blades cut deep into the demonic flesh, injecting even more of the deadly poison.
+
+Ali summoned her Grimoire, intending to make reinforcements, but a powerful ribbon of green mana suddenly shot forth from her Life Bringer, linking the troll shaman to the three-headed demonic hound with a lifeline of healing magic that instantly stitched wounds closed and restored ravaged flesh. The line of green mana arced through the demon, bouncing between it and the two dragonkin, causing all their wounds to rapidly seal. Oh! She pursed her lips. Nice.
+
+The Sylvan Druid of the Deep Woods stretched out a leaf-covered hand, and the gnarled bark flared with nature magic. Trees bent and swayed, and vines exploded from their branches, lashing out to grasp at the flying Mantis-Shrike, while simultaneously dissolving the poison festering in the Hellfire Cerberus with a wave of her other hand.
+
+The jungle screamed from the twin Howling Hellfire bows as the Sylvan Archer unleashed a furious, crackling storm. The rippling cracks and booms of thunder pealed continuously, a deafening accompaniment to the brilliant flashes of lightning as arrows tore through the air bearing powerful enchantments of lightning, nature, and hellfire. Then the four-armed archer hasted himself, vanishing with Disengage, only to reappear again after a thunderous lightning-laden Ambush attack.
+
+“Ouch!” Ali yelped, slapping her hands over her ears. The Druid of Deep Woods creaked as she turned, and a moment later, Ali felt a gentle spell that smelled of pine sap seep into her and soothe her ringing ears. Ali glanced back in surprise. From so far away?
+
+The kobold Pyromancer shot through the undergrowth, leaving a trail of fire behind, opened her mouth, and breathed crimson fire with a dark, bluish core of intense heat. Instantly, Ali knew the tiny kobold had used her Title. A ghostly outline of a massive draconic maw made from pure flame appeared above her head, and the Mantis-Shrike froze.
+
+The battle was short and brutal, and in moments, Ali lost all doubt about her minions and their ability to survive. Not the best group synergy, she thought, but they’re all strong and will grow stronger.
+
+Your minions have defeated Mantis-Shrike – Insect – level 142 (Nature)Pyromancer has reached level 101.Hellfire Cerberus has reached level 102 (+2).Sylvan Storm has reached level 102 (+2).Life Bringer has reached level 101.Divine Sword has reached level 101.Void Monk has reached level 101.Druid of the Deep Woods has reached level 102 (+2).
+
+There it is, a few levels already. Ali idly wondered if the insects would make a good addition to her Grimoire as she followed along behind her minions, slowly claiming the entire jungle for her own domain. It was an easy thing to check. As her domain rolled out, she used it to deconstruct everything her minions destroyed.
+
+Imprint: Beetle updated to Imprint: Insect.Variant: Mantis-Shrike added to Imprint: Insect.Variant: Toxic Hornet added to Imprint: Insect.Variant: Arid Pine added to Imprint: Tree.
+
+[…]
+
+As the brightest sun began to set over the distant desert horizon, Ali scrolled happily through the vast number of imprint variants she added to her Grimoire by virtue of subsuming the entire jungle. Granted, most of the variants were mundane, fortunately taking up very little space in her Grimoire alongside the more complex magical varieties, but there were a few new insects that might go well in her forest or jungle caverns, and several herbs and wildflowers that Basil would no doubt be excited to experiment with.
+
+And my new minions are leveling quickly. I wonder how many of these groups I could manage at one time? Levels. Always the levels.
+
+“Here, do you see it?” Calen said. He was bent over and doing something to the dull dirt in the strange echo-flicker world.
+
+Spirit Realm.
+
+He had told her what it was called. She liked her name better, though.
+
+Naia extended a pseudopod to touch his hand and then reached toward the ground where his fingers lay. She poked it a little. And suddenly she could taste it.
+
+A strange flavor, like something only half-there had passed this way. And yet, it was unmistakably an ooze.
+
+She wobbled excitedly.
+
+“See, I told you they were here,” Calen said. “Let’s go find them.”
+
+“Ok!” She really hadn’t known what to expect when she had asked him, but Calen had immediately leapt into the spirit realm with her. And his enthusiasm was somehow contagious, making her far more excited for the hunt. That’s what he’d called it.
+
+She followed, merged with several other oozes to increase the size of her pseudopods, just to keep up with his speed. They charged through the strangely subdued landscape, the only real vibrations coming from herself and him. But after about thirty minutes, he stopped.
+
+She drew up beside him, casting her feelings out, straining to feel what he could obviously see.
+
+“Just up ahead, there are three of them. On the far side of the clearing by the biggest tree,” he said. And then something moved, and her Identify triggered.
+
+Ectoplasm – Ghostly Ooze – level 127 (Soul)
+
+“Soul magic,” she said, keeping her membrane vibrations small.
+
+“Yup,” he answered. “Should I kill them?”
+
+“No,” she said. “I will use Mine.”
+
+“What?”
+
+“I’ll show you,” she said. For some reason, nobody seemed to understand her skill. At least till they saw it. Not even the big dragon.
+
+Her mana bubbled within her, stretching her membrane with new mass, and then she split off a half-dozen oozes, sending them out into the clearing. Instantly, her field of view grew larger as each new ooze picked up a slightly different set of vibrations, tasted the world from a slightly different vantage point. And as they rushed out, she saw the other two Ectoplasms hanging in the tree.
+
+As soon as her ooze touched one, she used Mine.
+
+Imprint: Ectoplasm completed.
+
+“Oh,” Calen said. “That’s incredible! I didn’t know you could just take them like that.”
+
+“Yes,” she said. “As long as they’re not somebody else’s, they can be Mine.”
+
+“Any level?” he asked.
+
+“I’m not sure,” she answered, but so far, she hadn’t found any limits. Although his question inspired a rush of sudden curiosity and the desire to know more. “Do you know where I can find more?”
+
+“I will let you know when I find some oozes,” he said. “But you could try a few different ideas. Ali’s shrine can force different affinities. And now that we’re in the spirit realm, the Infinite Maze is near, maybe you can visit Cael and ask him to try to teach you space affinity? Or go ask at the guild, you can probably pay people to shoot you with new magic.”
+
+“Pay? What is that?”
+
+Calen made that odd noise that meant he was amused. “Come on, I’ll explain while we… ah, walk.”
+
+“Ooze,” she said, and that noise came again, much louder this time. Naia shook her body, surprised at the tingling that response had set off. Why did I feel like that? It wasn’t just the vibration.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

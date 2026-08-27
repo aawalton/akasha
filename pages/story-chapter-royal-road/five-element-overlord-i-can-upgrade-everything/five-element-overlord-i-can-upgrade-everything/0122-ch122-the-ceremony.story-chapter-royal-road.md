@@ -1,0 +1,145 @@
+---
+id: 87b83325-4016-5d5b-a4af-f2103c799b69
+page-type-slug: story-chapter-royal-road
+title: "Ch122 The Ceremony"
+slug: 0122-ch122-the-ceremony
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 122
+ownLength: 2072
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3832023/ch122-the-ceremony"
+royalRoadId: "3832023"
+---
+
+The true ceremony begins, and I silently watch.
+
+Mu Zhiheng and Wang Ruze walk up to the main stage to help the two Patriarchs, reciting old family traditions, and telling exaggerated tales of Wang Ming and Mu Shulan in their younger years. Some are embarrassing stories of setting off hidden security arrays or breaking artifacts together in the main palace before they matured, and others about their achievements like when they both advanced into the mid stage of qi refining at clan record-breaking speeds, along with a few notable sect missions they completed together.
+
+It is mainly to cement the fact that they have grown up in Lingshi City together and have always been close, keeping people entertained while they follow old traditions.
+
+The two patriarchs pull ancient-looking tablets and books from their storage rings, adding events to their families' history in real time as vows are read.
+
+Incense is burned, various element stones and talismans are placed around them, and broken out of respect for tradition.
+
+Old poems are recited from their ancestors, and everyone watches with silent respect.
+
+There is no public embrace once the ceremony is complete like the traditional weddings I recall from my past life. Instead, both accept new identity tokens from the opposite patriarch, with the new Wang-Mu character before their personal names, and press them together as one to create a symbolic bond.
+
+The two patriarchs stand proud in the back of the stage as Wang Ming and Mu Shulan stand tall together with wide smiles and tears of joy trickling down their faces.
+
+Mu Zhiheng calls out from behind them, “The Mu and Wang clans have now been bound by blood and tradition.”
+
+Wang Yang lets out a satisfying laugh while clapping, “Excellent, excellent, excellent!”
+
+Mu Shouxin smiles and walks forward, glowing brighter and brighter green.
+
+He bends down and places a hand to the center of the stage. “Excellent indeed! Now, let us celebrate this momentous occasion together!”
+
+The ground beneath the stage, and the orchard itself, starts to shake violently, then thick roots push up and out of the ground.
+
+Large platforms that straighten out into tables fill the crowds. From the far sides of the orchard, servant cultivators with 1st and 2nd level qi refining calmly and swiftly walk in carrying storage pouches.
+
+They release large bundles of exotic spirit fruits, cooked spirit beast meat, and endless bottles of wine. In the center of many bundles there are element stones and even complimentary vials of qi gathering and qi nourishing pills, far more valuable than the gifts that clans handed in at the entrance.
+
+Waves of pure qi and delectable smells permeate through the air, and the crowds of visiting clans all stand to clap, cheer, and make their congratulations vocal.
+
+Even the side stages below the main platform shift, and the wooden chairs everyone sits on grow like living vines. Tables form before all of us and are quickly filled with food by the approaching servants.
+
+Mu Shulan, her uncle, and grandfather walk down off the main stage toward their honorary guests and family, while Wang Yang and Wang Ming walk our way.
+
+The three large spirit beasts stay at the back of the stage and are given their own delicacies.
+
+Wang Tengru jumps up from his seat and congratulates Wang Ming with a hug, and I stand to my feet as he approaches and give a respectful bow.
+
+“Congratulations. This was my first time witnessing a marriage like this, I’m thankful you’ve invited me.”
+
+The fat man’s smile is already wide ear to ear as he ruffles Wang Tengru’s hair and nods back to me. “I’m glad you could make it, Li Hao. I hope you can keep my little cousin company while I do my rounds.”
+
+He walks on past, hugging many older women and younger children in his clan, and accepts bows from the older men.
+
+Wang Yang walks by me, and his eyes focus with an unreadable expression.
+
+His fractured soul is far too dense and guarded for me to gauge even a wisp of his true emotions from; the old man is extremely strong.
+
+I bow even lower, following the lead of everyone else, but he speaks up in a low tone, “Li Hao, I’m glad you could make it as well. The favor you did my grandson before he helped you enter the outer sect has been duly noted. I hope we can continue to be allied with your Li Clan for as long as we live.”
+
+It is spoken loud enough for many of the family members to hear, and some of the closer late and mid stage clans in the front row.
+
+“Of course, Senior, the pleasure is all mine,” I reply. He shows a thin smile for my courtesy.
+
+This old patriarch did not call me junior, leaving it up to me to respond with respect if I wished. He even enhanced my prestige in the eyes of many watching his every move.
+
+He is referring to the hint I gave Wang Ming about his gluttonous intent in order to break through into the late stage, and the heavenly grade healing elixir I gifted him. However, that favor was already paid back for helping me into the outer sect.
+
+I’m unsure if this is a reaction to the gift I granted their clans at the entrance, or if he is quietly thanking me for the soul metal I gifted Wang Ming in Black Iron Mountain to save his life. It could be a combination of both, or even an unrelated cautious and calculated guess he’s making, referring to an imaginary Li Clan as he believes I must have a backing of some kind.
+
+Soon after, he makes his way down the stage with Wang Ming, and they walk from table to table talking to guests, giving everyone a brief chance to say their blessings.
+
+Servants of the Wang and Mu Clan approach, filling the table before me and the other two honorary guests with fruits, spiritual nuts, bottles of alcohol, and even a hot dish described as 8th grade spiritual bison, acquired from the sect.
+
+I happily accept, and try a few bites of the still hot high quality meat that gives off a soft white glow.
+
+It melts in my mouth like pure butter, and feels the same consistency as a Qi Nourishing pill as I swallow it.
+
+Wang Ruze cracks open a bottle of wine from a thick green jade bottle, “Both of you are too young to make this a habit, but today is a special day, at least have one sip to celebrate.”
+
+He pours out the amber-brown liquid into heavy crystalline glasses, and the sweet scent of spiritual apples fills the table.
+
+“This is a cider made from the Wang Family’s high-grade harvest of green apples. We don’t even sell it on the open market.”
+
+I clink glasses with the father and son duo, and take a small sip, allowing the alcohol to flow into my body.
+
+It instantly disperses, making my meridians flare up a small amount. It’s nowhere near the same amount as the perfect grade versions of the green apples did back when I used them as an initial stage qi refiner in the wood-chopping camps as a steward, but it is still quite nice.
+
+Some of the tables surrounding the stage have mid and high grade qi infused cigars lit, but I’m in no mood to smoke and relax.
+
+Instead, I activate my Jade Purity Soul Scripture and metabolize the alcohol I’ve just drunk instantly.
+
+A few groups of Wang Family members wander over to our table, introducing themselves as the many branches off of the main bloodline.
+
+They are all wives and important high-grade root concubines of Wang Ming’s uncles, great uncles, and even some cousins. Their appearances vary from old to young, but this is never a perfect indicator of age, as some in the late stage hold their youth still into their 50s and 60s quite well.
+
+Wang Ruze is their initiator for conversation, but after seeing the Patriarch greet me with respect, everyone takes the chance to tell me their name.
+
+I smile along and make small talk while watching many Mu Family members come over to this side of the stage and make their rounds too.
+
+The same interactions follow, but I hardly retain any of the hundreds of names and faces.
+
+My eyes are ahead on whoever is in front of me, while my spiritual senses continue to scan the crowds below the stage, wondering when chaos will break loose, or if it even will with so many people here.
+
+Near the far back of the orchard, there are a few small clans, and even rogue cultivators that attended this wedding just to grab as much spiritual food and wine as they could. Others just came to witness the event with no emotional ties to the groom or bride.
+
+The slow trickle of cultivators leaving the orchard begins, starting with the solo 10th level named Azure Cloud Sect disciples that showed up on their peak master’s orders. Next, some of the weaker elderly patriarchs of minor qi refining clans leave, and afterward the clans that just came for the feast. However, all of the major clans still stay put.
+
+This is because the bride, groom, and two patriarchs have walked down the stage and started directly approaching the foundational families that showed up for their support, and greet some higher tier qi refining clans personally as well.
+
+The young voice of Wang Tengru calls to me as there is a lull in new faces coming to our table.
+
+“Hey Li Hao! If you’re from the same peak as Big Brother Ming, you have a spirit beast, don’t you?”
+
+I nod, “Yes, I have a flame toad Wang Ming sold me when we first met. There is a spirit crane provided by the sect too; it helps me water the fields.”
+
+The young boy’s eyes tighten a bit with curiosity, and he rocks in his chair while taking a bite of a large red plum-like spirit fruit before responding.
+
+“That can’t be it. Father told me cultivators join the sect when they have no strong family backing, or hopes of gaining resources on their own. Old Patriarch said you come from the Li Clan, but I know all the powerful clans in our county and I’ve never heard of them. Why don’t you make sense?”
+
+He asks bluntly, staring me down with an innocent expression, but the rosy-cheeked Wang Ruze interrupts and throws an arm around Wang Tengru, his soul trembling with a noticeable new emotion of anxiety.
+
+“Remember what I told you about the Lin and Wei Clans’ son? This honorary guest is like them. Even though he may seem close to your age, you must treat him as an elder. Wang Ming would not ask him to sit here if he were ordinary.”
+
+I show a polite smile to the old man, but there is still a subtle flash of fear in his eyes; it is the same exact expression he made when he looked inside the storage ring I granted as a gift.
+
+The boy tilts his head and thinks, but the old man continues, “It’s best not to ask about another cultivator’s secrets without an equal one to share in return.”
+
+I shrug, “It’s no problem. Questioning everything is natural when you’re young.” I turn to Wang Tengru. “I’m sure your dad has far more questions than you do; he’s just keeping them in to ask at a better time.”
+
+Out of the corner of my eye, I watch Wang Ming and Wang Yang both walk out of one of the foundational clans’ private seating areas, and begin mingling with some of the nearby late-stage qi refining clans.
+
+Their trajectory is easy to predict, so I stand up when I see an opportunity.
+
+“Please excuse me for a moment,” I murmur before stepping down from the raised stage.
+
+Many lingering eyes follow my abrupt movement, but I don’t mind. I plan to cause a minor scene anyway, so the more eyes the better.
+
+I give polite smiles and nods to the tables full of clans I pass, and time my approach perfectly to pass by the Feng family at the exact moment the Wang Patriarch approaches from the other side of their table.

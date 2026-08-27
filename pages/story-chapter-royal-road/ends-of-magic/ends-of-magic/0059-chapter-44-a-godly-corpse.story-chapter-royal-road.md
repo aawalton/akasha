@@ -1,0 +1,229 @@
+---
+id: 4cdc5ac9-32ef-50cd-85aa-203c14f023e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: A Godly Corpse "
+slug: 0059-chapter-44-a-godly-corpse
+partOf: ends-of-magic
+position: 59
+ownLength: 2788
+unit: words
+ownProgress: 2788
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2898195/chapter-44-a-godly-corpse"
+royalRoadId: "2898195"
+markedReadAt: "2026-06-29T20:09:09.160Z"
+---
+
+The Crater of Fallen Gods didn’t look very different from the other crater lakes they’d passed on the journey. It was one of the larger craters at nearly a dozen miles across. The primary distinguishing feature of the landscape was a slight rise in the very center, where the ground rose above the water in a picturesque peak covered with greenery. But the physical beauty wasn’t what made the area special. There was a brightness in the air, an ethereal light that made the crater's interior seem like a fairytale space. Everything inside was lit evenly from every direction, banishing all shadows. The effect extended deep in the crystal-clear water of the lake, making the waving plants and fish clearly visible.
+
+“Gaze upon it,” Vira said, gesturing out proudly. “The Crater of Fallen Gods. The final, decisive battlefield of the Ending of Deicide."
+
+“Hardly final," Liren corrected smugly. "I haven't made any great study of that war, but there were hundreds of gods spread across Davrar. This was merely the end of the battle of Ostren. But it was the place where the war turned. With the crusades defeated and their priests dead, the gods never regained the offensive.” He swept his hand out at the crater before them. “This was merely one site of several where the crusades were destroyed.”
+
+“Let’s go,” Khachi said, springing up from the ground and making his way into the crater.
+
+“There’s nothing there!” Vira yelled after them as the Heirs followed Khachi into the air and across the crater. “Everybody goes, but it’s a looted cache!”
+
+The Heirs didn't listen, making straight for the center of the crater. With his enhanced senses, Nathan heard Vira sigh. “They can all fly. When will you learn that spell, huh?” If Liren responded, Nathan didn't hear it.
+
+Khachi wasn’t flying as fast as he could, and the rest of the Heirs were able to catch up with him easily. The cleric probed at the omnipresent light with his own magic. “This is not active magic. It is merely the reflection of the power left behind by dead gods. There are shards of shattered divinity in the aether."
+
+“Just the one god, I think,” Nathan added. He’d almost stayed silent to let Khachi handle this on his own, but his own magical senses were quite a bit more acute than the cleric’s. Depriving his friend of important information was silly.
+
+Khachi hesitated, then held a hand out. His own presence in the aether mimicked the motion, reaching out to touch one of the immaterial shards of divine power that was embedded in the local space. It felt remarkably similar to Khachi’s own divinity, but tinged a slightly different shade. Khachi’s magic felt solid and confident, while that leftover from the god gave off a sense of furious righteousness that verged on arrogance. Nathan found it off-putting. Regardless, the shard of divine presence recoiled from the wolfman’s touch. Khachi let out a shaky breath. “Deiman. It is His remnants." He set out again, moving deeper into the divine presence with increased urgency.
+
+Stella put a breeze at their back to help them all cross the distance faster, while Nathan kept his eyes peeled for any danger. He saw nothing that seemed like it could be dangerous. But the divine light cut away all of the shadows on his friend’s faces. It wasn’t a good look, illuminating every pore and giving them a flat, harsh appearance. The effect didn’t extend to him, the light failing to shine within his aura. Nathan pulled his antimagic tighter, trying to keep it confined to the bounds of his skin.
+
+“I feel it,” Stella said as they passed by a particularly large chunk of offspun divinity. Khachi reached out for it like he had the first, but it fled in much the same way as the first one. Stella’s brows drew down “Now it’s gone. It’s like wizardry, but it moves itself. Like a spell that outlived the caster.”
+
+“It rejects me,” Khachi said, his voice tight. “I would claim this power, this vestige of my god. I am no longer Deiman’s servant, but his power is useless like this. I will use it as it should be used! As it cries out to be used!” The last words were spoken plaintively, like he was pleading with the dead god.
+
+“You don’t need to convince us,” Nathan said. “You need to convince whatever’s left of Deiman. Or maybe Davrar itself.”
+
+Khachi firmed his stance. “Of course. I am the Heir of Deiman, and must declare it so in the way of his faith.” He set his course for the very center of the crater, the place where the peak rose from the water. He passed by more shards of divinity but ignored them, focused on his goal. It was a long way to travel, and the shards of power grew more common and larger until the aether positively buzzed with them. The Heirs all glowed brighter and brighter, the same effect shared by Khachi and his mother, sticking to them as they moved deeper into whatever was left of their god’s power.
+
+The pinnacle in the center of the lake was a nub of stone. It was well-worn from the boots of all of the sightseers who’d come to witness what was left of one of the gods of Davrar. Khachi alighted upon it gently and turned to look around at the verdant crater. He looked like a god himself, rimmed with divine light that came from everywhere and nowhere. But that effect wasn't special; the same would apply to anybody who stood in the same spot.
+
+Khachi took a deep breath and raised his hands high. His voice boomed out across the crater, echoing back so that it sounded like Khachi’s words were being repeated back to him by a chorus. “This is where the mighty fell, where a guardian turned tyrant was brought low. Pride took root within virtue, and the divine fell beneath the weight of self-regard." The crater already had a high concentration of divine mana, but more spilled forth from the aether at Khachi’s call. The fresh magic mixed with the static magic saturating the space, and Nathan had the sense of an ancient sleeper slowly waking up. The omnipresent golden glow deepened and grew richer.
+
+Khachi continued without the slightest hesitation. "I seek to claim his mantle and restore it to glory."
+
+The divinity swirled around the peak in response, forming a hurricane in the aether. Khachi had summoned its attention, and now the magic itself sat in judgement. It spoke without a voice, a wordless demand that echoed through the Aether.
+
+“SPEAK”
+
+Khachi’s voice rose to the challenge. “I am the heir of Deiman, his last worshiper. I do not imitate him, but I shall redeem the values he abandoned. His godhead is mine, to restore to its original meaning!”
+
+The power tightened, drawing inwards as power condensed into a halo - or a noose. It spoke again, the word rippling across the boundary between the material and the immaterial.
+
+“WHY”
+
+Khachi's response sent shudders of meaning through the aether, the communication happening on a level beyond mere vibrations. “Humility makes me worthy, for I know that power is a burden, not a glory. Virtue makes me ready, for I wield strength only to lift others. And Resolve makes me enduring, for I will not yield when the world denies me, nor twist this power to soothe my own fears.”
+
+The air itself erupted into blinding brightness, nearly combusting from the sudden surge of power. The other Heirs covered their eyes, but Nathan stared directly into the light, seeing Khachi tremble with the pressure the magic was exerting on him. The halo had become a solid torus of magic that completely encircled Khachi, burning with more power than Nathan had seen from the Last Arrows of Olita. Stella erected a shield to protect them from the outpouring of mana, which Nathan ducked out of. He didn’t need the protection, and if he needed to rescue Khachi from this trial, he didn’t want to compromise their protection.
+
+The divinity spoke again, issuing another demand that shook the foundations of reality.
+
+“HOW”
+
+The raging mana was eerily silent, so Khachi's defiant response was easily audible. “Deiman’s power is of righteous battle. I claim his domain as I ride to war most righteous. Across Davrar, I have struck down evil, protected the innocent, and raised the worthy! This power is mine by claim, by deed, by inheritance. I am called to undo great evil, and I shall not be denied!”
+
+The aether roared in answer, the outrushing mana screaming in anger and unleashed emotion. Nathan felt like he was trying to stay upright in a strong wind as he was battered with helpless rage and betrayed hope expressed through golden light. Stella had already retreated, pulling Aarl and Sarah back with her in the face of the mana billowing out from Khachi.
+
+One final word reverberated across the aether. This time it was a command instead of a question.
+
+“UNDERSTAND”
+
+All of the magic rushed towards Khachi like a reversed explosion. The mana rushed into his body, and the shards of Deiman’s power stuck to his divinity like they’d been magnetized. The process was completely silent, and Nathan heard a small gasp from Khachi as he was lifted into the air. Every inch of him was shining like the sun.
+
+Nathan didn’t know if this was a good thing. He’d seen the wolfman have revelations that looked like this. He'd survived those and come out the other side stronger, but it had never been so violent. Khachi’s divinity, his presence in the aether, felt unstable as it doubled in size. The added power was furious, and every second more of it crashed into Khachi and injected him with the insane rage of a dead god.
+
+If it’s a choice between Khachi missing out on some power-up and dying, I know which one I’d choose.
+
+Nathan threw his aura out, trying to hold back the flow of energy rather than destroy it. He didn’t want to deny Khachi this power, but he wanted to give his friend a chance to master it rather than be overwhelmed. He managed to give the whole system of mana a bit of a spin, turning an implosion into a spiraling whirlpool. The same amount of divinity was present, but it wasn’t draining into Khachi as quickly as it had moments before.
+
+Divine attention landed on Nathan. It was like a crushing weight pressing in on every part of his body. But he stood firm against the pressure, refusing to yield an inch. It wasn’t as bad as the weight of the blightmind.
+
+There’s no mind here. It’s mana and divinity with purpose. But there’s no cognition there, just a crystallized purpose that's survived for centuries in the mana.
+
+“I know.” The words escaped through gritted teeth. But they caused the mindless power to pause, at least until Khachi spoke again. “I know the truth of Davrar. This world is a game, and the Questors use its people as pawns, toying with their lives and their deaths. All worship is cruel mockery, a mechanic in their game.” His words were bitter, his posture tense with inherited anger. "Faith is a lie."
+
+Then he roared in defiance. “The origin of belief means nothing! Faith is no idol of stone, but the living ideal behind it! Its measure lies in the strength of its principles, not the pedigree of its tale. Even a Faith born from false myths becomes real when borne by righteous hands.”
+
+The wolfman ignited with his own fire, confident divinity pushing outwards and subsuming the frenzied power of the dead god. “This world is born of injustice, and I Resolve to mend it. By Virtue I shall shape its future. In Humility I shall avoid the hubris of the past. This mantle of light will be the torch by which I burn away the sins of the past.”
+
+The divinity shuddered, then spoke one more time. It was softer this time, the animating purpose starting to break apart and yield to Khachi's righteous presence.
+
+“SUCCEED”
+
+Then the draw into Khachi resumed, gentler this time. Nathan had already withdrawn his aura, but he watched carefully as Khachi absorbed more power. The wolfman stayed cogent, eyes open and stance firm as he accepted the influx of divinity. He was actively organizing it now, shaping the growing cluster of metaphysical energy that he had instead of a mana pool.
+
+The inrushing energy slowed before Nathan was expecting it to. There was a colossal amount of power present in the crater, but only the divinity closest to the center had been part of the… whatever had just happened. Ritual? Communion? Divine inheritance? Regardless, Khachi had only absorbed a fraction of the power of the dead god.
+
+Still, when his feet settled on the ground, he looked different. He’d already been haloed with light, but now he seemed half-ethereal. His fur hadn’t gone blonde, but it looked like it was made from strands of light and floating in an unseen breeze. His divinity had increased at least tenfold, and Nathan felt half-blinded just by standing nearby.
+
+He approached Nathan, walking through the air without the aid of a spell. “Thank you for the aid. I would have been overwhelmed without the chance to speak.” His voice carried the slight reverb effect of his prayers, but now it just seemed to be his normal way of talking.
+
+Nathan nodded amiably. “I’m glad it was the right decision. I wasn’t sure. Did you get any new Developments?” He looked over his shoulder to see Stella and the other Heirs coming up behind him.
+
+Khachi addressed them all, a sly smile on his face. “Just one. Nascent Divinity has Developed to Godhead.”
+
+“Officially a god, then?” Aarl asked. “Should I be bowing? Or maybe kneeling would be better.” He glanced down, as if to find a clear patch of ground.
+
+The wolfman coughed awkwardly. “No. I do not know what defines a god, but I am the same.”
+
+“The same person who nearly choked to death on a veggie back in Gemore,” Stella said, flying up to inspect him. “Who hates sweet drinks. It’s just that you glow now. Well, glow more. We’re going to need to make you meditate in a tent so you don’t keep us awake at night.”
+
+That brought a surprised laugh out of the wolfman. Even his laugh was more profound, and the aether vibrated slightly with his mirth. Then Khachi gestured back to the crater's edge. “We have kept our guides waiting long enough. We should return to them and continue our journey.”
+
+“You don’t want to do that again?” Nathan asked, gesturing around them at the rest of the divine presence that lit the crater. “There’s more power here.”
+
+Khachi shook his head. “I have claimed the mantle and what remains of Deiman’s purpose. Everything that’s left is beyond my reach. Besides, I think a repetition would lose much of its power. Divinity is about meaning and significance, and a miracle repeated is a miracle cheapened."
+
+“I wonder what our guides saw?” Sarah asked as the Heirs flew back towards the crater edge.
+
+“I’m more worried about what they heard,” Nathan answered. “Khachi said more about our purpose than I want to be common knowledge among the Questors.”
+
+They came back into sight of Vira and Liren, who were waiting right next to the carriage where the Heirs had left them. Both of the Questors were watching them with wide eyes. They looked a bit shell-shocked.
+
+“What in the absolute entropic heat death of the universe was THAT!” Liren screamed as soon as they drew close enough to hear.
+
+Permanent Talent 1: Magical Destruction 4
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 7
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 4

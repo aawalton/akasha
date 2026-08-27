@@ -1,0 +1,125 @@
+---
+id: dfaad77a-725d-5384-8eec-ba0f1e165eda
+page-type-slug: story-chapter-royal-road
+title: "Ch90 The Mortal’s Shop"
+slug: 0090-ch90-the-mortal-s-shop
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 90
+ownLength: 1632
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3629134/ch90-the-mortals-shop"
+royalRoadId: "3629134"
+---
+
+There is something ominous in that Jiang Family Pavilion Tower.
+
+It is unsettling, making my souls tremble and my own physique feel unstable.
+
+The moment I focus on the source, its vibrations fluctuate, like they’re searching for what’s observing them.
+
+As curious as I am about what might be in the private upper floors of these towers, it is clear I do not have enough strength or influence to do so. This place is too dangerous to be snooping around with my current weaknesses, even with Lan Xin as a guide.
+
+I grit my teeth and choose the closest side street to start walking down, “I’ve seen enough…”
+
+Lan Xin follows with a confused expression. “That’s it? You just wanted to see the city? Not buy anything? Or even enter any shops? You know there is a unique high grade talisman shop down this way. It’s run by one of the minor foundational clans I’m on good terms with, the Meng family.”
+
+I don’t reply or pay her any mind. Instead, I stay focused and walk quickly away from the main city square.
+
+We pass dozens of shops owned by late and mid stage qi refiners until we’re finally a few streets away, and the blood energy fluctuations are completely gone from my psyche.
+
+We’ve walked down random side streets, and into a thin alley where many of the stones on the road are broken and haven't been fixed in years.
+
+The sign ‘Zhang Martial Storefront’ is carved into a wooden board above the entrance.
+
+It looks just like all of the other stores in this alley, but I’m drawn to walk inside.
+
+A small bell rings on the old door, and the smell of dust stirs in the air as I scan the small shop.
+
+There are inferior quality weapons all over the walls and in the display cases. A few look like they’re just made from ordinary metal, or leather from the tough hide of animals that aren’t even spirit beasts.
+
+There are a few pages of manuals set up for sale behind the counters, all of which are the movements for shifting a mortal’s body to that of Martial Warrior.
+
+At the center counter of the store, large glass jars of Martial Root pills are for sale. Many of which are being sold for a few spirit fragments each, and they even have pricing to buy in silver ingots or large quantities of copper coins too.
+
+The shop’s doorbell jingles again as Lan Xin walks in behind me, “Why are you acting so weird? What are you doing in a mortal’s shop?”
+
+The sound of a loud thud echoes through the room next, as the shopkeeper walks out from behind the counter, falls to his knees, and bows before the fiery woman that looks around this shop in disgust.
+
+“Named Outer Disciple of the Azure Cloud Sect, Miss Lan, what have I done to have the honor of your grace in my humble shop?”
+
+The old man’s forehead touches the ground, and doesn’t dare move.
+
+[Automatic Inspect Function Activated…][Zhang Youcai] [Age: 70][No Qi Cultivation][No Spiritual Roots][Acquired Martial Elite Physique][Mid Stage - Mortal Grade][No Innate Physique][Owns an old family run martial root farm far from the city in a mortal region completely devoid of natural Qi.]
+
+“You have done nothing. Rise. My assistant just wandered in here, we’re going to leave." She turns around but I disregard her statement and walk forward to the counter.
+
+I pick up a few jars of Martial Root pills, and turn them around to examine their quality.
+
+Each one is perfectly round, and lighter brown than the usual inferior quality ones in the market. I also do not sense any qi permeating off of them, making them far more concentrated with extract than my supply.
+
+Of course, they’re nowhere near comparable to the heavenly grade versions I can create, but it does raise a question in my mind.
+
+“Do you make these pills yourself?”
+
+“I do. Well, my family does.” he mutters out.
+
+Sweat is forming on his forehead, and his eyes keep moving back and forth from me and the uninterested Lan Xin waiting with crossed arms at the door.
+
+“Do you have any raw Martial Roots I could purchase?”
+
+His eyes widen, and his gaze finally settles on me. Just from the fluctuations alone in his physique, I can tell he’s just now realized that I have a Martial Elite Physique too.
+
+“You’ve reached the mid stage at such a young age… no wonder you’re worthy of standing beside Miss Lan. Please, do wait a moment, I will retrieve the best stock we have from the back.”
+
+The old man bows and runs away toward the back closet, only coming out a minute later with a big wooden crate full of dark brown roots.
+
+There must be over 50 of them, each the size of my hand, and subtle fluctuations come off of them now that they’re all stacked together in one place. Not only that, but a gut wrenching poisonous smell alerts my senses too, making it clear that if I were to ingest a single one of them in their current form it might be fatal.
+
+“Please, take as many as you want. For guests like yourselves I could never forgive myself if I charged you spirit fragments.”
+
+He keeps his hands clasped and his head down in a bow, waiting for me.
+
+I sift through the box for a moment, then pull the whole thing into my system storage. A small booklet falls out from my storage onto the counter, it’s the upgraded version of the martial warrior manual holding advanced farming, tea and paste formulas, and of course the many movements needed to strive past the Martial Elite stage inside.
+
+“Your kindness is appreciated, but I cannot allow you to be empty handed when I leave. Please, flip through this manual and write down a copy of any notes you may find useful. You have one minute, and then I’ll need it back.”
+
+The old man looks up in confusion, but his pupils constrict when he sees the wording on the cover, “Martial Spirit, is there truly such a thing?”
+
+I give him another nod of confirmation, and he greedily opens up the book and transcribes whatever he can onto blank pages beneath the counter.
+
+He stops in some areas and holds his head, and just absorbs the information with eyes wide open filled with awe in others.
+
+Tons of notes are scribbled down, and I wait longer than proposed, a full three minutes before motioning for the booklet back.
+
+The old man bows over and over in gratitude as I turn to leave.
+
+“Senior, may I please ask your name. I must know where you came across such a text.”
+
+“My name is Li Hao, but it’s better you don’t ask about where this text is from. You have an old farm far from the city don’t you? Test out those farming methods you copied, I’ve never tried them out myself. Maybe I’ll return to see the results one day. It’d be best if we kept this transaction a secret between us until then, don’t you think?”
+
+His eyes widen in shock again as the doorbell above the exit chimes, “Understood, Senior Li, your orders will be followed.”
+
+The bowing man is left behind, and Lan Xin walks beside me with a strange expression as we walk out of the alley and even further away from the center of the city.
+
+“You know, it is odd that you practice this mortal physique. Did your family not give you a better one…? Or is there some special method used to speed up the assimilation process that can only be done with a Martial Physique? I thought it took decades to hit the mid stage.”
+
+I shrug, “It’s just the first physique I got my hands on, there’s nothing special about it.”
+
+A late stage qi refining shop owner greets her from across the street, and she quickly loses interest in me to accept the praise.
+
+I stop by a few small initial stage and mid stage qi refiner owned shops to pick up an assortment of low grade talismans, both offensive and defensive.
+
+There is a shop selling inferior grade elemental stones for less than 10 spirit stones each. A lot of them hardly give off any energy, but there is a dull flicker deep in their cores. I really only need the fire stones, as their upgraded versions will be my payment to Lan Xin moving forward.
+
+However, to clear out his whole stall of over a hundred assorted stones from all 5 elements, I toss the merchant a thousand spirit stones, and move on.
+
+From a stall just a few steps away, I grab an inferior grade cauldron, a large glass jug of purified spring water, and a stack of mid grade soothing fire talismans next. This is all that I’ll need for one of the tea recipes in my Martial Path booklet.
+
+“That’s it. We can leave. Thank you for showing me the city.”
+
+Lan Xin pulls out her flying vessel and gives a dismissive scoff, “You only stepped into the central city for a few seconds… We just spent an hour wandering around the back alleys and minor qi refining cultivator streets.”
+
+“I got what I came for. There is no need for anything more today.”
+
+She hesitates like she’s about to respond, but lets out a sigh instead and turns away from me as I board. We drift up into the sky, and I look back at the three massive mountains around this city as we leave. I feel like I know less about this place now than I did flying into it.

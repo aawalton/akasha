@@ -1,0 +1,175 @@
+---
+id: 265e4b5f-f50e-5d17-bad5-a08e29cb278f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 383: Fleeing Through an Angry Forest"
+slug: 0420-chapter-383-fleeing-through-an-angry-forest
+partOf: dungeon-of-knowledge-complete
+position: 420
+ownLength: 2524
+unit: words
+ownProgress: 2524
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2612725/chapter-383-fleeing-through-an-angry-forest"
+royalRoadId: "2612725"
+markedReadAt: "2026-06-29T20:26:15.942Z"
+---
+
+Malika landed lightly in the forest beside Mato and Calen and immediately pulsed her healing magic through all of them at the throbbing palpable weight of the aura of despair that flooded the air and seeped in through every pore.
+
+You have gained Clarity.
+
+She had Fear Ward, but she wasn’t about to trust a cocktail drink over her own bloodline ability – no offense to Morwynne.
+
+Up ahead, the dark figure of the Blind Lich loomed large with incomprehensible spells billowing into the air about him. The desiccated husk of Tol’brekk lay sprawled across the ground like a sun-bleached heap of whitened bone. A familiar polished pyramid of black stone hovered behind the Lich, and shifting with unnaturally stiff movements beside it stood the blackened and rotting form of a Dryad. There was a hole the size of Malika’s head bored through the center of her chest.
+
+But Malika’s eyes were glued to the small, crumpled heap on the scorched forest floor. Nestled up against the thick roots of a giant oak that had been snapped in half, Ali lay in repose as if she had simply curled up for a nap – but beneath the mud-splattered green hair, her face was twitching and trembling as if wracked by great pain.
+
+“Malika. We will hold off the Lich – he is still too strong for you. You get Aliandra and flee with your friends,” Rezan said, his face twisted into a grim mask as his eyes never left the Lich for even an instant.
+
+“Elder Rezan Jin,” Nevyn Eld hissed, without bothering to turn. “Surely you cannot believe you are my match?”
+
+“We will have to see,” Rezan said, lowering his center in preparation. “But, I did not come alone.”
+
+At that moment, a pillar of lightning and dancing flame flared beside the elder, and Lyeneru Silverleaf materialized in the center of the conflagration, bow drawn and arrows nocked to the bowstring.
+
+“Aah. You brought that pesky Night Elf,” Nevyn said with a sneer. “You are the reason I had to dismiss all my simulacra for the first time since Artur Dragonsworn and his annoying friends. I trust you are aware of what this means?”
+
+He’s at full power, Malika thought. Rezan had explained it on the way over. As unbelievable as it seemed, the Lich’s avatar they had faced in Aman Rak hadn’t even been close to his full strength but, standing here in the intensity of his despair aura, she had to believe it.
+
+“Nevertheless, we will still stop you here,” Rezan said.
+
+“Fool! I was plumbing the secrets of the realms beyond the rifts before you were even born,” the Lich shouted, his voice somehow echoing as if in a large hall. “I have mastered more soul magic than you will ever know!”
+
+A subtle shimmer caught Malika’s Soul Sight, and a wiry troll emerged from the Spirit Realm, leaning on his gnarled walking stick. Val’korr straightened up and leveled the branch at Nevyn Eld. “Pshaw,” he spat. “I had already forgotten more about the subtle intricacies of the soul magic you claim to have mastered before your race figured out how to root through the dirt for grubs to eat. Here, let me educate you, boy.”
+
+The wooden staff crackled with more soul mana than Malika had ever witnessed, and a blue beam intense enough to leave afterimages in her Soul Sight shot out to pierce the Lich’s bony chest.
+
+Nevyn Eld howled.
+
+“Go now, Malika, before… his minion summons a dungeon,” Rezan said, and then he blurred forward, leaving a gale in his wake.
+
+Malika didn’t need to be told twice. She stepped through space, appearing instantly beside Ali where she lay unconscious, and scooped her up. Her eyes caught Nevyn Eld’s blind gaze as he shot a bolt of dark magic in her direction, but as strong as he was, his shot had been rushed as Rezan’s fists came down like sledgehammers. Malika dodged the bolt easily, holding Ali tight as she launched herself away from the blast zone and pouring healing mana into her.
+
+An explosion rocked the chamber as lightning and fire smashed down on the Blind Lich. The force of Lyeneru’s assault tossed him sideways like a rag doll, but Malika did not wait to see what happened. Already, fungal creep was spreading rapidly along the ground, originating from the floating dungeon shrine and the undead dryad standing beside it. By the time Malika reached Mato and Calen, they were already contending with a half dozen plant monsters.
+
+A brilliant flare pulsed outward, lighting the withered corpse of Tol’brekk for an instant.
+
+“After him!” Rezan shouted, and Lyeneru and Val’korr followed him, chasing after the Blind Lich, wherever he had gone.
+
+“Ali?” Mato asked.
+
+“She’s healed, but I can’t wake her,” Malika said.
+
+“We need to run,” Calen said. “That dungeon is consuming everything.” As the words left his mouth, another misshapen Fungaloth materialized beside them. It raised its warty, gnarled head and let out a screeching roar and then smashed into Mato.
+
+Braconid branch spiders – the same as from the Blooming Rot dungeon – sprouted from the spreading creep, crawling toward them, already launching their spore poison clouds to hang floating and deadly in the air.
+
+A tree suddenly tore its own roots from the ground and began to stomp toward them while in the distance, an army of strange green humanoid shapes began to sprout like weeds, drawing bows nocked with green arrows.
+
+“Back! To the library!” Calen called, picking the clearest path. “We can’t go up, but we should be able to make it to the mines. Ali’s bosses will help us hold back the monsters.”
+
+“Right,” Malika said, and sprinted after him, with Mato bringing up the rear. Given the levels of Ali’s minions relative to the townsfolk, he was making the safest choice he could.
+
+***
+
+“This should stop them,” Calen said, sprinting through the archway.
+
+“I hope so,” Malika said, following him into the Landing, pulsing her healing magic against the potent hellfire aura of Ali’s imp boss. It screeched and hopped about in a mad rage, but it held its fire, perhaps recognizing the insensible form of its summoner still cradled gently in her arms. Mato bounded up and into the fire right after her.
+
+Hellfire against plants. It should work. But deep inside her heart, Malika felt the knot of doubt twisting. The dungeon – the reincarnation of the Blooming Rot – had expanded unimaginably quickly, consuming the entire jungle and its hordes of plant and fungus monsters. Dozens of Fungaloths and dark Treants had swarmed every boss on the way down, and the relentless legion of strange plant-men had laid down a withering hail of arrows from afar. But this time, they would face a pure fire boss.
+
+Still, the voice of doubt within her reminded her that while it was a raid boss, it was only level sixty. Many of the monsters the dungeon was throwing at them were evolved – even Calen was worried. She retreated into the Landing with her friends, sharing her healing magic to ensure they would be able to fight if needed.
+
+Then, it came. Like a relentless tide of fungal sludge, the creep grew at an astonishing pace, washing up along the walls of the tunnel and spreading rapidly through the Landing itself. Immediately, it caught alight in the hellfire aura, but it flowed onward, more and more growing over the smoking, smoldering layers. Creep Spores sprouted from smoking pods and erupted from charred fungal growth, throwing themselves mindlessly into the flame. Every detonation spread the creep further. Moments later, the horde of monsters erupted from the tunnel, charging the Hellfire Imp with howls and shrieks of hatred.
+
+“Holy fuck, this is not good,” Mato growled, immediately shifting back into Bear Form.
+
+The Hellfire Imp reacted to the assault by launching five simultaneous empowered and accelerated balls of roiling hellfire, all of which detonated within the confines of the entrance tunnel. Smoking monster chunks rained down through the chamber, bouncing off walls and splatting into the creep. Everything immediately caught fire. The screeching Hellfire Imp summoned a dozen more imps and then unleashed its minions at the attackers.
+
+The wave of monsters from the revived Blooming Rot dungeon ground to a halt, pouring into the cavern and being summarily burned to ash by the sheer volume of hellfire and the fireballs that fell like rain.
+
+“That’s bad news,” Mato said.
+
+Then Malika saw it. From within the hordes, a single monster stepped up. It was a bark-covered humanoid creature with four arms and two bows. Leaves sprouted from its head, and hazel brown eyes just like Lira’s squinted as it aimed. Even from this distance, Malika could sense the power of its presence.
+
+“Three-mark Sylvan,” Calen said, already unleashing volleys of arrows in its direction. Malika’s notification chimed as he shared what he saw.
+
+Archer – Sylvan Elf / Plant – level ??? (Nature / Death)
+
+The mana in the chamber rippled, and the Sylvan swelled, growing taller and sprouting branches and thicker bark from its back. It drew back its bow strings, and an array of magical arrows appeared, launching into the chamber and ripping through hellfire imps, reaping them like chaff.
+
+“It’s… a raid boss!” Calen yelped.
+
+“You’re serious?” Mato asked, clearly having repeated himself to both of them.
+
+“Yes, the dungeon just turned that thing into a raid boss! We need to run.”
+
+Malika turned and sprinted, hoping the rune-guarded doorway would hold them back for a while. “There’s not a lot more dungeon left,” she said.
+
+“The rift chamber,” Calen said, sprinting beside her. “Ali put Mok’freja there. An evolved ice troll should be strong enough to face this.”
+
+But as they ran, Malika could already see the creep accelerating ahead of them. “How is it doing that?” she asked. “How is it so fast?”
+
+“I don’t have Ali’s mana sight, but it looks like it’s consuming her domain, using her mana to establish itself,” Calen said.
+
+As soon as she heard it, she saw it. Whatever was driving this dungeon was like a parasite, invading a host and turning the resources it found into weapons to fight.
+
+They sprinted or flew past the tar pits and rocky crags, dodging the monsters that began to appear on the edges of the fungal creep, desperately trying to outrun the avalanche of summonings the dungeon was throwing at them.
+
+Finally, they arrived.
+
+Malika burst through the arched doorway into the rift chamber and immediately dodged a continuous stream of ice bolts fired from above down into the center of the room. She pulled up short the instant she realized the chamber wasn’t empty. A thorn-laden vine lashed out toward her, and she dodged again, careful to hold Ali close.
+
+Down below, in the center of the rift chamber, a deadly, familiar monstrous plant sprouted.
+
+“Mana Eater!” Calen said, identifying it immediately and launching volleys of arrows down into the creature. Mato charged, filling the chamber with the echoes of his roar. Just as before, the monster suddenly swelled up to more than twice its previous size as it filled hungrily with domain mana.
+
+Another boss. Malika didn’t need to wait for Calen to confirm it. Carefully, she laid Ali down on the ledge beside Mok’freja.
+
+“Protect her,” Malika said in Trollish.
+
+“How the hells can we even stop this?” Calen shouted, but his hands never paused as he launched volleys of arrows back the way they had come.
+
+The tall ice troll glared at her with rage-filled eyes but nodded once without pausing her onslaught.
+
+Malika threw herself into combat, unleashing fury with her Soul Strike. Vines lashed out in all directions, the attacks far more devastating within the much smaller, cramped space.
+
+We can kill this! she thought. It would be hard – they didn’t have Naia’s help this time, but they had an evolved ice troll raid boss on their side. She punched again, sending the pulse of her soul strike right through the huge plant monster. All along its trunk, the tiny blue flowers shimmered, a scintillating ripple of ethereal beauty, and she immediately reacted by spending all her mana to make stamina, pumping the excess into accelerating her body to the extreme. The blue spores exploded from the shivering trunk, somehow filling the entire chamber in a dense cloud.
+
+How is it so large?
+
+Suddenly, the ice bolts ceased.
+
+What? Malika glanced around in surprise. It took her a few moments to realize what had just happened, but up on the ledge, the ice troll stood still, presumably drained of all its mana. But then it roared incoherently and turned and punched Ali, still lying unconscious on the ledge beside her.
+
+“Ali!” Malika shouted.
+
+She teleported up to the ledge, but Calen had the same idea, swooping in and snatching Ali from the grasp of the suddenly incoherent and enraged troll.
+
+“What’s wrong with this thing?” she shouted, punching the troll in the neck and driving it back.
+
+“Ali lost all her mana,” Calen said.
+
+“Aah, shit,” Malika cursed as she suddenly understood. When she was drained, her mana reservations all dropped, and she was forced to rely on stamina instead. Ali didn’t have that choice. She must have lost every single minion she had reserved as soon as the Mana Eater filled the chamber with its cloying spores.
+
+“This is bad,” Calen said.
+
+They didn’t have Ali or any of her minions, and they were facing a raid boss that had a healing debuff and a mana drain. Calen likely could barely shoot without mana, depending on his mana leech – it was only her and Mato that could function without it. “We need to escape,” Malika said. “Recall.”
+
+“Yes,” Calen muttered, but then a thick whip vine lashed out. Malika ducked instinctively, but it ensnared Calen, coiling around his waist and yanking him and Ali clear across the room. They bounced once right in front of the rift, and to her horror, both of them fell through it.
+
+But the rift was closing.
+
+In a flash, Malika was across the room, sprinting through the air and using teleport for the rest of the way. Halfway there, the boss unleashed a second cloud of mana-leeching spores, and the rift collapsed. Even with her speed, she was unable to make it – by the time she reached the rift, it had shrunk to the size of her fist. A moment later, it vanished.
+
+“Mato! We’re going!” she yelled, retrieving two recall potions. She tossed one at him and, as soon as he vanished, she broke her own. There was no choice left. They needed to run, even if it risked bringing this dungeon down on the rest of Myrin’s Keep. Hopefully, with the help of the rest of the guild, they would be able to stem the tide. Somehow.
+
+As the dark cloud of smoke enveloped her, she eyed the spot where the rift had been. Calen has recall potions. He will bring her back. He must!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

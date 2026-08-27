@@ -1,0 +1,233 @@
+---
+id: 9d534c5c-e2df-5797-bce7-fe6df48e9cac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35:  Chains of Corruption"
+slug: 0050-chapter-35-chains-of-corruption
+partOf: ends-of-magic
+position: 50
+ownLength: 3021
+unit: words
+ownProgress: 3021
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2808791/chapter-35-chains-of-corruption"
+royalRoadId: "2808791"
+markedReadAt: "2026-06-29T20:08:52.059Z"
+---
+
+Nathan looked around, trying to get a sense of where they were now that the storm of magic had stopped. The corrosive death mana had cleansed every bit of dust out of the air for miles around. The mushroom clouds from Stella's nuke spells had been cut in half, only the top portion remaining.
+
+It meant that he could see for miles, even if the lighting was dim enough to render the world greyscale. The geography around them had been totally reshaped. The ground was several hundred feet lower and was scoured clean. The Heirs floated in midair over a deep valley that pointed towards the ruined city like an arrow intended for astronauts.
+
+Stella broke the oppressive silence with a curse. “Dragon’s breath, that was a spell beyond Endings. I understand why Brox fears the obelisks of bone.” She glanced towards the city that was now revealed on the horizon, then back to Nathan. “Will that happen again?”
+
+Nathan went to answer, and found he couldn’t speak. He was vibrating with power, his Stamina higher than ever before. His skin steamed faintly as some of the excess energy drained away, but even with his improved control and upgraded skills, the amount of magic he’d just absorbed was absurd. He took a moment to master and preserve the energy. He had the sense he might need to use it to enhance his aura soon enough.
+
+Once he had control, he answered. “We’ve got a few hours. The obelisks drew on the corruption of the blight for that spell, and right now it's drained for miles. The Seal will replenish it, but we have some time.”
+
+“Then we should close the distance first,” Stella declared. Then she looked sideways to Khachi, who was floating limply in midair, light pouring from his mouth and eyes. “Khachi? Are you well?”
+
+Nathan probed at the wolfman with his magical senses, fearing that something had gone wrong with the cleric’s source of power. He’d expended an incredible amount of energy in that final prayer to ward off the parts of the attack that had gotten past Nathan. But his divinity wasn’t cracked or dim. It was vibrating, and as Nathan watched, the aetheric construct sprouted off new shards, growing larger and more faceted. The light spilling out of him fluctuated higher in response, and Aarl grabbed Khachi’s shoulders and was about to shake him.
+
+“Leave him alone,” Nathan said, holding up a calming hand. “He’s having an Insight, or a revelation of some kind.”
+
+“Movement,” Sarah said, interrupting them. She was squinting towards the city, eyes narrowed. She raised her rifle and sighted down it. A moment later, she fired. “Flying mages. Zombie mages?”
+
+Nathan squinted towards the cities. He could see a bunch of airborne dots headed towards them. One of them sparked with flame, but didn’t vanish. Sarah tsked, then loaded penetrator rounds and fired three times in quick succession. None of the enemies fell, and Sarah stared down at her rifle in annoyance. “Powerful shields.” She stowed it away and pulled out the bow from the vault, the one seemingly wrought from gold and platinum. It was enchanted with wizardry and more to change shape and enhance any arrow fired from it.
+
+Nathan could sense the flying undead now that he was focused on them. They were indeed mages, though they were also undead. “My guess is that those are what the Questors called liches. About fifty of them. They feel about as powerful as Gemore war mages.”
+
+Stella grinned and rolled up her sleeves. “I welcome a battle between mages. Though not a fair one. Nathan, will you handle defense?”
+
+He nodded, smirking slightly. “Another nuke spell?”
+
+She shook her head. “Any decent mage could prevent detonation if they knew the danger. This will be a more targeted battle.” She spun up a dozen laser tubes and started charging up just as many magical capacitors. “Let’s see them block this.”
+
+Sarah held a round against the string of the bow as if it were an arrow. She closed her eyes and raised the weapon, aiming it towards the approaching mages, murmuring low enough that Nathan could barely hear. “Davrar rewards risk.”
+
+Nathan held an arm out to give Stella pause, jerking his head towards Sarah. He did not doubt that the mage could win the fight against the oncoming liches, especially with him on defense. He could easily carry this fight on his own if he cut his aura loose. But Sarah had been trying and failing to master this weapon since Esebus, and he thought this might be the opportunity she needed.
+
+Stella gave a quick nod in return. She finished preparing her spells, but held fire. The charged capacitors gave off a menacing hum, ready to flow down the conductive path the lasers would leave behind.
+
+Khachi gave a soft sigh and straightened his posture. He’d finished whatever revelation had caught him in. If Nathan had to estimate, the cleric had doubled his total divinity, and his fur had lightened to something almost blonde. He took in the scene around them, noting Sarah’s intense focus and how all of the Heirs were giving her space.
+
+Sarah released her breath in a low sigh. “The intent is the key. Bowstring or trigger, the purpose is the same, the intent speaking through the weapon.” The bow melted in her hands, reforming into a long rifle. It looked much like her old one, except instead of the battered wood and steel from Beatred’s smithy, it was light wood with fittings in gold and platinum. She opened her eyes with a satisfied smile, then pulled the trigger. The report of the shot sounded different than before, more like a chiming bell than an explosion of gunpowder.
+
+Far away, a magical shield sparked and failed. An ancient undead corpse fell, headless. The Heirs all applauded politely, and Sarah rolled her eyes at them, but her smile was wide. “Waking giants, kill the enemies! We’re fighting a blight, not a nest of stalkers." None of it slowed her from chambering another round and using it to knock a second lich from the sky.
+
+“This isn’t a true threat,” Stella responded, flicking a dismissive hand towards the liches. "After the attack we just survived, they’re goats to a castlebear.”
+
+“That dismissal will see us dead from an unknown angle,” Khachi rumbled in disagreement. “Sarah has her Insight, let us vanquish this foe.” He clasped his hands together and spoke his prayer in a matter-of-fact tone that contrasted with the weight of his words. “I claim the sky. Righteous light shall scour you from the air. Yield to my dominion.” The dozen spears of golden light that formed around him underscored his sincerity.
+
+Stella shrugged and opened fire herself. A dozen beams of searing energy reached out to tag the approaching enemies, followed by the sky-shattering sound of a dozen lightning bolts flowing along the beams to fry their targets. She took a couple of seconds to recharge both the laser tubes and the capacitors, then fired again, accompanied by Khachi’s golden magic.
+
+The liches cast spells of their own. They sent swarming darts of death magic, cutting slashes of force, and a dozen more attacks of various kinds. None penetrated Nathan’s antimagic, even as the undead mages tried more and more esoteric attacks. They never broke off, never stopped trying to overcome Nathan’s defenses.
+
+Left to focus entirely on offense, the Heirs finished off the flying enemies quickly, battering through their shields and destroying the bodies within. Stella and Khachi’s attacks vaporized them utterly, while Sarah’s shots left headless bodies to fall from the sky, robes whipping in the wind until they impacted the smooth rock below.
+
+“Hear me, it’s time to finish this,” Aarl said, idly swinging his sword back and forth before bringing it to rest, pointing at the city ahead. The illusions had been torn away, and the city was revealed in its true form, a ruined maze of ancient buildings bridged by struts of bone that supported towering pillars. The aptly named obelisks of bone had been disguised as clocktowers and palace spires, but now they stood revealed, capped with dark crystals that radiated fibers of black energy. The outer half of the city had been destroyed by the four craters from Stella's spells, which had also annihilated the forest of flesh that had grown around it.
+
+“Our time is limited. Stella, can you ferry us with the wind?” Khachi asked, brows furrowed as he examined the city.
+
+She grunted her agreement and started spinning up the grand cycle of wizardry-infused wind magic. She was already improving the spell, adding new elements to make it more stable and easier to control.
+
+“More fliers launching from the far side of the city,” Sarah asked. “If we slow to deal with them, we risk the obelisks recharging.”
+
+“Can you shoot the crystals?” Nathan asked hesitantly. “I don’t know if it will work, but it might be an effective way to prevent any more spellcasting.”
+
+He was met with an embarrassed silence before Sarah raised her new rifle and fired with another ringing chime. A faint spark of fire popped against one of the crystals, and Nathan realized that they were larger and farther away than he’d imagined. Each crystal was taller than he was and almost half a mile in the air. “I guess not,” he said.
+
+Sarah shook her head in a quick jerk. “I saw a wobble. I’ll try a penetrator round and aim for the connection point with the tower. ” She loaded and fired again, and this time the crystal seemed to pop up from the tower and detonate with a rolling conflagration of death magic that knocked down the rest of the tower. “That’s the target.”
+
+They waited for Sarah to demolish every single one of the obelisks of bone, punching through magical shields and leaving jagged spikes where there once had been a full magical ritual circle stretching across the entire city. Nathan felt the ambient magic of the blight shiver at each destruction, and the outpouring of death mana intensified from the city as the constructs utilizing it were destroyed.
+
+At last, they flew forward. More monsters attacked them, but it seemed desperate. There weren’t any grand coordinated attacks, just random monsters coming at them in a steady stream. The Heirs dealt with them easily, with whoever noticed the monster usually killing it. The exception was Nathan, who kept his aura wrapped around the Heirs and watching out for any nasty surprises.
+
+“Why aren’t you using your aura?” Stella asked, noticing his restraint. “You used it to block the gigantic spell.” She idly zapped a flier with a lightning bolt. "The blight seems to have nothing else."
+
+Nathan shrugged. “Caution. I don’t think it was obvious how we blocked the spell. There was too much power for anybody to really know what was going on. I’m worried about one final surprise.”
+
+“We’ve faced every danger that was named,” Aarl commented dryly. “Grave Tangles, living shadows, liches, the obelisks of bone. All conquered.”
+
+“The flesh tyrants,” Sarah reminded him. She kept a lookout in all directions and was likely getting more kills than the rest of the Heirs combined. Her new rifle didn’t just seem to enhance the power of her shots, it also made her movements faster and more certain.
+
+Aarl waved down at the devastated forest that they were just approaching. “They were probably in the trees, shaping the monsters that approached us. My bones say that that leviathan with the rock shield was created to fight us after we entered the blight. The flesh tyrants likely did the shaping.”
+
+“True aim,” Sarah responded, eyes flicking among the ruined landscape as if she’d be able to pick out a flesh tyrant corpse from the ruins below. There were some enormous corpses down there. Several giant undead had been torn to pieces, flash-cooked, and partially vaporized by Stella’s spell.
+
+Nathan responded to the original conversation, wanting to justify why he was still holding back. “We’re not at the Seal just yet. The blight was supposed to be a challenge for Questors. A dungeon for them to conquer, a grand story to enjoy. It requires a climax. If there is a grand intelligence, it will fight us at the Seal. I want to hold every advantage I can for that confrontation.”
+
+“We follow your light,” Khachi replied, nodding sagely to Nathan’s words.
+
+Nathan smirked, unable to help himself. “No, to tell it truly, I think we follow your light.” He gestured towards the cleric, who shone with a steady and constant glow.
+
+The wolfman simply sighed and rolled his eyes, turning back to the terrain below and conjuring forth a spear of light to annihilate a creeping millipede that emerged from a hole in the ground and reared back to spit a stream of poisoned darts at them.
+
+The Heirs passed over the devastated terrain where Stella’s nukes had wiped the land clean without any serious threats. Nathan kept expecting something dangerous to rush at them, but nothing emerged from the devastated land. The outskirts of the city were similarly ruined and similarly empty. It would have been a nightmare to fight through the rubble-coated streets, but the Heirs simply flew over the mess and into the inner city. Here, there were more monsters, including several grave tangles occupying city squares or strategically cleared zones. There wasn’t any way to enter the city without coming into whacking range of at least one of the giant monsters.
+
+Aarl surveyed the giant undead that lay in their path and spoke up. “I would take this target, but pride is no reason to court risk. Stella?”
+
+She grinned. “Khachi should test his Insight on this foe.”
+
+The wolfman looked at her in surprise. “Sarah’s Insight is more profound than mine. She should claim this kill.”
+
+The woman in question looked at him in mild confusion. “This is not my preferred enemy.”
+
+Nathan pitched in. “The rest of us have killed a Grave Tangle before. You should get one. Stretch your new Insight a bit. I also want to recover some Focus before we get to the Seal.”
+
+She grumbled but raised her new weapon, deftly sliding an explosive round into the chamber. The magical gun’s action slid forward on its own, and Sarah fired with a smooth chime. She reloaded without lowering the weapon, firing as soon as the bolt finished sliding forward. She paused to palm a handful more rounds, then fed them into the magically self-actuating weapon with sleight of hand.
+
+Far downrange, the enchanted and overcharged explosive rounds tore chunks out of the grave tangle. It seemed to vibrate in anger, and the tentacles of flesh draped across the landscape shivered to life, rising to drift across the sky. It didn’t seem to know where the Heirs were and simply probed around for a moment, the hill-sized mound of flesh barely reacting as rocket-sized explosions blew chunks from its hide.
+
+It extended three skeletal cyclopean heads upwards on thick vertebrae to survey the land around it and look for the Heirs. Nathan was keeping them hidden from magical senses, but there wasn’t anything but distance stopping it from spotting the Heirs visually. That wouldn't be hard with Khachi’s restrained glow. Except that each of the heads exploded in turn, one round each detonating the bones and destroying the magic they contained.
+
+“That pouch really is bottomless, isn’t it?” Nathan asked, watching Sarah pull another handful of rounds from the nondescript leather pocket strapped to her bandolier.
+
+“It is,” Aarl confirmed. “It has limitations, but duplicating simple enchantments like this is its purpose, and that weapon enhances those enchantments.”
+
+“We should get her some more kinds of bullets,” Nathan noted, watching Sarah continue to work on the monster. She was cutting off the tentacles, each detaching from the main body after two or three shots to the base. It struggled to regrow its limbs and opened its mouth to roar. More shots went into the open mouth, and the roar rapidly changed in pitch as bullets mauled the giant creature’s vocal cords. Nathan absorbed the extra death magic that came their way. It was barely above the background of the blight.
+
+The creature eventually figured out their general direction and started moving towards them. It looked deceptively slow, but that was only true for the scale of the monster. The wriggling hulk left a trail of destroyed wreckage and pulped flesh in its wake. It tried to extend more tentacles to attack them, but Sarah shot those off too. Then she started drilling a hole through the creature, getting dozens of rounds into its fleshy innards, where the shockwaves from her explosives started rippling through larger and larger areas of the creature.
+
+Eventually, it fell, the animating magic running out and leaving behind a pulped and reduced mound of flesh that was still larger than most of the buildings around it. Sarah wiped a sweaty forehead with a hand. “There. I have done my deed, and I regret it. I yield any future grave tangles.”
+
+“Fair enough,” Nathan noted, then pointed towards the center of the city. “It’s time to finish this.”
+
+Permanent Talent 1: Arcane Nullfield 10
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 3
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7288/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 6
+
+Inspiration 9
+
+Impulse 6
+
+Mystical Discernment 9
+
+Forewarning 7
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 9
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Control 10

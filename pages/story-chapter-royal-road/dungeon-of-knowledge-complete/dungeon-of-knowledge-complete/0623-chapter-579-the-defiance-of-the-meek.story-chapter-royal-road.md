@@ -1,0 +1,287 @@
+---
+id: 36c132a9-d070-5257-a3b2-d84ad7e2b7ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 579: The Defiance of the Meek"
+slug: 0623-chapter-579-the-defiance-of-the-meek
+partOf: dungeon-of-knowledge-complete
+position: 623
+ownLength: 4643
+unit: words
+publishedAt: 2026-03-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3180064/chapter-579-the-defiance-of-the-meek"
+royalRoadId: "3180064"
+---
+
+Gaze upon her, all ye wicked, and despair, for you have driven her to wrath.- Book of Future Echoes, Part 8, Section 17 by Tol’zerath, The Seer of Divergent Paths (New Elorthian Edition).
+
+Lirasia smiled softly to herself as she slipped out of the heartwood of the World Tree and into the forest, shedding her trance like shedding autumn leaves.
+
+Kerrin had most certainly advanced from the infusion of mana and sap, but, as usual, the first Tree Meld took a lot out of those who chose to undergo its potential for accelerated learning. It would take a while for her to fully recover, but she’d be back to her usual, eager self in no time.
+
+And she had most certainly felt Aliandra’s domain react to the change.
+
+Speaking of Aliandra, where is she? Time and awareness passed differently as a tree, and somewhere during the Tree Meld, she had lost track of her.
+
+Lirasia projected her awareness outward like a rippling wave through her domain, her mind filling with the rich sensations of life and growth. She reeled just a little at the dizzying scope of perception available to her with her new class and tier. Sensations from across the continent were drawn to her by the sap and mana that flowed like rivers through her roots – and when they came, it was with a phenomenal depth and intimacy of knowing that threatened to overwhelm her understanding.
+
+She withdrew a little, instinctually filtering through the information. I will have to take this slowly Now, where is she?
+
+Far and wide she searched, but of Aliandra, there was no sign. All she found was the scene of battle, and Malika struggling with the Lich, while she was buried under a deluge of rapidly reconstituting oozes. That’s novel – Naia? I need to understand more. From her roots down in that cavern, she sprouted swathes of wildflowers pulsing with overlapping restoration auras and wisps to help ward off the withering decay, and immediately felt Malika and the oozes steady.
+
+Her heart tightened as she cast about, searching with increasing desperation. Already, she had heard the Realm notifications for Cycle of Rebirth, and the prickling of apprehension crawled under her bark. She swirled through Aalion, finding it empty. Next, she swept through the strange deserts and forest realm of Zulkora but found only the gargantuan ripples of a passing Sandwyrm.
+
+It was in the Spirit Realm that Lira finally found her. She didn’t actually find Aliandra directly, but with her awareness spanning the veil with the roots she had grown into the realm of images and echoes, she suddenly heard the resonant peals of a fresh realm notification.
+
+[Realm] Aliandra Amariel [Defiance of the Meek] has created a legendary item.
+
+A sudden burst of demonic energy surged through the Spirit Realm on the heels of the echoes of the notification, and she clutched her hands to her chest as a deep sense of foreboding and dread crashed down upon her. A darkening and ominous pulsation began to affect the mana of the domain.
+
+Oh, Aliandra! What have you done?
+
+But while Lirasia had come to trust her instincts and premonitions over the years, she never let them take control. Her magic surged, and she merged back into the World Tree and then stepped out of the small oak Aliandra had so thoughtfully planted in the center of the guild hall for just such an occasion.
+
+The hall was busy, but filled only with those too low-level to be effective against the undead horde pressing against the walls. They ran to and fro like a disturbed termite mound, carrying trays of potions and scrolls in an endless scramble of errands, but despite the bustle, she instantly spied the person she had meant to find.
+
+“Old troll,” she said. Though she disliked the harsh language of the trolls, her command of it was impeccable, trained by Tol’zerath himself, several ages past, and it would serve to underscore the urgency of her request, “I have need of you.”
+
+Val’korr’s head snapped up from the tome he was studying, staring at her for a moment in surprise. “What is it, Great Mother?”
+
+“I fear Aliandra may have done something ... desperate.”
+
+“Oh, no! I’m coming,” he said, leaping to his feet without even bothering to summon his walking stick, for once not indulging his pompous need to argue everything to death.
+
+Malika could move, even bound as she was by Nevyn Eld’s empowered Decrepify and his Gaze of the Shattered Soul. It required an exorbitant expenditure of stamina fed to her Divine Step, but even this advantage was nullified by the sheer impenetrability of his Aegis of Absolution.
+
+She gave up a little more stamina to overcharge Perfect Body, boosting her attributes a bit more against the inexorable drain and healed herself again. Nearly eighty percent. Her skills cost next to nothing to power after so long in battle, and yet, she was going to run out of stamina soon. No more than a couple of minutes, and it would all be over.
+
+Perfect Body could boost all her attributes, but the increase was relatively small. For endurance, dexterity, and wisdom, her skill had an enormous percentage boost, which got larger the more she overcharged the skill, but for all other attributes, she had to heal against the drain. Mantra of the Ancestors might have been able to keep pace if she’d had several months to hone it, to level up the skill with focused training, but as it stood, she fed nearly all of her power into healing her vitality only, and she was slowly losing ground.
+
+How the fuck does he have so much mana? The Lich appeared in her Soul Sight as a dark, bottomless well of power.
+
+Void sizzled as a fresh ooze leaked out of wherever Naia had spawned it, and it dropped on top of the Lich with a loud squelch. It slid down the Aegis of Absolution, making the Decrepify beam flicker momentarily as it sliced through the ooze. Not one to let a good thing go to waste, Malika shoved more stamina into Mantra of the Ancients and reclaimed another point of vitality while she shifted sideways to hopefully avoid more, but the Lich blasted the ooze away with a discharged corona of necromancy and bore down on her with even more intensity.
+
+I don’t have much longer. While Naia would be throwing another wave at the Lich soon, her deluge of oozes was showing signs of the long battle. There were fewer of them, and they were coming slower now. And Ali…
+
+Malika glanced sideways at Ali, but suddenly, her friend flickered, reappearing behind Nevyn Eld with an expression of such intense focus and determination that Malika’s heart froze for just an instant at the sight.
+
+What? How did she teleport? Did she also break the spell? But that was clearly not the case – after so long, Malika knew the shape of her friend’s teleportation spell like the back of her own hand, and Cael’s spatial suppression still weighed heavily on the grove. Whatever she’d just done, it wasn’t that.
+
+Wait, what happened to your arm? Ali’s left arm was held outstretched toward the Lich, her fingertips reaching toward the sphere of his Aegis. But Malika recoiled from the cursed energy that blazed from that arm. A demonic corruption that twisted and warped the energy within her blazed across her Soul Sight, and Malika’s plight and struggles against the Lich’s Decrepify paled into insignificance at the sheer enormity of what radiated from that tiny Fae arm.
+
+Oh no, Ali! What’s that monstrosity you’ve created?
+
+Those serious amber eyes flickered to meet hers in the instant before Ali froze under the power of Nevyn Eld’s magic. An iron band of tightness clamped around Malika’s chest as her heavy heart began to quail at Ali’s plight. How well she knew the face of desperation. For years, in the mirror she had seen that girl, that soul-consuming despair etched in her gaze.
+
+But it was not exactly despair she saw in Ali’s amber gaze this time. There was a steel determination in those eyes, the likes of which Malika had not seen before. And… hope?
+
+Wait… Malika’s attention flickered to the horrible tattoo displayed on Ali’s arm. The flicker of movement that put her right behind the Lich. Why would Ali go to all that trouble, just to throw it all away by tripping into Nevyn Eld’s Gaze of the Shattered Soul? Ali would never have missed something so obvious. Which meant…
+
+She’s counting on me! And there was one thing she could do. Ali had seen it. She had included it in her plan.
+
+Malika still had enough stamina.
+
+For now.
+
+Power blazed from her eyes, rippling outward towards the Lich. She had earned this skill the hard way, and her understanding was complete. Martial Disruption, combined with her own Gaze, tore into Nevyn Eld’s skill like a rhinoceros trampling through reeds, and his Gaze of the Shattered Soul wavered and burst, splintering into a thousand pieces for just a moment.
+
+It was not enough, but Malika had no more in her. Already, she could see the Lich gathering the threads of his spell and weaving them back together.
+
+Ali’s wings buzzed loudly in her ears as she rushed across the clearing, shooting past the gray image of Malika’s frozen struggle, and placed herself right behind Nevyn Eld. She reached out with her trembling left arm to touch the echo of the Aegis, took a deep breath to steady her nerves. Dark blood leaked steadily from the demonic runes, staining the tattered remains of her sleeve and dripping from the threads onto the ground. She cast several buffs in succession and then dispelled her witch doctor’s Spirit Banishment.
+
+Malika… She glanced at her friend, wishing she could tell her.
+
+As color bloomed into her world, she readied her weapon, still clinging to the irrational hope that she would have a slight window of opportunity, but to her dismay, her breath froze in her throat as her body and mana seized up, caught instantly in the grasp of the debilitating martial suppression magic. Not even her incredible mind- and spell-haste was sufficient to get off even a puff of magic. As her body stiffened up into a rigid board, her eyes caught Malika’s with her last moments of freedom.
+
+Malika… Then, she surrendered. I trust you.
+
+But Malika would never hear her words or understand her purpose. Doubt slammed into her heart, now that she’d flung herself intentionally into his clutches. What if she doesn’t… Her actions must surely look like a miscalculation to anyone, at least from the outside. How naïve she must seem to hope that the Lich’s ‘eye’ magic would work only in front of him. Especially when he had walked the world so long wearing his crimson blindfold that it had become synonymous with his evil clutches. He possessed a universal sphere of perception, just like Malika’s Soul Sight, and he was obviously using that to deploy his technique. She had learned he was once Ahn Khen from talking with Rezan Jin and Malika, and she had even witnessed his unerring accuracy fighting against Lyeneru above the Temple of Aman Rak, but would Malika remember she knew?
+
+Naia’s oozes continued to wobble and writhe as they dragged themselves across the clearing, and across the thick layer of sludge that was all that remained of their predecessors, throwing themselves ceaselessly against the Lich’s defenses.
+
+Ali would have cried tears of frustration if she could have. All that work, the struggling of her friends, the dreams people had placed in her care, the faces of those who dared to hope…
+
+But Malika’s mouth twitched up at the corners. To her amazement, a ghost of a grin found even through the torment and pain etched upon her face. Then her eyes blazed from azure to a zenith of pure white with new power; power Ali could feel prickling along her neck, and yet not see. Power that rippled through the clearing like a purifying breeze, blowing away the cloying smoke.
+
+A blaze of hope surged within her heart with an intensity to match the radiant power shining forth from Malika’s eyes.
+
+An immense gong sounded, and Ali’s body shuddered, and suddenly, she stumbled forward, catching herself with her fingertips on Nevyn Eld’s Aegis of Absolution. She left a smeared handprint of dark blood. It was like touching nothing at all, and yet, in all its tactile invisibility, it still blocked her fall with an unyielding wall of force.
+
+But… she was free.
+
+Thank you…
+
+She could not guess how much time Malika had bought her with that heroic effort, so, before she even gasped for her first breath, she gathered her mana. Feeding it one of her two remaining points of Authority, Ali fired Chaos Brand, The Corrupted Coil.
+
+Mana seared through her flesh as it raced through the runic inscriptions forged into her arm. A tearing roar split the air as a cone of golden sparkles blasted outward from her fingertips, but it was a spell unlike any Arcane Mana Burn she had ever witnessed. Unlike the skill wielded by her Eye of Agnor demons, this was no longer a spell of pure arcane affinity. Every single enchantment she had inscribed acted as a direct support for the Arcane Mana Burn. When she unleashed it, every rune blazed with a singular purpose. The cone of gold rippled with reality-warping flickers of void and holy magic, and tendrils of power tugged on her soul like an ethereal gravity well pulling her very essence in.
+
+She gritted her teeth against the pain as the magic cascaded off Nevyn Eld’s Aegis. And within it, he slowly turned toward her.
+
+“Is that the best you can do?”
+
+No. No it’s not.
+
+The Void Nullification skittered across the surface of the Aegis, eroding the exposed formations of mana around the martial skill portions, leaving it pitted and rough. But it wasn’t enough on its own.
+
+Ali, for all that she had disliked his methods and manner, had studied Nathaniel Sunstrider’s magic extensively. A broad array of runes flickered along her other arm, and she cast his most powerful spell: Time Stop.
+
+It had been one of her favorite projects, dissecting the genius of the Archmage and making it her own, but it ranked third in her list of powerful control spells. First was her own Arcane Recall, with its unparalleled freedom. Second was the twins’ time puzzle – the most flexible, provided she could do her work in that exact spot. Third were the five minutes granted by the Archmage’s spell.
+
+She reached for Domain Mastery.
+
+World Walker applied to Aliandra Amariel.Elite Domain Enhancement applied to Aliandra Amariel.Amplify Skill (Arcane Insight) applied. Domain Enhancement complete.Your reserved mana has increased by +3450.
+
+She skipped Domain Respawn – not that it was compatible with World Walker anyway. Unlike Nevyn Eld’s dungeons, she did not have an external source to generate her domain – if she died, the domain would die with her. There would be nothing left to respawn her, and even if it could work, she wasn’t certain the respawn would even be her. Minion ego only worked on minions, after all.
+
+With her Arcane Mana Burn tearing at his mana shield, she summoned magic from her right arm.
+
+Instantaneous Cast. Spell Power Infusion. Spell Penetration.
+
+The metamagic skills blossomed into rings of golden runic magic adorning her arm like glowing bangles, and then she unleashed Arcane Insight’s Dismantle, burning her final point of Authority. Her golden darts flickered out, crawling along the Aegis of Absolution as her will directed them to seek out every sliver of soul magic that held the shield together.
+
+The magic arced across the shield, seeking purchase while the Lich remained within, frozen in the act of laughing at her in his sinister rasping voice.
+
+She pressed her lips together firmly and poured more and more mana through her spells, her body shaking from the sheer force she was channeling. This was what she had finally realized about the Aegis of Absolution. It was a Mana Shield. The reason she struggled to break it was that he kept repairing it faster than she could destroy it. Only with the affinity of void magic and the signature Void Nullification of Azryet’s scions had she made even a detectable scratch.
+
+Safely separated from the Lich’s responses by the potency of Nathaniel Sunstrider’s Time Stop, she fed her magic relentlessly into his barrier, taking the entire remainder of her subjective five-minute window.
+
+Time Stop ended. The Lich’s laughter rang out, a sinister sound that left shivers along the back of Ali’s neck.
+
+Crack!
+
+A tiny fracture shot along the curvature of the black, glittering shield. Barely longer than an Elven silver penny and finer than the width of a sheet of paper. But that was all it took. The torrent of gold and black pouring from her throbbing left arm seeped into the crack, and it began to burn. An acrid stench tore at her nostrils as the magic began to dissolve, filling the inside of the sphere with curling white smoke. And the bigger the hole grew, the more purchase her magic gained, ripping and tearing at it, eating away at the structures like acid. Then the gold and black burst through, filling the interior of the shield with a maelstrom of destruction.
+
+But above the roar of her magic torrent, the throbbing of her arm, and the ringing in her ears, she could still hear the rasping laughter of the Lich.
+
+“Well done, Aliandra. You never disappoint. Your logic is as impeccable as your skill with magic is prodigious, just as I had hoped. A fitting replacement for your mother.”
+
+The dark chill of premonition slid down her spine.
+
+“You made but one error. One which you could never have foreseen – but fear not, I will enlighten you… after I raise your corpse and claim your magic.”
+
+The Lich stretched his free hand toward her, and a surge of mana rippled outward as a vast formation condensed. Pain lanced through Ali’s mind immediately, for a moment overwhelming the disorientation and pain from her cursed tattoo. A pain that was all too familiar.
+
+Dungeon rage.
+
+She had felt it from him before. It had happened the moment he’d destroyed her Divine Archon. There had been a brief flicker earlier when he took out her Pit Lord so easily.
+
+And when he tried to kill Naia.
+
+“How is that possible?” she had wondered, and once that idea was in her head, all the pieces had begun to tumble into place, an inevitable avalanche of knowledge that had culminated in her fleeing to the Infinite Maze. From the eyes of her minions within the throne room of the Crypt of Kings, she studied the very same Aegis of Absolution guarding his Phylactery.
+
+And his Phylactery was bound to his soul. In a very real sense, it was his soul.
+
+Within the confines of the Aegis shielding Artur’s immense dragon form and the altar, she had seen the Mana Siphon enchantment – the same one that powered her shrine. At the time, she had noted it was a little off, but she had assumed it was enchanted upon the Domain Artifact hovering nearby. But no…
+
+It’s on his Phylactery. She’d misunderstood only because the phylactery had been placed right beside the domain artifact and spelled into invisibility.
+
+In that dreadful instant, she had realized precisely how he had withstood so much damage to his mana shield and still seemed to have unlimited access to his spells and magic. She was fighting against the ocean of mana that was the Crypt of Kings. The entirety of a dungeon.
+
+Nevyn Eld is domain-bound. Like she had just bound herself. Likely, his phylactery was bound directly to the domain, and only his Avatar could leave without withdrawal, but that was hardly a limitation for the Lich.
+
+“You must realize it by now. You cannot win. You can never win. Your only choice is to submit to me – now,” Nevyn Eld declared.
+
+She did realize it.
+
+Malika was dying right beside her. She had held the attribute drain at bay for so long by boosting her own attributes with her growing stamina again and again, with her relentless healing, but there was a limit to even her resilience. Especially against a foe who couldn’t run out of mana.
+
+Calen and Mato were dying in the Crypt of Kings. The Fire Amplification was stacking up higher and higher, and they had no way to break the Aegis of Absolution.
+
+Ali would run out of mana long before she made the slightest dent in Nevyn Eld’s infinite reserves of mana.
+
+I should give up. It is only logical. But she couldn’t. She wouldn’t.
+
+While her black-flecked golden torrent poured unabated into the Aegis, the gap that she’d torn through the legendary defensive spell began to shrink. Inch by excruciating inch.
+
+There was a soft splat from above, an ozone-scented sizzle, and a void-affinity ooze spilled down the side of the spherical shield. It reached the hole and poured itself inside. At once, the oozes surged forward, arriving from all directions in thick, fluid swarms of protoplasm. Arcane oozes, puddles of darkness, and flickering things formed from warped space itself. Every last one of them shoved themselves through the hole.
+
+“Are you sure, Naia?” Ali whispered. “I’m going to blast him.”
+
+“I’m sure, Ali-friend. Together. You’ll see,” the nearby rock answered.
+
+It was impossible. An impenetrable shield blocked their raid group. And nothing and nobody could face the entire mana pool of a dungeon.
+
+Nobody… except another dungeon.
+
+Ali conjured another wreath of runes that flickered into existence, this time around her throbbing left arm. A simple translation of her shrine magic turned into an arcane metamagic skill.
+
+Mana Siphon.
+
+A thin, howling wind began to blow through the cavern as mana was drawn from her domain and through the ring of runic magic, feeding her Arcane Mana Burn.
+
+More…
+
+The thin howl grew louder and louder as she drew upon her domain, and from the far reaches of her dungeon, her mana stirred. A ripple crossed the pristine surface of the Well of Divinity, high above the Sea of Fractured Dreams. Ancient mana of exquisite power seeped out, spilling over into her domain. In the heart of New Ciradyl, the Well of Souls stirred. The still waters splashed.
+
+“Your efforts are futile. I have attained a far higher level than you,” Nevyn sneered.
+
+Ali ignored him. I need far more…
+
+All around her, slimes oozed through the barrier, squashing themselves through the tiny hole, heedless of the corrosive stream of arcane, void, holy, and soul magic Ali poured in. Strips of ooze were disintegrated into vapor, but still Naia poured in.
+
+Suddenly, Ali felt an immense surge of nature mana pouring into her domain from the World Tree. Nature magic that carried with it a familiar resonance, the scent of home.
+
+Lira! She’s with me!
+
+A few moments later, there was an answering surge from the Abyssal Realm with the unmistakable signature of Azryet’s holy and void.
+
+The Lich simply laughed at her. “You cannot hurt me with that.” And the draining power tearing at Malika’s heart pulsed more powerfully, and she finally began to scream.
+
+Ali’s heart screamed in concert.
+
+She reached blindly for the Malevolent Oak at the far end of the clearing, still guarding the entrance to the Library. She had made it long ago as a backup for emergencies – for when she needed a vitality boost, and she used it now. Her health skyrocketed in an instant, as her perception suddenly dimmed. She called her witch doctor down from the Spirit Realm and fed herself temporary vitality.
+
+As the deluge of the mana gift granted her by the ancient Wells and the two gods hit the cavern, Ali began to spend her life. Tiny golden motes floated to the surface of her skin, passing through and rising into the air like golden fireflies. She pressed the entirety of her will into her skills, channeling the rising tsunami of mana that ripped through the cavern with a sound like a demonic dragon’s roar, threatening to wash her away.
+
+But she stood firm.
+
+Her jaw ached from crushing her teeth together. The taste of blood filled her mouth. And her life energy – the tiny motes of herself – mingled with the power rushing through her arm, multiplying it exponentially. Trees snapped from the sudden maelstrom. Her arm shattered. Flesh split from the bone as her body failed to contain the sheer concentrated power rushing through her runes, void and arcane magic tearing it apart from within, while the holy magic restored it. The blood of Azryet bound it together, barely.
+
+Ali shrieked as her deepest being began to unravel under the unendurable strain of two fundamentally conflicting magic systems. No flesh could bear this. No soul could endure.
+
+But she didn’t let up. Never! I must end this!
+
+Within the wreckage of the melting Aegis of Absolution, Nevyn Eld finally began to howl and convulse in agony. The dark beam draining Malika guttered and abruptly failed, dropping her onto the ground in a broken, smoking heap.
+
+Dimly, she realized that Naia was calling her – perhaps, several times before she responded. “Uh…”
+
+“Ali-friend. Hole, look,” Naia urged.
+
+“Where?” she gasped.
+
+“I’ll show you,” Naia said. And one of her oozes within the Aegis began to shrink.
+
+Ali would have gasped in shock if she weren’t already so wrung out. The ooze slithered down an almost invisible thread of mana, like an infinitely long straw, drawn away by powers that she could not even fathom. How does she see a mana tether as a … hole? But the ooze was nearly gone.
+
+“I can’t do that, Naia,” Ali puzzled.
+
+“No problem. I’ll make a hole for you, too,” Naia declared. “Space magic ooze. Wobbling Wormhole.”
+
+“Oh. Naia, you are a genius!” Ali exclaimed. Once she’d heard the explanation, she saw the plan as plain as day. One half of Naia’s space magic ooze was gone, journeying to the other end of the tether, but within the Aegis, the other end began to open like the maw of an eldritch monster.
+
+Far away in the throne room of the Crypt of Kings, a kobold mage turned to Calen.
+
+“Get ready,” Mirianth said. An odd-looking ooze plopped out onto the throne.
+
+Calen blinked. “Eh?”
+
+Ali twisted her mana using the Domain Architect skill Azryet had taught her, making it just permeable enough to pass into Nevyn Eld’s domain, and fired it through the living portal Naia had created. Like a blight, the golden sparkles and twisted void burst through to tear at the far-away shield in the heart of the Crypt of Kings from within. The Aegis of Absolution protecting the Phylactery flickered and dimmed as the domain mana of an entire dungeon faltered like a candle blown in the wind, and as the shield broke, Ali’s mana exploded outward, tearing through the domain like a ravenous beast.
+
+A great gong accompanied her achievement.
+
+[Realm] Aliandra Amariel [Defiance of the Meek] has cast the legendary spell: A Requiem for Mana’s Final Extinction
+
+You have gained Reputation.+3 Authority.
+
+The tremendous thundering in Ali’s ears died down. She was not sure if it was fading or if she simply couldn’t hear anymore. She gazed in wonder at the cloud of golden motes sparkling around her.
+
+So pretty.
+
+Mom… I wish...
+
+You have empowered magic using Life Channeling.-100% to maximum health.
+
+And then her world slowly faded into darkness.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,131 @@
+---
+id: 801e9670-cd0e-5485-b7f9-a22e22e9c4e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 440: A Touch of Strategy Required"
+slug: 0477-chapter-440-a-touch-of-strategy-required
+partOf: dungeon-of-knowledge-complete
+position: 477
+ownLength: 2200
+unit: words
+ownProgress: 2200
+publishedAt: 2025-11-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2757567/chapter-440-a-touch-of-strategy-required"
+royalRoadId: "2757567"
+markedReadAt: "2026-06-29T20:28:22.265Z"
+---
+
+Ali sat quietly near the outer edge of the clearing that served as their temporary guild hall and general meeting room, but her thoughts churned in sharp contrast to her outwardly calm demeanor. Resting on the palm of her hand lay the cursed parasitic ring, pulsing with dark energy. Even just touching her skin, she could feel it pulling on her mind, desperate to feed upon her life force. She needed its power, that much was certain, but it had shown itself for what it truly was – a dangerous liability when things went badly.
+
+Maybe I should visit Giddy. Yes, it’s time.
+
+A general clamor and buzz waxed and waned among the adventurers as they discussed the minutia of the fight or argued amongst themselves about various strategy ideas. Holding herself a little apart from the group, Ali could tell that much of it was stress release; the manic energy of people who were grateful to be alive after a shockingly close brush with death and needed an outlet in any form available.
+
+Hers was a little harder to contain. What should I have done? What could I have done differently?
+
+Ali was the one who had called the retreat, and while everyone had reacted instantly, it had been a long, drawn out, chaotic, and oftentimes panicked flight from the cavern and the sea of summoned trees and dark clouds of spiteful spirits as they desperately tried to reach the distant safety of Weldin’s Town Portal with everyone alive.
+
+An embarrassing and dangerous rout, the likes of which she hadn’t experienced since the first attempt at killing a Spitter Drone had attracted every kobold in the library plaza, making a train of monsters that had chased them all the way across the ruins. Ali twisted her lips at the memory.
+
+And it was all because of her suppression formation, and her inability to quickly disable it. Without that, they would have had a much easier time retreating – Weldin could have left the Gate in the middle of the healer group, and they could have all escaped back to town in moments. Morwynne had already begun making Recall potions keyed to the temporary locus, and at least half the adventurers had their own personal escape skills, most of which failed to work in the presence of spatial suppression.
+
+Her mind replayed the scene endlessly, looping again and again as she struggled, searching to find any reprieve from her guilt at placing her friends at risk. But there was nothing she could find, and all that she was doing was making herself more and more depressed as her mind obsessed over the details of Lira’s disconnected phrases with the distressingly perfect recollection provided by Sage of Learning.
+
+I should have recognized the Death Storm faster. The thought popped into her mind, and she fixated on the first thing she could realistically attribute as a mistake. It had been a death-affinity Elemental Storm – a domain magic she should have been able to recognize much quicker, given that she had seen and learned several versions of it already, even if it was a previously unseen affinity. But she hadn’t believed it possible for the Malevolent Lirasian Oaks to have a fifth Domain Magic skill, and so she had hesitated at the crucial moment, not trusting what she saw. Unfortunately, her hesitation had been long enough for everyone to be caught unawares – she couldn’t have known that the death magic spell would stun everyone, but with some warning, they might have been able to react.
+
+She shuddered as she realized just how close they had come to a full wipe – it was pure insecurity and reflex that had made her keep her barrier bubble after Calen had found out how to avoid the rot bolt storm, and that had been the thing that kept her as the only conscious person in the entire raid.
+
+“Ali?”
+
+Calen’s voice broke through the self-recrimination and pensive soul-searching. “What?” She suddenly found everyone looking at her and realized they had been waiting for something from her while she was distracted.
+
+“Did you see anything about that spell that might help us defeat it?”
+
+“Oh,” she said, realizing they had been asking her for input on the strategy currently under discussion. “It’s a domain magic. I didn’t expect this boss to have five, so I didn’t react fast enough.”
+
+“I didn’t expect it either,” Calen said. “I think we all miscalculated.”
+
+They don’t need my worries. Just data. Ali took a deep breath, trying to shake off her self-doubt. “It’s a death-affinity Elemental Storm. A ribbon of death magic links each entity to one of the treants – not just people, all the summoned minions, monsters, and even their own spawned treants. Based on how much mana it regenerated through my barrier, it would have done at least my entire maximum life. Based on Healer’s Sight, it looked like it dealt Mato’s maximum life to him.”
+
+“So, it’s not a fixed damage, it’s all your life, no matter how big?” Calen asked.
+
+“It looks like that,” she said. “It doesn’t seem to care how much you have left, only your maximum. My berserker triggered Last Stand unconsciously at five percent remaining, and it continued doing damage equal to his new life total. My best guess is that it’s a hundred percent of maximum health.”
+
+He raised an eloquent eyebrow. “Nasty. What else?”
+
+Gratefully, she realized he was leading her through the basic steps of strategic analysis, drawing her out instead of her inward spiraling, helping her to gain much-needed distance and perspective.
+
+Ali sorted her memories of the formation quickly, scouring them for information, anything that might trigger Calen’s strategic mind. “It has a stun effect. It can be blocked, but only by a fully encasing barrier – the ribbons aggressively seek out any path to their target. I think resistance helps reduce the damage. Every treant that died to the storm was raised as a Spiteful Tree Spirit.” Ali left it unsaid as to what she suspected might happen if a person were killed by the storm.
+
+The destruction of the hostile spawned treants had been a real surprise, but the sudden cloud of Spiteful Tree Spirits was a real problem for the raid, especially as there had been so many of them. But then Ali recalled the arcing discharges of excess death and nature mana, and the enormous surge of Mass Summoning that had followed the death storm. “One more thing. The death damage seems to be connected to an enormous mana recovery skill or ability. The four cloned treants share mana, and all four of them hit mana saturation during the storm. All that excess mana went to summoning that huge horde of treants.”
+
+“So, if we control the mana, we can limit the spawns?” Calen asked. “Is that what you’re saying?”
+
+“Yes, I’m pretty sure.” It was a good thing she was using her Eye of Agnor for Empowered Summoner; with almost fifteen hundred perception – now her second highest attribute after intelligence – the subtle interactions between the spell formations had been astonishingly clear to her sight.
+
+“And they share mana?” Calen asked, glancing at Malika now.
+
+“Yes, they definitely have a shared mana pool, or a mana donation skill,” Ali said, seeing Seth and several of the mages who possessed mana sight skills nodding. “But I don’t think Malika’s mana drain will be nearly enough.” The sheer amount of mana had been overwhelming.
+
+“They have another mana recovery skill,” Seth said, interrupting the discussion from the other side of the gathering. “The roots turn any corpses into compost, and they recover mana from that, too.”
+
+Ali glanced at Seth in surprise – that was an ability she hadn’t even seen. Something like my deconstruction? She should probably have noticed when there were no Corpse Flowers, but it made sense that the necromancer would be the first to notice anything strange related to the corpses.
+
+“Ok,” Calen said, pausing conversation while he scribbled notes in his notebook. “Any other ways it gained mana?”
+
+“Well, it was gaining mana the whole fight long,” Flynn said, the gentle earth mage shifting uncomfortably under the sudden attention.
+
+“Any differences during the fight? Changes to the amount of mana?”
+
+“Stronger at the start,” Flynn said, after a moment’s hesitation.
+
+Ali cast her mind back, running through her memories of the fight, surprised to find that he was right. Calen was nothing if not thorough, and she would never have thought of asking something like this on her own. The treants’ mana pools had remained full for much of the beginning of the fight and only dipped later. “It changed when you readjusted the raid,” Ali said as she connected the difference in her mind.
+
+“So, they got less mana when we formed the safe zone, and the rot bolts started hitting a lot fewer people?” Calen asked, but his expression was thoughtful as he nibbled on the end of his pencil before scribbling some more notes. “I think we should go with the working assumption that they have a ‘mana leech from death damage’ skill. It may be rot-related, but with the elemental storm being pure death, that doesn’t quite fit as neatly.”
+
+Ali would not have come to that conclusion on her own, but she followed his logic and couldn’t find any flaw in it. She even lost several points of mana to her Sage of Learning skill in the process.
+
+“So then, we just need to counter each ability, and that should make the fight a lot easier,” Calen said. “Death Storm?”
+
+“Death affinity absorption potions?” Basil suggested. “Provided someone can give a few seconds of warning before it hits, we could have everyone drink one before it starts.”
+
+“I can see it before it hits,” Ali answered. “Probably a few of the mages can too, now that they have seen it.” It was a fantastic idea from Basil, and a good use for all the death essences they had collected from Lyton Ruins. Reducing the initial damage of the Death Storm should help them survive the transition, and, if her deduction was correct, also reduce the mana gained.
+
+Calen scribbled a few notes in his book. “Death, or general resistance gear, too. Ali, how many people can you bubble?”
+
+“Three,” she said. “It is easier on smaller races, and one of them has to be me.”
+
+“How about a single half-dome barrier?” he asked. “How many people can we cram into that?”
+
+“I’m not sure,” she said, but there was a trivial way to find out. She immediately summoned a glittering half-dome of barrier magic, pushing her spell to the limit, surprised to find it spanned more than five meters in diameter now.
+
+“I think we can put all the ranged healers in there, and maybe a few mages who can shoot through your barrier,” Calen said. “That will take out a ton of damage during the storm and prevent the healers from being stunned at the same time.”
+
+“Seth, can you and Ali take care of the corpses before the roots get them?” he asked.
+
+“Yup,” Seth answered.
+
+Ali nodded, too. She could probably destroy them with deconstruction before the roots ate them, provided she could get close enough, but she had an even better plan. She could just bring a high-level Devouring Consumption or two.
+
+“Malika, can you use mana drain?” Calen asked.
+
+Malika nodded.
+
+But Ali’s mind was already racing ahead. She had several other options at her disposal, and she began connecting the dots. “I can bring some arcane-affinity eye demons,” she said, considering the possibilities. Arcane and hellfire would be the perfect combination, and she probably would only need two. She would need to talk to Seth about curse proliferation and the use of Explosive Conflagration on the summoned treants.
+
+“What does that do?” Calen asked.
+
+“The major eye of an arcane Eye of Agnor has the Arcane Mana Burn skill as a cone area attack,” she said. If the treants shared mana, it wouldn’t even matter which one she burned. It would be even better if they were grouped up like their last strategy, and she could hit more than one of them at the same time. If she combined arcane with hellfire, she would have access to twin hellfire fireballs and immolation for the summoned treants and tons of arcane bolts, too. Many options, she thought, but she could fine-tune them later.
+
+Calen simply raised an eyebrow and made a note in his notebook.
+
+“I’ll bring a Baelok Descrier, too,” Ali said, her mind racing through the options in her Grimoire. “It helps resist mind magic effects, so it can double up with Malika to protect against the taunt.” She was going to need to change up her minion choices dramatically. The limited space in her barrier argued strongly for more kobold priests simply because they were tiny. Oh, and Sacred Oozes. Oozes were immune to many debilitating effects, such as being stunned or other incapacitating effects that required limiting things like a mind. Thanks for the Ooze, Naia!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

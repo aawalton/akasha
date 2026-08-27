@@ -1,0 +1,185 @@
+---
+id: 20b6a0eb-a9d9-5900-b6af-0c617ebda8ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1"
+slug: 0001-chapter-1
+partOf: emie-ascended
+position: 1
+ownLength: 3026
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3454222/chapter-1"
+royalRoadId: "3454222"
+---
+
+Until the moment of my ascension, I never felt ready to leave the realm of my birth. Had I been given a choice, I would have delayed my ascension by at least a few decades.
+
+I wasn’t like one of those cultivation protagonists who thought about nothing beyond ascension. From the outside, it might have looked like that was all I cared about, given how swiftly I rose from a mundane human from Earth to an Ascender. But looks were often misleading.
+
+At least I’d gotten to say goodbye.
+
+As I shifted between realms, I could feel something fundamental changing within me. My connection to my affinities of Time, Space, and Arcane suddenly felt tenuous, and I could feel my strength rapidly fading.
+
+The space around me seemed to firm, becoming more real as the mana that had empowered me in my former realm was stripped away. My body disintegrated, only to be rebuilt before my mind could fully process the change.
+
+And it was definitely a change, though it wasn’t one that was totally unexpected.
+
+While the general public might not know much about ascension or the realm to which the ascenders of my former realm were funneled, those nearing the peak of the realm’s power were a little different.
+
+As one approached the pinnacle, future ascenders were granted what knowledge the ruling Council had regarding the next realm. That information was extremely limited, but it was better than nothing.
+
+I was especially fortunate as a challenger of the Realm Dungeon – an artifact seeded from the very realm to which I now ascended.
+
+As a reward for completing the last two trials of the dungeon, I’d been given additional information to make the transition smoother – information that the Council did not have since none who sat on the ruling body had challenged the Realm Dungeon beyond the eighth floor.
+
+The most valuable of my rewards was the chance to experience fifty simulated years as a ‘traveler’ within Dia – the name of my new realm. Apparently, travelers were like transmigrators from other realms, though I wasn’t sure if they were actually real or just something the dungeon created as part of the simulation.
+
+Regardless, that experience had given me a new perspective on my future life as a Dian, which was what the sapient beings living in the realm called themselves. They weren’t quite human, nor were they any other race from my former realm. Instead, they were like a mix of all of them, though I’d say they were closest to human or elf than any of the others.
+
+Given their pointed ears, most would likely assume they were larger versions of elves, but I knew that wasn’t totally accurate since the basic longevity of a Dian was far closer to that of a human.
+
+“Welcome, Ascender. I am Rho, your guide for the transition.”
+
+The voice was soft, but held an undercurrent of power that was impossible to deny.
+
+The speaker slowly materialized beside me. She appeared to be a tall Dian woman with silvery skin and steel blue hair that trailed in loose curls down her back.
+
+Though the term ‘woman’ was not technically accurate since the being was distinctly not human, the actual term that the native language used to describe an ‘adult female’ translated to ‘woman’ in my mind.
+
+Since I didn’t push back on any of the other translations, it seemed silly to get hung up on this one. Further, it wasn’t like there were any other races present to cause confusion.
+
+The woman wore a gown that appeared to have been constructed out of the void itself, greedily absorbing any light that touched it. Her eyes were like liquid sapphires, but held an inner illumination that marked her as something beyond mortal – a sliver of the goddess who controlled the realm, if I had to guess.
+
+“Your new body has been formed based on your aesthetic preferences and the current standards of beauty within the realm. Your body is in a malleable state, but the effect will not last long,” the maybe-goddess clone said as a mirror manifested in front of me. “If you would like to make any changes, please do so now.”
+
+Feeling oddly calm, I examined my new appearance. I was surprised at how much of myself I could recognize within the reflection. I could sense how easy it would be to alter my appearance, but after a moment of consideration, I didn’t see anything that I felt compelled to change.
+
+Though my hair had changed from black to a rich purple, that wasn’t so unusual for me. Several of my disguise personas had purple hair, and my avatar in the simulated life had as well. It was a fairly common hair color in my new realm, after all.
+
+I was much taller than before, but I knew that my new seven-foot height was barely on the upper side of average for women of the realm. The difference didn’t even faze me. It was like something about my brain chemistry had already adapted to the change.
+
+Aside from the pointed ears, my eyes were probably the most startling thing about my new appearance. Like the woman next to me, my eyes had a gemstone quality about them. However, where Rho’s eyes appeared like smooth sapphires, mine were lighter in hue and had a definite purple tint underlying the blue. It made them look like my favorite gemstone – tanzanite.
+
+The color contrasted nicely with my skin tone, which was slightly darker than it used to be. The change was subtle but noticeable, and gave me a healthy glow that my previous appearance had lacked.
+
+“Everything looks fine,” I said, accepting my new look.
+
+As if waiting for my confirmation, I felt my body solidify, becoming real in a way that I couldn’t quite explain. I still felt far weaker than I had before, but I no longer felt fragile.
+
+“Excellent,” Rho said with a satisfied smile. “I see your former deity marked you as a Contender. The title increases your new body’s ability to absorb essence by five percent. It might not seem like much, but I assure you, the advantage is significant.”
+
+I wasn’t going to complain about any kind of experience boost, even if it was just five percent. I knew full well how quickly such things could add up over time.
+
+“The title also comes with a boon, which I assume you would like applied to your soulbound dimensional space,” Rho continued with an air of certainty that only reinforced my belief that the entity was related to the realm’s goddess.
+
+“Yes, please!” I said eagerly.
+
+Though I’d kept an Inventory during my simulated Dian life, it couldn’t compare to the convenience of having access to a personal dimensional space that I could physically enter.
+
+Retaining that functionality, along with the ability to put parts of the space into stasis, were my two primary goals for the soulbound space. If I could keep additional features as well, I would, but those two aspects were the most important.
+
+The entity grinned at my exuberance. “Physical access and compartmentalized stasis are certainly possible,” Rho said, making it clear that she could hear my thoughts as clearly as if I’d spoken them.
+
+“However, the boon from your Contender title alone will not be sufficient. Luckily for you, your arrival has fueled the evolution of a new Ascender Dungeon in Dia, and for that, I can add to the boon to make up the difference.”
+
+I hadn’t realized that my ascension might actually cause a new Ascender Dungeon to appear in the realm. From what I recalled of the simulation, such occurrences were exceedingly rare.
+
+“With the additional energy allotted, I can retain most of the space’s previous functionality, though at a reduced capacity to start,” the entity continued. “As the primary skill grows, so will the space and its features. However, this will require two core skill slots and two general skill slots to accomplish.
+
+“Before you ask, let me explain why,” Rho said, halting the question that immediately bubbled inside of me. “The dimensional space itself will be a passive core skill, and requires a semi-passive general skill to add the ability to split the space into compartments. The skills will likely combine at your first evolution, freeing the general skill slot.”
+
+So that part was temporary. That made sense.
+
+“Exactly,” Rho said in response to my thought. “The second core skill will allow you to place portions of the dimensional space into stasis, which will also be a passive effect as far as focus is concerned.
+
+“A very limited active version of the skill will be available outside of your demesne, though it will function more like a general skill. This is a necessary compromise to allow the primary function of the skill to work without restriction while preventing undue imbalance.”
+
+That made sense as well. Focus was basically mental strain or mental fatigue, which built up with magical skill use. Passive skills took little to no real focus to use, while active skills would build fatigue over time.
+
+With core skills, the mental strain was minimal unless the skill was being pushed beyond its intended function or used in excess. General skills, especially new, unfamiliar skills, were very draining, but that could be improved with time and practice.
+
+General skills would never be as efficient as core skills, but they could become quite efficient, especially for Ascenders who’d used the same or similar skills for centuries.
+
+At least, that was how it had been in the simulation. From my inferences thus far, it seemed that aspect of the realm hadn’t changed.
+
+“It has not. There have been some significant changes to the realm, but none pertaining to how leveling or skills work,” Rho informed me before continuing her spiel. “The last general skill slot will be what allows you to enter and exit the space. You will only have a single anchor point at first, which will be set to the location from which you enter the dimensional space. As the auxiliary skill grows, the number of anchors you can place will grow with it.
+
+“Because I can sense your unspoken curiosity, I will add that you will only be able to have a single dungeon anchor at any given moment, no matter how far you evolve the skill. You will not be able to use the space to travel within a dungeon, nor will you be able to use it to move between floors or between dungeons.”
+
+That was good to know, though it wasn’t unexpected after my experience within the Realm Dungeon.
+
+It was also worth noting that Rho hadn’t said anything about resetting my anchors upon entering the dungeon. That was something I’d struggled with anytime I entered a rift or a dungeon in the previous realm.
+
+If I understood her correctly, that meant that I’d be able to keep an anchor in the dungeon, even when I left it. If so, I should also be able to move in and out of the dungeon using my demesne after I gained a second anchor, which I could definitely see coming in handy in the future.
+
+“You will not be able to open portals to the space like you could before, though you will be able to bring others into the space if you wish,” Rho continued, not commenting on my thoughts this time. “You will also be able to control the space within, much like you could before. This feature is not a skill and will not grow or change over time.”
+
+My heart beat excitedly as she spoke. It was everything I’d hoped for, and more than I’d believed possible. I’d be able to create a secure home once again – something that I had worried would be lost once I ascended.
+
+Honestly, I felt like I was getting a lot out of the boon. If I’d had to use skill slots to make the space inhabitable, it would have probably taken multiple extra slots to manage.
+
+I would have still done it, though. Having a secure place to rest and store my items was too important to me.
+
+“Do you accept the use of your boon as stated, along with the required skill selections?”
+
+“Yes,” I said unhesitatingly. I didn’t need to think over something so clearly in my favor. “I still have two more core skills to choose, right?”
+
+Since I’d ascended with three affinities, I should have three selections plus a bonus from Dia. I was assuming the bonus was wrapped into maintaining my demesne, which should leave me with two.
+
+I wasn’t sure how many general skill slots I’d end up with, but even if I only got eight, which was on the lower end of average for ascenders, it was still easily an exchange worth making.
+
+“Yes. You have two skills remaining. Given your former skills, I recommend you select Restorative Healing, which would combine your previous healing-related skills and spells into one composite skill, granting you access to life magic while incorporating aspects of time.
+
+“For your last core skill, I recommend you select a new elemental seed skill instead of opting for another space or time-based skill. I also do not recommend you select any non-elemental skills since such skills can be learned with a bit of effort. Given your preferences, I suggest one based on either ice or lightning.”
+
+I knew why she didn’t suggest I use a core skill slot for something like Enchanting, which would have been my strongest contender if I were to consider a non-elemental-based skill.
+
+As Rho had mentioned, doing so would be wasteful since it was something I already knew how to do and could easily regain after proving my competence. While having it as a core skill would likely make the skill stronger, the small improvement likely wasn’t worth losing a free seed skill.
+
+The term ‘seed skill’ just meant that it was the first of a particular element, aspect, or type, and would allow the user to use the skill as a bridge to create similar skills.
+
+Her suggestion that I pick a completely new element as a core skill came as a bit of a surprise. I guess I’d just assumed that all of the core skills granted would need to have some connection to my prior affinities.
+
+In this case, I was glad to have been wrong.
+
+I did gravitate toward both lightning and ice when I crafted weapons with an elemental effect. I liked them both about equally and could see the value either element could bring to my fighting style.
+
+Ice could potentially slow my opponents, especially if used for an area of effect (AOE) skill. Other applications would create highly effective offensive capabilities in the form of spells – or rather, skills – like Ice Shard, Ice Bullet, Ice Lance, or Freeze.
+
+Similarly, lightning could disrupt and stun an opponent while also causing direct damage. Lightning Bolt was the most famous of the basic skills, but there were also touch-based spells and AOE effects to consider as well.
+
+There was probably more variety in ice skills, but I really did love lightning. If used creatively, I might even be able to incorporate it into my future Enchanting, introducing electricity-based technology to the realm.
+
+It really was too bad that I’d had to leave Lisa behind. My former AI Interface Assistant would have been the perfect companion for such a project.
+
+“Is there any way for me to get something like Lightning Manipulation?” I asked.
+
+Rho smiled at my question, but shook her head. “No. Elemental manipulation-type core skills are reserved for those who dedicated their entire focus to a single element prior to their ascension, or those who reach a certain level of mastery within this realm.
+
+“And when I say element, I mean the basic and advanced elements, not aspects like space, time, mind, void, life, death, nature, or force. Fate and Soul do not have direct analogs in this realm, though both obviously exist.”
+
+That explained why I’d never heard of Space Manipulation or Time Manipulation skills in the simulation.
+
+“What does that mean for the Fate and Soul Mages?” I couldn’t help but ask, thinking about my mentor’s sister who had ascended just a few years before me.
+
+“They are redirected to an adjacent, allied realm.”
+
+Her answer immediately sparked several questions in my mind, the most prominent of which was: why?
+
+I wanted to voice the question, but I knew that Rho could read my mind. Since no answer was offered, I figured asking would be pointless.
+
+However, Rho’s comment did tell me one thing: I probably wouldn’t be running into Anya or her husband in this realm. Though her husband wasn’t a Fate Mage, they’d ascended together, so I felt it was likely that he would have been redirected alongside her.
+
+I was tempted to ask about my mentor since he’d ascended at roughly the same time as his sister, albeit from a different location. However, I could sense that the goddess’s representative was growing impatient.
+
+My mentor was supposed to have left me a message with the Delver Association, anyway, so I’d discover his status soon enough.
+
+“Okay. I’ve made my decision,” I said. “Restorative Healing and Lightning Bolt.”
+
+The spell was a classic for a reason, after all.
+
+As soon as the words left my mouth, I felt something shift inside of me.
+
+“Sleep now,” Rho said as her form faded away. Her voice echoed around me as my vision grew blurry. “When you awaken, you will be in the safe zone of the first floor of the newest Ascender Dungeon. You will be alone, but you will not be the only Ascender linked to this new dungeon.
+
+“My clergy will recognize you as its Originator, though no others will, since the feat does not come with a title. They will not share such information, and I suggest you limit its spread as well. You already know that anonymity can be the strongest armor. Good luck, Ascender.”

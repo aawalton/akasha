@@ -1,0 +1,437 @@
+---
+id: f7c547fd-41a1-5cc7-bf61-ae064838929a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 547: Scholars and Mages"
+slug: 0587-chapter-547-scholars-and-mages
+partOf: dungeon-of-knowledge-complete
+position: 587
+ownLength: 8065
+unit: words
+ownProgress: 8065
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3087752/chapter-547-scholars-and-mages"
+royalRoadId: "3087752"
+markedReadAt: "2026-06-29T20:32:21.355Z"
+---
+
+Ali led the group of her friends out across the densely forested cavern and past the blue-glowing lake of mana-purified water, enjoying the sight of the energetic nature wisps blithely ignoring the Glitter Dragonets that occasionally mistook them for dinner. They always looked so cheated when their little teeth found nothing but mana and light. Ali was in no particular hurry, but she was surprised to find out just how many people had wanted to come. It wasn’t even like there would be much to see! Just a few glows and surges of mana, and the noisy notification at the end.
+
+Her forest cavern had changed rather dramatically. The ancient, blackened tree trunks holding up the roof of the cavern – judiciously reinforced with domain-enhanced barrier magic – were now overgrown with countless species of climbing plants and an artist’s color palette of orchids in an eye-catching testament to the continual work of her tireless Treants and the smaller nature elementals tending to her plants. The ground was covered with lush green grass and moss, and interspersed with the glowing golden light of countless arcane-affinity glowcaps. The green light from the wisps darting among the tree branches, and the yellow from the floating motes of light emitted by the glitter dragonets, turned the whole forest into a mystical wonderland.
+
+At least, she thought it was beautiful.
+
+But now, though, giant roots burst through the rocky walls and roof, reaching down to the ground below, bringing with them the flow of Lira’s dense, divine mana. She could feel them stretching through the breadth of her domain, pushing through the compacted soil and rock, only to emerge again many layers below in the underground ruins of Dal’mohra, where the Dwarves of Thorel Moldur had taken to decorating them with little stone sculptures or ornaments.
+
+Even further, the roots burst out into the jungle level, bringing with them a fresh infusion of wisps and strange, transient magical manifestations as the chaotic wild mana and Ali’s own domain met with the calm, powerful currents of Lira’s domain.
+
+“I’m sorry, dear,” Lira said, breaking the silence as she walked beside her.
+
+Ali paused her sedate flight and turned to look at her aunt. It still felt unreal to her: that she was even there. Every time she saw Lira, she couldn’t help but remember fighting her undead apparition and being forced to listen to her taunts. Every time she heard Lira’s kind, soothing voice, she feared that she would wake up from this beautiful dream into a fresh nightmare.
+
+“Sorry for what?” she asked, pushing the intrusive thoughts away.
+
+“It seems my roots have made a bit of a mess here,” Lira answered with her typical understated manner.
+
+It was perhaps a significant understatement, but honestly, Ali did not mind the roots. They did not feel intrusive, even extending throughout her domain. If anything, she felt their presence to be quite soothing; a reminder that this was real. Her minions had already begun to decorate them with flowers and mosses, incorporating them into the natural balance of the ecosystem. “I like having them,” Ali said, smiling away Lira’s worries. “I’ll work around them.”
+
+“I worry. The last time you so generously shared your domain with me, it left you vulnerable to Nevyn Eld’s attack,” Lira reminded her. “Yet you didn’t hesitate to throw yourself upon that vulnerability again as soon as I needed it. I am grateful, but I am concerned that he will use it as a lever against us once more.”
+
+It was true, Ali hadn’t hesitated to open herself to Lira’s domain. “You needed the mana,” she answered.
+
+“I did,” Lira answered. “Without it, I would be a mere sapling out in that blighted forest.” She left it unsaid just how fragile she would have been in the face of all those invading Death Knights. “But I worry for your future, Aliandra. What will you do when he comes?”
+
+That, really, was the heart of the matter. The question that still sent shivers down her spine. It was no longer a question of whether he would come, but when. Ali had no doubts about it. The strangely impervious barrier Calen had discovered that barred the entrance to the Crypt of Kings would presumably come down when the Lich resurrected his avatar, and when that happened, he would be coming for them. They had wiped out his Death Knight factories at Aman Rak and, more recently, those at Telim Gor and Meere Kada. They had reclaimed the Well of Souls by retaking Ciradyl and restored the Well of Divinity, and they had even revived Lira and manifested her ascension. When he came, they would need to be ready.
+
+Ali’s delicate crystalline lattice of arcane and nature mana suddenly hardened. Diamond edges and sharpened mana bristled throughout her domain, and the dungeon rage returned in force for the briefest of moments before she allowed it to relax, returning to normal.
+
+Lira sucked in a breath.
+
+“He will not find me defenseless next time,” Ali said.
+
+“You’ve studied The Calamity’s methods of domain warfare?” Lira asked, her eyes wide with surprise.
+
+“Yes,” Ali answered. There would be time enough later to catch Lira up on all that she had survived, but she would need to broach it with some sensitivity, given that Lira clearly still felt responsible for nearly killing her and her domain.
+
+“You really have grown so much, dear,” Lira said, recovering her normal, unflappable composure. “I am proud of you.”
+
+“Thank you,” she smiled. While the future was uncertain with the specter of the Blind Lich looming, there was one thing she could do immediately to increase her strength. Her ability to defend her friends and family. Ali descended slowly, alighting on the cleared stone path that encircled the shrine. It towered above her – above everyone – humming audibly with the vast well of mana stored within it.
+
+“Good luck, Ali,” Malika said, joining her beside the shrine. Slowly filing into the grove, all her friends wore similarly encouraging expressions.
+
+“Thanks,” Ali said, turning back to the shrine once again. It wouldn’t be polite to keep all of them waiting, but as she stared at the giant obelisk of smooth stone and the glowing runes lighting up its surface like a beacon in the middle of the forest, the full weight of this moment crashed down upon her.
+
+Her hopes and dreams from her past life bubbled up, colliding with the urgent need to be stronger. The need to protect herself, her friends, Lira, and even the whole town. Her hand paused just above the surface of the stone, trembling under the chaotic onslaught of emotions crashing together inside her.
+
+A small flicker of soul magic flared out beside her.
+
+You have gained Clarity.
+
+She glanced gratefully at Malika, who simply nodded and smiled, and her emotions quietened. They did not vanish, nor even change. Nor did she really require the buff, but somehow, she felt her perspective rising above it all as if she had taken wings or grown taller and could now look down upon the turmoil from a little further away. She needed to be stronger, and this was the most obvious way.
+
+She took a deep breath and closed the small sliver of gap between her hand and the stone.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 10,000,000Gathering Authority based on your actions, achievements, titles, reputation, and influence. +306 Authority.You may buy 10 attribute points per Authority point.4 paths have been found.
+
+Ali frowned at the amount of Authority she had earned, but the magnitude had no meaning for her until she saw what paths might have been offered. Hopefully, there’s something I can use to get stronger. With a little trepidation and a lot more mounting excitement, she examined the paths.
+
+The Tree of KnowledgeRequirements: Touched by the World Tree.Give up the summoning of other monsters in favor of a vastly expanded domain focused on trees, plants, and the generation of mana. This class excels at understanding, wisdom, and the accumulation of knowledge, and specializes in plants and plant- and knowledge-magic exclusively.Traits: Plant, Nature, Wisdom, Intelligence, Arcane, Mastery, Knowledge.Path Length: 10Reachable Nodes:+50% spell power to Knowledge magic. Cost: 420% reduction in the cost to summon or maintain plants. Cost: 5Quality: RarePath – Class
+
+Dungeon of EnlightenmentRequirements: Mentored by a book. Owner of the Grand Library Arcana.Your domain is your library; books are your power. Eschew combat and instead gain experience from imparting knowledge to others. Traits: Intelligence, Arcane, Knowledge, Tithe, Domain, (-Combat).Path Length: 12Reachable Nodes:+100% spell power to Knowledge magic. Cost: 6+100% spell power to Arcane magic. Cost: 6+15 Intelligence. Cost: 1Quality: RarePath – Class
+
+The Rune Forge You have created many items and restored ancient artifacts of great power. Reforge your domain to fully embrace your passion for runic magic and the crafting of things. Be it forging armor, inscribing scrolls, or fabricating artifacts of extraordinary power, all will be within your domain. Traits: Arcane, Knowledge, Intelligence, Domain, Runic Magic, Crafting, Artifacts, Forging, Construct. Path Length: 14Reachable Nodes:+50% spell power to Runic magic. Cost: 5+15% increase in efficiency and spell power for artifacts attached to your domain. Cost: 12Quality: RarePath – Class
+
+Runesage AscendantRequirements: Runic Script (tier two), Barrier (tier two), Sculpting or Calligraphy.Your relentless study of runic magic has shown you the beauty of a thousand spells. You have created countless wands, scrolls, runic circles, and tattoos, and understood and disrupted hostile magic of every type and affinity in combat. Now take your runic magic to the next level, bringing the breadth of your knowledge to your fingertips. Traits: Arcane, Knowledge, Intelligence, Runic Magic, Haste, Mana Inscription.Path Length: 10Reachable Nodes:+50% spell power to Knowledge magic. Cost: 4+15 Intelligence. Cost: 1Quality: RarePath – KeystoneChoose your Path.
+
+Hmm, that’s… disappointing. Ali studied her paths closely, not quite grasping the theme being presented. Three of the paths were class paths that appeared to be offering her an assortment of dungeon specialization without combat options, with the one clear outlier being the Runesage Ascendant path – an unusual mage keystone path that seemed to be oriented toward boosting her runic magic.
+
+Ali glanced up, finding a lot of expectant faces staring back at her, and yet everyone politely refrained from asking.
+
+A second opinion might not hurt, she thought. Generally, sharing the details of one’s class was never recommended, not without an enormous amount of trust. If the details got out, weaknesses could be exploited and planned for, and for a class like a dungeon, which was often considered a universal target, it was an extraordinarily terrible idea. Unlike her first evolution, there seemed to be no clear choices, nor did any of the paths truly speak to her. She needed something to prepare herself for the coming showdown with the Blind Lich, and none of these options seemed to be that.
+
+Ali took a deep breath. She owed her life to everyone present in some form or another, and many of them owed her the same. More to the point, most of their lives would be radically altered based on the decisions she made here today. With surprisingly little anxiety, she shared the four paths with the small group that had come to support her. There was a long moment of silence before anyone spoke.
+
+“The abilities are more expensive than the first time around,” Malika noted.
+
+“The payoff is bigger, though,” Val’korr offered.
+
+“Seems like they’re all related to knowledge in some way,” Calen observed.
+
+“I guess so,” Ali said. “I just don’t know why I’m getting so many non-combat paths. A vast plant dungeon of wisdom? A dungeon library? A crafter dungeon? And whatever this runic mage path is supposed to be. I’m a bit lost.” At least the library dungeon might have captured her heart in a previous life, but she couldn’t throw books at Death Knights. Well, maybe Clarence, but she was loath to risk something so close to her heart.
+
+“Oh dear, that seems to be related to me,” Lira said, frowning.
+
+“It’s not your fault, I just hope I didn’t mess this up,” Ali answered. The last thing she wanted was for Lira to feel guilty. Even if Ali had known for certain she would be ruining her evolution, she would still have saved her aunt without hesitation. She knew she would never have been able to live with herself if she hadn’t done absolutely everything in her power.
+
+“They’re not all non-combat options,” Mato said. “Only Dungeon of Enlightenment. You can fight with all the others.”
+
+“That’s a good point,” Calen agreed.
+
+“Wait, what?” Ali quickly reread all the options, finding that, surprisingly, the big bear was right. “How would I fight without monsters?”
+
+“The Tree of Knowledge looks like a plant dungeon, perhaps Sylvans and Treants count? And you have the Forest Guardian elementals, too,” Mato said.
+
+“I guess so,” Ali murmured, studying the wording again. It seemed she would have to give up other monsters and specialize in plants. “So, this is like Azryet’s specialization in dragons?” If that were the case, she would likely get some substantial bonuses to trees or plants in exchange for the specialization.
+
+“That’s quite a narrow specialization,” Lyeneru said. “It will make you vulnerable to blight.”
+
+“And fire,” Ali added. Lira had been wiped out by blight and undeath, and they were facing a Lich. Mentally, she pushed The Tree of Knowledge to the bottom of her list. “The Dungeon of Enlightenment is a no for sure,” she added, wincing. It sent a pang of longing through her heart as she let go of a childhood dream. A dungeon’s power combined with a Librarian class would have made her extraordinarily happy for most of her youth, but giving up on combat skills was a hard no for her – how would she protect Lira from Nevyn Eld and his Death Knights? How would she help her friends? She wouldn’t even be able to protect the Wells, leaving the entire continent to the mercies of the Lich’s corrupt magic.
+
+“The Rune Forge could be quite strong,” Vivian said. “It would certainly be an enormous windfall for the guild and the town.”
+
+“The Corrupted Well of Souls had flying constructs,” Calen said. “Maybe Rune Forge will allow you to fight with artifacts, too?”
+
+Honestly, rereading The Rune Forge with Mato’s earlier observation in mind completely upended her perspective of the path. An item dungeon was what this was. She had read about such things. Likely, her monsters wouldn’t be nearly as strong, but she would be able to equip everyone with the most powerful artifacts and runic magic. She would be a ridiculously powerful crafter, able to forge armor and magical items for battle, and presumably, her class would even provide bonuses for using them. It would be a rather big change in focus for her, but not nearly as extreme as the first two. She would have to fight through others and rely more on her minions, but that was how she fought anyway.
+
+“What about your last option, Ali?” Malika asked gently, her fingers tracing the visible tattooed runes along her collarbones. “Runesage Ascendant. You love runic magic, don’t you?”
+
+“I do…” she answered, swallowing hard against a surge of bile that burned in the base of her throat. After all I’ve been through, these are the options I got? She could not help but feel cheated. I need more than this – we all need more, or we won’t survive!
+
+In truth, Runesage Ascendant seemed underwhelming, especially when placed side-by-side against three class paths. The class options would radically change her entire class, while Runesage Ascendant seemed like it would mainly just benefit Runic Script. While she loved her Runic Script skill, it was not really the major center point of her class’s combat abilities. “It just… doesn’t seem all that strong.”
+
+Scratch that. It would be downright insulting – if I wasn’t so tired, so weary… she rubbed her temples and gnawed at her lower lip. I must be missing something. Surely. This one’s a keystone. There’s – but just look at it! It’s just so little, like me…
+
+“Perhaps I may offer a different perspective?” Val’korr interrupted her downward spiraling, meantime digging what appeared to be a bug out of his ear with a fingernail and flicking it to the side. When Ali nodded for him to continue, he said, “I think you should pay attention to the last trait: Mana Inscription.”
+
+“What exactly is that?”
+
+“You are currently able to inscribe runes by imbuing your mana into metal, stone, and ink. Mana Inscription does exactly what it says – it is a rare ability which allows the caster to use constructs of their own mana for inscribing runes – without needing other materials.”
+
+“Are you saying…”
+
+“It’s impossible to say exactly where this path might lead, but that trait implies it stands opposed to The Rune Forge. Instead of focusing on tangible items, Runesage Ascendant will likely have a focus on spells using only mana.”
+
+Ali studied the description yet again, trying to get a sense for what it might imply. It seemed to reference every method she had for understanding the magic of spells and focused on the breadth of knowledge. And with Val’korr’s perspective, the line about having it all ‘at her fingertips’ was far more significant than it had sounded at first.
+
+“While being an item dungeon might be extremely valuable for the guild and the town, you still have all of us to make items,” Lydia said, gesturing to herself and Thuli, who were standing off to the side. “That is, if you want to choose personal magic instead of crafting.”
+
+And that’s the heart of it, Ali suddenly realized. The Rune Forge would make her and the entire town extraordinarily wealthy, and possibly greatly accelerate her crafter friends along their paths, but it would be a way to do something that she could mostly do on her own anyway. Perhaps she would have far more item imprints in her Grimoire, but she could already manufacture wands, hearthstones, and all sorts of useful items just with access to her library and her Runic Script skill. For the most challenging crafting tasks, she would always rely on Lydia, Thuli, and the other crafters. While she didn’t know exactly what it might bring, selecting Runesage Ascendant seemed like the best way to unlock something unique – and against the might of Nevyn Eld’s armies, she needed every advantage she could get.
+
+“Runesage Ascendant then,” she said, hoping she wasn’t about to make a massive mistake. If it’s terrible, I can just wipe it out and start over, she told her mounting anxiety, and her doubts eased. I’ll focus on this one. Maybe it’ll open something better.
+
+There were two accessible nodes, but increasing her intelligence attribute was not something Ali found hard. In this particular case, the path was of limited length, and she had a substantial haul of Authority to spend, so she spent the four to empower her Knowledge skills. It was expensive, but on her first evolution, she had been required to spend five points and five nodes to obtain a similar boost.
+
+[Runesage Ascendant 1/10] +50% spell power to Knowledge skills.
+
+The nodes remained the same, so Ali spent the same Authority twice more.
+
+[Runesage Ascendant 2/10] +50% spell power to Knowledge skills.[Runesage Ascendant 3/10] +50% spell power to Knowledge skills.
+
+When she checked after the third node, something had changed:
+
+Reachable Nodes:+50% spell power to Knowledge magic. Cost: 4+50% spell haste. Cost: 5
+
+“Lost the intelligence node,” Ali noted. “Haste for five points instead.”
+
+“Didn’t you say haste was important against Sunstrider?” Mato asked.
+
+“It really was,” Ali noted. It cost an extra Authority point to buy, and she wasn’t exactly complaining, but she frowned. A knowledge trait boost was understandable for a path that focused on runic spells, but why spell haste? Still, it didn’t really matter; spell haste was an incredible bonus for her class, so she spent the five points happily.
+
+[Runesage Ascendant 4/10] +50% spell haste.
+
+This time, when she looked at the reachable nodes, she found a keystone ability. Aha!
+
+Reachable Nodes:+50% spell power to Knowledge magic. Cost: 4+50% spell haste. Cost: 5Runic Script gains Elegant Synergy (Your skill level in Calligraphy, Sculpting, or the most relevant general skill is added when determining the maximum level of the runic formation you can create, and for overcoming the defenses of your target.) Cost: 8
+
+It was a keystone node that uniquely improved her skill, but it was uncertain exactly how much it would change. “What do you think of this?” Ali asked.
+
+“Looks nice,” Calen said. “What’s your concern?”
+
+“I’m not sure how relevant it will be to fighting the Lich,” Ali said.
+
+“Traps,” Mato offered, in his usual blunt and direct manner.
+
+“The bear might have a point,” Lyeneru said. “You like bosses a lot, but what if you trapped the entire forest around Lirasia’s tree? You wished to help protect her, right?”
+
+“The town, too,” Vivian said, growing more excited.
+
+“Ok,” Ali said. It was true that traps were not her primary strategy, but even without any further advancements, she had all the tools to make them far more effective. She selected the ability and spent the points.
+
+[Runesage Ascendant 5/10] Runic Script gains Elegant Synergy.
+
+Her nodes returned to a choice between haste and knowledge, so she chose her favorite twice more.
+
+[Runesage Ascendant 6/10] +50% spell haste.[Runesage Ascendant 7/10] +50% spell haste.
+
+While she was spending a lot more Authority than her prior evolution – understandably – the effects were far stronger, and it didn’t seem to be letting up. An additional one hundred and fifty percent spell haste, and she had only explored seven of ten nodes along this path so far. This time, when she examined her reachable nodes, she found a new surprise.
+
+Reachable Nodes:+50% spell power to Knowledge magic. Cost: 4+50% spell haste. Cost: 5Runic Script gains Fully Supported (Any runic magic powered with your mana gains the full effect of all your support skills, masteries, aptitudes, and buffs, as if cast by a skill) Cost: 10Sage of Learning gains Inscrutable Insight (Any runic magic may be understood with study) Cost: 9
+
+“Oh, I have two choices,” Ali said, sharing the nodes. Technically, there were four, but by habit now, she always considered keystones to be superior to regular nodes, and she had yet to be proven wrong on that account.
+
+“Those are both good,” Malika said. “How are you going to choose?”
+
+“Fully Supported, I think,” Ali said. “I think Inscrutable Insight is leading toward a more scholarly path, and I can likely only pick one. Fully Supported would allow me to apply my passive boosts from my support skills to wands, and I could get more support skills crafted onto gear.”
+
+Lydia immediately perked up at her strategy thoughts.
+
+“Seems like a good plan,” Malika nodded.
+
+Indeed, if she wanted something that would help her fight, this one would be a good step in that direction. Applying all that spell haste and the Arcane Recall mastery to whatever she made would make her items far more valuable. Not to mention, she was almost certain some dungeon shenanigans would be possible given that the keystone referred to ‘runic magic powered by your mana,’ and her domain was her mana, too. My new traps just got even stronger.
+
+[Runesage Ascendant 8/10] Runic Script gains Fully Supported.
+
+As she’d expected, both keystones vanished, and for the ninth node, Ali picked haste again.
+
+[Runesage Ascendant 9/10] +50% spell haste.
+
+“Sheesh, two hundred percent to spell haste so far,” Ali murmured.
+
+“Watch out, world!” Mato chuckled.
+
+“I hope so!” Ali said and then inspected her final node options.
+
+Reachable Nodes:+50% spell power to Knowledge magic. Cost: 4+50% spell haste. Cost: 5Runic Script gains Mana Inscription (You may cast any known runic spell directly by creating the formation with your mana.) Cost: 12
+
+“Seeker, it appears your wisdom is infallible,” Ali said, sharing the final keystone while deftly circumventing whichever variant of ‘I told you so’ he might spout.
+
+He puffed out his chest, preening blatantly at the praise, then smirked. “I told you so.”
+
+Mato snorted in amusement.
+
+[Runesage Ascendant 10/10] Runic Script gains Mana Inscription.
+
+Ali barely had to consider it. Excitement bloomed within her heart at the sight of the final keystone. Mana Inscription. It was just like Val’korr had suggested, and, given how much runic magic she now knew, especially considering how much she had studied to prepare for effective use of Disruption, it was likely to be a pivotal advancement for her. Well worth the cost. Considering her Grimoire and the Tithe enchantment built into her domain, not to mention the Grand Library Arcana, her ability to acquire new runic magic was exceptional. Even if she restricted herself to her own affinities for the purposes of casting, she would still have a giant repertoire. More than Nathaniel himself, she realized.
+
+Here, at least, was something concrete she could wield against the Lich’s armies. Something with the kind of scope and versatility the Archmage had wielded.
+
+She had greatly envied Nathaniel Sunstrider and his ludicrous spellbook, and while she still had a copy of it in her storage ring now, she knew without a shadow of a doubt that this skill would prove to be far superior. Not to mention, she wouldn’t even need a book for her spells.
+
+“I guess I need to level Calligraphy and Sculpting now,” she said. The shrine reacted to her completing the path with several notifications.
+
+Runesage Ascendant path completed.244 Authority remaining.The Tree of Knowledge path removed.Dungeon of Enlightenment path removed.The Rune Forge path removed.
+
+As the chimes sounded and the shrine’s notifications paused, Ali shared her gains with the waiting group, triggering an impassioned debate among the more scholarly of them. In particular, Calen and Val’korr began to have an intense debate on the finer points of the wording of her keystones, which she was certain she could resolve in an instant, later, when she was able to just try it out.
+
+4 new paths found.
+
+Ali quickly dug into her new options.
+
+Edict of DenialRequirements: Disrupt (tier two), Intelligence greater than 7000, Spell power to knowledge skills of at least 150%.You fight your battles with strategy and planning, choosing to allow or deny your opponents’ magic. You exert unparalleled control upon the battlefield with your prodigious understanding of the nature of magic, spells, and your insight. Now ascend the path of control, developing your understanding of magic, perception, insight, and disruption until even the most powerful archmagi will fear your name.Traits: Arcane, Knowledge, Magic, Haste, Intelligence, Perception.Path Length: 10Reachable Nodes:+50% spell haste. Cost: 5+15 Intelligence. Cost: 1+15 Perception. Cost: 1Quality: UniquePath – Keystone
+
+Doctrine of the Withered GroveRequirements: Have summoned more than 100 greater undead or rot affinity minions.Embrace the inevitability of death, enhancing your armies with undead and your magic with the power of decay. This path unlocks powerful specializations rooted in rot magic and greatly expands your summoning abilities and the power of your minion armies. You will wipe your foes away in a deluge of the dead and return them to the earth through decay.Traits: +Death, Nature, Minion, Intelligence, Wisdom, DomainPath Length: 15Reachable Nodes:Gain an affinity with death magic. Cost: 15+50% to spell power for minion rot-affinity spells. Cost: 3+15 Wisdom. Cost: 1Quality: UniquePath – Class, Affinity
+
+“Oh, heck no!” Ali blurted out as soon as she saw it, her body shuddering at the implications. Hastily, she read the next one.
+
+ElementalistRequirements: Learned the imprints for elementals of at least ten different affinities. Built a domain with more than ten different affinities. Imbued numerous affinities using a shrine.The path of the Elementalist is pure and focused. Your specialization in elemental monsters grants you incredible magic versatility and power. Elementals enhance your domain, and your domain empowers your elementals. Your magical affinity is expanded, allowing you to wield all types of magic. Use the power of your elementals to expand your domain and conquer the world.Traits: +Affinity (All), Minion, Elemental, Domain, IntelligencePath Length: 20Reachable Nodes:Gain universal mana affinity. Cost: 25Quality: UniquePath – Class, Affinity
+
+The Path of the Verdant HostThe prolific Verdant Host is a summoner without equal, commanding vast armies of minions. You specialize in the quantity of minions, relying on the bounty of nature. Exchange your Fae heritage and bloodline and embrace the Sylvan instead. Lose Magical and Tiny, and instead gain the language of plants, a far greater affinity with nature, your summoned minions, and your domain.Traits: Nature, Minion, Domain, Plant, +Sylvan, (-Fae, -Bloodline)Path Length: 12Reachable Nodes:-50% to the mana cost of nature-affinity minions. Cost: 8Quality: UniquePath – Class, Race Choose your path.
+
+Without a word, Ali shared her four new path choices with her friends. This set was both far easier and simultaneously uniquely more challenging for her. She discarded the Doctrine of the Withered Grove with a wrinkling of her nose. It was perhaps inevitable that death magic hounded her at every opportunity. She mentored a necromancer, after all. But it was likely due to her continual exposure to death magic in all its variety that drove her paths to offer something like this. A unique path based on her exposure to the blooming rot, and no doubt influenced heavily by Nathaniel Sunstriders’ Well of Corruption. As any good dungeon, she had taken the best monsters her foes had thrown at her and made them her own, but summoning undead and rot minions had resulted in this.
+
+It was a path that didn’t require her to sacrifice anything, but she still had nightmares about the deluge of rot monsters Lira’s specter had unleashed upon her, and the idea of becoming that filled her with shudders of disgust.
+
+Besides, any death affinity will make it harder to fight him.
+
+The Path of the Verdant Host looked like the kind of dungeon path she needed. Leaning heavily on the strengths of her nature affinity and the ability to summon hordes of monsters it would give her a big boost in power. Even the first node would make any summoner salivate – half-price for minions meant twice as many. But – and it was a big but – giving up her race and bloodline felt like giving up an important part of herself, her identity. She mentally marked it as her last resort. Better than the death and rot, but she’d pick anything decent over it.
+
+Fortunately, Elementalist and Edict of Denial both seemed extraordinary. Unfortunately, it seemed to be for entirely different reasons.
+
+Ordinarily, restricting her scope to a heavily specialized type of monster would be quite limiting and expose her to serious vulnerabilities. Granted, those kinds of specializations were supposed to come in exchange for substantial power increases; however, Elementalist offered something truly extraordinary. Something well beyond anything she had expected. The ability to wield every affinity. That simple fact more than covered the weaknesses of specialization.
+
+The Edict of Denial, on the other hand, was a path that would take her in a completely different direction as a mage; a path that built upon her perception of magic and her ability to disrupt it. It would seem that her intense struggles to overcome Nathaniel had substantially affected her evolution choices, and this was the culmination of all that work.
+
+“Those all look very strong,” Calen said, his eyes a little glazed and unfocused, obviously studying the options she had shared.
+
+“I don’t like the Doctrine of the Withered Grove, for obvious reasons,” Ali said. “Same with the Path of the Verdant Host.”
+
+“Why not?” Calen asked. “They both seem to be extremely powerful summoner-based paths.”
+
+“Doctrine of the Withered Grove reminds me too much of the Blooming Rot,” Ali said, and besides, rot was just gross. She loved how beautiful her Forest Cavern had turned out, and it had wounded her deeply when she had seen what the Blooming Rot dungeon had done to it. “I don’t want to be a necromancer.” Although technically, some might consider her to be one already, given the sheer number of undead she had roaming about on the second level of the ruins of Dal’mohra.
+
+“I’m sorry, dear,” Lira said, grimacing.
+
+“It’s not your fault,” Ali said. “Besides, there’s another, more important reason. No matter how strong it is, death affinity will be a liability against the Blind Lich and his armies.”
+
+“What about The Path of the Verdant Host then?” Calen asked. “That’s not death affinity, and it looks like it would give you an enormous increase in your minion armies.”
+
+“Didn’t you say your dad was a nature summoner, too?” Mato asked.
+
+“He was…” And Ali had loved his summons, and growing up in the grove. “But I’d have to give up being Fae.” While she was sure some folk – even some present – would claim that to be poor reasoning, it felt far too much to ask for a shot at power. “Why do you think it’s so strong? It’s just a bonus to summoning. Elementalist seems far better.”
+
+“If you lose the Tiny debuff, can’t you use the Eye of the Lich all the time?” Calen asked.
+
+“I… didn’t think of that,” Ali answered. Currently, she had to trade out rings, effectively sacrificing her melee fighters and archers every time she needed some extra boost in magical potency, but Calen had a point. Without her aptitudes pulling strength and vitality down, she would have no reason to ever take the legendary ring off. It was by far the most powerful item she owned. “Still,” she said, weighing it up carefully. “I don’t think I want to give up my heritage and bloodline.”
+
+Lira settled a sad gaze upon her and said, “I think that choice is once again my influence warping your paths.”
+
+“It’s ok,” Ali consoled her again. It seemed she was struggling with guilt about the way her circumstances were warping the choices offered. It made sense, though, considering what the quest had taken, and the entirely unexpected result of Lira’s ascension. Not everyone had a four-mark deity attending their class evolution.
+
+“So, you are set on choosing between Elementalist and Edict of Denial?” Malika asked.
+
+“Yes, they both seem very strong. I’m really liking the unrestricted magical affinity from Elementalist.”
+
+“You don’t mind the restriction on your minions?” Lyeneru asked. “That seems like a very narrow specialization.”
+
+“Well, being able to use any affinity combined with the Runesage Ascendant path I just took is an incredible combination,” Ali said. Runsage Ascendant’s last keystone allowed her to cast anything she understood using just her own mana, but it would necessarily be restricted to her own affinities. Chances were, she might be able to wrangle other spells if cast inside her domain, due to the unique adaptability of her domain mana. However, Elementalist would grant her all affinities, and she would have access to a vastly larger repertoire.
+
+“It does, but I know at least three adventurers who have Elemental Slayer as a class perk,” Lyeneru answered.
+
+“That’s a good point,” she conceded. Making class decisions based on three people out of the entire continent was not particularly smart, but she suddenly realized what must have happened to Azryet. Undoubtedly, he’d been offered a path much like this one, something with an extremely attractive addition, and he had chosen to take the specialization and was still paying for it after thousands of years. Besides, most dragons were notorious for holding firm beliefs in dragon-kind’s superiority, so he had probably not even considered it a limitation at first.
+
+Too bad I couldn’t have shown him the power of that Devouring Consumption before he chose that limitation.
+
+“What about all your healers?” Malika asked. “If you chose Elementalist, you’d lose them, right?”
+
+“I still have the Sacred Guardians that my Divine Archons can summon,” Ali said, pursing her lips, but the truth of Malika’s meaning was glaringly obvious. She would lose the ability to summon the Divine Archon itself. She was allowing herself to dream about the unfettered freedom of being able to cast any spell, but the true power of her class was in the versatility of her minions. If she wanted to be strong enough to stand against the Lich’s armies, she would need every scrap of that versatility and more.
+
+“You need your minions,” Malika said, completing her thought for her.
+
+Ali nodded. “Edict of Denial, it is, then,” she decided. The path seemed to also be quite specialized, but she was certain that disrupting someone’s core spell would never go out of style, and she always had minions to stand behind when she needed to face swords or arrows. Anything that had a perception trait was bound to improve her ability to detect sneaky assassins – and that had always been a big plus in her books. The only downside was that it was a second mage path, and she had yet to find something that would tie into the strengths of her summoning and domain, at least without unduly limiting her.
+
+“You’re going to be a royal pain in the ass for any mages, Ali,” Mato said, grinning broadly.
+
+“I sure hope the Blind Lich appreciates that,” Ali said. With one last wistful look at the ‘universal mana affinity’ she would be passing up, she began spending the points to follow the Edict of Denial path. And for her first choice…
+
+Can’t go wrong with more spell haste! It was a good sign, though, in her book. Summoning monsters became dramatically faster with spell haste, and her battle with Nathaniel Sunstrider would no doubt have been easier if her magic worked just a little faster – certainly faking spells to draw out the disrupt would be vastly more effective if she had more time to draw out the fakes. Yes, this can work.
+
+[Edict of Denial 1/10] +50% spell haste.
+
+On the second node, she discovered she had no alternative choices. Just a single keystone node.
+
+Reachable Nodes:Arcane Insight gains Mana Drain. Cost: 9(Recover the mana cost of any disrupted or dismantled magic. Mana recovered in this way can be distributed amongst your minions).
+
+This is nice, she thought. Although not a particularly amazing advancement, it was rare that she had too little mana, given her regeneration and enormous mana pool. Still, it was one more trick to recovering mana besides potions, deconstruction, and inspiration, and wouldn’t go to waste. The option of feeding her healers every time she disrupted something might be her strongest tactic, but if nothing else, she could always feed the excess mana to Empowered Summoner and make her minions stronger. Although she couldn’t imagine how much mana she might recover from dismantling a construct as large as the Lich’s Death Knight array. Something to test, for sure. She spent the points.
+
+[Edict of Denial 2/10] Arcane Insight gains Mana Drain.
+
+For her next node, she was presented with a spell power increase for four Authority points, so she took that.
+
+[Edict of Denial 3/10] +50% spell power to Perception skills.
+
+This time, when she opened her reachable nodes, Ali found another keystone awaiting her decision.
+
+Reachable Nodes:+50% spell haste. Cost: 5+50% spell power to Perception skills. Cost: 4Arcane Recall gains Alacrity of Mind. Cost: 14(Spell haste affects your mind. All mental processes, reflexes, analysis, and perception are quicker.)
+
+Expensive! But the moment Ali read the effects, she spent the points without second thought.
+
+[Edict of Denial 4/10] Arcane Recall gains Alacrity of Mind.
+
+Now this is incredible! Ali’s arcane disruption skill required understanding the spell being cast – something that was rather unusual, as she had discovered after a ton of research in the library. While disruption magic was quite rare, almost always the exclusive domain of arcane mages, most mages who did have it got an automatic disruption. Initially, she had been a little bummed out by that, but hers had the advantage of being adaptable to any kind of magic imaginable. In theory, she could even learn to disrupt World Magics and Domain Magics – provided she outleveled them by enough. But Alacrity of Mind would speed up every process involved in a mage battle – identifying the spell faster, learning the formations faster, the logic and reasoning behind the strategy and decision making. This skill advancement would have most certainly made Nathaniel Sunstrider, if not easy, at least far more controlled.
+
+Following the node paths, Ali picked the next two quickly, prioritizing spell haste when available and perception spell power when it was not.
+
+[Edict of Denial 5/10] +50% spell haste.[Edict of Denial 6/10] +50% spell power to Perception skills.
+
+Ali’s eyes widened when she saw the next nodes available. This time, a choice between two that both looked incredible.
+
+Reachable Nodes:Arcane Insight gains Deflection. Cost: 14(Modify a single-target magic, while it is being cast, substituting a new target of your choice. Recharge: 30 seconds).Barrier gains Spell Block. Cost: 14(Block a single spell with a specially constructed barrier. Recharge: 30 seconds).
+
+“Wow, difficult choice,” Ali said, sharing the options.
+
+“Those both look great,” Calen said.
+
+“Can you get both?” Mato asked.
+
+“Unlikely,” Calen countered, and Ali had to agree with him – she’d never seen a keystone offered twice.
+
+“This looks like a second recharge to stop something important,” Ali said.
+
+“A second way to wreck the plans of any mage, you mean?” Mato grinned.
+
+“Yes,” Ali said. Technically, it would be her third, given that she had Spell Steal on the staff they’d looted from the archmage himself. “Either I can block it or redirect it.”
+
+“Block seems applicable to a wider range of spells,” Calen said, rubbing his chin thoughtfully. “But Deflection could really screw something up if you can turn his spell back on him.”
+
+“That’s what I was thinking,” Ali said. “I think Deflection is slightly better, then. The strategy is less predictable.” And, in her experience, predictability was something to avoid at all costs during a mage duel – even if there might be several spells it couldn’t apply to because they had no targets to adjust. At least the Edict of Denial was providing a healthy dose of spell haste and perception boosts to help her cope. She spent the points to buy Deflection.
+
+[Edict of Denial 7/10] Arcane Insight gains Deflection.
+
+The next two nodes were simple ones, and again, Ali picked haste as her highest priority, biasing strongly toward the path she favored based on her experience with Nathaniel Sunstrider.
+
+[8/10] +50% spell haste.[9/10] +50% spell power to Perception skills.
+
+“Last one,” she said, pulling up the final node in her path.
+
+Reachable Nodes:Arcane Insight gains Critical Advantage. Cost: 14(On spell critical with Arcane Insight, all recharges on Arcane Insight are instantly refunded).Arcane Recall gains Mana Quickening. Cost: 20(One fifth of spell haste affects the speed at which your magic recharges.)
+
+“Goodness, this is ridiculous!” Ali exclaimed at the sight. Quickly, she shared the choices with her friends, and they all reacted.
+
+“That’s unfair,” Calen said.
+
+“Third tier,” Val’korr said, with a smug smile.
+
+After a long list of support magic and advancements, the final keystone looked incredible. “Two ways to get more use out of my disruption spells,” Ali said, studying the options. “A random refund, or faster recovery?”
+
+“Seems that way,” Calen said.
+
+Disrupt or dismantle did not do damage in the normal way, so spell criticals were not even typically noticeable. Now, she could gain an immediate second use out of disruption any time it happened. More if deflection counted, and Ali was fairly sure it would. It was the kind of surprise that turned duels and broke stalemates.
+
+Mana Quickening was more even – all her disruption recharges would recover faster, and she could stack more spell haste to improve it.
+
+“They seem about the same to me,” she said. “I just can’t figure out why the second one is so much more expensive.”
+
+“Aliandra, pay attention to the wording on Mana Quickening,” Val’korr said.
+
+“What do you mean?” Ali asked, but then she saw it. “Wait, it affects everything?”
+
+“Looks that way to me,” Val’korr said.
+
+“Oh, Korr, well spotted! I do believe you’re right,” Lira said. The aged Troll Seeker’s blue-skinned cheeks darkened as he stammered something awkwardly, but Ali wasn’t paying attention anymore.
+
+“Everything recharges quicker?” Ali said, her mind racing. Teleport? Arcane Recall? Does that mean my bosses respawn faster, too? Val’korr’s sharp eye had just shown the true value of the keystone offered, explaining the higher cost, and Ali immediately spent the points to buy it.
+
+[Edict of Denial 10/10] Arcane Recall gains Mana Quickening.Edict of Denial path completed.169 Authority remaining. Doctrine of the Withered Grove path removed.
+
+Elementalist path removed.The Path of the Verdant Host path removed. 3 new paths found.
+
+Ali took a deep breath, a second one for good measure, and then shared the next three paths with her friends before starting to read them for herself.
+
+MakerRequirements: Mentored by Azryet, The Calamity. Gained significant experience from dungeon traps, puzzles, and constructs. Used a domain array to defeat a champion boss.Supercharge your domain mana with an intoxicating allure, drawing your victims into your clutches, wherein they will be made to succumb to your devious construction. A specialist in traps and deadly puzzles, your dungeon will be filled with fantastic constructions, devious mazes, extraordinary artifacts, and impossible challenges. Traits: Dungeon, Domain, Crafting, Rune Magic, Constructs, Traps, Puzzles, Intelligence.Path Length: 6Reachable Nodes:Domain Mastery gains Dungeon Allure. (random attractiveness-oriented domain enhancement) Cost: 6Runic Script gains Domain Array. (random rune-construct domain enhancement) Cost: 6Runic Script gains Dungeon Trapper. (random trap-oriented domain enhancement) Cost: 6Quality: UniquePath – Keystone
+
+Color drained from her face as she re-read the description. Victims? Oh no, that’s not me… yet in a flash, she understood how powerful, how lethally transformative, her evolution process could be. This was not underwhelming anymore. No. This was horrifying – and it grew worse as she read on.
+
+BreakerRequirements: Mentored by Azryet, The Calamity. Initiated more than one hundred dungeon breaks. Successfully applied champion-level domain enhancement to a summoned World Boss.Some dungeons may wait patiently for the unwary to step within their halls; not you. You go to flush your victims from their own lairs and holes, destroying them in their hiding places. A specialist in dungeon breaks, your dungeon will be feared across the land. Traits: Dungeon, Domain, Minion, Wisdom, Intelligence.Path Length: 6Reachable Nodes:Martial Insight gains Minion Survival. (random survival-oriented minion enhancement) Cost: 6Martial Insight gains Minion Aggression. (random attack-oriented minion enhancement) Cost: 6Martial Insight gains Minion Defense. (random defense-oriented minion enhancement) Cost: 6Quality: UniquePath – Keystone
+
+DestroyerRequirements: Mentored by Azryet, The Calamity. Destroyed multiple dungeons higher-level than yourself. Survived the complete destruction of your own domain. Experienced the dungeon rage of a god. Not content to fight with mere mortals, you set your eye on the supreme prize. Your prey are dungeons – the top of the food chain. You specialize in dungeon rage, gaining powerful bonuses to inter-dungeon combat while enraged. You are a dungeon assassin with a vast repertoire of expanded anti-domain and dungeon-infiltration skills. Traits: Dungeon, Domain, Combat, Magic, Intelligence.Path Length: 6Reachable Nodes:Domain Mastery gains Domain Resilience. (random resilience-oriented domain enhancement) Cost: 6Domain Mastery gains Domain Conqueror. (random attack-oriented domain enhancement) Cost: 6Domain Mastery gains Domain Expansion. (random growth-oriented domain enhancement) Cost: 6Quality: UniquePath – Keystone
+
+“Those sound terrifying,” Vivian said when Ali shared the three paths before her.
+
+“Those… those are definitely dungeon paths,” Lyeneru said. She seemed uneasy – more uneasy than before. Yet she nodded slowly. “Still, I trust the person considering these options.”
+
+Ouch. The plain-spoken rebuke nonetheless steadied her. She’s right. Power is one thing. What matters is how I choose to wield it.
+
+Ali, studied the offerings closely as she fought down her fear and disgust. This is obviously Azryet’s influence. She glanced over at Lyeneru and then suddenly recalled the Night Elf rebuking her for not thinking – fighting – like a dungeon. At once, her path options transformed in her mind as she saw them in a new light. Here she would find a way to become the strongest dungeon she could imagine – she just had to pick well. Just that. No pressure.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

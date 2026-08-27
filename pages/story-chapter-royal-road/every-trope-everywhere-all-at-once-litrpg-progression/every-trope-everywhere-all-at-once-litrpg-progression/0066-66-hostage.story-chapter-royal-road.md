@@ -1,0 +1,209 @@
+---
+id: 9c8ea95c-95da-5b41-8337-7a9e91aca4d6
+page-type-slug: story-chapter-royal-road
+title: "66 - Hostage"
+slug: 0066-66-hostage
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 66
+ownLength: 1904
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3641864/66-hostage"
+royalRoadId: "3641864"
+---
+
+Kaelor, Meriel, Talon, Tuna, and the other ring wielders came back with Aeris, standing among the crowd as Aurelius held Reina hostage.
+
+“Aeris filled us in,” Kaelor whispered to me. “So it was just as we had thought—he had been hiding among the ring wielders this entire time, waiting for the right moment to sneak up on us.”
+
+I nodded. “He wants our bodies specifically. He won’t let Reina go unless we hand ourselves over to him.”
+
+The rest of the crowd backed away as far as they could, leaving only me and the others here. We were too afraid to make any sudden move in case Aurelius would instantly react to it and hurt Reina.
+
+“Is that all you want?” Kaelor asked. “Me and Allene?”
+
+Reina whimpered as Aurelius pressed the blade deeper into her neck. It wasn’t enough to draw blood.
+
+“Yes,” he said. “I’d like Kaelor’s body for myself and Allene’s for Camille. That is all I ask.”
+
+“That can’t be all,” I said. “What about everyone else? Don’t you want their bodies too?”
+
+He nodded. “I do. But if you want me to let Reina go, then you and Kaelor should be the first ones to hand me your bodies.”
+
+“How can we trust you?”
+
+He thought about it for a moment. “You can’t. But I don’t think any of you are in the position to decide that.”
+
+Kaelor leaned into me, whispering, “Do you think he’s bluffing? He wouldn’t kill Reina, would he?”
+
+I slowly shook my head. “I don’t know. He never expressed much interest in taking Reina’s body—at least, not as much as ours. I think he’s willing to kill her if it means we’d give up ours.”
+
+Kaelor and I took a step forward.
+
+“Wait,” Meriel said from behind us. “Take my body instead of Allene’s.”
+
+Aurelius glared at her, shaking his head. “Camille’s soul yearns for Allene’s body, not yours.”
+
+“But how do you know that?” she asked. “Camille hasn’t seen me yet, has she? Reina and Allene were the only ones who saw her back at the dungeon’s manor.”
+
+“So what?” Aurelius said. “I already know that Camille’s soul reacts to Allene. I’m not taking my chances with your body instead.”
+
+“But you said so yourself—Allene’s body isn’t a perfect fit for Camille,” Kaelor said.
+
+Aurelius narrowed his eyes. “And what makes you think Meriel’s is?”
+
+Why was Meriel so willing to take my place right now, and why was Kaelor trying to help her with it?
+
+Were they planning something?
+
+“Look into Allene’s soul again,” Kaelor continued. “You said that her soul was different from any soul you’ve seen before. What’s to say her body isn’t different as well? What’s to say Camille won’t react to Allene’s body in a horrific way?”
+
+“...A horrific way?”
+
+“I mean,” Kaelor said, “that there is nothing preventing Camille’s soul from being destroyed as a result of being put into Allene’s body. You’ve done all sorts of experiments before, so you know what works and what doesn’t. But Allene? You’ve never seen a soul like hers before. Her body could be dangerous for Camille to have.”
+
+Meriel walked toward Aurelius. “But I’m willing to give my body to you. We can go back to the dungeon and see if Camille wants my body.”
+
+For a moment, there was complete silence. The crowd had backed away so far that we could barely hear their whispers. The wind swept by and rustled our hair.
+
+Then, Aurelius smiled as Reina shivered in his grasp.
+
+“I see,” he said. “I applaud you two for your arguments. But remember…”
+
+He leaned closer to Reina. “I’m the one who has the upper hand. Not you. Now it’s not just Allene’s and Kaelor’s bodies that I want. I’m taking Meriel’s as well.”
+
+This wasn’t good. Nothing we said was working.
+
+Nothing…
+
+I glanced at Kaelor and Meriel, and their expressions…
+
+Why did they seem okay with it?
+
+“Trust us,” Meriel whispered. She spoke in such a way that Aurelius didn’t notice.
+
+The three of us stood just in front of Aurelius and Reina. He motioned for us to turn around and face the other way, so we followed along.
+
+I saw Aeris and Talon standing just beside Tuna, saying nothing.
+
+“Good,” Aurelius said. He kept his blade on Reina’s neck but let go of her with his other hand, bringing that hand to the back of my neck. “Unfortunately for you, you’re first, Allene. Give your soul to me.”
+
+A deep purple light spilled from his palm—the same light that appeared when he had tried to siphon Kaelor’s soul.
+
+I let out a scream. The pain didn’t attack my body but my soul itself. It was an impossible feeling to describe, but it was the kind of pain somebody could only be familiar with if they’ve been through it before.
+
+“The pain won’t stop until you give up,” Aurelius said, “so I would advise you to relinquish your soul. Don’t fight it. It’ll only hurt more.”
+
+At the same time, Kaelor and Meriel flipped, attacking Aurelius. He quickly stopped siphoning my soul and kicked me forward. As I stumbled and turned around, I saw him trying to slash Reina’s neck.
+
+But he couldn’t. Meriel had already pulled her staff out and cast her barrier around Reina just in time.
+
+Kaelor ran in with his dagger. Aurelius met it with his sword. Aeris rushed toward the fight from behind, and I saw a tiny rock shooting past me. It was from Talon’s slingshot.
+
+So this was their plan all along.
+
+[TROPE COMPLETED: THE HOSTAGE]
+
+[SKILL ACQUIRED: HOSTAGE NEGOTIATION]
+
+Type: Passive
+
+Effects:
+
+- Your words carry greater weight during hostage situations
+
+- You are better able to identify what hostage-takers want
+
+I wasted no time and rushed toward Aurelius, pulling out Dawn Sunderer.
+
+Slash. Dodge. Clash. For a second, Aurelius held his own. But with the current body he was in, he was much weaker than he was in Gabriel’s body.
+
+Eventually, we managed to disarm him. Kaelor and I held our weapons to his neck, just like he had done to Reina earlier.
+
+“Thanks, everyone!” Reina shouted, pointing Giant Slayer at him.
+
+Aurelius held both his hands up.
+
+“So what now?” he said, laughing. “You can’t kill me. This body belongs to an innocent woman.”
+
+“We don’t have to kill her,” I said.
+
+Dawn Sunderer glowed brightly from being so close to his head. Reina’s theory back then was right. The sword would react to him.
+
+I squeezed the handle tighter, and the glow intensified. Aurelius let out a scream.
+
+Soon, black mist began to escape the woman’s mouth. Once it had fully left, the woman slumped and collapsed to the ground. Meriel rushed over to her, checking her pulse.
+
+“She’s alive!” Meriel shouted. “Chase after his soul!”
+
+Aurelius’s soul flew through the air. Kaelor picked himself up with wind magic, trailing just behind. The rest of us followed right behind.
+
+Aeris and Talon were about to send a fire breath and rock pebble toward his soul, but I quickly stopped them.
+
+“Don’t attack, or you’ll accidentally kill someone!” I yelled.
+
+Aurelius’s soul went toward the crowd of people. Everyone tried to attack it, but it was difficult to do so since his soul was dancing in between everybody. One wrong move and they’d accidentally kill an ally.
+
+Then, Aurelius’s soul slipped into someone else with his ring. A harpy mage.
+
+“There!” Kaelor shouted, pointing at him.
+
+Aurelius took to the skies with his new body. He swirled the staff in his hand above him, gathering his mana. A cyclone began to form.
+
+The wind gathered in one place, spinning faster and growing stronger by the second. Several people were swept into the cyclone, and even their wings couldn’t break them free. It was too difficult to close the gap with him at this point, or else we’d be swept into it as well.
+
+“I’ll handle this,” Aeris said.
+
+Light flashed from her body as she took her dragon form. She flew straight into the cyclone, finding the gap that would let her go through without accidentally colliding with the ones swept up in it. Once she was in the center, she rapidly flapped her wings, and the cyclone dissipated.
+
+The people who were in it began to fall out of the sky, but since they were all species with wings, they recovered before crashing into the island below. With that, we all shot toward him—not just us, but the rest of our allies.
+
+Seeing that, Aurelius voluntarily released his soul from the body. The mage fell through the air, but Aeris swept by in time, letting them land on her back.
+
+Aurelius’s soul was on the move again.
+
+“Everyone, be careful!” Kaelor shouted. “Don’t let him get close to anybody with a ring on their finger! He’s only able to steal somebody’s body if they have that ring!”
+
+Everyone on the island took formation. Those wearing Aurelius’s rings raised their hands high for the others to see, and the nearby allies surrounded them, leaving Aurelius no opening to take their bodies. His soul zipped across the island, searching for a body to take, but he couldn’t find any.
+
+His soul was faster than Aeris or Talon, but Kaelor and I were able to keep up. I tried all sorts of attacks, from sending out dozens of light arcs with Dawn Sunderer or casting several fire and wind spells with Starcaller. None of them landed.
+
+Except one.
+
+But even so, his soul barely took any damage from it. He continued flying away as if nothing had happened. Normal spells wouldn’t work against his soul unless we landed dozens of them. The best choice was for me to exclusively use Dawn Sunderer.
+
+Then, a loud meow came.
+
+Tuna flew past us with Meriel and Reina on top of her. I barely reacted in time and grabbed onto her tail as she shot through the air. Unlike Kaelor and me, she wasn’t just able to keep up with Aurelius’s soul. She was faster than it.
+
+“Good timing!” I said, moving to where Reina and Meriel stood. “He’s looking for a body to take right now, but I don’t think he’s able to find one! Everyone’s surrounding the people wearing his rings!”
+
+But Reina shook her head. “No, I think he’s heading back to the tent. Look!”
+
+She was right. The tent was just below us as we flew through the air. Among the people in the tent, one of the wounded soldiers had his ring. That soldier was his target.
+
+Aurelius’s soul swept down, and Tuna followed. His soul entered the tent. Tuna landed, and the three of us jumped off of her. We entered the tent with our weapons ready for anything, but…
+
+We didn’t find anybody. The medics, mages, and everyone else had already left. However, all the wounded people were still here.
+
+“Check everyone!” I shouted. “He’s hiding in one of—”
+
+A dagger shot toward me.
+
+It was too quick. Too sudden. I wouldn’t be able to move away in time, nor could anyone cast a barrier in time.
+
+“Allene!” Reina cried.
+
+But Meriel moved first.
+
+She dashed in front of me, standing in the dagger’s path.
+
+Shhk!
+
+Our eyes widened.
+
+The dagger had pierced her chest.
+
+[TROPE INITIATED: THE MENTOR MUST DIE]
+
+Completion criteria: Meriel dies after taking a fatal hit for you.

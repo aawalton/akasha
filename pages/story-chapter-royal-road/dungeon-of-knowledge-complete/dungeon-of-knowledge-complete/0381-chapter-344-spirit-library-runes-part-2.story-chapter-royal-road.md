@@ -1,0 +1,111 @@
+---
+id: 7d6446ef-3dcb-5466-a72b-46581fb11fd7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 344: Spirit Library Runes (Part 2)"
+slug: 0381-chapter-344-spirit-library-runes-part-2
+partOf: dungeon-of-knowledge-complete
+position: 381
+ownLength: 2274
+unit: words
+ownProgress: 2274
+publishedAt: 2025-08-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2512175/chapter-344-spirit-library-runes-part-2"
+royalRoadId: "2512175"
+markedReadAt: "2026-06-29T20:23:32.060Z"
+---
+
+A sudden flicker shifted through the library, as the spirit realm was prone to do, and her tree appeared growing up through the atrium and all the books vanished. Moments later, it flickered again, and the tree was replaced with a spire of bone supporting an undead Skeletal Wyvern with the encrustation of bone covering everything. This echo lasted only a few seconds before it flickered back to the original and remained. From what little Ali understood of the spirit realm, this place must have impressed a powerful image of the original library onto the spirit realm, making this image much more stable than the more recent developments.
+
+Finally, her attention drifted away from the incalculable wealth of knowledge tied up in all the books, discovering a strange golden arcane magical well floating above the atrium beside the familiar white stone ring of a Gate. Only this gate had no magic flowing through it, and no glowing runes inscribed into its surface; only the stone stood there as if waiting for her.
+
+“The rune fountain will manifest runes for you to use. If you don’t use a rune it will evaporate over time. You have two hours to repair the Gate and pass through to the next room. If you do not, the floor will vanish, and you will die," Cael explained.
+
+Odd-looking fountain. It looked more like a bowl. “And if I don’t know the runic magic?” Ali asked, studying the artifacts out in the center of the library, floating far above the floor.
+
+“Feel free to use any book you can reach,” he replied.
+
+Ali turned to regard one of the bookshelves beside her and pulled out a gray tome. Curious, she opened it, to find the pages surprisingly perfectly legible. It was as if she had suddenly stepped foot in the Grand Library of three thousand years ago.
+
+Carefully, she replaced the book and walked out across the arcane barrier to the ‘fountain’ and the Gate, knowing that the offer of books was a decoy. As painful as it was to ignore the beauty and wealth all around her, she knew that the magical tomes had been kept on the floor below, unreachable from where she stood. Now if she could fly, or use her teleport, that would be a different story.
+
+To her surprise, when she examined the stone ring of the Gate, she found it did have some runic inscriptions on it, only, they were incomplete. Resting beside the ring was a set of arcane barriers arranged like a ladder for her to access the higher sections. A ladder, surprisingly, sized to her small frame.
+
+She studied the fountain – which was more like a shallow golden bowl fashioned by arcane magic – finding several runes lying in the bottom of it. They were all tiny crystalline shapes made from the same crystal she had seen all over this dungeon. All of them appeared to be tailored for space magic, although they were all dull and lifeless, devoid of mana.
+
+“Choose a rune to begin the game,” Cael instructed.
+
+Carefully, Ali conjured the memory of the first Gate in her mind, comparing it to the structure of this one, immediately noting the subtle differences in the runic formations. Sage of Learning flared to life, pulling more from her mana automatically. The patterns were obvious – several of the runes in the bowl were runes that were needed to build the pattern on the gate, so she simply selected one and moved to the appropriate place. She examined the tiny crystalline structure in her hands before turning it and placing it up against the stone, fitting it to the existing incomplete formation like a puzzle piece. To her surprise, the rune snapped into place, and she found herself able to direct the mana flowing through the existing formation into the new piece.
+
+“Well done!” Cael said, his excitement way more intense than her modest achievement warranted.
+
+Ali pursed her lips, but as the new rune lit up with mana, the fountain responded, and she finally understood why the bowl was called that. From a point above the center of the bowl, several crystalline runes appeared, shooting upward and cascading down to be caught in the bowl below, while several of the ones that had been waiting there evaporated, slow drifts of mana motes the only sign that they had once been runes.
+
+Seems easy enough, she thought. She would just have to fill in all the gaps on the Gate and she would be done. But as the arcane barrier beneath her feet trembled, she snapped her eyes to the edges of the room to find the barrier magic slowly crumbling. It would take a while to reach her position in the center, but already her heart began hammering in her chest.
+
+There was nothing she could do; she attacked the task with a purpose, selecting runes quickly and slotting them into place.
+
+She quickly settled into a rhythm; her memory of the completed Gate was clear, so all she was doing was filling in the gaps. She found that if she was quick, she could select several of the runes in the bowl before the fountain activated and refreshed the set she could work with.
+
+It was about ten minutes in when she encountered the first problem. The fountain shot a new cloud of runes into the air falling into the bowl with a tinkling sound and she stopped, studying them in dismay. None of the runes in the bowl matched any of the open spots in the construct.
+
+“Having trouble?” Cael asked.
+
+“None of the runes work,” Ali answered. She checked again, but she couldn’t find a way to place any of the runes in the bowl. “I’ll just wait for it to refresh.”
+
+“Aah, but you’ll have to find a way to use them,” Cael answered. “The fountain won’t activate if you don’t use one.”
+
+Ali racked her brains trying to figure out a way to use up the runes, but the only thing she could think of was to deviate from the correct pattern on the Gate. She tentatively picked up one of the runes, but then put it back, choosing a different one. It would be a mess, but she could recover it by adjusting the pattern past this rune by redesigning the section to have the same function but a slightly different variant of the main pattern.
+
+I can do this, she thought, and placed the wrong rune.
+
+Immediately, the fountain reacted, refreshing the bowl with at least three copies of the rune she should have used in that spot. She frowned at it in frustration, a horrible suspicion dawning on her as she tried and failed to remove the rune she had just placed.
+
+“How do the runes get selected?” she asked, keeping her tone casual and offhand.
+
+“Oh, Gage and I choose them,” Cael said, confirming her fears.
+
+So, I should expect sabotage, she thought, the puzzle suddenly becoming vastly harder. She glanced at the crumbling edge of the arcane floor, worried now. What had seemed a rather generous time window now felt woefully inadequate. She continued placing runes rapidly, frowning as she was repeatedly forced to adjust and edit her planned formations, deviating further and further from the reference she had memorized, her mind now burning with the effort of outthinking the two brothers. All too often – way more often than she could reasonably attribute to chance – the ideal rune would be presented right after she had been forced to choose a suboptimal solution and could no longer use it. They’re mocking me.
+
+Suddenly, about a half hour in, she stopped, surprised. She was rushing, trying to get ahead of the clock, and in her haste, she had placed a rune a little off from where she had wanted it. But even though unconnected to the main branch of the formation, it still lit up with space affinity mana. She covered up her surprise with a cough and continued, but her mind raced with the implications. The rune was close to the right position, but even the slightest gap or misalignment in a normal runic spell would result in it failing to activate. It had to be that the puzzle was feeding the domain mana into the runes when she placed them, rather than requiring the formation to be functional.
+
+Does that mean… Carefully, and rather quickly, she scooped up two runes at the same time, covering her action with her hand. She placed the first one, but then she also surreptitiously placed the second one in an out-of-the-way corner, noticing that both lit up with mana. Her mind buzzed with sudden possibilities, but she would need to find a way to test her suspicions. She continued to sneak additional runes, dropping them on her orphaned construct, and when she placed the fifth, it activated on its own. It was a rather simple formation – one which simply twisted space a little in the vicinity of the runes – but it worked!
+
+And with it, Ali knew the two brothers had messed up. They had handed her a way to perform magic, albeit a convoluted and challenging one, but she could create a working spell. The only question was what spell? Whatever she chose, it needed to get her out of here.
+
+Immediately, her mind split into a dragonet in the real-world version of the library, and she swooped down to where Clarence lay on the table. Surely he would have some inspiration among his many pages. But the ornery book would have none of her dragonet’s manipulation, and as she tried more and more desperately to get him to open so she could read him, he fought back with more and more insistence, until he suddenly took off, swooping around as if challenging her to a game of catch. She flew after him in frustration, all the while her hands were busy placing runes as quickly as she could. The formation of the Gate had by now been so far warped from the original formation that she wasn’t certain she could even manage to complete it.
+
+Ugh, Clarence! She darted after him, but the book was way too nimble, darting behind a tree branch and poking around as if to see if she was still chasing. She vented her frustration through the Glitter Dragonet, coming out as a tiny roar that would have sounded adorable under any other circumstances, and gave up, letting the dragonet return to its perch as she released her awareness of it.
+
+Back in the spirit realm, her hand reached for a rune, but right in that moment, magic flared beside her and suddenly Clarence appeared, hovering next to her with his golden magic protecting his covers as he snapped open and riffled his pages with a certain degree of smugness, she imagined, formations of magic popping in three or more dimensions in the strange world of the spirit realm.
+
+“What is that?” Cael exclaimed.
+
+“Why does it have that magic?” Gage gasped, a fraction of a second later.
+
+“Never mind that, how is it ignoring my suppression?” Cael said. “It teleported! And it’s flying! That’s not allowed!”
+
+Ali ignored their commotion, simply staring at the formation Clarence was showing her, committing it to memory immediately before paging past it so as not to give away her plan to the brothers. Ranging out with her mind, she verified that most of the monsters in her dungeon – at least the ones granted domain respawn – had already respawned after the calamitous encounter with the Heroes of the Crimson Blade. With a thought, she switched her Empowered Summoner from her berserker to a Frost Weaver boss she’d added to her ice biome. Her body weakened instantly and dramatically causing her to slump against the fountain bowl, but in the very next breath, her muscles reacted to the enormous enhancement in dexterity from the spider.
+
+Taking advantage of the sudden change in the speed of her hands, and the distraction Clarence was providing, she gathered up all the runes in the fountain and began laying them out rapid-fire, all the while cataloging the new ones that began fountaining into the bowl.
+
+She got through five rounds before the brothers noticed her dramatic change in speed.
+
+“What are you doing?” Cael demanded.
+
+But it was too late for them to do anything. She already had the remaining runes in her hands, and they blurred in different directions as she completed the most convoluted and inefficient runic structure, cobbled together by warping the existing Gate formations to her own purpose. The final rune snapped into place and the entire thing lit up with mana.
+
+“Hey!”
+
+“Stop! That’s not right!”
+
+But Ali was already being pulled by the powerful space magic – not a Gate spell as they had intended – but a teleport of her own crafting. A teleport designed to take her back to her own locus in her dungeon.
+
+Her body lurched as she subverted the dungeon’s own domain mana to power her spell, and she vanished to the pleasant tinkle of her notification chime.
+
+You have defeated Library Runes – Puzzle – level 111 (Space).Dungeon of Knowledge has reached level 117 (+3).+30 attribute points.Arcane Insight has reached level 64.Arcane Recall has reached level 25.Runic Script has reached level 57 (+2).Sage of Learning has reached level 54.Empowered Summoner has reached level 55.
+
+Bye! And good riddance! she thought as the makeshift spell yanked and buffeted her body. I just hope this doesn’t kill me.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,139 @@
+---
+id: fb0462f2-4822-505f-9239-604247a84381
+page-type-slug: story-chapter-royal-road
+title: "Chapter 471: The Crypt of Kings"
+slug: 0508-chapter-471-the-crypt-of-kings
+partOf: dungeon-of-knowledge-complete
+position: 508
+ownLength: 2838
+unit: words
+ownProgress: 2838
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2835882/chapter-471-the-crypt-of-kings"
+royalRoadId: "2835882"
+markedReadAt: "2026-06-29T20:29:28.861Z"
+---
+
+Mato sat enjoying the heat beside the forge and the anvil while the blacksmiths worked their craft, honestly not minding the wait in the slightest. It had been a good fight, smooth, almost routine. But that’s not what was on his mind.
+
+I met a god.
+
+Azryet was a dragon – it was a fact he had known ever since Havok had chosen him as his patron. He had seen dragons, and even fought against them, and so he knew just how enormous and powerful they could be. Or so he thought.
+
+Meeting Azryet had blown all his preconceptions out of the water. He was enormous, yes. But Mato had fought against and been eaten by a Sandwyrm. No, it was the sheer oppressive power that seemed to emanate from him, just by being in his presence.
+
+Mato barely even recalled the conversation he had had with him – Azryet had taken time to speak individually with each of his followers. A surprisingly personal touch from a deity. Mato remembered thanking him for his blessing and the path offered during his evolution that had blessed his forms with holy and void power. At least his mother had been proud that he had remembered his manners in the face of The Calamity.
+
+And Ali fought him.
+
+That took a special kind of insanity. Honestly, Mato couldn’t begin to imagine what that must have been like – to face the wrath of a four-mark dragon god, let alone survive. Ali’s story had been impressive when she had first told it, but having met Azryet now, it elevated her experience to something of a legend in his mind.
+
+Still, the most exciting things to come from that meeting were the clues for how to restore Lira from the acorn. While his other memories may be hazy due to the awesome presence of Azryet himself, these details were burned into his heart, impossible to forget. Even if the others thought it would be hard, he just knew they would find a way. That, and Azryet promised to offer some demon-hunting quests for the guild, and he couldn’t wait.
+
+I just hope I’m high enough level now, he thought, rechecking the notifications from the last Sandwyrm battles.
+
+Elemental Shapeshifter has reached level 145 (+3).+30 attribute points.Arboreal Sanctuary has reached level 60.Swipe has reached level 77 (+2).Brutal Restoration has reached level 73 (+2).Bear Form has reached level 71 (+3).Rampant Growth has reached level 39.Bestial Combat has reached level 60 (+2).Natural Prowess has reached level 57 (+2).Survival Instinct has reached level 72 (+2).Battle Trance has reached level 53.Last Stand has reached level 22.Herb Gathering has reached level 29.
+
+Not too shabby, if I do say so myself. His class was growing, and he was already stronger than anyone Myrin’s Keep had boasted through his childhood. But the tales Ali had told of the kinds of demons she had seen reminded him he still had a lot of growing to do.
+
+While the demon-hunting quests Azryet would post filled him with excitement, the undead kill quests and the related war against the Blind Lich filled him with dread and fierce determination. The undead were a blight upon nature itself, and he would see them cleansed if he had anything to do with it. He double-checked his new guild ring for the quests he had signed up for.
+
+Platinum Guild Ring – level 100A ring signifying platinum-level membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Mato Bahr+61 Strength.+47 Vitality.+24 Endurance.+50% to block chance.+20% to block speed.Mana: Shapeshift.Requirements: Shapeshifter, Strength 350Quests:[Deity Quest] Find the ancient wells and collect the essences for Azryet – 0/3[Platinum Quest] Eliminate undead attacking Southport – 0[Platinum Quest] Death Knight bounty – 0Mana: Store or retrieve an item. Capacity: 756 / 5280 lbs.Created by Giddy Clicksprocket.Ring
+
+“Yo, Mato!” Thuli’s voice was the bellow of a dwarf who had just spent an hour hammering steel upon steel, and whose ears hadn’t quite readjusted to normal yet. “Yer armor is ready!’
+
+He sprang to his feet, eager to see what Thuli had wrought for him this time. As he approached, his eyes caught sight of the heavy plate pieces gripped firmly in his calloused hands. It was the midnight black of the void dragons, and of the magic he had earned during his evolution. The Dwarven smith wore a big grin, while his apprentices and his guest looked on with expressions of awe.
+
+Sucking in his cheeks, Mato identified the armor.
+
+Void Wrath, Wyrm Plate – level 140Forged upon the legendary Anvil of Emberforge, the smith has masterfully combined the black obsidian scales of a Sandwyrm and voidstone into the forging of this steel, granting it extraordinary strength and resilience. Linked to your mana, this armor will shapeshift with your changing forms. Armor: 2016+25% to Armor.+20% to Resistance.+80 Vitality.+64 Endurance.+32 Strength.+20% to Void damage.Mana: Shapeshift.Requirements: Shapeshifter, Strength 372, Endurance 490Created by Thuli Emberforge in the Dungeon of Knowledge.Body – Void Enchanted Dragonsteel.
+
+“Wow, Thuli!” Mato exclaimed, running his hand over the smooth steel, watching the black burnished finish shimmer at his touch. “This is incredible!”
+
+“I know, lad, I know. Now put it on, we’re all waiting to see ya model it on the catwalk!”
+
+It must be here somewhere. But… where?
+
+Calen flew another circle, shivering in the unnaturally frigid weather, wishing he had had the foresight to spend a little more on endurance, but there was nothing he hadn’t already seen dozens of times. Every square inch of this alpine lake, somehow still liquid even when everything else was frozen solid, the twelve peaks looming overhead, and the treacherous icy passes that wound their way between them, he had scouted many times over.
+
+If it weren’t for the certainty of his Sense Prey pointing the way directly here, and his earning a title and substantial reputation for the Wanderer by attempting to scout the Blind Lich’s Phylactery, he wouldn’t have been nearly so persistent in his search.
+
+He sighed, rolling his stiff, half-frozen shoulders, and headed out, following the north pass between walls of ice that, in some places, pressed inward, leaving a passage barely wider than his wings. Ice-affinity mana and waves of cold spilled out from the glacial mountains, and he was glad yet again that his wings were magical; otherwise, they would be as numb as his arms and legs.
+
+I hope it’s not up there, he thought, staring up at the razor-sharp peaks jutting up into the sky. The frost dragons seemed to love making their lairs high up on these peaks; he had already seen them coming and going many times. Not to mention the regular titanic territorial battles he had borne silent witness to while hiding in crevices and shrouding himself from sight with his stealth skills. There was no chance he would survive encroaching so far into their territory.
+
+“What do you think?” he asked quietly, the unfamiliar draconic syllables still coming awkwardly to his tongue. Ali’s crash course in draconic had been effective, if challenging, granting rudimentary proficiency in the language for many of the guild members, but it would still take time and more practice for him to properly master it.
+
+“Perhaps we should try one more time before it gets dark?” Ali said, speaking through her Shadow Dragon.
+
+“Ok,” he sighed. Moving, at least, might be warmer than just sitting.
+
+The problem was that his map and calculations had led him right to this spot. But a spot on a map was a large area in the real world, and he had long passed the expiration of his tracking skill, so there seemed to be no easy way to narrow down his search. It didn’t help that he had no idea what a Lich’s Phylactery would even look like; if it were disguised as a large chunk of ice, he was never going to find it. That’s what I would have done.
+
+He finished studying the dead-end canyon for the umpteenth time over the last couple of days, flying slowly back out while his eyes scanned the ground, rock, and ice with meticulous precision. Nothing moved, save the occasional ice elemental, or the wind-blown flurries of snow, scarcer now up this high, replaced by sheer windswept ice and stone.
+
+By the time he returned to the alpine lake, the sun had passed behind one of the peaks, casting the whole area into shadowy, blue-tinged twilight. The lake itself glowed with a dense ambient mana, and he could easily make out the several ice elementals roaming about in the eddies and vortices created by the localized water and ice mana colliding on the lake shore. As the elementals moved, flurries of snow appeared in their wakes, dragged along as they moved, making their actual forms difficult to discern through the tiny, localized blizzards.
+
+“Do you want me to collect a few elementals for your dungeon?” he whispered.
+
+“Not worth the risk of being discovered,” Ali replied, using the disembodied voice of a hidden shadow dragon.
+
+Yes, of course. It was the unrelenting cold and the boredom that were wearing on his mind and focus. Dodging all the hostile monsters, he painstakingly made his way to the small ice cave he had found, where he had made camp last night.
+
+What now? He was honestly stumped. He had tried every trick he knew and yet had still come up empty.
+
+“Patience, Calen. It is the patient hunter that catches the prey.”
+
+It had been Nendir who told him that. But already it had been two days, and his patience was honestly fraying. He had only a few elixirs of Ice Protection left, and he knew it would be too dangerous to sleep without one – most likely, he would never wake up.
+
+He was just lamenting his poor planning and expectations when a sudden and ominous darkness rolled across the mouth of his cavern, and he felt the prickle of dread slipping icy claws around his heart.
+
+Death Knight! It has to be!
+
+He quickly reached out, gesturing for silence to the panicked Shadow Dragons sharing the concealment of his cave. He would recognize the aura of an ice-affinity Death Knight anywhere. He remembered the creeping dread, the chill, and the desperate urge to flee even while his legs refused to work.
+
+But he was much higher leveled now, and far stronger, he reminded himself angrily, and he’d come prepared with a few items and elixirs to boost his resistances to fear should he prove successful. Wrapping himself in the shrouds of his illusion, he carefully crept out of the cave, suppressing all sounds and traces of his passage, and poked his head out into the twilight.
+
+He saw it immediately. His eyes were drawn to the tall, gaunt figure dressed in a ragged black cape that swirled around battered ebony plate armor with an inexorable pull he doubted he could have resisted even if he tried. A giant rune-carved greatsword rested upon his back, and beneath the shrouded cowl, Calen could clearly see the pinpricks of an intense, unholy blue light shining from where its eyes ought to have been.
+
+For a brief passing moment, he thought the Death Knight he and Lyeneru had killed had somehow come back from the dead a second time, but then his reason reasserted itself, and he began to notice the little details. This one was taller and somehow even gaunter than his memories of the terrifying prior fight. Gaps showed between the plates of armor, leaking blue radiance into the twilight. And the runic sword seemed longer, with one side bearing a wicked serrated edge that spoke of a callous and vicious cruelty.
+
+Death Knight – Undead – level 218 (Ice)[Explorer]An undead knight of exceptional power.Category: Summoned Monster.Threat Level: Normal.Monster Type: Undead.Damage: Ice, Physical.Known Abilities: Despair Aura.
+
+Higher level than the first one. But his threat assessment skills told him it was even more powerful than the one he had watched Lyeneru kill. Something about the way it stood, and the wear on its armor, told him it was a far older being. Way more than he could handle on his own – not even with the help of Ali’s minions, who were now shrouded entirely in shadows and virtually invisible somewhere nearby. He shook himself mentally, gathering his concentration and thrusting his natural fears – call them self-preservation instincts – into the back of his mind. He could not afford them now.
+
+It was only then that he thought to wonder where it had come from. He scanned the surroundings, but found nothing but familiar ice, just as he had found before – but now a Death Knight was standing no more than a hundred yards away, and it had most certainly not been there earlier.
+
+Calen controlled his breathing, running his stealth and concealment skills at maximum, keeping completely still and trying to avoid any unnecessary use of magic. He had only a general idea of the kinds of skills the Death Knight would have, and it would take just a single unusual perception skill for him to be exposed, and then it would all be over.
+
+The Death Knight stood for many minutes, completely still and yet undeniably alert in the unnerving way only the dead could manage. A thunderous roar split the peaks, causing ripples to rush across the surface of the lake. The Death Knight’s head snapped upward at the sound, and Calen turned to find a huge frost dragon flaring its wings as it took off from one of the peaks.
+
+But when he looked back toward the Death Knight, it was gone.
+
+Shit, did it teleport? Invisibility? He had walked right past that spot more times than he could count, and he would have sworn there were no hiding spots anywhere nearby. Deciding on caution, he remained where he was, slowly trickling mana and stamina into his concealment skills for almost ten minutes, but the missing Death Knight failed to reappear.
+
+He waited even longer, but eventually he crept out of his cave, making his way to the spot where he had last seen the Death Knight, relying on his mana sight, and the lack of the aura of dread to tell him that the danger, wherever it was, wasn’t immediately present. But when he reached the spot, all he found was ice and rock – not even his Explorer could reveal any tracks, nor could he see any traces of movement skills lingering in the surrounding mana.
+
+Was it an illusion?
+
+But Calen quickly dismissed that idea – there was no reason to make an illusion of a Death Knight in such a remote place. There should be nobody here to see it. And if that were the case, then he had one more tool at his disposal – the skill he had earned from the Wanderer’s trial. He activated Sense Prey, and immediately he felt the pull toward the sheer ice wall before him.
+
+Through it? The skill was unmistakable, and he suddenly realized that it wasn’t the Death Knight that was the illusion. Silently, he walked up to the wall and reached out his hand. Even though he was half expecting it, it still surprised him when his hand sank through the ice without meeting any resistance. With his heart throbbing painfully against his ribs, he stepped forward, passing clean through the ice to find himself in a broad and dark tunnel hewn from the ice, leading deeper into the mountain peak.
+
+His eyes flicked downward, and there, outlined in glowing magic from his Explorer, he could see the fresh footprints left by the Death Knight. Double-checking his stealth, he crept slowly down the passage.
+
+Following a Death Knight down a dark tunnel, a hundred miles from anyone who can help. Very smart, Calen.
+
+But he was a scout, and this was his job. Moments later, his thoughts were interrupted by a clear chime that echoed in his mind.
+
+[Explorer] You have entered a dungeon.The Crypt of Kings – level ???Affinity: Ice, Lightning, Death.Age: Ancient.Known Creatures: Death Knight.Known Bosses: --Dungeon[Explorer] You have discovered the Crypt of Kings.Your actions have greatly increased the reputation of your patron.You have gained the Blessing of the Wanderer+32 to Perception.+6 to Perception skills.+7 to Tracking skills.+10% to Movement speed. Blessing – Duration: 1 day.
+
+Holy shit! This is it! There was no doubt in his mind. Certainly, he had never seen so many reaction notifications to the discovery of a dungeon before. That level…
+
+The darkness fled, chased away by the sudden infusion of power to his perception abilities and skills. With the fresh, new clarity of his vision, the tracks of the Death Knight sharpened dramatically, showing him the path well beyond where the curving path of the tunnel blocked his natural vision.
+
+There was no way he was going to risk talking, so he silently shared the dungeon notification with Ali’s dragon, knowing she would deduce the rest.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

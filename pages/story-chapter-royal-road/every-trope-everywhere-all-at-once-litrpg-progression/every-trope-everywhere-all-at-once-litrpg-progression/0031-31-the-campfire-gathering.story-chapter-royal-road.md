@@ -1,0 +1,175 @@
+---
+id: f631c52c-316c-51d7-a062-1e725543b624
+page-type-slug: story-chapter-royal-road
+title: "31 - The Campfire Gathering"
+slug: 0031-31-the-campfire-gathering
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 31
+ownLength: 1766
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3471646/31-the-campfire-gathering"
+royalRoadId: "3471646"
+---
+
+[TROPE INITIATED: THE CAMPFIRE GATHERING]
+
+Description: With every great fantasy adventure comes the inevitable time to relax with the rest of your party. Eat, drink, and rest. The adventure has just begun.
+
+Completion criteria: Rest and recover with your companions.
+
+Note: Unfortunately, it’s a lantern instead of a campfire, but the idea remains the same.
+
+Aside from the food and water, Kaelor had also brought a deck of cards. He and Talon were off to the side playing some kind of game with them. Honestly, I was kind of impressed. Kaelor was much more prepared for this dungeon than I anticipated.
+
+“Didn’t you just come to Whale Isles for the parade and race?” I asked him.
+
+He seemed deeply concentrated on the game. Talon hadn’t looked up once ever since they started.
+
+“Yes,” Kaelor replied. “Though things have changed a bit since I now know that you, Meriel, and Reina are connected to Kthal. It’ll be better to stick around for a while.”
+
+I looked at all the food laid out in front of us. “I mean, judging by how prepared you are, I can’t help but think you came to Whale Isles for this dungeon.”
+
+He laughed. “I’m usually quite prepared for many situations. The ships I came with have pretty much everything I’ll ever need, no matter what adventure I go to next. And you’re right to a certain extent. The reason I wanted to participate in the grand race was so that I could enter this dungeon.”
+
+Kaelor placed down a few cards. Talon looked at it and fell backward, clutching his head in frustration.
+
+“Dang it!” he cried. “Again!”
+
+They set up another game.
+
+“You wanted to enter this dungeon?” I asked. “What for?”
+
+“Remember what that angel lady said? If we reach the end and defeat the dungeon warden, we’ll get a pair of wings that can make anyone fly.”
+
+I nodded. “Yes, I remember that, but why do you need them? You could already fly with your wind magic.”
+
+He briefly glanced at me.
+
+“Because the endless blizzard in Glacinus is far too harsh. I have already tried going there before with some of my men, but it's been difficult with all the frost. We had support mages to provide us with a heat shield to traverse through the blizzard. I had tried using wind magic to carry me through the air, but it proved to be a dangerous decision.”
+
+“Because the wind is too cold?”
+
+“Exactly. The cold, dense air makes the wind behave differently while also making every spell harder to cast. Even a Firstborn as proficient in wind magic as myself struggled to control it. But the wings from this dungeon will still allow me to take flight, even without my magic.”
+
+“And the griffins?”
+
+“They’re better off staying away from such a dangerous region. If we brought them, the fire mages would also have to wrap the griffins in a heat shield, which would deplete their mana too quickly.”
+
+I looked around the blue lantern we were resting at. Meriel was enjoying her meal of nuts and fruits as she studied the grimoire she had received from the chest. Reina was playing around with Tuna, flashing her legendary sword and making all sorts of whoosh noises as she swung it in the air.
+
+It was a worrying sight. A divine sword like that would probably spew out arcs of light magic if she swung hard enough, yet there she was, recklessly swinging it. I wouldn’t even be surprised if she accidentally kills one of us now.
+
+I turned back to Kaelor.
+
+“Why do you need to fly in Glacinus?” I asked.
+
+He won his game against Talon again. The boy gave up, walking away in utter defeat and leaning against the resting griffins.
+
+Kaelor nodded toward the cards, asking me if I wanted to play. I shook my head. I’ve never been good with card games in the world I’m from.
+
+As he put away the cards, he continued, “Somewhere in Glacinus is a massive frost tower. It’s dozens of floors high and has many dangerous monsters lurking on every floor. I’m not afraid of them—but what I am afraid of is that it’ll take too much time for us to climb that tower on foot. The mages would run out of mana, and we’ll freeze to death. That’s why I need these wings. I’ll be able to fly all the way up there without having to waste time on the monsters.”
+
+I put a hand under my chin. “And you believe Kthal is up there?”
+
+He shrugged. “It’s certainly a possibility. Either that, or it's one of the Guardians. Whichever it is, I’m sure it’s connected to Kthal somehow.”
+
+“What makes you say that?”
+
+Another shrug. “I mean, it’s a random huge tower in the middle of a snowy nowhere. It has to mean something, right?”
+
+“Good point.”
+
+Looks like Kaelor naturally had the instincts of a gamer.
+
+If something’s suspicious, then it must be important. Ah—but if you do take that advice, please don’t blame it on me if things go wrong.
+
+Seeing that we would be talking for some time, I took the seat beside him.
+
+“He’s been missing for years, hasn’t he?” I asked. “Why do you think he went to Glacinus?”
+
+Kaelor stared off into the distance.
+
+“I don’t know. He’s always been the strange type. But from all the time we’ve spent together, my best guess is that he wanted to challenge those Guardians. Maybe he was so overconfident that he let his guard down and was defeated by one of the Guardians. Whatever the answer is, I’m just glad he’s still alive. I did smell his frost on you after all.”
+
+“And how do you know what that smells like?”
+
+The moment he opened his mouth, I cut in. “Actually, nevermind. Don’t answer that.”
+
+I continued, “Anyways, we did promise to help you find him, but hearing all of this makes Glacinus seem a lot scarier than I thought. And I’m saying that after we’ve already encountered Skoll in his Guardian form.”
+
+Kaelor laughed. “There’s no need to be afraid. My party could use someone like you and the others,” he said. “I think your help would make things a lot easier.”
+
+“Is that so?”
+
+He nodded. “I’m not too sure why, but I find myself attracted to you.”
+
+I blinked.
+
+“Huh?”
+
+“I said, I find myself attracted—”
+
+“Don’t repeat it. You said something really creepy just now.”
+
+He laughed again, shaking his head. “I don’t mean it like that. It’s more like… how do I say it? I don’t think our encounter was a coincidence. The fact that you, Meriel, and Reina have gotten near my brother… I think there’s more to it than just sheer luck.”
+
+“What do you mean?”
+
+“We crossed paths for a reason,” he said. “That’s what I mean.”
+
+Fate? Destiny? I’m not too sure what he was implying, but something about it felt strange.
+
+I scooted away. “And just to clarify, you’re not attracted to me in that way, are you? Did you accidentally drink some of the love potion while you poked your head inside my [INVENTORY]?”
+
+He laughed again. “Sorry, I didn’t mean it like that.” He stood, looking away. “With that said, I had a great time speaking with you, Allene. You and the others are a peculiar bunch.”
+
+“Is that a bad thing?”
+
+“Not at all. You all just stand out from the rest of the people in this world.”
+
+He walked away, glancing around the city. “Anyway, I’ll go do some scouting now and figure out what to do next. I’ll grab Talon, too. Hopefully we’ll come up with some good ideas.”
+
+I nodded. I still wasn’t exactly sure what the Firstborn were, but Kaelor gave me a good impression of them. Meriel did tell me that they resembled the other species while being a species of their own, so I was starting to become curious about how an elf Firstborn would act, or even a dragon Firstborn. Though I can’t get my hopes up too high. I haven’t even seen a regular dragon yet.
+
+I walked over to Meriel. She looked up at me, her grimoire still open.
+
+“I don’t use grimoires very often,” she said. “But I do like this one.”
+
+I looked at it. Its silver-blue color was easy on the eyes. I briefly inspected it again. This grimoire specialized in supportive magic—specifically healing and shielding.
+
+“Is it that much different from a staff?” I asked.
+
+She nodded. “Staffs are the best pick for offensive mages, while grimoires are a bit more versatile.”
+
+“So you’re an offensive mage.”
+
+“Kind of. My best spells are offensive, but I’m also able to cast supportive ones.”
+
+“Wouldn’t a grimoire be better then, if you’re so versatile?”
+
+She shook her head. “A major aspect of choosing the right weapon comes from personal preference. A mage specializing in harsh fire attacks could prefer a grimoire over a staff and still perform better that way, even if common convention says otherwise.”
+
+Meriel looked at me, smiling. “I’m sure I’ve already said this many times, but you really are impressive, Allene. I’ve never seen somebody learn new spells so quickly and cast them with such control and power. Even while we were running away from the boulder, you used a supportive spell on Talon and me to help us escape. I never even taught you any of that.”
+
+I grinned. Well, of course! I’m the darn protagonist. Praise me more, Meriel!
+
+“Why are you smiling like that?” she asked.
+
+“Oops.” I wiped it away. “I just think it's nice whenever you praise me.”
+
+She frowned. “I see. So you’re one of those people who gets excited after receiving compliments.” She inched away. “I’ll keep that in mind.”
+
+I shook my head. “No, not at all… I think? Anyways, I’ll go check up on Reina now and see how she’s doing. I should probably tell her to stop swinging that sword around.”
+
+“That’s a good idea.”
+
+The two of us turned to Reina. She stood a bit further away alongside Tuna. During one particular swing, she made a larger arc with her sword than usual, and as if that swing had activated something, the sword’s golden glow intensified, and a beam of light burst from it.
+
+It headed right at me, too fast for me to react.
+
+“What the—”
+
+And that was all I said. Not because I was speechless, but because my head was severed from my body.
+
+God damn it, Reina.

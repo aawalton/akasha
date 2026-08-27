@@ -1,0 +1,257 @@
+---
+id: 21e85b08-b730-5dcb-a258-c3bb01d4ab21
+page-type-slug: story-chapter-royal-road
+title: "Chapter 499: The Well of Eternity"
+slug: 0539-chapter-499-the-well-of-eternity
+partOf: dungeon-of-knowledge-complete
+position: 539
+ownLength: 4965
+unit: words
+ownProgress: 4965
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2920323/chapter-499-the-well-of-eternity"
+royalRoadId: "2920323"
+markedReadAt: "2026-06-29T20:30:35.350Z"
+---
+
+Ali watched as Mato burned, disappointed that the nectar had not made them all immune to the Parasitic Nightmares.
+
+It even says ‘Immune to nightmares’, she thought grumpily. What good is that if the first monster called ‘nightmare’ doesn’t count?
+
+However, she really couldn’t complain. The nectar prevented most of the negative effects of accidentally glancing at the boss: no longer did the mere sight of its eldritch form provoke splitting headaches, nausea, fear, and disorientation, or threaten to fracture their minds. In combination with Malika’s Clarity, it had rendered the melee immune to the reverse taunt, and she had seen that same disturbing surge of domain mana several times since she had returned from the nightmare realm she had been yanked off to, and yet it had no effect on her friends.
+
+At least it works on the actual nightmare. The problem with the Parasitic Nightmares was rather simple by comparison. Those they could punch.
+
+“Shoot him again,” she said, smiling at the cackling laughter from her Fire Mage as she summoned a huge fireball.
+
+Fire really does work on most things, she decided, studying the way the eldritch tentacles recoiled from the bang and searing blast of flames. Still half-submerged in the Well of Eternity, the boss was continually vomiting up fresh Parasitic Nightmares with a frequency that would have had her running for her life if they weren’t immediately snared by Mato’s taunting roar and splatted by the deafening barrage of fire magic her minions rained down on the pack.
+
+Her solution to both the problem of the rate of spawning and Mato’s vulnerability to being infected had been to simply set him on fire for the entire fight, allowing the explosions and flames to burn off any parasites that managed to latch onto him, and incinerating the rest en masse. It was working spectacularly, if she did say so herself. Every fireball, holy or flame, detonated right on top of him, blasting the writhing tentacle monsters off him as a shower of burning bits, or, for the more stubborn ones, it lit them on fire along with Mato himself, creating a blazing inferno in the center of the amphitheater. But Mato was receiving the very best healing magic she and Malika could muster, and the monsters were not.
+
+And the boss is also undead. She grinned viciously, calling for her holy mages to redouble their efforts.
+
+“At once, Ancient Mistress,” her nearest kobold chirped, rolling back the sleeves of her robes and lighting her taloned hands with radiant holy flames.
+
+“Fire! Fire! Fire!” the male kobold chittered, waving his arms in vaguely mystical and entirely unnecessary gesticulations as he swirled his rapidly forming white fireball around his head.
+
+“Shh,” the first kobold hissed, but both of them released their spells one after the other, at precisely the right time for the healers to coordinate their rotation, and Ali turned away to hide her smile of pride.
+
+They’re getting so good at this, my little kobolds.
+
+She glanced up and back at the sensation of a mountain of mounting impatience looming over her shoulder. The giant muscles across the troll’s back and shoulders were clear of parasites, and his eyes were fixed on the fight with calculated cunning and a fierce longing.
+
+Of course, there was always the side benefit of abusing the undead’s ubiquitous holy magic vulnerability by filling the fireball rotation with holy versions of it.
+
+“Get in there, Tol’brekk,” she commanded. “It’s time for your Blood Vortex to sweep the chaff from the board and then take out that trash blocking the Well of Eternity.”
+
+“About time,” he growled, but the fierce grin appearing on his lips and the rush of joy flowing from her connection told Ali all she needed to know.
+
+The ground beneath Ali’s feet buckled as he leapt into the fray, crimson blades of blood already beginning to whirl about him even before he landed his first immense blow, the shockwaves shuddering the monstrosity like a drumskin.
+
+Ali checked in with her kobolds’ Healers Sight skill, glanced worriedly at the three minutes remaining on her Eternal Reverie buff, and yelled, “Fifty percent! Hurry, we don’t have much more time!”
+
+***
+
+Your group has defeated B̴͈̟͒ạ̵̾̀̄̚a̷̪͚̙̎ͅo̸̯̞͖̓̌͘h̷̻̃͑͌͠t̵͙̮͂͆̍͜ ̵̤͛͐̇̋Y̷̥̙̎͆̒͝l̶̗͆̀̈́ͅl̵̤͖̼̞̈͆́̿'̵̤̲̟̫̇̐̊̔s̴̘͕̊̈́͑̃h̸̦͚̼͋̐̈́́u̵̱͚͂̃̕u̶̡̙̗̩͑m̷̢̛̟͋̓ [Devourer of Dreams] – Undead Eldritch Monstrosity – level 232 (Death / Mind)
+
+Ali dismissed the stream of notifications for Parasitic Nightmares and Dark Souls dying as her minions cleaned up the stragglers and breathed a well-earned sigh of relief.
+
+“Thank goodness that’s over,” Malika said.
+
+“I hate mind magic,” Calen grumbled, putting a voice to Ali’s feelings about the fight. Even with her enormous investment in wisdom, the nature of mind-magic was insidious, requiring intuition under the most challenging of conditions, rescuing your friends and allies, and, more than most fights, relying entirely upon the strengths of one’s team for even the fundamental right to one’s own thoughts.
+
+“I’m sure you do, giggles,” Malika deadpanned.
+
+“Oi, that was a long time ago,” he grumbled, coloring anyways to Malika’s evident enjoyment.
+
+“At least it was an easy fight in the end,” Mato said, speaking into all their minds.
+
+“You still mad?” Malika asked. “Ali, Mato needs more decursing.”
+
+“He’s clear,” Ali said. “This is just his normal crazy.” Still, she could understand Mato’s twisted logic after having known the Beastkin for so long. Once the monster’s mind-magic defenses had been neutralized, the fight had simplified dramatically. Any fight where Mato could hit the enemy repeatedly was ‘easy’ in his mind.
+
+Well, it’s dead. For now. And she had no intention of being anywhere nearby when the dungeon respawned it. She pulled up the notifications for the fight, grateful to see the steady warmth of the golden text in her inner sight remaining pure. No dark eldritch infections appeared to twist and corrupt it. No screeching threatened to strip her of her sanity.
+
+What was it that infected Nathaniel Sunstrider? How did he never even notice? It still staggered her, how he had been so taken in. She sighed inwardly. Enough of that. Notifications first.
+
+Dungeon of Knowledge has reached level 184 (+8).+80 attribute points.Arcane Insight has reached level 108 (+3).Arcane Recall has reached level 55.Barrier has reached level 98 (+4).Grimoire of Summoning has reached level 72 (+4).Runic Script has reached level 80 (+3).Sage of Learning has reached level 84 (+6).Martial Insight has reached level 113 (+3).Empowered Summoner has reached level 92 (+3).Minion Teleport has reached level 59.Identify has reached level 39.Inspiration has reached level 34 (+2).Imprint: Parasitic Nightmare completed.
+
+Eight levels. She puffed out her cheeks and let out a rush of air. So, her class had responded dramatically to the very real danger of the Well Guardian. In a ritual familiar enough now to steady her nerves, Ali distributed her points carefully. She had earned eighty, which was a substantial sum. With a moment’s consideration, she spent twenty-seven on intelligence and twenty-one each on wisdom and perception, heavily investing in her primary attributes. For the remainder, she allocated eight to vitality and two each to dexterity and endurance. There, that should do it.
+
+“Ali? Are you ok?” Malika asked, concern evident in her eyes as she danced with casual grace across the charred corpses of Parasitic Nightmares and pools of thick, viscous black blood to join her where she sat. “What happened to you?”
+
+“I think so,” Ali said, patting down her body to check herself physically. None of the bloody mud from that place had persisted – small mercies – but the true damage had been dealt to her mind inside that dream realm.
+
+“You were just standing there, unresponsive, while the parasites stormed you,” Malika said. “I’ve never been so scared in my life.”
+
+While Ali knew they’d both faced the Lich and therefore her words were strictly untrue, her friend’s hyperbole was met by a rising warmth in her heart that allowed it to unclench. She breathed easier immediately. “It was a domain ability I’ve never seen before. It took me somewhere else. A nightmare.” Even as she said it, her body shuddered reflexively at the recollection of the unseen horrors that had stalked her, and Malika immediately slipped a comforting arm around her shoulders. While she knew it had been some sort of nightmare realm, she also knew without a doubt that those monsters had been real. Real enough that if she’d been found, she would most certainly be dead. Or worse. “There were things there, Malika… things lurking in the darkness.”
+
+“If it was a nightmare, could it be that those things were simply not real?” Malika asked, squeezing her a little tighter.
+
+“What about this then?” Ali asked, holding up one of the fading azure flame blossoms, the Eternal Reverie.
+
+“Yes,” Malika said with a dark frown on her brow. “Well, whatever was in there, at least it’s gone now. Come, let’s get rid of that thing clogging up the Well and get our vial of water.”
+
+“Thank you, Malika,” Ali said, shaking off the dark fog plaguing her and standing up. She had to straighten her knees twice before they would work properly. After all I’ve seen and been through and lost, this still seems worse. I don’t… understand. Was it Mieriel? Or was that just another symptom?
+
+Maybe losing her mind was her ultimate fear? Ali shuddered and rubbed her own arms, prompting an immediate query from her friend. “I think I’m… over the worst, now.”
+
+“No problem,” Malika said, producing a large, reinforced glass vial that had Morwynne Fizlebang’s signature exploding potion logo etched into it. “Let’s take care of it together.”
+
+As scary as the experience had been, they had defeated the Well guardian, and she could finally collect the first vial for the Elixir of Ages. Lira, we’re going to save you, she thought, reiterating her promise like a mantra of hope. I will step up for you. None of this will stop me.
+
+She gazed at the Well of Eternity, or rather the huge pile of dark, twisted flesh that had collapsed on top of it. Even now, many of the pieces did not connect, and much of it was warped through various incomprehensible phases of reality. The headache that the monster induced in her was far less debilitating than when it had been alive, but even now, her mind refused to accept the eldritch reality of it. At least she wouldn’t need to refresh her Eternal Reverie just to be able to touch it.
+
+“Ok, you’ve got to go,” she muttered, grimacing at the splitting headache. She stretched out a hand, intending to touch it, but her fingers and her eyes disagreed on precisely where it was. Or even what it was. It warped reality around it, challenging her mind. “How did you even hit this thing, Mato?”
+
+“I don’t know, I just did,” he answered, curling his thick fingers into a claw and making comical swiping gestures.
+
+“Not helpful,” Ali said, wondering if she was being hamstrung by her high intelligence attribute. Even her sense of its mana was twisted, still shifting and rotating through dimensions that could not even be named. She decided to ignore her senses and just try something more straightforward. Finally, she felt her fingers brush across a more substantial part, and she unleashed her deconstruction.
+
+As the inert mass began to shimmer into mana, her chimes sounded.
+
+[Sage of Learning]Domain Magic analyzed: Summon (Dark Soul)Domain Magic analyzed: Zone of Destruction (Necrotic Poison)Domain Magic analyzed: Exile (The Nightmare) ExileRequirements: Raid Enhancement or higher, Level 200+.Source: Baaoht Yll’shuumCreate a temporary realm and exile a single target there. The nature of the realm is dependent on the nature of the caster, their affinity, traits, and experience. The duration of the exile is dependent on the relative level of the caster and the target. Skill – Domain Magic
+
+As the notification chimes sounded, the reclaimed mana poured into her like a geyser of filth, madness, and terrifyingly unknowable truths. Her mind rang like a crystal bell struck by a cosmic hammer. The world shook, vibrating in terrible agony. And yet the torrent of eldritch knowledge only accelerated, seizing control as if the monstrosity was still alive, sucking greedily at her will, her reality, her very sense of self. Sage of Learning screamed like a thousand lost souls wailing in the core of her being, and reality began to crack everywhere she looked.
+
+And through those cracks… she shuddered as her mind plummeted down into madness while a thousand crimson, unblinking eyes stared at her through the cracks.
+
+You have gained Clarity.
+
+She came to, screaming, with a raging torrent of burning magic that was trying to heal her mind.
+
+“Ali!” Malika’s voice screamed at her from afar – as if from the end of an infinitely long, dark tunnel.
+
+Malika?
+
+She blinked and closed her mouth, realizing she was hoarse and still trying to scream. In distress at the horrific strain, the sensation of being overwhelmed by a consciousness so ghastly and alien, she rolled up onto her knees and promptly vomited. All she could do was kneel there and heave wretchedly through wave after wave of heat and prickling and shivering, while reclaiming her sanity, testing it, making sure it was still hers after all. As the sensations subsided, she found herself able to glance about, but the infernal cracks were nowhere to be found, and the eldritch eyes were gone.
+
+But something was still watching.
+
+Malika clung to her with a desperate embrace that constrained her breathing, but she didn’t complain. Something was wrong – very wrong – and she needed Malika more right now than she needed to breathe. With great trepidation, she scrolled back up through her notifications.
+
+You have gained the Title: The Eternal NightmareY̴͎̕ơ̶̛̺͇͖̓u̵͇̇̎̐ ̷̦̤͍͌̈a̴̫̔͂ͅr̵̘̃͌̚e̴͔͌ ̵̢̹͛̀̚b̶̥̩̊̓͘͜e̷̘̜̹͂̾i̶̺̲̎͋n̸̻͖͑̄͝g̴̫̉ ̷̟̎̑w̴͕̿̏͝a̷̤̤̓̋͝t̴̛̮̓͆c̸̳̦̀͗͠ĥ̵̻̼ȅ̴͍̜̥d̴͇̤͕̽͠.̴͔͎̀͜Cursed Title
+
+A grating screech accompanied the floating script hovering in her mind, and a chill crashed into her heart as she saw it, leaving her numb. Without feeling, she simply shared the cursed title with her friends.
+
+“Oh, no! Ali…” Malika said, her voice distraught, but Ali was struggling to even process the emotions. “I shouldn’t have asked.”
+
+“It’s ok,” Ali said, the lie slipping easily from her lips as she tried to reassure Malika.
+
+It was hardly ok. Not by any stretch of the imagination. The eldritch monster had reached out from beyond the grave and marked her with its incomprehensible insanity. The question of what exactly was watching her caused shudders of fear and loathing, and an overwhelming sense of defilement. She had been corrupted through her knowledge skills; Sage of Learning and Deconstruction processing the eldritch mana she had absorbed and partially understood, leading directly to this… this mind infection, as revealed by the unwanted title.
+
+Ali didn’t know how long exactly she clung to Malika, but eventually her mind quietened, calmed no doubt by the continuous trickle of healing mana flowing through her body, and the comforting presence of her friends. Whatever this cursed title was, she knew at least her friends wouldn’t let her face it alone, and that, more than anything, brought her back to herself.
+
+Slowly, she rose to her feet and approached the Well of Eternity with her friends, consciously aware that she wasn’t quite recovered enough to let go of Malika’s hand.
+
+“Here you go,” Malika said, offering the large vial.
+
+“Thanks.” Ali took the vial and stepped forward, dipping her hand into the gray water of the well. Not even a hint of a ripple disturbed the surface. Nor did any bubbles appear from the vial. But when she retrieved it, she found it was full.
+
+It was a strange thing to behold. A vial full of gray, transparent liquid that didn’t slosh or ripple. But as dull as it seemed through her mundane senses, with Arcane Insight, she could see the sheer radiant power she held within her hand. It shone like the sun, so bright that she could see it through the flesh of her own hand.
+
+“You know,” Calen said, producing a box filled with empty potion vials. “Let’s not be stupid and put all our eggs in one basket. Let’s all fill a couple of vials and each keep some in a storage ring.”
+
+“For once, you’re putting all that intelligence to good use,” Mato snorted, snatching up a pair of vials and dunking both under the water.
+
+“Hey,” Calen objected, but he did the same, collecting several and passing them around.
+
+“Thanks, guys,” Ali said, grateful for how seriously they were taking the quest and Lira’s recovery. Surprisingly, Calen’s idea – so very much the essence of who he was – grounded her in the reality of what had transpired.
+
+We won.
+
+Regardless of how terrifying the monster had been, or how dangerous this unknown, cursed title would prove to be, she was standing here before an ancient, lost artifact of stupendous power, holding in her hand one of the three mythic reagents that Azryet needed to save Lira.
+
+If she had to be watched by some annoying eldritch eye to save her aunt, then that was a price she was willing to pay.
+
+Annoying? She shivered at her own casual phrasing, thinking for a second: What if there are nightmares out there, beings as powerful as Azryet yet more like… that?
+
+No. She couldn’t let fear control her. Not like that.
+
+Malika poked at the crumpled form of a fallen ice Devastation Knight with her foot, double-checking that it was really, properly dead. One could never be too sure with the undead, but its failure to react to her prodding was very encouraging, so she bent down and quickly stored its armor and weapons, a trivial task now that its own mana couldn’t prevent her storage enchantment from working. Behind her, and up near the corner of the chamber, a detonation of light and flame blasted the final ghostly remnants of the two Dark Souls into wisps of incorporeal energy that slowly drifted down toward the ground.
+
+“I’m sorry, guys,” Ali said, looking downcast at the floor. “I just wasn’t fast enough.”
+
+Malika glanced back at her friend, hiding the frown trying to slip onto her face. Missing the disruption of the Frozen Skull Sentry’s teleport wasn’t nearly as big a problem as it had once been – they had easily dispatched the Devastation Knight and the two Dark Souls it had teleported in, but it was so unlike Ali to fumble her spell. While it may be entirely imagined, she thought she heard an unexpected quaver in Ali’s voice.
+
+“It’s ok, Ali,” Malika said, trying to reassure her friend. An hour further into the labyrinthine temple, and Ali still seemed to be just barely holding on – like she was forcing a veneer of confidence over the top of a crumbling core. Whatever she had experienced back there in the nightmare had truly shaken her, and even now, Malika could see the disturbing, black, twisted touch of malignancy that lingered within her – the dark legacy of the fight.
+
+I should have been stronger, she thought. She had come to rely on Clarity for helping her friends in every situation where their minds were under assault, so much so that she had become guilty of taking it for granted. Here, when they encountered a monster of immense eldritch power, Ali’s mind had nearly been broken – and not even her Healing Mantra had been able to restore her confidence and remove the taint of the cursed title.
+
+When we get back… Seldom did she feel the loss of Elder Rezan and his sage advice so sharply, but she would seek out Vivian Ross for advice and even the grumpy old troll Seeker, Val’korr. Or perhaps Lamyndra Duskwind – the high priestess of Lunaré was the most likely person to have experience with this kind of thing. No, this is too important. She might not be a disciple, but she would personally lead the expedition to Azryet’s domain and ask the Dragon God himself for help. Havok will definitely help. We need to get the last remnants of that thing out of her.
+
+In the meantime, she needed to get stronger. Otherwise, she would continue failing to protect her friends. With a little trepidation, she brought up her notifications from the fight, but her inner dojo and the glowing blue-white text remained pristine in her mind’s eye, nothing like what Ali had described happening to her.
+
+Eyes of the Soul has reached level 174 (+10).+100 attribute points.Martial Artist has reached level 88 (+4).Soul Strike has reached level 89 (+4).Healing Mantra has reached level 104 (+5).Perfect Body has reached level 61 (+3).Soul Armor has reached level 77 (+3).Enlightened Evasion has reached level 65 (+2).Divine Step has reached level 74 (+3).Second Wind has reached level 48 (+2).Clarity has reached level 62 (+4).Soul Sight has reached level 72 (+2).Appraise has reached level 36.
+
+Malika searched through her notifications for something to answer the question that burned within her, but, although her skills seemed to be advancing well, nothing stood out as an answer to her failings. Her class level was growing, and so were her skills and attributes, but she still had no answer for the last fight. Nothing would have helped Ali or the others.
+
+Suddenly, her chime sounded again.
+
+Healing Mantra has reached a base skill level of 100.Healing Mantra has advanced to tier two.
+
+Oh, a tier two skill! she thought, suddenly excited. Ali had advanced some of her skills to the second tier after the giant devastation knight, Haverron, and it had seemed to be a fundamental improvement to the way the base skill operated.
+
+Without a second thought, she used it on herself. Her magic surged with a newfound eagerness, as if it needed to be unleashed. It rushed through her with power and vibrant energy, and, despite the fact that she was already at full health, she could sense it repairing minor things within her, older injuries and barely remembered pain that had far predated her class.
+
+Far faster than before, her excess healing magic burst from her body, a surging pulse that tore clouds of dust from the crimson carpet and bounced off the ornate murals, filling the area around her with a nigh instantaneous spherical ripple of light that softly lingered, fading slowly in the aftermath.
+
+She gasped inadvertently at the effect. Wow!
+
+Just the brief touch of her magic caused her friends to straighten up, and Ali to sigh with relief as some measure of her pain seemed to vanish. It wasn’t a complete solution; she could still see the twisted knot of eldritch mana infesting her friend, but at least it earned her a little smile.
+
+“New advancement?” Ali asked, her amber eyes sparkling with that familiar curiosity for all things magical.
+
+“Tier two Healing Mantra,” Malika answered.
+
+“Oh, very nice!”
+
+Calen reached out to clap her on the shoulder. “Best work on your singing skills, eh?”
+
+“Hey, I don’t sing it…”
+
+Malika smiled at her friends, happy that the old Ali seemed to be back, and the cracks or bruises the eldritch nightmare had inflicted upon her seemed to be mending. She pulsed her healing a few times again, pretending to be familiarizing herself with it, but she could see Ali’s life energy visibly calming under the influence of her healing.
+
+With a hundred unspent attribute points earned from the fight, she decided she could afford to be a little more generous in her spread – ten levels! When had she ever seen that before? Thoughtfully, she spent her first twenty-five points on dexterity and then twenty-three on wisdom, immediately feeling safer for investing more into her mental fortitude. Nineteen points went to perception to boost Soul Sight further, and then eighteen points to endurance. She pursed her lips for a moment, and then spent ten on vitality, reserving three for strength and the last two for intelligence.
+
+Now I just need a way to train Clarity to the second tier, too. As she followed Calen through the maze, she racked her brain for ways to train her meditation and mental warding skill explicitly. Unfortunately, every practical method she could think of – whether by having Ali create Parasitic Nightmares and willingly subjecting herself to them or asking Mieriel to attack her mind relentlessly – would be excruciating and dangerous. Still, after experiencing the fundamental changes in her Healing Mantra, she had absolutely no doubt that tier two Clarity would have been enough to save Ali from that awful nightmare.
+
+She frowned thoughtfully. No training that was worth doing was going to be easy, as her father had always said. If only, for once, they were not rushing from one problem to another, and could invest some serious time into advancing their skills…
+
+“We’ve gotten what we came for,” Malika said. “Should we head home?”
+
+“We got chased out of here last time, before we could even scout further. I was hoping we’d take a bit of time to see what’s up ahead first,” Calen said. Such an opportunity would be difficult to obtain again. Especially if they had to take the time to re-clear the bosses, and he was not looking forward to a rematch with that eldritch horror.
+
+“Perhaps this is the end, and his Phylactery is waiting for us?” Ali said. “I don’t think taking a look will hurt. As long as we’re careful and ready to run, of course.”
+
+“Gathering intelligence is reasonable,” Malika said. “But the bosses are crazy in here, let’s not bite off more than we can chew.”
+
+“Right,” Ali nodded.
+
+“Ok. I’ll head out then,” Calen said. “Keep following this passage. I’ll meet you at the next intersection.”
+
+Eclipse prickled lightly, and his body shimmered, even more than with Mirage Armor, and then he vanished from sight. His feet made no sound as he sprinted down the long corridor, heading toward the crossroads he had found earlier.
+
+Given the immense danger that Baaoht Yll’shuum had represented, he had been unsurprised to see his reward for the fight – nine class levels. Malika had done better, but that was no surprise either. Her mental fortitude was one of the crucial pivots that had turned the fight in their favor.
+
+Realm Hunter has reached level 169 (+9).+90 attribute points.Radiant Archery has reached level 92 (+2).Arrows of Brilliance has reached level 85 (+4).Motes of Light has reached level 64 (+3).Explorer has reached level 92 (+3).Blessing of the Dawn has reached level 69 (+4).Eclipse has reached level 45 (+2).Eyes of the Archon has reached level 64 (+4).Righteous Fury has reached level 60 (+3).Azrael's Wings has reached level 43.Mirage Armor has reached level 65 (+3).Bowcraft has reached level 15.Cartography has reached level 32.
+
+That’s not too bad, he decided. Not to mention, they had recovered the vials from the mystical Well of Eternity. Two of his skills were fast approaching tier two, and, if the descriptions from both Ali and Malika were anything to go by, he couldn’t wait. Still, he had earned something new from that fight, something that would fundamentally change how he tracked, and even how he fought. He studied the choice he had made in the thick of it once more.
+
+Eyes of the Archon gains True Sight. (When illuminated by the light of your magic, you see things as they truly are).Eyes of the Archon – level 63You have greatly enhanced visual acuity, able to see in extremely low light. You can see mana. You can pierce the veil and see into nearby realms. When illuminated by the light of your magic, you see things as they truly are, piercing through illusion, stealth, invisibility, and concealment magic.Mana: Your vision is enhanced for long-distance viewing or aiming. Enter a state of focused awareness that enhances the range and acuity of all Perception skills. Movement cancels the effect.Light, Perception
+
+There had been three other choices waiting for him, but nothing that could hold a candle to the incredible utility of True Sight. Already, he had been surprised by just how powerful his new perception skill advancement was. He could see himself when he was invisible, and he could see right through his mirage illusions. He sprinted down the hallway toward the large chamber up ahead, keeping his concealment magic running. He paused at the dark doorway, sending his motes of light in before him.
+
+The crimson carpet formed a circle in the center, like a pool of freshly spilled blood upon dark stone. Evenly spaced under the flickering sconces were altars inscribed with strange runes, but the dungeon had neglected to recreate the icons and offerings that would have granted the temple any sort of genuine authenticity. As it was, it felt stark and uncannily empty, devoid of any normal person’s touch.
+
+He walked over to the dais in the center of the wide circular room but found nothing of interest other than more runes. Ali will want to read them, he thought, hoping that the challenge would help her forget her traumatic experience with the eldritch boss.
+
+He floated his motes of light around the room, exposing the murals. These depicted a squadron of elves mounted on gryphons raining arrows and magic down upon an endless sea of ghouls. But as his eyes took in the scene, an outline shimmered in the center of the battle, a doorway, perfectly concealed with an illusion that completed the battle mural.
+
+He walked up to the broad painted expanse and reached out his hand, but he didn’t need to touch it to know exactly what it was. Illuminated by his mote of light hovering overhead, his eyes could see the shimmering magic of the illusion and the dark corridor concealed beyond.
+
+Well, now, let’s see where this goes, shall we?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

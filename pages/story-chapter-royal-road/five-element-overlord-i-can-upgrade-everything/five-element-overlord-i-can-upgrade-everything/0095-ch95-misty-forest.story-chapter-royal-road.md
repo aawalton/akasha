@@ -1,0 +1,117 @@
+---
+id: 79b5e5a8-da62-5d60-8027-dfbde976fcf9
+page-type-slug: story-chapter-royal-road
+title: "Ch95 Misty Forest"
+slug: 0095-ch95-misty-forest
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 95
+ownLength: 1680
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3659956/ch95-misty-forest"
+royalRoadId: "3659956"
+---
+
+No one raises a hand, and our captain nods while turning back to the front of the ship. “Good.”
+
+The flying vessel leaves the Quest Hall behind.
+
+We pass over many spiritual fields, pass by the beast mastery peak, then by the alchemy peak, and eventually far from the sect.
+
+This is not in any direction I’ve ever been before. It’s far from the western border, but we are not headed inward toward Lingshi City. Instead, we’re veering off away from all of the sect’s infrastructure.
+
+The flying vessel we’re on is just about the same speed as Lan Xin’s, but it’s over twice the size, easily holding the 11 of us and a few grey wolves.
+
+I try to mentally map the passing mountains, but we fly too high, and eventually they all blend together and look the same.
+
+The other cultivators on board split up into groups. Some chatter, others sit down to cultivate in silence, and a few stare off the ship’s edge behind the wind blocking array like me.
+
+Hours pass before the sun rises to noon in the sky, and eventually begins to fall. The flying vessel begins a low descent too.
+
+The only feature I spot that looks different is an incredibly thin veil of white mist on the horizon.
+
+I assumed they were normal clouds at first, but the lower we descend and closer we get, the more I see that this mist is blanketing the ground.
+
+Our flying vessel captain stands up from the front of the ship, and walks directly my way. The ship is moving on autopilot, and he does not care to strike up conversation with anyone else.
+
+He only stops in front of me, and pulls out a small white beetle.
+
+When it flies off his palm, the wings move in a rigid mechanical motion, and it begins slowly flying around the two of us in a 3 meter wide circle.
+
+By the second lap, a small white circle forms, and the chatter of everyone else around us turns to muffled noise.
+
+“They cannot hear us either, this conversation is completely secure.”
+
+I raise an eyebrow, and track the beetle with my gaze every time it makes a slow lap.
+
+Lin Fang stares off at the mist in the distance, and speaks again. “I’ve never seen anyone with the late stage of a Martial Physique, you must be from an even more powerful family than mine. Is there a reason you came on this exact expedition that I should be aware of?”
+
+I shake my head, “No, it is pure chance. Though, I do wonder why this physique gives you that impression.”
+
+The skinny young man’s eyes widen slightly, but he doesn’t show any other reaction. Even his physique does not fluctuate. “Well... Most mortals that make it into the cultivators' cities need at least a Martial Warrior status to mingle with even initial stage cultivators as servants. My Lin family allows descendants without spirit roots, and those with 9th grade roots to stay with their families at times, as long as they train diligently and become Martial Elites before their elder years with extremely pure Martial Pills. It must take even more rare pills than I’ve ever seen to reach the late stage. I do not dare pry, but I do not deny patterns. To reach this rank so young, you must be of Noble Blood too, but I do not recognize the Li Clan.”
+
+The corner of my lips turn up at this misinterpretation, “Something like that. I am not from the capital like you, but a similar position. It is best I stay under the radar.”
+
+Lin Fang nods as though it was obvious from the start, and his underlying tense fear of ulterior motives fades.
+
+I use this moment to put him at even more ease. “I do not have many allies in this county yet… In fact I only learned of the Misty Forest recently, and just know it’s a great place to hunt spirit beasts. What exactly is that mist? Why is it getting denser the further we fly over it?”
+
+I point down to where we’ve both been looking this whole time.
+
+At first, it was only a translucent layer over the forest, but during this conversation alone, it’s become so thick that the ground is getting hard to see from this high up.
+
+The skinny man adjusts his silver glasses and chuckles, “You’re right, the Misty Forest is great for hunting spirit beasts. It’s the largest publicly owned land by the sect where they do not privately sell or section off people from exploring. Even rogue cultivators not affiliated with the sect are allowed to enter.”
+
+“Why’s that?”
+
+Lin Fang shrugs, “It’s complicated… my best guess is it’s not profitable to try and control it. The soul mist shifts quite often… Sometimes it recedes a few hundred kilometers leaving areas of the forest bare, and other times the mist pushes outward further than it is today. The denser the mist, the stronger the creatures that show up and cultivate with it. The only constant is that the closer to the center of the forest you travel, the denser the mist gets.”
+
+The vessel has descended enough to the point where small wisps of this white mist flow right through the wind barrier and hit us.
+
+It feels warm, and slightly calming. Though, these small wisps are too thin to really understand its full effects.
+
+“Interesting… so that’s why it’s not fully regulated, and because of it random populations of untamed spirit beasts roam freely deep in the mist, far stronger than anything in the human territory that has already been conquered.”
+
+Lin Fang nods, then reaches out and catches the small beetle surrounding us.
+
+“Indeed. I am glad we could chat before touching down. It is best to limit as many unknown variables as possible before entering this forest.”
+
+The muffled chatter of everyone else on the boat returns to my ears, and he turns around to walk back to the front of the vessel.
+
+“Alright everyone, we will be landing soon! Prepare yourselves. This is the center of a small rocky forest territory known recently for its armored lizard population. That is a mid stage variant of the well known earth lizards that many stewards in the spirit fields use to clear up pests. There is a natural path that I have been taking groups to for a few weeks straight since the last mist shift. As long as you stay within a kilometer of this road, you should not face anything stronger than a 6th level armored lizard. Is that clear?”
+
+Everyone on the boat nods, and a few speak up to agree.
+
+Large shadows of boulders come into view, and slowly the blue sky above us disappears as the white mist completely envelops us.
+
+Lin Fang taps his storage ring, and ten small round white jade artifacts come out. He tosses one to each of us.
+
+When I catch the small circular device, it reminds me of the small tokens I remember illusory demons holding, they were some kind of directional artifact.
+
+The small white beetle that shielded our conversation moments ago buzzes slightly as it lands on his shoulder, then disappears into his storage ring.
+
+“The token I’ve granted you will point in my direction no matter how far you wander off. If you wish to take the simple path by my side during this expedition you may. If you wish to wander off at your own risk and return once our slot time in the Misty Forest is up, they will lead you back to me. It will begin blinking once our time is running near its end.”
+
+The vessel slows to a stop in the middle of a clearing.
+
+The mist is thick enough to limit my vision to about 20 meters in all directions. My spiritual senses, on the other hand, have an extremely easy time piercing through it and expanding to a full 40 meters.
+
+There are a few dark green trees, but there are more rocky patches and raw soil than greenery around here. I can see and feel everything down to the bugs and small critters in the ground. This mist is nothing like the dark fog in black iron mountain where it limited my senses.
+
+Lin Fang tosses each of us a small crimson paper talisman with black characters on its face.
+
+“I’ve given each of you a flare talisman as well. If you’re ever in trouble, activate it and hold on for as long as you can. Though, I am only an escort, tasked to bring you to and from this forest. If you stray off the path and hunt on your own, I cannot guarantee your safety.”
+
+He steps off the front of the vessel to land on the ground.
+
+Then, taps his storage ring again to release an enormous jet black tortoise, over three meters long. Its eyes glow white, and it does not move, like it’s awaiting a command.
+
+Lin Fang watches us all step off his flying vessel before letting it disappear into his ring. Then, he jumps onto the puppet’s back and sits down in a cultivation position.
+
+The directional token warms up hotter, and points me directly to this enormous tortoise as its anchor point.
+
+Many of the grey wolves that stand by their masters’ sides start sniffing the ground, and looking for signs of life. Many of them have already decided to team up and set off on their own routes like they’ve come out to this forest many times before.
+
+Three cultivators immediately leave off in one direction, and another four move in the complete opposite. One late stage cultivator with his wolf ventures off alone far ahead of us.
+
+In a matter of seconds, there is only me, Lin Fang, and the heavyset grey haired man that stood up to be the announcer for my informal duel that won me the slot to be here in the first place.

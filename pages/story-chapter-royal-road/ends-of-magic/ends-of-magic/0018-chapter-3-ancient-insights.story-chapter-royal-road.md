@@ -1,0 +1,245 @@
+---
+id: d8ee41eb-128d-50ca-94a7-c420a131fe30
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Ancient Insights"
+slug: 0018-chapter-3-ancient-insights
+partOf: ends-of-magic
+position: 18
+ownLength: 2791
+unit: words
+ownProgress: 2791
+publishedAt: 2025-07-14
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2434165/chapter-3-ancient-insights"
+royalRoadId: "2434165"
+markedReadAt: "2026-06-29T20:07:50.648Z"
+---
+
+Stella waved her hands around frantically, capturing both of their attentions. “Spar later, speak of wizardry first. That’s the dragon’s hoard.”
+
+Ushia’s smile shifted slightly, still fond but with an air of wry amusement. “Of course. Magic is your beacon and purpose. You will follow every path to power." She sent Stella a knowing look. "But hear this. Skills beyond magic can hold the same majesty. It is your tool and love, but know that others find the same joy in the thrill of the fight.” She raised an eyebrow at Nathan in a silent question.
+
+He quirked his lip and nodded back, but gestured for her to answer Stella's question.
+
+The big orc shrugged, then continued. “The Insight to wizardry is personal, more so than most Insights. It is difficult to teach, for the path will vary from person to person, a gentle hill for some and an impossible climb for others. Therefore, I will describe the goal instead of the method, as you will need to find your own path to what I describe. You are a mage and trained in how to focus and act without mistake. But wizardry reaches beyond that. It is the investment of emotion into magic, of the denial of reality."
+
+She raised a hand to punctuate the point. "To perform wizardry, you need be passionate but focused. Invested yet calm. To me, it is a state of flow, when your entire being, your entire purpose, is invested in your goal. But even while so committed, you still see every detail and ensure it is correct." She lowered her hand. "Achieving such a capability varies for every person. But it requires strong beliefs, full commitment, and incredible mental discipline. Still, many die as their first act of wizardry slips beyond their control.”
+
+Nathan was nodding along, thinking about the first time he’d touched on wizardry. It had been during the battle in the pass when Brox had dueled Badud. The enemy Questor had cast [Reverse Time], imbued with wizardry. Nathan had committed all of his antimagic to remembering. He’d been totally focused on retaining the memory of what had happened, and the effort had ranked up both his antimagic Talent and his mental focus skill. “Does having a mental focus skill help?” He asked.
+
+Ushia grunted in response. “It may, or it may hinder. What is your mental skill? [Concentration] and many of the derivatives are a hindrance, as they suppress the necessary emotion and will.”
+
+He shook his head. “It’s [Tranquility] now, three unique developments beyond [Focused Mind].”
+
+Ushia snorted her amusement. “Your capabilities begin to come into focus. Mental skills are often discounted, but for high-tier magic - and apparently antimagic - they are essential. Is that your most-developed utility skill?”
+
+Nathan quickly reviewed his status. “It was my first one. But I’ve developed others more. [Arcane Insight] and [Mystical Discernment] are both four developments past [Identify] and [Spellsense], respectively.”
+
+The orcish woman’s humor turned to astonishment. “Two spell-sensing utility skills, developed so far? That is the build of an archmage specialized in learning the spells of foes, not an antimage.”
+
+Nathan shrugged. “The better I understand a spell, the better my antimagic counters it. That’s how it’s always worked.”
+
+“I am learning more Insights than I am dispensing,” Ushia mused, eyes heavy on Nathan. "This is an Insight unknown to Questors. Value it appropriately." She turned her attention back to Stella. “Do you have any mental skills?”
+
+She was wringing her hands uncertainly. “[Unshakable Focus], developed from [Concentration]. Hear me, is that going to smother my fire?”
+
+“Ah, it is no shock your wizardry did not repeat,” the Questor said kindly. “Skills such as can suppress anything but the strongest desires. You must cling to your passions to retain the necessary spirit for proper wizardry. The best course would be to develop the skill to aid with focus while encouraging fervor.”
+
+Stella nodded fervently but didn’t interrupt.
+
+Ushia tapped two fingers against her chin in thought, the gesture forceful enough to echo off the glass walls around them. “Here is an Insight that may aid you, if my understanding is accurate. You are enthralled with magic - excited by it. Cast your spells as if they are fueled by that excitement and wonder as much as by your mana. Make your enthusiasm into fuel. Do not let yourself become lost in the complexities of the spell and the perfection of mana, but retain your wonder at the magic. You are not merely completing spells to specification. No, you are an artist, and each spell is an artwork that contains the spark of your genius.”
+
+The omnipresent flame in Stella’s eyes brightened, and her smile was ecstatic. “Yes. What spells should I cast? Small ones? Hard ones?”
+
+The big orc shrugged. “A weight for you to balance. Whatever conjures your excitement most. Though receive the warning well, grand destructive magic and especially wizardry is weakened near Keihona.”
+
+“Ah. Harpy tits,” Stella swore. “I’ll wait. Any Insights on new mana types? Scrying? Teleportation?” Her voice was eager.
+
+Ushia shook her head regretfully. “There are some Insights we cannot share so freely. Teleportation changes the flow of every war, and Davrar marks when those Insights are shared. It is the result of a council resolution from long ago to prevent teleportation kill squads. And I was never a gifted mage beyond my specialty. Thus, my combat style.” She raised her fists again to remind Stella how she fought.
+
+Then she paused and looked to Nathan. “But you have deep knowledge of the world. The kind of knowledge that should be limited to Questors, with none of the restrictions laid upon you.” She pursed her lips. “The Insight of teleportation is buried in the details of compressing the essence of a person to another form, and transferring it through a tear in space, as exists in a singularity.” Her eyes lay on him, curious if he could pick up the hints she was laying down.
+
+“Uh,” Nathan replied artlessly, mind spinning into high gear.
+
+That sounds like multiple Insights in one. Something about personality uploading, general relativity, and wormholes. I've heard of Einstein-Rosen bridges but know literally nothing more. I doubt that'll be enough.
+
+He shrugged. “Maybe? I don’t think I understand all of those concepts.”
+
+She hummed, briefly disappointed. “You come from a world that has not yet developed smart systems. It is not a surprise they have not developed digitization or folded space.”
+
+Nathan wasn’t about to let that kind of an opening pass him by. “Sarya mentioned smart systems. What are they? She said they could carry out detailed instructions, but weren’t actually conscious. How does that work?”
+
+Ushia cocked her head at him. “A device with all knowledge, capable of answering any question. Designing a solution to any problem. Ask it to write a story, it writes a story exactly as you request. Ask it to build something, it supplies schematics and suggests construction methods. Ask it to run a world, and it runs the world.” She gestures up at the glass ceiling holding back the aquatic monsters.
+
+“But - doesn’t it have to be conscious for that?” Nathan asked, brow furrowed.
+
+“No?” Ushia replied, genuinely befuddled. “Why should it? It is no more a person than an oven is. It is a tool. If it had consciousness, it would be a person, able to act independently and make decisions of its own cognizance.”
+
+Nathan didn't quite understand what she was getting at, but he let the topic go. They were getting off-track, and Stella was looking between them with mounting confusion. “I know many secrets of chemistry, biology, and physics. Is there anything I should stay away from? Such as splitting the atom?”
+
+“Ah.” Ushia’s expression tightened. “Verified truth, that is one of the most restricted Insights of all. It has been a caustic secret since the Ending of Magic, though it is known in some places. But if you are truly outside of the restrictions, you should be able to spread it.” Her gaze fell on Stella, and her next words were a command meant for them both. “If you spread that power, most questors would kill you without question. Some would kill you for simply knowing it. Especially those who hold a monopoly over it from their legacy.”
+
+Stella turned to Nathan, gripping the end of her braid in a white-knuckled hand. “This is the one you refused to teach me. The one that would have let me destroy Giantsrest with a single spell."
+
+He nodded tightly. “Left a crater where it once stood, and poisoned the land for many miles.”
+
+Probably. Neutron bombs don’t produce long-lived fallout, if I remember. I’d have to spend some time with my memory skill to get the exact details.
+
+“More destructive than wizardry.” Stella wasn't asking a question; she was making a statement. When Ushia nodded, Stella gave a full-body shiver. “It may be a good Insight for emergencies. But it doesn’t sound like it would be useful against Esebus.”
+
+“Please don’t destroy Esebus.” Ushia asked sardonically. She directed her next words to Nathan. “Shall we spar?”
+
+He nodded, brushing away the mental specter of teleporting, nuke-tossing mages and pushing back his seat to stand. “Let’s. Where do you…?”
+
+His question was answered by Ushia rocketing across the room towards him, not so much leaping the table as lifting her legs and speeding over it straight towards him.
+
+Nathan wasn’t particularly phased by the surprise attack, quickly pivoting backwards and bracing himself to receive the orc’s charge. Right before impact, he leapt sideways and dropped faster than gravity should allow. He’d braced himself to be struck regardless, but Ushia’s blow sailed right through where he'd been standing. He came back to his feet and darted in to find his opponent just starting to turn towards him, off-guard and unready.
+
+He faltered from his planned follow-up, backing away hastily instead of delivering an elbow to the side of her head like he’d been planning.
+
+What just happened? No way did I get the drop on her so easily.
+
+Ushia finished her turn, facing him once more with an expression of mild confusion. “That was baffling. My magic slides off you, but my skills should not be so vulnerable.” Her face took on a look of intense concentration. “Again.”
+
+Now Nathan could feel something expanding outwards from the big Orcish woman - a sort of aura. But it wasn’t in the physical world. It was on the other side, in that metaphysical realm of wizardry where mana pools and divinity lived. It reached towards Nathan like a grasping hand, and he pushed it back with a small application of his aura.
+
+Ushia’s frown intensified at the action. “Attack me.”
+
+Nathan shrugged, then darted towards her. With his latest class Development he no longer needed to fall into a state of rage, gaining all of the advantages in increased speed, strength, and durability with a simple expenditure of Stamina. The orcish woman was set and ready, and he went straight at her chest. She raised her arms to catch him, and he feinted high before dropping low again to deliver a sliding kick to her shin.
+
+The real battle happened simultaneously in the metaphysical space, as tendrils of their aura dueled with each other. Ushia’s influence sought to invade Nathan’s space, tangle itself around him to predict and guide his movements. He refused it without significant effort, pulling on one of the upper strands to make that whole section of her magic vibrate like a struck gong. He got the sense that if he fully unleashed his aura he would be able to completely dampen hers.
+
+Ushia’s eyes widened at the fist heading towards her face, and she jerked her arms up to block, her aura still shivering out of her control. That left her completely exposed to Nathan’s real strike. His foot collided with her shin. It was like kicking a steel post, but Nathan’s pile of skills gave him the ability to do that and come out the victor. There was a snap of bone, and Ushia collapsed to the floor in a heap.
+
+Again, Nathan aborted his next motion and stood awkwardly next to the woman as she rolled into a sitting position and poked gingerly at her leg. She was carrying some kind of self-healing artifact, and Nathan was careful not to interfere with its function. Still, it struggled against the wound Nathan had delivered.
+
+Right. [Catastrophic Blows] makes my injuries harder to heal.
+
+Stella was there a moment later, giving Nathan a reproving glance before casting her own healing magic on the downed questor. It took a few more long seconds before the bone snapped back into place, and Ushia was able to rise to her feet once more, looking chagrined.
+
+“I felt as though the wrath of a god was about to land on my head. In my face.” She sounded shaken. “You reached into the aether and manipulated my foresight, plucking it like a conductor plays a tune." She seemed shocked. "Badud’s defeat was a calculated fate.”
+
+“The aether?” Nathan asked, curious.
+
+Ushia gestured around them. “The place of wizardry, the source of mana.” Her eyes locked onto his. “Can you sense it?”
+
+Nathan nodded slowly. “I think so. The place where mana pools reside? And the apparatus of the Seals?”
+
+Her mouth fell open in surprise. “You know? The secret of the Seals is another Conclave-restricted Insight.” Her brows furrowed together, and she rubbed her chin. “Could you change a seal. Reset it?”
+
+“Change the setting of a seal? Yeah, I think I could. That’s what causes the blight, right?” He gestured upwards, towards the ceiling and the sky above.
+
+She nodded slowly. “A caustic revelation, that antimagic can reach the same depths as magic. As wizardry. The aether is the domain of the grandest of magics - it is how wizards enhance themselves beyond all others, and spells reinforced by aetheric constructs are superior to any other force.” She smiled privately. "Or so we believed."
+
+Well, it’s nice to have a name for that place. I’ve been simply thinking of it as the “alternate plane” or whatever for too long.
+
+Stella was looking back and forth between them. “The aether? How do I use it?”
+
+Ushia was already shaking her head. “First, focus on reinforcing your spells with wizardry, and you will learn to manipulate it. It is the highest art of wizardry. It allows you to manipulate your own mana, to simulate skills."
+
+Nathan’s gaze wandered as he thought. “But there’s another layer. Something beyond wizardry in the aether. Mana pools are formed of more than just wizardry. There are gaps I can sense, filled with something.”
+
+Ushia shrugged. “My answer is that you are sensing Davrar itself. I do not know of any who can manipulate the tools of the world. If there are Insights to be found there, I cannot deliver them to you.”
+
+He shook away the question. “Maybe we should fight without all of the wizardry, and see if there’s anything else you can teach me.”
+
+The big Orkish woman seemed unsure, but after a moment she nodded. "I shall relish the chance to fight with martial skill alone. In most fights, I pull the skeins of fate and decision to guide a fight in my favor. My abilities build around that occurrence. We should fight, but mayhaps in a practice area more suited to it." She gestured around at the glass-enclosed room underneath a significant amount of water, and an even more significant number of sea monsters.
+
+“What about me?” Stella asked, looking nervous.
+
+Ushia looked at her and nodded. “I can help you identify your weaknesses. Let us go upstairs to a less dramatic setting.”
+
+Stella was all too happy to agree to that, and they returned to the palace to find a venue more suited for sparring involving destructive magic.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 564
+
+Regenerative Focus: 5740/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 3
+
+Mystical Discernment 4
+
+Forewarning 2
+
+Arcane Insight 4
+
+Evasion 1
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 9
+
+Visibility Control 5
+
+High-tier Disguise 5
+
+High-tier Battle Cry 3
+
+Aura Control 5

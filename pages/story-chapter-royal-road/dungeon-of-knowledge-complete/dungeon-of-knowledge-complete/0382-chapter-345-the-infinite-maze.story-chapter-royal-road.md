@@ -1,0 +1,141 @@
+---
+id: 5cbf8ba5-6e61-5467-9036-7073eb087e0f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 345: The Infinite Maze"
+slug: 0382-chapter-345-the-infinite-maze
+partOf: dungeon-of-knowledge-complete
+position: 382
+ownLength: 2910
+unit: words
+ownProgress: 2910
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2514923/chapter-345-the-infinite-maze"
+royalRoadId: "2514923"
+markedReadAt: "2026-06-29T20:23:34.067Z"
+---
+
+Ali felt the magic of the rough, cobbled-together teleportation spell twist and pull at her body, struggling to shove her through a thick, stretchy veil. The spell itself was inefficient, a tangled mess of suboptimal and incongruous runes that she had jammed together in her haste to avoid the brothers’ notice.
+
+But what it lacked in elegance, it made up with brute force. The surging current of the domain-empowered teleportation smashed her helpless body against the resistance, making her gasp as she was painfully twisted, battered, yanked, and stretched in impossible directions.
+
+Suddenly, the pressure vanished.
+
+Ali appeared with a lurch; her eyes squeezed shut. She stumbled as a wave of nausea hit her like a boulder to the stomach. Her injured ankle screamed with new pain, buckling under her sudden weight, and she fell hard on cold stone ground. Her cunning, spur-of-the-moment plan had worked, but she was certain she never wanted to try that again.
+
+Her fingertips brushed cold stone. Not the rough ancient dwarven flagstones that covered the library, but smooth, like polished marble. A band of tightness clamped across her chest as she reached for her magic and failed to find it. Carefully, she straightened up and opened her eyes, but to her dismay, instead of finding herself safely in her library with her books and tree, and maybe Ryn or Lira coming to welcome her back, she found herself sprawled on the surface of a small floating crystal-encrusted white stone island floating in a bright, airy space. It was the same stone and crystal that she had come to associate with this bizarre puzzle dungeon. All about her, the mana of the Infinite Maze’s domain flowed just as powerfully as it had always been, holding her magic hostage.
+
+Where am I? She was most definitely still in the dungeon, but somewhere new. Her little island floated in space, and to her left, the entire view was dominated by an enormous, distant, vertical wall of dappled grays, suspended in a way that truly boggled her mind. She stared at the impossible thing as she tried to figure out how it could even be.
+
+Wait… are those mountains? Her eyes picked out tiny craggy bumps on the wall. Between them, she found snaking tendrils twisting through the taller bumps in meandering paths. That’s not a… wall, she thought, tilting her head as she picked out more and more familiar features. It looks like a map. Only this was real. Suddenly, her perspective flipped. The ‘wall’ wasn’t vertical at all. It was the ground. It was she who was plastered to the side of a vertical chunk of rock, and what had once been ‘left’ was now terrifyingly ‘down.’
+
+She let out a half squeak, half moan as the vertigo slammed into her, and she fell to the surface of her island, trying to grip the smooth white stone with her fingers, finding no purchase under her nails.
+
+But incredibly, gravity didn’t suddenly glance her way and send her tumbling to the distant ground. Slowly, she raised her head, realizing that some incredible magic was at play. Down for her was her island, even if that didn’t agree with the down relative to the ground outside – the ground that loomed large, consuming half her visual field.
+
+Her heart sank into her slippers as she realized the implications. This was only possible with powerful gravity or space magic – and she knew exactly whose space magic it was. Just as she had feared, she had failed to escape. The fact that her magic was still denied to her and the world she could see was still in monochrome gray merely reinforced the realization.
+
+Ali struggled to shift her perspective, battling her instincts and the sheer dominance of that vertical ground beside her, but as soon as she turned her head away from it, a semblance of normalcy reestablished itself, and she once again found herself sitting on a floating stone island. Her body relaxed, only to suddenly yelp as Clarence appeared beside her with a loud pop.
+
+“Oh, Clarence, it’s you,” she said. “You scared me.”
+
+The excitable book flew a few loops around her before settling down and hovering in the air nearby.
+
+“Clarence? How are you able to use magic?” she asked him. The pervasive magical suppression field projected throughout this dungeon somehow wasn’t affecting him at all, and with a few moments to spare, her curiosity had exploded, but he was a book. She didn’t expect much from his response, but he surprised her by riffling through his pages, stopping at a chapter she had never seen before.
+
+“How do you keep doing that?” Ali asked, peering at the pages curiously. She had read the entire book, memorized it, and duplicated it for Nathaniel Sunstrider, and yet Clarence kept opening himself to chapters she couldn’t recall having ever seen. Exasperation warred with admiration within her. “Yes, yes, you’re very clever.”
+
+Clarence flicked a few pages with a nonchalant air.
+
+“Show off!”
+
+He angled the page for her to read. Hmm, subtle. Taking the hint, Ali focused on the task at hand.
+
+As usual, the chapter seemed to be a complex, dense dissertation on the nature of magic, far beyond her casual scrutiny. All she managed to do was suddenly burn off almost half her mana pool as Sage of Learning reacted like it had been punched upside the head. She hung on as her mind twisted and warped – a perspective disorientation that was so much stronger than discovering her local down was not aligned with the world around her, but as it faded, she didn’t feel any particularly profound insight magically appearing to save her from her predicament.
+
+Something to study later, she thought. As much as it might eventually provide her with a way to escape this place, her immediate safety was more important. Come on, Ali, think! There’s got to be a way out.
+
+Soaring above her, for all definitions of ‘above’ that might be relevant, the pristine air was filled with floating islands of white stone and twisting curved paths of glowing arcane barrier magic, stairs that led up, down, sideways, connecting everything in a vast sprawling maze. Everything was lit by a soft white radiance, and the air was so clear that even through the plentiful gaps, the features of the maze vanished into the vast distance. Ali gulped at a fresh wave of vertigo. Space in this place seemed positively bent if not entirely broken, with many of the surfaces tilted at impossible angles. Crawling along the paths and stairs, each with its own definition of which way down might be, were countless shadowy black shapes.
+
+Her mind rebelled as she tried to make sense of it, but she froze as her eyes locked onto a pitch-black rip in the fabric of the world. The rift hung suspended in the middle of the warped maze of space and arcane magic like the naked iris of a cat god, and from it crawled shadowy monsters like ants spewing out of their nest.
+
+“I found her,” Cael announced excitedly. “My magic caught her teleport and put her into the maze. Perfect design.”
+
+“Thank goodness,” Gage answered. “You almost let her get away. You need to be more careful.”
+
+“What do you mean, I almost let her get away? You were the one flapping about trying to catch the book,” Cael complained.
+
+Ali tried to put their bickering out of her mind and forced down her bitter disappointment at not making it clear of the dungeon. There was a faint scent in the air; the dry smell of marble dust undisturbed for ages, mixed with the faint chemical odor of buzzing mana. She studied the maze, carefully memorizing everything she saw, and then Sage of Learning twisted her memories, connecting two previously unrelated patterns in her mind.
+
+As soon as she saw it, she couldn’t unsee it. Every single curve of every walkway – all the arcane platforms and floating islands of stone – was laid out precisely in a three-dimensional runic magical formation. To her surprise, she realized that every single part of this dungeon – including the rooms and puzzles she had seen before this maze – had all been part of an unbelievable magical structure on a scale grander than she had ever imagined. Mana flowed through all the pieces, powerful, smooth currents that manifested Cael and Gage’s masterpiece, imposing their will and design on the entire space.
+
+Runes, but made from rooms, islands, and passages. The sheer scale of it beggared the imagination, leaving Ali speechless.
+
+Honestly, Ali was more impressed with the two of them than she had been with anything the archmage Nathaniel Sunstrider had created – or even the grand constructs Nevyn Eld had wrought in the Temple of Aman Rak. Those were impressive, most certainly, but this was beyond incredible. Could I learn from this somehow to fight Nevyn Eld better?
+
+It was no wonder she couldn’t cast any magic, nor had her teleport spell worked. The entire dungeon itself was an enormous suppression array, a vast formation clamping down on all magical casting that wasn’t the dungeon’s own domain, locking flight and teleportation, and a host of other magical movement skills. It gave her an inkling of what Clarence had been trying to show her.
+
+But that would have to wait. Crawling quickly along a nearby arcane barrier path that linked to her island was one of the dark, shadowy monsters, drawn eagerly toward her as if it had her scent. Its body seemed vague and indistinct, obscured by powerful shadow magic, reminding her strongly of the Eimuuran Darksteel Daggers she had given to her rogues. She couldn’t identify it, but just the sight of it and the feel of its mana sent chills and shivers of fear through her. If she didn’t move, she would become its food. Well, closer to a quick snack.
+
+“Clarence, I think we need to go,” Ali said. Leaving aside all her questions for later, she fled, picking an arcane magic stairway in the opposite direction, with Clarence hovering beside her as she made her escape. Behind her, the strange, silent monster reached the island, hovering with billowing sheets of magic and the hint of concealed limbs searching the space she had sat.
+
+Before her, the arcane barrier stairway ended, and the walkway twisted ninety degrees, presenting her with a vertical wall. She balked as she realized what she must do, but she had precious little time to test it. Down below, the shadow monster was already swarming up the stairs to reach her. She summoned her willpower and took a step of faith, walking sideways onto the vertical wall. Space twisted, and the direction of down rotated as she moved, and her body stumbled and fell, hitting the wall hard as down twisted sideways. She slid along the smooth barrier magic, coming to a stop with her head and arms dangling over the edge with nothing below her other than empty space. In sudden panic, she scrambled back and stood up, rushing down her new platform, ignoring the precipitous shifts in her mental perspective of her space.
+
+“Don’t be scared,” Gage said, but Ali had no time to engage with the twisted brothers.
+
+She rushed down the arcane path, with a limping, shuffling gait that favored her injured ankle while still trying to outrun the shifting, ominous rustling of the shade monster behind her. No matter how fast she went, the slow and wispy creature seemed to edge ever closer. She closed her eyes tight and leapt forward across a twist in the path, feeling the bent space wrenching her sideways as she rolled along the new floor before opening her eyes and scrambling to her feet. She could hear the faint whining from the creature now, close enough for her to appreciate just how much bigger than her it was. She rushed across another stone island and out via the only arcane path, but to her dismay, she found it ended in midair, with just a shimmer of space magic to mark the dead end.
+
+She turned, but the monster was still advancing, so she backed away slowly, racking her brains for a way to defend herself, but without magic, she would be helpless. At least with her dexterity boost, she might be able to dodge for a bit.
+
+When her foot took a backward step into the shimmering light, she felt a wrenching lurch, and she was suddenly on a stone island with four paths leading outward from its center. As she scrambled to reorient herself, the entire world around her flickered once, twice, and then a final third time as the spirit realm shifted through its echoes. The shade that had been chasing her entered the magical portal, but it vanished somewhere else out of sight, and Ali finally took a big breath.
+
+Now that she had discovered the new kind of portal, she could see them everywhere, dotting the landscape of the maze. There were several shades, but none of them were near enough to warrant immediate evasive action.
+
+The portals can change destinations, she realized, processing what just happened. Whether it had a purely random destination or the echoes shifted them, she had no idea, but it had given her a small reprieve. Already, the nearest shades seemed to be searching for something as if sniffing her out.
+
+“Why are you attacking me with shades?” Ali asked. “I thought you said you had puzzles.”
+
+“You misunderstand,” Cael said. “This is not a puzzle.”
+
+“This is the maze,” Gage added, clarifying. “It is our defense against the shades from beyond the rift.”
+
+“This is the task he gave us,” Cael added, and Ali knew instantly who he was. “The monsters enter, seeking our mana, and they get stuck in the maze until they leave or die. The shades are not our monsters.”
+
+“Without us, those shades would overwhelm the realm. You put yourself in this predicament with that ill-conceived teleport,” Gage said. “Now they will kill you.”
+
+“Can’t you just teleport me out then? You’re space mages,” Ali asked, eyeing the crawling shades. She would need to get moving soon if she wanted a chance of evading them.
+
+“I… cannot risk the shades getting out,” Cael said, and for some reason, Ali was certain he had been about to say something else.
+
+“Seems like you just don’t want to admit that you were trying to kill me. Shades or you, it’s all the same,” Ali said, frustrated with the two brothers and their twisted methods. She almost wished they would just get it over with.
+
+“We weren’t really trying to kill you,” Cael said, surprising her with the pain and despair in his voice. “It’s been so very long, and we just wanted someone to play with us.”
+
+Ali was about to retort, giving vent to her frustration, but something in his tone made her hold her tongue. It seemed almost pathetic, a desperate plea somehow, and for a brief moment, she suddenly saw him as a child – a ridiculously powerful space mage, but desperately hurting and alone.
+
+How long have they been here by themselves?
+
+She let the thought percolate through her mind as she turned and fled down the only pathway that didn’t have an approaching shade.
+
+Malika fed a little mana to her body tattoo and activated Spirit Walk, causing the massive troll berserker and all the surrounding ruins to shift to dull gray. As soon as she arrived, she allowed her Spirit Walk skill to drop, leaving herself in the strange flickering landscape of this realm that was at once so close to the real world and yet so unnaturally different.
+
+Various surges of mana and stamina flared up beside her as her companions joined her: Calen using his Realm Walker, Val’korr using his own Spirit Walk skill, and Rezan somehow teleporting here with his soul magic. Even Mato appeared the moment Val’korr cursed him.
+
+“This is where it happened,” she said.
+
+“I see that,” Rezan said, immediately studying the surroundings. “This is going to be challenging, whoever did this is good at hiding their mana.”
+
+“Let us consult with the spirit beasts,” Val’korr said, and an intricate but strangely familiar spell surged through him, and a beacon dropped to the ground.
+
+A beacon that Malika recognized from fighting Kir’vella. In moments, a huge wolf slunk out from behind a gray building, glowing an ethereal blue, and as it approached, she found that she could see the rocks and rubble hazily through its semi-transparent body.
+
+It was fascinating to see the ancient witch doctor and Mato ‘talk’ with the spirit beasts, more and more of them appearing, drawn to the call of his beacon.
+
+“I need to perform a divination,” Val’korr said. “It will take some time.” When Rezan waved his hand, he sat down among the spirit beasts and began chanting, pulling out some strange ritual effects.
+
+“While he does his mumbo jumbo, let’s look around,” Rezan said, drawing a scowl from the wizened Troll – but he didn’t comment. Then, the four of them began to search for any clue that would lead them to the strange dungeon that had captured Ali.
+
+Hang on Ali. At least she had been able to tell Tol’brekk to let her know help was on its way.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

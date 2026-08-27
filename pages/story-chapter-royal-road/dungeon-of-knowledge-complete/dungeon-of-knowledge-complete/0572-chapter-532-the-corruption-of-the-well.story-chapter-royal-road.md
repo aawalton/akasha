@@ -1,0 +1,275 @@
+---
+id: 297eab3b-a8bc-58d2-9d90-14a0c92b36e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 532: The Corruption of the Well"
+slug: 0572-chapter-532-the-corruption-of-the-well
+partOf: dungeon-of-knowledge-complete
+position: 572
+ownLength: 4583
+unit: words
+ownProgress: 4583
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3028772/chapter-532-the-corruption-of-the-well"
+royalRoadId: "3028772"
+markedReadAt: "2026-06-29T20:31:48.572Z"
+---
+
+Malika handed the rest of the leather items to Vivian after having appraised each of them. Loot distribution in these large groups was supposed to be challenging and filled with drama; however, the goals of everyone in this group seemed to be closely aligned. Assigning the items to the person who could best make use of them to finish clearing the dungeon was the single most important criterion, and those items which were immediately usable were distributed with minimal fuss. The rest were stored for the guild to hold until anyone met the steep level requirements.
+
+There were no complaints when Vivian handed the Legendary bow to Calen. Not even from any of the pure-blooded Elven Pathfinders. In fact, there were many nods of approval, quiet words of congratulations, and several requests to avenge Nendir’s death, all of which Calen accepted with solemn respect.
+
+Probably didn’t hurt that he genuinely wanted to give it to Coria, Malika decided. Still, it was a group that had meshed into a well-honed fighting force through hardship and the challenges of struggling through the dungeon that had destroyed and corrupted Ciradyl and the Well of Souls. Being united in their task to eradicate the one the Wood Elves had taken to calling ‘The Betrayer’ gave everyone a shared purpose.
+
+Malika’s eyes fell at last to the final item. What do I do with this? She grimaced as she studied the ominously glowing crystal, shot through with clashing veins of purple and black. It made her skin crawl. It didn’t help that it had been driven through the Wight’s chest, impaling him where his living heart had once beat.
+
+Whatever it was, it still thrummed with power.
+
+She picked it up to get a closer look, hissing in surprise as the dark purple crystal burned through her skin like acid on contact. But she did not drop it. She simply trickled healing magic through her hands and appraised it.
+
+Crystallized Soul FragmentA fragmented shard of a pure soul, encased in a cursed crystallization of arcane and death mana.Quality: Legendary.Value: unknown/priceless.Reagent
+
+She almost dropped it then. Holy shit! A legendary soul fragment? But Appraise was unable to provide her with any more insight. She would need to speak with Morwynne or Basil at least, and perhaps run it by Ryn at the library, too. Maybe even someone… more experienced. Val’korr might have some idea, and, failing that, she could ask Ali to take it to Azryet. It had to have some use.
+
+“This one needs more research,” Malika explained when Vivian turned a querying look on her and the sizzling crystal that was trying to eat through her flesh. “It’s a legendary reagent. Figuring out how to use it is going to take some work.”
+
+“Ok. Let me know when you have some idea what it is,” she said.
+
+Malika nodded, carefully storing the dangerous item.
+
+In the meantime, she thought, turning her attention to her notifications. I gained some levels.
+
+Eyes of the Soul has reached level 210 (+12).+120 attribute points.Martial Artist has reached level 95 (+4).Soul Strike has reached level 101 (+4).Healing Mantra has reached level 122 (+5).Perfect Body has reached level 75 (+3).Soul Armor has reached level 90 (+3).Enlightened Evasion has reached level 75 (+3).Divine Step has reached level 90 (+4).Second Wind has reached level 61 (+4).Clarity has reached level 75 (+3).Soul Sight has reached level 90 (+4).Dancing has reached level 22.Appraise has reached level 39 (+3).
+
+“And that’s how it’s done,” she muttered to herself. “The big two hundred.” Still, despite her words, she was surprised by the number of levels she had just earned. No easy fight, certainly, but twelve levels to kill an archer was exceptional.
+
+There were no particularly noteworthy breakpoints for her, but the sheer number of class and skill levels was certainly reward enough. She hadn’t used many skills in the previous fight due to abusing the mind-control platforms, so seeing them all growing again made her particularly happy.
+
+With so many points to spend, she could afford to be generous to her primary attributes. First, she spent three points each on intelligence and strength, getting her lowest ones the minimum boost she deemed necessary. Vitality got ten points – health may not be as important to her as to, say, Mato, but it was still a critical resource. Not one she wanted to run out of, ever. She scratched her chin and then spent twenty-seven points on wisdom, twenty-one on perception, twenty-five on endurance, and the last thirty-one on dexterity. The sudden infusion of fresh attributes, multiplied by her enhancements and skills, was a heady rush that she would never tire of experiencing.
+
+At least I’m finally catching up to Ali again. The little Fae had left them all in the dust during her sojourn in the Abyssal Realm, and Malika was not about to sit around and let her friend carry more than her fair share of the weight around here.
+
+Then, she grinned to herself and shook her head slightly. Because it’s all so competitive? Winner gets to beat up an unstoppable Lich. Right.
+
+Ali studied the roiling barrier with no small measure of trepidation. It was glowing purple, just like all the others, although this one did seem substantially thicker and denser. Trapped within the massive dome, dense clouds of roiling miasma circled, revealing the dark outlines of zombies and other foul undead. In places, the dark clouds seemed to seep through even the final, most potent barrier that the dungeon of the Archmage could muster.
+
+Beyond the immediate surroundings, half-obscured in the depths of murky darkness, hundreds of visibly powerful undead monsters writhed and crawled. Banshees shifted in and out of the smoke, while zombies and ghouls scraped at the transparent purple barrier with wicked blackened claws, mindlessly reaching for anything that moved.
+
+Deeper still, safely ensconced behind the imprisoned throng, stood the translucent shade of Nathaniel Sunstrider, wreathed in potent mana that shone so brightly in her mana-sight that his every movement was clear to her.
+
+“This is going to be… ugly,” she muttered. She had never seen anything like that miasma, nor the pulsing dark power that threaded it like veins of corrupt mana springing from the Well. She had quickly verified that there was little she could do to claim the remainder of the domain after Nendir’s Wight had been killed – the pressure so close to the corrupted Well was immense – and so they were on the clock before he was presumably respawned. Their impromptu planning session had amounted to little more of substance than ‘learn as much as you can.’ She frowned.
+
+“I can see that,” Malika said, standing supportively beside her.
+
+“I’ll tank all the undead,” Mato said, with his typical confidence, his voice warping weirdly as he shifted into his Dire Bear Form.
+
+“Leave some damage for Havok,” Havok said, bumping Mato on the leg with a small fist encased in mithril gauntlets. Sabri and Basir stepped up to flank them, staring grimly at what awaited.
+
+“Ok, here goes,” Ali said. Her magic sprang easily to her fingertips, making them glow with dancing tongues of insubstantial golden flame as her needles materialized, hovering above her palm. As easily as thought, she flung the incredibly complex counter-magic into the equally inscrutable dungeon barrier formation before her, watching carefully as her Dismantle went to work. Mana sparked and crackled as the barrier began to rapidly unravel. The dome rang like it had been struck by an invisible greatsword the size of a tree, and an immense vertical crack snaked along its curvature. Golden mana sizzled along the edges, and suddenly the entire edifice shattered into a thousand shards, which burst outward under the pent-up pressure of the ominous blackness within.
+
+Dark and corrupted mana gushed outward, pouring directly from the Well itself and crashing over the raid group in a malevolent wave. Ali flinched under the violent impact, her mind reeling as the corruption assaulted her and her domain simultaneously in ways she had not anticipated. Confusion reigned as the world twisted and spiraled in on itself like a suddenly pliable mirror crumpled into a ball.
+
+You have been afflicted with Decrepify. -7 to Vitality.Corruption – Aura – Count: 1
+
+But it was the sheer staggering pain as the Well of Corruption’s domain burst forth, shredding hers for hundreds of meters in all directions. Dark forms burst forth amid the falling shards, howling and roaring as magic and steel met them in crashing and thundering blows.
+
+You have been afflicted with Decrepify. -6 to Intelligence.Corruption – Aura – Count: 2
+
+Someone dragged her backward as her mind flickered and blackened, wavering in and out of lucidity, and then, slowly, as the pain abated, her clarity returned. Despite her Domain Architect skill, all her recently gained area for almost three hundred meters surrounding the Well had been destroyed, torn to shreds, and reclaimed by the Well of Corruption in a single instant of unleashed power.
+
+You have been afflicted with Decrepify. -8 to Wisdom.Corruption – Aura – Count: 3
+
+You have been afflicted with Soul Well Corruption.The twisted presence of the Corrupted Soul Well tears at the essence of your being.You are afflicted with severe nausea, confusion, and disorientation.+(21-272) Soul damage per second to stamina.+(53-689) Soul damage per second to mana.+(68-885) Death damage per second. Damage increases closer to the Well of Souls. Undead are healed instead of damaged. 15% chance to cast level 270 Complete Heal (Undead) per second.100% chance to cast level 270 Raise Greater Wraith on death.Decrepify (living entities lose 1-33 attribute points per second).Corruption – Aura
+
+Ali gasped at the sudden burst of growth. Enormous branches began to spread out overhead to the sound of creaking wood and crunching earth. The familiar mana of Mato’s Arboreal Sanctuary washed over her, weakening the horrendous corruption aura.
+
+But Ali’s relief was short-lived.
+
+Her enormously potent mana perception told her the dire truth – Mato’s aura was being consumed by the corruption just as surely as her own domain. They had maybe twenty seconds before it collapsed.
+
+“Run,” she said, but her voice came out as a weak croaking noise.
+
+“Run!” Calen yelled, somehow having heard her and taken up the call.
+
+With all his might, Mato resisted the crushing weight of the torrent of corruption gushing from the naked Well of Souls, but it was like trying to hold back the tide. It gnawed voraciously at his mana, corrupting it. It burned like a consuming flame, pressing in on him from all sides.
+
+“Run.”
+
+Mato had never been so happy to hear Ali’s weakened croaking voice calling the retreat. Nor Calen’s much louder echo, repeating the call to abandon the dungeon.
+
+First one or two, but then growing to droves, the adventurers vanished from his aura.
+
+He was about to transform out of Tree Form to join the retreat when he sensed a vast power entering his domain. The Wraith of Nathaniel Sunstrider hissed, and every last undead turned toward Mato.
+
+A massive, ancient tome appeared, hovering before the Wraith, and a page burst into magical flames. Mana surged, and suddenly a monster appeared. A Calhedron, tied with giant hawsers of mana, binding it to the domain. With a spike of dread, he knew it was a new raid boss. And he knew with just as much certainty, he would not survive his transformation. At least, not for long.
+
+“Mato!” Calen’s voice cut through the roaring horde of undead from far above. “Bear, now!”
+
+It was futile – he was simply not fast enough. Even in his Bear Form, there would be no way for him to escape a raid boss and the hundreds of undead arrayed against him without any of the protection against corruption he gained in Tree Form. But in Tree Form, he could not run, nor would his protection last.
+
+He shifted anyway, certain Calen had a plan.
+
+The corruption aura crashed in on him, and he felt his attributes, health, mana, and stamina all being rapidly eroded as he faced the rushing wall of undead and the newly minted giant Calhedron elemental, busily spewing spawned swarm elementals into the air like clouds of smoke from a wildfire.
+
+He braced himself, ready to roar the instant his shapeshift completed.
+
+The hordes came for him. There was no more time.
+
+Yet, in that moment, his body slipped into the Form like a boulder settling into a groove exquisitely shaped for it. He felt the hushed sigh as it slotted perfectly into place. There was an unexpected solidity and palpable weight to his Form, like he’d finally awakened to the truth of what being a Bear truly was. He roared, flexed his muscles, and Swiped almost lazily, his claws raking across the onrushing undead with preternatural alignment to his purpose. Dozens of dense, rippling waves of nature magic rolled off of his hide, ripping into the surrounding monsters as Brutal Restoration seemed to leap eagerly to his need, flooding his body with dense formations of powerful healing as he triggered Last Stand.
+
+Balance. This… is balance. One Bear, standing stalwart against the might of an entire dungeon. The blows rained down in an avalanche against his hide.
+
+But, he was not alone. A soft tinkle of broken glass caught his ears over the oncoming stampede. The acrid stench of smoke caught in his nostrils.
+
+Thanks, Calen, he thought quietly as his body was suddenly whisked away right as the Ghouls tore into his hide with ravening claws and dripping fangs.
+
+It took less than a second for someone to notice the Ghoul’s paralysis and cure him, and in that time, Calen appeared beside him in the center of the locus.
+
+“Everyone get out safely?” Vivian asked, taking a quick visual roll call and then sighing with relief when she found him and Calen.
+
+“Did you see that?” Mato asked, shifting back to his humanoid shape.
+
+“The raid boss summon?” Calen asked.
+
+“Yes,” Mato said soberly. “That was a domain magic skill, wasn’t it?”
+
+“I’m pretty sure it was.”
+
+Mato frowned. He wasn’t usually one for strategy, but even he knew what this meant. Many bosses summoned monsters to aid them, but this Wraith had summoned a raid boss. That can’t be good. No matter what, he needed to get stronger. And probably a whole lot tougher to face what he had just seen.
+
+Something had happened there, right at the end. In his final transformation, his skills had seemed, somehow… more? He had gained levels from the prior fight against the Wight, but nothing special – nothing that could have accounted for what he felt in that final showdown. Hoping for inspiration, he glanced inwardly at his heart’s grove and the accumulated notifications within.
+
+Elemental Shapeshifter has reached level 208 (+12).+120 attribute points.Arboreal Sanctuary has reached level 84 (+4).Swipe has reached level 111 (+4).Brutal Restoration has reached level 105 (+4).Bear Form has reached level 100 (+3).Rampant Growth has reached level 58 (+5).Bestial Combat has reached level 98 (+5).Natural Prowess has reached level 83 (+4).Survival Instinct has reached level 97 (+3).Battle Trance has reached level 77 (+2).Last Stand has reached level 42 (+2).Cooking has reached level 30.Herb Gathering has reached level 33.Brutal Restoration has reached a base skill level of 100.Brutal Restoration has advanced to tier two.Bear Form has reached a base skill level of 100.Bear Form has advanced to tier two.
+
+“Now that’s what I’m talking about,” Mato said, grinning at his notifications.
+
+“Get something nice?” Calen asked.
+
+“Brutal Restoration and Bear Form just reached tier two,” he said. Two of his most important skills, at that. Not to mention, he had just passed level two hundred, and in many cities, he would now be considered a mithril-rank adventurer – not that this guild had that rank yet, but it was certainly a satisfying milestone in his journey of improving his strength.
+
+“Good bonuses?” Calen asked.
+
+“Hopefully, I can transform faster,” he chuckled. “Looks like more armor in Bear Form and more range and damage for the Brutal Restoration nova on critical damage.”
+
+“That’s going to come in handy,” Calen said, grinning.
+
+“Sure is. Time for a rematch!” He fell silent for a bit, considering his points. A couple this way or that isn’t going to make too much difference in the long run, he decided. He spent twenty-six points on vitality, twenty-five on strength, twenty-four on endurance, and twenty-seven on wisdom. The remainder he divvied up: four each into intelligence and dexterity, with the remaining ten going to perception.
+
+Ok, bring it on, stupid wraith!
+
+Malika pushed open the door to Pretty Powerful Potions and stepped inside. A sleek, modern lab, all chrome and glass, greeted her surprised gaze. The last time she had stopped by to visit, the store had been far smaller, much dingier, and filled with swearing, explosions, and smoke.
+
+As if on cue, a muffled bang echoed off the hard, gleaming surfaces. An angry gnome flew past at high speed, trailing colorful streamers of smoke and equally colorful swearwords, some of which Malika recognized as particularly potent Trollish.
+
+At least some things never change, she thought, teleporting across the room and catching Morwynne before she smashed a delicate array of extremely expensive-looking bubbling glassware balanced on a table near the wall.
+
+“Aah, thanks, Malika,” Morwynne said, briefly pausing her multi-lingual tirade to acknowledge her before continuing.
+
+“Is that Demonic?” Malika asked after the pink-haired gnomish alchemist’s voice shifted to a deeper register and cursed with words that sounded like they might actually do something.
+
+“Yes!” Morwynne said, beaming excitedly. “I took some lessons with Aliandra. Isn’t it such a fantastic language for expression?”
+
+“It’s certainly something,” Malika offered diplomatically, putting the gnome down carefully, only half-jokingly wondering if she was possessed.
+
+“Well, what can I do for you today?” Morwynne asked brightly as she snapped her fingers sharply. Several small, animated constructs scurried out from an alcove at the back of the store, zipping around with tiny brooms and dustpans to collect the broken shards, and rags to wipe up the sizzling fluids that were rapidly eating through glass tabletops and spilling onto the polished floor.
+
+That’s new, Malika thought. Morwynne must be doing very well if she could afford mana constructs of such sophistication, but she decided not to comment on it.
+
+“Would you mind taking a look at this? I have no idea what it might be worth, nor could I figure out what it’s used for,” Malika asked. Neither Basil nor Eliyen had had any ideas – but that was hardly surprising, given it wasn’t some sort of plant or herb. At least as far as she could tell.
+
+She retrieved Nendir’s crystallized soul fragment from her storage, preemptively channeling her healing magic into a glowing aura about her body. The tiny cuts and scratches left over from the earlier explosion on Morwynne’s face and arms vanished instantly, and her magic began its showdown against the corrupting sizzle of the strange, purple crystal, trying its level best to consume her flesh.
+
+“Oh!” Morwynne exclaimed, immediately poking it with a finger. Dark smoke and sizzling greeted her touch, but the gnome ignored the burn damage to her finger, apparently unaware that she had nearly lost it, only to have it restored moments later by Malika’s magic.
+
+“You know what it is?”
+
+“Now this… this is something!” A flurry of magic whirled about the gnome as dozens of lenses and devices were produced, used, and then discarded. Constructs buzzed, clicked, or glowed briefly as Morwynne’s excitement visibly mounted. Naturally, she completely ignored Malika’s question.
+
+“What is it for?” Malika asked. It was hard not to notice the growing excitement and progressively more expressive animation.
+
+“I… I have no idea!” Morwynne exclaimed as if caught in the throes of some grand revelation.
+
+Malika sighed. It would seem that a legendary reagent was beyond even the best minds in Myrin’s Keep. Not that Myrin’s Keep was some center for cutting-edge magical research and alchemy, but she had hoped the eccentric gnome would have at least had some thoughts on the subject. She was about to store it away again when Morwynne continued.
+
+“I suggest we go talk to that resourceful girl in the library. Ryn. She has helped me out with tons of tricky things.” Morwynne was already busy shoveling stuff back into her storage ring, and then she produced a neon-green scarf, which she wrapped around her neck. “Ok, I’m ready, let’s go. Quickly now, don’t you want to find out?”
+
+Malika resisted rolling her eyes. Fortunately, the guild was virtually next door, and it took simply stepping into the runic circle with her guild ring to teleport both of them into the ground floor of the Grand Library Arcana.
+
+The two of them flew up to the top level, Malika stepping on the air as if it were solid ground, and Morwynne, unsurprisingly, downing an airy Potion of Elegant Flight. The giant oak reaching up through the center of the atrium positively shone with vast constellations of wisps and magical insects that it drew to itself through the sheer density of the mana rushing upward through the trunk to be expelled from the branches and leaves into the cavern far above. Darting in and out of the swarms of glowing insects like tiny apex predators were dozens of golden dragonets, breathing motes of brilliant light and trailing sparkling golden glitter behind their wings as lures for their prey. Malika very nearly bumped into several on her way to the top, and the two of them caused a wake of shrieking annoyance from the dragons for having disturbed their dinner.
+
+“Hi, Ali. Do you know where Ryn is?” Malika asked. Ali was perched on top of the table, surrounded by haphazardly teetering piles of books. Her Grimoire floated beside her, wide open, and an enormous torrent of her mana seemed to be channeled right into the pages as she worked on duplicating the tome in her hand.
+
+“She’s over there, behind the second row of bookshelves,” Ali answered without even looking up. Absently, the Fae picked up a blue, squishy ball and tossed it over the railing and out into the atrium. A flash of pages and golden light shot off after it at breakneck speed.
+
+“Thanks,” Malika said, and led Morwynne onward into the bowels of the library.
+
+“Hi, Malika, what do you need?” Ryn popped her head up over the top of a tall set of shelves, hovering on her butterfly wings while a host of books circled her, floating in the air.
+
+“Morwynne said you might be able to unravel a mystery for us,” Malika said. “An Alchemy one.”
+
+“Oh, alchemy! That sounds like fun,” Ryn said, flying down to join them.
+
+“Here, what is this for?” Malika asked, producing the soul fragment again. It sizzled softly in her hands, but it was no match for her healing magic.
+
+“Ooh! What is that?” Ryn asked, reaching out to touch it. “Ow!” she exclaimed, snatching back her hand. Her fingers had barely brushed the crystal surface, and it had instantly burned the skin off. She stuck her finger in her mouth.
+
+“Why does everyone insist on touching the corrupted legendary artifact?” Malika asked, healing Ryn quickly.
+
+“It’s shiny,” Morwynne said with a note of finality that discouraged any further discussion on the subject.
+
+Ryn nodded. “Right.”
+
+“You realize this thing was found impaled through the heart of a third-tier Wight?” Malika said, trying and failing to restrain her sarcasm. Even sticking her finger in her mouth after touching it did not seem particularly healthy, but after her healing magic had fixed Ryn, she could see nothing obviously wrong with her health or energy.
+
+“Isn’t it awesome?” Morwynne exclaimed.
+
+This time, Malika did roll her eyes.
+
+“Thanks,” Ryn said, examining her healed finger for a moment before bracing her shoulders. “My magic will work better if I can touch it,” she explained.
+
+“It will hurt, but I can heal you.”
+
+Ryn nodded, reaching out her hand once again.
+
+Malika laid her own hand on Ryn’s, infusing her with healing magic before she could touch the dangerous artifact.
+
+The sizzle of meat cooking on a red-hot stove accompanied Ryn’s hiss at the sudden pain. Smoke rose from her hand, but it stank of undeath and corruption rather than cooking. Ryn gritted her teeth against the pain and closed her eyes, and within her, threads of numinous, otherworldly mana began to stir.
+
+Malika had seen Ryn’s unique magic many times, and it never failed to amaze her. Being able to see her rare divination and arcane combination directly had simply increased her awe. A vast formation bloomed within her; a strange flower of mana that unfurled from deep within her heart. From the center, infinitely branching purple lightning arced outward, tracing the bookshelves and the tomes, ever seeking. The tendrils branched again and again, filling the entire library with the delicate touch of her divination brushing delicately across the books.
+
+Suddenly, a soft chime rang out through the library, and one of the branches of purple lightning ignited with golden luminance, briefly shining a piercing radiance across the entire expanse of the library, but the path ended with it fading out in midair.
+
+Did it fail? Malika couldn’t tell, but every other time she had seen this extraordinary spell at work, it ended with the golden light touching something important for the search.
+
+“Oh, that’s interesting!” Ryn said, her eyes snapping open. And she promptly vanished.
+
+“Well, that’s –” Morwynne said, fists on her hips.
+
+Ryn returned a moment later, bearing a heavy tome cradled in her arms.
+
+“– rude,” Morwynne finished. Then she blinked at the librarian. “Um…”
+
+Malika stared at the book. It was entirely see-through, like a ghost. As she studied it, the book flickered, suddenly appearing open at a chapter in the middle somewhere. Then another flicker, followed by another, as if the book couldn’t decide if it were open or closed, or which chapter was being read.
+
+“A spirit realm book?” she asked.
+
+“Yes,” Ryn answered, nodding gleefully. “I got an advancement that allows me a lot of freedom to move knowledge within the domain of my library. I can even retrieve echoes from the Spirit Realm now! Hey, Ali? Can you copy this one quickly, before it goes back?”
+
+“Sure,” Ali said, glancing up and taking the ghostly book, which was comically large in her lap. She riffled through the pages quickly and then handed it back. “Oh, this is interesting!” she said, and a few seconds later, a new book popped into existence, dropping into her lap. It was identical to the echo, save for being actually real and substantial.
+
+“Here you go,” Ali said, handing the heavy tome, perfectly finished in fine leather with gold trim, to Morwynne, who snatched it up with eagerness.
+
+“Chapter seventeen, page three hundred and fourteen,” Ryn directed.
+
+Pages flipped with a rapid shuffling sound until the proper place had been found.
+
+Malika craned her neck over the gnome to see.
+
+Chapter 17: Soul Alchemy.
+
+“Um, this might take a while,” Morwynne said, dragging out one of the taller chairs Ali preferred and hopping up onto it with the oversized book, but her eyes remained wide and were glued to the pages before her like a child who had just discovered a brand-new favorite toy.
+
+“Thanks, Ali. Ryn,” Malika said, settling in to wait for Morwynne’s verdict.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrphttps://topwebfiction.com/listings/dungeon-of-knowledge/

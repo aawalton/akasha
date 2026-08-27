@@ -1,0 +1,129 @@
+---
+id: fe4e5582-8c8f-50af-ac16-c533b4c1a385
+page-type-slug: story-chapter-royal-road
+title: "Chapter 349: Legendary Magic"
+slug: 0386-chapter-349-legendary-magic
+partOf: dungeon-of-knowledge-complete
+position: 386
+ownLength: 2243
+unit: words
+ownProgress: 2243
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2525172/chapter-349-legendary-magic"
+royalRoadId: "2525172"
+markedReadAt: "2026-06-29T20:25:02.643Z"
+---
+
+They came for me. They really came. Malika had said she would, but Ali could not imagine how. The sight of the serious focus on Calen’s face as he faced down the swarm of shades with practiced proficiency, the concern in Malika’s eyes, and the smile on Mato’s face the instant he saw her lit a soft warmth that flowed out from her heart. She had been utterly alone, injured, and stranded here, facing an overwhelming threat without her magic – she hadn’t grasped just how much she had been struggling until they showed up to save her. She even felt an overflowing gratitude toward the reserved Ahn Khen elder and the grumpy old troll.
+
+Within the chamber, Cael and Gage hung suspended in the golden cylinder, cradled and sustained by the powerful but failing arcane spell, their fractured and damaged mind no longer incomprehensible or even that surprising. How must it have felt to be left alone to face an entire rift without a single weapon other than space and arcane magic to delay and suppress the attackers? How must it have felt when it finally dawned on them that nobody was ever coming back? How must it have felt to know that their lives were sustained by nothing more than the slowly fading spell that imprisoned their body?
+
+While she hadn’t even remotely begun to forgive them for trying to kill her, at least she felt she understood their plight and what had brought them to this point. By contrast, she felt the gratitude for her friends almost overwhelming her.
+
+What would Cael and Gage be like if only they had friends like mine?
+
+The crashing tide of shifting shadows broke against the withering storm of Calen’s incandescent flaming arrows and ground to a halt. Ali had studied his class evolution in long brainstorming sessions with him that lasted late into the night, so she understood the pieces. His arrows were partially incorporeal, passing through every monster to strike all the ones behind them. Each arrow pierced the entire cloud of shades, delivering his explosive light magic and chains to every monster he hit. She recognized the bow as the one wielded by the half-elf Crimson Blade archer, Sallis – it added a Slow curse and a consuming fire that lingered. But knowing how it worked and seeing Calen face down an entire horde of shades under the light of his pulsing beacons was something else.
+
+“You found the corpses?” Ali asked, using the voice of her nearest troll.
+
+“Yes,” Calen said. The bow in his hands flickered, replaced in an eyeblink with his old bow. It howled demonically as he fired off a single volley, this one crackling with the black of hellfire magic before it flickered again, replaced with the more powerful new flaming longbow.
+
+“Why did you switch bows?” Ali asked.
+
+“Stamina leech,” Calen answered, not missing a beat as he continued firing with incredibly smooth action. “One volley against this many fills up my stamina for the next thirty seconds.”
+
+Makes sense, Ali thought, marveling at the skill he had just displayed, reequipping his bow from his storage enchantment without even slowing his rate of fire. Trust Calen to learn a crazy trick like that.
+
+This was his fight, for certain. The shades were bunched up in droves, and his skills were a perfect foil for them. The others had already realized this, breaking off to tackle any loose shades, stragglers that couldn’t efficiently be taken care of by the hail of exploding arrows.
+
+Ali slowly closed her Grimoire as she realized she wouldn’t be needing any more minions. Gage had created a cloud of Arcane Shards that circled the shades, swooping down in formation to pick off the ones on the outskirts. Her Hellfire Imps darted and flittered around in the swarm, keeping to the edge of the continuous explosions of fire, adding their own damage. They were not exactly flying, but given the continuous flame from Calen’s bow, they could surf the swarm indefinitely in Flame Form.
+
+Any time the cloud approached too closely, her troll ice mages unleashed their Frost Nova, allowing Calen’s arrows to shatter everything and push them back once again.
+
+With the situation mostly under control, Ali pulled her attention back to the chamber. She kept a watchful eye on the fight outside, but she allowed her minions free rein to use their abilities as they saw fit. She studied the runes keeping Cael and Gage alive, memorizing sections of it as her Sage of Learning provided links to the most similar structures in her memories of the Temple of Aman Rak formations. She had so many questions about the magic and the Blind Lich’s involvement, but there was one priority that trumped all others. Her hand rested on the pitted and cracked surface of her mother’s spell.
+
+“How much longer?” she asked.
+
+“It would have shattered centuries ago,” Cael said. “Gage is holding it together with his domain magic, but I’m afraid we are at the limits of what we can do. It will probably fail soon. I have made peace with it, but Gage is terrified of dying.”
+
+Ali studied the formations carefully, sorting through the deep layers of structured mana, her skills working overtime to tell her how it had been created and how she might dismantle it. Her mother’s personal touch could not be denied, visible in every speck of the golden construct. Ali put the questions aside and ignored the debate on whether helping him was right or wrong, or more accurately, whether this would be a smart idea or a monumentally stupid one.
+
+“May I try?” she asked.
+
+“I don’t see how it could hurt,” Cael answered.
+
+“What if she tries to kill us?” Gage said, his voice filled with anxiety.
+
+“I think we can trust her, Gage,” Cael replied.
+
+“But…” Gage trailed off, hopelessness evident in the whining of his voice. “Cael, I’m scared.”
+
+“Me too. But you have given everything to keep us holding on – for thousands of years. I’m tired, Gage. Maybe it’s time to ask for help?”
+
+“Ok…” Gage’s voice was small and trembled with hopelessness. “Please don’t kill us.”
+
+After all you did to try and kill me? Ali thought. But she didn’t voice it; his plea was truly the last hope of someone who had finally given up.
+
+“Clarence? I think I’m going to need some help with this,” Ali said, turning to the book that had followed her all the way here. It flipped pages, showing her new magical formations and the methods for manipulation of arcane magic that her Sage of Learning drank up with surprising fervor.
+
+“Right,” Ali said, pushing up her sleeves and summoning her mana. Then she brought everything to bear on the cracked and fragile cylinder: her Dismantle in Arcane Insight laid bare the formations of the spell, but instead of using her knowledge to tear it apart, she channeled her magic to reinforce it, filling the gaps, and strengthening each of the myriad complex elements. For the most part, she summoned the magic of her Barrier, but Sage of Learning and Runic Script were doing a lot of heavy lifting, and to her surprise, Arcane Recall, too. Particularly her proficiency with mana manipulation and spell power, but also her newfound ability to wield her magic across realms.
+
+Yet she struggled, even following the patterns laid out by Clarence. Her mind readily absorbed the content and formations displayed by his pages, immediately applying them to her work, but she still fell short.
+
+“Gage, could you help me out?” she asked.
+
+“What can I do?”
+
+“I need more arcane power,” Ali said. “A lot more.” She was in his dungeon, and his domain was arcane.
+
+Immediately, the magic of the domain around her surged, and she felt a rising tsunami of power and mana flooding her as Gage channeled his magic, yielding control of it to her skills. She took hold of it and wove it into her magic, manipulating it with the skills Val’korr had taught her during her runic tattoo training. The arcane cylinder before her shuddered and trembled, but she held it together with her magic. She had never done anything like this before, and yet the manipulation of his gift of mana came naturally to her, clearly enabled by her Arcane Recall mana manipulation and their shared affinity for the arcane.
+
+But still, it was not enough. Her mother’s spell was monumental, far beyond anything Ali had ever encountered. Sweating now with terror as much as hope, she pressed on, wielding her mana with gritted teeth. If she stopped now, the entire formation would shatter, and she refused to think about what would happen to the brothers within it. She had survived the shattering of her own, but Cael and Gage had only half a body between them.
+
+She grasped for more power, but there was none to be had. Gage was giving her everything in a whistling roar of flowing mana that made Val’korr turn to stare with eyes rounded with concern.
+
+Suddenly, Ali’s mind clicked with a certain clarity. An image of her mother creating this very spell. Of the life energy she had spent to power it.
+
+“Clarence…” Ali called.
+
+The golden book slumped as if reading her mind. Clarence knew what she wanted. With great reluctance, he slowly turned the pages, creaking opening to reveal an unfamiliar chapter. From his pages, the glittering shape of a magical formation sprang, pure and perfect. Sage of Learning drew deeply on her mana, and Ali understood it in an instant. After all, she had experienced it in action once before. She had felt it with the core of her being. It really wasn’t that complicated; she just had to want it more than life.
+
+She glanced up at Cael and Gage hanging there, trying to summon the resolve needed.
+
+“Before we die… sister,” Gage said, suddenly breaking her concentration. “I would like to know your name… if that’s ok?”
+
+“Aliandra,” she said, suddenly smiling as all doubt fled. “You can call me Ali if you like.”
+
+“Ali…” Gage said.
+
+“That’s a pretty name,” Cael added.
+
+Ali summoned the formation in her mind and threw her willpower against the profound resistance, the sense of overriding fear and upwelling self-preservation. She struggled to grasp the complexities she had been shown, and what she needed to implement.
+
+If only I had seen it. She had been there when her mother created this very same spell for her, but she had not been able to see the magic then, only feel it. She had always been able to feel magic, and her mother’s had been unique, burned into her heart from that moment forever. She reached for that feeling, willing it into existence, and deep within her, something opened.
+
+Her heart skipped a beat as her entire being responded to the surge within her. Mana, more potent than she had ever wielded, burst forth from her and infused the arcane cylinder. From her arms, tiny, intensely glowing motes began to float upward, joining the surge, and with each one that trickled in, her magical power multiplied, again and again, beyond anything she could have ever expected.
+
+“Aliandra! Be careful!” Val’korr shouted, but his voice came to her as if from a great distance. Ali ignored it, wrestling with the great torrents of power coursing through her. But her Arcane Recall granted her proficiency and control, and she wielded the arcane mana, pouring it through the remnants of her mother’s spell, seamlessly filling the cracks and smoothing out the pockmarks.
+
+The roaring surge of magic in her ears rushed through her body, ripping and tearing at her from the inside, and still, she bore down, her arms and legs growing progressively more translucent as a cloud of motes continued to rise from her body, joining her magic.
+
+“Ali! Please stop!” Malika was right beside her, but her scream was like the distant cry of a hunting falcon.
+
+You have gained Clarity.
+
+Thank you, Malika, Ali thought as her mind stabilized from her potent Touch of Clarity. She channeled more, pulling from deeper within herself. She fed the energy she grasped to the vast torrent of domain mana Gage was supplying, amplifying it all with her power.
+
+She ignored several chimes and the sensation of magic being cast on her as her Arcane Insight told her she had only a few small cracks to finish. She directed her mana there, watching in satisfaction as they filled up, and then finally, she saw the gleaming golden cylinder from her memories, completed once again. Her mother’s arcane spell shone with new power. The cracks were filled with Ali’s mana, patches that seemed clearly distinct from the original to the sensitive perception of her Arcane Insight.
+
+[Realm] Aliandra Amariel [Ancient] has restored the legendary spell: An Instant, Frozen in Time.
+
+Ali felt the notification gong in her bones as the whole Spirit Realm was alerted. The rush of mana cut off as she released Gage’s power, and she stumbled to one knee, her head ringing and her body filled with pain and dizziness. She felt more than saw the floor rushing up to meet her as she toppled toward helpless oblivion, but it was the hard and calloused hands of a fighter that caught her with surprising gentleness before her mind shut off.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

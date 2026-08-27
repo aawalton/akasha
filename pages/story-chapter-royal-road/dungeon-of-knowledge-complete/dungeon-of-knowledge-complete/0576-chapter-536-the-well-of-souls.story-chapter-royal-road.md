@@ -1,0 +1,167 @@
+---
+id: 70bceb5c-2a68-552f-af31-d7840ed4e757
+page-type-slug: story-chapter-royal-road
+title: "Chapter 536: The Well of Souls"
+slug: 0576-chapter-536-the-well-of-souls
+partOf: dungeon-of-knowledge-complete
+position: 576
+ownLength: 3110
+unit: words
+ownProgress: 3110
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3050237/chapter-536-the-well-of-souls"
+royalRoadId: "3050237"
+markedReadAt: "2026-06-29T20:31:57.338Z"
+---
+
+The surge of magic as her domain touched the Well of Souls was like nothing she had ever experienced. Its power was overwhelming, and yet there was a soft gentleness to it, as if her entire being, domain and all, were cradled in the palm of a gigantic presence. Instinctively, she twisted her domain, just like she had when she had saved Lira and merged their domains, and that enormous surge of power poured outward, a vast rush of wind and mana that had the raid members gasping in surprise and scrambling for weapons.
+
+The wave rippled outward, further and further. Three kilometers away, at the perimeter of her encircling domain, invading Death Knights and the unrelenting hordes of Nevyn Eld’s undead army were pushed back, crushed up against an invisible barrier, and shoved out of her territory. She could see them through the eyes of her bosses, wandering about in confusion as they failed to perceive the thing that denied them passage.
+
+“The barrier!” Lyeneru exclaimed, her voice quiet but stunned. “How… You have restored it?”
+
+“I think I can do more,” Ali said. She wasn’t quite sure how she knew it, but the power of the Well merged into her domain seemed to convey a sense of ancient purpose and propriety; a sense of what should be. What was right.
+
+Ali manifested her Grimoire and, as if directed by an invisible hand, it gently opened to the imprint for the Ciradyl trees, pausing as if awaiting permission. With a thought, she allowed it, curious to see what might happen. Power surged into her Grimoire, mana from the domain that leapt toward the pages in a manner she had never imagined possible, and she knew precisely what it wanted.
+
+To say the Well wanted was not even remotely accurate, but there was no word in any language to convey the feeling she sensed through the exquisite flood of mana. It was as if she stood upon a precipice, staring down at the world, and saw the shape of things as they should be. She wanted. For how could she not?
+
+Her mind ranged outward through her domain in an ever-expanding circle centered on the Well, and enormous trees sprouted from the ground, first one, then two, then dozens, and suddenly the entire range of the Well of Souls, extending far outward to reach the edge of the barrier, was filled with a pristine new forest. She flipped the pages as if to ask a question, and the sense of approval was all she needed. She transformed the ground, too, deleting all corruption and blackness, removing every last trace of damage and blight. In its wake, she filled the land with grass and flowers, herbs and orchids. Large swathes of peacebloom sprouted, and fairy rings of glowing mushrooms grew in the dappled shade.
+
+“Aah, that’s better,” Ali sighed, finally letting her magic subside and putting her Grimoire away.
+
+But the reaction from the Elves was something else. Many let out whoops of joy, while some stood silent with unwiped tears running freely down their faces. Many stared in disbelief, while others turned to her with awe and gestures of profound respect.
+
+Slowly, beside her, the air above the Well began to shine and sparkle, returning wisp by wisp to the glory it had had the first time she had ever laid eyes upon it.
+
+A soft pulse flickered upward through the gleaming beams of soul magic, and Ali’s Grimoire manifested itself again. The weight of the Well of Souls impressed itself upon her, and her chime sounded.
+
+Pages flipped, and suddenly a ringing chorus of chimes sounded as her Elf imprint swelled with the addition of hundreds of fresh class variants.
+
+The chimes paused, as if for an inbreath, and then sounded twice more:
+
+Imprint: Celestial completed.Variant: Soul Archon added to Imprint: Elf, Celestial.
+
+Elves? Celestial? What is this artifact? Ali stared at the Well barely containing her amazement. There had been a time when she had avoided collecting imprints for most sapient species, believing it to be morally wrong, but if she ever needed confirmation from a higher power that it would be ok, this felt like it. How does the Well have imprints? It can’t be a…
+
+Half a continent away, Ali felt the sympathetic surge from her Shrine of the Ancient Grove, and suddenly she understood.
+
+“I believe the Well of Souls just gave me a gift,” Ali said, gaining the instant attention of Lyeneru and all the elves in earshot. “And I think it’s for you all. For Ciradyl.”
+
+Ignoring the questioning looks, Ali opened her Grimoire to the Celestial imprint. Her fingers froze as they traced down the pages of runes, shocked at what she found within the Soul Archon variant. He’s here, too? She had him recorded in her Elf and Greater Undead imprints, but his presence on these pages was unmistakable. She knew what the Well wanted, but…
+
+Ali turned to the onlooking Elves and found the gaze of the one she sought. “Coria?”
+
+“Yes?” Coria said, stepping forward with a grim look that told Ali she already suspected.
+
+Ali breathed heavily, understanding the weight of what she was about to ask, and said, “I need to summon someone with knowledge of the Well. I could deconstruct Sunstrider and wait till I have enough Sun Elves recorded to see if I could resummon him. Or…”
+
+“I would not want any gift that was tainted by him,” Coria said, spitting in the direction of the wraith. “My father guarded the Well of Souls his entire life. I think he would be honored if his memories were used to rebuild Ciradyl.”
+
+“Thank you,” Ali said. She summoned him.
+
+Nendir [The Purified] – Celestial Wood Elf – level 231 (Soul)
+
+The creature that appeared when her magic completed was an Elf, but one like none that she had ever seen before. Nendir, for it was obviously him, had the dark green skin coloring common among the Wood Elves, but all his exposed skin was covered with angular lines of alabaster, an unnaturally pure white that seemed to shine softly from within. Pure, silvery-white hair matched eyes that shone with power – surprisingly similar to Malika’s when she began leaking her relentless power in longer battles.
+
+“A… Soul Archon!” Lyeneru exclaimed, springing to her feet and staring with wide eyes. “Nendir?”
+
+All around, Wood Elves rose to their feet, and murmurs of “Ascended” spilled from awestruck lips, and it was then that Ali realized they’d all assumed she would be summoning a wight.
+
+Huge, thick ropes of mana flowed into the Celestial Elf, drawn directly from the Well of Souls. Shining magical armor manifested upon his long, lean limbs. A transparent bow of pure soul magic appeared in his hands. Ethereal white wings unfurled from his back, and he turned his gaze fixed on a slender figure standing before him. “Coria.” Nendir’s voice appeared to come from nearby and far away, a strangely lilting chorus that could not be mistaken as any other than his own, and yet it was somehow ethereal and other.
+
+“Father?” she asked, a little hitch catching in Coria’s voice.
+
+“I am not him, dearest one. But I come with all his memories,” Nendir said calmly, but Ali could sense the tumult of emotions that flooded him. “Still, I would protect you if I’m permitted.”
+
+“You are free to do whatever you believe is right,” Ali answered. “I have a few questions about the Well of Souls, and this gift it bears.”
+
+“Legends and stories tell of the authority of guardians that once protected the Well. Soul Archons,” Nendir said, studying his own arms and body. “They were all lost to the world during the Breaking. How did you –” He paused, turning his glowing gaze to the north as he stared into the distance. “Aah! I see, now.”
+
+“My shrine reacted,” Ali suggested, guessing from the direction of his gaze that he was sensing something from it through the web of mana flowing across her domain.
+
+“As you say,” Nendir said. “That appears to be the missing piece. We have guarded it for all of recorded history, but we never truly understood its purpose. Nor do I think we will fully grasp it in our lifetimes. This, however, is the nature of the gift it bestowed. Paired with your shrine, the Well of Souls offers an evolution path for all the Elves of Ciradyl. Sip from the waters of the Well when the threshold is reached, and the path of Soul Archon will be offered.”
+
+“Thank you,” Ali said, letting the sudden burst of hushed whispers wash over her. There would be time for the Elves of Ciradyl to reclaim their home, and for this gift to be processed.
+
+Ali hadn’t checked with the shrine yet, of course; however, she had felt the ancient will and Nendir’s explanation fit with what she’d sensed. She could tell it was a powerful guardian class, and it gained enormous power from proximity to the Well of Souls. Even now, she could see the mana from the Well that suffused Nendir, and it appeared similar to a domain enhancement. A quick peek at his status sheet confirmed: whenever he was near the Well, he had the equivalent enhancements of an Elite summoned monster, complete with something very much like Amplify Skill applied to his archery.
+
+A powerful guardian indeed. She could see why the Well might offer it, and also why many Elves might be proud to choose it. If she wasn’t very much mistaken, the enhancement provided by the Well would not interfere with any further enhancements she decided to make, further impressing on her the Well’s desire for strong protection. It cost her little to accommodate it, and in return, she had been granted an incredible boon. Very well. She opened her Grimoire and summoned more guardians.
+
+Soul Archon – Celestial Wood Elf – level 231 (Soul) x6
+
+With a mental command, she sent them flying off to patrol the freshly restored Ciradyl forest.
+
+Against a backdrop of the soft murmuring of excited conversation, Ali slowly turned her mind back to her notifications, finally deconstructing the remains of the wraith that had once been Nathaniel Sunstrider. There would be time enough later to explore her new minion and the thousands of questions it raised for her.
+
+[Sage of Learning]Domain Magic analyzed: Spell Cascade (Spell Disruption)Domain Magic analyzed: Empower Spell (Rune Sage)Domain Magic analyzed: Greater Attribute Enhancement (Intelligence).Domain Magic analyzed: Summon Domain Enhanced Monster (All)Greater Attribute EnhancementRequirements: Champion enhancement. Source: Nathaniel Sunstrider.Attributes: Intelligence.+100% to the base attribute of a monster.Can be chosen once per attribute.Skill – Domain MagicSummon Domain Enhanced MonsterRequirements: Raid or Champion enhancement. Source: Nathaniel Sunstrider.Summon a monster with 2 [raid] or 3 [champion] Domain Magic skills. Domain Magic skills can be fixed or randomly assigned for a mana and casting time discount. Skill – Domain Magic
+
+Whatever happened, Summon Domain Enhanced Monster was likely the most powerful domain magic spell she had ever seen, but she was going to apply Greater Intelligence to her highest-level intelligence-based monster as soon as she got back home. That would be by far the fastest way to improve her own skills.
+
+Ok, class levels next.
+
+Dungeon of Knowledge has reached level 231 (+14).+140 attribute points.
+
+Oh, wow! Fourteen levels? Ali paused right there for a long moment, staring at the numbers. After all she’d gone through contending her will against the Archmage’s ceaseless scheming, the magnitude of the returns hit her with a wallop like running full tilt into a wall. So, I wasn’t crazy after all. He had been a supreme challenge – and by this measure, at least, she knew he’d been the hardest challenge she’d ever faced. She scanned further through the notifications.
+
+Arcane Insight has reached level 135 (+6).Arcane Recall has reached level 72 (+6).Barrier has reached level 115 (+3).Grimoire of Summoning has reached level 77 (+3).Runic Script has reached level 97 (+4).Sage of Learning has reached level 100 (+5).Martial Insight has reached level 132 (+3).Empowered Summoner has reached level 113 (+2).Domain Mastery has reached level 70 (+2).Minion Teleport has reached level 75 (+2).Identify has reached level 49.Inspiration has reached level 41.
+
+That’s a lot, Ali thought as she studied her gains. Runic Script and Sage of Learning were close to tiering up, and many of the rest of her skills were growing quickly.
+
+Ok, points. Ever since the earliest levels, she preferred to spend her points immediately. There may be wisdom to retaining a few for last-minute customization, but in her experience, points in the bank could not save you from an ambush. She immediately spent ten points to boost her vitality. She added four points each to dexterity and endurance and then considered the rest of her attributes carefully. Deciding to keep her intelligence investments high, despite the possibility of benefiting from a Greater Intelligence boss enhancement, she spent forty-seven on the attribute. Then, forty on wisdom and the final thirty-five she spent to raise perception.
+
+Very good.
+
+Finally, Ali clambered to her feet after assigning all her points and walked over to the Well of Souls. It was beautiful and serene once again, and just looking at it reminded her of peace and tranquility.
+
+“Do you mind if I take a vial or two of water?” she asked it, feeling odd talking to an inanimate object, but she had sensed an ancient will and purpose from it earlier, and she had no desire to offend. “It’s for a good cause. I wish to save my aunt, Lira. Lirasia. She’s a dryad.” Ali trailed off awkwardly.
+
+The Well shimmered softly in the light, giving no indication it had heard her. She hesitated for a moment, but neither had the Well offered any resistance, so she retrieved a couple of vials and collected some water, marveling at how it retained its strange sense of peaceful serenity.
+
+Two Wells. Just one left.
+
+The magnitude of their achievement weighed heavily upon her shoulders – she had not expected she would ever retrieve a vial from even a single Well, but now she had two. Only one remained, although nobody had a clue where the Well of Divinity might be.
+
+Ali puffed out her cheeks. Soon, Aunt Lira. Soon.
+
+Mato looked up to find Ali standing on the freshly cleansed broad stone lip surrounding the Well of Souls.
+
+Is she talking to it? He had known she had been pushing herself far beyond her limits, especially near the end of the fight. Probably far more than any of them knew. Seeing her struggle like that had filled his heart with lead.
+
+He was about to get up and join her when he suddenly saw the clean gleam of glass in her tiny hands, and she knelt down and filled two vials with the mystic water.
+
+Lira.
+
+An undefinable pain twisted within his heart. Lira, his mentor, who had been so kind to him and helped guide him toward the path of balance, now lay trapped and decaying in a cursed acorn. He spent every night in Tree Form with her acorn nestled in his branches, trying to stave off the inevitable with his purifying aura, but she had been trapped in there so long that he despaired of ever saving her. It was a deep upwelling of helplessness that threatened to drown him – an emotion he hardly understood. How could anyone fight something like that?
+
+Slowly, Ali walked back, looking more than a little haggard, and sat down beside him. Without words, she leaned against his arm.
+
+“Thank you, Ali,” he said.
+
+She glanced up at him, her eyes betraying a moment of confusion. “For what?”
+
+“Getting the vials,” he said, wrestling with the tricky feelings that bubbled up inside.
+
+“Of course,” Ali said, and then fell silent once again.
+
+“I feel so useless,” he started, the words stumbling awkwardly from his lips as she turned to look at him again. “I mean, you found the wells and retrieved both vials. You had to get hurt by that eldritch monster to get the first one. Now you fought the Archmage and defeated him, mostly by yourself as far as I can tell. I care about saving Lira, too, but I feel like I’m dumping all the hard work on you. I just don’t know how to help.”
+
+Ali gazed at him for a long time. Long enough that he wanted to ask her if she was ok. But then she just leaned over and rested her head against his arm again and murmured, “You have done far more than you think.”
+
+And somehow, it was enough.
+
+It would take some time for the tiny kernel of a smile inside his heart to make its way up to his face, but for now, he could concentrate on more mundane things. Like how much he’d grown over the course of the fight. It didn’t even hurt his pride that, although he was at a lower level, his gain was the same as Ali’s. She had given everything for the fight, and so had he, in his own way.
+
+Elemental Shapeshifter has reached level 222 (+14).+140 attribute points.Arboreal Sanctuary has reached level 89 (+5).Swipe has reached level 116 (+5).Brutal Restoration has reached level 111 (+6).Bear Form has reached level 104 (+4).Rampant Growth has reached level 61 (+3).Bestial Combat has reached level 102 (+4).Natural Prowess has reached level 88 (+5).Survival Instinct has reached level 100 (+3).Battle Trance has reached level 81 (+4).Last Stand has reached level 45 (+3).Cooking has reached level 31.Herb Gathering has reached level 34.Survival Instinct has reached a base skill level of 100.Survival Instinct has advanced to tier two.
+
+Excellent. Most excellent. Survival Instinct had reached the second tier, and it explained the sudden sharpening of his senses, both mundane and extraordinary. It felt like an ancient forest spirit sat upon his shoulders, watching his back.
+
+Mato smiled to himself. If I keep this up, sooner or later, I’m going to be strong. It had been Calen who’d teased him with that line once.
+
+This time, he spent thirty-seven points on wisdom immediately. It was a potent attribute for him, and he needed the boost for his healing and his Natural Prowess skill. Next, he allocated twenty-nine points to vitality and twenty-eight to both strength and endurance. He added ten points to perception, eager to see what his newest second-tier skill might have for him. The final eight points, he split evenly among intelligence and dexterity.
+
+There, I’m stronger now. What do I have to hit to shake out the last Well?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

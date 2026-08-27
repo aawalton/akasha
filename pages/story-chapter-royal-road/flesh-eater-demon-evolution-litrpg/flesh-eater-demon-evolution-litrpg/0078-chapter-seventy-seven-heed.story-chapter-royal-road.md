@@ -1,0 +1,143 @@
+---
+id: 8de10f0c-ee4f-5fa1-be89-d65e53077749
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Seven: Heed"
+slug: 0078-chapter-seventy-seven-heed
+partOf: flesh-eater-demon-evolution-litrpg
+position: 78
+ownLength: 2491
+unit: words
+publishedAt: 2026-05-02
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3343671/chapter-seventy-seven-heed"
+royalRoadId: "3343671"
+---
+
+A barrage of fragmented memories flashed through Pyre’s mind. Some of the scenery looked familiar—she recognized the ritual hall from the other Empire mage’s memories. Some of it was new: childhood memories of a little wooden home, what looked like a classroom, and a brief flash of a throne room that didn’t contain any discernable faces. Nothing especially useful. The necromancer’s memories were, frankly, the least of her concerns right now.
+
+Slowly, Pyre straightened. The burning pain of her destroyed left arm was starting to settle into something still present, but more manageable. She spit out the clothes and hair of the mage, eyeing the long list of notifications while crunching on the bones.
+
+The middle of a battlefield wasn’t exactly the best place to view system messages or select traits, but at least right now, the biggest threats were gone. One of those new traits or subtraits could be immediately useful.
+
+Plus, that last notification would’ve given her pause no matter what.
+
+Still keeping one eye on her surroundings, the demon warped her forearm back into an axe shape and cleaved the solid bone through a ghoul leaping at her. She allowed those old, buried instincts take hold, fighting her way through the horde of monsters while mentally expanding the description for that new title.
+
+Title: Demon King’s HeedThe demon king has taken notice of your existence.You gain an instinctive recognition of the demon king. You are always able to identify the demon king regardless of appearance, disguise, or prior meeting.
+
+The description was short and to the point, a silent acknowledgement that she’d apparently gotten the attention of someone she hadn’t known existed until a few minutes ago.
+
+She thought back to that necklace around the mage’s neck glowing just before she’d devoured her. It must have been some kind of magic communication device.
+
+The title’s effect seemed like a universal demon ability—an innate recognition of their species’ ruler, she figured. If she ever ran into the guy, it would be useful. And she had a distinct feeling that she would, at some point.
+
+Pyre aimed a kick at an approaching ogre, the sound of bones cracking buried below a pained howl as the force of the blow crushed its ribs and organs. Her mind briefly wandered back to that encounter with Tivona, to the flashes of memories she’d seen.
+
+“I already told Cyrus I’m not interested in joining his war.”
+
+The sloth fiend’s eyes narrowed. She ducked below a small fire blast originating from some sort of imp-like creature, only looking at it long enough to send a bone spear through its neck.
+
+She didn’t have much hard evidence to go off of right now, but she had a feeling she knew who the demon king was.
+
+Distant shouts drew Pyre’s attention. She grew an additional eye on the side of her head between a gap in the bone armor plates.
+
+While she’d been fighting the necromancer, it looked like the garrison and city guard had deployed more troops. Monsters still outnumbered humans, but it was much closer now. She could see them clashing all the way down to the city bounds.
+
+Metal clanged, beasts snarled, blood sprayed. The eastern wall was almost fully destroyed at this point, and the manor grounds had transformed into a battlefield. Above, the pillar of red light continued to beam from the sanctum.
+
+The human troops were starting to get closer to where Pyre was, but she was still the closest to the sanctum. She carved her bone axe through another wave of monsters, then sprinted forward again. The horde was thinning, but that didn’t really matter when monsters kept flooding out from the sanctum portal. How much time had passed?
+
+The demon clicked her tongue. Right now, she just had to keep pushing and wait for Callan to destroy those circles.
+
+As she shoved her way through the Empire troops, Pyre silently applied both the [Far Sight] subtrait and the [Psychic Resistance] one she’d gotten all the shards for earlier.
+
+They both did pretty much exactly what she’d expected, and she immediately absorbed one of her eyes in order to regrow it with [Far Sight]. The extra vision it gave wasn’t mind-blowing, but it did let her very clearly view the broken walls of the sanctum. As she’d thought, monsters were still flooding out from it.
+
+Pyre stopped an incoming punch mid-blow, grabbed the troll’s arm, and hurled it into the densest group of monsters she could see. She distributed the points from her level up practically on instinct, tossing 5 into strength, constitution, and magic resistance each.
+
+There was still a dull throb where her left arm had melted off, but the extra constitution did soothe it a little. She could feel the flesh there trembling slightly as [Regeneration] fought to work. Even at level 6, it seemed like a totally destroyed limb still took a decent amount of time to regrow.
+
+The demon paused her notification-reading when her [Far Sight] eye landed on a very familiar shiny red gemstone sitting in a hunched figure’s chest up ahead. Another golem.
+
+Pyre clicked her tongue. Bending down slightly, she raised her remaining arm in front of her and morphed the axe into a solid plate of bone. She then adjusted the texture, growing hundreds of small, sharp spikes along its outer surface.
+
+The moment the bone solidified, she took off. The bone acted as a shield, ramming and spearing through any monsters in her way as she sprinted for the golem. The white surface was quickly covered in warm blood and flayed bits of flesh. She had a brief thought that she should’ve just done this from the start; this was the fastest progress she’d made through the horde so far.
+
+The demon reached the golem in record time. Normally she would extend some flesh and devour its core stone, but she was low on flesh right now after the fight with the mage, and her range was limited as a result.
+
+So, she quickened her pace. Without stopping, Pyre converted her arm back into flesh and grew a mouth at the end a second before taking a running leap at the hulking golem.
+
+The demon slammed into the creature’s torso, knocking it backwards. The golem’s wide mouth opened in a silent scream while monsters scrambled away. The unlucky ones were crushed beneath the weight of the creature. The ground cracked slightly.
+
+Standing atop the fallen golem, Pyre thrust the extra mouth into its chest. Teeth snapped through the blinking red stone.
+
+[You have devoured (1) Stone Golem Lvl 15][Experience earned!]
+
+[You have gained (1) [Immutable] subtrait shard]
+
+The shockwave from the golem falling had sent nearby monsters scattering. Pyre yanked her arm back, finishing crunching down on the gem. This might be the only lull she’d get before even more monsters showed up, so she quickly expanded those trait selection descriptions and scanned through them as fast as possible.
+
+Trait: Corruptive Presence (Sloth)User is a demonic being whose very presence corrupts. Beings who interact with user are more prone to giving in to vices. The effect is strengthened based on proximity and the amount of time spent near the user.A sloth fiend’s corruptive presence is especially effective at inducing apathy and indolence over time.Subtrait Slots: 7
+
+Trait: Demonic Aura (Sloth)User possesses a distinct demonic aura that passively cloaks the user. The range of this aura and the strength of its effects are proportional to this trait’s level.A sloth fiend’s aura is both more effective and has a greater range when standing still.Subtrait Slots: 10
+
+Trait: Vice Detection (Sloth)User is able to detect vices and negative emotions in nearby beings. The clarity of this detection and the maximum range grows with this trait’s level.Sloth fiends are able to detect vices in unconscious beings as well as conscious ones.Subtrait Slots: 5
+
+Giving the options the fastest skim she thought she could get away with, Pyre selected [Demonic Aura] after a few seconds of consideration. Sue her, she was kind of busy right now, and she didn’t feel bad about the choice.
+
+From what she could quickly glean, the first and third options all seemed like they’d be more useful outside of combat, and she wasn’t especially interested in slowly causing corruption in people or whatever. Or of reading their negative emotions. [Demonic Aura] had a really vague description, but based on the sheer number of subtrait slots, she assumed there were a lot of additional effects it could get via subtraits. It was a safe long-term bet.
+
+Around her, the horde of monsters was starting to close in again, cautiously approaching the golem’s corpse and the demon standing atop it. Pyre cocked her head and warped her arm back into the bone axe. With a solid leap, she lunged for the closest creature.
+
+It was chaos. Daphne narrowed her eyes, one hand pressed against her chest and the other raised in front of her. She moved her fingers in a quick series of gestures, palm glowing a fiery red as she pulled in ichor.
+
+With a final snap, a jet of fire burst out of her fingertips, colliding into an incoming wave of monsters and incinerating them.
+
+The dull ache in her chest grew more pronounced, but the mage ignored it. She paused just long enough to wipe away a bead of sweat.
+
+By now, the air was acrid, iron mixing with the scent of burning flesh. It had taken her longer than she’d liked to slip out of Harris’s sight, and by the time she’d made it outside, the eastern wall was already destroyed.
+
+Taking a deep breath to steady herself, Daphne turned, pointing her arm towards the next wave. She’d exited the grounds and now stood on the street outside, the one connecting the Bellhein property to the rest of Magrath. Garrison troops and city guards marched forward from behind, attempting to progress towards the sanctum—to that red pillar of light.
+
+Bracing herself, Daphne fired another spell. Compared to the manor grounds, the limited street space made it easier for her to deal with the incoming waves, and it allowed her to keep an eye on both the manor, the sanctum, and the city at once.
+
+The chaos also made it harder for anyone to recognize her and drag her back for “protection.” She’d caught more than a few soldiers doing double-takes when they saw her between the fighting, blinking their eyes in bafflement, and some of the ones who had recognized her had indeed tried to convince her to step back.
+
+The mage huffed to herself and sent a fireball flying over the heads of a few struggling soldiers, melting through the gem of the golem they were fighting. Despite the pleas and warnings, she had zero intention of hiding. Her magic was well suited to dealing with hordes of relatively low-level monsters like this, and she needed to be close enough to the sanctum to break through the barrier.
+
+(That, she thought darkly, and it wasn’t really a “risk to her life” when she was on limited time anyway.)
+
+Gritting her teeth, Daphne darted forward as more space cleared, but she still had a ways to go before she reached the sanctum. There were just too many bodies in the way, and she had no idea when Callan’s spell would be ready.
+
+She hadn’t seen the ghost since he’d phased through the walls, nor had she seen Pyre after exiting the Bellhein property. They were probably fine—they were certainly much better equipped to deal with something like this than the regular civilians in Magrath. Still, she couldn’t help but glance back at the manor and garrison every now and then despite her better judgement.
+
+Metal rang out over the yells. Daphne caught a soldier struggling to push back a troll on the other side of the road, desperately ducking below the creature’s swinging club. She turned, about to fire another spell, but the soldier’s frantic dodging made it impossible to get a clean shot. Coming to a decision, the mage sprinted forward.
+
+Ducking below swinging blades and snapping teeth, she reached the pair just as the troll reeled back and brought its club swinging down towards the terrified soldier.
+
+Daphne barely yelled the chant quick enough. A translucent barrier flashed in front of the soldier, shattering as the club hit it, but it gave the man just enough time to stumble away. The blow struck the ground where he’d just been, splitting the stone road apart. Daphne yelled another chant, and her next blast exploded over the monster’s skull.
+
+The troll let out an ear-curdling screech, its entire head igniting into flames. It stumbled back, crashing into a nearby storefront before collapsing to the ground, still.
+
+Notifications popped up in her vision, confirming the kill, but the mage was more focused on making sure that the soldier was alright. Barriers weren’t her strong suit, and right now, especially, she couldn’t help but wish she had Edmund’s natural talent with them.
+
+“Are you okay?” she asked the man. He looked young, barely more than a teenager, and absolutely terrified. He was probably a cadet, a fresh recruit still in the middle of training now thrown headfirst into an Empire invasion. The very thought made her furious.
+
+The soldier slowly looked up at her from where he sat, dazed, on the ground.
+
+“I—I’m okay,” he said after a swallow. He paused, a fresh wave of bewilderment flashing in his eyes as he took in her disheveled, but nonetheless recognizable red hair and brown eyes.
+
+“Lady Daphne?” He sputtered and scrambled to his feet, picking up his fallen sword along the way. “Milady, what’re you doing here? You should be taking shelter!”
+
+She waved the concern away. “I’m fine,” she said dismissively, already turning to face the next wave. “Be careful.”
+
+Before the soldier could protest again, she rushed forward once more, ignoring his calls behind her.
+
+All across the street, the grunts and yells and screams mixed into a terrible cacophony. She could still hear wings flapping overhead occasionally. It was a miracle that the wyvern hadn’t landed yet.
+
+Daphne eyed the distant sanctum grimly. As expected, the flood of monsters wasn’t slowing down at all. Even with more troops entering the fray, they needed to shut the portal spell down, or Magrath would be taken over. She almost glanced back at the garrison again, towards the third circle where Callan should be, but something caught her eye at the last second.
+
+There, down one of the side streets leading away from the thick of battle, a figure ducked away. An all too familiar group of guards followed behind.
+
+The mage froze. Her blood turned cold, ice crawling up her veins before it exploded into burning fury.
+
+Daphne gave one last look at the pillar of light, making sure she still had time, then turned and ran after her uncle.

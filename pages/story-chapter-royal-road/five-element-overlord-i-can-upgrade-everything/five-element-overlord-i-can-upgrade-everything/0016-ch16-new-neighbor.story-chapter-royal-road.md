@@ -1,0 +1,143 @@
+---
+id: eda0b497-8206-5c6f-9aeb-11ec227154a9
+page-type-slug: story-chapter-royal-road
+title: "Ch16 New Neighbor"
+slug: 0016-ch16-new-neighbor
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 16
+ownLength: 1504
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211911/ch16-new-neighbor"
+royalRoadId: "3211911"
+---
+
+After staying up for two nights straight to make full use of the serpent’s plum, my eyelids are drooping, my muscles are fatigued, and my skin is hot, tingly, and irritated.
+
+I claim my daily upgrade card and fall asleep as the sun rises.
+
+Noon passes by, and so does the afternoon.
+
+When I finally open my eyes again, dusk has already arrived.
+
+The loud sounds of wood chopping are still echoing through the forest from my new neighbor.
+
+My fatigue has not fully healed, instead, it feels worse. Like the day after a long workout, I’m on the cusp of recovery. I can feel the raw strength beneath the soreness; I just need a little more time to heal.
+
+Groggily, I walk outside and place a hand into my empty metal bin, letting out freshly chopped wood from yesterday out of my storage space.
+
+Next, I stretch my arms and pee on a nearby tree before walking back to my hut and leaning against the door, waiting for the daily pickup.
+
+It’s not long before I hear the familiar old man’s voice from afar.
+
+“Xu Hong! Nice work today, two full bins of chopped wood. That’s what I like to see! Do you think you can do more?”
+
+The faint outline of Zhou Kang throwing a single spirit fragment to my new purple-haired neighbor is slightly visible through the trees.
+
+“Yes Boss, I told you I’m the strongest warrior from my village! Chopping more wood is just a matter of time! I can do more! Definitely more than my neighbor, he didn't even chop a single tree down today!” they reply in a higher-pitched, naive tone.
+
+Zhou Kang laughs. “Good, good! See you tomorrow.” His head turns my way while walking toward me on the dirt path. I can’t see his face, but I already know a wicked grin is growing on it.
+
+When he appears in front of me, I point to the filled bin and don’t say a word like usual.
+
+Yet, his gaze tightens on me, and he cracks his knuckles.
+
+I watch one of his hands come toward me, ready to slap. It almost looks like it’s moving in slow motion. It would not be impossible to dodge. I even have to mentally make sure that my copper bell doesn’t activate.
+
+Now is not the time to blow my cover…
+
+A loud skin-on-skin sound echoes through the forest, and I fall back, appearing dazed like I did the first day I arrived here.
+
+Zhou Kang grunts and chuckles to himself while collecting my chopped wood.
+
+“Your new neighbor ratted you out. I doubt they have the brains to make up a lie, so odds are you’re hiding extra wood from days ago to split up your workload… You could be chopping more wood, couldn’t you?”
+
+There is a silence between us, as I don’t deny or confirm his words. I only snap myself out of my daze and reply.
+
+“I’m not sure what you mean, senior. I have fulfilled the task you asked us to carry out, fill this metal bin with chopped wood every day.”
+
+He smirks and slaps me again.
+
+It doesn't hurt at all. Clearly, he is holding back, only using enough power to hurt a mortal.
+
+“You have quite the quick tongue on you. Smarter than the average servant, so you should know that you’re still all mine. The two little secrets we share mean nothing. I still decide your life and death. I don’t even care if it’s true. Starting now, I want your metal bin to be overflowing, or no more spirit fragments for you.”
+
+Zhou Kang walks away without throwing me a spirit fragment, laughing all the way down the dirt trail until he’s out of sight.
+
+I grit my teeth, grab my axe, and walk straight toward my neighbor’s hut.
+
+“What was that about, you rat?! So what if I didn’t cut any wood today, keep my business out of your mouth. Quite the first impression you’re making for yourself!” I yell, stopping at the clearing in front of the yard I cleaned of a dead kid just two nights ago.
+
+The sound of wood still being cut echoes throughout the forest. When it finally stops, the brute’s head pops out from behind their hut.
+
+“Huh? Who’s that? Who’s talking?”
+
+The muscular figure walks out toward me, and my eyebrows scrunch.
+
+There are curves in all the wrong places to be the brute I pictured in my mind.
+
+My neighbor's chest is rounder and larger than mine, and her waist curves into feminine thighs.
+
+There are deep white scars all over her arms, legs, and even neck.
+
+With short vibrant purple hair and matching violet-colored, naive, and innocent eyes of a brute that has never seen the real world, I thought I knew what kind of person I was dealing with.
+
+“Wait… you’re a woman…?”
+
+She keeps walking closer, holding her own axe and pointing it at me.
+
+“What of it? Can a Warrior not be a woman? Are you here to fight me or something?!”
+
+I stop in place, with my mouth open and no reply to this now that I have a closer look at her. There is truly no intelligence behind her eyes. This tan-skinned muscular woman is seriously confused.
+
+My axe is still raised, so apparently she takes this as a confirmation and charges at me.
+
+A loud echoing clang rings through the woods as I raise my own axe to block. To my surprise, a tremor courses through my arm as we both stand still in place.
+
+[Automatic Inspect Function Activated…][Xu Hong] [Age: 20][No Qi Cultivation][Wood, Earth, and Metal Spiritual Roots][8th Grade][Martial Warrior Acquired Physique][Initial Stage - Mortal Grade][Dormant Innate Physique][Holds a trace of the Void Era’s Tyrant Bloodline. Upon achieving the 1st level of qi refinement, she will unseal the first layer of her Dormant Innate Physique. Is not as naive as she seems, is playing dumb.]
+
+Text appears in front of me as I feel this woman’s raw strength.
+
+It is slightly weaker than my own, but considering she doesn’t have even a drop of qi circulating through her body, my eyes widen in shock. I’ve been in the presence of a body like this before.
+
+“You’re… a Martial Warrior?” I murmur out, then jump backward to make some space between us.
+
+“Of course I’m a Warrior! The strongest from my village! No one can defeat me!”
+
+She grits her teeth and charges my way again.
+
+Another loud clash echoes out through the forest, and I slip out of our collision again.
+
+“I do not wish to fight. I came here to make peace. I think this is a misunderstanding.”
+
+Her gaze only becomes sharper.
+
+“There is no misunderstanding! You did not work chopping wood today, so I told the boss. I am not in the wrong. How is the truth a misunderstanding?”
+
+I let out a sigh, stepping back even further.
+
+“You know what, you’re a real piece of work!” I yell while positioning myself closer to the forest.
+
+She sees me attempting to retreat and smiles with all her teeth. A wild look still lingering in her eyes.
+
+“So you admit defeat? I win!”
+
+I want to facepalm, but drop my axe to my side and raise my other hand where she can see it.
+
+“Fine. If that will get us to stop fighting. You win. Just… moving forward, I hope we can get along. We will be neighbors, after all.”
+
+She straightens her stance and lets out a laugh.
+
+Other propositions cross my mind, even bribing her with spirit stones to stay out of my hair, but her repeating my words or exposing contraband to Zhou Kang also comes into the realm of possibilities.
+
+I can’t trust her to think about her best long-term outcomes in such a violent and riled-up state.
+
+Plus, other mysteries linger. The fact that she’s 20 years old and a new servant doesn’t add up. I vividly recall the requirements being children 10 to 17.
+
+Another thing is the sharpness of her gaze while fighting, it does not reflect her outwardly naive persona. It perfectly aligns with the note the system listed about her playing dumb for some reason, but I do not understand why or to what extent.
+
+One thing is for sure: she is not going to be a timid neighbor like Tang Min… I doubt the Steward is going to get rid of such a hard worker.
+
+While walking backward into the dark forest toward my hut, I watch her turn around laughing and celebrating a victory, then go right back to chopping wood late into the night.
+
+I spend the next few hours of the night staring up at the stars, laying on a soft patch of grass, and re-thinking a more strategic approach about how to deal with this new nuisance. She is just another tool in this sect’s hierarchy, if positioned properly, she could be of great use to me.

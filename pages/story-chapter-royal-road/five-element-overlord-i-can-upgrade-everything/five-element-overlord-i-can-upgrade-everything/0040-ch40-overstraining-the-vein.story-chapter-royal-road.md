@@ -1,0 +1,103 @@
+---
+id: 3958fc5a-fd71-5d69-a6fc-5132cf412280
+page-type-slug: story-chapter-royal-road
+title: "Ch40 Overstraining the Vein"
+slug: 0040-ch40-overstraining-the-vein
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 40
+ownLength: 1318
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3315212/ch40-overstraining-the-vein"
+royalRoadId: "3315212"
+---
+
+True to her words, Xu Hong shows no signs of leaving while I make my way up the many tunnels in this stronghold cave.
+
+Most of the rooms and cave abode compartments are untouched. When they enter my spiritual senses, and I see it is mostly just clothes and food, I see why Xu Hong did not bother going through them.
+
+Outside, the morning sun does reach the bottom of the Ravine, just barely through the heavy trees.
+
+All of the spots where I remember killing initial stage cultivators have been cleaned up without a trace.
+
+While walking up and out of the Ravine, I try to use the smooth stone that pointed me toward the stronghold before, but it no longer reacts to my aura. Whatever it was attached to is no longer linked.
+
+Once up top on the surface, I make my way through the woods, past the stream, and back to Xu Hong’s old hut. One of the walls is broken open, there are clear signs of a battle behind it, and in front where I fought, there is a 5-meter wide patch of blackened grass.
+
+Using the axe still laid up against her metal bin, I start covering up our tracks. After half an hour, I get it to a point where it's not perfect, but there is no longer any residual blood or raw qi on the ground or in the hut.
+
+Patches of grass are missing, but they’ve been altered to appear as tree stumps that were dug up. The thatched hut wall is repaired with brush from the woods. It looks sloppy, but that doesn't matter.
+
+As I make my way back to the steward quarters, my breathing and natural ambient energy absorption has to be adjusted. The raw qi in the air up here is horribly thin compared to where I stayed all night.
+
+Back in my cave abode, above a low-grade 1st tier spiritual vein shared by 50 other stewards, it is nowhere near enough to progress.
+
+Before leaving my cave, I alter the aura my Illusory Demon’s Concealment Art lets out, now showing the mid stage of level 1 of qi refinement. Then, add a bottle of inferior quality spiritual wine I bought from the Red Pine Market into my steward’s pouch where all my wood from yesterday still rests.
+
+I stop by the dining hall for a hot meal, then rest in the bathhouse until the sun begins to set.
+
+My wood pickup route goes normally without a hitch, that is, until I make it to the charcoal pits.
+
+“Steward Li Hao. It says in my ledger here that you didn’t drop off any wood yesterday. You cannot just bring double today. Our charcoal pits would not smoothly operate if we allowed stewards to do as they wished…” the old man remarks while searching through my storage.
+
+I bow with clasped hands, letting out my new false aura at the mid stage of level 1.
+
+“I apologize. It was my first time experiencing a successful cultivation session over the steward quarters' spiritual vein, breaking through a bottleneck. I lost track of time, and hope the small token of my appreciation I left will be enough to ease your worry. I cannot be the only one drinking to celebrate.”
+
+There is only silence in the air for a few seconds, but the steward grunts, gives back my pouch with my spirit fragment pay, and now missing the wine.
+
+“It’s still going on your permanent ledger, but I’ve marked this as nothing but a misunderstanding. If you ever need to challenge a bottleneck again, assign one of your servants to temporarily make the route for you.”
+
+“I will, thank you.”
+
+Instead of making my way back to the steward quarters, I head toward the Ravine through the dead of night.
+
+While walking into the denser areas of qi, a few hundred meters down into the Ravine, I start to realize how obvious it is there is an anomaly down here. It is not just the higher saturation of qi in the animals and bugs, the air quality is noticeably better.
+
+As the sect’s expansion project moves closer to the Ravine’s edge, someone else is bound to notice.
+
+‘If there was some way to hide this stronghold… that would be ideal…’ I think to myself into the system space, lingering my thoughts on the 20-sided die still floating within.
+
+I stop on a small ledge, pull it out, and toss it down on the rocks.
+
+In the silence of night, notifications ring in my inner ear.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Qi Gathering Concealment Array] [2nd Tier Array]
+
+Six jade-white flags materialize in my storage, along with a smooth circular disk. I pull them out to rest in my hands. Their glow illuminates my face in the night.
+
+[Ding!][Qi Gathering Concealment Array has bound to the Host!][Passive Ability: Capable of attaching to a spiritual vein up to the low-grade 2nd Tier, and concealing its presence indefinitely.][Active Ability: This array can create a containment barrier to hold all of the naturally released qi from a spiritual vein inside it. Its primary function can be activated to refine the naturally released qi into 1st Tier spiritual stones.]
+
+The instant I imprint the flags with my qi, the basic rules to set it up flow into my mind.
+
+I make my way down into the Ravine, passing familiar ledges and slopes until finding the cave entrance that exudes far more qi than any other structure in the forest. At the bottom of the cave, there are a few passageways with exposed parts of the spiritual vein other than the main room where Xu Hong still rests.
+
+A single flag is positioned on top of every point I can find, leaving a single remaining flag for the main room in order to activate the array.
+
+When I walk in, it’s full of a thick purple aura.
+
+Deep at the bottom of the pit, Xu Hong’s Innate Physique is activated, and visible streams of raw qi flow out from the vein directly into her.
+
+I place the last flag about 5 meters away from her, and a mental connection to the smooth disk in my hand triggers two settings.
+
+[Contain][Refine] [Max: 41 Spirit Stones Per Day.][Overstrain]
+
+I press Contain, but linger on the number 41 below it for a few seconds. I vividly remember it being 42 before.
+
+My automatic Inspect Function activates again, and the length of this vein appears to have dropped from 210 meters to 206 meters.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+The information about Xu Hong’s bloodline awakening disappears from her status, but something new materializes in its place.
+
+[This cultivator has committed to overstraining this mid-grade Tier 1 spiritual vein in order to grow as strong as possible. She has already formulated a plan to leave the sect, and begin her mission for revenge on the ???? ???? ???? ????.]
+
+The initial portion of her newly updated secret makes sense to me.
+
+If we were truly splitting this spiritual vein fair and square, I would be angry right now. However, my system already told me that no matter how damaged it becomes, I can use an upgrade card to restore it.
+
+The question marks blocking out the name of the power she wishes to take revenge on is quite strange. I remember Xu Hong mentioned that it would be dangerous to say their name out loud for some reason, but now this has me questioning why even the system is not letting me see the truth.
+
+I look down at the glowing purple woman with a complex stare for a minute, then let out a sigh and sit in front of her, activating my Jade Purity Soul Scripture.
+
+If she’s going to overstrain this vein past its natural daily output, I will too.

@@ -1,0 +1,113 @@
+---
+id: 219032a4-6bc1-59d3-aeb7-34f6fabd36ab
+page-type-slug: story-chapter-royal-road
+title: "Ch41 Buying Servants"
+slug: 0041-ch41-buying-servants
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 41
+ownLength: 1352
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3326830/ch41-buying-servants"
+royalRoadId: "3326830"
+---
+
+2 full weeks pass by.
+
+While I can’t absorb raw qi as fast as Xu Hong when she activates her Innate Noble Grade Physique, I’m still capable of pulling a few hundred spirit stones worth of energy from the vein every day.
+
+I use two upgrade cards to create a perfect 1st Tier Defensive Talisman and an Incineration Talisman.
+
+Afterward, I eat three upgraded qi gathering pills every day to maintain the cultivation of the golden heavenly aura that nurtures me in a unique way compared to normal qi.
+
+The spirit vein’s length falls below 200 meters, then 150 meters, but it does not bother me.
+
+Xu Hong breaks into the 2nd level of qi refining within just 4 days of cultivation.
+
+It only takes 6 days longer until she cultivates through every stage of her new level to reach level 3 of qi refinement.
+
+In another 4, she reaches the mid stage of level 3.
+
+In this time, I break through to reach the mid stage of level 3 too.
+
+I’ve tried to initiate conversation with her a few times, but there is never a reply. She does not eat, sleep, or move from her seated position at the center of the spirit vein.
+
+The density of her aura has become extremely thick and fierce. It is hard to be sure, but it feels like a similar strength to the old boss I fought in this very cave. Not long ago, she was an ally and a tool I thought I could easily control. Yet, her strength is growing at a rapid rate that seems impossible to keep up with.
+
+My daily routine has become rigid, with no surprises, only leaving the stronghold to collect wood and hand it in daily. After this full two weeks that have passed, a lot of the natural qi that was present in the depths of the Ravine dissipates to settle at a similar density as the surface above.
+
+The array holds every particle of qi from this vein inside the main room where Xu Hong and I cultivate. After pushing brush and a few extra boulders in front of the cave entrance, it looks like nothing more than an inconspicuous abandoned animal’s home.
+
+–
+
+While walking through my usual wood collection route today, I unfortunately find one of my servants hanging from his thatched hut ceiling with a shirt tied around his neck.
+
+That brings my total workers right now down to 24.
+
+After collecting my pay, I make my way back to the steward’s quarters, and report the news to the administrative worker at the back of the dining hall.
+
+“One of my servants killed himself today and a few days ago a servant named Xu Hong went missing.”
+
+I pull out a map of my travel route, and point to the servant’s hut, then to the one Xu Hong stayed in before she abandoned it.
+
+The old steward behind the counter shifts through a few jade tablets, then looks up with a bored expression.
+
+“Very well. It was recorded that neither of them have family to report to. I’ll have a steward come by tonight and take the boy's body. I wouldn't worry too much about the woman, it was probably one of your other servants that took advantage of her and got rid of the evidence. It’s a very common fate for the female servants.”
+
+He grunts and shifts a few tablets around.
+
+“Just in time anyway. The new shipment of servants should arrive tomorrow morning. Don’t sleep too heavily, you might miss Senior Gu when he stops by.”
+
+–
+
+I don’t return to the stronghold, instead, I cultivate with a few leftover spirit stones in my cave abode.
+
+“Stewards! Line up! The new servants have arrived, and so have your updated collection routes!” Gu Shan’s familiar voice echoes through the air just as the morning sun comes up.
+
+Not every steward is present, but the thirty or so that heard the news are here.
+
+Some get new quotas for charcoal output, while others are given new travel routes and plots of land to survey.
+
+I’m part of the latter group.
+
+A portion of my servants’ huts are being reclaimed by the sect, and I’ll be in charge of moving them to new plots slightly closer to the Ravine’s edge.
+
+My total plots have increased, up to 40 huts.
+
+We all board Gu Shan’s flying vessel, and take a short trip only a few kilometers away to the same facility I was sold as a servant not long ago.
+
+A single jade tablet is given to every steward that arrives, with names, spirit root grade and affinity, then finally a note if they are affiliated with any major families.
+
+The majority are orphans, or from mortal villages. Everyone with 9th grade roots has a price of 100 spirit fragments. Servants with 8th grade roots go for 250.
+
+Names disappear from the ledger when a steward selects them.
+
+Yet, my attention is caught by one name: Wei Ping. He has 4 roots, everything but fire, and they’re of the 8th grade. Yet, his price is 1,000 spirit fragments. There is a small note by his name, that he is a member of the Wei Clan, a Family that lives in the Nine Rivers City.
+
+Seeing that city’s name written out in text, I vividly recall it being spoken before. It was that 12th level qi refining icy woman, she went to this city for an auction after giving me a healing elixir…
+
+No matter where I go, everything I do continues to relate to the momentary interaction we had.
+
+I press 15 names of 9th grade roots servants, and the interesting name that costs a full spirit stone at the top of the list.
+
+When I turn in the tablet, I make my way into a line to pay with a green-robed outer court disciple I’ve never seen before. The other lines have familiar faces that I don’t want questioning me when I pay with 2 spirit stones and 500 spirit fragments.
+
+The memory of grey-robed stewards looking down on a crowd of servants I was a part of is still fresh in my mind. Now, I walk onto the raised platform and have over a dozen confused children all brought up to me as their new owner.
+
+[Automatic Inspect Function Activated…][Wei Ping] [Age: 15][No Qi Cultivation][Mutated Earth, Water, Metal, and Wood Spiritual Roots] [8th Grade][No Innate Physique][Volunteered as a servant tribute to fulfill the Wei Clan’s quota for his branch family to appease the main bloodline. Is secretly happy about leaving to forge his own path of cultivation. His family believes him to be a wastrel, unaware of his mutated earth root.]
+
+The child that cost me a full spirit stone is the only status that stands out, however, for now I keep a stoic expression and guide my new workers away down the dirt paths we just flew over in Gu Shan’s boat.
+
+On our way to the servant camps, a few of them get tired. I release a focused wave of my aura toward the ones that drag their feet, and they quickly straighten out in fear.
+
+There are ten of my old servant huts that we stop at, and I relay the news that they’re being moved to a new hut to start clearing new trees. I pay them for the wood they’ve already chopped, and move on walking down the dirt road.
+
+A few new servants whisper and ask questions to the veterans now tagging along.
+
+Their detailed accounts of the tyrannical bully Zhou Kang, versus my new rules, turn the tired and scared eyes of many new servants to ones filled with a glint of hope.
+
+It makes my job much easier. I don’t have to explain much of anything as we reach the new huts deeper in the forest.
+
+By mid-day, my full route is now full to the brim with 40 servants.
+
+When I collect wood at dusk, none of them talk back, and they all seem genuinely grateful to be working under me.

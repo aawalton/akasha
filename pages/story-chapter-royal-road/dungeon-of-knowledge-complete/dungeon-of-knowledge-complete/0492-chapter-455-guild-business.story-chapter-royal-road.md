@@ -1,0 +1,197 @@
+---
+id: 7a8f89bc-94dd-545b-a64e-e5b76d57ead4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 455: Guild Business"
+slug: 0492-chapter-455-guild-business
+partOf: dungeon-of-knowledge-complete
+position: 492
+ownLength: 4001
+unit: words
+ownProgress: 4001
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2794840/chapter-455-guild-business"
+royalRoadId: "2794840"
+markedReadAt: "2026-06-29T20:28:54.006Z"
+---
+
+Ali teleported directly above the pristine front gable that crowned the outside face of the brand-new guild hall, almost complete now, with the crafters simply needing to put the finishing touches on it. Her main contribution had been creating several tons of various types of stone for the crafters and installing the guild’s teleportation runic circles, reconnecting it once again to the Grand Library Arcana.
+
+Having her domain encompass the entire space of the town and the surrounding countryside proved to be remarkably convenient for more than just summoning raw materials for rebuilding. It also had the benefit of allowing her to teleport anywhere with relative impunity, and she had immediately summoned flights of her Glitter Dragonets, and several other affinities she had gained from experimenting at the shrine, spreading them more or less everywhere.
+
+They cost almost nothing, now. She had been surprised to find she could now make more than one hundred and twenty of the swarm creatures per point of mana reservation – and that was without the large discount Domain Mastery applied whenever she bound something to her domain. Of course, the swarm of dragonets was only level one or two, but they were beautiful creatures and really did liven up the very much under-construction town.
+
+It had taken several days, and she was beginning to realize just how much work went into building something like Myrin’s Keep from scratch. There was much more detail to it than, say, reconstructing her Forest Cavern, which was now almost completed. She couldn’t just grow houses like she could grow trees. People complained when there was no door to the bathroom, for example, or that the windows were the wrong shape.
+
+Still, the town was sprouting rapidly under the gruff but skilled care of Murgrid and Belra, and many of the most critical buildings were almost ready. The battlements were complete, now improved with her barriers reinforcing the outside. The garrison headquarters, the town center, the Temple of Lunaré – which gleamed in glorious white marble – and the guild building were all done. The marketplace had been cleared, and the townsfolk had mostly moved their refugee camp into the cleared spaces between the new buildings that were sprouting like weeds in spring, instead of out in the forest.
+
+A bigger, better, and shinier Myrin’s Keep? She sighed. The cost had been too awful to contemplate. When will the trauma for these people end? Can we even defeat the Lich? Ever?
+
+Ali circled downward, flew in through the open doorway that still lacked an actual door, and glided into the guild hall.
+
+“Aah, Aliandra, there you are,” Mieriel said, looking up from her desk, reminding Ali of the first time she had walked in here, full of expectations and wonder, and some trepidation, to join the guild. “Vivian is in the conference room already, and they’re waiting for us.”
+
+As she had done so long ago, she identified the Elf.
+
+Spy – Sun Elf – level 91 (Mind)
+
+Very nice! She might be the guild’s administrator by day, but she must be working hard as the intelligence branch for her to advance so quickly.
+
+“Thank you, Mieriel,” Ali said, flying along behind the elegantly dressed elf as she led the way. The guild had taken the opportunity to expand once again, and even though there were far more people than she was used to – and many new faces – the huge hall did not feel at all crowded. She did take a moment to admire Basil’s work, though, easily recognizable by the traces of his mana on her domain. When constructing the main hall, she had left a circular hole in the center of the floor and planted a Radiant Larch in the middle, tall enough to reach the higher ceiling with its topmost branches. The beautiful light-affinity tree would keep the hall well-lit for the adventurers at all hours of the day or night, but Basil had filled the space among the roots with softly glowing Mystic Bluebells. Along the walls, where she had fashioned planters under his guidance, he had grown domain-attached flowers of all kinds. She recognized the Arc Lilies softly sparking, Lunaré’s Tears glowing with holy light, Peacebloom, and many of the prettier orchids she had at her disposal. But there were so many she did not recognize, and it took only a moment to verify that her Grimoire had added all the variants while she had been sleeping. It created an atmosphere of vitality and life that the guild hall had lacked before.
+
+I should catch him up, Ali decided. She had learned several new flowers from her sojourn in the Abyssal Realm: Sacred Lilies and the infernal hellfire creepers and flowers she had stolen from Xammath’s cave after killing him. Although high-level hellfire plants are probably not a great choice for the hall, she mused. After all, there were quite a few low-level or unclassed recruits walking around, wide-eyed and seeming rather lost. But her adrenaline-fueled charge through the Blooming Rot had gained her a wealth of herbs and flowers that she was certain he would put to good use.
+
+She opened the door to the conference room and flew in, pleasantly surprised to find Basil hadn’t restricted himself to just the guild hall. Even the conference room had hanging plants. He had an excellent eye for color combinations, too. The choices of blossoms, the different styles of foliage, and even the scents were exquisite.
+
+“Hi, Aliandra, Mieriel, come on in,” Vivian said. She was sitting at the conference table with several of the higher-level guild members: Ali’s friends, Lyeneru, several pathfinders who had reached platinum, who Ali recognized from their evolutions and the hours of fighting together in Naia’s caves, Ryn, and Aiden. “We have quite a lot of business that requires your unique skills.”
+
+“Ok,” Ali said, taking a seat at the taller chair that had been left open for her and settling in.
+
+“The Town Council has approved a priority order for reconstruction,” Aiden said, handing out a page to each person. “I managed to convince them to prioritize reconnecting us with the rest of the world first. That means the Novaspark Academy and the Auction House are our next two priorities. Getting the Academy up and running will require a new teleportation locus and the telepathy and transport arrays to be recreated. Donella specifically requested Aliandra’s help with this effort.”
+
+“Ok, I can do that,” Ali said. This must have been a bitter fight, she thought, studying the items on the list. After the Auction House, various health and safety operations had been prioritized: Eliyen, and Morwynne were at the top of the list to get the flow of critical potions going, and then the list continued through many of the most important crafters and artisans, and the marketplace long before it reached, say, the Hawkhurst Trading Company. Jax Hawkhurst had to have been pissed. She did notice, however, that the bank was listed as a high priority, but it was blocked until they could recruit a new banker to replace Hadrik Goldbeard.
+
+“I have a request for you, too,” Lyeneru said.
+
+Ali looked up from the list in surprise.
+
+“The wood mages asked me to approach you on the matter of the Ciradyl trees you made outside of town during the defense operation,” Lyeneru said. “Many of the Wood Elves would prefer dwelling among the trees rather than surrounded by stone, as the humans prefer, and they wanted me to ask you what your intentions were for those trees.”
+
+“I had thought of removing them once the farmers reclaimed the land,” Ali said, glancing over at Aiden who nodded to answer her unspoken question. The land issue must already have been settled. “But I can leave them there if people want to use them for housing?”
+
+“Can you release them from respawn?” Lyeneru asked.
+
+“Oh, yes, I can do that, and I can reattach them after they’re done fashioning their dwelling spaces,” Ali said. She hadn’t even considered that problem, but it was the same one the stone smiths had faced – her dungeon would revert any modifications to the trees after an hour because she had granted them respawn.
+
+“I’m sure they will appreciate it,” Lyeneru said, inclining her head. Several Wood Elf Pathfinders sitting around the table smiled, lines of tension in their shoulders and faces visibly fading at her words. I didn’t realize they found stone houses so oppressive. Ali had restored her and her friends’ apartments down in the dungeon, but she had been dreading the work of redoing housing for several thousand occupants.
+
+“Good from my side,” Aiden put in, leaning back with a satisfied air. Temporarily. Ali could almost see the cogs whirring in his mind as he jumped to the next items in his undoubtedly endless list.
+
+“Ok, on to more guild business,” Vivian said, on cue. “I am required to register all the newly platinum adventurers with the guild registry, along with the services and capabilities in the guild profile. I should point out that registering the numbers we have will draw a lot of attention to Myrin’s Keep – we now boast more platinum-rank adventurers and better services than most large cities.”
+
+Several murmurs sprang up around the table at her announcement.
+
+“Most of the council thinks this will be a good thing for Myrin’s Keep. Especially Donella and Bastian, who believe we need an infusion of interest from outside to restart our economy,” Aiden said.
+
+“Lyeneru, I want to be respectful of your Pathfinder guild status. Our merger was one of necessity, and we agreed it would be temporary. How would you like me to handle your members?” Vivian asked.
+
+“You can list them as a Pathfinder chapter resident in Myrin’s Keep, and perhaps explicitly call out that we’re allied guilds,” Lyeneru said, her expression thoughtful. “I believe our alliance to still be mutually beneficial, and it will necessarily continue for quite a while until we are ready to retake Ciradyl. Is that acceptable?”
+
+“More than acceptable, it’s an honor,” Vivian said gruffly, and Mieriel made several notes. “Then we come to you, Aliandra.”
+
+“What do you need?” Ali asked, guessing some of what was coming might be related to shrine services.
+
+“The shock of displacement, and the sight of the garrison soldiers and the adventurers defending the town in person has inspired many new recruits to sign up for the chance at combat classes,” Vivian said, and then she paused, keeping her expression controlled and neutral, which Ali had learned to interpret that she wanted something badly, but didn’t want to be obvious about it. “Were you planning on rebuilding the training zones?”
+
+“I am,” Ali said, much to Vivian’s obvious relief. “The sewer system is already restored, and I plan to expand it substantially. I was going to recreate the training arena next. We can do a shrine run whenever you’re ready.”
+
+“How many recruits can you handle at once?”
+
+“The shrine has nearly twenty million mana now, and I believe Mieriel has the list of costs for each feature,” Ali said.
+
+“I do, thank you,” Mieriel said, making a note. “I can take it from there.”
+
+“I’m still obfuscating your class on the guild registry,” Vivian said. “But you should know that Nathaniel Sunstrider’s authority is already being questioned.”
+
+“I see,” Ali said. Nathaniel had given permission for them to hide her class information, but it seemed his betrayal was becoming much more widely known, and his name on her class information was going to become a magnet for searching questions before much longer.
+
+Is it even still worth hiding?
+
+Everyone in Myrin’s Keep knew, and with the Town Watch openly hiring the Heroes of the Crimson Blade from Southport, she was certain it was just a matter of time before everyone in the kingdom knew. Probably the only reason it wasn’t already common knowledge throughout New Daria was due to Southport currently being under siege by Nevyn Eld’s Death Knights. Worse, she wasn’t planning on removing her domain from Myrin’s Keep itself, so any visitors with advanced perception skills like Calen’s, or mana sight like hers would instantly know about the dungeon, to say nothing of the tithe notification with the name of her dungeon the moment they stepped foot in the town.
+
+“What sort of services can you list in the guild profile?” Ali asked, her mind tentatively exploring an entirely different approach.
+
+“I list anything that might attract business and interest to grow the guild,” Vivian said. “Enticing people from outside the town is important for the growth of a platinum-level guild. It’s important enough that I’m willing to risk advertising for guild poachers and headhunters to abuse.”
+
+“We list Weldin’s guild store, along with the general level of the items typically available for purchase,” Mieriel said. “For instance, we explicitly list some of Thuli and Lydia’s pieces as examples of what is available, along with the more common essences – fire and living – that the guild members commonly pull from your dungeon. I haven’t listed the magicite yet, but I was planning on doing that soon if you put it back in the usual places. We list access to the town locus and the auction house, all of which make our guild more interesting and attractive to visitors.”
+
+“I see,” Ali said. It was probably not the right time to mention that those ‘usual places’ were likely to be very different once she was done revamping her defenses – she had a lot of new options, and a lot more mana now.
+
+Mieriel looked up from her notes, adjusting her glasses. “If you’re asking because you’re considering changing your privacy, we would certainly advertise anything you’re comfortable sharing.”
+
+The conversation paused while Ali considered her options. Hiding wasn’t going to provide her with any value going forward, and she had a strong complement of friends and guildmates if things went wrong. Perhaps it’s time to show myself, she thought. Lira had once told her people needed to see who she was if she didn’t want them to judge her based on the prejudice of her dungeon class type. It was a risk, but she could have a hand in crafting what was shared, and that was certainly better than letting the rumor mill define her future.
+
+Besides, there’s the shrine. Her experiments with the shrine, along with Azryet’s insight, meant that the more people who used it, the more options and classes it would offer, making it progressively more and more attractive. Not only to those who came for classes, but it was clear she could then reuse the offerings they had earned to manufacture ideal minions to defend her domain, and she was eager to get her hands on any advantages she could. Even just her initial experiments had proved the potency of the shrine.
+
+“Ok, I would like to be listed on the registry,” Ali said, feeling a rush of anxiety at the decision to expose herself, but she pushed it down, knowing it was the best choice now.
+
+“Your full class, including dungeon status?” Vivian said, obviously wanting to confirm the radical departure from the previous norm.
+
+“No, more than that,” Ali said, committing to the choice. “Can you advertise the kinds of items and materials people might earn by delving in my dungeon? And the features it has?”
+
+“Probably the best way to advertise the items is to simply open the crafters and artisans’ gather quests to public view,” Mieriel said, gently biting on the back of her pen while she considered the implications. “We can do that for any gold-rank or higher job. Any competent group will research the available jobs to figure out what they might be able to earn and connect the pieces after we list you as a dungeon.”
+
+“I assume you still want to keep the shrine and such quiet?” Vivian asked.
+
+“I’d like to advertise the shrine…” Ali said, pausing a moment to consider her options. “Mieriel? Is there a way to suggest a donation? I’d like to keep it free for those who need it, but it would be nice to get the occasional book for the library or a magical affinity plant. I am a dungeon of knowledge, after all.”
+
+“I could link it to your open collection quests, if you like?” Mieriel said, smiling softly. “That way, you can adjust them whenever you need. All you’d have to do is add a book collection quest for the library.”
+
+“Ok, let’s do that, then,” Ali said, her mind racing with the possibilities. It was a perfect way to keep the library, and her imprints, growing. “List the full capabilities of the shrine – offered free of charge through the guild with a suggested donation for those who can afford it. Add the dungeon’s tithe enchantment, allowing accelerated mastery and knowledge skill-ups, the library with its enchantment for learning, the training arenas, and the Anvil of the Emberforge.”
+
+“The anvil, too?” Vivian asked, raising her eyebrows.
+
+“Particularly the anvil,” Ali said. Not only would she dramatically expand her own armor and weapons repertoire, but everyone would benefit. “I can feed all those enchantments it learns to Thuli, making them available for commission.”
+
+The room fell entirely silent at her announcement, everyone staring at her in shock. Well, except for her friends, who were smiling supportively.
+
+“You want to list everything? I think I’m greatly understating it, but this will create enormous interest,” Vivian said.
+
+“More than you’re thinking, Vivian,” Lyeneru interjected. “With the loss of the shrine at Aman Rak, many more people are delaying their advancement through their first evolution, not wanting to risk their future on a coin flip. It can’t be a coincidence that the Blind Lich targeted it before laying siege to Southport. If you offer a free opportunity to roll back broken classes and evolve to the second tier, you will get an enormous influx of high-level seekers. I don’t think I need to explain the level of gratitude there will be for making it available and free. Better yet, powered by a domain instead of individual trolls, there would be no need for months-long waiting periods to recharge the shrine.”
+
+“That’s what I’m hoping for,” Ali said. “If I’m the only dungeon providing those services, then how many people will fight to protect it?” The Heroes of the Crimson Blade had left a big impression on her, and if anyone paid for an assassination squad in the future, she wanted the majority of people to be on her side. The best way to ensure that was to provide critical services nobody else could.
+
+“Ok,” Vivian said. “I respect your choice. And I can’t say I’ll hate the sheer interest it will generate, and the growth it will provide for the guild going forward. Thank you, Aliandra.”
+
+“I assume you will provide teleportation services to the anvil, training arenas, library, and the shrine like you do for the guild?” Mieriel said, writing rapidly in her notebook.
+
+“No,” Ali said, allowing a mischievous grin to touch her lips.
+
+“What? I thought you said the services would be free?” Vivian said, staring at her in surprise.
+
+“Free, yes, but safe transport I will reserve for my friends, and as a guild perk. Visitors will need to fight their own way down, join the guild, or hire an adventurer team to escort them. I gain skills and knowledge by having people fight against my monsters, and I don’t wish to give that up. I will make reaching the training arena require at least a silver-rank group, and the anvil will require a gold raid or platinum group. For unlocking classes with the shrine, the guild can organize regular trips that the unclassed can join, and I will disable the bosses just for those because I don’t want any poorer candidates to be locked out.”
+
+“That will create enormous demand for the guild’s services,” Vivian said, her eyes gleaming at the thought.
+
+“That’s what I’m hoping for,” Ali said. “An economy where the guild adventurers have productive escort quests to do while also working on their own levels.”
+
+She would need to remove Maalgaroth from the Landing and put something more reasonable there, but she had ideas for where she could move him. Restoring the fire runes for access to the various wings of the Emberforge Mines would create an economy for fighting the bosses in each one in order to collect the required essences for resistance gear and drive business to Morwynne for the distillate needed to unlock the runes, all to gain access to the Anvil. But these would be collection quests that could be run by the guild at any time, and visitors could simply buy the essences from Weldin or the Distillate from Morwynne directly, shortcutting the process to the Anvil. She was certain she could make many more optimizations to maximize the use of her resources.
+
+Ali chose not to harp on the benefits to herself, but Vivian and Lyeneru were both smart enough to figure it out, so she didn’t feel like she was hiding her motives. Both the shrine and the anvil would accrue enormous value to her if they were used by many diverse people, and the combat skills and magic used within the dungeon while fighting her monsters would certainly grow her repertoire of new techniques: via Martial Insight for combat specific advancements, and Arcane Insight for a broader set of spells she could learn to disrupt. Even the benefits from her domain tithe would pale in comparison to those. Most importantly, she hoped that making herself indispensable would result in a much more durable security than trying to hide her identity and nature behind layers of obfuscation – if that was even possible, anymore.
+
+“Ok,” Vivian said. “For the last order of business, Southport has listed several platinum-ranked quests to entice people to help fight against Nevyn Eld’s undead army. If you haven’t seen them yet, know that the rewards are extraordinary. This has the potential of leaving the guild understaffed, so I want to know which of you all would be interested in taking the quests.”
+
+“What about the rift?” Lyeneru asked.
+
+“I intend to approve requests after the rift is secured,” Vivian said. “I just want to get ahead of the game, so we’re not caught flatfooted later.”
+
+Nevyn Eld. Ali had faced the Lich already – platinum-rank or not, she had just about as much chance of stopping him as a dry leaf stopping a hurricane. While she desperately wanted to do something – anything – she also knew how little power she really had, compared to his pure malevolence and necromancy.
+
+Besides, I’m a dungeon, she thought, her heart twisting as she rationalized her fear, trying to excuse her reasons for staying far away.
+
+“I think I will be more useful scouting the location of his Phylactery,” Calen said, breaking the silence. “I’m not sure what might come of it, but any knowledge might give us options.”
+
+“Agreed,” Lyeneru said.
+
+“What about you guys?” Ali asked, turning to Mato and Malika.
+
+“I will fight the undead,” Mato said. “But I don’t mind where, if you have something more useful than Southport, just point the way.”
+
+“I want to do something that matters,” Malika said, thoughtfully.
+
+“I want to ask Azryet about the acorn,” Ali said. After all, Lira was her family, and if there was a chance to help her, then that would be her highest priority. “And I made a bargain with him that I intend to keep.”
+
+At her mention of Azryet and Lira’s acorn, Mato suddenly sat up straighter. “Rift first, Azryet second, and then we find some undead to crush?”
+
+“Sounds good,” Malika said, reaching over to smack him on the arm as people chuckled at his enthusiasm.
+
+Trust Mato to make everything so simple.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

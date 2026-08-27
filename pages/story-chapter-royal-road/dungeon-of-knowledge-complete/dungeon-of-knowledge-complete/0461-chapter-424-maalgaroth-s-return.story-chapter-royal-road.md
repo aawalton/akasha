@@ -1,0 +1,173 @@
+---
+id: 209a378d-1ce6-52cc-9909-394637fdab9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 424: Maalgaroth’s Return"
+slug: 0461-chapter-424-maalgaroth-s-return
+partOf: dungeon-of-knowledge-complete
+position: 461
+ownLength: 3089
+unit: words
+ownProgress: 3089
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2714125/chapter-424-maalgaroths-return"
+royalRoadId: "2714125"
+markedReadAt: "2026-06-29T20:27:47.882Z"
+---
+
+When Ali stepped through the doorway, her domain came with her, a roaring, hungry tide that consumed everything before her. Giant rope-like cables of pure arcane mana lashed outward, slicing through the domain of the Blooming Rot dungeon like a spear through rotting fruit. It exploded. Detonations from annihilating mana rippled out along the walls as the air began to howl with the violence of the collision. Mana slammed into Ali’s body like a geyser and spilled out in painful arcs of golden arcane mana discharging into the ground. Explosive growth of all manner of plants burst from the ground and the walls about her as her Grimoire responded, unbidden, to the torrent of wild mana.
+
+“Ali, you’re kinda scary right now,” Malika said.
+
+“Nothing like you when you ripped holes into that Pit Lord with your bare fists,” Ali answered through teeth gritted against the dungeon rage. “At least yours was real power, this is just excess mana.”
+
+“She has a point there, Malika, you’re rather ridiculous right now,” Mato said, transforming into his dire Bear Form and charging out into the giant cavernous tunnel before them without another word to engage the monsters rushing toward them.
+
+“What do you mean?” Malika asked, raising her eyebrows in surprise.
+
+“You realize you’re leaking radiant soul mana from your eyes, and your fists are shining brighter than my Motes of Light?” Calen asked.
+
+“I am?”
+
+They charged forward through the hazy, damp, and dripping vegetation growing throughout the old demon wing of the mines. Ali tore through the domain, claiming everything as they went. Her violent entrance into the dungeon had most certainly not gone unnoticed, as it began to throw all manner of monsters at them. They poured in from cracks and crevices in the rock, concealed by creep, putrescent fungus, and strangely drooping ferns that seemed to feed on the tarry black smoke that lingered in the air.
+
+“Tell me about the boss,” Ali said.
+
+“It’s a Fungaloth Ravager,” Calen said, filling in the details between volleys of his arrows. “It has a martial ability that stuns the tank for about thirty seconds, so Sabri and Havok are trading off. The biggest problem is that nobody seems to be able to do any significant damage to it. Malika, Mato, and I could do some damage, but it was a lot less than normal. I suspect a strong damage mitigation ability that is keyed to level or something. The main issue is that half the guild is stuck at level one hundred now and couldn’t progress without your shrine.”
+
+“Oh,” Ali said. How many monsters must they have fought for them to have jumped to platinum and their evolutions? That most certainly changed her priorities – as had happened with Vivian, it was entirely possible that leaving their evolution paths up to chance would end up with broken or weak classes. She did have the Revert now, but still… “We should try to take care of that as soon as possible.”
+
+“If possible, yes. We came down through the forest cavern, past the shrine. The path back up should be relatively straightforward,” Calen confirmed. “Although this dungeon respawns monsters four times faster than normal.”
+
+Ali nodded. Then she took a moment while the others were killing hordes of twisted branch-monsters to summon new minions. If it really is level-based mitigation, I should make fewer monsters, but at the highest level possible, she decided. Without more precise information, she didn’t have a well-refined strategy, but she could adjust on the fly if needed.
+
+She summoned a Scion of Azryet as she flew, pushing the level as high as her current class level could take. Relief rippled through her as the powerful dragon summon eased her Mana Saturation. With a wave, she sent it flying out over the monsters her friends were fighting, blasting searing lines of disintegrating void into the fray and battering and suppressing hordes of weaker monsters with the powerful downdrafts created by its wing-buffets. Then, as her domain consumption with Domain Architect fed her more and more mana, she summoned a second one. Still, it was insufficient. She flipped the pages and summoned the highest-level Eye of Agnor she could manage, the random affinities turning out to be lightning and ice, which suited her just fine.
+
+“Holy shit, what is that?” Calen said, recoiling at the sight of the massive demonic orb that popped into existence beside him.
+
+“Eye of Agnor,” Ali said. “Mage artillery platform.” The demon underscored her terse description by unleashing a pair of Chain Lightning bolts into the oncoming press of plant monsters and following up with a broadside volley of Ice Bolts.
+
+“Right…” he muttered, shaking his head. “And she has dragons of disintegration, too…”
+
+As they fought their way up the last stretch of the tunnels, Ali summoned more monsters – kobold Dagger Rogues and Abyssal Stalkers to replace the assassins and scout squad she had lost to Maalgaroth. She had no doubt they would be useless against the Landing boss Calen had described, but they would be effective against the trash monsters the dungeon was flinging at them, and she needed to spend mana anyway.
+
+“Landing is coming up,” Calen said.
+
+“I hear them still fighting,” Mato added.
+
+When they finally reached the entrance to the Landing, Ali glanced at her acolyte healers and asked: “Mato, are you going to tree or bear for the fight?”
+
+“I can do either, they have the tanking covered.” His reply echoed slightly in her mind.
+
+“Then, tree please,” Ali asked. “I’m going to summon a Pit Lord for this.” She did not know how much control she would have over the Pit Lord’s corruption aura, and she had no desire to show up and corrupt all her friends in the middle of a hard fight. But the massive demon was her most powerful minion, now.
+
+“Yup. No problem.”
+
+The crawling Braconids guarding the last few meters of the passage collapsed to a massive imploding ball of void, and they burst through into the Landing and onto a chamber ravaged by the might of a dungeon struggling against two full raid groups of adventurers.
+
+Gone were the once-familiar rocky walls and floor of the large underground chamber, and even the ubiquitous fungal creep was barely visible under the profusion of rotting vegetation and growth that clung to the walls or hung down from the ceiling in heavy drapes. Even as large as it was, the chamber’s wet dripping growth and hot, humid, rotting atmosphere lent it a claustrophobic feel that Ali struggled to shake. If monsters weren’t already pouring through the other three entrances, she wouldn’t have even been able to see them behind the gnarled and blackened branches and overgrowth.
+
+“They’re struggling with the adds,” Calen said.
+
+The prodigious progress of Ali’s domain consumption immediately ground to a halt as she entered the Landing, the dungeon rage intensifying significantly as she pushed against the boundary of a raid boss’s domain. She didn’t know how or why, but somehow the raid domain enhancement solidified the domain, making it substantially more resistant to her attack.
+
+Over at the far side of the chamber, the familiar group of Guild adventurers ranged against the giant misshapen monster. Dozens of spells and arrows rained down on it from the carefully placed formations of mages and archers, while a few of the melee ran interference, protecting them from the stray monsters pouring through the Landing entrances in answer to the dungeon rage.
+
+Immediately, she checked the boss.
+
+Fungaloth Ravager – Fungal Aberration – level 146 (Nature / Death).
+
+The problem was immediately obvious to Ali’s eyes; the giant fungal monster of muddy greens and browns was shrugging off most of the attacks. No matter what, only tiny wounds were opening on its almost pristine body. When the group did manage to score some damage, it healed back up in seconds; it was no wonder they had chosen to hold it here instead of waiting to kill it. And with the torrent of fresh monsters pouring into the chamber, they were struggling. Lines of frustration and determination etched Aiden’s face, and Teagan was sweating as she fired green glowing beams of well-timed healing into the melee group.
+
+It had taken ages for her friends to reach the rift chamber and for them to kill both the Mana Eater and the Pit Lord, Maalgaroth. Ali immediately regretted taking so much time to secure her domain, resummon her minions, and for them to fight all the way back to the Landing. The poor adventurers were clearly on their last legs, brought to the brink of exhaustion with only the fumes of their mana pools remaining from having to contend with the ridiculously long fight.
+
+And they did it for an uncertain chance to rescue me.
+
+Ali frowned. Having people – her friends – suffer on her behalf did not sit well in her heart, and she resolved then and there that she would repay the steep debt she owed to every one of them. Yet, even struggling as they were, she heard a ragged cheer rising from the beleaguered adventurers as she entered the Landing.
+
+“Help them!” Ali commanded, sending her minions rushing into the fray beside the adventurers. Malika vanished with a loud pop, appearing above the Ravager with an incandescent burst of magic and unleashing her fists upon its resilient flesh.
+
+Wasting not a second more, Ali flipped open her Grimoire and summoned a giant Glaive. Her eyes flickered across the demonic imprint briefly. They’re both here? Xammath or Maalgaroth? Making a snap decision, she fed her mana into the imprint and summoned Maalgaroth.
+
+Out in the center of the chamber, Mato transformed into his towering Tree Form, and his Sanctuary aura rippled outward, filling the entire Landing with his much-needed regeneration aura. In moments, the grim expressions on the struggling healers’ faces eased, and even a few smiles broke out as their mana began regenerating rapidly.
+
+Maalgaroth [The Corruptor] – Demon – level 141 (Hellfire / Blood)Your reserved mana has increased by +1058.
+
+Ali couldn’t quite match the massive demon’s original level, but this should be sufficient.
+
+Over at the far side of the chamber, domain mana surged, and the boss smashed downward, hammering the small Goblin tanking him. Havok collapsed to the ground, stunned. Instantly, Sabri’s voice rang out through the chamber, filled with power. The air rippled with soul magic that tore through the fungal giant, and the follow-up strike meant for the fallen Goblin shifted aside, finding Sabri’s battered heavy shield instead.
+
+Paladin – Goblin – level 100 (Holy)Warrior – Human – level 99 (Soul)
+
+“Tank switch successful,” Aiden said, his calm voice simply echoing what had just happened as if noting a curious cloud in the sky. It was probably entirely unnecessary, as the healers had already switched, but it seemed like a calming ritual, something that held the group together. Still, his eyes darted toward Ali’s massive summon, widening in shock.
+
+“Kill that Ravager,” Ali commanded. Maalgaroth snatched up the war glaive in one hand and thundered his challenge. She could not help but notice every adventurer in the cavern shudder in instinctual reaction to his arrival.
+
+“All the evolved monsters on the boss?” Calen asked. “Lower ones on the doors?”
+
+“Good idea.” Ali reacted, splitting her forces and sending the rogues and stalkers to Ambush everything that entered the chamber while her berserkers, holy mages, and all the evolved trolls unleashed their power against the boss itself.
+
+The Pit Lord’s blood corruption aura blanketed the chamber with an oppressive pressure as he blurred into motion. He smashed into the Ravager, impaling it with his glaive and releasing an explosion of demonic blood and hungry black hellfire.
+
+“Come,” Ali commanded. The two void dragons waiting back in the larger tunnel teleported through the too-small doorway and appeared within the Landing in an explosion of vaporized stone and walls to unleash their breath attacks.
+
+Immediately, Ali noticed the damage reduction – it was visible in little flickers and flashes of domain magic that reinforced the giant monster. All her minions were doing substantially reduced damage, except the highest-level ones: the Pit Lord and the two void dragons. Her berserkers and ice mages were doing about half of what she would have normally expected, and her more recently evolved monsters, substantially less.
+
+It does seem related to class level, she thought, confirming Calen’s earlier deduction. But Calen, Malika, and her monsters were having an outsized effect. Malika especially. She was leaving slowly regenerating craters in the monster’s heavy, resilient hide.
+
+“Joraa, Bloodlust,” Ali commanded, and she turned to study her Pit Lord’s abilities, confirming a lot of what she had suspected. For one thing, its Cleave ability had a Mortal Wounds effect, similar to her Bone Champions, and it was immediately obvious in how it reduced the speed of the Fungaloth’s regeneration. Especially in combination with Kir’mogan’s axe strikes. The Pit Lord had no way to disable its Blood Corruption, but the corruption effect was being continuously dissolved by Mato’s potent Sanctuary aura, which was a huge weight off her shoulders.
+
+The most surprising discovery was that the corruption was a bloodline ability that had been inherited from the Demon God Destraggoth himself. She smiled as her Pit Lord’s gigantic overhead cleave landed again, crushing the Fungaloth and triggering Onslaught and Frenzy for the Pit Lord on critical damage. Paired with Bloodlust, her giant demon unleashed a literal hell on the Fungal Aberration, while her Eye of Agnor tore into it with continuous volleys of ice bolts, punctuated by loud cracking detonations of Chain Lightning.
+
+It didn’t take long before the raid group discovered they could be substantially more effective buffing her dragons or Pit Lord, and the Fungaloth’s health began to plummet as the synchronized, empowered attacks reached greater heights.
+
+Several minutes later, the chime sounded.
+
+Your group has defeated Fungaloth Ravager – Fungal Aberration – level 146 (Nature / Death).Greater Living Essence x2.Essence of Rot x11.Dungeon of Knowledge has reached level 143 (+2).+20 attribute points.Arcane Insight has reached level 80.Arcane Recall has reached level 42.Barrier has reached level 78.Empowered Summoner has reached level 66.Domain Mastery has reached level 45 (+2).Minion Teleport has reached level 39.Your Dagger Rogue has reached level 100 (+5).Your Dagger Rogue has met the requirements for class evolution.Your Acolyte of Azryet has reached level 100 (+2).Your Acolyte of Azryet has met the requirements for class evolution.
+
+As soon as the chime sounded, all resistance to her domain collapsed, and Ali surged through the Landing, claiming all the plants and mana for herself. With a simple teleport, she approached the corpse and deconstructed it.
+
+[Sage of Learning]Domain Magic analyzed: Attribute Enhancement (Endurance).Domain Magic analyzed: Stunning Rend.Domain Magic analyzed: Ascendant Resilience.
+
+Ali winced at the painful sensation of even more mana being shoved into her mana pool, the excess grounding itself nearby in spontaneous bolts of arcane energy that leaked from her body whenever she moved. All through the chamber, adventurers collapsed, flopping down to the ground to recover from their ordeal. But she had just learned two new domain magic skills.
+
+Stunning RendSource: Fungaloth RavagerStamina: Empower a Melee attack to inflict Stun and Armor Reduction. Duration: 30 seconds. Recharge: 1 minute. Skill – Domain Magic
+
+A martial ability? That’s unusual. She didn’t know if stamina-based martial abilities were rarer, but her collection seemed to favor spells and magic over melee or martial abilities. Getting a new powerful domain magic for her melee monsters was exciting. Got a lot of design work ahead with Calen, I guess… we need to think about this though. I can’t be so exposed next time.
+
+Ascendant ResilienceRequirements: Attribute Enhancement (Endurance)Source: Fungaloth RavagerAll damage taken is reduced by 2% per class level greater than the attacker. Skill – Domain Magic
+
+Well, that explains it. Calen’s shrewd insight had deduced the skill’s properties surprisingly accurately. All around the Landing, adventurers shot surreptitious glances at her, as if uncertain whether they could approach her or talk to her. Perhaps it was that she was the result of their long struggle, or, she realized, she had simply destroyed the corpse of their foe without a single word. Or perhaps it was the fearsome magical discharges that burst from her Mana Saturation every now and then.
+
+Ali answered by sharing the three Domain Magic skills she had just analyzed with the entire group, and the room filled with sudden murmurs and exclamations of surprise or recognition as they understood why their fight had been so impossible.
+
+Ascendant Resilience. It was a ridiculous ability for a guild stuck at the evolution boundary. Most of them would have been doing four percent of their damage or less, the boss being forty-six levels above their highest members.
+
+“Aliandra?”
+
+Ali glanced up to find Aiden approaching with an expression of nervous uncertainty on his face. She smiled up at him, hoping to ease his feelings, but a loud crack and an arcing bolt of golden arcane magic discharged into the ground beside her, startling them both.
+
+“Sorry, I’m suffering from Mana Saturation,” she said. “Consuming the dungeon’s domain is straining my mana pool, and the excess is bleeding off like that.” It was still rather painful, to be honest, even with all her training under Azryet’s tender care. Worse, with the consumption of the domain in the Landing, she had just cut off the domain connection for the other two wings, and her minions could hear the rush of monsters approaching as the bottom half of the Blooming Rot triggered a dungeon break.
+
+“Are you ok?” he asked.
+
+“Yes, I’ll be alright. Thank you for coming to rescue me. Calen said the way back to the shrine is mostly straightforward, so whenever everyone is recovered, I think reclaiming it should be our priority. I want to unlock those who have the least time left.”
+
+Ali’s words sent a visible ripple of relief and maybe a touch of overdue excitement through the attentive adventurer groups who were trying, rather unsuccessfully, to look like they were not eavesdropping.
+
+“Thank you,” Aiden said.
+
+“Thank you all for coming to rescue me,” Ali said, smiling around her.
+
+“Whatever, I was only in it for the levels,” someone quipped from the back of the room, only to be clouted across the earhole. “Oh, come on! Who doesn’t love blatant lies?”
+
+“I think some fungal rot got to your brain,” Aiden informed him. “Go hug that tree.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,151 @@
+---
+id: 7f506fa7-f8f5-526b-8138-e9e08e5c4f29
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-Five: Curses and Skills"
+slug: 0086-chapter-eighty-five-curses-and-skills
+partOf: flesh-eater-demon-evolution-litrpg
+position: 86
+ownLength: 2282
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3434647/chapter-eighty-five-curses-and-skills"
+royalRoadId: "3434647"
+---
+
+“It’s not going to bite you, you know,” Pyre said, amused.
+
+She, Callan, and Daphne sat—or floated, in Callan’s case—around the clearing. The sky was beginning to darken above them, golden rays filtering through the forest canopy. Daphne rummaged around her bag (according to her, she’d made a “quick stop” at the manor before following them, and she’d apparently grabbed damn near everything there while she was at it) while Pyre had returned to leaning against the tree trunk.
+
+Now, the demon sat eyeing the curled demon horn she’d placed in the center of the clearing. The jet black horn stuck out starkly against the green and yellow grasses, gleaming in the fading light like a polished stone. Callan had insisted on removing the curse as soon as possible, and he now floated next to it, staring at it in trepidation.
+
+“I know,” he muttered. “I just… I want to make sure I don’t mess this up.”
+
+“Eh, it’ll be fine. Worst thing that happens is it fails.”
+
+The ghost scowled. “That’s what I’m worried about.” He drifted closer, focusing. In a blink, his transparent form turned solid. Across the clearing, Daphne paused and glanced up from her rummaging, eyeing the two curiously.
+
+Slowly, Callan crouched down and picked up the horn.
+
+He frowned, squinting at the object like he was waiting for it to explode. When nothing happened, his shoulders relaxed slightly, and he stepped over to where Pyre was.
+
+“Okay, I just need to transfer the curse to this. It—I mean, it shouldn’t be too hard to do. The spell will naturally want to jump to its original caster. Or at least, that’s the theory anyway.”
+
+The demon nodded. “Cool. What am I supposed to do?”
+
+“Just stay there,” Callan said. He adjusted his grip on the horn. “Can I see the curse mark?”
+
+In response, Pyre re-absorbed the bone armor covering her torso. It was mostly cracked and already half-gone anyway.
+
+Below the bone, the dark, harsh lines of the curse mark bloomed outwards from the center of her chest like an inky web. The jagged lines reached her collarbone now, beginning to creep up her neck like crawling vines. Across the sanctum, Daphne sucked in a breath while Callan froze.
+
+“Did it spread more?” the ghost asked anxiously. The demon just shrugged.
+
+“Maybe.” If it had, it was during the wyvern fight. At that point she was already injured enough—and busy enough—that she wouldn’t have noticed it. It might explain some of the extra sluggishness she felt. Hopefully removing it would help her flesh regenerate faster.
+
+Callan nodded slowly. He crouched down and began drawing symbols on the ground with his finger. From what Pyre could tell, they looked like runes of some sort. He was creating a whole pattern of them around the demon.
+
+A minute into the ghost’s drawing, Daphne rose and joined them. She watched for a moment, then silently began adding to the growing sigil circle. Callan immediately frowned.
+
+“I thought you didn’t use runes,” he accused, eyes narrowing slightly. The other mage snorted.
+
+“I don’t. That doesn’t mean I don’t know them. That’s how I know they suck.”
+
+Callan made an affronted noise. “The seeds worked great!”
+
+“Yeah, and that was a very specific use case,” Daphne countered. Still seated against the tree, Pyre raised an eyebrow at them.
+
+“Don’t stop on my account,” she drawled, “but maybe keep drawing while you talk, yeah?”
+
+Callan’s jaw snapped shut, mid-formed argument dying in his throat. He quickly turned back to the sigil with another glance at the curse mark. The sight seemed to add to his urgency, and soon, with Daphne’s help, the rune circle was complete.
+
+Callan exhaled and sat back. He reached for the horn again, pausing for just a moment.
+
+“I don’t think this’ll hurt,” he began slowly, glancing at Pyre, “but—”
+
+“Kid, it’s fine. Go for it.”
+
+The ghost still looked a little hesitant, but he nodded. Taking a deep breath, he raised the horn, then placed his other hand palm-down on the rune circle. He closed his eyes and began chanting.
+
+Below, a green light flared to life on the sigil’s outer border. It began traveling down the etched lines, and soon, the entire rune circle was glowing the same soft hue. That light enclosed the seated demon, who watched the horn while the ghost continued chanting. So far, she didn’t feel any different. The curse mark remained stubbornly in place.
+
+Finally, once the light was bright enough to illuminate the small clearing, Callan opened his eyes again. In slow, careful movements, he moved the horn closer to the curse mark.
+
+It happened all at once.
+
+The jet black lines running across the demon’s chest flashed, and in an instant, they snapped onto the horn. A sudden burst of warmth flowed through Pyre, originating from where the curse mark had been, but the sensation faded quickly. There hadn’t been any pain at all. On the contrary, she felt noticeably better than before.
+
+The horn, on the other hand, was now covered in glowing lines coiling in the same pattern as the mark on Pyre’s chest had been. The demon had a second to wonder what would happen to the horn now, but she soon got her answer when its edges began to disintegrate.
+
+Callan jumped back, dropping the horn. It fell to the grass with a soft thud.
+
+The light from the rune circle faded, leaving just the horn vibrating ever so slightly on the ground. Its solid form rapidly turned to dust, the curse eating away at it until finally, all that was left was a pile of black ashes. Callan stared at it disbelievingly.
+
+He met Pyre’s gaze, both of them thinking the same thing. If that was how fast the curse worked on a “standard” magical object, then it was a good thing they’d removed it now and not later.
+
+Pyre settled back against the tree trunk, the mark now gone, body a little lighter than before.
+
+Good thing she’d put all those points into constitution.
+
+Pyre squinted at the string of notifications hovering in her vision. Across the clearing, she could hear Daphne and Callan talking. Or bickering. It sounded like an even mix of both.
+
+Above, the sky had fully darkened, and thin slivers of silver moonlight beamed down onto the grasses. The demon casually scanned the forest for signs of movement, but it didn’t seem like there was anyone around but them. Callan and Daphne were currently in the process of setting up wards or alarm spells—something in that general ballpark—which was probably where the bickering was from.
+
+Settling deeper against the tree (she was trying to stay as still as possible to get the most out of [Regeneration]’s sloth bonus), Pyre briefly noted all the traits that had leveled. She then opened the descriptions for the two titles she’d received.
+
+[Wyvern Killer], as its name suggested, was like [Chimera Killer] but for wyverns. If she ever fought a wyvern again, she’d deal more damage. Nice and simple.
+
+The next one was a little more interesting.
+
+Title: Flight AptitudeThe skies are an old friend of yours. You possess a deep familiarity with flying.You are able to collect and utilize [Volant] subtrait shards.
+
+Part of her had always suspected that certain subtraits had hidden prerequisites (besides needing a corresponding main trait), so it was nice to see it confirmed. She’d gotten a [Volant] shard from the wyvern, and she was 99% sure that it would allow her to actually fly once she’d collected enough.
+
+The question was if devouring random birds would be enough to get her more shards. If yes, then she would be flying by the end of the week, but it was entirely possible that only specific kinds of flying creatures would give [Volant] shards. Like, say, very large ones that probably shouldn’t be able to fly by the laws of physics. She was quite heavy herself, after all.
+
+She’d figure it out once she finished healing. For now, the demon focused on the first part of the title description.
+
+Pyre remembered feeling at ease in the air several times now. There was the Great Fall from Fred’s mountain, crossing the Pale River, the wyvern. This seemed to confirm that all those incidents weren’t just her imagination.
+
+Had her past self been able to fly? It would make sense with the title and weird deja vu, and now that she knew she was dealing with multiple reincarnations instead of just the Earth one, the idea wasn’t as far-fetched.
+
+The demon’s gaze shifted to the right. Her warped arm was still coiled around the soul piece, safely tucked away and out of sight. She could feel it pulsing below the flesh, a constant presence tugging at her chest. She’d decided to deal with it after going through her notifications first. She still had no idea what would happen after she absorbed it, after all—if she even could—so she was handling the familiar things first.
+
+That, and a part of her still didn’t know what to think of it. If the soul piece did return some of her scattered memories, did she even want to see them? Which life would they be for?
+
+The thought made something muted and unfamiliar churn in her chest, so she put it aside and returned to the notifications.
+
+Besides [Volant], she’d gotten four other subtrait shards from the wyvern, all of which had pretty self-explanatory names. She’d also received the last [Immutable] shard needed at some point during the battle against the monster horde, so she took the opportunity to apply it.
+
+Subtrait: ImmutableExcluding the system itself, user’s stats cannot be forcibly altered by outside means such as magic or skills.Main Trait: [Amorphous]
+
+Huh, interesting. Pyre hadn’t dealt with anything like this before, but it sounded like the subtrait was basically a guard against stat debuffs. “Forcibly” also suggested that she could still get buffs (assuming those existed) if she wanted. She figured it was probably a more niche ability, but if it ever did come up, she’d be grateful she had it.
+
+Subtrait shards handled, the demon moved on to the new class skill she’d received. She quickly scanned the three options.
+
+Class Skill: Basic Shield WallIf user activates this skill while raising a shield, ranged attacks that would hit allies within 5 feet of user deal damage to the shield instead. This skill lasts for a duration equal to the skill’s level x 1 minute. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 4 hours. Cooldown decreases with skill level.
+
+Class Skill: Basic DevotionAfter activating this skill, user can select one ally within 30 feet. For a duration equal to this skill’s level x 1 minute, any attacks made in defense of the chosen ally deal more damage. If user blocks a blow directed to the chosen ally during this duration, the attack deals less damage. The percentage increase in damage dealt and damage reduction scales with level.Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 8 hours. Cooldown decreases with skill level.
+
+Class Skill: Basic SmiteAfter activating this skill, user can select one target within 30 feet. For a duration equal to this skill’s level x 1 minute, attacks made against the chosen target deal more damage. The percentage increase in damage scales with level.Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 4 hours. Cooldown decreases with skill level.
+
+Well, her class skills were certainly getting more “knightly” sounding.
+
+The first option was interesting, but it did make her wonder how exactly the system defined “shield.” Would her bone shields count? They did the same thing, they just happened to be physically attached to her.
+
+Even assuming her bone shields worked with the skill, [Shield Wall] still didn’t hold much appeal to her. The fact that she could freely grow bones meant that she could just extend a bone shield if needed. The ability would probably be quite useful for a human using a separate, physical shield, but for her, it didn’t add much.
+
+Moving on, Pyre studied the descriptions for [Devotion] and [Smite]. The fights against the empire mage and the wyvern had made it quite clear to her that she should probably have a proper damage-dealing skill. The closest she had right now was the second effect of [Impact Absorption], and she’d rather not have to get her arm blown up every time to deal more damage.
+
+Between the two options, [Devotion] had more effects, but a longer cooldown and the “protect an ally” requirement. Once again, Pyre had no idea how the system decided if she was protecting an ally or not. Intentions? Some sort of mathematical formula? It sounded more complicated than she wanted to deal with. She’d rather take a skill with less stipulations. [Smite] was simple, but reliable.
+
+Plus, the irony of a demon smiting things was quite amusing to her.
+
+Mind set, Pyre selected [Smite]. A wave of warmth washed over her, the skill settling into place.
+
+Now that that was done, she moved on to distributing the 75 points she’d gotten. 5 levels at once was a lot, but that wyvern had been a Tier 2 creature, she was pretty sure. It made sense that it would give a shit ton of experience.
+
+The demon put 30 points into constitution, another 30 in magic resistance, then the last 15 in strength. More smaller bursts of warmth flowed through her. Her vision looked significantly clearer with most of the notifications gone.
+
+Now, a single one remained.
+
+[Evolution Quest: Second Evolution completed!][Would you like to accept rewards?]

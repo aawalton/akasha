@@ -1,0 +1,199 @@
+---
+id: aba44afe-e71a-5925-8c67-bb2f185f8d26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 519: Galdrone Tetrad"
+slug: 0559-chapter-519-galdrone-tetrad
+partOf: dungeon-of-knowledge-complete
+position: 559
+ownLength: 3725
+unit: words
+ownProgress: 3725
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2984500/chapter-519-galdrone-tetrad"
+royalRoadId: "2984500"
+markedReadAt: "2026-06-29T20:31:19.257Z"
+---
+
+Ali sat perched high up on a creaking branch broader than her entire body as the Malevolent Lirasian Oak slowly lumbered closer and closer to the melee brawl. From her clear vantage point, she studied the magic of the domain and the shifting elementals relentlessly, using every perception skill at her disposal, not simply content to rely on their plan – after all, who knew what surprises the boss had in store for them?
+
+Mana flared, and five Arcane Blasts ripped through the tanks, causing the healers to scramble for cover amidst their precipitous drops in health.
+
+“Not close enough,” she thought, urging the ponderous Treant onward.
+
+Mana surged again, domain mana this time, and a flight of Theuronic Shards darkened the skies, flickering with purple energy like lightning in a heavy cloud. A storm of arcane bolts rained down upon them, a storm so dense that the ground was constantly lit by an unhealthy purple glow.
+
+“Fire,” she commanded.
+
+“Fire,” Lyeneru said, inadvertently putting words to her mental voice.
+
+A soft swishing noise filled the branches as dark, blackened bolts of rot shot upward and outward from the Ancient Treant, filling the sky with an inverted rain of magic. Hundreds of rot bolts soared from each of her trees. Then, the air was filled with crackling sparks and insidious whispers as her archers raised their various bows to the sky, filling it with arrows of nature, death, and lightning.
+
+“Seth?” she called.
+
+“On it,” he said, pointing the Rod of Curse Proliferation at her treant and casting. The instant the rot bolts struck, a veritable bouquet of curses blossomed across the skies, proliferating through the flight of elementals like a windstorm through a field of cherry blossoms.
+
+Bursts of death and lightning ripped through the cloud, accompanied by the much more varied magic of the raid, and moments later, shattered elemental shards began falling from the sky like fading purple hailstones.
+
+A sudden detonation of arcane mana yanked her attention to the tank group, and to her immense surprise, she found one of the Galdrone Tetrads teleporting onto one of her blood shamans, flinging Mato into the air like Calen flipping a coin.
+
+“It can teleport!” she shouted, attracting the attention of Lyeneru, their raid leader.
+
+“Archers and mages, pull back to maximum range,” she commanded immediately, speaking clearly with the aid of a skill that carried her voice over the chaotic din.
+
+A surge of dark and twisted nature magic pulsed within her treant, and the Blood Shaman, being beaten into the ground by the champion boss, flickered with a synchronous flare of the same mana, and suddenly her health reached full.
+
+“You can stop here,” she told the immense oak. Close enough to heal the tanks was a perfect range, even if it meant her trees couldn’t shoot the bosses due to the minimum range limit on the Rot Bolt skill. But their purpose in this fight was to clear the skies and heal – the rest of the raid could take care of the boss.
+
+Mana flared like a lighthouse wheeling to point in her direction. “Beams!” Ali shouted, but the devastating Arcane Beam attack was so quick to cast that the purple beams were already raking the raid by the time she had finished the word. She summoned her barrier reflexively but still dodged back behind the trunk as two of the beams seared across the Treant, burning bark, wood, and severing branches right through her barrier spell.
+
+It reacted by healing itself, sprouting fresh bark over the wounded wood, and regrowing the lost branches in seconds with the grating creaks of wood stretching and twisting. What it missed with its potent healing spell was rapidly taken care of by the continuous aura of plant restoration it projected from itself and into the nearby Sylvans.
+
+Such a robust choice for this fight, she decided, absently patting the branch beside her.
+
+Again, the domain mana flickered and pulsed in the formation of summoning, and this time, the ground crawled as thousands of glowing, purple, spider-like elementals erupted from the center of the mana surge and spilled outward, a living swarm that covered the corrupted ground like a writhing carpet.
+
+While this summon was new, her treants and archers simply redirected their attacks downward, raking across the swarm with a wave of retaliatory magic, arrows, and a sudden surge of roots that erupted from the ground to tangle and crush.
+
+This is going well, she thought, but she didn’t let her guard down. If the timing went like it had the last time, the Mana Short should be coming any moment now. Calen, it seemed, had exactly the same thought, turning and catching her eyes briefly.
+
+She studied the mana flows carefully, watching for any changes while she allowed her minions to take care of the swarm.
+
+There!
+
+“Mana Short!” she shouted at the first sign of the vast domain magic formation rippling through the boss and outward into the surroundings. Before it hit, she reached into her storage ring, manifesting a mana potion in her hand, and she downed it, an action echoed across the entire raid.
+
+The potion ticked only once before the vast arcane spell ripped through the raid, stripping them of every last shred of free mana. All that precious mana flowed away, sucked out of the adventurers to be drawn spiraling down the drain of hungry elementals, feeding their insatiable appetite for mana.
+
+The potion ticked again, and then Mana Insufficiency punished her for having too little mana remaining, sharp needles of arcane pain that tore at her health and her mana. Across the entire raid, everyone took damage from the devastating aura, but her blood shamans needed no mana, and the crimson ribbons of Blood Siphon flickered across the raid, healing everything except her plant monsters.
+
+This had better work, she thought, sending her will to each of the treants. Fortunately, Compost was a stamina-based skill; otherwise, this entire plan would have died before it had even hatched. Black roots erupted throughout the corrupted earth, twisting and stabbing hungrily, searching for food. And they found it. Already littered with hundreds of elemental corpses, the ground writhed as the roots fed, draining the corpses and turning the remains into mulch. Mana surged through her as the treants began sharing their bounty, and simultaneously, the rot-bolt storm rekindled.
+
+Ali held her breath for a few seconds longer, but once the treants had restored enough mana for their rot bolts, they filled up in seconds, leeching mana across the entire swarm of hostile elementals. And to her intense relief, their mana transfer was nearly as efficient as Malika’s Second Wind, rippling out across the raid’s mana users, a cascade of vital energy that rapidly stemmed the oppressive, even crushing damage of Mana Insufficiency. She breathed out a deep sigh and summoned several barriers, placing them around the melee to protect them from Arcane Blasts and suck up any additional mana she might siphon from their spells.
+
+Right. Disaster averted… what’s next?
+
+Calen didn’t even need to ask; he could see Ali’s visible sigh of relief. That and the obvious sign of all the healers and mages resuming their spells told him that the treant mana battery combination had worked. It hadn’t affected him in the slightest. A single mundane bolt with only stamina-based enhancements had restored enough mana for him to fire a full volley, and against the sheer number of spawns, he had filled his mana pool with a single explosive blast as his leech enchantments procced on hundreds of hits.
+
+Against these elementals, he didn’t even have to worry about Death’s Grasp summoning zombies from the corpses of the dead. Although with Seth in the group, he likely wouldn’t have needed to care.
+
+He scanned the battlefield, firing unceasingly, until his eyes caught sight of one of the short, squat arcane magic stumps – pylons, Ali had called them – beginning to glitter with an infusion of mana. Immediately, he released two decoys, activating Eclipse and switching bows to the nature-affinity Scourge.
+
+A shimmering form materialized above the arcane pylon, shrouded in ominously translucent black, tattered robes that rippled and swayed upon an unfelt breeze. He aimed, charging Power Shot, and waited. Two seconds later, a pair of synchronized mana-filled daggers struck from shifting shadows, sinking deep into the incorporeal body of the Banshee. The power of the Ambush strikes from the suddenly revealed Assassins was obvious from the chilling scream and the shimmering ectoplasmic spray suddenly gushing into the air.
+
+“Fuck, that wasn’t enough to kill it?” Devan cursed.
+
+Calen released his arrow, enchanting light damage and explosive shot, his most potent combination, paired with Power Shot and Ambush.
+
+His arrow struck with its fullest, most devastating force at precisely the same instant three other Pathfinder arrows landed, and the Banshee imploded inward on itself as their combined magic ripped it to shreds. With a mournful wail, it vanished, leaving only ribbons of a drifting glow to float away on the breeze.
+
+You have gained Onslaught.
+
+Instantly, Calen unleashed his most powerful Power Shot into the skies, virtually emptying his stamina. His volley tore great swathes of the summoned monsters out of the sky in a rippling cascade of explosions, and then, with a tiny infusion of mana, he switched to his Howling Hellfire bow, refilling the stamina he had used to fuel Power Shot, and then swapped back to Death’s Grasp and resumed his assault.
+
+Ok, time to get serious.
+
+Malika had no mana, but she didn’t care. The monster of glowing purple and gleaming, polished surfaces had no stamina.
+
+Now, that had gotten her seriously worried.
+
+It wasn’t that the elemental was out of stamina, she could tell; it literally had none. Not a shred of stamina energy flickered through its being, only life and mana. Without the benefit of her mana regeneration, she had been hoping to supplement her stamina by weaving in a few stamina-draining punches every so often, but the first use of her skill had utterly failed against this elemental.
+
+Now, however, it remained mostly a curiosity for her. How can a monster even function without stamina? She could steal mana from it whenever she wanted, but the trees kept feeding her so much, she preferred to simply turn it all into more damage and continuous healing.
+
+She dodged a whirling sphere of arcane energy and then dodged the follow-up Arcane Blast, tapping Sabri with a quick heal from beyond arm’s length to top her up as she unleashed another flurry of punches and kicks.
+
+“Five percent,” Malika called out. As she spoke, the monster surrounded itself with a dense shield of arcane mana, but it was far from impenetrable, at least to her. She unleashed the basic version of the second form, her fists smacking into the seamless sphere of magic while her Soul Strike burst right through with barely visible bolts of soft blue-white energy to savage the monster within. She pulsed another area heal, channeled through herself and outward to cover the berserkers, but she had been careful to time it to allow them to land their rage-empowered strikes first before restoring their health to marginally safer levels. Managing their rage with her healing had gotten far more reliable the moment she learned to see health.
+
+She punched it again, and this time, the barrier shattered under the combined onslaught of the entire raid. A huge, berserker-powered, rune-covered ice-axe struck the surface of a cube, and with a crack loud enough to jolt her entire body, a fracture line appeared deep inside the crystalline structure. Like a flaw or inclusion in a gem. She drew back her fist, pouring an obscene amount of excess stamina into her attack. Her fist – her entire arm – shimmered and nine simultaneous afterimages punched, each landing precisely along the sudden crack, each delivering a deadly payload of soul magic damage. Pain so strong her endurance failed to fully mitigate it blossomed through her fist and up along the bones in her arm at the sheer power of her stamina-overloaded strike. Each of nine punches released a similarly overloaded Soul Strike, further enhanced by the soul vulnerability of her stacked Soul Mark curse. Blue light detonated within, and the crack spread, a sudden webbing of fracture lines, marring the previously pristine surface of the elemental. And then, it shattered, falling to the ground with a musical tinkling, like the shards of a broken vase.
+
+Four more to go, she thought, absently healing her shattered and bleeding arm before shaking it out. Ouch. How did Master Rezan do it?
+
+Four dense, glittering barriers of arcane magic popped into existence, shielding the remaining clones while mana surged within. Ali screamed in the distance, but she already knew what her Fae friend was saying. Malika unleashed a kick, powered with Soul Strike, that flashed through the barrier and the glowing oversized cubes orbiting within, interrupting one of the attempts to respawn the fallen clone. Immediately, the spell restarted, and she knew that the real battle was just beginning.
+
+“Disrupt the respawn!” Ali screamed, urgency driving the intensity in her mental voice. The frostweave-clad troll ice mages, wielders of their Spectral Ice and piercing frost, turned their ice bolts upon the four remaining Galdrone Tetrads sequestered behind their glittering, impenetrable spherical barriers. The magic formation of the Clone respawn spell grew rapidly, assembled safely under their heavy defensive magic. Ali was unable to disrupt the powerful domain magic, but she could do something about the barriers themselves.
+
+But as she summoned her arcane formation to dismantle a barrier, a discordant resonance pulsed through the aura around her.
+
+Your Arcane Insight has been Disrupted.Your Arcane Insight has gained +34 seconds Recharge.
+
+It had taken an exorbitant amount of mana to even cast her spell, and to her dismay, she could only watch as it was all wrenched right out of her grasp to float away, borne upon the resonance that defeated her magic. Similar disruption notifications chimed in the awareness of each of her three troll ice mages.
+
+“Fuck! I’m disrupted!” she shouted.
+
+“I got you covered, Ali,” Calen said, his calm voice somehow quieting her anxiety. With uncanny haste, his focus shifted, and a fan of shining arrows appeared, instantly stretching into long lines of pure light as they pierced the barriers faster than she could even track.
+
+Instantaneous arrows? But Ali recalled Calen mentioning an advancement like that. She had just not noticed it before.
+
+The arrows of light, moving so fast they resembled pulsed beams, pierced clean through the barrier magic, detonating within, and filling the protective containment with a roiling explosion of death and light magic that shredded the respawn formation instantly. But as the painfully luminous radiance of his explosions faded, the formations restarted.
+
+“Again!” she shouted. But Calen really didn’t need her guidance, already firing another round, his focus complete. One of the formations exploded as a blast of soul magic pierced the barrier, and then another as one of the guild mages burned right through the transparent barrier with a searing beam of pure light.
+
+Then, Ali witnessed a virtuoso feat of pure brilliance. Seth raised his black, obsidian rod and cast Curse Proliferation on Calen, and when the half-elf drew back his bowstring, he had created one extra arrow, anticipating Seth’s next move without a word passing between them. The black, twisted formation of a death magic curse appeared upon a passing Theuronic Shard, and Calen unleashed his instant arrows in perfect concert.
+
+Five beams pierced the four boss clones, with the last one scoring a bullseye upon the small glittering swarm-elemental right as it passed through the center of the tanking formation. Upon the instant of striking, a dark cloud of twisted death magic erupted as curses animated under the power of the proliferation, seeming to take a life of their own. Death’s Grasp, Agony, Vampiric Hex, Mana Tap, Life Tap, and several other curses all spread across each of the clones, ignoring the barriers.
+
+“Smuggled all the curses in,” Seth said, his excitement making his normally quiet voice carry clearly. The respawn magic had no chance now, with every damage curse they could muster interrupting the delicate spell on every pulse.
+
+“Good work,” Lyeneru called over, her arrows flying ceaselessly into the fray.
+
+Ali finally began to relax only after her berserkers shattered the first barrier with their ground-shaking strikes, and still the raid hadn’t allowed even a single respawn to complete.
+
+“The barrier is down on Havok’s target,” Lyeneru announced. “Kill that one next.”
+
+A flare of domain mana alerted her to the summoning a few moments before the purple glowing cloud took to the air, bearing yet another novel form of swarm-elemental.
+
+I’m going to have so many presents for Gage when we get back, Ali thought. Her trees immediately filled the sky with bolts of rot magic, but something did not feel quite right. She puzzled over it for a few moments.
+
+“Is this swarm smaller than the last one?” she asked.
+
+Calen’s eyes flicked over to her briefly and then scanned the flying swarm. “Yes, about twenty percent smaller…”
+
+Oh, she thought as they both had simultaneous realizations. One fewer clone. One less clone using domain skills meant one-fifth fewer monsters spawned. In her defense, they had been consistently using that magic simultaneously, and she simply hadn’t noticed that it had been five separate skills. Also, Seth’s brilliant maneuver had refreshed all the Interrupted Casting curses, which would again lower the boss’s damage output.
+
+The Arcane Blasts ripped through the melee once more, again only four this time. And then sixteen Arcane Ray beams sliced through the raid instead of the normal twenty. This is a lot easier, she thought. Presumably Mana Short would come slower, too – or be less powerful. And maybe one fewer Disrupt…
+
+Ali spent most of her energy coordinating her trees and her archers as they destroyed the flying swarm while she summoned barriers rapidly to block the bombardment of strange spherical arcane resonation bombs that this swarm dropped. The cost per barrier was unreasonable, but she was growing far more comfortable with relying on the treants to supply her with mana.
+
+“If it gets easier as they die, shouldn’t we spend our expensive recharges now?” Ali asked. This comment got the immediate attention of both Lyeneru and Calen.
+
+“After the next Mana Short,” Lyeneru answered.
+
+“Should be soon,” Calen said.
+
+Ali nodded, but neither of them was looking at her anymore, so she focused on the domain mana, waiting for the signal, using a large chunk of her attention to manage her barriers, her demons’ curse placements, and the timing of attacks.
+
+But the Mana Short did not materialize through several cycles of summoning, arcane blasts, and the devastating beams. Perhaps they’d gotten lucky and Interrupted Casting had prevented it, but finally, she saw it.
+
+“Mana Short!”
+
+Ali downed her mana potion hastily as the aura vibrated with energy. Mana vanished into the powerful elementals, instantly filling them to capacity, and the dense barrier spheres popped into place, freeing all four elementals to cast their clone respawn.
+
+“Compost now,” Ali ordered, and her trees radiated hunger and excitement, growing their dark roots with disturbing speed to devour the wealth of corpses. Making an executive choice, she directed the mana restoration to prioritize her ice mages and herself with enough to cast, relying on her blood shamans to heal the raid for a moment while the other healers were dry.
+
+“Ice bolts,” she instructed, readying her Dismantle and directing the mana battery trees to refuel the healers. All three trolls failed to cast their Ice Bolt skill as the aura magic vibrated discordantly.
+
+“Frost Nova,” she said, directing her will to a single mage.
+
+“Yes, Seeker,” he answered, drawing from his small remaining pool of mana, but the aura vibrated yet again, disrupting his magic.
+
+Four, she thought, a grin coming to her face, and she unleashed her Dismantle.
+
+Golden darts shot across the gap, shredding the purple shield protecting Havok’s clone as her magic fried the very structure of the barrier.
+
+Got you.
+
+“Bloodlust!” Lyeneru said, calmly.
+
+Perfect, Ali thought, letting Joraa take care of the potent blood magic spell this time. Gara was their usual go-to for the buff, but Joraa was at a higher level. While Bloodlust was a skill she had first introduced to the guild, it had rapidly come to be their codeword for the raid to go all out, regardless of what spells or potions they might have. While there were exceptions, most magic bonuses stacked together and were almost always worth using simultaneously. If someone made her berserkers faster, she should make them stronger so that they could get more uses out of their power.
+
+Across the entire raid, potions were downed, talismans shredded, and long recharge skills cast. Blood magic swirled around the melee; crowns of grim power that made their eyes shine red and increased their power immensely. Calen ignited like a sun, burning his Righteous Fury to spread light-affinity damage enhancements to all attackers in the raid. Teagan boosted the mages and healers as the pattern rippled out across the entire group – a chaotic explosion of colorful magic power.
+
+“Keep composting, and feed me,” she told her treant, and then she dumped her mana into Empowered Summoner, dramatically boosting the nature damage of her Sylvans and treants and granting more arcane and nature on hit to all her minions. She channeled her mana relentlessly, burning deep into her mana pool, even to the point of taking the Mana Insufficiency damage. But her treant gamely kept her alive, its healing power skyrocketing under the influence of the power she gifted it.
+
+The raid’s ridiculous power faded after a short thirty seconds, but in that time, they had wiped out eighty percent of the Galdrone Tetrad’s life. And with the onslaught of ice and blood from her powerful berserkers, and the still considerable damage from the rest of the guild, the second clone shattered, collapsing to the ground in a pile of shards that slowly faded to darkness.
+
+Another twenty percent easier. Right, mop up time. Keep sharp, Ali. Now’s not the time to miss anything.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

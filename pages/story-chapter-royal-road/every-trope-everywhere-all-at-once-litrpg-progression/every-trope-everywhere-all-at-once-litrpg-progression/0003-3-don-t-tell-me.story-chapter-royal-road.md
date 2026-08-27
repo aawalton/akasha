@@ -1,0 +1,413 @@
+---
+id: 473f21b8-5e7d-5861-88a8-a3dd4e158383
+page-type-slug: story-chapter-royal-road
+title: "3 - Don’t tell me…"
+slug: 0003-3-don-t-tell-me
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 3
+ownLength: 2239
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387587/3-dont-tell-me"
+royalRoadId: "3387587"
+---
+
+[TROPE INITIATED: THE BOSS WAS PROTECTING SOMETHING WORSE]
+
+Completion criteria: Attain what the boss was protecting.
+
+“No,” I stumbled back. “Nonononono!”
+
+Reina gave me a funny look, and our new horse—Roach—neighed, circling behind me and nudging me toward the sapling.
+
+“No! Stop! Bad horse! Bad!”
+
+Reina laughed, pointing at me as tears fell from her eyes.
+
+“Allene, calm down! It’s just a sapling!” she said, walking towards it.
+
+“Yeah—a sapling that’s going to get us killed!”
+
+“Huh? Stop messing around.”
+
+I gulped. My gaze never left the sapling for even a second.
+
+I could sense it. The evil from it. The demonic energy from it. That System message… that trope… it even said that the sapling was worse than the boss before it.
+
+I squinted, watching it more closely. The grass around it seemed darker than the rest.
+
+Was I just imagining it?
+
+“Okay,” I whispered to myself. “The moment that thing grows legs and starts running after me, I’m dumping all my points into Vitality and Strength…”
+
+I gripped the Tree Sentinel’s Spear tightly, preparing a stance.
+
+Phase two.
+
+This must’ve been the boss’s second phase.
+
+“Allene, look!”
+
+My jaw dropped.
+
+She… she held the sapling in her hand. She had pulled it from the earth, and now all of its demonic energy was flowing through the air.
+
+We’re screwed. Reina had just cursed us for eternity!
+
+[TROPE COMPLETED: THE BOSS WAS PROTECTING SOMETHING WORSE]
+
+[REWARD: Pending…]
+
+…
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE FIRST BOSS THAT SHOULD’VE KILLED YOU (COMPLETED)
+
+- COMPANION SACRIFICES THEMSELVES FOR YOUR ESCAPE (SUBVERTED)
+
+- THE BOSS WAS PROTECTING SOMETHING WORSE (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL ACQUIRED: SENTINEL’S MOMENTUM]
+
+Type: Passive
+
+Effect:
+
+- Increased damage and impact while moving on horseback
+
+I fell onto my knee. The devastation was too great for me to care about a new skill.
+
+“Reina… why…?” I muttered. “Why have you done this to me? I knew it! You’re here to sabotage my adventure! You’re here to get me killed!”
+
+She tilted her head. “Huh? Anyway…” She flipped the sapling in every direction, brushing off the dirt and pouring water over it to clean it further. After a final pat-down, she opened her bag and put it inside.
+
+“...What are you doing?” I asked.
+
+“Taking it with us to the Adventurer’s Guild. It’ll net us a pretty good amount of money!”
+
+“Huh?”
+
+She walked over to me.
+
+“Don’t you know?” she asked. “Those saplings are special. Tree Sentinels guard them for a reason—once they grow, the land around them changes. Stuff like golden carrots starts popping up.”
+
+I blinked, looking at her backpack. It was still there. That feeling… that dark energy…
+
+“Are you sure…?” I asked.
+
+“...Yes? C’mon, everyone knows that, unless you’re from another world or something.”
+
+…
+
+“Hah… yeah, you’re right,” I said.
+
+Seeing that we were still alive, maybe we were safe from the curse… for now.
+
+I looked at the spear in my hand, wondering what to do with it. Based on everything I’ve seen so far in this world, it wouldn’t be too crazy to ask for some kind of inventory system, right?
+
+…
+
+Right?
+
+[TROPE INITIATED: INVENTORY SYSTEM]
+
+Description: The greatest protagonists always retrieve their weapons from one of two places: their inventory or directly out of their ass.
+
+Completion criteria: Upgrade it so that it has infinite space.
+
+Ah. There we go.
+
+So I did have an inventory after all. And not just that, but I could also upgrade it? How do I do that?
+
+I was expecting another System message to answer me, but it never did.
+
+I muttered [INVENTORY] under my breath. A tiny dark ripple appeared in the air. A pocket void.
+
+Reina stared at me blankly.
+
+“You’re a mage?!” she let out.
+
+I put the spear in the void, and the moment I took my hand out, the void disappeared, keeping the spear within it.
+
+“I guess so,” I said. “What’s with that look on your face?”
+
+“I’ve never seen that spell before! What is that?”
+
+“An inventory…?” I said. “Is that not normal?”
+
+She blinked and scratched her head.
+
+“Actually, I don’t even know. I’ve never been very knowledgeable with magic.”
+
+…
+
+Just like that, her excitement died. Either this was a spell no one had ever seen before, or she was too dumb to realize what it was.
+
+The two of us climbed onto Roach again and continued toward the castle. Hopefully, this time he doesn’t suddenly stop and send us flying again.
+
+***
+
+We finally arrived in front of Lyndale Castle.
+
+The stone walls were tall, and guards were posted on either side. Foot traffic was heavy, with carts and all sorts of people flowing in and out. There weren’t just humans. There were also elves, dwarves, orcs, lizardmen, giants, fairies—pretty much everything you would expect from a world like this.
+
+The System was right. This world was generic.
+
+“Huh…” I muttered. “Are those… catgirls?”
+
+Reina—sitting behind me—glanced over at the group of catgirls hanging by the front. “Oh, them? You mean Beastfolks?”
+
+“No, I mean catgirls.”
+
+“Why do you call them that?”
+
+“...Never mind.”
+
+Before we could head through the gates, we were stopped by a guard stationed slightly further away from the others.
+
+“Halt,” he said. “No mounts inside unless permitted.”
+
+He pointed at a stable area along the walls.
+
+“Take your horse over there before you try to enter.”
+
+And so we did just that.
+
+When we neared the stable, a few attendants stepped forward, already reaching for Roach’s reins like they’d done this a billion times before.
+
+“We’ll take care of him from here,” one said.
+
+Roach snorted and leaned away from them.
+
+“Calm, Roach. It’ll be alright,” I said.
+
+He began thrashing around.
+
+“Hey, hey, calm down, boy,” I muttered, patting the side of his neck.
+
+But the thrashing continued every time somebody tried to touch him. What the hell was he doing? It wasn’t like we were handing him over to some executioners or something.
+
+I leaned into his ear, whispering, “If you behave, I might give you another carrot.”
+
+His ears perked, and he settled down almost immediately. I handed him over. Roach let out two neighs—the first sounded as if he’d never see me again, and the second sounded like, “You better give me that carrot, or I’ll kick you in the stomach with my mighty legs.”
+
+I sighed. Reina and I turned, heading for the gates.
+
+“Wait a minute,” one of the attendees said. She didn’t look fully human nor fully elf. Maybe a bit of both?
+
+We turned back.
+
+“Hm?” Reina mumbled.
+
+“This horse… He’s from a Tree Sentinel, isn’t he?”
+
+Hearing that, everyone nearby gasped.
+
+I looked at Reina. Were we supposed to keep it a secret?
+
+“Uhh…” I began. “How can you tell?”
+
+The woman pointed at the side of his body. I squinted, leaning in.
+
+There was literally nothing there.
+
+“Huh?” I let out.
+
+“This strand of green hair! It’s the signature mark of a Tree Sentinel’s horse!”
+
+I squinted even harder, which only made everything blur—though I did start to see it.
+
+Reina shrugged. Looks like even she didn’t know about it. This was one of those obscure pieces of knowledge that only people who were oddly fascinated with horses knew about.
+
+“How did the two of you manage to tame such a thing?” the woman asked. “No… not just that—you must’ve killed a Tree Sentinel! How did you do it? The two of you don’t look particularly strong.”
+
+I ignored the back-handed compliment and flexed my non-existent biceps.
+
+“Just the usual,” I said. “Beat it up like any other monster.”
+
+The woman looked down at me. I didn’t notice until now, but she was almost half a body taller than me. In fact, pretty much everyone looked down on me in this world.
+
+I hate this body.
+
+Roach neighed. The woman leaned in to him.
+
+“Say that again?”
+
+He neighed again.
+
+She looked back at me.
+
+“Are you sure?”
+
+Roach nodded. That damn horse nodded like it was a human. Why did it look like the two of them understood each other completely fine?
+
+[TROPE COMPLETED: ANIMAL WHISPERER]
+
+[SKILL ACQUIRED: UNDERSTANDING ROACH]
+
+Type: Passive
+
+Effects:
+
+- You can understand Roach… selectively
+
+- Usually only works when Roach cusses you out
+
+- Works for no other horse besides Roach
+
+I looked at him.
+
+“Hey, Allene. Hurry your *** up, or I’ll make you **** my ****!” he neighed.
+
+Yeah. I’ll have to censor those words out.
+
+I shook my head. That has got to be one of the most useless abilities ever.
+
+“What’s he saying?” Reina asked, as if it was completely normal for the woman to understand the horse's language.
+
+“Oh—he’s just cussing Allene out,” the half-elf said.
+
+Damn. So she really could understand him.
+
+“He also says you killed the Tree Sentinel,” she continued. “He was devastated at first… until you gave him a golden carrot. Now he’s loyal for life—at least until someone brings more carrots.”
+
+The woman began to put Roach away, bringing him to the other horses. He let out a final neigh.
+
+The woman translated, “He says you'd better give him the carrot you promised earlier, or he’ll kick you in the stomach with his mighty legs.”
+
+“Yeah… I already know that,” I said.
+
+“You could understand him?”
+
+“No… just a feeling.”
+
+Reina and I continued, heading through the gates. The damn horse had much more of a personality than I expected. Maybe it was a blessing that I couldn’t fully understand him. I guess with that new ability, I could hear him cussing me out.
+
+Stationed at the gates were several guards, each carrying orbs that faintly flashed blue whenever somebody passed through. But when Reina and I tried to enter through…
+
+There was a red flash.
+
+“Halt!” one of them shouted.
+
+Uh oh.
+
+[TROPE INITIATED: STOPPED AT THE CITY GATES]
+
+Completion criteria: Gain entry through legitimate or illegitimate means.
+
+Several other guards surrounded us, leaving us no room to run. Not that I was even considering that, anyway.
+
+“No citizenship and no permit, huh? Now what exactly were the two of you thinking, trying to head on through like you had business here?” a guard asked.
+
+Reina and I exchanged glances.
+
+“Actually, we’re here to sign up with the Adventurer’s Guild,” Reina said. “I came from a small village not too far from here, while she—”
+
+She looked at me, running out of excuses.
+
+“I came from an even smaller village,” I quickly said.
+
+While the rest of the guards were clad in steel armor from head to toe, the one talking to us had his helmet off. Probably their leader.
+
+“Small village, huh? That’s quite the humble background. And what made you choose the Lyndale Kingdom?”
+
+I froze.
+
+That was… a good question.
+
+“Uh,” I said, trying to buy time. “Tourism?”
+
+Reina shot me a look. The guard stared at me.
+
+“...Tourism?” he repeated.
+
+“Yeah,” I nodded. “You know. Sightseeing. Culture. Walls. I’m actually a big fan of walls.”
+
+“Every castle has walls.”
+
+“...Ah.”
+
+There was a moment of silence. I noticed the other guards tightening their grip on their weapons.
+
+Okay. So things were clearly not going so well. I must’ve chosen all the wrong dialogue options.
+
+Reina stepped forward. “What she means is—Lyndale has one of the most active Adventurers’ Guilds in the region. That’s why we came to register!”
+
+The guard stared at us for a moment too long.
+
+Then, his gaze moved to Reina’s bag.
+
+My stomach dropped.
+
+The sapling.
+
+I noticed the orb in his hand flickering. Not blue, not red.
+
+A darker color.
+
+“You two,” he began. “You’re not carrying anything… unusual, are you?”
+
+I smiled.
+
+“Uh… define unusual?”
+
+Reina gave me another look.
+
+“Nope!” she said. “Just supplies.”
+
+There was another pause. Much, much longer than the last one.
+
+“And what are your names?” he asked.
+
+“Reina Lonegrip,” she said.
+
+“And you?” He turned to me.
+
+“Allene,” I said.
+
+“I’ll need more than just a first name. What’s your surname?”
+
+Surname… I didn’t have one, did I?
+
+“Allene Trope,” I said.
+
+…Wait.
+
+Why the hell did I just say that?
+
+The guard exhaled, turning to one of the others. “Process them for temporary entry. Reason being: guild applicants.”
+
+“Yes, sir.”
+
+Just like that, the guards parted away, returning to their stations. Moments later, they nodded to us, motioning for us to go in.
+
+We let out a sigh of relief as we passed through the gates. I glanced at the orb in one of the guard’s hands, and sure enough, it flashed blue, just like it did for the rest of the people entering through.
+
+[TROPE COMPLETED: STOPPED AT THE CITY GATES]
+
+[REWARD: TEMPORARY ENTRY STATUS TO LYNDALE]
+
+Before we moved on, Reina pulled me aside and started lecturing me about all the horrible decisions I had made back there, though in a much nicer, more Reina-like way than I deserved.
+
+Translating her five-minute lecture, she basically said:
+
+“Shut up next time, or you’ll screw things up for both of us.”
+
+I kept apologizing as we made our way to the Adventurer’s Guild.
+
+As we stepped through the castle, a man ran up to me with flowers.
+
+He dropped to one knee.
+
+I just stared at him, blinking slowly… emphasizing each blink.
+
+Oh no.
+
+Don’t tell me…
+
+[TROPE INITIATED: LOVE AT FIRST SIGHT]
+
+Completion criteria: Receive a confession within ten minutes. Authenticity affects rewards.

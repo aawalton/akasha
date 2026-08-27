@@ -1,0 +1,277 @@
+---
+id: f1d859b5-83f6-5bb9-b8a2-9f9a1cef1993
+page-type-slug: story-chapter-royal-road
+title: "91 - Triple Threat"
+slug: 0092-91-triple-threat
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 92
+ownLength: 1974
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3837472/91-triple-threat"
+royalRoadId: "3837472"
+---
+
+We were all back on Sparrow’s ship after “relaxing” at the bathhouse, flying toward our next destination at a modest pace. As soon as we stepped aboard, Noodle repeatedly nudged my cheek. I wasn't sure what he wanted until Meriel translated for me, explaining that he wanted to rest in my [INVENTORY]. I guess he was starting to really like staying in there, for better or worse. The moment I opened it, he flew inside with a happy “Wrrr!”
+
+With that said…
+
+“Hmph!” Reina let out, turning away.
+
+“Hah! Look at my hair!” Aeris flaunted. “Doesn’t this look familiar?”
+
+She wrapped around and flipped her ponytail in Reina’s face. Reina swatted it away with her hand, glaring at me.
+
+“Hmph!” she let out again. “And here I thought the hair ties were meant for only us, Allene! It’s my fault for assuming things.”
+
+I rubbed the back of my head. “Sorry, Reina, but Aeris was mad at me. I thought doing it would calm her down…”
+
+I was starting to regret tying Aeris’s hair, considering all those tears from her had been fake.
+
+“Alright, that’s cool and all, but where did you even get those?” Meriel asked, pointing at the dumbbells in Aeris’s hands.
+
+She had been carrying them with her since we left the steam room. Even as we regrouped with the others back at the bathhouse’s main area and went back to our ship, she held onto them the entire time.
+
+“Allene gave them to me as a gift,” Aeris said.
+
+“If you’re tired, why not just leave them down?” Kaelor asked.
+
+“Tired? Who’s tired? I know you’re not talking about me!”
+
+“But you’re drenched in sweat,” Talon said.
+
+Sparrow suddenly grabbed the weights from her hands. He curled them with each arm, laughing after realizing how easy they were to curl.
+
+“Hah! Ya struggling with these? They’re as light as—”
+
+The dumbbells became enveloped in light, teleporting from his hands back to Aeris’s.
+
+“Oi, what sorcery is this?!” he yelled. “What just happened?!”
+
+I had told Aeris about the dumbbell’s special properties after we left the steam room with them, so she wasn’t too surprised.
+
+In case you don’t remember, here are the effects:
+
+[ITEM ACQUIRED: DRAGON’S DUMBBELLS]
+
+Description: A pair of plain iron dumbbells that feel weightless to everyone… except a certain dragon who's madly in love.
+
+Effects:
+
+- While held by Aeris, every workout is more effective and Strength growth is accelerated
+
+- Will deal negligible damage if used as a weapon
+
+- The weight is dynamically adjusted based on Aeris’s current strength levels
+
+- This item cannot be stored in your [INVENTORY]
+
+- This item cannot be held for more than three seconds by someone who isn’t Aeris
+
+Meriel leaned into my ear. “Are those from a trope reward?” she whispered.
+
+“Yup.”
+
+“Figures.”
+
+Kaelor and Talon tried lifting them as well, only for the same thing to happen. The dumbbells teleported back to Aeris’s hands.
+
+“Huh. Not only are these awfully strange looking weights, but it looks like they’re enchanted with some kind of magic as well,” Kaelor said.
+
+After all of that was settled, the others walked to the front of the ship, taking in the sight as we moved through the sky. A few giant blue whales and manta rays peacefully flew beside us, keeping their distance. I was starting to miss having Tuna next to us.
+
+Unfortunately, I don’t think the peace would last very long. Now that the others were gone, I was left behind with Aeris, Reina, and Meriel.
+
+“Looks like that’s my cue to leave,” Meriel said, walking away.
+
+I grabbed her hand. “Wait! Don’t leave me!”
+
+She turned, smiling. “Why not?”
+
+I looked at Aeris, who was still showing off her ponytail to Reina. The look on Reina’s face was nothing short of devastation.
+
+“Ah, worried about being left with those two?” Meriel asked. “That’s your problem to deal with, not mine. Think of this as another lesson.”
+
+“Stop trying to make everything a lesson, damn it!” I cried.
+
+She pulled my arm away, walking toward Kaelor and the others.
+
+“Best of luck,” she waved me off.
+
+Just like that, I was left alone with a bragging dragon and a pouting knight.
+
+Things were about to get messy.
+
+“I love this hair tie! It’s just as adorable as my dear Allene,” Aeris said, getting up in Reina’s face.
+
+Every time Reina turned away, Aeris stepped in front of her—of course, with the dumbbells held tightly. How was she able to hold them for so long, anyway? For someone who hated exercise so much, it was impressive to be able to hold onto them for so long. Maybe she was just too distracted with taunting that she couldn’t feel the pain in her muscles.
+
+“Hmph!” Reina pouted again.
+
+She continued making the same sound at least a dozen more times while sneaking glances at me. This was definitely intentional.
+
+“Aeris, stop it,” I said.
+
+“Why should I? I’m just proudly showing the gifts you gave me.”
+
+Reina’s face became red. “Gift…? Allene gave you that hair tie as a gift?”
+
+“Absolutely!” Aeris puffed her chest out.
+
+I shook my head. “What? I never said that!”
+
+But Reina didn’t believe me.
+
+“HMPH!” she yelled.
+
+Instead of just walking away, she stayed put, continuing to sneak glances at me.
+
+“I promise I’m not lying,” I tried. “Don’t listen to Aeris. That hair tie is still yours.”
+
+She frowned. “Really? For something meant for me, I wonder why it’s on Aeris!”
+
+“I’m sorry, but—”
+
+“Sorry isn’t enough!”
+
+Aeris snickered, finally putting her dumbbell down and taking a seat beside them, leaning against the railing on the edge of the ship. The dumbbells rocked ever-so-slightly as the ship moved through the air, but since the ride was smooth, they never actually rolled away.
+
+I cast my [INVENTORY] and reached inside, pulling out the other matching hair tie.
+
+“Here,” I said, smiling at Reina. “Can I tie your hair up, too?”
+
+Reina shook her head. “If that’s your way of saying sorry, I don’t want it! Those hair ties were meant for the two of us, not Aeris!”
+
+Even after hearing that, I started tying up her hair anyway.
+
+“Hey!” Reina yelled. But she didn’t pull away.
+
+“Just stay still,” I said softly. “Please?”
+
+She briefly glanced at me before turning back and letting me continue. Peeking over at Aeris, I saw her mouth hanging open with her tilted toward the sky as the sweat from her face dripped onto the planks. Looks like she was more exhausted from holding the dumbbells than she said she was.
+
+“I’ll put your hair up into a bun like I did last time back at the cave,” I said, twirling her hair through the tie.
+
+She didn’t respond.
+
+“Reina?” I called. “Are you still mad at me?”
+
+“I’m disappointed,” she said right away. “They were meant for us, not Aeris…”
+
+“I know, I know,” I said. “But she was so upset at me that she even ran off into the men’s section of the bathhouse. We got all sorts of weird looks, you know? I wasn’t thinking much of it at the time. I just wanted to get out of there with Aeris as quickly as possible, and I just thought tying her hair up would make her quickly forgive me.”
+
+I backed away after I finished tying up Reina’s hair.
+
+“All done,” I said, clapping once.
+
+Reina turned to me, gently patting the bun.
+
+“Thanks,” she muttered. I could tell she was holding back a smile out of spite.
+
+Aeris stood, walking over to us. For once, she left the dumbbells down on the planks.
+
+“You… you!” she began, pointing at Reina.
+
+Damn it, Aeris. Not again! Would the two of them ever stop messing with each other?
+
+“You look pretty good with a bun,” Aeris said.
+
+“Huh…?” Reina and I said at the same time. A compliment was the last thing we expected to come out of her mouth.
+
+“Really?” Reina asked.
+
+Aeris nodded, gently poking her bun. “I’m quite jealous. Now I wish I had a bun, too. Though the ponytail Allene gave me isn’t bad at all.”
+
+“Do you want me to tie your hair into a bun?” Reina asked.
+
+“Really? Can you?”
+
+She nodded.
+
+Aeris smiled, turning around. “Thanks!”
+
+As Reina started giving her a new hairstyle, I stood there with my mouth completely shut. I honestly couldn’t believe my eyes. Reina and Aeris were… not arguing for once?
+
+“What’s with that smile?” Aeris asked, glancing over at me.
+
+“Hm? Oh, it’s nothing. I’m just happy to see the two of you like this. It always makes me sad to see you two fighting so much. This is like a dream come true.”
+
+That was—a dream come true for my mind. Seeing them fight all the time was starting to make me insane.
+
+“Sad?” Reina asked. “Do you really feel that way whenever we fight?”
+
+I nodded. “With a fair bit of annoyance sprinkled on top—yes, it makes me sad to see that. I care about you two, you know? It hurts to see my friends argue so much.”
+
+The two of them froze—even Reina, who was still in the middle of tying Aeris’s hair. After about a second, they whispered something to each other. Reina continued tying her hair after that.
+
+Once she was done, they both looked at me, pointing at each other’s hair.
+
+“Which bun suits us better?” they asked at the same time.
+
+“Uh…” I muttered. “Both…?”
+
+“Choose one!” Reina said.
+
+What did they even whisper about, anyway? And why were they putting me on the spot?
+
+“I mean it,” I said, walking up to them and patting their hair. I had to go on the tip of my toes for Reina since she was that much taller than me. “This hairstyle fits you both very nicely.”
+
+“That’s about what I expected coming from you,” Aeris said.
+
+“Yup,” Reina added.
+
+Then, they looked at each other, nodding.
+
+“That’s decided!” Reina said. “We’ll stop fighting!”
+
+It took a second for me to process what she just said. Once I did, I gave her a dumbfounded look. “...Right.”
+
+“We’re serious,” Aeris said. “We realized that we now have the same goal: to make sure we don’t ever make you sad again.”
+
+“Exactly!” Reina blurted.
+
+I shrugged. “Well, if that’s what you want to do, then go for it. I won’t stop you. Why did the two of you fight so much in the first place?”
+
+“Because I want to marry you,” Aeris said.
+
+“Because I want to be your best friend,” Reina said.
+
+Silence stretched between us.
+
+“Okay…?” I said. “Aren’t those two things able to happen at the same time?”
+
+They looked at each other.
+
+“Are they?” Reina asked.
+
+Aeris shrugged. “Now that I think about it, she might be right.”
+
+I facepalmed. “You’ve got to be kidding me. Have you two been fighting all this time for no reason?”
+
+[TROPE COMPLETED: FOR YOUR SAKE, WE’LL GET ALONG]
+
+[ITEM MODIFIED: MATCHING HAIR TIES]
+
+Description (New):
+
+Three soft black hair ties decorated with silver star charms. Worn by friends with unbreakable bonds.
+
+Effects (New):
+
+- Can only be worn by you, Aeris, or Reina
+
+- While all three are worn, all wearers gain increased strength and mana regeneration
+
+- If worn by anyone else, they will immediately return to your [INVENTORY]
+
+The third hair tie will now appear on your hair as a bun.
+
+A flash of light appeared. Seconds later, I probed around my head, realizing I had the exact same hairstyle as the other two. They looked at me, pointing with their jaws dropped.
+
+“Wait, you had three this whole time?!” Reina cried.
+
+“Hahaha! Now we’re all matching!” Aeris laughed.
+
+Huh.
+
+I guess items could be modified as a trope reward…?

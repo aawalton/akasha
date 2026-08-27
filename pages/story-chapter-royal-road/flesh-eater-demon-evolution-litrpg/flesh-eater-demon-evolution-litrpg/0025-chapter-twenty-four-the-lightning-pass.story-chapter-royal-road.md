@@ -1,0 +1,163 @@
+---
+id: bf8ac976-7ed4-5fe2-a5a3-d8704fae4735
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-Four: The Lightning Pass"
+slug: 0025-chapter-twenty-four-the-lightning-pass
+partOf: flesh-eater-demon-evolution-litrpg
+position: 25
+ownLength: 2576
+unit: words
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2636303/chapter-twenty-four-the-lightning-pass"
+royalRoadId: "2636303"
+---
+
+As it turned out, they had quite a bit more forest to get through before they reached the Gravestone Mountains. They could’ve gotten there faster, but they purposely took the long way around Winrow, which had probably found the dead patrol squads and maybe even the mangled chimera corpse and cave by now.
+
+Anyone with two eyes would be able to tell that the chimera didn’t bite off its own torso. It wouldn’t take long to put two and two together and conclude that there was another monster lurking in the forest, one powerful enough to have killed the chimera. The whole village would be on high alert.
+
+Personally, Pyre wouldn’t mind running into a few more guards for leveling purposes, but Callan was insistent on staying as hidden as possible.
+
+“If they figure out you’re a demon, they’ll send an alert out to the whole region. It’ll be a lot harder to travel like that,” he’d reasoned. “Winrow’s small, but the bigger cities have powerful fighters who could hunt you down and kill you.” His expression had been serious—serious enough that Pyre was pretty confident he was telling the truth and wasn’t just saying that to get her to leave the villagers alone.
+
+The logic had made enough sense to the demon, and it wasn’t like taking a longer route really hurt them much. She could eat other things for experience, and the last she’d checked, the only unique subtrait shard she got from her last human kill was [Omnivorous]. She didn’t really care when she got all the shards for that. If they did still run into any humans while taking the scenic route, though, she wouldn’t hesitate, and Callan probably knew that too.
+
+“You sure you don’t want to go talk to your parents or whatever?” Pyre asked as they wove through a patch of thinner trees. They’d officially left the Fred Zone a while ago, so there were less ichor lights and no more fucked-up animals to amuse herself with. Shame. They’d added some nice character to the scenery.
+
+Callan shook his head. “It’s better this way,” he said. He fidgeted a little, but kept floating forward. “I mean, it’ll probably be hard for them, but they’ve got each other to get through it. And this way they can get some closure.”
+
+The demon gave him a long look, thinking back to the ghost’s brief exchange with that mage before the Sudden Draining had cut it short. “I’m guessing ghosts don’t have a good rap,” she drawled.
+
+Callan smiled wryly. “I mean, draining life is pretty bad. And ghosts are usually vengeful and crazed. They’re really not the same person anymore.”
+
+“I dunno, your mind seems pretty intact to me.”
+
+“Yeah, I’m—I’m honestly not sure why.” The ghost swallowed. “It might be because of the high ichor levels; I was pretty close to the titan corpse when I died. And it might not last, either.”
+
+Ever since leaving the mound, Callan had very insistently refused to call Fred “Fred,” instead opting for the much more vague “titan corpse” or “demon corpse” descriptors. Of course, if they ever ran into another dead titan, that would get real confusing real quick, but it seemed like the ghost was dead set on avoiding using the name at all costs.
+
+“Ah, so on the off chance you do go crazy one day, you don’t want your parents to see it.” Or make them kill him, was the unspoken part. Or accidentally kill them, was the even quieter implication. “Good to know I get zero consideration, kid.”
+
+Callan scowled. “I couldn’t do anything to hurt you even if I did lose my mind.” He squinted at the demon “And why do you keep calling me kid?” From the way he said it, Pyre suspected it had been a question on his mind for a while now, but he’d probably been too scared to ask before. She raised an eyebrow.
+
+“Well, how old are you?”
+
+“Twenty-one in a month.”
+
+“Cool. Twenty.”
+
+Admittedly Pyre had assumed he was a teenager, just based on his general scrawniness, but that did beg the question: how old had she been before she’d died and been reincarnated? She hadn’t given her age much thought before—it wasn’t like she could remember it.
+
+The demon fixed two eyes on the ghost. Did learning Callan’s age actually affect her instinctive urge to call him a kid? Not really, no. So either she’d been several years older than twenty when she’d died as a human, or she’d just viewed anyone younger than her as a child. Which she wouldn’t put past herself. At the very least, she was definitely older than twenty.
+
+Well, it didn’t really matter now. She decided to just go with whatever her gut instinct said. Based on Callan’s unimpressed expression, he’d probably also concluded that the demon wouldn’t stop calling him ‘kid’ anytime soon. He grumbled something under his breath, but apparently realized there was no winning the argument and decided to change topics.
+
+“We should reach the pass soon,” he said. He nodded his head.
+
+Through the canopy, the Gravestone Mountains loomed above. The ground was becoming more rugged the closer they got, soft soil giving way to hard stones and drier earth. If Pyre really craned her ears (currently set up as very large human-shaped ones), she thought she could even hear the distant rumble of thunder.
+
+“You said there’s a lot of storms, right?”
+
+Callan nodded. “They’re pretty much nonstop, from what I’ve heard. There was a major battle there during the titans’ war, so some people say the extreme weather is because of the lingering magic messing with the atmosphere.”
+
+“From the way you’re talking, I’m guessing you don’t agree.”
+
+The ghost hesitated. “I mean, it’s true a lot of stuff’s the way it is because of the war. Rivers cut from the blades of angels, canyons where impacts landed—the old magic in the area probably does have something to do with it.”
+
+“But it’s probably not the whole story.”
+
+Callan gave an emphatic shake of his head while Pyre hummed in thought. “Well, should be extra fun then.” She shot the ghost a grin. “Hey, since you’re incorporeal, lightning wouldn’t hit you, right?”
+
+“…No?” The ghost frowned, eyeing the demon with suspicion. “Why do you want to know that…?”
+
+“I can’t believe I agreed to this.”
+
+“You did say you were going to help me reach”—Pyre paused and took a moment to recall what country the X on the map was in—”Pereth,” she finished. See, she could remember shit when she needed to. The 45 intelligence wasn’t for nothing.
+
+“I don’t even know what I’m supposed to be looking for!”
+
+Reaching the Gravestone Mountains hadn’t been nearly as dramatic as Pyre would’ve liked. The trees simply thinned, the ground got even more rocky, and then bam the earth started sloping upwards. Very sharply.
+
+From the brief flashes of memories she had, the mountains currently in front of them didn’t look too out of the ordinary. They seemed particularly rocky and steep, with jagged slopes that only the most persistent of trees could hang onto, and their color was a bit more grey than brown, but that was really it. Only the dark clouds looming around their peaks, noticeably distinct from the clear blue sky over the rest of the peninsula, gave any sense that there might be something strange about them.
+
+As for the famed Lightning Pass, it was a fairly narrow winding path that cut between two particularly steep mountains. Pyre could see smushed grasses where the area had been traveled on, and there were what appeared to be some scorch marks along the mountain sides, but it was otherwise mostly barren from what she could tell.
+
+Not being able to see anything, of course, didn’t mean that nothing was there.
+
+“Relax, just shout if you notice anything weird or if you see any animals. I haven’t devoured anything in a bit.” She actually still felt pretty satiated despite not having eaten in the past few days, which she assumed was because the chimera had been so high level, but she wasn’t going to wait until she was literally starving to consume her next meal. “You’re the lookout.”
+
+Callan, who was currently floating as high as he could (Pyre had had a good laugh when she’d learned about ghosts having a “maximum float height,” but as the ghost had pointed out, it would just be flying, not floating, if they didn’t), frowned down at the demon below. “Do you really need a lookout, though?”
+
+“Need is a strong word. Sure is useful, though.”
+
+Callan rolled his eyes, but floated forward. He did stop and glance up at the storm clouds warily whenever lightning flashed or thunder rumbled despite being incorporeal. Old habits died hard, Pyre supposed.
+
+For now, the demon warped herself into a longer, thinner shape that wouldn’t take up half of the pass on its own. This snake-like form also kept her closer to the ground in case she got unlucky and lightning hit. Which, based on the nonstop thunder, seemed likely. She could probably take a few lightning bolts, given her constitution, but there was no reason to if she could avoid it—especially since she was still healing the last of her injuries.
+
+At first, traveling through the pass was a fairly mundane affair. Callan hovered up above while Pyre slithered behind. As soon as they entered the pass proper, it darkened rather quickly thanks to the storm clouds and the steep mountains obstructing much of the sky. The flashes of lightning above them, however, meant the path was never dark for long. Those harsh flashes lit up the edges of the rocks and stones, sharply contrasting against deep shadows. Pyre could see why the place had a bad reputation. It was probably pretty ominous to most travelers, though personally she thought the flesh pit (aka Fred’s stomach) had it beat in pure wow factor.
+
+To her right, a rock clattered.
+
+The demon shot out part of her flesh, briefly registering what looked like the silhouette of a snake slithering by before growing a second mouth and clamping it down over the creature.
+
+[You have devoured (1) Mountain Snake Lvl 4][Experience earned!]
+
+[You have gained (1) [Thermal Vision] subtrait shard]
+
+[You have gained (1) [Scales] subtrait shard]
+
+[You have gained (1) [Species Scent] subtrait shard]
+
+[You have gained (1) [Vibration Sense] subtrait shard]
+
+[Required amount of [Thermal Vision] subtrait shards collected][Apply subtrait shards to [Eye Growth] trait?]
+
+[Required amount of [Species Scent] subtrait shards collected][Apply subtrait shards to [Scent] trait?]
+
+As Pyre devoured the reptile, silently comparing its flavor to the forest snake (this one tasted slightly earthier, but other than that they were disappointingly similar), a few images and sensations suddenly flashed in her mind. The dry earth below, a dark burrow with eggs inside, the flash of lightning above.
+
+Huh. Was that [Memories of the Flesh] just now? If so, the subtrait didn’t seem nearly as disruptive as she’d worried it might be. Then again, snakes probably didn’t have a lot of memories to begin with. She’d have to judge again after she devoured a more intelligent creature. For now, she kept it on.
+
+Pyre could tell, as she finished chewing through the snake and spit out its bones and scales, that she’d barely gotten any experience from it. Her experience gain was slowing down a ton, especially after hitting level 15 from the chimera fight. Reaching level 30 would be a real pain, unless she ate some more high level stuff.
+
+Oh well, she still had subtrait shards to collect, and she happily applied the two new ones. [Thermal Vision], in particular, she’d been looking forward to.
+
+From its description, like [Darkvision], she could grow a certain number of eyes with the subtrait ability—in this case an amount equal to half of [Eye Growth]’s level rounded up. Pyre absorbed her current eye setup and regrew five new ones: two with [Darkvision], one with [Thermal Vision], and two ordinary ones.
+
+Thanks to [Eye Growth] leveling up after the chimera fight, she could now maintain 12 eyes in total. She was keeping some as backup, though, including one [Darkvision] and one [Thermal Vision] eye in case one of them got ripped off again.
+
+Blinking, Pyre focused only to quickly realize that having separate eyes with separate abilities made her combined vision kind of fucked-up looking. It took her a bit to adjust. She found she had to purposely choose a select few eyes to focus with, and when she did that with the [Thermal Vision] one, she was pleased to see that it did, in fact, do as its name suggested. Everything was overlaid with an array of blue and red gradients. Granted, there wasn’t a lot of warm stuff around them right now, but a glance upwards did confirm that Callan ran cold.
+
+“Did you eat something just now?” the ghost called down.
+
+“Yeah, a snake. I see you didn’t notice it. Good job, lookout.”
+
+“I wasn’t looking behind us!”
+
+“Relax, kid, it was a joke.” Pyre took the opportunity to also test out [Species Scent], which supposedly allowed her to identify different species by their smells so long as she’d smelled them before.
+
+Unfortunately, a major downside seemed to be that things that didn’t have a discernible scent—like ghosts—couldn’t be detected with it. The subtrait also made no mention of spells or, hell, perfumes that could mask smells, so its usefulness would probably be a little variable. Still nice to have, though, even with its caveats.
+
+Just as the demon readied to continue forward again, the air shifted. The smell of earth and soil was abruptly replaced with something metallic and sharp—almost reminiscent of burning.
+
+Above, Callan froze, eyes fixed on a point ahead of them. He opened his mouth and yelled just as the air sizzled.
+
+“Get down!”
+
+In the next moment, the world lit up as a bolt of lightning streaked through the narrow pass.
+
+Pyre barely had time to press herself all the way down to the ground and activate [Bone Armor] before electricity shot past her in a horizontal line. She felt a faint tingle on parts of her exposed flesh, a slight burning sensation, but she managed to avoid the worst of it.
+
+The pass dimmed again, and Pyre carefully studied her surroundings. There was no trace of the sudden lightning left save for the fresh scorch marks etched into the mountain sides. Well, that explained where they’d come from at least.
+
+Above them, thunder continued to rumble while the storm clouds swirled in the wind. While she hadn’t had as clear a view of the lightning bolt as Callan, one thing was clear: it hadn’t come from the sky.
+
+Based on its trajectory, it had originated from somewhere deeper within the mountains.
+
+The demon met eyes with Callan, who had drifted closer, the unease clear on his face.
+
+“So,” she began, “I’m guessing lightning doesn’t usually do that.”
+
+The ghost shook his head, confirming that sideways lightning wasn’t just a weird quirk of this world. Pyre’s gaze shifted up to the storm clouds again. It looked like this was a whole lot more than just some old magic-induced extreme weather—getting through the pass might be harder than she’d thought. She turned to Callan again.
+
+“Looks like you were right about there being something else here.”

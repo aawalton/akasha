@@ -1,0 +1,199 @@
+---
+id: 806dd925-93f8-5b8e-88c2-1c9f9c213549
+page-type-slug: story-chapter-royal-road
+title: "Chapter 511: The Rise of Cuddles and the Holy Fire"
+slug: 0551-chapter-511-the-rise-of-cuddles-and-the-holy-fire
+partOf: dungeon-of-knowledge-complete
+position: 551
+ownLength: 3722
+unit: words
+ownProgress: 3722
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2957882/chapter-511-the-rise-of-cuddles-and-the-holy-fire"
+royalRoadId: "2957882"
+markedReadAt: "2026-06-29T20:31:01.553Z"
+---
+
+The vast purple barriers up ahead shimmered as their magical formations activated. Despite the mental impact of the inconceivable weight of the dungeon break bearing down upon her, Ali’s mind held steady, and her skills automatically analyzed it.
+
+Why are they opening?
+
+As the wave of banshees and ghosts shimmered through the barriers, the purple domes flickered, large segments vanishing from existence, and through the gaps, the zombies poured, their black moaning writhing mass interspersed with the vastly more powerful ghouls, wights, and even hundreds of purple glowing arcane elementals.
+
+Oh. Aah… that’s not good.
+
+Even in the face of the massive dungeon break, Ali’s analysis skills systematically unraveled the elegance and efficiency of the Archmage’s barrier manipulation techniques, squirreling the process and principles away for later use with her own spells. All around her, magic detonated as the adventurers launched their most powerful skills into the unrelenting horde, but it was like trying to kill the sea with arrows. Magic exploded everywhere, but the undead swarmed onward, seemingly unaffected in their sheer numbers.
+
+What can I even do?
+
+She snapped up several thick, domain-enhanced barrier walls to give the raid groups cover, but how could even that stem the ridiculous tide that bore down on them? The wrath of Nathaniel Sunstrider’s unnaturally powerful dungeon. She had been so certain of her analysis. How he could possess so much mana that he could maintain all these monsters was beyond her understanding – it was an impossibility. And where had they been hidden when she had provoked him? Was this a mistake that would get her friends killed? Mentally, she began running through her contingencies, her failsafes.
+
+“Ali, I think we need to run.”
+
+Ali glanced at Malika, a cloud of confusion passing across her mind. Run? How would she fix this disaster if they ran?
+
+“Come, Ali,” Calen said, unleashing volley after volley of arrows into the cloud of banshees.
+
+“I…”
+
+You have gained Clarity.
+
+Instantly, the insidious pressure of the banshee wails she had not been aware of vanished, leaving her mind reeling in the sudden silence.
+
+“Refresh your elixir,” Malika said. “Lyeneru wants us to back up into Zulkora and use Maalgaroth.”
+
+“Yes,” Ali answered, realizing she had been standing there gaping at a horde of banshees with only the protection of her high wisdom attribute and her magical resistance. How her mind hadn’t been shattered against so many was a miracle, but Malika’s magic had certainly injected a powerful dose of much-needed control over her actions, banishing the confusion that had clouded her reason. She immediately rectified her mistake, downing the elixir and commanding her minions to aid their retreat.
+
+“Ali, wait! I need Cuddles…”
+
+Ali stopped at the sudden non-sequitur shout from a breathless Seth as he rushed toward her. “Cuddles?” She gaped at him in confusion.
+
+“Cuddles, remember? I need you to make me one,” Seth said, gesticulating enthusiastically.
+
+“Cuddles?” Ali repeated. Her mind was still somewhat reeling from the backlash of her snap back to complete rationality, so it took a second before she remembered Seth’s nickname for the giant Obsidian Sandwyrms. “Seth, you know I can’t summon them, I don’t have gravity or earth affinity here, and even if I did, I would need it to be part of my domain here to attach to. Even if I were to summon one, it would be dead.”
+
+“Yes?” Seth said. “And what am I?”
+
+“A necro…” Ali’s jaw snapped shut. Fuck. Ali, those banshees really scrambled your brain, she snapped furiously at herself, but she didn’t waste any more time on self-recrimination; instead, she spent the mana she needed to freeze time.
+
+The world halted at her command. The vast tide of banshees and ghosts froze in the act of breaking over the beleaguered adventurers. The moaning and wailing ceased as suddenly as the color leached from the world.
+
+But not all had frozen or leached to gray. Experience had taught her to beware of anything that moved in this place, and her eyes were instantly, forcibly, drawn to the center of the corruption and the ancient Well of Souls. Or at least, what remained of it. It pulsed ominously with potent eldritch energy, while countless writhing tendrils of black, ropy magic twisted and waved from within, reaching out with blind hunger like a monster trying to claw its way through the hole left in the earth by the profane defilement inflicted by the Blind Lich.
+
+Several dark orbs popped out of the corrupted pit in the ground, ripping open to reveal the Eyes of Baaoht Yll’shuum, somehow able to manifest all the way here via the unexpected conduit of the Well itself. The eyes of deep crimson flickered this way and that, suddenly turning toward her, and instantly all the tentacles in the well shot out toward her, rippling through mind-bending pathways and fractured geometry.
+
+Ali flinched, reflexively, but the tentacles collided with the purple glowing dome of the dungeon’s inner circle, a wet thump that turned her stomach. But while the monster raged at her proximity, like a caged animal scenting prey just out of reach, it seemed fortunately contained within the dungeon’s own defensive barriers.
+
+But she still felt the shiver of fear from the mere proximity to the eldritch being. At least this time, she could move and did not need to rely on the loyalty of an entirely unpredictable mystical book to save her from this ominous magic. But there was no way she was letting her guard down, not with something so terrifyingly alien out to get her, so she kept a close eye on it while her magic flowed, struggling a little against the sheer pressure the corrupted well was emitting into the spirit realm. She just hoped the barriers were strong enough.
+
+She could clearly make out the expressions of fear, resolve, and focus written upon the faces of the guild as they stood in frozen opposition to the might of an entire dungeon called down upon them by her personal miscalculation.
+
+But Seth, bless his heart, had gifted her a way to turn it all around. She just hoped she had enough mana to spare. With renewed resolve, she fueled her Grimoire with a torrent of her signature gold-and-green mana, lighting the stark gray landscape as she worked her summoning.
+
+Honestly, she had no idea if Seth could even raise a world boss, but even if he failed, she arranged her summoning so that the sheer bulk of the monster would give the adventurers a barrier to use against the tide of undead spilling forth from the barriers.
+
+It took almost fifteen anxious minutes, confined within the spirit realm with a writhing monstrosity nearby, and more than twenty thousand mana for her summoning spell to complete. Her mind reeled at the precipitous drop in her mana as the color suddenly returned to her world. There were gasps and shouts of surprise as an enormous wall of black obsidian scales suddenly appeared before the adventurers, causing the very ground to shudder and buckle under its weight.
+
+“Seth…” But Seth needed no encouragement.
+
+“Arise!” he declared, waving both hands at the corpse like a demented conductor.
+
+She had often wondered at the nature of magic skills that required verbal components to activate. What exactly did the speaking of a command word provide to the spell itself? Ever since her dungeon gained its tithe enchantment, she had studied the endless variety of skills and spells unleashed within her domain with a sense of wonder and sheer amazement at the possibilities that had been revealed to her. When she crafted a wand or a scroll with such a spell, the wielder would still need to speak the words, and yet, when she inscribed it as a triggered runic circle – a trap, for instance, she found she only had to warp the shape of the circle somewhat to accommodate it.
+
+Even her own magic had some unusual activations; Sage of Learning could activate for anything, and even after so long, she was still often surprised. Sometimes it would even activate when the knowing was harmful to her. Some of her skills required complete focus. And yet that was tame compared to what she had studied from those questing in her dungeon. Some people cast magic with specific poses or ritual hand actions. Some spells required physical components that were consumed, talismans, reagents, or catalysts. And for many, she was convinced that the wielder believed some action to be required when it simply was not.
+
+Nonetheless, the magic-imbued command word echoed from Seth’s lips, reverberating with power as the darkly ominous necromantic formation sprang into being, sinking into the mountainous obsidian-scaled Sandwyrm corpse like tendrils seeking to possess. With the heightened sensitivity of her second-tier Arcane Insight and the enormous increase in her perception attribute, she had grown remarkably accurate at judging the power of magic as it was cast, and so she was entirely unsurprised when the sudden expenditure of tens of thousands of mana caused Seth to stagger and reel from the impact of his own magic.
+
+But, to her astonishment, the ground trembled as a wave of necromantic energy rippled outward, and dust and stone began to swirl upon the twisting currents of gravity and earth magic.
+
+“Holy shit, that’s a lot of mana,” Seth exclaimed with an awed delight on his face as his newest minion slowly shifted, sinking into the ground as tendrils of sand and dust began to accelerate around it, writhing like living rivers.
+
+He did it! Ali stared in amazement as Seth directed her failed summon’s corpse to turn around and attack the zombies, all the while laughing with a slightly maniacal glee, which she had to admit was probably fair. After all, it wasn’t every day a necromancer could claim the corpse of such a powerful monster.
+
+The black formation of Curse Proliferation shot from his crafted rod, imbuing the undead Sandwyrm with the ability to proliferate his curses on hit, and then the sandstorms howled with rising fury, tearing into the oncoming horde of dungeon-spawned undead.
+
+“I’ll take the zombies and ghouls. Ali, can you handle the fliers?” Seth yelled, furiously distributing curses on everything in sight.
+
+Handle the fliers? Her mind, freed now from guilt and confusion by the actions of her friends, instantly provided her with several effective ideas.
+
+“Calen, can you guys hold off the banshees for a few minutes?” she asked. Glancing at the ominous dark cloud of incorporeal monsters that bore down upon them, she knew it would be an almost impossible task, but she had already blown Arcane Recall on summoning Cuddles for Seth, and so she would need to take the slow way for what she needed next.
+
+“We’ll buy you time,” Calen said, surprising her with his confidence, before flying up and beginning to direct the adventurers.
+
+With no time to lose, Ali began to channel her mana, pushing her customization as hard as she could, seeking the highest level her imprint allowed.
+
+Wielder of the Sacred Flame – Kobold – level 159 (Holy)
+
+Of all the options she had inscribed within her Grimoire, nothing came even close to her Wielder of the Sacred Flame for killing undead. And she had a lot of undead to kill. The tiny kobold appeared beside her, bowing her head in respect.
+
+“What is your will, Ancient Mistress?”
+
+“You will kill all those ghosts and banshees,” Ali said, gesturing to the vast wall of screeching and wailing incorporeal undead bearing down upon the struggling raid groups.
+
+“By myself?” the kobold yipped.
+
+“Yes.”
+
+“With respect, Ancient Mistress, that seems to be a little beyond my capabilities,” the kobold observed soberly. Her throat wobbled as she swallowed.
+
+“Then we will just have to fix that, won’t we?” she answered.
+
+The kobold mage turned her head and regarded Ali with open curiosity, but Ali answered with action, making a concerted effort to ignore the shouts and detonations of magic in the background.
+
+Domain Respawn applied to Wielder of the Sacred Flame.Champion Domain Enhancement applied to Wielder of the Sacred Flame.Amplify Skill (Holy Fireball) applied.Spell Cascade (Holy Fireball) applied.Affinity Aura (Holy) applied.Clone applied.
+
+While she would have loved to use Elemental Storm, Rain of Ruin, or Zone of Destruction, she did not yet possess the holy variants of her most potent area Domain Magic skills.
+
+Perhaps it’s time to visit Azryet again, she thought. However, for her purposes here, Affinity Aura would suffice – something Azryet had traded her for the immunity domain magic she had taken from her first quest in the Abyssal Realm. Especially given the unique properties of her kobold’s holy fire magic.
+
+Domain Enhancement complete.Your reserved mana has increased by +3365.
+
+“This will help,” her kobold said, her words respectful and understated, but the predatory grin on her golden-scaled face, and the flashing light gleaming from her bared fangs belied the excitement Ali could feel through her connection to her minion.
+
+The little golden mage’s form shimmered as she drew heavily upon the domain for power, blurring indistinctly for a moment before four identical kobolds stepped out in four separate directions. Even as her summoner, Ali would have been hard-pressed to tell the original from the clones. The rush of mana paused, as if for an inbreath, and then a vast surge of holy mana burst forth from the kobold champion as the four-way affinity auras established themselves in broad, overlapping spheres.
+
+Immediately, every single undead monster in the area caught fire, burning with searing yellow-white flames. On the other hand, every adventurer began to shine with an inner glow as their health began to rise from mere proximity to the kobolds’ immensely powerful auras.
+
+Without missing a beat, the four clones summoned holy fire to their outstretched taloned grasps, condensing the intense, domain-enhanced holy magic into dense balls of sizzling flame. It took mere moments before Ali’s newly empowered mage unleashed her holy artillery into the sky, lofting the fireballs high over the enormous form of the undead Sandwyrm and into the oncoming cloud of banshees and ghosts.
+
+But the attack wasn’t a mere four fireballs. Four volleys of empowered holy fireballs shot out, each of which cascaded seven times due to the multiplicative power of the champion-level boss enhancement. The intensity of the fireball storm tearing into the wall of flying undead filled the air with coruscating flashes of intense white while the ground-shaking detonations drowned out even the wails of the banshees.
+
+Adventurers, pressed back into the canyon all the way to the threshold of the Gate, cheered as banshees and ghosts vaporized under the intensity of the flames. Gobs of still-burning ectoplasm fell as holy rain. The horde of undead poured onward, heedless of the flames of consecration and the affinity aura that set their ethereal undead bodies alight, but Ali’s champion was not done yet, unleashing more and more fireballs into the fray in a continuous stream of explosive holy fire. For the first time since she had provoked the dungeon, Ali saw the horde falter as her magic began to break them.
+
+“Buff the mages!” someone cried.
+
+Good idea, Ali thought, agreeing with the perceptive adventurer. With a flick of her wand, she gave her kobold clones a four-way dose of Winter’s Desolate Celerity, accelerating the destruction of the relentless undead. All four of them lit up with a dozen spontaneously cast buffs as the raiders recognized the shift in strategy immediately.
+
+“Try not to shoot Cuddles,” Seth grumbled. “He doesn’t like Holy. I’ll go take care of the rest of the zombies.” Then, the giant undead Sandwyrm vanished beneath the ground, only to burst up amid the ground-based undead with a familiar gargantuan open maw.
+
+Her bow did not falter, nor did she ease up on her magical enchantments as she unleashed her fire-and-lightning-enchanted arrows into the horde of undead, but the overwhelming urgency of the situation had vanished like the morning mists under the rising sun.
+
+Still, she imbued every single volley with her most potent explosive area enchantments, detonating fire and lightning to great effect among the rapidly thinning ranks of zombies and banshees, feeling the heady rush of leeched mana and health overflowing her pool, causing cascades of harmless sparks to fall to the ground below her wings. Of course, she was emptying her mana pool every few seconds by using even her most inefficient mana-dump skills and abilities, pushing her damage to the ultimate peak to avoid Mana Saturation.
+
+“That was close.”
+
+Lyeneru looked down to see the Guildmaster, Vivian Ross, staring out over the thinning horde, her flame-enchanted swords resting gently in her hands and a distant, but focused look in her eyes.
+
+“Yes,” she answered, still unleashing arrows unabated, but she slowly drifted downward, alighting upon the ridge beside her.
+
+“Summoners…” Vivian said, still studying the battle intently.
+
+“Indeed.” Lyeneru forced down the wrongness that twisted in her heart. A lifetime of experience was hard to ignore; experience that insisted necromancers and dungeons were the bane of the living. And yet, Vivian’s comment did not even capture the core of what had just unfolded. In moments, the necromancer and the dungeon had turned the tide of an utter rout, creating two monsters that were capable of standing unbowed against the unimaginable horde of undead that had threatened to break them. Many of them, second-tier undead. A feat that was nothing short of miraculous, even considering the power of their summoner classes.
+
+Her eyes settled upon the terrifying undead Sandwyrm. Terrifying even for one such as herself, if she allowed herself to be honest. Even though she outleveled him, and by quite a bit, she could at least admit to herself that she would have stood no chance of winning against Seth and his minion. Not even with a raid group.
+
+He summoned a World Boss. The thought stirred the unease within her heart, and she was forced to push it down yet again, reminding herself that the quiet, reticent boy was on their side, regardless of his class. The sheer amount of mana he had spent raising the Sandwyrm had shocked her. She could count on one hand the number of mages she had met that had enough mana to cast that, and all of them were of a significantly higher level than he was. And one is a dungeon, she thought, her gaze flickering to the other anomaly in their group, Aliandra.
+
+He had to have built his power with an extremely inventive choice of skills, exceptional gearing, and expensive elixirs and other consumables. She would need to chat with him later to find out how he had achieved that feat. Regardless of how she despised his class, a mind like that was a resource that she couldn’t afford to squander.
+
+And then there was Aliandra.
+
+“It’s unlike Aliandra to make a mistake like that,” Vivian said, her eyes drawn to the Fae dungeon class at the same time as hers.
+
+“She couldn’t have anticipated this,” Lyeneru admitted.
+
+“So, this is not a dungeon break then?”
+
+“Yes, all these monsters are still under the dungeon’s control.” The implications, she left unsaid, knowing that Vivian would understand them in an instant. They had been operating on Aliandra’s assessment of a dungeon’s capacity to reserve mana for minions, and the conclusion they had reached was that the horde spawned by Nathaniel Sunstrider’s dungeon had to be a dungeon break – monsters severed from the dungeon’s control and left to their wildest instincts. But, the Betrayer had instigated something far more ominous – every single monster remained under the dungeon’s control, joining the Blind Lich’s armies as a controlled force. Something far more deadly for the beleaguered defenders at Southport.
+
+The only way such a thing was even remotely achievable was the way they had harnessed the Well of Souls into some kind of eldritch mana battery to power the endless spawns of undead. It was an achievement that dwarfed what Seth had managed. Always full of surprises, she reminded herself – a simple, oft-overlooked fact that made dungeons so deadly.
+
+“The dungeon is still spawning,” Vivian said. “What happens when that mage runs out of mana?”
+
+Lyeneru glanced back at the simply ludicrous monster Aliandra had summoned. Kobolds, everyone knew, were universally weak monsters – widely considered vermin. Pests that fed the lowest-level adventurers in the guild some much-needed experience until they moved on to bigger and more important things.
+
+The kobold Aliandra had summoned broke every preconceived notion she had ever had about the wily reptilians. With a class gained from the dragon-god, Azryet, and the power of a champion dungeon boss, the kobold and her clones were unleashing a literal firestorm of offensive holy flame into the full output of a higher-level, mystic-artifact-empowered, archmage-controlled, corrupt dungeon, and the kobold was winning.
+
+“It won’t run out of mana,” Lyeneru said, answering Vivian’s concern directly. The only response was a raised eyebrow, so she elaborated. “Coria has a rare mana-leech curse she can apply with her arrows. And Seth’s pet has curse proliferation. As long as the fireballs hit, that mage will never run out of mana.”
+
+“So… this situation is stable?”
+
+“It would seem so,” she said, instantly recognizing where Vivian’s thoughts led. The vast horde of undead would take a while to thin out, but once they had cleared it away, the continuous spawning would be easily kept controlled by the combination of the kobold and the sandwyrm. And judicious reapplication of raid-supplied buffs and curses, of course, but that was relatively trivial to ensure. Which meant their raid groups would be free to take on the dungeon itself.
+
+Finally, Lyeneru let a grim smile touch her face. As much as her instincts hated relying on necromancy and dungeon magic, the two of them had created a window through which she could reach Nathaniel Sunstrider – and she fully intended to use it. His betrayal of his people, the death of Nendir, and the corruption of the Blind Lich were an affront to every living being, and she fully intended to purge their evil from the land she had chosen as her home.
+
+“Raid groups, form up,” Lyeneru shouted. “As soon as these zombies are dealt with, we’re going to move out.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

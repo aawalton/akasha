@@ -1,0 +1,91 @@
+---
+id: 7a1d7228-7bce-5c65-aa43-2a8597c241d6
+page-type-slug: story-chapter-royal-road
+title: "Ch111 Bright Future"
+slug: 0111-ch111-bright-future
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 111
+ownLength: 1495
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3765813/ch111-bright-future"
+royalRoadId: "3765813"
+---
+
+Over the week that has gone by, I’ve continued my intense training. Every day is spent either practicing movements or taking much-needed relaxing baths with heavenly grade healing elixirs.
+
+The constant stream of perfect-grade medicinal herbs into my bloodstream, bones, flesh, and meridians has begun to build up. I’m able to train longer and heal faster even when I’m not taking rests.
+
+My mind becomes much more clear as the days pass, and the movements for this fire control technique become extremely well-practiced.
+
+In just two weeks, I’ve made progress in training that would take an average qi refiner years of meticulous practice and rest to achieve.
+
+Hot crimson fire-infused qi makes its way all the way down my arm, through my wrist, and lights up my palm with flickering flames.
+
+The entire process from start to finish takes a few minutes. I have to fully concentrate on my fire root, saturate a large pocket of qi flowing out of my dantian, and completely release it from my palm.
+
+The wisps of fiery energy cannot be absorbed again; I have to sit back down in the center of this cultivation array and reabsorb raw qi back into my body. I’m not even sending out full spells yet; these are just shapeless wisps of energy, and it takes me up to an hour sometimes to regain the full amount of qi in my dantian afterward.
+
+Every time I empty and fill my dantian up again, I begin to feel a slight difference in my fire root’s ability to siphon in qi. It almost feels like its proficiency is increasing, to the point where I begin to question if this is an unorthodox way to loosen up a bottleneck, and continue my qi cultivation with enough practice.
+
+However, none of my other four roots are stimulated in the same fashion, and it's such a negligible amount I can’t tell if what I’m feeling is truly beneficial or not.
+
+Nothing in this perfected minor fire control booklet says anything about the sensation I’m feeling, so I eventually put it to the back of my mind for now.
+
+I’ve tested out sitting deeper into the fire array near Little Red, but it makes no difference in the recovery process or the ease of spell casting.
+
+In this time as I practice, another minor shift in the flame toad’s newest acquired physique appears.
+
+[Acquired Natural Flame Physique][Mid Stage - Mortal Grade]
+
+Nothing else on his status changes. The Black Lotus Flame Physique is still at its depleted initial stage of the spirit grade. He is still at the initial stage of a level 1 qi refiner too, with not a single particle of qi from the array resting in his body, but his physique does seem to be progressing.
+
+The white egg covered in golden vine patterns on the opposite side of the array does appear a little denser, and particles of white and silver mist slowly form around it. The egg has been slowly pulling in every source of energy it's resting in; the pure qi, metal element, particles of neutral soul nourishing mist, and even the basic dao rhythm vibrating through the air. At vigorous parts of my training, I do feel a small stir in the soul contract between us, but it’s as subtle and delicate as a light breeze.
+
+It shows no clear signs of hatching soon. Instinctively through our nascent bond, I feel like whatever is inside is content to sleep for longer, not in a rush to come out. I decide to ignore it, and let the fox do as it wishes.
+
+When another check-in notification hits my senses, telling me it’s morning once again, I decide to end my training for the day and slip out of my hidden realm to heal up while the sun fully rises.
+
+All week, the ten 8th-grade eggs I handed out to the stewards hatch.
+
+They are small dark brown level 1 qi refining lizards, with noticeably more raw qi in their bodies than the 9th-grade specimens I got the chance to scan on other stewards when walking around the estates near the quest hall a few times.
+
+Many of the elderly stewards break minor bottlenecks from their lizards hatching and the use of the low-quality qi gathering pills I gifted them. It brings most of them to the perfected stage of level 1, and one of the stewards to the initial stage of level 2.
+
+This is Shen Dehai, the steward that patiently waits at the bottom of my small peak on a dirt road that leads back to the steward quarters.
+
+When I walk down the hill to greet him, he bows in gratitude, with an 8th-grade armored lizard on his shoulder, presenting me the control disk, and not lifting his head out of respect.
+
+I imprint the disk and feel hundreds of faint qi signatures stored inside it, each one a day-long recording from one of the 60 recording crystals scattered throughout the fields over the last two weeks.
+
+“Very good. Congratulations on your breakthrough into the 2nd level of qi refining,” I reply while handing it back and pulling out a storage ring with 1,900 spirit stones, the corpse of a 3rd-level qi refining serpent, 3 9th grade red tailed fox eggs, and 7 9th grade long tusked boar eggs inside.
+
+The corpse is the first spirit beast I ever killed in this world and never had a good use for it until now. Those 9th grade eggs are the extras I found in the pit that aren't of the same species.
+
+In the booklet on raising earth lizards, it states that many of them eat their own shells after hatching. If others in the same nest are not hatched yet, often newly born lizards will eat others that are weaker than them. It is especially common for the 8th-grade breed to eat the 9ths.
+
+Eating dead lizard corpses is another option, but it is nowhere near as beneficial as eating the flesh of other species’ eggs or raw qi-dense flesh.
+
+For newly hatched lizards, other species are the most beneficial, and initial stage flesh of a serpent preserved in my storage is the next best thing. Once they grow larger, the few mid, late, and perfected stage armored lizard corpses in my storage would be a suitable food source.
+
+“That will be enough for the next month of recordings, and a hundred extra for paying out the other stewards and servants. The eggs are to be cracked open and fed to the lizards, one each. Then, divide up the black serpent meat equally, it will be great nourishment in their first few weeks of life. Other than this, are there any major updates to report?”
+
+He finally looks up and smiles, accepting the new ring and the disk back.
+
+“Nothing major. I’ve been on the lookout for promising servants as you requested. After the war, the recruitment peak has been searching far deeper into the Hidden Mist County recently to acquire more new underlings for the sect. We’ve purchased many of the strongest 9th-grade roots they have and found three promising 8th-grade root servants at the last auction. I’ve slowly begun to hand out the additional 9th grade earth lizard eggs you granted to them.”
+
+I nod along, but we both shift our gazes to the sky for a moment as an almost fully blue crane soars overhead, making its way back to the top of my small peak to rest outside the courtyard.
+
+“Your spirit crane has been watering the fields far more than usual… We're only two months into this farming cycle, and all of the rice has already met the inferior-grade standard. There’s actually a small patch near the stewards’ quarters that has reached the low-grade quality threshold… I’ve been working in the fields of this plot 81 for over two decades, I’ve never seen the land so vibrant.”
+
+I show a noticeable smile and turn away.
+
+“That is good to hear. We’re only being paid by the sect to farm inferior grade rice, so harvest up to our quota and store them away safely in storage rings. Maybe we’ll even get a second harvest from the same plants this cycle. Make sure it's all recorded on our surveillance crystals too.”
+
+Shen Dehai obediently bows and agrees.
+
+I slowly ascend the hill back to my abode and toss my spirit crane another medium-quality stone once I get to the top.
+
+It happily accepts, swallowing the blue rock with a satisfied look in its eyes, and curling up in a sleeping pose to digest it. This is its 4th mid grade water stone so far.
+
+I stare off the side of the steepest slope of my small peak, preparing a single fire stone in my storage, and enjoying the warm sensation of the sun rising overhead while I wait for the weekly visit of a fellow Beast Mastery Peak disciple.

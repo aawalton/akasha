@@ -1,0 +1,183 @@
+---
+id: a2a6ae5b-c08b-5714-a8c2-7ea60527b1b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-Four: The Pale River"
+slug: 0035-chapter-thirty-four-the-pale-river
+partOf: flesh-eater-demon-evolution-litrpg
+position: 35
+ownLength: 3108
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2709937/chapter-thirty-four-the-pale-river"
+royalRoadId: "2709937"
+---
+
+“Why did you ask Pax about Cyrus?”
+
+Pyre glanced over at Callan. As predicted, it had started raining again soon after they’d set out, so she’d grown a large bone plate over her body to use as an umbrella. Callan, of course, was totally unfazed by the raindrops. He was currently hovering a little higher up so he could see the path ahead. So far, they hadn’t run into anything. After the random lightning bolts the first time around, the pass was almost boringly quiet.
+
+“Figured it might be important,” the demon said. The ghost looked pensive.
+
+“Do you think we’ll run into him?”
+
+“Eh, maybe.” The ghost’s frown deepened, and Pyre raised an eyebrow. “I’m guessing you haven’t heard of him.”
+
+He shook his head. “That’s… kind of what worries me, to be honest. Tivona mentioned a war, right? But I haven’t heard anything about demons forming alliances or anything like that.”
+
+“Humans’ve been caught up in that Tavrell Empire shit though. Wouldn’t surprise me if some stuff’s been flying under the radar.” Hell, she wouldn’t be surprised if Cyrus—whatever he was planning—was purposely using the conflict with the empire as a cover to stay hidden. Attack when the humans were too busy fighting each other, then catch all of them by surprise. It sounded like the sort of thing the demon would do, based on what she’d seen in Tivona’s memories.
+
+Callan looked disturbed at the idea, but he didn’t say anything else on the subject. There wasn’t anything they could say when so much was still unknown. All they could do was continue forward.
+
+In the forever-stormy Gravestones, it was difficult to tell what time of day it was, but Pyre was pretty sure they’d been traveling for several hours now. It was long enough that [Flesh Sculpting] had come off cooldown. She’d activated it again to see if she could get another level out of it, and she was using the opportunity to cycle through the rest of her skills as well.
+
+At the very least, she’d like to get a few skill levels out of all this traveling. She did leave [Slothful Field] and [Slothful Time] alone, though. Their cooldowns were so long that putting them out of commission for a day could screw her over if they got into a fight later on.
+
+Some more time passed. When the next burst of lightning streaked across the sky, Pyre thought she saw hints of green at the end of the pass. Callan’s face brightened.
+
+“I can see the forest!” he said excitedly from where he was hovering further ahead. Apparently he was also getting sick of the nonstop rocks and stones. Pyre hummed in acknowledgement.
+
+It looked like they’d finally be leaving the Lightning Pass soon.
+
+[The skill [Basic Flesh Sculpting] has leveled up! Lvl 2 —> 3]
+
+[The skill [Basic Weight Manipulation] has leveled up! Lvl 1 —> 2]
+
+After much skill spamming, Pyre had a whole two skill levels to show for it. She was pretty happy with that, to be honest. She wasn’t surprised the other ones hadn’t leveled; they all required her to hit something or get hit in some fashion. Simply activating the skill apparently wasn’t enough if she didn’t use the full effects. So, all things considered, this was about as much as she could’ve hoped for.
+
+A quick scan of her stat sheet told her that [Flesh Sculpting] had dropped to an 8 hour cooldown while [Weight Manipulation]’s cooldown was now thirty minutes. She’d count that as a win. Satisfied, Pyre kept moving forward.
+
+The Aurelia Woods, according to Callan, was one of the largest patches of forest on the continent, covering much of Auren and Ravarn. Personally, it didn’t look all that different from the other forests she’d been in. Still, it was nice to see actual greenery, and the floating ichor lights in the canopy were a welcome change from the nonstop grey skies of the Gravestone Mountains. They could actually see the sky again when it wasn’t being covered by leaves. Imagine that.
+
+“If we keep heading west, we should reach the river,” Callan was saying. Pyre casually shoved a branch out of her way.
+
+“And Magrath’s close after that?”
+
+The ghost nodded. “It won’t take long to get to the city once we’re in Auren.” He paused, turning to face the demon. “Uh, speaking of which, we should probably figure out what we’re going to do once we get there. You said we’re looking for Tivona’s… horn?”
+
+“Yep.” Pyre pronounced the ‘p’ with a pop for emphasis. She warped her flesh—mostly healed by now save for a few parts that were still tender—so that her horns swayed. “It should look like her other horn did. I couldn’t begin to tell you who has it, though.”
+
+“Well, demon horns are really valuable. There might be records of it being sold somewhere.”
+
+Pyre considered this. “You can still turn invisible, right? What’s your max time on it now?”
+
+“Four hours,” Callan replied.
+
+The demon whistled. “Damn, that’s a pretty big jump from last time.” That was long enough to search through a good chunk of the city, depending on how large it was.
+
+“How about this. We can find some place outside Magrath to set up camp. Then, you sneak in with your ghost invisibility and see if you can figure out where the horn is. Once you do, you report back, then I’ll go in and actually get it.”
+
+This seemed like the easiest way to find the horn without drawing too much attention, and they still had the charms from Pax, so they wouldn’t have to worry about triggering any magical non-human alarms. Callan could literally drift through walls and doors, too, so it’d be easy for him to break into places.
+
+The demon paused as a thought occurred to her. “Hold on, you can’t open drawers and shit though, right? Might be hard to dig through records like that.” She seriously doubted that kind of information would be left out in the open on a table.
+
+Callan coughed. “Actually…” His voice trailed, and Pyre raised an eyebrow as the ghost carefully floated down. He paused once his transparent feet were brushing against the ground in a weird, floating mimicry of standing. Callan took a deep breath and closed his eyes.
+
+In the next second, he looked solid. Really, truly solid. No see-throughness and with actual visible colors on him.
+
+It was weird to see the former human without his perpetual ghostly silveryness, to be honest. Sure, Pyre had technically already known that he had brown hair, green eyes, and brown skin from seeing his dead body, but a mangled corpse didn’t leave quite the same impression. Right now, Callan looked just like an ordinary living human.
+
+“Damn, new trait? You corporeal now?” She poked his arm a few times, except she could now touch incorporeal things, so that didn’t actually prove anything.
+
+“Not quite,” Callan admitted. Pyre’s eyes moved downward, and when the former human lifted his foot, she saw that the grass below him hadn’t been dented at all. He extended an arm towards the closest tree, and it passed straight through the trunk. Huh, interesting. It looked like his current form was mostly aesthetic.
+
+She was about to point out that looking solid wouldn’t help him pick up papers, but the ghost exhaled, then pressed his arm into the tree trunk again. This time, it hit it normally.
+
+“I have a limited amount of time I can become fully corporeal each day,” the ghost explained. “Right now it’s just an hour per day, but if I only turn solid when I need to, that should be enough for me to search through things. I can look solid as long as I want, though. I just have to concentrate.”
+
+Pyre hummed, digesting the information. Like this, Callan could turn invisible and phase through any pesky walls in the way, then turn solid just long enough to dig through a few drawers before he got out again. It was pretty much a perfect setup. She had to admit, she was impressed.
+
+“Nice job, kid.” The demon glanced at the ghost, who was staring down at his arm while still in that opaque form. He almost looked a little awed. She snorted.
+
+“How’s it feel to not be see-through anymore?” she joked.
+
+Callan swallowed and lowered his arm. “Uh, good.” He laughed a little sheepishly. “Kind of weird, to be honest. Like, I can tell I don’t have any weight, but I look more like I used to. Well, when I focus at least.” He closed his eyes again, and this time when he reopened them, he’d returned to his translucent, silvery form. He smiled crookedly. “It’s a little uncanny.”
+
+Yeah, Pyre could see how that might be the case. Her lack of memories had made it the easiest thing in the world to adjust to her new flesh lump-hood, but she did wonder what it would’ve been like if she’d remembered being human from the start.
+
+Horrific, probably. Maybe more than a little scarring. Or maybe she would’ve been able to brush it off like she had without her memories, and it wouldn’t have mattered. She didn’t know what her personality would be like without the amnesia, after all, and that was its own separate question. Now didn’t feel like the best time to go down that rabbit hole, though, so she shoved it aside to focus on the present.
+
+“It’s good for us, at least. Now we’ve got a plan.” The demon glanced ahead. “Anything I should know about Magrath before we get there?”
+
+“Well, it’s the largest city on Auren’s eastern border. They don’t have access to an actual titan corpse”—Callan sounded slightly disappointed at that, but he continued— “but it was built next to a huge ichor reservoir. They say there’s an entire waterfall of ichor supplying the city!” The ghost’s excitement had quickly returned at the prospect of a shit-ton of ichor.
+
+Pyre hummed. “I’m guessing you’ve never been there yourself.”
+
+He shook his head. “No, I—I’ve never left Winrow before this. But we do get a lot of communication from Magrath since it’s so close to the border. Anytime Auren wants to send word out to Ravarn, it’s usually funneled through there.”
+
+The demon nodded in acknowledgement, filing the information away in the part of her brain that was slowly building a picture of this world and all the different countries she’d seen on the map. It was pretty obvious by now that the Tavrell Empire was doing as empires did and causing a whole lot of strife across the continent. Auren and Ravarn, it seemed, were allies or at least on good enough terms to warn each other whenever the empire did shit. That was good—if the two countries were on bad terms, it would probably be a lot more annoying to cross the border. As it was, it sounded like they could literally stroll over without issue.
+
+Case and point, after about another hour of traveling, the sound of rushing water soon reached Pyre’s ears. Ahead, the trees of the forest began to thin, and when she shoved her way past a particularly tall patch of bushes, she soon found herself face to face with the famed Pale River.
+
+She probably shouldn’t have been surprised at its size, considering how long it was on the map—it stretched halfway down the whole continent—but she hadn’t seen such a large body of water since getting reincarnated. Vague images of crashing waves and still lakes filtered to the top of her mind, but none of them quite fit what was in front of her.
+
+Up ahead, a wide expanse of running water rushed from north to south. Constant white foam clouded the surface where the waves crashed into jagged rocks and stones, which she assumed was what had given the river its name. The water was fast, and the few parts that weren’t covered in foam or spray were perfectly clear. Impossibly clear, really, but Pyre had a feeling that the scattered glowing ichor lights drifting along with the waves had something to do with that.
+
+Beside her, Callan seemed just as in awe. More in awe, actually, as he drifted closer to the water’s edge.
+
+“It really is perfectly clear,” he murmured. He reached a hand down to brush against the waves, but of course, they simply passed through his fingers. “Legends say the Pale River was formed when two of the ancient angel and demon generals fought. Supposedly the wind pressure from the angel’s blade carved into the earth and created the river.”
+
+Pyre raised an eyebrow and peered at the waters again. The full length of the river stretched far beyond what her eyes could see. “That’s a hell of a cut,” she said. “Did those two’s bodies get found?”
+
+“Maybe?” Callan frowned. “There’s still a lot we don’t know about the titans and the war. Most of what we have to go on are from artifacts and myths passed through the generations.”
+
+“In other words, even if those two generals’ corpses were found, you wouldn’t be able to tell they were the ones who made the river.”
+
+“Pretty much,” Callan said sheepishly. “It’s a little hard when everyone involved in the war’s dead now.”
+
+That would make it difficult to verify things, Pyre thought. She squinted across the river again, noting the distance to the other side. “I’m glad for the lore and all, but how’re we supposed to get across? This thing’s pretty damn wide.”
+
+“This is actually one of the narrowest parts of the river.”
+
+“Cool. Doesn’t solve the problem.”
+
+Callan frowned, face turning thoughtful. “Well, if we go a bit further south, there’s a bridge we could cross. There’ll probably be people on it, though, so we’d need to be in human disguises.”
+
+“I would need to,” Pyre corrected. She raised an eyebrow. “You can just hover over.”
+
+The ghost opened his mouth, then closed it again. “Oh.”
+
+The demon snorted. “Gotta remember your ghost privileges, kid.” She turned again to the other side of the river. The Aurelia Woods continued beyond the shore, and she noted a particularly tall, thick tree that stood out among its brethren. The trunk looked very wide and sturdy. The gears in Pyre’s head began to turn. A quick scan of her stat sheet revealed that [Weight Manipulation] was off cooldown, and her body felt fully solid again now that [Regeneration] had finished healing her wounds.
+
+“Sorry, I should’ve thought of this earlier,” Callan was saying. “If we head south now, I think we can reach the bridge in half an hour?”
+
+“Nah, I’ve got a better idea.”
+
+Focusing, Pyre grew a thick piece of bone from the center of her body. She stopped when it was about half a foot long, formed a ligament on the end, then grew a connected bone that was roughly the same size as the first piece. She kept up with this pattern, steadily forming a long chain of bones and ligaments. Once the pseudo-rope was long enough, she squinted at the big tree on the other side, then stretched her flesh back and chucked the chain across the river with all her strength.
+
+The bones soared over the rushing water, finally smacking into the tree trunk and winding around it a few times. Pyre gave the bone chain an experimental tug, and it held firm. She grinned. She was getting a lot better at aiming this thing.
+
+Throughout this whole process, Callan’s face looked increasingly concerned.
+
+“Uh, what’re you—”
+
+“See you on the other side, kid.”
+
+Without another word, Pyre activated [Weight Manipulation], lowered her body weight as much as possible, then leapt into the air while focusing on reabsorbing that chain of bones.
+
+Just as planned, each time the demon absorbed a bone link, it pushed her further and further across the river, aided by the momentum from her jump. The wind rushed past her, and she was vaguely aware of Callan yelling something behind her. On her part, the weightlessness was exhilarating—oddly familiar in its exuberance. Her grin was so wide that it was practically splitting her flesh apart as she rapidly approached the other side of the river.
+
+Seconds before she could crash into the tree, Pyre yanked the remaining bone chain away from the trunk and twisted her body in the air to aim at the ground beside it. She warped her body into a neat ball of flesh, eyes and mouth tucked safely away in the center. She activated [Impact Absorption] just as she slammed into the earth.
+
+[The skill [Basic Impact Absorption] has leveled up! Lvl 2 —> 3]
+
+Compared to her first giant fall in Fred’s hill, this was significantly less painful. Between her higher constitution and skill level and the fact that she hadn’t been nearly as high up in the first place, she only felt a brief shockwave pass through her body when she made contact with the earth. She did hear something crack, but it was just the ground below.
+
+Slowly, Pyre stretched her body back out and peered around. She was met with the sight of the giant tree she’d seen on the other side of the river, now up close and personal, and the western half of the Aurelia Woods. Behind, Callan’s ghostly form was rapidly floating across the water as fast as he could. The demon laughed.
+
+Oh yeah, she thought to herself. That was definitely better than crossing a bridge.
+
+Pyre collected the rest of her flesh into a clump, pleased that she was, indeed, mostly uninjured. The few damaged parts would easily be healed with [Regeneration]. The tree she’d latched onto had even managed to stay intact save for a few cracks and bits of broken bark, and she gave it a hearty whack. Good tree, that one.
+
+“ —re you crazy!”
+
+Callan had finally caught up, it seemed. Pyre turned to the ghost, who was panting a little from his speed-hovering.
+
+“Hey, it worked didn’t it?”
+
+“What if someone saw?”
+
+“Then they’d probably think they were hallucinating,” she pointed out. She’d been moving so fast she would’ve looked like a blur soaring across the river anyway. The demon gestured behind them. “Anyway, look.”
+
+Poking out above the forest canopy, Pyre could just barely make out the tops of buildings rising in the distance halfway between the mountains and woods. Even from their current position, the city’s size was obvious. There was only one place it could be.
+
+They’d finally reached Magrath.

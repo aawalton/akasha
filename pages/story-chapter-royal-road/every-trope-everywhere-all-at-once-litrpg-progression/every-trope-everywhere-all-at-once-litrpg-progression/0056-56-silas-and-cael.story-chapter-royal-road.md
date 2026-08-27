@@ -1,0 +1,193 @@
+---
+id: 3d672a46-1f7a-5e03-9e66-9c352a7691b9
+page-type-slug: story-chapter-royal-road
+title: "56 - Silas and Cael"
+slug: 0056-56-silas-and-cael
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 56
+ownLength: 1495
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3587204/56-silas-and-cael"
+royalRoadId: "3587204"
+---
+
+The Chainbound Giant splitting into two halves only made it stronger.
+
+[BOSS: Unbound Twin Silas]
+
+HP: 100%
+
+[BOSS: Unbound Twin Cael]
+
+HP: 100%
+
+Aeris was right. The giant truly did have two twin souls within it.
+
+Seeing that the captain and the others had been killed, the rest of the troops flew toward the twins, attacking them. But the twins were unlike the giant we had faced before. With their shackles free and their forms split in half, they were significantly faster than before.
+
+The broken chains trailed behind them as the twins darted through the sky, using them as weapons. The iron struck several warriors, the impact hard enough to knock them unconscious and send them plummeting out of the sky. The mages tried to cast offensive spells, but the twins were still immune to magic, just like they were in their previous combined form.
+
+My head was ringing.
+
+My body was telling me one thing and one thing only.
+
+“Everybody, run!” I screamed. “We can’t fight this! We need to get back to the others!”
+
+I flew toward Aeris, taking a seat on the saddle behind Meriel. She cut through the air, heading back toward the islands, where the main battle was happening.
+
+I looked behind. Several ships tried to follow us, but the twins were too fast. Too devastating. They rammed their entire bodies through the ships, tearing them down without a care for their own bodies. Kaelor’s soldiers did all they could, flying through the air and surrounding the twins.
+
+But it was no use.
+
+The twins danced around them like two flying ballerinas. As if sharing some kind of innate connection, they attacked in unison, making it impossible for the soldiers to stop them. The knights, archers, mages, and griffins fell one by one, blood spilling through the sky.
+
+I couldn’t look at them anymore. I turned back in the direction we were flying toward.
+
+“Kaelor, Reina, and Talon… We have to get to them quickly,” I said.
+
+Meriel pointed ahead. “I don’t see them.”
+
+She was right.
+
+The place before us was where the entire battle had begun. Yet, I didn’t see them anywhere among the horde of monsters and our other allies. With how many of them there were, it would’ve been normal to have lost track of Kaelor and the others, but I couldn’t see Tuna, either. Not to state the obvious, but it should’ve been easy to spot a huge whale like her.
+
+“I hear her,” Aeris said.
+
+“Hear what?” I asked.
+
+“That meow. The whale’s there.”
+
+Aeris tore through the entire battle, ignoring everything. The monsters briefly looked at us and prepared their attacks, but they couldn’t catch us with how fast she was moving.
+
+The three of us were flying right above the main islands now. At the center was the largest one, where the Skycurrent Festival had taken place. The island was once filled with laughter, food, and games, but now?
+
+They were completely empty.
+
+The horns that had sounded all over the sky after they spotted the horde of monsters coming toward them weren’t just a warning for the troops to prepare their defense. It was also to tell the inhabitants to retreat back into their homes. We had to do everything we could to keep these monsters away from these islands. The moment they break through our defenses, the inhabitants’ lives would be in danger.
+
+But seeing that Kaelor and the others were missing from the battle could only mean one thing. They were likely somewhere deeper into Whale Isles.
+
+And with Aurelius nowhere to be found, that meant he was also with them.
+
+The moment Aeris flew beneath one of the islands, everything came into view.
+
+Kaelor. Reina. Talon. Tuna. They were all there, fighting against Aurelius alongside several other monsters.
+
+But they weren’t unscathed.
+
+Tuna had several wounds on the sides of her body, while Talon had missing feathers throughout his entire body. Kaelor was the only one who wasn’t injured, while Reina…
+
+Blood poured from her head.
+
+“Reina!” Meriel cried as we swept by. We flew close enough for Meriel to jump off and land on top of Tuna, trying to heal Reina, but Aurelius and the monsters concentrated their attacks on her.
+
+“Keep at it,” Kaelor said. “We’ll keep them off!”
+
+Noticing me, Reina slowly handed Dawn Sunderer to me.
+
+“Take… it…” she groaned softly. “Aurelius… he’s weak… to it…”
+
+I put Giant Slayer into my [INVENTORY], taking her divine sword.
+
+“Aurelius…? Are you sure?” I asked.
+
+She nodded. “He’s been… focusing on me the most.”
+
+I looked at the sword. Could it be…?
+
+Effects:
+
+…
+
+- Deals massively increased damage against demonic and corrupted enemies
+
+…
+
+Aurelius must’ve been considered a demonic being.
+
+As soon as I looked at him, his rings shot toward us. Kaelor intercepted them with his daggers. A few slipped by, but Talon backed him up, taking out the rings with his slingshot. The other monsters followed up with attacks of their own.
+
+“A little help over here?!” Talon cried.
+
+I flew over to them, leaving Meriel to tend to Reina’s wounds.
+
+“Hey!” I shouted at Aurelius.
+
+For a moment, he stopped his barrage of attacks.
+
+“What is it?”
+
+I pointed at him. “Could you raise your hand a bit? The one with the Soul Anchor Ring?”
+
+He raised a hand. “Like this?”
+
+“Perfect. Just keep it steady for me.”
+
+The others looked at me like I was crazy, but I had a good reason to do all of this. This would make it a whole lot easier to cast [INSPECT].
+
+[ITEM: SOUL ANCHOR RING]
+
+Rarity: Demonic
+
+Description:
+
+A ring once worn by a demon who feared losing possession of his own soul more than death itself.
+
+Reading the description again, I think my assumption was right. That demon that the ring was referring to must’ve been Aurelius himself. I initially assumed Aurelius had been a human before he became that weird, hollowed-out body we saw back in the final section of the dungeon, but neither the cursed book nor Camille explicitly said he was. Or did they? I wasn’t so sure. Maybe he was a human who became a demon to attain such power.
+
+It was ironic that a man capable of manipulating souls was afraid of losing his own.
+
+“Alright, thanks. I have all the information I need now,” I said.
+
+Aurelius scoffed. “Is that so?”
+
+I pointed Dawn Sunderer at him. “You’re afraid of this sword.”
+
+“Why would I be?”
+
+“Because you’re a demon. Your greatest weakness is divinity.”
+
+At least, that was what I assumed. Every demon was weak to holy magic, right?
+
+It felt strange calling him a demon while he was in an angel’s body.
+
+“Maybe I am,” he said. “But it won’t matter much if you can’t hit me.”
+
+“We’ll see about that.”
+
+Kaelor, Aeris, and I all flew toward him at the same time. Talon stayed in the back, shooting some of the monsters in our path. He was surprisingly quick with his slingshot. I didn’t know how he did it, but it was almost as if he had an infinite amount of ammunition, quickly shooting them down one after the other. For a little boy, his precision made him rather useful during combat.
+
+“Aeris, take down the rest of the monsters!” I shouted.
+
+She flapped her wings in a certain motion, forming a large cyclone in the middle of the air. The monsters were swept up in it, but she wasn’t done. She let out her fire breath as they spun around in circles, killing them within it.
+
+Aurelius was much quicker than the monsters, easily avoiding the cyclone. Kaelor and I pursued him. His rings attacked us from every angle. Some of them missed us on purpose, returning back to him and trying to hit us from behind. I moved fast, avoiding the rings, while Kaelor deflected them with his dagger.
+
+I’m glad that I had such a useful pair of wings, otherwise this entire battle would’ve been a lot harder.
+
+Suddenly, Aurelius turned and fled.
+
+Kaelor chased after him.
+
+“Wait!” I yelled. But he didn’t listen. He didn’t turn back.
+
+I flew back to the others.
+
+“We have to get out of here,” I said. “Those twins are going to be after us.”
+
+“Twins?” Talon asked.
+
+“Another monster—well, technically two—that escaped the dungeon,” Meriel said. “We managed to close the gate, but the twins are powerful. They’ll be here by any minute now. Even so, Allene… you have to help Kaelor. He can’t fight Aurelius by himself.”
+
+“But—”
+
+“Go!” she shouted. “We’ll be fine!”
+
+I nodded and turned, chasing after Kaelor and Aurelius. Several monsters emerged out of nowhere, but Aeris and Talon took care of them for me.
+
+“Stay safe, everyone!” I said as I left them behind.
+
+Seeing how injured Reina was made my stomach feel heavy. But even so, I had to trust them.
+
+Kaelor needed my help.

@@ -1,0 +1,147 @@
+---
+id: 3136c1ac-a65d-51f6-a994-2e6b013a1408
+page-type-slug: story-chapter-royal-road
+title: "Ch65 Black Iron Mountain"
+slug: 0065-ch65-black-iron-mountain
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 65
+ownLength: 1757
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3467272/ch65-black-iron-mountain"
+royalRoadId: "3467272"
+---
+
+I take a few minutes to finish my practiced movements, then pull my cloak back into my system storage.
+
+Only the 2nd level of qi refinement aura escapes from my Illusory Demon’s Concealment Art, but the pressure my Martial Elite Physique now puts out is impossible to hide.
+
+It raises my strength by a full level and a half.
+
+There are no physical changes, but the weight of my movements just feels as though they’ve all been amplified. The sensation wasn’t as potent before with just a Martial Warrior’s physique, but now I feel the pressure in it even while taking a single step, or moving my gaze around our campsite.
+
+“Hey, Heavenly Archer, it's about time you took a break from your training. I thought you’d never come out.” one steward remarks with a half drunken wine bottle in one hand and spirit fragments from the gambling game he’s playing in the other.
+
+The other six old men’s heads turn my way, and follow with playful drunken greetings, asking me to join their next round.
+
+However, Yun Renshu has his back turned to everyone, looking off into the market.
+
+“There’s no time for another round. The Captain is returning…”
+
+Bao Zhan's shiny black head sticks out in the market crowd, and I catch his gaze staring right at me.
+
+The closer he walks, the more pressure I feel, and I start to resonate with his Acquired Physique on an invisible wavelength that no one else can sense.
+
+He can tell that I’ve moved up a minor stage, but does not bring any attention to it.
+
+“We have our orders, squad. I hope you’ve all spent your points and stocked up on provisions, we’re leaving immediately.”
+
+The small site we were allotted last week is cleaned and left just as it was. The ten of us walk out of the Stone Valley Stronghold’s concealment array and off into the undeveloped wilderness to the west once again.
+
+–
+
+Five full days pass.
+
+We secure a new spirit vein every day and kill initial stage illusory demons that sneak attack us with ease. We do not suffer a single casualty.
+
+There have only been two mid stage qi refiners that practice the Blood Demon Transformation Physique. One at the 4th level and the other at the 5th.
+
+Bao Zhan handles both of them bare handed, without even having to activate his own acquired physique.
+
+For the brief moments that they fight, I feel two distinct physique vibrations resonating with my own. There is a distinct shift that has occurred now that I’ve reached the mid stage of this acquired physique. For the first time, I understand how this squad captain would always know the exact location of blood demons that transform. Even outside of my spiritual senses, I can feel the general location of a blood demon through my Martial Elite body.
+
+I only use my black iron arrows and low grade bow. We don’t have much downtime, usually hours after securing a vein, another team comes along to protect it overnight, or vice versa.
+
+So, I just stack up 20 unused upgrade cards in my storage.
+
+Whenever there is a moment of rest, I do start to read over my physique booklet and slowly get accustomed to the next layer of this physique. Its rank is called the Martial Master.
+
+The movements and breathing techniques are much more complex than the first two layers of this technique. I do not attempt to practice them, as any pauses or breaks before a set of movements is complete in this layer can be harmful to the practitioner.
+
+When not absorbed in this booklet, I sometimes glance at the map I found in that 9th level illusory demon’s storage ring.
+
+The further we travel through these forests, the closer we get to the large black mountain at the center of the map circled in crimson.
+
+With this ominous connection looming in the back of my mind and the dwindling amount of mid stage demons guarding base worthy spirit veins, something doesn’t quite add up. I’m almost certain we’re headed toward some sort of trap… but how they’ll ambush us, or why it might be at this spot still eludes me.
+
+One morning, as a new messenger bird flies down from the skies into Bao Zhan’s hands, I realize today is the day I’ll find out.
+
+“We have a new mission. A pretty big one… it involves twelve other squads. We’re to trek 40 kilometers to the northwest and prepare to secure a low grade 2nd Tier Black Iron Vein. The report gives us a location to stay the night, but not to approach the mountain the vein runs beneath before the sun rises. We will receive additional orders once we arrive.”
+
+After a new team comes along and secures the base we’re in, we head off in the direction we’re ordered.
+
+Soon, the rocky forest terrain shifts drastically.
+
+There are no more occasional streams or small swamps. Even the green pine trees thin out, and the grey rocks shift to darker hues.
+
+A strong scent of iron ore fills the air, making it smell like we’re in the middle of a bloody battlefield no matter which way we turn. My spiritual senses have increased to about 29 meters in every direction, and despite the smell, I’m certain there is no qi rich blood actually in the air.
+
+The terrain turns from occasional dark boulders to quite literally jet black rocky ground and dirt.
+
+There are even chunks of Black Iron-like boulders that naturally stick up out of the earth with enough raw natural qi to be mistaken as a low quality 1st tier spiritual vein all by itself.
+
+Yun Renshu sees the curious looks on our faces, and his voice calls out from the rear.
+
+“A Black Iron Vein this size is quite rare. Even the ore this far away, at least 10 kilometers from the vein’s center, is already reaching the Low Quality standard.”
+
+He stops in front of a large black rock, breathes in and out a few times, then pulls out his mid grade short swords and slices deep into the stone.
+
+With a heavy kick, the boulder cracks in two and a small palm sized black crystalline rock falls out from it. It’s semi-translucent and gives off a constant grey-black aura into the air a few centimeters around it.
+
+It reminds me of the small low quality fire stone the Law Enforcement Hall gave to me to feed Little Red. After he refused to consume it, even after being upgraded to perfect quality, I just let it sit in my storage untouched. Maybe that strange stone is more valuable than I thought.
+
+Yun Renshu holds up the small black stone.
+
+“This is a Low Quality Black Iron Ore. One of these is enough core material for the Forging Peak to refine and separate out to create a few low quality daggers like the ones you were all given as provisions. The closer we get the more potent the ore will be… This entire vein is probably worth over a million spirit stones. No wonder the sect sent out 13 squads to capture it, that might even be overkill.”
+
+Whispers among the stewards start, but Bao Zhan up ahead shakes his head and points forward.
+
+“It’s not overkill. If anything, we’re probably running straight into a trap for the sect to gather more information. The last wave of 6 squads that went in only managed to escape with half their captains left alive. Only a tenth of the stewards made it out. All the survivor reports say there is a perfected 10th level qi refining Blood Demon guarding the mountain.”
+
+The stewards’ chatter stops, and everyone looks ahead to where Bao Zhan points once we walk over a small black boulder patch.
+
+The faint outline of a massive black mountain comes into view. The sun in the sky is already starting to fall close to the horizon, so it almost just looks like a triangular shadow at first glance.
+
+There is a small valley that looks like a dried up riverbed to our left, with much larger black boulders and a small amount of trees for cover. The trees thin out even more the closer they lead to the base of the mountain.
+
+“We’re to find shelter in this patch of forest before nightfall and wait for our attack pattern. Other squads will confirm their arrival once the sun leaves the sky.”
+
+Bao Zhan walks on, down toward the small forest valley. Yun Renshu’s words ring true, as the further in we follow, the more densely packed the Black Iron ore boulders are with qi.
+
+There are dozens with dense enough reserves to be mid grade veins, and even a handful close to that of high grade veins.
+
+Once the sun has fully set and the pitch black darkness creeps in, we set up camp behind a large grouping of pine trees around a high grade boulder, less than 3 kilometers away from the mountain's base.
+
+Bao Zhan’s communication talisman begins glowing every half an hour or so.
+
+He speaks into it too, “Bao Zhan, Captain of Squad 414, in position.”
+
+Unfamiliar names begin to reply, loud enough for everyone to hear.
+
+However, three names register loud around midnight.
+
+“Jiang Ran, Captain of Squad 510, in position.”
+
+“Mu Shulan, Captain of Squad 662, in position.”
+
+“Wang Ming, Captain of Solo Squad 19, in position.”
+
+Bao Zhan’s words that all members of the Beast Mastery, Combat, and Alchemy Peaks were signed up as recruits for this war repeat in my memories.
+
+This captain doesn’t react to any of their names, but he senses my subtle facial movements.
+
+“Are you familiar with any of these captains?”
+
+I shake my head, “No… not necessarily. I just recall overhearing their names in the Red Pine Market.”
+
+Bao Zhan nods. “That makes sense… their families are all closely entangled with the Elder Hierarchy of the Outer Sect. This war actually took some pressure off a major clan feud that was heating up in Lingshi City.”
+
+I’m about to reply, but another communication ping comes through.
+
+“Lan Xin, Captain of Squad 348, in position.”
+
+Bao Zhan’s eyes widen, and his acquired physique partially activates.
+
+“They actually sent her…? Now that might truly be overkill to take out a single 10th level Blood Demon.”
+
+He turns to his vice captain, then back in the direction of the Black Iron Mountain with eyes full of suspicion.

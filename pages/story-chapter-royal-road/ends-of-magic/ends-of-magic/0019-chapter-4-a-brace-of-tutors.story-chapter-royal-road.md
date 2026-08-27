@@ -1,0 +1,225 @@
+---
+id: 7ecc950c-2b92-5beb-8693-7386447de07a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: A Brace of Tutors"
+slug: 0019-chapter-4-a-brace-of-tutors
+partOf: ends-of-magic
+position: 19
+ownLength: 2799
+unit: words
+ownProgress: 2799
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2442636/chapter-4-a-brace-of-tutors"
+royalRoadId: "2442636"
+markedReadAt: "2026-06-29T20:07:52.587Z"
+---
+
+Watching Ushia fight against Stella was illuminating as to how the large orc woman’s combat style was supposed to work. She seemed to stroll around the arena, though the casual nature was deceptive. Her movements were quick, and she never seemed to end up where Nathan was expecting. It was like illusion magic, but that’s not what was going on at all. It was fate, magic, and wizardry giving a rather firm nudge to every action that both of the combatants took.
+
+Without Nathan’s mana sense, it would have looked like luck taken to the extreme. Every spell just so happened to miss, and even the larger explosive spells interfered with each other or veered off-course with the smallest touches of the Questor’s magic.
+
+It still might not have been enough if Stella had been giving the fight her all. But even this enchanted practice room couldn’t stand up to her more energetic magic. She was limited to fairly basic fireballs, small lasers, and blades of force. But she was making up for power with volume and was throwing around an absolute torrent of magic.
+
+But Ushia continued to find every hole in the barrage. She was closing in on Stella, eyes on the hovering mage.
+
+Stella darted to the side, using her flight magic to keep her distance. But with a tweak of fate, the magic destabilized and sent her spiraling directly into the Questor’s arms. Stella’s mouth flew open in a gape of surprise, sputtering from where the orc had caught her. She glared over at Nathan. “Nathan - “
+
+Ushia interrupted her with a deep chuckle, then set Stella down on her feet. “Don’t look to him. Your spell isn’t perfect, so it splintered when I required it to. You’re focused on actively guiding your spells when you should be taking more care with your initial aim. It is a weakness I can target, and other mages may have the mastery to usurp your targeting. Build spells that find their target without your guidance. They can still control your magic, but it is harder.”
+
+The mage closed her mouth and nodded slowly. “Again?”
+
+Ushia grinned back. “Always.”
+
+The Heirs and their tutors reconvened several hours later over a fancy dinner served by the palace staff. Everybody had enjoyed themselves, and idle conversation flowed freely alongside bountiful food and drink. After they demolished the dessert course, Sarya claimed their attention by delicately tapping her glass with a piece of cutlery. “We should plan our future training.”
+
+Nathan looked up from the delectable custard in surprise. “We’re getting more? With how much you went on about not training us too much, I’d only expected what we’ve gotten today.”
+
+Brox chortled. “That’s not help, that’s basics. Help would be if we granted you artifacts, or Grand Insights that could be linked to us.”
+
+Garna sniffed primly. “Indeed. Despite your power, your experience against varied foes is lacking. Davrar has granted you power, but it cannot grant wisdom.”
+
+The Heirs weren't put off by the mild insult, giving each other excited and disbelieving glances. None of them were going to turn down extended training from Questors.
+
+These lessons are quite literally priceless.
+
+Ushia chortled, dabbing at her mouth with an ork-sized napkin. “I’ve more to teach Stella, but unarmed combat is the only place I can teach Nathan. His antimagic triumphs over my wizardry, and his magical detection is in the regime of the highest tiers. I should not be his primary teacher."
+
+Sarya and Brox shared a long look and a raised eyebrow before Brox flicked a finger in Nathan’s direction. “Take him. It will take me all week to beat proper swordsmanship into Aarl.”
+
+Nathan’s teammate looked chagrined, but he shot back a response regardless. “I can stand up to you, old man.”
+
+“But you can’t stop me from going where I want,” Brox replied pointedly. “It’s not good enough for you to challenge your enemy, you gotta make sure they can’t ignore you either.”
+
+“Similarly, Sarah requires a great library of learning,” Garna put in, a look between pride and dissatisfaction on her face. “Her weapon is crude in many ways, but elegant in others. Any who knew the Insights to make it would create something more advanced or achieve the same effect with magic. But it may serve as the focus of a unique build.”
+
+She fixed Nathan with a severe look. “I can only assume these weapons were your doing?”
+
+He nodded unabashedly. “I don’t know how to make things, so I taught some crafters in Gemore.”
+
+Garna looked mildly surprised. “Freely? They are making more of these devices?”
+
+Sarah coughed to cover a chuckle. “Yes. It’s becoming one of the most common weapons of Gemore.”
+
+“Ah,” Garna said, her brows furrowed in consideration. “I will visit in time to see what Paths develop upon that foundation. There may be some unique Insights to collect.”
+
+Feeling like he was in school, Nathan raised his hand to get her attention. “Actually, we used that Insight and some others to establish a library of Insights. There’s going to be a lot of interesting builds coming out of Gemore in the near future.”
+
+“As the grand Scriptorium of Zemis. Before the Ending of Deicide,” Garna mused, mostly to herself. She turned her gaze to Brox. “Either improve your stewardship of that city or yield it to my care. With such a boost, it only requires mild guidance to dominate the continent. We may even achieve another ending-proof civilization.”
+
+“Don’t forget the promised Ending for Gemore.” Sarya interrupted, reaching past the androgynous woman to snag one of the few remaining plates of pastries. “The Ending of History will descend upon Gemore in a hundred years. That’s not long enough to prepare them. But if the Heirs succeed, then the Endings may stop entirely.” She spoke the last words through the crumbs of a tart, but they stilled the conversation despite the delivery.
+
+Ushia shook her head in disbelief. “It blinds the mind’s eye, to think of the end of the Endings. It has been the framework of Davrar since its inception.”
+
+Brox pointed his fork at her, but his eyes swept along the Heirs. “Don’t claim the hoard yet. The dragon is still to be slain, and it’s a greater challenge than any of the true dragons of past ages. It is a Conclave.” He spoke the last word like a curse.
+
+“I don’t know about that,” Sarya said in response. “Remember Othryx, the eclipsemaw we tracked down before the Ending of Wrath? The one that was lurking underneath the sawtooth gulf?”
+
+“A campaign, but a campaign with a single opponent,” Brox countered. “This is worse than even the Ending of Wrath. Never before have creations of Davrar been victorious against Questors. Not for the long span.”
+
+The Heirs exchanged glances, mostly of excitement. None of them really felt intimidated by Brox’s statement, but all were starting to realize that they were sitting across from people who had fought through every one of the Endings. They had likely been present for most of the legends told in Gemore. Not to mention the things that should have been legends but had been forgotten.
+
+“What is the Tale of Endings?” Nathan asked first, curiosity overwhelming him. “Did you establish it?”
+
+Sarya shrugged. “It’s one of the things that raised the eminence of the Ashen Accord. Before the Ending of Monsters, the Endings were unknown across Davrar. But then every Questor had to explain and convince every person and culture that the Endings were real, and that one was coming, they needed to prepare for.” She shook her head. “It’s a worthy challenge the first time, but the tenth grates at you. The board of the Ashen Accord proposed a memetic story that would spread and embed itself in all of the peoples of Davrar. The Tale of Endings. It was one of the few things the council ever approved before it became irrelevant. Though it necessitated beating a few holdouts in duels and bribing them to agree.”
+
+Stella had been about to ask her own question, but that answer had distracted her. The rest of the Heirs were sitting in shock, slightly gaping. It was one thing to be around legends, but quite another to hear that they’d engineered one of the founding myths of your culture for a specific purpose.
+
+Aarl recovered first. “What was the Ending of Undeath? Does it have to do with Quaz?”
+
+“Are we answering these questions freely?” Garna asked with a raised eyebrow, looking around at her fellow Questors. “These are weighty answers, if ancient ones.”
+
+“Just don’t tell them the secrets of Kalis,” Brox replied with a shrug, then looked back to Aarl. “Quaz came later as an attempt to suppress the undead. The Ending of Undeath was simply the time when necromancy became viable. When all corpses would rise within moments of death. It wasn’t a tale of woe until the liches rose.” He shivered. “The obelisks of bone were…” he trailed off and gave the Heirs a significant look. “A verified secret.”
+
+The Heirs continued asking questions, and the Questors answered with an air of indulgence. They steered away from certain topics, especially those about the Seals and details on specific Questors. A few other topics were off-limits, such as what precisely had made the Kalis Conclave so adept at enchantment, or the nature of the depths that lay underneath every continent.
+
+But even with several taboo subjects, it seemed like the Questors had a limitless tale of stories to tell, and they warmed to the telling in time. It didn’t seem like it was often that they got emotionally invested in people who didn’t already know their stories. They talked late into the night, and it was only with Ushia’s reminder that they were going to train all day tomorrow that the gathering broke up.
+
+Nathan went to bed with his mind buzzing with thoughts. He dreamt of bragging about being able to carry any weight before being asked to prove it and being crushed underneath the burden of an entire world. It wasn’t a detailed dream, but the tension kept him from sleeping well until he took some time in the early hours to meditate and recenter himself.
+
+The next morning, Nathan left with Khachi to meet up with Sarya for the next day of lessons. He came with a question, and as soon as he saw the Questor he asked it. “Help me understand something. We’ve been adventuring and fighting for such a short time compared to you. We’ve been in dozens of fights. You’ve been in thousands. How can we hope to accomplish anything that will impress Questors? You’ve fought through eight Endings. You must be level ten thousand.”
+
+Sarya took her time in answering, tilting her head back and forth to consider his words. “The first dozen battles are the significant ones. Once a build is developed, it rarely changes.” She pointed to Nathan. “You fight with your aura and your fists. You destroy any magic you target, then close for melee combat. You will continue to elaborate on that, but it will be in smaller and smaller changes. Your build is set, and the improvements will be in scale, not in nature.” She shrugged her shoulders, and suddenly a knife was twirling between her fingers. “I have achieved forty-four levels since the last Ending, but the difference between level four thousand, five hundred twenty-six and four thousand, five hundred seventy is slight.”
+
+Nathan nodded slowly, trying to parse what she was saying. “Questors plateau. Your levels go up, but your skills and abilities don’t change. That’s what you’re saying. So even if we’re lower-level, we’re still dangerous.”
+
+She dipped her head in acknowledgement. “The levels carry little weight once you are capable of true deeds, and defeating a Questor like Badud is such a deed. Stella is not level 729, but her Insights would allow her to fight mages five times her level.” She gestured to Khachi. “He follows the Path of Faith in an age when gods are dead, and retains the flame of true belief. Those features trump levels. True commitment to your path, and continuing to innovate and develop your Insights is the truest guide to power.”
+
+Sarya’s lip quirked in dissatisfaction. “Many Questors, especially in this time, do not develop their own paths. They own powerful Insights, but did not develop them and do not understand how to make them their own. How to cultivate the shifting meaning of their builds to true power. That is the most important lesson on Davrar. I would teach it to you, but you have already demonstrated your understanding.” She spread her hands wide. “It is our desire to grant you tools and options. The best build is one assembled from many pieces, in the same way a craftsman with the right tool for every job will produce better works.”
+
+She gave a self-satisfied little nod, signaling that she was done answering Nathan’s question. Then she turned to Khachi. “You have a solid grounding in ethical theory, but lack theological grounding. We’ll pick back up there as soon as I send Nathan on his way.”
+
+“On my way?” Nathan asked, curious.
+
+Sarya gave him a smirk. “Verified truth. I have trained hundreds of spies, thieves, and assassins. You must learn to evade the hunt and achieve your objective regardless.” She reached into a pocket and pulled out a sheaf of little pieces of paper. “Slip these onto the persons of the guard captains across the city. You’ll recognize them from this emblem on their shoulders.” Her jacket flexed slightly, the shape of a stylized kite shield bearing a crossed key and torch rising from the leather. “They know you’re coming and are watching. They’ve done this before. To beat you, all they need to do is touch you.”
+
+Nathan almost objected, but Sarya cut him off with a raised finger. “Don’t start with a false premise. This is a stealth exercise, not a combat one. I don't want things getting messy, and you will not disturb the peace of my city. You may flee from them, but you cannot fight them. If any guard touches you, then you will hand over one of the slips of paper as their prize. At the end of the day, they will report the score, in paper found versus paper taken.” Her smile turned sly. “They’ll be rewarded for every paper they take, so they’re motivated. And they won’t lie about it.”
+
+“Do I get a reward?” Nathan asked glumly, seeing the nature of the game. Being chased by the guards could be fun, but if they were competent, it might also be a pretty terrible slog.
+
+“Normally, I offer enchanted trinkets or additional training. But that doesn’t strike the right chime, does it?” She replied, then tapped her chin in thought. “What treasure would serve? Ah, a few things. Books on spellwork. No grand Insights, but from Ushia's words, you should gain interest from even basic spellbooks. Further rewards will be in luxuries. A meal of finest ingredients for each slip you deliver.”
+
+Nathan traded a look with Khachi, who shrugged. “It is your burden,” the wolfman said.
+
+With a sigh, Nathan took the pieces of paper. They weren’t enchanted, but each was stamped with a complex pattern that would be quite challenging to replicate. “Alright. Just into the city, and then any guard I see?”
+
+“Guard captain. Symbol on the shoulder,” Sarya replied with a nod, then shooed him away. “So I may have theological discussions in peace and without the interruptions you will have."
+
+Nathan went, quickly finding his way out of the palace and heading down the causeway towards the city of Kehonia.
+
+As he left, his skill-enhanced hearing allowed him to hear Khachi ask Sarya a question. “How many do you expect him to plant?”
+
+The response was quiet, but amused. “One or two. My guards are good.”
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 564
+
+Regenerative Focus: 5740/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 3
+
+Mystical Discernment 4
+
+Forewarning 2
+
+Arcane Insight 4
+
+Evasion 1
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 9
+
+Visibility Control 5
+
+High-tier Disguise 5
+
+High-tier Battle Cry 3
+
+Aura Control 5

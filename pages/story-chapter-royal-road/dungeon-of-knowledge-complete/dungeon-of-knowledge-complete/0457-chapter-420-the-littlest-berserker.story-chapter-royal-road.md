@@ -1,0 +1,131 @@
+---
+id: d8fd9aa9-9b4f-5f91-b0e8-d213e4acd5ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 420: The Littlest Berserker"
+slug: 0457-chapter-420-the-littlest-berserker
+partOf: dungeon-of-knowledge-complete
+position: 457
+ownLength: 2688
+unit: words
+ownProgress: 2688
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2703820/chapter-420-the-littlest-berserker"
+royalRoadId: "2703820"
+markedReadAt: "2026-06-29T20:27:38.432Z"
+---
+
+Hold on, Ali! We’re coming, Malika thought as she waded through the crawling sea of writhing plant monsters, exploding Creep Spores, and lashing thorny whip vines. She lashed out with a blur of speed, her fist delivering her blue-white Soul Strike to the gnarled, thrashing cluster of branches trying to scrape her face off. The punch connected with a satisfying crack, and her soul magic burst through the monster, sending splinters and fragments of twitching wooden branches flying, and pierced the next angry plant aberration trying to claw its way to her.
+
+She threw herself into the next cluster of monsters, overaccelerating her kicks so much that she began taking damage from her Divine Step. But the kicks landed with brutal speed and power, sending the smaller monsters and pieces of the bigger ones flying as her Soul Strike ripped through their tough bark, making them screech and hiss.
+
+A sudden, deafening, creaking noise warned her at the same time her Soul Sight saw the formation.
+
+“Giant Growth,” she yelled.
+
+The huge Mana Eater in the center of the room suddenly swelled to gigantic proportions as its empowered Giant Growth skill turned it into a malevolent, reddish glowing behemoth that towered above them. Immediately, she dropped everything and stepped through space, appearing beside Mato amid a sea of void and shards of wood. Thorny vines burst from the ground, striking him with deafening whip-cracks, ripping great slashes in his hide, and then the giant plant monster’s heads lashed downward, biting and snapping to the sounds of Mato’s bones crunching as they struck.
+
+With a touch, she released her stamina, shoving soul magic past his Mutagenic Corruption in a torrential rush. Despite the layered corruption, her magic healed him in an instant, surging with unbelievable power. Gonna need to switch again soon. She dodged sideways, avoiding a striking vine, thorns missing her eye by a hair’s breadth, and she pulsed more healing into him as the onslaught beat down on the beleaguered bear. She kept up the ritual dance, dodging left and right, and healing again and again, while the monster rained down its fury upon them, until finally the magic shimmered and faded, retreating as the huge plant monster shrank back down to its normal, merely enormous proportions.
+
+She took a deep breath, filling her lungs with the spore-laden air, and quickly glanced about. So many, she thought, seeing the chamber crawling with summoned monsters. While she grew more and more powerful by the minute, the same could not be said of her friends. Without mana, Mato couldn’t heal, and so she had stepped in to take that role exclusively. And without mana, Calen was almost worthless in battle, and without his powerful area damage, they were slowly getting overwhelmed by summoned monsters – and, as hard as she was trying, her mostly single-target damage simply wasn’t effective.
+
+“Calen, this isn’t working.”
+
+“I know,” he said, a surprising anguish making his voice unexpectedly shrill. “But she’s right there, I can see her fighting on the other side of the rift.”
+
+Ali! What – how? We have to save her!
+
+Ali was sweating blood. Literally. Her vision swam, and her body swayed as the disorientation of the Pit Lord’s corruption twisted its way slowly through her body, weakening her from within. She wiped her face, but it only marginally improved her vision.
+
+“Move him away,” she shouted urgently as yet another patch of hellfire sprang into existence, covering her warriors and berserkers like an upended cauldron of burning pitch. But as her Armored Drake began to move, Maalgaroth triggered his Panic, a fear bomb that instantly disrupted her melee group, and he charged off to impale one of her dragons. Blades of blood exploded from the point of impact as the hellfire-wreathed glaive lost almost a meter of blade to the void shields.
+
+But, as usual, as soon as Maalgaroth withdrew his blade, it began to regenerate, visibly growing back to its former shape as its wielder began to heal himself by stepping into the fire. Ali gritted her teeth in frustration. She just couldn’t catch a break in this fight. As soon as she had some semblance of stability and her remaining magic users began to do a reasonable amount of damage, he would simply fear bomb everything and heal up as the Mortal Wounds debuff expired.
+
+She was running out of ideas to try, and she was running out of time. The corruption aura had fifteen minutes left, and if she fled now, she would be feeding the demon god her entire army. Reflexively now, she shot him with her arcane disruption the instant she recognized the potent formation of his expansive Rain of Fire and Blood attack and threw up several barriers to protect her weaker minions.
+
+Wait, wasn’t there something? Desperate for a solution, she pulled up the chapter in her Grimoire, reading the skill description directly from the runes.
+
+Compulsion – level 25Mana: All nearby demonic allies gain Frenzy. All nearby foes experience a greater need to flee. Allies gain increased resistance to mind-altering effects. Channeled. Range: 17.5 meters.Mind, Area, Intelligence
+
+That’s it! She had even briefly used this ability to stand up to Azryet’s dragon fear for a few seconds before he had disintegrated the entire room. She barely remembered half of that fight, addled as she had been by the combination of fear and rage, but this part she recalled clearly. While the battle raged about her, she took the time to summon her Baelok Descrier.
+
+It felt like the summoning took forever, but the eye demon finally appeared, its eyes rapidly darting about, taking in the scene. “Master…”
+
+“Get your Compulsion in range of the melee,” she commanded, her voice filled with the urgency that rose within her.
+
+“At once, master!” her Descrier said, and for perhaps the first time, she didn’t feel bothered by the way she was addressed, simply grateful for the prompt response. It flew off toward the melee, hovering above the burning hellfire and raining down mind blasts from its smaller peripheral eyes.
+
+She grimaced as Maalgaroth dropped even more fire with Zone of Destruction in response. Some of the earliest patches had burnt out, but over half the cavern was now covered with black flames, and her healers were starting to struggle to keep up. She tossed out a barrier to try to block some of the hellfire blast wave while she grudgingly turned to the rocky floor and began to inscribe an inspiration circle for her mana users. It was a last-ditch idea, and one she shouldn’t have to use in a fight with a time limit like this one. But she didn’t see any other options.
+
+As soon as her Baelok Descrier got into range, the Compulsion aura rolled out, granting all her melee and the dragons additional resistance against mind-altering effects – including, hopefully enough to resist the Panic. But as soon as the aura reached Maalgaroth, he snapped his head around and almost vanished, appearing in the air above the floating eye demon, his glaive already piercing through the top of its body. Ali’s eyes widened as he forced the glaive viciously downward, plummeting to the rocky ground with the Baelok Descrier impaled beneath his feet. As he hit the ground, the crash of his heavy landing triggered his stomp attack and the simultaneous blast wave of hellfire, and the pieces of her eye demon rained down upon the cavern as charred demon meat.
+
+Ouch! Ali gagged from the stench carried to her on sudden waves of blistering air. She had no choice; she reached for her Grimoire to summon another, but suddenly, from behind her, there was a shimmer and a flicker in the mana, and a puff of blue gas shot out. Ali coughed as she inhaled some, and to her horror, her mana suddenly plummeted. Reacting faster even than the shriek of survival instinct in her mind, she teleported, switching with Tol’brekk and bubbling herself in a barrier just in time to avoid the blast wave of hellfire as she tried to scramble out of Maalgaroth’s range.
+
+“Scatter!” she screamed as she recognized the blue spore clouds billowing out among her mages and acolytes. Her minions scrambled to escape as the spores voraciously consumed their mana.
+
+It was a disaster. Formerly a stalemate, now most of her magic users were suddenly critically low on mana and scattered among the burning patches of hellfire. Her acolytes frantically tried to use Prayer, but they needed to heal and keep on top of the corruption.
+
+“Combat mana potions!” Ali yelled. Those acolytes need mana – now!
+
+“Riddle me this, riddle me that. Why use a potion when you have a hat?” Kir’vella chanted, cackling wildly as she summoned her conjuring spell.
+
+Ali ignored her insane babbling and froze time, using the brief respite to inscribe a huge Inspiration circle – suddenly a much higher priority than another Baelok Descrier – and much bigger than the one that had just been interrupted by the spore cloud.
+
+Spore cloud…
+
+Ali paused in the middle of her inscription as the implications hammered through her mind in the quiet, silent gray expanse of the Spirit Realm. Spores of the Mana Eater. She had had her mana consumed by one of those before – it was an unforgettable feeling. There was no Mana Eater here in the Abyssal Realm, but there was one on the other side. It was, in fact, her leading theory for the reasons behind the Rift closure – but if the spores had made it through, then the rift had to be open!
+
+Ali stared across the divide, tracing the lines of the cracks in the fabric of reality until her eyes found the gap. A small hole, about the size of her fist, and a gray cloud of spores frozen in time as they billowed through the gap.
+
+An ooze? No, it needs mana. Heart hammering in her throat in formless but undeniable hope, she finished her runic construct, and the Spirit Realm faded.
+
+“Frog the berserker!” she yelled, and Kir’vella’s eyes snapped up in surprise. “Hurry!”
+
+“Hop, hop, little frog…” Kir’vella sang, but she seemed to catch the urgency as her curse formation flickered from snapping fingers.
+
+Standing beside the rift amid the billowing blue spores, Tol’brekk turned and met Ali’s pleading gaze and made both his wicked greataxes vanish. The enormous giant troll suddenly shrank, turning into a tiny green frog.
+
+Ali held her breath as she watched it hop once, twice, approaching the crack.
+
+“Ribbit!” her Berserker said, with a strangely trollish accent, and then with a final hop, it vanished through the hole in the rift.
+
+We have to get out of here, he thought, unwillingly reaching the same conclusion as Malika. For all their efforts, it had come to this. They were slowly being overwhelmed.
+
+But she’s out there on the other side, fighting for her life. And it wasn’t just any fight, he had seen glimpses of the Pit Lord through that rift. He wanted to be there with her. Fighting with her – their friendship, their companionship, had grown far deeper than he could find words to describe.
+
+Realizing pierced his heart like an arrow, agonizing. Everything in him rebelled at the decision he must make. He had to call the retreat, or the three of them would die. Maybe not this minute, but soon they would be overwhelmed. Already, there was no place for him to land on the floor, and the Braconids and Creep Spores were swarming the walls, reaching frantically for him. But in order to save their group, he would have to abandon Ali.
+
+In that brief moment, his powerful Eyes of the Archon skill had shown him what lay beyond the rift – a snapshot glimpse of Ali with an expression of fear on her face, shouting something in the midst of towering pillars of hellfire, and he knew she was fighting for her life.
+
+I can’t…
+
+“We can hold out a little longer,” he said. “We have to!” But what he was holding out for, he had no idea. A miracle, perhaps? He had no mana, and every little bit he leeched back with his meager shots went to power his storage ring to retrieve mundane arrows before it was sucked dry by the blue spores that filled every nook and cranny of this chamber. If he just had a little mana, he could clear the room with his explosive shot and piercing volleys of conjured arrows, but he never built enough mana to do it. He had tried everything he could think of, including downing an expensive mana potion – that had allowed him a single explosive shot with a mundane arrow, but that wasn’t nearly enough to wipe out these hardy plant monsters or counter the constant drain from the spores.
+
+He fired again, a powerful feeling of worthlessness rising in his heart as his single arrow struck the Mana Eater with a thud, embedding itself into the bark and having no visible effect on the huge monster, even with his Armor Piercing enchantment. He scoured his skills for the thousandth time. He had very few stamina-only abilities – unless he wanted to track something, he was restricted to just Armor Piercing and single-shot arrows. And Power Shot, but that would consume most of his stamina in one shot, perhaps letting him break even once he regenerated it.
+
+The seconds ticked by, but nothing changed. Malika got faster, more powerful, but the number of monsters in the room for her to fight grew larger, outpacing her abilities. Her attacks were optimal for single targets, not rooms full of crawling monsters, and every time she had to trade off with Mato to drop his Mutagenic Corruption, the horde in the room swelled larger. He glanced over to where the rift had once been, but he could no longer see any sign of Ali.
+
+I’m sorry. He directed the thought to her, but he could see no way to salvage this fight. They were just not enough. They would have to return to the Landing to relieve the raid group left behind fighting for their lives to keep the way back clear. Just the idea of admitting failure, even in his mind, made him hesitate.
+
+“Ribbit.”
+
+Calen’s heart clenched as the incongruous sound reminded him of his torment at the hands of the first Aman Rak witch doctor. His eyes snapped downward, searching the seething, creep-covered ground. To his astonishment, his eyes caught sight of a small green frog sitting there like it owned the place. It looked left, and then right, and then hopped about a foot further into the room.
+
+What?
+
+A Sylvan warrior, scrambling over allies in its efforts to reach Mato, kicked the little frog, and the most curious thing happened. The frog twisted and warped, suddenly growing larger. What had been tiny green padded feet swelled into huge, muscular legs. The torso ballooned as if belatedly remembering it ought to catch up, and tusks sprouted from its mouth until he stood gaping at the twelve-foot-tall form of Ali’s favorite Carnage Berserker troll.
+
+Tol’brekk roared his fury at the room, and the plant monsters froze. In the sudden hushed silence, he pulled two giant greataxes from his tusk-ring storage enchantment. Blood erupted from his torso and arms, forming a dense, angry red mist that swirled around his torso and arms like a living, malevolent summoning. Plant monsters screeched, thorny whip vines lashed, but the Carnage Berserker unleashed the fury of his Blood Vortex upon them.
+
+Ali, you’re a fucking genius! Somehow, she had found a gap in the rift, and she had used the Frog Hex to send Tol’brekk – a monster with no mana – through the tiny hole to help them. He watched with mounting excitement as the massive axes and whirling blades of blood began to tear their way through the huge mass of plant monsters like a storm of scythes mowing grass.
+
+Yes… Yes! “Let’s go!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

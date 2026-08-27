@@ -1,0 +1,133 @@
+---
+id: 1ac5356f-d91a-5ad5-b878-d037248f052b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 331: Heroes of the Crimson Blade (Part 2)"
+slug: 0368-chapter-331-heroes-of-the-crimson-blade-part-2
+partOf: dungeon-of-knowledge-complete
+position: 368
+ownLength: 2079
+unit: words
+ownProgress: 2079
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2481176/chapter-331-heroes-of-the-crimson-blade-part-2"
+royalRoadId: "2481176"
+markedReadAt: "2026-06-29T20:23:04.761Z"
+---
+
+“Why are you invading my home?” Ali asked, standing in a bubble of her barrier magic, flanked by the highest-level trolls she could make in the short time she had available. Even partitioned as her mind was, supporting the four away teams in currently active raids, she had more than enough attention to summon and direct this force.
+
+“Aah, you must be the dungeon core, then?” Vernon said, straightening his priestly robes as the mana of a potent perception skill flickered in his eyes.
+
+“I am,” Ali answered. “And I’d like you all to leave.”
+
+“Sure,” Bartak said, his sword flaring with fire mana. “We’ll leave. Right after we kill you and collect your magicite. The royals offer a handsome bounty for dungeon kills. Nothing personal, it’s all just money.” He stepped forward casually, and if he was intimidated by her ice mages and berserker, he gave absolutely no sign of it.
+
+His blunt admission that he intended to murder her for money had a rather clarifying effect on Ali’s mind. Deep within her heart, in a place that rarely saw the light of day, anger kindled – a rage that had been a part of her ever since she had been forced to watch the Blind Lich kill her parents.
+
+“You tried to murder my guests,” Ali said, speaking with the voices of every troll in unison as she manifested a domain-enhanced barrier between them, causing Bartak’s advance to stop. “And if you cared about treasure, you wouldn’t have been prioritizing your ‘job’ over finding it.”
+
+“They were dungeon dwellers,” Vernon said, shrugging with upturned palms. “Under the treaties, they waive their rights by being allied with a dungeon.”
+
+“They are people, refugees from Ciradyl,” Ali said, “And I am a person. What you seek is murder.”
+
+“Not according to the law,” Vernon said, a smug look on his face.
+
+“And that,” Bartak added with a vicious grin, “is how we became rich and famous.” He raised his sword, bringing it down with incredible speed and power, and her barrier shattered.
+
+“Attack!” Ali commanded, sending her Bone Warriors, Shamans, and Ice Mages roaring into battle. “You defend me for now,” she said, and her giant Blood Berserker simply shifted sideways, placing her considerable bulk between the sudden hail of arrows and ice, and Ali’s tiny body.
+
+Bartak ignited himself with roaring mana as his body grew larger under the influence of his magic, and he lashed out, striking at Ali’s trolls with a series of searing, cauterizing slashes. Immediately, the Blood Shamans chained Blood Siphon to heal, tossing out totems while her mages unleashed ice bolts into the enemies.
+
+She couldn’t see the assassin, but she hadn’t seen him flying so far, so she quickly levitated herself and her berserker off the ground, hopefully out of reach as the battle raged below. For a few moments, Ali thought she might be able to win it, but then the assassin appeared. One of her shamans died in a single strike and the flickering shadow of his daggers unleashed a melee storm of destruction among her trolls. Then the witch struck with perfect timing, freezing every single minion that wasn’t an ice mage, allowing both the hunter and the rogue to land critical strikes against the immobilized enemies.
+
+“Get in there and delay them,” Ali commanded.
+
+“At once, Seeker,” the berserker said, grinning as she leapt from the barrier and landed among the enemies with a roaring crash.
+
+Ali fled amid a hail of ice and flaming arrows, shooting down a level as her minions began to fall. She swooped through the great doorway on the second level and out onto the three-ringed industrial ruins, coming to a halt in the giant clearing where they had once fought the Piercer Scorpion boss. Where they had almost lost Calen when he had fallen during the fight.
+
+What can I do? She couldn’t keep running. None of her other minions were at a high enough level to do more than delay this group. Her strongest remaining boss was Mok’freja, protecting the rift, and, while that was far away, still, this team had torn through her monsters with terrifying speed. Her friends wouldn’t make it back in time to save her. She could try to run, to flee to one of the cities or Naia’s dungeon, but she would be inviting this group of murderers masquerading as a respectable platinum adventurer group to attack her friends. Besides, for her, all of those solutions would merely delay death.
+
+No. While the screams and roars of the trolls filtered down from the library, Ali opened her Grimoire and summoned her most powerful monster. No, I have to stop them. If I run, they’ll massacre the Elves. Evacuating several thousand Elves would take time under the best of circumstances – time they did not have. She could see them even now, still milling about in panic and confusion or trying to hide, unable to reach the teleportation ring in the library. Perhaps if Lyeneru or Rezan were still here… but they were off scouring the forest around Ciradyl for survivors.
+
+We were foolish to disperse so far, foolish and unprepared. It’s up to me, now.
+
+“Stand here,” Ali said as soon as her minion appeared, pointing to the center of the clearing where the cold flagstones were still scored from the aftermath of their old fight.
+
+“Seeker,” Tol’brekk rumbled, his deep, grating voice sending involuntary shivers down Ali’s spine. “I smell blood.”
+
+“Yes, intruders have come,” Ali said, channeling her mana into inscribing a massive restoration runic circle, covering the entire clearing, extremely grateful for all the magical haste she had earned from her skills and evolution. The runic restoration circle would be an indiscriminate bonus, healing everyone within its area. But the berserkers use health as if it were mana. At least in theory, her magic circle would be a far greater advantage for the blood magic user than anyone else.
+
+“Intruders?” Tol’brekk lumbered out to the indicated spot and turned to look at her. “I do not like running. I wish to fight.”
+
+“You will have your fight,” she said, and activated Domain Mastery, her mind already racing through her possibilities. The sounds of fighting from above were already beginning to fade. “There are five, and they are strong. I hope you’re up for this.”
+
+Domain Respawn applied to Carnage Berserker.Raid Domain Enhancement applied to Carnage Berserker.
+
+Tol’brekk was still at level one hundred, but he was her only evolved minion. Her only hope. He was going to be the most expensive raid boss she had ever made, but she was desperate, and mana was the least of her worries right now.
+
+As her domain mana began to swirl around the giant berserker, he turned to gaze at her, tusked mouth slowly curling upward at the edges into a fearsomely wicked grin. “Together, we will crush them beneath our feet like the bugs they are.”
+
+Despite the dire circumstances, Ali couldn’t help grinning at his confidence.
+
+Attribute Enhancement (Vitality) applied.
+
+With the memory of Beltz one-shotting her Forest Guardian still fresh in her mind, Ali gave her Carnage Berserker a healthy dose of extra life. But she still needed a way for him to provide a credible threat to an experienced platinum-ranked dungeon extermination team. She ran through the possibilities, but two things remained stuck in her mind. The ridiculously powerful strikes of Kir’mogan, only with the giant berserker axes, and the immense power of Tol’brekk’s amplified Blood Vortex. I just hope this works. She had only seen a few of their skills so far. If I were a gambler…
+
+She chose both abilities and committed her decisions. The sounds of battle had faded, and she no longer had Troll eyes within the library.
+
+Amplify Skill (Blood Vortex) applied.Overpowering Strike applied.Domain Enhancement complete.Your reserved mana has increased by +2152.
+
+Tol’brekk threw back his head and roared, shaking the very stone with the volume of his challenge as a massive groundswell of domain mana coursed through his body. His muscles expanded and he grew taller and wider by the second. As the power settled within him, he lowered his head, fixing his gaze on the group emerging from the doorway before him.
+
+“Seeker. Do you require me to hold back?” he asked, not taking his eyes off their foes for even a moment. Somehow, Ali could tell he desperately hoped she would not.
+
+“Fuck, no,” Ali said. She had given them the chance to leave peacefully, and they had spurned it with contempt. “They have lost the right to our politeness.”
+
+“Excellent,” Tol’brekk growled, his voice rumbling deep within his cavernous chest. He raised both his axes and stared down at the platinum-ranked adventurers approaching from the library, interposing his enormous bulk between them and her.
+
+“Ooh, what is this?” Vernon said. “A unique Troll?”
+
+While he acted nonchalant, Ali didn’t miss the loosely hanging ribbons of his robe on the righthand side where an axe must have found its mark. So, they could be touched. Hurt. Killed.
+
+“My master has asked me to clear out the trash,” Tol’brekk said, switching to Common. He placed one heavy foot forward in a balanced stance, causing several rocks to fall off ruined walls. “I suggest you leave and save me the trouble.”
+
+“Oh, so you think you can fight?” Bartak said, grinning widely.
+
+“I sincerely doubt I will need to fight one so puny as you,” the giant berserker declared.
+
+Despite her extreme nervousness, Ali couldn’t help but grin. Tol’brekk clearly had a way of getting under their skins. Any advantage had to be a good one.
+
+“All yours, Beltz,” Vernon said, waving his ring-encrusted hand and causing the same enormous chains of holy and shadow mana to spring from the stone, binding securely around Tol’brekk’s shoulders and drawing tight.
+
+His words seemed to be a signal to the leather-clad assassin, who suddenly appeared behind the troll’s broad back with his unfathomably powerful shadow-dagger strike that had taken out her Forest Guardian in a single strike. Ali’s heart stopped.
+
+But absolute calm radiated through the connection coming from Tol’brekk. The giant troll simply sniffed the air and shifted within the chains. The shadow blast pierced through him, sending a gout of blood spraying from his back and out the front of his chest, but the blood failed to hit the ground, remaining suspended, swirling in the air, slowly being drawn up into the giant axes.
+
+With a casual flexion of his shoulders, Tol’brekk shrugged off the chains.
+
+“Huh?” Beltz grunted.
+
+It was all the assassin could manage before Tol’brekk’s Bloody Axe of Carnage crushed his ribcage, launching him horizontally across the plaza into a stone wall, leaving a bloody splat of an impact stain. His body bounced off, landing on the ground in a crumpled heap.
+
+A loud chime rang out, coming from the priest, along with a reactive surge of powerful holy mana – clearly, a conditionally triggered spell of extraordinary potency.
+
+“YOU FUCKING IDIOT!” Vernon screamed. “You wasted my Divine Prayer! That’s a week’s recharge blown. I don’t believe it! That reagent costs a thousand gold; that’s coming out of your share.”
+
+Beltz groaned and rolled over, crawling to his feet. He coughed up a thick gobbet of blood and spat it onto the stone. “There’s more than enough magicite behind them to cover it,” he growled.
+
+“There better be.” Vernon was livid.
+
+“There are literal tons of it,” Beltz ground out, glaring at Tol’brekk, and Vernon suddenly fell silent. “I just want to know why that monster is still alive after I backstabbed it.”
+
+“It didn’t even lose ten percent,” Vernon said. “You must have missed.”
+
+“I don’t miss,” Beltz said angrily.
+
+Ali glanced at Tol’brekk’s status, confirming that he had lost about ten thousand health in that strike. Health that was rapidly regenerating from his enormous health pool, troll regeneration, and the restoration aura from her runic magic. It had been an idea she had borrowed from fighting Joraa – the combination of almost two hundred thousand health and the troll regeneration meant her berserker was going to be regenerating an unbelievable amount of health the entire fight. Also, this berserker was wearing the finest plate Thuli could craft with full access to the dungeon’s anvil.
+
+“Ok, let’s go kill it properly,” Bartak growled, advancing into the ring with his sword already blazing. “Form up, you lot. No more fucking around.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

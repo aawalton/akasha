@@ -1,0 +1,129 @@
+---
+id: bf161c2b-edbe-5e33-92ad-1f1063b4434d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 419: Maalgaroth, The Corruptor"
+slug: 0456-chapter-419-maalgaroth-the-corruptor
+partOf: dungeon-of-knowledge-complete
+position: 456
+ownLength: 2727
+unit: words
+ownProgress: 2727
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2701231/chapter-419-maalgaroth-the-corruptor"
+royalRoadId: "2701231"
+markedReadAt: "2026-06-29T20:27:36.504Z"
+---
+
+Ali frowned, surveying the desolate burning wasteland that was all that remained of the chamber with the rift. It was still there, the rift. The sealed cracks were clearly visible to her mana sight, but the area was now brimming with the domain mana of the Lair of the Demon God, and lording himself over the chamber was the proud, arrogant form of Maalgaroth.
+
+A formidable demon, standing almost five meters tall and about ten meters long, he flexed the strange, stubby, bat-like wings that protruded from his back, while twirling a great war glaive larger than one of the giant trolls. He looked somewhat like a huge, malformed slug; four massive taloned legs supported his bloated body, and two arms the size of ancient trees sprouted from his powerful torso. Even from her vantage point tucked in the dark tunnel with the trickle of her domain she had brought with her, Ali could see the power of the domain flowing through him and the ugly, seething mass of his blood magic filling the chamber with the aura of his corruption.
+
+He was all that stood in the way of her reaching the Rift. If she could just kill this one demon and claim this chamber, Azryet had promised to personally study the Rift and help her open it.
+
+That’s all. I just have to kill Maalgaroth, she thought with a sense of wry, fatalistic sarcasm. Maybe he’ll step aside if I ask nicely?
+
+Maalgaroth shifted, not having caught wind of her yet, and suddenly Ali saw her. The twisted, corrupted form of Mok’freja stood in the shadow of the enormous Pit Lord. The Ice Queen’s eyes were bloodshot, her back hunched over, and dark, viscous drool dripped from her tusks. The infernal transformation had even enhanced the power of the glacial ice mana that leaked out of the warped troll.
+
+So Azryet was right. For some unfathomable reason, Destraggoth had not immediately claimed the corrupted troll and captured her imprint. Either it wasn’t as important as Azryet thought, or it had already been imprinted, and they were simply too late. Or Ali didn’t understand something about the way these god-beings thought. I would have secured it immediately. But whatever the reason, it meant there was a chance she could deprive the demon god of her Mage of Piercing Frost imprint – the demonic version – and even if the chance was small, she couldn’t afford to ignore it.
+
+Kill the troll first, she decided. That way, even if she was forced to flee, she would have denied the demons their new imprint. Hopefully. She would just need to ensure she didn’t leave anything else behind. But how? She had brought a small assassin group, but from her fight against Xammath, she was certain that Pit Lords possessed some stealth-breaking perception skill, something similar to her Abyssal Stalkers and blood trolls’ Scent of Blood. If he sniffed them out, they would be crushed in an instant.
+
+Ali glanced back into the tunnel, studying the forces she had chosen for this fight. Given that there was only a single monster to contend with, discounting the corrupted ice mage and any summons he might have from the domain magic, she had settled on a single tank. Her Armored Drake’s evolution path had been a choice of two basic options: defensive and offensive – she had picked defensive, gaining a lot of armor, life, and, to her delight, her first monster with a Taunt ability.
+
+Armored Drake – Dragon – level 100 (Fire).
+
+Her melee group comprised her usual warriors, berserkers, and shamans, doubling down on her anticipated need to load the Pit Lord up with Mortal Wounds – a substantially more capable group now that her shamans and warriors had both reached their evolutions. She also had her assassin group.
+
+Tol’brekk [The Crimson Blade of Carnage] – Giant Troll – level 119 (Blood)Carnage Berserker – Giant Troll – level 119 (Blood) Kir’mogan [The Brutal Blade] – Troll – level 100 (Bone)Bone Champion – Troll – level 100 (Bone) x2Joraa [The Betrayer] – Troll – level 100 (Blood).Bloodwielder of Aman Rak – Troll – level 100 (Blood)
+
+Just like when Tol’brekk evolved, as soon as Joraa and Kir’mogan had evolved, her Grimoire had inscribed the tier-two version of the class, allowing her to summon additional minions at the same level. Which meant her warriors were now Bone Champions, and her shamans were all Bloodwielders of Aman Rak. It made for an impressive-looking force.
+
+Shifting and indistinct in the shadows lurked her assassin squad.
+
+Abyssal Stalker – Demon – level 90 (Blood) x2.Dagger Rogue – Kobold – level 92 x2.
+
+She had substantially upgraded her mage group, chosen specifically for this fight. Gone were the Hellfire Imps and kobold Fire Mages, and taking their place were the new Wielders of the Sacred Flame, kobold mages of holy flames. Holy damage that would heal her melee while it did extra damage to the demon Maalgaroth himself. The group was rounded out with her usual ice mages, an Eye of Agnor she intended to use as a ranged battle platform, and her newly evolved Spirit Walker witch doctor.
+
+Mage of Piercing Frost – Troll – level 111 (Ice) x2Kir’vella [Empress of Bats] – Troll – level 100 (Soul)Wielder of the Sacred Flame – Kobold – level 100 (Holy) x3Eye of Agnor – Demon – level 136 (Arcane / Lightning).
+
+After her experiences with Xammath, she decided she needed more acolytes to keep the corruption under control, and an extra Sacred Ooze because, again, she hoped to leverage the holy damage against Maalgaroth.
+
+Acolyte of Azryet – Kobold – level 91 (Holy) x4Sacred Ooze – Ooze – level 93 (Holy / Water) x2.
+
+And finally, she had her carefully chosen utility group.
+
+Glitter Dragonet – Dragon – level 3 (Light) x2Frost Dragonet – Dragon – level 97 (Ice) x2Devouring Consumption – Great Ooze – level 100 (Nature / Death)
+
+If I can’t sneak past him, I’ll need a diversion. She considered the problem carefully, a quick plan beginning to coalesce in her mind. It wasn’t much, but it would have to do. With a thought, she sent the Devouring Consumption up among the craggy rocks of the roof of the chamber and then stepped out among her army to confront the giant, terrifying Pit Lord once again.
+
+“Tired of cowering in the dark?” Maalgaroth boomed, his voice shaking the cavern. “Finally ready to meet your doom?”
+
+“No. I’ve come to kill you, Maalgaroth,” she said. It was not strictly necessary to engage him in conversation, or even advised, but anything to distract his attention from her stealthy kobolds and the almost invisible Abyssal Stalkers scrambling out along the rocky walls.
+
+He did not indulge her; he simply laughed, waving his Glaive around.
+
+You have been afflicted with the Pit Lord’s Corrupted Blood.
+
+Despite having been afflicted with the corruption several times now, and being prepared for it, Ali still stumbled as it hit her. Waves of nausea and dizziness crashed down as she struggled to keep her mind focused on the giant Pit Lord before her. Her vision blurred as her eyes began to bleed. She simply gritted her teeth and spoke her command: “Attack!”
+
+Maalgaroth’s thunderous laughter assaulted her ears.
+
+Her Carnage Berserkers shouted, deep booming voices echoing off the hard craggy rock as they leapt into the fray while her newly evolved and much larger Armored Drake shook the ground as it charged, crashing into Maalgaroth. It shrugged off a glancing blow from his war glaive before unleashing the inferno of dragon breath – the flame now enhanced with its Taunt.
+
+Domain mana surged from within Maalgaroth, and with a contemptuous gesture, he dumped a huge patch of burning hellfire upon the Armored Drake.
+
+Zone of Destruction, Ali thought, recognizing the magic, even though it was a Hellfire affinity which she hadn’t encountered before. “Move out of the fire!” she commanded. Her Armored Drake was immune to fire, but the rest of her melee minions were not, and if she wasn’t much mistaken, Maalgaroth would heal from standing in the hellfire, just like Xammath had.
+
+As her wave of melee monsters charged, crashing into the Pit Lord with gleaming weapons and battle shouts, she unleashed the first phase of her plan. She was still standing within the barest edge of the domain she had brought with her, grown from the moss and mushrooms she had painstakingly planted through the twisting tunnels and caverns linking her dungeon to this chamber, meaning her teleport had access to her entire domain. With a thought, she swapped herself back to the space she had been granted by Azryet, beside her now upgraded witch doctor boss. And the minion she chose to switch with was the first of her two most powerful dragons.
+
+Scion of Azryet – Dragon – level 136 (Void).
+
+As soon as her recharge expired, she switched herself back to the battleground, using one of the two tiny Glitter Dragonets as her target, granting all her minions the bonus damage of her Empowered Summoner by her proximity. She repeated the maneuver a second time, bringing her second dragon to the battlefield amid roars of frustration from Maalgaroth. The two void dragons were far too big to traverse the tunnel, and her Eye of Agnor had only managed it with some judicious use of teleportation. But with her teleport plan, she suddenly had overwhelming air power within the chamber.
+
+“Mages, attack,” she commanded. Her ice mages unleashed a barrage of ice bolts at Maalgaroth, followed by a volley of intense yellow-white balls of holy flame from her kobolds. Then her Eye of Agnor opened fire, launching six continuous streams of arcane bolts that arced up and over with a nostalgic, graceful curving path, smashing onto Maalgaroth’s back and shoulders. Twin flashes left blinding purple afterimages on her retinas as a double charge of Chain Lightning ripped through the chamber, with deafening cracks of thunder, striking the Pit Lord and arcing to the nearby corrupted ice troll. The demonic Ice Queen instantly responded by casting a Frost Nova and teleporting away.
+
+Ali did not miss the opportunity she had just created. “Now. Kill the mage,” she commanded, sending the signal to her Abyssal Stalkers and Dagger Rogues, putting the next phase of her plan into action.
+
+Seconds later, shimmering forms surrounded the corrupted form of the troll, scything sharpened limbs and dark daggers flickered as her minions ambushed Mok’freja while her teleport was recharging. Blood exploded from the troll, but suddenly, at a frustratingly low health percentage, she encased herself in a solid block of ice, protecting herself from further damage.
+
+Domain mana surged through the Pit Lord, and her melee minions fled in fear as the pulse of his magic rippled outward from him. The huge bulk of the demon blurred and appeared beside the corrupted ice troll in an instant, war glaive whistling in a brutal horizontal arc. Blood blades exploded in all directions as his bloodsteel glaive ripped through her minions. His huge taloned foot slammed into the ground, detonating a blast wave of hellfire that tore through her kobolds and Abyssal Stalkers, knocking them flying into the walls. None of them got back up.
+
+Fuck. She stared at the laughing Maalgaroth as the implications percolated through her mind. Panic. It was perhaps the worst domain magic he could have used against her – she had no defenses against fear other than her high wisdom. This was something Malika always took care of for them, and she racked her brains for any way to circumvent the ridiculous skill.
+
+“Curse the mage,” she said, and her Eye of Agnor complied by dropping both Lightning Vulnerability and Interrupted Casting on it. If she couldn’t kill it outright, she would have to make certain it stayed clear of the Chain Lightning and caused as little damage as possible.
+
+A second patch of hellfire appeared, and Ali again had her drake move the Pit Lord boss out of the fire, but the first patch showed no signs of abating. She frowned – the chamber was big, but not that big. She unleashed her void dragons, breathing sizzling midnight black beams of void magic and etching deep lines of disintegration through the rocky floor and slicing huge gashes into the bloated flesh and hide of the Pit Lord. Maalgaroth roared in fury, and his mana surged again, sending her entire melee force into a panic as they fled the fear pulse. The Pit Lord’s body blurred as he shot into the air, his massive war glaive shattering a void shield at the cost of a large chunk of the bloodsteel blade. But the glaive sliced deeply through the black dragon’s scales as the titanic monsters clashed, falling heavily to the ground in a tangle of limbs and flashing fangs.
+
+“Switch now!” Ali yelled. All her ranged magic users swapped targets, turning on the corrupted ice mage. Ice bolts flitted through the air, along with bolts of arcane and holy fire, as her minions instantly shifted on her orders. There was a massive crash as Maalgaroth brought the Scion of Azryet to the ground, slashing and biting as blood and scales went flying. Mok’freja once again was forced to encase herself in a pure block of ice to shield against the onslaught.
+
+But Ali had an advantage. That was her ice mage, and she knew her abilities inside and out. “Now,” she commanded, and before the ice block had even worn off, her Eye of Agnor flickered out and appeared behind the corrupted troll. As the ice faded, the major Arcane eye flickered to life, bathing the entire area in a deadly cone of arcane mana.
+
+Arcane Mana Burn. The corrupted ice troll stood no chance, caught in the fury of the Eye’s magic. Mok’freja’s mana was ripped from her body, and as it burned away, her health plummeted. A furious roar shook the chamber, and Maalgaroth suddenly shot across the chamber, glaive impaling the Eye of Agnor right through the major eye in an explosion of hellfire and blades of blood. The Eye of Agnor made a gruesome squelching pop and collapsed from the sheer power of the melee raid boss’s empowered attacks unleashed against an unarmored class. But the damage had been done.
+
+Ali breathed out a shuddering breath as the notification appeared.
+
+You have defeated Mok’freja [Ice Queen] – Demonic Troll – level 107 (Ice).
+
+It had cost her the Eye of Agnor, but in return, it had saved her Scion of Azryet – the heavily damaged dragon taking to the air once more as her kobolds’ holy magic rapidly repaired its wounds. It opened its mouth, coalescing a ball of void, and Maalgaroth instantly retaliated.
+
+“Eat it,” she commanded. Killing the corrupted Ice Queen was only half the battle – leaving a corpse was as good as handing the imprint to the demon god. The enormous, mottled black and green form of her Great Ooze fell from the ceiling and consumed the corpse of the corrupted ice mage in seconds.
+
+Despite the growing patches of hellfire, Panic, and the furious Pit Lord, Ali breathed a sigh of relief. One of her goals had been achieved. But as she studied Maalgaroth, she realized the hardest part of the fight was only just beginning – the Pit Lord was still at full health as her Armored Drake returned to drag him out of the hellfire patch he had dumped at his own feet.
+
+Twin black holes shot down, detonating with powerful implosions on the Pit Lord’s hide, disintegrating flesh and bone, but as she watched, it began rapidly regenerating – even without standing in the hellfire.
+
+Regeneration? Tough just became tougher…
+
+It was a phenomenon she had seen before, on a blood magic troll in Aman Rak. Joraa. And with a mounting sense of certainty and dread, she began to realize what Maalgaroth had chosen for his third domain magic: Vitality. Kir’mogan and her Bone Champions charged in with their gleaming bone weapons flickering with speed and power, applying Mortal Wounds, but in the time that they had been fleeing in Panic, Maalgaroth had fully healed – no sign of the brutal void-inflicted wounds remained.
+
+How do I even kill this creature?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

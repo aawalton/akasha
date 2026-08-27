@@ -1,0 +1,135 @@
+---
+id: 4a626499-4dad-504e-8326-3bf19ff114f5
+page-type-slug: story-chapter-royal-road
+title: "Ch43 Perfect Grade Spiritual Vein"
+slug: 0043-ch43-perfect-grade-spiritual-vein
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 43
+ownLength: 1628
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3334914/ch43-perfect-grade-spiritual-vein"
+royalRoadId: "3334914"
+---
+
+I slowly walk back inside the inconspicuous cave, and find myself before the aftermath of Xu Hong’s breakthrough.
+
+[Automatic Inspect Function Activated…][Low-Grade 1st Tier Spiritual Vein Detected][No Innate Elemental Affinities][This vein is currently 87 meters long, with an average diameter of 0.9 meters, naturally releasing 9 spirit stones worth of qi per day. It has been harmfully degraded by pulling more qi than its natural release. No matter the damage, 1 Perfect Upgrade Card can fully restore this vein.]
+
+As I get to the bottom floor, the thin and depleted spiritual vein appears in my line of sight.
+
+After an enormous forced energy expenditure, it's fallen far below 100 meters, and has downgraded to a low-grade vein.
+
+My eyes gleam with anticipation as I pull my last upgrade card from my storage, and mentally select this enormous crystalline structure in the ground.
+
+The bronze card disappears from my grasp, and the thin floor of white crystal below starts to shake and glow.
+
+An almost imperceptible ripple flows through the air.
+
+I would not be able to feel it if I wasn’t sitting on the vein and holding the card when it disappeared.
+
+It feels warm and familiar, making my soul resonate for a moment. I realize where I’ve felt this before, and it is whenever I eat pills with golden patterns. The presence that resides in that golden aura is touching this entire spiritual vein.
+
+A flash of white light starts to shine in this room, far too bright for me to see through.
+
+When it fades, there is only one change. The floor at the bottom of this crater is almost entirely made of white shimmering crystal.
+
+[Automatic Inspect Function Activated…][Perfect-Grade 1st Tier Spiritual Vein Detected][No Innate Elemental Affinities][This vein is currently 1,000 meters long, with an average diameter of 10 meters, naturally releasing 1,000 spirit stones worth of qi per day. A Perfect 1st Tier Upgrade Card has been used on this vein. If harmfully degraded again, it can no longer be restored by a card of this tier.]
+
+All of the array flags situated on the small vein before this upgrade have shifted through the earth, deeper underground.
+
+When I pull out the control disk, there is no sign of strain. This array is still completely concealing this spiritual vein.
+
+[Contain][Refine] [Max: 1,000 Spirit Stones Per Day.][Overstrain]
+
+My spiritual senses catch the emergence of massive amounts of qi particles seeping out from the crystal floor.
+
+Not only that, but with the [Contain] function activated, all of the naturally produced qi from this vein is being siphoned into this one room. It quickly becomes warmer, and my meridians flare up in response.
+
+I sit down and enter cultivation, letting the ambient qi in the air naturally enter my body. I enter a calm and relaxed state, similar to the feeling I get when eating multiple qi gathering pills at once, or even eating a spirit apple.
+
+This is nothing like overstraining the medium grade vein…
+
+I didn’t realize how much energy it took for me to siphon qi out of the ground, versus letting the qi in the air naturally flow into my meridians as my Jade Purity Soul Scripture subtly manipulates the atmosphere around me.
+
+The whole day passes by without me noticing.
+
+I only wake up from my trance when the bottleneck from the mid stage to the late stage of level 3 is shattered. It felt like a barrier that would need a dozen qi gathering pills at once to cross, or at least a few spirit fruits.
+
+Yet, the release of tension from not having to stay on guard in front of Xu Hong while cultivating, and the freedom of only absorbing ambient qi rather than overstraining the vein, has all culminated in such a simple step up in power.
+
+When I stand up to leave the stronghold, I change the setting on the spirit vein array to refine again.
+
+The control disk shows miniature holograms of each array flag. All of them slightly shift, and spirit stone counters appear beside them.
+
+While walking up the cave to the surface, I feel all of the ambient qi stop flowing toward the bottom room, and instead it flows directly into the white jade flags.
+
+–
+
+A full ten days pass by.
+
+Halfway through this period of time, I break through another minor bottleneck with relative ease, reaching the perfected stage of level 3. Everything feels warmer, nature is more alive, and the qi flowing through my body feels more crisp and vibrant.
+
+The spiritual vein does not decrease in size at all. This is because it is not being overstrained.
+
+In fact, I don’t believe I could overstrain it if I tried.
+
+I’m cultivating for at least 10 to 12 hours most days. By the time my sessions are done, the room I’m sitting in is always filled with white-hot particles of qi.
+
+The raw qi alone is actually too much for me to absorb. So, when I take some nights off to sleep, and of course when I walk on my wood collection route, I set the array to refine mode to collect the leftover qi and new ambient qi that is released.
+
+A total of 6,592 spirit stones have been collected so far from the white jade flags.
+
+Using the array disk, they can be collected directly, as they have small storage compartments similar to the size of a 1st tier high perfect grade storage ring each.
+
+Combined with the stolen loot from the Blood Sword Sect, I have almost nine thousand spirit stones in my storage.
+
+I still use my daily upgrade cards to run through another three full vials of qi gathering pills.
+
+For a few days, I tried to cultivate solely with the raw qi in the air, but it feels like something is missing. My Jade Purity Soul Scripture has to work many times harder to get the same result, and I’m far more fatigued the next day.
+
+When swallowing a heavenly grade qi gathering pill every few hours while cultivating, the repetitive cycles do not feel like they are wearing me down. Instead, it feels more as though I’m being charged up. My soul becomes warmer, more robust, and I feel my spiritual senses naturally growing a few centimeters every day.
+
+My meridians, dantian, and spirit roots are constantly being stimulated with more raw qi than they know what to do with. However, there is a big difference between the minor bottlenecks I’ve easily broken through within a level and the breakthrough to a higher one.
+
+I remember the first fragile glass-like casing I had to shatter to traverse from level 1 to 2.
+
+Then, the mental iron ball that needed to be slowly eroded and forcefully broken through to move from level 2 to 3.
+
+Deep in the depths of my mind, when I try to perceive the bottleneck from level 3 to 4, all I see is an endless dark abyss.
+
+Upon reaching the perfected stage of level 3, it only takes a few days before my dantian becomes full. My spirit roots feel saturated, and the qi my meridians carry to them is just siphoned out into my flesh, bones, and blood.
+
+Even my body can’t take in any more qi. The gathering array refines far more into spirit stones than it did in the first few days.
+
+I have no clear paths toward my next breakthrough, or any hints as to what this strange mental abyss of a bottleneck really is. So, I end my cultivation session slightly early today, and take my time walking through my usual wood collection route.
+
+It is a strange feeling to have more spirit stones than most stewards will ever see in their entire life in my storage, along with the capability to upgrade burnt trash pills into something the entire servant camps would fight a bloody battle over. Yet, I’m still stuck…
+
+Today, I hand out half a vial of low quality qi gathering pills to build more goodwill. Four of them are to servants that have filled 2 bins or more every single day without fail since I bought them weeks ago.
+
+The 5th is to Wei Ping.
+
+“Another ten days has passed and you haven't disappointed me. You’re still the hardest working servant.”
+
+My spiritual senses can see the qi that has integrated into his meridians from taking that first qi gathering pill. Along with daily cultivation practice using the sect’s provided basic technique, this second pill might actually reach his dantian.
+
+“Thank you, Senior,” he accepts and bows, not daring to raise his head too fast.
+
+“What is your purpose for joining the Azure Cloud Sect?” I ask.
+
+“Uhm. Excuse me, Senior Li, I’m not sure this humble servant understands.”
+
+“I read on your ledger that you have family, but it's quite uncommon for servants to come from any background. After all, the majority die before even stepping onto the path of cultivation.”
+
+There is a long silence, as the kid’s head is still bowed down.
+
+“This is the only chance I have. It was either this, or live as a mortal. My family does not waste their resources on children that have poor quality spiritual roots. 6th grade and better are the only ones capable of achieving Foundation Establishment… at least that is what they say.”
+
+His teeth grind in anger.
+
+I nod, and turn to leave, looking up at the sky.
+
+“So you left to find another path. One they cannot see,” I murmur while walking down the dirt road away from the boy.
+
+He doesn't respond, but his jump into the unknown in order to change his fate has slightly lifted my mood after a lackluster day of cultivation.

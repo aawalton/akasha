@@ -1,0 +1,115 @@
+---
+id: 6e452c11-3656-5fe9-b641-c5970a2fad7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 359: Guild Plans"
+slug: 0396-chapter-359-guild-plans
+partOf: dungeon-of-knowledge-complete
+position: 396
+ownLength: 2769
+unit: words
+ownProgress: 2769
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2552375/chapter-359-guild-plans"
+royalRoadId: "2552375"
+markedReadAt: "2026-06-29T20:25:23.778Z"
+---
+
+Ali found a spot near the back of the crowded guild hall and perched on the edge of her barrier, levitating herself high enough that she was about level with Mato’s eyeline. He nodded briefly to her as if to say, ‘I’ve got your back.’ She nodded back. Appreciated. That was too close with Calen’s mother. What about Mato’s family? Could they be in danger too? Mori’s dead, surely it’s safer now? She looked on curiously as everyone in the hall engaged in their own little conversations, finding spots to sit or stand in crowded corners as even the much-expanded guild hall struggled to contain the full assembly of all its members.
+
+A strong divide was immediately evident as the crowd organized itself into several distinct groups, however, the mood and composition of those groups was nothing like the last big meeting after the fall of Ciradyl. Ali sat among her friends; the only platinum-ranked adventurers besides the Guildmaster herself. Despite the crowding, the other adventurers left a polite space around them.
+
+Chatting quietly among themselves, taking up a large portion of the room by the hearth, were all the raiding teams – forty-some guild members with little for an outside observer now to distinguish between those who had once been Pathfinders and those who were original members of the Adventurers Guild – unless perhaps one divided them into Elves and others. The group seemed entirely integrated, and considering their powerful gear and confident demeanor, it was clear they had become very strong indeed. Most of them sat on the cusp of earning their gold-rank rings, and a few had even passed the threshold of level sixty, placing them on the kingdom’s roster as a New Darian national resource that might be called upon in emergencies.
+
+But there were two other groups, and these were even larger. The bronze-ranked, and occasional freshly silver-ranked adventurers occupied the middle of the room with notably weaker gear, lower levels, and an aura of awe or ambition as they stared at those of the raiding groups, or when they stole surreptitious glances at Ali and her friends.
+
+The rest of the room was filled by the unclassed and novices – recruits that Vivian had invited to the guild to train for the possibility of gaining classes and opening the door to a life that for many of them would pull themselves and their entire families out of the poverty that so mired the bulk of Myrin’s Keep’s townsfolk. This group shuffled about with clear uncertainty, most of them wearing worn or ripped clothing that had had too many owners and had been repaired a few too many times. But all of them seemed eager, or at least holding some level of excitement at the display of power that might one day become theirs.
+
+“Hi, everyone,” Vivian called out, stepping up to the front of the crowd beside the guild jobs board that glittered with Ryn’s magic. Joining her were the guild’s non-combat members: Mieriel and Ryn. Weldin and Basil sat with the raiding groups, now firmly integrated into their teams. As the hubbub diminished, she said, “We haven’t had an all-hands meeting in quite a while, and those of you who have been with us from the beginning might notice that we’ve grown… just a little.”
+
+Her deliberate understatement and grin earned a few chuckles from the veterans at least. Even Ali smiled at that – it was not too long ago when the entire guild had consisted of her and her friends, the Guildmaster, and Mieriel.
+
+“The first order of business is an announcement. The Town Watch of Myrin’s Keep has been officially disbanded by the council and the leaders arrested to await trial for conspiring to murder William Turner.”
+
+Her announcement was met with whoops of joy and shouts of excitement, and especially among the poorer recruits, incredulity and not a few damp eyes as many of them had borne the brunt of the worst of the Town Watch’s reign of violence.
+
+“I want to thank Aiden for bringing this about, Calen and Aliandra for defeating Kieran Mori in single combat, and Malika, Mieriel, and Seth for collecting the required evidence and connecting the pieces that convinced the council to act. As you know, this is a momentous day for Myrin’s Keep, and we are hoping that things will look up for most of the townsfolk under the protection and security of Commander Brand and the Garrison.”
+
+Ali had pieced together the full story from the snippets Malika and Seth had shared, and her own experience facing Mori – well, at least blocking a few attacks while Calen faced him. Yeah, I really did the heavy lifting, there. How can I still be so vulnerable?
+
+Vivian waited patiently for a few moments for people to express their emotions before continuing. “Aliandra, Commander Brand has asked for access to your arenas for training his guards.”
+
+“Sure, that’s fine,” Ali said. She could easily make a few more arenas if things got crowded. “Please ask him to use the guild to escort his trainees – I don’t want to expand the number of people with free access to the dungeon.”
+
+"Perfect,” Vivian said, obviously pleased with Ali’s condition. “For our next order of business; we have eight new gold-ranked adventurers. Please step forward, we have rings for you all.”
+
+Cheers rang around the room, drawing a brief twitch from Vivian. Had she not expected that? Perhaps she was unprepared for this success, Ali reflected, deciding that she appreciated the reaction in a woman she still felt cautious trusting. Will I ever?
+
+Mieriel stepped up, producing a box with a line of new shiny rings that must have taken Giddy Clicksprocket ages to craft. Vivian called up the adventurers by name and awarded them their rings. “For those who are not familiar with the unique perks we offer, at Silver rank, your ring will unlock access to the library and arenas in the dungeon without requiring an escort. At Gold, you are invited to participate in the guild’s leadership and can make quests or job posts, among other things. This is both a responsibility and a sign of the trust we invest in our members.”
+
+There were a few more announcements before Vivian caught Ali’s attention again. “Aliandra, there are enough recruits to run a class trial, and several applicants wishing to switch their classes. Would it be possible to use the shrine soon?”
+
+“I have time today,” Ali answered. With the interest that the guild was getting and the knowledge that she was able to fix bad classes, there seemed to be a steady stream of people needing her shrine. She was even drawing people from out of town, but she didn’t mind, and seeing the nervous excitement rippling across the faces of those recruits at her words made it more than worth it.
+
+The guild meeting slowly dispersed, but Vivian called the members with gold rank or higher to a private meeting room to discuss further business.
+
+Once they were all seated, she began, now with a noticeably more serious tone. “Nevyn Eld is making his move. Lyeneru Silverleaf has been monitoring him as he’s been consolidating his forces around the ruins of Ciradyl for a while, but whatever he was waiting for seems to now be over. Our scouts are reporting fresh, massive undead movement near the border, around the location of Aman Rak.”
+
+“There are worrying reports coming out of Thorel Moldur, too,” Mieriel said, consulting her notes.
+
+A band tightened around Ali’s chest, and she had to take a deep breath to ease it. Even though it was well predicted, the implications of this development set Ali’s mind to racing. Anything related to Nevyn Eld was of the highest priority for her, and undead movement near Aman Rak put her teleportation circle at risk – the circle the scouts had been using to funnel out a steady stream of rescued refugees from the outlying areas surrounding the wreckage of Ciradyl. Worse than that, it would increase the pressure on their raiding efforts within Lyton Ruins – the presence of powerful reinforcements was not a good sign.
+
+“We are still trying to understand his strategy,” Vivian said. “But as you may realize, this dramatically shortens our window of opportunity for clearing the Lyton Ruins. If we don’t make a strong push to wipe out the dungeon core immediately, we may never get another chance.”
+
+“Tol’zerath has been asking for our assistance to clear Telim Gor and return it to the remnants of his people,” Mieriel said, looking up from her notes, her glasses flickering with new and more powerful mana formations that instantly piqued Ali’s interest.
+
+But a three-way battle with the guild at the center was not a smart strategy – and they still hadn’t made contact with Mere Kada. There was a very real chance it had fallen too, and they would shortly find themselves facing yet another potent force.
+
+The Guildmaster was right: wiping out Lyton Ruins would need to take priority. There was most certainly a wealth of subtle details Ali wasn’t considering, but she trusted Calen to handle that. For something so elementary, it seemed obvious – continuing to stage their rescue efforts from Aman Rak would require them to not have a massive undead dungeon breathing down their necks. Reclaiming the blighted forest and securing it under Lira’s control had to be the highest priority, regardless of how difficult that would make it for Naia. At least it will only be in the short term.
+
+Unless I can change the game, somehow? Naia was much stronger now and had the full suite of Ali’s domain magic skills to bring to bear – and Ali had more than enough mana, now, to send a small but powerful force through the Slime Caverns just to help secure the area until their raiding teams were freed up. Perhaps with a Gate?
+
+As Vivian began going through the more mundane notices, the logistics of running a guild that was growing rapidly, Ali considered how she might speed up the efforts. Obviously, she could join the battle personally, bringing her highest-level monsters; the adventurers would gain less experience, but it would be faster and more reliable. Most of them were gold already, so it wouldn’t be the biggest penalty, and with Nevyn Eld’s unfathomable plan in motion, their priorities had changed.
+
+But that fresh idea had leapt into her head and wouldn’t let go. When Vivian finally looked up from the notices, Ali made her suggestion, “Hey, Vivian. I learned how to make a Gate.” She hadn’t exactly tested it out yet, but after struggling with the pattern during her trials in the Infinite Maze – particularly the Library Runes Puzzle – the formation had been burned into her memories. She didn’t think she could forget it even if she tried. The only critical component was a space-affinity mana source – and she had learned the magicite.
+
+Vivian locked gazes with her for a moment, and Ali continued. “What if I create a Gate to Aman Rak and we stage the attack from there? All the raid groups simultaneously. It’s a much shorter distance to Lyton.” She could accomplish the same goal with runic circles, but the Gate was a broad connection to the remote location – the capacity and rate with which they could move supplies and people would be unsurpassed.
+
+“That could work,” Vivian said, pursing her lips while she considered the idea. Calen nodded, and the rest of the room simply stared at Ali in stunned silence. “But what I want to know is where the heck you learned to make a Gate?”
+
+“That’s a bit of a story,” Ali admitted, but she had been meaning to bring it up with the guild anyway, so she quickly summarized. “I discovered a new dungeon entirely confined within the spirit realm and overlapping this area.” She waited for the exclamations of surprise to fade before continuing. “It’s a… friendly dungeon, one I am personally invested in helping. It has space and arcane affinities, and it is around level one hundred and thirty, but it has no monsters, only puzzles.” That was no longer strictly true as Ali had donated two elementals to Gage, but it was close enough.
+
+“What are you suggesting?” Vivian asked.
+
+“For the guild, there are several things of value. Firstly, Cael and Gage make these,” she said, dropping two crystals onto the table in front of them. One white space magicite, and the second a branch of the arcanite crystal trees which she was now using as an alternative light source in her library. Her revelation certainly had the reaction she was hoping for as people craned across the table to see the large crystals that were likely worth several hundred gold each.
+
+“The puzzles may be completed by individuals, and don’t even require combat skills. The first is a time and portal puzzle that can be completed with sufficient agility. The second is a match of Kings and Emperors against Cael, who happens to be quite talented at the game. Both puzzles grant significant experience, and if you’re interested, Ryn can coach you on the game. I will leave a teleportation rune circle to the dungeon from the library.”
+
+She could see she had the entire attention of the room, but she had one final surprise for them. “This dungeon is situated on top of a rift to a shadow realm. Shades spawn from the rift, emerging into a complex maze trap set for them by Cael and Gage, but they have lacked a reliable means of killing the shades for thousands of years, so if anyone is interested, this would be a great place to grind experience and help out.”
+
+“Target levels?” Mieriel asked in a business-like tone.
+
+“I would recommend a small group of gold-ranked adventurers or higher. The monsters range from thirty-eight to one-thirty in level and have flying and shadow bolts. We could potentially allow silver-ranked groups provided they have a gold escort in case of higher-level encounters. Cael and Gage implement a magic suppression on the entire area, but they can release it locally if you work with them.”
+
+“And the rift, Ali,” Calen prompted.
+
+“Yes. Nobody has entered the shadow rift yet, so we don’t know what’s on the other side, which means potential explorer bonuses for those who have such skills. Calen wants to run a group to explore it. I should point out that defending the realm against incursions from another realm earned our group a Rift Warden title – it will take some work, but it grants a damage bonus against extraplanar monsters and has influenced our skill and evolution options in powerful ways.” Ali quickly shared the details of the title, earning a burst of vocal excitement from the adventurers. Finding better ways to guide evolution and skill advancement was a topic close to any adventurer’s heart, and title unlock requirements were often hard to find. Ali saw no reason to deny them the opportunity, it would even help Cael and Gage.
+
+“Is it safe?” Vivian asked.
+
+“I would caution against triggering a realm break,” Ali said, grimacing at the memory. “So, take proper precautions to prevent training monsters into the mortal realm. We didn’t the first time, and it nearly killed us and the entire town.”
+
+“And the dungeon?” Vivian pressed.
+
+“I made them promise not to try and kill my friends,” Ali said. “However, the two of them have been trapped alone in the spirit realm for probably more than three thousand years, and they are a little warped. Perhaps not entirely sane anymore. I trust them – they are family, but it is a high-level dungeon in the spirit realm. Your magic won’t work without Ghost Mushrooms.”
+
+Mato obligingly retrieved a few and distributed them for people to try.
+
+“Very well,” Vivian said. “It seems like a good opportunity for those who are interested. I won’t make it a priority for the guild but do put up the notices on the jobs board, and make sure to set the minimum rank to gold for the shades and the rift.”
+
+“I’ll take care of it,” Mieriel said.
+
+“Thanks,” Ali nodded, happy that Vivian had agreed to open it to the guild. Now she just needed to create a path to the Infinite Maze and figure out if she really could craft a Gate to Aman Rak. At least I know who to ask if I run into any snags.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

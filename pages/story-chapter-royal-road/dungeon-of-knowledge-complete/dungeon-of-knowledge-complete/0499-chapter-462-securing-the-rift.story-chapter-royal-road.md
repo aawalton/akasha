@@ -1,0 +1,103 @@
+---
+id: f5ba3f8d-3f3d-5134-8729-7f4568a36bc7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 462: Securing the Rift"
+slug: 0499-chapter-462-securing-the-rift
+partOf: dungeon-of-knowledge-complete
+position: 499
+ownLength: 2239
+unit: words
+ownProgress: 2239
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2812137/chapter-462-securing-the-rift"
+royalRoadId: "2812137"
+markedReadAt: "2026-06-29T20:29:10.005Z"
+---
+
+“I’m convinced,” Ali said. The last Sandwyrm had been killed almost entirely single-handedly by Maalgaroth, and she was now certain that her rift guard boss could keep the entrance secure. Provided, of course, they didn’t double-team him, but then, Naia had made a pretty terrifying slime Champion right on the other side of the rift.
+
+Ali made a note to remind her Pit Lord to let some of the smaller monsters through on purpose, so that Naia could gain a steady stream of experience, but she could already see the ropy tendrils of Naia’s domain mana stretching and coiling with power as they emerged from the rift itself like blindly-seeking pseudopods of a great domain slime, and she knew Naia would simply grow into this realm like she had done elsewhere. How the little slime had learned to cross the realm boundaries, she had no idea, but then Naia was a slime, and her mind understood crawling through holes and crevices like a fundamental trait of her entire existence. She had intuitively grasped squishing herself across the veil into the spirit realm – a rift was probably far easier to traverse.
+
+“Good,” Lyeneru said. “Then I think we can pack up this effort and call it done. Anyone who still wants to explore down here can do so if they want. I need to head off and coordinate with the Southport efforts. Aliandra, please let me know if anything changes, or you need help here.”
+
+“Ok,” Ali said, glancing at her Grimoire as it exploded into light in response to the last remnants of the Sandwyrm dissolving under the influence of her domain’s deconstruction, leaving a substantial pile of essences for the group to collect.
+
+She glanced across the landscape thoughtfully. Maalgaroth would serve as a magnet standing beside the rift, drawing all sorts of monsters to himself, and Ali would commit them all to her Grimoire. But… I need to talk to Basil. Hopefully, some gravity or earth affinity plants are hiding in this realm. It would be good to explore further.
+
+Still, for now, it was good to have the rift secured again. Toria may never know what they had achieved here today, but many of their citizens would not die because of Maalgaroth and Naia’s slime champion. Ali popped open her notifications to see the results of the long hours of fighting to secure the rift.
+
+Dungeon of Knowledge has reached level 162 (+2).+20 attribute points.Arcane Insight has reached level 97 (+2).Arcane Recall has reached level 49.Barrier has reached level 88 (+2).Martial Insight has reached level 100.Empowered Summoner has reached level 76.Domain Mastery has reached level 54 (+3).Minion Teleport has reached level 47.Identify has reached level 35.Inspiration has reached level 29.Your Pit Lord has reached level 162 (+2).
+
+Only two this time. It was a clear demonstration of how quickly experience diminished in relation to repeated challenges. The first Sandwyrm had earned her three levels all on its own, but the next three had only been worth a cumulative two levels.
+
+At least Domain Mastery just leveled. Maintaining a champion-level Pit Lord boss was exorbitantly expensive in reserved mana, and gaining class levels and skill levels in Domain Mastery was the quickest way for her to reduce her costs. Although Maalgaroth had leveled up during the combat, erasing most of the cost reductions.
+
+Ali bit her lip in thought. The paltry few reliable references she had found on the subject seemed to indicate there was no breakthrough when she hit level two hundred – they all indicated that the progression was logarithmic, with the third tier arriving at two-fifty instead. Presumably, the fourth is five hundred, then. I should ask Azryet. It wasn’t like she knew many people that far advanced. Still, some of her skills were very close to reaching a base level of one hundred, and that, she fervently hoped, would come with a nice boost. Martial Insight was already showing a skill level of one hundred – an impressive number by all accounts – but four of those levels came from her gear.
+
+Soon. And perhaps with a little quality time training my skills in the arenas. Martial Insight is a mastery, after all. Ali carefully spent seven points on perception, eight on intelligence, and five on wisdom, and then studied the remaining notification.
+
+Variant: Obsidian Sandwyrm added to Imprint: Dragon, Elemental.
+
+“You can make it, now?” Calen asked.
+
+“Yes, but it will probably require a ridiculous amount of earth and gravity mana in my domain to make it live,” Ali answered. After all, it was an elemental – and she would need to hunt down some sort of gravity mana sources to create a biome.
+
+“Guild gather quest?” Calen asked, his eyes scanning the terrain speculatively, just as she had moments before. “I can’t say I’d hate leading something like that to explore this realm.”
+
+“I will put one up when we get back. I probably could use some higher-level earth-affinity plants, too,” Ali said, nodding toward the desert areas. Her only earth-affinity plants were the Brown Stonecaps, and they were pretty low-level, and perhaps some exploration here, in this realm brimming with nature and earth mana, might result in a few better options.
+
+“It’s too bad you can’t make the Wyrm already. I was hoping to see how it worked.”
+
+“Oh, that I can answer,” Ali said, grinning at him. She had more than enough experience to read off the skills from her runic inscriptions now. “This is what that last Obsidian Sandwyrm’s sheet looks like.”
+
+Race: Dragon, ElementalActive Buffs: Draconic AttributesClass: Obsidian Sandwyrm – level 200- Sandblast – level 137Mana: Shoot a high-pressure abrasive cone of sand from your mouth. Channeled. Range: 102.2 meters.Physical, Earth, Breath Weapon, Ranged, Area, Strength- Maw of the Sandwyrm – level 120Eating sand or rock regenerates a proportional amount of health, mana, and stamina over thirty seconds.Stamina: Bite. This attack always does crushing damage.Mana: Draw everything nearby into your maw with gravity.Physical, Earth, Gravity, Melee, Strength- Burrow – level 98You can travel through rock or sand without leaving a trace. Your speed through rock and sand is the same as your normal speed above ground.Mana: Burrow another, making the rock or sand beneath their feet temporarily permeable. Recharge: 45 seconds.Earth, Movement, Strength- Earth Sense – level 96You can see mana. Your sense of touch and vibration extends through any nearby earth, sand, or rock.This story has been unlawfully obtained without the author's consent. Report any appearances on Amazon.Earth, Perception- Rock Telekinesis – level 107Stamina: Exert your will over nearby earth, sand, or rock using gravity and earth magic, moving them as you wish. Your body is composed of sufficient rock to move yourself through the air with this skill.Earth, Gravity, Movement, Area, Intelligence- Obsidian Scales – level 151Your scales are made of Aether-Fused Obsidian.Your armor is increased by +302% [skill x 2].Physical damage is reduced by 927 [endurance / 10].Earth, Melee, Defense, Endurance- Draconic Attributes – level 112Stamina: Your Vitality, Strength, Endurance, and Intelligence are increased by +339.4% [40 + skill + base strength / 10]. Reserve: 20%Physical, Buff, Strength- Rock Creator – level 90You passively create one cubic meter of sand per second.Mana: Create rock, sand, or earth.Earth, Area, Intelligence- Heavy – level 117You cannot be taunted by any creature less than a quarter of your size.Mana: Add Gravity damage to every attack made by rock, sand, or earth, including your own body.Gravity, Area, Endurance- Draconic Majesty – level 131Your mere presence is terrifying to lesser beings.All Breath Weapon attacks gain +8234% [strength] to spell power.Earth, Gravity, Area, Mastery, Strength, IntelligenceWorld Magic- Damage Multiplier: x2.5 to all attack and spell damage- Enhanced Attribute (Endurance): +100% to base Endurance- Enhanced Attribute (Strength): +100% to base Strength- Summon (Sand Vortex): Summon a swarm of Sand Vortex elementalsAptitudes- Earth (Affinity): +150% spell power to Earth magic- Gravity (Affinity): +100% spell power to Gravity magic- Languages: Draconic- Damage Absorption (Racial): Earth damage is absorbed as healing- Gargantuan (Racial): 25 attributes per levelAttributes- Vitality: 3976 (+3071)- Strength: 8234 (+6360)- Endurance: 9271 (+7161)- Dexterity: 341- Perception: 511- Intelligence: 3414 (+2637)- Wisdom: 649Armor: 11577Physical Damage Reduction: 67.39%Resistance: 2880Magical Damage Reduction: 33.96%Health: 397600/397600Stamina: 741680/927100 (185420 Reserved)Mana: 64900/64900
+
+“That’s insane,” Calen said, shaking his head in disbelief.
+
+The attributes and resources of the vast Obsidian Sandwyrm shocked Ali even as she read the runic inscriptions. It was effectively a raid boss monster, but without requiring the support of a domain to power its magic. With its gargantuan size, it earned more attributes per level than any monster she had ever seen.
+
+But her attention was drawn to the World Magic enhancements; uncannily similar to the Domain Magic skills she applied to her own bosses. These seemed to fill the same function for the World Boss, but she hadn’t learned them when she deconstructed it. Also, the attribute enhancements seemed more potent than the ones she was able to use.
+
+Is it the same kind of magic Aunt Lira used? Spells powerful enough to trigger realm-wide notifications were often called ‘world magic’ spells in the literature. The extraordinary nature formation Lira had wielded right before she died and was shunted into her acorn was burned indelibly into Ali’s mind. And so, too, was the sound of the realm notification informing everyone that a world magic event had been performed. How is it related? she wondered, but staring at the runes yielded no further insight. What was certain is that this Wyrm had not been triggering realm-wide notifications every time it used its spells. Maybe it’s something different. I really need to talk to Azryet soon. He probably knows.
+
+As to the rest of the monster, it was surprisingly simple. Burrow and Earth Sense were upgraded versions of the same skills her Subterranean Brood Queen possessed. Draconic Majesty was the same skill her Scions had, projecting fear and boosting breath weapons.
+
+“It has a lot of good synergy,” Calen said.
+
+“Yup,” Ali answered. Rock Creator and Sandblast ensured the monster had enough earth, sand, or rock around at all times to wield its most potent weapon: Rock Telekinesis, which was definitely how it manipulated the flying boulders and sand, creating the sandstorm.
+
+“And that Obsidian Scales skill is very similar to Malika’s Soul Armor, only constrained to physical,” he continued.
+
+“Except that Malika doesn’t have over nine thousand endurance,” Ali noted. The damage reduction was one-tenth of endurance, which was ridiculous already for Malika. But for the Sandwyrm, that meant any physical damage after armor would be reduced by more than nine hundred before the monster even took any damage. No wonder only the berserkers could hit it.
+
+“How does it fly?” Calen asked.
+
+“Rock Telekinesis. Most of its body is rock because of the Obsidian Scales, so it can use its magic on itself. See, it has the Movement trait,” she said. “It must take a stupendous amount of mana to move… no wait, that’s a stamina skill?” She studied Rock Telekinesis closer. No wonder I couldn’t see it moving itself. And the monster had over seven hundred thousand stamina, even after its reservation. I guess that explains the unrelenting sandstorm, flying rocks, and a three-hundred-meter-long dragon soaring through the air without wings. Phew!
+
+And then there was the Maw of the Sandwyrm, which was frankly ridiculous. It could draw in anything with gravity magic, crush it with its bite, and any sand or rock, of which there had always been plenty, would be consumed to regenerate health, mana, and stamina.
+
+Azryet needs to see this thing. It was entirely the wrong affinities for him, but she was certain there were skill ideas here that he had never seen, even in his vastly elongated life.
+
+“Wait, Ali…” Calen said. “Those abilities are not Domain Magic, right?”
+
+“Similar, but no, this thing doesn’t use a domain.”
+
+“So, what if you summon it and upgrade it to a boss?” Calen asked.
+
+“I think we need to find out,” Ali answered, her heart beginning to race at the very idea. With something like that at her beck and call…
+
+“Right,” Calen said, nodding firmly. “I’ll make sure we get a raid group in here as soon as possible to find your plants.”
+
+“Perfect,” Ali said. Right, time to get to work. She got to her feet, her mana pool almost fully recovered, and set to summoning a forest, firmly entrenching her domain foothold on this side of the rift. Then, with her traumatic experience of being stranded behind a closed rift still fresh in her mind, she created a new Gate, linking this part of her domain back to the central area of the ruins of Dal’mohra. And even though it felt like paranoia, she added the failsafe runes allowing her to cut the connection instantly, shedding the extension of her domain in the case of an invader she was too weak to handle.
+
+“There, that should do it for now,” Ali said, finally ready to return home.
+
+To her surprise, she felt Calen’s hand grip her shoulder briefly. When she glanced up, she saw him nod as if to say, ‘You’ve got this.’ She dropped her gaze at once. Argh! He’s too perceptive for his own good.
+
+But all Calen said was, “Hmm, I wonder what Mato will cook today? How can I be so hungry after eating sand all day?”
+
+Ali flitted up to elbow him slyly. “It’s not sand I’m smelling, Calen.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

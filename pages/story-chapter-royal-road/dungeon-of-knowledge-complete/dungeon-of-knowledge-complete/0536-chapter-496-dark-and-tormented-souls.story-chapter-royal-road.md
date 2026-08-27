@@ -1,0 +1,227 @@
+---
+id: 4c986904-2d62-5266-8755-7187caa188d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 496: Dark and Tormented Souls"
+slug: 0536-chapter-496-dark-and-tormented-souls
+partOf: dungeon-of-knowledge-complete
+position: 536
+ownLength: 3684
+unit: words
+ownProgress: 3684
+publishedAt: 2026-01-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2910829/chapter-496-dark-and-tormented-souls"
+royalRoadId: "2910829"
+markedReadAt: "2026-06-29T20:30:28.701Z"
+---
+
+The dim candle of red life energy burning within Mato was nothing compared to the raging inferno that had been his life force before he had entered the hall. Malika stepped forward, teleporting herself straight through the heavy stone of the walls, arriving right beside her nearly dead, frozen friend, currently being roasted by the devastating flashing and booming of continual lightning bolts.
+
+Her hair began to stand on end, and even her skin prickled into goosebumps from the thick aura of lightning magic. She blasted the bear with Healing Mantra, momentarily fascinated as his health shot up from the brink of death, shooting past his maximum, his temporary health showing as pale and ethereal red energy rather than the heavy crimson she had been growing accustomed to.
+
+The prickling across her skin rose to an almost painful crescendo, and her notifications chimed.
+
+You have been cursed with Lightning Vulnerability. You have been cursed with Electrocution.+47 Lightning damage per second.Curse – Duration: 2 minutes.
+
+Malika ignored the lightning damage curse, trusting her Soul Armor’s magical damage reduction to shield her from it, but suddenly, one of the pulsing lightning bolts diverted from Mato, burning through her left shoulder instead. The powerful lightning spell tore through her flesh, leaving her skin blackened and smoking, but there was something more potent within it; something that ripped her mana from her, just like her Soul Strike.
+
+She glared at the Dark Soul, a vaguely humanoid form about the size of a Fae, floating in the air. It seemed to be entirely formed from dark, flickering flames and shot through with the occasional sparking of lightning mana; transparent, ethereal, and humming with a visceral power.
+
+She lashed out with a kick, but to her surprise, her foot passed through the flame without meeting any resistance whatsoever, cracking against the wall behind it. It was only when she triggered her Soul Strike that she saw some reaction in the monster’s life energy, but just that mere touch of her skin was enough to cause her own health to suddenly dip, the life energy ripped away by dark magic.
+
+Incorporeal. Is that some sort of Death Touch? Nasty!
+
+She was guessing, of course, neither ability comprehensible to her Infinite Perception, but she unleashed a punch anyway. To her surprise, the monster shimmered and vanished as her fist passed through its outer flaming corona, almost exactly like…
+
+“It escaped to the spirit realm,” Calen called out.
+
+“I’ll go get it,” Malika said, triggering her runic tattoo’s Spirit Walk ability immediately. The hallway with its crimson carpet and strobing flashes of lightning faded to gray all around her, and she found herself once again stepping forth into the strange echo of the same hallway lying just beyond the normal mortal realm.
+
+The hallway, with its sconces and murals, flickered nervously, as if the realm of echoes could not quite decide what configuration it should have, while the battle of gray remained a single point of consistency in the unstable shifting world. Sparse flashes of stark color punctuated the fight, the flash of Calen’s arrows, the golden glow of Ali’s barriers, all sure signs of the evolutions that had attuned their skills and magic to this place.
+
+But the Dark Soul compelled her attention, now a miniature sun of black flames that blazed forth with undeniable power in this realm, trailing arcs of crackling lightning that discharged repeatedly into the ground and nearby walls like lazily dancing limbs of electricity inscribing abstract patterns that reeked of burning smoke and ozone.
+
+She gritted her teeth and unleashed her fists, carefully pulling each punch so that she didn’t accidentally touch the deadly ghost, relying instead on the blasts of Soul Strike she could unleash. Bolts of lightning coruscated, burning her retinas with the sheer brightness, the barrage never faltering even when she landed hits of her own. It was as if the ghost did not even know pain, and all the while, dark whispers of torment, anguish, and madness cascaded like rivulets of corrupting rain splashing off the impervious diamond-hard shell of her mind.
+
+Another shimmer appeared in the periphery of her Soul Sight, and a second Dark Soul appeared. She dodged and weaved, but lightning was near instantaneous, and they were shooting several per second. Her mana vanished, leaving her with only her stamina as she urged her speed faster and faster.
+
+I need help, she thought. Or she needed to flee back to the mortal realm; clearly, the Dark Souls were substantially more powerful here in what must be their native realm.
+
+Then, two more shimmers of mana appeared in her sight.
+
+She nearly fled right then, but the energy patterns of the newcomers seemed different somehow, and she hesitated. Two gray, robed figures appeared, one tall and tusked, and the other tiny with taloned claws and a scaled tail. Color suddenly blossomed within their bodies as they each swallowed something: a surge of ice-blue magic for the troll, and the soft yellow-white flames of holy magic for the kobold, both cursed over to the spirit realm by Ali’s witch doctor. And she’d had the foresight to send them with a handful of Mato’s ghost mushroom snacks.
+
+Change of plan! She thought, realizing Ali was still looking out for her even here, and had sent powerful allies. Not that I had much of a plan to begin with. She redoubled her efforts, taking the role of tank for the two Dark Souls, drawing them to herself while the two mages unleashed a deadly stream of magic – chilling ice bolts and the detonations of devastating holy flame.
+
+Perfect as always, Malika thought, amazed at how effective Ali’s choice of minions was.
+
+Ali frowned, sharpening her focus with the sheer force of her will. There were still about fifteen minutes left before she could switch back to her perception buff, and now she was forced to understand a new curse in the middle of a fight against unknown hostile monsters.
+
+And she had only one witch doctor.
+
+But, to her surprise, her newly tiered-up Arcane Insight unraveled the curse with ease.
+
+New curse: Electrocution learned. Domain Magic updated.
+
+She dismissed the notifications with haste. “Kir’vella. Malika needs help in the spirit realm,” she told her witch doctor. “I can take care of things here. Send her an ice and a holy mage.”
+
+“A little of this and a little of that, a couple of curses, and it’s tit for tat!” Kir’vella sang, prancing about as she waved the grim fetish wand that Ali’s Grimoire always made for her whenever she summoned the champion witch doctor about her head like a rattle.
+
+Ali eyed her for a moment, but when the indicated ice troll and kobold mage shimmered and vanished from the mortal realm, she turned back to the fight, dismantling curses left and right. It was frustrating to watch her powerful berserker reduced to striking the wall behind the ghosts with no effect whatsoever, but then Kir’mogan struck. Ali didn’t expect much because the troll champion was also a melee fighter, but to her surprise, the radiant Holy Avenger swords tore through the very fabric of the ghost, leaving large tears through the black flame that burned with the remnants of holy fire.
+
+“Nice,” Calen observed.
+
+“That did seem to be effective,” Ali agreed, making a mental note to consult with Thuli for some magic damage weapons in size ‘huge’ for Tol’brekk.
+
+Your group has defeated Dark Soul – Ghost – level 219 (Lightning / Death).
+
+“Malika must have got one,” Ali said as the notification appeared, seeing the two Dark Souls down the passage still evading her Berserker and her Blood Shaman’s blood magic and physical attacks. The combination of a soul magic wielder and two mages must be working very well.
+
+“Kir’vella, stop decursing and use your Soul Drain on those ghosts,” Ali commanded.
+
+“Fee fi fo fum, I smell the blood of a… ghost,” Kir’vella paused with a frown on her face. “Brekk! What rhymes with ghost?”
+
+“Toast, host, boast,” Tol’brekk roared, taking a large chunk of stone out of the wall with a massive swing of his axe. “Most, post!” For all that his enormous strength was neutered by their incorporeality, the giant troll was nothing if not persistent, and he hadn’t let up for one instant. The rubble of his fury lay upon the carpet beneath his feet.
+
+“None of that works,” Kir’vella growled, stamping a foot. “Stupid, pesky, unrhyming ghosts! Die!” She waggled her fingers, and the brilliant, blue beams of her Soul Drain skill lanced out and latched onto the floating ghosts with a soft sizzling noise.
+
+Suddenly, the hallway flared to brilliance as Calen found a clear line of sight and unleashed a storm of instantaneous shots that seemed to pierce the ghosts on long beams of light and flame.
+
+Shimmers of mana flickered, and suddenly the spirit realm battle fell through the veil, sprawling back into the midst of the hallway and sending Ali’s priests scrambling for cover as a sudden chaotic storm of ice and lightning flew and soul magic flashed. But two sturdy barriers took care of the healers as she allowed Calen and her casters to take care of the rest of the Dark Souls.
+
+Moments later, more chimes sounded.
+
+Your group has defeated Dark Soul – Ghost – level 211-215 (Lightning / Death) x3.
+
+“Those were ugly,” Mato said.
+
+“You can say that again,” Malika answered, proving just how proficient Mato was getting at in sending his thoughts to all of them at the same time.
+
+Ali walked across the hallway and attempted to deconstruct the remains of the ghosts. The strange floating flames and barely visible ectoplasm fragments were relatively hard to find, and even harder to touch, but she got the hang of it after several tries and deconstructed everything that remained.
+
+Imprint: Dark Soul completed.
+
+“Let me know when I should go scout,” Calen said.
+
+“I need a moment,” Ali answered, committing the new imprint and studying the runes in her Grimoire. From what she found, it seemed to be an awfully simple monster, benefiting from great synergy. “Their Lightning Bolt has a small lightning aura to go with it, but it’s supported by Rapid Fire, Mana Burn, Lightning Vulnerability, and Lightning Mastery. They have a Death Touch skill, Teleport, and an Invisibility with Ambush.”
+
+“So, a glass-canon lightning mage assassin? One that is immune to physical damage?” Calen asked.
+
+“Uh, yes,” Ali said, realizing just how apt his summary was. “It has a great escape skill too.” She had been interested in powerful lightning monsters; she just wished they didn’t have to be undead.
+
+“How are we going to deal with those ice skulls?” Mato asked.
+
+“I have an idea for that,” Ali said. With her tiered-up Arcane Insight, she was sure she could learn their teleport skill with just one or two more encounters – and then she would be able to prevent them from fleeing and calling for help.
+
+***
+
+Two encounters.
+
+Once again, Ali was amazed by the versatility and power of her newly tiered-up Arcane Insight. Before their second encounter, she had restored her perception bonus, and the mysteries of the Frozen Skull Sentry’s teleportation skill had been laid bare in her mind, ripe for exploitation.
+
+“It’s a mass teleport; it can bring its allies to itself, while escaping,” Ali said, summarizing the Frozen Skull Sentry for the others. Its skill was like a mass version of the teleportation magic of her sentinel demons, the Eye of Agnor and Baelok Descrier, with a little of her own Minion Teleport thrown in for good measure. The skill would only work to exchange places, but it could bring allies down upon any intruders it found.
+
+“That’s consistent with what we saw,” Calen said. “Should I go find another one?”
+
+“I’m sure they’ll find us,” Malika offered.
+
+They pressed on through the vast and mysterious labyrinth and, armed with Ali’s new knowledge, not a single sentry escaped their clutches. Four encounters later, she leveled up, and her Grimoire reacted.
+
+Dungeon of Knowledge has reached level 176.+10 attribute points.Arcane Insight has reached level 105.Arcane Recall has reached level 54.Runic Script has reached level 77.Empowered Summoner has reached level 89.Minion Teleport has reached level 58.Variant: Frozen Skull Sentry added to Imprint: Elemental.
+
+Quickly, Ali spent her points: four on intelligence and three each on wisdom and perception. It was perhaps unfortunate that the monster came with the summoning limitations of an elemental; however, it wasn’t an undead, and for that, she was grateful. But once she examined the monster’s runic imprint, she grew much more excited.
+
+“A lot of eye magic,” she said, immediately getting Malika’s attention. “Eye Mastery, the twin ice bolt attack is eye magic, an eye curse, some kind of cold vision, and the scanning ability has True Sight!” Her second monster with True Sight, and she immediately had several ideas for what she wanted to do with these monsters. For one thing, the rift chamber leading to the Abyssal Realm could use a monster with extreme perception skills, and she still had another ice domain in the ruins of Dal’mohra.
+
+Ali’s new understanding would undoubtedly ensure the encounters were far more survivable, but it did nothing to remove the strain of constantly being on alert, risking themselves in the long slog through interminable twisting passages and chapels, destroying the ridiculously dangerous Dark Souls, elemental skulls, and the ever-ubiquitous Death Knights that crawled the halls.
+
+No mistakes! This dungeon no doubt had many more surprises for them.
+
+Calen frowned as he entered the small side-chapel, a room adorned with the ever-present burning sconces and just a single altar. There were no other exits from the room. At least as far as he could see, there had been a few monsters that had ambushed them from behind illusory walls, so he made a quick circuit of the altar, brushing his fingers along the murals just to make sure.
+
+Another dead end.
+
+They were getting close, at least by dead reckoning, but he still had no idea where they were, and he found he disliked being lost.
+
+“Ok, we need to backtrack again,” he announced, reviewing his mental map of the area and wondering if his memories would prove worthless when they backed up. Retracing their path for three turns and hallways should bring them to the next unexplored exit that might lead them closer to their goal. If it’s still there. Although it had never happened in view, he had caught the dungeon changing the labyrinth layout three times now, finding new passages opened where none had been prior, or rooms closed off, barring the way back.
+
+As he left the chamber, though, his sharp eyes caught something poking out from under the crimson rug. Curious, he stooped down and teased the scrap of paper out from under it.
+
+The eyes! They’re everywhere!Burning red eyes… get out! Get out of my head!I need to remove my eyes, then they won’t see me… where is that blasted dagger?Aaah…
+
+Calen shivered. Ordinarily, he would have had serious doubts about someone taking the time to write anything like this; a mad person might mutter and mumble, but would they take the time to accurately record their ramblings? However, he had seen what lurked within the Well of Eternity, and it still filled him with a visceral dread. It made his mind want to curl up and gibber and wail in the corner.
+
+Wordlessly, he handed the scrap of paper to Ali and stalked down the hallway looking for the way that would lead them to whatever had driven this poor person mad, for without a doubt, Calen knew it was that monster. The description of the eyes and the whispers were far too uncannily accurate to be incoherent rambling.
+
+***
+
+Calen walked on silent feet all the way to the end of the hall and looked out onto the familiar amphitheater. His powerful vision easily pierced the dark, drawn to the center and the deceptively still and placid gray surface of the Well of Eternity.
+
+Hovering above in the air, completely invisible to the eye, he knew there was a deadly swarm of Dark Souls. Equally concealed beneath the murky waters of the well lurked a monster of nightmares.
+
+The soft rustle of fur and the quiet padding of huge paws drew his attention to his side as Mato joined him, raising his nose and sniffing at the air.
+
+“There’s something foul in here,” Mato said. “It reeks worse than the undead.”
+
+“Yes,” Calen said, not raising his voice above the softest whisper, knowing Mato’s ears would hear it easily.
+
+“Mind shenanigans, you said?” Malika asked, joining them up at the threshold and pulsing her healing magic.
+
+You have gained Clarity.
+
+“Yes,” he answered. He had long given up on trying to put words to the sheer, overwhelming immensity of the monster’s presence. He just hoped Malika’s ability would grant sufficient protection.
+
+“So, how do we pull the invisible Dark Souls without awakening the boss?” Ali asked.
+
+“You can’t see them with one of your minions?” Calen asked, a little surprised that Ali’s vast array of minions didn’t have at least something she could use.
+
+“They’re invisible, and they’re cloaking their mana,” she said. “They’re not alive, not moving, not making sounds, and they don’t have blood. I could make one of my treants and find them with True Sight, I guess.”
+
+“There are three of them flying over there,” Malika said, pointing. “I can see their stamina and health energies at the edge of my Soul Sight range.”
+
+“One hundred and eighty feet?” Calen asked, recalling the details of Malika’s potent skill, her current skill level, and doing the range calculation quickly in his head.
+
+“Close enough,” she answered, holding her hand out, palm down, and tilting it side to side.
+
+Calen retrieved Cinderstrike to his hand and snapped off a volley of arrows aimed blindly, just following Malika’s pointing finger. One of the arrows hit something, leaving a blooming sphere of brilliant radiance and fire. With a hiss, three Dark Souls suddenly materialized, surging down along the path of his arrows toward him, bristling with arcing lightning.
+
+But his arrows had not stopped. As Calen dodged, avoiding a volley of intense lightning, a second explosion lit the back wall of the amphitheater, and four more Dark Souls appeared.
+
+“Two of them went to the spirit realm,” Malika said. “Ali, back me up?”
+
+“You got it,” Ali answered.
+
+As Malika and Ali’s mages faded over to the spirit realm, battle was joined in earnest.
+
+Calen snapped off a volley of arrows at the incoming ghosts, combining instant arrows with grappling shot. Intense beams of light shone through the dark amphitheater, impaling one Dark Soul each, and the trailing chains of light snapped taut, wrapping around the ghosts through the power of his light-affinity magic and hauling them down to where Mato waited with claws of void.
+
+“This should be far enough from the well, Mato,” Calen said. He ignored the scrambling minions as Ali maneuvered healers and ranged attackers, spreading them out to avoid making clumps – attractive targets to monsters with linear area lightning bolt attacks.
+
+Malika’s indistinct form flickered between several burning ghosts while magic spells flew and detonated in faint, indistinct gray. She seems to have it under control, he thought, switching to pure damage and unleashing his full power.
+
+With Malika popping back to the normal realm to spot Dark Souls, they slowly made their way around the amphitheater, keeping themselves well away from the Well of Eternity in the center. But despite their extreme caution, about three-quarters of the way around, the monster appeared.
+
+There could be no doubt, its entrance was like the scratching of nails down the chalkboard of his mind. Calen shuddered as a dark orb shot up out of the well and peeled its lids back with the horrifying sound of flesh ripping, revealing the dark, malevolent red gaze. A dark beam shot forth from the eye, raking the ground, ripping through their army like a scythe demolishing weeds.
+
+Calen raised a shaking bow, struggling against the mind-numbing force of the presence emanating from the well. His mind rebelled, refusing to acknowledge the awful eldritch existence, but he managed to snap off a shot in its direction.
+
+His arrow pierced the eye.
+
+Immediately, two more orbs shot up out of the well, opening their gaze and swiveling to stare down at him. At once, his mind filled with insidious whispers, echoing with madness, anguish, and promises of unspeakable power. The room shivered, buckling as if the stone had suddenly come alive.
+
+Somewhere in the distant recesses of his mind, he registered something piercing him in the back, a soft chime, but it felt like something happening to someone else. Something so far away, it couldn’t possibly be him.
+
+The giant bear in front of him roared, and a malevolent red eye suddenly opened on his back, swiveling to stare at him. Tentacles erupted from his flesh, waving about and reaching for him.
+
+Calen dove to the side, hitting his shoulder heavily on the ground as he misjudged the distance. If only it would stop moving. But as he sprang to his feet, his arrows were ready and flying. Mato had been possessed, and the only way to save him was to shoot it.
+
+Shouts rang in the background, but the whispers in his mind were far too loud.
+
+He ran sideways, dodging a disk of golden magic that was pursuing him, but he brought himself up short just in time as the stone under his feet split apart, revealing jagged teeth and a maw into darkness. It snapped shut, narrowly missing his foot as he leapt over it. All around him, eyes and mouths began opening on the walls, the floor, his friends, and even the air.
+
+It got everyone. It’s just me…
+
+He gritted his teeth, drew his bow, and set himself to his grim task.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

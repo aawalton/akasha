@@ -1,0 +1,93 @@
+---
+id: d7eddac9-bdc8-539e-bd82-bf41c6e9db07
+page-type-slug: story-chapter-royal-road
+title: "Chapter 336: A Desperate Plea for Help"
+slug: 0373-chapter-336-a-desperate-plea-for-help
+partOf: dungeon-of-knowledge-complete
+position: 373
+ownLength: 1631
+unit: words
+ownProgress: 1631
+publishedAt: 2025-08-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488719/chapter-336-a-desperate-plea-for-help"
+royalRoadId: "2488719"
+markedReadAt: "2026-06-29T20:23:15.128Z"
+---
+
+Ali hid her two acolytes beside the large pillar while the entire cavern shook, desperately hoping it would not shatter. She left her rogue out in the open, relying on high dexterity and evasion to dodge the falling boulders while trying to stab a mountain of granite with a short dagger. It was not working particularly well.
+
+While she was still struggling to figure out where she was in the spirit realm, she couldn’t very well leave her friends without her support, so she kept her connection to her minions, doing her best to heal the raid while the rock below her small taloned feet bucked and bounced.
+
+“Earthquake is ending!” Seth called out, and once again Ali felt a pang. Seeing and calling the domain magic had always been her role in the raid, but now, she was blind to magic. Fortunately, Seth seemed to be doing a fantastic job, but Ali missed being able to see what was going on, learning about the abilities, and optimizing the best ways to avoid or deal with whatever powerful magic would be thrown their way.
+
+At least she could see the health of everyone in the raid. Quickly she cast Azryet’s Gift on Sabri in the center of the melee group. It was a strange healing spell; remarkably efficient in mana, but difficult to use with any kind of precision. She had worked her Acolyte’s skill up to level twenty already, which meant that the gift would bounce three times now, but each bounce was to a random nearby ally, so controlling it required some luck. However, during an Earthquake where everyone was taking damage, casting it in the middle of the clump of melee classes was perfect.
+
+Also, she was not the only healer looking after everyone. The glowing bubbles of Sacred Ooze rained down from the ceiling as Naia’s minions’ strange healing skill popped among the struggling members of the raid, each burst bubble healing two to three people. It wasn’t a huge amount of healing, but a constant rain of area-healing magic was having an incredible effect on the entire raid. Not to mention Gara and Malika were healing continuously, too.
+
+She got her acolytes up as the shaking ground quietened down and she threw out several restorations before turning her attention once again to the Death’s Acolyte.
+
+This minion had been one of her least used kobolds – in almost every situation, a minion whose only attack was a death magic area damage spell was mostly useless. Everywhere she needed an area skill, her Fire Mages or imps had been superior, and most of the time, her death magic blasts would hit allies and foes indiscriminately.
+
+But that calculation was flipped on its head when working side by side with a necromancer. Healing the undead with her holy acolyte was a terrible idea – undead were allergic to holy magic – but undead healed when hit with the death blasts from her Death’s Acolyte, making the unusual kobold remarkably effective in this fight – and all it had taken was a simple strategy that separated the living and the dead.
+
+She waited for Seth to pull the next wave of beetles with spectral versions of her Radiant Brawlers. Once they were all grouped up, she unleashed her death magic into the pile; beetles took damage while the undead minions were healed – a little like an explosive version of Havok or Mato’s Consecration, but for the undead. It was powerful enough that Seth was comfortable leaving his zombies, skeletons, and specters in the middle of a storm of fireballs and blizzard spells.
+
+Ali fought on, simultaneously managing the minions that were helping the other raid groups, and trying to not become distracted by the strange situation she found herself in in the spirit realm, talking to two disembodied voices.
+
+I need to tell someone soon, she thought, glancing across the fight to where Malika was punching the solid granite carapace of a juggernaut rock beetle.
+
+Malika will know what to do. Now, how do I reach her? When...
+
+Malika sat, her legs crossed in her meditation posture, recovering her stamina, but even though her eyes were closed, her Soul Sight recognized Sabri standing hesitantly nearby. She opened her eyes, indicating that she didn’t mind being interrupted and Sabri joined her, propping herself up against the rock.
+
+“I made so many mistakes,” Sabri sighed, and Malika could see the nervous energy swirling within her, disrupting the flow of her stamina. “I hope I was ok. I’m one of the lowest-level members and that’s not good for the main tank. Maybe we should have got Basir instead.” Even her words were rapid, betraying anxiety.
+
+“You thought that went badly?” Malika asked, genuinely curious. She had been worried herself, but mainly because this was her first time leading a raid group. She didn’t have Calen’s strategic insight, nor Ali’s amazing perception skills, but it had gone remarkably well, all things considered. Ali’s protégé, Seth, had proved to be almost as good at reading magic as she was, and the combination of the Vampiric Hex and his Life Tap had meant that she had barely needed to heal anyone other than Sabri directly. Her overheal, Naia’s sacred oozes, and Gara’s Blood Siphon had been more than sufficient for the rest of the raid group.
+
+“I took a lot of damage,” Sabri said, sounding forlorn. “You had to heal me a lot. If we had a higher-level tank, it would have been better.”
+
+“Sabri,” Malika said. “You tanked the Brood Queen and all three Juggernauts by yourself. They were all higher-level than you, and heavy hitters, at that. Nobody else ever got hit, and you timed your Shield Wall perfectly with the earthquakes, making recovery much easier. Don’t be so hard on yourself. Besides, you gained five levels for that, you’re already a higher level and, hate to break the news to you, but there’s more to come.”
+
+“I guess so,” Sabri said, looking up a little uncertainly. “Do you really think I did ok?”
+
+“No. You did fantastic,” Malika answered. “You’re incredibly reliable, and you work hard on your skills.” The only thing Sabri needed was a little confidence.
+
+“Thank you,” Sabri said, a smile finally appearing on her face.
+
+“Malika?” The strange chirping sound of the kobold’s accent made both of them turn to face Ali’s minion. It was the holy acolyte, not the death one.
+
+“What is it, Ali?” Malika asked. It still felt a little awkward to talk to her friend via a proxy, but it worked, so she couldn’t complain.
+
+“Can you make sure Naia gets the boss’s corpse? She can learn whatever domain magic it has and teach it to me later.” The kobold acolyte tipped its head a little to the side, a gesture that reminded Malika immediately of one of Ali’s mannerisms.
+
+“Sure,” Malika answered, somehow knowing this was too mundane of a reason for Ali to have interrupted her.
+
+“I don’t want to worry you, but the dungeon was attacked today, and I had to evacuate all the Elves,” Ali said through her acolyte.
+
+“What?” Something had attacked while everyone was away, and something dangerous enough that it had forced an evacuation? Before she could speculate on how Jax Hawkhurst or Kieran Mori might have arranged something so dangerous, Ali’s acolyte continued to speak.
+
+“It was the Heroes of the Crimson Blade,” Ali said. “A platinum-ranked adventurer group from Southport. They tried to kill me, Malika. I was forced to kill all of them.”
+
+Even though Ali’s emotions did not translate well through her acolyte proxy, Malika could instantly feel exactly how upset Ali was by the fact she had been forced to kill people again.
+
+“It’s ok, Ali,” she said, trying to reassure her. “You were just defending yourself and the Elves. Maybe you can hang out in the guild hall till we get back?”
+
+Even she had heard of the Heroes of the Crimson Blade – they were one of the most powerful adventuring groups in the kingdom and were usually the ones called in to take care of the most dangerous dungeon breaks. Or to exterminate the dungeons themselves. And Ali dealt with them on her own? Weren’t they supposed to be above one fifty? That must be one crazy story – but I wasn’t there for her. None of us were.
+
+She felt sick. It could have ended so differently.
+
+“Well, about that,” Ali said, and Malika instantly knew her friend had somehow saved the worst news for last. “I can’t get back. I got stuck in the spirit realm somehow. I was transported into a dungeon by a teleportation trap. I have no idea where I am, and I cannot use any of my magic.”
+
+“What?” It was far worse than she had imagined. Ali was stuck in a spirit realm dungeon. Without any of her magic, she would be helpless.
+
+“When Val’korr gets back, can you tell him? I don’t have any live witch doctors to search the spirit realm, and he’s the only person I know who can get here.”
+
+“I will,” Malika said, but her mind was reeling from the news. The rescue party was not due back from Ciradyl for days, even if she could contact them with a sending scroll or something.
+
+No, we need to figure this out on our own. Aha!
+
+“Did you forget, I have Spirit Walk, now?” Malika asked, tapping the tattoo Ali had crafted for her that snaked around from her back onto her collarbones. She leapt to her feet so fast, the kobold let out a startled squeak that sounded exactly like her friend. “I’ll get Calen. Don’t worry Ali, we’ll get you out of there.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

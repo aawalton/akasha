@@ -1,0 +1,251 @@
+---
+id: 99d35a05-a39b-5440-83d3-6b774df6fe68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 542: The Flight of the Dire Bear"
+slug: 0582-chapter-542-the-flight-of-the-dire-bear
+partOf: dungeon-of-knowledge-complete
+position: 582
+ownLength: 3997
+unit: words
+ownProgress: 3997
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3071226/chapter-542-the-flight-of-the-dire-bear"
+royalRoadId: "3071226"
+markedReadAt: "2026-06-29T20:32:10.363Z"
+---
+
+Mato roared at the roiling, windy skies, but the shining celestial being ignored him.
+
+Not so, the elemental orbs orbiting its head. Beams of coruscating light crisscrossed the ground, biting into his hide and filling his nostrils with the stench of burnt fur. He grew roots and brambles, but their reach fell woefully short of the battle of light and wind far overhead.
+
+Malika flickered back and forth, leaping off nothing at all as she punched and dodged at high speed. Calen unleashed a steady stream of arrows, while Ali’s minions filled the air with arrows, lightning, ice, and fire. Even the giant troll berserker leaped skyward to unleash devastating axe-strikes at the airborne monster.
+
+And here he stood, grounded, helpless, powerless, impotent. He roared his frustration at the skies once more, for all the good it would do. He hung his head. He couldn’t even dodge the beams; all he was doing was soaking healing away from the real fighters.
+
+Fucking fliers. I wish I could jump that high. This is so stupid!
+
+He stumbled as suddenly, the ground lurched and tilted. He dropped low in his stance, digging his void-enhanced claws in to stabilize himself, but the ground fell away precipitously, and he found himself soaring into the skies on a broad golden disk.
+
+His stomach lurched, and he hunkered down further, heart hammering in his throat. It took every ounce of his willpower to control the rush of queasiness and vertigo that threatened to unman him.
+
+“Ali… what are you doing!” He could see the ground through the barrier that was all that held him up, and it was already so far away. Wild winds whipped through his fur, threatening to dash him to the ground. The resonant hum and blast of searing beams of light and the continual swishing of ice bolts and wind blades whipped past him in droves.
+
+“We need a tank,” Ali said, borrowing the voice of one of her demons to talk to him over the rushing sound of the wind.
+
+He hung on for dear life, void claws slicing furrows through the golden barrier that was his only safety, struggling to get his legs to stop trembling as Ali yanked him through the air at a dizzying speed.
+
+With one last hard bank to the right that nearly lost him his lunch, he suddenly found himself face-to-face with the Fractured Archon. His instincts took over. He roared, an unfortunately high-pitched challenge that he fervently hoped nobody heard, and the monster turned, bathing him in searing beams of light and a deluge of wind blades.
+
+The sudden onslaught of pain captured his entire focus. Without thinking, he released his death grip on Ali’s barrier and lashed out with a Swipe, trailing void and nature magic in the wake of his claws. A sudden flicker of white flame flared along his paw the instant before the strike, and he knew Azryet’s blessing had triggered.
+
+I’ll thank you later… if I survive, he thought grimly, gritting his teeth and fixing his eyes upon his foe with the desperate intensity of a drowning man clinging to a log. Anything to avoid looking down. The beams bit into his flanks yet again, boiling his blood and flash-cooking his flesh, but the stench and the familiar surge of healing magic somehow centered his mind as Battle Trance kicked in. This was his place. In the thick of battle, taking the big hits.
+
+Beside him, Malika danced on air, zipping around the Celestial at high speed, flashing healing at him every few seconds.
+
+And despite his terrifyingly precarious position, some measure of his confidence trickled back in.
+
+Just don’t look down.
+
+Ali stood firmly on the ground among the burning trees, hiding behind a large wall of barrier magic with all her healers gathered to her, and directed the battle. Her barrier rang with the steady rattle of deflected wind blades. She had learned a thing or two about fighting light mages since the first time she’d had something sliced off by a searing beam, which was why she was also huddled behind a second layer of defense – two ice mages with large Ice Shields. Every time the beams struck, large chunks of ice were sheared from the shields, but they were quick to repair, and so far, nobody had been sliced in two.
+
+Flying Mato proved to be far harder than she’d imagined. He kept shifting around on the barrier and digging into it with his claws. Normally, that wouldn’t have even scratched her powerful barrier, but void magic was far harder to hold back, and it required a continuous trickle of mana to preserve its integrity. She had shouted at him to stop moving, but not even his enhanced hearing could pierce the raging din of explosive magic and the howling of the winds. She had repeated it directly into his mind again, but nothing changed.
+
+It seemed the shifting about was not merely random movement, and Ali found herself forced to match him, adjusting the barrier so he didn’t sidestep off the edges. If she moved slowly, providing room to maneuver, he would eventually recenter himself, but in the process, Ali was learning just how much a tank needed to move about in order to control a flying monster. Every time the Archon shifted, he subtly shifted his weight or angled his body just so, an intricate and complex – previously unnoticed – dance that resulted in the monster always facing the way Mato wanted, seeming to be locked in place.
+
+So much work to just hold a position. It’s quite technical. And by the prickle from Sage of Learning, and the insights pouring into her mind, her tanking-inclined minions were set to benefit greatly from the experience.
+
+With a surge of magic, the celestial summoned a giant spear of light and wind to its hands, and unleashed an incredible burst of hasted attacks, leaving Mato suddenly battered and gushing blood across her barrier. The healers at her side responded immediately, some even completing heals they had begun in anticipation of the attack.
+
+Another burst of haste flared within the radiant being, and Ali studied the formation carefully as it blossomed into an incredible flurry of strikes, this time augmented by a deluge of auxiliary wind blades. Every time the spear pierced Mato’s hide, blinding flashes and concussive blasts detonated inside the wound, leaving seared flesh and ruined muscle. Every time the spear was prepared, wind blades filled the gap, opening new wounds and spilling more blood. It was a ruinous attack.
+
+The spear advanced, a strike of such blinding speed that it left purple afterimages on Ali’s retinas, but it met the implacable momentum of Mato’s Critical Block, the crack of impact radiating out as a shimmering spherical shockwave of force. Ali winced at the force redirected downward into her barrier and hastily fed more mana into it to prevent it from cracking.
+
+To her dismay, the Fractured Archon recovered nearly instantaneously from the devastating retaliation, summoning several more mirror images, and shimmering as it shifted somehow, instantly losing itself within the potent illusion.
+
+“Third from the right,” Calen called, unmasking the illusion effortlessly.
+
+Fireballs and ice bolts still in transit detonated on the original location, now a mirror image, but the celestial’s illusion endured the onslaught without noticeable damage, continuing to copy the celestial’s movements unhindered in a flawless display of synchronization.
+
+It was exquisitely beautiful magic. Despite the danger, Ali marveled at what had just unfolded. Not even watching the formations of mana developing had offered even the slightest hint as to where the original was hiding. It was not even a movement skill – the illusion was simply, suddenly manifested in a different spot. It fooled every single perception skill she had at her disposal, and without Calen’s True Sight, they would have found themselves burning down the durable mirror images only to find they’d wasted their time. Worse, there was nothing illusory about the wind blades and searing beams of light that the mirror images unleashed.
+
+Ali scrambled, shifting positions, redirecting her minions, and sending Mato soaring across the battlefield to meet the monster’s new location.
+
+Sorry, she thought, as she saw him clinging on for dear life. She knew how much he hated flying, and how brave he had to be to fight in the air on a transparent disk, but, in that moment, she had been unable able to think of any other way to fight it. Malika tanked it for a short while, but Ali had clearly seen just how much damage she took whenever she failed to dodge – and that had been before it had manifested the spear of light. No, there was nobody else who could tank it; it had to be Mato.
+
+Haste. Ali launched her needles of disruption, and the spell flickered and died, shredded before it could manifest, but the celestial’s head snapped around to fix her with an incandescent glare, mirrored by all nine images. Her bones vibrated in resonance to the rising hum, and suddenly the world flared to white as every single celestial image trained its eye beams directly at her face.
+
+She thrust her staff forward and activated Nathaniel Sunstrider’s signature Spell Steal.
+
+Ali had just burned her disruption and all the focus and attention required to learn it, on the Haste spell. So, it was truly fortunate that Nathaniel’s Spell Steal staff did not require her to first understand the magic being stolen. However, she knew just enough to understand that if she hadn’t been able to target the original, she would have certainly failed, and the searing light would have burned her down like so much chaff.
+
+All the beams warped, bending as they passed through her golden barriers, sucked in toward the gem on the end of her staff. A flash of mana followed by a loud pop, and suddenly the gem began to shine with brilliant radiance.
+
+Ali blinked away the persistent purple floating images in her eyes. Now she had a worthless light beam spell, and five minutes before she could consume another.
+
+Fortunately, Arcane Insight’s mana sight was not affected by afterimages, and she saw the formation clearly before the array of celestial images burned her down a second time. Right as it launched another searing blast of beams, she teleported. Tol’brekk roared in pain as the beams ignored the barrier, melted down the thick ice shields, and sliced into his flesh, some of them punching cauterized holes clean through his tough body.
+
+Sorry… But she knew he was the best suited to soak up damage. Bloody mist burst from his body as his eyes reddened from rage, and Ali dismissed her barrier before he made a bloody-minded attempt to smash right through it with his Leap.
+
+Should I take the Haste rather? she wondered, venting the beam attack harmlessly into the skies. This was her first real fight using her new staff, and she had miscalculated Spell Steal. Naively, she had used it like she would her disruption, but clearly it did not impose an additional recharge on the skill she stole. Stealing the beam had saved her from that shot, but the celestial had just used it again, and it had left her with a light magic spell that it was immune to.
+
+She didn’t even know if she could steal the Haste spell or the summon spell for the orb elementals, given that they didn’t target her. Although Nathaniel did try to steal my Arcane Recall. The Fractured Archon’s Haste recharge seemed to be quite short, and if she stole that, she would not be denying it for very long, and Mato would bear the cost of that in blood.
+
+This is harder than I thought.
+
+Fortunately, Mato had regained the attention of the celestial and its devastating gaze.
+
+Magic flickered back and forth, the artillery of sylvan archers and both kobold and troll mages soaring skyward in a continuous stream of magic. Healers flickered with rapid casting, patching up the chaotic damage of the searing beams of light and the continuous storm of wind blades, filling up the pauses by snatching a few moments of a mana regeneration skill, or downing a potion.
+
+Ali hunkered down behind her barrier, blocking random blades from hitting herself or her healers, while trying to remain inconspicuous and not draw the primary eye beam attacks. The exchange continued unabated as she endeavored to blow up the summoned swarm of orbs in an effort to reduce the extraordinary chaotic extra damage, but, before she knew it, her recharge expired.
+
+Haste, she thought firmly. She had been agonizing over what to steal for the entire five minutes, and finally her decision had been made. It had come down to the fact that she could teleport away from the beams, and hopefully she could disrupt the haste immediately after she stole it, without drawing the Fractured Archon’s ire for too long. Still, she prepared her Minion Teleport just in case.
+
+She waited, studying the flows of mana.
+
+Elemental Orb.
+
+Beam.
+
+Spear.
+
+Mirror Imag… wait! Acting entirely on instinct, Ali thrust her staff out toward the flying celestial and triggered Spell Steal. The formation bent, twisting wildly, and shot across the intervening distance, gobbled up by the gem in her staff. Instantly, all nine Fractured Archon images whirled to face her, eyes beginning to burn with power. But in that instant, all the mirror images collapsed, presumably expiring as the powerful illusion spell’s duration ran out.
+
+Mana poured into her staff, activating her stolen magic.
+
+You have gained Celestial Mirror Image x8.
+
+The whole world flickered, just like an echo in the spirit realm. But instead of the scenery changing, it was simply her point of view that shifted laterally and upward by several meters. She glanced to the side, and there, flying beside her were eight images of herself, all also glancing sideways.
+
+She summoned a barrier disk. Nine disks snapped into place before nine images of Ali. Oh! Weird.
+
+Searing heat rolled out as the incandescent beams shot through a golden barrier, burning the Ali hiding behind it. But it was not her. She watched curiously as the mirror image ignited under the intensity of the devastating spell and was rapidly consumed.
+
+Is everything duplicated? As the mirror image beside her popped into a cascading rain of sparks, she pulled out a wand of Arcane Bolt and unleashed eight streams of golden bolts that slammed into the single remaining Fractured Archon.
+
+Oh, this is awesome! A thousand ideas burst into her mind in an instant. Theories cascaded, combinations formed, a chain reaction of revelations and inspiration that fed upon itself, breeding more and more – each blooming crazier than the last. And every single one of them needed to be tested right now.
+
+Unfortunately, the Fractured Archon inconsiderately chose that precise moment to die.
+
+Your group has defeated Fractured Archon – Celestial – level 257 (Wind / Light)Dungeon of Knowledge has reached level 232.+10 attribute points.Arcane Insight has reached level 142 (+2).Arcane Recall has reached level 78.Barrier has reached level 122 (+2).Sage of Learning has reached level 106.Martial Insight has reached level 134 (+2).Empowered Summoner has reached level 120 (+2).Minion Teleport has reached level 81.
+
+“Hey! I wasn’t ready yet!” Ali stared at the notification in disbelief and disappointment. Never had she felt so let down by the notification of a dangerous monster dying.
+
+The ideas shimmered, hovering in her mind still, but now with nowhere to go.
+
+“That was a smart steal, Ali,” Calen said, flying over to her. “The images make him very robust; he went down extremely quickly after they dropped.”
+
+“But…” Ali began, staring at the corpse of alabaster lying where it had fallen in a crumpled heap surrounded by shattered and burning branches.
+
+“What’s wrong, Ali?” Malika asked, joining them. “We got it.”
+
+“I had so many things I wanted to try…” Grumpily, Ali tossed three points each into wisdom and perception, and the remaining four into intelligence.
+
+Malika just smiled, “We can get Calen to find you another one to play with.”
+
+Suddenly, the disappointment vanished, and she smiled happily. Of course, there would be more of them, and they could find them all. And then she could try every idea…
+
+“Ali…” Mato’s mental voice quavered.
+
+“Shit! Sorry, Mato!” she yelled, and quickly flew the terrified bear back down to the ground.
+
+He hopped off the barrier, digging his claws into the ground, just standing there for a moment, looking like he was experiencing a transcendent moment.
+
+“That worked pretty well,” Calen said, a tiny hint of a grin appearing on his face. “Maybe you should try unlocking a flying skill?”
+
+“Fuck, no,” Mato answered, drawing a shuddering breath.
+
+“Scared?” Calen teased.
+
+Mato glared at him like one who’d just been stabbed in the heart by his closest friend. While Mato had clearly been terrified in the air, he looked far more confident now that his feet were planted on firm ground. Instead, he said, “Do you know how ridiculous a flying bear would look?”
+
+“I don’t know, maybe you could have some shiny white angel wings?” Ali suggested, trying but failing miserably to hide her grin. “Maybe little cute ones that pop out of your back?”
+
+“Oh no, not you too, Ali? I thought you were on my side!” Mato exclaimed, squinting comically as he wrestled with the fact that there were eight of her and he had no idea where to look.
+
+“She is the one who flew you around the battlefield, you know?” Malika retorted.
+
+“Seriously? It would be one thing if I were a butterfly, or an angel, or something,” Mato grumped. “But no, I’m a bear. Or a tree, who would ever believe a flying tree?”
+
+Ali just laughed and flew over to the corpse of the Fractured Archon. While she hadn’t had much opportunity to experiment with the Celestial Mirror Image skill she had stolen, she could still study its effects as it slowly faded.
+
+It seemed to be a magical buff that vastly increased her health and magical resistance. And if she was understanding the magical formations correctly, it should have the same effect on armor and evasion. It seemed the Celestial Mirror Images increased her defenses and health by a hundred percent each, resulting in eight hundred percent more. And the images shared all her attributes.
+
+No wonder it died so fast. The moment she had stolen the spell, she had also stolen the lion’s share of its defensive abilities and the vast majority of its health.
+
+Hmm. I might be able to dismantle this, too.
+
+Only after the skill expired did she land beside the corpse and deconstruct it.
+
+Variant: Radiant Orb added to Imprint: Elemental.
+
+“Where is the Well?” Ali asked, handing several essences to Malika for storage.
+
+“Over this way,” Calen said, his face suddenly unreadable. “Let me show you.”
+
+They all followed Calen across the still-smoldering ruins of the forest as he led them toward the center of the strange island. It was quite clear to Ali what kind of chase Calen had endured to draw the Fractured Archon to their ambush, and she stared at his back in astonishment.
+
+But before she could say anything, they emerged into a wide clearing. The first thing she noticed was the torrent of wildly roiling, holy-affinity mana boiling off from the pile of floating rock hovering a few meters above the grass. Jets burst forth at random, leaving twisting whorls and vortices to spiral down to the ground, where they shattered and deposited briefly glowing bubbles. Wind tore through the fount of strangely out of place mana, whipping it into a frenzy and stripping it off in sheets of spray, not entirely unlike breakers smashing into a rocky shore.
+
+Ali’s heart sank.
+
+Of the mystical Well of Divinity, the artifact as ancient as civilization itself, all that remained was wild mana and a few floating rocks that hovered roughly in a circle. And nowhere in sight was any of the water that had once filled it.
+
+How will I ever get a vial now?
+
+Naia wobbled her way across the floor of the guild hall, consuming crumbs, dropped food, and dirt absently as she made her way to the reception desk. She stretched herself upward with a long pseudopod and then pulled herself up onto the desk and bounced a bit, careful not to mess up the papers.
+
+“Oh! Hi, Naia,” Mieriel said cheerfully. “How can I help you?”
+
+“I want to make a quest,” Naia said. It had been Calen who had suggested it a while ago, but back then, she had been rather afraid of asking because she had no idea what it had meant.
+
+“What kind of quest?” Mieriel asked, adjusting the strange device she wore on her face. Naia had given up on asking about every peculiarity these strange humans had. No, she’s an Elf, not a human. She didn’t know exactly why that was such a big deal to them, but apparently it mattered. Naia just knew they all shared the same limited body that couldn’t squish through holes. Or cracks. So limiting.
+
+“I want people to shoot my oozes,” she said.
+
+“What?” Mieriel asked, with what Naia decided sounded a lot like surprise.
+
+“I want people to shoot my oozes… with different magic types,” she said, trying again. “I can sometimes learn a new kind of ooze when that happens. Azryet said I should collect them all.”
+
+“Do you have a reward in mind?”
+
+“Reward?”
+
+“Something to pay people who take your quest?”
+
+Oh. These people and their strange obsession with things. “I don’t think I have any things to give.”
+
+“Hmm…” Mieriel said, pausing for a moment in thought. “I think I have an idea for you, then. Why don’t you offer yourself as a sparring partner in the arena, and have people fight your oozes there? That way, they can practice their skills, and you might get the ooze you wanted? The rings will even heal your oozes.”
+
+“Ok!” She was glad she had come to talk with Mieriel. She had good ideas.
+
+“Ok, I’ll make your quest. Is there anything else I can help you with?”
+
+“Can you shoot my oozes too? I don’t have mind magic yet,” Naia asked.
+
+“I don’t think so, Naia,” Mieriel said. “You’re immune to most of my magic.”
+
+“Why?”
+
+“I think it’s because oozes don’t have a mind.”
+
+“But I can think!”
+
+“Yes, but it doesn’t seem to work the same way as other minds. At least, my magic doesn’t work on you. But you could try up on the battlements – Ali has made a Psychomancer demon, which has a powerful mind-blast. Maybe you can learn mind magic that way?”
+
+“Ok, thank you!” Naia said, bobbing up and down. Now she had a quest and a good lead. More than one, she reminded herself. Calen had given her a few other good ideas, and she still had to take Azryet up on his offer to go demon hunting.
+
+Most of her slimes and oozes were too low-level to be useful. However, she had witnessed many adventurers growing stronger by fighting the monsters in Ali’s dungeon, and she was sure by now Ali wouldn’t mind.
+
+I have a lot of work to do, she thought, but the ideas all filled her with a thrill of excitement.
+
+A smaller person who smelled of steel and chocolate cookies approached. “Need damage?” Havok asked. “Holy fire is best!”
+
+“Holy fire?” Naia asked, rippling her membrane in excitement.
+
+“Yes! Havok show! Come!”
+
+Naia reached out an eager pseudopod, and Havok grabbed it without hesitation. As Naia blobbed after him toward the church, she stole the cookie crumbs from his fingertips. Chocolate is nice! She had so many questions. Why is chocolate so nice? Is chocolate holy? Is there chocolate damage?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

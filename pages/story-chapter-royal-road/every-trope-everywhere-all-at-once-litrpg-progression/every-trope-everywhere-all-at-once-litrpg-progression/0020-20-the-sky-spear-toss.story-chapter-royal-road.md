@@ -1,0 +1,243 @@
+---
+id: 5f4e09b3-9f81-5073-931b-7dd46d873a4d
+page-type-slug: story-chapter-royal-road
+title: "20 - The Sky Spear Toss"
+slug: 0020-20-the-sky-spear-toss
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 20
+ownLength: 1787
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3430509/20-the-sky-spear-toss"
+royalRoadId: "3430509"
+---
+
+The harpies running the stall greeted us as we got to the front of the line.
+
+“Welcome to the Sky Spear Toss game!” one of them said.
+
+The shop had several spears of various sizes and colors at the back, each enchanted with wind magic. No matter how far somebody threw these spears, they would return to the stall, where the attendants would catch them. Of course, these were all fake spears. Their tips were the texture of a pillow.
+
+Since the stall was at the edge of the island, the game took full advantage of it. The rules were simple: throw these spears at some of the giant creatures floating nearby. The cloud serpents were the hardest to hit and gave us the most points. The rest gave varying amounts, depending on the creature’s size.
+
+“Isn’t this animal abuse?” I asked.
+
+The attendant gave me a look. “Animal abuse? How so? The creatures are trained and rewarded for this. And besides…” He picked up a spear and thrust it at me.
+
+“Agh! What the—”
+
+I only made that sound out of shock. I quickly realized that I hardly felt anything at all.
+
+“Nice and soft, isn’t it?” he asked.
+
+“Yeah, you’re right.”
+
+We began picking out our spears. Talon went for the golden-colored one right away, as if he had done this a few times before. Meriel went for the white one. Reina grabbed the largest one possible, while I grabbed the smallest one.
+
+“Alright, so the four of you will be competing against each other, yes? That’ll be sixteen copper total per round.”
+
+Talon paid the price. We told him we’d pay him back, but he kept insisting we didn’t have to. I’m not sure how to feel about a little boy paying for our activities, but I wasn’t going to turn him down. What a nice kid.
+
+I looked back at the stall, seeing that the prizes were split into three tiers: low, mid, and high.
+
+The low-tier prizes had candy, food tickets, and tiny keychains shaped like the floating creatures. The mid-tier prizes had plushies and enchanted charms, including ones that kept drinks cold, and another that created a breeze while you walked. Very practical.
+
+But the four of us had our eyes on the highest tier.
+
+“Are those… mini sky creatures?” I asked.
+
+Next to the stall was a large sign that read: HIGH-TIER PRIZES.
+
+Beneath it was a fenced-off area containing several small floating creatures, including a jellyfish, a baby cloud serpent, and even a tiny whale. They floated only a few feet above the ground and were obviously much smaller than their giant counterparts.
+
+“They’re adorable!” Reina said.
+
+Even Meriel couldn’t help but smile at the sight of them. “So that’s what they look like.”
+
+“You know about them?” I asked.
+
+She nodded. “Some sky creatures struggle with injuries and disabilities, so mages cast a spell on them to shrink them. Makes it a lot easier for them to fly, eat, and be cared for with smaller bodies.”
+
+I looked closer at one of the baby cloud serpents. It had a large section of its wing cut off, but it was still able to move around fine because of its size. It would’ve been much more difficult to do so if it had stayed in its gigantic form.
+
+“Then we have to win,” I said, gathering my resolve. “For them!”
+
+“Don’t worry, they’ll all be adopted eventually,” Talon said. “They’re mostly just staying here until then. Winners just get the privilege of adopting them early.”
+
+“Oh.”
+
+We lined ourselves up at the edge of the island, fenced off just in case one of us was dumb enough to accidentally throw ourselves off.
+
+Several sky creatures floated ahead, each at varying distances. The stall sounded a horn, letting us and the creatures know to get ready.
+
+“Alright,” one of the attendants said. “Let the Spear Toss game begin!”
+
+We all threw our spears at the same time. All of us had very different results.
+
+Talon’s spear missed the first manta ray but hit the whale below it. Reina’s missed them entirely, but hers went the furthest. Meriel also missed—
+
+Wait, what?
+
+Her spear changed trajectory mid-air, hitting one of the cloud serpents. She had cast a spell on it.
+
+“Hey, you’re cheating!” I cried.
+
+“It isn’t against the rules to use magic,” she said. She had only used her hands to redirect the spear. Her staff was still under her robes.
+
+We looked at one of the attendants. He shrugged. “It’s allowed.”
+
+“See?”
+
+The spear I had thrown missed everything altogether. Badly. And it didn’t even go far like Reina’s either.
+
+So be it. If I can’t use strength to win this game, I’ll use magic instead.
+
+With the wind enchantments, our spears flew back to the stall, where four attendants caught them. They ran to us, handing us our spears again.
+
+With the amount of Wisdom stats I had, this shouldn’t be too bad. And besides…
+
+[SKILL: MERIEL’S ACKNOWLEDGEMENT]
+
+Type: Passive
+
+Effect:
+
+With the help of this skill, I’d already managed to learn a thing or two just from watching her earlier.
+
+Mimicking Meriel, I cast a boost of wind at my palm, preparing it like a launchpad for the spear. Then, when I threw the spear, there was a loud whoosh, and the spear shot out with as much speed as Reina’s throws.
+
+I realized then that I had totally forgotten to even aim it. I was too focused on casting the spell.
+
+Luckily enough, I managed to hit a whale anyway. It gave the least amount of points since it was the largest creature while being relatively close by, but it was still something.
+
+“Is that all you got?” Meriel looked at me smugly.
+
+She tossed her spear, enhancing it with all sorts of spells again. It hit yet another cloud serpent—the hardest creature to hit in this game.
+
+“Okay, now it’s personal,” I muttered.
+
+I copied her idea and tried redirecting the spear to a cloud serpent after throwing it. I missed entirely, and the spear shot between its serpentine body. The spear flew back to the stall, where an attendant caught it and handed it to me.
+
+I kept trying over and over again. I succeeded a few times, but my spell wasn’t nearly as consistent as Meriel’s. It was difficult to cast magic on the spear after it got too far away. How was she so good at it?
+
+“Give it up,” Meriel said. “You can’t surpass your mentor in magic.”
+
+I frowned. “Oh yeah?”
+
+I gathered all the strength and mana I could muster into my next spear toss. When it left my hand, I felt a sharp gust of wind far more powerful than the others I’d felt before.
+
+The spear hit a manta ray high above. Then, as it fell down, I tried redirecting it to a cloud serpent. It worked, hitting it. For some reason, the serpent flicked its body, and the spear shot outward, hitting the nearest whale.
+
+“That’s three in a row!” I yelled as the spear shot back to the stall.
+
+“That’s not allowed,” Meriel argued.
+
+We looked at the attendant.
+
+“Multi-shots are allowed,” he said.
+
+[TROPE COMPLETED: BEGINNER’S LUCK]
+
+[SKILL ACQUIRED: BOUNCE ENCHANTMENT]
+
+Type: Active
+
+Effects:
+
+Why don’t you look at that? Even the System decided to celebrate my success.
+
+I gave the same smug look as she gave me before. “Hah! Looks like I’m winning this after all!”
+
+***
+
+Yeah, so about that... I might’ve spoken too soon.
+
+By the end of it all, Meriel had the most amount of points. I was behind her by a fair amount, while Reina and Talon weren’t even close.
+
+The two of them walked up to the stall to claim their bronze prizes. Reina went for a keychain of a whale, while Talon went for a candy. I claimed the silver prize, giving myself a nice little enchanted charm.
+
+[ITEM: HAND WARMER CHARM]
+
+Effect:
+
+I was just about to call my [INVENTORY] to put it away, but with so many people here at the festival, it likely would’ve raised some questions. I stuffed it into my pocket instead.
+
+Meriel walked to the side of the stall to claim her gold-tier prize: a tiny sky creature. She looked in the pen, her eyes glancing at the tiny whales, manta rays, serpents, and jellyfish. One of the manta rays kept doing back-flips for no reason, while a jellyfish had somehow gotten itself tangled with another jellyfish.
+
+Among them, only one acknowledged Meriel’s presence.
+
+It was a cloud serpent. The same one that was missing a chunk of its wing.
+
+[TROPE INITIATED: THE PET THAT PICKS YOU]
+
+Completion criteria: Meriel adopts a pet that chooses her.
+
+Failure: Meriel will suffer from mana sickness for one week.
+
+My eyes widened.
+
+This trope… It was similar to the one that wanted Reina to survive the magic training.
+
+Both the completion criteria and the failure condition were centered around them instead of me.
+
+Was this supposed to be normal?
+
+“They’re all so cute,” Reina whispered, afraid she’d startle them. It was the quietest I’d ever heard her.
+
+Talon leaned over the fence, looking at the cloud serpent. “Hey, this one seems to like you, Meriel.”
+
+She lowered herself, putting her hand up against the fence. The little serpent floated towards her hand, rubbing its head from the other side.
+
+“Heh…” she smiled.
+
+I looked at her. “You’re making a weird face right now.”
+
+It wasn’t a happy face, nor any ordinary smile that you’re probably imagining. It was just… silly.
+
+“Oh, sorry,” she said, wiping her expression away. “The other mages always tell me I make a weird face when I see something cute. It seems they weren’t lying.”
+
+[TROPE COMPLETED: STOIC SOFTIE]
+
+Description: Who would’ve thought someone so serious had such a soft spot for cute things?
+
+[REWARD: Pending…]
+
+Talon looked at her. “How come you don’t make that face at Tuna?”
+
+Her expression immediately went dark. “I don’t like whales.”
+
+“Not even those tiny ones?” He pointed at them.
+
+She gave them a look. “No, those are fine. I don’t like the big ones.”
+
+Meriel stood back up.
+
+“Have you made your decision?” one of the nearby attendants asked.
+
+She nodded, pointing at the cloud serpent. “Yes, I’d like that one.”
+
+The serpent wriggled its body in excitement, as if it knew it was about to be adopted. “Wrrr!”
+
+[TROPE COMPLETED: THE PET THAT PICKS YOU]
+
+[REWARD: Pending…]
+
+…
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- STOIC SOFTIE (COMPLETED)
+
+- THE PET THAT PICKS YOU (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+…
+
+[The reward has been kept hidden]
+
+I looked at it, brows raised.
+
+A hidden reward…?
+
+Why?

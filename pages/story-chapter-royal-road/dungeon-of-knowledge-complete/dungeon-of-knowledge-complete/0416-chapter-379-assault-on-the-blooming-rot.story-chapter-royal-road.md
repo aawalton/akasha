@@ -1,0 +1,213 @@
+---
+id: 7f8ee6a4-936f-5bef-ba7b-f70738519c7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 379: Assault  on the Blooming Rot"
+slug: 0416-chapter-379-assault-on-the-blooming-rot
+partOf: dungeon-of-knowledge-complete
+position: 416
+ownLength: 3585
+unit: words
+ownProgress: 3585
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2604765/chapter-379-assault-on-the-blooming-rot"
+royalRoadId: "2604765"
+markedReadAt: "2026-06-29T20:26:07.438Z"
+---
+
+Mato waded through the rotting Fungal Creep, ruing his enhanced senses as the stench pressed in on him from everywhere like a sticky blanket. His Dire Bear Form was heavy enough that he couldn’t walk along the creep without sinking in like the others, meaning his fur from his shoulders down was soaked with putrid, muddy-green goo. They were underground in a cavern system, but it felt more like they were invaders in the intestinal tract of some vast monster – slimy sludge slid slowly down the walls, pooling on the ground. It pulsed like a living being and periodically bulged outward from the walls, disgorging fresh crawling Creep Spores with a mindless need to blow them up.
+
+But he thanked his powerful senses when he picked out the massive form slowly shambling down the dimly lit tunnel ahead.
+
+“Something’s coming. Something big,” he said, as he identified the lurking shape.
+
+Fungaloth – Fungal Aberration – level 109 (Nature / Death).
+
+The beast, or whatever it was, was at least twice as tall as he was and seemed several times more massive. Its enormous, trunk-like legs, entwined with strange bulbous glowing growths, stepped on the Fungal Creep with feet that looked like stunted roots. There were some sections where its shoulders scraped both sides of the tunnel, but to his surprise, this monster did not sink into it like he did, walking over the surface in a way that belied its weight.
+
+“Some sort of mutant mushroom,” Mato continued, maintaining a one-sided dialog with Calen. He could already sense the alertness in his friends’ footsteps as Calen warned them with hand signals.
+
+The monster shambled closer. The entire form of the Fungaloth appeared warped with asymmetrical tumorous growths that rippled and bulged beneath what passed for skin. Several glowing, sickly green patches appeared to fix upon him like eyes, but there seemed to be no rhyme or reason to their placement in the heavy bulbous head.
+
+It opened its mouth, letting out something halfway between a shriek and a roar. Black ichor dripped from rows upon rows of discolored fangs.
+
+Ugly fucker, aren’t you? At least it looked strong – Mato grinned in anticipation. “Going,” he sent to Calen. The Limited Telepathy Ali had crafted for him was a godsend, allowing him to speak silently with his friends during battle – the only real limitations being he could only speak to one person at a time and the short range. But it was so amazingly useful he didn’t mind at all.
+
+“Incoming,” Calen said, ensuring there was no moment of surprise.
+
+Mato charged. His void-enhanced claws tore up the fungal creep as he barreled down the tunnel and slammed bodily into the giant fungus monster that had all too many teeth. It felt spongy, absorbing the impact of his charge with barely any visible effect. He roared, and struck, swiping sideways across the monster’s green flesh, ripping large gashes with his magic and his claws. Although it was surprisingly large, it was as if the monster had no armor at all.
+
+Black ichor sprayed out from the violently sliced gashes, splashing against the walls, the ground, and across Mato’s chest and face. He seized the initiative, lashing out crosswise while the monster was on the back foot. Something sizzled, and a sudden acrid stench assaulted his nostrils, followed immediately by excruciating pain as the skin and flesh of his face began to run, decaying into sludge under the influence of the monster’s black blood.
+
+Fuck, that’s nasty! He gritted his fangs and endured it, but he didn’t have to wait long for the soft pulse of holy magic to infuse his body, adding a welcome additional dose of healing to his own Brutal Restoration. He Swiped again, shifting the monster sideways so that the rest of the group could broadside it, and as the berserkers and trolls unleashed their attacks, the entire tunnel filled with flying ichor and spraying rot.
+
+The more they hit, the more ichor sprayed everywhere. Is that all it’s got? Can’t be.
+
+There was nothing to be done; Mato simply bore it with stoic endurance while he waited for the healers’ magic to do its thing.
+
+Calen unleashed another volley into the giant fungal aberration, grateful for the addition of fire damage his bow granted. Whatever that monster was, it seemed unreasonably resilient, taking grievous injuries constantly and yet never even faltering. It seemed to shrug off wounds that would have staggered even some of the stronger undead they had faced.
+
+Are we even hurting this thing? Even the black ichor that served as blood for the warped and twisted fungal behemoth seemed to be a weapon. But it did shy away from his flaming arrows.
+
+“Is it regenerating?” Calen asked.
+
+“Yes. Very quickly,” Ali answered. “But it seems to dislike fire.”
+
+“Yes,” he said, as Ali confirmed his observations. But then a subtle hint of movement further down the dank, slimy tunnel caught his eye. He squinted, focusing his Sniper Sight, and tried to identify whatever was coming.
+
+Braconid – Plant Aberration – level 90-96 x5.
+
+Five highly camouflaged shapes swarmed across the roof, nearly invisible against the Fungal Creep. Blackened and twisted clumps of gnarly roots or branches that skittered on spider-like appendages, rushing toward the noise of battle with surprising speed. Each nearly four feet across, Calen identified a strange knot of twisted wood in the center from which five to twelve legs sprouted, lacking coherent design. He found no sign of a head or eyes of any kind.
+
+Unnatural. For once, he understood Mato’s deep sense of aversion and disgust toward the monsters that disrupted the balance of nature.
+
+“Naia, roof,” Calen said. The mimic slime was nowhere to be found, nor did she answer, but the walls and the ceiling suddenly began to crawl and slither in response to his statement, and he knew he’d been heard.
+
+He drew and released a full volley of arrows into the ceiling, lighting up the entire tunnel with detonations of his light and fire arrows.
+
+You have gained Onslaught.
+
+Calen grinned as he leveled an instantaneous maximum-power Power Shot into the fungal aberration up ahead, lighting the tunnel with an eye-searing intensity. Chunks of the Fungaloth’s flesh slammed into the roof of the tunnel with heavy thumps.
+
+“Ugh. Warn me next time,” Ali grumbled, a hand clamped across her eyes.
+
+“Sorry. It’s instant,” he muttered, but as the remnants of creep dripped down from the devastation he had unleashed, he was shocked to see the branch-spider monsters still crawling along. They were hunched down in defensive postures and scattering for cover behind rocky protrusions that jutted out of the roof. One of the furthest drew back and a tiny projectile as sharp as a thorn shot out. It was so fast that he barely had time to register it and shift sideways before it passed his ear with a soft swishing sound that was barely audible above the crash and thumps up ahead. In the wake of the dart, a trail of tiny, softly glowing orbs of fuzzy green light remained, slowly drifting downward toward the ground.
+
+Spore Pod x12
+
+What are those?
+
+Calen was about to call out a warning when all the spore pods began to vibrate. In the time it took for his eyes to widen, all of them popped, spraying sharp shards in all directions and releasing puffs of glowing green spores.
+
+You have been afflicted with Poison.+20 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+Ugh, here comes the poison. Quickly, he dove out of the toxic spore clouds and unleashed another volley at the roof where Naia’s minions had finally reached the crawling branch things, but another ripple of explosions caught him between the wall and a fresh line of swishing darts, leaving glowing trails of more Spore Pods than he could conceivably dodge.
+
+Your poison has increased to 5 (+4).
+
+“The clouds are poison,” he yelled, ducking and weaving as he felt the little kobold acolytes working hard to cure him. He downed a health potion just to give them a little extra leeway – at five stacks, his life was measured in seconds. Nine to be precise.
+
+It’s no wonder Aiden and his group ran when they found these.
+
+Goodness! These are just the trash mobs!
+
+The final chamber of the Blooming Rot dungeon was still several tunnels and caverns away and already the monsters were insane. Her berserkers chopped away at the Fungaloth like giant frenzied lumberjacks hewing wood in a forest before they were snowed in for the winter, and yet it still refused to die. It hardly seemed to notice its grievous injuries; its skin and flesh simply warped grotesquely as new protuberances and tumorous bulges rapidly colonized the meter-long gashes chopped by the blood-powered greataxes.
+
+“Why won’t this thing die?” Calen complained, frowning in the aftermath of yet another sudden Power Shot combo.
+
+“Mortal Wounds is working…” Ali said, wishing her words didn’t trail off with such a dubious tone at the end. The bizarre monster’s health was declining steadily, but far too slowly for her liking.
+
+“Be nice if it noticed it’s missing a leg,” Malika drawled.
+
+“Can you do something about those root spiders?” Ali said. Her little acolytes had given up on healing altogether, instead spamming Cure as the air in the tunnel grew saturated with the glowing green poisonous spores. Ali remained huddled inside her barrier bubble, protecting herself and her acolytes from the spores – she had far too little health to risk such a nasty poison.
+
+“Trying,” Calen hissed through clenched teeth.
+
+Naia at least was taking the battle to the monsters with her rotting slimes. It was fortunate that they were all immune to nature magic and poisons because half of Ali’s healing forces were using blood magic, and that wouldn’t work on Oozes.
+
+Fortunately, most of her trolls had sufficient health to survive the poisons on little more than Vampiric Hex and Blood Siphon – at least as long as the acolytes kept the poisons under control, but the constant thwip and swish of the poison spore darts were keeping them extremely busy.
+
+Huh, wait… that’s strange, Ali thought, her eyes falling to her kobold Fire Mage and the two Hellfire Imps. They were gamely tossing fireballs into the ceiling to assist Calen in taking out the spider monsters, but that was not what caught her eye. Why aren’t they dying? She inspected them closer. Wait, they’re not being poisoned either!
+
+“Ali, can you help on the roof?” Calen asked.
+
+“One moment,” she said, refusing to release her curiosity, certain she had stumbled upon something important.
+
+“Can you make it quick?” Calen grumbled.
+
+Ali just grunted, studying her minions by submerging her awareness into their senses. Hot! Each of her fire-affinity minions was surrounded in a miniature inferno – their unique version of a Flame Shield. Looking from closer – with their eyes – she saw tiny sparks constantly flaring and fading around the perimeter of their flames.
+
+Is it burning up the spores? That’s it!
+
+“Fireball me,” Ali said, speaking to her kobold Fire Mage in draconic.
+
+“Yes, Ancient Mistress. As you command,” he answered in a husky, slightly reluctant hoarse growl that reminded Ali of crackling bonfires. As the Fireball began to coalesce in his taloned grasp, rippling the air with waves of heat, he shot her an extremely worried glance – something Ali was certain wouldn’t have been the case before she had earned Minion Ego.
+
+“Yes, go ahead. Shoot me,” she reaffirmed, and the conflicted kobold gritted his teeth and narrowed his eyes.
+
+The fireball detonated against her barrier shield, quickly blotting out the entire battlefield with an angry red inferno of swirling flame, but it hardly inconvenienced Ali at all. She kept up with the flow of combat through the eyes of several trolls. The flames subsided, revealing exactly what she had expected – a large spherical space devoid of the floating clouds of toxic green spores.
+
+“Fireball on the melee!” Ali called out, alerting Malika and her shamans to the incoming damage, and ordered one of her imps to launch the spell. The roiling ball of hungry black flame surged outward and hit the Fungaloth on the flank, detonating in the faces of all her minions simultaneously. Malika’s magic rippled out from her in rapid pulses while the Blood Siphons and Gifts of Azryet arced and bounced around among them.
+
+“What was that for?” Malika demanded, but it was surprise rather than anger Ali heard in her voice.
+
+“Poison cleansing,” Ali said. It had worked – perhaps even better than she had anticipated. A visible void in the poison spore clouds had appeared, centered on the monster, and better yet, the hungry black hellfire flames lingered on the mutating aberration of fungal growth continuing to burn away at its flesh.
+
+Several swishes sounded out from the roof overhead, trailing new spore pods into the cleared area, but Ali had the measure of them now.
+
+“Another fireball,” she said, commanding her kobold Fire Mage to take his turn.
+
+“Fire vulnerability?” Calen asked.
+
+“Big time,” Ali answered, and trading the poison for fire surprisingly took a huge load of work off the healers.
+
+A soft chime sounded, and a ball of slimes and branches fell from the ceiling to splat against the ground. Seconds later, another dropped, the corpse already halfway engulfed within the semi-translucent bodies of the oozes.
+
+Ali left them for Naia and focused her fire magic on the big ugly thing spraying ichor everywhere. Let’s see how much of this you can take.
+
+While the others doubled down, Ali rained a steady thumping crash of fireballs upon the monsters, not letting up for even an instant, just making sure her friends and melee fighters were topped up regularly. Eventually, the giant Fungaloth faltered under the onslaught with a sea of flame still burning brightly across its back.
+
+Your group has defeated Fungaloth – Fungal Aberration – level 109 (Nature / Death).Your group has defeated Braconid – Plant Aberration – level 90-96 (Nature) x5.
+
+The thump as the Fungaloth collapsed sent tremors through the ground and shot pulped fungal creep and ichor everywhere. Ali recoiled in surprise, coughing as the sudden cloud of smoke billowed out over her, but the mulch splatted ineffectually across her barrier, a black sludge that sizzled as it slid off.
+
+“I think we should take it slow,” Calen said, landing gingerly beside her, making his wings fade.
+
+“I agree,” Malika answered, wiping goop off her shirt and healing the damage it caused to her hands.
+
+“Me too,” Ali agreed. She definitely did not want to fight more of these in closed quarters than she needed to. “I need a few moments to deal with this poison, before we do anything.”
+
+***
+
+Variant: Fungaloth added to Imprint: Fungus.
+
+Ali rose to her feet amid the cloud of rapidly dispersing mana motes that had once been a fungus monster and studied the cavern that lay before them. Calen had vanished while she worked, presumably headed out into the rotting jungle that had sprouted down here, turning this vast cavern hundreds of meters below the surface into a rancid, humid terrarium.
+
+The cavern was enormous, filled with countless gnarled and twisted tree-like things, clawing their branches up toward the non-existent sun. The ground was lost under a dank mist that blanketed the ground almost waist-deep. Orchids, moss, and ferns spilled from every available surface, but like the trees, everything appeared twisted and warped – mutated far beyond what their natural forms might have been, and showing signs of decay or rot even while growing.
+
+Distant sounds of dripping water mingled with strange croaks, sounding like they were squeezed from the throats of drowning frogs. Mushrooms and other fungi grew or crawled through the mist, contributing to the wall of stench Ali was only now beginning to grow accustomed to, but her eyes were drawn to the black, rune-covered stone of Nevyn Eld’s pristine artificial shrine. It hovered above the mist with its dramatically out-of-place geometric perfection, lording over the warped plants and decaying fungus like a dark ruler lording over a twisted domain. Naia can take care of the rift. I need to secure that artifact as soon as the boss is dead.
+
+“My, isn’t this pleasant?” Malika said sarcastically.
+
+“Tsk,” Mato clicked his tongue in disapproval, nodding his head over toward the center. “Look, there it is.”
+
+Rising from the muck in the middle of the room, almost reaching the craggy roof overhead, towered their final target, the Mana Eater. Five large dark purple and brown buds concealing enormous teeth sprouted up out of the gnarled trunk, and several vines and bramble-like protrusions waved about in the air – dangerous whips that Ali knew could grow vastly longer in an instant. It glowed an uncanny shimmering blue – or to be more accurate, the thousands of tiny flowers that sprouted from its bark and stubby branches glowed with their dangerous spores. Blue spores that would consume the mana of anyone caught within their reach.
+
+Behind the giant plant monster, the rift hung like a slash through the silk veil of the realm, unmistakable and mysterious. It shimmered, dark greens and browns shifting across its surface while the sparkling remnants of mana and mist, torn asunder by the infinitely sharp tear in the fabric of space, lit the rift and its surroundings in an eerily shifting glow.
+
+Suddenly, Ali sensed a strange rush of knowledge from elsewhere, filling her mind and rising to a crescendo. A startling chime sounded, and her Grimoire popped into existence with a flare of magic and light. Ali ducked back behind the rocky entrance to hide her impromptu light show from any observers.
+
+Variant: Extinction, The Spear that Pierces the Heavens added to Imprint: Polearm.
+
+It worked! she thought, hurriedly slamming her glowing Grimoire shut before it attracted any unwanted attention, happy to grant the imprint the extra chapter it needed, perhaps for the first time. She sent her awareness flying back to her anvil, where she found a sweat-covered Thuli grinning with his heavy glowing hammer still grasped firmly in his fist. He did it. Although now her Grimoire was completely full once again and her plans to grow it with more deliberate choices to benefit her dungeon were back on hold.
+
+“No real surprises,” Calen said, reappearing in the tunnel entrance beside them and pulling her attention back to the cavern. “Just creepers, fungus, and little crawling plants left – nothing that should be a problem.”
+
+“How are we going to do it?” Malika asked.
+
+“We keep the mana users at range, and beat it up with the melee classes,” Calen answered. “Not much we can do to figure out our strategy until we know what domain abilities it has.”
+
+“Ok,” Ali said. She was prepared to study it as they probed for options. Everyone studied the room with that now-familiar anxiety of facing an unknown challenge. She would have to be alert to all forms of mana if she were to help her friends survive this.
+
+“Oh, and stay clear of the rift itself,” Calen said. “Those growths around it are Corpse Flowers. I think I read that they explode when you get close. Also, if you see those broad dark-green conical leaf things protruding from the ground, stay clear. They are some kind of carnivorous biting pitcher plant.”
+
+It took a few moments for Ali to see the strange, camouflaged plant he was pointing at. It sat nestled low to the ground, half covered by creep and sludge. A low conical shape that seemed to be a bud or warped leaf of some sort, perhaps half a meter tall and about three meters wide. But, as she watched, a little fungus critter skittered by and the bud cracked open, revealing a broad array of sharp fangs glinting with greenish liquid. In a flash, almost too fast for her to see, the entire thing shot out of the ground and snapped shut over the helpless monster before withdrawing its surprisingly enormous bulk back to its hole and shaking back and forth to resettle itself and rearrange the muck and sludge of its camouflage. Where the fungus critter had been, only a slowly regenerating hole in the creep remained, and from the camouflaged cap of the pitcher plant, a thin tendril of death-mana-laden mist rose before dissipating.
+
+Yeah, let’s not annoy the bitey plants while we hit the bigger bitey plant.
+
+Snapping Putrid Pitcher – Plant Aberration – level 82 (Nature / Death)
+
+“So, plant traps?” Ali asked. It seemed there would be several things to watch out for during combat – and she could easily understand why Calen would be unable to clear those monsters from the room before the battle. They were just as rooted to the ground as the huge, towering Mana Eater that presided over the entire rift chamber, or more accurately, rooted in their holes underground. It was amazing how much detail she had missed when Naia had shown her this chamber the first time – crawling along the ceiling in full stealth had bypassed all the monsters and plants within the room.
+
+“Yup,” Calen said.
+
+“Want me to poke the boss a few times and see if we can learn anything before we get started?” Ali asked.
+
+“That seems smart,” Malika said.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

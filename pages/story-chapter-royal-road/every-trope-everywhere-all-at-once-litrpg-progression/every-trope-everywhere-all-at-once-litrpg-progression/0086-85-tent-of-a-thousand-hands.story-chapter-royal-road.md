@@ -1,0 +1,181 @@
+---
+id: f901ec04-28bc-5426-97e0-6c0ae7ad8178
+page-type-slug: story-chapter-royal-road
+title: "85 - Tent of a Thousand Hands"
+slug: 0086-85-tent-of-a-thousand-hands
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 86
+ownLength: 1642
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3788113/85-tent-of-a-thousand-hands"
+royalRoadId: "3788113"
+---
+
+When the crowd had said they wanted me to ride Aeris in her human form, what they actually meant was having Aeris give me a shoulder ride. This was just about what I expected.
+
+After everyone took their photos and spoke with us one last time before continuing with their day in the marketplace, I climbed down from Aeris’s shoulders.
+
+“Sorry about that,” I said. “They really wanted us to do that for some reason.”
+
+“No worries at all,” Aeris said. “In fact, I actually enjoyed it quite a bit. Feel free to ride me anytime, darling.”
+
+“I get what you mean, but please rephrase that next time.”
+
+Fortunately, praise wasn’t the only thing we received from our interaction with our “fans.” Many of them had been running some of the stalls, and they gave us all kinds of goods, from bread and fruit to meat. They were kind enough to pack them up in bags, too. I put them all in my [INVENTORY] for now.
+
+“I feel kind of bad not paying for any of this,” Reina said. “Shouldn’t we give them something back?”
+
+“Well,” Meriel said. “The Chief did say we would receive many things for free, didn’t he?”
+
+“He did, but I thought these islands weren’t part of Whale Isles?” I asked. “We had to fly pretty far to get here.”
+
+“They’re technically not, but I think people are still willing to give us things for free after everything we did,” Talon said. “Not that I’m complaining!”
+
+I was beginning to wonder if Captain Sparrow was done with his trip around the marketplace. We hadn’t seen him since we got off the ship. Considering how much time we spent with the crowd, I wouldn’t be surprised if he was already done.
+
+“Ah!” Kaelor said, pointing behind us. “There he is.”
+
+We turned, only to see the expected sight of people passing by. No surprise there.
+
+“Who?” Aeris asked.
+
+Just then, Sparrow emerged from the crowd, waving at us. We would’ve missed him if we hadn’t been looking for him, considering how low he was to the ground relative to most people.
+
+“You’re all more popular than I thought!” he said, laughing. “I made an entire trip around the island, brought the goods back to my ship, and all of ya are still here in the first half of the entire place. It’ll be pretty difficult for ya to experience what the market’s really like at this rate.”
+
+“Did you see what happened?” Talon asked. “We’ve got fans!”
+
+“Of course I saw it,” Sparrow said. “It’s pretty hard not to notice a dragon hovering over the island! The farther we go, the more people will want to stop and talk to you, just like the ones from earlier. But I’ve got just the thing for that! Follow me!”
+
+Without another word, he started walking toward a tent that was conveniently just a few steps away from us. I exchanged glances with the others before shrugging, following him inside.
+
+“What are we doing?” I asked.
+
+“You’ll see,” Sparrow replied. “But first, we’ve gotta get away from the crowd.”
+
+I was the last to go through the tent. The moment I entered, the tent shut by itself, and everything went black for a moment.
+
+Then, a bright purple light flashed from the other end of the tent, illuminating the interior. A woman appeared beside it with nothing but… her face?
+
+“GAH!” Talon and Reina shouted at the same time, backing into Aeris. The three of them tumbled to the ground.
+
+Kaelor laughed. “Relax, everyone. You all look like you’ve seen a ghost or something.”
+
+Reina pointed at the woman with a trembling hand. “She is a ghost! She doesn’t have a body!”
+
+As soon as she said that, the rest of the woman’s body emerged from the shadow. She was, in fact, not a ghost but a regular angel. The light was angled in such a way that only her face was exposed.
+
+“Welcome to the Tent of a Thousand Hands,” she said in a soft, gloomy voice. “Which of you would like to go first?”
+
+Sparrow turned to us, scratching his head.
+
+“Why are you looking at us like we know how to answer that?” Meriel asked. “You’re the one who took us here.”
+
+He shrugged. “I didn’t think anyone was actually in here since there weren’t any signs or anything from the outside.”
+
+Kaelor stepped toward the woman. “What service are you offering?”
+
+“A thousand hands,” she muttered. “Our massages are guaranteed to put you under a pure state of ecstasy.”
+
+He raised an eyebrow. “Massages, huh? In that case, sign me up!”
+
+I facepalmed. “A super creepy purple light… a woman who appeared out of nowhere… a random tent in the middle of a marketplace… yeah, this is totally not suspicious at all.”
+
+The woman smiled, stepping aside. “Come this way, Sir Kaelor. We heard about the feats you and the rest of your party accomplished. Your body must be exhausted after such a battle. We would be more than happy to provide our services free of charge.”
+
+Why did the woman keep saying “we” when she was very clearly the only one running this tent? And where would they even do the massages anyway? The tent didn’t look nearly big enough for that.
+
+Kaelor followed the woman past the purple light, heading into the back of the tent and disappearing into the shadows. We waited, listening for any sound. I honestly expected him to let out a grueling scream, but it was just complete silence after that.
+
+“With that aside,” Sparrow said as if that entire interaction was normal. “Come here, everyone. I’ve got just the right thing that’ll let all of ya experience the marketplace like the rest of us.”
+
+We circled around him, and he pulled out several tiny items from his pocket. Our eyes widened after realizing what they were.
+
+Rings.
+
+“Is it just me, or we’ve been seeing a lot of rings lately?” Aeris asked.
+
+“I think we’re just traumatized,” Meriel said.
+
+Sparrow shook his head. “Don’t lump in my precious babies with that demon you recently fought,” he said, handing them out to each of us. “These were all forged by me.”
+
+“You could’ve chosen something better than rings,” I said.
+
+“Oi, I made these a month ago. It’s not like I could predict the future and know that rings would become such a sensitive topic.”
+
+Talon tilted his ring toward the purple light. “What are these for?”
+
+“To hide ya identity,” Sparrow said. “Put ‘em on, and no one will recognize ya. The only catch is that if someone sees ya put on the ring, the disguise won’t work on ‘em. So if we all put ‘em on now, we’d still see each other perfectly fine, but all the folks outside the tent would see us as completely different people. That’s why I brought all of ya in here.”
+
+Meriel was the first to put on the ring. As it sat on the base of her finger, she looked around to see our reaction.
+
+“Do you feel any difference?” Reina asked.
+
+Meriel opened and closed her hand. “None at all. Are you sure this works?”
+
+“Absolutely,” Sparrow said. “If there’s one thing ya could trust a dwarf with, it’s their skill with an anvil and a hammer!”
+
+The rest of us put on the rings.
+
+“I guess we’ll know once we’re all outside,” I said.
+
+[ITEM ACQUIRED: SPARROW’S RING OF DISGUISE]
+
+Description: A plain iron ring forged by a dwarf named Sparrow. Besides changing your appearance, it also convinces the world that you're simply someone unworthy of a second glance.
+
+Effects:
+
+- While worn, everyone who did not witness you putting on the ring perceives you as outstandingly ordinary
+
+- Your true identity cannot be recognized through appearance alone
+
+- Anyone wearing a Sparrow’s Ring of Disguise will continue to see your true appearance
+
+Note: You basically become an NPC.
+
+Just then, Kaelor and the woman reemerged from the back of the tent. The look on his face was… questionable. The woman wasn’t kidding. Whatever kind of massage she had just given him really did put him under pure ecstasy.
+
+“That was amazing,” he said, slurring his words. “It’s called a thousand hands for a reason. You should all give it a—huh?”
+
+He looked around the tent, making eye contact with us but thinking nothing of it.
+
+“Now where did everyone go? Did they leave without me?” he asked.
+
+“No, we’re right here,” I said.
+
+He looked at me. “Hm?”
+
+“I’m Allene,” I said, pointing at the rest of us. “That’s Meriel, Reina, Talon, Aeris, and Sparrow.”
+
+Kaelor blinked. The woman beside him looked just as confused.
+
+Sparrow walked up to him, handing him a ring. “Put this on. You’ll be able to see us once ya do.”
+
+Kaelor grabbed it, staring at it suspiciously. “A ring? You know, after everything that happened with Aurelius—”
+
+“Yeah, yeah, we already made the same joke,” I said. “Glad to see you’re just as traumatized as the rest of us.”
+
+The moment he put on the ring, his eyes lit up.
+
+“Whoa! It really is you guys!”
+
+Sparrow chuckled. “See? The rings work like a charm. Now I’m curious—how did all of us look just earlier through your eyes?”
+
+“Well, you were still a dwarf, Aeris was still a dragon, and Meriel was still an elf. Outside of that, all of you looked so forgettable that I could hardly describe what you looked like.”
+
+Interesting. Looks like the rings turned us into a bunch of NPCs.
+
+[TROPE COMPLETED: FORGED BY DWARVEN HANDS]
+
+Note: Why are dwarves so good at forging, anyway?
+
+[SKILL ACQUIRED: SMITH’S EYE]
+
+Type: Active
+
+Effects:
+
+- Reveal an item’s quality, craftsmanship, and durability
+
+- Identify hidden flaws, alterations, and other concealed properties

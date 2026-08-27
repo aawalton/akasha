@@ -1,0 +1,225 @@
+---
+id: a7be9dda-4cee-58ef-b930-7f76a982c486
+page-type-slug: story-chapter-royal-road
+title: "27 - The Suspiciously Empty Sky"
+slug: 0027-27-the-suspiciously-empty-sky
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 27
+ownLength: 1995
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3451451/27-the-suspiciously-empty-sky"
+royalRoadId: "3451451"
+---
+
+Somehow, we all survived the plunge into the dimension, hovering in the air on our mounts.
+
+“Kaelor, are you alright?” Meriel asked.
+
+All the light had left his eyes. As the first to enter the dungeon and experience the sudden gravitational pull, he looked like he had passed out from the shock. Me on the other hand…
+
+“Blegh—” I let out, clutching my stomach with one hand and covering my mouth with the other.
+
+“If you’re going to vomit, let it fall through the sky. Don’t do it on your griffin,” Meriel said.
+
+I took a deep breath, gathering myself. “It’s fine… I’m fine… I think.”
+
+I looked above us. The entrance gate we had dropped from was far away, and the gates were closed. Guess there was no backing out now.
+
+“That was so much fun!” Reina exclaimed, patting Tuna’s back.
+
+Talon stood on her head, looking forward through the orange-tinted sky. The inverted floating structures and islands made for a curious sight, and with how fast they were moving through the air, it was obvious what the dungeon wanted us to do.
+
+If we wanted to push forward, we’d have to maneuver through everything.
+
+“The air’s a little different in this dungeon,” Talon said, spreading his arms and letting the wind brush his wings.
+
+“Is it?” I asked. “It feels the same to me.”
+
+He nodded. “I’m sure of it. It should actually be easier for the griffins and Tuna to fly through. There’s a lot less resistance, and the wind seems to be flying towards the far end ahead.”
+
+I inspected myself, noticing a status effect.
+
+Status:
+
+[Blessing of the Sky Dungeon]
+
+Talon continued, “We should probably map out a route for us to take before we move. The last thing we want is to crash into one of those flying structures and use a revive. From what I’ve heard, we’ll need to reach that upside-down city all the way in the back.”
+
+Meriel and her griffin flew ahead slightly, helping with the planning. Reina was, too, but judging from the way she was scratching her head, she definitely had no clue what she was looking at.
+
+“Gah! Where are we?!” Kaelor yelled as he frantically looked around, coming back to life.
+
+When he noticed all of us beside him, he looked up, seeing the entrance gate far above.
+
+“Ah,” he said, clearing his throat. “I see. So we survived the dungeon’s first trap. I didn’t expect such heavy gravity within the first few seconds of entering. Admittedly, it got the best of me.”
+
+That was just a fancy way of saying he got so scared that he passed out.
+
+“Whose fault was that?” I said. “You just suddenly stepped through before Talon could warn you about it.”
+
+He nodded. “That’s indeed my fault,” he said, riding ahead to where the others were. His gaze pierced through the sky as he analyzed all the moving objects up ahead.
+
+After a moment, he pointed. “There.”
+
+We looked at him, then where he pointed.
+
+“What do you see?” Talon asked.
+
+“There’s an opening below that statue with the missing head. See how it's the only structure not moving? We’ll fly below it, then above the island to its left, then enter the wind tunnel from there. That path seems to be the least dangerous, since nothing ever crosses it.”
+
+We stayed quiet for a moment, mapping out the path of the moving structures. Sure enough, none of them intersected with the path Kaelor laid out for us.
+
+“Ten to twenty seconds,” he continued. “Each structure’s path falls in that range before looping again. If we can find out exactly how long a structure takes before looping, we shouldn’t have any struggles flying through.”
+
+Reina’s eyes sparkled. “Wow… you’re incredible,” she said. “I can’t believe you figured that out so quickly.”
+
+Talon was just as surprised. “Your eyes are better than mine, and I’m a harpy.”
+
+It was just as Meriel said—Kaelor may look human, but Firstborns can take the form of many races. He just happened to be a human-looking one. If his vision was better than a harpy’s and his wind magic was as potent as a high-level mage’s, what else was he capable of?
+
+“Then let us go,” Kaelor said, his expression stern. He rode in front of us. “Form a line and don’t fly side by side, otherwise we’d make ourselves too wide. When I give the word, we’ll start moving at once, alright?”
+
+With the way he sounded, I just felt like I had to obey. It was the kind of charismatic voice you would hear from a commander.
+
+From front to back, our formation was Kaelor, then Talon and Reina, then Meriel, then me. I didn’t mind being in the back. I could just use the ones in front of me as bait. If anybody got hit, I’d have a much easier time avoiding whatever hit them.
+
+I smiled devilishly.
+
+“What are you up to?” Meriel asked without even looking back.
+
+“Me? Oh, nothing.”
+
+“I sense some weird energy coming from you.”
+
+Huh. Since when could she do that?
+
+Before I could think about it too much, Kaelor told us to get ready. Tuna let out an excited meow, and our griffins gave a deep roar, which was much more unusual than the trills or coos I’d heard from them before.
+
+“Here,” Meriel said, handing me her spare staff. It was the same one she had lent me back in Glacinus. “You can have it.”
+
+My eyes lit up. “Really?”
+
+“Yes. This entire dungeon will be considered a part of our training as well, so do your best.”
+
+I smiled, grabbing it. “Thanks, Meriel.”
+
+[ITEM: MOONWEAVER]
+
+Rarity: Rare
+
+Description:
+
+A slender white staff engraved with crescent patterns along its shaft. It was designed to stabilize mana and ease the burden of spellcasting, particularly for inexperienced casters. The crystal at its tip emits a faint, pale glow under moonlight, but this seems to be only cosmetic.
+
+Effect:
+
+- Slightly reduces mana consumption when casting spells
+
+- Improves stability of beginner-level magic
+
+- Minor increase to spell accuracy and control
+
+Just then, I remembered that Reina didn’t have a weapon. While everyone was still looking ahead, I called [INVENTORY] and pulled out the Tree Sentinel’s Spear from the void rift. I poked Meriel, handed it to her, and she relayed it to Reina.
+
+“Thanks, Allene,” Reina said.
+
+“No problem, but you should probably get your own weapon soon. I’ve never seen a knight without a sword before.”
+
+She laughed. “You never know. Maybe I’ll get some good loot in this dungeon!”
+
+With that, Kaelor began his countdown. We readied ourselves, just like we had done during the Grand Skycurrent Race.
+
+Then, our dungeon crawl began—or rather, our dungeon flight.
+
+We shot out in a single line, Kaelor leading us through. We weaved, soared, plunged, and ascended, avoiding all kinds of structures and objects. For someone as inexperienced as I was with flying, I wasn’t struggling nearly as much as I thought, but it was probably because of how well-trained the griffins were rather than my own competence. These griffins were used to obeying Kaelor’s every command without question.
+
+A statue shot in front of us, catching us by surprise. I was about to pull my reins and force my griffin to stop, but Kaelor shouted,
+
+“Keep moving!”
+
+At first, I thought he wanted to get us killed. But the griffins trusted him and kept flying through.
+
+Kaelor thrust his hand. Wind quickly gathered in his palm and shot at the statue, exploding it and clearing the path. Several more objects were hurled toward us, but they exploded all the same from Kaelor’s wind.
+
+“Nice one!” Reina shouted.
+
+As we flew above the island Kaelor had planned out earlier, we entered a wind tunnel. Thankfully, we knew what to expect since it was the same kind of wind tunnel as the one from the race, but I was still a little afraid of accidentally slipping off my griffin. Going twice the normal speed was no joke.
+
+“The path should be clear from here on out!” Kaelor shouted. We could barely hear him through all the wind.
+
+I looked at the horizon, noticing something strange.
+
+“Is it just me, or is the sun starting to set? The sky’s a bit of a darker orange now, isn’t it?”
+
+Meriel nodded. “It is. It would be dangerous at night. From what we’ve seen so far, there’s no other light source in this dimension other than the sun.”
+
+“The upside-down city has lights,” Talon said, pointing ahead. “We’re not too far from it, so I think we should be fine.”
+
+We burst through the wind tunnel. The path ahead was… clear. Suspiciously clear. Nothing stood between us and the city—no islands, no structures, no debris.
+
+“Um…” I began. “Is anyone else getting this weird feeling that something’s wrong, or is it just me?”
+
+“What do you mean?” Kaelor asked.
+
+I’m not sure if I’m just traumatized from video games, but nothing screams a battle encounter more than a vast space.
+
+I shook my head. “I—you know what? You’ll see.”
+
+Just three seconds after we flew through, I heard loud screeches from above.
+
+I sighed.
+
+Here we go.
+
+Several harpies descended from above, appearing seemingly out of nowhere. But they weren’t the same kind of harpies as Talon and the others we’d seen back at Whale Isles. Their feathers and flesh were made of stone, and cracked porcelain masks covered their faces.
+
+Just when things couldn’t get any worse, I heard deep growls from behind. I turned back, noticing several creatures pursuing us. To the left came several gargoyles wielding swords, spears, and bat-like wings. To the right were countless knights flying through the air, not with wings but with long chains connecting to the islands and structures behind us.
+
+[TROPE INITIATED: THE OBVIOUS AMBUSH]
+
+Completion criteria: Survive against the monsters pursuing you.
+
+Note: Empty space is never a good thing in a dungeon.
+
+[MONSTER: PORCELAIN HARPY]
+
+Level: 24
+
+HP: 120/120
+
+Description:
+
+A strange construct born from floating ruins. Unlike true harpies, Porcelain Harpies possess bodies and feathers made of cracked stones. Their faces are concealed behind expressionless porcelain masks, and their age can often be determined by the severity of the fractures on their masks. They make little sound during flight and excel in ambushing prey.
+
+Assessment:
+
+Highly dangerous while airborne. Their screeches may disrupt concentration and panic flying mounts. Porcelain Harpies prefer attacking from above and often coordinate with one another to surround targets. Destroying their wings may greatly reduce their mobility. Regular harpies are often afraid of them.
+
+[MONSTER: GARGOYLE]
+
+Level: 26
+
+HP: 160/160
+
+Description:
+
+Ancient stone guardians that often disguise themselves as statues. Gargoyles possess bat-like wings and wield weathered weapons taken from felled adventurers. Though their bodies may appear heavy, they are surprisingly agile in the air.
+
+Assessment:
+
+Extremely aggressive once awakened. Gargoyles excel at aerial pursuit and often attack from blind spots while their targets are distracted. Their stone bodies provide strong resistance against bladed weapons, but repeated impacts with a blunt weapon or magic may crack their exterior.
+
+[MONSTER: CHAINBOUND KNIGHT]
+
+Level: 28
+
+HP: 220/220
+
+Description:
+
+Armored entities that drift through the skies by massive chains connected to nearby islands and structures. Whether they are undead warriors, constructs, or something else entirely remains unknown. Their armor provides strong resistance against physical attacks, but is vulnerable to magic. Faint blue light can occasionally be seen leaking through the gaps in their helmets. Chainbound Knights use their chains for both movement and combat, capable of swinging through the air with terrifying momentum.
+
+Assessment:
+
+High threat level. Their chains allow them to rapidly close the distance, and their movement patterns are highly unpredictable. Damaging or severing their chains can temporarily immobilize them, but their chains are sturdier than their armor. Allowing their chains to wrap around you or your mount is often fatal.

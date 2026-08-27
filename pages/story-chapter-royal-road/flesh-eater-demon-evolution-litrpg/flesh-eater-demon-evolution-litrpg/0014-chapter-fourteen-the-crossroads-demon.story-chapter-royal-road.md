@@ -1,0 +1,195 @@
+---
+id: 66a1cab7-ce28-5686-b9a4-90e98620eb35
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fourteen: The Crossroads Demon"
+slug: 0014-chapter-fourteen-the-crossroads-demon
+partOf: flesh-eater-demon-evolution-litrpg
+position: 14
+ownLength: 2867
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2572241/chapter-fourteen-the-crossroads-demon"
+royalRoadId: "2572241"
+---
+
+“This is a bad idea.”
+
+“Yes, I heard you the first four times,” Pyre drawled. She twisted an eye around, scanning the trees for a slighter larger clearing that wasn’t directly on the path to the village. She didn’t know if more patrols were coming, after all, and she’d rather not get interrupted.
+
+By then, the bright sunlight was starting to dim. The sun hadn’t truly begun to set just yet, but it was low enough that its rays washed the landscape in warm golden hues that seemed to soften the edges of everything. Between that and the ever-glowing ichor lights in the trees, the whole place felt extra ethereal. Transient. The perfect time, she thought, to summon a crossroads demon.
+
+Even if Callan seemed dead (hah) set on making sure that didn’t happen.
+
+The ghost continued to hover back and forth along the trees, which Pyre assumed was the floating equivalent of pacing.
+
+“I’m serious,” he insisted. “Crossroads demons’re dangerous. There’s so much stuff that could go wrong! You don’t even know if you’ll summon one with the power to help, or if they’ll just try to eat your soul right away, or—”
+
+“Chill out,” Pyre interrupted without looking up. She mentally nodded, satisfied with the current spot. Raising one end of her body, she began to yank away some of the grasses to reveal the earth beneath. “It’s not like I’m gonna be asking for much,” she continued, “and I’m willing to bet deals with humans don’t go quite the same as the ones with fellow demons.”
+
+Not to mention she probably couldn’t trade away her soul even if she wanted to, considering the little blockage going on. That automatically removed the kid’s number one concern.
+
+“If you’re that worried, you can go wait in the woods. Go on.” She made a little shooing gesture with the other end of her body.
+
+Callan glanced briefly back at the forest, seeming to consider it for just a moment, before he pursed his lips and shook his head. “I’ll stay,” he said firmly.
+
+“Great. Now help me with this ritual or whatever.”
+
+“Ritual” felt like a generous term, to be honest. From what Callan had said, summoning a crossroads demon was actually ridiculously easy. You didn’t even have to be standing at an actual crossroads—you just had to draw one below you. Pyre had accomplished this by carving a bone into the ground once she’d cleared away enough grass, crudely etching a crooked intersection shape. Not her finest work, but considering she didn’t have opposable thumbs and probably hadn’t been an artist in her past life anyway, she thought she did a pretty good job.
+
+“Alright, now what?”
+
+Callan drifted over to squint down at the lines dubiously. “Is that… supposed to be a crossroads?”
+
+Pyre raised an eyebrow. “If you want to redo it, be my guest, ghost boy.”
+
+He scowled, but didn’t mention the shoddy lines again. After all, he literally couldn’t do better if he tried. Instead, the former human hovered back over to the edge of the clearing and peered up at the sky.
+
+“So?” the demon prompted.
+
+“Now,” Callan said slowly, “we just have to wait outside the drawing and wish for a crossroads demon to appear.”
+
+Pyre stared at him with all three eyes. “You’re shitting me.”
+
+“That’s what the books say!”
+
+“You’re telling me you summon a crossroads demon by thinking really hard.”
+
+“Well, it’s more like willing,” Callan explained, but he didn’t sound too confident about it. “Apparently wishes flow into this big stream that crossroads demons can listen in on, and they can decide to answer if they hear one that interests them? Most of them do get answered, though.”
+
+That sounded pretty fake to Pyre, but it wasn’t like she had any other information to go off of. If she really thought about it, she supposed it kind of made sense. If crossroads demons lived by making deals, as that old species description had implied, then they’d probably be pretty eager to answer calls. And the easier it was for someone to summon them, the better. More steps would raise the barrier for entry, which would lower the amount of deals (and food) they could get. The easier it was for a poor, desperate bastard to call them, the better.
+
+That didn’t stop their current situation of standing outside a bunch of poorly drawn lines wishing for something to appear out of thin air from being any less funny, though.
+
+“Okay, so we sit back and stare at the fake crossroad. You hear about any average waiting times in those books of yours?”
+
+“I mean, it shouldn’t take that long. Like I said—”
+
+Pyre felt the presence before she saw it.
+
+It began as a chill, an icy gust of wind that didn’t bite the way certain kinds of cold nipped at the skin, all surface and external, but instead sunk deep into flesh and bones as an all-consuming weight.
+
+Then there was the silence. The rustling of leaves, the lingering words drifting in the air—every sound faded as though tugged away with the next breeze, so gently and so subtly it was as if there had never been any noise at all.
+
+In its wake, the clearing was still. Utterly still.
+
+And there, standing in the center of the crooked crossroads, was a demon.
+
+It didn’t look like a demon at first glance. If Pyre hadn’t known better, she’d have thought the creature was entirely human. Choppy, chin-length white hair drifted haphazardly in the wind while pale, nearly translucent eyes stared coolly from a smiling face. The demon’s skin was sallow, almost sickly looking, with long, lanky limbs outfitted in plain monochrome clothes. Even its hands, Pyre noted, were covered with worn grey gloves, the silver hue matched by the long dangling earrings that blended in with the demon’s hair.
+
+There wasn’t a drop of color on the crossroads demon. Standing against the green vegetation and the warm hues of the dimming sky, it looked distinctly out of place.
+
+The main thing Pyre noticed, however, was the total lack of smell. There was no mouth-watering flesh scent, no acidic note of magic, no nothing. If she wasn’t looking directly at the other demon, she would never have known there was someone standing there at all.
+
+Carefully, she adjusted her eyes so that they were all looking at the crossroads demon, who hadn’t moved from the center of the clearing. Or stopped smiling.
+
+“Well,” Pyre began casually, “speak of the devil. Or the crossroads demon, I guess.”
+
+The demon’s expression didn’t change an inch. It was somehow significantly more uncanny than all the flesh lumps she’d fought in the pit.
+
+“You’re Pyre, right? And Callan,” the crossroads demon added, eyes flicking briefly over to the ghost where he’d gone silent and wide-eyed before turning back to Pyre.
+
+She raised an eyebrow. “Don’t remember telling you that.”
+
+The other demon grinned, tapping its ear with a gloved hand. “We can hear a lot in the stream, you know. Well, the strong ones can. And you two’re loud.” The creature cocked its head. “It’s not everyday we get to make a deal with fellow monsters. Usually it’s just humans.”
+
+“Yeah, I figured.” Pyre squinted. She couldn’t put her finger on it, but something about the crossroads demon nagged at the back of her head, like there was something she was missing. She’d been hit with a sense of wrongness since the demon had first appeared, and it didn’t look like the feeling would fade anytime soon.
+
+“So? You gonna give us your name too, or is this a one way street?”
+
+The other demon hummed. “That’s a good question.” Its voice was casual, languid, and something about the tone just put Pyre even more on edge. “Well, let’s see. I haven’t come up with a new one just yet, so you can take your pick. The most recent ones I’ve used were Sage, Zephyr, Cyprus, Jael, Chronos, Fallon, Pax—”
+
+“I’m gonna go with that one.”
+
+Pax raised an eyebrow. “Care to say why?”
+
+“Shortest,” Pyre said bluntly. It also sounded a bit like “pacts,” which made it extra fitting for a crossroads demon. And extra easy for her to remember.
+
+“Are you a man or a woman?” Callan suddenly blurted out. Both demons turned to the ghost, who looked very much like he was regretting speaking.
+
+The poor kid really had no filter when he was curious about something, Pyre thought in amusement. It was kind of funny considering how skittish and cautious he normally seemed. She was quickly starting to recognize the inquisitive look he got in his eyes when he found something interesting or a puzzle to solve.
+
+“Er, uh, sorry,” Callan added hastily. “Sorry, I wasn’t trying to be rude. I was just wondering. Don’t mind me.” The last part of his sentence came out as more of a squeak than anything.
+
+Pax seemed neither particularly bothered nor surprised at the question.
+
+“Well,” the demon began, “this body used to belong to a human woman, so why don’t we go with that for now.”
+
+That caught Pyre’s attention. Her eyebrows rose. “That why you’ve got no scent? You’re possessing some human’s corpse?”
+
+The crossroads demon smiled. “You make it sound so sinister.” She gestured vaguely, voice light. “The poor soul was dying of illness, some human plague she got while traveling. She made a deal to rid the rest of her village of the sickness in exchange for her body. Very noble.”
+
+Pax chuckled. “Of course, none of the people she saved ever knew she was to thank for their little plague vanishing. She was blamed for bringing the sickness to the village in the first place. Which they weren’t wrong about, by the way, and she knew it deep down. She wouldn’t have made that deal if she wasn’t swimming in guilt.” The demon’s pale eyes seemed to gleam in the dimming light. “Most of the supposedly selfless deals stem from that. Very useful emotion.”
+
+Callan looked a little nauseous at the story. Pyre, on the other hand, was still watching the other demon, who she now knew to not be in her actual body. Maybe that was the source of the wrongness, but that still didn’t feel like the whole reason. There was something else she was missing.
+
+“So, what, you guys need to possess corpses to survive? Sounds like a bad deal to me.” If that was true, then she’d dodged a bullet not picking the species.
+
+“Oh no, crossroads demons don’t. I just didn’t want a perfectly good body to go to waste.”
+
+“Hm. Fair enough.” Pyre gave her a long look. She was as unreadable as ever. “Anyway, we summoned you to—”
+
+“—to find a way to disguise your presence from spells, yes I know. I told you, I hear a lot.”
+
+From the corner of her eye, Pyre saw Callan get that overly inquisitive look again. She mentally snorted, already knowing what was about to happen.
+
+“What exactly can you hear? You knew our names, too, but you said only powerful crossroads demons could do that? Do most of you only see the wishes? Can the strongest ones read memories? Do you get the information as words, or is it more like looking directly into the soul?”
+
+Yep, there it was. Pyre did have quite a few of the same questions herself, though. It was pretty useful to have someone else around who’d voice them for her.
+
+Pax turned fully to face the ghost with those eerily pale eyes. They really did look nearly transparent at certain angles, and there was an unyielding flatness to them that made them seem dead. Even more dead than Pyre would think a possessed corpse’s eyes would look. There was never any expression to them no matter how the rest of the face moved.
+
+The crossroads demon took a step forward, finally leaving the bounds of the drawn lines. Pyre instinctively tensed a bit. The other demon moved in measured, relaxed steps, stopping once she was in front of Callan and bending down until they were eye level.
+
+“Well, you’re right most crossroads demons can only see the bare minimum. The wish, location, maybe a name. I happen to be able to see a good deal more.” She cocked her head, staring unblinkingly at the ghost.
+
+“I can see how you died,” she began, still in that light, almost sing-song voice. “I can see your true desires, buried under that surface-level wish the two of you used to call me.” Pax’s smile widened.
+
+“It’s not everyday you summon a crossroads demon as powerful as me. Why waste it on such a miniscule thing? I can’t bring you back to life—you couldn’t pay the price. But I can give you a nobler death. A proper corpse to bury, not that shredded pile of meat. I can alter your village’s memories of you, give your parents a son worthy of grieving. Talented, a fitting heir to their legacy. Not a failure who got himself killed in the most pathetic way imaginable. Alone and powerless.”
+
+Callan hadn’t moved from his spot, hadn’t looked away from the crossroads demon since she’d started talking. It was as if he was rooted to the earth. Transfixed. His breathing picked up, sharp inhales that the ghost no longer needed to take but were loud enough to hear across the clearing.
+
+“You’re very lucky that ichor pool was so close to you, you know. It’s rare enough for strong souls to linger. You might be the most insignificant ghost I’ve ever seen; it’s honestly quite fascinating. Tell me, have you visited your family yet? Are they mourning? Have they even noticed you’re dead, or—”
+
+“Hey.”
+
+A single white bone shot out, stopping just on top of the crossroads demon’s shoulder. Not piercing, but heavy and intentional.
+
+Standing beside the etched crossroad lines, Pyre raised an eyebrow. “You’re way out of line right now.”
+
+Slowly, Pax straightened and turned around. Her face had gone completely blank, all traces of her former smile gone. When those pale eyes settled on the other demon, Pyre felt that nagging sensation again, stronger than ever. She didn’t move the bone or her gaze. For a moment, the clearing was silent.
+
+Finally, Pax smiled, and the tension dispersed in an instant. The crossroads demon raised her gloved hands in a placating gesture.
+
+“Sorry sorry, sometimes I get a little carried away.” She chuckled. “At my age, you have to get your kicks in somehow, or things’re far too dull. I’m sure you’ll understand one day.”
+
+“When you put it like that, being old doesn’t sound very fun,” Pyre said dryly.
+
+“Oh no, it’s great. I can sit back, eat a soul every decade or so, and decide exactly what deals I want to bother with.” The demon stepped away from Callan, whose shoulders slumped in relief. He still looked rattled, Pyre noted, ghostly face somehow even paler, but it wasn’t anywhere near as bad as before.
+
+“Let’s continue,” Pax said, returning to the edge of the etched crossroad. She gestured to Pyre. “You want a way to conceal your presence?”
+
+“Yep.” She pronounced the ‘p’ with a pop. “From magic, spell detection, whatever else is out there. The whole shebang. For the kid, too.”
+
+“I can do that. And what’re you offering in exchange? Your soul?”
+
+“Pretty sure a soul’s worth more than that.”
+
+“Well, not necessarily. I don’t need to take the entire thing.” Pax’s eyes gleamed, their translucence once again becoming more prominent. She hummed thoughtfully. “Then again, I might have trouble accessing yours.”
+
+There it was—the unspoken fact that had hung over their entire exchange so far. Pyre was vaguely aware of Callan’s brows furrowing in confusion behind them, but she kept her eyes on the crossroads demon in front of her. She’d been wondering if Pax would be able to tell before starting the summoning, then became increasingly certain the longer she’d spoken. Now, it was confirmed.
+
+After all, if anyone could see what was going on with her soul, it would be a soul eater.
+
+Pyre grinned. “Oh, I don’t know. You think you could break through the blockage? Since you’re so old and powerful.”
+
+The other demon took a step closer, smile equally sharp. “I might be able to. No, I probably can.” She cocked her head. “But that’s the problem. I don’t deal in probabilities. I won’t sell something with even a chance of failure.”
+
+“How honest of you.”
+
+Pax laughed. “Of course. Only weak crossroads demons need to lie.” She turned, casually pacing around the clearing.
+
+“I won’t promise a fix for your little problem, but I can do a simple… scan. Tell you what’s wrong, the source of your soul woes. I’ll even bundle the cost with your presence concealers; that way you only need to give me one payment.”
+
+The crossroads demon finally came to stop directly in front of the setting sun. Backlit by the warm rays, her long shadow stretched across the ground in front of her. She raised an eyebrow.
+
+“Well? What do you say?”

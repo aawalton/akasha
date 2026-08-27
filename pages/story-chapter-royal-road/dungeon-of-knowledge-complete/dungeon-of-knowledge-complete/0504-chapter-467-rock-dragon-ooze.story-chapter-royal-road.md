@@ -1,0 +1,181 @@
+---
+id: 076ea80e-e340-5cb4-ae74-f75274c59358
+page-type-slug: story-chapter-royal-road
+title: "Chapter 467: Rock, Dragon, Ooze"
+slug: 0504-chapter-467-rock-dragon-ooze
+partOf: dungeon-of-knowledge-complete
+position: 504
+ownLength: 1761
+unit: words
+ownProgress: 1761
+publishedAt: 2025-12-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2824613/chapter-467-rock-dragon-ooze"
+royalRoadId: "2824613"
+markedReadAt: "2026-06-29T20:29:20.338Z"
+---
+
+“This encounter seemed very productive,” Tiraza said, already deep into the pile of books Aliandra had left.
+
+“Indeed,” Azryet said, reviewing the meeting once more in his mind. Truly, it was far more valuable an encounter than he had ever dared to hope. When Aliandra had effected her own escape from the Abyssal Realm, he had despaired of ever seeing her again, but somehow, he had been fortunate enough to have found a person who was true to her word.
+
+The dungeon artifact, the Blind Lich’s toy, was truly the device of a genius. Who would have thought that after this long, he could still be taught a thing or two about runic magic? It was significant enough that it would undoubtedly shift the balance between himself and Destraggoth, and he couldn’t wait to try it out. He allowed a satisfied grin of anticipation to crease his lips and blew a circle of void magic into the air.
+
+“Oi, don’t damage the books,” Tiraza said, batting it out of the way and safely to the ground.
+
+But Azryet’s attention was suddenly snagged by an unexpected feeling. A tingling in his domain that he hadn’t felt since Aliandra had invaded with her strange mana that could circumvent dungeon rage. His awareness rushed outward, searching everywhere.
+
+“Azryet? What is it?” Tiraza whispered, instantly alert to his suddenly changed demeanor.
+
+“Intruder.”
+
+There! In the very same chamber where he had first met Aliandra, no less. In an instant, he vanished, appearing in the room.
+
+But the strange, tiny blue monster that had been sniffing around was nowhere to be found. Instead, there was a rock. An unremarkable brown rock, sitting on an expanse of blasted white stone.
+
+The most surprising attribute of the rock was not its strange, out-of-place presence. But the fact that he could barely sense any life force or even mana from it. If he hadn’t been paying close attention, and if the owner had merely chosen something a little less outstanding, he would likely have ignored it.
+
+He lowered his head to examine it from much closer.
+
+“I know you’re there,” he said. “If you don’t show yourself, I will eat you.”
+
+“You can’t eat me, I’m a rock,” said the rock.
+
+“I’m a lot bigger than you. I can definitely eat you.”
+
+“No, you’re not,” said the rock.
+
+Azryet glanced down on it, frowning in surprise, but before he could say anything, the very air began to drip. Slime and ooze seeped into the room, spilling out of the air and dropping to the ground in plops and splatters, which all slowly crawled toward the rock. Then, the rock began to grow.
+
+Azryet pulled back, moderately alarmed, and expanded his senses, searching broadly, and what he found was shocking. Drawn to this place like a magnet, thousands of oozes swarmed from the spirit realm, spilling out into the chamber as they squeezed their way through the veil.
+
+He took another step backward as the rock grew larger and larger, slowly morphing its shape. Two front legs appeared. Then, two back legs. Wings sprouted from its back, until Azryet found himself staring at a bluish, semi-transparent, and moderately squishy replica of himself.
+
+“See? I’m big enough to eat you back.”
+
+Azryet identified it immediately.
+
+Rock
+
+Clearly, Identify was worthless on this creature. Much like that book that follows Aliandra around. What is it about her? Instead, he studied it with some of his more powerful perception skills.
+
+Dungeon?
+
+Ooze?
+
+Aah, a Mimic.
+
+“What are you doing in my domain?” Azryet finally asked, his curiosity overriding his urge to purge this invader from his dungeon. He had learned a hard lesson in overreacting from meeting with Aliandra, and he wasn’t about to duplicate it. Besides, something about this Ooze did not exude hostility.
+
+“I’m looking for my friend.”
+
+“Who is your friend, and why would they be here?”
+
+“Ali-friend goes lots of places.”
+
+“Your friend is Aliandra?”
+
+“Yes, have you seen her?” the ooze-dragon wobbled and shimmied in what could only be described as excitement.
+
+“Yes, we had a long discussion in the library. She just left to go home.”
+
+“Oh.”
+
+“I’m Azryet, Dragon God and The Calamity. Who are you?”
+
+“Naia. Are you a friend of Ali-friend?”
+
+“Yes, Aliandra is a friend,” Azryet answered. He didn’t quite know if that was truthful, but with the simple speech of this monster, he didn’t think explaining the subtleties would be effective.
+
+“We can be friends,” Naia said. “But not best friend. That is for Ali-friend.”
+
+“Ok, we can be friends,” Azryet said. He wasn’t quite certain why he was entertaining this creature, but somehow, he felt amused by it.
+
+“Do you have any slimes? Oozes?” Naia asked.
+
+“No, only dragons. But there are some oozes on the battlefront. Would you like to see?”
+
+“Yes?”
+
+With a grin, he teleported both of them to the giant chasm, picking a relatively quiet spot where the eternal battle wasn’t particularly frenzied right now. “Down there, there are a few oozes that run around feeding on the corpses.”
+
+“I feel them. Can I have them?”
+
+“Are you going to fight them?” he asked. Watching the giant dragon-ooze fight might be entertaining.
+
+“No, I will use Mine.”
+
+Azryet puzzled through the strange sentence a few times, but he simply couldn’t wrap his mind around the intended meaning. “You are going to use a mining skill?”
+
+“No,” Naia said, her voice filled with confusion. “I have a skill, it’s called Mine.”
+
+“I don’t understand.”
+
+“I show.”
+
+The dragon-ooze collapsed into a puddle of slime and flowed off the edge of the cliff, splitting into a horde of oozes and leaking ropy trails of domain mana everywhere they went.
+
+A mobile domain! Azryet marveled at the sight. And if what he’d seen earlier was typical, it was a domain this Naia could carry with her into the spirit realm. Such freedom. Oh, to have something like that…
+
+But when the oozes reached a demonic Blood Carrion Ooze, something even more remarkable happened.
+
+“Mine,” Naia said, the voice coming from a small blue ooze she had left beside him. Out on the battlefield, among the corpses, another ooze bumped into the Blood Carrion Ooze, and the two blobs instantly merged. Then the blue ooze beside him swelled, growing a massive blob from out of the side of her membrane. The color within it flooded with red, and the mana shifted to blood-affinity with demonic overtones, and moments later, it separated from the blue ooze, becoming a fully functional Blood Carrion Ooze.
+
+“Mine, see?”
+
+“How does that work?”
+
+“Any ooze that is not already owned is mine when I touch it. I moved it from down there to here. Same ooze. Here, I make another.”
+
+A similar extrusion happened, and a second Blood Carrion Ooze appeared, but Azryet’s senses could tell the difference. As bizarre as the magic was, the first one had been a movement skill, and the second one had been a dungeon summon. And something else was immediately obvious to his advanced perception skills – this Naia had gotten an intelligence and wisdom boost the moment she had touched the demonic ooze.
+
+“That’s an amazing skill, Naia.”
+
+“I just wish I were stronger,” Naia said. “Naia is too weak to help Ali-friend.”
+
+“Why don’t you get stronger then?”
+
+“How? I don’t know lots of things.”
+
+“You should get more class levels and learn more oozes,” Azryet answered. With such a remarkable class, she should easily be able to get much stronger.
+
+“Mine and Slime Mutation take very long.”
+
+“Slime Mutation? How does that work?” The ‘Mine’ skill she had demonstrated was impressive enough. To think there might be more.
+
+“If my slime takes enough damage, sometimes it changes. Copy the damage. But it usually dies.”
+
+“That should be easy then,” Azryet said. “Do you have Holy or Void slimes?”
+
+“I have holy,” Naia said, producing something called a Sacred Ooze – a remarkable combination of holy and water affinities that seemed brimming with healing magic.
+
+“How about we try to make you a void one, then?”
+
+“Ok,” Naia said, and pushed one of the Blood Carrion Oozes forward like an offering.
+
+Using just the smallest trickle of his breath, Azryet unleashed a combined stream of void magic and holy healing upon the dark-red blob. He kept it up for nearly five minutes, watching as his void disintegrated chunks from the ooze, only to be continually healed by his holy magic.
+
+Then, abruptly, a remarkable transformation took place.
+
+The blood-red ooze suddenly blackened, its color darkening dramatically until it was so dark it looked like a hole in reality, sucking in even the light. The air around it began to sizzle, and even the stone beneath the monster began to disintegrate.
+
+Disintegration Blob – Ooze – level 80 (Void)
+
+“Ooze!” Naia exclaimed excitedly. “How do I get more? Stronger?”
+
+“I have two suggestions,” Azryet said. This creature was remarkable, and if he could nudge her down the right path even a little, she had the potential to become enormously powerful. He couldn’t discount the possibility of having someone so… adaptable… protecting Aliandra on the other side of the rift he couldn’t cross. Aliandra might be incredibly resourceful, but she was still only in the second tier. If something happened to his only lifeline, Azryet would be back in dire straits. “First, I can offer you a mentorship.”
+
+“I already have one. Aliandra.”
+
+“I can be your second mentor,” Azryet growled, hiding the wince at his draconic ego being bruised, and sent her the offer.
+
+“Ok,” Naia said, accepting his mentorship without hesitation. “What now?”
+
+“The second recommendation is, go and fight every single monster in Aliandra’s dungeon until you get Slime Mutation on every affinity. Fight every single monster you can find that has other affinities and learn them. Go into the spirit realm and learn soul affinity. Enter Zulkora and unlock a gravity slime. The more you know, the more options you have, and it will make you smarter and able to use your slimes better. Then come back and see me now and then, and I’ll give you some more domain magic skills and show you some demons you can fight once you’re strong enough.”
+
+“I can do it!” Naia said, bouncing up and down. “Thanks, Mister Dragon-friend!”
+
+He shook his muzzle slowly. Truly, the aeons have changed if these are the kinds of worshipers and minions I attract these days. Yet… is this hope I feel? He scratched his chest thoughtfully. Perhaps it is.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

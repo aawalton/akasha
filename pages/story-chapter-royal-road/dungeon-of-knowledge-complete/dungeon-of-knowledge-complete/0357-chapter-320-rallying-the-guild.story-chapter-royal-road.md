@@ -1,0 +1,237 @@
+---
+id: dc5dbf62-d52b-58a4-9629-8ef6e5ec8e65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 320: Rallying the Guild"
+slug: 0357-chapter-320-rallying-the-guild
+partOf: dungeon-of-knowledge-complete
+position: 357
+ownLength: 4670
+unit: words
+ownProgress: 4670
+publishedAt: 2025-07-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2459528/chapter-320-rallying-the-guild"
+royalRoadId: "2459528"
+markedReadAt: "2026-06-29T20:22:40.735Z"
+---
+
+Ali left an elated Weldin humming to himself as he arranged the pile of wands she had made into an aesthetically pleasing display at the front of his guild store and went in search of Mieriel.
+
+The guild hall was crowded with a noisy press of adventurers and pathfinders as everyone gathered for Vivian Ross’s meeting, cramming the space and filling the air with the incoherent hubbub of dozens of simultaneous conversations going on all around. While Ali couldn’t make out the specifics, the mood seemed tense, uncertain, and overall worried.
+
+She flew over the crowd, rather than trying to push her way through the throng, descending only when she reached Mieriel chipping away at an intimidatingly large stack of paperwork at her desk.
+
+“Hi, Aliandra,” she said, glancing up and adjusting her glasses. “What can I do for you?”
+
+“Hi, Mieriel,” Ali said. “There’s an unknown silver-ranked raid group fighting my Timber Wolves, do you know anything about them?”
+
+“Not pathfinders?”
+
+“No, mostly humans,” Ali answered. “They’re all wearing a guild tabard I don’t recognize – a flaming sword over a kite shield.”
+
+“Like this?” Mieriel said, retrieving a folder from her desk and flipping through the papers till she found the image of a crest and showed it.
+
+“That’s it,” Ali said, immediately recognizing it.
+
+“Southport Adventurers Guild,” Mieriel said, identifying the organization.
+
+“What are they doing here?” Ali asked. “It’s not the first time either; I found two bronze-ranked groups clearing my sewer bosses yesterday. What’s going on?” Strangers in her dungeon almost always represented a threat – someone sent to kill her for being a dungeon. Recognizing adventurers by sight, or by the guild rings and guild insignia they wore, had been the most practical way to separate friendlies from threats, but with these new incursions, she found herself unsure how to proceed. A quick visit from a Carnage Berserker would obviously eliminate the potential threat, but they hadn’t done anything to warrant an extreme eviction – Ali didn’t want to make mistakes that might get innocents killed.
+
+“I didn’t expect them so soon,” Mieriel said, pursing her lips. “Several groups from out of town arrived shortly after the Silver Cog trading post was established. I had a conversation with Worthington Glimmerbuckle about it yesterday. He said that, while they don’t explicitly advertise, many organizations track the movement of Silver Cog and other large trading companies to find opportunities in newly established or up-and-coming markets. I’m afraid our wooing the Silver Cog has inadvertently spread the rumors of a lucrative dungeon beneath Myrin’s Keep. I even overheard some out-of-towners discussing the ‘Dungeon of Knowledge’ and how it is reputed to have magicite as loot. I’m sorry, Aliandra, but I believe your reputation is spreading, and these incursions from visitors will likely become more and more common. Vivian was planning to address this in the meeting today. It’s bound to cause competition for resources and bosses with our own groups.”
+
+“Thanks, Mieriel,” Ali said, her mind churning with the implications. This was not a one-off occurrence. Ever since she had learned of the nature of her class, she had worked to keep the secret from getting out as much as she could; first by restricting it to herself and then her friends, and after the Town Council trial, just the locals in the town. It was a wonder her identity had remained a secret for so long, but it would seem the days of hiding in obscurity were over, and that meant she needed to be prepared for anything.
+
+“Sorry, that must be a headache,” Mieriel said. “By the way, Donella Novaspark left something for you.” The elegantly dressed Elf produced a fancy-looking jewelry box
+
+“What’s this?” Ali asked, getting a shrug from the Guild Administrator. She took the offered item and opened it, peering inside curiously. Instead of jewelry, she found a small leather pouch and a folded letter written in an elegant, flowing hand and signed with a familiar sparking mana.
+
+Hi Aliandra,Please find enclosed a gift that I believe might be of mutual benefit.Sincerely, Donella Novaspark.
+
+Similar mana spilled from the pouch, nestled in the box. With growing curiosity, Ali reached in and retrieved it. She untied the knotted drawstring and opened it, spilling several crystal chunks out onto the palm of her hand. Chunks that glowed with potent mana and sparked with electricity. Mieriel’s eyebrows shot up so fast, they nearly knocked her glasses off.
+
+Magicite (Lightning)
+
+“Interesting,” Ali said as Donella’s intent suddenly became clear. It made a certain practical sense to her; the gift was indeed intended for mutual benefit. While the magicite would prove valuable to her, to Donella it would be an incredible windfall for her Academy. As a lightning mage and a talented rune crafter, the things Donella could do with a steady supply of lightning-affinity magicite would be extraordinary.
+
+Yet, while the dour Gnomish mage had been standoffish at first, Ali had never seen her be anything but fair. Nor did she think Donella was being particularly selfish with her gift – it would generate a huge flow of wealth and work for the entire academy, of course, but that would, in turn, ripple out to many of the businesses and families associated with it. The mages in the Adventurers Guild would merely be the first to benefit.
+
+Furthermore, Donella had not requested exclusive rights. Ali nodded to herself. This seems smart.
+
+“Aah, that explains it,” Mieriel said, nodding her head briefly as if she’d just had a realization.
+
+“Explains what?”
+
+“Donella also posted an extremely lucrative standing bounty for lightning-affinity magicite on the guild quest board,” the Elf said. “I told her it was an odd request at the time, but now it makes sense. I think she’s expecting you to make some of that and put it behind a boss.”
+
+“I see,” Ali said. Her magic flickered, and the crystals vanished, along with the box, the letter, and even the pouch.
+
+Variant: Magicite (Lightning) added to Imprint: Stone.
+
+Before Ali could address the questioning look in Mieriel’s eyes, they were interrupted by an announcement.
+
+“May I have everyone’s attention for a few minutes,” Vivian said, raising her voice above the din of the crowd.
+
+Vivian waited while the guild hall quietened down amid whispers of “settle down” and sporadic shushing till the whole room prickled with a brittle undertone of anxious anticipation. “As most of you already know, Ciradyl has fallen to the Blind Lich and his undead. Perhaps a little less widely known, is that the Troll kingdoms of Aman Rak, Meere Kada, and Telim Gor have fallen too,” Vivian announced, capturing the full attention of the entire crowd. “Myrin’s Keep is hosting the remains of the Troll kingdoms, and what is left of the Elven city,” she nodded toward the small group of Trolls standing together at the back of the hall, Val’korr and Tol’zerath seeming uncomfortable at being so close to one another, but nonetheless preferring the company of their own race amid the sea of elves and humans. “At least, all the displaced trolls and elves our scouting parties under Lyeneru Silverleaf’s command have been able to recover.”
+
+Murmurs and shuffling rippled through the listeners like waves across a pond and it was apparent that at least a handful of people had been desperately holding out hope that it was all a big misunderstanding and that the Blind Lich might go back to being the favorite bogeyman from the stories – despite the overwhelming evidence to the contrary.
+
+“Lyeneru Silverleaf has assumed the role of acting Guildmaster for the Pathfinders Guild until more of the survivors can be found.”
+
+The powerful Night Elf inclined her head at the acknowledgment, but her mouth was pressed into a firm line and her eyes betrayed a glimpse of haunted grief.
+
+“The reason I called this meeting is to outline our plans and response to this threat. Make no mistake, the Blind Lich represents an immediate and dire threat to every living being on the continent – perhaps the entire realm.” Vivian collected her thoughts for a moment and then continued, “For the Adventurers Guild, we will reorganize the four silver-ranked groups into two raid teams to begin making runs against the Lyton Ruins dungeon. We will put pressure on one of Nevyn Eld’s key dungeons while honing your teamwork and skills with the goal of growing you to gold rank. We need everyone to level up as quickly as possible to face whatever Nevyn Eld throws at us. For those of bronze rank and below, you will continue training in Aliandra’s dungeon until you earn the rank of silver.”
+
+“Lyeneru…” Vivian turned to the legendary pathfinder and nodded, handing her the floor.
+
+“Pathfinders, we have lost our home and many of us have lost our loved ones and friends,” Lyeneru began. “Our foe is Nevyn Eld, the Blind Lich, and he is both powerful and prepared. The rumors are true, we were betrayed to the Lich by Nathaniel Sunstrider, and it was this betrayal that undid centuries of preparation and defense against the undead.” Lyeneru paused to allow the murmurs and exclamations to die down or perhaps take a moment to collect herself after voicing such a horrifying truth.
+
+“Nevyn Eld has paused his expansion from the corrupted Well of Souls, and I intend to use this time to rescue any remaining elven survivors and the troll refugees displaced from Meere Kada and Telim Gor. If you have scouting and concealment skills, I have urgent need of your services. For the rest of us, I have secured Aliandra’s permission to use her training arenas to focus on enhancing your skills and refining your accuracy and technique, and I will devote myself to training you all. I know it is a difficult time for all of us, but if we remain steady and focused we will return and reclaim our home. You all know what to do.”
+
+“That’s it?” Coria yelled, springing to her feet with a flush and a scowl warring on her face. “They destroy Ciradyl, and your answer is train harder? I want to fight!”
+
+“You are not strong enough, Coria,” Lyeneru said, fixing her with a level stare. “You are only level forty. The dungeon surrounding the Well of Souls has spawned raid bosses close to level one hundred and eighty. No, we must train and grow our strength. This is the right path.”
+
+“They are level forty, too,” Coria said, sweeping her hand to indicate the silver-ranked adventurers, unwilling to stand down. “While we waste our time shooting targets, they take the fight to the Lich.”
+
+“You have no experience fighting dungeons,” Lyeneru said, visibly clamping down on rising emotions. “I know you’re frustrated, but this is the safest way to get stronger.”
+
+“Calen was forty when he joined the Pathfinders, and now he is platinum and has an evolved class. While Ciradyl was being destroyed, he could fight back. I could only flee, forced to rely on others to rescue me.” She wiped her cheeks angrily and growled, “I’m tired of being held back for my safety by antiquated ideas – if even half of the Pathfinders were evolved, Ciradyl would not have fallen so easily.”
+
+“Their way is faster,” Lyeneru admitted. “But it is far from safe. People die in dungeons all the time, and I would have you better prepared before you face it.”
+
+“My father is dead, Lyeneru. He was your friend – do you care nothing for that? Our way is not safer. It is timid and weak!”
+
+“Coria!” Lyeneru snapped, finally losing her cool and leaping angrily to her feet. “I would not shame Nendir’s memory by throwing his only daughter into that dungeon to be destroyed by a monster you have no hope of standing against!”
+
+“You would condemn us to weakness, forced to stand by helplessly while our loved ones are slaughtered?”
+
+The two of them stood glaring at each other in a room suddenly quiet enough to hear a pin drop, neither backing down in the slightest.
+
+“Perhaps I could offer a different approach?” Vivian said, interjecting surprise into the brittle silence and gaining the attention of the entire room. “Our methods are indeed aggressive, and we have lost people to mistakes, but we haven’t lost many and these are desperate times. If we combine forces, there are more than enough silver ranks in this room to make four full raid groups. Lyeneru, if you agree, I propose we create raid groups comprised of five Pathfinders and five Adventurers each. I will assign one platinum-ranked adventurer to each group. This should give each group a good balance of raiding experience, skills, and leadership to have the highest chances of success. After the first couple of fights, everyone will be well on their way to becoming veteran raiders, and it will matter a lot less.”
+
+“How will you manage logistics?” Lyeneru asked, her anger visibly fading as she turned to study Vivian Ross.
+
+“Our Porter just reached forty and added a group gate skill called Town Portal,” Vivian answered, glancing at Weldin Thriftpenny who inclined his head briefly. “We can raid the Lyton Ruins in shifts.”
+
+“You have a Porter?” Lyeneru exclaimed, a clear look of surprise flickering across her face.
+
+“Yes. It was supposed to remain a secret, but this is more important,” Vivian answered. “Also, we have a dungeon in our guild. We have enjoyed much success training our recruits and novices in dungeon combat and teamwork right from the start. I’m certain Aliandra would allow you to do the same, and we could even mix groups to share experience for the lower-level classes, too.”
+
+Ali nodded her assent when both Lyeneru and Vivian looked her way.
+
+“Very well,” Lyeneru said, allowing her eyes to linger on Coria for a moment before finally relenting. “For Pathfinder initiates above level thirty, you may volunteer for one of the raid teams. For everyone else, we will train in Aliandra’s dungeon.”
+
+“I have a suggestion, too,” Ali said, suddenly gaining the attention of the entire room. She swallowed convulsively, then raised her voice. “Many of the local silver-ranked adventurers are familiar with Naia. For those who don’t know, she is an ooze-themed dungeon in the northeastern reaches of Toria, near the city of Volle, accessible via teleportation circle from the Grand Library. She currently struggles against a much larger nature and death affinity dungeon called Blooming Rot which is filled with aberrant plant and fungus monsters. I’d ask if we could maybe send one of the raid groups to help her. It would be the perfect opportunity for leveling up silver ranks.”
+
+“Why would we take on a second unrelated dungeon in a foreign kingdom?” Vivian asked.
+
+“Why would we help another dungeon?” Lyeneru asked simultaneously, her eyes flashing dangerously.
+
+“Naia is a friend, and I’m worried for her,” Ali said. “But… she showed me the core of the Blooming Rot dungeon yesterday. It lies far below the surface in a deep cavern with a level one hundred and twenty plant for the final boss. Within that chamber, I saw one of Nevyn Eld’s artificial floating shrines. Worse, the chamber contains a rift to another realm that continuously spews plant monsters across the threshold which Nevyn Eld’s pet dungeon consumes to grow more and more powerful. It is not an unrelated dungeon – Nevyn Eld’s reach covers the continent. If we could destroy this dungeon, we would deny him all these monsters for his plans – and maybe even recover another shrine.”
+
+Privately, she winced. It still hurt that they had lost the only shrine she and her friends had recovered – and that it was the means Nathaniel Sunstrider had used to destroy Ciradyl.
+
+Murmurs and exclamations of shock and surprise rippled throughout the room, an effect that was only more pronounced among the higher-level leaders like Lyeneru, Rezan, and the Trolls – those who were experienced enough in war to understand the broader strategic implications.
+
+“Very well,” Vivian said and, taking a pen from Mieriel, began writing notes on a large whiteboard. Under a heading called ‘goals,’ she wrote in Ciradyl and the Corrupted Well of Souls, Lyton Ruins, Naia and the Dungeon of Blooming Rot, and Training in the Dungeon of Knowledge.
+
+Four dungeons… Ali shivered at the implications of being included in the same list as his three dungeons. No. I am different. I have morals. I only wish Mom and Dad were here to help guide me…
+
+Then Vivian and Mieriel began the noisy task of going around the room and asking everyone to decide how they wished to contribute. It was time-consuming, but the mood within the room had shifted from despair, anger, grief, and frustration to something fundamentally more productive and proactive. Even Coria, who seemed to have been the focus for the grief-fueled anger, now offered to join one of the silver-ranked raid groups with an expression of focused determination creasing her brow.
+
+Ali knew, better than most, just how powerful the Blind Lich was – even their legends were like puppies facing a Dire Wolf. Insects against a Stone Giant. Still, having a target and a plan, even rudimentary as it might be, seemed to give everyone a purpose to which they could direct their energies. We might not be able to face him directly, but we can nip at his heels.
+
+On the board, the groups began to materialize as Vivian applied her years of experience to arranging optimal classes and group balance. She placed Ali and her friends to lead one of each of the four raid groups, but still, she was frowning.
+
+“I don’t see how you can make four effective groups,” Calen said, finally voicing what must have been Vivian’s challenge. “That third group doesn’t have a primary tank class, and the healing seems spread too thin on every group.”
+
+“Yes,” Vivian answered, her frown deepening. “We have enough people, just not the right class balance.”
+
+I don’t know how to tank well, Ali thought. She had her Armored Drakes which could most certainly take a lot of damage, but they didn’t possess many of the important tanking skills like taunts.
+
+There was a rush of whispers; a hurried conversation in the back and then Rezan spoke up. “Basir and Hala will join the raids; Basir is an earth-affinity tank, and Hala is a lightning-affinity melee fighter with high damage and haste.”
+
+“Well, that solves the tanking problem in group three,” Vivian said, nodding gratefully toward Rezan, writing in the two new names and rebalancing a few people to other groups.
+
+“I will assist with Lyeneru Silverleaf’s search and rescue team heading to Ciradyl,” Rezan added.
+
+Ali glanced toward him in surprise; she hadn’t expected Rezan to involve himself personally, but it was clear that the extent of Nevyn Eld’s predations had driven him to act. However, Ali had a different problem with the way the groups were being structured.
+
+“I can’t simultaneously lead a raid group and develop the proper training challenges in my dungeon,” she admitted. “Many of my dungeon-building skills require me to be physically present in my domain.”
+
+“The training is more important,” Vivian said, crossing her name off from the top of the fourth raid group and instead writing in her own. “I’ll take the lead for this group. Aliandra, you head up the training efforts at home – your goal is to develop our fifth raid group. Now, if we only had a few more healers.”
+
+“That’s a problem I can solve,” Ali said, drawing more than a few surprised looks from around the room. “I can fight remotely,” she explained. “My Kobold acolytes or Blood Shamans can heal.”
+
+“That will help,” Vivian said, shooting her a glance of gratitude. “How about with this group?” She pointed to group one which currently only had Havok listed as the healer.
+
+“How about I supplement all the groups?” Ali countered. “It’s no more difficult to split my attention four ways. The Acolytes are around level forty now, so they won’t even upset the experience gained for the adventurers and pathfinders. I can also add a selection of other minions for perception skills; I learned a holy ooze that can fill a supplemental healing role and use Tremor Sense. Also, don’t forget Naia – she will fight with whichever group is helping her against Blooming Rot, and she’s a level eighty-one dungeon.”
+
+“Oh, that would do it,” Vivian said, quickly writing in a few options for each group which she indicated would shore up the most important weaknesses and did a few more rearrangements.
+
+“Ok, groups one and two will focus on Lyton Ruins. Mato to cleanse the blight and Havok’s holy damage should be ideal against the undead. Group four has Seth and will focus primarily on the Blooming Rot dungeon with Naia because death magic won’t work too well against the undead. Group three will float as needed for now.”
+
+Group four is going to be a giant slime and zombie army, Ali thought, but she had seen what was down there in the depths – they would need all the help they could get. Seth’s specters and Naia’s ability to make bosses would be essential to making and securing progress against the Blooming Rot.
+
+“This plan is flawed,” Lyeneru said, frowning.
+
+Vivian paused her writing and glanced up.
+
+“You’re forgetting the rift,” Lyeneru said. “Wiping out the Lich’s pet dungeon is all good and well, but we will be unleashing an uncontrolled rift on Toria, which they are ill-equipped to handle. We will just be creating a bigger problem. I cannot in good conscience allow this plan to go forward.”
+
+“Naia will claim the chamber and become a rift guardian,” Ali said.
+
+“She is not strong enough,” Vivian said, eyes flashing. “We cannot take the risk.”
+
+“She will be, by the time we get there,” Ali countered. “I am successfully guarding a rift to the Abyssal Realm in my domain. I will teach her the necessary domain skills to summon a capable raid boss to serve as guardian.”
+
+“That should work,” Vivian said. “Lyeneru?”
+
+“Never feed a dungeon,” Lyeneru snapped.
+
+“Not even to spite the Lich?” Vivian asked.
+
+“The rift is already feeding his dungeon,” Ali said. “Wouldn’t you rather have it feeding one who will help us?”
+
+The Night Elf’s face twisted like she had just swallowed a whole vial of Bitter Vine poison. “Fine. Do it.”
+
+Back-and-forth discussion continued for ages as Vivian fine-tuned the groups and then created training teams for the novices who would be challenging Ali’s dungeon to get strong enough to participate. Each person’s abilities were considered, assigning them to the challenge they were most suited for; Basil was moved to the Blooming Rot team where his herbalism might be better leveraged among the plants, and Weldin was assigned to the teams needing to travel to the blighted forest and the Lyton Ruins dungeon to best leverage his powerful Town Portal skill.
+
+Ali paid close attention throughout, knowing she would need to memorize each of the groups and build proper challenges for them, but her focus was on the tasks she would need to complete before they all got started. Most important would be choosing her minions – neither the Lyton Ruins nor the Blooming Rot had monsters of flesh and blood, so her Abyssal Stalkers would not be effective. She could send Trolls but, if a primary purpose for the raid groups was to grow the experience of the members, too many level ninety trolls would make that impossible. They would already be slowed down significantly by taking a single evolved class as a leader – but the safety concerns made that an essential tradeoff.
+
+Kobolds, she decided. The acolytes for certain, but she could send rogues too. She had a few decent slime monsters in the correct level range to be effective and not detract from the team’s goals – not to mention she should be able to level them all up along with the eager raiders.
+
+I will need to teach them Common, she realized. Not being able to communicate with the group would substantially diminish her effectiveness. She would also need to talk with Lira – if Mato was going to be cleansing large areas of the blighted forest, they would need Lira’s powerful nature magic to keep it from being reclaimed. Lira had never complained about living in her dungeon, but it must feel dark and cramped compared to what she had known. Ali knew just how much she missed her home – the broad expanse of her forest, and the sunlight and outside air.
+
+“One last thing, before we get started,” Vivian said, turning to look at Ali. “Aliandra, would you be able to make a few silver-ranked practice bosses for the raid teams? That way we can observe team coordination and gain a few levels before we confront the Lich’s dungeons.”
+
+“I can do that,” Ali said, nodding, not missing Lyeneru’s surprise followed by the visible draining of some of the tension she carried in her eyes and shoulders.
+
+Smart choice. It would certainly address many of Lyeneru’s concerns about the inexperience of her silver-ranked Pathfinders.
+
+***
+
+Ali sat back and allowed her Teaching Sage to expire, happy with the progress she had made. Both her Kobold rogue and her Acolyte of Azryet had learned the common language with sufficient proficiency that they would be effective for communicating with the raid groups. She had already verified with her berserkers that, once the language was taught, she could continue summoning new minions with the skill as the changes were committed directly into the imprint. It was a simple enough matter to use customization to select among the general skills recorded for the variant.
+
+“Thanks, Lira,” Ali said, accepting the small, beautifully decorated cup filled with steaming aromatic tea.
+
+“You’re welcome, dear,” Lira said with a smile. “You’ve been working so hard; I thought you might like a break.”
+
+Ali sipped the tea, allowing the delightful aroma to fill her lungs, enjoying the slight calming magic as it permeated her body. “Lira, the guild is going to take on the Lyton Ruins dungeon over the next couple of weeks,” she said.
+
+“I see,” Lira said, but even though she seemed calm on the surface, Ali had known her long enough to see the complex interplay of residual anger and interest that seemed knotted up inside her. Did she ever regret not taking a combat class?
+
+“I was wondering if you wanted to help?” Ali said. “Mato is leading one of the groups and he will be using his aura to cleanse the blight. I know you don’t have combat magic, but I think your magic would be ideal for preventing the dungeon from reclaiming the cleansed areas.”
+
+“I…” Lira said, anxiety, worry, and hope flickering rapidly across her normally placid and calm features.
+
+“I know my dungeon is not your ideal home,” Ali continued, targeting what she knew to be the issue. “I’m sure you’ve been missing the sunshine and the outside air of your home.”
+
+“I have missed it,” Lira said, looking away for a moment. “But I don’t want you to think I’m ungrateful for your sacrifice and help.”
+
+“Lira, I love you,” Ali said, her heart clenching inside her chest to see her aunt so conflicted. “You will always be welcome here. But I want you to be happy and have your home back. Even after we reclaim your forest and restore it, we’re still going to be neighbors, close enough to visit often just like you used to. And, I need my cups of tea. They’re really essential.”
+
+“Thank you, dear,” Lira said, reaching out to hug her which, from the normally reserved ancient dryad, was a profound statement – an expression that Ali took to be how she felt about her devastated home and Ali’s support.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,241 @@
+---
+id: 506862d7-616a-5b65-a009-5f6ce05566db
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: A Continent of Legend"
+slug: 0056-chapter-41-a-continent-of-legend
+partOf: ends-of-magic
+position: 56
+ownLength: 3175
+unit: words
+ownProgress: 3175
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2869888/chapter-41-a-continent-of-legend"
+royalRoadId: "2869888"
+markedReadAt: "2026-06-29T20:09:03.380Z"
+---
+
+The Grace of the Mists cut itself loose from the docks and set sail as soon as the Heirs had stepped aboard. They aimed for the mouth of the bay that protected Helmaris and the open ocean beyond.
+
+“How far to Ostren?” Nathan asked Eolinne. She sat in her throne on the aftercastle of the ship with her flute at the ready, but hadn’t yet begun playing.
+
+“Twenty-five days, should the journey be made in harmony,” she said.
+
+Sarah grimaced. “How likely is that?”
+
+The white-clad woman fluttered her fingers carelessly. “More likely than on our journey from Esebus, for our journey is unknown to your foes.”
+
+“Unless they figure it out,” Nathan said with a frown. “They didn’t know where we were going after Esebus, but Sarah’s bullets were a clue. It’s probably obvious when a blight is cleared. Badud has to know that there’s a war in the works. He might be able to put the pieces together and guess our route.”
+
+Khachi looked skeptical. “That sounds like a dungeon for fools. Do you think we will face them?”
+
+Nathan raised his hands defensively. “It’s not impossible, that's all I'm saying. I’d prefer to be ready for something that doesn't happen than be caught by surprise by the ship being sunk out from underneath us.”
+
+Eolinne arched a pale eyebrow. “As the captain of this ship, I will take us through an alternate course. It will span two additional days, but avoid those who guess our route. We are still protected from scrying.” She waved a hand towards the center of the ship, where the new stone obelisk stuck up like a diminutive extra mast.
+
+“We’re more protected than we used to be,” Nathan said. “New Developments, on top of the old.”
+
+“Do not speak of it. If I do not know the verse of your builds, I may avoid being pursued for your secrets.” She spoke grumpily. It seemed like she was annoyed that they were bringing risk to her by being powerful and potentially famous.
+
+It wasn’t an unjustified concern. If Nathan and the Heirs caused enough problems for enough Questors, somebody was likely to delve into their pasts to learn their secrets. Nathan shivered at the thought. He hoped that Gemore wouldn't have any problems. But there wasn't anything they could do about it. Under Questor rules, Gemore belonged to Brox. At least most other Questors wouldn't be able to Travel directly there.
+
+Once the Grace of the Mists had broken through the mountainous waves off the coast and made it into open water, the Heirs went below decks. They claimed their old rooms and settled in for a long journey. Everybody else made a big deal about the comfortable couches, beds, and toilet. But Nathan’s antimagic prevented him from enjoying those creature comforts, so it was pretty similar to travelling on their own. Except for not needing to expend the effort to fly. Or keep careful watch for attacks every hour of the day. The food was also quite a bit better, with Eolinne’s full kitchen and larder beating out what Aarl had in his bags.
+
+Ok, this is a lot better. I'm glad we get another break. I want to get onto the next stage of our mission, but we need this.
+
+This was likely their last journey aboard the Grace of the Mists, and they tried to enjoy it. Whatever else happened, they were about to be introduced to Questor society at large, and either they’d make waves or they’d drown. If they survived, they were likely to do so with a lot more enemies, and Eolinne had made her stance on that perfectly clear.
+
+Nathan kept expecting something to happen. An attack, Sarya appearing from nowhere to keep them company, something. But the most excitement they got was a school of flying fish that emitted blasts of heat from red dots underneath their eyes. They fried up nicely, and Nathan kept waiting for the other shoe to drop.
+
+But week after week, they sailed without interruption. Nathan came to accept that their defenses really were that good. The oceans of Davrar were enormous, and their protections from magical methods were impenetrable. If anybody had tried to intercept them, then Eolinne's course correction had thrown them off. He found himself anticipating a message from Sarya. Then he realized that somebody might be able to track that kind of message and stopped expecting one.
+
+Without conflict or contact with the Questors, the Heirs were free from expectations. Their alertness could be tuned down from paranoia to simply cautious. Nathan sat at the prow of the ship for long hours, chatting with the other Heirs in the brisk breeze of the morning, with the sun warm on their skin. They debated the kind of image they wanted to portray during the war, what they should say to the Questors at the conclave, and what kinds of terms the Heirs would accept regarding changes to Davrar.
+
+“I’m not convinced that the Endings are the hill to die on,” Nathan said, revisiting old arguments and gesturing towards Khachi. “They’re not great, but there are elements of magic that are worse. We should push to remove mind magic.”
+
+Aarl twisted his mouth. “We swore an Oath, on the Seal, on our classes. The Endings must be our target.”
+
+“We didn’t know the full facts,” Nathan said. “If we knew it was possible to remove mind control as a possible type of magic, we might have sworn that instead. It would have made Giantsrest impossible, and your ancestors never would have been slaves to begin with.”
+
+“Esebus didn’t use mind magic to control its slaves,” Sarah pointed out. “Magic is a tool. An enabling one, but power is felt in many ways.”
+
+Khachi spoke up next. “My thoughts have shifted since the blight. The Endings lay low civilizations. Anything good is destroyed, and the world is reset into a worse shape. They are the base Evil of Davrar. There are others - the blights, the Questors themselves. But if we must pick one, it should be the Endings, for without life there is nothing, not even the possibility of good.”
+
+Nathan felt frustrated. Khachi had changed his tune since they’d last talked, likely in response to seeing the desolation of the blight. He wanted to argue the point, but held his tongue. They’d discussed this issue before and always encountered the same problem - they didn’t know what options were on the table and which ones weren’t. Sarya had suggested that at a Conclave they would be able to demand change, but not exactly what the parameters of allowable change would be.
+
+“It seems like we just need to know more. Should we pin Sarya down and ask her for more details?” He asked.
+
+Sarah looked at him as if he were crazy. “Of course."
+
+He shook his head. “No, I mean before the upcoming war. We’ve been a bit strung along with promises that we can make changes. I want specifics now, before we finish our Deeds. Surely we’ve earned that much.”
+
+Eolinne had been approaching to chat about something, but on catching Nathan’s words, she veered sharply away. She was not interested in participating in conversations that involved demanding answers from Questors.
+
+Khachi nodded slowly, answering Nathan's question. “We must not allow ourselves to be led into an ambush, but I do not expect it. However, even if she does not mean to betray us, there is the possibility of miscommunication if we do not discuss it.”
+
+“I get the feeling that there’s almost too much to tell,” Nathan said. “When Sarya explained some of the history of Davrar to me, I got the sense that it’s a story of a thousand books. There are so many small details that make up the attitude of Questors and have shaped their opinions. It wouldn't surprise me if she tells us that something is impossible and then has a hard time explaining why, except for saying that the Questors would vote against it.” He paused, trying to sum up the thought. “How much do we trust her?”
+
+The Heirs pondered that question. Aarl smirked and almost made a sarcastic comment, but thought better of it. His expression evened out before he spoke. “She has guided us fairly since we met her. The deeds are harsh, but every shadow says that she is helping us succeed in our goals.”
+
+“That could all be a dungeon of illusions," Sarah said. “She is an ancient Questor. If she wanted us to see that reality, it would be all we would find.”
+
+Khachi grunted, his brows drawn down. “I believe that we share a target with her. She is disgusted by the state of Davrar and wishes it to change. But I do not think that we agree on what change needs to be made. She would be happy to dictate the terms of our victory.”
+
+Nathan was nodding along. “I agree. She would use us to get what she wants. But.” He held a finger up for emphasis. “I’m not convinced she would be wrong. She might know better than we do what actually needs to change. So when I ask if we should trust her, I mean, should we trust her to tell us what the actual problem is, and how to fix it. Do we trust her to guide our goals, in addition to our methods?”
+
+He let that sit for a second before Stella spoke, lip curling up in disgust. “She is allied with Brox. I will not forget his attitude when we first met him. Or the mental skill he imposed on me.”
+
+“His speech atop the mountain didn’t convince you, before we ambushed the Giantsrest army?” Nathan asked.
+
+Stella shook her head. “I believe he meant it, but it doesn’t pardon what he does. He has grand goals and stopped seeing mortals as people worthy of weighty consideration a long, long time ago. He fights for the idea of being good, not because he is good, despite millennia to improve. How can we trust Sarya to guide our path when she excuses Brox of his?”
+
+“Sarya is better than Brox,” Khachi said firmly. “She forces positive change and has used us to enable more. When we were set on this path, I worried that our deeds would be acts of evil. But they have not been. Esebus deserved to be overthrown, and it happened with few deaths. In Helmaris, we cleansed a blight from the surface of Davrar to allow the spread of life in place of death. In the upcoming war, we will fight Questors allied with Badud. These are good deeds.”
+
+“Unless there’s a lot of collateral damage,” Nathan said. “They might want to do the war in the middle of a city for all we know. And Esebus avoided destruction because of our choices, not Sarya’s.”
+
+Khachi acceded to the point, but he wasn’t done. “Sarya is not a perfect guide to the game of Questors. But she has earned the right to show us her path. We may yet step off of it, but from what I have seen, I expect it to be a path worth the walking.”
+
+“Well-wrought words," Sarah said. "I'll watch for physical betrayal, you and Nathan watch after our oaths. Kaelis seems the sort to backstab us to earn the allegiance of Badud.”
+
+Stella frowned. “Truly? Hear me, he seemed like a twin to Sarya. They spoke of remaking Davrar together like it was an ancient dream.”
+
+“A display of words,” Sarah said dismissively. “He spoke well, but he leads Questors. That role rewards expedience, and what he showed us was a display in many ways.”
+
+“They also hinted that young Questors could be a danger to us,” Aarl said. “Glory-seekers, looking for famous kills to their name. We qualify for that now.”
+
+That comment made everybody glum. Making a name for themselves might be the only way to get a Conclave, but it was also going to bring unavoidable heat down upon them.
+
+There was a bit more discussion of the topic, mostly revolving around additional security and cautionary measures they could put in place when they next interacted with Questors. A lot of it boiled down to protecting Khachi and putting Nathan up front to be stabbed because he could heal easily.
+
+A few days later, Khachi called Nathan over. The wolfman had been meditating at the front of the ship, a steady beam of sunlight breaking through the cloudy sky to illuminate him. If you considered that they were on a rocking ship speeding over the ocean, the steady beam on Khachi became even more impressive. “Nathan, I wish to hear your thoughts on my principles, and how they are reflected in my Faith.”
+
+Nathan blinked and sat down cross-legged. He felt a bit hesitant, like he’d just been called in for expert advice on something he was in no way qualified for. “Have they changed dramatically since we last talked about it? You seemed to switch your position on the Endings.”
+
+The wolfman grunted, almost a chuckle, before replying. “It has not been a significant shift. But in questions such as these, the slightest difference can lead to a harsh action. I have thought deeply and decided that both risk and temperance are required. There is no simple path, as you once told me. Certainty is impossible, and if you chase the certainty of good, you will end up achieving little. But if you choose instead the greatest good result, you will never reach it and cause evil in the trying.”
+
+“Can you explain in greater detail?” Nathan asked, feeling lost.
+
+“If I restrain myself to only acts of obvious good, then I will save the slaves before me, but fail to overthrow the slaving empire,” the cleric said, his fur bright and shiny in the sunlight. “But if I restrict myself to only overthrowing slaving empires, I will pass by those empires that do not hold slaves, but still perpetrate idiocy and evil like Litcliff. Likewise, if I aim to conquer the whole of Davrar to forge it into a better shape, I would fail and leave only death in my wake as I strip away those who defend it from monsters. If I solely defend from monsters, I will not overthrow any empires and merely perpetuate their evil by protecting them.” He said it all matter-of-factly, the certainty of his speech contrasting with the conundrum he was presenting.
+
+“It’s hard to know how to achieve good,” Nathan summarized. “We’ve talked about this before. It's not an easy problem, and I don't have the answers.”
+
+“Just so,” Khachi replied. “So I arrive at a new tenet. Humility. That which the Questors lack, one and all. I do not have all the answers; nobody does. I cannot say that an empire must be overthrown with certainty, because what follows it may be worse.”
+
+He tilted his head backwards, letting the sunlight illuminate his face and meet the radiance spilling from his eyes. “But there comes a time to make a decision. To look at an empire and say ‘No, I will cast you down for your evil.’ There are no rules for that choice. Merely a knowledge of what is good and what is evil.” He angled his face down towards Nathan, eyes glowing like they’d absorbed some of the sun’s brightness. “You called it Virtue. To act to promote good, and hinder evil, without ego weighing on the scale.”
+
+“That’s the hard part,” Nathan agreed. He grinned back at his friend, trying not to feel unsettled at the way the aether flexed each time Khachi spoke one of his tenets. “Sometimes I feel like I’m special, like it’s up to me to fix everything, and that justifies everything I do. But everybody’s the protagonist of their own story. If it’s not right for somebody else to do something, then I shouldn’t do it either. To believe anything else is ego.”
+
+“Good is not a thing you are, it is a thing you do,” Khachi mused. “Every act must be weighed to the extent of your knowledge. Violence carries a shadow that must be balanced by mercy. But failing to take action is just as much a failure as acting wrongly.” He frowned, deep in thought. “It is a hard problem.”
+
+Nathan didn’t want to break his friend’s chain of thought, especially when he didn’t think he had much to add. He felt good about his own moral compass - though he hadn’t always followed it as well as he’d wished. But his class didn’t rely on that compass. In some senses, he was pretty sure his assassin class would benefit from a more flexible take on murder. But for Khachi, it was entirely possible that this discussion would unlock incredible power.
+
+That’s certainly not an outcome that’s possible from a normal ethics discussion!
+
+They spent a few minutes in silence. Khachi had closed his eyes, but then he opened them again. They were calmer now, deep pools of light. “To act, when a decision is made. To not claim uncertainty and shy away from what must be done. I may be wrong, but when I believe that I know the correct course, I must hold the Resolve to take action. To strike down evil and raise good in its place.”
+
+The wolfman nodded to himself, the action prosaic against the shuddering of the aether. “Humility, Virtue, and Resolve. These are the pillars of my Faith. Contrary to one another, but such is necessary to retain balance.”
+
+“Is it still faith?” Nathan asked tentatively, not sure how to help Khachi claim the Insight.
+
+“It is Faith I have in myself,” Khachi said simply. “The Faith that I have structured my soul well, that I am worthy to hold this power in place of the god I usurp.”
+
+Nathan waited for the swell of divinity, the sudden light from the heavens that would anoint Khachi and boost his power. But it didn’t come. The Aether calmed around the cleric, who smiled beatifically up at the sun.
+
+Permanent Talent 1: Magical Destruction 3
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 2
+
+Forewarning 7
+
+The Truth of Magic 3
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 3

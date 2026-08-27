@@ -1,0 +1,233 @@
+---
+id: c936372f-23d7-5600-a6bb-c414a819038a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 288: An Encounter with Silver Cog Trading"
+slug: 0322-chapter-288-an-encounter-with-silver-cog-trading
+partOf: dungeon-of-knowledge-complete
+position: 322
+ownLength: 4005
+unit: words
+ownProgress: 4005
+publishedAt: 2025-06-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2376494/chapter-288-an-encounter-with-silver-cog-trading"
+royalRoadId: "2376494"
+markedReadAt: "2026-06-29T20:22:14.149Z"
+---
+
+Lydia picked up the book again, for the tenth time. It was a book of trollish origin which Ali had translated for her, and it had many tips and cautions for those using a shrine to level up. But she put it down again, realizing she was just fidgeting because of her nerves. She hadn’t wanted Calen to risk himself and his friends unnecessarily, and she had no idea if their hair-brained scheme would work. Unfortunately, even though she had racked her brains, she had not come up with anything better. She had a visceral sense of Silver Cog and the opportunity they presented slipping away, leaving them marooned in the endless doldrums of an out-of-the-way town under the thumb of a monopolistic trading company that masked a crime syndicate.
+
+She sighed and put the book down, letting her eyes roam about the grand library, taking in the neatly arranged books and the studious adventurers taking notes or reading at the various tables and couches. She even studied the intimidating figure of the dryad, Lirasia, who had brought her several refills of tea. She had kind eyes, but Lydia couldn’t identify her even now, and there was an aura of unimaginable weight and age that always seemed to follow wherever she went.
+
+The sudden sweet ring of a chime almost made her leap out of her skin.
+
+Stylish Tailor has reached level 100 (+2).+20 attribute points.
+
+And then, a few seconds later, her chimes sounded again. She barely heard them through the thundering in her ears. Oh, oh Calen, you did it!
+
+Requirements met for class evolution.Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+She stared at the words in utter shock and disbelief, only returning to her surroundings as her teacup was replaced in her hand.
+
+“Congratulations, dear,” Lirasia said with a smile. “Good news?”
+
+Helpless to respond, Lydia burst into tears.
+
+It was all a crazy rush, and she was ignoring her friends’ pending evolutions for the sake of the town crafters, but they had done it. Everyone was here, standing with barely suppressed energy in her grove. There was no more reason to hesitate. Ali placed her hand on her shrine while everyone looked on in eager anticipation of how Lydia’s evolution would go.
+
+Tailor – Human – level 100
+
+“Ok, it’s activated for you,” Ali said. “I don’t know if you want to try for an affinity, but the shrine has a few options – maybe some of them might be helpful for tailoring.” Fire would be nice if Lydia wanted to specialize in the Fire Silk, or ice if she preferred the Frostweave. Ali had very little exposure to how crafting classes worked, certainly at the evolved level, and didn’t feel comfortable making any recommendations.
+
+“Ok,” Lydia said, collecting herself before stepping forward to touch the shrine. She had a nervous energy that expressed itself in the constant rearrangement of her dress and accessories. “I… thank you all for doing this. Really! I have no words.”
+
+Ali smiled encouragingly at her. It was clear to her now, after helping several groups gain classes at her shrine, that for most people this was a stressful and momentous decision. Her own evolution had given her a rather more personal appreciation for the sensations Lydia must be experiencing.
+
+“Um… affinities…” Lydia said, her eyes glazed over as she examined the shrine options.
+
+Ali clapped her hands over her eyes as the most intense white shimmering light burst forth from the shrine, lighting up the entire forest cavern with painful brilliance.
+
+Several yelps and gasps came from the spectators.
+
+No, it’s coming from Lydia, Ali realized as her mana sight continued to show her the effect even through the mundane obstruction of her hands. The effect lasted for several long moments before slowly fading away, leaving the grove and the shrine in apparent darkness compared to the intensity just moments ago.
+
+“I had a latent affinity for light mana,” Lydia said, her voice hushed as if in awe. “I never knew.” She gazed at Calen for a long moment, meeting his eyes. “I always thought his magic came from his father.”
+
+The look on Calen’s face! Fat tears slid down his cheeks, the first time she had ever seen him cry, she realized. It was also the first time Ali had heard either of them mention his father. She had often wondered what the story was, but it seemed to be a private and not particularly happy chapter for either of them. At the very least, Lydia didn’t merely have an affinity for light magic – what she had unlocked was a powerful radiant magic that rivaled that of her son – and right then, Ali’s anxiety faded. Lydia would unlock a powerful evolution, it was obvious.
+
+Looking in from the outside, an evolution process was quite boring and time-consuming. After the brief flare of light, Lydia fell silent, clearly working her way through a number of paths while Ali and her friends sat around, chatting about the Corrupted Fire Drake fight and their next plans to pass the time. Every now and then Lydia would ask for opinions or advice, but after about fifteen minutes, they were all interrupted by the sound of the zone-notification gong.
+
+[Zone] Grand Tailor of Refulgent Elegance has advanced to the second tier.
+
+A rather frazzled-looking Lydia accepted Calen’s hug and a big round of congratulations, remaining a little dazed from her experience. She nestled her head against his chest, obviously taking a moment to regather her thoughts. A short while later, Calen patted her on the shoulder and she chuckled, releasing the hug.
+
+“Still got your ribs there, Calen?” Mato said gruffly.
+
+He grinned hugely, “Wow, Mom!”
+
+“It’s going to take some getting used to,” Lydia said, a huge smile wreathing her face now. “Lots of stuff changed because of the new affinity. There were paths for combat crafting, and fashion, and… I just hope I chose well.”
+
+“I’m sure it will be perfect,” Ali said, smiling happily at her. And if it’s not, I can reset it now. That backstop is… amazing.
+
+Lydia had been a constant help to her since the beginning and seeing her earn a powerful evolution was a unique kind of satisfaction. Obviously, Lydia had done all the hard work, but Ali felt a sense of pride at having been a part of Lydia’s journey, and now she was excited to see what she might do with her new Grand Tailor class.
+
+[Zone] Grand Tailor of Refulgent Elegance has advanced to the second tier.
+
+“Yes!” Weldin cheered, unable to contain his enthusiasm with proper decorum. But, rather than ease his anxiety, the sound of the notification stretched his nerves taut, causing a cascade of worries about whether they had been in time or not.
+
+He tried to burn off his anxious energy by straightening the displays and rearranging everything to perfection. It wouldn’t do to display any nervousness if Silver Cog did show up. But a few minutes later, it was not the grand trading company that arrived, but instead two rather imposing trolls.
+
+Witchdoctor – Troll – level ???Leatherworker – Troll – level ???
+
+He pushed aside his worries, his instincts taking over; there were new customers in his store, and he must ensure they had the best experience possible.
+
+“Good day, sirs, welcome to the guild store. How may I be of service?”
+
+The two trolls glanced at each other and then the leatherworker spoke, his Common halting and heavily accented. “I am Zor’kan, and this is Val’korr. Aliandra told me that you would be able to buy some of my work? My people are struggling, and I need to make some money to help them after the destruction of Aman Rak.”
+
+Not very good at negotiating, Weldin observed, his senses prickling at the easy opportunity – however, if they were here on Aliandra’s recommendation, they must be important, so he decided to see how he might help instead. Besides, the younger troll was a three-mark crafter. If these Trolls were to become regular customers, or better yet, suppliers, he would need to see about learning their language – customers always spent more when they could hear the deals in their native tongue.
+
+“Sure, I buy all sorts of things from the adventurers, what did you have to sell?”
+
+“I’m not certain what might be of use,” Zor’kan said. “Is this a piece you might sell easily? I don’t have anything higher-level because I lack higher-quality leather supplies.”
+
+Weldin examined the offered item. It was a pair of archery bracers of exquisite craftsmanship; blue-stained and tooled leather with inlaid reinforcements of what appeared to be polished bone. Sucking in his cheeks in anticipation, he appraised it.
+
+Vampiric Bracer of the Bat – level 64Made from the blue hide of a Spirit Nightwing bat, with geometric designs reinforcing its structure made from bone.+45 DexterityGain +3.5% of your attack damage as mana over 30 seconds.Gain +2% of your attack damage as health over 30 seconds.Requirements: Intelligence 128, Dexterity 128Quality: Uncommon.Value: 49 gold.Created by Zor’kan.Hands – Leather / Bone
+
+“This is exceptional work,” Weldin admitted, and in truth, it was. He had never seen leatherwork of such craftsmanship. As he looked up from the piece, he spied another customer entering the store quietly, a Gnome dressed in an expensive-looking waistcoat and wearing a top hat.
+
+Is that…? He couldn’t tell, but also, he didn’t want to be rude to the two esteemed trolls trying to sell him the finest piece of leatherwork he had ever laid eyes on.
+
+“Calen said it was difficult to find these enchantments for archers in the human kingdoms,” Zor’kan offered in a low growl.
+
+“Yes, that is true, this would be a highly sought-after piece,” Weldin said. “The only issue is that it is too high-level for almost all the adventurers in the guild, and there are no combat archers in the garrison who could wear this. If the silver-ranked adventurers gain another twenty levels, you will have several customers for this piece – immediately, that is.”
+
+Zor’kan looked downcast at the news. “I can make lower-level items, then,” he said, sounding rather disappointed, reaching for the bracer.
+
+Weldin held it out, but on an impulse added, “I would happily buy this from you just to have such an amazing piece on display. With your mana signature on it, this would be a great advertisement for your work – and it would benefit my store greatly. Something to inspire the adventurers. Would you accept forty-eight gold?” It was an expensive risk, but if that Gnome really was from out of town, placing the display where he could see it might be exactly the effect he needed.
+
+The two Trolls conferred briefly in their language before Zor’kan turned back to him. “I will accept your offer,” he said. “This money will cover most of the housing for our people.” Then he inclined his head as Weldin counted out the coins and handed them to him. His other patron was slowly making his way through the displays of Thuli’s work, examining everything carefully but not touching anything, but he could clearly see the alert attention in his posture.
+
+“I have some low-level hides and leather in the back room if you need supplies. I’m sorry I don’t have anything on hand that matches your capabilities, but there are some wolf pelts and boar hides in the mid-twenties if you would like to make some lower-level adventuring items.”
+
+As he spoke, his mind raced. There had to be a better way than this. The crafters were starving for good materials and that, in turn, would hold everyone back. Later. He had to deal with what he could right now.
+
+Zor’kan nodded curtly, so Weldin showed the towering troll to the supply room.
+
+Worthington had not seen anything spectacular in the guild store so far, although it seemed to be doing a bustling trade with adventurers hunting for bargains or upgrades. He was suitably impressed with the work of this Thuli – probably the town’s blacksmith – every single item on display was masterwork or better and exquisitely crafted. Unfortunately, it all seemed rather low-level – the kind of items they could easily trade but would need in bulk to turn the kinds of profit Silver Cog would demand if they were to add this miserable town to their trading route on any regular basis. It all seemed rather mundane.
+
+But the sound of the gong still echoed loudly in his mind.
+
+That message… Zone messages were rare, and he was not aware of anything that could fake them. He had returned to his inn, settled up with the innkeeper, and he had almost teleported home when it had sounded, shattering his entire impression of this town.
+
+Grand Tailor of Refulgent Elegance. An evolved tailor was rare enough, and one that was not affiliated with the Guild of Tailors might as well not exist. It was as likely as finding an honest deal from a Kel’darran merchant. If there was a guild tailor in this town approaching evolution, he would have been informed of them – Silver Cog tracked all prominent crafters – it was just smart business.
+
+He stopped before a pair of fire silk slippers, identical to the ones that had been sent to Silver Cog, and with the same mana signature. Lydia Avery. Is it you? He had been so sure this town was a hoax that he had allowed himself to be hoodwinked by a slimy politician. Jax Hawkhurst had instantly become his sworn enemy the moment that zone message had sounded. Keeping secrets was one thing, but hiding something of this magnitude when it came to business – in his mind, that was a blatant declaration of war.
+
+He scanned the busy store, surreptitiously searching for the owner, and then blinked in surprise at the sight of two tall figures discussing business with a Gnome.
+
+Witchdoctor – Troll – level ???Leatherworker – Troll – level ???
+
+Trolls? It was his first thought, but his eyes were instantly glued to the second troll. A leatherworker? And of such a high level that even he couldn’t identify him. Worthington had absolutely no idea where he had come from, and more importantly, what he was doing in this town in the Adventurers Guild store. Trolls do not do business with the lesser races. It was a truth Silver Cog had railed against for decades with only a few successes.
+
+To his astonishment, the Troll took gold for what looked like a leather bracer set – and then, even more surprisingly, headed into the back room to purchase leather supplies if his highly attentive ears had heard correctly.
+
+“Greetings, good sir. I am the store owner,” the Gnome said, finally approaching him. He had an eye patch and a walking cane and was dressed appropriately elegantly – a rather pleasant surprise in this dump of a town. “Weldin Thriftpenny. How might I be of assistance?”
+
+“I would like to browse your wares for a bit,” Worthington said, noting carefully where this Weldin had placed his newest purchase on a prominent display stand. Weldin Thriftpenny, yes. The name had been on the petition, so he was most certainly in the right place.
+
+“Of course, good sir,” Weldin said, respectfully but not obsequiously. “Please don’t hesitate to ask if you have any questions.” And like any good merchant, he left him alone.
+
+Without making it too obvious, Worthington made his way slowly toward the newly purchased bracer, now prominently on display. If the leatherworker was a regular supplier, he might be worth Silver Cog’s business, just by himself, but he had only gotten halfway across the store when a new group of customers strolled in from the hall, chatting excitedly with one another.
+
+Mage [Ancient] – Fae – level 102Monk [Rift Warden] – Human – level 100Druid [Savior of Aman Rak] – Beastkin – level 100Archer [Tracker of the Dead] – Half-Elf – level 100Grand Tailor – Human – level 100
+
+There she is! It could not be a coincidence. The group seemed to be in high spirits, and the zone evolution message coinciding with exactly level one hundred, meant that this must be the one!
+
+“Hi, Weldin,” the Grand Tailor said.
+
+“Congratulations, Lydia,” he said, smiling at her.
+
+Aha! I was right! Worthington shuffled a little closer to hear a little better. Remarkably high levels for this little hovel. More and more intriguing.
+
+Weldin continued, “I take it your class evolution at Aliandra’s shrine wasn’t too complicated?”
+
+Wait, what? A shrine? Worthington was certain he couldn’t be hearing that correctly.
+
+“No, it was very complex. I had a lot of paths to choose from, and Aliandra let me add light-affinity mana, which made it even trickier, but it’s all done. I’m a Grand Tailor now. I just hope we were in time and the Silver Cog representative heard it.”
+
+“I’m certain he did,” Weldin said, smiling smugly.
+
+Worthington’s mind reeled like he’d just been socked in the head by a sack of gold coins. A big sack. These people had deliberately evolved a Grand Tailor just to get his attention? Just putting aside the ridiculousness of the idea, the mere fact that they were even capable of such a feat was unbelievable. It would require having access to one of the most advanced shrines on the continent. Suddenly, his mouth was bone-dry. This wasn’t just an opportunity. It was the opportunity of a lifetime.
+
+“The dungeon clear took less than two hours,” the human monk said. “But we cleared everything, so here you go.” Then she proceeded to dump out an unbelievable number of fire essences, which Weldin simply stored as if he were used to it.
+
+“I have several stacks of flamecaller scales, demonic hides, and drake hides, too,” the half-elf said. “Some of the drake hides and scales are pretty high level.”
+
+“Oh, Zor’kan is here. He’s in the back, he will probably want some of those,” Weldin noted.
+
+“Oh, before I forget, I also have a couple of new things for you,” the Fae mage said, pulling some things from her storage. “Here’s a wand I made, not sure if you can sell this yet, but you should keep one in stock just in case.” She placed a quartz wand on the table in front of Weldin. “And I have these too, I’m sure that Donella will be interested.”
+
+Worthington’s eyes bulged at the sight of the five assorted glowing red and blue crystals she set on the table beside the wand, radiating enough clashing cold and flame that the table immediately frosted and began smoking at the same time.
+
+Magicite! Worthington had seen enough. He stepped up to the table, staring openly.
+
+“Excuse me,” he said. “Where did you get magicite?”
+
+“Down in my dungeon,” the Fae mage answered as if her nonchalant statement wasn’t completely preposterous.
+
+“Your… dungeon?” Worthington stammered, still struggling to process the sudden appearance of magicite, let alone the comment about a dungeon.
+
+“Yup, I’m a dungeon, and these are my friends. We just got Lydia’s evolution at my shrine a few minutes ago. I assume you’re the representative from Silver Cog?”
+
+“You knew it was me?” he asked, seizing upon the only thing that made sense in this craziness.
+
+“A merchant knows a merchant,” she said, gesturing to Weldin. “And Lydia can tell by your suit that you’re not from around here.”
+
+“All this was just a show for my benefit?” he asked, suddenly realizing how he’d been played.
+
+“Yes, of course. But there was no deception in what you heard – everything is true. I’m Aliandra Amariel, and I’m the Dungeon of Knowledge below town. We just cleared an ancient dungeon to elevate Lydia to Grand Tailor so that we could wrest your attention away from Jax Hawkhurst.”
+
+“He’s your competition, you know?” the monk said. “Probably not a good opinion to trust.”
+
+Worthington took a deep breath to steady himself. On second thoughts, he took another. “So, you have two evolved crafters: the troll leatherworker and now a Grand Tailor, and access to a cooperating dungeon with a shrine for evolutions?” If this was true, it was the biggest find in all of Silver Cog’s long and profitable history, and he was the one who had discovered it. He was going to be wealthy beyond even his own admittedly rather capable imagination, and all he had to do was unseat this deceptive Jax Hawkhurst for trade rights in the town.
+
+“Not quite,” Aliandra said. “After clearing that dungeon, Thuli must be close to evolving too,” she tapped the heavy plate armor the Beastkin was wearing. “So, there would be three evolved crafters.”
+
+“I see,” Worthington said, trying to sidle up to some semblance of control of the situation.
+
+“Here, is this something you would be able to sell if you bought it from Weldin?” Aliandra asked, handing him the crystal wand.
+
+Winter’s Desolate Celerity – level 85 (Ice)A delicately carved wand of quartz with a deep core of glowing blue energy.+52 Intelligence.Charge: Cast Winter’s Desolate Celerity. Your target gains +85% [skill] to spell haste. The bonus is doubled if the target is chilled or frozen. Duration: 10 seconds. Charges: 9/9.Requirements: Intelligence 596.Quality: Rare.Value: 172 gold. Created by Aliandra Amariel.Main Hand – Wand
+
+“Holy springing sprockets!” Worthington exclaimed as he appraised the item. He knew at least twenty ice mages who would eat their livers in a heartbeat just to possess this. If he put them alone in a room with it, there would be bloodshed. He cleared his throat carefully, collecting his poise. “I think I might need to have a conversation with headquarters,” he said. “Do you mind if I leave a temporary teleportation locus here?”
+
+“Go ahead,” Weldin said.
+
+“Thank you,” Worthington said, retrieving the emergency paper return-teleport talisman he had never expected he would be using, and ripped it down the center, not even minding the fact that he had just destroyed fifty gold. The spell took hold, whisking him back to Silver Cog headquarters and dumping him right in Bixi’s office, with the temporary return locus left back in Weldin Thriftpenny’s store. It would last for about two days, which would likely be nearly two days too long.
+
+“I take it that their petition had some merit?” Bixi asked, glancing up from some paperwork.
+
+“We need an auctioneer, and a lawyer versed in New Darian royal trade law,” Worthington blurted out. Then he slowed down at the sight of her raised eyebrow.
+
+“It is way more significant than we were led to believe,” he explained. “They have a Grand Tailor and an evolved Aman Rak leatherworker. And a cooperating evolved dungeon with shrine evolution capabilities. I talked with the dungeon – she intends to elevate the local blacksmith in the next day or two.”
+
+“I see,” Bixi said, removing her glasses and setting them down carefully on the desk beside her paperwork.
+
+“Bixi, the dungeon has magicite!”
+
+“What are your recommendations for handling Myrin’s Keep, then?” Bixi asked.
+
+His mind quickly caught up, recognizing the unspoken opportunity she was dangling in front of him like an electrum vault key. “I request to be assigned as the factor for Myrin’s Keep on Silver Cog’s behalf. There is sufficient value to establish a profitable auction house outlet there, and the main challenge will be unseating the incumbent monopoly trading company, which is why I would suggest deploying a company lawyer.”
+
+“Very well,” Bixi said. “Your request is granted. You may speak with my assistant to finalize your budget and choose your staff. Congratulations on your promotion, Worthington Glimmerbuckle – I look forward to seeing excellent profits added to our balance sheet.”
+
+Suddenly, his collar felt three sizes too small. Worthington swallowed awkwardly. “Uh, yes. Yes… indeed.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

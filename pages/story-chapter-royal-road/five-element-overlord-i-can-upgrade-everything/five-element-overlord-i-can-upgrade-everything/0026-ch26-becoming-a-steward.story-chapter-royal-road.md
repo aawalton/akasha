@@ -1,0 +1,103 @@
+---
+id: 9af2959a-2073-5d97-9567-942ee188365e
+page-type-slug: story-chapter-royal-road
+title: "Ch26 Becoming a Steward"
+slug: 0026-ch26-becoming-a-steward
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 26
+ownLength: 1056
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3241051/ch26-becoming-a-steward"
+royalRoadId: "3241051"
+---
+
+I don’t have to collect much, only my bow and arrows to keep up appearances. The rest of my true belongings are safe in my storage.
+
+The walk up the dirt trail is much longer than I expected it to be. While maintaining my concealment at a 1st level qi refiner, I begin to sweat and breathe heavily by the time we make it over 8 kilometers away from the servant camps.
+
+It is in the complete opposite direction of the ravine, toward a towering mountain that has been almost entirely out of sight for my entire stay in this sect.
+
+The closer we get, the more stewards I begin to see walking up and down the dirt road we’re on.
+
+They all head off in different directions. Gu Shan points ahead.
+
+“We’re almost to one of the Western Mountains Steward’s Quarters. This is a fairly new base set up about 3 years ago to continue our westward expansion toward the ravine.”
+
+I nod along, taking in the view of an enormous clearing in the rocky forest.
+
+“There are about 50 stewards that stay here at all times. Half of them have the same exact job that I’ll be giving you. You’ll be looking after a collection of servants, and making sure they chop down all the trees in the vicinity of their huts.”
+
+He points toward a sloped rock cliff with three layers of walkways on it. Each walkway has a large hole carved out, like artificial caves.
+
+“Deep beneath this rock wall, there is a small low-quality 1st Tier Spiritual Vein. As a steward of the Azure Cloud Sect, you’ll be granted your own cave abode to cultivate in.”
+
+He turns his head and points to a large wooden building that fills up a portion of the clearing in the woods.
+
+“That is the dining hall, and steward’s check-in station. You’ll be able to meet fellow stewards, pick up rations for your servants, and even sit down for a hot meal of your own every morning.”
+
+Then, he points to another large wooden structure on the far side of the clearing. “That is the bathhouse, for washing yourself, and to have your steward’s robe cleaned if need be.”
+
+My neck starts to hurt from looking up at the caves, then toward the two large structures in this clearing. Gu Shan leads us toward the larger one. We enter the dining hall together.
+
+All of the grey-robed stewards bow and greet Senior Gu with reverence as he walks past the many uniform seats and tables in the hall.
+
+He takes me to the back section, where there are only two workers behind counters, and papers pinned up on the walls behind them.
+
+After a few shared words, a few flashes of light on a recording jade tablet, me handing in my servant token, and many bows of respect, we’re already on our way out of the hall.
+
+Gu Shan guides me up the slanted, thin, rocky road to the second layer of the stewards’ caves, and points to one. “Cave 33 is all yours.”
+
+He shoves a grey robe, a small grey token with my name and ‘steward’ on opposite sides, an empty storage pouch, and a stack of papers on top of it all.
+
+“A map of your servant route is outlined there. You’ll be inheriting all of Zhou Kang’s duties.”
+
+He points to a black dot on the map.
+
+“This is where you’ll drop off your wood at the end of every day. The going rate is 2 spirit fragments for every metal bin your servants manage to fill. What you pay them to keep them working is up to you.”
+
+He taps a storage bag on his waist, and 30 spirit fragments drop on top of the map.
+
+“You’re in charge of 35 huts. Only 28 are filled right now… actually, 27 now that you’re no longer a servant. This should be enough to pay everyone starting tomorrow. After that, you’re on your own.”
+
+Gu Shan smiles at me, then looks up to the sky as though he’s trying to think.
+
+“And that’s about it… any questions?”
+
+I stare at him with an open mouth, slightly overwhelmed at everything happening so fast.
+
+However, I’ve been far more concentrated on the density of qi in the air the moment we stopped in front of my new cave abode.
+
+It’s at least three or four times more dense than the air outside. It’s like nothing I’ve ever seen before.
+
+I shake my head, eager to go inside and see where this energy is coming from. “No, I think I’ve got the gist of it.”
+
+He nods and turns away. “Good. If any of your servants die or run away, be sure to report it to the hall. Their bodies will be collected, and circumstances will be investigated to report back to their families, if they have one. Every month or so, a new batch of servants are brought in by me or another Outer Sect Disciple. So, save up your spirit fragments. You’ll need to buy replacements more often than you think.”
+
+The green-robed cultivator walks off, leaving me with these words.
+
+I stare at him in a daze, but soon a familiar notification of golden text materializes in front of my eyes, shaking me out of it.
+
+[Ding!][Congratulations! Side Quest Complete: Become an Azure Cloud Sect Steward!][Collect Your Rewards!][YES] [NO]
+
+I click yes, and mentally speak to the system, ‘That’s right… side quests…’
+
+[Ding!][Rewards have been deposited into your storage!][x3 Perfect 1st Tier Upgrade Card][x1 Minor Lottery Draw]
+
+The instant three more bronze cards and a 20-sided die fall into my storage, another automatic notification pops up.
+
+[Ding!][Host has requested to see available quests.]
+
+[1 Main Quest Task Available][Officially join the Azure Cloud Sect by becoming an Outer Disciple.]
+
+[3 Side Quest Tasks Available][Reach the 4th Level of Qi Refinement, becoming a mid-level qi refiner.][Kill 5 Spirit Beasts (1/5 complete).][Take over the Blood Sword Sect Stronghold within the Ravine.]
+
+[??? Mysterious Quests Available][Hidden]
+
+Quickly, I scan what has changed and find the spirit beast quest and the stronghold quest.
+
+‘System. These side quests are not random… they’re in reaction to what I’m already doing, is that right?’
+
+No response comes back.
+
+I let out a complex sigh, and turn to enter Cave 33.

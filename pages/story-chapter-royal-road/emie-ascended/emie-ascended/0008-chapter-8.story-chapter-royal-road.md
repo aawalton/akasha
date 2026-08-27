@@ -1,0 +1,169 @@
+---
+id: 0155f93d-ead9-5b0c-bf93-b55f97ebe252
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8"
+slug: 0008-chapter-8
+partOf: emie-ascended
+position: 8
+ownLength: 2228
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3461661/chapter-8"
+royalRoadId: "3461661"
+---
+
+“Do you have any other questions for me before I escort you to the Delver Association to register?” Priest Zeth asked.
+
+“Just a couple,” I replied. “The entity who greeted me mentioned there was a way to hide my titles. Can you show me how to do that?”
+
+Because it wasn’t something I’d needed to learn in the simulation, I had no idea how to go about such a thing. I didn’t so much mind my Ascender status being on display while within an Ascender Dungeon, but I didn’t think having the Contender title visible would be a good idea if I wanted to avoid drawing attention.
+
+Priest Zeth walked me through the process, which turned out to be pretty simple. First, I had to focus on the title as if I wanted to read the description.
+
+[Contender – A title reserved for those rare few Ascenders who are both stronger than average and have performed a service of great value for their deity. The title grants the bearer a five percent improvement in essence absorption. The title also grants the bearer a moderate boon. *Note: The boon for this title has already been exhausted.]
+
+After reading through the description and learning that the essence bonus would apply to any member of my party – a fact I should probably keep to myself until I was sure that I could trust the people that I eventually partnered with – Priest Zeth directed me to focus on the title once again.
+
+[This title is currently visible. Would you like to hide this title?]
+
+“Yes,” I said aloud while focusing my intent on hiding just the Contender title and leaving the Ascender title visible. A moment later, I asked, “Did it work?”
+
+“Check your status,” Priest Zeth instructed me.
+
+***
+
+Name: Emie NeohimTitles: Ascender, Contender (hidden)Level: 7Evolution: None
+
+Core Skills: Demesne (Rare)Stasis (Unique/Common)Restorative Healing (Rare)Lightning Bolt (Common)
+
+Skill Slots (8/14):Divide Space (Unique/Common)Dimensional Anchor (Uncommon)Teleportation (Common)Herbalism (Common)Repulsion Aura (Common)Haste (Common)Telekinesis (Common)Identify (Common)***
+
+I didn’t think that reaching level seven in two days was a bad showing, especially for someone delving alone.
+
+“Does time in the dungeon go faster than it does on the outside?” I asked.
+
+Priest Zeth smiled at the question and nodded his head in approval.
+
+“It does, though the effect is minor for the beginner floors. For every week that passes in the outside world, ten days will pass in the dungeon.”
+
+“And a week is seven days,” I said to verify what I remembered from the simulation.
+
+“It is. A week is seven days. A month is four weeks, and a year is 12 months broken into four seasons of three months each.”
+
+It was almost the same as pre-integration Earth, which I found amusing considering the Alliance had used a completely different measure of time.
+
+“So, beginner floors run just under 1.5x dilation,” I stated.
+
+“Yes. It’s closer to 1.4, actually. First evolution floors have an even greater time dilation. It’s about two to one at the start, with two days passing for every day on the outside,” the priest replied. “Was it not the same in the simulation?”
+
+“It was, but some things are worth verifying,” I replied.
+
+After discussing some of the more mundane aspects of my new realm, Priest Zeth escorted me to the part of the facility dedicated to the Delver Association to handle the requisite registration.
+
+The process of registration included an interview in a private room where I could share any of the skills I felt were relevant for potential parties looking for members.
+
+I had to at least share one, but the Association didn’t require the specific skill name to be shared. All that was needed was a general categorization.
+
+I listed myself as a generalist with experience delving alone and with a group. The group part was a stretch, but I had delved with a partner for about half of my life. I’d also worked as a member of a team multiple times, so it wasn’t an outright lie.
+
+I didn’t share all of my skills, but I did admit to having a healing skill since I’d probably end up moonlighting as a Healer part-time.
+
+I also admitted to having an inventory since I needed to explain how I’d already collected so much loot, though I implied that it was a new skill instead of one I’d carried over from my previous realm.
+
+Aside from those, I claimed Lightning Bolt, Teleportation, and Identify to cover offense, mobility, and intelligence. With just the five skills listed, I would likely be a desirable enough teammate, which was the whole reason I’d shared as much as I did.
+
+Because of their divinely granted inspection skills, I had no doubt that members of the clergy would be able to see the rest of my skills; however, I doubted any of the clerks working for the Association were actual members of the clergy.
+
+Though they were certainly connected, it looked like the temple and the Delver Association still tried to keep to their own roles.
+
+“Just to verify, the healing skill is a core skill, correct?” the interviewing clerk asked.
+
+“It is. So is Lightning Bolt,” I offered.
+
+The clerk nodded happily. “That’s good. If you are interested in earning some additional funds between delves, the medical facility located next to the dungeon portal often apprentices healers to help in the hospital and clinic. They are always looking for people with healing skills, particularly core healing skills.
+
+“The pay isn’t much compared to what you’ll be able to make once you reach the first evolution, but that’s going to be the case with any apprentice position. And before you ask, yes, you are limited to apprentice positions until the first evolution, even if you are an Ascender with thousands of years of experience.”
+
+His expression and tone made it clear that he thought the rule was silly, but neither of us was willing to voice such an opinion, given its source. The last thing I wanted to do was draw the ire of a real and active goddess.
+
+I could understand the higher demand for healers with core healing skills over general healing skills since core skills took a lot less focus to use.
+
+Focus wasn’t really the right term for it, but it was pretty close. Spiritual stamina might be more accurate, but I felt that the term ‘focus’ sounded better.
+
+Magic in this realm was fueled by ambient essence, but there was a limit to how much essence a person could control or direct before the strain of doing so became too much.
+
+Those who pushed too far could easily find themselves passing out because their mind couldn’t take the strain anymore. Resting or meditating helped, but unless the person took a significant break, the fatigue would build up, making it increasingly difficult to use magic-based skills.
+
+Core skills were significantly less straining to use. For skills like Demesne, it was basically impossible not to keep it active, so the impact was negligible. That meant I’d be able to heal longer and better than a comparable healer with only a regular, non-core healing skill.
+
+“I will keep that in mind,” I promised.
+
+“Would you like me to mark you as interested in joining a party?”
+
+“Please.”
+
+“Are you open to working with natives?” the clerk asked. “I know a lot of Ascenders don’t want to bother with us because we have fewer skill slots and seem pretty immature compared to those who’ve lived for centuries or millennia, but there are several groups who could use someone like you.
+
+“In fact, there are dozens of groups in your level range who are actively seeking Ascender party members. Some have significant backing in the city and access to a much larger variety of resources than a copper ranker would otherwise be able to acquire.”
+
+I had no doubt the clerk spoke true, but though access to better weapons and gear was certainly appealing, I wasn’t inclined to join a group of natives if I could find an Ascender or two to work with instead.
+
+It wasn’t that I believed they were lesser in any meaningful way; it was more a matter of experience. I didn’t want to be saddled with a newbie, no matter how well-connected they might be. And I certainly didn’t want to be beholden to someone with little to no functional experience.
+
+“I’d rather not,” I said apologetically.
+
+“Understood,” the clerk said, looking a bit disappointed. I imagined most Ascenders probably gave a similar response.
+
+“How many Ascenders have appeared so far?”
+
+“You make seven.”
+
+I was surprised that six other Ascenders had already left the dungeon, considering it had only been a bit less than two days inside the dungeon since I appeared.
+
+I assumed the others had come at the same time or immediately following my arrival, which meant they hadn’t really spent much time in the dungeon at all.
+
+Trying to hide my surprise, I asked, “Do you have a list of Ascenders who are looking for a party?”
+
+“All but one Ascender indicated they were interested in joining a party,” he said before handing me a surprisingly modern-looking piece of paper.
+
+The paper I remembered from the simulation was a little rougher than this, closer to parchment, really. It shouldn’t have surprised me, given the time that had passed.
+
+“This is the information I have on each Ascender,” the clerk stated. “None have registered as a group aside from a couple who ascended together, and they have indicated they are open to additional party members.”
+
+“Thanks,” I said, tucking the list into storage. “I have one last question. A friend of mine ascended a short time ago – at least from my perspective. He said he would leave a message for me with the Delver Association. How might I go about retrieving it?”
+
+“What is the Ascender’s name and realm of origin?” the clerk asked.
+
+“Henlen Kairos, though he said he planned to go by Kai after he ascended. He is also from Neohim.”
+
+The clerk looked through his records for a few moments before asking, “When did you say he ascended?”
+
+“Less than a year ago, Neohim time.”
+
+The clerk frowned. “The last person I have a record of with a name similar to Kai is Kaero, and he ascended from Ronstar about seventy years ago. Neohim is notorious for placing his realm in stasis to correct timeline imbalances, so it’s hard to know how much time might have actually passed.”
+
+“There should have been a significant uptake in the number of ascenders recently,” I offered. “There was an incident a few decades ago, and Neohim had to prune most of the excess timelines. He even implemented limitations to prevent new timelines from being created, so hopefully, whatever issue there was has been resolved.”
+
+“It’s about time,” the clerk muttered before his face grew pale as he realized he’d just openly criticized a god. Clearing his throat, the clerk quickly continued, “Ahh, I do see where a significant number of ascenders appeared nearly all at once, but that occurred approximately thirty local years ago.
+
+“Most lower realms effectively run about fifty times faster than Dia, so if the incident occurred thirty years ago from your perspective, they should have all appeared in the last year.
+
+“I do see several additional arrivals in the months immediately following the influx from Neohim, but you are the first since then. As far as I can tell, none of the arrivals were named Henlen, Kairos, or Kai.”
+
+That made no sense unless there was some sort of delay involved with the establishment of a new Realm Dungeon. Even then, Kai should have arrived before me. It didn’t make sense that there was no record of his arrival.
+
+The clerk frowned, causing a furrow to appear between his brows. “Was your mentor a Fate or Soul Mage, perhaps?”
+
+I felt a seed of trepidation at the question. Rho had mentioned that Fate Mages were redirected to a different realm. And though Kai was a Time Mage, he had acquired a new affinity just before his ascension.
+
+Unfortunately, I had no idea what that affinity was. In hindsight, I should have inspected him as soon as he left the trial. But at the time, it hadn’t occurred to me.
+
+“He was a Time Mage, but he gained a second affinity just before he ascended,” I admitted, already suspecting the worst. “His sister was a Fate Mage, so I guess it’s possible he might have awakened a Fate affinity.”
+
+“If you are certain that he ascended, then I’m sorry to say that it seems likely he was redirected to an allied realm. It happens, on occasion. The goddess has never explained why this is the case; however, it is a well-documented fact that no Ascender coming to this realm has ever held an affinity for Fate or Soul magic.”
+
+I stood slowly.
+
+“The representative I met during my ascension said as much. I just didn’t realize…” My voice trailed off. I was sad that I wouldn’t be able to reconnect with my former mentor and friend, but I wasn’t quite as sad as I would have expected to be.
+
+It must be whatever the realm is doing to mute strong feelings about the past. I wonder how long the effect will last.

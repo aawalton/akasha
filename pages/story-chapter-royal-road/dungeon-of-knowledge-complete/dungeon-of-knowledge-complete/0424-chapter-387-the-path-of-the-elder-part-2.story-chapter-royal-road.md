@@ -1,0 +1,211 @@
+---
+id: 47066dc2-c431-5273-9d45-98502602e549
+page-type-slug: story-chapter-royal-road
+title: "Chapter 387: The Path of the Elder (Part 2)"
+slug: 0424-chapter-387-the-path-of-the-elder-part-2
+partOf: dungeon-of-knowledge-complete
+position: 424
+ownLength: 3111
+unit: words
+ownProgress: 3111
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2619940/chapter-387-the-path-of-the-elder-part-2"
+royalRoadId: "2619940"
+markedReadAt: "2026-06-29T20:26:24.119Z"
+---
+
+One should never resort to violence. But when you must, strike with all that you are.- Kamari Ren, Elder of the Ahn Khen, legendary master and inheritor of the Ninefold Way: Fists of Coherent Integrity.
+
+The Lich’s laughter faded as he stood unharmed behind the legendary Ahn Khen martial shield technique.
+
+Rezan’s mind snapped back to the first time he had ever heard that notification. The first time he had witnessed the true power of an elder – a master of one of the nine paths. His mentor, his master, Kamari Ren.
+
+“You are not ready, boy,” Kamari said.
+
+He saw her as clearly as if he were back in Kezda that day so many years ago. It had been overcast – a chilly day that threatened fresh snow. They had been sparring, and he had just been handed a particularly humiliating defeat. He got to his feet and looked down upon her aged, weathered face, standing calmly in her pristine white belted robe. There was not a scratch on her, for all his furious efforts – not even a speck of dust, and the ramrod straightness of her spine and the sheer weight of the presence she emitted caused her to tower over him in his mind.
+
+“But why?” he demanded – more than a little petulantly if he was remembering it correctly. He had shied away from confronting her, falling short of actually asking so many times, but for some reason – perhaps he felt reckless in his embarrassment – today he had just blindly barreled onward and just blurted out the words. He ignored the dangerous flashing in her eyes and continued; he was too far along to stop now. “I’ve learned the Instantaneous Strike, and you said that was the requirement. Teach me the Ninefold Way. I need to know.”
+
+“The impatience of youth,” Kamari said, sighing. “Rezan, you’re too young. If I show it to you too early, you will struggle. When you fail, it will discourage you. You will give up. Stay true to your training and you will get there eventually.”
+
+“When I’m as old as you?” he asked, putting some of the bitterness in his heart into his words. There had not been a hint of confidence in his chances. As if she’d written him off before he’d even had a chance. “We have lost four of the nine ways. When you die, you will take yours with you to the ancestors, and the Ahn Khen will be diminished again. Isn’t it your duty to pass it on?”
+
+Her eyes blazed once more, and he flinched back, knowing he had stepped one step too far. In hindsight, it had been many more than one.
+
+His master remained silent for a long while.
+
+Rezan contemplated his impending punishment.
+
+“Perhaps it is for the best,” Kamari said. “Come with me.” Mana blazed forth from her eyes, glowing a sudden intense blue, and the world around them shimmered and blurred. Rezan stumbled, but when he looked about, he found himself standing in exactly the same spot. The enormous rock was perched beside them, overlooking the river and the waterfall. The trees were still there, only everything was gray.
+
+“This is the Spirit Realm,” Kamari said – a matter-of-fact statement that belied the significance of what she had just said.
+
+“Why are we here?” His heart was racing in his chest, but nothing appeared to attack them. Yet her magic had simply transported them into another realm, just like that. Effortlessly.
+
+“It would be… rude… to wake up the world. The ninefold way is… noisy,” she said. “At least in this realm, we would not wake anyone up with your demands for a demonstration.” She glared at him then, and he felt the sting of shame touching his cheeks.
+
+Kamari Ren drew herself up to her full, imposing height of five-foot-four and removed the shawl from her shoulders. She placed it upon the ground, laying her staff carefully on top of it, and then turned to face the gigantic boulder. “You have indeed learned the Instantaneous Strike technique quicker than most,” she said. “If you meditate upon it and the forms, the path should become clear to you in time.”
+
+“But I need to see it,” he demanded. Kamari might be the legendary master, but all he had been getting was her endless patience, and he was sick and tired of it.
+
+“Then destroy this boulder with your fist,” she said, gesturing mildly at the huge boulder – a rock which was probably larger than his house.
+
+“That’s impossible,” Rezan said. “Nobody has a single punch that powerful. Not even you, master.”
+
+“Oh?” Kamari said, glancing sideways at him. “And you know this for certain?”
+
+“Yes,” he said. “It would take at least ten thousand punches to break that rock down into sand.” Truth be told, he was giving her the benefit of the doubt. He knew even ten thousand was not likely even close.
+
+“Watch then. Watch and learn.”
+
+She breathed in deeply through her nose, closing her eyes, and brought the fist of one hand to meet the palm of the other before her heart. Quietly, she bowed her head, and reality bent a little all around her, as if it were bowing back.
+
+Rezan gasped at the sight.
+
+With a strangely languid slowness, she pulled her fist back and released a punch. Rezan watched carefully, studying the flow of stamina through Kamari’s body as the demonstration punch began to unfold before her. There was nothing particularly exceptional about it. Other than that it was of perfect form.
+
+But then, as her fist began its forward trajectory, her body glitched. A strange flicker of decoherence, similar to Instantaneous Strike. An echo of her body reappeared standing in her initial stance, and she began to unleash a second punch, just as the first was approaching the halfway mark.
+
+It’s… faster?
+
+Rezan watched, unable to drag his attention from his master even if he had wanted to. The second punch chased the first, catching up. Again, her body glitched. Again, the decoherence manifested. A third punch began to unfold. Identical to the first two in every way, just a hair faster.
+
+Rezan’s eyes widened as another, and then another punch appeared. Quickening as they came, Kamari’s body began to blur with speed, a flickering echo that started over again and again while the first punch still traveled its way onward toward the target. He lost count at three hundred, but still she flickered and blurred until she stood as a perfect, unbroken path, her body in every part of the pose from the moment of inception to the point of striking. Simultaneously.
+
+Every single one of her thousands of instances turned her heads slightly toward him. “Do you see, Rezan?” she said. Suddenly, every single punch blasted forward, a wave of synchronization as they all caught up with the first at the precise moment of impact.
+
+A resonant gong seemed to shake his very soul.
+
+[Realm] Kamari Ren [Legendary Master] has used The Ninefold Way: Fists of Coherent Integrity.
+
+The detonation threw Rezan onto his back, knocking the wind out of him. When he sat up, all he saw was Kamari Ren quietly regarding him as she brushed dust off her robe. Behind her, where the boulder had once stood, nothing more than a flat shelf of stone remained overlooking the waterfall.
+
+“Ten thousand punches, as requested,” she said mildly.
+
+Rezan closed his gaping jaw with a snap, earning a ghost of a smile from his master. Hastily, he scrambled to his feet and offered a bow of the deepest respect.
+
+“I’m sorry, master,” he said, and meant it. The full weight of his impetuousness had just been made clear to him as if her punches had opened the eyes of one previously blind. He had always been aware that her title had been earned.
+
+And yet, he had had no idea what it truly meant before this moment.
+
+“Stand up, Rezan,” she said, steel returning to her voice, as straight as her spine. “Now you will do it.” Her eyes flickered, and with that, the entire clearing flickered too. To Rezan’s enduring astonishment, the boulder reappeared, as if he had just dreamed up its destruction. To this day, he still couldn’t fathom the mastery that had taken. “Come on,” she said, urging him forward.
+
+With a sudden breathless, heady excitement, he stepped forward to try his hand at what was the most powerful ability he could ever have imagined.
+
+He punched the rock as hard as he could. He broke his hand.
+
+And that was a hundred and thirty years ago, he thought. It had taken a year and a half to finally understand the technique – to break the boulder. In that moment of perfection, when he had witnessed her strike, he had made a promise to himself that he would never give up. His master had believed that he would get discouraged, and yet, she had shown him the technique against her better judgment. He owed it to himself and his people not to squander her trust. It had taken a year and a half of broken wrists and fingers, frustration and pain – and he had learned in excruciating detail what she had been trying to protect him from. But in the end, sheer stubbornness won over the rock.
+
+I just wish I could show this to Malika and Sabri, he thought. But now, they will never see it.
+
+“You have trained your disciples well. Have a little faith in them, Rezan.” The words of Kamari Ren echoed in his mind, startling him out of his vision. Then she continued, “Remember, punch with all that you are.”
+
+The ancient echo of his master’s voice faded from his mind as she recalled for him the words that had earned him his breakthrough all those years ago.
+
+‘Punch with all that you are.’
+
+Fitting.
+
+Out in the midst of a sea of boiling darkness and skeletal hands, Nevyn Eld’s withered fingers curled around Val’korr’s neck. The Troll struggled weakly, his feet kicking above the overwhelming dominance of magic that drained his soul of power and vitality.
+
+Of Lyeneru, there was no sign. All that remained of the forest she had been darting through was splinters and shattered trees.
+
+“Now you die, ancient troll. You will join my army of undead.”
+
+A dense kernel of mana formed within the Blind Lich’s chest, a kernel so intense Rezan could barely look at it. But it was not death magic – it was soul. His heart froze as the Lich reached for his crimson blindfold, for Rezan knew with certainty what this was.
+
+Rezan stepped forward and suddenly appeared before the Blind Lich. Dark magic tore at him, but he ignored it. Bowing his head, he offered his respect to the Ancestor, Kamari Ren, who had taught him so well.
+
+Then he punched.
+
+Reality bent around him, and the furiously bubbling darkness paused, as if the world itself held its breath. He flickered, unleashing his second punch. Just like he had learned, he made it faster than the first. Then he restarted and punched a third time.
+
+When he had destroyed the boulder, it had taken nearly four hundred punches to shatter it. The Aegis of Absolution, though, was no boulder. A pinnacle skill of the ninefold way, it would take far more damage than a mere boulder. Still, Rezan had been practicing his technique every day since his epiphany, and he was far from weak. His body blurred, even to his own perception, as he unleashed punch after punch, every single one imbued with his energy and power, an accelerating cascade bearing the weight of his years of training.
+
+Still, he continued. Punch upon punch upon punch.
+
+As the cascading wave of punches rose to synchronicity, the crescendo of power twisted reality inside out. Through the warped path of his infinite fists, he saw the lithe figure of Lyeneru emerging from behind a tree. He saw the twitching form of Val’korr mid-fall toward the ground, suspended there like the world was frozen.
+
+Every punch caught up at exactly the same instant.
+
+[Realm] Rezan Jin [The Teacher] has used The Ninefold Way: Fists of Coherent Integrity.
+
+The thunderclap of his strike blew out his eardrums. The path of his fist connected with the shimmering blackness of the Lich’s Aegis of Absolution, and the shield shattered. A dense shock-front of soul magic blasted forth, multiplied by countless strikes, and burst through the Blind Lich’s chest, knocking him to the ground. The blast wave tore an enormous furrow in the earth, flinging dust and rubble into the air as far as he could see.
+
+The debris slowly rained down, but Rezan’s eyes were only on the Lich.
+
+Cruel, hissing laughter filled the devastated clearing, and suddenly the Lich’s hand shot out, piercing his chest and grasping something within. Something, his soul perhaps, screamed in agony.
+
+But he had been standing in the Lich’s deadly magic for far too long already. That was all he had. He was spent.
+
+“You should know better, old man. My soul is not here. And now I have yours.”
+
+As he began to pull, Rezan felt the agonizing tearing as his soul was slowly ripped from his body.
+
+But the resonance of his punch – his Fists of Coherent Integrity – continued to mount, energy tearing away at the gaunt undead frame. The triumphant smile froze.
+
+“What did you… DO?” the Blind Lich screamed, twisting his soul with fury.
+
+Rezan just smiled. She had been right. He had punched with all that he was, and his attack had finally surpassed the legendary Kamari Ren.
+
+His punches had turned reality inside out, and as it reverted, the aftershock unleashed a strike upon the Lich far greater than the first. And this time, there was no shield to protect him.
+
+As the darkness rose to claim him, Rezan saw the flickering energy of Val’korr’s Ritual Infusion, followed by the enormous bolt of fire and lightning that flew out from behind shattered trees. Perfectly timed to Ambush the Blind Lich as he stood there defenseless, stripped of all his magic and dying.
+
+I knew she was good, he thought, and he had the satisfaction of watching the Blind Lich’s body blasted into pieces. Before the darkness claimed him, he witnessed the black tether loosening, and the trapped viridian-green wisp broke free.
+
+Lyeneru stared with revulsion at the twitching form of the elder, clawing the ground with lifeless fingers and feet, slowly trying to rise. Rezan had most certainly saved Val’korr’s life, and probably her own, and in the process, created the perfect opportunity for her to strike. She was not even sure her Ambush had been needed – not after witnessing the immense power Rezan had unleashed upon the Lich’s Avatar.
+
+But now the remnants of the Blind Lich’s vile magic perfused the elder’s corpse with its cursed unlife.
+
+She clutched her bow and nocked an arrow, stepping back as the monster that had once been Rezan began to stand. This could have been my fate, she thought, remembering just how close she had come to dying when she had last fought the Lich. But that incarnation had been a pale imitation of the one Rezan had just killed. She twisted her mouth and ignited her arrow.
+
+“Stay your shot,” Val’korr said, reaching over to rest a hand gently on her forearm. “I will release his soul to the afterlife.” The ancient troll waved his other hand, sketching out several intricate magic formations into the air, and then began to use his Soul Drain.
+
+“What are you doing to him?”
+
+“Spirit Banishment with Soul Drain. When combined with the proper Ritual Infusion, it can release the soul of an undead. Provided it’s performed soon enough, and the soul is willing.”
+
+“An exorcism?” Was such a thing honorable? Were they desecrating his memory?
+
+“He fought well. I would send him to his Ancestors without the indignity of serving that monster,” Val’korr said, answering the unspoken question in her heart.
+
+Lyeneru found that she agreed with his sentiment, regardless of her uncertainty about his methods.
+
+A softly glowing blue figure emerged from the writhing, fresh undead monster, and the body dropped lifeless to the ground. Rezan’s spirit paused, hovering for a few moments above his own corpse, as if fixing this place in his memory. Then he bowed to her and Val’korr and turned and walked off, slowly growing more and more indistinct, more transparent, until she could no longer make out anything other than the dull gray of the spirit realm.
+
+He was… smiling?
+
+Naia huddled in a crevice far below the ground, summoning slime after slime in a vain effort to stem the tide of monsters pouring through the Gate.
+
+But she was almost out of mana.
+
+A horrid creature had suddenly appeared from nowhere and destroyed the dungeon. Then it had sent Ali-friend fleeing for her life. Ali-friend had told her there were monsters much stronger than she was, but Naia hadn’t believed her. Not truly. Still, she didn’t care how powerful it was; the next time it showed up, she was going to swallow it and dissolve it into mana.
+
+But I have to survive. First, survive. Then I will help Ali-friend.
+
+Several more of the big fungus monsters burst through the Gate, shredding her dwindling defenders with their endlessly powerful jaws and tearing claws.
+
+Just then, the Gate began to shimmer and suddenly, it vanished, leaving just a cloud of mana in her mana-sight.
+
+Ali… friend?
+
+A sense of dread overwhelmed her hope. Ali had been looking out for her, trying to save her from the Blooming Rot. But the Gate was gone, and Naia had no way of helping Ali-friend now.
+
+Something had gone terribly wrong, and there was nothing she could do to help.
+
+Naia’s membrane shook with the force of an immense rumbling that crashed through her tremor sense, feeding her the image of a gargantuan wyrm tearing its way through the rock from far below.
+
+Rift monster!
+
+In panic, Naia threw herself deeper into the crevice, abandoning everything in the hope of hiding from the coming behemoth. Deep in the darkness, she hid, assuming the shape of a rock and trying not to tremble while the wyrm tore its path through the ground. Its very presence ripped at her membrane with enormous magical power, but it rushed past, heading straight for the city above, leaving Naia trembling and alone in her hiding place.
+
+Ali-friend. Please be ok!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

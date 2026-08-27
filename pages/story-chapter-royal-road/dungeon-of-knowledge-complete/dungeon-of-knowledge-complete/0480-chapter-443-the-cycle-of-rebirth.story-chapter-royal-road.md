@@ -1,0 +1,219 @@
+---
+id: 38c8fa4e-86b2-585b-9cc8-08ea825f9916
+page-type-slug: story-chapter-royal-road
+title: "Chapter 443: The Cycle of Rebirth"
+slug: 0480-chapter-443-the-cycle-of-rebirth
+partOf: dungeon-of-knowledge-complete
+position: 480
+ownLength: 4299
+unit: words
+ownProgress: 4299
+publishedAt: 2025-11-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2763358/chapter-443-the-cycle-of-rebirth"
+royalRoadId: "2763358"
+markedReadAt: "2026-06-29T20:28:28.856Z"
+---
+
+Malika felt the subtle shiver that pulsed through her body, her mind, and her soul. All her skills suddenly came just a little easier, and she knew Abiding Perseverance had ticked up again. Her fists flew, following the seventh form of the most basic sequence in the Nine Paths of Ahn Khen, and she channeled a little more stamina into accelerating her movements, pushing them even faster. The rest of her extra stamina went to boost her attributes by overcharging Perfect Body and empowering her Soul Strike even more.
+
+The pulses of her soul magic punched clear through the trunk of the giant Treant, flashing blue as each rapid strike ripped a little more mana from the monster. It felt like trying to empty an ocean with a teacup for all the effect it had on the giant mana pool, but she knew her punches were coming quicker, and overcharging Soul Strike allowed it to steal more mana per strike. Eventually, she would wear it down.
+
+Stamina flickered within the monster, but she ignored this formation. She had already learned which one was which – this was the heavily empowered crushing blow, and Mato could handle the damage just fine, so she left it to him. Sure enough, a fraction of a second later, the loud crack and shimmer in the air told her he had reflected the damage back to the tree with a well-timed Critical Block.
+
+A surge of mana flared within the floating eye demon beside her, and she teleported out of the way. Or at least she tried to, forgetting in that moment that all teleportation was suppressed. Her magic was repelled like she had tried to dive through a wall of soggy mattresses that absorbed it without any tangible effect. Quickly, she scrambled sideways, unleashing a couple more strikes into the tree, barely dodging the dense, golden, sparkling cone of energy unleashed from the massive central eye. She definitely did not want to get in the way of that. The Malevolent Oak’s mana suddenly dipped dramatically.
+
+With near instant reflexes, the mana was replenished as the other Treants donated extra. It all helps, she reminded herself. Their target was the entire shared mana pool of the four monsters, not just this one, and despite all appearances, they didn’t possess an infinitely deep well of mana.
+
+There! Suddenly, she saw the formation she had studied, learned, and marked. An unusual ability that sent stamina flowing down through the tree’s extensive, dark roots, and almost always ended with a large increase in mana – an ability she had deduced was the same corpse-composting skill Seth had identified. She channeled her energy into her eyes and pulsed it outward with a glare using Martial Disruption. Stamina turned into a searing pulse of energy that shot from her eyes, tearing the formation into shreds even before it had finished coalescing.
+
+I may not be able to steal as much mana as that demon, but I can prevent it from feeding. Again, she could only affect one of four, but a quarter less mana recovered was a substantial win.
+
+Malika dodged back down as the sensation of heat emanating from her eyes faded and pulsed more stamina into Mato than she needed to fully heal him, causing her overheal nova to burst forth from his body and granting Clarity and health to all the melee within range.
+
+There, that should hold them for a bit. Then, she felt the subtle shiver through her body once again, and again shifted her reservations, boosting her power. The glow from her fists brightened perceptibly, and she grinned fiercely. The longer this goes, the harder I hit…
+
+Ali’s Grimoire flashed brightly as her third Bone Champion appeared right beside her, hunched over with his head bumping up against the curved barrier dome. “Get to Basir and keep Mortal Wounds up on his tree,” she commanded, deleting a section of her barrier dome briefly to let him out.
+
+“Yes, Seeker,” he intoned, wasting no time as he launched himself through the gap and into the fray, but it was then that she noticed the problem.
+
+All around her, the healers were frowning, casting with feverish urgency. Belmar cursed into his bushy beard and downed a fresh mana potion. Somehow, the damage had escalated, and they were all struggling. Ali didn’t have to look far for an answer, as soon as her gaze left the convenient protection of her barrier, she saw all the mages and archers being bombarded with an unceasing rain of rot-bolts, and the treants were rapidly gaining mana again.
+
+Previously, with the Treants split into two groups, the circles of the rot-bolt minimum range had intersected in a stretched oval of generous size, enough to create a safe zone for all the ranged damage dealers and healers. Now that the giant treants were split to the four points of the compass, there was still a safe zone, but it had decreased down to barely enough area to contain her half-dome barrier.
+
+This is backward. Ali was protecting the only people who weren’t getting hit. Obviously, the raid needed the healers inside the barrier for the Death Storm, but she could do it out there under the rot bolts with little extra risk and effort.
+
+“Move. I need everyone to move with me,” Ali decided, unhitching her barrier dome from the ground and moving it out into the storm. She got several surprised and fearful glances from the healers, but the moment they realized she wasn’t removing their protection, they shuffled along with it as she slowly shifted them out of the safe zone. She didn’t even have to say a word; the mages and archers immediately filled the suddenly vacated area, and the healers suddenly started smiling.
+
+“Aye, thank you,” Belmar said, wiping his brow with the back of his hand as he pulsed several holy formations out of his other arm.
+
+“Yes, that’s a load off,” Teagan said, refreshing a totem and firing a long ribbon of emerald-green nature healing through the barrier and into the mage group outside.
+
+Outside, the rot bolts fell like hail, rattling and cracking against the golden dome, but the barrage didn’t scare any of the healers inside.
+
+Oh, mana! Ali thought as a rising surge of reclaimed mana rushed into her mana pool, leeched from the constant rot barrage by her barrier’s magic. Not eager to be turned into a lightning rod again, she began to channel all the excess into her Empowered Summoner, grinning at Tol’brekk’s roar of delight as Ali shared her increased power with every minion.
+
+With the most critical issue taken care of, Ali summoned her fourth Bone Champion, assigning it to keep Mortal Wounds on the last treant, and then returned her attention to micromanaging her oozes to prevent the composting root ability from consuming any corpses.
+
+The oversized raid group fell into a tentative rhythm, damaging a tree until Lira’s avatar possessed it, and then shifting over to the next one around in a circle. Ali and the rest of the mages took care of the summoned treants again and again until she lost count of the number of waves that had come. Several Death Storms came and went, each one raising the mana levels within the treants substantially, but Ali had quickly learned to bleed off her excess mana by dumping it all into Empowered Summoner before and after the Death Storm, and her Eyes of Agnor were doing an incredible job of burning through the regenerating mana, keeping things mostly under control. They looked like a pair of nightmarish, leathery jack-o-lanterns blazing with golden light from their eyes.
+
+“Twenty percent,” Ali announced. All the treants were getting low, but Healer’s Sight told her the first one had just hit the marker Calen had asked her to call out.
+
+“Switch, next tree,” Calen called immediately.
+
+“Death Storm,” Ali warned as the now-familiar, massive swell of mana surged from the trees. She ordered her minions to drink their potions. They had undoubtedly made a huge difference to the boss’s mana regeneration, but there were not many potions left. Should I make more? Do I have time?
+
+Ribbons flared across the raid, and the healers buckled down and struggled against the onslaught, their magic the only thing keeping their friends alive.
+
+Ali frowned as the Mortal Wounds effect dropped and the Treants’ mana pools began to rise dramatically, but there was little she could do. Already, they had reduced the regeneration by an enormous factor, but each Death Storm was bound to be a setback.
+
+Right as the ribbons of death magic dropped, the treant below twenty percent health remaining chose to heal instead of summoning more treants, but Ali had expected exactly that, and her golden darts found their mark. It was a small thrill of victory, even though she had probably only gained the raid a minute or two of time, but sometimes those extra minutes meant the difference between winning and dying, a cycle broken that could trigger a downward spiral.
+
+Sabri’s treant hit the twenty percent mark, and then Basir’s. But then they hit a snag. Lira’s avatar possessed Mato’s tree – the last one. With no more viable targets, it was reduced to holding in place, rendering the fourth treant immune. What now? But just before she called out to Calen, the avatar vanished, reappearing overhead again in the spectral form of Lira, spewing fresh taunts at them. For a second, she gazed upward in suspicion, the risk weighing on her mind. No. We have to do this now.
+
+“Go,” Ali commanded. All her minions tore into the remaining treant as she channeled more and more mana into empowering their extra damage. This skill is amazing. It didn’t hurt that in this fight, she had more mana than she knew what to do with. I guess I know what to do with it now.
+
+“Twenty…” she said, but overhead, Lira screeched fit to wake the dead. A bone-chilling screech that went right through her like the wail of a banshee. The air around the undead spirit’s hovering form rippled with black and green mana, pulsing outward from her and smashing into the raid group below, ripping and tearing at their life in an unceasing frenzy of deafening noise and, she realized immediately, a blatant attempt to overload them.
+
+Ali’s mana hit maximum instantly. Already primed, she instinctually funneled all of it into Empowered Summoner before she exploded. Two of her priests flared with the light of Devotion, struggling with the enormous increase in damage.
+
+“Use everything!” Calen commanded, instantly flaring with his Righteous Fury.
+
+“Bloodlust!” Ali shouted. If Calen’s recharge had expired, so had the one on Bloodlust, and the blood runes burst out into the air. Across the full range of her minions, she triggered every single recharge and ability she could find to enhance damage. She burned through the charges of her wand, but still her healers were struggling with the damage.
+
+Just as she was about to despair, Teagan’s voice rang out with a shout, somehow imbued with her nature magic. Tiny green glowing leaves shot outward from her, as if carried upon a gust of wind, spreading out through the raid, coming to rest, circling the heads of every single caster.
+
+You have gained Primal Ritual+30% to spell haste.+30% to Intelligence and Wisdom.Magic Buff – Duration: 30 seconds.
+
+Someone got a fantastic evolution! The ritual was amazing, but Ali didn’t have time to dwell on it, directing the attacks of her minions and reorganizing the now suddenly much faster healers to keep them all alive. But the biggest effect was the giant boost to her intelligence. Almost every skill Ali had, including the ones that boosted her minions, carried the intelligence trait, and every single one of her minions benefited from the sudden increase in her personal power.
+
+Roars, shouts, the crashing of weapons, and the detonations of magic filled the air as she urged her minions on. They tore through the first treant like it was a bundle of reeds and then trained the entire raid group onto the second. Ali disrupted the next heal, relying on her Bone Champions, the tanks, or the Eye of Agnor to interrupt the treants that attempted to respawn their fallen clone. The second treant fell under the onslaught, and they quickly moved to the third. But an instant before the tree collapsed, the Primal Ritual, Righteous Fury, Bloodlust, and many other short-duration buffs which they had burned for extra damage, expired.
+
+Her power dropped, her minions weakened, and her healers began to struggle again.
+
+Oh crap, why now… one final push! She steeled herself. What’s next?
+
+“Devotion,” Ali called, commanding her last priest to use the skill, and then she poured all her remaining mana into Empowered Summoner, urging her minions, trying to eke out every last bit of damage. The Dark Druids shone brightly with her donation of spell power, dispensing restoration to nearly the entire raid. Tol’brekk triggered Last Stand, burning almost all his remaining health to fuel an enormous strike. “Attack! Everyone attack!” Ali shouted. Her Armored Drakes and Devouring Consumptions ignored the summoned treants, turning to attack the last remaining clone. Even the freed-up tanks were trying their hardest to do what little damage they could.
+
+Unbelievably, the bedlam somehow swelled to hitherto-unimaginable pitch, like the thunder of a thousand dragons bellowing at the peak of their destructive wrath as they unleashed infernos across the face of the world. She shivered, eyes darting and doubtless gleaming with mana-sight as she surveyed the final throes of the battle, struggling to wrest fact out of chaos.
+
+“Five percent,” Ali said, her voice sounding strangely calm to her over the continuous screeching of Lira's specter, and the deadly pulsing magic she was emanating. Unexpectedly calm, considering what was going on inside her.
+
+“Three percent.”
+
+“Two percent.”
+
+Twin beams of sizzling void shot down through the center of the treant as her two dragons unleashed their breath attacks in tandem. The beams seared holes through the treant’s battered trunk, punching out the other side and disintegrating a matching pair of holes through one of her Bone Champions on the other side.
+
+Magic flickered to life, but Ali’s darts Disrupted the attempted heal, and the Treant collapsed to the sound of a chime.
+
+Suddenly, all noise ceased as if a blanket of silence had been cast across the clearing. The pulsating magic stopped. Lira turned and stared straight into Ali’s soul with a look of sudden lucidity.
+
+“Aliandra, dear. Please… you must end this. Kill me. Please.”
+
+Then the magic pulses and the unearthly screams returned as the healers scrambled to react to the sudden shift.
+
+Ali swallowed, but the lump in her throat would not go away. That was her. She knew it deep down in her heart. All the taunting and insults before had been the undead thing Nevyn Eld had summoned, but that just now… that was Lira.
+
+And she wants me to… She asked me to… Ali couldn’t even finish the thought. With a feeling like she was struggling against the weight of the entire world, she spoke. “Attack.”
+
+The rest of the fight passed like a dream; the screeches were muted, as if shouted in the distance. She felt her mana flowing to empower her minions. She heard the roars of her dragons and the sizzle of their void magic. But all of it, even the heavy detonation of fireballs in the air, all sounded so far away.
+
+She was aware of the fight, and a large part of her mind was actively engaged with keeping her barrier magic up, empowering her minions, and directing her forces. But in her heart, she knew she was killing Lira. She knew that somewhere, trapped within that thing, some sliver of what her aunt had been, had endured. It did not help in the slightest that she wanted this release, that she even begged for it.
+
+But then it suddenly stopped. The damage pulses, the screeching, and everyone held their collective breaths.
+
+“Thank you, Aliandra…” the voice trailed off into a sigh that resonated through the entire cavern.
+
+Then, a tremendous gong sounded. A reverberation so loud that the ground shook and rocks were dislodged from the cavern ceiling far above to come crashing down into the forest below. A rushing sound filled the air as viridian-green mana coalesced within the specter of Lira’s chest. More and more mana gathered, growing brighter and brighter until the entire cavern shone with a brilliance that was painful to even behold, that cut through shuttered eyelids, that penetrated even to the marrow of every person looking on.
+
+Ali gasped. How… how was this death? What was happening? A crazy, utterly irrational hope trampled through the devastation of all she had feared in this moment. Now the whole world seemed to hold its breath, the very silence between reverberations pregnant with an impossibly deep stillness.
+
+Expectation. Something had to break.
+
+[Realm] Lirasia [Great Mother of the Deep Woods] has cast the mythic spell: Cycle of Rebirth.
+
+The incandescent kernel of blazing green mana exploded, flattening trees and knocking everyone to the ground with a devastating blast. Ali’s barrier dome cracked. The specter of Lira vanished instantly, vaporized by the explosion, and with her extraordinarily acute perception, Ali witnessed mana – all of it – somehow condensed into a tiny form which fell from the sky.
+
+Ali dispelled her barrier, flying upward, desperately reaching with her hands. Her fingers stretched outward, and a small brown object landed in her hands.
+
+An acorn? Huh?
+
+Somehow, she had expected something… grander.
+
+Suddenly, Ali found herself yanked to the ground as the acorn imposed an incredible weight upon her. Ugh… she sat up, blinking away stars, but somehow, she still clutched the acorn in her hand. She gaped at it in disbelief and used Identify.
+
+Acorn of RebirthAn acorn that glows with an intense inner light. But the viridian-green of its potent mana is shot through with ugly black veins that pulse like a fevered heartbeat. Soulbound (This artifact is bound to a soul)Curse of the Lich (The Acorn of Rebirth was cursed during its creation by the magic of a Lich. If it is used, the soul housed within it will be annihilated or corrupted beyond recognition.)Blighted Corruption (The Acorn of Rebirth is dying.)Quality: Mythic, Unique.Soul Phylactery
+
+Lira?
+
+Still alive, but dying?
+
+It was impossible, but it had to be.
+
+“Mato! Help me!” Ali tried to scream, her voice coming out as nothing more than a hoarse whisper. But in the wake of the silence left by the mythic world magic, he heard her.
+
+Mato stared at the realm-level notification of Lira’s mythic world magic, dumbfounded, utterly unable to process what had just happened. They had killed her, a frustrating aerial finale to the battle against Lira’s undead specter, and then the world had exploded with light and magic.
+
+That notification had undone him.
+
+Did she… Did we… Did we just…
+
+“Mato! Help me!” Ali’s voice was filled with such despair that it froze his heart.
+
+He roared, charging toward her, shifting to his Beastkin form on the way, but his eyes caught the focus of her attention. Something small was nestled in the palm of her hands. Something that radiated an incredible power, yet was pulsing with darkness and corruption.
+
+And as he approached, a stabbing lance of pain pierced his heart, and he felt the corruption spilling over from the thing in Ali’s hands, somehow connected to his deepest being through the mentor enchantment he had refused to rescind. He stumbled, falling to his knees and clutching at his chest as he began to rot from within, the sense of invading undeath seeping rapidly into his body.
+
+“She’s dying,” Ali said, tear-filled eyes meeting his own as she raised her hand, uncurling her fingers to reveal an acorn.
+
+Acorn of RebirthAn acorn that glows with an intense inner light. But the viridian-green of its potent mana is shot through with ugly black veins that pulse like a fevered heartbeat. Soulbound (This artifact is bound to a soul)Curse of the Lich (The Acorn of Rebirth was cursed during its creation by the magic of a Lich. If it is used, the soul housed within it will be annihilated or corrupted beyond recognition.)Blighted Corruption (The Acorn of Rebirth is dying.)Quality: Mythic, Unique.Soul Phylactery
+
+“Please, you must help her.”
+
+Lira! Mato stared at the acorn as the corruption bloomed within him, and he knew she was in there. The pain was real, overwhelmingly real, but his heart leapt within his chest. This was the reason his mentorship enchantment had never faded. She was alive! Somehow, inexplicably, alive. Struggling against the invading mana, he transformed. His shift to Tree Form was sluggish, as if the corruption were twisting him from within, resisting the change with the strength of a mountain. He bore down with his willpower, forcing his body to change, and his roots began to extend down into the rotting creep and the ground below. The pain grew excruciating as his body grew taller, bark forming with infinite slowness, his branches stretching and creaking in agony as he clawed toward the air above.
+
+I’m not going to make it. He didn’t have much time. He was dying faster than he could grow.
+
+He heard Ali cry, “Havok, help!” The small green goblin rushed over and poured out a circle of softly glowing white flames to consecrate the ground.
+
+Then, Ali pointed a wand at him and Mato felt a chilling energy shoot from it, infusing him with a strange rush of clarity and alacrity to his mind.
+
+You have gained Winter’s Desolate Celerity.
+
+Suddenly, Mato’s transformation accelerated, his branches stretched upward, and his leaves burst forth from freshly budding twigs. Then his mighty Sanctuary aura burst forth, ripping through the cloying rot of the domain around them, and for the first time, he felt the corruption slowing down.
+
+The great black rot that gnawed at his bark, his leaves, spilling from the heartwood of his trunk, ceased spreading, and then, like a boulder painstakingly pushed to the peak of a hill, it hovered there for a seemingly endless moment, and then it began to dissolve. Slowly at first, almost imperceptibly, the black rot evaporated into a dark mist that slowly curled upward like the smoke from a freshly snuffed candle. The effect began to accelerate. Black wounds receded from his bark, vitality returning once again to his branches, and his form expanded, reaching higher and further, the weight of his Sanctuary growing deeper and more profound.
+
+Mato drew the dark veins of pulsing corruption out of the acorn, draining them into his massive body to be washed away by his magic, washed clean.
+
+“Thank you,” Ali whispered, reaching with her tiny arms to try to hug his enormous trunk.
+
+Tentatively he cast his mind toward the acorn she held and used Identify.
+
+Acorn of RebirthAn acorn that glows with an intense inner light. The viridian-green of its potent mana is darkened by a foul curse.Soulbound (This artifact is bound to a soul)Curse of the Lich (The Acorn of Rebirth was cursed during its creation by the magic of a Lich. If it is used, the soul housed within it will be annihilated or corrupted beyond recognition.)Quality: Mythic, Unique.Soul Phylactery
+
+You have earned the Title: Incorruptible.The very touch of your mana eradicates blight and corruption. Your Healing magic grants +2487 [wisdom] to resistance against corruption and blight. Title
+
+He had no words. He only knew he would have done anything for Ali, and somehow, incredibly, Lira was not dead. He knew it was her soul resting trapped within the acorn, and he felt his mentor’s enchantment slowly restored to its former pristine state. How she was in there, and what to do about the curse, were things that could be left for tomorrow.
+
+For now, she wasn’t dying. And that was enough.
+
+All around the clearing, the adventurers slowly stirred, picking themselves up from the ground, dusting themselves off, or just sitting by themselves, staring off into the distance as they processed the aftermath of the ridiculous battle.
+
+Serene in his Tree Form, Mato retreated to his expansive grove with his mind-tree and examined his notifications and growth.
+
+Elemental Shapeshifter has reached level 138 (+9).+90 attribute points.Arboreal Sanctuary has reached level 58 (+2).Swipe has reached level 72 (+4).Brutal Restoration has reached level 68 (+4).Bear Form has reached level 66 (+3).Rampant Growth has reached level 37 (+2).Bestial Combat has reached level 55 (+3).Natural Prowess has reached level 54 (+2).Survival Instinct has reached level 68 (+2).Battle Trance has reached level 50 (+3).Last Stand has reached level 20.Herb Gathering has reached level 27 (+2).
+
+Nine? I haven’t seen that many levels at one time in ages. It had been at the end of Aman Rak, defeating Tol’brekk, but it still felt like ages. Mato contemplated his attributes and growth, settling on twenty points for vitality. He added twenty-three points to strength and twenty-two to endurance. Given how much he had spent on wisdom recently to unequip the parasitic gear, he spent only seven points on that, choosing ten for perception instead. He split the remainder, putting five into dexterity and three into intelligence.
+
+I hope I’m strong enough for whatever we have to do to save Lira. Because Ali’s family is my family and I’m going to do whatever it takes to see her well again. He felt renewed, restored – perhaps even possessed by a shining hope that had been almost dead in his heart not ten minutes before. Lira. You no longer belong to the Lich.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

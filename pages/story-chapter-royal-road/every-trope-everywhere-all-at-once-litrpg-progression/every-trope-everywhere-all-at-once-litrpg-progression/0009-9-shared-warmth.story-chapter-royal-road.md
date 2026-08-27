@@ -1,0 +1,247 @@
+---
+id: 593fa3bd-81ca-5e3c-966a-49729f944ab1
+page-type-slug: story-chapter-royal-road
+title: "9 - Shared Warmth"
+slug: 0009-9-shared-warmth
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 9
+ownLength: 1751
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3393016/9-shared-warmth"
+royalRoadId: "3393016"
+---
+
+The blizzard’s harsh winds tossed me from side to side as I tried to push through the heaps of snow that reached up to my belly—another unfortunate disadvantage of having such a small body. If the System was able to reward me with something as potent as a love potion, can’t it also just give me something that makes me bigger?
+
+…
+
+Ahem. I said, can’t the System just give me something that makes me bigger?
+
+…
+
+Whatever.
+
+At the very least, the Warmth Aura around me melted much of the snow, making it easier to walk through. But still, the winds showed no end, and the Warmth Aura couldn’t do much about it.
+
+That damned Meriel. She calls this training? I bet she’s just taking a nap right now as I’m fighting through hell. The trope messages were right. If either Reina or I fail the training, we’ll literally die. It wasn’t even an exaggeration.
+
+I looked down at the snow. I had been following the footsteps for a couple of minutes now, and yet, I couldn’t find Reina anywhere up ahead. There was too much snow everywhere to see anything further than a few arm’s lengths.
+
+“Reina!” I called out. “Reina, can you hear me? Where are you?”
+
+I didn’t hear a response. Or did I? I couldn’t even tell anymore. The winds were too loud, and the blizzard was starting to disorient me.
+
+A hard gust slammed into me, knocking me over. I fell to my side, and the snow went all over my face and clothes.
+
+“Ugh…” I muttered.
+
+The snow melted as soon as it touched my Warmth Aura.
+
+I looked up ahead, and the footprints began to blur. As soon as I blinked, they disappeared entirely. The winds had completely gotten rid of all traces of Reina.
+
+“...You’ve got to be kidding me.”
+
+The moment I stood, the Warmth Aura around my body flickered. My heartbeat grew faster—not from being afraid, but from exhaustion.
+
+“I can’t keep this up for much longer,” I muttered, feeling sweat on my forehead.
+
+Sweat? In the middle of a blizzard? That either meant I was doing a really good job with the Warmth Aura, or that I was about to die soon from how exhausted I was.
+
+“Reina!” I tried again, feeling my voice shake. “Reina, please! Say something!”
+
+It was the same thing as last time. No response.
+
+My legs were growing weak, and my lungs were beginning to burn. Was this really it? Was my adventure in this world already over?
+
+I stumbled forward, dizzy.
+
+My Warmth Aura was completely shattered.
+
+Snow from the blizzard above immediately began to build up on my body, the frost burning my skin.
+
+Please… somebody help me.
+
+The System.
+
+The goddess who brought me here.
+
+Anybody!
+
+I fell forward.
+
+…
+
+I felt something warm. Something that wasn’t snow.
+
+I reoriented myself, realizing what was in front of me. It was a body. A body that was much larger than mine, with brownish-red hair.
+
+“R… Reina…?”
+
+My heart stopped at the sight. I pulled her face toward mine. Her eyes were closed. Unconscious.
+
+I put my fingers below her neck, and there was still a pulse. They were fast and heavy. Her body was working overtime, doing everything it could to keep her alive.
+
+Something… There had to be something to help us!
+
+My eyes widened. That’s it. I’ve completely forgotten about it!
+
+I called [INSPECT] on myself.
+
+Intelligence: -1 (+1)
+
+Wisdom: 1
+
+Unallocated Stats: 60
+
+That’s right… I still had 60 unallocated points. But which do I put it in? Intelligence or Wisdom? What would help me cast Warmth Aura for both of us?
+
+Another System message appeared.
+
+Intelligence: max mana / spell power
+
+Wisdom: mana regen / spell control / mental resistance
+
+I see. So intelligence is spell power, meaning it would just make my Warmth Aura stronger, right? But I don’t need that right now—it’s already warm enough to keep the snow away. What I need is magic control and mana. That would help me cast Warmth Aura on both of us.
+
+I put 20 points into Wisdom.
+
+[WISDOM]
+
+[1 → 21]
+
+Unallocated Stats: 40
+
+Oops. That’s a pretty ugly number. I should’ve rounded it to 20.
+
+I shook my head. What was I thinking? We’re about to die if I hesitate any longer.
+
+I quickly cast Warmth Aura again, and it was noticeably easier to do than last time. I should’ve used my stat points earlier while Meriel was teaching us how to cast Warmth Aura. It would’ve made things a whole lot easier, but at the same time, she definitely would’ve been suspicious if I had just suddenly gotten proficient with the spell after just a few attempts.
+
+I touched Reina’s shoulder, casting Warmth Aura on her as well. I felt the one around me getting slightly weaker, but it was still warm enough to keep the snow away. As long as I kept my hand on her, I would be able to sustain this for both of us.
+
+I tried carrying her, but of course, it was impossible. She was nearly twice my size.
+
+“I’m sorry, Reina, but I’m going to have to drag you this time around.”
+
+But to where? No matter where I looked, the blizzard made it impossible to see anything from afar.
+
+Unless…
+
+“[HIDDEN PATH DETECTION],” I called.
+
+Nothing came up.
+
+“Damn it!”
+
+The skill had three charges and a twenty-minute cooldown per charge. I had two more attempts.
+
+I dragged Reina through the snow for several minutes, gritting my teeth as blood rushed to my tensed face. When we got far enough, I tried again.
+
+“[HIDDEN PATH DETECTION].”
+
+Nothing.
+
+This wasn’t looking good.
+
+But still, I tried. I continued pushing through the snow, dragging her along. The Warmth Aura on both of us was still steady, even though I had been using it for a while now. I guess that just proves how important it is to use my skill points.
+
+“Please work this time!”
+
+I called [HIDDEN PATH DETECTION] one last time. It was the last chance we had, otherwise we’d have to wait too long for another charge. Our Warmth Auras were sure to dissipate by then.
+
+I didn’t hear anything. No sound, no System message… nothing.
+
+Was that it? Was there really nothing after all?
+
+But then I saw it. A faint, blue light appeared in the middle of the blizzard, just beside us. It didn’t seem like it was a part of this world at all. How suspicious.
+
+Of course, I followed it. This had to have been because of the skill.
+
+When I reached the end of the line, I saw something—a dark, open area up ahead, where snow didn’t touch.
+
+A cave.
+
+[TROPE COMPLETED: THIRD TIME’S A CHARM]
+
+[SKILL UPGRADED: HIDDEN PATH DETECTION]
+
+Cooldown reduced:
+
+20 minutes per charge → 15 minutes per charge
+
+I pushed the message aside and entered the cave. The moment I entered, I received yet another System message.
+
+[TROPE COMPLETED: TAKING SHELTER FROM THE BLIZZARD]
+
+[SKILL ACQUIRED: FROST RESISTANCE]
+
+Type: Passive
+
+Effects:
+
+- Reduced stamina drain in cold environments
+
+- Slight resistance to freezing temperatures and snowstorms
+
+That was certainly useful, considering the situation.
+
+Inside, stalactites hung overhead, threatening to drop straight on our heads. They were as sharp as knives, but with how cold it was, I doubted they would fall on us. Not unless I was the unluckiest protagonist in the universe.
+
+…
+
+Right?
+
+I pushed the thought away. The more I thought about these kinds of things, the likelier I was to jinx myself.
+
+I carried Reina to the end of the cave, propping her up against the wall. The only source of light in this cave was from the entrance, but it was just bright enough to feel comfortable.
+
+I sat beside her, completely out of breath. The Warmth Aura around us dissipated. My mana had been completely depleted. I thought of allocating a few stat points into Endurance just to get rid of the pain in my lungs, but I knew it was a much better decision to save them unless I absolutely needed them. If I had run out of stat points earlier, I wouldn’t have been able to upgrade my Wisdom stats and cast the Warmth Auras on us.
+
+“Hah… are you happy now, Meriel?” I muttered to myself. “I did what you asked and saved her…”
+
+Well, technically, the training wasn’t over. We still haven’t gotten the tea leaves yet, but I would do anything to not go out there in the blizzard again. A near-death experience was never a very fun time.
+
+I looked at Reina. Her breathing was shallow, and her body was trembling slightly. I held her hands, and they were cold.
+
+I tried casting Warmth Aura again, but it was of no use. I had used up all my mana.
+
+“Damn it,” I muttered. “Looks like I’ll have to do this after all.”
+
+I snuggled up closer to her, wrapping my arms around her as I lay my head on her shoulder. The [FROST RESISTANCE] skill I had earned earlier made my body warmer than hers, so this was the best thing I could do right now to keep her warm.
+
+[TROPE COMPLETED: WARMING THE FREEZING COMPANION]
+
+I sighed. Of course, that was a trope. Everything was.
+
+[ITEM ACQUIRED: EMERGENCY BLANKET]
+
+Effects:
+
+- Just a blanket
+
+This item will now appear in your [INVENTORY]
+
+My eyes widened slightly. So now the System decides to be useful, huh?
+
+Better late than never, I guess.
+
+I opened up my [INVENTORY] and pulled out the blanket, laying it on us. Warmth filled our bodies. After a moment, Reina stopped trembling, and her breathing returned to normal. I smiled.
+
+She was okay.
+
+As awful as this situation was, getting this close to Reina wasn’t entirely awful.
+
+I tried to wipe my smile away, but I couldn’t help it.
+
+I never had many friends in the world I came from. Reina was the first person I had ever considered a friend. To think that I had just randomly found her sitting under a tree after I came to this world…
+
+I laughed to myself. How absurd. Everything about this world is absurd.
+
+But… even I can admit that it’s been fun so far.
+
+It’s been so much fun that I can never imagine myself wanting to return to the world I came from.
+
+I leaned in closer to her.
+
+And closed my eyes.

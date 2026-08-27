@@ -1,0 +1,53 @@
+---
+id: 84be0f7e-8b92-5963-b82a-f946ff6d5a6b
+page-type-slug: story-chapter-royal-road
+title: "Book 1 Retrospective"
+slug: 0090-book-1-retrospective
+partOf: flesh-eater-demon-evolution-litrpg
+position: 90
+ownLength: 1185
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3475520/book-1-retrospective"
+royalRoadId: "3475520"
+---
+
+Hello, I hope everyone’s doing well! Now that Book 1 is over, I thought I’d do a retrospective on the book as a whole. The chapter challenge from the previous chapter is still ongoing: right now there are 20 points for a total of 7 additional weeks. I’ve added the counter to the top of this chapter as well for convenience. There’s still time to participate if you want to!
+
+Moving on to the retrospective, I first started Flesh Eater as a challenge for myself. I heard about the monster girl evolution wave, and while I wasn’t going to participate at first, the more I heard the other authors brainstorming ideas, the more inspired I got.
+
+The specific idea for Flesh Eater came when someone mentioned how a lot of monster evolution MCs have a “sin” ability, with certain sins being more common than others. Someone mentioned sloth being one of the least common ones, and I started thinking, “What if I wrote a story about a sloth demon?”
+
+The rest of the story spiralled out from there. I knew I wanted to write about a detached, apathetic MC, but I wanted that choice to feel like a deliberate exploration of this personality—especially since I think a lot of litrpg/progression fantasy MCs end up fitting that description kind of accidentally by virtue of genre tropes.
+
+With that in mind, I wanted the world and side characters to feel morally grey and complex. I think a more “black and white” world wouldn’t challenge Pyre as much or inspire much character development, so I tried to make antagonists like Tivona and Lord Bellhein flawed, but still “human” (ironic in the case of Tivona, I know). Callan and Daphne, meanwhile, were designed as foils.
+
+Speaking of which, one of my biggest challenges writing Flesh Eater was taking the story from its beginning stages (solo MC, much more action-heavy, Pyre being a bit of a murderhobo) to where it would end up (party dynamics, more character interaction and development, less frequent action). To do this, I needed to find a way for early-Pyre to actually communicate with someone, which is where the idea for Callan, a ghost who Pyre physically can’t devour, came along.
+
+I do think the transition between early-book and late-book could’ve been a lot smoother. If I was rewriting this story, I would reduce the tonal differences between the two so that the change isn’t as jarring.
+
+The way it is now, I think I ended up losing a lot of readers who liked that solo-MC stage after Callan was introduced, while simultaneously, some readers who might’ve enjoyed the second half of the book dropped it in the first arc before it could get to that point. I did plan for the story to start out more “shallow,” then deepen as Pyre herself starts to develop and the world expands, but it still kind of hurts to see all the reviews and comments about the story being “murderhobo slop.”
+
+In general, I think I exaggerated Pyre’s personality a bit too much in the beginning. A lot of the monster evolution wave authors beta read each other’s stories, and when I put up my chapter 1, someone mentioned that monster girl MCs are usually pretty quirky/fit into the “chaos gremlin” archetype.
+
+Pyre, by comparison, is very chill. She’s also older (she’s really more of a monster woman than a girl), and not at all cute, which is usually another big draw of these stories. Because of this, it was pointed out that the story might not land with the monster girl evolution audience.
+
+Because of this worry, I played up certain parts of Pyre’s personality at the beginning that definitely added to the murderhobo vibe. If I could go back, I’d probably tone that down so that her character is more like it is throughout the rest of the book. I still might, if I ever get Flesh Eater published.
+
+Pyre in general is a tricky character to write. It was important to me that she actually thought and behaved like a non-human, but she also needed to be likable enough to root for. She’s very chill, but still has to be interesting. Her character slowly develops throughout the story, but she also needs to stay recognizable. There was definitely a learning curve when it came to writing her, especially at the start.
+
+I mentioned this in last chapter’s author note, but in a lot of ways, I think of Book 1 as an “intro” that took the story from its starting-stages to more of the tone that it’ll take for the rest of the series. While that transition could’ve been smoother, I am pretty happy with the overall pacing of the book. It definitely does slow down in parts, but I think there’s still a sense of momentum even in those transitional chapters.
+
+Besides the rough tonal shift, another major regret of mine is not starting out with a backlog. I wrote Flesh Eater fully expecting it to hit maybe 800 followers on Rising Stars, and I was shocked when it reached 2k.
+
+I do think I was probably one of the authors who benefited the most from the monster girl wave. While Flesh Eater got hit with a ton of rating bombs and negative comments/reviews/reddit posts like the other stories did, it also got a lot of extra visibility that it never would’ve received if it wasn’t part of the wave. The bigger, more established authors, on the other hand, got all of the negatives and none of the positives.
+
+Because of the lack of a backlog, there was no cushion for when those hiatuses hit, and Book 1 ended up having a very spotty upload schedule. That final burnout before the climax was very much not ideal, but I’m kind of glad it happened just because it was the final push for me to actually get a backlog ready. That, and I think the ending of Book 1 would’ve been significantly worse without the mental break, unplanned and unideal as it was.
+
+For Book 2, I’m going in with a backlog ready. My goal is to have consistent uploads for the entire book, with any breaks being pre-announced. I’m quite excited about Book 2; no spoilers, but it’s definitely more ambitious than Book 1 story-wise. I don’t know if I’ll be able to pull it off, but I’m going to try my damnedest to deliver.
+
+This retrospective is already way longer than I planned, but I just wanted to thank you all again for reading this story and sticking with it through all the hiatuses and rough patches. I feel very lucky to have you all as readers, and while I don’t often respond to comments, I read and appreciate everything you say.
+
+If you have any questions for me, please feel free to leave them in the comments below! I might as well turn this retrospective into a Q&A as well, considering how long it already is haha.
+
+Thank you all again. I’ll be back tomorrow with the first chapter of Book 2!

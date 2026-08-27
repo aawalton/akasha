@@ -1,0 +1,145 @@
+---
+id: b72149ba-3c7f-52e0-807b-64efbf0f4eca
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eleven: The Ancients"
+slug: 0011-chapter-eleven-the-ancients
+partOf: flesh-eater-demon-evolution-litrpg
+position: 11
+ownLength: 2497
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2553812/chapter-eleven-the-ancients"
+royalRoadId: "2553812"
+---
+
+The ghost—Callan, Pyre mentally corrected—looked confused. It was kind of impressive how expressive he managed to be, considering his body was nothing more than a translucent orb with a face in it. He opened his mouth, but paused, hesitating. She waited patiently for him to finish thinking whatever thoughts were running through his incorporeal head. It wasn’t like she was in a rush.
+
+Finally, Callan frowned. The ghostly sphere drifted slightly to the side, swaying back and forth like a tilting head. “You… don’t know what a chimera is?” His voice was wary, like he was worried the demon would eat him for the great sin of asking a question. Which, come to think of it, he probably was. No amount of convincing or explaining the whole [Flesh Eater] thing could get him to get over that, it seemed.
+
+Not that she really blamed him. If anything, it was good for her that he hadn’t realized she couldn’t actually hurt incorporeal things (not yet, at least, but she was sure there was a trait or a subtrait out there that would let her), because then he’d definitely run off and she’d be back to square one. She’d rather not have wasted her 5 point “investment.”
+
+“Yep,” she said, pronouncing the ‘p’ with a pop. She was still getting used to moving her mouth for things other than devouring. It probably didn’t help that said mouth was probably not shaped exactly the same as a human’s would be (she’d tried, okay), so all her vowels and consonants were a little off, too.
+
+“I had a little memory mishap,” Pyre continued. “Amnesia and all that. Some stuff’s still a little fuzzy.”
+
+She figured there was no harm in mentioning the amnesia; it neatly explained why she didn’t know what were clearly very basic facts about the world, but it was also vague enough that she doubted anyone’s mind would immediately jump to “reincarnation.” That she’d keep to herself for now, at least until she knew how common reincarnators were and how they were viewed.
+
+Callan’s eyebrows rose. “Huh.” The ghost looked thoughtful, a bit of curiosity replacing his fear. “I didn’t think demons could get amnesia.”
+
+“There’s a first for everything, kid. Now answer the question.”
+
+Callan looked a little put out at the lack of details, but he nodded—which really meant rising up and down a few inches. Pyre didn’t even think he knew he was doing it. The movements seemed like completely unconscious instinct. Ghost instinct.
+
+“Well, chimeras are creatures warped by ichor.” His brows furrowed. “It’s kind of a catch-all term, really. There’s a whole spectrum of how far ichor-warping can go, but usually people won’t call something a chimera until it’s, like, unrecognizable.”
+
+“Uh huh. And I’m guessing ichor is that silver light up in the trees and ground and stuff.”
+
+“You don’t know what ichor is, either?”
+
+“Amnesia.” Pyre raised an eyebrow at the boy. Her second mouth, still placed high at the top of her shapeless body, snapped a few times, and Callan’s jaw quickly clicked shut. He cleared his throat, which was a funny gesture for a creature with no throat to speak of, but she’d been mentally raising her eyebrows long before getting the [Hair] subtrait, so she couldn’t judge.
+
+“Uh, right. Yeah, it’s the silver lights.”
+
+“Great. What’s it actually do besides make shit weird?”
+
+The orb shifted a little. The longer this conversation went on, the less scared the former human seemed and the more confused. Pyre suspected he was the kind of person who liked to make sense of things, and waking up as a ghost after an amnesiac demon gave you 5 points probably made that difficult to do.
+
+“Well, it kind of does everything?” he began hesitantly. “Powers magic, keeps the world from falling apart, gives life.”
+
+“And apparently turns things into fucked-up versions of themselves.”
+
+Callan winced. “That too, but only if there’s a lot of it. High concentrations of ichor can be dangerous, but most places don’t have to worry about that.”
+
+That neatly brought Pyre around to her second main ichor-related question. “Where’s it come from, then?”
+
+Callan gave her an odd look. “The titans,” he said slowly. Pyre kept staring. Very descriptive, very helpful, her expression said. The ghost shifted a little more, and Pyre got the impression that if he still had arms, he’d be waving them around right about now.
+
+“The ancient demons and angels,” Callan finally elaborated. “During the war, a lot of their blood was spilled, and it seeped into the earth. Over the years, those turned into streams, ponds, and sometimes lakes. The big cities even draw ichor directly from the titans’ corpses, but those’re all pretty much claimed by now.” He sounded slightly bitter at that last bit, which was interesting. If ichor really did all the stuff he’d said—especially the magic bit—she could easily see people hoarding the stuff. Though it sounded like a double-edged sword, if you also had to worry about ichor-warping.
+
+Pyre let the new information settle in her mind, thinking it through. Ancient demons and angels with magical glowy silver blood. She’d known about the former and not the latter, though angels existing in a world where demons did didn’t exactly surprise her.
+
+That meant Fred had to be one of those ancient titans, and considering what Callan had said, the boy clearly didn’t know about the corpse hanging out just a little deeper into the woods. Interesting. She was willing to bet Fred’s presence was causing all the ichor warping, too. Blood seeping into the soil directly from a dead body was probably about as concentrated as you could get without extracting it directly from the veins.
+
+Well, if the humans around here didn’t know about it, she wasn’t going to go out of her way to tell them. She still needed to figure out how an ancient dead demon corpse had created a bunch of living flesh lumps, after all, and a bunch of humans flocking to the mound would make it that much harder to do her own investigating. Nope, what they didn’t know wouldn’t hurt them.
+
+“I’m guessing those angels and demons’re dead now,” Pyre said. Well, the ancient ones at least. Obviously the “lesser” descendants were still around. Callan’s glowing light bobbed again, which she was finding increasingly amusing.
+
+“They killed each other in the war,” he confirmed. His voice slowed. “Uh, you probably already know this, but fiends are descended from the ancient demons, but without ichor.”
+
+“Which makes us infinitely less powerful, I’m sure.”
+
+Callan winced at that. “Well, yeah? But like, the titans were basically demigods, and their ichor was concentrated power, so…” his voice trailed. He looked anxious, as if worried he’d somehow offended Pyre or something, which didn’t make much sense to her. She’d asked a question and he was giving what seemed to be honest answers. All things considered, this was going great.
+
+“What about the angels? Anything sprout up from them?”
+
+Callan’s sphere swayed like a shaking head. Interesting. No angel descendants to run into then, which might be a good thing if the ancient demons and angels had apparently hated each other so much that they’d exterminated one another. That also didn’t feel too surprising, so she assumed her human self had known something about angels and demons and shit.
+
+She could tell this was probably a very abbreviated version of what sounded like a whole lot of history, and that very history was carved into the earth between the lingering ichor streams and the dead titan corpses scattered about. Maybe that ichor had something to do with her soul being blocked or even her reincarnation in general. It was probably at least somewhat related, considering where she’d woken up.
+
+“…Is that everything?” Callan’s tentative voice broke the demon out of her thoughts. Pyre realized she’d gone silent for a while, and apparently her “thinking” face was quite scary, because the ghost looked very wary again.
+
+“One more question. Where do I get class and evolution crystals?” Kind of important to know, all things considered. She had more questions about the world and how stuff worked in general, but she could figure those out as she went. The crystals, though, were non-negotiable. Callan blinked.
+
+“Oh! Well, you can buy class crystals. They’re not that hard to find.”
+
+Buy or steal from humans, got it. Good to know they weren’t exceptionally rare—she could probably take a quick trip to the village and get her last few class shards and a crystal in one go. Two birds with one stone.
+
+“And the evolution ones?”
+
+The former human hesitated at that. “Those’re… harder to find. They’re pretty rare. Whenever someone finds one, it’s moved to a safe place for protection. Only monsters need them, so…”
+
+“…so if humans can hoard them, they can stop monsters from evolving,” Pyre finished. Callan nodded meekly.
+
+The demon hummed in thought. That made sense—the description for cambion had already implied that humans didn’t evolve like monsters did. They had a class and a profession while monsters had a class and a species. It wasn’t like she blamed this world’s humans for doing what they could to protect themselves, either. It was smart to hoard the resources their enemies needed.
+
+It did make her goal of finding an evolution crystal a little trickier, though. Unless she somehow stumbled into one herself (unlikely, based on what Callan had said), she’d definitely have to steal it. Or forcibly take one. Same difference.
+
+Her eyes drifted beyond the floating ghost orb to the forest beyond. Somewhere past those trees was the village the patrol had come from. She wondered how large it was.
+
+Callan had gone silent, and from the tense set to his brows, Pyre suspected he already knew what she was about to ask next. Smart kid, this one.
+
+“So, does the village near here have one?” she asked conversationally.
+
+The ghost swallowed. When he responded, his voice wavered a little under the weight of the two grey eyes focused on him, but he didn’t stutter. “…What’re you planning on doing?”
+
+The demon raised an eyebrow. “Well,” she began, stretching out the word, “I do need to get an evolution crystal at some point.”
+
+Callan went quiet. His eyes darted briefly behind them, where the remains of Pyre’s “encounter” with the humans still lay. It was too far to make out any real details beyond general shapes and the undeniable red spilled across the ground, but the sight seemed to be more than enough for the ghost. The little orb started shaking a little, quivering, and Pyre watched with a detached sort of fascination. The display of emotion triggered something in the recesses of her mind, maybe some of those old memories, but not enough to elicit more than a vague sensation.
+
+“You—you can’t,” Callan sputtered.
+
+“And what exactly do you think I’m planning on doing?”
+
+The ghost’s expression twisted. He hovered over a little closer. Pyre’s brows rose, slightly impressed considering he still didn’t know that she couldn’t actually hurt him. Brave, too. She was starting to like this kid. Dead ghost kid, to be more precise.
+
+“It wouldn’t work,” he tried to argue, but his attempt at bravado couldn’t mask the desperation quickly seeping into his voice. “You couldn’t take on an entire village. And there’s tons of guards around the crystal!”
+
+“So there is one.” At Callan’s horrified look, she snorted. “Relax. I’m an amnesiac, not an idiot. I wasn’t planning on slaughtering your entire village.”
+
+That was true. She hadn’t had any issues against the patrol party, but there would be many times more people at the village. She assumed it was reasonably populated, if it had multiple patrol groups, and the inevitable presence of mages added even more obstacles to consider. There was a reason she’d killed the mage in the patrol group first. Her magic resistance was quite high at this point, but who knew what the fuck ancient titan blood-powered spells could do. No, it would be much simpler to get as close to the crystal as possible, then devour whatever guards were watching it.
+
+Callan gave her a disbelieving look. His eyes flickered between her and the carnage behind them, which, fair enough. Pyre waved dismissively with the pseudo-arm she’d morphed earlier. She hadn’t been actively focusing on it, so the flesh looked rather deformed at this point, but it still got the job done. The badly shaped internal bones, at least, seemed to stay in place without too much concentration needed.
+
+“Alright, you’ve been very helpful, kid. Now go enjoy your afterlife.” She began to shift her body into a longer shape that was easier to travel through the forest with. Callan’s eyes widened, and he quickly darted over, translucent sphere buzzing around her like a particularly large firefly.
+
+“W-Wait! Where’re you going?”
+
+Pyre didn’t bother answering. Unlike an actual giant firefly, the ghost had no physical form that could block her path. The most he could do was hover anxiously. It seemed that in his fear, he’d finally figured out how to move deliberately as opposed to all the unconscious drifting he was doing earlier.
+
+“I’ll come with you!” Callan rushed to say. Pyre paused just long enough to shift her eyes around to face the ghost, who shot back a good foot at the sudden gaze snapping onto him.
+
+“Look, it’s very noble of you to try and protect your village or whatever, but you’d be much happier if you left it alone. I recommend taking some time to process your new ghosthood. I’m guessing you didn’t die peacefully.”
+
+Callan froze. Right on, then, not that it had been hard to guess. Between the chimera the patrol group had mentioned and his initial location this deep in the forest, far away from the village, she had a good idea of what had happened.
+
+Something flashed through Callan’s eyes, a mixture of emotions she couldn’t discern. He opened his mouth again.
+
+But before any words could escape him, the sound of a twig snapping broke through the temporary silence. Pyre immediately shifted an eye over, moving it to the top of her body where she could peer through the canopy.
+
+There, approaching along the forest path, was a group of five humans dressed in the same plain uniforms the first group had worn. She remembered the mage from earlier calling the other patrol groups for backup. It looked like they’d finally arrived.
+
+Her other eye turned to Callan, who looked sick. By now, the sound of rustling leaves and distant murmurs reached them, voices carried by the wind.
+
+Pyre gave the ghost a long look. When he made no move to leave, she turned to face the approaching humans, already shifting her mouths in preparation. She’d just gotten the [Taste] subtrait after the last fight, she remembered.
+
+It looked like she’d finally learn what flesh tasted like.

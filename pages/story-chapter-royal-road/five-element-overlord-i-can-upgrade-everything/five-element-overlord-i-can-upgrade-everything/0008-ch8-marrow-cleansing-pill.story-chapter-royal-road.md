@@ -1,0 +1,111 @@
+---
+id: 09687246-5f8d-5877-a172-db18e6dccc1e
+page-type-slug: story-chapter-royal-road
+title: "Ch8 Marrow Cleansing Pill"
+slug: 0008-ch8-marrow-cleansing-pill
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 8
+ownLength: 996
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211630/ch8-marrow-cleansing-pill"
+royalRoadId: "3211630"
+---
+
+I skip my attempted cultivation practice at night and sleep a few extra hours.
+
+Even chopping wood today does not feel like a chore. Only excitement courses through me as I wait for sunset to arrive.
+
+"Our deal is over. If anyone questions you, this pill never came from me. Do you understand?"
+
+"Yes, Senior."
+
+These are the only words we share today, as Zhou Kang takes my wood pile away and shoves a small cloth into my hands with a paranoid look on his face.
+
+He looks over his shoulders a few times as he walks away toward Tang Min's hut.
+
+The kid's beating for only filling his bin halfway today is especially bad. He doesn't even get a word in before he's brought to an unconscious vegetable on the dirt.
+
+I walk inside and close the door tight before opening up the cloth and checking inside.
+
+There is a small spirit fragment, my daily payment for chopping wood.
+
+Beside it, a small dark brown pill. It is deformed, looking slightly oval, and it is not evenly colored. There are black marks on the cloth, and the smell of burnt chemicals wafts out from the pill.
+
+A small crack starts to form on it as I move my hand too much.
+
+This is clearly an incredibly poor-quality pill. It makes my stomach churn even smelling it, but at the same time, there is a medicinal property that makes my spine and soul tremble with greed, like it desires me to consume this pill anyway.
+
+With a watering mouth, I take out another bronze upgrade card and press it against the sad excuse for a pill.
+
+A flash of white light fills the room, and when I open my eyes again, all signs of my disgust wash away.
+
+The only thing my instincts scream now is to devour this pill as fast as I can, by any means necessary.
+
+It has completely transformed into a light brown color, almost bronze. The surface is smooth, and it is perfectly round.
+
+Three shimmering golden vine patterns wrap around it in perfect symmetry, adding to its elegance and allure.
+
+The room fills with a rich and sweet fragrance, countless times more intense than the dull medicinal scent I was already craving before. Birds, mice, and squirrels within hundreds of meters of my hut all chirp, scratch, and caw.
+
+Without hesitating, I swallow the pill whole.
+
+I still vividly remember the sensation I felt when eating the low-quality healing elixir almost two weeks ago. It feels like I just swallowed hundreds of them at once.
+
+The intense surge of medicinal pressure that floods into my body is completely overwhelming.
+
+It is like I'm being filled up with boiling wax, from the tips of my toes up to the top of my head.
+
+Unlike the healing elixir, there is no one place for this pill to target. It soaks into my skin, muscles, organs, and bones. This lasts many full minutes.
+
+I can feel my entire body heating up, and the boiling pressure from the pill only gets hotter. It doesn't go away.
+
+It digs deeper than the physical body, I feel my meridians ache and bend.
+
+They have been tingling all week as I've tried to cultivate. Yet, it felt like they were clogged with mud, and shriveled up so thin that no qi could even enter them to push any energy through.
+
+The sound of cracking echoes in my mind.
+
+I can feel the muddy impurities breaking apart, disintegrating, and being pushed through my meridians to make room for the energy this pill has released.
+
+A river of golden-brown light rages through me.
+
+It feels like broken glass is scraping the inside of my body as the semi-solid impurities are ground to dust and melted away.
+
+I let out a horrific scream as over an hour of this torture goes by.
+
+Then, another two hours.
+
+Then, another four.
+
+Finally, in the dead of night, the pressure starts to recede. The boiling hot energy forcing my mind to go blank alleviates, and I can actually piece together coherent thought.
+
+A pungent smell of rotten eggs, feces, and sour oil hits my nose.
+
+I dry heave and look down to see dark black sludge covering my body.
+
+It has seeped out of all my pores and even pooled on the dirt of my hut's floor.
+
+The disgusting smell and sight should make me react with a grimace, but only a wide smile ear to ear forms on my face.
+
+It is because when I breathe in, I feel particles of qi flowing into my body.
+
+They instantly enter my meridians and flow through me in perfect circulation.
+
+The more I breathe, the more ambient energy leaves the air and stays inside me.
+
+I close my eyes and sense every qi particle within half a meter of my body. I recite the Jade Purity Soul Scripture's breathing patterns and inner energy flows, as they feel like innate memories.
+
+It is not only one particle at a time that flows into me, it is dozens of them. Within half an hour, hundreds.
+
+I feel a new warm energy cycling through my meridians and slowly gathering near my chest.
+
+Yet, it also makes my body tremble with fatigue and my head start to ache. Apparently, it does not matter if I have blocked or cleansed meridians, there is still a limit to how long I can cultivate each day.
+
+With a sigh, I stand up, and impurities still drip off me.
+
+I walk outside in the dead of night and wash myself and my clothes in the stream.
+
+By the time the smell is gone, my skin is throbbing red from scrubbing, and the sun is starting to rise in the sky.
+
+I walk back to my hut in damp clothes, dig out the stained dirt in the floor, and bury it in the woods. Then, grab my axe and get back to work.

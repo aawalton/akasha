@@ -1,0 +1,143 @@
+---
+id: 474d3548-63cb-5b69-b819-93a02eba1da1
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Two: Return to the Garrison"
+slug: 0073-chapter-seventy-two-return-to-the-garrison
+partOf: flesh-eater-demon-evolution-litrpg
+position: 73
+ownLength: 2313
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3160860/chapter-seventy-two-return-to-the-garrison"
+royalRoadId: "3160860"
+---
+
+Callan started channeling ichor into the seed the second they made it back to the manor, and he didn’t seem intent on stopping anytime soon.
+
+Daphne, meanwhile, couldn’t directly add ichor to the spell, but she did immediately hunch over the runes with the ghost. The two of them were apparently trying to perfect the sigil, figuring out how to make it more effective, how to channel ichor faster. The success of the first seed had been a relief, and the second one seemed to have energized the two mages. Pyre could practically feel the anticipation in the air—they were much closer to destroying the barrier than they’d ever been before.
+
+On her part, the demon kept an eye on the door, one ear listening to the occasional passing footsteps and murmurs in the hallway. She was scheduled to go back to the garrison tomorrow morning, and she already had the pouch of remaining seeds strapped to her belt.
+
+Once the last one was planted, it was just a matter of waiting until there was enough ichor in them to activate the spells. And if Callan and Daphne’s enthusiasm was any indication, they’d probably figure out a way to make that happen faster than not.
+
+The demon’s eyes shifted over to the diagrams, noting down the location of the third circle. It was in the northeast-most corner of the garrison grounds, the closest section to the sanctum. That area was pretty secluded, if she remembered right, and one of the parts covered in trees. It shouldn’t be too hard to sneak over, maybe when she was training or something. Worst case scenario, she’d plant the seeds at night when only the patrol guards were awake.
+
+She glanced over at Daphne and Callan again, who were speaking a bunch of magic jargon while gesturing wildly at the glowing sigil they were gathered around. Her eyebrows rose a little in amusement. Neither one looked like they had any intentions of sleeping tonight.
+
+Settling back against the wall, Pyre watched the sun begin to set outside the bedroom window.
+
+Pyre made her way over to the garrison bright and early the next morning.
+
+Well, “bright” wasn’t really accurate, considering it was so early that the sun wasn’t even fully up yet. It was only just starting to peak over the horizon by the time the demon reached the front gates. If she was a human, the early hour would probably piss her off, but she hadn’t felt properly sleepy since that last time. Safe to say she probably wouldn’t need to sleep again unless the mark moved a third time.
+
+It felt a little odd to be standing in front of the garrison again. It wasn’t like that much time had passed, really, but it sure felt like a lot longer considering all the stuff that had happened.
+
+As Pyre stepped closer to the gates, she noticed a familiar figure standing outside, just in front of the guards, waiting. The demon raised an arm and waved casually. Edna didn’t react, calm and steady as ever, but she thought she saw something like amusement flashing in those icy blue eyes.
+
+“Cadet,” the sergeant greeted in that no-nonsense voice of hers. “I see you’ve made it from the manor in one piece.” The faintest hint of wry humor hung in her voice, and Pyre grinned.
+
+“Not a lot happening over there,” she drawled, following as Edna stepped through the gate and into the garrison proper. Given how early it was, there weren’t too many people around yet, but she could see a few cadets starting to exit their barracks and make their way over to the mess hall. “Definitely less busy than the garrison.”
+
+The woman snorted, but didn’t comment on that. She simply kept walking, turning at the next bend. “I presume no injuries, then?” Her gaze was sharp as she glanced over at the demon assessingly. “You’re moving differently, cadet.”
+
+Damn, she’d forgotten how perceptive the sergeant was. Even after sleeping, some of the heaviness from the mark’s last progression had stayed, and apparently it was enough for Edna to notice and comment on it.
+
+“Ichor-poisoning,” she simply said, tone casual. That was the excuse she’d used with Daphne, and it had worked then (before the shitshow at the sanctum, at least), so she didn’t see a reason to switch it up now. Edna just nodded, apparently accepting that answer and turning to face forward again.
+
+“You’ll be attending training sessions with your old group today,” the sergeant explained as they continued deeper into the garrison. “You’ll be called away a few times for a few extra sessions and tests, but for the most part, the day should look quite familiar to you.”
+
+Pyre hummed in acknowledgement. It sounded like a pretty packed schedule, so it might be harder to slip away and plant the seed during the day. Maybe she could do it during lunch break or something.
+
+Before she could think on it more, a familiar voice suddenly sounded from further up the road.
+
+Standing just outside the barracks, Declan was waving excitedly over at them. Pyre could see Merrick’s tall, silent figure standing a little ways behind him. She raised an eyebrow in amusement as the younger cadet hurried forward.
+
+“Pyre!” he called again, reminding the demon distinctly of an excited puppy. “It’s good to see you!”
+
+The cadet came to a screeching halt a few feet away when his gaze landed on Edna, who he’d apparently just noticed. He stiffened. Declan got into proper posture at an impressive speed, quickly executing a perfect salute.
+
+“Good morning, sergeant,” he said in a much more serious voice. Behind him, Merrick shook his head with a mixture of exasperation and fondness.
+
+“Good morning, cadet,” Edna said wryly. She didn’t seem surprised to see him and Merrick waiting.
+
+The sergeant turned to Pyre, pulling out a paper and handing it to the demon. A quick scan revealed that it was her schedule for the day, and yep, it was pretty damn packed. Given Lord Bellhein’s desire to not lose a guard for more than a day, the garrison had apparently decided the best solution was to just throw as much stuff into her schedule as possible.
+
+She did still have an hour-long lunch break—it was the only real gap before evening—so she’d aim to get the seed planted then. Knowing Callan, he was probably obsessively checking the seeds every minute, so he’d know when it was planted and could start channeling ichor straight away.
+
+“Your schedule,” Edna said simply. She stepped back and nodded at Pyre. “I don’t know how they trained you at the manor, but while you’re on garrison grounds, I expect you to follow garrison standards. I will be watching you, cadet,” she said sternly.
+
+In response, Pyre raised her arm in a salute. She did still remember how to do that.
+
+Edna gave her another look, light eyes unreadable as ever. Finally, she snorted. “Have a good day, cadet,” she said. Without another word, she turned away and continued down the path without looking back.
+
+The moment the sergeant disappeared from view, Declan’s shoulders slumped in relief. Pyre raised an eyebrow.
+
+“You get in trouble or something?”
+
+“He finds the sergeant intimidating.” That was Merrick, now stepping closer with faint amusement on his stoic features. Maybe it was just Pyre’s imagination, but he seemed a little more relaxed than he had been before—less closed off. Which wasn’t saying much, considering the man was an expert at not giving anything away, but it was noticeable.
+
+“Ah, good to know that hasn’t changed.”
+
+Declan groaned. Now that the immediate excitement of seeing the demon again had faded, he looked a little embarrassed. “Let’s just… head over to the mess hall?” he said. “Our first session’s early, so…”
+
+Pyre briefly considered skipping breakfast and trying to plant the seed now, but Declan was right that there wasn’t that much time before she’d have to be at the training grounds. It might look suspicious to immediately ditch, anyway, and there were a lot of cadets outside now, exiting their barracks and moving between buildings. It would probably be better to stick to her original plan.
+
+Plus, the demon realized, she was actually kind of looking forward to talking to the two cadets again. She certainly didn’t mind it, at least.
+
+With that in mind, Pyre nodded at Declan. “Lead the way, kiddo.”
+
+“What’s it like at the manor?”
+
+Pyre looked up from her tray of food. The mess hall had filled up pretty quickly, but the old table they always sat at remained empty. She guessed Declan and Merrick had continued to sit there even after she’d left, effectively marking the space as theirs.
+
+Since stepping into the mess hall, she’d felt the familiar weight of eyes following her movements, heard the whispered murmurs as she passed. Her leaving the garrison early to work at the manor had probably only added to the existing rumors about her, and now that she was back for a day, she’d effectively re-ignited whatever theories they’d been crafting. It was almost nostalgic.
+
+The demon stabbed a potato (or at least, it looked like a potato) and shoved it in her mouth, remembering to chew a few times. She was about to send it to her food pocket, the little space of flesh already formed, before she remembered that she had the [Omnivorous] subtrait now. Might as well test it out now.
+
+Pyre properly devoured the potato, and yep, she didn’t feel the usual sickness that came from eating things besides flesh. It did taste kind of bland, though, but she couldn’t tell if that was a demon thing or a poorly-seasoned-garrison-meal thing. Probably a bit of both.
+
+She stabbed her fork into another piece. “Very big, very expensive,” she replied. “They’ve got random marble statues in the halls and shit. The furniture’s got gold trim.”
+
+Merrick muttered something about wasteful nobles under his breath while Declan’s eyes widened. Despite not being at the garrison for a bit, it had been surprisingly easy to slide back into their old dynamic, chatting over the din of the mess hall while they ate.
+
+“What do you—I mean, what do you do there? Do you just patrol the grounds? If you don’t mind saying,” he quickly added. Pyre hummed.
+
+“Something like that. I got assigned as Lady Daphne’s bodyguard, so I pretty much just follow her around.” She shrugged. “Not a lot to it, really.”
+
+Declan’s eyes somehow grew even bigger. Impressively large peepers, those were.
+
+“Oh wow, really? That’s a surprise. I mean, I heard Lady Daphne didn’t want any personal guards. There were some rumors about her arguing with Lord Bellhein about it the last time he tried.”
+
+Pyre snorted. Yeah, that tracked, and she said as much. Declan frowned.
+
+“I’m surprised she changed her mind.”
+
+“Oh, she didn’t. It was Lord Bellhein’s idea.” Pyre tested one of the green vegetables, and it wasn’t much better than the potato. The younger cadet winced.
+
+“I hope she wasn’t mad at you. I mean, Lady Daphne wouldn’t take her anger out on a guard, but it must have been awkward.”
+
+Had it been? Daphne had been so preoccupied with figuring out what her ulterior motives were that she’d been talking from day one. Not that Pyre was very good at determining what was “awkward” to begin with.
+
+“We get along pretty well,” she said instead. “She’s pretty talkative.”
+
+Or she had been, at least. The sanctum encounter had changed things.
+
+“What about you two?” Pyre nodded at Declan and Merrick. “How’s the garrison been? Move on from axes yet?”
+
+Declan brightened, always eager to discuss training. “We had basic spear lessons, and now we’re learning archery,” he explained.
+
+“Declan was the highest ranked in spear-fighting,” Merrick said. There was a hint of approval in his voice, and Declan scratched his head sheepishly.
+
+“I mean, I did start with an advantage,” he murmured. He turned to the older cadet, smiling. “Merrick’s been helping me a lot with the bow.”
+
+Pyre hummed, grey eyes casually moving between the two. It looked like they’d kept up the extra training and sparring sessions, then. She hadn’t imagined the greater ease around the two cadets, either. Declan had already been getting over his fear of Merrick by the time she’d left for the manor, and now any remaining hesitance had been totally shattered. She recognized the distinct, admiring sparkle in his eyes from when he’d first approached her, now directed at Merrick. The man, in turn, was more openly fond of his pseudo-mentee than she’d seen him around anyone so far.
+
+The demon felt something vaguely resembling warmth rise as she watched them. It was oddly nice to see the two of them getting along, though she couldn’t really say why.
+
+Pyre stabbed her fork into a chunk of meat. She still couldn’t eat it, so she’d have to use her flesh pocket, but it’d be weird if she suddenly stopped eating meat after returning from the manor.
+
+As she chewed, her eyes moved to one of the windows in the hall, focusing on the distant grasses and trees in the background. That was the patch of woods the third circle was in, and it was where she’d need to go to get the seeds planted. It was definitely far enough away that she’d need to wait until lunch to head over—there wasn’t enough time between sessions.
+
+Until then, she’d just have to lay low and not draw attention to herself. Or at least, she thought, glancing at a staring cadet who yelped and immediately looked away when grey eyes fell on her—not more than normal.
+
+Pyre turned her gaze back to the table, stabbing her fork into another chunk of meat. “So, you said we’re doing archery now?”

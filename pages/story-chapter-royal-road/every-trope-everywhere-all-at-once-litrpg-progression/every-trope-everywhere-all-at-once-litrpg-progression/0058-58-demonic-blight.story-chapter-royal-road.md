@@ -1,0 +1,239 @@
+---
+id: 95e0ba50-311c-5fdf-883a-3c08688b07d4
+page-type-slug: story-chapter-royal-road
+title: "58 - Demonic Blight"
+slug: 0058-58-demonic-blight
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 58
+ownLength: 1426
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3597114/58-demonic-blight"
+royalRoadId: "3597114"
+---
+
+Our weapons clashed as we danced through the island.
+
+Kaelor attacked from the left. I struck from the other side. Aurelius moved quickly, positioning himself in a way that let him handle us one at a time.
+
+We didn’t just stick to the ground. We flew high into the air, clashing blades up there as well.
+
+Under normal circumstances, I wouldn’t have been able to keep up with them. Not even close. I was fortunate to have these wings. Strangely enough, it felt easier for me to swing Dawn Sunderer while I was flying through the air, likely because the wings kept me stable. Whenever we fought on the ground, I had to actively remember the fundamentals that Reina had taught me back at the dungeon.
+
+How long had we been fighting? I’d completely lost track of time. Were the others okay? Was the rest of the army able to deal with the twin monsters?
+
+I didn’t know. I couldn’t.
+
+My body was moving on its own now, engulfed in this battle against Aurelius.
+
+Light sparked as Kaelor’s dagger met Aurelius’s ring blade. Aurelius kicked him back, staggering him and revealing an opening. He was about to pierce Kaelor’s stomach when his sword was deflected—not because of Kaelor, but because of me. I had cast a barrier around him.
+
+“Thanks, Allene!” Kaelor shouted as he dashed toward Aurelius. The two went into another flurry of attacks.
+
+I shot forward, leading with my sword, hoping Kaelor could overwhelm him enough for me to land a hit.
+
+But it was a mistake.
+
+Aurelius twisted his body at the last second, his sword grazing my arm. I didn’t feel anything at first and continued my attack.
+
+After several dodges, Aurelius flew back, retreating from the two of us. He looked at me, smiling.
+
+“There it is,” he began. “The first hit.”
+
+It was then that my head began to pound. Heat shot through my body as I tried to let out a scream, but nothing came out. I could only stumble and kneel, planting my sword into the dirt and leaning against it.
+
+“Allene?” Kaelor called, rushing over to me.
+
+My breathing grew heavy.
+
+“Argh… what’s happening to my… body?”
+
+Kaelor put a hand under my chin, forcing our eyes to meet. He gritted his teeth.
+
+“The darkness is consuming your eyes,” he said. “It’s just as I thought. You’ve been hit with demonic blight.”
+
+“...What?”
+
+“It’s a type of poison that attacks the soul itself while keeping the body unharmed. This isn’t good. We’ll need Meriel to dispel the—”
+
+Before he could finish his sentence, Aurelius suddenly appeared in front of us, his sword heading straight for me. Kaelor thrust out his hand, using wind magic to knock him back. Kaelor rushed at him, trying to keep him away from me.
+
+“Allene, you have to get to Meriel!” Kaelor shouted as their blades clashed.
+
+I groaned. “I… I can’t do that… I could barely move…”
+
+“Then I’ll take you to her!”
+
+Hearing that, Kaelor turned and headed toward me. He reached out to swoop me into his arms, but Aurelius wouldn’t let him. Aurelius appeared between us, keeping him away.
+
+I was left on my own as they battled it out.
+
+HP: 569/601
+
+HP: 521/601
+
+HP: 441/601
+
+My health… it was going down too quickly. What do I do now?
+
+HP: 403/601
+
+HP: 315/601
+
+HP: 244/601
+
+No… there was one thing I could do. My stat points.
+
+Unallocated Stats: 17
+
+I dumped every single one of them into Vitality.
+
+[VITALITY]
+
+[20 → 37]
+
+[HP]
+
+[601 → 1026]
+
+I continued to take damage from the demonic blight, but after putting those points into Vitality, I was able to stand. Pouring those stats into HP didn’t just raise the max capacity—it also gave me more health with every point.
+
+HP: 637/1026
+
+HP: 582/1026
+
+Damn it… how long would this poison last?
+
+I cast [INSPECT] on myself.
+
+[STATUSES]:
+
+[Final Health Insurance]
+
+- The next boss you face will survive a lethal attack once
+
+[Boss Music]
+
+- The next boss you face will have overwhelmingly loud music
+
+[Demonic Blight]
+
+- A toxin targeting the soul instead of the body, contaminating it with demonic energy
+
+- A strong source of holy power may forcibly stop the contamination
+
+A stronger source of holy power…?
+
+I looked at the sword in my hand.
+
+Dawn Sunderer.
+
+This could work, wouldn’t it? But how?
+
+I brought it near my face, hoping for some kind of reaction.
+
+Nothing.
+
+HP: 395/1026
+
+My legs were getting shaky again. I could feel myself collapsing soon if I drew this out any longer.
+
+I had no other choice. Even if this was risky, it was the only thing I could think of.
+
+I drew Dawn Sunderer toward my outer thigh…
+
+And slowly stabbed into it.
+
+“Argh…!” I let out.
+
+Kaelor briefly looked in my direction, but Aurelius wouldn’t let that go without any consequences. His attacks picked up pace, forcing Kaelor to focus on him.
+
+At first, only blood spilled from my thigh. I clenched my teeth, tears forming in my eyes as I slowly sank the blade deeper into my flesh.
+
+Did I make a mistake? Was I just hurting myself for no reason?
+
+Then, darkness itself began to leave my body, soaking into Dawn Sunderer. The more that came out, the more stable I felt. My head slowly stopped hurting. The heat filling my body began to disperse.
+
+HP: 211/1026
+
+That was the amount of health I had left by the time the demonic blight had fully left my body. I drew the sword out of my leg as gently as I could.
+
+But that barely helped. I felt everything. Hell, it was probably better if I took it out quicker just to get it over with.
+
+I couldn’t stand up straight anymore. I used my wings to pick myself up, hovering just above the grass. I’ll have to stay like this until I get treatment for the injury.
+
+At the very least, the plan had worked.
+
+[TROPE COMPLETED: FIGHTING FIRE WITH FIRE]
+
+[SKILL ACQUIRED: PURGE]
+
+Type: Active
+
+- Consume one negative status effect affecting you
+
+- The affliction is cleansed and unleashed upon nearby enemies
+
+This ability can be used once per day.
+
+The moment Kaelor and Aurelius saw me back on my feet—well, technically back on my wings—they stopped their battle. Kaelor returned to my side, while Aurelius kept his distance.
+
+“How did you…?” Kaelor asked.
+
+“I drew out the demonic blight with this sword,” I said. “I can’t walk anymore after stabbing myself in the leg, but I had no other choice.”
+
+Aurelius narrowed his eyes.
+
+“I didn’t think you would know to do that,” he said. “You’re more knowledgeable than you appear.”
+
+Kaelor glanced at the wound on my outer thigh. “Will you be alright?”
+
+“As long as I keep flying, yes. It hurts like hell, but I should be fine as long as I’m not on my legs.”
+
+“Meriel should be able to heal you once we regroup,” he said. “You should head back to them.”
+
+He was right. I was in no position to fight now.
+
+“What about you? Will you be okay?”
+
+I expected Kaelor to say what he always did—that he would be fine on his own.
+
+But he didn’t.
+
+“I don’t know,” he said. “But I won’t have you die on me. Go help the others. Since they haven’t caught up to us, we can assume they can’t get through all the monsters. They need you, Allene. Go.”
+
+I nodded, turning.
+
+But I couldn’t fly away.
+
+Because something had appeared in front of me, catching me off guard.
+
+The twin monsters.
+
+How…? When did they get here?
+
+One of them whipped its chain into me, causing me to tumble out of the air and smash into a nearby tree.
+
+Kaelor turned. He didn’t expect them, either.
+
+The same twin that had hit me whipped its chain toward Kaelor. He barely dodged it. The other twin grabbed him, keeping him still for a moment. He sliced its hand with his dagger, forcing it to let go.
+
+But the distraction gave an opening for Aurelius to attack.
+
+He shot forward, appearing just in front of Kaelor.
+
+And landed an attack.
+
+“AGHHHHH!” Kaelor screamed.
+
+I was dizzy from the impact after hitting the tree. I slowly regained focus, and it took me a second to realize what had happened.
+
+“Kaelor…?”
+
+I looked at them, trying to see what had happened.
+
+And that was when I saw it.
+
+Kaelor…
+
+His left arm was sliced off.

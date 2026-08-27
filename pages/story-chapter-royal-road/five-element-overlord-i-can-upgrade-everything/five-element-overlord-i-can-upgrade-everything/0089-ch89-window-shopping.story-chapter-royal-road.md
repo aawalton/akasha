@@ -1,0 +1,109 @@
+---
+id: 30660e20-6d27-506b-b628-590f0cec05bf
+page-type-slug: story-chapter-royal-road
+title: "Ch89 Window Shopping"
+slug: 0089-ch89-window-shopping
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 89
+ownLength: 1626
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3624043/ch89-window-shopping"
+royalRoadId: "3624043"
+---
+
+The streets feel dense with qi, close to standing right on top of a private low grade vein all to myself, even though there are thousands of people on every block.
+
+“There are six perfect grade veins beneath this city. Often, they’re rented out by the minor foundational families for private cultivation sessions. Other times, they’re harvested solely for their spirit stones. Either way, there is always leakage into the streets.”
+
+I nod along, and Lan Xin points at a few storefronts owned by major qi refining families, and the minor foundational clans.
+
+There are a few familiar looking green robes of other Azure Cloud Sect Outer disciples in the streets, and some buying or selling items in shops. I see hundreds of them, and don’t recognize a single face.
+
+However, when any sect members get close to us, they all bow in respect to Lan Xin. Not a single one dares to show her any disrespect.
+
+Shopkeepers that recognize her step out of their stores and bow, welcoming her to come in while giving special discounts. She keeps her head high and does not look at anyone.
+
+I remember this demeanor very well, from the stature she held at Black Iron Mountain. The woman would not look at a single other disciple, and talked down to them like they should be grateful to be in her presence.
+
+Her soul begins to stir with strong waves of fire, as her confidence is built up higher and higher with every compliment and performance for her attention.
+
+“Seems like you’re quite the big shot…” I murmur under my breath.
+
+“I am. You may not fully understand it yet, but in the Azure Cloud Sect, I’m the 3rd Ranked Beauty of the new generation. If you don’t count the inner sect, I’m ranked at number 1. In a small city like this, any cultivator that has the opportunity to lay their eyes on me should consider it a once in a lifetime fateful encounter.”
+
+Her smile widens, and she lifts her chin to the sky.
+
+As I walk behind this beauty, I take in the tones and words of many mid and late stage cultivators we pass. There are many that freeze in shock like it is their first time seeing a goddess. Others welcome her back to the city, and everyone speaks in a graceful practiced tone.
+
+She certainly finds great pleasure in this attention, and it’s clear she does this often.
+
+Even so, genuine fear, respect, and awe fill the gazes of every person she walks by.
+
+I roll my eyes and start analyzing the slower traffic alleys in between streets, reading system scans of everyone that comes within my spiritual senses, and come to an interesting finding.
+
+There are large portions of the city’s shop workers that are 9th and 8th grade spirit root initial stage qi refiners, and some that are even mortals without spirit roots. Almost all of the mortals have Martial Warrior Physiques.
+
+I find it strange, but don’t speak up any more. I just take in the sights of the city.
+
+The most common shops are small talisman stands, along with low and medium quality weapon dealers.
+
+The less common, but still abundant shops are the dozens of pill shops with an assortment of qi gathering, qi nourishing, healing, and marrow cleansing pills. Other shops have assorted low and mid quality spirit fruits. Each one of them could be enough to supply the entirety of Red Pine Market.
+
+They sell low quality pills, and medium quality pills out in the open. There are a few with bright display cases holding a single high quality pill.
+
+The most abundant one is a qi gathering pill. While one of these low quality small white elixirs would be 2 to 3 spirit stones, a medium quality pill costs 7 to 10. A high quality qi gathering elixir goes for up to 25 spirit stones alone.
+
+Only the high end shops sell medium quality pills, and very few claim to have high quality elixirs in stock.
+
+Almost every shop follows this same structure, keeping high quality pills at ten times the price of low quality.
+
+Only a select few of the higher end shops have a single high quality qi nourishing pill for over 500 spirit stones, and not a single shop has a high quality marrow cleansing pill left in stock.
+
+If the low quality versions were already over 400 spirit stones back in the Red Pine Market, their high grade versions must be thousands of spirit stones each even with a hefty discount. It's no wonder Lan Xin couldn’t buy more than three for me.
+
+The only real advantage for average cultivators shopping here is the quality of pills. I see no physique manuals, or interesting unique artifacts. Everything seems to just be very standard items. With a single upgrade card, anything I could buy in these outer shops would be the same as what I can get from the Red Pine Market.
+
+We stop in the middle of the entire city, to see three main impressive towering pavilions in the center square with signs above their entrances; Mu Family General, Wang Family General, and Jiang Family General.
+
+All of them have sweet smells wafting out of their entrances, and high quality pills, talismans, and weapons displayed out front. Everything is geared toward qi refiners of every level.
+
+A single one of these stores has more wealth than the rest of the entire market.
+
+Yet, there is only a long line in front of one, the Jiang Family store.
+
+“Spirit gathering pills are on sale! Only 1 spirit stone each! All weapons are half off, and a free low quality fireball talisman comes with every purchase, no matter the cost!” a young red headed cultivator outside their shop yells over and over.
+
+Lan Xin sees my tightened gaze, “I told you there is tension rising in this city. The Jiang family have been lowering their prices for months now. To the point where they can’t be profitable… They’re just trying to bleed the Mu and Wang families dry.”
+
+She crosses her arms and looks over at the other two shops that only have a few regulars walking around inside.
+
+Yet, my attention stays on the Jiang family shop, looking up to its higher private floors.
+
+“Do you want to go inside? All three families hold me in high regard, I can get you a better discount than anyone else in this city.”
+
+“What do they have in those top floors? Is there anything better than the bland shops we’ve walked past so far?”
+
+Lan Xin shrugs, “It’s mostly where they keep their high grade pills and weapons. Every once and a while there is a perfect grade weapon in stock, but they’re usually just kept in storage until auctions. What in particular are you looking for?”
+
+My gaze turns away to the Wang and Mu’s stores, then back to the Jiang’s. A subtle wave of vibrations comes from it that makes me shiver all of a sudden. I take a step back, but don’t overly react, as no one else in the town square seems to have sensed it.
+
+“I don’t know. Maybe old physique manuals, or some kind of soul artifact? Something unique that isn’t normally available in the other public shops.”
+
+She stops to think with a serious expression, “I don’t think the foundational clans would openly sell their physique manuals, I’ve never seen one available on the top floors. Though, small shards of soul metal are sold regularly for spirit stones. True soul artifacts are all classified tier two items, I’ve never gotten my hands on any foundational crystals to buy those…”
+
+Her soul twists in a fashion that tells me she’s embarrassed, and slightly uncertain about her answer. I can tell she does not have a good enough relationship with these clans to truly see their best items yet, but does not want to tell me that directly. There appears to be an upper limit to her influence, and I’ve found it.
+
+If she can’t gain access with her prestige, there’s no way I will find anything of value.
+
+“That’s fine. I don’t have any foundational crystals either. What about elixirs or natural herbs with the chance of enhancing the grade of my spirit root potential? Even if it's a miniscule chance, I’ll pay any price in spirit stones.”
+
+Lan Xin’s disappointed soul twists back into a playful fire. She chuckles and replies in a sarcastic tone, “Right, right, and I want a divine dragon as a spirit beast. Let’s name some other fantasies that will definitely come true.”
+
+She lets out a sigh when I don’t laugh along, and continues, “Seriously, a spirit root grade is innate in a person when they’re born. Everyone knows there is no way to enhance it no matter how rare or potent the herb.”
+
+Her words register, but not long ago this fiery woman had no idea there was even an 11th or 12th level of qi refining. Clearly there’s no commonly known way in this city, but I do not believe it's impossible.
+
+I contemplate whether I still want to enter these larger shops, but my hair stands up on end even straighter before I can choose for myself. The vibrations I felt before grow even stronger, making my bones ache this time.
+
+After fighting blood demons up close with nothing but my fists and martial physique, I’ve become extremely sensitive to their aura. Even in a semi-resting state, I can feel a tormented blood energy ridden path from a distance. It appears that deceased heir Jiang Ran is not the only one in their clan that dabbles in the demonic path.

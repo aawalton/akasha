@@ -1,0 +1,221 @@
+---
+id: 6959653a-ef3c-5bba-8ffc-226276d4fc51
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighteen: Winrow"
+slug: 0018-chapter-eighteen-winrow
+partOf: flesh-eater-demon-evolution-litrpg
+position: 18
+ownLength: 3577
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2596018/chapter-eighteen-winrow"
+royalRoadId: "2596018"
+---
+
+The guards were whispering again. Morris frowned, squinting through the front window of his shop to try and get a better look outside. Despite his best efforts to keep that window clean, time had permanently clouded its surface, leaving his view of the street warped at best. Still, even like this he could make out the rough outlines of the two guards stationed outside his store. Their heads were turned to each other, clearly chatting.
+
+Personally, Morris hadn’t wanted any guards. He was running a general shop, for god’s sake, and he knew practically every soul in Winrow. You’d have to be a fool to try and steal from him. The guard captain, however, had insisted. “It’s regulation, Morris,” he’d said. “Any stores that sells class crystals must have guards posted.”
+
+In the years that had passed since then, he hadn’t dealt with a single robbery attempt, which further proved his point about the guards being unnecessary. The only real benefit that came out of the whole situation was the gossip he managed to overhear from them.
+
+Like now, for example. Morris furrowed his brow and slid out from behind the back counter. No one was in the store right now, anyway. He strode toward the window and picked up a rag along the way so he’d have a decent excuse, then started pretending to wipe the shelves.
+
+“—haven’t heard—message—no response,” one was murmuring. Morris craned his ear. His hearing, unfortunately, wasn’t what it used to be.
+
+“—think it was the chimera?” said the second guard.
+
+Chimera. The very word made the shopkeeper shudder a little. It seemed like the chimera was all anyone could talk about lately—not that he blamed them.
+
+Throughout his entire life in Winrow, Morris had never heard of a chimera appearing on the peninsula. There just wasn’t enough ichor to create one.
+
+He, like most others, had laughed when the guard captain’s son had sworn he’d seen one in the forest. He’d been adamant about there being secret ichor streams somewhere, claiming there were discrepancies in the peninsula’s ichor concentration levels, but no one had taken him seriously.
+
+He was a good kid, Morris thought (Young man, he mentally corrected. It was easy to forget when he’d watched that boy grow up, and his scrawny stature certainly didn’t help). Serious and naturally curious. A surprising stubborn streak a mile wide, undoubtedly inherited from his mother.
+
+But, well, he’d never been particularly good at magic despite his passion for it. The other mages in the village had all said the same thing: the entire peninsula was ichor-poor. You wouldn’t even find the most low level forms of ichor-warping here. One young man with a dubious magical resume saying otherwise wasn’t going to turn any heads. Most people assumed he was saying it for attention, that it was a last desperate bid to prove himself.
+
+Then one day he’d disappeared into the woods, swearing he’d find proof.
+
+Two days later, a chimera with bloody claws had attacked the village sanctum.
+
+Guilt couldn’t even begin to describe how Morris felt.
+
+The shopkeeper shook his head, realizing his arm had stopped moving at some point. He began wiping again.
+
+When the guard co-captains had sent out patrols to track down the chimera’s location, they’d explicitly told them to watch out for signs of their son, too. No one had argued with them, but everyone saw it for what it was—grieving parents refusing to see the truth.
+
+And now, it looked like those patrols had gone missing as well. After Henry’s message, no one had heard a word from them. Technically it hadn’t even been a day yet, but the lack of a response to the communication spells was worrying. Based on the guards’ current gossip, it sounded like there was still no sign of them.
+
+Morris frowned. He’d never thought something like this would happen in Winrow, of all places. It was a peaceful, isolated village where few things were ever a surprise. Things like this weren’t supposed to happen here.
+
+Abruptly, the shopkeeper realized the guards had stopped talking. When he glanced out the window again, he found them standing back in their usual positions on both sides of the door, eyes watching a figure approach. It was hard to make out exact details through the cloudy window, but Morris thought he saw the figure nod to the two guards before pushing open the door and stepping inside.
+
+Tall, was Morris’s first thought. The stranger who walked in—and it was a stranger, Morris had never seen them in the village before—had to hunch down slightly to get through the doorway. Combined with the broad shoulders and the hints of muscles beneath the long cloak they wore, they cut an imposing figure in Morris's cozy shop. He could see why the guards had straightened at the sight of them. The distinct scent of soil reached his nostrils, and he frowned. Had they come from the forest?
+
+The stranger glanced around the store, sharp grey eyes that reminded Morris of steel scanning the shelves and tables. Every step they took sounded heavy, though it didn’t seem to be a deliberate attempt at intimidation. The stranger seemed completely assured, demeanor casual. The sort of person who simply naturally took up space.
+
+“…Can I help you?” Morris asked slowly. At some point his hand had stopped moving, and he now gave up the act entirely and tossed the rag aside. He could see the guards watching closely from the doorway, and for once, he was actually grateful for their presence.
+
+“Yeah, actually.” The stranger’s voice was low and a little bit raspy. They took a step closer, the floorboards creaking below their feet. Morris froze on instinct, but they stopped after one step, leaving a good distance between them. Morris squinted. He’d assumed the person was a man at first, given the overall stature, but on closer inspection he thought it might be a woman.
+
+“I’m trying to buy some class crystals. Heard I could get them here,” she continued.
+
+That sounded like a perfectly legitimate reason to enter his store. Morris mentally scolded himself and attempted to ease his nervousness. Travelers were rare, but there’d still been several over the years. He’d had mercenaries in his shop, powerful mages here for research, inspectors sent to judge their ichor sanctum. There was no reason for him to be so tense when this traveler hadn’t done anything. She wasn’t even carrying any weapons as far as Morris could tell. Still, try as he did, he just couldn’t shake the feeling that something about her was off.
+
+He cleared his throat. “You’ve come to the right place, then. How many do you need?”
+
+She hummed, thinking for a moment. “Three,” she finally said.
+
+Morris nodded, straightening. “That’ll be 300 frags,” he said. The stranger snorted slightly, like she found something funny, but he couldn’t tell what. She didn’t say anything, though, so he continued. “Just give me a moment,” he said before promptly stepping behind the counter and through the door leading to the back of the store.
+
+Once he shut the door behind him, he exhaled. He really needed to get a hold of himself, he thought. He was acting like some paranoid freshfaced shopkeeper jumping at every possibly suspicious customer. There were guards outside, for crying out loud!
+
+After taking one more moment to collect himself, Morris rummaged through the storage space, carefully unlocking the safe holding the class crystals. He pulled out three, then closed and locked it again.
+
+Each crystal sat in its own little transparent box. Class crystals were really quite innocuous looking, all things considered—they looked like any other small crystal you might find in the wild, though their perfect spherical shape and slight silver sheen gave them away.
+
+Boxes in hand, Morris returned to the main section of the store. There, he found the stranger standing by the counter, a coin bag in one hand and a pile of coins resting atop the counter that she seemed to be counting through. She was muttering under her breath, chuckling at one point which struck Morris as an odd thing to do when talking to oneself, but she soon looked up and slid the extra coins back into her bag.
+
+“Here you are,” Morris said, quickly counting the coins on the counter as he approached. 300 frags, and they hadn’t set off the counterfeit identifier spell he’d had placed either. It looked like he really had been worried for nothing. His shoulders relaxed slightly. It must be the chimera; it was making him all wound up. “Do you need a bag?”
+
+“That’d be nice, yeah.”
+
+Morris reached for a bag to set the crystals in. “So, you passing through?” he asked casually. “We don’t get a lot of travelers around here.”
+
+The stranger didn’t answer immediately. For a brief moment, her eyes flicked to the side, then forward again. Morris frowned. He could’ve sworn he’d heard muttering for a second there, but the woman’s mouth hadn’t moved. He shook his head. Maybe his age was getting to him more than he thought.
+
+“Getting away from the war while I can,” she finally said. Morris made a sympathetic noise. “Seems nice and quiet here. Thought I’d check it out, see if it’s a place I’d like to stay.”
+
+“Winrow is lovely, great people here,” Morris agreed. He placed the boxes into the bag and tied it securely. The woman grinned, and some of that uncanniness returned.
+
+“Yeah? Seems like it.”
+
+The shopkeeper hesitated. “If you’re staying here,” he began, “I should warn you to stay away from the forest. A chimera was spotted recently.” Though, based on the smell of soil lingering on the traveler, she’d probably already been in the woods. She was lucky she hadn’t run into the creature. He raised the bag to hand it over. “The guards are going after it, but until then, I recommend finding a safe place to stay.”
+
+“I’ll keep that in mind.” She raised a hand to take the bag. For a moment, Morris’s hand brushed against her gloves while he was passing it over. He frowned a little when one of the fingers of the glove was seemingly empty, but he didn’t say anything. If she was from an area close to the warzone, who knew what kind of injuries she was hiding under that cloak.
+
+“Have a good day,” he said as the traveler turned to leave. She glanced back and smiled, the expression just a little too sharp to feel natural.
+
+“You too.”
+
+“That was easy.”
+
+Pyre heard Callan sigh near her ear. Despite not being able to see the ghost, she could very easily picture his expression right now. The stress had radiated so powerfully off of him since they’d entered the village that she was half convinced people could sense him just from the sheer panicked aura alone.
+
+As the demon continued to walk down the street, her eyes casually swept over her surroundings.
+
+She hadn’t known what to expect from “Winrow,” as the place was called. She had a few vague associations about villages, namely that they were smaller than cities, but not much else. She had even less of an idea of what to expect from a village located in a world with monsters and magic and shit.
+
+As it turned out, Winrow was, indeed, small, but there were more people than she’d expected. A long dirt road ran through a collection of wooden buildings, its surface packed down firmly from years of villagers walking across it. The buildings themselves were mostly short and squat with steep, pointed rooftops. There was a good amount of people moving about the village, too, though most gave her a wide enough berth that she could comfortably mumble to Callan without anyone hearing her.
+
+As for the “magic” part, well, at a glance it was pretty normal. On closer inspection, though, Pyre could see a few subtle hints that this was, in fact, specifically a village in a fantasy land. There were the runes carved into the edge of the village, for example—probably the alarm spell. Good thing Pax had kept her end of the deal. They hadn’t heard a peep when they’d crossed.
+
+There were also a few thin streams of ichor occasionally found running along the edge of the road, climbing up the walls of a particularly important-looking building, coiled around large crystals that were probably also some sort of magic device. Most of those streams, Pyre noted, made their way towards the center of the village, where the buildings grew both denser and taller. According to Callan, there was some sort of sanctum in the center of Winrow that held the village’s ichor pond. It also, incidentally, was where the evolution crystals were kept.
+
+Speaking of the crystals, Pyre stored the class ones safely away in her (and by “her,” she meant the dead guard’s) bag. They really didn’t look like much, she thought, but Callan hadn’t said anything when the shopkeeper had handed them over, so they were probably the real deal.
+
+As much as she wanted to hurry and get a class now, she figured she should probably wait until they were outside the village. If it was anything like her first evolution, there’d be a lot of very conspicuous glowing lights everywhere. Not great when you were trying to be lowkey.
+
+“I can’t believe no one’s stopped us,” Callan muttered by her ear. Pyre snorted.
+
+“What, do you guys randomly question every traveler passing through?”
+
+“Well, no, but you—” the ghost cut himself off, trying to find the words. Pyre imagined he’d be waving his hands around if she could see him. “You’re covered in blood!” he hissed.
+
+“Under the cloak,” the demon corrected. “Don’t forget the mud.”
+
+“I still can’t believe that worked,” Callan muttered.
+
+On the way to Winrow, Pyre had quickly realized that the smell of dried blood was maybe a little too noticeable on her stolen clothes. She didn’t have time to wash them, so she’d piled some fresh damp earth onto them, then shook the dirt off before donning her cloak again. The smell of soil did wonders to mask the metallic blood smell.
+
+“Turn right,” Callan said quietly at the next intersection. Pyre did so.
+
+She soon found herself on a wider street lined with shops. There were even a few stalls sitting on the edge of the road, and she could spot various villagers flitting between the buildings on errands.
+
+Grey eyes swept over the crowd absentmindedly, eventually landing on what appeared to be a family of three strolling with bags of groceries in hand. They were laughing about some private joke, their voices ringing out over the chatter of the crowd. The child in the center was gripping both of her parents’ hands, swinging a little between them.
+
+Pyre watched as they disappeared down the street, gaze lingering on their backs for a moment. She shook her head and continued walking.
+
+It had gone quiet, she realized. Callan had stopped his muttering at some point. His silence, though, felt deliberate. At this point she knew the kid well enough that she didn’t need to see him to know when he was thinking about something.
+
+“What?” the demon said bluntly.
+
+“Sorry, it’s just—” Callan stumbled over his words, struggling to voice his thought. “It’s just, do you ever feel, I don’t know, lonely?”
+
+She raised an eyebrow. “What do you mean?”
+
+“I mean, you don’t remember anything. Anyone. Wouldn’t that feel, I don’t know, a little empty? You must’ve had a family back when you were a human. Friends.”
+
+Pyre was silent for a moment, simply continuing to weave through the crowd. She was no longer surprised when no images or flashes of memories rose at Callan’s words. She’d gotten used to the black void of her past by now.
+
+She opened her mouth, ready to tell Callan that no, she was actually doing pretty damn well if she did say so herself, but she paused. For a moment, her mind wandered back to the pit, to that lump with the stuttering voice who’d seemed so desperate to be understood. She pursed her lips.
+
+“I wouldn’t know,” she finally said. “It’s not like I’ve got anything to use as a reference.”
+
+Callan was quiet at that, so she continued. “What about you?” She raised an eyebrow. “I heard those guards talking about your parents back in the forest. You gonna visit them?”
+
+“…I shouldn’t,” the ghost said quietly.
+
+“You could, though.” Pyre’s voice was matter-of-fact. “They wouldn’t even have to know you’re there.”
+
+“I know. But I still shouldn’t.”
+
+The demon shrugged. “Suit yourself.” She turned the next corner at the ghost’s direction, then slowed down as her surroundings suddenly quieted.
+
+The shops and stalls and passersby disappeared. Instead, a row of trees lined the sides of the road, a few ichor lights shining in their branches. On the earth, the ichor streams converged into two larger paths that framed the road on both sides like guiding beacons. The silver lines proceeded forward, disappearing into the solid stone building constructed in the very center of the village.
+
+The first thing Pyre noticed about it was its shape. It was circular, a stark contrast to all the squares making up the rest of Winrow, with a wide arch above its door. The next thing she noticed were the guards. There were at least ten of them that she could see, standing mixed between the decorative (or magic) stone pillars circling the building.
+
+The third thing she noticed was the damage. On the road, deep slashes gouged into the earth like scars. She could see dents in the dirt where rubble or other stones had fallen. One of the tree trunks was cracked, and the building itself had scratches marring its stone exterior. The door, in particular, looked like it had been completely torn apart, then hastily patched together again with an additional two guards posted in front of it for extra security. Hell, if Pyre squinted hard enough, she thought she could see some faint old bloodstains on the stone, too.
+
+Callan sucked in a breath beside her, and the demon didn’t blame the kid for his reaction. It was clear something had happened here.
+
+Still, Pyre strode forward in casual strides, ignoring the wary glances thrown her way by the guards or the way they tightened their grips on their weapons. They really couldn’t be more obvious if they tried.
+
+“The sanctum is closed, sir,” one guard in the front said with a gruff voice. Pyre paused.
+
+“Oh, really?” She gestured at the street behind her. “I’m traveling. I was just at—”
+
+“Morris,” Callan helpfully whispered.
+
+“—Morris’s shop. Was hoping to get a look at the sanctum.” She’d briefly considered mentioning praying or paying respects or something, but considering she didn’t actually know what went on at a magic ichor sanctum, she decided to keep it vague.
+
+Thankfully, the direct mention of the shopkeeper’s name seemed to calm the guard down some. He shook his head.
+
+“You picked a right time to travel,” he muttered.
+
+“Was it the chimera?” At the sharp gazes shot in her direction, she grinned placatingly. “Morris mentioned it.”
+
+“…Yes.”
+
+Pyre nodded. She took a few steps closer to one of the scratches in the earth, bending down as though inspecting it. “Looks like it did a number,” she said casually.
+
+“It was strong.” The guard’s voice was somber. “Far stronger than we were ready for.” He released a shaky breath. “We—We weren’t prepared. It appeared so suddenly.”
+
+Pyre could practically sense Callan hanging on to every word. Clearly this had happened after the kid had left the village. The demon made what she hoped was a sympathetic noise.
+
+“Did you guys take care of it?” she asked, though she could already tell what the answer was from their faces.
+
+The guard shook his head. “No, we… we were unable to follow it. It disappeared into the woods.”
+
+It made sense that the patrol she’d ran into were there, then. They’d been looking for the thing.
+
+Pyre figured it was probably still in the forest somewhere. She was planning on hunting it down eventually, both for her own curiosity and because it probably had interesting subtrait shards. That was on the backburner, though, compared to getting the crystals. If anything, she kind of hoped it got more powerful by the time she faced it. It would make for more subtraits, probably, and a more fun fight.
+
+“Damn, it really just appeared out of the blue like that?” She shook her head. “Hope it doesn’t come back.”
+
+“It shouldn’t,” the guard said. He straightened. “We’ve sent out a few patrols to look for it. One of them confirmed it went north.” Except it was actually her that they’d ran into, so who knew what direction it actually went.
+
+“Winrow itself should be secure for the near future,” the guard continued. “The beast came for the crystals. Now that it’s succeeded, it should have no reason to return.”
+
+That made Pyre pause. She looked up sharply. “The crystals.” Her voice was blunt. “The evolution crystals?”
+
+The guard looked a little confused, but he nodded.
+
+“It took them.”
+
+Another nod.
+
+Pyre stared at the guard for a moment, silent. In her ear, Callan cursed quietly, voicing her own thoughts.
+
+Well, shit.

@@ -1,0 +1,161 @@
+---
+id: 2e9ccf6d-a9fc-590d-ba04-10568706b744
+page-type-slug: story-chapter-royal-road
+title: "Chapter 403: Graveyard of the Gods"
+slug: 0440-chapter-403-graveyard-of-the-gods
+partOf: dungeon-of-knowledge-complete
+position: 440
+ownLength: 2576
+unit: words
+ownProgress: 2576
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2660733/chapter-403-graveyard-of-the-gods"
+royalRoadId: "2660733"
+markedReadAt: "2026-06-29T20:26:57.523Z"
+---
+
+Ali inspected her minions, making minor adjustments to the allocation of gear for her trolls. She had all her usual stalwarts, and she had even asked Azryet for permission before summoning her demons in his domain. He had reluctantly given it, but his mood seemed to improve dramatically when she had summoned two Frost Dragonets and an Armored Drake, rumbling his approval of her choice of dragons for the hunt.
+
+“Are you ready?” he asked. “Once we begin, you will need to move quickly. The more you delay, the more reinforcements you will encounter.”
+
+The plan was simple. Azryet had provided her with a single kobold – a void affinity tracker or scout that he claimed was level one hundred and seventy. The kobold would guide her through the chasm and deep inside the demon dungeon to the lair of the Sentinel, while Azryet himself would launch several diversionary attacks elsewhere to draw attention away from Ali’s efforts.
+
+“Almost,” she said. She had one more monster to summon that was critical to her plan. It was a rather audacious plan that had come to her when she had recalled her fights in the dungeon of Blooming Rot with Naia, and how her little friend would have been ideal for a stealth mission into the heart of another dungeon. She paged through her Grimoire and summoned her last minion rather quickly. After all, it was only level three.
+
+Devouring Consumption – Ooze – level 3 (Nature / Death)
+
+“What is that for?” Azryet asked, rumbling as he craned his neck downward to examine the relatively tiny blob of mottled black and green that sat in her arms, slowly swirling.
+
+“This is my distraction,” Ali said, holding the blob up for him to inspect. She appreciated the scale of the distraction Azryet would provide, but she wanted something a little more direct and personal. She walked over to the edge of the chasm and gazed down at the sea of dead dragons and demons littering the floor – she would need to traverse that to get to the other side. She leaned out, buzzing her wings for stability, and her heart swelled with warmth as she suddenly realized what she had done. Wings… my wings… She swallowed and collected herself, not comfortable revealing how flustered she had just gotten to the all-seeing eyes of the dragon god, and then dropped her little slime over the edge, watching as it fell almost a hundred meters to land with a distant splat.
+
+“Eat,” she sent to the small Ooze monster.
+
+“It’s… an ooze,” he said, his voice filled with contempt. “Another dragon would have been a superior choice.”
+
+“Dragons have their uses,” Ali said, not missing the fact she was, in fact, talking to a dragon god. But the slime was unique, and any moment now…
+
+Your Devouring Consumption has reached level 4 (1 temporary).
+
+“Dragons are the superior race,” Azryet said, sounding like he was about to launch into a lecture.
+
+Your Devouring Consumption has reached level 5 (2 temporary).
+
+“I like dragons,” Ali said. “But I also like trolls, and the Oozes have unique abilities.” She politely refrained from saying she liked her demons in his presence.
+
+“But dragons have scales, and breath weapons, and talons. And cunning,” he argued.
+
+Your Devouring Consumption has reached level 7 (+2, 4 temporary).
+
+“They do, but I don’t need scales for this job,” she told him.
+
+Your Devouring Consumption has reached level 11 (+4, 8 temporary).
+
+She could already feel her Ooze growing larger, submerged as it was in a sea of corpses, it had access to infinite fuel to feed to its ridiculous Consumption ability. It was still only a level three monster, but it was already wearing eight temporary levels from its unreasonable skill. It was feeding on the smaller corpses right now, but as its body expanded, it could engulf bigger monsters and more of them, growing progressively faster. And there were certainly plenty of monsters to choose from.
+
+I wish Naia could see this.
+
+Your Devouring Consumption has reached level 19 (+8, 16 temporary).
+
+“I don’t see why you want to fool around with those lesser beings,” Azryet said with what sounded suspiciously like a huff as a tendril of void-black smoke puffed out of his nostrils.
+
+Your Devouring Consumption has reached level 23 (+4, 20 temporary).
+
+“This Ooze has a singularly interesting ability,” Ali said, finally deciding to let him in on her plan. At least now that her Ooze was gaining some momentum. She opened the Devouring Consumption’s abilities and shared the relevant skill.
+
+Your Devouring Consumption has reached level 34 (+11, 31 temporary).
+
+Consume – level 1Mana: Consume a fully Engulfed corpse to gain at least +1 temporary class level and grow larger [Greater growth and level gain for higher level corpses]. All temporary levels and growth are extended for +10 minutes per use. Duration: +10 minutes.Death, Nature, Buff, Wisdom.
+
+Deep below, she felt the Ooze shift as it stretched its rapidly growing body to the maximum, barely surrounding a fallen dragon that was far larger than itself. Glutton, Ali thought, but she kept it to herself. After all, that was precisely what she had summoned it for. The magic of nature and death percolated inward as it consumed the corpse.
+
+Your Devouring Consumption has reached level 62 (+28, 59 temporary).
+
+Her monster was growing far faster than she had even hoped, consuming corpses that were much higher in level and power. It was still level three in skills, but its size and attributes had expanded dramatically, with no obvious end in sight.
+
+“Oh,” Azryet said, a look of surprise flickering across his face.
+
+Oh indeed. And as they watched, huge tentacles of black and green burst from the sea of corpses, snagging a small flying imp right out of the air, and dragging it down.
+
+Your Devouring Consumption has defeated Blood Imp – Demon – level 72 (Blood).
+
+Your Devouring Consumption has reached level 76 (+14, 59 temporary).
+
+This was what Ali had hoped for. Her Grimoire sprang into existence as a cloud of runes swirled about it, alighting on the pages as it encoded the class and skill level upgrades her Ooze had just earned, fourteen levels for a level three class killing a level seventy-two imp – non-temporary levels. I would have thought it would be more, she thought. But there would be time to analyze it later. It was time to go.
+
+She hovered in the air, wings humming as she created a massive barrier platform for all her minions and levitated them over the edge. “I’ll see you when it’s done,” she said, and began to descend.
+
+“Good hunting, Aliandra,” Azryet said, waiting till she was a safe distance before spreading his wings and launching himself into the chasm with an earsplitting roar.
+
+Byron walked across the ancient, heavily scored stone battlements as Southport’s city-wide shield flickered and pulsed under a heavy, continuous barrage. Huge lances of ice shattered right in front of him, while deadly curse magic burst into dark cascading showers of broken death mana. His steps were deliberate and slow as he considered their situation. He ignored the writhing banshees with their twisted visages of hate and hunger as they scratched and clawed at him, desperate to get at his living flesh, their screams and wails making the magic of the barrier vibrate like a gong. Down below him, sprawled across the rolling hills and farmland beyond the shield, the morning light began to reveal the full extent of the Blind Lich’s army, now finally arrived and encamped in the lush valley outside the eastern gate. The two pincers of the Lich’s formation had set up camp higher up in the hills, encircling Southport in his trap.
+
+Helios, protect us, he thought. He was not a particularly devout man, but today he prayed. They would all need it. He just hoped his weapons order from the dwarven smithies had arrived from Thorel Moldur before they were fully locked down into siege.
+
+“General, sir!”
+
+“At ease,” he said. The guard’s face was white as a sheet, as if he’d seen a ghost, with glittering beads of sweat on his brow despite the brisk morning air. A veteran of many battles against the undead, Byron did not judge the recruit for his visible terror, after all, the swarm of banshees relentlessly trying to claw their way through the barrier were literal ghosts, and all more than twice the soldier’s level.
+
+He had hoped it might be manageable, that his efforts in the field harrying their approach would have had some winnowing effect on the undead, but if it had, he could not see it. The sheer size of the army was overwhelming, and more undead had been arriving throughout the night. The lesser undead, zombies and skeletons, covered the land like a sea, but it was the greater undead that filled him with dread.
+
+How does he have so many Death Knights? Somehow, his foe had concealed the full size of his forces and drawn him into this conflict, pinning him down and wrapping him into his trap. And it was not just the Death Knights. At every step, he had been outplayed, outthought, and outmaneuvered by the Lich. Instead of allies, Ciradyl was now vomiting forth a plague of banshees and spectral archers that blighted the land, destroying towns and settlements all across the peninsula as they advanced on Southport. Elven archers that he had hoped to count on in his time of need were denied to him by some strategic masterstroke no one had seen coming.
+
+“How does it look, sir?” the guard asked, failing badly in his efforts to conceal his fear in front of his commander.
+
+“I’ve seen worse,” he lied. Morale was shaky enough already without him fueling it with his worries. The truth would become self-evident soon enough without his input.
+
+While the troll kingdoms of Meere Kada, Telim Gor, and Aman Rak did not adhere to mutual defense treaties, they were traditionally a powerful buffer, blocking enemies from the east. Now they were gone, swept away in the tide of undeath, their numbers and their power feeding the Lich’s army with warriors, shamans, and the giant berserker trolls he could see stomping about below. They would be a serious problem when the charge came.
+
+But the biggest blow the Lich had struck in the longer campaign had been the destruction of Aman Rak. Without access to the shrine, even the slow trickle of new evolved classes the trolls had allowed was gone, and every single death he had suffered in the field was an irreplaceable loss. Against the Death Knights and their curses, losses had been high.
+
+“Aah, General. I found you!”
+
+“Garland Manning,” he said, clenching his teeth to keep a lid on his annoyance. “What brings you to the battlements?” The Head Acolyte of Helios, and advisor to the crown, strode toward him like a man bent on a crusade, his robes swirling about his feet like a billowing cloud in the crisp morning air. Behind him, Byron’s own aide scurried, the gnome struggling to keep up with the taller human.
+
+“Have you heard? The Heroes of the Crimson Blade are dead, killed by a dungeon in Myrin’s Keep.”
+
+“I read the report,” he said. Whatever Garland wanted, Byron knew it would most certainly be proper and legal, and yet somehow contrived to increase the Head Acolyte’s dominance and influence in the political games of the royal court.
+
+“Well?”
+
+“Well, what?”
+
+“What are you going to do about it, Dragovich?” Garland demanded.
+
+“It is a loss for the battle, but there’s nothing to be done,” he answered, forcing his words to sound calm. The Heroes of the Crimson Blade had a reputation, and their power would have no doubt been helpful in the fight, but he had lost far more and far better soldiers already.
+
+“I’m not talking about them!” Garland exclaimed, his face reddening in his fervor. “The dungeon! It must be exterminated! It is the law.”
+
+“I do not need you to remind me about the law,” he said. “Unless you missed it, Southport is under siege.” He waved out toward the army slowly emerging from the shadows as the sun’s light began to brighten. “I do not have time for an irrelevant dungeon in some godforsaken little town.”
+
+“The Prince shall hear of your reluctance to follow the royal decree,” Garland said.
+
+“Fine, tell him,” Byron said. Garland was a zealot, insisting that the letter of the law be followed at all times, and he seemed to take it on as a personal quest to root out any dissension. This was the typical nature of his scheming: to come at him when he was powerless to act, and then use circumstances to cast doubt on his loyalty to the crown, undermining his position. But this time, he was out of his depth. The Prince is no fool, let him try, he thought. Facing a force of the undead the size of which had not been seen since the Breaking, Byron was certain Garland would be ignored. Or better yet, chastised in public.
+
+I can hope, he thought unkindly as the Head Acolyte spun on his heel and stormed off with a dramatic swirl of his robes. While they shared a patronage to Helios, Byron knew there could never be understanding between the two of them.
+
+“Crixi, please tell me you have some good news,” he said, turning his attention to his huffing and puffing aide.
+
+“Thorel Moldur has fallen, sir,” she said, gasping for air.
+
+“Fuck,” he said, the uncharacteristic profanity escaping his lips at the devastating news. The dwarven city, home of some of the biggest blacksmithing guilds on the continent, had been his only hope for quality weapons and armor in the quantities he needed. He had known it would be a critical supply line for his defenders, and he had sent a substantial force to protect it. That it had fallen, and so quickly, merely underscored just how badly the Lich had outplayed him. He clenched his teeth, his jaw beginning to hurt from the stress of a mounting avalanche of bad news. “How did it happen?”
+
+“Banshees and assassins got in through the catacombs,” Crixi said. “The banshee wails paralyzed the defenders, and the shields dropped. The Death Knights finished it off. We have several thousand dwarven refugees on the way.”
+
+Refugees that he would need to protect somehow from the army arrayed below them. Somehow. He gritted his teeth. “Make sure to station guards in our catacombs and sewers. Let’s not get caught with our pants down. Any of the blacksmiths among the refugees?” he asked, hopefully.
+
+“No,” Crixi answered, killing his brief hope. “The only reason the refugees escaped is because the Death Knights took the time to isolate and then annihilate the forges and the smiths. It was clearly a primary objective.”
+
+“Crixi, I need you to contact the Royal Treasurer and get permission to offer weapon and armor quests,” he instructed.
+
+“Yes, sir. She’s not going to be happy.”
+
+He grimaced. It was going to be unbelievably expensive, but without the smiths of Thorel Moldur, he was left with no choice – he couldn’t fight the undead with rocks and sticks. “Just tell her that crowns in the bank cannot repel Death Knights.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

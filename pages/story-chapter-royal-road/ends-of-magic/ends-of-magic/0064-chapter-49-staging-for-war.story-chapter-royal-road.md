@@ -1,0 +1,249 @@
+---
+id: 99583a2d-d376-500d-b2e2-34d0cf8ae855
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: Staging for War"
+slug: 0064-chapter-49-staging-for-war
+partOf: ends-of-magic
+position: 64
+ownLength: 2837
+unit: words
+ownProgress: 2837
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2957653/chapter-49-staging-for-war"
+royalRoadId: "2957653"
+markedReadAt: "2026-06-29T20:09:19.079Z"
+---
+
+By focusing on the individual components of the message, Nathan could see more details on the terms for the upcoming war. If he focused on the section describing the area as a wilderness combat zone, a map of the continent of Ostren appeared, highlighting a region that could be zoomed in on to reveal a sinuous valley. That map had starting locations marked for the Ashen Accord and the Aleph Grid. It was also annotated with a helpful note that any attempt to access any region of the zone before the war would be punished by disqualification and the undoing of any actions taken.
+
+Similar detail was available for every other part of the terms. It carefully defined what it meant by a doomsday artifact, as well as mind magic, in clear and concise terms that didn’t have any loopholes that Nathan could see. The whole thing appeared very well put together, as if a team of lawyers had worked for years to craft something that was not only bulletproof but also clear and concise.
+
+The Heirs had moved to the side of the courtyard during Kaelis's speech, and Nathan rejoined them. “This is a new angle of Davrar, much more helpful.”
+
+“We’re seeing it as the Questors do,” Aarl responded, studying the information that was presumably hanging in front of him. He glanced at Nathan. “This will disable your second class.”
+
+Nathan shrugged one shoulder. “Not as much as they think it will. Only a few of those class skills are stealth, and even the ones that are stealth-focused are multifunctional.”
+
+I wonder if the antimemetic skill makes it harder to plan around me.
+
+Sarya interrupted their conversation, gesturing for them to follow her. “It is time to plan our battle.”
+
+“Not yet,” Sarah said, eyes flicking over the empty air. Her expression was concerned. “You can teleport, but Nathan can’t. Can we reach the battlefield by tomorrow? It’s not close.”
+
+Sarya blinked, then swore. “Dragonfire. Is it possible? It would be better for you to leave now than to miss it. We can’t reschedule.”
+
+“I don’t know the scale of the map,” Sarah answered. “How far is it? In relation to our journey to the blight.”
+
+“About a quarter of the distance,” Sarya said.
+
+Sarah relaxed. “Then we can make it. We’ll need to depart early tomorrow to be sure.”
+
+“Not so early,” Stella answered. She’d pulled up her own map and was doing math to compare the distance. “Not with my wind spell.”
+
+“I'm glad to hear it,” Sarya said in relief. "It would have been an unforced error for you to miss the battle. Come, we need to make our plans quickly. You are the key pieces to this war. First, accept the invitations.” She gave them all an expectant look.
+
+Nathan pulled up the box again, hesitating on the line that said he wouldn’t be able to teach his antimagic. He had a moment of worry that the ban would be extended somehow, that he’d be chained by that restriction forever. He didn’t have any immediate plans to spread his antimagic Insights more than he already had, but it was a backup plan if he couldn’t get what he needed from the Questors.
+
+But Davrar supplied him with information to soothe his worries. There was no possible way for the ban to last longer than the duration of the war, and there was no loophole for that to drag out indefinitely. It would end automatically as soon as every participant left the area, surrendered, or was killed. The chances that he was still restricted this time was very low, and two days hence the chance was effectively nil.
+
+Their route to real change lay in fighting this battle and winning it, so he accepted the invitation.
+
+The Heirs all did likewise, and Sarya nodded in satisfaction. “Good.” She brought them to the same room where Kaelis and the other leaders had convened yesterday to discuss strategy. When Sarya entered with the Heirs in tow, they found Nierna poking over a magical artifact of some kind that projected an illusory map of the upcoming battlefield.
+
+She looked up with a sour expression. “Finally. Now you can explain how we’re supposed to win this war as you intend.”
+
+Sarya gestured the Heirs forward, speaking to them. “Pretend it’s just you, fighting that grid. How would you do it?”
+
+Nierna threw up her arms in frustration, but didn’t interfere as the Heirs studied the map, carefully noting the terrain and marking the distance and sightlines available to them. Their battleground was around the bend of a broad valley, at the bottom of which lay a twisting river. The sides were heavily forested, but the center was grass, with a few small hills scattered to break up the terrain. The two starting locations were tall, grassy areas out of sight of each other around the valley's curve.
+
+“These aren’t dungeons, right?” Nathan asked, pointing to a couple of small ruins in the hills and the slopes.
+
+“They were,” Slick answered, having entered while the Heirs studied the map. “They’ve been cleared for centuries. They would be strong defensive points. But if we tried to fortify and bait them in, they'd resort to blasting us out eventually.”
+
+Nathan bit the inside of his lip, thinking hard. “What’s their first move? The Aleph grid seems heavy on mages, so it’s probably to bombard with spells from long range.”
+
+“Just so,” Kaelis answered, stroking his chin. “We have better martial training, so we would seek to close the distance and fight in close. The Aleph grid has powerful long-range firepower. In recent years, they’ve been training their Questors in earth mana to craft fortifications. Their first action is most likely to fortify their position and lob as much magic as they can towards us.”
+
+“And you’d respond by scattering and getting into the woods, then trying to break into whatever fortress they’ve constructed,” Nathan guessed, seeing Slick nod in response.
+
+“How many of them can fly?” Sarah asked. “Is it a common skill among Questors?”
+
+“Not as common as it should be,” Sarya answered with a mild sneer. “Only the elites of the Ashen Accord can fly, but about a third of the Aleph grid can.”
+
+“Do we need to take any extra Questors into account? Elders on your side or theirs?” Khachi asked.
+
+“Yes, though that is an uncountable task,” Garna answered. “They will only arrive tomorrow, and will fight as individuals. We do not know who will respond to the call for either side. But they will be more powerful than any normal Questor. Expect more mages for them, with greater powers.”
+
+Nathan made eye contact with Stella, who had been measuring angles and calculating flight times. He didn’t need to ask to know what she was thinking, and neither did the rest of the Heirs. “Are any of them proficient dispellers? Or can they interfere with spells using skills instead of magic?”
+
+Slick answered this time, reciting intelligence he seemed to know by heart. “Evesor is renowned for disrupting hostile magic and is a wizard of similar power to Badud. His apprentices are proficient in the same art; you saw them at the term meeting. The two to his left in the same cut of robes. They also know a long-range version of the disintegrate spell, which they will likely attempt to use immediately. It is not an uncommon Insight among the Aleph grid.”
+
+Nathan glanced at Sarah, who gave a single dip of her head to indicate her understanding. “That’s my target to hit.”
+
+Stella spoke up. “Amoh as well, he was also able to break spellworks with his shadows.” The rapidfire exchange between the Heirs was unsettling to the Questors, and Nathan saw Nierna and Kaelis looking back and forth, uncertainly. Sarya and Slick both wore matching grins. They recognized experience in action.
+
+“Do they have other attacks with the range to strike us in the initial moments?” Khachi asked. “Nonmagical ones. Those who struck at Nathan tonight were mercenaries. Will they be present?”
+
+“If they granted enough of a dragon’s hoard to Enfanalin for her to violate the truce of Ostren, then they gave enough for her to fight in a war,” Kaelis said.
+
+“Then it is my burden to shape light to our defense,” Khachi said confidently.
+
+Aarl laughed. “Then I’ll be the last line. I think we’re set. I’m sure there will be enemies to kill after your grand plan, but it’ll be a light burden.”
+
+“By Deiman, what is your plan?” Nierna nearly yelled in exasperation. It sounded like she was at the end of her rope.
+
+Stella giggled and opened her mouth to explain, but Khachi cut her off, eyes landing on Nierna like target lasers. “We’ll kill most of them. Then they will be open to your forces, with the pillars of their strength dead.” The light coming from the wolfman’s eyes was harsh, and he swept his gaze over the Heirs as if to communicate a message.
+
+Sarah seemed to get it immediately. “We will fight separately from you, like the elder Questors who haven’t arrived yet. We will fight from here,” she indicated the front of the zone that was the Ashen Accord starting area. “The rest of you should start farther away. We won’t be able to protect you.” She frowned, then spoke under her breath in a way that was still clearly audible to everybody. “We may not even be able to protect ourselves from an entire grid for long enough for this to work.”
+
+Nathan blinked, finally understanding the subtext going on here. Stella and Aarl were still confused, but they were staying quiet. He added his own piece, “We also won’t be able to travel to the starting area by teleport. We’ll need to leave early tomorrow morning. We’ll take a carriage at dawn to reach our destination in time. But before that, I want a night of rest. You know our part, now you can make your own plans.” He turned and abruptly walked out of the room, the Heirs following close behind him.
+
+Their sudden exit left the Questors speechless, though Nathan heard multiple people start talking right before the door closed and the privacy enchantments kicked in. He jerked his head. ‘Let’s go.” His friends followed him towards their rooms, and Nathan was not entirely surprised when the door behind them opened again, and Sarya caught up to them a moment later.
+
+“What spark jumped in your brain?” She didn’t sound upset, but instead curious to hear what had set the Heirs storming out of the room.
+
+The lack of a demand was an expression of trust, and Nathan appreciated it. But he stayed silent. He had his suspicions, but in the end, he’d been following Khachi’s lead here.
+
+The wolfman shook his head, gesturing ahead. “Privacy.” They all marched on in silence until they entered their rooms and had Stella cast a set of spells to block spying. Only then did Khachi sit down and explain. “When Nierna swore by Deiman, I felt something. A spark of betrayal. She asked for the details of our plan with a devious purpose.” His eyes were intent, and Nathan could tell he was holding back a snarl. “I do not know her game, but it is not a righteous one.”
+
+Sarya took the accusation in stride, her eyes widening only a fraction as she considered the information. “Do you think she’s a spy for the Aleph Grid?”
+
+Khachi threw up his hands. “My eyes are blinded. I felt her wickedness, but I do not know its source. It could be simply a hatred for us and a willingness to commit low deeds to see her purpose made. Or it could be a planned betrayal, for the Aleph Grid or some other force.”
+
+“Hear me, she's been questioning us since we arrived,” Sarah said. "I'd believe her a traitor.”
+
+Sarya pressed her lips together. “Perhaps, but that is not a challenge worth winning. She’s been a member of the Accord for two Endings, and on the board for one. I can quiet their worries and leave you here. Kaelis and Henrish have seen your work. They know the deeds you are capable of. The largest worry is that you plan to unleash a doomsday weapon from Sussu’s vault.” She met Aarl’s eyes pointedly. “It won’t function under these rules.”
+
+“Good to know,” Nathan replied. “I was worried that Badud would break the rules to kill us.” He snickered. “Or try, at least.”
+
+“Davrar takes a larger role in Wars than almost anywhere else,” Sarya said. “I’ll make your excuses for you and vouch that it is solid. I hope it works as well as you expect. I am staking the weight of my reputation on it.”
+
+“It should,” Nathan replied with a smile. “And if it doesn’t, we’ve got some contingencies that will be impressive enough. We’ll win this war for you.”
+
+Sarya hesitated as she got up, looking torn. “It’s my desire to hear your plans, but I need to return. Do you truly plan to leave at dawn?”
+
+“No,” Sarah said. “We’ll leave two hours before, to throw off any attempts. Is there a back exit?”
+
+Sarya laughed and shook her head. “Truly, you bear the caution born of experience. There isn’t another exit, but I can arrange another carriage to depart at that time. I would like to accompany you to the target, if you would let me. There are further matters to discuss, and time slips by."
+
+“Sounds good to me,” Nathan replied. “We won’t actually take the carriage. We’ll fly the whole way.” He was glad that Sarya would be coming with them, but Sarah and Khachi looked conflicted.
+
+Sarya caught it and stopped before she left the room. “I swear by Deiman’s righteous glory that I hope for a clean victory in the war, and a smooth resolution of the following conclave.” Then she turned and left.
+
+Khachi exhaled a long breath once the door had closed behind the Questor. “That felt true and clean.”
+
+“She knows the details of Faith better than you do,” Sarah replied, but her suspicion was half-hearted.
+
+“She wants to win the war nearly as much as we do,” Nathan said. “But her goals for the conclave may be different from ours. At worst, it’ll be because she thinks she knows the evils of Davrar better than we do."
+
+“Which she might,” Aarl said tentatively. “She’s seen more of them.”
+
+“But she hasn’t felt them,” Sarah argued. “She is an ally, but she is not a mortal. She doesn’t know what it’s like to know your entire people will be unmade, that there is nothing you can do to defend them. For her, there is always another battle, another chance to win. We get one opportunity, one life.”
+
+Stella interrupted, putting her hands out to calm the siblings. “Instead of arguing, we should discuss the details of our battle plan and our contingencies. Generalities are good enough for the Questors, but we need to have an actual idea of what to do.”
+
+“And then we should go to sleep,” Aarl said, yawning. “We’ll need the strength to kill lots of Questors tomorrow.”
+
+The Heirs spoke quickly about the battle, going over their preferred plan and then diving into follow-ups and contingencies. It wasn’t enough for the Ashen Accord to win the war; it had to be obvious to all that the Heirs did the heavy lifting. That meant they were going to cut loose and dominate the battlefield as much as they were able.
+
+Nathan went to bed in a pile of blankets on the floor, feeling surprisingly unbothered by the battle that would happen tomorrow. They had a plan and knew more about what they’d face than they had going into the blight or even Esebus. The last thought he had before slipping into sleep was that by this time tomorrow, they would have finished Sarya’s deeds and secured their conclave. Or they’d be dead, and wouldn’t care anymore. The thought was more comforting than Nathan expected.
+
+Permanent Talent 1: Magical Destruction 4
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 9
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 8
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 4
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 4

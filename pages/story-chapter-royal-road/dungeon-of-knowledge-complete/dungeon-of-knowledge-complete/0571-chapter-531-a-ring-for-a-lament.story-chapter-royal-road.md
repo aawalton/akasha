@@ -1,0 +1,253 @@
+---
+id: 9e00795d-8756-5bbc-8f7a-43c15759a990
+page-type-slug: story-chapter-royal-road
+title: "Chapter 531: A Ring for a Lament"
+slug: 0571-chapter-531-a-ring-for-a-lament
+partOf: dungeon-of-knowledge-complete
+position: 571
+ownLength: 5551
+unit: words
+ownProgress: 5551
+publishedAt: 2026-02-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3024989/chapter-531-a-ring-for-a-lament"
+royalRoadId: "3024989"
+markedReadAt: "2026-06-29T20:31:45.522Z"
+---
+
+Malika bent backward, the arrow aimed at her throat missing by a hair’s breadth, and then she unleashed the graceful second form, punches that the Nine Paths described as ‘strike like a thousand vipers’. Unfortunately, they seemed to be blind and half-asleep vipers today – the gray-skinned Wight evaded all but two hits, dodging with uncanny speed before suddenly vanishing from sight the instant her left fist connected.
+
+Fade. Ugh.
+
+Invisible or not, Malika could still see him. Or at least, his radiant energy. Filled with so much domain mana and power, he shone like a beacon in her mind – a second sun. She sprinted after him, her feet barely brushing the corrupted ground as she burned stamina to match his sudden surge in speed, and when she finally landed another punch, his invisibility broke, revealing him once again to the entire raid.
+
+He cannot be allowed to combine that Power Shot with Ambush. No. Someone will die.
+
+The tiny trickle of health flowed into her body, leeched from the withered wight’s granite-hard, twisted flesh by her Soul Strike. She had spent several prior attempts learning that Nendir possessed such vast stamina- and mana-leech abilities that a strategy of striking at his resources was as pointless as emptying the ocean with her hands. Not that attacking his health was proving much better – his health had not budged, even under the onslaught of the full raid.
+
+I’ll just be selfish then, shall I? Steal whatever I need. Denial wouldn’t work on him, but with her Relentless aptitude and Second Wind skill taking care of mana and stamina, stealing health was almost always the optimal approach.
+
+She dodged again, but this time, one of the arrows clipped her shoulder. It slammed into her like a boulder flung from a catapult, tossing her into the air like a rag doll.
+
+You have been cursed with Life Tap.You have been cursed with Nature Vulnerability.
+
+A reflexive surge of healing mana pulsed through her, cast automatically by sheer force of habit as she simultaneously arrested her flight with a pulse of stamina fed to Divine Step and released under the soles of her feet. Then, she teleported directly back into the fray, punching the Wight solidly in the back of the head as she reappeared and refreshing her Soul Mark seconds before it expired.
+
+You’re welcome, Calen. A ghost of a grin creased her lips. Calen’s fervent praise for her Soul Mark and the accuracy boon it granted had bordered on religious. Especially when stacked up as high as it was right now.
+
+A sudden, potent vortex of stamina arose within the breast of the powerful undead. It had been some time since Rezan had passed, and Malika had been steadfast in keeping her Infinite Perception activated just as he’d advised. She’d not let it fall even once since, and by now, she knew she would feel blinded without it. That familiar, yet strange prickle of understanding filled her awareness as the long-lost and forgotten eye-magic of her ancestors fed information directly into her mind.
+
+“Crystallize!” she shouted. There were three abilities she needed to call. This one, the Power Shot, and the overwhelming super-attack Lyeneru had identified as Annihilation Arrows.
+
+Malika held back, withholding her Martial Disruption. Crystallize was the easiest of the three to disrupt, but doing so had left the raid with too few hiding spots to avoid the Annihilation Arrow storm. Learning that had cost them two attempts, and she was getting tired of fleeing with her tail between her legs. It’s time we showed the wight what we’re made of.
+
+She fed more stamina to her eyes. When she had first earned her upgraded Relentless aptitude, she had known it was amazing, and yet, it had proved to be far more impressive than even her wildest hopes. It was truly universal. She was currently reserving stamina rather than mana to maintain her Infinite Perception eye magic, and so, when she increased the amount, the clarity and precision of the wight’s dynamic stamina formations sharpened dramatically under her scrutiny. No detail was hidden from her gaze. She might have seen the wight’s attacks frequently enough that she could recognize them in her sleep, but fighting without her perception skill pushed to the limits would feel like crossing an unfamiliar living room in the dark.
+
+Nendir drew back his bow and paused. Stamina rushed through his core, energy sucked in from the domain like a maelstrom and compressed into a dense formation that began to pulse and shine with immense power.
+
+“Power Shot!” Malika shouted. As Lyeneru braced for dismemberment in the air, high above them, Malika flooded her eye magic with every available scrap of stamina. Fresh understanding rippled through the quiet pool of her mind and out into the world around her. As the wight’s formation rushed down the length of his arm toward his bowstring like a river breaking its banks, Malika released a pulse of energy that flashed outward. As her energy collided with Nendir, it pierced his undead flesh and, surprisingly, shredded the dense formation. The cool, dense rush of the boss’s power careened sideways, roiling with sudden chaotic energy and ripping itself apart within him. Malika suddenly found herself dodging a fierce backlash that tore a half dozen giant gouges out of the blackened ground about them.
+
+Well, that’s a first, she thought. She had expected that both the Annihilation Arrows and the Power Shot skills would be uninterruptible – they were domain-enhanced skills, after all – but it seemed that they were ‘merely’ challenging. Boosting her interruption and awareness beyond reason had revealed a new path. She could almost feel Rezan’s wisdom crinkling the corners of his eyes somewhere in the back of her mind. “Interrupted,” she yelled. Surprise during a raid was never a great idea, and the healers were braced for a devastating attack that wouldn’t come.
+
+But it was right on the tail of her fresh success, while she was still grinning, that a new formation suddenly appeared. Something that she had never seen before. “Something new!” she screamed. The powerful wight blurred slightly as if briefly phasing out of reality, and then two of him stepped out from the same spot. Two identical Wights, carrying two identical bows. It was, in a way, reminiscent of her memories of Rezan’s fist splitting multiple ways simultaneously.
+
+Is that a decoy? It can’t be. It’s not insubstantial.
+
+Infinite Perception insisted that this was far more substantial than an illusion technique. Malika unleashed a flurry of blows, landing solid punches on both wights before they separated too far, but even though she landed those hits, neither vanished. Nor was there any difference in their energy that Soul Sight could discern. I can’t tell the difference!
+
+“Clone!” Calen yelled. “Attack the one on the left!”
+
+Then the Wights unleashed a double storm of very real arrows, sending the entire raid fleeing back to Myrin’s Keep immediately. The Annihilation Arrows skill was deadly enough by itself; doubling it was not even worth testing.
+
+Malika stalked out of the Novaspark locus with a frown on her face. Ugh, I guess I know what I should be disrupting now. Stupid fight. How the heck are we even supposed to touch him?
+
+Ugh. This is not working, Ali thought. She had four witch doctors doing nothing but Soul Drain to feed the bottomless mana needs of continuously decursing the entire raid. She had them prioritize removing Life Tap even over the Nature Vulnerability, but even so, Nendir’s health hadn’t budged in the slightest in all the attempts so far. There must be something we’ve overlooked here.
+
+She had brought four Troll Bone Champions, too. None of them were ever able to get close to Nendir himself – the legendary bow of the Night Elf was far too powerful and kept tossing them back over and over, but the trolls had learned to keep their distance, retaliating with an endless exploding storm of thrown axes grown from their own bones, enough that they were able to keep Mortal Wounds up near continuously.
+
+And still, Nendir was outhealing the entire raid.
+
+Sure, she had learned a lot from the fight so far, but if the boss’s health remained at maximum, there could be no victory. At least not for their side.
+
+He must have life leech on that bow, she concluded. That, and the crystallization with its incredible siphon, had to be propping him up. Not to mention, the corruption of the Well of Souls wasn’t helping either. So, where can we break his –
+
+“Hide!” Malika shouted.
+
+Immediately, Ali teleported, sacrificing a Glitter Dragonet that had found one of the massive crystal growths for her while simultaneously coordinating with all her minions to scurry to safety. Most of them made it, with only a few starting so far from cover that she required judiciously placed barrier magic to save them.
+
+Even if we overcome the healing normally, how do we beat this? Out in the open, Nendir stood alone, his bow blazing with power as arrows filled the air as thick as rain. Every time the Annihilation Arrow storm forced them into hiding, Mortal Wounds dropped, and then the siphon from the crystallization curse fed the Wight unchecked.
+
+As the roar of the arrow-storm slowly faded, Ali peeked out from behind her cover and surveyed the battlefield once again. To be more accurate, she used a troll to peek out, not wanting to risk her own face in case she’d misjudged. Her forces were rushing out from cover toward ideal positions. Ice mages assisted the tanks by dropping Frost Nova on the loose Anarchic Atrocities. Tol’brekk tore into the Wight with a new set of immense ice-enchanted axes. Other than her treants, he was her only minion that was immune to the knockback effect of the legendary Lunaré’s Lament. And trees were far too slow to keep up with Nendir.
+
+As she had over and over again over all the grueling attempts, she wondered if she should bring more berserkers. The problem, as always, was healing. It might be worth trying it out. Again. She had lost them quickly last time, but perhaps some of their discoveries had tipped the balance?
+
+Domain mana surged, and Malika shouted in response. “Power Shot!”
+
+Ali threw up a barrier in front of Lyeneru, knowing it would offer only insignificant protection against such a powerful domain-enhanced strike. But as she studied the glittering disk of her barrier, summoned in anticipation of the grounded Nendir’s near-deadly attack impaling the grim-faced Lyeneru flying on blazing wings, an old memory sprang into Ali’s mind.
+
+A memory of desperation, falling down a shaft into the darkness with Mato beside her. Her barriers had been fragile then, and in her panic, she had emptied her entire mana pool to summon successive barriers until she had halted their momentum enough to survive.
+
+It was frustration that now gripped her heart, but even though her magic had grown immensely, so had her opponents. Her barriers felt just as fragile in the face of the onslaught. She didn’t even consider the cost; she simply exhausted her entire spell’s capacity, stacking barrier after barrier in front of Lyeneru. The briefest flicker of surprise crossed the flying Night Elf’s eyes in the instant before the gigantic bolt of energy lanced upward from the ground, crashing into the glittering golden walls like a paladin’s two-handed hammer shattering dinner plates. Splinters of golden magic filled the air, flying in all directions. Ali’s mana pool overflowed instantly, sucking in far more than her maximum, and she hastily grounded the excess into boosting her minions before it overwhelmed her.
+
+But even though every last barrier was shattered and Lyeneru still took the hit, her health only dropped to half, and she kept all her limbs this time. Ali didn’t miss the fierce grin that flashed pearly white teeth through the hazy cloud of golden shards.
+
+Something flickered in the corner of her eye. Something witnessed through the sight of a Priest of Azryet, and it commanded her full attention instantly.
+
+It dropped?
+
+Nendir’s health had dropped by a sliver. A tiny sliver. Yes! It had dipped briefly by the smallest amount and recovered nearly instantly. Did I imagine it? No. It had been enough to notice, she was sure of it.
+
+But why? More importantly, how?
+
+Nothing the entire raid had tried had done so far had moved this undead monster’s health in the slightest, and they had tried everything. It felt like flailing at a mountain with their bare fists. Was it Empowered Summoner just now? She had dumped an unbelievable amount of mana into it, boosting the damage of her minions substantially, even though she had merely been avoiding Mana Saturation.
+
+Ali frowned. But she was patient enough to wait. I need to study this.
+
+“Power Shot!” Malika yelled when Nendir’s recharge finally expired.
+
+Immediately, Ali summoned a several-meter-thick stack of barriers in front of Lyeneru and dumped almost her entire remaining mana pool into Empowered Summoner right as the bolt struck. Mana rushed into her pool, drawn from the enormously powerful attack by her barrier magic, and she fed it relentlessly to her minions as extra power.
+
+And this time, she watched his health with exquisite focus and attention. The eyes of every healer in her minion army were glued to the wight.
+
+There! It dipped. I didn’t imagine it! To her astonishment, his health continued to tick down as her minions unleashed their amplified magical power upon the monstrous third-tier undead. By the time Ali’s excess mana supply faded, she had her answer. Nendir wasn’t immune. Not at all. He was more like Joraa, the first time they had faced the powerful Blood Shaman – his outrageously potent health recovery more than outstripped the raid’s total damage. But she had just discovered precisely how close it really was. With just a little extra damage, they would make progress.
+
+Well, more than just a little. The excitement at her discovery quickly faded as she realized the implications. There were very few ways to consistently boost their damage output by enough to make a difference, and it wasn’t like they hadn’t tried nearly everything already.
+
+Unfortunately, the one thing she hadn’t explored was burning a hole in her storage enchantment. Ali pulled out the Eye of the Lich, frowning at the silvery ring and the way it seemed to eat all the light anywhere near it. If it was damage that she needed, this ring could provide it. She couldn’t afford to be squeamish.
+
+“Sorry,” she muttered in Trollish, glancing a silent apology toward Tol’brekk. Then, she slipped the difficult ring on her finger. All her minions suddenly shrank dramatically, and the frustrated howl from her Carnage Berserker echoed across the battlefield.
+
+“Ali?” Calen called, concern flickering briefly across his features.
+
+“Trying something,” she answered, trying to sound reassuring, but the change spoke for itself. Ali’s entire back line surged with a fresh infusion of power as every last magical boost she had was suddenly applied to every minion. Every percentage boost from her aptitudes, all the enchantments on her gear, and even the passive magical boosts from her Arcane Recall mastery skill – the augmentation of their powers was immediate and palpable.
+
+Lightning and nature damage swelled within the bows of the Sylvan Storm archers. Arrows shone with rising incandescent power, lighting up the battlefield as they fired. The troll ice and holy mages unleashed spells that seared across her mana sight. Golden volleys of arcane bolts launched from dozens of demonic eyes shone with new intensity and landed with audible impacts. Ali fed every last drop of her excess mana regeneration into boosting their power.
+
+“That’s… working!” Malika shouted, surprise clear in her tone. “Whatever you’re doing, keep doing it! His health is dropping! A… bit, yes!”
+
+Of course, Ali had no time to rejoice. Now she had the extra burden of using her barriers to protect her physically much weaker minions from the continuous barrage of forking arrows that threatened to destroy them. They had all just inherited the liability of her half-health penalty.
+
+Mana…
+
+The more mana she could feed to her minions, the faster the Wight would die. Ali glanced over to where Havok, Sabri, and Mato were tanking the Anarchic Atrocities and then flew over there to do something she had not needed to do for quite some time. She began deconstructing corpses for mana.
+
+***
+
+It still took over an hour to kill him.
+
+By the time the battle was done, Malika’s punches were so powerful that she was leaving massive craters upon the corrupted ground as her lancing soul magic pierced the wiry wight with the immense force of her blows. Her slow but relentless ramp-up was a sight to behold – and, pretty hard on the hearing too. The impact of her multiple, blurred strikes was like rolling thunder, visibly rattling every creature within a hundred yards of the violent melee clash.
+
+The instant the chimes sounded, Ali slumped to the ground, uncaring of the bubbling sludge and dirt.
+
+Tol’brekk had died halfway through the fight, a victim of spending too much health while under the influence of Ali’s penalty. Keeping him alive that long had taken every scrap of focus she had, and every trick she had learned over the countless fights she had endured. Kir’mogan and the other Bone Champions had also died, a mistake which had almost reversed the fight, but she had spent Arcane Recall to summon him, ensuring they could at least keep Mortal Wounds running.
+
+“You ok?” Calen asked, floating down to land beside her.
+
+“Yes. Just tired,” Ali said.
+
+“I’m glad it’s over,” he said, a flicker of inner pain crossing his face. “Great job.”
+
+“You too,” Ali nodded, and then she turned to examine the glowing words that waited for her in the back of her mind.
+
+Your group has defeated Nendir [The Corrupted] – Wight – level 261 (Nature)Dungeon of Knowledge has reached level 217 (+11).+110 attribute points.Arcane Insight has reached level 129 (+5).Arcane Recall has reached level 66 (+5).Barrier has reached level 112 (+6).Grimoire of Summoning has reached level 74 (+2).Runic Script has reached level 93.Sage of Learning has reached level 95 (+2).Martial Insight has reached level 129 (+4).Empowered Summoner has reached level 111 (+6).Minion Teleport has reached level 73 (+3).Identify has reached level 48 (+2).Inspiration has reached level 40 (+4).Variant: Anarchic Atrocity added to Imprint: Elemental.
+
+“Oh, that’s a lot of levels!” Ali exclaimed.
+
+“Third-tier champion,” Calen supplied. “Our lower-level friends must be enjoying this.”
+
+She glanced about briefly, distracted from reviewing her own monstrous growth. Despite defeating the boss with an oversized raid, Nendir had been in the third tier, and substantially higher-level than everyone besides Lyeneru herself. That meant a lot of growth for the entire group – and the ripple of weary joy, of voices exclaiming and comparing notes was a delight to her ear.
+
+She smiled to herself. We needed this – and we’ll need a lot more, that’s for sure. Did she dare think about her own future tier-up. No. Don’t get greedy.
+
+Ali carefully studied her skill advancements, still experiencing some form of shock at the magnitude, despite Calen’s observation. While she directed her domain to consume what it could, she carefully distributed her attribute points. For the attributes she considered secondary to her primary class functions, she decided on skipping strength entirely, and instead spent four points each on dexterity and endurance, finding both to be worth more to her. A full ten points went into vitality, given the challenges the healers experienced on the odd occasion she had been encased in those crystal shards. Then she spent thirty-seven points on intelligence, thirty on wisdom, and twenty-five on perception, boosting her main skills as much as she could.
+
+That should last for a bit, she decided, and got to her feet, moving over to the corpse where Coria, Lyeneru, and Calen stood, holding a silent, teary vigil with several of the other Pathfinders.
+
+Nendir had been well-liked and widely respected, more so in the Elven communities. They had mourned him when he had died the first time, but Ali gave them all the time they needed because they had been forced to slay him again, and this time by their own hands. It was incredibly hard to face the animated undead form of a dead loved one – she had learned that at the cost of her own, deeply personal agony.
+
+Eventually, Lyeneru sighed. She wiped her face in an uncharacteristic display of emotion and said, “Go ahead, Aliandra. Do us the mercy of disposing of this abomination that masquerades as Nendir.”
+
+Ali nodded and touched the cold corpse, pushing her magic into it and rendering it into its component mana. Leather armor of extraordinary quality dropped to the ground as the body within evaporated, along with the bow, finally released from his gaunt, clawed hand. The heavy purple crystal that had impaled him through the center of his chest landed with the sound of a high-pitched glass chime.
+
+In concert, Ali’s notification chimed, and Sage of Learning gobbled up enough mana to make an ordinary mage faint. Oh? What’s this?
+
+[Sage of Learning]Domain Magic analyzed: Mass Summoning (Anarchic Atrocity).Domain Magic analyzed: Deadshot.Domain Magic analyzed: Corrupted Crystallization.Domain Magic analyzed: Annihilation Arrow Storm.DeadshotRequirements: A single-target ranged attack with a bow.Source: Nendir, The Corrupted.Greatly enhance the power and range of the chosen attack skill. If the attack has a projectile speed, that speed is similarly increased. Recharge: 30 seconds.Skill – Domain MagicCorrupted CrystallizationRequirements: A single-target ranged attack with a bow. Arcane and Death affinities.Source: Nendir, The Corrupted.Apply the Arcane Crystallization domain curse on hit. Recharge: 30 seconds.  Skill – Domain MagicAnnihilation Arrow StormRequirements: Raid-level enhancement or higher. This ability must be delivered by a bow.Source: Nendir, The Corrupted.Fire a storm of endless arrows in a cone of 90 to 360 degrees in front of you. Storm lasts thirty seconds and can be empowered by any normal bow support skills. Recharge: 5 minutes.  Skill – Domain Magic
+
+Like a fresh breeze sweeping in through newly opened windows, the silence was broken by the murmurs of guild members beginning to discuss the extraordinary gear drops, but Ali focused instead on the new Domain Magic skills she had just acquired. Deadshot was straightforward – a power infusion suitable for any assassin-style archer. A specialized attack constrained to a bow, and therefore likely quite a lot stronger than Overpowering Strike. It would be an easy upgrade for her archer bosses defending the walls of Myrin’s Keep.
+
+Corrupted Crystallization, on the other hand, was highly restrictive and therefore situational. While she technically now had arcane- and death-affinity monsters, none could wield a bow. However, being a domain curse, she would probably need to experiment with Curse Aura and see how it behaved. Likely, the recharge limiter would apply, making it fail to freeze an entire raid. More importantly, from having studied it so closely, she already knew the affinity limitations were inherent to the curse itself, and it would be a challenge to integrate it into her defenses. Still, between herself, Ryn, and Calen, she was sure they could come up with something.
+
+While she struggled to imagine a use for the crazy, corrupted crystallization curse, Annihilation Arrow Storm was an easy fit for any archer boss. It functioned like an Elemental Storm of arrows – one which could be boosted and even focused on a specific area. In the hands of one of her Sylvan Storm archers atop the battlements, this ability should be able to wipe out thousands of lesser undead in a single fell swoop.
+
+Especially if I give them an area damage proc item, she thought. Arcane Blast on hit? It should be easy enough for me or Giddy to make. Although such items were expensive, the monetary cost for a dungeon that could manufacture magicite was an irrelevant concern. Time, knowledge, and the challenges of getting it to work were the real challenges. She glanced over at the gear everyone was studying, wondering if something like that might be present there, but she made no move to go check. With so many competent and deserving archers in the raid, it would be inconsiderate of her to even suggest she might take any of it.
+
+Instead, she glanced at the dark ring on her finger with a frown. It had no doubt been the turning point in the fight, and yet, relying on the Eye of the Lich had left behind a slimy aftertaste that tainted the feeling of victory.
+
+Still. It worked. I need to keep that in mind.
+
+It was rather poignant, watching the withered corpse that had once been Nendir slowly dissolving into glowing sparks of mana and floating away while the remnants of the Pathfinders Guild stood vigil. It had been a hard-won fight against an immensely powerful foe. Logically, he knew it hadn’t even been Nendir, just some animated undead magic that worked on his remains. Still, he had found himself wiping welling tears from his eyes at the sight, and the memories of his teacher it evoked.
+
+Hoping to distract himself a little, he checked the notifications for the fight. It had been insane fighting and defeating a third-tier champion boss, regardless of the circumstances. Without a doubt, if Lyeneru hadn’t reached the third tier and been able to tank him, they would have failed.
+
+Nor would they have succeeded without Ali’s quick thinking and the use of the Lich’s legendary ring they had looted from the depths of the Crypt of Kings. Despite the limitations of her reduced vitality and strength, which had clearly impacted her minions the instant she put it on, she had still somehow made it work.
+
+Impressive, as always. He turned his sight inward to study his gains and felt his eyebrows nearly get tangled up in his hairline. Wow!
+
+Realm Hunter has reached level 209 (+12).+120 attribute points.Radiant Archery has reached level 106 (+5).Arrows of Brilliance has reached level 104 (+6).Motes of Light has reached level 80 (+4).Explorer has reached level 116 (+4).Blessing of the Dawn has reached level 85 (+3).Eclipse has reached level 57 (+2).Eyes of the Archon has reached level 83 (+4).Righteous Fury has reached level 69 (+4).Azrael's Wings has reached level 56 (+3).Mirage Armor has reached level 85 (+7).Bowcraft has reached level 17.Cartography has reached level 39.Basic Daggers has reached level 14.Arrows of Brilliance has reached a base skill level of 100.Arrows of Brilliance has advanced to tier two.
+
+Yes! Arrows of Brilliance! He smiled, happy to see the giant boost to his class level, and even happier to see his third skill reaching tier two. He hoped Nendir would have been proud of his archery skills – he had certainly learned a lot from his teaching.
+
+When Calen had first studied his ammunition enchantment skill, he had been extremely curious about the number of enchantments because the way it had been described implied it might change eventually, but he had quite quickly relegated it to the back of his mind, given the ridiculousness of the requirement. It had only been when Ali had reached her first skill tier up that his excitement had returned. Of course, when it did, it had returned in a flood. Eager to finally see the number, he opened the description.
+
+Arrows of Brilliance – level 104You may enhance your next shot with up to 3 [1 + skill tier] enhancements.Granted Enhancements: Light Damage, Increased Range, Grappling Shot, Explosive Shot, Armor Piercing, Speed of Light.Light, Physical, Ranged, Dexterity, Intelligence
+
+There it is. Three. It was a tiny change. Just a single number going from two to three. But it would change nearly everything for him. His primary damage rotation would now be Light Damage, Explosive Shot, and Armor Piercing. That was not all – he could also mix in his utility enhancements with far bigger payloads. It would have been fantastic to have instantaneous explosive arrows delivering Grappling Shot to the swarms of summoned arcane elementals that had blotted the sky. Area crowd control on a vast scale with the precision of instantaneous arrow flight.
+
+I can’t wait. But his ruminations were cut short by the normal after-raid administrative chores.
+
+“Ok, listen up,” Vivian announced. “Taking down a tier-three boss is no small feat. So, good work, everyone. You should be proud of this achievement.”
+
+Calen’s Explorer-augmented gaze scanned the raid, eyes widening at the change he saw. Taking down the wight had swept the group with immense level growth, and it was hard to imagine how that would affect their future capabilities.
+
+While Vivian had everyone’s attention, she stepped aside and indicated the gear Malika was examining. “We have a few item drops to distribute. Congratulations to the archers and rogues, there is a full set of incredible damage-focused leather armor.”
+
+Then she reached down and picked up an exquisitely crafted wooden bow. Calen had never seen anything quite like it, save for during the grueling challenge of facing Nendir’s wight.
+
+“First up, though,” Vivian said. “The wight was wielding Nendir’s legendary bow, Lunaré’s Lament. Anybody want to make a case, or nominate someone?”
+
+The bow’s appraisal appeared in Calen’s mind’s eye with a soft chime, and he eagerly looked inward as the entire raid collectively shared a gasp.
+
+Lunaré’s Lament – level 207Crafted from the heartwood of an ancient Ciradyl tree and tempered in the Well of Souls, this legendary bow is infused with incredibly potent soul and nature magic.Damage: Physical, Ranged, Nature, Soul.+226 Dexterity.+300% to Physical damage.Attacks gain +220% additional damage as Nature.Attacks gain +165% additional damage as Soul.+5% of your damage is returned as Health over 30 seconds.+6% of your damage is returned as Mana over 30 seconds.Knockback.Arrows fork twice.+54% to Attack Speed.Requirements: Dexterity 2175, Intelligence 1242, Strength 165.Quality: Legendary, Unique.Two-Handed – Bow – Ciradyl Wood
+
+“I nominate Coria,” Calen said without hesitation. “It’s her father’s bow.”
+
+“I cannot use it,” Coria said. Her eyes were still red, but she stood tall and spoke clearly. “I would need quite a few levels before I can equip it. Far better to give it to someone who can use it against the Lich’s undead.”
+
+“Who then?” Calen asked, glancing over to Lyeneru.
+
+“I already have a legendary bow of similar quality and power,” Lyeneru answered. “Not quite as good, but it would be better in the hands of someone else,” she amended, the cadence of her words falling oddly on his ears. What was she saying?
+
+Suddenly, Calen got the feeling of being the focus of all the attention, like he was standing in the spotlight everyone else could see. “What?”
+
+“You should use it, Calen,” Lyeneru said.
+
+“I can’t take it over Coria,” he insisted. “That wouldn’t be fair to her or to Nendir’s memory.”
+
+“I agree with Lyeneru,” Coria interrupted, glaring at him like he was a misbehaving child and waving in the direction of the corrupted Well and Nathaniel Sunstrider’s wraith. “Someone must wield his bow against the betrayer, and nobody else is high enough level. It must be you. Besides, Nendir really liked you; he would have approved.”
+
+“But…” he said, but he found he had no real argument. Logically, it made sense. Still, it did not sit right with him somehow.
+
+“If you still feel that way, you can gift it to Coria when she reaches a high enough level,” Lyeneru said. “That way, the bow goes to her eventually, but you can use it to defeat the rest of this dungeon and help the rest of the raid in the meantime – not to use it would be a complete waste by any measure.”
+
+“Ok,” Calen said, finally caving to what seemed to be a united front and accepting Lyeneru’s compromise. At least this way, Coria would eventually have her father’s bow.
+
+He took it, feeling the heft, and testing the draw. It was by far the most incredible bow he had ever held. The delicate white wood was flawless, and the tracery of intricate, glowing runes thrummed with a sense of unreal power, just waiting to be unleashed. A double-leech bow with two powerful elements and a frankly ridiculous amount of physical damage. It had the devastating knockback enchantment that had so crippled their raid’s melee. And he had to admit he was incredibly eager to figure out how the bow’s Fork enchantment interacted with his own Spirit Arrows. Even his most conservative imaginings suggested the effect would be ridiculous.
+
+I should replace my bracer, he thought. With stamina leech on his boots, and health and mana on his bow, he had no need for a low-level leech bracer anymore. Maybe I could get a skill boost for that slot? Either way, he needed to pay a visit to Zor’kan.
+
+“Congratulations, Calen,” Vivian said. “Ok, next up is this leather armor set.”
+
+“Whoever wins that should wash it before they put it on,” Devan said, and despite himself and the prevailing mood, Calen couldn’t help snorting. And like kicking out the wedge holding up the foundation, the group’s natural levity returned like an avalanche of chuckles and progressively more irreverent joking.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

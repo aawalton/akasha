@@ -1,0 +1,121 @@
+---
+id: 454dc7e5-640d-554d-94e4-a44bb659deb7
+page-type-slug: story-chapter-royal-road
+title: "Ch126 A Decision"
+slug: 0126-ch126-a-decision
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 126
+ownLength: 1656
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3860699/ch126-a-decision"
+royalRoadId: "3860699"
+---
+
+I could easily slip away now without being seen.
+
+All of the foundation establishment cultivators that could put me in danger have fallen down the mountain. Even though the initial attack on the Wang and Mu family has been stifled, the patriarch of the Jiang family chose to challenge the mid-stage foundation establishment cultivators alone.
+
+He must have been confident that he could win, meaning it’s only a matter of time before he returns.
+
+In the furthest point of my vision, I watch as Wang Ming takes control of the battlefield.
+
+For some reason Mu Zhiheng has stopped fighting, but there are still some late-stage qi refining blood demons from the Fu, Tang, and Jiang clans trying to fulfill their orders.
+
+The fat man’s gluttonous intent can be felt from here, easily capable of defending against late-stage physiques, far stronger than it was in its budding stage within Black Iron Mountain.
+
+Mantou roars and protects Mu Shulan from the opposite side, and her green eagle’s wings wrap around her to block debris. From this distance, it’s difficult to fully see; the only other highlight on that side of the orchard is a single black-haired mature woman walking leisurely around large burning pits and fallen trees.
+
+Meng Ruo has returned after sending her clan down the mountain back toward Lingshi City. She doesn’t hold back her talisman usage, killing everyone that tries to attack her.
+
+It is not only incineration talismans, but stone bullets too. They are far more powerful than they should normally be. I’ve never seen a so-called perfect grade item be the same strength as my system upgraded artifacts, but it seems like these talismans are at least equal. Some even release concentrated fluctuations that could be even stronger.
+
+Her sleek black umbrella is used to block every attack that comes her way, dozens of late stage qi refining attacks, yet none make it past. They’re all easily diffused like she’s sparring with children.
+
+As the end result of this battle becomes more clear, some of the late-stage cultivators with blood auras begin to run away and stop attacking. A few continue that have completely lost control of their senses due to blood qi poisoning their souls, but now they’re outnumbered and killed off quickly.
+
+Both the Wang and Mu families are safe and secure, and there are moments of silence where no one is clashing.
+
+There are only vibrations and loud echoing explosions coming from below the mountain left.
+
+I grit my teeth, pull my heavy shield into my storage again, and decide to act rather than sit and wait for this to play out naturally.
+
+I make a break for it out of the Wang family’s formation. I run forward to collect the storage ring of the Fu Patriarch, along with various bodies with my perfect grade arrows left stuck in them. I make a sharp turn to collect the left-behind ring and remains of the Tang Patriarch that Lan Xin killed near the Mu family on the far side of the stage too. I do not stop, and run further toward the cliffside behind the stage hundreds of meters away to look down the far side of the mountain.
+
+Two enormous battle craters in the woodland region have already formed.
+
+One is far larger than the other, filled with thick walls of green wood, saturated with qi and the spirit-grade vibrations of the Mu Patriarch’s physique. In the center of the crater, a massive manifested blood fist clashes with the antlers of a pure white moose, with Wang Yang standing on its back strengthening a bright white defensive array tethered to the spirit beast.
+
+Jiang Duo wields a heavy high grade foundational long sword in his other hand. It is far more saturated with flaming molten rock from his flaming mountain physique.
+
+Mu Shouxin summons hundreds of dense green wooden spears into thin air to fend off this sword’s slashes, and lands some attacks on Jiang Duo, but the majority of them are burned to ash before even colliding with his blood energy body.
+
+The ones that land pierce holes in his flesh, but they’re healed quickly as fresh blood aura rushes in.
+
+The pure white defensive array shatters, and the Wang Patriarch is sent flying backward, coughing blood.
+
+Heavy molten rock slashes infused with blood qi collide with the Mu Patriarch next, forcing him to retreat to a defensive stance next.
+
+The Lesser Yang Spirit Moose is the only line of defense left. It lets out a roar, opening its mouth and releasing a bright white orb of energy containing concentrated wisps of its soul, physique, and all of the remaining qi in its dantian.
+
+The attack blasts a hole through this Blood Demon’s body, and Jiang Duo staggers backward. At such close range, this would be a devastating fatal blow to any late stage foundational cultivator without a blood demon physique. However, the hole heals up at a rapid rate, only giving the Wang and Mu patriarchs a matter of seconds to rest.
+
+Demonic laughs echo from the 7th-level foundational flaming blood demon, loud enough for me to hear from over a kilometer away.
+
+“It is hopeless! By now your family heirs and most powerful elders have all been slaughtered! My Jiang family shall claim Lingshi City once and for all! You two old fools have been a thorn in my side for far too long!”
+
+His blood aura rages far more chaotically, and their clash continues, far faster than I can make sense of anymore. Enormous craters are being carved into the ground every single collision.
+
+My gaze shifts to the closer battle, where four initial-stage foundational cultivators try to kill Lan Xin. The yellow pillar of fire that erupts from this woman gets sharper and sharper with every exchange.
+
+However, she is not winning this fight.
+
+I can tell just from the shockwaves of fire that tear up the landscape. Many of them are unstable, and infected by blood aura.
+
+The three 2nd-level foundational Jiang family blood demons are filled with green shards of wood. Their dantians and meridians are leaking qi, and their souls are horribly fractured.
+
+Lan Xin can dodge their attacks and even lands strong hits back on them.
+
+All three have yellow fiery scars they’re unable to heal in the heat of battle.
+
+Jiang Yu, on the other hand, is almost perfectly healthy still, pushing Lan Xin and her serpent further and further away every passing second.
+
+There is no system notification pushing me to save her like before, but if I do nothing both these battles will be lost, and the strongest allies I have inside and outside the sect I’ve spent time trying to build up will be for nothing.
+
+I take a deep breath and mentally catalog my inventory to see what I can safely pull off.
+
+A few possibilities come to mind, but they all include getting down into the center of this battle faster than I’m capable of. One of these options includes the tier 3 upgrade card sitting unused in my storage.
+
+My heartbeat speeds up in excitement while my pupils shift back and forth down the mountain.
+
+I barely notice the Meng Family Heiress calmly walking up behind me. She speaks in a curious tone. “So you’re the one Lan Xin won’t stop talking about. You’re going to save her, aren’t you?”
+
+Meng Ruo keeps stepping forward, spinning her jet black umbrella on her shoulder while looking down the cliffside at the two fights without any distinct facial movements. Her soul remains calm and unreadable, like she does not care about the outcome at all.
+
+I’m unsure exactly what she’s talking about, but the memory of her speaking with Lan Xin like old friends in the honorary Mu Clan’s guest section comes to mind. Her strange enchanted talismans remind me of a certain peach blossom artifact, and I do recall Lan Xin speaking of a high grade talisman shop she liked in Lingshi City.
+
+“Yes, I’d like to, but I don't believe I can. She’ll die very soon unless you have a way to get down this cliff safely and into that battle.”
+
+Meng Ruo shrugs and pulls out a small flying vessel from her storage ring, stepping on its deck.
+
+“I can take you down there, but I will not join you to fight. It is far too risky for me.”
+
+I jump on the back end, and she starts moving without another word.
+
+The ship plunges down over the edge of the cliff, and I come to a final strategy that will work in my mind. “I don’t need any help to fight, but promise me one thing. Once that Jiang Patriarch blood demon gives up on his fight, make sure the Wang and Mu patriarchs do not come to help me. Get them as far away as possible…”
+
+Meng Ruo glances at me with her eyes squinted in confusion.
+
+“Sure, I can do that.” she remarks while looking forward again and steering the flying vessel upward in a curved arc before it touches the tree line below the cliff, about ten meters off the ground, a distance I’m far more comfortable jumping from.
+
+“And give me some of those incineration talismans. The ones you’ve altered with your innate physique. I’ll pay you back when this is over.”
+
+Her squinted eyes widen in disbelief. Meng Ruo’s jaded and unfazed calm soul now comes to life with a small tremor of fear.
+
+I just put out my hand, not waiting for a response. “Come on! We don’t have time for this!”
+
+Her face turns pale, and she pulls out two palm-sized crimson talismans.
+
+While I store them away with a simple nod, the woman opens her mouth to say something, but no words come out.
+
+I ignore her and jump up off the side of the vessel, pulling out three tier 2 artifacts at once.

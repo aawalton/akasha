@@ -1,0 +1,153 @@
+---
+id: 086c04f8-f729-50cf-a527-4f126ed2f9eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty: The Demon and the Noble"
+slug: 0051-chapter-fifty-the-demon-and-the-noble
+partOf: flesh-eater-demon-evolution-litrpg
+position: 51
+ownLength: 2816
+unit: words
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2860744/chapter-fifty-the-demon-and-the-noble"
+royalRoadId: "2860744"
+---
+
+“The kitchens are over that way,” said the guard—Harris, Pyre was pretty sure his name was. He pointed down a narrow hallway that branched off from the main corridor they were currently walking down. “Guards eat in the servant’s hall. Mealtimes will change based on your schedule, but if you’re ever hungry, the cooks won’t look twice if you grab an extra bread roll between shifts,” he explained.
+
+Pyre nodded in acknowledgement, glancing at the hallway in question just long enough to memorize its general location before focusing ahead again.
+
+After arriving bright and early at the manor that morning, the Bellhein’s staff had wasted no time in throwing her straight into the thick of things. The demon had received a very thorough lecture on “expectations and etiquette standards” from the head butler, complete with several disapproving looks at her bandages (which he didn’t comment on out loud) and her apparently poor posture (which he did make sure to mention).
+
+Personally, Pyre didn’t think her posture was all that bad to begin with. She was pretty sure the man mostly had a problem with her height, finding it “unnatural,” but he couldn’t say that out loud without seeming rude. Little did he know that in her very specific case, her height was, indeed, a decidedly non-human trait. Not that she planned on telling him that.
+
+Once the lecture was over, the demon was tossed a uniform and some pieces of armor, told to change, then assigned to a random nearby guard for a tour of the manor.
+
+The guard in question, Harris, was a friendly man in his early thirties who had a pretty much encyclopedic knowledge of the manor. At the very least, Pyre didn’t think it was normal for guards to know the locations and purposes of every single cupboard and tiny closet in the building. She wasn’t complaining, though. Some of the little tidbits he dropped were actually pretty interesting.
+
+Still, despite Harris’s thoroughness, they had yet to tour the room Pyre was most interested in. Namely, the supposed showroom the Bellheins stored their fancy antiques and shit inside. She figured it had to be on the nobles’ side of the manor, which they were now approaching, so she was keeping her eyes peeled for it.
+
+“Down this hallway is Lord Bellhein’s room and office,” Harris said. He pointed down a noticeably larger corridor decorated with old oil paintings of red-headed aristocrats and marble statues. A row of torches lined the walls, casting the plush maroon carpet in a warm glow.
+
+“Lady Daphne and Lord Edmund’s rooms are this way,” the guard continued, pointing in the other direction. It looked similar to the first hall, but instead of portraits, the paintings depicted random cities and landscapes. “You’ll receive a more thorough tour of this wing after you meet Lady Daphne.”
+
+She’d been hearing about “Lady Daphne” since she’d first stepped through the gates. Apparently she was getting assigned as her personal guard, which had come as a genuine surprise. That sounded like the sort of thing you hired super experienced, well-vetted professionals for. Not randos from another country. Considering what she’d heard about the noble from Declan, she was willing to bet that her fake ichor-poisoning backstory had had something to do with the decision.
+
+“What’s that?” Pyre cut in before Harris could move onto the next room, nodding her head at a series of double doors down another hallway branching to the right. The doors were constructed of solid, heavy wood, and they were noticeably locked.
+
+The human followed her gaze, eyes lighting up in recognition. “Ah, that’s the gallery. The Bellheins are great patrons of the arts. They keep a number of their collections inside.”
+
+Bingo.
+
+Pyre grunted in acknowledgement and didn’t comment on the room again. Harris led them to the next section of the manor, but she kept her “back eye” focused on the door as they passed it. From what she could tell, the doors themselves were engraved with intricate patterns. She wouldn’t be surprised if some of them were magic runes—no way they’d use only a physical lock for something this important. She’d have to come back later and try and memorize them, see if Callan knew exactly what spells they were.
+
+For now, though, the demon followed Harris down the corridor over to another set of doors. They were even bigger than the gallery ones. Two guards stood at attention in front, and she could hear the faint sounds of muffled voices and clinking silverware on the other side. This had to be the dining hall.
+
+“Lord Bellhein and Lady Daphne should be finishing their meal soon,” Harris said. The guard turned to her, brows furrowing. “I’m going to introduce you to them. I know John already explained manor etiquette to you, but I just want to reiterate that as guards, our primary duty is to serve the Bellhein family. We must show them the utmost respect.”
+
+Pyre raised an eyebrow. Given the amount of times the manor staff had brought this up, the Bellheins were probably pretty strict. Or maybe the guards were all just super serious about social hierarchies.
+
+Either way, getting kicked out for being rude before she grabbed the horn would be bad, so the demon made an active effort to channel as much of Edna and Merrick as she could. “What would Callan do” and “What would Declan do,” it turned out, didn’t work so great when she didn’t have a drop of that sort of youthful enthusiasm in her. And was apparently incapable of seeming sincere. Stoic and respectful, if slightly sarcastic sometimes, was probably her best bet.
+
+“Understood.”
+
+Harris relaxed a little at that, so she figured she’d been convincing enough. With that out of the way, the man stepped forward and spoke to the two guards watching the door. After a few seconds, they reached for the handles and began to pull.
+
+Inch by inch, the doors swung open, bathing the hallway in warm light and revealing the dining hall and the two nobles seated inside.
+
+“Good evening Lord Bellhein, Lady Daphne,” Harris said, still bent in a low bow. Slowly, number 84—Pyre, Daphne mentally corrected herself—did the same. Across the table, Lord Bellhein nodded at them.
+
+“At ease.” His face was a perfectly blank mask. Beneath his stoic exterior, though, Daphne could tell her uncle was relieved that their conversation had been interrupted. She narrowed her eyes and felt her earlier annoyance flare up again. Of course her uncle would tell her about her new guard immediately before said guard arrived.
+
+“I was just telling Daphne about the situation,” Lord Bellhein continued, still not looking at her. It was like she wasn’t even in the room.
+
+“He was,” Daphne interrupted. Her uncle frowned, but she maintained a perfectly sweet smile as she turned to the two guards. She wasn’t going to let her uncle speak over her, especially not for something that directly involved her like this. “Your name is Pyre, right? I remember seeing you at the qualification exam. You were very impressive.”
+
+In front of the doors, the guard in question had straightened back to her full height. Those white bandages stuck out starkly against the dark wood. Steel grey eyes briefly moved between the two nobles, and Daphne thought she caught her eyebrow raise just a fraction before her expression quickly smoothed out again.
+
+“I’m honored.” Her voice was the same low rumble that she remembered.
+
+Daphne frowned internally. There was nothing wrong, per se, about her tone or words, but something about the guard felt off to her. It wasn’t the bandages or stature—she knew very well that ichor-poisoning could do a lot. No, it was the odd emptiness in those grey eyes, further highlighted by how rarely the woman blinked, and the way her movements didn’t feel entirely natural.
+
+She thought back to the qualification exam again, remembering the casual way Pyre had spoken after punching the bag across the arena. At the very least, Daphne was willing to bet that the current rigid politeness was an act. Maybe that explained the wrongness. Still, she couldn't shake the feeling that there was more to it than that.
+
+Across the table, Lord Bellhein cleared his throat. “As I was saying,” he began, “I was just telling Daphne about your new role here. I trust you’ve been briefed on your duties?”
+
+The guard nodded. Her uncle looked satisfied and continued talking.
+
+“Good. You’ll receive more detailed instructions tonight, but essentially, you will be tasked with guarding my niece throughout the day and defending her from any potential threats.” He gestured to Harris, who was still standing in front of the open doors. “I assume you haven’t completed your tour yet?”
+
+“No, my lord. I was just about to show Pyre around the living quarters,” Harris replied.
+
+At this point, it was becoming clear that this was happening whether Daphne approved or not. “Personal guard” had already sounded bad enough, but she hadn’t thought Pyre would be following her around all day. She didn’t even leave the manor all that often to begin with. There was nothing to protect her from.
+
+No, it was more likely that her uncle wanted someone to “keep an eye on her” now that he was spending more and more time away. Because apparently she couldn’t be trusted to be by herself for too long.
+
+“Actually,” Daphne cut in, squeezing the words out between a plastered smile, “I’d love to show Pyre around myself.”
+
+Her uncle furrowed his brow, but she kept going before he could argue.
+
+“After all,” she continued, throwing a meaningful look at the guard in question, “if she’s going to be my guard, we should get to know each other, right? Harris has already taken so much time out of his day. I wouldn’t want to burden him any more than we already have.”
+
+Harris scratched his hair, looking a bit bashful. Her uncle’s frown, meanwhile, had only deepened, but there wasn’t a lot he could say in argument. He was the one who came up with the personal guard idea in the first place, and he couldn’t say it was “beneath her” to give the tour herself now without looking like he was demeaning Harris. If there was one thing Daphne knew for certain, it was that her uncle cared deeply about appearances.
+
+“…Alright,” he finally conceded, though he didn’t look too happy about it. The man turned to Pyre. “After your tour is complete, I expect you to report to my office for a final briefing. Your duties will officially begin tomorrow,” he instructed.
+
+Daphne grinned triumphantly. “Great!” She jumped up from her seat and turned to Pyre, who’d silently watched the whole exchange with what appeared to be faint amusement.
+
+“I’m sure we’ll get along perfectly.”
+
+“So, what’re you really doing here?”
+
+Pyre raised an eyebrow and turned to face her. Outside the grand dining room, the former mercenary’s height was even more obvious and imposing, but Daphne didn’t back down. She met the woman’s eyes with her own, unflinching.
+
+After exiting the dining hall, Daphne had led them down the corridor and pointed out a few of the rooms. She hadn’t been all that detailed, more concerned with studying the guard’s behavior, but Pyre hadn’t seemed to mind. She met every new location or piece of information with the same detached, unconcerned glance and noncommittal hum. The longer Daphne spent around her, the more that sense of wrongness grew, and she was determined to figure out what was going on.
+
+After a brief pause, the guard finally said, “You’re going to have to be more specific.”
+
+A hint of the laid-back drawl from the qualification exam had re-entered her voice. The noble felt some satisfaction knowing she’d been right about the serious demeanor being a front, but that didn’t address her bigger concern.
+
+“I mean, what did my uncle put you up to? There’s no way he hired you just to follow me around all day. Are you supposed to be spying on me? Tracking how much I’m using magic?” He’d tried that one already. She’d fired her magic instructor the moment she realized he was trying to dictate when and how often she could cast spells.
+
+It wasn’t like she didn’t understand her uncle’s concern, to an extent. She was ichor-poisoned. That was a fact, and there was nothing she could do to cure it. The more she was exposed to ichor, the faster her body would wither away.
+
+The thing was, though, that she was already so far gone that casting a few spells wouldn’t make much of a difference. She wasn’t going to lock herself away from anything vaguely related to ichor just to add a few extra weeks to her lifespan—especially not when she liked magic. She was damn good at it, too. Spending the rest of her limited days paranoid and sheltered would hardly be “living” at all. Her uncle, however, had never understood that.
+
+Pyre was watching her again, apparently feeling no rush to respond. That was another odd thing about her. The mercenary-turned-guard had fairly heavy footsteps, but outside of that, she was unusually silent. When she stood still, she didn’t fidget, shift her weight, or even breathe extra loudly at any point. Daphne’s eyes shifted over to her bandages, then back. Maybe it was because of her ichor-poisoning. She still didn’t know how severe it was.
+
+The silence dragged on, and Daphne was getting more and more antsy. Despite her growing suspicions, she hadn’t actually thought about what she’d do if Pyre confirmed that she was, in fact, there to spy on her for her uncle. Fire her, probably. It would be a little disappointing when the woman was the first other ichor-poisioned person she’d met, but she’d do what had to be done.
+
+Finally, after what felt like ages, a slow smile spread across the guard’s face. It was sharp and just a little too wide.
+
+“You two really don’t like each other, huh?”
+
+Daphne opened her mouth, then closed it again. Of all possible answers, she hadn’t expected that one. “…That’s it?” she said, disbelieving. “You’re not going to say anything about the spying thing?”
+
+Pyre shrugged. “What’s there to say? I don’t know much more than you. Lord Bellhein just told me he was hiring me as a guard, and that butler guy pretty much said the same thing this morning.”
+
+“Oh.”
+
+Daphne’s shoulders slumped. She couldn’t help but feel oddly disappointed. She’d really thought her uncle was up to something again, and he very well could be, but there was also a chance that he really did just hire a personal guard he thought she’d get along with as some kind of attempted nice gesture. And she wasn’t sure how she felt about that.
+
+“If you want, I can tell you what Lord Bellhein says during our meeting tonight.”
+
+Daphne’s head snapped up. Pyre’s expression hadn’t changed, still that faintly amused look that was way more casual than was probably wise around a noble. She didn’t care about that part, though.
+
+“Really?” She eyed the guard suspiciously. “You’d do that?”
+
+The woman raised an eyebrow. “Why not? It’s not like I’ve sworn eternal loyalty to your uncle or something. I just took the job ‘cause it was there.” Her eyes briefly moved down the hallway to the rooms beyond before returning to Daphne.
+
+The noble studied her for a moment, trying to find a trace of dishonesty, but she was as hard to read as ever. Still, she felt a bit of hope rise in her chest despite her lingering doubts. Hope that maybe this whole “arrangement” wouldn’t be as bad as she’d thought after all. Maybe she wouldn’t have to worry about a guard breathing down her neck every minute. Maybe they could actually get along, and she could talk to someone with the same condition as her. Someone who understood what it was like.
+
+Of course, there was a chance that Pyre was lying through her teeth and would report this entire conversation to her uncle anyway, but Daphne would deal with that if it came to it.
+
+For now, she carefully extended a hand. Pyre glanced down at it and raised an eyebrow.
+
+“Is this a handshake or am I supposed to kiss your hand and bow?”
+
+A genuine laugh burst out at that. “A handshake is fine,” Daphne said, smiling.
+
+Pyre extended her hand as well. The guard uniform included gloves, but Daphne could see some of the bandages snaking up her arm below the sleeves. She grabbed her hand and shook it firmly. Even with the gloves on, the guard’s hands were cold.
+
+“I’m Daphne,” she said, meeting the woman’s gaze unflinchingly. “It’s nice to meet you.”
+
+“Pyre.” Solid grey eyes stared back. “You too.”

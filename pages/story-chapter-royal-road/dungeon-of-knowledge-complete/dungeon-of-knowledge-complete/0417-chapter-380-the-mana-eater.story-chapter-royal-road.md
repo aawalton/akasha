@@ -1,0 +1,167 @@
+---
+id: ff0ad9da-fe20-51b1-a006-54ec6c68b5ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 380: The Mana Eater"
+slug: 0417-chapter-380-the-mana-eater
+partOf: dungeon-of-knowledge-complete
+position: 417
+ownLength: 3259
+unit: words
+ownProgress: 3259
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2607475/chapter-380-the-mana-eater"
+royalRoadId: "2607475"
+markedReadAt: "2026-06-29T20:26:09.447Z"
+---
+
+“Going,” Mato said. He twisted his body back into his denser, much bulkier form, and stepped into the misty rotting jungle. He could already smell the Mana Eater from the entrance of the chamber, a strange, faintly pungent odor like ozone that mingled in between the assault of putrid rotting vegetation and death that he was certain emanated from the Corpse Flowers.
+
+He studied the monstrous plant aberration as he carefully picked his way through the fungal growth, ferns, and twisted rotting trees, taking care to avoid the pitcher plants that lurked beneath the surface in holes wide enough to accommodate even his larger Bear Form.
+
+He and Ali had fought one of these before with the help of Naia and he would never forget how challenging it had been. Without mana, he had struggled to build his Brutal Restoration. Even at this distance, he could already see the black ichor that corrupted healing, dripping from the placidly waving bramble thorns.
+
+That one had been barely level fifty. He twisted his shoulders in preparation. Let’s be ready.
+
+This monstrous plant was well over double that, and an evolved monster would have additional advancements and tricks for sure. He shot a glance over his shoulder, verifying that his healers were close by, and he stepped forward into what he guessed was the plant’s range of awareness – or at least into the subtly twisted zone of mana that reached out almost a hundred yards from the monster itself.
+
+You have been cursed with Slow. Dark and ropy coiling fronds of mana clutch and grasp at you, impeding movement.-50% to Movement speed.Curse – Aura
+
+Oh, that’s not good. He had known it was coming, of course – Ali had warned him, having discovered it the first thing when she launched her probing attacks. It still sucked.
+
+A loud hiss filled the room as the Mana Eater’s mouth bulbs and lashing vines suddenly vibrated, quivering in what passed for plant rage. He could sense the anger and alien intelligence bent on the need for violence spilling out, almost overwhelming the strange affinity with plant communication he had learned from his mentorship with Lira. Whatever this thing was, it was an abomination – a perversion of the natural order, filling him with a loathing that almost surpassed his intense abhorrence for the undead.
+
+You need to go!
+
+High above his head, the roof began to warp. Long, hanging bulbs of fungal creep drooped and sagged from the growth overhead, hanging suspended by thin ropy strands that grew thinner and thinner as the bulbs grew heavier. Suddenly, one of the ropy supports snapped, strained past the limit by the heavy growth, and the whole thing plummeted to the ground.
+
+Creep Spore – Fungus – level 68 (Nature / Death)
+
+The fungal spore crashed into the ground nearby with a heavy thump, and burst with a deafening bang, spraying his fur with gobs of gooey grayish-green sludge that sizzled and burned, rotting through his skin instantly.
+
+“Ignore it,” Calen said.
+
+Mato broke into a run, knowing he needed to reach the plant monster in the center as soon as possible, but it was still far out of range of his Charge skill, and his body felt far too sluggish under the unfamiliar weight of the Slow curse.
+
+“Here you go,” Malika said, her touch healing the rotting flesh quickly. Joraa, Ali’s most advanced Blood Shaman, dropped a totem, and immediately he felt freedom from the grasping dragging mana of the curse, but all too soon, he ran out of the short range of the totem.
+
+Another giant spore fell from the ceiling, detonating a little far from them to be much of a danger, but the ceiling loomed, ominously pregnant, with hundreds of growing spores that began to fall with increasing rapidity, many of them landing and then crawling toward them before exploding. He dodged sideways and ran around a pitcher plant, avoiding another explosion, struggling to move within the cursed aura. He retaliated with roots and vines, grown through the sludge and creep to grasp and block the high-level Creep Spores intent on reaching them. Another totem granted a few seconds of respite before his body slammed back into the restricting grasp of the curse once more.
+
+Ugh, seriously? Why not just swim through a river of mud?
+
+The Mana Eater lashed out with a bramble vine, the whip-like crack tearing a gash across his back as the ichor-coated thorns raked through his flesh.
+
+You have been infected with Mutagenic Corruption.Infused with warped nature magic, your body struggles to heal.-10% to healing received.Corruption – Duration: 15 seconds. Count: 1
+
+“Here we go,” he thought to Ali. “Mutagenic Corruption.” But this time, he felt the warmth of holy mana settle into his body, a new magic that seemed to fight with the corruption, eroding it and dispersing it. A few seconds later, it dissipated, reminiscent of the way his tree dissolved corruption. “New toy?”
+
+“Cure advancement,” Ali said.
+
+Mato’s worries about the advancements this monster might have gained with its evolution began to fade; they had advanced too, and Ali’s little golden Kobolds could deal with the deadliest aspect of this fight.
+
+At last, he reached the outer limit of his maximum range. Ignoring the lashing, thorn-laden vines and exploding spores, he Charged, crashing into the thick, gnarled, and woody trunk of the Mana Eater with a furious Swipe. He empowered his strike with every single skill he had in an effort to burn his mana before the plant ate it. Void magic trailed his claws as they tore through the bark and wood, ripping splinters and black ichor sap out in a spraying arc. A chunk of health drained to power Bestial Combat, shattering the heavy bark armor and leaving the woody flesh below exposed and vulnerable. Brutal Restoration flared, pulsing slowly to recover his spent health.
+
+Guided by Survival Instinct, he triggered Critical Block at the last instant before the huge descending fanged bud snapped down on him. The shockwave from the powerful retaliation skill sent sludge and spores flying, shaking the branches and flowers from the sheer force of the blow.
+
+“Got it,” he sent to Calen, confirming what his friend had probably already deduced – the monster was now firmly locked on attacking him – other attacks would be unlikely to draw the ire of the monster away from him after such a powerful hit. Right, let’s make this count!
+
+The Mana Eater hissed in pain, and the heads began to lash out against him as it redoubled its efforts to slash through his hide and armor with its thorns. Roots and vines covered with more thorns and brambles exploded from the ground, seeking to grapple him and Malika, but Ali’s Blood Shaman had already dropped the Free Action totem, and other than the damage from the thorns and strikes, he was free to act.
+
+You have been infected with Mutagenic Corruption.
+
+The instant the black ichor infected him, he felt the slow pulse of holy magic return, working diligently to dissolve the anti-healing corruption. But the flowers sprouting on all the branches and bark of the plant shivered, mana growing within them.
+
+“Here it comes. Mana Drain!” Mato powered a final Brutal Restoration with his mana, striking out with swiping claws, and the Mana Eater exploded with a thick cloud of blue spores. Instantly, he felt his mana burning down to nothing as the monster consumed it wholesale – a far more powerful drain than the last one, emptying his entire mana pool in seconds. The monster’s vines and branches trembled with the influx of stolen power, and it grew explosively outward with branches stretching and new vines and brambles ripping outward from regenerated bark and wood as it swelled larger and darkened dramatically. Then the lashes struck, with enormously increased power and speed.
+
+“It healed!” Ali’s voice was urgent and worried in the background, but Mato ignored it, his attention entirely focused on blocking the suddenly enraged plant.
+
+Your Mutagenic Corruption has increased to 2.
+
+As the strikes landed, building the corruption faster than the acolytes could dissolve it, he felt a shift in one of his skills; a readiness he had mostly taken for granted.
+
+Battle Trance.
+
+Battle Trance – level 40Whenever you are hit, stamina and mana regeneration are increased by +260% [60 + skill x 5]. Duration: 2 seconds.Whenever you are hit, you may use Brutal Restoration for free. Recharge: 5 seconds.Melee, Physical, Endurance
+
+It was an ability that normally made little difference to his strategy, Retributive Heal. He had earned it as part of his Battle Healer path, and he instantly knew it would radically change his strategy compared to his previous fight against the Mana Eater.
+
+He had no mana, but he activated Brutal Restoration anyway and a ripple of viridian green energy burst in all directions around him, healing his allies.
+
+“That’s not a domain magic,” Ali said, answering Calen’s urgent question. “We’ve only seen the two abilities so far.” The monstrous plant had taken on an angry red tone with glowing streaks coloring its squat branches, lashing vines and thorns, and even turning the biting heads into a malevolently furious shade of deep burgundy. She couldn’t believe this wasn’t even domain-enhanced – it had grown the plant so tall the head buds with their teeth could bite Naia’s slimes off the roof if she maneuvered them too close.
+
+Ali urged more speed into her acolytes, instructing one of them to use Devotion simply to keep up with the rate with which the plant was inflicting Mutagenic corruption on Mato. The lashing whip vines also distributed the black ichor to her minions, but the speed with which those stacked up was much lower and somewhat controllable with the judicious deployment of her barriers.
+
+A volley of darts shot across her peripheral vision, trailing green spores in their wake. In an instant, she dropped to the ground, resummoning her barrier as protection instead. The needle-sharp darts fired by Braconids crawling up along the walls and the gnarled trees pinged and cracked against her magical barrier, but it was the tiny floating green orbs that had her complete attention.
+
+Fuck, too close. Under ordinary circumstances, she would have flown away, but the first domain magic this plant had deployed was an entirely unfair Slow curse aura. She couldn’t dismantle it either; the aura skill continuously reapplied it. It affected everything, even the flight speed of her barrier. She struggled to run away, her movement the same sluggish, fearful flight of nightmares, never quite fast enough to outrun the threat.
+
+The spores popped with a cascade of detonations, unleashing clouds of fine green spores laced with nature magic.
+
+You have been afflicted with Poison.
+
+She sprinted away, exiting the cloud, and immediately took a sharp turn to avoid a camouflaged pitcher plant but tripped over a gnarled root and fell flat on her face. The stench and muck stuck to her cheeks, her clothes, and her hands like some infernal glue. Ugh, no more running, she thought, vowing to use her barriers to fly next time, even if they exposed her as an easier target.
+
+One thing is for certain. I am definitely taking that Slow aura. She already had this monster’s Summoning ability, but she couldn’t believe just how debilitating something so simple as an area Slow curse could be.
+
+A Creep Spore landed beside her with a loud thump and a splat, spraying her with more rotting fungal muck and she leapt to the side, trying to avoid both it and the pitcher plant at the same time, but it felt like swimming through treacle and she was forced to throw up a last-minute barrier as the spore exploded at close range, covering her golden transparent disk with slime and mulch.
+
+Fuck. She desperately resummoned her barrier under her, knowing what would come next. This Mana Eater had the rather mundane Summoning domain magic, but it was what it could summon that was causing her so many headaches. She flew the other way, having no choice but to dodge through a cloud of toxic poison spores.
+
+Your poison has increased to 2.
+
+Ali downed a healing potion, giving her kobolds time to dodge their own threats and find her. As she expected, several head-sized bulbs sprouted from the ground where the Creep Spore had exploded. They were pitch-black leathery orbs with accents of dark red on the petals, and as soon as they reached their full size, they opened, revealing dark crimson petals and unleashing yet another cloud of poison, this time black pollen laced with death magic.
+
+Corpse Flowers only grew on corpses of dead monsters or plants, and the stench they gave off was legitimately toxic. Worse, they would explode violently when anything got close, leaving yet another corpse for the Mana Eater to use to summon flowers. The entire area was rapidly filling up with spore clouds, Corpse Flowers, and Creep Spores dripping down from the roof.
+
+“Ali, a little help?” Calen asked. He was shooting furiously at a group of Braconid branch spiders that had settled in on a squat, blackened tree that was covered with all manner of fungal adornments in lieu of actual leaves.
+
+“Fireball,” Ali said, sending her command and the intended target mentally to both her Hellfire Imps and her Kobold Fire Mage. To her satisfaction, all three of them fired their spells in rapid succession. The explosions detonated, the red and orange inferno sandwiched between two massive detonations of black hellfire. She heard several chimes, and, as the flame and smoke cleared, all she could see were little globs of fire and scorched pieces of flaming wood falling to the ground. Of the tree and the Braconid branch spiders, nothing remained.
+
+“Thanks,” Calen said, and flew off to attack the next group.
+
+“You’re welcome,” she shot at his back as she floated about, trying her best to avoid becoming a target. Then, she snapped back and narrowed her eyes, scrutinizing the scorched remains of the tree and the monsters that had once hung out on its branches. Of the monsters, nothing remained, but in her haste, she hadn’t registered that the ‘nothing’ included Corpse Flowers and poison clouds in addition to the tree that had been obliterated.
+
+You’re getting rusty, Ali, she thought. There had been a time when her answer to every problem had been more fireballs. Was today the day?
+
+“Fireball that tree,” Ali said, directing one of her imps to demolish a dark and rotting tree that she wasn’t even certain was alive. It vanished in a blast of powerful hellfire, and in the wake of the explosion, she gathered all her ranged minions to her and moved to stand in the center of the cleared space, barrier raised to protect against the lashing whip-vines. This is better, she decided, glancing around at the scorched and empty ground. If it wasn’t enough, she could simply torch another area when the monsters filled this one with spawns or spore clouds.
+
+Hmm, why wait?
+
+“Fireball that tree, too,” she said. “And that one with the scraggly branches, I don’t like the looks of it.” Her demonic minions cackled with glee as they scrambled to do her bidding. Ali was smiling happily, very pleased with herself, when a terrifyingly familiar formation of mana condensed deep within the heartwood of the Mana Eater.
+
+“Elemental Storm! Everyone hide!” she yelled, panic rising within her as she desperately cast around for anything solid to use for cover. She had no idea what death and nature affinities would look like with the extreme destruction of an Elemental Storm, but she really didn’t want to face it head-on. She had obliterated the nearest tree, and with the Slow curse, she had no hope of reaching the next nearest one. Not exactly the best timing.
+
+The storm of mana within the monster swelled, growing stronger, more powerful, and much more ominous. In the second or so she had available, Ali hastily constructed the counter-formation, releasing her Disruption at the monster. But the blue flowers shivered, discharging their dangerous spores into the air and her spell dissolved before it even had the chance of reaching the core.
+
+A huge surge of mana reached a crescendo and erupted from the plant monster’s trunk. A dense, angry squall of black sludge blasted outward from the center of the plant boss, howling through the air like an insane banshee. In desperation, Ali threw up a barrier and made her minions gather behind her. For the melee ones, for Malika and Mato, she had nothing but healing.
+
+“Heal Mato! And Malika!” Ali desperately searched through her minions’ Healer’s Sight, trying to pierce the raging storm of rot that smashed into her barrier and howled past the edges. She had no idea where Naia or Calen were, she couldn’t see either of them. She poured her mana into her barrier, desperate to keep it up, holding her recall potion ready in her hand.
+
+They’re dying. She could feel the enormous spike in rage from her two berserkers, and the rapidly dropping health from her shamans and bone warriors.
+
+“I can save some, Seeker,” Kir’vella said, grinning maniacally.
+
+Ali’s head whipped around to regard the witch doctor standing beside her.
+
+“Spirit Banishment,” she offered.
+
+“Do it,” she said, and then clarified. “Berserkers or Bone Warriors.” Mato had to tank, or else the boss would lash out at everyone else. Malika, with all her defensive skills and damage reduction, was probably the most likely of all of them to survive something this devastating, and Mato would need healing. So, she had to leave her Blood Shamans.
+
+Both berserkers triggered their Last Stand. The witch doctor cast her magic, and then a few moments later cast it again. Ali felt the snap in her connection when one of the Bone Warriors died, rotted away to nothing out there in the storm. Then a Blood Shaman fell. Then one of the Berserkers, her body fully used up in a blaze of rage and fury, spent and rotted away to nothing more than a skeleton and a pile of goop that vanished in the storm.
+
+Suddenly, the apocalyptic rot spell subsided, leaving a rain of black sludge that fell upon the ruined landscape. Nothing remained of the lush ferns, moss, or flowers. All the mushrooms and fungi had rotted away. Nothing moved, except near the trunk of the giant plant Mato roared, his claws slashing away in a spray of wood chips. Malika shone with glowing soul magic, pumping healing into him as she unleashed kicks and punches at the heavy bark and wood.
+
+Ali had never felt so relieved in her life. Her eyes cast about, and she found Calen emerging somehow from a hiding spot he must have found. High above, a surge of slimes crawled across the ceiling. Of course, Naia’s rotting slimes would have been immune to this sort of thing.
+
+Thank goodness my barrier held.
+
+“Go get them back,” Ali said, speaking trollish to her witch doctor. She shimmered and vanished to the spirit realm and her minions began reappearing one at a time. Joraa and Kir’mogan had survived, along with a single Berserker. One of her Hellfire Imps had been too far to get to safety, but she had saved her troll mages, all the kobolds, and of course, Kir’vella.
+
+Right. Time to roll up her little sleeves and get to work!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

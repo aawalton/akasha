@@ -1,0 +1,239 @@
+---
+id: a73b270c-5c50-573c-9433-66dd0f796270
+page-type-slug: story-chapter-royal-road
+title: "92 - Whale Isle's Dungeon... Again"
+slug: 0093-92-whale-isles-dungeon-again
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 93
+ownLength: 2041
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3841666/92-whale-isles-dungeon-again"
+royalRoadId: "3841666"
+---
+
+Sparrow flew us to several other locations around Whale Isles, from a garden to a dance plaza to a casino. Yes, I said that right. A casino. I guess gambling existed everywhere in this world, whether on the ground or up in the skies. I had initially come in with eleven silver coins and five gold ones, but by the time I left, I had roughly half that amount. Somehow, Kaelor and Aeris ended up with a far heftier sum than I did.
+
+Looks like being the protagonist didn’t come with better gambling luck after all. To make matters worse, I couldn’t even use my [LUCKY BREAK] skill. I’d already wasted it this morning getting Reina, Aeris, and Talon off of me after I woke up. I really needed to be more selective with that skill in the future.
+
+As darkness began to settle across the horizon, we decided to head to our final destination—the very place where the battle with Aurelius began.
+
+“So we’re really back here, huh?” Kaelor said as the dungeon came into view.
+
+The island was small and tucked away in a secluded area of Whale Isles. Unlike how it was before, the island was full of patrolling soldiers keeping watch over every part of the island and making sure there was no unauthorized entry into the dungeon.
+
+Our ship landed on the edge of the island, where some of the other soldiers’ ships were.
+
+“Are we even allowed here?” Sparrow asked.
+
+“It’s a bit too late to ask that considering we’re already here,” I said.
+
+He shrugged. “Eh. I didn’t expect this many soldiers to be here.”
+
+He lowered a gangplank from his ship onto the island, though only him and Reina used it to get down. The rest of us were able to just glide onto the island. Flying sure was handy, huh?
+
+As the seven of us gathered on the island, two soldiers walked up to us.
+
+“Hey, this place is off limits! Get away from—wait a minute, you’re the ones who saved us!” one of them said. “I—I’m so sorry! I… I… I—!”
+
+The second soldier smacked him in the head.
+
+“What’re you getting all nervous for?” she asked.
+
+“I’m sorry!”
+
+“You’ve been apologizing all day, damn it!”
+
+He bowed down several times before scurrying away, leaving the woman with us.
+
+She sighed. “I honestly don’t know what to make of this. You heroes have inspired Whale Isles, for better or worse.”
+
+“Inspired?” Talon asked. “What do you mean?”
+
+“We’ve had more people enlist in the army over the past few weeks than we have in years. And whenever we ask why they decided to join, the answer is always the same. Ever since the battle, there hasn’t been a single day where one of your names hasn’t come up.”
+
+Kaelor chuckled. “Well, that’s not a bad thing, is it? Nothing’s more satisfying than being an inspiration for others.”
+
+The woman nodded. “Yes, of course. Though at the same time, that means we have many people who never would’ve joined the army in the first place. To put it bluntly, most of them just aren’t qualified for the work we do. There have been orders from the Chief to make our training stricter for that very reason, but who knows how long it’ll take before that fully goes through. Since we’re on this topic…”
+
+She looked at Talon. “Have you ever thought about joining the army?”
+
+He pointed at himself. “Me? Er… not really…?”
+
+“Not even after fighting a great battle?”
+
+Talon shook his head. “I mean, it’s not like I was fighting because I wanted to. I didn’t have much of a choice.”
+
+The woman shrugged. “Fair enough. But if you ever plan on joining us, don’t be afraid to reach out. We’d be more than happy to take you in.”
+
+“Isn’t he too young for the army?” Meriel asked.
+
+“Under normal circumstances, yes,” the woman said. “But I’m sure they’ll give a special exception to Talon. Of the six of you, his name is the most popular one among our army, simply because he’s a child from Whale Isles.”
+
+“Six?” Sparrow said. “There’s actually seven of us here, I’ll have ya know!”
+
+She glared at him. “And who might you be?”
+
+He puffed his chest out. “The one and only Captain Sparrow, the man responsible for flying around the party who saved Whale Isles!”
+
+The woman pointed at the ship behind us. “Interesting. Then I’ll give you ten seconds instead of the usual five to leave.”
+
+“Wait, what? That’s not fair!”
+
+“Five…
+
+“Hold on—!”
+
+“Four…”
+
+“Listen to me, would ya?”
+
+“Three… two… one…”
+
+Too afraid to find out what would happen once she reached zero, Sparrow sprinted up the planks, hiding himself on the ship. His head just barely poked out from the railing.
+
+“I’ll wait for all of ya here!” he shouted. “Don’t take too long!”
+
+With that, the woman turned and began walking toward the dungeon gate. “Follow me.”
+
+As we walked through the island, several soldiers waved and bowed down to us. It felt incredible to have so many members of the army respecting us, but something about Talon’s demonic-looking grin rubbed me the wrong way.
+
+“Hehehe…” he giggled.
+
+I tapped him on the shoulder. “Feeling cocky, are we?”
+
+He turned to me, raising his brows up and down. “Can’t blame me, can you? Didn’t you hear what she said? I’m the most popular name in the army!”
+
+“Yeah, yeah,” I rolled my eyes. “Hey, remember that little girl we were flying around back at the marketplace?”
+
+“Little girl? Oh, you mean Tira?”
+
+I nodded. “Didn’t you say you’d make her your biggest fan instead of mine? What happened to that?”
+
+Talon scratched the back of his head. “Ah, about that…”
+
+He thought about it for a moment, then shrugged. “I actually don’t even know anymore. She said all sorts of weird things while I was flying her around.”
+
+“Weird things? Such as…?”
+
+“She said flying her around isn’t enough to convince her. If I wanted her to be my fan, I’d have to visit her tomorrow and play with her.”
+
+I laughed. “Play with her? Really?”
+
+He nodded. “She actually doesn’t live too far from me, either. But she seems friendly enough! I think we’d be great friends!”
+
+Once we reached the entrance to the dungeon, the woman leading us stopped and turned to us. As expected, the concentration of soldiers here was more abundant than the rest of the island.
+
+“Look,” Reina said, pointing at the gate. “It’s wide open.”
+
+And she was right. When we first came here, it was sealed off with a magic barrier that we only managed to open by using the runes that Talon, Reina, and Meriel received after winning the Skycurrent race.
+
+But now?
+
+There were no signs of magic in the gate. The dungeon was open for anybody to go through completely unrestricted. That explained why there were so many people guarding the area.
+
+“Have any of you gone into the dungeon?” Meriel asked the soldiers.
+
+The woman who led us here shook her head. “We’re not allowed to. We’ve only been ordered to make sure nobody else enters it, with the exception of the heroes who saved us.”
+
+The nearby soldiers stopped by to talk to us. As the rest of the party conversed with them, I noticed Aeris standing in the back, sheepishly holding one of her arms with her hand. She had been awfully quiet ever since we arrived at this island.
+
+“Are you okay?” I asked, walking up to her.
+
+Along with Reina, our hair was still tied up into a bun. I didn’t know how to feel about having matching hairstyles and hair ties with the other two, but something in the back of my mind was nudging at me to try the same hairstyle on Meriel.
+
+Aeris sighed. “I… I might have to sit this one out,” she said.
+
+I raised my brows. “You don’t want to go in there with us?”
+
+She shook her head. “I feel nauseous just thinking about it. I was trapped in there for God knows how long… and I finally escaped it because of you and the others. I don’t know how to feel about going back into it…”
+
+“You don’t have to go with us if you don’t want to,” I said. “You could keep Sparrow company while we’re gone.”
+
+“I guess I’ll just do that then,” she said, nodding. “But still. Do you think we’ll be able to save them? Camille and the others?”
+
+“I don’t know,” I admitted. “But that’s what we’re here for, right?”
+
+Aeris nodded. “Yeah. Good luck, Allene. And also…”
+
+She gave me a hug. “Thanks for freeing me from the dungeon. Stay safe, alright?”
+
+I smiled. “Sure. But I didn’t do very much, you know? I just tossed a love potion in your mouth while you were trying to kill us in your mindless dragon form.”
+
+She pulled back. “Yeah, but that was enough to break me free from the dungeon’s influence. Even if it was an accident, I’m more than grateful.”
+
+She flapped her wings, taking flight and heading toward the ship.
+
+I walked over to the others.
+
+“What’s Aeris doing?” Meriel asked, looking behind us.
+
+“She’s returning to the ship,” I said. “She doesn’t feel comfortable going back to the dungeon.”
+
+With that, the soldiers cleared the way, giving us entry into the dungeon without restriction.
+
+“Alrighty!” Kaelor shouted, raising a fist. “It’s time to tackle this dungeon… again!”
+
+He took a step forward, peeking inside the gateway that seemingly led to an entirely different dimension. Just like before, there were several floating ruins in the far distance, flying across the dungeon’s sky at incredible speeds. The horizon was tinted orange, and at the far end was a sight we knew all too well.
+
+The inverted city.
+
+“Wait!” Talon cried. “Remember what happened last time?”
+
+“Hm? What happened?” Kaelor asked.
+
+“The gravity’s super strong for the first three seconds of entering the dungeon. You should be ready for that.”
+
+“Ah,” Kaelor said. “Now that I think about it, I certainly remember nearly vomiting after stepping through the gate. But don’t worry. I have just the solution.”
+
+He began taking slow, deep breaths.
+
+“What are you doing?” I asked.
+
+After several seconds, he gave a thumbs up.
+
+“Just calming myself down before I inevitably pass out like I did last time. Anyways, here I go!”
+
+He stepped through the dungeon gate. Then, he descended so quickly that a single blink was all it took for him to completely disappear.
+
+“Hold on—we don’t have Tuna or the griffins like we did last time,” I said. “Kaelor, Talon, and I could fly, but what about Reina and Meriel?”
+
+As soon as I said that, Meriel made a gesture with her hand. The wind swept beneath their feet, raising Reina and herself into the air.
+
+“Like this,” she said.
+
+“Woah!” Reina let out. “Since when did you have a spell that lets people fly? I thought only Kaelor could do this?!”
+
+Meriel winked at me. Seeing her do that was a… questionable sight, to say the least. But it was obvious what she was trying to tell me. Ever since her awakening, she had gained considerable control over her mana, though she had tried not making it too obvious so that the others wouldn’t question how she suddenly got so much stronger after fighting Aurelius.
+
+With that, the rest of us went through the dungeon gate…
+
+And shot down like a meteor.
+
+I held my mouth shut, gagging on the way down. One slip-up, and I’ll end up being covered in my own vomit.
+
+[TROPE COMPLETED: BACKTRACKING]
+
+Description: A must for completionists, yet a pain for the laziest. Who knows? You might uncover new secrets during your next trip through an old dungeon.
+
+[REWARD: Pending…]
+
+[TROPE COMPLETED: THE HEROES EARN THE ARMY’S RESPECT]
+
+[REWARD: Pending…]
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL UPGRADED: HIDDEN PATH DETECTION]
+
+Type: Active
+
+Effects:
+
+- Reveals hidden pathways, concealed doors, suspicious walls, and other things that protagonists somehow always find
+
+- Automatically activates in previously completed dungeons whenever something hidden can be detected (New)
+
+Charges: 3
+
+Cooldown: 15 minutes per charge

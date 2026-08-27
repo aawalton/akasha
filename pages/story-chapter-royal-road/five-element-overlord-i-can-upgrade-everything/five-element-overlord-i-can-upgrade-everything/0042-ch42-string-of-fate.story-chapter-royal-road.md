@@ -1,0 +1,131 @@
+---
+id: ec926956-b87c-5417-99d3-73793df0ff63
+page-type-slug: story-chapter-royal-road
+title: "Ch42 String of Fate"
+slug: 0042-ch42-string-of-fate
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 42
+ownLength: 1692
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3330780/ch42-string-of-fate"
+royalRoadId: "3330780"
+---
+
+Another two weeks pass by.
+
+Some servants only manage a single bin of wood per day, while others can fill two.
+
+I start to reach the upper limit of the steward’s storage bag each day. All this time, I’ve relied on my internal system storage space to hold tons of random items with no sign of ever filling it. It appears that there is a limit to how much these brown pouches can hold.
+
+It is not only pure volume of wood, there is also a strange limit to the qi density of items placed inside.
+
+When I try to store spirit stones, even a few hundred of them can crowd the bag’s space. Placing my perfect quality verdant steel short sword inside as a test almost fills up half of the storage pouch’s space.
+
+It leads me to test out the over a dozen storage rings I have on me too.
+
+One that was used by the old boss is a high grade Tier 1 ring, capable of holding about fifty times more than these steward’s pouches. My guess is it can hold around ten thousand spirit stones at most, or the equivalent in magical gear.
+
+The rest of the rings are low grade, capable of holding around five times that of the standard pouches. That’s around one thousand spirit stones.
+
+Out of intrigue, I use an upgrade card on one of the low grade black rings, and it transforms into a much heavier artifact with a dark grey color. When I peer into its internal space, there is easily ten times as much room as the boss’ high grade ring. I do not have the ability to truly test its limits, but my best guess is around one hundred thousand spirit stones in capacity.
+
+From overstraining the spirit vein in the stronghold every night and day with Xu Hong, it's fallen below 110 meters in length.
+
+I’ve gotten closer to the small bottleneck at the late stage of level 3, but have not accumulated enough qi to challenge it yet.
+
+Xu Hong, on the other hand, has managed to surpass me, breaking past the late stage into the perfected stage of Qi Refinement.
+
+While walking through my usual wood pickup route today, I mentally sift through my storage, seeing the hundreds of spirit fragments already stacking back up after buying these servants. If I was a normal steward, I could probably stack one or two full spirit stones worth of fragments per month at this rate.
+
+My perception of cultivation speed is being skewed heavily by the purple-haired monster of a woman that I cultivate near. However, the secret that the system showed me is going to come to fruition very soon. She has been at the perfected stage of level three for two days now.
+
+There is a twinge of anxiety that has been growing lately, as I do not know how she’s going to react once this process is over.
+
+I’ve been eating three perfected qi gathering pills per day along with overstraining the spiritual vein beside her, but the power of her innate physique is impossible to keep up with.
+
+My burnt pill supply has run out too.
+
+Now, I’ve begun upgrading the low quality elixirs that I bought from various reputable shops.
+
+After being upgraded, they become exactly the same heavenly grade pill. I’m basically overpaying for the base product. Once I get back to that market… I’m going to make it a point to only buy the worst possible quality consumables for myself. There is no point in going to reputable shops.
+
+As I get to the end of my route today, I stop at the one servant worker that cost ten times the price of the others, and has consistently caught my eye this last week and a half.
+
+“Senior Li, I’ve chopped three bins today.” Wei Ping bows, covered in dirt and sweat as I collect his wood.
+
+I often hear him chopping wood the moment I leave. My spiritual senses can already pick up on tiny fluctuations of qi in his meridians, but it is still far from reaching his dantian or spiritual roots.
+
+He has been putting the three spirit fragments per day I pay him to good use.
+
+“Here, take this as a reward for your efforts. Ten days in a row of being my highest performing servant. Don’t tell anyone about this.”
+
+I toss a small low quality qi gathering pill his way while I turn to leave.
+
+In the Red Pine Market, a pill like this would cost 2 to 3 spirit stones. Granting a reward like this is completely unprofitable in the short term, but this is an interesting servant. With a mutated earth spirit root, and a connection to a cultivation family in a city I wish to visit one day, it seems logical to create some good will.
+
+He catches the pill and thanks me profusely, but I do not react, only leaving in a hurry to hand in my wood and return to the stronghold for the night. Once I get back to the cave at the bottom of the Ravine, I feel the walls and floors shaking before even making it to the lowest level.
+
+The purple aura that often fills this room is usually thick, but calm. Right now, the heavy killing intent that she releases in battle permeates the cave. It is so intense that I cannot get near without a dangerous pressure pushing down on my mind, and even physical pain of needles on my skin.
+
+I stay away, a few levels above in the cave.
+
+After an hour passes, the trembling stone becomes more violent, and the purple aura grows to even reach me 50 meters away.
+
+I retreat to the surface, watching from a nearby clearing. No aura escapes the mouth of the cave, but my spiritual senses that have grown to 14 meters can still vaguely feel the purple pressure underground.
+
+It doesn't subside until morning. One of my daily check-in upgrade cards goes toward a healing elixir, and another is used to create an additional black defensive talisman. It’s still unclear what the temperament of my so-called ally might be now.
+
+I feel the ground shake, but the 2nd Tier Qi Gathering Concealment Array manages to withstand the breakthrough and not allow any of her aura to escape.
+
+When she walks out of the mouth of the cave, Xu Hong’s eyes are still glowing purple. She appears to have grown a few centimeters taller, and there is an invisible strength in her stature that I cannot pinpoint.
+
+All of her natural energy is being suppressed to appear as a mortal, but my system status still reads out her strength to me at the 4th level of qi refinement with no other changes.
+
+Instinctively, I pull out a black defensive talisman in one hand, and an incineration talisman in the other. If my Azure Lightning talisman was charged again, I would feel far more confident right now… Xu Hong’s eyes dart toward both, but she doesn’t stop walking toward me until she’s less than three meters away.
+
+Then, unexpectedly, she bows.
+
+“Li Hao, whoever you might be, I thank you for your help in expediting my steps into the path of cultivation. Not only for the resources, but for showing me how to hide my ability in plain sight. I thought that if I acted a fool, it would draw attention away from my schemes. It has become clear that if someone with a similar sharpness of will is intertwined, that act can only backfire.”
+
+A thin smile shows on her lips as she raises her head again, and I reply.
+
+“You’re welcome. I thank you too, for the new perspective… If I wish to grow in silence, my tools cannot grow faster than me.”
+
+I return a polite bow, but do not bend as deep as she did.
+
+We’re stood in a tense silence for a few seconds, then she breaks it.
+
+“What do you plan to do moving forward? Leave this Sect, or climb its ranks further?”
+
+“I will climb further.”
+
+Her gaze tightens, unable to piece together why. To her, the Sect appears as though it has no resources of great value in these lower ranks.
+
+Truthfully, it is the opposite. The main quest of my system is to join the Outer Sect, and considering the lottery prizes granted by side quests, a main quest must be much greater. There is no better goal to strive for. Without knowledge of the system, it does seem illogical.
+
+She lets out a sigh once realizing there is no seeing through my motives.
+
+“With my current strength, I do not plan to work under you. Nor for this sect. I have gained what I needed.”
+
+“I know. We’re even. The sect has already marked you as missing, and has long forgotten without issue. You may leave to venture off on your path of revenge."
+
+A complicated expression flickers in her eyes.
+
+I smile, and swap out the Incineration Talisman in my hand for a heavenly grade healing elixir, then toss it her way.
+
+“There is no need to pay me back. You never know when you might receive an injury that cannot be healed with time or low grade elixirs. I had a senior disciple do me a kindness recently, and I wish to try it too.”
+
+She catches the white elixir covered in golden patterns.
+
+“I’m opening a string of fate. May our paths cross again.”
+
+Her pupils constrict at my words, but she doesn't say anything in return.
+
+The pill disappears into her storage ring, and in a matter of seconds, the purple woman turns and starts walking away.
+
+“The Nine Rivers City! That’s where I plan to go one day!” I call out into the empty forest, unsure if she’s heard my words.
+
+The Incineration Talisman returns to my grasp, and I turn in circles a few times, making sure she’s really gone and hasn’t returned to sneak attack me.
+
+A small wave of melancholy washes through me when I accept she’s really left.

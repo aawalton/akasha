@@ -1,0 +1,237 @@
+---
+id: 7dbe48df-bd6b-5d74-b566-742d20f3c5f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 414: Domain Architect"
+slug: 0451-chapter-414-domain-architect
+partOf: dungeon-of-knowledge-complete
+position: 451
+ownLength: 4155
+unit: words
+ownProgress: 4155
+publishedAt: 2025-10-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2688516/chapter-414-domain-architect"
+royalRoadId: "2688516"
+markedReadAt: "2026-06-29T20:27:25.976Z"
+---
+
+Calen flew in entirely the opposite direction through the dungeon this time, directing them in a meandering path across the Forest Cavern, avoiding the known bosses and the larger packs of archers along the way around the perimeter until they finally reached the passage downward into the ruins of Dal’mohra.
+
+Entering by the front gate of the ancient city was usually out of the way, but they still had no idea for how to deal with the Fungaloth Ravager and its healing suppression aura – even after a day of discussing it with the strategy experts in the guild – so the long way around was actually the short way. And the shorter path was most certainly the desired one – every day they had been rebuffed by the dungeon was another day Ali had to spend fighting for her life in the Abyssal Realm, all alone. Calen certainly remembered the power of that Pit Lord all too clearly, and it wasn’t just him. He could sense the tense urgency in the way Mato and Malika fought, and the short, clipped questions or orders from Vivian and Lyeneru. Without even a word being said, everyone knew they were short on time.
+
+They passed through a surprisingly quiet entryway, just dodging overeager exploding Creep Spores, and finally emerged into the main ruins of Dal’mohra. It was darker than he was used to, all Ali’s trees having been wiped out in a dungeon version of ecological succession, but even in the dimness, lit only by some glowing fungi, his eyes could make out all the details with perfect clarity.
+
+Once a realm of shattered ancient stone buildings, crumbling statues, and broad boulevards, the entire residential level of the city was now a lumpy, warped landscape of fungal growth. There were no trees here, just creep, and the occasional tall mushroom sprouting from the slime. There were Creep Spawners dotted across the landscape, but as far as he could see, the only things that moved were slimes and Braconids that crawled about. Even the spawned monsters didn’t seem to stick around here. Surprisingly, even though it was accomplished with slimy fungal creep instead of bone, the effect was strikingly similar to the appearance of the ruins the first time he had set eyes on it – encrusted by a foreign entity that had taken over the space.
+
+At the far end of the city, with his Sniper Sight dialed to maximum, he could clearly see a second Fungaloth Ravager patrolling around the library entrances.
+
+“Looks like we need to go down another way,” he said. “The library is guarded.”
+
+Moving with surprising speed, they cleared their way across the desolate landscape, killing the occasional monster along the way, but not bothering with anything they could simply avoid, until they reached the northernmost edge of the city, and the shattered hole that had been blown through the foundation, allowing access to the levels below.
+
+“I hate flying,” Mato said, already having shifted back to his normal Beastkin form in anticipation.
+
+“Bear with me.” Without further ado and ignoring Mato’s immediate scoff, Malika hoisted him up and stepped out into the emptiness with mana pulsing softly beneath her feet.
+
+Calen’s wings flared up and outward from his back, and he followed, joined quickly by Vivian and Lyeneru as they all flew downward. It didn’t take much to convince them to skip the industrial and commerce level of the ruins, bypassing them on the way down to the jungle below.
+
+From above, the jungle was unrecognizable. Once a verdant, riotous green sea of trees and strangling vines with thousands of flying creatures in a dizzying array of sizes and colors, now it was a dark, brooding forest of blackened oaks and twisted fungal growth. Deep in the darkness, shapes shifted and moved under the cover of shadows that seemed to warp and move of their own accord. Occasional fluttering wisps darted here and there, lending strangely twisted shadows to the dark boughs. Dotted about through the choking tangle were trees that moved, Infected Rot Guardians, and occasional Mana Eaters leaking blue spore clouds into the air.
+
+Gauging the distance and weighing up the danger, he guided them down to the clearing nearest the mine entrance – the nature-affinity spawning pool.
+
+As he alighted on the bank of the spawning pool, he saw the strangest phenomenon. The fungal creep grew right down to the edge where the liquid green mana lapped up against the banks, but the edges of the creep were burnt, seared by the dense mana, and if he wasn’t mistaken, the domain itself ended right at the border, making the spawning pool a small island within the domain that couldn’t be subsumed by the Blooming Rot dungeon.
+
+Interesting. That didn’t happen with Ali’s domain. But as he stooped to examine it, the air exploded into a sudden squall of greenish black droplets the size of marbles. Each one that hit his skin soaked in and unleashed an excruciating agony as his skin began to blister and rot.
+
+Mato roared, already in his Bear Form and charging toward the dark and twisted trees where the monster had been squashed up against the ground in near-perfect camouflage against the creep. He collided with an amorphous blob the size of a woodshed that slithered out of the forest with probing pseudopods reaching in all directions.
+
+“Raid boss!” Calen shouted as soon as he saw the mana within the monster.
+
+Devouring Consumption – Great Ooze – level 120 (Nature / Death)
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: OozeDamage: RotKnown Abilities: Consume
+
+Mato’s dark claws ripped great slashes through the monster’s membrane, making it recoil as black ichor and goop sprayed across his fur.
+
+Calen drew his bow and snapped off a quick shot, trying to ignore the continuous rain of caustic rot that was pelting down across the entire beach, much too dense to dodge. He was just grateful for the small percentage of damage he leeched as health, which was starting to repair his ruined arms and face.
+
+“Rain of Ruin,” he called out, identifying the domain magic as one he had already seen during the Alexander Gray fight and the destruction of the Lyton Ruins dungeon. Only this time, it was rot magic instead of fire.
+
+He focused on his arrows instead, trusting that Malika would come heal him if his health leech wasn’t strong enough, but out in the forest, mana surged, and a line of dark shapes shambled forward, breaking out from the trees and darkness and rushing toward them with volleys of rot-magic bolts flying in all directions.
+
+Rot Sapling – Treant – level 91-101 (Nature / Death) x5
+
+Behind them, several Creep Spores rushed in.
+
+Calen readied a fan of conjured arrows, but as he drew his bow, domain magic flickered within the Devouring Consumption, and one of the Rot Saplings suddenly collapsed. The moment it did so, pseudopods exploded out toward it, hauling the corpse in to be consumed by the massive ooze, and in seconds, the dead treant had been completely absorbed within the dark, shaking mass.
+
+Mato retaliated with an enormous blow of his paw, causing roots to spring up and wrap around the ooze, but of course, the amorphous body simply ignored them.
+
+Devouring Consumption – Great Ooze – level 122 (Nature / Death)
+
+Shit. He knew what Devouring Consumption oozes did, but still, it was a terrifying thing seeing an evolved raid boss suddenly add two levels by eating one of its allies. Whatever it had done to kill the Rot Sapling had caused the Great Ooze to accelerate as lashing pseudopods became suddenly faster and more deadly.
+
+“Was that what I think it was?” Malika asked.
+
+“I think that was Sacrifice,” Calen said, scanning the trees as more shapes seemed to shamble forward in the shadows. It was an ability they had all seen before – used by Tol’brekk to consume prisoners. Each time he had used it at the top of the Temple of Aman Rak, his melee abilities had become much more powerful. That would be two of three. What is the last one? He already knew he would remain uncomfortable until he understood the entire fight.
+
+“Calen, eyes in the trees,” Lyeneru said.
+
+In response, he shot out several motes, making them soar across the battlefield and into the trees, and then he finally saw it.
+
+Dark Druid – Sylvan Elf / Plant – level 120 (Nature / Death) x3
+
+The three Dark Druids were perfectly camouflaged, shapeshifted into twisted, dark oak trees, standing almost invisible among the rest of the gnarled trees of the forest. From their camouflaged position, they were furiously healing the Devouring Consumption and summoning fresh monsters.
+
+“Healers in the back!” he shouted. “Three shapeshifted trees.”
+
+Ali surveyed the cavernous chamber. The very same chamber in which she’d defeated Xammath and the Eye. It was no longer dark, and there were no signs of the blood splatters she had left, save for the slowly swirling blood still in the pool. Across the chamber, Ali noted with some interest a pair of massive drakes guarding the exit; one golden and majestic, leaking extraordinary amounts of holy mana and blazing white light into the surrounding demon domain, and the other a being of pure night – black-scaled and sizzling as the void magic spilling from its scales disintegrated everything it touched, even the air itself.
+
+Wow, I wouldn’t mind those for minions!
+
+“One of the spoils of victory,” Azryet explained, striding out into the center of the chamber, his body smoothly reassuming its familiar enormous form, dwarfing the already huge dragons standing guard. “This small branch of Destraggoth’s domain was completely liberated, partially due to your efforts.”
+
+Ali winced at the deep vibrations of his voice shuddering through her already pounding skull. The Dragon God’s instruction in using her domain had been brutal, and it was only after several hours of continuous, unmitigated agony that she had learned to survive the intensity of his forceful dungeon rage without passing out. He had been pleased with her rapid progress, but it had not been without cost. The inside of her head felt bruised and battered, like someone had been too enthusiastic with a meat tenderizer.
+
+“Why are we here?” Ali asked. He had made her grow a continuous trail of moss leading all the way from her domain in the cathedral to this spot on the outlying rim of the demon god’s dungeon, and she wasn’t entirely sure what he was thinking.
+
+“Connect your domain to his,” he said.
+
+“But that will trigger the dungeon rage, won’t it?”
+
+“Yes, and you will learn to wield it,” he said, looking downward to where she stood with an inscrutable expression on his face.
+
+“Me? Fight the demon god?”
+
+“What better way to practice combat? It is a worthy cause, is it not?”
+
+“Uh… obviously?” Ali glanced around dubiously. I guess he specializes in survive-or-die training methods? Azryet’s drakes had meticulously exterminated every demon in this area, and all that remained was the potent hellfire and blood mana, dense enough to put Mato’s pea soup to shame. There were many strange burning plants growing along the walls, with the dark red gleam of abyssal bloodstone nestled among them. “Wouldn’t it be faster to just deconstruct all of that?”
+
+“Yes, but then you won’t learn to use your dungeon rage. You will not prevail against a dungeon of Destraggoth’s power, but you will learn – provided you can remain conscious.”
+
+“You have interesting training methods,” Ali muttered.
+
+“Hmm?” he said, the sound coming out more like a rumble of boulders crashing down a hill.
+
+“What do I do?” Ali asked instead.
+
+“Finish linking your domain to this area.”
+
+Ali gritted her teeth in anticipation and summoned a tree; perhaps fitting for her broader purpose, it was an evolved Lirasian Oak. She watched the mana flicker to emerald-green life within the trunk as it absorbed her nearby domain and began rapidly emitting it into the surroundings. Her heart began to beat faster as her body began to perspire. If nothing else, Azryet’s harsh training had prepared her for precisely what was coming.
+
+Her mana grew outward, rapidly approaching the edges of the Demon God’s Lair, and she knew precisely the moment it touched. It would be impossible to miss. A bolt of staggering pain stabbed into her mind, driving her to her knees as she gasped for breath. A torrent of rage and pain that threatened to sweep her away, and in that instant, she realized Azryet had been holding back in his training. It was like nothing she had ever experienced – there was no past, no future. There was no Aliandra, nor Azryet. There was only pain, eternal, all-encompassing. Now. Her universe shrank to a single stabbing point of agony, and there she screamed into the darkness that lurked outside of her awareness. She wanted nothing more than to pass out. She reached for her Adaptable Mana, but some small part of her told her she could not. She would not. So, she endured, floating in that timeless pain until she finally felt something else.
+
+It was at once a soft, gentle light that bathed her mind and body in luminance, and also a raging torrent that burned like a fire within her. She clung to it with the desperation of a drowning person reaching for a lifeline.
+
+“Endure, Aliandra.”
+
+The voice was quiet, distant, and yet rumbled like an avalanche within her bones. Slowly, her mind surfaced, bobbing up above the sea of pain, and she found herself sobbing on the ground, clinging to one of Azryet’s enormous talons.
+
+The pain did not abate in the slightest. Nor did his healing mana do anything to mitigate it. But somehow, she rose above it, barely surviving, like a sword tempered in the fires of the forge. She breathed, a shuddering, gasping cough as her lungs remembered she needed air.
+
+“Excellent.”
+
+Ali didn’t dare speak, but she slowly sat up, releasing her embarrassing hold on his talon.
+
+“Now observe,” he said, his voice somehow gentle, yet firmly guiding her. “And then copy what I do.”
+
+Mana surged from his domain, arcing across the voidstone he had created beside her tree and mingling with the holy mana summoned by a dozen kobold priests far higher level than she could identify. It tore into the domain of hellfire and blood like a voracious beast, ripping and slicing, consuming it with a roaring howl that echoed within the vast chamber.
+
+Ali stared, transfixed by the sheer display of power, and the pure unmitigated fury of a Dragon God’s mana unleashed. The Demon God’s mana fought back, but with his presence in the room, Azryet’s mana was vastly more powerful.
+
+But the explosively violent display slowly subsided, leaving a large semicircular chunk of the original domain removed, just as plainly as the void magic disintegrated stone, and in its place, Azryet’s domain now held sway.
+
+“Now you try,” Azryet said, turning his intensely glowing gaze upon her.
+
+“Ok,” she managed, her voice sounding weak even to her own ears. She wrapped her will around her domain and bent it, pushing it toward the hellfire and blood, but gasped as the domain retaliated, burning her much weaker mana and spiking her already almost unbearable levels of pain.
+
+“Again,” Azryet commanded, and she struggled to obey, barely noticing the chimes of notifications in the back of her mind.
+
+Against the backdrop of agony, her Sage of Learning twisted her very interpretation of what mana was, blending what she had just seen him do with what she had found within Clarence’s strange pages. She knew how to twist her domain to make it compatible, but this was in some way the opposite.
+
+She threw her mana at the impenetrable wall of hellfire and blood, screaming in pain and frustration as she tried to wield her pitifully weak mana as a weapon, emulating the actions of a god to defeat the domain of a god.
+
+“Wield the dungeon rage itself,” Azryet said, making his mana surge beside hers, ripping through the dense domain with annoying ease.
+
+Wield the dungeon rage? What that might even mean, she had absolutely no idea. She was not even able to see his pain. But what is dungeon rage… Frustrated, she lashed out, but all she managed was more pain and destruction. She had no idea how to fight with rage. It wasn’t even a weapon. The only thing she knew that fought with rage was her Carnage Berserker.
+
+Berserker…
+
+Her pain-riddled mind refused to let go of the concept, even though reason told her it simply couldn’t be even remotely related. Not knowing what she was exactly going to do with it, she reached through her Martial Insight and connected with the mind of Tol’brekk.
+
+“Bleed for me,” she commanded.
+
+The giant troll roared, but not with anger or pain; he roared with a furious anticipation of combat, the profound will to fight even the intangible mana before them. He raised his bloody axes and spent his life and blood in a giant surge of power, cleaving the axes downward at the domain before them.
+
+But it was not his attack that she understood. In that moment, Ali understood the mind of her berserker – the will to throw everything into combat, and how even his own pain could make him stronger. Sage of Learning drew heavily upon her mana pool, leaving her lightheaded from the sudden, enormous drain, and suddenly, all the floating pieces aligned within her mind. It made sense.
+
+She pulled from her domain, shaping it to her will, and stabbed her rough construct into the heart of the Demon God’s domain like a serrated dagger, filling it with all her rage, pain, will, and power. The fabric of her domain crystallized, gleaming emerald surfaces as hard as diamond, held in a lattice of indestructible gold that bristled with the needles of her Disruption. There was a sudden crack, a detonation that rocked the cavern, and her mana recoiled from the resulting explosion.
+
+Ali looked up, dazed and confused, finding herself several meters back, plastered against the cavern wall, stunned and winded.
+
+“That was it.” It was all Azryet said, but his voice oozed with pride and satisfaction.
+
+Ali stared, but she could see nothing different.
+
+“Here,” Azryet said, indicating a small dent in the domain before them. A patch that looked like a small creature had nibbled at it. It was a small bite-sized gap, no more than several centimeters wide.
+
+“That’s all?” she managed to squeak.
+
+“You destroyed a measurable section of the domain of an entity that is several thousand levels above you,” Azryet said. “There is no shame in your achievement. Why don’t you check your notifications and see which advancement you have earned?”
+
+“Right.” Trust him to put it in that sort of perspective. Only a mere few thousand levels difference.
+
+Ali pulled up her notifications.
+
+Arcane Insight has reached level 77.Arcane Recall has reached level 40 (+2).Sage of Learning has reached level 64 (+4).Martial Insight has reached level 86.Domain Mastery has reached level 42 (+5).Requirements met for skill advancement.Mentor: Azryet.Received god-tier instruction in domain combat. Mentor: Clarence.Extensive study of domains and the nature of mana. Domain Mastery has surpassed level 40.Witnessed advanced domain warfare.Endured the dungeon-rage of a god.Destroyed the domain mana of a god. Domain Mastery gains Berserk Domain.(Your domain gains power proportional to your rage.)Domain Mastery gains Domain Combat.(Wield your very domain as a weapon of pure destruction.)Domain Mastery gains Domain Architect.(You are the architect of your domain, wielding and shaping it in any way you can imagine. Replaces Adaptable Mana.)Choose one advancement.
+
+Ali studied her three choices carefully. Berserk Domain, she was certain, would turn her into a beastly dungeon equivalent of a berserker; something she couldn’t imagine being useful until she glanced at Azryet and remembered just how much surface area he claimed was in conflict on the boundaries of these two giant domains.
+
+But that path is not for me.
+
+Domain Combat seemed more her style, a simple choice to wield the mana of her domain as a weapon, something which would be immediately useful as soon as she crossed the rift. Domain Architect looked incredibly potent, but the fact that it replaced her Adaptable Mana worried her. That was the skill that made it easier for her to share domains with others and leverage alternative mana affinities within her domain.
+
+She looked over to where Azryet was waiting, surprised to see several demon corpses lying on the ground beside his two drake guards. He hadn’t specifically asked, but on impulse, she decided to share the three options with him. “Do you have any advice?”
+
+“Curious,” he said, pausing for a while before continuing. “I have never seen Berserk Domain before.”
+
+“That’s my least favorite.”
+
+“Perhaps it is the result of you using your berserker to understand some aspect of dungeon rage? Perhaps there is something that lurks within you that resonates with the berserker way?” he said, rumbling deeply, and it took a few moments before she realized he was making fun of her use of her berserker to stand up to him.
+
+Ali elbowed him in a scale and then rubbed it as she realized he was harder than the cavern wall.
+
+Apparently, her reaction earned an amused curl of his vast lip. “Domain Combat is the most straightforward – it was my first one,” Azryet noted. “You will be able to fight an invading domain, and the skill will do most of the work for you. After my second evolution, I unlocked Domain Architect. It is substantially more versatile, but it will take equally substantial practice to use correctly.”
+
+“I’m worried about it replacing Adaptable Mana,” she said. “I use that to make monsters that require other affinities.” She chose not to mention her use to share space with Lira; it no longer mattered, and it risked reopening the deep wound in her heart.
+
+“I don’t think you should be concerned about that,” he said. “Domain Architect will supersede that, you will be able to restructure your domain to emulate any of these effects, provided you understand how it works. If you have memorized your Adaptable Mana, you will be able to duplicate the skill in no time, if not immediately.”
+
+“So, Domain Combat would allow me to take back my domain without training, but Domain Architect would require some potentially difficult training?”
+
+“This is correct,” he answered.
+
+“Do you have a recommendation?”
+
+“I would choose Domain Architect; its versatility is unmatched. And it so happens that we have a piece of a domain for you to train on.” His great taloned forepaw indicated the cavern before her. “I will leave my guardians here to protect you while you work. If you can wipe out the domain, I will grant you this space for your own. In the meantime, I will search for your rift.”
+
+“Ok, thank you,” she said, and she chose her advancement. After all, it seemed wise to listen to a Dragon God and no, the idea was not making her sweat. Not even a little.
+
+Domain Mastery – level 42All your magic within your domain is empowered by the domain itself. The mana reserved for domain-enhanced monsters is reduced by 72.18% [3% reduction per skill level].You are the architect of your domain, wielding and shaping it in any way you can imagine.Mana: Adjust the shape and composition of any non-living material that is part of your domain. Range: Domain.Mana: Permanently attach anything you have made to your domain. Its mana signature is imprinted onto the domain allowing it to be automatically respawned when killed or destroyed. Domain attached minions may not leave the area of attachment and may be further enhanced with Domain Magic. Range: Touch.Enhancements: Domain, Boss, Raid.Nature, Arcane, Mastery, Domain, Intelligence
+
+As soon as she had committed to her choice, her notification chimed again.
+
+You have learned a new Domain Magic: Arcane Inspiration.Arcane InspirationRequirements: Domain Mastery has reached at least level 40. Inspiration has reached at least level 20. Source: Class.The boss, any minions, and summons gain Arcane Inspiration – an arcane-affinity buff that restores mana over time. If the buff is dispelled or removed, it is automatically recast. Skill – Domain Magic
+
+Oh, nice, she thought, scanning the new skill. It was not the most powerful domain magic she knew, but she could think of several interesting applications for it. Particularly when it came to horde-style summoner bosses with minions possessing powerful magical attacks. Maybe elementals?
+
+She put it down for later and glanced up at Azryet. He nodded at her, so she rolled up her sleeves and pressed her mouth into a firm line. She would need to practice her new skill extensively.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

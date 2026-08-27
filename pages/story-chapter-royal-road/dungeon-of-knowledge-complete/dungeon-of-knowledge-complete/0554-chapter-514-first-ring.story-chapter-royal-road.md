@@ -1,0 +1,139 @@
+---
+id: 37ad2a34-e4ff-5711-908e-2a2946508948
+page-type-slug: story-chapter-royal-road
+title: "Chapter 514: First Ring"
+slug: 0554-chapter-514-first-ring
+partOf: dungeon-of-knowledge-complete
+position: 554
+ownLength: 2380
+unit: words
+ownProgress: 2380
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2967930/chapter-514-first-ring"
+royalRoadId: "2967930"
+markedReadAt: "2026-06-29T20:31:08.311Z"
+---
+
+The droning hum and the flickering of power faded as the semi-crystalline Calhedron exploded, shards clinking together as they bounced off the ground and each other.
+
+Ali frowned as the magic flowing through her wings took her on a slow descent toward the remains of the elemental boss. Her eyes scanned the remains of the battlefield, taking in the carnage and damage that were strewn everywhere. Far too many of her most powerful minions had fallen to the cascade of arcane bombs – a manifestation of the Zone of Destruction domain magic applied to the arcane affinity. She hadn’t had a chance to test out her own arcane Zone of Destruction, and so she had naturally assumed it would manifest as puddles of damage-inducing magic on the ground, like every other version she had seen. The Calhedron’s ability had taken her by surprise, an error she intended to remedy immediately. She hadn’t counted on the sheer density of the orbs floating downward or the difficulty she would have in having her minions dodge the blasts due to their homing nature.
+
+She had been so excited, reveling in the power increase her new gear was granting to her minions, and the first boss in this dungeon had instantly humbled her. And so, it was with a bit of a bruised ego that she reached out and began deconstructing the remains. These will be nice. No, she had not missed Calen’s significant glance earlier.
+
+Variant: Barragon Shard added to Imprint: Elemental.
+
+She studied the runic inscriptions, quickly confirming that the strange prism-like summoned elementals were indeed Swarm-class monsters – yet another decent addition to her repertoire, and one she intended to gift to Gage as soon as possible. The shards had surprised her with an entirely unexpected ability to assemble into a stellated platonic orb, which had detonated, ripping two of her mages and a priest to shreds in an instant. She grimaced at that memory.
+
+With that task completed, she stepped up and deconstructed the boss.
+
+[Sage of Learning]Domain Magic analyzed: Zone of Destruction (Arcane)Domain Magic analyzed: Mass Summoning (Barragon Shard)Domain Magic analyzed: Amplify Skill (Arcane Bolt)
+
+“Don’t worry so much, Ali,” Calen said, landing beside her.
+
+“I lost half of my minions,” she complained. “I should be better than this by now.” Honestly, it wasn’t a particularly complex fight, and she was one of the most experienced members of the guild – at least by class level.
+
+“It was an unknown fight, and we killed it on the first try,” Calen said. “Lyeneru told me that only one of the other raid groups managed a kill.” He gestured with the Sending Stone in his hand.
+
+She glanced at it and then at him with the wordless question hanging in the air between them.
+
+“No casualties, everyone was well prepared with escape tools,” Calen said, drawing a sigh of relief from her. “With the information we learned, the others should be able to defeat their bosses. At least we were able to confirm that all five Calhedron bosses were identical.”
+
+“Oh, good,” she said, voicing her relief. “Let me take a look at this barrier quickly, then.”
+
+As she flew over to the glowing purple wall that rose out of the domain to enclose a large portion of the dungeon, she flexed her Domain Architect skill, slicing into the domain, freed now from the protection of the raid boss. But to her surprise, she made no progress; her mana was repelled by the density of the hostile domain, as if, somehow, it was still protected by the presence of a live raid boss.
+
+“Hmm, why isn’t this working?” she muttered, frowning in surprise, but that wrinkle would have to wait. She studied the great dome barrier that barred their entrance into the rest of the dungeon, noting the almost invisible dense runic inscriptions that were worked into the magic formation – a level of complexity that matched some of the most incredible formations she had ever studied: Nevyn Eld’s array in the Temple of Aman Rak, the runes in the Arcanite Pillar, and the domain-wide suppression formation in Cael and Gage’s Infinite Maze. Clearly, the work of someone possessing consummate proficiency in runic magic and the arcane affinity – obviously the work of the archmage himself.
+
+But she did not need to fully understand it out here in the dungeon. She could study it later. Instead, she chose to wield Sage of Learning to commit everything she could see to memory before she activated Arcane Insight. Her magic, working off her local understanding of the barrier directly before her, coalesced into intricate golden magical formations – tiny arcane needles keyed to the barrier itself. Then, she unleashed them into the structure. The needles shot forth, leaving a trail of golden glitter drifting in the air, and smashed into the barrier, piercing it. In seconds, the purple wall before her began to melt, holes forming as a rush of corrupted mana poured out through the compromised barrier.
+
+But then something happened that she did not expect. A great infusion of mana surged through the nearby crystalline arcanite pillars, a pulsing of power that propagated rapidly through the domain itself. Energy surging through the domain rippled up into the dissolving barrier, and in seconds, the hole she had ripped through the barrier closed, healed without a trace.
+
+Her eyebrows shot upward. Oh!
+
+However, the mana surge did not abate. Instead, she watched in dismay as it shifted into a formation she instantly recognized. There had been a couple of times when she had used Arcane Recall to reset the recharge timer for her Domain Respawn, and she had respawned her entire dungeon at the same time – this formation looked exactly like she remembered.
+
+“Domain Respawn! Run!” she shouted at once, teleporting herself away as the mana poured out from the domain, rapidly coalescing into the shape of the Calhedron they had just destroyed. Malika and Calen teleported, and Mato charged, barely getting clear in time, and then the air was filled once again with the strange sub-audible thrumming vibration as the Calhedron manifested entirely restored.
+
+“Ali?” Calen said, his question hanging in the air for a moment.
+
+“I have no idea where that came from,” Ali said, but she could already see the aftershocks of the power surge rippling through the domain all along the spherical barrier, with particularly intense concentrations precisely where each of the five Calhedron bosses had been engaged. She would need to study the runes closer, but she had a sneaking suspicion that she could guess how it worked. If she was right, these elemental raid bosses just suddenly became much more challenging.
+
+“Everyone got away safely,” Calen said, confirming at least a part of what she had suspected – the surge had affected all the bosses and the raid groups that had engaged them.
+
+“I guess we need to kill it again,” Mato said cheerfully.
+
+Ali glared at him for a moment to let him know just how much she was looking forward to that prospect, but then she turned her attention inward to study her notifications.
+
+Dungeon of Knowledge has reached level 191 (+5).+50 attribute points.Arcane Insight has reached level 115 (+3).Arcane Recall has reached level 56.Barrier has reached level 101 (+2).Runic Script has reached level 83 (+3).Sage of Learning has reached level 87 (+3).Martial Insight has reached level 118 (+2).Empowered Summoner has reached level 98 (+2).Domain Mastery has reached level 63 (+3).Minion Teleport has reached level 63.Identify has reached level 40.Inspiration has reached level 35.Barrier has reached a base skill level of 100.Barrier has advanced to tier two.
+
+As much as she had been grumpy with Mato for suggesting a rematch, Ali immediately grinned happily at the extra chimes informing her that she had earned her third tier-two skill. Barrier had been with her since the beginning, and it had saved her life and that of her friends and allies more times than she could even count.
+
+“You got something, didn’t you?” Malika intuited.
+
+“Out with it, pipsqueak,” Mato snorted.
+
+“Watch it! Remember, I once knocked out a raid boss with this,” Ali said, holding up her, admittedly tiny, fist and waving it under his nose. The effect was substantially diminished by the need to actually fly to reach an appropriate height.
+
+“Let’s see it,” Mato said, not cowed in the slightest if his happy grin was anything to go by.
+
+“Right,” Ali said. With eager anticipation, she summoned her magic, casting a barrier in the air overhead. What she saw and what she felt simply took her breath away. Where before she had summoned her barriers, using the skill as a tool, now it felt like an extension of her will, the magic flowing naturally, as if it were simply a reflection of the shape she held within her mind. And there was so much of it; her capacity had grown large enough now to shield an entire raid group by herself.
+
+“Nice,” Mato said, his voice suitably awed. “Even I can see that’s something special!”
+
+But it was the density and efficiency of the structure that truly captured her heart, visible in pristine clarity via her advanced mana sight.
+
+“I wanna see that frozen dragon try to break this,” Ali declared, her mind returning to the devastating encounter where they’d lost to Kryostria, The Frozen Scourge.
+
+“Hah, now you’re talking!” Mato crowed.
+
+Grinning at her friends, Ali turned to her attribute points. She spent fourteen on intelligence, committing to keeping that as her highest investment, but wisdom and perception were almost as important to her, so she spent twelve on each. Then she spent eight on vitality, and two each on endurance and dexterity. There, that should work nicely.
+
+When Vivian and Lyeneru stopped by to tell her about the strategy meeting, they found her making barrier sculptures with her mind, wearing a fierce grin as she considered a rematch with Nevyn Eld’s pet Dracolich.
+
+***
+
+“What exactly was that, Aliandra?” Lyeneru asked as the entire guild switched their attention to Ali. The assumption, of course, was that she understood all things dungeon. It was only moderately intimidating, but fortunately, she had a good answer after recording all the runes and studying them closely.
+
+Ali’s gaze took in the attentive raiders sitting in the main hall of the guild. Many of them had taken the opportunity to change into more comfortable outfits, but their armor and other gear items were no doubt just a flash of mana away in a storage enchantment somewhere. Judging by a few of the smiles out there, many must have gained some good levels today.
+
+“The runic structure inscribed on the barriers contains a formation for respawning each of the Calhedrons, provided any of them remains alive,” Ali said. It was a remarkable piece of magic, and one she was eager to adapt for her dungeon.
+
+It was, in fact, a manual transcription of the Clone Domain Magic, written in arcane runes woven into the barrier dome itself. It allowed the acceleration of the Domain Respawn by having the remaining bosses cast it directly. Unfortunately, due to a virtuoso feat of runic magic, merely hitting the other bosses wouldn’t interrupt the respawn. It was the barrier that would need to be defeated.
+
+“The barrier runes link each of the five raid bosses together. While even a single one of them remains, the barrier dome will be rapidly regenerated.” This part was mostly supported by deductive reasoning, and she was still a little uncertain how the formation had been achieved. However, she felt mostly confident in her ability to understand the intricate magic, if not to actually duplicate it, and she had witnessed the barrier regeneration and had clearly seen the energy flowing into it from the other raid bosses.
+
+“So, we have to kill all of them at the same time?” Vivian asked. “Is that what it means?”
+
+“Effectively, yes,” Ali said. “The respawn was triggered after a few minutes, so we probably have a small window of time, but they all need to be dead at the same time for me to break the barrier dome and to destroy the outer ring of the domain. We should consider the five Calhedron bosses and the barrier dome as a single champion-threat encounter.”
+
+“Ugh.”
+
+“That’s so annoying.”
+
+The muttered responses from several of the waiting raiders were followed by groans and uncomfortable shifting among those listening as they processed the full implications of Ali’s analysis.
+
+But Vivian hardly seemed put out. “Ok, we need to train the rest of the raid groups to make reliable kills now that we have information about their abilities. We can come up with a repeatable strategy easily enough, and we can coordinate the kills using the Sending Stones. Ok, get to work, people. We return to the dungeon tomorrow morning.”
+
+“Tomorrow already?” someone groaned. “What about my holiday?”
+
+“What about my boot?” Vivian responded with a grin.
+
+“Yes, boss!”
+
+As they joked, presumably to release their stress, Ali sensed the soft chime of a distant notification and her awareness flickered back to her kobold mage boss on the outskirts of Ciradyl. Several ethereal clouds hovered nearby, the leavings of dead Banshees slowly being consumed by the flames of consecration.
+
+“And what did you just do?” Ali wondered, opening the excited kobold’s notifications.
+
+“I shot it! And then it happened!” the kobold yipped.
+
+You have earned the title: Bane of the DeadYou have achieved a consecutive ten thousand undead kills of monsters level fifty or higher. 11% chance to cast level 56 [level / 3] Turn Undead on hit with holy damage.Title
+
+Turn Undead – level 56Mana: Attack the necromancy animating an undead monster with a pulse of holy magic. Affected undead are repelled with Intimidate. Against lower-level undead, unraveling their binding necromancy causes extreme damage, up to full disintegration.Holy, Area, Wisdom
+
+“Oh! Well done!” Ali cheered.
+
+“Thank you, ancient mistress,” the kobold said, bowing along with all her clones, but then two of the ones on the far side unleashed fireballs at another incoming ghost and Ali decided it would be better to let her minion play with her new title on her own. Of course, she was going to watch.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

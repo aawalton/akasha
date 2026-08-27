@@ -1,0 +1,133 @@
+---
+id: 7c902500-4310-5cb2-87b1-ad5f50abb711
+page-type-slug: story-chapter-royal-road
+title: "Chapter 279: An Altercation at the Guild"
+slug: 0313-chapter-279-an-altercation-at-the-guild
+partOf: dungeon-of-knowledge-complete
+position: 313
+ownLength: 1370
+unit: words
+ownProgress: 1370
+publishedAt: 2025-06-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2356226/chapter-279-an-altercation-at-the-guild"
+royalRoadId: "2356226"
+markedReadAt: "2026-06-29T20:21:54.359Z"
+---
+
+Ali flew out of the office and into a scene of utter chaos. Battle lines had been drawn. On one side of the guild hall, adventurers held a defensive skirmish line with weapons drawn. On the other side, Zor’kan and Gara attempted to hold Val’korr back with little success. The aged seeker shouted curses in Trollish while brandishing his walking stick at anyone who moved, and every few seconds, someone turned into a frog.
+
+Several tables had been upended and Havok stood front and center, his shield glowing with holy magic and his skin somehow turned into a fluorescent pink that seemed to glow from within.
+
+“Seeker, what is going on?” Ali said, yelling in trollish to be heard above the racket.
+
+“Why is there an evolved Troll in my guild hall?” Vivian demanded.
+
+“He’s my guest,” Ali tried to explain, wincing at the chaos she appeared to be responsible for bringing down upon the guild.
+
+“He’s attacking my adventurers,” Vivian said, her hand resting on her blade, her eyes flashing dangerously.
+
+“Let me talk to him,” Ali pleaded.
+
+“Aliandra, please do something!” Gara begged.
+
+“Val’korr,” she shouted, finally getting his attention, and some measure of silence in the room. “Why are you attacking our host?”
+
+“This one pulled out a weapon and threatened our little one,” he said, pointing at a shaven-head youth wielding a burning staff.
+
+Ali sighed. Of course, someone had attacked or threatened someone and then someone had gotten their feelings hurt.
+
+“Cai, did you attack the Troll children?”
+
+At least he had the decency to look embarrassed. “Yes,” he said, hanging his head. “But it wasn’t my fault. She leapt out from behind the couch and shouted at me, and I reacted to defend myself. I didn’t mean to hit her, it all happened so fast. Then the old one over there started yelling and turning everyone into frogs.”
+
+Ali searched the room, finding the young troll girl being comforted by her mother, while Val’korr still bristled with rage.
+
+“It seems to have been a misunderstanding,” Ali said, translating, even though she knew Val’korr didn’t technically require it. “He didn’t mean to hit the young one, and he’s sorry he was frightened. Seeker, can we just put this all behind us?”
+
+“I will not just forget about our honor. He pulled a weapon on us. That means a challenge. He must fight for his honor and if he wins, I will apologize,” Val’korr answered.
+
+“He’s level thirty. You will kill him if he fights you.”
+
+“He should have thought of that before pulling his stick out!” Val’korr brandished his own staff to punctuate his exclamation.
+
+“Do you really intend to kill a youth who just made a mistake?”
+
+“Honor is important. These youngsters need to learn this fact,” he said firmly.
+
+Ali leveled a raised-eyebrow stare up at him.
+
+He glared back at her, but Ali refused to relent.
+
+“I guess I could accept a sincere apology,” he grumbled, breaking the staring match first and shuffling awkwardly. A few muttered curses faded into silence.
+
+Ali turned back to Cai and was interrupted by Val’korr. “In passable Trollish.”
+
+Ali sighed again. So cranky. If Cai hadn’t admitted fault, she might have been inclined to believe the grumpy old troll had stirred up the ruckus on his own.
+
+“He wants an apology, in Trollish,” Ali translated.
+
+“I can’t speak trollish,” Cai said firmly.
+
+“He intends to kill you if you don’t – he claims it’s a matter of honor. He is an elder of their tribe, and they have had a very bad week. He’s also an evolved Troll from the first age,” Ali finished, watching the blood drain from Cai’s face as he realized the gravity of the situation. She, in fact, had no idea how strong Val’korr really was – even at her current level, she still could not identify him.
+
+“How… I…”
+
+“Would you like me to teach you the words?” Ali asked.
+
+He nodded vigorously.
+
+“This might take a few minutes,” Ali told the ancient troll.
+
+He folded his arms and nodded, clearly intending to wait it out.
+
+So much fuss over a misunderstanding. Honor cultures always surprise. Ali glanced at the child who caught her gaze and gave her a tentative smile. She waved back and activated her Sage of Learning Teaching Sage and then began to speak, her skill and mana resonating with the rhythm of her voice as it laced her words with power. In an otherwise tense and silent guild hall, she explained each word in Trollish, how to pronounce it, what significance and meaning it had, and why the apology was constructed that way. The language gave her a lot of insight into the culture of the Trolls, but there were still significant gaps that would take a lot of reading to fill in. Nevertheless, for this task, she was more than sufficiently skilled.
+
+After fifteen minutes of tutoring, while Val’korr looked on with an unwavering glare, arms folded across his chest, the boy finally spoke the words of the apology. In Ali’s opinion, his accent and pronunciation were remarkably good for a beginner. Of course, he was under quite a lot of pressure and was visibly sweating.
+
+When he had finished, Val’korr looked at him and then unfolded his arms. He glanced over at the troll girl – who couldn’t have been more than five years old – still cradled in her mother’s arms. “What do you say, Xera?” he asked.
+
+“I want to play with the baldie,” the girl said, pouting. “His scream is funny.”
+
+“Very well,” Val’korr said, turning back to Cai. “I accept your adequate apology.”
+
+“Huh, I understood him?” Cai exclaimed in surprise, and then he looked at Xera incredulously. “She wanted to play?”
+
+“Check your notifications,” Vivian said. “You probably just learned a rudimentary version of the Trollish language.”
+
+“How could I learn it that fast?” he asked.
+
+“Aliandra has a magical teaching skill – and your life was probably at stake,” the Guildmaster answered. “Higher risk often comes with greater experience gain and faster learning.”
+
+Cai’s face went even paler at the Guildmaster pointing out the proof that his life really had hung in the balance.
+
+“If I may ask, Seeker, why is the Goblin pink?” Ali asked the ancient witch doctor.
+
+“I turned him into a frog when he tried to attack me, but he wouldn’t stop. Tenacious Goblin. I had to use Ritual Infusion to empower it. Sometimes it has random effects,” the troll answered, seeming remarkably pleased with himself. “It will wear off in a day or two.”
+
+“I see,” Ali said, folding her arms across her chest. She didn’t have Lira’s extraordinary skill at smoothing over situations like this, but she couldn’t let such behavior go without comment. “You’re so old that a silver-ranked Goblin poses a significant threat to your safety?”
+
+Val’korr coughed and Zor’kan looked horrified. But, as angry and grumpy as he had been, Ali was glad he had restrained himself. At such a high level, he could undoubtedly have laid waste to the entire room in seconds. A couple of people turned into frogs for a few minutes was nothing.
+
+“So why do I have the ancient Seeker of Aman Rak in my guild hall?” Vivian asked, using a visible effort of will to calm herself down.
+
+“Aman Rak has fallen to the Blind Lich. These Trolls are refugees – they are all that remain of their kingdom,” Ali answered.
+
+“I see,” she said, taking the horrifying news in her stride. “That’s what you meant earlier. Aiden, do you think we can organize a few houses for them? It looks like they’ll be staying a while, perhaps near the guild so that we can smooth over things with the local townsfolk.”
+
+“I’ll put it on my list,” Aiden said, his shoulders slumping.
+
+“Delegate, young human,” Val’korr snorted in Common.
+
+“Eh… un, what did you say… honored Elder?” Aiden stumbled.
+
+“Learn to delegate. Either that, or learn to turn people into frogs. It’s more fun.”
+
+Ali grinned to herself. And that would be the equivalent of a Troll apology. Life in Myrin’s Keep promised to be lively in the future.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

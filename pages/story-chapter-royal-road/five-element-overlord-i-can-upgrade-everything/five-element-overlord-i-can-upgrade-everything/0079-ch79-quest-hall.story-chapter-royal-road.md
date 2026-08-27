@@ -1,0 +1,143 @@
+---
+id: 99d81e7c-2731-5092-af43-2d11ea600fb2
+page-type-slug: story-chapter-royal-road
+title: "Ch79 Quest Hall"
+slug: 0079-ch79-quest-hall
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 79
+ownLength: 1938
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3558706/ch79-quest-hall"
+royalRoadId: "3558706"
+---
+
+My first night sleeping in the Outer Sect is silent and peaceful.
+
+I wake up full of energy, and the first sight I see is an emerald swallow perched beside my bed.
+
+It flies over to me the moment I’m conscious, and pours out the only thing remaining in its storage. The communication talisman stores another message from the middle aged 4th level qi refiner from the alchemy peak.
+
+“Senior, I am grateful for your support. You have my loyalty. I must say my work is simple. With a few dozen other apprentices, we are able to watch a named disciple concoct qi gathering, qi nourishing, and healing elixirs every morning, and at night we’re given the leftover spiritual herbs to practice ourselves. We have been doing so since the start of the war, as many extra reserves were concocted to be sent out to the front lines. For now I am still only practicing qi gathering pills, but with the increase in my cultivation, I’ve managed to make small batches that have some samples reaching the low quality threshold. For a Senior like yourself, I know this is not worthwhile yet, I will work my hardest to pay off your kindness.”
+
+It clicks off, and I nod to myself. A person with a sliver of talent, but no opportunity for greatness… These are the perfect people to have work under me.
+
+A passing image of Xu Hong’s face comes to mind as the best example of a failed attempt at curating an underling. If they progress too fast, they are not a good tool. They are an ally at best…
+
+There is a small usage bar in my mental view of this emerald swallow that has ticked down by about 3-4%. Meaning a few hundred kilometer flight to and back can be sent out over twenty times before I need to recharge this bird.
+
+With no reason to contact Chen Yilin again, I stow away the emerald swallow into my system storage, then get up to start my day, checking on the array flags attached to the perfect grade spirit vein below this small mountain.
+
+Already, there are over 20 thousand spirit stones harvested, and the vein has only shrunk a few dozen meters.
+
+While checking in to collect 4 brand new bronze upgrade cards, I tuck the still sleeping Little Red into my new green outer sect robe, and pull out the brown booklet I was given by the Vice Peak Master.
+
+It states that these 122 acres are my private domain. The only ones allowed to intrude on it unannounced are the Vice Peak Master and Peak Master himself.
+
+Other than that, named disciples and Law Enforcement Hall officers are permitted to enter unannounced only if my 3 month quota is not met on time.
+
+Basically, no one will come to check on me. My only responsibility is paying and giving out simple orders to the stewards working for me in about a week.
+
+I’m free to do as I wish until then.
+
+I breathe in a fresh breath of air, and watch the 5th level spirit crane slowly glide over the airspace of this plot. It does not have its rain technique activated, it only stares down at the rice fields with a stoic expression.
+
+I wave at it from kilometers away, and whistle a few times before catching its attention.
+
+The old bird drifts over, and stands before me at attention.
+
+“I want to go to the Quest Hall. Can you bring me there?”
+
+Its eyes light up only when it hears Quest Hall, nothing else seems to register. The spirit crane nods, and turns its back to me, widening its wings.
+
+The long flight deep into the territory of the Beast Mastery Peak follows, and we finally descend into a valley with quite a bit of infrastructure built. There is an enormous stone hall with many surrounding buildings and courtyards full of busy cultivators.
+
+Many of the outer courtyards are full of tamed spirit beasts, and they’re being fed and watched over by many grey robed stewards.
+
+The door entries are being watched by stewards, and the open windows allow me to see paperwork and jade tablets being processed by the same grey robed old men. These must be the premium steward positions Bao Zhan spoke of, allowing them to make connections with Outer Sect disciples much more easily.
+
+It is not until I touch down in front of the largest Quest Hall that the sea of green robed cultivators hits my senses.
+
+It’s even more than last night at the Vice Peak Master’s palace.
+
+“I have my quota for spirit rice ready to hand in!”
+
+“25 new earth lizard eggs have been collected from the Misty Forest, ready for inspection.”
+
+“Senior, could I have a 5 day extension on my spirit corn quota? Harvests are slow due to the lack of manpower during the war.”
+
+“I’d like to spend some of my contribution points, one low quality qi nourishing pill please.”
+
+Mid level qi refiners line up and call out various words to the four main counters at the back of the room.
+
+Long lines are formed behind each of them, and I quickly make my way over to the closest one.
+
+The spirit crane that flew me here follows behind calmly, like it’s been here hundreds of times before.
+
+Every single cultivator in line has a crane or wolf by their side, some even have one of each spirit beast tagging along.
+
+I keep my head down and slowly move forward in line too, finally making my way to a window where a middle aged woman at the 4th level of qi refining smiles and repeats the line she speaks to everyone else.
+
+“Please present your identity token, and state your reason for coming to the Quest Hall today.”
+
+I set my green token down in front of her, “I’m looking to trade in my contribution points from the war. This is my first day in the Outer Sect.”
+
+She pulls the token past the separating counter, and scans it on a jade tablet before handing it back with a small brown booklet.
+
+“Disciple Li Hao, you have a running total of 160 contribution points. Please check the exchange list and I’ll be happy to trade them in for you.”
+
+Her dark eyes move up from my hands toward the black and bronze pins on my robe collar, then back to me with greater scrutiny.
+
+I disregard her strange expression, and sift through this list, looking for a Barrier Breaking Pill available for trade.
+
+The first few items are all very specific, including low grade minor rain talismans for a single contribution point, and 1000 kilograms of inferior grade spirit beast feed for the same price. There are options for mammals, reptiles, flying beasts, and many more specific categories.
+
+The next items are all similar to what I remember reading on the list in the Stone Valley Stronghold, granting low quality qi gathering pills, low quality qi nourishing pills, as well as low and mid quality talismans and weapons. I even see various low quality element stones available for sale. The same fire stone that was gifted to me is available for 10 contribution points. There are medium quality stones here too, for 100 contribution points, but nothing higher.
+
+The booklet ends there.
+
+“I don’t see any entries for Barrier Breaking Pills. Are they on another list?” I ask, and the woman’s expression grows even more complex.
+
+“No… they’re not on another list. You would have to apply directly to the Inner Sect to purchase one of those. What does a 2nd level qi refiner need a Barrier Breaking Pill for anyway?”
+
+“Nevermind then… In that case I’ll refrain from spending any of my contribution points for now.”
+
+Her gaze tightens, but a short haired 7th level qi refining man with a similarly late stage grey wolf beside him scoffs at me.
+
+“Who do you think you are asking for late stage elixirs? You have become far too overconfident after making it into the sect through someone else’s backing. I heard about the Wang family getting a 2nd level qi refiner in as a spirit farmer, but I wasn’t sure if it was true until now. It’s a shame they wasted their last bits of reputation on a weakling.”
+
+[Automatic Inspect Function Activated…][Feng Minshun] [Age: 45][7th Level Qi Refining][Water, Earth, Metal Spiritual Root][7th Grade][Acquired Beast Master Physique][Initial Stage - Mortal Grade][No Innate Physique][He is the son of a major qi refining family’s patriarch in Lingshi City. Wanted to get his 3rd level qi refining younger brother into a spirit farming position after the war, but was turned down again. Is jealous of foundational family’s power.]
+
+I raise an eyebrow, but only shrug and walk away.
+
+“Hey, are you listening to me? A 9th grade trash that got lucky after eating some martial warrior pills. Someone like you should never rise above a steward. Resign from the Outer Sect if you have any shame!”
+
+The spirit crane follows me outside the Quest Hall, and I leave the short man red faced, yelling a few more remarks, but I tune him out.
+
+A few other outer sect disciples look at me with a similar disgust and whisper to themselves, but none yell out like Feng Minshun just did.
+
+“Let’s go back to the fields.” I murmur, and hop on my crane’s back, soaring upward into the sky.
+
+I think for a few minutes as the morning air rushes by me, then pull out a communication talisman to speak.
+
+“Wang Ming. Is there anywhere I can procure multiple Barrier Breaking Pills? They’re not available at the Quest Hall, and I’ve never seen anyone sell them in the Red Pine Market. Would you be able to find some if we went to Lingshi City?”
+
+My message is sent, and I only soar over a few plots of spirit fields before the talisman glows and a voice rings back.
+
+“Multiple pills? I don’t know about that… For 6th level qi refiners of the Outer Sect, with enough spirit stones and contribution points, we can apply for a single pill from the Inner Sect. They wouldn’t be available in Lingshi City either, the Violet Dusk Orchid is a highly regulated ingredient. It’s the main ingredient in Barrier Breaking Pills, but also an extremely strong poison in the wrong hands.”
+
+The talisman clicks off, and I reply back.
+
+“Even an inferior quality pill? Burnt and deformed, it doesn’t matter.”
+
+There is a longer than usual pause, lasting a few minutes, but Wang Ming replies eventually.
+
+“I just did some asking around, and found that occasionally the inferior quality petals without active poison extracts are sold off to the Alchemy Peak for some of their higher level named disciples to practice on. I do not have any direct connections to this peak, I can’t help you there. The only other option I can think of is Lingshi City’s sect hosted auctions, it’s possible the sect may push some pills out into the public to strengthen the qi refining families after the war, but that is purely a gamble. I’ll be heading back to the City in two days to check on my grandpa if you want to come along and test your luck.”
+
+A thin smile curves my lips.
+
+“No thanks, I’ll have to pass on tagging along this trip. Your information has helped me a lot.”
+
+I stow away this talisman, and pull out my emerald swallow.
+
+“Junior Chen Yilin, this is my first task for you…”

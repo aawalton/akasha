@@ -1,0 +1,101 @@
+---
+id: 5ae68f2b-c25a-5b27-9c46-eb25cb6d526f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 513: Calhedron (Part 2)"
+slug: 0553-chapter-513-calhedron-part-2
+partOf: dungeon-of-knowledge-complete
+position: 553
+ownLength: 2158
+unit: words
+ownProgress: 2158
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2964399/chapter-513-calhedron-part-2"
+royalRoadId: "2964399"
+markedReadAt: "2026-06-29T20:31:06.066Z"
+---
+
+Malika ducked, dodging rapidly, but the storm of purple bolts flying toward her was annoyingly persistent, even adjusting their trajectories to chase her down. Just like the Arcane Bolt skill Ali had begun with, only this time, the hail of bolts came from a veritable cloud of spawned elementals wheeling overhead. With her reduction to magical damage taken, the bolts themselves individually did very little damage to her, but the unpredictable impacts threw off her ability to dodge the far more powerful bolts coming from the boss.
+
+Covering fire. That’s annoying. She gritted her teeth in frustration, powering through the impacts and instead delivered a strong, spinning kick into the glittering, pristine surface of the elemental as it swirled past her. There was a soft crack as she released her magic through the sole of her foot, and it pierced satisfyingly far through the body of the monster before she followed up with several punches in quick succession, her mana leaving the lingering glow of Soul Burn pulsing softly within the elemental.
+
+Ok, phew. My attacks work. It had been a worrying uncertainty hovering in the back of her mind after facing so many incorporeal monsters and the warning Calen had given about the elemental’s transparency. Once again, her soul magic proved its worth; there had not been a single foe she had been unable to hit with it, and she was beginning to believe some of the books Ryn had found for her that suggested soul magic’s universal application might be a counterbalance to its noticeably lower damage output, compared to affinities like fire or lightning. She backed out of the trajectory just in time to avoid one of the crystalline protrusions that whistled as they spun about the elemental’s body – a weapon the monster wielded like several simultaneously whirling quarterstaffs. Quarterstaffs that seemed to be entirely immune to tangling with each other as they effortlessly passed through the same space in a mind-bending twist of geometry.
+
+While she had a powerful damage reduction skill, the others did not, and so she timed the crystalline weapon as it hurtled downward to smash against Mato’s flank and dodged in right after it. With a flash of Divine Step, she accelerated her arm, grazing him lightly across the ribs and unleashing Healing Mantra instead of Soul Strike in response to the contact. While she could actually target him from several feet away now, old habits tended to die hard, and besides, she was now close enough to punch the elemental again. She allowed the extra fraction of a second to fill Mato’s health completely, and the excess energy she poured into her healing spell spilled over into an explosion of healing magic that caught most of Ali’s melee minions in its area before softly fading away.
+
+She attacked, rapid punches cracking against the dense, unyielding, glass-like surface of the monster’s body and released her soul magic into it as she studied the flow of stamina and mana within the unfamiliar being, searching for opportunities for effective disruption. Deep within its body, she could already see the subtle formation of mana as her Soul Mark curse began to take hold, and the slow but steady way their forces eroded its health.
+
+The master leatherworker of Aman Rak, Zor’kan, had truly outdone himself. She had not fully appreciated just how potent the items he had crafted would prove to be in combat. The Soul Mark curse that her bracer applied on every hit was stacking deeper and deeper the faster she attacked, increasing the monster’s vulnerability to her soul magic, and granting the entire group improved accuracy when attacking it. Already, she could hear the dry cackle of Ali’s witch doctor as the blue ribbons of her Soul Drain caressed the elemental, taking full advantage of the soul vulnerability she was providing.
+
+Perhaps even more effective than that, the Soul Braid of Aman Rak she wore braided through her hair gave her twenty-five percent more soul damage in the form of a lingering Soul Burn that damaged the monster over time. By itself, that would have been extraordinary. However, in combination with the growing vulnerability as she stacked Soul Mark, the increased damage from her braid had transcended into the realm of truly exceptional. As long as she refreshed it with regular strikes, it would continue to burn unabated for the rest of the fight.
+
+Mana flared, swelling powerfully within the elemental, but in a shape her Soul Sight had not previously revealed to her. Something new? A thousand lights burst forth from the arcane elemental, shooting high into the sky like a fountain of purple motes that cascaded upward. Each intensely glowing orb began to fall, growing slowly into a balloon of soft light, and even though it was clearly some form of attack – and a powerful one at that – Malika couldn’t help but stare at the festive beauty shining brightly against the dark corruption all around.
+
+“Zone of Destruction! Dodge the bubbles!” Ali shouted.
+
+Oh shit! Ali’s words transformed the beauty of the light show into a dense, descending hail of death. Bubbles of purple light, several feet across, bounced off the ground, rolling around as their glow grew brighter and brighter, softly pulsing now. Then they began to detonate with devastating force, blasting earth and rock into the air with every explosion. Malika dodged, weaving and spinning through the unpredictable detonations as she accelerated her body to the maximum, and yet still it wasn’t enough. The bubbles had a way of drifting towards the nearest target, and she regularly found herself rocked by a nearby explosion. Her body blasted sideways into yet another bubble.
+
+Her eyes widened, and her heart lurched at the huge clump of bubbles slowly raining down onto Mato. Tied down by the Calhedron, he would not be able to move.
+
+Shit! He needs help!
+
+She knew it, without a doubt. All of Ali’s minions, including the blood shamans, had been blasted away, out of range to heal him. He was unreasonably robust, but if he did not receive healing, he was going to die. She could see it. Pushing her magic into her legs, she shot off toward him, but a purple, glowing bubble veered slightly sideways and detonated in her face, sending her sprawling, pulsing Healing Mantra into herself to recover. She rolled to her feet, scrambling to run faster, but she had to dodge sideways to avoid yet another explosion. Arcane bolts rained down from the sky, buffeting her body and limbs, but she struggled onward, knowing she couldn’t avoid them. Her frustration and urgency skyrocketed as she got knocked off balance and fell right into the middle of an exploding purple bubble.
+
+Arcane magic ripped through her defenses, tossing her into the air, and she was forced to catch herself with Divine Step, running sideways to avoid another explosion that was drifting down toward her.
+
+If only I could dodge better, she thought, her heart racing afresh as she saw the arcane bomb cluster almost reaching Mato and her teleportation recharge still seconds away from refreshing.
+
+“Don’t forget to practice your dancing, Malika.”
+
+Mom? The strangely incongruous memory of her mother’s voice encouraging her flickered through her mind, but with it came an unexpected pulse of energy that she had never experienced before. Energy from within herself, and yet nothing she had made.
+
+You have gained the Ancestral Memory: A Gift of Grace+24 to Dexterity.+7 to Dancing.+20% to Evasion. Blessing – Duration: 2 hours.
+
+In the depths of her heart, sudden calmness reigned. Calm even within her Clarity. Her movement changed. She was not faster, nor more powerful, yet her body suddenly seemed to dance with effortless grace, twirling and flowing across the battlefield, slipping between explosions and dodging even the guided bolts.
+
+Her heart filled with lightness and awe as she shot across the remaining distance, knowing she was somehow moving with her mother’s infinite grace.
+
+Thank you, mom, she thought, feeling tears welling momentarily in her eyes, and in that moment, she would swear she saw her mother’s smiling eyes.
+
+Then she was there, blasting her Healing Mantra through the exploding bubbles of arcane magic as she frantically dodged around while keeping Mato alive.
+
+***
+
+It was almost twenty-five minutes later that the soft chime sounded in her mind and the massive elemental froze in place. The ceaseless rain of arcane bolts finally failed, and silence descended. Glowing blue-white lines of text began to materialize in the air in the center of her mind’s dojo, listing her skills and achievements for the fight.
+
+Your group has defeated Calhedron – Elemental – level 209 (Arcane)Eyes of the Soul has reached level 181 (+7).+70 attribute points.Martial Artist has reached level 89.Soul Strike has reached level 90.Healing Mantra has reached level 108 (+4).Perfect Body has reached level 63 (+2).Soul Armor has reached level 79 (+2).Enlightened Evasion has reached level 69 (+4).Divine Step has reached level 76 (+2).Clarity has reached level 64 (+2).Soul Sight has reached level 75 (+3).Dancing has reached level 20 (+5).
+
+The soft sound of her notification chime was followed by the tinkling of breaking glass as the enormous, chained elemental abruptly burst into a cascade of shattering crystal shards that faded into motes of purple light even before they struck the ground.
+
+Malika reflexively dodged backward, darting to the side as several intense purple lights were ejected from the dissipating debris to float down as slowly expanding bubbles of mana, but her reading of the mana within them immediately told her that these were no danger, and she stepped forward to catch them.
+
+Arcane Elemental Core x5.A high-level arcane-affinity crafting reagent.Value: 180 goldReagent – Elemental CoreArcane Essence x8An arcane-affinity crafting reagent.Mana: Combine 3 Arcane Essences into one Greater Arcane EssenceMana: Split Arcane Essences into 3 Lesser Arcane EssenceValue: 45 goldReagent – Mana EssenceArcanite Crystal x12.An arcane-affinity crafting reagent that can collect ambient mana and store arcane-affinity mana.Value: 87 goldReagent – Arcane Magicite
+
+Arcanite was something Ali could make, but the crystals would still fetch some good coin. Malika examined the arcane essences and the cores, studying the beautiful interplay of mana trapped in the crystalline lattice before storing them in her ring. Weldin was going to be very happy to see something new, and his merchant instincts would be more than tickled by their extreme value if her Appraise was correct.
+
+She glanced up as Ali and Calen approached.
+
+“Easy fight,” Calen snickered dryly, his eyes settling briefly upon the shards and drifting light that was all that remained of the boss. “Get anything decent?”
+
+“A couple of arcane reagents,” Malika answered. “A little more than two thousand three hundred gold.”
+
+“Nice,” Calen said, raising his eyebrows.
+
+Indeed, as their fights went, this one had been surprisingly easy, and the haul split across the group would be quite welcome for those needing gear upgrades or new consumables. Admittedly, the swarm of flying arcane elementals was probably a real challenge, but with both Ali and Calen taking care of them, and her Soul Armor allowing her to ignore the barrage of minor arcane bolts, that element of the fight had been all but ignorable for her. The only real challenge had been the geyser of explosive arcane bubbles. And for that… well, the memory of her mother’s graceful dancing had rendered that all but trivial.
+
+Beside her, Mato untransformed, offering her a quick thank-you for helping him out with healing. She nodded at him and then sat down while her friends began discussing the fight in the aftermath.
+
+She also had someone to thank.
+
+Mom… As she sat cross-legged and relaxed, her mind settled into her meditation, and her thoughts returned to that moment in the battle. She had not really understood how her Ancestral Memory patronage would manifest, and she had most certainly not expected it to be so personal. The memory of her mother had felt real. She sat in silence for a while, examining her feelings. After a long while, her heart and mind calmed down, and she began to accept the extent of the extraordinary gift she had been given, and the response from deep within was an upwelling of gratitude.
+
+Thank you.
+
+“You’re welcome, Malika.” The voice of her mother echoed within her mind, and she could not tell whether it was simply her own memories from her childhood or a real response. But given the choice, she decided she wanted to believe it was actually her mother’s spirit that answered her.
+
+Slowly, she got back to her feet. She had gained five skill levels in Dancing, but more importantly, she had come away with a powerful understanding of how such a simple skill could enhance even her combat abilities – an answer for why her mother had insisted she practice it. One thing was for certain: she would no longer ignore it.
+
+Her mother was still teaching her lessons.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

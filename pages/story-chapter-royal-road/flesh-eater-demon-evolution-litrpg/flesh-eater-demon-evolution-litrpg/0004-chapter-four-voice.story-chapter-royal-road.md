@@ -1,0 +1,189 @@
+---
+id: bca9b14e-4169-5b59-9c10-7ce3900580ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter Four: Voice"
+slug: 0004-chapter-four-voice
+partOf: flesh-eater-demon-evolution-litrpg
+position: 4
+ownLength: 3664
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525492/chapter-four-voice"
+royalRoadId: "2525492"
+---
+
+[The trait [Scent] has leveled up! Lvl 2 —> 3]
+
+[The trait [Ossification] has leveled up! Lvl 1 —> 2]
+
+Pyre hummed internally as she retracted the crude bone shield she’d created to block a flesh lump’s claws. It turned out that being able to randomly sprout ribs and shit was extremely fun, even more so now that she had the pleasure of being able to hear the sound of things unsuccessfully hitting the bones.
+
+It had taken some time to get used to her new traits, of course. Like her sense of smell, [Sound Perception] didn’t have a specific “source.” Her entire body essentially functioned as one giant ear. This did mean she could hear more than she probably could’ve as a human, but it also made it a tad (a lot) harder to identify what direction sounds came from. Eh. She’d get the hang of it eventually.
+
+[You have devoured (1) Flesh Lump Lvl 3][Experience earned!]
+
+[Your species has leveled up! Lvl 5 —> 6][Strength +3, Agility +1, Constitution +3, Magic Resistance +2, Intelligence +1]
+
+[You have earned 10 points]
+
+[Ossification], Pyre had discovered, was remarkably versatile. There were some limits, of course. She couldn’t craft, like, detailed sculptures or anything like that, and she did have a maximum amount of bones she could maintain at a time. She also hadn’t been able to create any “internal” bones that were completely encased in flesh, either. Whenever she’d tried, they’d automatically absorbed back into her body. Beyond that, though, she could effectively sprout them from wherever she wanted in a variety of shapes good for shielding, slamming, and stabbing—to name a few.
+
+Something crashed into her side. Pyre immediately dumped 5 points into strength, then shoved back. The lump flew away, slamming hard into a lump behind it. A ripple passed through both bodies before they fell still. That was another thing she’d learned; with enough force, the flesh lumps stopped being able to absorb impacts. She assumed her own body worked the same way, though she was so durable compared to the other lumps that she hadn’t come close to reaching whatever the threshold was.
+
+The rest of the pit had gotten much more active now. Pyre guessed the average intelligence was around a 3 or a 4, which meant more sentient, slightly smarter beings. She stretched one end of her body out, quickly devouring the two lumps while they still had a little life lingering in them. She’d previously made the mistake of fully killing a lump before eating it, and while she’d gotten some experience from the kill itself, she hadn’t felt the satiation that usually accompanied a meal. She’d felt pretty shitty for a bit there, actually. Dead meat didn’t seem to do well with her digestion.
+
+Since then, Pyre had gotten better about making sure the lumps were alive when devoured. Her rule of thumb: if they smelled good, they were still kicking. The dead lumps had a distinct lack of a scent.
+
+[You have devoured (1) Flesh Lump Lvl 2][You have devoured (1) Flesh Lump Lvl 1][Experience earned!]
+
+Pyre hadn’t checked on that starter quest since receiving it, but she was pretty sure she’d hit the 30 kills needed a while ago. The pit was noticeably emptier, and there was actually enough space for her to get a glimpse at the walls of the area. From what she could tell, they were somewhat reddish. If she really wanted, she could probably climb out right now and enjoy the rewards from the quest.
+
+Her eyes swiveled over to another nearby lump, one that also had eyes. She surged forward, by now so large that she could effectively flatten the other lump by slamming into it. She immediately absorbed the other creature.
+
+[You have devoured (1) Flesh Lump Lvl 3][Experience earned!]
+
+[You have gained (1) [Thermal Vision] subtrait shard]
+
+Pyre paused. She’d gained another two darkvision shards since her first one for a total of three now, but this was new. She certainly wasn’t complaining—thermal vision sounded cool and useful. She did wonder when she’d finally get some subtrait shards for her other traits, though.
+
+Another lump lunged for her. Without moving, she sprouted a long, thick white bone that shot towards the other creature, piercing it through the center. With a bit of concentration, she converted the bone back into flesh, then used that lengthened “limb” to devour the flesh lump. She’d been practicing quickly converting between flesh and bone, and she had to say this was one of her favorite uses of [Ossification].
+
+Before Pyre had a chance to glance at the new kill notification, a sharp, slightly acidic scent made its presence known beneath the standard mouthwatering smells.
+
+Immediately on alert, she dumped her remaining 5 points into magic resistance just as a violet beam crashed into her side. To her satisfaction, it barely singed the flesh, leaving only a thin wisp of smoke in its wake.
+
+Her eight eyes focused on the source of the attack, which turned out to be a rather long flesh lump that had an honest-to-god mouth. It almost felt surreal to see one. She’d been getting used to the faceless blobs.
+
+The center of the flesh lump glowed, like the other magic one had, but the attack that formed looked different from the orbs she’d encountered. This was a lot more-arrowlike in shape, thinner and longer, and it seemed to travel faster, too. [Mana Core]’s description had said that each core was unique. Maybe that was why the soul needed to be “readable” for the trait to work.
+
+Pyre concentrated on the flesh closest to the arrow, picturing it hardening. Soft grey rippled, fusing into a hard white bone plate just before the blow landed. She felt some of the surrounding flesh undulate from the impact, and the outer layer of the bone cracked, but it stayed whole. It seemed like the bones could block magic decently well.
+
+That was all she needed to know.
+
+The other lump’s mouth dropped open, revealing sharp teeth framing a pitch black hole, but no sound came out. Its flesh began to glow again. Pyre shot forward.
+
+This lump seemed a bit smarter than the others. It slithered to the side to avoid her approach, managing to successfully fire off its next magic arrow. It began glowing again, but it didn’t stop moving, circling around Pyre’s larger form in an attempt to keep her trapped in place.
+
+Sweeping over the surroundings, Pyre stretched out one end of her body and wrapped it around one of the smaller flesh lumps remaining. The moment the scent in the air changed and the magic fired off, she hurled the small flesh lump towards her attacker.
+
+The magic collided with the creature. Its delicious smell immediately disappeared as its skin was vaporized. A cloud of smoke rose from the lump’s surface, flesh bubbling and sizzling. Using the smoke to her advantage, Pyre formed a long, sharp bone and shot it towards the magical lump.
+
+The bone landed true, piercing straight through that gaping maw and coming out the other end of the creature. It thrashed, speared in place by the bone. Pyre detected a faint acidic scent before it began to glow again in a last ditch effort to escape.
+
+Nope, not happening, she thought. Her body contorted and shot forward. She wrapped herself tightly around the other flesh lump and felt a sharp sting as what was presumably the creature’s teeth bit into her, but she was so much larger than the other lump that it couldn’t hope to devour her like this. Instead, Pyre felt the telltale signs of softening flesh as the creature was first dissolved, then finally digested.
+
+[You have devoured (1) Flesh Lump Lvl 5][Experience earned!]
+
+[Your species has leveled up! Lvl 6 —> 7][Strength +2, Agility +2, Constitution +3, Magic Resistance +2, Intelligence +1]
+
+[You have earned 10 points]
+
+[You have gained (1) [Species Scent] subtrait shard]
+
+[You have gained (1) [Maw] subtrait shard]
+
+[Required amount of [Maw] subtrait shards collected][Apply subtrait shards to [Flesh Eater] trait?]
+
+Damn, only one shard and she already had the subtrait? She’d assumed all subtraits would take a couple of shards at least to unlock, but apparently not. According to her stat sheet, [Thermal Vision] needed three shards while [Darkvision] and the new [Species Scent] subtrait required five.
+
+Well, she certainly wasn’t complaining. Pyre mentally selected “yes” to the latest notification. She soon felt a brief wave of warmth pass through her. Once it faded, she mentally focused on her [Flesh Eater] trait, and a new screen appeared.
+
+Trait: Flesh EaterUser is a flesh eater and must consume flesh to survive. User is able to digest the flesh of all living creatures. This trait allows the user to dissolve and absorb flesh through the skin. Subtraits (1/8): Maw
+
+Oh, look, that confirmed she couldn’t eat dead things. Eight also seemed like a lot of subtrait slots, but she supposed this was a pretty integral trait to her whole existence. She did have to eat to live.
+
+She focused closer on the [Maw] subtrait, pleased when that brought up a more detailed description of the subtrait itself.
+
+Subtrait: MawUser can form mouths that are able to chew and tear through tougher types of flesh. Food consumed through the maw is digested more quickly. User can maintain a maximum number of mouths equal to main trait level / 2 (rounded up).Main Trait: [Flesh Eater]
+
+Mentally closing the notification screens, Pyre attempted to form a mouth right between two of her eyes. Like with the eyes, the flesh rippled, then split apart, morphing into those same sharp teeth that she’d seen earlier. She grew another one, this time attempting to change its appearance. To her amusement, she was able to form what looked like a nearly perfect reconstruction of a human mouth with lips and everything. The mouths couldn’t make any sounds, though, which was a shame, but she appreciated being able to chew her food now.
+
+Directing her attention back to the pit, Pyre continued fighting and devouring the remaining flesh lumps. [Maw] did indeed speed up the process significantly, though regretfully she still couldn’t taste anything. Maybe that was another subtrait she’d need to collect.
+
+She soon fell into a rhythm, killing and chewing with growing finesse. She was quickly reaching a point where she suspected she was barely getting any experience at all from the other lumps, considering she’d killed at least ten more and had only gotten another darkvision subtrait shard to show for it. Oh well, she’d get bonus points once the quest was completed at least. And this was a nice way to pass the time.
+
+By then, the number of flesh lumps had thinned out so much that she could clearly see the bottom and sides of the pit. She confirmed that the walls were indeed a dark maroon color with some lighter red undertones. To her surprise, the ground was actually kind of squishy. The walls, too, had a bumpy, somewhat bouncy texture. She probably wasn’t underground like she’d originally thought, then, unless rocks could be bouncy. Who knew, maybe they could be. She was no rock expert.
+
+Ironically, consuming so many of the flesh lumps meant it would probably be harder to climb out since she could no longer use the other creatures as stepping stones, but that seemed like a perfectly acceptable exchange for more points and experience.
+
+Pyre shifted around some of her eyes, allowing them to freely slide around her body to make sure she wasn’t missing anything. At a glance, she couldn’t detect any more movement, and the new space meant she could see more thanks to the dim light streaming down from above. She remained tense and ready, however.
+
+The number of flesh lumps had dropped too quickly. She was good, but she would’ve noticed killing twice the number of flesh lumps that she actually did. There was another creature left, probably hiding, that had also devoured a significant number of their brethren. She just had to find it.
+
+In the end, the other creature made the first move.
+
+The first words, to be more precise.
+
+“Wh-Who… you…?”
+
+Pyre’s eyes shifted over to the left. There, nestled against the walls of the pit, another flesh lump lumbered out from the shadows. Its body blended nearly perfectly with the walls, which was probably why she hadn’t noticed it at first. It had two eyes and seemed to have purposely contorted its body so that it had something resembling a “head.” It also seemed to have the [Ossification] trait, if the bones fanned out like wings behind it were any indication. No mouths that she could see, but she knew the voice had to have come from it.
+
+“Who…?” the voice repeated. Now that Pyre was prepared to hear it, she paid closer attention to the tone. It was rough and slow, like the owner wasn’t used to speaking, and slightly slurred, but the words themselves were intentional. It was also definitely coming from the other flesh lump, which hadn’t moved any closer since entering her field of vision.
+
+It was probably waiting for an answer, Pyre realized. She mentally snorted. Well, that was unfortunate. She actually could create mouths, but she couldn’t use them to speak, meanwhile this thing had no mouth but could project out a voice. Funny how that worked.
+
+The other flesh lump’s eyes narrowed. It cocked its makeshift head. “No… speak?” It paused as if in thought. “You… smart. Understand?”
+
+The other lump was trying to determine if she was intelligent, Pyre realized—or at least if she was more intelligent than the other barely-sentient piles of flesh. She had no way to vocally respond, though. She briefly considered morphing her body into a vague head and torso like the other lump so that she could nod, but there was no real benefit to that. It wasn’t like she actually had a brain and organs to divide up, at least not as far as she was aware.
+
+As she considered other ways to respond, perhaps by slamming one end of her body down on the ground a certain number of times for yes or no, she found herself wondering if she even wanted this other lump to know she could understand it. Say she did manage to find a way to communicate; then what? They were the last ones in this pit, both a climb away from reaching the surface. Were they supposed to team up? Pyre didn’t even know what would happen after her first evolution. Would the other lump evolve too? Had it also received a starter quest? She doubted it was another reincarnator based on its rough speech, but native-born monsters probably had quests of their own. If it did evolve, would they be able to communicate to each other then?
+
+“You… understand?” The other lump slid closer, a distinct note of frustration entering its voice. “No… understand!”
+
+Eating it would probably give her enough experience for another level. What would be lost? Potential friendship? The term existed in her mind, part of that nebulous cloud of knowledge she’d inherited from her past life. But even if she knew the definition of the word, the concept itself held no intrinsic meaning for her. She felt no emotions or bubbling sentiments at the idea. There was nothing but the persistent hollowness that seemed to trail everything related to her former life.
+
+A strangled screech broke Pyre out of her thoughts. The other flesh lump had seemingly given up, determining that Pyre was not, in fact, intelligent, and now rushed towards her. Even when contorting its body to move, it still maintained that vague head and torso shape. Its bony wings fanned out behind it. The pointy ends gleamed in the dim light.
+
+A spindly wing shot forward, flying straight at her. Pyre twisted out of the way, but at the last moment, the other lump jerked. The wing whipped to the side, abruptly veering directions and crashing into her.
+
+Pyre skidded back from the force of the impact, but she was able to absorb most of the blow. She probably wouldn’t be able to take too many more of those, though. Her eyes narrowed. On closer inspection, the wings were constructed from several smaller bones linked together with actual joints. Pyre hadn’t been able to connect bones like that with [Ossification]—it had to be a specialized subtrait.
+
+“Understand!” the lump screeched again, its second wing extending to join the first. Its voice was nearly piercing at this point, echoing loudly throughout the enclosed pit. “Understand!”
+
+If Pyre wasn’t so preoccupied with dodging out of the way of the next attack, she might’ve paid more attention to the tinge of desperation in that voice. As it was, she focused on sprouting some bones of her own, forming a line of crude, curling bones that vaguely resembled half of a ribcage.
+
+The attack bounced off the pseudo-ribs, the bones effectively forming a shield. She was only able to cover half of her body, however, before hitting the max limit for [Ossification]. Clicking her tongue, she stretched her body thinner, sinking low to the ground to duck underneath the next strike. The flexibility of the bones made them cover a wide range, but it looked like the flesh lump wasn’t great at aiming its attacks. The specifics of wave motion weren’t its strong suit, it seemed.
+
+If Pyre wanted, she could keep low to the ground and slowly inch forward, dodging attacks until she reached the other lump and could devour it. That, however, sounded unreliable and time-consuming in a decidedly not fun way. Stopping every five seconds to wait for the bone appendages to back off? Trying to predict the whipping motion of the attacks? She didn’t know much about her past life, but she was almost certain she hadn’t been a physics expert.
+
+Fuck it, she thought. She already knew she could take a blow, and the other flesh lump didn’t look like it was going to move closer any time soon. No point in raising her constitution stat to 50 if she wasn’t going to take advantage of it.
+
+The other lump shifted slightly, its bony wings making snapping sounds as they extended behind it. Pyre morphed herself back into a large mound that was easily three times as large as the other lump, then retracted her pseudo-rib shield. For what she was planning, she’d need the next attack to hit her actual main body.
+
+A final loud snap rang throughout the pit as the other creature shot both wings forward. Pyre still dodged the initial blow, but this time, when the bones bent at their joints, she remained in place even as one of the appendages whipped towards her.
+
+It crashed straight into her body. Flesh rippled from the blow, a dull throb radiating out from the point of impact, but she stood her ground. Before the bones could retract again, Pyre immediately wrapped the other end of her body around the bones, holding the other flesh lump in place. It would’ve been easy to tug the creature closer, but she didn’t want to risk it detaching itself from the bones.
+
+Instead, she used the trapped bones as a bridge. She was large enough that she could maintain a steady hold on the appendages while stretching the other half of her body out, and that’s exactly what she did.
+
+The mass of extended flesh barrelled towards the other flesh lump. Pyre reabsorbed one of her existing mouths, then created a new one—wide and gaping—at the very end of her body. The jaw unhinged just as it reached the other flesh lump, revealing rows of gleaming white teeth. Before it had a chance to react, the mouth clamped firmly over the creature’s head.
+
+A shrill scream rang throughout the pit. Pyre frowned. That was a lot more high-pitched than she’d expected. If she had ears, she would’ve covered them. She didn’t slow down, though, her mouth continuing to chomp down and rip into flesh and, she realized, bones. That was how the lump had maintained its “head” and “torso” shape while moving; it had managed to create an actual internal skeleton.
+
+[The trait [Sound Perception] has leveled up! Lvl 1 —> 2]
+
+Unfortunately, the bones and the lump’s higher level in general made it much harder to consume, not helped by its constant thrashing. It moved too much to eat around the skeleton, so Pyre was left with no choice but to tear through all of it and spit the bones out later.
+
+The pit at this point was filled with a mixture of snapping, crunching, and screaming. After some fiddling, Pyre realized she could shut off her [Sound Perception] trait much like she could technically manifest 0 eyes or mouths if she wanted. She silenced the sounds around her, mentally relaxing once the shrill shrieking was gone. It probably didn’t count as a headache without an actual head, but she’d felt one coming on.
+
+Finally, the mouth tore into the creature’s torso, and the entire lump collapsed. It twitched in place for only a moment before falling entirely still, its smell starting to weaken. Pyre was able to devour the rest with little issue, finishing consuming it just before the last traces of life left it completely.
+
+[The trait [Flesh Eater] has leveled up! Lvl 3 —> 4]
+
+[You have devoured (1) Flesh Lump Lvl 7][Experience earned!]
+
+[Your species has leveled up! Lvl 7 —> 8][Strength +3, Agility +2, Constitution +3, Magic Resistance +1, Intelligence +1]
+
+[You have earned 10 points]
+
+[You have gained (1) [Ligaments] subtrait shard]
+
+[You have gained (1) [Skeleton] subtrait shard]
+
+[You have gained (1) [Darkvision] subtrait shard]
+
+[Required amount of [Darkvision] subtrait shards collected][Apply subtrait shards to [Eye Growth] trait?]
+
+[You have gained the [Basic Impact Absorption] skill!]
+
+[You have gained the [Cold Blooded] title!]

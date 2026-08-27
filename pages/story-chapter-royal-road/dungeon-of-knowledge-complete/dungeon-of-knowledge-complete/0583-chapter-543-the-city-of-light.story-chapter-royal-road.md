@@ -1,0 +1,231 @@
+---
+id: 23778ac2-381a-5ba8-83dc-778df19a487b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 543: The City of Light"
+slug: 0583-chapter-543-the-city-of-light
+partOf: dungeon-of-knowledge-complete
+position: 583
+ownLength: 4267
+unit: words
+ownProgress: 4267
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3074424/chapter-543-the-city-of-light"
+royalRoadId: "3074424"
+markedReadAt: "2026-06-29T20:32:12.548Z"
+---
+
+Calen’s notifications appeared in his mind like the light of dawn breaking across a distant horizon. As usual, Ali had been ridiculous. She was still hovering around with an army of Mirror Images copying her movements down to the last detail, a stolen ability that required True Sight to see through. He shook his head slowly in wonder and scanned the notification of his level up.
+
+Realm Hunter has reached level 223.+10 attribute points.Radiant Archery has reached level 121 (+3).Arrows of Brilliance has reached level 117 (+2).Motes of Light has reached level 85.Blessing of the Dawn has reached level 93 (+2).Eclipse has reached level 64 (+3).Righteous Fury has reached level 74.Azrael's Wings has reached level 63 (+3).Mirage Armor has reached level 95 (+4).Bowcraft has reached level 19.
+
+I got a full level for that, he thought. While the Fractured Archon had not been a boss, it had most certainly been a monster above the third-tier threshold, and it showed. With at least two class evolutions under its belt, it had presented an enormous challenge for the team with immense resilience and shocking power. Without Ali’s uncanny insight to steal the Mirror Image spell, and Nathaniel’s staff to provide the skill, he was not entirely certain they would have prevailed – or at least it may have taken several grueling attempts.
+
+But the strangely broken celestial lay dead, dissipating under the tender ministrations of Ali’s unique magic, and Calen led his friends toward the ruins of the Well of Divinity in the center of the now unguarded clearing. He surveyed the area, automatically sending out his motes and hunting for unseen threats, but all was quiet save for the violent winds.
+
+The four of them stood in the grassy, wind-swept clearing, studying the ruined stones, but beyond the veil, the Thousand Celestial Peaks soared high overhead, their images overlapping uncomfortably with the windy skies and the mists that swirled about in storm vortices even at this altitude. Nestled within the peaks, out of place and overlaid atop the raging storm, serene, radiant spires soared among glittering towers. Streets of gold meandered between buildings of pearlescent, shimmering white.
+
+Aalion. The City of Light.
+
+The legendary city of the Sun Elves, lost for millennia. And there, like the beating heart of all that glory, was the Well of Divinity. The memory of it, at least.
+
+“How… How do we get a vial?” Ali asked, a thin note of desperation threading through her voice.
+
+“Are you certain this is the Well, Calen?” Malika asked, eyeing the floating rubble with a skeptical eye.
+
+“I can see it. In the Spirit Realm,” Calen answered. There was a strange, ethereal quality to it as if the ghost of the Well had been overlaid upon the ruins. But it was most certainly there.
+
+“Well, let’s go get a vial then,” Mato said. “Why are we waiting?”
+
+Go get… he thought. But try as he might, he couldn’t think of any good reason not to try visiting the well in the Spirit Realm. They had the means, and he most certainly wanted to explore Aalion, even if it only existed now in the form of an echo.
+
+“I don’t think Spirit Realm water will work,” Ali said, hope desperation warring against hope in her voice.
+
+“We won’t know until we try,” Mato said gently.
+
+Malika instantly shimmered over into the Spirit Realm, while Ali collected her witch doctors, and Mato offered to hand out prepared bags of fried ghost mushrooms, well-preserved within the enchantment of his storage ring.
+
+Calen reached out and latched onto the remains of Malika’s Spirit Walk and effortlessly duplicated the movement skill. He took a step in an incomprehensible direction, guided by the skill prickling through his veins. His body shimmered, and the island and the ruins faded to gray, replaced rapidly by the solidifying image of ancient Aalion all about him, as fresh as the day it was built.
+
+I wish it were real. Spectacular as it was, the Spirit Realm echo of the City of Light was faded to a dull, matte gray, and he could only imagine what it must have been like in all its glory. Surely this was a waste of time, as Ali feared? Surely. He could not imagine –
+
+At that moment, Explorer kicked like a mule, and his notifications rang in a strangely harmonic chorus.
+
+[Explorer] You have discovered the lost city of Aalion. You have greatly increased the reputation of your patron.You have gained the Blessing of the Wanderer.Realm Hunter has reached level 224.+10 attribute points.Explorer has reached level 125 (+3).Cartography has reached level 41.
+
+Ha! Worth a level? Calen decided that was worth an eyebrow-waggle. I’ll take it.
+
+Ali shimmered, appearing nearby, and then Mato followed. Minions continued to fade over into the Spirit Realm, as Ali’s witch doctors doled out their curses.
+
+But as Ali approached the Well, a brilliant star appeared high overhead, a radiant meteor descending rapidly. So fast it fell, that even Malika had barely enough time to dodge sideways while pulling Ali out of the way before it crashed down in front of the Well of Divinity.
+
+The radiant being slowly rose to her feet in the crater of her landing and fixed her shining eyes upon them. Two normal eyes – at least the two in the usual places – blazing with holy radiance, and a single larger, vertically-aligned eye embedded in the center of her forehead.
+
+Long golden hair streamed about her head as if floating on an unfelt breeze. Three pairs of white-feathered wings, as white and pure as driven snow, unfurled from her back, and she planted herself with a wide stance, grounding a shining sword between her feet. Floating above her head was a shining ring of pure radiance.
+
+The being opened her mouth and said, “You are not worthy.” The voice rang out, thrumming with innate power, resonating through the Spirit Realm echo of Aalion like a breeze rippling across a pennant of silk.
+
+With a shiver, Calen inspected the creature.
+
+Divine Archon – Celestial Sun Elf – level 278 (Holy)[Explorer]Category: World Boss.Threat Level: Elite.Tier: Three.Monster Type: Celestial Paladin.Damage: Physical, Holy.
+
+“Elite world boss,” Calen said, sharing his explorer’s assessment and the details the others needed to know. “Third tier,” he added, knowing Malika wouldn’t be able to identify it.
+
+Without hesitation, Ali approached the Divine Archon. Hovering about eye level with the monster, she met its gaze and said, “Excuse me. I need to get a vial from the Well of Divinity for an important quest. Would you mind letting us pass?”
+
+The Archon studied her in silence for a long moment, and then the same resonant voice filled the air once again. “Only the worthy may approach.”
+
+“How may I prove that I am worthy?” Ali asked, unflinching in the face of the powerful celestial being.
+
+The Divine Archon raised a glowing greatsword that was three times as long as the Fae was tall and leveled it at Ali and waited, needing no words to communicate her challenge.
+
+“Heck, yes! I’m in,” Mato said, stepping up to stand beside Ali and shifting to his Bear Form.
+
+Calen drew Lunaré’s Lament as Malika joined the others, and with a roar, Mato charged.
+
+The archon’s wings flared, but before she could even take off, Calen snapped off an instantaneous conjured arrow, enchanted with his chains of light, and to his relief, the shining chain links shackled the archon’s wings, binding her to the ground. At least, for the moment.
+
+The greatsword flickered in her hands as she engaged Mato, exchanging an exquisite sequence of perfectly executed blows and strikes before she flung the sword out wide and released it from her hand. It shimmered, tracing a great arc through the air, returning to her outstretched hand. And all along the radiant path of the sword’s flight, afterimages of the greatsword remained, hovering like tangible echoes. Then, every one of them spun into action, whirling around in a sudden frenzy of steel and light.
+
+You have been afflicted by Holy Vulnerability (Aura).
+
+Calen launched himself upward and backward and unleashed a volley of arrows into the fray, trying to pierce each of the whirling images of blades, but to his surprise, his arrows bounced off the supposed illusions with the ringing of real steel, leaving them to continue their chaotic pursuit of everything in sight, entirely unaffected by his attack.
+
+He turned his sight upon the Divine Archon once again, bringing all his perception skills to bear, and he witnessed an inner flare of light at the moment a form materialized beside her.
+
+It was a raging pillar of white flames with two intense spots in shining imitation of eyes. Whirling about it were six disembodied flames, crude approximations of hands wielding swords that shone with holy magic.
+
+Sacred Guardian – Elemental – level 255 (Holy)[Explorer]Category: Summoned Monster.Threat Level: Normal.Tier: Three.Monster Type: Elemental.Damage: Holy.
+
+“It has summoning,” Ali shouted, confirming what he had just witnessed with his own eyes.
+
+“Watch out! Holy elemental!” he yelled, immediately recognizing the danger represented by the combination of the summoned elemental monster combined with the Holy Vulnerability aura.
+
+Oh boy, this is going to hurt!
+
+Mato heaved across and swung his paw, slicing through the heavily armored celestial with the aid of wisps of his incredibly corrosive void magic. A surge of green followed as Brutal Restoration unleashed its energy, and his Nature Vulnerability curse took hold, but no sooner had he inflicted his potent debuff upon his foe than a flicker of magic from her central eye unraveled his vulnerability as if it had never been. He roared another challenge, drawing the additional summoned pillar of fire into his range, and he swiped across both of them before hunkering down to block the flurry of swords.
+
+Again, he laced his curse into his strike, and again the paladin dispelled it.
+
+Paladins! Annoying, he thought. He saved Critical Block for the archon’s powerful overhead sword strike, enjoying the sound of the crack as his skill unleashed its concussive retaliation back into the Divine Archon, staggering it briefly. But bright mana flared within the paladin again, and he saw the damage he had inflicted rapidly vanish.
+
+He shot a short but urgent thought to Ali, “It’s healing!”
+
+He didn’t wait for her response, trusting that she would figure something out, and swiped again, clipping the second summoned elemental with his void-wreathed claws, dragging it toward him before it could escape his clutches. But right then, a glittering sphere of transparent magic snapped shut around the Divine Archon, and it took off into the skies.
+
+He retaliated with Battle Master, but his instantaneous strike cracked against an impervious barrier, blocking his strike like a stone wall repelling a wooden stick. The roots that sprang forth from the ground found no purchase as the bubble ascended skyward and out of his grasp.
+
+He growled and unleashed the full measure of his frustration upon the two summoned minions, ignoring the dozen flashing swords they wielded. He had more than his hands – paws – full with the two elementals and the dozen spinning sword images that had been left scattered across the battlefield, but he had been enjoying fighting a powerful sword master. He shot a frustrated glance at the flying archon. He was being denied the real fight. Yet again.
+
+Maybe I do need a flying skill, he thought, but his stomach lurched at the mere thought of it.
+
+“Mato! On your left!” Calen shouted.
+
+He glanced sideways, risking a blade to the ribs. High overhead, Ali’s golden darts slammed into the transparent magical shield, unmaking it and turning it into a rain of glitter and sparks. Calen’s flying arrow, trailing a conspicuous glowing chain of light, zipped through the remnants of the shattered shield and struck the Divine Archon in the chest. The glowing chains whipped and tangled around its wings and dragged it thrashing down to the ground.
+
+Yes! Mato cheered. He charged immediately, leaving jagged slashes in the stone underfoot, and slammed into the side of the Archon with all his weight. At least with friends as smart as his, he might be able to avoid the flying for a bit longer.
+
+Now, let’s see if you’re as good at defense when we’re on even footing!
+
+Malika stood in the fire. It was not like she couldn’t see it; with so much damage reduction, the Archon’s holy fire washed ineffectually against her Soul Armor, doing little more than warming her skin.
+
+It’s like fighting Havok, she thought. Only a bigger target. Every now and then, the precisely wielded greatsword would draw blood across Mato’s flanks and dump a load of holy flames onto him and spill them across the ground.
+
+Consecration.
+
+Of course, her Soul Armor negated the small but continual damage pulses from the hungry flames, but the same was not true for the others. Or Ali’s minions. Worse was the dangerous glyph that floated above the heads of everyone on their team; Soul Sight’s representation of the aura curse Ali had identified as Holy Vulnerability. She fed a stream of mana through her Healing Mantra, having it wash continuously over everyone nearby.
+
+Malika punched again, working her way through her formations, trying a rotation she and Sabri had worked out together during one of their too-infrequent sparring sessions. Her fists and feet struck against the heavily armored alabaster archon with loud cracks, and barely any effect, but as always, her ever-reliable soul magic pierced through the armor like it wasn’t even there, piercing through the other side of the archon by several feet. When she managed to line up the strikes properly, she found she could even hit the elemental on the far side.
+
+“Ali, it’s healing!” Malika yelled, watching as its health jumped in response to a surge of mana from within.
+
+“I know!” the Fae yelled.
+
+Malika glanced back to find Ali with her Grimoire out and a freshly summoned troll Bone Champion growing bone axes from its forearms. She had to manually summon Kir’mogan?
+
+She didn’t know what had happened, but whatever it was, it seemed that Ali had fixed it. Presently, fresh bone axes began to whip past her ears, detonating on impact and spraying the area with off-white shrapnel. However, the archon’s self-healing immediately slowed, and that was what counted.
+
+A third elemental spawned, and then something unexpected happened.
+
+You have lost Holy Vulnerability (Aura).
+
+A different surge flickered within the Divine Archon, and an intense glow flared out around its feet, and the strange glyphs began to orbit its own head and those of its summoned elementals. All of them suddenly accelerated. Swords lashed out with staggering haste, blurring as they struck and leaving Mato reeling with fresh wounds scored across his face, shoulders, and flanks.
+
+“Haste aura!” Ali yelled.
+
+Ugh. That’s nasty, Malika thought, interrupting her nice, simple skill rotation and bursting a huge heal into Mato instead. Then she shifted into a flurry of dodges and blocks as she danced around the sea of furious holy swords, delivering her soul magic in bursts that loaded the archon up with lingering soul magic flames.
+
+We need to take this thing down. Soon!
+
+Ali dismissed her Grimoire and sent her freshly resummoned champion, Kir’mogan, back into the fray. Distracted by the interactions of the Divine Archon’s mana interacting with the Well of Divinity for even just one single moment had been enough for three of the whirling blades to impale her Troll while he was engaged with one of the summoned elementals. The immense spike of holy damage while under the effects of the vulnerability curse aura had been more than sufficient to kill him outright, and that had taken out her Mortal Wounds as a tool for controlling the Archon’s healing. She was more than a little annoyed with herself – just a little more attentiveness and she might have saved him with a well-placed barrier.
+
+She scanned the battlefield again with more than just her own eyes, determined not to let anything slip again. It was not the worst of predicaments; they could still claw their way out of the hole with a solid helping of creative thinking.
+
+The flying sword images were a serious problem. Totally chaotic and hard to predict, they hit extremely hard and, even though they were far from the archon herself, they still seemed to benefit from all her masteries and support skills. They careened around the battlefield, causing mayhem, but in a fashion that betrayed sufficient intelligence that Ali was forced to conclude that the Archon was controlling them directly. Blood sprayed freely in crimson fountains, punctuated by the occasional flying, severed limb, causing headaches and mad scrambling amongst the healers, and everywhere the blade images went, they dropped lingering patches of consecration burning on the ground like so much litter. Deadly, third-tier, flaming litter.
+
+Divine Heal. Ali automatically identified the formation right as the Divine Archon cast it, but this time, it did not target one of the elementals or the archon herself. Ali blinked in surprise as her Eye of Agnor suddenly lost a huge chunk of health and burst into flames. White flames. Of Consecration.
+
+Ugh. So, that’s it. The true nature of the Divine Archon’s healing spell had eluded her all this time, but finally she understood the missing part. It wasn’t just a healing spell. It doubled as a ranged damage spell against demons. I thought that kind of thing only worked on the undead.
+
+She grimaced. Still, there was one silver lining – at least, now, she knew enough to disrupt it.
+
+Unfortunately, that was a large part of her frustration, too – there weren’t any decent spells for her to steal. She had tried to steal the aura, but that hadn’t worked. The sword-throw thing seemed to be a martial ability requiring stamina, so that was out. She couldn’t steal the wings either, which might have been very effective. Mato would kill me. Still, the image of the hulking bear flying about on angelic wings was enough to draw out a smile despite the urgent situation.
+
+She had stolen the dispel once, but that seemed worthless; she had many dispel skills at her disposal already, and the paladin’s was an inferior version. She stole a Holy Smite, imbuing her barrier with holy magic, but she didn’t do damage with her barriers much anymore, so that didn’t help. Nor would holy damage help in this fight; the Archon was either immune or so highly resistant to its own affinity that it bordered on equivalent. When she had stolen the archon’s barrier sphere, she’d been excited, but dismantling that had proved to be a far more efficient use of her time; it was a self-cast, and she couldn’t give it to anyone else.
+
+Divine Heal. Again. She formed the counter-formation and disrupted the powerful healing spell, watching with satisfaction as the shattered shards of the formation drifted down to the ground. Likely, she couldn’t disrupt all the heals, but with Mortal Wounds and fewer heals, they would be able to finally make some progress. Perhaps I can steal a heal every five minutes. At least I can throw that Mato’s way.
+
+She reorganized her minions a little, shifting some of the archers and casters to focus more area-damage spells onto the summoned elementals, and organizing her mages so their ice bolts would pierce through more targets.
+
+Why are they still there, though? Her fireballs were detonating among the holy elementals – at least the real fire fireballs, delivered with enthusiasm by Emberious, and the hellfire ones. The blaze was an ugly combination of black, orange, and red. The holy fire, she was keeping back for obvious reasons; she didn’t want to risk healing the enemy. Arrows flew in tight volleys, delivering payloads of lightning and nature damage to everything they touched, and yet, the elementals were all still standing.
+
+Worse, the Divine Archon was steadily adding to their number.
+
+Ali frowned, turning her attention to the lesser monsters, who, with the aid of some kind of haste aura, were turning out to be a mounting headache.
+
+What is going on? It took thirty precious seconds focused on Arcane Insight and Sage of Learning before it clicked. The flickering white flames that carpeted the ground seemed far denser than the outlying consecration dropped by the whirling swords, and that was her key.
+
+“Fuck! The elementals are dropping Consecration, too. They’re healing each other!” Ali shouted.
+
+In her extreme focus on the most powerful threat, the Divine Archon herself, Ali had missed the subtle clue. Consecration appeared as white ghostly fire on the ground; without close scrutiny, it was nearly impossible to tell where it overlapped. Most of the growing swarm of holy elementals were fighting from within several overlapping fires and being healed rapidly.
+
+“Move them out of the fire, Mato,” Calen suggested. “Maybe just keep dragging them around in a big circle.”
+
+Even though his telepathy formation activated, Ali couldn’t hear what Mato said, but moments later, he shifted backward, drawing the pack of elementals and the archon with him, which was a more than clear enough sign he’d understood.
+
+“Fireballs! Hold the Frost Nova for now,” Ali ordered. Locking the elementals in place in the Consecration would be worse than useless, but fire, as always, was a fantastic choice. With a few directed thoughts, she set her healers shifting out of the way in anticipation of where Mato would need to move next, erecting strategically placed barriers to deflect the spinning sword. She disrupted another heal and then dismantled the sphere of barrier magic immediately afterward as Mato turned the entire field into a running battle.
+
+Walking battle would be a more apt description. It was like a very, very slow chase, with Mato leading the monsters by shifting backward ever so slowly.
+
+She studied the fight under her Healer’s Sight. “Throw your axes right into the middle,” she said, directing Kir’mogan to greater effect.
+
+“Yes, Seeker,” he answered brusquely, redirecting the rapidly tumbling axes to make the detonations and bone shrapnel burst amid the elementals every now and then, delivering Mortal Wounds to all.
+
+“Perfect aim,” Ali said as she watched health begin to drop across the pack.
+
+“Ali, can we get Bloodlust?” Calen asked.
+
+“Yes,” she answered, directing Joraa to use their most potent melee buff. The blood-curdling scream he uttered in response to unleashing the powerful storm of blood was not strictly necessary, but having been personally exposed to the heart-thumping surge of adrenaline and literal bloodlust the spell caused, and thus understanding how it felt, she chose not to chide him.
+
+Calen responded by erupting into radiant light as he used Righteous Fury.
+
+“All out!” Ali shouted. Not to be outdone, she poured all available mana into Empowered Summoner, boosting her Eye of Agnor and her Sylvan Storm archers with a sudden infusion of magical power. But it was when Tol’brekk tore through the pack of elementals with a vortex of blood and steel that the notification chimes began to sound and pillars of animate fire began to fall like sheared wheat.
+
+You have gained Holy Vulnerability (Aura).
+
+She switched auras? Ali couldn’t figure out exactly why, but it seemed clear that the Divine Archon favored the haste aura when she had a lot of minions, and the holy vulnerability one when it was just her. She glanced over at the corpses of the elementals, noticing only now that there were actual steel armor pieces and swords lying on the ground. Perhaps her personal damage has a higher proportion of holy magic than the elementals? Can that even be right?
+
+Ali put it out of her mind for now. It wasn’t like she could do anything about the auras anyway. Instead, she flew back and forth, tracking the fight, chaining barriers into the paths of whirling swords, and using her dismantle and disrupt every opportunity she found. In the wake of the running battle, they left scattered elemental cores, armor, swords, and dense patches of ghostly white flame that took forever to go out and somehow failed to consume the grass.
+
+Suddenly, the Divine Archon stopped and turned toward Ali, and said, “You have proved to be worthy. Protect the Well.”
+
+Then, to Ali’s surprise, her chime sounded and the Divine Archon fell to the ground amid a slowly fading blaze of holy fire. Eh? That killed it? She could not help but feel robbed by the sudden end to the fight.
+
+Your group has defeated Divine Archon – Celestial Sun Elf – level 278 (Holy).Your group has defeated Sacred Guardian – Elemental – level 255 (Holy) x16.Dungeon of Knowledge has reached level 235 (+3).+30 attribute points.Arcane Insight has reached level 145 (+3).Arcane Recall has reached level 80 (+2).Barrier has reached level 126 (+4).Grimoire of Summoning has reached level 83.Sage of Learning has reached level 108 (+2).Martial Insight has reached level 136 (+2).Empowered Summoner has reached level 123 (+3).Minion Teleport has reached level 83 (+2).Identify has reached level 50.Inspiration has reached level 47.
+
+The first thing Ali did was fly over to the echo of the Well and dunk an empty vial into the waters, but to her dismay, the flask came up empty, the real-world glass entirely failing to interact with the Well’s water.
+
+She stared at it in dismay and then tried again, but no matter how many times she dunked the vial into the Well, it remained an echo of reality. An existence long gone.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,137 @@
+---
+id: 3f6c9cc7-c8d5-586e-ad2a-0a1f9944b325
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 Escape?"
+slug: 0006-chapter-6-escape
+partOf: ends-of-magic
+position: 6
+ownLength: 2181
+unit: words
+ownProgress: 2181
+publishedAt: 2022-08-19
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/975186/chapter-6-escape"
+royalRoadId: "975186"
+markedReadAt: "2026-06-29T20:07:27.534Z"
+---
+
+Nathan stood in the doorway, caught between horror, relief and a haze of pain. Taeol dho Droxol, the man who’d abducted him across dimensions, manipulated his mind and been ready to rip his soul out, had escaped. And now Nathan didn’t need to kill him. Couldn’t kill him. That was probably bad; Taeol didn’t seem likely to forgive Nathan or forget about the knowledge in his head. And Nathan was still furious with the man. But Nathan was having a hard time feeling bad about not being able to kill somebody.
+
+Maybe if he ran far enough, fast enough, Taeol wouldn’t be able to catch him. But he needed to start now. As if to emphasize the point, he heard a scrape of stone on stone as the sand-colored golem rounded the hall to Nathan’s right. Nathan turned and ran down the hallway, awkwardly cradling the stump of his left arm where it jarred with every step.
+
+And I only have one arm now
+
+He heard the Golem’s heavy footsteps chasing him, and rushed around a corner to find a wide flight of stairs winding around a huge square vertical shaft. A bright light shone down from the top, and the stairs and balustrade were made of the same seamless pale stone as the rest of the tower. Nathan started running down the staircase, skipping four steps at a time in his haste. The golem cornered behind him, its stone feet scraping against the floor and slamming on the steps as it descended. It was fast, but not great at turning corners on the staircase. Nathan continued down, looking over the edge for an exit. Nearly a hundred feet down was a grand hall, with statues on the walls and a shallow fountain in the center.
+
+I’m not going to make it. Taeol mentioned more golems and traps, and this golem is going to catch up as soon as I get to a straightaway.
+
+Nathan had one more untapped resource, and he quickly reviewed the list of classes he’d been offered earlier as he bounced himself off a wall to turn onto the next flight of stairs. It was a good thing that the knowledge of his classes was more or less inserted into his head since he couldn’t exactly ask the golem for a timeout. The pain from his arm was a gnawing, biting thing, and these were terrible circumstances to make a decision. But this decision needed to be made now.
+
+Going off first impressions only, most of the classes called to different parts of Nathan. Except Conman and maybe Explorer. Student and Scientist both aligned extraordinarily well with his adult life goals. However, Disciple of Magic appealed to a younger Nathan, the one wishing for magic over birthday candles.
+
+Unfortunately, Davrar seemed to be long on genocidal archmages and short on opportunities for graduate programs in biology or magic. Or at least ones that didn’t involve giving up the knowledge of the industrial revolution to said genocidal archmages. Those were off the table. Rebel called surprisingly strongly to Nathan - if ever there was a government in need of a revolutionary, the Gianstrest dominion sounded like that government. And he owed them some revenge. But when the authorities had mental magic, staging a rebellion seemed like an exercise in futility.
+
+Nathan bounced off another wall. He wasn't gaining much over the Golem. He needed something to enhance his speed, and something to enhance his antimagic to get through the locks and traps Taeol had mentioned.
+
+Both Martial Monk and Antimagic Brawler appealed to Nathan, and seemed like ways to immediately improve his chances to escape. Both were equally disadvantaged by missing an arm. That was a problem for later Nathan, who was not running from golems into magical traps. What made the decision easy to Nathan was that Antimagic Brawler mentioned his antimagic, and Martial Monk didn't. Furthermore - his meditation was a means to an end, not an end to itself. Being a monk was a calling, a purpose in the way being a brawler wasn’t. And Nathan didn’t want to let Davrar give him a purpose, just a tool. A tool to escape this goddamned tower.
+
+So, wishing he could have considered the matter more fully and without the pressures of running down the staircase missing an arm, Nathan chose to be an Antimagic Brawler. More boxes and knowledge unfolded before him.
+
+New Class skill Stamina:
+
+You have unlocked the stamina resource! Stamina will accumulate during periods of rest, and can be spent to improve the speed and strength of your movements, or used for other skills or talents that utilize stamina.
+
+New Class skill Brawler’s Indifference:
+
+You will be less likely to flinch and more able to ignore pain and wounds to continue fighting.
+
+New Class skill Antimagic Blows:
+
+Your blows and strikes will enhance your inherent antimagic, allowing you to break magical barriers and constructs with barehanded strikes.
+
+Permanent Talent 1: High-Tier Magic Resistance 10
+
+Talent 2: None
+
+Talent 3: None
+
+Class: Antimagic Brawler level 15
+
+Stamina: 250/250
+
+Brawler’s Indifference
+
+Antimagic Blows
+
+Utility skills:
+
+Low-tier Focused Mind 5
+
+Low-tier Earnestness 3
+
+The pain radiating from the stump of Nathan’s arm abated and his run became smoother, his gait more even. The pain wasn’t gone, but the intensity was muted and he didn’t feel the visceral horror of missing his arm anymore. [Brawler’s Indifference] was allowing him to ignore it. The arm wasn’t what mattered right now, and being distracted by his stump would get him killed.
+
+Next, Nathan used stamina to run faster, as naturally as breathing deeply. Instead of skipping four of the shallow steps at a time, he was skipping six, and then seven. The stamina inside of him was decreasing at about a point for every leap. It wouldn’t last forever, but he was already leaving the golem behind. Once he had a healthy lead on the golem Nathan stopped using his stamina, which now sat steady at about 150/250.
+
+The stairs ended in a grand hall at the bottom of the shaft, wide and tiled with an intricate mosaic showing some scene that Nathan didn’t stop to look at. There were a few doors in the hall, but a large set of double doors sized to drive a semi through was the obvious winner in the ‘door to outside’ contest. Nathan sprinted over to those doors and threw his body weight against them. He bounced off. There wasn’t a handle, bar or obvious locking mechanism.
+
+Nathan pivoted and slammed his palm into the center of the doors, spending stamina as he struck. He felt a layer of magic crack at the blow, and his next shove sent one of the doors open wide. A plaza of stone lay in front of him, and beyond it a road wound through scraggly pine trees. Nathan took off across the plaza, spending stamina again to get away from the tower. Hearing something, Nathan glanced over his shoulder and stumbled.
+
+Behind him, flanking the door, were two twenty-foot tall statues of warriors. Well, they had been flanking the door. Now they were charging after Nathan, metal greatswords held ready in stone hands. The swords were nearly fifteen feet long, and were glowing.
+
+Shit shit shit run faaaaster
+
+Nathan turned his back to them and took off, spending stamina like water and doing his best to emulate Usain Bolt.
+
+Pending utility skill: Low-tier Sprinting
+
+You are running very fast. This skill will help you run quickly in the future. Will not allow you to run in circumstances where you couldn’t otherwise
+
+Yes please!
+
+Nathan’s chest came up and his toes dug in more. It wasn’t an enormous difference, but combined with his stamina Nathan made it across the plaza in seconds, and into the trees. Once he was past the second layer of trees and didn’t hear the golems anymore. He turned around to see one of them throw a fireball at him. It flew at him with the speed of a baseball pitch, coming straight for his chest.
+
+Nathan didn’t flinch. He didn’t have time or bracing to dodge, so he brought his hand up in a stamina-assisted slap at the fireball, which exploded away from his palm. The fire blasted out, Nathan was knocked stumbling backwards. He wasn't badly burnt, though it felt like somebody had pointed a very large hairdryer at him and he’d held his hand in a campfire for a bit too long. His robe was on fire, so Nathan darted behind a small rise in the ground and dropped to the ground, rolling around to extinguish the flames.
+
+He snuck a quick glance over the small lump of earth he’d fallen behind. The tree in front of him was aflame, the backblast from the fireball turning it into an instant torch.
+
+The giant golems had turned around and were returning to the tower, but Nathan was concerned about the fire spreading, so he started running further into the forest, careful to avoid line of sight to the golems. He got another fifty feet away and slumped to the ground, checking his injuries. His arm wasn’t bleeding, and his palm wasn’t hurting very badly. It was definitely burnt, but not into deep tissue.
+
+“Hail! May I request a word?” Nathan’s head snapped around and he jumped to his feet. A woman had come out from behind a tree forty feet away, looking straight at him. She was short and wide, with dark brown skin and voluminous tied-back dreadlocks. She was dressed in scuffed leather armor, festooned with pockets and a warm-looking fur cloak. Her hands were out wide, palms clearly visible and empty. She approached slowly, voice low and calm. “Are you ok? What is your name?”
+
+Nathan eyed her, ready to run again if she made a threatening move. She looked nothing like Taeol, but he was on edge and his voice was tense. “Sorry, I don’t want to tell you. What do you know about that?” He pointed back toward Taeol’s tower, hoping her answer would tell him her intentions. He checked his stamina to see what kind of reserve he had in case he had to run.
+
+She turned to look at the tower, a grimace across her broad face, but she kept her voice even and calming. “It’s a research tower of Giantsrest, just taken over a few weeks ago by a newly raised Archmage. We’re trying to figure out what his research is and kill him if we get the chance.”
+
+Nathan relaxed a bit on hearing the answer, but kept pushing. “We? Who is we? And what is your name? And please stop coming closer.” If she was telling the truth, he’d stumbled onto enemies of Giantsrest. But he had a skill that helped him lie, so it was only prudent to assume other people did. And Nathan didn’t like the way she was edging closer to him.
+
+She stopped about twenty feet away, arms still held wide. “My name is Vhala, and I lead a scouting team out of Gemore. Artha, Emerald, come out.” Another figure emerged from the brush to Nathan’s right, decked in a darkened breastplate, heavy chainmail and a sturdy helmet that completely blocked their face, leaving only the mouth exposed. Their exposed skin was porcelain white, and a fancifully decorated rapier on one hip was balanced by a heavy cleaver on the other. Vhala gestured to the figure. “This is Emerald.”
+
+Nathan’s attention was grabbed by another figure coming up behind Vhala. It was a centaur, but instead of a horse, the bottom half was an elk. The top half was a well-muscled man wearing scuffed leather armor similar to Vhala, but his skin had the texture and color of gray maple bark. He had long hair and a great beard, in a deeper silver. Finally, two large antlers sprouted from his head. He spoke in a deep, smooth voice. “And I am Artha.” With that voice and body, Nathan would have found him hot if it wasn’t for the whole… elk thing.
+
+Fantasy world. Fantasy world. These are good candidates for Taeol’s “barbarians and intelligent monsters” though.
+
+That thought made him relax further. He turned back to Vhala. “Thank you, I apologize for my caution. My name is Nathan Lark. I’ve had a rough few days. I just escaped from that tower. If you could help me, I would really appreciate it.”
+
+She looked him over again, eyes lingering on the burnt robe and stump of an arm. “Ayup, sure does seem that way. Seems sure you’re not a giant’s agent after that fireball, though I’d like to hear how you ate a guardian golem’s fire and came out just a little singed. Stick to my heels and we’ll go to our camp and meet Wiam, the last member of my team.”
+
+Permanent Talent 1: High-Tier Magic Resistance 10
+
+Talent 2: None
+
+Talent 3: None
+
+Class: Antimagic Brawler level 15
+
+Stamina: 36/250
+
+Brawler’s Indifference
+
+Antimagic Blows
+
+Utility skills:
+
+Low-tier Focused Mind 5
+
+Low-tier Earnestness 3
+
+Low-tier Sprinting 2

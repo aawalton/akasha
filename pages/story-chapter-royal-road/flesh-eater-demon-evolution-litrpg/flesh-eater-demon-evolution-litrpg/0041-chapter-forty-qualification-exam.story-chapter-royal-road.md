@@ -1,0 +1,181 @@
+---
+id: 508b8405-6688-5014-b9b3-80cdfb356916
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty: Qualification Exam"
+slug: 0041-chapter-forty-qualification-exam
+partOf: flesh-eater-demon-evolution-litrpg
+position: 41
+ownLength: 3395
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2741742/chapter-forty-qualification-exam"
+royalRoadId: "2741742"
+---
+
+The inside of the garrison was, as expected, big. The moment they stepped past the gates, the space opened into an expansive grassy field that was probably the longest stretch of land uninterrupted by trees or buildings in all of Magrath. Not that there were no trees. They were just concentrated by the walls around the perimeters of the garrison.
+
+Below them, a dirt road branched out to various buildings located on different sections of the base. Pyre could see a few soldiers out sparring on the lawns, some helping move supplies, others traveling between buildings or maintaining equipment.
+
+Straight ahead of the path stood the largest building in the garrison. It was constructed out of solid stone, and the demon guessed that it was a headquarters or something similar. That wasn’t where they went, though. The guard leading them turned to the left, where a large, circular-shaped structure stood at the top of a small hill. A few of the other recruits in the group started chattering excitedly the closer they got to it. That had to be the training grounds.
+
+Their pace slowed. Now that they were closer, Pyre could see an extended outside area where more soldiers were running drills. More than a few eyes turned to their group as they approached. One soldier even started to wave before a sharp look from the head guard had him turning back around to continue whatever he was doing.
+
+At the front of the group, the guard leading them cleared her throat.
+
+“The physical portion of your exam will begin with a few outdoor group tests. After that, we’ll move indoors to complete the rest of the exam.”
+
+She raised an arm and pointed to the walls surrounding the base. Or, no, not the walls. Upon closer inspection, a dirt path behind the training center led to a wide track circling around the entire base. Pyre’s eyes landed on what looked like a few fresh recruits from an earlier group struggling to pace themselves. She had a feeling she knew where this was going.
+
+“To begin, we will test your endurance.” The examiner pulled out a pocketwatch and shifted the stack of papers she was carrying to move another sheet to the top. That one appeared to include a list of everyone in the group alongside a bunch of blank columns there were definitely for scoring. “Line up on the path leading to the track,” she instructed. “On my mark, you will run the full length around the garrison and return here.”
+
+One or two people in the group blanched. Pyre’s memory was hazy, but she could vaguely recall physical tests like this during her time as a human. They definitely hadn’t been this long for runs, though, but she figured in a magical world where you could chuck points at different stats, the standards had to be higher.
+
+The recruits moved over to the track—some slowly, others eagerly—and began removing their coats and any other heavy pieces of clothing that they were wearing. The soldiers on the grounds were definitely watching them now, probably curious to see how they would compare to the other recruits. They had to have seen several groups go by at this point.
+
+After some consideration, Pyre opted to keep her cloak on. The extra flesh on her back wasn’t super obvious, and it could be explained with the ichor-warping excuse, but she figured she might as well avoid questions about it if she could.
+
+Once everyone was ready and in position on the track, the head guard raised her pocketwatch. Its surface gleamed under the sunlight like a beacon.
+
+“On your mark,” she called. “Get set. Go!”
+
+Just like that, they were off.
+
+One recruit immediately zoomed to the front with impressive speed, kicking up dirt behind him. Probably a high agility stat, Pyre thought. On her part, she maintained a decently quick, but constant pace. It wasn’t like she was all that fast to begin with, though her high constitution did mean that she felt totally fine running long distances. She literally didn’t have lungs or need to breathe—it was pretty much impossible for her to get winded.
+
+As Pyre ran, she used the chance to idly study the garrison’s structure. Besides the training facility and the headquarters, she could see what looked like a dining hall of some sort, an armory, and a section filled with a bunch of wooden buildings that were probably the living quarters. Since they were running by the walls, she could also see the forest canopy beyond as well.
+
+A loud wheeze broke the demon out of her observations, and she glanced back to see a recruit had stopped and was currently catching his breath. She’d started out somewhere near the middle to the back of the group, but at some point she’d moved closer to the front of the pack as everyone began slowing down while she maintained her pace. Shoutout to high constitution, she supposed.
+
+In her thermal vision eye, she could see Callan was still hovering beside her. She raised an eyebrow. After double-checking that she was far enough away from the others, she said, “You didn’t have to follow me on the actual run, you know.” Not that she didn’t appreciate the slight extra chill the ghost’s presence provided. It was a refreshing contrast to the bright sun.
+
+“It’s not like I can get tired anyway,” he muttered, which was true. The perks of being able to float.
+
+Up ahead, Pyre could see that first fast guy hunched over and gasping for breath. At this point they were about halfway around the whole track. She casually wove to the side to avoid crashing into him and kept running.
+
+“See any good meeting places?” she asked once they were further away from the stopped recruit.
+
+“Back near the dining hall, I think I saw a really dense patch of trees by the walls. You can’t climb the walls without triggering alarms, but I can float through. We could meet there—the trees will give us some cover.”
+
+“Cool.” That sounded like a plan. It wasn’t like the demon had any other ideas.
+
+The ghost promptly stopped talking, and Pyre realized they were already nearing the training grounds again. She could see the guard who’d escorted them waiting by the track, that pocketwatch still in hand. Huh, that had gone a lot faster than she’d thought. Maybe she should’ve slowed down a little, but Callan wasn’t yelling in her ear about not being suspicious, so she figured this was still in the realm of possibility and not super obviously off.
+
+The guard raised an eyebrow as Pyre approached. Now that she thought about it, guard probably wasn’t the right word for her. She very clearly held some sort of rank in the garrison, based on the way those soldiers earlier had turned away with nothing more than a sharp look.
+
+“Number 84, correct?” Her voice was steady and naturally commanding.
+
+It took Pyre a second to remember that slip of paper, but once she did, she nodded. The woman jotted something down before looking back up at the demon. “I see you haven’t removed your cloak,” she observed. There was no real emotion in the words that Pyre could discern. She shrugged.
+
+“My back looks a little odd ‘cause of the ichor-warping.” The examiner was carrying the papers with all their info and had definitely read them already, so she was free to use the ichor-warping excuse. “Didn’t want to spook anyone with it.”
+
+The human nodded slowly, expression still impossible to read. “Alright. If it becomes an issue later on, please remove it.”
+
+If the guard had been planning on saying anything else after that, she didn’t get a chance to, because in the next moment another recruit returned. Albeit much more visibly sweaty and tired.
+
+The guard turned to face the track again, so Pyre figured she was free to chill out until everyone was back. Which might take a while, considering she could still see a few silhouettes on the first half of the track. Ah well, not like she was starved for time.
+
+As the minutes passed, more and more recruits trickled in at varying levels of exhaustion. That really fast kid made it 5th, and he looked just about ready to collapse. The guard glanced down at her watch again after the 8th person staggered across the finish line.
+
+“Time,” she said. She dropped the pocketwatch back into her pocket and nodded at them. “We’ll now move on to the next test.”
+
+One of the recruits raised a hand hesitantly. “Um, what about the others?”
+
+“They’ll be escorted out,” she said bluntly. “As for the rest of you, I am Sergeant Edna. I’ll be leading you through the rest of your exams today.” Cold blue eyes focused on each remaining member of the group. “Congratulations on passing the first round. You have five minutes to rest before we proceed with the sprint.”
+
+With that, Edna turned around and stepped toward the training facility, probably to prepare for the later exams that would be inside or something. The moment she was out of view, one of the recruits groaned.
+
+“I thought the long-distance run would be last,” he said miserably. “I can barely feel my legs! How am I supposed to sprint like this?”
+
+A few murmurs of agreement rippled throughout the group. Pyre caught several eyes glancing in her direction, probably on account of her general lack of sweating and panting, but a long stare back was more than enough to get them to look away again. If Callan’s muttering in her ear was any indication, apparently she didn’t blink very often, which was unsettling to humans. She very deliberately blinked a few extra times, and if the ghost wasn’t invisible right now, he would definitely be rolling his eyes.
+
+Time passed quickly. Soon, Edna exited the training facility and reappeared on the lawns. She was only carrying that top sheet of paper, the other ones presumably dropped off inside. A few recruits swallowed, still catching their breaths even as she nodded at them.
+
+“I hope you’ve all rested. It’s time to continue the exam.”
+
+Daphne was in a bad mood. Edmund had left early that morning, which she’d already known about, so that wasn’t the source of her current irritation. No, that was her uncle, who was currently nowhere to be found. He hadn’t bothered to send his son off—a fact that she could tell bothered her cousin despite his attempts at staying stoic—and he wasn’t anywhere inside the manor, either.
+
+She’d scoured every room and hallway, including some of the “secret” servant passages that she wasn’t supposed to know about, but there was nothing. The more time unsuccessfully searching passed, the deeper the scowl grew on her face. While a small, tiny part of her had secretly hoped that maybe, just maybe her uncle would be honest with her for once and tell her about the news from the war, she hadn’t seriously believed it would happen. She had expected him to at least show up and wish Edmund safe travels—the bare minimum for all the work he hoisted off on him—but lo and behold he’d failed to meet her extremely low expectations. He was lucky his son was such a saint.
+
+After failing to find her uncle in the manor, she’d finally hunted down one of the guards and asked, as sweetly as possible, if any of them had seen him. That was when she’d learned that apparently he’d gone to the garrison on “business,” and that had sent her mood plummeting once more. It had taken all her self control to smile and thank the guards before she turned away and immediately called for a carriage.
+
+The ride was just long enough for Daphne to stew in her growing annoyance. She knew (via a mixture of snooping and Edmund) that her uncle was funding an increased recruitment effort, which she was sure had nothing to do with the fact that he’d been muttering about wanting more guards for weeks now. Personally she thought he should just hire guards himself like a normal person, but he was so paranoid that he didn’t trust anyone who wasn’t vetted by the entire goddamn Auren military.
+
+“No one truly wants to fight in a war,” her uncle had argued the last time this had happened and she’d accused him of weakening the garrison for his own selfish fear. “I’m giving these cadets a much better life.”
+
+While that certainly applied to some, she happened to personally know that there were more than a few manor guards who were unhappy about their current roles. Guards who had actually wanted to help fight for their country—a sentiment wholly foreign to her uncle, she was sure. And now that the war was rumored to be ramping up, his fear had risen again despite being as far away from the front as possible, and here he was up to the same bullshit.
+
+Before she had a chance to sink deeper into her thoughts, the carriage came to a stop with a faint screeching of the wheels.
+
+“Lady Daphne, we’ve arrived,” a voice said from the front.
+
+“Thank you, Thomas,” she said gratefully. Before the man could move to the back of the carriage to assist her, she yanked open the door and jumped out. She grinned at Thomas, who just shook his head fondly. He’d been the Bellhein family’s coachman for as long as she could remember, and he was one of the few people who didn’t treat her like she was made of glass.
+
+“Will you be needing anything else, Lady Daphne?”
+
+She shook her head and smiled at the elderly man. “No, that’ll be all. Thank you again.”
+
+With a final nod at Thomas, she spun around to face the garrison’s gates. She could see a few soldiers collapsing a long table that had been placed in front of the base for sign-ups, and someone was already walking closer to escort her inside.
+
+She narrowed her eyes at the thin sliver of the training facility that she could currently see. She was almost positive her uncle was inside.
+
+The doors to the observation deck swung open with a loud creak. A few eyes glanced back at her, but her own gaze didn’t stop moving until she spotted a familiar form seated at the center of the long table that had been set up above the main training ring.
+
+Lord Bellhein was a tall, slender man with shifting eyes and deep wrinkles across his forehead from how often his brows were creased. Edmund resembled him a lot, though his son was comparatively much calmer-looking. There was a constant nervous energy around the noble, one that felt at odds with his standing. Despite this, Daphne knew a lot of people were intimidated by him, but she’d never been one of them.
+
+“Edmund left for the capital,” she announced, stepping over to the table with zero hesitation.
+
+Now that she was closer, she could see stacks of papers with what she assumed were the recruits’ information. The deck itself overlooked the main training area below, which consisted of a wide, smooth expanse surrounded by seats that were currently filled with recruits watching from the sidelines.
+
+On one end of the field, a large bag of sand had been set up. One by one, each recruit was called forward to hit the bag as hard as they could. White chalk lines marked the various distances the bag landed across the ring. Currently, the furthest ones were about half way across. It looked like they were almost done testing all the recruits.
+
+Lord Bellhein cleared his throat. “I’m aware,” he said. Around them, the examiners scratched away at their papers, doing their best to look like they weren’t listening in on the two nobles.
+
+“You could’ve seen him off at least,” Daphne said. “He’s your son. You did the same thing last time!”
+
+“I had important business,” her uncle tried to argue. Daphne narrowed her eyes, glancing down at the training grounds where a young man with sandy-blond hair was currently reeling his arm back to hit the sand bag. The sound of the impact made it up to the deck, and the bag flew forward and skidded across the ground before coming to a stop about halfway across the field. Around her, the examiners nodded approvingly.
+
+“Good potential, that one,” one said. “Seems dedicated to the cause, too. Very eager to learn.”
+
+“Too excitable, if you ask me. I suspect he’ll be troublesome once training starts,” said an older woman with short cropped hair and sharp blue eyes. Someone chuckled.
+
+“You’re too stern, Edna. Either way, he’s passed every test. We have no reason to reject him.”
+
+The other examiner grumbled a little at that, but she didn’t argue. She glanced down at her paper again and called out the next number just as Daphne was about to turn away to continue scolding her uncle.
+
+“Number 84!”
+
+From the sidelines, a tall, broad-shouldered woman with long dark hair pulled into a thin ponytail at the nape of her neck rose and stepped forward. She looked older than most of the recruits, and she walked with a steady, relaxed sort of confidence that felt distinctly different from the typical nervousness or cocky arrogance seen in fresh cadets. That wasn’t what caught Daphne’s attention, though.
+
+Imposing stature aside, the woman was covered head to toe in bandages that seemed to wrap all the way up to her neck. Their stark white hue stuck out sharply against her darker clothing, and Daphne felt her curiosity rising despite herself.
+
+“Why is she covered in bandages? Is she injured?” Lord Bellhein asked with a frown. One of the examiners beside him peered down at his paper.
+
+“Reportedly, recruit number 84 is from Drovna. She claims to suffer from ichor-poisoning and uses the bandages to conceal the warped flesh.”
+
+Daphne’s eyes widened. She looked down at the training grounds again.
+
+The recruit in question was currently waiting idly while the bag was dragged back to the starting position, appearing almost bored. Daphne found herself unconsciously scanning the woman for any familiar traits, though of course that was ridiculous. It sounded like her ichor-poisoning mostly manifested physically, not to mention that everyone was affected differently by excess ichor to begin with.
+
+Still, it was the first time the noble had ever met someone with the same condition as her.
+
+Her uncle’s frown deepened. “That’s no good. If she’s ichor-poisoned, she’s too unreliable to serve.”
+
+“I would respectfully disagree, Lord Bellhein," said the examiner called Edna. “She’s passed all the exams so far with flying colors. Even her weakest test result, the sprint, was well above average.”
+
+“It’s a liability,” the noble argued. “And what if it infects the other soldiers?”
+
+Daphne narrowed her eyes at that. “Ichor-poisoning isn’t contagious. You know that,” she said lowly. The man winced, but before he could open his mouth to respond, the recruit in question got in a ready stance.
+
+Daphne’s gaze snapped back to the field, watching with bated breath as the stranger first took a moment to study her target, then stepped back, lunged, and slammed her fist into the bag in one fluid motion.
+
+A loud boom echoed across the training grounds as the bag was sent hurtling towards the other end of the field. A few recruits watching on the sidelines yelped as the wind from the punch sent dirt spraying into their eyes. The sack showed no signs of slowing down.
+
+With a final resounding thud, the bag slammed into the opposite wall and burst open. Grains of sand exploded out, spraying all around as the torn cloth fell limply down to the ground. Finally, everything fell still.
+
+For a moment, no one moved or spoke. On the other end of the field, the person responsible for the silence lowered her arm.
+
+“Ah, whoops.” Her voice was deep, not at all winded, and as casual as could be. “Sorry, didn’t mean to do that.”
+
+Daphne felt a wide grin stretch across her face. Beside her stunned uncle, the blue-eyed examiner from earlier cleared her throat.
+
+“Well, Lord Bellhein,” Edna said. “I do believe number 84 has passed.”

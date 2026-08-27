@@ -1,0 +1,215 @@
+---
+id: d7eb765d-2bd2-5403-b843-21e9cfbeb438
+page-type-slug: story-chapter-royal-road
+title: "Chapter 438: The Grand Suppression Array"
+slug: 0475-chapter-438-the-grand-suppression-array
+partOf: dungeon-of-knowledge-complete
+position: 475
+ownLength: 3600
+unit: words
+ownProgress: 3600
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2751749/chapter-438-the-grand-suppression-array"
+royalRoadId: "2751749"
+markedReadAt: "2026-06-29T20:28:17.796Z"
+---
+
+Ali shivered as she surveyed the clearing and the four giant oak trees planted around the slowly rotating dark artifact. It was dark and eerily lit by patches of bioluminescent fungal growths, and just like last time, the cloying stench of rot permeated everything. It was not that she was particularly scared or anything, not at all, but the prospect of hearing that undead thing using Lira’s voice again made the skin creep up the backs of her arms, and her chest tightened up like it had been bound with searingly hot steel cables. That was just… wrong.
+
+A little pulse of magic accompanied Malika’s hand as it found her shoulder.
+
+You have gained Clarity.
+
+A subtle stillness flowed inward, filling Ali’s heart, and her mind abruptly cleared. Her concerns were still present, now even more easily understood, processed, and contemplated. However, with the clarity granted by Malika’s magic, she was able to see them for what they were, and she dismissed the horror as an act of Nevyn Eld that was powerless to take anything from the memory of Lirasia as she had been in life.
+
+Ali glanced up at Malika. “Thank you.”
+
+“You’re welcome,” Malika said, nodding gravely.
+
+“We’re ready, Ali,” Calen said.
+
+“Ok. Let me get it started,” Ali said. She prepared herself and then shifted her awareness into the Spirit Realm along the threads of the now-remarkably dense domain she had built there. It spilled out across the veil and into this chamber in a continuous wave of dungeon rage breaking against the bulwark of the Blooming Rot. Still, Azryet had taught her well, and she found herself able to withstand the pain without compromising her focus.
+
+Ali had placed dozens of minions in the Spirit Realm, and she could tell Cael and Gage were present by the alert prickle in the twins’ domain mana. Besides, she knew they would not miss this for the world.
+
+Her awareness settled on the grand formation they had forged. In truth, most of it had been Cael’s inspired work, but Ali had been present, following along at every curve and twist of the immense runic structure, learning voraciously, and committing it all to memory. Her contributions included numerous suggestions for improving the efficiency of the runic connections along the way, a pair of gigantic mana condensers constructed from gleaming, white monolithic blocks of space-affinity magicite, and the creation of the mana conduits that connected the immense power sources to the formation itself. Around the base of each condenser, the mithril mana coupling runes shone brightly, linking everything to her domain.
+
+“Moment of truth,” she muttered, and Malika gave her shoulder a reassuring squeeze in response. All the confidence, checking, and theory in the world did not hold a single candle to a real-world test. This would be the first time trying to traverse the veil between realms with this runic formation. Ironically, the pattern she had needed to unlock this part had been borrowed – heavily modified, of course – from the soul and death magic formations she had studied in the Temple of Aman Rak.
+
+She gathered her will and triggered the main formation. Here we go.
+
+The condensers dimmed noticeably as stored space-affinity mana drained from the stacks of magicite, pouring into the runes and igniting the incandescent tracery of the array. A low hum shook the formation, rising into a powerful thrumming vibration that caused her Spirit Realm watchers to back up several steps in alarm. Runes lit up, one at a time, cascading from one section to the next and accelerating as the incandescence rapidly spread throughout the formation. Large sections of runic patterns flickered and shone as the mana buzzed and the air rippled – if the Spirit Realm could even be said to have air.
+
+It’s on, but… She studied the mana in the cavern, sensing nothing unusual throughout the entire space. The trees remained rooted, slowly swaying in a fitful breeze nobody could feel.
+
+An unusual pulse flickered through the clearing, like a stone falling into a clear pond, suddenly calling attention to the previously unnoticed surface by the ripple it created. Then she saw it. Threads of intricately structured space-affinity mana leaked through the fabric of the realm boundary, where previously only raw, unstructured mana had been present. It seeped through the cracks, crossing the veil and percolating into the cavern, emanating from everywhere all at once.
+
+“I see something,” Calen said. “Is it working?”
+
+Before Ali could answer, it coalesced, imposing an oppressive weight she could feel somewhere within her gut, like the disorienting lurch of a long-range teleportation spell had been frozen in place. A feeling she knew all too well – the suppression of the Infinite Maze. Several of the mages gasped, glancing about, wide-eyed in shock.
+
+Not content just to hope, Ali teleported immediately, switching places with her nearby troll, but her magic slammed into a strange, almost pliable, but immensely strong resistance, and her spell failed to activate. Just like back then.
+
+“It’s up,” Ali said, wetting her lips nervously. “Don’t forget, it means we also can’t teleport to get away if things go wrong.”
+
+“Nice,” Mato said.
+
+“Let me figure out where I can put the Gate, then,” Weldin said, backing up and trying his spell every few meters until he finally succeeded in creating the Town Portal Gate all the way back in the tunnel between the caverns.
+
+“That’s pretty far,” Calen said, staring back at the tunnel behind them.
+
+“That’s going to make retreating much harder,” Vivian said. “No mistakes, people. Let’s do this.”
+
+“Tanks ready?” Lyeneru called.
+
+Mato shifted, his body warping into the form of a dire bear, his muscular, furred form as tall at the shoulder as Basir and easily towering over Sabri and Havok. But he knew all three of them to be dependable tanks – even the tiny Goblin would not be swayed.
+
+“Ready,” he sent back to Calen.
+
+I hope this works, he thought, glancing back at Ali, who seemed focused elsewhere, but she had done something subtly noticeable to the mana in this place, and he was tentatively hopeful.
+
+“Ok, go!” Calen shouted, and the raid sprang into a frenzy of activity.
+
+Mato tuned out the noise, rushing forward with the other tanks as they surged across the creep and into the dark and foreboding clearing. Reaching the middle, they fanned out, each splitting off to attack their assigned treant. His target was the crooked monster at the back left, and as he charged, it shifted, tearing its roots from the ground and shaking its heavy branches in anticipation.
+
+“I knew you couldn’t stay away.” The voice of Lira’s specter floated down like leaves on a soft autumn breeze, but he grimaced, ignoring it and the suddenly intensifying throbbing of pain lodged deep inside his heart. Undead she may be, but her mana still gnawed at his soul.
+
+He crashed heavily into the treant’s trunk, his paws raking downward with a trail of void following his claws as they bit into the dense bark and wood of the trunk, sending an explosion of splinters and sap flying. The treant uttered a shuddering roar of pain and lashed out at him with its immense branches.
+
+But he was still here.
+
+She did it! The grin that came to his face was filled with fierce joy as he finally faced his opponent on even ground instead of vanishing to fall out of a distant tree whenever he struck it.
+
+“It works!” Sabri yelled. Her announcement was answered by a chorus of whoops and cheers.
+
+Mato blocked one branch on his left shoulder, allowing the second, weaker strike to bypass his guard and instead roared a taunt, locking the monster to him. The blow hit him with a crushing force, followed by a powerful surge of rot magic, but he was fully geared with the proper elixir and backed up by a team of excellent healers.
+
+Carefully he shifted his tree backward, drawing it a little further away from the other tanks, allowing them room to use their area abilities and taunts, but as he shifted, dark and twisted roots emitting dangerous-looking mana erupted from the ground, trying to grapple and stab him from below. He shifted, tearing and pulling against them, pitting his enormous strength and the magic of his Rampant Growth against it to avoid being pinned down.
+
+“Summoning!”
+
+Ali’s voice carried clearly across the crashing and creaking, making the call the same instant he saw mana building within the tree. Seconds later, dozens of smaller treants popped into existence, rushing about and firing bolts of dark magic while they swung their branches wildly.
+
+But the treants were not the only ones with roots they could wield. With a pulse of his mana, Mato caused the ground in a wide radius around him to burst, shoving roots and brambles out into the air to tackle and grasp at the rampaging trees. A moment later, as his recharge reset, he thundered a challenge, taunting all the nearby ones to attack him. Survival Instinct surged as more treants turned toward him than he had expected, but he triggered Critical Block and took the powerful downward lashing strike from the boss, allowing the rest to glance off his dense hide and armor.
+
+He felt the moment the rest of the raid caught up and began to find their rhythm.
+
+“Free Action Totems!” Teagan yelled, and the grappling roots around him suddenly failed to grasp and tangle.
+
+A holy magic settled all around, gentle but powerful enough to fully heal him.
+
+And then came the fireballs, frost novas, and whirling blades to reap the spawned treants that were trying their best to crush him with their branches.
+
+“Why fight it, young druid? Your corruption is inevitable.”
+
+Lira’s face suddenly appeared, warping the bark of the raging Treant before him, and his claws bounced off the suddenly impervious trunk without any effect.
+
+Argh!
+
+Mato grimaced. This was nothing better than little-old-granny beating! Elder thumping! Smash your geriatric relative day. Something about fighting even the specter of the person who had made him a lovely cup of tea more times than he could count did weird things to his head. No, this was not right…
+
+Devan gathered the winds about her and slipped away into the trees, virtually invisible to anyone looking. She wove the winds around her feet and legs, drawing her sprint along the creep, far faster than most people could even track, darting back and forth to avoid the lesser treants.
+
+They were not her target today; the mages could have them. She hunted bigger prey.
+
+She wove her way through the battle, becoming the first of the melee fighters to reach the giant Malevolent Lirasian Oak. The raid leaders had picked the first target: the tree tanked by Havok. It was a choice she heartily approved of as she danced through the warm white flames of his Consecration. She slipped her brand-new mithril sword into her left hand and her bloodsteel dagger into her right, and she launched forward on the winds of her magic, activating all her support skills to empower her Ambush.
+
+The branch came sideways, striking her out of the air with a tremendous blow. With a chopped-off grunt of agony, her body flipped end over end as she scrambled to bleed off her momentum with cartwheels and gouged furrows in the creep, all made excruciating by the crushed ribs that twisted and grated inside her chest.
+
+“Be careful,” Teagan said, and her viridian green beam of healing lanced through her, arcing three more times to other injured adventurers, making her wounds vanish in a painful twisting of repairing bone and flesh.
+
+Devan coughed, spitting out some blood, before she yelled, “They can see through stealth!” She had gotten cocky, and she hadn’t even seen the attack coming. She gritted her teeth and sprinted back into the fray, empowering her blades with infinitely sharp crescents of wind. She was a Demon Hunter of the Winds; getting hit by a mere tree was mortifying.
+
+More cautious now, she slashed and stabbed, her blades slicing with all the speed her magic could summon, making bark and wood fly.
+
+Suddenly, the bark beneath her blade twisted into the form of a face, making her flinch back in surprise.
+
+“Why so violent? Why not simply sit down and … die!”
+
+Devan collected herself almost instantly, stabbing downward with her dagger right into the eye of the monster, with the full force of all her support skills and wind magic. But her dagger bounced off with a dull thud, leaving no sign of even a mark.
+
+“Switch to Basir’s tree. This one is immune,” Aiden called out.
+
+Devan turned immediately, intending to sprint off toward the new treant.
+
+“Why don’t you stay a while?”
+
+A wave of sudden dizziness came upon her; a shifting disorientation that warped her senses as she stabbed again and again, each strike failing to make even the smallest impression upon the wooden trunk. She glanced about in confusion. About half the group was leaving, moving to a different tree.
+
+“Why are you all leaving? Didn’t the lady say we should stay?”
+
+Ali hovered near the back of the raid group among her healers, huddled under the protective cover of her barrier while the trees rained hundreds of bolts of rot down upon them – foul mottled brown and green bolts that ripped through flesh and bone, decaying them in seconds and filling the clearing with a cacophony of thumps, screams of pain, and the stench of death and decay. She had tried, but covering the whole extended raid group was impossible, and so her glittering golden walls were focused on blocking the barrage from hitting only the most vulnerable healers.
+
+Already, her healers were struggling under the onslaught, and she could tell from the sweat beading Belmar’s brow and the grim frown plastered to Teagan’s face that it was not just her healers.
+
+“Use yer potions!” Belmar bellowed.
+
+Suddenly, dark roots, gnarled and twisted, erupted from the ground everywhere, tearing through the fungal creep with the ease of needles through silk; sharp, brutal spears of wood that sought to bind and pierce and brimming with pulsating death and nature-affinity magic.
+
+“Free Action Totems!” Teagan yelled from nearby as she tossed out a small wooden totem of her own.
+
+Good idea, Ali thought, relaying the command immediately to her blood shamans. The instant the little inscribed wooden totems appeared, the roots slipped off, failing to grip the adventurers’ ankles and releasing their hold and allowing them freedom to reengage.
+
+“Oh, Aliandra dear? Would you bring me some tea?” The specter of Lira stared at her from the rippling, twisting trunk of one of the Malevolent Oaks.
+
+Ali gritted her teeth. Why does it have to taunt me? She knew this thing was not her aunt, but it kept picking on her, addressing her directly with Lira’s voice and mannerisms. And every time it was like a rusty spike driven deep into her heart.
+
+Focus on the fight, she told herself firmly. The suppression hummed in the background, heard by the minions she had left back in the Spirit Realm as the array devoured more and more mana drawn through the space-affinity magicite from her domain. At least now, she finally had the opportunity to study the full extent of the boss and its abilities. I can’t afford to miss a thing. Certainly not because she was being distracted by pain and grief and the meaningless taunts of an undead, regardless of whose form it wore.
+
+The fight stabilized, an impressive contrast from every prior attempt that had resembled giants stomping on ant nests. The suppression array prevented the tanks from flying off and dropping control of their targets the instant they hit the trees. Even with the four main trees locked down, hordes of treants appeared constantly as the formations of Mass Summoning flickered and flashed, and the raid group scrambled to deal with them. But Ali’s gaze was drawn inexorably to the twisted face and the echoes and outlines of the Dryad’s body as it pressed partially out of the heartwood of the giant treant to taunt them.
+
+The Tree Stride formation suddenly appeared, shockingly more potent than any she had ever seen, and the partially formed shape of the dryad vanished, suddenly appearing within the tree they were targeting with the majority of the raid damage dealers.
+
+It teleported? She had felt the strain on the suppression array as the low hum had risen to a shrill whining crescendo before fading back down. Somehow, this spell had punched through it, but Ali’s fears did not materialize; the suppression array didn’t shatter, scattering the raid to the trees.
+
+How did she do that? It was just the dead specter of the dryad that moved. Sage of Learning was ticking over constantly, but it was hard to tell if there was anything she could learn from just watching it.
+
+“Switch to Basir’s tree! This one is immune,” Aiden yelled.
+
+Surprised, Ali slipped her awareness into Tol’brekk’s mind, and sure enough, the immense greataxes were bouncing off the suddenly impervious tree. She flitted across to her Sylvan Warriors, but even the flame from their enchanted swords fell from the treant like water from a duck, sizzling as it was quenched by the damp fungal creep at their feet.
+
+“Switch,” she commanded, echoing Aiden’s command, and impressing upon them the image of Basir and the next tree over. But as her warriors turned, Lira’s specter called out once again.
+
+“Why don’t you stay a while?”
+
+The resonant, taunting voice filled her mind with strange echoes, and through the connection to her warriors, the sudden disorientation was proved abundantly clear by its contrast to her own mind. The warriors immediately spun around and returned to the prior tree target, slashing ineffectively at its immune branches and bark. But Tol’brekk and Joraa followed her instructions, splitting the group.
+
+“Malika, that’s a proper Taunt!” Ali yelled, recognizing the effect in an instant. The minds of her warriors and rogues were not protected by the high wisdom of her berserker and shamans, and they were critically vulnerable to the mind-influencing attack. She couldn’t pull them off their target, even with her skills; they were convinced they were doing her will.
+
+Out in the thick of things, Malika turned her head at Ali’s shout, hesitating as if she had attempted to teleport and failed. Then she sprinted back to the tree, and a large spherical ripple of blue-white magic pulsed outward from her, washing over the entranced melee. Instantly, they all turned around, shaking their heads in surprise, and sprinted off to engage the proper target.
+
+“Thanks, Malika,” Ali said, using Kir’mogan’s voice from beside her friend, rather than try to shout over the battle.
+
+“Ok, all damage on this tree,” Calen said, directing the flow. “Area damage on the loose treants. Let’s lock them down and clear them out.” Beside her, she could see him firing volley after volley of brilliantly glowing arrows, trailing chains of light into the spawned treants, gathering them up and ensuring they were all cursed with Slow from his bow or bound in place by his magic.
+
+Ali turned her attention back to the Malevolent Oak, directing her minions to coordinate their attacks, and she cautiously watched as the tree’s immense health began to slowly drop.
+
+It’s working. Slowly. Need to stay sharp, I’m sure there’s more trickery here.
+
+For the first time since they had encountered this boss, they had the semblance of a workable strategy. The tree’s health was noticeably dipping, first only by about two percent, but after a minute of continuous damage, it had passed five percent as their raid got into the groove again. She rearranged her melee warriors to get better angles for their flaming sword strikes while not interfering with the rest of the attackers as much, and their damage crept up to almost ten percent.
+
+Suddenly, a dark green formation blossomed within the tree, and Ali’s eyes widened as she recognized the spell. She scrambled to react, but she was too late, and the Dark Restoration, a far more powerful version of the druidic magic wielded by her Sylvan Dark Druids, infused the giant treant with a rush of healing. Their hard-earned ten percent instantly shrank to five percent.
+
+Then, the formation reappeared.
+
+Oh, no you don’t! Ali understood this spell; she had studied the Sylvans extensively. Hurriedly, she summoned her golden shards, scrambling to assemble the correct anti-formation in time. At the last possible moment, she released them at the treant. Her darts of delicate disruption shot out, crossing the distance in a sparkling flicker, punching into the treant right as the spell would have completed, and she ripped it to shreds.
+
+Thank goodness, she thought. It had been a close thing, but she had at least preserved half of their progress.
+
+But then the Dark Restoration formation suddenly appeared in the three remaining Malevolent Oaks, and she could only watch in despair as the trees healed their clone back up to full while her disruption remained on recharge.
+
+“Smile, Aliandra dear! Why are you so sad?”
+
+Argh! Stop using her voice! Ali’s lip trembled, and she wanted to scream. She knew this was one of those fights she’d have nightmares about. Come on, Ali, that’s not Lirasia anymore. Focus. She deserves… a better end than this.
+
+Tears overflowed and coursed down her cheeks.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

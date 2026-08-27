@@ -1,0 +1,165 @@
+---
+id: 104c3f37-8862-5c69-9ddd-1cb058468193
+page-type-slug: story-chapter-royal-road
+title: "Chapter 305: The Battle for Ciradyl (Part 1)"
+slug: 0342-chapter-305-the-battle-for-ciradyl-part-1
+partOf: dungeon-of-knowledge-complete
+position: 342
+ownLength: 3002
+unit: words
+ownProgress: 3002
+publishedAt: 2025-07-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2421368/chapter-305-the-battle-for-ciradyl-part-1"
+royalRoadId: "2421368"
+markedReadAt: "2026-06-29T20:22:08.876Z"
+---
+
+Definition: Proc (noun/verb, adventurer jargon)An ability, enchantment, or effect that has a chance to trigger from an event. For example, a sword that has an enchantment that gives it a 10% chance to do extra fire damage on hit is said to ‘proc’ fire damage. The enchantment that creates this effect is also described as a proc.- Excerpt from The Adventurer’s Guide, Third Edition
+
+The screams of anguished elves and the haunting wails of banshees and ghosts faded. The howling roar of arrows shattering against the brilliant purple arcane dome dimmed. Mato’s shock at the unexpected betrayal and abrupt appearance of the Blind Lich eased as his mind sought the wisdom of sap and bark. His body twisted and stretched as he sent his massive oak roots downward and spread his branches wide.
+
+He was not used to feeling small in this form but, nestled beneath the enormous Ciradyl trees, he would be considered tiny by comparison. His mind sharpened as his wisdom skyrocketed and he immediately directed his focus, pulsing his aura outward, spreading Arboreal Sanctuary over an enormous twelve-hundred-foot radius. He grimaced inwardly at the foul touch of corruption mingling with his nature mana, and the noisome stench of undeath, but instead of recoiling, he filled his aura with the searing flames of Consecration. Across the breadth of his domain, corruption eroded and undead screamed.
+
+Thanks for the damage.
+
+He could feel them all, zombies, ghosts, and wraiths clutching after the struggling elves, many too low-level to have a hope of resisting the dread aura of the Blind Lich and thus making perfect targets for the deathly touch of the undead spirits. He turned to Lirasia’s gift and summoned his Lirasian Sage.
+
+The tiny tree spirit popped into existence, a collection of softly glowing green lights that wreathed his branches and, to his delight, he found the spirit’s aura rippling out far further, filling the full extent of his Sanctuary, providing life to the struggling and dying.
+
+Even in the calm heartwood of his Elder Tree, Mato felt the inner shiver as he sensed more and more loathsome undead invading his domain but with nearly fourteen hundred wisdom, their dread-inducing screams skittered off the outermost bulwark of his awareness without reaching him. With a thought, he flexed, and throughout his Sanctuary, vines, roots, and brambles erupted up out of the ground to grapple with the flying spirits. While the physical manifestation of his plants passed through the incorporeal spirits, they carried with them both the nature damage of Brutal Restoration and the holy flames of Consecration. Even better, Calen’s mote hovered overhead adding light-affinity damage – and all the magical damage most certainly did affect the undead. Throughout his domain, the lesser spirits and zombies began to expire with a chorus of chilling screams and moans.
+
+“I made a teleportation circle,” Ali yelled.
+
+Magic exploded across his awareness, death and arcane reaching out to kill and destroy, but his Survival Instinct told him everything. He redirected the damage from his Lirasian Sage to himself, and the attacks and deathly bites the ghosts were inflicting on the helpless elves, saving them for Malika.
+
+“To the tree! To the holy fire!” Calen shouted, and the tormented and broken elves began to crawl or stumble toward him. The moment they entered his Sanctuary, Mato wielded his roots to protect them, lashing at the undead, triggering blasts of his Brutal Restoration.
+
+Yes, come to me. I can save more!
+
+Calen fired volley after volley, his hands running on automatic while he struggled to make sense of what had just happened.
+
+How could you… His eyes returned again and again to the purple dome, grappling with the sense that his heart had been torn out and all he was left with was an unfathomable, unbounded hollowness in its place. It had to be a terrible dream but, somehow, he knew this was not something he could wake up from. Did he somehow prevent us from realizing or reacting in time? How could we be so slow? So blind?
+
+Above him, Lyeneru and Nendir were unleashing an unbelievable storm of arrows at the Guildmaster’s barrier and the Lich it shielded, tearing through all manner of undead spirits as they did. In the back of his mind, he registered just how badly outclassed they were – only a handful of pathfinders had the wits to return fire.
+
+The Guildmaster, he thought, staring at the ethereal twisting form of Nathaniel Sunstrider, now a wraith serving the Blind Lich, and a raid boss. A man he had looked up to as a paragon – a pillar of strength and accomplishment – an archmage, a Pathfinder, and a council member. A leader of leaders.
+
+He betrayed us. Calen frowned, grinding his teeth together. He betrayed everyone. He had no idea what had possessed Nathaniel Sunstrider to summon the Lich, but it spelled disaster for the Pathfinders Guild he loved so much and unleashed a catastrophe upon Ciradyl and all the elves who lived here.
+
+Corruption like black bubbling pus continued to seep from the Well of Souls, overrunning scores of helpless elves, petrified in fear. It barely slowed, creeping and clawing its way through them, draining them of life, leaving only the groaning animated husks of zombies in its wake. Try as he might, he couldn’t push it back. He couldn’t save everybody.
+
+Suddenly, a figure appeared, sprinting across the blackening turf. Four wraiths wailed overhead as they closed in on her. Coria! Nendir’s daughter, the elf who had defied Malanior to help him with his archery. A person who had always treated him with respect despite his half-breed status. He saw the realization on her face as they closed in on her with screams and howls. He saw her turn to make a desperate last stand.
+
+She can’t make it. She can’t win. She was not nearly strong enough, not nearly fast enough. Without a thought, Calen attacked. He fired arrows, six at a time, piercing the oncoming wraiths and continuing onward to rip through the slower zombies behind them.
+
+His mind caught up, suddenly freed of the need to struggle with confusion over Nathaniel’s betrayal. Coria would die unless he intervened. This was something he could do – an immediate, uncomplicated fight. His bow against four wraiths. He switched his enchants for the next volley, loading his arrows with light damage and Grappling Shot. The glow of his arrows lit the ground, piercing through everything, triggering a cascade of Chains of Light and magical damage on every undead monster he hit.
+
+You have gained Onslaught.
+
+He ignored the message, using the sudden boost of ranged haste to conjure another volley to his bowstring, this time loaded with explosive shot and extra damage. His bow howled as he enhanced his skills with additional hellfire and unleashed his arrows. In the field beyond the stunned Elf, a cascade of detonations ripped through the oncoming undead, blasting most of them away, momentarily casting Coria as a silhouette, backlit by a brilliant intensity. Calen squinted reflexively, but his eyes were not hampered by the blinding light.
+
+You have gained Onslaught.
+
+Coria sprinted onward, finally reaching the edge of Mato’s Sanctuary, and turned again, drawing her bow. Calen left her to Mato’s care and shifted his attention to the larger battle, taking in as many details as he could.
+
+The devastation stopped him cold.
+
+Where he had once admired the beauty of the Well, only a crater of black sludge remained. Within it, glittering purple crystals began to sprout and the undead stalked the living. Over in the distance, Malika danced through a group of undead spirits that were attempting to drain a large group of helpless elves. Nendir and Lyeneru were busy with the Lich and Nathaniel, and several other elves had joined the battle, firing arrows or spells from overhead.
+
+Malika needs help. He repositioned the nearest mote of light near her and teleported, switching places with it. He flared his wings to swoop down and then unleashed volleys of arrows through the undead preying on the fleeing elves. Chains of Light exploded across the field in a rippling wave, pinning the wraiths and ghosts to the ground for a few seconds, giving the elves a few moments to get away while he and Malika mopped them up.
+
+You have gained Onslaught.
+
+“Your battlefield control is ridiculous,” Malika said, appearing beside him.
+
+“I guess,” Calen said, eyeing the effect of his skills. He hadn’t been paying close attention, but it was hard to ignore the incredible boost Onslaught was giving him. It’s synergizing extremely well with Spirit Arrows, he realized. Shooting six arrows per volley at a horde of monsters when his shots pierced and triggered all on-hit procs for each monster meant he was continually hasted, and sometimes even benefiting from two or three stacks. And the haste itself made it even more likely for him to proc it again. The effect on enchants like Grappling Shot and Explosive Shot was something to behold.
+
+“Where to next?” Malika asked. Her mana pulsed, healing him – not because he needed it, but virtual immunity to the banshee fear and the Lich’s aura was extremely welcome.
+
+“Uh, over there,” Calen said, pointing to another stricken group and the lone elf standing over them, trying in vain to hold off the undead tide.
+
+“Right, let’s go,” Malika said, and shot off.
+
+Calen followed hot on her heels, conjuring fresh arrows to his bowstring. If he had his way, Nathaniel would pay for his betrayal. He would pay the ultimate price.
+
+Several Elves dressed in Pathfinder robes sprinted into the holy flames of consecration. “Orders?” one asked.
+
+“Guard the perimeter,” Lyeneru commanded. “Form rescue parties of five, hunt for survivors. Gather anyone able to fight, we’ll make our stand here.”
+
+“At once, commander.” Elves spun smartly, rushing off to carry out their orders.
+
+I need my minions, Ali thought. Immediately! The Elves were slowly regrouping as the higher-level Pathfinders gathered, drawn to the howling din of Nendir and Lyeneru’s assault. Many of them, she noted, were lower-leveled than she was. I’m an evolved class now, I should be able to help. Somehow. What can I even do in time?
+
+But her true power required preparation, and she’d been caught unawares. We all were, she thought, grimacing at Nathaniel’s wraith. Reaching out to her domain all the way back under Myrin’s Keep, she called, “Come!” Wherever they were, her unbound minions turned and charged for the library and the teleportation circle she had inscribed there. If the locus even lasts long enough, she thought, eyeing the corruption creeping toward the giant Ciradyl tree they had arrived in.
+
+In the meantime, she needed to figure out how to be effective without them. She summoned barriers to protect the elves that trickled in from across the stricken city, directing them to the teleportation circle next to Mato’s roots. But that was not nearly enough.
+
+Through the impenetrable barrier of purple arcane magic, Nevyn Eld continued his inscrutable task with the corrupted Well of Souls, seemingly impervious to the onslaught of arrows that rained down upon him. Under his purple dome, the wraith of Nathaniel Sunstrider summoned more and more undead. Purple crystals – arcanite – sprouted from the edges, spreading his domain rapidly. She studied his magic carefully, ignoring for the moment the rapidly encroaching domain of twisted arcane and death that threatened Mato’s Sanctuary.
+
+There! As soon as she understood, Ali shot a delicate lance of her golden magic at the barrier, piercing it with her Dismantle and watching with satisfaction as the previously impenetrable barrier sagged in the middle, a large portion dissolving and collapsing into floating shards and sparkles of unbound mana.
+
+“Nendir, the barrier is down,” Lyeneru called out.
+
+“I see it,” the other elf replied calmly. How the two of them could remain so calm in the face of such a catastrophe eluded Ali, but that must be what made them paragons of the Pathfinder’s guild. She was just grateful that the two of them were there protecting everyone from the brunt of the undead and whatever nefarious scheme Nevyn Eld was attempting.
+
+Flights of glowing green and burning arrows filled the air, carrying with them the devastating power of two high-level master archers. The area around the artificial shrine exploded with the power of Nendir’s nature magic, and Lyeneru’s deafening lightning and fire. But as the smoke cleared, Ali saw something she was not expecting, a being of extraordinary arcane potency.
+
+Calhedron – Elemental – level ??? (Arcane)
+
+It was unclear to her whether the strangely twisting, folding formation of interlocking geometric shapes was alive or a construct. It rose slowly into the air, ignoring the arrows crashing into it and the magic detonating around its body, emitting a chilling aura of immense power, glowing with the purple of Nathaniel’s arcane magic. Protected by the immense summoned entity, Nathaniel repaired his barrier.
+
+Deep within the semi-transparent arcane elemental, Ali recognized the familiar formation of Arcane Bolts and immediately threw up her protective shield, but the devastating volley must have had nearly a hundred streams of bolts that lanced outward, arcing toward the two flying archers, and any nearby fleeing elves.
+
+“Shoot that! Now!” Ali said, even as her eyes widened in shock and she divided up her barrier magic, frantically trying to protect elves as they fell in droves to the onslaught. Her lone Ice Mage launched ice bolts into the glowing purple construct, but if there was any effect, she couldn’t tell.
+
+Then, to her dismay, she saw the disturbance in the domain mana as the giant elemental began to absorb mana and grow larger and more powerful.
+
+“Raid boss!” she yelled, recognizing the scope of the power increase from just the flow of the mana, and Nendir and Lyeneru immediately took evasive action.
+
+Another flare of domain magic from Nathaniel drew her attention to his next summoning.
+
+Galdrone Tetrad – Elemental – level 120 (Arcane)
+
+Four perfect cubes of purple arcane magic orbited each other in complex patterns as the Galdrone Tetrad took off. But instead of targeting the flying elves, or Ali and Mato, it shot off with uncanny speed toward the distant figures of Calen and Malika.
+
+More mana flared, and the runes for another summoning appeared.
+
+Theuronic Crystal – Elemental – level ??? (Arcane)
+
+“This is insane,” Ali muttered, cursing inwardly at the power of Nathaniel’s raid-level domain-enhanced mana pool, allowing him unbelievable freedom to summon monsters. The Theuronic Crystal’s dense cluster of mana formations made it appear like some geometrically perfect purple quartz crystal with a deep glowing core. It instantly vanished with an arcane teleportation spell, leaving behind a shattering explosion of arcane magic that cracked Ali’s barrier and knocked her off her feet.
+
+I need to do something about him, she thought, but her minions hadn’t quite arrived yet.
+
+“Nendir, you must go all out,” Lyeneru said, the seriousness in her voice carrying easily to Ali’s ears down below.
+
+“We would destroy Ciradyl,” Nendir said.
+
+“It is already being destroyed,” Lyeneru said. As if punctuating her words, a massive detonation from the Theuronic Crystal hundreds of meters away was followed by a ground-shaking splintering crash as one of the majestic Ciradyl trees slowly toppled. Even from this distance, Ali was tossed into the air by the shockwave of its vast bulk hitting the ground.
+
+“Do you think we are sufficient to stand against the Blind Lich? Surely you have seen the power of this Avatar?”
+
+“I see it. I cannot even identify him this time,” Lyeneru said, and her mouth formed a twisted line. “But I cannot assist you; I have still not recovered my full strength. I could not even equip Lunaré’s Lament if you gave it to me. I beg you to put aside your vow and take up your bow once more. Ciradyl is dying. The Elves need your strength.”
+
+“Very well,” Nendir said, his voice wracked with grief and sadness.
+
+The bow that appeared in Nendir’s hand instantly overwhelmed Ali’s mana sight with an immense aura of nature magic that vibrated with pent-up power. When he opened fire, Ali screamed. The noise was deafening, and her mana sight burned with the most intense searing magic she had ever seen. She scrambled about on the shuddering ground trying to block her eyes, but that did nothing for her mana sight – she didn’t use eyes for that. As she fumbled about in her blindness, she felt Mato’s aura healing her, and slowly the intensity faded. She stood up to the sight of an unbelievable onslaught.
+
+“Regroup!” Lyeneru screamed, her voice somehow carrying above the noise of Nendir’s destruction. “Gather on the tree, get everyone through!” Elves that had been gathering the defenders in trickles scrambled to carry out her orders.
+
+As vision slowly returned to Ali, she found her hands resting on one of the purple crystals grown by the dungeon, pouring mana out into the surrounding area, and pushing Mato’s aura back slowly but surely.
+
+This… this is something I can do, she thought. She might not be able to attack much, but she could deconstruct anything the rogue dungeon made. Wielding her barriers widely, she deconstructed the crystal and then searched for more.
+
+Something heavy landed beside her with a ground-shaking crash, and Ali startled, looking up.
+
+“I have come, Seeker,” Tol’brekk said, bowing his head. Behind him, two Ice Mages landed, their frost familiars circling overhead.
+
+“Kill that Calhedron,” Ali said, pointing at the giant glittering arcane elemental that stood protecting Nathaniel’s dome with a continuous barrage of Arcane Bolts.
+
+“At once, Seeker,” he said, swinging both axes and leaping into action.
+
+Now, let’s see what we can do about that shield, Ali thought, cracking her knuckles as she summoned her mana. Tol’brekk and the Ice Mages would provide a fantastic diversion, and more trolls were coming. Time to shift the tide of this battle.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

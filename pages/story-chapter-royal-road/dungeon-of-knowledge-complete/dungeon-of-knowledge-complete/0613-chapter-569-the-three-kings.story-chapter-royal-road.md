@@ -1,0 +1,195 @@
+---
+id: 015ba705-62e3-5432-b024-78f99ae49150
+page-type-slug: story-chapter-royal-road
+title: "Chapter 569: The Three Kings"
+slug: 0613-chapter-569-the-three-kings
+partOf: dungeon-of-knowledge-complete
+position: 613
+ownLength: 3957
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3161907/chapter-569-the-three-kings"
+royalRoadId: "3161907"
+---
+
+“Fourth time is the charm,” Mato said, grinning at Havok and Sabri before turning toward the throne and the three enormously powerful undead guarding it. This dungeon, the Crypt of Kings, had provided some of the best fights he’d ever experienced. First, there had been Haverron, the Devastation Knight general. Then Kryostria, the Frozen Scourge, a third-tier Dracolich. And now this – the three undead kings of ancient Dal’mohra, raised as greater undead and bound to the Lich’s service. All they needed to do was kill these last three monsters, and the Blind Lich was as good as dead.
+
+“I thought you said the third time was the charm on last attempt?” Sabri asked, offering an unconvinced look, but she was bouncing on her toes while speaking a shade faster than normal, and her eyes returned again and again to the heavily armored Death Knight she had been assigned: Bragni Doomhammer.
+
+If Mato didn’t know her so well, he might have mistaken her jitters and restlessness for fear, but he could smell the excitement billowing from her in waves. Even Havok, who stood quietly nearby, triple-checking his armor and shield, had a heartbeat that thudded loudly to Mato’s ears.
+
+“Tanks ready?” Lyeneru asked.
+
+“Readwrrlgrrrrr!” Mato said, his voice warping into a growl as his body twisted and reformed. Mentally, he beckoned his Lirasian Sage over and shuffled, reacquainting himself with his heavier body and four-pawed stance. This was, in his estimation, one of the best fights he’d ever seen for tanks to distinguish themselves, and he had Havok and Sabri standing beside him.
+
+Calen, Coria, and Lyeneru stepped forward, the trio of Pathfinders advancing alone up the crimson carpet toward the Blind Lich’s dark throne. Mato turned, crossing the temple chamber and taking up his spot in the far corner, leaving his floating tree spirit hovering above the center – the designated safe zone.
+
+It had taken at least an hour and far too many tries before they had even gotten the pull right, but he didn’t count those as real attempts. The big change for this attempt would be swapping to have Lyeneru tank Thaldorien Stormshaper – a far more logical choice given she still had more damage and health than Calen, even with his celestial racial evolution.
+
+The raid would target Thaldorien for the first kill, hopefully before the Lightning Amplification stacked too high. This again was a strategic decision that made sense. Lightning damage was far harder to mitigate with skills like dodging, and Thaldorien was a mage – far more prone to resisting taunt skills. Unfortunately, that left them tanking him with only classes that could fly and had far lower health totals than the specialist tanks – taking him out first would drastically reduce the risk. Unless something tricky happened when they did, one could never rule that out.
+
+Mana rippled across the three archers as they raised their bows in unison. With near-perfect synchronization, three bowstrings were drawn, and arrows of light, fire, and nature were conjured. The three breathed together and then stilled as the power began to mount.
+
+At some unseen signal, all three bowstrings twanged at precisely the same instant, firing their arrows across the crimson carpet to zip past the throne and strike the three dark figures lurking there in the shadows. Calen’s arrow of light and Coria’s nature arrow were both drowned out by the deafening crack of thunder that shook the chamber in the wake of Lyeneru’s unrivalled Power Shot. Calen and Coria turned and fled, kiting the two Death Knight kings to opposite corners of the room, while Lyeneru took to the air, unleashing an assault so intense the carpet below her feet burst into flames from the radiant heat emitted by her bow.
+
+It took less than three seconds for Calen to cross the room, skidding to a stop beside him, but Mato simply took a few steps forward to shield his best friend from the clanking powerhouse of steel, death, and flame bearing down upon them.
+
+Artur Dragonsworn.
+
+A wave of heat preceded the fire-affinity Devastation Knight – once the human king of ancient Dal’mohra. Mato’s fur ignited, filling his nostrils with the stench of scorched hair, a welcome change from the overpowering reek of undeath that had filled this chamber from the moment they’d entered. His heavy hide began to blister and blacken, a sure sign the flame was much more than mundane, but the pain was kept manageable by the soft pulse of holy healing buffs already cast upon him and his heavy investments in endurance.
+
+His heart pounded inside his chest as he stared down the searing orbs burning crimson within the death knight’s dark helm. Artur’s great rune sword burst into flame as his blazing aura rippled forth from him, bathing half the chamber in the inferno of his presence.
+
+You have been afflicted with Fire Amplification.+1% to Fire damage taken.Duration refreshes on reapplication.Magic – Domain – Duration: 30 seconds. Count: 1.
+
+Shouts echoed through the throne room, but the raid knew the plan by now. Mato tuned them out, along with the deafening thumps and booms of Lyeneru’s arrows and the sharp crackle and crash of Thaldorien Stormshaper’s dark chain lightning. His attention narrowed until he was focused entirely on his target. The searing flame aura pulsed like a living thing all around him. His eyes tracked the path of the blazing rune blade. He studied the shifting of the heavy rune-enchanted mithril plate, studying his opponent’s moves.
+
+Then he was there. Artur was still focused entirely upon Calen, blazing eyes filled with hate and rage. The sword rose to strike as he rushed past Mato.
+
+The prickle of familiar readiness was all he needed to unleash his most potent strike. He slashed low, dragging his void-enchanted claws across Artur’s thighs, and his upgraded attack skill, Aggression of Claw and Fang, found purchase even through the dense plate armor. Supported by Bestial Combat and Brutal Restoration, his opening attack tore gashes through the armor plates, sundering them and exposing dark undead flesh beneath.
+
+Far from daunted, Artur shouted a battle cry, buffing himself and his dark blade redirected with uncanny precision, slicing down at Mato from above. Mato roared, summoning void shields that shattered under the immense impact, but served him well by bleeding off at least half the momentum of the strike. He blocked the rest, taking the remainder of the damage on his shoulder, relying on Brutal Restoration and the two healers huddled up against the wall several yards away to take care of the blood and wounds.
+
+Mato roared a challenge and secured his target’s attention.
+
+But the blade that had struck him was imbued with Artur’s flames.
+
+Your Fire Amplification has increased to 2.
+
+Two, Mato counted, as the flow of his Battle Trance settled upon his body and mind. His claws lashed out, followed by a heavy body check that forced Artur to take a step back, disrupting his next cleaving strike. The more he avoided getting hit, the slower the amplification would stack up. Calen vanished, sprinting away, leaving Mato and his healers alone with the undead king.
+
+It’s just you and me now, fire boy. Let’s see what you’ve got.
+
+Artur immediately obliged him, lashing out with a blinding strike that whistled through the air, trailing flame in a broad horizontal arc. Mato countered by using Giant Growth, swelling over twice his size and retaliating with Critical Block. The crack of the shockwave snuffed the flames for an instant, but the amplification still took the moment it rekindled. The huge dead king simply came at him again, shrugging off the damage.
+
+Your Fire Amplification has increased to 3.
+
+Good to know. Mato gave himself to the flow of combat. Strike and counterstrike. Block, parry, riposte. Artur Dragonsworn in death was a consummate swordsman – a master of the blade – and it was a shame he could not have met him in life.
+
+Your Fire Amplification has increased to 4.
+
+While Mato soared on the wings of battle, he never lost count of his debuff, nor could he really afford to lose track of the greater battle unfolding beyond. The notifications ticked constantly as every flaming strike and aura pulse pushed his amplification higher and higher. The chamber shook with the force of continuous spell use as the mages delivered blasts of power. Bloodlust was burned to get the first kill faster, before the raid died to the lightning amplification Thaldorien was putting out.
+
+Your Fire Amplification has increased to 53.
+
+“I’m at fifty-three,” Mato said, taking advantage of his Limited Telepathy tattoo to coordinate the tanks.
+
+“Tank swap!” Sabri yelled.
+
+Right on time.
+
+Moments later, a small green Goblin charged in from the side, resplendent in several thousand gold’s worth of Thuli’s finest craftsmanship. The Holy Avenger shortsword bit into Artur’s flank, skillfully avoiding his guard, while Havok taunted – and Taunted – the undead death knight.
+
+Your Fire Amplification has increased to 54.
+
+“Attack Havok! Stupid dead!” he yelled, a personal touch to his actual Taunt skill delivered with a blazing Holy Shield smash. “Thank damage!”
+
+Crap, I forgot that! Mato summoned his void shields and switched to fully defensive fighting while they managed the switch, but Havok knew his job. Moments later, Artur spun in an eerily fluid blur of movement, slamming his sword down upon Havok’s ready shield with a crash that detonated in a flame burst that spat viciously into Mato’s face even as he retreated.
+
+Your Fire Amplification has increased to 55.
+
+That was all the signal Mato needed. Free from his target, he charged across the room, followed by his dedicated healers who were by now also sporting unreasonably large amounts of Fire Amplification. It was a long way from one end to the far corner on the opposite side.
+
+But it had been necessary. They’d learned in the first pull that Bragni Doomhammer could heal. Heal the undead, if that could be believed. Ali had a theory, of course, but Mato had only needed to know the range.
+
+Mato roared as he crashed into the heavy-set Dwarven Death Knight, once the battle-cleric king of the underground city. He Swiped immediately, drawing a spray of black ichor through the shining golden plate armor, but Bragni Doomhammer stubbornly kept attacking Sabri. He roared a challenge, to no avail.
+
+“Resisted,” Sabri announced, for the benefit of the healers. But then, she showed the skills she always brought to every fight. She backed away along the wall, drawing the Dwarven Death Knight with her, and the instant he moved away from Mato, he felt that prickle of readiness again. Mato lunged forward and bit down on the back of his heel, his void fangs piercing through armor like butter, and burned his Savage Bite recharge, dealing critical damage on top of the power of his Battlemaster retaliation. A nova of green burst forth, healing himself, Sabri, and their healers while the familiar gnarled roots sprang forth from the stone, winding themselves around the sundered Dwarven armor. Sabri backed up again, out of range, and Bragni Doomhammer spun about, lashing out and striking him on the shoulder with the bone-crushing force of his hammer. A brilliant flash was followed by the uneasy sense of smite damage that came with the lingering aftertaste of death.
+
+Ugh. Pfuagh! Even his holy damage was tainted somehow.
+
+You have been afflicted with Holy Amplification.
+
+“Thanks,” Sabri said, rushing off to the center of the room – the small zone that avoided all three auras – to let her amplification expire.
+
+At least he doesn’t hit quite as hard, Mato mused, putting up fresh void shields and cornering Bragni against the stone wall. Right, time to turn damage into honor!
+
+Mirianth chirped her annoyance as the dark aura of lightning sparked painfully, but she still dutifully cued up a Greater Heal aimed at Lyeneru. Riding within her brave priest’s awareness, Ali winced in sympathetic pain.
+
+Your Lightning Amplification has reached 12.
+
+Ali ignored the message, focusing instead on her kobold’s Healer’s Sight and the fluctuating health of the whole raid. Tough battle. Their whole strategy was balanced on a knife’s edge. Too many points of failure, too many complexities. She frowned as a huge bolt of dark lightning burst forth from Thaldorien Stormshaper’s translucent fingers, making Lyeneru jerk spasmodically before arcing off into several other poorly positioned people.
+
+“Flynn, move back two paces,” Ali instructed.
+
+Her Greater Heal rose within her like a warm summer breeze, and a burst of holy mana billowed out from her taloned claws. Lyeneru lit up with a flash, and suddenly her health was back to nearly full. Ali distributed a few Restorations and puddles of consecration among the group and backed out of the Lightning Aura to give her amplification a chance to expire. Fortunately, she was still close enough to keep healing the perimeter of the ranged damage dealers.
+
+She threw out a few more heals, studying the fight closely and integrating what her kobold priest saw with the extraordinary array of demonic, troll, and celestial eyes at the back, and the obscure perceptions sensed from her arcane elemental. It may not be her own Arcane Insight, but she was familiar with the broad array they brought. The amplification and the aura of lightning were both clearly domain magic, but Thaldorien was supposed to be a champion boss.
+
+It's the dark lightning, she suddenly realized. While she had never witnessed him in combat while he was alive, she was absolutely certain the dark lightning would have been widely known if he had possessed it in life – it was uncanny and bore a magical resemblance to the domain of the Crypt of Kings that could not be mistaken.
+
+A lightning mastery skill amplification? The aura itself, the chain lightning, and even the lightning novas continually ripping into the melee – all of them possessed the particular trait she had just intuited. She studied Thaldorien closer, trying to unravel the remaining clues.
+
+It’s not just the domain mana. There was something more, and it was tied to the puzzle of how the Lich had summoned three champion-ranked monsters in the same area. Thaldorien’s remarkable lightning affinity had not survived his raising to undeath unscathed. It had been tainted somehow by death.
+
+She glanced back toward the far corner. Surprisingly, her greatest clue had come from the opposite side of the room – from Bragni Doomhammer. The Dwarven king had once been a holy cleric, most comfortable in heavy plate armor, waving his hammer in the thick of a furious melee. He still identified to her main senses as possessing a holy affinity, but that would not have been enough to explain his ability to heal Death Knights and Wraiths.
+
+It was an incontrovertible truth – the dead were highly allergic to holy mana. Yet, standing before her very eyes was the exception to the rule. The massive hammer came down heavily upon Havok’s Holy Shield, and by contrast, the difference between their magic was stark.
+
+Seth and most of Ali’s demonic minions identified the Dwarven King’s affinity as death, not holy. All of the formations of the spells he used matched the familiar shapes of holy magic, but there was a dark taint to the magic that couldn’t easily be explained. His holy affinity had been changed, twisted by the Blind Lich, and Ali was now convinced he possessed a unique affinity – a hitherto undocumented corruption of holy magic.
+
+Fortunately, she had learned to take advantage of it. She directed Mirianth, and the diminutive kobold scampered into the aura and waved her claws to create several pools of holy consecration beneath the Dwarven Death Knight and his tank. Bragni did not curse himself with Holy Amplification, but her magic was strong against the undead. However, the amplification would benefit all of their group standing in her pools of white fire.
+
+You have been afflicted with Holy Amplification.
+
+Suddenly, Thaldorien’s shade rose into the air, bursting short-range lightning in spherical pulses around him before unleashing a potent chain lightning into the suddenly scrambling archers and mages. Ali chirped in alarm and darted back into the arcing lightning, heals flying, while she retrieved a mana potion from a storage ring and guzzled it. Fortunately, she’d been outside the aura of dark lightning long enough to reset her debuff, and when it struck again, it was back to a single count.
+
+You have been afflicted with Lightning Amplification.
+
+Ali frowned at the Thaldorien’s sudden flight, but there was nothing for it other than to pull her melee back from the epicenter before they were overwhelmed by the growing lightning amplification and novas. It was not even unexpected; he had demonstrated this maneuver in previous attempts, but it was just seemingly at random. It also made her pools of consecration worthless against him. Instead of having her melee minions stand around doing nothing, she sent them running off to attack Artur Dragonsworn. They would pick up fire amplification in his aura, but the time away from Thaldorien’s lightning would allow the lightning amplification to drop.
+
+“Tank swap!” Sabri yelled, initiating another rotation of the three main tanks by rushing in to relieve Mato on Artur Dragonsworn before their amplification debuffs climbed into dangerous territory. In good order, Mato peeled off and relieved Havok, while the plucky Goblin darted across the increasingly scorched crimson carpets and settled in at the safe zone in the middle to allow his holy amplification to fade. Before it did, Ali channeled her domain skill, Zone of Destruction, refreshing the holy puddle in the safe zone so that Havok and his dedicated healers could take advantage of it while they waited.
+
+At least Artur can’t heal like Bragni, Ali thought, glancing back at the towering form of Artur Dragonsworn bashing his massive rune-inscribed sword against Sabri’s burnished mithril shield. Of course, the tanks were keeping those two so far apart that they couldn’t assist each other – it was the first strategic element Calen had suggested. Following her lead, most of the assassins, rogues, and warriors in the guild rushed off to do some effective damage, which would allow their lightning amplification to drop – in exchange for fire.
+
+As long as we keep rotating out, this should work, Ali thought, but as her eyes returned to Thaldorien, she noted they had a significant problem. Lyeneru was taking the brunt of Thaldorien’s lightning bolts, and, on top of the aura pulses, her amplification was already more than double what most people had. There was no way for her to duck out of range while he was focused primarily on her.
+
+Ali focused more intently. Initially, healing the Night Elf hadn’t been much of an issue; Lyeneru sported a lightning affinity herself, and she had excellent resistances – one of the major factors in choosing her as the tank – but now, she was losing more than half her life every time a lightning bolt landed. A shattering bolt blasted through her, and Ali landed a Greater Heal, bringing her back to a safe level while many of the ranged damage dealers began rotating out of the aura in an effort to stem the escalating aura damage.
+
+Your Lightning Amplification has increased to 2.
+
+“We’re going to have to switch,” Ali said, as realization crystallized into certainty. The last attempt hadn’t gotten nearly this far, and they hadn’t properly understood the amount of time they would lose splitting damage across the other bosses while shedding amplification stacks, so they hadn’t made an effective plan for this contingency. To be honest, Ali had been hoping they would have Thaldorien down by now, but the intangible wraith was far more resilient to damage than she had expected.
+
+“Count?” Calen asked.
+
+“Sixty-five,” Lyeneru ground out through gritted teeth, firing off a great lance of flame from her bow. Ali had been clipped by that jangling lightning several times and had immense respect for the resilience the Pathfinder was displaying by taking bolt after bolt without faltering.
+
+“Shit,” Calen said. “I could try to take him off you… maybe?”
+
+“It’s that or bail in the next few minutes,” Lyeneru said.
+
+Ali glanced at Thaldorien through Healer’s Sight. “Almost sixty percent health left,” she said. It was their best effort by far, but with that much left, there was no way Lyeneru could survive long enough to bring him down. They needed to swap tanks, but none of the archers had a Taunt. Not even her Soul Archon. Worse, Thaldorien was a mage, and his wisdom was so high that landing a Taunt was likely to be impossible.
+
+Wait… Quickly, she checked her other minions. The Fractured Archon did not have the skill, but her Divine Archon had something that should work – and almost as importantly, she could fly.
+
+“I can sort of taunt him off you,” Ali called, the syllables of the common speech twisting strangely across her reptilian tongue. “I think.”
+
+“Do it,” Lyeneru gasped.
+
+The Divine Archon’s taunt was not a single-use ability like some of the warriors, or even Mato with his distinctive Challenging Roar. Instead, it was more of a progressive ability on her Holy Smite ability – a way to drastically increase the perceived threat of any holy damage from the support skill. Something that should be even more effective against the undead. More importantly, she had other advantages to bring to bear.
+
+With a thought, Ali recalled her Divine Archon from Artur Dragonsworn, shooting across the chamber on glowing holy wings. She rushed in at great speed, triggering her Holy Vulnerability aura, Holy Smite, and impaled Thaldorien with a dizzying rush that blasted the wraith with a bolt of pure holy flame. She swung her sword, imbuing it with the same Holy Smite, burning her mana aggressively to generate as much damage as possible, and then she unleashed her Heal offensively against the undead monster. A cleave and a pillar of consecrated holy flame, and she had made her presence known to the Wraith. More importantly, as Thaldorien howled with rage at the holy assault, Ali invaded his personal space with a Holy Avenger and broad shoulders. The thunderous bolt of lightning struck the Divine Archon squarely in the chest, but Ali was already casting her heal from the back.
+
+More importantly, Lyeneru was spared from the damage.
+
+“Got him,” Ali said, using her kobold’s voice. “Get rid of that amplification. Just keep on that line so I can block the lightning.”
+
+“I’ll take him back after it drops,” Lyeneru declared, vanishing in a burst of lightning and flame as she teleported across the throne room to the safe zone in the center.
+
+“Inspired thinking, Ali,” Calen called over. “Physically blocking the attacks and the boss. Nice.”
+
+“I didn’t have any better ideas,” she said. Then she added, “Calen. We need to kill them soon.”
+
+He glanced at her, his radiant eyes narrowing with concern. “The Lich?”
+
+“He’s strong. I’m not sure how long I can hold him off.”
+
+“Right,” Calen said. Then he raised his voice, “Alright, everyone! Put your backs into it!”
+
+Ali scanned the chamber with her minions’ eyes. Where is it? Everyone was putting their lives on the line, executing a perfect dance that brooked no mistakes, and yet… she still had no idea where the Blind Lich had hidden his Phylactery. All they had was Calen’s assurance that it had been here when he and Devan had briefly snuck in so long ago.
+
+Is it even here? Did he sniff us out and move it? Have we made a terrible mistake? No… it must be here!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

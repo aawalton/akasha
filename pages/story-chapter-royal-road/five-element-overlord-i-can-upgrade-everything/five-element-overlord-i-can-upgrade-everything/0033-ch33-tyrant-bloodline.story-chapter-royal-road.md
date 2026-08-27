@@ -1,0 +1,121 @@
+---
+id: ad9fe189-40fb-5831-bd07-9038c82d0290
+page-type-slug: story-chapter-royal-road
+title: "Ch33 Tyrant Bloodline"
+slug: 0033-ch33-tyrant-bloodline
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 33
+ownLength: 1610
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3278855/ch33-tyrant-bloodline"
+royalRoadId: "3278855"
+---
+
+As the flying vessel touches down, and about a third of the stewards including myself walk down the ladder, Gu Shan calls out.
+
+“I hope you all found what you hoped to purchase. I do not plan on revisiting the market until after my next outing for servant collection. So, make do with what you have for a few weeks.”
+
+After pulling up the ladder, the ship starts to fly away.
+
+With itching hands, I start walking back toward the cultivation caves, but stop in place as an eerie but familiar killing intent ripples through the air.
+
+My vision turns a light shade of purple, and when I look upward to the sky, the beautiful blue has turned to a dark violet hue.
+
+An energy manifestation erupts from the servant camps, towering over the forest, letting out an ancient sounding screech.
+
+Everyone around me is frozen in fear. My pupils constrict, not out of the same emotion, but from the realization of where this is coming from, and who must be triggering such a celestial event. I turn around and bolt through the forest, running the 8-kilometer dirt path faster than I ever have before.
+
+The flying vessel in the air shifts its direction, heading straight toward the Alchemy Peak of the Outer Sect rather than stopping by the other steward quarters. Gu Shan has decided to report this sighting rather than check it out himself.
+
+A small spark of relief forms in my heart, but my feet move even faster as I make my way through the servant camps.
+
+The enormous purple manifestation of an armored woman calling out to the sky fades a few seconds after it forms, but other strange and foreign black and white forces of energy collide and spin together.
+
+The waves of energy and light even seep deep underground.
+
+It is like a declaration of existence, calling out to the heavens to state that something ancient and unyielding has returned.
+
+By the time I find Xu Hong’s hut, the extravagant light show in the sky has subsided.
+
+The entire forest for over 25 kilometers in every direction is no longer plunged in a deep purple hue.
+
+It has completely disappeared, allowing the blue sky to return.
+
+Yet, when I get within a hundred meters of her thatched hut, a sharp killing intent holds me back from stepping forward any further.
+
+It hurts my bones like they’re aching under the pressure of immense gravity and feels like hundreds of daggers are pressed against my skin.
+
+I completely deactivate my concealment art and let out the full aura of my 2nd level of qi refining, but only manage to get a few paces closer.
+
+My inner thoughts sift through my storage space for a few seconds, and I pull out a small black stack of defensive talismans.
+
+I tear one off, pour qi into it, and place it against my chest.
+
+The paper ripples, and a nearly invisible black aura surrounds me. I can feel a mental timer of about thirty seconds ticking down, but at the same time, the pressure pushing on me subsides.
+
+I run forward, now with only a mild sharpness and pinpricks pressing down on me.
+
+When I get close enough to open up the door of her hut, I see Xu Hong in a seated position on her bed, but the woman looks awful.
+
+Her muscles look half the size they usually are, her face is sunken in, and all of the scars covering her body pulse with an eerie white and purple glow. There seem to be thin black fractures in the air all around the outside of her body. It looks like an illusion, but an invisible weight pushes down on my mind, making me believe it to be real.
+
+I cannot sense any of these strange phenomena, but I can sense every wisp of qi in the air being pulled in toward her, and my automatic system scans illuminate the issue even further.
+
+[Automatic Inspect Function Activated…][Xu Hong] [Age: 20][1st Level Qi Refiner][Wood, Earth, and Metal Spiritual Roots][8th Grade][Martial Warrior Acquired Physique][Initial Stage - Mortal Grade][Void Tyrant’s Innate Physique][Initial Stage - Noble Grade][Is currently absorbing the Void Tyrant’s Inheritance, obtaining lost scriptures from her bloodline’s ancestors. Due to insufficient qi post-breakthrough, she will die within five minutes.]
+
+She does not even look up. Her eyes are tightly shut, and she is rapidly decreasing in size like some force deep within her is eating away at her body for sustenance. The black fractures in the air grow larger, bending my perception into strange mirror-like dark angles.
+
+I grit my teeth and pull out a spirit stone from my storage.
+
+The instant it touches the hostile purple atmosphere we’re in, the white stone disintegrates in my hand and is pulled toward her.
+
+All of her scars pulse with light again, and a flicker of hope returns to her emaciated face.
+
+One eye opens, and she sees me standing across the room. In just a matter of seconds, she yells out in agony as her qi infused flesh is devoured from the inside once again.
+
+I pull out ten spirit stones and watch as they dissolve to dust, and the gaseous qi swirls around the room like a vortex, flooding into her body nonstop. Another black defensive talisman is torn out of my new stack and activated once more before I decide to pull out over a hundred spirit stones, piling them all before her on the bed.
+
+An explosion of ferocity bursts out in her aura, even breaking through this mid-tier talisman’s defenses. It almost forces me to drop to my knees, but I stay standing through the pain and tightness squeezing me. I think about upgrading one of them to a perfected 1st tier defensive item on the spot, but decide against it once the killing intent recedes.
+
+I start to feel Xu Hong’s will within it and see the massive pile of white stones dissolve entirely over the next half a minute. The strange black fractured air around her seals up on itself, and disappears like it was never there.
+
+The woman’s face fills in with a rosier hue again, and her tiny, frail arms fill back up with strong muscles. Even the scars covering her body stop glowing.
+
+A groan of pleasure and relief escapes her lips as she falls backward onto the bed, and the suction force draining the spirit stones from within her is controlled.
+
+There are not even a dozen stones left on the bed.
+
+My defensive talisman wears off, but the room is no longer suffocating me in its killing intent.
+
+Instead, the aura of a 1st level qi refiner, already in the mid-stage of the level, emanates throughout this small hut.
+
+I pull out a stack of concealment talismans next, nervous about who might show up from the Outer Sect for an investigation. I can’t teach her my concealment art, but I can hide her for the time being.
+
+Just as I’m about to tear off a grey sheet and activate it, my eyes widen.
+
+A shimmering purple glow ripples through her scars, then in the next instant, the entirety of her cultivation aura disappears.
+
+Xu Hong appears as nothing more than a Martial Warrior to me as she sits up on the bed with an exhausted, yet endearing expression on her normally dull or angry face.
+
+Even though her scars have stopped pulsing, her eyes glow with a faint purple hue. They’re filled with far more depth than they ever were before. I don’t know exactly what absorbing an inheritance entails, but it was certainly significant…
+
+All of my instincts are screaming at me to leave this hut.
+
+Despite being a lower level of cultivation than me, the purple pressure she let off intimidated me over 100 meters away. It was not exactly the same dissonant celestial force in the sky, but that energy is still residing within her and feels like it could be unleashed at any moment… All signs of its presence dissipates once the glow in her eyes fades, her abilities are hidden from my natural senses.
+
+One fact is clear: Xu Hong is stronger than me now.
+
+I do not know how she’ll react to this new shift in the power balance, but I decide to make the first move.
+
+“I said I’d help you get to the 1st level of qi refining in exchange for helping me become a steward… though, I never planned on saving your life with over a hundred spirit stones. You’ve nearly depleted my whole savings.”
+
+A faint smile shows on her face. “Considering you even managed to get within such a close distance, and figured out what was wrong with me so quickly… I doubt you’re as simple as a man with only a hundred spirit stones.”
+
+Her gaze tightens. “You did save me though. What is it you want?”
+
+I sigh with relief and turn to the door. “I’ll need your help finding something soon. For now, make sure no one knows of your bloodline awakening. It appears some kind of advanced concealment skill was inherited, so do not deactivate it, even when you believe no one is around. I bet half the Outer Sect knows of the purple-armored warrior woman in the sky by now, and they will certainly be looking around here.”
+
+Her eyes widen at my words subtly mentioning part of her unmentioned secrets, but she only nods.
+
+In the next moment, I activate my Illusory Demon’s Concealment Art and drop my perceived cultivation down to the 1st level again, then walk out her hut’s front door.

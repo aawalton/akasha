@@ -1,0 +1,163 @@
+---
+id: 23c2bdb4-c14e-532a-8f64-f3545a6fc1ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 435: A Chance Encounter, A Door Opens"
+slug: 0472-chapter-435-a-chance-encounter-a-door-opens
+partOf: dungeon-of-knowledge-complete
+position: 472
+ownLength: 3150
+unit: words
+ownProgress: 3150
+publishedAt: 2025-11-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2745803/chapter-435-a-chance-encounter-a-door-opens"
+royalRoadId: "2745803"
+markedReadAt: "2026-06-29T20:28:11.703Z"
+---
+
+Gromm pushed open the squeaky door and entered the dimly lit tavern, his sensitive nose immediately catching the scent of slightly stale ale and generally unwashed human bodies overlaid upon the backdrop of weapon oil and leather.
+
+There were only a few patrons at this hour, but even so, several of them glanced up, scowling as they caught sight of him, but they quickly returned to the contemplation of their ale or conversations when he met their gazes. Human towns were always like this. It was worse than normal, here – Volle had once been a relatively prosperous town, but the brutal dungeon break from below ground had decimated it. Even here, the back wall of the tavern was a sheet of oiled canvas stretched over a gaping hole, and the rest of the town resembled a disorganized military camp with all the mercenaries and adventurers attracted to the disaster.
+
+Carrion birds, the lot of them. Little to like here.
+
+He picked an empty table in a darker corner, pushing his way through the smoky atmosphere, leaving swirling eddies in his wake as the floorboards creaked ominously under his weight. He sat, and to his surprise, the serving girl, a Beastkin, showed up immediately with an actual smile for him.
+
+“What’ll it be, big guy?”
+
+“Ale, please,” he said.
+
+“Right away,” she replied, turning and sauntering away with the obvious, exaggerated hip-sway of a waitress flirting for tips. He turned his gaze away. Waitresses and some merchants were about the only people who were nice to him in the human towns and cities, mostly because they could see the quality of his gear and knew he had some coin.
+
+His gaze snapped up; the waitress forgotten in an instant as the tavern door slammed open again.
+
+Crusaders! If the white tabards with the orange sun of Helios were not ostentatious enough, both swaggered in displaying matching swords sheathed at their hips, and wearing the signature burnished steel armor, polished to a shine.
+
+They instantly glared at him as soon as they caught sight of him sitting in his corner, and he reached for his greataxe at the top of his storage enchantment while using Identify on them.
+
+Paladin – Human – level 68.Paladin – Human – level 73.
+
+Neither was quite his level, however, taking both together would be quite problematic. Crusaders could heal, and they were usually stubborn.
+
+“Welcome, gentlemen,” the waitress said brightly, sashaying past them while carrying a full tankard larger than her head. “Please have a seat anywhere you like, I’ll be right with you.”
+
+“Two ales, and keep them coming,” the taller one said, and, with just a parting glare, both Crusaders took a seat on the other side of the room.
+
+Gromm relaxed a little. It seemed like the pair were more interested in the day’s gossip and the prospect of ale than in picking a fight. But that meant his time here was limited – Crusaders did not easily tolerate monster races, and a lone Orc like him was an easy target. Nobody would leap to his aid if a fight broke out. He gave it no more than three ales before they decided to ‘cleanse’ the tavern ‘in the name of Helios.’
+
+He sighed. “Thanks,” he said, glancing at the waitress as she set his ale down, but he kept a healthy portion of his attention on the two Crusaders, just in case.
+
+“What do you make of the Cardinal’s thoughts?”
+
+Although they were on the opposite side of the tavern, it wasn’t particularly busy, and their conversation came clearly to his sensitive ears.
+
+“The rumors of the new god?”
+
+“Yes.”
+
+“Well, if it really is Azryet, then he’s right. The combat and battle focus will conflict with the war domain of Helios.”
+
+“That will be a problem for us if it gets out of hand.”
+
+The second Crusader just laughed as the two of them accepted their ales. “Don’t be stupid, Darran, some new upstart godling cannot possibly threaten the might of Helios.”
+
+“You’re right. But the Cardinal said their church is supposedly run by a Goblin. A paladin in the border town of Myrin’s Keep.”
+
+“A Goblin?” The crusader spat on the ground. “Perhaps we should go and cleanse this infection after we’re done here?”
+
+“Mmhm,” the other agreed, wiping spilled ale from his beard.
+
+Azryet? Gromm thought. The name wasn’t familiar to him, but the ramblings of the two Crusaders bent on getting themselves drunk had certainly piqued his interest. He had never taken a godly patronage; none of the gods his tribe preferred had ever really resonated with him while growing up. He was simply not that interested in gluttony or indiscriminate destruction, but a god with a battle or combat domain might be exactly what he had been looking for.
+
+At least, a god that was willing to take a Goblin as a Paladin sounded perfect. He never really got along with Goblins, but they were also considered monster races, and therefore unwelcome to many of the churches of gods popular among the elves and humans. Certainly, if this Azryet sat opposed to the self-righteous bigotry common among the followers of Helios, he might be tempted.
+
+Myrin’s Keep? he mused. It was not all that far from Vertias for someone with his stamina, and the monster incursion had pretty much died out now. Certainly, with these Crusaders showing up, there would be no more experience to be earned here, and the mercenary guild could wait a week or two for him to return.
+
+Unhurriedly, he finished his ale, even enjoying the slightly stale flavor, while he turned the idea over in his head. By the time he was done and the Crusaders were ordering their third round, he had made his decision. Carefully, he counted out his coins onto the table, leaving a nice tip for the waitress, and then rose to his feet.
+
+It can’t hurt to check it out before these two idiots are drunk enough to need their skulls cracked.
+
+Ali groaned and turned over, but sleep fled, driven away by the constant, unrelenting dungeon rage that stabbed painfully into the back of her mind, a thousand daggers forever twisting.
+
+She opened her eyes after a few minutes of fitful twisting and squirming, only after she finally admitted she would not fall asleep again, and she sat up and crawled out of the tiny tent that had reassumed its place as her little home after her dungeon had been destroyed.
+
+Emerging from the cozy warmth of her tent, she let the flap fall back and took a deep breath of the bracing, icy air in the pre-dawn darkness, watching as her outbreath steamed against a backdrop of frosty ground. Silence reigned over the refugee camp. In the distance, she could still hear muffled roars and crashes of combat and feel the various engagements throughout her dungeon – but after reclaiming the surface of Myrin’s Keep from the Sylvan Archer and extending her domain through the sewers and the Fungaloth Ravager’s domain, incursions up here near the sleeping townsfolk had all but vanished. Perhaps she could even remove the barriers now, but they cost nothing to maintain.
+
+A healthy dungeon being a paranoid one. She really needed to work on her defenses.
+
+“Morning, Ali,” Malika said. She was sitting out in front of her tent, legs crossed, hands resting relaxed in her lap. She hadn’t even bothered opening her eyes. “Can’t sleep, still?”
+
+“Hi, Malika,” she said, greeting her friend with a smile, knowing Malika could see it, even though her voice was tired. “Yes, the dungeon rage makes it hard to relax.” Since even before returning from the Abyssal Realm, she had been subjected to the constant agony of domain destruction, both from the Lair of the Demon God and, more recently, the Blooming Rot. Without Azryet and his brutal instruction, she was certain she would have been permanently incapacitated, or worse, driven mad from the pain, blindly throwing everything she had at the source, like a feral dungeon breaking. How does he do it? she wondered. Almost certainly, Azryet had endured unimaginably more of this for thousands of years without respite. How he was not driven insane was beyond her, and now, with her personal experience and lack of sleep, she was a little more inclined to forgive his initial hostility. Even I’m getting grumpy. She made a mental note to ask him, next time she saw him, how he slept with the continual pain.
+
+“Any brilliant ideas?” Malika asked, finally opening her eyes and turning toward her.
+
+“Nothing yet,” Ali admitted ruefully. Three days had passed since they had killed the Fungaloth Ravager and engaged with the thing that wore Lira’s dead body like a mask, but they had made almost no progress whatsoever. And it was not for lack of trying. They had switched up the group composition, brought more tanks, and attempted to kite the trees. Various potions or gear choices were tested, but nothing seemed to work. As soon as the tanks hit the giant treants, they were teleported away, and the monsters lost all interest in them, charging down the healers and sending everyone fleeing. In fact, the single breakthrough they had made had happened when Teagan had hit one of the treants trying to crush her, and had been teleported away herself – and the treant had finally lost interest in her, too. Since that moment, all the healers brought maces or wands to attack any angry treants intent on smashing them to pulp.
+
+But it was a terrifyingly risky strategy, and there had been several close calls, and since then, Vivian had banned any further attempts until they figured out something safer.
+
+Ali got up and stretched, feeling the kinks in her spine popping as she eased some of the tense muscles from her unrestful night’s sleep. “I think I’m going to take care of some chores,” she said.
+
+“Need a hand?”
+
+“Sorry, not for this. Thanks.”
+
+“Be safe,” Malika said, settling herself and closing her eyes once more.
+
+Ali split her awareness, spreading her consciousness through the full extent of her domain. She followed the structure of the woven nature and arcane, tasting the scents of the other affinities she had woven into her dungeon. It was a strange sense, feeling the texture and structure of mana, but filled with a richness of experience that could only distantly be approximated by the mundane senses. She was the nature and arcane affinities, filled with the promise of growth and the crackling energy of knowledge. She experienced the death and rot that filled so much of her domain, pouring forth from the captured fungal creep and twisted trees she hadn’t yet replaced. She filled herself with the soul-affinity beacons bursting up and out of the giant Ciradyl trees as she swelled, expanding not just her awareness but her whole self to fill the full extent of her domain.
+
+Her domain had been weak against the Blooming Rot’s ravenous consumption, but she had new tools now. Domain Architect kept it at bay along all the conflicting borders, but there were more advantages she had. In just a few minutes, she summoned a small army of Spore Spreaders and sent them off into the Spirit Realm with a witch doctor minder and instructions to reinforce her domain from the other side of the veil with Ghost Mushrooms. It would give her dungeon some much-needed robustness in case of a future attack – she couldn’t imagine many invading dungeons possessed the Adaptable Mana advancement she did, and thus the Spirit Realm would be beyond their reach. It would keep her domain alive even if the normal realm was wiped out.
+
+Yep. There goes the paranoia. Call it learning from the past.
+
+With the presence of her mind, she flexed her domain, deconstructing all the discarded trash throughout the entire refugee encampment, disposing of the rotting Fungaloth corpses dotting the fields beneath her trees, and shot downward into the Forest Cavern. Here, she disposed of the half-disintegrated pile of monsters her dragon had killed defending the shrine, and further down she plunged, cleaning up after her Carnage Berserker on the second level of the ruins, the dragon in the jungle, and then the charred remains of plants in the Landing.
+
+When she reached the rift chamber, she was surprised to see how many demon corpses littered the frozen ground, but she had expected her Devouring Consumption on the other side to be sloppy. She popped through into the Abyssal Realm, of course finding the Devouring Consumption hanging from the roof in a pristine chamber after having eaten everything it killed, but her Spirit Walker witch doctor boss had quite a large trophy collection stashed in the spirit realm. She quickly deconstructed it all and gave him a few Spore Spreaders of his own.
+
+Then she teleported onward, making the rounds and visiting each boss. She collected the piles of essences that some of them had collected in the storage rings she had given them, and whatever was still left lying on the ground. At each stop, she tweaked their areas, removing fungal creep and replacing it with more optimal biome plants: peacebloom for her witch doctor, flame lashers and some of the Abyssal Realm hellfire-attuned plants for Maalgaroth. Chunks of floating voidstone near her dragons, and ice orchids to decorate Mok’freja’s rift chamber.
+
+All the while, her mind picked at the problem of the treants. She summoned more support monsters, even promoting a few of them to Elite and deploying them to shore up some chokepoints and further contain the constant waves of dungeon break monsters spewed out from the Library and Lira’s Forest.
+
+We need to solve the Tree Stride problem, she thought. Without a functional answer to the disruptive domain magic, there would be no way forward. But she had already tried everything she could think of. Disrupting a domain magic construct was incredibly difficult, and she hadn’t achieved success there yet. Even so, she would only be able to disrupt a single treant, and she wasn’t even certain the increase in recharge would affect a triggered ability like that. She had exhaustively tried every single skill she could summon and bring to the fight, but everything that did damage to the treants triggered Tree Stride. Even curses – she had brought a hellfire-affinity Eye of Agnor to the fight, and Explosive Conflagration had simply resulted in thirty seconds of cascaded chained teleports for her demon that had thoroughly disoriented her through her shared senses with it.
+
+Ali returned to the refugee camp out in the forest right as dawn began to break. The dappled light spread softly over a slowly waking town, and finally she managed to relax a little. It was beautiful out here in the forest, and she understood why Lira had loved it so much. Even though she was still fending off the dungeon rage, her domain had pockets of normalcy amid the sea of rot and fungal creep she had acquired, and it was slowly beginning to feel like home once more. Not to mention, constantly being forced to hear that thing speaking in Lira’s voice, copying her mannerisms had been weighing heavily on her heart, and taking a bit of a break had been good for her.
+
+Ali teleported, switching with one of her tiny golden glitter dragonets, appearing in the center of Weldin’s shop out in the forest. It was one of the nicer benefits of having her domain expanded through the entirety of the town encampment. She could teleport directly from the Abyssal Realm to the store if she wanted. As expected, Weldin was already up, setting out his wares for the day, carefully laying them upon the tables she had sculpted for him.
+
+“Hi, Weldin,” she said, startling the Gnome. But to his credit, he hid it well.
+
+Merchant – Gnome – level 93 (Space).
+
+“Top o’ the morning to you, Aliandra. You’re up early.”
+
+“So are you,” she said, smiling at him. “I brought you today’s haul.” She unloaded all the essences she had collected with her rounds – not quite as large as it had once been, but she took that as a good sign – there were fewer dungeon break monsters now that the Blooming Rot had been contained to the library and Lira’s cavern.
+
+It looked like he had been progressing quite nicely, and she would soon need to unlock the shrine for him. He was the only space-affinity mage in the guild, and she had to admit she was curious to see what he might unlock.
+
+“Thank you,” he said, getting out a large leather-bound ledger to note all the items and their appraisal in a chapter titled ‘Aliandra Amariel’. It seemed to be quite a large chapter. “These rot essences have been quite in demand in the last few days. I bet Morwynne and Eliyen are going to be happy.”
+
+“Do you think your skills might be useful in preventing that teleport?” she asked. “Perhaps after your evolution?”
+
+“I can’t rule it out,” he said, raising the eyebrow not covered by his eye patch. “But a Porter’s skills seem to be focused more on non-combat applications. Storage and Town Portal seem to be the flavor.”
+
+“That’s fair,” she said. It was true, classes tended to offer skills in a theme. His class seemed to be about storing lots of items – his storage enchant was now two orders of magnitude larger than any ring she had ever seen – and moving large groups of people using the Town Portal Gate magic.
+
+She had had a lot of opportunities over the last few days to study his magic – and she had found remarkable similarities between what he did, and what she could do with her Gates. The main difference being his did not require a circle of stone or metal upon which to inscribe the runes, and he powered his with vastly less mana.
+
+His spell is much more similar to Cael’s portals, she thought, recalling how Cael’s magic had been overpowered simply because it needed to punch through his domain-wide teleportation suppression, and when she had destroyed that, his magic had required far less mana…
+
+Wait…
+
+Teleportation Suppression.
+
+She stopped, suddenly stunned as the memory of that dungeon-spanning runic formation crashed into her mind. How could I have forgotten? If she needed to overcome a teleportation spell, what better way than to consult with a space dungeon that had survived for thousands of years against a shadow rift with nothing more than a suppression spell. Her mind exploded with possibilities – if anyone could tell her how to defeat the triggered Tree Stride, it would be Cael.
+
+“Sorry, Weldin,” she yelped. “I gotta run! Fly! Teleport – whatever!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

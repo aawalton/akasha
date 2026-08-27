@@ -1,0 +1,131 @@
+---
+id: 6b765629-3a7a-5a8f-806d-1c7c21238c24
+page-type-slug: story-chapter-royal-road
+title: "Interlude: The Emperor"
+slug: 0089-interlude-the-emperor
+partOf: flesh-eater-demon-evolution-litrpg
+position: 89
+ownLength: 2090
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3465204/interlude-the-emperor"
+royalRoadId: "3465204"
+---
+
+High Mage Dorian took a deep breath. He rolled his shoulders back, squaring them, and did his best to hide his unease. In front of him, the massive double-doors leading to the throne room loomed.
+
+He’d already waited out here too long. The two guards flanking either side of the doors didn’t say anything, faces hidden behind their silver helmets, but he knew he had to get a move on soon. No one wanted to keep the Emperor waiting. He liked to imagine that the guards were watching him with some sympathy.
+
+Schooling his expression one final time, the necromancer straightened and pressed a hand against the doors.
+
+The moment he touched them, silver light fanned out from the point of contact. The glow traced along the detailed patterns engraved into the gleaming black stone, steadily illuminating the entire surface. When the light was bright enough to hurt, the doors slowly began to swing open. There was no going back now.
+
+Dorian had been in the throne room before, but that did little to soothe his nerves now. The room itself was massive, with a high, arching ceiling and tall black pillars lining the sides. A long, plush maroon carpet led to the dais, while a row of guards flanked both walls.
+
+Atop the raised dais, the throne itself was a sight to behold. Smooth, polished stone gave way to shining silver details that curled up the arms and back of the seat. The former emperor had made some adjustments to the structure, and now, shining silver wings fanned out behind the throne, metal feathers carefully positioned so that they looked like they were mid-flight. The wings were so huge that they nearly took up the entire back of the room. It was an awe-inspiring sight—one that never failed to take Dorian’s breath away.
+
+His attention, however, was not on the throne itself, but on the person seated atop it.
+
+In slow, carefully even steps, Dorian strode forward, dark robes flowing behind him. His eyes never left the figure silently watching from the dais. Once he was a few feet away, the mage kneeled and bowed his head in a practiced motion.
+
+“Emperor,” he greeted, voice low and reverent.
+
+A few moments of silence passed, Dorian counting every second, before a smooth voice finally spoke from above him.
+
+“Rise.”
+
+Carefully, the necromancer stood. He raised his head, staring up the stairs leading to the dais to the man seated in the center of the throne.
+
+Dorian had seen Emperor Regis a few times before, stood in this very throne room, but he’d always been with someone else. He would stand to the side, silent, while whoever he was with did the real talking. This was the first time he’d had the man’s full attention on him, and he could practically feel the weight of his judgement.
+
+The Emperor was, at a glance, not especially intimidating. He was tall, but not exceptionally so, and young given his position. Dorian still remembered when he’d merely been Prince Regis, a boastful, brash young man more concerned with drinking and sleeping around than war or ruling.
+
+Back then, no one had taken him seriously or thought he would ever amount to anything. But then the former emperor had died, and with his father’s death, the prince had practically changed into a different person overnight.
+
+Youthful arrogance was replaced with composed confidence. An outwardly calm nature belied an uncanny perceptiveness—the same perceptiveness that had led the Empire to the greatest heights it had ever reached in the past century. Emperor Regis did not have the same hulking stature as his father did, nor did his voice boom, loud and forceful, but he didn’t need that. His presence alone commanded a room. When he spoke, people listened.
+
+Now, the Emperor was watching him with an inscrutable expression. Dorian had to force himself not to fidget under the weight of that gaze. The former emperor had insisted that his subjects never dare look him in the eye, but his son was the opposite. “How am I to rule,” he’d once said, “if I cannot see the eyes of the people I am commanding?”
+
+Following this was easier said than done, however. Dorian kept his head raised, but his eyes drifted slightly off center before he caught himself and forced them forward again.
+
+In addition to the guards lining the room itself, the mage could see four standing on either side of the throne through his peripheral vision. Their helmets were pulled down, and they held their weapons in front of them, silent and still as statues. It looked like the Emperor’s personal guard wasn’t here. That, at least, was a relief.
+
+Realistically, eight imposing knights carrying weapons should’ve been infinitely more intimidating than a single one, but something about that guard had always unsettled him, and he’d never known why.
+
+Right now, he’d take any small “victories” he could get.
+
+Finally, when the silence had stretched so long that Dorrian felt about ready to jump out of his skin, the Emperor spoke.
+
+“Report.”
+
+The mage steeled himself. He’d already known this was coming, but it still took everything in him to maintain his outwardly calm composure.
+
+“We’ve lost all contact with the troops sent to Auren, Your Majesty,” he began. “None of the troops sent through the portal have returned, and the ritual circle itself appears to be completely destroyed.”
+
+“What of the sloth demon Mage Andrea mentioned?”
+
+The necromancer shook his head. “The mages are casting scrying spells on the Magrath sanctum, but we’ve found no sign of the demon. I believe they escaped.”
+
+“And the relic?”
+
+Dorian swallowed. “Gone, Your Majesty. The horn as well.” He forced himself to keep his head raised and not hang it like he wanted to.
+
+The whole operation was, objectively, a colossal failure. The ritual circle they’d spent months preparing was now destroyed, Magrath had fended off the invasion, and both the components required to repeat the spell were gone. The demon horn, at least, could be replaced—especially given the Emperor’s alliance with the demons.
+
+That relic, however, had truly been one of a kind. Discovering it had been a complete accident, and even now, it remained the only thing they’d found that was powerful enough to power a portal spell of that scale. Without it, there was no “second chance.” Dorian knew it. The other mages knew it. And the Emperor knew it, too.
+
+All that planning, all that spell preparation—all of it gone in an instant. Whisked away because of some unknown sloth fiend.
+
+Slowly, Emperor Regis rose from the throne. In steady, calm steps, he descended down the dais, mantle flowing behind him. Dorian forced himself to remain still even as every fiber of his being wanted nothing more than to turn and run.
+
+Finally, the Emperor came to a stop right in front of the mage. At this point, Dorian was sure he was visibly shaking. He tensed, mentally preparing himself, but the expected blow never came.
+
+When he dared look up again, the Emperor was simply watching him, one eyebrow cocked.
+
+“At ease, Dorian,” he said in that serene voice of his. It was a voice that seemed almost out of place on the ruler of the Tavrell Empire, but it somehow held more presence than a louder one ever could. “I do not intend to punish you.”
+
+The necromancer’s eyes practically bulged out. “But—” The Emperor raised a hand to quiet him, and his jaw immediately snapped shut.
+
+“No one could have predicted that demon’s involvement,” he continued calmly. “Not you, not I, not the other mages. You have served me well for many years, Dorian. I will not blame you for something so far beyond your control.”
+
+He gestured at the expansive room around them, and the necromancer was almost certain his jaw had dropped at this point. The Emperor didn’t comment on it.
+
+“The loss of the relic stings,” he continued, “as does the destruction of the ritual circle, but that is why we took precautionary measures. The troops killed in the invasion will be missed, but we will recover. And Lord Bellhein was dealt with, I presume.”
+
+Dorian’s back straightened at that. “Of course, Your Majesty!”
+
+After Markus had failed to return from his meeting with Lord Bellhein, their tenuous alliance had quickly frayed. Though the Auren noble claimed that he had no idea what had happened to the mage and the two golems he’d brought with him, at that point, trust had already been lost. That was why they’d moved the invasion’s timeline forward. Why they’d limited the troops to low-level grunts, given the suspicious circumstances.
+
+The wyvern had been the exception. The Emperor had ordered Lord Bellhein killed, and Dorian had happily obliged. A bit of his scent was all it took to guide the monster to his trail. Cowardly though he was, the Auren noble had known too much, and so he’d been eliminated.
+
+Emperor Regis nodded. “I imagine you must be tired, Dorian. You and the rest of our ritual division have done much.” He placed a hand on the mage’s shoulder. He flinched, but the touch was light. “Take the next week off—you and the rest of your unit.”
+
+In the torchlight bouncing around the throne room, the Emperor’s dark eyes gleamed like black, glittering jewels. “This is a setback, but the Empire is strong. We have overcome far worse obstacles, and each time, we arrive on the other side more powerful than before. When this next week is over, I want you and your unit well-rested and ready.” His voice remained steady, but it roused the mage more than yells across a battlefield ever had before.
+
+“We will find another power source,” the Emperor continued. “The Spine will fall. Do you understand?”
+
+“Yes, Your Majesty!” Dorian dipped down in a low bow on instinct, his heart racing in his chest. When he raised his head again, the Emperor was smiling.
+
+“Rest well, Dorian. I expect great things from you in the future.”
+
+The corridor was quiet. Regis strolled along the silent halls, a lone figure in the dim light. He’d dismissed the guards from the East Wing an hour ago, something he often did when he wished to be alone. Now, he enjoyed the isolation, taking in the palace’s grandeur at his own leisure.
+
+As he walked past hanging tapestries and ornate oil paintings, he thought back to Dorian’s report and the events of the previous day.
+
+It had been a long time since he’d been near Auren or the Gravestone Mountains himself. A part of him almost found them nostalgic, remembering the days he’d roamed through the Aurelia Woods with nothing more than a thirst to see the world.
+
+Those had been simpler times, and he himself had been a different person then. Weaker, certainly. His name was far from the only thing that had changed. Still, he did view those days with some fondness, even if it had been necessary for them to end.
+
+“A sloth demon…” Regis murmured. He slowed his pace as he neared a large mirror hanging from the wall, the silver frame engraved with tiny patterns depicting a battlefield. Across the smooth surface, his own reflection peered back at him—pale skin, black hair, and equally dark eyes. He hummed to himself.
+
+Sloth fiends were fairly rare, and none of the ones he knew of would dare move against him. He hadn’t heard of any new demons being born recently, either.
+
+Still, the reality was clear. A demon had appeared on the battlefield, fighting against the Empire, and taken out Mage Andrea along the way. He had no doubt that this demon was responsible for the destruction of the ritual spell, the death of the wyvern, and likely the disappearance of the soul piece as well.
+
+Regis’s eyes narrowed, thinking. A number of theories were already beginning to form in his mind, some more likely than others. He had no doubt, however, that this sloth fiend would make their presence known again.
+
+In the mirror, the Emperor’s reflection shifted. In a flash, dark eyes paled to an almost translucent silver. Curling, pure white horns jutted out from wavy black hair, stark in the darkness. They appeared icy—practically glass-like—in texture.
+
+With another blink, the horns disappeared, and his eyes returned to their usual dark shade. The demon turned away from the mirror and continued down the corridor.
+
+Perhaps the next time this sloth demon appeared, he would greet them himself.

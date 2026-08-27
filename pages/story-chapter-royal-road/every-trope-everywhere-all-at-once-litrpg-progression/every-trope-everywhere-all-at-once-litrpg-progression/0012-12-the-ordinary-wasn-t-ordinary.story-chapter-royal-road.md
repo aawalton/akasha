@@ -1,0 +1,243 @@
+---
+id: 17b6c0f8-cb9a-5151-8b4d-787f75185ad3
+page-type-slug: story-chapter-royal-road
+title: "12 -  The Ordinary Wasn't Ordinary"
+slug: 0012-12-the-ordinary-wasn-t-ordinary
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 12
+ownLength: 1813
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3401946/12-the-ordinary-wasnt-ordinary"
+royalRoadId: "3401946"
+---
+
+[TROPE INITIATED: ICE WOLVES]
+
+Description: The most common enemy in snowy regions.
+
+Completion criteria: Defeat them.
+
+There was a pack of ten wolves in front of us. Their fur was thick and covered in frost, and they were playfully pouncing on one another. One wolf stood out from the rest. Its fur was graying, and judging by the way the others kept close to it, it was likely the eldest—and their leader.
+
+“...Cute,” Reina and I said at the same time.
+
+Meriel looked at us, shaking her head. “They are. But you’ll be killing them.”
+
+We hid beside a tree, close enough to see the wolves despite the blizzard, yet far enough that they wouldn’t spot us. Meriel told us their sense of smell was keen, so she had cast a spell on us to make our scent match our surroundings. She had also cast Warmth Aura on us so we didn’t have to worry about freezing to death while we were fighting.
+
+Because of my [FROST RESISTANCE] passive skill I earned back in the cave, I debated on telling her that she didn’t need to put so much mana into my Warmth Aura, but I decided not to—just to keep my System skills a secret.
+
+I looked ahead, calling [INSPECT] on one of the wolves.
+
+[MONSTER: ICE WOLF]
+
+Level: 8
+
+HP: 40/40
+
+Description:
+
+A wolf adapted to survive the harsh cold. Ice Wolves travel in packs and use the blizzard as cover while hunting prey. Their coordination and speed make them deadly. Their fur keeps them warm during low temperatures, and they can move through snow with ease.
+
+Assessment:
+
+Individually manageable, but dangerous in groups. Avoid being surrounded. Fire magic is highly effective. Eliminating the alpha first may disrupt the pack’s coordination.
+
+Level 8, huh? That shouldn’t be too much of a struggle, considering I was 119.
+
+I looked at the eldest wolf.
+
+[MONSTER: ALPHA ICE WOLF]
+
+Level: 17
+
+HP: 160/160
+
+The description and assessment were the same as the other wolf.
+
+Anyways, weren’t these levels too high for Reina?
+
+I turned to her.
+
+[HUMAN: REINA]
+
+Level: 10
+
+HP: ???
+
+Oh? Wasn’t she Level 7 last time? Did she gain three Levels from our training so far?
+
+“Nice job,” I whispered to Reina.
+
+“Hm?”
+
+“You’re doing good so far with the mage training, considering you’re a knight.”
+
+“Oh, thanks!”
+
+She accidentally raised her voice too high. A few of the wolves poked their ears up, looking around. Thankfully, they didn’t catch us.
+
+“Be quiet,” Meriel said.
+
+While I was at it, I inspected her as well.
+
+[ELF: MERIEL]
+
+Level: 68
+
+HP: ???
+
+Description:
+
+An elite mage and A-ranked adventurer of the Lyndale Kingdom known for her spell control and unorthodox teaching methods. Despite her demeanor, she possesses enough magical power to overwhelm most adventurers and monsters with ease.
+
+Assessment:
+
+Extremely dangerous. Do not let the eccentric attitude fool you. Meriel appears capable of casting countless advanced spells. Combat experience is likely extensive. Survival against her in direct combat is improbable.
+
+Just like the case with Reina, Meriel’s HP was completely kept hidden. How strange.
+
+But if she was only Level 68 and I was 119, then why does it say I won’t be able to survive against her in combat? Is it because of my lack of experience and knowledge in this world? My unallocated stat points?
+
+It was probably both, but I had no intention of making someone like her my enemy. That was, assuming she’ll bring Reina and me back to the Lyndale Kingdom after our training was done.
+
+Meriel pointed at the wolves.
+
+“Go. We don’t have all day.”
+
+I looked at Reina.
+
+“I… I don’t think I can bring myself to kill them,” she said. “I mean, just look at them. They’re just playing around… They’re not even attacking us.”
+
+“They’re not attacking us because they don’t see us,” Meriel said. “The moment they spot us, they’ll do everything they can to rip our limbs apart and eat us alive.”
+
+I didn’t expect such gruesome words to come out of her mouth.
+
+“I know, but—”
+
+“Ahh!” Meriel cried sarcastically. Her voice was so quiet that it barely sounded like a scream at all.
+
+She stepped out from behind the tree and waved her arms around. The wolves spotted us, each of them taking a stance and growling at us.
+
+“...What are you doing?” I asked.
+
+“If the two of you don’t want to fight them, I’ll make it happen.”
+
+The wolves began to spread out, half of them moving left, the other half moving right. They stayed in formation, trying to surround us. The wolves kept their bodies low and their eyes sharp on us. Now that they were closer, I noticed puffs of smoke spilling from their breath.
+
+“Don’t let them circle us,” I said, preparing my staff.
+
+Reina was hesitant at first, but she knew better than to stay still. She readied her spear.
+
+The two of us moved slowly, cutting the wolves off so that they didn’t fully surround us. Meriel stayed still, watching us beside the tree.
+
+The wolves didn’t take our movements lightly. Their growls became heavier, more bloodthirsty. Although it was hard to hear with all the different wolves growling, I noticed that the alpha’s sounded a bit different. Its eyes didn’t leave mine for even a second.
+
+Reina and I stood on opposite sides. Several of them pounced on both of us.
+
+I cast Fireball. It exploded on the ground, causing the wolves to jump back. None were injured. They tried lunging at me again, but I quickly cast Ember Shot. The hail of fiery bullets hit two of them, and they let out a sharp yelp. They fell mid-lunge, their shoulders and limbs injured—alive, but incapacitated.
+
+The remaining ones spread apart, waiting for me to make my next move. They knew I’d have trouble handling them while they were this far apart.
+
+They pounced again. I cast Fireball, killing one of them. But the ones that were still alive continued pushing through, their sharp teeth just in front of my face. For some reason, their movements seemed slower than I thought. It must’ve been because of my agility stats.
+
+I ducked both of them, and they flew over my head. Taking advantage of the opening, I turned and cast Fireball between the two of them as soon as they landed, taking them out.
+
+My side was all done. I turned, facing Reina.
+
+My eyes widened.
+
+She had managed to kill one of the wolves, but was pinned down by the rest, thrashing around and wildly waving her spear in every direction to keep them away. She cast Fireball, but it missed. Still, it caused the wolves to fall back just enough for her to get up.
+
+Considering her levels were around the same as the wolves, it was amazing that she was able to keep up with them.
+
+I ran over to her side.
+
+“I’ll help,” I said.
+
+She nodded, keeping her spear steady. “Thanks, Allene!”
+
+We took care of the rest of them with the spells Meriel had taught us. Reina had even killed one of them with just her spear alone.
+
+We looked around at the snow, seeing all the wolves scattered around. Nine. There were nine bodies. Their bodies glowed with a bright light before dissipating away, leaving behind drops of red flesh and hide.
+
+“Where’s the last one?” I asked.
+
+Reina pointed in the distance. “There.”
+
+It was the eldest one—the alpha. It was the only one who managed to survive and dodge all of our attacks.
+
+Its growling continued. It was noticeably deeper than the others, almost warier. It walked side-to-side, judging us, waiting for something.
+
+“This one looks smarter than the rest,” I said.
+
+I cast Fireball, but the wolf dodged it effortlessly. I tried again with Ember Shot, and it dodged again.
+
+Reina charged at it with her spear, but the wolf continued backing away. It was a lot faster than either of us, so we couldn’t catch it unless it fought us directly.
+
+“What’s it doing?” Reina said, stopping.
+
+“It was testing the two of you,” Meriel said.
+
+We turned to her. She had been quiet up until now.
+
+“Testing?” I asked.
+
+“It was letting the pack attack the two of you while it learned your magic. Compared to the other wolves, it pounced on the two of you for knowledge, not with the intention of killing you. But now it knows your attack patterns.”
+
+Meriel walked to us. “Not just that, but it was watching Allene specifically. It knows you’re the more dangerous one.”
+
+Reina flinched. “Hey, what about me?”
+
+Meriel didn’t reply.
+
+We heard a faint rumbling in the ground. The trees began to shake the snow off their leaves, and the blizzard grew harsher, colder, and faster. The visibility grew worse, and the wolf began to walk backward, disappearing in the blizzard.
+
+“What’s going on?!” I yelled.
+
+The Warmth Auras around us were beginning to break. Not even Meriel could handle how strong the blizzard was now. I reinforced our Warmth Auras with my own mana, helping her.
+
+“What is this…?” Meriel let out.
+
+A dark silhouette appeared within the blizzard in front of us. It stood tall, several times the size of the wolves.
+
+“Oh god… I think I know where this is going,” I muttered.
+
+[TROPE INITIATED: BOSS DISGUISED AS A MONSTER]
+
+Description: The ordinary enemy was never ordinary.
+
+Completion criteria: Defeat the boss.
+
+Boss…? You’ve got to be kidding me.
+
+The silhouette had two pairs of glowing eyes. It stepped forward, and the entire world shook. The blizzard seemed especially concentrated on where it stood.
+
+“That’s…” Reina began. She didn’t finish her words.
+
+Standing in front of us was no longer the same wolf as before. No—it was, but it took a completely new form.
+
+Glaciers shot out from its back like spikes. Each time it stepped, snow turned into crystals. It roared, and all of us—even Meriel—stumbled, forced to take a knee.
+
+Neither of us spoke. We just… stared at whatever monstrosity was now standing in front of us.
+
+I gulped, calling [INSPECT]. A part of me didn’t want to. A part of me was afraid of what I might see.
+
+But I had to.
+
+=== BOSS ENCOUNTER  ===
+
+[SKOLL, BEAST OF THE ENDLESS BLIZZARD]
+
+Level: 70
+
+HP: 100%
+
+Description:
+
+An Ice Wolf that had evolved beyond the limits of its species. Skoll possesses abnormal intelligence, and the surrounding blizzard appears to respond to its presence. It often hides itself as an alpha of a wolf pack, drawing in prey with its smaller form.
+
+Assessment:
+
+Extreme caution advised. Standard Ice Wolf behavior no longer applies. Unlike most monsters, Skoll prioritizes observation before attacking and appears capable of analyzing combat patterns. The blizzard itself may now be considered part of the boss encounter. Retreat is recommended.

@@ -1,0 +1,161 @@
+---
+id: 97a70965-a38e-5e2f-9af6-779935e729f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 459: Visiting the Shrine"
+slug: 0496-chapter-459-visiting-the-shrine
+partOf: dungeon-of-knowledge-complete
+position: 496
+ownLength: 2039
+unit: words
+ownProgress: 2039
+publishedAt: 2025-11-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2803451/chapter-459-visiting-the-shrine"
+royalRoadId: "2803451"
+markedReadAt: "2026-06-29T20:29:03.057Z"
+---
+
+Grelda stomped her way through the mud and puddles on the way to the Smoky Pint, ignoring the grime and dirt that was soiling her old leather boots.
+
+I hope they all get what they deserve, she thought. And stub their toes on an ingot, she added, uncaring for how spiteful it sounded. She may have lost her temper back there. She may have thrown the logistics and procurement officer out of her forge, making him land on his ass in a puddle of mud. But now that her fiery temper had burned out, all that remained was pure frustration and despair.
+
+I’m going to have to sell my smithy. She still had money, and she still had her ancient techniques, handed down from smith to smith, preserving the Flamebellows’ proud name. It just had to be Death Knights. Nobody wanted her Fire Resistance V enchantment, nor did they want her pride and glory: Flame Wreath. No, everybody was losing their mind – and their ever-loving sense – buying up every ice resistance enchantment and reselling it to the adventurers who headed to defend Southport. Even lightning would have been better than fire.
+
+Sure, she could continue operating her smithy, but without a solid income and people using her gear, the money and the experience would dry up quickly.
+
+Who am I kidding, she thought. It was already gone. If people were passing up her work for the cheap knockoffs the Kel’darran merchants were peddling, then her cause was lost. Nobody even bothered to use a decent Appraisal skill. Although they would curse when the items broke in combat, by then it would be too late.
+
+Nobody respects quality anymore.
+
+She slammed open the door to the tavern, and with it, the last remnants of her fiery rage faded. She sighed.
+
+At least this dwarf still has enough coin for a couple of ales.
+
+She scanned the smoky atmosphere of the tavern, quickly picking out her friends. Dradur hadn’t even bothered removing his work apron, and Yair, well, Yair was Yair. Quiet and surly, but she had long stopped thinking of him as a human – to her, he was at least an honorary dwarf.
+
+She stomped heavily over to their table, more out of principle now than any remaining anger, and plopped herself down.
+
+“Yo, Grelda,” Dradur said.
+
+Yair just nodded.
+
+“Ale,” she called out, ignoring both of them to attract the waiter’s attention, dropping several coins into his hand when he turned to their table. “And keep them coming.”
+
+“Rough day?” Yair said, speaking more words to her than he usually did in an entire night.
+
+“Don’ get me started,” she said. “I lost the shield contract to those bloody Kel’darran merchants.” It had been her last hope, and the merchants had stolen it out from under her. Not even a rival blacksmith.
+
+“That’s horrible,” Dradur said.
+
+The waiter dropped a large ale on the table before her, and she picked it up like it was a lifeline.
+
+“To better luck?” Dradur offered, raising his ale.
+
+“Aye, I’ll drink to that,” she said, banging her tankard to his, and then to Yair’s.
+
+She was on her fourth ale when Yair finally spoke.
+
+“Have you heard the rumors?” he asked.
+
+“What rumors?” she asked, slurring a little. Perhaps her frustration was getting her tipsy faster than normal; usually, it took far more. Honestly, she didn’t care, and she wondered if it might be cheaper this way. She could do without thinking about the future anymore, at least today.
+
+“Apparently, there is a relic in a dungeon to the east – in a town called Myrin’s Keep. The guild has been talking about it non-stop.”
+
+“What do I care about a relic and dungeons?”
+
+“It is an anvil. The legendary anvil of Thovir Emberforge, if you can believe that.”
+
+“Hogwash,” she barked, slamming her tankard down with more force than she needed, and then staring sadly at the splashes of ale that flew out, hitting the table instead of going into her mouth. “Sorry. Go on.”
+
+If he wants to spin a stupid story, what do I care?
+
+“It’s true,” Dradur said. “It is rumored to be able to teach dungeon secrets and techniques to anyone who works on it, but the price is steep.”
+
+“Don’t keep me hangin’ ya baffoon, what is the price?” Grelda demanded.
+
+Dradur’s voice dropped to a whisper. “You have to give your best technique to the dungeon.”
+
+“What?”
+
+“Just what I said, it rips the knowledge right outta yer head,” he said.
+
+“Does it now?” It was preposterous, but Yair was nodding.
+
+“I can’t imagine any self-respecting smith giving up their family techniques to a dungeon, just to learn something random,” he said, finishing his ale and looking for another.
+
+“Ya, there’s no way,” Grelda said, but she frowned, frustration bubbling to the surface once more. What good were the best techniques of her family, the pinnacle of generations of smithing talent, when all she could do with them was watch the expensive contracts slip out from under her nose? Why should I value Flame Wreath when nobody wants it? But the very thought of sacrificing it to a dungeon made her sick to the stomach.
+
+But what if I get Ice Resistance? What if… damn!
+
+She leaned forward to grip Yair’s arm. “Tell me more. Tell me everything you know.”
+
+Moira flitted along, levitating herself quietly near the back of the raid group – a strategically ideal position for her class – as they trekked through the dark, rocky tunnel, not even caring about the vanity of burning mana to avoid dipping her toes in the icy water of the stream that bubbled through the rocks below.
+
+At least it doesn’t smell. The water was surprisingly clear and fresh, and filled the tunnel with a tinkling burble, definitely not what she had come to expect from a dungeon. Although the mana surrounding her had a similar pristine, crisp feel that made her inexplicably long for a refreshing spritzer. Perhaps the stream wasn’t that surprising, after all?
+
+“Why are we going this way again?” Galeth complained, soaked to his knees from having to trudge through the water.
+
+“This is the easiest access into the Forest Cavern without being forced to fight all the low-level monsters in the sewer.” The tall, lean Wood Elf archer leading their pick-up group was named Faelon, and he claimed to be a member of the Pathfinders Guild, displaced by the destruction of Ciradyl.
+
+The last time Moira had entered a dungeon with a pick-up group, she had been in her early thirties. It had been a disaster, and it hadn’t even been a raid encounter. At least the scout seems competent. She surreptitiously studied Faelon’s gear, allowing her eyes to rove over the rest of his team. All of the strangers were surprisingly well-equipped for a group hovering in the early eighties. Hopefully, they earned it. They were a little lower level than she would have liked for this operation, but beggars couldn’t be choosers, as her mentor always used to say.
+
+The low tunnel roof gave way to an enormous cavern, and she floated upward to emerge from the craggy ravine through which they had entered. As soon as she rose above the tanks, she froze, staring in wonder at the expanse that greeted her.
+
+As far as the eye could see, the cavern was filled with giant oak trees infused with dense flows of mana that billowed upward and out of them like geysers of power. Everything sparkled. Constellations of glowing golden mushrooms dotted the gigantic cavern, lighting the forest from below and turning it into a faerie landscape of mystery and wonder. Darting among the branches of the trees were all manner of glowing green wisps and the flashes of golden scales as tiny dragonets swooped and darted about in aerial antics impossible for any of their larger brethren.
+
+Moira released the breath she hadn’t realized she was holding. Up ahead, her eyes were inexorably drawn to the softly rippling blue radiance of a broad lake that emitted unbelievable amounts of the purest arcane mana she had ever seen, all underscored with that same exquisitely unique golden sparkling undertone. Then, beyond the lake, further out still, she saw it.
+
+The shrine! It’s real!
+
+There was no question about it. The enormous obelisk of black stone stood taller than any she had ever seen, taller even than the shrine that had stood for most of recorded history at the Temple of Aman Rak. This one was lit up with bright, complex runic patterns of gold and green, and it shone with an intensity of mana that was a beacon to all who could see.
+
+“It’s beautiful,” she whispered, hesitating to disturb the peaceful serenity of the underground wonderland.
+
+“Sure is,” one of the locals said.
+
+Faelon twisted his features delicately and said, “You should have seen it last week; you might have thrown up.”
+
+“What do you mean?” Moira asked, turning to find the Wood Elf archer flying on silent wings beside her.
+
+“This was all taken over by the Blooming Rot dungeon, which took ages to kill. I heard there were some monsters above level two hundred. Ever since wiping it out, Aliandra has been working hard to restore everything.” He turned to glance at her. “I much prefer it like this. Come, let’s go, it’s a straight shot over the mana-purified water lake to the shrine.”
+
+“Two hundred? How did you even… wait. Mana-purified water?” Moira asked, her gaze snapping back to the shining lake.
+
+“Yes. I don’t think I’ll ever get used to the ridiculousness of this dungeon, but it grows on you after a while,” Faelon chuckled.
+
+Moira shook her head, wondering what other unheard-of surprises Myrin’s Keep had in store for them. A few minutes later, she floated into the Grove, releasing herself from her levitation spell and allowing her feet to touch down on springy green moss in front of the boss itself. The Shrine guardian.
+
+“Four trolls,” Galeth said.
+
+“Just like the dungeon manual predicted,” Moira agreed. The boss appeared to be designed according to a configuration common to dungeons across the realm – three to five minions and the central boss. In this case, every one of them was in the second tier. A challenging fight. She used her Identify.
+
+Warrior – Troll – level 103 (Bone)Shaman – Troll – level 103 (Blood)Mage – Troll – level 103 (Ice)Witchdoctor – Troll – level 103 (Soul)
+
+“Oh, a witchdoctor, that’s annoying,” one of the adventurers said.
+
+“Better than the berserker,” another said in a tone that spoke volumes about prior encounters.
+
+According to the dungeon strategy guide, this boss could spawn with a few different configurations of minions, and the witch doctor was considered the most annoying because of the control hexes. But that suited Moira just fine; her class was a master at curse magic, and she was looking forward to pitting herself against this foe. I just hope I’m not too rusty after all that desk work.
+
+“What do you think?” Faelon asked, landing beside her. “The witch doctor is the most disruptive; most groups kill him first.”
+
+“I can control his curses. Why don’t we kill the healer first?” Moira countered, keeping her voice guarded. She was still unsure of this reserved Elf and his mixed group, but it would be a waste not to leverage her strengths.
+
+“Sounds good to me,” Faelon said, surprising her with his ready acceptance of her suggestion. Then he announced the strategy. “Kill the shaman first. Then the mage, the witch doctor, and the warrior last. Galeth, do you mind being the main tank for the warrior?”
+
+“Works for me,” Galeth said, slapping his shield with a gauntlet.
+
+“Right, Koryn, you take the shaman. Two minutes to pull. Everyone, buff up.”
+
+To Moira’s surprise, the local guild group began downing consumables to boost their defenses and damage like a professionally trained raiding team. They efficiently buffed their group and hers with a minimum of fuss and bother. All doubts as to their competence vanished in an instant.
+
+She grinned fiercely. This is more like it!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

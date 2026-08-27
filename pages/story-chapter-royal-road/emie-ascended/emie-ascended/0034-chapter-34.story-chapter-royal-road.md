@@ -1,0 +1,163 @@
+---
+id: aab4f32e-4902-5b8c-a06b-59cfac1d6cff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34"
+slug: 0034-chapter-34
+partOf: emie-ascended
+position: 34
+ownLength: 2148
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3585905/chapter-34"
+royalRoadId: "3585905"
+---
+
+“We should probably go update our registration and take care of housing before heading into town,” Mike said to the group, though his focus was on his wife, who was practically vibrating in place.
+
+The payout for our loot was significantly higher than our previous delves, and that was without factoring in the Portal skillbook. With the skillbook, we’d easily earned more in that one delve than we had from the dungeon to date.
+
+Ironically, the amount we’d earned still wasn’t enough to buy all of us a ticket on an airship to a new city.
+
+“Excuse me, Ascender Emie?”
+
+I turned to find a well-dressed man standing a few feet away. He wore the insignia of the Sorenguard City Lord, so I didn’t need to guess who he represented.
+
+He held out an envelope.
+
+“An invitation from Ascender Lord Jaxon. He requests that you and your party join him for lunch at noon.”
+
+As soon as the envelope was in my hands, the man disappeared, likely teleporting away.
+
+I glanced up at the large clock mounted on the wall opposite the dungeon’s exit. It was about a quarter after two in the morning. The night’s aurora would be at its peak right about now.
+
+We’d long given up on trying to time our exits and had gotten used to coming out at random times of the day or night. Most delvers were the same, which was clearly reflected in the number of nearby businesses that remained open throughout the night.
+
+“Seems kinda late for the City Lord to have someone waiting for us to leave the dungeon,” Cora commented. “And I thought initial recruitment efforts were supposed to be coordinated through the Association, not done directly.”
+
+“As the City Lord, he likely has a bit more leeway in what he can do,” Mike replied. “I suspect the powers that be in the local area have already figured out who Emie is, and he wanted to be the first to extend an invitation. The rest of us are probably little more than an afterthought.”
+
+“I doubt that,” I said quietly.
+
+We were all capable Ascenders, and Mike, in particular, was quite powerful. His abilities also went beyond mere combat capabilities, which was evident by his recruitment into the Builder Guild.
+
+He might not be an ‘official’ member just yet, but he was as close as one could get before reaching the first evolution.
+
+I turned the envelope over in my hand. The paper was high quality – likely made from at least silver-ranked materials.
+
+My name was embossed on the outside in platinum-colored lettering. It really should have been addressed to Mike since he was listed as the party leader.
+
+It only took a moment to break the wax seal that ensured the contents of the envelope were not prematurely revealed.
+
+“What does it say?” Stephen asked, leaning closer.
+
+“Exactly what he said. It’s an invitation to lunch at noon at the City Lord’s manor to meet and discuss future opportunities for our party.”
+
+I’d read a little about the City Lord, so I knew that he was also an Ascender, though he had stagnated a few hundred years earlier and had all but given up on ascending beyond this realm. He’d been granted stewardship over Sorenguard a few years after stagnation had set in, so he’d been the ruler of the city for quite some time.
+
+In the centuries that Ascender Lord Jaxon had ruled Sorenguard, the city had, by all accounts, prospered. The fact that the city’s gold-ranked dungeon had evolved into an Ascender Dungeon at all reflected well on the city and its lord, even if it probably had more to do with the dungeon itself than the city housing it.
+
+“Should we go?” Stephen asked.
+
+“We might as well. It can’t hurt to at least hear him out,” I said with a sigh.
+
+“I agree,” Mike said.
+
+“You do?” Cora asked.
+
+Her earlier excitement had been replaced by obvious concern. I could understand her worry.
+
+“The City Lord has a good reputation,” Mike replied, answering her unspoken question. “The Builder Guild leaders speak highly of him, so there’s a decent chance that a relationship of some sort might be beneficial.”
+
+“Well, we have almost ten hours before we have to worry about that,” I said, tucking the invitation into storage. “Registration, then housing?”
+
+“Yes. Let’s go,” Mike said, taking the lead.
+
+Aside from updating our information, part of the process included getting an actual identification card that was connected to our accounts.
+
+“The funds from your holding accounts have been consolidated,” the clerk said after I’d provided the information she requested.
+
+It felt a bit invasive to share all of my capabilities, so I kept some things back – things like Repulsion Aura, Dimensional Anchor, Telekinesis, and Temporal Aura. However, since I planned to enchant items using the elemental seed skills I’d acquired, it made no sense to try to hide those.
+
+Even hiding four skills, my list of skills for a newly evolved delver was still quite long. However, most would probably just assume that I’d completely filled my skill slots before evolving – an assumption that would likely be accurate in most cases.
+
+In fact, under that assumption, my skill list wasn’t even all that remarkable for an Ascender.
+
+“You will no longer need to visit the quest completion desk to withdraw money,” the clerk continued, handing me a metal card. “Everything is now connected to your card. Be sure not to lose it.”
+
+I looked at the card. Alongside my likeness was a magical imprint. It wasn’t quite the mana signature of my previous realm, but it was something similar and served as a secondary form of identification since shapeshifting skills were a thing.
+
+The clerk pulled out a box containing a large number of envelopes. A few appeared to be of similar quality to the one we’d just received from the City Lord, though most were of noticeably lower quality.
+
+“These are the invitations that have been dropped off for you in anticipation of your evolution. You’ve received quite a few, and you’ll likely receive more in the coming weeks. They will be delivered to your listed residence once per week, so be sure to update your records with a good address as soon as possible.”
+
+I’d left that section of the registration form blank since we hadn’t stopped by the housing office yet, so the clerk’s comment was a good reminder.
+
+I nodded and collected the envelopes from the box, storing them away without delay. After expressing my thanks, I headed back to the lobby to meet with the rest of my party.
+
+“How many invites did you end up with?” Cora asked with an amused grin. “I’m guessing thirty since I got six, and I’m by far the least interesting of our party. Mike got thirteen, which I thought was a lot until Stephen came back with nineteen.”
+
+“Really? That many?” I asked with wide eyes.
+
+Stephen nodded. “Almost all of them are because word of my Teleport skill got out.”
+
+That was somewhat unfortunate since it meant that we’d all been scrutinized by at least one person with the capability to see what skills we have slotted. It was extremely invasive, and whoever had done it had obviously sold the information to interested parties.
+
+If they bothered to cross-reference our skills with Association records, whoever had bought the information likely knew that my ‘Inventory’ skill was actually a core skill. At least that explained why I had so many invitations.
+
+Thank goodness I didn’t slot Portal already.
+
+“So? How many did you get?”
+
+I quickly counted the envelopes without removing them from storage.
+
+“Forty-one.”
+
+“I was closer,” Mike said with a smirk. “Pay up.”
+
+I shook my head with a smile as Cora and Stephen both grumbled and passed Mike a few coins.
+
+“Alright. Let’s take care of housing so we all have a place to lay our heads tonight. Do you two still plan to stay in Association housing, or are you going to look for something in the city since you can both teleport?” Mike asked, looking at Stephen and me.
+
+“I’ve been planning to stay here since it’s convenient, but I’m open to looking for something in the city if that’s what you prefer,” I said, turning to Stephen.
+
+He shrugged. “I don’t really care either way. Honestly, I’d be fine just renting the smallest, cheapest place that we can get away with and just spending most of our time elsewhere whenever we aren’t trying to connect to the Association’s network.”
+
+“Ah, I didn’t think about that. If we move into the city, we’d have to buy the pads ourselves.”
+
+Though he hadn’t said it, I understood the underlying point he was trying to make: we couldn’t access the network from inside the sanctuary. It was one of the largest downsides to the space.
+
+In my old realm, I’d been able to create micro-portals opening to the outside, which had granted me access to network signals – including messages via the system, which was a feature that this realm’s system did not include.
+
+There was technology to fill the gap, but it wouldn’t work between my demesne and the outside realm, just like such devices didn’t allow contact if one party was within the dungeon.
+
+Small aspects of the system still seemed to get through, though not reliably. I assumed it was because the space was anchored to my soul, which was technically inside the realm, even if my physical body was somewhat displaced while I was inside.
+
+“We might as well stay in Association housing since most everything we do is here in the Dungeon Complex,” I said. “They also provide a meal plan, which will save us a lot of money.”
+
+“That’s what Cora and I decided as well,” Mike said, motioning for us to follow him.
+
+The housing office was in the next building. Though there were still hours before dawn, the attendant behind the desk looked alert and awake.
+
+Cora and Mike ended up leasing an upgraded bronze-rank suite for a significant chunk of change. The deposit was minimal since it wasn’t expected that newly evolved delvers would have a significant amount saved.
+
+The rent alone was more than we made as a group over an entire month of regular delving before we evolved. Considering how much more we made from the materials we’d brought back from the twenty-first floor, the cost really wasn’t all that bad. But it was more than Stephen or I wanted to pay, especially with access to the sanctuary.
+
+We opted to rent a much smaller apartment, though it wasn’t the smallest they offered. While I knew Stephen would be happy with the cheapest option available, I didn’t want that.
+
+Even if we could just spend most of our time in the sanctuary, I still wanted us to have a comfortable place to hang out when we wanted to access the network.
+
+Part of what motivated me was also that I knew that Stephen would likely be forced to spend a lot more time in the space than I would, since he had no way of entering the sanctuary without me actively sending him there. And unless he wanted to be stuck inside while I pulled shifts at the medical facility, he needed somewhere to spend his time.
+
+Though I still only planned to work at the hospital and clinic enough to train my healing skill, I knew that Seraphine, the Head Cleric Healer, would want me to put my newly evolved skill to better use.
+
+In fact, now that I could regrow limbs, I’d probably find myself with more work than I could handle.
+
+Given his background, I understood why Stephen didn’t care too much about comfort. Most of his life had been spent living very humbly, even after he gained enough power and access to resources to afford nicer things.
+
+Personally, I felt grateful that he hadn’t swung in the opposite direction, wanting nothing but the best to make up for the struggles of his youth. I could understand either reaction, though I resonated more with a frugal life than I did one filled with extravagance.
+
+Besides, it wasn’t like we couldn’t afford nicer accommodations. With the money held back from my work as both a Healer and an Enchanter, we could have afforded one of the best options without even needing to touch our most recent earnings.
+
+Instead, I planned to use most of that to update the sanctuary, buy new gear, and perhaps most importantly, buy everything my future asolade would need to be happy – including a Beast Companion skillbook for myself.
+
+There was still some time before my future asolade would be ready to leave its parents, and I planned to have everything ready for it when it arrived.

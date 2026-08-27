@@ -1,0 +1,207 @@
+---
+id: f1edba2d-c78d-50c0-94c9-d06b2c167fde
+page-type-slug: story-chapter-royal-road
+title: "Chapter 521: How to Squash an Ooze"
+slug: 0561-chapter-521-how-to-squash-an-ooze
+partOf: dungeon-of-knowledge-complete
+position: 561
+ownLength: 2610
+unit: words
+ownProgress: 2610
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2991172/chapter-521-how-to-squash-an-ooze"
+royalRoadId: "2991172"
+markedReadAt: "2026-06-29T20:31:23.338Z"
+---
+
+Naia squashed herself through the veil, emerging on the other side into the spirit realm echo of Ali-friend’s Grand Library Arcana.
+
+The sounds of the people studying vanished as the uncanny silence of this realm pressed down upon her. She quivered momentarily, feeling blinded and vulnerable, but she managed to avoid turning into a rock as she always did when she was scared. Barely.
+
+Instead, she turned into a small wooden side table.
+
+Azryet had chided her for using a rock without matching her environment properly, but she hadn’t understood him at the time. But she was getting smarter. With every new ooze she learned, her power grew. She had vastly increased her wisdom and mana pool, allowing far more oozes. Even thinking about it now made her want to wobble and vibrate happily. It unlocked strange, and sometimes terrifying, new ideas, but she now knew why the rock had been a terrible choice. Her instincts had been honed by living in a cavern, and rocks were not appropriate for a library. Like tasting the ground to match her shape to the rock, she had to taste the bigger environment to match herself to the world. Her rising intelligence seemed to help tremendously.
+
+She extended her senses outward into this strangely diminished copy of the library she had just left, but to her surprise, she found it not as still or dead as she had initially thought. Ali-friend’s mana could be felt seeping through the pores between realms, but the area was filled with something more. She could taste arcane, but there was something else that seemed crisp and fresh, suffusing the very world, making her membrane warp and bend ever so slightly.
+
+Space? He had said there was space magic in here. But she couldn’t find anyone.
+
+Suddenly, her membrane stiffened as she realized she would need to talk. Talking meant giving herself away. She hesitated, stuck between her instincts to hide and her purpose. She was here to talk. Learn. Grow.
+
+But what if they hurt me? What if they trap me?
+
+She clamped down on her membrane, barely preventing the shudder of terror at being forced to live in a small cave with no way out.
+
+But Calen had been nice. And Malika too. And she could taste Ali-friend’s mana mingling with the space mana, merged like friends…
+
+Her membrane pulled inward, shrinking her little table, but she forced herself to speak.
+
+“Hello?”
+
+Her voice came back to her as vibrations in the flagstones, and moments later, reflected vibration through the air. She waited, holding herself tight.
+
+Do I say it again? She wasn’t certain if she could. Breaking her silence had taken far more than making a hundred oozes.
+
+But then a vibration stirred the air around her.
+
+“Cael, I think we have a visitor?”
+
+The vibrations rippled across her, and she froze, not knowing what to do.
+
+“Cael?”
+
+“What is it, Gage?”
+
+“We have a visitor. A… table?”
+
+A table? Oh, me…
+
+“Hello?” she repeated. “I am Naia. Are you friends with Ali-friend?”
+
+“Ali? A table that knows our sister… how curious.”
+
+Sister? Naia struggled with the word for a moment before she realized what it meant. Like oozes that are part of me? But split away. Still me. But not.
+
+“I want your help. I want to be stronger. So that I can help Ali-friend.” She shivered, keeping her table form even though they knew she was not anything of the sort.
+
+“You want to help Ali?” the one called Gage said.
+
+“What can we do?” the one called Cael finished.
+
+They seem friendly, she thought, shivering out of her table disguise, resuming her normal form. “I would like to learn your magic,” she said. “The dragon told me to collect magic; that it would make me smarter.”
+
+“Smart is good,” Cael said. “I should know, I’m the smartest.”
+
+“And the most arrogant,” Gage added. “Though he claims to be humble. How do you learn new magic?”
+
+“Can you shoot my ooze?” she said and summoned several different kinds.
+
+“Easy enough for me,” Gage said. “Not so sure about the smartest one, he hasn’t figured out shooting things yet.”
+
+“Hey, that’s not fair! You think you’re better than me just because Ali gave you an elemental.”
+
+“It’s a nice elemental,” Gage said.
+
+Naia listened carefully to the back-and-forth, surprised that she could even follow most of the banter, but then the flavor of magic shifted as the arcane energy density dramatically increased, and a strange monster appeared. It had four legs, and she could tell it was brimming with arcane magic that seemed to be concentrated on the strange, fixed pseudopods that waved around on top of it.
+
+While the two brothers continued their bickering and teasing, the monster unleashed bolts of arcane magic upon her slimes. All she had to do was keep them healed. Very soon, she received the prize she had expected.
+
+Slime Mutation has altered your Aetheric Ooze.Imprint: Faen Glob completed.Faen Glob – Fae Ooze – level 21 (Arcane).
+
+“I got one!” Naia said, slithering up to the new ooze and poking at it with her pseudopods. It tasted just like Ali’s magic. Denser than normal, and … sparkly. While Cael and Gage congratulated her, she experimented, discovering her new ooze could fire the same bolts of arcane magic as Gage’s elemental.
+
+“Can we do space now?” she asked.
+
+“I don’t know how to do damage without monsters,” Cael said.
+
+“But… you said you were the smartest?” Didn’t that mean he should have lots of answers? She had more questions as she got smarter, but she dearly hoped she would find the answers when she reached the smartest.
+
+Cael coughed, while Gage laughed at him, but Naia didn’t get the joke. How was that funny? Eventually, she just wrote it off as people being weird again.
+
+Cael began to do stuff.
+
+Incomprehensible stuff.
+
+His mana surged with terrifying power. Some of her slimes squished completely flat in an instant. One of them bent, stretching out super long. A strange sphere of magic appeared, cutting another slime in half, making the two pieces appear in very different places.
+
+And then it got weirder. Even the ground began to bend in ways that confused her senses. She could feel that the ground hadn’t changed. But it was bent. She could feel the power of his mana, but she couldn’t feel what exactly it was doing. One of her Brine Oozes seemed to be in fifteen places at the same time, but it was still in one piece.
+
+Naia backed up, cautiously. After considering the situation for a moment, she took the form of a chair pushed up into the corner.
+
+“You’re scaring her, Cael.”
+
+“I’m trying to… break the oozes. Do you know how hard this is with space magic? Even if I slice them in two, they just become two oozes with lower levels.”
+
+Not all of them, Naia thought. But she didn’t want to correct the powerful space mage who was the smartest. She didn’t know what he could do.
+
+But he sure was persistent.
+
+Sometime later – she didn’t know how much – something surprising happened. Her Sacred Ooze – which had been twisted into some kind of knot her mind couldn’t even fathom – suddenly warped on its own. She felt the magic flicker and twist, and then it snapped to something she had never had before.
+
+Space…
+
+Slime Mutation has altered your Sacred Ooze.Imprint: Wobbling Wormhole completed.
+
+“Wow, it did a thing,” Gage said.
+
+“See, I am the smartest!”
+
+Naia simply crawled over to the new ooze.
+
+Wobbling Wormhole – Ooze – level 126 (Space)
+
+The strangest thing was that the ooze was in two distinct pieces. Both of them moved about independently, but she could tell it was not separated. One ooze, but two? Split, but not?
+
+She puzzled over it for a bit, but then she poked at it with a pseudopod. The taste of its magic infused her, just like the taste of this place. But to her astonishment, her pseudopod did not encounter any membrane. Instead, it passed right through and hit something hard beside the other part that had wandered off and was examining a bookcase.
+
+She tasted the books.
+
+She snatched her pseudopod back in alarm, but she was unharmed.
+
+“Now, that’s curious,” Cael said. “A living portal?”
+
+Carefully, she prodded it again, this time paying attention to her tremor sense, but yes indeed, she felt the ripple of her own touch across the room beside the other end of the Wobbling Wormhole. With careful thought and no small amount of anxious shivering, she pushed herself all the way through.
+
+She popped out at the other end.
+
+Unharmed.
+
+It’s just like a hole, she thought, understanding flaring into her mind. And not even a tiny hole like the ones she had used to come here. An easy, wide hole. She could send lots of oozes through it. Although, she could already transfer herself to any ooze she had made.
+
+But it seemed fun. And maybe she could find another way to play with it.
+
+“Do you have any more?” she asked. Already she could feel her mind sharpening, and a wealth of new ideas springing up from the gain of two new oozes, yet, still, she was hungry for more.
+
+“That’s all we have,” Gage answered.
+
+“Unless… do you think she might like the shadow realm?” Cael asked.
+
+“Don’t you think that’s too dangerous?”
+
+“I don’t know, she seems pretty robust to me,” Cael said.
+
+“Shadow realm?” Naia asked, her membrane rippling with excitement, making her voice trill lightly.
+
+“Yes, there’s a rift in the middle of our dungeon,” Gage said.
+
+“Rift? Dangerous?” she asked. She had found a rift in her own dungeon, and it had taken a lot of help to protect her from it.
+
+“Yes, it is dangerous. How about we show you, and you can decide?”
+
+I can finally retire my Howling Hellfire bow, Calen rejoiced, examining the enchantments on the latest, absolutely phenomenal example of Zor’kan’s finest crafting he held in his hands.
+
+Inexhaustible Stride of the Elusive Wanderer – level 180Supple demon-hide boots of an indeterminate dark brown that somehow seem to elude the eyes, evading closer scrutiny.+100 Dexterity.+80 Intelligence.+2% of your damage is returned as Stamina over 30 seconds.+4 to skill level of Movement skills.+44% to Movement Speed.27% chance to cast level 62 Fade when hit.Requirements: Dexterity 1260, Intelligence 720, Wisdom 360.Created by Zor'kan.Feet – Boots – Demonic Hide
+
+“Now, that’s a pair of boots!” Calen exclaimed. It had taken several lightning essences from his share of the Crypt of Kings loot, some arcane essences, and a rather challenging hunt in the twisting demon-infested tunnels in the Abyssal Realm to get what he needed, but it was more than worth it.
+
+“Obviously,” Zor’kan said, grinning wryly.
+
+Arrogant – but he deserves his moment. Calen had very nearly given up, simply unable to find a high enough quality demonic leather with the stealth or illusion trait Zor’kan had insisted on. But Ali had fortunately overheard the conversation and mentioned an invisible, greater demonic assassin that was starting to make incursions into her dungeon, and he had quickly organized a little hunting party. In the end, it had proved remarkably profitable for everyone; a new demon imprint for her, a wealth of high-level demonic hides for Zor’kan and the other guild members – something Devan was sure excited about – and, of course, his brand-new boots.
+
+He had specifically requested stamina leech so he might retire his old Howling Hellfire bow. Even with his substantial reduction in stamina costs, he still had to pull it out every now and then to refresh his stamina, especially if he needed other potions and couldn’t use stamina potions. But now, finally, the bow wouldn’t be needed.
+
+Unless I need hellfire for something, he corrected. Although Cinderstrike would almost certainly work better for anything that needed fire, he couldn’t imagine a case where his level eighty hellfire bow might still be the better choice. Still, he would leave it in his ring just in case.
+
+His fight against Haverron had raised his priority on movement speed – while he had been faster than the crazy Devastation Knight, it had been by the smallest of margins. Now, though, he had both a movement speed upgrade and a sizeable skill increase to all his movement skills – an excellent baseline for him to use next time he needed to kite something that could kill him with a single blow.
+
+And then, Fade. The first time he had encountered Fade was with the Sylvan Archer in Myrin’s Keep – a rather ludicrous skill which dramatically increased movement speed while simultaneously allowing in-combat invisibility. Ali had happily transcribed the skill for him from her Grimoire, and Zor’kan had been able to use her notes to add it to his boots as a skill proc. And the nearly thirty percent proc rate he had achieved was quite extraordinary.
+
+Ever since he had learned to use his decoys to reacquire Eclipse’s invisibility, he had come to enjoy the power of delivering Ambush multiple times in a battle. Especially against bosses, this ability added an extreme increase in damage potential. While he didn’t get hit often, aura damage and splash damage from area attacks would count, meaning he would be able to use Fade in quite a variety of fights. And in those fights, he would have access to far more frequent uses of Ambush. He couldn’t wait to try it out.
+
+He grinned at the thought of how Belmar would curse him out when he found a puddle of fire and stood in it on purpose just to trigger his proc.
+
+And Fade is a movement skill, he thought, several ideas already materializing in his head for how to test if his skill proc would benefit from his movement skill increases. Maybe Devan… or perhaps one of the lower-level training arenas at the plaza?
+
+Right, and I got some levels from that ugly arcane elemental, too. Deciding it was a good time, he looked inward to survey his improvements and spend his points.
+
+Realm Hunter has reached level 188 (+9).+90 attribute points.Radiant Archery has reached level 100 (+4).Arrows of Brilliance has reached level 94 (+5).Motes of Light has reached level 75 (+2).Explorer has reached level 109.Blessing of the Dawn has reached level 78 (+4).Eclipse has reached level 52 (+2).Eyes of the Archon has reached level 76 (+2).Righteous Fury has reached level 64 (+2).Azrael's Wings has reached level 51.Mirage Armor has reached level 74 (+3).Cartography has reached level 38.
+
+Two more levels before Radiant Archery tiers up! He also had a whopping ninety points to spend. Good stuff.
+
+He had run the calculations for his point curves in advance, but he reworked the math in his head quickly, now that he knew precisely what level he had reached. Three points went to wisdom and endurance immediately, getting them out of the way. He could have gone either way, due to rounding errors in his calculations, but he settled on six points for vitality and seven for strength. For the remainder, he spent twenty-three on intelligence, and twenty-four each on perception and dexterity, bringing his main attributes back into alignment.
+
+Ok, now where is Lyeneru? He needed to coordinate scouting assignments for the area of the dungeon Ali had just opened up. He just knew several of the Pathfinders and guild scouts were itching to get their hands on some of that sweet exploration experience. Not that he knew anything about that himself. No, definitely not.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

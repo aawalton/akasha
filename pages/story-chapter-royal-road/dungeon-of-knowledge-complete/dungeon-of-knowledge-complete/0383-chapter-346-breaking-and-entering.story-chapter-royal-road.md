@@ -1,0 +1,139 @@
+---
+id: 2100b154-79f2-526b-9426-0035a785e07d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 346: Breaking and Entering"
+slug: 0383-chapter-346-breaking-and-entering
+partOf: dungeon-of-knowledge-complete
+position: 383
+ownLength: 3075
+unit: words
+ownProgress: 3075
+publishedAt: 2025-08-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2517676/chapter-346-breaking-and-entering"
+royalRoadId: "2517676"
+markedReadAt: "2026-06-29T20:24:55.812Z"
+---
+
+She was totally and hopelessly lost.
+
+Craning her neck around in all directions, Ali plotted a new path through this fresh section of the maze. A wide golden staircase spiraled overhead, linking two upside-down islands that crawled with softly hissing shades. She had given up on memorizing the layout entirely. Every time the spirit realm flickered to a different echo, all the portals were randomized – at least, she hadn’t found any discernable pattern yet – and she would find herself transported somewhere entirely unpredictable whenever she used one. It made planning her escape from the ever-present crawling shades nearly impossible; she just had to hope that wherever the portals took her would not land her in the midst of even more danger.
+
+But it was inevitable that it would eventually come to that. The odds were not in her favor. She shuffled as fast as her legs would carry her toward yet another glowing manifestation of magic, delaying her jump through the portal in case she could take advantage of the random spirit realm echo flickers to separate herself from her foe. Right on cue, the realm began to flicker.
+
+Using her enhanced dexterity, she reacted quickly, leaping through the portal before the flickers stopped, but she suddenly found herself on an already populated island as five hissing shades wheeled about and surged across the white stone toward her, flowing effortlessly between the crystal encrustations and the various arcane crystal trees.
+
+She dove back through the portal, deciding that risking a single shade would be preferable to five, but the portal had redirected already, and she found herself sharing an unfamiliar island with three larger shades. She hesitated – no more spirit realm echoes meant she was trapped between the five shades she had fled bearing down on her through the portal and the three in front of her.
+
+Desperately, she sprang forward, directly toward the smallest shade, hoping her enhanced dexterity would be enough to avoid it. As she dodged past it, reaching for the path just beyond, a shadow limb lashed out, shrouded in disorienting shadowy veils. Whatever it held was impossible to make out, shrouded as it was by its magic. The lancing pain that sprouted along her back and the warm wetness of blood seeping through her robe making the fabric stick heavily against her skin, was all too real.
+
+Ali screamed as she stumbled, falling to the ground and rolling as another uncanny blade sliced deeply into the white stone not more than a hand’s width from her head as she reflexively grasped for her barrier magic. But nothing came to her call as the brutal suppression magic weighed down her abilities like a thousand soaked blankets. In a rising panic, she reached for her safety, Arcane Recall. Again, the spell seemed distant and inaccessible, but something shifted within her as her mind reacted to the blockage, perceiving the strange mana of space and arcane affinity shifting and twisting as her skills warped and bent against her desperate pull.
+
+The shade turned, readying another attack. She saw it as if in slow motion while her mind accelerated. In the cold clarity of her helplessness, all she could do was watch the surging currents of domain mana rippling about her and the inexplicable wisps of shadow-affinity as the shade wielded magic in defiance of the suppression. The hidden blade grew larger as if it hungered for her, triggering goosebumps that prickled along her arms and neck in reaction to the pressure of its magic. Not since she had twisted her domain to make it compatible with Lira’s magic had she felt mana so viscerally. Not even when pushing against the teleportation suppression formation that had been cast across all of Myrin’s Keep during the attack so long ago had she felt so cut off from her magic.
+
+Inexplicably, the strange formations Clarence had shown her sprang crisp and fully formed into her mind. Sage of Learning swelled with a sense of odd pressure before it seemed to twist, and she had a sense of some kind of blockage to understanding suddenly popping. At once, the soft sound of her notification chime sounded.
+
+What… she thought, but already she knew. Fresh understanding flooded her mind.
+
+Sage of Learning has reached level 55.Arcane Recall has reached level 28 (+3).Requirements met for skill advancement.Mentor: ClarenceArcane Recall has reached at least level 25.Synergy: Sage of Learning has reached at least level 55.Spent extensive time studying magic in other realms. Has studied the essential nature of magic. Has earned the Rift Warden title. Arcane Recall gains Realm Affinity.(Your mana has affinity with all realms)Arcane Recall – level 28You are proficient with Arcane magic. You gain +140% [skill x 5] to spell power, spell haste, mana control, and mental reaction speed with Arcane magic. Your mana has affinity with all realms. Mana: Ignore the recharge for any Magic skill, spell, or triggered ability. Your magic is cast instantly. Recharge: 24 hours.Arcane, Metamagic, Mastery, IntelligenceAccept this advancement?
+
+Heck yes! Ali barely read the advancement, accepting it with the frantic urgency of her desperation. Her mind reacted to the sudden sensation of her mana sparkling within her as if it suddenly came alive. She reached for the familiar security of her Barrier skill as her enhanced mental reflexes made the shade seem like it was moving through molasses.
+
+With shocking brightness, a small disk of her barrier magic snapped into existence right in front of her face, blazing forth with a triumphant golden radiance as it ripped an enormous amount of mana from her mana pool.
+
+“What! How did you…” Cael screeched. “How did you steal that magic?”
+
+“Cael, it’s not mine,” Gage yelled. “Stop her!”
+
+Reacting to her advancement, Ali’s mana blossomed and bloomed throughout her domain, swelling from the sewers all the way to the depths of the Emberforge Mines. Shouts of alarm from adventurers in her dungeon filtered dimly through the back of Ali’s mind as she wrestled with the deluge of sensory overload from hundreds of domain-bound minions and her domain mana sight. The vast geyser of mana spewing endlessly from the giant elder tree in the center of the library sparkled under the profound shift, sending wisps, mana butterflies, and golden glitter dragonets cavorting in swoops of delight like dust bunnies playing in the corners under the influence of a gusty breeze.
+
+Along the length and breadth of her domain, Ali’s mana spilled across the veil into the spirit realm, bringing her mana sight with it. Ghost Mushrooms she had grown and had faded across to the spirit realm began pouring mana into her domain, reinforcing it as the Dungeon of Knowledge claimed the entire region of the spirit realm in a dizzying rush.
+
+Ali gasped as her mind expanded and her senses broadened. But within the Grand Library Arcana, unknown to her till yesterday, her dungeon mana kissed up against the Infinite Maze, separated by the thinnest of veils between the realms. Her advancement punctured a hole in that dam wall, and her mana burst through into the Infinite Maze, washing past the rune puzzle and sending violent daggers of dungeon rage slicing through her mind.
+
+Cael and Gage screamed like they’d just been impaled by a red-hot spear, but Ali only had eyes for the shadow blade clanging against the golden protection magic and bouncing off mere centimeters from her face. She scrambled backward, dragging her barrier along with her as she fled for the nearest portal and dove through it. Hanging on for dear life, Ali shot off down the pathway, hugging the track closely because she had no other way of navigating the bends and twists where space magic had subverted the very concepts of up and down. She had no desire to be tossed off into the abyss because she had suddenly been flipped upside down.
+
+But her mana was being sucked away at an extreme rate, so fast that she set herself down on an island of stone and dismissed her barrier. She panted, drenched with sweat as she took the few moments she had stolen to think. Dungeon rage was debilitating – a pain so profound that it was difficult to even think, but she had experienced it before, and she was willing to bet that Cael and Gage had not. Throughout her dungeon, her monsters went wild, roaring and thrashing as they reacted to her pain and the hostile intrusion of foreign dungeon mana, causing widespread chaos and confusion among the people within it.
+
+With an act of will, she calmed her minions, begging for a little time to steady herself from the raiders who would be relying on her healing.
+
+I can use magic. It was by far the single most significant thing she could have done. But there were still limits. Something about this place was making her magic cost ten or twenty times the normal amount. Think, Ali. Her continued survival depended on her unraveling this mystery. Already, Cael and Gage’s screaming was beginning to abate.
+
+She glanced around, studying the strange flows of mana still present, and in that moment, realized her skill advancement had nothing to do with the suppression magic that still suffused this entire dungeon. She had overcome the spirit realm, but not the brothers’ magic. Whatever their spell was doing seemed to add a massive multiplier to every activation cost – likely the reason all her passive skills had continued to work. But she no longer needed to unlock her storage ring and eat a Ghost Mushroom to have her magic function properly.
+
+Runic magic and formations were complex and delicate things, and she had earned extensive experience breaking them. Suppression magic was easy enough to understand – even a runic spell the size of a dungeon. She spent the exorbitant cost for her suppressed Dismantle and unleashed it. At least while the brothers were distracted by the dungeon rage, she might get away with it. Golden slivers of her magic shot out in all directions, leaving her close to empty, but the arcane spikes struck at various key points in the giant magical array, puncturing flows and disrupting mana, and suddenly, she felt the suppression drop.
+
+It was as if she could breathe again. There’s my magic!
+
+Instantly, a loud wailing chorus filled the area as thousands of shades took to the air, fleeing from their maze trap like a vast cloud of crows startled into an explosion of wings.
+
+“No! What have you done?” Cael screamed.
+
+Oh, shit! Ali hadn’t considered the effect she would have on the shades. She hadn’t even imagined the reason for flight and teleportation suppression might be to keep the shades in check. It was hard enough to untangle what Cael and Gage had been honest about.
+
+Still, they deserved it. Instead of worrying about the damage, she turned and deconstructed a pile of clear, gleaming crystals and some of the white stone, trying to refill her mana pool now that her magic didn’t cost an arm and a leg.
+
+Variant: Magicite (Space) added to Imprint: Stone. Variant: Ivory-white Marble added to Imprint: Stone.
+
+She dismissed the notifications, intent on the flow of magic. Her disruption of the suppression wasn’t permanent by any means – if it had been her dungeon, she would have made all of it respawn, and it sure looked like the brothers had done exactly that. Tracing the patterns of mana by what she saw and what she remembered, Ali moved to the clump of arcane crystal trees and deconstructed them, too, figuring out that they had something to do with the backbone of the suppression magic.
+
+Variant: Arcanite Birch added to Imprint: Tree
+
+“Stop! You’re destroying everything!” Gage screamed.
+
+But Ali was done listening. She had finally found a loose end, and she wasn’t about to stop pulling until she unraveled the entire ball of yarn. She summoned a barrier, blocking a swooping shade as she manifested her Grimoire. She made two more barriers, moving them rapidly to defend herself as she stood there and focused. She used Arcane Recall, and the whole world froze around her, shades paused mid-strike, but to her surprise, her head turned when she looked around.
+
+I can move now? Something to do with my advancement? She would look into it later, but for now, she simply enjoyed the freedom of not being frozen along with her magic – and the brief respite from the stabbing pain.
+
+I need to do something about the rage, she thought, her mind now clear. The advantage of inflicting the rage on the brothers wasn’t worth stumbling about in a haze of pain with her mind working at half capacity. She would fall off the platform or something equally stupid and just die.
+
+She paged quickly through her Grimoire, using her hand for a change, and summoned a troll ice mage. As her tall, blue-skinned troll appeared at her side, white mohawk and tusks gleaming in the light, her bubble of frozen time fell away, and all the shades resumed their flowing, shifting attacks.
+
+Her newly created troll took it in his stride, opening fire on the nearest shade with a volley of high-speed ice bolts that passed clean through her protective barrier, freezing the shade on the other side and then shattering it. Leaving her mage to take care of the rapidly growing horde of shades attracted to the powerful surges of mana, she twisted her domain, making it compatible with the overlapped domain of the two brothers, and the dungeon rage mercifully subsided.
+
+Ignoring the screams from Cael and Gage that were quickly turning to more coherent anger – and likely, a hostile response to her rapid destruction of their life’s work – Ali triggered her long-range teleportation spell, targeting her library. She moved a whopping ten meters. Fuck, how many layers of defenses do they have?
+
+She got even less use out of her recall potion. She eyed her mage and then traded places with him. So… short range only? I’ll just have to find another way.
+
+Ali flipped through the pages to find her swarm monsters. She had tossed a proverbial fox into the henhouse, and she needed to act quickly to take advantage of the chaos. She summoned a horde of Ghost Spiders and Glitter Dragonets and sent them darting off through the maze to explore while keeping her attention shifting between them so that she could memorize the layout.
+
+She summoned more and more minions, sending them rushing out through the maze in every conceivable direction as she recalled the entire layout of the suppression array in her mind. Large chunks of it she had simply deduced based on the requirements of how it would function, but for her purposes, it was perfectly fine. If she was correct, the center of the formation was clear, and if she understood anything about this dungeon, she was sure she would find answers there.
+
+She teleported, switching to another stone island without all the intervening complexities of mazes, paths, and portals, her heart singing with joy as her magic responded freely to her will. “Come,” she called and teleported again and again, following the direction toward the center of the dungeon. Her Troll Ice Mage appeared right behind her in a burst of frozen snow.
+
+Ali landed on the large floating island in the center of the Infinite Maze. Rising from the center of the island was a beautiful stone-and-crystal building, all delicately curving lines and soaring arches. Her Ice Mage appeared beside her along with Clarence, who had somehow managed to keep up with her mad teleportation dash across the convoluted and warped space of the entire maze. None of the shades had caught up with them yet, but it wouldn’t be long. Ali didn’t care, though – she intended to get answers. Answers that were only to be found inside.
+
+By now, she had created several hundred minions, leveraging most of her swarm imprints to map out the entire area, providing her with convenient teleportation targets, and she knew that this was the spot she sought – every tendril of mana, every wisp and line of the magical formations – everything originated from here.
+
+She stepped forward, her barrier held at the ready, still limping on her injured foot, approaching the magnificent building.
+
+“This is what the beasts showed me,” Val’korr said. His hand reached out to an empty stretch of air between two trees, but his thick fingers struck something entirely invisible, causing the very space in that area to ripple briefly before returning to normal. The ancient seeker had caught up to them quickly, presumably having finished his divination.
+
+“What is that?” Malika asked, reaching out her own hand, curiosity getting the better of her cautious nature. Her hand encountered resistance, like she was pressing on a sheet of something flexible, but she couldn’t see anything with her eyes. Even Soul Sight showed her only a faint, indistinct warping of the ambient mana in the area.
+
+“Space magic, I think,” Rezan said, poking at it carefully before actually unleashing a powerful punch. But his attack was rebuffed just as easily as Malika’s probing touch. “Strong, too.”
+
+Mato swiped at it, but not even his strength and claws could pierce it.
+
+“Perhaps we can find a way in?” Calen suggested. “My skills tell me Ali is in there, but it’s not clear where exactly.”
+
+“Let’s hunt for a weak spot,” Val’korr said, leading the way as they trekked through the spirit realm, following the boundary of the strange phenomenon wherever it led, quickly having to resort to various versions of flight to follow as it seemed to ignore the ruins themselves.
+
+It had been almost an hour of searching when Val’korr stopped abruptly, causing their entire party to pause.
+
+“Something is happening,” he said, his eyes studying the invisible space beside them as if he could see something she could not.
+
+But then she saw it – a strange swirling ripple in the mana which grew progressively greater and more chaotic, until suddenly the veil blocking their way ripped horizontally, and a blast of dungeon mana burst forth from the gap.
+
+“A dungeon!” Calen exclaimed. “The Infinite Maze, level one hundred and twenty-five. Space and Arcane affinities.”
+
+“Let’s go,” Rezan said, leaping through the gap, and everyone followed him.
+
+Hang on, Ali. We’re coming.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

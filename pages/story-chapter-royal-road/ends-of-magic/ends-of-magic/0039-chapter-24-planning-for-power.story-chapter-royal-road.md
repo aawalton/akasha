@@ -1,0 +1,253 @@
+---
+id: ea418bf7-87e4-5061-8ed9-b87171c96bcf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Planning for Power"
+slug: 0039-chapter-24-planning-for-power
+partOf: ends-of-magic
+position: 39
+ownLength: 2788
+unit: words
+ownProgress: 2788
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2698600/chapter-24-planning-for-power"
+royalRoadId: "2698600"
+markedReadAt: "2026-06-29T20:08:31.160Z"
+---
+
+The next few days passed peacefully, with lots of discussion about the Heirs’ classes. The first of them to make a decision was Aarl. After a morning of thought and a quick discussion, he chose Relicmaster. The class did everything it promised, allowing Aarl to use nearly any magic item, including those they’d looted from Sussu’s person.
+
+It also upgraded every single one of his class skills because of the Grand Dungeon they’d completed. That was a dramatic increase in his power. Any item he used became more powerful, and he could easily identify any magic item with a touch. That allowed him to go through the hoard of loot they’d pulled from the vault. There were almost thirty things in there that Nathan would classify as weapons of mass destruction. Some were simple, like the rod of annihilation. Others were complicated, like a clockwork orb covered with dials and knobs. Aarl’s skills gave him confusing information on that one, saying only that it would alter the fundament around it.
+
+“You can’t use those,” Sarya said after Aarl had sorted them out. She stayed near the collection of doomsday weapons, as if worried that the tremendously dangerous magical artifacts would go off if somebody weren't keeping an eye on them. “Any purpose would be seen as misuse. You would be seen as dangerous monsters with powers beyond your station.” She tilted her hand, indicating the other side of the argument. “But if you hold them and do not use them, then it will be a mark of your wisdom and restraint, and a reason not to push you to the limits.”
+
+Sarah smirked at that, reaching past Sarya to grab a prismatic wand of purification and storing it in her dimensional bag. “Then we’ll only use them if we can’t kill the dragon with anything else.”
+
+Sarya’s lips firmed into a line, but then she chuckled and waved a hand. “I hate speaking Garna's words, full of caution. Just remember my warnings.”
+
+The majority of the items they’d gotten from the vault weren’t apocalyptic weapons of mass destruction, and the Heirs found themselves making hard choices between old gear and new. Their old gear was among the best that Gemore could provide, purchased for them from their parents’ largesse and their own triumphs. But little of it could compare to the things that Questors thought were worth storing in their shared vault.
+
+Stella traded out her robes for a new set that held nine layers of enchantment, while Sarah took a pair of boots that would teleport her to a spot within sight with a click of the heels. Khachi traded out his hammer and shield for a pair of bracers that worked similarly to his new amulet, forging divine mana into solid form. With some practice, he was able to manifest a new hammer and shield with a thought and change their shapes easily.
+
+Aarl took the majority of the haul, dozens of different weapons and defensive artifacts that nobody else could use. He wouldn’t be able to use it all at once either, but with his skills, he could swap out items rapidly to counter whatever enemy they were fighting, and even the most powerful was further enhanced by his powers.
+
+About the only piece of gear on the whole squad that wasn’t getting upgraded was Sarah’s rifle, and that was because her skills were built around the weapon, and the only other firearm present was closer to a mana-cannon. There was a bow that could change shapes and enchant any projectile it fired with speed and hardness, and she thought it might be possible to shift it into a gun, but she hadn’t quite gotten a handle on it yet. Aarl could do it, but he hadn't been able to teach his sister.
+
+“Why wasn’t more of this used?” Nathan asked, watching the Heirs pick over the items that Aarl had arrayed around the tent. He’d thought about trying out a few of the more indestructible pieces of magic, but he thought that just about any of them would start degrading after prolonged physical contact with him.
+
+“Too much,” Sarya replied simply. “Nobody needs fifty artifacts, and they would not want to lose them in combat or on death. Most would be unsuited to their builds, a replacement for something they could do already, or simply something they weren’t supposed to have,” Sarya replied, stepping over and picking up a slim notebook that Aarl had jumbled off to the side. “This is a wizard’s journal from the Kalis conclave. They were supposed to all be destroyed.” She weighed it for a moment and then shrugged before handing it back to an eager Stella. “It’s not my responsibility to police your belongings.”
+
+Aarl came up to Nathan and presented him with a dagger in an enchanted sheath. “Here, I think it’s suited to you.” He stayed and watched, waiting for Nathan to inspect the weapon.
+
+Nathan raised an eyebrow, taking the dagger cautiously. It wasn’t heavily enchanted, with the sheath enchanted to make it less conspicuous and significantly more durable. He drew out the dagger slowly, surprise growing at the rippled black surface. Normal adamant felt solid to his senses, something that existed in both the material and aetheric planes. This metal felt like it was imbued with wizardry that wove back and forth between the two halves, continually feeding back upon itself to strengthen both sides. If normal adamant was tough, this thing was indestructible.
+
+Sarya’s eyebrows raised. “That is another weapon they should not possess, if it is real. That blade killed Syncarius, and the Aleph grid holds it as their treasure among treasure. The blade that cannot be unmade.”
+
+“Who’s Syncarius?” Nathan asked in turn.
+
+“The first lich. The inventor of death magic, supposedly,” Sarya replied, though her eyes were on the dagger Nathan held. “Is it real?”
+
+“I think so?” he replied without any conviction. He tilted the weapon to look at it more carefully, checking carefully to see if there was any degradation on touching his skin. The magic frayed a bit, but without the full weight of his antimagic, the self-reinforcing nature of the dagger repaired the magical degradation faster than it could accumulate. The simplicity of the weapon helped - it had a single, simple function, without anything complicated that Nathan’s antimagic could latch onto. The edge of the dagger was incredibly sharp, and he knew that it would not dull before the whole weapon shattered. “I don’t know what it’s supposed to be, but it’s the only item here that I can hold without it breaking. The same is not true for the sheath.” He looked down at the enchanted leather, then shrugged and picked it back up to attach the weapon to his hip. The magic was already frayed from the brief moments of contact with his skin. But it’d been built to hold the edge of the adamantium blade away from touching anything in particular, and that would be enough.
+
+“Finally, a weapon that can withstand your might,” Khachi remarked dryly, as Nathan attached the blade to his hip. The Wolfman was going through a few items he thought might suit him.
+
+Now that they’d sorted loot, the Heirs got back to discussing their class choices. The topic of discussion was whether they should focus on their strengths or seek to reduce their weaknesses.
+
+Aarl had his own strong opinion. “Combat is different at these levels. Any of our attacks can kill if not specially defended against. Fighting is a game of advantage, of having an attack that the enemy cannot block. The more unique attacks we have, the more capable we will be of winning those fights. The same is true for defense. Simply being stronger is not enough. We need to defend against more types of threat.”
+
+Pursing his lips, Nathan summarized the argument in his own words. “We’re playing rocket tag now. A single undefended hit wins the fight, so you need to have different kinds of rockets.” The metaphor took some further explanation, but everybody agreed once they understood it.
+
+Sarya wasn’t so certain of the argument. “Perhaps in combat against Questors, but against the Blight you will need limitless power. And that is your next challenge.”
+
+“I can carry that weight,” Stella said with a smirk. “I haven’t used my most recent Insight yet, regardless of my other classes and our new gear. Anything I cannot blaze through, Nathan can deal with.”
+
+“Our power is great enough,” Khachi agreed. “We could become as powerful as monsters of legend. But Questors have killed those threats before. We need not become unstoppable forces, but rather protect our own weaknesses and attack those of our foes.”
+
+There was some more discussion, but eventually they all agreed with the general premise of the idea. Now it was a matter of applying that logic to their class choices.
+
+“Edge of the Horizon,” Sarah said decisively. “The power to strike anything in sight is important, but secondary to the true power of the class. It promises that distance and poor visibility cannot blur my sight.” She gestured out the open door of their conveyance. “With the shape of Davrar, I will be able to see any foe before they see us, and strike them down if a bullet will do the deed.”
+
+Nathan opened his mouth to object, but then closed it. He’d thought that Line-Ender was a better class for her, bringing her closer to the destructive potential of the other Heirs. But on second thought, that wasn’t her role. They had destructive power, and getting more wouldn't help too much. She was their scout and precision marksman. With an unlimited supply of enchanted bullets, she already had enough firepower that a precisely-placed shot could be decisive. Now that bullet could come from beyond visual range. “I don’t have any objections.”
+
+Sarya was nodding along slowly. “That’s a calculated approach. It is not an option a Questor would take because it will not help you in normal combat or duels. But it is a powerful capability for a team.”
+
+Sarah exhaled a deep breath and selected the class. Then she looked out the open door, eyes fixed on the far horizon. “It continues.” Her eyes panned up towards the sky, where Nathan could only see blue sky. “Davrar is Endless.”
+
+They left Sarah to test her new powers and continued chatting. Stella spoke up confidently. “Most of my classes would let me destroy ever more, empower my spells beyond meaning. But eventually, the explosions are big enough. Wizardry is the next tier of magic, and Heir of Wizardry is a gem among glass. If we need new capabilities, then wizardry is the next step.” She nodded resolutely and looked at invisible text as she made her selection.
+
+She fell like a puppet with her strings cut, then waved her hand to dismiss a worried Khachi. “The Grand Dungeon. All of my class skills upgraded. It’s so much.” She started laughing, almost a giggle. “I shouldn’t have been worried about lacking power. Everything is stronger.” She brought up a hand, then slowly lowered it. “I’ll need to learn to cast small spells again.”
+
+Khachi straightened up from standing over Stella, then turned to address the rest of them. “My path is hazy. I am not suited for Hand of Resurrection. It is a passive action, to wait until the action is done for the greatest influence. My path lies through the heart of combat, to face down those who do evil and force my will upon them.”
+
+Sarya smiled a crooked smile at him. “Sometimes, the essence of a class is in the name. The Light of Judgement names its power, and it aligns with your conviction. Take the class that aligns with your goals. That class will be a powerful counter to the Blight.”
+
+Khachi looked around to see if there were objections. Nathan had a few thoughts, but none that he thought worth voicing. He still thought Hand of Resurrection was the best choice, but Sarya was correct that Khachi’s power depended on him listening to his own creed, perhaps more than for anybody else.
+
+The wolfman sat down in a meditative position and made his choice, not reacting at all as his figure was bathed in yet another shade of gold. His fur lightened yet another step, and he gained a permanent halo of light, as if he was constantly backlit by stage lights no matter the angle you stood at.
+
+Then Sarya turned to him. “And your own choice? I have made my opinion clear.”
+
+Nathan hesitated, then nodded. “I think there’s merit in Veilpiercer, but it’s close enough to Death of Legends that I’ll let your recommendation swing the decision. It's not often you get advice from somebody a thousand times older than you.”
+
+He took his own seat and selected his next class.
+
+Class skill Regenerative Focus has become Limitless Focus.
+
+Your Focus will replenish very quickly when you have capacity for thought. It can be spent to enhance your attention and improve your control, or on other skills or Talents that utilize Focus
+
+Class skill Catastrophic Blows has become Legendary Blows.
+
+Your strikes land with the force of the greatest foes you have defeated. Injuries inflicted with your bare hands will resist all but the greatest healing magics.
+
+Class skill Battle Stealth has become Out of Sight.
+
+You will be hard to track in the confusion of combat, easily slipping your enemies’ eyes and minds. This can be enhanced by expending Focus. High expenditure will cause your enemies to temporarily forget you exist.
+
+Class skill Mage Infiltration has become Magical Mimicry.
+
+You will not draw attention in hostile environments, and can easily mimic being a mage. This skill will grant you a convincing fake mana pool to fool wizardry detection.
+
+Class skill Forgettable has become Antimemetic.
+
+The memory of you will actively attempt to slip from your enemies’ minds. They will be able to resist with skills or raw willpower, but it will be a constant effort.
+
+Class skill: Sneaky Blow has become The Hidden Strike.
+
+Your strikes are inaudible, and ignore armor and most defensive skills.
+
+Class skill Antimagic Stealth has become Nondetection.
+
+Magic spells cannot find you.
+
+Class skill Magical Manipulation has become Mana Control.
+
+You can easily manipulate mana with your antimagic.
+
+Class skill Lethal Index has become Lethality Prediction.
+
+You will know how to inflict lethal wounds on your foes, even if they have enhanced survivability.
+
+Class skill Wizard Resistance has become Wizardly Immunity.
+
+Your antimagic applies against Wizardry at full strength. The more powerful the spell in question, the more effective the resistance.
+
+Class skill Magic Jammer has become Communication Countermeasures.
+
+You can selectively choose to block communication, coordination, and divination spells in a broad area around you, and allow specific spells to pass.
+
+Class skill Controlled Failure has become Sorcerous Sabotage.
+
+You can easily cause spells to fail, and can usually make it a catastrophic failure.
+
+You have gained the class skill Legendkiller.
+
+You will become stronger, faster, and tougher the greater your enemy is. This skill will not equalize the gap, but it means that any foe can be fought.
+
+You have gained the class skill Bane of Myth.
+
+Abilities based on fame, history, or worship will fail against you.
+
+You have gained the class skill To the Ends of Davrar.
+
+Enemies more potent than you that flee you during combat will be hindered in their flight. You will know their position, and any pursuit will be easier and faster.
+
+Nathan finished reading through the skills and just sat there for a second. He didn’t feel any different beyond a certain edge of clarity that probably came from Limitless Focus. But most of his skills would only kick in when he got into a fight.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 7

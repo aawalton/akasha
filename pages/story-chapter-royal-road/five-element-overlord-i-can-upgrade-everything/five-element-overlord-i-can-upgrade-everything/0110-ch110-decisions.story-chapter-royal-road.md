@@ -1,0 +1,193 @@
+---
+id: e3c5f5da-368d-5555-87f9-0145a1fef68e
+page-type-slug: story-chapter-royal-road
+title: "Ch110 Decisions"
+slug: 0110-ch110-decisions
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 110
+ownLength: 2971
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3753091/ch110-decisions"
+royalRoadId: "3753091"
+---
+
+Lan Xin makes a trip to and from the Red Pine Market to acquire all of the available healing elixirs, dropping off over a hundred and fifty back at the small peak of plot 81.
+
+She then makes her way back to her own private plot number 10, not far from the main towering peak of the Beast Mastery elder’s domain.
+
+Not a single disciple is allowed to approach her minor peak in the center of this plot that has a high-grade spiritual vein within it. This is the same for the five other named disciples of the Beast Mastery Peak. Even the vice peak master has to send notice in advance before approaching. The only member of the outer sect allowed to approach without warning is the Beast Mastery Peak Elder Kang Luo himself.
+
+The other named disciples of the Beast Mastery Peak have similar 2 to 3 kilometer-tall mountains formed by high grade veins to themselves just like this one.
+
+Lan Xin overlooks a territory over 6,000 acres large, with multiple minor peaks holding mid- and low-grade veins.
+
+Her duties are not very physically taxing; it is more so a reward from the sect. This plot grants her a private domain and consistent income thanking her for completing quests over the last decade and all she’s contributed to the sect since she joined at 15 years old.
+
+Every one of these minor peaks is run by dead-end outer sect disciples, commonly those with 8th- or 7th-grade roots, over 60 years old, with no physique or any hope of ever breaking into the late stage of qi refining.
+
+They are basically stewards, but managed to break into the mid stage of qi refining and have been awarded the title of outer sect disciple. However, they are still placed under the guidance of a higher-ranking named outer sect disciple.
+
+Half are inferior- and low-quality rice farms, while the other half are beast meat farms, raising 9th-grade earth bison to maturity and selling the qi-rich meat to qi refining and foundational families in the surrounding territories that wish to feed their young nutritious meals before they can cultivate pills.
+
+Within these camps, hundreds of normal stewards and thousands of servants carry out labor, profiting her a few thousand spirit stones a month minimum.
+
+This is often spent on high-grade elixirs, fire stones, and access to the perfect-grade veins in Lingshi City to continue her cultivation.
+
+Her days were spent squeezing extra resources out of heirs from weaker clans and contemplating when to join the Jiang family, accept the offer of becoming the peak master’s son’s woman, or get the attention of bigger families like the Wei or Lin Clans. Either settling for one of their many branch families or aiming for their main bloodline in the Nine Rivers City.
+
+Recently, none of her old schemes seem to matter.
+
+The immense wealth being accumulated in the spirit fields outside of Lingshi City for this junior disciple has broken her concept of resource value.
+
+The fire stones he grants her have opened up a path of cultivation that is obviously meant to be a secret from average clans. Even the perfect grade spirit vein she’s been cultivating on top of is far more powerful and pure than any so-called perfect grade vein rented in Lingshi City.
+
+This black-haired young man is an absurd anomaly, someone she must tie herself to in order to gain more resources. Yet, every time she even hints at an advance that normally captivates men, he becomes even less interested in her.
+
+He is nothing but a young teen; at this age, her allure should be overwhelming. It should be the only thing he thinks about when she’s around. The fact that he doesn’t even bat an eye at her advances makes no sense.
+
+Lan Xin has always gotten what she wants.
+
+Everyone looks up to her.
+
+No one else has advanced in cultivation as fast as she has in the Outer Sect.
+
+Especially now, as she’s at the perfected stage of the 11th level of qi refining.
+
+Her strength has increased drastically, making her last defeat, being hit by the fist of a foundation establishment illusory demon, replay over and over in her mind.
+
+The thought of reaching the 12th level, paired with her innate physique, has her confident that she could have blocked that blow if she were to go back and do that fight over again. She wouldn’t have had to have been saved and humiliated…
+
+Maybe her power dynamic would be different with that outer disciple, and she wouldn’t be so easily following orders from someone lower in the sect hierarchy. Yet, she still needs these fire stones; she cannot get them anywhere else, she is certain of that.
+
+He even asked for items she can’t procure, and is looking to find new connections with the Wang and Mu Clans soon. It’s very possible she’ll be left behind if he deems her useless.
+
+These are the thoughts constantly cycling in Lan Xin’s mind as she attempts to cultivate atop her peak for the rest of the night.
+
+She cannot focus. Flames grow hotter and more uneven in her soul, releasing more energy than she’s attempting to pull in above this weak vein.
+
+Lan Xin heads off back to Lingshi City in order to cultivate above the only spirit vein that feels right, the one Li Hao rejuvenated for her.
+
+—
+
+At the same time, on minor plot number 44, there is an angry-looking man pacing around in circles while his 7th-level qi refining grey wolf sleeps on top of his sect-provided mid-stage vein.
+
+Feng Minshun overlooks about 500 acres of rocky land unsuitable for farming. However, many hunting wolves are raised here.
+
+Every morning, rabbits and deer are let out into his domain after being raised on inferior-quality spirit fruits and grains from neighboring farms. They are often not even spiritual beasts, just naturally strong creatures, good enough for the training of 8th-grade level 1 qi refining grey wolves.
+
+The process of training is long and expensive, but every year a few dozen prime specimens are brought up to the mid stage of qi refining and sold off to the Quest Hall so that they can be rented out or gifted to new disciples.
+
+Feng Minshun profits far more than the average outer disciple watching over fields or breeding 9th grade spirit beasts. He has a higher prestige job than most, making a few hundred spirit stones a month on average, but has nowhere near the freedom or high income of the named disciples.
+
+He goes out on dangerous egg hunts every few months to risk his life for extra income and often sends this excess to his brother living as a steward, or back to his family in Lingshi City, for them to attempt to raise new promising youths to bolster the bloodline.
+
+The sight of a sleek black perfect-grade flying vessel, with Lan Xin’s orange and yellow flames trailing behind it overhead traveling out of the sect, infuriates him even more, pushing him over the edge to pull out a communication talisman and call his younger brother.
+
+“It’s time. Our clan has been suppressed for too long. You were meant to become an outer disciple after the war, but the Wang Family stole from us!”
+
+A younger, but equally resentful voice comes back, “How is that? The urgent slots have all been filled. With my 8th grade roots, and a failed breakthrough already damaging my dantian, I’ll need multiple high grade healing elixirs and over a year to prepare before I can attempt the 4th level breakthrough again.”
+
+Feng Minshun grits his teeth and sends a message back, “There’s no need for you to break through. The 3rd level of qi refining is enough, we just need to open up one of those urgent spots. The person that is responsible for taking your slot. It’s Li Hao from plot 81. You’re going to destroy his fields for good. I already tried planthoppers, but they were taken care of too quickly. This time, we’ll make sure they’re unusable, to the point where the sect must take action against him for negligence.”
+
+There’s a long pause, so Feng Minshun sends another message. “In less than 2 weeks, he will not be present on his plot. I’ll be away from the sect too. There should only be 1st level qi refining stewards left behind. The best part about all of this is what I heard from father… The Wang Clan's attempt to seize power back in Lingshi City by merging with the Mu Clan is not going to go as planned. That Li Hao will have no backing to save him. ”
+
+There’s no quick response back again, but a cruel voice comes back a few minutes later, “Very well brother, tell me the best way to strike. I’ll do it.”
+
+—
+
+News of this wedding spreads much further than just the Beast Mastery Peak.
+
+Wang Ming and his spirit beast make stops at the peaks of the four nearby outer sect elders’ abodes, with bundles of invites to be granted to important named disciples.
+
+He personally stops by many of the major qi refining families in between the outer sect and Lingshi City that he is on good terms with too.
+
+Within Lingshi City itself, both the Wang and Mu Family Patriarchs take care of the higher prestige invites, personally delivering the news to all of the minor foundational clans in the city, and even stopping by the Jiang Family General Store to deliver a notice.
+
+No one from the upper echelon of the Jiang Family is present; it appears they are out of town, or all staying in the private upper peak above the city out of range of communications.
+
+—
+
+High atop the Jiang Family Tier 2 spirit vein, one late-stage foundation establishment cultivator stands before four initial-stage foundation establishment cultivators.
+
+They all have ginger hair and varying proficiencies of the fiery mountain acquired physique vibrating at a similar wavelength.
+
+An underlying bloodlust fills the silence too, as every one of these Jiang family members is actively charging up their blood demon transformation physique with blood qi pills or is in the process of recovering after their last use.
+
+The most noticeable is the Patriarch, Jiang Duo, who has a thick layer of blood energy emanating off of his body while he speaks to his sons and nephews before him.
+
+“This is a direct attack on the prosperity of the Jiang Clan. The Wang and Mu clans have already colluded to kill our most promising heir, Jiang Ran… isn’t that right?”
+
+He turns to Jiang Yu, the 3rd-level Foundation Establishment cultivator, manager of the general store, and father of Jiang Ran.
+
+“It is true… I believe there are even more conspirators behind it too. Lan Xin of the Beast Mastery Peak has turned down all of my advances to become my concubine, even after showing interest in my son on multiple occasions. She was in the same Black Iron Mountain expedition where he perished and has even purchased a considerable amount of land from the Mu family recently at a major loss just to keep them afloat.”
+
+Jiang Duo snorts and nods.
+
+“It is obvious Old Mu and Old Wang believe they have what it takes for one last push against me, but they are mistaken. We will not only drive them out of the city, but annihilate their entire bloodlines. It is only our good fortune that they will all be in one place for us to strike.”
+
+He lets out a loud laugh. “Do report to the Fu and Tang minor foundational families of our plans, and any major qi refining families that have shown their loyalty over the past few months we have been squeezing. It is time to expedite our plans, the wedding day, this is when we will attack.”
+
+—
+
+An entire week passes by.
+
+Lan Xin continues her cultivation within the closed-off tier 2 array surrounded by 30 other perfect-grade spirit veins.
+
+She collects the over two hundred thousand spirit stones and visits the Wang and Mu family general stores, speaking with their elders that manage their miscellaneous land deeds, and she works out a deal to buy a plot from each of them on either side of the plot she already owns. Combined, a total of 58 more inferior-grade veins are purchased for 180,000 spirit stones.
+
+She then walks down the street to stop at a minor foundational branch family shop of the Lin Clan. This is where she purchased 30 near perfect-grade harvesting arrays for 60,000 spirit stones weeks ago, clearing out the majority of their stock.
+
+Today, she places a custom order for 58 more, dropping off 20,000 spirit stones as a down payment to collect 10 arrays upfront. It is all she has left after purchasing the land Li Hao asked for. The remaining 96,000 for 48 more is to be paid when she returns next week.
+
+Afterward, she walks to the end of the main street to her favorite high-grade talisman shop.
+
+A vibrant ‘Meng Clan Talismans’ sign shines above their storefront entrance, glowing blue and white all day and night to show off their wealth and ability to create high-quality goods.
+
+Inside, the walls are lined with low, medium, and high-grade talismans of every element.
+
+They range from as low as 1 spirit stone per talisman up to a few hundred for the most expensive and rare crafts.
+
+On display as their sole perfect-grade talisman, a main attraction of the shop, a bright crimson Incineration talisman gently rests inside a clear containment case on the counter.
+
+The two elderly mid-stage qi refining men at the doorway bow at Lan Xin’s entry, but the 8th-level qi refiner at the back of the shop behind the counter only looks up from a thick book filled with complex talisman diagrams for a brief moment.
+
+“Welcome back, Lan Xin. What can I get for you?”
+
+The fiery woman shrugs. “Nothing, Meng Ruo, I just came to see you, is that not allowed?” She looks at the walls up and down while walking through the shop, then stops and looks down at the perfect-grade talisman on the counter.
+
+“This one is new… I can’t sense technical physiques well, did you finally manage to reach the perfected stage?”
+
+The dark haired middle-aged woman shakes her head, slight wrinkles under her eyes showing from countless years of work, but they only add to her mature presence.
+
+“No. I am still at the late stage of my physique. That was the work of my father. He is still in a weakened state at his age, but as a foundation establishment cultivator, he can still manage to create a passable perfect-grade tier 1 talisman every few months to keep attention on our shop. One of the Wei or Lin branch family late-stage qi refiners will probably come in and buy it one of these days.”
+
+Lan Xin leans over the table with a playful smirk.
+
+“Have any of them shown interest in you? Life as a woman of one of the branch families is still quite good, don’t you think?”
+
+Meng Ruo rolls her eyes. “They only buy them to keep the good products out of the hands of new clans trying to rise up, it is their orders from their main clan head in the Nine Rivers City. They are not drawn to me at all. I have 7th-grade roots, they wouldn’t risk their bloodline falling further by taking me as a wife… And living as a concubine does not interest me. I turned 50 this year, Lan Xin… and I’m only an 8th-level qi refiner. If I don’t hit the 10th level of qi refinement before I turn 60, this realm will be my peak. It is likely that will be the case. I am content in making profit for my family and supporting the children of my brother’s many wives and concubines. One of them will surely be our Meng family’s next foundational pillar.”
+
+Lan Xin listens on and off to her reply; she’s more interested in looking at her own reflection in the containment case on the counter.
+
+“Well, maybe you’ll snag one of them at the wedding next week. I’m sure there will be plenty of other options too.”
+
+Meng Ruo sighs, realizing most of her words have been ignored. She looks up at the beautiful Lan Xin, feeling an even more oppressive aura than usual.
+
+“Did your innate physique grow stronger? Is this from some kind of reward after performing so well in the war?”
+
+Lan Xin shows a beaming smile, and fire flickers on her skin out of excitement from the praise.
+
+“Something like that. Let’s just say, foundation establishment cultivators will be my equal soon.”
+
+She lifts her chin to the ceiling, then a thought hits her and she turns back.
+
+“Actually, maybe I do need something. Do you have any of those soul harmony talismans? Something to help with seduction, or getting someone in the mood for what they really want.”
+
+Meng Ruo shows a thin grin and turns around, setting down what she’s working on to walk into the back of the shop.
+
+“The Third Ranked Beauty of the Azure Cloud Sect, having trouble seducing someone?” she mocks in a playful tone. “Follow me, I have some old product from the capital still lying around in the back. It may be exactly what you need.”
+
+Lan Xin keeps her chin high and crosses her arms, clicking her tongue, then follows after Meng Ruo into the back room.
+
+“No- no way, it’s not for me- It’s uh- I just think it would be an appropriate gift for the wedding, don’t you think?”

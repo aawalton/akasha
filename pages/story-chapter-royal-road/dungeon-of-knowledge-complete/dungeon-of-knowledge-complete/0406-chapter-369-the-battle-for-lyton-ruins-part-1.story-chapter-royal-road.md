@@ -1,0 +1,99 @@
+---
+id: fe7a54bd-e6cf-591c-83e5-0877670ff7ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 369: The Battle for Lyton Ruins (Part 1)"
+slug: 0406-chapter-369-the-battle-for-lyton-ruins-part-1
+partOf: dungeon-of-knowledge-complete
+position: 406
+ownLength: 2067
+unit: words
+ownProgress: 2067
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2579322/chapter-369-the-battle-for-lyton-ruins-part-1"
+royalRoadId: "2579322"
+markedReadAt: "2026-06-29T20:25:46.247Z"
+---
+
+The pitiful remains of Lyton lay sprawled out like a handful of rubble carelessly cast into the valley below. A large raven circled lazily above, descending slowly till it settled on a jutting pile of stone that had once been the mill. It made no cry, perched there with uncanny stillness as if it had suddenly been turned to stone.
+
+Zombie. Seth shivered as he stood waiting – an unusual reaction for a necromancer when noticing a zombie, but it was not the raven that had him so unsettled. It was the desolate wasteland all around him – a dead expanse that had once been the Lirasian Forest. It had been the primary source of life and livelihood for the small logging village he had once called home.
+
+I’m coming, Gran. His mouth twisted sourly. His grandmother was long gone, her skeleton ripped away from any hope of rest by the necromancer, Alexander Gray. The selfsame necromancer that awaited them below, now raised to unlife as a powerful servant of the Blind Lich.
+
+While he knew she was gone, and he had accepted the fact after processing so much trauma and heartache, he still hoped she would be proud of him. Even if he had become a necromancer. What would you say if you could see me now? Would you be proud? Or… he swallowed uncomfortably, would you run away screaming? I wouldn’t blame you if you did.
+
+He shook off his dark reverie and studied the powerful undead monsters infesting the ruins below. This battle is going to suck. Their plan relied heavily on Mato and his Tree Form. Which, unfortunately for him, meant there would be holy consecration everywhere – anathema to his lesser undead summons: the skeletons and the zombies. Worse, all their foes were undead and, therefore, able to heal by drawing on the death magic he wielded. He would need to be cautious.
+
+He retrieved his obsidian rod of Curse Proliferation and checked his storage situation, verifying the location of his emergency recall potions. Even if he couldn’t contribute with his usual army of the dead or his volatile wraiths, he still had his curses. He twisted his mouth; it was a claustrophobic way to fight, but he would make it work – and he was hardly alone. Arrayed across the hillside, concealed among the trees, the entire guild’s raiding crew waited, prepared and ready. Many of them he counted as friends, and that, at least, was something Gran had wanted for him.
+
+“Everyone ready?” Vivian called.
+
+Seth nodded firmly. As the team leaders affirmed that their groups were ready, he got to his feet. Turning halfway around, he called his specters to himself – the three half-incorporeal undead Troll Ice Mages that Ali had been so kind as to summon for him. Of all his options for this fight, these, at least, would be robust enough to survive and deal damage.
+
+Today, I’m an Ice and Curse mage.
+
+Calen drifted higher above the hill, his shimmering wings undulating softly in the fading light of the late afternoon. There was an icy bite to the wind that whipped his Pathfinder cloak around his body like a possessed flag, but he ignored it, concentrating instead on the lay of the land, the deployment of their gathered forces, and the undead-infested ruins of Lyton.
+
+The tanks stood, gleaming, at the front of each battle group. The archers and mages knew their roles, and the healers were all assigned. The complex logistics that were required to organize more than forty people in battle had been hashed out and rehashed ad nauseam – they were prepared. As prepared as we can be. Will it be enough? It has to be. There was a noticeable undercurrent of anxious shifting and obsessive rechecking of weapons and armor as the oversized raid group stared down at the impending fight. They were all experienced raiders now, but this promised to be far beyond any fight they had experienced.
+
+‘Cracked,’ Ali had called it, and he thought it was a rather appropriate description for what they were about to attempt. Lyeneru had once told him how people would look up to Pathfinders on the battlefield and that his ability to maintain calm was even more important than his skills with a bow. He had thought she was exaggerating at the time – hyperbole to make a point – but he could feel their gazes on him, his cloak and his platinum-rank providing a measure of sanctuary, leadership, and guidance for many of his lower-ranked guild mates. Seeing them gathered there on the hillside, he now realized the truth of his mentor’s words. They looked to him for emotional stability and morale – no small number seemed to be holding their fear at bay simply because he and the other platinum-ranked adventurers weren’t losing it.
+
+The unfamiliar responsibility settled on his shoulders like an uncomfortably heavy mantle, but he knew instinctively that he needed to take it seriously. Their plan was riddled with ridiculously large holes, and he was terrified that all the unknowns would suddenly rear their ugly heads and tear their groups to shreds. But he pushed down his fear, maintaining his outward calm for all their sakes, approving of their positions and placement. He had personally done everything he could to be prepared, and so had they. His worries were just that – normal nerves before a fight. Ali had sacrificed dozens of strong minions to probe each of the bosses individually, clawing out every scrap of information that might make the fight more reliable. The Skeletal Wyvern had fire magic, as he expected – and a powerful breath weapon that would need to be controlled. The Ghoul had a wasting disease, which confirmed the need to rely on Mato’s Tree Form. The Wight hit just about as hard as Kir’mogan had – Sabri and her healers were in for a rough time.
+
+He just hoped Alexander Gray’s abilities hadn’t advanced so far beyond what they had already experienced that it wrecked their plans. He was the most dangerous foe, and they would be going all out against him from the start.
+
+Enough worrying.
+
+“Last check for escape potions,” Calen called out, gratified to see that the entire group followed protocol promptly. As soon as the shuffling died down, he turned to study the walking corpse of Alexander Gray in the center of what remained of Lyton’s town square.
+
+Time to get this done.
+
+“Begin,” he called out.
+
+Immediately, the tank group advanced, racing down the hillside as they fanned out toward their respective targets. Healers and support classes flocked in their wake, the people who would ensure their survival during those critical initial moments of the chaotic commencement of battle. Archers and Hunters loped along beside them, ready to pull the bosses to the most strategic locations.
+
+Perfect. Like clockwork.
+
+A dry, rasping voice echoed out from the center of the town square, laced with anger and dripping with contempt as Alexander Gray’s corpse turned and glared at him.
+
+“I remember you,” he said.
+
+Sabri forced herself to ease the white-knuckled grip she had on her shield and sword as she raced down the steep hillside after Mato and Malika, trying not to slip on the rotting leaves or trip over dead branches. Her heart thumped loudly within her chest as if it were trying to leap up and out of her throat.
+
+You’re a tank, she chided herself, embarrassed at her fluttering nerves. You’ve done this before. But taking on four raid bosses simultaneously was insane – she had to trust that they knew what they were doing.
+
+Cami growled, and Willow’s bow sang. An arrow whooshed by Sabri’s ear, and suddenly, the gaunt figure of the towering Troll Wight came barreling toward them.
+
+Bone Wight – Undead Troll – level 81.
+
+The pale, bone-white face with its rictus smile and blackened tusks fixed Willow with a glare of disdain. Four sinewy blackened arms drew back. Four mismatched blades, similar only in the wickedly gleaming sharpness of their edges, blurred toward the woefully outmatched Beast Tamer, more than enough to dice anyone not decked out in Thuli’s finest plate armor.
+
+Willow stood her ground, trusting her tank.
+
+Sabri swung her shield in a short arc, powered by her skills. The flat, shiny surface hit off-white undead flesh with a ringing crash, seemingly setting off a cacophony of roars and crashing all around her as the raid began in earnest.
+
+The Wight spun to face her. Suddenly forgotten, Willow breathed a soft, but audible sigh of relief.
+
+Four razor-sharp bone blades whipped toward her, and Sabri raised her shield. Two slashes ricocheted from her shield before the third clanged against her breastplate, and the fourth traced a searing line of blood across the outside of her thigh. She coughed at the weight of that impact – more out of anxiety than actual injury – but steadied herself and swung her shield, slamming it edgewise into the agile Wight with a dull thud and a pulse of unleashed soul magic that burst into its dense, undead flesh.
+
+Energy flared from the Wight’s core, a sudden surge of stamina. A near-invisible blade crunched into the top of her overextended shield, knocking it several inches downward, and into the gap with exquisite timing, a second, even faster blade flickered. The slash bit deeply through the gap between her shoulder armor and her neck, driving her to her knees in the dirt as pain briefly blackened her vision. She gasped as a warm rush of blood gushing from severed arteries stained the front of her breastplate like a spilled cup of tea.
+
+In the haze, she was dimly aware of a gasp and a shout from Belmar and two more blurring blades.
+
+Must block.
+
+Dredging up strength from somewhere deep within her, she hauled her shield up. The blurring bone blades ricocheted off the sturdy Eimuuran steel Kite Shield. A fraction of a second later, a surge of holy magic infused her, knitting her injuries together and clearing her mind of the pain, the healing power of Belmar’s magic, substantially enhanced by her Tenacious aptitude.
+
+Ancestors, protect us! Gasping in near-panic, Sabri scrambled to her feet, regaining her defensive stance and blocking another series of rapid attacks before jabbing through her defensive guard with her sword. Stark white spears of dense bone erupted from the ground, interrupting her strike and imprisoning her in a heavy, constricting cage. Sabri strained against the unyielding bars, but the Wight hissed, unleashing a wave of bone spears that shot outward in all directions. Two spears shattered against her breastplate, winding her, and one impaled her through her left calf. Through the throbbing pain, Sabri saw the Wight turn from her, focusing instead on Belmar.
+
+Oh no, you don’t! There was a time when she might have hesitated – balanced on the knife’s edge, fearing for her own life and choosing instead to save Belmar. She was no longer that scared little girl. Without the slightest hesitation, she filled her lungs with air and unleashed a powerful shout. Soul magic blasted outward from her in a shimmering, barely visible shockwave that shattered the bone prison and stained cobblestones, leaving a pristine twenty-foot circle centered on her feet cleared of dirt and rubble. The Wight snapped back to her right in time to receive her shield slam to the point of its jaw. Where the… fuck… do you think you’re going? Her cheeks heated up at the rude word that sprang unbidden into her mind, but she focused on her dangerous foe, not willing to let anything else catch her by surprise.
+
+The energy flared within the Wight’s body once more, but this time, she was ready for it. The insanely accelerated attack met with her Critical Block with a ringing crash and a visible shockwave of force as she reflected the damage back to the Wight. It recoiled, flung back off of her shield by the blast.
+
+Chaos had erupted elsewhere across the entire ruined town, but she had a job to do. She buckled down, focusing only on keeping the Wight from wrecking her friends.
+
+Ancestors, now guide my blade and steady my shield, for I shall honor you this day, she thought, and then she leapt forward with a slash of her sword.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

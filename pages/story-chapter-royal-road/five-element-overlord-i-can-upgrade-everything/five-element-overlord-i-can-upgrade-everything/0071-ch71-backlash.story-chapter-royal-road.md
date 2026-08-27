@@ -1,0 +1,137 @@
+---
+id: 2417f994-f9c7-5d7f-93a0-683150337e60
+page-type-slug: story-chapter-royal-road
+title: "Ch71 Backlash"
+slug: 0071-ch71-backlash
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 71
+ownLength: 1758
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3511669/ch71-backlash"
+royalRoadId: "3511669"
+---
+
+[Ding!][Rewards have been deposited into your storage!][x3 Perfect 1st Tier Upgrade Card][x1 Minor Lottery Draw]
+
+I feel the rewards of another completed side quest enter my storage. The capture of Black Iron Mountain is accredited to me, and a new side quest to kill 5 foundation establishment cultivators takes its place. Despite Little Red killing this demon, a bright (1/5 complete.) still shows as though it was me.
+
+My attention shifts to many of the passageways that branch out from this center room, they start to collapse in on themselves.
+
+The resonating clashes of blood demon physiques far off in my senses tell me that there are still stragglers that were not in this room. Without the foundation establishment level pulses of aura flooding through the cave, many illusory demons wake up and begin moving again too.
+
+All of the other Azure Cloud Sect squads in this mountain are certainly outnumbered. However, I can’t concentrate on them, my focus is on the massive chunk of black iron ore at the bottom of the crater I’ve found myself in.
+
+The tired croak of Little Red hits my ears as he turns around and tries to hop back up to my shoulder, but his legs give out midway. I catch the exhausted toad and stow him away in my robe to rest.
+
+The tattered black cloak that saved my life multiple times today falls off of me, as though it's nothing but an old useless cloth. At the same time, I bend down to pull the now dormant and powerless jade anchor for the qi sword slaughter formation back into my storage.
+
+I’m not doing much better than my soul bound beast. When I begin to move, my steps are shaky and uneven. The potent aura coming off this foundation establishment corpse is still strong enough to break my defensive talismans in a matter of seconds.
+
+I activate a few more while bending down and pulling this white and grey body into my storage, along with the ring on his finger and the two silver daggers by his sides.
+
+Next, I wipe blood from my mouth and force myself to walk further. I press a hand against the center of this Inferior 2nd Tier Black Iron Vein, and pull the meter wide dark black ore into my storage.
+
+The ground shudders, and the potent suppression of spiritual senses in the air dims.
+
+Even Black Iron Mountain itself becomes weaker, like its very soul was just ripped out.
+
+I slowly climb out of the crater and survey the other half of the room that was not completely obliterated by my qi sword formation. The fiery yellow-orange eyes of Lan Xin stare me down from across the room.
+
+She’s covered in her own blood and has only managed to get up to one knee, but the flames on her Innate Spirit Body have started to grow back stronger.
+
+There is fear, intrigue, awe, and confusion in her gaze. I can’t tell what she’s thinking.
+
+A demonic man’s voice breaks the second of eye contact we share, “It was you! The Azure Lightning user! You’re the one that brought me to this state!” Jiang Ran yells while getting up from the ground as well.
+
+The man’s skin is torn, bones growing in strange angles, and his acquired physique is contaminated with blood qi pills.
+
+Almost all of his sanity is being stripped away.
+
+A blur of demonic flames comes toward me, and I pull out perfected 1st tier talismans to fight back, but a heavy set figure stands between us.
+
+“It was you… you’re the one from Red Pine Market aren’t you?” Wang Ming asks in a calm voice, blocking the flaming blade of Jiang Ran with his hammer.
+
+I nod, “It is…”, and take a few steps back.
+
+Both of them collide and slide backward.
+
+Jiang Ran’s aura constricts, making him yell out in pain, forcing him to consume another handful of red pills.
+
+“It’s all your fault! Now even if I use Mu Shulan to clear my body of this demonic qi, I’ll be back to square one… Wang Ming, this is your fault too! You’ve ruined everything for me!”
+
+His eyes become completely consumed with crimson blood energy as he lunges forward again.
+
+Wang Ming’s body radiates an invisible aura. However now that he is within my spiritual senses, I watch as he rapidly loses weight and the invisible aura grows.
+
+This triggers a memory when I watched Xu Hong’s meridians and pure muscle mass being eroded away to fuel her Innate Physique.
+
+I’m watching something similar happen, but it appears as though solely stored up qi reserves that present themselves as fat are being drawn on. It’s all being burned away, and the force is surrounding his body.
+
+No changes in his system scan are shown. Wang Ming has no innate or acquired physique activated. Yet, when he collides with Jiang Ran a second time, the force around him exceeds that of the flaming demon just slightly.
+
+Shockwaves echo through the cave over and over.
+
+Jiang Ran shines brighter red, and Wang Ming shrinks in size but the invisible vibrating intent surrounding him grows.
+
+The demonic aura becomes more erratic, and flesh begins falling off the ginger haired man’s body the harder he pushes himself. Bursts of power come from every handful of blood qi pills he consumes, but his body is destroyed more each time.
+
+He loses all his rational senses, yelling hateful nonsense, cursing the Wang family until his words sound like nothing but roars. Wang Ming only becomes sharper.
+
+A resounding clang echoes through the room as the long sword is batted away, and a silver hammer wrapped in a mysterious aura slams into Jiang Ran’s head.
+
+His skull cracks open, and he’s flung against the cave wall.
+
+The force of the impact breaks his blood-qi-ridden body to pieces. Tendrils of blood energy attempt to pull it back together, but the fractured soul and unstable flaming mountain physique only cause this attempt to backfire further.
+
+Even as the light dims in his eyes and his dantian disperses, the swirling pockets of blood energy in his body move about though they have wills of their own. He was not strong enough to withstand that much demonic power.
+
+Wang Ming falls to his knees next, and the silver hammer in his grasp shatters to pieces, unable to withstand the intensity of this battle.
+
+The invisible aura around him starts to swirl in an erratic fashion too.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[He has pushed his initial stage gluttonous intent to its limits. Qi reserves have run out, and his soul is not strong enough to saturate the intent on its own. Without copious amounts of spirit fruits and a soul stabilizing artifact, he will suffer a complete soul fracture in 60 seconds.]
+
+My eyes widen as the now skinny Wang Ming writhes in agony on the floor.
+
+I run over and pull out bundles of spirit fruits I bought at the Stone Valley Stronghold black market.
+
+When the scent hits his nose, he unconsciously begins grabbing the red, green, and white fruits, scarfing them down extremely fast before my eyes.
+
+A bear’s roar echoes behind me, and I feel Mantou running over.
+
+His brown fur is covered in bloody gashes, but the pain in his roar only comes from the soul bond he shares with Wang Ming.
+
+The horrific fluctuations in Wang Ming’s aura are an eye opening event.
+
+When I look inward and feel my own soul, it is smooth, white, and flows like a calm river.
+
+Yet the one before me is being torn into pieces by this invisible aura and pulling itself back together, struggling to stay whole. It’s like two shapes fighting against each other to see which will win.
+
+The more spirit fruits Wang Ming eats, the more qi fills his body. Yet, it’s being used up rapidly like a gel for these two wrestling entities to sit in and temporarily slow down their brawl.
+
+It is still inevitable that this Gluttonous Intent and his soul are going to destroy each other.
+
+This is almost exactly like the backlash Jiang Ran just faced… Though, it seems techniques don’t have to be inherently demonic to succumb to the same fate.
+
+I pull out a small fragment of silver metal from my storage, as it’s the artifact I found inside the Blood Demon at the bottom of Green Rock Lake. For my own uses, it seemed pointless to merge with, considering I already have my Jade Purity Soul Scripture.
+
+Yet, it may be the only thing that can save this man before me. I do not owe him anything, but in doing this, he will certainly owe me. This is a late stage qi refiner with connections to powerful foundation establishment families.
+
+The pile of spirit fruits quickly disappears, and I shove the metal fragment into his hands, “Cultivate with this! Circulate your ordinary techniques through it, and allow your soul to be stabilized. If you don’t, you’ll die!”
+
+He listens to the only voice within the chaos, and in just a matter of seconds, the dangerous constant soul tears slow down.
+
+I watch as his worn out soul and this invisible aura settle into an equilibrium and rest on top of each other, no longer fighting so violently. It takes his concentration, and the crumbling cave around us starts to fill up most of the craters in the floor. I can only see three passageways left to escape.
+
+“Mantou, take him out of here!” I yell to the bear watching from our side. It doesn’t hesitate to grab Wang Ming in his mouth and run away faster than my 4th level qi refining spiritual senses can track.
+
+The passage they disappear down collapses moments after, and the one right beside it slowly caves in next.
+
+I grit my teeth and eye the two paths left. Yet the moment I start to run toward one, I sense movement behind me. Lan Xin is struggling to walk my way.
+
+Stone cracks from the ceiling, and the second to last passage is closed off, only leaving one hole in the wall left to escape. Yet, she still only stares at me, yelling out with a pointed finger.
+
+“State your name and true cultivation. You’re a spy sent to watch me from the Azure Cloud Sect’s Inner Court, right? They have finally seen my worth and come to recruit me.”

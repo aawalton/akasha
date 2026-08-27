@@ -1,0 +1,159 @@
+---
+id: be116ea0-9974-5dc7-b824-946674093772
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-Three: Class Upgrade"
+slug: 0034-chapter-thirty-three-class-upgrade
+partOf: flesh-eater-demon-evolution-litrpg
+position: 34
+ownLength: 2882
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2702423/chapter-thirty-three-class-upgrade"
+royalRoadId: "2702423"
+---
+
+[Class Quest: Unlock Tier 2 Class completed!][Experience earned!]
+
+[You have earned 10 points]
+
+[Your species has leveled up! Lvl 20 —> 21][Strength +2, Agility +2, Constitution +2, Magic Resistance +2, Intelligence +2]
+
+[You have earned 10 points]
+
+[Congratulations, you have met the requirements to unlock a Tier 2 class!][(6) Tier 2 class upgrades available]
+
+[Please select from the following class options.]
+
+Damn, she hadn’t been expecting six options. That was more than her first species evolution, not counting the subspecies, and definitely more choices than she’d had for a base class. It was a good thing she’d waited until the end to do this, she thought to herself in amusement. She was glad to see the Tier 2 class quest gave more experience than the base class one, too. She’d actually gotten a level from it this time.
+
+Pyre continued reading, scanning the six options as they appeared.
+
+Tier 2 Class: KnightA Tier 2 class specializing in melee combat. Knights boast strong offenses and defenses that allow them to charge into battle while tanking blows. Some knights gain the ability to use magic while others may specialize in mounted combat.Stat Bonuses: Strength +4, Agility +2, Constitution +5, Magic Resistance +4
+
+Tier 2 Class: MagusA Tier 2 class specializing in both physical damage and magic. Well-rounded fighters, maguses have learned to weave their spells together with their weapons, giving them unparalleled versatility on the battlefield.Stat Bonuses: Strength +3, Magic +3, Agility +3, Constitution +3, Magic Resistance +3
+
+Tier 2 Class: BerserkerA Tier 2 class specializing in melee combat and physical damage. Berserkers boast the highest raw damage output among Tier 2 classes, trading defenses and level-headedness for a rage-fueled frenzy that allows them to wreak havoc on battlefields.Stat Bonuses: Strength +10, Agility +5
+
+Tier 2 Class: SentinelA Tier 2 class specializing in melee combat, sentinels hold high defenses and the ability to track battlefields with their heightened senses. Sentinels are both perceptive watchers and immovable walls.Stat Bonuses: Strength +3, Constitution +6, Magic Resistance +6
+
+Tier 2 Class: DuelistA Tier 2 class specializing in physical attacks. Duelists are skilled, quick on their feet, and excel in one-on-one battles. They often specialize in a single weapon type that they gain extensive mastery over, unlocking specialized skills for their weapon of choice.Stat Bonuses: Strength +4, Agility +6, Constitution +3, Magic Resistance +2
+
+Tier 2 Class: CommanderA Tier 2 class that leads others in combat. Commanders learn specialized skills that allow them to boost their allies both up close and at range. Commanders, however, are still formidable fighters by themselves, possessing a versatile, well-rounded skillset.Stat Bonuses: Strength +4, Agility +4, Constitution +4, Magic Resistance +3
+
+There was a lot going on here, so Pyre decided to start by cutting out the classes that were definitely not happening. Namely, [Magus] would be a complete waste on her considering her soul situation. She didn’t even have a magic stat—where exactly would that stat bonus go? Straight to the void? Frankly, the demon was surprised she’d even qualified for the class in the first place, but who could really say how the system made its choices. Either way, it was an easy one to cross off.
+
+Next, [Commander] and [Duelist] also held no special appeal for her. She really didn’t care about leading people, and while [Duelist] sounded neat, she probably wouldn’t take advantage of its weapon specialization. Oh, she’d probably pick up a weapon at some point—for disguise purposes, if nothing else—but she was otherwise quite happy to continue using her flesh warping to fight. Why use a sword when you could just grow a bone to stab someone with? The latter was much more convenient.
+
+With those three classes mentally crossed off, that left [Knight], [Berserker], and [Sentinel]. Between the three, [Berserker] was clearly the most offensively oriented one. A straight +10 to strength was kind of wild. It did sound like it came with some serious drawbacks, though.
+
+She wasn’t too worried about the implied battle rage part. After all, she couldn’t remember being genuinely angry a single time since getting reincarnated. There’d maybe been some minor annoyances, sure, but those had quickly faded. Pyre wasn’t an idiot; she was well aware that the way she behaved was probably not how the average person processed emotions. Even if she did pick the class, she doubted she’d suddenly turn into a hothead. At most, she might reach an average temper.
+
+The other downside was a much bigger deal. Technically, Pyre having such high defenses meant she wouldn’t be as badly affected by the [Berserker]’s issues on that front. It was probably a legitimate strategy for [Berserkers] to dump a lot of points into their constitution and magic resistance to compensate for whatever debuffs the class gave in those departments.
+
+On the other hand, Pyre didn’t like the idea of giving up her high defense for average defense at most. Personally, she didn’t think there was anything quite as satisfying as being able to stand there while an attack did jack shit to you. She wasn’t keen on losing that. So, even though [Berserker] did sound like a lot of fun, she put it aside.
+
+[Knight] and [Sentinel] were now the only two options left. Both seemed to have good defenses, with [Knight] having a more rounded kit while [Sentinel] put those defenses on steroids. Pyre was curious about what those “heightened perception abilities” mentioned in the [Sentinel] description were; the class was described as a “watcher,” but did that mean she’d get better eyesight overall? An internal alarm system, maybe? The possibilities were endless.
+
+On the other hand, there was something very funny about a demon ending up with a [Knight] class. It also sounded like the class itself had a few different branches of specialization that you could go into. She didn’t know if those were literal branches that she’d later get to choose or if her skill options would just become more tailored over time. Either way, it seemed decently versatile.
+
+Pyre read both descriptions again, thinking. When it came down to it, [Sentinel] best matched her current build, but [Knight] left more options open for the future—especially if she did one day recover enough of her soul to use magic.
+
+Fuck it. After thinking on it some more, she made her decision.
+
+[You have selected the [Knight] Tier 2 class][Strength +4, Agility +2, Constitution +5, Magic Resistance +4]
+
+[Adjusting stat sheet…]
+
+Tempting as [Sentinel] was, she figured that, given her subspecies was already defense-oriented, she should probably pick a class that had slightly better attacking potential. She’d still get some nice defensive boosts, but this way she’d have more options.
+
+Plus, she got a good kick out of the idea of someone like her being a [Knight]. It was just too inherently funny to pass up. She’d miss whatever perception buffs [Sentinel] got, but she already picked up quite a few sense-related abilities via subtrait shards. A human who couldn’t naturally (if you could call devouring things for their subtraits “natural”) get darkvision, thermal vision, and vibration sense—all traits of that nature, really—would probably get a lot more out of the class than a demon would.
+
+And so, she was going to be the least knightly demon knight to ever knight.
+
+And she was going to have a damn good time of it.
+
+[Your maximum class skill slots have increased! 5 —> 10]
+
+[You have gained the [Tier 2 Class] title!]
+
+[You have gained the [Knightly Courage] title!]
+
+[Quest unlocked!]
+
+Class Quest: Unlock Tier 2 Class AspectMeet the requirements to unlock a Tier 2 class aspect. You must achieve a minimum class level of 30 and possess a class crystal to unlock a Tier 2 class aspect.Reward: Experience, 10 points, Tier 2 class aspect gained
+
+[Quest unlocked!]
+
+Class Quest: Unlock Tier 3 ClassMeet the requirements to unlock a Tier 3 class. You must achieve a minimum class level of 50 and possess 3 class crystals to advance into a Tier 3 class.Reward: Experience, 30 points, Tier 3 class gained
+
+Huh, interesting. She’d been expecting the skill slot expansion (the system would’ve been a real asshole if it hadn’t done that), and she’d also known about the inevitable Tier 3 class quest, but the whole class aspect thing was new. It served as a nice bridge between now and her next class upgrade, considering she’d have to hit level 50 before reaching that. At least now she knew what those specializations in the [Knight] description were probably referring to.
+
+She’d been hoping to get a starter [Knight] skill or something similar to what she’d gotten with her [Warrior] base class, but no dice. Just two new titles. Ah well, she’d just focus on leveling her current species and class skills instead.
+
+A quick scan of the Tier 2 Class title showed, once again, that it was fluff. [Knightly Courage], on the other hand, apparently made her less susceptible to fear effects. She didn’t think she’d encountered any of those so far, but similar to her [Cold Blooded] title making charm effects less effective, she figured she’d probably be thankful for it when she did have to deal with those. Now that she was done reading, she mentally closed all her class-related notifications.
+
+Last but not least, Pyre still had a combined 80 points left to distribute. She started off by dumping 27 points into magic resistance, bringing it up to the same number as her constitution. She put 3 points in agility to round that out too, leaving her with 50 more points. After some brief consideration, she put 20 in constitution, 20 in magic resistance, and the last 10 in strength.
+
+There. Pyre pulled her current stat sheet up, scanning it with satisfaction. There were some new areas unlocked, and she had to say she was quite pleased with how it was looking overall.
+
+Name: Pyre [Tier 1]Species: [Lesser Fiend (Sloth), Lvl 21]Class: [Knight (Tier 2), Lvl 10]Aspects: NoneTitles: Reincarnator, Amnesia, Above-Average Sentience, Cold Blooded, First Evolution, Base Class, Monster Class, Group Combat, Chimera Killer, Conquering Sin: Envy, Tier 2 Class, Knightly CourageStatsStrength: 157Agility: 90Constitution: 200Magic Resistance: 200Intelligence: 54Points: 0Traits: [Amorphous 4], [Flesh Eater 5], [Scent 3], [Eye Growth 3], [Ossification 5], [Sound Perception 3], [Keratin 2], [Vocalization 2], [Regeneration (Sloth) 3]Species Skills [5/5]: [Basic Flesh Sculpting 2], [Basic Impact Absorption 2], [Basic Weight Manipulation 1], [Basic Slothful Field 1], [Basic Slothful Time 1]Class Skills [3/10]: [Basic Bracing Stance 1], [Basic Enfeebling Strike 1], [Basic Counter 1]Subtrait Shards: [Omnivorous 9/10], [Far Sight 2/5], [Scales 3/9], [Vibration Sense 6/7], [Mobile Ears 1/6], [Autotomy 2/5], [Venom 2/9]Subtrait Slot Expansion Shards: 1
+
+Now that she was done with everything, she turned to Callan. Across the tunnel, the ghost’s brows were furrowed, and he was tilting forward slightly as he muttered under his breath. Very clearly still in the middle of picking his base class skill.
+
+“Hey, kid.”
+
+Callan yelped and spun around to face her, temporarily pulled away from his screens. The demon raised an eyebrow in amusement. She gestured to the tunnels behind them.
+
+“I’m gonna be gone for a bit. I’ll be back.” She waved casually. “Until then, you keep doing you.”
+
+He nodded slowly, looking confused, but Pyre was already moving away without bothering to give a deeper explanation. Her body as a whole still felt more soft than it should, but it was good enough to move around with. [Regeneration]’s last level had made it noticeably faster.
+
+Retracing their steps wasn’t hard. The tunnel didn’t branch, so all she had to do was follow it to get to the cocoons. The silk threads were still draped all over the walls, blanketing rocks and stones in white like some sort of fucked-up snow. They would probably linger for many years, lasting long after their creator had died.
+
+Pyre did devour two bugs she found crawling on the floor along the way. Both were below level 3 and probably gave pennies for experience, but she got two more [Autotomy] subtrait shards and one more [Venom] subtrait shard out of it. It was worth it, in her opinion. These had been normal bugs, too, based on the brief flashes of memories she’d seen from them.
+
+After glancing around, Pyre moved over to the loosest human-corpse-coccoon she could find and grew a sharp bone from the center of her body. Wielding it like a knife, she began to slice into the threads, pulling them back to reveal the dead body below. Some kind of soldier or guard, she guessed, based on the uniform. The flesh was already starting to decay despite the preservative effects of the arachne’s threads. This one must’ve been dead for a long time.
+
+The demon closed her eyes, focusing on her new [Skeletal Recall] subtrait and the memory of her human disguise. If this thing didn’t work retroactively, this would get a whole lot more time-consuming.
+
+Thankfully, the system was apparently feeling merciful that day. When she opened her eyes again, she had morphed into a familiar human shape.
+
+Sort of. The skeleton was there, but her horns were still out, her eyes were still in random locations, and she had no hair. And her flesh was fully falling off some of the bones thanks to a lack of concentration, [Flesh Sculpting], and her general increased squishiness since fighting Tivona. But Pyre ignored that, because she only really cared about the bones right now.
+
+Crouching down and letting her flesh flop to the ground, she began digging into the corpse. It was so rotted that she could easily rip away outer layers of flesh and muscle with her misshapen fingers to reach the skeleton.
+
+From there, Pyre did a quick check of herself, trying to remember exactly which parts she’d been the most lazy about shaping the first time around. It was less than she’d thought—she was a little impressed with how much effort past-her had put into this. Not that there weren’t obviously off areas, of course. The total lack of toes being a pretty big one to start with.
+
+And so, in the dark tunnel, Pyre began reshaping all her misshapen bones and adding any bones, joints, and ligaments that she’d skipped.
+
+By the time she was done, she’d corrected her old human skeleton attempt into an actually accurate one. She walked around a few times to make sure she could move right and hadn’t fucked up somewhere, then mentally pictured “saving” over her old skeleton. She felt a wave of warmth pass through her, which she took to mean that her current skeleton had been successfully stored.
+
+Satisfied, Pyre absorbed her current bones and collected her body into a more compact blob to let her flesh continue healing. She made her way back down the tunnels.
+
+By the time the demon reached the exit, it had stopped raining outside. The ground was covered in so many puddles that it was practically flooded, though—the rain had been quick, but fierce. The continued rumble of thunder also meant a second round was probably coming soon.
+
+“You done?”
+
+In response, Callan turned from where he was hovering over Pyre’s dropped bag, apparently having decided to guard it. It was kind of endearing in that human, straightforward way of his.
+
+“What were you doing?” he asked, sounding curious.
+
+“Testing a new ability,” Pyre replied. She grew a blunt-ended bone and used it to scoop up her bag. “Figured out all your system stuff?”
+
+Callan nodded fervently. “Yeah, the options were a little different from what I remembered back when I first chose my class, but I guess that makes sense since I’m not a human anymore, and there were also some cool trait options I wasn’t expecting to get so soon. I think some of them could combo really well with different spells, but that also makes me wonder if I’ll get ghost-exclusive magic options at some point? That could be really interesting.”
+
+He was rambling again, Pyre thought in amusement. He seemed to realize it a moment after she did and hastily cleared his throat. “So, uh, yeah,” he finished awkwardly.
+
+“Well, I hope you didn’t forget the way to Magrath while you were reading all those notifications,” the demon joked. She waved her flesh in the direction of the exit. “‘Cause I don’t know about you, but it looks like it’s two seconds away from raining again, and I don’t think the map would survive that.”
+
+The ghost snorted. “Yeah, probably not.”
+
+Carefully, Callan floated outside, eyes darting around like he was expecting Tivona to suddenly rise from the grave. Their surroundings, however, were clear. Hovering higher, he squinted at the horizon.
+
+“If we head back to the Lightning Pass, we should be able to make it out of the mountains by tomorrow morning,” Callan said. His eyes moved to the demon. “Are you okay to travel?”
+
+“Eh, I’m fine.” Pyre adjusted her form and grew some bone plates to act as an extra shield while she continued healing. “You got hit by lightning too, you know.”
+
+“Not nearly as much,” Callan argued. He didn’t protest when the demon made her way out of the tunnels as well, though, her bag swinging on the bone with each movement.
+
+“Come on,” she said. “I want to get this mark off as soon as possible.”

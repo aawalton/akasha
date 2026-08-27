@@ -1,0 +1,187 @@
+---
+id: a308edcf-a0ce-5a29-9893-7de82be3ea9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-Five: The City"
+slug: 0098-chapter-ninety-five-the-city
+partOf: flesh-eater-demon-evolution-litrpg
+position: 98
+ownLength: 2531
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3553968/chapter-ninety-five-the-city"
+royalRoadId: "3553968"
+---
+
+“You did what?”
+
+Pyre shrugged. “Technically, I didn’t ‘do’ anything. I just asked the guy to take a look at my soul, then boom, fucked up ward exploded or whatever.”
+
+Callan grabbed his head and groaned. “Oh my god. You’re lucky something worse didn’t happen!” he chastised.
+
+Daphne frowned. The three of them had departed Llyr’s mansion and were making their way back to Serindell, enjoying the walk along the ocean’s edge. It was high tide, and the spray of the waves added a nice cooling effect to the air.
+
+“So there’s a ward around your soul? And it’s not your innate barrier?”
+
+“Didn’t sound like it was.” Pyre cocked her head. “Seems like it’s ‘protecting’ the soul, or whatever’s left of it. The Doc couldn’t see much before, well.” She waved her hands vaguely in reference to the whole situation.
+
+“That’s really weird,” Callan muttered. “You woke up in that titan’s stomach, right? Did you already have the ward back then?”
+
+“Wouldn’t know. It’s not like I can feel it.”
+
+Callan and Daphne exchanged looks at that. In some ways, the whole situation might be even weirder for the two mages than it was to her, since they actually knew what was “normal” for souls in this world. Pyre, meanwhile, hadn’t been normal for a second since being reincarnated.
+
+“I guess you couldn’t ask Llyr to look at it again,” Daphne said slowly. “You said he was coughing up blood?”
+
+“We’re lucky he didn’t kick us out right after that,” Callan muttered. He pinched the bridge of his nose and shook his head. “It’s a good thing he’s nice.”
+
+Pyre raised an eyebrow at the ghost. “Weren’t you the one saying he wasn’t human? What happened to all that suspicion?” she drawled, amused. “What, did the free plants woo you?”
+
+“They’re not just plants,” Callan tried to say, but he seemed to realize he was inadvertently proving the demon’s point and promptly closed his mouth. Daphne snickered, and the ghost scowled at her.
+
+“You were the one chatting with him at lunch!” he accused. The noble waved dismissively.
+
+“I was being polite. And we do owe him—I mean, he’s basically helping us for free.” She sobered at that, one hand rubbing at her chest before she glanced back at the mansion, then forward to Serindell again. “It sounds like he’s helped a lot of people here,” she said slowly. “The residents here really like him.”
+
+Pyre just hummed at that. By now, they were nearing the eastern gate, and the dead angel was once again a prominent figure against the sky. Her eyes landed on those wings again, tracing the feathers as they approached the gate. Based on the way both Daphne and Callan slowed, she wasn’t the only one who wasn’t used to seeing the titan there.
+
+“…Did that titan in Ravarn look like that?” Daphne asked. Pyre glanced at her.
+
+“Well, Fred’s a demon, so no,” she said. “They’re about the same size, though.”
+
+The mage nodded slowly. “Should we go there first? To the sanctum? I didn’t know if there was anywhere else we wanted to check out.”
+
+Callan immediately brightened. He nodded vigorously. “I wanted to see the sanctum too,” he said. Both mages then turned to Pyre, who shrugged.
+
+“Sure,” she said simply. Frankly, she was curious too. That weird feeling still appeared whenever she stared at the dead angel, and it was probably worth checking out.
+
+Plans made, the three stepped through the eastern gate, re-entering the city.
+
+“This is not a sanctum.”
+
+Pyre glanced back from where she currently stood at the edge of the raised platform, staring down at the series of pipes and support beams running along the legs of the titan. Callan was squinting up at the figure looming above them with a frown.
+
+“It’s a tourist spot,” he elaborated. His words were emphasized when, up ahead on the platform, a booming voice spoke above the chatter of all the visitors clustered by the railings.
+
+“If you look below, you can see the foundational beams we’ve put in place! They’ve been painted by Serindell’s own finest artisans.” The guide shifted, pointing at the pipes next. “Now, those pipes are the most important part of this structure. They extend further underground, where they—”
+
+The man kept going in an impressively enthusiastic voice, given how often he must give this exact same speech every day. Pyre tuned the rest of it out.
+
+When they’d reached the foot of the titan, they’d found an entrance leading to a series of platforms and walkways wrapping up around the corpse’s legs. Here, it was a lot darker with the angel’s wings directly overhead, and it allowed the glowing ichor in the pipes to stand out more clearly.
+
+Right now, they were on the highest platform available, right around the corpse’s knees. It was thoroughly crowded, everyone leaning over the railings for a closer look.
+
+It was funny how when they’d first entered the city, there had been a moment, staring at the angel’s closed eyes, that Pyre had thought it might still be alive. Now, staring at the pipes and beams, it looked more artificial. More tangible. The weird feeling didn’t fade, but it was much more manageable like this.
+
+“It says they have separate temples around the city for worship,” Daphne said, squinting down at the flyer they’d been handed on the way in. “I guess they use those instead of one sanctum?”
+
+“Makes sense. This place’s way bigger than Magrath,” Pyre drawled. She leaned casually back against the railing. One of the tourists trying to get a closer look shot her a stink eye. She grinned at him, the expression a little too wide and sharp, and he promptly ducked his head, muttered an apology, and left to find another spot.
+
+Callan huffed. “Maybe, but still, this is…” He waved his hand at all the people crowding around them, looking so put out that the demon barked a laugh. She supposed this was what they called “culture shock.”
+
+Pyre peered over the heads of the tourists. She could see even more people climbing the stairs up to the platform. It looked like it was just going to get more and more crowded the longer they stayed. She glanced at Daphne, who was the only one in their group still listening to the guide.
+
+“Ready to go? It’s about to get swamped.” The demon jerked her head at the stairs for emphasis. Daphne nodded slowly, and Pyre pushed herself away from the railing.
+
+They managed to make it back down to the ground with impressive speed, mostly on account of the demon leading in the front. Most people stepped aside when they saw her, and the ones who didn’t were very easy to shove aside. Yep, she was never giving up her height or shoulder-width.
+
+The moment they were back on solid earth, Callan exhaled in relief. Daphne snorted at the ghost.
+
+“You need to get out more,” she said.
+
+“Cut me some slack,” he muttered. He rubbed his arms. “I’m not used to being corporeal for this long,” he added in a quieter voice. Pyre supposed it would be pretty jarring to go from phasing through everything to suddenly being stuck in the middle of a crowd in such a confined space. She hummed.
+
+“Well, what now?” They still had quite some time before sundown. Callan straightened.
+
+“Well, I was thinking—”
+
+“I swear to god, if you say the library—”
+
+Callan spun around and scowled at Daphne. He pointed an accusing finger at the other mage. “You said you wanted to go too!”
+
+“Yeah, tomorrow. There’s supposed to be a play at the Siren’s theater today,” Daphne said with a huff. She pulled out an itinerary that she’d written (when she’d had the time to do that, Pyre didn’t know) and gestured to one of the items on the list. She turned to the demon. “Galen’s known for its theaters,” she explained. “They’re not quite as famous as Ilyra’s, but they’re still a big part of the culture here.”
+
+Callan peered over at the paper, quickly scanning the text. He frowned. “That play’s awful,” he said bluntly. “I read the script. The story makes no sense.”
+
+“It’s for the experience,” Daphne emphasized. Before Pyre knew it, both mages had turned to her with expectant looks. She raised an eyebrow.
+
+“What?”
+
+“You’re the tie-breaker,” Daphne said. The demon snorted.
+
+“Just go wherever you want and meet back up before sundown or something. It’s not that hard.”
+
+The two paused at that. Apparently the idea hadn’t occurred to them. Slowly, they faced each other again.
+
+“…Meet at the fountain by sunset?” Callan suggested.
+
+They’d passed by the fountain in question on the way here. It was a massive thing, complete with a full curtain of water falling around it. It was located in one of Serindell’s busier squares, situated right in the middle of the city’s commercial district. It was on the way to the eastern gate and impossible to miss, so it made for a convenient meeting spot.
+
+Daphne nodded. “Okay,” she agreed. She glanced at Pyre. “What about you? Where are you going?” she asked, curious.
+
+To be frank, neither the theater nor the library sounded remotely interesting to her.
+
+The demon’s eyes swept the city, eyeing the buildings and the forest in the distance. They’d passed by it on the wagon-ride here. Those dense trees sat like a second wall cushioning the northern part of Serindell, the city bordered by woods on one end and the sea on the other. She hummed.
+
+“I’ve got somewhere else in mind”
+
+Getting to the forest from the city was fairly straightforward. Pyre just had to exit out the northern gate, then cut across the main road to step into the tree line. She did spook more than a few carriages when she ran onto the street, but that was kind of unavoidable. It wasn’t like anyone crashed.
+
+The moment the demon stepped into the woods, the air got cooler. The canopy provided shade from the beaming sunlight, and if she focused, she could still make out the distant sound of waves. Pyre turned, striding deeper inside.
+
+Since it had taken some time to get here—Serindell was massive, after all—she wouldn’t be able to stay for long before she had to meet Callan and Daphne again at the fountain. This shouldn’t take much time, though. She just had one quick thing she wanted to test.
+
+Up ahead, some leaves rustled. Her gaze snapped up to a branch just as a bird fluttered down from the canopy and landed atop it.
+
+In a flash, the demon’s flesh rippled. She raised an arm, hand melding into a solid pillar of flesh that shot straight at the bird.
+
+It squawked, but before it could take off, the flesh wrapped securely around it, holding it in place. Without blinking, Pyre promptly grew a mouth on the end of the flesh limb, then chomped down on the bird.
+
+[You have devoured (1) Forest Bird Lvl 3][Experience earned!]
+
+[You have gained (1) [Feathers] subtrait shard]
+
+Pyre munched down on the small animal, spit out the feathers, and waited.
+
+No more subtrait shard notifications appeared. Certainly not the one she’d been looking for. This confirmed that she’d only be able to get [Volant] shards from very specific flying creatures.
+
+The demon smiled wryly. She should’ve known it wouldn’t be that easy.
+
+Daphne was frowning when she left the theater. “What the hell was that ending?” she muttered to herself. The sheer bafflement at the play’s narrative decisions hadn’t left her since the curtains had closed, and the fact that everyone around her was chatting happily, apparently seeing no issue with the plot, only incensed her more. The actors deserved a better script than that.
+
+Huffing, the noble glanced up at the sky. The play had lasted a full three hours—three hours of her life she would never get back, she thought miserably—which meant she had about one left before she’d need to start heading for the fountain.
+
+“Excuse me, Miss, are you looking for something? Can I help you?”
+
+Plastering on a pleasant smile, Daphne turned to the curious merchant glancing her way. She’d been approached by a number of strangers already, many offering to show her around the city. The couple who’d sat beside her at the theater had even invited her to an aristocratic party in the Upper Ring, which she’d politely declined.
+
+The combination of her foreign clothes, her “noble” way of carrying herself, and her looks meant people were constantly trying to talk to her. It was quickly getting exhausting.
+
+“No, thank you, I was just taking a break,” she said politely, already stepping away. “I appreciate the offer, but I must be going now.”
+
+With that, Daphne turned gracefully and continued down the road.
+
+Her gaze swept over the various stores in the area, noting their general locations, before finally landing on one particular building a block down. The post office.
+
+She would write Edmund a letter, she decided. Her cousin hid it well, but he was just as enthusiastic about traveling and seeing new sights as she was. Hell, he probably would’ve liked that play just now, sappy as it was.
+
+Even as Daphne began mentally composing the letter, she left off any mention of Llyr or the possibility of rebuilding the barrier around her soul. She still couldn’t quite believe it herself—she didn’t want to believe it, lest she get disappointed.
+
+For now, she wouldn’t bring up her ichor-poisoning, she decided. No reason to jinx it when the “cure” was still in progress.
+
+And yet, as Daphne pulled open the door to the post office, she couldn’t suppress the faint spark of hope in her chest.
+
+Callan almost tripped. He cursed, quickly righted himself, and continued down the street.
+
+After finally getting used to floating, he was now significantly worse at running than he’d used to be. He didn’t want to risk turning incorporeal, though, when the streets were still so crowded.
+
+He’d lost track of time. One moment he was opening a book on Galen’s native plants, the next the moon was already shining through the window. Callan had scrambled to his feet, hurriedly placed the book back on the shelf, then rushed out the library.
+
+Serindell was even more lively than Magrath at night. The moment he reached the main street, he had to slow his pace. There were just too many crowds to navigate around.
+
+Above, the angel wings shimmered with that odd mix of swirling colors. With the inky black sky behind them, they resembled galaxies and stars. He still wasn’t sure how he felt about the whole… setup of the dead titan, but he had to admit that it looked beautiful.
+
+Pushing past a group of teenagers loudly chatting, Callan turned at the next corner. Up ahead, he could see the fountain at the end of the street, its waters glowing with ichor silver.
+
+The ghost sighed in relief. He was about to continue forward when he suddenly stopped.
+
+Down the dark, narrow alleyway to his right, he heard something move.

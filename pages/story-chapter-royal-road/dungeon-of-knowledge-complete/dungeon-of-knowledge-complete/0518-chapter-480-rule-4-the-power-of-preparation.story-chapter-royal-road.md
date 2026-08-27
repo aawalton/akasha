@@ -1,0 +1,191 @@
+---
+id: b1036d42-cb97-5f6d-b0d6-5f160881324f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 480: Rule 4, The Power of Preparation."
+slug: 0518-chapter-480-rule-4-the-power-of-preparation
+partOf: dungeon-of-knowledge-complete
+position: 518
+ownLength: 4185
+unit: words
+ownProgress: 4185
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2861705/chapter-480-rule-4-the-power-of-preparation"
+royalRoadId: "2861705"
+markedReadAt: "2026-06-29T20:29:49.757Z"
+---
+
+Ali had never quite gotten comfortable seeing through the Eye of Agnor’s ten different demonic eyes, Still, she had to admit it saw a whole heck of a lot better than anything she had ever experienced, save perhaps the True Sight of the Malevolent Oaks, and even that had a limited range. She could see the Death Knights clearly in the dark, both with the demon’s dark vision and with its mana sight. And, although her personal mana sight was much more advanced and nuanced, she still had to be close enough to use it when she was outside her domain. Much safer to use a minion.
+
+She kept herself back, flying softly, using a dark second-floor window for cover, purposely choosing a different vantage point so she wouldn’t miss the magic when it came.
+
+“You guys stay back at the entrance,” she sent, reinforcing her orders to her restless berserkers, warriors, and rogues. The sensation she got back was one of grumbling and frustration, but she would not allow them to mess this up and get instantly killed while she was distracted studying the curse.
+
+“Devastation Knight first,” Calen said. “Go when ready.”
+
+In response, Mato began to run, a heavy lumbering gait that would suddenly accelerate when he reached the maximum range of his Charge. Malika followed along behind him, pulsing her healing to pre-ward them against the fear auras. Ali urged her Blood Shamans to follow a short distance behind, reminding Joraa to use Free Action and Resistance of Blood as soon as possible. He responded to her with a mental eye roll.
+
+As their vanguard approached the Death Knights on the street below, she directed the rest of her forces. The troll ice mages would remain focused on the death affinity Devastation Knight, no matter what – the ice affinity one was most likely immune to their ice bolts. She put her holy mages on standby, ready for the attack. She summoned a barrier guarding her second group – the priests and witch doctors – trying to ensure their safety in the chaos.
+
+A sudden crash focused her attention on the Death Knights as Mato commenced the brawl. Magic surged, filling the area with formations and blasts of ice and death. Malika retaliated with pulses of soul magic, healing in waves, while Mato flared with the power of his void attacks and nature restoration magic.
+
+Ice cracked and popped as it expanded through the battlefield, chilling her shamans, but Joraa dutifully dropped the proper totems, and when the sea of skeletal, grasping hands burst forth from underfoot, they found it impossible to keep their grip on Mato’s paws or the trolls’ ankles.
+
+“Begin,” Ali commanded, not taking her eyes – magical or otherwise – off the Devastation Knight. In response, mana flared from all around her. Bolts of ice lanced across the dark stone street with soft swishing sounds, finding their target in the dark Devastation Knight’s body, cleanly passing through its heavy plate armor. Six peripheral demon eyes opened, unleashing a shower of glowing golden arcane stars that rained down upon the battlefield, gracefully arcing around to seek their target. Holy fire kindled in the back lines, behind the cover of the waiting giant Carnage Berserkers.
+
+Suddenly, there it was – the dark spiky formation of death mana. “Curse!” Ali shouted, immediately triggering her Study Trance to boost Sage of Learning as she focused intently upon the structure of the spell formation, leveraging every point of her boosted perception. It was no accident she was calling the dangerous spell – they had walked in here expecting an easy fight and been immediately routed by two Death Knights. This time, they were treating this like a mini-boss fight, fully prepared to execute their new strategy. Ali, however, didn’t see the response to her warning; every single sliver of her attention was brought to bear upon the structure of the magic rapidly assembled before her.
+
+Death mana wove into a foundational layer, ominous-looking already at this stage. Further detail grew from the base, like spines sprouting in darkness. The formation emerged, surprising in its organic structure, but then an infusion of power caused it to burst outward, suddenly filling the air with dangerous potency. As it touched each entity, a small part of it lodged into them, like a burr burrowing into their flesh and taking hold, invading their bodies with fine tendrils of black.
+
+She released her Study Trance then, having seen enough. “Decurse it,” she instructed, mentally coordinating with Kir’vella and her other witch doctors as she pulsed mana into her Arcane Insight, dismantling the curse that had landed on Mato. The witch doctors had shorter recharge timers, so she left them to clean up the remainder of the curses while she prepared, mentally reviewing the formation she had just memorized.
+
+“Ali?” Calen asked.
+
+“Got it,” she confirmed. “Melee, attack!”
+
+“Yes!” Tol’brekk roared in gravelly delight, and both Carnage Berserkers leaped into the air, clearing more than ten meters before bringing their greataxes crashing down upon the Death Knights’ hastily conjured shields. Trails of bone spikes appeared upon the stone pavement as Kir’mogan and the warriors charged in, but she ignored them, trusting their skills in combat.
+
+Her attention was welded to the Devastation Knight. Calen had estimated a recharge time of thirty seconds, and she agreed. Sure enough, the black formation of the Damage Reflection curse sprang up, almost buried amid the storm of other spells, right on cue.
+
+“Curse!” she yelled, but this time she was not standing idly by while she studied the magic. She recognized the shape and the sudden surge of death mana. She did not have a perfect familiarity with the spell yet, but it would have to be enough. She continued studying it even while she spun her arcane mana into golden needles that hovered before her outstretched palm. New insights pinged into her awareness as she created her counter-spell, translated rapidly into minor adjustments.
+
+She released it.
+
+Tiny golden darts shot out with a rush of speed that boggled even her hasted perception, accelerated by the enhancements to her arcane magic and proficiency. In the realm of magical combat, speed was most certainly the determining factor, and her skills had been growing. The darts bearing her counter-formation tore into the Devastation Knight even before it could release the jagged black formation of the Damage Reflection curse. Holes formed, ripped through the ominous black magic by the golden sparkles and glitter that ate into it like acid. It unraveled in a fraction of a second, emitting a popping noise that was almost drowned out by the continuous detonation of combat spells. And in the undoing of its magic, she learned even more; subtle details revealed to her mind and senses.
+
+New curse: Damage Reflection learned. Domain Magic updated.
+
+Useful. Next time, I’ll be even faster, she thought. And now that she understood it, there was no way she was going to allow it to ever use that curse again – and it was a grim reminder to stay on the alert. No doubt there would be more challenges ahead, more variants of these Death Knights and other creatures to deal with.
+
+“Malika! Incoming,” Ali yelled. Now that the danger of the Damage Reflection curse was gone, she could finally go on the offensive. “Get in there,” Ali instructed. She sent her command as a simple thought, and the giant floating demonic orb, the Eye of Agnor, currently on overwatch, teleported right beside the Death Knights, its terrifying array of eyes already brimming with potent magic. A cone of golden, sparkling arcane magic blasted out from the giant central eye, bathing both Death Knights in its Arcane Mana Burn, barely missing Malika as she dodged to the side. The Death Knights hissed in anger and pain, heavy magical shields snapping into place to disperse the power of the devastating attack, but her Eye of Agnor was not nearly done. Twin chain-lightning blasts burst forth from its primary eyes, ripping through shields and tearing into the undead Knights while six streams of golden arcane bolts lofted up into the air and over their crumbling shields to come arcing down upon them.
+
+To their credit, the Death Knights reacted instantaneously, swinging powerful strikes with their weapons. Malika’s eyes shone with sudden power, and a pulse of soul magic burst outward, disrupting the battle scythe, but the frozen rune-sword, glowing with potent enchantments of ice magic, sliced down through the leathery demonic flesh of the Eye of Agnor, tearing through several eyes and leaving a gash that slowly began to freeze from within.
+
+“Shoot, now,” Ali commanded. The twin holy fireballs, held in check at the brink of completion, released as her patiently waiting kobold mages fired. Two balls of intensely glowing yellow-white flame shot out across the battlefield, detonating with heavy thumps that reverberated through the ground. An inferno of holy fire exploded up and out, bathing the entire melee battlefield with lingering holy flames.
+
+The great gash across the main eyes of her demon rapidly began healing as the consecration settled in upon the black stone, while the howls of agony from the Death Knights echoed off the nearby buildings. Holy magic was a fantastically subtle tool, and one Ali had studied at length, beginning with her first kobold acolytes. While undead were allergic to it in all its forms, demons were not. On initial glance, their vulnerability to holy damage might suggest they were the same, but a spell like consecration, or her mages’ holy fireballs, could distinguish between friend and foe. When the demons were friendly, and the magic was designed to heal, it worked perfectly normally.
+
+Holy magic for the win, she thought, observing just how effective her kobolds’ fireballs were against the powerful undead. “Keep shooting,” she said, the draconic syllables coming easily to her tongue now after so much time. “Go all out, don’t worry about mana.”
+
+“Yes, Ancient Mistress.” The usual response to her commands was accompanied by an eager excitement filling the eyes of the golden-scaled kobolds as they downed spell-power potions she had crafted for them and made their mana surge.
+
+“Nice, happy fireballs,” Mato called out in her mind. “Not burny at all!”
+
+Ali grinned, still watching carefully, monitoring their progress as blast after blast detonated against the Death Knights, healing their allies with the holy consecration, while exploiting the near ubiquitous undead vulnerability to holy damage. She did not adjust their strategy; instead, she simply cast the occasional barrier to block the glowing swings of the rune-sword, letting Malika and Mato handle the black scythe. Between Mato’s Critical Block and Malika’s Martial Disruption, they seemed to have the Devastation Knight mostly under control.
+
+Now, what’s next? She cast about, rechecking every detail of her forces. Leave nothing to chance.
+
+Malika unleashed a flurry of punches, striking the Devastation Knight’s blackened mana shield. Her Soul Strike pulsed blue, bursting through the shield and into the Knight’s body, striking directly at its mana and leaving a soft, blue soul flame that lingered and pulsed in its body. Soul Burn. The mana shield shivered and faltered, shattering again into a thousand sparks that rained down upon the ground.
+
+Ever since Ali had deployed her eye demon to burn its mana, she had switched to attacking mana with her Soul Strike, too. It was then that she discovered something remarkable. The Soul Braid of Aman Rak – the gift that Zor’kan had fashioned for her – provided a Soul Burn enhancement to her soul damage. But when she switched to damaging mana, the Soul Burn left behind did the same. The tiny flames that burned within the Devastation Knight continued burning its mana even after she ceased punching – and now it was so low that it could barely even maintain its mana shield.
+
+She grinned as Mato’s giant paw tore through its ancient, desiccated flesh with all the power of his void magic, unhindered by the previously impenetrable magical defenses that would have required mana to maintain.
+
+Stamina surged within the Devastation Knight, but Malika simply let the formation build without disrupting it. As much as she had vented her frustration at Mato earlier, she knew the two of them had formed an incredible rapport. He had Critical Block available for this attack, and, further, she knew with certainty that he would not want to save it for anything else. So, she let him take the hit.
+
+The battle scythe swung down with the heaviness of martial skills and masteries, but it met the braced shoulder block with a recoiling collision that fractured the very air itself. For a moment, the world shimmered, as if warped by the pressure wave of force reflecting back into the Devastation Knight, and suddenly her chime sounded.
+
+Your group has defeated Devastation Knight – Undead Dragonkin – level 198 (Death).
+
+Yes! As it clanged and clattered to the ground, she took the moment to enjoy the irony of having it defeated by its own damage reflected to it by Mato’s Critical Block. A fitting end for a monster that wielded such a dangerous damage reflection curse.
+
+She turned, deflecting the blow of the icy greatsword by striking the flat of the blade with her forearm and healing the excess damage before unleashing a sequence of punches that cracked against the remaining Death Knight’s ice shield. She released her Soul Strike inside the barrier, bursting into the Death Knight and burning its mana. Mana denial had been an effective strategy against its companion, and she had no reason to change strategies now.
+
+Particularly if Ali…
+
+As if her thoughts had been communicated directly into Ali’s mind, the giant twisted orb of the Eye of Agnor reappeared, opening its huge, golden central eye. Malika dodged, having no reason to stand in the deadly golden sparkles that would rip and shred her mana.
+
+It took almost ten minutes to drain the ice Death Knight, but as soon as its ice shield dropped, the Carnage Berserkers made short work of it.
+
+Your group has defeated Death Knight – Undead – level 196 (Ice).Eyes of the Soul has reached level 148 (+2).+20 attribute points.Martial Artist has reached level 79 (+2).Soul Strike has reached level 80 (+3).Healing Mantra has reached level 92 (+2).Perfect Body has reached level 53.Soul Armor has reached level 67.Enlightened Evasion has reached level 59 (+2).Clarity has reached level 53 (+2).Soul Sight has reached level 60 (+3).
+
+“I leveled?” she said, speaking aloud in her surprise as the monster crashed to the ground. It had been a long time since she had leveled up from fighting a trash mob, and she had gained two from this fight. Admittedly, the ice Death Knight had been fifty levels higher than her, and the Devastation Knight even a little higher. The fight had certainly felt like a mini boss in the importance of their planning and strategy.
+
+“I did too,” Calen said, his brow furrowed in thought.
+
+“Can’t complain,” Malika said with a shrug. “Good levels.”
+
+“There are bad levels?” Mato echoed with a cheeky grin.
+
+She immediately spent five points each on dexterity, endurance, perception, and wisdom, and then dusted the ice crystals off her shirt and gave Mato a smack on the shoulder for his trouble-stirring. “What’s next?”
+
+Calen consulted the map he had forged in his mind, comparing it to the dark streets of Mi’ir Valdanis laid out below him, meandering this way and that, seemingly without rhyme or reason. At first, he had been rather annoyed that Mato had tripped the runic trap, but as the minutes stretched into hours, he had learned that there were runic traps that covered the breadth of some streets, wider than anyone could leap without airborne movement skills, without any way to navigate around them.
+
+Worse, some runes were even spelled to invisibility, beyond his ability to see, even with his mana sight. He had even tripped several of these himself when he landed. Unfortunately, not even flying helped as some traps had been spelled into the air itself.
+
+At first, the presence of the Death Knights had triggered his fears. He could still vividly recall his flight from his first ice Death Knight out in the woods: trees exploding from the sheer power of its frozen aura, his limbs trembling from fear, his racing heart, and the sensation that no matter how fast he was, the Death Knight was always right behind him, its chilling voice reminding him of his incipient mortality. Without Lyeneru saving him, he wouldn’t have survived for more than a few seconds.
+
+But they were getting better at handling the Death Knights and their more powerful Dragonkin variants as they defeated them one by one and ventured deeper into the ruins. They came in death, ice, and lightning flavors, matching the affinities of the dungeon exactly, and he was beginning to believe that this dungeon had a specialization that limited its affinities, much like Azryet’s dungeon.
+
+It explains why their magic is so powerful, he thought. Without Ali’s ability to disrupt the damage reflection, he was certain they would have been forced to give up long ago, if they had even survived. At least the incredible danger and the high level of their enemies had been worth a couple of levels.
+
+I haven’t even reviewed my levels, he realized with an internal sigh. Quick check while it’s quiet.
+
+Realm Hunter has reached level 147 (+2).+20 attribute points.Radiant Archery has reached level 83.Arrows of Brilliance has reached level 74.Motes of Light has reached level 57 (+3).Explorer has reached level 80 (+3).Blessing of the Dawn has reached level 61.Eclipse has reached level 41.Eyes of the Archon has reached level 57 (+2)Righteous Fury has reached level 52.Azrael's Wings has reached level 39.Mirage Armor has reached level 57 (+2).Cartography has reached level 29 (+2).Basic Daggers has reached level 6.
+
+His distraction with his progress was suddenly interrupted by a voice echoing in his mind.
+
+“I hear something,” Mato said. “Like bones clicking.”
+
+Bone Fetish! Instantly, Calen’s eyes scoured the ground below, wishing yet again that his hearing was even half as good as Mato’s, but it was next to impossible to match a druidic shapeshifter for enhanced natural senses. Sharp as his eyes were, he could not see any sign of the monster Mato had heard, other than a strange moving cloud of sparking mana in the distance. He had no idea what it could be, but he sure noticed the icy chill of powerful premonition sweeping through him at the sight.
+
+Explorer has reached level 81.
+
+But he did see another Death Knight on patrol, heading on a collision course toward where the rest of their group slowly made their way up the main street. Quickly, he turned, swooping downward, worry mounting rapidly. This is going to be fun.
+
+The steel doors to the forge shuddered under the onslaught of something heavy, the ringing crashes echoing through the forge, and Kavé looked up in sudden alarm as they swung wide, revealing a giant of a man.
+
+As a dragonkin, and having reached level one-hundred and twenty, it was not common for her to be intimidated, but the figure that entered the forge radiated sheer martial power, with enormous muscles the color of bronze. He wore a scowl, and her eyes were immediately drawn to the armor he was wearing. Or rather, what was left of it. He carried a massive tower shield and wore a breastplate that looked like it had been ripped to shreds. Torn and twisted metal covered a hole in the center of the chest, crudely bent back and roughly welded, making it into an entirely ineffective semblance of a protective piece.
+
+Warrior – Human – level 133 (Metal)
+
+“You don’t look like a dwarf,” the man declared in a harsh tone.
+
+“Are you looking for Thuli Emberforge?” she asked, her wits returning as she understood this man was clearly here looking for her master. At least, she could easily guess he wanted his armor fixed.
+
+“I am,” he answered.
+
+“He’s in the library, studying new enchantments,” Kavé answered, “but I can take your order. I’m his apprentice.” She curiously noted his unusual affinity, similar to her own, and wondered if the botched repair job was his work.
+
+“A level one hundred and twenty apprentice?” he asked, a little incredulity making its way onto his otherwise gruff countenance.
+
+“This one is grateful to have such a skilled master,” Kavé said, bowing just a little.
+
+“I’m sorry,” the man said, his scowl slowly fading as his eyes began to circle the room, taking in some of the display pieces Thuli had mounted on the walls, hung upon various racks, or arranged on wooden mannequins. She was proud that a few of her pieces had made it into the display. “I forgot my manners. I’m Galeth.”
+
+“This one is Kavé,” she answered politely. While Galeth identified as human, Kavé would not have been surprised if he claimed to have some giant in his ancestry.
+
+The hulking man took a deep breath and began to talk. “We came to town chasing the promise of a shrine that might let us evolve our classes. Honestly, it seemed too good to be true, but, as you can see, we were successful. The guild has been helping us level up a little, but our time here is at an end. The battle for Southport rages on, and our place is on the frontlines, defending the kingdom.”
+
+“I see,” Kavé answered. “And that armor isn’t going to do you much good in that condition.”
+
+“Yes,” he said, twisting his mouth into a wry expression. “An undead shadow assassin in the dungeon – it had Ambush and Human Slayer. I tried to twist it back into shape, but I’m no crafter.”
+
+So, it was him, she thought, more than a little surprised to hear Aliandra had made an undead boss. Carefully, she placed a fresh order notepad on the desk along with a pen, retrieved a measuring tape, and got up. “Let me get your measurements quickly, and you can tell me what you need.”
+
+“Will you be making my gear?” Galeth asked, offering a raised eyebrow.
+
+“If my master agrees,” she said, nodding. “But rest assured that he will stake his reputation on my work, and if it’s not good enough, he will remake it.” Many customers did not appreciate getting work done by an apprentice, insisting only on the master’s work. There had been times when Thuli had simply put his mana signature on her work because, while it passed his most stringent standards, an apprentice’s mana signature would have upset the customer. It hadn’t been often, and Thuli despised doing it, but it was the reality of their business.
+
+“I don’t mind,” Galeth said. “As long as the quality is good. I will need a new breastplate. Obviously. Also, I’ve outgrown my helm and shield. As you can see, they’re quite low-level.”
+
+Kavé wrote each item on the order note, along with requested enchantments, Galeth’s primary attributes, and the preferred style for each piece.
+
+“Are you familiar with the crown’s crafting quests?” Galeth asked, interrupting her notes suddenly.
+
+“The weapon orders?” she asked. “For the war?”
+
+“Yup, we will be fighting Death Knights, so if you can make me a fire sword to the royal weapon order specifications, I will buy that too. Longsword, please, but two feet longer than standard, with a little extra room and thickness on the hilt. My hands are big, but I often use it one-handed.”
+
+“Of course,” Kavé said, carefully noting down Galeth’s custom requirements. That item would be beyond her skill level – she still struggled to learn some of the higher-level fire enchantments, mainly because her affinity was not fire-based like her master, but she had high hopes that a few training sessions on the anvil would do the trick. Still, for now, Thuli would need to be the one to craft the sword.
+
+“We can have this ready for you in two days,” Kavé said, giving Thuli a buffer of an extra day just in case his studies took longer than he expected, or some other higher-priority business came in. “Where can we find you?”
+
+“Just leave a note at the adventurer’s guild,” Galeth said. He summoned a small leather pouch from his storage and dropped it on the table beside the order note. “I hope this is sufficient for a deposit?”
+
+Kavé touched the pouch briefly, reaching out with Metal Sense, and then nodded. It was always a pleasure dealing with adventurers who understood the etiquette of ordering custom gear; she hadn’t even had to ask. “This is more than sufficient,” she said, producing a small receipt slip, quickly jotting down the amount paid, stamping it with Thuli’s seal, and finally imbuing her own mana signature into it before handing it to Galeth.
+
+“Thank you, Kavé,” he said, and turned to leave the forge with a much happier expression on his face than when he arrived.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

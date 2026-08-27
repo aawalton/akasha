@@ -1,0 +1,189 @@
+---
+id: a5041eea-9632-5198-baf2-3245154a1289
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: A Daylight Infiltration"
+slug: 0029-chapter-14-a-daylight-infiltration
+partOf: ends-of-magic
+position: 29
+ownLength: 2688
+unit: words
+ownProgress: 2688
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2535822/chapter-14-a-daylight-infiltration"
+royalRoadId: "2535822"
+markedReadAt: "2026-06-29T20:08:12.065Z"
+---
+
+It was simplicity itself to get into the city of Esebus. There were no walls beyond those that surrounded the nature preserves and hunting grounds circling the exterior of the city. What enchantments existed mostly served to prevent trespassing, not defend the city from external attack. Esebus didn’t rely on physical barriers for protection, instead relying on dominance over the continent and the network of patrols to prevent any attack from reaching the city itself. The same was not true of the roads, which were surrounded by heavy-duty magic to prevent anybody from leaving and avoiding the checkpoint that verified the identity and visas of anybody trying to enter.
+
+The Heirs were dressed in light, simple clothing that they were hoping would be read as humble. According to Garna and Sarya, it wasn’t uncommon for people from the surrounding cities to visit Esebus as a kind of pilgrimage. That had been their original cover idea. Now they hoped it would stand up to scrutiny as they slipped over a low wall and into an alley on the outskirts of a market. It wasn’t busy this early in the morning, and they strode across the wide-open space and towards the center of the city.
+
+The citizens of Esebus seemed to favor light and colorful clothing that was laced with small light-shedding enchantments, aping the nighttime appearance of the towers. Khachi had to jump back from a sneering teenager who had gone out of his way to walk through the wolfman's space. It wasn't at all obvious Khachi wasn’t a human, in his long white robe and skirt, he looked like a particularly tall and burly monk. The population in general seemed to expect the Heirs to make way for them.
+
+Nothing stopped them from entering the shadows of the massive towers. During the day, the huge buildings looked like they were made from simple gray stone. Each tower had six sides, and each of those faces had a large doorway at ground level and a few other portals higher up that facilitated flying people and constructs. At this early hour, the majority of the ground traffic was bulk cargo being carted inside by people wearing plainer clothes. Though they dodged adroitly around the occasional brightly dressed citizen and golem that stomped by.
+
+Nathan and the Heirs kept away from the pillars, making their way further into the city and sticking to the busiest streets they could find. A patrol of three soldiers passed overhead, winged armatures supporting them in a slow hover over the crowds. Nobody paid them attention beyond a few furtive glances as scanning magics reached downwards to check that each person carried a valid pass. Nathan's aura reached up to make an umbrella over the Heirs to block the magic entirely. As far as the enchantments were concerned, there was a small gap in the crowd.
+
+Here's hoping that the soldiers aren’t double-checking that every single person they see is showing up on their scanners.
+
+The soldiers passed overhead peacefully, leaving the Heirs to forge further into the city. They headed straight for the very center of Esebus, where the vault was. Their plan wasn’t very sophisticated, but the first stage involved getting to the center of the city, and it was a true metropolis. The city of pillars sprawled across the plains for tens of miles, with the equally spaced towers each holding thousands of people. The Heirs could have easily covered that distance in an hour if they were travelling at full speed over the intervening buildings. But that would very much get them noticed.
+
+The air traffic got denser the farther they got into the city. The sky didn’t just belong to the soldiers, but also to those rich enough to own their own armatures or willing to pay for a ride in one of the bus-like carriers that zipped across the city. The Heirs had a quick discussion about trying to catch a ride, but not only was an identity scan involved, they didn’t even have the right kind of money to pay for it. It wasn't worth the risk compared to simply walking.
+
+So instead, the Heirs moved with the flow of the crowd, working their way through the main thoroughfares at a decent pace. They avoided talking to anybody or even buying food from the vendors. Progress was smooth as they covered miles, moving from the outer city to the inner city and passing through another crowded gate with another, more detailed security scan. After that, the crowds grew thinner and became better-dressed. The shops transitioned from cheaper eateries and utility stores to highbrow cafés and specialty stores.
+
+The problem was that the Heirs stood out more. They didn’t have the cover of the crowds anymore. In the early bustle, their plain clothing blended into the mass of people, but here it simply highlighted that they didn’t fit in. They kept to the sides of the road, making a show of deferring to the brightly dressed inhabitants of the inner city. People still threw derisive looks their way, but the Heirs kept their heads down and Nathan did his best to divert attention away from them, meekly looking away from the sneers sent their way.
+
+Nobody challenged them, seemingly confident in their magical verification to mean that the Heirs belonged. But with the reduced crowds, Nathan couldn’t rely on his antimagic to fully protect them. Every time Nathan and Sarah noticed a patrol headed their way, they had to find a crowd or an awning to protect themselves. A few times, they had to duck into alleys or detour to different streets when nothing else was available. It was a tense way to travel. They covered more distance into the city, walking through lunchtime and into the afternoon. The towers grew taller, and the streets became even emptier. It seemed like walking on the ground was a low-status activity, and the air above them buzzed with private citizens and delivery services moving between the towers.
+
+They had come into view of the centermost tower, which was noticeably taller than all the others, with a tiered peak compared to the flat or flush peaks of all the other buildings. Nathan started reaching out with his magical senses, trying to get a sense of the location of the vault and the surrounding defenses. He assumed it'd be obvious to him and wanted to get a head start on analyzing the vault.
+
+His distraction was probably why he didn’t notice the trio of soldiers launching from a pillar right next to them. They flew out of a series of slots in the wall of the pillar, beginning their patrol almost atop the Heirs. Nathan’s antimagic screen blocked their scanners, but he could feel the attention of one of the soldiers land heavily on them specifically.
+
+“We’ve been noticed,” he hissed, jerking his head up vaguely. They were walking along a main thoroughfare, and though the street was sparsely populated. There were a few people doing some early shopping, as well as almost a dozen shopkeepers with eyes peeled for anybody with money to spend.
+
+“Hide, fight, or run?” Sarah asked in an instant, glancing around casually even as her eyes catalogued every witness and hiding spot.
+
+Stella gestured forward, towards their destination. “We’re close. We could run.”
+
+Nathan turned towards an alley between buildings, heading towards it at a rapid pace. “If we can get to the vault without raising the alarm, then everything will be easier. Let’s try to hide or at least get to a place where a takedown will be surreptitious.” All three of the soldiers above were focused on them now, and more scanning magics were bathing the area. All were blocked by Nathan’s antimagic, but it wouldn’t be long before they decided to intervene more directly.
+
+The Heirs were right behind him, and he could feel the magic in the armatures getting closer as the soldiers descended. If he had to guess, they were confused as to what was happening and unsure how to deal with the failure of their scanning magic. Nathan was most worried about them raising an alarm. He was prepared to block any magical communication he detected, surgically if he could. If that didn’t work, he had the Magic Jammer skill that would completely block most magical communication over a large area. But he’d prefer to hold off on that as long as possible. In a city with this many spells winging back and forth, it would immediately become obvious that something was going on.
+
+The Heirs ducked into the alley, getting out of sight of most of the pedestrians. It was paved, clean, and would have qualified as a major street in almost every other city Nathan had visited on Davrar. In Esebus it was a back alley for deliveries to several of the fancier multi-story shops and restaurants. The soldiers seemed to finally decide on their move, with one of them descending close enough for conversation while the others stayed sixty feet in the air, just above rooftop height.
+
+“Halt and cease!” The voice cracked in the middle, undermining the attempt at a commanding tone. Nathan glanced up to get a good look at the squad that was causing them problems. The speaker was a surprisingly young man with a prominent Adam’s apple. The armature wrapped around his arms and legs and connected at his back, where a pair of magical wings projected out ten feet in both directions. The design left his torso mostly bare except for a comfortable-looking uniform, and pods on each wrist carried the magical weaponry that made Esebus such a dominant force on this continent. The design looked like it left him unprotected, but the primary defenses were magical, not metal.
+
+The other two soldiers stayed high, observing the goings-on from above. One of them was a similarly young woman, while the other was a man who looked to be in his thirties. His armature was more kitted out, with additional pods at his waist that carried further offensive magic. If they were bothered that the Heirs had moved away from witnesses, they didn't show it.
+
+Let’s see if I can draw them in. They look like trainees with a veteran riding herd. This patrol route is probably as safe and routine as it gets.
+
+Nathan raised his hand, trying to suggest confused acquiescence in tone and body language. “Hail. What’s the problem?”
+
+The kid, who couldn’t have been older than nineteen or twenty, swallowed. “The scanners can’t see you. What’s your purpose? Why are you in Esebus?”
+
+Nathan frowned in mock confusion, picking some names off the map of the continent he had and unleashing a torrent of nervous words. “We’re from Ensby, up northeast. Visiting to see the splendor of the city of pillars. Not sure why your scanners aren’t seeing us. Are you sure they’re working? We got our identity cards sorted. Wouldn’t have been able to get here without them, yeah? Could be your scanners aren’t functioning right, cause the ones on the gates were.” Nathan idly waved back towards the gates of the city. "We got through those just fine."
+
+The soldier frowned in response, then poked at the pod on his wrist again. Another scanning spell flickered invisibly out and ran into Nathan’s antimagic. His frown grew deeper, and he smacked the pod with his other hand. “Could be.” He looked up towards the other soldier. “Think it’s just a malfunction, Althorn?”
+
+It helps with lying. Any “explanation” becomes more persuasive.
+
+The older man descended lower, his flight notably more controlled than the jerky motion of the other two. The woman descended with him, shadowing them until he was next to the young man. He cast a casual glance over the readout, surreptitiously activating his own device. Once more, the invisible magic ran solidly into Nathan’s antimagic and was rebuffed.
+
+“It’s the most rune-cursed thing,” he said, then turned his attention to Nathan. “What gate was your entrance?”
+
+“The north gate. The gate of reeds,” Nathan replied, the name coming to him from the map he’d memorized, and opposite the one they'd actually used. “Two days ago. We’ve been staying in the outer city, but wanted to see the inner city at night.” His voice was pleading, and he was using his skills to focus the soldier’s attention on him. None of the Heirs were good at this kind of lying, and if they studied them too carefully, they might notice that Khachi wasn't human.
+
+The man smacked his gauntlet again, then shrugged. “You’re going to need to come to the garrison with us. It’s not far.” He descended a bit further, turning away to lead the Heirs towards the nearest tower.
+
+Nathan struck immediately. His aura had been held tightly controlled, with a tiny portion of it projected outwards to catch scanning magic. He'd kept the rest of it tightly compressed around his body to avoid causing any problems. Now it lashed out like a trio of spears, punching through the magical shields around each soldier and then into the nexus of the armatures that they wore on their backs.
+
+The magic was a different style than Nathan was used to. It was built out of layers of rigid and standardized enchantments constructed hierarchically, with multiple levels of abstraction enabling a much greater level of complexity. If Nathan had to make a comparison, most of the previous enchantments he’d run into were written in basic machine code, and these enchantments were written in a higher-level language. It enabled more functionality and control from the same amount of magic, but the physical aspects of the enchantment must have been much more complicated.
+
+His antimagic worked better if he understood the magics he was countering, but it wouldn’t have mattered if he hadn’t been able to make heads or tails of their enchantments. His aura was so dense and powerful on so few targets that every piece of magic on the soldiers stuttered out in an instant, and they fell from the sky with a series of surprised yelps as their powerful armatures became little more than metal cages wrapped around their limbs.
+
+Nathan and the Heirs were there to catch them. Nathan grabbed the young man out of the air and gave him a quick punch in the throat to stop him from calling out. The man's throat deformed, and his mouth opened and closed like a gasping fish.
+
+Fatal if untreated.
+
+He delivered a chop to the top of the man’s head, feeling bones cracking under his blow.
+
+Fatal.
+
+The bodies went into a set of dimensional bags, and the Heirs were off before anybody could investigate the vanished patrol. They were on a timer now. Nathan’s antimagic should be able to frustrate most methods of tracking and scrying, but simply flooding the city with soldiers would present a problem for them, especially if they weren’t close to their target.
+
+They moved a bit faster than they had before, first detouring sideways to find another thoroughfare that would take them to the central tower and their goal. Then they set off at a determined pace, headed straight inwards towards their target. It loomed in the very center of the city, a solid bulk of gray stone that showed nothing of the wonders beneath.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 839
+
+Bottomless Stamina : 84192/84900
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 585
+
+Regenerative Focus: 5950/5950
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 5
+
+Forewarning 4
+
+Arcane Insight 7
+
+Evasion 2
+
+Mental Vault 5
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 3
+
+Aura Control 5

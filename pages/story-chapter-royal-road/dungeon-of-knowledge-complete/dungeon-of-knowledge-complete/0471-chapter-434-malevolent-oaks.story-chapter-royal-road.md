@@ -1,0 +1,203 @@
+---
+id: 64714317-98a2-557f-951d-29d3ce423491
+page-type-slug: story-chapter-royal-road
+title: "Chapter 434: Malevolent Oaks"
+slug: 0471-chapter-434-malevolent-oaks
+partOf: dungeon-of-knowledge-complete
+position: 471
+ownLength: 3625
+unit: words
+ownProgress: 3625
+publishedAt: 2025-11-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2743327/chapter-434-malevolent-oaks"
+royalRoadId: "2743327"
+markedReadAt: "2026-06-29T20:28:09.728Z"
+---
+
+Mato’s mind was simultaneously relaxed and broadly expansive – a state he only ever achieved in his Tree Form, and he found it decidedly relaxing. Occasionally, he achieved something similar when he triggered Battle Trance for long enough, but it wasn’t quite the same. Here, his awareness rolled out over the entire reach of the battlefield as his Sanctuary aura erased the last remnants of the Creeping Rot from the adventurers who lounged about happily in the aftermath of a challenging fight. Gathered beneath his branches, safely enshrouded within his Sanctuary.
+
+He found Sabri sitting, surprisingly enough, right up against his trunk, resting for a while by herself. She did really well, he thought fondly. The little Ahn Khen girl who had followed Malika here was little no longer. She had just faced down a level one-hundred-and-eighty fungal monster probably several hundred times her weight, and she had done it flawlessly, stepping up without hesitation when the guild needed her.
+
+Idly, he watched Ali’s domain mana consume the dungeon out from under itself, filling the fungal growth with her own unique sparkling gold and green mana as she wrested even the Creep from the clutches of the Blooming Rot.
+
+This must be the skill she learned from Azryet. It took little more than a minute before the unseen battle concluded, leaving Ali’s domain filling the entire cavern, only contending with the rot and death where they collided at the tunnel entrance into the next cavern. He sighed, a soft release of mana from his leaves, and then shifted his way out of his Tree Form to join the mundane world of people once more. Time to check out what I got.
+
+Elemental Shapeshifter has reached level 129 (+5).+50 attribute points.Arboreal Sanctuary has reached level 56 (+3).Brutal Restoration has reached level 64 (+2).Rampant Growth has reached level 35 (+3).Natural Prowess has reached level 52 (+2).Survival Instinct has reached level 66 (+3).Battle Trance has reached level 47 (+2).Identify has reached level 21.Herb Gathering has reached level 25.
+
+Hmm, now that’s a tasty meal. The first thing he did was allocate ten points each to strength, vitality, and endurance. With that taken care of, Mato browsed the rest of his attributes. I did promise I’d shore up some of my weaknesses. He didn’t need a lot, so he spent two points each on dexterity and intelligence. Then he put eight each into perception and wisdom, rounding out a nice spot of growth.
+
+There, Calen can’t complain now. Can’t believe how far we’ve all come.
+
+Malika retrieved the essences from where they had fallen as soon as Ali deconstructed the corpse and then scanned the area, finding Weldin off at the back, talking to Basil about what looked like an exciting herb that he had found. She headed off in their direction.
+
+This had been an exceptionally difficult fight, but she had discovered it was for a rather surprising reason. In the depths of her Clarity, in the middle of the battle, it had come to her. All this time, she had been able to rely on her Healing Mantra skill – it was always there, present and reliable. This knowledge, even unconscious, engendered a profound sense of confidence within her. She had fought many dangerous things, but she always had her healing at hand whenever she needed it.
+
+In this fight, she had felt what it was like to have no backup, no healing magic whatsoever. She could cast it only once every minute, and every drop had been for Sabri. The damage that she had taken, little as it was compared to the others, had been that much more profound – the only feeling that even compared was when the Wights had drained her of her maximum health, and she had had to survive without it.
+
+Something to meditate on, she decided, handing the loot to Weldin and then returning to sit beside Ali as she pulled up the notifications for the fight. Fear in battle was not necessarily a bad thing, but one had to understand it in order to overcome it and not let it control you.
+
+Rezan had spent much time stressing this point. Ignoring the notifications for a moment, she focused inward, remembering his voice, his instruction, his adamantine warrior presence. She did not know how it was properly done but perhaps she would, in meditating more upon his teaching and legacy, honor him as he lived in the eternal halls of the Ahn Khen ancestors.
+
+With a sigh, she turned to the more mundane tasks of her existence.
+
+Eyes of the Soul has reached level 130 (+5).+50 attribute points.Martial Artist has reached level 67 (+2).Soul Strike has reached level 69 (+2).Healing Mantra has reached level 81 (+3).Perfect Body has reached level 47.Soul Armor has reached level 59 (+2).Enlightened Evasion has reached level 52 (+2).Divine Step has reached level 62.Second Wind has reached level 40.Clarity has reached level 46 (+2).Soul Sight has reached level 45 (+2).Appraise has reached level 31.
+
+Well, now. That’s a nice increase. Taking her time, Malika decided on eleven points for dexterity and ten each for wisdom and endurance, taking her to the next level of power in her primary attributes. Next, she spent seven each on vitality and perception, enjoying how crisp her Soul Sight immediately became. She split up her final points, investing three in strength and two in intelligence.
+
+Malika sat back and glanced at Ali, surprised to see a thoughtful frown on her friend’s face. “Hard fight, right?”
+
+“Yes…”
+
+“But?”
+
+“I think I could have killed it by myself,” Ali said, not noticing the sudden shocked glances from Vivian and some of the nearby adventurers.
+
+“What? How?” Malika asked. There was no way she could even imagine it.
+
+“I failed to fully appreciate the value of the Sylvans,” Ali said, her eyes unfocused, gleaming with that distinctive light of Fae Arcane magic. “They heal from nature damage, so the rot aura kept them at full health the entire fight. When I realized what that meant, I began summoning more of them in the middle of the fight. If I had summoned Maalgaroth as a tank and used only Hellfire Imps and Wargs to saturate the entire area with fire, the demons would have been able to heal themselves. Then I could have mobbed it with as many Sylvan Archers as I could support, using a couple of Sylvan Dark Druids to implement my own healing rotation.”
+
+Malika stared at her, speechless.
+
+“Hmm,” Ali said. “Maybe I would have needed Mato for his aura to combat the disease. I would be leaning heavily into fire and nature absorption, but yes, I think it would work.”
+
+“Ali, you’re scary as hell,” Malika said.
+
+“Huh?” Ali said, glancing up and then blinking at the stares she was getting from all the adventurers.
+
+The dark, rocky tunnel leading into Lira’s Forest was almost unchanged since the first time Ali had bored the hole through the cavern wall to make it. Even the little stream still flowed through the narrow channel by her feet – the only difference was the ubiquitous stench of rot emitted by the dark fungal creep that turned the walls slimy, and the murkiness of the sluggishly flowing water.
+
+But to Ali, the experience of it was radically different. The terrain stood out, starkly visible to her eyes even in the darkness, and that was without leaning on the advanced perception aptitudes and skills of her minions. The rich tapestry of mana emanating from the fungal creep was crystal clear to her Arcane Insight, every shimmer, twist, and whorl seen in exquisite detail. She glanced back at the ominous, dark demon floating silently behind her – a being of nightmares with far too many eyes and sharp, pointed teeth. Choosing the Eye of Agnor as her third minion target for Empowered Summoner had been the most obvious choice, but she had never expected just how much her view of the world around her would change. In hindsight, it did make sense – after all, it had boosted her perception attribute by more than a thousand.
+
+I can see… everything.
+
+She followed the group making their way through the tunnel, hovering somewhere near the back as she struggled with a mixture of joy at their recent success defeating the Fungaloth Ravager, the disorienting change to her perceptions that affected even how she saw through her minions, and a sharp breathlessness of trepidation and foreboding at what awaited her in the cavern beyond.
+
+Aunt Lira… died in there.
+
+They emerged from the dark and claustrophobic tunnel and into the chamber, and the group quickly fell silent, all chatter fading away at the menacing dark forest that pressed in on them. Ancient, dark trunks, twisted and gnarled, gripped the creep-covered ground with thick roots that could splinter boulders. Massive boughs slumped low toward the ground, heavily laden with blackened leaves and lit only from below by the scant few luminous fungal growths that sprouted from decaying wood. The glowing green of life and growth that used to suffuse this cavern now seemed dark and sinister, twisted and corrupted by dense, pulsing black veins of death mana and rot.
+
+Although no monsters or creatures stirred in the forest and the air hung with a deathly stillness, laden with the stench of decay, the trees rustled and creaked ominously as if annoyed by their presence. Of the beautiful forest Ali had made to be Lira’s temporary home and shelter, very little remained.
+
+As the adventurers pressed onward under the dark, brooding weight of the forest, they all drew closer together, instinctively seeking safety in numbers. Ali flew a little faster, not wanting to be left all alone. There were no paths in this forest, only fungus, rot, and trees, and their group meandered through the fungal undergrowth, following the little stream and relying on the scout classes to not get them lost. Everything was dark, but in her powerfully enhanced mana sight, it all glowed ominously in shades of dark, murky greens and pestilential gloom.
+
+They pressed on with grim faces, furtive looks, and whispered words, growing more and more on edge in the silent darkness. Still, not a single thing moved save for the creaking and soft groans of swaying trees. Finally, after Ali was almost ready to beg them to turn around and leave, she saw the looming branches of the giant library oak spreading high above the canopy, and they stopped at a clearing in the forest. A clearing that contained nothing other than the darkly gleaming floating prism of Nevyn Eld’s artifact, slowly rotating in the air, flanked by four enormous, menacing oaks.
+
+This is where she died.
+
+There was nothing to commemorate her – no external sign of the indelible scars carved upon her heart from the violence that had been wrought here. There was no dark Lich with his scarlet, runed blindfold. There were no markings on the ground, no leaves, nor sap, the remains of her body. Nor were there any undead incarnations masquerading as her Aunt present in any form she could see.
+
+But the mana spilled forth continuously from the artifact in a dense fountain of death and nature, to be sucked up hungrily by the four massive, dark oak trees rooted around it. Their boughs creaked and groaned under the influence of an unseen, unfelt wind, and Ali shivered. Densely powerful auras of nature and death magic emanated from each tree, spreading through the domain to infiltrate everything around. Every tree, mushroom, or plant seemed larger and more twisted the closer they got to the giant trees.
+
+“Be on your guard,” Lyeneru said. “Something is here.”
+
+For once, Ali was not surprised to see an expression of worry upon the stoic elf’s face, but the warning came almost as a relief to nerves stretched to the breaking point by the unnatural stillness. For she could sense it too, the undead specter of Lira was here, somewhere.
+
+Watching.
+
+Ali waited. After what must have been several minutes with nothing happening other than the ominous waving of the trees and the heavy thumping of her heart, Ali’s gaze returned to the floating artifact. Slowly, she hovered closer, approaching.
+
+Can I just take it and end this?
+
+About twenty meters from the hovering artifact, a grinding crack shattered the silence. Ali reflexively encased herself in a glowing ball of golden barrier magic, and an instant later, a heavy branch, thicker than Mato’s torso in Bear Form, smashed down against her barrier with bone-crushing force.
+
+But her magic held.
+
+Chaos erupted among the adventurers. Spells went off, people shouted, and Ali’s minions charged in to defend her. But all she could see were the four massive trees, glowing intensely with the power of the Blooming Rot domain coursing through their trunks and branches, slowly ripping themselves out of the ground and beginning to walk inexorably toward them.
+
+Malevolent Lirasian Oak – Ancient Treant – level ??? (Nature / Death) x4
+
+“Tanks on the trees!” Calen yelled.
+
+“Healers to me!” Teagan shouted.
+
+Roars and shouts filled the air as the surprised raid group desperately tried to organize.
+
+But Ali had eyes only for the tree before her and the twisted face that pulled itself partially out of the dark trunk. A face that she had held dear her entire life.
+
+“Aliandra, dear? So nice of you to visit. Would you like some tea?”
+
+The thing spoke with Lira’s beautiful voice, the same resonance filling the air. But love and kindness were nowhere to be found, and in their place, she felt only malice, a twisted and warped mockery of Lira’s memory. Yet it sounded so much like her that Ali’s heart bled like she had been stabbed with a dagger. She choked back a sob, not even noticing the chaos around her.
+
+You have gained Clarity.
+
+“It’s not her, Ali,” Malika said softly as she stood floating on the air beside her. “Treasure her memory in your heart, but this is not the person you know and love.”
+
+Ali choked back her feelings, struggling with her heart. Her eyes brimmed with tears, and then she swallowed. “Thank you, Malika,” she managed. She was right, but it was still hard.
+
+“We need your help, Ali. We need your eyes.”
+
+And then she looked. And blinked and rubbed her eyes. What?
+
+The battlefield was in total chaos. Calen’s usual organization was glaring in its absence. Adventurers were shouting conflicting orders while vanishing and popping up here and there seemingly at random, then shouting again in confusion as they tried to recover. Smaller treants suddenly appeared, rushing about with manic energy, and dark bolts of putrescent black-and-green burst from the bigger treants, raining down upon the raid group like a decaying apocalypse as they struggled to organize themselves and develop some semblance of a healing strategy amid the chaos of untanked treants.
+
+“I can’t identify them!” Calen yelled, somewhere off among the cover of the forest.
+
+“Why are the tanks over there?” Ali asked. But Malika just showed her. She sprinted down and punched the massive treant, and her body was instantly overtaken by a strangely familiar formation of nature mana. Then she vanished, appearing a hundred meters away in the branches of a dark and twisted tree.
+
+Tree Stride? Sage of Learning kicked in, helping her sort out something resembling a pattern in this mayhem.
+
+“The trees are level two hundred and seven!” Lyeneru shouted.
+
+Ali’s mind accelerated, taking advantage of her Arcane Recall passive to boost the speed of her reactions and her mental processing. She split her awareness, leveraging all her minions’ senses. Different focuses tackled different spells and magic abilities, breaking them down and sorting them, prioritizing, and memorizing. Idly, she directed Joraa and the Sylvan Dark Druids to heal the raid while she summoned barriers to protect the vulnerable healers below from the endless rain of dark bolts.
+
+“That’s definitely Tree Stride,” Ali murmured. The first domain magic seemed to be a nature enchantment focused on Lira’s Tree Stride skill. Every time one of the treants was hit, Tree Stride triggered, teleporting the attacker to some random nearby tree. Although ‘nearby’ seemed to include trees over a hundred meters away. That explains the chaos and the lack of tanking, she thought.
+
+“Calen! We need to run,” Ali shouted. They would need a very different strategy to tackle this fight, and she knew for certain there was no way they would figure it out in time to save this disaster. She could still study the magic while the group undertook an orderly retreat.
+
+“Weldin! Town Portal,” Calen yelled, wasting no time questioning her judgment. “Everyone out!”
+
+“Guard the gate,” Ali commanded, mustering her minions to form a defensive perimeter around the sudden Gate that materialized in the clearing. Then, she turned her attention back to the curiously powerful domain magic that animated the four trees.
+
+Clone. She recognized the magic easily, after all, she had learned it from the original Living Flame Landing boss. But how are there four? The clone spell’s maximum was three.
+
+One of the Malevolent Oaks was glowing with a dazzling infusion of mana – the one that wore Lira’s face like a grotesque badge. As she studied it, the mana shifted, and the face vanished to immediately reappear from within the trunk of another tree. The deceptive voice rang out to taunt the adventurers. Ali ignored it, categorizing magic and sorting formations. There was some unknown type of healing spell or aura the treants were using on each other, and the third domain magic was clearly Mass Summoning, as she witnessed the number of lesser treants almost double with a fresh surge from the domain.
+
+Or is that four? Ali couldn’t quite tell, but the manifestation of Lira in one of the treants seemed to be a powerful magic that was filled with domain mana. If she hadn’t already seen three domain magic spells, she would definitely have classified that as a domain magic skill.
+
+Adventurers vanished in an orderly fashion, several at a time, some of them even diving through the Gate to escape, but Ali remained, wielding her barrier magic furiously to block treants and rot spells alike until all who remained were Mato, Malika, Calen, Lyeneru, and Vivian.
+
+“Everyone out,” Ali said, and, anticipating their objections, she added, “I have the barriers.” To prove her point, she erected a quarter-dome wall surrounding their remaining forces and the Gate behind her, but that was not all – she had Minion Teleport, too, and she could leave even without the magic of Weldin’s Gate.
+
+“Be careful, Ali,” Mato said, ducking into the portal and vanishing.
+
+Quickly, her friends all jumped through the Gate until finally she was the last one remaining. Only her barriers and her minions held back the tide, and her forces were about to break. She stepped through the Gate, feeling the familiar lurching disorientation, and suddenly appeared on the marble floor she had created for Weldin in the middle of the forest outside the town. But her job was not yet done. Holding her focus, she put her hand on Weldin’s arm, stopping him from dismissing the Gate, and she retrieved all her minions, one at a time, starting with the trolls and kobolds, and ending with the minions she was least worried about handing to the dungeon – the Sylvans.
+
+“Thanks, Weldin,” she said, nodding at the Gnome. “Can’t be feeding the dungeon.” She could not miss the irony of that statement.
+
+Several of the last minions fell through the Gate, still tangling with smaller treant monsters, to be quickly dealt with by the raid group. Finally, Ali signaled Weldin when the last of her minions were through and the Gate vanished with a pop, cutting a final treant in half.
+
+“Did you get anything?” Malika asked.
+
+“Three, maybe even four domain magic skills,” she said. “They have a healing skill they use on each other, and some area blast of rot magic.”
+
+“I think four isn’t that surprising,” Lyeneru said. “That looked like a Champion-class monster.”
+
+“What is that?” Ali asked, turning to stare at the Night Elf Pathfinder. There had been no mention of that in her book.
+
+“It’s rare to find dungeons that are powerful enough to make them, but Champion monsters are in a category all of their own, above even Raid bosses. There are few rules or guidelines for them, other than they are extremely powerful and usually take multiple raid groups to defeat.”
+
+“Multiple?” Calen echoed lightly.
+
+“Multiple, highly specialized and well-equipped groups,” the other Elf replied, with a knowing smile.
+
+Mato grunted, “So we break it down.”
+
+“Well, that explains it,” Ali said. Noticing that Calen had his pen and notebook out, she continued, listing the spell formations she had understood. “Mass Summoning. It looks like only treants, though. Nature enchantment that casts Tree Stride on whoever hits it. The treant is a single monster that has been cloned four times. The undead spirit of–” her voice caught painfully in her throat for a moment “–Lira can move from one to the other, imbuing it with an enormous amount of mana, but I couldn’t figure out precisely what that does.”
+
+“The Dryad’s face makes that tree immune to damage,” Lyeneru said. “I tested that with physical, fire, and lightning damage.”
+
+“Light didn’t work on it either,” Calen added.
+
+“Well, this is going to be a challenge to tank,” Mato said.
+
+Ali let out a puff of pent-up air. How could they damage the treants, let alone tank them, if everyone who hit one suddenly found themselves falling out of a distant tree?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,147 @@
+---
+id: ccd794ab-34f1-58d5-a610-eac87d1bdf75
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-Seven: Web"
+slug: 0028-chapter-twenty-seven-web
+partOf: flesh-eater-demon-evolution-litrpg
+position: 28
+ownLength: 2507
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2657122/chapter-twenty-seven-web"
+royalRoadId: "2657122"
+---
+
+Pyre grew a blunt bone and used its end to poke at the threads wrapped around the dead human. They were slightly sticky to the touch, which wasn’t all that surprising. She reabsorbed the bone and shifted her eyes around to face Callan.
+
+“Hey, can spiders use magic?”
+
+The ghost was still staring down at the corpse, brows furrowed in concentration. The demon’s voice, however, seemed to pull him out of his thoughts, and he turned to face her. “If they’re high enough level, yes. I don’t think these webs are magic, though.”
+
+Pyre pointed her active bone spike—the one carrying her bag—to the tunnel behind them. “I ate a fish just now, and it had memories of climbing. I’m talking full-on monkey levels of climbing. Between that and the flying centipede, I think it’s safe to say there’s some magic shit going on here.”
+
+Callan’s expression turned contemplative. “…Transformation spell, maybe?”
+
+“Could be.” The demon squinted down at the dead human. “Doesn’t look like this one got shapeshifted, though, unless that spider or whatever’s only targeting animals.” There was also the question of why it would bother transforming animals in the first place. That sounded like pretty complicated magic to be using for no discernable reason. And that wasn’t even mentioning the giant lightning bolts.
+
+Her attention shifted to the other cocoons lying further down the tunnel. She moved over, and yep, those were more human corpses. Three of them sat propped up against each other, just as covered in spider silk as the first one. If someone without darkvision passed by and didn’t look too closely, they might mistake them for weird lumpy rocks.
+
+Pyre paused. It was extremely faint, but she could smell living flesh coming from the body on the left.
+
+“Yo, this one’s alive. Probably not for long, though.” She nudged the body with a bone, but the human didn’t stir. It was hard to see below the layers of webs, but the woman looked uninjured save for the obvious unconsciousness and stillness. Her eyes stayed firmly shut despite the prodding, and if it wasn’t for the smell, Pyre would probably think this one was a corpse, too.
+
+Callan hurriedly floated over and raised his palm over the human’s head. He closed his eyes, concentrating, before opening them again. His lips thinned.
+
+“There’s… some kind of preservation spell on her, I think. Her and the others.” His brows scrunched, and he dropped his hand. “It keeps the body alive and…fresh for longer, but she’s completely lost her magic signature. Her mind probably died some time ago.” His voice quieted. “I—It’s too late to save them.”
+
+The ghost peered down at what little of the corpses’ clothes that he could make out through the spider threads. “This looks like Auren’s uniform,” he muttered. “That emblem’s the one their army’s mage division uses.”
+
+Auren. That was the country to the west of this one, if Pyre was remembering the map right. The one next to the Tavrell Empire, which didn’t really bode well for the country’s state of affairs. Her memory might be mostly gone, but it was just plain common sense that existing next to a place with “Empire” in its name was probably stressful at the best of times.
+
+“Envoy gone wrong, then,” she commented. Maybe it was about that war Callan had told her to mention when they were buying the class crystals.
+
+Callan nodded tensely, still staring down at the almost-dead human in thought. After a brief pause, he opened his mouth again, his next words slow and careful and not at all what the demon expected.
+
+“ …Do you mind if I drain her?”
+
+Pyre raised an eyebrow. “Why’re you asking me for permission? I don’t care what you do, kid.”
+
+“I mean, I just thought maybe you’d want to devour the body,” the ghost sputtered
+
+Pyre squinted down at the half-dead human in question. Frankly, the “live flesh smell” was so weak she wasn’t convinced she wouldn’t get sick from devouring the human anyway, and she’d also have to eat around the threads, which were sticky and would definitely get stuck to her mouth. Not to mention they might have giant spider magic bullshit on them. Nah. It didn’t seem worth the effort.
+
+“Be my guest.” She jabbed her bone spike towards the other corpses scattered along the tunnel edges, all in varying states of coccoonification. “Tell you what, if we find another one that’s half-alive and not covered in a fuck ton of spider silk, I’ll eat that one instead.”
+
+Callan nodded slowly and gave the half-dead body another pensive look. Carefully, he raised his hands and took a deep breath. A faint silver light glowed from the human’s chest, though it was noticeably much smaller than the glow Pyre had seen from the chimera or that mage the ghost had drained in the forest. This was basically firefly-sized, and the light itself quickly disappeared. Not much life left, indeed.
+
+Finally, Callan lowered his hands. The ghost looked vaguely sick, and he was shaking a little. Pyre raised an eyebrow.
+
+“You cool, kid?”
+
+He swallowed. “Yeah, sorry, just give me a second.”
+
+Pyre squinted at him, trying to figure out why he looked so nauseous when he’d just gotten experience. Her eyes shifted to the now-full corpse, and it occurred to her that this was the first time he’d drained a human on purpose, considering the mage had been an accident. Huh. She hadn’t thought he’d had it in him, to be honest.
+
+“Not sticking to the vegetarian diet?” the demon joked. Callan smiled faintly.
+
+“I, um, I need to collect more mage class shards. I can use some magic now with my traits, but I won’t get far without the actual class.” His eyes shifted over to the tunnel stretching further into the darkness. “Whatever’s doing this is probably really powerful. I don’t want to be deadweight forever, and I figured…” His gaze darted back over to the corpse. “ …I figured this was probably the best opportunity I’d get,” he said quietly.
+
+“Hm.” Pyre hummed in acknowledgement. “Well, you do you.” She shifted, turning to continue down the tunnel. A few seconds later, Callan followed behind her.
+
+The further they went, the more corpses they found. Some were clearly much older than others. Of the “fresh” ones, they found four more in that same mostly-dead, barely-alive state. Every time Callan would first check if they could be saved, and every time the answer was the same. The giant spider, it seemed, was really good at what it did.
+
+Callan drained two of those humans, both of them mages, which brought his mage class shard count up to 4. Meanwhile, Pyre devoured the other two, though she did make the ghost grow a few winding branches to assist in removing their silk cocoons. Growing stuff to tear the threads away without directly touching them seemed like the best way to minimize possible side effects.
+
+[You have devoured (1) Human Warrior Lvl 5][You have devoured (1) Human Warrior Lvl 13][Experience earned!]
+
+[You have gained (2) [Omnivorous] subtrait shards]
+
+[Your species has leveled up! Lvl 15 —> 16][Strength +3, Agility +2, Constitution +3, Magic Resistance +1, Intelligence +1]
+
+[You have earned 10 points]
+
+[You have gained the [Basic Slothful Field] species skill!]
+
+[Your class has leveled up! Lvl 4 —> 6][Strength +4, Agility +2, Constitution +4]
+
+[You have earned 10 points]
+
+One of the humans, it seemed, had actually been decently high level. She’d even gotten two class levels out of the experience. Her class leveling would definitely slow down at some point, but for now, she’d enjoy the relatively quick progression while it lasted. At this rate, she’d be able to unlock a tier 2 class soon.
+
+Pyre pulled up the description for her new skill. Based on the name alone, it looked like it wasn’t just her traits that were starting to get influenced by her subspecies choice. She quickly scanned the information.
+
+Skill: Basic Slothful Field Level 1Once activated, a field forms around the user whose range increases with the skill’s level. Within this field, all beings, including the user, are unable to activate any skills for a duration equal to this skill’s level x 1 minute. If a skill is activated prior to entering the field, it remains active and its duration is not affected. If a being exits the field, it can then activate skills again as normal.Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 24 hours. Cooldown decreases with skill level.
+
+Well then, that was interesting. Skill activation shutdown sounded like it had the potential to be broken as fuck, though it looked like it affected her just as equally. The real question was how big the range of the field was. If it was small, then it wouldn’t be very hard to step out, activate a skill, then jump back in. She wanted to test it, but considering its long cooldown and the fact that they probably had an imminent giant spider fight coming up, she should probably save it for that.
+
+Either way, even if the range was so bad it was effectively useless right now, it sounded like the sort of skill that would get exponentially more powerful with levels—especially if it could later block other stuff, like spells, once it hit intermediate proficiency. That sure would be nice.
+
+Speaking of spells, Pyre quickly decided to dump all 20 of her new points into magic resistance. There was clearly a lot of magic shit going on in these mountains, and she’d rather go in with as much defense against it as possible.
+
+The demon willed away the notifications, ready to move on and continue traveling, when a new message suddenly popped up in front of her.
+
+[Callan has transferred 10 points to you]
+
+Pyre’s eyebrows rose. She turned to Callan, who was hovering a little ways away sorting through with his own system messages. He coughed.
+
+“You gave me points when we first met, so I figured I should give them back.”
+
+“I seem to remember transferring 5, not 10.”
+
+The ghost shifted uncomfortably. “I mean, you also let me drain one more human than you, so I thought it would be fair? I, uh, I know it’s not the same, but—”
+
+“Kid, relax, it’s really not that serious.” Pyre’s voice was amused. Still, since she had them now, she dumped those 10 points into magic resistance as well. It was now her second highest stat after constitution.
+
+Callan shook his head, his face a mixture of disbelieving and something else that the demon couldn’t discern. He smiled a little. “I think you’re the only one in the world who thinks that.”
+
+“Well, maybe other people should get with the program.” Pyre pulled a wayward thread out of her teeth using a bone as a pick, then flung it to the side. It drifted down to the ground lightly. “Anyway, with the amount of bodies stacking up, we’re probably getting real close to this thing’s nest. Keep an eye out.”
+
+The ghost nodded seriously, and they continued down the tunnel.
+
+Around them, the ceiling began curving higher, the space expanding outwards as if in welcome. If Pyre focused, she could feel a faint breeze, which was proof that the other end did lead outside somewhere. At least they knew they were going in the right direction.
+
+While the tunnel widened, the amount of webs also increased. Bunches of the thin threads wound together to form thicker white strings. Instead of simply crossing the ceiling, they started creeping down the walls as well like a pale moss. Eventually, certain sections of the tunnel were so covered in the stuff that they looked solid white at a glance. Pyre wouldn’t be surprised if there were even more bodies they were missing, buried underneath layers and layers of webs, but she didn’t smell anything alive, so she didn’t bother stopping.
+
+Callan, on the other hand, grew increasingly more nervous the further into the mountain they went. Every new cocoon they passed added to the visible tension in his shoulders. He kept hovering closer and closer to the demon, seemingly subconsciously, which struck her as funny. Apparently he found a flesh eating demon less scary than a possibly magical giant spider.
+
+Pyre’s pace slowed. Up ahead, the tunnel expanded even further, fanning out into a proper chamber of sorts. Thin threads hung down from above like curtains, obstructing the view, but she could see a distinct red splotch through her thermal vision eye on the other side. It was hard to make out specifics, but it was indeed very big, and it looked like it was currently hunched over something.
+
+The demon dropped her bag onto one of the few spots not totally covered in webs, which also served to clue Callan in that they’d found their target. The ghost stiffened and nodded slowly.
+
+Pyre squinted at the curtain of webs, debating the best way to break through without getting completely covered in the stuff. She could make Callan grow some branches again, but speed was the game here.
+
+With that in mind, she grew four bones and readied to shoot them out, continuing to study the creature through her thermal vision eye. It was still hunched over, which might mean it was looking away. There was no way to tell for sure, though, so she decided to just go for it.
+
+In one fluid motion, Pyre shot the bones into the curtains, tearing away the webs. White threads snapped and fell, yanked violently apart, but she didn’t pause to watch them fall. Without stopping, Pyre grew another bone and aimed it straight at the creature that had just become visible.
+
+At the last second, the monster leapt out of the way. The bone slammed into the tunnel wall, the cavern shaking a bit from the force of the impact. A low hissing noise filled the air.
+
+In the center of the tangled webs stood a massive spider, larger than Pyre was even at her lowest density, with a jet black body that nearly blended into the rocky walls behind it.
+
+It wasn’t just a giant spider, though. Where its eyes should’ve been, a pale torso extended upwards, connecting to a human face and shoulders and arms. The creature’s top half looked like a human woman, save for her beady black eyes, clawed fingertips, and the sharp fangs jutting out from her mouth.
+
+Now that it had moved away from its earlier position, Pyre saw that the spider-human hybrid had been bent over one of the cocoons. It was ripped apart, snapped webs lying limply around it, and the corpse inside appeared half-eaten. That explained the cocoons, then—it was preserving the bodies for later meals.
+
+Facing the two of them, the creature let out another sharp hiss. Pyre could see saliva and chewed up bits of flesh dripping out of its mouth. Those black eyes gleamed.
+
+“Arachne,” Callan whispered.

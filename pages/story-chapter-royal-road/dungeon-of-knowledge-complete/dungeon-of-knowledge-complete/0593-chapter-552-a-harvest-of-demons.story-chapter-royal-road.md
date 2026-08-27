@@ -1,0 +1,179 @@
+---
+id: bb9564a9-c209-54e4-a880-b20f61dcbb8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 552: A Harvest of Demons"
+slug: 0593-chapter-552-a-harvest-of-demons
+partOf: dungeon-of-knowledge-complete
+position: 593
+ownLength: 3549
+unit: words
+ownProgress: 3549
+publishedAt: 2026-03-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3104674/chapter-552-a-harvest-of-demons"
+royalRoadId: "3104674"
+markedReadAt: "2026-06-29T20:32:34.825Z"
+---
+
+“Aah, Aliandra,” Giddy said, glancing up from her workbench. “You got my message, then?”
+
+“I did,” Ali said. “Were you able to do it? I know there wasn’t much time…”
+
+“It was expensive, and very nearly impossible,” Giddy said, standing up. “I had to purchase a rare artifact called Veylis’ Trinket on the auction house and dismantle it to get the spell you wanted, and I used up all that death-affinity magicite you gave me. Grim stuff, that.”
+
+Ali held her breath as Giddy picked up a polished choker made of what looked like flat-linked onyx chain. She met the Gnome’s eyes and found a glitter of excitement dancing within.
+
+“This here is my finest work,” Giddy declared without a hint of modesty, a simple statement of fact, and handed it over. It was of the darkest black but polished to such a sheen that it still sparkled as it turned in her hands.
+
+Ali took it and identified it.
+
+Veylis' Final Word – level 235In her final breath, she spoke faster than the grave could claim her.+127 Wisdom.+101 Perception.+50 Intelligence.+65% to Death Resistance.+35% to Fear Resistance.+5 to skill level of Arcane skills.Grants level 84 Quicken Spell skill.Requirements: Intelligence 823, Wisdom 470.Quality: Unique.Value: 1654 gold.Created by Giddy Clicksprocket.Head – Onyx Choker
+
+“Oh, wow!” Ali exclaimed. “Sixty-five percent? You said fifty would be your limit?”
+
+“What can I say?” Giddy said, brushing dust off her lapel. “I’m just that good! Still, I can’t imagine why you’d want those abilities on the choker. I could have given you a nice general thirty-five percent to all resistances instead. And why were you so insistent on the Quicken Spell? Isn’t it a low-level metamagic? It barely has enough oomph to increase your spells by ten percent when it’s crafted on an item.”
+
+“We’re facing a Lich and his armies of Death Knights,” Ali said. “Every percentage increase I gain on my items is shared with all my minions. Death and fear are the two most important tools of the enemy, and I have a lot of ground to defend.”
+
+“That makes more sense, then,” Giddy said, nodding. “But why the Quicken Spell? That one was the hardest part. You won’t believe how much the auction house wanted for that artifact.”
+
+“With my evolution, my support skills, buffs, and masteries affect items,” Ali explained. “That’s no mere cantrip to me. I plan on using it to summon monsters!”
+
+“Aah, it’s good to see someone who takes gearing seriously,” Giddy said with a low chuckle. “Anyhow, I have the items you requested for your friends and minions, too. They’re not optimal, but they’re the best I could do on short notice.”
+
+“Thanks, Giddy!” Ali said, taking the offered box. “You’re the best!”
+
+Now, how do I earn Authority?
+
+“Wow, Azryet sure knows how to throw a party,” Mato said, staring down the mind-numbingly enormous chasm; a slash cut through the earth made with a greatsword the size of a continent. If he dropped a thousand Myrin’s Keeps inside this hole and rattled it, they would likely never touch each other.
+
+To either side, cliffs soared high above. High enough that clouds were obscuring the top, preventing him from seeing if they were entirely underground, or just in a ravine as deep as the tallest mountains were high.
+
+From countless caverns and passages, monsters swarmed, like tiny gnats in the distance. The ground writhed with furious movement, like the hills and boulders were alive.
+
+“You can say that again,” Calen said, his eyes restlessly sweeping the onrushing horde of demons.
+
+“I think it’s starting,” Malika said. A nervous ripple went through the assembled adventurers gathered up behind them. Ali’s minions gathered around, nearly a hundred monsters, all in the second tier.
+
+But the little Fae was not present, and that sent a small pang of sadness through Mato’s heart. He understood the reasons, but he missed fighting with his friend. He gazed upward, catching a glimpse of the immense bulk of Azryet himself. The giant dragon opened his maw and unleashed a challenging roar that shook the world.
+
+Answering Azryet’s shattering call to battle, the skies darkened with scaled wings as an uncountable swarm of immense dragons flew past. The stone beneath his feet shuddered as a wave of earth-bound drakes, several miles wide, tore past their position, engaging with the vanguard of the demonic hordes in a brutal crash of flesh and bone. The noise was immense. Overwhelming.
+
+“Archers! Ready!” Calen shouted, using a voice-amplification trinket to be heard above the din.
+
+Mato transformed, assuming his familiar Dire Bear form and stepped up in front of the raid, forming a bulwark with the other tanks. A wall of defense between the onrushing hordes and the less robust raiders sheltering in the shadows of their shields.
+
+Mato had never felt so small in his entire life.
+
+“We’re insignificant here, aren’t we?” Mato said, sending the thoughts to Ali via her gigantic Troll champion.
+
+“Totally,” Tol’brekk answered, turning toward him, but his face split into an eager grin. “But this is a battle worthy of legends!”
+
+“Oi, Ali. You’re letting the berserker in him warp your mind!” Mato sent, adding a chuckle to soften the words.
+
+“You know you believe it, too!” Tol’brekk countered, limbering up his shoulders by swinging a runic mithril sword and a holy avenger around his head, making them whistle as they sliced the air.
+
+“Battle junkie,” Mato chided. But the archers were already pulling high-level demons through the vanguard of drakes for them to fight. High-level for them. Most of the drakes forming a seething mass in front of him were unidentifiable at three- or even four-marks. He roared and threw himself into battle against an eight-legged purple monstrosity that was built like a craggy, leather-covered boulder the size of the town hall. You’re mine!
+
+Heals came thick and fast as he tore into the rugged demonic hide covering its low-slung belly, dousing himself in thick, viscous black blood. The monster roared, making its flesh quiver, and attempted to stamp on him, but Mato returned the attack with Critical Block, scoring the satisfying cracks of multiple bone fractures.
+
+“Mato’s target is locked down,” Calen announced. “Open fire!”
+
+The ground rippled, and the air caught fire as every spell imaginable detonated against the hide of the monster. Then Ali’s Divine Archon and Tol’brekk leapt onto its back, and it began to roar in pain.
+
+Yes. Yes, this will be quick. Thanks for the damage!
+
+Ali sat in her library, knee-deep in magical tomes and spellbooks, eagerly hunting for new magic. Well, knee-deep was a bit of an understatement, but she had needed to promise Clarence lots of play time just to get him to sit still long enough that she could study her new magical insights and cross-reference the concepts against his chapters. He lay open on top of a pile of books taller than she was, like a king sprawled laconically upon his throne.
+
+The vast battle between the demons and dragons had been raging unabated for nearly four hours, and Ali had spent the first three glued to her shrine, making new monsters. At first, she had applied every variation she could think of to her third-tier imprints: the archons and those that Azryet had kindly donated. Every single one that appeared to show promise, she sent to join the battle against the Lair of the Demon God in the Abyssal Realm. It was when she got stuck into second-tier evolutions that she realized just how ridiculous her shrine and class had become.
+
+At level two hundred and fifty-two, she could reserve a normal, non-domain-enhanced, freshly turned second-tier monster of level one hundred for a little more than seven mana. After the first fifty variants she’d spat out, she realized she was affecting the experience gain of her friends and the guild by sheer overwhelming numbers. It was at that point that she began focusing on healers and damage classes with area damage and simply sending them out in packs to back up Azryet’s drakes. They would gain experience more slowly, but the cumulative amount she was earning thanks to the new experience boost from the battle being a dungeon break was staggering. It was unlikely that her second-tier evolutions would make it up to the third tier in the short time they had available, but she had to try.
+
+Ali had never truly left her Divine Archon’s senses untended, always remaining in contact with her minions – and hence her friends – via Martial Insight, but her senses snapped into a sudden focus, and she found herself cautiously entering the cavern of shattered stone. The guild had abandoned the greater battlefront after a couple of hours, reasoning that striking out on their own through the labyrinthine tunnels and caverns would provide greater return for the limited time available, and her minions’ accelerated leveling had proved that correct.
+
+The walls around them pulsed with a demonic energy that radiated from the constellations of thick burgundy Abyssal Bloodstone embedded into the soot-stained walls and roof, while the ground sported roaring pillars of hellfire amid the trickling streams of blood.
+
+Dekarradon [The Flames of Doom] – Pit Lord – level 265 (Blood / Hellfire).
+
+Two hundred and sixty-five. It was by far the most powerful demon she had ever seen, other than back in that vast chasm-war Azryet had sparked. The third-tier monster’s midnight-violet demonic hide strained against the rippling muscles within the enormous, corpulent body. Four powerful squat legs held him up, their giant talons leaving deep gashes through stone as he wandered back and forth among the sea of seething flames. A gigantic black halberd rested casually across a boulder-like shoulder, gripped loosely in a taloned hand that looked like it could crush the life out of a full-sized human in an instant. The Pit Lord seemed to ignore the continual dripping of blood that leaked from his immense and ominous weapon or the crackle of dancing black flames that wreathed his brow in a crown-like circlet.
+
+Ali immediately sensed the eagerness of her minions. The berserker’s hunger for battle. The Divine Archon’s singular purpose: to rid the world of evil, settling upon the Pit Lord with the finality of judgment. Her mages reacted with excitement, eager to test their power and focus, and her healers sharpened their focus, readying their buffs.
+
+“Third tier,” Calen announced. “Mato, tank it at the back.”
+
+“Right,” the thought came, appearing with a clear prickle in Tol’brekk’s mind, and through it all, Ali sensed an unspoken question from the mind of the archon.
+
+“Yes, you may,” she thought, sending permission the instant Mato engaged.
+
+“We will cleanse this cavern of this foul demon,” the archon returned, and she strode into the cavern beside Malika and behind the charging bear.
+
+“I smell your blood!” The booming voice of Dekarradon shook the cavern as it suddenly filled with a hell-storm of blood and black flaming meteors of hellfire, but after the immensity of the battle outside, it sounded like a trifling thing. “You are mine!”
+
+Still, the Divine Archon ignited her sword with the blazing white flames of holy power, flared brilliant, radiant wings, and shot forward through the crush of minor imps, cleaving her way to the Pit Lord in the center.
+
+Dekarradon flipped the halberd from his shoulder like he was handling a twig, and he shot forward with incredible speed, colliding with Mato in a sudden ball of blazing hellfire and the deafening crack of an impaling strike.
+
+But within the flames, a bubble of impenetrable holy magic flickered around the Divine Archon, blocking the full power of the strike, and leaving a clear eye in the storm of black hellfire. The barrier vanished, and the Archon’s greatsword blurred, drawing a deep line across the Pit Lord’s chest in a vast spray of black demonic blood.
+
+“A worthy foe,” Dekarradon boomed, landing on his four feet, causing more rock to collapse from the roof with the impact.
+
+“An insignificant demon,” the Archon declared, shooting downward to strike once more.
+
+She’s so cool! Ali thought, arranging her other minions and sending Tol’brekk leaping in to join the Archon.
+
+“Come, my minions, there is battle and glory to be had!” the Pit Lord thundered, and at his words, the walls and the ceiling began crawling with stalker demons, while several towering, dark shadows behind him began disgorging hordes of imps, wargs, and other lesser demons, all drawn to battle by Dekarradon’s compulsion.
+
+The darkness of his corruption seeped through the chamber, a thick, cloying aura that tore at Ali through her minions. The adventurers rushing in to engage staggered as the Pit Lord’s signature aura clawed its way into them.
+
+But the Divine Archon surged with mighty power, switching to the Redemption aura, and pushing back the corruption in a wide circle of holy energy centered on her radiant form. Then she threw her sword out into the baying monsters along a wide, curving arc that looped back upon itself and filled the cavern with screams and blood as the images tore into the seething horde of demons. Consecration fell like holy rain everywhere the swords struck, soon overwhelming the hellfire with the radiance of holy flame. All around her, the adventurers recovered, steadying their weapons and unleashing their spells upon their foe.
+
+Then, Tol’brekk landed in the center of the fray with a thump that shook the chasm.
+
+“Blood Vortex,” Ali commanded. Her berserker did not need to be told twice; singing some vicious, rhyming chant, he spun through the hordes with blades of blood and steel.
+
+“Move into the aura,” Ali commanded, shifting her mages and healers as they began to stagger under the debilitating effects of the Pit Lord’s corruption aura, but they, too, steadied as soon as they entered the Redemption aura.
+
+Ali flickered her awareness across the immensity of the battle back in the chasm, checking in with the rest of her minions, but they seemed to be doing ok. Azryet appeared to be pushing back the hordes, and while her minions were collecting vastly reduced experience growth, it was still enough that she had to be careful she didn’t blow out her mana pool as her reservations grew to support their rising levels.
+
+Back in Dekarradon’s cave, her mages unleashed their spells. One kobold holy mage that Ali had relieved from duty protecting Ciradyl and quickly named, Blazka [Bane of the Dead], and a troll ice mage. Watching them in action under the influence of a dungeon break made Ali gasp in amazement. They were gaining a nearly seventy-percent increase in movement speed and damage, and the full range of Ali’s spell power and spell haste bonuses granted by the Summon Supremacy enchantment on her ring.
+
+Holy and ice magic filled the air as her mages unleashed their full power upon the Pit Lord and his summoned minions. Frost Nova detonated, freezing hundreds, while the azure ice bolts flitted through the giant demon with soft swishing noises, passing through to freeze and damage everything behind him. Holy fireballs detonated everywhere with incredible power and speed, sizzling against demon hide, but bringing succor and healing to their allies.
+
+Tier three is ridiculous! I can’t wait for the others to reach it! There wasn’t a whole lot of time before the Lich revived, and so many things needed doing, but this experience had banished any doubts in her mind that the strategy of leveling their whole team to the third tier was by far the most important one. If only there was more time, she would have insisted on pushing the entire guild through that threshold. Still, she had minions within striking distance – some very close – and she would be remiss not to take every advantage she could lay her hands on.
+
+But the Pit Lord was a powerful third-tier monster, too. Drawing the blood of the fallen to himself, he began regenerating rapidly. He stomped upon the ground, unleashing a rippling shockwave of splintering stone and a devastating blast wave of roiling, sooty black hellfire, searing across the roaring berserker and the Archon with hungry flames. The druid and kobold healers reacted while Ali pulsed a little extra mana through Empowered Summoner, making them shine briefly with radiant power as their healing magic landed, and deep in the heart of the battle, Malika’s radiant sphere of soul magic rippled out to stabilize the melee fighters.
+
+The Archon caught her flying sword and threw it again, leaving half the cavern under the whirling blade-storm of her Celestial Swords. Then the corpses began dissolving, evaporating into mana that was drawn into the Archon, reclaimed by the power of her Redemption aura.
+
+Ali immersed herself in the heady rush of mana and stamina pouring into her Divine Archon in waves, and then the Celestial Paladin redirected it to unleash her fury upon the Pit Lord. With the room filled with whirling blades feeding her power through her Redemption Aura, she wielded her Holy Avenger with brutal efficiency, seamlessly blending her own sword skills with the best moves Ali had stolen from studying Haverron’s technique in battle, cleaving and slicing through the heavy demonic hide like it was paper.
+
+Blood flew like rain as Tol’brekk sliced into the Pit Lord’s back with Haverron’s own runed mithril blade.
+
+Ali had been worried about the raid stumbling upon a third-tier Pit Lord down here in the dark, but she hadn’t counted on the enormous power wielded by her Divine Archon. Even with the demon beating her out by thirteen levels, the Archon was still a third-tier holy celestial, summoned with Authority, and granted the power of a domain magic spell using Ali’s World Walker advancement. That, and it was currently participating in a dungeon break and additionally benefiting from enormous buffs to spell power, spell haste, double mana pool, regeneration, and every single percentage boost Ali had to offer.
+
+With none of the downsides of Tiny! Ali grinned happily toward her pile of books. Her Archon fought Dekarradon to a standstill by herself while the rest of the raid ripped into the demon god’s enormous servant with abandon. Easy when you have the right plan… she scanned every detail again, but could find no flaws this time.
+
+Dekarradon collapsed with a giant crash five minutes later, a holy greatsword plunged through both his hearts.
+
+Your minions have defeated Dekarradon [The Flames of Doom] – Pit Lord – level 265 (Blood / Hellfire).You have gained Reputation.+3 Authority. Your Carnage Berserker has reached level 250 (+3).Your Mage of Piercing Frost has reached level 248.Your Wielder of the Sacred Flame has reached level 245 (+2).Your Priest of Azryet has reached level 250 (+2).Your Druid of the Deep Woods has reached level 221 (+4).Your Sylvan Storm has reached level 232 (+3).Your Carnage Berserker has met the requirements for class evolution. Your Priest of Azryet has met the requirements for class evolution.
+
+Reputation? Three Authority – is that the reward for a third-tier kill? And levels! Even if there would no doubt be diminishing returns for subsequent kills, it was still an incredible reward.
+
+Ali instructed her Archon to remove the Redemption aura. She had known the paths of her evolution would greatly enhance her strength – she just hadn’t imagined it would be… so much!
+
+Experience was pouring in in exhilarating rivers, hundreds of streams from all across the Abyssal Realm, deepened by her bonuses for leveling her minions outside of her domain. Less than a day after reaching the third tier, and two more of her minions would join the ranks with such monsters as her Divine Archon, or Nendir’s Soul Archon, and the several draconic imprints Azryet had gifted her.
+
+“Our forces grow stronger, shall we continue?” the Divine Archon asked, speaking over the hushed chatter of the platinum guild adventurers.
+
+“Yes, let’s see how far we can get,” Ali answered, eager to study her new abilities and level up her minions.
+
+“You bet we will,” Mato said, apparently sharing his answer to the Archon with the whole raid at once, at least by the ripple of cheers and excited smiles.
+
+But first, Ali had Tol’brekk collect the Pit Lord’s corpse and then swapped the priest and berserker out, recalling them home and replacing them with a freshly summoned shaman and a warrior. Her Grimoire was hungry, and she wasn’t about to let a third-tier, named Pit Lord go to waste.
+
+Three Authority for killing a third-tier monster? Azryet had said she could earn Authority by actions aligned with her class and traits, and her class was certainly a combat dungeon class. She didn’t know if it was the kill that had done it, or the claiming of a new monster suitable for improving her repertoire, but she glanced eagerly down the dark passages with Archon eyes, excited to learn more. She had the Pit Lord’s corpse, and now, two of her favorite minions would need to use the shrine to join the ranks of the third tier. Their evolutions would be her immediate priority, that and bolstering the defenses around Lira’s tree and the Wells using what she’d just earned.
+
+She only had three Authority, but that could be turned into three powerful defenders!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

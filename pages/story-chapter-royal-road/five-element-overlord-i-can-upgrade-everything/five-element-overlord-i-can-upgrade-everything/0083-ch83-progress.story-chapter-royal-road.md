@@ -1,0 +1,187 @@
+---
+id: 22328399-6f06-5954-8837-41de1b72b94b
+page-type-slug: story-chapter-royal-road
+title: "Ch83 Progress"
+slug: 0083-ch83-progress
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 83
+ownLength: 2380
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3586648/ch83-progress"
+royalRoadId: "3586648"
+---
+
+Over a full day passes.
+
+In this time, the overstrain function of my array comes to an end, totaling over 300 thousand spirit stones.
+
+The concealment qi gathering array is stowed away, and the natural qi released by this mid grade vein floods into the valley again.
+
+The next morning, I stop by the Quest Hall, and trade in 50 contribution points for 5 low grade fire stones, upgrading them all to perfect grade.
+
+There are still almost twenty leftover bronze upgrade cards in my storage, ready to be used.
+
+Once I return, a line of 10 stewards make themselves available at the base of my small peak. I fly down on my spirit crane to scan each of them. All ten have 9th grade roots, and they’re all over 50 years old, and at the 1st level of qi refinement. They’re untalented weaklings that were never sent out to war in the undeveloped wilderness.
+
+The stronger stewards were sent off to die as fodder, even the former outer disciple that looked over plot 81, they were killed off in the war to open up this spirit field manager role.
+
+Now, more servants with spirit roots will be captured to cultivate while they’re young, and continue laboring for this sect. Strong fighters that performed well in the war or caught the eyes of important higher ups like myself are promoted.
+
+It is a ruthless system, but it works well to manage such massive land masses.
+
+I pay these left behind stewards 2 spirit stones each for the month. It is double the recommended pay that the booklet outlines I should spend. I plan on residing in this plot for quite a while, so a positive first impression is necessary.
+
+They’re given a bit of freedom, allowed to leave this plot to the small steward shops every few kilometers down the dirt roads that connect farming plots. They’re all run by other stewards, and stocked up with necessary food, and farming equipment for servants. Basic maintenance of these fields is completely handled without me.
+
+It also states that once I hand in my quota, I’ll receive 100 contribution points for delivering 122 thousand kilograms of inferior grade spirit rice. The necessary seeds for planting the next cycle’s crops will be provided. I can trade in these contribution points for various resources, or a raw count of 500 spirit stones at the Quest Hall.
+
+Obviously, the profit the sect is making off this harvest is far greater, or they would not allow me to so openly cultivate with my own private mid grade vein in return for managing these fields.
+
+Still, it is a major step up from the bland life of a steward in the wood chopping servant camps. While this may be enough to sustain a normal mid stage qi refiner for three months, and would be considered a fortune for the 2nd level qi refiner that I outwardly pretend to be, in reality, this tiny amount of profit means nothing to me…
+
+The most valuable thing I’ve been granted is the freedom of not being monitored daily, and having the flexibility of flying to various points in the inner sect on a whim.
+
+The rest of my day is spent lazing about, looking over the spirit fields, checking on the sleeping flame toad occasionally, then relaxing in my hot bath before falling asleep.
+
+Though, my eyes don't stay shut for long. A flash of orange and yellow light emerges from my back courtyard, and a voice rings out, waking me from my slumber.
+
+“The task you’ve asked me of is complete. I’ve spent every spirit stone, and bought a large abandoned plot filled with Inferior Grade veins.”
+
+I quickly wake up, put on my robe and stow Little Red inside before walking into the back courtyard.
+
+Only the moon beams down on us overhead.
+
+“Alright, bring me there, I want to see it for myself.”
+
+She crosses her arms, “I want to see the payment you promised first.”
+
+I toss a high grade spatial ring filled to the brim with five perfect grade fire stones her way.
+
+“I said I’d give you the stones when you brought me there, but fine, I’ll extend you a measure of trust. Here, take it, and give me my old ring back.”
+
+She catches the one I throw, then tosses the perfect grade ring I stored the hundred thousand stones in back to me.
+
+We stand in silence for a few seconds while she cracks the imprint, and a visible fluctuation of excitement courses through her soul once she sees what’s inside.
+
+“There. Paid in full, now bring me to my spirit veins.”
+
+Lan Xin stows away the ring with a poorly hidden smile, and pulls out another to release a sleek 5 meter long flying vessel.
+
+“If you leave with me, I’ll still have to request special leave from the sect. I can’t just sneak you out all the way to Lingshi City, the repercussions of getting caught are too grave.”
+
+“Fine, just mark me as your assistant or something, no positions of authority that would turn heads.”
+
+We step on the flying boat together, and leave my spirit fields behind.
+
+–
+
+Lan Xin stops by the Quest Hall, but I stay concealed in the flying boat.
+
+In the middle of the night, there are considerably fewer cultivators here compared to the two times I showed up when the sun was high in the sky.
+
+“I got you a 7 day leave, you’re registered as my personal assistant to help me purchase a few things in Lingshi City. It is the standard maximum leave for Outer Sect disciples that haven’t been recognized by the peak master yet.” she remarks after exiting the hall.
+
+We leave off into the night right after. I sit on the front edge of the flying vessel, while Lan Xin steers in the center back.
+
+This boat is extremely fast, moving over 200 kilometers per hour, with a built in wind protection array.
+
+Once far enough away from the Beast Mastery Peak and surrounding fields, she pulls one of the fire stones out of the storage ring, and it lights up the darkness between us on this ship with a crimson hue.
+
+The heat makes me sweat, but a serpent’s head moves out from Lan Xin’s shoulder, devouring the fire stone, and coiling back into her soul. It reminds me of the first message I read on her status about their unusual bond.
+
+“Interesting soul bond you two have… A bond made before birth rather than after. It is nothing like the more common bonds made during the starting stages of one’s cultivation. That would be the reason your innate physiques are the same, and can merge together so seamlessly, am I right?”
+
+As the snake disappears into her body, flames flicker in her gaze, but she sits down and closes her eyes, putting on the unbothered arrogant demeanor I saw the first time I met her.
+
+“This has nothing to do with our deal, does it?”
+
+I let out a sigh, “No, it doesn’t… I was just curious if breaking through from the 10th to 11th level was as simple as absorbing enough qi by yourself, or if you had to completely rely on your spirit beast to shatter the bottleneck.”
+
+There’s a slight shift in her expression, but she only shrugs.
+
+“None of your business. And- I’d like some peace and quiet until we arrive. The vessel will alert me once we’re near.”
+
+I open my mouth, but just nod and turn back toward the front of the ship to watch dark outlines of mountains pass.
+
+There are a few shapes I recognize from my trips to the Red Pine Market at first, but soon we curve off in a direction I’ve never been before. We veer off away from all servant camps and Outer Sect peaks entirely.
+
+The ambient qi in the air fluctuates between mountains, as some are completely devoid of spirit veins. There are long roads splitting open plains, and small villages that pop up from time to time in these dead zones, very similar to the small mortal farming village I was taken from before joining the Azure Cloud Sect.
+
+Over 10 hours of flying pass, and the sun starts to rise once the ship alerts Lan Xin out of her meditating state.
+
+I collect my check-in upgrade card rewards just as we begin to slowly descend.
+
+Truthfully, the wilderness around here looks no different than the over two thousand kilometers of nature we passed.
+
+Lan Xin opens her eyes and points down at two small 500 meter high peaks, more suited to be called large rocky hills at most. There is a flattened out valley of land between them. It’s about four or five times larger than the plot the sect gave me for spiritual farming. However, when we touch down in its center, the lack of qi in the air is extremely noticeable.
+
+Bright red flags have been placed around this barren wasteland, on top of tall poles to mark locations from a distance.
+
+I begin to manually count them myself, but Lan Xin interjects, “There’s 36 inferior veins in total here. It’s a plot a few hundred kilometers away from Lingshi City, previously solely owned by the Wang and Mu Families. However, this one was overstrained slowly and completely used up decades ago. There are actually plenty of these plots available surrounding the city.”
+
+She then turns and points to the very small mountains on either side of the valley.
+
+“I read the history on this plot. There used to be Tier 2 veins below both of these mountains a few hundred years back. They were overstrained long before the Mu or Wang Family got their hands on this plot. You can imagine how tall and mighty these peaks might have been once… After all, considering Black Iron Mountain, you’re quite versed in tearing the life force out of natural entities.”
+
+She shows me a smirk, then hops back onto her flying vessel.
+
+“Well, I’m going off to cultivate those fire stones above a rented high grade vein in Lingshi City. Do you want anything from the markets while I’m there?”
+
+My attention is almost entirely on the valley of potential spirit stones, but I turn back to Lan Xin.
+
+“Grab me thirty spiritual vein harvesting arrays. Ones that can convert the natural qi of a vein into spirit stones without damaging its structural integrity… I want them strong enough to handle perfect grade Tier 1 veins."
+
+Lan Xin’s face shifts to confusion, “Array flag kits that heavy duty cost 2 thousand spirit stones a set… Only the Lin Family would have perfect grade items like this in stock. Why would you need something like that for these inferior veins?”
+
+I mentally move 75,000 spirit stones into the perfect quality ring she returned to me.
+
+“It doesn't really matter why, does it? Grab me a 10 pill vial of Qi Nourishing elixirs, and Marrow Cleansing Elixirs too while you’re at it. If there are stones left over, keep the difference as thanks.”
+
+When she catches the ring again, her confusion turns into a completely dazed expression for a few seconds. Her mouth stays open, exposing her cherry red tongue to the air until she shakes herself out of it.
+
+“I… sure. I can get it done. I’ll be back later today.”
+
+The fiery woman’s flying vessel leaves into the morning sky, and I’m left alone in this valley full of small bushes, dry dirt, small boulders, and most importantly 36 inferior quality spirit veins.
+
+I waste no time, and set up my white jade array flags on the closest inferior vein, then upgrade it to a perfect grade vein to begin the overstraining process.
+
+To speed things up, I set aside the need for profit efficiency, and choose the lowest time setting there is, 1 hour.
+
+Quickly, a mighty glowing kilometer long white crystalline spirit vein is brought into this world, then siphoned down to a small flickering translucent worm a meter long for its raw resources.
+
+As the morning sun rises toward noon, I walk from pole marking to pole marking repeating this process three more times, completely overstraining 4 veins from their perfect state down to useless inferior veins worse off than they were before.
+
+The landscape shifts slightly each time, and I watch the skies to make sure no vessels are nearby to see the bright flashes of white light that appear on the veins close to the surface.
+
+Each one deposits over 215,000 raw spirit stones into the storage compartments of the array flags.
+
+Once complete, this barren valley is still completely devoid of ambient qi, but now there are over 1.1 million spirit stones resting in my system storage.
+
+It is enough to stack a pile 15 meters wide, and 5 meters high with these small glowing white translucent crystals. Yet, I do not dwell on this immense wealth for long.
+
+Instead, I close my eyes, focusing only on the bronze door in my mind. I start transferring the spirit stones in my storage to this ominous spatially locked entrance. The remaining cost slowly ticks down from 999,999 to 0.
+
+Every stone that touches the enormous bronze door disappears in a ripple of white light.
+
+The ripples multiply, making the bronze door glow whiter and whiter until finally hitting its threshold.
+
+When I try to feed the door extra stones, they are not consumed. Instead, the stones just remain in my storage.
+
+The bronze door shudders, and opens on its own.
+
+I feel a suction force pulling on not only my mind within my storage space, but my body in the outside world too.
+
+My feet leave the ground, plunging me into a sense of weightlessness for a moment before a hard smooth surface appears below me.
+
+Golden text shimmers in front of my eyes, but it begins to glitch and shift erratically in a fashion I’ve never seen before.
+
+[Ding!][Host. Welcome to the Tier 1 space of my-]
+
+[Previous System Message Has Been Deleted.]
+
+[Ding!][??...]
+
+[Previous System Message Has Been Deleted.]
+
+[Ding!][Host. Welcome to the Tier 1 space of your Minor Hidden Realm!]

@@ -1,0 +1,181 @@
+---
+id: 9f9167c1-0da4-557b-abc3-bb41edfc0162
+page-type-slug: story-chapter-royal-road
+title: "48 - How to Train Your Dragon"
+slug: 0048-48-how-to-train-your-dragon
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 48
+ownLength: 1477
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3549457/48-how-to-train-your-dragon"
+royalRoadId: "3549457"
+---
+
+The Porcelain Harpies continued pouring out the portal we had entered from.
+
+The Cloud Dragon was floating just behind us, staying completely motionless as if waiting for us to make the first move.
+
+But none of us dared to do so.
+
+“Tuna’s the only hope we have to escape this,” Meriel whispered, eyeing the dragon. The Harpies floated overhead, keeping their distance instead of diving down straight away to kill us. They must’ve been wary of the dragon as well.
+
+Talon shuddered at the sight. Regular harpies like himself had an innate fear of the Porcelain Harpies, so seeing all of this must’ve been a far more horrifying sight for him than I could’ve ever imagined.
+
+This part of the dungeon was entirely empty. Aside from us, the rainbow, the pink sky, the harpies, and the dragon, nothing else was here. That was, aside from the tiny light on the other end of the sky.
+
+There was another portal.
+
+“There,” I whispered, pointing. “We have to go through there. Can you do that for us, Tuna?”
+
+She let out a soft meow.
+
+“You’ve got this,” Talon whispered. “You’re the fastest whale in this entire world!”
+
+We clutched our weapons tightly. I stood close to Meriel to make full use of my [GUIDED MANAFLOW] passive skill, which made controlling my mana easier while casting alongside another mage. Reina stood on the far end of Tuna’s back, facing the dragon directly with Dawn Sunderer. Talon gazed above, ready to throw his exploding talismans at the harpies.
+
+“Go!” I shouted.
+
+Tuna shot through the sky like a bullet.
+
+The chase began.
+
+The harpies followed from above, and the dragon soared right behind. Meriel and Talon were focused on defending against the harpies, while Reina and I had our attention on the dragon.
+
+Reina swung her sword several times, shooting out arcs of light toward the dragon. The dragon didn’t even bother dodging and let the attack strike its scales. All the light dispersed, barely making a dent.
+
+I tried several spells of my own, but the result was the same. Its scales were insanely durable.
+
+“Reina, try combining your fire magic with the sword,” I suggested. “Divine Fireball might be the only way we could hurt it.”
+
+“But I don’t know how to do that!”
+
+“Just try!”
+
+She steadied her posture and aimed the tip of her sword at the dragon.
+
+“Imagine the fire seeping into the sword,” I said.
+
+Or was it letting the light seep into the fire? Damn it, I don’t even know! Even though I was able to do it myself, I had no clue how to explain the feeling to someone else.
+
+A small fireball appeared at the tip of her sword. Light began to seep into it, and it became the same golden color as the Divine Fireballs I had cast before.
+
+“That’s good!” I said. “Make the Fireball bigger! We need something that could hurt the dragon!”
+
+But Reina couldn’t control it for long. The Divine Fireball shot out at its tiny size—quite a bit smaller than mine. But still, I had faith the attack could work.
+
+The dragon, however, didn’t let the attack reach its scales.
+
+It did something else entirely.
+
+It opened its mouth, swallowing the Fireball. Seconds later, a thin trail of smoke escaped its nostrils as it let out a burp. I didn’t think dragons could be so expressive, but this one looked mildly annoyed.
+
+“Did it work…?” Reina asked.
+
+“Clearly not!” I cried. “You just gave it a snack!”
+
+I glanced at Meriel and Talon. They were holding off the harpies just fine as Tuna flew us through the sky. Seeing that they could hold their own, I ran over to Reina, grabbing Dawn Sunderer.
+
+“Hold onto my staff!” I said as we exchanged weapons.
+
+I pointed the sword at the dragon, about to cast Divine Fireball. Unlike Reina, it didn’t give me the chance to attack. Its wings flapped faster as it caught up to Tuna, nearly chomping off her tail. Tuna dodged, nearly sending all of us flying off. We somehow managed to stay on her back.
+
+I tried to prepare Divine Fireball again, but the dragon was persistent on not letting me get the attack off. The dragon flapped its wings in a specific motion, and a cyclone began to form in the sky.
+
+“Everyone, watch out!” I yelled.
+
+The others turned to the dragon, realizing what was happening. Tuna meowed, acknowledging it.
+
+The cyclone shot out, taking out all the harpies above us as it chased us down. Tuna veered off course and flew sideways, downwards, then upwards—doing everything she could to avoid the cyclone. Somehow, we managed to escape it untouched.
+
+But having exhausted herself, Tuna was slower now. The harpies and the dragon were starting to catch up.
+
+The dragon’s massive body glided through the air, not even flapping its wings anymore. It simply floated, letting the currents carry it.
+
+“Tuna!” Talon shouted. “A little faster!”
+
+She answered with an exhausted meow. The portal was getting closer, but not fast enough. We wouldn’t be able to reach it in time at the pace we were moving.
+
+Then, the dragon inhaled. Something felt different about the wind around us, as if it was responding to the dragon’s breath. The clouds around us began streaming toward its mouth.
+
+“What’s it doing?” Reina asked.
+
+Meriel gritted her teeth. “A vacuum pull. This isn’t good.”
+
+We stumbled on Tuna’s back as the entire sky and the air reversed direction. Harpies screeched as they were dragged backward, some of them swallowed whole by the dragon as everything in the realm headed toward it.
+
+Tuna tried all she could to fight it. Her entire body strained and shook as she struggled to push forward.
+
+But the distance between us and the dragon continued to shrink. I could count how many rows of teeth it had with how close we were now.
+
+“Tuna!” Talon screamed.
+
+She pushed harder, meowing through the pain.
+
+The dragon continued to inhale the entire sky. My body slid across Tuna's back, but Reina grabbed onto me while she held onto Meriel.
+
+“We aren’t making it,” Meriel said.
+
+“Don’t say that!” I cried.
+
+Talon already had his eyes closed, praying. “Goodbye, beautiful world. I’m sorry, mama, papa. I love you.”
+
+“Can you please not act like those are about to be your final words?!” I yelled.
+
+I pointed Dawn Sunderer at the dragon, gathering my mana. The Fireball appeared at its tip, enveloping itself with the sword’s light.
+
+“Allene…?” Reina said. “That won’t work! The dragon will just swallow it again like it did to mine!”
+
+“Don’t worry. I have a different plan if it doesn’t work.”
+
+“A different plan…?”
+
+As the Divine Fireball prepared to shoot the dragon, I cast [INVENTORY], reaching into it and pulling out the only thing that could help us stand a chance against such a powerful beast.
+
+“That’s…?” Reina muttered.
+
+“Looks familiar, doesn’t it?” I said.
+
+Meriel and Talon looked at my hand, confused about what I was holding.
+
+At last, I released the Divine Fireball toward the dragon. I didn’t bother aiming it since it was already inhaling everything in its path anyway. The Fireball entered its mouth, followed by a loud explosion.
+
+This time, the dragon had more of a reaction to my Fireball than Reina’s. Its insides must’ve been injured judging by how its vacuum pull was weaker now, but the more clouds and harpies it swallowed, the more it recovered, as if it was somehow healing itself by swallowing everything.
+
+If it really was healing itself, then I wouldn’t be able to kill it this way. Casting Divine Fireball took too much time, although it was the most effective attack we’ve had on it so far. With how close we were to the dragon now, it would only be seconds before its jaws clenched down on us. Tuna was on the verge of collapse.
+
+“Here goes nothing,” I said as I threw the item I had taken from my [INVENTORY].
+
+The dragon swallowed it whole.
+
+“Allene…?” Meriel said.
+
+At first, nothing happened. But just seconds later, the item’s effects activated.
+
+The dragon stopped its attack, no longer inhaling everything.
+
+“What did you do?” Talon asked.
+
+I kept my gaze on the dragon.
+
+“I fed it a love potion.”
+
+[TROPE COMPLETED: POWER OF LOVE]
+
+[ITEM ACQUIRED: DRAGONRIDER’S SADDLE]
+
+Effects:
+
+- The dragon becomes easier to control and understand
+
+- Some mana is shared between the rider and dragon
+
+- Gain an instinctive understanding of a dragon’s emotions
+
+- The strength of all effects increases with the mutual trust between rider and dragon
+
+- The above effects only work when the saddle is placed on tamed dragons
+
+This item will now appear in your [INVENTORY]
+
+Note: Wondering how to train your dragon? Just slap on a saddle.

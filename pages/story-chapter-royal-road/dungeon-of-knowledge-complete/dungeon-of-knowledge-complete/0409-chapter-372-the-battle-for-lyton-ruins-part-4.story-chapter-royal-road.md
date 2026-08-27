@@ -1,0 +1,157 @@
+---
+id: a7a5e1d2-f6ed-51ac-9ac6-370e9121b859
+page-type-slug: story-chapter-royal-road
+title: "Chapter 372: The Battle for Lyton Ruins (Part 4)"
+slug: 0409-chapter-372-the-battle-for-lyton-ruins-part-4
+partOf: dungeon-of-knowledge-complete
+position: 409
+ownLength: 2919
+unit: words
+ownProgress: 2919
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2587242/chapter-372-the-battle-for-lyton-ruins-part-4"
+royalRoadId: "2587242"
+markedReadAt: "2026-06-29T20:25:52.543Z"
+---
+
+The area fear formation flickered within the Ghoul, but the only people in range were already under the protection of Malika’s Touch of Clarity, so Ali didn’t call it, choosing instead to eviscerate a Mass Summoning spell with her Disruption. Then, she turned her focus on trying to get through the ridiculous mana shield with every tool she had.
+
+She sent Kir’vella to the spirit realm, and from there, she had her witch doctor attract spirit beasts with her Spirit Speaker skill to try to haunt Alexander Gray by fading through the realm boundary and attack like she had done back in Aman Rak. She even had her use Soul Drain from there to see if it might do something useful.
+
+What did work, though, was phasing her barrier shards over to the spirit realm to skip the mana shield and phasing them back on the inside to strike him.
+
+“That shield is ridiculously overpowered,” Calen said, shooting a continuous stream of arrows through the shield. “It’s a good thing he doesn’t have prisoners to sacrifice this time.”
+
+“Oh, yes,” Ali said, remembering just how much he had powered up every time he had used that horrific magic, taking a life to power his mana.
+
+“Eyes,” Calen warned.
+
+“What…” At the sight of the sudden surge of power from Calen’s bow, Ali suddenly squeezed her eyes shut. A triple detonation rocked the town, and even through her eyelids, the light was blinding.
+
+“Ugh, so loud,” Ali complained, switching to using her minions to see as her own eyes recovered. Rubble flew as her berserkers swung, and two of the hidden specters flew into the air and cartwheeled across the rubble, almost completely bisected by the greataxes. Vivian emerged on the heels of a yellow flash of flame, dragging the last corpse behind her.
+
+“Mana shield is down!” Malika yelled.
+
+“Everyone, attack!” Calen yelled, and the whole raid pivoted, unleashing hell into the unprotected undead mage.
+
+“Bloodlust,” Calen said, as his Righteous Fury burst into the brilliant radiance of power it brought.
+
+This time, Ali did not even have to do it. Gara did it instead, pouring blood magic through the entire melee raid. “Heal her,” Ali commanded, and her shamans rapidly restored the massive blood cost of the powerful spell.
+
+A torrent of magic filled the air with sizzling and crackling. Explosions detonated so rapidly that they formed a dull, deafening roar vying for dominance against the ground-shaking cracks and thumps of berserker axes and sizzling swords as the full power of their group unleashed upon him.
+
+Ali stared in amazement as Alexander’s health plummeted, falling from almost full to thirty percent in the time it took for Bloodlust and Righteous Fury to run their course, but in the end, the necromancer managed to summon a new set of specters, and his mana shield snapped back into place.
+
+“Kill the specters,” Calen said, his voice laced with bitter frustration that they hadn’t been able to finish him off. “Again. Keep going.”
+
+Ali kept the pressure up with her ice mages, with Seth and Calen following suit. With Alexander so close to death, they might be able to force it before the rest of the raid killed the specters. Especially considering the specters had enough health that the continual healing from the death aura significantly increased the effort needed to kill them.
+
+Her mind tracked a thousand variables at once: the rain of fire from overhead falling on the whole group, healing people who were injured, tracking the disease that spread rapidly if they didn’t use all possible resources to halt it, and all the new puddles of pestilence the Ghoul kept spewing out. But her main attention, the primary focus of her entire being, was on her acolyte’s Healer’s Sight and the rapidly dwindling health of Alexander Gray.
+
+The ice bolts made soft swishing noises as they shot past her, punching through the mana shield and ripping through Alexander Gray’s undead flesh. He was in a constant state of chill from the sheer volume of ice magic, which did wonders for her two evolved trolls’ critical damage.
+
+His life fell below twenty percent as Calen kept up an incredible onslaught, ignoring the wyverns wheeling overhead, now fully intent on taking out the kingpin to this entire fight.
+
+“Fifteen percent,” Ali called out.
+
+“Twelve.”
+
+“Ten.”
+
+Suddenly, Alexander Gray hissed loudly in frustration, and a dark knot of mana formed within his chest, right about where his heart would have been if he had one. It was not domain-enhanced, but considering the power of the spell, it may as well have been. A pulsing, angry formation that built rapidly, spilling out into the space between his hands.
+
+Sacrifice.
+
+Ali knew the magic intimately. The instant she recognized it, she fired off her Disruption, but what the undead mage had just wielded was related to his previous magic in the same way an elder dragon was related to the egg from which it had hatched. An evolution of power, many times advanced, and the effect was an unbreakable infusion of vast power.
+
+His spell shot out a bolt of death energy, lancing into the sky where it connected with the wheeling Skeletal Wyvern. Her tiny darts of golden arcane energy plunged into the torrent and were shredded by its power. There was a terrible ripping sound, and the entire gigantic form of the skeletal dragon froze. Then it fell from the sky as Alexander Gray ripped something from the monster and consumed it.
+
+His mana and health were instantly restored, and his body grew larger, more powerful. The new body began to hum with power. The mana shield darkened, becoming almost opaque in places, while his eyes blazed with fresh, black-tinged flame.
+
+“He healed!” Ali yelled. Well, obviously.
+
+But it was worse than that. Far worse. Ali had seen something almost alike when they had defeated the first Wight of the twins in the Ruins of Dal’mohra. Sure enough, the domain mana roiled around him in a violent tempest, and suddenly, meteoric flames shot out into the air, arcing up overhead and raining down on their group. People scrambled and shouted, healers gasped, and defensive magics were deployed while gobs of flame sizzled through the air, splatting on the ground and splashing flame everywhere.
+
+The domain mana swarmed through him a second time, and a cloud of zombie wyverns burst into the air, letting out croaking screeches as they dive-bombed the mages and the healers cowering under their defensive shields. Ali threw out her barriers as best as she could, dropping to the ground to free up even more of her urgently required magic.
+
+“He took at least two of the wyvern’s domain magics,” Ali said.
+
+“Is it Headhunter?” Calen asked. “Should we reset?”
+
+“No,” Ali answered. “More like the Twin Wights. It’s a transfer through the domain.” She had no idea for how long the effect would last, but by the fact that his death aura was still active, she was sure they were now facing a raid monster with at least five domain magic skills, if not six.
+
+And from the flame in his eyes and the heat visibly radiating from his body, she could tell her ice mages were going to struggle to chill or freeze him. Their best weapons had just been rendered useless.
+
+“Is it Headhunter?” Calen asked. “Should we reset?” His words scattered on the outer confines of Malika’s awareness like a half-remembered dream in the first minutes after waking.
+
+It was hard for Malika to say what was really going on beyond the narrow confines of her immediate surroundings. It wasn’t that she didn’t care or couldn’t see – not even the blinding detonations Calen called down from on high with clockwork regularity disrupted her. After all, Soul Sight gave her unparalleled clarity to view any energy sources within nearly a hundred and thirty feet around her. It was simply that the monster Alexander Gray had been turned into was trying his best to erase her from existence and was, in fact, occupying the bulk of her focus and attention.
+
+Well, he’d always been a monster; he was just more withered and a much higher level now. And he had just gotten substantially stronger.
+
+“No,” Ali answered, discussing the development with Calen somewhere above and behind Malika’s back. “More like the Twin Wights. It’s a transfer through the domain.”
+
+Malika ignored the endless agonizing rotting of her muscles and flesh as she danced about the necromancer’s animated corpse, trusting that Mato’s aura would take care of it – a constant war of decay and regrowth, a battle for dominance waged within her body between the tree and the undead. It was nothing she couldn’t handle with her enhanced endurance and the occasional flash of her own Healing Mantra.
+
+“Stay, then,” Calen decided. “Alexander is stronger, but the wyvern is gone. It’s about a wash. Basir, pick up some of those zombies and bunch them up for the mages.”
+
+Glad he’s taking care of things out there.
+
+But Malika was growing stronger, too. As the minutes ticked away, measured in punches and recharge timers, her abilities grew easier and easier to use. With the Abiding Perseverance efficiency advancement for Second Wind, they got cheaper, too. She shifted the shrinking reservations for all her defensive skills once again, expanding them back to her normal percentages. When the costs shrank, the power remained unchanged – but Relentless allowed her to overspend stamina in exchange for more power, and she was abusing the heck out of that right now. A little more than twenty minutes of fighting had passed, and her abilities were down to almost half their initial cost – because she insisted on spending the usual amount for every reservation or activation, she was gaining nearly twice the power out of every single ability.
+
+Can we just outlast him? What other tricks might he have up those rotten sleeves?
+
+She poured extra stamina into Divine Step, pushing her body beyond the limits of speed, faster than she had ever experienced, and her mind adjusted to keep up, resulting in the bizarre sensation that the world outside of her was running in slow motion. She adapted her forms to the monster before her, feeling the thrumming crack as her fists forced the air out of their paths and slammed into the mana shield with ever-growing power. Soul Strike surged, piercing through the barrier and the undead monster within like a spear through a rotten plum, shooting out the other side and picking up sprays of dirt and chipped cobblestones. She had nearly passed up the insignificant-sounding extra three feet of range on her evolution path, but Calen had suggested she take a closer look at what it provided. Now, boosted to over eight feet by the level of her skills, her effective range had transformed her combat abilities. Her sphere of control was far larger, and while her fists and feet might be subject to the restrictions of armor, shields, and mass, her magic ignored it all. Experiencing it firsthand was almost enough for her to ignore the blight ravaging her body.
+
+A burning prickle rushed through her limbs as her magic once again grew a little stronger. Ali’s going to complain I’m glowing again. She grinned, not caring one bit, reveling instead in the rhythm of battle. As soon as Ali had made the connection that the mana shield was tied to the specters, Malika had given up on attacking his mana. Instead, she was attacking his health and stamina with as much fury as her unbelievable haste allowed – scarcer resources he couldn’t as easily replenish.
+
+A crackling bolt of pure black energy shot toward her. At the speed her mind was currently operating at, she saw it floating toward her like a drifting snowflake. With the haste thrumming through her, her body shifted effortlessly to the side, dodging the blast with ease. Another followed right after it on a trajectory that would ensure it struck Mato behind her. She raised her forearm, deflecting it into the sky, and pulsed her healing magic to restore the slight decay where the death magic had touched her skin, allowing the excess healing to ripple out of her and across the green skin of the earnest goblin tanking beside her.
+
+“Smelly Ghoul!” Havok roared somewhere nearby. “Have Smite!”
+
+Alexander Gray was learning too, though. The next attack was a broad blast of death magic that pulsed out forward in an arc. Malika leapt off the air, taking the brunt of the attack on her thighs as she kicked through it, blasting him with a Soul Strike to the face.
+
+“Run that through your festering brain!” she taunted him, inspired in no small measure by Havok’s passion.
+
+He hissed, breathing a jet of fire from between blackened teeth. Malika dodged sideways around the strike, stepping on the air as easily as cobblestones, unleashing a litany of punches and kicks. Behind her, she sensed the rising surge of power from a Troll Berserker and leapt over the whistling greataxe, relying entirely on Soul Sight and its Infinite Perception to predict the attack and understand it. The nearly invisible mana shield darkened briefly to the heavy crack of the axe impact.
+
+A trail of void magic flickered in her sight, and Havok intoned, “Thanks for the damage.”
+
+Immediately, two of the rogues nearby echoed his chant.
+
+What is this? Are we growing a cult? A cult of damage?
+
+Malika pulsed her Healing Mantra yet again, bathing this side of reverent melee damage dealers, noting which of the raid members she had missed in refreshing Touch of Clarity. Then, she transferred another large chunk of mana to stamina. Normally, with Mato nearby, she regenerated more stamina than mana, but in his Tree Form, her mana regeneration was unreal, and she found herself constantly spending it to make stamina as she progressively overpowered her skills.
+
+She leapt over the head of the undead mage, dodging a fire blast shooting into the sky, and kicked off the shoulder of a stricken, flailing zombie wyvern before punching Alexander Gray in the head again and pulsing Healing Mantra to refresh the people on this side.
+
+The mana shield darkened on impact with her fist, but this time, the impenetrable smoothness rippled and frayed. What is this? A vulnerability?
+
+Eagerly, she unleashed another punch, but this time, her fist struck unyielding undead flesh with a dull thud. “Mana shield is down!” she shouted, grinning as the entire sphere of her perception erupted with every kind of energy and skill imaginable as the full might of the raid group tore into the undead necromancer.
+
+Brena downed another mana potion as she waited for Basir and the Consecration aura to gather the hordes of undead up near the giant tree. Mato… She was regenerating far more mana than she had ever imagined from the aura he was putting out, but Chain Lightning was expensive, and she had been casting it nonstop for what felt like hours.
+
+With four raid bosses summoning undead minions, they were a constant rising tide that threatened to sweep them away. Three now, she reminded herself, glancing at the enormous pile of still-smoking bones where the Skeletal Wyvern had crashed to the ground – but that hadn’t slowed down the hordes in the slightest. With Basir and the Consecration constantly annoying them, Brena watched them draw together into a convenient clump of moaning, clacking dead.
+
+“Alright. Round seventy-five, go,” Kaitlyn said, raising her bow. It was, of course, not really round seventy-five, but they had all lost count ages ago.
+
+“Hold,” Brena instructed, and the lightning archer kept her bow drawn but didn’t fire. Quickly, she glanced over to Seth and waited for him to wave his rod in the direction of Basir. Immediately, dark flickers of curses spread out from him, infecting the crush of the undead in a sudden rippling wave.
+
+Brena stretched out her hand and summoned her magic and said, “Curses are up. Go.” Chain Lightning sprang forth from her fingertips, arcing across the brambles and grasping roots, tearing through the horde of angry undead monsters with a sudden coruscating flash of lightning that zigzagged from corpse to corpse, leaving afterimages burned into her retinas. The flash lit up the entire tree from the underside in a dazzling instant, followed by a loud detonation that flung chunks of bone and decaying flesh sizzling through the air. A fraction of a second later, Kaitlyn’s lightning arrows ripped through the same group, followed by Hala’s potent arc-lightning javelin.
+
+Brena had a moment’s satisfaction knowing that the lightning casters always struck first, as she paused for a second to wait out her recharge while watching fireballs and blizzards drop on the remains of the undead before more were spawned.
+
+“Mana shield is down!” Calen yelled from somewhere over the far side of the battle.
+
+Brena took to the air on arcing wings of lightning, aiming for a better angle on the undead mage in the center of the crowd of melee attackers. Once she had a high enough angle to avoid hitting her allies, she readied her magic.
+
+You have gained Winter’s Desolate Celerity.
+
+Oh shit! A thrill of excitement shot through her as she unleashed a continuous blast of ridiculously hasted lightning straight into the undead necromancer’s withered chest, rapidly draining her mana pool, trading it all for pure lightning.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

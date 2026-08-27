@@ -1,0 +1,295 @@
+---
+id: 6008831c-dab3-50ad-a7e0-b66c0f5e2bfe
+page-type-slug: story-chapter-royal-road
+title: "76 - My Milkshake Brings All The..."
+slug: 0077-76-my-milkshake-brings-all-the
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 77
+ownLength: 2239
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3713288/76-my-milkshake-brings-all-the"
+royalRoadId: "3713288"
+---
+
+The six of us were back at Talon’s house.
+
+Kaelor and Meriel were hanging by the front door, talking about their own things. Talon was in the kitchen to prepare sweet drinks for all of us, while Tuna was off somewhere sleeping on a nearby cloud.
+
+I, unfortunately, had nowhere else to go besides sitting on the couch.
+
+Why was it unfortunate, you might ask?
+
+Because I wasn’t the only one on the couch. I was stuck between a knight who was louder than any woman I’ve seen before, and a dragon who was madly in love with me.
+
+How fantastic.
+
+“I think you should sleep out here on the couch,” Reina argued, spitting all over me.
+
+“No, I think you should,” Aeris argued back—also spitting all over me.
+
+Reina frowned. “Why would I? I was sleeping on that bed long before you showed up! You joined us later, so if anyone should be out here on the couch, it’s you!”
+
+Aeris shook her head. “But the couch isn’t as comfortable as the bed, and it’s also too cold out here.”
+
+“I’ll get you a blanket!”
+
+“But I need something to hug while sleeping.”
+
+“I’ll get you an extra pillow!”
+
+“But I’d rather have Allene.”
+
+Just as Aeris began to pull me, Reina grabbed my other arm. For a moment, they were playing tug-of-war with me like I was some kind of toy.
+
+“Could you both stop?!” I tried.
+
+“I would, but Reina won’t quit it.”
+
+“I could say the same to you.”
+
+They glared at each other from both sides of the couch.
+
+I sighed. “Alright, I’ve had enough.”
+
+I put my hand on both their faces, shoving them back and standing. As I started walking away, I could hear them continuing their argument. I couldn’t even fully understand what they were saying anymore, but from the few words I did hear, I could make a pretty good guess. Something about “spar me!” and “grab a sword!” told me this wouldn’t be a very calm evening for them.
+
+I went to Talon, who had been quietly working on the drinks for us through the commotion. He had just finished pouring the liquid base on the final glass. Looking closer at it, I could tell that it was some kind of creamy liquid.
+
+“Almost done,” he said, pulling out several colored syrups and cups of chocolatey crumbs from under the counter.
+
+“What are you making?” I asked.
+
+“Milkshakes,” he said. “I’ve got strawberry, chocolate, banana, and Oreo flavors. Everyone told me to just give them whatever, so I’ll just guess which ones would suit you all the best.”
+
+Ah. No wonder everything seemed so familiar. Milkshakes were a very common thing back in my world, too.
+
+…
+
+Wait a minute… Did he just say Oreo…? Do those exist in this world?
+
+“Oreo, huh…? What’s that exactly?” I asked, playing dumb.
+
+He gave me a look. “Is that a joke?”
+
+“No, I’m genuinely curious.”
+
+“It’s the best milkshake flavor in the world. Nothing beats it. Ever.” Then, his eyes lit up. “Ah! I know why you’re confused. It’s usually called cookies and cream in other parts of the world, but we like to call it Oreos in Whale Isles.”
+
+I raised an eyebrow. “Is there any reason for that or…?”
+
+“Not at all. Nobody knows where the name even came from, but it has a nice ring to it, doesn’t it?”
+
+“It certainly does.”
+
+[TROPE COMPLETED: SUSPICIOUSLY FAMILIAR CUISINE IN ANOTHER WORLD]
+
+[ITEM ACQUIRED: BOTTOMLESS COOKIE TIN]
+
+Description: Chocolate at the top and bottom, cream filling in the middle. A simple yet special treat.
+
+Effects:
+
+- Contains an endless supply of cookies with suspiciously familiar markings
+
+- The consumer will experience the liberty of tasting the greatest cookie ever
+
+This item will now appear in your hands.
+
+Note: Please refrain from starting world-ending wars over whether the cream or the cookie is the best part.
+
+Just like that, a bright glow appeared in my hands, revealing a small tin. It probably couldn’t hold more than five Oreos—I mean, cookies—at once. But I guess it shouldn’t matter since it was supposedly unlimited. Seeing this reminded me of the pouch of exploding talismans we had gotten from the dungeon. It was too bad that we had to toss it out as we were escaping from Aurelius.
+
+“Whoa, what do you have in there?” Talon asked, peeking over the counter.
+
+I opened the lid, looking inside. The cookies were exactly as advertised. After I showed it to Talon, his eyes lit up.
+
+“That’s amazing, Allene! I didn’t know you had Oreos with you! And they’re the high-quality kind, too! Where did you get them from?!”
+
+I turned the tin upside down. “I have no clue.”
+
+Dozens upon dozens of Oreos poured out of the tin. After they covered the entire counter, I turned the tin right-side up, putting the lid back on.
+
+“That’s… a lot,” Talon said. “But Allene, you’ve made quite a mess here.”
+
+Instead of getting upset, he pulled out several bags, sliding as many Oreos into them as he could.
+
+“Saving them for later?” I asked.
+
+“Damn right!”
+
+He crushed the remaining few that couldn’t fit in the bags and pulled out several cups, scooping the crumbs inside.
+
+“Actually, why don’t you just have this?” I said, handing over the tin.
+
+His eyes widened. “Are you serious?!”
+
+“Sure, why not? Seeing how much you love these cookies, I’m sure these are better in your hands than mine.”
+
+As I put the tin down, Talon came around the counter to give me a hug.
+
+“Thanks, Sister Allene! You’re the best.”
+
+I smiled and patted him on the head. “Your welco—wait, what? Sister?”
+
+He nodded. “I’ve decided to call all of you that. Brother Kaelor, Sister Meriel, Sister Reina, and Sister Aeris.”
+
+[TROPE COMPLETED: COMRADES AFTER THE WAR BECOME BROTHERS AND SISTERS]
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[155 → 156]
+
+“That’s… awfully wholesome?” I muttered.
+
+“Well, after everything we’ve been through together, it would be weirder if I didn’t call you guys that! My parents always do the same for their closest friends.”
+
+I looked away, covering my fluster. Talon was suddenly too adorable!
+
+From how well he was fighting against all those monsters, I sometimes forget that he was just a little kid.
+
+I returned my gaze. “Do you have any siblings?” I asked.
+
+He nodded. “An older sister, but she’s away working right now. She crashes here every now and then whenever she’s in Whale Isles.”
+
+“Wait… is that why your house has two bedrooms?”
+
+“Yeah.” He tilted his head. “Didn’t I already tell you about her?”
+
+“Maybe? I honestly can’t remember.”
+
+He shrugged. “Well, she’s been busy lately anyway. You probably won’t meet her during your time here. She’s a messenger, so she constantly travels between the sky cities.”
+
+“Don’t you think she’ll get jealous if you start calling us your brothers and sisters?”
+
+Talon laughed. “Not at all! She would happily call you the same.”
+
+I smiled. “She sounds like a good sister, judging by how much your face lights up whenever you talk about her.”
+
+He put a hand on his cheek. “Really? I guess I can’t help it. I love her lots!”
+
+Oh, Talon… What was with you and all this adorableness today?
+
+Just as he went back to finishing the milkshakes, I heard several stomps from behind. I turned, seeing Reina and Aeris walking out the front door together. Aeris wrapped her arms around Reina and jumped off into the night sky, flying upward.
+
+I ran to the front door, where Meriel and Kaelor were also standing.
+
+“Where are they going?” I asked.
+
+“They’re fighting,” Kaelor said. “That’s quite the matchup we have there.”
+
+“Ah,” I sighed. “So all that shouting about grabbing a sword and sparring wasn’t for show.”
+
+He laughed. “Guess not, but you know how it is with them. They’ve been constantly bickering over the last few days.”
+
+“And you’re the reason for most of it,” Meriel pointed out. “Though nowadays, I think they just get upset by being near each other. They’re like two pets that can’t get along.”
+
+I sighed. “Is that really my fault?”
+
+“Absolutely,” they said at the same time.
+
+Meriel shrugged. “One is jealous that her closest friend is being taken away, while the other wants you all to herself because she’s in love with you.”
+
+“Hah! It’s even more hilarious now that you’re saying it out loud,” Kaelor said.
+
+“Nothing’s funny about that,” I frowned. “It’s exhausting, if anything. But hey, maybe they’ll be tired after sparring. If that happens, Meriel and I could finally have a full night’s rest.”
+
+She tilted her head. “What do you mean? I’ve been sleeping just fine.”
+
+I turned to her. “Huh? How’s that possible when those two are so noisy whenever we’re trying to sleep? They’re either pushing each other around or snoring so loudly that I just want to cut my ears off.”
+
+“Allow me to demonstrate.”
+
+Meriel waved her hand near her face. At first, it looked like nothing happened, but after taking a step closer, I realized that there were gentle gusts of wind near her ears.
+
+“These block out noise almost perfectly,” Meriel said.
+
+“Since when have you been able to do that?!”
+
+“Almost forever. I find it difficult to fall asleep unless it’s absolutely quiet, so I learned this spell at a young age.”
+
+I shook my head. “You’ve got to be kidding me. Could you use it on me when we’re trying to sleep?”
+
+“What if I told you I can only cast it on one person at a time?”
+
+“Can you?”
+
+“Maybe, maybe not.”
+
+She whistled while walking toward the couch, sinking into it. I yelled out some not-so-pleasant words to her, but she pointed at her ear, which still had the tiny gusts of wind.
+
+“I can’t hear you,” she taunted.
+
+My face turned red. “Damn it, Meriel!”
+
+Kaelor laughed, putting a hand on my shoulder. “Cut her some slack, Allene. She did a good job back then against Aurelius, after all.”
+
+…
+
+“That’s fair,” I said.
+
+Even then, I was the only one who knew the truth about how Meriel had come back to life. To everyone else, she claimed she had cast an emergency spell that kept herself alive. According to her story, my healing magic had stabilized the wound just long enough for her to regain enough consciousness and willpower to finish healing it herself.
+
+Reina, Talon, and Kaelor accepted the explanation without question. Aeris, however, took much longer to convince. Aside from me, she had been standing closest to Meriel when everything happened and was certain she had watched her die.
+
+Somehow, we eventually convinced Aeris that Meriel had never actually died back then. We even considered telling everyone the truth about Meriel’s awakening, but in the end, we decided to keep it a secret.
+
+“What’s our plan for tomorrow?” I asked.
+
+“Hm…” Kaelor began. “I’m not sure. I heard Talon saying something about taking us around Whale Isles, but I’ll be fine with doing whatever you all want to do. I’ve already told my soldiers to head back to Aethereal without me.”
+
+“That’s the sky city you’re all originally from, right?”
+
+“Exactly right,” he nodded.
+
+“Don’t you need to go back there?”
+
+“Not at all. I’ve already written a note to my mother. I told her I had no clue when I would be coming back, and that I had a group of interesting people I’d like to tag along with for a while.”
+
+“And what did she say?”
+
+“Nothing yet. My soldiers have the note, and they’ll deliver it once they get back. But knowing her, she probably won’t mind. As for Father… Well, that’s a different story.”
+
+Talon clapped his hands from the other side of the room. “Alright, everything’s ready! Can someone bring Reina and Aeris back before the drinks melt?”
+
+Meriel raised her hand. “I got it.”
+
+She cast a spell on herself, creating wings on her back before heading out the front door and flying into the sky. Talon continued digging around the kitchen, adding some side desserts to pair with the milkshakes.
+
+I turned back to Kaelor. “Also, I just wanted to ask you…”
+
+“Hm?”
+
+“How are you doing?”
+
+He tilted his head. “Fine…? Why wouldn’t I be?”
+
+He noticed where I was looking.
+
+“Ah,” he said, glancing at his missing arm. “As I said, it’s nothing you should be worried about.”
+
+“But still, I… this is because of me, so—”
+
+“Don’t blame yourself, Allene. I mean it. I’m thankful for everything you’ve done. I could never be upset about your efforts. Truly.”
+
+We stood in silence for a moment.
+
+Good job, me. Now I’ve soured the mood.
+
+Trying to stir the conversation away, I mentioned, “Actually, there’s one thing I want to do tomorrow. I was thinking of heading back to the dungeon.”
+
+Kaelor raised his brows. “After everything that happened? It’s heavily guarded now, and nobody’s allowed through, right?”
+
+“We should still try,” I said.
+
+“Is it because of everything Aurelius said?”
+
+I nodded. “Camille and his other friends… their souls are trapped in the manor inside the dungeon. We can’t just leave them there.”
+
+“You think we can free them?”
+
+I thought about it for a moment.
+
+“We should try,” I said. “But at the very least, I’d like to talk to them before we leave Whale Isles.”

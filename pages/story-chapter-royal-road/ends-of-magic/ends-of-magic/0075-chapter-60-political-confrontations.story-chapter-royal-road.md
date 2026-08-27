@@ -1,0 +1,225 @@
+---
+id: a694b1c9-11f2-58ec-98e3-61dbf2e8eecd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: Political Confrontations"
+slug: 0075-chapter-60-political-confrontations
+partOf: ends-of-magic
+position: 75
+ownLength: 2678
+unit: words
+ownProgress: 2678
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3107955/chapter-60-political-confrontations"
+royalRoadId: "3107955"
+markedReadAt: "2026-06-29T20:09:40.307Z"
+---
+
+Nathan and the Heirs stopped by their rooms to confirm they were in fact ludicrously luxurious before rejoining the Questors. Their guide led them to a large, multi-tiered meeting room. Half of it was on a balcony facing the sea, and the whole thing was exposed to a gentle ocean breeze. They had a great view over the water, where the sun overhead glinted off the gentle waves. Of course, the room was also full of Questors who were trapped somewhere between mystified and furious by what Colborn was saying.
+
+“.. a new proposal to replace every important feature of the Endings, so that we are no longer subject to cyclical apocalypse.” Colborn finished.
+
+“What in Olita’s holy teats caused this change?” asked a Questor that Nathan didn’t know. Their tone was part disbelief, part frustration.
+
+Phryne rolled her eyes. “Hold the blasphemy, especially in this city. Your question has an obvious answer. This conclave will already be different from every other. The mortals demanded the change, as you would learn if you listened.”
+
+“Mortals, yes. Operating on a mortal lifespan,” the other Questor said acerbically. “Colborn, is this calculated?”
+
+Colborn answered the question with another question. “Why do we seek to change Davrar? Do we find it inconvenient to us? Do we wish to prosper better than we already do? Or do we mislike what it has become, the way that a license for research and learning was perverted into an open invitation to abuse sapient beings?” His voice dropped, growling out the next words in banked rage. “None of us are greedy. We all see the evils of Davrar, the suffering of the mortals.”
+
+He pointed back to where the Heirs were waiting. “Now the mortals come to us, here to protest their pain. I ask you, should we thank them for their voices, then use them as puppets to push our own agenda?” He paused to look around the room, eyes landing heavily on the Questors. “Or do we recognize that this is the moment when we should support those harmed by the evil we failed to stop? Their presence here indicates our failure. Conclaves were never meant for mortals, but now they will speak at one.”
+
+Nathan could barely taste the edge of the social skill laid into the Questor’s words, but knowing it was there didn't nullify the effect. It wasn’t convincing him of anything he didn’t believe, but it did strip away all excuses and justifications. It forced him to engage with what the man was saying and to ask himself whether the arguments were good.
+
+“So,” Colborn said again, the word falling heavily into the sudden silence. “When they speak, we will be the first to listen. They wish to fix Davrar in our place. We will give them support so that they might succeed.”
+
+The same Questor looked around, trying to find somebody else to speak. Nobody seemed willing to take his place, so he turned back to Colborn, sputtering out some questions of his own. “Then what of Davrar’s purpose? What of the societies we have built? Are we to solve the challenge of Davrar in a day?”
+
+“The suggestion is that we build our societies for stability, instead of survival,” Sarya answered dryly. Then she jerked her head towards Nathan, speaking to the Heirs instead of addressing the room. “Come. I’ll tell you what I can of the formula of opening ceremonies, while my peers stretch their minds towards new horizons.”
+
+She brought them out onto the balcony and to an isolated table, where she hunted around for a magical control set into a table. When she found it, a magical bubble popped up around the table, isolating them from the brewing argument among the rest of the Questors.
+
+“I thought they were all about to fart ice,” Stella said jokingly.
+
+“Should we speak to them?” Sarah asked, looking back at where Colborn was giving animated hand gestures as he addressed the group again.
+
+Sarya waved the question away. “Colborn has it calculated. He’ll argue everybody onto the right trajectory. What is more important is that you are prepared for your speeches.”
+
+“Go ahead then. What do we need to know?” Nathan said, laying his hands on a part of the table that wasn’t enchanted.
+
+“First is your opening speech, and it is the place where your oratory must be careful. You cannot be challenged during that speech, and Davrar will not limit your time. You will be able to set the frame of the conclave. But if you frame it badly, then it will haunt the entire conclave. Do not call anyone evil. Or describe Davrar as evil. This is not a place for accusations. That will come later. Describe the problem as a shared reality, and propose a direction that makes reasonable Questors feel like they’re joining something, not being indicted.” Her eyes flicked to Khachi, whose frown had grown to thunderous proportions. “You can be moral. Just not personal.”
+
+Nathan shared Khachi’s frown. “But the ultimate problem is that Davrar is evil. If I tone that down, then what kind of point can I make?”
+
+Sarya sighed and raised her hands. “That’s what we need to probe over the next day.” Her voice flattened to brisk pragmatism. “But before we venture into that pit, I need to lay out the method for the general speeches after the opening. Each one has five minutes between challenge windows, and the audience’s attention is a resource. If you misspend it, you will be punished. You want one central idea, stated cleanly, with a hook in the first sentence and a conclusion in the last. These are not lectures, and Davrar will suppress social skills. They’re single, memorable moments, and the best are less than a minute. The shortest speeches may even dodge a challenge.”
+
+Sarah twisted her mouth. “Not a likely outcome for us. We would be challenged for saying nothing.”
+
+“Likely so,” Sarya acknowledged, then moved on. “The next topic. When you win a challenge, you can give a few words. It is not a time to make a speech, but a single refutation of your enemy’s points is expected. As such, if you see an enemy speak and are sure you can defeat them, have a remark ready. Normally, I would caution against challenging too frequently, but your duels will be watched closely.” She grimaced. “Everybody wants to see the death of a legend.”
+
+“If we manage to avoid death, make a sharp response to the bloodthirsty crowd,” Aarl translated.
+
+“Correct,” Sarya answered, then continued, going over the forms and details of the conclave until the staff of the Golden Respite brought out food and served each of them an individual plate. It was a wide piece of white ceramic and held a half-dozen little different portions, laid out on the plate with notable artistry. Looking around, Nathan saw that everyone’s meals were unique, with no portions shared between plates.
+
+The sun set, and everybody dug in, magical lights replacing daylight while the ocean outside glinted in the light of the world overhead. Once he was finished, Nathan pushed the plate away, where it was quickly collected by a staff member who’d been waiting. He almost asked Sarya what the story of this place was, why they seemed to treat Colborn with such respect. But he didn’t really care about the smalltalk at the moment. The only thing that mattered was the conclave.
+
+“How does Davrar enforce the rules?” Nathan asked. “Keep people from talking too long, or from escaping the duels? Or destroying the Arena while fighting?"
+
+“Indestructible magical force. Beyond wizardry, I’ve been told. It would hold one of Stella’s blasts.” Sarya raised her eyebrows towards the mage.
+
+Stella snapped her fingers in mock disappointment. “Harpy tits. I thought to vaporize half the audience if our enemies sat too close together.”
+
+“Not a wise strategy,” Sarya said with a chuckle. “Most of the voters are remote, and breaking the rules of the challenges is not viewed favorably. Most would call killing the audience a foul, but it is impossible, regardless.”
+
+Sarya’s words had seized Nathan’s attention. “Can we see the Arena tomorrow? Perhaps get a sense of the place where the duels happen?” He kept the question casual, but inside, he was tense.
+
+The Questor nodded. “We may, though Davrar’s barriers will not be in place yet. Still, it is a place of peace. No conflicts are allowed near the Arena to prevent damage to the structure.
+
+“Of course,” Nathan answered, outwardly calm. Internally, he boiled with familiar rage and sudden hope. On one hand, the idea that the Questors valued a simple building over the lives of everybody killed in the Endings seemed so stupidly hypocritical. But on the other hand, if his supposition was right, he would be able to break the rules of the conclave. It sounded like it was made of the same kind of special Davrar-unique power that made the Seals and controlled the Questor’s resurrections.
+
+He didn’t have any ideas in this moment as to what he could do with that. Being able to break the rules of Davrar was a trump card, but inside a room full of Questors, it wasn’t one with unlimited power. Besides, only a fraction of the Questors on Davrar would be attending the conclave. It also wouldn’t fix the problem of the Endings. As far as he knew, if every single Questor left Davrar, the Endings would still continue.
+
+Killing Questors permanently would also lose me the moral high ground.
+
+The Heirs bid Sarya an early night and departed for their rooms. Colborn and the other Questors were still at it, split into a half-dozen groups, each arguing over a specific issue. One group was focused on formats for wars between nations; another was discussing designating certain depopulated continents as sources of new magic that would require fighting through constant enemies of greater variety than the blights.
+
+The Heirs left the room, headed for their rooms and some privacy. Once they’d gotten inside, Stella put up privacy spells, and Nathan scanned for magical listening devices. He found a half-dozen of them, hidden inside various utility enchantments. He frowned and walked over to a lamp, peering inside and carefully peeling the piece of enchanted paper off the inside of the shade. The enchantments died when he touched it, and it shifted from the pale gold of the lamp to an inoffensive beige.
+
+The Heirs looked at him in some confusion, but Nathan simply raised a finger to his lips and proceeded to disable the rest of the bugs. He collected the magical listening devices together before speaking. “I’m pretty sure that’s all of them. We should be good to talk. Any thoughts?”
+
+“We’re going to die,” Stella replied cheerfully. “The conclave is not designed for mortals, and we’ve got enemies. There's no way to force them to fight, so they'll wait until we take the stage and then do their best to kill us."
+
+Nathan blew out a deep breath. “Yeah, maybe. So what do we do?”
+
+“We do it anyway,” Sarah said seriously. “We drip blood in their eyes, then fight hard enough that our memory is petrified in place. Our deaths will show them Davrar from our perspective. Only one of us needs to survive, to dare them to vote against it.” She turned towards Nathan, speaking directly to him. “That is most likely to be your burden. We trust you to carry it.”
+
+He felt water gather at the corners of his eyes and didn’t try to hold it back. “Ok. Whatever happens, I’ll make sure they remember it. If the vote goes against us…”
+
+Sarah jerked her head sharply to cut him off, looking around with a wary expression, then meeting his eyes warningly. The message was clear. She still didn’t trust they were free of eavesdroppers.
+
+Nathan let out a shuddering breath, realizing he wouldn’t get to tell the Heirs what he planned if they died. It wasn't a secret he wanted to leak, and there wasn't going to be a more private place than this. It was probably better this way, but he felt the burning need to promise them that the Questors would regret killing these particular mortals. But instead, he nodded and wiped at his eyes silently.
+
+“Hug?” Aarl offered, and Nathan accepted gratefully. The rest of the Heirs glommed on, and soon they all stood together, taking comfort in physical touch.
+
+Once they separated, Stella looked back at Nathan, kindness in her eyes. “How are you feeling?”
+
+“Terrified,” he answered quickly, then took a moment to unpack that statement. “For so many reasons. I’m not scared to fight, or to die.” He gave a wet chuckle. “I think I’m mostly over that at this point. It’s not even the thought of all of you dying and leaving me alone.”
+
+Stella mimed being shocked, but gestured for Nathan to keep going.
+
+“It’s the feeling of Davrar on my shoulders. A thousand Earths in size, probably hundreds of billions of people. If I fail, then I doom them all to apocalypse. Maybe not them, but their children or grandchildren or great-grandchildren. It’s too big. If we can't fix this, then nothing else matters. The thought of failing them terrifies me.”
+
+“We have but one life to give,” Khachi answered. “Even my powers do not change that, merely delay the giving. We all dedicated ourselves to this cause. You are not alone yet, and if we do fall, I trust that you will carry through our cause. If you fail, it is because the deed is impossible.” His voice was full of banked power, and Nathan could feel his friend's certainty in his magic.
+
+“You’re not alone yet!” Stella repeated, punching Nathan in the shoulder. “Don’t start with a false premise. Maybe it’ll be me, alone and tragic, with a prophecy of woe to rival Brox.” She leaned back and laid the back of her hand over her eyes, posing like a tragic actress.
+
+“Or maybe we all become Questors!” Aarl said jovially. “That’s probably a possible outcome of the conclave!”
+
+“Spare me,” Nathan replied, rolling his eyes. But his friend’s efforts to cheer him up had worked, and he didn’t feel quite so crushed anymore. “We should talk more about our points. I've got some ideas, but I could use more feedback on them.”
+
+“Ah, you’re smothering our fire,” Aarl complained halfheartedly. “I’d hoped to escape such mundanities as preparation.” His sister glared at him, and he sighed heavily. “Fine. If we're going to trade our lives for a chance to address the Questors of Davrar, I can spend some time practicing our aim.”
+
+“Thank you,” Sarah replied politely. “I suggest mentioning that their current environment does not seem to challenge them. Their Insights and levels seem blasphemously weak for the length of their lives. They need to rework Davrar to be less about periodic Endings and more about inter-Questor conflict.”
+
+“What about complaining that they’re bloodthirsty and want to kill us?” Aarl asked plaintively.
+
+“Somebody needs to say it,” Nathan agreed. “Maybe wait until after somebody gloats that we’re just going to die.”
+
+Permanent Talent 1: Magical Destruction 6
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 2
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 5
+
+Forewarning 10
+
+The Truth of Magic 6
+
+Evasion 5
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

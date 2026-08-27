@@ -1,0 +1,157 @@
+---
+id: 63f70114-f4d3-542c-aa05-4af30545644f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 388: Evacuation"
+slug: 0425-chapter-388-evacuation
+partOf: dungeon-of-knowledge-complete
+position: 425
+ownLength: 2834
+unit: words
+ownProgress: 2834
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2622620/chapter-388-evacuation"
+royalRoadId: "2622620"
+markedReadAt: "2026-06-29T20:26:26.131Z"
+---
+
+Malika stared anxiously at the teleportation locus, all the calmness of her meditation a distant memory.
+
+That was her! That was definitely Ali… There was no doubt in her mind that the failed teleportation attempt had been Aliandra, and now, as more and more time passed, it was becoming just as clear that her friend could not use another recall potion for some unfathomable reason. The mana battery was completely refilled, but there had been no new attempts since.
+
+“What’s keeping her? She does have the imprint for the recall potion in her Grimoire, right?” Malika asked. “I didn’t hallucinate about her making potions?”
+
+“Yes, she made the last batch we used,” Calen said, frowning. He had recovered his senses pretty quickly after she healed him – presumably only needing a little time to recover some mana before sitting up. He had no recollection of events that occurred after that briar whip had slapped him into the Abyssal Realm.
+
+Or… could she be… but she refused to finish the horrific thought, even though it seemed Ali was stranded in the Abyssal Realm with no mana nor minions to protect her from that terrifying Pit Lord and the rest of the mind-flaying demons. Even just the mere presence of that monster had corrupted them and very nearly killed them all.
+
+“You don’t think…”
+
+“No,” Mato said firmly, shaking his head. “She’s going to be ok. I have to believe it.”
+
+Malika fell silent again, not willing to question Mato’s faith out loud. But… how is she going to survive? She’s by herself.
+
+“Something is happening,” Mato said, suddenly breaking the silence and looking toward the exit. “I hear… screaming outside.”
+
+Malika, of course, did not hear anything, but she had learned to put a lot of trust in Mato’s greatly enhanced senses – his nose and his ears were uncannily sharp. The three of them sprinted out of the receiving room, heading down the corridor to the front door of the Novaspark Academy, but they didn’t even need to go that far. As soon as they reached the second hallway, they were greeted by a scene of pure chaos; mages and clerks ran every which way, screaming and crying, some standing frozen in terror. A huge, misshapen form loomed in the doorway, forcing its massive, lumpy green body through to the ominous sounds of cracking masonry and the grinding of fractured stone. Mana sizzled as a reinforcing enchantment burst within the wall and, with a sudden lunge of uncanny speed, the monster’s huge maw snapped shut on the head and shoulders of a pretty, panicked receptionist, chopping her scream off with a loud crunch and spray of blood. Several similarly mangled corpses could be seen strewn about the feet of the giant Fungaloth.
+
+Malika teleported, stepping through the intervening space in an instant, arriving moments before Mato’s furious charge. But although that meant taking a terrible bite to her shoulder, she managed to arrive just in time to save a cowering Gnome from the same gruesome fate as the unfortunate receptionist whose head and torso had just vanished down the gullet of a fungal aberration that had no right being in the halls of the Novaspark Academy. She healed herself and let Mato taunt the monster with his Challenging Roar before she unleashed the full fury of her punches and frustration into the giant fungal monster. I need to be faster. She spared a regretful glance at the remains by her feet.
+
+“Everyone, pull back,” Calen said, taking charge of the cowering townsfolk with a calm voice that pierced the panicked screams. “Behind me, if you want to live!”
+
+How is this monster here? Why is it here? These questions buzzed around in her mind. Down below, the dungeon spawned by Nevyn Eld from the unholy fusion of the Blooming Rot shrine and Lira’s undead corpse had consumed most of Ali’s dungeon, all the way to the rift. But this monster being here meant that the dungeon’s encroachment had to be far more expansive than she had feared. If it was able to create dungeon breaks that leaked monsters like this into the town itself, then Myrin’s Keep was doomed.
+
+“The monster is under control. Those of you who can shoot, please do so now,” Calen said, confidence and authority cutting through the remaining screams and sobbing like a soothing balm.
+
+Malika didn’t expect much; most of the Novaspark Academy was for magical crafters, couriers, and services – it wasn’t anything like the garrison or the guild. But a sideways glance caught the venerable Gnome she had just saved, clambering to unsteady feet with wisps of his scraggly white hair sticking out in all directions. He gulped, but still managed to raise a quartz rod in a shaking hand, and fired off a small Firebolt that shot out and hit the side of the Fungaloth.
+
+He can’t be more than level twenty. At best. She couldn’t identify him, but she could see the density and amount of mana he was wielding. The Fungaloth was above level one hundred; a second-tier monster. That low-level firebolt wasn’t exactly going to do much. But Malika understood what Calen was doing – the Gnome’s shaky courage proved to be the catalyst for some other mages to pull out wands or cast long disused attack spells. Several others began to drag their injured companions to relative safety.
+
+Within moments, there were three dozen mages or clerks with wands firing assorted spells, and the screaming and crying had ceased as everyone in the room focused on the terrifying monster before them.
+
+But Calen had a surprise for everyone.
+
+In the periphery behind her, seen by the extraordinary perception of Soul Sight, Malika witnessed the sudden intensity of his mana like the sun coming out from behind a cloud. The surge of increased power from his Beacon of Light spell blazed throughout the room, and Malika immediately realized what he had just done. Even though most of the mages could not do much damage on their own, there were still a lot of attacks, and Calen’s magic would enhance all of them simultaneously.
+
+With Calen’s incredible sustained damage and her punches, the impromptu Novaspark raid took down a Fungaloth in under ten minutes.
+
+Your group has defeated Fungaloth – Fungal Aberration – level 102 (Nature / Death).
+
+“Holy shit!”
+
+“One hundred and two!”
+
+The room filled with the sudden shocked gasps and exclamations of those who’d participated, presumably most of them not having a combat Identify like her and learning the monster’s evolved state for the first time when the notification appeared. Even with the paltry contributions they had made to the total damage, several of them leveled dramatically.
+
+Amid the chaos, Malika rushed forward to the doors and opened them. Across the street, the sewer grate had vanished, and from the dark hole in the ground, Fungal Creep was already spreading. A pack of Braconids crawled out of the hole and vanished behind the rubble of a shattered wall.
+
+“Calen,” she said. “We’re going to need to evacuate the town.”
+
+Calen landed beside her, a flare of bright light-affinity mana briefly flashing in Soul Sight. “This is bad,” he said, glancing back into the Academy and the lobby full of still-celebrating mages.
+
+“Yes,” Mato said. His head swiveled back and forth searching for danger. “And we’re going to have to fight our way out.”
+
+***
+
+“Everyone, listen up. We’re heading to the South Gate!” Calen shouted from his vantage point high up in the air. “Stick together. Gather the stragglers and wounded, and Malika will heal them as we go. Evacuate the town!”
+
+Malika glanced around, comfortable letting Calen take the lead. He seemed to have a knack for getting people to do what he said, even amid the panic and chaos. It had to be something about the calm confidence in his voice when the entire town was falling apart – he was beginning to sound like Lyeneru.
+
+Malika ducked as a huge twisted and blackened oak suddenly sprouted from inside a house, shattering the stone walls and tossing the shards of the roof across the street. Spying the energy silhouettes of a struggling family, she teleported inside, kicking a shattered chunk of stone cornice out of the way before it crushed them.
+
+People scrambled about on the streets, screaming and running every which way while monsters stalked them. Several lay or sat amidst the rubble of their homes, overcome by the shock, or rooting through the debris for belongings or loved ones.
+
+“That way, join the crowd,” Malika yelled, pointing to the south road. They had quickly found the guild raid groups and the garrison, and Calen had coordinated the evacuation effort with everyone. Their job to guard the group as they made their way to the south gate to exit the doomed town.
+
+She felt numb. She had long lost track of how many monsters they had fought, but worse, she had lost count of the number of people she had been too late or too slow to save. Too many dismembered corpses, and too much blood – but there was always more work to do, and she had been fighting for so long now that she was likely the strongest fighter in the town. She teleported back, healing Mato and pulsing her overheal to top up several of the garrison guards they had picked up along the way – fighters strong enough to at least support them.
+
+She released her healing spell, about to take her hand off Mato’s shoulder, when something within her shivered and shattered. She stumbled, catching herself with a fistful of fur as a brief and intense pain stabbed deep within her heart. The shattered remnants faded, leaving in their wake an absence of something so familiar that she only noticed it when it was gone.
+
+Your mentor enchantment has been removed.
+
+Rezan… no, no! No! Instantly, her throat closed up and she gasped, like a heavy band was tightened around her chest, preventing her from breathing. Dread flooded her heart. Dread, and a clear certainty of what it meant. She didn’t know where, how, or why, but somehow…
+
+“Malika? What’s wrong?” Mato asked, his huge furry face filled with sudden concern as he supported her clinging to him with stoic solidity.
+
+“I…” she choked. “No. Rezan is… Rezan… he’s dead.”
+
+Calen fired several volleys of fire and light arrows at the enormous gnarled treant as its massive wooden root-bound foot flattened yet another house. Arm branches smashed downward, trying to crush Mato under the weight of the impacts that shattered the stone streets and pounded walls into rubble.
+
+It was no Berserker troll, though, and Mato had faced the worst Tol’brekk could dish out as a second-tier Death Knight raid boss. He shifted his weight closer to the ground and intercepted the strike with Critical Block, sending a retaliatory strike of reflected damage into the great rotting branches. Leaves and twigs burst in a large rotting cloud from the treant. It was a dangerous foe, but it seemed to be mostly brawn, easy to control with a tank of Mato’s caliber.
+
+Calen glanced back at the never-ending trails of screaming people fleeing southward through the ruined devastation of the town. At least the screams were mostly from children now, and the adults carried them grim-faced through the rapidly disintegrating town.
+
+“Mato, pull it off the road,” he said.
+
+“Got it,” came the reply, but as he started to move it, the massive tree monster stopped in the middle of the street, shivering with a sudden infusion of mana.
+
+Well, shit.
+
+Calen had hoped it would take longer for the dungeon to establish itself, but the giant surge of mana and the sudden rapid growth of the Treant were an obvious sign that they were running out of time. For the sake of all the terrified people in earshot, he worked hard to keep the annoyance and frustration from his voice. “Mato, the dungeon upgraded it to a raid boss.” Even so, gasps and exclamations of alarm greeted his announcement.
+
+He had no idea what the domain abilities would be, but it was certain that the fleeing townsfolk were in stark, immediate danger. “Everyone, move quickly. Leave the area around the tree. Do not stop for your belongings,” he shouted. It was insane how many people needed to go back for stupid stuff when there was a literal evolved raid monster in their backyard. A heavy ache filled his heart, understanding coupled with frustration. Where were their survival instincts? Where was the primal sting to action rather than that aimless rooting through the rubble of a collapsed home for some stupid trinket?
+
+“Calen, what’s the situation?”
+
+It was a voice he hadn’t dared hope to hear. Lyeneru Silverleaf. A knot of tension he hadn’t known he was carrying suddenly unclenched. He turned to find her hovering in the air nearby. Val’korr popped out of the Spirit Realm, content to walk on the air. Calen raised his eyebrows at the aged troll but said nothing. What other surprises is he hiding?
+
+“The dungeon has taken over the town,” Calen answered, turning back to Lyeneru and delivering his report concisely – although that much was obvious to anyone with eyes. “The garrison and the guild have been evacuating all the survivors through the South Gate. They’re setting up a camp in the reclaimed forest, but the dungeon just blocked our path out with this raid boss.”
+
+“Very well, let’s kill it,” Lyeneru said. “Abilities?”
+
+“Mostly physical attacks before it got boosted,” he said, but he recognized a very familiar magic. One Ali used a lot. “Mass summoning, it seems.” As if to punctuate his words, a horde of strange humanoid plant monsters materialized around the base of the tree, wielding bows and melee weapons that all seemed to be made from wood and leaves. “Sylvans.”
+
+“Good,” Lyeneru said, her tone equally clipped and direct. “You kill the adds. Val’korr and I will take out the tree. Let’s move.”
+
+“Got it,” Calen answered and immediately unleashed a full volley of explosive arrows at Malika and Mato, who were suddenly tanking all the sylvan monsters. Beside him, the very air itself ignited from the passage of superheated flaming arrows. Successive detonations of lightning shook the ground as Lyeneru unleashed hell upon the treant.
+
+Val’korr waved his staff casually, calling forth a dozen ribbons of blue that hissed softly as he drained the monster, and semitransparent spectral beasts, glowing with inner blue light, began phasing across the boundary, attacking from the spirit realm beyond.
+
+“The Blind Lich is dead,” Lyeneru reported tersely. “Well, this incarnation. But… we lost Rezan.”
+
+Calen took the news silently with just a nod of acknowledgement, but inside, he grimaced. What kind of monster was the Blind Lich that he could stand up to the Legendary Pathfinder, an elder of the Ahn Khen, and the ancient Seeker of the Aman Rak tribe, and still kill one of them? He must have been substantially more powerful this time, because the last time, Lyeneru had been able to defeat him by herself.
+
+Last time.
+
+The last time, he had had the idea of using Sense Prey on the Blind Lich when Lyeneru had sent him retreating to his Phylactery, and he had earned a title and a direction. A Lich’s Phylactery was their soul, the reason for their immortality. It was also their most closely guarded secret, but he wasn’t in Aman Rak this time. He was in Myrin’s Keep, hundreds of miles to the north.
+
+Sense Prey required that he had recently seen his target, and he believed them to be his prey. Tracking the Lich to his home certainly counted for the second requirement, and he had been present in Ali’s forest above the library when Nevyn Eld had raised Lirasia’s corpse.
+
+His mind stirred, turning over the possibilities. Triangulation… it should be possible…
+
+Without wasting another instant, he activated Sense Prey. Immediately, he sensed a pull to the northwest with a clear indication that the Lich was currently far away. Got him! Calen was certain that any lesser tracking ability would have been warded against by the Blind Lich’s defenses, but this ability had been his reward for completing the trial of The Wanderer – a divinely influenced skill.
+
+At that moment, a welcome notification popped up.
+
+Explorer has reached level 65 (+2).Your actions have greatly increased the reputation of your patron.Your title, Tracker of the Dead, has been updated.Tracker of the DeadYou have tracked the soul of a Lich to its hidden Phylactery.+5 [1 + class level / 25] to skill level of Tracking skills when the target is undead.Your Tracking skills are more difficult to ward against when your target is undead.Title
+
+“I know where he is,” Calen said, earning a long, calculating look from his mentor.
+
+Slowly, a savage smile curved her lips. “Do you, now?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

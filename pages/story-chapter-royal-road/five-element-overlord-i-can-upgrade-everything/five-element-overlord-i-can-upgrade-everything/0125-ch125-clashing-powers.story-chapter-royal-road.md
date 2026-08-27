@@ -1,0 +1,155 @@
+---
+id: c6b01b9c-e555-5346-b5d0-3bbf80069dce
+page-type-slug: story-chapter-royal-road
+title: "Ch125 Clashing Powers"
+slug: 0125-ch125-clashing-powers
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 125
+ownLength: 2107
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3845647/ch125-clashing-powers"
+royalRoadId: "3845647"
+---
+
+On the far side of the orchard, out of the spiritual senses of anyone battling on the main stage; Wang Ming, Mu Shulan, and Mu Zhiheng are left without the protection of their mid stage foundational patriarchs. They have flown up to the sky to clash with the Late Stage Jiang Patriarch.
+
+A brown bear and green eagle are with them, and a few allied mid stage and late stage qi refining patriarchs are nearby, but no one strong enough to help against the three 2nd level foundation establishment blood demons of the Jiang Family that attack.
+
+All of them are cousins of Jiang Yu, the 3rd level foundation establishment that is occupied trying to kill Lan Xin.
+
+These three all have perfected mortal grade flaming mountain physiques, and perfected mortal grade blood demon physiques.
+
+One wields a long curved sword, another holds an enormous axe, and the third two small daggers, all of which are extremely rare low grade tier 2 artifacts. Being in the presence of one of these weapons alone could make a qi refiner uneasy.
+
+Fiery earth and blood qi aura saturates these weapons, making them even stronger. Instead of purely manifested blood energy swords from their physiques, these artifacts can be used as anchors, capable of sending off longer range blood energy attacks.
+
+Their bright orange-red Jiang family hair is glowing with red demonic flames.
+
+Every footstep they make turns the ground beneath their feet into red hot rock, reacting to their base physiques, and becoming erratic with blood energy, wildly exploding behind them when no longer tethered to the bodies.
+
+Explosions of fire and blood energy erupt into the air.
+
+There is only one force of pure green energy that can contend with these violent displays of strength.
+
+Massive pillars of thick wood pierce upward from the ground, creating masses of what look like living trees.
+
+Mu Zhiheng is the only foundation establishment cultivator left to defend. He yells in fury as he pushes both of his palms into the ground, vibrating outward with an acquired initial stage spirit grade physique, and channeling his foundation establishment strength qi underground.
+
+More and more pillars of dense wood surround the Mu and Wang Family heirs, blocking the balls of molten fire and blood energy from landing on them.
+
+Many late stage and perfected stage qi refiners of the Jiang family hold mid and late stage physiques, surrounding this chaos, and watching their elders attack the circle of wood, looking for their own opportunities to strike.
+
+–
+
+I see these bursts of green and red initial stage foundational aura coming from the far end of the orchard, but I’m far more entranced by the flash of mid and late stage foundation cultivators in the sky.
+
+The shockwave tears down trees beneath us, but the majority of the blood energy blast is contained by the spirit moose's array, to only ripple out into the atmosphere and underdeveloped portions of the mountain around the orchard.
+
+Both the Mu and Wang family Patriarchs push back, creating a blast of energy to alter Jiang Duo’s trajectory. Instead of falling down on the ceremony, they’re able to push him off the cliff behind the stage, but they’re locked in a spiral containing him to save everyone else. The major foundational threats all fly out of sight.
+
+There is only a loud series of explosions and the shaking of the earth beneath our feet that follows.
+
+The full strength of my shield’s passive ability returns, completely suppressing the weaker initial stage foundational aura in the air after. My breathing, mental capacity, and qi flow are no longer suppressed.
+
+I pull in a deep gasp of breath, and let another arrow fly from my bow, piercing a Jiang family 9th level qi refining blood demon’s neck who is approaching fast.
+
+It does not kill him on the spot. I need to send out two more valuable perfect grade arrows, one in the heart, and the other in the forehead before he falls.
+
+Waves of hot blood qi floods from his body, resonating with his late stage flaming mountain physique. The blood qi reacts erratically and it explodes with enough force to break some of my arrows lodged in his dead body. Other reactions injure and kill nearby initial and mid stage cultivators.
+
+With 4 charges left on this shield, and multiple fully charged tier 2 artifacts in my storage, I’m confident none of the initial stage foundation establishment cultivators left in the orchard can harm me.
+
+There are still over a dozen extremely strong late stage qi refining blood demons in my vicinity. I do not have enough arrows to kill them all from a distance, but even at close range, I’m confident I could take most of them on hand to hand. It is just a few that are stronger, similar in strength to those I faced back in the war.
+
+To make sure it never comes to that, I only target these most harmful threats.
+
+Many members of the Wang Clan are extremely capable of holding their own without me.
+
+There are almost twenty concubines and a few main wives with 7th grade roots. Some of them are in the late stage of qi refinement. To protect the young, they use talismans, high grade weapons to fend off attackers.
+
+Wang Ruze, the only 6th grade 10th level qi refiner present, holds his own, protecting my back and his son. However, he only has a beast mastery physique; it appears to not add much raw strength to his form, limiting him to only fight 6th and 7th level blood demons at close range.
+
+He holds a few perfect grade talismans to handle stronger threats at range.
+
+There are half a dozen men at the 8th and 9th level of qi refining, mostly Wang Ming’s uncles and strong in-laws married in, all with roughly the same strength. They hold enough high grade protective treasures to take an attack or two without any serious injuries.
+
+In the few seconds I have to think in between some attacks, I pull out almost all of my perfect grade defensive talismans and throw them to these men, as they could use all the help they can.
+
+Dense shields of qi envelop all of them one by one in the passing exchanges, and it allows them to launch even more offensive counters without any fear.
+
+My shield artifact is quickly used as a strategic point of reference, as many know that no attacks or intense auras will be within about ten meters of it. Many of the clan’s young huddle behind it as I shoot, all too occupied with surviving to question my rare artifact’s source.
+
+After the death of the Fu Family’s only foundational patriarch, and the simultaneous killing of most of their elders behind him in the blast, their battle strategy has been completely ruined.
+
+Not a single Wang Family member has died.
+
+A majority of the surrounding allied clans that did not leave earlier run away to escape the chaos.
+
+None of them are targeted, but there are certainly some caught up in the crossfire.
+
+There are three private seating areas that are still completely sealed, reserved for foundational clans. Two of them are representatives from the Wei and Lin Clans. From the descriptions Lan Xin has given me of these forces, it is unlikely they will come out until the chaos is over.
+
+The Meng Clan on the other hand, is a public ally of the Mu Clan, and many of their young are still inside with a few elder bodyguards.
+
+The mature woman that sat in the Mu family’s honorary seating prepares to leave the stage. She pulls a dark black umbrella shaped artifact from her storage ring.
+
+An almost identical formation is taking place around the Mu family.
+
+Many late stage concubines and wives have created a ring around the younger generation, the men are further out, fighting the waves of Fu, Tang, and Jiang blood demons that attack.
+
+There are some late stage members of these families, and other qi refining allied clans that do not even glow with blood energy; they attack with raw strength on the orders of the Jiang family.
+
+However, not far away, above the dead body of the Tang family foundation establishment cultivator, Lan Xin clashes with Jiang Yu.
+
+His status briefly flashed in my senses at the start of the battle, showing a 3rd level of foundation establishment with a perfected mortal grade flaming mountain physique, and an initial stage spirit grade blood demon physique.
+
+He is the strongest cultivator on this battlefield, and the waves of killing intent from their clashes hit me from here, over three hundred meters away.
+
+They’re almost behind the stage, nearing the same cliff the Patriarch's all fell down moments earlier.
+
+The man appears bright crimson, with longer and brighter horns than any of the half-transformed blood demons here.
+
+He wields two tier 2 short swords, and yells loudly as he attacks.
+
+Unlike the fragile Tang Fuchen, the few kicks that Lan Xin lands on Jiang Yu heal up almost instantly. The many vicious bites of her serpent that leave cracks of yellow flames are flooded in with blood qi and sealed up before they can even land their next hit.
+
+His blood energy-ridden physique appears almost invincible.
+
+Jiang Yu’s soul is nowhere near strong enough to handle this much power, however, a crimson pendant around his neck continues flooding his energy pathways with fresh foundation establishment blood qi. It saturates these constant physique and soul fractures with enough raw power, that his body is held together like it's filled with demonic rubber glue.
+
+He’s able to disregard all physical damage, and charge forward to land over ten full powered attacks on Lan Xin. Deep blood energy gashes appear all over her physique. Jiang Yu pushes her back to the edge of this cliff behind the stage, and out of my sight.
+
+Closer in proximity to me, Meng Ruo leaves the Mu family formation once she’s certain they have it under control.
+
+The woman wears a pristine Meng Clan robe, and holds a bright red talisman in one hand. The dark umbrella is held over her shoulder in the other.
+
+She does not run quickly, instead she walks at a leisurely pace toward her family’s private seating area.
+
+A 9th level blood demon follows her, attempting to attack her without any of the Mu family’s support, but she activates the bright red talisman without hesitating at all.
+
+It releases a wave of fire, almost exactly the size of a perfect grade incineration talisman I’ve created from the system.
+
+However, a subtle fluctuation of mortal grade physique vibrations fill the air around it. She kills this blood demon in a single hit.
+
+She keeps on walking past the crater in the ground, making it to the door of her family’s seating.
+
+The mature heiress walks inside, gathers up all of the members of her clan, and exits in a matter of seconds.
+
+The whole group walks through the chaos of the battle with Meng Ruo guiding them calmly.
+
+When streaks of blood qi come their way, the elders of the Meng Clan get into formation, but they have no need to block.
+
+Meng Ruo raises the black umbrella in front of her, and it disperses the attacks that hit it without any damage to the artifact at all. The major difference in qi density reveals it as a low grade tier 2 defensive item.
+
+She uses a second strange incineration talisman right after, killing another 9th level blood demon that attacks with ease. Her clan walks through the battlefield untouched, and escapes to a path leading down the mountain out of my sight.
+
+An extremely sharp wave of vibrations hits my senses next.
+
+It is filled with familiar yellow flames, as Lan Xin is pushed to her breaking point at the edge of the cliff.
+
+Jiang Yu yells out loud enough for the entire orchard to hear.
+
+“You’ve ruined everything Lan Xin! Your meddling in this attack has killed far too many of my Jiang Family! I’ll make sure you die a horrible death, then I’ll come back to slaughter every one of the Wang and Mu family! All foundational members left, fall in on me, help me kill this pest! To avenge my son!”
+
+Three streaks of blood energy from the far side of the orchard follow these orders, and an explosion of yellow flames and foundational blood qi follows. All of the Jiang Family Elders and Lan Xin fall off the side of the mountain together.

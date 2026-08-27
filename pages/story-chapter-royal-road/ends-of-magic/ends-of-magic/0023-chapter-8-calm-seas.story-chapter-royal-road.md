@@ -1,0 +1,225 @@
+---
+id: 992faf74-fde7-5bd1-8a7f-7f5755ec620b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Calm Seas"
+slug: 0023-chapter-8-calm-seas
+partOf: ends-of-magic
+position: 23
+ownLength: 2770
+unit: words
+ownProgress: 2770
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2481013/chapter-8-calm-seas"
+royalRoadId: "2481013"
+markedReadAt: "2026-06-29T20:08:00.454Z"
+---
+
+“The harmony of bells welcomes you to my ship once more.” Eolinne waved them back aboard the Grace of the Mists with eloquent words and a graceful curtsy.
+
+“We gladly follow your light across the oceans of Davrar,” Khachi responded formally, giving the petite woman a slight bow. The rest of the Heirs filed across the gangplank to board the familiar white-wooded vessel, nodding their own respect to the ship’s captain, who acknowledged them all seriously. Mooring ropes untied themselves from the docks, freeing the ship from the pier in the underground port, and the gangplank retracted magically into the hull of the ship as they began drifting towards the cavern mouth.
+
+Aarl turned and gave a rude gesture to the customs official who’d tried to hassle them on their way down the docks. The woman glared back at him, standing next to the palace servant who’d argued her down from a full inspection. Nearby stood a guard who’d been unsure how to deal with the whole situation.
+
+Nathan sighed and patted his friend on the shoulder. “She’s just trying to do her job. It’s hard to keep a city like this safe.”
+
+“Why do they want to inspect people leaving the city?” Aarl grumbled, but he turned away from the port and followed Eolinne as she ushered them belowdecks.
+
+“Probably to be sure we didn’t steal anything from the palace. She also mentioned something about trade embargos,” Sarah reminded her brother, but he just waved her words away.
+
+Eolinne ignored the byplay, turning to face them once they’d arrived in the sumptuously decorated lounge area. “Your station has risen since I delivered you to Sarya and you spoke words not meant for my ears.” Her red-painted lips quirked at that, remembering when the Questor had sent her away as soon as Nathan had started talking about Davrar being a game.
+
+“But now I am to take you to Esebus, and not as agents of Keihona. But as allies of Questors.” She steepled bone-white fingers and regarded Nathan and the Heirs. “In my centuries of service to Sarya, I have never heard a mortal referred to as an ally. Agents are most common. Envoys, occasionally. Assets, once or thrice. But now I am to deliver you to Esebus, a stronghold of our enemies. As allies.”
+
+Nathan started to speak, but Eolinne cut him off with an upraised hand. “You swim among the true powers now, I will not hide from the winds of fate, but I would not surrender myself to the gust. I will deliver you, but I ask that you avoid involving me more than necessary. A repeat of Litcliff’s adventure would see this ship destroyed.”
+
+“The mission is our weight to bear,” Khachi rumbled in response. “We give thanks for your aid, but we will not call on you to fight unless we are attacked on the seas.” He raised a bushy eyebrow questioningly. “Should we prepare ourselves for such an attack?”
+
+Eolinne shook her head decisively. “That is not a tune I expect. Badud’s agents abandoned the chase once you entered Keihona, and the Maelstrom will not take a second contract so easily. They doubtless expect you to stay some time within the city, for that is Sarya’s usual pattern with her agents. Furthermore, the city is blessed such that the ships leaving those docks will find their routes clear and untroubled.”
+
+“Then let's hope nobody attacks, and our vacation lasts a little longer,” Nathan said agreeably. “Sounds like a good time to practice with the new Insights we got from the Questors.”
+
+Eolinne frowned at that, but did not comment. Instead, she gestured towards the kitchen. “The palace staff delivered several packages of ingredients. If the labels are accurate, I believe you have been rewarded unusually. Let us enjoy a midday meal worthy of a Questor.”
+
+–
+
+Eolinne gave them access to her maps, an enormous and sprawling set of documents that described the continents, currents, and natural hazards of Davrar. It was hidden in a secret dimensional room off the library, one that Nathan had never noticed against the general magical background of the Grace of the Mists. Unfortunately, the magical nature of it also meant that he couldn’t enter, but the other Heirs spent long hours poring over the enchanted atlases and asking questions.
+
+“What’s this here, marked as the Elidian Vortex?” Sarah asked, calling out to the kitchen where Eolinne was carefully preparing a set of delicate shellfish with an attentive Aarl hovering behind her.
+
+She didn’t respond immediately, taking the time to carefully slice off the last shell. “It’s a vortex, like many others across Davrar. A place where the ocean drains to the underworld.”
+
+Nathan frowned at that answer, looking up from his own book. “Badud mentioned the underworld. What is it?” He’d been perusing a history of Esebus, which vaguely reminded him of the Aeneid. The biggest similarity was that it was written as a propaganda piece to justify Imperial rule, and most differently, in that the protagonist was still alive. The bulk of the story was about Sussu carving Esebus from the “howling wastes,” and neatly justifying her near-dictatorial powers over the entire continent through a legacy of valorous deeds, wise rulership, and defeating other treacherous nations in time to prepare Esebus for the Endings.
+
+It took a bit longer for Eolinne to answer his question. When she did, she was still distracted. “Underground. A place of monsters and magic. Dungeons and monstrous ecosystems abound down there, and it is a place that only true powers dare walk. Or so say the stories.”
+
+Nathan was about to ask another question, but then Eolinne dumped the tray of shellfish into a pot of sizzling oil. “It is a place for adventure, not civilization. Except for Sangrad, the cavern-city. That is another of Badud’s strongholds, where they carved out a portion of the underworld and founded a city there. It is a major exporter of magical materials and goods.”
+
+“That’s not the only vortex on these maps. Here’s another,” Stella said, pointing to her own book and squinting at the label. “The… godsblood vortex?”
+
+“When they begin to pop, they’re done,” Eolinne explained to Aarl, keeping an eagle eye fixed on the pot. Then she looked up to the other Heirs. “The vortices are dangerous. They are sources of powerful magic, and the leviathans that resist the currents are the most aggressive of all. We will approach none closer than a thousand leagues on this journey.”
+
+Something was bothering Nathan, and he asked about it. “I’ve never seen you consult the maps. Do you have skills that help you navigate?”
+
+That earned him a sly smile. “I can carry that tune, but the maps helped me learn it. They will aid me should I enter a part of Davrar that is unknown to me.”
+
+“Do the maps cover all of Davrar?” Nathan asked, glancing back towards the shelved atlases. He’d done an approximate estimation of the surface area of Davrar as around a thousand times that of Earth, but if her collection was complete, he might be able to get a better idea.
+
+Eolinne snorted. “Such a thing would be a treasure of a nation. These maps are bait from Sarya, and part of why I agreed to serve her. Keihonia is a palace for the mapmakers. It has the best maps for a hundred thousand leagues. But they cover only a portion of Davrar.”
+
+“Oh,” Nathan replied, blinking at the shelves of thickly bound maps. “I see.”
+
+So, probably bigger than a thousand Earths. But that could be two thousand or a hundred thousand. Or a thousand and I'm just bad at estimating how many maps that would take to cover.
+
+The pot started to pop, and Eolinne yanked a wire tray upwards to get the now bright-yellow shellfish out of the oil. “The slickfish are prepared! Come, quickly, before they deliquesce!”
+
+Nathan had to admit that they were delicious, and he thanked his past self for winning Sarya’s game at least a few times.
+
+–
+
+Eolinne’s prediction of a smooth journey was correct, and days passed easily as the Grace of the Mists voyaged across the wide oceans of Davrar. The Heirs spent their time with an almost idyllic mix of training, relaxation, and conversation. But underlying every moment was the knowledge that the end of the journey held an almost impossible task, of confronting an empire and the Questors who led it.
+
+It’s not the first time, though! We’re familiar with the stress, and I think we’ve gotten quite good at taking relaxation where we can find it.
+
+Nathan spent most of his time studying the magical lessons Sarya had given him, along with all of the background he could find on Esebus. The textbooks weren’t anything entirely novel, mostly covering ground he was already familiar with from various magics he'd encountered in one place or another. It was still useful to get the perspective on a different magical tradition. Especially one that went out of its way to de-emphasize mental magic.
+
+He exhausted the material on Esebus quickly and went looking for other books on the different societies of Davrar. He wasn’t sure when he’d use it, but he couldn’t help but be fascinated by the diversity of cultures and the ways that various places had adapted to the pressure of monsters. Some of them were sensible, like those that formed defensive treaties and specialized in Insights designed around efficiently and safely killing monsters. Others were batshit, like a country that had figured out an Insight to enrage monsters. They’d used it to clear land by encouraging the monsters to kill each other, but the approach didn’t work as well in fights against other nations. They’d been destroyed, and the Insight along with it.
+
+He also noted that gladiatorial-style combat seemed common, almost always with some chance of death. It was an efficient way to gain levels, especially if the risk was real. The trick seemed to be ensuring that the gladiator class didn’t rise up and take over the culture in question, which seemed to happen with some regularity.
+
+Sprinkled throughout the books were mentions of Questors. Depending on the author, they were spoken of as the root causes of historical change, divine interventions, or simply the great people of history. Unfortunately, it was hard to get a sense of what individual Questors were like from vague historical accounts of their deeds.
+
+The rest of the Heirs were using their own leisure time for similar pursuits, though they always made fun of Aarl for simply napping in the sun for most of the day. But they all settled into the routine as time went on, able to let go and relax despite the challenge that awaited them at the end of the voyage.
+
+It all ended one day when Eolinne announced that they were approaching the shore of the continent that held Esebus, and they would need to be prepared for a stealthy landing the following morning. “Our harmony will be smoothest if we approach underneath the cover of fog. The waves will be a lesser danger than roving squads from Esebus.”
+
+“Do they patrol out over the ocean?” Nathan asked, considering how they’d evade that.
+
+Eolinne’s answer was clipped, “They patrol the coasts, but not frequently. However, it is not a maestro’s task to spot a ship approaching from a great distance. Thus the fog.”
+
+“All we need to do is get ashore.” Stella’s expression was thoughtful. “Will it be a calm landing?”
+
+“No,” Eolinne replied brusquely. “I will deliver you close enough to fly to shore, and then turn and depart to avoid where the rock meets the wave.
+
+Nathan remembered the enormous waves that battered most of the coastlines of Davrar. “That makes sense. Will we know where we’re coming ashore?”
+
+Eolinne had been anticipating this question and smoothed a map out across the table. “Here.” She indicated a spot on the coast. It wasn’t the spot Aarl had indicated earlier that was close to Esebus, but it was on a stretch of barren coastline far from any settlements. If Nathan was reading the map right, a rugged mountain range abutted the ocean there and would give them cover for almost half the journey to Esebus.
+
+He nodded thoughtfully. "Looks like a good site. We’ll have to trek across the mountains, but that shouldn’t be too bad. After all, we can fly.”
+
+Eolinne sliced a hand downwards in a gesture of denial. “You should leave the skies to your enemies. Many have skills for enhanced vision, and will investigate any who are not theirs.”
+
+Stella pouted, and Khachi rumbled out a laugh. “Then we shall walk, as we did in beginning of our time together.”
+
+Sarah wasn’t convinced. “Can the patrols see through the fog. Like I can?” doubt laced through her voice.
+
+Eolinne hesitated. “Not over long distances. I have been carried by this current before, when I rescued agents of Sarya escaping this continent.”
+
+“So it should work now,” Aarl said, but there was an edge of doubt in his voice.
+
+“We don’t have a choice,” Nathan replied. “Landing like this is how we get in without leaving a trace. Trying to enter at a port would require that we disguise ourselves, and that’s not playing to our strengths. A stretch of desolate coastline is probably our best bet.”
+
+With the plan agreed, the Heirs enjoyed their final night of calm. They didn’t do a grand party, just had a cozy meal with Eolinne and spent the night in quiet pursuit of various hobbies. Whatever would come, would come, and they would handle it. But they might as well relax one last time before things got crazy.
+
+The next morning, they awoke to a ship shrouded in a thick fog. Nathan could tell the fog was at least partially magical, but the magic was rooted more heavily in wizardry than mana. The ship was modifying the atmospheric conditions for miles in every direction to encourage the formation of mist. The result was that they sailed through a cloud dense enough that you could barely see the ground at your feet.
+
+The Heirs finished their packing, though as usual, Nathan carried nothing. All of his bedding and supplies were carried by the rest of the Heirs, and they also made sure to pack several weeks of food and some other supplies they’d discussed with Sarya and Garna.
+
+The first indication that they were approaching the coast was when the ship started to buck in the waves. Then came a faint roar of distant surf. Nathan and his friends stood near the stern of the ship, where Eolinne had taken her seat in the thronelike captain’s chair. Her flute was out, and she was playing a slow and steady march to guide the ship through the choppy waves. Her control of the ship through her music was exquisite, and every ounce of that skill was necessary as the waves got taller and taller until they stood higher than the mast of the ship.
+
+Eventually, she broke off, taking the flute away from her lips and calling out to them. “Go! Steer for the surf. May your symphony speak of the death of your enemies!” She resumed playing, the notes now urgent and rapid. The ship spun like a top, managing to catch the gap between waves and begin its journey back into safer waters.
+
+Nathan and the Heirs took to the air. Stella had cast [Fly] spells on herself, Aarl and Sarah, while Khachi’s greaves were haloed in golden light from his own magic. Nathan simply walked on the air, the Stamina expenditure minute against his enormous reserves. They ascended into the fog, and within moments, the Grace of the Mists was out of sight.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 83779/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 572
+
+Regenerative Focus: 5460/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 4
+
+Forewarning 4
+
+Arcane Insight 5
+
+Evasion 2
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 10
+
+Visibility Control 6
+
+High-tier Disguise 7
+
+High-tier Battle Cry 3
+
+Aura Control 5

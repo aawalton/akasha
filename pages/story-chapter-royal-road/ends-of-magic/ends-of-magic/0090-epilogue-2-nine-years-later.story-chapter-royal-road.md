@@ -1,0 +1,227 @@
+---
+id: 6541324b-0476-5a53-b513-fe00a2511940
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 2: Nine years later"
+slug: 0090-epilogue-2-nine-years-later
+partOf: ends-of-magic
+position: 90
+ownLength: 4170
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3324367/epilogue-2-nine-years-later"
+royalRoadId: "3324367"
+---
+
+New Quest: Defend Dawn’s Concord from the Severance Bloc
+
+Reward: Significant progress towards Questorhood.
+
+The message appeared in Khachi’s field of view, but he didn’t allow it to interrupt his lecture. “... and thus, virtue depends on both intentions and ultimate outcomes. It is not enough to merely attempt good, you must truly accomplish it. Virtue is impossible without competence.” He nodded to himself and looked out over the students crowding the auditorium.
+
+They were a varied bunch. The majority were from Gemore and the surrounding villages, but they just barely outnumbered those from Halsmet and Giantsrest beyond. In recent years, he’d also seen more and more from further afield - some from Litcliff, a few Treeborn from the plains, and even an elemental from the mountains. All coming to learn from him.
+
+But for today, he would have to disappoint them. “That is the end of my wisdom for now. My light calls towards other duties. Speak to each other for the rest of this period. Imagine you are at war and find yourselves in an enemy city. What actions are justified, and which are not? I will call for answers in our next session, though it may be delayed.”
+
+He checked his message tablet as he walked quickly through the halls of the Archive. The crowded hallways cleared before him, and he emerged from what had once been the Adventurer’s Guild of Gemore and was now known by the name of the institution that had overtaken it. The Archive was a center for learning as much as a training center for combat these days. But the front courtyard had been a mustering ground for Adventurers since the founding of Gemore, and it was still where teams met up before missions. He found Aarl already there, leaning invisibly against a side wall to avoid being crowded by fans and admirers.
+
+“Can your duties hold?” Khachi asked, exchanging a quick fist bump with the other man.
+
+Aarl shrugged, flickering back to visibility as he deactivated whatever item cloaked him from view. “Jadya is set, and others can manage the elite training. If the guard can’t last through the darkness for a few days without me, then that’s beyond prophecy’s hold. What of your acolytes?”
+
+“Students,” Khachi corrected. “They come to learn from me, not to worship me.”
+
+Aarl shrugged one shoulder. “With your power, what’s the difference?” His voice was teasing.
+
+The wolfman grunted. “They gain the power of my faith by embracing my principles and drawing on the Domain of Virtue, not by earning my favor and being granted my power.” He didn’t feel like having this discussion again, especially when he was pretty sure that Aarl was just doing it to kill time while they waited. “What of Sarah? She has not answered the message.”
+
+“She’ll be faster than a stalker’s pounce. The new message tablets still can’t reach all the way through the northern mountains, but that notification will bring her back. It’s Stella that I’m worried will delay us. Twins are a demanding task.”
+
+Khachi was about to respond, but there was a faint flash. Sarah appeared from thin air, brushing snow from her outfit that fell to melt on the stone cobbles.
+
+“How are they doing?” Aarl asked, real concern in his voice. “Is the mission going well? You were clearing out some terrible dungeons, and that's blasphemously far out to be unescorted by true power.”
+
+“Raf is still with them,” Sarah noted. “The rangers are leveling. I haven’t needed to intervene in any of the dungeon clears since one last month.”
+
+A small spinning ring of fire appeared in the air and expanded to give a view inside a luxurious home. The sound of crying babies carried through the gap. Stella stepped through, sighing and stretching to crack her back before gesturing the portal closed.
+
+“Trouble?” asked Aarl, worried.
+
+Stella shook her head. “I have as much help as I need. The council would rather I probe the depths of wizardry than raise my children.” She glanced around at the rest of the Heirs. “Shall we depart?”
+
+“Can you portal to the Arena of the Concord?” Sarah asked skeptically. “It’s farther than we’ve gone before.”
+
+The redhaired mage flashed a crooked smile that broke through her matronly composure. “Farther than I’ve said I’ve gone before. My gatespan is linked to places of Significance. There aren’t many places more significant than the Arena of the Concord. Not to us. Or to all of Davrar, if they knew true history.”
+
+“Then let’s hope we’re not repeating prophecy,” Aarl quipped and pushed himself off from the wall, running his hand over the rakish stubble on his chin as if checking it was appropriately scratchy.
+
+Stella took a deep breath. “This will take a moment.” Her staff of stacked cubes - the same one she’d taken from Sussu’s vault so many years before - appeared in her hand, and she began channeling power into a point in the air. It was like she was prying open a point in space using enough determination and power to demolish a hill. Then it was done, and the gate rotated open before them.
+
+The Heirs trooped through without waiting, not acknowledging the small crowd of gawking onlookers that had gathered in the short time they'd been present. They’d gotten used to being celebrities, and only their towering reputations and obvious preoccupation had kept anybody from approaching them.
+
+They stepped into darkness. The city of Dawn’s Concord was far enough around Davrar that mid-morning in Gemore meant pre-dawn in the other city. It took them a moment to find their bearings, but with the gigantic sphere of the arena looming overhead, it wasn't hard. “You missed the target,” Sarah said, though her tone was more amused than cutting.
+
+“From Gemore?” Stella asked in mock anger. “Within the continent of Ostren would be true aim. This is striking the center of the bullseye.”
+
+Khachi rolled his eyes, but he couldn’t help but grin at the byplay. “I’ve missed our adventures. Few challenges demand our united power beyond Nathan’s quests, and we barely speak beyond those moments.”
+
+Stella scrunched up her nose. “Our lives are too full. My days are full of magical research, and the kids…”
+
+“We can change that,” Sarah suggested. “Weekly dinners?”
+
+“Let’s decide details after the current Quest,” Aarl said, definitively. “Then we will talk about invading Stella’s home on a regular basis.” He grinned at Stella’s sputters and pointed off into the distance. “The Golden Respite is that way. If there are Questors here, we’ll find them there.”
+
+“Or I could just message Sarya, or Mirus,” Stella said grumpily. "Though Sarya might not take the call."
+
+Aarl pointed forward, striding off down the street. “Onwards towards the Golden Respite! I remember it having a fine kitchen, and I miss those delicacies.”
+
+The rest of the Heirs followed him, tromping through the empty streets. “A city so peaceful it doesn’t need guards,” Sarah commented, gesturing around.
+
+“Current threat aside,” Stella said.
+
+Khachi raised an eyebrow at her. “I doubt the Severance Bloc is mustering a threat that normal guards could smother.” He turned his attention to Sarah. “Is there any news on them? When we last spoke to Sarya, she said they had gained more allies. But you keep a closer contact than I.”
+
+Sarah shrugged, her expression a bit bitter. “They’ve cast little light on it since. Since we displaced Brox they haven’t been our firmest friends.”
+
+“During our last session, the Maestro said that the Bloc was gathering their might. That was before the Solstice,” Stella added. “But we all know that Questors move slowly.”
+
+“They do indeed,” Khachi murmured. “Phryne warned me that our obligations would increase if we chose to support the Continuance Council. The last decade has seen the greater assembly of alliances, and now they begin to move against each other. We will have to be ready to participate more to enforce the laws between nations.”
+
+“Do you think we’ll be the only mortals?” Aarl asked. Then he corrected himself. “Half-mortals.”
+
+“Mortal in the way that matters,” Sarah corrected. “But I believe there are others. Sarya has her stable of agents, and I believe she has manuevered some onto the path to Questorhood.”
+
+They walked into the Golden Respite, observing that the inn had not changed at all in the decade since they’d stayed here during the conclave. The person on staff wasn’t Jenice, but the young man shared a family resemblance. He greeted the Heirs by name as they entered. “Laureate Colborn has left guidance. Your group is assembling in the Room of Golden Waves, and he will make his appearance shortly after dawn. You may go there early, or retire to rooms we have ready for you.”
+
+“We’ll go up now,” Aarl said. “Will there be food served?”
+
+The man bowed low. “I will have food brought to you.”
+
+The Heirs went up to the room and found that they weren’t the only ones to have arrived early. A few other groups were scattered around the palatial balcony, mostly keeping to themselves. The Heirs sat at an isolated table, studying the others who were already present. “Not all Questors,” Sarah said, pointing out a few nervous-looking groups whose heads snapped around at every new arrival. “Powerful, though. For mortals.”
+
+Then the Heirs’ food arrived, and a man from one of the other tables stood up and ambled over. It was somebody Sarah had labelled as a mortal, but he didn’t show any trace of hesitation as he slumped into a spare chair and reached for one of the small morsels without asking. “So you’ve been summoned, same as us. You got one of these quests people are talking about?”
+
+The man’s enchanted bracelets jangled over hardened knuckles, and he gave off the threatening aura of a barely-restrained predator. He slurped down the morsel and eyed the Heirs in expectation. “Well?”
+
+Aarl frowned, and when the man reached out another hand to the plate of food, he knocked it aside. “Greeting strangers with rudeness seems a prophecy of death. Especially here.”
+
+The man shrugged and smiled, revealing large canines. He hunched forward slightly, and an intimidating presence rolled out, a social skill to cow anybody who sought to challenge him. “Only if rudeness is unintended. Now, I command an answer. What is the Questor’s Quest?”
+
+Stella’s lips pinched together, and she snapped at the man. “That goes beyond rudeness and into challenge. You risk conflict amongst allies." She cast a glance towards the table the man had left, seeing several of his companions watching tensely. They seemed more ready to jump to their compatriot's aid than restrain him. “Will you speak sense to this fool?”
+
+“Who are you, to call me a fool?” the man growled, the words coming out of a throat that was growing increasingly bestial with every moment.
+
+“They are the worst you could have chosen for this game,” came an annoyed voice from the side, and everybody looked sideways to see Slick walking out onto the balcony. The scarred orc Questor looked like he had absolutely no patience. “They are the Heirs, and ten years ago, they won the conclave that created the Continuance Charter. I doubt their skills have atrophied since then.” He dismissed the interloper from his attention and addressed somebody sitting at the table he’d left. “Binga, they will not tell you how to unlock the Quest for your minions. I doubt they even know.”
+
+The woman shrugged, but didn't seem apologetic. “My apologies. Seral, leave them.” The aggressive adventurer turned and left, making a surprisingly good impression of a cat retreating with their tail between their legs.
+
+Sarah shook her head. “It’s always games with the Questors.”
+
+“Some things never change,” Slick said as he took the chair the intruder had occupied. “Are you ready for war? This will be a large conflict, larger than the polite war.”
+
+“What triggered it?” Aarl asked intently. “Why is this fight here? I thought Ostren was neutral ground."
+
+The orc leaned back and threw his hands up. “Politics. We’re trying to hold the first full meeting of the Continuance Council to lay the groundwork for a many-country alliance. It may even lead to a conclave if we have the support to draft clearer rules for interactions between nations and have Davrar enforce them. That part of the original proposal was vague beyond the demands for polite wars.” He snorted. “Colborn curses himself frequently for not writing a few more sentences in that section.”
+
+Sarah cocked her head at the mention of the short Questor. “Does he lead the Ashen Accord again?”
+
+Slick shook his head, but not convincingly. “Kaelis still leads. But I’ve seen Colborn more in the last decade than in the previous millennia. He is one of the true powers behind the Council. He’s worried that if we cannot hold their first meeting, the Severance Bloc will use the excuse to hold their own conclave.”
+
+Khachi’s brows drew down in sudden anger. “Will they seek to reverse Nathan’s sacrifice?”
+
+“They can’t,” Slick said. “Since Nathan’s upload, Davrar is no longer simply a smart system. It has rights under the laws of the Distal Expansion now. But they will seek to limit its power in any way they can.”
+
+“It,” Stella said bitterly. “All that’s left of our friend. I don’t understand why there isn’t more trace of him left…” she trailed off as another Questor exited from the building and made a beeline towards them. Mirus was striding quickly, and she’d caught the end of Stella’s words.
+
+“Because Davrar spans the same territory as five thousand planets,” she answered bluntly. “It’s mentality outweighed Nathan's to an entropy-damned ludicrous degree. It’s more of a flavoring than an ascension.” Then she shook her head, as if to dismiss the topic, and tossed out an anti-eavesdropping spell around them. “Can you bring in an antimage? I just snuck a scrying spell into the invader's command meeting. Verified truth, they're planning on using atomic spells in the battle.”
+
+The Heirs shot each other conflicted looks, but they were already shaking their heads. Stella answered, her voice tired. “No. The antimages of Halsmet are good, but the powerful ones cannot step through a gate. None could dominate the battlefield as Nathan could, not even Shom.”
+
+Mirus scowled at Stella’s denial, already moving to stand. “This will be an apocalyptic fight. You should consider leaving. We Questors will fight, but this is not a battlefield for those still mortal.”
+
+“They would destroy this city?” Khachi said, eyes igniting in righteous fury. “Then they have forgotten the weight of our judgment. Hear me now, we will not flee before this threat.”
+
+The mage acknowledged him with a nod, but she was already dismissing the privacy spell and striding away. “Colborn will speak soon.”
+
+“Do you need help organizing?” Aarl asked sharply, moving to stand himself.
+
+“We have enough directors,” Slick replied, waving Aarl back to his chair. He got up himself. “Atomic Insights. A caustic burn.” He turned to leave himself, bustling away to take care of some task or another.
+
+“It’s nice to not be in charge of everything,” Aarl commented, idly popping another of the small bites into his mouth. “I haven’t been under the command of another since we returned to Gemore.”
+
+Sarah grunted her disagreement. “I would follow their light more easily if they had not missed the target in the conclave. Their error led to Nathan’s sacrifice.”
+
+“But here we are again. Following their lead,” Stella said, similarly dissatisfied.
+
+“But we’re not following their light,” Khachi said with conviction. “Nathan set us on this path, and we are lifting the weight he has left to us.”
+
+The Heirs all had differing opinions on that. They’d discussed the topic extensively in previous years, and all had different interpretations of the extent to which Nathan was still present in Davrar. But there wasn’t much more to say on the topic, especially here. They let the conversation lapse as more Questors filed in.
+
+They could track the spread of the news about the atomic spells. People received messages or talked to new arrivals in hushed tones, and most of the mortals in the room filed out. That included the man who’d challenged them earlier. He shot them an apologetic, somewhat fearful look before slipping out the door.
+
+The dawn broke, the sun overhead illuminating the gorgeous city and glinting off the waves of the ocean. The balcony was nearly full; more than a hundred Questors assembled on this balcony. None of them were people that the Heirs knew, and they also mostly didn’t appear to know each other.
+
+Then a magical projection of Colborn appeared, hovering in the air over the ocean. “My friends!” he announced, the words booming out of the illusion and accompanied by a jaunty wave of his hand. “I thank you all for coming to support the Continuance Council in this momentous time. This battle will determine the future of Davrar, and the nations -”
+
+Khachi sighed loudly as Colborn continued to pontificate. “I have heard enough Questor speeches for a blasphemous eternity. They all claim the same weight, saying that this is the moment that matters, that the next battle is the one that will be pressed into eternity.”
+
+“True aim,” Stella agreed. “But in this moment, those words are prophecy. The last fight established a new era on Davrar. Now we determine that era’s direction.”
+
+Khachi waved a hand, acknowledging her point. “But there will always be another fight. Questors demand significant events. If those events do not exist, they will create them.”
+
+“Usually that means wars,” Sarah said grimly. “Wars that destroy cities like this one. Can we stop it? We are more powerful than before, but without Nathan, the battlefield is still balanced against us.”
+
+“Fight virtuously,” Khachi answered instantly, as if it wasn’t even a question. “We seek the best allies we can find, and use our power to defend Nathan’s dream. We should have contacted those other mortals. If they stand anywhere on the path to Questorhood, we should speak to them beyond the sight of the Questors.”
+
+Stella gave a sly smile. “I exchanged some initial messages with some other mages. I won’t be able to contact them across Davrar, but we’ll be able to find them again if we try.”
+
+“Colborn’s wrapping up,” Aarl noted. He’d had an ear on both the speech and the ongoing conversation. “Short speech. Nothing notable.”
+
+“... I won’t fill the air with words before a battle. Our enemies arrive soon from the sea, and I trust you to fight them with honor, to crush those who seek to dominate Davrar, and to secure a just future for us all! Now, take flight and claim victory!”
+
+The cheer that went up was a bit halfhearted, but Khachi couldn’t fault Colborn for that. The people around them were the unaligned Questors who had agreed to help the Continuance Council, not the core believers committed to the cause. Speaking through a projection was also blunting the old Questor’s social and leadership skills.
+
+The Heirs joined most of the Questors in taking to the air directly from the balcony, flying up above the city as thousands more took off from sites all across the city.
+
+“Waking giants, this is going to be a bloodbath,” Sarah said, eyes panning across the arrayed might of the Continuance Council. “A bigger fight than the polite war.”
+
+“A light in the darkness,” Khachi spoke, rising with them. His face was turned upwards, his arms out as if to embrace the newly revealed sun. “We rise to uphold what is right, to continue our Path to power that we might guide Davrar to a better end. By my power, by our righteousness, by the sacrifice of our companion, we will triumph this day in the face of any fury brought against us. May the morality of Davrar itself see the righteousness of our cause, and ensure our victory.” He didn’t speak loudly, but his words sent a shiver through the world itself.
+
+Stella shivered. “Hear me, that prayer left a mark on the Aether even I can feel.”
+
+“Not praying for resurrection?” Aarl asked, concern in his voice that was trying not to turn to worry.
+
+“No,” Khachi said, turning his face downwards and sweeping eyes of golden flame across the ocean. “If Nathan’s influence exists inside Davrar, it will show itself on this battlefield.”
+
+“They’re in that cloud,” Sarah said, pointing off towards a barely visible speck on the horizon that was quickly growing larger. “It’s enchanted with spells to block my vision.” She still pulled her rifle to her shoulder, firing off into the distance and being rewarded a moment later by a bright speck of light. “It’s also shielded.”
+
+Some other Questors were sending out long-range attacks of their own, and a few spells were starting to come back in answer. “Here it comes!” yelled Stella, establishing a multi-layered shield of a dozen merged mana types reinforced with wizardry around the Heirs. “Khachi, we need more shielding!”
+
+The wolfman turned his eyes back towards the sun. “No, we don’t,” He smiled calmly, his expression that of a man basking under a peaceful sky.
+
+Dozens of spells cast by both sides winked out of existence, vanishing as if they’d run headfirst into Nathan's antimagic. There was a moment of confusion as Questors hidden behind shields realized that the expected volley of atomic spells was not coming.
+
+Stella laughed wildly, cancelling her shielding and spinning up a massive wind spell high in the sky with a flick of her staff. More magic joined it, cast by the Maestro and others who knew similar massive-scale storm magic. Together, they hurled the massive vortex of air towards the enemy formation like a city-sized shuriken of ripping wind.
+
+More magic and projectiles flew in both directions. Aarl cut spells out of the air, and Khachi caught them on shields of divine light before retaliating with golden power. Sarah fired again and again, splitting enemy spells and nailing individual Questors who dared venture out from the centralized protection.
+
+Then the massive wind spell reached the enemy and shattered their defense, hurling aside their visual cover and scattering the interlocked set of magical shields behind it. A new sight-blocking spell replaced it nearly instantaneously, but it was cancelled a moment later by a massive dispel from Mirus.
+
+More spells and projectiles flew back and forth, and the simple truth of the battle was revealed. The defenders outnumbered the attackers. A massive spatial warping deposited a core of melee fighters into the midst of the defense, hundreds of Questors blurring through the air to engage in surprise close-range attacks. But they were met by thousands of ready opponents. Two foes came for the Heirs and were cut down immediately, Aarl slicing one apart in a single stroke while Sarah shot the other down with barely a moment of distraction.
+
+There were more tricks, more attempts. The Severance Bloc tried more grand area spells to leverage their greater number of mages against those trying to defend Dawn’s Concord. But everything that could cause significant damage to the city was blocked by Davrar’s injunction. That cut both ways, with the defenders also prevented from using their most destructive spellwork. But the balance favored the defenders. Both sides were quick to work out the rules, quickly focusing on spells that would still have great effect but would spare the city below.
+
+Questors fell by the hundreds to spell and sword alike. A torrent of disintegration beams poured out of a cooperative casting by a dozen mages, Evesor and Badud among them. Khachi blocked the spells, Sarah pierced a hole through their shields, and Stella drilled through the gap with a tightly focused beam of almost-fusing plasma that incinerated the whole cluster of mages.
+
+In a last-ditch effort, the final remnants of the Severance Bloc tried to strike at the giant sphere of the Arena. If they couldn’t defeat the enemy, at least they could destroy the symbol of the conclave and disrupt the planned meeting. But the Continuance Council had been saving many of their heaviest hitters against precisely that eventuality. Mirus had popped the bubble of darkness earlier. Since then, she’d been preparing her domain to protect the Arena, with Phyrne conjuring divine shields in support. Vesh appeared to cut apart those who got close.
+
+The battle didn’t end with a dramatic triumph. It petered out slowly as the enemy Questors started turning tail and fleeing, only occasionally tossing spells out behind them to try and secure their escape. They mostly failed.
+
+Congratulations! You have successfully defended Dawn’s Concord!
+
+Reward: Significant progress towards Questorhood
+
+Stella scowled at the blue box. “Significant progress. A wonderfully vague phrase. I wonder if it’ll happen before my hair turns grey."
+
+"Or how many more wars we'll have to win," Sarah said bitterly.
+
+“Nathan?”

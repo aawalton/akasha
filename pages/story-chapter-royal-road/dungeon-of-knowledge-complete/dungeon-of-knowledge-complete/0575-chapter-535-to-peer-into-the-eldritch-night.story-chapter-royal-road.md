@@ -1,0 +1,165 @@
+---
+id: 3ba86e3b-bee7-5744-bdcf-2a42d755c1dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 535: To Peer into the Eldritch Night"
+slug: 0575-chapter-535-to-peer-into-the-eldritch-night
+partOf: dungeon-of-knowledge-complete
+position: 575
+ownLength: 2549
+unit: words
+ownProgress: 2549
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3039928/chapter-535-to-peer-into-the-eldritch-night"
+royalRoadId: "3039928"
+markedReadAt: "2026-06-29T20:31:55.155Z"
+---
+
+Why is he so strong? Is he invincible? Ali had faced so many challenges, and so far, she’d overcome every single one. Sure, many had required help, friends, or the guild itself, but still, they’d found a way. This? This was something else.
+
+It was, in truth, an outstanding effort from the raid – they had done an unbelievable amount of damage to Nathaniel in the short time his shields were down, but the stark reality was demonstrated to be woefully insufficient by the wraith’s remaining health percentage and the relentless ticking of her stopwatch.
+
+We won’t make it. We’re not enough.
+
+The battle proceeded unabated all around her, the noise, smoke, and crackle of mana powering offensive magic washing over her. Her friends and guild mates were giving it their all, but she stood dejected, consumed by mounting despair. She did not shirk her duties. She efficiently drew out Nathaniel’s endless variety of magic, baiting his disruption spells, denying the pivotal Time Stop spell, and calling the summoned raid bosses’ abilities.
+
+But her heart was no longer in it. It was a foregone conclusion, and she was wrung out – exhausted beyond belief. All she wanted was to go home and shut out the world. Nevyn Eld and his monsters could just go off and die somewhere else, as far as she was concerned – and she never wanted to set eyes on the twisted wraith of Nathaniel Sunstrider ever again.
+
+It’s all because of that, she thought, glowering at the twisted tendrils of insanity and corruption that were slowly polluting the entire Well. Why must they destroy everything beautiful?
+
+The question twisted in her heart like a poisoned dagger. It was not just the Well, of course. They had taken her parents, her home, and even Lira. And, despite forcing herself to reach beyond any reasonable limits, time and again, she was still not strong enough to matter. She had not been able to protect them then, and now she was defeated by a mere henchman of the Blind Lich. A mere minion, no more than one of her summons.
+
+Fear, and the same debilitating sense of helplessness that had nearly overwhelmed her in the Nightmare that was forced upon her in the shadows of the Well of Eternity rose anew in her mind, threatening to overtake her. Insistent whispers spoke directly into her mind: “Give up,” they said. “It’s enough. You cannot win.”
+
+Out on the blighted expanse before the Well of Souls, the dead Archmage began casting Time Stop.
+
+Ali reacted, summoning her golden disruption needles to shimmer above her open palm.
+
+She studied her magic. Why should I even bother? she thought. It’s not going to matter.
+
+A sudden crack detonated somewhere overhead as a shining arrow from Calen’s bow pierced an Eldritch Eye, detonating with a spectacular burst of Light, Nature, and Soul magic. The Nightmare clawing at her mind lurched.
+
+You have gained Clarity.
+
+“You’re stronger than him, Ali.” It was Malika’s voice right beside her, but she was gone before Ali could even turn around. The insistent whispers fled at the touch of her friend’s magic.
+
+How did they know? Ali released her prepared disruption, barely in time, and the near-complete formation that would become Time Stop burst with an audible pop. The curse of Baaoht Yll’shuum’s twisted title had reared up to sabotage her right at her weakest, and somehow her friends had been ready to steady her, just like the Eternal Reverie of her Nightmare.
+
+It’s because I’m not as warded as normal. Ever since being cursed with that foul title, she made sure to use Mental Fortitude elixirs whenever possible – simple prudence, under the circumstances. However, for this fight, she had deliberately chosen Greater Intellect and Alacrity of Mind over Mental Fortitude, out of necessity. That decision had left her weaker, at the mercy of the eldritch eyes and her cursed title. They had attacked – predictably – while at her most vulnerable. She was relying on her friends to be her shield, and they had not let her down. They were relying on her to outwit the Archmage. She grimaced, wielding her magic with renewed determination.
+
+“Traps!” Ali shouted, dragging her head back into the game. Runic formations sprang up everywhere, and she immediately began dismantling anything that threatened to contain their movement.
+
+Twin blasts of void magic lanced down from the sky, tearing great holes in the mana shield and barrier, and suddenly they shattered, revealing an unprotected Nathaniel Sunstrider.
+
+“He’s open!” Ali yelled, glancing at her stopwatch.
+
+Six and a half minutes to go… The raid pivoted precisely on her call, unleashing all their most powerful attacks into Nathaniel, but Ali could already tell it was a waste. At best, they would reach fifty percent; they were already more than halfway through the twenty-minute window they had. It was a brutally hard limit; the tendrils of corruption pulsed continuously, and the water in the Well was already beginning to seethe again, now nearly entirely blackened.
+
+Eternal Reverie. The sudden image of the beautiful ethereal flowers of azure flame appeared blazing brilliantly in her mind. It had been the only effective tool she had found that fortified their minds against the eldritch magic. She glanced at the twisted and incomprehensible magic of corruption, the inkling of an idea springing into her mind.
+
+“Calen! I need you!” Ali yelled.
+
+With a flash of light, Calen appeared beside her, trading places with a mote of light. Ali summoned an elixir from her storage enchantment, one made from the nectar of those exquisite flowers. An elixir that provided mental fortitude against the eldritch nightmare.
+
+“What do you need?” Calen’s eyes glittered with a nascent flicker of hope.
+
+“Can you see those black tendrils?” Ali asked, waving in the direction of the wight.
+
+“Yes,” he said, visibly wincing as his eyes glanced that way. “I’m trying my best not to look at them.”
+
+“Can you hit one with this?” she asked, offering up the glowing elixir.
+
+He didn’t even answer, immediately taking it and hurling it with the impeccable accuracy of a second-tier, dexterity-based archer. The vial soared across the battlefield and shattered on Nathaniel’s face, an ostensibly unexpected reaction for a glass vial hitting an incorporeal wraith, leaving glowing azure liquid that dripped down slowly across the tendrils of corruption. Still, Ali had expected something like it, given the contents were distilled mind magic of the highest order.
+
+Ali triggered Study Trance and then Arcane Recall. She only had to fake her cast twice to pull it off successfully.
+
+Instantly, everything froze. The tendrils still pulsated steadily, shifting in and out of phase with reality in that eerie, perception-defying dance, a mind-twisting result of eldritch magic that provoked an instant migraine – but this time, something was different. Where the powerful elixir had spilled, everything was still. Perfect stasis.
+
+I can see it! The realization rang in her mind like a Zone notification.
+
+The magic still twisted and even threatened to corrupt her perception as she studied it, but she ignored the splitting headache and the severe rush of nausea, instead bearing down and pushing herself deeper into her Study Trance. Deconstructing Baaoht Yll’shuum had been far worse, leaving lasting scars and nightmares, but surprisingly, the knowledge that had been impaled into her mind by that traumatic experience trickled back up to mingle with her Sage of Learning as it rapidly laid bare the unfamiliar magic of the black tendrils of corruption.
+
+Ali heaved as the queasiness swelled to unmanageable proportions, but she held on to her lunch and her focus, forcing herself to study it furiously. As insight was clawed from the eldritch spell, she reassembled it in her mind, building a perfect anti-formation out of mind-scouring fragments. It took far longer than she expected, but her frozen state in the Spirit Realm suddenly flickered and vanished as her golden darts shot out, piercing the tendrils that were unprotected while the barriers were down.
+
+The golden darts vanished instantly, gobbled up by the reality-warping eldritch tendrils.
+
+She blinked. No… come on, that has to be it…
+
+Under her hopeful gaze, something began to glow from within. Golden sparkles rippled along the blackness, creating first visible shudders, and then frantic spasms, before suddenly, the tentacles burst, erupting in a shower of sparks. Sparks which fell unerringly into the Well, rapidly chasing down the rest of the darkness within.
+
+In an eyeblink, the water of the Well of Souls was made pure once again.
+
+Ali heard herself screech in delight. She had expected some effect, but this went far beyond her wildest hopes.
+
+Nathaniel Sunstrider hissed in fury, magic swelling within him to match his ire.
+
+Amplify Casting.
+
+Empower Spell.
+
+Oh… fuck. This was not going to be pretty. She steeled herself. Keep it together!
+
+Increased Duration.
+
+“Time Stop!” Ali yelled. The world flickered as she failed to disrupt the devastating spell. A new raid boss materialized in an instant. Hundreds of rune circles bloomed across the battlefield, and barriers and defensive spells snapped into place, denying the raid their damage.
+
+Immediately, Nathaniel began summoning another raid boss.
+
+“The corruption is dispelled,” Lyeneru announced, with an edge of suppressed excitement in her calm tone. “Stay focused, everyone. Pick up the boss.”
+
+The raid sprang into action at the sound of her voice, galvanized with new hope.
+
+Right, Ali thought. I should trust them to handle it. Her efforts had bought them a new lease on life, but at the cost that Ali would not be able to deny as many summons. It was much more work for the raid, but she could dispel the corruption again if she needed to. She glanced down at her stopwatch, which was now showing nineteen minutes. She peered over at the sparkling water of the Well and touched the reset button, stopping the timer. How long can we last?
+
+Recovering from the Time Stop and the extra raid boss was going to be nearly impossible, not to mention that she’d spent Arcane Recall, and baiting the wraith’s disruption spells was going to be that much more challenging from here on out. But fortunately, the newly summoned boss hadn’t been spawned with the worst combination of Domain Magic spells. That meant there was a chance. The narrowest of chances. Besides, Nathaniel had to have burned through many of the most powerful spells in his spell book by now. Surely that would give them a little breathing room?
+
+Thirty seconds later, the black tendrils reappeared to commence the corruption of the Well once again, but Ali withheld her Disrupt. Time Stop was the main danger now, and she could always Disrupt the corruption later. Wait. Can I use disrupting the corruption to bait him, now? That’s… maybe!
+
+She clicked the stopwatch to start the timer.
+
+Four grueling cycles passed. Mind games, faking spells, dealing with summoned raid bosses, dispelling, disrupting – it took every scrap of Ali’s concentration and will to keep up with the canny Archmage, all to break his shield for the tiny window of a little more than a minute of damage before he repaired them and the cycle started again.
+
+Ali was in the midst of dispelling his shield and yelped out loud when Malika shouted, “He’s out of mana!”
+
+The insane mana shield dropped and stayed down.
+
+“Bloodlust!” Lyeneru screamed, every vein on her neck standing taut as she gave her orders. “Hold the raid bosses. Kill the wraith!”
+
+Every last spell and arrow was turned on the wraith. Ali flooded Empowered Summoner with every shred of excess mana, drawing herself down to the bare minimum she needed to deal with his spells. Under the influence of the Eye of the Lich and her flood of spell power, her mages and archers blazed with power. Her demonic Eyes unleashed streams of Arcane Bolts so potent they seared the eyes of anyone who looked.
+
+And under the onslaught, the Archmage faltered. “Curse… you…” he hissed as his voice trailed off into the void. Ali held her disruption ready, but whatever his last-ditch spell was, it went out like a snuffed candle as Interrupted Casting triggered. Instead, Ali heard the sweetest of sounds: her notification chime.
+
+Your group has defeated Nathaniel Sunstrider [Archmage] – Elder Wraith – level 275 (Arcane)
+
+The temptation to simply collapse where she was, was almost overwhelming. She’d restrained herself so often from taking the next step that now, when the opportunity finally came, she felt slow to react. Go. GO!
+
+Ignoring the rest of the chimes, Ali dive-bombed the floating prism of black stone and runic power with one of her Scions of Azryet, and the instant it was close enough, she teleported. She reached out and slapped the dungeon artifact.
+
+Bind yourself as the owner of the Well of Corruption shrine? This action is irrevocable.
+
+She dismissed the message and stored the artifact, triggering a sudden implosion of the remaining domain mana in the dungeon. Instantly, her mind was free; the dungeon rage that had plagued her for so long vanished like a dissipating dream, and only then did she breathe easier.
+
+“I got it,” she said, sinking to the ground, exhausted.
+
+“Fantastic work, everyone,” Lyeneru said, but it was clear that she was barely holding it together, too. They all were.
+
+There was no domain mana left for Ali to consume, so she called on her treants, moss creepers, and other elementals to extend her domain the hard way, growing plants from every edge of her encircling domain all the way up to the Well itself while the group began to discuss the loot and the fight, or just simply sat for a few blessed moments to recover. A few people gave ragged cheers, but mostly, they were too wrung out to even celebrate. She saw eyes being discreetly dried here and there.
+
+“How are you doing, little one?” Mato asked, thumping himself to the ground beside her.
+
+“I’ve been better, Bear of Immense Size,” Ali said, glancing up at him and offering her best grin; an admittedly threadbare one, but a grin, nonetheless.
+
+He chuckled at her sarcasm. “I bet. You worked hard today.”
+
+“So did everyone,” Ali said. She actually hadn’t had much attention left over to follow the rest of the raid and their efforts, but she knew fighting a continuous stream of raid bosses, sometimes up to three at a time, had been no easy task. Everyone had pulled out all the stops and given it everything they had.
+
+“Yup, but you turned it around at the end,” Calen said, sauntering over. Ali had a moment to be envious of his easy, unwearied stride. “What possessed you to throw an elixir at that corruption magic?”
+
+“It seemed like the right thing at the time,” Ali admitted. It would be hard to explain, other than she’d allowed her intuition to guide her, but she was almost certain that at least some of that intuition had come from the unfortunate and traumatic exposure of her Sage of Learning to a being of pure eldritch magic. “Besides, you threw it without question.”
+
+“It made sense,” he echoed, grinning broadly. “At the time.”
+
+And then her domain mana touched the Well of Souls.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

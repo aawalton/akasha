@@ -1,0 +1,237 @@
+---
+id: 3283a8a1-d8b1-5178-8ada-acfe81c1d87f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: Dawn’s Concord"
+slug: 0074-chapter-59-dawn-s-concord
+partOf: ends-of-magic
+position: 74
+ownLength: 2800
+unit: words
+ownProgress: 2800
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3094598/chapter-59-dawns-concord"
+royalRoadId: "3094598"
+markedReadAt: "2026-06-29T20:09:38.260Z"
+---
+
+The wilds flew by below them, occasionally marked by a dead dungeon or cultivated monsters that might pose a challenge to rookie Questors. But there was nothing that would even be a speedbump for the Heirs. Eventually, the managed wilderness gave way to populated countryside, with villages, roads, and fields. It looked pastoral and peaceful.
+
+Nathan looked down at the countryside as an example of what Davrar could be. It wasn't optimal, but from what he'd seen, the people enjoyed longer, calmer, and freer lives than almost anywhere else in Davrar. This continent had become valuable enough to the Questors that they took care of it, mustering in force to defeat the Endings and preserve the unique cultures and attractions here that catered to them. There was no reason that the rest of Davrar couldn’t look like this, containing enough danger to keep the Questors entertained but without the looming apocalypses of the Endings etched into the cultural memory.
+
+All the while, the Questors and Heirs talked about the strategy for the conclave. Some of them would need to talk, but all of them would need to fight for their lives, either in defense of their positions or to defeat enemy orators. Allied Questors could carry some of the weight of both of those things. But the Heirs were the face of the new proposal, and they would need to be front and center for as much of the conclave as possible. So they planned and discussed the known, possible, and unlikely enemies that they’d find at the conclave.
+
+“High level combat is all about being able to counter whatever the enemy can do, and not being countered yourself,” Nathan said, after hearing Sarya describe the ways that different kinds of builds matched up against each other. There weren’t hard categories, and many people occupied multiple roles or were the exceptions that proved the rule.
+
+"Indeed so,” Sarya answered. “Speaking at the conclave is dangerous. The enemy can choose a counter to your abilities. The opening speech cannot be challenged, but after that, you should wait a time before speaking, to allow us to clear the obvious counters to your builds. This is less true for those who have the narrowest counters.”
+
+“Who bears that honor?” Aarl asked, though it was half-rhetorical.
+
+“Nathan or Khachi,” Sarya answered immediately, which surprised exactly none of the Heirs.
+
+“I can be countered,” Nathan said in confusion. “That speedster during the battle had my number. If it had been one-on-one, he would have just kept slicing me up, wearing down my regeneration.”
+
+“Ah, truly a prophecy of death, to be defeated by one of the most skilled fighters on Davrar,” Colborn replied sarcastically. “I'll validate that speed-based fighters are a poor matchup for you. But you will destroy any flavor of mage, and after the consequences of the war, none will want to bring valuable equipment into a duel with you. Even if they expect to win.”
+
+“Most Questors are closer to a lizard than a dragon without their equipment,” Sarya said. “Enchantments bear many burdens, and I think you may stand closer to those who fight in-close than you expect. Even an adamantium blade can chip and shatter.”
+
+“We will also make what deals we can to prevent certain Questors from challenging you. We won’t fully succeed.” Colborn cautioned.
+
+Nathan pressed his lips together, but he didn’t object. He was definitely the most survivable of the Heirs, but he was also the most prominent. It made some measure of sense for him to be the first one on the chopping block. If he bloodied some noses, then maybe the Heirs wouldn’t be in as much danger.
+
+That’s unlikely. If I prove myself unassailable, that just means the Questors will focus on my friends instead.
+
+Once more, the idea of trying to permanently kill Questors rose in the back of his mind. It would be a way to ensure that nobody was willing to challenge him or even speak against him at the conclave. It would mean every single Questor listened to his words and took them seriously. He would even be protected from unfair fights, given that Davrar itself enforced the rules of the conclave, and one of those rules was “no fighting except for agreed-upon duels.”
+
+If there’s ever a time to truly kill a Questor, maybe it’s during the conclave.
+
+But it would also mark him as an enemy of them all in a way that few other actions would. If he actually ended a Questor, then he would never win the vote. The Questors would end the conclave as soon as possible and then seek to crush him once its protection was gone. Sarya and Colborn's cause would be permanently tainted by association.
+
+Unless I can make them all understand that it is justice, and nothing less than what they subject the mortals to.
+
+It would be a risky move, but with the information on the conclave, Nathan could imagine a moment where it was right. If he needed to force the Questors to understand mortality, to really accept the burden they put on the mortals, he could see it happening. Especially if he picked the right target, somebody with more enemies than friends. Even so, it felt like a tool of last resort.
+
+The conversation had moved on while he was thinking, focused on the order in which the Heirs should speak, and which enemies needed to be eliminated first. The debate was currently between Stella and Khachi, with the two of them having it out over whose magic was the most powerful.
+
+“Can you destroy a mountain?” Stella asked aggressively. “I bet dragon bones to stalker teeth you can’t. But I can.”
+
+“That’s not the kind of fights these will be,” Sarya said calmly. “In an arena, your duels will be exchanges of counters, not grand contests of force. Davrar's power will contain such blows, but the precise power is better.”
+
+“I should speak first,” Khachi rumbled finally. “You have powerful magic and may be suited for the first challenge, but our enemies are skilled in those arts. They do not understand my capabilities. And I am a finer speaker."
+
+Aarl spoke up sotto voce. “I’d think a Questor’s vault would be helpful in fighting arbitrary foes.”
+
+“He’s right,” Colborn ground out, his voice on the edge of annoyance at the Heirs' bickering over who would be allowed to risk their life first. “That many artifacts mean Aarl has more answers than any of you.” His eyes moved to Nathan. “Even you.”
+
+“Let’s not toss me into the stalker den,” Aarl said defensively. “My words won’t shine a helpful light on our cause.”
+
+“Nathan will give the opening speech,” Sarah reminded him.
+
+“And he can give another,” Aarl said. “He and Khachi speak with magic in their voice. I speak poorly. I can challenge Questors you point me at, but I would be better as a challenger.”
+
+“So would I,” Stella admitted. “I would challenge those I could, but at the podium I would be a bad mimic of these two,” she waved towards Nathan and Khachi.
+
+“I will guide our strategy,” Colborn said. “My voice is known, and I can handle talking to myriad voices away from the spotlight. It galls me not to take the stage, but I can shape the space to our strategy.”
+
+“Then Nathan and I will speak our points, and Sarah, Stella, and Aarl will challenge the foes that need it,” Khachi summarized, nodding to himself like the question was closed. “If any of us should die, the others will continue the argument.” Then he turned to the Questors. “If we all fall, use our sacrifice to implement the best changes you can.”
+
+Sarah and Aarl nodded their agreement, though Aarl was a good deal more hesitant about the gesture than his sister. Stella bit her lip and looked slightly sick, but she didn’t disagree.
+
+Nathan spread his hands wide. “That sounds about good. Now, let’s go over our speeches. I’m going first, and you said there was a form to these things. I know I won’t be giving the speech you planned, but I’d like to hear what sorts of things I should say and what I shouldn’t.”
+
+The flight to Dawn’s Concord was shorter than the trip from the Blinded Mountain, and the Heirs spent every moment of it talking to Sarya and Colborn. They discussed the speeches and coached Nathan and Khachi on the points that would land well. They talked about past conclaves, factions among the Questors, and discussed matchups against specific foes.
+
+“I don’t see how I’m going to escape a match with somebody who counters me,” Nathan said. “If I leave myself open to be challenged at all, then they’re just going to match me up against a speedster who tears me to pieces.”
+
+Sarya sighed and nodded. “This is a novel problem. Usually, the conclave doesn’t hang on one person.” She frowned. “Normally, this is where I would offer an artifact to shore up your weakness. But…” she waved a hand at Nathan to encompass his antimagic-ness.
+
+“Is there a Development that may grant you a new ability?” Colborn asked, his voice kind. “This is an extreme suggestion, but you have achieved deeds beyond calculation before.”
+
+Nathan pulled up his status, glancing over it for a moment. Then he put it away. “I have some ideas. But they're all around skills that are Developed enough that the only way I’ll Develop them again is in a high-risk situation. I think fighting a Questor for my life during a conclave will qualify.”
+
+“You’ve hit that target before,” Stella said with a grin. “You can do it again.”
+
+Nathan blew out a heavy breath. “I've done it every time before. But I only need to mess it up once, and then it’s all over. I don’t like relying on tentative ideas to win.”
+
+“We should have kept back more capabilities during the war,” Sarah said, but then she raised her hands in a “what can you do” sort of gesture. “But we needed to conjure the prestige for the conclave.”
+
+“You succeeded,” Colborn said.
+
+“Davrar rewards risk,” Khachi said thoughtfully. “And novelty. Here we risk everything in a way nobody has ever done. Davrar will enable our Developments.”
+
+“I hope you’re right,” Nathan said. He could try to plan out his future Developments to have the necessary Insights ready in the moment, but that didn't always turn out the way he hoped. He had some ideas for what he could do, and he made a note to use some of his limited time to put his thoughts in order. When the time came, he wanted to make sure he had a solid set of ideas ready and waiting in his mental space.
+
+As the day drew on, the Heirs reached the city of Dawn’s Concord. Nathan thought there was a second sun low on the horizon, the first time he’d ever seen anything like that on Davrar. But then he realized it was a spherical, shiny building reflecting the sun overhead. He blinked at it, then judged the distances. “That’s huge.”
+
+“The Arena of the Concord,” Colborn answered him with pride in his voice. “Where we struck the Deicide Concord to unite all Questors against the gods. It’s one of five venues that are large enough for a proper conclave.”
+
+“What stone is the city built of?” Sarah asked, studying the rest of the sprawling city. Nathan was too far away to see much detail, but most of what he could see was a smear of rosy white stretching across the coast in both directions.
+
+“Simple marble,” Sarya said. “But it carries the blessing of Aresi, goddess of the dawn.”
+
+“Ostren seems steeped in the power of the divine,” Khachi murmured, eyes on the city.
+
+As the Heirs drew closer, the grandeur of the city was revealed in full. Buildings and streets alike were the color of an early dawn, with soft pinks and streaks of fiery gold tracing their way across the elegant stone. The city itself was built across a hilly coast near a calm ocean. Unlike every single coast Nathan had seen on Davrar, it had beaches with normal-sized waves, without either the glassy smoothness of magically-enforced calm waters or the hundred-foot breakers of the natural ocean.
+
+“A beautiful city,” he remarked, and meant it. The massive mirrored sphere of the Arena of the Concord sat atop the largest hill and dominated the skyline, but there were other grand works scattered across the city. Every other hill was crowned by a columned plaza decorated with a grand bell tower opposite a fountain. The fountains sprayed water around a large basin before it spilled into shallow channels that ran down the center of the main streets, joining with other streams in parks at the bottom of the hills and eventually running out into the ocean. The piers of the city were made of the same colors of stone and were adjoined with grand open-air markets. Nathan could see almost a hundred ships at dock, with every style of shipbuilding he knew represented and a few more besides.
+
+“Hear me, it’s strange not to see the Grace of the Mists in dock,” Sarah said. “I’ve come to expect it at every port.”
+
+Nathan nodded, realizing he’d also been looking for Eolinne’s distinctive ship. There was another ship that looked like it, but it was larger and didn’t carry the distinctive wisps of mist that marked the magical vessel.
+
+Colborn started leading them down towards the ground, aiming for the hillside just below the gigantic arena. “We’ll be staying at the Golden Respite, an inn near the Arena,” Colborn said. “I’ve been there many times before. Though the current owners are new to me.”
+
+They landed on the street just outside a four-story building that looked more like a palace than an inn, and Nathan realized he hadn’t seen any defenses anywhere in the entire city. They hadn’t flown over a single wall or bypassed any defensive enchantments on their approach. No guards eyeballed the Heirs as they touched down in the middle of the city. This palace was fancy, but every enchantment he could detect was geared towards utility and comfort, not protection. Well, there were fairly beefy magical locks on the doors and windows. But they were locks, not true security enchantments that would zap anybody.
+
+Colborn led them straight into the grand entrance to the inn. The doorman welcomed them in, and Nathan was reminded of the lobby of a fancy hotel, mashed together with a high-class restaurant and a boutique store for fashion, armor, and weapons. The ceiling was an elaborate work of stone and paint that evoked a rosy sky with a bright sun directly overhead.
+
+“Laureate Colborn!” The matronly woman manning the desk called out, nearly running out from behind it and flicking her hands towards various staff to get them moving. “We have awaited your coming. You are just as my father described.” She gave small, polite smiles for the rest of the Heirs, but turned a glorious smile on the short Questor.
+
+“Thank you, Jenice,” Colborn replied, his smile warm and friendly. “As always, I am astounded at your family’s hospitality. I would speak with you later, but I fear we are rushed. Are the others here?”
+
+“They await you in the room of golden waves. I shall show you to your suites and then take you to them. Do you wish a meal prepared for you?”
+
+“I do. We will be eating with the others. There is much to prepare. Have you heard of the conclave?”
+
+The woman nodded deeply, almost a bow. “I have. We are preparing for the wave of Questors. I pray you find success in your dealings.”
+
+This time, Colborn’s smile seemed almost sad. “Thank you. I hope your prayer finds purchase.”
+
+Permanent Talent 1: Magical Destruction 6
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 2
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 5
+
+Forewarning 10
+
+The Truth of Magic 6
+
+Evasion 5
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

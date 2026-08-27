@@ -1,0 +1,249 @@
+---
+id: 36e661f2-b801-5989-b320-488d667e13d5
+page-type-slug: story-chapter-royal-road
+title: "7 - The Mage in White "
+slug: 0007-7-the-mage-in-white
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 7
+ownLength: 1457
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3388222/7-the-mage-in-white"
+royalRoadId: "3388222"
+---
+
+All the mages in front of the secret dungeon stared at me. The rest of the guild members whispered to each other, surprised that somebody like me had enough courage to stand beside the mages.
+
+Except that wasn’t true at all. This wasn’t intentional. It had nothing to do with courage—my damned legs just betrayed me!
+
+“...You’re tiny,” the pink-robed mage said. “Ah. A tiny little girl with white hair and golden eyes… so you’re the one who uncovered the dungeon?”
+
+I gulped. He certainly sounded like an elf, but his voice didn’t fit his ginormous body at all.
+
+“Haha, no, I think you’ve got the wrong person,” I said, turning away.
+
+I tried to move, but something stopped me. He didn’t grab me or anything, but for some reason, I just couldn’t move.
+
+I turned back, noticing his staff pointed at me.
+
+He had cast a spell on me.
+
+My body tensed, trying to break free. “What are you—?”
+
+The other mages were finished with setting up the barrier to the secret dungeon. They surrounded me on every side, looking down at me.
+
+“Hm…” one of them began, hand under his chin.
+
+“Are you guys seeing what I’m seeing?” another asked.
+
+“Sure am,” a third said.
+
+The giant elf with pink robes leaned closer to me, studying my face.
+
+“Allene Trope,” he said. “So you’re a mage, too?”
+
+I flinched. How did he know my name?
+
+Could it be…?
+
+“You have [INSPECT], too?” I asked.
+
+The mages exchanged looks.
+
+“What’s that?” the pink one said. “Do you mean Analyze?”
+
+Analyze? Did it maybe go by a different name?
+
+Whatever the case was, it explained how he knew my name and class.
+
+“I’m curious. This Inspect skill you just mentioned… what is it? What academy taught it to you?” he asked.
+
+“...academy?”
+
+He gave me a weird look. “You didn’t go to one?”
+
+Of course not. I was literally just reincarnated into this world.
+
+“No,” I replied.
+
+The mages whispered to each other.
+
+“Then how were you able to cast such a spell on that man?” the black-robed one asked, pointing behind me.
+
+I turned. He was pointing at the man I had used the stick on. The man was still completely unconscious, resting on top of a table in the guild. They must’ve mistaken the knockback stick for some type of spell.
+
+“I… huh? That wasn’t a spell. It was—”
+
+“I’m impressed. I really am,” he continued. “Hey Meriel, you’re still looking for a mentee, right?”
+
+Of all the mages there, she was the one wearing white robes—and the only woman.
+
+“I am,” she said. Her elf ears twitched.
+
+“Why not take this little one in?”
+
+“Why should I?”
+
+“I mean, her hair’s the same color as your robes.”
+
+What kind of dumb reason was that?
+
+“Sure,” she said.
+
+What were they even talking about, and why did she just agree to it so quickly?
+
+She walked up to me. Her hair was tinged silver, and her eyes were an icy blue. She had dark circles under her eyes, almost as if she hadn’t slept for three days straight.
+
+[TROPE INITIATED: THE ECCENTRIC MENTOR TAKES INTEREST IN YOU]
+
+Completion criteria: Survive the training.
+
+Failure: Death.
+
+Before I could even react to the trope notification, I noticed Reina running up to the counter.
+
+“Hey, what are you all doing to her?!” she yelled.
+
+Meriel pointed her staff at her. I felt heat forming at the tip of her staff, like she was starting to cast a spell at Reina.
+
+“Wait, wait!” I stopped her. “I don’t know what’s going on, but she’s my friend!”
+
+Meriel lowered the staff immediately.
+
+“Friend? I see. She can come as well.”
+
+“Huh? Come where?”
+
+She tapped her staff onto the guild’s wooden floor. As if the other mages knew exactly what was happening, they backed away.
+
+“Come closer,” Meriel said to Reina.
+
+“What? Why—?”
+
+Meriel pointed her staff at her, causing Reina to float through the air toward the white-robed mage.
+
+The other guild members watched in awe as the entire building lit up with magic as bright as the sun.
+
+“Good luck out there!” the pink-robed mage said, smiling at us. “Meriel might be a little weird at first, but you’ll come to like her just like we do. Oh, and don’t worry about all that stuff with the secret dungeon. We’ll take care of things here.”
+
+Then, one blink later, we disappeared.
+
+***
+
+The three of us were now inside a tiny wooden cabin. There was a bed in the corner, a fireplace beside it, and a lonely table and chair with nothing on it but a single tea kettle.
+
+I looked out the window. A blizzard raged outside, almost as loud as a monster’s roar.
+
+“Where the hell are we?!” I cried.
+
+“Ugh…” I heard Reina’s voice. She was… below me?
+
+I looked down, realizing I was sitting on top of her stomach. When she opened her eyes and saw the situation we were in, she cried,
+
+“A-Allene? Where are we?”
+
+The moment I stood, another voice came.
+
+“Ouch.”
+
+Meriel was… right below Reina. Somehow, Reina had landed on top of Meriel, just as I had landed on top of Reina.
+
+For somebody who knew how to use such advanced spells as teleportation, I would assume she was at least proficient enough not to have two people teleported on top of her. Guess not.
+
+We gathered ourselves together. Meriel immediately sat on the bed as we just stood there, watching her silently.
+
+“I’m tired, and nothing makes sense!” I burst out. “I fought a slime, met a merchant who ignored me, fought a Tree Sentinel, got confessed to by some random guy, uncovered a secret dungeon, and now I’m trapped in a blizzard cabin with a sleep-deprived mage! None of this is normal!”
+
+As if the word “sleep” had triggered something in Meriel, she yawned and lowered herself onto the pillow. Her staff fell and clattered on the floor, but she didn’t care.
+
+“Hey, you!” I called out. “Where did you take us?”
+
+But she was already snoring.
+
+“I said,” stomping over, “Where. Did you. Take us?!”
+
+I slapped her on the side of her body. She yelped and looked at me, frowning.
+
+“That wasn’t nice,” she said.
+
+“Oh yeah? You know what else isn’t nice?”
+
+“Kidnapping you to a random place?”
+
+“Yeah—wait, if you already know that, then why the hell did you do it?!”
+
+She sat up, stretched, and yawned some more.
+
+“I have to,” she said. “It’s a part of the requirements for the academy.”
+
+“What’s that got to do with us?!”
+
+For some reason, Reina didn’t seem nearly as upset as me.
+
+“Academy? Like an academy of magic?” she asked.
+
+Meriel nodded. “Yes. The other mages and I are preparing to become professors. As a part of our requirements, we must train at least one mentee to a suitable level. If we succeed, we go on to become full-time professors.”
+
+Reina and I exchanged glances.
+
+“Then why me? Or rather… why us?” I asked.
+
+“Because your hair color’s the same as my robes.”
+
+I blinked.
+
+“So you were serious about that after all…”
+
+She nodded. “Your friend is only here for moral support. Our training will not be suitable for a knight like herself.”
+
+Reina frowned. “So you brought me here just to cheer Allene on?”
+
+“Yes.”
+
+She clenched her fists.
+
+“No.”
+
+“Hm?”
+
+“No! I refuse to do that!”
+
+Reina puffed out her chest, thumping it with her right hand. “I’ll take part in the training!”
+
+“Nonono, we’re not doing any training!” I yelled. “Take us back, you elf!”
+
+She shook her head. “No can do. I’d like to be a professor.”
+
+“Then take someone else!”
+
+“I’ve tried, but they all ran away. I learn from my mistakes. Now that we’re in the middle of nowhere, it’ll be impossible for you two to escape.”
+
+…
+
+Meriel looked at Reina. “Also, a knight cannot train like a mage. You can just watch us from the side.”
+
+“I’m alright with that! As long as I give it my all and stay by Allene’s side, I’m okay with it, even if I die!”
+
+I blinked. What’s with that? We just met, and she was already willing to die for me?
+
+“Ah, I know! I’ll just become a magic knight!” Reina said.
+
+I looked at Meriel, trying to gauge her reaction. She wouldn’t just allow this, would she?
+
+“Okay,” Meriel said.
+
+…
+
+[TROPE INITIATED: THE MAGIC KNIGHT’S PATH ]
+
+Completion criteria: Reina survives the training.
+
+Failure: She dies.
+
+I raised a brow.
+
+This trope was different from the others.
+
+Every trope until now had revolved around me. But this one… this one depended on Reina.
+
+Why was that?

@@ -1,0 +1,215 @@
+---
+id: 6def05fd-cbb2-5fe0-bec2-ebea46d020d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: A Challenging Balance"
+slug: 0079-chapter-64-a-challenging-balance
+partOf: ends-of-magic
+position: 79
+ownLength: 2922
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3157654/chapter-64-a-challenging-balance"
+royalRoadId: "3157654"
+---
+
+Nathan wasn’t sure what to make of Kaelis’s speech. It was closer to the one he’d personally wanted to give than the one he’d actually delivered, but it still sidestepped a few points Nathan considered essential. But the crowd’s reaction demonstrated that it was probably better Nathan hadn’t given it, and Kaelis had even toned it down. There were still plenty of Questors shouting objections and challenges across the arena.
+
+It was also a good thing that Davrar limited the number of challenges, or else they’d be there for a while. The first challenge was starting right then, a Questor Nathan didn’t recognize, appearing across from Kaelis. They looked like a mage of some kind, though their outfit was weirdly shiny.
+
+The fight started, and a halo of dozens of hiltless blades manifested behind Kaelis. Nathan realized he had never actually seen the man fight before. He didn’t know if the shards of metal were an enchanted item or some sort of Talent incarnation. At his gesture, they shot forward just in time to intercept a high-pressure jet of water fired off by the other Questor.
+
+The man seemed to be carrying several dimensional bags full of water and was siphoning it out rapidly. About half of it drained to the bottom of the arena while the other half shot towards Kaelis in a high-pressure jet. It deflected off the blades and splashed all the way to the edge of the arena.
+
+The water pooled at the bottom of the fighting arena and rose quickly, but Kaelis just floated a bit higher in the air. Whips of water lashed out at him and were intercepted by dancing blades. Nathan would have expected simple edged weapons to be a bad matchup against that kind of attack, but whenever one of the weapons cut through the water, it seemed to also cut the animating magic, leaving the water to splash into the rising pool.
+
+Kaelis flicked his fingers like a conductor directing his orchestra, and each of the blades split in half. Most stayed to defend him from the onrushing water, but the rest dove towards the other Questor. He was underwater at this point and zipped around rapidly to avoid the blades. The water rippled with magic, slowing the conjured weapons. Some started tumbling as if caught in localized vortices.
+
+It almost looked like two men fighting entirely separate battles. Kaelis hovered above the water, beating back jets and lashing tides of water with shining shards of steel. Meanwhile, the other Questor flashed through the water, chased by a flock of metallic minnows. But the crystal sphere was steadily filling with water. That water began rocking back and forth rhythmically like a giant wave pool before splashing high to sweep Kaelis out of the air and submerge him.
+
+Nathan winced, expecting that to be the end. But instead, the water calmed, and a cloud of red bloomed from the other Questor. Somewhere in the sweeping wave, he’d swept himself into the path of one of Kaelis’s blades, and it had torn him open. Kaelis didn’t hesitate for a moment, all of the animated weapons reaching for the other Questor and tearing him apart in a flash.
+
+Between one moment and the next, the water vanished, and Kaelis was floating in the air opposite a new opponent. It was a woman this time, and after the fight started, she just floated there, waiting for Kaelis to make the first move. He threw out a pair of blades on an obvious trajectory while a third dove low and came down behind her.
+
+None of them made it to their target, freezing in place short of their target. Kaelis flicked his finger again, and the blades didn’t move, staying entirely stuck. The woman smirked at him and spoke, the voice coming clearly through the magnification effect. “No movement? That’s a caustic burn.”
+
+She walked casually towards him, stepping carefully around the floating blades and drawing a slim, needle-like sword from a sheath at her side and aiming it towards Kaelis. It fired forward like a bullet, and Kaelis just barely managed to get one of his own weapons in place to deflect it off to the side with a ringing crash. But his blade froze in place, and hers looped lazily back to her hand.
+
+“Don’t make this difficult,” she said chidingly, walking unhurriedly towards Kaelis.
+
+He simply rolled his eyes and flicked his hands. All of his blades dove for her in a coordinated salvo, and she leapt back a pace and narrowed her eyes. They came in a coordinated wave, their motion freezing in a rippling wave starting six feet away from her. The last came to a halt, buried in her shoulder, and she gritted her teeth in pain, reaching up to rip it away. “A worthy…”
+
+Then another one sliced through her neck from behind. It was little more than a splinter of metal, having been split off one of the blades she’d halted earlier. Her head and body fell separately, and Kaelis called his blades back to him and turned to face the Aleph grid seating area and calling out mockingly. “Set me against a real foe.”
+
+The arena reset again, and this time Kaelis was facing a Questor in a billowing white costume that covered their face. When the battle started, they vanished, nearly as completely as Vesh had done. Nathan could see that their invisibility was good, but his antimagic let him see through those kinds of disguises even when his aura wasn't covering the person.
+
+He watched as the figure in white flickered to the side, some kind of short-range teleport getting them far away from their position. Then they teleported forward several times in quick succession, reaching towards Kaelis with hands that shimmered with power.
+
+Kaelis stood in place, his blades orbiting him in a lazy arc. He was scanning the arena intensely, either not knowing where his opponent was or doing a wonderful job of faking. The truth was revealed a moment later as a half-dozen blades shifted trajectory to drive towards the opponent as they jumped into the air thirty feet from Kaelis. Panes of force manifested in the path of the flying shards of metal, but they parted like tissue paper. The weapons embedded themselves in his opponent’s chest, and blood spurted from midair. Kaelis rotated his body to watch the dying attacker and shook his head disdainfully. “Cowards.”
+
+Then the arena flickered once more, and the stage reverted to its original configuration of a flat platform. Kaelis could have stayed onstage and continued speaking, though he would have had to endure another round of challenges soon enough. But Nathan knew that wasn’t what drove him off the stage. It was generally frowned upon to speak more than once in succession, unless you needed the extra time to get your point across. Even then, the general view was that you shouldn’t spend too long onstage or else people would get bored with you.
+
+So Kaelis left the stage, flying back towards the Ashen Accord area with his head held high. Next would be a member of the opposition, and Nathan was curious to see who it would be.
+
+“They hold back their dangerous fighters,” Colborn said. “We had hoped they would commit a speedster to that fight.”
+
+Kaelis grimaced as he flew in and took his seat. He was still dripping slightly with water from the second duel. “Grave apologies. They did not take the bait.”
+
+Nathan wasn’t quite sure why the Questors around him were acting so surprised. If he’d been in the position of their enemies, he wouldn’t have taken the bait either. Nathan and the Heirs were the weak point in this conclave, and it didn’t make any sense to let yourself be duped into spending your strongest fighters on side objectives. He shrugged. “If they won’t be duped, should I speak earlier than we planned?”
+
+Sarya shook her head. “No. We hold to the plan. Mirus proceeds next. If they hold back their strongest fighters, then we should take the advantage they yield to us and make the fights one-sided.”
+
+“After this asshole,” Aarl pitched in, pointing forward to where another Questor was taking the stage. They weren’t familiar to Nathan, a man in a ruffled and flamboyant outfit. His clothing sparkled in multiple colors like it was made of gemstones, and his hair was tied back with a ribbon that looked like some kind of flexible crystal. He took the stage with a dazzling smile, waving a hand as if to greet an old friend. His other hand held a glittering cane of black stone.
+
+His appearance was greeted by a low growl from Colborn, who spoke over his opening words. “Odrin, master of decoherent noise. I’d hoped he was too enmeshed in his own debauched games to come.” He shook his head sharply. “I want to challenge him, but it’s an entropy-damned risk. Mirus?”
+
+“I’m speaking next,” the mage reminded him. “I shouldn’t appear on stage just before that.”
+
+"Stella would be a good match,” Sarya said thoughtfully. “He has powerful defenses and mental skills, but is vulnerable to being rapidly overwhelmed. Drown out his voice.”
+
+The rest of the Heirs tensed, but Stella nodded gleefully. “That’s a target I can hit!”
+
+“He fights with animated strips of fabric,” Colborn said. “They’re tough and resistant to magic and blade. But they will burn if the fire is hot enough, and if you cannot hear him, his voice cannot harm you. His cane absorbs mana and wizardry, but there is a limit to how fast it can do so.”
+
+“Your light shines in my eyes,” Stella said eagerly, but Nathan could see the gears turning behind her eyes. She was excited to stand on the stage and fight, but she was going to do it properly, wielding her magic with every bit of her masterful skill.
+
+Nathan hadn’t even been listening to Odrin’s speech, and tuned back in to where the Questor was strutting around the stage.
+
+“I hear their plea, and it tears at my heart,” Odrin proclaimed, gripping his chest as if the pain was overwhelming. “I feel the grief, the righteousness, the trembling insistence that the world be remade because it simply hurts too much.” He lifted his cane into the air to emphasize his next point. “But Davrar is not a nursery; it is a crucible. Its edges are intentional, and we Questors enjoy them.” His lips twisted into a conspiratorial grin, like he was sharing a secret with the audience.
+
+He spun, and the gemstone ruffles of his clothes flared out, catching the eye and sparkling with light. “Should we dull a blade because a soft soul hurts themselves? Should we pay for another’s laziness with our own boredom and limitation?” He shook his head sadly, like a parent regretful to deny something to a child. “Some souls were not forged to hold a blade, and this world was not made for them. It was made for us,” he clenched a fist and held it out, head tilted back like a champion accepting their acclaim.
+
+“There is a bargain here, whether we speak it aloud or not. Davrar grants mortals a life worth having. It is not safe, but it is real. It gives them monsters to slay, kingdoms to build, and legends to chase. Without Davrar, without us, they would be stardust drifting through the void, never knowing adventure, never knowing meaning.” He lifted his cane in a gentle, theatrical salute. “The mortals exist because the stage exists, and the stage exists for us. If that sounds harsh, well, every play requires a few broken hearts.” He bowed with a flourish, then rose and faced Nathan, speaking sarcastically. “Now, I await my due rebuke. Mayhap I will even face one of those mortals I so deride.”
+
+That gave Nathan pause. If Odrin wanted to fight one of them, then they were at risk. But it was already too late. Stella had already followed Sarya’s instructions on issuing the challenge, which mostly consisted of verbally stating your intention aloud and then confirming with Davrar that it was your intent to fight. It sounded like there’d been an extra layer where Davrar reminded Stella that she was a mortal, and would die permanently if she lost.
+
+“The first time a mortal fights in a conclave,” she said, both nerves and excitement ready in her voice. Then she took a deep breath, and her expression smoothed to seriousness. “But I shall win, and show him what we mortals can do.” Her eyes ignited with an inner fire, and she vanished.
+
+The stage had turned into a hollow sphere of crystal once more, and Stella stood opposite Odrin, waiting for the duel to start. He gave an arrogant smile. “Ah, the young redhead. My wishes are fulfilled. You will come to feel that I know your desires better than you do yourself.” The fight hadn’t started yet, but there was a resonance in Odrin’s voice that spoke to the skills imbued in his voice.
+
+Stella had stuck her fingers into her ears as soon as she appeared in the arena. But judging by her furious expression, at least some of the Questor’s words must have gotten through.
+
+She always did hate people using social skills on her.
+
+The arena flashed to indicate the start of the fight, and Stella’s flaming eyes flashed power forwards in a roaring, sparking conflagration of heat. Odrin was still talking, but the roaring crackle of electricity-infused flame drowned him out.
+
+He seemed unbothered, lifting his cane to suck down the magical energy. Some skill increased the volume of his voice to be heard clearly over the clamor of the spell. “Spirited, but there is no purpose. Now, I command you, cease your worthless attacks, lest they spoil your future master’s clothing.”
+
+The spell cut off, and Odrin smiled in satisfaction. Then he blinked at the eight glowing magical constructs that surrounded Stella, each backed by a sparking capacitor of force.
+
+It would have been the perfect time for Stella to give a snappy response. But she’d obviously decided to let her spells speak for her, and beams of light struck with the crash of suddenly ionized air. The lasers broke against a sudden sphere of protective force. But the protective magic broke in turn when Stella unleashed the lightning down the paths her lasers had carved in the air.
+
+The split second of pause had given Odrin time to impose his next defense, and layers of gemstone fabric caught the electricity and held under the onslaught. It did serve to cut the Questor off from view and speech, since he was trapped inside a coruscating sphere of lightning that lit the entire arena in strobing brilliance and rattled Nathan’s teeth with the noise.
+
+Stella poured on the power for ten seconds, then fifteen. The shining fabric blackened beneath the lightning, and Nathan thought the defense had failed. He knew that she could keep up this assault nearly indefinitely, but that didn’t seem to be her plan. She was letting the capacitors drain, and the lightning tailed off all at once.
+
+The fabric peeled away, revealing a slightly singed Odrin. The clothes close to his body retained their brilliant sparkle, but past a few feet, his ruffles were a charred mess. His expression was nasty. “A terrible torture…”
+
+But Stella wasn’t done with her spells, and she hadn’t neglected the lightning spell for no reason. The nuke spell floated towards Odrin gently, like a bubble drifting in the wind.
+
+He saw it and his eyes widened, his gaze going past the spell to Stella in disbelief. He opened his mouth to say something else, but didn’t have time before the spell detonated.
+
+Nathan’s heart was in his throat as the crystal sphere was suddenly full of radience. At this distance, the light alone should have flash-burned every member of the audience, and no physically possible material should have been able to contain that detonation. But the magical material of the arena held, and it cut down the light from dangerous to merely bright.
+
+But it still meant Stella was stuck inside that orb with the rebounding energy of her own magic. He didn’t know if she could survive that. But between one moment and the next, the energy was gone, and Stella was left floating exactly where she had been, looking semi-translucent.
+
+She faded back into full visibility with a satisfied smile and addressed the empty spot where Odrin had stood a minute ago. “Your stage? Darling, you’re not even scenery.”
+
+Permanent Talent 1: Magical Destruction 7
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 6
+
+Forewarning 10
+
+The Truth of Magic 7
+
+Evasion 5
+
+Wizard’s Palace 6
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

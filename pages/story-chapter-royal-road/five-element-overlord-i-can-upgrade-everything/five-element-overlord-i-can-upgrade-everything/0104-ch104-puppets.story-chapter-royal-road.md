@@ -1,0 +1,173 @@
+---
+id: ccdaa87f-131f-506e-b3f6-bfbe309c9abc
+page-type-slug: story-chapter-royal-road
+title: "Ch104 Puppets"
+slug: 0104-ch104-puppets
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 104
+ownLength: 2415
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3716813/ch104-puppets"
+royalRoadId: "3716813"
+---
+
+I pull out the communication talisman, along with a small white beetle, activating both on the spot to listen to this message in private.
+
+“Senior! You’re alive! Congratulations on making it to the Outer Sect. I was promoted to a steward after the war and had no idea where you went. Now that I have this permanent position, I see how much you truly sacrificed to help me as a servant. The qi gathering pills you have just delivered will help me stabilize my new realm. I managed to break through to level 2 after all! The other stewards are calling me a young prodigy, as there are not many at my level or higher left after the war, and I’m the youngest in the steward quarters. Please, send another message back if you have any need for me still.”
+
+I smile, realizing he was certainly not slacking all this time. Those pills I left him with before the war went a long way. The new vial of ten should last him quite a while. The difference between 8th- and 9th-grade roots is certainly not small.
+
+“Good. Use those new pills without restraint. They’re all for you. Reach level three as quickly and safely as you can, and take this new gift to cleanse your marrow and clear out your meridians if the bottleneck is too harsh. Also, take these spirit stones and begin attending every servant auction you can. Buy other 8th-grade root servants like yourself, make sure they are hard workers, and begin nurturing them into loyal underlings. Your time in the sect has just begun, it is vital you build a solid foundation.”
+
+I load a hundred spirit stones, and one of the high grade marrow cleansing pills Lan Xin bought me into a low-grade ring and prepare to throw it and the communication talisman into the swallow. However, I pause once I see Lin Fang approaching.
+
+His gaze is locked onto the green bird, so I stow away the package I was about to send and deactivate the sound-suppressing beetle.
+
+“I hope this didn’t raise any of your ship’s defenses. I would have waited if I could, the return sequence is automated.”
+
+Lin Fang activates his beetle instead of mine, hovering around both of us as he replies.
+
+“It is no problem, I could sense that it was not carrying any ill intent… though, I have never seen a puppet so intricate. May I…”
+
+He reaches out but hesitates.
+
+“Sure, take a look.” I toss the swallow over to him, and it flaps its wings to hover in the air like a living bird would.
+
+Even when it perches on his outstretched finger, the small emerald swallow still twitches and moves its wings, creating glossy crystalline feather movements. They are still mechanical and soulless, but they appear far more advanced than the tortoise I’ve been walking beside all day.
+
+Lin Fang touches the brim of his glasses and examines the bird from every angle for over a minute.
+
+“This is not a Lin family design, the only other family that could pull off a foundational puppet this intricate is the Wei family… is this where you acquired it?”
+
+I shake my head. “No. This was a gift, not from a clan anywhere near the Azure Cloud Sect.”
+
+There’s a moment of silence, but my gaze tightens. “Why could a puppet this advanced only be from the Lin or Wei family…?”
+
+“Puppet mastery is a very rare path to follow… Many of the smaller foundational clans would never devote resources to learning it. Becoming a swordsman, forging weapons, alchemy, or taming powerful beasts, these are much safer options to generate profit. Most Tier 1 puppets can easily be replicated with a talisman, or by hiring a cultivator for fewer spirit stones than the puppet’s use cost. To many powers, puppets are viewed as a luxury art form rather than anything useful.”
+
+He turns his hand over and watches the emerald swallow dance along his fingers.
+
+“I have to agree… Tier 2 puppets are truly art. Though, I do disagree that they are useless.”
+
+He clenches his other fist by his side and turns to me.
+
+“Do you have a spare user manual or any notes by the designer of this puppet? It’s seamless… perfect… I wouldn’t be surprised if a golden core was its crafter.”
+
+Lin Fang’s eyes stay wide, staring at the small bird and not even turning my way.
+
+“No, unfortunately I do not. Though, I do have one question for you still. You said you were rewarded by a branch family of the Lin Clan, and you made it sound like they were not the same as the family in the capital…”
+
+He lets out a sigh and hands back the swallow, but his gaze lingers on it even as it settles in my hand.
+
+“It’s no secret. The powerhouse clans like the Lin and Wei families from the Nine Rivers City don’t keep their talent close by. In the capital, I would be considered below average, but out here I still garner respect as a valuable asset. Many branch families split off and live in the Hidden Mist County to gain power of their own. It benefits the main family, bolstering their numbers in weaker territories, and it benefits the branch families by using the strength of the main family’s name.”
+
+I nod and tap the storage ring and communication talisman to the swallow. It disappears into its storage, then with a light toss, the bird flies away off the side of the boat back toward the sect.
+
+Lin Fang’s eyes widen again. “Its storage function is seamless… and… it just automatically returns to where it came from?”
+
+I grin and shake my head. “No, it flies to whoever I want. The puppet remembers faces. So don’t worry, if I ever find any notes or manuals, I can send them right to you without any hassle.”
+
+The small man taps his glasses again and pulls out a brown booklet that looks like a notepad. He begins scribbling in it intensely and pulls the white beetle back into his hand.
+
+“Thank you for the insight… I must think about this design while it is still fresh in my mind…” he mumbles, then turns away to sit alone at the front of the boat.
+
+—
+
+For the whole rest of the ride, as the entire day passes by, Lin Fang scribbles away in his notebook.
+
+Many of the other cultivators on board take short naps. All of the grey wolves curl up and sleep together. A few count their hauls, consisting of twenty to thirty 9th-grade eggs and one or two 8th-grade eggs each on average. A few have collected large lizard talons to sell for a little extra profit, but the majority just collected eggs.
+
+Storing full two to three meter long qi dense mid stage corpses takes up far too much storage ring space, so many only bother to collect the most valuable parts.
+
+I count mine up. There are 89 9th grade earth lizards, 3 9th grade red tailed foxes and 7 9th grade long tusked boars. The 13 8th-grade eggs are all armored lizards.
+
+The two outliers, a 4th and 6th grade egg from the crow, I do not even take into consideration. Those are not seeing the light of day for quite a while until I can figure out how I can protect them from being stolen.
+
+Instead, I think about how many eggs I should hand in and what to do with the extras…
+
+As we finally start descending into the beast mastery peak’s spirit fields, the Quest Hall comes into view, and Lin Fang is knocked out of his concentration.
+
+At the same time, my emerald swallow comes flying back with nothing but a communication talisman.
+
+It has a single reply. “Understood, Senior Li. I won’t let you down.”
+
+We land on the ground in front of the hall, and many thank our guide while walking off into the sect building.
+
+Lin Fang stops me before I step off, eyeing the bird I still haven’t stowed away.
+
+“Could I… examine it one more time?”
+
+I toss it over. “Sure, wait for me while I hand in some eggs. I’ll need a ride back to plot 81 anyway, you can look at it all you want if you can bring me back there once I’m done.”
+
+He nods with pure excitement in his eyes, and I hop off the boat.
+
+Whispers fill the air as I enter the Quest Hall and step into the shortest line.
+
+“That’s the 2nd-level qi refiner with the mid-stage physique, isn’t it? The one who bought his way into the Outer Sect thanks to the Wang family.”
+
+“Yeah, it’s him… he’s the one that beat Feng Minshun in a duel. Maybe there is more to him…”
+
+“No way. That rumor can’t be true! How’d a weakling like him even win?”
+
+“I heard it was over in seconds… a late-stage qi refiner brought to his knees in a single hit.”
+
+“I heard Feng Minshun tripped and fell! He won with dumb luck!”
+
+The further up in line I get, the louder these whispers become. Even after two days have passed, a few people still remember.
+
+I ignore them and present a ring to the counter containing just ten 9th-grade earth lizard eggs. It is the lowest out of everyone from this outing. However, I am the only initial stage qi refiner among the combat squad of 6th and 7th level qi refiners that usually take these missions. It would be even more strange if I tried to hand in far more.
+
+The process of trading them in for contribution points is very easy, considering eight other members from this mission have done so right before me. The going rate is 40 contribution points each, adding four hundred points to my total of 110 still left over from the war.
+
+“I’d like to exchange 250 contribution points for 5 mid grade water stones. Then the remaining 260 for pure spirit stones alone. I got lucky enough to find an abandoned nest of 9th grade eggs right off the path while still being in range to be protected by our guide. I don’t think I’ll get that lucky again, so I better cash out while I can!” I remark in a louder than necessary tone. Some jealous heads turn from 4th and 5th level qi refiners that are too scared to try heading out on egg hunts. They are the same cultivators that were murmuring and spreading gossip when I arrived.
+
+The old man fulfilling my order looks at me with a strange expression. Still, he takes my disciple token and scans his ledger. I hand him my mid grade storage ring to follow through with the transaction.
+
+“To strengthen your spirit crane, that will certainly increase the yield in your farms. But- At the standard exchange rate of 5 stones per contribution point, that 260 points will be 1,300 spirit stones. Are you sure you don’t want any pills? We have medium-quality qi gathering pills in stock, and plenty of qi nourishing pills too… All directly from named disciples of the alchemy peak. They would be far more beneficial than cultivating with spirit stones alone.”
+
+I take the ring back with me and smile.
+
+“No thanks… though, there is one thing not listed here that I wonder if you have. Are there any recording crystals in stock?”
+
+He shakes his head. “You would have to go to the Law Enforcement Hall to purchase those. The Red Pine Market sometimes has extras for sale too.”
+
+“Excellent.”
+
+I leave the way I came, tuning out all of the whispers and thinking about what I’ll do once I get back to my plot.
+
+These spirit stones are only a drop in the bucket of my income, but there is now a public interaction of the sect formally giving me these stones. Small public displays of wealth, like my mid grade bow, or growing blue saturation of my spirit crane now have plausible explanations.
+
+The Wang Family’s support is no longer my only excuse.
+
+Lin Fang doesn’t speak much as he flies me back, still scribbling away in his notebook, drawing bird designs over and over and leaving new notes on each one.
+
+His physique feels warm and calm, like it is increasing in complexity the longer I’m in his presence.
+
+It almost gives off the same sensation that radiates from my physique when I practice the martial movements in complete concentration.
+
+It reminds me of a few distinct memories from my past life, when young artists would be fully invested in their craft, with wide, innocent eyes, blissfully unaware of the world around them. I get to witness a glimpse of a pure heart be truly passionate about something.
+
+Even as the flying vessel slows and stops on top of my abode, looking over my 122 acres of spirit fields, I do not say a word.
+
+I just watch with a smile as the skinny man flips through his pages over and over, making new discoveries about this bird with every passing second.
+
+The sun even sets behind us on the horizon before he finally lets out a long sigh of relief and looks up at me.
+
+“I understand… This… it’s possible to replicate this homing function… I just need to find the right soul metal materials to use as an anchor…”
+
+He tosses it back to me and gives a respectful bow.
+
+“I must get to work. Thank you, Li Hao.”
+
+I pull it back into my storage and bow back. “I must thank you too, you have granted me insight as well.” Then I step off his vessel.
+
+He flies away, leaving me alone on this small peak, watching a spirit crane slowly drift down toward me.
+
+It stops a few meters away, and even in the low light of dusk, I can see the small blue pigment on its feathers has grown even more, just from the few inferior-quality water stones I’ve given it.
+
+I toss one of the medium-quality stones its way.
+
+“Good work looking after the fields while I was gone. Here is a reward for you too.”
+
+The crane happily catches it with its beak, and I turn around to enter my home. I take a long hot bath and fall asleep for the first time in days.

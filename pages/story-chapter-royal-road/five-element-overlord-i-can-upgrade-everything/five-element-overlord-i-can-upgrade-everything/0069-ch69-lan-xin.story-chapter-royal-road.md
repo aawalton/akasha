@@ -1,0 +1,115 @@
+---
+id: a5fb5df1-f12c-53da-b740-0ce7601794b6
+page-type-slug: story-chapter-royal-road
+title: "Ch69 Lan Xin"
+slug: 0069-ch69-lan-xin
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 69
+ownLength: 1546
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3493994/ch69-lan-xin"
+royalRoadId: "3493994"
+---
+
+As the fiery woman leaves my sight, golden text still remains in my system scan.
+
+[Automatic Inspect Function Activated…][Lan Xin] [Age: 25][10th Level Qi Refiner][Fire Spiritual Root][7th Grade][No Acquired Physique][Innate Flaming Serpent Physique][Initial Stage - Spirit Grade][Before birth, was soul bound to a rare spirit grade serpent’s egg. Despite her poor quality spiritual roots, this shared innate physique has allowed her to progress faster than most in her generation. She lacks any family backing and the Azure Cloud Sect does not value her enough to grant her foundation establishment resources because of her poor spiritual roots.]
+
+Fiery explosions fill the cave, and I watch a bright artifact slice through the Blood Demon’s body.
+
+From this distance, they look like two sharp curved blades connected to the ends of a long bright orange chain. Lan Xin spins it around gracefully, holding its center, and follows this Blood Demon through the air as he tries to slip away.
+
+Every collision slices the demon’s limbs off, narrowly escaping being hit in the head or dantian.
+
+Yet, as half the cave wall is broken and covered in flames, the Blood Demon’s movements slow.
+
+He’s impaled in the forehead and chest, then explodes into blood and fire. His last yell echoes through the cave as this woman pulls this weapon back into her body. I watch it melt and turn into flames flickering on her skin.
+
+She smiles and turns around, surveying the expressions of everyone that just watched her kill a 10th level blood demon in seconds.
+
+“I, Lan Xin, declare Black Iron Mountain conquered, now property of the Azure Cloud Sect.”
+
+The snake around her neck slowly slithers, scanning its surroundings too, even moving up to get closer to her flaming hair’s heat.
+
+Movement shifts on my shoulder, and the low croak of a drowsy flame toad fills the silence. Little Red pokes his head out to see what’s happened.
+
+After a few seconds no additional system text pops up in my mind. The awaited side quest reward doesn’t come. I curse under my breath, realizing maybe it’s because I didn’t kill this blood demon, so the claim of this black iron vein is not mine.
+
+Yet, the more I think about it, the more uneasy I feel.
+
+The stir of my Illusory Demon’s Concealment Art becomes heavy again.
+
+It is not because of the illusory demons in the surrounding caverns. Instead, it feels like a single concentrated demon, similar to the Illusory Demon I felt in Green Rock Lake.
+
+My gaze tightens on the center of the room, and I watch the many crimson blood energy arrays on the floor start to vibrate and move all on their own.
+
+Clumps of blood energy begin forming all over this room in areas where the array’s pathways are the thickest. Quickly these collections of blood energy mutate, growing arms, legs, and heads, filling the room with Blood Demons.
+
+There are some inside my spiritual senses, but for some reason they don’t trigger system scans.
+
+I can feel their acquired physiques. Many are as strong as 8th and 9th level blood demons. However, they all have lifeless expressions and erratic movements like they’re puppets on strings. At first it’s ten, but soon more and more pop up, draining all of the blood energy from the passages outside of this room.
+
+All of the intricate array carvings dry up, only leaving a grey-white glow in the indented stone floor.
+
+Over 40 late stage Blood Demons appear scattered about this room and attack everyone.
+
+The lottery die in my hand falls out, rolling to the floor. It disappears, and notifications trigger in my mind as a small palm sized jade white sword artifact appears in my system storage.
+
+I have no time to examine it, instead I trigger two pine spear explosion talismans, then follow them up with two incineration bursts.
+
+The backlash alone shatters my defensive talisman, so I activate another while running away.
+
+My vision is clouded with flames and flying rock, but the roar of a bear and the heavy hammer hits of Wang Ming radiate through the cave as he fends off three Blood Demons at once.
+
+Jiang Ran swallows handfuls of Blood Qi Pills and lets out a hideous roar. The near fatal injury across his chest rapidly closes. His Flaming Mountain Physique is covered in demonic markings, and two demented horns start to grow from his forehead, but there is a glimpse of sanity left in his eyes. He only attacks the Blood Demons around him.
+
+Lan Xin pulls out her dual curved blades connected on a long fiery chain and slices through half a dozen Blood Demons at once. The snake around her neck slithers off and joins the battle solo, charging nose first into the heads of blood demons to kill them in fiery explosions on contact alone.
+
+I turn and activate water and earth bullets, slowing down the Blood Demons that come my way, but I’m far less concerned about killing them.
+
+From what my senses are picking up… they’re already dead.
+
+As demons are killed on one half of the room, their remaining blood and qi are drained into the ground and siphoned through the white array on the floor. They’re reformed on the other side and join the battle once again. From this scene before me, and the words of all the past Blood Demons I killed on my way here. I start to realize what the crimson circle surrounding this mountain really is.
+
+Even that level 10 Blood Demon, he is not the true mastermind.
+
+A loud roar of an injured bear echoes through the cave, and I turn to see Wang Ming fighting off ten Blood Demons all by himself. The invisible aura fluctuating around him feels so much like an acquired physique that it attracts the animalistic senses of these braindead demons.
+
+Jiang Ran eats handfuls more Blood Qi Pills to stay moving. He’s hit over ten times by blood qi swords, and his eyes slowly turn demonic and lost in the fury.
+
+Lan Xin’s fire fills half the room.
+
+With my cloak still activated, many of the newly spawned demons do not even sense my presence. They run straight toward the bright and loud enemies. Instead of a horde, only one demon comes my way every few seconds. It is manageable.
+
+With enough time to think, my attention keeps slipping back toward the center of the array.
+
+The sensation of an Illusory Demon keeps fluctuating in and out of my intuitive senses. It makes the dozens of late stage demons all around me feel harmless… pushing all my hair to stand up on end.
+
+I pull out talisman after talisman and begin racking up kills of blood demons myself.
+
+Though, the rapid activation is quickly dwindling my remaining supply. Soon, I’ll be in a bad position. I either need to slip away from this chaos or find a way to stop it.
+
+My pupils constrict as the stirring pressure in the center of the room spikes in intensity all of a sudden. A blurry white and grey humanoid figure seemingly steps out from thin air and scans the battlefield with jet black eyes.
+
+They track over me but seem uninterested, finally landing on Lan Xin who is killing the majority of Blood Demons and weakening the formation.
+
+“An Innate Spirit Grade Physique? You must have the highest quality soul I’ve come across in months.” the ghost-like being whispers, then disappears.
+
+A single white-grey fist appears in front of Lan Xin, unnoticed, and she’s struck in the chest.
+
+The fiery invincible woman’s eyes widen and the breath is knocked out of her. She’s sent flying backward in the same manner that she toyed with the 10th level blood demon before.
+
+As an echoing crack breaks open the cave wall and a calm man’s visage appears connected to the floating hand that struck Lan Xin, he’s about to take a step forward, but his head turns back toward me as I back away.
+
+“Oh come on, you’re not leaving until the ritual is over! These mindless demons may not have an interest in you, but I sure do. What other 2nd tier talismans do you carry? I have never seen Azure Lightning like that before!”
+
+A wicked grin grows on his pale face, and he disappears.
+
+There is a white flash of light that fills my senses, as the defensive talisman activated on me is instantly shattered and the final reflection defense of my cloak is triggered too. The man’s grey fist stops centimeters from my chest, and he’s sent sliding backward from the backlash.
+
+I’m disoriented for a moment, but watch as a system scan fills my vision.
+
+[Automatic Inspect Function Activated…][Phantom Lord] [Age: 151][2nd Level Foundation Establishment][Fire, Metal, and Earth Spiritual Roots][5th Grade][Acquired Illusory Demon’s Physique][Late Stage - Mortal Grade][No Innate Physique][Has lured a large amount of late stage Azure Cloud Sect cultivators to their demise. Requires stronger souls to assimilate with his own, allowing him to achieve the perfected stage of his acquired physique before falling victim to a total soul fracture backlash.]
+
+I pull out the small white jade sword artifact from my system storage and imprint it with my qi as fast as I can.

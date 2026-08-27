@@ -1,0 +1,131 @@
+---
+id: 639850cd-69b9-5639-b401-a221c3ff125b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 411: Elite Infected Rot Guardian"
+slug: 0448-chapter-411-elite-infected-rot-guardian
+partOf: dungeon-of-knowledge-complete
+position: 448
+ownLength: 2547
+unit: words
+ownProgress: 2547
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2680926/chapter-411-elite-infected-rot-guardian"
+royalRoadId: "2680926"
+markedReadAt: "2026-06-29T20:27:19.360Z"
+---
+
+Calen scanned the surroundings from his vantage point high above the ground, searching for threats while he maintained a steady rhythm of drawing and firing into the Mana Eater below. They had pushed much deeper into the dungeon of rot – by his reckoning, they were approaching the middle of what had once been Ali’s forest cavern, and a broad expanse of twisted trees and fungal growth spread out below him. It was a good thing that the mainly plant-based dungeon had failed to make many flying monsters. Beside him, he felt the pulses of intense heat and the prickle of lightning charges as Lyeneru kept up her barrage, both of them staying as far as possible from the debilitating mana spores the aberrant plant monster was pumping out into the air.
+
+Churning up the fungal creep down below, Mato, Malika, and Vivian tore into the woody trunk of the monster with furious attacks – their martial-style skills much more dependent on stamina than mana, allowing them to remain functional in the continuous draining spore cloud.
+
+The Mana Eater collapsed with a simple chime, and they pressed on, Calen calling out the camouflaged Putrid Pitcher Plant caps – pits of digestive acid and rot magic that were disguised to look like the Fungal Creep. But once they were identified, the pitcher plants were easy to destroy. He guided the group, carefully threading their path around the bulbous Creep Spawners, easily visible by the billowing clouds of spores that hung about them like a toxic greenish miasma.
+
+“Archers,” Lyeneru called out, pointing with her bow.
+
+Calen weaved in the air, dodging the sudden hail of arrows rising from the ground with a combination of high-dexterity flying and Mirage Armor, and fired down at the glowing pair of archers, easily visible from above the dark and twisted trees. Mato charged them, of course, but only earned himself a stun as they immediately disengaged, but by now, they had defeated enough of these that it was becoming routine. Malika and Vivian used their movement, teleportation, and Malika’s ludicrous Martial Disruption to harass them, interrupting the continuous stream of arrows, and then, as soon as he and Lyeneru didn’t need to dodge so much, they simply blasted them from the air above.
+
+“Mato, treants,” he called out as the Sylvan archer monsters died to their assault. “Let’s try to keep to the lake shore.” At least if they had a lake at their back, that would be some sort of barrier preventing the spawning and respawning monsters from interrupting them so much.
+
+Plague Oak – Treant – level 104 (Nature)Rot Sapling – Treant – level 93-101 (Nature / Death) x5
+
+The plague oak was a huge, hulking behemoth the size of an ancient oak tree with many thick, gnarled branches that swayed with unnatural strength and agency. Mato smashed into it without hesitation, tearing bark and sap from its trunk as it reacted with a shuddering quiver of pain and lashed out with heavy, creaking boughs that thumped heavily into the ground or cracked against Mato’s ribs and back.
+
+The three smaller, blackened treant saplings held back, not engaging with Mato. Instead, they hastily planted themselves, making their branches quiver as they waved about seemingly aimlessly. But suddenly, the air was filled with a torrent of dark bolts of black magic, and Calen was forced to teleport to escape the barrage.
+
+The Rot Saplings were relentless, and their aim was unerringly accurate as the bolts shifted to track his new location. He summoned four mirage images of himself, sending them zipping away in all directions, and flew under the magical barrage, turning his bow to the much more dangerous saplings and firing a volley of explosive arrows into their midst.
+
+You have gained Onslaught.
+
+In response to the soft chime and the sense of sudden acceleration, Calen snapped off an instantaneous Power Shot, burning nearly his entire stamina pool. His volley of arrows shook the ground with the heavy thumps of fire-enhanced explosions, and he weaved and darted, burning mana to accelerate his flight while he abused the short-duration haste from Onslaught to rain down several more volleys of arrows to detonate among the Rot Saplings. Moments later, they began to collapse into splintered piles of decaying branches and rotten leaves.
+
+They pressed onward, hugging the shore of the noxious lake, leaving a trail of black, toxic miasma as the Corpse Flowers bloomed on the bodies they left in their wake. Calen set a reckless pace through the cavern, pausing only long enough for Mato to use his Tree Form to cure the worst of the poisons or the most debilitating diseases, and regenerate mana after the prolific Mana Eaters. But there was little choice in their risky headlong plunge through the dungeon – with a respawn rate of only fifteen minutes, they couldn’t afford to waste even a moment, relying as they were on their kills to create a temporary island of safety that traversed the domain.
+
+Calen swapped bows, unleashing a few volleys with his Howling Hellfire Bow to leech some stamina before swapping back to his Cinderstrike. It was still his best bow, better even than the parasitic bows dropped by the Sylvan Archers, although he still burned with curiosity whenever he thought of the two bows wielded by the four-armed archer in the marketplace. We’ll have to come back and kill that later.
+
+He led them up the lake toward the grove, and finally, he caught sight of the towering obelisk of black stone, Ali’s shrine, the runes now dark and barely glowing.
+
+“The shrine is intact,” Vivian said, a hopeful tone in her voice. “Her name is still listed as the owner.”
+
+“Most likely, that means Aliandra should be able to recover it when we find her,” Lyeneru said, and Calen felt a sudden rush of something like relief from his heart.
+
+She’s still alive. But his eyes pierced the darkness, caught by a huge shape shifting slowly in the darkness and approaching the shrine. “Mato, incoming on your left.”
+
+Infected Rot Guardian – Elemental – level 119 (Nature / Rot)
+
+That’s Ali’s Forest Guardian, Calen thought as the details began to reveal themselves as his motes of light drifted overhead. Except it wasn’t. The hulking behemoth of wood and bark was blackened and decaying, large sections of its body had rotted away, exposing its seeping insides. Instead of the viridian green leaves sprouting all over its body, manifestations of life and nature, this monster was covered in black fungal growths and even deathcap mushrooms growing on its broad back.
+
+Calen focused closer on the monster using his Explorer skill to reveal any additional information he could glean.
+
+[Explorer]Category: Dungeon SpawnThreat Level: EliteMonster Type: ElementalDamage: Physical, RotKnown Abilities: Rampant Growth, Regeneration
+
+“It’s not a boss…” Calen said, studying the strangely intense mana within the monster. “It says it’s an ‘elite’ dungeon spawn.”
+
+“Definitely an Elite monster,” Lyeneru said. “Some dungeons make enhanced, more powerful monsters that are not quite bosses. Damage will be higher than normal, and it will have more health. Watch out for domain magic, they sometimes have an extra ability.”
+
+“Boss strategy then,” Calen said, earning a simultaneous nod from Lyeneru and Vivian. He had, of course, read all about elites, but this was his first time seeing one, so he memorized the strange interplay of mana that flowed within it.
+
+Mato didn’t bother waiting; he charged the much more massive elemental, crashing into its side with a roar and a heavy swipe. The ground instantly erupted with fungal growth and rotting thorns and brambles, and a heavy, thick greenish miasma rolled outward from the giant creature, causing everything it touched to suddenly start rapidly decaying.
+
+Malika teleported in behind Mato, sending her healing magic pulsing outward and making bright spherical ripples in the air as she unleashed rapid punches and kicks, while keeping the rot from claiming Vivian and Mato.
+
+Calen conjured his arrows and began firing rapidly down into the decomposing back of the guardian, running his quick rotation to determine the relative effectiveness of grappling shot, armor piercing, and explosive damage on the new monster. Domain mana pulsed within the rot elemental, coalescing into several sharp, dense formations nearby, which pulsed for a second and then vanished, and in their place stood five freshly summoned Rot Saplings.
+
+“Summoning domain ability,” Lyeneru said, confirming his fears.
+
+Calen reacted instantly, launching his mirage illusions to confuse their aim, and switched to multishot with explosive enchantments, raining down volleys of arrows into the saplings below.
+
+The domain mana pulsed a second time, and another cluster of Rot Saplings materialized.
+
+“That’s quick! This is going to get out of hand fast,” Calen said. The Rot Saplings stood within the dense aura of rot emitted by the Infected Rot Guardian, and it was clearly healing them rapidly, and the more of them there were, the more the air filled with accurately launched bolts of black rot magic.
+
+“I’ll help with those,” Lyeneru said, unleashing a stunning volley of flame and lightning into the Rot Saplings.
+
+It was a few precarious moments while more and more blackened saplings appeared, but slowly, he and Lyeneru began to overwhelm the rot aura, and the first of the twisted, animated trees began to topple under the onslaught of their fire and magic.
+
+You have gained Onslaught.
+
+As soon as his buff triggered, Calen unleashed his maximum power, raining down a deafening barrage of explosions, and they began to gain the upper hand. He immediately swapped bows, leveraging Onslaught’s haste to carpet the ground with a round of hellfire detonations before switching back to Cinderstrike. He grinned at the smoothness of the transition he managed to pull off, but the murky, black waters of the lake rippled and swirled, and dark shapes began crawling out onto the banks.
+
+Devouring Consumption – Great Ooze – level 102 (Nature / Death)Rot Ooze – Ooze – level 87-90 (Nature / Death) x3
+
+“Adds,” he called out. “Oozes from the lake!” He kept up his assault, but the huge black and green undulating blob shot out tentacles and protuberances that lashed the banks of the lake, searching hungrily, as if by touch. As they encountered the corpse of a Rot Sapling, it suddenly shifted, moving with uncanny speed for a blob of slime. It sucked itself up the bank through its own pseudopod and plopped down on top of the corpse, rapidly ingesting it.
+
+“Shit, it’s growing.”
+
+“We need to get on top of the spawns,” Lyeneru hissed.
+
+Calen had a seven-arrow multishot now, but it wasn’t even enough. Running the calculations in his head, he quickly concluded that they were about to be overrun, especially with the Infected Rot Guardian’s putrid aura of rot magic healing everything. The domain mana surged again as it summoned another set of Rot Saplings, and Calen made his choice.
+
+There was one way he could drastically increase his damage, but it required giving up the advantage of flight – he needed to get onto the same level as the rapidly growing horde. He swooped down toward the ground, his boots squelching on the creep as he landed, and then he took aim with his full spread of seven conjured arrows, manually channeling several seconds of stamina to boost the power of his bow. Right before he released his volley, he triggered Righteous Fury, feeling the searing burn of his mana igniting within him. His arrows surged in radiance, and he unleashed a tight fan of arrows that punched through the monsters, taking advantage of his Spirit Arrows to pierce through the monsters, hitting all of them. Each and every arrow exploded on impact, detonating with light and flame magic. But it was the piercing skill that truly shone in this scenario – his arrows pierced each monster, continuing to the next, and triggering the enchantments again and again until the arrows flew out of the other side of the melee group and soared across the lake.
+
+You have gained Onslaught.
+
+He could already see the effects of Cinderstrike, Longbow of the Heretic taking hold. Most of the monsters were visibly moving slower, victims of his bow’s on-hit Slow curse. The flames still flickered, lingering on the vulnerable plant monsters. Not one to let his Onslaught go to waste, he immediately spent almost all his stamina on the instantaneous Power Shot triggered by the onset of Onslaught. He retained barely enough for one more shot as he fired a greatly empowered volley to follow the first. Using his familiar strategy, he smoothly switched to the Howling Hellfire Bow, wincing at the demonic scream as the third volley laid out hellfire and immediately replenished his eviscerated stamina pool. He switched back, feeling the radiating heat from the backdraft of his own explosive arrows, and continued firing at high speed.
+
+“Nice work,” Lyeneru said. Taking advantage of his sudden soaring damage potential, she unleashed her fire and lightning, raining it down from above in deafening thunderclaps and detonations, both of them relying on Malika to keep Vivian and Mato alive through the onslaught.
+
+Finally, the chimes started sounding, somehow magically audible even over the deafening roar of continuous rolling explosions.
+
+Your group has defeated Infected Rot Guardian – Elemental – level 119 (Nature / Rot)Your group has defeated Devouring Consumption – Great Ooze – level 102 (127) (Nature / Death)Your group has defeated Rot Ooze – Ooze – level 87-90 (Nature / Death) x3 Your group has defeated Rot Sapling – Treant – level 93-101 (Nature / Death) x35
+
+Silence finally descended over the lake shore, and all of them backed up into the grove to avoid the freshly sprouting corpse flowers. With no attackers for a moment, he sat with his back against Ali’s shrine and checked his notifications.
+
+Realm Hunter has reached level 120 (+5).+50 attribute points.
+
+The Infected Rot Guardian had been worth a whole level on its own, which was unheard of for a non-boss monster, but he supposed the Elite monster having a domain magic summoning skill was a substantial increase in risk. The other four levels had come from defeating the Grim Stalker earlier, and the long string of monsters they had tangled with along the way.
+
+Radiant Archery has reached level 70 (+2).Arrows of Brilliance has reached level 66 (+3).Motes of Light has reached level 47 (+2).Explorer has reached level 66.Blessing of the Dawn has reached level 47.Eyes of the Archon has reached level 43 (+2).Righteous Fury has reached level 43.Azrael's Wings has reached level 30 (+2).Mirage Armor has reached level 45 (+3).Bowcraft has reached level 12.Cartography has reached level 22.Basic Daggers has reached level 4.
+
+Some nice progress, hopefully it makes it easier to reach the rift. Calen sighed, then puffed out his cheeks in equal parts satisfaction and frustration. None of this brings Ali back. Hope she’s not struggling too badly, wherever she is.
+
+Recalling his last attribute distribution curves, he spent fifteen on dexterity, thirteen on perception, and fourteen on intelligence. Then, he split the rest evenly, spending two points on each of the other attributes. He rolled his shoulders and twisted his back to iron out a few tight muscles. Right, this should help.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

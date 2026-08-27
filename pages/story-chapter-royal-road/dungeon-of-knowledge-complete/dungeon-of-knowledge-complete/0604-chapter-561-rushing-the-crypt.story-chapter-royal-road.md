@@ -1,0 +1,171 @@
+---
+id: 7250d48e-a0e6-5a91-a127-b2b2dad460a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 561: Rushing the Crypt"
+slug: 0604-chapter-561-rushing-the-crypt
+partOf: dungeon-of-knowledge-complete
+position: 604
+ownLength: 3337
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3136579/chapter-561-rushing-the-crypt"
+royalRoadId: "3136579"
+---
+
+Mato shook his head and stomped his front paws to loosen up the muscles and shed the last jittering tremors of the last fifteen minutes of lightning assault upon his body. According to the scouts, the room was clear, besides the Well and its guardian, but even if they hadn’t said anything, the fact of Calen’s Motes of Light patrolling the entire amphitheater would have told him that nothing invisible remained.
+
+“We’re ready, Mato,” Calen said, all nine images of his mouth moving in unison. His friend had grown strong.
+
+“Right,” he said, puffing air out through his cheeks as he steeled himself for what would follow. With a flicker of thought and a sliver of mana, he summoned his elixir to his mouth and bit down, filling his throat with the sweet nectar of the Eternal Reverie and fortifying his mind. “Going.”
+
+With a thunderous roar, Mato charged the Well of Eternity as if it was a monster. Honestly, he hated the thought of fighting this thing again, and despite his outwardly calm demeanor, his stomach churned. The only good thing was that it should be the last time, and wiping it out would hopefully help Ali shed that cursed title.
+
+Maybe I am a little afraid, he thought. Not to be after the horror they had experienced the first time around would be far more absurd, but the thought that he may be helping his friend steadied his nerves more than he might care to admit. He never wanted to lose that core of caring, no matter how powerful he became.
+
+As his Charge carried him to the edge of the Well, the waters erupted. Black tentacles burst from beneath the surface, spraying the strangely dense liquid all over and drenching his fur, but that would hardly be his biggest worry. His eyes caught sight of the monstrosity with the sensation of a shard of glass being dragged across a mirror. He clenched his jaws painfully tight – hoping against hope that the physical sensation might help resist what was to come.
+
+B̴͈̟͒ạ̵̾̀̄̚a̷̪͚̙̎ͅo̸̯̞͖̓̌͘h̷̻̃͑͌͠t̵͙̮͂͆̍͜ ̵̤͛͐̇̋Y̷̥̙̎͆̒͝l̶̗͆̀̈́ͅl̵̤͖̼̞̈͆́̿'̵̤̲̟̫̇̐̊̔s̴̘͕̊̈́͑̃h̸̦͚̼͋̐̈́́u̵̱͚͂̃̕u̶̡̙̗̩͑m̷̢̛̟͋̓ [Devourer of Dreams] – Undead Eldritch Monstrosity – level 232 (Death / Mind)
+
+Treacherous whispers just below the threshold of understanding welled up within him, twisting and tearing at his mind like rusty daggers ripping flesh. Urges mounted, the unnatural desire to turn around and attack the enemies behind him, slash their throats, and revel in their blood.
+
+Gasps and screams welled up from the raiders following in his wake, but Mato could only hope the healers and support casters could help them. Someone had already lost control, and people were shouting back and forth.
+
+For his part, Mato found the experience far worse than the first time. Being a witness to one’s own mind being flayed by an eldritch being was hardly something he would recommend; however, Mato took it as a good sign. The first time around, he’d lost his mind so fast he still couldn’t even remember the encounter, but he had far more wisdom now, and his mind was fortified by a small fortune in elixirs and wards. He brushed off the Reverse Taunt and the opening mind-magic attacks like one might ignore a headache. A particularly nasty headache, to be sure. Frustrating, annoying perhaps, but ultimately not about to make him turn around and kill his friends.
+
+He roared again, taunting the boss. Not that it would really work well against an eldritch monster specialized in mind magic and twisted insanity, but good old-fashioned damage should work just fine. His claws ripped through the eldritch, twisted flesh much more easily than he’d hoped for. Void magic sliced through a tentacle with a violent squelch, eliciting a mind-twisting hiss from the monster that seared deep into his brain, and a spray of black, viscous blood-like ichor. Then the parasitic nightmares turned the ground into a seething mass, seeking to infest him with their will-sapping touch.
+
+He lashed out, slashing dozens in a single, sweeping blow. His Lirasian Sage and Ali’s priest dumped consecration around his feet, and still they swarmed over his fur, biting and slashing. He felt them stabbing him in a dozen places and, although taking damage was his bread and butter, he shuddered as the parasites began boring into his flesh.
+
+“Get this shit off me,” he snarled, choking down the bile that rose in his throat at the crawling sensation of having a living monster burrowing inside his skin.
+
+“Scorched earth, cleanse those parasites now!” Calen yelled.
+
+Wait, I have the void shields! Mato suddenly realized that with just a little mental nudging, he could move the black, sizzling shields about. More importantly, he could move them closer to his own hide. As the glorious, searing pain of cleansing fire rained down upon him, he set about scraping the parasites off with the edges of his void shields, relishing the sizzle and squeals of pain as they began to burn. Huh. Good thing the fur regrows each time.
+
+Several minutes later, Mato’s chime sounded – far too early for a win. Puzzled, he glanced inward and then chuckled at what he saw.
+
+You have earned the title: Friendly FireYou have taken enough fire damage from allies to kill yourself more than ten thousand times over, and yet, you still live.+10% to resistance against Fire damage.Title
+
+It was far too good an opportunity to let slip by, so he temporarily swapped out his title display for the new one, and the moment he did, he heard several chuckles and snorts as the more observant in the party noticed.
+
+At least that’s one thing fun in this fight, he thought as he bit down hard on the strangely resilient flesh of the monster. Time to die, you sick mind sucker!
+
+Ali hung back near the wall of the amphitheater, studying the Well of Eternity and the giant waving tentacles that were covered with gibbering mouths and slavering fangs, using Nendir’s piercing celestial eyes. A torrent of parasites erupted from the Well, summoned by the almost intelligible threads of eldritch magic, but she ignored them and the sudden staccato blasts of fireballs detonating right on top of Mato.
+
+She simply stood there, eyes wide, staring at the Well. It shone with a shimmering radiance, clearly visible to the Eyes of the Archon of her soul-affinity celestial. A sight that was at once so familiar that it seemed ordinary and yet, filled with a sudden realization that changed almost everything.
+
+It looks just like Authority!
+
+The power spilling out of the Well was twisted, warped into the Spirit Realm somehow, a function perhaps of its soul magic. No, that’s death affinity, Ali corrected herself. The Well of Souls was filled with soul mana. That was not the case here; the Well of Eternity was a fount of death-affinity mana, but the resemblance was uncanny. No wonder Nevyn Eld happily destroyed nations to get his grubby claws on them. She had no idea how exactly it might be used, but clearly the Blind Lich had figured out something important, and she was willing to bet it was related to Authority… somehow.
+
+With that realization, several important clues slipped into the forefront of her mind, clicking together like an interlocking puzzle. His obsession with attacking her at Aalion was suddenly explicable from this new perspective, as was his instant response to the realm notifications, and even his push through to Myrin’s Keep, virtually ignoring the nascent god Lira had become.
+
+If he could, he’d be attacking Ciradyl again. He knows I have them.
+
+Ali shuddered at the insight, her skin crawling, both within her Soul Archon and back home in the Forest Cavern, sitting safely beside her shrine.
+
+“Attack!” Calen roared.
+
+Ali instantly snapped back to attention, redirecting her focus to the unfolding battle. Mato must have dealt enough damage to hold Baaoht Yll’shuum by now. Several dozen familiar ugly black orbs popped into existence above the Well, and she raised her bow and unleashed thirty arrows all in Rapid Fire. Soul magic flared instantaneously, a soft blue-white radiance that reminded her of Malika, and then the eldritch eyes began to fall like rain, many of them before they even opened their gruesome lids, revealing the crimson gaze of insanity or fired their beams of death magic. A fraction of a second later, the Pathfinders and archers in the guild followed suit, filling the air with searing arrows that detonated on impact, and the final battle for the Well of Eternity was on.
+
+Ali wove Soul Shroud about herself – her celestial minion – deepening the power in the shimmering shroud that cloaked her body, and the world around her grew clearer, more focused. She didn’t quite know how the magic really worked, but it certainly had something to do with the Spirit Realm. At least she knew what it did; she was now rendered invisible to almost all forms of sight she had tested, and many other senses, too. She drew her bow – Nendir’s legendary bow, Lunaré’s Lament – and poured her stamina into Power Shot.
+
+Is this what Calen feels? When her skill reached full power, she released the bowstring, launching an arrow crammed with so much soul magic it seemed about to burst. But she was not yet done. She activated Heavenly Strike, Soul’s Tears, and Soul Seeker.
+
+The arrow grew, swelling to the size of a lance and filling her archon’s eyes with a vision of barely contained power. Her shroud of concealment stretched with the missile, enveloping it like a delicate soap bubble, cloaking it from all eyes. It drew out, longer and longer, until it pinched off, forming a separate cloak that followed the giant arrow across the amphitheater.
+
+When it struck, Ali was stunned into stillness for a moment. A detonation burst from the point of impact as the giant arrow impaled the eldritch monstrosity in the midst of clawing its way out of the Well. The stacked abilities compounded, all multiplied by Ambush and her enormous slayer bonus to damaging undead. Dark chunks of eldritch flesh flew across the length of the amphitheater, turning the battlefield into a gruesome rain of dark blood and rubbery bits – an eerily silent explosion that nonetheless shook the very soul.
+
+“Shit, Ali! What the heck was that?” Calen gasped, eyes wide and staring at her.
+
+“Ambush,” she answered, speaking through the voice of her Soul Archon. “And a few other little things to spice it up.”
+
+“Can you do it again?”
+
+“As long as those eyes are dead,” she answered.
+
+“On it,” Calen said, firing his arrows eagerly into the air above the boss.
+
+“Bloodlust!” Lyeneru called.
+
+Oh! Now, this should be fun! Ali thought. “Joraa, you’re up!”
+
+“At once, Seeker,” Joraa intoned, but Ali could hear the grin even without seeing the canny troll’s face.
+
+Not only had the signature skill of the blood-wielders of Aman Rak advanced during one of the paths of his second evolution, but Ali had empowered it with her domain. A tsunami of blood erupted from the Troll in the midst of the melee, a wave that rushed over everyone, splitting off into giant runes that orbited their heads, dripping power into their muscles and skills. Eyes turned bloodshot, and voices shifted register as the grip of Bloodlust took hold.
+
+“Holy…”
+
+“What the heck!”
+
+“That’s new!”
+
+Ali grinned, splitting her focus into a new Power Shot while directing her Fractured Archon to begin concentrating his light beams and boost the summoning of his radiant orbs.
+
+The resurgent raid tore into the eldritch monstrosity with a frightening level of frenzied energy, looking for all the world like they were cultists locked in the final throes of an immense blood ritual.
+
+Perhaps they were.
+
+Ali grinned happily at the incredible sight of her minions tearing into the eldritch monstrosity that infested the Well of Eternity. While she monitored her minions’ minds, ensuring that none of them faltered, she was more than a little grateful she wasn’t there in person and that they were finally taking out the source of her despised, cursed title. Of course, they would need to wipe out the domain that respawned it too, but it was progress, and if it didn’t work, there was always the elixir.
+
+An array of Fractured Archon images rippled out in a line, hovering up against the wall just a little below Calen’s flying images. Power hummed within them, and their eyes blazed as they seared the room with a cascade of concentrated beams of light that sliced through parasites and tentacles like a Holy Avenger sword slicing through zombie flesh.
+
+Down below, her Soul Archon unleashed repeated devastating Ambush attacks from behind her unassailable veil of invisibility, and the rest of her minions tore into the eldritch monstrosity with their potent enhanced abilities and domain magic skills.
+
+The plan is holding, she decided. It was far too soon to declare victory, or even to invite disaster by guessing it, but so far, the few members of their team who had been Exiled or lost control had been quickly contained and restored with the judicious application of dispels and buffs.
+
+Spending a precious point of Authority each to add Joraa and the third-tier Fractured Archon to the team had been well worth the cost. Just the amplified Bloodlust alone, multiplying the raid’s total damage output immensely, had already taken nearly half of Baaoht Yll’shuum’s health. Unless the entity had something more, something new, the raid should beat it down soon enough.
+
+Ali’s main focus returned to the peaceful grove and the shrine, as her mind was recalled to the more local problems of an army of Death Knights encamped beyond the battlements. She still maintained full awareness from the perspective of each and every minion in the fight, of course, but she had more work to do. Her remaining minion guards stood about, quietly awaiting her orders, while the troll raid boss she’d created to guard the shrine stood a silent vigil to the side with his minions. They were less than half the level of her guards.
+
+I have one more point of Authority. What should I spend it on? Hmm…
+
+Her eager imagination immediately supplied a flurry of ideas, ranging from the crazy to the mundane. A Fractured Archon upon the battlements with Undead Slayer. She could see the devastation those synchronized eye-beams would cause, creating cauterized slashes across the Lich’s armies. A Soul Archon champion using undead slayer and Deadshot to assassinate the most dangerous monsters from range, all without breaking that impressive veil of invisibility she had just experienced firsthand. Perhaps she could make another Divine Archon anchored near the Well of Divinity for the extra potency, and a Gate linking to the battlefield. The archon would be able to step through and fight but still be close enough to the Well to benefit, just like Tol’brekk once had when they’d fought the Headhunter. Or like Haverron assaulting her domain at Aalion. No, that’s a dumb idea, she decided, discarding it as far too risky. I’d just be inviting his entire army to assault the Well of Divinity. Expanding her domain out over the Blind Lich’s forces through the Spirit Realm and anchoring a spirit boss to ambush them from the safety of the other side of the veil might be far more effective, though. Although the Blind Lich had demonstrated some mastery of the Spirit Realm himself through his runework.
+
+Too many ideas! What do I do?
+
+Ali glanced over at the shrine guardians. Spending her Authority on upgrading them would be a waste – they were level one hundred, chosen specifically to provide the final challenge for those seeking class evolution. Once, she had considered them an important part of her defenses, but now, with monsters over a hundred and fifty levels higher, they were sadly worthless to the cause.
+
+Ali evaluated, sorted, and shuffled her ideas with extraordinary speed, filling in new and even crazier approaches as her skills and experience revealed new combinations she might try. And all in a matter of moments, as her extraordinary spell haste boosted the speed of her cognitive abilities.
+
+But then, right in front of her, a dark line sliced through the air with a ripping noise like the sound of sharp claws tearing silk. It expanded sideways like the lids of a vertical eye, opening a shimmering hole that led elsewhere. Before she could even move, Tol’brekk and her Divine Archon leapt between her and the dark portal.
+
+It shimmered ominously, and a dark figure emerged.
+
+Devastation Knight – Undead Dragonkin – level 260 (Ice).
+
+The towering undead knight was larger than any she had seen, save Haverron. It was clad in burnished and enchanted mithril plate that gleamed in the light of her wisps and glowing mushrooms, and an immense pressure and glacial coldness rolled off it in waves that froze the grass and moss instantly and then crushed them.
+
+“The Master requires your life.”
+
+The Devastation Knight’s hoary voice clung to the icy air like the winter’s bite, promising death. Ali had believed that, with the exception of the Three Kings Calen had scouted, Haverron was the Blind Lich’s most deadly Death Knight, but here, standing before her and crushing her plants with the mere weight of his presence was a being on a whole different level.
+
+A third-tier Devastation Knight, and it was staring at her.
+
+The aura of despair rippled about the monstrous Knight, battering her mental defenses as Ali first reeled at the unexpected directness of this attack, before she gritted her teeth and balled her fists. No. She’d give this Knight a real fight.
+
+With a contemptuously indifferent gesture of a gauntleted hand, a spray of ice lances lashed out to one side, impaling the shrine guardians that rushed toward him.
+
+Your Bone Champion has died.Your Bloodwielder of Aman Rak has died. Your Spirit Walker has died.
+
+A third tier-Death Knight, and it wasn’t even named. Haverron was not even close to the pinnacle of the Blind Lich’s power if he could pull out something like this.
+
+“Defensive formation,” Ali said, as she kicked herself into action. She was not defenseless, regardless of how powerful the foe seemed to be. “Kill that Devastation Knight.”
+
+“Begone, spawn of evil!” the Divine Archon answered, drawing her shining sword.
+
+“I think I will introduce this oaf to my axe,” Tol’brekk announced, grinning from tusk to tusk as he used his newest Speak skill to emulate the weight of the Archon’s voice. He had studied hard in the library to earn that one, claiming it would benefit his poetry.
+
+The Divine Archon swung her sword, a ringing blow that was blocked squarely by the Devastation Knight, and Tol’brekk roared as he came down on the Knight’s back, axes blazing. Ali flung up several domain-enhanced barriers and wielded her mana to deconstruct the portal, but immediately found it to be resistant. In response, she glared past the Devastation Knight, rapidly cataloguing the threads and strands of the formation so she could dismantle it instead.
+
+But as the tier three monsters squared off, the portal behind the Devastation Knight shimmered again, stretching wider like a balloon, and it belched forth three more Death Knights. They emerged to the swishing sounds of glowing rune-blades leaving sheathes, and they tore into the last remaining shrine guardian – the only one to survive the initial salvo.
+
+Your Mage of Piercing Frost has died.
+
+A chilling shudder shot through Ali’s heart that had nothing to do with ice magic. Her chest tightened, and she broke into a cold sweat as her senses pierced through the hazy, dark portal, revealing countless ranks of undead pressing forward to enter. Aah, shit, this is bad! Immediately, she dropped several thick barriers down, containing the breach, but she knew with stone-cold certainty they wouldn’t hold. She knew exactly what lay on the other side.
+
+The heart of the Blind Lich’s army.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

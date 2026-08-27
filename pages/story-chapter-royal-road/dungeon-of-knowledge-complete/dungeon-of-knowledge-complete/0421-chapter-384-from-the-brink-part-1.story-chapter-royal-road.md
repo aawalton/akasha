@@ -1,0 +1,123 @@
+---
+id: de05624e-e18d-504d-9e96-fa9f7a8a0eae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 384: From the Brink (Part 1)"
+slug: 0421-chapter-384-from-the-brink-part-1
+partOf: dungeon-of-knowledge-complete
+position: 421
+ownLength: 2062
+unit: words
+ownProgress: 2062
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2615332/chapter-384-from-the-brink-part-1"
+royalRoadId: "2615332"
+markedReadAt: "2026-06-29T20:26:18.032Z"
+---
+
+Ali groaned, rolling over sluggishly, her confused mind struggling to grapple with the pain that dogged her relentlessly. Her ribs ground against a protruding rock, and the sudden sharpness of new pain told her addled mind she was not in bed, nor even in her sleeping bag in her little tent.
+
+But it was the piercing howl reverberating through her bones that snapped her awake and alert in an instant. She lunged into a sitting position, fully intending to spring to her feet, but a wave of pain and dizziness hammered into her. She gasped and wobbled as her vision swam, dimming dramatically for a moment.
+
+Where… where am I? I feel like the rough end of a sewer tunnel… before my mushrooms cleansed it.
+
+She pried open eyelids that felt like they’d been glued shut and gazed about at the reddish, blasted landscape, her eyes instantly drawn to the demonic Hellfire Warg at the tunnel entrance in the distance. Both squat, mean-looking heads were raised, one sniffing intently and the other letting out a howl that was accompanied by flickering tongues of black flame and floating sooty smoke.
+
+Immediately, she reached forward and summoned a barrier, but nothing happened. She stared at her hands in dismay. Wha… Something was wrong. Very wrong. Her mind couldn’t seem to grasp it somehow, wrestling with the impossibility of it all – the place, the dry, scorching heat, the burning warg, and her inexplicably absent connection to her magic.
+
+Mana…
+
+In the haze of confusion, and against the background of her throbbing headache, she opened her status and stared aghast at the numbers.
+
+Health: 413/703 (-11% Life Channeling)Stamina: 15/360Mana: 36/26775
+
+It took several moments for the implications to percolate through her pain-addled brain. Extensive time spent without mana could cause mental confusion, unconsciousness, and was generally considered a very bad idea. Somehow, she remembered she had a skill for this…
+
+A moment later, it came to her, and she wrapped herself in the soft aura of Inspiration.
+
+Instantly, the fog in her mind began to lift. The throbbing right there behind her left eye began to fade and, as her mana began to tick up, she noticed several other critical things in her view.
+
+Calen lay sprawled beside her, face down, with his limbs tangled as if he’d been tossed there by an explosion. Aside from an irregular rising and falling of his ribs, he remained unmoving with his bow resting against the limp fingers of his right hand.
+
+To her left, there was a tiny sparkling crack in the fabric of reality – a minuscule rift through which drifted a fading trickle of her domain mana, along with a ravenous cloud of pretty, glowing blue spores.
+
+At the distant tunnel mouth, the Hellfire Warg’s heads both snapped around to stare directly at her. It howled loudly and sprang into a run.
+
+This… this is the Abyssal Realm! How… why am I here?
+
+Somehow, she was lying injured beside an unconscious Calen on the far side of an inexplicably tiny rift – like a metaphysical pebble had been thrown through the glass window of reality, leaving a network of slowly healing cracks radiating from a fist-sized hole – without any stamina or health. And she was staring down the twin hungry gullets of an angry demon wolf.
+
+She glanced at her mana and snapped up her barrier at the last moment. The wolf smashed face-first into it, yelping in pain. Immediately, she reactivated Inspiration and reached for her minions, only to find an awful emptiness. A silence. Nothing.
+
+Where are Mato and Malika?
+
+Where is my domain?
+
+Where are my monsters?
+
+She reached out again, but, try as she might, she could find no connection to her summoned monsters. Her mana was far too low to be right – and she had no mana reservations. The library and the Elder Tree within it seemed inexplicably missing, completely invisible to her senses.
+
+Where she usually sensed the Emberforge Mines or her Forest Cavern, she felt only emptiness – a scary void that shouldn’t be. The only thing she could feel was the fading pain of dungeon rage, a rapidly unraveling piece of her domain at the Temple of Aman Rak, which showed her the corpse of her Subterranean Brood Queen being swarmed by fungal monsters, and a small section of a cavern in Naia’s dungeon beside her second Gate.
+
+She swung the barrier around to block the wary second attack of the now much more cautious Hellfire Warg.
+
+Down in that tunnel so far away below Toria, she saw hundreds of monsters pouring through the Gate into Naia’s cavern, cramming themselves through the pristine white spatial ring in their frenzy to tear through the slimes that desperately tried to hold them at bay.
+
+Naia is losing.
+
+It was painfully obvious that the little slime had nowhere near the forces to stand against the deluge of rotting monsters that poured through the Gate and into her cavern system. It was the only remaining part of her domain that Ali could sense, but still she reached out toward it and deconstructed the Gate. This time she was not stopped, her deconstruction completed, and the Gate evaporated. The spatial connection shut with a loud burst of mana, leaving several fungal monsters sliced cleanly in half. As the mana was returned to her mana pool, the remains of her domain unraveled, and she suddenly lost sight of the fight.
+
+I’m sorry, Naia. I wish I could do more.
+
+Ali shifted her barrier again, blocking a vicious bite, fervently hoping her small act would be enough for Naia to survive.
+
+Then, in a rush, her memories flooded back.
+
+Aunt Lira… oh no…
+
+She saw herself standing against him. She remembered the now-hollow and worthless hope rising within her – hope that she might be able to withstand his death magic like her mother once had. Instead, she found herself looking down on the blasted and broken body of Lira, who had stepped in the way of his Decrepify to save her. She had given everything.
+
+She heard with perfect clarity the horrific incantation, the word he spoke, and saw Lira stand once more, but this time as his undead servant. Denied even the return to the cycle of life and death she would have wanted, instead forced to embody that which her entire existence had stood against.
+
+Ali stared through blurred eyes at the Hellfire Warg, held back by nothing more than her will and meager barrier, and she let it drop. The slavering mouths opened wide, and hellfire kindled within their throats, surging up and out toward her. She welcomed it. She welcomed oblivion.
+
+A pained, choking cough pulled her eyes downward, and she caught sight of Calen just beginning to stir, but lying helpless on the ground between her and the demonic warg. Her barrier sprang up, almost unbidden, taking the full force of the twin hellfire breaths and deflecting them up into the air over her head. Regardless of how huge the void in her heart was, she could not let Calen die.
+
+Juggling the barrier to keep it between her and the warg, she reached into her storage ring and retrieved her last two recall potions. Over at the far end of the cavern, new figures shifted in the shadows, more demons drawn to the activity.
+
+I need to get him out of here. Ali flung the first swirling vial, shattering it on the stone next to his head, and an enormous surge of mana filled the sudden billowing black, sooty cloud of smoke, making Calen vanish in an instant. She released the breath she had been holding, relieved to see him whisked to safety. She took a fresh breath, shoved her barrier back in the warg’s face, and dropped the last vial onto the ground by her own feet.
+
+It shattered, shrouding her in smoke, and she sensed the mana gathering quickly around her – an ingenious contrivance that used the essence of the smoke to distribute the structure and create the formation. But something was wrong – she could instantly tell. Oh no… Most of the formations remained dark and unpowered. Work, you stupid thing! Desperate now, she tried to feed it with some of her own meager mana as her frantic mind realized that Calen’s teleport to the Myrin’s Keep locus from another realm had probably drained the receiving mana battery dry. There hadn’t been nearly enough time for them to recharge it. But the magic formation of the recall spell was fashioned from smoke-affinity mana, and her arcane and nature mana simply passed through the formation without effect.
+
+Nor would she have had enough mana, even if it had worked.
+
+A few seconds later, the entire formation collapsed, fizzling out with the dissipating cloud of smoke, leaving her to face the angry warg from the other side of her barrier, completely stranded in the abyssal realm.
+
+There were no more recall potions – whatever ones there may have been, had gone with Calen to Myrin’s Keep in his storage ring. Perhaps she could make some fresh vials, but that required mana she did not have, mana she was using to fend off a demon.
+
+Part of her felt disconnected, stunned by all that had happened. Grief burned hot and heavy in her throat; she felt barely able to breathe, let alone think. First mom, now Aunt Lira. Why?
+
+She eyed the shrinking rift. There was no way she was fitting through the tiny hole, which was all that remained of it. She watched it for a moment, seeing the tiny remnants of what was probably the last of her domain seeping through the crack.
+
+What happens when it closes? Without a domain, would she simply rot here in the abyssal realm, waiting for the domain withdrawal to kill her painfully? Or would she become demon food?
+
+She looked at the tiny fraction of mana she had gained from blocking the hellfire breath and deconstructing the Gate, and then she looked at the rift again. A desperate idea clawed its way into her mind. The kind of idea that occurred because there was no other choice, not because of any particular merit it may have.
+
+She knew this, she recognized it. She didn’t have nearly enough mana for Arcane Recall, so she used the second option she had gained from her Life Channeling advancement: she spent health instead. The howls and biting of the demonic warg ceased as it froze. The landscape changed from reddish to grayish, but the spirit realm version of the abyssal realm looked almost as barren as the real thing. The only color was coming from herself and the golden barrier that seemed to have a projection into the spirit realm also.
+
+Ali took a step toward the rift, still amazed she could now move during her Arcane Recall. She walked over to the rift and bent down to examine the tiny crack. It was sparkling here in the spirit realm too, and still slowly shrinking. She could sense the crack lines extending far past the opening, where the fabric of reality had pressed shut, but hadn’t truly healed yet, but she knew she had no means of reopening it. Cael may have had some luck with his space magic, but she did not have his intuition, nor his easy access to the required affinity.
+
+She opened her Grimoire and paged over to the first chapter she had ever learned and emptied her entire remaining mana pool to summon Verdant Moss. She ruthlessly crushed thoughts of the future, and how she was going to survive the warg without mana. Without a domain, it wouldn’t matter. Her spell completed rapidly, and Arcane Recall expired, dropping her dizzy and staggering back into the real world. She landed with a thump, sitting on a small patch of the familiar green moss, not much larger than the minimum her small body required to sit upon.
+
+Grimoire of Summoning has reached level 48.
+
+She pushed down the disorientation from once again emptying her mana pool and activated Inspiration, dragging her barrier back over to where she was sitting. The surprised warg turned and charged at her new location, but she introduced it to her barrier once again.
+
+I need more mana.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

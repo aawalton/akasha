@@ -1,0 +1,145 @@
+---
+id: d53ca24a-804f-5efa-a7ce-854d9247bf83
+page-type-slug: story-chapter-royal-road
+title: "Ch117 Emergency Quest"
+slug: 0117-ch117-emergency-quest
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 117
+ownLength: 1978
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3801800/ch117-emergency-quest"
+royalRoadId: "3801800"
+---
+
+A sour expression forms on my face as I read Lan Xin’s updated system secret.
+
+Her bonded serpent swims to the surface of her bright, flaming body, and its eyes lock with mine.
+
+The spirit beast gives off an extremely sharp aura of its own, far more powerful than any armored lizard or blood demon I’ve fought in the past. Truthfully, it is nearing the level of intimidation I remember from the Phantom Lord.
+
+Its soul is tied to Lan Xin’s, and all of their emotions are wide open to see, filled primarily with fear. The beast cannot leave her body and destabilize the soul bond worse than it already has.
+
+The spirit vein beneath us shudders violently and starts to shrink. Portions of it break off and burn in the flames of the surrounding aura, dissolving into raw qi to be devoured by Lan Xin’s flames.
+
+The qi is being used as extra energy to stabilize her physique and fragile dantian, as her soul is not strong enough to be the anchor alone.
+
+My own physique starts to quiver, so I take a step back, contemplating my next move.
+
+This woman is becoming increasingly complicated to work with recently.
+
+I’ve already spent dozens of upgrade cards on her fire stones, and now she’s destroying one of my spirit veins and having a mental breakdown over me rejecting her attempted forceful advances. My attempt to humble her has backfired, and it is costing me valuable resources.
+
+I continue stepping back, further away, even when I’m at a safe range.
+
+It would be easy to let her die right here. She could be discarded if the risks begin outweighing her worth. I could overstrain all of the remaining veins on this property, and build up more connections again at the wedding to restart this operation if necessary.
+
+The serpent's eyes still plead at me from a distance, and it makes me think more.
+
+Despite being insufferable at times, that is part of the reason Lan Xin really is the perfect pawn. One that I have barely used to its full potential. She’s loud and unpredictable. Her strange arrangements are often overlooked by clans because of her beauty and known attitude. The sect does not put much pressure on her because they know she’s too young to be of any threat of a foundation establishment breakthrough. They’re waiting until her roots mature to give her any real offers to lock her down or bring her into the inner sect.
+
+Her innate spirit-grade physique is strong, but it is still manageable. I have the artifacts to overpower her with raw strength if it ever came to it.
+
+On top of all of this, she's purposeless. She has no family, no guidance, and no goals other than a shallow wish for immortality like every elder or cultivation text has brainwashed her to believe. It is not real ambition.
+
+She may be a loose cannon, but if I could save her right now, she will feel even more indebted. Her confidence is already at a low point, and this would be adding another layer of psychological leverage.
+
+While wrestling between which option to choose, a very strange sound echoes in the back of my mind before I do.
+
+[Ding!][??...]
+
+It’s another one of those glitched notifications, too weak to fully form. I recall this happening twice before. The first time was when the system deleted messages when I entered my hidden realm, and the second was in the pit when I was on the brink of death facing the Reaper Crow.
+
+Both times, it was so subtle, that maybe it could be passed off as my mind playing tricks.
+
+However, the glitching text surfaces in my mental space again.
+
+[Ding!][??...]
+
+I’m certain it's real. This time the glitching notification is stronger.
+
+A flickering golden text box filled with scrambled letters appears, and they begin to form into words I can comprehend.
+
+[Ding!][Emergency!][Your past actions have altered the fate of the Flaming Serpent Physique’s vessel. You must not let them die this early.]
+
+“What? Hey! Did you just talk to me again?” I yell out loud. This strange collection of messages now reminds me of the day I acquired the system in the first place. It spoke back to me then, but never again.
+
+‘Hello? System, are you still there?!’ I call out in my sea of consciousness this time, but it takes a few seconds before flickering text comes back.
+
+[Ding!][??...]
+
+[Ding!][Host, I have used almost all of the energy charged up since our binding to warn you. Feed the vessel and the serpent a drop of the newly upgraded honey in your storage. There is no other way to diffuse an imminent soul fracture of this magnitude.]
+
+I tighten my gaze, and scroll through all of my current system data.
+
+No extra quests have popped up. Usually, if this system wants to ask me of something, it gives a reward for my efforts.
+
+‘No. I’m not just going to save her for free. If you’ve been watching, you know she’s a pain to deal with. If this is so important, make it the main quest task.’
+
+[Ding!][Host, this cannot be done. The current main quest cannot be altered.]
+
+The strength of each message is getting weaker now.
+
+I shrug and start to walk even further away from the spirit vein.
+
+‘I’ve tried to ask for a reply so many times before. You still make me sound crazy talking to myself every time I throw those minor lottery dice. If you really want me to save her, tell me why I should. What is this fate that I altered? What does it have to do with me? Why is she so important to you?’
+
+I was already leaning toward trying to save her even without this strange interference, but I don’t want to be pushed around by this system without understanding why.
+
+The further I walk away from the vein with an air of nonchalance, the more weak glitching notifications begin to spam in my subconscious. Once I’m far enough away to the point where I don’t even feel Lan Xin’s heat anymore, finally one materializes into readable text.
+
+[Ding!][1 Emergency Quest Task Available][Save the vessel of the Flaming Serpent Physique from dying in their 12th level qi refining breakthrough.]
+
+“That’s good enough...” I murmur out loud while stopping in place, watching a faint golden text box glimmer before my eyes.
+
+It feels unstable, like it could fade away and be deleted like all of the previous messages at any moment.
+
+‘I’ll do as you say, but next time you manage to save up enough charge to talk, I want answers.’ I smirk and turn around back toward the vein.
+
+My heart pounds loudly in my ears, as the little gripes I have with Lan Xin’s attitude have instantly become much smaller in the grand scheme of things. I’ll gladly trade a little honey and a tier 1 spirit vein for a chance at a free lottery die.
+
+I pull out the vial, and upgrade a few fresh defensive talismans on the spot, then run back into the range of the gathering arrays center point.
+
+Lan Xin’s screams become loud again, and I watch her cough up blood while opening up her eyes to see what’s entered her senses.
+
+“I told you not to disturb me!” she screams, and her serpent slithers around her chest, eyeing me with a complex expression.
+
+I yell back, “I wasn’t planning on it, but you’re destroying one of my spirit veins, and it looks like you’re about to kill yourself in the process.”
+
+She tries to yell back, but a loud crack in the floor opens up while her soul is stretched further and further away from her bonded serpent.
+
+At this range, with so much energy interference in the air, it's extremely hard to see exactly what’s happening. I pull out my perception expanding jade pendant, and activate it on the spot. A hot aura courses through me, and pulses outward, doubling the range and depth of my spiritual senses.
+
+The problem becomes far more clear when I peer into their souls again. I can see the two near-invisible masses of energy in their cores bound together. One is semi-stable after breaking through, while the other is completely out of alignment, like it can no longer sense their bond and is far too distracted to regain control.
+
+Lan Xin coughs out in a defeated tone through the pain, “What do you care?! You already said you don’t trust me. You showed me you want nothing to do with me. I need to become stronger now, don’t try to beat me while I’m down even more!”
+
+The system wouldn’t have used up so much energy to show itself if this wasn’t far more important than I understand. All I know for certain is that there will be some kind of strange reward granted in exchange.
+
+Whatever I need to say to get her to calm down is worth it right now. However, it needs to be in line with the truth. She does not know of the rewards I’ll gain from the system, so this needs to come off far more selfish to feel genuine.
+
+“Do you think I really care about that stunt? I know your intentions weren’t entirely bad… You just want to make sure your supply of firestones does not go away. It won’t. I wouldn’t have filled two more plots of land with perfect-grade veins if I didn’t want to deal with you long term!”
+
+A heavy, noticeable fluctuation pulses in her soul, filled with relief and excitement. I continue down this path of logic for her to grasp onto.
+
+“I wouldn't be standing here attempting to help you either. You’re the 3rd ranked beauty of the Azure Cloud Sect, aren't you? You told me you would one day become an immortal. I will too… but every step needs to be calculated! You can’t just let your feelings guide you in situations this precise! There is no need to rush; not in your cultivation, not in your rise through the sect, and not in building our mutual trust!.”
+
+It seems like her soul is settling down for a moment, but at my last words, I lose her concentration. Fluctuations of that uncomfortable sharp energy bursts out again.
+
+The spirit vein below us shrinks in size, down to that of a high-grade vein.
+
+Lan Xin yells back, “I can’t afford to take this slow! What about after I reach the 12th level? What about after you get closer with the Wang family? Why don’t you want to be my dao partner now? What is the point in waiting? What if you no longer need my help? How can I know I’ll become stronger with 7th-grade roots? What if this is really my highest potential? What if-”
+
+Her soul starts stretching and spreading out further away from her serpent again.
+
+The vibrating sound of a physique and soul fracturing starts to emerge, forcing me to crush a perfect-grade defensive talisman and run forward.
+
+Just a few steps in, the layer of qi protection already begins cracking and burning off.
+
+I activate another and keep running forward.
+
+“Just shut up! Who cares what happens tomorrow, a month from now, a year, even a hundred years? None of it matters if you die today! Forget about it! Close your eyes, stop yelling, and only focus on your soul bond with your serpent! I’ll take care of the rest!”
+
+My defensive talisman shatters again, and I activate another, arriving right in front of Lan Xin as tears pour from her clenched eyes and evaporate the instant they touch the air.
+
+I grab her face, open her mouth, and turn the uncorked vial of rock bee honey over it.

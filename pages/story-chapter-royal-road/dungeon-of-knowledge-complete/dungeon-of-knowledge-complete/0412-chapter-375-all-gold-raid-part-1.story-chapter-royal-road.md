@@ -1,0 +1,149 @@
+---
+id: a8039f6b-a2f3-5cf7-af00-76570a40a191
+page-type-slug: story-chapter-royal-road
+title: "Chapter 375: All Gold Raid (Part 1)"
+slug: 0412-chapter-375-all-gold-raid-part-1
+partOf: dungeon-of-knowledge-complete
+position: 412
+ownLength: 2464
+unit: words
+ownProgress: 2464
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2594929/chapter-375-all-gold-raid-part-1"
+royalRoadId: "2594929"
+markedReadAt: "2026-06-29T20:25:58.666Z"
+---
+
+Ali didn’t have time to even think. Dimly, she heard shouts of alarm, but her focus was locked on the pulsing shrine. Desperate to beat the incoming spell, she did the only thing she could: she teleported, trading places with her stricken kobold. The instant she arrived, she threw up her strongest barrier and stretched out a hand. Her fingertips brushed across the cold, polished stone.
+
+Bind yourself as the owner of the Lyton Ruins shrine? This action is irrevocable.
+
+Ali ignored the notification message and channeled her mana into her ring. The black pyramid vanished, and the growing magic of the teleportation locus suddenly imploded with an audible pop, dissipating back into the domain itself. All around her, the domain shivered as the source was suddenly ripped away. An explosive ripple burst outward from the abruptly missing shrine, ripping through the remains of the domain mana, unraveling it as it went.
+
+She looked up to find Calen and Vivian staring at her, their eyes wide with shock and surprise, but his bow appeared and before he got the second arrow flying toward the ghoul, Vivian’s swords blazed, and she charged. The stray ghoul did not last long under the onslaught as her other minions and everyone else in range pitched in.
+
+Goodness, that was close.
+
+“I got it,” Ali said, sighing deeply and reassuring them that the Blind Lich was not, in fact, coming to wipe them out. Within the mental projection of her storage enchantment, she could see the artifact safely sequestered, out of the reach of any magic she knew. Luckily, she had kept enough free capacity.
+
+Both of them, and no small number of onlookers, visibly relaxed, stowing weapons and dismissing their assault spells.
+
+On the outskirts of the town, the sounds of battle intensified as the destruction of the domain caused any remaining monsters to be forcibly severed from the supporting mana, effectively forcing one final dungeon break, but they had wiped out all the bosses and the remaining monsters would all be much more easily handled.
+
+“Go help destroy what’s left,” Ali said, dismissing her minions to assist in the cleanup.
+
+“Yes, Seeker,” one of the berserkers answered, and with big grins of glee they all scattered, rushing eagerly toward the sounds of battle. Ah, Trolls. Did I just think like one of them?
+
+“Lyton Ruins,” Vivian said, joining her now that the crisis had been averted. “How many of these dungeons do you think he can make?”
+
+“I think this one is the same artifact he recovered from the Ruins of Dal’mohra,” Ali said. All the evidence seemed to point to that, which meant Nevyn Eld was able to rename shrines and repurpose them whenever he wanted. Still, his immediate responses to their destroying the dungeons so far likely meant that the artifacts themselves were exceptionally rare or valuable to him. Could they hope his ambitions were limited by such an issue?
+
+“Why do you think that?” Vivian asked, looking at her curiously.
+
+“Those mushrooms,” Ali said, pointing to the almost ubiquitous Blackened Deathcap mushrooms nestled in every corner and around the roots of the decaying trees. “They were growing all over the forest cavern by the Ruins of Dal’mohra. This dungeon also produced Bone Wights and Skeletal Wyverns – both of which we found in Dal’mohra.” Even if the Wight’s race was Troll this time, and the Skeletal Wyvern had a fire affinity, it was too much of a coincidence. It stood to reason that Nevyn Eld had repurposed the dungeon for Alexander Gray, and allowed him to grow it further.
+
+Is that what it is? Is he using these artificial shrines and dungeons like fishing nets cast out to collect the best imprints? What exactly might he be after? Wait… that’s what I’m doing, isn’t it? She winced and rubbed her temples. Ugh. I did not need to think that.
+
+Alexander had not had an explicit bone affinity, like the Ruins of Dal’mohra had and so none of the bone elementals and sheets of encrusted bone were present here. He had not chosen to preserve the living monsters such as the Kobolds, but every death affinity imprint from the Ruins of Dal’mohra was present here in some form or another. Was. This dungeon is dead.
+
+On that note, Ali bent down and finished what she had started, turning Alexander Gray into a dark cloud of mana motes that began to drift away upon the light breeze.
+
+“Good riddance,” Mato said.
+
+Ali glanced up at his branches and nodded her silent agreement. Then she soberly inspected the notifications from Sage of Learning.
+
+[Sage of Learning]Domain Magic analyzed: Attribute Enhancement (Wisdom).Domain Magic analyzed: Attribute Enhancement (Intelligence).Domain Magic analyzed: Affinity Aura (Death).
+
+Ali frowned, more than a little disappointed that she hadn’t gained anything new from him, but his domain magic abilities made sense to her, given the fight. Although, she still had several important questions that lurked inside her head, unanswered. For instance, how the heck had he managed to hook his mana shield to those specters? Clearly, he must have worked hard on that particular skill – it had been a weakness they had exploited to kill him the first time, and he had completely changed it through advancement. In fact, it was that specific flaw that was largely responsible for Ali passing on a similar skill advancement for her Barrier. Alexander had found a different solution, somehow attaching the shield to his specters and allowing his shield to be fueled by a domain mana siphon – a skill advancement that could only have come from a dungeon.
+
+It gave her a lot to think about.
+
+There was more, though. His evolved Sacrifice skill was something else. A way to consume the dungeon magic of his boss monsters for himself. If she didn’t know better, she would have doubted accounts of this skill, but she had witnessed it for herself. She had a unique Headhunter domain magic skill, but what Alexander had achieved was much more like the Twin Binding. The domain empowering the skills had transferred to him, directly. Ali could tell that the power gain would last until the original monster respawned.
+
+Hmm. Crazy… or is it? Some of the formations she had witnessed in the transfer seemed reminiscent of her own Empowered Summoner advancement which allowed her to tap into the attributes of her bosses from anywhere in the world – even taking advantage of the Attribute Enhancement domain skill if they had it. That part looked just like his spell. Although, his version is much stronger.
+
+As she considered the implications, she wandered over to deconstruct the remnants of the Bone Wight that had been Sabri’s boss. She did have Minion Ego, and a Greater Undead imprint. If it worked like it had with the Trolls of Aman Rak, all she would need would be to plant some more death-affinity plants and she would be able to have a nice sit-down chat with Alexander Gray. She clenched her teeth. She would pump him for every detail he knew about the Lich’s plans. If he knows anything, that is. He’d better know something useful.
+
+Variant: Bone Wight added to Imprint: Greater Undead.[Sage of Learning]Domain Magic analyzed: Mass Summoning.Domain Magic analyzed: Nova Strike.Domain Magic analyzed: Overpowering Strike.
+
+Aww… For a second time, she failed to learn anything new. Still, she marveled at the versatility of Alexander Gray’s Sacrifice. It had somehow allowed him to steal all the domain magic abilities from this monster, repurposing the Nova Strike from the Wight’s bone skills into the much deadlier Death Bolt Nova which had ripped through the melee and her minions during the latter parts of the battle.
+
+Next, she deconstructed the Skeletal Wyvern, after she sorted through the pile of bones in the heap where Alexander had died. It took a creative application of mana sight to identify the correct remains by the lingering traces of fire mana.
+
+Variant: Skeletal Wyvern (Fire) added to Imprint: Greater Undead.[Sage of Learning]Domain Magic analyzed: Mass Summoning.Domain Magic analyzed: Rain of Ruin.Domain Magic analyzed: Battle Frenzy.
+
+Ooh, score! Rain of Ruin? She had spent so many of her Disruption recharges on blocking this ability. On its own, it didn’t necessarily have the shock value of Elemental Storm or something similar, but in terms of sheer sustained damage across the entire raid, it had been one of the most devastating abilities in the fight, putting enormous pressure on the struggling healers and their mana pools.
+
+Now let’s see how you work.
+
+Rain of RuinRequirements: Choose a compatible Magical affinity.Source: Skeletal WyvernAffinities: Fire, Nature, Arcane.Shoot balls of energy of the chosen affinity into the sky to rain down over a wide area. Skill – Domain Magic
+
+“Get anything?” Calen asked.
+
+“This,” she said, sharing her new domain magic. Her first thought upon reading it was to apply it to her Subterranean Brood Queen. She already had visions of a continuous stream of rocks falling out of the sky – an alternative to earthquake that might work outdoors – but that would require some way to unlock the earth affinity for the skill.
+
+“That looks impressive,” Calen said, nodding knowingly.
+
+“Got this too,” Ali said, pulling up the next ability and sharing it also.
+
+Battle FrenzyRequirements: Stamina attack.Source: Skeletal WyvernGain a magical buff that grants +150% melee and ranged haste for all your stamina-based abilities. Duration: 30 seconds. Recharge: 5 minutes. Skill – Domain Magic
+
+“That’s a good archer buff,” Calen offered. “A little like my onslaught.”
+
+Ali nodded. It would be good for melee monsters like Tol’brekk or Kir’mogan if she needed it. “Wait… magical buff?” Ali studied the slightly odd wording that had caught her attention. It was a powerful ability granting an enormous increase in damage, but it was created by a magical formation. She almost kicked herself right there.
+
+“What’s the problem with that?” Calen asked.
+
+“I could have dismantled it,” Ali grumbled. She simply hadn’t noticed it among the avalanche of constant magic that had filled the battle.
+
+“Aah,” Calen said.
+
+“Lesson learned,” Ali said, ruefully before she moved on and deconstructed the Plague Ghoul, taking care to avoid any remnants of the miasma that still seeped from the corpse.
+
+[Sage of Learning]Domain Magic analyzed: Summoning.Domain Magic analyzed: Panic.Domain Magic analyzed: Zone of Destruction (Nature / Death).
+
+“Ooh, two more abilities,” Ali said, her excitement growing at the sight of two new domain magic skills being added to her repertoire. She already knew what it was like to face both. “The fear one is called Panic.” She shared it.
+
+PanicSource: Plague GhoulEmit an instant pulse of fear centered on yourself. Duration: 10 seconds. Range: [class / 7] meters.Recharge: 0-5 minutes.Skill – Domain Magic
+
+“Growable range?” Calen said.
+
+“Looks that way.” Ali studied the new ability carefully. Class level divided by seven worked out to approximately twelve meters for the Plague Ghoul – almost exactly what she had deduced from the battle. But the recharge caught her attention. “Random recharge,” she observed.
+
+“No wonder I couldn’t figure it out,” Calen said.
+
+While Domain Magic skills did not display their underlying traits, Ali knew that this one most certainly had the Chaos trait. An area fear with an unpredictable recharge would add a powerful element of chaos into any boss she used it on. “The last one is called ‘zone of destruction,’” Ali said.
+
+Zone of DestructionRequirements: Choose a compatible Magical affinity.Source: Plague GhoulAffinities: Death, Nature, Arcane.Drop a circular zone of destruction of your chosen affinity that persists on the ground. Can target an entity or the ground itself. Duration: 5 minutes. Recharge: 1 minute.Skill – Domain Magic
+
+“The puddles?”
+
+“Yup. Disease pools.” An unusual combination of death and nature affinities had comingled to produce a zone of pestilence and disease on the ground. Just like before, her class had added her Arcane affinity to the list, but there appeared to be no limitations. Plausibly, she might be able to collect fire pits, or freezing ice zones depending on what bosses she encountered in the future. Given that it was targeted, an intelligent boss could make quite effective use of it by applying area-denial strategically. Although she did wonder what it might do when given an earth or shadow affinity, or even a soul magic affinity.
+
+No matter, she thought. Another thing for the list. Her list was growing quite long now, and she had a wealth of abilities she wanted to test or experiment with. At least she knew that if she traded this with Naia she could immediately add water to her affinity list – not that she had any water-affinity monsters yet. Wait, that’s not strictly true, she suddenly realized. She had three slimes with water affinities: Sacred, Brine, and Scalding, she just hadn’t used them all that much yet.
+
+The sounds of combat were dying down and the guild adventurers were slowly trickling back into the center. Happy faces, excited chatter, and noisy discussion were in evidence everywhere. And no wonder, they had all gained between five and seven levels for their efforts – some of them even more – putting every single adventurer in the group squarely into gold rank now.
+
+Ok, time to check on my class. Ali found a relatively quiet spot and sat down to study her notifications.
+
+Dungeon of Knowledge has reached level 126 (+4).+40 attribute points.
+
+Not bad. Most of her levels gained likely came from the extreme risk of taking on four bosses simultaneously, and the higher level of Alexander Gray.
+
+Arcane Insight has reached level 70 (+3).Arcane Recall has reached level 35.Barrier has reached level 70.Martial Insight has reached level 80 (+3).Empowered Summoner has reached level 59 (+2).Minion Teleport has reached level 35.Identify has reached level 25.Inspiration has reached level 21.
+
+That’s pretty decent growth. Her skills were coming along nicely. Ali spent four points on increasing her vitality and two each on dexterity and endurance. Then she dropped ten points each into perception and wisdom, leaving the last twelve for intelligence.
+
+Your Carnage Berserker has reached level 109 (+2).Your Mage of Piercing Frost has reached level 102 (+2).Your Blood Shaman has reached level 93 (+3).Your Bone Warrior has reached level 98.Your Acolyte of Azryet has reached level 66 (+7).
+
+Even her minion growth was outstanding. At level sixty-six, her Acolyte was once again beginning to pull its own weight. It was still quite far behind, but her habit of bringing at least one to most fights was beginning to pay off. The warrior and shaman looked like they wouldn’t be too long before she had a new pair of evolved minions.
+
+That will be a good improvement. She eased her shoulders. Who could have imagined, an all-gold raid group? We’ve come so far.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

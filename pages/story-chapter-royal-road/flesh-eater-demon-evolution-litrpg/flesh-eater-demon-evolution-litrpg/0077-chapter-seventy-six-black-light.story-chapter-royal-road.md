@@ -1,0 +1,159 @@
+---
+id: 838236cb-271e-5374-9860-522d48f9ef1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Six: Black Light"
+slug: 0077-chapter-seventy-six-black-light
+partOf: flesh-eater-demon-evolution-litrpg
+position: 77
+ownLength: 2437
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3335249/chapter-seventy-six-black-light"
+royalRoadId: "3335249"
+---
+
+“Shit shit shit shit shit—”
+
+Callan cursed, repeating the words under his breath like a mantra. The ghost phased through a tree, ignoring the brief uncomfortable sensation as he kept flying forward as fast as he could. He did his best to ignore the fighting around him, the sounds of yells and screams and clanging metal and sizzling magic. The flap of wings overhead from the fucking wyvern—
+
+Callan took a deep breath and shoved the growing panic down. Later, he thought. Right now he had a job to do.
+
+After Pyre had left the manor following their brief discussion, the demon’s words as calm and confident as ever (unreasonably calm, if you asked him), he’d shared one look with Daphne, then phased through the wall, turned invisible, and made a beeline towards the garrison.
+
+The ghost had been lucky so far. It looked like the vast majority of the monsters the Empire had sent were fairly low level: foot troops and grunts. Most of the creatures couldn’t detect him at all, and of the ones who could, few had the means to actually hurt him. He’d spotted a few Empire mages further behind the lines, but it looked like he’d moved quickly enough that most of the magic users were still concentrated near the sanctum. Hopefully, with the garrison troops now launching a counter-attack, they would stay there.
+
+Up ahead, one of the manor guards struggled to fight off a hellhound. The demon’s teeth were clamped around the handle of his axe, which he’d hastily used to prop its jaw open. The wood was starting to splinter, though, and Callan could see the sweat running down the guard’s forehead as he realized the same thing.
+
+Hesitating for just a second, Callan paused near the hellhound. The monster stilled for a moment, able to detect the dip in temperature, but the ghost moved quickly.
+
+He raised an invisible hand and focused, draining the hellhound as quickly as he could. The demon howled, thrashing violently and knocking the guard back, who landed with a confused yelp on the ground.
+
+The moment the drained notification appeared in Callan’s vision, he darted back and kept moving, leaving the bewildered guard lying on the grass.
+
+He shouldn’t have done that, he thought. He was wasting precious time. But the look in that guard’s eyes—the panicked fear—had been all too painfully familiar to him. A hellhound and a chimera were a far cry from each other, but the expression made during a person’s final moments was the same.
+
+Pursing his lips, Callan spotted the Bellhein property wall and sped up. From what he could tell, the hole that Empire mage had blasted into the eastern wall had effectively dismantled the wards around the place. He should be able to float straight through.
+
+Between the three circles, the one in the garrison was the biggest problem. He’d already poured enough ichor into the seed in the garden, and he was actively channeling the one in the forest, which would be ready in the next minute.
+
+The seed in the garrison, however, had been planted mere hours before that red light had burst from the sanctum. He’d been channeling ichor into it from the moment he felt it touch the soil, but it wasn’t enough.
+
+A light buzzing sensation washed over him. The seed in the forest was ready. Callan grit his teeth and ducked through the wall, holding his breath as he passed between thick, solid stone. Ghosts didn’t need to breathe, but moving through solid objects had always felt like suffocating to him. The longer it went on, the more light-headed he got, and the more he could feel himself begin to fade.
+
+Callan burst out the other side and didn’t pause for even a second before diving towards the wall around the garrison. He was starting to get dizzy, but he didn’t care. He would drain more things later to make up for it.
+
+The moment the ghost entered the garrison proper, it was chaos. The area was flooded with troops, sergeants yelling orders, soldiers scrambling to pass around weapons. It was, in some ways, a relief to see the garrison responding to the threat, but the noise only made the situation all the more real.
+
+Forcing himself to look away, Callan darted towards the northeastern corner, mind moving a mile a minute as he thought back to the map and the location of the third circle. He could feel the seed’s presence growing the closer he got to it, and he pushed himself to channel more ichor. He still didn’t know how he was going to manage to activate the ritual with the seed only half-ready, but the closer he was to it, the easier it would be for him to funnel more ichor into the spell.
+
+Trees whizzed past in a blur of brown and green. Finally, the pulsing sensation of the seed reached its peak, and he burst into a small clearing in the middle of the trees.
+
+At a glance, it looked barren, the ground completely covered. But he knew the circle was here.
+
+Carefully, the ghost floated to a stop in the center of the clearing. He could feel the seed directly below him.
+
+Callan took a deep breath. Now came the hard part.
+
+Pyre could see the next spell coming, clearly fired from the mage’s glowing palm, but it was too quick and too close to avoid it.
+
+Moving on instinct, the demon activated her [Bone Armor] subtrait. Skin and muscle warped, morphing into hard white bony plates that covered her body in a protective shell. An inky black sphere of swirling energy shot out from the mage’s hand, hurling straight towards the demon. The air smelled bitter.
+
+Pyre opted to activate [Bracing Stance] a millisecond before the spell collided with her torso.
+
+[The skill [Basic Bracing Stance] has leveled up! Lvl 2 —> 3]
+
+The sloth demon skidded backwards, colliding with an ogre behind her. She barely noticed the creature attempting to hit her with its club, the impact glancing off her bone armor with no more than a light tickle.
+
+She was more focused on the scorch mark burned into the plate on her chest, wisps of smoke still rising up from it. If she hadn’t used [Bracing Stance], the spell probably would’ve melted straight through the bone.
+
+Without looking, Pyre jabbed an elbow backwards, growing a sharp bone at the joint that stabbed straight into the ogre with a squelch. She yanked her arm back and heard the monster drop to the ground with a dull thud. Warm blood dripped down her forearm.
+
+The mage was scowling, something resembling frustration flashing in her face before she smoothed her features again. She began chanting, arms moving in a series of quick gestures as she prepared another attack. Pyre narrowed her eyes.
+
+The demon raised her left arm, shooting the misshapen limb out in a wave of flesh towards the mage. At the last second, it crashed into that invisible barrier again.
+
+This time, the shield flashed just long enough for Pyre to see that it was a sphere completely encasing the Empire mage. She clicked her tongue and reeled the flesh back, lunging to the side just before the mage’s next attack flew past her.
+
+Pyre didn’t stop to watch the spell hit whatever creature had been behind her. She kept moving, weaving between the waves of monsters and using them as a shield between her and the mage. That barrier was a problem. Between the one covering the gap at the top of Fred’s mountain and the one surrounding Tivona’s horn and her soul piece, she was quickly getting annoyed with these magic shields.
+
+Another spell hurled in the demon’s direction. She grabbed a nearby hellhound and threw it in front of her. The creature howled, flesh sizzling before it was unceremoniously dropped to the ground. Pyre shot another bone spear at the mage, but it once again glanced off the barrier.
+
+“Who are you working for?” the mage demanded, hands still moving in an eternal series of gestures. It seemed like she’d picked up on Pyre’s strategy and was now resorting to weaker, faster attacks. The demon ducked below one, hearing it singe the edges of her hair. She casually slammed the blade of her axe-arm into an approaching ghoul’s skull without taking her eyes off the mage.
+
+If she used [Impact Absorption] on one of those attacks, the stored energy might be enough to break through the mage’s barrier. She knew magic shields could be shattered with enough force, considering their whole plan revolved around Daphne blasting through the one in the sanctum. It would mean tanking a hit, but it seemed like her best shot.
+
+One of the smaller spells crashed into her shoulder when she was a second too late to dodge, but it only singed the bone armor. These weaker spells barely did any damage to her at all, and the Empire mage cursed as she realized it too. She adjusted her stance, settling into one Pyre recognized from her earlier, stronger blasts.
+
+Good, the demon thought. If she was going to use [Impact Absorption], she wasn’t wasting it on a weak attack.
+
+“Are you a rogue?” the mage demanded again.
+
+A loud crack sounded as a jet-black ball of energy exploded out from her palm, emphasizing her words. Pyre vaulted over a nearby hellhound, flipping over the incoming blow.
+
+The second her feet touched the ground again, the earth quaked. Her [Vibration Sense] went berserk, an onslaught of tremors turning the surrounding area into a haze of waves and vibrations.
+
+The earth split open, and a field of sharp spikes shot outwards. Pyre barely leapt out of the way in time. She felt a sting as one of them grazed the flesh of her morphed arm. Through her back eye, the mage had crouched down to the ground, one hand still glowing black. She straightened, immediately firing a second spell from her other hand.
+
+“Do you really think your king will tolerate this blatant rebellion?”
+
+Pyre ducked behind a troll, barely able to hear the mage’s words over the creature’s gargled scream as the spell burned a hole straight into its back. She stepped out just before it toppled over, eyes narrowing a little as she processed the human’s words.
+
+At first she’d thought the mage was referring to her “betraying” the Empire, but the use of “king” instead of emperor felt deliberate. Your king, she’d said. Not ours. Which meant there was probably some kind of demon king, and that was who was working with the Empire. That was the one rallying the other demons and monsters and acting as the monster head in their weird alliance.
+
+Something snarled behind her, and Pyre didn’t even look as she instinctively stretched her morphed arm and devoured whatever the creature was. Another notification flashed across her vision. Her grey eyes remained fixed on the mage.
+
+“You sure know an awful lot about demon politics for a human,” she drawled, casual and dismissive. The mage bristled and began chanting again. She was close enough now that Pyre could reach her before she finished firing her next spell.
+
+Bending her legs, the sloth fiend burst forward, shoving aside smaller monsters as the mage’s palm began to glow again. She reinforced her bone armor, pushing the plates as thick as the subtrait allowed, before making a running leap off an imp and launching herself into the air.
+
+The mage’s head jerked up, hands shifting so that her glowing palms were aimed towards the demon. Pyre could see the ichor gathering around that black light. She shifted her warped arm in front of her, absorbing the extra mouth to leave smooth flesh there as she braced for what was to come.
+
+She activated [Impact Absorption].
+
+In the next moment, burning pain exploded out from the warped limb. Pyre might’ve cursed or yelled, but she wasn’t focused on that. She felt the flesh of her arm melting away, falling to the ground in a grey sludge. The spell kept moving, hitting her bone armor next, but between the initial flesh shield and her absorption skill, it was just enough to stop the magic from burning all the way through.
+
+Gravity took over, and the demon began to fall towards the mage. Gritting her teeth, she reeled back her remaining arm, focusing on the faint shimmer surrounding the human. The mage looked triumphant, smug to have finally gotten a hit on the demon, but Pyre ignored it.
+
+She activated [Impact Absorption]’s second effect, then threw all her strength into one, solid punch.
+
+A loud bang rang out over the field of monsters. Wind rushed past Pyre’s ears as her fist hit something hard and solid. The barrier flashed, beaming with a bright white light as the demon pressed her weight into it.
+
+The barrier cracked. The mage’s face fell, smug smile immediately wiped away. She raised her arms again, eyes brimming with panic, but Pyre was already drawing her arm back again.
+
+Her next strike punched straight through the barrier.
+
+Light flashed around her, a shockwave exploding outwards as the magic shield was shattered. The mage yelled, palms glowing black, but it was too late.
+
+Pyre grabbed her by the skull, then promptly grew a new mouth from the center of her forearm. Bone armor dissipated, flesh splitting open to reveal a gaping mouth of gleaming, pointed teeth.
+
+The jaws clamped around the Empire mage’s head, cutting off her scream. In the brief second before the teeth closed, Pyre thought she saw the red jewel pendant hanging around the mage’s neck flash.
+
+[You have devoured (1) Human Necromancer Lvl 29][Experience earned!]
+
+[Your species has leveled up! Lvl 23 —> 24][Strength +2, Agility +2, Constitution +3, Magic Resistance +2, Intelligence +1]
+
+[You have earned 10 points]
+
+[Your class has leveled up! Lvl 13 —> 14][Strength +1, Agility +1, Constitution +2, Magic Resistance +1]
+
+[You have earned 5 points]
+
+[You have gained (1) [Curse Resistance] subtrait shard]
+
+[You have gained (1) [Life Drain] subtrait shard]
+
+[You have gained (1) [Magic Perception] subtrait shard]
+
+[You have gained (1) [Far Sight] subtrait shard]
+
+[You have gained (1) [Preservation] subtrait shard]
+
+[Maximum number of subtrait shards acquired from a single creature reached. Remaining subtrait shards discarded.]
+
+[Required amount of [Far Sight] subtrait shards collected][Apply subtrait shards to [Eye Growth] trait?]
+
+[You have gained (1) new trait!]
+
+Please select from the following options:[Corruptive Presence (Sloth)], [Demonic Aura (Sloth)], [Vice Detection (Sloth)]
+
+[You have gained the [Demon King’s Heed] title!]

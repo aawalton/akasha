@@ -1,0 +1,195 @@
+---
+id: 50f9c41f-7830-56d9-8815-008b53c6850f
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Eight: Proposal"
+slug: 0049-chapter-forty-eight-proposal
+partOf: flesh-eater-demon-evolution-litrpg
+position: 49
+ownLength: 3083
+unit: words
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2820242/chapter-forty-eight-proposal"
+royalRoadId: "2820242"
+---
+
+“Lord Bellhein,” Pyre greeted. Her body language was casual, though she made an effort to keep her voice neutral lest she accidentally come across as mocking the way Callan said she often did. Somehow she had a feeling that the noble wouldn’t take too kindly to that.
+
+The man in question’s pace slowed as he stepped down the last stair, finally coming to a full stop several feet away. He didn’t seem particularly interested in moving closer, and Pyre could see his frown deepen slightly as he was forced to tilt his head back to meet the demon’s eyes.
+
+“…Good afternoon,” he replied. “You are number 84, correct?”
+
+Her eyebrow raised. “That was my exam number, yeah. My name’s Pyre.”
+
+The noble nodded slowly, dark eyes still studying her. She remained still, giving him time to think over whatever he was considering right now. Finally, after nearly a full minute of silence had passed, he spoke again.
+
+“Franz tells me you’re the most talented cadet he’s seen in years.”
+
+It took the demon a second to remember that “Franz” was the weapons master. She only ever called him the latter in her head.
+
+“I try,” she said casually. Then, to maximize her polite front, she added, “I’m sure he’s exaggerating.”
+
+“Your files say you’re ichor-poisoned.”
+
+Damn, way to jump the gun. Here she was doing her best Callan impression, trying to seem properly civilized, meanwhile Lord Bellhein didn’t care at all about being blunt. One of the benefits of being an extremely wealthy noble, she supposed.
+
+“Yeah, I am.” If he was going to be direct, then she would be too. No point in saying otherwise.
+
+The man’s frown deepened. “And it doesn’t… affect your fighting?” he said haltingly.
+
+Pyre shrugged. “Not from what I can tell.”
+
+Lord Bellhein went quiet, probably thinking again. Pyre could hear the voices of the other cadets filtering in from outdoors, but she stayed in place. She was in no rush.
+
+Finally, the noble opened his mouth again, his next words slow and careful.
+
+“I’ve been told that you’re the most qualified cadet in this group, though admittedly I have my reservations.” He paused for a moment before continuing. “I plan on continuing to observe the garrison’s training for the next few days. If, by the end, I find those reservations sufficiently addressed and you’ve passed all the necessary requirements, I would like to hire you as a guard at my manor.”
+
+There it was. The demon kept her face relaxed and pretended to think on it. The noble hadn’t technically promised anything yet, but this was damn close. He very pointedly wasn’t saying exactly what his “reservations” were either (though she had some guesses), but as long as she didn’t royally fuck up the next few days, she should be able to get the position.
+
+The speed of the proposal, though, did make her pause. She studied the noble again. Beneath his rigid exterior, she took note of the dark circles under his eyes, the way his gaze would flit around warily, the subtle, skittish energy that she hadn’t noticed before. He seemed nervous about something—”paranoid” was probably the better word. Pyre’s eyes narrowed internally. If she had to guess, something had probably happened to cause him to rush this guard proposal bit. This was too quick.
+
+Still, suspicious circumstances aside, she had her goal. As long as she got the horn and removed the curse, she didn’t really care what shady stuff the noble was up to. It wasn’t like she’d be hanging around for long.
+
+“I’d be honored,” she said, making sure to keep her words slow like she’d been debating really hard about it.
+
+Relief flashed across Lord Bellhein’s face before his expression quickly turned stony again. She was more certain than ever that there was something more going on, but it was clear that he had no interest in revealing it. Instead, the man simply nodded at her.
+
+“Very well. I will see you at tomorrow’s training sessions. I hope you don’t disappoint me.”
+
+With that, the noble turned away and disappeared down the hall—probably to a separate private door in the facility. After he was gone, Pyre couldn’t help but snort in amusement. “I hope you don’t disappoint me.” Awfully dramatic, that Lord Bellhein.
+
+The demon turned to the doors. Their break was probably almost over, but maybe she could grab a glass of water before heading over to the armory. Drinking water had solely been to blend in at first, but she was starting to enjoy the overall experience.
+
+Before she could step outside, a familiar figure popped his head through the open doors.
+
+“Pyre?” Declan peered into the now-empty training facility with a look of confusion. “What’re you still doing here?”
+
+“Stretching,” the demon said bluntly. The appearance of the cadet did make her pause, though. She knew from the original flyer that guards had their own specific licensing requirements, and from what Lord Bellhein had just said, she’d need to meet those. She didn’t actually know what they were, but she was willing to bet that Declan did.
+
+“Hey, you know what the guard requirements are?”
+
+“I can’t believe you talked to Lord Bellhein.”
+
+Declan sounded awed. Apparently even his disapproval of “Lord Bellhein’s choices in the war,” as he’d put it, wasn’t enough to completely stop his reverence for the man and the rest of the Bellhein family.
+
+“Volume, kid,” Pyre drawled. She could see a few curious cadets glancing in their direction. Declan’s jaw promptly clicked shut.
+
+“Sorry,” he whispered. It was still twice as loud as the average whisper, but better than before.
+
+After confirming that Declan did, in fact, know about the whole guard process, Pyre had figured it would be easiest to just tell him about her conversation with Lord Bellhein. He already knew she was trying to be a guard, so it wouldn’t even be all that surprising. Well, she hadn’t thought it would be, anyway. Declan seemed pretty hyped, but he was like that with everything.
+
+Speaking of which, the cadet in question suddenly furrowed his brows as he was hit with a new realization. “Does… Does that mean you’re leaving the garrison?” he asked tentatively.
+
+Pyre raised an eyebrow. “Probably, yeah.”
+
+“Oh.” He looked disappointed. “But… I haven’t learned anything from you yet.”
+
+“You can ask Merrick, you know,” the demon said, amused. “He’d probably have better tips anyway.” He wasn’t suffering from amnesia, for one, and could properly explain how to do the shit he could do. And he was an actual human with a human profession and human abilities.
+
+A little ways away, Merrick didn’t react when his name was mentioned. He was the only one in their group who was actually doing what he was supposed to be doing (polishing weapons in the armory before they started weapons training), but he was definitely listening in on everything.
+
+Declan nodded slowly at that, but he still didn’t look too happy.
+
+“Anyway, back to the guard thing, it doesn’t sound like there’s many requirements.”
+
+“There aren’t. Most of them align with garrison basic training.” Declan paused, thinking for a moment. “If you really want to prepare, you could maybe work on learning to use the spear and bow? They’ll probably want basic proficiency with those. Oh, but you probably already know how to fight with them…”
+
+“I don’t, actually.” Unless her past self also had spear-fighting and archery on her resume, which wasn’t impossible, but she was currently operating under the assumption that she’d just been an axe and hand-to-hand expert. She cocked her head, raising an eyebrow. “You said you’re good with spears, right? Want to help me train?”
+
+Declan’s eyes immediately brightened. “I’d be happy to!” he exclaimed. After the initial burst of enthusiasm, he faltered. “I’m not very good at archery, though. I don’t know if I could help there.”
+
+Pyre turned to Merrick, who seemed resigned to being part of this conversation whether he liked it or not.
+
+“You know bows?”
+
+“I’m familiar with them, yes,” the man said, ever stoic. Pyre grinned.
+
+“Cool. Sounds like we’ve got a plan, then.”
+
+The rest of the day passed quickly. By the time they’d finished eating dinner and exited the dining hall, the sun was already beginning to descend below the horizon. The sky was streaked in reds and golds, and Pyre could see some soldiers hanging out around the lawns. This was a rare window of “free time” at the garrison, and most people took full advantage of it.
+
+The armory was left unlocked before nightfall in case anyone wanted to get in some extra training, so it was easy for them to pick up a few practice spears and bows. They found a secluded part of the training grounds, moved over a few targets, and got to work.
+
+“Honestly, it’s mostly just getting used to the length,” Declan was saying. He demonstrated by thrusting the spear in his hands out to its maximum distance. “The point is pretty small, so you have to always be aware of its position, if that makes sense.”
+
+Pyre had found that the younger cadet was actually a pretty good teacher. He’d underplayed it before, but Declan was very good at spear-combat from what the demon could tell. She currently had one of the practice weapons in her hand, though Declan had lamented that it was too short for her when she’d done some of his recommended exercises. She wasn’t aiming for perfection, so she didn’t care much.
+
+“Sorry, I went on a long time,” Declan said. He glanced up at the sky and frowned. “They might lock the armory soon. You should practice with the bow while you’ve got a chance.” He extended a hand. “I can bring the spears back first, if you’d like! I’ll tell them to wait for us before they lock the doors.”
+
+“Thanks, kid.” Pyre deposited the weapon in question in his hand. She hadn’t made it much further than a few practice thrusts and lunges, but she felt like she had a good start going. Some of the basic principles from swordfighting and axe-fighting still applied here, so it was easier to pick up after she got used to the weight and shape of the weapon.
+
+Declan turned, spears in hand, and hurried towards the armory. He quickly disappeared over the grassy hill, leaving just the demon and Merrick. The man had stood on the sidelines silently while Declan explained things. Now Pyre turned to him, amused.
+
+“You planning on staying quiet the whole time?”
+
+Merrick made a noise resembling a light huff, picked up one of the bows they’d taken from the armory, and stepped closer.
+
+“Are you satisfied with leaving the garrison so soon?”
+
+Pyre raised an eyebrow. Merrick hadn’t even looked up from where he was currently demonstrating how to string a bow. The demon raised her own and attempted to follow the movements.
+
+“You know, I really didn’t take you for the patriotic type.”
+
+The man frowned. “I didn’t mean it that way. I don’t judge anyone for how involved they choose to be in this war.”
+
+“Yeah? How’d you mean it, then?”
+
+Merrick went quiet for a moment. Something resembling hesitation broke through his usually serious features. “I was curious,” he finally said, the words slow and measured. “I recall you telling Declan that you were looking for a change of pace. I wasn’t sure how joining the Bellhein’s guards factored into that.” He raised his head then, meeting the demon’s eyes. “You don’t strike me as the type to enjoy guard work, and I sincerely doubt you’d slow down simply because of your ichor poisoning.”
+
+Pyre gave the man a long look. She’d always known he was perceptive—both in regular life and during their many spars—but it looked like she’d underestimated him. This didn’t sound like an accusation, though, and she doubted he knew she was a demon. If anything, the man seemed genuinely curious about her motives. He was speaking as a fellow cadet with an unconventional background, not as a soldier who’d figured out her real identity.
+
+“I’m looking for something,” she finally said. It was both true and vague enough that it could mean anything. Merrick seemed to accept that answer. He nodded thoughtfully.
+
+“I wish you luck, then.”
+
+The two fell into another silence as they finished preparing their bows and stood. Merrick demonstrated the correct posture and how to nock an arrow, then let one fly. It landed just outside the target’s center.
+
+Pyre tried next. The movements felt easier than they probably should for a total beginner, but she clearly hadn’t been an expert archer in her past life. Maybe she’d done it once for a gym class or something. Either way, it wasn’t nearly enough to trigger alarm bells.
+
+After Pyre had shot a few arrows herself, she found herself saying, “You know, you never said why you joined the garrison.”
+
+Merrick glanced over at that. He looked thoughtful. “I suppose I haven’t.” His eyes moved back to the target. “You asked me about Galen before, didn’t you?”
+
+The demon snorted. “Yeah, weeks ago. Good memory you’ve got there.”
+
+“My apologies for the late response,” Merrick said, a hint of amusement in his voice. He watched the next arrow fly, the thud of it hitting the target loud in the quiet evening. Finally, he spoke again.
+
+“Galen is a beautiful country,” he began. “The coastal cities deserve their reputation; they truly are beacons of wealth and luxury. Much of the rest of the country, however, lives far less lavishly. I grew up in a poor ichor-mining village myself.”
+
+Pyre hadn’t heard of those, but she could guess what they were from the name alone. While some bigger cities had direct access to titan corpses, others relied on residual ichor lingering on the earth. Some, like Magrath, could get ichor from surface-level rivers and waterfalls, but Callan had mentioned the titans’ spilled ichor-blood seeping below ground as well. There were probably tons of underground reservoirs that needed to be actively dug up to reach.
+
+“I believe Declan mentioned that ichor-poisoning is rare in Auren,” Merrick continued, “but it’s quite common in villages like that. The work is grueling, and workers are constantly exposed to ichor. Any places nearby are affected. About half of my village had contracted ichor-poisoning by the time I left. Some are even born with it.” His voice quieted. “My son was one of them.”
+
+Pyre turned to face the human at that. He still wasn’t looking at her, dark eyes peering distantly at the target. The demon studied him closely.
+
+“That why you started working as a leveling aid?”
+
+Merrick nodded. “I thought if I could earn enough to leave the village, at least he wouldn’t be exposed to so much ichor on a daily basis.” His eyes darted briefly over to the demon’s bandages. “I’m sure you’re well aware, but there’s no cure for ichor-poisoning. My wife passed away during childbirth. He was all I had left. I thought, the very least I could do was let him live comfortably before…” his voice trailed, but the implication was clear. The man shook his head.
+
+“Looking back, I wonder if that was the right choice. I spent so much time working that I could’ve spent with him instead. I used money as an excuse, but in truth, I think a part of me was too cowardly to face him.” A small, bitter smile spread across his face. “He wanted to be a knight, you know. He always begged to come along during leveling trips, but I never let him. I just left him alone while I worked. I wouldn’t be surprised if he hated me by the end.”
+
+Pyre waited for some instinctive response, maybe an old memory that knew what to say, but there was nothing but the same vast hollowness that had been there since she’d woken up in this world. She felt a twinge of something resembling dissatisfaction rise at it, the same way it had when she’d stepped into Winrow the first time, when she’d watched Callan lay eyes on his dead body, even when she’d seen those flashes of Tivona’s memories. Subtle, fleeting, and out of reach.
+
+Before the demon could process what that meant, a tremor in the earth alerted her to movement. She turned and saw Declan standing a little ways away watching them, the spears gone. He shifted uncomfortably as both eyes landed on him.
+
+“Uh, they’re locking the armory soon. I asked them to keep it open long enough for us to put the bows back, so we should—we should probably hurry,” he muttered.
+
+Merrick nodded and went to retrieve the arrows that had hit the targets, effectively ending the conversation.
+
+Soon the trio made their way over to the armory to put the bows back, watched closely by an annoyed-looking guard the whole time, then began walking towards the barracks. The whole time, no one said a word. The sky had turned inky black above them.
+
+It wasn’t until they’d almost reached their destination that Declan suddenly spoke.
+
+“When the war started,” he blurted out, “and my parents were deployed, sometimes I’d miss them so much I didn’t know what to do with myself. I even got mad at them a few times. Blamed them for not being around.” His eyes shifted hesitantly over to Merrick, who had gone quiet.
+
+“But,” he continued, “even when I was mad, deep down I still knew they cared about me. I’d never—I never resented them or anything like that. Not really. I know why they couldn’t come home.” He swallowed and shifted his weight. “So, uh, yeah.”
+
+A new silence stretched out between the group. Declan seemed to be seriously regretting talking when a small smile spread across Merrick’s face.
+
+“Thank you,” he said. Declan ducked his head sheepishly. Neither said anything more.
+
+Pyre watched the interaction in silence. They continued the rest of the way to the barracks, the cool night wind whistling around them. Declan and Merrick both seemed more relaxed now, some invisible weight lifted from their shoulders, and Pyre felt that nagging sensation rise again.
+
+The demon shook her head and kept walking. There was no point in thinking too hard on something she had no answers for. For now, she’d focus on getting into the manor and finding the horn.
+
+She was already so close.

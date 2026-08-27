@@ -1,0 +1,255 @@
+---
+id: ba3323e3-f079-54be-89bf-dee154cc156c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Civilized Departure"
+slug: 0043-chapter-28-civilized-departure
+partOf: ends-of-magic
+position: 43
+ownLength: 2912
+unit: words
+ownProgress: 2912
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2737446/chapter-28-civilized-departure"
+royalRoadId: "2737446"
+markedReadAt: "2026-06-29T20:08:38.708Z"
+---
+
+“Esebus belongs to Garna now, does it?” Henrish asked, eyes on the Heirs as the elevator cranked them up through his vertical city.
+
+Nathan met his gaze calmly. “It does, and no worse for the wear. Though their vault is a little lighter for the experience.” He raised his eyebrows questioningly, asking if Henrish was going to make a big deal out of that.
+
+“A deed accomplished without cost,” the Questor replied slowly. “How did you achieve it?”
+
+Aarl answered offhandedly. “We ambushed Sussu, then beat the rest of them.” He grinned innocently at the Questor’s curious expression, staying silent as Henrish probed for more information.
+
+That gave Nathan a chance to look around at the city they were passing through. Each level was a single street, and his earlier thought that they had minimal magic was confirmed. Almost everything was done here by muscle, though mechanical assistance to that muscle was common. The population seemed split pretty evenly between orcs and humans, without any obvious class or neighborhood divides between the two species. Almost every street had a blacksmith, and the quality of the metalwork was exceptional. He was pretty sure that the elevator cables were powering a massive Archimedes screw lifting seawater to the top of the city, though he didn’t know why.
+
+“Does my city strike the right chime?” Henrish asked, seeing the way Nathan was studying the place.
+
+“There isn’t much magic,” Nathan admitted. “Why not? Even Gemore has more, and they’re low on magical Insights. Surely a few simple enchantments would help everybody get more done.”
+
+“I discourage it,” Henrish replied. “Some magic smooths the gears of progress, but too much grinds it to a halt. Every magical metropolis is limited by the labor of its brightest minds.” He was getting engaged with the topic, slipping into a speech he’d given many times before. “Physical Insights are more easily spread and encourage a robust, interconnected civilization. Helmaris is a place of intellect applied to steel, and a place where new designs are rewarded and shared.”
+
+He pointed at a level they were passing. A heavy orcish woman peddled a three-wheeled cart forward, a complex gearing system allowing her to move a heavy load up a shallow slope. “That was invented last year, and more are under construction. Gearing processes enable great advantages over magical power, especially so close to the Blight.”
+
+“You’re trying to cultivate an engineering mindset,” Nathan replied.
+
+The Questor nodded, a smile spreading across his face. “I am.” He spread his hands wide, indicating the city around them. “It is no great piece in the game of Questors, but it is something powerful. To discover the secrets of the natural world through direct application is a truer path than magical chicanery.”
+
+Nathan grunted his agreement, but his thoughts were ranging far. He thought he understood what Henrish was trying to do here, and it was something that the Heirs could help with. But did they want to? Henrish was somebody they wanted to impress, but not somebody who was really an ally.
+
+We need to impress the Questors. Right now, he only thinks of us as fighters. If I can plant the seed that we’re more than that, it might change his stance.
+
+Nathan spoke carefully, making inferences based on things he’d heard past Questors say. “I know there are Insights you can’t teach, but I’m not limited like that. Do you want me to give some lessons while I’m here? It looks like they’ve got steel figured out, and with heat enchantments, steam engines won’t be too hard. I can speak of pressure and the mathematics of energy and work. Or calculus.”
+
+The statement caused Henrish to whirl, his muscles creaking and eyebrows drawing down as all his attention was focused on Nathan. “How do you know those Insights?”
+
+“I was kidnapped from a world beyond Davrar,” Nathan answered simply, curious to see how Henrish would react.
+
+The Questor held his gaze as if waiting for Nathan to blink. His eyebrows were still furrowed in thought. “What Insights do you hold?”
+
+Nathan dipped one shoulder in a shallow shrug. “Many. The inner workings of life. Chemistry of the periodic table. The physics of electricity and light. Astronomy.” His lips quirked, and he jerked a thumb upwards. “That last one isn’t so useful inside a giant cylinder.”
+
+“Spindle, actually,” Henrish replied offhandedly, then winced and looked off to the side. “Davrar reminds me that some knowledge should not be shared, though it seems you already suspected such a thing.”
+
+“I did,” Nathan said. “The first Insight’s free, but it wouldn’t take long for us to put together a guide to industrialization.” He glanced towards the Heirs, trying to figure out how long it would take to recreate a copy of the Liber Physicae and regretting they hadn't picked up one of the copies that had been made in Gemore.
+
+The Questor’s eyes narrowed. “Is this Sarya’s plot? She dangles a bait of powerful fighters, but the true treasure is Insights?”
+
+Nathan was about to respond, but Khachi’s voice interrupted him, serious and solemn. “This suggestion starts with Nathan, on my Oath. We walk our own Path. Sarya has aided us, but our goals are our own, and we swore to them long before we met Sarya.” Golden light spilled from Khachi in a calming wave.
+
+Henrish swapped his focus from Nathan to Khachi. “Divine magic,” there was a faint note of disgust in his voice. “I did not know the gods, but from the tales, I do not welcome their return.”
+
+“Neither do I.” Khachi’s voice was certain. “But faith converts conviction to power. Not gods."
+
+“That demands an inquiry of your convictions,” the Questor said. “What faith wakes your spirit?”
+
+“My class would say justice,” Khachi answered calmly, as if the Questor had asked about the weather. “But justice must be in service of something greater, else it be senseless vengeance. I fight for people, that they may live and be happy without the threat of death.”
+
+Henrish nodded deeply. “A worthy statement, but it does not speak to your desire for a conclave?”
+
+“The Path to improve Davrar lies through the Questors,” Khachi replied seriously.
+
+“How did you learn of the truth of Davrar?" Henrish asked innocently, though Nathan could detect a thread of suspicion underneath it.
+
+Nathan answered straightforwardly. “We deduced it from first principles and a few offhand comments from Brox and Badud. If you have the context of games, then it’s not hard to guess just from the way Davrar works. Besides,” he gestured upwards at the sun and the world beyond, “the shape is pretty obviously unnatural if you know anything about astronomy.”
+
+“Davrar is not a game,” Henrish responded sharply. Then he rolled his hand over in a mild concession. “Even if many Questors treat it as such. It is our life, now that the greater galaxy is denied to us. One of the few places where effort is rewarded with meaning, instead of any wish being immediately granted.”
+
+Further discussion was interrupted by the elevator reaching its zenith. They stepped off the elevating platform onto a short ramp that led to the top of the cliff, going around a cart loaded with metal ingots headed into the city. The accompanying pump setup emptied the seawater into an array of troughs that resembled a passive distillation setup, providing brine and freshwater for the city.
+
+“I will decline your offer of Insights.” Henrish’s voice was strong, though it was tinged with regret. “I wish to prove the value of non-magical innovation, and imported Insights will not demonstrate my point.”
+
+Ah, he doesn’t care about Helmaris. It’s a project that will win him some acclaim among the broader game of Questors, and that’s what he's really after. Reputation.
+
+Nathan managed to avoid showing outward disgust and asked a cheeky question instead. “What if I offered to teach them the scientific method. The way to systematize innovation. That would accelerate all of the advancements you want to generate.”
+
+“What does the scientific method mean to you?” Henrish seemed genuinely curious, and perhaps a little tempted.
+
+Nathan thought about the question before answering. “I was taught to derive a hypothesis, test it without bias, and arrive at a conclusion objectively. But to my mind, that misses the core Insight, which is about isolating variables. The key is to test one thing at a time, with a reliable, reproducible output. You need to have a controlled baseline, then change one thing about it and see how the system responds, and do it multiple times to make sure you get the same result each time. To create a stronger metal, start with a baseline alloy and modify a single aspect of the formulation, then test the strength or other relevant metric to understand the relationship. You do it multiple times to make sure the thing you're changing is responsible and not something else."
+
+He frowned. He wasn’t quite getting at his core thought. “That’s overly prescriptive, and of course, things are complicated. Just in deciding how to measure a system, you're making predictions that might not bear out. But the core of it is isolating the most abstract thing that controls an outcome, and coming up with reliable measurements. The most important part is probably coming up with a good and objective measure.”
+
+They reached the top of the ramp and were immediately blasted by a cold and gritty wind that carried the tinge of death. The buildings hunkered behind the bulk of a large wall, and everybody visible was hurrying around, trying not to spend any more time outside than necessary.
+
+Nathan continued. “Then you iterate, but always systematically. You aren't trying to build intuition, you're trying to build a model of the universe that lets you assign specific meaning to specific things, without any black boxes. Most variables are intertwined in some way, but if you pay attention, you can see the things you didn’t think to test the first time. If you think the heat matters for forging, so you vary the amount of coal, maybe what actually matters is the amount of carbon that gets into the metal from more coal. But in understanding the difference and separating those variables, you begin to do true science."
+
+The Questor was nodding along. They were approaching the front gate, which was formed of a huge slab of metal. It was being cranked open at their approach, but Henrish slowed down to give Nathan a chance to finish.
+
+He was about done. “That’s most of it. Hypotheses are about selecting variables to change and to observe. Understanding the why of results is important, but that requires you to assemble knowledge from many experiments over months to years.”
+
+Henrish faced him fully. He extended his hand to Nathan. “A weighty Insight. I understand the origin of your power. When you return, I may request that you share it with my people. But until you prove yourself to the Ashen Accord, we cannot be proper allies, and I cannot accept such aid.”
+
+Nathan took the offered hand and gave it a solid shake, finding every bit of strength he put into the gesture returned. “We can prove ourselves by fixing the Seal and ending the Blight?” He stole a glance out of the open gate, seeing a barren and rocky landscape stretching out beyond for kilometers.
+
+“Yes,” the Questor replied. “May your tale span the stars.”
+
+“How can we find the Seal?” Aarl asked, frowning out the gate. “A continent is a big place.”
+
+Henrish chuckled. “That is the smallest part of the challenge in this deed. I desire your success, but you have embarked on an extraordinary trial.” He waved his hand out the gate. “You will be certain of it when you approach. I have heard that corrupted Seals are obvious sights.”
+
+The dismissal was clear, and there didn’t seem to be anything else to do, so Nathan and the Heirs trooped out of the gate. The soldiers on either side watched them go with confused expressions, but started cranking the gate closed at Henrish’s direction.
+
+Stella shivered. “The mana reeks of death.”
+
+“Oh. Let me get that for you,” Nathan replied, letting his aura billow out to surround them. His final skill activated for the first time, stripping the faint corruptive effect from the mana blowing through the wind. It felt slimy and cold, like the slippery dissolution of rot.
+
+The mage sighed in relief. “It’s still cold, but won’t burn my mana shaping anymore.”
+
+Khachi glowed a little brighter, rising into the air atop an indistinct glow. “We should begin before nightfall. We must enter the Blight proper and test our ability to camp there.” He raised an eyebrow at Nathan. “Does that count as one variable, or multiple?”
+
+Nathan rolled his eyes and stepped up into the air himself. “It’s not exactly an experiment.”
+
+The rest of the Heirs joined them in the air, and Nathan heard a faint curse from the soldiers on top of the wall. From this vantage point, he could see more of the landscape. There were a few more settlements scattered across the peninsula, each built into a depression and protected by high walls sealed with metal gates. Most of them appeared to be mines of some kind, with plumes of dark smoke belching upwards from smelters to join the overcast sky.
+
+“I’d guess it’s that way,” Nathan said, pointing down the body of the peninsula towards where the clouds were darkest and the gloom thickest.
+
+Sarah’s rifle appeared in her hands, and she aimed down the length in the indicated direction. After a moment, she stowed it with a grimace. “True aim.”
+
+“What did you see?” Aarl asked, sounding morbidly curious.
+
+She shrugged. “Undead. Roving groups, as if on patrol.”
+
+Nathan narrowed his eyes at that. “We should probably assume there’s a higher intelligence guiding their actions. We’re not just cutting our way into an infested territory, but going to face something intelligent. Like the stone giants of the Grave of All Giants.”
+
+“Probing attacks should not draw their attention,” Sarah noted. “Let us find a place to test our camping. There.” She lowered her rifle and pointed off into the distance.
+
+“I can’t see what you’re pointing at,” he reminded her.
+
+“It’s a lone mountain. The top is steep, beyond the reach of those who can climb.”
+
+“Would a more exposed place be better?” Khachi asked. “We seek to camp within Blight, and it will not be a true trial if we are protected by terrain.”
+
+But Nathan was in agreement with Sarah. “It’s a good stepwise test. We’ll see how bad the corruption is and see if there are any other problems. Besides, if we need to find hidden terrain features each night, that’s something we can do.”
+
+Khachi hummed his agreement. “Lead us, then.”
+
+They flew through the air for a while, the sky above growing heavy with leaden clouds. The Blight seemed to be a place of permanent overcast. The ground below also grew darker, a landscape of jagged and barren rocks stained black by the mana. It looked a bit like a fresh lava flow in gradients of grey and black. The main points of interest were the groups of undead that flowed over the terrain like pooling water.
+
+The dead were of various kinds, mostly being bipedal corpses of various types. Nathan spotted humans, orcs, knulds, and various other species. Some were familiar from his time in Keihonia, but more were mysteries to him. Mixed in were various smaller monsters, most of which were things Nathan had never seen before. He couldn’t tell if the giant long-legged bugs were supposed to have only five legs, or if the couple of examples he’d seen had lost one somewhere between death and undeath.
+
+With Khachi’s omnipresent glow, the Heirs weren’t precisely stealthy, and several groups of undead noticed them. But the ground-bound undead mostly lacked the tools to do much more, and it was trivial for Sarah to surgically take out the few enemies that had ranged attacks capable of reaching them. Mostly that meant long-range jets of acid, but there was also an insectoid monster that could hurl spikes of chitin with impressive force.
+
+“Pardon my axe, but should we blast them all?” Aarl asked, shooting an inquisitive look towards Stella and gesturing down towards the crowds of zombies below.
+
+“No,” she replied shortly. “It fills me with sadness, but there’s no need. If there is an intelligence behind them, we do not want to notify them of my power.”
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 9
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 8
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 8
+
+Veracity 4
+
+Whiplash 1
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

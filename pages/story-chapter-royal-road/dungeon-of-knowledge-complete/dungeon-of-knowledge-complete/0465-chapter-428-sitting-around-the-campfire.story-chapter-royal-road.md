@@ -1,0 +1,201 @@
+---
+id: ba80e260-25ba-544e-bead-a2ed659be638
+page-type-slug: story-chapter-royal-road
+title: "Chapter 428: Sitting Around the Campfire"
+slug: 0465-chapter-428-sitting-around-the-campfire
+partOf: dungeon-of-knowledge-complete
+position: 465
+ownLength: 2974
+unit: words
+ownProgress: 2974
+publishedAt: 2025-11-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2725761/chapter-428-sitting-around-the-campfire"
+royalRoadId: "2725761"
+markedReadAt: "2026-06-29T20:27:56.440Z"
+---
+
+Ali sat by their little campfire in the refugee encampment, watching Mato cook. A scene of peaceful companionship that she hadn’t appreciated nearly enough before her friends had been taken from her and she had found herself alone in the Abyssal Realm. She rubbed her breastbone thoughtfully. Guess it’s the simple things, huh? Like surviving. What no-one had told her was the toll it took. Healing bodies was the easy part. This – she would not forget it in a hurry.
+
+“You doing ok?” Malika asked, taking a seat beside her on a round log.
+
+“Yes, I think so,” Ali answered. It had been a crazy week or two, and the fact that she didn’t know exactly how long had passed simply underscored just how frantic and panicked it had been. She almost didn’t know what to do with herself right now. “I’m just not used to sitting quietly anymore. It feels like this is all about to evaporate and I’ll wake up back… there.”
+
+“I bet,” Malika said. “But give it a bit of time, and it will start to feel right, I think.”
+
+“I hope so,” Ali said. “I’m worried about Ryn. And Naia. And Cael and Gage, they must be worried I’ve abandoned them.”
+
+“We’ll go find them as soon as we can,” Malika said with a smile. “And we’ll all help.”
+
+“Thank you,” Ali said, suddenly feeling even more emotional as she remembered what it was to not be alone with her worries and problems.
+
+“I like your wings. They’re pretty,” Malika said, squeezing her hand.
+
+Ali smiled at her. What could she even say? Pretty incredible seemed far too bland a way of saying what this meant to her. It went deep, so deep and yet, she had hardly had time to even think about it.
+
+Just having her friends nearby made most of the problems feel more manageable. There was at least one task she could get started on immediately. She opened her Grimoire and summoned a Poison Wyvern, now so much lower level than her class that it took almost no mana and only about twenty seconds to summon. Yet the dragon that appeared still looked as gorgeous as ever with its glowing emerald eyes and viridian scales – a sleek, muscled predator built for speed.
+
+“Go find Naia,” she told it, speaking in draconic, impressing upon its intelligent mind the direction and path it should take. It screeched once, flared its wings, and took to the air, vanishing from sight in seconds as it shot off into the distance. Even with its speed and ability to fly without resting, without her teleportation circles, it would still take a while to reach Volle in the far reaches of northeast Toria.
+
+Then, while Mato finished preparing their meal, she opened her notifications for the day. She had been ignoring everything, assuming that the consumption of half a dungeon would result in an overwhelming flood of notifications. And she was right, hundreds of variants had been added to her imprints, making her Grimoire visibly larger. All the trees and several treants had been added to her tree imprint. Fungus had gained by far the most new variants, with dozens of new mushrooms and other fungi, along with the Fungaloth variants.
+
+Basil is going to have a lot of new material to experiment with when this is all over.
+
+Then, there were bows, shields, rings of many kinds, all of which had been used by the strange Sylvan monsters. She skimmed over most of it, pausing only to commit the notable monsters to memory.
+
+Infected Rot Guardian. It had been added to her elemental imprint, and by her reading, it shared a lot with her Forest Guardians, confirming her guess that the Blooming Rot had used her favorite elemental as a base from which to mutate this powerful monster. She didn’t know if she would use it, but certainly, more options made her stronger.
+
+She studied the runic inscriptions with the inkling of an idea slowly coalescing in her mind. She had performed a fairly dramatic transcription to create the holy fire kobold for Azryet, but here she could tell the class information for her old Forest Guardian and the Infected Rot Guardian were quite a lot more related. It was a different approach, but with a little work, she might just be able to use the new imprint to up-level her old nature elemental.
+
+I’ll have to try that tomorrow.
+
+But the Infected Rot Guardian had given her something new.
+
+[Sage of Learning]Domain Magic analyzed: Summoning.New domain enhancement learned: Elite.
+
+“Elite?” she said, speaking aloud.
+
+“The Rot Guardian?” Calen asked, looking up from the map he was drawing.
+
+“Yes.”
+
+“Lyeneru said some dungeons can make elite monsters, somewhat between a normal monster and a boss. It had one domain ability.”
+
+“Summoning, yes,” she answered. That had been her first question – why the deconstruction had only turned up a single skill.
+
+On a hunch, she focused on her new addition to Domain Mastery.
+
+Elite+1 Domain Magic skill. x2 to Health, Stamina, and Mana.x2 to mana reservation cost.x1.5 damage multiplier.Domain area restriction.Respawn capable. Domain Enhancement
+
+“This is pretty nice,” Ali said, sharing the details with her friends. It wasn’t so much an upgrade as it was just another cheap mini-boss, which would give her more options. Already, she could think of lots of ideas for solo training monsters, both in her dungeon and in the arena. I just have to recover it all first.
+
+A quick browse through her domain magic skills showed that some of them had automatically updated to reflect her new enhancement. For instance, Spell Cascade listed Elite as having two spell copies – one fewer than her Boss enhancement.
+
+Pressing on, she found another new notification. It seemed that while she had been taking care of evolutions, the waiting adventurers had killed a Grim Stalker boss, and she had deconstructed it for mana to fuel the shrine.
+
+[Sage of Learning]Domain Magic analyzed: Minions.Domain Magic analyzed: Attribute Enhancement (Dexterity).Domain Magic analyzed: Retaliation Trigger (Poison Nova). Retaliation TriggerRequirements: Choose a spell with a compatible Magical affinity.Source: Grim StalkerSpells: Poison Nova, Poison Cloud, Grasping Roots, Insect Swarm, Arcane Blast.The spell chosen can be one of the known spells or one of the skills possessed by the enchanted monster.Cast the chosen spell when the enchanted monster is hit. The spell will be powered entirely by domain mana.Skill – Domain Magic
+
+“This must have been a pain,” Ali said, sharing the Retaliation Trigger domain magic. As usual, Domain Mastery had automatically added several options matching her affinities – presumably a bonus provided by her class.
+
+“Oh, yes, I hated that,” Malika said. “The poison didn’t scale with damage, just speed.”
+
+“How did you kill it?”
+
+“Very large, single-shot Ambush,” Calen said. “Malika hopped into the spirit realm, giving me the trail to follow, and I turned on Eclipse before coming back. Lyeneru did it without that somehow – I need to ask her about that.”
+
+“That seems like a good strategy, though,” Ali said, musing over the fights she hadn’t seen. Sitting and discussing strategies with her friends really began to drive home the fact that her ordeal was finally over. She smiled quietly and searched through her notifications for all the new imprints that were pressing down in the back of her mind, a weight that was easily ignorable under the constant grating pain of the dungeon rage that showed no signs of abating.
+
+Imprint: Sylvan completed.Imprint: Fern completed.Imprint: Plant Aberration completed. Imprint: Mace completed.Imprint: Poisonous Fruit completed.
+
+“What do you guys think of these imprints?” Ali asked. Other than her experience with Blooming Rot prior to Lira’s death, she had no idea what everything was, nor how powerful they might be. And, as always, imprint chapters were a premium.
+
+“Sylvan is probably good,” Malika said. “It looks like the dungeon mutated the corpses of the people in town, turning them into plant hybrids. We’ve found druids that can shapeshift and summon monsters, archers, and warriors so far.”
+
+“Evolved?” Ali asked.
+
+“Some, yes.”
+
+So, that one will probably take two chapters, then, she thought, considering the remaining options and her Grimoire. She had earned some new chapters in the Abyssal Realm, and there had been no opportunity to learn anything she didn’t already have an imprint for. But in a few hours of returning, she had learned several new things, and dozens of new variants of imprints she already had. It is an unusual circumstance, though.
+
+“Plant aberrations might be handy too,” Calen said, offering his thoughts.
+
+“What is there other than the Mana Eaters?” Ali asked. Although the Mana Eater may cost a double chapter just by itself, it was an extremely unusual monster, with a very powerful ability.
+
+“Snapping Putrid Pitcher, and probably the Corpse Flowers,” Calen said. Both of which she recalled from the fight right before Nevyn Eld had appeared and murdered Lira.
+
+“That seems good too,” Ali said. “Poisonous Fruit doesn’t seem that valuable, nor does the fern imprint. But what about this mace? I don’t have any blunt weapons. I did get a lot of cool arrows, bows, shields, and some strange wooden swords.”
+
+“They’re parasitic,” Mato said, with a grumpy frown on his face.
+
+“Is there a story here?” Ali asked, accepting the plate of food he offered.
+
+“Mato equipped a ring, shield, and mace, and then he couldn’t take them off for a few days,” Malika said, sharing the appraisal of the parasitic items.
+
+“Oh, that’s nasty,” Ali said. “I hope you made fun of him?”
+
+“Oh, for sure,” Malika said, grinning broadly at Mato as he paused in the middle of handing her a plate of drake stew garnished with mushrooms and pretended to take it back.
+
+“You didn’t exactly appraise them for me,” Mato grumbled.
+
+“To be honest, I didn’t know it was a possibility,” Malika said, accepting the food with a smile for him. “So, it’s partially my fault. The items are good, though, now that you have the wisdom to take them off.” She turned to Ali and explained, “Zor’kan made him fancy new boots to help him out with the wisdom requirements.”
+
+“If you pick Sylvan, they have Nature absorption, so the parasitic enchantment heals them,” Calen said. “It’s also why the Sylvan monsters kept the poisonous berries and fruits – they work like healing potions to them.”
+
+“Oh, that sounds interesting.” It was an angle Ali hadn’t even considered, and it bumped the Sylvan imprint higher on her priority list. Especially seeing as she didn’t need to learn any new imprints to get the rings, bows, swords, and shields. Also, she had a sneaking suspicion that monsters derived from humans, elves, and dwarves may benefit from her discovery with her shrine.
+
+Mato grunted and sat down, but his face eased up and his irrepressible cheerfulness bubbled to the surface again. “While you’re figuring out your imprints, you should tell us what Azryet’s like.”
+
+“I had to burn over ninety percent of my life just to survive his first breath attack,” Ali said. “And I survived his dragon fear by using the same rage trick I used on Joraa.”
+
+“What?” Malika said, shock written across her face as her suddenly forgotten stew fell from her spoon and splashed back onto her plate.
+
+“Yep, and then I told him off for being an ass,” Ali added.
+
+“You didn’t!” Malika exclaimed.
+
+“Unfortunately, I was rather rude,” Ali said. “But I think that just impressed him, at least just enough to talk to me. I think it’s a dragon thing. When he learned what happened to Lira, he made a bargain with me. He’s pretty desperate for ways out of the predicament he is in, and when we get things sorted out here in town, I’d like to try helping him.”
+
+“What does he need?” Mato asked, suddenly extremely curious.
+
+“He used me to defeat a boss that was immune to both his affinities,” Ali said. “He needs followers to grow his reputation – it grants him Authority, and he can do some crazy stuff with that. But he hasn’t seen another person for several millennia, so I think he’s also quite lonely. He’s absolutely smitten with Havok, and he asked me so many questions about Mato and Devan and the other handful of people in their little church. I was thinking of hooking him up with access to the quest board in the guild. I control the rift now, and adventurers raiding in his space when they’re strong enough should help immensely. He also needs knowledge of magic and new draconic monsters with better abilities, which is again a great use of the guild jobs board.”
+
+“That’s surprising. When you said he was a four-mark, I was expecting something insane that we would have no hope of achieving,” Mato said, looking thoughtful.
+
+Ali nodded. She, too, had been surprised that such a powerful being could find mutually beneficial bargains with her, even though she was at a vastly lower class level.
+
+The conversation continued as Ali recounted more and more of her adventures in the Abyssal Realm while she added the imprints for Sylvan and Plant Aberration to her Grimoire, dismissing the rest. Then she systematically summoned every new monster she had learned, sharing the status sheets, attributes, and skills with everyone, much to Calen’s delight.
+
+Teharissa sat on her log, nursing her warm mug of mulled cider, simply reflecting on how interesting life had gotten recently. Over to her left, she could see the glow of mana rolling off the dungeon, along with distant flickers and flashes of various spells. The massive, awe-inspiring Ciradyl trees appeared as vast fountains of soul affinity mana beyond the tree line. She had lived a long life, and as the sages were fond of saying, interesting times were not necessarily the best. In the last couple of months, she had lost two homes, both to dungeons, and she was beginning to feel like disaster was tracking her, like a hunter looking for prey.
+
+She looked up at a sound, finding a strange apparition greeting her mana sight. A small form, with a powerful kernel of glowing green mana, surrounded by a golden aura of pulsing arcane. Flaring outward were golden wings, visible by the dense, sparkling mana that flowed within their delicate surfaces.
+
+“Aliandra?” she asked. After all, who else could it be? That golden arcane mana was quite extraordinary.
+
+“Hi, Teharissa,” Aliandra said. “I’m glad to see you survived all the messy business with the town.”
+
+“Aah yes, it will take more than that to put these old bones in the ground,” she answered with a grin. In truth, it would take a lot less. She had gotten lucky, but in cases like this, she firmly believed in defiance. “How can I help you?”
+
+“I found a few things in the Abyssal Realm, and I was wondering if you could make inks from them?”
+
+“Sure, what did you find?” she asked, and then gasped as Aliandra’s storage enchantment flickered and something appeared before her. It was a crystal that exuded a malevolent dark mana of a kind she had only seen several times in her life. “Where did you get Pit Lord blood?” she asked.
+
+“I had to kill one,” Aliandra said. “Well, I killed two of them actually, and now I can make them. Is this useful?”
+
+“I can make you ink from that, but I would caution you to use it carefully. It has the power to corrupt whoever you use it on. I will not make this ink if you intend to use it on people,” she said firmly.
+
+“I was planning to use it to tattoo some of my demonic minions,” Ali said. “Is that a reasonable thing to do?”
+
+“That should be fine,” Teharissa said, summoning a pewter bowl so she didn’t have to touch the crystal. One that she would be fine with destroying afterward.
+
+“I have this, too,” Aliandra said, and again the storage mana flickered. But this time, Teharissa stopped, transfixed by what she saw. Hovering in front of Aliandra’s form was a vial of something that shone with an unbelievable radiance, filling the world with brilliance and light, and a soft, gentle pulse that warmed her even from a distance. Shot through all of it were flecks and streaks of the blackest night, dark even against the blindness of her sight. A darkness that promised oblivion with even the faintest touch.
+
+“What is… that?” she gasped.
+
+“This is the blood of the dragon god Azryet,” Aliandra said.
+
+“How…”
+
+“I asked him,” Aliandra said, as if that were a simple thing to do.
+
+“And he let you?” she gasped.
+
+“He did. He said his class protects him from the misuse of his blood. How much do you want to make ink from this?”
+
+How did this girl gain the trust of a god? There must be a story behind it, but just as clearly, Aliandra had experienced something traumatizing. Her light and rapid answers, avoiding details, told Teharissa far more than Aliandra was letting on.
+
+“I will not ask for anything,” Teharissa said, finally regaining her voice. “Just the opportunity to work with it will be more than enough.” She stared at it still, unbelieving. But she chose to ignore her curiosity; now was not the time.
+
+If it were as Aliandra had said, simply using her skills with such a potent reagent would likely open many locked paths for her, and drive her skill evolutions and advancement in ways that were simply unheard of.
+
+“Are you sure?” Aliandra asked.
+
+“Oh, yes,” she said, still a little breathless. “I will make it immediately.” And with that, she began unpacking all her apparatus and equipment – her best equipment.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

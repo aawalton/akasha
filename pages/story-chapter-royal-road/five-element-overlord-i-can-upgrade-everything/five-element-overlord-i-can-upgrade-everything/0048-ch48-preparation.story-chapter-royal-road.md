@@ -1,0 +1,111 @@
+---
+id: d0b1abf7-8804-55ed-9296-ad0a608d4dc4
+page-type-slug: story-chapter-royal-road
+title: "Ch48 Preparation"
+slug: 0048-ch48-preparation
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 48
+ownLength: 1383
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3364230/ch48-preparation"
+royalRoadId: "3364230"
+---
+
+‘System… I’ve gathered everything I can to challenge my next bottleneck to the 4th level. If there is anything else you could provide to make the breakthrough smoother, that would be appreciated.’ I mentally whisper into the system.
+
+Then, the die disappears, and a tiny dark black flickering spark forms in my storage.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Black Lotus Flame Fragment][Perfected Stage - Spirit Grade - Natural Entity]
+
+When I try to examine it within my system, it flickers, and a strange sense of danger trembles in my soul. It kind of reminds me of the deep purple pressure that Xu Hong let out during her breakthroughs. I’m even hesitant to pull it out of my storage.
+
+‘System, did you not hear me…?’ I mentally question it, with no response again.
+
+I look at the dark red egg with golden patterns sitting on a pile of untouched spirit stones, and read the secret the system has marked beneath it.
+
+[Holds a trace of the Primordial Flame Swallowing Toad’s Bloodline. Will not awaken until a unique Spiritual Flame is presented for its rebirth.]
+
+The perfect grade soothing flame talisman was not enough for this toad to even stir beneath its shell. The small black dot in my storage does not look like a flame, but if anything will work then this is my closest option.
+
+For some reason, this egg is deemed more important than my own breakthrough to the system. While I am curious to see if I can awaken a spirit beast pet with an innate physique, my own strength is more important.
+
+This system can understand my desires, and it seems to know far more about my surroundings and future opportunities than I do myself.
+
+“There must be more to this…” I murmur out loud, and pull out a defensive talisman. I activate it, and brace myself against the exit of this small cave section. With a swift hand movement, I allow the black spark to leave my storage and land beneath the still elevated defective egg.
+
+It looks as small and confusing as it did in my storage. A tiny black flickering light no larger than a grain of rice.
+
+Yet, the instant it hits the open air, I feel the black talisman’s defensive aura surrounding me crack all over.
+
+The spirit stones on the ground are crushed to white dust by an eerie pressure. The raw gaseous qi is expelled from the room like a gust of wind. I’m included in this violent force of rejection, sent flying backward over 20 meters down the cave passage.
+
+My talisman shatters, and an overwhelming heat and pressure invade my senses for a split second. I manage to activate another perfect grade defensive talisman, and stand to my feet, enabling me to run further away before it shatters again.
+
+The only thing left in that tiny cave room is the small egg, and the rice sized flame fragment.
+
+The soul bond I made with that fingernail sized white jade artifact stirs for the first time, but it’s extremely subtle. It is like nothing more than something deep in slumber, turning in bed because they hear birds chirping in the window.
+
+The stirring sensation becomes dormant moments later, and I’m forced to stand in the main room of the cave alone in my thoughts. Waves of heat are continuously pouring out of the passage in the closest hall, making this room slowly grow hotter.
+
+In case it doesn’t slow down, I decide to retreat, running upward to the surface.
+
+I stand in front of the cave entrance for a few minutes. Thankfully no heat makes it up this far. A small amount of relief washes through me, but there is some unease too.
+
+Instead of going back inside, I walk back to the steward quarters for the night, mentally dissecting what the purpose for this lottery draw could be.
+
+The Flame Toad is a common low level spirit beast used for poor grade roots to break bottlenecks easier after 20 full years of waiting. When Wang Ming was selling me on their benefits, he only mentioned 7th and 8th grade roots using it.
+
+Maybe 9th grade roots are truly so horrible, that even with all of these heavenly grade pills and fruits, the only path the system sees is to use this toad to help me progress.
+
+If it has an innate physique like Xu Hong did, maybe it will level up faster… Or maybe it just views the opportunity to claim a rare bloodline as more valuable than my breakthrough.
+
+Tons of questions and theories race through my mind all night while I meditate in my steward’s cave abode, waiting for the sun to rise.
+
+Once it does, I have a far more resolute gaze. It does not matter if that flame toad will help me or not. I’ve already prepared without it. I’ll attempt the breakthrough anyway.
+
+I walk out of my cave and down to the dining hall’s back counter.
+
+“Excuse me, what is the process necessary to take leave for a breakthrough? I’m going to challenge the bottleneck for the late stage of level 1 soon, and do not want it to affect the routine of my normal wood collection route.”
+
+An old steward hands me a spare inferior grade storage pouch, a small temporary steward token that needs my imprint as approval, and a map of the route I already have.
+
+“Just appoint one of your servants as the temporary candidate for the collection route. It would be best to bring them through it today, just so other servants are aware, and introduce him to your dropoff steward at the charcoal pits too. The standard leave time for a steward breakthrough is 3 to 5 days, I would need additional approval from the outer sect to allow you more.”
+
+I nod, “5 days should be more than enough, thank you.”
+
+He marks down my application for leave, and the servant Wei Ping that I mark as the one who I will appoint, and he lets me go off about my day without needing anything else.
+
+–
+
+“Junior Wei Ping, I have a job for you.” I call out, startling the hardworking boy while the sun is still in the sky.
+
+“Senior Li, I’ll do anything you ask.”
+
+The bright eyed kid bows and pays respect, and in return I hand over the small pouch, papers, and token.
+
+“You haven’t reached the first level of qi refinement, but you’ve already begun circulating qi through your meridians. Try imprinting this token and pouch.”
+
+It takes a few minutes, but he succeeds, and I explain that I will be taking leave for a few days.
+
+“That’s right. Since you’ve consistently been the hardest worker, I’ve chosen you to take over this job.”
+
+Over the next few hours, we walk together hut to hut while the sun slowly sets.
+
+I pay the spirit fragments for everyone's wood, and Wei Ping collects it.
+
+When we reach the charcoal pits at night, the steward pays out 142 fragments. “Good, you took my advice this time and actually registered. I’ll be expecting your servant for the next few days.” The old man that I bribed with spirit wine gives us both a smile while we walk off.
+
+Wei Ping tries to hand me the fragments, but I shake my head.
+
+“You’ll need that to pay the other servants tomorrow. Plus, whatever profits you make, keep them for yourself. Maybe you’ll have enough qi to break through into the 1st level of qi refinement by the time I return.”
+
+While I could easily give him a perfect grade marrow cleansing and qi gathering pill right now to let him break through on the spot, I think that would do more harm than good. This young kid is a hard worker, and wants to make it on his own.
+
+Sprinkling seeds of goodwill, but letting him feel like he’s worked for it will be far more productive.
+
+We part ways.
+
+Wei Ping walks back to his servant hut for the night, and I pretend to return to the steward quarters.
+
+Once I’m certain no one is nearby to watch me leave, I head off toward the Ravine, determined to break through this bottleneck by any means necessary.

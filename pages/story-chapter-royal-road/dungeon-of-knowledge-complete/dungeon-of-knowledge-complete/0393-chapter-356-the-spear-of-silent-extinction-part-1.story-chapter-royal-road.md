@@ -1,0 +1,167 @@
+---
+id: 7699dd52-34f4-5b98-bb7c-8af105185f40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 356: The Spear of Silent Extinction (Part 1)"
+slug: 0393-chapter-356-the-spear-of-silent-extinction-part-1
+partOf: dungeon-of-knowledge-complete
+position: 393
+ownLength: 3000
+unit: words
+ownProgress: 3000
+publishedAt: 2025-08-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2543824/chapter-356-the-spear-of-silent-extinction-part"
+royalRoadId: "2543824"
+markedReadAt: "2026-06-29T20:25:17.003Z"
+---
+
+Kieran stalked the streets, his blood boiling in his veins. Ever since he had been assigned to Myrin’s Keep, his job had remained the same – operating from the shadows to keep powerful figures like Bastian and Jax in check, and the population pliable and controlled. Keep the region plump and ripe for the picking. All he had to do was funnel a steady stream of resources back to the Southport chapter, and the Shadow Council would reward him handsomely. All as long as he maintained his cover and did not draw attention to his efforts.
+
+It was the last part that particularly rankled. Jax was an arrogant prick, but he wasn’t stupid. Still, he’d allowed Vivian and that fucking Adventurers Guild of hers to sprout like weeds beneath their boots. Kieran had been forced to watch while his oaths kept his hands tied.
+
+They’d systematically dismantled his power, whittling away at the Town Watch. First Adrik and Edrik – grunts for sure, but they’d proved difficult to replace. Then Roderik. Icecrown’s death had shocked him deeply, and it had drawn the broader attention of the Shadow Council to Myrin’s Keep in the form of Alexander Gray – especially after they killed him, too. Indacus Argyle had had a few choice words with him regarding the master’s Death Knight being forced to intervene. He shuddered and his boiling rage faltered in the face of that chilling memory.
+
+It hadn’t stopped there. His answer had been to groom Tala to be his hands and eyes, his dagger in the dark in Myrin’s Keep – a discretionary asset, excising thorny problems before they became unmanageable, without giving himself away.
+
+It had worked fantastically well until they had killed her, too.
+
+It all came down to that Aliandra. He ground his teeth together so violently, he tasted blood. She was the catalyst that had catapulted the fledgling, stagnant guild into power, somehow turning the washed-out has-been, Vivian Ross, into a powerhouse that could make his carefully balanced Town Council and the rest of the town dance to her tune.
+
+Next, Aliandra had swayed Lyeneru Silverleaf – the legendary dungeon exterminator – into supporting her. How the fuck she had turned the Pathfinder would forever escape him – but it had resulted in the Death Knight’s destruction at the Night Elf’s hands, dealing an unthinkable blow to the Shadow Council.
+
+Aliandra was the source of all the resources that had catapulted the crafters to unheard-of heights, making them cocksure and confident – undoing decades of Jax Hawkhurst’s work. It was she who had secured the patronage of the Silver Cog with that zone-wide message of a crafter’s tier breakthrough.
+
+Exquisite timing, he had to admit. A masterstroke, one that would only make her demise the sweeter. He relished the challenge.
+
+But she had finally made a fatal mistake. She had slain the Heroes of the Crimson Blade. Whether she knew it or not, wiping out the crown’s platinum executioners effectively bared her fangs to the world, and Southport would now be hesitant to swoop in and put Myrin’s Keep in order. But the Crown was not the true power in this world; far more dangerous monsters lurked in the shadows. He rolled his shoulders and cracked his neck to the side.
+
+It was that reluctance on the part of the Crown that unshackled Kieran’s hands. A reckoning was coming. The Spear of Silent Extinction had been unleashed upon Myrin’s Keep. He would tear down her support, one piece at a time, starting with her favorite crafters, and nobody was coming to her aid.
+
+His mind caressed the image of his spear, stored in easy reach inside his ring enchantment. Before long, these pathetic townsfolk would kneel before him, once again begging for his protection and mercy. He allowed a tight grin to crease his lips, baring his teeth to the dark alleyway. A black cat screeched as it sensed his presence and fled.
+
+He stepped out onto Artisan’s Row in full stealth. His first mark would be finishing Tala’s last job – one of Aliandra’s most loyal crafters. With a single strike, he would obliterate her foundation, deal a mortal blow to Silver Cog, and drive fear into the hearts of these peasants. It wouldn’t matter that the Tailor was in the second tier – she had no defensive abilities. He could not miss – and, with his skills, it wouldn’t take a second strike.
+
+Ali pushed the door open and, as she entered the elegantly decorated Tailor’s shop, her eyes widened in surprise. Lydia’s Allure had been dramatically expanded since she had last set foot inside. There were now two open-plan showrooms on either side of the main lobby – presumably the result of cannibalizing the neighboring buildings. From what little she could see through the open doors, the work and storage rooms in the back were much more extensive than before, too.
+
+Did Hilda move in? Ali caught sight of the dwarf stacking bolts of cloth in the back while humming a happy tune. She glanced back at her companions, but Calen just smiled and Malika shrugged her shoulders.
+
+In the showroom to her left, several well-dressed and wealthy-looking people, some clearly from out-of-town, oohed and aahed at the gorgeous ballgowns on display mannequins. A young noble girl performed pirouettes in a powder-blue gown to lavish praise.
+
+To her right hand, robes and tunics adorned the cartoon-like mannequins that had been artfully arranged with costume weapons to depict heroic-looking mages and sorcerers – clearly the room for the adventurer types, but displayed without the pragmatic efficiency Weldin Thriftpenny favored for the guild store. Presumably, these better suited those customers with more sensitive dispositions.
+
+Elton cut a dashing figure at the counter in his coal-black, conservatively tailored suit. He was sorting several bolts of Hilda’s finest Fire Silk and Frostweave, but he glanced up and made eye contact with Ali the moment the entry chimes sounded.
+
+“Welcome, Aliandra. Calen. Malika. Lydia is in the first workroom on the right, she said to go right in,” he said, offering them each a polite nod in turn.
+
+“Thanks, Elton,” Ali said, and led the way into the workroom where she found Lydia in the middle of producing an intricate work of art, mana formations trailing from her fingers to assemble the panels of shimmering fabric that fell from the blades of the levitating scissors like wheat from the scythe.
+
+“Hi, Aliandra,” Lydia said, her eyes flickering only briefly away from her project. “How are you feeling? Calen said you weren’t well.”
+
+“I’m getting better… slowly,” Ali said, smiling ruefully at her. Too slowly. It was true that her energy was trickling back little by little each day as the debilitating life channeling slowly faded, but she didn’t want to worry her friends with just how exhausted she still was, nor how vulnerable she felt with such a reduction to her health. It had been ages since she’d felt so weak. At least Calen hadn’t contradicted her.
+
+“That’s good to hear,” Lydia said, finally putting her work down and halting the busy floating tools with a wave of her hand to greet them properly and hug her son. She turned to retrieve a box from a shelf and handed it to Ali. “Let me see how these fit you.”
+
+With no small amount of excitement, Ali lifted the lid of the box to reveal Lydia’s latest creation. Lying snugly cradled in artfully arranged royal-blue tissue paper, was a set of the most beautiful slippers she had ever seen. The pearl-white fabric shimmered with the deep blue iridescence that gave away the nature of the Frostweave fabric Lydia had used, but the lacing, the stitching, and even the embroidered runework were crafted in an exquisitely fine purple thread that seemed to have been spun out of pure mana.
+
+The exquisite footwear shone with an otherworldly glow as Ali’s mana sight revealed the power of the enchantments woven into the fabric by the Grand Tailor’s unmatched skill.
+
+“Spun arcanite thread,” Lydia said, identifying the purple thread that had been stitched into the fabric. “I couldn’t find anything that would hold the enchantments and still match your colors, but I thought you wouldn’t mind too much once you Identify them.”
+
+Ali arched an eyebrow at Lydia, curious as to what inspired such confidence. She glanced back down at the slippers in the box and identified them.
+
+Spell-Rend Magus Slippers – level 112Power and enchantment for the discerning mage. Beautifully crafted slippers that will be right at home in a royal ball or the deepest dungeon and will also keep your feet cool and fresh.+35% to resistance against Ice damage.+66 Intelligence+53 Wisdom+26 Perception+250% to mana regeneration+12% spell power to Arcane skills. Requirements: Intelligence 392Created by Lydia Avery.Feet – Frostweave / Arcanite Thread
+
+“Lydia! This is…” Ali gasped before words failed her. Her slippers were unreal. How had Lydia crammed so much into such a small piece and yet kept them looking so delightfully elegant? There were fully six enchants on proud display, a feat no less incredible even with the knowledge that the Frostweave fabric had facilitated the extra resistance against ice damage.
+
+“Can I see?” Calen asked.
+
+Wordlessly, Ali shared the details.
+
+Ali’s appreciation of the nuances of crafting had greatly expanded in the process of studying her imprints, the ongoing lessons with Donella Novaspark, and the relentless consumption of every tome on runic enchantment she and Ryn managed to lay their hands on. In effect, Ali was a crafter, able to make wands and rods, and even inscribe powerful tattoos, but all her experience just left her even more in awe of this display of Lydia’s extraordinary skill.
+
+“I… wow,” Ali said, reaching out to brush the fabric with her fingertips. “How did you…” Several of the enchantments had been reimagined by the Grand Tailor with deviously creative ways to express the same formations. It was a virtuoso achievement that allowed the individual enchantments to share important sub-formations, greatly improving the efficiency – no doubt what allowed so many enchantments to coexist in one piece.
+
+The beaming smile lit Lydia’s face from ear to ear. “I’m glad you like it. It’s not often that my clients can truly see my work. Go on, try them on, I want to check the fit.”
+
+Her hands trembled slightly with barely suppressed excitement as Ali slipped them on and she carefully tied the arcanite-thread laces into bows. As soon as she finished, her mana twisted, a subtle shivering pulse, and before their very eyes, the purple arcanite thread slowly transformed, taking on her signature golden glow.
+
+“Well now, there’s a thing,” Lydia said, nodding in approval. “That definitely suits you better.”
+
+“Um, how much of a king’s treasury do I owe you?” Ali asked, nervously. She did have quite a lot of money now, given that the dungeon was extremely profitable, and she could always make more, but these slippers were on a different level. Lydia must have bought the thread at the auction house, and who knows how much she had spent just on that alone.
+
+“Don’t be silly,” Lydia said, waving her off. “You’re the reason I can even make that stuff and afford the materials. I’m not about to charge you.”
+
+“But you’re running a business, I don’t want to bankrupt you because you feel like you owe me. I can pay,” Ali objected.
+
+“You know, we do this every time,” Lydia said, beckoning Malika over for measurements, immediately intuiting what she wanted without even a single word being said. “Don’t tell anyone, but I have more money than I can realistically spend. That’s even after hunting down high-level thread on the auction house. Business is booming now that I can sell anything I make, regardless of level. That auction house is a godsend for us crafters.”
+
+Ali frowned and took a deep breath. “But…”
+
+“No buts. Before you complain more, I sold two items of a similar level this morning. I’ve already recouped the cost of your piece in profit.”
+
+“Well, in that case, thank you,” Ali said. And she meant it – Lydia had always looked out for her, even from the beginning before she could return any favors. This new set of slippers would go a long way to help her get stronger.
+
+“Oh, my, Malika! What is this?” Lydia asked, running her fingers across Malika’s tattoos as she finished fitting her new shirt. Her eyes flickered as she activated her perception skills, studying the runework covering her back with professional curiosity, and no small amount of fascination.
+
+“Ali made this for me,” Malika said. “It gets around my class limitation of not wearing body armor.”
+
+“How does it do that?” Lydia asked, leaning closer to inspect the details.
+
+“It’s custom-built to exclude the defensive attributes,” Malika explained. “See, there’s no armor, resistance, or evasion?”
+
+“I see,” Lydia said. Then her eyes widened, and she caught Ali’s gaze, “Wait, you can craft skills? What is Spirit Walk?”
+
+“A movement skill that takes me to the Spirit Realm,” Malika explained, and then she shimmered, shifting away before reappearing on the other side of the room with barely any delay.
+
+Ali could already see the wheels turning in the Grand Tailor’s mind, knowing she was trying to figure out how she could translate the skill enchantment for the purposes of tailoring. If you insist on refusing my gold, I think I might have just found something you will accept…
+
+“Here,” Ali said, opening her Grimoire and creating a small notebook with the several runic skill enchantments she had learned from her studies of the troll tattoos and her imprints. “I don’t know if or how you’ll be able to translate them to work with your class, but you can have these to experiment with.” She offered the book to Lydia. With luck, she would be able to figure out something useful.
+
+“Aah, thank you, Ali,” Lydia said, but the gleam of excitement dancing in her eyes directly contradicted her politely reserved words. That gleam clearly proclaimed that she knew and appreciated the gift’s value more than words.
+
+Elton popped his head into the room and with a loud whisper he called out, “Lydia! Custom order.”
+
+“Tell them I’m coming,” Lydia said.
+
+“Busy day, Mom?” Calen asked.
+
+“Yes. I have to run, but I do have time to see my most important customers out,” she said, smiling as she handed Malika her new shirt.
+
+A line had formed in front of Elton, and several waiting patrons glanced impatiently in their direction as Lydia accompanied them outside. It was probably a good thing they didn’t stay to chat too long – it seemed likely that the busy Tailor would need to hire another assistant sooner rather than later.
+
+“I need to check in with Weldin,” Malika said. “Will you two be alright getting back on your own if I go on ahead?”
+
+“Sure,” Ali answered, glancing at Calen first to confirm.
+
+“Thanks for the shirt,” Malika said, smiling at Lydia, and then she shot off, ignoring the mundane limitations of mere streets as she sprinted through the air. In seconds, she had vanished from sight.
+
+“It’s a pretty day outside,” Lydia said, a little bit of a wistful note creeping into her tone as she glanced up at the sunshine.
+
+“It is,” Ali agreed. “Thanks again for these beautiful…” Ali’s voice cut off with a yelp as a dark shadow flickered across the edges of her mana sight. Long-forgotten nightmares of bloodthirsty kobold rogues leaping from shadows burst into her mind. With the speed borne of instinctual terror, she slammed her mind into her Blood Shaman escort, shoving her sideways, and snapped up the strongest barrier she could muster.
+
+A deafening crack echoed from the stone-faced buildings on either side of the street. A cloud of razor-sharp golden splinters exploded in Ali’s face as a gout of warm blood splashed against her cheeks. She blinked, clearing her vision. What… what the…
+
+The first thing she saw was the Blood Shaman dangling limply from the business end of a two-meter-long silvery spear, her reservation already snapped. The Shaman had perished instantly. Lydia lay groaning on the path outside her front door, blood running freely from a shallow wound on her chest, a little left of center.
+
+“Tsk.”
+
+The soft tongue click of annoyance snapped against her awareness like a jolt of electricity. Behind the spear stood the powerful figure of a man, clad head-to-toe in midnight-black leather. Dark shadowy enchantments enveloped his frame, obscuring its edges like the Dark Shades that infested the Infinite Maze.
+
+“Mori…” Lydia croaked from where she’d been flung.
+
+“Mom!” Calen screamed, the raw anguish in his voice galvanizing Ali to action.
+
+Kieran Mori!
+
+Ali snapped up several barriers and glared at the infamous leader of the Town Watch from behind their dubious safety. She had seen him once before. Deep in the Ruins of Dal’mohra when he had unleashed this very same Sudden Death attack to obliterate the skeletal remains of Armand and tossed her and Mato down the shaft, before selling Calen and Malika to the Kel’darran slavers. What had suddenly provoked him to action, Ali couldn’t fathom, but without her shaman, her barrier, and an enormous helping of luck, Lydia would be the one dangling dead from his spear right now.
+
+He hopped backward on nimble feet, ripping his spear from the corpse of her Blood Shaman at the precise instant that an incandescent arrow seared through the space he had been occupying.
+
+“So, you can see mana. Unfortunate,” Kieran growled. Before her very eyes, the wisps of his mana faded from Ali’s mana sight and then he vanished entirely. “It won’t happen again,” he said, his voice suddenly seeming disembodied and coming from everywhere all at once.
+
+He’s… gone?
+
+Ali summoned more barriers, but she felt the certainty of his spear Ambush aimed directly at her heart from every shadow.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

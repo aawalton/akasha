@@ -1,0 +1,195 @@
+---
+id: cb037839-5aba-571b-9701-852fc920dd0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 332: Heroes of the Crimson Blade (Part 3)"
+slug: 0369-chapter-332-heroes-of-the-crimson-blade-part-3
+partOf: dungeon-of-knowledge-complete
+position: 369
+ownLength: 3214
+unit: words
+ownProgress: 3214
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2483885/chapter-332-heroes-of-the-crimson-blade-part-3"
+royalRoadId: "2483885"
+markedReadAt: "2026-06-29T20:23:06.868Z"
+---
+
+“Ok, let’s go kill it properly,” Bartak growled, advancing into the ring with his sword already blazing. “Form up, you lot. No more fucking around.”
+
+“I sense no mana,” Lilian said. “Just like that one upstairs.”
+
+“This one is stronger,” Beltz growled, his eyes smoldering with fury.
+
+Icy fingers of fear crawled up Ali’s spine as she saw the swagger in the Beastkin’s stride, the cold arrogance in the Ice Witch’s stare, and the murderous rage that made the shadows dance around the assassin.
+
+Tol’brekk stepped back, readying his axes as the platinum-ranked adventurers fell in beside their leader. Ali would have to trust him for melee tactics – she was no fighter. Still, she needed to stop these intruders here. Her only remaining option was to fall back to Mok’freja in the rift chamber, and that would be a delaying action at best.
+
+I wish the others were here. Unfortunately, they were all currently out raiding Lyton Ruins or Blooming Rot. I need to do it myself… just… She eyed her enormous berserker. Powerful as he was, she knew all too well his limitations – the longer he fought, the more powerful he would become, but losing his reason to rage when facing a well-trained team sporting the likes of this Shadow Priest and Ice Witch was a recipe for disaster. She would need to take charge.
+
+“Kill the priest first,” Ali said, thinking in Trollish just in case any of them had divination or mind-reading enchantments active. She was not the combat strategist that Calen, Lyeneru, or Vivian were, but if she had learned anything from that first delve into the library ruins, it was to kill anything that could heal with extreme prejudice.
+
+“Yes, Seeker,” Tol’brekk whispered. He squatted down, his legs bulging from the strain as he prepared to Leap.
+
+Bartak charged, his entire body growing larger while crimson flames burst from his fur and skin. “You fight me!” he roared.
+
+The huge berserker let go of his Leap skill as his vision shimmered. While everything around him grew hazy and dark, the flaming Beastkin right in front of him shone out like a beacon.
+
+“The priest!” Ali commanded, but Tol’brekk was unable to tear his attention from the warrior. His axes whistled through the air, clanging against the flaming crimson sword. Uselessly.
+
+“He’s Taunted,” Vernon announced, flaring with dark and light magical formations as he began tossing out buffs and curses with methodical precision. “All out.”
+
+The assassin vanished in a puff of smoke and shadows while the others downed potions and unleashed a hail of ice and flaming arrows at the berserker warrior who no longer cared to see them.
+
+Shit! Scrambling backward and upward as stray arrows pinged off her spherical barrier, Ali hastily threw up an array of floating golden walls, angled to deflect the bulk of the deafening storm of ranged attacks from her giant Troll, desperately trying to get a sense of where the assassin had gone. She penned up the witch and the archer in domain-enhanced golden spheres, but one teleported out and the other knocked the walls down with a blazing barrage of arrows.
+
+The red mist of rage began to seep from the shoulders and chest of the berserker as the onslaught began to whittle away at the boss’s enormous health.
+
+“How much fucking health does this thing have?” Sallis growled, looking like a raging bonfire at the far perimeter of the battlefield as he unleashed a dizzying storm of fiery arrows.
+
+But the reality of the situation settled like a millstone around Ali’s neck. Despite the vitality domain enhancement, the troll regeneration, the gigantic health pool of a blood magic user, and the regeneration enchantment she had inscribed, Tol’brekk was dying. It wouldn’t be fast, but Ali was losing.
+
+Every spell or blow she let through took his health down, while every strike he unleashed upon the blazing Beastkin was either blocked or healed by the priest behind him.
+
+“Get the priest!” Ali screamed into her connection with him, as if volume and intensity could somehow blast some sense into his giant head. Vernon was standing right there on the edge of the restoration circle, in a direct line behind Bartak, casting curses and healing with impunity.
+
+“Yes, Seeker!” Tol’brekk answered.
+
+“Me!” Bartak roared, and the greataxe swerved to smash into his impenetrable guard again.
+
+Fuck. This is useless. Inwardly, Ali railed at the stupidity of Taunt, and the lack of a high wisdom monster like Mok’freja. If only she hadn’t bound the Ice Queen to her domain. She flung more barriers out, deflecting an enormous explosive burst from Sallis over the edge into the dark abyss while she struggled to get on top of understanding Vernon and Lilian’s curses. If she didn’t dismantle some of them soon, this battle would be over.
+
+Wait, he’s right there, Ali thought, catching sight of the coincidental alignment of Tol’brekk, Bartak, and the distant priest who was busy healing their tank. I wonder if…
+
+“Tol’brekk. Jump over that Beastkin and attack him from behind,” she commanded. She couldn’t convince him to attack anyone else, but… did they know that?
+
+Muscles bulged in Tol’brekk’s legs as he fueled his powerful Leap with stamina.
+
+“Fuck, Leap!” Sallis screamed. “Protect Vernon!”
+
+At once, Bartak took off, using a Rush skill to intercept Vernon.
+
+“Stop,” Ali commanded, and Tol’brekk canceled his attack – a fake-out that Ali had practiced extensively with her Disruption skill.
+
+With their formation in sudden disarray, Ali whipped out the death-affinity wand from her pocket and leveled it at Bartak. It had accumulated a single charge, generated from the mana of her domain in the time since she had created it. Without hesitation, she burned the charge, cursing him with Amplify Damage. “Go, take him out. Now! Use everything!”
+
+The giant Carnage Berserker knew Ali wanted him to attack the priest. He also knew he was failing miserably. But the instant Ali pointed him in the direction of a target he could hit, a rush of fierce joy burned away all frustration. Tol’brekk took three enormous strides forward using rapid ground-eating footwork that Ali recognized from Rezan’s bout in the ring, axes already sweeping in a wide arc about his shoulders. As Bartak tore across the open ancient stonework, leaving flaming footprints behind him, Ali’s Berserker took one additional step. It was an act she had only ever seen from Rezan – an impossible step that drew him just a little closer to his opponent in the last fraction of a second before the strike, changing his distance and accelerating the blade immensely. In Rezan’s case, it had been a fist, but Tol’brekk had cunningly adapted the technique to his enormous strength and imparted the acceleration easily to the cross-body backhand Cleave of his heavy axe blade.
+
+“By the blood of my ancestors, I will reap you,” Tol’brekk thundered as every muscle in his boulder-like arms and torso screamed. Ali gasped as he instantly fed almost two hundred thousand health to his evolution skill: Overwhelming Power, pouring all that boosted power into his Blood-Soaked Slash as the bloody blade cleaved sideways at the retreating Beastkin’s back.
+
+Bartak’s eyes widened as he scrambled to turn and raise his sword.
+
+Then the domain mana surged as the mighty Troll added Overpowering Strike.
+
+It all happened in an instant, so fast Ali had no time to even react. She only knew what had happened because she was currently sharing her Carnage Berserker’s awareness. The slightly out-of-sync activation of rage into Overwhelming Power, the Ahn Khen martial technique, and the domain skill: Overpowering Strike caused the axe to stutter with inconsistent acceleration, slipping past Bartak’s rapidly accelerating fiery blade like a stone skipping across a pond.
+
+Dense, bloody mist exploded from the giant Troll as the axe blade evaded Bartak’s hastily raised guard and crunched right through the Beastkin’s breastplate, powered by the rage of an evolved berserker at the brink of death and fueled by the sheer power of a raid-level domain skill. Bartak was swept from his feet by the brutal impact and lofted high into the darkness, trailing gouts of crimson like a bloody grim ball leaving the park of a sporting event. Battle paused as every eye tracked the long arc of the body as it flew beyond the stone ring before falling toward the jungle.
+
+What? None of your friends want to catch you?
+
+Tol’brekk roared in triumph, stamping his feet as incoherent rage staggered Ali through their shared connection, but it lasted all of a fraction of a second before his less than three percent remaining health caused Last Stand to trigger, more than doubling his life with temporary maximum health.
+
+Ali sighed in relief as the rage receded to a dull thumping roar in the background and the Taunt faded as the annoying Beastkin fell out of view.
+
+The battlefield erupted with fresh shouts of alarm as a volley of flaming arrows flew from the half-elf archer, ricocheting off domain-enhanced golden barriers, leaving cracks and splinters from each impact. Ali recognized the formation from the priest as he cast his chains of Greater Binding on her berserker.
+
+It was here that Ali saw her chance. She had seen Vernon’s Greater Binding twice now, and she was almost certain she could Disrupt it, but she chose not to. The members of the Crimson Blade had not yet understood just how hard it was to pin down an Aman Rak Berserker – knowledge Ali had earned the hard way.
+
+The giant chains locked him in place in the center of the ring as the others warily spread out. The Ice Witch flew overhead, and Ali had no idea where the assassin had gone. The other two backed up to a safe distance near the edge of the restoration aura.
+
+A familiar dense ice formation pricked Sage of Learning, draining some mana, but with the amount of mana she was recovering from fending off fire and ice, Ali didn’t care. What made her grin was the sudden illumination in her mind as she finally understood the Witch’s Winter Orb.
+
+“No, you don’t,” Ali whispered, remaining mercifully ignored in the back, cocooned in her barrier sphere. Tiny darts of golden mana pierced Lilian’s formation, shredding it to the delightful sounds of a sudden outburst of profanity.
+
+“Any time now, Beltz,” Vernon muttered, still channeling his binding spell.
+
+Within the grip of the shadow chains, Tol’brekk sniffed the air, and Ali could suddenly smell the assassin sneaking up on him.
+
+“Get the priest,” Ali instructed, redirecting her Berserker’s attention. She hadn’t forgotten the strategy.
+
+Before the stealthed rogue reached him, the berserker poured his blood into his amplified Blood Vortex, spending health on Overwhelming Power a second time, boosting his rage and power simultaneously as Blood Vortex broke the chains and tore through the entire area as a massive maelstrom of red slicing blades.
+
+Having been forewarned that it was coming, Ali simply encased herself in a domain-enhanced barrier and quickly levitated above the carnage.
+
+Vernon screamed as his binding shattered.
+
+“With steel in my hand, your fate I undo,” Tol’brekk roared from within the storm. There was an awful wet slicing sound and then pieces of a once-living body flew out, bouncing off the walls in sickening red lumps and stains.
+
+Your group has defeated Shadow Priest of Dominion [Dungeon Bane] – Human – level 135 (Holy / Shadow).
+
+“Fucking hell!” Lilian shouted, staring down at the carnage and the seething maelstrom of bloody blades. “You killed Vernon!”
+
+But Ali saw something she did not. From within the bloody storm, her berserker’s enormous leg muscles bunched and bulged a third time, and this time he leaped into the sky, rocketing out of the collapsing bloody vortex with both axes raised high above his head and trailing streamers of the dead priest’s blood.
+
+For one long instant, Lilian floated motionless in the air, silhouetted by the monstrous form of a blood-soaked giant troll leaking rage from his eyes.
+
+The sickening squelch of axes cleaving through the witch’s robes, ice shield, flesh, and bone, turned Ali’s stomach, and again pieces hurtled away in an explosion of gore, bouncing off the ground below. Caster classes really had poor melee defenses, usually requiring tank classes to survive against any boss encounter. Against the power of a raid boss who had just spent most of his health to power his enormous rage, her ridiculously high level was mostly irrelevant.
+
+Your group has defeated Witch of the Desolate Wastes [Frozen Assassin] – Human – level 143 (Ice).
+
+The berserker hit the ground with a massive crash, shaking everything. Beltz materialized behind Tol’brekk in a disorienting flutter of shadows that danced up the Troll’s back. Dark, shadow-wreathed daggers blurred, striking with sudden violence.
+
+Your Carnage Berserker has been defeated.
+
+As Tol’brekk hit the ground, the shadows faded, revealing a furiously glowering assassin.
+
+“Always have to fucking do everything myself,” Beltz growled, jabbing a blood-soaked dagger in Ali’s direction. “Now, Sallis. Take care of the fucking mark!”
+
+“On it,” the half-elf archer said, calmly drawing his bow. Mana swirled around him, making the flames dance. His arrow shone with power, growing rapidly blinding as it began to vibrate from all the energy he was pouring into it. Slowly he raised it, aiming directly at Ali’s heart.
+
+No doubt that arrow would shatter her barrier like a ten-ton boulder crashing into an ice-covered pond, but before Ali fled, she had one more play.
+
+As she met the murderous fury in the eyes of the assassin, still bleeding from the berserker’s opening act, she triggered Arcane Recall, withdrawing to the Spirit Realm.
+
+She paused for a moment in the gray expanse of the Spirit Realm, studying the immense, roiling power tied up into Sallis’ impending flaming Power Shot.
+
+This worked before, she thought, judging the distances as she brought up Domain Mastery and reset the recharge for her domain respawn ability.
+
+Her magic released, and the fight resumed. The mana of her domain surged and Tol’brekk reappeared in all his might and stature, standing right in between Ali’s bubble and the archer.
+
+A deafening crack rang out as Sallis released his arrow right into Tol’brekk’s massive chest. The Troll’s health dipped noticeably, and red mist spilled outward, but his greataxe cleaved downward, accelerated by the power of his domain skill once again.
+
+“The echoes of warriors, their cries guide my blade,” Tol’brekk intoned, his voice rumbling and gurgling through the slowly closing puncture wound in his chest. Another notification sounded as the blades bisected the half-elf from shoulder to hip.
+
+Sallis died with a grimace of disbelief just beginning to form on his lips.
+
+Your group has defeated Hunter of the Deepened Flame [Flame Strike] – Half-Elf – level 133 (Fire).
+
+The enraged assassin sprinted up to Ali’s bubble on steps of shadow, and his dagger rang loudly as it struck her golden defensive magic. A crack appeared. “I am. Going. To kill. You!” He drew back his arm again.
+
+But to Ali’s surprise, the gray cast of the Spirit Realm did not vanish, and color did not return. Instead, all about her, ethereal wisps of white mana seeped into her being, binding her to a powerful formation, trapping her halfway between the real world and the Spirit Realm.
+
+Ali struggled, trying to free herself from the unexpected attack, while simultaneously trying to avoid the dangerous assassin who was hell-bent on trying to get through her barrier, all the while trying to figure out who had cast this strange spell. Was it the witch? It looked like a curse, but it was nothing like ice-affinity mana.
+
+“Will you fucking die already!” Beltz screamed, his blades beginning to blur with rapid strikes, chipping away at her strongest domain-enhanced barrier while she remained vulnerable, unable to defend herself. Unable to move.
+
+But Tol’brekk had other ideas, unleashing his axes with whistling strikes. Beltz managed to dodge the first blade, but the second followed instantly, a sweeping attack with the Decimation Slash Labrys that crunched into his thigh, sending him cartwheeling to the ground.
+
+The Troll Berserker leaped again, landing on the prone assassin before he could even bounce. What followed was a bloody mess of smashing axes as the stunned assassin was turned into pulp.
+
+“Your end is the price for the path you have made,” Tol’brekk declared as the sound of a chime rang out in Ali’s mind.
+
+Your group has defeated Assassin of Midnight Shadows [Prince of Darkness] – Human – level 138 (Shadow).
+
+That’s four. While Ali wrestled with the strange binding magic holding her between realms, she had the presence of mind to notice she had only received four of five notifications. This meant the Beastkin warrior, Bartak, had somehow survived the initial attack that sent him plummeting into the jungle far below.
+
+Desperate not to lose track of the remaining major threat, she sent her awareness downward, quickly finding the warrior facing off against her Poison Wyvern boss. There were dozens of summoned minions – dragons and kobolds – all lying dead around him, but the Beastkin warrior was in very bad shape. Blood poured from his wounds as the wyvern swooped overhead spraying him with fresh poison.
+
+How? Oh, the bleeds, Ali realized. Her Poison Wyvern was no threat to a platinum warrior like Bartak, but it wasn’t the wyvern that was killing him. Since his evolution to Carnage Berserker, Tol’brekk did all his critical damage in the form of a bleed instead of normal damage. His class paths had gained him substantial boosts to inflicted bleeds and critical damage, all tied to the magnitude of his rage. When he had hit the warrior, he had been at three percent health.
+
+As she watched, the Beastkin collapsed to one knee, and then toppled over, landing with a splash in an enormous pool of his own blood, the empty glass of a healing potion vial shattering beneath him.
+
+Your group has defeated Crimson Blade [Dungeon Bane] – Beastkin – level 142 (Fire).
+
+Holy…. One hundred and forty-two? Those bleeds must have been enormous. Then, Ali remembered she had cursed him with a level eighty-five Amplify Damage. Far out of the range of his healer, it must have been more than enough to overwhelm his potion and entire life total – tanks were not exactly known for their excessive wisdom and magical resistance. Even Mato, with his high wisdom, had required custom craftsmanship and extraordinary crafting materials to stack enough resistance for some fights. Bartak didn’t seem like the type to do that.
+
+Arrogance always had its price, a lesson she knew she’d never forget after this fight. Always be prepared. Never assume anything.
+
+As if released by that death, her notifications popped up.
+
+Dungeon of Knowledge has reached level 109 (+4).+40 attribute points.Arcane Insight has reached level 61.Arcane Recall has reached level 22 (+2).Grimoire of Summoning has reached level 44.Martial Insight has reached level 75 (+3).Empowered Summoner has reached level 52.Identify has reached level 24.Your Carnage Berserker has reached level 107 (+7).
+
+“Thank goodness,” Ali whispered, filled with relief at the sight of the notifications. “Now… where am I and how the heck do I get out of here?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

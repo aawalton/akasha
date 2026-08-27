@@ -1,0 +1,179 @@
+---
+id: 601f07e8-89f5-53bd-a061-12e2bdb87702
+page-type-slug: story-chapter-royal-road
+title: "Chapter 494: Tiers of Skill"
+slug: 0533-chapter-494-tiers-of-skill
+partOf: dungeon-of-knowledge-complete
+position: 533
+ownLength: 2944
+unit: words
+ownProgress: 2944
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2905201/chapter-494-tiers-of-skill"
+royalRoadId: "2905201"
+markedReadAt: "2026-06-29T20:30:22.496Z"
+---
+
+Ice, it seemed, was very difficult to dispose of. At least in the sheer quantities that Haverron had conjured during the fight, powered as he was by an unbelievably obscene amount of domain mana. Fireballs just blew it around, so she had her Hellfire Imps simply standing with their flame shields, using the heat to melt the ice, but progress was painfully slow – an issue of sheer volume versus how much heat the imps could put out.
+
+The draconic void-affinity breath attacks of her two Scions of Azryet simply erased everything it touched, including the corpses and even the stone beneath. In the end, her most effective strategy seemed to be shoveling it out of the way with a combination of her berserker’s giant hands, various barriers, and the strategic application of deconstruction to the larger slabs and boulders of solid ice.
+
+It’d be much easier if I had a minion with ice manipulation, she thought. Probably once she deconstructed Haverron himself, but she couldn’t summon undead outside of her death-affinity biome areas within her domain, so not even that would be a solution.
+
+All this work just to get to some fancy greatsword and the runic formation she could see glowing beneath it. If it weren’t for that, she would simply have deconstructed Haverron and been done with it, but after her experiences with Nevyn Eld’s formations in the Temple of Aman Rak, she knew she couldn’t afford to just bypass this.
+
+She dissolved a massive chunk of ice, allowing Malika to drag a boulder away, and finally saw the dark gleam of the Death Knight’s plate armor in the hole.
+
+Maybe I need to spend some more time at the shrine working on a more versatile set of minions. Laborers. She took a little break while Malika dragged his corpse out and began sorting through gear. In the end, it had been a remarkably productive battle, even though several major strategy pieces had gone in decidedly unexpected directions. She didn’t have time to experiment with the shrine right now, but the ridiculous power she had witnessed from the interaction of Empowered Summoner and her Restoration Shaman and the Eyes of Agnor had most certainly bumped the priority of developing her minions to the top of her list – arcane and nature minions, specifically.
+
+She had made an arcane affinity kobold archer a while ago, but it had languished as an unfinished project at around level fifty. She had so many options for nature-affinity, too, but monsters like her Forest Guardian had limitations when they were not in outdoor environments. Perhaps I should try to coax out pure nature versions of those Sylvans?
+
+She scrolled through her notifications, ignoring the large number of minion level-ups, both from this fight and elsewhere in her dungeon, instead searching for something rather specific.
+
+Aah, here it is. Carefully, she scanned the notification messages for her minions that had reached the cap of tier one.
+
+Your Fire Mage has reached level 100.Your Subterranean Brood Queen has reached level 100.Your Baelok Descrier has reached level 100.Your Hellfire Warg has reached level 100.Your Restoration Shaman has reached level 100.
+
+It had been something of a risk to bring monsters less than half the level of the boss to the fight, but it had paid off far better than she had ever hoped. With these five monsters ready for evolution, she would be increasing her dungeon’s versatility and robustness by leaps and bounds. And she couldn’t wait to see what the evolved Restoration Shaman and trusty kobold Fire Mage would bring to the table.
+
+“Ali, can you deconstruct all this stuff for me?” Malika asked, pointing at the pile of dark mithril plate armor she had removed from Haverron, now augmented by a substantial number of similar pieces from her storage.
+
+Malika still seemed excited about her discovery of the hidden set bonuses, and Ali couldn’t wait to tell Thuli and see what he could do with it. A similar set, but instead focused on blood or bone magic, would be a simply incredible upgrade for her trolls.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+The notification surprised her, but she had several open chapters now, so she just added one, growing her armor imprint.
+
+Variant: Grim Visage of the Frozen Storm added to Imprint: Armor.Variant: Battle Plate of the Frozen Storm added to Imprint: Armor.Variant: Rime Encrusted Gauntlets of the Frozen Storm added to Imprint: Armor.Variant: Dread Walkers of the Frozen Storm added to Imprint: Armor.
+
+With a small sliver of her awareness, she directed a kobold to go find Thuli in the mines where he was working at the anvil to give him the details of the Frozen Storm set she had just added. Perhaps he can get a head start on learning it before I get back.
+
+The ring, on the other hand, she could use immediately. She deconstructed the small handful Malika had offered, and her Grimoire reacted again.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+She didn’t hesitate to add a chapter to her ring imprint, committing the new variant to its pages.
+
+Variant: Arctic Band of the Frozen Storm added to Imprint: Ring.
+
+Immediately, Ali created three of them for her troll ice mages, customizing the ring size to be large enough for the trolls’ unique biology, but when she went to give a ring to each, she suddenly had an idea.
+
+“Here, put both of these on,” she said, handing two rings to the first troll mage.
+
+“Of course, Seeker,” the troll said, accepting the two mithril bands, and then her eyes lit with excitement as she slipped the two rings onto her tusks. “The hidden vitality bonus is good.”
+
+“The rings count as two set pieces,” Ali said, wielding her Grimoire to create another three rings and distributing them. Apparently, the set bonus for two items worked even if they were both rings. I should definitely let Giddy know, too.
+
+“It does?” Malika asked, glancing up from the hole in the ice.
+
+“Yup,” Ali said. Seeing Malika was finally done with the Death Knight corpse, Ali flew down into the ice excavation and placed a hand upon the grisly, dead flesh and unleashed deconstruction.
+
+Her Grimoire flipped open, and a flurry of new runic magic burst forth from the mana remnants of the corpse to imprint itself upon the pages.
+
+[Sage of Learning]Domain Magic analyzed: Overpowering Strike (Devastation Rush).Domain Magic analyzed: Elemental Storm (Ice).Domain Magic analyzed: Amplify Skill (Swordmaster).
+
+He had Amplify Skill on a Mastery? Ali studied the results carefully, comparing the runes in her Grimoire with what she had just learned, verifying that indeed, Swordmaster was his Combat Mastery. She had never tried that before, but it certainly explained some things – like how Haverron could continue to fight while casting Elemental Storm, and how his melee and ice swords were so incredibly strong.
+
+With Haverron properly deconstructed, Ali could afford to be far less delicate with her excavations, and she leveraged the full force of her barrier magic to shovel the ice and snow out of her way in her efforts to uncover the buried runic structures underneath.
+
+What is this? A teleportation array?
+
+What she discovered under the tons of shoveled ice and snow was entirely not what she had expected. It had been wrought by the same mind that created the rune formations in Aman Rak; runic magic was easily a complex enough language to allow dialects and accents, and she recognized the Lich’s by now; however, the purpose for this array seemed entirely different. The runes were fashioned from the purest mithril and inlaid into the dark stone, much like her own runic teleportation circles back in her library or the guild.
+
+However, that’s where the similarities ended. Instead of a mere circle that teleported to a single destination locus, this one was a vastly more complex structure. Dense runes were inscribed in sinuous swirling patterns covering a surface of almost fifty meters in diameter, many of which Ali had never even seen before.
+
+Eagerly, Ali pulled out her notebook and began recording the entire formation. There wasn’t nearly enough time to study it in detail, so the full picture would need to wait for later. Perhaps a few hours with Cael might be in order. He’d love this.
+
+Based on the power couplings alone, it was obviously designed for dungeon use. There was absolutely no way any individual could power something so vast. And speaking of the power couplings, she needed to take some notes because they seemed to be more efficient than the ones she had designed.
+
+“You figured it out?” Calen asked, landing beside her.
+
+“It’s not a trap, if that’s what you’re asking,” Ali said, still puzzling over the subtler details. “As far as I can tell, it’s a mass teleportation spell powered by the domain. It can probably simultaneously send everything within its area to a different realm with ease. But its destination seems variable.”
+
+“Variable? What do you mean?” Calen asked. “It’s not connected to some locus somewhere?”
+
+“No. See this part here?” she said, pointing. “This is the locus it’s connected to.”
+
+“It’s connected to a locus right here? What use is that?” Calen wondered.
+
+“That’s the impressive part,” Ali continued. “All this stuff is designed to project the locus somewhere else before the teleportation spell fires.” She couldn’t quite figure out how the projection was done, and whether the person activating the array had to know the location, but the general purpose was easy to deduce.
+
+“That must be how the Blind Lich’s armies got to Southport so quickly,” Calen said. “Lyeneru couldn’t figure out how such a vast army got there without anyone noticing.”
+
+“Do you think that’s why there were so many Death Knights gathered here when we started?”
+
+“I don’t doubt it,” Calen said soberly. “I’m certain they were destined for the siege.”
+
+“That makes Haverron the gatekeeper,” Ali said. It seemed the giant Death Knight boss was the one sending the Death Knights to all corners of the world in service of Nevyn Eld’s evil purposes.
+
+But where do all the Death Knights come from? She could actually make them, now, but from her research in the Temple of Aman Rak, it seemed that Nevyn Eld required a little more work to make it happen – the combination of a runic array to entrap a soul, and the magic of a dungeon.
+
+Why does he need a soul, and I don’t? She knew her mana was unusual, but that couldn’t be the whole picture. Perhaps there was something more to Lira’s theory that her own soul was powering her minions. I wish I could ask her. Ali shook her head, a physical attempt to shake off the melancholy moment. Unfortunately, the answers could not be found in the runes below her feet; she would need to look further.
+
+She glanced around at the ice and bones, finding nothing more for her to do. She would have liked to add the Skeletal Frost Dragon to her Grimoire, but her void dragons had disintegrated them, leaving nothing much to deconstruct. And the lower-level skeletons were not particularly interesting, nor could she even find the remnants of the wraiths that had exploded during the fight. Instead, she focused inward, seeking the glowing golden text of her notifications.
+
+Dungeon of Knowledge has reached level 175 (+7).+70 attribute points.Arcane Insight has reached level 104 (+5). Arcane Recall has reached level 53 (+2).Barrier has reached level 94 (+5).Grimoire of Summoning has reached level 68.Runic Script has reached level 76 (+3).Sage of Learning has reached level 78 (+2).Martial Insight has reached level 110 (+4).Empowered Summoner has reached level 88 (+6).Minion Teleport has reached level 57 (+3).Identify has reached level 38 (+2).Inspiration has reached level 32 (+2).
+
+The moment she reached the end of her skill notifications, something new triggered, and fresh text appeared.
+
+Arcane Insight has reached a base skill level of 100.Arcane Insight has advanced to tier two.Martial Insight has reached a base skill level of 100.Martial Insight has advanced to tier two.
+
+She could tell the instant the chimes sounded in the back of her mind; it was as stark as the difference between night and day. The swirls and intricate formations of mana that had become subtly blurred and indistinct from her loss of perception during the battle suddenly clarified dramatically. The mana positively glowed with flowing pristine clarity, revealing subtle, previously invisible details in the rune structure she had been studying and the domain itself.
+
+Knowledge flowed through her preternaturally enhanced senses, triggering a heady surge as Sage of Learning reacted to the sudden wealth of what she could perceive.
+
+Her connection to her minions deepened, as if she understood them on a much more fundamental level. She could sense their emotions, and feel the newfound skills flowing from her observation of Haverron’s extraordinary swordsmanship into technique improvements that augmented their skills.
+
+Out on the ice, Kir’mogan ceased his restless stomping and regarded his Holy Avenger swords with eyes glittering with new insight. The slightly shorter, but no less fierce, blood shaman, Joraa, swung his sword, testing a new, finer sense of weapon balance. And Tol’brekk caught her eyes, clearly understanding where the flood of new insight originated.
+
+“Seeker,” he rumbled, his lips curving into a wicked grin. “I grow stronger.”
+
+“Ali?” Calen asked, peering at her curiously.
+
+“Arcane Insight and Martial Insight both just hit tier two,” she said, rubbing her head a little to ease the onslaught of new information – although it was luckily nothing like how debilitating it had been when she had first gotten her mana sight while within her domain.
+
+“Tier two?”
+
+“Skills can tier up,” she answered. “Both skills just passed one hundred without any buffs.”
+
+“Congratulations,” Calen said.
+
+“I need to work on my skills!” Mato said, his eyes glittering with enthusiasm. “We just haven’t had the time.”
+
+“Time’s a luxury,” the half-elf replied rather dourly, before grinning suddenly, “unless you’re like… thousands of years old, and decrepit!”
+
+“Nice try,” Ali needled right back.
+
+Other than the fact that she hadn’t been explicitly watching for it to happen, the skill tier-up wasn’t exactly a surprise. Ryn had found several texts in Azryet’s library, and the spirit realm echo of the Grand Library Arcana, that discussed the phenomenon. Tier two, at least according to those books, represented a fundamental upgrade in the base skill itself. Something that almost always happened at level one hundred, but she had relegated the information to the dusty corners of her mind, the place that still contained her old research projects from before the fall of Dal’mohra. One hundred had just felt so far away at the time.
+
+Ali quickly checked, verifying that the actual skill descriptions were no different than before, but the difference in how the skill responded and functioned was something else entirely, reminding her of the difference in density and power of her domain mana before and after her evolution. No doubt, combat skills would take battle to an entirely new level. I need to check how close my minions are!
+
+In the meantime, she decided to invest twenty-two of her available attributes in intelligence, and then seventeen each in wisdom and perception. She pursed her lips in thought for a moment, and then spent eight on vitality, and two each on the rest.
+
+“We should probably get going,” Calen said. “If you’re done here?”
+
+“Yes,” Ali said. They had been excavating for a while now, and it wouldn’t be good to have the whole area respawn on top of them. Besides, the well was waiting for them, and she needed the vial. Where’d Malika go… She glanced around, finding her friend still sitting on the ice where she had appraised all the gear earlier.
+
+“Malika?” she said, prodding her friend, who seemed to be staring at a ring that seemed to suck in the very light around it. “Uh, what is that?”
+
+When the last Frozen Storm piece evaporated into mana motes, Malika’s smile faded as she turned to the last ring, glowing ominously in her hand.
+
+Surely this one must be cursed. If anything could look cursed, this was it. It seemed to eat the light around it, and it oozed a palpable malevolence.
+
+She carefully appraised it, but as the information poured into her mind, she froze in shock, registering only the ring’s name and the quality her skill revealed. Malika just stared at the thing; for how long, she did not know. She barely even registered the sound of her notification chimes.
+
+Appraise has reached level 35 (+3).
+
+Eventually, it was Ali’s prodding that broke the spell. “What is that?” the Fae asked, poking her insistently on the shoulder with her finger.
+
+“Uh,” was all she managed, still unable to believe she was holding a Legendary artifact in her hands. An item that shouldn’t exist. Couldn’t exist. This kind of item existed only in the stories of heroes and dark villains, and nobody believed those tales to be any more than fiction.
+
+A subtle whisper prickled in her mind, reminding her that she stood in the Crypt of Kings, a second-tier undead dungeon made by the Blind Lich himself.
+
+She pinched herself, but she never disabled Soul Armor, so she barely felt it. She didn’t even know where to begin; every single enchantment was ridiculous.
+
+“Ali… can you… use this?” she whispered, not even caring that her hand was trembling as she offered the dark, shrouded ring to her friend.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

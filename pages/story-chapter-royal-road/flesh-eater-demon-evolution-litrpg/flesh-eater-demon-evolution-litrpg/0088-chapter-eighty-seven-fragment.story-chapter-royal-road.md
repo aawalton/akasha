@@ -1,0 +1,221 @@
+---
+id: ab9eb3ca-62ed-53ec-babd-c8acdf6b1472
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-Seven: Fragment"
+slug: 0088-chapter-eighty-seven-fragment
+partOf: flesh-eater-demon-evolution-litrpg
+position: 88
+ownLength: 2956
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3458643/chapter-eighty-seven-fragment"
+royalRoadId: "3458643"
+---
+
+Daphne and Callan were starting a fire. Or trying to, at least.
+
+Pyre sat back against the tree trunk, eyes landing on the small pile of twigs and branches that had been placed in the center of the clearing. The grasses around the spot had been removed as well, leaving a ring of plain soil for the wood to rest on.
+
+“I think the circle should be bigger,” Callan was saying. “It might spread.”
+
+“There’s like a foot of dirt between the wood and grass,” Daphne countered with a huff. “It’ll be fine.”
+
+The ghost scowled. “Have you even done this before?”
+
+“Have you?”
+
+“Is there a reason you’re building a fire?” Pyre cut in, amused. Both of them jumped, though Daphne recovered quickly.
+
+“I’m a human,” she said bluntly. She gestured at herself for emphasis. “I know you guys can’t get cold, but if we’re staying out here all night, I need a source of warmth. The wards will hide the light, so it shouldn’t draw any attention.”
+
+She paused, a little bit of hesitation entering her voice. “Unless we’re moving on?” she added tentatively.
+
+“Nah, no more travel tonight.” Pyre contorted her still-regenerating shoulder for emphasis. The noble’s eyes snapped to it in fascination while Callan looked comparatively unimpressed. The ghost was too used to her demon shit at this point. “We’ll head out tomorrow morning. I should be just about healed then.”
+
+The demon’s eyes moved to Callan. He was still in his solid form, but she remembered how translucent he’d looked for a while there. Daphne, too, was clearly tired even if she hid it well, shoulders drooping in a way she rarely ever allowed.
+
+“Once you’re done with your fire-building,” the demon continued lightly, “you two’d better take a break, or you’ll collapse when we hit the road.”
+
+Daphne hesitated. Those brown eyes studied the demon intently, scanning her form for a few moments before curiosity finally won out.
+
+“So… that was your second evolution?”
+
+“Yep.” Pyre pronounced the ‘p’ with a pop. She leaned her head back against the tree trunk and shifted some of her eyes around her body. Daphne frowned, her gaze sharpening like she was piecing something together. Maybe she was. The noble turned to Callan next.
+
+“What about you? Are you also on your second evolution?”
+
+The ghost blinked. “Uh, no. Still my first.”
+
+“Hm. Okay.” Daphne turned back to the pile of wood. She raised a hand, palm glowing a faint red. Ignoring Callan’s protests, she snapped her finger. A spark shot towards the fire pit. In an instant, the wood ignited, and a warm glow soon lit up the clearing. The noble sighed and sat down beside the crackling flames, enjoying the warmth.
+
+“Hey, how far do these wards go?” Pyre asked, nodding at Callan. In response, the ghost pointed at a tree that was noticeably farther out from the clearing than she’d expected.
+
+“The wards should cover this entire area,” he explained. He swept his arm around to indicate the boundary, the demon following the movement with her eyes. She raised an eyebrow.
+
+“Seems a little excessive.”
+
+Callan frowned. “I just wanted to be safe,” he said defensively.
+
+The demon hummed at that. Slowly, she stood from her spot, taking a moment to adjust her flesh distribution so that it wasn’t so unbalanced. She’d rather not fall over because one of her arms had noticeably more flesh than the other.
+
+As she rose, Callan shot her a confused look. “Where’re you going?” he asked. In response, Pyre gestured to the tree the ghost had just pointed to.
+
+“Demon stuff,” she said bluntly. She turned, casually waving at the two mages as she began making her way towards the tree in question. “Don’t worry about it.”
+
+Daphne and Callan exchanged looks. They clearly wanted to ask more, but by then, Pyre was already shoving aside a shrub to exit the clearing. Still curled in her right arm, the soul fragment pulsed steadily.
+
+The demon continued into the forest until she could no longer see the clearing. She should still be within the bounds of the wards, so she settled down again.
+
+Considering she had no idea what would happen when she absorbed the soul piece, she’d rather not be around other people when she did it.
+
+Now alone, Pyre unfurled her flesh, revealing the soul piece nestled safely inside.
+
+It looked the same as before. Churning, silvery mist swirled around like a living storm, forming a perfect sphere of energy. The demon lifted it closer, and the tugging sensation strengthened.
+
+If she wanted to, she could just leave it here. The pull would go away with enough distance, and she could continue living as she had been—with none of the burdens of her past life weighing her down. It would be easy.
+
+She gripped the fragment tighter, grey eyes fixed on the swirling silver.
+
+Slowly, Pyre drew the soul piece closer to her chest, right where the tugging sensation was strongest.
+
+The sphere had barely even touched her when it flashed. Loose wisps of silver dispersed, scattering into tiny lights, while the rest of the fragment sunk into her flesh as easily as a puzzle piece slotting into place.
+
+The surroundings shifted. Without warning, the demon was thrown headfirst into a memory so vivid and sharp that it was almost tangible.
+
+In the memory, blurry shapes solidified into the distinct jagged silhouette of a city skyline. The stars faded. The inky night sky was suddenly lit with the lingering glow of billboards, windows, and streetlamps. She could hear the beeping of cars and the chatter of people walking along the sidewalks. This was a memory from Earth, then.
+
+Her own body seemed to be standing atop the roof of a building, placing her just above the clamor of the street below. Despite this being her own memory from her past life (one of them, at least), she felt a distinct disconnect as the version of her in the memory stepped forward. It was like she was both present and not at the same time. It was her, but the movements didn’t feel like her own.
+
+In the memory, Pyre came to a stop at the edge of the roof. Here, she overlooked the city stretching beneath her. The night wind breezed past, crisp and free. The her in the memory breathed the air in, and her surroundings went dark as she closed her eyes, basking in the sensation.
+
+Pyre realized what would happen just seconds before it occurred.
+
+Her body tilted forward.
+
+Suddenly, she was weightless. The wind was rushing past her, the noise of the city dulled to a buzzing wave, and the distinct, familiar feeling of falling took over—
+
+The demon’s eyes snapped open.
+
+She was still in the forest, seated against the same tree trunk. The grasses below her were cool to the touch, and the clear moonlight shone softly through the canopy. The sounds and sensations faded into memory.
+
+Slowly, Pyre raised a hand, idly clenching and then flexing her fingers. Besides the memory, she didn’t feel particularly different from before. Maybe she should’ve expected that. It had been a single piece, after all.
+
+Unbidden, her mind wandered back to that moment in the cave, when she’d watched Callan stare down at his dead body. Then the conversations she’d had with Daphne back when the noble had thought she was ichor-poisoned. The steady fierceness in the mage’s eyes.
+
+Both moments had caught her off guard for reasons she didn’t entirely understand. They had seemed so alien to her. She remembered wondering if she’d ever felt such an intense attachment to life, if she’d ever felt anything so strongly. If her past self ever had.
+
+A certain crossroads demon’s voice rose in the back of her mind.
+
+“You think it’s because of your soul, but I think you’re wrong. I think it’s innate.”
+
+Tilting her gaze up, Pyre felt the back of her head hit the tree trunk. Grey eyes stared long and hard at the moon above, expression flat and unreadable.
+
+The hollowness didn’t fade.
+
+Callan glanced over at Daphne. Some time after Pyre had left to do “demon things,” as she’d oh-so eloquently put it, the noble had reached into her bag and pulled out a bedroll that she was currently busy setting up near the fire. The ghost was a little impressed with the sheer amount of stuff she’d managed to bring with her, to be honest. It occurred to him that if he was still human, he would need these things too.
+
+Right now, he was carefully draining some of the shrubs nearby. Callan had already recovered a little with time, but the added energy was certainly welcome.
+
+Still, he couldn’t help but glance over at Daphne every now and then, the human humming to herself as she flicked dirt off the bedroll. The very concept of a noble kneeling in the dirt, preparing to sleep on the ground in the middle of a forest, felt so wildly out of place that it made his head spin.
+
+“Why did you decide to come with us?” the ghost blurted out when he could no longer contain his curiosity. Daphne paused. Slowly, she turned to face him.
+
+“I just mean—traveling with two monsters is pretty crazy, and you’re a noble, so…” Callan’s voice trailed, and he decided to shut up before he dug himself into a deeper hole.
+
+Thankfully, Daphne didn’t seem offended by the question. The noble hummed thoughtfully. After some consideration, she gestured around them, the forest canopy rustling softly in the wind.
+
+“I wanted a change, I guess.” Her gaze drifted to the crackling fire. “I spent my whole life stuck in that manor, and I love Magrath, I really do, but there’s so much more out there.” She turned back to Callan, nodding at the ghost with a wry smile. “Meeting you two kind of proved that.”
+
+One hand moved to her chest, rubbing instinctively at the spot above her soul. “I just… I don’t want to die thinking about all the things I could’ve done.” A determined gleam flashed in her eyes. “I’m going to live to the absolute fullest. And when I go, no one will be able to tell me I was nothing but a tragedy.”
+
+Callan went quiet at that. The fire continued to crackle in the background, illuminating the noble’s hair so that the locks themselves looked aflame. Her eyes remained fierce, warm brown hues practically amber in the light. The ghost realized he was staring and quickly dropped his gaze.
+
+“I get that,” he murmured, and it was the truth. He wouldn’t pretend to understand what it was like to live with ichor-poisoning, to feel your remaining time waning with each and every moment, but the acute desire to live was very familiar to him.
+
+A comfortable silence settled over the clearing. Daphne turned and continued her sleep preparations. Pyre still hadn’t come back yet, and Callan was wondering if he should check on the demon when the other mage suddenly spoke again.
+
+“Hey, can I ask you a question?”
+
+The ghost blinked, surprised. Daphne’s back was to him, face obscured as she fixed the bedroll. “Uh, sure,” he said.
+
+The noble nodded slowly. “You don’t have to answer if you don’t want to,” she began, “but… what is dying like?”
+
+Callan’s eyes widened. Memories flashed in his mind, unbidden, and he realized his hand had clenched into a fist. He swallowed. Daphne still wasn’t looking at him.
+
+He could give a soft answer, a “kind” one, but somehow that didn’t feel right. It wouldn’t be fair to the other mage.
+
+And so, when he opened his mouth, he told the truth.
+
+“To be honest? Horrible.” A bitter laugh escaped his throat before he could force it down. Daphne stilled.
+
+“It was… cold. Besides the pain, that’s the main thing I remember. All the warmth leaving.” He shifted uncomfortably. “I don’t know what it’ll be like for you, but… that’s how it was for me. I’m sorry. I wish I could say different.”
+
+Daphne was quiet for a few moments, expression still hidden. Finally, she began smoothing the bedroll again, nodding once.
+
+“I see.” Her voice didn’t give anything away.
+
+When she turned around again, there was a wry smile on her face. “Thank you. For telling me the truth, I mean.”
+
+The ghost coughed. “I just—I figured you’ve been lied to enough, so…” His voice trailed.
+
+Daphne snorted at that. “Tell me about it,” she muttered. She suddenly shifted.
+
+“I’m going to sleep now,” she announced, sliding under the blanket. “Wake me up before we leave.” Before the ghost could respond, she’d already rolled over, covering her head with the blanket. Only a few strands of hair poking out from below were visible.
+
+Callan huffed a laugh and shook his head. He glanced up at the sky, noting that the moon was still beaming brightly, then back at the forest. He would finish draining this shrub, he decided, then look for Pyre. The demon couldn’t have gone far.
+
+The ghost raised his hands over the leaves, beginning his usual draining process. In the quiet, there was nothing but the whistle of the wind and the rustling of the forest around him.
+
+By the time Callan was done, the shrub had fully wilted, and he felt a little more energized than before. He turned, floating up so he could look for Pyre, when he suddenly heard a noise coming by the campfire. His eyes immediately snapped to it.
+
+There was nothing there but Daphne’s sleeping form, the noble only visible as a solid lump beneath the blankets. Then he heard the noise again.
+
+A faint, muffled sniff.
+
+Callan stilled. For a moment he remained there, simply staring at the center of the clearing. His fingers clenched into a fist.
+
+Turning, the ghost floated straight through the bushes into the forest.
+
+Pyre was still seated against the tree trunk when her [Thermal Vision] eye spotted an approaching splotch of blue. She turned just in time to see Callan’s transparent form phasing through a dense wall of shrubs. The ghost looked frazzled.
+
+Before the demon had a chance to ask him what was going on, Callan suddenly blurted, “When I was exploring Magrath, I heard these rumors.”
+
+Pyre raised an eyebrow, but she kept quiet. The ghost was clearly in the middle of one of his rambles, and by now she’d learned that it was best to let him keep talking until he got it all out. It would start to make sense eventually.
+
+As predicted, Callan barrelled on.
+
+“The rumors were about this healer in Galen, by the coast. A really powerful one.” The ghost shifted. “And I know there’s a ton of rumors like this—I swear, everyone freaks out when someone’s got even slightly decent healing magic—and most of it’s fake, but this guy sounds like the real deal. There’s a ton of sources backing him up.”
+
+His eyes darted briefly behind him in the direction of the clearing, and the pieces fell into place. Maybe this healer could cure Daphne, the ghost didn’t say, but the implication was more than strong enough.
+
+“It’s a little out of the way, but it’s not that far off course to Pereth,” Callan continued, words still spilling a mile a minute. “We’ve still got time before we need to get Pax’s… item, whatever it is, and it wouldn’t take long to stop by. Just to check if the rumors’re real. If we follow the main road, we could—”
+
+“Callan,” Pyre interrupted, cutting him off mid-rant once it became clear that he wasn’t planning on stopping anytime soon. The ghost’s jaw clicked shut. He stared at the demon with wide eyes.
+
+“You don’t need to justify it,” she continued. She gestured vaguely around them. “It’s not like I’m in a rush to help Pax. We can check out this healer dude. It’s not a big deal,” she said easily.
+
+Callan opened his mouth, then closed it again. This had clearly not been the reaction he’d expected.
+
+“Really?”
+
+Instead of answering, Pyre tilted her head. One eye honed in on the warmer splotch that had appeared a little ways behind Callan, carefully concealed behind a tree. She raised an eyebrow.
+
+“You good with it?” the demon called out. Callan spun around just in time to see Daphne slowly stepping out from behind the trunk.
+
+The mage was frowning, eyes narrowed as she looked between the two monsters. Her eyes appeared a little more red than usual, Pyre noted, but her expression was hard. She crossed her arms.
+
+“I didn’t join you just to be a liability,” Daphne said. “If you’re going to Pereth, go to Pereth. We don’t need to stop by Galen just for me.” Her words were firm, chin jutting out stubbornly. Callan looked sheepish.
+
+Pyre hummed, considering. Her left arm continued to pulse, the flesh still regenerating. Even at her current level, it took a while for wounds to heal.
+
+“Not really a liability,” the demon finally said. She raised an eyebrow. “A good healer sounds pretty useful to have around.”
+
+The full implication of what she was saying seemed to hit both mages at once. Daphne’s eyebrows shot up.
+
+“Are you… planning on kidnapping this guy?”
+
+At that, the demon just waved dismissively. “Only if he’s actually good,” she drawled.
+
+Callan buried his face in his hands and made a vaguely strangled sound. Daphne shook her head, a disbelieving laugh escaping her throat, but a smile was quickly forming on her face. Pyre settled back against the tree trunk.
+
+“Well then, that’s settled,” the demon said casually. “Next stop: Galen.”

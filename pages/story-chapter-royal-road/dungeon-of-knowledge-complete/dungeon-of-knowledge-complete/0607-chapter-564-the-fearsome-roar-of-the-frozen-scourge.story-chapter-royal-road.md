@@ -1,0 +1,149 @@
+---
+id: b83b6752-bb51-5434-852b-e450e2bf4bda
+page-type-slug: story-chapter-royal-road
+title: "Chapter 564: The Fearsome Roar of the Frozen Scourge"
+slug: 0607-chapter-564-the-fearsome-roar-of-the-frozen-scourge
+partOf: dungeon-of-knowledge-complete
+position: 607
+ownLength: 2718
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3143707/chapter-564-the-fearsome-roar-of-the-frozen-scourge"
+royalRoadId: "3143707"
+---
+
+Calen’s heart trembled, and his blood ran cold as everything around him fell apart. One moment, they were all in perfect formation, fully buffed and advancing, and then, in the blink of an eye, half the raid was frozen and dying.
+
+Kryostria roared.
+
+It was a noise so vast that his bones rattled inside his skin. The cavern shook, and giant slabs of ice sheared off the roof overhead, barely deflected from crushing a few of the frozen adventurers by judicious application of earth magic and a show of pure brute strength from Ali’s berserker. Mana surged within the Dracolich’s withered body, and hundreds of translucent arctic-blue skulls shot up into the air from under her wings, screeching loudly and peppering the raid group with ice bolts from above.
+
+He raised his bow in a shaky hand, but a wave of dizziness blurred his sight.
+
+“… Calen!”
+
+“What!” he yelled, startled and glancing around. Was that trollish? On sheer reflex, his hand darted out and caught a full vial flying through the air toward his head.
+
+“Take this, you need it!”
+
+He stared at the tusked face of the male troll with his crimson blood runes tattooed into his arms and face.
+
+Joraa? Ali?
+
+“Fear ward,” the troll said, turning back to the unfolding chaos. “Your Mental Fortitude elixir isn’t enough; your wisdom is too low. Malika’s not here to help us, remember?”
+
+Calen glanced at the bright beams of holy light shining through the gaps between his fingers and the lazily swirling liquid within the vial. Suddenly, the daze parted, and understanding shone in like a sunbreak through the clouds, and he threw the vial’s contents down his throat like a dying man in the desert finding a glass of water.
+
+His mind steadied.
+
+Dragons. They had planned well for this encounter – he was already sporting an Eternal Reverie elixir meant to counter the effects of dragon fear. Having won a glimpse of Kryostria’s magic before the fight, he was also loaded up with the highest-level Ice Protection elixir money could buy, but it was clear that he still had a few blind spots in his planning. One of which was accounting for the lack of Malika and her ubiquitous Clarity, and he’d misjudged the immense force of Kryostria’s presence. A mistake, but he didn’t have time for shame and embarrassment right now.
+
+“Do you have any more of those?” Calen asked, his eyes surveying the field and picking out those who were struggling more than most.
+
+“Yes, here,” Ali’s Blood Shaman said, handing him a filled leather potion belt. “I’ll keep the ice cubes alive, but Mato needs a healer soon, and you have to kill those flying elementals before they get out of hand.”
+
+“Right,” he answered, his brain racing to catch up. He glanced around to find only two healers who had escaped the ice – Ali’s shaman beside him, and Belmar the dwarven priest. A crimson ribbon of blood lanced out from a self-inflicted wound in the blood shaman’s arm, threading through nine frozen people, delivering healing simultaneously. Moments later, the shaman did it again, the ribbons lancing through a different path of people.
+
+Nice upgrade.
+
+But Calen’s eyes settled immediately on Belmar, and a plan – or at least an idea – sparked in his brain. “Get Mato,” he shouted, summoning a potion of speed from his ring and pressing it into the dwarf’s hand.
+
+Belmar glanced at the orange potion quizzically before he grunted, “Aye.” He downed it and shot off with the aid of a ridiculously expensive, rare potion Calen had commissioned for kiting Haverron.
+
+Satisfied that the priest would reach Mato in time, Calen scanned the air above the raid and raised his bow. This time, his hands were steady, even though he could still feel the dragon’s fear spilling across his warded mind. He summoned his full array of mirror images and unleashed his arrows into the cloud of skull-shaped ice elementals with his most potent damage combination: Armor Piercing, Light Damage, and Explosive Shot, while simultaneously feeding his paltry mana to his Motes of Light to boost his light damage further.
+
+The arrows whistled as they shot up into the air, and then they detonated on impact with the first wave of elementals, but there were hundreds of them swirling in the air with more spilling out from beneath the Dracolich’s wings by the second. His mana pool had plummeted to half by the time his arrows connected, but Lunaré’s Lament had the ‘Arrows Fork Twice’ enchantment. On impact, his arrows split – two extras from Fork, and his own Spectral Arrows, which allowed the original arrow to pierce right through, continuing further through the swarm. The second wave of explosions was far more potent and denser than the first, and it cascaded, arrows forking on every shot from each mirror image and multishot till there was an immense storm of radiant arrows piercing through to detonate again and again in a chain reaction that lit the cavern with the brilliance of his light-affinity explosions. Each detonation was augmented further by his bow’s soul and nature damage. And within the eye-blinding radiance, crackles of the lightning-affinity Shock followed, procs triggered by his Charged Band of Electrocution.
+
+He grinned as his mana shot back to full and he began to feed his Motes of Light damage enhancement in earnest.
+
+But as the magic faded, his eyes widened at the sight of the skulls still swarming in the wake of his devastating attack. Then, they began dive-bombing the raid, suiciding themselves to unleash devastating Ice Blast explosions.
+
+“How?” Heart racing, he raised his bow, and, with redoubled urgency, he began firing again and again into the swarm, desperate to clear out the deadly threat. Mana surged again, and another cloud of skulls rose into the air from the Dracolich.
+
+Fuck.
+
+“Ice elementals,” Ali said, speaking again through her shaman. “Ice damage absorption.”
+
+Suddenly, it all made sense. He was standing in the ice aura of a tier three champion boss, and it was dealing an extraordinary amount of ongoing damage to everything. Those skulls were bathed in the icy healing power of their summoner, just like Nathaniel’s undead had been when set near the corrupted Well of Souls. He gritted his teeth and fired again and again.
+
+You have gained Onslaught.
+
+Skulls began shattering under his onslaught the moment he used his instant Power Shot, but nowhere near enough of them were falling. They still bombed the raid, detonating against the ice-imprisoned raiders, and by the reactions of Ali’s shaman, they were doing devastating amounts of damage. How had so few of the raiders avoided the ice?
+
+He glanced about for help, but then a brilliant blaze of fire buffeted unseasonal waves of heat against his back and neck, and the crackle of lightning made his hair stand on end. His own continuous bombardment of conjured arrows and explosions was suddenly overwhelmed by the devastating roar of Lyeneru’s bow as his mentor joined him in stemming the tide of elementals.
+
+She unfroze!
+
+From the opposite side of the chamber, another archer unfroze. The pure lightning of Kaitlyn’s arrows joined the fray. More devastating magic appeared as Hala’s Lightning Javelin joined, followed shortly by the distinctive nature-affinity explosions from Coria’s bow.
+
+Slush began raining down on the raid as the sheer power of their combined force pulverized the ice elementals.
+
+Despite their best efforts, the Frozen Scourge that was Kryostria did not even slow down. Ice bolts sprayed from her gaping maw, fired in all directions and forcing him to dodge continuously. Frost Novas detonated among the defrosting raid, refreezing people at random, and the mana surges preceding the mass summoning were coming thick and fast.
+
+Another cloud of summoned skulls screamed out, but then the monster in the darkness summoned something new. Several dozen Ice Hulks – four-legged ice monsters that towered over the elves and humans as they charged about, bludgeoning people. Calen unleashed a volley of arrows imbued with Speed of Light and Grappling Shot simply to lock them down before they mauled the softer classes. Control magic flickered as others in the raid took his lead, binding them in place to allow the assassins and warriors the chance to shatter them. But each took the full focus of at least five raid members to overwhelm the healing from the ice aura and kill them.
+
+“We need more damage.” Calen wasn’t speaking to anyone in particular; it was just an observation. But Ali’s shaman answered.
+
+“On it,” she said.
+
+Out in amongst the melee, the Divine Archon switched auras, and the rogues and warriors suddenly accelerated, their blades blurring with newfound speed as they let out whoops of excitement and joy. The holy sword flew, leaving whirling blades behind that seemed to home in on enemies like magnets. Then the Carnage Berserker landed on top of one of the Ice Hulks, shattering it with a greataxe before spinning off in a whirling storm of steel and blood to destroy several others.
+
+“Thanks,” he said, but his eyes were already tracking a new swarm of Ice Sprites taking to the air from the storm of magic Kryostria was unleashing. One thing was certain – with the sheer number of ice elementals taking to the air, along with their penchant for self-detonation, Kryostria had implemented some of the most powerful air-denial he had ever seen. He had absolutely no desire to fly in this battle.
+
+“New domain magic,” Ali said.
+
+Out by the rift, Kryostria crouched down to the ground and raised her head to the sky and roared. The cavern shook.
+
+“Icequake,” Ali said.
+
+Suddenly, the chamber was filled with the deafening splintering cracks of tons of ice under extreme pressure, and Calen found himself dodging boulders of ice the size of carts falling from the roof while the ground bucked and shook violently beneath his feet. Fissures burst open along the ground with ear-splitting reports as the power of the Dracolich hammered at the ground. While dodging the vast yawning abysses opening below his feet, he still had ice skulls bouncing off rocks and exploding in his face. Just as he was about to wonder if it could get any worse, Ali’s troll called urgently:
+
+“Calen. The Blind Lich is here!”
+
+Calen glanced about in terror, but he found no dark-robed Lich bearing down upon the raid with his powerful necromancy. What the – oh! Calen shifted his vision instantly, taking the viewpoint of the Mote of Light that he’d tagged to Ali back home at Myrin’s Keep, and he saw the petite Fae staring down the Blind Lich himself.
+
+You have gained Onslaught.
+
+At the sound of the chime, he saw his opportunity. He raised his bow from halfway across the world with the beginnings of a grin creasing his lips. Let’s see how you like this! Incoming, Ali!
+
+Ali backed up step by step, hovering above the shuddering ground, the strange sensation of light-affinity magic coursing through her borrowed veins. She studied the ridiculous Icequake domain magic closely with the potent senses of her Fractured Archon. From above, a cloud of white Ice Sprites spiraled down toward her and her friends, filling the air with a storm of tiny, wickedly sharp ice darts that in such large quantities could not be safely ignored, even with the archon’s durable celestial body and the mirror image skill, which greatly increased the potency of her defensive skills.
+
+Currents of light and wind surged within her as she experienced first-hand the spell she had so enjoyed stealing: Celestial Mirror Image. Her body rippled with light, and with a strange pulling sensation, she suddenly found her perspective shifting several meters to the left as her spell produced ten identical mirror images, placing her at a random location in the array of duplicates. As always, Ali marveled at the unusual application of teleportation magic in an affinity that was not her own.
+
+Instantly, her perceptions changed. Her minion’s movements accelerated dramatically, while her skin and body hardened perceptibly – defenses and haste growing in proportion to her number of images. With a wave of multiple hands, she unleashed a storm of wind blades that whipped about her bodies like miniature tornados – vortices of near-invisible razor-sharp blades, like a wind-affinity mimic of Tol’brekk’s devastating Blood Vortex.
+
+The air was suddenly filled with the pained screeching of sprites and the grinding of hardened wind slicing through ice. Frozen bits of the Ice Sprites rained down upon the ground, and not even the majority of the ice needles made it through the blades. Those that did simply bounced off her incredibly resilient body.
+
+Time to take the battle to her, Ali thought, turning her multiple mirrored gazes upon Kryostria herself. She was exquisitely aware of the confrontation unfolding back in the Grove, but to falter here would be putting her friends in grave danger. The Fractured Archon, a Celestial combat mage, had few spells, and none of those could turn the tide back home, but what it did have was potent, and she meant to use them to the fullest. Nearly everything she cast here would cascade once per mirror image, and she already knew how to put that to best use.
+
+While the Ice Sprites dove relentlessly into her blender, she summoned Radiant Orbs – small, floating light-affinity elementals with miniature beam attacks – and loosed them upon the multitude of spawned ice monsters. Then she focused her gaze upon Kryostria and readied her powerful eye beam attacks. Air sizzled and scorched as the intense beams shot from her array of mirror-imaged eyes, each pair focused upon the Dracolich herself.
+
+A pained roar of fury shook the cavern as the stench of burning corpse flesh wafted out over the ice. Thick, choking smoke curled up from the glowing point of concentrated light, mingling with the steam from flash-vaporized ice.
+
+But that roar was anything but impotent. Behind the smoke, mana flickered, forming complex formations in rapid succession.
+
+Maximize Damage. Empowered Casting. Ice Bolt Storm.
+
+Ali threw up wind shields around her archon images as a hail of ice shot across the room.
+
+Winter’s Desolate Celerity!
+
+On reflex, Ali attempted to Disrupt it but caught herself at the last moment. She was not physically present – her Archon could only see the formations, not disrupt them. In an instant, the storm was upon her; a howling gale filled with razor-sharp bolts of ice that tore into her bodies. Three of her images froze solid, and half of the rest were chilled, immediately taking substantially more damage from the continual arctic bite of Kryostria’s Frozen Scourge aura.
+
+But Ali was hardly done. She summoned the Radiant Wind Lance to her hands, brimming with power, and flung it across the cavern. The volley of howling lances – one from each image – shone so brightly that the entire raid winced at the sight, but there was no doubt about the effectiveness of the skill as the lances impaled themselves deep into the dead flesh of Kryostria’s left flank before detonating in a violent eruption of wind and light. The great beast thundered her pain and displeasure as she instinctively writhed away from the strike.
+
+“Armor vulnerability!” Lyeneru roared. “Attack now!”
+
+As the light of her immense attack faded, Ali focused again on summoning the tiny Radiant Orbs, intent on filling the cavern with a canopy of stars.
+
+Down at the far end of the ice cavern, Kryostria’s body creaked ominously as she raised her maw skyward. Mana surged, rushing up through her ancient, decaying body like a geyser of power, lighting the roof above her with an ominous radiance. A tiny spark of blue rose from between her bared fangs, hovering in the air like a firefly, pulsing slowly.
+
+The pulses, like a glacial heart, began beating quicker and quicker, and as the pace accelerated, the intensity of the radiance mounted as more and more domain mana was crushed into the tiny orb. A bitter cold radiated from the center, felt even at the far end of the chamber.
+
+Ali recognized the formation. She would recognize it anywhere.
+
+“Elemental Storm!” she shouted, snatching every voice at her disposal to sound the warning.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

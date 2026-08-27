@@ -1,0 +1,143 @@
+---
+id: c1e65f65-f4ca-5567-8d92-cc992d76ef10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 484: Lightning Loot"
+slug: 0522-chapter-484-lightning-loot
+partOf: dungeon-of-knowledge-complete
+position: 522
+ownLength: 2676
+unit: words
+ownProgress: 2676
+publishedAt: 2025-12-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2873407/chapter-484-lightning-loot"
+royalRoadId: "2873407"
+markedReadAt: "2026-06-29T20:29:58.359Z"
+---
+
+Calen stood, invisible, upon the roof of the building overlooking the battle, wings dismissed to free up his stamina for Power Shot, and drew Cinderstrike’s bowstring all the way to his cheek. He channeled stamina into his bow, empowering his attack for a full three seconds before unleashing the enchanted mithril arrow loaded with every damage enhancement he could muster. The shot shone, briefly lighting the walls of the nearby buildings, outshining even the incandescent conflagration below him. The fire from his bow may have been lost in the intensity of hellfire and holy explosions, but he still felt Cinderstrike’s Slow curse proc on hit. And Ambush.
+
+He drew again, his technique smooth and efficient, with minimal wasted time and movement. It’s an inspired plan, he reflected as the three seconds he had allotted for his second shot’s power-up ticked by. Three seconds was safely above the threshold for the amount of damage he needed to deal to be worth the cost of the triggered lightning novas, and still quick enough that he could lay down his Grappling Shot chains and have a decent chance of triggering Onslaught and the instant, maximum Power Shot that would enable.
+
+Somehow, Ali had figured out the boss’s healing skill with just her mana sight, analysis skills, and raw intuition, yet again confirming the sheer importance of good perception skills and rule three from Lyeneru’s Dungeon Survival Guide.
+
+Using Malika as the primary tank and Mato’s damage redirection to tank the damage for the troll and the demon while in Tree Form granted access to both his Consecration skill and the ability to counter the Pit Lord’s blood corruption. It was truly inspired; the sheer amount of synergy and efficiency in her setup just demonstrated what an incredible asset she was to their team.
+
+He grinned suddenly. Or maybe, that Rule should read, ‘Use your stupid brain!’ Too many adventurers did just the opposite. And here, Ali’s versatility is coming in clutch. Let’s do this!
+
+The second shot of his rotation fired off with a flash of intense light and the crackling sizzle of high-speed flame, and before the shot even arrived, he had switched to the Howling Hellfire Bow and nocked another arrow. This was his answer to the sheer stamina cost of his channeled Power Shot. At its relatively low level of eighty, he had mostly outgrown his trusty Howling Hellfire Bow, but for situations like this, it was indispensable. At precisely the six-second mark, his stamina reached zero, and he released the arrow, accompanied by a familiar howling scream, a surge of black flame, and a sudden wave of exhaustion.
+
+A fraction of a second later, his arrow struck its mark, and the stamina leech on his old bow triggered, pouring stamina back into his relatively small stamina pool in a torrent; far more than he would need to fill it in the next couple of seconds.
+
+You have gained Onslaught.
+
+Yes!
+
+With a few points of mana to the storage enchantment on his ring, Calen swapped his bow back to Cinderstrike and loaded it with another five-gold’s worth of mithril, rune enchantments, and fletching. He used a decoy to regain his invisibility so that he could use Ambush without wasting time to go hide behind a building for a while. In an instant, he emptied his now full stamina pool, turning it all into power, and released his arrow.
+
+A miniature sun detonated between Malika and the two enormous minions, smashing the tiny bone fetish in the middle of a continuous spherical deluge of lightning, and Calen’s ears rang from the bang.
+
+He grinned, swapping bows again and losing himself a little to the methodical precision and practiced movements of summoning arrows, aiming, and firing, trusting his friends to take care of healing, tanking, and magic suppression. But, as calming as his zone was, he never once relaxed the habit of scanning his surroundings for any signs of approaching monsters, nor did he miss the time when he needed to swoop down and refresh his Clarity from Malika’s excess healing pulses.
+
+Succumbing to one of the continuous procs of Confuse and killing his friends was not something he was eager to risk.
+
+Calen’s zone was eventually interrupted by Ali shouting, “He’s nearly down!”
+
+It wasn’t something he could see, personally, but still, he took the opportunity and loaded up a fresh accuracy potion, and, on his next Onslaught proc, he vanished, dropping his full stamina pool on yet another devastating blast. This time, his chime sounded merrily in the back of his mind.
+
+Your group has defeated Grim Spark [The Quick] – Undead, Bone Fetish – level 204 (Lightning)
+
+In the sea of consecrated flame and writhing brambles and roots, several last fireballs detonated as the remains of the lightning crawled across the ground, slowly dissipating, and then it all faded away, leaving relative silence and the heavy breathing of a Pit Lord and a giant troll.
+
+Malika, by contrast, stood entirely calmly, looking down at the tiny corpse of the Bone Fetish, scarcely breathing more than normal, despite the ridiculous glow of her magic and the piercing blue radiance that shone forth from her eyes. But as Malika poked the corpse of the Bone Fetish, it erupted in one final paroxysm, an explosion of lightning vines that lashed out, coiling and climbing anything and everything in range, like some demented sparking electric plant.
+
+Calen snapped his bow back up at the ready, unsure what exactly to shoot, but other than a few jolts of electricity to Ali’s nearby minions and Malika’s hasty dodge, nothing much happened. Some sort of on-death trigger? Whatever that was, it seemed to be over at least, although the still-sparking vines might make examining the corpse rather annoying. So, a couple of levels?
+
+Realm Hunter has reached level 153 (+6).+60 attribute points.Radiant Archery has reached level 86 (+3).Arrows of Brilliance has reached level 77 (+3).Motes of Light has reached level 59 (+2).Explorer has reached level 84 (+3).Blessing of the Dawn has reached level 62.Eclipse has reached level 42.Eyes of the Archon has reached level 58.Righteous Fury has reached level 54 (+2).Azrael's Wings has reached level 40.Mirage Armor has reached level 59 (+2).Cartography has reached level 30.
+
+When he saw the number of levels he had gained, Calen immediately hopped off his high perch on top of the building, flaring his wings as he sailed down to double-check the boss.
+
+Six levels for a normal-level boss?
+
+It was above level two hundred, which was higher than anything they had faced so far, but still. The real issue was just how insanely difficult the fight had been, and what that meant for the next boss, one he already knew was most certainly a raid-level threat. He most certainly had not understood the extent of the threat this Grim Spark posed when he and Ali had scouted through here the first time – it had been a long time since a party-level boss had pushed them so hard.
+
+What other surprises are waiting for us in the darkness along the way?
+
+Malika stared down at the tiny, skeletal Bone Fetish sprawled out upon the dirt, its tiny bones and oversized head seeming almost frail as it lay there. But the occasional spark of dissipating lightning energy grounding out of its bones made it twitch occasionally, and she had to resist the urge to snap into a defensive stance, reacting to the sheer amount of speed and power it had displayed.
+
+Slowly, her mind shed the urgency and sheer speed she had immersed herself in for the last couple of hours, finally allowing herself to return to the normal world of regular-speed people. She reached out and poked the bones with the point of her foot, but all that happened was the bone-white dagger clattered to the ground, released from its now properly dead bony grasp. As she reached for it, though, a sudden surge of mana flickered in her Soul Sight. With reflexes honed by hours of high-speed combat, she sidestepped instantly, dodging a sudden explosion of vine-like tendrils erupting outward from the corpse, carrying visibly arcing electricity, like a plant conducting pure lightning. They lashed out wildly, grasping onto legs, arms, and Mato’s trunk, immediately coiling and growing upward, delivering continuous jolts of lightning magic into whatever they clung to.
+
+It took a few moments to untangle the Pit Lord and the Berserker’s legs, and only then did she see to her own, her Soul Armor’s magical damage reduction reducing the lightning damage to nothing, but Mato was going to have to transform to shed the sheer number of vines climbing his trunk.
+
+Finally, she reached down and retrieved the fallen dagger from among the sparking growth. It gleamed with preternatural sharpness, as if it could cut even the air itself, and it nestled with a surprising lack of weight in her hand. Out of habit, she appraised it.
+
+Dragonbone Carver – level 195A preternaturally sharp sliver of dragon bone, somehow carved into the shape of a dagger.Damage: Slashing, Piercing, Physical+184% Physical damage with this weapon.Added Physical damage on hit with this weapon.+107 Strength.+85 Dexterity.+23% increased attack speed.Requirements: Strength 683, Dexterity 683Quality: Rare.Value: 368 gold.One-Handed – Dagger
+
+She whistled softly as she appraised it, her eyes drawn to the incredible power of the dual physical damage enchantments.
+
+“Something nice?” Calen asked, landing softly beside her and examining the Bone Fetish, keeping a healthy distance from the arcing plant growing from the corpse.
+
+“I think some of the rogues in the guild are going to be competing to level up when they see this,” she said, sharing the dagger with the group.
+
+“Wow, I’d use that if I had dexterity,” Mato said.
+
+“That’s impressive,” Calen said.
+
+Malika knelt in the dirt beside the corpse, carefully examining the strange runes that seemed to be inscribed directly into the skull of the monster – runes that seemed to still glow with an unholy energy. “Hey, Ali? Can you take a look at this?”
+
+“Sure,” Ali said, landing her soft slippers in the dirt beside her.
+
+Careful to avoid touching the magic, she tipped its strange skull and pointed at the runic inscriptions, but as she did, she jostled the skeleton, and something small and shiny fell to the ground.
+
+With an instinctive burst of stamina, her hand snapped out and caught a small silvery ring before it landed in the dirt. Tiny little sparks drizzled from the ring, crawling across her fingers with a prickly, tingling sensation before falling off and fizzling against the ground.
+
+Charged Band of Electrocution – level 200A band of gleaming electrum, so charged with lightning mana that it continually leaks sparks into the air. +110 Intelligence.+88 Wisdom.+44 Dexterity.+120% spell power to Lightning skills.21% chance to cast level 185 Shock on hit.Requirements: Intelligence 700, Dexterity 400.Quality: Rare.Value: 418 gold.Ring – Electrum
+
+“Oh wow, this is even better,” Malika said, again sharing the details.
+
+“Well, that explains some of the ridiculous lightning damage,” Ali said. “Does that Shock skill proc off the Lightning Novas?”
+
+“Pretty sure it will proc off any hit, physical or magical,” Calen said. “Also, I kinda want that.”
+
+“What for?” Malika asked, suddenly curious. “You don’t have any lightning skills.”
+
+“It has two of my primary attributes on it, and that spell power enchant will increase the power of that shock proc. I would use it to add lightning shock damage to my arrows whenever I need a different affinity. I couldn’t use Death’s Grasp or the Scourge of Deadly Creep in this fight primarily because death and poison were bad affinities for that thing. If I had that ring, I could use it situationally to add a novel damage type.”
+
+“Good enough for me,” Malika said, tossing the ring at him with a grin. “Here you go, lightning boy. Go level up so you can use it.”
+
+Calen’s eyebrows danced at her wording, but his hands had never moved quicker to catch that ring.
+
+While the others discussed the items, she let her feelings about the fight distill for a few moments. Would Rezan approve? She had been pivotal in this fight, but she wasn’t entirely sure she’d learned anything significant, and he’d always insisted on scouring every fight for personal growth. She sighed, allowing her feelings to fade for the moment; they would make themselves clear in good time. Instead, she inspected her notifications, surprised to find she had gained a full seven class levels.
+
+Eyes of the Soul has reached level 155 (+7).+70 attribute points.Martial Artist has reached level 81 (+2).Soul Strike has reached level 82 (+2).Healing Mantra has reached level 95 (+3).Perfect Body has reached level 56 (+3).Soul Armor has reached level 70 (+3).Enlightened Evasion has reached level 62 (+3).Divine Step has reached level 69.Second Wind has reached level 45.Clarity has reached level 56 (+2).Soul Sight has reached level 64 (+4).Appraise has reached level 32.
+
+Heck of a fight. Perhaps I did learn something. Malika sat near Mato’s tree and studied her seventy attribute points for a moment; however, her plans for distribution hadn’t changed much. She still needed every attribute, and it was just the relative amounts she had to adjust. In her current priority order, she spent nineteen points on wisdom and then sixteen on dexterity. With Abiding Perseverance allowing her to overspend on her defensive skills, she weighed perception higher than endurance at the moment, so she spent fifteen and twelve on them, respectively. Given the danger of this fight before she’d powered up, she decided to spend the remaining eight on vitality and leave strength and intelligence for next time.
+
+It took a while, but eventually she realized what it was that was bothering her. “I think we should return to Myrin’s Keep and get help. Or come back when we level up a bit more.”
+
+“What do you mean?” Mato asked. “We’re here to get the Lich’s Phylactery. We could end him and his evil war right now.”
+
+“I know the plan,” Malika said. “But this thing wasn’t even a raid boss, and it very nearly took us out. It’s above level two hundred, and we spent hours on it. That doesn’t bode well for the rest of the dungeon. Are we really strong enough to tackle it? What if we die somewhere here in the dark? Then nobody gets the Phylactery and the Lich keeps killing people and adding their corpses to his army.”
+
+“You don’t think we can do it?” Calen asked.
+
+“I’m worried,” Malika admitted. Truthfully, she was more than worried. In their first engagement, Grim Spark had taken almost half her health in a single dagger strike. More than once, she had been saved only by the speed of her Healing Mantra restoring her life several times during a powerful flurry of lightning bursts.
+
+“I’m concerned too,” Ali said, frowning. “But, Malika, the Well of Eternity is in the next room, and I don’t know how long Lira’s soul has left. I know it’s dangerous, but I must try.”
+
+The Well is that close?
+
+“You neglected to mention that,” Malika said after a moment’s silence. She hated to admit it, but that fact, along with Ali’s impassioned plea, actually changed things for her. It would be incredibly dangerous, but the chance of saving Lira by retrieving a vial from the Well of Eternity was a big consideration. “We have a chance of getting to the well after just one more boss?”
+
+“Two more,” Calen said. “The well has guardians.”
+
+“What a surprise,” Mato snorted.
+
+“That’s… better than I expected,” Malika admitted, allowing herself a grim-sounding chuckle. If we can get to it without clearing the full dungeon, that will definitely reduce the risk.
+
+“We should take the time to clear all the Death Knights,” Calen suggested. “That should be worth a few levels. Then, back here?”
+
+Malika nodded, “Works for me, but we need to be extra careful from here on and be ready to run if we need to.” The others all nodded.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

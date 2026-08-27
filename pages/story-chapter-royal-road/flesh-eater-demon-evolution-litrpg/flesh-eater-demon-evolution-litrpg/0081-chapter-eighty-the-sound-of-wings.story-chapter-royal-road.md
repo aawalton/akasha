@@ -1,0 +1,141 @@
+---
+id: e1125c4e-8ff2-55ff-a24f-00a5f3763eca
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty: The Sound of Wings"
+slug: 0081-chapter-eighty-the-sound-of-wings
+partOf: flesh-eater-demon-evolution-litrpg
+position: 81
+ownLength: 2279
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3373387/chapter-eighty-the-sound-of-wings"
+royalRoadId: "3373387"
+---
+
+Everything that happened after breaking the circles passed by in a haze. Callan was vaguely aware of draining the surrounding grasses and trees, nearly withering away the entire patch of forest, before forcing himself to float back towards the sanctum. He barely managed to remind himself to appear solid, lest he get attacked by garrison troops.
+
+He still couldn’t quite believe that the spell had worked. He didn’t let himself celebrate yet, though. Just because the circles were gone didn’t mean it was over. The barrier itself still needed to be destroyed.
+
+The dizziness that had clouded his mind since channeling the seed finally started to clear after he passed back into Bellhein grounds. The field was an even bloodier mess than before, a mass of twisting bodies and teeth and metal. He couldn’t see Pyre or Daphne anywhere. Callan kept moving. Had they already reached the sanctum?
+
+He ended up getting his answer a few minutes later, just as he neared the destroyed eastern wall, when an explosion erupted from the sanctum tower.
+
+Then the pillar of light disappeared.
+
+Callan did smile, then. They’d actually done it. Their insane, botched plan had actually worked. The portal spell was closed. All they had to do now was defeat the remaining monsters, and the Empire’s invasion would be officially quelled.
+
+His celebration was quickly cut short when a familiar screech pierced through the sky. It was soon followed by the distinct sound of flapping wings.
+
+Callan winced. When he looked up, he had a clear view of the wyvern diving in the direction of the sanctum. His heart raced, and he surged forward, bursting onto the main road.
+
+If he’d thought the manor grounds were chaotic, it was even worse here. The destruction of the ritual spell had sent the Empire troops into a frenzy, and the wyvern circling overhead had garrison troops recoiling.
+
+Callan’s eyes landed on the pile of rubble that had once been the sanctum, then the huge crater in the ground just outside of it. He searched wildly. Where was Pyre? Daphne?
+
+Before his rising panic had a chance to set in, a gleam of silver caught his eye. Moving against the flow of fleeing soldiers towards the center of the field, utterly uncaring of the wyvern circling overhead, was Pyre. Her horns were on full display, body covered in bone armor plates.
+
+Relief flooded the ghost. He hurried forward, careful to pretend to run now that there were so many soldiers around. The last thing he needed was to get attacked by garrison troops because they thought he was on the Empire’s side.
+
+Pyre turned just as Callan approached, and his heart immediately sank when he noticed her left arm. Or rather, what remained of it. He’d seen the demon warp it into odd, amorphous masses of flesh before, but he recognized its current slight tremor as a marker of the flesh regenerating itself. At some point, the demon had lost the arm, and even though her posture gave nothing away, he suspected she was injured elsewhere too.
+
+“Kid, good job with the circles,” the demon said with a casual nod in his direction. Nonchalant as ever.
+
+Callan furrowed his brows, opening his mouth to ask about her injuries, when another sharp screech rang from above. The ghost flinched. Beside him, Pyre’s cool grey eyes watched the wyvern’s flapping wings with steady focus.
+
+“Hey, that’s a dragon, right?”
+
+Callan frowned. “Wyvern,” he corrected. He shifted nervously. “It’s smaller than a dragon, less intelligent, and it can’t use magic. Still extremely dangerous,” he added, because he had a sneaking suspicion he knew what the demon was planning.
+
+Pyre hummed noncommittally, still staring up at the creature. “Cool.”
+
+The ghost’s face blanched. “You’re not seriously going to fight it?” he sputtered. The demon just shrugged, gesturing casually around them as if to say, “Who else?”
+
+And the thing was, as much as he hated to admit it, she wasn’t wrong. The garrison would be able to take it down eventually, but countless lives would be lost in the process. In a worst case scenario, the wyvern could fly away, terrorizing neighboring cities that didn’t even know about the invasion. Pyre was both close enough to reach it immediately and also strong enough to face it head on.
+
+Expression as calm as ever, the demon strode ahead, giving the ghost a friendly pat as she continued towards where the wyvern was starting to descend. “Daphne’s in the forest,” she said as she passed, which answered another one of the ghost’s questions. “You can hide out there if you want. Or stick around. Up to you.”
+
+Without another word, the demon surged forward.
+
+It was almost funny, how quickly the tide of battle could change. The confidence the garrison troops had gained after the light beam’s destruction quickly seeped away with each new screech and flap of wings overhead. By the time the wyvern twisted around, barrelling straight down into the field, the space had thinned out as soldiers and monsters alike ran for cover.
+
+Pyre eyed the wyvern closely, taking note of its trajectory. It was supposedly smaller than a dragon, but still more than big enough that she didn’t feel like testing if she could take a direct hit from it.
+
+Turning, the demon leapt to the side—casually beheading a hellhound along the way—as the wyvern crashed down into the earth with a final piercing shriek.
+
+The force of the impact sent a shockwave bursting all throughout the clearing. Blasts of wind exploded like a typhoon, knocking several soldiers and monsters to the ground. Pyre stabbed her bone axe into the earth, using it as an anchor. In the center of the chaos, the wyvern flapped its wings again, and a second flurry sent stray branches and stones whipping wildly across the field.
+
+Facing the creature, Pyre studied it closely. According to Callan, the thing couldn’t use magic, which was good for her. She would’ve thought that wind blast was magic if not for the ghost’s words, so it was probably some sort of skill or trait instead. It wouldn’t surprise her if it was what allowed the wyvern to fly, considering how heavy it was.
+
+Turning, the wyvern released another shriek. With deceptive speed, its long, barbed tale whipped out in a wide arc. Pyre ducked down, narrowly dodging the swinging appendage in time. She heard yells as the tail collided with a few soldiers nearby, the sharp spikes instantly skewering them. They flew back from the force, crashing into the forest bloody and twitching.
+
+Shifting her weight, the demon surged forward. With its greater reach, the wyvern had the advantage at range. She needed to get close.
+
+Reeling an arm back, Pyre dashed up to the wyvern’s hind leg, activated [Enfeebling Strike], and rammed the blade of her axe into the limb with as much force as she could muster.
+
+[The skill [Basic Enfeebling Strike] has leveled up! Lvl 1 —> 2]
+
+Sharp bone dug into hardened scales. A brief flare of warmth flowed through her arm and into the wound as [Enfeebling Strike] took effect. The wyvern’s hide was dense and tough—the axe only made it a few inches deep before it got stuck.
+
+Above, the wyvern let out a furious roar. Movement flashed in her back eye, and in the next second, one of the monster’s wings was slamming into the demon.
+
+Pyre flew back from the force of the blow. It was pure instinct that had her tucking her body into a roll, flipping over once before quickly getting back to her feet. She could feel a small crack in the bone armor covering her shoulder. If she hadn’t used [Enfeebling Strike] just now, that hit probably would’ve broken through the plate entirely.
+
+Not stopping, Pyre charged again. This time, she circled around the creature, ducking below its right wing to reach its front.
+
+She lunged, bone axe aimed straight for the wyvern’s chest. A series of quick swings carved into tough hide, and the monster roared. It reeled up on its hind legs, then slammed its upper body back down. Its mouth snapped in the demon’s direction, razor-sharp teeth narrowly missing her head.
+
+Before it could pull back again, Pyre warped the bone plate on her shoulder into a sharp spike. She shot it straight towards the wyvern’s left eye.
+
+The bone sank into the sickly yellow pupil with a squelch. The creature’s ensuing screech was so loud that Pyre swore the ground cracked from the soundwaves alone.
+
+The wyvern thrashed wildly, tail whipping behind it, teeth snapping. In its convulsing, one of its claws carved into the demon’s bone armor, knocking her back.
+
+She crashed into a nearby tree and heard bark splintering behind her. The demon yanked herself up to her feet and leapt away just as the tree came crashing down to the ground.
+
+In the center of the clearing, the wyvern’s wings beat furiously. Fresh blood poured out of its left eye socket, falling to the earth in a thick stream. More blasts of wind knocked away the arrows shot by the garrison’s archers, and any soldiers who attempted to approach were once again hurled away by the force. In the next few seconds, the wyvern took to the sky once more.
+
+Pulling herself back to her feet, Pyre regrew the bone armor plate that had broken. The claws had dug into the flesh below, but not deeply enough for it to melt. She could already feel the injured flesh beginning to heal.
+
+Meanwhile, the wyvern circled above, taking a sharp turn with a powerful flap of its wings. It then tucked them in, diving straight towards the clearing.
+
+Or, more specifically, towards Pyre.
+
+The demon dove out of the way just as the wyvern jetted past her. More trunks cracked, the surrounding trees toppling like dominos in the wake of the wyvern’s fury. It soared up and circled around again, already preparing for another attack. It almost made Pyre laugh.
+
+Well, she thought. It looked like she’d successfully pissed it off.
+
+Turning, the demon bolted. She was vaguely aware of soldiers and monsters alike scattering from the field, none wanting to get in the wyvern’s way. On her part, she jumped over fallen trees, moving in a zig-zag pattern to try and throw the thing off.
+
+By now, her left arm had regenerated about halfway. It wasn’t near fully healed yet, but she had enough excess flesh to shoot out a few thin appendages that she used like ropes to swing herself around the trees.
+
+The next time the wyvern dove, she yanked herself up with one of those flesh chains, effectively vaulting over the monster as it ripped through another chunk of the woods.
+
+Pyre landed hard on the ground, and sure enough, she could see the wyvern already starting to circle around once more. It didn’t look like it had any intentions of grounding itself again. She had no way to hit it like this.
+
+The demon eyed the fallen trees again, recalling that brief moment she’d been suspended in the air above the creature.
+
+Her eyes narrowed. An idea was quickly forming in her mind. A reckless and dangerous idea that would definitely give Callan a heart attack if he heard it, but it was probably her best shot.
+
+Her only shot, really.
+
+The next time the wyvern pivoted, wings folding as it readied to dive, Pyre studied its course closely—trying to predict where it would land. The monster screeched, and all at once it was barrelling towards her again.
+
+This time, the demon dove away, then immediately looped back around as the wyvern crashed into the ground. Dirt sprayed everywhere, the creature’s claws leaving deep grooves in the earth, but Pyre was more focused on getting close enough.
+
+There. The rest of the wyvern’s body was already lifting into the air again, but for a brief second, its tail dragged along the ground. Pyre stretched the flesh of her left arm out as far as she could, then wrapped it tightly around the appendage.
+
+The moment her flesh touched the tail, the wyvern seemed to realize what she was doing. It kicked out violently with its hind leg, and Pyre barely had time to activate [Stalwart] and [Counter].
+
+The blow slammed straight into her torso, shattering the bone armor there. She felt the hit sink into the flesh below, the force of the impact coursing through her like a shockwave. It should’ve sent her flying, but instead, she stayed planted right where she was. It was as if [Stalwart] had rooted her to the ground.
+
+[The skill [Basic Stalwart] has leveled up! Lvl 1 —> 2]
+
+[The skill [Basic Counter] has leveled up! Lvl 1 —> 2]
+
+The wyvern bellowed, tail thrashing violently as the effects of [Counter] ripped through it. The demon barely managed to hold on, pushing past the pain and hoisting herself onto the undulating appendage. [Counter] might’ve only inflicted 10% of the attack’s damage back to the wyvern, but it was still satisfying as hell to use.
+
+Those powerful wings began to beat again, the wyvern still attempting to throw her off, but Pyre kept her warped flesh wrapped securely around its tail. She didn’t care that some of the barbs were digging into it.
+
+She hung on through the violent whipping and thrashing, the wild movement turning the surroundings into a blurry mess. She held on even as another blast of wind exploded out from its wings and the monster took to the sky again.
+
+Only this time, the wyvern had a demon latched to its tail.

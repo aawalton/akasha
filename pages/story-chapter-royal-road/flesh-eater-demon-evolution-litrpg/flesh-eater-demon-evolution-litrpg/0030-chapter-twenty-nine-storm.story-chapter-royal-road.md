@@ -1,0 +1,175 @@
+---
+id: b0bafed3-c758-57fc-b293-3baaf47050ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-Nine: Storm"
+slug: 0030-chapter-twenty-nine-storm
+partOf: flesh-eater-demon-evolution-litrpg
+position: 30
+ownLength: 2845
+unit: words
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2667419/chapter-twenty-nine-storm"
+royalRoadId: "2667419"
+---
+
+It probably shouldn’t have surprised her that the demon was so humanoid. Pax, after all, had pretty much looked like a regular human with all the colors drained out. But she’d been straight up wearing a human corpse, and a part of Pyre had always assumed that crossroads demons must look more “normal.” They regularly had to deal with humans, after all; it wouldn’t do to scare them away with their appearance.
+
+In front of them, a woman with thick, auburn hair stood in the narrow space between the mountains. Against the stark stones and rocks behind her, her rich violet robes were a shock of color whipping in the whirling gusts of wind. It hadn’t started raining yet, but the flashes of lightning were growing more frequent, the roar of thunder louder, the winds stronger. The storm would let loose soon.
+
+The only things indicating that the woman in front of them wasn’t human were her bright lavender eyes—practically glowing under the overcast sky—and the single, curling black horn sprouting out from the right side of her head. There was no second horn to match it on the left.
+
+Pyre studied the demon, but she didn’t move closer from where she currently stood just outside the tunnel. Now that she could fully straighten her current form, she was quite a bit taller than the other demon’s decidedly average height, but no one was under any illusions about who had the most power here.
+
+The other demon’s eyes watched the sloth fiend as well, probably making similar assessments in her head. Pyre could see Callan shift uneasily from her right eye. The demon, it seemed, had no interest in speaking or moving, effectively forcing them to be the ones to start the conversation. That wasn’t ideal, but they couldn’t very well stand there all day.
+
+So, after another long look, the sloth fiend opened her mouth.
+
+“Pyre.”
+
+The other demon raised an eyebrow.
+
+“That’s my name,” she continued. “You?”
+
+“…Tivona.”
+
+She’d gotten her to talk, at least. That was a good sign. So was the lack of lightning being thrown at them.
+
+“Well, Tivona, like I said before, we’re just trying to pass through. So if you could let us back into the pass and maybe lay off on the lightning for a bit, that would be great.”
+
+“Who is your progenitor?”
+
+Pyre paused at that. The other demon hadn’t stopped staring at her since they’d exited the tunnels—staring at her horns, specifically, she realized.
+
+“…I don’t know,” she said slowly. She gestured with her too-long arms. “I’m kind of brand new, you see. Popped into existence about a week ago. I don’t even know what ‘progenitor’ means.” She purposely kept the exact details surrounding said “popping into existence” vague. Seeing as the circumstances around her birth were apparently not the norm for demons these days, she didn’t care to test how other demons would react to it.
+
+“I see.” Tivona still didn’t move from her spot, but her expression looked a little more thoughtful now compared to the total blank slate it was before. “A progenitor is the original titan that your bloodline can be traced back to. I’ve never seen horns like yours before, but then, I certainly haven’t met every demon in existence.”
+
+That confirmed that her horns were, in fact, the exact same shape and shade as Fred’s for a reason. If what Callan had theorized about that spell delaying the original curse was true, then it was probably safe to say that she was the only living demon right now with these exact horns.
+
+“You are a sloth fiend, correct?” Tivona continued.
+
+“Yep.” There was no point in denying it, though it did make her wonder how Tivona knew. Maybe her scent gave it away; the other demon probably had a trait similar to [Species Scent], except with a much bigger repertoire of past scents to pull from.
+
+The other demon hummed. “Cyrus is fond of sloth fiends. He always said they were the pinnacle of what demons should be.”
+
+Pyre squinted. The other demon’s expression hadn’t changed, but there was a growing flatness to her voice that didn’t seem like the greatest sign.
+
+“I told you,” she began, “I don’t know who that is.”
+
+Tivona’s lips twisted into a bitter smile. “Not yet, but you will. No demon can escape his notice for long.”
+
+“That why you’ve been hunkering down in the mountains? You’re hiding?”
+
+Lavender eyes narrowed. “You know nothing.” Her voice was low, barely louder than the crashing thunder and the howling wind, but it rang clearly all the same. Another bolt of lightning streaked across the sky directly above them, its flash temporarily drowning the surroundings in white.
+
+Pyre studied the other demon carefully. “You’re right, I don’t.” She took a slow step to the right. Through her side eye, she could see the main Lightning Pass cutting through the mountain range. If they could just get there, they could book it and hopefully leave with minimal injuries. “Anyway, like I was saying, we weren’t trying to bother you. We’ll just be going—”
+
+Tivona’s hand shot forward. Above them, the lightning abruptly changed directions, curving downwards to wrap around her arm like a coiling snake before bursting out of her fingertips. The ground where Pyre had just been about to step exploded. Rocks sprayed outward, and the air sizzled with electricity.
+
+Pyre jumped back while Callan yelped behind her. Her eyes flitted over to Tivona, whose hand was still raised. Her palm glowed a distinct shade of lavender.
+
+“Woah there, here I thought we had a good conversation going.”
+
+“You know I’m here.” She took a step forward, lips pulling into a sneer. “You can’t be allowed to leave.”
+
+“We won’t tell anyone!” Callan blurted out.
+
+For the first time since they’d exited the tunnel, Tivona’s eyes flitted over to him. Her expression, however, was one of disdain. Dismissive. “A ghost. I wondered why I couldn’t hit the second presence I felt.” She shook her head. “No matter. I know now.”
+
+She shifted her stance. The glow on her palm faded, then reappeared again. Pyre vaguely remembered Callan talking about the difference between using magic to manipulate existing substances and using it to generate things. It looked like Tivona was switching to the second, which might mean weaker lightning bolts, but it didn’t bode well for their chances of getting out of this without a battle.
+
+The sloth fiend shifted her own stance, muscles flexing.
+
+Ah well. She hadn’t really thought they could leave without a fight, anyway.
+
+“We can make a pact or—or use a binding spell! That way you know we’re not lying!” Callan was saying, still desperately trying to deescalate the situation. From his tone, though, he was also starting to realize that it was hopeless.
+
+“Binding spells can be broken.” Tivona smiled thinly, her gaze flickering back to Pyre. “You should be grateful. I’m sparing you from a much worse fate. The world doesn’t need anymore demons running around.”
+
+The sloth fiend laughed even as she extended the bones along her torso. “Yeah? What, you worried about competition on your turf?”
+
+Tivona continued as if she hadn’t heard her. “—to show up in that disgusting form, to travel with a former human. You have no shame.”
+
+The scent of the air turned acidic. A burst of light shot out of her fingertips just as Pyre extended out a wall of bone in front of her and Callan.
+
+The glowing orb exploded on contact. Rippling waves of electricity crackled down the shield. Pyre gritted her teeth, but she held firm while the electricity dispersed down into the ground. Something smelled burnt, but it seemed like she’d been right about Tivona’s generated lightning not being nearly as strong as the stuff she pulled from the sky. Her increased magic resistance, too, was probably helping.
+
+When the lightning finally stopped, Pyre lowered the bone just enough to toss a grin at the other demon.
+
+“Woah there, ‘disgusting?’ I think I look pretty damn cool, if I do say so myself.”
+
+Tivona laughed mockingly. Her palm began to glow again, but before she could fire her next spell, Pyre shot out the bones she’d prepared along her torso. They jetted forwards, pointed ends converging on the other demon.
+
+Just before they hit, Tivona vanished.
+
+Above her, Pyre heard the sound of flapping wings. In her top eye, a black raven with purple eyes let out a ringing caw before diving towards her. This time, she saw its flesh morph, feathers giving away to fur until a panther was slashing its claws straight into Pyre’s bone armor.
+
+The sloth fiend slid back sightly from the force of the impact. Without pausing, she added a few ligaments between the bones she’d grown, then whipped them at the panther. It leapt back, and the bone chain collided into the earth. Loose dirt sprayed outwards, but Pyre didn’t stop. She wrenched the bone-whip again, aiming for the creature.
+
+Once again, it shrunk down just before the bone chain could hit it. Its body flattened and lengthened down into a massive slithering snake. The creature stretched out so that it was towering over them, casting a long shadow over the narrow space between the two mountains. It let out a long, low hiss, and the tip of its forked tongue began to glow violet.
+
+Pyre jumped away just as the bolt of lightning shot out, crashing into the side of the mountain. A stone split, and a few more rocks tumbled down to the ground.
+
+The sound of chanting reached the demon’s ears. On the other side of the giant snake, Callan pressed incorporeal hands just above the earth. The ground rippled, roots shooting out from his palms and bursting out as thorny branches encircling the creature.
+
+The snake hissed. Its body shifted again, and a small white rabbit darted out from between the gaps. It bounded forward, dodging each bone spike Pyre shot in its direction before making a final leap at the demon.
+
+Midair, it morphed into a bear whose massive jaws widened in preparation. Pyre formed a thick piece of bone and shoved it into the creature’s mouth just before it could close.
+
+Sharp teeth snapped around the bone. Something cracked, but Pyre was already biting down with her own mouth. She felt the teeth dig into flesh, but before they could get a proper grip, the bear was gone again. Above, the same raven as before circled below the clouds. A new gash stood out on its body where the demon had bit, but it was otherwise uninjured.
+
+“Envy fiends covet what others possess. This subspecies specializes in imitation and mimicry. Many possess advanced shapeshifting abilities.”
+
+As she watched the raven, the old subspecies description from her first evolution rose to the front of her mind. Suddenly, Tivona’s abilities and actions made a lot more sense.
+
+“A demon of envy,” Pyre muttered, still peering up at the bird the other fiend had transformed into. The corners of her mouth curled upwards in a grin, revealing bloody teeth. “So, were you using all those creatures for reference material? Shapeshifting them all afterwards feels a little excessive, if you ask me.”
+
+Lavender eyes flashed. With one great flap of its wings, the crow dove with deceptive speed. Pyre braced herself for another attack. When Tivona shifted again, however, it wasn’t to a panther or bear or another animal, but back to her original humanoid form.
+
+The demon slammed her hand directly onto Pyre’s bone armor. Light flashed around her fingertips, and before the sloth fiend had a chance to get away, the bone cracked.
+
+It started as a ripple. Waves of magic coursed out from that single point of contact, and with each pulse, the flesh and bone below began to undulate.
+
+It didn’t feel anything like when Pyre warped her body herself. That was completely painless, flesh morphing easily to her whims. Now, she could feel [Flesh Sculpting] actively fighting against the magic. The surface of her bone armor rose up in violent spikes as it resisted the change. Her muscles convulsed. This was exactly the same sensation that she’d briefly seen in the arachne’s memories—so all-consuming that it left you barely able to think beyond the pain. Her theory about the arachne losing her mind after experiencing this suddenly didn’t seem so farfetched.
+
+“Get away!”
+
+In a flash, the sensation dulled just enough for Pyre to focus. Callan was floating right behind Tivona, his hands outstretched, jaw set as a familiar faint white light glowed from the center of the demon’s chest.
+
+Tivona cursed and began to spin around. In that brief opening, Pyre reeled back and promptly slammed her horns straight into the other demon’s face.
+
+Tivona screamed. Lavender light flared around her, and Pyre barely had the time to yank her horns out of the envy fiend’s skull, grab Callan with one of her arms, and jerk them both out of the way before rippling bolts of lightning exploded all around Tivona’s body like a crackling whirlpool.
+
+Unlike the previous precise bolts, this was a nonstop tide of electricity, waves and waves of it bursting out from its origin point. Bolts burned into the sides of the mountains, and one crashed into Pyre as she was attempting to get away. Her muscles immediately seized, but she gritted her teeth and kept going. She didn’t stop moving until they were outside of the magic’s range. Once they were, she let go of the ghost and promptly collapsed into the side of the mountain.
+
+Beside her, Callan groaned. He’d also been hit by some of the stray lightning bolts, and he was shaking a little even as he attempted to float back into an upright position.
+
+Pyre wasn’t doing much better. That last lightning shock hadn’t done much damage itself—though she had to pause and wait for her muscles to stop spasming—but now that she’d broken away from Tivona’s spell, she could finally assess how far the shapeshifting magic had gone.
+
+Her bone armor had been completely warped beyond recognition. Smooth, flat plates were twisted like corkscrews, and the arm and leg closest to Tivona had suffered the same fate. The too-long arm, in particular, now curled into itself to form a coiled spiral like some kind of fucked up fleshy snail shell. It didn’t look like the demon had tried to turn her into any animal in particular like she had with all her other victims. She’d just been trying to do damage, and she’d succeeded on that front.
+
+Across the narrow pass, a few lingering bolts of electricity continued to crackle around Tivona. She was hunched over in pain, hands clutching her face, and Pyre could see some of the flesh melting and dripping down onto the burnt earth through the gaps between her fingers. One of her horns had slammed straight through Tivona’s left eye.
+
+Pyre frowned. At the very least, the envy fiend didn’t seem as sturdy as the chimera had been, but it was hard to land a solid hit on her. She could see the worst of Tivona’s wounds starting to heal, too. Strong regeneration, it looked like—probably to make up for her lower constitution. They needed to act fast.
+
+“Hey, kid, you alive over there?”
+
+Callan was still a bit breathless, but he managed to nod. “Yeah, I—” He paused, swallowing. “I’m okay.”
+
+“How hard was it to drain her just now? How long would it take?”
+
+The ghost took a deep breath, visibly steadying himself. “Not as hard as the chimera,” he replied. “If she’s casting a spell at the same time, I think I could drain her in a minute or so as long as she’s standing still.”
+
+Pyre nodded. Slowly, the demon rose and began morphing her body back into its original shape. It was harder to shift the parts Tivona’s magic had touched, she realized, but she didn’t let that stop her. Bones cracked, flesh untwisted. She absorbed any remaining mangled bone armor and regrew new, smooth plates.
+
+“Go invisible.”
+
+Callan turned to her, visible confusion on his face. “I—”
+
+“Turn invisible, then when you see an opening, go in and use your draining. I’ll distract her,” Pyre continued without stopping. The ghost’s eyes darted over to Tivona, who had finally stopped sending lightning bolts everywhere and seemed to be stumbling back to her own feet. Without her hands blocking her face, the gouged eye was prominently visible.
+
+“What if there isn’t one?” Callan asked, the worry clear in his voice. It was a legitimate question to have, considering how hard Tivona had been to hit so far. Getting her to stay still for a full minute seemed impossible.
+
+Without moving her eyes away from the other demon, Pyre carefully began to grow some new bone spikes along her torso. She bent her legs, readying to strike.
+
+“Don’t worry,” she said. Her eyes gleamed under the flashes of lightning from above. “I’ll make sure there is.”

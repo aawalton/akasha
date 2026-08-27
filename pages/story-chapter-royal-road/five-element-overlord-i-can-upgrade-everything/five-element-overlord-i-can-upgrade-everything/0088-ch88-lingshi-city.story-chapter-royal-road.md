@@ -1,0 +1,103 @@
+---
+id: a31ee6af-6682-5445-8401-bb5e2ed0e98d
+page-type-slug: story-chapter-royal-road
+title: "Ch88 Lingshi City"
+slug: 0088-ch88-lingshi-city
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 88
+ownLength: 1584
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3619262/ch88-lingshi-city"
+royalRoadId: "3619262"
+---
+
+“My timed leave from the sect is ending soon.” I call out while approaching the outer edges of the Tier 2 qi gathering concealment array.
+
+There’s no response, but the natural heat coming from the center of the small mining pit where Lan Xin sits is enough to know she’s here.
+
+When I look over the edge, she’s flickering with a calm but extremely hot fire, dancing on her skin in beautiful rhythmic patterns. I step close enough for her to enter my spiritual senses, and watch as the yellow and orange fire tethered to her soul act as a far stronger extension of her being than just her physical flesh.
+
+Oddly enough, it does feel similar to the blood demon physiques I’ve been fighting for days on end. The difference is there is a second tethered center point in her physique, the fiery serpent that swims within her.
+
+Additionally, it feels as though her physique is far more aligned with her thoughts, creating a calmer synchronized equilibrium where her physique is not actively trying to kill her.
+
+A sharp pressure washes over me as her eyes open and turn my way.
+
+“Do you have any more fire stones…? I just used the last one, and broke into the late stage of level 11. This is the fastest I’ve ever progressed… yet somehow my realm isn’t unstable at all. I’ve never cultivated with stones so perfect before, it’s like they have no impurities.”
+
+She stands up with greedy eyes, “You said you’d give me all the stones I needed right?”
+
+I shake my head, “True, but I also said in exchange you would collect the spirit stones from the veins on this plot. You haven't begun this work yet.”
+
+When she stops in front of me, and looks into my eyes, I feel her soul twist in curiosity.
+
+“Fine. I’ll do what you ask. Show me the veins…” She pauses for a moment longer, “While I was cultivating, were there intruders you had to kill? Your aura feels different… like you’re more confident in your own strength.”
+
+“No intruders, but I did get some practice in after setting up the arrays you purchased.”
+
+Over the next hour, I walk Lan Xin to each of the 30 perfect grade veins.
+
+She hides her surprise extremely well on the surface, keeping her chin held high like this is nothing out of the ordinary. However, the violent stirring of astonishment in her soul grows the further we walk.
+
+It is strange that she keeps up this facade even when we are alone. I can obviously tell what she is truly thinking, but she acts like I can’t.
+
+“Okay, I collect these spirit stones for you once a day, and you give me a fire stone in return.”
+
+I cross my arms, “I was thinking more like once a month. Do you think perfect grade stones are so easy to come by?”
+
+“You saw how quickly I can cultivate with them. I need 1 stone every other day, or twice a week at the very least.”
+
+I tighten my gaze. “Every array collects about 970 spirit stones a day. There are 30 of them, making this total farm produce 29,100 stones daily. This valley will produce 203,700 spirit stones per week. We’ll make it simple. Bring me an even two hundred thousand every seven days, and I’ll provide you with a perfect grade fire stone in return. Additionally, if you wish to cultivate in the tier 2 gathering array over the 31st vein, it’s all yours. If you wish to harvest it for an extra 1,000 spirit stones a day for your own use, that is up to you, just don’t overstrain it. No more negotiating, I believe this is an extremely generous final offer.”
+
+She humphs dismissively, and pulls out her flying vessel.
+
+“That is acceptable. We have a deal.”
+
+I nod and follow her, stepping onto the sleek ship. “Good, and before you bring me back to the sect, could we stop by Lingshi City? I’ve never been before.”
+
+–
+
+We fly away, off further from the sect toward Lingshi City.
+
+For a few hundred kilometers, the wastelands all around look almost exactly like the plot we’ve been staying on for the last week.
+
+There is little to no ambient qi in the air.
+
+Many stretches of plains, or rocky mountain ranges, are just abandoned and desolate. Without rich qi, no mountains reach up high into the sky like back in the Azure Cloud Sect.
+
+I even see small villages and roads popping up between some mountains. They are mortal villages, mostly isolated from the outside world.
+
+The more we fly, the more of these villages I see. Some of them even look like moderately large towns or small fortresses with a few hundred or even a thousand people living there.
+
+I can even sense qi fluctuating out of a few.
+
+“We’re getting closer to the city. This is where a lot of the low grade spiritual veins are still active. You can see the rogue cultivators and small qi refining families have their clans built upon these veins.” Lan Xin points down at a fortified territory, and for the next hundred kilometers more and more of these small clans pop up.
+
+“We’re still within the Hidden Mist County. Even if we’re technically not within the border of the Azure Cloud Sect, they still reign over this region of land. Many of these small qi refining families send off their young to the sect as servants or stewards where resources are more abundant. It is so future generations may one day have a stronger tie to the sect.”
+
+Lan Xin’s soul trembles, “Just surrounding Lingshi City alone, I bet there’s a thousand minor qi refining clans… that classification means their strongest elder, the patriarch, is a mid or initial stage qi refiner, below the 6th level. They are usually bloodlines that can never break past this point, as they have 8th or 9th grade roots.”
+
+The further we fly in, the taller some of the peaks get, and some of the roads are even paved with stone.
+
+Large clouds of qi drift through the air that must be coming from mid or high grade veins.
+
+Lan Xin guides her flying vessel only above the public roads, making sure not to fly into any private territories.
+
+“Almost all of the spirit veins above mid grade quality are owned by the Wang, Mu, and Jiang Families around these parts, but they’re often rented out to major qi refining families. That is classified as any patriarch with at minimum the 7th level of qi refining. If I had to guess, there are probably close to 30 or 40 of these families in total in the city. Pretty much every one of them has an Outer Sect disciple in either the Alchemy Peak, Beast Mastery Peak, Combat Peak, or Forging Peak. Those are the closest peaks to Lingshi City. Without yearly contributions like new disciples, servants, or even raw spirit stone offerings, families of this strength cannot exist for long.”
+
+The visuals of three massive mountains in the distance come into view, and in the central valley below them, there is a vast complex network of roads, towering pavilions, flying vessels, and hundreds of thousands of people.
+
+“There it is. Lingshi City. Each of those mountains holds a low grade tier 2 vein beneath it. They’re owned by the patriarchs of the three strongest foundational families of this city. The Wang and Mu family patriarchs are both 6th level foundation establishment cultivators… and the Jiang Family patriarch was the same, keeping balance in this city for quite a while. However, recently there have been some rumors that he’s broken through into the late stage.”
+
+Lan Xin points to the large towers in the city as we approach and start to descend.
+
+“A lot of the stronger late stage cultivators stay and conduct business in the city. There are also a handful of minor foundational families that have an initial stage patriarch, but they have not lived here as long, and do not have enough power to challenge any of the current families that rule this city.”
+
+We land in a wide open public courtyard near the middle of the city, and Lan Xin pulls her ship back into her ring.
+
+I ask something that doesn’t add up, “Why would the sect allow families to occupy this land, and privately sell it off? Wouldn’t it be more worth their while to have disciples control it?”
+
+Lan Xin shows a confident and haughty smile. “It is quite common practice, maybe your family didn’t teach you everything before dropping you off in this sect… I’ll have to educate you further. The three family patriarchs that own this city sacrificed the prime years of their life to the sect long ago. In wars, in serving as elders, and as a reward for their work they were allowed to hold power in territories further out from the sect’s direct grasp. It’s to show new generations there is a reason to stay loyal, and a tactic to hold power even in regions they have not spread to yet. There’s dozens of cities like this, the Azure Cloud Sect’s roots reach far deeper than they appear on the surface.”
+
+I nod in understanding, but Lan Xin already walks forward toward a main road. “Come on, I’ll show you around. You said you’ve never been here before, right?”

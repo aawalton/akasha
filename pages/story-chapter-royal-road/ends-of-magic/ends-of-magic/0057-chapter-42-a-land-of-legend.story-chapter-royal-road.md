@@ -1,0 +1,253 @@
+---
+id: 824574e7-46e2-5013-b03d-b1e153e2c8be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: A Land of Legend"
+slug: 0057-chapter-42-a-land-of-legend
+partOf: ends-of-magic
+position: 57
+ownLength: 2899
+unit: words
+ownProgress: 2899
+publishedAt: 2025-12-25
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2879076/chapter-42-a-land-of-legend"
+royalRoadId: "2879076"
+markedReadAt: "2026-06-29T20:09:05.293Z"
+---
+
+“Does it worry you, heading towards the graveyard of gods?” Aarl asked Khachi. They were abovedeck, eating some kind of wrap-like dish that was served steaming hot. Eolinne said it was supposed to be enjoyed with the wind in your face.
+
+Sarah snorted, holding her hand under her mouth to avoid dropping any of the meat onto the clean deck. “It does seem risky.”
+
+Khachi was on his second wrap, wolfing down the meaty interior. He finished a bite before responding. “Hear me, but this is the best place to claim that power. The gods were mortals, for they are dead. We should take their power, but learn from their mistakes.” He glanced meaningfully at Nathan. “The Questors united against them, and that lit the path to their doom.”
+
+Nathan grunted his acknowledgement. “Don’t piss off all of the Questors, heard and understood. No matter how powerful we are, we can’t win against them all together.”
+
+“Making them angry is worse than killing them fairly,” Stella said sagely, emphasizing how ridiculous a statement that was. “They’ll just come back from the dead and think it was a grand joke.”
+
+Aarl frowned. “But we don’t revive without Khachi, I mean. I worry what the Questors' immortality means for a Questor war. Are suicide missions common? Will we be sent on one without a second thought? I would -”
+
+“Look ahead,” Sarah said suddenly, interrupting her brother. “It should be visible to you now.”
+
+The ocean was covered by a thin mist that lowered visibility to perhaps a dozen miles, and the Heirs looked forward eagerly. Sarah had already described what lay before them, and Nathan was eager to see it with his own eyes. Jagged islands of rock loomed out of the mist, huge and imposing. They stood like a ring of jagged teeth, describing the edge of a massive circle. They bobbed up and down ponderously, some of them floating entirely above the surface of the water.
+
+“What a sight,” Stella said. “I want to know the magic that shapes them.”
+
+“Wizardry, mostly,” Nathan said in response, already feeling out the effect. “It feels like the aftereffects of some kind of spell or magical blast. Not intentional, but a spell so powerful it warped the local gravity.” He pointed towards the interior of the circle. “It’s even worse in there.” He looked back at Eolinne, who was delicately picking at her own wrap on her throne, and called out to her. “Avoid the center of the circles?” She made an affirming gesture.
+
+“The water is lifting into the sky?” Aarl said in confusion, squinting past the wall of stone towards the center of the circle. “Or are those clouds?”
+
+“It’s rising,” Sarah confirmed. “Not as a pillar, but droplets and then orbs and finally giant spheres of seawater that rise upwards. My eyes do not see why the rock is on the outside while water must be in the center to do the same.”
+
+“The wizardry soaks into the stone,” Nathan answered. “But the water moves. It needs to be closer to the epicenter to get the same effect.”
+
+“Nathan,” Stella said, choosing her words carefully. “You could destroy this effect. True aim?”
+
+“I could,” Nathan replied confidently. “I don’t think I should, not unless we get trapped or something. This spectacle has been here for a long time, and I see no reason to be the person who destroys it. I expect the Questors could have fixed it if they wanted to, so they would probably be upset if I did it. It would also reveal my abilities.”
+
+Stella sighed heavily. “We’re hiding our powers again. I know it's the correct path, but I want to demonstrate my magic!”
+
+Aarl snorted. “My bones say they’ll be impressed enough even if we don’t spend every resource.” He looked around at the rest of the Heirs. “We hold blasphemous power. With our skills now, we could have fought Giantsrest directly and won.”
+
+“But this is a war of Questors. Giantsrest was just Badud,” Sarah said. “These enemies are beyond any challenge we’ve faced before. We may need every weapon we can wield to win.”
+
+“We also want to impress them as much as possible,” Nathan said. “Like when we were first meeting Sarya’s grid, but more so. Most of the Questors in the war won’t meet us personally, but they will see what we do on the battlefield. That will be how we make ourselves known."
+
+"But we should hold some secrets back," Khachi said. "There are powers they would mislike, if they knew of them.” He gestured towards Nathan, though whether he was implying the ability to cut people off from magic or destroy Seals wasn’t obvious. Both were probably appropriate. “If we do not reveal such abilities, then we will have our secret weapons against betrayal. Or any final dungeon we must face as part of the Conclave.”
+
+Nathan nodded thoughtfully. “I think the more powerful version of the antimagic is probably fine to use, I just shouldn’t reveal I can do permanent damage with it. What else?”
+
+“My nuke spells,” Stella said with a grimace.
+
+Sarah shook her head. “No, those must be central to our power. If you hold anything back, it should be your skill with wizardry. Dominate the battlefield, but let them think you have a weakness.”
+
+Stella pursed her lips, thinking about that. “Then I should improve my wizardry. What of you? Should you hide your true range?”
+
+“That’s one answer,” Sarah said. “Though I think there is less to hide about me. I may try not to reveal the full power of my shots at first, only shooting those that Nathan strips the protections from.” She pointed at her brother. “What of you? Your new Talent?”
+
+“A few items,” Aarl answered. “Including some of the more destructive weapons from Sussu’s vault. We aren’t supposed to use them normally, but they’re a solution to a final fight.”
+
+Nathan waggled his finger. “Just not the rod. If that’s what I think it is, then I really don’t want it anywhere within a hundred miles of me.”
+
+Aarl chuckled, then indicated the last member of their group, who was deep in thought. “Where are your thoughts, Khachi? What power should you hide? Your Path itself may cast blood into their eyes.”
+
+“I hide nothing,” Khachi answered thoughtfully. “Some of these Questors fought the gods, or even worshiped them themselves. They will have expectations, and I must meet them.” He smirked. “And I can think of no better way to make allies than bringing them back from death. Even if that death is not permanent.”
+
+“Will it even work on Questors?” Stella asked.
+
+"I expect so,” Khachi replied. “For they will not have truly died, as Davrar reckons it.”
+
+Sarah’s expression had been growing darker as the rest of them talked, and she broke in to change the subject. “Is this truly our last deed, or do we think there’ll be another, and another? What are we holding weapons back for? What final dungeon do you expect?”
+
+The question was addressed at Khachi, but Nathan answered. “We can hope that this is the last, and afterwards we’ll go to the conclave and be done with fighting. But I don’t think it will be that simple. We may need favors from another faction. Sarya and Badud offhandedly mentioned duels between Questors, and we might need to do that. Or maybe people try to assassinate us because we beat them in the war.” He blew out a long breath. “I don’t think we’re going to be trapped doing this forever. We’re headed towards the Conclave, and that will be a resolution one way or another.”
+
+“What are the two ways?” Aarl asked. “If we aren't satisfied, what then?"
+
+“If we can't improve Davrar by working with the Questors, then we need to make enough problems that they can't ignore us. We need to start burning things down."
+
+His statement was met by surprised silence. Khachi spoke up. “Don’t bait the castlebear. We have agreed that we will not pit ourselves against them. Destruction for the sake of destruction serves no good purpose, and it would cause our doom.”
+
+“I’m not suggesting we fight against all of the Questors,” Nathan said. “But if we can’t work with them to solve things, then we need to work outside of them. That doesn’t necessarily mean the most extreme possible option. Maybe we go back to Gemore, protect them from the Endings, and start training up more people to protect civilization from their games. Make our own place safe from the Endings, beyond the influence of the Questors.”
+
+Sarah inclined her head in agreement. “It is not the best choice, but if the Questors offer us nothing, it is our path of retreat.” She gestured forward, once more indicating the fog in front of them. “We’re approaching the port.” They’d progressed past a few of the impact craters, Eolinne skillfully navigating them between the circles of floating rock without danger.
+
+“Why aren’t the waves growing?” Aarl asked. “There isn’t one of those artifacts that calms the water. The ocean isn’t smooth enough.”
+
+“Because the port’s built into one of the floating rocks,” Stella said moments before Nathan could. She pointed as the outline of a huge craggy rock emerged from the mist. It was like seeing an iceberg, but this time the bulk of it was hidden in the foggy sky, and the bottom edge only barely brushed the surface of the ocean. There was a floating dock built in there, linked to the island above by a series of flexible ladders and staircases.
+
+Nathan and the Heirs watched the dock get closer, studying the ships present. Most of them were relatively small fishing ships, built for agility instead of endurance. There was another long-distance vessel docked with a familiar, high-walled shape that gave it a castle-like appearance. “That ship’s from Sago,” Nathan said, pointing it out. “Like Davion, from Litcliff. The one who warned us that the city was going to try to kill us.”
+
+Stella grinned. “More directly than they expected. I wonder if they’ve rebuilt the palace yet.”
+
+“There,” Sarah said, pointing towards a pair of people standing on the dock. “I don’t see Sarya, but they’re here for us. Questors, I’m stone certain.”
+
+Nathan grunted, following her pointing finger to two figures rendered indistinct by the mist. “Are they here to greet us, or attack us?”
+
+“I don’t know,” she responded. “One is a mage, but no spellwork I can see.”
+
+The two Questors were moving to follow the Grace of the Mists as Eolinne brought it in, wanting to be present when it docked. “I’ll greet them,” Nathan said. “Be ready for an attack.”
+
+“What did you say before?” Stella asked with a wry voice. “It’s not paranoia if they’re really out to get you?”
+
+Nathan just grunted in response, his attention on the new Questors. As the ship grew closer, he saw them in more detail. One was definitely a mage, a dark-skinned man with a well-defined mana pool that felt aligned towards void and darkness, but not undeath. He stood with good posture, tall and straight. The other was a light-skinned woman dressed in thin chainmail and carrying many daggers on her person. Almost everything they wore was enchanted in a variety of different styles, but none of the enchantments were particularly noteworthy.
+
+“I think they’re new,” he said as he catalogued their gear and the mage’s mana pool. “They’re weaker than every Questor we’ve met before, except maybe Henrish. Maybe around the level of a Gemore elite?”
+
+“Ah, only able to triumph over dungeons,” Aarl said sarcastically. “How dim.”
+
+Nobody responded, in large part because the ship was drawing close enough that their greeting party would overhear further discussion. Eolinne's faint flute music faded, and Nathan turned to find her suddenly beside them. “Welcome to Driftmere. This is where I shall leave you. Likely for the last time.”
+
+Nathan had been expecting that, but was still disappointed to hear it. He bowed his head to her. “Thank you for the journey, the food, and the company. I couldn’t have asked for a better way to travel around Davrar.”
+
+She eyed them all, clasping her hands and speaking formally. “I’ve carried Questors and spies, adventurers and assassins. But none sang quite the same song as your company, and I think your harmony will carry far and wide. It is bright and brave, and you will see Davrar changed if you are not silenced. I am glad to have listened for a time, but it is dangerous to make the world tremble. I hope to hear you again, but from afar, where I will not be caught in a crescendo. May your tale span the sky.” Only then did she bow formally, and it was as much an indication that it was time for them to disembark as a gesture of respect.
+
+The Heirs each gave a few words of thanks, and then they descended to the docks. The pair of Questors stood casually, watching the Heirs descend with curious expressions and not a small bit of anticipation. Nathan walked first, ready to deploy his antimagic at the first sign of danger.
+
+“You’re the Heirs, then?” the mage said bluntly, his eyes flicking from Nathan to his friends. “You’re early. We just arrived.”
+
+“We are,” Nathan replied in equally blunt tones. “Who are you?”
+
+“Ah, what stipulations call for so dim a greeting?” the woman replied, elbowing the man. “I’m Vira Lann, this is Liren Vail.” She smirked as if she’d just made a joke. “We work together, and we’re here to collect you, for some reason. Like he said, you’re early, but that’s all for the better because it means we didn’t have to wait! Come on.” She gestured them forward, then turned to walk away.
+
+Liren’s face stiffened at his counterpart’s casual attitude. “In the name of the Ashen Accord, we formally greet you as allies due proper respect and escort." Those words were very obviously aimed at his compatriot, not at the Heirs. "I would ask you to follow our guidance as we aid your travel to the Blinded Mountain.”
+
+Vira turned around and sighed, tapping her foot impatiently.
+
+Nathan relaxed and felt the Heirs do the same behind him. It didn’t seem like the two were here to kill him. In fact, up close, they were even less impressive than they’d first appeared. They both lacked the self-assured confidence of every other Questor that Nathan had met, though they were trying to ape it. He could estimate Liren’s mana pool, and it was large by Giantsrest standards but small by Questor standards. Most mages who weren’t absolute rookies picked up skills to increase the size of their mana pool, but even if Liren had a good one, he couldn’t be over level five hundred.
+
+The moment quickly turned awkward as Liren stayed frozen, and Vira’s foot tapped louder. Nathan bowed himself, perfectly matching Liren’s movement. “We are the Heirs, and we would be glad to accompany you. We met Kaelis earlier, but we’re looking to find Sarya and the rest of her grid.”
+
+“We will reach them in the Blinded Mountain,” Liren said, only then turning to follow Vira down the docks and towards the hanging staircases that connected to the floating mountain above. “We have some time to get there, and the journey is not long.”
+
+“Then it's food and booze! Driftmere doesn’t have the finest, but it’s a caustic burn better than any other sim I’ve had,” Vira said. She winced after that, gazing up at some notification the rest of them couldn’t see.
+
+“Vira,” Liren half-yelled, her slip causing his eyes to bug out. He threw out a hand towards Nathan and the others. “Not Questors!”
+
+“They suspect already!" Vira protested. “Davrar says—“ she shut up, her mouth snapping shut as she looked back at the Heirs. Her face flushed with embarrassment, and she yelled at them. “But you know! You’re getting involved in a Questor War! If you don’t know, then what are you doing here?”
+
+Nathan shared a look with his friends.
+
+Definitely rookies, even if that looks a bit different for Questors than for Adventurers.
+
+“We know,” Nathan confirmed. “But Davrar has a lot of silly rules, it seems. I’m a little bit less worried about those than about the Endings.”
+
+“The Endings?” Vira said, eyebrows coming together in confusion. “What about them?”
+
+Permanent Talent 1: Magical Destruction 3
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 2
+
+Forewarning 7
+
+The Truth of Magic 3
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 3

@@ -1,0 +1,175 @@
+---
+id: 64f4a436-9ec9-5555-a8ff-a3812fbcda57
+page-type-slug: story-chapter-royal-road
+title: "Ch109 Obsession"
+slug: 0109-ch109-obsession
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 109
+ownLength: 2199
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3748376/ch109-obsession"
+royalRoadId: "3748376"
+---
+
+I leave my bath and fall asleep in my bed while the heavenly-grade healing elixir’s medicinal properties continue to seep into my body and mind.
+
+The prickling in my meridians fades, and the soreness in my fire element spirit root is healed back to a refreshing, crisp state like it’s brand new in a matter of hours.
+
+I naturally wake up and slip back into my hidden realm.
+
+—
+
+An entire week passes by.
+
+I did not fully appreciate how impressive that enlightenment talisman was the first time I used it.
+
+The progress of this fire control technique is painfully slow. I practice for almost every hour of the day, until my meridians feel sharp and my fire spirit root aches and throbs.
+
+The most efficient way of training I’ve found is to go all out for 6 to 8 hours. Then, rest in the bath with a heavenly-grade healing elixir to fully restore myself, which takes another 3 to 6 hours at most.
+
+Two sessions a day is my limit.
+
+Though, after these 15 training sessions in total, there is some improvement.
+
+The fire spirit root has begun reacting to my mental visualizations and has become far more sensitive to my movements. Every time it is healed by an elixir, the majority of the golden heavenly aura is used up on this root alone.
+
+A hot red glow has manifested in my chest, and by the very end of the last few sessions, hot fire-infused qi has begun flowing through my shoulder and down my arm.
+
+It is nowhere near completing the full movement just yet.
+
+Without relying on heavenly-grade healing elixirs, I would have to train much more carefully.
+
+I would not dare to practice longer than two hours in a single session, and I would need at least multiple days off in between.
+
+I’m able to stay focused, keep the momentum moving, and progress easily tens of times faster than the average cultivator would.
+
+—
+
+I only stop my constant cycles of training for a bit when a familiar feminine aura hits my senses while soaking in the bath one morning.
+
+“Li Hao! Come out! I know you’re in there!” comes a call from in front of my courtyard.
+
+I take my time, get dressed, think about some questions I’ve been considering in the back of my mind, and prepare two perfect-grade firestones before seeing Lan Xin waiting, fiddling with the containment case in her hands while staring off at my spirit fields.
+
+Her soul is vibrant orange and yellow, and her qi density has increased even further; she’s reached the perfected stage of level 11 as she said she would. The three firestones I gave her last week were far more than necessary.
+
+The fiery woman tosses me the black cube, and I stow away the two hundred thousand spirit stones inside.
+
+I haven’t used the rematch simulator once this week, so my leftover stones are still stacked high in my storage. I own well over three hundred and fifty thousand spirit stones of raw wealth now. Even my upgrade cards are only being used at most twice a day for healing elixirs.
+
+I’ve already saved up an extra two dozen, and for the foreseeable future they’re only going to continue to pile up.
+
+“There. Where’s my fire stone?” she remarks in a dismissive tone without even turning my way.
+
+This indifferent and arrogant behavior was very strange to me before, as I can clearly tell by peering into her soul that she’s stirring with excitement and anticipation for me to respond.
+
+However, Lan Xin still believes her outward confidence is a perfect facade.
+
+I see no reason to stop playing along and throw back the bright red stone from my storage along with her containment case.
+
+A gleam of golden light shimmers from its center before the expectant eyes of a fire serpent materialize from the woman’s arm, emerging from her fair skin like it is a sea of flames, swallowing the stone whole.
+
+She catches the containment case in her hand and finally turns to me and smiles, crossing her arms.
+
+“Do you have any more cultivation questions you wish to ask? I am open to answering for the same price as before.”
+
+I shrug. “No, nothing is eating away at me today,” then start to turn around.
+
+“Are you sure? I just broke into the perfected stage of level 11. I could tell you what the 12th-level bottleneck feels like.”
+
+“That’s not something I urgently care to know.” I begin walking back, but stop once I see her soul twist with anxiety. Leading her to believe she needs to prove herself more for another stone, and only granting the opportunity when she’s about to crack will make her feel more emotionally reliant in the long run.
+
+“Maybe there is one thing. Do you know of any way I could get my hands on a tier 2 cauldron? Preferably not low grade either.”
+
+The unsettling flames in her chest grow larger, already telling me the answer, but I listen anyway.
+
+“Other than flying vessels loaned out by the sect to named disciples, classified as pseudo second tier artifacts, items above tier 1 aren't traded openly in the outer sect, or even Lingshi City… Purchasing those perfect grade spirit veins harvesting arrays is about the upper limit of quality I can buy.”
+
+“Even for hundreds of thousands of spirit stones? There’s no one you can think of that would make an exception and sell their private artifacts?”
+
+She shakes her head, “True Foundational Artifacts are extremely rare… It takes at least a mid stage foundation establishment cultivator to craft even a low grade tier 2 item, and they would need to dedicate their whole life to a technical craft. The only cultivators of that level around these parts devote their life to growing stronger. Out of all four outer peaks in this region, and the entire lingshi city, the only cultivator that might have what you’re looking for is the Alchemy peak master, but even a low grade tier 2 cauldron would be a precious treasure to their peak. Mere spirit stones would not be enough to buy it, even if you offered a million.”
+
+I let out a sigh, then nod and continue walking back to my courtyard. “Even if I traded a tier 2 item of equal value? Like a talisman, or that gathering array you’ve been using?”
+
+The perception expanding jade, azure lightning attack talisman, qi gathering array, and my qi sword slaughter formation come to mind.
+
+I even think about showing Lan Xin a heavenly grade pill, but I decide against it as she’s already shaking her head to respond, “Maybe in the Nine Rivers City where artifacts like this are more common, but they don’t let disciples like us stray that far away from the sect without special reason…”
+
+Lan Xin tries to think harder, and unrest grows when she realizes her answers are not enough. I wait just until she’s about to beg again before turning around.
+
+I pull out another firestone and hold it out in front of me at a distance.
+
+“That is fine, I was only curious. If you still want an extra stone, you can run a quick errand for me.”
+
+Her eyebrows raise, and from the center of her chest, the eyes of a serpent form flickering with hunger. “What is it?”
+
+I toss the stone her way. “Nothing difficult, I just need you to get me some healing elixirs, at least a hundred of them. Low-quality pills are fine, I won’t be ingesting them myself.”
+
+There are still enough to last me another week in my storage, but I want to up the doses for my training and don’t want to waste another day flying back to the Red Pine Market.
+
+She catches the stone and nods, but doesn’t look away.
+
+“Just leave them outside here in the courtyard in a medium-grade ring or higher. My spiritual senses are strong enough to see them. There is no need for such a dramatic entrance.”
+
+As I walk further away, insinuating that our meeting this week is truly over, the tension building up in her soul is released, and ripples of fire manifest all over her skin.
+
+“I will get it done. But, please tell me if there is anything more you need… for 5 or maybe 10 fire stones. I want to attempt a breakthrough to the 12th level before an important gathering in two weeks.”
+
+The corners of my lips turn up.
+
+“You’re attending the Wang and Mu family wedding too?”
+
+Lan Xin nods as her serpent slithers over to her hand and devours the second fire stone while I continue.
+
+“You are still aware that these stones are extremely rare treasures. I could sell each one for at least ten thousand spirit stones. That’s more than some outer disciples make their whole lives working in these spirit fields. Do you expect me to just hand over my supply without anything in return?”
+
+Lan Xin shrugs. “I already told you, I need more to break through. I’ll do anything you want. I can even be your date for the wedding. That would bring you far more prestige in the sect.”
+
+I shake my head. “That is the furthest thing from what I want. There is no value in putting a bigger target on my head than there needs to be. Do you know how many heirs of qi refining and even foundational families will despise me if I show up with the 3rd-ranked beauty of the sect around my arm?”
+
+A ripple of excitement courses through Lan Xin’s soul. “So you do have interest in me. I knew you must have been lying before. I’ve never seen a man truly ignore my allure."
+
+It’s like a switch flips in her outward expressions, as her soul overflows with vibrance, and it shows in flickering flames on her skin.
+
+Lan Xin takes a few steps toward me and begins casually swaying her hips as I reply.
+
+“That is not what I meant. It is that these flashy titles are only valuable when they can get you what you want. Obviously, you’ve used yours to your advantage, but I prefer to grow more quietly.”
+
+She stops a few paces away with crossed arms. “Then why are you even going to the wedding in the first place? If you wanted to be so cautious, wouldn’t you stay out of the public eye altogether?”
+
+I nod. “Sure. You’re right, but I wish to build a few connections… Clearly you alone can’t get me everything I need.”
+
+I pause, tightening my gaze.
+
+“Why do you need to break through so urgently anyway?”
+
+“I want to grow stronger, and to become more beautiful, as fast as possible.” she replies, letting her eyes flicker with flames before looking away up to the sky.
+
+“That’s it? You have no other reason to cultivate? Is there any long term main goal?”
+
+Her soul twists with a familiar feeling that makes me uncomfortable just looking at it, and an arrogant expression twists on her face as she replies in a mocking tone.
+
+“What are you on about? There is only one goal for all cultivators, to become the strongest, to become immortals. What? Do you have some righteous goal or something? A purpose that you feel makes your cultivation worth more than others?”
+
+I shake my head and let out a sigh. “Not necessarily. I was just wondering if you did. Knowing where you’re headed could be beneficial, what if our future goals align?”
+
+There’s a pause of silence while I come up with a new plan.
+
+“For example, you know what, there is one thing that could be useful to me now. With next week’s two hundred thousand spirit stones, buy more plots of inferior-grade veins, along with enough harvesting arrays to handle them once they’re perfect-grade veins.”
+
+Lan Xin’s eyes widen. “Are you saying you can still rejuvenate more of them…?
+
+I nod ignoring the slightly dazed expression on her face as she realizes the small 31 vein farm she overlooks is just the beginning. “We’ll travel to Lingshi City together a few days before. You grant me access to the new properties, and in return I’ll give you all the fire stones you need to break through. Five, ten, whatever it takes. However, how can I trust that you’ll continue to be so cooperative once you have them?”
+
+Her soul erupts with excitement and greed.
+
+“I’ll still need to climb the minor stages of level 12, won’t I?”
+
+A flying vessel appears out of her storage, and she steps aboard.
+
+I simply nod. “That is true.”
+
+“Then we have a deal. I’ll have your healing elixirs here by nightfall, and your new plots purchased by next week.” She looks back at me, then up to the sky. After a moment of hesitation, she flies away.
+
+I watch her vessel fade to a small dot. Then, pull out my communication talisman and message Wang Ming to hold off on arranging any escort vessels for me as I already have a ride.

@@ -1,0 +1,277 @@
+---
+id: 18a2a360-2539-5cbe-8f41-215e65ed7bd5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 549: Tier Three"
+slug: 0590-chapter-549-tier-three
+partOf: dungeon-of-knowledge-complete
+position: 590
+ownLength: 5079
+unit: words
+ownProgress: 5079
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3094809/chapter-549-tier-three"
+royalRoadId: "3094809"
+markedReadAt: "2026-06-29T20:32:28.288Z"
+---
+
+“I have a really bad feeling about this, Adara,” Kerrin said. She knew she sounded like she was whining, but the Guildmaster had effectively banned anyone lower than platinum rank from entering the dungeon training areas this morning. Platinum rank, for goodness’ sake! There had to be some reason why.
+
+And yet, here they were, buffing up on the shattered stone remains of the giant doors that had supposedly once guarded the entrance hall to Dal’mohra.
+
+“This is not a designated training zone, Kerrin,” Adara countered. “We’re not disobeying the Guildmaster.”
+
+“Technically,” she muttered.
+
+“We’re all so close to twenty,” Adara said. “Just one more kill for me, I’m sure of it. You’ll probably level, too. Didn’t you say you were close?”
+
+“Yeah…” She probably would, but that wasn’t the point. From the looks of anticipation on her teammates’ faces, their opinions hadn’t changed either since she had been outvoted on this delve. It was entirely unsurprising, really. Twenty would mean unlocking a new skill slot and the dramatic increase in capabilities that went with it. Even as she thought about it, her heart quickened. Would she finally unlock a primary area heal? Would her new patron influence her options so soon after accepting? With their eighth skill secured, the guild would trust them with more dangerous jobs and grant them more latitude – not to mention the increase in earnings when they became strong enough to challenge the truly lucrative bosses down here. All she could do now was buff properly and give her all to support her team, and make sure they survived whatever the Guildmaster had been worried about.
+
+Maybe I am just a worrywart, like Mom always says. Still… She had drilled the dungeon survival guide into her brain. She asked, “Does everyone have a Recall potion?”
+
+The chorus of yesses at least set her heart a little more at ease. Her team was more than a little zealous about fighting, and she always felt like she was the one reining them in, but they were disciplined and meticulous about proper preparation, at least.
+
+Beyond the cracked and splintered slabs of stone, the broad, dark chamber flickered with dancing orange and red flames as the Drake Hatchlings basked in the perpetual aura of fire emitted from the terrifying kobold mage lurking at its heart. It knew they were there, just as they knew it was inside, but this was one of the more well-known bosses, a favorite of the guild, and they knew precisely how far he would leash, bound to this chamber. She peeked around the tumbled pile of jagged rock, grimacing at the wave of heat that blasted her face.
+
+Fire Mage – Kobold – level 17.Drake Hatchling – Dragon – level 11-15 x4
+
+Kerrin pulled out her most treasured possession, a gnarled staff of oak that had just recently been blessed by Lirasia. She sent a silent prayer of gratitude to the overwhelming power of the World Tree, who had somehow agreed to be her patron, recalling just how kind her eyes had been when she had spoken with her.
+
+“Lirasia, please grant your boon upon my teammates,” she whispered. Even the stubborn ones, she added silently. The words were not strictly necessary, but somehow it felt appropriate for a magic personally granted to her by a deity. Using her staff as a focus, she buffed herself and then her friends.
+
+You have gained the Fortitude of the Oak.
+
+“Thanks!” Adara said, smiling back at her. “Let’s go!”
+
+With a booming dwarven battle cry, Haldur rushed forward into the scorching conflagration, whirling his short-handled battle hammer around his head as his long black hair and beard burst into flame.
+
+Kerrin rushed forward, hissing in pain as her skin began to crisp and blacken, and the stench of cooking meat and scorched hair assaulted her nostrils. Hastily, she cast her most potent Restoration on Haldur and readied Forest’s Regrowth in anticipation of the clash.
+
+A huge fireball detonated against Haldur’s shield, blasting a visible shockwave through the flame-filled room, and she released her Regrowth, restoring Haldur’s flash-burnt face to health. A trickle of magic soothed her continually burning skin as her passive support, Bounty of Nature, pulsed, augmenting the power of the Regrowth she had cast on the tank and sharing a portion of it with herself and the rest of the group clustered up around her.
+
+As the Drake Hatchlings surrounded Haldur and the dwarven tank began shouting his noisy war cry skills and laying about himself with his hammer, she settled in. Picking a safe spot where, hopefully, she might escape the notice of the burning kobold fire, she tuned out everything save the sense of her teammates’ health and began to weave her spells.
+
+Even with most of their group reaching level nineteen yesterday, this was still an incredibly challenging fight for them. Adara was right; she might just reach twenty in the end. But how she hated fire; her skin sizzled, blackening and blistering in agonizing waves between pulses of her druidic healing magic. Her hair would require healing afterward, and so much care before it was back to manageable. But the worst were the flames burning her eyes, ears, and searing down through her nose and deep into her lungs as she fought for breath in the inferno.
+
+Her only consolation was that none of it was permanent; she could heal – and her teammates needed her. She threw out a couple of extra Restoration heals, giving everyone a continuous stream of healing to tide them over between her larger and slower Nature’s Regrowth.
+
+A sudden loud gong pealed out, and a ripple of force pulsed through the chamber, nearly snuffing out the roomful of flames.
+
+[Zone] Dungeon of Knowledge has advanced to the third tier.
+
+What is…
+
+Before she could even finish the thought, the kobold Fire Mage’s eyes blazed with sudden yellow-white flame, and a surge of suffocating power rolled across the room. The Drake Hatchlings screeched, and the red flames dancing in the air suddenly roared, blazing white hot. The air rippled and shimmered like the heart of a forge as a sudden wave of all-consuming heat and flame tore through her flesh, lighting her up like an effigy. She screamed as the pain of the conflagration overwhelmed her Endurance, and in panic, she reached for her healing magic, casting in frantic desperation as everyone’s health plummeted in freefall.
+
+And in the roaring flame, her pain-stricken mind registered the stare of the kobold. He caught her gaze and gestured toward her urgently, and for an instant, Kerrin caught the uncanny sense of another presence inside it, looking out at her through its eyes. Something immensely powerful, with a weight that could crush her in an instant like an ant beneath a boot. And yet, the kobold gestured again, shooing her away.
+
+Kerrin did not need to be told again. “Run!” she screamed, her voice hoarse and distorted as she retrieved her Recall potion. Adara echoed her shout, and she wasted no time breaking the expensive potion and yielding her body to the sudden pull of its life-saving magic.
+
+She landed heavily and stumbled, still burning and bleeding as she collapsed into a painful heap on the cold stone floor of the guild’s locus. Charred skin cracked and flaked off her arms as she moaned. At once, she was filled with a surge of immense holy magic, and her pain vanished like it had been merely a dream.
+
+“Beldin’s blazin’ beard! Are ya all ok?”
+
+Kerrin glanced up to find none other than Belmar standing there, staring down at them with concern and worry radiating from his eyes. The platinum-ranked adventurer’s magic shone like a beacon.
+
+“Uhh… I think so,” Kerrin managed, slowly clawing her way back up to a sitting position, but her body seemed to be in perfect condition. Even her hair. It was just her mind that needed a moment to catch up. Anxiously, she swept the room with her eyes, but all of her team had made it out safely.
+
+“Ya weren’t supposed ta be in the dungeon today, did ya miss the Guildmaster’s notice?” Belmar asked, his radiant holy power slowly fading as everyone confirmed they were ok.
+
+“We saw it,” Adara said, still sitting on the ground. “But we were so close to twenty…” She trailed off, wilting under the gaze of the platinum-ranked priest.
+
+“Ya realize Aliandra just ranked up ta tier three?” Belmar growled. “Yer lucky ta even be alive!”
+
+“Tier three?” Kerrin managed. That’s what the zone notification had said, but in the panic of the moment, her mind had simply not registered the significance.
+
+“Yup, she reached level two hundred and fifty, and she just processed her class evolution. The power surging through the dungeon was enormous. She didn’t anticipate being able to control it, so she asked to have the dungeon cleared beforehand.”
+
+“I’m sorry,” Adara said.
+
+“Ya need ta apologize ta them, not me,” Belmar said, suddenly slamming his hand against the table. Kerrin flinched. “You’re the leader, you’re responsible for their lives!”
+
+Lucky to be alive. The realization soaked in slowly. Damn, that was stupid.
+
+Kerrin was broke, now; Recall potions were not cheap. Fortunately, the guild allowed them to borrow recall potions on credit if they needed, but it meant she was going to need to work much harder just to repay that debt. But she couldn’t get the sight of the kobold Fire Mage’s incandescent eyes out of her mind. It had just been standing there staring at her, as if waiting for her to notice. It hadn’t been casting the empowered fireball that would doubtless have annihilated them in an instant. No, it had simply gestured to her to go, and now that her mind was slowly calming down, she wondered at the strangeness of it all.
+
+Was it shooing us out? It was almost as if someone else had been watching her from within the monster.
+
+Aliandra? Was that her? Pursing her lips grimly, she dragged herself up to her feet. First things first. Check they’re all ok. Apologize. I have to be better than this!
+
+Ali released control of her kobold Fire Mage at the sight of the young bronze adventurers vanishing from her fire chamber in puffs of sooty smoke. As they reappeared one by one in the guild locus, smoke billowed into the air, and their blood spilled out across the pristine, polished stone. Ali swallowed, staring aghast at the grievous burns she had inflicted upon their bodies by the mere side effect of her ascension to the third tier, but Belmar leapt to his feet and took care of their burns and injuries in an instant, and she slowly let her awareness return to the shrine as he began to give them a stern dressing-down.
+
+“They weren’t supposed to be there,” she muttered. The fact that she could injure bronze adventurers so badly just by the mere fact of her existence at tier three was at once shocking and terrifying, leaving her filled with a strange helplessness.
+
+“Thank you for saving Kerrin and her friends,” Lira said.
+
+“I stopped him from attacking them, but they nearly died in the passive fire aura,” Ali said. Truly, if Kerrin hadn’t been quick enough to call the retreat, Ali wasn’t certain she would have been able to do anything, and it was all because she had been so distracted with her own class and paths.
+
+Suddenly, the chimes sounded softly in her mind, and a new set of notifications appeared.
+
+You have gained Reputation.+1 Authority.
+
+Wait, what? How…
+
+“Kerrin? Adara’s group is in the dungeon?” Vivian asked, fury mounting like gathering storm clouds on the horizon as she realized what had just happened. “I told them to stay out today. I told them!”
+
+“Impulsiveness and lack of wisdom are the nature of youth,” Lira said sagely. “As is the anger and frustration of a parent toward their children after the fear for their immediate death passes. You feel for your children, Vivian, but I suggest that Kerrin and her friends have already learned their lesson and likely need no further punishment.”
+
+“But, they…” Vivian said, stumbling over her words in her agitation.
+
+“Belmar told them off pretty sternly,” Ali added. “And he’s making them all report to you personally when you get back. I think they’re more terrified of you than the fire.”
+
+Vivian took a deep breath, fury visibly draining out of her. “This is not good for my sanity,” she muttered. “I’m just glad they’re ok.”
+
+“Kerrin is delightful and enthusiastic,” Lira said. “She just needs guidance, Vivian.”
+
+“Yes, they all do. That’s not the problem. I just wish they would listen.” Vivian looked from Lira back to Ali and continued, “You were about to ask something?”
+
+“I was going to ask how Authority works and how to earn reputation, but I just got one point,” Ali said, reviewing the earlier notifications. Authority, listed at the bottom of her status sheet below mana, now read:
+
+Authority: 1/252
+
+She had entered the third tier with zero Authority, and it had remained there until the notification had chimed. There did not seem to be any natural regeneration for Authority, at least nothing listed in all the usual places.
+
+“When you gain followers, your authority regenerates. When they do something in alignment with your paths, you can earn reputation, which, depending on its significance, will determine how much Authority is regenerated,” Lira said, but a little uncertainty flickered across her usually serene, sage-like eyes, and Ali realized that this was new ground for her aunt, too.
+
+“I can’t take followers,” Ali said, searching through her path choices again.
+
+“Then you must earn reputation by your own actions,” Lira said. “Azryet is perhaps the best source for information on how this works.”
+
+How does a dungeon earn reputation? She had just earned some, admittedly, the smallest amount, from the incident with Kerrin and Adara’s encounter with her Fire Mage, but was it her actions to save them that triggered it? Or was it the zone notification? Or the intensity of the power surge? There were so many questions.
+
+“Lira, do you know how to use Authority?” she asked, deciding to try and come at the problem from a different angle. She had one point now – not enough, she realized, to pay for any of the path nodes she had just purchased during her evolution.
+
+“You spend it in place of mana, stamina, or even health. Even just one point added to a skill will dramatically enhance it with additional potency,” Lira explained.
+
+“A little like mom’s ability?” Ali asked. She had inherited it – the ability to spend her maximum health to empower her magic. An extraordinarily expensive ability, but one of enormous power. It had been the only ability that allowed her to stand against Azryet’s breath, and it was the ability that allowed her to save Cael and Gage from their decaying magical support chamber.
+
+“You can think of it that way, but I think you’ll find the differences to be substantial,” Lira said.
+
+“How so?”
+
+“With your skills, probably the fastest way would be to simply try it and observe,” Lira suggested.
+
+“Ok.” Ali had only one point of Authority, but the knowledge of how it worked would be far more valuable than trying to hoard it – even when it seemed to be such a rare resource. Besides, Lira seemed to be quite confident she could earn more. She manifested her Grimoire and opened the enormous tome to the newest chapter: Celestial.
+
+She focused her mind, bringing all her senses to bear on what she was about to do, and then fed mana into the Divine Archon imprint. It was instantly obvious how to use her Authority, so she spent her only point, dropping it into the torrent of mana pouring into her Grimoire imprint.
+
+The moment she spent her Authority, she understood what Lira meant. Nothing about the construction of her magic had changed – the point of Authority simply took the place of a single point of mana. And yet, its influence changed everything. Like a drop of potent dye dropped into a bowl of water, its influence colored everything. The very fabric of the mana formations grew sharper and clearer, as if her summoning were performed with a fundamentally more primal and pure form of mana. The spells twisted and reshaped, slight adjustments that might barely be noticed, and yet the overall harmony of the structure was somehow perfected. Brimming with vitality and potency.
+
+Sage of Learning jolted her mind, reacting to the concert of magic played out before her mana sight, gobbling down enormous amounts of mana as her memories flickered and flashed like the pages of a thousand books flipping by. Countless hours of studying the obscure and dense text within Clarence’s pages suddenly crystallized, a murky pond suddenly clearing to allow her a perfect view of what lay on the floor below.
+
+So that’s what she meant!
+
+The rush of sudden clarity surged through her mind long after her minion summon was completed, a million puzzle pieces slotting together in an endless cascade as her mother’s work finally made sense. The blinders had been removed, and while she might not fully understand it yet, she could see the true fundamental nature of magic. How did she… oh, wow!
+
+“Ali?” Malika asked, prodding her lightly.
+
+“I… I’m ok,” Ali managed, her mind popping back to the present like a bubble of air reaching the surface of a pond.
+
+“What was that?” Malika asked, a worried look still lingering in her eyes.
+
+“A moment of inspiration,” Lira said with a smile, even before Ali could try to put the transcendental experience into words.
+
+“You summoned that archon in twelve and a half seconds,” Calen observed with his signature calm tone, but there was an indefinable spark of excitement dancing in his eyes. “That’s viable in combat, now.”
+
+“I have a lot of spell haste, now,” Ali said, but the radical change in her summoning speed aside, she was far more interested in what her Archon actually was. She prodded it, earning a long-suffering eyeroll from the celestial as she studied the skills and attributes. It’s more potent than an Elite monster. And she had spent only a single point of Authority. Suddenly, the glacial accumulation rate for Authority made far more sense. After all, it had taken her a hundred and fifty levels to accumulate her three-hundred-and-six Authority for her evolution. Everything she had seen with her mana sense told her that Authority was a fundamentally more potent resource than mana. In fact, it might even make sense to consider it the primordial kind of magical power. Her conversations with Val’korr on the subject replayed again in the back of her mind as Sage of Learning toyed with the memories.
+
+But without any more points, her further experiments would have to wait. Instead, she had many other abilities to test. While she summoned her mana, she turned to Malika and asked, “Did you get a chance to chat with Morwynne?”
+
+“Oh, yes,” Malika said. “I made sure she has all the ingredients for your Elixir. She’s just waiting on a blessing for one of the reagents – it’s a six-day recharge, apparently.”
+
+“Ok, thanks,” Ali said, touching her archon and letting the mana flow into her. Six days and I’ll be rid of this cursed title, once and for all!
+
+Divine Archon – Celestial Sun Elf – level 252 (Holy)World Walker applied to Divine Archon.Elite Domain Enhancement applied to Divine Archon.Amplify Skill (Celestial Sword) applied.Domain Enhancement complete.Your reserved mana has increased by +827.
+
+As she boosted her new Archon, she used one of her World Walker slots to free it from being bound to a specific region of her domain, noting in fascination how it still drew mana from the domain, but now it seemed to be redirected through the reserve connection to herself. World Walker, it seemed took the place of Domain Respawn, understandable really, considering her domain would likely not be around to resummon it if it died.
+
+“Is that your new thing?” Mato asked, eyeing the Archon appreciatively.
+
+“World Walker. Yes,” Ali said. “It’s an elite boss that can leave the dungeon.”
+
+“How does that even work?” Calen asked.
+
+“The domain empowering its abilities is redirected through my reservation connection,” Ali said. It certainly explained why it had required her to tier up – the sheer magnitude of the power coursing through the connection she shared with her minion was startling. Before her evolution, she was certain her body would have disintegrated under the strain. “Be right back,” Ali said.
+
+With a thought, she teleported herself directly to the edge of her own domain in the Abyssal Realm, bringing her Divine Archon with her while also collecting a balanced party of other minions from across her domain.
+
+“Ok, you guys go find something to hunt,” Ali instructed, gesturing toward the dark tunnel that led away from her domain. “But don’t go too far.” Provoking a full dungeon break from the Lair of the Demon God would not be smart, even with her greatly increased power.
+
+“It shall be so,” the Divine Archon intoned, turning toward the darkness and flaring with an inner holy light.
+
+One of the most significant changes from her class evolution had been the upgrade applying spell haste to her recharge timers. Initially, she had been a little disappointed that it seemed to only apply one-fifth of her haste to her recharge costs, but the experience of teleporting eight monsters to the edge of a different realm and being able to return in three point six seconds suddenly impressed upon her just how crazy that really was. More impressive still, one of those monsters was a third-tier, authority-summoned elite archon, now strolling confidently down a demon-infested tunnel bathed in an aura of pure holy flames and carrying a giant sword at the ready.
+
+“Where’d you go?” Calen asked when she popped back into the grove beside the shrine.
+
+“I sent the archon and some other minions demon hunting in the abyssal realm,” Ali said. The opportunity to see how her archon performed with all her dungeon break enhancements would be quite educational. Already, the enhancements to her perception abilities were giving her a wealth of continuous information from her small away team as she studied her kobolds scurrying after the trolls and the archon, all benefiting from the holy aura and the Archon’s Fanaticism. They hadn’t encountered anything particularly dangerous yet, but the ever-present wargs and imps they had run into didn’t last more than seconds.
+
+“How are they doing?” Calen asked, holding his notebook ready.
+
+“I’ll let you know when they find something stronger,” Ali said. “They’re crushing the lesser demons.” She swept her awareness through her entire dungeon, double-checking that nobody would be in any danger, and then she retrieved her Eye of the Lich ring, slipping the band of darkness on her finger.
+
+An exquisite rush of power surged through her minions, experienced so viscerally through her connection to them that it felt personal. The holy fires of consecration billowing out from her Archon grew several times more intense, while the ice bolts and fireballs wielded by her mages suddenly accelerated dramatically, benefiting from her eight hundred and seventy-five percent increase to spell haste and the enormous number of spell-power boosts she was suddenly sharing via the ring’s Summon Supremacy legendary enchantment.
+
+“Oh, boy. That’s a rush,” Ali said. And not even Tol’brekk was complaining this time. In fact, he was grinning maniacally as the blood blades in his vortex multiplied, growing faster and more powerful in an instant.
+
+“Does it work?” Calen asked, his eyes sparkling with excitement.
+
+“Yes, I lost Tiny,” she answered, grinning at him.
+
+“You still look tiny,” Mato said, drawing up to his full height so he could emphasize just how much he could loom over her.
+
+“What are you trying to say?” she demanded, staring up at him with her fists on her hips.
+
+“Nothing… pipsqueak.”
+
+“Hey! I’ll have you know I doubled my effective strength! When’s the last time you had such an enormous upgrade?”
+
+“So, what, you have seven strength, now?”
+
+“Eight! Excuse me!” Ali picked up a nearby rock and brandished it at him while she stuck her tongue out for effect. She had had eight for a while now, but the Tiny aptitude had halved its effectiveness, so she really did feel twice as strong.
+
+“How about we let me handle picking up the rocks, and reaching for the top shelf, and you handle the rest?” Mato offered.
+
+“I can fly, you know. And I know the runes for telekinesis, I don’t need your help getting to the top shelf.”
+
+“Ooh, scary!”
+
+Probably as good a time as any, Ali decided, recalling the runic structure for the arcane telekinesis spell she had learned from studying trainees in her arena. She summoned her mana, impressing her will upon it using her new advancement to Runic Script. A ring of sparkling golden runes materialized, orbiting her wrist like a loosely floating bangle. It shimmered and sparkled, an intricate sculpture reminiscent of her barrier magic and wrought into the shape of the formation she held crisply within her mind. Then it pulsed with mana as it completed, and she reached out through the spell and flicked Mato’s ear.
+
+“Hey!” he yelped.
+
+“Serves you right for picking on someone smaller than you!” Ali crowed, poking him with the telekinesis spell again.
+
+“I thought you weren’t tiny?”
+
+“I am whenever it suits me!” she declared, chasing him around the shrine a few times before she stopped.
+
+“It uses a lot of mana,” she said, studying the ring of floating runes that were being supported by a continuous flow of her mana.
+
+“But don’t you have like a million now?” Calen asked.
+
+“No, just five hundred and fifty thousand,” she said, sighing. It had more than doubled in her upgrade, but still, she could always use more – champion monsters were expensive and she was reserving a lot. But the splutters and coughing from her friends suddenly reminded her just how crazy what she had said probably was. Even for a mage in the third tier, fifty thousand mana would probably be extreme, and she had ten times that because of her bloodline and domain. With just a simple check, she realized her mages were also benefiting from her bloodline bonuses to mana.
+
+With her mind grounded back in reality, she realized just how important spell haste really was to her new abilities. Both the Edict of Denial and her new Runesage Ascendant path benefited dramatically from faster casting, and they both provided ample improvements to spell haste. Combined with the haste she gained from her Arcane Recall mastery, she found she could summon the runes for a low-level spell like telekinesis near instantaneously. And Calen’s jest was spot on; the extra cost for summoning the spell inscribed by her own mana, as inefficient as it might be, was simply lost in the vast pool of mana she could regenerate per second.
+
+There was so much to explore. She aimed an arm, and a ring of glowing green runes sprang into being in front of her hand. Mana rushed through the formation, and she sprayed the nearby ground with conjured acid. The ring flickered, the runes changing instantly, and grasping roots sprang from the ground. She followed it up with a cloud of insects and several different druidic healing spells.
+
+I should be able to do metamagic, too. A ring of green sprang into existence, followed by a second golden ring hovering behind it, both circling her arm. She reached out and released a vast poison cloud, benefiting from the arcane Increased Area metamagic. Moments later, the runes were replaced by golden arcane formation, and she fired off a dozen nostalgic Arcane Bolts combined with a power-boosting meta magic spell.
+
+They were all low-level spells, at least relative to her current level, but the ability to summon the runic magic nearly instantaneously filled her with such profound joy that she couldn’t contain the ear-to-ear grin. Nor her excitement. Spell after spell launched from the flickering circles as she rapidly tore through a large portion of her repertoire of every nature and arcane spell she had memorized.
+
+Wait. I can do runic magic with my domain! She cast about quickly, finding a nearby grove of light-affinity trees and teleported there using a little bat that was minding its own business roosting on a branch. Then, she summoned something she had memorized a long, long time ago. Runes of blazing light appeared as she attached them to her domain mana on creation. Her eyes widened at the astonishing sight. Neither gold nor green, the light runes shone with pure white radiance, and then, a floating Mote of Light appeared. It hovered before her eyes, drifting on the ever-so-gentle breeze, and slowly rose into the cavern.
+
+Finally! I can cast anything.
+
+Obviously, there were restrictions. She couldn’t use other affinities unless she was drawing from that specific mana biome in her domain, but still, her mind reeled with the possibilities. It wasn’t anything particularly new, either; she had been able to summon elementals and runic circles of other affinities in her mana biomes before this. But something about being able to create any spell she could memorize really stunned her. She had been thinking of her third-tier evolution as a strong increase in power, but the reality was far more impressive to her. The sheer breadth of what she could accomplish took her breath away.
+
+She summoned the formation of a high-level spell to her mind. From the highest tier of magic in Nathaniel Sunstrider’s spell book: Greater Dispel. Runes burst forth from her hands in a blazing golden array. Dozens of circles interlocking and interconnected. They spun, growing larger and more intense before the spell was unleashed, and the clouds of poison and the grasping roots she had summoned vanished in a sudden shower of unbound mana.
+
+But even greater magic like this one had taken less than five seconds to create.
+
+“Having fun, dear?” Lira asked.
+
+“Oh, yes!” Ali said, laughing in delight as she set to working her way through the rest of the Archmage’s spellbook.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

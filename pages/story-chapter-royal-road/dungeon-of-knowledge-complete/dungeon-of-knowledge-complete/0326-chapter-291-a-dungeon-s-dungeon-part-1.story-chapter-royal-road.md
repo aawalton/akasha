@@ -1,0 +1,141 @@
+---
+id: 69b5fd28-fb90-50e0-b26f-586a40f00c4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 291: A Dungeon’s Dungeon (Part 1)"
+slug: 0326-chapter-291-a-dungeon-s-dungeon-part-1
+partOf: dungeon-of-knowledge-complete
+position: 326
+ownLength: 2432
+unit: words
+ownProgress: 2432
+publishedAt: 2025-06-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2384164/chapter-291-a-dungeons-dungeon-part-1"
+royalRoadId: "2384164"
+markedReadAt: "2026-06-29T20:22:22.850Z"
+---
+
+When Basil finally reached Eliyen’s home and shop, the sun had already dropped below the rooftops, and it was growing dark. He had once asked her why she hadn’t moved to a wealthier, safer part of town, but she had told him that she had lived here before this section of the town had even been developed, and that she had watched it grow and then wither under the oppression of the various criminal gangs and syndicates that had sprung up over the years. She had no desire to move and uproot her precious garden.
+
+But Basil’s route home had changed dramatically over the last few weeks. Devan lived on this street with her mother and younger brother, and some portion of her share of the dungeon loot had to be the reason their house had a new coat of paint, unbroken glass windows, and a brand-new picket fence. It wasn’t the house of the wealthy and well-to-do, but it was most certainly no longer a run-down shack in a slum. And theirs was not the only improvement, Aiden had offered the small, abandoned house neighboring Eliyen’s store to a small family of refugee Trolls. He wasn’t sure where they had gotten the money, but just two days ago, the entire house had been entirely renovated, the land cleared, and grass planted, turning it into a pretty, if a little garishly painted, townhome.
+
+As he walked along the street, he saw further evidence of care and effort showing up in many of the houses and buildings along the way – proof that Vivian’s plan of providing training and classes to the poor and destitute was having a dramatic revitalizing effect on the local economy. Even Eliyen no longer needed to give potions out for free to those who couldn’t afford it – most customers now insisted on paying at least a little.
+
+“Welcome back,” Eliyen said, looking up and greeting him as he entered the store.
+
+“Hi, Eliyen,” he said. “I got something from today’s run that I think you should see.” Their raid group had tackled the Abyssal Stalker boss today and had quickly discovered Aliandra had upgraded it. The first sign that had tipped him off was the presence of the gruesome moss that sprouted from the walls and tree trunks, leaking blood everywhere.
+
+Eliyen perked up and moved over to join him at the worktable. “What did you find?”
+
+Basil carefully laid out some paper on the tabletop so as not to get the seeping blood leaking on everything and then retrieved the samples he’d collected. “What do you think of this? It was growing around a demonic spider boss down in the dungeon, but I have no experience with anything like it.”
+
+Blood-Drenched Moss – Moss – level 40.
+
+Eliyen cocked her head to the side and reached out to touch the moss and then inspected the red stains on her fingertips. “Blood affinity,” she said thoughtfully. “And such a high level. How fascinating, that girl is a real treasure.”
+
+Does she mean Aliandra? He had been rather grossed out by the moss, and had almost not wanted to collect it, but Eliyen had always insisted that any plant with a magical affinity had a very high chance of being valuable. “Is there something good we can make from it?”
+
+“Oh, yes!” Eliyen said, her eyes sparkling. “This is a real find. Using the usual process, we can make extracts and tinctures with blood affinity that can be sold to the crafters for their enchants. I’m certain that blacksmith knows how to make Blood Shock or Life Drinker weapon enchantments. I can show you how to use blood affinity extract to improve your healing potions. It’s just too bad they’re not a little higher level – maybe you can try cultivating them in the dungeon to help them grow stronger?”
+
+“What happens at higher levels?” Basil asked, surprised by the number of effective uses for a moss that leaked blood everywhere.
+
+“Above level fifty, we can sometimes extract a lesser blood essence – and that can be used to make Elixir of Life – the premier tank elixir, increasing maximum health for an hour,” she said. “It’s extraordinarily valuable, and with Silver Cog hopefully moving in, they can give us access to the kinds of markets that would buy them in bulk.”
+
+“Well,” Basil said, “the cave where I found this has several orchids called Scarlet Tears, I couldn’t collect them because they were higher level than I can even Identify.”
+
+“Scarlet Tears?” Eliyen exclaimed. “Are you sure? Scarlet flowers that weep blood?”
+
+“Yes, exactly,” he answered. They were quite striking – there was no mistaking the description.
+
+“You must bring me next time you go there,” Eliyen said. “This is an extraordinary discovery!”
+
+“Uh, ok,” Basil said, stumbling over his words in surprise. It was one thing that she recognized the orchid by name and was instantly excited over the find, but it was another that she wanted to venture into the dungeon personally. The closest she ever got was to visit the library and chat with the ancient dryad, Lirasia.
+
+Ali was very excited about Calen’s powerful new skills and abilities, and she couldn’t wait to see what Malika and Mato unlocked, but unfortunately, it wasn’t that easy. Two million mana was a great deal, and even with her much denser domain and Mana Siphon, it would take a while to recharge the shrine. On initial use of the shrine, it had refilled much quicker, but it seemed that her domain itself was being depleted by the enormous draw from the shrine, and it might need a little time to replenish. Fortunately, it didn’t look like it would take all that much time.
+
+She had several extremely pressing tasks that she couldn’t leave hanging around for too long. Mato and Malika needed their evolutions, and she needed to do something a little more permanent about that rift.
+
+While the others chatted excitedly about Calen’s advancement and what it might mean for the guild and their team, Ali scrolled through her notifications, worried about what she might find. Fortunately, her rift guards were doing well, as evidenced by the steady stream of level-up notifications, but she was loath to leave them as her only defense against the might of the Abyssal Realm demons.
+
+What if that Maalgaroth realizes the rift is no longer protected by a dungeon?
+
+Clearing the Emberforge Mines had been necessary, for many reasons, but she was no longer shielded by it, and her own dungeon was now the last line of defense protecting Myrin’s Keep. Given what they had experienced, she needed a defender on a different level from anything she had made till now – which meant she needed a raid boss. And that required her to claim the entire Emberforge Mines as her own.
+
+Fortunately, that would kill two birds with one stone – greatly expanding her domain would feed her shrine with far more available mana, and they should be able to get Mato and Malika’s evolutions done quickly, and then she could experiment with her berserker.
+
+Still, as urgent as these tasks were, there was one thing that could not wait. “Um, while I have all of you here, can I ask you to help me with something potentially dangerous?” Ali said, getting the attention of everyone instantly.
+
+“Yup,” Mato said.
+
+“Um, that sounds ominous,” Malika said. “What kind of something?”
+
+“I want to study the lich’s artificial shrine before we hand it over to Nathaniel Sunstrider,” Ali said. “The one we recovered from the Temple of Aman Rak.”
+
+“Uh, Ali, isn’t that dangerous?” Calen said, instantly on his feet with his bow in his hands.
+
+“Yes, the Blind Lich can teleport to these,” Ali said. “But… he’s currently dead for a week or two. We’ll never get a better opportunity.”
+
+“Clever,” Val’korr observed. “I will help keep watch.”
+
+“Us too,” Malika said, nodding.
+
+“Ok, thank you,” Ali said, arranging her minions in a loose defensive formation.
+
+She found a nice clear spot, a little away from her shrine and retrieved the massive onyx rune-covered stone prism they had recovered after the battle against Tol’brekk. She set it down on the mossy ground, well she tried to, but it had other ideas, hovering above the ground under its own power.
+
+She didn’t know quite how long Nevyn Eld would be confined to his Phylactery, but it couldn’t be much longer. After he had reconstituted his body, messing around with the shrine would suddenly become an extremely unwise choice.
+
+Temple of Aman Rak A crafted shrine artifact, providing domain propagation and support abilities. Owner: --Teleportation Locus [Active].Mana Siphon [Active].Created by Nevyn Eld.Shrine – ArtifactBind yourself as owner of the Temple of Aman Rak shrine? This action is irrevocable.
+
+For the second time, Ali declined the shrine’s offer. Even just the way it was worded made her shiver – it felt nothing like when she tried to take ownership of the Emberforge Mines shrine. That had been a simple soul bind, not unlike attuning her mana to her guild ring, but this construct of Nevyn Eld’s felt like she would be losing something of herself if she accepted. Something she dearly didn’t want to give up.
+
+It hung above the moss, slowly rotating as it absorbed excess ambient mana from her domain, the runes on its surface growing brighter. It was a lot smaller than her shrine, but it had a precise geometrical shape with harsh lines and polished smooth facets that spoke clearly to its artificial nature. It looked like a version of how Malika had described the late William Turner’s shrine, only larger and hovering in the air.
+
+Ali studied it, carefully transcribing all the runes in her notebook, and capturing the connections revealed under the close scrutiny of her mana sight, but she knew she was only seeing the most superficial layers of its construction.
+
+If only I could have studied it while it was working, she thought. When she had been stumped by the magic array Nevyn Eld had built in the dungeon, its functioning had only truly been illuminated when she had seen him activate it and had finally understood the dynamic flowing of mana through the entire construct. She sighed, knowing there was no way for her to safely activate it.
+
+“What’s wrong?” Malika asked.
+
+“I can’t understand most of it if I don’t see it in action, but I definitely don’t want to bind to it,” she said. “Unfortunately, there’s no safe way to…”
+
+Or is there? Ali glanced speculatively at her defensive minions.
+
+“Come over here,” she called, indicating one of her witch doctors.
+
+“Yes, Seeker,” he said, joining her by the artifact.
+
+“Aah, yes,” Calen said. “Good idea.”
+
+“If it works with minions,” Ali said. Then she turned to her troll. “Bind yourself to the shrine.”
+
+“Of course,” he said, reaching a hand to the shrine and touching it.
+
+Observing both her witch doctor’s perspective and from outside, Ali witnessed the mana in the shrine unfold like a flower, tendrils reaching out into her troll and flowing through his hand and into his chest. Ali braced behind a barrier, ready for anything, but her connection to her witch doctor remained and from his eyes, she could see the notifications.
+
+You have become the owner of the Temple of Aman Rak.Domain Magic skill options:Affinity Aura – Blood, Bone, Ice, Soul.Alternate Form.Amplify Skill.Attribute Enhancement – Strength, Intelligence, Wisdom.Mass Summoning.Minions.Sacrifice.Spell Cascade.Summoning.Overpowering Strike.Choose three.
+
+“What is your will?” her witch doctor asked, waiting patiently for her decision.
+
+“It’s going to turn him into a raid boss,” Ali said, warning the others in case the process stripped her of her minion. She glanced through the options and recognized each of the domain magic skills offered – every single skill she had learned while clearing the Temple of Aman Rak. Nevyn Eld’s artifact must have recorded them, and it seemed it had the power to instill them in its new owner.
+
+Paying close attention to the mana, she said, “Wisdom, Affinity Aura, and Amplify Skill on your Soul Drain.” She deliberately chose a diverse set of skills, and ones she was familiar with and would recognize from their mana formations. She was most certainly curious to see two new affinities for Affinity Aura.
+
+Her witch doctor did something, and suddenly the shrine flared with a burst of extraordinarily complex formations that triggered a drain from Sage of Learning. Before her evolution, she would have missed it all, but with her skills and mental speed enhancements, she recognized the patterns from her own magic when she applied a raid domain enhancement. It was similar enough to convince her that Nevyn Eld had based the artifact on studies of a real dungeon, duplicating the effect in exquisite detail. Still, there were substantial differences, things Ali could tell had been constructed to fit within the artificial artifact’s runic inscriptions.
+
+The witch doctor grew larger and began to glow with a soft blue-white light that shone from within – soul-affinity mana.
+
+Binding Complete.You have gained the Domain Aptitude.You have gained the Damage Multiplier Aptitude.Your resource factor has increased to 100.
+
+Ali winced at the sudden onslaught of pain hammering through her mind, and all her minions bellowed and roared in response to the dungeon rage. Within the haze of pain, Ali noticed the most curious thing of all; her newly elevated witch doctor twitched and spasmed, caught between the conflicting desire to protect her from the foreign dungeon, but who was also subjected to the dungeon rage himself and screaming with the powerful but impossible need to attack her and protect his own domain.
+
+Mana flashed across Ali’s eyes.
+
+You have gained Clarity.
+
+“Thanks,” she said, glancing gratefully at Malika. “Dungeon rage.” Before the witch doctor’s confusion and pain broke him, or the rage grew worse, she twisted her domain mana in the local region around the artifact, copying what she had done for Lira so long ago. This time it came to her almost effortlessly, Adaptable Mana facilitating the bending and flexing of her domain around and through the foreign domain emitted by the shrine, supporting it and inserting it into her domain in the same way as she had observed with the flowers and plants of their many and varied affinities. The pain immediately subsided, and she was left with a tiny dungeon of soul mana within her domain, and the raid boss that owned it was still her minion.
+
+“So that’s how he does it,” Ali breathed.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

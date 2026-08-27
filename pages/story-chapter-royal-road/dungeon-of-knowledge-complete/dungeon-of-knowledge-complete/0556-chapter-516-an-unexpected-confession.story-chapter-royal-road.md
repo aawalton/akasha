@@ -1,0 +1,137 @@
+---
+id: acbe902c-5f6a-5998-abe7-b8803ed977e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 516: An Unexpected Confession"
+slug: 0556-chapter-516-an-unexpected-confession
+partOf: dungeon-of-knowledge-complete
+position: 556
+ownLength: 2839
+unit: words
+ownProgress: 2839
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2974684/chapter-516-an-unexpected-confession"
+royalRoadId: "2974684"
+markedReadAt: "2026-06-29T20:31:12.394Z"
+---
+
+The barrier dome flickered with power as mana coursed through it. Runes flared in response to distant fighting, and Ali would only have been able to guess what was happening at the other battle locations if she hadn’t bolstered each of the raid groups with a couple of her minions to help synchronize everything.
+
+“Aiden and Teagan’s bosses are down,” Calen announced, repeating the communication via the sending spells.
+
+Ali studied the runes intently, noticing the power fading in the direction of the two other raid groups. Through a different set of minion eyes, she watched a third Calhedron splinter and collapse.
+
+“Basir’s group just reported success,” Calen added.
+
+As the domain-empowered arcane elemental spilled across the blackened and suppurating ground, the grand formation dimmed further. Tension was palpable in the air as they waited. If even one group failed or was late, the entire effort would have been for naught. Seconds stretched out in silence, and it didn’t help that she had only an approximate idea of exactly how much time they had before they all began respawning. Minutes at best, if their first kill was anything to go by.
+
+Within the barrier dome, a line of runic magic lit up, vanishing into the distance in the direction she knew to be Havok’s group. A second entwined formation flickered, coming to light as the energy from the single remaining Calhedron reached out around the barrier like grasping claws, and she knew it was linking into the domain itself, interfacing with the Domain Respawn. Helplessly, she watched it grow stronger, while her minion witnessed the full fury of the last raid being unleashed. Hurry, Havok! she thought, urging the powerful little Goblin and his team onward. She had tried to dismantle and disrupt the barrier last time, but, supported by the domain itself, her magic had simply been swept away like chaff as the barrier had restored itself.
+
+Suddenly, the light flickered and then dimmed dramatically, and she knew they had killed it. Distant cheers rang in kobold ears.
+
+“Havok’s group won,” Calen confirmed, his face lighting up with a triumphant grin.
+
+Ali turned to the barrier dome, trying to ignore the geyser of anxiety that suddenly sparked to life in her mind. She was certain she had done her analysis correctly. Still, she couldn’t shake the terror of inviting the madness of Baaoht Yll’shuum into her mind via Deconstruction and Sage of Learning. And yet it all came down to this – if she couldn’t do it, or if she had made a mistake, the entire guild’s efforts would have been wasted.
+
+It will work, she thought, pushing her worries into the background and summoning her magic. Tiny golden needles formed in the air, hovering before her outstretched, trembling palm, more and more of them, growing with intricate detail as she encoded the anti-formation into her arcane creation. Tiny protrusions and contingencies sprouted along the darts like ever finer detailed keys for an infinitely complex lock. It took all of a fraction of a second to build, and yet, under the influence of her worry and the powerful acceleration of her mental reflexes, it felt like an age. The patterns accreted into golden shapes, sharpening, twisting, and solidifying as she studied them, double- and triple-checking them for any sign of errors.
+
+And then she fired.
+
+Golden needles shot out, impacting the purple barrier and penetrating like daggers dropped blades down into the surface of a still pond. Mana flickered within the barrier, purple contending against gold, each struggling for dominance. Then, her golden mana began to burn away the purple barrier construct, eating through it voraciously like acid as it stripped away the layers of ingenious protection spells. Wards fashioned by the Archmage himself. Smoke spilled into the air, rising in lazily curling wisps comprised entirely of unbound mana. Holes began to form within the barrier, and bits of purple began to drip onto the ground, sizzling as the complex formation expelled ever-increasing bursts of mana into the air.
+
+The jagged golden tendrils of Dismantle began to sprout, tearing through the barrier magic from within like the unraveling of a thousand threads, threads which spilled into her mind, bringing understanding and fresh knowledge. Rippling flickers of glowing rune fragments formed in her mind, whirling about while her Sage of Knowledge sorted them, ordering them by function, shape, and feel. The effect accelerated, ripping through the vast formation, and, in less than a minute, the entire thing collapsed, spilling upon the ground with a vast, tinkling crash that echoed across Ciradyl, leaving fading remnants on the ground that slowly evaporated.
+
+It’s the same as my barrier, she suddenly realized. At least, the magic absorption part. For some reason, the Archmage’s barrier had been explicitly designed to absorb mana – a vast collection array that shunted unimaginable quantities of mana off to inexplicable formations elsewhere in the dungeon. Is that how he controls so many undead? It had to be the reason. But that’s only part of it, she realized.
+
+She glanced up in surprise at a strange new sound rising over the ever-present background wail of the Banshees. For a moment, she searched for the threat, but then she suddenly recognized the distant sound of voices raised in joy: cheering.
+
+It worked!
+
+“Good work, Ali,” Malika said.
+
+Across the vast expanse of the dungeon, the outer dome barrier had popped like a soap bubble, leaving only drifting motes of purple mana and exposing the second ring barrier and the monsters within to the waiting guild raid groups.
+
+Relief rippled through Ali, easing her tense shoulder muscles and banishing the repressed anxiety and worries as she realized they had succeeded. But it wasn’t finished yet. No, not even close. This is just the first step. Lowering the barrier would allow them to proceed further into the dungeon, but if she didn’t do something about it, the domain would respawn it all in a mere few hours.
+
+The dungeon’s corrupted environs around Ali and her friends vanished as she teleported back behind her holy mage champion, appearing beside the Gate. And within her domain. Now, let’s make it stick.
+
+“Peel it like an onion, Ali,” Mato said, his words echoing like a parting gift in her mind.
+
+“You got it?” Basil asked, glancing up from where he was decanting a bubbling concoction into an impressive array of small glass flasks.
+
+“Yes,” Ali answered, smiling at him.
+
+For what I’m about to do, I thank you for the damage, she whispered in her mind, grinning softly. It often amused her to mimic the loyal adherents of Havok’s church. Azryet’s followers. However, Ali was almost certain the powerful dragon god could hear her when she directed her thoughts toward her mentorship enchantment.
+
+Pushing up her sleeves, Ali directed her awareness outward through her domain until she reached the sharp pain of the unending dungeon rage boiling at the violent intersection of her domain and the domain of corrupt arcane mana. She gritted her teeth and pushed, clenching her fists as if to grasp the insubstantial mana and wrestle it into submission. Her domain responded instantly, hardening into blades of crystalline arcane and nature mana that she wielded to slice through the hostile domain with the ease of a sharp knife cutting cake.
+
+The entire dungeon reacted like a stricken monster speared in its tenderest parts. Howls and wails rose in response to her sudden assault. Every single unbound monster that remained in the dungeon turned and charged toward her, but she ignored them, trusting her defenses to her mage and Seth’s giant Sandwyrm. Cuddles. So perfectly named.
+
+From the edges of her domain, Ali’s mana gushed forth, ripping into the domain defending Nathaniel Sunstrider’s Wraith. It resisted her, writhing and twisting, retaliating and pushing. But without the power of the five guardian raid bosses to sustain and protect it, it fell to the reaping scythe of her Domain Architect skill. In an accelerating wave, her domain consumed everything, encroaching all the way to the location of the downed barrier dome.
+
+In the wake of her domain, the corrupted and blackened earth sprouted verdant green moss and tiny glowing golden mushrooms in a rising tide that flowed around the remaining corrupted core of the dungeon, entirely surrounding it. As her magic took hold, she deconstructed every arcanite pillar she encountered and every dead monster, destroying rocks, corrupted earth, and twisted remains. It felt like choking down a foul oil slick, but she had experienced far worse. She established herself, growing Arcanite Birches and Lirasian Oaks, fortifying her domain.
+
+Variant: Calhedron added to Imprint: Elemental.
+
+But, try as she might, she could not progress beyond the boundary of the first barrier dome. Even though it no longer stood. She pushed till sweat beaded her brow, but the force of the raid bosses standing guard within the newly exposed ring denied her. The first layer of the onion had been peeled, as Mato had so aptly described, baring the next inner layer to them.
+
+Well. We’ll just have to kill those, too. Good thing I brought a few friends along.
+
+The delightful aroma of White Lotus tea rose from the pot as Mieriel poured it carefully into the elegant porcelain teacup. She set the teapot down in the center of the tray and picked up the steaming teacup with not a single ripple of surprise or alarm from either of them at being served by an imposter.
+
+She turned, walking carefully to the table where the two powerful men were hunched over, exchanging intense and urgent whispers. Her attention, the awareness carried by the wings of her unique skills, tracked the swirling twists of their emotions as they projected them into the air like an ephemeral cloud. They were powerful, but not in the way of adventurers or knights. Politically accomplished, dealing in the currency of favors and influence. Pressure and charisma. Yet, in many ways, far more dangerous than sword wielders and spell slingers.
+
+Jax’s mind leaked an undercurrent of desperation, but there was hope there too, sprouting like a malignant weed as the conversation progressed. The banker, Markus de Voss, kept an aloof emotional distance, but Mieriel could tell that the persuasive crime lord’s words were beginning to sway him. If she had learned one thing about Jax, it was that he possessed an almost irresistible charisma as he wove together the threads of a deal.
+
+She approached the table slowly, fending off their minds with Misdirect Attention as she placed the tray before Markus and stepped back a little, using her skills to blend into the background. Apart from a brief nod of thanks from the banker, neither of the two men paid her any mind, even though she was hovering beside their table.
+
+There was a time when Mieriel had feared being undone by someone as powerful as Jax Hawkhurst, but with all the work she had done for the guild, the crafters, Aliandra, and Vivian, she had long since surpassed both these men in class level. Barring an exceptional mistake on her part, there was no way a mid-seventies banker or merchant would break the skills of a level ninety-seven mind mage. It would take a mage of exceptional skills and high resistance, or a priest with substantial investment in wisdom, to see through the influence of her magic.
+
+It did happen, though, she warned herself, remembering how Aliandra had broken through her skills. She couldn’t afford to become complacent – in her line of work, the slightest sloppiness caused everything to unravel at breakneck speed. Besides, her goal was to gather information. Their little impromptu group of Ryn, Lydia, Giddy, Weldin, and even Worthington would need accurate intelligence to counter Jax’s next move. It had taken a lot of work, luck, and help to even diminish his influence this far; she had no desire to let him recover his former stranglehold upon the town.
+
+She turned an ear to their words.
+
+“This all seems in order, Mr. Hawkhurst,” Markus said. “I will need to review it in private before making a decision. May I keep this?”
+
+Frustration surged through Jax. Impressively, though, his face reflected none of it. “Of course, you may take it. I was just hoping we could come to an agreement today.”
+
+“Oh, no,” Markus said, holding up a hand. “I always make a point of sleeping on important deals.”
+
+Markus made the paperwork vanish and pushed back his chair, and Mieriel realized she had missed the most important parts of the negotiation. She had almost nothing to share with her friends.
+
+“I’m disappointed we can’t conclude our business today, obviously, but it is better for you to be certain. I thank you for your time and hope to hear from you soon,” Jax said, standing with him.
+
+“I simply do not have time to make the proper decision right now,” Markus reiterated. “Although I do find your proposal interesting, I do not wish to be late for my meeting with the Mayor, Aiden Turner.”
+
+At the mention of Aiden, anger and fury exploded like a fireball detonating within Jax with such intensity that it shocked Mieriel. However, even with that, he only betrayed his emotions with a frown. But the power of his inner feelings sparked the craziest idea.
+
+Without the benefit of her higher level, Mieriel would never have considered anything so dangerous. Even as it was, her heart began to pound in her chest, and she had to force down a surge of anxiety and fear of discovery.
+
+This could go very badly.
+
+But the window of opportunity was already sliding shut, and so she gasped for it with all her might.
+
+“Why don’t you tell Markus what you really feel about Aiden?” Mieriel asked, pouring mana into her Convincing Story skill, while simultaneously misdirecting the attention of both men to each other.
+
+Markus blinked, freezing in the act of leaving and glancing at Jax in puzzlement. The rage within Jax flickered like a candle in a sudden breeze, but then it surged back far stronger.
+
+“Fuck Aiden Turner,” he snarled, his voice raised in fury as his carefully constructed mask of indifference shattered. “He is the reason my business is struggling. He allowed Silver Cog and their blasted auction house in here! He had the entire Town Watch arrested, destroying my control over this miserable town! I hate him. I should have removed him when I had the chance, just like I took care of his worthless father when he betrayed me. How that boy got his filthy hands on the shrine I used to buy those worthless Heroes of the Crimson Blade, I will never know! Fucking worthless, the lot of them.”
+
+A brittle silence descended upon the Princess’s Petticoats Lounge. Everyone froze. Flecks of spittle slowly dribbled from Jax’s chin as he stood red-faced and furious.
+
+Mieriel sucked in her breath sharply. He killed William? Everyone knew Jax had to be somehow involved in the assassination, many of them suspecting he was the will behind it, rather than the Silent Assassin or Kieran Mori, but hearing the words spilling directly from his own mouth was a truth most shocking. Mieriel could scarcely believe he had said it aloud. By the palpable waves of emotion rippling off the entire room, it seemed it was equally shocking to everyone else.
+
+Markus cleared his throat, breaking the silence. His hand reached up to adjust his glasses, as if uncaring that he had the attention of the entire room. “As you are no doubt aware, Mr. Hawkhurst, you have just admitted a serious crime to a representative of the crown. I suggest you do not leave town until the royal guard comes to collect you.”
+
+Mieriel just stared. Never in a million years had she expected this outcome. She had hoped to throw a wrench into Jax’s business deal with Markus, and instead she had just witnessed him confessing to William Turner’s murder. How much frustration and rage had he been keeping pent up under the iron grip of control for it to shatter so dramatically? A cauldron under pressure, just waiting to burst.
+
+A soft chime sounded in the back of her mind.
+
+Mind’s Eye has reached level 100 (+3)+30 attribute points.Empathy has reached level 64 (+2).Heightened Perception has reached level 42.Augmented Deduction has reached level 45.Misdirect Attention has reached level 63 (+4).Inconspicuous Presence has reached level 52 (+2).Convincing Story has reached level 58 (+3).Requirements met for class evolution. Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+Oh, my! She glanced at Markus de Voss and decided the crown banker would have to be trusted to take it from here. As surreptitiously as she was able, she beat a hasty retreat, fleeing from the Princess’s Petticoats Lounge like she was chased by a demon.
+
+Vivian, I must tell Vivian! And where is Aliandra?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

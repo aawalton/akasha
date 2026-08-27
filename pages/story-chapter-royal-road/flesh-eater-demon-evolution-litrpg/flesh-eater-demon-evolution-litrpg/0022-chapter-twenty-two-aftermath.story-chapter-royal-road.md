@@ -1,0 +1,221 @@
+---
+id: 6383d8c0-93d7-5026-ba31-3cd42cba69f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-Two: Aftermath"
+slug: 0022-chapter-twenty-two-aftermath
+partOf: flesh-eater-demon-evolution-litrpg
+position: 22
+ownLength: 4010
+unit: words
+publishedAt: 2025-09-21
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2618352/chapter-twenty-two-aftermath"
+royalRoadId: "2618352"
+---
+
+After the rush of notifications finally stopped, Pyre was immediately hit with a sharp burst of pain. Getting a bunch of flesh torn off and half-melting, it turned out, hurt quite a bit. Not as much as the Great Fall had, but enough that the demon made the executive decision to flop back against one of the remaining trees and take a breather for a second.
+
+Her eyes scanned the area. The clearing was a mess from the fight. The earth had been cracked open, and craters littered the spots where she and the chimera had clashed. A few odd plants now jutted out from the ground where Callan’s magic had landed, and several tree trunks were covered in deep gouges or cracked. The one she’d slammed into looked like it was going to fall any second now.
+
+The cave, at least, and the waterfall were perfectly serene. That was good. It would’ve sucked if they’d somehow damaged the crystals in the fight. Speaking of which, she should probably go find those crystals, but her body currently felt too heavy for her to want to get up.
+
+A flash of movement passed by one of her eyes. Callan carefully hovered over. The ghost looked exhausted—more tired than she’d thought a ghost could look. The wound on his arm had stopped bleeding by now, but his brows were furrowed in what looked like concern. His eyes kept darting between her, the dead chimera, the rest of the clearing, and the piles of melting flesh that were pretty much half liquid at this point. Good to know that she, like her flesh lump brethren, had apparently replaced bleeding for melting when taking damage.
+
+Pyre shot the ghost a lazy grin. “Yo,” she said. “Nice draining.”
+
+His forehead scrunched even more, and he drifted closer. “Are you okay? You—you lost a lot of flesh.”
+
+Pyre snorted. She opened her closest mouth, ready to give a sarcastic remark, but paused. She studied the ghost. Really studied him.
+
+Callan’s brows were still furrowed, and he kept staring at the torn flesh. He looked truly, genuinely concerned. The demon felt some of that instinctive sarcasm dissipate.
+
+“Well, I’m not actively melting anymore, so that’s good. Might take me a bit to heal, though.” It was a good thing she’d picked up the [Regeneration] trait earlier, otherwise she’d probably be screwed.
+
+“Can I help at all?” Callan asked, the anxiety practically radiating off of him.
+
+“Nah, just give me a few minutes, then we can dig through that thing’s cave. You probably got a fuck ton of notifications too, right? Go look through those.”
+
+They’d have to leave the area eventually—they were pretty far from the village, but who knew what someone might have heard. It would take any patrol groups a while to reach them, though, so they did have some time, which was good. She didn’t think she could really move all that well right now.
+
+Callan nodded slowly. “I’ll stay on watch,” he said. “You, uh, just focus on healing.” With that, the ghost hovered away, floating a little higher so he had a better view of anything approaching the clearing. Pyre raised an eyebrow, once again struck by how sincere he seemed.
+
+She shook the thought away and directed her attention to the string of notifications she’d received. While she waited for [Regeneration] to heal her injuries enough to move around again, it seemed like a good chance to go through everything.
+
+First, she pulled up the description for [Impact Absorption]. It had leveled during the fight, which was cool. Her skills seemed to take way longer to level than her traits did on average.
+
+A quick scan of the skill window revealed that [Impact Absorption]’s cooldown had been reduced from 6 hours to 4 hours. Still a pretty long time, but it should also be able to absorb more damage now.
+
+She was also happy to see [Eye Growth], [Amorphous], and [Regeneration] had all leveled as well. The latter, especially, would be very useful right now. She could also grow more eyes, but four was working out pretty well so far, so she’d hold off on that until later.
+
+Next, she’d gotten a fuck ton of levels. Her eyes lingered on the first notification in the list. The chimera had been 11 levels above her—no wonder it was so damn strong. She vaguely remembered Callan mentioning it was “leveling fast.” That seemed like an understatement. Assuming the chimera hit its second evolution threshold at level 30 like she did, it really might have reached that in a day or so.
+
+Pyre decided to worry about distributing points last, but she did note that class levels only seemed to give 5 points per level as opposed to species levels, which gave 10. For now, though, the demon turned her attention to the class skill options. She focused on them, bringing up the descriptions for each one.
+
+Class Skill: Basic Enfeebling StrikeIf user activates this skill and hits a foe within a time frame equal to this skill’s level x 10 seconds, that foe’s subsequent physical attacks deal less damage for a duration equal to this skill’s level x 1 minute. The percentage decrease in the foe’s physical attack damage increases with this skill’s level. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 8 hours. Cooldown decreases with skill level.
+
+Class Skill: Basic Brutish ShoveThis skill allows user to shove foes a further distance than usual. The percentage increase to shove distance increases with skill level. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+Class Skill: Basic SaviorAfter activating this skill, user must choose a target. If the target is wounded by a physical attack within a duration equal to this skill’s level x 1 minute after this skill is activated, the damage will be halved and the user will sustain the other half of the damage. The skill then automatically ends and cannot be activated again until its cooldown has passed. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+Pretty interesting options, Pyre thought. They were definitely more specialized than that first starter skill had been.
+
+At a glance, all three options had something going for them. [Brutish Shove] had the most vague description, but it intrinsically appealed to the part of the demon that did, in fact, enjoy the satisfaction of tossing enemies around. She could see it being especially useful as a crowd control option. Her main question, though, was exactly how much of a difference it would make. She had such high strength and constitution right now that she could already shove shit pretty far. Did she really want to take a skill to do that even better?
+
+Maybe she would’ve if the other options sucked, but they didn’t. [Savior] was a fascinating skill in a lot of ways, mostly because it revealed what kinds of things system skills could do. It was very specialized. From the description, she suspected it would probably get a ton of boosts once it hit intermediate proficiency, too.
+
+If Pyre was the leader of an adventuring party or something or just a more compassionate person in general, she might be jumping on the skill, but the fact of the matter was that she was a demon who’d mostly been traveling solo so far. Callan excluded, but he was an incorporeal ghost. The idea of taking damage for someone else didn’t really appeal to her, so as interesting as the skill was, she didn’t plan on taking it.
+
+That left her with [Enfeebling Strike], which she happened to be a big fan of. Its cooldown was long, but it sounded incredibly useful and was a good way to up her survival chances even more. Now, she suspected the amount of damage it reduced probably wasn’t a ton, but it lasted for a minute, and the chimera fight had proven that every little bit counted. It was a shame it only worked on physical attacks, but hey, maybe it would work on magic too after it hit intermediate proficiency. She could hope, right?
+
+Mind set, the demon selected the skill.
+
+[You have selected the [Basic Enfeebling Strike] class skill]
+
+A brief wave of warmth passed through her, but Pyre was already focusing on the next notifications. There was just the new titles and subtraits to look at now, and she made the executive decision to view the subtraits last. The demon pulled up her two new titles.
+
+Title: Group CombatYou are familiar with group combat. When fighting with allies, in addition to receiving experience from your own direct contributions, you will receive a portion of experience for the foes your allies defeat within the same combat.
+
+Title: Chimera KillerYou have slain a chimera, gaining knowledge and experience from the encounter.You deal more damage when fighting chimeras.
+
+To be totally honest, Pyre hadn’t thought too hard about how experience worked when fighting in a “group,” as the title said, though she’d argue that two people hardly made for a group. Whatever, she wasn’t gonna complain about getting a new title.
+
+Based on the description, it sounded like you automatically got experience for your own direct kills (obviously), but also for “contributing,” which she guessed meant dealing any form of damage to a target even if you weren’t necessarily the one who dealt the final blow. This title took it a step further and let you gain experience from stuff your allies did without any help from you at all so long as you were both active during the fight.
+
+It sounded like a pretty good deal to Pyre, and it meant fighting in groups was probably way more advantageous than fighting solo in general. Her eyes flashed briefly over to Callan, who was hovering around the clearing switching between keeping watch and viewing his own notifications. She focused on her system screens again. She didn’t know how much use she’d get out of the title, but she was glad to have it.
+
+Chimera Killer, on the other hand, was very straightforward. If she ever ran into another chimera, she’d be able to do more damage to it. Nice and simple and good for her.
+
+With that out of the way, Pyre directed her attention to the last thing on her menu: the subtrait shards.
+
+First, she agreed to apply all of them. It was nice that three of the unique subtraits she’d gotten from the chimera only needed one shard each. It probably would’ve been hard to find a lot of those elsewhere. She’d also gotten another [Vibration Sense] shard, but that wasn’t nearly as interesting as the other four.
+
+Once the waves of warmth faded, Pyre started pulling up the new subtraits and reading through their descriptions.
+
+She quickly realized she couldn’t pull up a description for [Skeletal Recall], probably because she still needed two more shards to get the subtrait, which was a shame. That was one of the ones without a self-explanatory name, too, but she supposed she’d just have to wait until she got more of those shards. For now, she read through the three windows that did appear.
+
+Subtrait: Bone ArmorAllows user to create bone plates across the body with increased hardness and durability. These bone plates are also more resistant to magic. They must be created flat atop the flesh and cannot be extended out like regular bone growths.Main Trait: [Ossification]
+
+This must be what the chimera had. Well, Pyre had seen firsthand how tough this shit was, so she was glad to add the subtrait to her arsenal. It was a little unfortunate that she couldn’t create, like, extra durable spikes to stab things with, but she’d take the defensive boost.
+
+Subtrait: Incorporeal TouchAllows user to physically interact with incorporeal objects and creatures as if they were tangible.Main Trait: [Amorphous]
+
+And this was the subtrait that had let the chimera hit Callan. It also would’ve been super useful against that very same chimera, but better to have it late than never. At least now Pyre wouldn’t have to struggle so much if she ran into another incorporeal being, especially since she couldn’t use magic, which seemed to be the “default” solution for them.
+
+A part of the demon had hoped to get whatever ability had let the chimera turn itself incorporeal at will—that shit was seriously busted—but it was probably a main trait. Not the kind of thing she could get via subtraits, unfortunately, but this was definitely better than nothing.
+
+Finally, the demon moved on to the last subtrait she’d gained.
+
+Subtrait: Memories of the FleshWhen the user devours a target’s flesh, user is able to view flashes of the target’s memories. At lower main trait levels, these flashes are random, but a target can consciously guide certain memories to the surface. The intensity and detail of these memories increases with the main trait’s level. At higher levels, user is better able to influence what memories are seen.Main Trait: [Flesh Eater]
+
+This was a weird one, to be honest. Frankly she’d had no idea the chimera had an ability like this to begin with, but then again the thing hadn’t been able to talk, so it wasn’t like it could say it. She wasn’t sure what to do with the subtrait, either. Maybe it could be used to gather information, but at low levels it didn’t sound like she could control what she saw anyway.
+
+For a second, Pyre wondered what would happen if she ate some of her own flesh. There was still a torn-off chunk a little ways away that hadn’t totally melted yet, after all. She eyed the little piece of flesh.
+
+Fuck it. She had nothing to lose.
+
+Extending some of her body out, she bit her second mouth into the half-melted flesh. Then promptly spit it out when it tasted like absolute dogshit.
+
+“What the fuck?” Callan yelped. Pyre ignored the ghost in favor of trying to get the taste out of her mouth.
+
+Right, detached flesh counted as dead flesh. And she hadn’t seen any memories, either, so that had been for nothing. It had been a long shot anyway. She doubted the subtrait could see memories that were literally missing. Even the fact that the target could apparently guide what memories were seen implied you had to be consciously aware of them.
+
+Ah well, now she knew for certain. She still wasn’t sure what to do with the subtrait, but there was no harm in having it. If it ever became a problem, she could just turn it off.
+
+Now that that was done, Pyre finished up her great system message review by dumping 10 points into strength, 15 points into both constitution and magic resistance, and the last 5 in agility.
+
+There. That should be everything. She willed away any lingering screens, then assessed her injuries again.
+
+[Regeneration] was already doing work, probably helped by the sloth bonus effect since she’d been pretty much lying still while sorting through her system stuff. She was nowhere near healed—her flesh still felt quite a bit more tender than usual, and only a bit of the torn off flesh had started to regrow—but she could at least move now without immediately falling over.
+
+A quick sweep of the surroundings revealed just her and Callan in the clearing. Still, they should probably get moving soon. Weren’t a lot of ways to explain the cracked ground and the dead chimera corpse.
+
+“Hey, you done dealing with your system stuff?” Pyre carefully maneuvered over, and yep, that definitely hurt. She had to purposely avoid warping any area near the torn off parts, but that was kind of hard to do when that was damn near half her body. Thank god she had a high pain tolerance or this would be even shittier to deal with. As it was, it was mostly just kind of inconvenient.
+
+Callan snapped back into focus. The ghost had been hovering by the chimera corpse, staring down at its mangled body with a weird look on his face. He now cleared his throat and nodded at Pyre.
+
+“Uh, yeah. Are you okay now?”
+
+“Depends on your definition,” the demon said dryly, “but I can move at least.” To emphasize her point, she carefully began making her way towards the open cave. Callan hurriedly followed behind her, still eyeing the flayed part of her flesh with visible concern.
+
+The cave opening wasn’t especially large. Pyre had to warp into a shorter, squatter shape so she could actually get in. At a glance, there didn’t seem to be much but rocks and more rocks inside. The cave was cool, protected from the brightest of the sun’s rays, and slightly damp. The sound of the waterfall was both dulled, yet also echoed more, adding to the enclosed feeling of the space.
+
+“Do you see the crystals?” Callan called. The ghost was still hovering by the entrance, and he looked like he was debating with himself whether to go in or not. Pyre grunted in response, then moved deeper into the cave until she reached the very back. She paused.
+
+Ah. Not so empty after all.
+
+Stashed against the walls of the cave, various random trinkets, plants, and knickknacks lay in haphazard piles. Based on how messy it was, Pyre guessed the chimera hadn’t been going out of its way to collect treasure or anything like that. The piles of junk were simply where it discarded the “nonessentials” on its food.
+
+Because in addition to the random items thrown about, there were bodies.
+
+Parts of bodies, to be exact.
+
+Ripped off limbs, a cracked skull with bits of rotting flesh falling off, piles of bloody fur, a few torn open torsos revealing curved ribs and the splayed remnants of soft organs. The chimera apparently had quite the diverse diet, considering the sheer variety here. Pyre couldn’t even recognize what animals half of the parts had come from.
+
+The humans, at least, were easier to distinguish. There weren’t many of them—three still wearing bits of Winrow’s guard uniform, probably from when the chimera had attacked the sanctum, and one with a ripped open stomach who had probably been a traveler or another unlucky victim from the village.
+
+And there, at the very back, lay a sprawled corpse with a familiar face.
+
+Of all the human bodies, his was in the worst condition. His limbs were crooked and broken, and he was covered in so much dried blood and cuts and bruises that it was hard to tell what color clothes he’d been wearing. Half of his head was missing, his skull bitten clean into, but the other half was enough to recognize him by—even if the wide-open, empty stare was decidedly different from the ghost currently tagging along with her.
+
+Pale and unmoving, this was the first of the chimera’s human kills.
+
+“Uh, Pyre? I think I found the crystals.”
+
+The demon heard Callan’s voice approaching from behind. It briefly occurred to her that maybe the kid seeing his own dead body wasn’t a good idea, but by then it was too late. From one of her eyes, she saw the ghost drift closer, then freeze. His eyes were glued to that limp corpse lying at the very back of the cave.
+
+For a moment, he didn’t move or speak. He just kept staring, unable to tear his gaze away. Pyre watched him silently, waiting for him to do or say something.
+
+A few seconds later, the ghost broke into a fit of hysterical laughter.
+
+Pyre raised an eyebrow. The sound echoed throughout the cave, a mix of actual laughs and littles wheezes. Callan nearly doubled over from the force of the laughter, and by the time it faded, he was still hunched over, face hidden from view. After that sudden burst of sound, the new quiet of the cave stuck out even more jarringly.
+
+“You okay, kid?” The demon’s voice reverberated throughout the space. A few seconds passed.
+
+Finally, the ghost replied with a muffled, “Yeah.” Pyre waited for him to continue, and after a few more moments, Callan slowly straightened again.
+
+“Sorry,” he muttered. “I don’t know what came over me. It’s just—I look so pathetic.” Another harsh laugh bubbled out of his throat, this one stinging and bitter. “I couldn’t even die right.”
+
+Pyre gave the ghost a long look. Her grey eyes shifted over to the corpse again, taking in the array of injuries, the mangled state.
+
+“Looks to me,” she began, “like you fought like hell. Nothing pathetic about it.”
+
+Callan’s eyes widened. His mouth opened, then closed again. A storm of emotions crossed his face, far too complex to decipher. The demon gave the ghost another glance before focusing again on the cave.
+
+“You said you found the shards?” she said conversationally.
+
+Callan swallowed. “Um, yeah.” His voice came out in a mumble. He pointed to the other corner of the cave, and sure enough, nestled between a pile of bones and some broken branches, there sat two smooth, round stones that glowed with a faint silver light.
+
+Pyre carefully extended part of her flesh, which was a lot harder to do with so much missing, and wrapped it around the stones. They were cool to the touch—almost icy. They didn’t feel all that special, but the class crystals hadn’t either. Satisfied, the demon began making her way out of the cave.
+
+She paused, moving an eye back to study Callan. The ghost hadn’t moved from his spot. She raised an eyebrow.
+
+“You planning on staying there or what?”
+
+The words seemed to snap him out of his trance. He quickly drifted forward, following the demon out of the cave. “What’re you doing after this?” he asked once they were back in the clearing.
+
+“After healing, you mean? Well, I’ve still gotta go get whatever that thing Pax wants is.”
+
+Callan nodded slowly. He seemed to hesitate for a moment. Then, he blurted, “Can I come with you?”
+
+That made the demon pause. Of all the things she’d been expecting, that hadn’t been one of them. Behind her, the ghost hovered back and forth uncomfortably.
+
+“It’s just, technically this was also part of the price,” he stammered. Callan raised his wrist to show the bracelet still dangling on it. “So, uh, I figured it was only fair I help out.”
+
+That was technically true. Pyre hummed. “You’re not staying in Winrow?”
+
+Callan gave a wry smile. His gaze darted briefly to the cave, then to the mangled chimera corpse, then beyond the clearing to where Winrow lay nestled deep within the forest. He shook his head. “There’s nothing left for me here,” he said, voice firm.
+
+Pyre thought about it for a long moment. “Well,” she finally began, “if you want to tag along, I’m not gonna say no. A mage is pretty useful to have around.”
+
+The demon grinned. “Just so you know, I can hit incorporeal things now. If you get too annoying, I might just eat you.”
+
+Callan just rolled his eyes. “Ha ha,” he said sarcastically. There wasn’t an ounce of fear in his voice.
+
+He floated forward, moving past the chimera’s corpse with one final glance before turning away from it for good. “Do you know how long it’ll take you to heal?” he asked the demon.
+
+“Nope.” Pyre shoved aside some bushes, albeit a bit more carefully now to avoid worsening her injuries, and quickly spotted the bag she’d left in the grass. She maneuvered the evolution crystals into the bag, then grew another bone to hang it on like before. “I know a place we can hunker down in, though. Once I’m healed up we’ll set out.”
+
+Callan looked equal parts curious and also slightly suspicious. “Where?” he asked.
+
+The demon shot him a wide grin.
+
+“I think it’s time for you to meet an old buddy of mine.”

@@ -1,0 +1,217 @@
+---
+id: ee457260-5995-568e-a87e-3605529d817f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 432: Fungaloth Ravager"
+slug: 0469-chapter-432-fungaloth-ravager
+partOf: dungeon-of-knowledge-complete
+position: 469
+ownLength: 3171
+unit: words
+ownProgress: 3171
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2737607/chapter-432-fungaloth-ravager"
+royalRoadId: "2737607"
+markedReadAt: "2026-06-29T20:28:04.973Z"
+---
+
+Calen frowned, his mind struggling to piece out a workable strategy. He was sitting in the makeshift guild headquarters – nothing more than a convenient clearing with a few rocks and logs for seats – where they had been discussing the Fungaloth Ravager for over an hour without much progress.
+
+It wasn’t for lack of information – they had more than enough failed attempts now to fully understand the boss’s abilities – it was simply that he didn’t see how they could win. All of the newly platinum adventurers had leveled up on the sylvan archer in the ruins of the town, and Ali was in the process of securing the entire area by having her domain destroy the domain of the Blooming Rot. Soon, they would be able to secure the town and the sewers.
+
+But the Fungaloth Ravager seemed to be a hard stop for the guild – a fight of such difficulty that they were unable to progress. And without fully wiping out the dungeon, they could not ensure the safety of the town above it. They could not begin to rebuild and repopulate.
+
+“Can’t we just run out of the aura?” Aiden asked.
+
+“Tried that,” Belmar said.
+
+“The suppression effect persists for ten minutes after you leave the aura,” Calen said.
+
+“Perhaps we should ignore it and try going around?” Aiden said. “Didn’t you say there was another entrance up in the mountains?”
+
+“I fear that engaging the final boss will attract the attention of everything remaining in the dungeon,” Lyeneru said. “I don’t recommend that approach – we need to kill this here and now.”
+
+“But how? Even healing potions trigger that stupid suppression,” Teagan complained.
+
+How indeed? He reviewed the abilities they knew about carefully. By now, he was more or less certain the boss had a vitality enhancement – the healers all universally reported it had much more health than expected. When engaged, the boss emitted an aura of rot that constantly damaged anyone nearby, and ‘nearby’ was quite a lot larger than even his maximum range with a bow. Which, as Mato had memorably put it, sucked like the raw end of a town sewer.
+
+Then there was the disease – Creeping Rot – a progressively degenerative disease. On its own, it had a minor vulnerability component, but it grew on every tick of nature or death damage, and the boss dealt both. The disease grew so rapidly under the influence of the rot miasma aura that it eroded all nature and death magic resistance until the miasma itself became untenable, causing them all to flee.
+
+But the real nail in the coffin was the healing suppression. No matter how far they went, all healing trait skills gained a one-minute recharge, and worse, the recharge was on the trait itself, so they couldn’t even leverage classes with multiple healing skills. All healing traited skills or abilities gained the recharge penalty simultaneously. Including healing potions, as Teagan had pointed out.
+
+The more people they brought to the fight, the more healing they required to survive the rot aura and the disease. He’d asked Ali to bring a dozen extra healers, but that attempt had been a spectacular failure as they failed to keep up with the aura. But fewer people meant the fight lasted longer, and that had other problems.
+
+To make it worse, the boss constantly summoned Frenzied or Enraged Creep Spores, which exploded with rot damage – rot damage that healed the boss and gave it temporary enrage or frenzy.
+
+“This fight is impossible,” Teagan said. “There’s no way to heal and cure so much, so quickly. If we found a way to remove the suppression, it would still be hard.”
+
+“Yes, but we cannot,” Vivian said.
+
+That was the crux of the problem. I’m not thinking about this properly, Calen thought. There was a solution in there somewhere, but he was stuck on the suppression aura, just like everyone else. They kept coming back to that, but there was much more to the fight than that.
+
+We need to come at this from another direction.
+
+“Mato, is your damage redirection a healing skill?” he asked.
+
+“Yes, Arboreal Sanctuary and Brutal Restoration are both healing traits. If I transfer damage, I can’t use Brutal Restoration for a minute.”
+
+“Hmm… What if you did the fight as a tree?” he asked. “You wouldn’t need Brutal Restoration. And then you could use damage redirection every minute, and your aura would give everyone health regeneration and cure the disease.”
+
+“Sure, but the boss hits very hard,” Mato said.
+
+“Maybe we can have Havok tank it?”
+
+“Havok holy is heal,” Havok said.
+
+“What?” Calen frowned at the Goblin’s butchered wording.
+
+“Too many of Havok’s tanking skills are also healing skills because of his holy affinity,” Aiden said, translating. “So, he would struggle to tank under the suppression.”
+
+“Sabri? Can you tank it?” Calen asked, turning to the Ahn Khen warrior.
+
+“I’m not sure,” she said. “I can try.”
+
+“She’s totally got this,” Mato said. “I can do the tree, and that should help keep the disease under control.”
+
+“What about non-healing healing?” Ali asked.
+
+“What do you mean?” Calen asked.
+
+“Well, Mato’s regeneration aura got me thinking. It’s always on, and it doesn’t count as a Healing trait activation, right?”
+
+“Yup,” Mato said, nodding.
+
+“Malika said her Soul Strike skill isn’t affected by suppression,” Ali continued.
+
+“Wait, seriously?” Calen said.
+
+“Only Healing Mantra,” Malika said. “I see what Ali’s going for here. Soul Strike doesn’t heal a lot on its own, and I can’t heal anyone else with it, but with my defensive traits, it’s more than enough to keep me healthy. Your bow’s health leech is probably similar.”
+
+“My blood shamans have the Vampiric Hex curse that heals anyone hitting the boss. That’s not a healing trait spell either,” Ali said. “My imps heal from hellfire damage, and Seth’s undead heal from his Volatile Wraith explosions. We could try to leverage those effects to offload the healers.”
+
+“I have Life Tap – that’s also a curse that heals on damage,” Seth added quietly from the back of the room.
+
+“I can also make those Sylvans. They can heal themselves with their parasitic enchantments, and we can also poison them to keep them healthy.”
+
+“Ok. Now we’re talking. These are great ideas!” Calen said, quickly making note of each suggestion.
+
+“I think we should handle this like we did the Inferno and the rest of the fire dungeon, Calen,” Ali said. “Everyone should be responsible for their own health. At least as much as they can. We should see if Eliyen can make rot resistance elixirs, or at least nature or death absorption potions, and then enlist the help of all the crafters to make resistance gear. Everyone should have health potions, and we should get a list of any absorption or alternate healing, or regeneration skills that we can leverage. If your health leech works, every melee fighter and archer should have leech bracers or boots made.”
+
+“The Fungaloths and a few other monsters drop rot essences,” Basil said. “I think if we can farm enough of those, we can make the elixirs.”
+
+“This might just work,” Teagan said, her expression of frustration and despair slowly disappearing.
+
+“If the healing rotation focuses on the main tank exclusively, we can do it,” Belmar said. “If we can cover the raid with just an occasional group heal and rely on everyone keeping themselves alive with potions and stuff, it might be doable.”
+
+“It will take a while to get all the gear made,” Calen said, but that was merely a problem of resources and time – something tractable that could be tackled systematically and productively. He already had a useful map of the remainder of the dungeon and where the creep spawners were, so they could easily make small groups to go Fungaloth hunting.
+
+“I’ll go see about upgrading my Forest Guardians,” Ali said. “I think we could use more regeneration auras and nature absorption.”
+
+Finally! Making a bit of a show of mopping his forehead, he grinned at the tiny Fae. “Go fix those minions of yours, and if you’ve any more bright ideas, I’ll be right here beating my head against this strategy.”
+
+“Oh, you poor thing, all those paper bruises?” she cooed.
+
+Calen made mock-growl. “How’s about I swat you with this paperwork, you pest?”
+
+Sabri stood a little off to the side while the raid group prepared, calming herself with the ancient breathing techniques taught to her by her mother when she was a child. She wanted a few moments to prepare, given that she was about to walk out as the main tank for one of the hardest fights the guild had yet seen.
+
+“Nervous?”
+
+She glanced up from her reverie to find Mato standing beside her, the huge Beastkin towering over her, but he too was looking at the Fungaloth Ravager, studying it carefully.
+
+“Not really,” she said, surprised to find out that it was actually true. Perhaps she was finally getting used to this. She was as prepared as possible, decked out in brand-new armor forged from some Bloodstone Ali had recovered in the abyssal realm, and a gleaming mithril shield that matched her new level. Thuli had even consulted with Zor’kan, and now she had a modest life leech on her mithril bracers. Every bit counts. To think I got annoyed with Calen drilling that into me. “I tanked the Ravager in the Landing, and you know how hard it hit. I have better armor now, and an evolution.”
+
+Mato simply nodded, choosing to remain silent as they waited for the healers to organize themselves.
+
+“Ok, going in five minutes. Everyone, get ready and take your elixirs,” Calen said, his voice cutting across the chatter, leaving the silence of anticipation in its wake.
+
+Mato downed a potion, and so Sabri retrieved hers from her storage ring. Everyone would be using rot resistance elixirs, except her. She would be using a Stonecap Armor elixir – a vastly superior choice for her, as the primary damage she would be tanking would be the physical strikes of the powerful fungal aberration.
+
+She uncorked it and downed it, grimacing at the gritty texture, the flavor exactly what she imagined powdered granite might taste like. But in moments her skin darkened, hardening dramatically under the influence of the potent elixir, but she knew from lots of experience that it would not hinder her movement much.
+
+“Ok, Sabri, we’re ready.”
+
+She nodded and stepped forward, a flutter of nervousness filling her heart, but it was nerves for suddenly being out front and the center of attention for twenty-five people who were pinning a lot of their hopes on her, and not the job she knew she could do.
+
+“I’ll be right beside you,” Malika said. It was part of their strategy – Malika was one of the few healing classes that could handle physical and magical damage, and so she would be the first healer in the rotation, and also up in the thick of it with her.
+
+Sabri nodded and then readied her shiny new shield, marveling at how light it was. Puffing out her cheeks, she focused. Ready.
+
+She charged, rushing across the fungal creep toward the giant monster. It raised its head and let out a chilling rumbling screech that made her skin crawl, but she had heard it many times before, and she simply set her feet, using the power from the ground through her shield to strike the monster, hitting it squarely in the throat. Its screech halted instantly, and it lashed out with a huge, knotted, and twisted heavy paw, smashing down at her. Spiky claws raked at her body, drawing blood and scraping down her breastplate. A choking cloud of sickly green miasma billowed about her, seeping into her pores with all the power of its destructive rot.
+
+You have been infected by Creeping RotA wasting disease that rots the flesh, spawning fungal growth within its victim.Rot Vulnerability (-10 to resistance against Nature and Death)Nature or Death damage causes the Creeping Rot to grow.Small chance per vitality point to recover from Creeping RotDisease – Count: 1.
+
+She cried out a wordless challenge, imbuing her voice with the full power of her new evolved Soul Shout, boosting the skill level of her Mastery skills while tearing into the monster and taunting it.
+
+You gain +5 to the skill level of all Mastery skills.
+
+It roared and bit down on her shoulder, but she twisted free and struck back. Carefully, she circled the monster, turning it around and backing up to the rocky wall, which was the chosen tanking spot, trading blows and feeling the rot begin to settle into her muscles and skin.
+
+Your Creeping Rot has increased to 5 (+4).
+
+She took yet another hit, anxiety building in the back of her mind. Never had she tanked a monster for so long without healing; she was rapidly dropping below half. Even though she knew the strategy, it made her heart quiver and her chest tighten up.
+
+Your Creeping Rot has increased to 7 (+2).
+
+Another hit, which she blocked, and then she saw the big strike coming. It reared up on its two back legs, lashing down at her in fury, using the full extent of its reach and enormous weight to crush her.
+
+She triggered Critical Block.
+
+The monster howled as its attack was turned back on itself, and she suddenly had to block a furious counter-strike and a vicious bite, dropping her below twenty percent health in an instant.
+
+Your Creeping Rot has increased to 10 (+3).
+
+A brilliant flare of stamina surged beside her, and she felt the burning rush of Malika’s healing filling her rapidly until it overflowed in a huge swelling sphere of rippling blue-white light.
+
+“Healed. Teagan, you’re next,” Malika yelled, kicking off the healing rotation.
+
+Breathe! Sabri hissed inwardly, annoyed at how the attack had shaken her. Right. Focus, discipline… for the honor of my Ancestors!
+
+Suddenly she was smiling. “Come on, you ugly sack of sap, I’ll turn you into an Ooze!”
+
+Mato ran in, following Sabri and Malika, but without the charge skill granted by his Bear Form, he rapidly fell behind, only reaching his spot well after the battle was already engaged, and he could already feel the rot aura tearing at his skin.
+
+Your Creeping Rot has increased to 6 (+2).
+
+He wished Sabri a silent good luck and twisted his body, warping and growing as he changed from flesh and blood to wood and sap. His roots dug deep through the fungal creep and into the rocky ground of the cavern below, where once Ali had planted a forest. His branches and leaves grew up and over the battlefield, and then his aura exploded outward.
+
+You have been afflicted with Suppression.+1 minute recharge to all Healing skills. Magic – Aura
+
+He had expected this. His transformation to Tree Form was technically a healing trait skill activation, and he would be unable to heal or transfer damage for a minute. But his aura was already on.
+
+Slowly, his mind cleared, and he looked down from the strange all-around perspective of a tree, finding his mind suddenly quiet. He explored his aura with his perception and senses, identifying each adventurer and even the minions. He hated the necessity of Seth’s undead, but they would most certainly pull their weight in the fight.
+
+“Healed. Teagan, you’re next,” Malika yelled, kicking off the healing rotation.
+
+And with his awareness, his Sanctuary began dissolving the Creeping Rot that afflicted almost everyone in the raid already. He checked, making certain everything was in place, guiding his Lirasian Sage to hover high among his branches, granting her boon to the entire raid group through his Sanctuary. It was a blessing in disguise that he had been forced to invest in wisdom for his parasitic items. He had mostly focused on his attributes for his Bear Form, but in Tree Form, wisdom and vitality were paramount, and with his wisdom easily surpassing two thousand now, because of his shapeshift, he was now sharing more than eight hundred and seventy-five percent health regeneration with the entire raid group. And it was cumulative with the Forest Guardian Ali had chosen to bring.
+
+He settled in, calmly following the shouts as the healers settled into their rotation for the long haul, while studying Sabri’s tanking. She’s a natural, he mused, seeing how she anticipated the strikes, making optimal use of her shield both for defense and attack. There wasn’t a whole lot for him to do other than share his aura. He couldn’t use Holy Consecration unless he wanted to blow his one minute, but it seemed the gear, potions, and his regeneration were holding steady.
+
+“Healed, Belmar, you’re next,” Teagan shouted.
+
+“Spores!” Calen shouted. “Archers take them down!”
+
+Mato found them easily, spawned from the creep near the wall, and he reached out with his Grasping Roots, grappling with the strange spores, pinning them down and hindering their progress as they struggled toward the Fungal Ravager. One of the major parts of their strategy was preventing the boss from healing when the spores exploded. And he couldn’t really do much else, so he held them in place while the archers took them down.
+
+“Fuck, I’m on recharge,” Belmar exclaimed, “I used a healing buff by accident.”
+
+At that instant, Mato sensed the enormous incoming bite as a premonition of danger, not for himself, but for Sabri. In the calm of his tree-mind state, he understood. The healers were scrambling to try and cover for Belmar’s mistake. Sabri had just taken several huge bashes and had just used Critical Block, and she was already down to about fifteen percent health, expecting to be healed about every ten seconds, but now there was a gap in the rotation and likely the next healer had a few seconds left on their recharge because of the gap.
+
+The Fungaloth Ravager lashed downward, snapping its jaws shut on Sabri with crushing force, and Mato’s trunk splintered from the damage as he redirected it to himself.
+
+You have been afflicted with Suppression.
+
+He didn’t have nearly the armor he had in Bear Form, but he had more than forty thousand health as a tree. He wouldn’t want to take many strikes like that, but redirecting an attack to save Sabri was not about to put him in dire straits.
+
+Sabri downed a health potion, and Mato noticed one of Ali’s strange tree druids using its heal to cover the rest instead of healing the raid members. Sabri was still critically low, but she used a defensive skill, enhancing her blocking power, and she made it the ten seconds she needed till the next healer dropped a full heal on her.
+
+Mato sighed his relief as a ripple through his leaves that carried outward through his Sanctuary aura.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

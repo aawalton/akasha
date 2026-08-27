@@ -1,0 +1,171 @@
+---
+id: 2d678b8a-8786-519b-8358-e2068446e209
+page-type-slug: story-chapter-royal-road
+title: "Chapter 431: A Meeting In The Forest "
+slug: 0468-chapter-431-a-meeting-in-the-forest
+partOf: dungeon-of-knowledge-complete
+position: 468
+ownLength: 2715
+unit: words
+ownProgress: 2715
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2734601/chapter-431-a-meeting-in-the-forest"
+royalRoadId: "2734601"
+markedReadAt: "2026-06-29T20:28:02.760Z"
+---
+
+Malika bent down to pick up the bows that were still clutched in both of the Sylvan Archer’s two left hands, but the moment she saw the strange tendrils and roots that bound them to his arms and heard the disturbing whispering just beyond the threshold of understanding, she yanked back her hands and decided to Appraise them first.
+
+Mato would be insufferable if I also got caught by a cursed item. Funny, but not the sort of funny I want right now.
+
+The Scourge of Deadly Creep – level 140A longbow of gnarled and twisted dark wood, covered with strange fungal spore pods. Every arrow fired from this bow trails a cloud of green spores in its wake. Damage: Ranged, Physical, Nature20% chance to inflict level 47 Deadly Poison on hit.20% chance to cast level 53 Grasping Roots on hit. +80 Dexterity.+15% increased attack speed.+2 to skill level of Ranged skills.Creep Spores (35% chance to summon a level 12-31 Creep Spore on hit).Parasitic: +7 Nature damage to wielder on activation of a skill or ability. Requires 140 Wisdom and Strength to unequip.Requirements: Strength 145, Dexterity 1470Quality: Rare.Value: 237 gold.Two-Handed – Bow
+
+“Hey, Calen, how much strength and wisdom do you have?” she asked.
+
+“One hundred and twenty-eight strength and a hundred and five wisdom, why?” Calen asked. “Is the bow good?”
+
+“Here,” she said, sharing her appraisal. “You have a few levels to go, but it looks incredible.”
+
+“Huh, that’s impressive! I might actually use it even with that parasitic enchantment,” he said.
+
+Malika activated Appraise a second time, this time targeting the ethereal, whispering bow.
+
+Death’s Grasp, Spectral Bow – level 140An ethereal bow of shifting darkness, exuding a powerful malevolence. When held, this bow whispers of insanity and the barely intelligible memories of the forgotten dead. Damage: Ranged, Physical, Death+124% Physical damage with this weapon.50% of Physical damage is converted to Death.32% chance to inflict level 47 Death’s Grasp Curse on hit.+80 Dexterity.+64 Perception.+2 to skill level of Mastery skills.Parasitic: +5 Death damage to wielder on activation of a skill or ability. Wielder is afflicted with Death’s Grasp curse on equip, unless intelligence is greater than 735. Requires 130 Wisdom to avoid being driven insane by the whispers. Requirements: Strength 150, Dexterity 1470Quality: Rare.Value: 307 gold.Two-Handed – Bow
+
+“Wow, this bow is insane,” Malika said, only realizing the play on the parasitic enchantment after the words left her mouth. She studied the creepy whispering bow closely before she gingerly picked it up, knowing her wisdom was far higher than the requirement, but her intelligence was not. Her chime sounded instantly as she felt the death mana settling into her bones.
+
+You have been cursed with Death’s Grasp+34 Death damage per second.Death Vulnerability (+25% more damage from Death).Level 56 Raise Zombie cast on death.Curse – Duration: 30 seconds.
+
+“What is it?” Calen asked, his curiosity written across his features.
+
+Malika didn’t bother healing herself, relying entirely on her Soul Armor’s magical damage reduction, which rendered her immune to the effects, but Ali’s witch doctor decursed it quickly. The bow’s parasitic enchantment reapplied it immediately.
+
+“This bow seems even better,” she said, sharing the appraisal with the team, getting a raised eyebrow from Lyeneru and a gasp from Calen.
+
+“That’s a ton of damage,” Calen exclaimed, excited by the bow’s enchantments. “I just need a few levels and some more wisdom.”
+
+“You should get a pair of boots like mine from Zor’kan,” Mato said, sharing his boots.
+
+Sage’s Dragonscale Boots of Fire – level 110Leather boots crafted from the scales and hide of a red fire drake. Even though these are merely the leather and scales of the drake, the boots are warm to the touch and emit occasional wisps of smoke. Linked to your mana, this armor will shapeshift with your changing forms. Melee Attacks gain +7% additional damage as Fire.+65 Wisdom+52 Strength+26 EnduranceMana: Shapeshift.Requirements: Strength 385Created by Zor’kan.Feet – Dragonscale Hide.
+
+“Although he did say he needed some higher-level leather,” Mato finished.
+
+“I can make some evolved dragons now, and the demons too, if he needs leather,” Ali chipped in.
+
+Malika nodded. Ali was always game to help the crafters. As they continued discussing the bows, Malika stored them in her ring and opened her notifications from the fight. She was quite satisfied with her performance this time; the Sylvan Archer had never successfully used his Disengage for the entire duration they were fighting, thanks to her increasing proficiency in Martial Disruption.
+
+Eyes of the Soul has reached level 125 (+4).+40 attribute points.Martial Artist has reached level 65 (+2).Soul Strike has reached level 67 (+2).Healing Mantra has reached level 78.Perfect Body has reached level 46 (+3).Soul Armor has reached level 57 (+2).Enlightened Evasion has reached level 50.Divine Step has reached level 61 (+2).Clarity has reached level 44.Soul Sight has reached level 43 (+3).Appraise has reached level 30.
+
+That’s really good for a quick fight. Now, what to do with my points? Her primary attributes would obviously get the lion’s share of the new points, but she still wanted a reasonable boost to the others. After a quick discussion with Ali, she dropped two points each into strength and intelligence, and four each into vitality and perception. She then put nine each into endurance and wisdom, and the remaining ten into dexterity. Instantly, she felt a lightness of both mind and body as her new attributes took effect.
+
+This feeling will never get old.
+
+Ali flew over to the boss and alighted on the spongy, damp creep beside the corpse, immediately deconstructing it before the dungeon could spawn any corpse flowers on it. Her Grimoire appeared, inscribing a few more sections of glowing runes into the Sylvan chapter, presumably to reflect the higher level of the monster they had just defeated.
+
+[Sage of Learning]You have learned the Sylvan Language.Domain Magic analyzed: Zone of Destruction (Rot).Domain Magic analyzed: Attribute Enhancement (Dexterity).Domain Magic analyzed: Summoning.
+
+Wait, did I just learn a language from the Grimoire imprint? How… Is this the effect of Minion Ego again? Ali studied the changes to the imprint, but a ready answer was not easily forthcoming.
+
+It was a little disappointing to get no new Domain Magic spells from the fight. Even the rot-affinity version of Zone of Destruction – a combination of both nature and death – was one she had already collected from the Plague Ghoul in the Lyton Ruins.
+
+But with the boss no longer reinforcing the domain, she could reclaim all of the above-ground ruins of Myrin’s Keep. “I need a few minutes to take over the domain in this area, and then we can move on.” She summoned her magic, but she was suddenly interrupted.
+
+“Wait, Aliandra,” Lyeneru said, alighting on the ground beside her.
+
+Ali and everyone else stared at her in surprise. “If I don’t clear the domain quickly, everything is going to respawn. Including the boss.”
+
+“Explain yourself, Lyeneru,” Vivian said, her tone, while not combative, was most certainly guarded.
+
+“We just unlocked almost fifty evolutions, new platinum adventurers and Pathfinders that are sitting just a little above level one hundred, now. This boss should be an easy fight with proper preparation, and it’s on an accelerated respawn. I suggest we take advantage of it to increase our strength before eliminating it permanently. If everyone kills it at least twice, we should get a lot of level increases. Not to mention, those bows are extraordinary. With careful attention to attributes, they could provide an enormous power increase for the archers, and Aliandra can most likely manufacture as many as we need.”
+
+Ali glanced around the ruins of the town, hearing the faint sounds of battle as the other raid groups sought out monsters to fight in the hopes of raising their class levels. She has a good point, she thought. The boss would likely prove to be a lot more efficient. And it wouldn’t take more than two more kills to learn the bows. Ali released her domain magic, leaving the marketplace untouched.
+
+“That’s a really good idea,” Vivian said, her guard instantly dropping. “I’ve been thinking about that Fungaloth Ravager and the healing suppression, and I’m pretty sure we’ll need a bigger group and a proper healing rotation to defeat it. Higher-level healers will help a lot.”
+
+It was a boss Ali had only heard about through second-hand information, but the idea of looking ahead to what they must achieve and growing the guild in anticipation would make whatever they encountered down there in the library so much safer. While they discussed the guild strategy, and Calen zipped off to collect the other raid groups, Ali directed her minions to kill the few monsters that were beginning to respawn nearby and instead examined her notifications.
+
+Dungeon of Knowledge has reached level 146 (+3).+30 attribute points.
+
+Gaining three levels is a nice reward for that fight. The biggest reward, however, was how she felt fighting raid bosses with her friends again. The path back out from the rift had been an adrenaline-fueled rush, but here she had finally had the time to ease back into her familiar role and explore how her new minions affected her ability to support the group.
+
+Arcane Insight has reached level 82 (+2).Arcane Recall has reached level 43.Barrier has reached level 80 (+2).Martial Insight has reached level 89 (+2).Empowered Summoner has reached level 68 (+2).Domain Mastery has reached level 47 (+2).Minion Teleport has reached level 40.Identify has reached level 29.Inspiration has reached level 27.
+
+Ali quickly distributed ten points to each of wisdom, intelligence, and perception, deciding that a simple distribution would work well enough.
+
+Then she glanced through her Grimoire. One additional benefit of having the other groups kill the respawned Sylvan Archer was that she could inscribe the variant in her spell book.
+
+I can’t wait. I haven’t had a good archer minion in too long. And this one seemed to be a far better variant than the random trash mobs they had encountered so far.
+
+Weldin fussed over his little table. It was a crude thing he had bought from someone who had rescued it in a storage enchantment when the town had fallen. Why they had thought the table was worth saving during the chaos and mayhem was beyond him, but he had paid quite a lot more silver for it than it was really worth. Still, it was his shop now that everything was gone. At least he had been able to save most of his important wares with his Storage skill.
+
+With Hadrik Goldbeard’s death, he had no idea what would happen to the bank or the money he had invested there. Without it, he had been running his shop almost entirely on barter, with a substantial IOU ledger that was frankly becoming a little unwieldy.
+
+He glanced up as someone approached, flying a little above the damp forest floor that comprised his rustic shop.
+
+“Oh, hi, Aliandra,” he said, smiling as he recognized her.
+
+“Hi, Weldin,” she said. “I’m glad to see you’re ok.”
+
+“Likewise,” he said. “Fighting fit, as they say. I heard you got stuck in another realm?”
+
+“Yes. It was rather terrifying, lots of demons and dragons. Awfully inconvenient.”
+
+“I can imagine,” he said, more to be polite than anything else. He was certain that anything which made Aliandra afraid was far beyond what he could imagine. “How may I help you?”
+
+“Well, I found a lot of stuff while I was there, and I was wondering if you wanted to buy it?”
+
+“Sure, what do you have?” he said, experiencing a little pinch of anxiety at her request. Whenever Aliandra stopped by with ‘stuff,’ it was usually amazing. Amazing, and incredibly expensive – and his liquid cash situation was uncomfortably tight right now.
+
+Aliandra looked left and right, and then, spying his small wooden table, she moved to hover beside it. “Going for the rustic look?”
+
+He frowned. “Not by choice,” he said, clearing off a corner for her to use. Then, after glancing at her expression, he cleared off a much bigger section. Not a good sign; he could feel his wallet wailing already.
+
+Then she produced a chunk of blackness as dark as the abyss itself, suspended up above the tabletop upon a glowing golden disk of her barrier magic. It was so dark he could barely even make out the shape of it, and it sizzled softly in the air. “I don’t recommend touching this unless you want your hand disintegrated.”
+
+“What the…” he gasped, scrambling to Appraise it.
+
+VoidstoneVoid affinity magicite. A powerful, magical reagent that can store void-affinity mana.Grade: Flawless.Value: ~2385 gold.Uses: Magical jewelry, disintegration wands, artifacts, and void-enchanted slashing weapons.Reagent, Crafting Material.
+
+Weldin coughed. His mind froze for a second, and he forgot to breathe as he stared at the blackness, and by the time he regained his wits, Aliandra had covered the corner of his table with various essences. There were greater essences of hellfire, shadow, and arcane. Even Pit Lord blood! But Aliandra was still producing ‘stuff.’
+
+“Wait, are those…”
+
+“Demon Cores,” she said. “Yes. I got one from every evolved demon I killed.”
+
+“Aliandra… I can’t afford all this,” he said. Normally, he would make a plan, find a way to take the items on credit, but this was something else. Just the items she had placed on his table were worth several times more than his entire inventory. Even if the bank was still around, there was no way he could float a loan of this size.
+
+“That’s ok, I don’t need the money right away,” Aliandra said. “You can pay me once you sell it.”
+
+“That might be a while, the bank is gone, and Hadrik is dead,” he said. “Even the auction house was destroyed.”
+
+“I heard,” Aliandra answered. “But I’m not in a hurry, and I trust you.”
+
+“If you’re sure?” he wheezed, staring at the enormous windfall that had just been casually deposited on his rickety table. But she nodded at him with a smile, so he stored everything, being particularly careful with the voidstone.
+
+“Honestly, I’m surprised to find you here, and not out collecting stuff with the raid groups,” Aliandra said as he scribbled out an approximate value on an IOU note and handed it to her. “Thanks,” she said, stashing the note.
+
+“My Town Portal skill doesn’t work without the locus, so I’m stuck in this delightful, upmarket neighborhood,” he said, gesturing expansively and sarcastically at his store.
+
+“You know,” she said. “My domain extends through this area. If you want, I can make you a new locus.”
+
+“You can?” he asked, excitement getting the better of him. “Uh, I mean, that would be fantastic.”
+
+Aliandra just smiled, and her glowing book appeared beside her. Then the forest floor below his feet shifted, suddenly coalescing into a smooth, polished green marble that grew outward, making a large circular floor among the trees that matched the shade of the oak leaves overhead. Magic sparkled as silvery metal inlays grew through the marble, etching out a perfect runic circle, and then suddenly the entire magical formation flared with light before settling down into a soft glow.
+
+“There you go,” she said, gesturing with a flourish. “I hope that helps.”
+
+“It’s perfect,” Weldin said, struggling to keep his composure at the casual display of power. But it was perfect, he could already tell he would be able to memorize this locus easily. Bringing his Town Portal into the dungeon with the adventurers would allow him to stock up on the wealth of monster parts, herbs, and essences they were generating just fighting off the hordes. “Um, is there any chance your magic can make a nicer table?” he asked.
+
+Aliandra just smiled, and then her magic flared once again as stone flowed like water, rising from the marble floor, and before he knew it, he had beautifully sculpted display tables circling the locus made from several different shades of marble. Some of the tables were set for Gnomes, and some for the taller folk, but the taller tables all had convenient step benches so nobody would feel excluded. “How’s that?” she asked.
+
+“That’s… thank you!” he said, not caring for once that he was letting his excitement show.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

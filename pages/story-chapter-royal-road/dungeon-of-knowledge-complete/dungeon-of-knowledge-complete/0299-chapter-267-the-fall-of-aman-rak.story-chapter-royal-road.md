@@ -1,0 +1,165 @@
+---
+id: 5c1ecb5b-a877-5004-ad42-b90a775794dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 267: The Fall of Aman Rak"
+slug: 0299-chapter-267-the-fall-of-aman-rak
+partOf: dungeon-of-knowledge-complete
+position: 299
+ownLength: 2771
+unit: words
+ownProgress: 2771
+publishedAt: 2025-06-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2327216/chapter-267-the-fall-of-aman-rak"
+royalRoadId: "2327216"
+markedReadAt: "2026-06-29T20:21:24.285Z"
+---
+
+Ali’s awareness returned to the gray surroundings of the Spirit Realm. The world flickered and outside, the Temple of Blood was suddenly restored to its former glory. Squatting up against the indistinct trunk of a partially transparent tree beside her, the witch doctor kept watch over her, ready to spring into action at a moment’s notice. A rather impressive pile of dead spiders, scorpions, and even a couple of Ghost Stalkers lay strewn about. The world flickered back to the scene of her friends and the destruction they had wrought upon the temple.
+
+Ali’s attention remained fixed on the Blind Lich’s creation. Even with the gaping hole she had blown through the center of one of the major power conduits, the magic of the array was awe-inspiring. It drew power from the domain mana on the other side, funneling it through to the Spirit Realm using an elegant construction of runes that had taken hours to decipher. The rest was relatively straightforward – it was, in essence, a net. An array designed to collect spirit energy from the death of creatures within the dungeon and use it to reanimate the corpses. With this final array, the Spirit Realm side was much more complex, designed to handle substantially more energy and preserve the corpse too.
+
+Ali studied it with fascination, reveling in the fresh sense of knowledge – of understanding. Especially now, after having seen it in action and having collected all the pieces of the puzzle. However, the elegance of its function and her powerful curiosity were tempered by its horrific purpose. Knowledge – mastery of magic, such as this – was supposed to be used for the good of the world. Or at least pursued for the joy of unraveling the puzzles of existence itself. It was, as she had always believed, the duty of scholars to further understanding in order to elevate people out of savagery and suffering. This, however, was a magic based on death and power, destroying an entire troll nation, abusing creatures, innocent people, and an entire dungeon for the goal of creating more Death Knights and an army of undead to wreak havoc on the living.
+
+Thinking about what had almost been completed here sent a real chill down her spine. If she had ever doubted Nevyn Eld’s arrogance and unadulterated evil, that uncertainty had been purged from her heart just from studying his work – not to mention his utter destruction of an entire Troll nation. Such a loss could not be put into words. It weighed on her heart like invisible shackles.
+
+Carefully, she set about dismantling the remains of the immense structure, not comfortable leaving it intact, even hidden away here in the Spirit Realm where almost nobody would think to look.
+
+“Ok, we can return,” she said, glancing over at her vigilant witch doctor.
+
+“Yes, Seeker,” he said, nodding, and with a shimmer she was returned to the normal realm.
+
+Her friends were all seated around Mato in a space that was not covered in blood, rubble, or corpses, discussing the battle in subdued tones, while Val’korr and Zor’kan sat with an unfamiliar troll family that Malika must have rescued.
+
+“It’s done,” Ali said, sitting nearby to organize her notes. There were only a final few details she wanted to record, minor supporting insights after dismantling the last section of the soul net array.
+
+“You understand the runes he built?” Lyeneru asked, her voice curious but weak as she lay back, propped up on Calen’s rolled-up sleeping bag.
+
+“Most of it, yes,” she answered. “It’s incredibly complex, but the basic idea is to provide the tools to facilitate sacrifice and collect life energy by creating a soul magic net in the spirit realm. It uses domain magic to power a singular spell.” That had been the final key to understanding. After Nevyn Eld had said it, she had finally seen it. The core spell was a perversion of a Domain Magic spell – developed from magic just like the skills she instilled into her bosses.
+
+“What does it do?” Lyeneru asked.
+
+“It makes Death Knights,” she answered.
+
+“Are you serious?” Lyeneru exclaimed, struggling to sit up and then falling back as her weakness overcame her. “The Lich was using the dungeon mana to create a Death Knight? Are you certain?”
+
+“He created that one right before you arrived,” Ali pointed at the enormous corpse of Tol’brekk, lying on his back in a pool of blood like a small hill of undead flesh. “We had already defeated him when Nevyn Eld showed up. The array prevented his death somehow and the Lich tore the collected spirit energy from somewhere – presumably his Spirit Realm collector – and stuck it back in the body with the dungeon mana and the necromantic array powering it. You saw the result.”
+
+Lyeneru just stared speechless as she glanced between Ali and the corpse.
+
+“What?” Ali asked, her curiosity getting the better of her.
+
+“We have been trying to figure out how he created the Death Knights for ages,” Lyeneru finally answered. “The scholars have deduced a lot of clues and hints, but I don’t know of anyone who had figured out the dungeon connection, nor put all the pieces together. To think, he made all this to create a Death Knight.”
+
+“Not just ‘a’ Death Knight,” Ali answered, her mouth twisting sourly as she considered what she had come to realize after studying his magic in the spirit realm. “The net collects the life energy from all the sacrifices in the dungeon and the deaths at the Temple of Blood. It’s a giant trap, and Tol’brekk is not the product – he’s the bait.”
+
+“Bait for what?” Lyeneru asked, but then her eyes suddenly flew wide. She gasped inadvertently. "Me?"
+
+“Yes. It’s a trap for you. And for us, and all the pathfinders you would have sent to defeat this dungeon. He would have turned all the high-level adventurers into Death Knights. This thing is a Death Knight factory.” She tapped the last page of her notes.
+
+“I must warn the guild and the council of archmages,” Lyeneru said, struggling to rise. “Nathaniel Sunstrider needs to be informed at once!” She fell back, panting with exertion.
+
+“Are you ok? I thought Mato healed you?” Ali asked, concerned to see the powerful elf so weakened. Her body looked fine, but she was clearly struggling.
+
+“The tree cured the corruption, so I’m no longer in danger from the Blind Lich’s magic, but his Decrepify spell drained me too much. I have less than ten percent of my vitality and below one percent of my stamina left. I need a lot of time to heal, and probably the help of someone who knows how to treat Life Drain and Stamina Drain.”
+
+“I can take you to Myrin’s Keep. Eliyen Mistwood has treated Life Drain for us before,” Ali offered. Her friends had taken a while to heal after the Life Drain of the Twin Wights – it wasn’t difficult to believe that the draining necromancy of the Blind Lich would be far more potent.
+
+“But… we need to warn the council,” Lyeneru insisted.
+
+“I can deliver your report once we get you to Myrin’s Keep,” Calen offered, and Lyeneru relented, laying her head back once again, clearly frustrated with her status as an invalid.
+
+“Aliandra, may I ask one more favor of you?” Lyeneru asked, after recovering her breath. “The defeat of the Blind Lich presents a unique and rare opportunity. Could you retrieve the dungeon shrine and the body of the Death Knight so the council might study it? The Blind Lich guards those fiercely, and in the history of the Pathfinders Guild we have only ever recovered two – and both were broken. Just make sure to destroy those Grim Totems linked to it before you extract it. If you just rip it out there might be some… instability.”
+
+Ali raised an eyebrow.
+
+“I’m sure you can see how they’re all linked. The mana is knotted – the entire domain could explode. That’s… happened before,” Lyeneru answered her unspoken query, making a sour face, and Ali knew there was an untold story there. “If you dismantle those Grim Totems connected to it, it should be sufficient to remove this and store it safely. I think.”
+
+Ali nodded and got to her feet. “Yes. I wasn’t about to leave it lying about anyway.”
+
+“Oh, and don’t accept ownership of the shrine. It binds you permanently to the dungeon and the Blind Lich can teleport to them when they’re active. We discovered that the hard way, too.”
+
+“I remember,” Ali said. The warning about the binding was well taken, but she most certainly recalled the black blossoming teleport locus and the sudden appearance of the Lich the first time. With that ominous thought fresh in her mind, Ali set about deconstructing all the Grim Totems in the Temple of Blood, one by one, and only when that task was done, did she finally approach the shrine itself.
+
+Temple of Aman Rak A crafted shrine artifact, providing domain propagation and support abilities. Owner: --.Teleportation Locus [Active].Mana Siphon [Active].Created by Nevyn Eld.Shrine – Artifact
+
+More than a little wary, she placed a barrier between herself and Nevyn Eld’s artificial shrine and reached past to touch the stone surface. A chime sounded in her mind the instant her fingers touched the polished surface of the black floating prism. Pitch-black writing appeared in her mind.
+
+Bind yourself as the owner of the Temple of Aman Rak shrine? This action is irrevocable.
+
+Ali immediately declined the invitation and pulsed just a little mana through her storage enchantment, and the shrine vanished, taking up an extraordinary amount of her weight allocation.
+
+A powerful pulse rippled through the domain mana, racing away into the distance, followed by a slower dissolution as the entire domain began to unravel from the center outward – the structure destroyed and immense quantities of mana dispersing into the air.
+
+She sighed, returning to the tree, satisfied that the job was finally done.
+
+“Ok, I have the shrine,” Ali said. “But I’d like to keep the Death Knight. I can learn a lot from deconstructing him.”
+
+“You want to make Death Knights?” Lyeneru asked, immediately tense and bristling.
+
+“She can’t,” Calen put in tersely.
+
+She still doesn’t entirely trust me, Ali thought, seeing her swift reaction. It was a conflict, considering Lyeneru had thrown her own body in the way of the Lich’s magic during the fight to protect Ali from being disintegrated. “No, as Calen said, I can’t make undead. Deconstructing the bosses in dungeons allows me to learn their domain magic skills and use them when I make my own bosses. I have no desire to use the sacrifice skill that Tol’brekk had, but I’m definitely interested in the skill that amplified his Blood Vortex to that insane skill you saw him using. I can offer a copy of my notes instead, if that’s helpful.”
+
+Lyeneru’s body relaxed visibly as Ali reassured her that there would be no horde of Death Knights appearing any time soon. “Typically, the Pathfinders Guild insists on examining every Death Knight corpse, but I think you earned this one all on your own, go ahead,” she said. “Besides, they want the corpses to learn how they arise and how better to defeat them. You’re providing the complete magical blueprint and an intact shrine, I’m certain they’ll agree that the corpse won’t be necessary.”
+
+“Thanks,” Ali said, walking up to the giant Death Knight corpse and spending the time to carefully record all the intricate runes tattooed onto his darkened, dead skin. When she was satisfied that she had a perfect copy, she reached out, placing her fingertips on the cold skin of the terrifying undead troll. Her magic sparkled and glittered in the slowly dimming evening light and the corpse evaporated into the air as her mind swelled with a familiar influx of new knowledge.
+
+[Sage of Learning]Domain Magic analyzed: Sacrifice.Domain Magic analyzed: Summoning.Domain Magic analyzed: Amplify Skill (Blood Vortex).
+
+She already knew Summoning, but the other two were new.
+
+SacrificeSource: Tol’brekkSacrifice an incapacitated or unresisting creature to gain a potent bonus to melee attack speed and strength. Duration and power of the buff is dependent on the life force of the sacrificed creature. Skill – Domain MagicAmplify SkillSource: Tol’brekkAmplify the power of a class skill with domain mana. Skill – Domain Magic
+
+Sacrifice looked just as horrific as Ali had feared – but perhaps that was due to having seen how it was used in this dungeon. She resolved never to use it. On the other hand, Amplify Skill was likely to be her new favorite domain magic – it looked incredibly versatile.
+
+“Ok, I’m ready,” Ali said as she returned to the makeshift rest spot. “Give me a few moments and I’ll inscribe a teleportation circle to Myrin’s Keep.”
+
+“I refuse! I’m not going anywhere!” Val’korr said, stamping his foot. While Ali had been busy in the Spirit Realm, someone had found him a gnarled staff which he was using to pretend to hold himself up with, and he somehow managed to look even grumpier than when he had been impaled on an axe blade.
+
+“Seeker, there is nothing left for us here, I implore you to come.” Zor’kan interrupted.
+
+“Nonsense, this is Aman Rak. I refuse to abandon it.” Val’korr seemed obstinate. Obstinate enough to throw a tantrum, at least.
+
+“Aman Rak is the heart, blood, and bone of the trolls,” Ali spoke, using a traditional reference. “It is no place. Besides, now that the dungeon won’t dissolve it, I can leave a locus here so you can return whenever you want.”
+
+The ancient witch doctor and sage made a sour face. “I won’t leave without our books,” he finally relented. “They are all that remains of our honor and culture.”
+
+“Where are they?” Ali asked, and when the troll turned and led her to a ruined building, she called Malika to join her.
+
+“Look at this disaster!” Val’korr exclaimed, gesturing to the rubble and the ruins of bookshelves in what had once been a modest, one-room library. There were dozens of books scattered under rocks and debris, many of them scratched and damaged. A few shelves remained intact against the one remaining stone wall that hadn’t been smashed by berserker greataxes or Mato’s flying body.
+
+With remarkable efficiency, Malika darted through the ruined building and the wreckage of the small troll library, making books vanish at an astonishingly rapid pace.
+
+She’s dancing! Ali grinned, marveling at the grace of her movement and the spluttering surprise on Val’korr’s face.
+
+“If there’s nothing else?” Ali asked.
+
+“No, that’s… fine.” Val’korr relented.
+
+With that chore finally completed, Ali inscribed two teleportation runic circles – one locus for any return trips, and one teleportation circle to Myrin’s Keep.
+
+“Hey, Mato! We’re ready to go,” Calen said, rapping his knuckles on Mato’s trunk like knocking on a door, and then they all stepped through the teleportation circle one at a time, Mato looking like he was spacey from being a tree still, but scooping up Lyeneru like she weighed nothing, and followed by the troll refugees and finally Ali and all her remaining minions. The Novaspark Academy of Magic might freak out, but she was past caring, and she didn’t feel like unsummoning them.
+
+“Oh, Ali, congratulations,” Mato said, pausing right before stepping into the runic circle.
+
+“For what?” she asked, a little puzzled.
+
+“Level one hundred,” he answered, and then vanished.
+
+Oh, she thought. In all the chaos and busyness, she had forgotten about her class levels. Allowing a wry smile to touch her lips, she focused inward to read what she had achieved.
+
+Grove Warden has reached level 100 (+8).+80 attribute points.Arcane Insight has reached level 53 (+5).Arcane Recall has reached level 18 (+2).Barrier has reached level 60 (+2).Runic Script has reached level 43 (+4).Sage of Learning has reached level 44 (+5).Martial Insight has reached level 63 (+3).Empowered Summoner has reached level 49 (+3).Minion Teleport has reached level 33 (+3).
+
+Identify has reached level 20.Inspiration has reached level 18 (+2).Requirements met for class evolution. Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+Ali nodded slowly, feeling far, far too overwhelmed to take it all in just now. Home it is, then. I’m sure Aunt Lira will have a cup of tea ready.
+
+Just now, she wanted nothing more in the world.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

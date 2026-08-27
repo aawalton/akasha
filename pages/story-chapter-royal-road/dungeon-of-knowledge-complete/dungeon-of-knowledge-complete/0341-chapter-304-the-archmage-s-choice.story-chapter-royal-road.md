@@ -1,0 +1,237 @@
+---
+id: 378b5f19-282c-5901-a12a-647bb51d45e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 304: The Archmage’s Choice"
+slug: 0341-chapter-304-the-archmage-s-choice
+partOf: dungeon-of-knowledge-complete
+position: 341
+ownLength: 4396
+unit: words
+ownProgress: 4396
+publishedAt: 2025-07-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2418705/chapter-304-the-archmages-choice"
+royalRoadId: "2418705"
+markedReadAt: "2026-06-29T20:22:06.940Z"
+---
+
+Those who thirst for power, beware, lest it burn you up like dragon’s fire.- Artur Dragonsworn [The Rule of Law], Human King of Dal’mohra
+
+The Ciradyl receiving room and the teleportation locus etched into the polished wooden floor were exactly as Ali remembered them; gorgeously crafted runes glowing with the subtle flows of circulating mana. Elegant, white-robed priests and acolytes of Lunaré stood in quiet attendance, several shining under mana sight as they fed their mana into the floor to power the locus. The rich Ciradyl heartwood forming the walls and floor of the room had been grown out of the trunk of the giant, living tree without hampering its vitality in the slightest – as clear an indication of wood-crafting mastery as Ali could imagine.
+
+Mato ran his fingertips across the wall, touching the wood with an expression as close to reverence as Ali had ever seen from the big Beastkin.
+
+“Pretty impressive, isn’t it?” Calen said, with a touch of pride evident in his voice.
+
+“Wait till you see the rest of the city,” Lyeneru said, showing a rare smile of pearly-white teeth. Then she flared her wings and headed for the door. “Follow me.”
+
+Ali gathered her minions to her side, only two for this trip. She chose to travel light, knowing full well that wandering around the peaceful city with an assault group would be inappropriate. Not wanting to sacrifice her intelligence and wisdom enhancements, she had picked an Ice Mage and a Blood Shaman as her escorts, but she had deliberately chosen not to bring Joraa, just in case the betrayer was recognized outside of Aman Rak. Mato joined her and her minions on the barrier disk as she levitated the non-flying members of their group out of the room.
+
+Emerging from the tree trunk chamber, Ali couldn’t help but stop and stare in awe.
+
+“What do you think?” Lyeneru asked.
+
+“Amazing,” Ali whispered. She found herself floating several hundred meters above the distant forest floor among giant branches that served as the highways and boulevards of the arboreal elf city. Everywhere she looked, elves walked those broad boughs chatting or conducting business with the vendors and merchants under their tents or more permanent stands grown directly from bark and branches. Nature and plant magic was evident in every construction.
+
+Above and around the branches, elves took to the air, flying about with graceful swooping and soaring wings or seated upon strange artifacts or creatures. Despite the organic, natural theme, a pang of melancholy nostalgia for the busy Dal’mohra of her memories squeezed her heart. Infused into the very air, the branches, and even herself, she saw something that she had not been able to perceive before.
+
+“Soul magic,” Malika said, inadvertently echoing Ali’s thought.
+
+Delicate and subtle, its wisps and threads filled the vast expanse of the city, cradling everything in a gentle ambient pulsing energy that seemed almost like a domain, only much more organic and subtle. Even the trees were linked to this vast spell.
+
+Ciradyl Tree – Elder Tree – level ??? (Soul)
+
+Since she last visited, Ali had grown, earning more than thirty levels and advancing to the second tier. She had added sixteen levels to Arcane Insight. More than that – across her Arcane Recall mastery and the bonuses granted by her evolution to arcane and knowledge spell power, Arcane Insight had a cumulative enhancement of two hundred and twenty percent. She had added an additional one hundred and twenty perception, and more than four hundred intelligence, granting an extraordinary improvement to her ability to perceive, understand, and resolve mana. It was like returning to a dark room and seeing it by the light of day for the very first time.
+
+When she had first witnessed this city, she had missed the uniqueness of the mana that cradled it. Previously lost in an indistinct background haze, now it wasn’t just mana – she could see its very structure, an intricate tapestry of soul magic infusing the entire city and its surrounds. The Ciradyl trees propagated it, but an immense source all the way down among the giant roots sent up a beacon – a pillar of shifting blue and white light. It was a pulsing, vibrating, ever-changing organic formation that seemed almost alive.
+
+“Come on, Ali,” Calen grinned, bouncing a little on his toes in mid air. “You’re going to love this!”
+
+The Well of Souls. She gasped at the sight of so much power, of such beauty. She couldn’t wait to see it up close. What was remarkable was that not even the Elven Archmages knew precisely what it was for – the artifact supposedly dated back all the way to the first age, and she was curious what Lira might know about it. Or maybe His Grumpiness, the Troll, she thought, not relishing the idea of asking Val’korr, but if anyone knew about the origins of something so ancient it would be him.
+
+“Nathaniel Sunstrider is giving a lecture to the initiates and novices down there,” Lyeneru said, and to Ali’s delight, she pointed in the general direction of the pillar of intense mana and light. “Let’s go, he should be almost finished, we can meet him there.”
+
+“Perfect,” Ali said, swooping down after the ebony Night Elf, enjoying the long, scenic descent through the branches toward the forest floor.
+
+I wish I had brought Clarence, she thought, but there would be time enough for a detailed study later. Now that she had created her teleportation circle to Ciradyl, she could spend as much time studying this extraordinary magic as she wanted. Besides, it would be bad if Nathaniel figured out that I have the original book. Despite her friends’ assurances, she was still wary of the archmage’s arrogance.
+
+They landed on soft, springy ground that was covered with a thick layer of composting leaves, moss, and patches of clumped grass. She dismissed her barrier and took a few steps closer to the bright glow of the well, barely noticing the strong scent of damp earth and growth kicked up by the passage of feet. Despite its name and reputation, the Well of Souls was a broad pool of still water, nearly twenty meters in diameter, held in by a simple construction of ancient and worn stone blocks. Her friends gathered beside her, captivated by the beauty they beheld. Malika sighed deeply, her mana sparkling in her eyes and softly resonating with the immense source of soul-affinity mana that flowed through everything.
+
+Nathaniel Sunstrider cut an imposing figure in his flowing white archmage robes, edged in glowing purple spellthread of precisely the same shade as his mana affinity, finishing his lecture while silhouetted against the pillar of light behind him. A continuous eruption from the Well of Souls launched an unimaginably immense geyser of soul mana into the air, manifesting as soft aurorae of blue and white within which danced countless wisps. Ali didn’t even hear what the archmage said – she just stood and stared, entranced by the sight of the ancient, mysterious artifact.
+
+“I trust you are recovering well,” Nathaniel said, jerking Ali’s attention away from the mesmerizing display of magic, but he was facing Lyeneru. Scattered about, the Pathfinder novices and initiates had broken up into small conversation groups, presumably discussing their lecture.
+
+“I am well enough to travel,” Lyeneru said, “but it will take another week or two before I’m fit enough for missions and combat.”
+
+“Very good,” Nathaniel said, and then turned to study Ali with an inscrutable expression. “I wanted to thank you for your notes on the Death Knight array. I found them to be extraordinarily enlightening – the Blind Lich wields immense power and proficiency. I just wish I could have seen it in action, some of the functions are difficult to understand from reading the runes.”
+
+“I can explain what I saw,” Ali offered, recalling just how illuminating it had been to see the array light up. “I can probably recreate some of the pieces in my domain if that would help.” With Adaptable Mana, and what she had learned from the fire runes in the mines, she knew all she would need was a death or soul-affinity area. With her array of matching flowers, it would be a simple matter to produce the required affinities. She paused for a moment, suddenly shocked by the realization that if she put enough effort into it, she could very likely recreate the full array from her notes and memories.
+
+Does that mean I can make Death Knights the same way he did? That idea sent chills down her spine, but she caught herself before Nathaniel noticed her distraction.
+
+“And what of the artifact Lyeneru said you recovered?” he asked.
+
+“I brought it with me,” she said, retrieving the heavy artifact of stone from her storage enchantment. It suddenly popped into existence in front of them, a polished geometric pyramid of black adamant onyx, floating a bit above the ground and slowly rotating as the runes etched into its surface complemented the glowing backdrop of the Well of Souls.
+
+“Extraordinary,” Nathaniel said, staring at the artifact intensely and Ali recognized the naked hunger of a scholar presented with the final key to unlocking the knowledge he had been seeking for an age.
+
+“I turned off the teleportation locus,” Ali explained. “But maybe you shouldn’t leave it out for very long, I don’t know if he has other ways to locate it.”
+
+“Do not worry about that,” Nathaniel said, heavy wards of dense arcane mana snapping into place around him as he wielded his rune-covered spellbook. “I am not a novice. Please step back.”
+
+Ali stepped back along with her friends to give the archmage the room he needed, reminded that this was a mage of unfathomable experience and power – still beyond her ability to identify. Mana surged and a purple glittering arcane shell snapped into place, isolating the Elf and the shrine behind a dome barrier the likes of which Ali had never seen. What kind of ward is this? Ali’s Sage leapt like an excited puppy.
+
+“Finally, time for some answers,” Calen said, his eyes dancing as he followed Nathaniel’s every move.
+
+A black leather book with glowing silver runework sprang to the archmage’s hand, flipping open as he referenced its contents. A familiar book. Ali waited with bated breath for something to happen, but Nathaniel stood calmly, consulting Nevyn Eld’s book occasionally. It still gave her chills to see it, but it was the most complete reference on dungeons she had seen in all the libraries she and Ryn had access to. Most likely Nathaniel, as an archmage with centuries of experience, had none of her squeamishness about using the Lich’s work to understand his construct.
+
+She couldn’t help recalling just how shocked he had been when he had first seen the book resting on her shelf. In fact, everyone who had seen it had made sure to impress upon her the dangers of dabbling in death and dungeons. Having studied its pages herself, and witnessed the workings of the Lich’s awful runic creation in Aman Rak, she was convinced none of them understood even the half of it. Ease up, Ali. He knows what he’s doing, she thought, pushing her dark ramblings into the background. Who am I to question an Archmage?
+
+Eventually, she began to lose interest in the archmage and his inscrutable studies, turning toward the only thing more interesting.
+
+“Do you see it?” Ali asked, turning to Malika. “The magic of the Well of Souls?”
+
+“It’s beautiful, isn’t it?” Malika answered.
+
+Ali immersed herself in the sight and flow of the vibrant soul magic emitted by the ancient artifact, content to observe using every skill at her disposal – in much the same way as she might pause and just be in the presence of a great work of art.
+
+The familiar shape of an unfolding flower of mana snapped her out of her reverie. Tendrils of mana burst forth from the artifact Nathaniel was studying.
+
+“Watch out!” Ali shouted, but the tendrils flowed into Nathaniel, filling him with the mana of the shrine.
+
+“Please do not interrupt me again,” Nathaniel said, not breaking his focus on the shrine and the mana pouring from it under the glittering purple of his ward.
+
+“He knows what he’s doing, Ali,” Calen said, placing a reassuring hand on her shoulder. “Come, we should let him work.”
+
+“But, the binding is permanent…” Ali said.
+
+“You seem to have forgotten that it was I who unraveled the secrets of shrine crafting three centuries ago,” Nathaniel sniffed, fixing her with an unimpressed glare for a moment before returning to the shrine. “I understand the dangers far better than you ever will.”
+
+Just like it had been with her witch doctor, he grew under the influence of the domain magic flowing through him and billowing out into a tiny circle. A new dungeon, born under the dome.
+
+“He just became a raid boss?” Calen said, confusion filling his voice.
+
+“Guildmaster?” Lyeneru asked, sounding openly shaken.
+
+“Do not interfere, Lyeneru. These matters are beyond your understanding,” he declared, earning a troubled frown from the legendary archer.
+
+Ali recognized a fresh surge of mana erupting from the tiny domain.
+
+Did he amplify Runic Script? What is he doing? Ali had no idea what Nathaniel was thinking, but she recognized Amplify Skill, and he was using it to proliferate thousands of runes on the ground in the domain – far more rapidly than she had ever imagined possible. In seconds, a large purple crystal pushed up from the ground, pulsing with mana. The fledgling arcane domain flowed into the crystal, making it thrum with power, and then the crystal pulsed, emitting the arcane domain over a much greater area, nearly filling the space under the dome of protection.
+
+“Lyeneru, I have a very bad feeling about this,” Ali said. Nathaniel was following the same path she had to explore the artifact, testing the major features, and now growing what looked like arcanite to propagate the domain. But her gut twisted with an unsettling premonition. Binding to the shrine was a permanent action, the primary reason she had not experimented with it personally and instead used her minions as a proxy. She could only hope that with his experience making artificial shrines he knew of some way to undo it, otherwise he would be bound as a dungeon here forever.
+
+“Me too,” Mato growled.
+
+“You wouldn’t understand,” Nathaniel muttered, hunching over his book and gesturing fervently with his right hand.
+
+She sensed her friends gathering behind and beside her. It was like watching an avalanche rolling down a mountain. To Ali’s horror, dark snaking tendrils of restless black mana began phasing into view, their maws clamping onto the Archmage’s back and shoulders like leeches. They twisted and writhed as they appeared to be feeding upon his essence. “Malika, do you see…” And then, the shrine’s locus activated.
+
+“No! He can use that!” Ali shouted, reflexively snapping a large barrier wall into place in front of herself and her friends, but it was too little – and far too late. With a sharp flicker of familiar death magic, a dark apparition materialized beside Nathaniel. Ornate robes swirled around the black billowing cloud that would have been his legs, swirling on an eldritch wind. The withered face, obscured by his crimson blindfold, turned slowly back and forth as if to survey the surrounds while his oppressive aura of dread burst forth, crushing will and sapping spirit.
+
+Once again, Ali found herself confronting the Blind Lich from the other side of a thin wall of transparent, glittering gold. Once again, she quailed in the face of his monstrous presence, despairing as she thrust her woefully inadequate magic at him in a futile attempt to save those she loved.
+
+“Nathaniel?” Lyeneru groaned. “What have you done?”
+
+You have gained Clarity.
+
+In that instant, a spherical pulse of Malika’s magic flowed out across Ali, and she felt her mind drawing back from the precipice. Lyeneru’s bow flared into her hands, but her arrows simply ricocheted from the archmage’s barrier. Calen swore, drawing his own bow but not firing as he realized the futility of the gesture. Mato growled, his body gaining mass and substance as he shifted.
+
+“At last…”
+
+The Blind Lich’s chilling words cut through the screaming and wailing of the novices like a scythe through silk. In the wake of terrified silence, he turned to face the Well of Souls.
+
+“Nathaniel Sunstrider, you have done well. Ask anything of me and it will be yours,” the Lich said.
+
+“I wish for immortality, Master,” the Archmage said, kneeling before the grim visage of Nevyn Eld while the eldritch tendrils fed upon his essence.
+
+Master? Did he summon Nevyn Eld… on purpose? Ali reeled from the shock of this horrific revelation – but there could be no other explanation. She had found the Archmage to be arrogant, selfish, and aloof – not entirely likeable, but never in her wildest imaginings could she have conjured a nightmare like the one unfolding before her. This… this was her darkest fear – the primal terror her mind had conjured the day she had first seen him in the Spirit Realm come to life.
+
+“Immortality?” the Lich said, seeming to study the kneeling archmage before him for just a moment. The hoarse whisper of his laughter grated on Ali’s ears and sent chills cascading down her spine, despite the soothing of Malika’s Touch of Clarity. “Always with you scholars, it’s immortality. Even Kryostria craved it. Very well, you will have your reward.”
+
+A dense coil of darkness erupted from the Blind Lich’s palm, tearing through Nathaniel Sunstrider’s chest.
+
+Sacrifice! Oh, no…
+
+Ali instantly recognized the Lich’s spell from the battle at the Temple of Aman Rak, but before she could do anything, Nevyn’s bony arm shot forward, plunging deep into Nathaniel’s chest with the help of some form of incomprehensible, spectral incorporeality. His clawed fingers closed around something ethereal within him, snatching it, writhing and wailing, from the Archmage’s chest. The lich held it up in triumph, ignoring the limp body slumping to the dirt beside him.
+
+“Arise, Nathaniel, and serve.”
+
+The ghostly blueish-purple energy separated from the corpse sprawled on the ground and coalesced into a shifting, translucent humanoid shape. Only then did Nevyn Eld release what he held.
+
+Elder Wraith – Undead Spirit – level ??? (Arcane, Death)
+
+Ali shuddered, her heart clenching within her chest. She had seen its like once before: the day the Lich had forced this same tortured existence upon the Elven King, Thaldorien Stormshaper; the day Nevyn Eld had taken her mother from her. The wraith retained Nathaniel Sunstrider’s likeness, only hazy now and transparent, brimming with potent death-affinity mana that stained the previously pure purple of his arcane. It writhed as if continually tormented by its very existence.
+
+“Secure Ciradyl while I prepare the Well,” Nevyn Eld said, and turned his attention to the serene beauty of the Well of Souls, dismissing the Elder Wraith. “Kill all who live.”
+
+“Yes, Master,” the wraith hissed.
+
+Nevyn Eld floated forth, passing smoothly through Nathaniel’s barrier as if it were not even there, and plunged his blackened, withered arm elbow-deep into the waters of the Well of Souls. An enormous surge of midnight-black mana swelled within him, rushing down his arm and out from his fingers. The Well convulsed, once, and then stilled like the deathly quiet of anticipation before a storm. Nevyn’s mana flared once again, reaching an even greater crescendo, and the Well of Souls convulsed a second time, but this time Ali saw it right as it began. A dense kernel of black coalesced deep within the well, pulsing like a gruesome heart. Tiny tendrils sprouted from it, consuming the magic all around it and staining the waters with impenetrable darkness.
+
+“Attack!” Lyeneru screamed, her voice hoarse and cracking. “Defend the Well!” Her bow thrummed with power as her arrows hammered into the purple dome.
+
+Calen responded first, adding his arrows to the storm, and then Ali mustered her two trolls while her friends sprang into action. But the Archmage’s barrier weathered the storm with unbelievable resilience, and the Lich shrugged off the attacks with far more ease than Ali recalled from the fight above Aman Rak.
+
+In seconds, the waters of the Well of Souls turned pitch-black. But it didn’t stop there, hungry black tendrils slopped out over the stone retaining wall, poisoning, and corrupting the surroundings as they voraciously consumed the delicate tapestry of soul magic that Ali had so admired. Everywhere the corruption grew, elves collapsed, screaming in agony – the lower-level ones withering and decaying in seconds, while the higher-level ones fled in terror.
+
+Ali threw up another barrier as the corruption came for her, feeling an enormous surge of reclaimed mana as her glittering wall fended it off.
+
+As soon as the death mana touched Nathaniel’s wraith, it was drawn in and a ripple of darkness infected his entire domain, tainted by the touch of death. Then, an unearthly wail scratched at Ali’s mental defenses with claws of insanity, and a form glowing with a sickly green light emerged from the pillar of light above the Well, now entirely black, stained by the Lich’s profane ritual.
+
+Banshee – Undead Spirit – level 124 (Death / Sound)
+
+The Banshee’s ghostly maw opened, widening well beyond the borders of natural into the realm of nightmares, and unleashed a shrill, soul-crushing shriek. Fleeing Elven novices collapsed in droves, hitting the ground and convulsing in fear, dying as the creeping corruption caught up with them.
+
+Then, another form emerged from the Well. And another.
+
+Wraith – Undead Spirit – level 29 (Death)Ghost – Undead Spirit – level 16 (Death)Wraith – Undead Spirit – level 47 (Death)…
+
+The nascent trickle of undead swelled into a torrent; the unholy glow of their foul existence casting an unhealthy pallor across the breadth of the once-beautiful sacred forest grove of the Wood Elves. Spirits kindled into being by the unholy fusion of the immense source of soul magic and the Blind Lich’s corrupting touch flew from the Well, tearing off in all directions, assaulting the air and minds alike with their wails and screeches, preying on the paralyzed or fleeing Elves in a sudden eruption of chaos.
+
+Ali flung up a broad barrier before the horde of screaming spirits, gasping at the sudden jolts of reclaimed mana as the magical undead rammed into her golden wall like a siege assault bouncing off battlements. Behind her, Lyeneru took to the air, joined by Calen, unleashing a storm of arrows into the oncoming waves of spirits. On the massive boughs of the tree city, shocked Elves mustered in small groups, adding their magic and arrows to the resistance.
+
+A surge of evolved nature mana pulsed as a new Elf appeared in the air beside the flying archers. His powerful voice rang out, demanding answers in clipped Elvish that betrayed traces of shock and urgency, “Lyeneru! Situation?”
+
+“Nendir,” Lyeneru said. “Nathaniel has betrayed us all. He invited the Blind Lich in, bypassing the wards with that evil artifact. The Well of Souls is lost.”
+
+“No!” Nendir rasped, his voice cracking.
+
+“Hold the spirits back! Save the novices!” Lyeneru cried, her fire magic roaring as she wove lightning through it in an immense volley of bolts that drove the wave of spirits back momentarily.
+
+Ali glanced to the side where they had first found Nathaniel Sunstrider finishing his lecture and found dozens of Elven bodies, lying like crumpled, discarded rags where the draining spirits had left them. As the creeping black that oozed up out of the Well reached the bodies, a chilling moan arose. Bodies stirred and the shambling dead began to rise. Desperately, Ali tossed out what little barrier capacity she had remaining to try and save the pitiful few who’d managed to outrun the blight while Malika and Mato tangled with the zombies.
+
+How could you be so stupid? You should have trusted your feelings, Ali, have you learned nothing? How could you let them convince you he was… Ali’s eyes stung as she saw the corpses strewn everywhere. Her ears quailed at the rising screams of the dying. I should have kept it, she thought, eyeing the floating shrine. Hidden it. This… this is all my fault.
+
+“I’ll mobilize the guard. Rally the Pathfinders,” Nendir said.
+
+“Most of the higher ranks are with the campaign in the north, holding back the Lich’s armies,” Lyeneru said, biting her words off with a grimace.
+
+“Lunaré, save us,” Nendir prayed.
+
+“I fear it might be too late for that,” Lyeneru said. “He has cut out the heart of Ciradyl in one fell stroke.”
+
+“Malika! Help!” Ali yelled as she struggled to protect the screaming and catatonic.
+
+“On it,” Malika shouted. She vanished, to appear again among the fallen, pulsing her magic as she danced above the corruption with grace and speed. In her wake, Elves recovered from the paralyzing grip of the Banshee Fear and fled for their lives.
+
+“Mato, can you handle the corruption?” Ali asked, immensely regretting not bringing more minions. Without them, she barely had any options.
+
+“Yes,” Mato said, stepping forward to the barrier and transforming. Moments later, his enormous branches spread wide, reaching far over Ali’s barrier. As the spirits tore into him, clawing and biting, he suddenly ignited. Holy magic flared up and down his trunk, spilling out across his branches and roots and spreading the holy fire of consecration across the ground, reaching nearly four hundred meters in all directions. Spirits screamed, recoiling in pain, while the border between the creeping corruption and the white fire sizzled and crackled in violent conflict.
+
+“Heal everyone,” she told her shaman.
+
+“Yes, Seeker,” her Troll said, unleashing ribbons of blood magic that arced across the field to touch the stricken and wounded.
+
+“And you, shoot those spirits over there,” she instructed her ice mage.
+
+“At once,” he said, grinning widely as his Ice Shield crackled and his fingers flung lances through her barrier into the swarm.
+
+Please buy us enough time, she thought, bending to the ground and inscribing a runic teleportation circle amid the ghostly flames of Mato’s Consecration.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

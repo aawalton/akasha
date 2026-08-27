@@ -1,0 +1,115 @@
+---
+id: 752b3152-73e2-58a1-9cd5-9e2c5d35ae7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6"
+slug: 0006-chapter-6
+partOf: emie-ascended
+position: 6
+ownLength: 1675
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3461588/chapter-6"
+royalRoadId: "3461588"
+---
+
+I reached level four after just an hour. During that time, I’d used Lightning Bolt to blow through the first several rooms as I made my way back to the last room I’d cleared. Early levels were always faster, after all, even without absorbing essence cores.
+
+That reminded me, I still hadn’t looted all of the carcasses I’d stored.
+
+Deciding to take a break after I reached the point at which I’d stopped the day before, I entered my sanctuary to relax and eat the rest of the leftovers I’d saved from the day before. Once I finished my meal, I shifted a half-dozen bodies from my storage to the table.
+
+“I wonder if looting works inside my demesne.”
+
+It probably shouldn’t, since looting had only been something possible within the dungeon. But since I was in the dungeon, and my demesne was attached to my soul, I figured it was worth testing.
+
+I tapped each of the bodies with the intention of looting them, watching as the bodies immediately broke into small motes of energy, which reconsolidated into a pile of loot.
+
+“Oh, so that’s a bit of a cheat,” I said as a sly grin spread across my face. “Is my demesne some kind of loot harvesting workaround?”
+
+It sure looked like it since I didn’t notice anything of value missing from the carcasses. Even the bones, brains, and intestinal linings were included with the rest of the materials.
+
+It looked like everything of value that could be manually harvested from the bodies had appeared as loot, including the essence cores.
+
+One thing I didn’t notice was the presence of anything other than beast materials or cores. There were no coins, weapons, gear, or skillbooks.
+
+I did a few more tests, and it didn’t take long to verify that looting a mob within my demesne would grant a lot more material than looting one outside of my demesne. However, I still didn’t receive anything other than harvestable material for any creature looted within the space.
+
+It made me wonder if something about looting had changed, or my demesne was interfering. Even exiting my demesne and looting the bodies I’d previously stored didn’t result in anything new. The only difference was the drastically reduced amount of harvestable beast material I received.
+
+Since I’d run out of bodies to experiment with, I headed to the next room to acquire more. It was always possible that the issue was the mobs I was looting, though I didn’t really think that was the case.
+
+To my surprise, the next room contained a new type of mob. Thorn monkeys were a species of monkey with retractable, thorn-like spikes growing from their tails. They weren’t much of a threat if you could land the first hit, since their bodies were generally pretty weak.
+
+The introduction of a new mob likely meant I was coming close to the end of the floor. That was good since I was very much looking forward to leaving the dungeon and learning what had changed since the time on which the simulation was based.
+
+I moved carefully, trying not to draw the attention of the lone thorn monkey perched in a nearby tree just a few feet away from the path.
+
+Outside of the dungeon, most monkey species tended to congregate in groups. While the same also applied deeper in the dungeon, on the first floor, I only expected to encounter a single mob at a time unless I did something to draw more.
+
+Moving carefully, I managed to sneak up on the unsuspecting creature.
+
+I missed my old Stealth skill, but I knew that it was only a matter of time before I was able to craft something that would provide the same effect.
+
+I only really needed it while I delved alone, and I didn’t plan to do that for much longer now that I’d filled half of my skill slots. I wanted to gain at least one more skill just to be safe, though.
+
+Hopefully, the dungeon would provide a skillbook that I could use – either an inspection skill or one of the elemental skills I was looking for.
+
+Feeling well within range to target the unsuspecting monkey with Lightning Bolt, I unleashed the smallest version of the skill that I could manifest, watching to see how the reduced-power attack would fare against the physically weak mob.
+
+Even knowing that thorn monkeys were not all that resilient, I was a little surprised when the creature collapsed to the forest floor, and I received a small influx of essence.
+
+I looted it immediately, smiling when a spear appeared next to the essence core. It looked slightly better than the starter weapon the dungeon had initially provided, but without an actual inspection skill, I couldn’t verify anything.
+
+“So, it’s either my demesne interfering or an issue with the mobs themselves,” I said as I sent both items into storage.
+
+Continuing through the room, I looted each thorn monkey as it was defeated, receiving mostly beast materials with the occasional coin mixed in. The presence of coins was a good sign and meant that I was definitely on the right track to understand what was going on.
+
+I killed my way through the next two rooms, both of which incorporated the previously introduced mobs into their challenges. I was making good time, even if harvesting once again took the majority of my time.
+
+I looted most of my kills before storing them, though I did experiment with storing a carcass before attempting to loot it. I eventually learned that any carcass placed into any part of my demesne prior to looting would only give a core and a single piece of harvestable beast material when later looted outside of my demesne.
+
+There was no actual loss, aside from the potential for something other than beast material. However, if I looted my kills without storing them first, the expected variety of loot appeared.
+
+Since that meant I probably wouldn’t receive any coins, equipment, or skillbooks for creatures looted inside of my demesne or placed into storage first, I decided to loot all of my kills right away from that point forward unless I was specifically targeting beast materials.
+
+In the ninth room, I was rewarded with my very first skillbook. Unfortunately, the Illuminate skill wasn’t one that I was interested in learning, so the skillbook went into storage with the rest of the loot.
+
+Feeling hungry, I decided to take a break before going any further. I expected the boss room would be coming up soon, and I didn’t want to face it while tired and hungry.
+
+Nightfall was still a couple of hours away, but since I didn’t want to have to go through the entire floor again, I decided to push forward. If the next room or two didn’t contain the boss, I’d call it a night and enter my demesne from the closest hallway.
+
+However, I didn’t think it would come to that.
+
+I used my lightning skill to start a fire in a shallow hole that I dug after clearing out a space on the path. I made the fire just large enough to cook over, which kept it well within a safe distance from the nearby trees.
+
+Since I didn’t have any cookware or utensils, I didn’t get too creative with my dinner that night.
+
+I settled for meat on a stick paired with some fruit I’d picked along the way. It wasn’t the best, but it would do for a quick meal.
+
+After eating, I finally took the time to absorb all of the essence cores I’d collected over the last two days. The essence contained was enough to push me well into level six, and I smiled at the quick boost in power.
+
+“Looks like it’s time to defeat the boss and move on.”
+
+“Hahaha! Yes! Thank you, dungeon!” I exclaimed when I saw the skillbook that manifested from the fallen boss I’d encountered in the very next room.
+
+The boss hadn’t been much of a challenge, but that wasn’t much of a surprise considering I outleveled it, if only by a single level. Even if I hadn’t, I didn’t see the level five boss as much of a challenge for someone with my experience.
+
+Identify might be the weakest of the identification skills, but it was also the one that provided the most flexibility when it came to evolutions.
+
+As a general rule, skillbook-derived skills had a narrower range of potential evolutions than a learned skill, but in most cases, the difference was negligible.
+
+[Would you like to use the skillbook: Identify (Common)?]
+
+I mentally accepted the prompt, closing my eyes as the skillbook began to break into motes of light that appeared slightly different than the ones that formed when a beast was looted.
+
+The new skill felt a bit heavier in my soul than the skills I’d learned manually. At a thought, knowledge of how to access the skill filled my mind, and I immediately targeted the essence core from the boss.
+
+[Essence Core from a level five boss. You can absorb this core.]
+
+Not seeing a reason to wait, I did just that, earning just enough essence to push me across the threshold to level seven.
+
+With an eighth skill slotted and having outgrown the first floor, it was time to leave the dungeon. However, since I didn’t want to be forced into repeating the floor, I focused my intent on descending to the second floor instead of leaving the dungeon immediately once I left my demesne and stepped through the hazy portal.
+
+As soon as I appeared in the safe zone of the second floor, I stepped back through the hazy gateway. This time, I focused on leaving the dungeon.
+
+As much as I would have liked to have been stronger before making an appearance in my new realm, I was ready to do more than just grind. I needed information – information that I could only get by leaving the dungeon.

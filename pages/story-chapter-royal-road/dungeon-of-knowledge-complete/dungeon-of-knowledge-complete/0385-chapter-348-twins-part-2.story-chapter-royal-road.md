@@ -1,0 +1,155 @@
+---
+id: 7cedd352-0838-5505-9eb4-40cc96fbd17d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 348: Twins (Part 2)"
+slug: 0385-chapter-348-twins-part-2
+partOf: dungeon-of-knowledge-complete
+position: 385
+ownLength: 2298
+unit: words
+ownProgress: 2298
+publishedAt: 2025-08-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2522917/chapter-348-twins-part-2"
+royalRoadId: "2522917"
+markedReadAt: "2026-06-29T20:25:00.073Z"
+---
+
+Despite their hostility and violence toward her, Ali felt like crying, too. How could they not see that Nevyn Eld had been using them? That he was the source of their suffering? In the background, the soft swishing of ice bolts accompanied the rising sounds of hissing shades as Ali gazed up at the broken form of Cael and Gage. “Can you repair the suppression aura?” she asked. Once he fixed it, the imminent horde of shades would be grounded and forced to toil through the maze. With a little care, Ali was certain she could make some minions that were not hampered by the magic suppression to take care of whatever else made it through. Berserkers. Many berserkers. Blood magic should work even with the mana suppression in effect.
+
+“I cannot repair it anymore,” Cael said.
+
+“Why not?”
+
+“You saw what happened with Gage’s barrier. New magic is beyond us. We have not been able to use our domain magic for anything but the simplest of spells for centuries now. Every time we do, the cracks run deeper, and when they fail, we will die.”
+
+“I think… I might want to die, Cael,” Gage said suddenly. “If mother isn’t coming back…”
+
+“Me too, Gage. Me too…”
+
+“But what about the rift and the realm you were protecting?” Ali asked. If they gave up, the shades would no doubt pour out into the spirit realm, and from there, it was a certainty the rift break would spill over into the mortal realm, killing untold thousands.
+
+“The realm? It’s gone, isn’t it?” Cael said. “I saw the destruction, and you said it was true.”
+
+“I don’t even remember it anymore,” Gage said. “I’m so tired of hurting all the time.”
+
+“The realm recovered from that disaster. You can’t give up,” Ali said. After so long and so much pain, she did not want that to be the end. “Why don’t you make monsters to fight the shades?” The puzzles were interesting and incredibly creative, but minions like her trolls were much more efficient at wiping out other monsters. And, after all, wasn’t he a dungeon?
+
+“Our class only allows us to make elementals,” Cael answered. “Space…”
+
+“And arcane,” Gage finished. “Other than the worker drones we got with our class, we have never found an elemental we could learn to make.”
+
+“Oh, I see,” Ali said. It seemed their class must be something like Naia’s – restricted to a highly specialized choice of monster, but presumably with a lot of fancy or powerful enhancements for them that a more general class like hers wouldn’t have. Even the Emberforge Mines dungeon had been a little like that – every monster had fire affinity, but the fire had burned with a powerful intensity to compensate for the restriction.
+
+She studied him – them – hanging in front of her, weighing up the choice she faced. Do I help him? Or… should I help them? They had most certainly tried to kill her and, worse, laughed at her pain. But she couldn’t help feeling that the two of them were hurting and deeply damaged. Her only other option would be to put them out of their misery – an act that she recoiled at, simply for thinking it – but she also couldn’t just leave them here to die. Alone. Ali shuddered. Nothing is crueler than loneliness.
+
+You’ve killed people before, she told herself, but her body rejected the idea, reacting with visceral disgust, horror, and shame. She had killed Theon by accident, and she had killed the Heroes of the Crimson Blade, Roderik, and several others in self-defense. But she had never once contemplated taking someone’s life in cold blood.
+
+If I won’t kill them, can I trust them enough to help? It was a hard question to answer. If she did nothing, she might as well have killed them by breaking the suppression magic keeping all the shades locked into the maze. Their only defense against the rift. She believed Cael when he said he couldn’t repair it, and the horde of shades outside would grow stronger and stronger till it overwhelmed what little defenses they had. It was her fault. Even though she acknowledged the small voice inside her reminding her that she had merely been acting in self-defense when she broke his magic.
+
+“Go with your heart,” her mother always used to say. Even Lira had echoed that sentiment time and again. Her heart wouldn’t ever be able to come to terms with these two meeting their deaths by her hand at the end of three thousand years of loneliness. Even if they could not be trusted, even if they turned around and betrayed her after, her mother had taken pity on them, saved them from Nevyn Eld’s sinister scheme, and shed tears for them.
+
+Mom…  I hope you’ll be proud of me.
+
+Ali opened her Grimoire and turned to the chapter on elementals. With a quick surge of mana, she created a flight of nine Arcane Shard elementals, all level sixteen. It was certainly nothing powerful, but it was something.
+
+“What are you going to do with those?” Gage asked, his voice quavering.
+
+“They are for you,” she said. “A gift. Can you deconstruct them without risking yourselves?”
+
+“I can,” Gage said, “but…”
+
+“I think we should trust her, Gage,” Cael said. “What other choice do we have?”
+
+“Ok,” Gage said, still sounding tentative and broken, but perhaps a touch hopeful, too. “You know, she looks like mother.”
+
+The edges of the arcane shard elementals began to fray as the magic unraveled. Ali allowed it, and in a few moments, all nine of them evaporated into mana that was drawn into the domain itself. A few seconds later, a fresh flight of nine shards appeared near the magic cylinder and flew out of the doorway.
+
+“Oh,” Gage said, his voice awed. “They can fight!”
+
+“It’s not a very strong monster,” Ali said, apologizing immediately and feeling a crash of guilt at the sound of such joy in Gage’s voice. “But it’s the only arcane elemental I have.”
+
+Gage began churning out more and more, sending waves of glittering golden triangles out into the maze. Through the eyes of her Ice Troll, Ali saw them swooping about, dive-bombing various shades as he experimented, much like a child with a brand-new toy.
+
+But the horde of shades rose up like a dark cloud on the horizon, far too many to count – all bearing down on the center of the dungeon.
+
+“Um,” Ali said. “We probably need to do something about all those shades.”
+
+“We can fight!” Cael crowed.
+
+“Err…” Ali said. “I don’t want to burst your bubble, but those shades are far higher level than the shards.” Quickly, she sorted through her options and settled on a few powerhouses. She wanted to try and understand her mother’s magic – there must be some way to repair it. Restored to full power, and with some assistance to develop stronger monsters, Cael and Gage should be able to take care of the shades with ease. But whatever she did here would require her full attention and focus, and time she didn’t have. The rising tide of black shadow monsters threatening to overwhelm them would not sit by while she studied.
+
+Without waiting for Cael and Gage to give her permission, Ali popped her Grimoire open and began to summon defenders. She made Hellfire Imps and a Blood Shaman and sent them all outside to join the Ice Mage defending the doorway. In seconds, she heard the heavy thumps of detonating fireballs and caught the acrid whiff of hellfire. The vast majority of the shades were in the mid-fifties, but there were some with substantially higher levels, and there was the fact of their overwhelming numbers that had Ali extremely nervous. Can I even hold them back?
+
+Gage continued pumping out shards, but Ali could tell that the level-sixteen swarm monster wasn’t having much effect on the black swarm. Even her own forces would not be nearly enough – even with all her spell-haste, she was struggling to summon defenders fast enough.
+
+I need more ice. The instant she made her decision, she swapped her Empowered Summoner target from the Abyssal Stalker back home to the shaman she had just made, sacrificing her dexterity to dramatically expand her mana pool as her wisdom shot up. Then she focused, churning out more troll Ice Mages – but the cloud of shades continued to grow, and Ali began to despair that she wouldn’t make it in time.
+
+“Invaders!” Cael yelled, his voice cracking with panic. “Five people have entered the dungeon!”
+
+“Kill them!” Gage yelped.
+
+Wait… five people? This place had been isolated from the world for over three thousand years, and right now, at this very instant, a group of people suddenly stumbled upon it? “Wait,” Ali called, desperate to stop Cael and Gage from doing something stupid. “Describe them.”
+
+“Two human monks, male and female. A large Beastkin, a troll witch doctor with white hair and a stick, and a half-elf with a bow, all past their first evolution,” Cael said. “Why? Can you kill them?” A ripple of space magic flickered before Ali, a novel one-way use of portal magic to see remotely, and an image of the invaders hovered in the air before her.
+
+Calen! Malika! Mato! It was them! They had come to rescue her. Somehow, against all odds, they had found their way into the Infinite Maze, and they had brought Val’korr and Rezan, too.
+
+“Can you bring them here?” Ali asked.
+
+“What? No!” Gage said, “They’re invaders.”
+
+“They’re my friends, they’ve come looking for me,” Ali said. When they didn’t respond, she added, “They’re strong, and they will help to kill the shades.”
+
+“But how do we know they won’t kill us too?” Gage asked, ever paranoid.
+
+“I won’t let them kill my brothers,” Ali answered firmly. However badly they had treated her, she was not about to add to the suffering Nevyn Eld had already wrought upon them.
+
+“B… brother?” Gage stammered, his voice suddenly small and shocked.
+
+“We have a sister, Gage,” Cael breathed, as if the two of them hadn’t fully grasped the import of the conversation from before. “I’ll… I’ll bring them.”
+
+Space mana surged beside Ali, and another crack echoed within the chamber. Suddenly, the group appeared, eyes widening as their heads swiveled side to side with their weapons ready. Well, fists, mainly. Calen held Sallis’ smoldering bow, and Val’korr waved his walking stick threateningly.
+
+“Calen! Malika!” Ali shouted, overjoyed to finally see her friends. “Mato!”
+
+“Ali!” Malika exclaimed, immediately reaching out and healing her. The relief at seeing her friends and Malika’s instant concern for her and her injuries almost brought her to tears.
+
+“Good to see you, little one,” Mato said, grinning broadly at her and winking. “Where’s the fight?”
+
+“Are you in danger?” Calen asked, his bow drawn already pointing at Cael and Gage’s body suspended beside her. “Is that the dungeon?”
+
+“That is the dungeon, but they’re not our enemy,” Ali said, nodding a greeting to Val’korr and Rezan. “But the rift shades outside are going to wipe out everything if we don’t take action.”
+
+“I did not expect to find a rift here,” Val’korr said soberly, eyeing the soul magic formations and the arcane magic sustaining Cael and Gage’s body but choosing to make no further comment on the room itself nor the owner of the dungeon.
+
+“Can you hold off the shades? I want to try something,” Ali said.
+
+“Excellent,” Mato said, shifting to his Bear Form.
+
+“We’ll take care of it,” Malika said, squeezing her hand.
+
+To her relief, and presumably even more so to Cael and Gage, they took her immediately at her word and rushed outside. Malika and Rezan both vanished, appearing in the air before the immense wave of shades as they broke against the central island. They vanished under the onslaught, punching and kicking with flickers and flashes of light. Mato roared and waded in after them.
+
+Ali’s eyes widened, and she gasped, but Calen calmly raised his bow and fired. With an intense flash, a half dozen flame arrows punched through the front line of the shade swarm, but the vast churning shadowy mass provided no resistance to his attack. The arrows pierced the swarm like fish swimming through a wave, generating a rippling cascade of flame and explosions in its wake. Trailing the detonating shockwave of fire and light unleashed by his arrows piercing the shades came a ripple of shining chains of light and the roiling flickers of curses. An entire segment of the shade swarm froze, pinned in place by his devastating attack.
+
+But he had three more volleys in the air already.
+
+“Holy crap, Calen,” Malika said as the oppressive wave of shades was stripped away from her by the force of his onslaught.
+
+“It seems the archer has the right skills for this job,” Rezan said.
+
+“We can help mop up,” Val’korr said, blue light leaping from his fingers to play across the burning, chained, and slowed shades that littered the surface of the island. His wispy hair began to rise, crackling with the energy of his Soul Drain.
+
+“Right,” Malika said, falling back to block the entrance, punching whatever shades managed to bypass Calen’s arrows. “Mato, come help me guard the door.”
+
+Ali let out a sigh, freeing a breath she hadn’t noticed holding, and hunkered down behind her barriers with her Grimoire, summoning monsters to aid her friends. She favored ice mages and imps to bring as much area damage to bear on the flying shades as she could muster.
+
+They came for me. They really came.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

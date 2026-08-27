@@ -1,0 +1,143 @@
+---
+id: cdf6c819-9693-5eaf-ab20-67105070a063
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43"
+slug: 0043-chapter-43
+partOf: emie-ascended
+position: 43
+ownLength: 2251
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3704938/chapter-43"
+royalRoadId: "3704938"
+---
+
+“Did you get enough rest?” Heaven asked when she saw me waiting at the guildhall with an asolade on my shoulder several hours later.
+
+A steaming cup of hot chocolate was gripped in my hands since the temperature had dropped a bit after the sun set. The beverage wasn’t quite the same as what I’d been able to get on Earth, but it was close enough to feel nostalgic.
+
+“It was fine. I ended up staying up to wait for Stephen to get back, but I spent most of the time working on the commissions I had pending for the Enchanter Guild.”
+
+Heaven shook her head as she sat down in the chair next to me.
+
+“Is there any particular reason you are spreading yourself so thin?” she asked. “Don’t get me wrong. I’m sure you know what you’re doing, being an experienced Ascender and all. It just seems like you have a lot going on with three guilds on top of keeping a pretty demanding delving schedule.”
+
+I sighed. Heaven wasn’t wrong. But being able to really heal was rewarding in a way that was hard to describe. I’d always wished my healing skills were more like those granted to Life Mages. At least, I did when I encountered injuries that were not fresh.
+
+And being able to literally regrow an amputated limb or severely damaged organ only magnified my sense of accomplishment, especially since it was something that only one other local healer was capable of at the moment.
+
+A part of me found that odd since it seemed like a logical evolution of any healing skill, but I reminded myself that these healers didn’t have the same background that I did. They likely wouldn’t reach the point where they were offered an upgrade like that until their third or fourth evolution.
+
+I hadn’t even really gotten into the whole Porter thing yet, but the concept of being paid to transport people between cities wasn’t entirely new for me since I’d served as a quasi-taxi a few times back in my old realm.
+
+Transporting people wasn’t nearly as rewarding as healing someone or creating something new, but it would likely pay the best of all of them, especially with the fees involved for managing portal transfers.
+
+Being a part of the Porter Guild also provided a lot of intangible benefits as well, such as protection and safety from anyone who might want to take advantage of my abilities.
+
+And while Enchanting was a lot harder in this realm, the change in methodology made things feel somewhat fresh and new, even if I was mostly just recreating some of the things I’d already mastered in my old realm.
+
+When I explained my thoughts to the senior Porter, she seemed thoughtful for a moment before asking, “Are you doing a lot of creative enchanting, or just manufacturing a lot of the same products? I’d think most of your commissions would be for things like spatial bags and spatial expansion enchantments. That’s what most of our dual Porter-Enchanter Guild members get stuck doing.”
+
+Once again, she wasn’t wrong – at least not about the spatial storage devices. I hadn’t gotten around to experimenting with spatial expansion on rooms or buildings just yet, but once I did, I was sure there would be no lack of demand for my services.
+
+Especially this far away from the city of Portal, where most of the Enchanters capable of such work lived.
+
+Inclining my head in acknowledgment, I said, “You’re right. Most of my recent work for the Enchanter Guild has been to craft preservation storage devices. Once word got out that I was capable of crafting them, the demand has been far beyond what I can manage, even if I dedicated all of my time to it.”
+
+“Oh, you basically outed yourself as the dungeon’s Originator with those,” Heaven laughed.“That’s fine, though. I doubt anyone will bother you, considering your affiliations with three very prominent guilds. Still, I can’t help but feel pretty proud that the Guild Leader assigned me to be your mentor. I’m sure he already knows about your status.”
+
+“Yeah, probably,” I muttered, not bothering to deny her claim. I’d never been very good at keeping things secret, even when I tried.
+
+“Well, it might be worth considering cutting back on some of the responsibilities you’ve piled on yourself. Just because you’re affiliated with the three guilds doesn’t mean you have to dedicate all of your time to them. And it’s also not like you have to delve every single week, either.
+
+“As a bronze ranker, you can easily go a month or two without entering a dungeon as long as you absorb a decent amount of essence when you do go inside. I certainly wouldn’t go any longer than a couple of months, though. Otherwise, you’d run the risk of having stagnation set in.”
+
+“That shouldn’t be something I have to worry about for years, even if I didn’t delve,” I pointed out.
+
+I’d done the research into stagnation since it was something I’d never had to deal with before. From what I understood, a bronze ranker should have a few years before stagnation was even possible, no matter what they did.
+
+“Sure, but those who don’t delve for long periods tend to stagnate much faster once it starts than those who continue to delve but don’t quite gain enough essence to prevent the onset. Taking long breaks from delving also exponentially increases the risk of stagnation. It’s better to just stick to a routine and avoid it altogether.”
+
+Waving her hand, Heaven stood and said, “If you’re ready to get started, we have a lot of cities to visit today. Many of the cities are a lot more interesting than the ones I took you to yesterday, aside from Portal, of course, so establishing waypoints shouldn’t take much time.”
+
+“Portal was special?” I asked as I stored my now-empty cup.
+
+Heaven almost seemed to choke at my question.
+
+“Of course Portal is special! You’ll definitely want to visit later and explore the city. You’ll also need to set waypoints in the Dungeon Complex there and in the large Porter hub. I only showed you the guild itself since I didn’t want to get delayed – and seeing the rest of the city would have almost certainly caused a delay.”
+
+I found myself suddenly very curious about the city housing the Porter Guild’s Headquarters. I’d only seen the inside of the guildhall, so I had no idea what the rest of the city looked like.
+
+The other cities we’d visited looked normal enough, so I hadn’t really thought much about the first stop of the day. I guess I’d just assumed it would be more of the same.
+
+As if reading my mind, Heaven said, “I only took you around the other cities because there wasn’t much unique about any of them. We’ll visit several more cities like that throughout the week as well.
+
+“I probably won’t take the time to show you around as much as I did yesterday, since we really do have a lot of cities to cover and only a week in which to do it. I’ll likely save the least-visited cities for last, just in case we encounter something that delays us too much.”
+
+“Like what?” I asked, nuzzling the curious asolade sitting on my shoulder with my cheek.
+
+Heaven shrugged. “It could be anything. I’d rather not tempt fate too much by speaking bad luck into reality.”
+
+Though I knew this realm did not have Ascenders who’d been Fate Mages (or Soul Mages) in the past, that did not mean that fate did not exist here. In fact, I had a strong suspicion that part of the reason that Dia sent ascending Fate Mages to other realms was that this realm might have a bit too much fate.
+
+Or maybe the goddess simply wanted to be the only one influencing the fate of the people within her realm. Either way, I knew that fate was a real thing, so I found Heaven’s superstitious comment only slightly amusing.
+
+“Regardless, we have a schedule to keep, and our first appointment is coming up. Since this first stop is an actual assignment, you’ll probably want to put Aerie away until we move on.”
+
+When Heaven said that I wouldn’t have much trouble setting waypoints at our first location of the day, she had definitely been understating things.
+
+“Are we… underwater?” I asked, looking around the wide-open space we’d teleported to.
+
+Unlike the rest of our arrivals, this time, we didn’t appear inside a Dungeon Complex or guildhall. In fact, we weren’t inside any conventional structure at all.
+
+Instead, we were under what appeared to be a massive dome that reminded me strongly of the underwater hotels I’d visited on Earth before I ascended. Particularly, the newer one that relied on wards and enchantments to hold back the water.
+
+Above the dome was at least twenty meters of water, perhaps more. It was hard to tell without a basis for comparison on this world.
+
+The way the rays of sunlight fell through the gently flowing water felt like about twenty meters, but without some kind of measuring device, I couldn’t know for sure.
+
+Even with the number of space-related skills I had slotted, my connection to the concept of ‘space’ was no longer deep enough to allow me to know such things instinctively.
+
+“Yes,” Heaven replied. “Welcome to the city of Seabed. It is the only such city that I am directly aware of, though there are rumors of another underwater city somewhere closer to your side of the world.
+
+“Aside from being located in an underwater dome, Seabed is unique in that it is one of the very few cities that originally did not have a dungeon. The dungeon that it does have is only a beginner dungeon, and many of the city’s inhabitants have never even set foot inside.”
+
+“I thought all Dians had to reach the first evolution before they were officially considered adults?” I said curiously. “Isn’t remaining unevolved against the goddess’s decree? Also, how do they reproduce? Aren’t copper and iron rankers infertile?”
+
+I had so many questions that I couldn’t help but blurt out a few of them.
+
+“You are mostly right, though Seabed does not strictly adhere to the goddess’s decree,” Heaven said with a wince. “She hasn’t smited the city, though, and demons can’t reach them here. I think that’s the only reason the city is allowed to exist.”
+
+I knew that demons didn’t like large bodies of water, but I hadn’t realized that such an aversion could allow people to create a community where they would be safe from demon attacks.
+
+Islands were also safer since only flying demons could reach them, but they still weren’t safe like an underwater city would be.
+
+“And the kids?” I asked.
+
+“You’d be surprised at how many people want to move here to start a family,” Heaven answered. “Most of the people coming here are for that purpose – to start a family somewhere outside the reach of demons. The rest are traders or a few rare visitors.
+
+“We also schedule monthly visits to transport any of the city’s youths who want to leave to the Dungeon Complex in Portal.”
+
+She motioned toward a small group of young Dians gathering nervously nearby. “The timing happened to work out, so I agreed to handle the transfer this week to show you what to expect if you get asked to do it in the future.
+
+“You’ll need to set a waypoint at Portal’s Dungeon Complex, obviously, but you can do that later. I’ll handle the transfers for now while you imprint the waypoint here.”
+
+I knew we had a lot of cities to visit, so I didn’t ask to spend any extra time exploring the underwater city. Instead, I focused on creating a waypoint at the arrival platform of Seabed.
+
+It wasn’t hard. In fact, it was probably the easiest location to become ‘sufficiently familiar’ with that I’d encountered. It made me wonder if I could teleport between realms to some of the familiar places that had made a deep impression on me in my last life.
+
+No.
+
+The answer came swiftly. I wasn’t sure if it was the system, the goddess, or my own soul answering. But as soon as I seriously entertained the possibility, something had very firmly ensured I knew that there was no going back.
+
+‘Creepy,’ I thought with a shiver.
+
+“Are you done?” Heaven asked. I only then noticed that she’d returned and all but a few of the gathered youths had disappeared.
+
+“Yes.”
+
+“Good. I’ll take you with me for the last trip so you can see what to do if you’re ever asked to handle the transfer. Don’t bother trying to set a waypoint at our destination. Since you’ve already got a waypoint at the guildhall, you can just go by and set the rest of the local waypoints later.”
+
+Having seen pictures of the city of Portal, I wasn’t sure why Heaven seemed to think exploring a bit would take up so much time. But since she was the one in charge, I didn’t question it.
+
+We really did have a lot of cities to visit, and our day was only just beginning. Besides, it would be fun to come back and explore the home of the Porter Guild with the rest of the party another time.

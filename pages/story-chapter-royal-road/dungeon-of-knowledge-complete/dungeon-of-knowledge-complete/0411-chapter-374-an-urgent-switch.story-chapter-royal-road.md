@@ -1,0 +1,123 @@
+---
+id: 3a093002-051b-5f3c-8168-9a969279e323
+page-type-slug: story-chapter-royal-road
+title: "Chapter 374: An Urgent Switch"
+slug: 0411-chapter-374-an-urgent-switch
+partOf: dungeon-of-knowledge-complete
+position: 411
+ownLength: 2234
+unit: words
+ownProgress: 2234
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2592492/chapter-374-an-urgent-switch"
+royalRoadId: "2592492"
+markedReadAt: "2026-06-29T20:25:56.646Z"
+---
+
+“Mato, help!”
+
+He already knew she needed help; Survival Instinct had made it abundantly clear that Malika would have died if that last attack hit. The great weeping wounds on his trunk bore testament to the deadliness of the Bone Avatar’s strikes.
+
+Malika was enormously powerful right now, thanks to her skills increasing in potency the longer a battle continued, but her tanking style relied on dodging, which was an inherently risky endeavor. In this case, Alexander’s abomination could kill her with a single strike, and while she could dodge most, it would be all over the moment she failed.
+
+He was a far blunter instrument. He didn’t rely on dexterity or an impressive suit of well-honed martial arts, pitting skill and control against mindless violence. Sure, he could fight – but he’d always been more of a brawler at heart. His tanking strategy relied on armor instead – armor, backed by a massive pool of health to soak up whatever came his way. He would take more damage over the long run, but every single hit would be reduced to survivable, meaning in a fight like this, he was the best choice for tanking. Still, he was far from helpless in the damage department with his retaliation and void claws.
+
+Malika was no slouch; she grasped the situation instantly.
+
+“On my way. Keep dodging,” he said, delivering his words directly to her mind with his Limited Telepathy. His transformation was quick, but not that quick. She would be vulnerable for a few moments, and the monster had just given itself Frenzy.
+
+Uh, just a few seconds, please? He had never been particularly religious even though he had the patronage of Azryet, but he still sent him a quick note just in case his god was watching. His body warped and twisted, taking on the form of his Dire Bear. The rest of the raid group would just have to manage against the mounting diseases for a while.
+
+Malika dodged, weaving her body to the left. Then she ducked under deadly cleaving claws. The slashes and bites bore down on her in an inhumanly feral frenzy, interspersed with waves of death magic that blasted out in all directions, but through the deadly dance, he saw Malika dodging ever closer toward him.
+
+Smart.
+
+His transformation was near completion when what he feared most, happened. She ducked a roiling dark bolt, miscalculating a vicious short swipe that seemed to come from nowhere. The claws slammed into the side of her ribcage with a sickening crunch, tossing her rolling like a rag doll, but she had cunningly maneuvered the fight so she landed squarely in his rapidly shrinking Sanctuary aura. Mato winced as he split the damage with her. His sharp ears caught the snap and sizzle of a bolt of darkness fired with blistering speed, aiming to end her while she was still airborne, but she twisted and took it on her thigh. Mato redirected the damage without hesitation – any disruption in her ability to move would be a death sentence. A wave of healing magic burst out from her body, bathing him in its searing radiance and stitching up his wounds rapidly.
+
+Still twisting into his final form, Mato charged, slamming side-on into the much more massive abomination of bone that was Alexander Gray. With a roar and a Swipe, he ripped through bone armor with claws of void, laced with a sudden trace of holy whiteness.
+
+You have gained Azryet’s Wrath.
+
+Thank you. Thank you for the damage. There was no trace of his typical humor in his thoughts this time. It had been too close for that.
+
+His strike ripped armor and bone asunder and layered his first instance of Brutal Restoration. The abomination turned upon him with a snarl and a blast of death magic to his face, but Mato ignored it, studying his opponent through Survival Instinct.
+
+Malika punched it.
+
+Ballsy. Attracting the monster’s attention after such a close call was a dangerous move, but Malika was a technical fighter; she knew exactly what she was doing.
+
+Alexander Gray wheeled back to punish her, but Mato was faster. Retaliating instantly with Battlemaster, his void claws ripped downward through bone with ease, empowered with everything he could throw at it. Roots burst upward from the ground, entwining the monster’s legs while his critical damage triggered Brutal Restoration to flare a green blast of nature magic that healed all his nearby allies – a nice perk of his class evolution.
+
+The abomination spun back, its huge racks of giant, wickedly sharp bone claws blurring with speed – a speed that Survival Instinct identified as the same attack Kir’mogan had used against him to such good effect when they first stumbled into Aman Rak all bright-eyed and bushy-tailed.
+
+Bring it on!
+
+Mato braced himself against the ground and blocked. The crushing weight of the shockwave traveled down through his legs, shattering cobblestones beneath his feet as his body was driven a foot downward into the ground, but he didn’t buckle. Instead, the force rebounded in a shattering crack that blasted shards of bone from the monster’s back as the reflected and amplified wave blasted completely through its body and out the other side.
+
+Got you. He grinned, baring his teeth. After that, there was no way this monster was going to lose interest in him.
+
+“Locked,” he sent to Calen. “Kill this ugly fucker.”
+
+“Go!” Calen roared. “Potions, recharges, use everything! Come on!”
+
+And the entire raid group did just that.
+
+***
+
+The huge abomination collapsed and shattered. White bone fragments rained down on the exhausted raiding team, clattering against the cracked and broken cobblestones and leaving the blackened corpse of an undead mage lying in the stark embrace of the remains of his Avatar. He seemed tiny and insignificant compared to what he had just been.
+
+Several chimes went off in Mato’s mind, but he ignored them. After all, they were still in the middle of a battle, and he wasn’t about to relax until the final monster lay dead. Glancing around at the battlefield, he found Havok still tanking the Ghoul nearby. To one side, where he had planted himself as a tree, Sabri and Basir were off-tanking a writhing sea of skeletons and zombies while arrows and spells raked the sky, trying to clear the air of flying wyverns – all of which had been ignored and allowed to build up while the group focused on burning down the main threat of Alexander Gray as quickly as possible.
+
+“Fliers first,” Calen directed. “Area damage on the skeletons. Let’s clean this up. Melee fighters, begin wiping out that Ghoul.”
+
+“Thank you,” Malika said softly, laying a hand on Mato’s shoulder and pulsing healing magic through him.
+
+“No problem,” he sent. It seemed that the battlefield was well under control and had no need for another tank, but the diseases were running rampant, now, with many people billowing miasma from their bodies while they tried to not infect their friends. Teagan’s brow was furrowed with concentration and beaded with sweat.
+
+“I’ll tree up,” Mato said, directing his thoughts to the pressured healer. Without even moving from where he stood, he planted himself once again and extended the magic of his Sanctuary to the whole raid, beginning to dissolve the virulent disease en masse.
+
+“All bark and no bite, eh?” Malika grinned, patting his trunk as she zoomed past to join the group targeting the Ghoul.
+
+Huh. He really needed to advance so that he could swat her with a branch.
+
+***
+
+Four full raid groups and five platinum-ranked adventurers made short work of the remaining undead and the Plague Ghoul, and soon enough, people were sprawled on the ground panting, meditating, or gazing off into nothing as they inspected their notifications.
+
+I should check mine, too, Mato decided, not bothering to shift back yet. A few moments to recover after the long and strenuous battle was just what he needed. Let’s see if I earned my dinner.
+
+Elemental Shapeshifter has reached level 111 (+5).+50 attribute points.Arboreal Sanctuary has reached level 49 (+2).Swipe has reached level 61.Bear Form has reached level 57.Rampant Growth has reached level 29 (+3).Natural Prowess has reached level 45.Survival Instinct has reached level 56 (+3).Battle Trance has reached level 40.Identify has reached level 19.Cooking has reached level 23 (+2).Herb Gathering has reached level 21.
+
+Pretty good for a day’s work. Considering the broader implications of the battle for several minutes, he decided that vitality was the most important attribute for him right now. Having to suddenly tank an entire raid’s worth of damage while most of the healers were incapacitated by fear wasn’t something he relished doing again, but being prepared was probably smart. Fourteen points went a long way to boosting his health. He spent eleven each on endurance and strength. Five points went to wisdom because it supported so much of his class. Even though he joked about his lack of investment in intelligence and dexterity, he knew it was a good idea not to ignore them entirely. Intelligence was quite useful in Tree Form as he was restricted primarily to spells, and a little dexterity went a long way to improving his reactions for blocking dangerous hits. He spent three points each on intelligence, dexterity, and perception, rounding out his investments nicely.
+
+Perfect. I hope the others did well too. At least now Lira can reclaim her forest completely. That feels like… quite the accomplishment.
+
+Ali drifted out across the shattered remains of what had once been Lyton’s modest town square, studying the aftermath of the battle. The old cobblestones were scored and cracked from the immense weight of Alexander Gray’s final Bone Avatar abomination, and here and there, she found craters from the force of her Carnage Berserkers Leap skill. Thick slabs of ice were slowly thawing, revealing the scorch marks from magical fire and the glassy sheen of lightning strikes and the domain of death was visibly unravelling from the outside in.
+
+“Go get me that shrine, before it becomes a problem,” she said, and a nearby kobold rogue equipped with a sufficiently large storage ring scampered off to do her bidding.
+
+She carefully skirted a pool of bubbling black sludge still spewing noxious miasma into the air around it. A single boot jutted out of the muck, listing to one side as it slowly dissolved. Ali raised one eyebrow at the sight, glancing left and right searching for anyone missing footwear. The living aura pulsing outward from Mato’s massive trunk and branches slowly dispersed the gas, disease, and even the poisonous slurry that made up the Plague Ghoul’s nasty magic.
+
+“That was a bit rough,” Calen said, floating down to join her. The outskirts of the devastated town still rang with the sizzle-thump of detonating Fireballs and the blinding crack of Chain Lightning. Swords and shields clanged and crashed in the distance as the raid split into smaller teams to clean up the few remaining monsters as the dungeon began to break – lesser undead, drawn in toward the center either by the enormous volumes of mana unleashed during the battle or the sudden vacancy in the domain created by the death of four raid bosses.
+
+“Yup. It’s to be expected, though. We did take on four raid bosses at the same time,” Ali said, but nobody had died and that was the main thing. Now the whole dungeon could be dismantled, and the forest fully reclaimed. Likely that would be a work of many years, but with Lira’s magic, Ali was confident the forest and the entire region would be fully restored.
+
+For Lyton itself, there was probably no hope. Very little remained, and any town would have to be fully rebuilt and repopulated with entirely new people – something that was unlikely to happen in such a remote spot until there was a thriving forest to support people and their livelihoods, and the last traces of all this destruction were erased.
+
+“Good job, Calen,” Vivian said, striding across the battlefield, her boots clicking on the cobblestones.
+
+Absently, Ali glanced at the Guild Master’s feet, but she wasn’t missing a boot.
+
+Ali’s attention drifted away as the two of them began discussing strategy in the aftermath of the battle. While Lyton was probably a lost cause, there was something urgent she needed to take care of. She flew directly over to where Alexander Gray lay face down, cradled by a large pile of shattered bone. Seth didn’t think his corpse was salvageable after having been killed again as an undead, but she wasn’t about to make the same mistake twice. Not like I had a chance last time. This time, she would make sure to deconstruct him, ensuring there was no coming back.
+
+She reached down to touch the cold undead flesh, but right as she was about to cast her spell, she sensed a sudden urgency and desperation pulsing through her minion connection. Ali spun about. Her kobold rogue stood frozen before the hovering stone prism of the artificial shrine. A lone ghoul towered above the kobold, dripping paralytic ichor from its claws and wide-open jaws. As those blackened claws descended upon her helpless minion for the killing blow, runes projected from the shrine began to light up in the all too familiar glow.
+
+Oh, hells no!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

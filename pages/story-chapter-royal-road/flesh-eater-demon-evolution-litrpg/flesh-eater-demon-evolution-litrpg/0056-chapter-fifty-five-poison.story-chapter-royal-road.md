@@ -1,0 +1,191 @@
+---
+id: 6c023484-96c2-52cb-a0ca-cf90abdaea58
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Five: Poison"
+slug: 0056-chapter-fifty-five-poison
+partOf: flesh-eater-demon-evolution-litrpg
+position: 56
+ownLength: 3141
+unit: words
+publishedAt: 2026-01-10
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2929149/chapter-fifty-five-poison"
+royalRoadId: "2929149"
+---
+
+In the center of the bedroom wall, the hanging clock ticked steadily. Daphne glanced up to check the time, then peered behind her.
+
+It had taken some convincing, but she’d managed to get Pyre to lay down on the couch in the corner of the room. It wasn’t actually long enough for her—her legs hung over the sides—but she said she didn’t care.
+
+Right now, the guard lay casually back on the sofa with her eyes closed, one arm haphazardly tossed over her chest while her legs were propped up on the armrest. She hadn’t moved at all since Daphne had convinced her to take a nap, but considering the guard’s usual uncanny stillness, that wasn’t actually all that unusual.
+
+Daphne spun back around in her chair to face her desk. She’d noticed something was off about the guard the second she’d opened her door that morning. She’d been studying Pyre closely the previous day—mostly to check for anything suspicious—so she was pretty in tune with the way she walked and moved. There was always an easy, languid confidence in her every step, so the sudden slight hesitance had stuck out like a sore thumb.
+
+Daphne reached a hand up and rubbed at her chest. She hadn’t been feeling any ichor-poisoning effects herself, but seeing Pyre like this was a stark reminder that that wouldn’t hold forever.
+
+It was easy to forget that the guard was ichor-poisoned at all, to be honest. Despite the bandages otherwise being a blaring sign, she had such a lax aura about her that it was hard to think anything was wrong at all.
+
+Daphne shook her head. That was a silly thought, of course. She herself made it a point to hide her condition. There was no reason to think the guard was any different.
+
+Leaning forward, she picked up the letter she’d been reading. Edmund had been sending her consistent updates from the capital since he’d left, and this was the latest of his messages. Her eyes scanned the paper, taking in the words.
+
+Dear Daphne,
+
+I hope you’re well, cousin. The weather in the capital has been pleasantly mild these past few days. I think it might rain this week.
+
+Daphne snorted, though she made an effort to keep quiet so as to not disturb Pyre. Ever formal as always. Edmund always started his letters talking about the weather, probably because he didn’t know how else to begin them. She kept reading.
+
+The council has continued meeting, but I regret to say that we’re no closer to resolving the issue I discussed with you last week. Many questions remain unanswered, and I fear we’ve no more leads than before.
+
+That made Daphne frown. They were always vague in their letters on the off chance that they were intercepted, but it was clear that Edmund was talking about the war and the empire’s possible impending invasion. The council had been pouring all its resources into trying to figure out how the empire was going to cross the spine (the leading theory still being some kind of magic), but it looked like they still had no answers.
+
+Daphne bit her lip. At this rate, Auren might be better off building up their defenses instead of continuing to fruitlessly hunt this spell down. She remembered what Pyre had said about her meeting with her uncle, how he’d seemed convinced of the empire’s invasion. Her fingers tightened around the paper. This really was happening.
+
+She shook her head and continued scanning the page. Edmund provided a few more purposefully vague updates about the council, then asked how she was doing.
+
+He didn’t know about Pyre’s existence yet. She wasn’t sure how her cousin would react to the sudden addition of a new personal guard to the manor.
+
+Daphne snorted to herself. It would be funny when Edmund and Pyre met. Her cousin’s hyper-serious awkwardness would probably clash horribly with the guard’s entire demeanor. She, for one, was looking forward to it. Considering what was happening with the empire, she needed to hold onto little bits of brightness like this when she could.
+
+As Daphne reached the end of the letter, she slowed a bit.
+
+Do you know how father is doing? I haven’t heard from him since his last letter. I worry my response was lost in the mail.
+
+Daphne’s eyes darkened. It looked like her uncle hadn’t managed to keep up on his promise past a single letter. On one hand, it wasn’t surprising, but she still couldn’t help but be a little disappointed.
+
+She grabbed her pen and began writing out a response. She kept her tone cheery, updating her cousin on the manor happenings with as much good humor as she could fit on the page. She even managed to keep it up when she brought up her uncle, because despite her desire to cuss the man out, Edmund still idolized him and hated to hear anything negative about him. Considering how stressed he probably was dealing with all the war meetings, she wasn’t going to add to it.
+
+Once Daphne was done, she read over her response again. She nodded and set her pen down, satisfied. A quick glance at the clock told her about half an hour had passed since she’d started writing.
+
+She turned around in her chair to look at the sofa again, only to jump when her eyes met steely grey ones peering silently back at her.
+
+On the couch, Pyre still lay stretched out in the exact same position as before. Only her eyes had snapped open, and they now watched her with the same uncanny stillness that seemed to be the guard’s signature.
+
+“Don’t do that,” Daphne hissed. No one that tall and muscular had any right to be so quiet.
+
+“You writing to someone?” the guard asked, completely ignoring her comment. If John or Harris or her uncle were here, they probably would’ve been horrified at the rudeness, but Daphne found it oddly refreshing. She was all too used to the tightly wound artifice and white lies of the aristocracy. This sort of relaxed, blunt forwardness was all too rare.
+
+“My cousin,” she explained. “We’ve been keeping in touch.” She pointed at her finished letter for emphasis, then carefully folded it and placed it inside a fresh envelope. She’d drop it off after dinner to be delivered.
+
+“Are you feeling better?” Daphne asked, turning again to Pyre. The guard grunted.
+
+“Pretty good, yeah.” She knocked a hand casually against the sofa. “You’ve got a nice couch.”
+
+Daphne laughed. “It is pretty comfortable.” Lord knew she’d fallen asleep on it several times in the past.
+
+The noble slid over so that her chair was a little closer, hesitating for just a moment as she faced the guard.
+
+“If you don’t mind me asking,” she began slowly, “how bad is the ichor-poisoning? I mean—what kind of symptoms do you have?”
+
+It felt like she was breaking a taboo just by asking. Growing up, the people around her had always danced around talking about her condition directly, usually resorting to pitying glances and vague mentions. Almost everything she knew about ichor-poisoning was from her own research, and stuck in Magrath as she was, she had yet to talk to anyone dealing with the same thing. It was almost surreal to be able to do so now.
+
+Pyre gave her a long look, those sharp grey eyes as unreadable as ever. Finally, the guard rose, thin black ponytail streaming behind her like an inky snake until she was seated up on the couch facing Daphne.
+
+“You squeamish?”
+
+The noble snorted. “Definitely not.” She wouldn’t have been able to pull off half her pranks on Edmund if that was the case.
+
+The guard hummed in acknowledgement and reached up towards her neck. She looped one finger below the bandages there, then yanked them down.
+
+Almost immediately, the flesh below the bandages quivered. Daphne watched in fascination as skin and muscle began to sink downward, peeling away like they weren’t properly attached to the bone. The flesh almost looked liquid. It reminded her of melting candle-wax.
+
+Pyre let the flesh sink down a bit more, then pushed it back up and wrapped the bandages around the spot again. Once she was done, bandages tightly wound, her neck looked the same as before. You couldn’t tell at all that the flesh below was anything but perfectly solid.
+
+“That’s the main thing,” Pyre said. Even now, her voice remained a casual drawl. “Makes showering a little annoying, but not the end of the world.”
+
+Daphne laughed and shook her head. “I think most people would call that more than just annoying.”
+
+The guard raised an eyebrow, but she returned the grin with her own too-wide one. “Most people would look at least a little freaked out after seeing flesh melt,” she countered. The older woman cocked her head.
+
+“What about you?”
+
+Daphne paused. It was obvious what Pyre was referring to, and she was a little confused at first. Every citizen in Magrath knew about her condition. Even despite her uncle’s best efforts to hide it, rumors spread like wildfire. She remembered that Pyre wasn’t actually from Magrath, though. The former mercenary probably genuinely didn’t know.
+
+“It’s not as dramatic,” Daphne began. One hand unconsciously moved to her chest. “I get these… attacks. My chest will hurt suddenly, usually after I’m near too much ichor.” She smiled wryly. “I usually end up blacking out. It’s embarrassing, to be honest,” she laughed.
+
+Pyre listened silently, studying the noble with those unblinking eyes. Daphne’s own gaze shifted over to her desk as she continued talking. It was oddly freeing to be able to speak so openly about her ichor-poisoning for once. It felt like a weight being lifted off her shoulders.
+
+“I hate how people behave around me,” she said truthfully. “They act like I’m about to collapse and die any second. Even Edmund.” She shook her head. “I get they’re worried, but they treat me like I’m some kid who doesn’t know what’s going on.” Her fingers clenched into a fist. “I know I’m dying. I know better than anyone. That doesn’t mean I have to act like I’m on my deathbed all the fucking time.”
+
+Daphne took a deep breath, forcing herself to shove down that old, boiling anger before it simmered over. This topic always riled her up.
+
+She turned back to Pyre, deliberately using a more lighthearted tone. “You probably know what I mean,” she said to the guard.
+
+A few seconds of silence passed, those sharp features as impossible to read as ever. Finally, Pyre spoke.
+
+“I don’t.”
+
+Daphne blinked, taken aback. “What?”
+
+“I don’t know what you mean.” The guard’s voice was blunt and her expression just as flat. “I’m not dying.”
+
+This wasn’t at all where she’d expected the conversation to go. Daphne shook her head disbelievingly, not knowing what to make of the words.
+
+“What’re you—”
+
+“I’m ichor-poisoned, but it’s not life-threatening,” the guard continued. She cocked her head, unblinking eyes still watching her steadily. “And I’m not saying that to be cruel or whatever. I’m telling you because I can’t relate to you in that way, and I’m not going to pretend like I can.”
+
+A million thoughts flew through Daphne’s head as she parsed through Pyre’s words. Of course, she knew that not everyone who was ichor-poisoned necessarily died from it. It was rare, but if someone got away from the cause fast enough, their life span might only be shortened by a few years at most. She just hadn’t considered that the guard could fall into this category.
+
+A fresh mixture of emotions rose in Daphne’s chest. Bewilderment. Indignance. Disappointment, maybe, that she hadn’t found someone who knew what she was going through after all.
+
+But above all, there was an odd strand of gratitude that cut through even the worst of the negative emotions. The guard could’ve let her continue believing that they were in the same situation—every other person she knew would’ve, both to avoid the fear of “hurting her feelings” by correcting her and to try and get closer to her through the guise of shared circumstances. But she hadn’t. She’d been honest and hadn’t faked empathy where it didn’t exist.
+
+“I see.” Daphne casually adjusted her dress, smoothing out the cloth with her fingers as she took a moment to compose herself. She cleared her throat. Any other emotions she shoved down, instead raising her head to meet Pyre’s gaze steadily. “Thank you for telling me.”
+
+A beat of silence passed, neither one moving or saying anything. Finally, Daphne smiled, breaking the tension.
+
+“John would definitely kill you if he found out you talked to me like that.”
+
+A sharp grin broke through the expressionless mask on the older woman’s face. She cocked her head. “Good thing he’s not here right now,” she drawled.
+
+Daphne tossed her head back and laughed, shoulders shaking with the movement.
+
+She felt lighter than she had in a long time.
+
+The night was quiet. Daphne shifted in her bed and glanced at the clock, squinting through the darkness to make out the numbers. 3am. She rolled back and heaved a sigh. She hadn’t been able to fall asleep all night.
+
+Daphne had spent the rest of the afternoon talking with Pyre. Alone in the room with no other guards or servants around, they’d been able to chat freely. In addition to her perpetually relaxed attitude, it turned out the guard had a sardonic, sharp sense of humor that had the noble laughing harder than she had in a long time. By the time dinner rolled around and Pyre’s shift was over, she’d been sad to see the guard go.
+
+Daphne rolled over again. She still didn’t feel remotely sleepy, and she found her thoughts wandering back to the day’s events. Despite Pyre saying she felt better, her walk had still been a little more careful than usual when she’d left that evening. Daphne frowned. She’d said she had a guard shift tonight, too.
+
+She glanced at the clock again. If her memory of the guard schedules was right, Pyre’s current shift should be ending soon.
+
+Daphne couldn’t help but be a little worried. Obviously the woman was very strong (that bag punch had made it clear), but she got the feeling that she was the sort of person who ignored any and all injuries or illnesses they got. What if she collapsed somewhere? Well, that was maybe a bit too dramatic. She couldn’t imagine Pyre doing that. She could see her getting herself more sick because she’d brushed off any warning signs or symptoms.
+
+Daphne sat up. It wasn’t like she was able to sleep right now anyway. She’d go to the servant’s wing and check up on the guard, she decided. It wouldn’t take long. She’d just verify that Pyre had made it to her room alright, then go back to sleep. The guard didn't even have to know she was there.
+
+Mind set, Daphne jumped out of bed and tossed a coat on. It was chilly tonight, but she’d be quick. She swung open her door and carefully stepped outside.
+
+The manor was dead silent at night. She knew there were a few patrol guards around, but it looked like they weren’t in this wing right now. She’d rather not run into anyone, mostly because she didn’t feel like dealing with the inevitable scolding, so she made a point to move quickly and quietly.
+
+It didn’t take long to reach the servant’s quarters. She did have to be more careful to not bump into anyone here, but she was able to take a few detours to get to the rooms. Based on the glimpse of her schedule that she’d gotten, Pyre should be in room B4.
+
+Daphne stepped down the hallway, squinting to make out the signs in the dim torchlight. Finally, she reached the one she was looking for.
+
+The door was shut. The noble leaned forward to press her ear against it, but as she did so, the entire thing swung forward. She just barely managed to catch herself on the frame and frowned. Had Pyre forgotten to lock her door?
+
+Slowly, Daphne leaned closer to peer into the room. It was hard to make out details in the darkness, but after a thorough sweep, one thing was clear. The room was empty.
+
+Her brows furrowed. Maybe Pyre hadn’t returned from her guard shift yet. She could be on the way back right now.
+
+Despite the possible explanation, a nagging feeling rose in her chest. She couldn’t help but worry that the guard had actually passed out somewhere after all. Daphne stepped back, shut the door, and hurried back down the hallway.
+
+It occurred to her, as she made her way to the manor’s back entrance, that she was probably being ridiculous. Pyre could be in the washroom, or maybe she had a meeting with John. She wouldn’t put it past the butler to schedule a check-in right after a night shift.
+
+Still, she was already here, so Daphne kept going. She continued down the hallway, glancing out the windows as she passed by. The moon was bright tonight, and she could see a sea of stars sparkling through the clear glass. The manor grounds somehow looked even more vast in the darkness, the forest appearing like a dark ocean set to swallow everything up.
+
+In the corner of her eye, something moved.
+
+Daphne stopped. She immediately spun around to face the window, only to be greeted by none other than the very person she was looking for.
+
+Standing in front of the forest, Pyre’s back was to the manor, but that height and build were unmistakable. From what Daphne could see, the woman was still wearing her guard uniform. She relaxed a little. So Pyre was just a little late returning from her shift. She’d been overreacting after all.
+
+Daphne shook her head. Maybe she was more like her uncle than she thought, if she was this paranoid over something so minor. The noble turned, about to head back to her room, when her eyes briefly flitted to the window again.
+
+Outside, Pyre ducked into the forest.
+
+Daphne stopped and frowned. She waited to see if the guard would appear again, but she didn’t. She’d simply disappeared into the shadows of the trees, gone from view. Where was she going at this hour?
+
+The earlier nagging sensation returned, but this time it was accompanied by a growing coldness in the pit of her stomach. All her suspicion from their first meeting returned full force, now tinged with a bitter, stinging sensation in her throat. She clenched her fist.
+
+Spinning around, Daphne hurried towards the back doors to follow the guard.

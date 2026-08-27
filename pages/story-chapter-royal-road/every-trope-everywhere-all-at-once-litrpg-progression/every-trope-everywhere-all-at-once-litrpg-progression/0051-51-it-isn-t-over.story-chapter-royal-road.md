@@ -1,0 +1,203 @@
+---
+id: 88e5a0ea-617a-5272-894b-67dd0a08dc95
+page-type-slug: story-chapter-royal-road
+title: "51 - It isn't Over"
+slug: 0051-51-it-isn-t-over
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 51
+ownLength: 1664
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3563980/51-it-isnt-over"
+royalRoadId: "3563980"
+---
+
+Aurelius was faster than any of us could imagine. Even in a body that wasn’t his, it looked as though he had been born an angel his entire life.
+
+Reina shot her arcs of light from Dawn Sunderer. Talon’s talismans exploded mid-air. I cast several fire and wind spells while Aeris’s cyclones and fire breath chased him down.
+
+But he wasn’t just fast. He was unpredictable.
+
+He dove, flipped, and tore through the air. His rings chased us down wherever we moved. Being as fast as she was, Tuna had no trouble avoiding the rings. Aeris on the other hand, despite also being quick, was much larger, making it harder for her to dodge. The rings shot into her scales, returning to Aurelius’s side before shooting at her again. The attacks weren’t devastating, but I could tell it was affecting her.
+
+“I’m fine!” Aeris said. “Just keep attacking!”
+
+The Dragonrider’s Saddle I had just placed on her allowed me to understand her, even in her dragon form.
+
+“Some of our mana is shared,” I said. “It feels much easier for me to cast my spells, but I just can’t seem to touch him. We need a different plan.”
+
+I looked at the island below us. Meriel was still down there with Kaelor, healing his wounds. We needed to do all we could to defend them against the Borrowed One.
+
+But even so… What could we even do? He was too fast. Too powerful.
+
+Being Level 231… I’d never seen such a high Level before in this world. Even Aeris was only 179. She was strong enough to hold off against his attacks, but she couldn’t land a single attack on Aurelius.
+
+But the worst part was how casual he looked. He wasn't breathing heavily, frustrated, or taking any damage. Every movement from him looked effortless, almost like he was playing with us rather than fighting us.
+
+A ring grazed past my shoulder. Pain shot through my arm, nearly causing me to lose my grip on Moonweaver.
+
+“Allene!” Reina shouted as Tuna flew beside us.
+
+“I… I’m fine!”
+
+No.
+
+I wasn't.
+
+Even though the attack had barely grazed me, my entire arm felt numb.
+
+Another barrage of rings shot toward us.
+
+Aeris shielded me with one of her wings. Her scales rippled as she winced from the impact. The rings continued to shoot out, again and again, forcing her on the defense.
+
+I began to realize what Aurelius was doing. He wasn't trying to kill us. He was wearing us down.
+
+Reina and Talon continued their attacks, all for the same results. He flew and avoided all of them.
+
+“We can't keep fighting like this!” Talon yelled.
+
+The longer this went on, the more the battle favored Aurelius. Every spell I cast used more mana—not just mine, but Aeris’s as well, since our mana was partially shared. Every attack Reina launched missed. Every explosion from Talon’s talismans only gave Aurelius the advantage as he used the smoke clouds to hide himself.
+
+Then, Aurelius smiled.
+
+He finally stopped attacking us.
+
+And we stopped attacking him.
+
+“That’s enough,” he said, glancing at the island below us. His eyes went to Meriel, then Kaelor, then to the hollow body at the center of the island.
+
+He snapped his fingers.
+
+The rumbling grew louder. The island looked like it was about to tear apart, but Meriel stayed right beside Kaelor, doing everything she could to fully heal him.
+
+Then came the flashes of light, too many to count.
+
+“This…” I muttered.
+
+I recognized them right away.
+
+They were portals. All of them.
+
+“They’re coming!” Reina shouted.
+
+Countless monsters emerged from the portals. Porcelain Harpies. Gargoyles. Even the knights we had fought when we had first entered the dungeon, only this time, they weren't bound by chains anymore. They flew through the air, not with wings but with some kind of magical spell.
+
+But that wasn't all. Among the monsters pouring out of the portals were ones we hadn’t even seen before.
+
+There were four-legged hounds the size of wolves walking through the air, as if each step had an invisible platform beneath them. These beasts were entirely made of celestial halos.
+
+There were stone angels, each with six broken wings. Their movements were erratic and unnatural, just like the stone angels Reina and I saw in front of the manor. This time, they were able to fly.
+
+There were massive ravens, their wings made of stained glass, flying in groups.
+
+I could go on and on about the different kinds of monsters emerging from the portals, but getting lost in my own thoughts would just get me killed.
+
+[TROPE COMPLETED: THE EVIL CAVALRY ARRIVES]
+
+[SKILL ACQUIRED: FLEE]
+
+Type: Active
+
+Effects:
+
+- You and nearby allies receive a boost to your movement speeds when fleeing from a large group of enemies
+
+- You and nearby allies receive a penalty to your movement speeds when going toward a large group of enemies
+
+Duration: 1 minute
+
+Cooldown: 10 minutes
+
+Well, it’s pretty damn obvious what the System wants us to do now. As if it wasn’t obvious enough, my passive skill, [WRONG OBJECTIVE] was telling me to do the same.
+
+It’s time to get the hell out of here.
+
+“We can’t fight this,” I said. “Everyone, go back down!”
+
+We dove toward the island, where Meriel and Kaelor were. With the way the two of them were standing, it looked like she managed to fully heal him just in time.
+
+“Yeah… things aren’t looking too good,” Kaelor said, stretching his body. “Thanks for the healing, Meriel. I know it looks quite worrying with all the blood I spilled as I came tumbling out the portal, but I actually feel quite nice right now.”
+
+“How are you acting so calm?!” I cried.
+
+Kaelor looked around at the endless monsters continually pouring out of the portals.
+
+“Because I have a plan,” he said, using wind magic to pick both him and Meriel up and bring them on top of Aeris, sitting just behind me.
+
+“Then say it quickly,” Meriel said. “Or we’ll be dead in about ten seconds.”
+
+Kaelor pointed at the portal that would take us out of this dungeon.
+
+“It’s time for us to run,” he said. “Let’s go, dragon. Take us out of here!”
+
+She began to fly toward the portal, but halfway there, a familiar set of rings shot toward us, forcing not only Aeris to dodge, but also the three of us riding her to duck.
+
+Aurelius descended from the air, standing between us and the portal.
+
+We stopped. Tuna hovered just beside us with Reina and Talon on top of her.
+
+“Push through,” Kaelor whispered.
+
+“What?” I whispered back. “He’s in our way. How will we do that?”
+
+“Just go,” he said. “Trust me.”
+
+I let out an audible gulp. From everything Kaelor had done for us so far, I had no reason not to trust him.
+
+“Don’t get us killed,” I said.
+
+I tapped Aeris’s back, and she flew toward Aurelius. Tuna trailed just behind.
+
+Aurelius shot his rings toward us.
+
+“Keep going!” Kaelor shouted.
+
+And so we did. Even as the rings threatened to tear through our heads, the dragon and the whale kept flying through.
+
+Before the rings could reach us, Kaelor cast wind magic to veer them off course. A few slipped through, but Meriel and I followed up, pushing them away with our own wind spells.
+
+The endless monsters from above began to descend and attack.
+
+Aeris’s fire breath kept the harpies and hounds back. Reina’s arcs of light from Dawn Sunderer killed some of the gargoyles and flying stone angels. Talon’s exploding talismans stopped the ravens and flying knights from getting near.
+
+With how fast we were bursting through, Aurelius had no choice but to move aside, letting us through.
+
+“Talon, throw that bag of talismans away!” Meriel shouted. “We can only carry one item per person out of the dungeon! You have two, including that anklet on you!”
+
+He didn’t hesitate, throwing the bag high into the air. It exploded, taking out dozens of monsters at once.
+
+As soon as we came near the portal, it stretched large enough for both Aeris and Tuna to fit through.
+
+We escaped the dungeon without looking back.
+
+That fresh air… the bright blue skies… we were finally back in Whale Isles, after spending so much time in that horrifying dungeon.
+
+“We did it!” Talon cried, hugging Reina. “I can’t believe we did it!”
+
+We looked at the portal, which was beginning to shrink.
+
+“Is it going to close now that all of us have left?” I asked.
+
+“It should,” Meriel said. “Portals close as soon as all the adventurers leave the dungeon. Aurelius and the monsters shouldn’t be able to follow us—”
+
+“No,” Kaelor said, staring at the portal. “It isn’t over.”
+
+Just before it closed, the portal stopped shrinking.
+
+“What…?” I muttered.
+
+All at once, the portal reopened, multiple times larger than it had been before we went through it.
+
+“Why? This shouldn’t be happening,” Meriel said.
+
+“Aurelius must be considered a participant of the dungeon as well,” Kaelor said. “Even if he’s the dungeon warden, that angel’s body makes the dungeon view him like it does the rest of us. That was likely how he escaped the first time, too.”
+
+Aurelius slowly flew out the portal, his feathery white wings stretching wide as his golden eyes gleamed from the bright sky. He smiled as the rest of the monsters flew through the portal, entering the outside world.
+
+“Well,” he began, “I would’ve preferred to take your bodies before we came out here, but I suppose you leave me with no other choice. I intended for this outbreak to happen regardless. You and the rest of the people on these islands shall relinquish your bodies to me.”
+
+I gritted my teeth. “What are you planning?”
+
+His gaze pierced my soul.
+
+“I will grant these hollow bodies to the souls that deserve them most.”

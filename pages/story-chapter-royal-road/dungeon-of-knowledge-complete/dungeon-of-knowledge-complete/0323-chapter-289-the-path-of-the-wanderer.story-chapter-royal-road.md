@@ -1,0 +1,165 @@
+---
+id: 8ce29234-591a-57c0-be8c-39c49e8d8414
+page-type-slug: story-chapter-royal-road
+title: "Chapter 289: The Path of the Wanderer"
+slug: 0323-chapter-289-the-path-of-the-wanderer
+partOf: dungeon-of-knowledge-complete
+position: 323
+ownLength: 2679
+unit: words
+ownProgress: 2679
+publishedAt: 2025-06-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2379107/chapter-289-the-path-of-the-wanderer"
+royalRoadId: "2379107"
+markedReadAt: "2026-06-29T20:22:16.450Z"
+---
+
+Calen paused before the shrine, now an imposing pillar of black stone and glowing runic magic almost three times taller than the first time he had seen it. He controlled his nerves by quickly reviewing the notifications he had received from the battle against the Corrupted Fire Drake.
+
+Archer of Light has reached level 100 (+4).+40 attribute points.
+
+Hmm. Calen spent just a few moments lamenting the inefficiency of wiping out an entire dungeon in almost two hours, including the level ninety-nine raid boss at the end, and only gaining four levels due to hitting his evolution threshold. Of course, they outleveled most of the dungeon by now and had killed all the bosses enough times that they were not earning much from the fights anymore, which meant it wasn’t much wasted experience. It would be worse for Mato and Malika, given that they had been level ninety-eight before starting.
+
+Still, I’m no longer last. Our team has all arrived together. Incredible! And everyone agreed, level one hundred, and the push to boost his mom to evolve was worth it in the long run. Quickly, he distributed his points. For his less crucial attributes, he shifted his balance a little – given the debilitating effects of fear and similar mental attacks, he devoted six points to wisdom. He spent five on strength to keep up with his bow, one on endurance, and three on vitality. For his major attributes, he put nine into dexterity, and eight each in perception and intelligence. Good.
+
+He glanced over the skill notifications, happy overall with his progress, but extra-excited to see Radiant Archery doing so well.
+
+Radiant Archery has reached level 56 (+4).Arrows of Brilliance has reached level 56.Motes of Light has reached level 36 (+2).Explorer has reached level 51.Blessing of the Dawn has reached level 41 (+3).Eclipse has reached level 33 (+2).Eyes of the Archon has reached level 34.Righteous Fury has reached level 34 (+2).Azrael's Wings has reached level 24 (+2).Mirage Armor has reached level 35 (+2).Cartography has reached level 18.Skinning has reached level 14 (+2).Basic Daggers has reached level 3.Howling Hellfire Bow has reached level 75 (+3).
+
+I should definitely look into a new bow, he thought. The growth enchantment on his Howling Hellfire Bow was fantastic – however, it was telling that even the bow had not been able to keep pace with their possibly reckless charge through the levels.
+
+Requirements met for class evolution. Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+I shouldn’t be so nervous, he told himself, clenching and unclenching his fingers. Both Ali and his mother had used the shrine to evolve their classes successfully. He had read the book more than once while waiting for the shrine to fully recharge – a process which seemed to be taking progressively longer as the enormous mana requirements of the shrine seemed to somehow deplete Ali’s domain – and he had interrogated both Ali and his mom about their experiences until he was certain they were rolling their eyes at each other behind his back. He glanced at everyone gathered around the shrine to support him.
+
+“It’s ready for you,” Ali said, smiling broadly.
+
+“Ok,” he said and reached out to touch it, still wondering how Malika and Mato had managed to talk him into going first.
+
+[Shrine of the Ancient Grove] Class evolution activated – 2,000,000 mana.Gathering Authority based on your actions, achievements, titles, reputation, and influence.
+
+Calen braced himself, having discussed this part with Ali, but he had obviously overprepared because the strange draining sensation wasn’t particularly bad. After a breathless wait, the next notifications popped up.
+
++42 Authority.You may buy 10 attribute points per Authority point.3 paths have been found.
+
+“I got forty-two Authority and three paths,” Calen said.
+
+“Cool, show us!” Mato said, getting all excited for him.
+
+Typical Mato, Calen grinned as he shared his paths.
+
+Mage of RadianceHang up your bow and take up the mantle of Light, embracing the path of the mage. Deepen your affinity with your mana and unlock the vast potential of Illusions, Stealth, and the radiant power of offensive light magic. Traits: Light, Intelligence, Knowledge, Illusion, Stealth, (-Physical)Path Length: 6Reachable Nodes: +10% spell power to Light magic. Cost: 1Quality: CommonPath – AffinityFollow the LightFollow the light wherever it illuminates your path. Walk in the footsteps of the Wanderer and travel the land. Traits: Light, Intelligence, Movement, Illusion.Path Length: 9Reachable Nodes: +10% to Light magic damage. Cost: 1+10% spell power to Illusion skills. Cost: 1Quality: UncommonPath – KeystoneBrilliant AssassinStrike with devastating power from the shadows of your illusions, eliminating your foes in a single strike. Develop your Ambush and Eclipse to eliminate your enemies one by one, silently and undetected. Traits: Stealth, Illusion, Ranged, Dexterity.Path Length: 4Reachable Nodes: +10% spell power to Illusion magic. Cost: 1+10% Movement speed while in stealth. Cost: 1Quality: UncommonPath – Trait
+
+Only three paths, he thought, keeping an ear on the others while they discussed their thoughts. At least, according to the book, this was a more typical evolution. Both Ali and his mother were atypical, and it appeared that their experiences would not apply as easily to his situation. Although Ali had experienced the shrine unlocking new paths and removing unchosen ones as she navigated her space – with his offered paths, he expected he would need to discover new ones along the way in order to spend all his points.
+
+“I’m pretty sure he doesn’t want to be a mage, so that’s out,” he heard Ali say to Mato.
+
+Good point. What don’t I want? Calen read through all three options quickly, making his choice easily by elimination. The Brilliant Assassin path was one that Lyeneru had explained to him – the path of the single-strike bow assassin focused entirely on critical damage using Ambush as the centerpiece of the build. It was a path he had already passed on and, with the bracer Zor’kan had made, he was loath to give up his sustained damage style.
+
+Mage of Radiance he eliminated also, surprised to even see the path there. He must have been heavily leaning on light affinity and intelligence traits for that to be his first option – and once again, he was grateful for Ali’s shrine. According to the book, the paths were sorted by the most used accumulation of trait experience, and the first ones would be the most likely selected if he had pursued a natural evolution without a shrine. He loved archery and losing his bow, which that path implied, would have been devastating.
+
+“I think it has to be Follow the Light,” Calen said, noting that everyone nodded.
+
+“It’s a keystone,” Ali said.
+
+“It also mentions your patron deity,” Malika observed.
+
+“Which node are you going to get, though? Light damage or Illusion skills?” Mato asked.
+
+“Good question, I want them both,” Calen said, after considering it carefully. Almost all his skills were light-traited, but it was only a damage boost – which applied to Radiant Archery and Arrows of Brilliance. On the other hand, he had only two illusion skills: Eclipse and Mirage Armor. In his mind, he was making a roughly even tradeoff between attack power and defense skills.
+
+Unless the path decides to make an unexpected detour.
+
+He spent his first point:
+
+[Follow the Light 1/9] +10% to Light magic damage.
+
+Ten percent more damage on all his light magic sounded amazing. His conjured arrows of light, his light magic arrow enhancement, and his explosive arrows. He would need to test to see if it influenced his Motes of Light group damage bonus and Righteous Fury, but even without those it was worth it.
+
+The reachable nodes remained the same after spending his first point. I should alternate, he decided, not knowing when the path might diverge. It was a keystone, after all. He spent his second point.
+
+[Follow the Light 2/9] +10% spell power to Illusion skills.
+
+“Still the same nodes,” he observed. “Going to stick to a balanced approach.”
+
+He slowly spent his points, alternating between the two options and watching the reachable nodes like a hawk for any updates.
+
+[Follow the Light 3/9] +10% Light magic damage.[Follow the Light 4/9] +10% spell power to Illusion skills.[Follow the Light 5/9] +10% Light magic damage.[Follow the Light 6/9] +10% spell power to Illusion skills.[Follow the Light 7/9] +10% Light magic damage.[Follow the Light 8/9] +10% spell power to Illusion skills.
+
+Last point, he thought, pulling up the reachable nodes. Aargh, here goes nothing….
+
+Reachable Nodes: +10% to Light magic damage. Cost: 1+10% spell power to Illusion skills. Cost: 1Motes of Light gains Mote Exchange (+Movement trait. You can instantly switch places with a mote of light.) Cost: 3Eyes of the Archon gains Refractions of Truth (+Illusion trait. The longer you observe an illusion, the higher your chances of seeing the truth.) Cost: 3
+
+Oh boy, that’s… those are both incredible!
+
+“I have to choose between seeing through illusions or teleporting,” Calen said, sharing his options. Instinctively he wanted teleportation, but strong perception skills were so important.
+
+“Teleport,” Malika said immediately.
+
+“Yes,” Mato agreed.
+
+“I don’t know, seeing through illusions sounds quite good,” Ali said.
+
+“But you bring so many perception skills to the fight, Ali,” Malika said.
+
+“That’s a good point,” Ali agreed.
+
+Calen said, “We haven’t seen many illusion skills, have we?”
+
+“Those Flamecaller Hunters with their mirror image arrow skill that puts them in stealth,” Malika said.
+
+“I still think that teleport is stronger,” Calen said. Not hearing any further objections, he selected it.
+
+[Follow the Light 9/9] Motes of Light gains Mote Exchange.Follow the Light path completed. 31 Authority remaining.
+
+Calen suppressed the powerful desire to go try it out instantly. Nobody seemed quite sure what would happen if he interrupted the process of choosing paths, so he chose to wait. Lyeneru had suggested once that his Motes of Light skill was underpowered, he couldn’t wait till she saw what it had become. This changed everything for him – his Motes of Light had a substantial range – far larger than Ali or Malika’s combat teleport. He should be able to strategically place them across the battlefield, presumably using them as teleport beacons whenever he needed. Or even use them to enhance scouting.
+
+Mage of Radiance path removed.New paths found.Fleet FootedLearn the movement of the Wanderer, flying further, running faster, and take your ability to kite monsters to the realm of legends. Traits: Dexterity, Movement.Path Length: 5Reachable Nodes: +10% to movement speed. Cost: 1Quality: RarePath – TraitSeeing into the BeyondYou follow the footsteps of the Wanderer, a traveler of realms. You have seen the Spirit Realm and the Abyssal Realm. You have earned the Rift Warden title. Now see beyond.Traits: Light, Perception.Path Length: 4Reachable Nodes: +7% spell power to Light skills. Cost: 1+20% spell power to Perception skills. Cost: 1Quality: UniquePath – Keystone
+
+“A rare and a unique path,” Calen said. “I have to choose between movement and perception.”
+
+“Your patron deity is really looking out for you, Calen,” Malika said.
+
+“I think she was a big fan of us defeating Tol’brekk and the Blind Lich, and then tracking his Phylactery after the fight,” Calen agreed. He had earned a very impressive title for that, and she had even made a personal appearance. Both his new paths were influenced by the Wanderer, and if he got the chance, he was going to take both of them.
+
+“Keystone,” Mato said. “Definitely better.”
+
+“Yup,” Ali said.
+
+In theory, keystones were not always better. Especially if they contained some constraint or restriction, but in this case, he had to agree – the chance of getting a strong skill advancement or skill unlock was too good to pass up.
+
+He could still choose Brilliant Assassin, and although it didn’t seem like it would be a bad choice, it was still his lowest priority. Fleet Footed would make him faster, which was an extraordinary asset in combat and had saved his life so many times. But Seeing into the Beyond captured his imagination. Ali was always the one with the most powerful tools in their strategic arsenal due to the versatile breadth of her personal perception skills and the range of what she could bring with her minions. Perception skills were critical – especially for the scout on the team. It was even rule three in Lyeneru’s dungeon survival guide. It was high time he developed his beyond a glorified dark vision and sniper sight. Even just mana sight would be perfect.
+
+The path itself seemed to be offering him the choice of generalized light spell power – this time not restricted to damage – or a far greater, but narrower investment specializing in perception. On the balance, seven percent to all light skills seemed slightly stronger, but the choice of nodes in a keystone clearly influenced the upgrades toward the end. At least they had for Ali’s evolution.
+
+[Seeing into the Beyond 1/4] +20% spell power to Perception skills.[Seeing into the Beyond 2/4] +20% spell power to Perception skills.[Seeing into the Beyond 3/4] +20% spell power to Perception skills.
+
+He only had two perception trait skills, Eyes of the Archon and Explorer, but sixty percent enhancement seemed very potent. At the end of the path, he again found what he was looking for.
+
+Reachable Nodes: +7% spell power to Light skills. Cost: 1+20% spell power to Perception skills. Cost: 1Eyes of the Archon gains A View through the Veil (You can see mana. You can pierce the veil and see into nearby realms.) Cost: 4
+
+He spent the four points without hesitation.
+
+[Seeing into the Beyond 4/4] Eyes of the Archon gains A View through the VeilSeeing into the Beyond path completed.24 Authority remaining.
+
+“I can see mana,” he said, sharing the advancement.
+
+“What does that other thing do?” Malika asked immediately.
+
+“I’m not sure yet,” Calen said. He had no idea what ‘piercing the veil’ meant, other than the reference to being some cross-realm perception.
+
+“Maybe you can see through that rift thing into the abyssal realm without crossing?” Ali asked.
+
+“Could be,” he said. Whatever it was, it would require some extensive testing because he had never heard of anything even remotely like that. He bounced lightly on his toes. “Alright, what’s next?”
+
+Fleet Footed path removed. New paths found.HunterRelentlessly follow your prey all the way to its lair. Traits: Movement, Stealth, Tracking, Perception.Path Length: 4Reachable Nodes: +10% to the strength of your stealth. Cost: 1+7% to perception while tracking. Cost: 1Quality: CommonPath – TraitRealm HunterYou can see mana and see beyond the borders between realms. You have earned the Tracker of the Dead. Follow the footsteps of your patron and track the powerful no matter where they go.Traits: Light, Tracking, Perception, Knowledge, Movement.Path Length: 5Reachable Nodes: +20% Light magic damage. Cost: 1+20% to Movement speed. Cost: 1Quality: RarePath – Class
+
+It was too bad that Fleet Footed had been removed, but he had expected it might, and now he was presented with not much of a choice. Between Hunter and Realm Hunter, it was obvious – Realm Hunter incorporated his achievements and again his patron deity. It also sported a very tasty-looking movement speed upgrade. However, the choice was not between Hunter and Realm Hunter. It was a choice between Brilliant Assassin and Realm Hunter.
+
+Do I want damage or tracking? On the surface, the damage from Brilliant Assassin was the obvious choice. The only path he had been offered that seemed primarily focused on improving his ability to kill monsters – which was his main role in their group – was one he had consistently passed up so far. He was halfway through his points, and he was risking explicitly choosing to forgo his damage role. On the other hand, Realm Hunter seemed to offer broader options than just tracking. Even just the first two nodes would be a choice between damage and movement.
+
+Maybe the others have some insight… He shared the remaining paths.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

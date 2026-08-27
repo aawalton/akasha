@@ -1,0 +1,129 @@
+---
+id: 14c1db1b-3e45-5da8-a24d-3493783df4c7
+page-type-slug: story-chapter-royal-road
+title: "Ch103 False Report"
+slug: 0103-ch103-false-report
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 103
+ownLength: 1552
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3712899/ch103-false-report"
+royalRoadId: "3712899"
+---
+
+I slowly take control of my breathing, bringing it back down to a normal rate as I run past familiar boulders. My mind wanders to my new ring, and I shift the outward fluctuations of my perfected physique down past the late stage, to the mid-stage Martial Elite level.
+
+The outline of a short, skinny man sitting on top of a large tortoise comes into view in the mist.
+
+His eyes widen in confusion, and he even taps the rim of his silver glasses, making them pulse with a white glow as he watches me walk onto the path he’s been traveling back and forth on for over a full day now.
+
+There is a group of four others surrounding him, one of the hunting crews that was off in the forest when I left. All of their heads turn my way.
+
+Lin Fang pulls his hand away from his glasses and nods. “Any luck?”
+
+“Of course, I found a few small dens,” I reply, pulling ten 9th-grade earth lizard eggs out of my storage.
+
+Pretty much everyone shrugs and loses interest, as this is no better than anyone else’s hauls, but Lin Fang’s eyes are still sharp. He turns to the others.
+
+“I’ll be making the last call in a few hours, then we’ll be heading back to the Quest Hall. If you want to do any last explorations, now would be the time.”
+
+The group of four talk amongst themselves for a minute, then head off the path.
+
+Lin Fang pulls out a white beetle, and it starts flying around us in slow circles once we’re alone.
+
+“Your physique… it’s lost a stage… and that old man…”
+
+I shift the suppression settings on my ring to bring my physique back up to the late stage, then down to the mid-stage again.
+
+“I think the mid-stage is a bit safer to outwardly show, wouldn’t you say so? I wasn’t aware it was so rare before, I guess I have to thank you for that insight.”
+
+His pupils shrink as I continue. “And that old man, he must have run into trouble. You seem like quite the perceptive one, so there is no point in lying.”
+
+I could have kept it all a secret, and even shown no change in my physique, but this man seems like a strong ally that already shows interest in making a connection with me. Sharing a small secret will build up our trust even more.
+
+He nods in understanding. “What kind of trouble…?”
+
+I pull out the 7th-grade armored lizard egg that is dark with diamond patterns covering its shell.
+
+“That nest was a bit more challenging than I was expecting it to be. There were some late stage armored lizards, a stray one must have attacked him when I wasn't looking.” I throw the egg up toward him, and he catches it in disbelief.
+
+“This… this is an extremely rare find. It has the patterns of a 7th-grade egg… Usually only one or two are found in these outer forest missions every month. Qi refining families would pay upwards of five or six thousand spirit stones for an egg like this… even named disciples would trade all of their contribution points. You hit it big!”
+
+He tries to throw it back, but I dismiss it.
+
+“Wait- are you trying to give me this?”
+
+“Yeah, if your reports leave me as an ordinary cultivator that just got lucky at some weak nests visible from the path a few times, it’s all yours. I have no need for spirit stones.”
+
+His breathing becomes heavy, and he starts feeling the shell of the egg with all of his fingers, then pauses and reaches into a storage ring.
+
+“Please, take this in exchange… I was already going to keep you from the report out of respect. We are in the same position in our clans, I cannot take advantage of you.”
+
+A small white beetle, identical to the one flying through the air around us, is tossed my way.
+
+It feels cold to the touch when I catch it, with its wings folded in and its legs tucked up to make a perfect ball.
+
+With a single pulse of qi, I imprint it on the spot and feel the tiny puppet begin to move.
+
+There is only one function for me to mentally activate, either on or off.
+
+When I choose on, the small insect flies around me in a meter-wide circle, even blocking out the sound of Lin Fang’s tortoise steps. I deactivate it in the same moment, letting it float back down to my palm and shut off.
+
+“It is a high-grade noise suppression puppet I made myself. It’s the Lin family’s unique design, you won’t see it sold anywhere around these parts. As long as you charge it up with about a hundred spirit stones every dozen uses, it should last years.”
+
+I watch the mechanical wings and little legs fold back into the spirit-stone-sized ball and smile. “Deal then, we’re even.”
+
+He deactivates the beetle flying around us in a much larger circle. Though, he doesn’t stow away the 7th-grade egg.
+
+He examines it as we walk down the path in silence for quite a while.
+
+After half an hour passes, the system scan of a level 6 armored lizard comes into view, and it starts running toward us. I pull out my bow, but Lin Fang shrugs and waves to me. “No need. If you’re done hunting for the day, feel free to let my puppet do the defensive work.”
+
+I raise an eyebrow in confusion but put down my bow to see what he means.
+
+The small 8th-grade root armored lizard at the peak of its potential comes running at us, using its instincts to turn its attack toward me, the weakest perceived target.
+
+A loud metallic chomp echoes in the air as I watch a long neck of the tortoise bend out from its shell.
+
+The curved beak slices through the lizard’s armored skin like it’s soft wood, killing it instantly, then retracting its neck back into its shell.
+
+“You have any more of those?” I question with a grin.
+
+“No… this one was a gift from my branch family’s patriarch in Lingshi City, a reward for becoming a named disciple of the outer sect’s recruitment peak, adding to the Lin Family’s prestige. It’s far too complex and advanced for even a 9th-level qi refiner like me to create.”
+
+We continue walking, and I see the tortoise kill a few more lizards every time a rogue one attacks.
+
+I start to track the small pulse of qi and stirring in Lin Fang’s physique every time it activates, but it’s so subtle that to the untrained eye, it really does seem like this tortoise is acting on its own.
+
+It feels like it can release about the same power as a perfect grade talisman at its peak, but the complex 3 meter large frame and extra features like walking and tracking probably make it higher ranked. My guess is there are even some one time defensive features he’s hiding that would classify it as at least an inferior grade tier 2 artifact.
+
+An old team of three eventually groups back up with us, and another hour later, the team of four returns too.
+
+Far fewer lizards attack us now that the travel team has grown so large again.
+
+At about midday, Lin Fang brings us back to the least dense area of mist and pulls out his flying vessel.
+
+“We will wait one hour. If our last party member does not return or send off his flare, we shall leave without him.”
+
+—
+
+This is entirely for show, to benefit the false report for my sake.
+
+An hour passes, and there are no signs of the grey-haired man, prompting Lin Fang to activate the flying vessel and carry us up and away from the white mist.
+
+“That’s the risk of solo hunting in the Misty Forest, he must have traveled further off the path than I warned, running into a late stage armored lizard.” he murmurs loud enough for others to hear.
+
+There are a few other whispers, but no one acts surprised. This must happen quite often…
+
+I walk to the side of the boat and watch closely as the ground disappears and the particles of white mist in the air thin out more and more.
+
+This so-called soul mist still doesn’t make sense to me at all. Whatever it is, it is no natural phenomenon that just anyone can absorb. While I’d love to experiment more, the thought of running into that black crow that my system scan could not detect makes me far less intrigued.
+
+Flying far away from this strange place is the most desirable option right now.
+
+Once the mist completely fades and we exit the Misty Forest, the sky turns blue and the land below turns green again.
+
+Flying straight at us in the direction coming from the sect, a tiny emerald swallow appears.
+
+It looks like it’s been waiting along this perimeter for quite a while and swoops down to land on my hand. I mentally open it up to see there is a single communication talisman holding Wei Ping’s reply from the servant camps inside.

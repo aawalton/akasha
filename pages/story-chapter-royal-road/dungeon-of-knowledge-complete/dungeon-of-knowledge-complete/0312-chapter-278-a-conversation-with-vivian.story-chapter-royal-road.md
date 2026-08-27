@@ -1,0 +1,115 @@
+---
+id: 077a023c-1925-58c6-86b7-a566ae5e969b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 278: A Conversation with Vivian"
+slug: 0312-chapter-278-a-conversation-with-vivian
+partOf: dungeon-of-knowledge-complete
+position: 312
+ownLength: 1915
+unit: words
+ownProgress: 1915
+publishedAt: 2025-06-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2356189/chapter-278-a-conversation-with-vivian"
+royalRoadId: "2356189"
+markedReadAt: "2026-06-29T20:21:52.166Z"
+---
+
+Ali stepped through the door that Mato kindly held open for her and entered the guild hall, followed by Mato and Malika. Zor’kan and Val’korr entered, glancing about curiously. The other refugee trolls were being put up in an inn on Malika’s dime, and they were to meet up at the guild today to secure more permanent accommodations.
+
+“Hi, Aliandra,” Mieriel called out. “Congratulations.” A hush spread rapidly through the guild hall, shutting down the clamor of many conversations like ripples of wind through a field of long grass.
+
+“Thanks, Mieriel,” Ali said, glancing around at all the staring eyes and the sudden muted whispering.
+
+“… three mark…”
+
+I guess everyone heard the notification, Ali thought, stepping up to the guild administrator’s desk, feeling a little like she was on display. She had to admit that fame did not sit well with her, she would much rather be ignored when she walked in. This attention was just awkward and uncomfortable and made her want to hide in a hole.
+
+“Yo!” Mato said, greeting the entire guild hall with his usual loud, casual friendliness. “I’m here, too!” The mood broke, some people laughing awkwardly, others returning the greeting, and most of them turning back to their conversations or shifting their stares to the two Trolls bringing up the rear.
+
+Ali smiled up at him. “Thanks.”
+
+“No problem,” he grinned, his hands twitching as if he wanted to pat her on the head. She decided she might have been tempted into some unsociable nipping, had he dared. Which reminds me, where’s Clarence been lately?
+
+“Vivian is in her office and would like to talk with you whenever it’s convenient,” Mieriel said as Ali approached.
+
+“Ok, thanks,” Ali said. “I’ll be back in a bit,” she told her friends. Now was as good a time as any, and she had matters to discuss with the Guildmaster herself anyway.
+
+“Hi, Aliandra. Congratulations on your evolution,” Vivian said, looking up from her desk as she entered. “I hope it went well?”
+
+The last bit was delivered with a distinctive edge that Ali couldn’t help but notice, and she identified the Guildmaster.
+
+Warrior – Human – level 100
+
+“It did,” Ali said. “I have several advances that you probably need to be aware of.” She did a double take on Vivian’s identification. Initially surprised that she could finally see her level, she got her second hit of surprise when she realized just how strange it was that she was level one hundred, exactly. Ali was also level one hundred, but she certainly did not intend on staying there – not with all her new advancements and exciting paths ahead.
+
+“I’m relieved to hear it,” Vivian said.
+
+“What happened to your class?” Ali asked, blurting out the question before she realized just how rude it might be, but her curiosity was burning up inside her. Vivian had always been a figure of strength and power at the helm of the guild, and somehow, she had simply stopped leveling up. There was some backstory about retirement and wanting to form a guild. Malika had had some surprising theories, but Ali was now certain there was much more to that story.
+
+“Aah, that,” Vivian groaned, her face twisted into the strange expression of an old pain that had never healed. “I suppose you can identify me now? I guess… I don’t mind sharing.”
+
+“I’m glad your class evolution went well. Mine did not,” she continued, a brittle smile plastered on her face like armor. “Back in my adventuring days, I ran a group called the Monster Hunters – not the most imaginative name, but we were quite accomplished. We progressed quickly, not unlike you and your friends, but as we approached level ninety, we began to worry about our evolutions. As you know, natural evolution is a bit of a game of chance, and we were loath to risk our futures on a dice roll, but the only known evolution shrine was the one in Aman Rak, and they ignored our requests. Not to be deterred, I uncovered a rumor of a dungeon in the north that would offer its shrine to adventurers in exchange for not fighting the final boss and potentially killing the dungeon – all you had to do was fight your way down there.”
+
+“Dungeons do that?” Ali asked, surprised.
+
+“Rumor had it that sapient dungeons – or at least, intelligent ones – could be reasoned with,” Vivian said, but from her expression, Ali could tell she was rather conflicted on this subject. “Officially, sapient dungeons don’t exist, of course.”
+
+Ali rolled her eyes at that one.
+
+“Yes,” Vivian answered, shrugging. “Anyway, I believed the rumor and convinced my friends to take on the dungeon and all of us reached level one hundred on the way down. Surprisingly, the dragon boss at the end did offer to let us use the shrine – but as our priest approached, the boss struck, killing her outright with a cleave and dragon’s fire. We fought back and eventually killed the boss, but without our main healer, everyone besides me died. If it were not for a final health potion, I would have perished, too.”
+
+“That’s horrible,” Ali said. “I’m so sorry.”
+
+“That wasn’t all. When I finally crawled up to the shrine, I realized that it was worthless, it didn’t even have a class unlock. The dungeon had been using it to lure in adventurers so that it could grow from killing them. I vowed never to trust a sapient dungeon again.”
+
+There was a twisted bitterness to Vivian’s expression that tugged at Ali’s heart, and she could feel the conflict spilling out from the woman like a palpable storm. The irony of her having to explain her story to Ali, given her class, was not lost on either of them.
+
+“Anyway,” Vivian said, collecting herself, “my natural evolution selected conflicting paths, wiping out my fire affinity and leaving my class hamstrung. I can fight, but my strength is closer to a common fighter of about level eighty – and as you’ll discover, fighting unevolved monsters will give you much less experience now. My class is broken. I retired and decided to try passing my knowledge and experience on to new adventurers in the hopes that some may advance to become strong enough to protect our town.”
+
+“I’m sorry that happened to you,” Ali said. “You must have felt awful having convinced your friends to go down there and then losing all of them.”
+
+“I’ve made my peace with it, and you reaching platinum rank and allowing me to help you here and there along the way – especially after… well, it has given me a lot of closure,” Vivian said, smiling at her – and although it was tinged with a little sadness, this smile was a genuine one. “So, tell me, how did you evolve so fast? You’ve only been away for about a week at most.”
+
+“I…” Ali hesitated, but decided the truth, though it might sting, would serve the Guildmaster much better in the long run. “The Aman Rak shrine was destroyed, and I deconstructed the remains.”
+
+Vivian’s face blanched at the dire news.
+
+“In doing so, my shrine gave me the choice of one of the options their shrine had possessed.” Ali took a deep breath and plunged onward, “I chose class evolution and then evolved my own class when I returned.”
+
+A complex expression passed across Vivian’s face before she replied, and Ali knew Vivian had understood the implication – that she had passed over the very option Vivian might have needed to revert and fix her class evolution. “Well, it’s nice to know that your friends will all come out of your evolutions with functional classes – that is great news for the guild too. It certainly sets us up for the future.” She took a deep breath, collected herself, and then asked, “So, was that what you wanted to share?”
+
+“Well, there’s a bit more,” Ali answered. “I evolved one of my skills into a domain-wide tithe, granting extra experience for Knowledge and Mastery traits. Inspired by that, Malika and I created a challenge arena. If you go out of the first level of the library to the plaza, you can find training rings with dungeon monsters of all levels, each with a selectable restoration runic circle and a teleportation failsafe that triggers at half health. There are acolytes wandering among the rings to provide healing, and all the monsters respawn. I want to offer the challenge arena to the guild – obviously, I will benefit greatly from all of them training in my domain under the influence of the tithe, but they can also level their skills much faster. Malika and Sabri have already tested it out.”
+
+Vivian’s eyes widened as Ali finished her explanation. “So that’s what Sabri was blathering on about,” Vivian said and then fell silent for a few moments. “Would it be possible to make level-one monster challenges for the newest recruits? One of the biggest challenges is triggering a combat general skill for them.”
+
+“I have five level-one challenge rings already made – a Dagger Rogue, a Fire Mage, a warrior, a Cave Spider, and a Toxic Slime,” Ali said, happy that she and Malika had anticipated the Guildmaster’s immediate request.
+
+“I will bring the recruits down for training today,” Vivian said. “I also have a few ready for classes, if you have the time?”
+
+“How about tomorrow?” Ali suggested. “My shrine can now grant any affinity that is present in my domain in sufficient quantities – I already have Arcane, Nature, Fire, and Light. I can probably add Ice and Blood before tomorrow.”
+
+“Blood?” Vivian asked, a little surprised at the rare affinity.
+
+“I learned to make some blood-affinity plants from Aman Rak. Some of the trolls we rescued are ready for classes too, at least according to Val’korr,” Ali said. “Speaking of that, the remainder of Aman Rak is stuck in an inn at the moment, but I didn’t know where to put them. I suppose I can restore some houses for them to live in the dungeon, but I don’t know if that will be a pleasant experience. Especially after what happened to Aman Rak.”
+
+“I’ll talk to Aiden about them,” Vivian said. “He’ll help get them situated.”
+
+“Aiden?” Ali asked, surprised.
+
+“Oh, I guess you haven’t heard the news yet,” Vivian said, her face twisting into a grimace. “Aiden was just inducted in as Mayor of Myrin’s Keep and voted onto the Town Council. His father, William Turner, was murdered in his sleep two days ago.”
+
+“Oh no! How did that happen?” Ali hadn’t known William Turner very well, but he had supported her in the council trial, and Aiden was a great adventurer.
+
+“I’m certain it was Jax Hawkhurst, maneuvering for political power – an attempt to gain control over the council. Mieriel says the murder matched the patterns of the Silent Assassin, Tala Kane. She fled town when we unmasked her, but it seems she might be back. We’re sure she’s working for Kieran Mori, but as usual, we have no proof – they’re far too good at covering their tracks. We need to be careful –”
+
+At that moment, the door burst open and Mieriel rushed in accompanied by the sudden sound of chaos as the sound-blocking enchantment broke.
+
+“There’s a fight in the guild hall!” she exclaimed.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,247 @@
+---
+id: 6ebb398c-7e9a-518b-bb9c-29c022acf778
+page-type-slug: story-chapter-royal-road
+title: "Chapter 526: Just In Time "
+slug: 0566-chapter-526-just-in-time
+partOf: dungeon-of-knowledge-complete
+position: 566
+ownLength: 3876
+unit: words
+ownProgress: 3876
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3008581/chapter-526-just-in-time"
+royalRoadId: "3008581"
+markedReadAt: "2026-06-29T20:31:33.686Z"
+---
+
+Ali screamed, “There are undead attacking Myrin’s Keep!” She could feel them approaching the town through the trees to the south, like ants crawling up her skin. Their foul unwholesomeness was like a rotten stench that hit her squarely in the mana.
+
+“How many? Levels?” Lyeneru asked, her voice sharp with sudden urgency.
+
+“I… don’t know. Lots, I can feel them in my domain.” She had been so concerned about the risk of being mind-controlled and putting the residents in danger that she had cleared the entire town and the surrounding areas of her minions, and now she was paying the price.
+
+Without them, she was virtually blind except to mana. She used Identify through the extent of her mana senses, but sorting the wheat from the chaff in the ensuing deluge of information proved nigh impossible despite her high attributes.
+
+Glitter dragonets, bats, slimes, and toxic spiders burst forth from the sewers as Ali scrambled to get eyes on the danger – any eyes. Unattached monsters from across the length and breadth of her domain scrambled to join her call, but the higher-level monsters resided in the outer reaches of her dungeon, too far to reach quickly.
+
+Instinctively, she reached for Arcane Recall, intending to trigger a global dungeon respawn, but her skill failed to react, leaving her to yank impotently against it like pulling on the handle to a locked door.
+
+She glanced at her skill, and the reason was immediately obvious:
+
+Recharge: 8 minutes, 18 seconds.
+
+Anxiety mounted, terrible and overwhelming as her options systematically vanished, one by one.
+
+“Focus, Aliandra,” Lyeneru snapped. “We’re still fighting a champion boss. Get me eyes on the threat.”
+
+A blaze of anger surged through her at Lyeneru’s harsh words and callous disregard for the plight of the town, but it vanished into shame as Ali suddenly realized she had neglected the friends right in front of her. The healers’ mana was running critically low, and her trolls were out of position already.
+
+“Compost. Restore their mana.” Ali swallowed her feelings as she unleashed the giant hulking treant upon the grim harvest resulting from the mages and archers’ efforts. She barely noticed the dark roots erupting from the ground across the whole battlefield, grasping hungrily for the shattered monster corpses strewn about. She hardly registered the warm flow of mana channeled into her, as she urged her tiny minions back in town to fly, crawl, or scramble faster. Much faster.
+
+“Please don’t die,” she whispered.
+
+One tiny glitter dragonet reached the battlements, cresting above them with its tiny heart pushed almost to rupture from the sheer frantic urgency Ali had instilled in it.
+
+And suddenly, she could see.
+
+“Zombies… Ghouls…” she strained her tiny dragon eyes as more and more of her flying minions reached the battlements, granting her wider and wider vistas of the dark horde spilling out of the dead forest and rushing toward the boles of the giant Ciradyl trees. Frantically, she searched the sea for the most dangerous threats. “Mid-sixties…” she said, but then she saw some of the larger ghouls at the back. “Some above eighty.” She reached for Minion Teleport, anticipating Lyeneru’s order to abort.
+
+“Stay,” Lyeneru said. “Keep focused on the boss.”
+
+“But they’re in danger!” Ali called out, shocked that they were leaving the town to face the undead alone. Did she not care?
+
+“This is what the Garrison is for,” Lyeneru said firmly. “We need to kill this dungeon and drive a stake into the Blind Lich’s armies. The longer we allow him to grow his armies, the more people will die. And you need the Well.”
+
+“But…” Ali shut her mouth with a grimace. She had been about to suggest they abort and try again later, but she had been through enough raid aborts that she was fully aware of how dangerous they could be. There was a reason it was used as a last resort. Is the garrison truly able to repel this?
+
+“Boss is below forty percent,” Belmar announced.
+
+“Mato’s Arcane Amplification is at three hundred and twenty percent,” Ali added, resuming one of her roles in the fight, but she couldn’t help keeping a worried eye on the undead trying to scale the battlements and break open the gates back at the town. Nor could she ignore the panicked shouts as the garrison swarmed the battlements with spells or arrows hastily slung at the swelling invasion. Pockets of fiercer resistance developed as experienced guards bellowed orders and rallied their troops.
+
+“Begin tank switch,” Lyeneru announced. “Kill the minions. Just a few more to go.”
+
+Ali reined in her minions, allowing only attacks on the spawns, quite familiar with the rhythm of this battle by now. She kept her focus, transitioning all her forces smoothly, but through the growing number of eyes she had circling above Myrin’s Keep, she could clearly see larger, higher-level undead joining the battle. Those would soon be a major problem. She glanced at her recharge timer, but although it was steadily winding down, there was no relief to be had there.
+
+“Troll zombies,” she said, just loud enough to carry to Lyeneru and Calen’s sharp ears. “Level one hundred.” Far more worrying, she could see the massive gates shuddering and shaking as the larger undead began to throw their weight at it like unliving battering rams.
+
+Her attention snapped back to her immediate surroundings as the death aspect of the boss suddenly disgorged a multitude of skeletal mages. She snapped up an expansive barrier across the backline healers as a hail of black bolts, deadly beams, and explosions rained down toward them.
+
+“Kill the skeletons,” she commanded. The two looming eye demons behind her vanished simultaneously, appearing in the thick of it and unleashing deafening cracks of chain lightning and the glittering sparkles of Arcane Mana Burn projected from their massive central eyes. Skeletons melted under the onslaught, but the boss summoned more in waves.
+
+“Is it just me, or is it summoning more?” Calen asked.
+
+“Looks that way,” Lyeneru said, squinting at the boss even while her bowstring blurred with magic and arrows. Then she spared a glance downward. “Aliandra? Status on the town?”
+
+Instantly, Ali shifted her perspective back to the town while most of the remaining anger and frustration she had for Lyeneru’s callous disregard for the townsfolk vanished. “Some wights”, she said. “And that’s a Banshee.”
+
+“Fuck,” Lyeneru said, her voice soft and quiet. “They can’t handle that.”
+
+Ali glanced again at her status.
+
+Recharge: 42 seconds.
+
+“Forty seconds till I can respawn the dungeon,” Ali said, raising her head and straightening her shoulders.
+
+“You… how?” Lyeneru exclaimed. “Never mind, explain later. Just do it,” she added.
+
+More than enough minions were flying about the battlements that Ali could clearly see the grim faces of the garrison guards and the lower-level adventurers that had been drafted to help with the attack. Sweat-lined brows, and eyes were narrowed with worry. Every single one of them blanched in terror at the first sounds of the banshee’s wail. Several screams followed, and more than a few lost it, cowering or bolting in fear.
+
+I’m not going to make it, Ali thought, her eyes glued to the timer counting down and the screaming Banshee tearing across the battlefield like a herald of doom. Just then, a diminutive Gnome with flowing robes and a furious expression on her face rose above the battlements on wings of pure lightning. Hungry sparks crawled across outstretched fingers, and suddenly the entire battlefield vanished in the overwhelming brilliance of the lightning bolt that burst forth from her hands. Zombies and ghouls were blasted off the battlements from nothing more than the pressure of the thunderclap, and Ali lost sight of the banshee for a few moments.
+
+To her dismay, when she recovered her view, Ali found the banshee rising from the masses, leaking transparent, glowing ichor, wounded, but not dead. Donella Novaspark grimaced, breathing heavily as her magic waned and she bounced off the flagstones atop the battlements with a painful thump, entirely spent.
+
+Come on, come on! Ali glared at her skill’s recharge as if the force of her gaze might accelerate the timer.
+
+Recharge: 2 seconds.
+
+Oh, thank goodness! Arcane Recall clicked within her mind, a simple yet profound sensation. A large chunk of mana vanished, and suddenly, every single monster respawn timer in her dungeon was simultaneously reset to zero. A shimmer of light and mana coalesced upon the battlement, right beside the spent gnomish mage, clearly startling her. But when Ali’s holy fire kobold raid boss respawned in a blazing storm of mana motes right beside them and immediately unleashed a barrage of fireballs into the oncoming injured banshee’s face, the defenders let out a ragged cheer.
+
+But it was not just that boss. Every single defender she had placed in the town, and many down among the Ciradyl trees outside, suddenly reappeared, and she’d been very thorough with the town’s defenders. The sheer devastation that ensued lit the battlefield on fire and ripped great swathes through the undead masses.
+
+“Bosses are respawned,” Ali announced, releasing the breath she had been holding. “Undead are being repelled.” And not a moment too soon. Her minions were already engaged with several new banshees, newly arrived from somewhere in the depths of the blighted forest.
+
+“Thank you,” Lyeneru said, her face unreadable, but she, too, let out a small sigh of relief.
+
+“Boss is at twenty percent.”
+
+“Mato’s Rend is at forty-five percent.”
+
+The calls kept coming as the raiders kept their fingers on the pulse of the fight. Remembering her responsibilities, Ali checked on Mato’s magical debuffs. “Mato is at three hundred and ten percent Death Amplification.”
+
+“Switch tanks,” Lyeneru commanded. Then, with a quieter tone, she added, “I think only two more?”
+
+“Agreed,” Calen said.
+
+Something evil stepped into Ali’s domain. Undead felt evil; a stain on the natural order of the world, but this was beyond that. The chilling ancient malice blended with whispers of insanity that promised twisted perversions of truth just beyond the threshold of understanding.
+
+And she knew exactly what it was.
+
+Dreading what she would find, Ali forced herself to look, and there, at the treeline beyond Myrin’s Keep’s walls, she found them. A line of Death Knights marched into view in darkly gleaming mithril plate, flanking a monster of nightmares. Dark tentacles waved in the air, shimmering in and out of reality. A shrouded form manifested mouths twisted and screaming, and a cloud of familiar, floating crimson eyes followed it like a malevolent miasma. Glitter dragonets fell insensate from the air at a distance of almost a hundred meters.
+
+Ali shuddered. The Crypt of Kings has come.
+
+“Lyeneru…” Ali managed, struggling to keep her voice steady. “We have a problem.”
+
+“What kind of problem?”
+
+Not trusting her voice, Ali just shared the results of her Identify.
+
+Devastation Knight – Undead Dragonkin – level 198 (Death) x2.Death Knight – Undead Dragonkin – level 196-201 (Ice) x3.D̷͙͝r̸̡͇̓͐ę̴̣̎a̵̬̬̫̓m̵̨̞̩̓̔͠ ̵̳̉Ẽ̶̟̇ä̵͓̌̊t̵̹̖̃͠é̸̼̗́͑ȓ̶͎̻̯̃͗ – Eldritch Horror – level 204 (Mind)
+
+“Oh,” Lyeneru said, muttering a curse under her breath in ancient elvish, but Ali could see the subtle slump in her normally perfect posture. “Can you hold them off?”
+
+“Not more than a few minutes,” Ali said. “Five at most.” None of the minions she had placed to guard Myrin’s Keep were designed for something so deadly. Even as she considered her options, two more Death Knights appeared in a flicker of a long-distance teleportation formation.
+
+“Alright, listen up,” Lyeneru announced, some of her confidence reappearing as she visibly retook the mantle of authority. Perhaps it was the sheer force of habit, but it was what the raid needed. “You have five minutes to kill this boss. If it’s still standing after five minutes, we’re leaving to save the town.”
+
+As if suddenly electrified, the raid galvanized with a storm of buffs and elixirs. Magic flickered and surged as nearly fifty platinum-ranked adventurers burned every last recharge they had available.
+
+Blood surged as the shamans granted Bloodlust to the melee. Roars and shouts rose from the eager and furious adventurers as gleaming weapons were steadied.
+
+You have gained Primal Ritual.You have gained Alacrity.You have gained Greater Intellect.You have gained Spell Haste.You have gained Ritual Infusion.…
+
+Ali tuned out the sudden riot of notification chimes, keeping a close eye on the advancing Death Knights and the onslaught of holy fireballs being launched from the battlements in Myrin’s Keep.
+
+Can I really hold them back? It would be a different story if she could be there in person and make a truly powerful boss. Something like the Pit Lord, Xammath, but that would require evacuating the town.
+
+“Get in there and destroy it,” Ali said, the harsh syllables of the demonic language twisting her lips as she returned her attention to the immediate threat in Ciradyl. It was perhaps unfortunate that they had the boss in its death aspect right now, but the transition had just been completed, and they were already going all out, using the mind-controlled Mana Echoes to stack up Arcane Amplification. The two Eyes of Agnor teleported, appearing right behind the boss, and then they unleashed all their arcane magic. Glittering cones of Arcane Mana Burn, punctuated by the steady thump of a dozen streams of golden arcane bolts.
+
+The healers have enough mana, she decided. “Compost. Give me the mana, and some to the Eye demons.” The fight wouldn’t last long enough anymore for healer mana to be a limiting factor.
+
+Her treant reached most of the battlefield with its dark roots, and Ali suddenly felt the surge of donated mana coursing through her. As fast as she gained it, she spent it, pouring energy into her Empowered Summoner like water over a fall. Boosted by the steady stream of death magic slamming into her protective barriers and the vast mana surge from the Malevolent Lirasian Oak, Ali pushed her skill further than she had ever gone. Every single minion gained power from her added damage, but her arcane and nature minions began to shine with singular radiance as her power boosted their fundamental affinities. Arcane bolts glowed intense gold, and nature arrows shone with blinding light.
+
+The Druid of the Deep Woods, her Life Bringer troll shaman, her Sylvan Storm archers, and even the dark and twisted Malevolent Lirasian Oak all shone with brilliant green radiance as her magic infused them with unprecedented power.
+
+But it was not just here.
+
+Every single nature-affinity monster she had respawned in Myrin’s Keep began to shine with the same radiant power, and the battle against the Death Knights and the Eldritch Horror was engaged in earnest.
+
+“Ten percent.” The words dragged Ali’s attention back to the battle.
+
+“Two minutes remaining,” Calen added.
+
+“All out!” Ali commanded, granting Tol’brekk permission to burn his health. Instantly, his enormous life pool vanished and then suddenly spiked as Last Stand triggered. He roared within a billowing cloud of red mist, his eyes bleeding from the power of Bloodlust and the grip of his rage. With the experience of long practice, Ali clamped down on his mind with the full weight of her willpower and locked his focus on the boss.
+
+Myrin’s Keep shuddered and shook as the Death Knights reached the battlements. People fled screaming from the sheer aura of oppression and insanity pouring from the Eldritch Horror. And the enhanced stone began to crack.
+
+“Give him ritual infusion,” Ali demanded, her focus split, directing her bosses and minions to converge on the assault that was crushing the town’s defenses.
+
+“As you wish, Seeker,” her witch doctor said, and Kir’vella’s health vanished, offered to Tol’brekk instead.
+
+Instantly, it was spent for more power, and the pair of giant greataxes whistled through the air, tearing great slices through the Avatar of Annihilation. A spray of black shards and viscous fluid burst forth in the wake of the brutal axe strikes. A ribbon of incandescent, viridian green pierced the giant troll’s great chest, and his health skyrocketed. Only to be spent yet again for another giant overhead slash.
+
+Without her advanced perception skills, Ali was certain she would not even have been able to see the boss. The ground shook like a never-ending earthquake, her mana sight flared with intense blasts and bursts, and the air filled with the stench of burning ozone and the refreshing scent of pine and wildflowers from her shaman and druid’s vastly empowered healing magic.
+
+But her sight and senses were assaulted by a second mirror of chaos and magic as her minions unleashed everything into the breach, as the Death Knights advanced through the gaping hole in the battlements and entered the town.
+
+“Thirty seconds,” Calen calmly announced.
+
+Please run, she thought, and her distant minions screamed her wishes to the terror-stricken townsfolk. She had not been able to keep the dead from entering the town, as she had hoped, but they were more powerful than she had guessed. Scrambling to save them, Ali sent all her lower-level minions to snatch cowering townsfolk out of the rubble and houses, dragging them out of the path of immediate harm.
+
+Then the Horror entered, and her minions began to collapse.
+
+“One percent.”
+
+“Twelve seconds.”“I need help!” Ali shouted. And right at that moment, her chime sounded.
+
+Your group has defeated Avatar of Annihilation – Elemental – level 247 (Arcane / Death)
+
+“Go!” Lyeneru shouted, but Ali was already gone.
+
+Raya launched herself into the roiling clouds of billowing dust and smoke at a dead sprint, dodging the shattered chunks of the battlements raining down into the street. She snatched up Kyle’s comatose body as two bolts of sizzling black energy she had not even seen seared past her left ear, disappearing off into the smoke. The ground bucked violently as the thumps of heavy explosions were followed by the grinding crashes of more collapsed buildings. She leapt for the dubious safety of a shattered wall, but broken bricks rolled treacherously underfoot, twisting her ankle and tossing her against the sharp rock. The jagged edges sliced painfully into her back, and she tumbled, landing heavily on her shoulder. Bone shattered with a loud snap, and it took every ounce of her will and endurance to cling to consciousness.
+
+“What the fuck is happening?” Kayleigh stammered, her voice high-pitched and shaking. “Uh, Captain?”
+
+“Death Knights,” Raya ground out, grimacing, and not just from the pain. She had pushed herself hard ever since Commander Brand authorized using the dungeon for training. And she had progressed enormously. But she had never imagined anything like this could even exist. If she hadn’t just downed that ludicrously expensive Mental Fortitude elixir, she would have ended up just like Kyle.
+
+Or worse.
+
+She had no idea where the rest of her squad was, or what had even happened to them. They were all guards who looked up to her, relied upon her. She knew their spouses’ names and had gone to their kids’ birthday parties, and yet, in the face of these Death Knights, she could only flee, abandoning them to their fate.
+
+She couldn’t even remember when she’d lost her spear.
+
+A sudden, eerie silence descended on the hazy street. An ominous blue glow from beyond the shattered battlements cast shifting shadows that stalked through the smoke and dust like insubstantial wraiths. Raya shivered as the temperature suddenly plummeted, staring in horror as creaking fingers of frost reached rapidly through the rubble.
+
+A monstrously heavy boot crunched on ice. From beyond the feeble protection of her shattered wall, a dark figure emerged. All she could see was the shroud of blackness, but an aura of oppressive power radiated from it, claws of ice scratching like fingernails on the flimsy ward protecting her mind. It turned, searching, and twin points of blazing blue light transfixed her with its terrible gaze.
+
+Her heart quailed, and her mind screamed for her to run. But she couldn’t leave Kayleigh and Kyle.
+
+A second Death Knight emerged from beyond the wall. The two of them shared a silent look and then both marched forward unhurriedly, crushing rubble and ice beneath their boots.
+
+A spindly leg, the black of nightmares, as tall as the battlements, stepped with incongruous lightness between the pair of Death Knights. Another leg. And then another. And something that should never have been, clawed its way through the sundered wall. A terrible chorus of whispers echoed in Raya’s mind, just below the threshold of understanding, and she recoiled in abject terror. She clamped a hand over her eyes, a desperate attempt to prevent them from betraying her sanity by looking. She bit her lip to prevent herself from screaming, but her throat betrayed her. And still, the sheer presence of the Horror overwhelmed her wards. She could sense its gaze piercing through her, flaying her memories and leaving nothing secret.
+
+But despite her fraying willpower, her limbs betrayed her. Her head tilted upward. Her fingers pried themselves apart. And her eyes refused to blink.
+
+Her mind began to disintegrate as it gorged itself upon fear incarnate.
+
+What was left of Raya saw a glittering golden platform snap into place high above the monster. A giant roaring shadow fell, trailing thick red mist, and two gleaming mithril greataxes crashed down, slashing through the nightmare, leaving trails of crimson blood and dark ichor floating upon the air.
+
+The beast landed. The ground announced its arrival, shattering under the sheer force of its momentum. The pair of aloof Death Knights turned at the sound, to be met with a whirling maelstrom of mithril and blood.
+
+Somehow, she recognized the four-armed sylvan creatures leaping from the floating golden platform, unleashing a barrage of lightning from their bows. Was it a dream?
+
+A gentle hand touched her shoulder, and suddenly her mind was whole. “Who?” She turned and saw an elegantly dressed elf crouching in the debris and smoke, incongruously dressed in a business suit and wearing red heels. She identified the stranger.
+
+Analyst – Sun Elf – level ???
+
+“Don’t look too closely at it,” the stranger said, reaching up to adjust a set of expensive, silver-rimmed glasses perched on her nose.
+
+“Can you help Kyle?” Raya asked.
+
+“I already did,” the elf replied, getting to her feet and placing herself between them and the approaching Horror. The pressure instantly vanished.
+
+But it was the incandescent green ribbon that shot down from the platform to pierce the giant axe-wielding troll that grabbed all her attention. Leaving afterimages upon her retinas, it bounced through the giant, arcing toward her, piercing first Kyle, and then Kayleigh, and then herself, before arcing over the boulders to somewhere under the rubble.
+
+In an instant, Raya’s shoulder popped painfully, bones resetting themselves. The pain from her throbbing ankle vanished, and the chunks she had bitten out of her own lip and tongue healed flawlessly.
+
+She let out a ragged breath.
+
+“Get them to safety,” a soft, familiar voice called out. “I’ll take care of this.”
+
+Raya’s eyes snapped upward at the sound, catching a glimpse of a small figure with long green hair blowing about her head, and amber eyes that shone with unfathomable arcane power.
+
+Aliandra… she’s here!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

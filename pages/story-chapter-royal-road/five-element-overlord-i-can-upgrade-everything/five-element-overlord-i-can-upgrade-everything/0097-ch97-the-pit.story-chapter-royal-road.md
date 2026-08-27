@@ -1,0 +1,133 @@
+---
+id: 73c5fc8c-6c1b-59f1-ba3c-25d2d6783452
+page-type-slug: story-chapter-royal-road
+title: "Ch97 The Pit"
+slug: 0097-ch97-the-pit
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 97
+ownLength: 1646
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3677787/ch97-the-pit"
+royalRoadId: "3677787"
+---
+
+“H-Hey, Li Hao. What do you think about teaming up? I know where a lizard den is, right off the trail.”
+
+The old man asks in a shaky tone while approaching.
+
+Lin Fang’s tortoise continues moving away. He doesn't look back, not waiting for either of us to follow.
+
+In a matter of seconds, our escort riding his black puppet disappears into the mist. The old grey-haired man stands with a crooked smile.
+
+“I just got a tip… they said there are certainly some spirit beast eggs, dozens of them, even a few 8th grade. We could make a fortune.”
+
+His eyes shift toward the denser mist, and I calmly nod.
+
+“Sure.”
+
+He’s obviously lying through his teeth to get me to follow him, but I’m curious about what this pit is that the system scan mentioned.
+
+The grey-haired man’s smile widens and he starts walking off the trail. “T-This way.”
+
+We walk past a few thick trees, and around two massive boulders. For the first time, the trail feels like it’s sloping downward.
+
+I keep a perfect grade arrow in my bow, and hold a mental connection to my talismans at all times, but even without them, I feel pretty secure.
+
+The old man, on the other hand, his eyelids twitch when they shift back and forth, and the grip on his axe tightens to stop the shaking.
+
+“Just a little further, it should be behind this third boulder… I heard it’s on the border of another beast race territory, that’s why no one has ventured out here yet.”
+
+Just as he says this, my spiritual senses pick up human footprints and signs of old fighting that pierce far further than the visuals in the mist.
+
+His footsteps slow as he approaches the boulder, so I roll my eyes and walk ahead.
+
+There is a steep drop-off behind it, and an increasing sharpness in his aura tells me everything I need to know.
+
+I walk past the boulder, and come to a halt right in front of a ledge.
+
+There are no footpaths, or even visible ways to drop down. The edges of this hole in the ground curve out of my spiritual senses, meaning it’s well over 40 meters wide. There hasn’t been a single armored lizard on our walk over here, but the faint sound of rocks shuffling and echoing comes up from the misty hole in the earth.
+
+Quick footsteps rush toward me from behind, but I step to the side and catch the man’s axe-wielding wrist with one hand, and grab his neck with the other.
+
+“Feng Minshun sent you, didn’t he?”
+
+The old man’s eyes widen in more fear as I break the bones in his wrist; the mid-grade axe falls down into the pit.
+
+He only gulps and mutters out, “I- yes- but- don’t kill me. The sect rules-”
+
+A grin widens on my face. “The sect rules? You’ve just died from a surprise late-stage armored lizard attack, what rules could I possibly be breaking?”
+
+“W-What? A late stage lizard? From where-” He’s cut off by the loud thud from his axe hitting the bottom of the pit.
+
+“It came out of nowhere, all I could do was run… at least that’s what I’ll have to tell the sect.” I remark while shoving him off the ledge just like he was about to do to me.
+
+A slight smile stays on my face while I look over the edge and listen to the horrific muffled screams of the old man get quieter and quieter. They only stop a few seconds later once another loud impact echoes back up.
+
+Rocks breaking and monstrous grunts come up from the bottom of the pit next, making my curiosity grow. I step back and start circling the edge of this enormous drop off. It is a few hundred meters around before I make it to the opposite side.
+
+There are plenty of human footsteps leading to it, and far less leading away. Almost all of them look faded and not recent at all.
+
+I continue walking to finally find the most heavily traveled section; it is covered in scars of old battles. There are craters that must be made from talismans, or at least late-stage attacks. I quickly pull out a few upgrade cards from my reserve and make myself some perfect grade defensive talismans, and a few extra various attack talismans.
+
+It is eerily quiet, but I walk toward the ledge of the cliff again where all the footsteps converge.
+
+There is a thick rope that is saturated with enough qi to classify it as a low-grade artifact. It’s tied around the base of a nearby thick tree, and it lowers down into the pit. I pull on it a few times to make sure it’s sturdy, and my heart starts beating faster.
+
+I grab onto the rope, and begin descending down into this wide open pit.
+
+The new side quest burning bright in the back of my mind keeps me from turning back. Based on the old man’s scanned secret, the sounds of movement I heard before are late-stage spirit beasts. I could knock out two side quests in a single outing.
+
+It takes me about a minute to fully scale down into the pit before the sounds of moving rocks, occasional grunts, and claws scraping become extremely easy to hear.
+
+After another minute, and over 500 meters rappelling into a deep dark hole, finally a system scan dings in the back of my mind.
+
+[Automatic Inspect Function Activated…][Unnamed Armored Lizard] [Age: 39][7th Level Qi Refiner][Earth Spiritual Root][7th Grade][Acquired Heavy Mountain Physique][Mid Stage - Mortal Grade][No Innate Physique][Member of a large Armored Lizard brood, currently protecting a hoard of stolen eggs from the neighboring nests in this forest region.]
+
+The sound of rocks breaking hits my senses next, as this 3-meter-long armored lizard breaks out from the rocky floor and climbs up the wall I’m scaling down.
+
+Its physique feels hot and heavy, increasing its strength to rival mine.
+
+Mental scenarios of fighting it with my bare hands come to mind, but I act on my safest instinct. I hold onto the rope with my legs and hang down to pull a perfect grade arrow and pierce its skull once it gets within a few meters of me.
+
+The speed of my mid-grade bow’s arrows are slow enough for anything above a 6th level qi refiner to dodge with enough distance, but when I’m so close up it does not have time to do so. The arrow slices through this lizard’s rocky skin like butter.
+
+A screeching sound echoes through the cave as it falls off the wall down to hit the floor less than 40 meters away.
+
+Quickly, the scuffling of other large lizards and crumbling stone hit my ears. Then, half a dozen system scans of level 7 and 8 spirit beasts all charging my way appear.
+
+They swarm up the wall, and I send arrow after arrow down at them.
+
+A few hit their heads and hearts, but others miss at such long range.
+
+Two lizards make it way too close for comfort, and I activate a pine spear explosion talisman on the spot.
+
+The enormous barrage of thin needle-like spears instantly shreds the two beasts below me to bloody flesh falling down to the cave’s bottom. A new notification still rings in my inner ear.
+
+[Ding!][Congratulations! Side Quest Complete: Kill 5 Late Stage Spirit Beasts (5/5)!][Collect Your Rewards!][YES][NO]
+
+I accept the three new upgrade cards and a minor lottery die into my storage while scanning my surroundings.
+
+My heavy breaths and heartbeat dampen my senses; but I can still feel small vibrations of armored lizards with mid-stage physiques approaching outside of my spiritual senses range.
+
+I grab the rope tighter to start climbing back up, but two points stop me from retreating.
+
+The first is that at the edges of my senses; from a hole in the floor of this pit where many of the first wave of lizards came from, I see a collection of small brown eggs.
+
+They’re no bigger than my hand, and every one of them is a 9th grade egg. However, if there are some within visual range, there must be many others deeper into these dug-out passages…
+
+The second point is the new side quest that has materialized in my mind to kill 5 perfected stage spirit beasts.
+
+The sound of easily ten or twenty armored lizards approaches. While I can’t see their qi refining levels, I can feel their physiques. One in particular at the late stage. Not even the level 9 qi refining lizards managed to reach this stage in their physiques, meaning there’s a good chance it's at least level 10.
+
+I grit my teeth, and make the split decision to slide down the rest of the rope to hit the bottom of this pit with a loud thud.
+
+It isn’t time to turn back yet… Instead, I’m going to eradicate this lizard den.
+
+Every single one of my perfect grade arrows is released one by one. I kill multiple lizards in the approaching swarm. Many are level 7, 8, and 9 like before. A few are younger, not fully matured yet at the 5th and 6th levels of qi refining.
+
+Once I run out of sturdy enough arrows, fireballs and wide bursts of pine needle spears explode from my sides. I charge straight into the swarm.
+
+I concentrate on the physique fluctuations and punch a level 7 armored lizard at close range. It doesn’t die on the spot, but an agonizing hiss and screech comes out, immobilizing the creature before I incinerate it along with the two lizards caught in the cross fire behind it.
+
+My pace doesn't slow one bit, I run through the lingering flames toward the strongest lizard at the back of the swarm.

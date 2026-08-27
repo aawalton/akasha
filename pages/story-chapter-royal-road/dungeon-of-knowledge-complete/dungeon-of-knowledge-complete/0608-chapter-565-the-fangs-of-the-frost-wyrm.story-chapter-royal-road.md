@@ -1,0 +1,153 @@
+---
+id: 5fc94b89-a47e-57ff-a2b9-d5ce06bdc244
+page-type-slug: story-chapter-royal-road
+title: "Chapter 565: The Fangs of the Frost Wyrm"
+slug: 0608-chapter-565-the-fangs-of-the-frost-wyrm
+partOf: dungeon-of-knowledge-complete
+position: 608
+ownLength: 2978
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3147367/chapter-565-the-fangs-of-the-frost-wyrm"
+royalRoadId: "3147367"
+---
+
+A sudden hush descended upon the Grove as all eyes turned to the dark, robed figure silhouetted by the slow pulsation of the crawling violet light leaking from the portal. Even the titanic struggle between Dekarradon and the growing army of Death Knights and Abominations faded into muted background noise and flickering backlight that kept his features shrouded in darkness.
+
+“Ali?” Malika called out from her spot behind a protective barrier over by the shrine, but she was incredibly vulnerable in this moment. Interrupting her evolution and path selection would leave her class in an uncertain state.
+
+“I’ve got this… I’ll… just hurry, please,” Ali said, reinforcing the barrier as the blood drained from her face and frozen fingers of dread clawed their way down her spine, making every last hair prickle in overwhelmingly intense waves. Malika said something, but Ali’s focus was locked on the apparition. A quiver of weakness buckled her knees, threatening to trip her up, but while the screaming in the back of her mind urged her to flee, her feet seemed rooted to the spot.
+
+The Blind Lich drifted forward unhurriedly, shrugging off the radiating hellfire blast waves with flickers of his dense Mana Shield. Two imposing third-tier Devastation Knights fell in behind him, their heavy mithril boots sending up puffs of dust as they pulverized the rapidly withering and blackening moss and grass underfoot. The eerily backlit gloom flickered strangely, as if skittish and fearful of approaching, leaving the powerful undead figure shrouded in shadows.
+
+“Aliandra Amariel,” he said. Although quieter, his sepulchral voice ripped the very life out of her – not in the manner of a ravening beast, but the way an arctic storm snuffs out life and warmth from every living thing it touches, and her heart withered like the blackening moss upon the ground. “You look so much like your mother.”
+
+The awful weight of his power bore down on her like a falling mountain. “Bow to me.”
+
+Ali’s legs gave out, and she fell to her knees before him. She raised a shaky hand – a futile attempt to ward off the impossible recreation of her nightmares. Her heart quavered as she remembered that night.
+
+“Now doesn’t this look familiar?” he sneered, allowing the coldness and cruelty to imbue his words with twisted arrogance.
+
+Suddenly, Ali was back there, in her father’s vibrant Grove. Her mother had been sprawled upon the moss before the Lich, and the freshly turned kings of Dal’mohra had loomed large behind him as Death Knights. She saw again that black orb of magic he summoned. Heard again the mocking words. The horror of that day, pent up and locked away all this time, burst forth from the dam of her heart in an overwhelming torrent. She whimpered on the ground before him, throwing up a futile barrier, a puppet in a macabre play forced to follow the paths of history carved deep into her heart with the black knife of grief and fear.
+
+“You dare this defiance?” The thrumming immensity of his aura, laced with all the contempt and malice of an ancient foe, focused upon her, pressing her body down into the damp moss.
+
+Words formed unspoken on her lips. No. No… I will not. You’ll never have me.
+
+The Lich seemed to study her for an eternity, perhaps seeing the kernel of courage that still burned in her breast. She was low but not broken, crushed but unwilling to give him the slightest satisfaction.
+
+But when he continued, his voice had returned to its former cold arrogance. “I am far more powerful than you can even conceive. I exceed you in every way and upon every axis. Not even your mother could stand against me, and I have scarcely been idle these last three thousand years. You have only one chance. I will give you the same offer I gave your mother. Take it.”
+
+Chimes rang in Ali’s mind, and ominous words etched themselves in black flame across her inner vision.
+
+The Blind Lich, Nevyn Eld, offers his patronage.Fealty Patronage – Nevyn EldTraits: Death, Soul, Domain, Undead, Magic, Minion, Intelligence, Wisdom, Endurance, Knowledge.An Oath of Fealty sworn upon your life and mana.Enchantment – TitheAccept this patronage?
+
+Ali recoiled, pulling back and raising her hands as if warding off a physical blow.
+
+“Come, we are the same, you and I,” Nevyn Eld said, his voice making her skin crawl with what might have been an attempt to sound comforting. “We are both scholars of magic, pursuing knowledge and power. We have both harnessed the power of dungeons to grow stronger and increase our influence. Think of what you could accomplish as my servant. I have the knowledge of ages, and I would offer it freely. Take the oath.”
+
+She shook her head mutely.
+
+“Kneel, wretch! Kneel and obey!”
+
+The force of his despair-enchanted anger bore down on her like the weight of mountains crushing her chest, grinding the breath out of her. Ali clutched the ground, trembling, and her heart quailed. Her mother had faced him with dignity and defiance, but…
+
+I’m sorry, Mom…
+
+She stared at the oath, knowing what it would mean. But what choice did she have? She couldn’t even move, so overpowering was his mere presence. This was what her mother had faced on that day. What he created with every scheme, plot, and nefarious deed. He spread despair so none could resist his will.
+
+A gentle hand touched her then. The memory of a hand, slowly growing translucent as motes of life and mana began to float upward out of her, and Ali realized that it was grief, not his malevolent dread, that crushed her heart, weakened her knees, and had her kneeling in the dirt.
+
+The memories, the deep well of feelings that spilled from her heart, were overwhelming and precious beyond telling, but they were hers. She clung to them as she raised her head and glared at the Blind Lich.
+
+He froze, and the immense weight of his aura crashed down upon her mind and will, but it spilled off her like water. Unaffected, deep inside her heart, that same tiny spark of white hovered there. Had been there ever since that day. The searing fury she had found when she faced her first rat and, against all odds, had survived. The defiance she had wielded when she threw her nascent magic in the Lich’s face. And the grief she kept warm beside them.
+
+You have no hold on me.
+
+Ali pushed herself up from the moss. Her arms were still shaking, and her legs were wobbly, but she gritted her teeth and slowly got to her feet.
+
+Mom, Dad, I will make it right. I will finally make it right.
+
+“This…” Ali’s voice croaked a little, betraying the tumult of emotions raging within her. She asked again, “This is what you offered my mother?”
+
+“Of course,” Nevyn Eld said, his withered lips pulling into a rictus across his blackened teeth. “I will grant you power beyond your dreams, knowledge, and immortality.”
+
+Yet his attention upon her now seemed narrower, warier than before.
+
+I have seen the truth behind your gifts, Ali thought, recalling the fate that had befallen Nathaniel Sunstrider the moment he swore fealty to Nevyn Eld. Her fists shook as she held them clenched at her sides. Dipping deep into the incandescent fury within her heart, she ground out her answer through clenched teeth.
+
+“You killed my mother.”
+
+With her lip curling up, she rejected his filthy fealty patronage and fed the full fury burning in her heart into a barrier that snapped into existence between them. “Calen. The Blind Lich is here,” she said, using the voice of a distant minion deep in the heart of the Crypt of Kings, under the Fangs of the Frost Wyrm. She saw the recognition blooming on his face. She saw the grin creasing his lips, and his bow spoke its mournful lament.
+
+The Grove rang with the sound of a gong, and Nevyn Eld’s face snapped about toward the Shrine.
+
+[Zone] Soul Seer of the Nine Paths has advanced to the third tier.
+
+You have gained Reputation.+3 Authority.
+
+Malika!
+
+An instant later, her thoughts were wrenched away as close to a hundred and twenty blazing arrows of light shot down from an impossible origin and blasted the Lich with incandescent wrath. Ali threw up a barrier instantly as within the raging inferno of light, soul, and nature, the mana silhouette of the Lich staggered. Dozens of shining chains burst up from the ground to lash around him like the blazing tentacles of a divine kraken seeking to draw its prey below the waves.
+
+The air shimmered, and Malika appeared beside Ali. “That was a nice shot,” she said. “Our boy might actually be getting strong.”
+
+“Calen’s always so reliable, isn’t he?” Ali said, her eyes still glued to the incandescent ball beyond her barrier.
+
+“Sorry, that took a little longer than I hoped,” Malika said, her lips twisting into a grimace.
+
+“Nonsense,” Ali said, studying the shadowy form within the blaze. “You’re here, now. Are you ready?”
+
+“Let’s do this,” Malika said, cracking her knuckles as her body shimmered with new power. As she did, reality seemed to ripple and warp around her, as if bowing to the immense weight of her now third-tier soul.
+
+Ali turned to stare at her friend, to really look. From the intensity of the mana blazing from her eyes to the lightness and power in her stance, it was clear that here stood a person reforged by the crucible of Authority and her choice of the most potent of paths. When she’d told her friend that her evolution would be worth more than the accumulated power from hours of fighting, Ali knew she would be proved right – but she could never have imagined by how much.
+
+“Mmm, so shiny,” she grinned, winking at Malika. “Did you pay extra for the glow?”
+
+Her friend could only shake her head. “You!”
+
+“Thanks, Calen,” Ali said as she shook off the lingering effects of the Blind Lich’s oppressive presence that had shaken even the connection to her Divine Archon here in the Crypt of Kings. A moment of hesitation that could have spelled the doom of the entire raid, something she could not afford to risk again. Her eyes snapped back to the immense swell of mana drawn to Kryostria’s maw.
+
+For an instant, she feared her split focus might be her undoing – but no, she refused that outcome. Not today!
+
+“I’ve got your back,” Calen said, the jagged lines of light across his face fading as he re-aimed his bow and then flaring with power as he fired at the Dracolich. “Storm?
+
+“Working on it!” Ali’s borrowed celestial archon eyes darted back and forth, searching through swirling ice, heavy smoke, and the sparking discharge of offensive spells for anything remotely resembling cover as the intense, shining cobalt orb of dense, crystallized ice mana bombarded the ground with blue bolts of lightning, sending the melee scattering for safety. Insects fleeing the wrath of the ice goddess.
+
+There must be something…
+
+She scanned the cavern in vain, searching for something, some hint of inspiration. She considered dozens of boulders and heavy shards of ice jutting from the ground, discarding each as too weak or too small to withstand the coming onslaught. She didn’t have the same setup as she had the first time they’d defeated Haverron, nor did she imagine the same strategy would work here – Kryostria was attacking from far higher up, and the angles would make any safe areas far smaller. She had her archon’s Holy Shield, which gave her a few seconds of virtual invulnerability, but that would be woefully inadequate to save the whole raid.
+
+The shimmering plane torn through the fabric of the realm flickered up ahead in an area the raid members had left conspicuously open due to the inherent danger of fighting beside an open door into the unknown, and a red-scaled dragonkin warrior leapt through the rift, roaring in fury as he rose to his full two meters of height and brandishing a long spear in a competent two-handed grip.
+
+“The rift!” Ali yelled. “Hide behind the rift!”
+
+“Move!” Calen shouted.
+
+Everyone out on that desolate arctic hellscape still free to move scrambled, rushing under the cover of barriers, the icy prisons of their allies, and hastily summoned wards, heading for the flickering tear in the fabric of reality – the gate to another realm. A delayed blast of ice detonated amongst the stragglers, tossing them flying and leaving several suddenly trapped out in the open, locked into fresh frozen pillars of ice. The light of life-forces fluttered like candles in a gusting storm, answered by the strobing blaze of holy contingencies, divine favors called in, and expensive warding reagents crumbling to dust in the hands of the desperate healers.
+
+Did they… get everyone? But there was precious little margin for error. With a flare of mana through her archon’s eyes, Ali dispelled the nearest ice prisons, cycling through them as rapidly as she could, but the domain magic was reaching a crescendo of power, and she was out of time. In desperation, she summoned her wings. All three sets burst from her back in a dramatic display of holy conjuration, and she shot off into the cavern at top speed, momentarily disoriented by how different the archon’s wings felt compared to her natural Fae ones.
+
+The pulsing orb of dense conjured ice mana floated out from between great undead fangs and hovered in the frigid air. Coruscant arcs and twisting azure bolts of power discharged continuously from the orb and into the ground, walking out lines of destruction along the blackened rock. The chamber fell silent, a moment of held breath, and then, the orb detonated with a devastating subsonic pulse that shivered through the rippling ground as if ice and rock had suddenly turned to liquid.
+
+Ali screeched to a halt right in front of Devan, still trapped within a frozen block of ice, and snapped her Holy Shield into place around herself right as the shockwave of domain magic struck. Safely enclosed in her bubble of invulnerability, the ice parted around her archon, instantly slathering her shield in a thick layer of rime and frozen chunks of ice. But right behind her, she could see Devan safe in her ice block, protected from the raging storm outside.
+
+She couldn’t exactly see much. Her view through her shield was entirely obstructed by a thick layer of encrusted ice, and her mana sight was overwhelmed by the raging fury of Kryostria’s domain magic. All she could see was the soft pulse of Devan’s health somewhere behind her, reassuring her that she still lived. The storm howled without ceasing, transmitting the grating, grinding crash of ice through the ground and up into her ringing ears, and despite the celestial being’s enormous endurance, Ali shivered. Even her Divine Archon was sorely affected by the immensity of the cold that raged outside.
+
+Fortunately, not being able to see was hardly a hindrance for Ali, and from the eyes of all her other minions huddled with the raid group behind the impervious rift, she studied the ridiculous power unleashed by the Dracolich. It was hardly a wonder Kryostria was known as the Frozen Scourge. For a second, her mind supplied the ridiculous image of Winter itself scribbling down notes – and she dismissed it with a wince. Still, her Sage of Learning was humming away in the background, and she allowed herself the briefest of nods. Every scrap of knowledge she gleaned was important. Somewhere, she might uncover a key to turning the course of this conflict.
+
+Back in her bubble, buried now under a ton of ice, Ali swapped her aura to Redemption, consuming all the nearby elemental corpses, and taking the opportunity to refill her mana. The outside wind slowed, and the howling power of the ice-mana storm slowly faded. In the silence of the aftermath, she heard a low rumble and heavy thumping as Kryostria turned and came for the group huddled behind the rift.
+
+Before she could move, a thrilling, familiar roar echoed through the chamber, answering the Dracolich’s assault, and her friend shot out with a kind of lolloping, almost joyous gait that was pure Mato. He loved the clash and craft of battle. Icy breath deflected off of floating void shields in a sizzling roar that left skull-sized boulders of ice bouncing off the ground. The Dire Bear lashed out with a furious swipe that raked void magic across her torn flesh, and with a deft sidestep, he whipped her around and placed her facing toward the wall.
+
+“Mato has her,” Calen announced. “Resume fire.”
+
+Ali took a deep breath, released her Holy Shield, and punched through the ice with her greatsword, reveling in the feeling of power that came from enormous strength. Elementals swarmed outward in a great cloud from under Kryostria’s flaring wings, rushing toward her, and she met them with a glowing sword and an explosion of consecration upon the ground.
+
+Ali landed, punching a stray Ice Hulk with a gauntleted fist while lobbing her Celestial Sword in a great circle through the oncoming swarm, slicing into several more elementals along the way. Leaving her whirling sword images behind to deal with the trash, she shot across the fresh ice to catch her sword in one hand and buried it in Kryostria’s flank.
+
+“Take that, you frigid bag of bones!” she muttered, earning a raised eyebrow from Calen, but she ignored him. After what she had just endured back at the shrine, she welcomed the opportunity to take her frustrations out on an evil, undead dragon with a blazing holy sword.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

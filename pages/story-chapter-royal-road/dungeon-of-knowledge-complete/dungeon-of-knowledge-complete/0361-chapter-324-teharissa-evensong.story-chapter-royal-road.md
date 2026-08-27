@@ -1,0 +1,113 @@
+---
+id: eb747468-de02-5381-8548-3d40e9d6db39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 324: Teharissa Evensong"
+slug: 0361-chapter-324-teharissa-evensong
+partOf: dungeon-of-knowledge-complete
+position: 361
+ownLength: 1507
+unit: words
+ownProgress: 1507
+publishedAt: 2025-07-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2467991/chapter-324-teharissa-evensong"
+royalRoadId: "2467991"
+markedReadAt: "2026-06-29T20:22:48.951Z"
+---
+
+Aliandra
+
+“This should be the place,” Ali said, glancing at Malika who stood beside her in the slowly dimming twilight. It was a run-down house in a poor section of Myrin’s Keep, not more than five minutes’ walk from Eliyen’s home.
+
+“Yes, at least according to the Elves we spoke to,” Malika agreed.
+
+It had taken hours, and many conversations, to track down the person they were seeking. After the destruction wrought upon Ciradyl, they had not even been certain she had survived. Myrin’s Keep was way too small to have an alchemist who specialized in ink, and for what Ali wanted, not even the Silver Cog auction house had the proper ingredients.
+
+I just hope she’s here, Ali thought, walking up and knocking on the door.
+
+“Ilantha, can you see who it is?” The voice that called out from within the house sounded old and frail, and it held a quaver as if the owner feared who might come calling.
+
+Ali grimaced as she met Malika’s eyes. Myrin’s Keep had already gotten to these people, it seemed, but then the door opened partway, restrained by a security chain, to reveal a young Wood Elf peering anxiously out at them.
+
+Alchemist – Wood Elf – level 21 (Nature)
+
+“We’ve already paid our dues to the Town Watch,” the elf said, a little nervousness in her demeanor. “We have nothing here.” The Wood Elf was far too young and low-level to be the alchemist Ali was seeking, not to mention they were looking for a Night Elf.
+
+“We’re not with the Town Watch,” Ali answered. “We’re looking for the alchemist, Teharissa Evensong. I was told I could find her here.”
+
+“What do you want with her?”
+
+“I’m looking for somebody who is able to craft high-level runic ink,” Ali answered, keeping her voice calm and level, hoping to win over the skittish door guard.
+
+The girl at the door tilted her head for a moment as if listening to something whispered to her. “Why can’t you buy it from the auction house? I heard Silver Cog has an office in this town.”
+
+“There is no soul-affinity ink on auction,” Ali answered. Indeed, she had looked, but Worthington said it would be unlikely she would find something so esoteric and rarely used.
+
+“Let them in, Ilantha,” the aged voice spoke from somewhere beyond the door.
+
+“Are you sure?”
+
+Whatever was spoken behind the door in response to her question clearly convinced her, and the door suddenly shut with the sound of the chain being rattled, before it opened again, a little wider, and Ilantha backed away to let them enter.
+
+“Stay out here,” Ali instructed her minions, not wanting to frighten the Elves unduly.
+
+The interior of the house was just as shabby as it seemed on the outside, and it was clear that they had only recently been moved into this house. It was cold, dark, and hardly furnished. A chill draft blew in through several holes in the ceiling.
+
+“It’s been a long time since someone came knocking on my door looking for soul-affinity ink,” the aged voice spoke from the darkness, and the hunched form of a wizened old Elf shuffled forward, her cane clicking loudly on the cold stone floor of the entryway. “I am Teharissa Evensong.” She had a thick shawl clutched tight around her bony shoulders and her eyes stared past Ali’s shoulder as if she couldn’t see properly. Ilantha quickly reached out with a hand to steady the elder elf.
+
+Alchemist – Night Elf – level 118 (Arcane)
+
+Aah, we found the right place.
+
+“I was told that you were an expert – the expert – at making magical ink,” Ali said, excited to have found the aged crafter.
+
+“I have been known to dabble in inks from time to time,” Teharissa said, a ghost of a smile creasing her lips.
+
+“I brought this,” Ali said, pulling out the extract she had asked Eliyen to make, and offered it to the alchemist. But it was Ilantha who reached for it and placed it in the hands of her master.
+
+“Aah, you come prepared,” Teharissa said, wrapping her fingers around the vials without looking at them. “I am surprised you were able to secure soul extract of such high quality in this… town. Did you purchase this at the auction house?” Her fingers continued exploring the extracts she held.
+
+“I grow Soulshade Blossoms, Peacebloom, and Ghost Mushrooms in my dungeon,” Ali answered. “The herbalist, Eliyen Mistwood, just down the street from here, created the extract.”
+
+Teharissa froze. “Dungeon?” she asked.
+
+“Yes, I am the dungeon below Myrin’s Keep.”
+
+“Well, dear, thank you for hosting us after Ciradyl,” she said, not a single quaver in her voice when describing the disaster.
+
+“You’re welcome,” Ali answered, cautiously. She still wasn’t entirely comfortable sharing the nature of her class with strangers, but this woman would easily find out, and it was worth getting it out of the way as early as possible. Ali needed her willing support if she was to develop her skills with runic script.
+
+“I will craft your ink, but I must prevail on you for another favor before I can help. I have no money, and I cannot buy equipment or components. If I make a list, would you be able to purchase the items I need?”
+
+“How are you going to make the ink without your glasses?” Ilantha asked in surprise.
+
+“I will have to make do,” Teharissa said, her voice sounding both determined and yet uncertain.
+
+“Glasses?” Ali asked, her curiosity piqued.
+
+“As you might have noticed, I am blind,” Teharissa answered wryly. “We also lost everything in the disaster, and I have come to rely on my glasses for my craft.” She stretched out a hand, and on it appeared a simple set of glasses of similar design to the ones Mieriel always wore – if not quite as fashionable. One of the lenses had been shattered and the frame was bent.
+
+Alchemist’s Glasses of Mana – level 88A plain-looking pair of glasses that belies the powerful magical enchantment imbued upon it.+54 Perception.+41 Intelligence.+1 to skill level of Alchemy skills.Grants level 31 Mana Sight skill.Requirements: Intelligence 308.Quality: Broken.Head – Glasses
+
+“Ah, I see,” Ali said, and then suddenly wondered if she was being insensitive with her choice of words, covering it up by adding, “You use the glasses for the mana sight ability?”
+
+“Yes, but they were broken in the chaos when we fled Ciradyl,” she said.
+
+“I know a good jeweler who might be able to repair these,” Malika said. “Would you like me to introduce you to Giddy Clicksprocket?”
+
+“I could not afford their work. I was hoping to earn enough money from your ink to buy some basic supplies. And maybe some better security against the thugs I was warned about.”
+
+“How about I pay you half in advance for the ink?” Ali said, dropping a small pouch of coins into the still outstretched hand, making it land beside the glasses with the distinctive clink that spoke of gold. “That way you can get yourselves set up while I find the ingredients you need, and Malika can get your glasses repaired. Is that agreeable?”
+
+“Why would you help out a stranger with such generosity?” Teharissa asked, suspicion creeping into her voice, but Ali could see her poking the pouch and verifying its weight.
+
+“Let’s just say I have a vested interest in having access to your skills in the future,” Ali answered. She knew her main reason would just make the old Elf more suspicious, but there was no way she could leave her destitute, forced to fend for herself after the destruction of her home without offering some assistance. Given the clear lack of furniture or even food in the house, Ali knew they would struggle until they managed to get a break – and the likelihood of someone else wanting something as rare and specialized as ink in Myrin’s Keep was extremely low. Nonexistent. With just a little money to get started, Teharissa could buy some alchemy supplies and put her work up on the auction house. After that, she would likely be fine.
+
+She smiled to herself. Helping crafters seemed to be becoming a habit – one she was proud of, she had to admit. What pleased her most was that mutual benefit or profit barely figured on her list of reasons for doing so. Maybe Malika’s right about me. I only wish I could believe the same – truly believe it.
+
+“Ok,” Teharissa said, her obvious need warring with her pride for a few seconds before she risked taking Ali’s offer at face value.
+
+Ali retrieved a small piece of paper and wrote down the name and address of Eliyen’s store, and then remembering Malika’s suggestion, added the details for Giddy Clicksprocket and Morwynne Fizzlebang, and handed it to the younger alchemist, Ilantha. It seemed like the herbalist would be an important contact for them in the very near future.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,227 @@
+---
+id: de547cdc-9cf0-51f7-ab31-e30b1415cc6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 466: Consulting The Calamity"
+slug: 0503-chapter-466-consulting-the-calamity
+partOf: dungeon-of-knowledge-complete
+position: 503
+ownLength: 3372
+unit: words
+ownProgress: 3372
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2821257/chapter-466-consulting-the-calamity"
+royalRoadId: "2821257"
+markedReadAt: "2026-06-29T20:29:18.169Z"
+---
+
+If it was just her, Ali would have teleported straight there, but it turned out that surprisingly many people wanted to meet Azryet, and so she decided to walk, or at least fly, most of the length of her dungeon. It wasn’t as if she were in an enormous hurry, especially considering she had to take the time to teach most of them draconic first – fortunately, the bonuses to learning from both her domain tithe and the library had made this a relatively easy task.
+
+It still needs so much work, she thought as she passed through the untamed mess Blooming Rot had left in her jungle and on into the mines. At least the mines were in a little better shape, given that it was a far less ideal environment for the rotting vegetation to take hold in the rock and the heat. Ali had also spent more time recovering the area as interest in her Anvil of Emberforge began to grow.
+
+With a thought, she instructed Mok’freja to stand down and led everyone inside the rift chamber. Here she spent the time to replant all her ice plants, her old Azure Ice Queen orchids, and a few fresh varieties she had received in donation from visitors, and reestablished her main ice biome.
+
+“Ice affinity?” Vivian asked, glancing around the chamber with curious eyes.
+
+“Yes, it should be available on the shrine now,” Ali said, earning a happy grin from the Guildmaster and a terse nod from the grumpy Val’korr. Ice was a popular affinity among the new recruits, and so Ali had made it a priority to get the affinity recognized by her shrine.
+
+“Wow, this is all so pretty, Ali,” Ryn said, flying in behind her, her breath beginning to steam in the chilly room.
+
+“It sure is,” Mieriel said, walking in behind her.
+
+Mato and Malika came in next, followed by all the adventurers who had chosen Azryet as a patron, with the stoic Kavé bringing up the rear beside an excited Naia who bobbed up and down excitedly, rushing over to touch everything with her pseudopods.
+
+“Rift,” Naia said, poking at it with a wobbly blue pseudopod.
+
+“Careful, it’s sharp,” Ali said, momentarily forgetting that Naia had extensive experience with the Zulkora Rift. “Let’s all go through.”
+
+“Right,” Vivian said, following Ali with a worried expression on her face as she led the way through the rift and into the Abyssal Realm.
+
+“This is where we fought Maalgaroth,” Ali announced, gesturing with her hand at the cavern she now owned.
+
+“Ooh, ooze!” Naia said, rushing up to poke at the much larger Devouring Consumption. The adventurers, however, seemed far more interested in the Scion of Azryet soaring overhead, unleashing its breath weapon at the demons crawling in through the tunnel at the far side of the cavern.
+
+I can see I’m going to need to rebuild that side of the cavern again, Ali noted. A substantial crater had been disintegrated where the demons were emerging.
+
+“Are there always demons here?” Devan asked with a predatory gleam in her eye.
+
+“Yes, there’s a god-tier dungeon through there, and this is the trash from the fringes. It forms a continuous dungeon break,” Ali explained. It was down to a background noise for her at this point, but occasionally something pushed through that her boss couldn’t handle, and she had had to intervene, sending more monsters for reinforcements. But that’s why I have two rift bosses.
+
+“Well, now, isn’t that interesting?” Devan said, her obvious excitement mounting by the moment.
+
+“Something you like about demons?” Ali asked.
+
+“Devan is Demon Hunter!” Havok declared dramatically. “Havok like demons, too! Holy magic does more damage!” He punctuated his statements with wild-looking swings of his sword, trailing holy magic in the air. “More damage for Azryet!”
+
+“Oh, right,” Ali said. As she translated Havok’s words, she recalled that Devan had taken a Demon Hunter class of some kind, offered by Azryet, and presumably earned some significant bonuses fighting demons. And, of course, holy damage was particularly effective against demons and undead. “If the two of you like, I could always use more help cleaning up these demon attacks.”
+
+“Yes!” Havok declared, banging his shield while Devan just grinned broadly.
+
+“Ok, it’s this way,” Ali said, leading them in the opposite direction, through her extended domain, and finally down the tunnel where her domain ended and the dragon god’s began. All of them followed along, reacting with awe at the first sight of Azryet’s dungeon, except for Naia, who had decided to stay behind and play with the Devouring Consumption instead. Out of politeness, Ali had removed her own domain from his area. “This is Azryet’s domain,” Ali said. “Please stay alert, he’s not expecting us, and I’m not sure if he’s busy.”
+
+“How will we let him know we’re here?” Malika asked.
+
+“Well, ringing the doorbell with dungeon rage is probably rude,” Ali said. Not to mention unconducive to a long life. “Let’s just walk down this passage and find a kobold to ask.”
+
+“Right,” Val’korr said, tapping the white stone wall with his walking stick and inspecting it closely.
+
+Ali led them all down the long, perfectly cut, stone tunnel until they finally emerged in the place she had called the ‘cathedral.’ Her plants were gone, as was much of the damage, but the enormous gouges through the white marble floor remained, and half of one of the walls was missing. The promontory, which was all that remained of her stand against Azryet’s fury, was covered in the copious amounts of dark, dried blood her berserker had shed, punctuated by small patches of her own golden Fae blood, still softly glowing.
+
+Why didn’t he fix it yet? she wondered, staring at the aftermath like the memory of a faded nightmare.
+
+“Whoa, what happened here?” Devan asked.
+
+“I had an argument with Azryet,” Ali said, getting uneasy glances of surprise from everyone, even those who knew what had transpired. Honestly, though, seeing the damage anew, she could hardly blame them – even she felt shocked by the scope of the destruction. But one thing had been fixed – five kobold priests stood in the center of the chamber, palms pressed together with their heads bent in prayer, while holy mana poured out from their bodies to be absorbed into the domain.
+
+Ali flew over and stopped beside one of them. Using draconic, she said, “Excuse me, would you mind telling your master that he has visitors?”
+
+“Your accent is getting better,” Kavé murmured in the background.
+
+The kobold chirped in surprise and then looked around, startled as everyone else trooped in. She glanced back at Ali and then presumably decided this was beyond her abilities as she reclasped her hands in prayer.
+
+Immediately, mana in the center of the chamber twisted, growing darker and shot through with the telltale flecks of holy mana infusing the void. “Brace yourselves,” Ali yelped, darting backward, and suddenly a deafening implosion rocked the room. Instead of air, the chamber was suddenly filled with the immense divine majesty of an elder dragon god.
+
+The force of his sudden materialization knocked virtually everyone off their feet, except Ali, who preemptively summoned a strong barrier around herself. The enormous head lowered, jaws opening to reveal sharp, gleaming fangs and the swirling of potent mana.
+
+“Azryet!” Havok yelled, jumping up and down below the dragon god, waving his sword and shield frantically. “It’s me, Havok! I come to say hi!”
+
+Ali caught Azryet’s enormous eye for a moment, and she just grinned.
+
+“Havok?” Azryet said, his basso rumbling shaking the entire cathedral.
+
+“Yes!” Havok said, entirely unbowed by the force of the draconic words crashing into him.
+
+“Havok.” This time, when Azryet spoke, his voice was more suited to mortal ears. “You are truly a delight.”
+
+“Thanks…” Havok said, taking on a puzzled frown as he tried to work out his god’s meaning. For some reason, he counted something out on his fingers for a moment while his tongue stuck out of the side of his mouth in an expression of pure comical focus, and then he suddenly smiled and looked up. “You too!”
+
+Mato was the first to snort, but it took like wildfire until even Azryet was laughing along with them.
+
+When the mirth in the room finally subsided, Azryet turned an enormous eye on Ali. “Aliandra, I had feared you had forgotten about me.”
+
+“How could I forget one so immense and powerful as you?” Ali said, bowing. “Besides, I gave you my word.”
+
+“That, you did. But there are precious few who care to keep such things. Come, let us retire to the library; it is much more comfortable there.” And with that, the mana swirled, whisking everyone away with the force of a relentless tide.
+
+“Oh, my!” Ryn exclaimed as they suddenly materialized in the vast draconic library, her eyes wide as saucers. “Ali, this library is amazing!”
+
+“I’m glad you approve,” Tiraza said, her golden scales gleaming in the light. “You must be Ryn? Aliandra told us about you.”
+
+“Yes! Are you Tiraza? Can you show me around?” Ryn asked, excitement seemingly bubbling out over nervousness.
+
+“Ryn, before you run off and dive into paradise, can you show them the books we brought?” Ali asked. She had been slaving away every night to copy the most important magical texts she had access to ever since they had recovered the library, and she just hoped it was enough to convince Azryet she was serious.
+
+“Oh, yes! Here we go,” Ryn said, and then, in a surge of her mana, stacks of books began materializing from her Library Domain skill. Ali had been working on them in batches, and so this was the first time she had seen them all together in one place, and even she had to admit that the pile of books looked rather impressive.
+
+“The fabled Grand Library of Dal’mohra?” Azryet asked, his eyes swirling with mana.
+
+“A small selection, based on the priorities you shared with me,” Ali said. She looked up at the vast dragon. “I was hoping you’d allow Ryn to set a teleport locus here in the library so she can deliver books regularly and borrow some for our library.”
+
+“That seems agreeable,” Azryet said, though the hunger in his eyes as he gazed at the books was at odds with his mild-mannered politeness.
+
+“Ryn and Mieriel here also manage the guild quests and jobs board, so if you want adventurers to come and kill demons, you can just post something,” Ali added.
+
+Azryet stopped instantly, his head turning to regard her with a stare, and something deep in her primitive mind quailed at the immense weight of the focused attention of the giant dragon.
+
+“I… you said you had no contact with anyone in forever, and I thought… I thought you might like to make a few requests…” Ali said, uncharacteristically stammering in the sheer presence of the Dragon God.
+
+But his slow rumble was not one of hostility. “You have more than filled your side of the bargain, Aliandra. You have my eternal gratitude.” The great dragon’s eyes whirled with enigmatic patterns of mana as he regarded her for several long moments.
+
+Ali breathed again. She knew he was honorable and kept his word, but still, he was a four-mark dragon that would struggle to fit in her library, and she was a Fae. It was hard not to be intimidated sometimes.
+
+“I did have a couple more things for your consideration,” Ali said, thankful to find her voice steady.
+
+“Oh?”
+
+“First, we encountered these,” she said, and shared the skills and status sheets for the Sandwyrm. “If there’s anything of interest here, let me know, and I can try to work on some experiments to transcribe skills into something you can make.”
+
+“Mmm,” Azryet rumbled. “That is indeed interesting. I do not think the skills will transcribe well, but if you are successful, I would like to know. Still, perhaps you might summon some here and use them against Destraggoth and his demons?”
+
+“I would need a source of gravity affinity, preferably plants I can grow,” Ali said.
+
+“Where did you find these Obsidian Sandwyrms?” Azryet asked.
+
+“A realm called Zulkora,” Mato supplied.
+
+“Aah, yes,” Azryet said. “Tiraza?”
+
+“I believe we have some books that might be of use,” the draconic librarian offered. “Come, Ryn. I will show you the section on the known realms.”
+
+Ryn gasped and darted along behind the enormous figure of Tiraza as they dove into the depths of the library together.
+
+“We won’t see her for a week,” Malika said.
+
+“A week?” Mato said, raising his eyebrows incredulously.
+
+“The second thing,” Ali said, gathering herself with a deep breath. “The reason it took so long to get back to you is that we had to defeat the dungeon that was formed from the undead specter the Lich raised from Lirasia when he killed her. When she was finally defeated, we received a realm-wide message that she had completed a Mythic-ranked world magic spell.”
+
+“A mythic spell?” Azryet asked with such a sudden intensity in his gaze, Ali could almost feel the impact of his words. His grave intonation underscored the question as if he were granting it a far deeper significance. “Which?”
+
+“The Cycle of Rebirth,” Ali answered. In truth, the complex formations of her Aunt’s final spell were burned into her heart, and she was certain nothing could erase it from her memory. “Mato?”
+
+Mato walked over and offered the acorn he had clutched in his hand, still glowing with an intense green.
+
+“She was successful?” Azryet said with momentary hope blazing in his eyes. “Aah, but it is cursed. How unfortunate.”
+
+“We were hoping you could help us unravel the curse and tell us how to restore her,” Ali said. “If… that’s possible.” All her hopes were riding on this, and she almost couldn’t bear the strain of his silence while he examined it.
+
+“Unfortunately, I cannot unravel this,” Azryet said solemnly. “The curse was made by infecting the very world magic that saved her soul. It is threaded deep within the fabric of the phylactery.”
+
+Ali’s heart dropped. She had expected something like this, but she had hoped…
+
+“There may, however, still be a way to unravel this conundrum,” he said. Ali’s hope reignited like a supernova. “I caution you, though, it may still prove too difficult.”
+
+“Anything,” Ali said, trying to keep the begging from her voice. “I will try anything.”
+
+“Then you must create the Elixir of Ages,” he said. “You must retrieve three vials, one from each of the great wells, and then Tiraza can show you the making of the Elixir.”
+
+“The great wells?” Ali asked.
+
+“The Well of Eternity, the Well of Souls, and the Well of Divinity,” Azryet said.
+
+“That’s going to be a little tricky,” Val’korr said, his irascible voice even now, in the presence of the dragon god, still betraying traces of his signature sarcasm. “The Well of Divinity was destroyed along with Aalion. The Well of Souls was corrupted when Nathaniel Sunstrider betrayed Ciradyl to Nevyn Eld. And the Well of Eternity has been lost for as long as most can remember. Not even I know where it now lies.”
+
+“I do not know of any other way to lift this curse,” Azryet said. “It will require a mythic remedy to match the Great Mother’s spell and safely unwind the curse. Although it will be difficult, I believe you must try. The Great Mother is not a loss your realm can easily bear.”
+
+Ali sank down, the weight of despair pressing down on her. Lira was in that acorn; she knew it. And the quest to make the Elixir was impossible. She had seen the corruption of the Well of Souls personally.
+
+“We’ll figure it out somehow, Ali,” Mato said, reaching down and offering her a huge hand.
+
+“I agree,” Malika said, crouching down beside her and taking her hand. “We don’t know how, but if there’s a way, we’ll find it.”
+
+She looked up at her friends. Realistically, she knew they were trying to be supportive, and logically, they had no more ideas than she did. But somehow their support made a difference, and the despair eased from her.
+
+Azryet’s eyes took on a disquieting intensity as he turned his gaze directly upon her. “Aliandra, know that this curse is an insidious evil – it works tirelessly to corrupt the soul within that acorn. Not even a soul as deep and strong as the Great Mother can resist it forever. You must succeed before it corrupts her, or I fear the evil that may germinate from that Acorn will be more than your realm can bear. If you cannot find the Wells, you must find a way to destroy the Phylactery.”
+
+A profound sense of dread settled in the pit of Ali’s stomach as her very being recoiled at Azryet’s horrifying words. Destroy it? She could not even imagine such a thing after the intense flare of hope that had sprung up within her heart at the possibility of seeing Lira once again. “How… how long?” she asked.
+
+“I cannot say exactly,” Azryet said. “A couple of months? Six at the most. I’m truly sorry you must bear such difficult news. I will help as much as I am able; you already have full access to my library, and Tiraza will help with any information you seek.”
+
+“Thank you,” Ali said, rising to her feet. She took a deep breath to collect herself, trying to quell the shakiness within. “There is one last thing, but I’m not sure how safe it is.” She had been considering this ever since she had plundered it for imprints.
+
+“What danger is there?”
+
+“It is the dungeon shrine artifact that Nevyn Eld crafted and bound Lira to,” Ali said. “It has all the imprints of the monsters and plants she could create. You can bind it to a minion and have the minion create monsters for you – monsters that are not bound to your species and affinity restrictions. The only issue is that it has remote sensing functions and a teleportation locus that allows Nevyn Eld himself to show up and reclaim it.” Several times now, she had seen the effect, and every time it had been calamitous or terrifying.
+
+Azryet lowered his head down to meet Ali’s gaze and then cracked his maw, baring fangs taller than a house. “Let him come.”
+
+Ali stared at the massive fangs and whirling eyes, the four marks, and the title of ‘The Calamity,’ and for the first time, she smiled at the thought of the Blind Lich appearing. With just a small puff of mana, she produced the dungeon artifact, letting it hover in the air before Azryet.
+
+“Well, now, what is this?” Azryet said, peering intently at the dark prism. A moment later, the air sparkled with void magic, and suddenly, a kobold appeared at the dragon god’s feet.
+
+Mage – Kobold – level ???? (Void)
+
+Ali gasped, staring in shock at the casual display of power. Certainly, her monster compendium could stand to revise its opinion on kobolds being a weak monster in the presence of this one.
+
+“What is your will, master?”
+
+“Bind yourself to this contraption,” Azryet commanded.
+
+“At once.” The kobold rushed over and placed a hand on Nevyn Eld’s black prism. Seconds later, fungal creep burst from the ground, growing rapidly, and then a Fungaloth Ravager appeared in the nascent domain. Moments later, it was followed by a Malevolent Lirasian Oak treant.
+
+“I suggest dropping the imprints you don’t find useful and filling them with demons from the battlefront chasm,” Ali said. She had no idea if the device had a level limit, but she was certain that leveling the treants and fungal aberrations would take far longer than simply deconstructing a bunch of Pit Lord corpses.
+
+“You have outdone yourself, Aliandra,” Azryet said, turning back to her with eyes now shining with impossibly complex fractals of mana-fire. “This is truly a priceless gift. I will study it well.” And with that, everything vanished.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

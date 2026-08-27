@@ -1,0 +1,259 @@
+---
+id: 193dea97-927f-56b6-8fed-023a6b9aebcf
+page-type-slug: story-chapter-royal-road
+title: "6 - The Secret Dungeon"
+slug: 0006-6-the-secret-dungeon
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 6
+ownLength: 1682
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3388059/6-the-secret-dungeon"
+royalRoadId: "3388059"
+---
+
+There were only two possible outcomes after I slapped that man with the knockback stick: either I was going to jail for murder, or the guild members would thank me for taking out the trash.
+
+Turns out there was a third outcome.
+
+Apparently, the Adventurer’s Guild had been built on top of a hidden dungeon this entire time—a fact only revealed after the man crashed through the wall behind the reception desk.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL ACQUIRED: HIDDEN PATH DETECTION]
+
+Type: Active
+
+Effects:
+
+- Reveals hidden pathways, concealed doors, suspicious walls, and other things that protagonists somehow always find
+
+Charges: 3
+
+Cooldown: 20 minutes per charge
+
+Unfortunately, things had become too chaotic for me to be grateful for that new skill.
+
+Every guild member ran up to the reception, demanding answers. Some of the members were even climbing over the desks, desperate to find whatever treasure awaited in the secret dungeon. The receptionists did all they could to push them away. Judging by the look on the receptionists’ faces, even they didn’t know such a thing existed here.
+
+Through all of this, nobody seemed to care about the man who had crashed through and broken hundreds of bones. A few of the receptionists had taken him out of the crash site and placed him on top of a random table. He was just lying there through the entire commotion, unconscious.
+
+Oh well. He deserved it.
+
+Reina grabbed my hand and pulled me out of the guild before we got caught up in everything. Once we were outside, we saw a nearby bench and sat on it. We were still close enough to the guild to hear all the yelling and screaming.
+
+“Man… what a chaotic day!” I cried. “You know what—I don’t even want to move anymore. Everything I do leads to one trope after another.”
+
+[TROPE INITIATED—]
+
+Don’t you dare do it, you stupid system.
+
+I swatted the message away. Sitting on a bench was not a damn trope.
+
+I sighed, leaning back.
+
+“What’s a trope?” Reina asked. “Isn’t that just your last name?”
+
+I sighed again. A heavier one. Why did it feel so normal to think of that as my last name, anyway?
+
+“Do you really not know? Tropes, System, Levels, Stats… none of these sound familiar to you?” I asked.
+
+She shrugged. “Doesn’t ring a bell.”
+
+That was… interesting.
+
+Let me try to gather my thoughts for a second.
+
+So I’d been reincarnated into a fantasy world with a System. I could see item rarities, HP bars, skill notifications—all the usual game-like stuff. Meanwhile, everyone else just seems to be living normal lives without knowing any of it existed.
+
+Didn’t that just make them NPCs?
+
+I gave Reina a hard stare.
+
+“What?” she asked, tilting her head. “Is there something on my face?”
+
+It was time to put it to the test.
+
+“Quick question,” I began. “How do you feel about emeralds?”
+
+“…Emeralds?”
+
+“Yeah. Strong emotional attachment? Sudden desire to trade me bread for twenty-seven of them?”
+
+“What are you talking about?”
+
+I leaned closer.
+
+“If I repeat the same thing twice, will you give me the same reply both times?”
+
+“…What?”
+
+“If I repeat the same thing twice, will you give me the same reply both times?”
+
+“Allene, stop it!”
+
+She shoved me away, sending me tumbling off the bench and onto the ground. She was surprisingly stronger than she looked. Or maybe I was just ridiculously light.
+
+Alright. One final test.
+
+I stood and walked a far distance—far enough that any real NPC would’ve been unrendered by now. And when I came back to her…
+
+“Were you frozen while I was gone?” I asked.
+
+The most unexpected thing happened. Reina wasn’t unrendered or anything—it was something worse.
+
+Her lips trembled, tears filling her eyes.
+
+“Wha—what?” I quickly sat back down beside her. “What did I do?”
+
+I had absolutely no idea how to comfort people who were crying.
+
+“Wahhh!” she cried. “The first friend I’ve ever made is a total weirdo!”
+
+I flinched, unsure whether to feel pissed off or pity her for having me as her first friend. But it was my fault for suddenly asking her all those weird questions.
+
+She kept crying, and I just sat there awkwardly. I needed to find a way to comfort her, quickly. The sight made my heart feel all sorts of weird.
+
+A gift. That had to be it. Everybody loves gifts, right?
+
+I called my [INVENTORY], and a dark ripple appeared in the air. A System message accompanied it.
+
+[INVENTORY LIST VIEW]
+
+There weren’t very many options, so I let fate decide and reached into the ripple without selecting anything in particular, pulling out a random item.
+
+“Ta-da!” I said. “Here, you can have this!”
+
+Reina looked at the item in my hand, blinking. “What’s this?”
+
+I looked at it.
+
+“Uh…”
+
+It was the love potion. Oops.
+
+Reina grabbed it from me and popped the cork.
+
+“WAIT!” I yelled, standing. I tried to take it back from her, but her grip was too strong. She used her other arm to keep me away.
+
+“It smells kind of sweet,” she said.
+
+“Reina, put that down!”
+
+But it was like she couldn’t even hear me.
+
+“Thanks, Allene! I was feeling a bit thirsty anyway.”
+
+She put it to her mouth, nearly taking a sip. The moment the liquid touched her lips, I lunged at her, grabbing the potion away from her. Some of it spilled on her face and clothes, but I managed to stop her just in time.
+
+She stood there, in a daze. That was too close!
+
+I wiped the sweat from my brow, slammed the cork back onto the bottle, and stuffed the potion deep into my [INVENTORY] where it could never threaten to ruin anyone’s life again.
+
+I turned to Reina. “Sorry about that. Wrong item. Here, I’ll give you something else—”
+
+Her expression was dark. She didn’t move or say anything.
+
+Oh no.
+
+Did she drink some after all…?
+
+She looked up, smiling.
+
+“Geez, what was that about?” she asked softly, wiping her mouth with her sleeves. “It’s all over me now.”
+
+I let out a sigh of relief. Good. She was still normal.
+
+Before I could say anything else, she stood, stretching side to side.
+
+“We should probably head back to the guild,” she said. “Seems like all the noise has died down.”
+
+I looked at her, skeptical. “Ah… is that so?”
+
+Well, at the very least, she was done crying. I guess I didn’t have to give her anything after all.
+
+I began to walk back to the guild, quickly stopping and turning back around as I realized she wasn’t following me.
+
+“Reina?” I called.
+
+She flinched at the sound of my voice.
+
+“Ah—I’m coming!”
+
+***
+
+Several mages now stood by the secret dungeon’s entrance, sealing it with magic. The other members of the guild stood far back, keeping their distance. Intrigue was still in the air about the dungeon, but everyone was a lot quieter now than before.
+
+All the receptionists stood clear as the mages did their work, standing on the same side as the other guild members. The catgirl who signed Reina and me to the guild was standing not too far away, sitting at a table with a small group of other receptionists.
+
+We walked up to her.
+
+“What’s going on?” I asked.
+
+“They’re sealing it,” she said, as deadpan as when we had first met.
+
+“Yes, I can see that. But why’s everyone so quiet all of a sudden? Last time I was here, I saw three people trying to climb over the desk to enter the dungeon, but now everyone’s as well-behaved as dogs.”
+
+She pointed at the mages.
+
+“All of them are A-ranks,” she said. “Everyone’s too afraid to get in their way.”
+
+I looked at them. Each of them wore robes of every color—black, red, white.
+
+Even bright pink.
+
+Unsurprisingly, the one wearing bright pink stood out the most. Not just because of the color, but because the man wearing it was an elf with muscles the size of a giant’s.
+
+Hell—aside from the actual giant in the guild, he was the biggest person here.
+
+Reina noticed it too.
+
+“Uh… do elves usually look like that?” I asked.
+
+“Nope,” Reina said.
+
+“Definitely not,” the catgirl said.
+
+I was getting a little tired of calling her a catgirl, so I asked for her name.
+
+“Kiri,” she replied. “But I’m not here to make friends with you.”
+
+For some reason, that really ticked me off.
+
+“Anyways, you registered as a mage, right?” she asked. “Why not try to talk to them? You could learn a thing or two.”
+
+Talk to them, huh?
+
+Honestly, I just put myself as a mage because that was the easiest way for me to explain all my different abilities. Even something as simple as [INVENTORY] had made Reina completely shocked.
+
+I turned toward the mages again. Their expressions were… unfriendly. I had a feeling that if I were to tap their shoulders while they erected the barrier—haha, funny word—they wouldn’t hesitate to send a fireball my way.
+
+Yup. The best decision here was definitely to stay as far away from them as possible.
+
+…
+
+“Allene…?” Reina called from behind me.
+
+I turned back to her, only to realize my legs had already started moving on their own. Somehow, I was now standing in the middle of the guild.
+
+“Huh?”
+
+I blinked.
+
+Why was I behind the counter now?
+
+I blinked again.
+
+Why was I suddenly standing right behind one of the mages? And of course, it had to be the one wearing bright neon pink robes.
+
+“Hm?”
+
+He turned back, noticing my presence. A scar was slashed over his nose. He was several times taller than me, looking down at me with the same overwhelming presence as the giant who had appraised the demonic sapling.
+
+“Um…” I muttered nervously. “I think my legs just moved on their own…?”
+
+There was absolutely no way this man was an elf.
+
+What situation did my legs just drag me into?!

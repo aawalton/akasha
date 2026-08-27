@@ -1,0 +1,167 @@
+---
+id: db39ea6f-af36-50fd-9ad0-93cc39213373
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13"
+slug: 0013-chapter-13
+partOf: emie-ascended
+position: 13
+ownLength: 2158
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3474739/chapter-13"
+royalRoadId: "3474739"
+---
+
+“Welcome!” a strong voice called out from the back of the general store. It was our first stop of the day. “Everything we carry is rated for beginner delvers, so let me know if you need any assistance!”
+
+I nodded in acknowledgment, but my eyes were already focused on the racks of clothing displayed.
+
+“Most of what’s available is basic since the store caters to new delvers,” Cora explained. “I’m not sure if any of it is good enough to enchant, but this is where the temple recommended we buy most of what we needed.”
+
+I’d told her about my background in Enchanting during the walk over, and the rogue seemed quite excited to learn that she might be gaining a party member with such a capability.
+
+“That’s fine,” I said as I started looking through the clothing selection.
+
+Though Ascender rooms included a laundry box that cleaned clothing, I was pretty tired of wearing the same set of clothing I’d arrived in.
+
+Most of what I saw on the racks looked pretty similar to what I was wearing, though. It was close enough that nobody looked at me and immediately thought ‘that’s a brand-new Ascender’ or anything.
+
+Though I’d become accustomed to wearing a very limited color palette because of my former realm’s social norms related to clothing and affinity, I excitedly selected a few shirts of different colors.
+
+It almost reminded me of life before the system, back when the people of Earth wore pretty much whatever they wanted. Selecting different colors and options almost felt like a return to my roots, which was a little ironic, considering I was about as far away from my original home as I could get.
+
+Aside from several pieces of clothing that might take a minor enchantment, I picked up a few necessities at the general store before moving on.
+
+“There should be a crafter’s emporium a few streets this way,” I told her.
+
+I’d checked the map before leaving my apartment to ensure I knew where to go to buy what I needed. Maps, like many other informational documents, were pretty easy for most people to access through the Association’s network.
+
+Exactly where I expected it to be, a large, three-story building stood nestled between two even larger buildings. The sign on the front made it clear that the business catered to crafters. It did not provide finished products unless they were tools meant for crafters.
+
+“Welcome, Ascenders,” the clerk standing just inside the door greeted us.
+
+I got the feeling that if we hadn’t had our titles visible, the man wouldn’t have been so enthusiastic about a couple of brand-new delvers entering the store.
+
+“Can I help you find anything?”
+
+“An enchanting focus and some blanks?” I asked.
+
+“Ahh, an Enchanter, are you? I’m glad to hear it. We can always use more Enchanters in Sorenguard. Let me show you where those are. I’ll warn you, even the cheapest version is a bit pricy for a brand-new delver.”
+
+I grimaced as I followed along, knowing that I probably should have come here first.
+
+“Five iron dimes?” Cora gasped. “That’s the cheapest one you have?”
+
+My stomach sank. Even before I’d spent some of my funds, I hadn’t had enough to afford a basic enchanting focus.
+
+‘Maybe I should have taken out a loan,’ I thought before dismissing the idea. I really didn’t want to start my life in this new realm in debt.
+
+“It’s okay,” I said. “I’ll come back after the next delve. I was thinking about heading inside for a quick run anyway. This just gives me a bit more motivation to do so.”
+
+I hadn’t checked with the quest completion desk yet regarding my pay from working as a healer, but I sincerely doubted I’d earned enough from my first shift at the clinic to make up the difference.
+
+A little bummed that I couldn’t yet practice Enchanting, we left the store, not bothering to buy any other supplies from the emporium.
+
+“What else do you need before we delve?” Cora asked.
+
+I listed off a few things.
+
+“What about a bedroll? You won’t need a tent since Mike can build us a shelter – not that those are even needed as long as we are smart about things – but I like sleeping under a shelter.”
+
+I didn’t really want to waste money on a bedroll since I had a bed in my sanctuary. But until I knew for sure that I’d be joining Cora and Mike long-term, I wasn’t going to share that with them.
+
+However, thinking about what I was currently using for bedding in the space, I winced. The furs had never been meant for long-term use. They would also be worth enough to cover the cost of a cheap bedroll if I sold them.
+
+“You’re right. I was using the furs I’d looted for bedding. An actual bedroll sounds like a great idea.”
+
+We headed to another store. This one was geared toward dungeon camping and offered everything from dried rations to enchanted cooking artifacts.
+
+I looked longingly at the various cooking supplies. The mundane versions weren’t too expensive, but the enchanted options were well over my budget.
+
+Even though I needed to save money, I allowed myself to purchase a Dutch oven, a set of knives, and a four-set of camping dishes on top of the bedroll I’d come to the store to get.
+
+“You cook?” Cora asked when she saw my purchases.
+
+“I dabble. I’m nowhere near as good as my mom or grandma, but I can make food that tastes better than what they serve at the Association. I should probably pick up some salt and spices, though. The herbs in the dungeon are nice and all, but they’ll get old after a while.”
+
+“So, skilled, but not Skilled.”
+
+“Basically. The system offered me the skill, but I don’t have an empty slot for it. I mean, I have empty slots, but those are reserved for other skills, like Enchanting and another offensive elemental skill.
+
+“As an Enchanter, I’ll be limited in the types of effects I can produce based on the types of magic I have access to. That means I need to use as many of my slots as possible for new elemental seed skills. It’s why I haven’t filled up my slots with all of my old skills.”
+
+“You make it sound so easy,” Cora laughed. “It took tons of effort to recreate one of my old skills, and I doubt I would have managed it if I hadn’t already picked up Arcane Blade.”
+
+“I trained for more than a century to know my skills and spells intimately. The Realm Dungeon pretty much forced me to learn everything to the point that I could recreate them from scratch.”
+
+That wasn’t totally true since there were options for progression that didn’t require one to know their spells and skills to that degree. But for someone like me, it was basically a requirement.
+
+“Lucky you.”
+
+“I was very lucky,” I agreed. “But I also missed out on a lot because of it. I hardly spent any time with my family since I was forced to stay in the dungeon for all but about ten or so years of my adult life.”
+
+“You couldn’t just leave?”
+
+“No. I was under a system-enforced contract.”
+
+Her expression darkened slightly upon hearing my answer.
+
+We walked down the street toward the Dungeon Complex. The towers of the temple and the Association were clearly visible above the towering walls.
+
+“Maybe I’m not so jealous, then,” Cora said after a moment. “Our family was everything. I don’t think Mike or I would be the people we are today if it weren’t for them.”
+
+The navy-haired Ascender looked thoughtful, but not melancholy, at the statement. In fact, she had a small smile on her lips as her eyes focused on something distant.
+
+“Does the emotional dampening bother you?” I asked, drawing her gaze once more.
+
+“Only a little. Mostly, I’m just glad that I can still feel the love and affection I have for the ones we left behind. I don’t necessarily want to feel the longing, even if I feel like I should.”
+
+I nodded. “That’s about how I feel as well.”
+
+There were no guards at the gate leading into the complex since anyone who’d gained access to the system could enter the dungeon. I was pretty sure the wall around the facility was meant as a last defense if demons attacked, instead of some way to limit who entered or exited.
+
+“So, tomorrow after breakfast?” I asked.
+
+“I’ll verify with Mike since he’s technically the party leader, but I’m sure he’ll be fine with that. We’ll try to earn you enough for that ridiculously expensive piece of wood you want,” she added jokingly.
+
+“Thanks. I promised the clinic I’d work another shift before returning to the dungeon, so I’ll probably head there after lunch if you need me.”
+
+My shift at the medical facility went fine. I remembered to hide my title again, which helped me remain mostly unnoticed. It also helped that I stayed on the hospital side of the facility instead of working in the clinic.
+
+I let the supervisor on duty know that I’d be entering the dungeon with a couple of potential party members, but assured him that I didn’t intend to remain in the dungeon more than a day or two.
+
+Cora and Mike weren’t in the dining hall when I arrived, so I took my meal to go and headed back to my room to do a little more research. There was still so much I didn’t know, but I was learning.
+
+I also managed to find the section of the network that focused on media and entertainment. It was a subsection of the forum I’d completely overlooked during my earlier research sprees.
+
+Like medieval times on Earth, most entertainment came in the form of physical, written works, and the occasional in-person production, though those with access to the network could also enjoy digitized versions of books and other writings.
+
+However, there were no movies or recordings that could be played back. Such technology was one that was ‘lost’ during the upheaval, even if I was sure the actual method of creating such devices still existed.
+
+There was also a local notification board where requests for certain dungeon items could be posted, as well as an area dedicated to local happenings.
+
+The only real issue was that regular people didn’t have access to the network unless they could afford the very expensive connection artifact required. Instead, they had to visit the Dungeon Complex.
+
+Most only visited on the weekends, with Quiesday – this realm’s analog of Sunday – being the most popular day for citizens to come unless they had actual business to handle.
+
+Many just lingered in the complex after the temple’s services, even if they weren’t able to access the public terminal for the network. It was still a good opportunity to socialize.
+
+I decided right away to avoid the temple side of the complex as much as possible on Quiesday. It wasn’t that I didn’t want to socialize at all, but being surrounded by strangers didn’t sound like something I would enjoy very much.
+
+The only other thing of real interest that I found, aside from mixed information about what to expect on the next couple of floors, was information on the various states that had formed after the arrival of the demons.
+
+As Priest Zeth had mentioned, a lot of territory was lost, leaving vast swaths of land open to demon incursions. That resulted in small, inhabited pockets surrounded by whatever ecosystem dominated the local area.
+
+Because trade was far more difficult, most inhabited areas tended to be in more temperate areas where agriculture was possible for most of the year.
+
+There were a few outliers, but those almost universally were a part of a larger network, connected either by airship or teleportation through the support of the Porter Guild.
+
+The abandoned dungeons of most uninhabited territories had long been destroyed by the demons, allowing them more freedom to re-enter the realm. New dungeons occasionally appeared, but they were usually destroyed by an invading force of demons before the natives could get to them.
+
+Not always, though.
+
+It was one of the other main reasons that Space Magi or those with Teleportation skills were in such high demand. Portal skills were less useful for locating and retrieving beginner dungeons since the user needed to have either been to the location before or have some kind of anchor in place.
+
+Teleporters could travel a lot more freely, though they were often more limited in bringing others along with them. But as long as they could manage the retrieval on their own, they could make a lot of money very quickly.
+
+Baby dungeons were understandably worth a lot in today’s society.

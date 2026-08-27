@@ -1,0 +1,207 @@
+---
+id: a2ac5ba3-4401-5b4c-b59b-f103ba6ab759
+page-type-slug: story-chapter-royal-road
+title: "35 - Not Just Decorations"
+slug: 0035-35-not-just-decorations
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 35
+ownLength: 1790
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3490099/35-not-just-decorations"
+royalRoadId: "3490099"
+---
+
+Thankfully, the gargoyles ambushing Reina and me at the manor’s entrance weren’t much trouble to deal with. Unlike the ones we had fought back when we were flying through the sky, these ones didn’t carry any weapons, and instead just used their claws to attack us.
+
+Whether it was because of the legendary weapon in my hands or the fact that I had a bunch of points into every single stat, I easily dodged their ambush and killed one of them immediately. Reina took on the remaining one, thrusting her spear several times until its stone completely cracked and shattered.
+
+The gargoyles’ bodies dissolved into the air.
+
+“Are you sure you want me to hold onto this?” I asked, looking at the sword. “It’s your loot. And I think Meriel’s right. I’m a bit too awkward with a sword.”
+
+All those stats into strength meant little without the skill to accompany it. The sword might not feel heavy in my hands, but I felt way too clumsy wielding it.
+
+“Well, you want to be a magic knight, right? You’ll be better off using a sword as much as possible then.”
+
+I shrugged. “I guess so. How are you so good with a sword anyways? Actually, not just that—you’re pretty good with a spear, too.”
+
+For someone who was such a low level, she held her own surprisingly well against the higher level monsters.
+
+“My father taught me all kinds of weapons back at the village,” she explained. “He used to be a knight in the past. Nowadays, he just trains with many different weapons as a hobby.”
+
+“And I guess that hobby involved you somehow?”
+
+She nodded. “Yup.”
+
+“Your parents were okay with you leaving the village?”
+
+“Of course. They were actually the ones who encouraged me to join the Adventurers Guild. We were so excited on the day I left that I completely forgot to take anything with me other than a small knife.”
+
+I laughed, remembering how we had to use nothing more than a knife to take down that Tree Sentinel. Hell, we didn’t even know how to use magic back then.
+
+“And here we are, as far away from the Adventurers Guild as we can possibly be,” I said. “It's funny how it all started after I accidentally found that secret dungeon. I never would’ve thought we would meet someone like Meriel and travel to all these different places.”
+
+I activated [TROPE STATUS] and selected my second in-progress trope.
+
+[TROPE IN PROGRESS: GENERIC FANTASY WORLD]
+
+Description: A generic fantasy world.
+
+So much for that, huh? From a region with an endless blizzard to floating islands with meowing whales… this world was way more unusual than I thought. Looking at it now, it was also kind of strange that this trope didn’t have a completion criteria.
+
+“I think we’re really lucky to have met Meriel,” Reina said. “I’ve learned so much from her, even if it's mostly about magic instead of weapons. I’m still not sure if being a magic knight is exactly for me, but I’ll still give it a try.”
+
+I could hear her voice softening a little.
+
+“I think you make a great one,” I said. “Remember back when we faced Skoll? If it weren’t for you defending Meriel and I, we never would’ve been able to cast the teleport spell and escape. I still remember the Fireball you had cast back then since you couldn’t reach Skoll with your spear. That was amazing.”
+
+She smiled at me. “Thanks, Allene, but you’re much more amazing than me—especially with magic.”
+
+“And you’re far better than me with pretty much every weapon,” I said.
+
+I began to swing my sword around, my steps wobbly. I wasn’t even exaggerating it either. My arms could move it just fine, but my legs seemed to have a mind of their own.
+
+Wait a minute.
+
+Thinking back about it now, I did complete a trope for being a clumsy protagonist, didn’t I?
+
+…
+
+No? You don’t remember that? Then go back to the beginning of this story and prove yourself wrong.
+
+Anyways, that was probably why I was having such a hard time properly using the sword. My body was just naturally clumsy.
+
+Reina smiled at me. “Then I guess we have things we can learn from each other,” she said. “How about I teach you more about how to use a sword the next time we see a monster?”
+
+“Sure, why not? And I’ll teach you more about magic.”
+
+We turned our attention back to the manor. As with most kinds of manor, there was a courtyard in between the entrance gate and the front door. Several statues of every kind lined up along the path, including angels, knights, and lions.
+
+“I guess there’s no ‘next time’,” I said. “I bet they’re all monsters.”
+
+[TROPE INITIATED: NOT JUST DECORATIONS]
+
+Completion criteria: Reach the manor’s front door.
+
+We began to step through, eyeing the statues and clutching our weapons tightly. We passed by the first pair, expecting them to lunge at us, but they remained completely still.
+
+“Hah!” Reina yelled as she thrust her spear into one of them.
+
+Instead of shattering the statue, the tip of the spear broke off completely.
+
+“Whoops,” she said, rubbing the back of her head.
+
+I sighed. “Well, at least we know that’s just a normal statue.”
+
+It was bound to happen, considering bladed and pointed weapons didn’t do well against stone. The Dawn Sunderer in my hand felt fine against the gargoyle we had fought just earlier, but it was likely because the weapon’s legendary status made up for it being weaker to stone.
+
+I called my [INVENTORY] and put the spear in, trying to figure out what to give her as a replacement. Other than the staff Meriel gave me, there was really only one option.
+
+[ITEM: POUCH OF ENDLESS EXPLODING TALISMANS]
+
+Rarity: Epic
+
+Description:
+
+A small brown pouch filled with paper talismans covered in messy red markings. Each talisman explodes upon impact, producing violent bursts of light, sound, smoke, and heat.
+
+Effects:
+
+- Gradually replenishes exploding talismans over time
+
+- Explosions deal damage and disrupt enemies
+
+- Effective against flying creatures
+
+I handed it to her.
+
+“Thanks! This is what you got from the chest, right?” she asked.
+
+I nodded. “Reach in, grab a talisman, throw it, and kaboom.”
+
+It was about time we saw how useful it really was.
+
+Just as I handed it to her, all the statues of knights and lions burst out of position, heading straight toward us. Their movements were slow yet erratic. Every twist and turn was as slow as you’d expect from living statues, but then they would suddenly lunge at us with surprising speed every few seconds.
+
+I swung at the closest knight, almost losing my balance as the blade bounced off its shield.
+
+“Too wide!” Reina yelled from behind as she threw a talisman at the backline. “You’ll leave yourself open like that!”
+
+I wish I could say that the talisman she threw took out all the statues in the back, but she completely missed everything, exploding nothing.
+
+I swung again, and my sword clashed with the knight’s. From the side, two stone lions began to pounce on me.
+
+“A little help…?!” I yelled.
+
+“Got it!” she yelled back as she threw a talisman at the lions.
+
+My eyes widened.
+
+“What the hell are you do—”
+
+BOOM!
+
+The blast sent me flying back. The knight I was clashing blades with somehow took the majority of the blast, allowing me to live another day.
+
+“Reina, I said help me, not kill me!” I cried, slowly standing back up.
+
+“Sorry!” she said. “But what else do I do?! I can’t help you in any other way!”
+
+Damn it. There was a downside to any explosive weapon—friendly fire.
+
+[TROPE COMPLETED: FRIENDLY FI—
+
+I swiped the message away.
+
+Now’s not the time, damn it!
+
+The statues were relentless, and their weirdly jagged movement made it difficult to defend against. Without a proper weapon, Reina couldn’t do anything but just back away as the monsters attacked me.
+
+I swung at one lunging lion, shattering it. I dodged the next, then clashed swords with a knight before kicking it backward.
+
+It worked, but pain shot through my entire leg.
+
+“Argh!” I let out, limping.
+
+Yeah. Kicking a statue with all my might was not a good idea.
+
+With how many monsters there were, there wasn’t much else to do. Should we just run?
+
+“There’s a magic barrier blocking the entrance!” Reina yelled.
+
+“What?!” I tried to turn around, but the monsters wouldn’t stop attacking me, ignoring Reina and giving me no chance to breathe or cast any spells. Any normal mage would’ve already died right now with how aggressive these monsters were. If I didn’t have this legendary sword, I would’ve been screwed.
+
+Fine. I guess I’ll have to do that after all.
+
+“Take cover!” I yelled. “I’ll send out a Divine Fireball!”
+
+“Divine… what? You mean that big explosion from earlier that killed Meriel? Isn’t that too dangerous?”
+
+“I’ll be fine… I think? I’ll cast a shield around me, but I won’t be able to do it for you as well, so you better choose your cover wisely!”
+
+“Why don’t you just keep the shield up while I throw the exploding talismans at the monsters?”
+
+“Because I don’t think I can hold the shield that long,” I said. “At best, I can pour all of my mana into defending against one huge attack, like Divine Fireball. That should be easier than trying to maintain the shield for minutes.”
+
+Reina nodded and sprinted away, putting her trust in me. As soon as she ran around the side of the mansion, I bolted away from the monsters. As expected, they chased after me, awfully quick despite being statues.
+
+It was much more difficult to cast spells while moving this quickly, but I managed to create the shield in the end, putting a large portion of my mana into it. Hell, I put even more mana into it than the first time I cast it with Meriel.
+
+I faced the monsters, thrusting my sword high into the air and forming a Fireball at its tip. Unlike last time, I deliberately allowed the sword’s divinity to seep into the flames, having slightly more control.
+
+The stone monsters surrounded and attacked me, their claws and blades hammering away at my barrier. When the Fireball was done forming and combining with the light, I pointed the sword at the ground and shot it.
+
+There was a big explosion.
+
+Was this a dumb decision?
+
+Probably.
+
+Was my shield strong enough to protect me?
+
+…No comment.
+
+Was this sure to wipe out the monsters?
+
+Absolutely.

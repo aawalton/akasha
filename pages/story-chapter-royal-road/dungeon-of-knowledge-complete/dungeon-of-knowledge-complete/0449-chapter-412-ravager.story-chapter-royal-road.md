@@ -1,0 +1,137 @@
+---
+id: e399128f-5703-5c76-aba1-abb7bcbb6440
+page-type-slug: story-chapter-royal-road
+title: "Chapter 412: Ravager"
+slug: 0449-chapter-412-ravager
+partOf: dungeon-of-knowledge-complete
+position: 449
+ownLength: 3319
+unit: words
+ownProgress: 3319
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2683461/chapter-412-ravager"
+royalRoadId: "2683461"
+markedReadAt: "2026-06-29T20:27:21.509Z"
+---
+
+Ali allowed the strangely synergistic formation of holy and void runes projected on the ground to whisk her and her minions away from the now-empty, blood-splattered cavern deep in the demonic dungeon, suddenly finding herself back in the chamber where Azryet had offered his quest. The god of the dragon domain was conspicuously absent, leaving the enormous chamber feeling vast and uninhabited despite dozens of industrious kobolds scurrying about carrying out their errands. Immediately, she was accosted by a swooping, soaring book as Clarence darted toward her and flew circles around her head, clearly overjoyed that she had returned. She smiled at him, tossing the strange rock he dropped beside her, and then plopped down right where she was.
+
+Clarence zoomed back in a flash. She tossed the rock again, a little further this time. Maybe I can teach him to chase one of my barriers?
+
+Ali groaned. She was exhausted, worn out, and her everything hurt. And she was covered in dried blood and filth – she hated to think what she might look like, but thankfully, there were no mirrors anywhere in sight. The first thing she did was inscribe a Cleanse circle around herself and then sighed in a stolen moment of pure bliss as the simple arcane spell – the first arcane circle she had ever learned – began to lift all the grime from her body and clothes. And out of her hair. It was many minutes later when she finally drew her thoughts inward to consider the notifications and her feelings in the aftermath of the fight.
+
+It had perhaps been a stupidly risky undertaking, facing an evolved raid boss deep in the heart of the demon god’s lair. By herself. Even if it wasn’t technically that deep, it had unquestionably been way beyond her level. Then, when the Eye of Agnor had summoned the Pit Lord, Xammath, she should have immediately fled. And yet…
+
+Am I really so willing to risk my life for the Abyssal Dragon God? That didn’t sit right with her. While she was grateful that he had offered his deal, and she respected that he had acknowledged Havok and offered his patronage to Mato, she personally didn’t owe him much – certainly not her life. But in that moment, mid-battle, his offer to help her return home had been the thing she had wanted more than the overwhelming need to run.
+
+It was Malika’s face she had seen in her mind. Mato’s gruff humor and delicious cooking. Calen’s piercing insight and steady voice in combat, even his occasional reverting to awkward shyness. And the others too: Lydia, Havok, Thuli, Kavé, and the whole host of people at the guild she had made friends with.
+
+I miss them.
+
+She pressed her lips together in a firm resolution. Azryet better have a way to get me home. After what she had just achieved for him, she felt that she had more than earned it.
+
+Ok, let’s see what this fight brought.
+
+Dungeon of Knowledge has reached level 136 (+6).+60 attribute points.Arcane Insight has reached level 76 (+3).Arcane Recall has reached level 38 (+2).Barrier has reached level 75 (+2).Grimoire of Summoning has reached level 52 (+3).Runic Script has reached level 63.Sage of Learning has reached level 60.Martial Insight has reached level 85 (+2).Empowered Summoner has reached level 64 (+2).Minion Teleport has reached level 36.Identify has reached level 28.Inspiration has reached level 24 (+2).
+
+That’s… a lot. Her eyes lingered on her class level for some time. She was not even sure if her mother and father had ever reached this level. Her class had certainly reacted to the dangerous fight. Six levels. It certainly seemed appropriate for soloing an evolved raid boss and a Pit Lord simultaneously.
+
+I really need to lock down their teleport magic earlier. She had certainly not expected the Eye of Agnor to be able to summon a Pit Lord, however, in hindsight, she should have guessed it; after all, that was precisely what had happened the first time they had stumbled into the Abyssal Realm and run into Maalgaroth. She could clearly see now what she had not understood then; the Eye of Agnor in the room had summoned him with its potent teleportation magic.
+
+The problem, though, was that Disruption was hardly a perfect lockdown. The recharge imposed upon the disrupted skill was dependent on the resistance and level of the monster she disrupted, and it was susceptible to deception, fake casting, premature interruption, and similar techniques. The Eye of Agnor would have required just one successful cast to bring the Pit Lord into the chamber, and she had not prioritized eliminating the Interrupted Casting curse nearly enough. At the critical moment, her Disruption had failed.
+
+A problem for next time, she thought. At least I’m learning. The consolation rang a little hollow to her, though – learning this way was fraught with risk and danger. In a thoughtful mood, she distributed her attribute points. Seven points went to vitality, and then two and three to endurance and dexterity. She had a theory that dexterity would help her fly better, and that, by itself, was worth a few points. Eleven points went to perception, twenty-one to intelligence, and the last sixteen were invested in wisdom. There, hopefully, my disruption will be more reliable next time.
+
+Ali turned her attention back to the notifications.
+
+Your Carnage Berserker has reached level 119 (+4).Your Armored Drake has reached level 100 (+7).Your Bone Warrior has reached level 100 (+2).Your Abyssal Stalker has reached level 90 (+5).Your Rogue has reached level 92 (+5).Your Blood Shaman has reached level 100 (+7)Your Acolyte of Azryet has reached level 91 (+8).Your Sacred Ooze has reached level 93 (+6).Your Mage of Piercing Frost has reached level 111 (+4).Your Frost Dragonet has reached level 97 (+5).Your Witchdoctor has reached level 100 (+8).Your Blood Shaman has met the requirements for class evolution.Your Bone Warrior has met the requirements for class evolution.Your Armored Drake has met the requirements for class evolution.Your Witchdoctor has met the requirements for class evolution.
+
+Astonishingly, four of her minions had made it to level one hundred and were ready for a class evolution: three trolls and her armored drake. Five, if she counted the Devouring Consumption. If only I had access to my shrine, she thought as the Grimoire filled with new runes and inscriptions. But her shrine lay in the heart of the Blooming Rot dungeon that the undead remains of Lira commanded – and that was something she was not prepared to deal with yet. Instead, she studied the new domain magic spells she had learned from the Eye of Agnor.
+
+ImmunityRequirements: Choose a compatible Magical affinity.Source: Eye of AgnorAffinities: Holy, Void, Nature, Arcane.Your domain-enhanced monster is immune to the chosen affinity.Skill – Domain Magic
+
+As Azryet had said, the Eye of Agnor had been enhanced with two immunities, holy and void, both of which she now possessed. Her Domain Mastery skill had added her own arcane and nature affinities as it usually did. The holy immunity hadn’t affected her much during the fight, merely preventing her from seeing the monster’s health, but the void affinity had prevented her from using her newest void-affinity dragon against the boss.
+
+Curse AuraRequirements: Choose a known Curse.Source: Eye of AgnorCurses: Fire Vulnerability, Feeble Mind, Interrupted Casting, Explosive Conflagration, Blind, Vampiric Hex, Lightning Vulnerability, Glacial Chill, Frog Hex, Spirit Banishment, Phoenix Conflagration, Mark of Prey.Project an aura of the chosen curse. Aura size is dependent on class level. Skill – Domain Magic
+
+She studied the second domain magic skill carefully. This is what that Mana Eater had. Nasty. It was a potent domain magic, and both times she had encountered it, it had dramatically affected the entire tone of the battle. With the Mana Eater at the bottom of the original Blooming Rot dungeon, the permanent Slow curse had really hampered their abilities to dodge and move – and now the Eye of Agnor had used Fire Vulnerability to greatly enhance the power of its hellfire fireballs and immolation skills – and the hellfire of all the imported imps and wargs.
+
+The list of available curses took her a few moments to figure out. Every single monster curse in her Grimoire seemed to be on the list, quite a few of them from the three Eyes of Agnor she had just defeated. Both witch doctor curses were on the list, and so was the phoenix of living flame’s conflagration, but that was not all – even Mark of Prey was there. Which, she realized, meant it drew from her list of Domain Magic skills, too.
+
+Finally done with her inspection, Ali glanced around, but the giant chamber remained stubbornly empty. “Is Azryet coming?” she asked, trying to placate Clarence with the rock he had chosen as his temporary ball. Ali approved of the choice far more than the Pit Lord arm he had brought to Azryet.
+
+“He is still busy with the attack,” the kobold scout answered, turning his head to glance at her before returning to his still stance, resting, or waiting – she couldn’t tell which.
+
+Makes sense, she thought, retrieving an apple from her storage ring – it was quite fortunate that food did not go bad in there, but at least now, with some space to grow her domain, she should be able to make a few fruit trees. Azryet had mentioned her attack would be synchronized with a much broader operation throughout the battle zone, and that he would be personally involved. Likely, he was taking advantage of the surprise and distraction her attack had caused. So, she returned to her studies, opening her Grimoire and replenishing her potion stash and resummoning her slain monsters. To her surprise, all the monsters that had been killed in the battle were available for resummoning – including the ones that had been corrupted by the Pit Lord and killed by her own forces. But Mok’freja, her original rift guardian ice troll, remained stubbornly absent from her list.
+
+Is she still alive? she wondered, and not for the first time, as she charged her magic from the pages of the Grimoire and summoned her Scion of Azryet. Ok, let’s get a better look at you.
+
+Race: Abyssal DragonActive Buffs: Abyssal Dragon, FlightClass: Scion of Azryet – level 130- Black Hole – level 91Mana: A sphere of dense void shoots forth from your mouth. Range: 186.5 meters.Void, Breath Weapon, Ranged, Intelligence- Void Beam – level 89Mana: Shoot a concentrated beam of void from your mouth. Channeled. Range: 440.4 meters.Void, Breath Weapon, Ranged, Intelligence- Draconic Melee – level 107You are proficient at fighting with your natural weapons: claws, fangs, and tail.Stamina: Bite, Claw, or Tail Swipe any foe in range for weapon damage +2271% [skill + strength].Stamina: Cleave through all foes before you with your claws for weapon damage +4435% [skill + strength x 2]. Recharge: 20 seconds.Stamina: Execute a crushing bite with your fangs for weapon damage +2271% [skill + strength]. Chance for critical damage is increased by +107% [skill]. Recharge: 20 seconds.Stamina: Tail lash striking all foes behind you for weapon damage +2271% [skill + strength]. Enemies are knocked back. Recharge: 20 seconds.Physical, Melee, Area, Strength- Void Forcefield – level 94Mana: Imbue any Physical Melee Attack or Defense action with the power of your Void magic, granting additional damage or defense.Void, Melee, Intelligence- Void Nullification – level 71Mana: Any Void skill gains the ability to destroy magical formations.Void, Intelligence- Void Teleport – level 58Mana: Delete space between you and your target, instantly transporting yourself to that location, destroying everything in your wake. Range: 54.8 meters. Recharge: 10 seconds.Void, Movement, Intelligence- Abyssal Dragon – level 78Your magic works on any plane.Stamina: Your Vitality, Strength, and Endurance are increased by +192.1% [40 + skill + base strength / 10]. Reserve: 20%Void, Buff, Strength- Dragon Scales – level 73Resistance and Armor are increased by +73% [skill].Stamina: Block an attack with your scales, reducing damage taken proportional to strength and skill. Blocked attacks cannot cause critical damage.Physical, Melee, Defense, Strength- Flight – level 62You are proficient at aerial combat.Stamina: You can fly. Reserve: 10%Mana: Boost your flight speed. Channeled.Stamina: Attack with a great sweep of your wings, disrupting the flying of foes nearby.Physical, Movement, Strength- Draconic Majesty – level 63Your mere presence is terrifying to lesser beings.All Breath Weapon attacks gain +2164% [strength] to spell power.Void, Area, Strength, IntelligenceAptitudes- Void (Affinity): +100% spell power to Void magic.- Languages: Draconic.- Darkvision (Racial): You do not need light to see.- Draconic Vitality (Racial): +350% to health regeneration.- Draconic Strength (Racial): +130 to Strength.- Draconic Cunning (Racial): +130 to Intelligence.Attributes- Vitality: 1486 (+977)- Strength: 2164 (+1423)- Endurance: 1264 (+831)- Dexterity: 230- Perception: 255- Intelligence: 477- Wisdom: 355Armor: 3238Physical Damage Reduction: 47.07%Resistance: 3238Magical Damage Reduction: 47.07%Health: 14860/14860Stamina: 8848/12640 (+3792 Reserved)Mana: 3550/3550
+
+Ali studied the Scion’s sheet for a long time. It was abundantly clear that no matter where she ended up, this minion would feature prominently in her armies from now on. It was a powerhouse. With just a quick spot of mental arithmetic, she verified that it earned a whopping twenty attributes per level, making it one of her most powerful minions, outside of a rage-fueled and bloodlusted Tol’brekk or her outsized Devouring Consumption. Even its weakest attributes were above two hundred. And the combination of Void Nullification and the natural properties of void-affinity were already making her mind prickle with new possibilities.
+
+Maybe Azryet had a point. Dragons are strong.
+
+Malika stepped up beside Mato and stared at the huge monster that barred their way into Lira’s old forest area. Calen had insisted on checking it out first, as their most direct route down would be through the library, but pacing back and forth in front of the tunnel was a strange new variant of Fungaloth. Larger than its ‘ordinary’ brethren, this one would easily tower over them with its mutated fungal body covered in lumpy outgrowths that looked like it was harboring a fungal colony, much of which was rotting or seeping. The stench that rolled off it was indescribable, and the six eyes that gleamed within its twisted and warped head seemed filled with a special brand of feral madness.
+
+“Fungaloth Ravager,” Calen announced, before Malika could even ask.
+
+“Do we test it? How dangerous do you think it is?” she asked.
+
+“It’s level one-sixty,” Lyeneru said. “Dangerous for us, but we should at least try to get some intelligence on it. Don’t be afraid to abort if you see something too risky.”
+
+“Ok,” Malika answered, happy that Lyeneru was being appropriately cautious. At level one hundred and sixty, this was the most powerful monster they had yet seen in this dungeon, and a new, unknown variant, too.
+
+Malika waited while Mato shifted. When he sprang into action, she chased him into battle. The bear roared, rushing forward at great speed, so Malika responded by feeding more stamina to Divine Step, accelerating to keep pace with his Charge.
+
+You have been afflicted with Healing Suppression.+1 minute recharge to all Healing skills. Magic – Aura
+
+Oh, shit! Malika felt the aura settling in on her, a powerful sense of tiredness that somehow affected her mind and not her body.
+
+“Mato…”
+
+He roared, crashing into the monster, his strike tearing out great fungal chunks and sending them flying. The monster let out what could only be described as a terrifyingly shrill shriek, but with powerful low undertones that shook the ground beneath their feet, and lunged forward, maw snapping shut on Mato’s shoulder. With its roar, a dark, roiling cloud of miasma rippled outward from the monster, filling the area with an overwhelming stench, and to Malika’s horror, her own skin began to rot off her body.
+
+You have been infected by Creeping RotA wasting disease that rots the flesh, spawning fungal growth within its victim.Rot Vulnerability (-10 to resistance against Nature and Death)Nature or Death damage causes the Creeping Rot to grow.Small chance per vitality point to recover from Creeping RotDisease – Count: 1.
+
+The miasma pulsed with virulent potency, and the disease grew stronger, settling into her bones. Crap, that’s strong!
+
+The monster’s uneven fangs tore chunks from Mato’s shoulder as he dislodged the powerful bite, but it immediately followed up with a devastating rush that crushed Mato between the massive fungal behemoth and a nearby tree. The tree snapped like a twig, sending Mato flying, blood spraying from his bite wounds as parasitic fungal spores sprouted from the gashes.
+
+Malika darted in and touched him, pulsing her Healing Mantra. Her magic pulsed, powered by her stamina, and yet it felt somehow sluggish, as if pushing against a pliable veil. It worked, and Mato’s wounds evaporated, muscle and flesh knitting together in seconds, but she was worried enough to pull up her skill description.
+
+Healing Mantra – level 70Excess healing above maximum health is shared by all nearby allies. Range: 40.3 feet.Mana: The connection between your body and soul is strong. Instantly regenerate mortal wounds and restore health to anyone you touch. Your healing grants your target Clarity for 35 [skill / 2] seconds. Range: 9.3 feet. Recharge: 1 minute.Soul, Melee, Area, Healing, Wisdom
+
+Her eyes widened at the sight of the unfamiliar recharge timer. Instinctively she tried her skill again, but nothing happened. “Fuck, run!” she yelled, getting surprised looks from her companions, but she didn’t care. They would not survive if she couldn’t heal.
+
+“Why did you call the retreat so early?” Lyeneru asked as they came to a halt several hundred yards away in a clear spot, having lost the pursuit of the Fungaloth Ravager.
+
+“Did you not see the aura?” Malika asked, sharing the information. “It has a Healing Suppression. My Healing Mantra got a one-minute recharge the first time I used it.”
+
+“Oh. Good call,” Lyeneru said, falling silent for a good long while. “I don’t have any healing trait skills, so I didn’t see it activate. At least we learned two of its domain abilities.”
+
+“This one is going to be very problematic,” Vivian said, her voice somewhat subdued.
+
+“Perhaps we should return to camp and think about it?” Malika said. It was late, and they had been fighting for a substantial portion of the night, and without recall potions, they would have to fly out with her carrying Mato.
+
+“That’s a good idea,” Calen said. “Especially seeing as this area is about to respawn.”
+
+On the way back, while wishing Mato would finally learn a flying skill, she decided to check on her progress. Although they had failed at the Fungaloth Ravager, they had defeated a raid boss and an elite monster, and more trash mobs than she cared to count. That has to be worth something, right?
+
+Eyes of the Soul has reached level 116 (+5).+50 attribute points.Martial Artist has reached level 61 (+2).Soul Strike has reached level 62 (+2).Healing Mantra has reached level 74 (+4).Perfect Body has reached level 41.Soul Armor has reached level 53 (+3).Enlightened Evasion has reached level 49.Divine Step has reached level 56 (+2).Clarity has reached level 42.Soul Sight has reached level 38 (+2).Dancing has reached level 14.Appraise has reached level 29.
+
+Not bad. Hopefully, this means tomorrow will be a little easier. Truth be told, her growing strength would likely just mean they would be able to push a little further into the dungeon till they met something else that was stronger than they were.
+
+She spent twelve points on dexterity, and then six each on vitality and perception, having come to really appreciate the importance of Soul Sight lately. Next, she spent nine each on endurance and wisdom, bringing up her mainstay attributes substantially. For the remainder, she spent four on strength and intelligence.
+
+Right, tomorrow is a new day. Only, every day they spent getting stronger was an extra day Ali had to survive on her own.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

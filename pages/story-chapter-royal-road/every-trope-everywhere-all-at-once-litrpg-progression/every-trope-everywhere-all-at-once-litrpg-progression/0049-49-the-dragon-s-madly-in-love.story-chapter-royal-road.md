@@ -1,0 +1,239 @@
+---
+id: 22e89e3a-6f0a-510d-9845-99839320827b
+page-type-slug: story-chapter-royal-road
+title: "49 - The Dragon's Madly in Love"
+slug: 0049-49-the-dragon-s-madly-in-love
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 49
+ownLength: 2028
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3554534/49-the-dragons-madly-in-love"
+royalRoadId: "3554534"
+---
+
+The dragon changed directions, flying not toward us but at all the Porcelain Harpies. The harpies did all they could to escape, but the dragon’s huge size and impressive speed made it nearly impossible. It attacked them with all sorts of spells, from the usual fire attacks you’d expect out of any dragon, to cyclones and wind manipulation. This time around, the cyclones chased only the harpies instead of us.
+
+“Are you serious…?” Meriel said, watching the dragon defending us. “Did you really just tame a dragon by feeding it a love potion?”
+
+I scratched my head. “I mean, what other solution was there? It’s not like we could kill it.”
+
+“I know. I’m just impressed by your creativity,” she said.
+
+Reina laughed. “That’s the same one I almost drank!”
+
+“I mean, technically you did drink some,” I said. “It was just so little that it didn’t make you lose your mind over me.”
+
+She ran over to me, giving me a hug so tight it almost broke my ribs.
+
+“Maybe I should’ve drunk some more back then!”
+
+I groaned, breaking free from her embrace. “No. Absolutely not.”
+
+Talon stood near Tuna’s head, checking up on her. She meowed a few times, and her body was shaky from how much strain she had gone through.
+
+Talon let out a sigh of relief. “She’s fine,” he said. “Good thing the dragon’s not attacking us anymore. Tuna won’t be able to fly any faster than the speed we’re going at right now.”
+
+Tuna slowly floated through the air at a fraction of the speed she usually did.
+
+I walked over to her head, gently patting her. “Thank you, Tuna. We wouldn’t have survived without you.”
+
+She meowed, squirming her body. That wasn’t a reaction I was used to seeing from her.
+
+“She says it's no problem,” Reina said. “She’s just glad we’re safe.”
+
+“Whoa. You understood her perfectly,” Talon said.
+
+Reina pumped her chest out. “Why, of course I’d be able to understand such a valuable party member!”
+
+We returned our gazes above, seeing that nearly all the harpies had fled the area. The dragon’s presence alone was enough to keep them away. After taking care of the remaining harpies—which was just a friendlier way of saying biting their wings off and swallowing them—the dragon slowly descended from the sky, hovering just beside us.
+
+It noticed how tired Tuna was, so it flicked a wing, bringing the closest cloud beneath her. She meowed in relief as she rested on it.
+
+“It can control the clouds itself?” I asked.
+
+“Dragons are masters of magic,” Meriel said. “This one is no exception. Controlling the clouds is the least of its impressive abilities.”
+
+It had nearly killed us with cyclones and a vacuum pull alone. It made me wonder what other attacks it had. Good thing I wasn’t able to answer that question, otherwise, that would’ve meant we were really screwed.
+
+The dragon let out a low rumble as its eyes locked on us. However, it only looked at the others briefly before staring at me.
+
+“So um…” I began, walking to the edge of Tuna’s back and moving closer to the dragon. “My name’s Allene. I might’ve given you a strange potion that makes you feel a certain way toward me, but I just wanted to let you know that I have no intention of marrying a dragon.”
+
+It let out another rumble. What did that mean? Was it upset? Did it even understand me?
+
+“What’s it saying?” I asked Reina.
+
+“How would I know?”
+
+“You understood Tuna just fine earlier.”
+
+“Okay, but whales and dragons speak entirely different languages.”
+
+I turned back to the dragon. “Anyways, I do appreciate you for getting rid of those harpies. We’ll be taking our leave now, so—”
+
+Before I could finish my sentence, a bright light enveloped the dragon, forcing us to shield our eyes. Once the light dimmed, I noticed that the dragon wasn’t there anymore.
+
+Someone else took its place.
+
+It was a woman with bright blue hair and eyes of the same color. Her wings were larger than any harpy or angel, and the moment we locked eyes, she shot toward me, her wings flapping excitedly.
+
+“My beloved!” the woman let out, embracing me in her arms. Unlike Reina, it didn’t threaten to break every bone in my body. It was actually quite comfortable. I sank into her and—
+
+I pushed away. Get a hold of yourself, Allene!
+
+“Hey, that’s not fair!” Reina cried. “How come you don’t smile like that whenever I hug you?”
+
+“I’m not smiling.”
+
+“Yes you are!”
+
+[TROPE COMPLETED: THE LEGENDARY BEAST HAS A HUMANOID FORM]
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[130 → 131]
+
+Meriel walked up to the woman, studying her. She was taller than me, but shorter than Reina. Aside from her wings, she also had horns and a tail, keeping her dragon-like look despite being in a more humanoid form. Good thing her transformation gave her clothes, otherwise I would’ve had to censor some of my narration.
+
+“Does it use a lot of mana to go into this form?” Meriel asked, touching her horns.
+
+The woman didn’t seem to mind. “A decent amount, yes.” She eyed me, hugging me again.
+
+“Please stop,” I said.
+
+“I can’t do that. Anyway, when will we be getting married?”
+
+I shook my head. “Never. I’m not marrying a dragon.”
+
+“But you fed me the love potion.”
+
+“Yeah, because you were about to kill all of us!”
+
+The woman thought about it for a moment, then laughed.
+
+“That’s true!”
+
+She leaned in and kissed me on the cheek. My face flushed red as I stumbled away, hand over my cheek.
+
+“You—! Stop it!”
+
+She was about to walk over to me before Reina held her by her tail, stopping her.
+
+“Ah! That’s sensitive!” she cried, swatting Reina’s hand away.
+
+Reina crossed her arms. “Don’t get so touchy with Allene.”
+
+“You’re one to talk,” I muttered under my breath. It didn’t look like she heard me.
+
+The dragon woman looked at Reina. “Don’t get in the way of our love. My heart yearns for no one else but—”
+
+Meriel stood between the two of them, pushing them apart. “Focus,” she said. “Remember what we’re here for. Let’s take the portal and leave this place.”
+
+“We can’t bring her with us,” Reina said.
+
+Talon walked up to the woman, fascinated by her wings. “Why not? She seems nice!”
+
+The woman smiled at him, leaning over and patting Talon on the head. “Thank you, boy. I’m glad you appreciate my presence, unlike that red-haired beast over there.”
+
+Reina frowned. “...beast?”
+
+I sighed, facepalming. Looks like things are going to be messy between those two from here on out.
+
+The woman walked up to me. I was expecting her to grab me again, but fortunately she didn’t.
+
+“Please give me a name, my love.”
+
+“Huh?”
+
+“A name,” she said again. “For me, my love.”
+
+“First of all, stop calling me that. Second of all, why are you acting like you’re coming with us?”
+
+She tilted her head. “I am, aren’t I?”
+
+I turned to Meriel.
+
+“We should bring her along,” she said. “Taming a dragon is rare enough as-is. It would be a waste to let someone as powerful as her go, and judging by the way she’s looking at you, I don’t think she’ll take no for an answer.”
+
+The woman grabbed my hand, bringing it toward her head and forcing me to pat her.
+
+“Please?” she asked, giving me puppy eyes.
+
+I looked away, but I couldn’t keep my eyes off her for too long. Those dang puppy eyes. How could I say no to that?
+
+“Fine,” I said. “But don’t mess around and screw us over.”
+
+“Thank you, my love!”
+
+She gave me another hug, kissing me on the top of my head. Reina didn’t look too happy with it.
+
+“Glad to have a dragon on our side!” Talon exclaimed. “Are you ready to go, Tuna?”
+
+Tuna meowed, floating up from the cloud she was resting on and sailing through the skies. It was kind of ironic for a whale to be flying a dragon, but I guess now that the dragon-lady was in her humanoid form, she was in the same boat as the rest of us.
+
+“I have a few ideas for some names you can give me,” she said, smiling at me. “Darling or baby both work.”
+
+“I’m not calling you either of those,” I said.
+
+The woman sighed. “Aw. Why not? Then would you prefer to call me by my actual name?”
+
+We looked at her.
+
+“You had a name this entire time?” I asked. “Then what was the point of asking for one?”
+
+“Because I would prefer it if you called me darling.”
+
+“I’m not doing that. Just give us your actual name.”
+
+She sighed in defeat.
+
+“Aeris,” she said. “And what about the rest of you?”
+
+We told her our names one by one. When I told her mine, she smiled.
+
+“Ah, yes. Reina did mention your name earlier,” Aeris said. “Our names even start with the same letter. You know what that means? We’re really meant to be together!”
+
+I don’t know what kind of delusional thinking that was, but I guess that just shows how potent the love potion was.
+
+As we came near the portal that would take us out of here, we looked behind. The surviving harpies were in the distance, watching us from afar. Some had escaped through the same gate we had entered from, while the rest stayed in this sky.
+
+But I could tell that none of us were looking back because of the harpies. We weren’t worried about them.
+
+We were worried about Kaelor.
+
+“Do you think he’s okay?” Talon asked.
+
+Meriel and Reina looked down, not saying anything. Aeris seemed as though she was about to ask who Kaelor was, but she quickly picked up the mood and stayed quiet.
+
+“We’ll meet up with him once we escape this dungeon,” I said. “I’m sure he’ll be okay.”
+
+“We should go back and help him,” Talon said.
+
+“I know. I want to help him, too,” I said. “But it’s just as he told us—we’d only get in his way. And with all those harpies standing between us, it would be too difficult to go back to the inverted city.”
+
+Talon looked at Aeris. “But we have a dragon on our side now. We can get through those harpies with her help.”
+
+Meriel walked up to him, putting a hand on his shoulder. “I’m not the kind to sugarcoat things, so I’ll say this right now. If what we’ve heard about that monster is true, then we stand no chance against him. Our souls will be in danger. Kaelor made the right decision. He’ll stall that demon and give us enough time to escape, even if it means giving up his life.”
+
+Talon’s eyes began to glisten. “But Kaelor—!”
+
+“If any of us dies, including you, then everything he has done for us will have gone to waste,” Meriel said. “Do you want that to happen?”
+
+The boy shook his head.
+
+“Then let’s continue on,” Meriel said. “None of us want to leave him, but we have to.”
+
+We turned back to the portal in the middle of the skies. Unlike the previous portals we’d seen, this one didn’t hide what was on the other side.
+
+We peeked through, seeing an area enveloped in one large shadow. There was an island at the center. Countless wriggling hands surrounded the island, covered in the same shadow. Those hands weren’t attached to anybody. They were just… hands.
+
+At the center of the island was a humanoid figure with chains latched onto its limbs and neck, the chains stretching so far away that the eye couldn’t even follow them to their origin.
+
+The figure itself looked completely pitch black. No skin. No flesh.
+
+“This must be the Borrowed One’s original form,” I muttered. “He left this behind after stealing Gabriel’s body.”
+
+With our eyes locked on the figure, Tuna flew through the portal, taking us to the final section of the dungeon.

@@ -1,0 +1,93 @@
+---
+id: 980d9757-5135-5105-8c2d-c95170507ccd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 272: Perspectives (Part 1)"
+slug: 0306-chapter-272-perspectives-part-1
+partOf: dungeon-of-knowledge-complete
+position: 306
+ownLength: 1783
+unit: words
+ownProgress: 1783
+publishedAt: 2025-06-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2339955/chapter-272-perspectives-part-1"
+royalRoadId: "2339955"
+markedReadAt: "2026-06-29T20:21:39.158Z"
+---
+
+Vivian sat calmly, not allowing her satisfaction to spill out into her expression as she quietly studied the other council members while Bastian Asterford finished the formalities of explaining the process of voting for a new mayor. Idly she noticed that he had upgraded to a new suit with cuffs and linings done in Lydia’s fantastic shimmering Fire Silk. That woman is going to own all of Myrin’s Keep in a few years.
+
+Aiden had taken the assassination of his father very hard. Although he and William Turner had been somewhat estranged, they had had some sort of reconciliation after the incident with Roderik Icecrown and Aiden had begun to develop his class and grown into his power. While he had made a few concessions to the formality of this event, he had taken Mieriel’s advice and appeared in his freshly polished armor with his swords strapped to his back and his guild ring gleaming conspicuously on his hand. He stood before the council, maintaining an expression of stoic calm while they discussed the events that had necessitated this vote and debated the merits of the young man before them.
+
+Vivian glanced over at Jax Hawkhurst, sitting there with a smug half-smile on his face. She knew he had arranged the assassination – anyone with half a brain did, but as usual, he had covered his tracks well, and none of the paltry evidence could be tied to him. Officially.
+
+Although Vivian had been overwhelmingly frustrated when her identity had been revealed and she had not been apprehended, she had to admit that Tala fleeing town had been a reprieve for the guild. Unfortunately, the only thing that had gone missing from William Turner’s storage had been the class shrine, and his body had been displayed with the Silent Assassin’s calling card. If she’s back, we need to be careful. Mieriel had already implemented a buddy-system roster for the higher-level adventurers to escort the recruits and novices home at night, but even that might not be enough.
+
+She glanced at the mastermind, not allowing her gaze to linger too long. Jax’s business was still hurting, and this had been a blunt move to secure a council more favorable to his dealings. Removing an increasingly vocal rival on the council and then pressuring Bastian to replace William Turner and Roderik Icecrown’s seats with people indebted to him would have dramatically shifted the political power in town.
+
+But, in arranging the assassination of the mayor, Jax had stepped over the line – something he was about to discover. Mieriel’s work had been nothing short of miraculous, and Vivian already knew that Jax had lost this vote by alienating his former allies on the council. Not all of them possessed the stomach for his bloodthirsty methods and had been easily swayed with a few words. Her gaze shifted back to the young man standing before the council – about to be voted in as the new mayor. It was his meteoric rise to level forty that had really secured the support of both Gerald Brand and Donella Novaspark, and for that, she could only thank Aliandra and her dungeon.
+
+And Aiden and his team’s hard work. She nodded inwardly to herself. He had turned into a fantastic adventurer, fighter, and leader.
+
+“I call the council to vote,” Bastian said, finishing his procedural speech.
+
+Jax immediately seized the initiative and stood – one of his favorite tactics to set the mood. In a ringing voice more appropriate to a victory speech, he announced, “I vote no. He is too young and inexperienced to be a member of this council, and the grief of his recent loss will prevent him from being properly impartial.” Then he turned his eyes on Aiden. “No offense, Aiden. I’m sure in a few years you will be a fantastic candidate. And I’m sorry for the loss of your father.”
+
+Fucking slimeball. But Aiden just acknowledged his words with a near-imperceptible inclining of his head.
+
+“I vote yes,” Vivian countered. It was amazing to her that Jax had no idea, but then again, she had a Mind Mage on her side, and her information was impeccable. “Aiden is perfectly qualified for the job, and he will uphold the legacy and integrity of his father.” She had the satisfaction of smiling sweetly at the glare Jax leveled at her.
+
+“I vote yes,” Gerald Brand said, blithely interrupting the stare-off. “He is strong enough to aid in the defense of Myrin’s Keep.”
+
+“I vote yes,” Donella Novaspark said. Vivian was watching Jax closely out of the corner of her eye and witnessed the first crack of doubt flicker across his face, but Donella added no additional comments.
+
+And now, the final blow, Vivian declared in her mind as the stout dwarf took to his feet, like an announcer at a tournament.
+
+“I vote yes also,” Hadrik Goldbeard said, breaking from his typical neutrality. “And, Bastian, isn’t it about time you proposed someone to fill Roderik’s empty seat?” The portly dwarf’s beard bristled magnificently as he glared at Bastian, uncaring or unaware of the nail he had just hammered into the coffin containing Jax’s carefully laid plans.
+
+“What?” Jax yelled, red-faced and leaping to his feet as the fourth yes vote sealed the decision. “You would vote this whelp onto the council? Are you mad?”
+
+“Oh, be quiet, Jax,” Bastian snorted. “I also vote yes; this is the right decision for Myrin’s Keep, and I welcome the injection of fresh perspective Aiden will bring to this stodgy council. It is done.”
+
+Vivian kept an iron grip on her expression, but inside, buried deep where nobody but Mieriel would ever see, she was dancing with glee; the vote had gone exactly as predicted, with even Bastian voting against Jax. It had been far too blatant of a power grab for everyone, and the use of assassination for political gain had not been lost on any of the council. It was deliciously ironic that Jax’s overreach had accomplished precisely his goal of stacking the council, but for her and the interests of the Adventurers Guild instead.
+
+“Congratulations, Aiden,” Bastian announced. “I trust you will do an exemplary job as Myrin’s Keep’s new mayor and newest member of this council. My condolences on your father’s death and I wish this could have been a happier occasion.”
+
+“Thank you,” Aiden said, offering a slight bow to the noble, his expression carefully schooled.
+
+Jax took a deep breath, thrusting an accusing finger toward Vivian, but his impending apoplexy was interrupted by the sonorous sound of an immense gong reverberating through the floor of the Town Hall and shaking her bones. An unforgettable sound she had heard only a few times in her life.
+
+[Zone] Dungeon of Knowledge has advanced to the second tier.
+
+A vast wave of mana burst from the floor, flooding the room. Amid the exclamations of alarm, the entire hall erupted into a flurry of glittering, golden mana-butterflies, ethereal glowing green leaves that floated down as if on a soft breeze, and a storm of spontaneously forming nature wisps. Vivian gasped at the density of the dungeon mana flowing through her body – more potent than any she had ever delved into, and laced with a complex medley of a dozen affinities.
+
+Aliandra must have returned.
+
+She met Donella Novaspark’s wide eyes – the only other person in the room who might appreciate the sight and significance of the domain mana that flooded upward into town.
+
+“What was that?” Bastian asked, his voice quavering as he visibly struggled to keep control.
+
+“I do believe that is Myrin’s Keep’s first platinum-rank adventurer,” Vivian said, answering Aiden’s sudden broad grin with one of her own. She had so many questions, but those would keep – Aliandra couldn’t have timed her evolution better if they had planned it ahead of time.
+
+The familiar dislocation of her teleportation spell placed Ryn among the branches of the great elder tree in the grand library. She flared her wings and floated down toward the bookshelves, excited to lay out today’s haul. She had unearthed a spectacular pair of instruction manuals for obscure, but reputably powerful martial arts styles, a fresh text on the subtle interactions between ice, cold, and frost magic that Ali was certain to love, and a collection of the transcripts of the most important Kings and Emperors matches of the third age – many she had never seen before. She couldn’t wait to study them.
+
+But as she made her way down to the tables, her eyes caught sight of an unexpected pile of books – a pile that had not been there when she had left for her library rounds this morning. And next to the older stacks of books she had prepared, she found a tower of duplicates.
+
+Ali’s back! Her eyes darted from table to shelves, scouring every nook and cranny. Her friend was nowhere to be found, but the evidence of her return was as obvious to Ryn as if she had found a large, painted sign. She alighted beside the new books, not even slightly frustrated that they all appeared to be written in a language she didn’t understand yet. So old, she mused as she ran her fingers across the spines, her skills intuiting and summarizing the contents automatically. Trolls? Aman Rak? Ooh, this is amazing! There was not a library in the known world that had books like these.
+
+[Zone] Dungeon of Knowledge has advanced to the second tier.
+
+A sudden gale of mana howled through the library and all the glitter dragonets took to the air, screeching in alarm. Ryn winced at Bookwyrm’s panicked squawk and the bite of his tiny, sharp claws piercing her shoulder pad. Like a storm in the atrium, the mana of the domain swirled and roared, whirling vortices of spontaneously manifesting wisps and golden butterflies that spread out throughout the library like a cloud, taking roost upon the branches and leaves of the giant elder tree, or riding the chaotic currents of mana.
+
+She clamped her mouth shut to bottle in the rising scream that threatened to escape and hung on to the table, clutching her skirt as she was buffeted by the sudden gusts of wind that followed the riotous eruption of mana. Slowly the chaos began to subside and understanding percolated into Ryn’s mind.
+
+Oh, Ali! Congratulations! Beaming happily at the signs of her friend’s advancement, she set about tidying up the library, straightening the books, and collecting the papers that had been blown off the tables.
+
+And, behave yourself in my library! She giggled merrily, struck by a wave of joy.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

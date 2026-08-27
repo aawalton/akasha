@@ -1,0 +1,161 @@
+---
+id: be6af506-0eef-5af1-85e8-f5a3379958e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 470: The Dragon God’s Library"
+slug: 0507-chapter-470-the-dragon-god-s-library
+partOf: dungeon-of-knowledge-complete
+position: 507
+ownLength: 3471
+unit: words
+ownProgress: 3471
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2832871/chapter-470-the-dragon-gods-library"
+royalRoadId: "2832871"
+markedReadAt: "2026-06-29T20:29:26.660Z"
+---
+
+Oh, Ali finished! Ryn thought as she flew down to the circle of study tables in the Grand Library Arcana to find the neatly stacked piles of copied books waiting for her there.
+
+She spiraled down rapidly, alighting on the pretty green and gold carpet she had found on sale in the marketplace a few weeks before the town had been destroyed. Somehow, it had survived the disaster, emerging unscathed from the recovery of the library. Identical book towers awaited her, arranged side by side upon the polished cherrywood tabletop. She gingerly ran her fingers over the spines of the ancient leather-bound books embossed with draconic sigils and runes that they had borrowed from Azryet’s library, the sense of the information contained within flickering through her mind as her passive divination skills interpreted the contents through the conduit of her touch. The smell and feel of the tomes carried the weight of ages, and the power and prestige of their draconic heritage, leaving her with a thrill of excitement and the lingering trickle of knowledge seeping into her Arcane Archive memory.
+
+She had, of course, read every single one of them already and committed their pages to her extensive archive, to be recalled whenever she needed; however, the physical touch conveyed so much more to her senses. Tiny trickles of her divination-affinity mana swirled around the books, trailing her fingertips, showing her insights into what the author, a great, blue-scaled ice dragon, had been feeling and experiencing when she had written it so many thousands of years ago. It was, in fact, the only way she could distinguish the original books from the extraordinarily detailed copies Aliandra had made. Bookwyrm let out a happy trill of excitement from his perch on her shoulder, almost a purr, as the sensations flowed through the connection they shared.
+
+With just the tiniest puff of mana, she folded all the original books into her Library Domain, causing them to vanish from sight into the book storage that had come with her skill advancement. She glanced around the library, but other than a few adventurers studying combat manuals, it remained quiet – most everyone was out fighting monsters somewhere. The little kobold assistants Ali had made to help her were all off in the spirit realm echo of the library, transported there by her teleportation magic, so they could sort through the enormous wealth of knowledge upon its shelves, hunting for the most important tomes to copy.
+
+Satisfied that all was in order, Ryn turned to her teleportation skill, feeling a pang of sadness at the limited set of destinations she had been reduced to. Myrin’s Keep library was still a memory, destroyed in the disaster, and not yet rebuilt. Thorel Moldur, Vertias, and Volle were still gone, and she lamented the staggering loss of the library at Ciradyl. So many priceless, irreplaceable books had been destroyed. All she was left with was the Grand Library Arcana, the spirit realm echo, and now, the library of the dragon god, Azryet.
+
+She sighed. The loss of life and knowledge, tragic as it was, had already happened, and couldn’t be undone, no matter how much she wished it in her heart. Gathering her mana, she activated her teleportation skill and the library around her shimmered, flickering out of existence, and suddenly, she found herself in the center of a vast alabaster stone chamber, with floor-to-ceiling bookshelves crammed with forgotten and ancient tomes. The weight of knowledge pressed in on her from all sides, as palpable and thick as the dense mana that flowed through this giant library.
+
+She couldn’t help staring hungrily, her eyes lingering on the thousands upon thousands of volumes on display, and even noting the arched passages into rooms that led deeper and deeper, revealing a sprawling library maze that defied even her own senses and perception skills.
+
+Just as she was reaching outward with her divination skills, the mana beside her suddenly congealed, twisting into a vast formation, and then suddenly a wave of compressed air buffeted her, making her hair billow out, suddenly released from her hairpin, and she found herself staring into the immense golden eye of a dragon.
+
+She yelped, heart suddenly racing as the vast presence of the golden dragon crashed into her, overpowering her mind, making her shiver in fear. She barely registered Bookwyrm squawking as he took to the air.
+
+Librarian – Ancient Abyssal Dragon – level ???? (Holy)
+
+Ryn stared at the vast being who was emitting billowing, intense waves of holy mana from her gleaming scales, and was suddenly made extremely aware of her mortality and the sheer insignificance of her tiny human body beside the power of the dragon.
+
+And she was alone.
+
+Suddenly, the pressure vanished.
+
+“Sorry, Ryn, I forgot.”
+
+The mellow voice was just as powerful as her draconic majesty, vibrating through the air and the floor to make her bones quiver, but it carried remorse within it as an undertone.
+
+Ryn took a breath and stilled her quaking legs, taking a moment to re-pin her hair. “Um, hello Miss Tiraza, err, your mightiness,” she said, cringing at her awkwardness, finishing it with an uncomfortable bow. The first time she had been here, she had been in a big group and not the focus of attention. Now, she couldn’t help realizing that even with a non-combat class, Tiraza was a golden dragon many times her size, and very much still an apex predator, and she would make little more than a snack for something so gigantic.
+
+“Just Tiraza is fine,” the ancient dragon rumbled. “Again, I’m sorry I forgot my aura.”
+
+“Oh, ok… Tiraza,” Ryn said. Suddenly remembering why she had come, she added, “I brought your books back. Ali finished copying them.” And with that, she retrieved the piles of books she had stored, stacking them up on the pristine, polished floor beside them.
+
+“Oh, thank you,” Tiraza said. “It’s been so long since one of my books left the library, I was beginning to miss them.” Mana flickered, and the books began to levitate, zooming off to their various shelves, or zipping off through archways to unseen chambers beyond.
+
+“Do you have any references on the Wells?” Ryn asked. Ali had asked her to check at least a dozen times.
+
+“Before we get to that, Azryet wanted Aliandra to have this,” Tiraza said, producing a single, hefty green and brown tome. “He said it should get her started on the Sandwyrm project.”
+
+“Oh… thanks,” Ryn said, picking the heavy book out of the air and studying the cover.
+
+The Zulkora Expedition: Flora and Fauna of a Realm in Conflict.
+
+It was written in an ancient Elvish script. Ryn glanced up at Tiraza.
+
+“Tell Aliandra it should help her find sources of gravity and earth affinity magic, along with a whole host of other interesting things. It’s a rich realm.”
+
+“Oh, she’s going to love that,” Ryn said.
+
+“Now come, let’s see what we can find to help with your research on the Wells.” Tiraza turned, leading the way to a room beyond one of the dragon-sized arches, her enormous tail swishing behind her as she began enumerating the books she had uncovered in her research, books Ryn had never even heard of, and what she thought each could provide for the quest. Ryn flared her wings, rushing to catch up to the giant golden-scaled dragon while Bookwyrm flew circles around her head, clearly unimpressed with the way things were going.
+
+Don’t be jealous, silly, you’re still my favorite, she thought affectionately as she enticed him over to his favorite perch on her shoulder and calmed him down with some ridge scritches.
+
+Ryn followed the great golden dragon through the vast, labyrinthine library, trying to calm her racing heart as they passed countless industrious kobold assistants who chirped and chittered in draconic, carrying books and scrolls as they scampered out of Tiraza’s way, offering bows of respect in her wake. Smaller dragonets flew among the higher bookshelves, their scales gleaming black or golden as they retrieved books with taloned claws or puffs of magical energy. For an ancient library that had all been forgotten, it sure buzzed with a hive of activity.
+
+The library dwarfed her. The spacious chambers and enormous passages endlessly lined with bookshelves and scroll racks sized for its draconic curator left Ryn feeling positively tiny and insignificant, and when Tiraza finally stopped, it took Ryn a few moments to realize the enormous space she found herself in was a study. There were no tables, such as the humanoid races might use; however, books were stacked up on lecterns and bookrests, or simply floating in the air, suspended by telekinetic magic. Scrolls were piled up upon shelves and stands, ready for retrieval whenever the giant dragon might need them.
+
+“There is little left that describes the function and origins of the Wells,” Tiraza said. “However, I have retrieved everything in the library that relates to the lore and history as we know it. Obviously, more recent events, such as the destruction or loss of their custodian cities, are missing.” Tiraza waved a great taloned claw to one prominent bookstand, where a giant tome lay open and waiting, glowing runes upon its pages spilling strangely shifting light into the room. “This book explains the making of the elixir. We will need a skilled alchemist when we have secured all the ingredients.”
+
+“Thank you for collecting all of these,” Ryn said, her eyes eagerly taking in all the ancient tomes, and her excitement finally banishing her nerves.
+
+“Why don’t you read them first, and then we can talk,” Tiraza said, her face shifting into what Ryn interpreted as an enigmatic smile. Draconic features were difficult for her to read; however, the swirling light in her eyes seemed rather like Bookwyrm’s when he was happy, and she tentatively took that as a good sign.
+
+Ryn looked up after the several minutes it had taken to read and memorize all the collected works, regarding the patiently waiting dragon, her mind slowly processing the material she had just read. For phenomena of great power and significance, surprisingly little was known. However, what she had read was tantalizing, teasing, and hinted at hidden details and powers, lost now to the knowledge contained within this library. Most intriguing was one dragon scholar’s surprisingly well-supported speculation that the Wells may be sentient, but in a form that was incomprehensible to most races. As to their purpose, there were more theories than books.
+
+“Hmm…” she said. The only clear information was about the creation of the elixir, but the full description of its effects seemed vague and altogether lacking in detail. One of the lesser tomes had confirmed the surprising fact that the wells predated even the first age, which, knowing history, was profoundly shocking. “There’s not much that will help us to actually find them.”
+
+“You are correct,” Tiraza said. “Perhaps we will find more recent information in your library? I suspect this must become a joint endeavor.”
+
+“Maybe,” Ryn said, considering the idea. The Grand Library Arcana was ancient, and the Spirit Realm echoes were three thousand years old or older, which was still newer than Azryet’s library. “Although the information we require happened more recently than the books in my library.”
+
+“The trail is cold. However, there are some scrolls and magic here that may assist,” Tiraza said, indicating the stacked scrolls to the side with an unreasonably sharp claw. “I was hoping you could hunt through the libraries of the mortal realm with this information, and together our knowledge might form the threads to complete the picture.” Tiraza’s voice still caused Ryn’s bones to vibrate. However, she no longer feared the dragon.
+
+Magic. Threads… connections…
+
+Tiraza was a holy affinity dragon, and like her, probably knew her library like the back of her claws. But Ryn had something different. Something unique, maybe. The more she had studied the works in the Grand Library Arcana, the more she had come to realize her personal class, affinity, and skills were far rarer than she had imagined. Her arcane mana provided recall and connections through every single book she had ever read; however, her divination assessed possibilities, intent, portents of the future, and echoes of the past. While vague and tricky to use, it had, on occasion, provided critical information that had changed the course of events.
+
+“Tiraza,” she said, eyeing the dragon speculatively. “Do you mind if I try one of my skills? I don’t know if it will work though…”
+
+“A divination?” Tiraza asked with an intense swirling that made her eyes appear to be whirlpools of mana, correctly guessing her intentions in an instant and, presumably, connecting her uncertainty about the outcome with the visible signature of her affinity.
+
+“Yes.”
+
+“Very well,” Tiraza said, the whirling magic in her eyes accelerating in anticipation or curiosity. “I would love to watch.”
+
+Ryn nodded and took a deep breath, filling her mind with the need to find the ancient Wells, and then willed her Seek Knowledge skill to reveal what she wanted to see. No, what she needed to see. Her skill settled upon her like a shroud of awareness, pushing the study, Tiraza, and the collected scrolls and books into a hazy background, transparent and indistinct like a half-forgotten memory. Her awareness split. And then again, as the tendrils of jagged purple crawled outward from her, arcing from bookshelf to bookshelf as her spell searched through the library. Suddenly, she felt it drawing heavily from her mana pool, and the crawling spiderweb of jagged purple arcs branched outward, rushing through the passages and chambers of the library, dragging her fragmented awareness with it. Her mind split into countless slivers, pieces within pieces as the vastness of the library crashed into her, bringing with it the tantalizing fragments of knowledge as the forked branches of her divination mana danced across the shelves and books, sampling from each.
+
+She felt her heart beginning to race, her pulse pounding in her ears as her mind filled with far too much knowledge. And just when she felt she might explode, suddenly the fragmentation of her awareness collapsed in a rapid rippling cascade as the slivers coalesced. Magic ripped forth from her mind, seeking, homing in, focusing, and she felt the awareness tearing through the passages along the golden branch until, like a fulgurant lightning strike, she connected to the book. One among uncountable thousands, a needle in this vast haystack.
+
+She gasped as the imprint of the book was burned into her mind, and she collapsed, falling from the air, only to find herself suddenly caught by a surprisingly gentle golden-scaled taloned grasp.
+
+Seek Knowledge has reached level 54 (+3).
+
+“Ryn? Are you ok?”
+
+“Yes,” she gasped. The experience had been far more potent than she had anticipated, and it had simply caught her by surprise. But she looked up at Tiraza, finding concern in the dragon’s eyes. “I didn’t expect it to be so intense.”
+
+“That is a truly remarkable spell,” the great dragon said, slowly setting her down. “Come, let us find this book you identified.”
+
+Ryn followed along as Tiraza led the way unerringly through the endless chambers and passages, rapidly recovering from the intensity of her spell, and presently she found herself before a bookshelf. There was nothing that set this bookshelf apart from the thousands they had passed, other than the fact that she recognized it from her divination. Unerringly, she reached out to the small, leatherbound book nestled among its larger peers, the understated black-embossed runes upon its spine flickering to life as her fingers touched it.
+
+Echoes of the Past. A Comprehensive Guide to the Spirit Realm. Garamoth the Sage.
+
+“Aah,” Tiraza said, dipping her head to see the book as Ryn pulled it from the shelf. “Little is now known of Garamoth. An arcane dragon of great reputation and power; a scholar and a sage. Much of his work was purged in the Dragonflight Succession Wars, and it was lost with his passing. Azryet managed to save this book within his personal collection; it represents the most complete work on the purpose and function of the Spirit Realm.”
+
+The Spirit Realm? She puzzled over the book in her hands, but her skills did not lie; the book contained much about the Spirit Realm, many things she did not know. But of the Wells, it had nothing. “But why did my skill call this particular book out?” she asked. “The subject matter doesn’t seem to be related to the ancient Wells.”
+
+“It is not,” Tiraza said, turning her attention upon Ryn. “And therein lies the problem with divination magic. Divination, as you will learn if you read this book, is based upon reading reflected echoes of possible futures from the spirit realm and is thus often more difficult to understand and interpret than it is to cast the spell. You will need to figure out what it means.”
+
+“I see,” Ryn said. She had heard much the same from Val’korr and from the few books on divination she had found in the spirit realm echo of the Grand Library. Furthermore, she had experienced this personally, but never had her skill been so far off.
+
+“Do not be discouraged, Ryn,” Tiraza said, touching a paw to her shoulder with the care of a mighty being for a tiny one she feared to crush. “You should study this book for yourself. As a wielder of divination, you will benefit greatly from understanding the limitations and effects of the spirit realm. Perhaps there is a path to the Wells via the Spirit Realm? Or perhaps understanding the Spirit Realm echoes is what you require to interpret your divinations? Maybe there is a Spirit Realm echo hidden somewhere that answers the question about the current locations of the missing Wells? Anything is possible, and you will need to keep an open mind.”
+
+“I guess so,” Ryn said, but she had been rather excited when her spell reacted so strongly – she had been hoping to return to Ali with a strong lead on the missing wells. But instead, she had an obscure book by a long-dead dragon sage on the spirit realm. She sighed.
+
+“Do you perhaps know anyone accomplished in the divination arts?”
+
+“I’ve met Tol’zerath,” Ryn said, frowning. Although she had no idea if the proud troll would even talk with her.
+
+“It might be worth asking for advice,” Tiraza said. Then she smiled, showing a disturbing number of sharp, pointed teeth. “Perhaps I can offer something of a consolation? Aliandra mentioned that you have not taken a mentor yet.”
+
+“A mentor?” Ryn asked, her eyes snapping up to meet the dragon’s eyes, her heart beginning to race once more, although this time it was not from fear.
+
+“Yes,” Tiraza said. “Would you accept a dragon as a mentor? Despite my combat abilities and draconic nature, my class is still that of a Librarian, as is yours. You might find it a good fit.”
+
+“I would be honored,” Ryn said, bowing her head. A mentorship? With a dragon? She could scarcely believe what she was hearing. Just moments ago, she had been terrified of this powerful golden dragon with her aura of majesty and fear, talons, scales, and teeth, and now she was being offered mentorship from a being so powerful as to defy even her own imagination. “Um, but how does that work?” she asked, a surprising idea springing into her mind.
+
+“How does what work, little one?” Tiraza asked, amusement swimming in her great eyes. “The fact that I’m a summoned creature?”
+
+Suddenly, Ryn realized what she had asked, but it was too late now. “Uh, yes, but I didn’t mean any offense.”
+
+“None taken, Ryn,” Tiraza said, her rumbling laughter shaking the shelves. “Azryet possesses a many-times advanced Keystone Path ability called Minion Ego. Over the millennia, he has invested in it again and again – and he has kept resummoning me that entire time. I gained the ability to mentor others two evolutions ago, although I have not had the opportunity to use it. It’s not like we’ve had many visitors here before your friend dropped in.”
+
+Suddenly, Ryn’s notification messages unfolded with the sound of creaking parchment bearing glowing writing.
+
+Tiraza offers her patronage.Mentor Patronage – TirazaTraits: Holy, Domain, Draconic, Strength, Vitality, Endurance, Intelligence, Wisdom, Combat, Chaos, Healing, Knowledge.Experience gain is increased for actions aligned with your mentor or under their supervision. Gain additional skill unlocks and advances aligned with your mentor’s traits and experience.A portion of your increased experience is awarded to your mentor, increasing their reputation.Enchantment – TitheAccept this patronage?
+
+Ryn did not hesitate for a second, immediately accepting the incredible, unprecedented offer. “Thank you!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,171 @@
+---
+id: d9c3c0fc-1aa6-5e59-87cc-e4693e8aaa54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 321: Forging Raid Groups (Part 1)"
+slug: 0358-chapter-321-forging-raid-groups-part-1
+partOf: dungeon-of-knowledge-complete
+position: 358
+ownLength: 2699
+unit: words
+ownProgress: 2699
+publishedAt: 2025-07-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2462407/chapter-321-forging-raid-groups-part-1"
+royalRoadId: "2462407"
+markedReadAt: "2026-06-29T20:22:42.991Z"
+---
+
+Ali flew through the cloying underground jungle, struggling to hide more than a little embarrassment as she surveyed the messy expanse of her unmaintained domain. She had never fully claimed this area at the bottom of the ruins of Dal’mohra with its wildly chaotic mana and spawning pools; always too busy to devote the time to putting things in order. But now, as she headed for the brilliant radiance of the light-affinity spawning pool with most of the guild in tow, she had a mind to rectify the situation. Besides, this was the ideal location to place the first of the tests the guild would need for their newly formed raid groups, and she could finally quell the endlessly spawning elementals at the same time.
+
+She had considered destroying the pools to properly subjugate this zone, but the opportunity of pitting her minions against an endless stream of elemental spawns was far too good of an opportunity to ignore. If it worked anywhere near as well as guarding the rift, she should be able to passively level up many of the minions that were too low to use effectively elsewhere. I must target growth in all areas. Yes. Also, the Trolls. They need to grow stronger, too. I need something to effectively test and train them.
+
+She came to a halt on the banks of the light-affinity spawning pool as the four raid groups and her minions tore into the Radiant Brawlers, Sparkling Oozes, and Glimmer Shards that infested the whole region. She stepped off her barrier and onto the gritty white sand and began to summon a few Lirasian Oaks to bolster her domain.
+
+As the brief and violent combat faded, she suddenly felt isolated and alone, standing there in the middle of the bank with her Grimoire out and about fifty people staring at her. Intellectually, she understood that nobody, other than her close friends, had witnessed a dungeon create a boss before and they were only curious, but she felt very self-conscious, even more than when she had stood trial in front of the Town Council. She hid her sudden awkwardness by studying her Grimoire intently; after all, she had a job to do.
+
+“Aliandra?” Vivian said, stepping up beside her.
+
+“Yes?”
+
+“Can you keep the ability choices to yourself?” she asked, keeping her voice low.
+
+“Yes…” Ali said, staring at her before realizing what she intended. She glanced back at the four raid groups gazing on with brimming curiosity and anticipation. “Sure.”
+
+Many of the light elementals spawned by this pool could fly, so her Forest Guardians would not be the best choice. Nor would her Abyssal Stalker, given that nothing that came out of the pool had anything remotely resembling blood. So, she flipped the pages to her dragon imprint and summoned one of her prettiest monsters.
+
+Poison Wyvern – Dragon – level 46 (Poison).
+
+This should do nicely, she decided, admiring the powerful back muscles rippling under the gleaming emerald scales of her dragon. Sleek and powerful. It could fly, had vicious tail, talon, and bite attacks, and a poison breath weapon. Flying, she reflected, was a grossly overpowered evasion ability – especially before most classes gained the skills to deal with it. The simple fact of being in the air eliminated most melee classes – which usually included your tank.
+
+“Ugh, flying,” Mato groaned, rather predictably.
+
+But Ali refused to go easy on the adventurers – Calen’s report of the Lyton Ruins had included Skeletal Wyverns, and it would be vastly better if the newly formed raid groups figured out and honed their strategies to deal with flying right here, under the watchful eyes of Vivian Ross and Lyeneru Silverleaf. Leaving it till they were face-to-face with the devastating bone-spear breath of the Skeletal Wyverns out in the heart of an undead dungeon seemed irresponsible. She twisted her lips into a wry smile at the sense of irony in her thoughts as she recalled just how unprepared she and her friends had been facing down that first Skeletal Wyvern. If Irresponsibility was a general skill, hers would probably be above level fifty by now.
+
+Domain Respawn applied to Poison Wyvern.Raid Domain Enhancement applied to Poison Wyvern.
+
+Her wyvern began to grow, swelling as the powerful domain mana took hold and filled its body. There were several gasps from the crowd of onlookers – mostly those who had the skills to see mana.
+
+Ok, abilities. She had a pretty good idea of what she wanted already.
+
+Slayer (Elemental) applied.
+
+Her first domain magic was an obvious choice. The raid party wouldn’t have any trouble with elemental slayer, but this boss would also be required to keep the spawning pool under control after they were done with it – and the ability wouldn’t be a complete waste against the adventurers either. Her wyvern boss would be able to heal itself mid-fight by killing any elementals spawned from the pool, adding an element of complexity that the raid group would need to deal with.
+
+Carefully, she considered her other options. Radiant Brawlers are so fast, she thought, making her second decision.
+
+Attribute Enhancement (Dexterity) applied.
+
+She paged through her Grimoire for a bit, trying to decide what she wanted next. The biggest issue was the versatility of the boss, considering the ground-based brawlers, luminous slimes, and the airborne glimmer shards and swarms of lux drifters that the pool kept spitting up. She knew she wanted summoning, but she couldn’t decide what exactly would be best.
+
+She opened the Summoning domain magic, exploring the possibilities, and to her surprise, she discovered something that she hadn’t expected – something she was certain would solve her indecision. Hmm, yes. This should work well.
+
+Summoning (Draconic) applied.
+
+Draconic was a super-category that included her dragon imprint and her Kobolds – which had obvious racial traits derived from the magical draconic heritage. It would have also included Kavé’s Dragonkin race if she had such an imprint. It was a rather interesting tradeoff, and she was curious to see how well it worked; her wyvern would be able to summon any dragons from her imprint below level forty-six, which included her Glitter Dragonets, Luminous Dragonets, Drake Hatchlings, and other Poison Wyverns. It should also be able to summon any of her Kobold minions. Of course, with such a broad range of choices, and the inherent randomness of her Grimoire, it meant a loss of focus, but it came with a breadth of possibilities. Another side effect was the broad latitude she would have for improving her boss by learning new imprints or leveling her minions higher.
+
+Domain Enhancement complete.Your reserved mana has increased by +192.
+
+That’s cheap, Ali thought, watching her powerful wyvern roar at the Glimmer Shards wheeling about in the sky, launching itself into combat immediately. Its first summon as it engaged in battle was a Glitter Dragonet which, while cute, was rather worthless and got several giggles from the onlookers. The second time it triggered summoning though, it spawned a level twenty-three Kobold Fire Mage who immediately lobbed a fireball into the sky.
+
+This will work, she thought as the Glimmer Shards rained to the ground and the kill notifications began to sound. Ali eyed the Kobold Fire Mage critically, studying the gear choices her Grimoire had provided. Her domain magic skill seemed to use her Grimoire directly, meaning her bosses got whatever the Grimoire chose for equipment. It had not made the optimal choices, however they were not bad options. It had even given the mage a mana potion.
+
+Yet another reason to learn Wand as an imprint, Ali sighed. Her wish list always vastly outstripped her precious few empty imprint chapters.
+
+“It’s ready,” Ali said, catching Vivian’s gaze.
+
+Coria experienced something like awe as she stared at the powerful wyvern racing through the air, smashing the strange triangle-shaped Glimmer Shard elementals out of the sky with sharp raking talons and powerful bites while the kobold it had summoned blasted away with a barrage of fireball artillery.
+
+She had never set foot in a dungeon before – not counting the disaster of Ciradyl. It had never been allowed. Based on centuries-old rules, Pathfinders needed to level up with training until they were strong enough to face dangers like this. She had never questioned it before, but all that had changed when she had witnessed Ciradyl being consumed by the awesome destructive power of a dungeon.
+
+And now, she had just witnessed a dungeon creating a boss firsthand – a stunning display of power that had been wielded as easily as she might release an arrow.
+
+Aliandra was tiny, an extraordinarily rare Fae, and she was a dungeon. Knowing that and seeing her create this monster were two entirely different experiences, and honestly if Aliandra had not been so nice to her earlier, she wasn’t sure she would have trusted her at all.
+
+“Raid one, what is your assessment?” Vivian Ross asked, silencing Aliandra with a small gesture.
+
+Coria snapped her attention back to where the Adventurers Guild Guildmaster stood beside Lyeneru Silverleaf. She had been assigned to raid one for now but with the caveat that there would probably be some group rotation later – the system was complicated, but she trusted that Lyeneru would have said something if it was too dangerous or unfair.
+
+Assessment? What does she mean?
+
+“Flying is problem,” their tank, a Goblin called Havok, said. She wasn’t certain about having a Goblin as a teammate, but everyone seemed to trust him implicitly, so she had kept her doubts to herself.
+
+“It gains health when it kills the shards,” the dwarf priest said.
+
+“It sped up when it grew bigger,” one of the rogues said.
+
+“Got it,” Aiden said. “It must have a dexterity or speed boost. It clearly can summon dragons and kobolds, and it must have some kind of health-gain-on-kill triggered ability – Slayer maybe? It is definitely a raid-level boss, although we expected that.”
+
+They figured out all that just from looking at it? Coria glanced over at Lyeneru in surprise. None of the Pathfinders in their group had contributed to the discussion.
+
+“Rule three,” Lyeneru said, catching her glance.
+
+Dungeon Survival Guide: Rule three; don’t underestimate the value of perception skills. She knew that; she had all the rules memorized. But it was clear that there was a vast gap between her theoretical knowledge and the instant practical application these adventurers had just demonstrated.
+
+“Good job,” Vivian said. “Strategy?”
+
+Rule four; preparation. Coria was determined that she would not be left behind.
+
+“Maybe we can get some flying potions?” someone suggested.
+
+“Expensive, and they wear off.”
+
+“I have Wing Clip,” Coria blurted out and suddenly felt a flush rising through her cheeks as everyone turned to look at her. “It… it’s an archery skill that limits flying for thirty seconds.” She felt her flush deepen as she heard the stammer in her voice – she had trained hard to unlock it as an advancement.
+
+“How often can you use it?” Aiden asked.
+
+“It has a ten-second recharge,” she said.
+
+“Perfect, we’ll use that to ground him. Havok tanks everything that’s melee. If you draw aggro on a spawn, run into his consecration. All the ranged damage dealers kill any other spawns. Aliandra, do we have access to the minions you offered?”
+
+“Yes, I’ll make them now.”
+
+“Ok. Belmar, heal the tank. The acolyte heals the raid group. Havok, heal yourself and use Consecration to assist the melee. Those of you with secondary healing skills watch the people around you. Does anyone want to add or change anything?”
+
+“Does everyone have a recall potion? I have a few extra,” Belmar said.
+
+Rule one, have an escape plan. Coria quickly checked her storage, realizing that all her escapes were tied to Ciradyl, so she gratefully accepted the potion the dwarf offered. These adventurers seemed so casual to her, compared to the formal and structured learning of the Pathfinders Guild, but they had just given her a crash course in the practical applications of the Dungeon Survival Guide, and her mind was still reeling with how fast they put together a viable strategy. Well, let’s see if this strategy survives the first punch to the face, she thought, recalling the blunt advice one of her early instructors had offered. It sounded oddly un-Elf-like, now. I wonder if she trained against dungeons?
+
+“Ok, go,” Vivian said.
+
+Wait, what? But the adventurers simply fanned out taking up positions on the beach as if her instruction to engage was nothing out of the ordinary, like ordering your coffee with milk.
+
+“Coria?”
+
+She turned to find Aiden staring expectantly at her.
+
+“Yes?” What did I do wrong? She wondered if he had caught her surprise and hesitation.
+
+“Could you pull the boss for us? Stand near Havok so he can pick it up quicker,” Aiden said.
+
+“Um, sure,” she said, returning his friendly smile. But inside, her heart began to hammer against her ribcage and her mind screamed about the insanity of what was happening. She was going to shoot a raid boss. By herself.
+
+She felt the tremble of her triceps betraying her nervousness as she drew her bow, but she gritted her teeth and overrode her weakness with sheer willpower. She had asked for this, and she refused to back out now. Nor could she show how scared she was in front of these people; she was a Pathfinder, and she was an archer, trained by her father.
+
+She sighted along the arrow carefully. Breathing out, she held her breath and smoothly released her arrow, relieved that the countless hours of repetition took over as her muscles executed the practiced movements automatically. Wing Clip shattered her arrow in midflight, sending thousands of magical shards into the suddenly furious drake, piercing its wings with the mild paralytic magic that would force it to descend.
+
+It roared, fixing her with angry emerald glowing eyes, and dove straight for her. To her immense shame, she let out a high-pitched yelp, but she managed to hold her ground as the terrifying maw filled with pointed teeth came hurtling down from the sky to end her.
+
+But right as the wyvern was about to strike, right as she was about to be snapped in two by those glinting fangs, the little Goblin stepped up between them, shining like some legendary holy knight from the stories, and slapped the wyvern in the face with a holy shield. There was a loud crack and a furious roar, and from the wyvern’s mouth, a powerful jet of green sprayed forth, splashing everything in front of it as the fangs that had been destined for her bit down hard on the tiny Goblin.
+
+For an instant, she felt the shame of being glad it had been him rather than her.
+
+You have been afflicted with Poison.
+
+But the little Goblin did not die. He did not get crushed or eaten. He stood in the maw of the wyvern, pulsing with his holy magic while he attacked it with a glowing sword and shield and yelled his battle cry, “For Azryet! Havok Smite!”
+
+Your poison has been removed.
+
+Huh? But it didn’t take her too long to realize that the dwarf priest or the acolyte must have cured her. Rule five: teamwork.
+
+Havok shifted to the side and the wyvern turned and then the ground beneath Coria’s feet flared up with a ghostly white flame – but instead of burning her, she felt the warmth of healing.
+
+“Kobold add on the left,” Aiden shouted.
+
+Suddenly, Coria remembered she had a job to do. She backed out of melee range, turning to fire at the kobold mage that had just been spawned, pulling its angry gaze to her instead of the healers, and then she ducked behind Havok and the Wyvern.
+
+A moment later, she felt the recharge on her Wing Clip expire.
+
+Has it only been ten seconds? It had felt much longer, but she spun and unleashed her attack on the Wyvern, ensuring that it would remain grounded for another thirty seconds before turning her attacks back to the summoned kobold.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

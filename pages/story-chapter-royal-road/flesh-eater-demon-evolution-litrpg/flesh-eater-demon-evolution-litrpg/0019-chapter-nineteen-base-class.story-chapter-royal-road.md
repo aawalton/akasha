@@ -1,0 +1,223 @@
+---
+id: 19439253-e2c5-5bf4-8f0e-65496bf732ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter Nineteen: Base Class"
+slug: 0019-chapter-nineteen-base-class
+partOf: flesh-eater-demon-evolution-litrpg
+position: 19
+ownLength: 3695
+unit: words
+publishedAt: 2025-09-14
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2600557/chapter-nineteen-base-class"
+royalRoadId: "2600557"
+---
+
+“How does a chimera steal a bunch of crystals anyway. Does the thing have opposable thumbs or something?”
+
+Callan gave the demon the most unimpressed look Pyre had ever seen. Which wasn’t saying a lot, considering her missing memories and all, but it would probably still be in the top ten even with her memories back.
+
+“Not the problem. And it probably grabbed them with its mouth,” the ghost added, unable to help himself.
+
+After leaving Winrow, they’d found a nice isolated patch of the forest to hunker down in. While no one had realized they were monsters (miraculously, according to Callan), at some point they’d probably send out a search party for those patrol groups. It wouldn’t take long before they put two and two together and realized the mysterious traveler passing through might have something to do with that, especially when they saw the missing clothes.
+
+Callan had been hovering around the trees in nonstop circles the whole time. A consequence of him getting more used to being a ghost, it seemed, was that he moved around way more. His current movements reminded Pyre of a fly buzzing around a lightbulb.
+
+“I can’t believe it attacked the village,” Callan muttered. His eyes widened. “Oh god, did I lead it there? Did it track my smell back to Winrow? Did I—”
+
+“Callan,” Pyre interrupted, “chill out.”
+
+The ghost exhaled a shuttering breath. “Sorry, it’s just—” He cut himself off, releasing a frustrated noise instead. Pyre supposed she could understand his panic. The thing that had killed him had apparently attacked his village and was still out there.
+
+Her eyes swept their surroundings. [Flesh Sculpting]’s duration had run out pretty soon after they’d left Winrow, and it probably said something about Callan’s mental state that he’d barely reacted when all the flesh started melting off her bones.
+
+With impressive reaction speed (if Pyre did say so herself), she’d managed to quickly reabsorb the skeleton and stretch herself out into a long, snake-like shape that she used to slither out of her clothes before they could get damaged. She’d been pretty successful, and said clothes and her bag now lay in a pile beside a tree.
+
+Interestingly enough, her horns had also automatically regrown. She could absorb them again, but it looked like the things were a somewhat more permanent part of her appearance than, say, her eyes and mouths. It was fine this time since she was only in “disguise” for an hour, but she’d have to remember to actively keep them hidden in the future in case they randomly sprouted up in the middle of a conversation.
+
+“So,” Pyre began in a slow drawl, “you didn’t say there was more than one evolution crystal.”
+
+“I still thought you were going to slaughter the whole village!”
+
+“And I didn’t. You’re welcome, by the way.” Pyre slid over to the bag, extending some flesh out and growing a few bones and ligaments inside as support. Ever since the very long, very tedious task of constructing that human form, stuff like this seemed way easier now. She even grew three “fingers” to help her rummage through the bag. “Anyway, how many are there?”
+
+“Two,” Callan admitted. The demon hummed in thought.
+
+“That’s good then. Even if the chimera uses one, there’s still another.” She’d been worried it had already used up the crystal—this effectively solved her biggest concern.
+
+“No, not good,” the ghost said firmly. “If that thing hits its second evolution, no one’s going to be able to stop it!”
+
+Pyre gave him a long look. “What, is the jump between first and second evolutions that big?” Sure she’d gotten stronger after her first evolution, but it hadn’t seemed that huge. Well, she did get over 100 points, but that was because she’d been an overachiever about the quest bonus. Minor things.
+
+Callan switched from hovering in a circle to floating back and forth in a straight line. “It’s different for every species,” he began, “but no matter what, any monster that reaches its second evolution becomes fully sapient if it wasn’t already.” He shuddered. “That chimera—it had some intelligence, but I think it was still mostly working off its instincts. And it was already that strong. I can’t imagine what kind of damage it could do if it hits its second evolution.”
+
+“It’s probably gonna be a bit before that happens, though,” Pyre pointed out. That was assuming all monsters hit their evolution thresholds at roughly the same levels.
+
+The ghost hesitated. “True,” he said slowly. He swallowed. “I think… it was pretty newly formed when I—when I saw it. But it seems like it’s leveling fast.”
+
+The demon digested that. She didn’t really care about the fate of Winrow, but it sounded like she might not be able to beat the chimera if she let it evolve again. The idea of leaving it alone and missing out on all those possible subtrait shards because she couldn’t defeat it was deeply unsatisfying to her. Plus, she’d like to have both of those crystals, please and thank you. She was assuming all future evolutions would require them, so the more she had, the less searching she’d have to do later.
+
+“Fine, I’ll just hunt the thing down now then.”
+
+“Right now?”
+
+“I’ll change class first, obviously,” Pyre said dryly. “Now where is it?”
+
+Callan frowned. “You heard the guards. It disappeared into the forest.”
+
+“It killed you.” The demon’s voice was blunt. “Where was that? What’d it look like when it attacked?” Best case scenario, the chimera had some sort of lair they could track it back to.
+
+The ghost froze. Compared to his constant movement earlier, the difference was stark. “It… the whole thing was a blur. It all happened so fast.”
+
+Pyre gave the boy a long look. On closer inspection, his hands were shaking slightly. She hadn’t thought it was possible for a translucent ghost to look more pale than usual, but he was managing it.
+
+“Okay then.” Callan looked up in surprise while the demon directed her full attention to trying to get the bag untied. “If you can’t help, I’ll just look for it myself.”
+
+“What? Wait!” The ghost zipped forward. “Just—Just give me a second.” He paused, taking a second to swallow before releasing a long breath. He closed his eyes, brows furrowing in focus.
+
+“It was northwest of the village,” he began slowly. “I was following a stream. I—I remember there being a cave at the end of it.” He opened his eyes again and shuddered. “I don’t know if it’s still there, though.”
+
+“It’s worth a shot.” A cave sounded promising. If she was a weird ichor-warped chimera looking for a lair, she’d probably pick a cave or something like that.
+
+Pyre finally managed to untie the bag with the class crystals. In hindsight, maybe she should’ve grown a few more fingers to help with that, but oh well. She pulled one of the boxes out, the crystal nestled inside. It really did look plain like this, but she removed the lid and wrapped her pseudo-limb around the stone.
+
+“I’m changing class now,” she announced. She gave the clearing another sweep to make sure no one was nearby. “You can go off and do ghost things or whatever. Or hang out here. I don’t really care.”
+
+Before Callan had a chance to respond, she retracted the limb and pulled the crystal closer to her main body. Its surface began to glow a faint silver. In the next moment, a new string of notifications flashed across her vision while the crystal vanished into thin air. Or maybe it got absorbed into her body. She couldn’t really tell.
+
+Class Quest: Unlock Tier 1 ClassMeet the requirements to unlock a Tier 1 class. You must possess 5 matching Tier 1 class shards and a class crystal to unlock a class.Reward: Experience, 10 points, Tier 1 class gained
+
+[Class Quest: Unlock Tier 1 Class completed!][Would you like to accept rewards?]
+
+Callan was saying something that she vaguely registered as a protest about changing class here and now of all places. The demon ignored the ghost’s complaints and mentally selected “yes.” There was, she figured, no real reason to wait. Maybe humans had special locations they went to when their were picking classes, but she thought the forest was as good as any.
+
+[Class Quest: Unlock Tier 1 Class completed!][Experience earned!]
+
+[You have earned 10 points]
+
+[Congratulations, you have met the requirements to unlock a class!][(1) Tier 1 class available]
+
+Damn, no level from that? Either the evolution quest had given way more experience, or leveling now required so much that the quest reward amount wasn’t enough. Picking classes didn’t seem to have the same lightshow that evolving did, so it wasn’t that far fetched to assume the rewards were also lower.
+
+Pyre squinted at the notification. She’d only gotten the needed five shards for the Warrior class, but that had been the only one she was interested in anyway. Now that they were on a time crunch, it didn’t seem worth it to get the other shards unless they could be used for something.
+
+“Hey, you weren’t lying about the four base classes before, were you?”
+
+Callan took a break from looking stressed to looking confused. “No?”
+
+“Cool.” The demon focused on the singular class listed, which pulled up a separate window with its description. Now that she thought about it, this was the first time she’d accessed system stuff in front of someone else. Or at least, it was the first time in front of someone other than a bunch of dubiously intelligent flesh lumps and a giant corpse. She’d figured the screens were only visible to her, but it was nice to confirm it.
+
+Tier 1 Class: WarriorA base class specializing in physical damage and close-range combat.Stat Bonuses: Strength +5, Agility +5, Constitution +5
+
+The description was painfully generic, especially compared to her species evolution options. Ah well, there was a reason it was a “base” class. She figured higher tiers would have more specialized options.
+
+Still, though, would she be missing something by not getting all the shards for the other classes? The quest hadn’t mentioned any bonuses for it. To check, she selected Warrior and waited for the ever-consistent confirmation notification to appear.
+
+[Are you sure you want to change into the Warrior class?][All other remaining class shards will be discarded.]
+
+Looked like they’d just get thrown out. No point in bothering, then. Pyre selected “yes,” and a wave of warmth flowed through her.
+
+[You have selected the [Warrior] base class][Strength +5, Agility +5, Constitution +5]
+
+[Adjusting stat sheet…]
+
+[You can now view class skills]
+
+Please select a class starter skill from the following options:[Swift Strike], [Vicious Strike], [Bracing Stance], [Stealth Attack]
+
+Well, this was familiar at least. Pyre took a second to shift one of her eyes around to give the area another scan (it was much easier to stay alert without glowing silver stuff everywhere, evolutions were way too flashy). When she found only Callan, returned to hover-pacing, she directed her attention back to the skill list.
+
+Class Skill: Basic Swift StrikeAllows user to unleash a rapid blow against a foe. This strike deals less damage than a standard attack. The percentage increase in the speed of the strike scales with level. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+Class Skill: Basic Vicious StrikeAllows user to deal a greater amount of damage with their next strike. After using this skill, the next blow that hits the user will deal more damage. The percentage increase in damage scales with level. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+Class Skill: Basic Bracing StanceWhen activated, the next attack that hits the user deals less damage. After using this skill, the user’s next attack is slowed. The percentage increase in damage reduction scales with level. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+Class Skill: Basic Stealth AttackIf the user is hidden from a target and activates this skill, their next strike will deal more damage. The percentage increase in damage scales with level. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+The descriptions weren’t nearly as long as the ones for her other skills, Pyre thought in amusement. Interestingly enough, there also seemed to be a “negative effect” on all the options with the exception of [Stealth Attack], but in that case the skill could only be activated in specific circumstances. Not that she would ever pick it anyway, considering she would rarely be able to use it. Giant demonic mounds of flesh weren’t very stealthy.
+
+For a second Pyre debated picking [Swift Strike] as an “emergency speed” option, but the fact that it was apparently a percentage increase made her think it wouldn’t be worth it in the end. The higher someone’s stat was, the more they’d get out of percentage increases like that, and she didn’t really feel like using a skill pick to patch something that hadn’t even been a problem yet. Maybe if it lasted for more than one blow she’d take it, but it didn’t—at least not at basic proficiency.
+
+That left the demon with [Vicious Strike] and [Bracing Stance]. The latter would help her further her current defensive build, but on a closer read, it seemed to have a lot of overlap with [Impact Absorption], albeit without the redirection part but with a much better cooldown. She could probably stack them and be able to survive even more shit. The wording of [Bracing Stance], however, made her think it might actually interfere with the redirection part of [Impact Absorption]. If the class skill reduced damage first, then [Impact Absorption] would end up storing less energy from the blow. It really depended on which one happened first.
+
+[Vicious Strike] seemed like a nice little offensive buff, at least for one hit. The negative effect wasn’t too bad, either, since her constitution and magic resistance were high enough that temporarily lowering them for a strike wouldn’t be nearly as devastating as it would be if she’d had shit defenses.
+
+It really circled back to that whole skill order thing. It had been a while since she’d tried communicating with the system, but she figured she could give it a shot and see if it felt like being nice today.
+
+She pointed an eye up at the sky and thought at it as loudly as possible.
+
+Hey, if I take [Bracing Stance] and use it at the same time as [Impact Absorption], which one would go off first?
+
+There was no answer. Damn, maybe she’d pushed her luck too much with the whole double trait thing, and now the system was well and truly pissed. Which didn’t seem very fair to the demon. No one said it had to agree.
+
+When multiple skills are activated at once, species skills take priority.
+
+Pyre’s eyebrows rose at the familiar voice. She felt the corners of her current active mouth curl up in a grin.
+
+Glad to see you’re still around, funny voice. Hope you’re not bitter about that trait thing.
+
+The system does not hold grudges. We apologize again for our inability to provide you with your initial trait selection.
+
+No biggie. Pyre was vaguely aware of Callan watching her curiously from her other eye, but she kept talking in her head. You guys wouldn’t happen to be the reason why my soul got shattered, would you? Reincarnation gone wrong?
+
+The system would never intentionally cause damage to a soul. We apologize again and assure you that we were not aware of your situation.
+
+Pyre hummed at that. You know, it’s kind of funny you guys couldn’t figure out what was going on with my soul, but a random crossroads demon could.
+
+The demon waited for a response, but there was none. She raised an eyebrow.
+
+Hello? You hang up or something?
+
+Once again, nothing. Huh. It looked like whatever she’d said had once again pissed it off, because despite what it claimed, she was completely unconvinced that the system “didn’t hold grudges,” as it said. It kept using that soothing, even tone to mask it, but it definitely had a personality.
+
+The demon suspected the system had been lying about the whole “doing everything in our power to find the source of the blockage” thing. It didn’t make sense to her that Pax could do something a weird super powerful magic omnipotent system couldn’t. The question, then, was why it had hidden the truth from her. Maybe, she thought, it had indeed been responsible for the shattering in the first place.
+
+Well, it wasn’t like she could get it to answer her now. No point in dwelling on it when she had other shit to worry about. She filed away that information, then returned her focus to her skill selection.
+
+Now that she knew species skills took priority, she decided to go with [Bracing Stance]. She figured she could get some more offensive skills later on if dealing damage started to become a problem.
+
+[You have selected the [Basic Bracing Stance] class skill]
+
+A wave of warmth flowed through her. Since she’d just taken another defensive skill over an offensive one, Pyre decided to put all 10 of the points she’d gotten from her class quest into strength. It also happened to bring the stat up to a nice round 100.
+
+She was expecting that to be it, but just as the warmth began to fade, another string of notifications popped up.
+
+[You have gained the [Base Class] title!]
+
+[You have gained the [Monster Class] title!]
+
+[Quest unlocked!]
+
+Class Quest: Unlock Tier 2 ClassMeet the requirements to unlock a Tier 2 class. You must achieve a class level of 10 and possess a class crystal to advance into a Tier 2 class.Reward: Experience, 10 points, Tier 2 class gained
+
+Well, that answered her question about future class changes. It looked like the shards were only needed for the base class, interestingly enough. Thankfully she’d already bought multiple crystals expecting that she’d need more in the future. She just had to get her class to level 10 to advance to the next tier, and it looked like classes and species had their own separate levels.
+
+The demon scanned her two new titles. The first one, like the First Evolution title, seemed like it was mostly there for fluff. An achievement badge that didn’t actually grant her any boosts. The second one, though, was a little more interesting.
+
+Title: Monster ClassYou are a monster who has managed to gain a class. In addition to standard activities that grant class experience, actions that result in species experience earned will also grant class experience.
+
+Based on this, it sounded like it wasn’t super common for monsters to get classes, or maybe the system just had the title anyway. Either way, she’d been wondering how experience would get split between her species and class, so it was nice to get a better sense of that.
+
+It did seem like there was probably specific “class stuff” she could do to get class experience, but if she could also get it by continuing to devour shit, then that made her life a whole lot simpler.
+
+Anyway, it looked like those were really, truly the last of the notifications. She gave her updated stat sheet a brief scan before willing it away.
+
+Name: Pyre [Tier 1]Species: [Lesser Fiend (Sloth), Lvl 12]Class: [Warrior (Tier 1), Lvl 1]Titles: Reincarnator, Amnesia, Above-Average Sentience, Cold Blooded, First Evolution, Base Class, Monster ClassStatsStrength: 100Agility: 55Constitution: 118Magic Resistance: 83Intelligence: 40Points: 0Traits: [Amorphous 3], [Flesh Eater 5], [Scent 3], [Eye Growth 2], [Ossification 4], [Sound Perception 2], [Keratin 1], [Vocalization 2], [Regeneration (Sloth) 1]Species Skills [3/5]: [Basic Flesh Sculpting 1], [Basic Impact Absorption 1], [Basic Weight Manipulation 1]Class Skills [1/5]: [Basic Bracing Stance 1]Subtrait Shards: [Thermal Vision 2/3], [Species Scent 3/4], [Omnivorous 6/10], [Far Sight 1/5], [Scales 1/9], [Vibration Sense 2/7], [Mobile Ears 1/6]
+
+“Okay, I’m done.”
+
+Callan gave her a wary look. At some point—probably during her mental conversation with the system—he’d hovered over to a particularly large tree and was doing the draining thing again. The tree looked like it was holding up pretty well, though. Seemed like it did take some effort to do.
+
+“…Just like that?”
+
+Pyre raised an eyebrow. The more the ghost talked, the more she suspected that humans had some very strict ideas about what a class selection should look like. “I just had to pick like one skill. How long did you think it was gonna take?” She’d also had a quick chat with the system before getting cut off, but that was its own thing.
+
+Callan didn’t answer, but she hadn’t really expected him to. The demon closed her bag after stuffing the stolen clothes, the earring, and the map from Pax inside. Instead of forming a flesh pocket like before, she grew a short, thick bone that curved upwards from the center of her mass, then hung the bag onto it. This, she found, took less focus than maintaining the flesh pocket did.
+
+“You ready to go, kid?” Part of her was expecting him to say no or to sit this one out entirely. He still looked a bit shaken up. Remembering your own violent death and then facing the possibility of meeting your killer again, she supposed, was probably traumatic. Not that she could relate.
+
+After a few seconds had passed, Callan took a deep breath and nodded. “Yeah.” He hovered over, pointing a translucent arm through the trees. “If we head this way, we should reach the stream. Then we just need to follow it to the cave.”
+
+Seemed simple enough. Pyre took a second to make sure she hadn’t left anything behind, then contorted herself into a longer, more snake-like shape that was better suited for traveling.
+
+She had a chimera to hunt.

@@ -1,0 +1,189 @@
+---
+id: 26d6c2f7-0bac-55aa-9ba7-5b49c22e2ac4
+page-type-slug: story-chapter-royal-road
+title: "Ch115 Second Enlightenment"
+slug: 0115-ch115-second-enlightenment
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 115
+ownLength: 2071
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3784545/ch115-second-enlightenment"
+royalRoadId: "3784545"
+---
+
+A hundred thousand spirit stones are spent when I arrive at the platform floating in the mist, and a flash of light follows, creating a small white jade talisman with a golden enlightenment character on its front.
+
+I still remember using the last one.
+
+It allowed me a few hours of extremely concentrated focus.
+
+I was able to pick apart my Martial physique, understand its differences to demonic physiques, and the importance of not directly tying it to my soul. This insight allowed me to find weaknesses in others’ physiques, and perfectly memorize all of the movements before becoming physically strong enough to perform them.
+
+This is what I intend to do now with this fire control technique.
+
+I’m far more informed about how this talisman works, so I believe I can make even better use out of it this time around.
+
+I walk down the floating steps and sit down in the center of the 5 element cultivation array with the fire control booklet in one hand and the talisman in the other.
+
+I slow my breathing, begin flipping through the pages, and focus on comprehending this text on a much deeper level.
+
+I want to understand it down to its core.
+
+I want to know why certain meridians are being used, while others are not.
+
+I want to know if the techniques I’ve already learned are being performed correctly.
+
+Most importantly, I want to know how to improve, how to become faster and stronger and more energy efficient.
+
+The talisman activates, covering my body in a familiar white film, and the golden character presses against my forehead.
+
+Everything around me fades away.
+
+All of the thoughts in the back of my mind about the spirit veins I’ve just upgraded, or the confusing state that Lan Xin is in, or the unknown factors of the upcoming wedding; it all dissolves.
+
+Even the exact thoughts of what I want to learn become less rigid and more like subconscious paths of thought holding the structure of my mind together in this moment.
+
+The booklet in my hands flips through its pages front to back.
+
+It is the same words I’ve been studying for weeks, but they feel like they’re pieced together so much better now. The diagrams look as though they’re real, being performed countless times over and over in my mind.
+
+The hand positions, breathing techniques, technical timing; it all cements into my mind as though I’ve practiced it for years. The minor fireball I’ve performed over three hundred times to result in a small flame no more powerful than a low-grade talisman, all of its nuances and complexities are laid bare.
+
+Even the two other spells, the flame pillar and the incineration spell. I can feel the dangerous aura permeating through this knowledge, but still, I’m capable of absorbing it.
+
+All of the technical aspects of this booklet are memorized and perfected not even halfway through this enlightenment talisman’s use.
+
+I still have time to take advantage of it, and learn even more.
+
+The booklet falls from my hands, and I stand up from the floor.
+
+The cultivation array is no longer in my senses, only the subtle vibrations and raw energy that seep into me can be faintly felt.
+
+I begin performing the initial stage movements of this technique, focused only on energy flow, charging up red-hot qi within my fire root, and pushing it through my meridians.
+
+My thoughts from before, about wanting this technique to be stronger and more efficient, rise to the forefront of my mind. It is right beside the old memories of the first time I activated an enlightenment talisman.
+
+My Martial Grandmaster physique becomes extremely stimulated, creating a visible off-white vibrating aura throughout my flesh.
+
+I can feel every particle of qi being siphoned out of my dantian in this state, watching it become saturated with the natural fire element within my spiritual root. Then, as it flows through my meridians, it tethers to the heavy vibrations of my physique.
+
+This is an unbearably slow process, like magma pushing through thin veins to try and reach the surface.
+
+Yet, I perform a strange combination of movements, not labeled in any booklet, but instinctually created at the peak of this enlightenment talisman’s use.
+
+As dense crimson tendrils of fire erupt from my palm, I open my eyes and see the hidden realm around me again.
+
+A fireball the size of a human head flies upward into the air and explodes in a blast of flames almost 5 meters wide.
+
+I collapse to the floor, sweating, with deep red and black burns spreading from my chest, down my shoulder, and covering my whole right arm.
+
+Without thinking, I pull out both of my remaining upgrade cards to use on two healing elixirs. I swallow the newly created golden pills on the spot.
+
+My heartbeat pounds like crashing drums in my ears as the intense pain courses through me, and waves of medicinal qi combat it.
+
+The intense focus of the enlightenment talisman has passed its apex, but I am still witnessing its effects in a strange way. Every meridian that was overstrained, and every pathway that could not handle the intensity of this heat, I’m watching them all heal in real time.
+
+Though, after a while, this wears off, and I return to my natural mental state.
+
+For the next few hours, I nod in and out of consciousness, watching the flesh and skin reform on my arm, while pulling in the raw qi in the air to restore the enormous pool I just lost.
+
+Finally, the pounding in my head stops, and I can stand to my feet in awe.
+
+“I guess I got exactly what I asked for…” I murmur to myself, both fear and excitement coursing through my heart.
+
+With a wide grin, I walk up the floating stairs toward the rematch simulator while everything I just went through is fresh in my mind.
+
+I fire up a simulation against a level 1 qi refiner and immobilize him instantly.
+
+I test out a few things inside.
+
+The first is to attempt a normal minor fireball, exactly as outlined in the booklet without any help from my physique.
+
+A wave of hot qi flows out of my dantian, through my fire root, and out my palm.
+
+The technical movements of casting the spell feel as easy as blinking. The many wisps of red qi pouring from my palm and fingers all twist together like I’ve done this for decades, creating a perfect sphere that shoots forward a few meters, exploding with the strength of a weak mid-grade talisman.
+
+All of this takes place in less than half a minute, cutting down my casting time by over ten times.
+
+It does feel slightly stronger, like I’ve mastered the technique. I think it could easily kill a 3rd level qi refiner if aimed right…
+
+Unfortunately, I do still feel weak from the raw qi usage afterward. I step on the qi refiner’s head and load another thousand spirit stones into this island to restart the simulation.
+
+This time, I attempt the technique that injured me quite badly outside.
+
+I was far too caught up in the excitement of learning that I did not take into account the risks of attempting such an advanced spell with my 9th grade roots and only a 5th level of qi cultivation.
+
+When I replicate it inside the simulator, it takes about a full minute for me to activate, but I aim it directly at the immobilized qi refiner, vaporizing him to ash from over 5 meters away.
+
+The same awful pain bursts through my arm and chest afterward, creating burns and torn flesh from the blast, but I’m returned to the hidden realm in a pristine, unaffected state moments later.
+
+I dive in again, this time more curious about the actual strength of this attack.
+
+My next target is a 4th level blood demon with an initial stage physique.
+
+I’m easily able to immobilize him and activate my improved minor fireball attack as he crawls my way.
+
+An enormous blast of flames and martial physique vibration tears up the ground before me, burning him to ash too.
+
+My entire right arm gets burned to an almost unusable state, but the simulation ends and I’m returned to my natural state as though it never physically happened.
+
+Next, I spend five thousand spirit stones and battle a blood demon with a mid-grade physique.
+
+I get the same result, not a scrap of flesh is left behind.
+
+Even a 6th level blood demon is turned to an incinerated mess next. I move on to begin battling late-stage armored lizards from the pit.
+
+I’m not fast enough to concentrate on activating the technique and dodge their attacks, so I have to immobilize them before testing out its strength.
+
+However, the tough armored flesh of these creatures is the perfect trial to collect data.
+
+The 7th grade lizards with mid-grade physiques are burned to ash from a single blast, but the 8th and 9th grade lizard corpses do not totally burn. Some leave behind flesh and blood on the battlefield before the simulation resets.
+
+When I attempt to test out this fireball on a 10th level armored lizard with a late-stage physique, it does not die from a point-blank blast.
+
+The flesh melts, and it lets out a horrific screech, but the dark-scaled creature still tries to fight back.
+
+I have to finish it off while in grueling pain from my failed experiment.
+
+“So that’s its limit…” I murmur, standing on top of the rematch simulator island.
+
+This minor fireball technique, that normally doesn’t even output enough strength to hurt mid stage qi refiners, has been totally altered.
+
+It has been enhanced by the weight of my perfected stage mortal-grade physique, making it the equivalent strength of an incineration talisman… a perfect-grade talisman I’ve only seen produced by the system, equal to the strength of a 12th level qi refiner.
+
+It is no longer a minor fireball, so I mentally make the distinction that this altered version is something I’ll call the Martial Fireball.
+
+Then, as my mind races, I think of something even better, spending ten thousand spirit stones to challenge that perfected stage armored lizard again.
+
+This time, after half a minute of battling it with my fists alone, breaking its spine and fracturing its soul, I leave the lizard in a similar state as before.
+
+However, I begin rehearsing the movements of a technique that I’ve never attempted, but the curiosity is eating away at me.
+
+It is the flame pillar technique in the fire control booklet, one that should only be performed by late-stage qi refiners.
+
+The technical aspect has been ingrained in me from the enlightenment talisman, so it only takes about a minute to fully activate and allow my Martial Physique to tether to it and increase its strength.
+
+The instant it does, the force flowing from my dantian becomes far too strong.
+
+Crimson veins bulge from my shoulder, and the skin in my arms lights on fire before qi even comes out of my palm.
+
+Bones break, and waves of fire burst out of my cracking skin.
+
+A pillar of flames rushes out, burning a hole through the floor and killing this armored lizard instantly on impact.
+
+However, my arm is blasted to pieces and burns clean off too.
+
+My dantian shatters from the pressure built up in my fire root, and every particle of qi leaks out, forcing me to fall to the arena floor.
+
+In a flash of white light, I’m brought back to the rematch simulator platform and take a gasp of breath, then laugh out loud in horror, but my eyes sharpen with intrigue.
+
+This enlightenment talisman is not some perfect tool to fully master whatever I look at; it only gives me a burst of focus and understanding.
+
+I’m far more competent, but there is far more technical work and instinctual muscle memory pathways to build from actually performing it myself.
+
+I slip out of my hidden realm and walk toward the nearest perfect-grade spiritual vein.
+
+I activate the overstrain feature on three more, slowly watching the sun rise, and the earth be destroyed as kilometer-long natural spiritual entities are torn out of them for a little under 700,000 extra spirit stones.
+
+Then, I return to the rematch simulator to train again.

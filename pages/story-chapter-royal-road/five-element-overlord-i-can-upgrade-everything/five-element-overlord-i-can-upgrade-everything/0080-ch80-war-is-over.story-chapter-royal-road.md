@@ -1,0 +1,169 @@
+---
+id: 5443d7da-4f19-59b4-a5dd-c35053adc150
+page-type-slug: story-chapter-royal-road
+title: "Ch80 War is Over"
+slug: 0080-ch80-war-is-over
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 80
+ownLength: 2524
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3563752/ch80-war-is-over"
+royalRoadId: "3563752"
+---
+
+Almost a thousand kilometers away to the west, deep in the undeveloped wilderness, a massive Azure Cloud Sect base rests above a high grade tier 2 spiritual vein.
+
+Multiple late stage foundation establishment cultivators are present. They are mainly the peak masters of the Outer Sect sent into battle. However, there are many younger Inner Sect disciples of equivalent status who have taken on leadership roles as well.
+
+In one of these rooms, a tall old man named Kang Luo stands on a raised marble platform. Standing beside him, a massive vibrant blue foundation establishment spirit crane looks down in the same direction, toward the center of the hall.
+
+“Lan Xin, you have performed admirably. As a named disciple of my Beast Mastery Peak, I am proud to share the reputational boost of your accomplishments. Out of the many large scale raids before Miss Qin’s awakening, yours at Black Iron Mountain is still being spoken of.”
+
+He hands a Black Iron Mountain pin, a bronze pin with five stars, and a silver pin with a small feather on it down to the fiery eyed woman.
+
+Along with these war medals, a dark red stone is given as well.
+
+“I know you’re already at the perfected 10th level of qi refining, but I hope a first tier perfect grade fire stone is of use to you. It is the most valuable gift the sect can grant as a reward for your hard work.”
+
+Lan Xin bows, thanks the peak master, and turns to leave, but uncertainty lingers in the air.
+
+Kang Luo calls out as she is about to open the door.
+
+“Your innate physique will only take you so far. A cultivator with 7th grade roots cannot make it in this cultivation world alone. Even a foundation establishment pill would not guarantee your breakthrough, so you must not rely on the inner sect to step in and take that risk. If you wish to make a union with my son, the Vice Master of our peak, I’m sure I could give you a chance of breaking through before you turn 50.”
+
+Lan Xin clenches her jaw, but shakes her head.
+
+“Thank you for the offer, Senior. I will think about my options.”
+
+She opens the door and leaves. The old man’s eyes pierce into her back, thinking only of the possible offspring an innate physique bonded with a spirit grade fire serpent could add to his bloodline’s legacy.
+
+She may not have much potential to grow strong and enter the inner sect, but to secure another generation of beast masters in his bloodline to control the outer sect peak, she is a worthy candidate.
+
+When Lan Xin walks through the halls of this newly built fortress, and makes her way past an open door, the voice of another domineering late stage foundation establishment cultivator echoes out.
+
+“Third Ranked Beauty, and conqueror of Black Iron Mountain. It is a shame you couldn’t bring back that 2nd tier core… It would have helped my 10th level qi refining named disciple reach the perfected stage of his black iron battle physique. Why don’t you leave that old bird farmer and join my Battle Peak? I’ll grant you any rare mortal grade physical type acquired physique scripture you desire, I know innate physique holders like you have the capability of training another.”
+
+A warm black aura surrounds an old man at the back of this room, but Lan Xin walks past like she doesn’t hear it.
+
+The Outer Sect master of the battle peak doesn’t bother pushing any further, as this is not his first attempt to get her to join.
+
+Lan Xin walks away from the collection of Outer Sect peak master halls, and passes a less impressive fortress. This is where many initial stage and mid stage foundation establishment cultivators are resting. Some are old vice peak masters of the outer sect, while others are young disciples of the inner sect that outrank them, some even giving out orders.
+
+An elderly tan skinned man with hawk-like eyes and a crooked smile calls out while leaning up against a building when he sees Lan Xin.
+
+“There is no need to tie yourself too tightly to the sect, come join my Tang family instead. I heard the Jiang family offered you to become a concubine in Lingshi City. I will make you my primary wife.”
+
+Tang Fuchen wears an old Azure Cloud Sect robe, as he has long retired to settle in Lingshi City to build a clan. He is only here because he was promised great rewards by the sect to help out with his financial burdens.
+
+He uncontrollably lets out a cough from old wounds that have only gotten worse during this war, but this doesn't stop him from looking Lan Xin up and down like a painting on display and licking his lips. She only scoffs, not even giving him the respect of an answer back
+
+Laughter comes from far behind him in a neighboring hall, and a younger man’s voice can be heard.
+
+“These Outer Sect peak masters… and weak foundational clans… Their paths are limited, that is why they have been given these small positions of power by the sect at such old ages. They will never have a shot at reaching the golden core in their lifetimes.”
+
+This arrogant voice calls out from a young man in a Blue Inner Sect robe, with the family name Wei embroidered on its collar with an assortment of honorary pins around it.
+
+Him, and two other mid stage foundation establishment cultivators with Han, and Lin family emblems on their Inner Sect robes all look at Lan Xin with lecherous gazes.
+
+“You certainly have some beauty. Become my concubine and I’ll find you enough foundation establishment pills to break through before you turn 35!”
+
+Complex thoughts rush through Lan Xin’s mind as she sees who has just approached her.
+
+This is a member of the main bloodline of one of the Nine Rivers City clans, and a member of the Inner Sect. If there was not a significant war going on, she may have never managed to find herself in the presence of a disciple like this her entire life.
+
+If this were a week ago, she may have contemplated this offer.
+
+Men hitting on her in the Outer Sect, and from unaffiliated qi refining families in various small cities is a daily occurrence. Leading them on, and siphoning every resource she can until they give up on pursuing her has worked well for the last ten years.
+
+If she only relied on the sect’s contribution points and rewards, it would have taken much longer to reach her current level.
+
+It is a perfect system, that is, until the much later stages of qi refinement.
+
+After reaching the 10th level, the bottleneck of foundation establishment has become an insurmountable abyss, just like the bottleneck for most 9th grade trash root cultivators trying to break through into the 4th level of qi refining.
+
+Most 7th grade roots do not dare to try breaking this bottleneck. Though, with the help of her innate spirit grade physique, the odds of breaking through do increase, making her talent closer to that of average 6th grade roots. Even so, without a foundation establishment pill, trying to break through on her own would certainly end in a soul fracture.
+
+The risk of a major soul fracture even with one of these pills is extremely high, that is why the sect refuses to support her any further. Many disciples with 6th grade roots prepare for decades and do not attempt a breakthrough until they are at least 50. Having a working 10th level qi refiner for many years to come is far more profitable than a potential waste of materials and a crippled useless cultivator.
+
+She had her eye on a few foundation building clans, like the Jiang family for example, that she considered marrying herself into to finally reach the next level.
+
+Now, as one of the main bloodline Wei family’s heirs openly proposes she give herself to him, and two other heirs from strong families in the Verdant Prefecture all look at her with lust filled eyes, a reaction comes out of her mouth that even surprises her.
+
+“I’m in no need of your resources. I already have my own plans!”
+
+Her face turns red as strange emotions rise up inside her.
+
+The Wei family heir’s eyes widen in surprise, but he quickly adjusts his stance and reacts, snorting back,“I- I was just kidding! I wouldn’t want a 7th grade trash like you muddying the main branch of the Wei family bloodline anyway! You’re better off settling with a weak clan like the Tang family, their main bloodline is no stronger than our branch families stationed beside them in Lingshi City! ” This remark is followed by the disciples behind him laughing.
+
+Tang Fuchen’s face turns sour, as he’s not only been rejected by Lan Xin, but made a fool of in front of powerhouse clan heirs.
+
+Lan Xin has completely tuned them out, walking away from the main fortress filled with wandering eyes, and toward her private cultivation chamber in this battlefield camp.
+
+Dozens of late stage qi refiners try to stop her for conversation along the way, and many present gifts before even saying a word, but she ignores them all.
+
+Her soul is twisting and shifting about in turmoil.
+
+Not only is the minor soul fracture she received acting up, but the pressure of the perfect grade fire stone being refined inside the serpent that swims inside her soul is overflowing with red hot aura.
+
+There are wisps of golden heavenly aura seeping out of the stone, as unknown to her, it is a product of a system upgrade card.
+
+The dark red perfect grade fire stone she received as a war reward shows nowhere near the same vibrance and intensity as the one burning in her chest.
+
+It makes her fair skin hot, and imagery of the young mysterious dark haired Martial Elite that gave it to her won’t leave her mind.
+
+In her moment of weakness, he somehow killed a foundation establishment strength demon. A phantom, known as the most deadly enemy in this war. She remembers glimpses of an enormous white sword slaughter array that was triggered, but the feeling etched deepest into her soul was a sensation shrouded in dark flames, and ancient eyes.
+
+It is all very blurry and confusing. However, there is one thing she knows for certain, this Li Hao is no ordinary steward that accidentally made their way into the center of Black Iron Mountain...
+
+Lan Xin quickly makes her way back to her private abode, locks the door, and sits down to cultivate and calm herself down.
+
+–
+
+5 full days pass.
+
+In Lingshi City, far away from the undeveloped wilderness, deep within the safety of the Azure Cloud Sect’s territory, an important meeting is being held.
+
+There are four cultivators in the Green Spirit Apple orchard at the Wang Family’s estate.
+
+Wang Ming and Mu Shulan are sitting on Mantou’s back while the green feathered eagle slowly circles above them.
+
+“Ming’er, what do you think our grandparents are talking about?” Mu Shulan asks, letting out a sigh, laying back and looking up at the blue sky.
+
+The color in Wang Ming’s face has returned to its rosy hue, and after a few feasts, his weight has returned to its heavyset state.
+
+The soul metal is now tied by a high grade black string, and worn around his neck at all times. Every time the dangerous invisible aura of his budding gluttonous intent attempts to destabilize his soul, he can tap into the soul nourishing abilities of this valuable treasure.
+
+“Lan’er, it’s probably about both of our families’ finances. The last few months have been quite hectic.”
+
+Wang Ming lies back too, and stares up at the blue sky, occasionally having his vision blocked by passing leaves or a circling eagle.
+
+“Do you think Li Hao can help? He’s… kind of scary, don’t you think? He must be from one of the powerhouse families in the capital Nine Rivers City.”
+
+Wang Ming shrugs, “I don’t know what his true backing is, but I do know he saved my life, and helped me awaken my intent. Someone with these capabilities and knowledge must already be well informed on family power struggles. If he wants to help, he will.”
+
+On the other side of the orchard, two old men both at the 6th level of foundation establishment talk.
+
+“Old Wang, I want you to have this. We’re getting on in our years, and I can’t see you struggle with a soul fracture this severe.”
+
+The Mu Family Patriarch hands a small piece of white tier 2 low grade soul jade over, knowing the compensation from the sect after battling in the west will not be enough to fully heal all of his injuries. Especially at this stage in his life.
+
+“Old Mu. I appreciate the gift, but you know as well as anyone this will only prolong the inevitable. We both survived in the last great war against the Blood Sword Sect, over 150 years ago… They may have called a cease fire today, but tensions will not stop rising. We must prepare our families for the worst.”
+
+The Mu Patriarch nods slowly, and looks across the orchard at the pair of younger ones laying on Mantou’s back.
+
+“Your boy has awakened the gift your great ancestor had. He will surpass you in time.”
+
+Old Wang nods, following his gaze.
+
+“Mu Shulan is not far behind. She may not have reached the late stage yet, but her spirit root’s grade is the highest your family has ever produced. I’m sure she’ll have no trouble practicing your Mu Clan’s unique physique once her pathways are mature enough. It is a fine work of fate that they get along so well. If it wasn't for the increasing Jiang Family pressure, we could have made this clan union on less rushed terms.”
+
+“There is no better time than in the midst of chaos to bring us even closer.”
+
+Both men smile, and watch the tranquil day pass by.
+
+–
+
+On the other side of town, a red haired 3rd level foundation establishment cultivator yells furiously into a communication talisman in the back of the Jiang Family General Store.
+
+“Patriarch Jiang Duo! I’m telling you, there was no one else on that mission! The Wang family boy, and that Mu family girl, they were the only ones with any grudge against my son present. There is no way he died to a 9th level blood demon like the report says, Jiang Ran was far stronger than that. Even if he faced that reported 10th level blood demon, I gave him a low grade tier 2 defensive talisman to always wear, he would have made it out alive. We must speed up our plans to crush their families and take over Lingshi City. This is no longer a matter of profits alone, this is for vengeance!”

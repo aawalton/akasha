@@ -1,0 +1,159 @@
+---
+id: c7690eef-8827-564b-98dc-77f871d887b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-Nine: Recruits"
+slug: 0040-chapter-thirty-nine-recruits
+partOf: flesh-eater-demon-evolution-litrpg
+position: 40
+ownLength: 2669
+unit: words
+publishedAt: 2025-11-06
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2738916/chapter-thirty-nine-recruits"
+royalRoadId: "2738916"
+---
+
+“You didn’t have to come with me, you know.”
+
+Callan was invisible right now, so Pyre couldn’t see him beyond a slighter bluer splotch in her thermal vision eye. That being said, she was pretty sure the ghost was scowling.
+
+After testing out her arm, the demon had wrapped bandages around the rest of her body before [Flesh Sculpting] hit its maximum duration. Her face was left alone—she’d been tempted to wrap some bandages around that too, but according to Callan, covering too much of her face would make her look even more suspicious, and she had to be at least somewhat approachable if she didn’t want to be subjected to nonstop questioning. So, she stopped the bandages at her neck and instead focused on keeping her face contorted into the right shape.
+
+Thankfully, the bandages did indeed hold up the whole night. As long as she actively warped her body every few hours or so to get ahead of her flesh’s slow blob-ification, she should be good on that front.
+
+Her face, on the other hand, had definitely half-melted a few times as she got the hang of constantly concentrating on it. She was better now, though. The trick, she’d learned, was to maintain a nonstop low awareness of her features. She’d taken to repeating face face face face as a running thought until she’d successfully gotten it stuck in her head like a very monotonous and not at all catchy song. Lo and behold, it actually worked. Her face hadn’t deformed once since then.
+
+Callan hadn’t looked very impressed when she’d explained her strategy. Apparently his own methods for staying opaque involved a lot more active effort and suffering.
+
+“Just make sure your horns stay hidden,” the ghost had said. A tiny bit of accidental face-melting could be excused with the ichor-warping backstory. Horns couldn’t be.
+
+At least her horns were in the same general area as her face. As long as she kept that constant awareness of her head up, she should theoretically be fine. She’d already managed the whole night with only a few minor hiccups at the start, so Pyre was feeling pretty confident overall.
+
+When the sun rose that morning, the demon had rearranged her bag and all her new items to better fit her “traveling mercenary” background. That included sliding the now-cleaned dagger into the scabbard belt she (Callan) had bought, moving her remaining coins into a less obviously fucked-up pouch, and shoving Pax’s map and the class crystals into a discreet part of their “camp”—aka below a giant rock where no one would be able to find them.
+
+Pyre had also decided to keep [Regeneration] off to avoid accidental flesh growth, and after some consideration, she’d turned off [Vibration Sense] too. Right now it was mostly white noise. When she had time to actively train the trait and figure out what each vibration frequency meant, she’d turn it back on.
+
+Throughout all these preparations, Callan kept repeating the backstory they’d hashed out under his breath. You would’ve thought he was the one going in with how stressed he was, the demon thought in amusement. He only stopped when the sun was high in the sky and it was time to head into Magrath again for the actual qualification exams.
+
+“I just want to see what the tests’re like,” Callan muttered by her ear.
+
+They’d made it past the city gates without issue, and Pyre was currently strolling down the street, her cloak billowing a little behind her as she moved. The constant murmurs of passersby meant Callan could actually talk pretty loudly without anyone noticing the disembodied voice floating around.
+
+“And,” the ghost continued, “they’ll probably make you fill out application forms when you get there. I can help with those.”
+
+Well, the demon certainly wasn’t going to say no to low-effort paperwork filling. It was a good argument.
+
+Pyre hummed in agreement and turned down the next corner at Callan’s direction. Now that they’d left the main road, the crowds immediately thinned out some. She squinted between the buildings. They were quickly approaching the garrison.
+
+“Remember, don’t act suspicious. Pax’s charm will get you past the species spell wards, but you’re definitely going to get a lot of scrutiny even after that.” He was rambling again, the blue gradient representing the ghost buzzing back and forth like an overactive fly. Pyre snorted.
+
+“Chill out. I can see you hovering everywhere, you know.”
+
+Callan didn’t get a chance to respond to that, because when the demon turned the next corner, they were suddenly face to face with the garrison.
+
+Well, mostly face to face. They still had a whole street separating them, and they couldn’t get any closer right now either on account of the metric shitload of people lined up in front of the base’s gates.
+
+The garrison itself stood mostly hidden behind sprawling stone walls encircling the property, but Pyre could see that the gates were open—albeit with several guards watching. In front of them, a long wooden table had been set up to manage the three lines of prospective cadets. There were, indeed, stacks of papers on the tables, and the demon could see a nervous-looking group of recruits waiting by the gates. It looked like once you made it past the sign-up table, you were escorted in groups of ten into the base itself for the physical portion of the testing.
+
+Pyre’s gaze shifted over to the crowd of people lined up. Most of them looked quite young, around Callan’s age. Probably late teens to early twenties, which made sense considering the low class and level requirements. Several carried weapons while some others looked like prospective mages or healers. Expressions ranged from anxious to cocky to cautiously optimistic.
+
+The demon’s height and build automatically made her stick out like a sore thumb, and several eyes turned to her as she stepped into the back of the leftmost line. Her age was probably also a factor. Her human disguise appeared somewhere in her thirties, which was noticeably older than the vast majority of prospective cadets. She wasn’t the only older recruit around, though. A little ahead of her in the right line, she could see a grim-faced man probably in his mid to late forties standing silently while the kids around him chatted.
+
+“Next!”
+
+The yell came from the tables, and it was loud enough to carry all the way to the other end of the street. Pyre even thought she heard an echo. Damn. Either that guard had the strongest lungs known to man, or he was using some kind of voice amplification skill. Probably the latter.
+
+“—think you’ll make it?” someone whispered. Her eyes shifted back to her own line, where a trio of teenagers stood huddled together a little ways in front of her. One of the other two snorted.
+
+“Please, they’re desperate for recruits. Getting in’s going to be easy.”
+
+“Yeah, but they separate you into different classes based on skill level, right? It’d suck to get stuck in the worst one.”
+
+“Says you. I’m just in it for the money.”
+
+“Woah there, where’s your Auren pride?”
+
+“There’s gonna be more than enough patriotic cadets to make up for it. Like that guy. He’s got enough energy for five recruits, I’d say.”
+
+The teenager nodded his head to someone near the front of the middle line. He was a bit older than the group talking, but probably still early twenties at most, and he was practically vibrating in place. The guy even had armor on—albeit ill-fitting armor that was pretty clearly inherited. Even meticulous cleaning couldn’t hide the old scratches and wear marks. Pyre did note that the faded symbol painted into the breastplate was the same as the one flying on the flags over the garrison. It was probably Auren’s official country emblem or something.
+
+The recruit-hopeful didn’t seem to be aware of the eyes on him, instead practically bouncing on his feet as the line moved up again. Pyre snorted in amusement. Yeah, there was definitely a good mix here. The garrison would have its pick of recruits.
+
+“Next!”
+
+The line stepped forward again. Thankfully, they seemed to be moving pretty quickly. By the gates, the next group of ten were led into the garrison.
+
+Pyre directed her attention back to her surroundings, and she caught one of the teens who’d been talking earlier staring at her. When their eyes met, she raised an eyebrow at him. He froze a little, then quickly spun around and began muttering with his friends again, too quiet to hear. The occasional glances tossed in her direction made it clear what they were talking about, though. The demon chuckled. Not at all slick.
+
+Through her thermal vision eye, she could see the splotch of blue representing Callan inching closer. In his incorporeal and invisible state, he could fully pass through objects without being noticed beyond a slight chill, but it seemed like he was being extra cautious just in case.
+
+“Next!”
+
+The lines moved forward again, and after a few more rounds, Pyre soon found herself approaching the front. Now that she was closer to the garrison itself, she could make out what looked like runes and other assorted symbols carved into the walls enclosing the base.
+
+“Wards and alarms,” Callan whispered. Yeah, she’d figured it was something like that. The earring from Pax was a constant weight on her ear. Maybe she hadn’t given the crossroads demon enough credit. This thing was damn useful.
+
+“Next!”
+
+The person in front of the demon moved away, and suddenly she was at the front of the line. There were a lot less people now in general, most having been led into the base already. She’d been one of the last few to arrive, and there were only a few stragglers left behind her.
+
+At the table, Pyre could see a man in a soldier’s uniform scribbling away in a thick book, the pages covered in tiny inked text. He looked a bit harried and was muttering under his breath as he finished whatever he was doing. Finally, he looked up. And visibly stilled.
+
+The demon grinned. “Afternoon. Nice weather we’re having,” she said casually.
+
+The man’s jaw moved a few times as he tried to come up with something to say. His eyes had landed not-so-subtly on the bandages before moving back to her face. Finally, he coughed and cleared his throat.
+
+“Good afternoon. You’re here to join the garrison?”
+
+“Yep.” She pronounced the ‘p’ with a pop. The woman sitting at the table next to them glanced over, brows furrowed as she tossed a concerned look to her coworker, who waved her off. Callan might’ve been right to be so paranoid. Apparently being very tall and built and wearing a lot of bandages automatically made you look like a threat. And she hadn’t even done anything yet, Pyre thought in amusement.
+
+“Can you state your name and age?” the soldier continued.
+
+“Pyre. Thirty-four.” She’d thought about using a fake name, but she would probably forget to respond to it. And apparently only nobles had last names, so it didn’t matter if she didn’t have one. The age was just a random number that matched her human form’s appearance.
+
+The man’s eyebrows rose a little at the name—apparently people in this world didn’t typically call their babies ‘Pyre’—but he dutifully scribbled it down.
+
+“Class and level?”
+
+Ah, there it was. According to Callan, humans only reached their Tier 2 class upgrade at level 20 since they usually received their class much earlier than a monster would. This meant Pyre could actually be honest about her class level while pretending like she was still a [Warrior].
+
+The flyer had listed a minimum level of 3, though, so for the sake of not sticking out too much, she went with something in the middle.
+
+“[Warrior], level 7.”
+
+The man scribbled that down as well. His next question was slower, more careful.
+
+“What’s your reason for joining the garrison?”
+
+Pyre’s immediate thought was that it was a silly question when 90% of the recruits would probably say that they saw the flyer or needed money. Then again, it was likely meant as a very roundabout way of asking: “who are you and are you trustworthy.”
+
+With that in mind, the demon maintained a casual tone and launched into her cover story. Just the basics, though. She wasn’t giving more details unless they asked for them.
+
+“I’m from Drovna, up by the Shards.” She tapped the bandages wrapped around her neck. “Got hit with a nasty bit of ichor-warping. I ended up leaving and traveling south, did some odd jobs here and there.” She shrugged. “Pretty soon I found myself in Magrath, then I saw those flyers. I figured I could try and do some good with my life.”
+
+The man’s hand moved rapidly as Pyre spoke, jotting down every last detail. He did pause a little when she mentioned the ichor-warping, but he kept going, which she took as a good sign. It meant her backstory wasn’t so obviously fake that he was already calling bullshit, at least.
+
+“You’re a good liar,” Callan muttered quietly by her ear. Hell yeah I am, Pyre thought. Possibly because she felt zero guilt about doing it.
+
+In front of her, the man finally finished writing. He ripped out the page, then reached over to one of the stacks beside him and pulled out a slip of paper to hand over to Pyre. When she looked at it, it simply read “84.”
+
+“Your group will be led to the training grounds for the physical portion of the exam,” he explained. “They’ll call your number when it’s your turn.”
+
+Behind him, one of the guards waiting by the gates stepped forward, and he handed the sheet he’d been writing on over to her. The woman was older, with short dirty-blonde hair, blue eyes, and hard features. She eyed Pyre suspiciously, but gestured for the demon to follow. She did so without hesitation, folding the paper slip and stuffing it into her pants pocket before moving to join the small group of recruits currently waiting by the gate.
+
+The moment she approached, several eyes moved to her, but she ignored them. A quick sweep revealed that the other recruits here were all younger, and since there were nine already, she was the last in this batch.
+
+The guard who’d led her over walked to the front of the group and cleared her throat. “We will be entering the garrison soon,” she announced. “There, you will be tested on your physical abilities. Should you meet our minimum requirements, you will be placed into different classes based on your skill level and potential.”
+
+The guard’s eyes shifted briefly over to Pyre, then back to the group as a whole. She continued.
+
+“As a standard precaution, please hand any weapons, bags, or other personal belongings over to a guard before entering the garrison. These will be returned to you after the exam.”
+
+Figures. Pyre detached the dagger from her belt and tossed it into her bag before handing both over to the closest guard. It was a good thing she’d left the map and class crystals behind. Technically there was nothing illegal about them—she’d purchased those crystals with her very own stolen coins, thank you very much—but they might be hard to explain with her current cover story.
+
+The guard who took her bag gave her a sideeye, which she met with a wide, probably uncanny grin that promptly made him look away again.
+
+“I said don’t be suspicious,” Callan hissed in her ear. In her defense, she thought smiling was a perfectly normal, human thing to do.
+
+The guards did another walk-around to double check for any hidden items they’d missed. Once they were satisfied, the guard in the front nodded and clapped her hands together.
+
+“Follow me,” she said. She then turned and stepped through the garrison’s gates.

@@ -1,0 +1,173 @@
+---
+id: a792d42c-3cba-5e86-a850-d6f7a66a036b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 517: A Bold Strategic Maneuver"
+slug: 0557-chapter-517-a-bold-strategic-maneuver
+partOf: dungeon-of-knowledge-complete
+position: 557
+ownLength: 3442
+unit: words
+ownProgress: 3442
+publishedAt: 2026-01-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2977619/chapter-517-a-bold-strategic-maneuver"
+royalRoadId: "2977619"
+markedReadAt: "2026-06-29T20:31:14.528Z"
+---
+
+Ali hovered beside her friends right at the threshold between her domain and the dark twisted corruption that lay beyond. The tangled barbed wire of the dungeon rage tore through her mind unceasingly, and yet she found herself able to bear the agony surprisingly easily.
+
+Not quite as bad as Domain Withdrawal, she observed with a wry inner sarcasm. Perhaps practice really does make perfect.
+
+The dungeon beyond the fragments of the shattered first barrier lay cracked open and waiting before her like a split coconut, but desolate and seething with corruption. Unfortunately, the barrier dropping had revealed a whole host of monsters that had not been visible before. Purple spider-like creatures crawled about restlessly, their geometric bodies glowing through the blackened sludge that splashed up from the ground. Strange quasi-creatures made of interlocking spinning disks careened about above them, orbiting elementals seemingly fashioned from perfect glowing cubes of barrier magic. And interspersed among the sea of purple elemental beings, hovered wraiths and banshees that filled the air with mournful wails and mind-crushing shrieks that meshed discordantly with the low moaning of the writhing mass of zombies and ghouls.
+
+The barrier concealed most of this somehow.
+
+It was a small detail in the grand scheme of things, but it meant that all their carefully laid plans, maps, and scouting might be for naught, and they were effectively stepping into the unknown once more.
+
+“Tanks in front! Refresh Mental Fortitude! Let’s move out,” Lyeneru commanded, and like a well-oiled machine, the guild’s finest rolled forward into the dungeon, archers pulling nearby monsters onto the tanks with well-placed shots, while the control mages ensured that they were not immediately overwhelmed.
+
+Ali flexed her wings into a shimmering hum and flew in with the rear-guard, the mages and healers, entering the dark, oily clouds of corrupted mana billowing outward.
+
+You have been afflicted with Soul Well Corruption.The twisted presence of the Corrupted Soul Well tears at the essence of your being.+3 Soul damage per second to mana.+3 Death damage per second. Undead are healed instead of damaged. Corruption – Aura.
+
+Instantly, the chill of death’s withering clutch invaded her body, and mana began hemorrhaging from her pool.
+
+Ouch, Ali winced. It was hardly enough damage to worry her, and any single person would be trivial to keep alive under such a corruption. Especially one with her high wisdom and resistances; however, her eyes surveyed the guild’s raid group of nearly fifty people with unease. Not to mention her own horde of minions, which were also being affected. Across the entire group, healing magic began to sparkle and glitter as the priests, paladins, druids, and shamans began to respond to the damage, and for the first time in ages, she eyed the rapidly accumulating corpses kicked under the feet of the slowly advancing raid as potential sources of mana. She flew a little lower, wielding her Deconstruction magic to preemptively restore her mana pool before it got low.
+
+A purple glowing ring appeared under the black sludge, but before she could say a thing, Basir stepped on it. A small projectile of purple arcane magic shot vertically into the air from the center of the ring, leaving black splash marks across the rock armor he was wearing, and as soon as it reached a little over two meters in the air, it detonated with the enormous flash of a high-level Arcane Blast. Instantly, the healers reacted, shoring up health and healing wounds while the tanks continued to bear the brunt of waves of monsters.
+
+“Runic traps,” Ali announced, meeting Calen’s worried eyes. “Under the corrupted ground.”
+
+She deconstructed another shattered elemental in the wake of the advancing raid.
+
+Variant: Theuronic Shard added to Imprint: Elemental.
+
+Another purple ring appeared, and Ali unleashed her golden darts to Dismantle it, but more and more appeared, and under the onslaught of undead and glowing arcane elementals, the large raid group had little choice but to discover them the hard way. Pretty soon, the moans and wails were augmented by the steady staccato thunderclaps of detonating arcane magic.
+
+But, even under such an onslaught, Ali had to marvel at the sheer power and efficiency of the guild’s raiding machine. No single role could have survived for long, but together, thanks to countless hours of training and battle, they endured. The tanks had spread out, forming an impenetrable wall ahead of their less armored friends, drawing every single monster to themselves with their Taunt skills. The archers, hunters, and rangers had spontaneously set up a rotation system for targeting the wraiths and banshees with anti-flight control skills, dragging them down to the ground to be mauled by the melee below. And the healers kept everyone alive with looks of grim focus and concentration on their faces.
+
+Still, Ali had become accustomed to gauging the mood of the raid. Despite the focused faces, this was far from dangerous. For now. She swooped down and deconstructed another.
+
+Variant: Keldrane Resonator added to Imprint: Elemental.
+
+Detonations of hellfire filled the air with acrid brimstone and smoke, while the ice mages’ powerful magic turned entire swathes of the dungeon into instant arctic landscapes. Lightning blasts blinded everyone without enhanced perception skills, adding pungent doses of ozone and flying sludge to the atmosphere. Even so, the cacophony of battle was nothing compared to the riotous explosion of shape and color and the formations of magic that filled her mana-sight.
+
+In the close-pressed crush of melee, Ali’s two shamans wove ribbons of healing magic that stitched the fighters with flickering, tangled knots of rapidly alternating red and green. In relative safety, behind the chaotic collision of raiders and dungeon-spawned monsters, her Sylvan druid stood tall, towering over her tiny kobold priest, both casting continuously, seasoning the raid with high-efficiency spells that pulsed, shone, and glittered as they slowly erased the damage from the corruption, explosions, and the screams of the banshees.
+
+Flames burst from the corrupted ground as her kobold Pyromancer wove her way through the raid in the blink of an eye, using Flame Rush. The moment she arrived in the thick of it, she breathed, bathing an entire flank of encroaching undead in shimmering waves of heat and roaring crimson flames that lingered long after she’d passed by.
+
+Your Sylvan Storm has reached level 140.
+
+Already? Her newly evolved monsters were thriving on the sheer magnitude of the destruction wrought by the raid, tearing through the mob of dungeon spawns, even with the penalty of being part of a huge group. Are we doing that much damage that everyone’s benefiting to the same degree?
+
+“Here, use these,” Ali said, calling the just-leveled archer over and retrieving a pair of Scourge of Deadly Creep bows she had summoned for precisely this moment. Try as she might, any attempt to lower the level of the phenomenal weapon – a nature bow that even Calen was still using much of the time – had drastically compromised its potency. Even dropping it to one thirty-nine lowered the skill boost to ranged skills from two to one, drastically lowering its damage output.
+
+Even if the Deadly Poisons would be of no use against elementals and undead, and the occasional Creep Spore summon might heal the undead with death-affinity-tainted magic explosions, it was still totally worth the upgrade. At level one hundred and forty, the damage increase over the fully upgraded level eighty Howling Hellfire bow was not even worth the comparison.
+
+“Thank you, Ancient,” the Sylvan said, accepting the new bows with a rare smile that made the heavy bark on his face creak. With his lightning enchantments on top of the bow’s direct nature and physical damage, it should put her Sylvan on the same playing field as the other raid archers and pathfinders. And the parasitic activation meant her minion would no longer require healing as long as he kept firing.
+
+The pair of twisted wooden bows rose to the sky while magic crackled within the tree-like sylvan body. He blurred, accelerated by an incredible surge of speed, and a storm of lightning arrows rained down upon the undead and elemental hordes well beyond the tanking line. Blinding flashes and deafening thunder ripped through the battlefield as Lightning Nova detonations augmented the hail of arrows, and across the thick press of monsters, unidentified bits of twisted dark flesh, bones, and shards of purple flew in a gruesome explosion. Thick gnarled roots erupted from the ground, binding everything that was left as the Scourges’ Grasping Roots proc triggered from the devastating twin-area attack.
+
+“So, what do you think?” Calen asked from beside her, not interrupting his steady rhythm of drawing and firing. “Archers are not so bad, right?”
+
+“Mmm… archers are ok, I guess,” Ali said, feigning nonchalance, but she couldn’t keep the grin of satisfaction from curving her lips at the sight of such an impressive display of focused destruction.
+
+Calen just chuckled as he unleashed a ripple of explosions that tore through the rooted monsters her Sylvan had left.
+
+Yes, that will do very nicely, Ali decided, quite happy with the baseline performance of her new archer with the upgraded bows as she eyed the next wave of incoming ghostly spirits. On its own, the Sylvan Storm was a strong archer, and a fantastic addition to her repertoire, but the reason she’d gone to all the trouble of regressing its level and re-evolving it, had hand-picked every advancement, and carefully leveled it to the point it could even wield the bow, had been to synergize with two things. The first was the incredible bow, of course. The second was her ability to boost nature-affinity skills and spell power with Empowered Summoner.
+
+“Watch this,” Ali said.
+
+“Huh?” Calen asked, turning to frown at her.
+
+“Use nature arrows this time,” Ali said, speaking Sylvan to her minion.
+
+“Of course, Ancient,” he said, bowing slightly and raising his pair of bows once more. This time, two flights of radiant green arrows materialized upon the bow, while lightning crackled and curled around them.
+
+Ali fed several thousand mana to Empowered Summoner, right as the Sylvan released the arrows. Instantly, every arrow blazed like an emerald sun, shining so brightly that everyone nearby shaded their eyes at once. When the arrows struck, the ground shook beneath the detonations, and when the smoke and dirt cleared, nothing remained for Calen to clean up.
+
+“Ok, now that’s impressive,” Calen murmured, staring at the carnage. Not a single speck remained of the wave of banshees and ghosts.
+
+“It works,” Ali said. “Just like we thought.”
+
+“And that’s without even the benefits of the poison and Creep Spores,” Calen said in a hushed voice.
+
+“Yup,” Ali said smugly. Even with just the base nature damage and the Sylvan Storm’s enchantments, her Empowered Summoner ability had turned it from merely strong into something devastating. She turned to her friend. “Behold the awesome power of Calen’s notebook!”
+
+“Eh?” he snorted, unable to withhold a huge grin. “Not sure what I did, but I’ll take it.”
+
+Pressing forward into the bowels of the dungeon went far faster with the support of Ali’s newly leveled archers.
+
+“Hold here,” Lyeneru said after almost half an hour of destruction. “We’ve reached the boss. Archers, pull all the trash. Let’s clear the area before we engage.”
+
+Ali looked up from her focus on the raid to find the largest arcane elemental she had yet seen, hovering high above the corrupted ground near the next barrier up ahead. The ground below it seethed with crawling, shambling zombies and ghouls, but the glittering purple geometry of the boss floated quietly, shapes slowly orbiting in a dizzyingly complex dance as if uncaring of the violence and destruction being played out on the ground below.
+
+Galdrone Tetrad – Elemental – level ??? (Arcane) x5.
+
+“Champion boss,” Calen noted.
+
+“Clone,” Ali added, immediately recognizing the formation in the domain mana already. Several adventurers groaned at her declaration, knowing all too well what it probably meant. Once again, they would most likely need to kill all five of them simultaneously lest they respawn each other.
+
+Each individual elemental seemed to be comprised of four distinct glittering purple cubes – semi-transparent constructs of pure mana that orbited each other like a small planetary system. As she studied them, the cubes turned themselves inside out, a mind-bending inversion of the laws of geometry, morphing into octahedral shapes. The faceted surfaces elongated, drawing out into a star-like collection of prisms, and before her mind could become comfortable with that, the center folded away, leaving just rotating prisms that slowly reached the apex of expansion, before contracting back into a collection and reforming the original cubes and restarting the cycle with a subtly different sequence of shapes.
+
+Suddenly, the lazily orbiting geometries of arcane accelerated, unfolding a cascade of shapes that poured like water to the ground, expanding into a pentagonal formation that screamed ‘readiness’ to Ali’s worried mind.
+
+A thin, barely visible ripple of mana snapped outward from the center of the formation, extending broadly throughout the battle zone, easily encompassing the entire raid. And then it began to hum. Not audibly, but visually; an almost imperceptible vibration that raced outward through the deployed arcane mana, ricocheting and bouncing off all the people within its reach, triggering counter vibrations and reflected visual echoes, like ripples in a pond. But without the incredible enhancement to her mental speed from Arcane Recall, and the enormous acuity of her second-tier mana perception, she would never have noticed it.
+
+“It can see us!” she yelled. She had never seen anything quite like it, but she already knew what it was: a perception skill like her bats’ echolocation, except somehow based on mana resonance instead of sound.
+
+Her chime sounded then, like a warning bell.
+
+You have been cursed with Arcane ImpedanceAn almost imperceptibly fine haze of purple domain mana that seems to infect all magic like an arcane plague. Everything suddenly seems more difficult.+450% to the mana cost of spells or activated abilities.Mana Regeneration is reduced to 0%.Curse – Aura
+
+The domain magic curse aura washed over her, bringing with it a powerful sense of fatigue; a mental tiredness that weighed heavily upon her mind, making her mana feel sluggish, viscous, and unresponsive.
+
+Then the mana rippled, and again her chime sounded.
+
+You have been afflicted with Mana InsufficiencyArcane retribution delivered upon the profligate.+63 Arcane damage per second when available mana is below 40%.Magic – Aura
+
+The tanks roared and shouted, engaging instantly at the sound of her warning.
+
+“Go,” Ali commanded. There was no other course of action available to her, so she committed her melee monsters to the battle, having them charge in right behind the tanks. The melee charge shook the ground with heavy stomping and filled the air with the ringing clash of plate armor and the whistling sounds of drawn swords and whirling axes.
+
+Purple light blossomed brightly within the Galdrone Tetrads, erupting as enormous Arcane Blasts that ripped through the crash of the melee group, shredding health as they were caught in the five-way overlapping explosions. Beside her, holy light blazed forth as the nearest Priest of Azryet burned her Devotion in a frantic attempt to stem the carnage.
+
+Ali barely heard the shouted commands as people struggled to cope with the sudden influx of damage, her attention transfixed on the sheer amount of health that had suddenly vanished from nearly a third of the raid as she hastily focused the efforts of her shamans, priests, and druids on the worst wounded.
+
+Light flared again; this time in the pattern of a common Arcane Beam spell. Ali ignored it, simply throwing up a barrier, the spell consuming an inordinate amount of her sluggish mana, while she continued managing her healers. Four blinding beams of light blazed forth from each of the cloned bosses, creating a coruscating crisscross of chaos as twenty beams seared across the raid group in randomly zigzagging arcs of burning destruction. Screams erupted as cauterized limbs went flying, and panic threatened to sweep through the ranks of healers. Vivian’s voice rose, thundering at them to hold the line.
+
+Ali ignored the beam flickering toward herself, instead pouring mana into Empowered Summoner, granting her two nature-affinity healers a sudden burst of power. But as she cast Winter’s Desolate Celerity on them, the beam arced downward toward her, passing through her barrier like a beam of light through glass.
+
+Ali had witnessed this trick more than enough times already. It took less than a moment for her to register what was happening, and instantly she triggered Minion Teleport. But the purple haze of mana around her resonated like a silent gong in response, and the familiar lurch of teleportation failed to materialize. A sudden burst of pain tore through her back as the beam clipped her, destroying a wing and leaving a deep, cauterized wound. Ali gasped, catching her breath. The only thing that saved her was her failed flight – she fell to the ground with a heavy, wet thwack that left her dazed and seeing stars while the sounds of her chimes rang in her ears.
+
+Your Minion Teleport has been Disrupted. Your Minion Teleport has gained +37 seconds Recharge.
+
+“Ugh,” she groaned as she slowly sat up, wincing at the pain radiating from her back and torn wing. But she was not in immediate danger of dying and therefore had the lowest priority for the healers. She would just have to make do for a while. She clambered laboriously to her feet to find a battlefield littered with the wounded.
+
+Her attention was immediately drawn back to the bosses as the domain mana within them surged powerfully, and the sky suddenly erupted with a dense swarm of razor-sharp, spear-like elementals, like a cloud of flying shards that were all glowing with enough purple mana to light up the sky.
+
+Mass summoning, swarm monsters. Her mind, racked with pain, nonetheless still identified the spells she witnessed, categorizing them, cataloguing, and comparing them to prior experiences. That’s three of the domain abilities, she thought. I wonder what…
+
+Calen was screaming something in the distance, but Ali’s attention was locked on the boss. A nova of brilliance bloomed within the center, an overwhelmingly intense formation of domain magic the likes of which she had never seen. The ball of light collapsed inward upon itself, the intensity suddenly spiking, and then it erupted, bathing the entire battlefield in radiant power.
+
+And suddenly, just like that, she had no free mana left. None.
+
+Mana poured from every single one of them, sucked away into the spiraling vortex that was the Galdrone Tetrad.
+
+The purple aura pulsed, and she felt the needle-pricks of arcane damage, but along with it was something extra, mana damage. Her most recent reservation – her Sylvan Storm – snapped, releasing the minion to the throes of feral madness. The damage pulsed again as she scrambled to find one of the mana potions on her belt.
+
+But it was all too late. The soaring squadrons of arcane elementals that had been launched moments before swooped down, raining a barrage of Arcane Bolts upon them. Every bolt that landed stole mana from her reserves. First, the Sylvan Druid, and then her Pyromancer screeched in feral madness as the reservations snapped, wrenching them from her control.
+
+The wounded were stacking up, but nobody but the blood shaman was healing, and suddenly Ali found herself scrambling for a healing potion instead of mana.
+
+Just as she was about to shout, Lyeneru’s voice cut clearly through the din.
+
+“Evacuate! Escape potions, now! Get everyone out!”
+
+Ali’s worried eyes sought out her friends. There had been a time when she had woken up, stranded in the Abyssal Realm with her mana pool completely drained. It had been there, under attack from Hellfire Wargs, that she had learned the limits of a storage enchantment: without mana, your escape tools may as well have been left in a different realm. That experience had changed so much for her, but she had never been so glad she’d insisted on a minor change to guild raiding preparation as she was right then. Every single raid member carried an alternative escape tool that did not require mana. Recall potions glittered as mages and healers tugged them off their belts, while the melee retrieved snappable wands or tear-up talismans that were less prone to shattering in combat from ordinary pockets, and everyone began vanishing in good order.
+
+Ali dropped her recall potion on the ground at her feet and felt its familiar smoke magic tugging her away.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

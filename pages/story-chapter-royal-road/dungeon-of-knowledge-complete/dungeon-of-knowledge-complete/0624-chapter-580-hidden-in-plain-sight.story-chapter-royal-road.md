@@ -1,0 +1,159 @@
+---
+id: 37a3a43d-61a6-5386-afbd-274e1851b44a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 580: Hidden in Plain Sight"
+slug: 0624-chapter-580-hidden-in-plain-sight
+partOf: dungeon-of-knowledge-complete
+position: 624
+ownLength: 2429
+unit: words
+publishedAt: 2026-03-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3180119/chapter-580-hidden-in-plain-sight"
+royalRoadId: "3180119"
+---
+
+Mato roared at the Elder Red Dragon taunting him from behind the transparent black shield and stamped his paws in frustration. He swiped his claws across it, but they screeched ineffectually along the surface, skittering and scraping as they had every time so far. He growled. This was the first thing he had ever encountered that he could not tear to shreds with his void claws. At best, he’d managed to leave infinitesimally fine lines scored across the surface, but those faded within seconds.
+
+It was bad enough that his prey stood in clear view right before him and was as unreachable as if he were stuck on a different continent, but the reverse was not true. A massive blast of flame passed through the barrier in the opposite direction, as if taunting him with his inability to retaliate. He blocked most of the damage with Spell Breaker.
+
+Your Fire Amplification has reached 287.
+
+Ouch, that’s ugly! They were going to need to give up soon. He could see the dragon standing right in front of him, gravely wounded. But although they were separated by only a few yards, the glittering black shield meant it may as well have been another realm.
+
+The first thing the scouts had tried when it became clear they couldn’t progress had been to find the edge of Artur Dragonsworn’s aura range. Dropping Fire Amplification had become a priority, but none of them had found the edge. It was as if his aura filled the whole dungeon. While giving up was not in his nature, Mato couldn’t see another way.
+
+“Mato! Get ready,” Calen shouted unexpectedly. Across the entire raid, dejected adventurers’ heads perked up.
+
+“What?” he asked, tilting his head slightly to catch his friend in his peripheral vision. “Ready for what?”
+
+“It’s Ali! She’s doing something.”
+
+Suddenly, the mana in the room began to stir. He could see it, swirling slowly, but gathering speed. Like a giant vortex, it circled the altar, as if drawn in by a huge drain. Faster and faster it circled, until it began to howl, a tornado of mana that was being sucked out of the dungeon by … something.
+
+Go, Ali! he cheered.
+
+Ali’s job had always been figuring out the complicated stuff, and this was just like her usual self. Somehow, she had found a way. All the way through this Crypt of Kings, he had been missing her, but now, it seemed like she was right here fighting beside him. Just like normal.
+
+And his job was to hit stuff and block things.
+
+On the other side of the barrier, a strangely transparent blob plopped down on the throne. Even as he wondered what it was, it turned inside out and opened something that looked like a hole to elsewhere.
+
+A glittering golden butterfly popped out, flapping its wings lazily as it rose in the air. Artur’s draconic eyes tracked it warily. Another popped out, followed by a growing stream. Then, as if a dam had ruptured, a torrent of golden sparkles and sizzling darkness burst forth from the maw, spilling across the throne and the ground. Several jets struck the inside of the barrier wall, and, to Mato’s surprise, it began to sizzle and boil as if afflicted by some ethereal disease.
+
+All about Mato, the mana began to howl as it was sucked in toward those hungry golden tendrils, and as the domain was ripped from the dungeon, the dark, glittering shield flickered in response.
+
+Mato grinned broadly. This is it!
+
+He drew back a paw and lashed out with his claws, and this time they bit into the faltering magic. Bit deep.
+
+Yes!
+
+Cracks radiated from where his void magic impacted the shield, and he struck again with new hunger afire in his heart. This time, nearly invisible shards tinkled to the ground, and the flaming aura flickered as it was drawn toward the still-howling maelstrom.
+
+Shouts of alarm and jubilation mingled as the adventurers all sprang to their feet and dove for their weapons.
+
+Mato cast Giant Growth in an instant, lowered his shoulder and charged, summoning a pair of void shields to boost his impact. The previously impenetrable shield shattered around him. His barreling charge burst through the barrier and, as he crashed right into the enraged dragon waiting behind, a golden mana butterfly alighted on his nose.
+
+Thanks, little one!
+
+Flames roared from the dragon’s fanged maw, tearing at him with ravenous fury, and he reacted by using Last Stand. His Fire Amplification was multiplying the damage of the draconic flame by nearly four times, and there was no way the healers would be able to keep up without help.
+
+I still have Shield Wall for the next one. It would be touch and go after that, he was sure, but he was certain he could rely on Havok or Sabri to taunt the dragon off him at the critical moment and use one of their own potent defensive buffs.
+
+A gleaming claw parted the flames, slashing in from his right, but the moment he used Critical Block, the flames were blasted away in a spherical zone of vacuum.
+
+Healing spells fell upon him like rain, but he ignored them, trusting the probably panicked healers to do their jobs.
+
+If they can’t do it, I won’t be around to care. He chuckled inwardly. Fresh-toasted bear.
+
+While he grinned, he kept blocking, getting as much out of his Spell Breaker and void shields as he could to simply take the edge off the damage. As soon as the immense breath weapon faded, he rushed past Artur Dragonsworn, forcing him to turn toward him – and away from the raid.
+
+“Got him locked down,” Mato confirmed as soon as he was able.
+
+“Bloodlust!” Calen roared in an uncharacteristically emotional outburst. “Maximum damage! Kill that dragon!”
+
+Seconds later, the pack of rogues and warriors descended, taking full advantage of the flame-free back and flanks of the dragon he had just exposed to them.
+
+Now, mister dead dragon, let’s see if you like round two!
+
+Calen stared dumbfounded at the altar, and the sudden vortex of mana butterflies ejected from what looked like an incomprehensible cross between an ooze and a portal as his eyebrows tried to climb off the top of his face. He had seen Ali pull off incredible feats so often, he had sort of come to expect them by now, and when her kobold had warned him, he had thought nothing of signaling the entire raid, expecting something big. But this…
+
+Wait, is she… draining the dungeon? How? Where to?
+
+Somehow, from half a continent away, Ali was ripping the very mana out of the Crypt of Kings with so much force that he could it tearing past him like a gale. It whipped his hair, causing gasps of astonishment from the raid team. It nearly snuffed Artur Dragonsworn’s aura of flame several times, hurling smaller pieces of debris – leftover remnants of the more destructive battle spells – flying across the chamber to ricochet off the dark, glittering shield that had so frustrated them for the last fifteen minutes.
+
+It's losing power!
+
+But he didn’t have to say a thing. Mato roared and smacked it with his claws, and to Calen’s astonishment, he saw a fine network of cracks appear, a sudden spiderweb at the site of impact. Impossible! That Ali – she did it! She found a way!
+
+“Get ready!” he shouted, suddenly finding his voice. “Healers on Mato!”
+
+A flurry of activity burst across the raid like a rippling wave as healers and mages gulped down expensive mana potions, and damage dealers readied swords and bows. Calen nocked a special arrow he had commissioned from Thuli – more than fifty gold for an elite, armor-piercing enchantment paired with a magical damage multiplier and a momentum increase. His vision narrowed as he focused his Eyes of the Archon. His stamina built rapidly. Trajectory computations flickered across his focused awareness, automatically taking into account the howling flow of mana and Mato’s proximity to the target.
+
+He fired, and all his Mirror Images duplicated his attack instantly.
+
+A loud crack echoed through the room as the flight path of his arrow tore a swirling tunnel through the howling mana flow and crimson flames, leaving angry vortices spinning away from the passage. The arrow connected with the dark barrier, timed precisely with Mato’s furious charge.
+
+And the combination of his Power Shot and Mato’s heavy melee combo was enough.
+
+Cheers and joyous shouts burst from the beleaguered adventurer group at the sight of the barrier shattering – a hole large enough for Mato’s Dire Bear to barrel through, even under the influence of his Giant Growth. Shards and splinters of previously impenetrable magic spell exploded outward in a tinkling shower of destruction, contending against the whistling wind of mana that was being drawn in toward the… what the heck is a Wobbling Wormhole? Whatever it was, partially disintegrated oozes were spilling out of its maw in droves, and a torrent of sparkling gold and black magic spewed outward, clawing its way through the domain of the Crypt of Kings like a living plague.
+
+What the hell did Ali do?
+
+Then the world ignited as the Elder Red Dragon within breathed flame, and Calen’s focus sharpened. There would be time for questions later – they had a dragon to kill.
+
+The shouts of joy suddenly became a chorus of alarm as the healers scrambled for their emergency skills, but Mato was a consummate main tank, understanding his role with an intuitive nuance that defied logic – and his healers were battle-tempered and highly trained, capable of dealing with even the greatly amplified dragon’s breath. They emptied entire bucketsful of frenzied heals heaped over his head, fighting tooth and nail to keep him up on his paws.
+
+Skills exploded in a flurry of power and light, but Calen left them to it. His job was damage.
+
+“Bloodlust!” Calen yelled, triggering Righteous Fury. Ali had broken the stalemate and granted them a window of opportunity. A window he did not intend to waste. “Maximum damage! Kill that dragon!”
+
+The ranged raid members unleashed a storm of spells and arrows, while the melee swarmed forward like a horde of excitable ants around the mighty Dragon’s flanks and thighs and swung their weapons with great shouts. Oozes spilled from the portal on the throne, coalescing and swarming the dragon’s flanks, weighing down its wings. Detonations rocked the chamber as the attack gathered momentum.
+
+It was only when the Bloodlust and the Righteous Fury faded that Calen realized he had usurped Lyeneru’s role as the raid leader. He glanced over at her furtively, but she was wearing a broad grin on her face as she unleashed the fury of her lightning-enchanted bow into Artur Dragonsworn’s staggered and wounded draconic form.
+
+“One percent!” Tegan shouted.
+
+Suddenly, the dragon reared back, his enormous, scaled body covered with countless bloodless slashes. He shimmered briefly, and then his shapeshifted transformation overcame him, and he twisted back into his human – or rather Death Knight – form.
+
+Calen’s breath caught in his throat as he held a thrumming arrow on a fully drawn bowstring. Is he…
+
+“You may have defeated me,” Artur boomed, his voice still powerful enough to resonate through the huge throne room. “But I fear the Lich will merely bring us back. I pray you find a way to release us from this eternal torment.”
+
+The fire aura flickered once and went out, dying like a spent candle, and the Death Knight hit the ground with a great ringing crash. In the sudden silence that filled the chamber, several chimes sounded, ringing in rapid succession.
+
+Your group has defeated Thaldorien Stormshaper [The Inscrutable] – Greater Elven Wraith – level 291 (Lightning)Your group has defeated Bragni Doomhammer [The Hammer of Justice] – Undead Dwarf – level 287 (Holy)Your group has defeated Artur Dragonsworn [The Rule of Law] – Undead Human – level 318 (Fire)Realmstrider Ascendant has reached level 266 (+16)+160 attribute points.
+
+Having seen proof of their victory, Calen ignored the rest of the messages, instead summoning several motes of light right in front of the altar and teleporting directly to it. He snatched the floating black prism of stone out of the air.
+
+Bind yourself as owner of the Crypt of Kings shrine? This action is irrevocable.
+
+As he dismissed the message and moved the artifact into his ring’s storage enchantment, a muted burst rippled outward through the dungeon with himself as the epicenter. It radiated through the walls of the throne room and beyond as the domain itself unraveled, no longer sustained by the artifact he had just removed – and the Crypt of Kings dissolved into a gigantic cloud of unbound mana motes, leaving only the golden mana butterflies and the strangely ominous pulsing gold and black mana that still consumed every last remnant of the Lich’s dungeon.
+
+Thank you, Ali. Whatever that was… He bit down on his thoughts, his fear. Someone still had to end this.
+
+With that, Calen reached across the altar and grabbed the alabaster urn that only he could see. The phylactery resisted his pull, but it came free with the reluctance of a tree stump being dragged out of mud, and the moment he removed it from the altar, the enchantments concealing it from view collapsed.
+
+“Is that…” Lyeneru began.
+
+“…Nevyn Eld’s Phylactery,” Calen finished. “Yes.”
+
+He triggered his storage enchantment, but the magic failed to grasp the Phylactery.
+
+“Let’s go home,” Mato said. “See if Ali and Malika need some help. Do you think they saved some fight for us?”
+
+“You’re crazy, Mato,” Calen said, shaking his head. I guess I’ll have to carry this thing, he thought, eyeing his friend who was grinning from ear to ear.
+
+“Yes, but you know me,” Mato said.
+
+“They left us an army of the Lich’s dead outside the walls,” Calen offered.
+
+“Perfect,” Mato said, cracking his knuckles. “A good way to test out all these levels.”
+
+Calen sighed. Against all odds, they had somehow succeeded in their crazy plan, this half of it, anyway, and a large part of that was due to Ali’s incredible ingenuity. But Mato was right, Ali and Malika were facing the Lich himself, and there was still an army of undead assailing the walls of Myrin’s Keep. It would be best if they returned to help with all due haste.
+
+“Ok, let’s go,” Calen said. He was anxious to see his friends again.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

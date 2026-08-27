@@ -1,0 +1,137 @@
+---
+id: c6a80886-d082-5855-aced-c416bf0877bf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 362: Jewelry is a Dungeon’s Best Friend"
+slug: 0399-chapter-362-jewelry-is-a-dungeon-s-best-friend
+partOf: dungeon-of-knowledge-complete
+position: 399
+ownLength: 2250
+unit: words
+ownProgress: 2250
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2560436/chapter-362-jewelry-is-a-dungeons-best-friend"
+royalRoadId: "2560436"
+markedReadAt: "2026-06-29T20:25:30.918Z"
+---
+
+Ali opened the squeaky door and entered the tiny, cramped store. It stank of flux and solder, and a haze of fine dust hung in the air, sparkling in the sunbeams. Wooden floorboards creaked beneath her feet as she picked her way around stacked boxes of supplies and a few workstations with their well-used grinding disks and polishing machines. The low ceiling with a single hanging glowstone didn’t bother her much, but Mato or Calen would need to stoop low to avoid bumping their heads.
+
+A muttering Gnomish crafter sat bent over her desk, studying a small gem as she wielded delicate, curved pliers and an inscription stylus that shone with flowing mana.
+
+Tiny boxes spilled crystals of various brilliant hues onto the desk, and silver wire tangled with discarded tools. Several intense work lamps were aimed at the subject of her crafting, and three open books displayed intricate runic formations. There appeared to be no rhyme or reason to their arrangement, simply lying wherever their owner had last discarded them.
+
+Yet Giddy Clicksprocket seemed to know exactly where everything was, her hands reaching unerringly for tools and supplies even without turning her head to glance away from her work.
+
+As Ali approached, Giddy jerked like someone had dropped a Lightning Lizard down her back, and her head snapped around to glare at the intruder. The wide lens strapped to her face enlarged the startled look to comic proportions. Ali stifled a giggle.
+
+“Aah! The famous Aliandra deigns to pay little old me a visit,” Giddy said, and if the bristling sarcasm were any stronger, it would be visible to the naked eye.
+
+“Sorry, I did knock,” Ali said, considering leaving immediately at the hostility in the Gnome’s voice. Did I upset her? She racked her brains to figure out when she had offended the jewel crafter, but she couldn’t come up with anything reasonable. “Is this a bad time?”
+
+“No,” Giddy said, sighing loudly and putting her strange glowing tools down and removing her headgear.
+
+Ali waited patiently for her to continue.
+
+“It’s just that… Lydia and Thuli got their evolutions already,” Giddy groused. “Even Morwynne is going to beat me to it. I put in just as much effort as they did to secure the Silver Cog patronage, but until I can make items for the evolved market, I can only make a pittance on the auction house. Jewelers below level one hundred are a dime a dozen out there. It’s impossible to sell work based on the quality of the craftsmanship when nobody knows who you are.”
+
+“I see,” Ali said. Giddy had always seemed grumpy to her, but it seemed that there might be a pretty good reason after all. Curious, Ali identified her.
+
+Jeweler – Gnome – level 89
+
+Not bad… she’s getting close.
+
+“Well, never mind that,” Giddy said, snapping several lenses into sheaths and raising her goggles to her forehead. “I’m sure you didn’t come for a social visit. What can I do for you?”
+
+“I’d like to commission some rings,” Ali said. She had agonized for ages over the best ways to improve her dungeon, and her friends might rightly be tired of her incessant questions by now. As always, her primary and yet most limited resource were the precious imprint chapters in her Grimoire. She could fill them with more monsters and new plants, or she could use them to enhance her current minions.
+
+Keeping it all balanced was a constant challenge. Ultimately, she had decided she would learn rings because her domain respawn would respawn gear along with her minions, and she used a lot of humanoid minions. Kobolds and Trolls could all use various rings. Learning the potion imprint had taught her just how powerful something like this could be – likely, her Grimoire would automatically equip summoned monsters with appropriate rings the moment she learned it. Even better if she could learn a few simple storage rings, and her monsters could fill them with potions.
+
+“What kind of rings?” Giddy asked, hopping up on a stool and retrieving a notebook from a shelf. She popped it open, snagged a quill pen from a drawer, and then hovered it above the page and continued, “What are we talking about? One or… two?”
+
+“Storage rings, mainly,” Ali answered, retrieving several troll tusk rings and placing them on the desk for Giddy to look at. “I need a range sized to fit everything from a Kobold to a giant Troll.”
+
+Giddy’s eyebrows twitched at the implications.
+
+Ali had a huge list of items and more monsters on her wish list, awaiting precious Grimoire chapters, but storage rings should be a massive game changer for her. Given her reliance on humanoid minions now, strong gear choices would give her far more powerful defenders. The rules were not all that different from kitting adventurers, which was why she was here asking for rings. They were small, versatile, and every monster could use two of them – they easily beat out competing items like other jewelry, headgear, hammers, and almost every monster type that she had listed.
+
+“This is nice work,” Giddy said, turning a bone tusk ring over in her hands. It had been created for a Giant Troll, and the embossed runic inscriptions were clearly visible, carved into the polished surface. The ring would likely have fit comfortably on the Gnome’s arm with room to spare. “I’m not sure I’d work in bone, though. Not my style. I can make a couple of rings like this – how many do you want?”
+
+“I need a minimum of fifteen to learn the imprint. That’s three of each variation to record the different types and enchantments,” Ali said, ticking off her mental list on her fingers. “Oh, I also want a few miscellaneous combat rings for the Kobolds – primarily rogues, fire mages, and holy acolytes. Some of your highest-level ice-affinity rings for my troll ice mages. Oh, can you do shapeshifter? I could use a fire-enhancement ring with shapeshifter for my Hellfire Imps.”
+
+Giddy jaw dropped and she froze, not saying a word, simply staring at Ali like she’d seen a ghost.
+
+“What?” Ali asked.
+
+“Sorry,” Giddy said, shaking her head to recover. “It’s not every day someone stops by and asks me to outfit an entire dungeon. That’s a bit of a bigger order than I expected. A lot bigger. Give me a second.”
+
+The Gnome hauled a stepladder over to an alcove and retrieved a box from where it looked like it had been tossed. She scooped up several spilled rings, dropping them inside before she offered it for Ali to inspect. The contents of the box sparkled and glittered, filled with an incredible assortment of rings. Jewels caught the sunbeams, refracting them into rainbows that played across the ceiling. Every kind of metal shone with bright luster.
+
+“Take a look through here for some of your lower-level rings. I made these in preparation for the opening of the auction house, but they never sold. I can give you a ten percent discount,” Giddy offered, a hint of hopefulness entering her voice for the first time.
+
+Ali could tell by her expression that this was a very sore point. “Why wouldn’t anyone buy them?” she asked, picking out a few of the shiniest rings and examining them in turn. They ranged from level five up to about forty with a wide assortment of enchantments, all seeming to be well thought out and beautifully crafted.
+
+“Too low level,” Giddy said with a sour twist to her mouth. “I would have to sell them at a loss to compete with the crown crafters in Southport, not to mention the jewel-smiths in Thorel Moldur, who have access to cheaper materials in bulk. Or worse, the guilds farming lower-level item dungeons.”
+
+“How much did you spend on all this?”
+
+“Fifty gold, give or take,” she said, glaring darkly at the box. “And two weeks of my time that I’ll never get back. I had such high hopes of making a fortune, and instead I almost bankrupted myself.”
+
+“I’ll take it,” Ali decided.
+
+“Which one?” Giddy asked, her face brightening immediately.
+
+“This one,” Ali said, shaking the box deliberately.
+
+“Wait? The whole box?” Giddy exclaimed. “You don’t – there’s like, fifty rings in there!”
+
+“Yes, this is perfect. I can learn most of them, and then, as my new kobolds level up, I will have options for their equipment.”
+
+“Ok,” Giddy said, beaming happily. “I have similar boxes of bracelets, bangles, earrings, and hairpins too,” she added. “Do you want any of those?”
+
+“The bracelets and bangles,” Ali said immediately. She had a wrist charm imprint which saw very little use. This is perfect. I might need to come back when I have more chapters. Oh, I suppose all of these things could have use? Calen’s always on about incremental improvements, every point and percentage counting…
+
+“Excellent,” Giddy said, pulling down two other boxes. But then her mood fell. “Do you still want any of the higher-level stuff, then?”
+
+“Oh yes, I was just coming to that,” Ali said. She pulled out a notebook and offered it to Giddy. It listed the combinations and levels of ring enchants that she wanted for her minions, along with various levels, quantities, and sizes. “The high-level stuff is the most important.”
+
+Visibly biting on her tongue, Giddy scanned the list eagerly. “This might take some time to do,” she admitted. “And this one I can’t make; the enchantment requires ice-affinity magicite. This one, too. I can’t make storage rings with that much capacity. We’d need to source space-affinity magicite, and that’s as rare as a ten-foot wrench.”
+
+“Do you accept payment in materials?” Ali asked, ignoring Giddy’s stated issues as she began to lay out various crystals on the desk. Ice, space, and arcane-affinity magicite appeared in quantities far larger than the Gnomish jeweler would require, leaving her a generous margin for profit or to make additional items to sell.
+
+“That’s… that’s too much,” Giddy said, sounding like she had to drag the words out, kicking and screaming. Her eyes glittered with sheer avarice at the wealth of rare crafting materials that Ali had dropped on the table, but she did not reach for them.
+
+“I don’t care,” Ali said. “As long as you feel like you’re getting a good deal.” She often felt guilty paying for items with materials she could make, seeing as it felt like she wasn’t giving up much of value. Still, someone like Giddy could turn the magicite into a fortune and perhaps even advance her craft to previously unreachable levels.
+
+“Why are you so willing to overpay?” Giddy said. “You’re going to spoil me.” Although she sounded like she was joking, there was a distinct undercurrent of suspicion in her voice, like she had never trusted anyone to be generous to her.
+
+“I need a favor,” Ali said. “You said you could make that storage ring by using space-affinity magicite. Can you make one for Seth with the largest storage space you can craft for his level?”
+
+“The necromancer?”
+
+“Yes, storing corpses is challenging, but it makes him much more powerful.”
+
+“Ok,” Giddy said, eyeing the space attuned crystals and scribbling some notes in her book.
+
+“Also, when you reach your evolution, come and speak to me,” Ali said. “I can help you with the shrine, and then it might be nice to get a platinum version of this,” she pointed to the gold guild ring on her finger.
+
+“Ok, deal,” Giddy said, quickly making the magicite disappear. “I will make your rings and deliver them to the guild if I can’t find you. That’ll take a few days. Maybe I’ll bring them in batches, is that alright?” Ali nodded quickly, but the Gnome was still thinking aloud, “I’ll throw in those boxes of rings and bangles for free – you’ve given me more than enough in materials. I also have a few suggestions for tweaking your requested enchantments that will make the rings more effective, if you’re interested.”
+
+“Perfect, thank you,” Ali said, deconstructing the entire box of rings at once, including the troll tusk rings she had shown to Giddy.
+
+Imprint: Ring completed.
+
+Her Grimoire paused momentarily, like a breath held in anticipation, and then it burst into a riot of rapidly flipping pages and bright runes cascading inward like an inverted fountain as it cataloged every precious and semi-precious material Giddy had used to create the entire box full of rings.
+
+Variant: Platinum added to Imprint: Metal.Variant: Ruby Ring of Flame added to Imprint: Ring.Variant: Ruby added to Imprint: Stone.Variant: Sapphire Band added to Imprint: Ring.Variant: Sapphire added to Imprint: Stone.Variant: Opal added to Imprint: Stone.Variant: Tourmaline added to Imprint: Stone.Variant: Glittering Amethyst Signet added to Imprint: Ring.Variant: Amethyst added to Imprint: Stone.…
+
+Then she deconstructed all the bracelets and bangles, too, creating a similar flurry of notifications as her Grimoire reacted to the sudden influx of new knowledge. I wonder how quickly the guild’s bronze and silver ranked adventurers will discover my new purchases? Quickly, she decided, answering her own question. It’ll probably happen as soon as they kill a respawned kobold. Which, in the sewers, wouldn’t be more than a couple of hours at most.
+
+Good, I’m glad to finally get this little project underway. Ali chuckled as she pictured offering hairpins to a Kobold. Giddy shouldn’t feel too left out now, should she?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

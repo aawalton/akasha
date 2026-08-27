@@ -1,0 +1,129 @@
+---
+id: 9b7e4b52-09ba-5900-a829-3cab3a25992c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 505: A Shift in Direction"
+slug: 0545-chapter-505-a-shift-in-direction
+partOf: dungeon-of-knowledge-complete
+position: 545
+ownLength: 3052
+unit: words
+ownProgress: 3052
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2938957/chapter-505-a-shift-in-direction"
+royalRoadId: "2938957"
+markedReadAt: "2026-06-29T20:30:48.334Z"
+---
+
+Ali sat quietly amid the hubbub, her legs dangling from the edge of her floating disk of golden magic and her hands resting in her lap. Her friends were nearby, listening intently to the Guildmaster as she addressed the crowd that had gathered. Her friends had been true to their word, barely leaving her alone since they had returned to Myrin’s Keep, but other than the one eldritch eye drawing the incursion of Devastation Knights from the Crypt of Kings, she hadn’t been attacked again. Bothered, yes. Her sleep had been disrupted several times by the unwanted eldritch spawns, but there had been no further invasion forces beating down her door. Perhaps the monsters were simply biding their time; she couldn’t shake the disturbing sensation of being watched, but for now it felt further off.
+
+The meeting of the guild leadership and the platinum-ranked members was now so large that they had had to move it into the main guild hall, which, of course, meant that there were now spectators, too. Although the lower-level members hovered quietly on the outskirts, most seemed to be going to great lengths to avoid drawing attention to themselves, perhaps fearing they might be asked to leave.
+
+Hmm. Who wants to talk to the tired, cranky dungeon now? she thought, trying to smooth out the corners of her mouth. No-one was speaking to her. Something on my face?
+
+There were so many things on her mind. For one thing, she wanted to talk to Azryet about his consecration of the cathedral she had built for Havok. When Lamyndra Duskwind had asked her permission to consecrate the rebuilt Temple of Lunaré, she had thought nothing of it, other than the oddity of being asked. There had been no dungeon rage, but for Azryet, it had been different. Did that mean dungeon gods were special? Or did all gods wield some control over any temples consecrated in their names? And if so, she needed to know exactly what they could do, given they were now within her domain. Certainly, the extreme nature of Havok’s divine blessing had shocked her, even with the limitation of its short duration.
+
+Besides, she needed to speak with the dragon god regarding the nature of her cursed title and how she might unravel it. All attempts to apply her abilities to dismantle the magic had failed so far, her golden darts not finding any purchase on something as esoteric as a title. She was sure she wasn’t missing anything obvious, but Azryet had existed long before Dal’mohra and its extraordinary library were even conceived.
+
+I need to tell him about the vials and the Well of Eternity.
+
+The far more troublesome issue was the specter of Nevyn Eld’s gaze upon her. Or more accurately, the eyes of his eldritch undead minion. She could feel it; the cold, mind-spraining gaze of the crimson eldritch eyes drawn to the cursed title like flies to dung. She was a giant beacon for its insanity. It felt like the ancient undead monstrosity was literally studying her, like an alien scholar having pinned a live bug to the observation pallet, watching as it writhed and twisted helplessly.
+
+It’s just my imagination, she told herself, trying to shake off the disturbing sensation that kept crawling under her skin, and yet, she knew it was real. That eye had appeared from somewhere, countless kilometers away from the dungeon, and Nevyn Eld had deemed her important enough to divert five Devastation Knights from his war of conquest in the south to hunt her specifically. They had even known her name.
+
+I’m a danger to all of them, she thought, glancing across the roomful of eager adventurers who hung on the Guildmaster’s every word, lingering longer on the newer members on the outskirts. When would the next incursion come? Would they be more powerful undead? Already, a group of advanced Death Knight variants over level two hundred was far more than most of the adventurers could handle – even Vivian Ross herself – and if Havok had not received Azryet’s blessing, she knew he would have died trying to protect her.
+
+More sentinels, she decided. Creating more monsters to guard the battlements had already been on her to-do list. At first, she had decided against summoning demons in town, mostly out of respect for the townsfolk’s sensibilities, but now that nicety would have to go. Baelok Descriers or Eyes of Agnor had the perception skills to make ideal sentries.
+
+Maybe Malevolent Oaks, she thought. They had True Sight. At least I can pass them off as trees if I leave them outside the walls. As long as they don’t move… and nobody looks too closely. Or uses Identify. She twisted her mouth, deciding to leave the trees for another time. None of the Death Knights had shown stealth or invisibility skills, and until she figured out how to unhook this eldritch monstrosity from her mind, she would need to be more defensive. What if Ryn got killed? Or Havok? Caught unprepared, even the platinum adventurers could easily die. The mind-affinity Baelok Descriers would at least provide defenses against the eyes while simultaneously scouting for the undead incursions.
+
+“Lyeneru, would you please share your findings from scouting within the Dol Kerriadh peninsula?” Vivian asked, interrupting the hurtling train of her worries.
+
+“Yes,” Lyeneru said, standing up. The murmuring and quiet conversations faded away as the entire room gave her their undivided attention. “Our worst fears have been confirmed. The Blind Lich has indeed secured three dungeons in the mountains of Dol Kerriadh, and all three of them are manufacturing greater undead minions that march for Southport in an endless tide. The only good news is that there are very few Death Knights among their ranks, and many of the trolls escaped into the mountains. Ciradyl is producing ghosts: Banshees and Wraiths. Hordes of ghouls, wights, and undead trolls march westward from the ruins of Telim Gor and Meere Kada.”
+
+“What about Thorel Moldur?” Calen asked.
+
+“I was unable to get close enough to the ground to scout the underground dwarven city, but I found no sign of the dwarves anywhere,” Lyeneru said. “Living or undead.”
+
+Vivian’s eyes narrowed at the sobering news, but she asked, “What strategy do you recommend?”
+
+“Ciradyl remains the most powerful and most dangerous of the three dungeons, and should be our primary target,” Lyeneru said, taking her seat once more. Many of the Pathfinder elves nodded as she suggested a move on Ciradyl as the top priority.
+
+“Thank you. Calen, could you report next?” Vivian asked.
+
+Calen stood and turned to face the guild. Standing there beside Lyeneru, the distinctive cloak draped about his shoulders, clear eyes and straight posture, the normally shy half-elf looked every bit the Pathfinder. Confidence flowed from him, and a ghost of a smile found Lyeneru’s lips as she flickered a surprised glance at her protégé.
+
+“I have witnessed the death of the Blind Lich’s avatar twice so far,” Calen said, his voice holding everyone’s attention just as well as Lyeneru’s had. “Each time, I was able to track the direction to his soul. The triangulation narrowed the location of his Phylactery to a desolate set of peaks called the Fangs of the Frost Wyrm nestled deep within the Spine of the World. I journeyed there with a couple of Ali’s minions, and we discovered a dungeon called the Crypt of Kings.”
+
+That's being a little generous, Ali thought. There had been very little ‘we’ about that discovery; it had all been due to Calen’s skills. She smiled, though, not minding in the least.
+
+“It’s what we found within that is pivotal to our strategy,” Calen said. He took a breath, pausing to hold the audience’s gaze for a moment: either being unconsciously dramatic, or he had really improved his ability to capture the attention of a crowd. “The dungeon is the remains of the lost Night Elf city of Mi’ir Valdanis.” His words were greeted by gasps of surprise from those who had not yet heard. The fact that Lyeneru herself showed no reaction told her that Calen had already briefed his mentor.
+
+“Within the dungeon, we discovered four bosses. A unique Bone Fetish assassin called Grim Spark with reactive lightning magic guards the entrance. Haverron, a giant Devastation Knight raid boss, guards a substantial teleportation array that is capable of sending Death Knights directly to any battlefront. We also found the Well of Eternity, guarded by a being called Baaoht Yll’shuum, an undead eldritch monstrosity with mind-destroying nightmares and powers of insanity. The last boss we encountered, Kryostria, is a third-tier champion ice Dracolich guarding a rift to a foreign realm. The dungeon harvests dragonkin that enter through the rift, raising them as Death Knights using a magical array powered by the Well of Eternity and the domain itself.”
+
+“That seems dire,” Vivian said while Mieriel’s quill pen scratched up a storm. “Any sign of the Phylactery?”
+
+“We were repelled by Kryostria and had to abandon the delve. There is a passage further, and I’m certain there’s at least one more boss.”
+
+“How does it stack up against the threats Lyeneru scouted?” Mieriel asked.
+
+Ali cleared her throat and jumped in, “The Crypt of Kings is the backbone of the Lich’s army, manufacturing Death Knights of all kinds and sending them out to join the war. It is the same magical array we dismantled at Aman Rak.”
+
+“We must take care of it,” Calen said, nodding to her. “Given the number of Dragonkin that Kryostria appeared to be harvesting from the rift, Southport, and the entire kingdom would be doomed if we fail.”
+
+An uneasy silence filled the room, but Vivian took the floor once more. “I am aware that many of you wish to join the ranks of the defenders in Southport and destroy the Death Knight army,” she said. “But I suggest we follow Lyeneru’s strategy instead. We would have the biggest impact by wiping out the sources of the Blind Lich’s power we can destroy, instead of meeting him head-on.”
+
+As one, most of the room seemed to nod in agreement. It was an obviously better strategy, and one that would have the greatest impact in the war. However, the details of the strategy most definitely mattered.
+
+“Shouldn’t we attack the Crypt of Kings while the Lich is occupied with the war and find his Phylactery first?” Ali asked. It seemed the most direct approach, and one that would rid the world of the terror of Nevyn Eld once and for all. “It seems to be the most dangerous threat. If we destroy it, the armies should be much easier to destroy.”
+
+“Unfortunately, it is not that simple, Aliandra,” Lyeneru said, grimacing briefly. “The Dracolich is higher than two-fifty, past its second evolution. There is no way this guild can field a raid strong enough to defeat Kryostria. Even assuming we found a way, destroying the phylactery would accomplish next to nothing. Nevyn Eld could simply make a new one, and then, in a few months or years, he would return, just as strong, and we would have lost the advantage of knowing his location. The only way to truly end a Lich is to break the phylactery while it contains his soul. We cannot afford to reveal that we know where it is until we’re certain we can win.”
+
+Ali frowned. It would seem she needed to do some more research concerning Liches and their phylacteries; she hadn’t understood that particular wrinkle, and it certainly made things a whole lot harder. Still, it wasn’t for a lack of trying. Ever since she’d caught his eye, Ali had been scouring the Grand Library Arcana’s spirit realm echoes for any hint of leverage, and she’d even sent Ryn to hunt through Azryet’s books. Reliable information on how the Lich transformation worked was not exactly commonplace.
+
+At the very least, they would need to find a way to kill him, yet again, and protected as he was by his horde of Death Knights, that would be no easy feat. “Our group made decent progress through the Crypt of Kings. With more people, we could at least uncover Kryostria’s weaknesses and hunt for clues for finding his phylactery. I have used his dungeon artifacts before,” Ali said. “They do not have a domain perception skill, so attacking the dungeon does not automatically alert him. Only when the domain is destroyed, or the artifact is tampered with, does he appear.”
+
+Except that one time, she corrected, and that mistake had cost Lira her life.
+
+Lyeneru fixed her with a steady gaze. “Your desire to strike a decisive blow to the Blind Lich himself is admirable, but I believe it to be premature. Your discovery of Mi’ir Valdanis and the location of the Well of Eternity is of critical importance to our strategy, but even though he may not be able to directly sense incursions, a head-on attack at the Crypt of Kings would disrupt the flow of his Death Knights, alerting him just as clearly as if we sent him a message by Sending. If he realizes we have found his weakness, he will abandon the war and undoubtedly fortify his dungeon. Or even move it. Make no mistake, Nevyn Eld will drop everything to protect that phylactery – it is his one weakness.”
+
+“So, one of the troll kingdoms to gain levels?” Ali asked.
+
+“I suggest we tackle the dungeon at Ciradyl directly,” Lyeneru countered, but her tone was level and clearly invited input or counterargument. “What we need most right now is information, and to grow the strength of our raid groups. The Crypt of Kings is too risky for us; we don’t know exactly where the phylactery is yet, and we would need to be substantially stronger for a quick and decisive operation.”
+
+Ali scratched her head unhappily. “Go on…”
+
+“I assess that Ciradyl will be a substantial challenge, but within our grasp with planning and preparation. Taking it back gains us levels, disrupts the production of banshees and wraiths, which will greatly aid the war at Southport, and if we destroy Meere Kada and Telim Gor immediately after, we will succeed in misdirecting his attention away from the Crypt of Kings. Ciradyl also hosts the Well of Souls, and recovering the Great Mother of the Deep Woods is one of our highest priorities.”
+
+Ali met Lyeneru’s gaze with surprise; she had not expected such wholehearted support from the Elven legend for her quest to save Lira. “Ok,” she said. “Ciradyl then.” It was obvious that Lyeneru had a far deeper grasp on this kind of strategy than she did, and it would be smarter for Ali to defer to experience here. She had no idea how to get the third vial yet, but working towards the Well of Souls felt right. As it was, the Well of Souls would do more harm than good, but before they could even try tools like Mato’s aura for cleansing the corruption, they would have to reclaim it from Nathaniel Sunstrider’s wraith.
+
+“Besides,” Lyeneru added. “There is a good chance I will reach my second evolution somewhere in the Ciradyl dungeon. With the help of your shrine, that should make the outcome of any fight against the Blind Lich’s dungeon far more certain.”
+
+Wait, second evolution? What level is she?
+
+Archer [Pathfinder of Legends] – Night Elf – level 221 (Fire / Lightning)
+
+Wow, Lyeneru! She was at the upper range of Ali’s ability to even Identify her, but Ali’s surprise was short-lived, interrupted immediately by Calen continuing the strategy discussion.
+
+“I propose a scouting party to return to the Crypt of Kings,” Calen said. “I can lead a small group of assassins and scouts – people with good stealth skills – through the dungeon and learn the location of the Phylactery.”
+
+“Can we afford the time?” Vivian asked. “I’m certain the phylactery will be warded and well concealed. Do you think it’s even worth it?”
+
+“Ali left a teleportation circle hidden outside the dungeon,” Calen answered. “We can return in minutes. I also gained a True Sight advancement from fighting the eldritch boss, and I’ve already identified the secret exit from Kryostria’s cavern. My tracking skills tell me there is at least one more boss through there. I’m sure the phylactery will be near the dungeon core artifact.”
+
+“The raid on Ciradyl will require a few days of preparation,” Lyeneru put in. “We should make time for this.”
+
+“Very well,” Vivian said. “That information will be priceless if you can get it. Just… be careful.”
+
+Calen nodded soberly.
+
+“Ok, volunteers for Calen’s scouting mission?” Lyeneru said, and instantly several hands shot up, Pathfinders and rogue classes, all with powerful illusion or stealth concealment skills and tracking abilities.
+
+Ali just sat back and listened while they hashed out the final details. She had been certain that Kryostria guarded the phylactery and that they would find it somewhere in her cavern. The news that Calen had been alert enough during their rout to spy the exit deeper into the dungeon and deduce the existence another boss had come as an unfortunately large surprise to her. If the difficulty ramp in the Crypt of Kings continued to skyrocket as steeply as they had experienced, there was no way they would have survived whatever came next. She hated to admit it, but Lyeneru was right. They would need to grow much stronger. They would need the legendary archer herself to ascend to the next evolution, and even then, it would likely be a great challenge.
+
+She had more on her mind to worry about, too. While they had met with much success on their delve, she had to confront the fact that she was now marked and trackable by the Well guardian in the Crypt of Kings. Even though the dungeon’s domain did not have perception skills, if she showed up again, Nevyn Eld could likely sense her directly using his minion. Sending her out to Ciradyl would be far less risky, perhaps even bolstering Lyeneru’s effort to draw his attention there instead.
+
+Ok, not my first plan, but I think this is a good one. Let’s claim the Well of Souls for Lira.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

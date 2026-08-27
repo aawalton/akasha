@@ -1,0 +1,134 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Ch128 Potential"
+slug: 0128-ch128-potential
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 128
+ownLength: 1679
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3869609/ch128-potential"
+royalRoadId: "3869609"
+---
+
+“How have you done this?! A mere 10th level qi refiner matching my strength! Even if you have an innate spirit grade physique, I am at the 3rd level of foundation establishment! I have a spirit grade blood demon physique, and a perfected mortal grade physique! It is physically impossible for you to be stronger than me!”
+
+Jiang Yu yells out in anger.
+
+He swallows handfuls of blood qi pills, and the red glowing piece of jade around his neck pulses violently. It begins sinking into his chest to push blood energy to weakened portions of his body even faster.
+
+Lan Xin and Jiang Yu may be going blow for blow at equal strength now, but his wounds still heal at a faster rate.
+
+She has no tier 2 weapons either, and must block the incoming short swords with her bare body.
+
+Most of the movements are far too fast for me to physically track, but I can feel their shockwaves breaking through my artifacts defenses.
+
+Lan Xin’s soul becomes more unstable with every exchange, and this blood demon grows more volatile. The blood energy from the jade is no longer enough to heal him, portions of his own soul and dantian's qi are being siphoned in to help.
+
+“You have killed my son, brothers, and cousins! For what? What have we done to you!? You are nothing but a dull tool for the sect with 7th grade roots, you have no right to be meddling in the affairs of true foundational cultivators! Killing you here is a fate far too kind! I will capture you alive! I will make good use of that Primal Yin you have not given up yet, and make you wish you were never born! I will refine your body and soul into blood qi pills so you never rest in peace after death!” Jiang Yu yells loud, as his eyes become more crazed, losing his sanity almost entirely.
+
+His next attack is so powerful, Lan Xin cannot block it.
+
+Two dark red gashes open up across her neck and chest, deeper than any of the last exchanges.
+
+She’s sent flying backward, toppling dozens of trees, and carving out a fifty-meter-long bald patch in the forest before she stops sliding through the earth.
+
+The flaming woman coughs up blood, and her serpent frantically swims through her body attempting to close the horrific wounds. Some are so deep into her physical body that raw white bones are exposed to the air. The most recent gashes are even worse, sending stress fractures through her physique, resting against her soul and dantian. The flickering horns that were forming on the serpent's forehead fade away. The sharpness that was building up in their shared auras dampens too.
+
+Instead of looking at her enemy, her gaze turns toward me, as I still watch with an indifferent stare.
+
+I have a single tier 2 artifact remaining in my storage, a qi sword slaughter formation. However, this blood demon is stronger than the others. The 1st and 2nd level foundation establishment cultivators I managed to kill with tier 2 artifacts were elderly and injured. None of them had a spirit grade physique, or constant infusions of blood energy.
+
+I remember the last time I used it on a foundation establishment cultivator, it was the Phantom Lord who wielded the robust soul-based Illusory Demon Physique. It was not enough to finish the job, and Jiang Yu feels even stronger than he was.
+
+There is one thing I know I can do… Use the golden tier 3 upgrade card in my storage, but I do not sense the Jiang Family Patriarch anywhere nearby, and I do not wish to act recklessly and waste my trump card until the time is right.
+
+If Lan Xin cannot defeat this opponent in time, then so be it, I won’t risk my own life to save her.
+
+My stance becomes apparent as she grits her teeth and looks away.
+
+A jolt of sharpness returns in her aura, seeping through my shield’s passive defenses even at this range, proving to be an even stronger release than the last pulse that allowed her to kill that first blood demon.
+
+A streak of crimson blood energy arcs through the air toward her, laughing with crazed hatred.
+
+“The Jiang Family will become one of the pillars of the Blood Sword Sect! You will never share the spotlight of our glory!”
+
+At the same time, the yellow flames that were erupting from Lan Xin’s body look as though they’re dimming, but instead the outer layers of them are just turning invisible in color.
+
+The vibrations of her physique are still strong and present.
+
+She is bleeding from all orifices, and I feel her soul starting to crack apart like her body already is, but she still stands to her feet.
+
+Her serpent swims upward, away from her demonic wounds, up her chest, through her neck, and their eyes line up, matching like they’re staring forward through the same gaze.
+
+All of the flames in her aura shrink faster and faster as Jiang Yu comes within range of landing his final attack.
+
+It looks like she’s just given up.
+
+Less than a meter before impact, Lan Xin’s aura no longer gives off any visible flames.
+
+A rigid shift triggers in her serpent’s physique, mirroring into her own, and an invisible pulse of vibrations pours out. The system scan of the initial stage innate physique ticks up to the mid stage.
+
+Her flames are not gone, they have just all become invisible to qi-based senses.
+
+Lan Xin leans forward, like she is wishing for death, allowing the two glowing black and red tier 2 blades a free path to her skull.
+
+Yet, they stop centimeters away, cracking under the pressure, as the outline of a serpent’s head with small nubs of flaming horns vibrates with an invisible pressure around her.
+
+The blades break apart to useless metal, but Jiang Yu’s momentum doesn’t stop.
+
+He keeps moving forward, and Lan Xin’s forehead merged with her serpent collides with his chest.
+
+The 3rd level foundation establishment cultivator is enveloped in completely invisible flames upon impact.
+
+His blood energy is burned away at a rapid rate, faster than it can regenerate, and the impact of the collision breaks every bone in his chest.
+
+The distorted soul tethered to the dual flaming mountain and blood demon physique was held together by an immense amount of blood energy and is now naked and exposed to the elements. It cracks like fragile glass.
+
+His eyes that are nearly lost to insanity open wide in utter fear, but it’s too late for him to react.
+
+Jiang Yu explodes into fiery blood mist, the invisible flames erupting into color, lighting up the sky with yellow heat.
+
+Lan Xin falls to the ground face first right after in exhaustion. All of the sharp flames gone, like they’ve been completely used up to their limit down to the last millisecond.
+
+The tame yellow and orange fire in her soul returns, her serpent swimming around to all her wounds to keep her alive, but it’s far weaker than before.
+
+Even my shield’s passive ability has returned to full strength; I don’t feel any pressure pressing down on me any longer.
+
+I lift my shield onto my back, run forward through the fiery impact crater, and stand over her body.
+
+The woman twitches and coughs up more blood mixed with demonic energy when she feels my presence in her vicinity.
+
+She tries to push herself to her feet, but fails to do so.
+
+Almost every bone in her body is fractured or broken entirely, and her soul and physique feel as weak as a mortal-grade version, like it’s expended its full potential.
+
+“S-See… I had it under control. I didn’t need your help again.” She coughs out, as her arms shake and she collapses.
+
+Her eyes still look up from the dirt as her body lays motionless.
+
+I cross my arms and begin to circle her, picking up the shards of the tier 2 long swords, a small spatial ring, and a hunk of red jade, shaking my head in disappointment as there is no body of Jiang Yu remaining after it went up in flames.
+
+She coughs up more blood energy, “There… keep it, you’re paid back for that perfect grade vein.”
+
+I nod, watching as her weakened serpent slowly fails to patch up the countless wounds all over her physique and soul. Then, turn my head away as the air gets warmer and the sky overhead tints a dark red.
+
+“Sure, you’ve paid me back for the vein. But now you’re going to have to pay me back for a lot more…”
+
+Her eyes grow dim, as she tries to pick herself up again but her body fails her, “What do you mean…?”
+
+I look up to the sky, as from afar, a streak of blood energy comes rocketing our way. The pressure of a late-stage foundation establishment cultivator suppresses the entire forest.
+
+Her eyes widen, and her pupils shrink with despair. Even her serpent stops moving out of instinct.
+
+“I can save your life again. I've invested quite a bit of resources into you, and don't want to see them go to waste. Moving forward, we're done with your emotional outbursts that increase that risk. You'll be following my orders, no more negotiations."
+
+I bend down and grab her by the hair, the only portion of her body not fully saturated with flames or demonic blood energy.
+
+The bronze door opens in my mind.
+
+Her will resists the pull at first like a spirit vein. However, this resistance weakens as she processes my words. The enormous crimson hand of blood energy grows in the sky, and the pressure forcing its way through my shield's defenses becomes stronger and stronger.
+
+She almost passes out from the stress, but gives into her instincts to seek safety first.
+
+Lan Xin disappears into my hidden realm, and I stand up to face the Jiang Family Patriarch alone.

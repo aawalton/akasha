@@ -1,0 +1,137 @@
+---
+id: 1b233a6d-0dcf-5f4f-85c5-8629c069bfe8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 461: Maalgaroth Versus the Sandwyrm"
+slug: 0498-chapter-461-maalgaroth-versus-the-sandwyrm
+partOf: dungeon-of-knowledge-complete
+position: 498
+ownLength: 2215
+unit: words
+ownProgress: 2215
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2808978/chapter-461-maalgaroth-versus-the-sandwyrm"
+royalRoadId: "2808978"
+markedReadAt: "2026-06-29T20:29:07.787Z"
+---
+
+Ali reappeared within the rift chamber in time to see the adventurers setting up a perimeter around the rift itself. The chamber was already clear of all monsters, even the corpses had presumably been eaten by Naia’s voracious horde or raised to serve Seth’s army. Calen and most of Seth’s army were nowhere to be found, presumably already on the other side of the rift.
+
+“Ali, you’re back?” Seth asked.
+
+“Yup. New shrine seekers,” she answered, explaining her brief absence.
+
+“Calen is out scouting already,” Seth said, nodding toward the shimmering rip through space at the far end of the cavern. “He was itching to see the other side so badly, he could barely stand still. The rest of us are almost ready to go.”
+
+“Ok, I just need a few minutes,” Ali said, glancing around.
+
+Ali planted several trees in the center of the chamber while Naia decided what boss she was going to make to guard the rift. They had agreed that Naia would protect the inside, and Ali would grow her domain through the rift and make her boss on the far side. Shared protection and all that. It had been their original plan, only implemented a lifetime later.
+
+And so it was that Ali stepped through the slash in reality, entering another strange realm on the heels of the vanguard of well-equipped raiders. Of course, she stepped through with her minions first, getting a good look around, but as she passed out of the rift, her slippers pressed into the soft sand, warm enough to feel through the fabric, and she looked around at a world that was simultaneously a desert and a jungle. A world of contrasts. Everywhere, as far as her eyes could see, sand and rocky desert contested for space against densely overgrown jungle, browns and slate grays arrayed against a riot of greens accented with purple and red. Promontories and intrusions grew in both directions like the shifting lines of a battle, frozen for now in the middle of combat.
+
+The hot yellow sun high overhead beat down relentlessly, heating any exposed skin to uncomfortable levels in moments, lending a brightness to the world that was unreal in its sheer intensity. A second, larger, and far redder sun slipped closer to the horizon in the distance over the desert. Mana bubbled up from the ground, dark browns and beiges of earth, contending with the wide array of greens that flowed off the jungle trees, creating a collision of chaos like oil and water that refused to mix, no matter how much they were shaken together. More bubbles of mana surged and flowed like water along the ground, crashing against a sandy beach and popping in eddies and flows that receded again, having touched the other.
+
+“Wow,” Ali gasped.
+
+“This is crazy,” Seth whispered, staring at the same phenomenon with awe in his eyes.
+
+Already, many of the raiders were engaged, diving into battle to fight off branch spiders, treants, and rock beetles, but among it all were monsters Ali had never seen before. Many she didn’t even have names for. Giant, vaguely humanoid collections of boulders that stomped around, their multi-ton rock segments held together by nothing more than earth mana and lettuce-like growths of lichen, fighting against wisp-like collections of green light and writhing vines. Tree snakes, beetles, frogs, butterflies, sand skippers, and turtles made from stone. She lost count of the new monsters that were just what she could see from here.
+
+I have work to do, she thought, turning her attention back to her job. Her domain was already spilling into this realm through the rift, so she began planting trees, calling for her non-combat minions to come plant things in the hot sand dunes.
+
+“Sandwyrm!” Calen yelled, appearing in the sky like a beacon of light.
+
+Shit. I’m not ready. It was far too soon. Guessing she had just barely enough domain mana to sustain it, she immediately began summoning her boss. She and Calen had endlessly hashed out the plan, so she didn’t need to think for long; she simply removed her Pit Lord boss from the Landing, something she had intended to do already, and resummoned him here instead. He appeared in all his glory with deep booming laughter for the sights arrayed before him.
+
+Maalgaroth [The Corrupter] – Demon – level 157 (Blood / Hellfire)
+
+Out in the distance, she could already see the dark cloud of sand, like a storm on the horizon, approaching with terrifying speed. She reached out and touched her immense demon, applying her domain enhancement, urging her mana to work quicker.
+
+Domain Respawn applied to Pit Lord.Champion Domain Enhancement applied to Pit Lord.
+
+This time, she granted him new domain magic skills, based on what she knew the adventurers, already fanning out in a defensive formation, were about to face. If the Sandwyrm was almost immune to physical damage, she was going to double down on hellfire.
+
+Elemental Storm (Hellfire) applied.Mass Summon (Demon) applied.Amplify Skill (Blast Wave) applied.Amplify Skill (Infernal Flame) applied.Domain Enhancement complete.Your reserved mana has increased by +3410.
+
+Oof. That’s expensive! But Maalgaroth roared at the infusion of new power. The dark cloud tore toward the adventurers as her Pit Lord fed greedily upon the mana of her domain that she had granted him.
+
+“Your orders, master?” he asked, turning his ugly face toward her with a toothy grin. Very toothy. This was her first Champion-level boss, and he was enormous, towering above her like a mountain. Even his shadow engulfed most of the raid’s healers and mages.
+
+“A Sandwyrm is coming. Kill it.”
+
+“Yes, master,” he said, grinning far too widely under his crown of dancing hellfire, and he turned toward the sandstorm and charged.
+
+The enormous dragon elemental burst from the ground, throwing the entirety of its bulk into the air and hovering there precisely like a three-hundred-meter-long rock elemental shouldn’t. Gravity magic rolled off of its obsidian scales like waves while sand billowed out into the sky, created from nothing more than the monster’s seemingly infinite well of mana.
+
+“Stand back!” Ali shouted, and the adventurers backed away, leaving her Pit Lord in the center, with a flaming glaive gripped in his right hand.
+
+You have gained Clarity.
+
+It was her only sign of Malika’s presence before she vanished, sprinting through the raid like a flash of light.
+
+The Pit Lord raised his heavy warglaive to the sky and cast Rain of Fire and Blood. A fresh storm spawned in the air, raining down globs of black flame and searing, corrupted blood upon the flying wyrm. Ignoring the storm, Maalgaroth turned and roared, a sound so vast that the ground shook with a sympathetic earthquake, driving all the adventurers to their knees.
+
+For all his vastness, Ali’s largest demon looked positively diminutive standing within the immense shadow of the leviathan flying overhead.
+
+Then, the dragon dove, maw first, while sand continued to gush from its body, whipped to a frenzy by the tremendous, gathering storm of its gravity and earth mana. The entire bulk of the obsidian wyrm splashed into the ground, vanishing below the dunes like a whale into the ocean, and in its wake, it left nothing to show for its presence save for a dozen Sand Vortices that lashed out, whirling in all directions to engage the adventurers.
+
+Of Ali’s Pit Lord, there was no sign.
+
+“Phase one good?” Calen asked, unleashing volleys of arrows at the sand elementals left behind in the wake of the Sandwyrm’s dive.
+
+“Yes, the Pit Lord is down in his stomach,” Ali confirmed, verifying by borrowing its own sight that her demon was stomping around in the vast obsidian belly of the Sandwyrm. “Summoning Imps and stuff now,” she said, as her Maalgaroth began to use his granted domain magic. The vast strain on her domain provoked a teeth-grinding headache as the Pit Lord was forced from his restricted domain, but she warped her mana using Domain Architect, bending almost till she sprained it to maintain the connection wherever the Sandwyrm swam.
+
+Mana surged inside its body, drawn through the rift from elsewhere in her domain to fuel the Champion’s domain magic skills. A horde of Hellfire Imps spawned, cackling and screeching in the darkness within the Sandwyrm. Immediately, the imps were crushed to the ground as the immense weight of the gravity spell took hold. Maalgaroth stamped a foot and unleashed a Blast Wave of hellfire, and every imp immediately switched to Flame Form, riding the wave.
+
+More imps appeared, bathed in fresh hellfire as Maalgaroth used his amplified Infernal Flame to drastically increase the power and duration of the Blast Waves and began filling the Sandwyrm from within.
+
+The ground shuddered.
+
+“Breach!” Ali screamed, using the voices of several trolls to ensure the adventurers heard her, and marked the spot with a barrier so they could leap clear. Sand erupted into the air, followed by rocks that whipped around unseasonable violence, and then the maw of the Sandwyrm shot up out of the ground, belching black gouts of hellfire.
+
+“He’s got a bit of a tummy ache,” Mato sent directly to her mind.
+
+Ali grinned at the image of such a massive monster with a sore tummy, but that was effectively her entire strategy.
+
+“Everyone, attack!” Calen shouted, igniting his mana with Righteous Fury as he unleashed volleys of death and light magic arrows at the giant wall of magical obsidian scales. “Maximum magic!”
+
+The entire fury of the raid was immediately unleashed on the monster.
+
+“Elemental Storm,” Ali said, speaking quietly, but sending her intent to her Pit Lord deep in the darkness of the monster.
+
+Crimson mana surged, rushing into it like a torrent, and she saw the fire kindling within. A dark sun of pure flame that grew stronger and stronger, ripping into the insides of the Sandwyrm as hundreds of imps detonated their fireballs.
+
+The Wyrm roared in fury, but the adventurers were braced, and their onslaught did not let up in the slightest. Every flavor of mana imaginable tore into the behemoth while Ali struggled with flickering barriers, blocking the boulders flying through the air from smashing into people who were blinded by the howling sandstorm.
+
+“It’s diving again!” she shouted, seeing it both through Earth Sense and the formation of mana within the monster, and moments later, the sand collapsed to the ground, again leaving several dozen Sand Vortices in its wake as the Sandwyrm tried to outrun the conflagration in its belly.
+
+But Ali simply poured her mana downward into the Pit Lord, fueling his magic with everything she had. He continued churning out imps at a furious rate, smashing out Blast Waves of hellfire, while slashing at the obsidian walls with his glaive, doing little more than adding some hellfire and blood to the mix.
+
+The adventurers scattered, running from the Sand Vortices while the archers and mages unleashed a hail of damage upon them. One by one, their mana condensed, growing unstable until they imploded in a blast of supersonic sand particles. But the healers were there to catch anyone who got hit, and silence returned to the sands once again.
+
+Eyes searched the battlefield in anticipation, a moment’s respite for breath to rasp into hardworking lungs and thumping hearts to ease – at least, little.
+
+“Breach!” Ali yelled, marking the spot again.
+
+This time, when the Sandwyrm breached out of the desert dunes, it breathed sand in a deadly spray, trying to catch the wily adventurers in its blast. But it wasn’t just sand that slammed into her barrier magic; the great wyrm’s breath was laced with hellfire and dozens of imps that flew out in flame form, turning back to shoot fireballs when they landed.
+
+“Elemental Storm,” she said, once again. And this time, the obsidian scales cracked, leaking dark flame from within. Ice, lightning, arrows, and wind, all kinds of magic and projectiles found the cracks, tearing through the giant monster’s armor to pierce the vulnerable insides. Rogues Shadow Stepped into the gouts of hellfire to unleash their ambush attacks. Mato tore into the sides with his void magic, and even Malika darted through cracks and flames, unleashing her Soul Strikes with impunity while shrugging off all the damage.
+
+The beleaguered monster let out one last roar and collapsed into the sand, the shock of its impact sending waves through the dunes as hundreds of cackling Hellfire Imps spilled out of the great rents in its body. And then the point of an onyx glaive stabbed into the open, ripping through scales as Maalgaroth clawed his way triumphantly out of the corpse, bellowing in victory and covered in obsidian-black blood.
+
+Out of habit, Ali checked her main notifications. She wanted no surprises.
+
+Your group has defeated Obsidian Sandwyrm – Elemental Dragon – level 197 (Earth / Gravity)
+
+“Rest up quickly,” Calen said. “I see another on the horizon.”
+
+There were several groans, but the general mood seemed much more upbeat than last time.
+
+Amazing what a plan and a few levels can do. Speaking of levels… Ali scanned further, finding what she was looking for amid the reams of notifications.
+
+Your Pit Lord has reached level 160 (+3)
+
+Perfect! He’ll make a great Rift Guardian.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

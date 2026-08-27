@@ -1,0 +1,233 @@
+---
+id: 891bfd9c-29a2-5484-acf8-0145959ea9ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-One: The Search for the Horn"
+slug: 0062-chapter-sixty-one-the-search-for-the-horn
+partOf: flesh-eater-demon-evolution-litrpg
+position: 62
+ownLength: 3585
+unit: words
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3013902/chapter-sixty-one-the-search-for-the-horn"
+royalRoadId: "3013902"
+---
+
+Sleeping was an odd experience. Pyre was pretty sure people were supposed to dream or go completely unconscious or some shit, but instead, she ended up in a weird middle-ground where she was just aware enough to feel sensations, but everything was pitch black. There weren’t any specific images or sounds—just a persistent feeling vaguely resembling falling or flying.
+
+The feeling itself wasn’t unpleasant, though. If anything, it was a little familiar. She couldn’t tell if it was a remnant of an old, buried memory, if all demons “dreamed” like this, or if it was just a quirk of a shattered soul.
+
+Either way, Pyre ended up sleeping much more soundly than she’d expected. It wasn’t until a few hours later that she started to pull away from that all-encompassing darkness, woken by Daphne and Callan’s ongoing argument.
+
+Both mages now stared at her as she shoved herself up from the bed. Some of the dust on the blankets had clung to her uniform, and she haphazardly patted it off. She probably should’ve taken her uniform off before sleeping, but in her defense, she hadn’t actually expected to go unconscious.
+
+Pyre glanced around the room, noting the open books on the desk (definitely Callan) and the clock. She whistled. Damn, she’d slept way longer than she’d thought. She did genuinely feel rejuvenated, though—all the weariness had dulled down to a slight extra heaviness to her limbs—so it was worth it. Maybe she should try sleeping more often. Then again, she might’ve only been able to fall asleep because of the curse, so this could be a one time thing.
+
+For now, the demon turned back to the two mages. Callan was hovering a good half a foot above the ground, still partially turned towards Daphne, and Daphne had a finger jabbed at the ghost like she was about to try stabbing him in the chest or something. Both of their faces still held some lingering annoyance from their argument, but Callan’s was starting to get replaced with embarrassment. Daphne, meanwhile, was eyeing her with wary suspicion.
+
+Pyre swung her legs over the edge of the bed so that she was seated facing the noble. She jerked her head at the closed door. “A servant’s probably gonna come looking for you if you don’t get to the dining hall soon. Wouldn’t want John to think I kidnapped you,” she drawled.
+
+The human frowned, but nodded slowly. She lowered her arm and cleared her throat.
+
+“Alright, we’ll head down now.” She turned to Callan. “As long as you stay in this room, no one should bother you. I’m guessing you don’t need food or anything like that.” Her eyes narrowed. “I don’t think I need to tell you what’ll happen if someone sees you.”
+
+Callan rolled his eyes. “I’m not an idiot,” he muttered. Pyre raised an eyebrow. Apparently all it took to get rid of the ghost’s unease around the noble was for them to get in a big argument about magic shit. She would count this as progress.
+
+Daphne’s eyebrow twitched, but she turned towards the door. Pyre rose to follow, more dust falling off her clothes as she did so.
+
+“Your hair,” Callan muttered. Pyre glanced at the mirror and saw that a few strands were falling out of her ponytail, so she retied it. She used the opportunity to pat the top of her head, too, in case her horns were poking out, but her skull remained smooth for now.
+
+All set, Pyre strode forwards towards the door where Daphne was waiting. “Take care, kid,” she said to Callan. The ghost nodded, smiling a little.
+
+“You too.”
+
+Pyre had been expecting Daphne to interrogate her some more when they left the room, but the noble was surprisingly quiet. She ate her breakfast the same as usual, only occasionally speaking to explain her schedule for the day. She seemed to be very deliberately avoiding the elephant in the room. Or the ghost not in the room, she should say.
+
+That was fine for the demon. They just needed to avoid getting thrown out long enough for Callan to find the horn, which he hopefully would by the end of tonight. Then they’d steal it, either quietly or with a bang if necessary, and be gone. She didn’t need to be friendly with Daphne to achieve that, though a part of her did find this current quiet a bit boring.
+
+Daphne was just finishing up her eggs when she suddenly blurted out, “Was the Lightning Pass story a lie?”
+
+Pyre raised an eyebrow. That definitely wasn’t the question she’d been expecting.
+
+“Nah, it wasn’t. I just left out some parts.”
+
+The noble frowned. “You mean Callan’s entire existence,” she accused. She paused, brows furrowing. “Or did that happen before he…” Her voice trailed as she clearly tried to think of a polite way to say “died.” The demon snorted in amusement.
+
+“It was after.” She cocked her head. “Traveling with a ghost’s not all that hard, you know.”
+
+Daphne smiled wryly. “True. I guess you wouldn’t have to worry about him as much as when he was… human.” She went quiet, simply staring down at the last of her fried eggs. After a moment, she looked up again. There was a faint hesitance in her voice when she spoke.
+
+“Did you sleep okay? I mean, your ichor-poisoning didn’t get worse, right?”
+
+Pyre raised an eyebrow. “I’m just dandy. I should be asking you that,” she drawled.
+
+Daphne huffed. “I’m fine. Yesterday was just an… extenuating circumstance.” She pointed her fork at the demon. “And just so you know, I don’t usually collapse like that. Normally I can get myself somewhere safe before anything serious happens.”
+
+“Sure. Of course.”
+
+Daphne squinted at her, probably trying to tell if the demon was being sarcastic or not. She must have concluded it was sincere, because she nodded and lowered her fork again.
+
+A few more minutes passed with nothing but the sound of the noble’s fork clinking against the plate. Pyre’s eyes moved casually across the dining hall, vaguely wondering where else the horn could be. Her mind was already drifting when Daphne suddenly spoke again.
+
+“…Thank you.”
+
+Pyre turned in her direction. Daphne was staring at her with an unreadable look, half scrutinizing, half something else.
+
+“The forest,” she clarified. “You carried me after my attack, right? You could’ve just left me there, so… thank you.”
+
+The demon hummed, shrugging. “Nothing to it. I didn’t want to get fired.”
+
+Daphne barked out a laugh and shook her head. When she turned to Pyre again, she was smiling.
+
+“It could still happen, you know. I could fire you for disrespect.”
+
+Pyre raised an eyebrow. “Oh no,” she deadpanned. “Whatever will I do.”
+
+The sound of the noble’s ringing laughter filled the empty dining hall.
+
+The rest of the day passed without much incident. Daphne continued to randomly chat with Pyre, and while she wasn’t quite as open as she’d been before, she seemed less suspicious overall. She didn’t even look all that worried when asked about Callan despite almost fire-blasting him mere hours ago.
+
+When Pyre pointed this out, an eyebrow raised, the noble just shrugged. Apparently getting into an argument about magic was such a “human” trait that it had eased much of Daphne’s fears. Pyre didn’t really get it, but hey, she wasn’t going to look a gift horse in the mouth.
+
+With that in mind, Pyre returned to her room later that evening feeling pretty satisfied with how things had gone. She didn’t have any guard shifts today (Harris had been very adamant about the importance of “rest days”), so she’d grabbed her dinner from the servant’s hall, then picked up her meager possessions (mainly her singular bag) from her old room in the servant’s quarters before heading back to the main wing. Now, the demon gripped the doorknob and turned, swinging the door open.
+
+The inside of the room looked empty at first, but she could see a telltale cold spot hanging by the desk. The moment she closed the door, Callan became visible again.
+
+“Could you knock next time?” he hissed. “I thought you were a servant or something!”
+
+Pyre raised an eyebrow. “Why, did someone drop by earlier?”
+
+The ghost nodded. “An older butler,” he explained. “I turned invisible when I heard footsteps, so he didn’t see me. He left after dusting the place.”
+
+Now that she thought about it, the place did look noticeably cleaner. Pyre hummed.
+
+“I’ll bet that was John.” She cocked her head. “Well, if he didn’t see you, it’s fine.” She strode forward and dropped her bag onto the bed, then turned to Callan again. “You didn’t use up all your invisible time, did you?”
+
+He huffed. “I’ve still got three and a half hours.” His eyes shifted to the window. The curtains were drawn, but the total lack of light slipping between the cracks indicated that it was now dark out. “You don’t have a guard patrol today?”
+
+“Nope.” Pyre popped the ‘p’ and leaned casually back against the bed. “Let me know when you’ve found the horn.”
+
+Callan nodded, jaw tense with nerves. For an incorporeal, translucent ghost, he looked awfully stiff. The demon snorted.
+
+“Relax, kid. It’s not like you’re stealing the thing right now. No one’s gonna know you’re there. Just figure out where it is and come back. You’re acting like you’re about to rob the place.”
+
+“Technically I am,” he muttered. “This is just the first stage.”
+
+“Exactly, no active robbing right now.” The demon made a shooing motion with her hand, amused. “Go on. Might as well get this over with.”
+
+Callan slowly nodded again. He took a deep breath, and in a flash, he disappeared from view. Pyre watched the blue splotch in her vision fade through the door, then turn down the hallway until it was out of sight. Now she just had to wait.
+
+To pass the time, she started cycling through her skill activations again to try and get in some experience. She’d like to work on improving [Regeneration], too, but if someone did walk in, they’d probably freak out if they saw her stabbing herself with a bone. Then again, the door was locked, so maybe it didn’t matter.
+
+Fuck it, she decided. She had time to kill anyway.
+
+Seated at the edge of the bed, she raised one arm, rolled up her sleeve, and unwrapped the bandages up to her elbow. Focusing, she attempted to warp just her forearm while maintaining the rest of her humanoid shape, activating [Ossification] to convert the flesh into bone.
+
+In front of her eyes, pale skin warped and hardened into bone while the rest of her flesh stayed in place. She then began shaping the bone, first flattening it, then sharpening the edges of the shape until it resembled an axe head. She’d been staring at weapons all day in those weapons classes, and she’d never had a chance to test shaping her bones to mimic them. Now was the time, she supposed.
+
+It took a few tries to get the distribution of bone right (her first go around was too heavy at the tip compared to the axes she’d swung around at the garrison), but once she did, she could then translate her new knowledge into a sword shape and then a spearhead. The bone blades were pretty damn sharp, if she did say so herself. She never had figured out where her axe-fighting knowledge had come from, but at least she could put those skills to use even in her demon form.
+
+By the time three hours had passed, Pyre hadn’t managed to get any of her skills leveled up, but her [Keratin] trait did increase to level 3. That was passive, though. “Having skin and hair” was probably enough for it to gain experience, though she did wonder if her suppressing her horns was causing it to level more slowly than some of her other traits. Some food for thought.
+
+Focusing again, the demon carefully shifted her arm back into a human one. That was a lot easier to do now thanks to [Skeletal Recall], and she rewrapped the bandages and pulled down her sleeve before glancing up at the clock. Callan should be back soon.
+
+As if one cue, a cool blue splotch appeared by the bedroom door. Pyre turned just in time to see Callan phase into visibility again.
+
+She could tell just from looking at him that the news wasn’t good.
+
+“I can’t find it.” Callan sounded frustrated, and his brows were furrowed. Pyre gave him a long look.
+
+“You checked everywhere?”
+
+“Yes.” The ghost turned, floating back and forth around the room as he rambled. “I checked every room, the servant’s wing, even the garden! I can’t find it anywhere.” He stopped pacing and turned to Pyre, frowning. “I—I don’t think it’s in the manor. Do you think they sold it? Or, or maybe it’s hidden somewhere.”
+
+Pyre considered this. She didn’t think it was the latter—Callan was extremely detail-oriented and overly careful. Even if it was behind an anti-incorporeal ward, he wouldn’t have missed the runes. It was more likely that the horn really wasn’t anywhere inside the manor. The question, then, was where it had been moved to.
+
+“Maybe…” Callan began tentatively, “maybe we could ask Daphne? She might know about it.”
+
+Pyre raised an eyebrow at that. “That’s the last thing I thought you’d say, kid. Weren’t you complaining about not looking suspicious?”
+
+“I know.” The ghost’s frown deepened. “It’s really risky, and she’ll definitely think something’s up, but it might be a little more believable that you survived a fight against a demon now that she knows I’m a ghost? I mean, I could say I took the demon by surprise, and you got cursed before we escaped?” Even as he spoke, the words sounded unsure. Neither of them really believed it would be that easy to explain away.
+
+Pyre’s own mind, however, had shifted to something else. A place she’d gotten a weird sensation from that had yet to be explained. Somewhere outside the manor, but still close.
+
+She hummed. It might be a long shot, and she didn’t have any real proof that the horn was there besides a vague feeling, but she figured it was worth checking out before they resorted to telling Daphne about the curse.
+
+“Before we do that,” the demon began, “there’s another place I want to check first.”
+
+When the sun rose the next morning, they had their plan hashed out.
+
+“I don’t like this,” Callan muttered. “I know telling her about the curse is suspicious, but this is also pretty suspicious.”
+
+“Eh, it’ll be fine.” Pyre yanked open the curtains just enough to peer outside. The sun had risen, and she could see a few guards wandering around the garden. She pulled the curtains shut again and strode over to where Callan was hovering by the desk.
+
+“Just let me do the talking. No offence, kid, but you’re pretty bad at lying.”
+
+The ghost’s lips thinned, but he didn’t try to argue the point. “I can’t help having a guilty conscience,” he muttered.
+
+Pyre chuckled. “Maybe not, but you could be less obvious about it.”
+
+Callan grumbled something under his breath while the demon plopped down on the edge of the bed. She didn’t feel drowsy at all, so she was assuming “sleep” was only possible in extenuating circumstances a la life-draining curse mark.
+
+Pyre focused, dulling her other sensations so she could concentrate on the vibrations moving around the building. There was a set of tremors moving closer that had a noticeably different rhythm from the heavy footsteps of the guards or the hurried ones of the servants. They were brisk, smooth, and confident.
+
+“She’s coming.”
+
+The demon rose and strode over to the door. The moment she reached it, a knock rang out around the room. Pyre promptly grabbed the doorknob and swung it open.
+
+“Morning, Lady Daphne,” she drawled. The noble blinked up at her.
+
+“…You’re up early.”
+
+Pyre raised an eyebrow. “So are you.” She opened the door wider to let Daphne inside, then shut and locked it. Despite her words, she’d fully expected the noble to show up bright and early today too. Probably to check and make sure they hadn’t destroyed the room and Callan hadn’t disappeared.
+
+Speaking of Callan, the ghost had flitted behind the dresser when the door opened and now slowly floated back out. He mumbled a “morning” to Daphne, who returned it with a slow nod.
+
+The human’s eyes darted around the room, and Pyre noted her gaze slowing a little when it landed on the demon’s bag and the new set of books laid out on the desk. Perceptive indeed. She cleared her throat.
+
+“Since it’s been a day,” Daphne began, “I thought I’d check how you two are settling in.” Her voice had taken on that proper “noble tone,” as Pyre called it. She glanced back at a nervous-looking Callan, then faced Daphne again.
+
+“Pretty good. Nice beds you’ve got here—very soft.” She cocked her head. “We did have a question, though.”
+
+Daphne stilled for a fraction of a second, but quickly collected herself. “What is it?”
+
+“We want to visit the sanctum.”
+
+The noble frowned. Clearly, that hadn’t been what she’d expected. “The sanctum? You can go there whenever you want.”
+
+“It’s closed to the public right now,” Callan said. He coughed. “Construction.”
+
+“So just wait for it to be done. They’re bound to open it up again at some point.”
+
+Pyre made her best attempt at sending a purposeful look to Callan. This was the part they’d discussed.
+
+Based on what Pyre and Callan had seen of the sanctum previously, breaking in would be, in a word, a pain. There were guards outside all night and just as many wards as there were on the manor walls. Pyre could deal with the guards pretty easily, but the spells were more tricky. They could probably figure something out, but it would take time and a lot of finnangling. The longer they spent outside, the higher the risk of getting caught.
+
+On the other hand, Pyre still distinctly remembered how Daphne had bent the walls two nights ago. She hadn’t even thought Callan getting into the manor was a possibility up until that point. If the Bellheins were paranoid enough to put up weird spells that let them open walls and shit, she was willing to bet they had special sanctum access, too. Special access that let them enter without needing to go through the front door. They just had to convince Daphne to help them inside.
+
+“So, you know how you said Callan didn’t need food or water yesterday?”
+
+Daphne nodded slowly, glancing at the ghost in question. “Was I wrong?” Her eyes narrowed. “You didn’t drain someone, did you?” she asked, voice low and threatening.
+
+“No!” Callan said hurriedly. “I’d never.”
+
+“Yeah, he doesn’t drain people. But ghosts still need sustenance and shit.”
+
+Daphne frowned. She looked like she was still considering that fireball. “So…?”
+
+“So we figured out he can drain raw ichor instead of people,” the demon continued without missing a beat. She cocked her head. “Ghosts drain life, right? Well, technically ichor’s just life energy, so it works out pretty well. No one gets hurt this way.”
+
+There was actually some truth to the statement, according to Callan. The main difference was that Callan didn’t seem to need to drain things to stay alive. He wouldn’t level if he didn’t, but he wouldn’t fade away, either. Monsters were, apparently, pretty good at surviving.
+
+“I tried to visit the sanctum,” Callan added in a rush, “but it was closed.” He shifted uncomfortably. “And I don’t know when it’ll reopen, so…” His voice trailed, and he gave Pyre a helpless look. The demon just shrugged. She did say to leave the talking to her, but to be fair, the ghost wasn’t actually doing too bad. He looked nervous as fuck, but he looked like that half the time anyway, so it didn’t seem to ping on Daphne’s deception radar.
+
+The noble nodded slowly, brows furrowed as she took in the information. “Could you use the fountain? That has ichor running around the base.”
+
+“It’s not enough,” Pyre said. She cocked her head. “We’ve tried it with smaller pools before. It needs to be a pretty big source, and it has to be pure.” She nodded at the noble. “We were hoping you knew a way in. It wouldn’t take long. We’d be in and out in half an hour.”
+
+The demon could practically see the gears in Daphne’s head turning. The unspoken implication of their little lie was that if Callan didn’t get access to the sanctum to “eat,” he’d either ghost-die or have to drain people, and the noble clearly knew that. Pyre was banking on it, in fact. Daphne seemed to care a lot about the safety of Magrath’s people, and her actions suggested that she wouldn’t let Callan die either unless she knew for a fact that he was doing something wrong. If she ignored them, she’d be going against her own values.
+
+The noble bit her lip.
+
+“…I might be able to help you,” she began. Callan’s eyes lit up, but Daphne continued just as he was opening his mouth to thank her.
+
+“But,” she emphasized, “I’m going with you.”

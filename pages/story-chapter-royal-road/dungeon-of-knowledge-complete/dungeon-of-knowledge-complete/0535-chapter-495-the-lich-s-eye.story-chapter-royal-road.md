@@ -1,0 +1,151 @@
+---
+id: 2a93f909-d0c9-576c-a3d1-fec1b0171b82
+page-type-slug: story-chapter-royal-road
+title: "Chapter 495: The Lich’s Eye"
+slug: 0535-chapter-495-the-lich-s-eye
+partOf: dungeon-of-knowledge-complete
+position: 535
+ownLength: 2652
+unit: words
+ownProgress: 2652
+publishedAt: 2026-01-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2908241/chapter-495-the-lichs-eye"
+royalRoadId: "2908241"
+markedReadAt: "2026-06-29T20:30:26.629Z"
+---
+
+Ali stopped prodding Malika with her finger when her friend turned and met her querying gaze with a dazed stare.
+
+“Uh,” Malika said.
+
+Ali waited, but she said nothing more. Is she ok? The ring looked like it might be cursed, what with how ominous it appeared. She prodded Malika again.
+
+“Ali… can you… use this?” Malika managed, her voice barely a whisper.
+
+Ali glanced dubiously at the ring on Malika’s outstretched palm. “Is it cursed?”
+
+“… no…”
+
+What’s got her so shaken?
+
+Then Malika shared her appraisal. Normally, when Malika shared something, the text showed up in her signature blue-white light. This time, the lines of text seared into Ali’s mind in black, murky letters blazing with such malevolent intent, she gasped.
+
+The Eye of the Lich – level 205The silvery runes etched into this twisted, gleaming band thrum with a dark, malevolent power. The ring is set with a faceted stone forged in the Well of Eternity and cut to resemble a dark eye that continuously leaks a dreadful energy, surrounding the wearer in a noticeable shroud of darkness. +336 Intelligence.+25% spell power to all skills.+273% to Death damage.+200% to Health, Stamina, and Mana Regeneration.+25% to Movement Speed.11% chance to cast level 143 Summon Lesser Undead when hit.Summon Supremacy (percentage increases and decreases that apply to you also affect your minions).Mana: Store or retrieve an item. Capacity: 4978 / 15000 kg.Requirements: Intelligence 2154.Quality: Legendary.Value: 3850 gold.Created by Nevyn Eld in the Well of Eternity.Ring – Nether-Forged Darksteel
+
+“Well, that’s just ridiculous,” Mato declared, the first to break several minutes of silence while everyone digested the implications of what Malika had found. “No wonder there were so many skeletons running around with that proc going off all the time. We were hitting him a whole heck of a lot.”
+
+“It sure is ridiculous,” Calen agreed. “Ali, will that Summon Supremacy keystone work across your entire dungeon?”
+
+“I believe so,” she answered, grappling with a heavy deluge of conflicting feelings. This dark ring, leaking blackness into the air above her palm, was their first legendary drop – something she had only ever read about in the Grand Library Arcana before she had woken up in this age. The idea of boosting all her minions with every percentage enchantment, aptitude, and maybe even skill she possessed was simply ludicrous. It was beyond even Mato’s assessment.
+
+But it was made by him. It bore his mana signature. Even the name of the ring referenced the Blind Lich. The nether-forged darksteel band, whatever that was, and the strange eye-like stone had been forged in the Well of Eternity – an artifact of vast power and uncertain allegiance. And if that wasn’t enough, it looked ominous, devouring any light that came near it.
+
+“It’s a summoner’s ring, for sure,” Malika said, finally seeming to collect herself. “That storage is enormous and filled with corpses and bones.”
+
+Ali recalled Seth’s observations about being a necromancer. One of the most challenging aspects, he had claimed, was getting started. It was rather frowned upon to keep undead in a civilized town, something that was liable to get him killed or, at best, banished, and so, whenever he headed out, he needed to kill something without the benefit of his undead army just to get going. Having ready corpses in a storage ring was essential, but obviously, that got heavy quickly.
+
+“Ali, I think you’ll be unstoppable wearing that,” Calen said, getting visibly excited.
+
+Certainly, she felt herself getting caught up in his excitement for a moment, her mind going on flights of fancy as she considered how much spell power she could lend to her mages, and just how incredibly potent her bosses would be. No more worrying about being ambushed at home by some egotistical treasure hunters.
+
+But her logical mind, ever the dream breaker, brought her sharply back down to reality. “I’m nowhere near high enough level to wear it,” she admitted. “Nor do I have the more than two thousand intelligence it requires.” Although, on that front, she was very close.
+
+“But you’ll reach that soon,” Calen said, his grin betraying his excitement.
+
+Ali glanced at each of her friends, realizing that they were all excited for her. I guess I am getting close, she thought, their excitement beginning to spill over into her. It was simply that the idea of reaching level two hundred had always seemed like such a distant summit – only to be ascended in the distant future.
+
+“You should keep it,” Malika said. “Use it when you can wear it. We can get Seth to sort through the bone collection he had stored in there.”
+
+“Ok,” Ali said, smiling happily as she stashed it away. For once, her burgeoning excitement overruled her distaste at having another item of his crafting. What was it Malika said? she thought. Something about the Ahn Khen masters using the skills of their enemies to grow stronger…
+
+Mato stopped beside the tall troll dressed in her green robe. For all that she was a troll, she seemed demure and somewhat shy, distinctly un-trollish traits from everything he’d seen so far. Even Gara had been decidedly forthright.
+
+“Thank you for healing me,” he said, nodding toward her. Without a doubt, this shaman had saved his life and carried him again and again through the Elemental Storms. When Ali powered up, those green beams were something else.
+
+“Of course,” she said, bowing her head. “It was her will.” With the subtle emphasis she placed on the word ‘her,’ she glanced over to where Ali was talking with Calen and Malika, presumably discussing their next move. “You should thank her.”
+
+“I will,” Mato said. It felt strange talking to Ali’s minions like they were people. However, ignoring them felt far worse.
+
+It wasn’t, he reflected as he led the group through the giant gates behind Haverron’s Plaza, that he was frustrated he had nearly died. No, the source of his frustration came from being brought face-to-face with the incontrovertible fact that his skills were inadequate.
+
+He had been rendered helpless before the great Death Knight general as the desolate ice magic clawed its way through his body and froze him solid. He had been forced to use his Last Stand merely to stave off the inevitable while the Elemental Storm raged with unchecked fury. However, he was used to this. This was the essence of tanking in a nutshell: his job was to stave off death just long enough to give the healers room to keep him alive. All his skills were oriented toward this singular goal.
+
+Sure, he could invest in better ice resistance gear, more armor, and these things would all be great. Given the enchantments on the items Malika had recovered from Haverron, no doubt he would be able to get Thuli to craft him a substantial upgrade soon. But it seemed it was his combat skills that were lacking, and that was a far more fundamental problem.
+
+He didn’t mind facing someone who had better skills than he did – those often led to the best fights. Growth came from challenge, he fully believed. However, Haverron’s swordsmanship so outclassed his own combat skills that Mato felt unable to deliver. It had been a good fight, but deep down, he knew he had missed out on a great fight, simply because he wasn’t enough.
+
+Maybe I should talk to the Guildmaster when we get back. He had availed himself of many of the combat training classes at the guild – heck, he’d even taught some – but this fight… He grimaced. It was abundantly clear that continuing to rely on the practical approach of learning on the go for most of his training was woefully inefficient. He needed a fundamental shift in his combat proficiency if he wished to match the likes of Haverron. If this was the caliber of skill he could expect going forward, that was the bare minimum. If Vivian doesn’t know someone with the right skillset, perhaps Lyeneru? Or better yet, maybe Azryet could give me some pointers on my claw techniques?
+
+Puffing out his cheeks in a gusty sigh that billowed steam around his head, he left the long, icy tunnel, and instead of his claws clicking on rock and ice, felt the soft plush of a crimson carpet woven with geometric silver patterns under his paws – carpet which covered a polished stone floor stretching away down a vast corridor.
+
+The world had turned inside out. The entire dungeon so far was strangely reminiscent of their first time exploring the Ruins of Dal’mohra, crawling around the streets and alleyways of a ruined city, ducking into buildings for cover when needed. But now, he was inside instead of outside, although the space seemed no less vast. Even the décor reminded him of an ancient, abandoned temple built to worship an unknown god.
+
+Dark sconces lined the walls, burning with flickering, black and red flames that seemed to cast shadows rather than illuminate, and in the dim light he could make out soaring murals depicting epic battles between dark-skinned elves and a horde of ghouls, wraiths, and wights in gorgeously preserved detail and color painted across the walls and covering the vaulted ceilings.
+
+They passed by several open archways leading into dimly lit rooms, pausing in their progress to allow Calen to scout them out, but, aside from their enormous size, they lay empty and deserted, as silent as a tomb. But while his sensitive ears could pick up nothing, not even from the dancing flames, his nose was filled to the brim with the unholy stench of the living dead.
+
+He growled deep in his chest, bringing up his results from the Haverron fight. Almost forgot. Come on, Mato! He should at least spend his attribute points before they encountered any more Devastation Knights.
+
+Elemental Shapeshifter has reached level 160 (+7).+70 attribute points.Arboreal Sanctuary has reached level 68 (+3).Swipe has reached level 83 (+3).Brutal Restoration has reached level 78 (+2).Bear Form has reached level 77 (+3).Rampant Growth has reached level 43.Bestial Combat has reached level 66 (+3).Natural Prowess has reached level 65 (+2).Survival Instinct has reached level 82 (+5).Battle Trance has reached level 59 (+3).Last Stand has reached level 26 (+2).Cooking has reached level 25.
+
+Mato eyed his Swipe and Survival Instinct skills, the two closest to the level one hundred breakpoint Ali had discovered. Still, he was nearly twenty levels off for each. He frowned inwardly; it would take some time to unlock his first tier-two skill. Still, Ali had fifteen levels on him, so it wasn’t like he was doing particularly badly with his skill growth.
+
+Not particularly mollified, he decided to spend eighteen points on vitality, twenty on strength, and seventeen on endurance. He considered the remainder carefully, and then spent five on wisdom, four on perception, and three each on dexterity and intelligence. Good enough. At least now he would be fighting whatever came next at full strength – even if it wasn’t much of an answer for his combat skills against something like Haverron.
+
+“Nothing, only traps,” Calen said, emerging from the side room. “Let’s continue.”
+
+Mato dismissed his notifications; they contained no answers for his dilemma unless he planned to use Cooking on these undead. Ha! It would need to wait for later. He sniffed the air, but the reek of the undead masked all other scents, so he turned and walked slowly down the center of the carpeted passage, not keen on rushing too quickly, just in case the others spotted traps or monsters.
+
+After a short while, the corridor led them to a small chamber. Several ice-encrusted marble urns were stacked in the corner beneath the mural of a singular elven archer wielding a radiant bow. He regarded it for a moment, curious at the resemblance to Lyeneru, but then his attention turned to the three arched exits leading onward into dimly lit corridors.
+
+“Which way?” he asked, wondering why Calen was looking around with a puzzled expression, but he didn’t need to wait long.
+
+“This wasn’t here last time,” he said, returning once to the door they had entered from but not finding what he was expecting. “Do you remember this, Ali?”
+
+“No, but you’re the cartographer and explorer. If you don’t remember this, then it wasn’t here.” Ali said. “It is possible that the domain rearranged things.”
+
+“Is it?”
+
+Mato pricked up his ears, too. Such a thing would be incredible if it were true.
+
+“I think so,” Ali said, her brow furrowing in thought. “I could do it, but it would take a fair amount of effort.”
+
+As always, having an actual live dungeon on their team proved to be an extraordinary asset. “So… which way should we try?”
+
+“I think we should take the right-hand doorway, Mato,” Calen answered him aloud. “Assuming it’s harder to move something like the Well of Eternity, I can try tracking it based on general direction.”
+
+“Ok.”
+
+Mato paused at the threshold for a moment as a hint of a different scent tickled his nostrils, but even as he raised his head and sniffed, it seemed to vanish, leaving him wondering if he imagined it. He stepped into the dark, quiet hallway, still feeling the carpeted floor beneath his paws, but as he did, something turned the corner up ahead, entering his passage. A bluish translucent skull made entirely from ice hovered in the hallway near the far exit, slowly turning in place. Suddenly, twin beams of blazing indigo shot out from its eyes, bathing the murals on the walls with an ethereal light.
+
+Frozen Skull Sentry – Elemental – level 181 (Ice)
+
+“Company!” He shot his thoughts into Calen’s mind as he charged down the hallway, tearing up the carpet and disintegrating the stone beneath it with the void magic that suffused his claws. If there was one thing he knew for certain, allowing anything with the word ‘sentry’ in its name to get away would spell disaster for their group.
+
+The eyes flicked around, fixing him with a cold, inhuman stare.
+
+You have been cursed with Frozen Doom.You are frozen.Detonate with Frost Nova when Frozen Doom expires.Curse – Duration: 3 seconds.
+
+You have been cursed with Mark of Frost.You are wreathed in an outline of frost, making you easier to see and hit. You are visible.+20% to accuracy of all attacks targeting you.Curse – Duration: 5 minutes.
+
+He crashed to a halt several yards away from the levitating blue skull, his flesh flash frozen by the curse. An inhuman screech assaulted his ears, followed by two ice bolts that shot from its eyes, passing a scant inch above his head and shooting down the passageway, presumably to strike whoever was coming to his aid.
+
+Then the skull vanished with a strangely potent twist of mana, and somehow, he knew he was not alone.
+
+You have been cursed with Lightning Vulnerability.
+
+“Curses. Lots of curses,” he whispered into Ali’s mind.
+
+Bolts of lightning thicker than his thighs burst in rapid fire from several unseen assailants, converging in the center, burning through his hide and flesh. Even frozen, his muscles jolted painfully. Bolt after bolt blasted him, more than twenty in less than a second, while his danger sense screamed in the back of his mind, burning not only his health, but his mana too.
+
+On pure instinct, he triggered Last Stand. Then the Frozen Doom curse exploded, flash-freezing the entire corridor, coating it with sheets of ice and sideways-growing stalactites.
+
+He staggered as his muscles tried to recover from the unexpectedly violent onslaught, blinking in a vain attempt to clear the purple afterimages from his eyes. But he didn’t need eyes to fight; they stank. He cast Identify, using his sense of smell to deliver the spell.
+
+Dark Soul – Ghost – level ??? (Lightning / Death) x4
+
+“Ghosts!” he shouted.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

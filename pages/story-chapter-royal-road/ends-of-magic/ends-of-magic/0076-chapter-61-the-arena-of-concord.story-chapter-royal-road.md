@@ -1,0 +1,211 @@
+---
+id: a214ae55-9223-53ea-8344-f4b6bcd22d4c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: The Arena of Concord"
+slug: 0076-chapter-61-the-arena-of-concord
+partOf: ends-of-magic
+position: 76
+ownLength: 2887
+unit: words
+ownProgress: 2887
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3118985/chapter-61-the-arena-of-concord"
+royalRoadId: "3118985"
+markedReadAt: "2026-06-29T20:09:42.251Z"
+---
+
+The Heirs discussed their planned speeches late into the night, going through multiple outlines before practicing. Nathan and Khachi had both given plenty of dramatic battlefield speeches and possessed skills that enhanced their oratory. Social skills wouldn't influence others during the conclave, but they could still function internally to guide a speaker. None of the other Heirs had any social skills or much practice, and they struggled to provide much help, or even prepare snappy counters they could deliver at the end of a duel. Stella in particular stumbled over her words, protesting that she'd have a better response in the moment. Nathan encouraged her to keep thinking about it in idle moments. There was nothing for speaking off the cuff like knowing your points backwards and forwards.
+
+Nathan had some trouble falling asleep afterwards, for many reasons. Partially, he was taking his own advice and going over his arguments ad infinitum, which probably wasn’t the best idea. There wasn’t a perfect answer for what to say, no magic words that would fix everything. But he kept searching for a turn of phrase that would be a bit better, that could, in some hypothetical scenario, be the edge between victory and defeat.
+
+What he was really doing was avoiding the existential dread lurking at the edge of his awareness. He was on the edge of the abyss, and it would be soul-crushing to let himself feel the weight of the quite literally billions of people who would die if he messed up.
+
+Eventually, he meditated to clear his mind, and then reflected on the wonders of Ostren. It was a beautiful place, with picturesue landscapes and exotic cities. If he had one critique, it was that the mortals here were too subservient to Questors. But then again, he’d only really interacted with the mortals in Questor-facing services. Most of the villages he’d flown over probably never saw any Questors. He drifted off to sleep while trying to piece together how those societies worked based on what he’d seen from above.
+
+The next morning, Nathan and the Heirs met Sarya for a late breakfast in a cozy breakfast nook decorated with live trees growing from the walls. She started them off. “I’m your scheduler now, and Colborn is wrangling our delegates. What do you wish from the day?”
+
+“I wanted to see the inside of the Arena,” Nathan prompted, sipping at a sweetened coffee-like drink and eating a pastry. “Beyond that, we just need some time to prepare, unless there’s anybody else you think we need to talk to. We could probably use some more feedback on our planned speeches.”
+
+“Nobody notable, and feedback is easily accomplished,” Sarya said agreeably. “Aught else?”
+
+“I want input from Kaelis on my words,” Stella added. “He spoke with magic, and this is his conclave.”
+
+“Are there any more magical items I could get?” Aarl asked. “I’ve got quite a wealth already, but I don’t have many disposable weapons suited against specific builds.”
+
+“I could do with practicing against various enemies in mock duels,” Sarah said.
+
+Sarya considered their requests for a moment. “There's time in the afternoon, I’ll send some messages. For now, let’s go see the Arena of the Concord.”
+
+They left the Golden Respite and walked towards the arena. The shadow of the giant mirrored sphere felt oppressive to Nathan, as if it were a massive boulder about to slip off its perch and roll down to crush them. The connection to the crest of the hill looked small from a distance, but that was only because of the huge scale of the building. There were enough entrances for thousands of people to funnel through at a time.
+
+“Most of the Questors will arrive by Travelling into the city and then walking or flying into the arena,” Sarya explained.
+
+They entered from the ground and were transported up into the massive sphere by a magical lift. The Heirs rode on the platform of force while Nathan followed along behind, jumping on the air inside the open shaft. They entered the main space, and Nathan gazed around at the space in wonder. The entire sphere was hollow, which he’d expected on some level. But it was a bit vertigo-inducing to see a perfectly spherical internal shape so large. It was like somebody had taken two Olympic stadiums, flipped one upside down, and pasted it atop the first. The seats up there were upside down, with gravity magic imbued into each seating ring so that everybody had a comfortable viewing angle and nobody had to crane their necks to see the center of the sphere. The stonework all around was plain and smooth, without the baroque excesses he’d come to associate with Questors. It looked like it had been carved by machine.
+
+At the very center of the arena, equidistant from all of the seats, was a mostly translucent crystal platform. It looked hemispherical from here, though Nathan was having a difficult time judging distances because it was hard to get a frame of reference.
+
+“How many seats?” Khachi asked from atop the plane of force that held the Heirs.
+
+“A hundred and fifty thousand,” Sarya answered as she steered the platform with subtle hand motions, guiding it up towards the center of the sphere. "Though it's rare for it to be even half-full. We may achieve it, though."
+
+The stage kept getting larger as they approached, and Nathan realized that it was several hundred feet across, not the fifty he'd first assumed. “That’s the arena?” He asked. “It seems a little far from the seats.”
+
+“Davrar magnifies the speaker and the duels according to the choice of the viewer, providing a viewing or magnification window,” Sarya said, then proceeded to summarize a few other logistical things. Davrar would assert significantly more control over the arena during the conclave, controlling the platforms of force, tracking challenges, and moving people around to facilitate the event. It didn’t need to cut off anybody speaking. Instead, it just delivered challengers to them after the time was up. It would also decide which challenges were appropriate, picking a few it judged had the best chance of beating the speaker. Almost everything was optimized around keeping the conclave moving at a rapid pace, and having an unpopular speaker fight hundreds of duels was not helpful to that effect.
+
+They reached the stage and walked across it, exploring the featureless crystal. Nathan scuffed his foot on the surface. Despite being transparent, it still provided a good grip to his feet. It looked a bit like solid crystal mana, but it wasn’t giving off any obvious signatures beyond a strange solidity in the aether. “What’s the stage made out of?” Nathan asked.
+
+Sarya shrugged. “A material beyond wizardry. During the duels, this space is entirely enclosed in the crystal. It blocks all external effects and ensures the duels are fair.”
+
+Nathan didn’t answer, and Khachi picked up the questioning, asking Sarya about which way the speaker should face. Nathan was busy sending his senses into the material. It wasn’t held up by any mundane magical effects, simply seeming to exist as a fixed point that was immune to external forces. The crystal was a solid object in reality but was divorced from most physical effects. Something like a boundary condition. The same seemed to be true in the aether, where it existed as a solid barrier that prevented the passage of magic or wizardry of any kind.
+
+He had a sudden flash of realization. This was the material that made up the mechanisms of the seals, or at least was related to it. He hadn’t dug deep enough into those magical constructs to see their internal mechanisms with his naked eyes, but he had mapped them out with antimagic. It hadn’t felt quite the same as this stage, but that was likely because the seals had been channeling immense magical energies at the time. He had taken pains to avoid any lasting damage in that case. But now it was time for a little experiment.
+
+Nathan supported himself a tiny distance above the ground and drew his aura in close, keeping it entirely separate from the crystal except for a tiny area directly underneath his foot. Then he shifted his aura over into the domain form that annihilated all magic in an area. He focused on the idea of fusing wizardry and mana together in a way that annihilated them both. It didn’t carve away at the material of the stage underneath him, but Nathan could feel his aura shifting and infiltrating a material that had previously been inviolate.
+
+It wasn’t an immediate victory. But now it was a contest, a crack in the inviolate wall of whatever this material was. Nathan wasn’t going to be able to carve through it without lengthy, sustained effort. But the same had been true of his original antimagic and the conjured stone of the Ascendent Academy a few evolutions back.
+
+“... questions, Nathan?” Sarya asked, and he looked up.
+
+“No, I’m all good,” reverting his antimagic to its more normal state and slowly settling back to the surface. He tried to pretend he hadn’t just been running experiments on hacking the supposedly invincible magical creations of Davrar. He scuffed his foot against the ground and felt a tiny divot where his aura had been in contact with the crystal surface, but it was so small he could have been imagining it. Then his surreptitious glance around caught on another set of people headed in their direction, and his brow furrowed. “Is that Evesor?”
+
+Sarya spun around, and her expression darkened. “It is. The Arena of the Concord is a place of peace. But only the most extreme social skills are considered violence. Be wary.”
+
+The Heirs took her warning to heart, consolidating into a solid block behind Nathan. They wanted him to be the first bulwark. He stepped beside Sarya as the platform holding Evesor and four companions deposited him onto the crystal nearby. The leader of the Aleph grid was dressed in the same black robe that Nathan had first seen him in, but it had to be a duplicate of the original robe. The first one had been splashed with blood when Sarah shot him, before being incinerated by Stella’s nuke spells.
+
+If the leader of the Aleph Grid had any similar thoughts, none of them showed on his face. “Ah, the valiant heroes of the war. You’ve succeeded in dragging us all from our own projects for this grand waste of time.” He sneered performatively. “Hold your pride. You won a fight, but this conclave will grind you down to dust. I anticipate it gladly.”
+
+He gestured behind him to his peers. Two of them were his apprentices, wearing similar robes that were just a bit less fancy. The other two cut slightly more divergent figures, one dressed in full plate armor that seemed made of shifting shadows and the other in iridescent mage robes that flickered like a heat haze. “If you seek to win through to a vote, you’ll need to survive many challenges.” The smug voice he used was incredibly annoying and set Nathan’s teeth on edge.
+
+The knight of shadows spoke up. His voice was deep and certain, as if he were making a prophecy. “You will slip, and you will die.” He seemed like a looming specter, a source of terror and nightmares.
+
+The wavering mage picked up immediately after. “Here on this very stage you will breathe your last.” She swept her hand around dramatically to indicate the space they were in. Her statement wormed its way into Nathan’s mind, seeming ever so obvious. Of course the Heirs were all going to die here. They had to speak to hundreds of thousands of Questors, and fight the best among them. Any other outcome seemed impossible.
+
+“This is where your dream dies,” said the man armored in shadows, and his voice was the grinding of the grave.
+
+The mental skills pressed down on Nathan, three separate effects combining and merging together to convince every part of him that enacting lasting change would be impossible. It spoke directly to his hindbrain, making his subconscious scream that he needed to retreat and rethink his course of action.
+
+“Oh fuck off with this bullshit,” Nathan replied, stalking forward towards them. His Focus burned bright, keeping his resolve centered in his mind. “You lost to us in a war, so badly that your only recourse is to come at us like this, with your cheap social skills?” He glared at them, then slowly inhaled through his nose as he cast off the last layer of the mental effects, the one that had inflamed his annoyance into anger. He didn’t know exactly what would happen if he lashed out here, but Evesor was definitely trying to goad him into an attack. Even breaking any of their magic items might count as an attack.
+
+I don’t know if he’s trying to get Davrar to punish me or just earn a talking point for tomorrow, but they can’t do anything beyond attempting to scare us, so there’s no point. Unless I want to plant a seed of my own.
+
+Nathan felt Khachi’s divine power swelling behind him and raised a hand to halt whatever he was planning. It felt like a divine denunciation that bordered on a curse. ”These idiots are trying to goad us because they’re afraid of confronting us tomorrow when their actions might have real consequences.”
+
+He met Evesor’s eyes lazily, blinking slowly and yawning slightly to show the man how unbothered he was. “Your words mean less than nothing. Trying something this silly tells me how scared you really are. You recruited people specifically with strong mental skills to try and get under our skin,” he gestured from side to side to indicate the shadow knight and the illusionist. “Then you waited to ambush us. You don’t think you can defeat us in argument or in duels, so you try this. Pathetic.”
+
+Evesor’s sneer had slipped slightly, but now it returned in full force. “You’ve connected to the core of the game of Questors, boy. We hold every edge here. Every person in that inn is a spy, and if you survive the first day, you’ll find poison in the food. Even your allies will betray you for the slightest gain, because you will die. Agreements with you are worth as much as your lifespan. Which is currently best tallied in hours.” He flicked his eyes towards Sarya and raised a mocking eyebrow. “Her silence suggests she agrees.”
+
+Sarya shrugged nonchalantly. “They didn’t need help to win the war. I don’t see the need to aid them here.” She glanced at Nathan, indicating that he should finish his response.
+
+Nathan tilted his head towards Evesor and let a crooked smile play across his face. “You’re scared of us, and what we might accomplish. But you’re not scared enough. You should be concerned about your personal safety. All of you should be,” he looked to each of the Questors opposite them. “Maybe you should ask Badud why he didn’t cast any big wizardry during the war. If you dare speak during the conclave, I’ll demonstrate, personally.”
+
+Then he turned his back on the Aleph Questors and addressed his friends. “I’ve seen enough. Shall we go?”
+
+Sarah waited until they were walking out of the arena to speak, her tone just short of accusatory. “They spoke to your anger. Was that the best path?”
+
+“Mentioning Badud’s injury?” Nathan said. “I think it’ll cause a lot of rumors and concern among our enemies. I doubt he’ll be the most cooperative if they ask him, and the damage I did isn’t really permanent. But they don’t have time to get to the bottom of it, so I just expect it’ll distract them and make people wary about challenging us.”
+
+Sarya’s expression was tight, and she spoke carefully in response. “You should not use that power freely. If you casually maim Questors, then it would cast you as a dangerous monster in need of destruction. Only inflict lasting harm on Questors with whom you have a history that you can leverage to justify such extremes."
+
+“Yeah, that makes sense,” Nathan replied wearily. The conclave hadn’t even started, and he was already exhausted by all of the politics.
+
+Maybe getting to kill some of them will help me feel better.
+
+Permanent Talent 1: Magical Destruction 7
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 6
+
+Forewarning 10
+
+The Truth of Magic 7
+
+Evasion 5
+
+Wizard’s Palace 6
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

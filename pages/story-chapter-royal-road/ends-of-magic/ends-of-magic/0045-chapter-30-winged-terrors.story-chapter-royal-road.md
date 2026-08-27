@@ -1,0 +1,231 @@
+---
+id: e16d7dc2-0554-50bf-9fa5-a06a090d6de3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Winged Terrors"
+slug: 0045-chapter-30-winged-terrors
+partOf: ends-of-magic
+position: 45
+ownLength: 2894
+unit: words
+ownProgress: 2894
+publishedAt: 2025-11-13
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2757423/chapter-30-winged-terrors"
+royalRoadId: "2757423"
+markedReadAt: "2026-06-29T20:08:42.532Z"
+---
+
+“They’re diving,” Nathan announced the moment he felt the flying undead angle towards the Heirs. They came screaming out of the clouds just like before, with the primary difference being that there were ten times as many. There were also several bigger ones leading the pack, looking like small airplanes as they dove out of the overcast skies towards the Heirs. They weren't protected by whatever cloak of darkness had shielded them from sight before.
+
+The bigger ones opened their mouths cavernously wide and shrieked in tandem to create a wall of sound. It was unquestionably an attack, but Nathan’s aura stripped out the magical component, and the sound deflected harmlessly from Stella’s shields. The faintly glowing blue bubble reverberated as the shockwave passed by.
+
+Khachi’s voice rose in counter. “I challenge your claim to the sky! By my will, my light shall scour you from the air. Now fall, scorched and screaming!” It was more aggressive than most of Khachi’s prayers, and the intended result was a bit more destructive than any of his past efforts. The aether flexed, his divinity amplifying itself throughout the prayer. When it was done, golden light poured forth from Khachi at blinding intensity.
+
+It illuminated the desolate landscape below, and Nathan saw countless figures gaping up at them as their skin peeled away from exposure to the holy magic. But the focus of the light was above. The flare blasted through the flying undead like a gust of wind tearing away a spiderweb. The leading monsters had a second to scream again, but this time it wasn’t a coordinated attack. Khachi’s light vaporized them, and fragments of bone rained from the sky.
+
+Most of the smaller ones were dust in the wind, though a few had been shielded behind other monsters and made it through unscathed to one degree or another. The light cut out, and Nathan blinked a few times against the sudden change in brightness. His antimagic had shielded him from the blinding light, but it didn’t help him see better now that it was gone.
+
+But Sarah didn’t have that issue, and her rifle cracked beside him. An explosion from above indicated she’d taken down another of the flying monsters. None of the larger ones had survived, but Nathan could feel more of the smaller undead diving down towards them. He could have disabled them with his antimagic, but he didn’t want to reveal more than he already had.
+
+Instead, he let them run into Stella’s shield. Yesterday, their innately magical horns had managed to punch through the shielding and shatter it. This time, that shield was imbued with wizardry, a sense of solidity and permanence that reminded Nathan of adamant. The surviving bats ran into it at high speed and splattered like eggs dropped off a ten-story building.
+
+Nathan watched the gore peel away from the magic and fall towards the ground below. “Well. That worked. How are you doing, Khachi? That was an impressive spell.”
+
+The wolfman exhaled slowly, looking like he was trying to get his emotions under control. “All is well. That level of divinity extracts a toll. I have rarely channeled so much, and never offensively. It demands I stay true to my words, and exterminate every flying undead in the Blight.”
+
+That gave Nathan pause. He knew that Khachi’s proclamations weren’t meaningless, but in the context of aggressive action, they carried new weight. “We will, by cleansing the Seal.” He didn’t voice his sudden concerns about the problems this posed if they needed to retreat. He didn’t think mentioning it would help with Khachi’s current struggle. There was also a chance that he’d need to phrase it differently so that the wolfman could square running away with his holy duty.
+
+They continued onwards, watching out for further attacks. The undead continued to mass underneath until it seemed like the Heirs flew over an endless army of monsters.
+
+“Hear me, I wish the next ghoul would appear,” Aarl said eventually. “Waiting for the next blow is nearly as bad as a constant fight.”
+
+“There’s a lot of ghouls right there,” Sarah replied smugly, gesturing downwards.
+
+Her brother sighed in resignation. “I invited that blow.”
+
+“I think they’re waiting for us to land,” Nathan replied, taking Aarl’s question seriously. “The blighted mana is worse up here, and if it wasn’t for my aura, it would be pressing in on us. The corruption would prevent Stella from replenishing mana, and that would make it too expensive to fly.”
+
+“More expensive than fighting the army right below us?” Stella asked.
+
+“It’s supposed to be a lose-lose situation,” Nathan replied. “Speaking of, how far are we from the Grave Tangles, Sarah?”
+
+“Approaching. We’ll be in their range soon. Should we fly over them?”
+
+Nathan’s brows furrowed. “We could try, but you said that they’re on the mountaintops, right? We’d need to go into the clouds to go over them. I don’t like the feel of the magic up there, and I think the clouds themselves are probably acid. Any further up and we’re getting to the point where we need magic to help us breathe, and I think the blight is interacting with the thinner atmosphere somehow."
+
+“I could hit that target,” Stella offered. “We could travel above the sky, if we wanted to fly across the inside of Davrar.”
+
+Sarah shook her head. “We can’t fly fast enough to do that quickly, just like we cannot fly across the ocean. We also don’t want to reveal that ability yet. I prefer to reveal destructive power rather than the ability to escape.”
+
+“Then how do we kill the Grave Tangles without showing our hands?” Nathan asked. He had some thoughts, but wanted to hear what the other Heirs would suggest.
+
+“I’ve got the gear to fight one,” Aarl offered. Sarah raised an eyebrow at him, so he finished the thought. “And win.”
+
+Sarah coughed delicately. “There's more than one.”
+
+“How many, for a clear path through?” Stella asked.
+
+“At least twenty,” She answered. “There may be more, hidden from my sight in the mountains.”
+
+"Twenty?" Aarl asked, rubbing the back of his neck. "That's more than I can challenge."
+
+Nathan had a proposal. “Let’s all fight and show just a bit more than we’ve already shown. If one of us does something really impressive while the others wait, then that suggests that the rest of us have similar abilities that we're not using. It would be obvious that we’re hiding stuff. But if we all show just a bit more, we can get through without tipping our hand. Aarl can engage up close, Khachi will use some divinity, Stella will use more shields, and maybe some fire?”
+
+“That is true aim,” Khachi rumbled in response. “No great powers, but all contributing what we must to win this fight.”
+
+Aarl waved to get everybody’s attention. “Usually, I stay defensive to guard against closer attacks. With Stella’s firepower, it’s the best weight for me. But now may be the time for me to clear the path. With blessings and magical support, I can kill these foes.”
+
+“I can’t kill them with just grand fireballs,” Stella admitted. “Not without wizardry.”
+
+Nathan nodded along. “It's worth a try. If it's too much, then we'll punch through, guarding against attacks and running by them. We need to get past them all, not kill them all. I can keep us protected from the blight and the aura of the Grave Tangles. Khachi, can you bless Aarl?"
+
+The wolfman had his broad mouth pursed in thought. But when he spoke, it was with the resonant weight of divinity. “I gird you in the golden mantle of the sun. Your arm will strike as the dawn, and your blows shall burn with the fire of noon. With my blessing, carry the day into the heart of night until no shadow remains.” The golden light that always surrounded Khachi collected in his hand.
+
+Aarl's helmet retracted, and he bowed his head as Khachi placed his glowing paw onto the fighter's head. The light transferred, soaking into Aarl like water being absorbed into a cloth. It limned him in light, and Nathan could sense a portion of Khachi’s divinity transfer with it. It wasn’t permanent, but the divine mana was eager to stay with Aarl for a while and help him kill the undead ahead of them.
+
+Aarl unsheathed a long sword with a vicious slash of a grin, which widened further as the light spread down the length of the blade. “You speak with magic. Let’s go kill some grand enemies.” He turned and sped off, flying quickly in the direction Sarah had pointed them.
+
+The rest of the Heirs stayed close behind him. Aarl was moving quicker than before. Not fast enough that anybody had trouble keeping up with him, but with a definite eagerness. Nathan kept Aarl in range of his aura, maintaining a bubble around him to hold the corruption of the ambient mana at bay. It wouldn’t kill him immediately or anything, but it could start to degrade his magic items or make him sick. Nathan didn’t know what the precise effects of the blight would be on people, and he wasn’t eager to find out.
+
+“Incoming,” Sarah noted moments before the gloom was split by an earsplitting crack as a fleshy tentacle lashed out of the darkness to strike at Aarl. The attack met the swing of a large club, the head of the magical weapon growing to the size of a boulder as soon as it was in motion. It was still much lighter than the undead limb, and Aarl should have been smashed out of the air. But the divine mana imbued into the club, and the club’s own enchantments worked in concert to send the car-thick appendage flailing back with a blackened crater blasted out of it.
+
+Hey, didn’t that club belong to Jaus?
+
+Aarl charged forward, racing towards the origin of the strike with the rest of the Heirs close behind. More strikes came out of the darkness, aimed at both Aarl and the Heirs. The whipcrack tentacles were impossible to see coming in the gloom, but Aarl countered each of the ones that came within his reach. The ones that swung at the Heirs bounced off a bubble of holy mana that left them burnt on contact.
+
+The first Grave Tangle reared out of the murk moments later, a massive pile of undead flesh enveloping a jagged mountaintop of black stone. It was pale and sluglike in the light cast from Khachi’s magic, and it looked like it had grown into the mountain. Aarl dove straight into it, jetting around a lunging strike from a pseudopod. He moved fast, drawing a curved two-handed sword from his dimensional bag. It lengthened as he swung and cut through the entire protrusion that had tried to swallow him. Golden fire ignited along the cut, and the massive undead jerked back like it’d been stung.
+
+Aarl used the hesitation to great effect, the magical sword growing even longer as he carved off gigantic slices from the Grave Tangle’s central body. More golden fire engulfed the monster, and Khachi incanted a prayer to keep the blessing at full strength.
+
+A jet of high-pressure corrosive acid impregnated with death magic struck against their shield. The attack was strong enough that the protective magic dented inwards and dimmed. Khachi got to work reinforcing it with a muttered curse about “Blasphemous corruption.”
+
+Sarah pointed off to the left, where Nathan could sense another mass of death mana. “It’s there. Fireballs, as many as you can.”
+
+“You don’t want as many fireballs as I can cast,” Stella replied, but she summoned a grand fireball, duplicated it into a swarm with her staff, and fired them off into the darkness.
+
+Up to this point, Nathan had been just floating in midair, keeping up and protecting them all from the ambient corruption. Now he saw a chance to contribute and nudged the fireballs with a thin tendril of antimagic to ensure they would all strike true. “Aim a little lower.” The fire detonated with a succession of blasts, setting the next mountaintop alight and illuminating the fleshy monstrosity that capped it.
+
+Stella grunted and fired off another set of fireballs at the same target. They were better aimed this time, but the target was large and not particularly far away. He could feel many more in the distance, most of them only unable to attack because the Heirs were behind the mountain capped with the Grave Tangle Aarl was currently fighting.
+
+Sarah was already firing at the next one over, using explosive rounds to pick away at it. Nathan couldn’t see what she was shooting at, but he could feel protruding bits of the monster shatter away with his magical senses. He’d guess that she was shooting off the heads that could shoot that acidic spit at them.
+
+Aarl finished cutting his current enemy into flaming chunks and looked back for direction. Nathan pointed towards the next of the giant undead. “Forward!” His voice boomed across the battlefield, and the Heirs followed the order, moving past the mountaintop alight with sullen golden fire. Stella’s target was also aflame but still very much alive, the roaring conflagration eating away at the Grave Tangle but not able to destroy the hill-sized pile of flesh quickly.
+
+It’s going to take forever to kill our way through all of them, and I worry that we'll expose ourselves to another attack while we try.
+
+“Keep going,” Nathan yelled as they moved into close range of the next peak, where yet another Grave Tangle rested. “Just disarm them, don't stop to kill!”
+
+The undead still attacked them as they sped by, but Aarl fell back to protect them. He carved away the tentacles that struck out at the Heirs while Khachi kept their shields strong. Stella switched from throwing fireballs to summoning shields of force to deflect the various attacks. Sarah pointed their way through the mountains, trying to keep them from running straight into any Grave Tangles.
+
+At first, Nathan wondered why she wasn’t taking them down lower, where they’d have more cover. But when he probed below, he understood. There were more of them down there, and as soon as they descended, they’d be within range of a terrifying number of the giant undead. Going up was also out of the question, as it would invite a clear line of fire from all those perched atop the mountains, currently blocked by the mountain peaks.
+
+But the Heirs were doing just fine. They were bypassing the mountaintop Grave Tangles without killing them, though each one had significantly fewer tentacles once Aarl was done with them and Sarah was methodically blowing apart any of the skulls they used to project ranged attacks. Nathan was doing almost nothing, but he was doing his best to stay on the lookout for anything unusual. He couldn't help but feel like there was a second string to this challenge, and he wanted to be ready for it.
+
+He felt a buildup of death mana in every one of the monsters around them. He knew what that meant. “They’re about to roar,” he reported. “I’ve got it, keep moving.”
+
+All of the Grave Tangles wailed in unison, the sound loud enough that the Heirs would have been deafened without the shields. But the real attack was the storm of death magic so concentrated that the blasted rock of the mountains eroded at its touch. The magical pressure was like being suddenly yanked to the bottom of the ocean, but Nathan’s antimagic was perfectly suited to protect them.
+
+A sliver of terror still crept through Nathan’s heart as the sound continued, and he felt the magic ebb and flow strangely. The raging death magic outside wasn’t anything fancy, but it was strong enough to strip flesh from bone in seconds, and probably convert the skeleton into a powerful undead. It continued, and Nathan was certain the effect would never end, that the Heirs were forever trapped in this inhospitable world of terror.
+
+Which didn’t make any sense. Nathan had fought Grave Tangles before. Their roars were a terrifying ability, but they lasted less than a minute, and there was no way they could trap them. There was some other effect going on here, and it was strong enough to cause the Heirs to stop moving and cower together.
+
+This isn’t the Grave Tangles; this is something new.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 9
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 8
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 9
+
+Veracity 4
+
+Whiplash 1
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

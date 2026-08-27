@@ -1,0 +1,121 @@
+---
+id: 460537b1-0a9a-5310-b142-91ba4b35ed42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 483: Ali’s Daring Plan"
+slug: 0521-chapter-483-ali-s-daring-plan
+partOf: dungeon-of-knowledge-complete
+position: 521
+ownLength: 2298
+unit: words
+ownProgress: 2298
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2870070/chapter-483-alis-daring-plan"
+royalRoadId: "2870070"
+markedReadAt: "2026-06-29T20:29:56.342Z"
+---
+
+Time for a new plan.
+
+“Calen, is there any bare earth nearby? A park or something?” she asked.
+
+“Yes,” he said. “You want to use Mato?”
+
+“Yes,” she said. They had been naturally following many of their standard strategies to deal with the Bone Fetish. It wasn’t that their strategies were bad, as such, but in this specific case, they were proving woefully inadequate. Ali mulled over their available resources, tugging on the strands of reasoning, bending and twisting them as she searched for something suitable. “I think I have an idea, but I need more time to summon my monsters. Malika? How long till you can fully avoid his lightning?”
+
+“Without the curse? Maybe an hour. Less if I can gain more mana or stamina,” she answered, glancing at her with curiosity gleaming from her eyes.
+
+“Lead us to the park,” Ali said. “Mato, how much health do you have in tree form?”
+
+“About fifty-seven thousand,” Mato answered, speaking directly into her mind.
+
+She paused, stunned for a moment. She had bosses with less health. Respectably high-level bosses. “That… that’s a lot,” she said, her mind calculating furiously. I just hope it’s enough, she thought as they raced through the dark, empty streets following Calen.
+
+“How’s this?” Calen asked, as they rounded the corner onto a small area that might once have been a park before the city was consumed by the dungeon. It looked about the size of a single building, but instead of the strangely curved stone walls and non-rectangular windows cut into dark, empty rooms, there was nothing but dirt. A perfect circle of dirt, but still dirt.
+
+“Perfect,” she said. “Now I just need time to summon my creatures.” And then she dove into her Grimoire with an intensity of focus, summoning kobold holy fire mages, one after another, struggling to time her Disruptions while the others grappled with the chaotic, unruly Grim Spark whenever it shot across the street to assault them again.
+
+Time blurred a little, so caught up in her preparations that she barely noticed, but eventually, when Grim Spark resisted her Disruption for perhaps the thousandth time, Malika interrupted her.
+
+“I’m just about ready.”
+
+“Ok,” she said, straightening up and glancing around at her friends, all of whom were staring at her with expectant looks of curiosity. The lack of any doubt on their faces made her heart jump with the obvious trust they all had for her. Especially considering she had barely shared any of her ideas with them yet.
+
+This had better work, she thought, loathing the idea of letting them down.
+
+“Ok,” she repeated, glancing across her small army of kobold mages standing at the ready. She had not been able to use them efficiently for fear of killing her friends, but that changed now. “Mato, tree form, please, and help keep my minions alive. Malika, can you tank him when he gets back?”
+
+“Yup,” Malika said, nodding once.
+
+Ali could already hear the rapid scampering of the bone feet and feel the rising anxiety the sound evoked as she began to anticipate the ridiculous lightning damage. It was a miracle nobody had died so far.
+
+But she put her feelings aside. She had one last task to complete. She flipped to the Demonic imprints and began to summon her Pit Lord. Maalgaroth was currently deployed in the Zulkora rift as a champion boss, and although she could summon a generic Pit Lord, she still had a second unique demon at her disposal: Xammath.
+
+The streak of angry lightning and white bones shot out from a dark alleyway to be met in the open by an implacable Malika, both of them moving with incomprehensible speed. Yet again, magic exploded in an eruption of lightning, confusion, and panic, and yet Malika stood within it calm and unruffled. The powerful, mind-warping magic simply broke across her bulwark of Clarity, while the lightning raged around her like giant waves breaking against a lighthouse in the midst of a stormy night.
+
+Even knowing Malika’s uncanny ability to push the power of her skills higher and higher, Ali was amazed to see her standing within the continuous onslaught of lightning, her health barely moving. Intense formations of soul mana burned within her as she fueled her Soul Armor, Enlightened Evasion, and Perfect Body to raise her damage reduction, avoidance, and attributes to extreme heights, rendering her nearly immune to the constant pulses of lightning. In fact, as best Ali could tell, the only attack that challenged the monk was the wickedly sharp white dagger.
+
+She left Malika to her tanking and finished summoning her most powerful demon, tossing out Disruptions whenever she saw the teleportation magic arising amid the storm.
+
+When her magic finally resolved, and her gigantic Pit Lord suddenly appeared carrying his massive war glaive, she sighed her relief.
+
+“Master, point me at your foes. I will annihilate them!” Xammath declared, his voice gravelly and grating. Ali shivered despite herself.
+
+“Oh, Mortal Wounds?” Calen said, clearly deducing the final piece of her plan. “And big hits.”
+
+“Yes,” Ali said. Normally, she would have used a troll Bone Champion for a boss that healed unreasonably quickly; typically, Kir’mogan. The Mortal Wounds debuff was essential, halving the effect of any healing, including leech effects. But the bone warriors simply would not have enough health to survive what she intended to unleash, and really, the only option she had recorded in her Grimoire was this Pit Lord. It possessed Mortal Cleave, but it was a far more potent attack than that of the trolls. Being a greater demon, it gained twenty attribute points per level, and that, combined with its blood magic and vitality boost, granted it an enormous maximum health total.
+
+Although, my standards on what counts as enormous have certainly moved recently…
+
+The only downside, really, was the aura of corruption that suddenly infected the whole area, pulsing outward from the terrifying demon as it turned its burning eyes upon her. But Mato’s Sanctuary rolled outward from the huge tree with its orbiting sage spirit, dismantling the corruption even as it writhed and tore at her mind and body, leaving only a disconcerting vertigo and an ache in her joints.
+
+“Go kill that,” Ali commanded, pointing at the diminutive white Bone Fetish as the harsh demonic syllables scratched at her throat and mind in a way that only the infernal speech could. “Keep Mortal Wounds up.” She gritted her teeth at the sudden splitting headache and dizziness, maintaining her balance by sheer willpower. The disturbingly wide maw in Xammath’s blunt face cracked into a wicked grin, revealing far too many sharp teeth dripping with blood and the flickers of hellfire, and then it simply blurred, almost vanishing as it shot across the intervening stone and dirt, crashing into the tiny form of Grim Spark with an impaling strike that blasted the whole area with hellfire, blood and the intense explosion of retaliatory lightning, and yet surprisingly failed to knock the tiny skeletal monster over or even cause it to budge.
+
+Malika’s health barely moved.
+
+“So far so good,” Ali muttered. She turned slightly, catching the frustrated look in Tol’brekk’s eyes. With a smile, she said, “You too. Go all out, use Last Stand.”
+
+The Berserker’s roar of pure joy and unleashed rage sent sympathetic bursts of adrenaline and excitement through Ali’s tiny, overworked heart, as if a primitive part of her existence somehow knew what it was like to live for the fight. Even with the vast power possessed by the Pit Lord she had just made, her Carnage Berserker had far and away the largest potential for damage among all her minions, and she would not be able to live down his sheer sense of betrayal if she made him watch from the sidelines. He sprang into the air, seemingly hovering for a moment at his apex, a feat that seemed at once majestic and yet terrifying due to his several tons of muscle, armor, and axes, before he descended like the hammer of a vengeful god upon the lightning storm and the undead bone fetish at its epicenter.
+
+On the far side of the one-time park, now a ruin, the tree that was Mato burst into flames, a flickering white conflagration of holy magic bestowed upon him by his patron, Azryet. The flame produced no heat or sound, but it rippled across the darkness of the stone, filling the entire region with the soft dancing light of Consecration. She saw his trunk flicker with light and magic as he rapidly began siphoning off damage from Ali’s two minions standing within the rapidly intensifying lightning storm.
+
+“Calen, can you keep him pinned down as much as possible?” Ali asked.
+
+“Yup,” the archer said, immediately unleashing arrows trailing glowing chains of light.
+
+Ali waved her wand, bestowing Winter’s Desolate Celerity upon her minions, but it was not her mages she targeted. This fight would hinge on the sheer tenacity and prowess of her healers, and she felt desperate to grant them any advantage she could. Instantly, they accelerated, coordinating for one of them to trigger Devotion as their holy magic rained down upon the Pit Lord, the Berserker, and Mato with a speed and intensity she had rarely witnessed.
+
+“Begin,” she commanded, and the army of holy mages waiting patiently beside her conjured their golden-white balls of fire.
+
+“Good plan,” Calen said, nodding with approval. “The Pit Lord is a great choice for Mortal Wounds.”
+
+“Thanks,” Ali said, her eyes relentlessly surveying the battle, her awareness flickering among her minions while she waited for the inevitable teleport spell. Sure enough, right on time, Grim Spark cast his escape magic. Ali responded instantly with her golden needles of Disruption, her anxiety rising briefly, warring with her hope. It all hinged on this.
+
+But luck was on her side, and her golden magic ripped through the teleportation spell, shredding it and scattering sparks and motes of mana into the chaotic storm of energy.
+
+“Bloodlust!” she yelled, unable to contain her sudden burst of excitement, nor the rush of power as she drained her vast mana pool into Empowered Summoner to eke out every last bit of damage from her army of monsters. “Last Stand! Go!”
+
+The roar from her minions was deafening as the blood magic took hold. Skills exploded forth, enhancing power. Light seared from Calen and his Motes as he unleashed his Righteous Fury. Her Berserker’s health skyrocketed as he burned Last Stand, and then he immediately fed all that health into empowering his axes and rage. The Pit Lord cleaved with his gigantic war glaive, trailing blood and hellfire through the air.
+
+“Boost him,” Ali commanded.
+
+Beside her, Kir’vella giggled, dancing a little jig in place as she zapped Tol’brekk with her Ritual Infusion and turned him a fluorescent shade of green.
+
+And at the center of it all stood Malika, blazing forth like a sun, her body blurred by speed beyond comprehension as a steady fountain of healing rolled outward from her in waves, reaching Ali’s minions standing almost twenty meters away. And for the first time in the fight, Grim Spark’s health began to drop.
+
+Go! Beside her, she noted the kobold priests switching their Devotion rotation, and she burned several more wand charges on them as Mato’s health suddenly dropped. Her witch doctors, intently focused on the battle, instantly dispelled the lightning vulnerability curse, and Mato’s health rapidly stabilized.
+
+Far out of range, Ali’s massive black dragon hovered beside Calen, sending blasts of long-range void magic to match the constant stream of light and flame blasting forth from Cinderstrike, Longbow of the Heretic.
+
+The biggest problem with Grim Spark, she reflected – apart from keeping the tank alive – was overcoming the ridiculous lightning damage leech. The more people he hit, the faster he healed. And the more he was hit, the more lightning damage he did. It was a vicious combination that they had struggled with the entire fight, and now it looked like they’d finally figured it out. There were only three targets in range of Grim Spark: the Pit Lord, the troll Berserker, and Malika. One was required for Mortal Wounds, one for the sheer damage potential of a rage-fueled monster, and Malika, who was barely taking any damage at all, and therefore not feeding the leech. Everything else was beyond the range of the lightning. And no monster was attacking if their strikes did less damage than the cumulative healing they would trigger.
+
+Her Eye of Agnor hovered in the air, casting nothing but its curse. Its lightning magic was worthless, and its arcane did too little damage per hit to be worth anything. Only one of her ice mages was attacking – and she was firing a single ice bolt intermittently just to keep the Chill ailment running so that Grim Spark wasn’t so fast that Xammath and Tol’brekk couldn’t even hit it. For the rest of it, her damage came from the steady rain of holy fireballs exploding upon the center.
+
+She had worried about the interaction between the holy magic and her Pit Lord’s vulnerability, but it seemed the healing effect applied to allies took precedence – as she had hoped.
+
+Now all that remained was for her to ensure the elusory monster didn’t slip out of their trap, and that her minions continued to cycle through the shimmering fount of soul magic spilling out from where Malika tanked to ensure Clarity remained up, protecting them from the Confuse. And, the healers’ mana must last. Just that little detail.
+
+Quickly, she began distributing the best mana potions to the priests, keeping an anxious eye on the cacophony of mana and magic within the center of the park.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,173 @@
+---
+id: bb18e539-8067-5e41-ab34-bdf8c6f4b009
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Nine: Shatter"
+slug: 0080-chapter-seventy-nine-shatter
+partOf: flesh-eater-demon-evolution-litrpg
+position: 80
+ownLength: 2490
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3364890/chapter-seventy-nine-shatter"
+royalRoadId: "3364890"
+---
+
+The moment Daphne stepped back onto the main road, it was chaos. She could still hear the screeching wyvern and the screams and squelches ringing in her ears, but she forced herself to stay focused. The mage looked around.
+
+Compared to before, the garrison had managed to push further ahead, but monsters were still streaming out of the sanctum in a steady flood. A few soldiers glanced at the pillar of light that had just flashed with something resembling tentative hope, but the portal spell was still active right now.
+
+Daphne’s fingers clenched into a fist. Not for long, she thought.
+
+Ducking her head, the mage wove through the chaos. She raised an arm, shooting out spells when she could, but she was quickly realizing that it was impossible to hit everything. There were just too many monsters.
+
+Several feet away, separated by a mass of moving bodies, she watched a soldier scream as a hellhound sunk its jaws into his neck. The soldier fell to the ground in a heap, joining the quickly growing piles of limp corpses—both monster and human alike.
+
+Daphne swallowed and kept going, letting the adrenaline pumping through her veins push her forward. She fired another blast at a tall beast approaching from the left and desperately scanned the street for a way through to the sanctum.
+
+Pyre had mentioned clearing a path, but she hadn’t seen the demon since she’d left the manor. A part of her couldn’t help but worry that the demon wasn’t there anymore, that she’d left, or worse, was working for the Empire after all.
+
+The mage quickly shook the thought away. She wasn’t thinking straight, between the fighting and the confrontation with her uncle and the lingering shock of the wyvern barrelling into the street behind her. The screams and squelches.
+
+There was no room for doubts right now, not when the plan was so close to completion. She just had to trust the demon—the demon she’d once known as her guard. The one she’d forged an odd connection with.
+
+As if on cue, a flash of shining red caught her eye. Daphne turned, arm already raised towards a golem several feet ahead. She stilled when she saw it already falling backwards, the stone in its chest crushed between a gaping mouth of snapping teeth.
+
+There, yanking a disfigured arm back, was Pyre.
+
+Daphne almost didn’t recognize her at first. Her whole body and face were covered in bony white plates, and while she still had a mostly-humanoid form, one arm was a short lumpy mass of flesh while the other was still crunching down on the gem. Her asymmetrical silver horns caught the light like gleaming metal. This was probably the most demonic Daphne had ever seen Pyre look so far.
+
+And yet, as her eyes fell on her former guard’s tall form, she couldn’t help but be relieved. She’d stayed after all.
+
+Daphne debated the best way to get the demon’s attention over the raging battle, but to her surprise, a steely grey gaze met hers. Pyre turned, and with a great leap, she made her way towards the mage.
+
+A few soldiers yelled around her, alarmed, but Daphne ignored them and kept moving forward. She fired a quick blast at an imp trying to slice into a guard with the barest glance, more focused on getting through the crowd.
+
+In the end, Pyre reached her first. The demon shoved through the horde with impressive force, which only further proved that she was much higher level than she let on. Certainly much higher level than those garrison intake forms had said.
+
+The noble ran forward, ignoring the panicked yells of soldiers calling her back. Even though her face was mostly covered in bone plates, the structures forming a pseudo-mask, the little Daphne could see of Pyre’s expression looked faintly amused. Unflappable as ever. In the midst of the mayhem, it was oddly comforting.
+
+“Still got enough juice to break the barrier?” the demon drawled. Daphne huffed, the sound halfway between exasperated and a laugh.
+
+“Always.”
+
+Without another word, Pyre shifted her warped arm. The mouth folded back into layers of flesh, skin stretching out and circling securely around Daphne. The panicked yells behind them grew louder, but it was too late. The demon turned and took off, noble in tow.
+
+The surroundings passed by in a rush as Pyre sprinted through the horde, shoving aside monsters and letting attacks glance off the bone armor covering her. Daphne could hear her blood rushing in her ears. She only managed a few stray spell attacks while they bolted through the crowd.
+
+“Over there!” She pointed to the sanctum, which was now visible at the end of the road. The light beam was strong enough that it dyed the surrounding sky pink, and she could clearly see a dense throng of monsters huddled all around it.
+
+Her eyes widened. There were even more than she’d expected. Too many to simply push through.
+
+At this point, the sanctum entrance was almost completely destroyed, and cracks were beginning to run up the outer walls of the main tower as well. Daphne pictured that arching bridge inside holding the horn and the soul piece, the circle etched behind the ichor waterfall. She just needed to blast through and the portal would close.
+
+More monsters were purposefully lingering around the sanctum, she realized. She narrowed her eyes. They must’ve felt the circles break, too, and now they were protecting the main ritual glyph by forming a wall of bodies.
+
+Pyre seemed to realize the same thing. Sharp grey eyes scanned the area, taking in the situation. She clicked her tongue. “I might need to put you down while I fight through that first,” the demon muttered.
+
+Daphne shook her head. “There’s not enough time. They’re protecting the place. The longer we take, the more’ll show up.” She eyed the tower again, and a sudden thought occurred to her. Before she could think twice, she told the demon.
+
+“Throw me at the sanctum.”
+
+For the first time since she’d grabbed Daphne, Pyre paused and glanced at her. She slowly raised an eyebrow.
+
+“You sure?”
+
+Daphne nodded, heart racing. “If you throw me at the tower, I can blast through it and the glyphs. The wall’s halfway gone already. I know my magic’s strong enough to pierce it and the barrier, and the blast will break the ritual circle.” She paused, then added hastily, “The horn should be fine, I think, and the soul piece too. They’re strong enough to—”
+
+“Then what?” Pyre interrupted, eyebrow still raised. “You stop the spell, then fall into a horde of monsters?” She paused, considering. “Well, I guess the fall would probably be a bigger problem than the monsters.”
+
+Daphne’s lips thinned. “It’s fine, I’ll figure it out.” A wry smile tugged at the corners of her mouth.
+
+“It’s not like I’ve got long to live anyway. At least this way I’ll go out with a bang.” She attempted to sound joking, but she wasn’t sure she succeeded.
+
+Pyre gave her a long look, face still half-hidden behind bone, grey eyes unreadable. Finally, she nodded.
+
+“Get ready,” she said, then reeled her warped arm back. Daphne immediately began pulling in more ichor, hands moving in a rapid series of signs as she chanted below her breath. At this point her heart was beating so fast that she could hear it in her ears.
+
+Taking one step back, Pyre’s muscles tensed. In a flash, the demon lunged forward, hurling Daphne straight towards the sanctum with so much force that the breath was knocked out of her lungs.
+
+Suspended mid-air, Daphne forced herself to keep her eyes open against the rushing wind. She kept chanting, hands moving on pure instinct as she soared closer and closer to the sanctum. She felt like she was flying, and for a moment, magic singing in her hands, the sky blooming around her, adrenaline pumping through her veins—she felt so alive that it hurt.
+
+Daphne reached the apex of the throw and felt herself begin to fall. The sanctum tower was right in front of her.
+
+With one final yell, Daphne thrust her hands forward.
+
+Bright red light burst out of her palms, temporarily blinding the surroundings. Burning white fire exploded forth, scorching straight through the tower walls with blistering heat. Daphne felt the air ignite and crackle, moisture pulled from the atmosphere. A sharp pain stabbed in her chest where she’d just drawn ichor. Still, she kept her eyes open, watching with bated breath as the tower crumbled before her.
+
+Above, the beam of light flickered.
+
+Then, it disappeared.
+
+She’d done it.
+
+Relief washed over her like a tidal wave. The mage closed her eyes as gravity took hold.
+
+She was falling down into a sea of monsters, her chest was burning, but she felt oddly at peace with it. The portal spell was cut off, the garrison would clean up the rest of the monsters, and the Empire could no longer enter Auren. Magrath would be okay.
+
+And even if it’d been for just a moment, she could say with absolute certainty that she knew what true, untethered living felt like. She would cling to that sensation all the way into the next cycle.
+
+Something soft wrapped around her.
+
+Daphne’s eyes shot open. She turned, gaze darting about wildly, only to land on a mound of familiar, warped flesh coiled around her like a living cushion.
+
+Connected to the other end of the flesh was Pyre. The mage’s jaw dropped.
+
+“Hang on,” the demon said simply. Daphne had just enough forethought to grab onto her before Pyre formed a bone shield below.
+
+In the next second, the two collided with the earth.
+
+A shockwave ran throughout Daphne’s body. She gasped. The flesh surrounding her had absorbed most of the impact, but she still felt like she’d been electrocuted.
+
+The earth beneath them cratered, cracks bursting outwards like the rays of the sun. The mage’s ears rang with the boom of the impact.
+
+Pyre had caught her, she realized. She’d caught her, and now they’d landed in the middle of the monster horde.
+
+Daphne heard the demon grunt. The bone shield was completely shattered, and while she was still standing, the mage knew that had to have hurt. She didn’t have a chance to worry, though, because in the next moment, Pyre bent her legs and jumped.
+
+Once again, Daphne felt herself hurtling through the sky with a yelp. She clung to the demon for dear life. This had to be some sort of skill—she’d never seen Pyre jump this high before. She practically felt weightless.
+
+Below, Daphne saw the canopy rapidly approaching and realized that Pyre had leapt towards the forest. They crashed through branches and leaves, stray twigs leaving scratches and cuts, before finally landing on the grass with a hard thud.
+
+She was still alive, Daphne realized. Adrenaline was still pumping through her veins, and her limbs were a little shaky, but they’d finally stopped long enough for her to make sense of what had just happened.
+
+A laugh that probably sounded more than a little hysterical bubbled in her throat. She realized she was smiling.
+
+Carefully, Pyre straightened and set the mage down. Warped flesh retracted, leaving Daphne sitting leaned against a tree trunk.
+
+The full weight of exhaustion crashed into her all at once. The pain in her chest, now with nothing to distract from it, reached a crescendo. Daphne clutched the fabric over the spot, gritting her teeth. She didn’t black out though, too focused on Pyre, who was already stepping back and starting to turn away.
+
+“Where’re you going?” she managed to get out. The demon cocked her head.
+
+“Dealing with the leftovers,” she said simply. She nodded towards the sanctum. “Still need to get through them to grab the horn.”
+
+Daphne had been so focused on stopping the invasion that she’d almost forgotten the demon’s goal.
+
+“I can help,” she tried to say, attempting to stand as she spoke. She immediately regretted the words when another sharp pang sent her grabbing onto the tree trunk for balance.
+
+Pyre shot her an amused look. “You should probably stay put for now,” she said. “You look like shit.”
+
+Daphne opened her mouth to argue, but before she could get another word in, the demon had already bolted away.
+
+She was gone.
+
+Sliding down to the grass, the mage had the brief thought that she hadn’t even had a chance to thank her for catching her.
+
+The beam of light disappearing seemed to have thrown the Empire troops into disarray. By the time Pyre exited the woods, the monsters surrounding the sanctum were in a frenzy.
+
+Some stayed close to the now-destroyed building while others fled in different directions. The garrison troops and city guards had made it to the area, and they fought with renewed energy. They might not’ve known exactly what had happened, but they could sense that the light beam disappearing was good for them.
+
+As Pyre surveyed the situation, she silently distributed her stat points. She’d gotten another level at some point between all the fighting and devouring, officially putting her species at level 25.
+
+First the demon dumped 4 points into constitution. Landing earlier had hurt, but thankfully she hadn’t felt any flesh start to melt away. Her destroyed arm was about a quarter regenerated, and hopefully the extra stat points would speed it up. She put another 4 into strength, then magic resistance, then the last 3 into agility. Her gaze landed on the sanctum.
+
+Daphne’s spell had completely decimated the thing. The whole structure was little more than a pile of rubble at this point, but she could still feel that familiar tugging sensation. The soul piece and horn were both inside the wreckage, which meant she’d need to fight through the remaining monsters to get to them first.
+
+Pyre surged forward, already morphing her right arm into an axe shape. She quickly fell back into the rhythm of battle, slicing and crushing and devouring when she had the time.
+
+At some point, she heard the distant flap of wings above. Her right eye landed on that dragon from earlier. She hadn’t seen where it’d gone before, but now that the portal was destroyed, it looked like it had decided to come back to the sanctum.
+
+Throwing its scaly head back, the creature released a piercing screech that echoed all around the clearing. Several soldiers froze, instinctively shrinking away as the monster’s shadow passed over them. It was circling, almost certainly going to land soon, and very obviously the biggest remaining threat on the field.
+
+Pyre slammed her elbow into a ghoul, then yanked her axe out of some kind of beast’s now-gaping chest. She turned to face the approaching dragon, muscles flexing.
+
+Devouring this thing would be her first order of business.

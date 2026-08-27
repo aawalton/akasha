@@ -1,0 +1,185 @@
+---
+id: 6600f594-b7bb-5371-8b8d-44c08898658f
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Six: Under the Moonlight"
+slug: 0057-chapter-fifty-six-under-the-moonlight
+partOf: flesh-eater-demon-evolution-litrpg
+position: 57
+ownLength: 2685
+unit: words
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2944602/chapter-fifty-six-under-the-moonlight"
+royalRoadId: "2944602"
+---
+
+The night air was cold. Daphne tugged her coat closer, glad she’d grabbed it before heading out. She glanced around the darkened garden, taking in the shapes of the flowers and fountain in the moonlight. Pyre had long disappeared into the trees, but she’d been moving north last she checked.
+
+Fingers clenching into a fist, Daphne took a deep breath. At this point her head was filled with a storm of different theories—all of them worse than the last—but for now, she forced herself to focus. Whatever Pyre was up to, good or bad, she was clearly trying to avoid notice. Her guard would be up, so Daphne would have to be extra careful to not be seen.
+
+Raising her hands, she moved her fingers in a series of rapid gestures. She’d never been able to use warding magic to the same scale as Edmund, but she could cloak herself without issue. She wasn’t naturally inclined to warding magic the way she was with other schools, but considering how often she’d snuck around both as a kid and now, it had been a necessity to learn.
+
+Daphne closed her eyes and carefully drew in exactly as much ichor as needed for the spell. She braced herself for a burst of pain, but it looked like she was lucky today.
+
+A few seconds later, the air around her shimmered. Red and orange sparks swirled around her body like a swarm of fireflies—visible only to her. She couldn’t maintain this invisibility spell for long, but hopefully she wouldn’t need to.
+
+As an added precaution, Daphne cast a silencing ward around herself too. She wasn’t taking any chances.
+
+Now fully cloaked in spells, Daphne gave her surroundings a final sweep, then ducked into the woods after Pyre.
+
+Even in the darkness, the trees around her were familiar. This forest was one of the few places she could go on the manor grounds and be truly alone. No guards or butlers or uncles hanging over her shoulder. It had been a favorite for hide and seek when she and Edmund were kids, and she still strolled around here whenever she needed to clear her head. It bothered her more than it probably should that a place she associated with peace and calm was likely forever going to be tainted by this.
+
+Shaking her head, Daphne kept her focus forward. She couldn’t see Pyre, so the guard was probably further ahead. She moved quicker now that she had her wards active, but she still tried to keep her steps soft just in case. Who knew what kind of skills or magic the guard had access to.
+
+Around her, the trees grew denser. She was nearing the border of the manor property, and she still hadn’t seen any sign of Pyre. Had the guard exited the forest at some point? Had she missed her?
+
+Daphne slowed to a stop. Her spells were still active, and she could feel a growing weariness as she kept them up. Sustained spellcasting had never been her specialty. She ignored it for now and turned her head, trying to find any sign of the guard. She was about to search a different spot when the next breeze gusted past, blowing her hair back and carrying with it the faintest noises from up ahead.
+
+Voices.
+
+Daphne’s entire body tensed. Slowly, she crept forward and craned her ear. Her heart was beating so loud that it was hard to hear anything else. She gritted her teeth, annoyed. Calm down, she told herself. There was no way she was going to let herself fuck this up just because her body wasn’t listening to her.
+
+Finally, after another few minutes had passed, she heard it again. It was the distinct low rumble of Pyre’s voice.
+
+The noble took one more step forward and ducked behind a bush, the air still shimmering with magic around her. The trees thinned out up ahead, and through the gaps between them, she could make out the wall enclosing the north end of the manor lands.
+
+In front of that wall stood an all too familiar figure.
+
+Daphne frowned and attempted to make out more details. There was no question that it was Pyre—the height and build were a dead giveaway. Under the moonlight, the guard’s thin ponytail streamed behind her like a dark ribbon growing from the nape of her neck. Her shoulder pauldrons gleamed silver, and she was facing the wall away from the manor. Daphne glanced around, but she didn’t see anything else nearby.
+
+The noble waited a few more seconds before a low chuckle reached her. Pyre was talking to someone, she realized. Someone on the other side of the wall.
+
+Daphne’s heart beat faster. There weren’t many reasons someone would need to sneak around in the middle of the night to talk to someone like this, and none of them were good. That cold feeling in her stomach grew, heavy in its weight. Stinging anger and betrayal rose in her throat.
+
+Stupid, she thought. She’d let her guard down today, too enchanted with the idea of meeting someone like her, someone who she could speak to honestly and freely, and look where that had gotten her.
+
+Daphne’s fist tightened. She could feel her nails digging into her palms, but she didn’t care.
+
+She should’ve known it was too good to be true.
+
+Pyre might’ve underestimated how much of an effect the curse had. The slight sluggishness had been mild at first, so she’d thought it wasn’t a big deal. As the day progressed, however, a second symptom quickly made itself apparent.
+
+Namely, the demon could feel herself getting noticeably more tired as the day stretched on. It was still fairly mild, all things considered, and improved by resting, but her current stamina levels seemed a lot closer that of a regular human’s and not a demon with 200 constitution. This had been particularly noticeable after the end of her nighttime guard shift. She didn’t think she was in the danger zone yet—she could still push past the extra weariness without too much effort—but she’d have to be on the lookout for this in the future.
+
+For now, Pyre kept walking, pushing through the dense trees until she reached the back of the manor grounds. It was as quiet as it had been two nights ago. She gave her surroundings a quick sweep, then stepped out of the forest and up to the wall.
+
+“You there, kid?” she said lowly.
+
+Unlike their first meeting, Callan’s response was almost instant this time.
+
+“I’m here,” he said, voice a little muffled through the stone. “Did you find the key?”
+
+Cutting right to the chase, she could see. Pyre watched the blue gradient on the other side with faint amusement.
+
+“Not yet,” she said. “I checked Lord Bellhein’s office last night, but zilch. I think he might keep the keys in his bedroom or something.”
+
+The ghost made a disappointed sound at that, but he also didn’t seem particularly surprised. “And no one saw you?”
+
+The demon paused for a second, which was apparently enough of an answer for Callan. The blue gradient practically vibrated in place.
+
+“Pyre!” he hissed.
+
+“Woah, chill out. No one actually saw me. Someone just got a little close, is all,” she drawled.
+
+“How close?” the ghost sounded suspicious.
+
+“I mean I was hiding in the closet when the head butler showed up for some nighttime cleaning.”
+
+Callan groaned, his expression extremely easy to picture even with the wall in place. Pyre raised an eyebrow in amusement.
+
+“Hey, I didn’t get found out.”
+
+“Sounds like you got close, though,” the ghost countered.
+
+“Not my fault I didn’t know the head butler likes to clean at 4am.”
+
+“What—You know what, nevermind.” Callan sounded exasperated, purposely cutting himself off before the conversation could derail further. He cleared his throat. “Okay, so it’s not in his office. You’re checking Lord Bellhein’s bedroom next? Will you be able to get in without being seen?”
+
+Pyre shrugged. “I’m gonna try. It sounds like he’s not even inside the manor half the time anyway, so it might not be that hard.”
+
+“Right.” Callan sounded dubious. Ever pessimistic, the kid. Then again, maybe a bit of pessimism was to be expected when you were literally dead.
+
+The ghost paused. “Wait, he’s not usually in the manor? What’s he doing then?”
+
+“Overseeing sanctum construction, apparently.” As Pyre spoke, her eyes shifted briefly over to the area in question. Those pale white arches were still a constant in the distance. “There’s something off about that place. I had a guard shift there last night, and I got a weird feeling from it.”
+
+The concern doubled in Callan’s voice. A new uneasiness crept in.
+
+“Weird how?”
+
+“Eh, it’s hard to explain. I guess it felt kind of familiar, in a way. Magnetic.”
+
+The ghost hummed thoughtfully. “Maybe it’s the ichor concentration,” he suggested. Good to know her random theory held some water, if Callan was saying the same thing.
+
+“You’re in a unique position because you were born directly from a titan,” the ghost continued. “That could’ve resulted in higher ichor sensitivity compared to demons with more diluted bloodlines.” He was talking faster again, lost in thought. “Did you feel the same around Winrow’s sanctum?”
+
+“Nah, I didn’t.” Pyre cocked her head. “I’m guessing this is a pretty different scale, though.” She hadn’t actually gone inside Winrow’s sanctum either, but at least based on the size of the building, the amount of ichor in there compared to here was like the difference between a seed and a whole ass apple tree.
+
+“Anyway, I’m gonna try and break in the next shift I’ve got. You can tag along.” More than “can,” she’d probably need Callan around to decipher all the runes and wards around the place.
+
+Through the wall, she could practically see the ghost light up. The blue gradient shifted around, hovering side to side with excitement.
+
+“I’ll do some more investigating around the sanctum,” Callan promised. “Maybe I’ll find a way in.” Pyre didn’t mention that he’d already done a fuck ton of research on the subject, based on his rants during their garrison meetings, and still hadn’t come up with anything. The kid was clearly determined. Hey, she could respect the stubbornness.
+
+“You know,” Callan suddenly began. Pyre’s eyes snapped back to the wall, realizing her mind had wandered. Another effect of the curse, maybe—the fact that she could actually get tired now meant she also had to worry about zoning out and dozing off and all the other shit that accompanied weariness. “What do you actually doing at the manor anyway?” Callan continued. “Are you just a regular guard? I haven’t seen you patrolling in the daytime.”
+
+Pyre raised an eyebrow. “Are you stalking me, kid?” she asked, amused. The image of Callan hovering outside the manor property all day was pretty funny.
+
+The ghost sputtered. “I was worried, okay? As long as I stay outside the walls, it doesn’t hurt to stop by every now and then!”
+
+“Right right.” Pyre hummed, returning to the original question. “Well, I got assigned as Lady Bellhein’s personal guard.”
+
+A beat of silence passed.
+
+“What?” Callan’s voice was faint. “A personal guard? You?”
+
+“Gee, thanks,” the demon drawled. She cocked her head. “Honestly I think it’s pretty weird too. I guess Lord Bellhein figured we’d get along because of the ichor-poisoning thing and stuck us together. Probably helps he’s worried about that invasion. He’s taking all the guards he can get.”
+
+“I… guess?” He didn’t sound convinced, which to be fair, Pyre wasn’t either. She just had bigger priorities than deciphering Lord Bellhein’s weird behavior.
+
+“This isn’t good,” Callan muttered. The blue gradient began hover-pacing on the other side of the wall, his voice emanating from different spots depending on his current location. “It would’ve been better if you were a regular guard, then you could move around more and there wouldn’t be someone around you all the time.”
+
+The gradient stopped. “You have to be really careful,” he emphasized. “It’s going to be a lot easier for you to get found out like this. Honestly, it’s probably best if you just don’t talk to Lady Daphne that much. It’ll be easier to avoid suspicion that way.”
+
+Pyre didn’t respond immediately, and she could practically feel Callan’s stress skyrocketing as a result.
+
+“Please tell me you’ve been acting normal, I swear to god—”
+
+“Eh, it’s been fine so far,” the demon interrupted. “She’s been the one starting pretty much all the conversations anyway. I think it’s the whole ichor-poisoning connection.”
+
+As she spoke, her mind wandered to the talk they’d had earlier that day. She hadn’t known what to expect when Daphne had dragged her to her room and insisted she rest, to be honest. She could tell the noble wasn’t going to let up, so she’d just closed her eyes and pretended to sleep for an hour to get her off her back.
+
+Then she’d “woken up,” and Daphne had started talking to her. She’d been prepared for the ichor-poisoning question, but it was the stuff afterwards that had made her pause.
+
+She couldn’t really say why she’d told Daphne that she wasn’t dying. It didn’t help her in any way—if anything it would’ve been more beneficial to keep up the pretense and try and get more information out of the noble. But when she’d heard her talking about her life, heard the old, simmering anger contained in her voice, she hadn’t felt particularly inclined to do so.
+
+Maybe it was the unexpected intensity in Daphne’s words that had taken her off guard. It was the same sort of burning will she’d briefly glimpsed when she’d seen the state of Callan’s corpse. She looked at the two of them and thought, “these two really want to live.” She was technically dying because of the curse, but she had yet to feel anything similar. This level of emotion was completely foreign to her.
+
+A part of the demon couldn’t help but wonder if she’d ever felt anything so intensely—if she’d ever clung to life so strongly—when she’d been human.
+
+She didn’t know, and she might not ever know.
+
+Pyre shook her head and opened her mouth to speak again, when a tremor suddenly nagged at her senses. She paused, focusing.
+
+In the quiet night, she felt it again. It was faint, but it was the distinct vibration pattern of something moving nearby.
+
+“Pyre?” Callan’s muffled voice sounded from behind the wall, laced with concern. “Is everything okay?”
+
+“Something’s here.” The demon’s voice was blunt. How long had that vibration been going on? It had felt close enough that she should’ve detected it sooner. She probably would’ve, if the exhaustion from the curse wasn’t affecting her. She’d let her guard down.
+
+Grey eyes scanned the surrounding trees, but there was nothing nearby. When she checked with her thermal vision, however, she found a distinct reddish splotch hiding behind one of the trees at the forest’s edge. Still nothing visible, though.
+
+“Magic.” Callan’s voice came as a hushed hiss, barely discernible through the wall. “Someone’s casting a warding spell nearby. It’s strong—I can’t believe I didn’t notice it sooner,” he murmured.
+
+Pyre hummed in acknowledgement, but she didn’t move her eyes from that warm gradient, watching it unblinkingly. She cocked her head. Slowly, a wide grin stretched across her face.
+
+“I know you’re there.”
+
+Silence.
+
+The demon waited, but there was still no response. She was preparing to approach herself when the red blob suddenly shifted.
+
+In front of her, the air shimmered. Scattered sparks sprayed outwards, expanding and pulling apart as if the atmosphere itself was being burned open.
+
+Out of that gap, a familiar human stepped forward. Fiery red hair gleamed under the moonlight. A glowing red sphere of light rested at the end of a fingertip pointed accusingly at the demon, ready to be fired off at a moment’s notice. Pyre could feel the heat emanating from it even where she currently stood.
+
+“Don’t move,” Daphne said lowly.

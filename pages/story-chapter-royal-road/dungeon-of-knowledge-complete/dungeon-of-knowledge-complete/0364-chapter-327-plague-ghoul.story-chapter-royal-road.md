@@ -1,0 +1,179 @@
+---
+id: 4c164c7e-9e83-5e3d-b519-73fe69f9f3ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 327: Plague Ghoul"
+slug: 0364-chapter-327-plague-ghoul
+partOf: dungeon-of-knowledge-complete
+position: 364
+ownLength: 2903
+unit: words
+ownProgress: 2903
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2475762/chapter-327-plague-ghoul"
+royalRoadId: "2475762"
+markedReadAt: "2026-06-29T20:22:55.668Z"
+---
+
+Plague Ghoul – Undead – level 61 (Death).
+
+“Spread out!” Ali yelled, hearing the words in Common distorted by the unsuited fanged reptilian mouth of her kobold acolyte – some of the consonants were not compatible with a mouthful of fangs. While Mato was ostensibly the leader of this team, he was only able to communicate via the Limited Telepathy skill granted by his runic tattoo while he was in his Bear Form. Instead, while trading void and nature against the Ghoul’s death and disease, he fired off terse messages to her and she shouted them to the raid on his behalf.
+
+He roared again, drawing all the summoned zombies in toward himself, lashing out with a powerful strike that trailed sizzling void magic and exploded with an emerald-green pulse of nature magic that blasted outward in an area around him, healing their melee and damaging the zombies equally.
+
+You have been infected by Creeping Plague.A suppurating plague, rotting the body from within. +7 Death damage per second.Damage from the Creeping Plague affects everyone around you. Range: 3 meters.Contagious (15% chance to propagate Creeping Plague on damage.) +10% additional damage from Death magic.Small chance per vitality point to recover from Creeping Plague.Disease – Count: 2.
+
+Shit, again. Her little kobold acolyte had just been infected a second time by the archer standing beside her. Fourteen death magic damage per second was not unmanageable, but the entire raid was plagued, and she was struggling to keep up with the healing. Worse, this ghoul’s domain magic included a death-affinity aura which was stacking progressively more damage as the raid-wide plague increased everyone’s damage.
+
+“Spread out more!” Ali shouted, and the raiders began to shuffle about, trying to find better spots.
+
+“We need to clear the plague,” Teagan gasped, breathless as she struggled to keep up with the damage.
+
+“How?” Ali asked.
+
+“I can cure it. Can you keep the raid alive?” she said.
+
+Quickly, Ali refreshed her memory of her Acolyte’s newest skill.
+
+Azryet’s Gift – level 12Mana: Cast Azryet’s Gift on an ally. If they are damaged before it expires it releases holy energy in an instant heal before jumping to a random nearby ally and refreshing its duration. Azryet’s Gift can jump 2 [1 + skill / 10] times before it expires. Duration: 30 seconds.Holy, Healing, Buff, Area, Wisdom
+
+“I can,” Ali said with a little more confidence than she felt. This had better work, she thought, but clearing the plague before it overwhelmed them was their top priority. Immediately, she cast her Acolyte’s Devotion skill, feeling the surge of holy power rushing through the tiny, golden-scaled body as her healing accelerated. Still, she felt the sudden burden like a weight crushing her chest as Teagan ceased healing.
+
+She poured on the healing, alternating her primary Heal and Restoration skills with distributing Azryet’s Gift among the melee until the strange healing buff was bouncing rapidly around the raid group like a bucketful of shining yellow-white grasshoppers. She had the momentary presence of mind to recognize just how effective the blessing was in an environment where every single person was taking continual damage. She shifted her balance to casting it more often, especially with the spell echo component of Devotion duplicating the healing spell every time she cast it.
+
+Beside her, Teagan was frowning in total concentration as a disease-curing totem landed among the melee and her nature magic flared rapidly. She seemed to be using a single-target cure spell on the rest of the raid, which meant she had to cast it on every person manually, but as she systematically worked her way through the group, Ali felt the pressure easing up. Each cure reduced the Death magic vulnerability and the damage output of the plague, and as the raid scrambled to find better spaced-out positions, the reinfection rate rapidly slowed.
+
+Except, of course, among the melee group. All clustered up as they were, Teagan’s totem was working overtime to consume the disease propagation almost as quickly as it spread.
+
+There’s no chance I’m going to get a break to use Prayer. Ali growled deep in her throat, and retrieved a mana potion from her storage ring, and made her Acolyte drink it while chain-casting healing magic furiously.
+
+By the time her Devotion wore off, Teagan had regained some semblance of control over the plague, but it was still taking the majority of her mana and time to keep on top of it, so Ali remained the primary healer, falling back on her Restoration and Azryet’s Gift as her primary healing methods due to their mana efficiency. At least Mato can take care of himself.
+
+***
+
+Your group has defeated Skeletal Wyvern – Undead Dragon – level 58 (Bone).
+
+Your group has defeated Plague Ghoul – Undead – level 61 (Death).
+
+Rings, Ali decided, eyeing the surprising synchronicity of the near-simultaneous raid kills. Her next Grimoire imprint might just have to be a ring. If she was to be a functioning member of a raid group with just a handful of minions, then she needed to be able to bring far more potions and consumables. It was essential to being properly effective and the few storage rings she had purchased were not cheap or easy to come by.
+
+“How did it go?” Ryn asked, looking up from her book.
+
+“We won,” Ali said. “Both fights.”
+
+“That’s great!”
+
+“I made some mistakes,” Ali admitted. Her Sacred Ooze had been a phenomenal success, continually dissolving the Skeletal Wyvern from inside with holy damage while raining healing bubbles down on the raid below, but it could not see health like her Acolytes. Even worse, she couldn’t coordinate with the team because none of the minions she had assigned to that group could speak Common.
+
+“Nothing serious, I hope?”
+
+“Tsk. Basic mistake,” Ali said, chiding herself with the clicking of her tongue. “I can easily afford another acolyte for that group, or maybe swap the fire mage and the hellfire imp. I need something that can speak in Calen’s group.”
+
+“How will you get them there?”
+
+“Weldin is supposed to make his portal after the fight is finished,” Ali said.
+
+At that moment, her Grimoire lit up with a vortex of new runic inscriptions, sucked down into its pages and editing the imprints for her various minions as the notification of experience sounded in her mind.
+
+Your Hellfire Imp has reached level 49 (+4).Your Hellfire Warg has reached level 53 (+2).Your Sacred Ooze has reached level 57 (+3).
+
+None of the minions in the first group were at her maximum imprint level yet, but the growth of those specific minions was a great sign, encouraging her that they would certainly be able to progress with the raid group as they pressed on into the death-stricken forest.
+
+Your Dagger Rogue has reached level 35 (+4).Your Fire Mage has reached level 32 (+5).Your Acolyte of Azryet has reached level 49 (+4).
+
+Her Kobolds, on the other hand, had all improved dramatically. It had been a struggle to keep her Fire Mage alive at such a low level, but she was glad she had sent it – five levels and a new skill would inject new life into a minion she used to rely on heavily. Her rogue had been an incredible success too; the holy damage from the holy poison Basil and Morwynne had made, combined well with her Deadly Poisons skill, had allowed her black daggers to slice effortlessly through the unnaturally tough hide of the Plague Ghoul. She needed to let Morwynne know that it had been a resounding success and that the entire raid needed to be equipped with it during the break. Obviously, earning a higher-level acolyte meant more mana and stronger healing, a win all around.
+
+Martial Insight has reached level 72.
+
+But most exciting were the new advancements and skills she could now choose. For her Fire Mage’s level-thirty skill unlock, she chose Conflagration – a spell-critical mastery that would ignite the target, doing additional burning damage over time proportional to her mage’s critical damage multiplier. More fire. Perfect!
+
+Her Acolyte of Azryet advanced her Cure skill, and it didn’t take much consideration for Ali to pick Cure Disease as the advancement.
+
+“I can cure disease and poison now,” Ali said via her acolyte, getting a tired smile from the exhausted Teagan sitting beside her. The next Ghoul they faced would be just a bit easier; yet another reason to ensure that every raid group had an acolyte.
+
+They’re just too versatile to ignore. Ali summoned another acolyte immediately, making sure it was properly equipped. As soon as the raid groups recovered their mana and Weldin created the Town Portal, she would send the acolyte to join them.
+
+The light of her Grimoire updating itself slowly faded.
+
+It was while watching her arcane magic twisting and entwining with her nature magic to summon her acolyte that inspiration suddenly struck. Heart pounding with new possibilities, Ali hurriedly paged through Clarence’s heavy, densely inscribed pages searching for the obscure reference she remembered struggling with earlier.
+
+Finally, she found it, and not without a little help from the book himself, Clarence gamely flipping a few extra pages for her. It was a strangely abstract description of the nature of mana, and the bizarre idea that all affinities were just manifestations, flavors perhaps, of the same underlying energy.
+
+What if she meant that literally?
+
+Several pieces of knowledge and memory shifted, falling into place in her mind. The way the animating mana of Nathaniel’s giant, terrifyingly powerful Calhedron had been structured – a potent formation, but one that, when seen in a specific light, reminded her of the animated structure of the light elementals she had observed in her jungle.
+
+Hands trembling slightly with excitement, she consulted the pages of her Grimoire, studying the simplistic swarm Glimmer Shard, painstakingly teasing apart the markers Val’korr had pointed out. If I just transmute this here and rearrange these connections…
+
+Ali’s mana flowed, forming the runes. It was as if she had been looking at one side of a three-dimensional sculpture, and only now had she turned to see it from another angle. It was not a simple transformation in terms of the amount of rearranging she needed, after all, she was fundamentally rewriting the base affinity of the simplistic monster. But in a sense, the basic structure of what a Glimmer Shard really was remained. It was like sculpting the same art with a different kind of stone.
+
+Suddenly, her Grimoire reacted, and her chime sounded.
+
+Variant: Arcane Shard added to Imprint: Elemental.
+
+It… worked? Quickly, she summoned one, but as was typical for swarm monsters, she got more than she expected. Nine to be exact; nine glowing golden shards of magic, almost exactly the same in structure and form as her barrier magic, hovering in the air before her.
+
+Arcane Shard – Elemental – level 15 (Arcane) x9.
+
+As usual with swarm monsters, they had a severely limited number of skills, presumably a sacrifice to balance the energy required to make so many simultaneously. And the skills were almost identical to the Glimmer Shards – but none of this was really what had her heart racing still.
+
+I did it! She had transmuted one of her, up until very recently, useless light elementals into an arcane elemental – something vastly more useful to her with her current skills. It was, however, not the angular, razor-sharp monster that captured her imagination – it was, after all, only level fifteen. Far more importantly, in her opinion, she had finally understood a little of one of the fundamental concepts her mother had written about in her book.
+
+What else can I apply this to? It was the beginning of an understanding of mana-affinity transmutation, but every project that popped into her mind was orders of magnitude more complex than this tiny elemental. Still… it’s progress!
+
+“Thank you, Clarence,” she said, patting the book, and then lobbing the ball for him to go and chase. In a flash of glittering magic, the Eldritch Tome shot off after the ball, followed by the small squadron of arcane shard elementals as if they had decided he should spearhead their formation.
+
+As the auction house’s door chime sounded, Worthington glanced up from his paperwork to find several figures entering his store. His heart almost stopped as he mistook them for the Town Watch or the robbers again, but no, they were adventurers, and the value of their gear was astronomical.
+
+His eyes widened as even his own Appraise skill failed to correctly estimate the breastplate on the giant, barrel-chested, heavily muscled man who glanced around the room, thick red hair sprouting from every exposed part of his pitch-black skin. The strangely furred ears protruding from too high up his head proclaimed him to be non-human.
+
+Warrior [Dungeon Bane] – Beastkin – level ???
+
+“Small, but serviceable,” he said, his deep voice rumbling.
+
+Oh shit! A three-mark? The Heroes of the Crimson Blade, Worthington thought, as he immediately recognized Bartak, the legendary tank described in their internal Silver Cog Company Compendium of noteworthy people. The crimson sword emblem stitched into his cape and the exquisitely crafted tabard merely confirmed what he already knew. He had no idea what the premier New Darian royally commissioned platinum adventurer group was doing in a dump like Myrin’s Keep, but it could not be good for business. Everyone knew their infamous reputation.
+
+“Better than the rest of this shithole town,” said the second adventurer, a raven-haired mage with a hawkish cast to her features.
+
+Witch [Frozen Assassin] – Human – level ???
+
+Lilian Wolf. The Ice Witch had a reputation almost as scary as the group itself; supposedly incapable of feelings and emotions, she showed absolutely no mercy to her foes. If the Silver Cog intelligence was accurate – and it almost always was – that was no mere rumor for the masses. She was tolerated by the crown solely because of the unique services she could provide.
+
+“Get your supplies quickly,” the third said, as two more dark-clad members filed in behind them. The first man was clearly a priest or some ecclesiastical class, judging by the subtle religious affiliation symbols embroidered into his robes.
+
+Priest [Dungeon Bane] – Human – level ???
+
+Vernon Bell. Traditionally priests were the type to stand back and heal the party, but not Vernon Bell. Somehow, he had unlocked both a holy and a shadow affinity and had once enjoyed dueling in major cities, destroying his challengers with violent shadow drains and mind shrouds. Not so much since he ascended to platinum – nobody messed with a three-mark.
+
+“This dungeon should be a cinch. I want to be done by lunchtime. May we use the auction house outlets?” The unnaturally gaunt speaker was clad from head to foot in black leather, leaving only his hard eyes visible behind a face mask.
+
+Rogue [Prince of Darkness] – Human – level ???
+
+“Of… of course, esteemed sirs and lady,” Worthington said, stuttering as he gestured to the booths, struggling to keep his voice under control as his eyes kept sliding away from the figure of Beltz Fellworth, the Crimson Blade’s shadow assassin. “The usual fees apply; I assume you’re familiar with the Silver Cog auction?”
+
+“Yes, yes, we know how it works,” the priest, Vernon Bell, said, waving a hand with an impatient shooing gesture.
+
+Worthington took in the final, silent member of their group, Sallis Bolt.
+
+Hunter [Flame Strike] – Half-Elf – level ???
+
+Sallis was dressed in the brown and green typical of an experienced woodsman, his silver hair bound into a tight braid that hung midway down his back, and his eyes were never still, always scanning the room, his companions, everything. More than any of them, he made Worthington’s skin crawl with his silent, piercing scrutiny.
+
+The Heroes of the Crimson Blade. If they were after the dungeon, then he was in serious trouble. Every account of this group showing up anywhere was followed by a deluge of damage reports and repair requisitions. The New Darian royalty only turned to them when the more civilized avenues of diplomacy or economic responses failed.
+
+The evolved crafters in Myrin’s Keep were an important source of income for him, but over half of the money he had made so far had been directly or indirectly linked to the Dungeon of Knowledge below the town. He didn’t know if they were here on an official commission or if it was a personal trip, but it didn’t matter much; if they were here to destroy the dungeon, he was going to be ruined.
+
+“If… if I may ask, what brings such an illustrious group as the Heroes of the Crimson Blade to Myrin’s Keep?” he asked, cursing the stammer as he asked.
+
+“We heard that the dungeon has magicite,” the rogue, Beltz, immediately answered, eyes sparkling with avarice behind his black facemask.
+
+“No, you may not,” Vernon said simultaneously, and then rounded on the assassin angrily. “Shut up, Beltz, you’re always running your mouth off.”
+
+“It’s not like it’s a secret, Vernon,” the rogue retorted, but returned to the auction booth without further comment.
+
+But it was more than enough, Worthington realized in horror, already seeing his future fortune going up in smoke.
+
+I need to warn the Guildmaster. She’ll know what to do.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

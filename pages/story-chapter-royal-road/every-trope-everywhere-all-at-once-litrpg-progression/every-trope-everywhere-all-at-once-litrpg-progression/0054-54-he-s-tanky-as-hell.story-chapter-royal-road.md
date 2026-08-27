@@ -1,0 +1,219 @@
+---
+id: 18de5110-8ed6-5c4a-a622-e80f707e06b5
+page-type-slug: story-chapter-royal-road
+title: "54 - He's Tanky as Hell!"
+slug: 0054-54-he-s-tanky-as-hell
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 54
+ownLength: 1723
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3577555/54-hes-tanky-as-hell"
+royalRoadId: "3577555"
+---
+
+The Chainbound Giant’s eyes were moving independently. I wouldn’t quite describe it as being cross-eyed since that would make it sound less intimidating than it actually was, but the point is, it was a damn horrifying sight.
+
+“Two souls in one body…” Meriel said. “How is that even possible?”
+
+“They’re the souls of two twins,” Aeris said. “Aurelius believed that their souls share an innate connection. Since they were twins, he theorized they were also capable of sharing the same vessel. As you can see by what’s ahead of us, this was a failed experiment.”
+
+“He tried stuffing two souls into a giant?” I said. “Yeah… this guy really is crazy.”
+
+Meriel scoffed. “You only realized that just now?”
+
+The Chainbound Giant, who was sticking out of the dungeon gate, grabbed the nearest Porcelain Harpies with each hand, aiming them at us.
+
+“Watch out!” the captain shouted.
+
+Aeris and the airships tried to dodge the attack. One harpy hurled through the air, missing all of us. But the second one landed, taking out a chunk of one of the ships. It wasn’t enough to bring the ship down, but the fact that the giant was capable of such accuracy and speed with his throws was terrifying.
+
+“We’ll die if we just wait here,” the captain said. “Let’s get aggressive.”
+
+The monsters surrounding the gate gathered around, coordinating their attacks. Kaelor’s troops intercepted them, taking flight and meeting them with their blades, arrows, and spells. Some of the troops flew griffins, soaring through the battle.
+
+The captain’s ship was the only one left beside us.
+
+“We’ll attack the giant directly,” the captain said. “That dragon of yours should come in handy, eh?”
+
+With that, Aeris and the captain’s ship shot through. The monsters gathered around to defend the giant, but Kaelor’s warriors cleared the path. Aeris consumed the few monsters that slipped by, and I meant that literally. She chomped their entire bodies.
+
+“That hurts my jaw,” she said, spitting out pieces of stone.
+
+“The gargoyles and stone angels don’t seem particularly appetizing,” I said.
+
+“They actually don’t taste too bad.”
+
+“Really?”
+
+A Halo Hound cut through the air, heading straight toward us. It lunged at us, and we barely avoided it. But it wasn’t just a one-and-done attack. We looked ahead, seeing the Chainbound Giant grabbing several more monsters and launching them toward Aeris and the captain’s ship.
+
+The two of them swerved as much as they could, all while heading toward the giant.
+
+I smiled. “Looking good, Aeris! Keep it u—”
+
+A gargoyle crashed into me, clipping the wings I had gotten from the dungeon.
+
+I screamed.
+
+It screamed.
+
+Well, kind of. It made a weird noise that I couldn’t really describe, but I didn’t expect much else from a monster like that.
+
+The impact knocked me off of Aeris. Meriel tried to catch me, but I was already too far by then.
+
+“Allene!” she cried.
+
+I tried using my wings, but they wouldn’t act the way I wanted them to after the impact. For a moment, I spiraled downward toward the clouds.
+
+After struggling and fighting against myself, I managed to regain control of my wings.
+
+“I’m fine!” I yelled out. I hovered in the air, below everybody else.
+
+What I didn’t expect was for the monsters to take advantage of the position I was in and dive toward me at the same time. Even the gargoyle that had crashed into me recovered and charged at me.
+
+The others tried to help me, but with the Chainbound Giant and all the monsters attacking them, they wouldn’t be able to get to me in time.
+
+I was on my own.
+
+Two hounds lunged at me, almost biting my face off. A gargoyle tried to impale me with its spear. A Porcelain Harpy stretched its claws toward my eyes.
+
+Seeing all of this, I did what I did best.
+
+Getting the hell away.
+
+I darted through the sky as the monsters chased me down. If I had Reina’s Dawn Sunderer, I would’ve considered facing them directly, but I didn’t. It was a shame that the only weapon I had with me was the staff Meriel had given me. I was forced to keep my distance and attack the monsters from afar.
+
+Somehow, I was faster than all the monsters chasing me. Was it because I was naturally talented at flying?
+
+Probably not. Honestly, it was just these wings that made me look good.
+
+These wings were far easier to fly than the tiny ones Meriel would give me with that spell of hers. I never had the time to [INSPECT] these wings earlier, and I certainly didn’t have the time now with all these beasts on my tail, but I could only assume they had some special effect. After all, they were the dungeon’s final rewards.
+
+Once I had enough distance, I quickly flipped around, casting Ember Shot and letting the fire bullets rain on them. A few of them hit. Some of the monsters were taken out of the air, while the others continued soaring through like homing missiles.
+
+“Can you guys get the hell off of me?!” I cried.
+
+Of course, they didn’t understand me. That made me wonder how monsters were able to communicate with one another in the first place. Clicking tongues? Chirping? Growling?
+
+Ah, sorry for getting distracted. I know all this narration during the battle might be annoying you, but I’m pretty sure you understand the flow of the battle by now.
+
+I cast fire spells. Then wind spells. Some of them died. Some of them lived.
+
+You get the idea.
+
+[TROPE INITIATED: OFFSCREEN VICTORY]
+
+Completion criteria: Win a battle the audience never sees.
+
+Huh. Well that was convenient.
+
+…
+
+…
+
+…
+
+And just like that, all the monsters chasing me were dead. Yup. I killed all of them.
+
+Woohoo.
+
+[TROPE COMPLETED: OFFSCREEN VICTORY]
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[131 → 132]
+
+After that was over, I glanced back up.
+
+Aeris and the others had broken through the horde of monsters, attacking the Chainbound Giant directly now. The giant retaliated by flicking its arms and whipping its chains around. One of the chains caught onto a ship, wrecking it completely. The ship began to fall out of the sky. Fortunately, nearly everyone on board was able to keep themselves afloat with either their griffins or wind magic, and they went right back to attacking the giant.
+
+Aeris bit onto the giant’s arm. It roared, causing the dungeon gate it was poking out of to shake. She dodged and retreated after it tried to bite her neck off.
+
+Even though they were monsters all the same, the giant didn’t treat them as if they were its allies. It constantly grabbed the other monsters out of the air and hurled them toward us like they were nothing more than ammunition.
+
+I flew upward to where Aeris and Meriel were.
+
+“I don’t even think we’re hurting it,” Meriel said. “I attacked it with all sorts of spells, but I think it’s immune to magic. Even Aeris’s cyclones and fire breath do nothing against it.”
+
+“Immune to magic…?” I repeated. “Then what are we supposed to do? Hit it with our staff like it’s a sword?”
+
+“That’s a horrible idea.”
+
+“I know. It was a joke.”
+
+I turned to the giant. It was busy attacking our allies, and the monsters were backing the giant up instead of seeking us, giving me time to cast [INSPECT].
+
+[BOSS: CHAINBOUND GIANT]
+
+HP: 98%
+
+“Um…” I said. “It’s at ninety-eight percent health.”
+
+Meriel gave me a weird look. “What does that even mean?”
+
+“It means that the giant took nearly no damage since this entire battle started. If what you’re saying is true, then Aeris’s bite just earlier was the only attack that did any real damage to it.”
+
+Aeris let out a rumble. “Praise me more, darling.”
+
+“Stop being weird.”
+
+I waited for a moment, watching as Kaelor’s warriors attacked the giant. I ignored the mage’s attacks and focused entirely on the warriors wielding swords, spears, and bows.
+
+When I counted ten hits, I took a look at its health again.
+
+HP: 96%
+
+Yeah… things were not looking so good. Ten entire hits for two percent of its health? Are you serious?
+
+[TROPE COMPLETED: THE GIANT IS TANKY AS SH*T]
+
+Completion criteria: Realize that the Chainbound Giant takes almost no damage
+
+[ITEM ACQUIRED: GIANT SLAYER]
+
+Rarity: Epic
+
+Description:
+
+A great sword forged by an ancient giant, promised to take down her own brethren. The giant who forged this sword was smaller than her peers. As a constant subject of ridicule, she swore an oath to take down everyone who made fun of her size.
+
+Effects:
+
+- Increased damage to enemies larger than the wielder, scaling based on the difference in size
+
+- The max damage is capped based on the wielder’s Strength
+
+- The wielder experiences an irrational amount of confidence while facing larger opponents
+
+This item will now appear in your hands.
+
+Note: Doesn’t the description remind you of someone? Hint: She’s reading this right now.
+
+A light enveloped my hands, taking the shape of a sword that was nearly as large as I was.
+
+“It’s not nearly larger than you, it is larger than you,” Meriel said.
+
+I frowned. “How the hell did you read my thoughts?”
+
+“I could just tell from your expression. And where did you even get that? I’m serious—you really do pull out all sorts of random things out of nowhere.”
+
+Look, some would say it’s plot armor, but I think receiving this sword was rather fair considering the situation we were in. All this meant was that the System wanted me to take this giant down.
+
+It’s time to get serious.
+
+Cue the music.
+
+…
+
+Ah, wait. I’m still hearing that damn boss music from Aurelius even though he was way behind us at the main battle. It had been repeating the same exact rhythm and instruments for so long that my brain just blocked out the sound.
+
+Could we change it up a bit?
+
+The sound of drums and trumpets was replaced with a piano. I don’t really know how to describe it, so just imagine a piano track that would make this fight feel even more badass.
+
+Let’s try this again.
+
+It’s time to get serious.

@@ -1,0 +1,213 @@
+---
+id: 5e3f67c0-26f2-5d10-aa12-d971fd3f6275
+page-type-slug: story-chapter-royal-road
+title: "Chapter 498: The Nightmare"
+slug: 0538-chapter-498-the-nightmare
+partOf: dungeon-of-knowledge-complete
+position: 538
+ownLength: 3639
+unit: words
+ownProgress: 3639
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2917332/chapter-498-the-nightmare"
+royalRoadId: "2917332"
+markedReadAt: "2026-06-29T20:30:33.123Z"
+---
+
+Mato charged the Well of Eternity with a furious roar, his mind struggling to comprehend the grotesque mass of flesh and snarling mouths that lashed out at him from directions that couldn’t even be named, let alone seen. His claws raked through a Parasitic Nightmare, trailing sharp, jagged ribbons of void that severed a tentacle that was trying to grapple him, but half a dozen more immediately filled its place.
+
+The whispers surged, suddenly drowning out his thoughts, his mind, and his senses. Everything faded in a riot of maddening sound; sound that didn’t even register in his ears.
+
+He came to with the horrifying sensation of having some writhing tentacles painfully extracted from his chest, where they had somehow infested his lungs. He coughed up blood as Malika tore the thing from him and then healed him right back up.
+
+Fucking hell! The worst part of the insanity was that it left his memory of the parasites piercing his body and wriggling around inside perfectly crystal clear. This was the fourth one, and that was already far too many for a lifetime. He wouldn’t wish that experience on his worst enemy.
+
+Except the Lich, he corrected himself. I’ll stuff his phylactery full of these parasites for what he did to Lira and Ali.
+
+He turned, resting his eyes on the eldritch monstrosity lurking in the Well once more, but, to his annoyance, his eyes drifted away of their own accord, or perhaps drawn by the whispers, to seek out some Dark Souls instead. Can’t kill the boss like this, he thought, forcing his attention back.
+
+“It’s a reverse taunt,” Calen said.
+
+“Well, that sucks,” he replied. “What do we–”
+
+“Ali’s in trouble!” Malika’s voice shot through his frazzled mind like a bolt of lightning. He wheeled about to find Ali looking dazed and confused, while every single Parasitic Nightmare screeched and charged.
+
+She’s not using her barrier. What is she doing?
+
+But Mato didn’t need an explanation; he charged with all his speed, shooting out into the middle of the horde of squirming parasites. Without hesitation, he unleashed his roar, taunting all to attack him.
+
+“Ali! We’re coming to help!” he sent.
+
+Where am I?
+
+Darkness pressed in on her from all sides like a suffocating blanket. The pressure weighed upon her body and mind, and only her ragged gasps as she struggled for breath broke the damp, cloying silence.
+
+An insidious, eerie prickle crawled up along the nape of her neck and made her suddenly spin around, desperate to find whoever – whatever – was watching her. All she found was more of the endless, oppressive darkness.
+
+Desperate for information, she reached for her notifications, but, somehow, they wouldn’t come.
+
+There was a… Well? A… where…
+
+She had been doing something important, she was sure of it, but the details slipped from her mind’s grasp like fine sand spilling between cupped fingers.
+
+She summoned the magic of her barrier, simply for the golden light by which to see, but that somehow eluded her, too.
+
+Suddenly, something solid brushed up against her back. Despite herself, she squeaked, her voice high-pitched and filled with the unreasonable panic that surged inside. She stumbled, bruising her knees as she landed face-first into something gooey, sticky, and disgustingly warm.
+
+But she froze, face down, not even daring to spit out the foul slush pressing into her mouth and nostrils, her entire being focused on the mere impression of heaviness swishing through the space she had just vacated.
+
+Silence and stillness returned, but Ali continued to hold her breath for all she was worth. Her heartbeat was so loud in her throat that she was sure she was about to be found. Her body recoiled as she tried desperately to sink into the ground, knowing that murderous fangs or vicious claws hovered less than a hand’s width away.
+
+Then, she heard it.
+
+A heavy, low, grating rumble. A hissing rush that shook her bones while her lungs screamed for release. Grimly, she hung on, holding her breath against the sparkles of light and dark encroaching upon her vision. The rumble paused, a moment of hope that the danger might have passed, but something warm and wet splatted against the back of her neck, and she very nearly screamed again.
+
+A foul breath of rushing air washed over her, enveloping her in its uncomfortably hot, damp embrace as the rumble returned.
+
+How it had not found her yet was unfathomable to her. Her lungs screamed in agony, and her vision flickered with the imaginary light of a brain starved for oxygen. She knew she must breathe. She couldn’t hold out any longer, and when she finally gave in, she knew it would find her.
+
+A sudden swirling rush buffeted her body, and the heavy presence vanished. The darkness swirled, and the oppressive rumbling breath was gone. Ali tried to hold her breath longer, certain it was a trick, but it had been far too long already. Her cramping diaphragm overrode her will, drawing a ragged breath of swirling darkness into her poor lungs. Immediately, she had to clamp down on a rush of despair at the sound, even while reveling in the sudden joy of once again tasting air. But whatever it was, it did not return, and the flickers and sparkles of her dying vision began to fade.
+
+She sat up, slowly, quietly spitting out the goopy sludge that tasted suspiciously of rust.
+
+“Ali! We’re coming to help!”
+
+Mato? What’s going on? Why can’t I remember? Is this a mental attack?
+
+Somewhere deep inside her mind, in the middle of a uniform expanse of darkness, a crack of light suddenly appeared. A vertical line that slowly grew taller, before seeming to redraw itself in thickness several times over. She studied the phenomenon curiously, but it swung wider, revealing itself to be a door. Then, suddenly, repressed memory and information, denied to her in this oppressive darkness, rushed back into her.
+
+The Well of Eternity.
+
+This time, the thoughts remained, not draining away like vanishing sand, and she remembered. They had been deep in the Crypt of Kings, fighting the guardian of the well, an eldritch monstrosity named Baaoht Yll’shuum. It had cast a domain magic at her…
+
+They’re still out there fighting, she realized. Somehow, Mato’s voice had penetrated this nightmare and jolted her mind back from the brink.
+
+And, they need me!
+
+She carefully picked herself up, rising on still-unsteady feet. The impenetrable darkness receded, fading to a thick, black mist. She couldn’t stay here, wasting time in this place while her friends fought the monster without her. Instinctively, she reached for her minions, but somehow her connection to them was obscured, tucked away, and unreachable. She could tell they were still out there somewhere, but it was as if the ‘where’ was somehow confusing enough to make even her brain hurt.
+
+“I’m stuck, help them,” she sent. She got nothing back from her minions except vague impressions of recognition, and she realized that her second-tier skill might have had enough power to leak through the shroud somehow. Not that she could do much without knowing what was going on.
+
+With the receding of the mist, the blasted, desolate landscape slowly revealed itself. She couldn’t see particularly far; everything beyond ten or fifteen meters faded away into dark obscurity, but she could see. Large, shattered rocks and boulders littered the ground like the aftermath of an explosion, and things shifted deeper within the black mist, large, indistinct shapes that seemed to vanish whenever she tried to look at them. She recognized nothing here. All she knew was that she had never been in this place before.
+
+Folding her wings up close to her body in an attempt to minimize their golden glow, she took a hesitant step forward. Her foot squelched as it touched the ground, and she made the mistake of looking down.
+
+The ground bled.
+
+Dribbles of blood leaked out of the shattered stone, collecting in puddles on the dark, coarse gravel and sand, forming a sticky mud that clung to everything it touched. Horrified, she suddenly realized she was covered head-to-toe in the stuff, and she almost threw up right there and then, remembering the rusty taste of it on her tongue.
+
+She tried to retrieve a bottle of water to wash her mouth out, but, while she could inspect the contents of her ring with her mind, when she tried to retrieve it, the bottle vanished from within the ring but failed to appear in her hand.
+
+Her attempt to spit out any remaining blood and dirt was suddenly interrupted by a grating sound, like a rock being dragged over another. Right beside her, on a smooth flat section of a reddish boulder, a line slowly appeared, growing downward for nearly two handspans.
+
+Ali studied the apparition with a mix of curiosity and trepidation, ready to flee at a moment’s notice, but somehow unable to look away from the strange phenomenon. It looked like someone was inscribing something upon the rock with an invisible chisel.
+
+The line stopped growing. Silence reigned for all of two heartbeats, and then a ripping crack shook the rock, and it snapped open like vertical lids, revealing a crimson eyeball. The eye snapped left and right and then suddenly returned to fix her with a baleful stare. A high-pitched, inhuman screech rose from the rock, causing the mist to shiver and the pools of blood to ripple.
+
+Ali dove sideways, sprinting across the rough ground, ducking behind boulders and rocks. She tripped, skinning her knee on something sharp, but she ignored it and the nasty mud, scrambling on all fours till she found herself wedged, panting hard but otherwise untouched, in a small natural alcove between several piled boulders.
+
+But her breath froze in her throat as something from the mists answered the screech. A discordant, chaotic blast of noise that could barely be described as a sound blared across the landscape, its alien harmonies tearing at her suddenly brittle mind, threatening to shatter it like a fragile crystal glass.
+
+Whatever this place is, I feel weak… so weak!
+
+Her eyes widened in horror as a thing of nightmares, an incomprehensible apparition, crawled out of the darkness as though exuded by some unknowable pressure. Black wispy sheets billowed around its huge form, blown by an unfelt phantom wind, shrouding its form from casual inspection. Although Ali was certain she didn’t want to see what lay concealed beneath. Dozens of spindly black segmented legs descended from the towering body, clicking as they walked. Her terrified gaze caught three floating eye-orbs lazily following above the hunched form of the monster, twisting this way and that, restlessly searching.
+
+D̷͙͝r̸̡͇̓͐ę̴̣̎a̵̬̬̫̓m̵̨̞̩̓̔͠ ̵̳̉Ẽ̶̟̇ä̵͓̌̊t̵̹̖̃͠é̸̼̗́͑ȓ̶͎̻̯̃͗ – Eldritch Horror – level ??? (Mind)
+
+She clenched her teeth, uncaring of the blood and pain flowing from where she had bitten her cheek, while her mind wailed silently in a lonely corner. She banished the notification as the scratching squeal threatened to take over her mind. Shadows flickered within, followed by waves of dizziness and confusion at the mere sight of the monster. Her eyes failed to grasp details, railed against impossible geometries, and forbidden knowledge.
+
+Whatever it was, it hunted her.
+
+She huddled down, squashing herself deeper into her hole, squeezing her eyes shut to block out the sheer pain of seeing the Dream Eater, fingers blocking her ears to blot out the mind-wrenching sound, and yet even now, she knew this was merely the spawn of an immense presence hovering somewhere out of sight behind her. A devourer of her dreams. An impossible being that sought to feed on her hopes, her very soul, wringing her dry and leaving only a desolate empty husk.
+
+You have gained Clarity.
+
+Ali’s racing heart steadied. Her senses settled.
+
+It was here, in the relative sanctuary of her obscured senses, that she felt the little trickle as her mana was slowly siphoned from her. It swirled around her, coalescing into a tiny gold and green ribbon that was being sucked away like a miniature vortex, spiraling outward and around the rock behind her. With desperate caution, terrified both of alerting the giant eldritch horror and of whatever she would find behind the boulder, she craned her neck around to see.
+
+Nestled there behind the rock, a rugged and sturdy stem with silvery leaves sprouted from a crack. Blooming from the top of the incongruous plant was a brilliant, seven-petaled flower of cool azure flame. It flickered and shimmered in the darkness, slowly growing brighter as it fed on her mana.
+
+Eternal Reverie – Phantom, Wildflower – level 203 (Mind)
+
+With hands trembling with desperate urgency, she reached behind the boulder and grasped the stem, triggering her deconstruction. Whatever this thing was, it was sucking her dry while she hid from the horror searching for her from above. In seconds, the plant evaporated, and she frantically waved her hands through the motes of released mana, desperate to disperse them before she was found.
+
+Her mind shuddered from the sudden influx of knowledge and traited mana, and then a second surge, far more intense as Sage of Learning reacted, left her blinking spots away while she struggled with a sudden-onset headache.
+
+What… was that?
+
+Her skills rarely reacted so strongly, and to just a tiny plant, one that reminded her of the Mana Eater in the Blooming Rot dungeon. The clicking sound of spindly legs and the swishing of veils of darkness brought her mind rapidly back to the present, and she cowered within her hiding spot, fervently wishing to be invisible.
+
+***
+
+Ali crawled out from under her rock after verifying for the hundredth time that the enormous eldritch horror was nowhere to be found. How long it had taken for the monster to give up its search, she could not say, but her legs were cramping.
+
+Still, her experience with the flower bore down heavily on her mind.
+
+Somehow, she couldn’t shake the idea that it was important, although how a mana leech could be valuable in this situation entirely escaped her.
+
+Doesn’t matter, I need to get out of here somehow, she thought, willing her legs to move, and her mind to ignore the disgusting, bloody mud she was trudging through. But she kept her mind focused on her mana sight, searching for any signs of more of the azure-fire flowers.
+
+It took almost ten minutes before she once again felt the drain and saw the thin spiraling vortex of her mana being drawn off by a well-hidden flower. But when she crouched down beside the rock, she found not one, but three plants. Carefully, she deconstructed one of them, again feeling the surge of strange knowledge slamming into her mind, leaving her gasping, right on the cusp of understanding. She had no idea what the flowers were trying to tell her, or more accurately, what her Sage of Learning was trying to unravel, but now she had to know.
+
+She deconstructed another.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Variant: Eternal Reverie added to Imprint: Wildflower.
+
+Knowledge flowed into her as her magic unraveled the puzzle, encoding the runic imprint into her Grimoire. A brilliant, glowing Grimoire that Ali instantly jumped on, desperately trying to cover it with her body. Lying there in the bloody dirt, Sage of Learning finally connected the pieces. Carefully, Ali flipped back a few pages, studying the runes, and, to her amazement, she finally found understanding blooming within her mind.
+
+It’s not a mana leech.
+
+She watched, curiously, as the final flower slowly drew mana from her. The cold, azure flames of its petals grew brighter and brighter, and then, to her surprise, it stopped. In the center of the flower, a small drop of nectar glistened.
+
+She almost ate it right then, knowing what it most likely would do, but her better sense stopped her.
+
+The others, she thought. Carefully, she plucked the flower from the plant, holding it gently in her hand, and then rushed out, searching for more. While she could make them, she knew her summoning magic wouldn’t function properly in this strange place – about half of her skills had failed. If her suspicions about this place proved correct, she knew exactly why – and besides, it didn’t take very long before she had three more flowers in her hands.
+
+With a slightly trembling finger, she reached out and captured the tiny droplet of nectar and placed it on her tongue.
+
+An explosion of pure sweet nectar burst in her mouth, a taste that recalled the purest of ringing bells and the freshest spring breezes.
+
+You have gained Eternal ReverieYou feel grounded in the present moment, an unshakeable connection to now.You are immune to nightmares.You have greatly increased resistance to mind-altering magic. Magic – Duration: 5 minutes.
+
+Instantly, the blasted landscape, the rocks, the bloody ground, and even the dark mist all shimmered, fading away in a second, and she found herself sprawled on the cold stone terraced steps of the amphitheater beside a discarded water bottle.
+
+Standing over her, Mato raged, flecks of white foam falling from his mouth as his claws lashed through dozens of Parasitic Nightmares. Several writhing masses dug their tentacles into his back while Malika and Calen fought furiously beside him.
+
+Ali glanced about, seeing many more floating eye orbs drifting about above, but when her eyes found the Well Guardian, Baaoht Yll’shuum, she suddenly found she could see him. Identify no longer felt like jagged shards scraping through her brain. And her mind did not break.
+
+“Malika, Calen! Eat this!” she shouted, holding out a glowing azure flower to each of them. “And then help me feed one to Mato.”
+
+They would have five minutes, and they needed to kill this monster within that window. Quickly, she began deconstructing the mounds of corpses strewn about her, replenishing her mana and channeling it right back into her monsters using Empowered Summoner.
+
+Time to fight for real!
+
+Calen had no idea how Ali had done it. But as usual, the tiny Fae’s contribution had sparked a titanic shift in the course of the battle.
+
+The little droplet of azure nectar had tasted divine, a blissfully sweet, tingling drop of pure clarity. And now, he could look at the boss without fear. He unleashed volley after volley of arrows as he returned to Cinderstrike and his task of eliminating all the creepy eyes of Baaoht Yll’shuum.
+
+Explosive shots filled the air with blasts of light and fire intense enough to rival even the storm of lightning continually blasting down upon them from the Dark Souls floating overhead, while the second volley dragged the remaining eyes to the ground, tethered by glowing chains of light, where they were ripped to shreds by Ali’s minions.
+
+Shooting his eyes definitely screws up his aim, Calen thought as the last eye popped under the heavy stomp of the berserker troll’s giant foot. The tentacles lashing out from the main body of the boss flailed wildly, no longer striking with their former devastating accuracy. Still just as powerful though, he thought, dodging a stray attack that pulverized stone nearby. Let’s do this!
+
+With the remaining eyes destroyed, Calen spread his motes of light throughout the dark amphitheater to better see the nauseating, mind-warping shifts and shimmers as the boss twisted and writhed from the well. As soon as his light reached all Ali’s minions, he burned Righteous Fury, turning his arrows upon the never-ending spawn of Dark Souls, and with every single volley of arrows he made certain that at least two or three struck the boss, taking full advantage of Malika’s ludicrous accuracy curse.
+
+Malika’s fists flickered in the dark amphitheater, thudding as they slammed into the resilient, leathery undead flesh of the eldritch monstrosity. She barely had enough strength to do any physical damage to it, but her Soul Magic was an entirely different story.
+
+The flickering blasts of Soul Strike burned deeply into the eldritch trunk as she dodged toxic patches of poison and wildly flailing tentacles that desperately strove to dislodge her. Flames of soul magic flickered hungrily, spreading across its skin – lingering Soul Burn damage that was her gift from Zor’kan. Within its body, her Soul Mark curse stacked close to a hundred deep as her attacks accelerated and the hulking monster failed to reliably block them, thanks no doubt to Calen’s diligence in blinding it, and Ali taking care of the parasites.
+
+And the mind-warping nonsense, she thought. Whatever that nectar stuff was, it certainly worked. Here was a creature that had relied on its mind-magic defenses so much, it had failed to invest in the dexterity it needed to dodge.
+
+Eagerly, she pushed more stamina into her body, accelerating herself yet again. Her muscles began to sing, and the steady blue-white radiance began to illuminate the dark stone and eldritch flesh as her magic made her glow.
+
+Now let’s see if I can break a hundred. Soul Mark was already making her Soul Strike vastly stronger, and she could see Ali’s witch doctors taking advantage of it with the occasional beam of Soul Drain whenever he could spare the time. Still, it was the accuracy boost that likely added the most to their offense. Every massive strike of Tol’brekk’s twin greataxes, every swing of the holy avengers, and every spell and strike that landed upon the eldritch monster had been made vastly more accurate by her simply maintaining her curse and stacking it higher and higher as her magic accelerated.
+
+Soul Mark+5% Soul damage taken.+7% to accuracy of all attacks targeting you.Curse – Duration: 30 seconds.
+
+Malika grinned, feeding even more stamina to Divine Step as her body accelerated.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

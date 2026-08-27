@@ -1,0 +1,189 @@
+---
+id: e5898dc5-38b1-5e9a-a64e-6753e1687a35
+page-type-slug: story-chapter-royal-road
+title: "53 - The Shackled Giant"
+slug: 0053-53-the-shackled-giant
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 53
+ownLength: 1647
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3572630/53-the-shackled-giant"
+royalRoadId: "3572630"
+---
+
+Everything was a blur.
+
+Spells of every kind shot through the sky. Meriel and I weren’t the only mages in this battle. Far from it.
+
+The allied warships attacked the monsters—some in groups, while others in isolation. Several charged into the horde of monsters directly, while others stayed behind, sending cannon shots rippling through the air.
+
+The knights on board flew off and attacked with swords and spears. The mages stayed on the ship, casting both supportive and offensive spells. It was just as Meriel had said when she was teaching Reina and me back at the inverted city. For a mage to be efficient in battle, they should cycle between supporting their allies and sending out attacks of their own.
+
+Tuna flew through the enemies, chomping them off several at a time. Whether they were Porcelain Harpies, Halo Hounds, or gargoyles, it didn’t matter. None of them were given mercy by the fastest flying whale in the entire world.
+
+Reina and Talon sent out attacks while standing on top of her. Several allies backed them up, whether it was flying knights meeting the enemies with their blades or mages casting supportive magic.
+
+Meriel and I rode Aeris as she took down every monster in front of us with her fire breath. With how many allies there were in her path, I could tell she was holding back much of her attack since she didn’t want to accidentally hurt them.
+
+“They’re over there,” Meriel pointed.
+
+I looked.
+
+Kaelor was facing Aurelius directly.
+
+They clashed through the sky so quickly that my eyes could barely keep up. All I could see were faint lights every time Kaelor’s dagger deflected Aurelius’s rings. One second, they were on top of the entire battle. Next, they were below everybody. Their movements were impossible to predict. Among all the flying monsters, knights, mages, and warships, these two were the fastest.
+
+It wasn’t even close.
+
+“Go, Aeris!” I shouted. “We need to help him!”
+
+But we couldn’t. Everybody was facing their own battles, including us.
+
+Flying stone angels ambushed us from below, their spears threatening to pierce through Aeris’s underbelly. She reacted quickly, twisting around and giving Meriel and me an opening to retaliate.
+
+We shot them down with our spells. A few slipped through, but Aeris handled them with her jaw, crushing their stone bodies.
+
+“We’ll lose at this rate,” Aeris said.
+
+“What makes you say that?” Meriel asked.
+
+“Because their numbers are endless. It only looks like we’re doing fine right now because of how coordinated our allies are, but everyone is becoming exhausted. Even if we defeat this current wave of monsters, there’s more to come.”
+
+“I see,” Meriel said. “Wait, how am I able to understand you in your dragon form anyway?”
+
+She sat just behind me.
+
+“Because part of your body is touching the Dragonrider’s Saddle,” I said. “It lets the rider understand the dragon.”
+
+“Interesting. Normally, I’d ask how you suddenly pulled out such a useful saddle from your [INVENTORY], but I suppose now isn’t the right time. You always have all sorts of weird and oddly useful items in that void rift of yours. Where do you even get them?”
+
+I let out a soft laugh. “Oh, you know… I like to keep things a secret.”
+
+“Even from your own friends?”
+
+I shrugged. Sorry Meriel, but even I can’t predict what the System would give me next.
+
+Compared to all the others, Aeris flew at the highest height. It was a good strategy, considering now we only had to worry about enemies coming from below us rather than above us.
+
+“We should go back to the dungeon gate,” Aeris suggested. “We have to close it.”
+
+“Close it?” I said. “It’s still open?”
+
+Meriel and I looked far past the horde of monsters. The gate was so far away that we could barely make out its shape. Neither of us could even tell that it was open, but considering Aeris was a dragon, she must have had significantly better vision than a human and an elf.
+
+“Go for it,” Meriel said.
+
+Just then, a warship flew beside us with several warriors on board, dressed differently from our other allies. Several griffins stood across the deck.
+
+They were Kaelor’s troops.
+
+“By the gods, your dragon looks even bigger up close!” one of them yelled. From the look of his golden-tinged helmet, he was likely their captain.
+
+“We actually tamed her just a moment ago,” I said. “She came from that dungeon up ahead.”
+
+The man raised his brows. “Just a moment ago? And how did you do that?”
+
+“I made her fall in love with me.”
+
+They all looked at me, speechless. What else could I have said? It was the truth.
+
+“Anyways,” the man continued, scratching his head, “it looks like the three of you have the same plan as us. We should probably head down there and close the gate. They’ll overwhelm us all at the rate that they’re pouring out those doors.”
+
+I turned to Meriel. “How are the gates still open? I thought it would close since all the participants have left the dungeon.”
+
+“That’s what should’ve happened, but I’m not too surprised at this point. The dungeon rules aren’t reliable anymore, considering the dungeon warden himself had already escaped it. Things are too abnormal to expect normalcy. I suspect that this may be a defect.”
+
+“A defect?” I asked. “As in, the archmage who created the dungeon made a mistake?”
+
+“That’s possible. At the same time, Aurelius completely broke the normal rules by stealing another person’s body to leave the dungeon, so I’m not too sure what the truth is anymore.”
+
+The captain of the ship sounded a horn, which had a distinctly different sound from Whale Isle’s horns. Unfortunately, that caught the attention of several monsters. They charged at us, forcing us to defend. But Kaelor’s warriors were fast. They reacted quicker than Meriel and me, shooting through the air and slicing through the monsters in seconds.
+
+Their fighting style was different from the people of Whale Isles. They were more aggressive and more willing to take hits, since it meant finishing off the enemy faster. I wasn’t sure if that was a smart way of fighting, but with the healers on their ship constantly taking care of their wounds, it seemed like the right move for now.
+
+Moments later, several more ships arrived. The captain must’ve called for backup by sounding that horn.
+
+The captain then raised a clenched fist, and the warriors on the other ships did the same.
+
+“We’re all ready to go,” he said, turning to us. “Are you?”
+
+Meriel and I nodded.
+
+“Aeris?” I asked.
+
+“I’m always ready for you, my love.”
+
+“Please don’t talk like that while you’re in dragon form.”
+
+“Does that mean you’re okay with it in my human form?”
+
+“Uh… no?”
+
+The captain pointed toward the gate, far across the sky. With all the monsters pouring out of it, we were about to go head-on toward one of the most dangerous sections of this battle.
+
+All the warriors on the ships carried the same expression, despite this dire situation. Expressions of determination.
+
+Was it truthful, or were they just trained to act this way, even in the face of war?
+
+I don’t think it matters. Their resolve alone was enough to give me the courage to push through.
+
+“We got this,” I said.
+
+The captain yelled at the top of his lungs.
+
+“CHARGE!”
+
+Aeris and the ships shot forward, leaving the main battle behind. But that didn’t mean the path was entirely clear. The monsters were everywhere.
+
+“Take formation!” the captain yelled. “Dragon, go ahead of us! We’ll need you to help us push through!”
+
+She did just that. Aeris flew ahead, breathing heavy flames at all the monsters before us. That attack killed most of them, but the stone angels and gargoyles were mostly immune to fire. Meriel and I were forced to handle them with our wind spells.
+
+“This…” Meriel muttered, looking at her staff. “Is our mana shared with Aeris?”
+
+“It is,” I said. “The saddle’s one useful thing, huh?”
+
+Meriel and I continued to take care of all the monsters that Aeris couldn’t catch, while Kaelor’s troops took care of the ones that we couldn’t. We kept that same rhythmic battle, getting closer to the dungeon gate with each second.
+
+But then something strange happened.
+
+The monsters stopped coming out of the portal.
+
+The captain screamed for us to halt.
+
+“It’s here,” Aeris said. “I had a feeling this would happen.”
+
+The dungeon gate was fully visible now. The monsters didn’t stop coming out of the portal because there were no more of them. It was because something was blocking them. Something far worse than any monster we’ve seen before.
+
+A giant forced its body out of the gate, barely fitting through. It wasn’t the same giant I was used to seeing. Its flesh was ghoul-like, and its eyes glowed red as bones stuck out of its shackled hands.
+
+It was the same size as Aeris. The same size as a dragon.
+
+But the giant couldn’t escape the gate. It stayed there, bound by chains.
+
+Countless chains not only surrounded its body, but they were also embedded deep into its flesh, disappearing beneath its skin. Every movement caused them to rattle loudly.
+
+“What is that…?” Meriel muttered.
+
+“This doesn’t look like any ordinary giant,” the captain said.
+
+The griffins on all the ships growled at the sight.
+
+I cast [INSPECT].
+
+[BOSS: CHAINBOUND GIANT]
+
+Level: 187
+
+HP: 100%
+
+Description:
+
+A giant shackled for eternity. Its origin is unknown.
+
+Assessment:
+
+You must defeat it to close the dungeon gate. Nearby monsters may coordinate attacks with it, making the threat far more substantial than if it were alone.
+
+“This,” Aeris said, “is one of Aurelius’s experiments. A body with two souls within.”

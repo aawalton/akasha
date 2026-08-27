@@ -1,0 +1,213 @@
+---
+id: a8346e2a-7598-5e9f-952c-973c728a70c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: The Old Wonders"
+slug: 0080-chapter-65-the-old-wonders
+partOf: ends-of-magic
+position: 80
+ownLength: 2712
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3169036/chapter-65-the-old-wonders"
+royalRoadId: "3169036"
+---
+
+Mirus swore. “Aetherwalking? That’s a trick and a half.” She rounded on Stella the moment she appeared. “Where did you learn that?”
+
+“Mirus, it’s your speech,” Colborn reminded her. Then he glanced towards Stella. “Where did you learn that?”
+
+Stella rolled her eyes. “Nathan can pull on the Aether to generate physical force. Khachi summons solid constructs from it regularly. It’s not hard to guess that the aether should be able to hold material, and thus a person. I just shifted the… frequency of my body into that of wizardry. Then I held my breath.” Then she blinked and put a hand to her mouth, suddenly looking a bit sick.
+
+Mirus looked as if she were about to lecture Stella. Instead, she vanished with a pop to appear on the stage. She took a deep breath and chuckled to herself before ascending towards the speaking platform.
+
+“What Mirus was about to say is that aetherwalking is baiting the dragon,” Ushia said, leaning down from where she was sitting a row behind them. “It divorces you from the physical, but it transforms you into wizardry, which is inherently less stable. Any effect that distorts wizardry will scramble your body. It will also happen naturally if your control is less than perfect, which is why you feel sick. Khachi?”
+
+The wolfman nodded and raised a hand towards Stella, intoning a quick prayer. “These wounds were taken in glorious combat, defeating a loathsome opponent. By my blessing, they are undone.”
+
+Golden light washed out and coated Stella from head to toe, sinking into her in an instant. She shook her head and swallowed. “Thanks, I hadn’t realized it didn't work perfectly. It's good that I didn't use wizardry in the nuke. But it was a good trick!”
+
+“It was a good trick,” Nathan replied. “But it won’t work against most magic we’ll be facing. Or even most weapons.” He shut up then, as Mirus cleared her throat up on stage.
+
+The bald wizard had ascended the stage with none of Odrin’s flourish. Her robe was silver, threaded with intricate designs that looked scholarly and arcane rather than gaudy. She spoke with clear enunciation, conveying the impression of someone precise in all things. “I am Mirus. One of my titles is Wizard of the Silver Tower of Kalis.”
+
+She smiled faintly, without warmth. “Not all here remember Kalis, though you all have likely dealt with some aspect of its legacy. It is not arrogance to claim it was the greatest empire Davrar has ever seen, beyond Quaz or any of the ancient dragondoms. But we did not found Kalis on conquest. It was an empire organized around a single central principle." The Questor spread her hands, her staff floating on its own to allow for easy hand gestures. “We spread Insights freely. We made the great secrets of magic cheap and easily learned. We put wizardry into mortal hands as a common tool. And what wonders the mortals produced.”
+
+Her eyes were distant, gazing into ancient memory. “We achieved miracles beyond the gods. Infrastructure that bridged the oceans, potions that annihilated plague, cities that glittered with bound storms. Weapons to defeat the Endings.” Her voice transitioned from wistful to sad. “But such magical knowledge also brought catastrophe. Self-replicating constructs, city-destroying enchantments. The doomsday spells.”
+
+Mirus started pacing, her expression troubled. “The elders remember the first arcane blight. Born from mortal Insight without restraint, from a clever mind hacking the Seals to achieve power to challenge Davrar itself. It forced a Conclave and limits on what Insights could be taught, what powers could be placed into mortal hands.” She touched her chest lightly. “I was there for every part of this journey, from bold idealism and the founding of the towers, all the way to the terrible realization of what we had loosed upon Davrar. I argued then to bar that gate, to ban sharing certain Insights with mortals. A decision that limits us all even now.”
+
+She stopped and faced the room squarely. “When I hear this proposal, to halt the Endings and make a grander Davrar, I do not hear mercy.” Her eyes flicked towards Nathan and the Heirs. “It will create wonders. If we make Davrar less eager to erase mortals, they will fill that space. They will build and trade and grow strange in ways we have forgotten how to be. They will solve problems big and small with methods stupid, familiar, and strange.”
+
+Her lips curled into the semblance of amusement. “It will also create terrors. It would be dishonest to promise otherwise. Stability changes the risk but does not remove it. Mortal civilizations allowed to persist will accumulate knowledge. That knowledge will beget power, and accumulate consequences.”
+
+She lifted a hand, palm outwards, as if to forestall objections. “But it will not be Kalis returned. Kalis was a place with Questors at the helm, uplifting mortals and guiding them to greatness. We were the source of knowledge, we were the teachers and rulers. We chose the lessons and taught our own paths to power, that the mortals might survive the Endings through their own efforts. Thus, the tools of destruction created to forestall Endings were turned on other targets." She jabbed with her finger, enunciating a point. "But this proposal will remove the pressure of the Endings.”
+
+She glanced at the Heirs. “When the Mortals carve their own spaces from Davrar, they will create things we cannot imagine. Not because they are wiser, but because we are old, and our patterns are laid in our systems. Mortals do not have that curse and blessing. The old restrictions still apply. They will forge their own paths to power and will compete only against one another, not against the crushing weight of the Endings. Our challenge as Questors will be to guide them in creating a stable structure, not in gaining enough power to survive the next Ending."
+
+Mirus hesitated, then continued in a quieter voice. “Perhaps without that weight, we will be wiser than we were in the founding of Kalis. Perhaps, by optimizing for stability rather than power, we will create rich cultures that do not destroy themselves in their striving to resist the Endings. Perhaps the mortals will even surprise us. They cannot run from mistakes as a Questor can.”
+
+She shrugged, as if uncaring. “But this is Davrar, and we all came here to experience the novelty of billions of people living and dying their own lives. If we stop the Endings then the future becomes unknowable. But we can be certain that it will be new, and it will be interesting.”
+
+With that, she descended from the stage, and Nathan frowned. The speech had been… fine? It hadn’t really been the strident argument he’d expected. “Was that supposed to convince Kamus?” he asked.
+
+“And those of a similar mind,” Sarya said agreeably. “There are many Questors who will only vote if they believe it benefits them personally, and many of those are bored with Davrar as it is. They would vote for change if they believe it will provide them with greater novelty.”
+
+“Our true purpose was for Mirus to draw out the speedsters,” Colborn added, gesturing to where she was taking up position for the first duel. “The only way to defeat her is to prevent her from casting her first spells. Or with another mage of equivalent level, but those are few.”
+
+The first challenger appeared opposite Mirus. It was a mage in a full-body robe shiny enough to be a mirror. They took a ready stance, holding a wand up near their covered face. Colborn saw the opponent and snorted. “This will be short.”
+
+When the duel started, Mirus threw out three pieces of wizardry, visible as little more than distortions of the air. They curved towards the other Questor and reflected off a sudden pane of mirrored light. The spells sought Mirus as they’d sought their original opponent, but she waited until they were nearly upon her and slashed them apart with a flick of her fingers.
+
+Her opponent seemed to be waiting for her to attack again. She didn’t accommodate their wish, instead continuing to cast magic that seemed to accomplish very little. Nathan squinted, trying to understand what was happening. Without his magical senses, he felt half-blind. It looked a bit like what she’d done on the battlefield, in creating an area where magic was under her personal control.
+
+The other Questor got impatient and cast an empowered disintegrate spell towards her. The thick bar of colorless mana died out a third of the way between them, as if it had been trying to eat its way through solid stone instead of air.
+
+Then Mirus finished whatever she’d been working on, and the mana inside the sphere flickered as it all aligned under her will. She tossed a simple fireball towards the other Questor. They snarled and tried to cast the mirror spell again. It failed, and they tried again. Then they summoned a simple shield of force, which fell apart as soon as it was cast. Then the fireball detonated against their chest, blasting their body into pieces.
+
+“Giving Mirus time to set the battlefield is a fool’s course,” Vesh said in satisfaction, and a bit of pride for his friend’s prowess. “But that fight was beyond most of the audience. She should ensure the next fight truly demonstrates her mastery.”
+
+The next challenger was a man with a gigantic cannon of some kind that was inside a dimensional space. The instant the duel started, he fired it at her. The shot moved too fast to see. Whatever the projectile was, it was grabbed in a space-warping enchantment and shunted off to the side, where it detonated with all the impact of a mouse fart.
+
+Mirus flicked out more bands of space-distorting wizardry, taking control of the space between the two Questors. Her opponent fired more shots with various effects. But Mirus controlled the space between them. She angled the first shot off to the side at a right angle, then shifted the second to fly right back at her opponent.
+
+It ripped off his legs and sent him spinning away. Nathan thought the duel would end right there, but the Questor managed to stabilize and stem the bleeding with a potion. He pulled out a diamond-shaped magical item and held it aloft, gritting his teeth in anticipation.
+
+Instead of interfering with it in any way, Mirus simply wrapped the enemy Questor in a shell of hardened space. When the bomb went off, it incinerated the man who held it and achieved absolutely nothing else. It was obvious that Mirus was toying with her opponents, and the audience let their displeasure be known with a hearty round of booing.
+
+“Is that aimed at Mirus or towards the fact that her enemies are so dim?” Sarah asked.
+
+“Both,” Colborn answered grumpily. “She understands. She’ll annihilate the last challenger quickly and with a flash.”
+
+The figure that next appeared opposite Mirus seemed to be a giant statue, not a Questor. It was a giant, armored figure, at least thirty feet tall.
+
+“That will be hard to defeat quickly,” Nathan said.
+
+Vesh just snorted in amusement. "Watch."
+
+The fight started, and the figure drew a sword, a massive plank of sharpened metal as tall as they were. Then they launched themselves across the battlefield, as if launched from a catapult.
+
+Mirus responded with a disintegration spell. And then another one. And another. The destructive beams of magic flashed from her hands, her eyes, her staff, quick as a machine gun and significantly more destructive. All of them aimed at the giant figure's center mass. The armor was thick and heavily enchanted, but the spells ate through it like fire through paper. A final disintegrate spell revealed a Questor buried inside the torso of the magical mecha and annihilated him at the same time.
+
+With the torso disintegrated, the four limbs and head disconnected from one another and clattered to the floor of the arena in an avalanche of metal. Mirus dramatically dusted off her hands, her staff staying upright as she did so.
+
+Then she teleported back next to the Heirs, the satisfied expression of victory quickly transitioning to a frustrated expression. “No speedsters. They’re holding to their strategy.”
+
+“We have more opportunities,” Colborn said placatingly, though his voice carried a worried tone. “And if they refuse to use the appropriate counter, then we can press the advantage.” He quickly turned back to coordinating strategy.
+
+The next few challenges passed in a blur for Nathan, as various Questors made arguments for and against the very idea of getting rid of the Endings. Colborn vanished at some point, off to meet with various interested parties about the details of their proposals. Kaelis and Sarya took over his responsibilities in coordinating the public speeches and duels. Their side won most of their fights, with Questors like Vesh, Slick, Brox, Ushia, Phryne, and Mirus serving as ringers who could reliably dominate the fights against almost any opponent. It wasn’t that the other side lacked those powers. They just weren’t putting them up, even in easy fights where it should have been a straightforward win. Granted, some of those fights were traps, with unknown Questors who fought with only part of their powerset to try to lure out specific opponents and take them out.
+
+Watching it made Nathan uncomfortable, since it was a glance into the kinds of tactics that the Questors would use. They were winning victories, and each dead enemy was somebody who couldn't take part in the Conclave anymore. But the Heirs had giant targets painted on their backs, and he knew that their enemies would go to extreme lengths to take the same kind of shots with significantly greater rewards.
+
+The crowd also showed signs of boredom, slowly trickling out over the course of a few hours. The proposals grew more detailed as Colborn progressed in his talks, with some reasonable suggestions for introducing new mechanics without the Endings. But it wasn’t enough to stop the jeering as the Heirs failed to take the stage, and multiple Questors called out towards them, pointing towards the center of the arena.
+
+“They want to see one of us fight again,” Nathan commented after one particularly long duel where two armored swordfighters beat on each other for the better part of fifteen minutes before one had managed to find the chink in another’s armor. “Bloodthirsty, but I worry that we’re losing their attention. Should one of us challenge their next fighter?”
+
+“No,” Khachi answered, before Sarya had a chance to respond. “I will speak. It is time for me to challenge them to face the light of justice.”
+
+Nathan wanted to object, and it looked like the rest of the Heirs were right there along with him. One of them speaking like this was the most dangerous thing they could do, since it meant the other side would be able to pick the ideal opponents. This is what everybody had been waiting for.
+
+But they’d decided that Khachi would be well-suited to go first. It didn’t make sense to change the plan at this late hour just because the rest of them were worried.
+
+Sarya nodded jerkily, showing her own nerves. “If it is your desire.”
+
+“It is,” the wolfman replied with an ironclad calm.
+
+Permanent Talent 1: Magical Destruction 7
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 6
+
+Forewarning 10
+
+The Truth of Magic 7
+
+Evasion 5
+
+Wizard’s Palace 6
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

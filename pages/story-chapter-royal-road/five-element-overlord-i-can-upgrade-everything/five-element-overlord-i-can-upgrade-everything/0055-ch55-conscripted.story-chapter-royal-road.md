@@ -1,0 +1,149 @@
+---
+id: 1dc8e766-2f85-520a-b010-9479cde12887
+page-type-slug: story-chapter-royal-road
+title: "Ch55 Conscripted"
+slug: 0055-ch55-conscripted
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 55
+ownLength: 1946
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3401466/ch55-conscripted"
+royalRoadId: "3401466"
+---
+
+Over the next day of training, accepting random cave checks, and collecting wood from servants; the reality that a visit back to the Red Pine Market is not happening anytime soon sinks in even more.
+
+My qi cultivation is completely stagnated, and soon my physique’s progress may be too.
+
+I ask around to some of the stewards I recognize the next morning during normal breakfast hours as the sun rises, but not a single one of them has Martial Root Pills in these isolated quarters.
+
+After this failure, I walk back to my cave and take out one of the remaining dark brown, sour-smelling inferior pills. I cut it perfectly in half, separating it into two parts on the cave floor a few meters away from each other.
+
+These upgrade cards have been used on some of the worst burnt and cracked inferior-quality Qi Gathering Pills before. Some of them even had large fragments of the full pill missing. They were still brought to pristine Heavenly Grade pills. So, separately upgrading two fragmented parts of a whole could potentially solve my pill shortage problem entirely.
+
+I take a bronze card and tap it against the closest half pill.
+
+However, the moment I mentally select it to upgrade, I instinctively feel a problem. The entire Martial Root Pill is selected for upgrade in my sea of consciousness. It appears as a round sphere with a slit down its center, as though it is just a single broken pill.
+
+A white flash of light glows in front of my face, but a simultaneous burst occurs on the far side of the room.
+
+When the flash fades, both halves of the inferior pill are gone, and a single Heavenly Grade pill sits on the cave floor below me.
+
+“It was worth a try...” I murmur, then upgrade three more in a normal fashion, getting on with my day of training.
+
+–
+
+By nightfall, eight Heavenly Grade Martial Root Pills in total have been consumed since my Martial Warrior breakthrough. I diligently practice these new movements, but they’re going to take much longer to fully master.
+
+A loud, unfamiliar echoing voice breaks me out of concentration at an unexpected hour..
+
+“This is an emergency transmission to all stewards! I repeat! This is an emergency transmission-”
+
+It is the middle of the night, long past the normal hours when most stewards would be getting back from their collection routes.
+
+“Line up in front of the dining hall, stewards! This is not a drill!”
+
+The unrecognizable voice echoes through the cave walls again.
+
+Even Little Red’s lazy eyes open up, and he jumps off the mat at the back of the room to land on my shoulder.
+
+I put away all of my unnecessary items in my storage and walk outside to join the lines of dozens of other stewards moving toward the wide open clearing in front of the dining hall.
+
+I’m a little irritated about being so abruptly interrupted, and still not over the problem with my pill supply. However, a break in routine like this means there could be opportunity.
+
+An enormous black flying vessel hovers above the quarters, partially blocking out the light of the moon. Surrounding it, at least fifty other smaller eight- to ten-meter-long vessels hover as well. Three of the smaller vessels float downward, and the rest leave, following the massive ship to make their way further south along the western border of the sect.
+
+The aura of three late stage qi refiners flows into the steward quarters, spreading their spiritual senses into the crowds.
+
+One of them yells out, the same voice that woke many of us from our slumber.
+
+“This is an emergency recruitment call. The North West border of the Azure Cloud Sect has been breached by Demonic Cultivators. All of the Outer Sect disciples and stewards of the Alchemy Peak, Forging Peak, Beast Mastery Peak, and Combat Peak along the Western border are required to enlist.”
+
+The crowd of stewards I stand within starts to panic.
+
+“What do you mean demonic cultivators have breached the sect?”
+
+“This is a death mission, how do you expect me, a level 1 qi refiner, to fight against demons?”
+
+“Is this all we are to the Azure Cloud Sect? Fodder to be disposed of at will? We do not even get the official recognition as a sect disciple, but we have to fight their battles?”
+
+The crowd yells out in anger, but below this facade I only sense fear.
+
+It appears that this is not a common occurrence…
+
+Even the older stewards look afraid and confused, like they have never heard of such a thing in their many decades working here.
+
+I stay silent and watch the vessel where the voice came from descend all the way to the ground. When the green-robed cultivator steps out onto the grass, the entire crowd of 52 stewards present goes silent.
+
+He has dark skin that almost blends in with the night, a shiny bald head, and sharp eyes like a soldier.
+
+“I will be selecting a handful of essential stewards to stay behind, as they will oversee the servants left in the camps. Only level 1s with no combat ability, please step forward.”
+
+Two loud thuds follow as the other vessels hit the ground. Two more late stage qi refiners step out and stay silent.
+
+Over a dozen level 1 stewards move forward to be scrutinized by the leader, but only five are selected to stay back. Each of them holds a new storage bag, their faces now showing relief.
+
+“The rest of you, line up. You’ll be assigned to follow under one of the three squad captains present. Receive your orders and be ready to leave before sunset. You have six hours to settle your affairs with your servants.”
+
+A line forms, but it is chaotic. Each vessel has three mid stage qi refiners present, watching over to make sure everything moves smoothly.
+
+One of the selected stewards that will stay behind hands me a familiar-looking temporary token, booklet, and storage pouch to hand off labor duties to a servant. Then, another hands me a black token with a raised [Squad 414] on it.
+
+My attention moves to the same number printed on the collar of the dark-skinned late stage qi refiner’s robe.
+
+[Automatic Inspect Function Activated…][Bao Zhan] [Age: 39][7th Level Qi Refiner][Metal and Earth Spiritual Root][5th Grade][Acquired Black Iron Battle Physique][Mid Stage - Mortal Grade][No Innate Physique][He and many other outer sect disciples have been tasked by their elders to form emergency squads and defend the North Western Border. Knows that stepping into this battlefield is going to be a death sentence without a proper trained squad.]
+
+Even over twenty meters away, he turns his head to match my glance, like he’s felt my gaze.
+
+The dark focused eyes of this squad captain shift to Little Red, then up and down me head to toe.
+
+“A Martial Warrior, huh? Interesting...” he mutters under his breath and looks away to scan other stewards.
+
+I quickly leave down the dirt path toward my servants and feel the eyes of the mid and late stage qi refiners on my back as I do. A flood of stewards march out into the night to hand over their duties to servants.
+
+Once I’m sure I’m not being watched, I start to move a few more items from my storage into this pouch, including a full vial of low-quality qi gathering pills and a few dozen spirit stones.
+
+From the serious and unique nature of this situation, it appears this is not going to be a quick journey. The lockdowns over the last few weeks have only gotten more and more intense. The amount of disciples searching the Ravine dwindled to zero, and now I know where they must have gone.
+
+They’ve been sent off to war.
+
+The sect is not just using the massive number of stewards as merely fodder, we’re being used as a last resort for man power…
+
+In the middle of the night, I drop off the items to Wei Ping and explain the situation.
+
+He wakes up in a daze, but his eyes are filled with genuine fear and worry for me as I walk away.
+
+Instead of immediately walking back to the steward quarters, I pull out my concealment cloak and slip away into the darkness.
+
+The detour to the Ravine used to take me a few hours to walk or even run there and back, but with the full power of the 4th level of qi refinement and another layer of an initial stage acquired physique powering my footsteps, I make it deep underground in under thirty minutes.
+
+I shift the settings on the Qi Gathering Concealment Array’s control disk and select a mode that I’ve been curious about since the first time I saw it.
+
+[Overstrain]
+
+A scroll wheel appears beneath it once I make the selection. There are options to overstrain it down to a high, medium, low, or inferior grade vein.
+
+I choose inferior, then watch the scroll wheel turn to a series of numbers ranging from hours, to days, to months, to years.
+
+The highest amount of profit can be squeezed out of a vein if left completely untouched. This perfect grade vein can produce 1,000 spirit stones per day indefinitely. Yet, the potential of this entity can be burned through for short-term profit.
+
+I choose the lowest setting, 1 hour, and feel the enormous crystalline floor beneath my feet ache and shudder. The storage compartments of the array flags all along the vein begin to tick upward rapidly before my eyes.
+
+Thousands of spirit stones are harvested with every passing minute. At the same time, the length and width of this spiritual vein begin to shrink too.
+
+The walls of the cave rumble and shift. In a matter of minutes, the vein falls below 750 meters, shifting its status to a high grade vein.
+
+In just half an hour, it falls below 500 meters, becoming a medium grade vein, then below 100 to become a low grade vein.
+
+Just as the array disk’s timer hits 1 hour, it falls below 10 meters and starts to only produce spirit fragments, categorizing it as an inferior grade spiritual vein.
+
+[Overstrain function complete.][216,755 Additional Spirit Stones have been collected and deposited into the designated array flags ready for your collection.]
+
+When I walk through the now empty wide open cave where the vein used to be, I collect every stone from the white jade flags, gaining over 220,000 stones, as there were still many left over, stored from the last few days of natural refinement. The cave walls give off an eerie echo, like a reminder of the spiritual entity that was once here.
+
+The concealment passive ability is lifted once the flags and stones are stored away. As I start to return to the surface I sense some of the artificially formed caves where the vein once was slowly shrink back, or collapse with rubble to seal with dirt and rock.
+
+There are still scars in the natural earth deep underground, but when I get to the surface and do another scan with my spiritual senses, little to no qi flows out of the cave. Even sitting directly on top of the vein would not be enough to maintain a level 1 qi refiner’s cultivation.
+
+A satisfied grin stays on my face as I quickly make my way back to the steward quarters. No matter what happens up in the North West Border now, even if I’m unable to return, I know that I’ve exploited everything I can from this Ravine.

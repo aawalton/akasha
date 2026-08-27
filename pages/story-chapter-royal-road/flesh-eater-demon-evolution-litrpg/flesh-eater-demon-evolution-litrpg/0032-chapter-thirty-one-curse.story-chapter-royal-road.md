@@ -1,0 +1,171 @@
+---
+id: 74ccbfae-a6b2-5bb9-991c-719e79759c85
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-One: Curse"
+slug: 0032-chapter-thirty-one-curse
+partOf: flesh-eater-demon-evolution-litrpg
+position: 32
+ownLength: 3016
+unit: words
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2692202/chapter-thirty-one-curse"
+royalRoadId: "2692202"
+---
+
+Another flash of lightning streaked across the sky above them; it was quickly followed by a clap of thunder. It really was a miracle that it hadn’t started raining yet.
+
+Pyre shifted her position so she was leaning against the mountain for support and not just randomly sprawled about. Unlike the chimera, who had bit off sections of flesh that left specific areas fucked up, her whole body felt softer in general. The lightning, it seemed, had caused all of her flesh to slowly start melting at around the same time. It wasn’t all the way there, but the early signs were present. Like a big fleshy block of butter softening in the sun.
+
+The demon decided to do the minimum amount of warping needed to get rid of the aftereffects of Tivona’s shapeshifting magic, then stay still and let [Regeneration] deal with the rest.
+
+She had a feeling that [Regeneration] wouldn’t do shit against whatever that mark was, though.
+
+“You got it just now?” Callan was asking. He hadn’t stopped staring at the mark since first noticing it, his ghostly head undoubtedly running through all the worst-case scenarios.
+
+“Yeah, in that last explosion.” Pyre attempted to ripple the flesh in that area, and she was able to with no issue. Hm, so it wasn’t locking her abilities or anything like that. She still felt the same—save for the general shittiness following all those lightning strikes and transmutation spells—but she wasn’t stupid enough to think it was mundane. Maybe it was the magical equivalent of a ticking time bomb.
+
+Her eyes drifted back over to the dark stain where Tivona had been, recalling the way the envy fiend had literally blown up. Actually, a “bomb” might not be that far off.
+
+“Stay still,” Callan instructed. Pyre raised an eyebrow and made a vague gesture to herself. It wasn’t like she could go anywhere right now. The ghost shook his head exasperatedly, but raised a palm and closed his eyes.
+
+A faint green light began to glow directly over the mark. Pyre couldn’t feel anything, but based on the way Callan’s forehead scrunched, he was probably detecting something with his magic. Finally, the light faded, and the ghost dropped his arm. His brows were still furrowed.
+
+“Well? Am I going to die?” the demon joked.
+
+The fact that Callan didn’t immediately roll his eyes was probably not a good sign.
+
+“It’s… It’s some kind of spell,” he murmured. The ghost shifted uncomfortably. “A curse.”
+
+“What does it actually do, though.”
+
+Callan frowned, gaze once again moving to the thinner branching lines spreading from the main mark. “I think—I read about spells like this a few years ago,” he began. “It acts like a sort of parasite. The mark itself doesn’t do anything. The mage casts it with their magic, then embeds it into a target. Since the spell’s been detached from the original caster, in order for the mark to sustain itself, it has to absorb ichor.”
+
+The pieces quickly clicked together. “And since ichor’s basically life force, it pretty much drains whatever unlucky fuck it’s on until they’re dead.”
+
+Callan nodded. The anxiety was clear on his face.
+
+Pyre digested the information, processing it in her mind. The fact that she didn’t feel anything yet probably meant it would take a while for the curse to fully drain her, but it certainly put a damper on things. Dying from something like this after getting reincarnated felt like a deeply stupid way to go out. Not during the battle, but afterwards—courtesy of a last-ditch “fuck you” spell.
+
+One of her eyes flitted to a bone she still had growing from the side of her torso. Its pointy end gleamed under the flashes of lightning.
+
+“Okay then. What if I just cut it off?” She was already readying to extend that bone, but Callan’s eyes widened.
+
+“What? No!” He surged forward in an attempt to stop her, only to flinch back when he passed straight through the demon. Pyre’s [Incorporeal Touch] subtrait only worked in one direction, it seemed. He shook his head and exhaled.
+
+“The mark is just where the spell happens to manifest on the surface,” Callan emphasized. “The curse itself is all throughout the body. If you slice the mark off, it’ll just regrow somewhere else.”
+
+Damn, there went that idea. She should’ve known it wouldn’t be that easy.
+
+Pyre slowly retracted the bone. “Okay, how do I get rid of it then?”
+
+Callan frowned. “Well, the caster can remove it—”
+
+“—but that’s obviously not happening, so what else?”
+
+The ghost squinted down at the mark. “Since the spell originated with the caster, if you can get a—a piece of them, ideally something with a lot of concentrated magic, it’s possible to bind the curse back to it since it should theoretically be more drawn to its original caster’s magical signature.” His gaze moved over to the stain on the ground where Tivona had once stood, and his shoulders slumped. “I don’t think that’s possible now, though.” He sounded genuinely frustrated.
+
+Pyre hummed thoughtfully. That explained why Tivona had specifically decided to blow herself up at the end there. She’d thought it was just a final attempt to take them down with her, and it probably was, but it looked like the main motive had been to make sure the curse was unremovable.
+
+Frankly, Pyre couldn’t help but respect that level of vindictiveness. The other demon’s memories were still floating around in her head, but she hadn’t really had a chance to process them yet. Between the notifications—also something she needed to deal with, after this curse stuff was sorted—and the parasitic death-causing spell she’d just been hit with, she had to tackle things one at a time. Still, Pyre found she didn’t actually begrudge Tivona for the curse. It was a shit deal for her, but she understood why the other demon had done it. She didn’t see the point in holding a grudge now when the envy fiend was already dead.
+
+Meanwhile, Callan had stopped hover-pacing at some point. Instead, he had a contemplative expression. “You know,” he began, his face scrunching like he’d just eaten a sour lemon, “there might be another way to get rid of it.”
+
+Pyre raised an eyebrow, silently gesturing for him to continue. The ghost somehow managed to look even more unhappy about this idea than he already was, but he opened his mouth to finish his thought.
+
+“I’d rather not if we can avoid it, but we could call—”
+
+“—a crossroads demon?”
+
+Callan yelped and jolted back. Pyre’s eyes snapped to the side.
+
+There, standing in front of the tunnel they’d exited earlier, was a familiar demon with short, uneven white hair and unsettlingly pale eyes.
+
+Pax smiled. She waved a gloved hand at them before stepping closer at a casual pace, her long earrings dangling with the movement. She looked simultaneously at home against the overcast, monochrome landscape, and at the same time completely foreign. On her part, the crossroads demon seemed unbothered as she walked around a large piece of rubble left over from the fight. She was holding Pyre’s bag, the sloth fiend noted, which she must have grabbed from the tunnel.
+
+Beside her, Pyre was aware of Callan stiffening the closer the crossroads demon got. Pyre stayed still, but her eyes followed Pax’s movements as she approached.
+
+“So, do you just have good timing, or have you been following us the whole time?” she drawled, voice casual.
+
+“Watching, not following.” Pax dropped the bag to the ground in front of them. Callan looked very much like he wanted to be anywhere but here right now, but the crossroads demon seemed to mostly be ignoring him. She gestured around them, more lightning flashing above. “I noticed this little gathering and thought I should join. A demon party, if you will.”
+
+Pyre snorted. “Bullshit. What’re you really doing here?”
+
+“Well, if you really must know, envy fiends make for excellent ‘meatsuits,’ as you called it.” She shrugged. “Unfortunately, I wasn’t quick enough.”
+
+Now that she was closer, Pyre noted that she could see white bandages wrapped around the crossroads demon’s arm whenever she moved enough for her sleeves to pull up. They were stark against her grey clothing, and it looked like they completely covered the skin of her arms.
+
+Huh. Those definitely hadn’t been there before. Apparently possessed corpses weren’t completely immune to rotting, even with whatever magic Pax was pumping through the corpse’s veins to keep it moving.
+
+“Yeah, well, none of us were expecting Tivona to blow herself up.” Pyre gave the other demon a long look. “Did you know her?”
+
+Instead of giving a direct response, Pax turned and stepped closer to the stain in the ground, peering down at it as if to check if there was anything recoverable. As expected, there wasn’t.
+
+“I ‘know’ practically every demon there is,” the crossroads demon said. She straightened, the corners of her mouth curling up in something that didn’t feel quite right to call a smile. “That doesn’t mean they know me.”
+
+Good to know they weren’t the only ones Pax apparently liked to randomly watch. Callan looked even more disturbed at the idea.
+
+“You did well during that fight, by the way. Congratulations.” Pax turned and stepped back over to them, an amused expression on her face. “Though I must say, you were lucky Tivona only had one horn. If her magic was at full capacity, you wouldn’t have fared so well. You really ought to find a mage to travel with if you intend on getting in more fights like this.” Pale eyes flitted briefly over to Callan, then shifted back to Pyre. “A stronger mage,” she corrected lightly.
+
+The ghost’s jaw clenched, but he didn’t say anything in response. Pyre raised an eyebrow.
+
+“Might be hard to find someone willing to travel with a demon and a ghost,” she drawled. “And it worked out, didn’t it?” She gestured to the dark stain. “Anyway, I didn’t know demon horns held magic power or whatever.”
+
+Pax shrugged. “It depends. Given a demon’s extensive control over their body, it’s possible for one to move the location of their magic core. Since a demon’s horns are the most consistent and often one of the sturdiest parts of their body, it’s common to move cores there.” She chuckled. “Of course, given the state of your soul right now and your inability to use magic, that wouldn’t be relevant to you.”
+
+So, horns both showed ancient demon lineage and were now confirmed to be very sturdy in general—it wasn’t just her. That also explained why it took so much more effort to hide them compared to other body parts.
+
+Pyre’s eyes drifted over to the top of Pax’s head—specifically the empty space there. She’d never seen the crossroads demon’s horns. A part of her wondered if one of the reasons she was wearing a corpse in the first place was to hide them. Did crossroads demons even have horns? They were still demons, so probably, right?
+
+“Alright. Well, as you can see, we’ve got a bit of a situation here.” She rippled the flesh around the mark for emphasis. “I’ll cut to the chase. Can you do anything about it?”
+
+Pale eyes drifted over to the mark. “I can, but you wouldn’t be able to pay the price.” Pax cocked her head. “You don’t really need my help though, do you?”
+
+Callan’s face shifted into one of confusion, but Pyre’s own mind was thinking back to what the ghost had said about the curse, its removal requirements, and those flashes of memories she’d seen from Tivona. She concentrated on one memory in particular, trying to gather as many details about it as possible. Based on the direction of the Gravestone Mountains in the envy fiend’s memories as well as the route she’d taken when she’d fled, the original village Tivona had lived in was to the southwest of the Gravestones. Pyre’s eyes narrowed. The demon’s missing horn had been torn off there originally, but had it stayed in the village or been moved somewhere else?
+
+“Magrath.”
+
+Pyre’s gaze shifted sharply over to Pax, who still had that amused look on her face. “That’s where her other horn is,” the crossroads demon said simply. “Demon horns are quite valuable. It was only natural for me to track this one’s movements after it was first, ah, acquired.”
+
+The sloth fiend raised an eyebrow. “I thought you said I couldn’t pay the price for your help.”
+
+“That’s for a full curse removal.” Pax waved dismissively. “This is free. Consider it an investment. I do need you alive long enough to hold up your end of our deal, after all.”
+
+“Very generous,” Pyre drawled. Magrath. She didn’t recognize the name, but based on the flash of recognition she’d seen on Callan’s face, the ghost did. Either way, they needed to get out of the mountains first.
+
+“You know, speaking of our deal, you still haven’t told us what we’re supposed to be getting.”
+
+“When you’re closer,” Pax said simply. It was the same excuse she’d used last time, and it was pretty clear that the crossroads demon wasn’t going to change her mind on the subject any time soon.
+
+“Now then,” the demon continued, nodding at the two of them, “if that’s all, I’ll be on my way.” She turned, ready to disappear again in that abrupt way of hers, but a thought suddenly occurred to Pyre just as the crossroads demon was preparing to leave.
+
+“Hey, you say you know most demons. You know who Cyrus is?”
+
+Pax paused, and Pyre could feel Callan’s eyes on her. She wasn’t totally sure where the question had come from, to be honest. The demon called “Cyrus” hadn’t had a distinct face in the flood of Tivona’s memories. Every interaction with him had been blurred, as if it was passed through a hazy filter. There wasn’t much to go off of.
+
+His voice, though, had been crystal clear, and something about it nagged at the back of Pyre’s mind. She couldn’t tell if it was the residual emotions from Tivona—all the memories she’d seen had been passed through the envy fiend’s perception, after all. It made it hard to know whether the weird feeling was Tivona’s or hers. Either way, at the very least this “Cyrus” seemed like someone worth paying attention to, especially if Tivona’s warning was right and he ended up showing up at some point in the future.
+
+“That’s not what he goes by these days.” Pax glanced back, an eyebrow raised. “But yes, I do.”
+
+Pyre opened her mouth to ask a follow-up question, maybe try and get a few more details from the tight-lipped crossroads demon, but she didn’t have the chance.
+
+Before the words had even left her mouth, Pax was already gone. Once again, she’d simply disappeared from sight with no warning or preamble. There one moment and vanished the next.
+
+Beside her, Callan’s shoulders slumped. He let out a long breath. “I really don’t like her,” he muttered. Pyre snorted, but she didn’t blame the ghost for his opinion on the crossroads demon. Frankly she wasn’t totally sure how she felt about Pax herself, other than finding her generally suspicious and vague. That uncanny feeling from their first meeting had never gone away.
+
+The sloth fiend directed her attention to the bag the crossroads demon had dropped. By now, her flesh felt a little more firm again, so she carefully extended a section to rummage around the contents. From what she could tell, everything was there: the money, the clothes, other random knicknacks she’d swiped from the guards, the map, and the two evolution crystals and two class crystals. One of which she’d be using very, very soon.
+
+Pyre tugged the map out. “Well, at least we’ve got a place name,” she joked. “You’re gonna be the one who does the removal spell once we’ve got the horn, by the way.”
+
+Callan nodded slowly. “You’re talking about Tivona’s other horn?” He sounded confused.
+
+Ah, right, he wouldn’t know about that. “Yeah, I saw some of her memories just now.” Pyre waved the flesh that supported her own horns for emphasis. “Apparently she was living among humans for a bit, got found out, and they ripped off one of her horns before she escaped. That should be plenty to bind the mark to, right?”
+
+Callan’s brows furrowed at the story, but he nodded. “Magrath is a city in Auren,” he explained. He hovered over to the map and pointed at a spot near the border between Auren and Ravarn. “It’s right next to the mountains. Once we leave the Gravestones, we just need to cross the Pale River to get into Auren. Magrath shouldn’t be far from there.”
+
+That was good at least. If the horn had been transported further away, that would’ve been a lot more annoying to deal with. As it was, there was a good chance they could retrieve the horn and remove the curse before Pyre even started feeling whatever side effects the mark’s ichor-drainage caused.
+
+“Cool, we’ve got a plan then.” The demon glanced at their surroundings. They looked alone right now, save for the dark stain that had once been Tivona, but being out in the open was probably not the greatest idea in the world. Doubly so if class changing took a lot of time.
+
+Slowly, Pyre rose, scooping her bag up with a bone spike as she did so. She began making her way towards the tunnel they’d just exited, not stopping until she’d crossed inside with Callan following behind her. Almost immediately, the sound of the wind and thunder was muffled by layers of rock and stone. The demon stayed right by the entrance where she had a good view of their surroundings.
+
+“Okay,” she said. Pyre plopped back down and leaned against the tunnel wall to let [Regeneration] continue its work. “First we deal with all these notifications, then we head for Magrath.”

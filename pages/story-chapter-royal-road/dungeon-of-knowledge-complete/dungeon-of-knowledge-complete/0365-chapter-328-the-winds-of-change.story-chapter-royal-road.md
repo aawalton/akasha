@@ -1,0 +1,97 @@
+---
+id: 99cb5235-0783-5213-b7f5-fdd73a9213c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 328: The Winds of Change"
+slug: 0365-chapter-328-the-winds-of-change
+partOf: dungeon-of-knowledge-complete
+position: 365
+ownLength: 1631
+unit: words
+ownProgress: 1631
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2478553/chapter-328-the-winds-of-change"
+royalRoadId: "2478553"
+markedReadAt: "2026-06-29T20:22:58.442Z"
+---
+
+Lira stood solemnly in the midst of the bustling, makeshift camp, her heart heavy with grief and sadness. This had been a beautiful grove where ancient oaks had once spread their boughs, their leaves eagerly soaking up the light of the sun. She missed the thuds of acorns hitting the vibrant moss that carpeted the ground in a cloak of green, and the saplings that sprouted shyly every spring. Aliandra had given her a good home in her dungeon, but her heart was bound in truth to this land and the forest that had once stood, proud and majestic where now only death and blight remained.
+
+Several large oaks towered upward on the outskirts of their camp among the startling color of new growth, of flowers and moss, their once-proud branches now blackened and dead, reaching leafless toward a barren sky. She knew each of them by name. She had nurtured them to life from acorns. Now, she stood a silent witness beside them at their graves.
+
+Silent they remained, a mute testament to the destruction that had been wrought, the affront to the very land and nature itself. She was grateful for the magic of her young protégé, for curing them of the insidious blight and miasma. At least they could rest now, finally able to return to the natural cycle of decay and eventually, new growth.
+
+“Are you ok, Great Mother?” Eliyen asked, standing beside her, a pace behind in an effort to observe the ancient deference.
+
+“Eliyen, how many times must I beg for you to treat with me as a sister?” Lira said.
+
+“I’m sorry,” Eliyen answered, bowing her head even now.
+
+Lira sighed and turned her eyes away from her old friends. “I mourn for them,” she said, returning to the Wood Elf’s initial question. “I have remained secluded in the dungeon for too long; they deserve better from me. It is good that we come to reclaim the land and return these old friends to the cycle.”
+
+It was a thing that touched her heart; she had never expected so many to help her with her mission. True, many of the adventurers – now off killing the undead up ahead – had other reasons to be here; the growth of levels, the joy of combat, the money earned for completing the jobs and quests to clear the south road, or vengeance for the loss of Ciradyl. They all had their reasons, but each and every one of them had been willing to take the time required to purify the ground with Eliyen’s elixirs, sow new acorns, and dissolve the blight. While they were off fighting, it was time for her magic to work.
+
+It had been Aliandra who had encouraged her to join the group, invited Eliyen, and made her all these monsters capable of growing new plants. Somehow, it was always Aliandra who was helping her these days – the precocious little girl who had once pestered her endlessly to show her magic.
+
+You never know where life might take you.
+
+Hers was a powerful and ancient magic. Not one suited to instant results like the combat classes craved by the shorter-lived races. No, hers was a magic of ages, growth, and the steady accumulation of life as nations rose and fell, and the streams washed mountains away into the sea. But even magic like hers needed somewhere to begin – for nature, if nothing else, was the cycle of rebirth and regrowth.
+
+“Let’s begin,” she said, and Eliyen’s head snapped up, her eyes widening.
+
+Lirasia, the ancient Dryad and Great Mother of the Deep Woods, thrust her hands outward from her body, aiming them at the purified earth. Her mana bubbled and swelled, an inexorable rising tide, flowing from her fingers into the ground. Where it met the seeds Basil and Eliyen had planted, her mana began to sing.
+
+A hush blanketed the grove as every being stopped to stare, but Lira had eyes only for the green shoots that wriggled their way free from the barren soil to begin spreading their leaves in homage to the sky. Life, fragile and new, filled the grove with fresh vitality, and suddenly a cheer rose from the throats of the onlookers. It would take decades, perhaps centuries, to restore the forest to a semblance of its former glory, but this was a new beginning. It was a hope she was willing to devote her life to.
+
+Like soft rain, her tears watered the precious earth.
+
+“Ok, let’s go,” Vivian said, and stepped into the glowing ring of silvery metal etched into the flagstones, nestled among the giant roots of the soaring tree within the library atrium. Her body lurched and she suddenly found herself in a matching runic circle deep underground somewhere in the far north region of Toria. Her body sang with power as she summoned her defensive enchantments, and her eyes narrowed as she scanned the dungeon with her swords held ready in a low guard position.
+
+A dungeon. The claustrophobic weight of the domain mana was unmistakable; nothing like it existed in all the endless realms. Despite knowing that this one was technically an ally – a friend of Aliandra’s – Vivian’s old dungeon instincts screamed danger within every fiber of her being, putting her instantly on edge, vigilant for any surprises.
+
+Vivian had long since given up on the idea of ever progressing as an adventurer, a dungeon explorer. It had taken years for her to come to terms with her broken class and the loss of her old team, but she had found her center, her purpose, in building the guild. Teaching and developing the novices had provided her with a much-needed sense of worth and direction, despite knowing she was not the most patient of teachers.
+
+She stepped out of the runic circle as the combined forces of the two guild raid groups began teleporting through after her – Pathfinders and her guild members joined together for a common purpose.
+
+It had been Aliandra’s casual words letting her know that she had learned to revert class advancement with her shrine – words delivered as if they had no more significance than learning a new, basic technique. And yet in that instant, Vivian’s world had been turned upside down.
+
+Her class had been fixed. Not merely repaired – Aliandra had allowed her to walk back all the damage done by her natural evolution and then, to choose a powerful new path forward. She was still level one hundred, but she was nothing like before. She flexed her shoulders and rolled her neck, excited and nervous in equal measure to test her newfound power.
+
+“Aliandra?” she called, turning to the little golden-scaled kobold that appeared from the teleportation circle. “Can you make contact with Naia?”
+
+“Sure,” the kobold said, the syllables of the Common tongue spilling awkwardly from the reptilian mouth. “She has domain-wide perception linked to any of her slimes.” Then, the diminutive kobold raised its voice. “Naia? It’s Aliandra, we’re here to help.”
+
+A chunk of basalt embedded into the wall suddenly twisted, growing bluer and translucent until it dropped down to the ground beside the kobold, reaching out with little pseudopods.
+
+“Ali-friend?” The slime asked, its body quivering with the strange technique it was using to voice the words.
+
+“Yes, Naia, it’s me. These are the guild friends I told you about. We’re here to help you.” Aliandra reached out to take the hopefully seeking pseudopods with a scaly hand.
+
+Vivian’s heart stuttered at the sight of two of the most feared classes in existence holding hands like a pair of children about to confront the darkness.
+
+Ryn startled, looking up from her book as an elegantly dressed but rather flustered Gnome burst into the uncommonly quiet guild hall. It had been a few days where she had sequestered herself in the library to avoid the crowds, but now that everyone was off on their various missions, it was just her and Mieriel in the guild hall – even the novices and recruits were busy in the sewers or the challenge arenas, training hard.
+
+“I need to speak with the Guildmaster at once!” the Gnome demanded. “It’s urgent!”
+
+“I’m sorry, Mr. Glimmerbuckle, Vivian Ross is away right now. Can I let her know what you need, and she can follow up with you when she returns?” Mieriel said, giving him a rather professionally smooth smile.
+
+Glimmerbuckle… oh. Silver Cog! Ryn had heard the story of how they had secured a major trading company’s patronage for Myrin’s Keep, and certainly, everyone had heard the zone notifications when everyone advanced, but she hadn’t yet met the esteemed Mr. Worthington Glimmerbuckle. He seemed quite dapper and formal.
+
+“It’s an emergency!” he insisted, “Can you not get her to come back?”
+
+“She is raiding with the guild right now; we expect her to return by the end of today or tomorrow,” Mieriel said. “What is the emergency?”
+
+“The Heroes of the Crimson Blade are in town,” he said. “They intend to destroy the dungeon!”
+
+Ali? Ryn didn’t know who these Heroes of the Crimson Blade were, but they sounded self-important, and Ali had already fought off many people sent after her.
+
+“The who?” Mieriel asked.
+
+“The Heroes of the Crimson Blade,” Worthington repeated, throwing his hands up in exasperation as if she should know. “A platinum-ranked party from Southport. All of them are reputed to be above level one hundred and fifty. You know, the royal dungeon exterminators. They’re going to wipe out the Dungeon of Knowledge and put me out of business! I need …”
+
+Ryn did not wait for him to finish. With a pop and a lurch, she was in the Grand Library.
+
+“Ali! Danger!” she yelled.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

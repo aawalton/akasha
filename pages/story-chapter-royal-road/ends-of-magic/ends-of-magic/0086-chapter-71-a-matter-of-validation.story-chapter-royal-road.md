@@ -1,0 +1,209 @@
+---
+id: 26a39edf-efa3-5536-ba37-0f073aa2e0ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: A Matter of Validation"
+slug: 0086-chapter-71-a-matter-of-validation
+partOf: ends-of-magic
+position: 86
+ownLength: 2749
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3251526/chapter-71-a-matter-of-validation"
+royalRoadId: "3251526"
+---
+
+Aarl slammed into his seat with a groan. The cheers were still going on, but he seemed thoroughly done with the crowd. “Bunch of muckgrabbers,” he said, taking a drink of water to wash the blood out of his mouth.
+
+“You good?” Sarah asked anxiously. She’d been icy calm during the fight itself, but now she was fussing slightly over her brother.
+
+He waved her off. “Fine, fine. Khachi’s blessing dealt with the wounds, and I’ve got another healing artifact. I might switch armor before I fight again.” He let loose a huge sigh. “But I’m hoping not to stare that ghoul in the eye again.” He glanced sideways at Kachi. “Thanks. That’s the third time you’ve brought me back?”
+
+The wolfman inclined his head fractionally. “It gladdens my heart, even if it would be better not to be necessary.” Then he turned a warning gaze on the rest of the Heirs. “The power of the blessing is spent, for all of us.”
+
+They returned the look grimly, until Stella elbowed Aarl. “Still a good win.” He just grunted and leaned back, closing his eyes and letting out a tense breath.
+
+“Well-fought indeed,” Sarya said with a subdued voice. “You have each defeated champions and laid your arguments before us.” She hesitated. “You could retire, or simply watch the rest of the conclave. Colborn will speak next to present the initial plan, and beyond that will be messy politics. From here on, your participation is a risk without significant reward. A permanent death might help our point, but you standing strong is also beneficial."
+
+The Heirs glanced around, communicating through expression and long familiarity. “We’ll stay,” Nathan said, “and see if we need to get involved again.”
+
+Sarya didn’t seem entirely pleased with that, but she let it pass. Besides, Colborn had already appeared on stage, stroking his begemmed beard thoughtfully.
+
+“Thus far this conclave has spoken of needs and musts,” he said. “The mortals have made calculated arguments for their cause and shown the strength to support their words. But the question is laid before us - how can we make these changes? The Endings have valid functions. If they are removed, then we need replacements. But before presenting our proposal, let me address our opposition one more time.” He flashed a wide grin, teeth flashing along with the gems in his beard. “They do seem scared of any and all change. But the main counter I have heard is that the Endings work, and there is no need to change them for the sake of mortals.”
+
+He raised a fist and shook it. “But change can serve us as well as the mortals! This is a chance to reimagine Davrar and create a world we will all enjoy exploring, rather than staying within our circle of tamed continents. We are not voting on a vague dream; we are not replacing cruelty with utopia. We are proposing to reshape the experience of Davrar into a new form that pleases us better than the current one.” He made a throwaway gesture. “The Endings are stale, and instead we choose to wage small wars with each other through the medium of mortals. So let us reorganize Davrar around that goal, with new rules to regulate that arena of conflict, instead of it being treated as a secondary and side target.”
+
+He pivoted, making sure his attention reached the entire crowd. “Here is the shape of what we have built, in collaboration with all who have raised their voices to help. We call it the Continuance Charter, and unlike past proposals, it has room to move, a living framework not carved in stone. Over the course of this conclave we can refine it, and then adjust as we shift the course of Davrar and learn where the strains lie.”
+
+He made a gesture as if he were tossing an invisible envelope towards the audience. “The proposal is now before you all, and I encourage you to digest it fully. But let me draw your attention to the principle behind it. Davrar was designed as a static testbed for societies, with the Endings intended to return it to baseline and wipe the variables clean for future experiments. We have moved beyond that purpose and embrace a dynamic world of continual growth. The most exciting histories of Davrar lay in Kalis, in the ending of Deicide, the events that left a lasting legacy and mark all future events.” Colborn’s voice focused on that topic. “The Continuance Charter is a move to encourage similar dynamism, to prevent stagnation, and establish legacies from now until forevermore. The mortals matter, but if we build a deep history, then we matter too.”
+
+He began pacing, ticking off points on his fingers in rapid succession. “First, we must remove and replace the Endings. Instead of a reset, we need continual pressure that provides challenge but not annihilation. Second, new magics, races, and skills may emerge spontaneously, each with their own reasons, stories, and geographic focus. They can happen continuously, rather than waiting for the next Ending. Third, dungeons may emerge spontaneously, or not at all, as the situation demands. Fourth, blights can be integrated from simple static targets to have more agency and more weaknesses. Fifth, monsters will gain ecology, gaining reasonable motives instead of unreasonable rage.” He tilted his head and spoke in a lower-pitched voice, though it was still clearly audible. “I don’t know about you, but I wish to see monster-taming.”
+
+Then he continued, riding the wave of chuckles brought on by the aside. “But once we form nations and war them against each other, there should be protection from endless war that is its own form of brutal stasis. This is not a dream of perfect peace, but rather terms of engagement, an extension of polite wars to wars between empires, enforced by Davrar, and limitations on the most horrible of magics. We hoard the Shields of Solemnance for just such a reason. Instead, let Davrar declare civilian zones off-limits for super-large effect spells.”
+
+There was some mutter of dissension at that proposal, but Colborn rode right over it with a performer’s timing. “Finally, the hideous magics, those which would become overly powerful in the age of Empires.” His face firmed. “Mind magics, contract magics, mass-effect social skills, those things which compel a population's obedience to a central precept. We have explored their use and utility over millennia. Such tools let a ruler ignore the needs of their people, if they are willing to accept the drawbacks.” He grunted with amusement and gestured towards the Heirs. “Which range from decreased initiative to the sudden rise of Questor-killing heroes that humble their former masters.”
+
+There were sections of the crowd that cried out in dismay as Colborn proposed banning mind magics, but they were drowned out by the laughter at Colborn’s reference to the Heirs and the consequences they'd bestowed on Badud.
+
+The Questor gave a little bow, almost comically deferential. “That is the principle of the charter. There are angles left to cover, and topics for us to debate before it becomes final. But together, we can make a new Davrar. Before I ask for an initial poll, I call upon Davrar. Could the Continuance Charter function? Could it preserve the excitement of Davrar, move past our current stagnation, and allow for continuity of mortal society?”
+
+He held the silence with both hands, waiting for an answer. Every Questor leaned in slightly.
+
+Colborn relaxed theatrically, as if he’d doubted the outcome. He grinned like a showman, then sobered like a politician. “It is possible, and the system of Davrar can fulfill this desire if we can but agree on it.” He nodded to himself, like it was already settled. “We have heard the arguments of the mortals, and watched them triumph over the defenders of the old order. We have seen blood spilled in the arena to validate their words. Now that we have Davrar's validation, I call the first non-binding approval poll on the Continuance Charter. The terms are detailed and will become more so, but do you agree with the overall objective?”
+
+From the reactions of the Questors around them, they’d all gotten notifications from Davrar and were interacting with them. It took most of the members of the Ashen Accord mere seconds to make their selection, and those further afield weren’t taking much longer. Nathan felt left out by the lack of information.
+
+Quiet murmurs rippled across the arena as Questors discussed, but then Colborn’s voice rolled across them, low and grinding. “Remember the words of the mortals, and what they risked to speak them. Do you have the courage to reach beyond what you have now, to a living and breathing world that does not reset with every age?” He struck a thoughtful pose, somehow conveying the impression of a man on a lonely quest towards a lighthouse that only he could see.
+
+“That has to be a skill,” Nathan said, looking at the short Questor standing there like a painting.
+
+Khachi didn’t seem to care particularly much how Colborn looked and turned to Sarya. “Does he speak true? Will you seek to ban mind magics?”
+
+Sarya winced. “If we can achieve it, we will. But don't think it calculated fate. It is a sacrificial proposition we can remove later to gain supporters if necessary.”
+
+The Heirs grimaced. “Hear me, I’d hoped to ban mind magic,” Stella contributed. “How long until the poll is in?”
+
+“Now,” Sarya said, and gestured back towards where Colborn resumed speaking.
+
+“It seems most of you agree with me,” he said, voice lighter than before. “Good, then we are close to a decision. All that is left to settle are the particulars, and those shall be forthcoming.” He nodded to himself in satisfaction and walked off the podium towards the duel location.
+
+“What was the result?” Nathan demanded.
+
+“We are two percent above requirement,” Sarya said, almost breathlessly. “With only three percent abstaining! That is an incredible rate of response. Further discussion will shift the vote, but we have some small room to negotiate. Without any great shifts, we are in the closing act.” She beamed around at the Heirs. “You have helped us win over the Questors of Davrar.”
+
+Stella giggled, sounding hesitant. “It seems so easy. But we did kill nine Questors in our duels. And Khachi and Nathan gave some pretty blasphemous speeches.”
+
+“I’ll believe this victory when the loot is counted,” Sarah replied darkly.
+
+The stage transformed into the sealed crystal arena, and Colborn’s opponent appeared opposite him. It was Evesor, the leader of the Aleph Grid. He was dressed in a dark robe, and his lip was curled in arrogant confidence.
+
+Nathan gritted his teeth. He didn’t like that smirk. “Can Colborn win?”
+
+Sarya shook her head slowly. “Unlikely. Colborn is good, but his power lies in politics and leadership. Evesor is a mage beyond compare. But Colborn’s victory is not required. He can continue to negotiate by message. I’ll need to replace his physical presence in the meetings.” She pursed her lips in distaste.
+
+“Right. The old ‘magic is overpowered’ problem,” Nathan said bitterly. He considered interfering in the upcoming battle, but quickly decided against it. It sounded like Colborn was planning for a loss here, and Nathan's interference in the duel could be the thing that tipped opinion back against them. All Nathan needed to do was not rock the boat.
+
+The arena flashed the start of the duel. Colborn moved first, drawing a wickedly curved scimitar of bright metal that had an eye engraved near the tip. Nathan had noticed him wearing the sword before, though it was only present when the short Questor wanted to strike a dramatic pose that was aided by having a sword. The eye flicked towards Evesor and narrowed, then seemed to vibrate in anger.
+
+“It’s a small burn that you won’t be in this chamber to watch your idiotic 'continuance charter' fail and die,” Evesor taunted, his arms circling almost idly as he cast wordless magic. “I am speaking next, and I will be content to imagine you on some distant continent, watching your poorly conceived notions die the death they deserve.” He chuckled mockingly. “Shortly followed by your pet mortals.”
+
+Colborn rose to the challenge, drawing his blade back towards his ear. “It is not merely mine. Too many Questors agree for this to fall to nothing. You will not sow discord.” He swept his sword out on the last word, the blade ringing with a chaotic note and sending a visible shockwave through the air. It ran into a series of force blades stealthily moving through the air, which vibrated them to nothing before continuing on and crashing into a protective bubble around Evesor.
+
+A second swing layered atop the first, this one rising and crackling like burning flames. A burst of flame and heat made the air shimmer as it passed, though it fared no better at cutting through the wizardry that surrounded Evesor.
+
+The mage chuckled, amused. “Cute.” He planted his feet on solid air and spun his hand to fire a trio of thick disintegration spells towards Colborn.
+
+The short man pivoted and leapt, his beard splaying out as he leapt up and over the volley, then came down with his sword leading the way. The weapon's eye blazed with purple light, and Colborn used it to part a fourth bar of annihilating mana. Then the blade flashed out in concert with sharp yells from Colborn, each of which carried a separate magical effect tied to the sound. A deep thrumming noise produced a wave of cold that caused frost to condense from the air, a high keening made a blast of light, and an aggressive yell sent out a huge blade of force.
+
+Evesor had to work to ensure his defense, especially against the light magic. He was panting by the end of it, but the shield held. Then Evesor clapped his hands together and froze in place. Everything in the arena similarly paused. All sounds were muted. Nathan caught a glimpse of Colborn’s twitching eyes, but neither Questor moved a muscle. Things stayed like that for a few seconds, and Nathan looked around, confused. Was the battle just stopped? But then he saw a slow spell coming together in front of Evesor’s face. He was putting it together without words or movement, conjuring an attack with pure mana control while his wizardry had imposed some kind of time- or movement-stopping effect.
+
+The disintegration spell was pathetic compared to the previous attacks, slow and weak. But all Colborn could do was watch as the magic crept towards him, dug through his defensive shield, and turned his body to dust. It stayed condensed in the shape of the Questor’s body as the wave of slow disintegration crept over Colborn.
+
+Evesor finally relaxed his wizardry and smiled in satisfaction as Colborn’s body collapsed into specks that soon vanished. Then Evesor strode towards the podium that emerged from the crystal as it reconfigured to the stage setup instead of the arena.
+
+“Can he do that?” Nathan asked. "He just fought."
+
+Sarya nodded. “He petitioned to speak, and it is his turn to do so. It is a well-timed response.”
+
+Nathan scowled as he looked down on the Questor. He had only run into Evesor a few times, but that was more than enough to nurture a firm hatred for the man.
+
+“This ‘continuance charter’ is impossible to implement. It is nonsensical, and will never fully validate,” Evesor said, and he seemed entirely certain of that declaration.
+
+Permanent Talent 1: Magical Destruction 10
+
+Permanent Talent 2: Distributed Immortality 2
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1337
+
+Bottomless Stamina: 117082/134700
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 951
+
+Limitless Focus: 7921/9610
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 7
+
+Forewarning 10
+
+The Truth of Magic 8
+
+Evasion 5
+
+Wizard’s Palace 7
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

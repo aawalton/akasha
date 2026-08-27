@@ -1,0 +1,221 @@
+---
+id: 02753e6e-893d-5a09-bf93-e1f92bf54dd2
+page-type-slug: story-chapter-royal-road
+title: "82 - Correcting the Mentor"
+slug: 0083-82-correcting-the-mentor
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 83
+ownLength: 1752
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3765662/82-correcting-the-mentor"
+royalRoadId: "3765662"
+---
+
+While the ship was heading to our destination, I dragged Meriel to the side, where nobody else was. I explained to her everything about the hidden rewards that had been revealed just moments ago.
+
+“So,” Meriel began after listening in silence. “Before my awakening, I completed several tropes that gave me hidden rewards. And you’re saying now that I’ve awakened, those rewards have been revealed as ‘Narrative Resonance’?”
+
+I nodded.
+
+“I see,” she said. “Then the first telltale sign that I was about to awaken was when you started receiving tropes whose completion criteria revolved around me instead of you. Noodle choosing me as his master, giving you my weapon, and ultimately dying—those were all tropes that I completed rather than you.”
+
+I nodded again.
+
+“Interesting. Very interesting.” She crossed her arms. “My first theory is that those tropes were tied to my role as your mentor. But that doesn’t quite fit. Noodle choosing me had nothing to do with my role as a mentor. Perhaps simply receiving a trope whose completion criteria fell under my name was already enough to foreshadow my awakening.”
+
+We glanced at Reina, who was chatting with the rest of the crew. Kaelor sat on the edge of the ship, having zero fear of falling off despite the entire ordeal that had happened just earlier. Sparrow kept a lookout on where the ship was heading, though on the opposite end of where the steering wheel actually was. I wasn’t sure if that was the brightest move, but who was I to judge? He was the captain, not me.
+
+“You see what I’m getting at, right?” I asked, turning back to Meriel.
+
+She nodded. “Indeed I do. If all of this is true, then it’s likely that Reina may soon awaken as well. Not only did she complete several tropes just now and gain Narrative Resonance, but she also has another ongoing trope. Which one was it again?”
+
+“It’s called The Magic Knight’s Path,” I said. “To complete it, Reina has to survive your training, which I guess the System still considers ongoing.”
+
+“And this was the first-ever trope whose completion criteria didn’t revolve around you, correct?”
+
+“Yes.”
+
+Meriel pulled out a notebook from under her robes. It never fails to surprise me how she just pulls all sorts of things out from under there, but I guess that’s how she feels whenever I use my [INVENTORY]. We’re a lot more similar than I thought.
+
+After jotting down some notes with a quill—again, no clue how she just randomly pulled that out—she looked at me with curious eyes.
+
+“What do you think Reina’s role is?” she asked. “If I’m your mentor, then what is she?”
+
+I answered right away. “A close friend? The party’s jester?”
+
+Meriel scratched her head. “Eh… no. I don’t think a ‘close friend’ is enough to be a narrative role. And the comedic relief she gives barely qualifies as anything laughable.”
+
+“That’s because you hardly laugh at anything.”
+
+She shrugged. “Maybe. Anyway, I was thinking of something more like a deuteragonist.”
+
+“Deuter—what?”
+
+She sighed, facepalming. “Really? You’re aware of narrative tropes and you don’t know what that is?”
+
+“To be honest, I do. I’m just pretending not to so you can explain it to the people eavesdropping on our conversation.”
+
+Meriel looked around. “I don’t see anyone. You mean Kaelor and the others? They’re all on the other side of the ship.”
+
+I shook my head. “Not them. It’s someone else you’ve never seen before.”
+
+I looked at the camera.
+
+Or well… there’s not really one, but you get the point.
+
+She blinked. “Huh?”
+
+“It doesn’t matter. Could you just pretend I don’t know it and explain it to me?”
+
+She scratched her head, then shrugged. “A deuteragonist is the second most important character in a narrative, right under the protagonist. More often than not, they’re the protagonist’s closest ally.”
+
+“Which describes Reina perfectly since she’s the first person I saw after I came into this world,” I said.
+
+Meriel gave me a weird look. “...after you came into this world?”
+
+“Or uh… after I came to Lyndale, I mean.”
+
+Crap. I’ve got to be more careful about what I say. I’ve been getting too comfortable with Meriel since she’s the only one who knows about the tropes and everything else.
+
+I glanced over at Reina, seeing her laughing along with the others.
+
+“Actually… I wouldn’t quite say that’s the case anymore. I think I’m closer to you than I am to her,” I said.
+
+Meriel took a moment to process what I just said, then leaned closer with an awfully smug grin. “Aw. I didn’t know you felt that way about me. Reina would be devastated to hear that.”
+
+Damn it… Again, I’m getting way too comfortable with Meriel now. I would never say something embarrassing like this before!
+
+I hid my reddened face. “Whatever… So what do you think? Could it be that you’re the deuteragonist instead?”
+
+“I could be,” Meriel said. “A deuteragonist could also be a mentor in some stories. But would it make sense that one person has multiple narrative roles? This isn’t a trick question, by the way. I just want to hear what you think.”
+
+“You’re testing me, aren’t you?”
+
+“Yes,” she said. “Again, it’s not a trick question. Just give me your answer.”
+
+Based on everything we know so far, there’s only one right answer I could give right now.
+
+“We can’t rule out the possibility of anything without sufficient evidence,” I said.
+
+She smiled. “Wonderful. That’s exactly what I would say. We can be confident that I awakened because I’m your mentor, but what’s to say I’m not anything else?”
+
+We stood quietly for a moment. I took the time to think back on the conversations we had after she awakened, trying to put the pieces together.
+
+Then, something clicked.
+
+Yes, I said that right. Something clicked inside my head. Shockers, right?
+
+“Remember what you said back at the memorial island?” I asked. “After you first awakened, you felt a rush of knowledge pouring into your head, right? You instinctively realized what your role was: to be my mentor, because I’m the protagonist. Doesn’t that just mean the ‘mentor’ is your only role, since you didn’t feel anything else?”
+
+Hearing that, Meriel’s eyes widened. “I see. That certainly is sufficient evidence that I only have one role—assuming I’m not somehow being deceived. I’m surprised. You caught something that completely slipped from my mind. Is this the first time you’ve ever done that?”
+
+“…”
+
+[TROPE COMPLETED: THE STUDENT CORRECTS THE MENTOR]
+
+[SKILL ACQUIRED: THE FORCEFUL BOW]
+
+Type: Active
+
+Effects:
+
+- Force the target to bow below your head level
+
+- Only works on Meriel
+
+Note: A purely ego-boosting skill. Depending on how you look at it, this is either the best skill to reroll or keep.
+
+“Alrighty,” I said. “Let’s stop with the belittling.”
+
+“Or what?”
+
+“Or I’ll use this skill I just received.”
+
+She raised an eyebrow. “You received a skill just now…? From completing which trope?”
+
+“The one where the student corrects their mentor.”
+
+Meriel laughed. “Oh? Well, that certainly is a trope. Go on, then. Use it. From everything you’ve told me so far, I’m inclined to believe you’ve just received another useless ski—”
+
+I immediately used the skill, and you guessed it—she bowed below my head.
+
+“Wha…” she gasped. “What is this?!”
+
+I laughed extra loudly and extra evilly.
+
+Was that even a word?
+
+The others turned toward us from the other side of the ship.
+
+“Whoa… is Meriel bowing her head to Allene?” Kaelor shouted from afar. “Now that’s a sight I never thought I’d see! Did you blackmail her or something?”
+
+“Nope!” I shouted back. “She’s just admitting that her student has a bit of a bigger brain than she thought. Isn’t that right, Meriel?”
+
+“Stop it this instant…!” she whispered.
+
+“Why? Is this too embarrassing for you?”
+
+“No, but—”
+
+“I’ll stop if you tell them I’m smarter than you.”
+
+She tried to look up, but the skill completely locked her head in place.
+
+“Is that all?” she asked. “What if I just wait until this skill runs out?”
+
+I chuckled. “Oh, you don’t have to worry about that. This one actually has no cooldown or duration. Unless you’re satisfied with being stuck bowing your head to me forever, I would probably do something about it.”
+
+She slowly turned her body toward the others. They were back in their own conversations, so I raised my voice to grab their attention again.
+
+“Meriel has something to say!”
+
+The moment they turned, I tapped Meriel’s back.
+
+“Ready when you are,” I said.
+
+“Allene’s smarter than me!” she shouted.
+
+Huh.
+
+Well, that was fast. No buildup or anything?
+
+I burst into laughter, and when I faced the others, I saw that they were… also laughing?
+
+“Yup! Allene’s definitely smarter!” Talon shouted back.
+
+“Wrrr!” Noodle said.
+
+“That’s like saying Tuna’s a cat just because she meows!” Aeris yelled.
+
+“Or saying I have two arms!” Kaelor said.
+
+We all stared at him.
+
+“Sorry, bad joke.”
+
+Reina and Sparrow were laughing so hard that they couldn’t even say anything back. For some reason, that really ticked me off. One of them was someone I’d never seen before a moment ago, while the other was even dumber than I was.
+
+…
+
+What? You think Reina’s smarter than me?
+
+…
+
+“Hey,” Meriel said, bringing my attention back. “Can you let me go now?”
+
+I sighed, reluctantly releasing her from the skill. “Fine.”
+
+The moment she was free, she took a step away from me, wrapping her arms around herself. “You disgust me, you narcissist. I’m ashamed that I must call myself your mentor.”
+
+“I’m not a narcissist. If I was, I would’ve completed a trope for that.”
+
+We waited for a second. Honestly, I was fully expecting to complete a trope for that just now.
+
+“Did you get a System message for that?” Meriel asked.
+
+“I’m actually surprised I didn’t, considering the System likes to play those types of jokes on me all the time.”
+
+Before we knew it, our destination came into view. It was a group of islands we had never visited before—not quite Whale Isles, but a sister city. I had thought that the island where the Skycurrent Festival took place was crowded, but this was on an entirely different level.
+
+These islands before us were famous for one thing, after all: their massive marketplace that people from all across the sky came to visit.

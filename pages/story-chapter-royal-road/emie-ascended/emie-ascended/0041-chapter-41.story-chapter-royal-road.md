@@ -1,0 +1,149 @@
+---
+id: 9f5c7bc1-0834-5e56-b859-f13b914044e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41"
+slug: 0041-chapter-41
+partOf: emie-ascended
+position: 41
+ownLength: 2112
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3673866/chapter-41"
+royalRoadId: "3673866"
+---
+
+“Stop fidgeting,” I said, reaching out to hold Stephen’s hand.
+
+We weren’t the only bronze rankers in attendance, but that didn’t make us stand out any less. In fact, we likely stood out even more due to the fact that we both had our Ascender titles visible.
+
+It was a calculated decision. Besides, it wasn’t like we could reasonably expect our status to remain concealed among such a group.
+
+While most of those in attendance were strangers, enough were familiar that I knew it was only a matter of time before our status as Ascenders was shared openly. Instead of seeming like we were trying to hide it, Stephen and I had decided to embrace our status.
+
+Clearly, he was second-guessing that decision right now.
+
+I couldn’t say I enjoyed the feeling of being scrutinized so heavily, but it also wasn’t entirely new to me, either. I’d been one of the rare tri-affinity mages in my old realm, and that status had come with a lot of attention.
+
+The lobby of the newly built Porter Guildhall had been completely redecorated for the Grand Opening. The space was packed with far more people than I expected to be capable of fitting within its walls, even with the spatial expansion enchantments that I suspected were embedded into the structure.
+
+Most of those in attendance were either members of the guild or those capable of spending a lot of money hiring members of the guild. Just looking around, it was pretty easy to tell into which category any particular person fell.
+
+For one, most of the older guild members wore metal circlets of varying design, while none of those I suspected to be merchants or quasi-nobility donned such jewelry.
+
+I wasn’t sure if it was a guild thing or merely a fashion statement popular in Portal, where the guild was based. Since most of those looking to hire Porters were likely from the local area, it really could have been either one.
+
+Less than five minutes after Stephen and I arrived, a fancy-looking man with hair that looked like frozen flames climbed onto the small stage that I was certain was not present when we’d initially visited to register.
+
+Atop his head was a mithril circlet with decorative embellishments beyond what I saw being worn by anyone else. Behind him was a familiar face – the very same man who’d delivered our invitation to have lunch with the City Lord not very long ago.
+
+“Welcome, everyone, and thank you for attending the Grand Opening of the Sorenguard Branch of the Porter Guild,” the flame-haired man said. “I am Solan, the Guild Leader of the Porter Guild. Beside me is Renald, the new Branch Leader for Sorenguard’s Porter Guild.”
+
+We clapped politely along with the rest of the crowd. It didn’t take long for the applause to quieten, allowing the Guild Leader to continue his speech. I only half-listened as I examined the crowd around us.
+
+As expected, the City Lord was present, as was his wife, Alora. So were several other well-known members of the community whom I’d come to recognize over the last year.
+
+As my eyes skimmed over the large crowd, the Guild Leader mentioned that the Delver Association had officially declared the Sorenguard Ascender Dungeon as space and time aligned – a designation that I had expected to come any day now.
+
+By tradition more than necessity, the Association always waited at least a full year from the reopening of an Ascender Dungeon to declare its official designation.
+
+I wasn’t sure if it was because that was the amount of time a capable Ascender would take to reach the first evolution, or if there was some other purpose for the timeline. Either way, it didn’t matter all that much in the grand scheme of things.
+
+“So, the Originator must be both a Space and Time Magi,” a nearby attendee stated to their companion before glancing toward Stephen and me.
+
+Stephen and I weren’t the only Ascenders present. Both the princeling and one of his former retainers were also present, though neither one had reached the first evolution yet.
+
+They stood on opposite sides of the room, so it was clear they were aware of each other’s presence. It was also clear that their grudge hadn’t waned since they’d gone their separate ways.
+
+I wasn’t surprised to see either of them here, even though neither was qualified to officially join the guild, considering they were both still unevolved.
+
+I’d heard the princeling, whose actual name was Bradley or Braden or something similar, had joined a party of rich natives in exchange for a Portal skillbook.
+
+By contrast, Rowan, his former retainer, was a Space Magi rather than someone who’d been lucky enough to acquire the right skillbook.
+
+If not an actual Space Magi, he had at least ascended with a strong Space affinity, which was probably why space was the predominant aspect in the dungeon instead of time.
+
+As far as I knew, none of my fellow Ascenders had a time affinity except for me, and while my affinities influenced the dungeon more heavily than the other Ascenders, their affinities also played a part.
+
+Though I’d talked to Rowan in passing a few times since ascending, I hadn’t dug too deeply into his capabilities with space magic since I hadn’t wanted to reciprocate.
+
+He’d stuck with one of the other nobles – the one who hadn’t joined the Healer’s party – and had formed a new party with a couple of new delvers from important families.
+
+Like the clerk had suggested, partying with the children of the rich and powerful let them gear themselves with bronze-ranked equipment, which let them advance faster than they otherwise would have.
+
+Using Identify, I could tell that Rowan was only a few levels away from reaching the first evolution, which was far ahead of his old liege, who was still sitting at level 136.
+
+Reaching level 136 after just over a year was still fast… for a native. But for an Ascender with strong equipment and support, it was downright embarrassing.
+
+Renald, the new Branch Leader of the Porter Guild, spoke for a few minutes about his plans for the branch and his intention to extend the guild’s overall network by having old members escort new members to various locations.
+
+He also hoped that some of the more capable members might take the initiative to travel on their own to new cities and locales on this side of the world as well.
+
+Since the metaphorical web covering this side of the world was extremely thin, gaining full coverage would take time. According to Renald, it was not something he expected to see in his lifetime, even with more than a millennium left in his lifespan.
+
+It really highlighted just how vast this world truly was.
+
+“Now, I’d like to invite everyone to tour the new facility,” Renald added before leaving the stage. “There are refreshments appropriate for all guests located in the guild’s dining hall. For those who have reached at least silver rank, there are additional refreshments available in the guild’s conference room on the second floor.
+
+“Please, take this time to get to know one another. For those of you who are new to the guild, I ask that you visit sometime this week for your mentorship assignments. Enjoy your evening.”
+
+I noted there was no ribbon-cutting or any other ceremonial aspect of the Grand Opening beyond the speeches. I appreciated that, since the rest was often little more than time-consuming theater.
+
+With the formal part concluded, most of those in attendance started wandering deeper into the guildhall. The rest appeared to be considering who to approach first.
+
+I wasn’t too worried about solicitations for contracts now that we’d joined the guild. As Porter Guild members, such contracts would be subject to review by the guild before they could be finalized.
+
+In fact, without the guild’s seal of approval, a contract between a guild member and a non-guild member for Porter-related activities wouldn’t even be considered valid. General ‘retainer’ contracts fell under the same umbrella since general contracts would obviously include porter-related activities.
+
+It was probably why we’d received so many invitations as soon as we evolved. As long as we were under contract before joining the guild, there was really little the guild could do about unfair or predatory contracts.
+
+Come to think of it, I wasn’t sure you could even join the guild if you were under an active contract. At least, that’s what I assumed based on the questions Sasha had asked when we registered for the guild.
+
+I was sure there were probably exceptions since I knew that Reynald was a retainer for the City Lord, and he was obviously a member of the guild, but that was above my pay grade.
+
+Several individuals came by and introduced themselves to us, but most of them were senior members of the guild who’d been assigned to spend the next few weeks assisting the new Porters with building our network.
+
+There were a few who were not members and seemed to be trying to build contacts within the guild, but that was to be expected at an event such as this. It made sense to get to know the people you might be interested in hiring.
+
+“Hey! I’m Heaven, and this is my partner, Norm,” a friendly woman greeted us when we eventually managed to get a plate of food and sit at one of the tables.
+
+The intricate circlet she wore was a pale, almost white metal that I immediately recognized to be platinum. Her partner wore a similar circlet as well, though his embellishments were a little less complex.
+
+Though I wasn’t aware of any rules that said only those who’d reached platinum rank could wear jewelry made of the metal, I had a pretty strong suspicion that the two were, in fact, platinum rankers.
+
+“Renald just asked me to serve as your mentor, Emie,” the woman said brightly before looking at Stephen and adding, “I’m not sure who he will have guide you, but whoever it is, I’m sure they’ll be great. The fact that he didn’t want Norm to do it is also a positive sign.”
+
+Seeing Norm’s affronted expression, Heaven laughed and said, “Not because there’s anything wrong with Norm, but because our cities almost completely overlap. Having someone else serve as your mentor would let the two of you work together to expand both of your networks.”
+
+I motioned for them to sit down, and the much more senior Porters did just that.
+
+“I’m guessing you’re both members of the guild?” I asked.
+
+Heaven nodded. “Yes. We’ve been members since we reached the first evolution. Just like the two of you.”
+
+“Does that mean you’re both from Portal?”
+
+The woman’s smile widened into a grin. “That it does. Until now, the Portal Ascender Dungeon was basically the only place to get space-related skills.”
+
+“That’s not totally true,” Norm interjected. “There are other dungeons that occasionally produce space-related skillbooks. It’s just rare.”
+
+Heaven rolled her eyes and huffed quietly. “Fine. I stand corrected. But I’m sure they knew what I meant.”
+
+“Are the two of you partners, like, a couple, or just members of the same party?” I asked, somewhat rudely. It really wasn’t my business, but I couldn’t help but ask based on the way they interacted.
+
+“Both, actually. We have a third member of our party as well, but he’s primarily a crafter. Norm and I handle most of the combat when we delve.”
+
+“Have you gotten a chance to explore this dungeon yet?” Stephen asked curiously.
+
+“Not yet. We just arrived last night, but we hope to check it out before heading back.”
+
+We chatted with the couple for a few minutes more before making plans to meet the next day at the guildhall after dinner. Even if Norm wasn’t Stephen’s mentor, it wouldn’t be a bad thing for the two to get to know each other.
+
+We were all members of the same guild now, after all.
+
+I took a few moments to explain my various guild memberships and the responsibilities that came with each, so they understood that I would need to clear my schedule a bit before we could make any more definitive plans.
+
+They both seemed pretty understanding.
+
+We stayed for another hour before calling it a night and teleporting back to the apartment. Stephen’s mentor never revealed themselves, so they either weren’t there, had chosen to remain anonymous for now, or hadn’t been assigned yet.
+
+Whatever the case was, we were both looking forward to seeing more of the world.

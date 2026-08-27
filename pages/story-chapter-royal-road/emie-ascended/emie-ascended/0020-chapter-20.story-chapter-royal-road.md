@@ -1,0 +1,187 @@
+---
+id: 59582bea-8685-5664-b596-0f54c10e5693
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20"
+slug: 0020-chapter-20
+partOf: emie-ascended
+position: 20
+ownLength: 2487
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3506561/chapter-20"
+royalRoadId: "3506561"
+---
+
+The next evening, I was headed to the dining hall with Cora and Mike when we once again crossed paths with the archer. He was still wearing his armor, so I assumed he was just returning from a quick trip to the dungeon.
+
+“Oh, hey! Archer guy!” Cora called out when we drew close. “You’re an Ascender, right?”
+
+The man looked at us with resignation before his expression shifted to something closer to wary curiosity.
+
+“I am,” the man replied. “My name is Stephen. You three are also Ascenders?”
+
+The archer’s emerald eyes scanned the three of us, pausing on me for just a beat longer than the others. I found myself feeling strangely disappointed when his eyes moved away.
+
+“We are! I’m Cora, and this is my husband, Mike, and our teammate, Emie,” Cora said, motioning toward the two of us. I gave him a little wave, which caused his lips to twitch into a fleeting smile.
+
+“It’s nice to meet you all,” Stephen said, inclining his head.
+
+“Are you just coming back from the dungeon?” Cora asked, eying his armor.
+
+A quick check with Identify showed Stephen was level sixteen, which was just four levels higher than me after our last delve. Considering he was delving on his own, I almost expected him to be at a much higher level.
+
+But if we’d all started around the same time, it made sense for him to be around the same level, especially if he had to deal with things like making camp and crafting his own armor.
+
+He also showed up as an orange threat, which was a first. Most of the other Ascenders only showed up as yellow threats, with only the princeling showing up as green.
+
+It was clear his former vassal hadn’t been joking when he called the former prince the weakest of their group. However, such ratings only took the individual into consideration. I was sure that, combined, the former prince’s party would have posed a significant threat before they split up.
+
+“Yes,” Stephen replied with a nod. “The sooner I reach the first evolution, the better.”
+
+Nodding sympathetically, Mike said, “We get that. It’s hard to be treated like a youngling after living for a couple of millennia.”
+
+The archer inclined his head in agreement.
+
+“Did you join a party or are you challenging the dungeon alone?” I found myself asking, unable to suppress my curiosity.
+
+I wasn’t sure what it was about the archer that intrigued me, but there was definitely something there.
+
+My question caused both of my companions’ brows to raise, and I knew I’d probably suffer for my interest later. Cora, at least, would bring it up, for sure.
+
+Having friends could be annoying, sometimes.
+
+“I work alone,” Stephen replied with a hint of melancholy. “I’ve found it’s easier that way.”
+
+“I can understand that mindset,” I told him. “I spent most of my time in the previous realm as a soloist. Not because I wanted to, necessarily, but because of circumstances. I’m trying to be more social this time around.”
+
+I motioned toward the couple as if to reinforce my point. The archer seemed uncertain how to respond, and the silence soon grew awkward.
+
+“Well, it was nice meeting you,” I said lamely. “Maybe if you’re not busy, we can chat sometime. I know how isolated working alone can be. There’s no reason you can’t have friends outside of the dungeon, even if you do prefer to delve alone.”
+
+I wasn’t sure why I made the offer, but I found that I actually meant it. I wouldn’t mind getting to know the lonely archer a bit better.
+
+Since I was still a couple of levels higher than my teammates, they asked if I would mind if they ran the third floor together without me. Having recovered my Enchanting skill, I was actually happy to stay behind.
+
+I wouldn’t make it a habit, but between my occasional shifts at the medical facility and the artifacts I wanted to craft, I had plenty to occupy my time.
+
+I also spent some of that time learning more about our new realm, though I made sure to incorporate actual downtime as well.
+
+It had taken me a long time to realize how important actual rest was for mental well-being. I’d come close to burning out more than once as I pushed to advance as quickly as possible, and I had no intention of repeating the same mistakes now that I had basically been granted a whole new life.
+
+The evening that my party members returned from the dungeon, we met up for dinner at a small restaurant just outside the dungeon complex. The food was supposed to be a lot better than what we were served as copper-ranked delvers, but not overly expensive, making it a popular choice for soon-to-be adults wanting to splurge a bit.
+
+We’d just settled into a booth when Cora tapped my hand, drawing my attention. “Look who just walked in.”
+
+I turned toward the door and saw the archer from a couple of days earlier waiting by the door. This time, he was not wearing armor, but was dressed in dark slacks and a gray shirt.
+
+“Hey, Stephen!” Cora called out, drawing his attention. “We have an extra seat. You should join us!”
+
+I was surprised when the archer seemed to take the invitation in stride and made his way over, sliding into the open booth beside me.
+
+“Thanks. I don’t really like eating at bars, and I always end up sitting at one when I eat in restaurants.”
+
+“No problem. Taking a break from the dungeon?”
+
+Stephen nodded. “A short one. I usually only go in for a couple of days at a time to prevent half of my loot spoiling.”
+
+“I can understand that, especially with how expensive preservation items are,” Cora said, glancing at me after adding the last bit.
+
+I’d given her and Mike a storage bag capable of preserving anything placed inside for their delve, so she knew it was something I was capable of crafting.
+
+It was a new development, but one that I didn’t plan on publicizing until after I reached the first evolution. I didn’t want my previous affinities to be widely known just yet.
+
+The waiter stopped by a moment later. After we gave him our orders and he departed, I looked at Stephen and said, “If preservation is the issue, I might be able to help with that.”
+
+“Really? Are you an Enchanter?”
+
+“I am,” I admitted. “I was a Grandmaster before I ascended, which basically just means I’m barely qualified in this realm. I did recently craft a backpack liner capable of preserving anything placed inside, though, if that’s something you’re interested in.”
+
+Leaning a bit closer, the archer said, “I’m definitely interested in something like that. How much do you charge?”
+
+I’d done a bit of research into similar products during the break, so I knew that the price of such items was astronomical, especially on this side of the world. Even without the spatial aspects, just the preservation piece was valuable, regardless of the crafter’s rank.
+
+There simply weren’t enough time-based skills out there for Enchanters to make use of. Instead, they were often forced to rely on ice or similar aspects to reduce spoilage.
+
+In fact, I couldn’t easily put a price on the items I was able to craft, which was why I had no desire to publicly reveal my capabilities right away.
+
+“Did you make your armor?” I asked instead of answering. My question seemed to catch him by surprise.
+
+“I did. I made all of my gear.”
+
+I thought as much. Given the obvious craftsmanship, I felt there was a good chance the archer had slotted some kind of leatherworking skill. If not, he had to have an extraordinary amount of experience guiding his hands.
+
+It was probably both.
+
+“I’ll trade you a preservation bag for a set of bracers,” I offered. “It’ll work best if you can put it inside a larger backpack since the material I use won’t support heavy loads and is too weak to handle another enchantment to reduce the weight. I’ll also need you to promise that you won’t share where you got it since I’d like to avoid that kind of attention for now.”
+
+Tilting his head slightly, Stephen said, “That doesn’t seem like a very fair deal to me. Why would you offer such an unbalanced trade?”
+
+“It’s not, really,” I said before explaining. “It takes time for you to harvest materials, cure the leather, work the leather, and craft the bracers. That’s not to mention any detail work that you might add.
+
+“Conversely, making a bag is pretty easy for me. Aside from the cost of the material, I really only have to consider the time and expertise it takes to do the actual enchantment. Compared to the effort you’ll have to put in to make a set of bracers, the balance seems wholly in my favor.”
+
+Of course, that was ignoring the retail value of the objects in question. On the free market, a bag capable of preserving anything placed inside would be far more valuable than a set of bracers made out of low-grade materials, regardless of the craftsmanship involved.
+
+After a moment of consideration, the archer said, “I have a skill that creates a pocket space. If I get a container made to fit the space, could you enchant it?”
+
+“Probably,” I answered. “Depending on the size of the space, I might be able to make a small artifact that will preserve everything inside. That way, you won’t need to deal with a bag at all.”
+
+I could see the interest in his eyes, though there was a bit of uncertainty there as well.
+
+“That would be convenient. I’d rather not share the details of my skill in such a public space, though. Maybe we could talk about it after dinner somewhere a bit more private?”
+
+I got the distinct impression that he was being sincere in his request, not just trying to come up with an excuse to get me alone. A small part of me was disappointed that he didn’t seem to have any ulterior motives, but I was used to suppressing such feelings.
+
+“Sure, that sounds fine. If you want, you can come by after dinner. I don’t have anything planned until my shift at the clinic tomorrow.”
+
+As someone who’d yet to reach their first evolution, my ‘shifts’ couldn’t be formally scheduled, but I liked to give the people in charge an idea of when I’d be spending time there.
+
+“You’re also a healer?”
+
+“Among other things,” I said with a grin.
+
+After giving me an exasperated look, the archer said, “Okay. After dinner sounds fine, but are you sure you’re okay trading something like that for a set of bracers?”
+
+“Why not? You seem like a pretty nice guy. Just don’t take advantage of my kindness, and we’ll be good.”
+
+Once our food was delivered, the conversation shifted to more general topics. We mostly chatted about our experiences inside the dungeon, though Cora and Mike occasionally shared a story about their previous life in Arkenesis.
+
+Stephen’s experiences in the dungeon sounded a lot like my own before I’d joined up with Cora and Mike. He was a bit evasive about how he fought, which I kind of understood. A lot of people didn’t like talking about their skills with people outside of their party.
+
+“What was your home realm like?” I asked as the meal wound down. “I know a bit about Cora and Mike’s previous realm, but I’ve never heard of yours.”
+
+“You’re not missing anything,” the archer said with a hint of disgust. “Zorist is run by a bunch of despots who prefer to lord their meager power over others instead of trying to make the realm a better place.
+
+“The only way anyone not born into the nobility ever manages to ascend from that place is if they happen upon a hidden realm, which was how I managed to gain enough power to ascend.”
+
+“A hidden realm?” Cora asked. “Is that something like a dungeon, or did you have those as well?”
+
+“We had rifts which were similar to the dungeon here, except they only ever had a single floor,” Stephen answered. “The hidden realm I entered was like the Ascender Dungeon in many ways, except they were vast open areas of mixed environments instead of isolated rooms, and once you entered, you couldn’t leave until you reached a certain level of strength.”
+
+“That sounds a lot like the Realm Dungeon where I spent most of my life,” I said.
+
+Stephen shared a little more about his former realm, including the fact that it had used skill slots much like Dia. However, unlike Dia, Zorist didn’t allow even mundane skills to be learned manually. Everything had to be obtained via skill crystals or granted as a gift by the system upon reaching certain milestones.
+
+Even things like Farming or Cleaning were gained solely through skill crystals obtained from rifts. That wouldn’t have been so bad if his homeworld didn’t have a strict caste system that made it illegal for certain members of society to obtain even the most basic skill crystals.
+
+Other worlds in Zorist weren’t quite as bad, but the fact that the realm deity allowed even one world to oppress its people to such a degree spoke very poorly about the deity itself.
+
+“What was your original affinity?” Cora asked. “I was born with an Air affinity, but eventually acquired a Darkness affinity as well. Mike only ever had an Earth affinity.”
+
+“I actually had two affinities,” Stephen said a bit awkwardly, making it obvious that dual affinities were as rare in his home realm as they were in mine. “Zoki and Nature.”
+
+“Zoki? I’ve never heard of that,” I said.
+
+Strangely, whatever translation magic was in place didn’t volunteer any information about the affinity either.
+
+“It’s basically an affinity with animals. I was able to communicate with them without a skill, much like I could understand the general well-being of plants through my Nature affinity without a specialized skill.”
+
+“How did skill crystals work if you had affinities?” Mike asked. “Wouldn’t most of the crystals be incompatible?”
+
+“A skill crystal obtained in a rift would always be compatible with the one who collected it,” Stephen answered simply before looking at me. “What about you? What affinity did you have before?”
+
+“I awakened with dual Time and Space affinities,” I said, leaving out the fact that I later gained a third affinity.
+
+It was something that I still felt the need to hide, if only to avoid drawing unwanted attention. In fact, I still hadn’t openly admitted I’d had a third affinity to my teammates yet.
+
+I would, eventually. But for now, it would remain a secret.

@@ -1,0 +1,211 @@
+---
+id: 0303f009-1d80-5d58-8929-3dfb78e13d7b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Wizard’s Domain"
+slug: 0068-chapter-53-wizard-s-domain
+partOf: ends-of-magic
+position: 68
+ownLength: 2921
+unit: words
+ownProgress: 2921
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3004587/chapter-53-wizards-domain"
+royalRoadId: "3004587"
+markedReadAt: "2026-06-29T20:09:26.744Z"
+---
+
+Nathan half-expected the battle to end right there and then. Stella had just dropped a spell that triggered nuclear fusion onto the enemy stronghold. Nathan was still miles away, but the shockwaves alone would have killed a normal person from this distance, not to mention the gamma radiation and other possible radionuclides from the series of rapid detonations.
+
+But Nathan had to remind himself of the older Questors who had shown up at the start of the battle. He couldn’t imagine Mirus dying from that. The old wizard gave off the aura of somebody who had too many tricks up their sleeves to be defeated by something as simple as a giant explosion.
+
+We just cleared the chaff, but I think any genuinely strong Questors probably survived that.
+
+He shivered when he realized he didn’t necessarily include Badud or his gridmates in that category. They were strong, but he expected there were others who were stronger, just like the Ashen Accord had brought in Questors stronger than Sarya and Brox.
+
+Unfortunately, he couldn’t see anything. The valley was covered in dust and debris from the nuclear walking barrage Stella had unleashed, and Nathan saw large pieces of trees and other junk kicked up by the explosions whipping through the air below. This valley was going to be thoroughly wrecked for a good long time, even if the battle ended without any other spells of mass destruction. A strong wind blew from behind Nathan, courtesy of Stella, keeping the airborne grit back and helping him move forward. But his advance wasn’t a headlong dash anymore, since they’d accomplished their first plan and needed to gather more information before they decided what to do next. This next part of the plan was undefined and mostly consisted of "follow Nathan's lead as he scouts out any remaining Questors."
+
+His magical senses could definitely sense active magical signatures from the dust cloud, but they were far away and seemed shielded by some wizardly interference. He redirected his aura to break it, but was distracted by a disturbance in the dust below. Nathan juked to the side as a figure in shining red armor burst upwards with fury on his face and a golden blade leading the way. He covered a thousand feet of distance in the blink of an eye, slashing at Nathan’s torso with a blade that felt like a crystallized core of divine hatred that had no purpose beyond unmaking Nathan. The man was decked out in magical armaments that blazed with the same power. It was the power of Quenfi, the goddess of fire and destruction, and Nathan was sure that the sword could cut through absolutely anything and leave nothing but dead ashes behind.
+
+Nathan’s dodge meant that the weapon only cut halfway through his chest instead of completely bisecting him. The man moved with such stunning speed that he was hard to track, let alone dodge. Nathan genuinely hadn't detected this man as more than a vague threat a moment before. He'd moved so quickly that Nathan hadn't had time to really recognize he was under attack.
+
+The magic on the Questors’ sword and armor was already dead after less than a second of exposure to the full power of Nathan’s aura. The Questor had dodged it at the start by coming in low, but the only way to get to Nathan was to go through the antimagic domain of his aura. Without its magic, the Questor’s blade and armor turned from shining red and gold to the matte black of adamantium. But that’s all Nathan saw before he was carved up into pieces. The man had slowed down when all of his magic items died, but he hadn’t plummeted from the sky, and his next attack was a series of sweeping swipes that Nathan mostly failed to dodge. He didn’t stop there, proceeding to mince Nathan’s head and torso into a dozen pieces like a muscle-powered blender.
+
+Nathan fell from the sky as a scatter of gore, feeling his grip on reality slipping as every normal sense cut off. It was hard to think without a brain, but he could survive in his mind palace until his body finished regrowing. He wasn’t entirely cut off from the world, since his magical senses weren’t tied to an organ that could be destroyed, and he could feel his aura out in the world, though it was sluggish and unresponsive without his body.
+
+Five strong magical signatures were zipping past him, Questors who’d been waiting until Nathan was taken out. Three of them felt familiar to Nathan from the fight over Esebus, and he recognized them as Badud, Amoh, and Ogarius. They were surrounded by a zone of wizardly authority belonging to one of the two unknowns. It let them pierce through Nathan’s antimagic aura, which failed to resist without his direct attention.
+
+No.
+
+The simple denial resonated through his mind, pushing past the construct that sustained him and back into physical reality. He didn’t need a brain to control his aura. It was granted to him by Davrar, just like this place was. He existed, he could think, and that meant he could fight.
+
+Congratulations, you have developed the [Tranquility] utility skill into [Perfected Mind].
+
+Utility skill: [Perfected Mind]
+
+Your mind obeys your will.
+
+Nathan’s aura went from a fraying denial of magic to a solid authority that once again sealed it away entirely. One of the Questors had an aura of their own, one that granted control over the local aether, and they were reinforcing the solidity of magic to push back his aura. It was a formidable level of control, and likely granted the person with that Talent control over mana and wizardry wherever their aura reached.
+
+But fine control could not contest a draining void. Their forward progress stalled as Nathan’s aura clamped around them like a clenched fist, and most of the Questors reacted with controlled panic. Amoh leapt out of the trap with a shadow-based skill, and Badud released a spell he’d been charging since before he’d entered Nathan’s sensory range.
+
+The [Reverse Time] spell blossomed inside the bubble and then ran into Nathan’s aura like an explosion trapped in a marble. It rebounded inside the sealed space, causing the aether to ripple and crack from the turbulence of a spell that was not meant to collide with itself. The Questor with the wizard’s aura tried to smooth out the spell, turning his attention away from maintaining the bubble to stabilize the resonance.
+
+Nathan pressed his advantage, compressing their bubble of magic until it barely covered the four remaining Questors. He simultaneously enhanced the chaotic energies of the time magic, amplifying the building resonance until the spell reached a destructive peak. The wizardry imploded in on itself with a strange flutter of wizardry, and Badud vanished with it.
+
+Nathan’s head had regrown by this point, and he directed his regeneration to build a shoulder and arm so he could control his movement. He could survive without a heart, but he needed a limb to stabilize his fall.
+
+The Questor holding back the antimagic abandoned his last two allies, contracting down his aura until it just covered his body. That exposed the remaining two Questors to Nathan’s aura. They promptly fell out of the sky as the magic maintaining their flight winked out. Ogarius tried some kind of dream-portal to escape, but the magic failed to manifest. The other Questor also tried a half-dozen different schools of magic to slow their fall, everything from force platforms to air control, gravity magic, and even spatial wizardry.
+
+It all failed, and Nathan considered permanently cutting the two Questors off from magic, but decided against it. He settled for destroying every magical item on them and draining their mana pools down to nothing. Dimensional bags exploded, tossing them into the distance as a fountain of material goods manifested from a destroyed dimensional space.
+
+With his torso and head regrown, Nathan spun himself around to get a view of the battlefield with newly regrown eyes. The wizard holding off his antimagic was an elderly man with a bald head, a wispy white beard, and elegant white robes. The whole ensemble reminded Nathan of a master monk, down to the mild expression as he probed Nathan’s antimagic with his own power.
+
+But Nathan dragged his attention away from the surviving Questor and back towards the Heirs, dreading what he might see. He’d destroyed all of the magic on the Questor that had sliced him into pieces, and that meant he hadn’t been able to track the man. He was worried that the insane speed would let that Questor tear through the Heirs in the tens of seconds that Nathan had been disembodied.
+
+But the exchange was still ongoing, and the Questor was on the back foot. He was missing a leg and bleeding from several other wounds that gashed the regions not covered by his armor. But the damage didn’t seem to have diminished the Questor’s speed much as he dueled Aarl with a furious exchange of blows.
+
+The other Heirs were busy with their own combats. Sarah was busy plugging away at a figure dashing towards them from the side, and both Khachi and Stella were engaged in magical duels of their own, summoning heavy-duty magical shields to block attacks coming at them from above and below and responding with magic when they could. It didn’t seem like too many other Questors had survived, but at least some of those that had were targeting the Heirs.
+
+Nathan had his own priorities. The wizard who could push against his aura was alive and well, and having much less trouble now that he was only protecting himself and not a collection of other Questors. He’d started accelerating towards Nathan, which suited Nathan well enough. He couldn't let this man reach the Heirs, because his aura would let him easily disable Khachi or Stella, and potentially sabotage Aarl or Sarah’s gear in catastrophic ways.
+
+His power is a bit like mine, except significantly more flexible and destructive. But I think I win in a direct contest.
+
+Nathan’s legs were going to be done regrowing in mere seconds, but that wasn’t good enough, so Nathan used his arms and other skills to bring him out of his fall and into a collision course with the elderly wizard.
+
+The man saw him coming and slowed down, throwing his arms wide in welcome. “The spark of the era approaches! My boy, you have revealed new depths to the wonder that is magic. By the denial of the very aether, you have made yourself into the archetypal opposite of a Seal!” He laughed high and wild, like a man deprived of joy for a long time, finding it once again. Then he squared up. “But now we will fight, and you will die. I have learned enough of your Insights to discover them for myself, even should I need to sunder my own class to achieve them.” Then the Questor channeled magic into his body, keeping it inside the bounds of his own aura where it layered over his skin. “This is an ancient style, long since fallen from popularity. But every trick is another tool when facing the unexpected!” He moved toward Nathan with a gleeful smile on his face and his body faintly steaming with the power he held.
+
+Nathan had a moment to think before he made contact with the Questor. He was an avatar of antimagic, and his flesh and blood had been proof against magical effects for a long time. But this Questor seemed confident in his victory, and that worried Nathan. He wasn’t familiar with the spells the man had cast upon himself, but they felt like a cross between an enchantment and a buff that was further boosted by wizardry. If he understood it, the Questor had just boosted his strength and toughness to extraordinary levels.
+
+Then the Questor blocked Nathan’s first blow with an open hand, and a new spell flashed, reaching through the man’s aura to make contact with Nathan’s flesh. He felt a hungry suction pulse through his body, hindered but not completely blocked by his antimagic. It also carried debilitating pain and a side of paralysis, but his various skills and protections had made him immune. The bigger problem was that his Stamina and Focus each dropped by a third from the brief contact, and Nathan flinched away from a follow-up attack from the man’s other hand, gaining space to re-evaluate the fight.
+
+The Questor seemed to find that hilarious. “Ah, I have found it indeed! You do require resources for your antics. Impressive that you have any remaining after that touch. I am disappointed that this fight was so simple to solve. I would offer surrender, were it not for the terms of this war. Do you have any final words? I know you mortals care deeply for your birthplaces. I will protect it from an Ending if you wish, I swear it on Edes’ rotting corpse.”
+
+“I’m partial to Gemore, but that’s a mighty dose of hubris you got there. The war is far from over,” Nathan snarled. “I’m far from defeated, and I’m also not alone.”
+
+“Indeed so! I recognize Mirus’s abjurations in the air, and that will be a welcome fight! But she cannot save you. Not now. For I am Kamus of the gold tower of Kalis. Now, if you are done regathering your power, shall we continue?”
+
+Nathan grimaced. He’d engaged the man in banter to give himself more time to draw in his aura, reeling it back into his body from where it was stretched across the battlefield. It was a faster process than extending it had been, but he hadn't quite finished. He’d also regenerated a chunk of Stamina by absorbing various spells flying around, but he couldn’t take more than a few more of those drains like that before he was drained of resources. At that point, he would be vulnerable, unable to heal or even fly.
+
+But Kamus seemed content to wait for Nathan to reset himself before beginning the next phase of the fight, and Nathan was happy to take the opportunity. The Questor was dangerous, but Nathan thought he’d been on the mark with his comment earlier. Kamus didn’t care about winning as much as enjoying himself while doing it, and he enjoyed testing himself against new opponents. Nathan flashed forward with as little warning as possible, feinting with a fist before striking out with a foot. Kamus spun in midair to catch the blow in his hand, but Nathan simply bent his knee, denying contact and confirming his hypothesis.
+
+He can only channel that spell through his hands.
+
+Both of them kept their auras tight, focused on concentrating their power in preparation for any future contact. They danced across the sky without touching, with Kamus trying to catch Nathan with his hands and Nathan trying to catch the Questor anywhere else. The old man was proficient in hand-to-hand combat, with at least one skill that was boosting his movements. His magical bonuses also gave him the edge in speed over Nathan, but not by an insurmountable degree.
+
+But Nathan had four limbs he could strike with, and he had more movement skills to rapidly and deceptively change directions. He feinted up, down, then tucked and flipped in midair to kick Kamus in the nose. The Questor’s head snapped back, and Nathan went in for the kill, accepting a hand slapped to his side while he shot past the Questor, stopped, and drove his hand into the man’s back. He concentrated his aura into his fingertips, digging through the magical domain and dispelling the buffs as his fingers moved deeper. Without the reinforcing magic, the man’s flesh was no tougher than fresh bread against his strength.
+
+The Questor’s other hand came down on Nathan’s head, and Kamus bared his teeth in victory. “I have won.”
+
+Nathan’s focus bottomed out, and his Stamina was on its last dregs from the repeated drains. But he pulled with all of his strength, feeling his Legendkiller skill activate for the first time. His antimagic unzipped the magical reinforcement on skin but not bones as he yanked Kamus’s spine away from his body. The head came with it, and Nathan spun it around to look the man in the eyes.
+
+“Could have fooled me.”
+
+Magical Destruction 6 achieved!
+
+Utility skill: [Tranquility]
+
+Your mind will be calm and focused under all conditions, and your mind’s eye is expanded.
+
+Utility skill: [Perfected Mind]
+
+Your mind obeys your will.
+
+Permanent Talent 1: Magical Destruction 6
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 1831/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 0/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 2
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 5
+
+Forewarning 10
+
+The Truth of Magic 6
+
+Evasion 5
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+High-tier Disguise 10
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

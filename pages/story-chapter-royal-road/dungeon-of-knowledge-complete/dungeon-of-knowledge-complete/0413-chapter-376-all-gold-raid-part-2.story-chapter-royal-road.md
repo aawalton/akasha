@@ -1,0 +1,137 @@
+---
+id: 9d82fc6a-6bea-5bc4-be87-2aee100fb2f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 376: All Gold Raid (Part 2)"
+slug: 0413-chapter-376-all-gold-raid-part-2
+partOf: dungeon-of-knowledge-complete
+position: 413
+ownLength: 2531
+unit: words
+ownProgress: 2531
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2597364/chapter-376-all-gold-raid-part-2"
+royalRoadId: "2597364"
+markedReadAt: "2026-06-29T20:26:00.754Z"
+---
+
+Giddy adjusted the jewel carefully in the clamp and reached back to press on a knot that was forming in her shoulder muscles, but the protective gloves she had forgotten she was wearing scratched her skin. Again.
+
+Argh. How long have I been going at this? She sighed, tilting her neck back and forth, and then lowered her head, lining up the lenses in her goggles with the large apparatus designed to boost her perception skills, and summoned her mana once more. She had taken payment for the job, and these rings weren’t going to make themselves.
+
+But her heart thumped in her breast as soon as she took in the astonishing jewel again. It somehow never got old.
+
+Incredibly tiny runes coalesced out of her mana right in front of the delicate ice-affinity magicite that would have been freezing her fingers off for the last hour if she hadn’t bought these damn expensive gloves. Working with magicite came with a wholly unexpected level of annoyance she hadn’t anticipated.
+
+That rascally Fae had better appreciate every drop of my sweat.
+
+But as her mind returned to the delicate task of layering the tiny runes inside of the crystal structure, she marveled again at the beauty of the stone she was crafting. It was perfect, refracting the light of her work lamps to create a rich blue sparkle from deep within the stone.
+
+And the way it held mana… wow.
+
+With a barely noticed smile on her face, she deftly floated the runes into place on currents of her mana, stringing them carefully together as she finished up the last section of the complex formation Aliandra had requested. She didn’t even mind that the girl wanted her to help equip her dungeon if it meant she got to work with materials like this. It was just a shame she would only gain experience when Aliandra used her strange magic to learn the ring instead of in a constant trickle like normal adventurers.
+
+If only she could hit that big milestone. She lost herself briefly to the daydreams of what her class might become when she evolved. Perhaps she could even create something like that extraordinary pair of glasses the ink crafter had broken. Wouldn’t that be grand?
+
+Oi, back to work, she chided herself. As she nudged the final runes into place, an operation requiring extremely delicate focus, her notifications suddenly sounded with a rapid-fire series of chimes in the back of her mind that startled her. The key rune slipped, popping as her hold over the delicate formation came suddenly undone.
+
+Fuck! That last formation had been half an hour’s worth of work and now she would have to do it all over again.
+
+What godforsaken reason could you possibly have for messing up my work? she grumbled, throwing her notifications open. What she found instantly obliterated her annoyance and frustration.
+
+Precision Jewelsmith has reached level 100 (+8).Requirements met for class evolution. Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+Giddy stared at the glittering text, scarcely believing her eyes. Whaaaaat… the? That was the only thought she could reliably form just now. Several minutes passed by in silence as she fully expected it to somehow vanish, a hallucination brought on by lack of sleep or something, but no, it persisted, calmly refracting light in pretty rainbows all across her inner mental landscape.
+
+Eight levels? She had never gained so many levels all at once. What the heck did that Fae do? I take back every nasty name I’ve ever called you. Ahem. Not that there had been many. With a soft chuckle, she imagined herself bowing deeply. Oh, Goddess Aliandra…
+
+Aliandra had asked her for rings and promptly consumed them, which had given her a level right then and there. So that couldn’t have been it. Her work on this order had earned her one more level so far, but Aliandra wasn’t using these yet. All the new rings were still there, sitting on the display rack, sparkling innocently, pristine, and unused. Aliandra had even asked for a platinum ring, but Giddy couldn’t make those yet.
+
+All she has is the gold guild ring I made… Suddenly, it all clicked. Vivian had requested a half dozen gold-rank guild rings, a project that had taken her quite some time and effort to complete. Then there were all the silver rings she had made previously, too. Nearly sixty of them so far. There had been that intense woman, Devan, who’d commissioned a needle-sharp platinum hairpin with a critical damage enchantment. Any Gnomish crafter worth their salt hated being beholden to a single client, but the guild was quite clearly the only reason she was still in business after the auction house fiasco.
+
+It’s not Aliandra, she realized. Somehow, the whole guild must have just done something big. Huge!
+
+She got up from her stool slowly, her leg muscles cramping from hours of sitting, and opened the drawer, retrieving Vivian Ross’s offer letter. A letter that had been lying there for weeks, unanswered. Suddenly, the steep discounts and concessions the Guildmaster was requesting on behalf of her members in exchange for the position of official guild jeweler didn’t seem quite so steep anymore.
+
+I’m basically working for that woman already, Giddy thought. Perhaps I should reconsider? Would the discounts be so bad? Leveling this fast would take the sting out of the lost profits, and all she needed was to evolve her class, and the bright shiny world of the high-level market would be hers for the taking. Yes, she could see it now. ‘Giddy’s Grand Emporium’ – there would even be a brand-new sign.
+
+Wait, when does Aliandra get back?
+
+Not too bad. Rezan might actually be proud. Malika grinned at her private joke. Overall, she was pleased with the performance of her class in the raid. She was not used to tanking much – at least not in the main tank role. This fight had been challenging, even for the group of nearly fifty adventurers – not surprising for having been forced to take on all the last four bosses simultaneously.
+
+Under the onslaught of Alexander’s continual death and blight auras and the constant bolts of death magic, she had found her class had excelled. Her damage reduction had grown substantially, and his style of overwhelming foes with his auras had barely itched. As Alexander had grasped for more and more power, her class had risen to the challenge. Relentless and Abiding Perseverance provided an incredible synergy, greatly enhancing her speed and defensive skills.
+
+Eyes of the Soul has reached level 111 (+4).+40 attribute points.
+
+Given that they were sharing the raid with so many people, and that three of the bosses had not yet evolved, her gain of four levels was quite an impressive reward. It would still take some time to get used to the slower pace of leveling after her class evolution. Four’s good. You’d take that any day. Right, let’s check the rest.
+
+Martial Artist has reached level 59 (+3).Soul Strike has reached level 60 (+3).Healing Mantra has reached level 70.Perfect Body has reached level 40 (+2).Soul Armor has reached level 50.Enlightened Evasion has reached level 48.Divine Step has reached level 54.Second Wind has reached level 38 (+3).Clarity has reached level 41 (+2).Dancing has reached level 13.Appraise has reached level 28.
+
+Looks like my skills really like being pushed past their limits. As usual, she wrestled with her attribute allocations for some time, eventually deciding on a workable compromise. In order of priority, she spent ten points on dexterity, seven each on endurance and wisdom, and four across the board for the rest.
+
+Malika opened her eyes at the sense of familiar energy and smiled as Sabri walked up to join her under Mato’s branches.
+
+“May I join you?” Sabri asked.
+
+“Sure,” Malika said, choosing to remain silent to give her room to speak her mind in her own time.
+
+“Your energy was off the charts,” Sabri said finally. “I’ve never seen anything so powerful.”
+
+Malika smiled at her. “Evolved class,” she said. “My abilities all get stronger the longer I fight.” The fight had been quite drawn out, all told.
+
+“Why did you give up tanking at the end? I thought you would just beat him up all by yourself. You barely took any damage,” Sabri sighed, running her hands over a few larger gashes and dents in her once-pristine shiny plate armor and shield. “I wish I could tank like that. I got really beat up.”
+
+Aah, so that’s it. It was clear that Sabri looked up to her – it had been clear since the first time Malika had seen her back in Kezda, mesmerized by the bouts in the ring.
+
+“Mato was the better choice to tank at the end,” Malika said.
+
+“The healers had to heal him a lot,” Sabri said and then gestured to Malika. “You hardly have a scratch on you.”
+
+“I’m essentially a dodge tank, Sabri. I have some very efficient flat damage mitigation skills, so I’m ideal for any situation where a monster hits many times for small amounts of damage. The biggest problem with Alexander Gray was the continuous blight and death damage from his auras. Even his death bolts were not much of a problem for me. I can dodge magic, and whatever hits is reduced by my flat damage reduction skill. Unless he can hit very hard, I’m the worst match-up for him.”
+
+Sabri looked like she was about to say something, but Malika decided to finish. “As soon as he transformed into his Bone Avatar and stole that Overpowering Strike ability from your Wight, I was doomed. Sure, I can dodge a lot, but one hit from that powerful an attack and I would have died. No question. I only have three thousand health with Mato’s sage and food buff, and at full power, near the end, I had more than four thousand armor rating.”
+
+“Three thousand?” Sabri said, her eyes widening.
+
+“Mato has more than ten thousand health and over five and a half thousand armor without buffs. He also has Critical Block for the Overpowering Strike, and even if he misses his block, it’s still less than half his health.”
+
+“I wish I was that strong,” Sabri said, looking downcast.
+
+“Sabri, if Mato hadn’t been there, I would have called for you to take over. You’re a specialist tank and vitality is one of your primary attributes – you already have a lot more health than I do. With your plate armor specialization and the extra armor from your shield, you already have almost as much armor as Mato. You have Critical Block. It wouldn’t have been as smooth as using Mato, but you could have tanked him just fine, and you’re not even level eighty yet.”
+
+“Me?” Sabri asked, looking up at her in surprise.
+
+“Yes, you,” Malika said with a grin. “If you could tank that Wight and come out still standing, you could have handled the bone abomination. You’re growing fast. Perhaps it escaped your notice that you’ve become strong somewhere along the way?”
+
+“Yes, tell her,” Gara said, walking up and flicking Sabri on the back of the head. Sabri squawked, earning a trollish grin. “Hey, rival. Did you happen to notice we’re at the same level after all that? I’m ready for our next duel whenever you are.”
+
+Malika smiled at the poorly concealed delight that blossomed on Sabri’s face.
+
+“You’re on! Squishy little Troll.”
+
+“You take that back!”
+
+Calen glanced down at his notebook, studying the details of the domain magic skills Ali had revealed. As always, he dearly wished he’d had all this information at the start of the fight, but the more he learned, the more likely he would be prepared for whatever came next. He already had several rather interesting ideas for bosses Ali might make using what she had just learned. He quickly noted them under the list so he wouldn’t forget to tell her. Once she had made her bosses, she wouldn’t fail to recognize the skills in the wild in future encounters. Nor will any of the guild mages who practice in her dungeon.
+
+And while he was at it, he jotted down his own skill and class growth notifications.
+
+Realm Hunter has reached level 115 (+4).+40 attribute points.Radiant Archery has reached level 68 (+3).Arrows of Brilliance has reached level 63.Motes of Light has reached level 45.Blessing of the Dawn has reached level 46.Eyes of the Archon has reached level 41.Righteous Fury has reached level 42 (+2).Azrael's Wings has reached level 28.Cartography has reached level 21.
+
+Progress is right on track, he decided, consulting the graphs he’d plotted. He especially loved the new instant Power Shot on Onslaught advancement – that had done some incredible sustained damage over the long fight. He had been told to expect slower growth from here on out, but he was still progressing at a reasonable pace. Furthermore, he was still getting used to having seven shots with his multishot – an advancement he’d earned when Radiant Archery passed sixty. The extra arrow took more focus to aim, but it was worth the work to train it. An extra shot meant an extra target. And that was one more explosion, one more chain, or one more chance to proc Onslaught. Multiple chances if there’s a crowd of monsters. Hmm-hmm. I like a nice swarm these days.
+
+It sure beat running from them.
+
+Ok, attributes. He reran his calculations one more time and then spent twelve points on intelligence, ten each on dexterity and perception, and two each on all the rest. While he had no current need for more strength, one never knew what might come along – and he had been taught to prepare for it.
+
+Then, he started the much more difficult task of noting down all the strategic decisions he had made, and how he could improve on each of them. Vivian had obviously allowed him to run the raid strategy to give him more experience, and she had offered a few pointers after the fight, but it would be in the postmortem back at the guild that he would be able to dig into all the details and truly understand what he might have done better. Once he’d heard everyone’s perspective.
+
+Surprisingly, Mato’s crazy idea to take on all four bosses simultaneously was the only decision he could not see any way to improve. Even after seeing all the abilities and experiencing the chaos, particularly at the start of the fight, he still could not find a safer approach that would have worked.
+
+The rest of his decisions, though, were another story. There were so many mistakes and so many hesitations. So many things he could have done better. He just hoped Vivian would go easy on him when they debriefed, after all, he had never run such a complex fight with so many people. He’d be lucky to get away with a firm, ‘Do better next time!’
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

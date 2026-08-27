@@ -1,0 +1,91 @@
+---
+id: 92f1759b-c9da-5eb7-a90f-1cd909252bd0
+page-type-slug: story-chapter-royal-road
+title: "Book 6 Prologue: The Ashen Accord"
+slug: 0015-book-6-prologue-the-ashen-accord
+partOf: ends-of-magic
+position: 15
+ownLength: 2039
+unit: words
+ownProgress: 2039
+publishedAt: 2025-05-29
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2314276/book-6-prologue-the-ashen-accord"
+royalRoadId: "2314276"
+markedReadAt: "2026-06-29T20:07:44.886Z"
+---
+
+Kaelis rested his hands on the edge of the balcony and looked out over the practice fields of the Ashen Accord. The field below him was divided into dozens of separate areas by tall walls and magical barriers, and he could see what was going on in every one of the training yards. Weapons drills with swords, spears, and shields. Target practice with bow, siege engine, and magic. But no formation drills. Questors wanted to be champions of battle, and that didn’t involve standing in formation.
+
+His eyes came to rest on the closer ones, where actual combat took place. Monsters roared, and various magical effects licked against the protective barriers as the trainees learned what it was to fight on Davrar. But the arena directly below the balcony was what really drew his attention. A Questor was fighting a group of experienced mortal soldiers, laughing as she hacked through shields and flesh alike with graceful axes.
+
+The fight ended quickly enough, allowing the healing magic of the arena to rejuvenate the challengers. The mortals limped off the field as the victor enjoyed her due adulation from the crowd. There were only a dozen or so Questors waiting their turn, along with a few staff and some other mortals who were no doubt planning to be the next challengers. They looked shaken at the display of bloodshed, and Kaelis wondered how many of them would back out of their plans, regardless of the rewards on offer.
+
+Thankfully, the magic on the arena was excellent, and it was widely known that very few people died in its care. Even without that, the base payment for even stepping out onto the sand was enough to keep the adventurers coming back, to say nothing of the kingly reward for victory against a Questor. It was all a finely tuned system to give new Questors real combat experience, and the arena was one of the things that had helped the Ashen Accord become what it was today. Thousands of Questors had passed through the practice yard as they began their story, and the live combat was a significant part of the experience.
+
+Kaelis turned back to the boardroom, running his eyes over the dozen seats spread around the table. They had all filled in the last few minutes, so he strode back inside. The door to the balcony swung shut behind him, the privacy enchantments activating automatically. “I won’t consume much of our time. We got a message from Garna that justifies a discussion.”
+
+Henrish leaned forward, muscles creaking as he clasped his hands together on the table. “Something that demands the whole board? Is it tied up in her conflict with Badud and his grid?” The last word was laced with sarcasm, as if it barely qualified to be used.
+
+“She wants us to call a Conclave.” Kaelis let the words drop into the boardroom, then corrected himself. “Wants me to call a Conclave, in my position as leader of the Ashen Accord.”
+
+Henrish snorted derisively. “And I want to place the sun in my pocket as a personal possession. Garna and her grid lack any importance, playacting empires in the distant hinterlands of Davrar. Their conflicts are loose dust before the asteroids of the true grids. Where is the pull of this request? Why should we notice it?”
+
+Most of the rest of the board shared Henrish’s opinion and stayed silent, willing to let him speak for them. Kaelis turned back to the man, considering him. Henrish was a consummate politician despite his musclebound appearance, and he’d come to Davrar just after the Ending of Deicide. He didn’t inherently enjoy the world of Davrar, merely the social position granted to him by his status within the Ashen Accord.
+
+“I’ve been on Davrar since the Ending of Wrath,” Kaelis replied once he’d decided on his words. “I fought in the Ending of Deicide, and saw the truth of things. Questors like Garna and Badud don’t distance themselves from the true grids, as you called us, because they lack strength.” He shook his head regretfully, the devastation of long-past battlefields playing out in his mind’s eye.
+
+“Their distance is not a confession of weakness, but betrayal of how little they care for the Distal Expansion. They are the original Questors. They’re here for Davrar, and for the purpose for which it was made. Before we all swarmed in for the entertainment of it all.” He waved his hand around the room to indicate everybody, including himself in the gesture. “They have Insights and artifacts from before the first Ending. I saw Brox strike down Quenfi on the broken continent, and Badud raise a shield that blocked a barrage of Olita. We fought gods together. They were the ones to kill them.”
+
+Kaelis’s gaze grew intense, and he swept it around the room. “They are the hidden masters of Davrar, and are only minor in our games because that is their choice. They prefer building up empires and setting them against each other, instead of our version of the game of Questors. They fight their own battles, but when they decide to involve themselves in ours, we cannot dismiss them. It would take a dozen of us to defeat even one of them.”
+
+The boardroom was silent as everybody digested those words. But then Henrish spoke up again. “But we’re hundreds, plus the rolls of alumni. They’re… what, five?”
+
+“Four.” Kaelis corrected tiredly.
+
+Henrish shrugged as if it didn't make a difference. “Then tell us, if you’re not going to spend our time frivolously. Why should we expend the favor necessary to call a Conclave?”
+
+“Because Badud used an Arrow of Olita,” Kaelis replied. “A weapon fit to wipe out an army of Questors, a relic of a past Ending. An artifact that could turn the tide of one of our wars. Gone, forever.”
+
+Henrish turned one hand palm upwards and looked at Kaelis in befuddlement. “So? He found an enemy worth utmost destruction.”
+
+Kaelis raised a finger to emphasize his next words. “The enemy wasn’t destroyed, according to Garna. It was a mortal, supposedly. She claims that change is coming for Davrar, and that we’ll see proof in future deeds.”
+
+“Deeds.” Henrish caught the word and the implications therein. “She’s claiming that a mortal is going to do deeds worthy of impressing all of us.” His mocking tone made it clear that he thought the chances of that were low. “No deed could convince us to call a Conclave.”
+
+“But the right price could." Kaelis stabbed a finger towards the other man. “The Accord has been at war with the Aleph grid since it existed. Would a victory in that war be worth it? We’d gain back more influence than we spent on the Conclave.”
+
+Henrish’s eyes grew guarded, re-evaluating his position as he finally saw Kaelis’ argument. And to give the man credit, he gave it fair consideration. The Aleph grid was his enemy just as much as it was Kaelis’s, and he would be just as interested in any upper hand they could gain in that conflict. He pursed his lips. “What deed would be weighty enough to convince us the offer is true? Especially on behalf of a mortal?”
+
+Kaelis shrugged. “That Insight wasn’t in Garna’s message. But she asks us for nothing beyond our attention. We should watch the happenings in that part of Davrar and position ourselves for open war with the Aleph. We will only call for the Conclave when the price is paid.”
+
+Henrish shrugged. “Our attention is not free.” He met Kaelis’ gaze, then yielded with a faint dip of his head. “But it is a small price to pay for a potential victory of such scale.”
+
+The rest of the board had been following along quietly. But at this interaction one of them interjected. “A Conclave isn’t fast. If we want one to happen this cycle, we’ll need to start aligning the schedules soon.”
+
+“When the deeds are done, we consider it. But what would be a sufficient deed to convince us to pursue open war?” Henrish leaned back, tapping his lips with a finger. “Clearing a grand dungeon, perhaps? Those are valuable rewards.”
+
+Another board member interjected. “If the deed is to prove their power against the Aleph grid, then it should be fighting Questors. The Fantastic Court, perhaps.”
+
+“The underworld?” somebody else interjected. “Maybe a blight?”
+
+Kaelis rolled his eyes. “That is a campaign of armies and Questors by the score, led by one capable of high wizardry. It would only be possible if this mortal were aided by Garna’s grid and all their resources.”
+
+“Ah,” Henrish said, snapping his fingers as if reminded by somebody. “If Garna and her grid are so impressive, they could manufacture the deeds. We must ensure they aren't manufacturing these deeds to sway us. They must be true accomplishments, not simply a demonstration of Garna and her grid's prowess.” The last word was dripping with sarcasm.
+
+Everybody nodded at that, and Kaelis grunted in annoyance. “We’ll watch for it, but we need only commit to this if we’re impressed. If the deeds are those beyond what four Questors should accomplish, if their help would obviously help us crush Aleph and the Maestro, then we accept the terms. We can demand Garna’s help as well.”
+
+“Only if we want Badud’s grid aligned against us,” somebody else replied, and nobody contradicted them. After all, they were right.
+
+Henrish chortled and moved to stand. “In conclusion. If these mysterious mortals manage to, without aid, impress us with their deeds such that we believe they will help us win a war against the Aleph grid, then we will call a Conclave on their behalf. I do hope it works, but I’ll eat an entire dracolizard if it does. Call another meeting if I’m wrong. And bring the dracolizard.” He vanished as he travelled away.
+
+Kaelis sighed, but didn't pursue the matter any further. "Meeting adjourned." The rest of the board broke up into smaller conversations. A few discussed the new development, but most were focused on other matters. They started filtering out, some travelling away, others walking out the door to attend to business on the campus.
+
+Kaelis watched them go with a grimace on his face. The longer he stayed at the Ashen Accord, the more he understood his elders. The legends that had founded this grid and mentored him and his peers. They were all gone in one way or another, leaving him to run things. Some had returned to the distal expansion, some to their own endings. Most were still on Davrar and had just stepped away from responsibility. He’d promised them he’d run the Ashen Accord until he found a worthy successor. That promise weighed more on him with every passing year, with every stupid argument and every status-seeker that joined Davrar in search of fame and glory - or cruelty and hedonism.
+
+He remembered the last time Sarya had forced a Conclave, and the topics they’d voted on. The political capital burned, and the utter failure that had resulted. Just the memory made him ashamed. He’d been so certain then of what was right. It was an old regret. But time had only intensified the memories, until he felt a helpless fury every time he thought of the current rules. The ones that governed Davrar itself.
+
+If her goals now are anything like last time, then she’ll need all the support she could get.
+
+But it wasn’t him they needed to convince. It was all of the other Questors, all across Davrar. If they did call a Conclave, he needed to be sure to get the message out where it mattered. The other original Questors - they needed to know that Sarya was the real force behind the Conclave. Garna may have been the one to make contact, but he was logically certain that Sarya was the one with the plan. That meant the topic would be important indeed, and legends would emerge from the bowels of Davrar to remind the newcomers of the original purpose of Davrar.
+
+And to show them that Questors today are a petty reflection of what they used to be.

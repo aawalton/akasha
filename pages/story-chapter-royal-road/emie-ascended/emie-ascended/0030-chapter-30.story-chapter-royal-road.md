@@ -1,0 +1,189 @@
+---
+id: 6584014a-68dd-592f-bbff-1b4a9d2e27ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30"
+slug: 0030-chapter-30
+partOf: emie-ascended
+position: 30
+ownLength: 2812
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3558093/chapter-30"
+royalRoadId: "3558093"
+---
+
+“We should have enough cores for all of us to evolve,” Mike said when it was clear I was finished learning my new skill. “Unless someone just really wants to run the floor again, I propose we go ahead and evolve before moving on to the next floor.”
+
+“Yes! I’m so ready for something different,” Cora agreed.
+
+We’d all already agreed to challenge the twenty-first floor for at least a few days before leaving, if for no other reason than to earn more funds before officially becoming adults.
+
+Since we’d need to start paying for things like food and rent as soon as we left the dungeon, spending a few days acquiring more valuable loot seemed only logical.
+
+A few weeks earlier, we’d had to undergo a briefing with the rest of the iron rankers who were approaching their first evolution. The priests and priestesses had made it clear that we were all expected to provide for ourselves as soon as we completed our first evolution.
+
+There would be no more free support or interest-free loans for gear or skillbooks. Once we left the dungeon, we would be officially recognized as adults, with all of the responsibilities that came with it.
+
+They also made sure to remind everyone that upon reaching the first evolution, we would all become very fertile. Birth control was obviously available and cheap, but since unevolved ‘youths’ were functionally sterile, it was an important enough change that they made sure to remind everyone.
+
+The inability of unevolved individuals to procreate was definitely something that hadn’t existed before demons started invading. In fact, there had even been small communities of people who never reached the first evolution, and they had been able to reproduce and have families just fine.
+
+The clergy had provided some other useful information, but the biggest takeaway was that we’d need more funds when we left. And while all four of us had additional funds being held through our respective apprenticeships, it seemed prudent to earn a bit more, just in case.
+
+Realistically, what I’d earned through healing and enchanting was probably more than enough to sustain us for a while, but I knew better than to offer such a thing.
+
+I also wanted to use some of the funds I’d saved to finally get an asolade. I’d already been in contact with a Tamer whose pet had recently given birth, so all that was left was waiting for them to be weaned and buying a companion skill of some sort.
+
+I could get the asolade without the companion skill, which was what I’d done in the simulation. But I wanted a stronger bond – a companion instead of a pet.
+
+“I’m fine with evolving now,” Stephen said, drawing me out of my musings.
+
+“Me too,” I agreed.
+
+There really wasn’t any reason to wait. As much as I liked the scenery of the twentieth floor, I was looking forward to something different.
+
+I was also a little excited about the more ‘open floor’ format, as well as the potential to interact with other delvers inside the dungeon.
+
+There was always a risk that the other groups might become hostile, but such things were rare enough, even if they did occasionally happen.
+
+Every so often, a party (or what remained of one) would exit the dungeon and report that they had been attacked by fellow delvers. The clergy had ways of knowing when someone was lying, and such reports were always taken seriously.
+
+Because nobody was willing to cross the church or the Delver Association, family connections were not enough to save someone if it was determined that they were guilty of murdering other delvers.
+
+Self-defense and duels were two exceptions that were fully allowed by the goddess, but intentionally killing other delvers wasn’t something Dia looked kindly upon.
+
+Of course, someone had to be alive to complain. Otherwise, it took a lot of death to draw the goddess’s attention.
+
+With the room completely clear and hours left before it reset, the four of us settled in and began absorbing essence cores. While we could have attempted our evolutions within my demesne, I didn’t want to risk the isolated nature of the space causing a problem.
+
+Gaining levels inside my demesne had never presented an issue, but I didn’t feel confident that the same would apply to something as important as evolution.
+
+I reached the threshold faster than expected. Had we run the floor again, I would have made it through another room or two at most before I’d have automatically begun my evolution.
+
+It was supposed to be instant, so it wouldn’t have put me in any danger had I crossed the threshold in the middle of a fight. Even so, I was glad to have initiated the process outside of combat.
+
+My surroundings fell away, and I once again found myself in a transitional space similar to the one that I’d appeared in immediately after my ascension to this realm.
+
+“Welcome back,” Rho greeted with a smile. “You have progressed well in the short time that you’ve been here.”
+
+“Thanks,” I said somewhat awkwardly.
+
+I hadn’t expected to encounter the goddess clone again, though I probably should have realized that Ascender evolutions would be a little different than most others.
+
+“Yes. The evolution of Ascenders is handled a little differently from natives. However, I will point out that the rare Travelers who appear in the realm also receive special treatment, at least for the first evolution.”
+
+“How rare is it for individuals to go from one realm to another?”
+
+“Very. Usually, such crossings are part of an agreement with compatible realms.”
+
+“What about cases like Erogos?” I asked, thinking back to the play I’d watched with Stephen.
+
+“There are always exceptions,” the goddess clone said with amusement. “But now is not the time to worry about such things. Tell me, how would you like to balance your advancement?”
+
+While I couldn’t control how my soul developed, I was able to dictate how much essence was dedicated to my mind and body. Without a special constitution, the most I’d be able to dedicate to either area would be eighty percent, leaving twenty percent to go toward the remaining area.
+
+I’d given a lot of thought to how I’d distribute my essence, so I’d already decided to do a 65/35 split in favor of my mind. Most delvers who focused on magic over brawn went with an 80/20 or 75/25 split, with the opposite being true for those focused more on physical strength instead of magical strength or intellect.
+
+Since I fought in melee often enough, I’d added a bit more to my body than I probably would have otherwise.
+
+“65/35, mind to body,” I said. Though Rho could read my mind, it seemed some things required verbal confirmation.
+
+“So noted. Now let’s get started on the fun part – your skills,” Rho said with a grin. “This is always my favorite part of any evolution.”
+
+A list of my skills and their rarities appeared before my eyes, with no distinction between core skills or regular skills.
+
+***
+
+Demesne (Epic)Stasis (Unique/Uncommon)Restorative Healing (Epic)Lightning Bolt (Epic)Divide Space (Unique/Rare)Dimensional Anchor (Epic)Teleportation (Epic)Herbalism (Uncommon)Haste (Rare)Repulsion Aura (Rare)Telekinesis (Rare)Identify (Uncommon)Enchanting (Rare)Ice Blade (Rare)Eruption (Uncommon)Shrapnel (Uncommon)Cooking (Uncommon)Minor Illusion (Common)Gust (Common)Void Strike (Common)
+
+***
+
+I’d made no progress on any of my new skills, but that was to be expected. Even for (Common) skills, it took a while to upgrade them without some kind of experience with them.
+
+Aside from Stasis, which felt intentionally limited outside of my demesne, all of the other skills I’d carried over or manually learned had progressed fairly quickly. And the only reason Lightning Bolt had also made it to (Epic) was because I’d dedicated so much time and effort toward pushing it there.
+
+Though the list didn’t delineate between core and regular skills, I knew that core skills were more significant as far as their impact on the soul went. Therefore, it only made sense to put more effort into advancing them.
+
+“You have quite a lot of skills for someone undergoing their first evolution,” Rho said approvingly. “I’d hoped you would have filled all of your skill slots, but I understand why you chose to keep some slots available.
+
+“Let’s start with the skill you expressed was the most important to you – Demesne. I propose that Divide Space be directly incorporated into the skill, as initially planned. This will completely remove your ability to use the skill outside of your dimensional space, but I doubt that will matter much to you, given how rarely you’ve utilized the skill in such a manner.”
+
+She wasn’t wrong. Aside from training, I hadn’t really used Divide Space for anything outside of my demesne.
+
+“That’s fine,” I agreed, and the skill immediately disappeared from the list.
+
+“I will also grant you an extended range for adding or removing items of any type to the space since you’ve already pushed the skill in that direction,” Rho continued. “Tell me, how else would you like the skill to be altered?”
+
+I knew that her question wasn’t meant to imply I could get anything that I wanted. However, skill evolutions did go hand in hand with racial evolutions, so some changes were expected.
+
+“Aside from more space, which I can always use, I’d like more control over the space. Specifically, I’d like to be able to create distinct biomes in the garden area and alter the flow of time.”
+
+Prior to ascending, my old soulbound space had been capable of both, so I hoped I wasn’t overreaching with my requests.
+
+“I can do the second by altering Stasis and combining it with Haste; however, your first request is not possible at this stage in your evolution. The ability to control the environment directly would be a modification to the boon you received, which you do not qualify for.”
+
+That was unfortunate, but not entirely unexpected. It looked like I’d have to get creative with enchantments once again to make separate biomes capable of sustaining the flora I’d collected over the past year.
+
+So far, I’d been holding everything in stasis, hoping that my first evolution would allow me to alter the environment of my future garden enough to ensure the plants I’d transferred could survive.
+
+“I understand. For Stasis, can we maybe turn it into a time domain outside of the demesne? If we’re combining Haste and Stasis, that should be possible, right?”
+
+Rho smirked at my attempt to push both skills far further than their advancements technically warranted.
+
+“I will grant the equivalent of such a domain within your demesne. However, such an ability outside of your soulbound space would be imbalanced. As a compromise, I will offer you Temporal Aura – a limited aura skill that allows you to control the flow of time for yourself and anything you are directly touching.
+
+“To start, the skill will be limited to objects that are no more than half your size, and the effect can range from 10% of your current temporal speed to 200%, or twice your current temporal speed.
+
+“You will never be able to place yourself fully into stasis; however, the stronger you become, the further you can push in either direction. How the skill develops further will be up to you.”
+
+I was glad that she’d specified the dilation or contraction was based on my current temporal speed instead of something else, especially since every dungeon had some level of time dilation in effect.
+
+On beginner floors, it was only about a forty percent increase, or 1.4x time dilation. However, that rate had increased as we delved deeper, and I was pretty sure time passed twice as fast on the twenty-first floor as it did on the outside.
+
+The change would actually nerf my Haste ability since I’d pushed the original skill to (Rare), which let me use the skill at 2.5x time dilation. But I was willing to take the loss since the skill would be easier to use as a core skill, and I was sure I’d be able to improve it quickly enough now that the artificial limiter on Stasis had been removed.
+
+“Will I be able to use different temporal states within my demense?” I asked. “For example, can I keep the inventory and garden in stasis while increasing the time dilation for the sanctuary?”
+
+“Yes, I will grant you that functionality. However, for now, you will be limited to only two states within your soulbound space at any one time.”
+
+I cheered silently at the news, though based on Rho’s expression, she definitely heard it.
+
+“Thank you,” I said, grateful for the concession.
+
+I didn’t know if I was getting special treatment because of my status as an Originator, or if the goddess was similarly generous with every Dian. Either way, I appreciated the improvements to my skills.
+
+“Moving on to the next skill – Restorative Healing. You have pushed the skill heavily toward perfect restoration while also allowing for natural gains to be incorporated. At (Epic), you’ve already gained minor regeneration abilities. Unless you’d prefer to evolve the skill in a different direction, I will expand your regenerative capabilities significantly, allowing you to regrow major and minor appendages and organs with enough focus and time.”
+
+Rho already knew that I would accept her offer. Gaining the ability to regenerate lost appendages or regrow large patches of skin or internal organs that had been lost would be huge. It would also let me treat a lot more people – people who might otherwise never make it to the front of a very long line of waiting patients.
+
+Amputation and major injuries were a huge problem, and there were very few healers capable of regrowing limbs or organs.
+
+I’d been one of the few capable of reattaching a freshly severed limb – a feat that had taken months to accomplish. This evolution would put my healing capabilities into a whole new category.
+
+“That sounds perfect,” I said.
+
+I still somewhat missed the instant healing of my old skill, Restore, but such a skill worked best immediately after an injury took place. As a party healer, it worked great, but not so much for someone working in a medical facility.
+
+Still, my original skill was good enough that I’d encouraged Cora to learn it when we’d gotten a skillbook for it on an earlier floor. We all agreed that it was good to have a backup healer, just in case.
+
+Along similar lines, the rest of my skills received minor changes and upgrades. Lightning Bolt hit harder, and I was able to specifically exclude allies from potential jumps.
+
+I doubled the number of Dimensional Anchors I could set, bringing me to sixteen individual anchors. The upgrade also allowed me to vaguely sense what was around any of my anchors, though I wouldn’t know how useful the upgrade was until I finished my evolution and got a chance to test things.
+
+I was still limited to a single anchor within any dungeon, but that was not something I ever expected to change.
+
+Teleportation evolved to allow me to target any location that I was sufficiently familiar with, without regard to distance and without the need for a Dimensional Anchor unless I was trying to travel into or out of a dungeon.
+
+While inside a dungeon, I could teleport anywhere on that floor, but I’d have to use an anchor if I wanted to teleport somewhere outside of the dungeon. Similarly, while outside of the dungeon, I could teleport anywhere I wanted except to the inside of the dungeon. If I wanted to enter the dungeon, I had to target whatever Dimensional Anchor I had inside.
+
+The only real downside to my additional freedom was that I had no way of knowing the situation into which I’d be teleporting most of the time since I still hadn’t recovered any kind of spatial sense outside of what was attached to my new Dimensional Anchor upgrade.
+
+It was a minor thing, but relevant if I planned to teleport around the realm eventually.
+
+Herbalism and Identify were information skills, so neither one underwent much of an evolution, nor did they combine. The same applied to Enchanting and Cooking as crafting skills, much to my disappointment.
+
+Repulsion Aura became a passive, which meant it was always on unless I specifically turned it off, and it took very little focus to maintain.
+
+The rest of my skills saw minor improvements and a slightly decreased focus requirement, which was nice. It was also nice that every elemental seed became an elemental sprout, which basically made it easier for me to access those elements and any adjacent elements and aspects.
+
+Overall, it was a significant improvement in my skillset, and I looked forward to testing my new limits on the next floor.

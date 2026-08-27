@@ -1,0 +1,205 @@
+---
+id: bb1a3521-5de2-5053-bcd0-e386c237f094
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty: Family"
+slug: 0061-chapter-sixty-family
+partOf: flesh-eater-demon-evolution-litrpg
+position: 61
+ownLength: 3151
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3006834/chapter-sixty-family"
+royalRoadId: "3006834"
+---
+
+“So it’s not there at all? Not even a piece or something?”
+
+“No.” Callan sounded frustrated. He rubbed his forehead, yanking at his hair. “There were a lot of artifacts and paintings, but I looked through them all. The horn isn’t there.”
+
+Pyre hummed, absorbing the information. Damn, the gallery had been their best bet. It figured it wouldn’t be that easy. “Okay, so maybe they put it somewhere else. A special safe or something.”
+
+“Maybe.” Callan frowned. “I don’t get it, though. There was stuff in there that was way more rare than a demon horn.”
+
+“Value’s in the eye of the beholder, I guess.” Or whatever the phrase was.
+
+Pyre rose from her seat and strode over to the bed. It, like the desk, had a thin layer of dust covering the blankets, but a little dust never hurt anybody. She plopped down onto the mattress, sending a small cloud of the stuff up into the air.
+
+“Well, nothing to be done for now. You can do a full search of the manor once your invisible time recharges or whatever,” she said.
+
+“I guess.” Callan sounded disappointed, but he couldn’t argue with the logic. In the grand scheme of things, one more day wouldn’t kill them—or the demon, to be exact. He glanced over at her. “Did you rest?”
+
+“Doing that now,” Pyre drawled. She laid back and stared up at the dark ceiling, arms crossed behind her head. The ghost frowned.
+
+“Can you—I mean, are you able to sleep?” he asked.
+
+“Never tried, to be honest.” She’d certainly never felt like she needed to sleep, so she didn’t see much point in attempting it.
+
+“You should try,” Callan insisted. The demon chuckled, but shut her eyes obligingly. The ghost was weirdly insistent about this. She figured it couldn’t hurt to try, especially since they were stuck in limbo until Callan could search the rest of the manor.
+
+With that in mind, the demon attempted to “sleep,” which mostly involved shutting down her thoughts and trying her damndest to lose consciousness.
+
+To her surprise, she actually did feel some of that grogginess from earlier return. A heaviness began to sink into her—one limb at a time. Her senses dulled until her surroundings were nothing more than a void of sound and sensation. Everything faded.
+
+Finally, she fell asleep.
+
+Daphne was up bright and early the next morning. She’d barely been able to sleep after returning to her room, constantly waking up in stops and starts. More than once, she moved over to the far wall to see if she could hear what Pyre and Callan were doing, but it was always quiet. The soundproofing in the manor was top notch, which was good in most cases, but bad for snooping.
+
+Since she’d barely slept anyway, she jumped out of bed the moment the first rays of sunlight filtered through her curtains. After getting ready, it had been easy to find John and tell him about Pyre’s abrupt room swap. The butler hadn’t looked particularly pleased (not that he ever did), but he hadn’t argued with her on the subject, simply bowing stiffly and turning towards the servant’s quarters.
+
+About an hour after that, one of the guards informed her that her uncle wanted to talk to her. Daphne hadn’t seen the man all morning. She’d thought he’d already left for the day, but apparently not. Taking a deep breath, she thanked the guard, steeled herself, then made her way over to her uncle’s office.
+
+At this hour, the manor was noticeably quieter. Daphne passed by a few servants preparing for the day, but overall there was much less movement through the halls. It was peaceful, in some ways. Lonely in others. By the time she reached the office, there were still a few rosy hues lingering in the morning sky.
+
+Daphne didn’t bother knocking. Her uncle had called her here, so he should be prepared. She grabbed the doorknob and yanked it open, revealing the office in all its glory.
+
+The window was cracked open, she noted. A faint breeze rustled scattered papers, the curtains billowing gently. Her uncle stood behind his desk buttoning up his outer coat, and he jumped a little when the door opened. Daphne snorted internally, but she kept her face stoic.
+
+“You called me?”
+
+Lord Bellhein cleared his throat. “Daphne, good morning,” he said. There was a hint of disapproval in his words—subtly chastising her for not starting with a greeting—but she was too preoccupied with the events of the night to bother with politeness. There were bigger things to worry about.
+
+Daphne’s eyes swept around the room. She could see the carriage waiting outside the manor entrance through the window. It looked like her uncle had called her just before he headed out for the day.
+
+“You’re going to the sanctum again?”
+
+“Briefly, yes. I have a meeting with the magistrate.”
+
+Daphne hummed in acknowledgement. That wasn’t uncommon, especially now with the Empire’s potential invasion looming over them. The magistrate was probably the second-most paranoid person in Magrath after Lord Bellhein himself. She frowned.
+
+“I got a letter from Edmund yesterday,” she said abruptly.
+
+Her uncle’s hands stilled. Slowly, he resumed buttoning his coat again. “Is that so?” His voice was light.
+
+“He says you never responded to his last letter.”
+
+Lord Bellhein smoothed out his coat. “I’ve been busy lately. It must have escaped my mind.” He cleared his throat. “I’ll respond to him when I return later today.”
+
+Daphne narrowed her eyes, a fresh spark of irritation flaring. It figured that that brief stint of “fatherly behavior” wouldn’t last. The man wouldn’t even meet her eyes. Before she could open her mouth, though, her uncle quickly continued.
+
+“John tells me you requested your bodyguard be moved to a new room.”
+
+So that’s what this was about. John must have told him immediately after she’d given him the news, which, to be fair, she’d expected.
+
+“I did.” Daphne raised her chin, daring him to argue. “Considering she’s my personal guard, I thought it would be best for her to stay close by.”
+
+Her uncle nodded slowly even as the corners of his mouth tilted downwards. “Are you sure that’s wise? You know very little about her. I would’ve thought you’d want her as far away as possible, considering how much you value your privacy.”
+
+Daphne smiled thinly. He really had no idea about the situation at all. He would probably faint if he knew about Callan’s existence.
+
+“Since you vetted her,” she said, “I thought I’d trust your judgement. And I don’t see how a closer room would be any more of an invasion of privacy than hiring her to follow me around in the first place.”
+
+A beat of silence passed at that. The curtains billowed, a cool breeze gusting inside. Daphne could hear footsteps in the hallway as more of the manor woke up and prepared for the day.
+
+Finally, Lord Bellhein sighed and sat wearily down at his chair, breaking the tension. In the morning light, the lines and shadows of his face seemed much harsher than usual. He looked older like this. Older and weary.
+
+“Daphne,” her uncle began, one hand rubbing at his forehead, “I know I haven’t been a perfect guardian.”
+
+She snorted, and this time she didn’t bother to hide it. Her uncle dropped his hand and turned to face his niece.
+
+“I am well aware,” he continued, “that I’m not suited to… this. To leading the Bellhein family.” He gestured vaguely around him. “Ever since I was young, I’ve always been too shy, too unsure, too cowardly.” He paused, voice quieting a little. “My sister—your mother—was the exact opposite of me.” A wry smile appeared on his face. “I used to count my lucky stars that I was born second.”
+
+Daphne stilled, her eyes widening a little. Her uncle almost never spoke about her parents. Even when he did, it was always in vague terms. Most of what she knew about them came from her own research and from talking to older guards and servants. She’d clung to those stories like a lifeline as a child—she still did, in a way. Everyone always told her that she was like her mother, and that had always been a point of pride.
+
+Her uncle continued speaking, voice low as his gazed shifted downwards to stare at the grain of the desk. “No one expected the—the attack, to happen. One day. In one day, my wife, sister, and brother-in-law were gone.” Grief and bitterness alike hung heavy in his voice. Daphne had never seen the man look so defeated before.
+
+She knew the story well. This was a topic she couldn’t even coax the servants to talk to her about, so instead, she’d poured over every old news article and record that she could find. Together, they painted a clear picture.
+
+Back when she was still a baby, her mother, then the head of the Bellhein family, had left on a trip to the capital with her husband and sister-in-law. It was a standard trip—more of a pleasantry than anything. Nothing had been out of the ordinary. They were supposed to be back by the end of the week.
+
+Then, one hour out of Magrath, a demon attacked their carriage.
+
+The attack was completely random. The hellhound wasn’t intelligent, nor could it be traced back to any greater demons. It had simply pounced on the closest humans it could find, and just like that, almost all of the elder Bellheins were dead in one fell swoop.
+
+No one knew how to react to it. Daphne had read through countless articles suggesting a conspiracy at play—no one wanted to accept that such powerful people could be killed so senselessly. And yet, as more and more investigations turned up empty, that soon became the undeniable conclusion. The hellhound responsible was captured and killed, but it hardly mattered when it had already done so much damage.
+
+She’d seen the articles about her uncle’s sudden rise to the head of the Bellhein family, too. All of them had been filled with doubts. He’d been known as the quiet, unsociable younger brother of Lady Bellhein up until then. He was completely unprepared for the role, and his first few years as head had been an endless barrage of criticism.
+
+In front of her, her uncle slowly leaned back in his chair, lifting his head to face her again. “I know I’m far from perfect,” he continued, “and you have every right to be angry with me. But believe me when I say that everything I do is to protect this family. If anything were to happen to you or Edmund, I—”
+
+His voice cracked, and he shook his head. Daphne could see his knuckles turning white from how hard his fingers were clenched. The man took a deep breath, and after a few moments, his face settled back into something resembling his usual stoic mask. Slowly, he rose and straightened his coat.
+
+“I need to be going soon,” he muttered. He cleared his throat. “You are dismissed.”
+
+Slowly, Daphne nodded. Anything else she’d wanted to say had died in her throat, and now, looking at her uncle, she couldn’t help but notice again how tired he looked beneath his stiff posture and perfectly ironed clothing. She hesitated as she reached for the doorknob, pausing at the last second to glance back.
+
+“Have a good day, Uncle,” she said. “Stay safe.”
+
+The man blinked, surprised. After a few beats of silence had passed, he slowly nodded.
+
+“You too,” he said.
+
+It was a relief to get away from the office. Seeing her uncle act so… open had left her unsettled in a way that was difficult to explain.
+
+On one hand, she felt more sympathy for the man than she ever had before. She’d often thought about what her life would be like if her parents were still alive, but she’d rarely considered the amount of grief her uncle was carrying. The burden of being thrust so violently into a role he’d never prepared for.
+
+On the other hand, a part of her couldn’t help but remain frustrated. If this was how he felt, then why didn’t he say something sooner? Why didn’t he act like it more? Why had he left his son questioning how much his father loved him for so many years? She couldn’t help but wish that it was Edmund who’d been in the office to hear that.
+
+Daphne shook her head, forcing herself to focus again on her main concern: Pyre and Callan. The meeting may have knocked her off balance, but she had to remain concentrated. There was a ghost in the manor, and she needed to figure out if he (and Pyre) were threats or not.
+
+Squaring her shoulders, Daphne stepped up to the room she’d left them in the previous night. The door was closed, and she couldn’t hear any noises inside. After taking a moment to check her surroundings, she placed her hand on the doorknob. When she turned, it clicked. Unlocked. Daphne promptly swung the door open.
+
+She was immediately greeted by a half-strangled yelp as Callan shot backwards. She shut the door behind her and turned to face the room.
+
+Hovering right next to the closed curtains, Callan was staring at her with wide eyes. He was in that silvery, translucent form he’d briefly shown the previous night, and combined with the obvious floating, he looked the most ghost-like that she’d seen so far. Daphne tensed, and her gaze shifted to the side.
+
+A lump lay on the bed, and upon closer inspection, she realized it was Pyre. The guard had apparently slept directly on top of the blankets, and she was rolled onto her side so that her back faced the door. She hadn’t so much as twitched when the door opened. Was she still asleep?
+
+“What’re you doing here?” Callan whisper-yelled. He wasn’t moving any closer—in fact it looked like he was considering sinking into the wall to get away—which did ease some of Daphne’s nerves. It was hard to think of the ghost as a threat like this.
+
+“Just checking up on you guys,” the noble said. “You should really lock the door, by the way.”
+
+At that, Callan frowned and glanced over at Pyre’s sleeping form. “I—she must’ve forgot.”
+
+“She’s still asleep?” Daphne stepped a little closer. The fact that the guard hadn’t used any of the blankets made her frown, but she wondered if it had to do with all the time she spent traveling. She might be less comfortable sleeping in a proper bed.
+
+Callan nodded, eyes still wary as he watched her. “Yeah. She was really tired last night.” His voice was thick with worry and concern. Daphne couldn’t help but soften a little. Regardless of what lies the two might be telling, she could tell they did genuinely care about each other.
+
+“…The ichor-poisoning, right?” So much had happened that she’d almost forgotten about it. Pyre had already been noticeably more tired the previous day, and the events of the night would only have made it worse.
+
+Callan nodded slowly. “I think she’ll be better after she wakes up,” he mumbled.
+
+Silence hung heavy in the room. The ghost still wasn’t moving closer, and Daphne was, in a rare moment for her, at a loss for words. What was she supposed to say to a ghost? ‘Good morning, are you feeling evil?’ ‘Did you drain someone last night?’
+
+Her eyes darted around, eventually landing on the desk. The rest of the room had remained untouched, but a few books lay scattered across the desk’s surface, taken from the bookshelf standing against the wall. Those books were mostly decorative—pulled randomly from the manor collection. This was the first time she’d seen a guest actually take any out.
+
+One of the books was being kept open by a paperweight (Pyre must have done that for Callan before going to sleep), and a large paper insert had been spread out across the desk. It was a diagram of a rune circle, Daphne realized. She turned to the ghost.
+
+“You’re a mage?”
+
+Callan blinked. “Uh, yeah.” He shifted uncomfortably. “I was when I was a human, and I’m still interested in magic, so…” His voice trailed.
+
+A magic-casting ghost. That only made him more dangerous, but a part of Daphne couldn’t help but be intrigued as well. She’d never heard of a ghost being able to use magic before, but if he’d been a mage before dying, then it made sense. If she’d died and became a ghost and was still fully conscious, she’d probably continue studying magic too.
+
+Her eyes scanned the open book again, and she squinted.
+
+“So… you use runes?”
+
+“And sigils.” Callan frowned. “…You’re a mage too, right?” he asked tentatively.
+
+“Yeah. I don’t bother with runes, though.” Her voice was dismissive.
+
+The ghost paused at that. “Bother with?” He sounded a little affronted, which should maybe make Daphne nervous considering what he was, but the fact that he was more visibly annoyed than she’d ever seen him be so far and still didn’t look or act threatening was a good sign.
+
+“They’re a waste of time,” Daphne said bluntly. “You can achieve the same thing with hand signs. You don’t need a pen for those, and they’re faster.”
+
+“You can’t combine them as easily,” Callan argued. “Sure they’re good for simple spells, but complex ones need more precision.”
+
+Daphne narrowed her eyes. “Simple? You don’t know what you’re talking about.” She nodded her head at the diagram. “You can cast equally complicated spells as long as you can think quick. Sigils need too much prep time. They’re inefficient.”
+
+Any lingering nervousness on the ghost’s face had vanished in favor of growing irritation. “If you need to cast spontaneously, you can just use a chant. There’s no point in using chants and hand signs. And if you can think ahead, you can prepare all the runes you’ll need for a whole week!”
+
+Daphne took a step forward. “Then someone destroys your runes, and all your fancy prepwork is useless!”
+
+“If someone cuts off your hands, you can’t use hand signs either!”
+
+“And why the fuck would a mage be in hand-cutting range?”
+
+“I don’t know, it could happen!”
+
+“Yo.”
+
+Daphne paused, mouth half open and finger pointed accusingly at the ghost. She spun around.
+
+There, lounging casually on the bed, Pyre had rolled over and was watching them with amused grey eyes. At some point during their argument, she and Callan had moved closer, and they now stood (and floated) less than a foot apart. Daphne hadn’t even noticed.
+
+“Not that this isn’t interesting and all,” the guard drawled, “but your breakfast’s gonna get cold if we don’t head to the dining hall soon.”

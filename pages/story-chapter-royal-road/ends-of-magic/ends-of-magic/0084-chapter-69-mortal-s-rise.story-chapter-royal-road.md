@@ -1,0 +1,203 @@
+---
+id: 74c04a32-b391-5eea-8561-e8554942919e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: Mortal’s Rise"
+slug: 0084-chapter-69-mortal-s-rise
+partOf: ends-of-magic
+position: 84
+ownLength: 3249
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3222149/chapter-69-mortals-rise"
+royalRoadId: "3222149"
+---
+
+Nathan tried not to wince at the loss of the dagger. It had been one of their more impressive pieces of loot from Sussu’s vault, the extra-resiliant adamantium blade that had supposedly killed the first lich. Sarya had handled it with a sense of awe, and she’d informed the Heirs of its history and how important it was that Sussu had held it instead of the Aleph Grid. But now it was dust flaking from Nathan’s fingers.
+
+I hope nobody holds that against me.
+
+The audience was in turmoil, with some people cheering his victory, others bemoaning it, and still more in desperate discussion about Nathan's speech. Nathan didn’t have the attention to tune in to any specific conversations, but he felt the eyes of a hundred thousand people on him and the flood of excitement that brought. Live or die, he’d shown his mettle already.
+
+That didn’t stop his anxiety about the next duel. The first fight would have been certain death if he hadn’t had just the right Insight waiting to go, and he didn’t have any more of those waiting in the tank. He had to hope that the combination of overpowering antimagic, near-immortality, and his various other enhancements would win against whatever the enemy threw at him. His real worry was one of those rods of annihilation, but he’d do his best to deal with that if it came down to it.
+
+Or just bore a hole in the side of the crystal and dare them to vaporize the arena.
+
+What he wasn’t expecting was Badud to materialize opposite him, looking both terrified and resolute in equal measure. Nathan just looked at the Questor as the arena flashed its countdown. “What? Why are you here?” He had been trying to bait Badud in to fight, but was almost certain the mage wouldn't take the bait. He was terrified of Nathan, and they had ample evidence that Nathan would win this fight. Then he blinked in realization. “Oh, you have a rod.”
+
+Badud bared his teeth at Nathan. “I would never stoop to self-immolation. I will demonstrate the supremacy of magic!”
+
+Nathan didn’t trust a word that came out of Badud’s mouth, and the moment the duel started, he sprinted forward as fast as he could, hoping against hope to reach Badud before he could snap a hidden rod. But instead of reaching for a pocket, Badud flourished and cast a powerful wind spell towards Nathan.
+
+He was incredibly confused for a split second. Badud was a powerful wizard, with spells in his repertoire that could simulate black holes, alter time, or create lethal amounts of radiation. Badud was arrogant, but he wasn’t dumb, and he knew that none of his arsenal would work on Nathan. So why was he using the kind of spells a mage of the Ascendant Academy would learn in their second year?
+
+Nathan’s question was answered a moment later when the wind struck him as an entirely physical force and threw him backwards. It carried no mana at all, and Nathan’s magic sense was able to detect how Badud’s magic was isolated to the aether. He was directly translating his magic into a physical effect without the intermediary of mana.
+
+“Did you rework your entire build just to fight me?” Nathan asked in surprise, though he had to shout to stand a chance of being overheard. He was fighting his way into the wind, but didn’t feel especially concerned. If this was Badud’s trick, then it wasn’t genuinely dangerous.
+
+The Questor didn’t answer, just snarling as he unleashed his next spell, a flare of light so intense that it burnt out Nathan’s optic nerve and started to cook his skin. He also kept up the wind spell, keeping Nathan back. Nathan let the wind take him, flying backward to gain distance from the lethally bright spell. His back slammed into the crystal wall of the arena, and he stuck there, pinned by the wind.
+
+Nathan shrugged internally. He wouldn’t be winning this fight with his fists. He’d already wrapped his aura around Badud, ready to respond to anything that was actually dangerous. It would take almost an hour for this situation to drain his resources. From the feel of Badud’s mana pool, the other man did have the endurance for that. The crowd would be bored to death by that time, but Nathan would be dead. He wasn't planning on letting it get that far. Still, every moment he let this go on drained resources he might need for the last duel. Nathan tightened his aura and bored it into Badud’s mana pool, draining away his mana. He was not gentle, ripping and tearing at the structure that let the man cast magic. He refrained from taking the final step and severing the man’s magic entirely, though partly that was because he was distracted.
+
+Nathan’s power was deep in the aether, inside what he might call Badud’s astral body. He felt something else in there, something detached from the Questor’s magical abilities. It was a complex knot of power tethered to Badud on a fundamental level. Nathan didn’t understand it, but he was pretty sure he knew what it was. That was the thing that made Badud a Questor. His connection to the parts of Davrar that let him Travel, and resurrect, and whatever other benefits a Questor enjoyed. Perhaps even his connection to the system of levels and Talents itself. It was deep, deeper than Nathan had ever gone in the aether, and he could only feel it because of how much of his aura was invested in draining Badud.
+
+Nathan was tempted — oh so tempted — to tear it all down. He wasn’t certain he would succeed. The power felt more fundamental than even the Seals had, more baked into the structure of the world than anything he’d wielded his antimagic against. But Nathan had the means, motive, and opportunity to give it a shot. He could follow it up by killing Badud, and this time it would probably stick. If he’d had this opportunity in the skies over Giantsrest when he’d first caught the man, he would have taken it in an instant.
+
+But now his regenerated sight was set on other goals. Perma-killing Badud here and now would demonstrate that Nathan’s threats had teeth. It would make the Questors consider mortality more than any speech he could give. But it would also tell them he was willing to kill them, and based on his interactions so far, he didn’t think that would go down well. It would lose them the conclave, and make Nathan and by extension the Heirs the most hunted individuals on Davrar. Even permanently cutting Badud off from his magic would have a similar effect, if lesser. Nathan almost did it anyway, just because of how furious he was with the whole situation. But he settled for merely “damaging” his opponent’s magic in a more severe way than he had previously. Badud would still have a path back to magic, but it would be long and arduous.
+
+It would also commence after he respawned. The spells had cut off when Nathan had drained Badud’s magic, and Badud had collapsed when Nathan savaged his connection to magic. Right now, the Questor was rolling around on the floor and clutching his head, mewling with pain. Nathan walked over to him and felt his spirits rise at the sight. If he couldn’t permanently kill the man as punishment for everything he’d done, at least he could humiliate him in front of a massive audience. He didn't even have to resort to torture.
+
+Nathan squatted down in front of Badud and pitched his voice to carry. “This is all your fault, you know. I would’ve gladly learned magic. It was everything I ever wanted back on Earth. But never as part of Giantsrest. You built a society based on slavery and mind control. When I fought back, you abducted my friends and forced me to attack. When we fought, you cast the spell that destroyed Giantsrest. After I won, you doomed a continent for your own pride and forced me to look for other solutions. Every step of the way, you forced my hand. Now we’re here, and I’m killing you for the fourth time. I think you know what will happen if there's ever a fifth.”
+
+Then Nathan crushed Badud’s skull under his heel and looked around to the audience, his expression calm over the roiling turmoil of his emotions. He wished he’d done so many different conflicting things. He thought of ways he could have been more political with his victory, or how much more he could have hurt Badud before killing him. His brain was awash with ways he could have given another speech about mortality before perma-killing Badud as a rather final point of emphasis.
+
+Quit it. You did fine. You’ve got one more duel left.
+
+Nathan took his position and braced himself for the last duel, dreading whatever he was about to face. When the opposing spot was filled, Nathan wasn’t sure if he should be pleased or not. On the one hand, he suddenly wasn’t worried about being vaporized by antimatter. On the other, his opponent was the person who’d nearly killed him most recently.
+
+The arena flashed its countdown, and Kamus gave Nathan a friendly smile and a pleased wave. “Greetings! I’m glad Davrar chose me to be your final opponent. Evesor wished it to be some impressionable fop with our last rod of annihilation, but I judged that a poor reward for your…” he waved towards Nathan, encompassing him from his bare head to his naked feet as he searched for words. “... bravery, talent, and overall majesty. Truly an Algoa-blessed showing in word and deed.”
+
+“Thank you. I think I got my message across.” Nathan’s reply was tinged with sarcasm, and he relaxed slightly. Kamus thought Nathan was fascinating, and probably wanted to learn more about his antimagic. He’d happily kill Nathan in the course of that learning, but Nathan didn’t think that was his true goal. The Questor also wasn’t making any aggressive movements, and he was keeping his magical domain tight to his body.
+
+Kamus laughed delightedly. He sounded the same as he had on the battlefield when he’d gotten the chance to test Nathan’s antimagic. “I would say so! I only refrained from challenging Mirus because I wanted another chance to match mana with you. You and those wonderful Talents of yours serve as a mighty puzzle, and I will take another chance at it.” He slammed his fist into his palm. “You will find my magic more of a challenge than that wretch Badud.”
+
+“I’ll bet,” Nathan said without much pleasure, getting back into a fighting stance and readying his aura. He wanted to keep this fight jovial, to keep the Questor engaged in conversation. He was much more likely to give Nathan breathing room if he could engage in some banter in between. Nathan was hoping to avoid a fight like the battle, where Kamus enhanced his body and went toe-to-toe with Nathan physically while attempting to drain his resources
+
+That wasn’t what Kamus started with. He leveled a hand at Nathan and spoke in a reverberating voice that almost sounded like one of Khachi’s prayers. “[Edict: Disintegration].”
+
+Nathan launched himself sideways to dodge the thin beam of power, but it bent in a way Nathan had never seen from that spell and connected with him regardless. The magic carved into Nathan’s aura in a way no spell had since he’d fought the Blightmind, and he caught it with his upraised hand. The magic started eating its way through his flesh, eating through his hand and up his arm. Nathan regarded the slowly disintegrating wrist with humor, then looked past it to Kamus. “On my first day on Davrar, I lost this arm to a disintegration spell, just like this.” He held up the limb, watching the line of destruction creep past his elbow. “It capped my first magic resistance Talent, and pushed me to develop my regeneration.”
+
+Kamus hadn’t attacked again. He was watching the effect of his spell gleefully, and he chortled at Nathan’s words. “Truly? A prophetic cycle. I am glad to remind you of such events. But can you survive this one?”
+
+Nathan shrugged, the motion awkward now that the destruction was reaching his shoulder. “Pretty sure. One way to find out.” He’d had a chance now to map out what Kamus had done, and it was an effect beyond wizardry. He’d imposed a law on reality with the assistance of Davrar, creating a force in the deeper magic that mandated that his spell would find its target and would not stop until Nathan was dust. His antimagic should have defeated the spell easily, and his regeneration should have outpaced its damage. But with the edict, Davrar mandated that the spell won, and so it did.
+
+But this was exactly the force Nathan had been practicing with recently. He clamped down with his conscious attention, chipping away at that law. It was a borrowed piece of Davrar’s power, and he wore away at it until it snapped. The disintegration spell sputtered and died in an instant, and Nathan’s arm grew back in seconds. He cocked an eyebrow at Kamus. “Do you want to try that again?”
+
+The Questor laughed again and clapped, the childlike glee contrasting strongly with his sagely appearance. “But of course! [Edict of Fate: Firestorm].”
+
+The spell that emerged from Kamus didn’t behave like a normal fire. It was a raging inferno with no obvious power source, akin to the fire elemental Nathan had fought in the pass above Halsmet. Like that monster, it wanted to devour Nathan, and it filled the arena in a conflagration of magical fire. It scorched all of Nathan’s hair off in an instant and started crisping his skin.
+
+Nathan stopped breathing to avoid inviting it into his lungs and reached out with his antimagic. The imposed law here was both simpler and broader, a basic declaration that this fire would burn everything without end. Kamus hadn’t even left an exception for himself. That made it more powerful. To break it, Nathan had to pit the raw strength of his antimagic against Kamus’s edict. But this was the second time he was doing that, and it took only a little longer than it had for the disintegration spell.
+
+The arena cleared of flame, revealing a slightly scorched Kamus patting out a fire on his beard and looking at Nathan in surprise and admiration.
+
+“No more free shots!” Nathan yelled as he ran towards the Questor. He got the impression that Kamus would be happy to experiment with Nathan’s antimagic all day, and Nathan had to choose between letting that happen and forcing things too hard. He figured that at least being upfront about it might prevent the other Questor from pulling out his biggest guns. If nothing else, he thought there was a chance Kamus might be able to directly transmute antimatter, or use that edict of his on a nuke spell.
+
+Kamus didn’t seem offended, shaping his own domain into a pair of projections springing forth from his hands like blades. “Then let us exchange in close combat, and decide the true primacy of magic and its opposite!” The elderly man seemed to be having the time of his life, looking like an old master finally able to indulge in his truest passion centuries after he'd outstripped everybody who could give him a challenge.
+
+Nathan eyed the blades warily. They would be invisible to anybody without a magical sense, but to Nathan’s eyes they shone with power. Kamus had total control over the mana within and could probably control it to do anything he wanted. Nathan didn’t let that slow his forward progress, and he condensed his aura down until it formed a projection of his own. He didn’t bother forming it into a blade, since giving his antimagic a sharp edge wouldn’t do anything, or tethering it to a body part. He could move it faster with his mind.
+
+Kamus slashed at Nathan, and Nathan interposed his magic-annihilating aura. The two powers clashed, ultimate magical might against its utter denial. There was no physical force involved in the collision, but a ripple of power crashed through the aether, visible in the physical world as a prismatic shockwave. The other blade of magic came around and he flickered his antimagic to block, sending another pulse of raw magic snarling through the arena.
+
+The fight continued, Kamus attacking and Nathan defending. The Questor had withdrawn his domain from his own body to empower his blades. Nathan felt the strain at every clash, and he knew his Focus was dropping fast with the effort of keeping his aura so tightly bound. But he couldn’t help but mirror the grin on his opponent’s face. This didn’t feel like a duel to the death; this felt like an exhibition match where they both were able to push their powers to the limit and explore untested interactions.
+
+“What is the purpose of antimagic, but to beat magic?” Nathan asked, posing the question to himself, Kamus, and Davrar. “You can destroy cities. All I can do is deny you.”
+
+Kamus paused on his next blow, dipping his head in acknowledgement. “But does that mean you win this contest?”
+
+“It does,” Nathan answered with confidence, chopping down with his hand and guiding his antimagic with it. Kamus interposed both shards of his domain, catching the metaphysical blow. But this time, Nathan leaned into the technique physically and spiritually, committing all of his antimagic to the impact point with confidence that he would win the contest. After all, which should come out on top? The omnipotent tool, or the weapon that was specifically crafted to defeat it? This moment was a test of Davrar, of magic itself. If Kamus won, then magic stood supreme over all. If Nathan did, then magic had a counter.
+
+Nathan's antimagic smashed through Kamus’s domain and shattered it, then swept through the man’s body. It stripped away a number of self-empowering spells but did no additional damage. Nathan closed the distance and grabbed the Questor, though not as aggressively as he could have.
+
+Kamus didn’t resist. He quirked his mouth and let his arms hang limply at his side. “It is so. Magic does not hold unchallenged dominion.” He gave Nathan an acknowledging nod and closed his eyes in anticipation of the blow.
+
+Nathan tried to make it quick and painless.
+
+Permanent Talent 1: Magical Destruction 10
+
+Permanent Talent 2: Distributed Immortality 2
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1337
+
+Bottomless Stamina: 113755/134700
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 951
+
+Limitless Focus: 3829/9610
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 7
+
+Forewarning 10
+
+The Truth of Magic 8
+
+Evasion 5
+
+Wizard’s Palace 7
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

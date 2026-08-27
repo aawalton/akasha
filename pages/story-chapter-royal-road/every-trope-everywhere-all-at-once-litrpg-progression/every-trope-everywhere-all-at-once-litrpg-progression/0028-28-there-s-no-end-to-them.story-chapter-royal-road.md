@@ -1,0 +1,231 @@
+---
+id: 7ffebdcb-2e01-52e5-b0f1-cb0a79868d74
+page-type-slug: story-chapter-royal-road
+title: "28 - There’s No End to Them"
+slug: 0028-28-there-s-no-end-to-them
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 28
+ownLength: 1887
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3458636/28-theres-no-end-to-them"
+royalRoadId: "3458636"
+---
+
+We readied our weapons as the Porcelain Harpies, Gargoyles, and Chainbound Knights surrounded us.
+
+Kaelor wielded a small blade, Talon carried a steel-framed slingshot loaded with pebbles, Reina held the Tree Sentinel’s Spear I had given her, and Meriel and I carried staffs.
+
+Meriel tugged her robes. “Stay in here, alright Noodle? It’s dangerous out here.”
+
+He briefly poked his head out, letting out a soft “Fweee”.
+
+I laughed. “Looks like you’ve already accepted his name, huh?”
+
+“It does have a better ring to it than I thought.”
+
+“Of course it does. It is from me, after all.”
+
+I looked back at the enemies surrounding us. They hovered in the air, as if waiting for the right moment to strike.
+
+“Let’s stick close,” I told Meriel.
+
+She nodded. “Sure.”
+
+The main reason I said that was because of my two passive skills: [GUIDED MANAFLOW] and [MERIEL’S ACKNOWLEDGEMENT]. With her beside me, my mana control would increase, and I would also be able to learn some of her spells just by watching her.
+
+“Take formation!” Kaelor yelled. “I’ll handle the knights. Reina’s got the gargoyles, and Talon will go for the harpies. Meriel and Allene—stay in the center and support any side that needs it.”
+
+We nodded and took formation. Reina rode on top of Tuna, while Talon flew away with his wings. The moment we separated, the monsters dove at us from all sides, trying to overwhelm us with their numbers.
+
+Instead of letting the Chainbound Knights come to Kaelor, he attacked them first. He jumped off his griffin and used wind magic to sweep through the air, flying through and slashing them and their chains. Realizing they were resistant to physical attacks, he cast a spell on his blade, enchanting it with a green glow. Every time he sliced the air, gusts of sharp wind shot out from his blade, cutting the knights. The attack was effective, as several knights were severed from the chains that held them, causing them to fall through the skies toward the void below. Still, their numbers were vast.
+
+“Kaelor should be fine,” I said. “We should focus on Talon and Reina.”
+
+I turned to Meriel, noticing that she had already cast several spells to help the others. Reina and Tuna did surprisingly well, holding off the gargoyles alongside Meriel’s help.
+
+While Reina struck them down with the Tree Sentinel’s Spear and the occasional Fireball, Tuna twisted wildly through the air, forcing the gargoyles to approach one at a time instead of surrounding the two.
+
+As for Talon…
+
+“Gah! Get away from me, you creeps!” he cried.
+
+That’s right… Harpies were afraid of Porcelain Harpies, weren’t they? We gave him the worst possible matchup.
+
+He missed most of his slingshot attacks, doing nothing more than flying around in circles, dodging the enemy attacks. At the very least, he wasn’t dying.
+
+Tuna flew through the air as quickly as ever, chomping the harpies’ wings off and using her tail as a whip, while Reina stabbed anything that got too close with her spear. Because of Tuna’s erratic movements and sheer size, many of the enemies warily positioned themselves far away. Eventually, they managed to surround Reina, Tuna, and Talon.
+
+“Meriel, over here!” I shouted, pointing my staff at the Porcelain Harpies.
+
+She turned and cast a spell without hesitation. It was some kind of gust of wind, knocking all the enemies back and stunning them momentarily. I followed up with Ember Shot, shooting several bullets of fire. Several landed, and their wings caught on fire, causing them to screech and spiral down.
+
+But their screeches weren’t just for show. It was their last attack.
+
+I felt a slight headache, and the griffin I was riding couldn’t stop shaking his head, as if trying to throw something off. Meriel’s griffin suffered from the same thing, and even Tuna seemed to be struggling just as much.
+
+If I remembered correctly from inspecting the Porcelain Harpies, their screeches were able to disrupt our concentration and panic any nearby mounts.
+
+The rest of the harpies and gargoyles took full advantage of the situation. Most of them immediately swarmed Talon, seeing that he was the only one alone in the air. The others attacked Meriel and me. We tried casting our spells, but they were slower than usual since the screech had hindered us.
+
+One of the Porcelain Harpies lunged toward me with its claws stretched out. My griffin dodged to the side, allowing me to hit it with a Fireball. I looked over at Meriel, and she was locked in a clash between a harpy’s claws and her staff. Thankfully, the effects of the harpies’ screeches had mostly worn off by then, so I quickly cast a gust of sharp wind, slicing the harpy’s wings off and sending it falling through the sky.
+
+“Thanks,” Meriel said. “Since when did you become so comfortable with wind magic? I thought seeing you cast it back at the Sky Spear Toss game was just luck, but it doesn’t seem like it at all.”
+
+I smiled. “Natural talent.”
+
+But of course, it was just because of my stat points and passive skills. Even so, I was capable of doing a lot more. I quickly called [INSPECT] on myself.
+
+[PROTAGONIST: Allene]
+
+Level: 121 (+1)
+
+Strength: 20
+
+Agility: 22
+
+Vitality: 20
+
+Endurance: 3
+
+Intelligence: 19 (+1)
+
+Wisdom: 35
+
+Unallocated Stats: 44
+
+If needed, I could just use those stat points and have a much easier time now, but looking at my Endurance stat made me a little scared.
+
+I’d rather save the points until necessary instead of dumping everything into Intelligence and Wisdom. In a world this unpredictable, spending all my stat points ahead of time felt dangerous. What if I suddenly needed to run from a giant ball rolling toward me?
+
+…
+
+I didn’t just foreshadow something, did I?
+
+Ah, whatever.
+
+I heard a cry.
+
+I turned and saw Talon frantically flying toward us while a swarm of Porcelain Harpies chased after him.
+
+“Wahhh! I hate this!” He shoved himself into my arms. The face he made was nothing short of genuine distress.
+
+“Hey, we’re in the middle of a battle!” I yelled.
+
+“I know! I know, but… but!”
+
+Several harpies appeared in front of us. They screeched, but having learned from the last time, we quickly covered our ears. Our griffins, however, still took the full brunt of the attack and were left in a daze.
+
+“Get off of me!” I yelled.
+
+Talon had accidentally pinned my staff in an awkward position. The harpies attacked, but I wouldn’t be able to wedge the staff out in time and defend against it. Meriel was also busy dealing with her own enemies.
+
+I sighed. Looks like Talon and I are dying now. There go two revives.
+
+Just before the harpies could reach us, Tuna burst through. Reina thrust her spear and stabbed several of them out of the air.
+
+“Reina!” I let out, pushing Talon away. “Thank god you came.”
+
+“The gargoyles are regrouping!” Reina yelled immediately. “Tuna can’t hold them back forever!”
+
+She meowed in agreement.
+
+Several gargoyles appeared just behind her. And by several, I meant so many that I couldn’t even count.
+
+“...Okay, yeah, that’s a lot.”
+
+Kaelor suddenly swept past us in a burst of wind, his griffin flying just behind him. Several Chainbound Knights were chasing him.
+
+“I think I just realized something!” he shouted. “There’s an infinite number of them! I’ve killed about a hundred, but it looks like they just keep respawning!”
+
+My jaw dropped. A hundred? Looking at how many knights there were, he was right—there was about the same number as what we had seen initially.
+
+Wait a minute. Were we misinterpreting this the whole time? Maybe this wasn’t even a combat area. Maybe we were supposed to avoid these monsters and just fly through to the city in front of us.
+
+I called [TROPE STATUS] on my most recently initiated trope.
+
+[TROPE IN PROGRESS: THE OBVIOUS AMBUSH]
+
+Status: Incomplete.
+
+Completion criteria: Survive against the monsters pursuing you.
+
+My eyes grew wide. The completion criteria… it never even said we had to defeat them.
+
+At that moment, the System flashed another message.
+
+[TROPE INITIATED: THE INFINITE MOB ZONE]
+
+Completion criteria: Reach the inverted city.
+
+Note: You were never supposed to defeat them. You were supposed to fly through.
+
+I facepalmed after reading it. “I think Kaelor’s right,” I said. “I don’t think we’re supposed to defeat all of them. We’re supposed to just fly through.”
+
+We turned to Talon. He was the one who was supposed to know the most about the dungeon.
+
+He nervously scratched his head. “Ah… Uh… as I said, I’m just basing everything off the rumors I’ve heard. I guess I must’ve missed the one about this, haha!”
+
+Silence.
+
+All the monsters surrounded us, closing us in from every angle.
+
+“Then let’s burst through,” Kaelor said.
+
+He sliced his enchanted blade up ahead, sending gusts of sharp wind flying through the air. The monsters dodged it, but the path opened up for us. Kaelor shot through.
+
+“Let’s go!” he shouted.
+
+Kaelor’s wind magic surrounded him and his griffin, making them fly much faster than usual. Reina and Tuna followed closely behind, somehow able to keep up. Meriel and I shot through next, but our griffins were noticeably slower than theirs. And even then, Talon was also riding my griffin with me, so we were even slower.
+
+That was when an idea came.
+
+[SKILL: GRIFFIN’S CALL]
+
+Type: Active
+
+Effect:
+
+- Let out an oddly majestic call that causes nearby griffins to fly faster
+
+Looks like the skill I got from the grand race came in handy sooner than I thought.
+
+I cast it, and my mouth opened on its own.
+
+“HAAACAWWWWWW!” I let out.
+
+I covered my mouth, my face red with embarrassment. It never did specify how the noise would be made, did it?
+
+Our griffins reacted to the sound I made and immediately picked up speed.
+
+We all shot through the sky as the monsters chased after us. The knights were the first to give up, since they were held back by the chains. The gargoyles were the next, unable to keep up the pace. The Porcelain Harpies, however, were persistent.
+
+Eventually, near the final stretch, they stopped chasing us after we crossed some kind of invisible boundary in the sky.
+
+“Allene,” Meriel began, holding back her laughter. “What was that noise just now…?”
+
+“Shut up.”
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE OBVIOUS AMBUSH (COMPLETED)
+
+- THE INFINITE MOB ZONE (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL ACQUIRED: WRONG OBJECTIVE]
+
+Type: Passive
+
+Effect:
+
+- Instinctively sense when an area or encounter is not meant to be fought directly
+
+We all floated in the air, our mounts catching their breath, gazing at the city ahead. It was the largest structure in this dimension so far. Lyndale Castle looked tiny in comparison.
+
+Massive structures stretched downward. We noticed several glowing lights spread all across the city. Considering the sky was about to turn pitch-black, we needed to get there fast. The lights in this city were the only source of light in the entire dimension.
+
+But instead of awe, I could only stare at it in disbelief.
+
+“Okay,” I said slowly. “Now, how exactly are we supposed to land on an inverted city?”

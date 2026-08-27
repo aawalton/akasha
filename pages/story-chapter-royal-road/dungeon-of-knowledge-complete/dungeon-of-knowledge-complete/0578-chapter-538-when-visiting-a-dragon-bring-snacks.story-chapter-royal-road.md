@@ -1,0 +1,211 @@
+---
+id: ebe700a9-7133-5a46-af90-9865a0a982e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 538: When Visiting a Dragon, Bring Snacks"
+slug: 0578-chapter-538-when-visiting-a-dragon-bring-snacks
+partOf: dungeon-of-knowledge-complete
+position: 578
+ownLength: 3463
+unit: words
+ownProgress: 3463
+publishedAt: 2026-02-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3056446/chapter-538-when-visiting-a-dragon-bring-snacks"
+royalRoadId: "3056446"
+markedReadAt: "2026-06-29T20:32:01.360Z"
+---
+
+He stepped through the Gate and, to his surprise, Calen found himself appearing in the far smaller Ciradyl grove Ali had planted just south of Myrin’s Keep instead of deep in the heart of the Dal’mohran ruins. Arrows whistled overhead as raid- and champion-level Sylvan archers unleashed a continuous long-range barrage at the undead advancing out of the blighted remains of the old Lirasian Forest. All their efforts at healing it had been undone in the last couple of weeks, destroyed at the hands of the Death Knight generals and their ghastly soldiers. Still, at least they had been halted; pushed back by the town’s upgraded defenses.
+
+But their appearance through the Gate had not gone unnoticed. Dozens of Wood Elves had gathered, gazing on with curiosity and hope brimming in their eyes at the sight of the raid group coming through. No doubt they had all heard the news from the first to return, and more Elves were joining by the moment.
+
+Right then, the radiant form of Nendir flew through the Gate, the Celestial Elf summon emerging among the raid group. He materialized his ethereal soul magic bow to the sounds of gasps and whispers from the gathered Wood Elves, and then he took off with a flash of shimmering wings, not unlike Calen’s own. He made a streak through the air as he shot off toward the advancing Death Knights, and suddenly there was an enormous flash of light, followed by a massive concussion as he unleashed his wrath upon the invaders.
+
+“Soul Archon…” an ancient Wood Elf whispered, awe in his voice as his clear eyes tracked the figure. Whispers and exclamations followed his pronouncement.
+
+“Is it true?” someone asked.
+
+“Yes,” Lyeneru said. “The Well of Souls has been reclaimed, and it has bestowed the Path of the Soul Archon upon the Dungeon of Knowledge that we might restore those legendary defenders and strike a fearful blow into the heart of the undead armies.”
+
+Nice speech, Calen thought as the gathering of normally reserved Elves burst into joyous shouts and cheers, but he’d had a chat with both Nendir and Coria and learned quite a lot about the Soul Archons.
+
+Apparently, the Archons had been a set of legendary classes available to any Elven race at the second or third tier – a divergent progression from regular classes with powerful bonuses when fighting undead. Soul Archons were reputed to be particularly adept at slaying Death Knights who were reanimated with soul magic. The unlocking of the Archon path had been lost somehow in a previous age, a casualty of the destruction of the last of the great Elven shrines, according to Nendir – the event which had made the Elven nations dependent on Aman Rak for access to a sufficiently powerful shrine. Most of the remaining Archons had been slain by treachery while defending Aalion against the might of the Necromancer armies during the Breaking, and the remnants hunted to extinction by the Blind Lich in the centuries that followed.
+
+It seemed that it was due entirely to luck or fortune that the Well of Souls had touched Ali’s domain and somehow recognized the way to restore the Path of the Soul Archon to the defenders of Ciradyl, but Calen was disinclined to believe in luck. Perhaps the Well of Souls had just been waiting for the touch of a suitable shrine to offer its bounty?
+
+Still, Soul Archon was a powerful path. It was no wonder several of the guild’s platinum-ranked Pathfinders were seriously considering sacrificing nearly a hundred levels to reset their classes and take the offered Path instead. To his mind, it didn’t really make sense. If the class path was to be offered, it would still be there at the third tier, and that was far closer than resetting and restarting from one hundred.
+
+I’m a half-elf, though, he thought, uncertain if he would even be eligible for the Path due to his heritage. Or if he would even choose it. His Realm Hunter class was powerful, as were the directions he had been offered due to his patrons and teachers. Being tied to defense, gaining power by proximity to the Well, and focused on slaying undeath were certainly noble goals, and incredible for a Pathfinder who called Ciradyl home, but he wasn’t certain it was his path.
+
+He liked his freedom to explore far too much. Still, Nendir was here, slaying undead with ease, far from the Well of Souls. If it came to that, he would give the path serious consideration – at least, once he could see it and run the numbers.
+
+“So, that’s the story,” Ali finished, producing the vials she had filled at the Well of Souls.
+
+“Mhm. It is intriguing that the Well of Souls offered you the Soul Archon,” Azryet rumbled, eyes swirling with magic and curiosity. “It reveals much about the nature of the Wells that was not previously known or even suspected. This requires careful consideration.”
+
+“The Soul Archon seems strong,” Ali said, her roving senses still tracking Nendir and the other Soul Archons she had made as they tore through any sub one-fifty undead like they were chaff. “It is a good sign for restoring Ciradyl and the Wood Elf nation.”
+
+“I concur,” Azryet said. “And strong they must be, for what is to come.”
+
+The nature of the Wells and the impact of the Soul Archon path on the future of the Wood Elves no doubt carried a sense of weight and importance, something to be studied for the long term; however, Ali was mostly relieved that the fight to recover Ciradyl was over, and she and her friends had finally made meaningful progress toward saving Lira.
+
+It had been some time since she’d spoken with Azryet, and she had many questions for the Dragon God. However, the simplest one lay in easy reach. With a flicker of teleportation magic, Ali brought her kobold Pyromancer to her side. The cute little kobold had certainly done well since Ali had offered her the choice of a second-tier path at her shrine – helped immensely by the continuous stream of undead and elementals they’d been fighting.
+
+Pyromancer [Delusions of Draconic Majesty] – Kobold – level 216 (Fire)
+
+The red-robed kobold’s head swiveled about in surprise, taking in her abrupt change of location, but the instant she caught sight of Azryet, she fell prostrate in a quivering heap.
+
+“Was this your doing, Azryet?” Ali asked.
+
+“I may have had something to do with that,” Azryet chuckled.
+
+“The title is nice,” Ali said, scratching her head. “But I’m left wondering why you made the effort?”
+
+“That is an easy question,” Azryet said. “As your mentor, I wish to demonstrate something that you may not be aware of. Besides, the fires of the red dragonflight run hot within this little one’s veins.”
+
+“I see. And what might that be?” Ali asked. Certainly, it was the first time that any of her minions had earned a title. Obviously, this one was draconic in nature and had been nudged – perhaps significantly – by Azryet himself. Still… Could there be more to it?
+
+“You should name her,” Azryet said.
+
+“Name?” Ali asked.
+
+“It is one of the ways minions with ego may distinguish themselves. Once a title is earned, you can promote them to a unique monster simply by naming them,” Azryet said. “This will focus their growth and potential future paths, and often they may develop their skills in unexpected ways. It is a long-term investment for dungeons like us, but an important one for you to be aware of. This little one has draconic aspirations, and may end up benefiting both of us. Why don’t you pick a name for her?”
+
+“Ok,” Ali said, mentally nudging her kobold to stand, and studying her closer. She was one of Ali’s most powerful fire users, but seeing her clutched talons trembling in the presence of the dragon god’s overwhelming might, and the embers of fire in her wide eyes as she stared expectantly at her, Ali could only find her adorably cute. “How about Emby?” she suggested.
+
+Immediately, the kobold’s face fell, and her head drooped, and Ali felt a sudden lurch in her heart.
+
+“Um…” she said, grasping for something to say in the face of such visceral disappointment.
+
+Azryet snorted a giant puff of holy fire. “I believe such a name is insufficiently grand for one with draconic aspirations.”
+
+The kobold’s head immediately perked up, and Ali’s heart clenched again at the tiny spark of hope she saw in those wide, ember-filled eyes.
+
+“How about… How about Emberious?” she offered, trying to salvage her faux pas. “Emby can be a nickname you offer only to those you deem worthy?”
+
+The pyromancer’s head nodded up and down rapidly as her sharp fangs were revealed by the grin that snuck onto her face. “Yes? Yes! Can that be my name?”
+
+“Much better, Aliandra,” Azryet rumbled.
+
+“So… what do I do to make it happen?” Ali asked.
+
+“It’s already done,” the dragon god answered, and Ali immediately identified her minion.
+
+Emberious [Delusions of Draconic Majesty] – Kobold – level 216 (Fire)
+
+Azryet lowered his head and fixed the kobold with his great eye. He said, “I expect grand deeds from you, little one.”
+
+“Eep!” the kobold hiccupped in a distinctively un-draconic manner, emitting a ring of flames from her mouth. “Err… yes, your Dragonship, sir!”
+
+Azryet grinned and turned his head back to Ali.
+
+“So, I was wondering,” Ali said, gazing up at his vast, scaled head and deciding it was time to change the subject. “Speaking of getting stronger, could I open the shrine here, under your protection? There are several things I need to claim from it, and I’m worried about the Lich showing up.”
+
+“Of course,” Azryet said, and then the inexorable weight of his magic settled upon her, and she suddenly found herself transported to a vast cavern, untainted by any domain mana, lit only by the holy mana swirling in Azryet’s enormous eyes, and her own golden wings. “Set it up here, little one. I will keep you safe.”
+
+Ali nodded her thanks and produced the dark prism, leaving it to hover under its own power, glinting in the dim light as it rotated slowly in the air. Ali inspected it closely. She’d only glimpsed it earlier, more eager to get it out of the way than to study it.
+
+Well of CorruptionA crafted shrine artifact, providing domain propagation and support abilities. Owner: --Teleportation Locus [Active].Mana Siphon [Active].Mana: Deconstruct an unresisting or inanimate target, imprinting its structure. Range: Domain.Mana: Summon an imprinted item or creature.Mana: Apply a Domain Enhancement.Experience: Create a dungeon denizen, attaching a willing external entity to the domain. Mana: Recharge the shrine’s mana reserve. 458,000/2,000,000Created by Nevyn Eld.Shrine – Artifact
+
+This had once been the Temple of Aman Rak dungeon artifact. However, it seemed Nevyn Eld had improved it since it had been reclaimed. For one thing, it was larger, heavier, and it had a substantially larger mana capacity. There was the same experience-based ability listed on the shrine: the one that explained how Nendir had become a boss even though he had been raised by Nevyn Eld and how the champions of Aman Rak had been incorporated into that dungeon. Secondly, while it was still a fixed number, she could already tell that the list of imprints would be quite a lot larger.
+
+Excited by what she expected to be recorded there, Ali quickly summoned an Eye of Agnor to bind itself to the artifact, getting a growl of disapproval from Azryet at her choice of a demon, but it was the only second-tier arcane minion she had available, and she was far too excited to waste time laying out her domain and summoning an elemental.
+
+The moment the Eye of Agnor bound itself to the artifact, a dense and familiar domain sprang forth, extending several meters from it. Moments later, and under her direction, her minion began summoning arcane pylons, and the domain grew.
+
+“Let’s begin,” Ali said, already prepared with the list of items she needed and the extensive tests she would have to conduct to see which Domain Magic skills she could loot from the artifact. “How about we begin with Nathaniel Sunstrider’s equipment?” she told the demon.
+
+All its eyes flickered toward the black floating prism, and it began to summon its mana, but at that moment, the artifact hummed with power and projected a bright locus on the ground.
+
+“Stop! Shut it off!” Ali shouted, lunging forward to intervene, but she was too late. “Azryet!”
+
+With a sudden pop, Ali suddenly found herself face-to-face with the Blind Lich. She froze, and the Lich’s aura of fear crashed into her with stunning force. For a stark, unbelievable moment, they stared at each other: Ali’s amber eyes wide, and his crimson blindfold brimming with dark mana.
+
+Ali reacted by throwing up a dense barrier of golden magic between them the instant she realized his aura was no longer debilitating.
+
+“Aah. Elowynn’s child. So nice to see you again,” the Lich hissed, his voice and the deliberate choice of words grating through her soul and dredging up the memories of that night her mother had died. Deep within her heart, her fury ignited. Cold white flames of rage, quieter and calmer than the rage of her Berserkers, but no less intense. She gritted her teeth, glaring at him as she cast her mind around for the minions she could reach.
+
+“Your mother had that same look,” he said. “But this time, I will have your magic.” He raised his withered hand, and darkness burst forth like a crashing storm.
+
+“I think not.”
+
+Eyes, far larger than the Lich opened behind him. Eyes filled with the disintegrating oblivion of void and the fury of holy fire. The vast maw cracked open, leaking hungry flames from behind a wall of giant fangs. The sheer weight of The Calamity’s presence suddenly impressed itself upon the cavern, pulverizing every boulder in sight and dwarfing the Lich’s fear.
+
+Surrounded by her golden barrier, Ali’s eyes widened as the dragon’s breath roared forth. She instantly threw her life force into her barrier using Arcane Recall to reinforce it against the might of Azryet’s magic. Mana surged into her, as vast as the ocean, as her barrier began to burn. She channeled it, feeding her minions to drain her straining mana pool, and across her entire domain, every single monster began to shine with the radiance of enormous power. In another realm, outside Myrin’s Keep, lines of Death Knights withered under the immense onslaught of magic and arrows unleashed from the walls. Ali may have screamed, but her attention was locked on the dark outline of the Blind Lich, wreathed in a storm of void and holy flames.
+
+With a deafening crunch, the raging torrent of void and holy dragon breath cut out instantly. A few moments of gruesome bone-popping and teeth-grinding followed, and then Azryet turned his inscrutable gaze upon her. He opened his mouth, spitting out pieces that shimmered, dissolving into motes.
+
+“Fuagh! Disgusting,” he growled.
+
+“You… You ate him?” Ali exclaimed.
+
+“His avatar. Liches are tough to kill, even for me,” Azryet said, frowning. “And that creature is far stronger than I expected; you will need to be cautious.”
+
+“Wait, did you bring us to this cavern to lure him out?” Ali asked, the idea suddenly sprouting in her mind. “You meant for him to come?”
+
+“Good. You’re smarter than most,” Azryet rumbled.
+
+“Azryet! You said you’d prevent him from coming!” Ali said, her voice rising to almost a shout before she remembered her shame of swearing at the dragon god and tempered her tone.
+
+“I said nothing of the sort. I promised to protect you, little Fae. I cannot leave this realm, and so I cannot help you directly in your fight against him, but at least now, the Lich might think twice before coming for you.”
+
+“But you breathed on me!”
+
+“I happen to know you’re strong enough to withstand it,” Azryet said, his eyes whirling in apparent frustration. “Or did you forget how you earned your Defiance of the Meek title?” With a toss of his head, he unleashed his pure healing fire once more, and the damage Ali had sustained to reinforce her barrier melted away.
+
+“I…” Ali said, finally lowering her barrier. “Thank you.”
+
+“You’re welcome,” Azryet said.
+
+“I’m still a bit upset with you, though!” Ali pointed out. “That wasn’t a nice trick.”
+
+“I imagine you are,” he chuckled. “Less nice for him.”
+
+Ali sighed. Dragons! Still, he had taken care of the Blind Lich, and in a way that gave her a week or two of grace. It was, by all accounts, a significant boon. If only she could get her heart to slow down. She turned her attention to the shrine and spent the next hour meticulously extracting everything of value from it before she unsummoned her Eye of Agnor and dissolved the dungeon.
+
+“Do you want this?” she asked, pointing to the artifact.
+
+“I have no need of it,” Azryet said. “I have already made substantial improvements to the one you gifted me. I suggest you deconstruct it and enhance your own shrine.”
+
+“I can do that?”
+
+“Yes, it should work. Artificial or not, it counts as a shrine.”
+
+Flexing her mana, Ali quickly deconstructed the shrine. If nothing else, destroying it would be the right thing to do. As it evaporated into mana, she felt something releasing within her. Relief perhaps that it could no longer be used against them.
+
+Requirements met for shrine advancement.You are a Shrine owner.You have deconstructed a Shrine.You may choose one of the abilities of the deconstructed shrine.Shrine of the Ancient Grove gains Denizens.You may bind an entity to your domain using Domain Enhancement.Accept this advancement?
+
+“Is Denizens worth using?” Ali asked, eyeing the description skeptically. She couldn’t imagine binding anybody to her domain as a boss. Nor would she use it often, even if she found someone willing.
+
+“It won’t hurt to have it,” Azryet said. “It can circumvent some of the limitations on the minion-enhancement load on your domain, but it’s not one of the most useful. Recording it from this shrine means that when your shrine grows, it will offer you something else, and that is probably worth it.”
+
+Ali twisted her lips and asked, “I’m not sure I want it. Doesn’t it seem… unethical?”
+
+“It has proved useful on occasion,” Azryet said. “It is an early way to train your shrine with unique classes and races. It does take consent, and you can choose not to use it if it worries you, however, I do recommend taking the ability. The opportunities are unpredictable and potentially transformative – if you have the ability when something comes up, you can make the choice.”
+
+“I see. When you put it that way, it doesn’t sound as bad,” Ali said and committed the Denizens advancement, feeling her shrine expanding in response. Then, she glanced up at him and said, “I wish I could get that Imprint ability you showed me.”
+
+“That is certainly a useful one, but it costs Authority, so I only use it on something extremely worthwhile,” Azryet said.
+
+“Is this worth it?” Ali asked, holding up the Eye of the Lich, dark shadows dripping from the band.
+
+The dragon god lowered his head and peered at the dark ring held between her fingers. “That is an impressive ring,” he rumbled. “Where did you get it?”
+
+“From Haverron, deep in the Crypt of Kings,” Ali said.
+
+“I will copy that for you,” Azryet said. “It is worth adding to my own repertoire.”
+
+“Technically, we could get more if we kill him a few more times,” Ali admitted.
+
+“It is worth the Authority to copy immediately,” Azryet countered. “That Summon Supremacy enchantment is no small thing. Besides, you will need one without the Lich’s mana signature.”
+
+“Ok, thank you,” Ali said, and then looked up to meet the giant dragon’s gaze. “I have one more gift for you,” she said. She had spent quite some time at her shrine, explicitly finding every single compatible class and creating a variant for it in her Grimoire. “I can make Dragonkin.”
+
+Azryet froze. It was, Ali reflected, rather intimidating just how still and silent he could be. “Tell me they have an interesting class,” he said, staring at her intently.
+
+“I have seventeen dragonkin-compatible classes that use holy or void affinity so far,” she said, grinning up at him. “I made all of them.”
+
+For the first time since she had known him, the Dragon God appeared to be speechless.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

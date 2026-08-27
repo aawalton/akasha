@@ -1,0 +1,241 @@
+---
+id: 5a96612c-7a56-5922-b036-52ea3878213e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: A Dutiful Departure"
+slug: 0022-chapter-7-a-dutiful-departure
+partOf: ends-of-magic
+position: 22
+ownLength: 2905
+unit: words
+ownProgress: 2905
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2472639/chapter-7-a-dutiful-departure"
+royalRoadId: "2472639"
+markedReadAt: "2026-06-29T20:07:58.466Z"
+---
+
+The Heirs woke up late the day after the party. Mostly that was due to staying up into the early hours, though there'd been a bit of indulgence as well. Though exactly what that had looked like depended on the person in question. Nathan had introduced Aarl and Sarah to some of his friends in the Keihona guard, and they’d all had a raucous good time that left Nathan impressed by the twins’ game.
+
+Khachi had fallen into deep conversation with the rarest breed of Adventurers - retired ones. Stella had gotten into successive arguments with a group of mages that had resulted in some rather dramatic impromptu fireworks as they demonstrated different theories of magic to each other. Nathan's last impression of that conversation had been them arguing that magical theory was independent of Talents, before he'd been dragged away by a group of friendly Keihonia guards.
+
+But now they were all groggily waking up to an insistent knocking on the door, summoning them to a meeting with Sarya. It was about lunchtime, and even allowing them to sleep in this much was a kindness.
+
+“Come on folks, we’re adventurers,” Nathan said, chiding his teammates. “We’ve slept in the wilderness with beasts on all sides around! We’ve woken from a dead sleep to fight off attacks! What’s the problem here? Chop chop!”
+
+Aarl stumbled into the common room and gave Nathan a rude hand gesture. “Not all of us can heal away tiredness.”
+
+“And not all of us were out with our new friends until just a few hours ago,” Sarah replied dryly, eying her brother up and down, picking out the hickeys judgmentally.
+
+He rubbed a hand over his unshaven chin. “I can sleep on the boat. It would have filled me with sadness to leave without enjoying myself.” He fixed Nathan with a glare. “Hear me, when were you going to tell us that the guards were so blasphemously interested in us?”
+
+Nathan smirked in response. “I had been planning to mention it on the boat.”
+
+“The muckgrabber reveals his stench,” Aarl moaned, quickly donning his magical armor. He looked around at the rest of the Heirs. “Are we ready?”
+
+They were, and followed the aggrieved servant who'd been knocking on the door to meet Sarya on a patio. Garna was also in attendance, delicately working her way through a plate of pastries. The androgynous woman ate them like a bird, snatching each morsel quickly before delicately nibbling on it.
+
+Sarya wore a knowing smile as the Heirs took their seats. She gestured to the spread in front of her. “Please, eat to satisfaction. The kafkan is wonderful for wakefulness.” She waited for them to dig in and get seconds before broaching further conversation. “We should calculate your plan for Esebus. It’s a stronghold of Sussu, and the base of Badud’s grid, as Keihona is for us.” She waved her hand across the table and with a flourish a stack of documents appeared in her grip, pulled from a dimensional pocket in her sleeve. The Questor spread them across the table, revealing a spread of maps and sketches of a city.
+
+The Heirs leaned forward to study them. Nathan was the first to say anything. “It looks boring. Like a bunch of gray pillars in the middle of a flat plain.” He tapped a sketch of the city, made of nearly identical hexagonal pillars rising in a regular pattern. The only differentiating feature was their height; the ones closer to the center of the city were taller.
+
+Khachi slid an image over to him, and Nathan looked down at a depiction of the city at night. The same pillars were present, but their outer skins had gone transparent to reveal that the insides were brilliantly lit patterns of elaborate clockwork, each a unique work of art.
+
+“Oh,” he said in surprise. “Wow, that's pretty.”
+
+“It doesn't seem very defensible,” Aarl said with a frown, tapping a map that showed the city’s location, in the middle of a flat plain without a lot of terrain features. There were no visible walls in any of the diagrams or defensive emplacements noted whatsoever. “Is the city surrounded by a hidden dungeon?”
+
+“Esebus needs no walls,” Garna replied. She reached into a bag and pulled out her own sheaf of documents with quite a bit less flair than Sarya had shown. “It is a city of enchanters, and their soldiery flies on wings of enchanted craft.” She slid a large blueprint in front of them. The papers showed a diagram of something that looked like a pair of prosthetic wings made of metal and crystal. The half-suit wrapped around the wearer’s arms and torso, leaving the legs and head free. There were modules attached at the hips, shoulders, and along the wings that were annotated with the spellwork they carried. From a quick skim, it looked like a plethora of offensive and defensive spells, enough to block most attacks, control the weather, and rain destruction down on anybody below.
+
+“The Guardians of Esebus patrol the entire continent, armed with these armatures." Sarya's voice was absent, her gaze far away as she tapped a finger idly on the blueprint. "No foe has approached the city since the Ending of Storm. Not without authorization."
+
+Nathan circled his finger over the wide, empty plain surrounding the city. “It’s a killing field. They’re airborne, and anybody approaching the city is an easy target.”
+
+Garna caught his eye and nodded. “They enforce the bureaucrat’s dream. Continent-wide mandatory identification badges. Any caught without a badge are questioned, and often fined into penury.”
+
+“How do we get past it?” Sarah asked, her brows knitted together in a frown. “Can you get us counterfeit badges?”
+
+The Questors exchanged a look before Garna answered, “In our conception, you first attack a badge-issuance office here, in the port-city of Kankus. You can use the enchantments there to issue valid badges with your likenesses and a valid permit to enter Esebus. We will grant you goods to provide your cover as traders to allow you to make your way into the city.”
+
+Khachi growled. “We are adventurers, and do not have the ability for that. Any guard with a skill to discover deception will detect our deceit.”
+
+“Nathan will speak for you,” Sarya answered. “He has skills of disguise. And if you are recognized as invaders, then you’re at the same state another plan would start at.”
+
+Nathan flipped through the documents, hunting for something he’d seen. It was an image of a crowded market square, which he found and held up. “All humans. Khachi will stick out like a sore thumb. And I don’t really have skills for lying, mostly they're for stealth and blending in.”
+
+“Why don’t we just sneak across the plains at night?” Aarl asked. “Don’t even dock at Kankus. If we’re travelling by ship, just drop us off at the coast, and we’ll make our way overland.” He traced a line directly from the nearest coast to the city.
+
+Sarya looked down at the map. “It’s two weeks of hard overland travel. You will need to dodge patrols and monsters. They have sensor grids and scanning magic…” She trailed off, looking at Nathan.
+
+He grinned back. “We’re used to hard travel. We can make hidden camps during the day, and travel at night.”
+
+“It is a worthy backup,” Garna retorted, once more tapping her finger on the dot labelled Kankus. “Attempt the badges first.”
+
+Sarah shook her head in denial. “Then they’ll know that we come, and have a trail to follow. Better there’s no trace of our approach until the moment we strike.”
+
+“And for entering the city itself?” Garna asked, her eyebrows raised and her voice tight. “You will be discovered in moments when a patrol scans you and does not find a card.”
+
+“No worse than the scanning magic in Halsmet,” Aarl replied with a shrug, glancing at Nathan. “We’ll dodge the patrols or figure out how to fool the sensors. Maybe steal identification from normal citizens.”
+
+“By Edes, this is foolish. The identification is locked to its owner. It will send out an alert if it’s stolen.” Garna’s voice was tinged with exasperation by this point.
+
+“I can probably disable that.” Nathan was feeling rather smug with how thoroughly he countered magical detection schemes.
+
+Stella cocked her head. “Couldn’t we steal a badge from somebody in Kankus?”
+
+“The client-state citizens require a pass to approach Esebus,” Sarya responded, slicing her hand down. “But citizens of the city itself…” She exchanged another long look with Garna, giving a small shrug.
+
+After a moment, the other Questor relented, sighing and waving her hand to concede the point. “Success blinds the mind’s eye, but continue. Once you are in the city, you must draw the Questors in. Sussu likely lurks atop the central tower, and the other Questers of her grid rarely visit. You will need a way to summon them to you, so you can strike. The target is the Questors, not Esebus.” She pulled another set of maps out of her bag, these city maps with specific towers highlighted. “The armature manufactories, where the insolvent labor to build the weapons of war. Attacking the source of her military might will draw Sussu’s eye.”
+
+Nathan eyed the half-dozen buildings and saw how close they were located to other places noted as guardian garrisons. “That seems like a way to get into a war against the entire city.” But the problem was that he didn’t have a better idea. Then Stella grinned at him, her eyes sparkling. He remembered their past conversation about looting Questors. “Besides, it would only draw out Sussu. If we want all of the Questors, we need a target they’ll all respond to. If Esebus is their safe city, the place that has stood through multiple endings, then they’re all going to be storing their artifacts there.” He caught Sarya’s eye. “We need to break into their vault. And I’m going to bet that you know where it is.”
+
+She looked at him like he was insane for a second, then grunted. “By inference. But stealing from it is an impossible deed.” She still reached for the map of the city, circling a particular building near the center. “It’s there. That’s where the Shield of Solemnance is kept, and it will be no place other than the vault. Sussu lives atop it, and it will be the best-defended spot in the city.”
+
+Garna had frozen, and she looked back and forth between Sarya and Nathan in shock. “You cannot steal the contents of their vault.”
+
+Khachi rumbled his approval of Nathan’s plan. “We must achieve impossible deeds.”
+
+The Questor shook her head. “No, you mistake possibility for permission. This is not wise. That vault - if it is their primary store - contains weapons and artifacts hoarded since the first years of Davrar. Tools to crush armies and break cultures.”
+
+“That’s a blessing, not a curse,” Aarl said with a shrug. “We want to fight Questors, so we should have the weapons of Questors.”
+
+But Nathan met Sarya’s eyes, and her expression was troubled. Garna’s objection was real, just not one the Heirs were well-equipped to understand.
+
+There are strategic weapons in there. Probably multiple.
+
+“There are more weapons like the [Last Arrow of Olita] in there, aren’t there?” Nathan asked, getting terse nods from both Questors. He addressed the rest of the Heirs. “It’s similar to how I didn’t want to teach Stella the most powerful magic. When people know you possess that kind of power, it means everybody wants to either kill or control you.”
+
+He glanced back at Sarya. “But that’s our goal anyway. We don’t want to just be pieces on the board; we want to be players. What’s a better way to do that than taking the strategic arsenal of Badud’s grid?”
+
+Sarya looked back at him for a long moment, her brows creased. “Yes. But they should not be used under wildest circumstance. It would be a declaration that you see them as weapons to be deployed, not assets to be safeguarded. Every Questor will feel threatened if you use any of those weapons. You may see grids joining forces to destroy the threat.”
+
+“Why not do that regardless?” Sarah asked with a glare. “If we hold items of power, then wouldn’t they come after us to get them?”
+
+Garna wasn’t sure about this whole idea, but she still answered Sarah’s question. “Not if you’ve defeated Badud’s grid in a verified way. And not if we and the Ashen accord vouch for you in diplomatic circles. As allies, not agents.”
+
+Stella was next, barely restraining excitement. “What if we can conjure that kind of power ourselves? If I can cast spells with that level of power?” Her question was aimed at the Questors, but all of the Heirs knew what she was really asking.
+
+She wants me to teach her the nuke spell I’ve refused to teach a half-dozen times already.
+
+The two Questors shared another meaningful look, and Sarya responded. “That would be stealing the fire of the gods. But if it is your magic and not an item, then that is a token of your power, and will garner respect. But you must calculate carefully when to destroy. If you destroy Esebus, then that does not make you victors in battle, but rabid mortals with too much power that must be hunted down.”
+
+Nathan grunted. “This sounds like an absurdly fine line to walk. We need to be powerful, but not too powerful. We need to win, but not the wrong way. We can steal weapons, but we can’t use them.”
+
+“You need respect, not fear,” Garna clarified, not refuting his point. "You ask to play in the game of Questors, and this is how you enter that game."
+
+“What of the other weapons in the vault?” Aarl interjected, scratching at the back of his head. “Or is it filled to the roof with city-destroying horrors?”
+
+“There will be more. More items than you can use. Many of which can be traded for favor. You can use any normal weapons you find, and we will be able to use the others to help your cause.” Her expression morphed to a gleeful grin. “I have my treasures, but Badud was truly involved in the provings of Kalis. Imagining the contents of his vault blinds the mind’s eye.”
+
+Garna rolled her eyes and batted Sarya on the shoulder. “Do you truly mean to set them on this task? If they understand the weight of the deed they propose,” she gave the Heirs a doubtful look, “then it will achieve their objectives. But it is still a very literal vault of solace, a deed beyond even us. To achieve it will require our aid.”
+
+Sarya waved her hands. “Nathan can break magics. Stella can conjure starfire. Aarl has a black blade, won righteously. They will be able to break the vault. It will not be a proper theft, but it will serve the purpose well. We cannot aid them overmuch, remember? That includes convincing them against foolish paths.”
+
+Garna grimaced, but nodded in acceptance. “Verified truth.” Then she looked to the Heirs with a sigh. “This plan seems impossible for us to accomplish, and we cannot die. I worry for your death.”
+
+“That’s the trick,” Nathan replied. “For you, failure is failure. For us, failure is death. Davrar knows the difference, and so do we.” He slapped his thighs and made to stand. “Anything else? Any last-second Insights or gifts? How are we getting to Esebus?”
+
+Sarya giggled at his monologue, raising a challenging eyebrow. “Eolinne and the Grace of the Mists waits in the port below. We’ve already loaded your rewards onboard, food and textbooks on magic. She’s far more excited for the ingredients than the books.”
+
+The rest of the Heirs stood, with Sarah leaning forward to sweep all of the assorted maps and documents into her dimensional bags. They gave the Questors a quick farewell, but Stella had a final question.
+
+“What happens if we win? Do we come back here?”
+
+Sarya chuckled. “No. If Esebus is free from Sussu and her grid, we will come to you.”
+
+Nathan hesitated at the door, looking back to Sarya and Garna sitting side by side. “Thank you. For all of the help. For the chance to fix things.”
+
+Sarya’s expression softened, and for a moment, she looked like the immortal she was instead of just the body she inhabited. “It is our failing that it falls to you. May your tale span the sky.”
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 572
+
+Regenerative Focus: 5820/5820
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 4
+
+Forewarning 4
+
+Arcane Insight 4
+
+Evasion 2
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 10
+
+Visibility Control 6
+
+High-tier Disguise 7
+
+High-tier Battle Cry 3
+
+Aura Control 5

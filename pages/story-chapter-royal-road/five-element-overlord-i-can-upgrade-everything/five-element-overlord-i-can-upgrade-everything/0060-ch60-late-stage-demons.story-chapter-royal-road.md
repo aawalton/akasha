@@ -1,0 +1,133 @@
+---
+id: d7b816a4-af3b-5efa-9b55-263196fcf639
+page-type-slug: story-chapter-royal-road
+title: "Ch60 Late Stage Demons"
+slug: 0060-ch60-late-stage-demons
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 60
+ownLength: 1780
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3434049/ch60-late-stage-demons"
+royalRoadId: "3434049"
+---
+
+A wave of bright red blood slams into me before I can react.
+
+My defensive talisman is shattered, and my cloak activates its automatic defenses, pulsing outward with a bright white light and reflecting the red slash back at the demon.
+
+“This was not in the gathered information! Their squad should only have one cultivator able to fight against late stage qi refiners…”
+
+The red blur dodges the reflection and strikes again from behind me, triggering another use of my dark cloak before I can even fully turn.
+
+Another burst of white light sends his bloody attack flying back at him.
+
+The red mist creates a 5 meter long crater in the dirt hill across from the shore.
+
+For a split second, the Blood Demon stops to swallow a handful of crimson pills. It’s enough of a pause for me to actually see my target. His skin is tearing, muscles bulging, black horns curling out of his head, and he wields the same red sword made out of a liquid energy-like aura I faced before.
+
+I activate another defensive talisman and pull out two incineration talismans in both hands.
+
+The last late stage Demon I faced in the Ravine had the exact same acquired physique and 8th stage of qi refining. An incineration talisman was not enough to kill him, but I’m hesitant to use my trump card when there is an unknown variable lurking in the water still.
+
+It is the shadowy demon at the 9th level qi refining that has not made any effort to approach. He may have only an initial stage acquired physique, but I’m unsure what this advanced use of the Illusory Demon’s Concealment Art is capable of… My current mental strength was not powerful enough to read that section in the upgraded booklet.
+
+Two enormous red fireballs explode out of my hands the instant I lose track of the Blood Demon’s movements again.
+
+My cloak flashes bright white a 3rd time, but it's followed by a pain-filled demonic scream.
+
+One of my talismans lands a hit, and it is potent enough to slow this demonic cultivator's movements down. In the chaos, its own reflected blood slash cuts off one of his arms.
+
+The smell of burnt flesh fills the air, and the demon swallows dozens of blood qi pills.
+
+My perfect grade offensive talismans are starting to run short. I only have a single incineration talisman and two stone bullets left.
+
+The still flaming demon runs forward at me again. His aura is surging with strength, but his movements are more stunted and predictable with his horrific injuries.
+
+I’m able to jump backward and take the next hit from his blood sword at the perfect angle. As the white light flashes for a 4th time and he’s forced to dodge his own blood sword, I pull out my last two stone bullets.
+
+They’re both aimed at his head and the weak part of his neck where one arm was already ripped off. The Demon raises his glowing crimson sword to block the first enormous qi-infused stone, and they both explode in a violent blast.
+
+His blood energy sword is splattered to pieces while the stone bullet crumbles into hundreds of smaller shards. The second stone bullet hits its mark with no resistance.
+
+Another explosion follows, sending hundreds of shards of stone into the air, but mixed with bone fragments, flesh, and brains as the entire head of this 8th level qi refiner is blown off.
+
+I have no time to feel any excitement for this kill, as the air around me becomes extremely cold and sharp a moment later.
+
+I activate a defensive talisman, but it's shattered in an instant along with another flashing white use of my cloak’s built-in defenses.
+
+My feet shift and I release my last incineration talisman in reaction, but the cold grey shadow disappears from my sight. A bright red fireball burns into nothingness, only hitting thin air and a patch of dirt in front of the lake’s shore.
+
+The only sensation I can follow is the elusive resonance I feel with other illusory demons.
+
+“You’ve practiced a demonic art… Yet you do not show any signs of backlash. Tell me the soul treasure you’ve cultivated to achieve such a feat and I will let you run free.” a low and curious old man’s voice echoes in the back of my mind.
+
+A shadowy figure comes at me from two sides simultaneously.
+
+My head only turns toward the real one, as it is the only side where I feel the strongest pull from my own demonic technique.
+
+There is not enough time to process his words entirely, but I do know I can’t trust anything he says.
+
+This is the mastermind that killed off four past squads led by late stage cultivators according to the sect. The system’s scan implies the number of squads is probably even higher than that. He’s beyond any danger I’ve encountered before, and I have to act fast and ruthlessly to survive.
+
+I turn in the direction of the true body and pull out a bright Azure Lightning Attack Talisman from my storage, activating it on the spot.
+
+The cold air around us heats up and crackles with static energy. Then, a thick Azure lightning bolt bursts out from the jade in my grasp.
+
+An old man's grey eyes widening in fear appear through the blurry illusions as his real body is frozen in place. Tier 2 foundation establishment lightning ravages his body, burning him inside out before he can even let out a scream.
+
+Even the earth beneath his feet blackens and crumbles away. My cloak’s automatic defenses are triggered again by my own attack, protecting me from the blast as a 15 meter wide crater destroys the shoreline.
+
+Water gushes in to fill the crater, and the edges of this hole are covered in lightning patterns and static like electric burns.
+
+My vision finally expands out from the tunnel vision focus it's been stuck in for the last half minute during battle. I see dozens of corpses all over the shore, piles of stone, fiery craters, and sword slashes straining the land.
+
+Black iron arrows stick out of all the initial stage bodies still intact. Swords and storage rings litter the ground. It’s pure silence for a moment, until my senses shift a few hundred meters down the shore where another battle still takes place.
+
+Right behind the Verdant Steel boulder, Bao Zhan in his dark black iron battle body fights bare-fisted against another crimson late stage blood demon holding a sword.
+
+I have felt his aura before, but never saw his acquired physique in action with my own eyes… It may be at the mid stage, but there is certainly something out of the ordinary about it.
+
+The full sharp side of a fully transformed blood demon’s blade collides with Bao Zhan’s fist, yet they’re both sent flying backward. I almost want to flinch as in the next exchange my squad captain is struck across the chest by an unguarded swing of the demon’s sword.
+
+It hardly even pierces his skin. Instead, as Bao Zhan stands up, a thicker pulse of black iron aura surrounds him, like he is getting stronger the more he’s hit.
+
+The next punch he lands is across this demon’s face, cracking one of his horns and sending him flying into the ground.
+
+At the same time, my gaze shifts to Yun Renshu. One of the 4th level qi refiners is already dead on the dirt below him. The other 4th level is in his initial stage blood demon transformation. I remember fighting one myself, and its strength neared the 5th level once enough blood qi pills were consumed.
+
+This dual short sword wielding vice captain is far too quick. The blood demon’s moves are erratic and sloppy. Yun Renshu dodges and counters with lethal technique over and over, making dozens of slashes on his arms and legs when openings are allowed.
+
+This Demon is brought to his knees and finished off in less than ten exchanges.
+
+Yun Renshu joins the nine stewards in the outer fights where a bloody massacre against two dozen initial stage illusory demons takes place.
+
+These demons don’t even look like they were prepared to fight.
+
+Many of them have shields and no weapons at all.
+
+I turn back to the battlefield of enemies I destroyed and realize that they were only meant to hold us off until we were ambushed from behind. The real battle forces meant to exterminate my squad were never even able to step onto land…
+
+A thin smile forms on my face as each and every one of these demons is killed, without a single steward’s death on our end.
+
+Loud thuds and cracking bones are the last sounds that echo over the lake as a jet black iron body sits on a blood demon's chest and pounds his head into mush behind the Verdant Steel boulder.
+
+Once victory is certain, many heads begin turning around in my direction.
+
+As some come running my way, I quickly scavenge my battlefield.
+
+The remaining storage ring of the 9th level illusory demon, I stow away, then quickly make my way over to the headless, armless, burnt corpse of the blood demon. I tear through the blackened flesh in his chest and reach into his dantian that leaks out the remainder of his stored qi.
+
+The one secret the system shared about him was that he had a treasure stored here. I feel a strange fluctuation still coming from him, and when I pull out my hand covered in blood, there is a small grey shard of metal warm to the touch.
+
+It holds no qi, only a faint feeling similar to the one I get whenever I try to get in tune with my soul. I turn it around and examine it for a few seconds, but once I hear voices nearby, I stow it away with the late stage blood demon’s body.
+
+“Li Hao! Are you alright?”
+
+“Heavenly Archer, you saved us again!”
+
+I turn around and many stewards are stopped in front of the piles of corpses still on the shore looking at me in awe.
+
+Though, Yun Renshu and Bao Zhan that trail behind examine the battlefield with far more skeptical eyes.
+
+While I look back and begin formulating an explanation for all of this, Little Red lets out a yawn and a grunt like he’s just woken up from a nap. He wriggles his way out from under the protection of my cloak to look around, then puts on a proud expression like he’s helped.

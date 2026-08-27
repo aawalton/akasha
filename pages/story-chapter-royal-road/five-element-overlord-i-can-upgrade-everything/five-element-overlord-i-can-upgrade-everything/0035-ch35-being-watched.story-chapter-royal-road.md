@@ -1,0 +1,139 @@
+---
+id: 592ecffb-5565-503f-b012-f0128f41964c
+page-type-slug: story-chapter-royal-road
+title: "Ch35 Being Watched"
+slug: 0035-ch35-being-watched
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 35
+ownLength: 1768
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3287344/ch35-being-watched"
+royalRoadId: "3287344"
+---
+
+[Ding!][3rd Level Qi Refiner Check-In Time threshold met.][Would you like to Check-In?][YES][NO]
+
+This is the first thing I see hovering in front of my eyes when I finally come back to.
+
+I accept instantly.
+
+[Ding!][Rewards have been deposited into your storage!][x3 Perfect 1st Tier Upgrade Card][Please wait 1 day to Check-In again.]
+
+My head is pounding, and I feel the sensation of the spirit fruits’ effects wearing off, constricting the flow of qi in my meridians back to its natural rate.
+
+There is only grey dust surrounding me in a circle, as all my spirit stones are gone.
+
+The ambient qi in the air feels insufficient too. I want to smack my lips, as though I’m thirsty or hungry… but I’m just craving qi.
+
+The imagery of Xu Hong nearly dying from qi deprivation flashes in my mind, and I pull out a burnt qi gathering pill to upgrade on the spot.
+
+I swallow the white and gold pill without hesitating, but leave the other two bronze cards in my storage without using them for now.
+
+It feels kind of lackluster. Within a few cycles, the entire pill is consumed and refined into my dantian. It does not even make a splash. No progress in the initial stage of the 3rd level of qi refinement is made.
+
+However, I do feel a little better. The pounding headache goes away.
+
+When I pop my head out of the cave entrance, the sun is already setting again. It feels like no time has passed, yet it’s been almost an entire day… Even though it is becoming dark, my vision feels sharper than it ever has in the day.
+
+The small signs on the dining hall half a kilometer away are visible. My muscle fibers feel tougher, and my bones feel thicker.
+
+However, taking a breath of air is not as refreshing as it was before. The atmosphere outside is even worse than within my cave abode. There is a distinct difference between inside and outside my body. The ambient qi in the air is not enough to sustain me; I can feel that if I were to walk around and go about my day normally without cultivating with spirit stones or pills, I would slowly lose the built-up qi in my dantian over time.
+
+When I let my spiritual sense push outward, it reaches over 12 meters, doubling what it was at the peak of the 2nd level.
+
+I admire my strength and new senses for a moment, but quickly walk down the cave cliff and along the dirt road to start my wood collection route like any other ordinary day.
+
+Soon, I realize that today is not like other days.
+
+When I begin stopping by my usual servant camps, I start passing by green-robed Outer Sect Disciples on the dirt paths every few huts.
+
+Sometimes they stop me and ask to see my steward’s token, and other times they just nod and allow me to walk by. I respectfully bow to these unfamiliar sect members. Black-robed members of the Law Enforcement Hall occasionally fly overhead on swords, speaking to Outer Sect members and leaving to tally up reports.
+
+When I arrive at Xu Hong’s hut, I pay her with nothing but a spirit fragment.
+
+She looks at me in a strange way, trying to see if she offended me, but I turn my eyes left and right, whispering in such a low tone that she would not understand anything I said if she wasn’t a cultivator.
+
+“There are people watching… from the Outer Sect…”
+
+She nods and accepts the worthless fragment, then I carefully make my way to the drop-off point in the dark night.
+
+What I told her was true, but the further I walk alone, the more I feel mysterious eyes on me.
+
+I’m not picking them up with my spiritual senses, nor my actual physical senses like I did when I felt those stewards watching me from afar, paid by Zhou Kang.
+
+This is different.
+
+It is not even my natural instincts at play; there is a stirring in the Illusory Demon’s Concealment Art that I can’t shake off. It feels like someone else using the same technique is trying to peer through me, but I’m not sure who or from where.
+
+It sporadically comes and goes as I drop off my wood at the charcoal pits and walk all the way back to the stewards’ quarters.
+
+I only feel the eyes leave me after a long soak in the bathhouse, when whoever is watching seemingly gives up.
+
+I do not sleep well at all after getting back to my cave. The combined paranoia of being watched and the lack of qi in the air is not comforting.
+
+The two remaining upgrade cards in my storage could be used to make more perfected qi gathering pills, but the uncertainty of this situation makes me decide against it. I even pull out a vial of the low-quality qi gathering pills I purchased from bigger stalls in the Red Pine market and uncork the top. Yet the sweet scent that comes out is not satisfying enough for me.
+
+There is also a scent of impurities in these pills, even though they’re perfectly round.
+
+My stomach churns in distaste. It reminds me of some of the conversations I overheard in the Red Pine market. The reason the rich and noble families don’t just feed hundreds of elixirs into their children with poor 9th-grade spiritual roots is because the impurities would build up too fast.
+
+I heard a few rumors in the dining hall my first few days as a steward, that other servants heard of my promotion and tried to forcefully break through using multiple inferior-grade elixirs too. The majority ended up sickly, but some even died of impurity poisoning.
+
+Even for cultivators with higher-grade roots that have made it into the Outer Sect, one low-quality qi gathering pill may be all an initial-stage qi refiner can consume in a week.
+
+However, with higher-grade roots, one pill will saturate their roots many times faster. That is why 8th and 9th-grade roots are pushed out of the actual sect; they’re not worth the investment.
+
+I’m quite spoiled on these so-called heavenly-grade pills. The perfect golden-patterned elixirs I eat do not have any impurities and can be eaten by the handful…
+
+With a sigh, I cork the vial and place the low-quality pills back into my storage.
+
+–
+
+Another two days pass.
+
+In order to maintain my cultivation progress and feel no effects from the low-quality qi environment I’m in, I still use an upgrade card each morning to turn a burnt qi gathering pill into a perfected one.
+
+Cultivating with it for an hour in the morning satiates me enough to stay alert all day.
+
+Slowly, the Outer Sect Disciples and the Law Enforcement Hall run into dead ends.
+
+Every single steward and servant has been stopped, interrogated, and identified multiple times every day. It starts limiting the output in the servant camps, so the sect ultimately gives up trying to find the anomaly, calling back all of their members to stop wasting resources.
+
+I hear whispers from an older Law Enforcement Officer that the celestial events in the sky this time were extraordinary, but similar events happen in the Inner Sect every couple of years. Some are far more impressive, to the point where many higher-ups are not interested in pushing this search further than three days if not even a hint has come to light.
+
+When I walk down the dirt paths today and see no one in black or green sect robes, the eyes that track me from afar become even more ominous.
+
+For the last few days, they sporadically came and went. They would always leave whenever I got near Outer Sect Disciples, and there would be hours at a time where no attention was on me as I walked through the forest alone.
+
+Today, I feel this presence the entire time.
+
+My hunch that it had something to do with my Illusory Demon’s Concealment Art must be true. The longer they stay watching, it feels almost like I can start to feel their presence too.
+
+At first it’s one, then I feel another pair of eyes, and eventually a third. I’ve never felt them this clearly. They’re definitely targeting me…
+
+The pressure builds as they shift within the trees high above, and I go about my normal wood collection route.
+
+Every hut I stop at, they move closer. I can’t feel their strength or what they look like; it is just a vague presence in the back of my mind, like an invisible muscle is tightening.
+
+The member of the Blood Sword Sect that I stole this technique from was a 4th-level qi refiner, so I have to assume that all three of these are at least that strong…
+
+My heart beats faster and my nerves build up as I get through my whole route.
+
+There is an abandoned hut along the way that I usually pass before stopping at Xu Hong’s place for the final pickup.
+
+Today, I walk toward the abandoned hut and knock on the door as though I’m waiting for someone to come out. I stall a few seconds, knock again, then force my way in.
+
+The instant I enter, a long, curved inferior-quality short sword materializes from my storage.
+
+It is my favorite weapon I purchased from the blanket stalls at the market the other day. That is because it’s made of an alloy containing 1% low-quality Verdant Steel. That, and it has far better range than the small, hand-sized daggers.
+
+A bronze upgrade card is pressed against it, and in a flash of light, the poorly forged, dark-colored inferior blade turns into a perfected 1st Tier weapon.
+
+The light and pure jade-green Verdant Steel sword reveals itself after the white flash, and it feels hot and heavy in my grasp.
+
+Next, a black iron arrow is upgraded. It will be strong enough to pierce and kill any target within the qi refinement tier, but will not come with the drawback of being covered in poison that I cannot even touch. After this, I upgrade two black defensive talismans and two sheets of ember paper I have left over from lighting a cigarette. Now I have no more remaining upgrade cards, but I feel far more prepared.
+
+I walk out like nothing out of the ordinary happened and walk toward Xu Hong’s hut.
+
+The three blurry figures close in on me from every direction as I approach her front door.

@@ -1,0 +1,157 @@
+---
+id: d8ee0c2c-8373-506a-94f2-6b63371265a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Nine: The Gallery"
+slug: 0060-chapter-fifty-nine-the-gallery
+partOf: flesh-eater-demon-evolution-litrpg
+position: 60
+ownLength: 2505
+unit: words
+publishedAt: 2026-01-31
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2997431/chapter-fifty-nine-the-gallery"
+royalRoadId: "2997431"
+---
+
+“Here.”
+
+Pyre raised an eyebrow, but continued forward as Daphne carefully turned the doorknob on a room located three doors down from her own bedroom.
+
+After coming to a tentative “agreement” (if you could call it that), Daphne had gone to close the gap in the wall, which was just as seamless a process as opening it had been. The noble just had to place her hand on it, then the stone started moving on its own.
+
+Callan had watched starry-eyed the whole time, but he’d held himself back from asking the many questions he undoubtedly had. Being too interested in the manor defenses would probably be pretty suspicious right now, especially since Daphne didn’t know he was a magic nerd.
+
+Once that was done, they’d made their way back to the manor. It had taken some deliberate waiting and roundabout routes to avoid the guard patrols, but they managed to return to the main wing without anyone seeing them. Pyre got the impression that Daphne regularly snuck around the place, considering how familiar she seemed with the guard shift schedule. She didn’t even bat an eye when ducking into random servant-only hallways.
+
+Now, the noble carefully opened the door in front of them. It was dim inside, but Pyre could see that it was some sort of guestroom. One large bed sat in the center of the space, topped with embroidered blankets and fluffy pillows. The furnishings, curtains, and even the carpet were a lot more similar to the stuff she’d seen in Daphne’s room than anything in the servant’s quarters. This was probably for when the manor housed noble guests or diplomats or something.
+
+Beside her, Callan’s jaw dropped. His eyes darted about, moving between gold-engraved wood and fancy vases and other random luxuries in wonderment. He’d looked pretty awed for a while now, but they’d been moving around, so he hadn’t had a chance to fully take in the manor splendor yet. Pyre watched him in amusement as Daphne shut the door behind them and moved to find a lamp.
+
+“Fancier than Winrow?” she commented. The ghost clicked his jaw shut and nodded.
+
+“Yeah, definitely,” he muttered.
+
+A warm light suddenly emanated from the other side of the room. Daphne held up a lamp triumphantly, one finger smoking a bit from where she must’ve used magic to start the spark.
+
+“Okay, you two can stay here for now. It might be a little dusty, but there’s extra blankets and sheets in the closet.” She turned to Pyre. “I’ll tell John to have your things moved tomorrow. No one should bother you here.” Her gaze shifted to Callan next, and she frowned. “There’s only one bed, but you said you don’t need sleep, so…”
+
+“It’s great!” Callan said hurriedly. “Uh, thanks.”
+
+Daphne nodded slowly, brown eyes still watching both of them like a hawk. She shifted.
+
+“Well, I’m going back to bed,” she announced. Her eyes narrowed. “It’s just down the hall, so I’ll know if you try anything. I don’t think I need to tell you what’ll happen then.” Her gaze hardened.
+
+“I’m serious. I want to trust you guys, but you’re going to have to prove you’re telling the truth first. Got it?”
+
+Callan swallowed while Pyre simply nodded, lax as ever.
+
+“Yeah, makes sense.” She cocked her head and grinned. “Night, Lady Daphne.”
+
+The human smiled thinly and nodded back. After another quick sweep of the room, she set the lamp down on the table, then turned around to exit. The door clicked shut behind her.
+
+For a few moments, no one spoke. Pyre listened silently, waiting for the vibrations of footsteps to move further away. If she focused, she could hear Daphne’s bedroom door opening, then some more shuffling before the vibrations finally stopped. She paused another few seconds just in case, but there was still nothing.
+
+“Okay, she’s in bed.”
+
+Callan’s shoulders immediately slumped in relief. “I can’t believe that worked,” he muttered. He rubbed his face. If he wasn’t a ghost, he would probably be developing stress lines from tonight alone. “That could’ve gone very, very wrong.”
+
+“Still could, technically,” Pyre pointed out. Callan scowled and dropped his hands.
+
+“Yeah, thanks for the reminder.” He glanced up at the ornate clock hanging from the wall and frowned. “Do you know when the rest of the manor starts waking up?”
+
+“Stupid early, especially the head butler. How much invisible time you got left?”
+
+The ghost winced. “Today? Uh, like fifteen minutes or so.”
+
+Pyre raised an eyebrow and let out a low whistle. Last she’d checked, his max was four hours a day. Clearly the kid had been thoroughly enjoying his ghost life. “Damn, snooping around a lot?”
+
+“There was a famous mage teaching a private class at the library,” Callan said defensively. “They wouldn’t let me in without a fee, so…” His voice trailed, and he looked a little embarrassed. He cleared his throat. “I figured, I’m a ghost now anyway, so I might as well just… listen in.”
+
+An amused grin stretched across Pyre’s face. “Congrats on furthering your education, little bro.”
+
+Callan groaned. “I still can’t believe you called me that.”
+
+“Hey, it worked, didn’t it?” The demon stepped over to the desk and yanked open a drawer. There was an assortment of standard office supplies and blank papers inside. She grabbed one of the pens and set a page down onto the desk, which was indeed quite dusty. She’d probably sneeze if she actually needed to breathe.
+
+“Well, fifteen minutes should be enough to check the gallery. If you just confirm the horn’s in there, we can figure out the best way to swipe it tomorrow.” As she spoke, she sketched a rough map of the route to said gallery. Her lines were a little shaky—she still hadn’t quite gotten the hang of “fine motor control” in her human form yet, not to mention she had to be careful not to snap the pen in half. Thankfully the room wasn’t too far, so Callan should be able to make it there and back quickly.
+
+When she was done, she held up the drawing for the ghost to look at. The sketch was pretty rough, but she thought it got the point across.
+
+Callan squinted at it, tracing the path with his eyes a few times until he’d committed it to memory. He nodded and floated back. “Okay, I think I got it.” His brows furrowed. “The horn should be black, right? Like Tivona’s?”
+
+“Probably.” That’s what it had looked like in the brief glimpses of the envy fiend’s memories. Her horns had been identical, unlike Pyre’s asymmetrical silver ones. “Just scan the whole place in case they chopped the thing up or something.”
+
+Callan nodded and turned to leave the room, but he hesitated at the last second. He spun around to face the demon again.
+
+“You should lie down,” he suddenly insisted. Pyre raised an eyebrow.
+
+“I don’t need to sleep, kid.”
+
+“I know, but you can still rest.” He frowned. “I know the curse moved again. There’s no other reason you’d be tired. It’s going to keep draining you until we can remove it, so you should try and take it easy for now.”
+
+Pyre gave the ghost a long look. Callan had that overly earnest look on his face again, and his brows were furrowed slightly. He was genuinely worried.
+
+“Tell you what,” the demon began. “After you get back from the gallery, I’ll lie down and fake sleep or whatever until morning. That work for you?”
+
+Callan looked relieved at that. He nodded, seemingly satisfied, and turned around. In the next moment, he vanished from view. Pyre could see a cold spot disappearing through the door and out into the hall. The gradient quickly dissipated, leaving the demon alone in the room.
+
+Pyre yanked out the desk chair and plopped down. Callan was worrying too much (something the ghost seemed to be an expert in), but the truth was that she did feel noticeably more tired. All the stuff that had just happened had only exacerbated it.
+
+The demon leaned back and closed her eyes. She didn’t know if [Regeneration] worked for stamina too, but she figured it wouldn’t hurt to stay still for a bit. She had to wait for Callan anyway.
+
+Just as she was beginning to relax, a string of notifications suddenly flashed across her vision.
+
+[Experience earned!]
+
+[Your class has leveled up! Lvl 10 —> 11][Strength +2, Agility +1, Constitution +2]
+
+[You have earned 5 points]
+
+[You have gained (1) new class skill!]
+
+Please select from the following options:[Defiant Defense], [Stalwart], [Faithful Steed]
+
+Pyre’s eyes snapped open again, and she raised an eyebrow. Huh. She hadn’t gotten one of these in a while. This was her first class level since unlocking [Knight], and she was pretty sure this was also the first time she’d gotten a class level without a species level happening at the same time.
+
+Now that she thought about it, she’d never figured out exactly what gave her “class experience.” Her [Monster Class] title had greatly simplified the whole species-class split, after all.
+
+She wouldn’t be surprised if all the garrison training and spars counted for class experience. Her guard shifts might, too. If that was the case though, then damn, leveling must suck for humans. All of that for a single level. It was much easier to just piggyback off her species experience. Which she also wasn’t getting lately, but to be fair, the curse thing kind of took priority.
+
+For now, Pyre mentally pulled up the descriptions of the three skill choices. Might as well knock this out before Callan got back with the horn’s location.
+
+Class Skill: Basic Defiant DefenseIf user activates this skill, user’s constitution stat will temporarily increase by a percentage proportionate to the amount of damage taken for the duration of the skill. The greater the user is wounded, the higher % increase to defense. This skill lasts for a time frame equal to this skill’s level x 1 minute. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 8 hours. Cooldown decreases with skill level.
+
+Class Skill: Basic StalwartIf user activates this skill and an attack that would normally knock the user back hits the user within a time frame equal to this skill’s level x 10 seconds, negates all knockback and stun effects from the triggering attack. User still takes damage from the attack. Skill duration automatically ends after it is triggered. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+Class Skill: Basic Faithful SteedAllows user to designate (1) living animal as a mount. If user enters combat while riding this mount and activates this skill, within a time frame equal to this skill’s level x 10 seconds, user can choose to take on a percentage of damage from an attack that would hit the steed or transfer a percentage of damage from an attack that would hit them to their mount. The total percentage of damage that can be transferred increases with skill level. Damage that would result in death cannot be transferred. Skill duration automatically ends after it is triggered. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 12 hours. Cooldown decreases with skill level.
+
+It was almost nostalgic to read through walls of text again. Pyre hummed to herself.
+
+At a glance, [Faithful Steed] was immediately out of the picture. The [Knight] class description had mentioned mounted combat, but it wasn’t a requirement, and she wasn’t particularly interested in it anyway. When you could shapeshift and grow whole skeletons, you were effectively your own mount.
+
+That left [Defiant Defense] and [Stalwart], two defensive options that pretty much confirmed that the system was keeping track of her past choices.
+
+On one hand, [Defiant Defense] would be fun to stack with her existing defense skills. The fact that it increased her constitution in proportion to how injured she was also meant it could act as a last-ditch survival skill. That was also kind of a downside, though, because it wouldn’t do shit if she wasn’t injured. It also sounded like it only worked on physical attacks since it didn’t mention magic resistance at all.
+
+[Stalwart], on the other hand, wouldn’t reduce damage taken, but it could be a gamechanger in the right situations. She remembered quite clearly from her fights against the chimera and Tivona how much getting knocked back after a giant attack sucked. It sounded like it worked on magic attacks, too, so it would let her power through particularly nasty blows while staying in melee range. The fact that it only worked for a single strike (at least at its current level) was a shame, but the starting cooldown wasn’t bad compared to some of the other ones she’d seen.
+
+After another scan of the descriptions, Pyre settled on [Stalwart]. [Defiant Defense] was cool, but if she was ever in a situation where she needed the skill to survive, she would probably end up dead anyways. The main goal of her high constitution and magic resistance was to avoid getting injured in the first place. And if she was hurt, then she’d be better off leveling [Regeneration] to heal the damage instead of just increasing her defense more. Overall, she was quite happy with her pick.
+
+[You have selected the [Basic Stalwart] class skill]
+
+A familiar wave of warmth washed through her. As the sensation began to fade, Pyre directed her attention to the last order of business: the points.
+
+At first she debated putting all 5 into constitution. Doing that would probably get rid of her current tiredness—the +2 from leveling had already helped some—and it would help stave off any more curse effects that appeared between now and them escaping with the horn.
+
+Her mind wandered back to the memory of Daphne pointing that spell at her in the forest. The scorching heat surrounding a burning red light.
+
+The demon decided to put 2 points into constitution and the other 3 in magic resistance. Ideally Callan would confirm the horn was in the gallery and they’d break in and grab it before Daphne figured out what was going on, but it didn’t hurt to be careful. Having greater resistance to magic shit was never a bad thing.
+
+Finally done with her notifications, Pyre leaned back and glanced up at the clock. Callan should return soon.
+
+As if on cue, a bluer splotch appeared near the bedroom door. It paused, then slowly drifted through the wood before coming to a stop in the middle of the space. In a flash, Callan appeared in his full, ghostly form.
+
+“Welcome back, kid,” Pyre drawled. “You find the horn? Does it look easy to steal?”
+
+Callan frowned in response. His brows were furrowed, and deep wrinkles creased his forehead.
+
+“It’s not there,” he said. The ghost shook his head. “The horn isn’t in the gallery.”

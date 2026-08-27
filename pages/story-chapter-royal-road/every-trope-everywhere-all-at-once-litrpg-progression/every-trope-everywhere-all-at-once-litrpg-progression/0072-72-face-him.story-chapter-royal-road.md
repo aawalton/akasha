@@ -1,0 +1,183 @@
+---
+id: 1b21f3e2-190a-5be3-9a15-742bb571ed9d
+page-type-slug: story-chapter-royal-road
+title: "72 - Face Him"
+slug: 0072-72-face-him
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 72
+ownLength: 1825
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3678246/72-face-him"
+royalRoadId: "3678246"
+---
+
+The look on Meriel’s face was hilarious after I told her about [INSPECT].
+
+“Are you serious…?” Meriel whispered. “Is it really that much better than Analyze?”
+
+I nodded. “Letting me see another person’s or monster’s Level makes it easy to know how much stronger they are without having to guess.”
+
+She pointed at herself. “What’s my Level then?”
+
+I cast the skill on her.
+
+[ELF: MERIEL]
+
+[AWAKENED]
+
+Level: 156
+
+HP: ???
+
+Description:
+
+An Awakened elf, elite mage, and A-ranked adventurer of the Lyndale Kingdom. Meriel was once known primarily for her incredible spell control and unorthodox teaching methods. Now, she has ascended, granting her the insight of tropes and an instinctively deeper understanding of mana.
+
+Assessment:
+
+Meriel's actions are no longer dictated by the Narrative. An assessment cannot be given at this time.
+
+Everything had changed from the last time I checked—her description, assessment, and even her Level. Her HP, however, was still just question marks. For some reason, I hoped at least that would’ve changed.
+
+“Level 156,” I said in complete shock. “Wow, that’s much higher than the last time I checked.”
+
+“Is that a high number?” she asked.
+
+“For reference, I’m 155. You’re one Level higher than me now.”
+
+“What was I before?”
+
+“Somewhere in the seventies,” I said, shaking my head. “That explains why there’s so much mana around you now. You grew a lot stronger after your awakening.”
+
+“I’m impressed you could sense my mana that well,” she said.
+
+I frowned. “Are you making fun of me? Of course I would know something as basic as mana detection.”
+
+My gaze swept over the memorial island. Talon, Aeris, and Tuna were still off to the side of the island with the rest of the giant sky creatures, while Reina was taking her time praying to all the stones. Kaelor, however, was completely… gone?
+
+Where did he go? Did he head back first?
+
+“Hey Meriel?” I said. “Actually, I wanted to ask you about something. After hearing all of these things about the tropes, the System, and everything else… what do you think?”
+
+The winds ruffled the leaves above us, causing them to gently sway and fall on our heads. I brushed away the one that had landed on my hair, but left the one on Meriel’s for the fun of it. She didn’t seem to notice it.
+
+“Hm…” she began, crossing her arms. “It’s difficult to say. Whether I should be grateful or suspicious that I’m now aware of these things is up for debate. On one hand, I’m happy that I know the truth. On the other hand, I can’t help but wonder if any of these are even the truth.”
+
+“What do you mean?” I asked.
+
+She leaned back. “Right now, we’re assuming that the things we know that the others don’t are the truth. But why? Just because we’re the only ones able to recognize tropes? Just because we’re in the minority? That doesn’t make much sense. If an enemy mage were to cast a hallucination spell on us, we’d be the only ones suffering from its effects. But that doesn’t mean everything we see as a result of that spell is the truth. We’ve simply become deluded.”
+
+I laughed. “I don’t think that’s what’s happening to us. Everything feels way too real. Not to mention, nothing else would explain how you suddenly came back to life.”
+
+“I know,” she said. “I was just joking. Kind of. But you have a point. There’s no other explanation as to how I’m still alive right now. I have every reason to believe in all of this. However, I think there’s one small assumption you shouldn’t make.”
+
+I turned to her. “What’s that?”
+
+“Don’t assume we’re the only ones in this world who know about all of this,” she said. “It may come back to bite us later on.”
+
+“Is that foreshadowing?”
+
+She chuckled. “Hey, I’m not under the control of the Narrative now, alright? I’m just expressing my honest feelings. The first person who discovered magic didn’t assume they were the only one who knew how to wield it. They did everything they could to prove that magic existed within everybody. It just takes natural talent and training to use it.”
+
+That was true. I’ve always believed that I was the only one able to see all these tropes, but now?
+
+I couldn’t be sure. Not when Meriel was also able to comprehend them.
+
+I smiled at her. “Thanks, Meriel. For everything. You’ve taught me so much.”
+
+She patted my head. For some reason, she was doing that a whole lot more than usual, but I didn’t mind.
+
+“You’re saying that like it’s a final goodbye,” she said. “I’m still here, and I’ll still be your mentor. I’m a higher level than you for a reason.”
+
+“By one,” I emphasized. “Don’t get too cocky now…”
+
+She laughed. “But that also makes me wonder—if you were at a much higher Level than me before my awakening, how come I was still a lot better than you at spellcasting?”
+
+“I think it’s because you have a lot more experience than me,” I said. “Even Reina was only a few dozen Levels the last time I checked, but she had so much more experience than me with weapons that she was still a lot better than me with the sword or spear. And not just that, but my stat points allocation is… questionable.”
+
+“Questionable?” she raised an eyebrow.
+
+“Yup. I put too many points in… well, pretty much everything.”
+
+“Jack of all trades, master of none?” she said.
+
+“Exactly. I’m pretty sure that was even a trope I had completed back then.”
+
+Meriel looked around, coming to the same realization that I did earlier. “Where did Kaelor go?”
+
+“I was about to ask the same.” Then, my eyes lit up. “Actually, that reminds me of something. Kaelor’s [INSPECT] window was the strangest one I’ve seen yet. Everyone else’s looked the same. Kaelor’s was the only one that was different.”
+
+“How so?”
+
+“He had nothing,” I said. “It said he was a Firstborn, his name, and then a warning that some values are kept hidden. That was all. Unlike everyone else, he had no description, assessment, or even an HP section. I haven’t had much time to think about it because of everything with Aurelius and the dungeon, but I find it all so strange.”
+
+Meriel thought about it for a few seconds.
+
+“The only difference between him and everyone else is that he’s a Firstborn,” she said. “He’s the first Firstborn you’ve ever seen or inspected, right?”
+
+I nodded. “That’s what I’m assuming, but I guess the only way to know for sure is finding another Firstborn and seeing what their [INSPECT] page looks like.”
+
+Before Meriel could respond, a man’s voice came.
+
+“What’s that about a Firstborn?”
+
+Meriel and I flinched, turning to our side. It was Kaelor. He stood there with a smile across his face, leaning from the tree behind us.
+
+“You… How long have you been here for?” I asked.
+
+“Not too long. Why? Are the two of you having a conversation that I, as a man, shouldn’t know about?”
+
+“As a matter of fact, we are,” Meriel said. “I don’t appreciate you eavesdropping on us. This is a discussion between us women.”
+
+Kaelor made a fake crying face. “Oh, come on. Spare me some slack. Look—I’m missing an entire arm.”
+
+He flaunted his shoulder around.
+
+“Really? You’re pulling out that card already?” I said.
+
+He laughed. “I might’ve lost a physical advantage, but now I’ve gained an emotional one. With that aside, do either of you mind if I stay here for a bit? From the looks of it, the others are staying on this island for a while, too. The shade here is quite nice.”
+
+“Sure,” Meriel said. “But are you sure you didn’t hear anything?”
+
+“Aside from the two of you talking about inspecting a Firstborn, then no,” he said, wrapping around and standing in front of us.
+
+I leaned toward Meriel’s ear and whispered, “That should be fine. He doesn’t realize it’s a System skill. He probably just thinks we want to literally inspect a Firstborn.”
+
+Meriel nodded, turning to him. “So what brings you here?”
+
+He pointed at his missing arm. “The same thing I was flailing around a moment ago. You still have my arm in your void rift, right Allene?”
+
+“Ah,” I said. “I do, but I feel all grossed out now that you mention it.”
+
+“That’s rude. Why would you say that about my arm?”
+
+“You’re acting like it’s normal to keep a severed arm.”
+
+He shrugged. “I don’t think that’s what we should be worried about here. The thing that’s really strange is storing my missing arm in an entire void rift.”
+
+“Well, it only sounds strange because you gave it such a dramatic name,” I said. “You and the others keep calling it a void rift, but I like to call it an [INVENTORY]. Anyway, do you want it back?”
+
+After the battle was over with Aurelius, Meriel had actually taken his arm from my [INVENTORY] and coated it with a layer of ice before putting it back in to preserve it. We had checked on it every few hours since then, and conveniently enough, the [INVENTORY] seemed to make the ice last forever—or at the very least, made it melt slowly enough that none of us could notice.
+
+“Come to Arcstar Academy with us,” Meriel said. “We have healers there that could help you reattach your arm. I was planning on going there with Allene and Reina, but you should come as well.”
+
+“I’d love to,” he said. “Actually, I was going to talk to you about that. I promised I’d guarantee your position as a professor there if you helped me find Brother Kthal, right?”
+
+Meriel nodded. “Why? Are you going to take back the offer now?”
+
+“Yes and no,” he said. “I would still happily ask the Academy to make you a professor with the help of my family’s name, but… well, my concern is more about Kthal. The truth is, it would be difficult for me to get to him in my current condition. I’ll need to be as strong as I can to face him.”
+
+I raised an eyebrow. “Face him…?”
+
+Kaelor nodded, pacing around before staring back at us.
+
+“Please keep this between the three of us,” he said, looking around. “The truth is, I don’t want to find Kthal to bring him back. I wasn’t telling the entire truth when I had first told you two about him.”
+
+Meriel and I exchanged glances.
+
+“You don’t want to bring him back, but you want to find him?” I said.
+
+Kaelor took a deep breath, making his body completely still. The look in his eyes was different than before.
+
+“I want to find him to kill him,” he revealed. “Kthal took something important from me.”

@@ -1,0 +1,137 @@
+---
+id: 7b3f49a0-039a-5a36-8dbb-83c4eb1bcddc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 371: The Battle for Lyton Ruins (Part 3)"
+slug: 0408-chapter-371-the-battle-for-lyton-ruins-part-3
+partOf: dungeon-of-knowledge-complete
+position: 408
+ownLength: 2622
+unit: words
+ownProgress: 2622
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2584383/chapter-371-the-battle-for-lyton-ruins-part-3"
+royalRoadId: "2584383"
+markedReadAt: "2026-06-29T20:25:50.457Z"
+---
+
+Ali sat on a small barrier disk, floating a safe distance above the ruined logging town and the skeletons and zombies bogged down in Mato’s vast field of grasping roots, vines, and consecration. Two dozen smaller barrier disks circled her, periodically zipping back and forth to intercept falling flames or projectiles aimed at her or the raiders below.
+
+“Unknown domain skill from the Ghoul,” Ali shouted, several seconds too late.
+
+Ordinarily, she would never have missed a formation as significant as a domain skill, but she had also never had to track four raid bosses simultaneously under a hail of magic unleashed by more than forty people nearly at gold rank. Several, significantly beyond that. The moment the battle had commenced, her mind had been assaulted by an overwhelming cacophony of magic and mana – sorting it all out and prioritizing it was a significant undertaking. But the surge from the Plague Ghoul was most certainly a domain magic skill. Every single minion in range, with the notable exception of the pair of Carnage Berserkers she’d summoned specifically for this fight, cowered or fled.
+
+No, no! Not into the… fuck. Not into the zombies… Ali looked on helplessly as her minions rushed into clumps of monsters without any sense of self-preservation whatsoever, refusing all her efforts to direct them. Fricking geniuses!
+
+“Shit! Domain magic from the Wyvern!” Ali screamed, and the sky began raining fire. Her hovering barriers shot off in all directions, intercepting damage, redirecting it, desperately trying to save everyone.
+
+They failed to die. Thanks, Mato.
+
+Ali sampled her connection to her minions, but there was nothing inherently wrong. The only problem was that every single one was terrified beyond reason – terrified enough to be nonfunctional. Many of them couldn’t even flee and just collapsed in place. From her berserkers, though, she just felt rage. They roared, egging each other on, the potent currents of rage making them difficult to manage – but in the familiar way. Is it the rage that protects their minds from fear? Or is it the movement impairing protection? The berserkers had a broad array of tools to prevent them from being controlled, but this felt more like mental resilience. Either way, the berserkers continued beating on Alexander Gray’s powerful mana shield with their immensely heavy axes, while he retaliated with deadly bolts of light-devouring death magic that ripped into their flesh, decaying skin and muscle with equal ease – and empowering their rage.
+
+“Dispel the fear on the tanks!” Calen yelled from overhead. Ali glanced up, relieved to find that he, too, had avoided the debilitating fear attack and, more importantly, that he was already organizing their response. She noted the shape and pattern of the formation because that was certainly one she would need to pay attention to. It was a fortunate thing that she had chosen to stay at a distance as the fear that shredded their formation entirely bypassed her up on her perch, but the same could not be said for her minions.
+
+“On it,” Ali said, spending the time to Dismantle the fear on her nearest Acolyte to get him assisting her with dispelling the debuff.
+
+“Tanks, get them back under control. Somebody, heal Mato. He’s tanking all the damage right now,” Calen continued.
+
+Ugh. Ali dispelled fear on Belmar, prioritizing another healer.
+
+A familiar magic surged from high above Basir. “Wyvern is summoning something!” Ali screamed as the Skeletal Wyvern used Mass Summoning to fill the air with a dark flight of zombie wyverns.
+
+“Kill the spawns,” she sent, redirecting her entire melee group. Just as she had anticipated, Calen redirected all the ranged attackers toward the enemies in the sky, and she assisted with her mages. But before the skeletons and zombies could get out of hand, she needed to clear out the entire horde. Her berserkers leapt into the fray, triggering a twin Blood Vortex, both of them careening through the central mass of skeletons and plague zombies with a continuous roar of crunching and cracking bones. Hampered greatly by Seth’s curses and Mato’s roots, the lesser undead fell like wheat before the scythe.
+
+Ali breathed deeply.
+
+As her minions stripped the field of spawned undead, she noticed a second instance of domain magic arising from the Plague Ghoul – less intense, nearly lost within the chaotic flashing and surging of spells, but more frequent. A shallow puddle about four meters in diameter appeared on the ground, filled with bubbling black sludge. A dark green miasma rolled off it, dissipating into the surroundings. Right then, her larger male berserker shot through the puddle in a whirling storm of destruction, spraying sludge in all directions.
+
+You have been infected by The Withering DecayYour flesh withers on the bone, and weakness infuses you. You emit a putrid miasma of decay that infects all around you.All attributes are reduced by 20%.Emit a miasma that infects nearby targets. Range: 10 feet.Small chance per vitality point to recover from The Withering DecayDisease – Count: 1.
+
+Oh, that’s nasty, she thought, studying the disease her Berserker had just contracted from the pool. Her Giant Troll continued on its merry way, tearing through the undead, but now, instead of just the dark red mist, it leaked a putrid-smelling dark green miasma that infected anything it touched.
+
+“Cure him,” Ali said, directing her command to her nearby Acolyte. Mato’s aura should take care of all the diseases, but it took a little time to dissolve them, and nipping this in the bud early would be a huge benefit.
+
+She shared the disease stats with Calen, knowing he’d recognize the danger immediately, and instructed her Acolyte to keep an eye out for more. Twenty percent attribute reduction… Ali easily conjured an image of someone like Sabri getting infected right before the Wight struck – it was not a pretty thought. If any tanks were infected at the wrong moment, it would spell the end of their raid and their lives. She dispelled Kir’vella and knuckled down to the task of categorizing the various magics, learning the important ones so that she needed to Disrupt at critical moments, which must be dispelled or cured, and which could be left to Mato’s aura – mass eroded with a lower priority.
+
+Somewhere in this milling chaos of magic and conflicting priorities, there had to be a key to start unraveling the fabric of this battle – a way to turn the tide in their favor. Ali focused with all her might, chewing through ideas and scenarios. Stabilize, prioritize, strategize. Come on, we’ve been in ugly battles before.
+
+“Don’t stand in the puddles!” Calen yelled – a message Ali wholeheartedly approved of.
+
+A semblance of stability began to return to the fight – an emergent property of control layered upon the chaos. Ok, now you, she thought, pressing her lips together as she focused on Alexander Gray himself. She had mostly figured out all the abilities of the other raid bosses, and now she had a feel for the rhythm of their domain spells. The Wyvern had Mass Summoning, Fire Storm, and some incredibly dangerous haste or frenzy ability that lasted a short while and was reusable. The Ghoul had the puddles of disease, the area fear, and a constant summoning of Plague Zombies – otherwise unremarkable undead that appeared to come pre-infected with The Withering Decay and spreading it in all directions just like her berserker had done. It was fortunately easy to recognize by the clouds of dark green miasma billowing out from them. The Bone Wight had Mass Summoning for skeletal warriors and mages, Nova Strike for a Bone Spear ability of some kind, and Kir’mogan’s Overpowering Strike – a spell she couldn’t directly see but instantly recognized due to the panicked reactions from her healers every time it landed.
+
+But she couldn’t figure out Alexander Gray. One of his abilities was obviously the enormous death affinity aura with its oversized radius, but the other two were mysterious, still eluding her sight. He seemed to attack with the same death magic and blight aura she remembered, but they mostly had a handle on that, countering it with Mato’s aura and strong healing. Does he have attribute enhancements? Something else passive, something we haven’t seen yet or can’t see?
+
+He also hid behind that incredible Mana Shield. Every time Malika’s fist or her Berserker’s axes struck, they clanged or cracked into the invisible wall that surrounded him like a bubble of force. If the hit was strong enough, the bubble became briefly visible, a darkening of the air that flickered out along the surface of a sphere. Once they burned through the shield, he should be easy pickings – at least, until he summoned his Bone Avatar.
+
+Then, she noticed something she did not expect.
+
+“Malika? Are you attacking his mana?” Ali called out. Of course, she could already see the answer for herself; Malika’s punches cracked a steady staccato against the mana shield, her fists blocked by the invisible barrier, but her blue-tinged soul magic pierced through the shield, impaling his withered body – even passing right through it and blasting pebbles and dust from the ground behind him. Mana was being rapidly drained from the undead mage, fueling Malika’s abilities and rapid strikes, but Ali had learned to estimate the mana capacity of bosses.
+
+Alexander remained firmly at full.
+
+“Yes,” Malika called out. “But it’s not working. None of the melee can hit him.”
+
+Sure enough, all the shiny blades of the rogues and the warriors glanced off the invisible barrier. They were following the plan of burning the mage down as fast as possible, but nothing was making it through that shield of dark death mana. Even Vivian’s incredibly powerful platinum-ranked strikes were just leaving patches of burning fire to slide off the shield.
+
+Alexander laughed as if he sensed their confusion – a horrific dry cackle that sent shivers down Ali’s spine.
+
+Ali’s female berserker leaped across nearly twenty meters, spending a huge chunk of health to power her massive overhead strike. Teagan let out a panicked squeak at the sight of sudden health loss. The whistling greataxe connected with the mana shield with a deafening crack, discoloring the dark barrier to opaque black from the force of the impact. That was when Ali saw it. Even under close scrutiny, she nearly missed the brief dip in Alexander’s mana. Before she even blinked, it had recovered.
+
+“Hit him again,” Ali instructed. Sorry, Teagan, I need to see. He had to be getting that mana from somewhere. The Berserker Troll understood her intent perfectly, spending nearly all her just-recovered health a second time, empowering an incredible horizontal backhand swing that struck the shield with a deafening boom. Again, the shield blackened briefly, and the mana dipped.
+
+What the…
+
+From high overhead, an intense streak of light shot down. Three nearly simultaneous explosions detonated on and within the shield. Sound vanished as pain stabbed deeply within Ali’s ears. The entire ruined town turned instantly into impenetrable shadows, backlit by a flash so bright it blinded her eyes. Momentarily assaulted by the afterimage of the town silhouette burned onto her retinas, her mana sight sharpened in response, and she saw how much Calen’s attack had burned from Alexander’s mana pool. Rapidly, it began to rise, drawing from somewhere. Mana flared from everywhere, spells going off in rapid succession, and Ali frowned as she struggled to sort it all out – it was like trying to find a candle in the middle of a bonfire with all the offensive and defensive spells whistling about the battlefield, but then she found it. A trickle of mana attached to a ruined building back beside the shrine. With just her mana sight, she found a hazy, glowing outline of several specters lurking unnoticed behind the broken walls, and as their mana drained out to feed their master, there was a sympathetic response from the domain itself.
+
+That’s it! Alexander Gray had not demonstrated any domain summoning spells, but he was still a necromancer – he had always been able to raise the undead. While the other raid bosses were summoning waves of lesser undead, Alexander had squirreled away a handful of specialized specters, leaving them hidden among the ruins. Somehow, his connection to his minions allowed him to siphon domain mana through them, refilling his mana shield. Sneaky! But not quite sneaky enough.
+
+“Calen!” Ali called out. “He’s draining his specters.”
+
+“Kill them then,” he said. At his command, all the melee fighters switched targets, tearing into the specters with everything they had.
+
+Ali watched carefully as Calen descended to hover beside her.
+
+“Nothing can get through that shield,” Ali observed. “He’s replenishing it with a domain mana siphon that goes through the specters. We’d have to drain the entire dungeon to hit him.”
+
+“Yes, we need to get them down as soon as possible,” Calen answered, firing volley after volley of explosive arrows into the sky, making it rain zombie chunks. Flaming zombie chunks.
+
+Wait, that’s not entirely accurate, Ali thought, watching closer. Malika still danced about Alexander Gray’s gaunt form, dodging his death magic bolts with ease, but while her fists and feet were blocked by the nearly invisible mana shield, her soul magic punched right through.
+
+That was when Ali remembered the blinding sight of Calen’s Power Shot. Three explosions.
+
+Acting on that hunch, she commanded an Ice Troll, diverting it from the flights of zombie wyverns and his job of controlling loose skeletons with Frost Nova. “Attack Alexander Gray.”
+
+“Yes, Seeker,” came the immediate response. A continuous stream of ice bolts zipped across the twenty-meter gap, slicing into Alexander Gray.
+
+The undead raid boss hissed.
+
+Into him. Just as she had thought, Spectral Ice was enough to penetrate the mana shield, and the ice bolts passed clean through Alexander’s torso, chilling him with the powerful magic her troll possessed.
+
+“Calen! Piercing works,” Ali called.
+
+“I know. But my shots alone aren’t enough to take him out,” Calen said, twisting his lips in frustration. “Not even with my new advancement going off all the time. Besides, I need to take care of those fliers in between.”
+
+“It’s not just you,” Ali said, pointing. “Malika’s magic is getting through, and so are my mages’ ice bolts. It’s all piercing magic.”
+
+“Wait, really?” Calen said, his gaze snapping to the ice bolts. As if he needed to reconfirm for his own eyes, he fired an arrow at Alexander Gray, and his piercing arrows had precisely the same effect, triggering their on-hit light damage enchantment first on the mana shield going in, then on Alexander Gray himself, and then again at the shield boundary on the way out.
+
+We can still hit him,” Ali finished for him.
+
+“Everyone with piercing magic, shoot the boss!” Calen roared.
+
+“Save all your Power Shot procs for him,” Ali suggested.
+
+“Right…”
+
+Ali set her two mages to shooting Alexander Gray, wishing now that she had made more, but among the modest stream of newly redirected raid spells, she found five streams of ice bolts piercing the mana shield and chilling him. She glanced backward and caught Seth’s grin and wave. Right beside him stood the animated corpses of the three trolls she had created for him to raise. Their ice was noticeably slower and less damaging than her evolved mages, but every bit counted. Ali waved back.
+
+“Watch this,” Seth said, brandishing his obsidian rod and a familiar wand in his hand. “Ice vulnerability, amplify damage, and curse proliferation!” Mana swirled from him in various colors, and he finished with a flourish.
+
+“That… that will definitely help!” Ali said.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

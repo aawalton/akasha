@@ -1,0 +1,123 @@
+---
+id: a63a8b4c-a0ae-5f8a-9f60-d91bc62504bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5"
+slug: 0005-chapter-5
+partOf: emie-ascended
+position: 5
+ownLength: 2013
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3454933/chapter-5"
+royalRoadId: "3454933"
+---
+
+After defeating the fake bunny, I realized that I’d overestimated the creature’s danger.
+
+The lagus I’d encountered in the simulation had been a lot faster and had struck without warning when I’d gotten close without realizing the danger.
+
+This lagus hadn’t waited for me to get close before attacking, giving me plenty of time to react. It was slow enough that a trained delver probably wouldn’t have been caught by surprise, and I was certain that a team would have had little trouble defeating it. It made me feel a little bit better about the danger this dungeon posed.
+
+The system was obviously updating its understanding of my capabilities in real time since the next lagus I encountered was tagged green, marking it as a mild threat even though it was larger than the first one.
+
+I’d known that the system paid attention to such things, which was why I’d expected the mob to be more of a challenge than it was, given its yellow threat rating.
+
+I spent the next few hours clearing three more rooms, killing any mobs present, and collecting everything of value I could find. I didn’t bother looting the bodies right away, opting to send them into storage for now to save a bit of time.
+
+It would be easier to just loot everything at once.
+
+Harvesting the random herbs and other resources provided by the dungeon took far longer than defeating the mobs, but I knew the materials collected would be worth the effort.
+
+Each room was basically a repeat of the previous rooms, but with a greater number of mixed mobs instead of a single type and a more meandering path. The resources available were also a mix of the ones I’d found in the first three rooms. They were mostly herbs, but there were also a few vegetables, fruits, and nuts as well.
+
+I occasionally sent entire patches of herbs into my demesne to serve as the foundation for my future garden. For now, I placed that section of my demesne into stasis to prevent the plants inside from dying.
+
+I hoped that my new Herbalism skill would aid me in making the garden flourish once I focused on tending it, but that probably wouldn’t happen for a while. I’d probably need to do a little more research before taking the chance.
+
+Eventually, my stomach alerted me that I’d neglected it for too long. Since I was quite deep into the floor, I used the dimensional anchor to teleport back to the safe zone so I could prepare some food. I’d need to make my way through all of the rooms again to get back to where I’d left off, but that could wait until tomorrow.
+
+I’d managed to reach level three before returning, which wasn’t too bad. I wanted to defeat the boss and make it to the second floor before leaving the dungeon. Given my progress so far, I expected to reach that goal in a day or two at most.
+
+Realizing that I had several unlooted bodies in storage, I summoned a few lagus bodies to loot in hopes that I’d get a good portion of meat.
+
+Squirrel meat was okay, but I’d developed a taste for lagus after one had almost killed me in the simulation. Maybe it was petty of me, but I found myself looking forward to making a meal out of the aggressive creatures.
+
+Sadly, only one of the three bodies produced meat, but that was all I needed.
+
+I looked around for somewhere to prepare the ingredients, but realized that I had nowhere to work. Frustrated, I shifted into my sanctuary, planning to use Divide Space to create a makeshift table.
+
+It took a bit of effort to get the space to manifest a floating wall, but with a clear enough mental image of what I wanted, I managed.
+
+I only realized afterward that it would have been much easier to just extend a partial, horizontal wall from an existing wall instead of trying to create a floating tabletop in the middle of the space.
+
+Shaking my head at the oversight, I chalked it up to a learning experience and moved on. My mind had clearly lost some of its sharpness when I ascended. I could only hope that it wouldn’t take long to regain what I’d lost.
+
+Using one of the daggers provided by the dungeon, I roughly chopped the lagus meat into chunks before skewering them on thick fenage stems that I’d let soak in water for several minutes.
+
+I’d removed the sage-like leaves from the herb first, storing the dark leaves for later. Using the stem as a skewer was a trick I’d learned during my time delving in the simulation, since fenage was a fairly common dungeon herb that made a wonderful seasoning for most meats.
+
+I didn’t have any salt, which was unfortunate, but a light squeeze of this realm’s version of a lemon made a decent substitute. I would have preferred to use the zest, but that would have taken a lot longer to manage, and my stomach was already protesting.
+
+Though I didn’t have a fire skill, I did have the next best thing. With a careful casting of Lightning Bolt, I managed to start a small fire inside the ring of stone I’d set up several meters inside the perimeter of the safe zone.
+
+Since I wasn’t sure how well a fire would work within my demesne, I was doing my cooking in the safe zone where I wouldn’t have to worry about ventilation or smoke.
+
+I could have built the fire purely by hand since I’d actually trained in mundane survival techniques prior to my ascension, but I was feeling far too impatient to bother with a slower method.
+
+I skewered a few of the somewhat unfamiliar vegetables that I’d harvested with Herbalism’s help, and put them on to cook alongside the meat. They’d probably be bland, but I’d survive.
+
+The light in the dungeon began to fade as the food cooked over the low-burning fire. I wished it had waited until I had finished cooking, but that was more a matter of convenience than any concern for safety.
+
+When the juices from the meat ran clear, and the vegetables had softened, I removed the skewers from the fire and slid their contents onto a makeshift plate I’d crafted out of a large piece of bark that I’d harvested from one of the hardwood trees.
+
+A notification appeared offering me the Cooking skill as I took the first bite. My hunger and the taste of cooked meat almost made me dismiss the notification without reading it, but I managed to stop myself long enough to consider the skill.
+
+Though I really wanted to acquire the Cooking skill, if only for how much easier it would make it to prepare my own meals, I only had a single ‘extra’ skill slot. Since I didn’t necessarily need a cooking skill to prepare well-made food, I grudgingly dismissed the notification without accepting the skill.
+
+I knew that the skill would remain available if I changed my mind, so I wasn’t really losing out on anything by dismissing the skill now. Still, not accepting the skill made me strangely sad.
+
+Exhausted after my first full day in the dungeon, I entered my demesne, ready to sleep. It was only then that I realized that I’d neglected one of my most basic necessities.
+
+I had no place to sleep.
+
+The pelts I’d harvested so far would probably make decent bedding, and I was pretty sure I could also alter the hardness of the floor to make it more comfortable to sleep on. But sleeping on the floor had never really appealed to me.
+
+After my eyes landed on the floating table, I decided to create a bed-sized shelf along the far wall using a similar method to the one I’d used to make the table. Except this time, I made it a little easier on myself by attaching the makeshift bed to the wall.
+
+With a bit of focus, I changed the shelf from a hard, wood-like surface to something closer to firm memory foam without compromising its structural integrity. I piled all the pelts I’d looted thus far onto my new bed, and was immediately tempted to loot the remaining bodies in storage to get more.
+
+Ultimately, I decided not to bother since my demesne was warm enough not to need much by way of covering. I didn’t bother stripping out of my clothes before climbing on top of the warm furs.
+
+With barely a thought, I dimmed the lighting to near darkness and fell into a deep, restful sleep.
+
+Sometime later, I stirred to wakefulness. The lighting automatically adjusted as I opened my eyes, growing steadily brighter as my eyes adjusted to the light.
+
+I yawned and stretched my new Dian body before getting out of bed.
+
+My creation was comfortable enough that any thoughts of hand-crafting a new one were instantly dismissed in favor of keeping what I had for now.
+
+I’d probably need to craft or buy a real bed before I invited any potential party members into the space, but that was a concern for later. Same for the table. Both stood out as distinctly magical, and I didn’t want to have to explain any more than necessary when the time came to share some of my secrets.
+
+Sure, I could keep everything about my demesne a secret, but I felt like it would be safe enough to claim the section that I’d designated as my residence was a sanctuary that I’d earned as a boon. Hopefully, that would limit the number of questions I had to answer without seeming too unusual.
+
+Besides, it really was a sanctuary that I was only able to personally access because of a boon, so it wasn’t like I was lying.
+
+I couldn’t keep everything about myself a secret if I wanted to build relationships instead of keeping myself mostly isolated like I’d done in my previous realm.
+
+As I exited my new sanctuary, I noticed an uncomfortable pressure in my lower abdomen. It took me an embarrassing amount of time to remember that my ascension had returned all of the bodily functions that progressing had negated in my previous realm.
+
+After dealing with that uncomfortable bit of maintenance, I washed up using the fountain. The water was cold, which I didn’t much care for. But it was better than being dirty.
+
+“It’s too bad I don’t have enough slots to acquire a Cleaning skill,” I grumbled, missing my old Cleanse spell.
+
+Had I encountered a skillbook for it right then, I probably would have learned it. I did have an extra slot, after all.
+
+After doing what I could to clean myself, including chewing some herbs that I knew were used to make this realm’s mouth cleansing wash, I decided to eat a quick breakfast of leftovers as I waited for the dungeon to shift from night to day.
+
+I’d gone to sleep fairly early the previous day, so I hadn’t seen the actual transition to darkness. Sitting by the cold remnants of my cooking fire, I took the opportunity to appreciate the night sky as I broke my fast.
+
+Though I was inside a dungeon, the sky looked just like I remembered the night sky of Dia appearing. There were no stars since this realm held only a single system with a single planet, but there were beautiful ribbons of light and what I assumed were clusters of illuminated gases lighting the night sky.
+
+It looked like something between the Northern Lights on Earth and close-ups of distant nebulas. The combination meant that nighttime wasn’t quite as dark as it was on Earth, even without a moon.
+
+Over the course of about three minutes, the sky shifted from night to day, and the colors painting the sky disappeared. With no reason to delay, I began working my way through the rooms I’d already completed before heading deeper into the floor.

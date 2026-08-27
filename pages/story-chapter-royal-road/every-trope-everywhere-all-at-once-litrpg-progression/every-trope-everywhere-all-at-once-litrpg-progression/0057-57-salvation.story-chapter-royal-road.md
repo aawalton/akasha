@@ -1,0 +1,161 @@
+---
+id: c19e3db0-ab74-5873-8595-3afc985d5856
+page-type-slug: story-chapter-royal-road
+title: "57 - Salvation"
+slug: 0057-57-salvation
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 57
+ownLength: 1703
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3591634/57-salvation"
+royalRoadId: "3591634"
+---
+
+We weren’t flying through the air anymore.
+
+We were standing on an empty island that bore nothing but grass, a few trees, and an endless waterfall spilling off the edge. Kaelor and I stood on one end, while Aurelius stood on the other.
+
+“So it’s just the two of you?” Aurelius said with a laugh. “Good. That makes it easier for me, considering it's your body that I want the most.”
+
+His ears twitched as loud roars sounded somewhere in the far distance. I recognized them right away. From the look on his face, he did as well.
+
+“So you’ve set them free,” he said, looking at me.
+
+“What did you do to them?” I asked. “Those twins… why would you stuff their souls into a single body?”
+
+“I offered them salvation.”
+
+“By turning them into monsters?”
+
+His expression grew dark. “You don’t know who they were. You’re in no position to decide what’s best for them.”
+
+I gritted my teeth. “That’s exactly what you did to them—deciding their fate. They wouldn’t have wanted to end up like that.”
+
+“They died a pitiful death,” Aurelius said. “They were slaves who never knew what living truly was. I gave them what they needed most. Strength. Never again would they be treated the way they were. In a way, their souls were liberated by my hands.”
+
+Kaelor stood beside me, silent.
+
+“Liberated?” I said. “With all those chains latched onto their flesh?”
+
+He didn’t say anything.
+
+“Camille was right,” I continued. “You’re insane.”
+
+“Quiet!” he shouted, his eyes wide.
+
+Kaelor and I exchanged glances. That reaction was the most emotion we’d seen from him yet.
+
+Kaelor stepped forward. “That name… Camille. It means something to you, doesn’t it?”
+
+Aurelius frowned. “Who are you to ask that?”
+
+“Somebody who once bore the same expression you do now.”
+
+Aurelius glared at him. “...What?”
+
+“She means something to you,” Kaelor continued. “You wouldn’t react like that otherwise. Who is she?”
+
+“A ghost maid that I met in the dungeon,” I said.
+
+“A ghost maid?” Kaelor said. “I presume you found her in the manor where you and Reina were sent to find the lever?”
+
+I nodded.
+
+He turned back to Aurelius. From the way Kaelor was standing, it was impossible to tell what he was thinking. Whether he genuinely wanted to talk to Aurelius or was just trying to lower his guard, I couldn’t tell. Neither could Aurelius. His body was tense and his angelic wings stretched ever-so-slightly, ready to take flight if Kaelor were to attack.
+
+“I see what’s happening,” Kaelor said, showing a soft smile. “Camille was somebody you deeply cared about. But seeing that she appears as a ghost in the dungeon, she must have died out here in the outside world. Is that true?”
+
+Aurelius froze, not saying a word.
+
+“A dungeon depicts its dungeon warden’s life in some shape or form,” Kaelor continued. “This serves several purposes. First, it keeps the dungeon’s theme consistent. It gives the adventurers an idea of what to expect. But aside from such a cosmetic reason, it also convinces the sentient beings—including the dungeon warden—that the dungeon is their true home.”
+
+“True home? What do you mean?” I asked.
+
+“Archmages are masters of magic. The ability to create a dungeon is no easy feat. Non-sentient beings are by-products of the dungeon and have no desire to leave it, such as the Porcelain Harpies or the gargoyles we encountered in there. Sentient beings, on the other hand, are a bit different. They’re from the outside world. Those who are as powerful and conscious as Aurelius, the Borrowed One, require more mana concentrated into them, since the dungeon constantly casts a spell on them that prevents them from having the desire to escape. The archmage who imprisoned him must’ve made a mistake, which led to Aurelius having the desire to leave his dungeon.”
+
+Kaelor continued, “But as a failsafe, archmages tend to have several things in place to keep the dungeon wardens tied to their dungeons. Whether it’s a picture of their families, a gift from their parents, or the soul of a loved one.”
+
+I raised my brows. “The soul of a loved one…? You mean—”
+
+“The Camille you saw back in the dungeon was just a representation of the original, but I’m willing to bet that her soul is stuck in that body. Given Aurelius’s obsession and ability to toy with souls, it’s the most reasonable assumption. Am I correct?” Kaelor asked.
+
+Aurelius’s body trembled as he averted his gaze.
+
+“You know nothing,” he said, his voice faint.
+
+“Aurelius,” Kaelor called, taking another step. “I know how you feel. I once loved someone as much as you loved Camille. But once they’re gone, you have to let them go.”
+
+Their eyes met.
+
+“Me? Letting go of Camille?” Aurelius said. “No. I’ll never do that. Everything I’ve done up until now was to bring her back. And not just her, but everyone else. All these experiments… all of it was for them. And I was close. I was so, so close to succeeding. But that archmage ruined me. They got in my way, and imprisoned me for eternity. But for what? Was I wrong for wanting to bring them back?”
+
+“No,” I said. “But your methods aren't the right way to do it.”
+
+He looked at me. “What else could I have done? If I put her soul into the wrong body, she’ll suffer. And so will the others. I needed a way to experiment with this… gift of mine. Do you think I’m doing all of this because I want to?”
+
+His goals and the way he acted… So much of it was different from how the cursed book that Reina had read described him. How much of it had ever been true?
+
+“So this dungeon outbreak… all of this is happening because you want to find the right body for them?” Kaelor asked. “You intend to bring those bodies back into the dungeon and put their souls into them?”
+
+“Yes.”
+
+Kaelor narrowed his eyes. “If Camille’s soul is in that dungeon, then where are the others?”
+
+“They’re in there as well.”
+
+I crossed my arms. “But if all of this is true,” I began, “then what was that about back there? While Reina and I were down in the cellar, you lashed out at Camille. You told her that she was a fake. That she wasn’t the real one.”
+
+“Because the body that she’s in and the way she acts isn’t the same Camille I once knew,” Aurelius said. “It’s as if the dungeon tried to mimic her and failed miserably. That ghost form is a magical manifestation of her soul that was created by the dungeon, yet it completely misrepresents who she truly was. Her soul is not compatible with that vessel. That’s why I must find a new body for her as soon as possible.”
+
+“And how will you know once you’ve found the right one?”
+
+“Because a person’s soul will naturally gravitate toward the body that is most suitable for them,” Aurelius said.
+
+Then, he pointed at me. “For now, you’re the most compatible one I’ve seen.”
+
+“Me…?”
+
+“From the way Camille looked at you, yes. You didn’t notice?”
+
+“Can’t say I did.”
+
+Aurelius continued, “Even so, you’re not a perfect fit. After I take your body, I’ll continue looking for one that suits her even better. The monsters by my side will help me search for the right one. They’ll kill those whose bodies are incompatible with her soul and leave the possible candidates alive. Oh, but don’t think they’ll let you off easily, Allene. They’re willing to injure you as much as they need to, so long as I can still take control of your body.”
+
+He straightened his posture, slowly pacing around. “Yet something about your soul is… off,” he said. “I’ve never seen anything like yours before. Every soul I’ve witnessed so far has something in common. It’s hard to describe, but it’s there. As for yours? Yours doesn’t have it.”
+
+Hah… it was because I was from another world, wasn’t it?
+
+“What does it look like?” I asked.
+
+He stared at me for a moment. One second stretched into ten. Then twenty. Eventually, he said,
+
+“It looks… unfinished. As though somebody started writing a soul and stopped halfway through. The shape is there, but the details refuse to stay the same. Every time I focus on it, it becomes something else. It makes me wonder if you’re hiding something.”
+
+Kaelor stepped in, stopping Aurelius from peering at my soul any longer.
+
+“I’ve wondered this whole time why you haven’t taken our souls yet,” Kaelor said. “I initially thought that you had to make some form of physical contact with us, but from the way you’re constantly keeping your distance and hiding behind those rings of yours, that can’t be the case. There’s a restriction, isn’t there?”
+
+Aurelius stopped pacing.
+
+“Is there?” he said, as if taunting the thought.
+
+“You wouldn't be kind enough to just tell us what it is, would you?” Kaelor asked, smiling.
+
+Aurelius laughed. The rings on his fingers began to rumble, each of them slowly slipping off and rising into the air. But they didn’t shoot toward us. Instead, each of them expanded, growing several times larger than their original forms.
+
+Then, they combined into one.
+
+Floating before us was a sword made entirely of rings. There were tiny gaps in between each one, but somehow, they stuck together into the shape of a sword. Aurelius grabbed it by the handle and swung it around. The shape remained stable.
+
+“You don’t have to do this,” I said. “Meriel—the elf who’s with us—will soon be a professor at a magic academy. We can help you find a way to bring Camille back there. There are all kinds of mages and books and—”
+
+Aurelius pointed the ring sword at me. “I’m not a fool, Allene. Every academy would view my magic as forbidden. That’s exactly why I was imprisoned in the first place. Nobody is willing to help me.”
+
+“There has to be another way,” I said.
+
+He shook his head.
+
+“There isn’t.”
+
+He sprinted toward us.

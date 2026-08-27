@@ -1,0 +1,165 @@
+---
+id: d7d1fb94-f9fe-5a09-b004-d324d1f0ee94
+page-type-slug: story-chapter-royal-road
+title: "Ch116 Progress"
+slug: 0116-ch116-progress
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 116
+ownLength: 2109
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3797570/ch116-progress"
+royalRoadId: "3797570"
+---
+
+Three entire days pass by.
+
+I become fully immersed again, jumping back into this rematch simulator almost every 5 minutes at its lowest-cost one thousand spirit stone setting, practicing this movement over and over.
+
+The nearly three quarters of a million spirit stones are spent entirely.
+
+This is enough wealth to support the cultivation growth of hundreds of outer sect disciples, all at once, for over a year.
+
+In Lingshi City, some of the strongest late-stage qi refining clans would have to save and pool their resources for decades to reach the amount that I’ve spent in this hidden realm in a matter of days.
+
+It does appear to be an unfathomable amount of wealth, but it is allowing me to create small simulated realities without any negative physical consequences. If any clan, or the Azure Cloud Sect themselves, heard of what this system gift could do, they’d pay tens, even hundreds of times more without blinking.
+
+I’ve managed to improve my casting time down from a minute to about twenty seconds for the Martial Fireball. It no longer leaves my right arm in an unusable state afterward; instead, it is only tingling and sore. This has cut down many years of technical training to just a few days once again.
+
+Though, not everything is easy going. No matter how many times I try, the flame pillar technique does not improve to the same degree.
+
+It continues to blow my arm clean off with every simulation.
+
+I even attempt the incineration technique out of curiosity, and it instantly kills me on the spot.
+
+Every time I activate it, I can see the perfect technical application, but my spirit root, dantian, and tethered meridians are not strong enough to handle the spell.
+
+An immense ball of fire blows me to bits continuously, so I stop trying.
+
+I come to the conclusion that this simulator exploit is very productive to mentally master techniques and hone my instincts, but it does not affect my physical body at all.
+
+My flesh, bones, meridians, and spirit roots do not show any signs of growth no matter how many simulations I repeat.
+
+That all needs to be done manually, and reap the rewards of natural healing, with elixirs, and time strengthening my true flesh and blood.
+
+I’ve hit a point of diminishing returns, where I’ll need to grow my body stronger again to progress further.
+
+In my last few training attempts, I spend a large chunk of spirit stones on the few opponents in this simulator that I’m unable to consistently defeat.
+
+They are the 8th and 9th level blood demons.
+
+Unlike armored lizards, they have reached the perfected stage of their acquired physiques. This adds a considerable amount of strength, far surpassing my perfected physique with only a 5th level of qi refining.
+
+On top of this raw speed and strength gap, they’re also humans, with battle intelligence.
+
+Spirit beasts act on instinct and fear; I can outsmart them and easily find weaknesses in their physiques.
+
+These late-stage blood demons on the other hand, instantly attack me if they ever see me trying to charge up an attack. If I try to find weaknesses in their physiques, I can land a few solid hits, injuring them, but at close range it is truly a game of chance if I can get away fast enough.
+
+Sometimes I can, and my soul fracturing attacks on the weak points of their physiques are precise enough to give me an advantage in the next exchange. However, it is not a guaranteed repeatable outcome. I’d be risking my life unnecessarily in the outside world to rely on this strategy.
+
+At the same physique stage, but a much lower qi cultivation, I am simply outmatched.
+
+The only way I can take one out with certainty is by self-destructing using a Martial Incineration spell, but it is highly impractical.
+
+Once I run through my entire usable supply of spirit stones, I slip back outside and feel the morning sun beating down on me.
+
+There are 15 fresh unused upgrade cards in my storage.
+
+I take a relaxing stroll around the remaining 84 spirit veins being safely harvested, and stow away over two hundred thousand spirit stones that have been farmed while I was training. This is a reasonable buffer for emergencies.
+
+The wedding is scheduled for today.
+
+The mid-stage mortal-grade verdant soul wine Lan Xin procured for me is resting in my storage, ready to be presented as a gift, but this is my chance to make a mysterious first impression.
+
+It may be an extremely valuable item, but if it can be procured by an outer sect disciple with no family backing like Lan Xin, it isn't exactly a shocking gift. Even if I upgrade it, I’m still taking her word on its effects.
+
+Mu Shulan already knows me as the qi refiner that brought her three perfect-grade artifacts in the market just for some extra spirit stones.
+
+Wang Ming knows me as the eccentric young kid that must have come from a family outside of the sect’s bounds, here to live an interesting life without any hidden motives.
+
+However, both of them have it wrong. I certainly have my own motives; I just think much longer term, with a far more open mind than greedy cultivators that make up this world.
+
+I approached them both in the Red Pine Market because out of the hundreds of mid- and late-stage cultivators there that day, they were the only ones with 4th-grade spirit roots.
+
+Now, I have the opportunity to appear before the rest of their families.
+
+All I know is that they are the most talented of their young generation, so there will most likely be no others matching their young prestige. However, there are foundation establishment cultivators that make up the pillars of their clans.
+
+I’ve only seen two of these practitioners in person before, one being the vice peak master of the beast mastery peak, Kang Yelang.
+
+He stood with a presence of indifference that implied all qi refiners were nothing but waving blades of grass beneath him. He did not release any of his aura, but he did not have to.
+
+I vividly recall the aura of the Phantom Lord, a foundation establishment cultivator that wanted to kill me. One that easily would have, even with all of my perfected talismans and techniques, if it were not for a freak life-saving event from little red.
+
+These two cultivators were only initial stage, while the patriarchs of the Wang and Mu clans are said to be mid-stage.
+
+The quantifiable power behind these terms is still fuzzy in my mind, but one thing is clear: now is the time to impress them.
+
+While walking back to the main middle plot of these three properties, I pull out two burnt marrow cleansing pills I purchased in the Red Pine Market with Wang Ming three weeks ago. Two taps of an upgrade card later, and the sweet scent of heavenly grade golden patterned pills hits the air.
+
+It is difficult to estimate the actual value of these pills. A low quality marrow cleansing pill will sell for hundreds of spirit stones. A high quality pill can sell for upwards of 5,000 spirit stones. A three patterned pill like this could be ten times the price to the right buyer for all I know, but I have never seen anything to compare it to.
+
+Marrow Cleansing pills are great one time use items, or at least once every few years to purge large amounts of impurities from a cultivators body. My body doesn't crave these two brown and golden orbs in my palm, as for the most part, they would not do much for me in my current state. They would probably be just like the second one I ate during my 4th level qi refining breakthrough, which purged little to no impurities from my body.
+
+The first one however, was probably the most important elixir I’ve ever eaten. It was before I even became a cultivator, allowing me to reach the first level of qi refining with mere spirit stones alone in less than two months.
+
+Most cultivators with 9th grade roots would spend years fighting that bottleneck to clear out their meridians.
+
+The effects on Wang Ming and Mu Shulan with their natural talent will most likely be even more shocking.
+
+I stow them away, convinced that this will be a novel enough gift to intrigue these foundational families. Then, pull out the rock bee honey to take a closer look out of curiosity. I’m still intrigued about what this could become.
+
+I uncork the small vial, and breathe its sweet scent.
+
+It has very subtle particles floating through it, similar to the strength of that peach blossom talisman Lan Xin tried on me. Whatever flowers these bees pollinated to make this honey, they had a physique at the initial stage of mortal grade.
+
+I cork the vial again, and tap a bronze upgrade card against the honey, causing a bright white flash of light to shine in my hands.
+
+The jade vial has shrunk in size. It is now crystal clear, and the honey inside is amber brown, glistening and giving off dark yellow particles of mist.
+
+It vibrates with an extremely strong and pure pressure, far stronger than any perfected tier 1 item ever has.
+
+It is now true heavenly grade honey, with a perfected stage mortal grade enchantment.
+
+I tilt the vial back and forth a few times, watching it slowly move, as it is now thicker than sap.
+
+Through the vial, it's making my mouth water.
+
+However, my tests are cut short. I drop the honey into my storage when I feel subtle fluctuations of heat coming from the central-most vein where Lan Xin is cultivating.
+
+I made sure not to approach closer than a few hundred meters while collecting stones from nearby veins, as not to disturb her, but this wave of heat does not feel natural.
+
+The ground below my feet shakes, and the heat in the air grows worse.
+
+A cracking sound becomes louder as portions of dry earth in the area begin breaking open.
+
+There is a tier 2 concealment and gathering array on the vein she’s using, so I cannot sense the qi fluctuations themselves, but something is happening to the vein. This has only occurred in the past when one is being violently overstrained.
+
+From what I can tell, it’s not being done with the array.
+
+I decide not to listen to her request to stay away until she’s broken through and start walking closer.
+
+The heat in the air gets more and more extreme. I look over the edge of the small decline in the earth that gives access to the old mining entry point to the center of the vein and watch as an erratic yellow and orange aura of fire bursts from it.
+
+This is a potent manifestation of her physique, activating without anything holding her back.
+
+The sound of a woman’s pain-filled scream echoes through my ears.
+
+Even with a layer of my Martial Grandmaster physique covering my body, and my perfected-stage mortal-grade ring keeping me stable, the wave of hot energy coming out is extremely powerful.
+
+I have to grit my teeth and concentrate to not be suppressed.
+
+Portions of the perfect-grade vein in the ground are being exposed as fire burns away more earth, and it’s clearly fracturing and being overstrained past its natural point as I expected.
+
+I run a few steps forward, finding cover behind one mound of earth that’s still upright, and slip into the barrier of the cultivation array.
+
+A massive cyclone of force hits my senses, as all of the raw qi in the air is being pulled toward the center of this array where Lan Xin sits with her eyes tightly shut.
+
+All of her robes have been burned off to ash, and her body looks like a bright, fiery furnace.
+
+[Ding!]
+
+[A more valuable secret within the target has been located. Old data overwritten.]
+
+[She is upset, confused, and concerned about the Host’s rejection of her advances. This is the main reason for her inability to break through into the 12th level of qi refining. Inadequate 7th-grade spirit roots can have their potential lifted by innate physiques, but time is also necessary to naturally cement their maturity. Her spirit beast successfully broke into the 12th level, making the instability in her soul even worse. Within 30 minutes, she will suffer a catastrophic soul fracture, resulting in the destruction of all land and life within a full kilometer.]

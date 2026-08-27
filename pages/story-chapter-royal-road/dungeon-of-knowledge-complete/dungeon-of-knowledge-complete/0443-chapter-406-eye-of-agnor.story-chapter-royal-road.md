@@ -1,0 +1,155 @@
+---
+id: 4a27babf-0a34-5d66-a2fe-cae804dc9630
+page-type-slug: story-chapter-royal-road
+title: "Chapter 406: Eye of Agnor"
+slug: 0443-chapter-406-eye-of-agnor
+partOf: dungeon-of-knowledge-complete
+position: 443
+ownLength: 2785
+unit: words
+ownProgress: 2785
+publishedAt: 2025-10-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2668468/chapter-406-eye-of-agnor"
+royalRoadId: "2668468"
+markedReadAt: "2026-06-29T20:27:08.860Z"
+---
+
+The broad chamber just up ahead was a dark and cavernous hole, nothing more than a hollowed space in the rock, lit – if it could be called that – by hanging hellfire-affinity plants that draped from the ceiling, burning with black flame, and split by a river of what could only be blood. Ali wrinkled her nose in sympathy, reacting to the overpowering stench she could detect from her blood-affinity minions.
+
+It was the first pause in their madcap dash through the dense domain of the demon god. Her Devouring Consumption had cleared the way by the simple expedient of gobbling up the lower-level demons they encountered as they went, resulting in a surprisingly smooth and rapid incursion.
+
+Ali spared the cavern little more than a glance, her attention riveted on the somewhat familiar floating horror of too many eyes and fangs that hovered in the middle of the chamber, above the sluggish river of blood.
+
+“What is that?” Ali whispered as she studied the demon. “Is it another Baelok Descrier?” It was of a similar shape, but the more she looked, the more the substantial differences sprang out. For one thing, it was much larger, and secondly, it was a deep, shimmery blue, so dark it was near black, with white markings on its leathery skin and wicked-looking short horns protruding from its brow like a crown. Sparks occasionally crackled between the horns.
+
+Sentinel – Demon – level 140 (Ice / Lightning)
+
+“It is an Eye of Agnor, Miss,” her guide said. “Count the eyes.”
+
+Ali looked again, paying closer attention to the monster’s significant ocular attributes. At the same time, she made her Sacred Ooze feed another healing slime to her Devouring Consumption to keep its temporary level enhancements up. The summoned slimes didn’t grant it extra levels anymore, but they did refresh the duration. Although she was sure it was growing close to outleveling even that trick.
+
+Sure enough, the Sentinel seemed quite markedly different in the eye department. It had a huge central eye just like the Baelok Descrier, but this one swirled with an inner blue light. Above and to either side of the giant central major eye were two large eyes, bigger than Ali’s head, that sparked with obvious lightning-affinity mana. In the center of the ridged, bony forehead was a long, narrow, vertical eye, higher up than all the others, and instead of two peripheral eyes on each side of its body, there were three – each about the size of Malika’s fist. All the eyes darted about in restless vigilance, each moving entirely independently, adding somehow to the visceral creepiness of the demon.
+
+“More eyes mean more attacks?” Ali whispered. Her Descrier could shoot Mind Blast from each peripheral eye and channel Telekinesis from the major one. And this thing had a dual affinity. I need to expect more surprises.
+
+“They are an evolved version of the Descriers and come with two random affinities,” Azryet’s minion explained. “Four different attacks, two of each affinity. You will also face two primary curses.”
+
+“Can we bypass it?” She certainly appreciated how articulate her guide was. He seemed to be a treasure-trove of information, and against unfamiliar monsters, information was often the difference between life and death. Information, preparedness, and perception skills even featured strongly in Lyeneru’s Dungeon Survival Guide. She ignored the fact that she was breaking rule five – the one about not taking on a dungeon solo and instead relying on teamwork.
+
+It's not like I have a choice, anyway.
+
+“No. Our goal lies beyond this chamber,” the kobold said, pointing to the dark, shrouded tunnel behind the Eye of Agnor. “We should hurry; the longer we wait, the more demons will come.”
+
+Ali glanced at her enormous slime. And I’m not sure how long I can keep him going.
+
+“Do you have any advice?” she asked, not expecting too much from a low-level minion, at least low-level for Azryet, and a summoned monster at that. But he surprised her.
+
+“Sentinels never fight alone. Its main strategy will be to teleport demons into the room and keep itself at the back while taking advantage of its ranged spells. It will keep teleporting more allies until we are overwhelmed or it is killed. I recommend killing it quickly.”
+
+Obvious plan, Ali thought. But simple plans tended to work more reliably than complex ones. “What will you do?”
+
+“I possess no combat skills. I will hide in the shadows.”
+
+“Right,” Ali said. On my own then. Although she couldn’t deny the usefulness of the kobold’s information. She checked through her minions once more, deciding there was no more point in procrastinating.
+
+“Attack!” she called, summoning a barrier as she flew into the chamber, surrounded by her minions. Tol’brekk roared as he led the charge, followed by the Armored Drake and the rest of the trolls and assorted other monsters.
+
+Ali braced herself, but there was no psychic screech from this monster. Instead, her eyes widened in shock as it unleashed a rapid-fire sequence of potent magical formations with mind-warping speed.
+
+Spell Echo? Teleport? Curse? Ice? Lightning? She struggled to identify each formation as they flickered into being before resolving, but in an instant, a Hellfire Warg and a Hellfire Imp appeared in the chamber with a pair of pops. Both sparked with some kind of lightning buff and were immediately surrounded by an Ice Barrier.
+
+Ali ignored the incongruity of hellfire-affinity demons with ice barriers as the imp instantly released an accelerated and amplified fireball into the middle of her trolls, while the warg howled and charged, moving far faster than it had any right to move.
+
+Haste?
+
+“Go. Eat,” Ali said, nudging the enormous Devouring Consumption that still filled most of the tunnel behind her. It stretched, long black and green mottled tentacles shooting out into the chamber like a rubbery alien spider, unconstrained by the mundane limits of a hard chitinous exoskeleton and reaching blindly for whatever moved. It struck the warg, and immediately the tentacle began to chill and slow while sparks retaliated against the attack.
+
+More magic flickered within the Sentinel Demon, and an Abyssal Stalker appeared.
+
+It’s quick, she realized. Not more than five seconds had passed, and it was teleporting another demon into the room. She was going to have to devote some serious power to keeping that under control. Grimacing, Ali partitioned a small portion of her awareness and devoted it entirely to the Devouring Consumption, guiding it to attack as many monsters as it could reach.
+
+Magic flickered again.
+
+You have been cursed with Lightning Vulnerability. -980 to resistance against Lightning magic.Curse – Duration: 1 minute.You have been cursed with Glacial Chill.You are chilled.Ice magic gains +20% critical strike chance against you while you are chilled or frozen.Curse – Duration: 1 minute.
+
+Oof! That’s a lot of vulnerability. Ali threw up several barriers immediately.
+
+As soon as the curses landed, all hell broke loose. The Sentinel eye demon surged as ice and lightning mana ripped through its body, emerging from its eyes in a chaotic explosion of simultaneous magic.
+
+A powerful cone of cold lashed forth from the major eye, filling the air with flurries of ice and howling frozen winds, freezing half her trolls just as they reached the demon. Twin chain lightning spells erupted from the primary eyes, arcing from minion to minion, with a deafening crack of thunder, as it circled the room in an instant. Ice bolts flew rapid-fire from all six peripheral eyes, striking and shattering frozen monsters with terrifying abandon.
+
+Ali’s breath caught in her throat as she saw the sudden loss of life with Healer’s Sight, an enormous, shocking blast that staggered her entire army. Several of her weaker minions died outright. Ali hunkered down behind her barrier and issued frantic orders to Kir’vella to decurse the ridiculous vulnerability curses, and to her acolyte for healing. Her blood shamans were both frozen solid.
+
+I should have brought another acolyte. Bad, bad…
+
+But not everything was stuck. Tol’brekk roared, unleashing a sudden, furious storm of blood blades as he used Blood Vortex to break free of the controlling ice magic. Her Devouring Consumption simply ate the Hellfire Warg whole, engulfing it within its body. The warg could still be seen struggling and breathing fire inside the now-enormous slime.
+
+The two ice mages she had brought were entirely unbothered by the ice-affinity magic, both of them gaining a significant advantage from being chilled. The Ice Queen, Mok’freja, was still inexplicably unavailable to summon, but the two female ice trolls she had created in her place were both competent, not pausing in their onslaught of ice in the slightest.
+
+A fresh imp appeared in midair – this one a blood imp, but with some simple guidance, Ali helped her Devouring Consumption swat it out of the air and grab it with a pseudopod tentacle.
+
+“I need fire,” Ali commanded. Two of her Hellfire Imps unleashed their fireballs, but they were mainly a distraction as her Abyssal Stalkers and rogues crept up behind their foe in the tiny region behind it that Ali hoped was a legitimate blind spot.
+
+Another demon appeared. And then another, but then her stealth monsters fell upon the eye demon with an unbridled fury.
+
+“Bloodlust!” Ali yelled, calling for full power. Her opponent’s allies were all hasted and shielded, making them incredibly tough and dangerous and making it imperative that she kill the demon itself as soon as possible.
+
+“At once, Seeker,” the now-unfrozen Joraa declared, unleashing the potent spell and anointing the melee minions with blood.
+
+Magic flickered again as the evolved eye demon shrugged off the Blood Shock stun. Ali saw an unfamiliar meta-magic enhancement flicker into existence. What spell is that? Something about increasing area? She didn’t know, but she was most certainly ready for the next one. It was a spell that, while not exactly common, she had spent a lot of time studying as the ice mages from the guild began using her Challenge Arenas more and more, and so she was already familiar with the lower-level versions of it.
+
+As the mana in the major eye assembled into the potent Cone of Cold formation, her arcane Disruption flickered across the chamber with almost instantaneous speed, golden needles that left golden trails across the room to punch through the newly formed spell, and, before it could rip through her valiant forces, the Cone of Cold fizzled in a spray of unbound ice mana and a small burst of snowflakes.
+
+But the massive demon responded by triggering its higher eye with yet another unfamiliar spell. A huge sphere comprised of thousands of arcs of lightning rolled outward from the eye, blasting through all her minions, filling the entire cavern almost instantaneously. Ali snapped a barrier around herself and some of her smaller minions instantly. From the evident power and the presence of the Lightning Vulnerability curses, Ali was sure she would have died right there and then, were it not for her barrier. It was similar in look to her old Storm Shaman’s nova totem, but the construction of the mana told an entirely different story of power and potency.
+
+Tol’brekk simply turned the huge spike of lightning damage into more power; with his rage and the powerful bloodlust, he tore into the demon, slicing and slashing – his pair of axes ripping through demon flesh and bone, putting out eyes. Already, she could see two of the peripheral eyes and a primary eye on the left side were gone, just gaping slashes oozing demonic blood where they had once been.
+
+But it kept teleporting more and more monsters into the room, much faster than her Devouring Consumption could handle at once. Especially the hellfire imps, darting around the room in their impossible to pin down Flame Form.
+
+Ali spared them an anxious glance, but she doubled down on damage, focusing on what her guide had suggested. Kill the source first. With a swish of her wand, she granted both her ice mages a bonus of Winter’s Desolate Celerity.
+
+Kill it! It was not a command, but nevertheless, she still desperately urged her minions to greater heights in a frantic effort to kill the monstrous eye demon before the fight got completely out of control.
+
+Tol’brekk instantly reacted to her urgency, spending almost all his remaining health on powering an enormous strike. He triggered his Last Stand in response. The double-overhead strike with both greataxes cleaved down through the eye demon’s face, taking out the higher eye and causing an enormous spray of blood to splash against the back wall with black ichor that dripped down into the river her shamans were using to power their blood magic and totems.
+
+Ali disrupted the next Cone of Cold with a quick flick of her fingers, but the single remaining primary eye fired a chain lightning that ripped through her monsters yet again, dropping two Abyssal Stalkers and one of her rogues in the blink of an eye. Again, Ali’s mana shot up as the chain lightning smashed into her barrier, failing to kill her or her acolyte.
+
+The high-speed, continuous twin stream of ice bolts flew through the demon, punching into the wall behind him. A frost nova landed, and suddenly the Sentinel froze solid. Then the two evolved Mages of Piercing Frost, specialized heavily in critical damage against frozen or chilled monsters, tore the remaining health from the demon in a powerful blast that sent chunks of ice and frozen blood smashing to the ground.
+
+“Get the imps,” Ali instructed, and her two mages redirected the hasted ice bolt streams like hoses of destruction, chasing down the cackling imps in their Flame Forms, while her Devouring Consumption ate everything else.
+
+“No! I need that,” Ali yelped as the mottled tentacles reached for the downed Sentinel, and her Devouring Consumption shrank back like a scolded puppy. “Eat everything else,” she said, flying over to the back of the cavern as soon as the last imp was shattered.
+
+At last she checked her notifications.
+
+Your group has defeated Eye of Agnor – Demon – level 140 (Ice / Lightning).
+
+The notification was followed by a long list of minor demon kills, everything the Eye of Agnor had summoned to this room, and quite a few level notifications for her minions.
+
+The advantage of killing high-level evolved monsters, she thought. A consolation, perhaps, considering the great risk and the immense damage it had been able to put out. But the flaring of her Grimoire in response to her minions leveling up was proof that she was growing stronger with every encounter. One of her rogues had survived and leveled up, and now she could resummon all the dead ones at the new higher level. Stronger is better. I have to keep moving.
+
+Ali stared down at the ugly eye demon and flitted down to deconstruct it.
+
+Demon Core.Greater Essence of Ice x2.Lightning Crystal x7.
+
+Demon Core? Ali studied the drops closely. The demons she had been facing occasionally dropped lesser hellfire essences, and she had collected them all, but this was something new. Something to do with its advancement? It was a second-tier foe. Come to think of it, she had never seen Lightning Crystals or Greater Essence of Ice either. I hope I’m not going to have to collect three of each affinity combination. If that were the case, she would likely never learn the variant, no matter how long she was stuck down here.
+
+Ali opened her notifications again.
+
+Dungeon of Knowledge has reached level 130.+10 attribute points.Arcane Insight has reached level 73 (+2).Arcane Recall has reached level 36.Barrier has reached level 73.Martial Insight has reached level 83 (+2).Empowered Summoner has reached level 62.Identify has reached level 27.Inspiration has reached level 22.
+
+Ali smiled. Nice. It wasn’t just her minions growing. She distributed her points quickly, four each to intelligence and wisdom, and the remaining two to perception.
+
+Quickly, she stored the remaining corpses of her fallen minions, feeling a little like Seth, but they would come in handy for feeding her Devouring Consumption along the way. And she had no desire to feed this demonic dungeon if she could help it. She paused here only long enough to summon more minions to replace the ones she had lost, increasing their levels where possible, before she nodded to Azryet’s scout, and they plunged onward through the narrow tunnels.
+
+I hope we get to the boss soon. This was not a pleasant walk in the forest, and Ali wanted to be done with it and learn what Azryet could do to help her return home.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,177 @@
+---
+id: 4be7e128-c54d-57ec-9a6f-57ae0a3088a9
+page-type-slug: story-chapter-royal-road
+title: "73 - Their Souls After Death"
+slug: 0073-73-their-souls-after-death
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 73
+ownLength: 1609
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3683105/73-their-souls-after-death"
+royalRoadId: "3683105"
+---
+
+“You… want to find your brother to kill him?” Meriel asked.
+
+We lowered our heads and voices as a group of people passed by. Thankfully, we were on the other side of where most people entered and left the island from, so there weren’t too many people coming by after that.
+
+“Well, as I said, he’s not my biological brother, but we’ve known each other long enough to call each other as such.”
+
+“You still call him that even when you want to kill him?” I asked.
+
+Kaelor looked away. “Yes. Because I want to know why he did such a thing on that day.”
+
+“What did he do?” Meriel asked.
+
+Kaelor took a deep breath, slowly bringing his hand to his heart.
+
+“He killed the woman I loved.”
+
+Meriel and I exchanged glances.
+
+“You mentioned something like this while Aurelius spoke about Camille,” I said. “You said you understood his desperate attempts to bring Camille back. Is this what you meant…?”
+
+He nodded. “Exactly so. Oh, but don’t worry—I have no intention of becoming as insane as Aurelius. He was the kind of person to let the entire world burn to bring the people he cared about back.”
+
+“And you wouldn’t?” Meriel asked.
+
+“Hm?”
+
+“You wouldn’t sacrifice everything to bring the woman you loved back?”
+
+Silence came.
+
+“There’s no need to imagine the impossible,” Kaelor said. “If that was possible, I’m sure this world would’ve been destroyed countless times over already.”
+
+“That’s true,” Meriel said. “I guess I have a better idea of your plan now. You’ll come to the Academy, reattach your arm, and then you’re off and away to Glacinus to kill your brother.”
+
+He nodded. “Though I would still prefer it if the two of you could come with me to Glacinus. Allene also still has that pair of wings that I had wanted from the dungeon. It actually suits you quite well. I don’t mind letting you hold onto it.”
+
+“Are you sure?” I asked. “Didn’t you need it?”
+
+“To fly to the top of the huge tower in Glacinus, yes,” he said. “But remember, I only need it because my spells act strangely when I’m in that snowy region. I’ve already tried flying once, but it was too unstable to get me anywhere. If we’re not in Glacinus, you should hold onto it. Besides, you earned it.”
+
+I shook my head. “I think you did much more during the entire battle than I did.”
+
+“Not at all,” he said. “Aurelius would’ve killed me back then if I had faced him by myself on one of these islands. I’m glad you came with me.”
+
+“I still wasn’t good enough to protect you from those twin beasts.” I looked at his missing arm.
+
+“I don’t think anyone would’ve been able to do that,” he said. “I would’ve ended up losing my arm no matter who I was with. It was my fault for letting my guard down. With that said…”
+
+He sat in front of us, joining us on the grass.
+
+“Could you tell me more about the academy, Meriel? Although my family regularly sponsors it, I’ve never actually been there myself.”
+
+“Good timing,” I said. “I was also becoming curious about it.”
+
+“Do the two of you want the sugarcoated version or the truth?” Meriel asked.
+
+I raised an eyebrow. “Sugarcoating an academy? That makes it sound scary. I guess knowing you, you’d probably be more comfortable without the sugarcoating.”
+
+She chuckled. “Then you’d be right. I didn’t intend on sugarcoating things anyway. If I were to describe the academy, I would say it’s one of the more… harsh magic academies.”
+
+Kaelor’s eyes lit up. “Oh? Well, that sounds interesting.”
+
+“The main appeal is competition,” she explained. “Whereas the typical magic academies teach their students through countless lectures and pieces of text, Arcstar Academy focuses more on competition between the classes. They believe that nothing is better for learning magic than using it to achieve victory. A student who shuts themself in the library may succeed in other magic academies, but not Arcstar.”
+
+“Now that’s what I like to hear,” I said. “I don’t imagine that Reina and I would be the type to read books. We’d get bored pretty quickly.”
+
+“Funnily enough, that way of thinking is exactly what makes a student succeed at Arcstar,” Meriel said. “Unfortunately I didn’t learn that until my later years when I was a student myself. Compared to the other mages there, I was one of the few shut-ins. I preferred spending my time absorbed in my books rather than competing with the others.”
+
+“Which is exactly the opposite of what Arcstar wants out of their students,” Kaelor said.
+
+She nodded. “It is—and that’s exactly why I never became one of the star students. They’re the ones who follow Arcstar’s ideologies closely and end up graduating more quickly than most.”
+
+“You’re saying that the proficient students graduate earlier?” I asked.
+
+“Exactly. There isn’t a set number of years for a student to stay at the academy. Once the academy deems that someone is at the proper level, they can graduate. There is, however, a maximum number of years somebody can stay at the academy.”
+
+“Is it four years?” Kaelor asked. “At least, that’s what I’m assuming since most academies operate that way. But from everything you’ve said so far, I wouldn’t be surprised if it’s a different number.”
+
+“Then you’d be right,” Meriel said. “It’s two years.”
+
+His eyes widened. “Two years…? Now that’s quite atypical.”
+
+“The academy believes that two years is enough to gauge somebody’s potential with magic. If someone doesn’t graduate after two years, they’re not fit to stay at Arcstar.”
+
+“That sounds strict,” I said.
+
+“It is, but it’s also one of the main reasons why the academy is so well-regarded. They’re only willing to spend their resources on those who have the potential to become great.”
+
+“And you want to go back there as a professor?”
+
+She nodded. “It’s not because I’m passionate about teaching or anything. I just think staying there is the best opportunity for me to continue learning about magic. As a former student, I know just how beneficial it is to stay at the academy. They have many resources and services to help with magical studies.”
+
+I put a hand under my chin. “So all of this sounds interesting and all, but what’s the catch?”
+
+“Just passing the entrance exam,” Meriel said.
+
+“That can’t be all. Every academy has that, right? I’m talking about like—I don’t know—the cost to attend it?”
+
+“Zero.”
+
+I blinked. “...Seriously? A prestigious magic academy costs nothing to attend?”
+
+Kaelor nodded. “From what I’ve heard, it’s because their students typically bring in more money than debt. In a way, it’s a bit similar to a kingdom’s adventurers’ guild. Many of their lessons involve doing people favors and putting their spells to good use. Combined with the academy’s reputation, it isn’t too difficult to make a profit that way.”
+
+“Exactly,” Meriel said. “And not just that, but the ones who graduate from the academy almost always donate back as a token of appreciation.”
+
+“My mother actually graduated from there,” Kaelor said. “We have ties to the academy because of her. Many of our soldiers have also come from Arcstar.”
+
+We noticed Reina, Talon, and Aeris walking toward us.
+
+“I’m starving!” Talon said, putting a hand over his stomach. “Let’s grab something to eat.”
+
+“That’s not a bad idea,” Aeris said. “I bet Reina feels the same.”
+
+“How’d you know that?” she asked.
+
+“Because your stomach has been growling for about twenty seconds now.”
+
+Instead of feeling embarrassment, she puffed her chest out proudly.
+
+“Well, I think I deserve a bit of food after praying to everyone!”
+
+“Did you really pray to all the people who died from the battle?” I asked.
+
+“Of course.”
+
+I didn’t know whether to be proud or scared of her dedication, but I’m sure their souls appreciated the gesture.
+
+…
+
+Their souls, huh? Thinking of that reminded me of something.
+
+“Hey,” I began. “Where do their souls go after they die?”
+
+Everyone looked at me.
+
+“Hard to say,” Meriel said. “From everything we know so far from Aurelius, their souls briefly stay in this world.”
+
+“A very short moment,” Aeris added. “Unless their souls are stored somewhere, they usually dissipate in seconds. Seeing Aurelius’s soul jumping between bodies is something I’ve only ever seen from him.”
+
+“But where to?” Kaelor asked.
+
+She shrugged. “It’s hard to say. I don’t think Aurelius ever found that out himself.”
+
+We all looked down, not saying a word.
+
+“But I don’t think it’s anything to feel sad about,” Aeris continued. “Now that they’re gone, they don’t feel anything. No pain, no suffering—nothing. It’s more comforting to think of things that way.”
+
+“Well, it is true,” Talon said. “You know what they say: if something lasts forever, it loses its importance. Because our time here is limited, everything we do matters more. The friends we make, the people we love… it all has meaning because life doesn’t last forever.”
+
+I gave him a dumbfounded expression. “You’re scaring me, Talon. A little boy like you shouldn’t know how to talk like that. Are you a reincarnated old man or something?”
+
+Reina backed away. “Talon’s an old man?!”
+
+He stretched his wings, laughing. “Not at all. I think.”
+
+What was that supposed to mean?
+
+Kaelor stood, briefly walking away before glancing back.
+
+“I don’t know about the rest of you, but I’m definitely hungry, too. Should we start going now?”
+
+Talon waddled over to him with excitement. “Yes! There’s this restaurant I’ve been meaning to try! Let’s go!”

@@ -1,0 +1,231 @@
+---
+id: eccafbf5-ee71-5986-b8c1-73adc6488178
+page-type-slug: story-chapter-royal-road
+title: "25 - Drunken Festival"
+slug: 0025-25-drunken-festival
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 25
+ownLength: 2000
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3446662/25-drunken-festival"
+royalRoadId: "3446662"
+---
+
+The vast, dark skies would normally be a terrifying sight to many. But with all the people, floating lanterns, music, and roasted meats around us? Not so much.
+
+The festival had settled down now that it was night. Stalls that had been set up for games during the day transitioned into food stalls, serving all kinds of sweet drinks, alcohol, meat, fruits, and desserts. A group of drunken angels stood beside us, trying their absolute hardest to sing, only to let out incomprehensible murmurs.
+
+But it wasn’t just the people. The giant creatures celebrated all over the island, too.
+
+Above, whales sang along to the music, oinking, meowing, and barking to the beat. To the sides of the island, jellyfish tangled up in each other’s tentacles, performing some kind of dance. There was even a group of five turtles stacked on top of each other for absolutely no reason. Strangely enough, Tuna insisted on watching the turtles instead of singing with the other whales. What’s so fun about stacking turtles? She seemed awfully fascinated by them.
+
+Talon was off somewhere, hanging out with his other friends. Reina was stuck in an eating competition to see who could eat the most bird meat in ten minutes. It was shocking to see the harpies competing, too. I guess eating bird meat wasn’t considered cannibalism for them.
+
+“Come join us!” Kaelor yelled at me across the crowd.
+
+He and a group of giants, elves, and dwarves danced on top of a table, beer in their hands. Noodle was floating around, dancing along with them. The table looked like it was about to fall from their weight—especially with the giants on top—but it somehow didn’t. Hundreds of people watched and cheered along nearby, even the soldiers Kaelor had come with.
+
+Unfortunately, I’ll have to turn down his invitation. I’d prefer not to have that many eyes on me.
+
+Several griffins were chasing each other around the island, both on foot and through flight. A few of them rested and snuggled up against each other in a corner, somehow able to sleep despite the noise. A part of me wanted to go up to them, sink into their soft feathers, and get away from the crowd for a bit, but…
+
+“We’ll begin in one minute!” an angel yelled.
+
+I sighed.
+
+Begin what, you might ask?
+
+…
+
+Actually, I’ll just let the System explain it for you.
+
+[TROPE INITIATED: THE DRINKING COMPETITION]
+
+Completion criteria: Finish all the drinks in front of you.
+
+Failure: You will have symptoms of drunkenness until the sun rises.
+
+And there you have it. How fantastic. No matter what I did, I was getting drunk regardless.
+
+Including me, dozens of participants lined up on the island’s longest table with all sorts of drinks in front of them. The number of drinks somebody had to take was dependent on their species and size. Of course, the male giants had to drink the most.
+
+“I can’t believe I’m doing this,” Meriel muttered.
+
+She took the seat right beside me, eyeing the glasses in front of her. Mead, wine, ale—there were all sorts of drinks.
+
+“The group of drunk angels over there brought me here, and they’re not even participating themselves,” I said. “What about you? How’d you end up here?”
+
+“An elf was talking to me about magic. She said there was a famous mage somewhere over here, and before I knew it, somebody made me sit down.”
+
+I laughed. “Just one talk about magic, and you’d come running over without any question, huh?”
+
+She looked away in embarrassment, but she was smiling.
+
+The angel organizing the competition stood on top of his chair, his wings spread wide to gather attention.
+
+“We’ll now begin in five! Four! Three! Two! One! Go!”
+
+Everyone grabbed their drinks and guzzled them down immediately. One person started with the lighter ale. Another started with the mead or wine. Some started with their favorite drinks first. As for me?
+
+I stared at the drinks like they were some kind of boss battle.
+
+Starting with the spirits first meant getting the worst part over right away. But if I got drunk too fast, I might lose the ability to think straight.
+
+Ale first sounded safer… but what if filling my stomach made the stronger drinks impossible to take on later?
+
+Or maybe I should alternate between them?
+
+Wait, why was I trying to strategize with alcohol? I was losing time, damn it!
+
+Screw it. I’ll just go from left to right.
+
+And so I began my attack.
+
+I drank the first glass.
+
+Then the second.
+
+Then the third.
+
+Then the seventh.
+
+…
+
+Uh oh. I think I skipped a few numbers.
+
+[TROPE COMPLETED: THE DRINKING COMPETITION]
+
+[REWARD: +1 ENDURANCE]
+
+[ENDURANCE]
+
+[2 → 3]
+
+Note: Your alcohol tolerance has increased from pathetic to slightly less pathetic.
+
+Before I knew it, the world began to blur and sway even as I was standing completely still. I dizzily looked to my side, seeing Meriel slumped over the table, holding a glass even while she was passed out. I looked to my other side, noticing a giant slumped on the floor with his clothes torn off and a chair sitting on top of him. How the hell did that even happen?
+
+“Ugh… Meriel…” I murmured, trying to shake her awake.
+
+Her eyes slowly opened, but she didn’t look at me. Her eyes shot to the glass she was holding onto.
+
+“Wait… no… don’t drink tha—”
+
+She stood, downed the glass, and slammed it on the table. All the glasses in front of her rattled, empty. She tried sitting back on her chair but completely missed it, falling to the ground. Her staff stuck out from beneath her robes.
+
+“Meriel…”
+
+I reached out a hand, only to also fall and land just beside her.
+
+“Agh… Allene…?”
+
+She looked at me, blinking slowly. She was just barely conscious enough to wobbly pick up her staff and wave it around in a circle.
+
+A faint light wrapped around us. My body felt cooler, and the dizziness lessened—just slightly. My senses were still off, but I could somewhat tell what was happening now.
+
+“What did you… do?” I asked. My words still slurred a little.
+
+“A spell to… make us a bit more clear-headed…” she muttered. She tried to stand, putting her whole body against the chair. She stumbled around a little, but still managed to stay up.
+
+“Here,” she said, putting out a hand.
+
+I slowly reached for it, using it to pull myself up—
+
+Only for Meriel to fall on top of me. I’d normally yell “Ow!” by now, but honestly, I barely even felt anything.
+
+“Get off of me,” I said, trying to push her away. She was too heavy—or rather, I was too weak. Her spell did work, but we were still too drunk.
+
+After what felt like an hour of struggling, we finally managed to stand, trying our hardest to hold each other up. I looked around the table. Everybody had the same fate as us. An angel had somehow ended up on an entirely different table. An elf still hadn’t gone through half of her drinks before already passing out. A dwarf was doing the opposite, taking and drinking the glasses from those who couldn’t finish them. He eventually collapsed, as well. What a warrior.
+
+Somehow, seeing all of this made me feel a bit better about myself.
+
+Meriel and I stumbled through the island. A group of kids—angels, harpies, and dwarves—ran through us, playing tag. We nearly fell, but Meriel used her staff like a cane, keeping us up.
+
+I turned to my side, seeing that Reina was finished with her eating competition. Her stomach was three times its normal size from all the meat she ate, and somehow, she was the only one who looked relatively fine compared to the other participants. Most of them had vomited everywhere.
+
+She waved at us, but I didn’t wave back. I was too afraid to do anything with my arms other than hold on to Meriel. I was afraid of faceplanting if I let go of her.
+
+I looked ahead, seeing Kaelor.
+
+Remember what I said earlier about how he and a group of others were dancing on top of a table? Yeah, so that table didn’t survive. It collapsed from their weight, and all the folks dancing on top of it were covered in alcohol and food. Even Kaelor. Noodle the serpent decided now was a good time to take a spot on top of Kaelor’s head, even if he was covered in wine.
+
+Slowly but surely, Meriel and I drifted away from the loud crowds. We walked up to the group of sleeping griffins, leaning against them. A few of them woke up momentarily, but didn’t mind our presence and went right back to sleep.
+
+“Beautiful…” Meriel said from beside me.
+
+I turned to her, noticing her looking up at the sky. I followed her gaze.
+
+Countless stars were scattered across the sky in shades of white and bright blue. Strangely enough, a certain spot in the universe directly above us wasn’t pitch-black but a deep purple. It was a far more magical sight than the sky in the world I was from.
+
+“It is beautiful,” I said, smiling. Watching the stars made my eyes teary. I’d never seen such a breathtaking sight before.
+
+“The magic academy taught us about the stars,” Meriel said. “It’s said that they’re tied to fate and magic."
+
+I laughed. My drunkenness made me draw it out longer than expected. “There you go with magic again.”
+
+“Oh… sorry,” she said.
+
+I didn’t expect her to apologize for something so small. Guess the alcohol’s really affecting her.
+
+“I don’t mind,” I said. “I think it’s interesting, especially coming from you.”
+
+“Especially from me?”
+
+I nodded. “It’s better to have a mentor who’s obsessed with magic, isn’t it?”
+
+She looked at me, smiling. “I guess you’re right.”
+
+Hearing footsteps in front of us, we looked ahead. It was Reina.
+
+“Oh? What are you two doing here?” she asked, walking over. “Wait a minute, you’re both drunk, aren’t you?”
+
+She let out a noisy laugh, waking up some of the griffins we were leaning against.
+
+“You look like you’re having fun,” I said.
+
+“I sure am! The bird meat they gave me was delicious!”
+
+Her stomach had somehow already deflated after the eating competition. What kind of sorcery was that?
+
+She sat between us, wrapping us in her arms.
+
+“What are you doing?” Meriel asked, though she didn’t bother trying to push away.
+
+“You’re both tired, aren’t you? It’s been a long day. You can lean on me if you’d like.”
+
+I gave her a look. “Huh? Why would I do th—”
+
+Before either of us could argue, she pulled us in, forcing us to lean against her shoulder. Thankfully, she had already taken her armor off. My body naturally relaxed into her. It was oddly comfortable.
+
+Meriel looked like she was about to resist, but before she could, Reina said,
+
+“Thank you, Meriel. I’ve always wanted to come here to the sky islands. My dream came true thanks to you!”
+
+Hearing that, Meriel relaxed into her shoulder, just like I did.
+
+“It was just an accident though,” she said. “We just happened to end up here trying to escape that Guardian wolf.”
+
+“Even so, it’s so much fun being up here,” Reina said, lowering her voice. “And you too, Allene. Thank you.”
+
+“Hm? For what?”
+
+“For being my friend.”
+
+I let out a soft laugh. “That isn’t something you have to thank someone for.”
+
+“Yeah, but I just wanted to get that off my chest.”
+
+What a strange girl. I couldn’t help but smile.
+
+We watched the stars together in silence. The festival’s music was beginning to fade in the distance as we sank deeper into the griffins and each other’s shoulders.
+
+I closed my eyes.
+
+[TROPE COMPLETED: STARGAZING WITH COMPANIONS]
+
+[REWARD: +1 WISDOM]
+
+[WISDOM]
+
+[34 → 35]

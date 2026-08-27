@@ -1,0 +1,215 @@
+---
+id: 90961487-0735-53c7-ae70-ba88e64d8bb5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34:  Excursion unto Ruin"
+slug: 0049-chapter-34-excursion-unto-ruin
+partOf: ends-of-magic
+position: 49
+ownLength: 2913
+unit: words
+ownProgress: 2913
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2797521/chapter-34-excursion-unto-ruin"
+royalRoadId: "2797521"
+markedReadAt: "2026-06-29T20:08:49.993Z"
+---
+
+Lightning crackled ahead as the Heirs tore across the sky, dark clouds building up ahead of them. Nathan could sense the mana pooling in the thunderheads above them. This wasn’t natural weather, but something conjured into their path by a massive magical effort. The heavy overcast quickly closed off the view of the sky above, and Nathan felt a pang of loss as the night sky of Davrar was cut off once more.
+
+Stella’s massive wind spell caused the clouds to stir wildly overhead, but failed to disrupt them. They bore a supernatural heaviness that was enough to resist being torn apart by the smaller, mobile version of the wind spell. Instead, the clouds seemed to feed on the wind, growing darker and angrier in response to the interruption.
+
+Nathan could feel the way that the mana inside the thunderheads was moving. It was a relative of death mana and wasn’t able to directly control the elements, but it was doing everything it could to encourage a certain outcome. He bellowed a warning, making sure it was loud enough to be heard over the wind. “Lightning!”
+
+Stella split her focus to wordlessly wrap them in a layer of conductive magic. It was not a moment too soon, as the large conductive object in the sky drew down the lightning nearly instantaneously. The strike was almost totally natural lightning, tinged with the death mana that infused everything in the blight. It was stronger than most lightning spells and whited out Nathan’s vision for a moment, but Stella's impromptu Faraday cage guided the current around them and down to the ground. The hairs on Nathan’s arms didn’t even stand up.
+
+The strikes of lightning continued, followed moments later by a gray rain falling from above. With the wind carrying them along, they couldn’t cast a physical shield, so Nathan stretched his aura up to drain the corrosive magic out of the water before it could strike them. They got doused anyway, but it was with clean water that only carried traces of grit.
+
+The ground blurred underneath them, the rain soaking into Nathan’s hair and clothes as the lightning bathed them every few seconds. Nathan couldn’t help but laugh from deep in his chest as they soared through the blight's fury. The storm was terrible and beautiful all at once, promising destruction if they gave it any opening. Actinic light tore open the dark clouds and illuminated the landscape through sheets of black rain. But the water tasted pure on Nathan’s lips, and he found himself breathless at the grandeur of the tempest.
+
+The Heirs joined him in his mirth, their voices barely audible over the tearing gust of wind that bore them onwards. Something about hearing it made Nathan laugh harder, bolstering the sense of ridiculous defiance. They were so small compared to the forces they challenged, yet they survived nonetheless.
+
+They flew like that as the landscape smoothed out from the jagged maze of ridges and transitioned to something that would have been gentle and rolling if it hadn’t been desolate and inhabited by roving bands of undead. The storm overhead lessened as the force that had been controlling it released its grip, allowing the clouds to dissipate into the more normal overcast. The lightning stopped first, shortly followed by the rain.
+
+Stella also relaxed her spell, letting the Heirs regroup and talk for a moment. Khachi was quick to re-establish the shield of divine light that protected them all.
+
+“Sarah?” Nathan asked, gesturing forward. “Are we still on track?” He felt like they were, that the source of the corrupted mana was directly ahead of them. But he wanted confirmation from somebody who could see through the haze.
+
+She pointed directly ahead, into the darkest gloom. “Straight that way. I’m surprised you can’t see it. It’s close. The forest starts a few miles ahead.”
+
+The rest of the Heirs squinted in that direction, but all they saw was a murky gloom. Nathan frowned, his eyes occasionally catching a glimpse of something that looked like a haze of dark mist. He reached his magical sense forward, followed by his aura, feeling the layers of mana in the air before them. The gloom was a magical effect, and he could clear it out if he wanted to. The only question was whether it was time to reveal that card.
+
+Then he found the edge of the illusion that Sarah had mentioned earlier. It wasn’t a normal illusion, but a construct of death mana overlaying whatever lay underneath. It was tinged with a specific flavor of death, the idea of a peaceful end for a civilization, and it portrayed that image to outside observers.
+
+But what lay underneath the mask was not at all peaceful. All that Nathan could detect from this distance was the edge of the forest, and it roiled with death and corruption. The trees were constructs of twisted bone and veins that pumped magic and ichor into heavy fruits, each of which was an undead monster. All of the ones Nathan could sense were variations on the flyers, and he felt several new ones break away from their incubators to join the crowds resting atop the branches.
+
+Further away, he could vaguely detect larger signatures, as warped magic and wizardry wove together larger creatures on the scale of the giant flier that had attacked them with a rock shield. Multiple creatures, each sized like a cruise liner. What stood between them and the Seal was a full armada waiting to launch.
+
+“Uh,” he said, figuring out how to summarize what lay ahead. “They’ve been preparing for us. I think if we get any closer, we’re going to get swarmed by an army. I’m not sure…” He looked towards Stella. “I think it might be time.”
+
+She raised an eyebrow in response and grinned back. It was a languid expression, more satisfied than gleeful. “You aren’t worried for the Seal?”
+
+He shook his head. “It’s far enough away. I can guide the spell in. We might need a few of them. The forest is big. It wraps all the way around the city?”
+
+“It does,” Sarah confirmed, her body tense. “I can’t see the monsters. Just the flickers of bone on the edges.”
+
+Stella’s expression grew thoughtful. “I may be able to duplicate the spell with my staff, though it enhances the strain on my Wizardry. Is it important we strike at once? Can these targets be struck in succession?”
+
+Nathan bit his lip, uncertain. “Doing it all at once would be better. I worry that after the first spell, they’re going to send everything at us. I want to catch as many as we can in the initial attack, and don’t want to be pinned down for successive spells.”
+
+“We follow your light,” Khachi added, beginning to reinforce their position with shields of divine energy. The glow emanating from his armor brightened, pushing back the gloom a little further and improving their sightlines.
+
+Sarah scanned the landscape, occasionally aiming down her rifle. “The sky is clear for now. They’re waiting for us to approach.”
+
+“Well, that’s a dungeon of fools,” Aarl said with a chuckle, then clarified. “They're waiting for us to fall into their trap, but instead, they'll receive a blasphemous reward.”
+
+Stella was putting together the nuke-spell one piece at a time. She’d optimized various parts of it since she’d first cast it in the mountains of Esebus. She started with layers of shielding to contain radiation, then moved on to the reaction chamber, followed by wizardry to enable and enhance the reaction. It was a marvelously complicated spell utilizing a half-dozen different mana types and wizardry besides, but Nathan and Stella both knew there was room for optimization.
+
+But it’ll work. At some point, do you need anything more than that? The most useful addition to the spell would be better control and resistance to magical disruption before detonation.
+
+Once the spell was completed, Stella turned to Nathan. “Check it?” She was nervous and not afraid to show it, but as far as Nathan could tell, her spellwork was solid. It didn't have any experimental flourishes, and she'd focused on robustness over fanciness in every aspect.
+
+Nathan had been paying attention the whole time, but he took another second to go over the spellwork again. It seemed complete and flawless to him. If there were any mistakes, it was with the containment part of the spell, which they hoped would contain the incredible pressure and temperature of the fusion reaction for a bare moment to enhance the extent of the reaction. “Looks good to me,” He replied.
+
+“Right. Then let’s light this fire.” The mage exhaled a shaky breath, then used her staff to duplicate the spell into two and then four identical copies. She pulled out a few jars of the deuterium-enriched hydrogen gas they’d made, then fed them into the core of each spell. Then, with a final moment to center herself, she activated the portion of the magic that would send the spells arcing into the distance. They weren’t precisely aimed, but that wasn’t Stella’s job.
+
+“A bit higher on the outside two,” Sarah commented, watching the shimmering spells fly off into the distance.
+
+“Got it,” Nathan said, using his aura to adjust the path of the outer two spells so they’d land on either side of the city ahead of them. He wanted to surround the city, hitting it on the three nearer sides to ensure that he got as much of the forest as possible. He also wouldn’t complain if he damaged whatever lay in the center, so long as the Seal remained intact. But the seal in Gemore had been inside a mountain, and as long as it wasn’t shattered or buried, it would be fine.
+
+“A bit more,” Sarah said. “They’ll hit the outer edge at that angle.”
+
+Nathan made the necessary adjustments. He had tendrils of his aura shepherding each of the spells and used them to readjust the flights so they’d all reach their targets at the same time. The nuke spells were set to detonate as soon as a fragile leading force shell was broken, and Nathan was most worried about something in their flight path that he’d need to navigate them past. But the skies were clear, and the magical constructs flew out of the range of Nathan’s detection, deep into the blight. He sighed, then realized all of the Heirs were watching him cautiously.
+
+“What?” he said.
+
+Aarl’s helmet retracted, and he looked at Nathan in agitation. “What occurs! Did it work?”
+
+Nathan gestured towards the city. “Yes."
+
+There were three layers protecting them from the flash. The first was Nathan’s antimagic, which stripped the magical power from the high-intensity photons. The second were layers of Stella’s light mana that cut out the more energetic wavelengths. Then there was Khachi’s mana, which was able to discriminate threats from non-threats. All of that prevented the Heirs from being blinded as the four fusion spells ignited simultaneously just above ground level.
+
+There was a moment of strange silence as the flaring light ballooned into four domes, the clouds and landscape illuminated in sharp monochrome brightness. The explosions combined and rushed outwards in all directions, preceded by a rumble through the ground. The shockwave was visible and seemed to accelerate towards them until it struck. The initial impact cracked Stella’s first layer of force shields, and a flying boulder as large as a train engine cracked the second one. The wind rocked the third and pelted it with grit, but it didn’t break as the Heirs weathered the storm in their bubble of calm.
+
+Then the storm of wind reversed, with air blowing back towards the epicenter to fill the vacuum it had once occupied. It was gentler, but only by the standards of the incredible shockwave. The backrush filled the air with dust and dirt, and Nathan sighed as he realized that he wouldn’t be able to see the aftermath of the spells. He reached out with his magical senses, trying to get a sense for what was left.
+
+Sarah was already frowning down the sight of her rifle, expression crinkled in a scowl. “Illusion is broken. The towers are made of bone. Wait,” she hesitated, switching the rifle’s aim from one target to another. “Those are obelisks, and they’re channeling a spell.”
+
+Nathan felt it just as Sarah had announced, and reacted quickly. There was a colossal amount of death mana being channeled in the core of the dead city. It would normally be outside of his range, but there was so much he could feel it from a dozen miles away. A targeting spell lanced out in their direction, and Nathan killed it immediately. That meant the follow-up spell was a narrow cone instead of a tight beam.
+
+That difference probably saved them, as the obelisks pulled hard on the environment of the blight to channel every speck of death mana for miles into a torrent of death that rushed towards the Heirs. “Every protection!” Nathan yelled, already trying his best to absorb, block, or divert the spell.
+
+A wave of altered reality billowed out from behind them, encompassing the space for miles in a bubble of magical suppression. Nathan barely had the attention to identify the effect of the Shield of Solemnance. It changed something about Davrar, muting magic to cut the beam’s power in half. But the spell had the kind of power that could level mountains in an instant. It held a similar level of destructiveness as the fusion spell they had just launched, but focused entirely on mana and not using any tricks of physics. It was the pressure of a continent, aimed at five people. It wasn’t something they could dodge, with an area of effect measured in miles.
+
+The Shield of Solemnance blunted the effect, but Nathan was the second layer of defense against the colossal spell. He used every trick he’d learned in his time on Davrar to block the insane amount of death being thrown their way. His aura worked to split the sea of power, bending and absorbing it over multiple layers to reduce the attack to something survivable. There was more power to this attack than had been held in the [Last Arrow of Olita], but this time it wouldn’t be enough to merely survive. He needed to protect his friends. It demanded absolute focus, and Nathan fell away from his body as his mind went into his aura.
+
+He’d taken Ends of Magic to dominate this kind of fight. To stare down a battle-winning spell and deny it. But every erg of effort he could muster wasn’t enough against this level of raw magical power.
+
+But Nathan wasn’t alone, and both Stella and Khachi swelled with power as they forged their own defenses. For Stella, that was simply more layers of force mana layered with light and wizardry, so thick and dense they nearly crystallized with the power she pumped into them. For Khachi, it was a prayer.
+
+“I deny your darkness! I am the dawn that scatters night, the fire that no shadow may endure! The grave’s dominion is sundered, and your power with it!”
+
+The power was still too much. A bare percentage of the original spell’s energy broke through Nathan’s aura. It cut through Stella’s shielding like a chainsaw through fabric before running into the spike of divine power called by Khachi’s prayer. Divine mana fought with corruption and was pushed back, inch by inch, as the magic rushed onwards. It wasn’t a single strike but a continual deluge of death. Stella tried to help, but every piece of mana or wizardry she threw out was subsumed. Khachi’s divinity flared with renewed power, but it was pushed back and crushed under the mana until it washed over the Heirs.
+
+The tide started to wane, and Nathan struggled to cut off the flow of death getting past him. He finally managed to block the corrosive energy, but the amount of energy had snarled his magical senses. He opened his eyes to look worriedly at his allies. They were hunkered behind a huge mirrored kite shield Aarl had pulled out, which was slowly flaking away as black corruption crawled across its mirrored surface.
+
+Aarl shook the corroding metal from his arm, letting the once-priceless relic fall to the ground far below. “Harpy’s tits, it would have been nice to know about that beforehand.” He stowed the vaselike artifact that was the source of the Shield of Solemnance. “I don’t think we were supposed to survive it.”
+
+Permanent Talent 1: Arcane Nullfield 10
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 3
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 6294/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 6
+
+Inspiration 9
+
+Impulse 6
+
+Mystical Discernment 9
+
+Forewarning 7
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 9
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Control 10

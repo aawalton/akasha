@@ -1,0 +1,193 @@
+---
+id: 754472dd-5baf-5156-8b0e-33e5c702fe3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Questor-Tier Combat"
+slug: 0034-chapter-19-questor-tier-combat
+partOf: ends-of-magic
+position: 34
+ownLength: 2808
+unit: words
+ownProgress: 2808
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2584186/chapter-19-questor-tier-combat"
+royalRoadId: "2584186"
+markedReadAt: "2026-06-29T20:08:21.791Z"
+---
+
+Multiple attacks came simultaneously. Amoh flicked a spinning blade towards Stella, and Sarah shot it out of the air. Ogarius threw out a hand, and tendrils of darkness - dread mana made real by wizardry - flew forward to grapple Aarl. They evaporated in Nathan’s aura, but were still strong enough that Aarl was forced to defend himself from them with a thin blade enchanted to fight ethereal foes.
+
+Nathan spared a moment of concentration to break apart the attack and attempt to disrupt Ogarius’s next teleport. He wasn’t fully successful in the face of the novel type of magic, which felt based on illusions and dreams instead of space. But when the Questor emerged from his jump, he was clutching at his head.
+
+Regardless, that was the moment Badud made his attack. A stone pillar the size of a semi truck flew towards them at incredible speed. Amoh blasted Aarl back with an explosion of shadows and fixed Sarah with a gaze that paralyzed her in place. Stella and Khachi were already jetting away from the attack, but Sarah was paralyzed directly in its path.
+
+Nathan moved faster than he’d ever moved before, leveraging every one of his movement abilities to jerk across the world like he’d been fired from an invisible cannon. The world seemed to slow down as he accelerated towards Sarah in a race with the giant rock. He bodily slammed into her hard enough that he probably cracked a few of her ribs. But he managed to push them both out of the path of the projectile. It flew off into the distance to devastate a boulevard.
+
+They’re more experienced in combat than we are. They’re picking us apart. But Badud shouldn’t be a factor for a moment.
+
+“Kill Amoh!” Nathan cried out and redirected his motion to fly straight at the Questor. His aura led the way, and in moments, the man was surrounded by a dense field of antimagic. Amoh's abilities seemed to be a mix of mana and skills, but one of those skills helped disguise his sneaky shadow mana from Nathan's aura. The antimagic was hampering the mage, but it required active attention to shut him down.
+
+The Questor had been evading Aarl with a combination of fine bladework, feints, and the ability to turn into an incorporeal shadow. Nathan locked that last ability down hard, flatly denying shadow mana of any kind in the area with intense focus.
+
+“Caustic… !” Amoh swore as the layers of shadow around him died out. He tried to backpedal as quickly as possible and activated some kind of teleportation artifact, which self-aborted when Nathan scrambled the effect. The Questor redoubled his backwards acceleration, but Aarl and Nathan were right behind him. Another one of Sarah’s bullets tore through his neck, and he spun off-course, a flash of magic from an implanted item patching the wound.
+
+“... and light shall triumph over shadow!” Khachi finished, and divine light flared to war against another set of shadowy tendrils sent forth by Ogarius. Stella set the building the mage was in aflame with a grand fireball, but Nathan was barely paying attention. His focus was entirely on Amoh. He took one side, bracketing the Questor so that Amoh had to choose between Aarl and himself. Amoh seemed to choose Nathan as the lesser evil, diving into his reach with daggers extended like claws. Each of them was wet with poison. Nathan could have tried to dodge, but that would have given Amoh a chance to slip by.
+
+Amoh managed to score stabs against Nathan’s hands, arms, and face as he closed, his arms blurring like pistons. But Nathan accepted that as the price of doing business and locked his arms around the Questor. His muscles spasmed out of his control, and so he wrapped his legs around Amoh’s lower body as the poison coursed through his bloodstream. It was something new, something that was tearing apart his muscles as fast as his Talent could remake them.
+
+He gritted his teeth and forced his muscles to move, individually pulling on the muscle fibers to keep the man locked in his crushing grip. In return, he received a face full of caustic acid that burned away at his flesh. Nathan grinned as his face melted away and was rewarded by a horrified expression from the Questor.
+
+Amoh gave a subtle twist reminiscent of a wrestling move, and Nathan’s weakened legs lost their grip. He fell away from his foe, losing all control as he plummeted towards the ground. The last thing he saw before his spastic motions made him lose sight of the Questor was Aarl bisecting the man longways with the black blade, then quickly storing the pieces in separate dimensional bags.
+
+The ground was rushing up towards Nathan, and he relinquished any attempt to control his body. Whatever the poison Amoh had used, it was potent. It resisted any attempt to degrade it, and his heart was beating so fast that it wasn’t actually pumping blood. That was ok. He didn’t need oxygen to survive, and his skills would keep him alive until the poison ran its course.
+
+What was more important was his aura. He left his body to sustain itself on Stamina and Focus, keeping a thread of attention on dealing with the poison while the rest of him manipulated the magic all over the battlespace. Ogarius had seeded a dozen false positions across the battlefield, and real attacks rained from each one. Khachi was steadily deflecting and dismantling the magic, but ever more blinds were popping up. Not even Nathan could tell which ones were real and which ones weren’t. He started popping them in sequence, reaching his aura around as efficiently as possible instead of trying to discern any pattern.
+
+Nathan slammed into the ground back-first, suffering a moment of disorientation and confusion until his Talent fixed the concussion, snapped spine, and the strain on his eyes. That coincided with another pulse of whatever the fear-skill was, though it wasn’t as effective as last time. Nathan’s control of his antimagic still slipped, giving Ogarius a chance to reposition with a flash of undirected dream mana.
+
+With his gaze fixed upwards, Nathan could see why the mental effect had been weaker. It had been focused on Stella, who was charging up a hydrabane spell in her cupped palms. The Questor had tried to disrupt the spell. But Khachi had caught the fear effect on his shield, and it broke around him in a cloud of purple miasma. Now Stella was holding a ball of hungry purple fire, but had no target to throw it at. There were a dozen viable places for the Questor to hide, and he’d managed to shake off the mark Khachi had left on him.
+
+Solving that problem was Nathan’s role. He stopped trying to eliminate the Questor’s blinds and pierced them with his magical senses. He pushed his Focus hard, forming his awareness into a thin needle that punched into each of the shadowy areas in turn, quickly mapping out where Ogarius wasn’t. On the fifth attempt, he found him.
+
+“Fire!” Nathan yelled, his voice ragged from the ongoing poison. Still, his skill-boosted voice carried up to his allies high above. Stella released her spell upwards, without any targeting component aimed anywhere in particular.
+
+Nathan could almost feel Ogarius’s confusion as the spell arced slowly off into the distance. The Questor finalized a spell he’d been setting up for a few minutes. A web of dream magic reached into the surrounding buildings, activating enchantments that had been implanted into various citizens of Esebus a long time ago. One of them burst out of a building near Nathan, dream mana merged with wizardry to mutate them into a spiderlike creature with skin that roiled with vivid color. The nightmarish monster ignored Nathan and started climbing up the side of one of the pillars to leap at the Heirs.
+
+Nathan waited, using a bit of his attention to enmesh one of the attacking monsters in a web of antimagic. It shuddered and slowed as the magic drained out of it, then evaporated into the corpse of a middle-aged man. But that wasn’t where most of Nathan’s attention was. Once the Hydrabane spell passed out of Ogarius’s view, Nathan grabbed it with a tendril of antimagic, gently guiding it in above the Questor. He kept the approach slow and set up a shield of antimagic to prevent Ogarius from feeling the wizardry coming for him. The ball of purple fire grew as it flew, its ability to burn the air multiplying the destructive power.
+
+His teammates fought against the Questor’s advance in the meantime, viciously battling against the newly monstrous citizens of Esebus. Khachi let loose with chains of golden light, declaiming against Ogarius’s evil. Aarl cut down any monsters that got close, striking them out of the sky. Stella and Sarah were helping cover the gaps, using any extra attention to unleash their firepower into each of the spells that could have held Ogarius. Even when they hit the correct location, their attacks were absorbed by rippling dream mana.
+
+Just a bit closer.
+
+Nathan shepherded the hydrabane spell in, accelerating it as Ogarius started to cast another spell. It was another dream spell, and this one felt like a summoning, a sympathetic linkage to a spell he’d cast early in the fight. Nathan didn’t bother taking the time to fully understand what it did, instead slamming the purple ball of consuming fire into the back of the orb of roiling shadow that held Ogarius’s real form.
+
+Stella’s spell detonated in a wave of all-consuming flame, eating into the ball of shadow protecting the Questor from all directions. Nathan did his best to guide and contain the flames, preventing them from spreading out of control. But he quickly had his hands full as Ogarius activated his newest spell in a panic. It unleashed every single attack he’d captured in his dream-mana distortions throughout the battle. Beams of light, lightning bolts, and more poured out of the cauldron of flame and shadow. The spell wasn’t fully completed, and the attacks fired off in a vague cone towards the Heirs instead of anything targeted. Khachi caught a blast of light on his shield while Stella grounded a lightning bolt, the rest of the attacks scorching and cratering nearby towers and leveling a few of the smaller buildings.
+
+The feeling was slowly returning to Nathan’s body, and his heart had slowed to a sustainable level. But he didn’t get up, staying half-buried in rubble. His fists weren’t how he was contributing to this battle. He tightened his antimagic on Ogarius’s position, crushing his attempts to fight against the wizardly fire burning inwards. He was beginning to understand Ogarius’s unique spin on magic, which relied heavily on dreams and symbolic linkages. He didn’t teleport by forcing his atoms through space; he mirrored reality in two positions with dream mana such that they were identical, then slipped through the interface.
+
+With his new understanding, Nathan was able to tell when Ogarius tried to escape the trap. He’d left it to the very last moment, likely in an attempt to make the Heirs think he’d been defeated. But Nathan was primed and ready, and he crushed the spell by refusing the attempt to link the two spots together. The flame closed in, and Nathan felt the man’s wispy mana pool dissipate as he died.
+
+It would have been nice to tear it apart like I did Badud’s. But I didn’t feel as many enhancements, and the battle was over way too quickly.
+
+Nathan got to his feet, already stretching his senses out in an attempt to get a handle on where Badud was. He’d been trying to keep a thread of attention on the incipient third Questor, but hadn’t managed to spot him. Nathan took to the air on unsteady feet, quickly coming up to the Heirs. He kept his aura focused on quenching the swirling flame of Stella’s wizardry where it had consumed Ogarius.
+
+“Where is he?” Stella asked, casting a few more force shields. “This is making me blasphemously nervous.”
+
+They all looked around, scanning the blackened towers for any signs of their last enemy. Aarl and Khachi had taken care of the last of the monsters. Nathan was impressed by the sturdiness of the towers. Some very dramatic spells had been thrown around in the last few minutes, and a few of them were cracked, but no significant damage had been done.
+
+“I don’t know,” he replied to Stella’s question, frowning around as he scanned the city with his magical senses. There was a lot of magic in Esebus, but none of it screamed out Badud’s presence. There were no terrible spells being cast, no trace of the man’s mana pool anywhere nearby.
+
+Then, some sort of city-wide enchantment activated, and Badud’s voice rang loud and clear through the city of pillars. “You haven’t got a spark of wit among you. You’ve involved yourself in the game of Questors, and you will lose. Maybe not today, but you will die, and you won’t come back. We shall track…”
+
+Midway through his sentence, a nonmagical projectile cracked through the air, punching through Stella’s shields like they weren’t there. It moved fast enough that the blast of heat and pressure pushed back the Heirs. It was like an explosion had suddenly occurred in their midst, leaving Stella’s headless body to fall from the sky as the projectile continued onwards to blast through one of the pillars of Esebus.
+
+“.. and kill you. Hah! One dead, three still remain. Then we shall see how Nathan Lark fares against the weight of an Empire alone.” The voice had turned gloating, but Nathan was barely processing the words. Aarl had caught Stella’s body and was gaping down at it in shock. Khachi’s face was set in a rictus of fury, and he quite literally ignited in golden fire.
+
+The only one of them who was calm was Sarah, who calmly looked left and right to trace the projectile's path. She calmly raised her rifle to her shoulder and released a slow breath, firing once.
+
+Badud was still speaking. “Your fate is calculated, certain to be…” his voice cut off with the sound of spattering blood.
+
+The notification was accompanied by a blizzard of other boxes, including those notifying Nathan of his new class choices. He blinked them away, unable to take his eyes off Stella.
+
+Then Khachi stepped forward, the golden flame around him burgeoning into an inferno. It didn’t just burn, it blazed upwards in a column of divinity with Khachi at the core. Magic spilled out of the fabric of Davrar, and the jagged shard of divinity that the wolfman had in place of a mana pool flexed and strained.
+
+The outpouring of divine mana nearly blinded Nathan’s magical senses, and he threw himself away, accelerating as fast as he could to get away from the incipient prayer. He couldn’t see what was happening against the brilliant light emanating from the cleric, but he heard Khachi’s words. The whole city probably heard the words.
+
+“By my radiant flame and the weight of earned glory, I call forth with divine right. Let the soul that walked with honor be reborn with fire in her eyes. Stella Caxol, I name your life unfinished, and by the bond of deed and shared valor, I call you to stand within my light and continue your righteous war!”
+
+Multiple things happened that Nathan didn’t understand, things that went against his understanding of magic. The divine mana roared in acclaim at Khachi’s prayer, and his shard of divinity sharpened and grew. The mana funneled downwards from high above, the column of power inverting itself and crashing back down upon Khachi as he laid hands on Stella.
+
+Nathan couldn’t tell what was going on, but he refused to take his eyes away until the glare faded, and he saw Stella blinking her eyes open in confusion.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 995
+
+Bottomless Stamina : 85193/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 729
+
+Regenerative Focus: 3439/7390
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

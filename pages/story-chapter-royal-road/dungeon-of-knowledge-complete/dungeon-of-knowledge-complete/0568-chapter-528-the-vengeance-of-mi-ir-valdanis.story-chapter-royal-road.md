@@ -1,0 +1,303 @@
+---
+id: 74eba1c5-5c98-5472-bfd4-86ba6ccad05e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 528: The Vengeance of Mi’ir Valdanis"
+slug: 0568-chapter-528-the-vengeance-of-mi-ir-valdanis
+partOf: dungeon-of-knowledge-complete
+position: 568
+ownLength: 5103
+unit: words
+ownProgress: 5103
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3015141/chapter-528-the-vengeance-of-miir-valdanis"
+royalRoadId: "3015141"
+markedReadAt: "2026-06-29T20:31:38.974Z"
+---
+
+“Why are they here?” Ali asked, not truly expecting a ready answer. For certain, the undead were not known to explain themselves. Battle raged in the streets below, but Mato, Sabri, and Havok were all slowly advancing toward the breach in the wall, while deadly spells and arrows rained down in a deafening assault that had long left her ears ringing.
+
+“It was only a matter of time,” Calen said, his arrows shining brighter than even the lightning.
+
+“What do you mean?” she asked, turning to stare at the calm half-elf. Whatever it was that he was thinking, it was somehow eluding her.
+
+“Your cursed title,” he said, nodding briefly in her direction and then shifting his bow to thread his arrow through the empty eye socket of a troll zombie clambering over the rubble below. “They’ve been watching you constantly ever since we left the Crypt of Kings.”
+
+Ali opened her mouth to deny his theory, but the words died on her lips. A dread certainty filled her heart, and she knew he was right. The eldritch eyes appeared now and then, frequently enough that she had simply grown accustomed to them appearing and being shot down by her minions or friends. There had even been one that Calen destroyed during the boss fight earlier – just because there were no obvious consequences most of the time did not mean that the enemy wasn’t planning something appalling.
+
+Those were merely scouts. He knows I’m here. It was not a fresh realization; rather, she was confronting a fear that had been lurking deep inside ever since the encounter at the Well of Eternity.
+
+Her mind shuddered at the terrifying image of the Blind Lich as she had last seen him. It was not Baaoht Yll’shuum that hunted her as she had naïvely assumed at first. The terrifying Eldritch Monstrosity was a minion of the Blind Lich, and, just like with her, the minion’s actions were always bound by the will of the summoner.
+
+“They’re ready for you,” Calen announced, breaking her train of thought as he gestured to the knot of adventurers plugging up the gap.
+
+She glanced down to find the tanks had finally reached the wall, driving back the sea of undead, and leaving a dark trail of foul, rotting severed limbs, bodies, and ichor, turning the street behind them into a treacherous mire.
+
+The frenetic yet graceful blazing sun paused her flickering dance of violence and precision, standing calmly and radiating a blue-white, healing light in pulsing waves from her body. Malika turned her head, fixing Ali with eyes that shone with radiant power, and yet Ali could still read the intent she carried as clearly as if she had spoken. She would protect Ali with everything she had.
+
+The tiny golden dragonet circling above the battlefield let out a high-pitched screech, folded its shiny, scaled wings, tucking them in along its flanks, and plummeted toward the carnage below. Right when it was about to strike Malika, it flared its wings, arresting its headlong dive, and Ali teleported.
+
+The appalling stench of blood and undeath hit her like a brick. Her body rebelled, coughing and choking at the same time.
+
+You have gained Clarity.
+
+It didn’t help.
+
+Ali held her breath and summoned her magic. A broad golden barrier snapped into place, spanning the breach in the wall with an audible crack, and she bound it directly to her domain. It was weaker than she would have preferred, much of the proximal power of her domain going to support the champion Sylvan archer atop the roof behind them, still raining arrows down into the press of undead outside the wall, but it would have to do. The din of combat suddenly quietened, muffled by the power of her barrier magic, leaving only the staccato crack and sizzle of magic shattering against the golden wall, draining mana into her domain to recycle it back to her dungeon.
+
+But before the undead could breach it again, she summoned her Grimoire and the power of Domain Mastery. Golden runes and strands of viridian green burst from her Grimoire, piercing the walls and the ground. Under the persuasion of her mana, the stone of the battlements began to glow. Boulders turned to liquid, rubble was drawn to the hole, and the huge, enchanted wall reassembled itself.
+
+The noise dimmed yet again, as almost every sound outside the town wall was cut off. Only the magic and skills of the adventurers mopping up stragglers continued, but soon even that too quietened, leaving the ruined street strangely silent.
+
+Ali flexed her domain, and the mounds of mutilated undead, the rubble, and the ichor rapidly dissolved, leaving only a thinning cloud of golden sparkles that drifted away.
+
+She took a breath.
+
+“That’s much better,” Malika murmured.
+
+“Everyone! To the battlements,” Lyeneru ordered. “By groups. Let’s make sure they don’t break through again.”
+
+Ali frowned, flying up to join her friends as they flew, leapt, or climbed to the top of the wall, offering a barrier disk to levitate Mato, but her heart dropped at the sight that greeted her as she crested the top of the battlements. While fighting, she hadn’t had the time to spare for sightseeing, but now she could study the full extent of the undead army arrayed below, and it was overwhelming. From the battlements to the blighted forest, as far as her demons’ eyes could see, all was a writhing, crawling sea of undead. Not a single patch of bare land could be seen.
+
+Nevyn Eld’s new army had arrived.
+
+“Thanks for fixing the walls, Aliandra,” Lyeneru said dryly.
+
+“No problem,” Ali answered, frowning again. “There are still elves stranded in the trees.” High above the seething hordes on the ground, frightened elves peered down from the heights of the Ciradyl branches.
+
+“I’ll get a few rescue parties organized,” Calen said, and his wings flared with brilliance as he peeled off to see to it.
+
+Lyeneru nodded, and Ali turned to regard her.
+
+“For what it’s worth, I would have made a different decision if I’d known it was this bad,” the Night Elf said. Her focus never faltered, nor did the constant stream of arrows flying from her bow, but somehow Ali could sense the roiling conflict within her.
+
+“People died,” Ali said, allowing her frustration and anger to seep into her words. She had no idea how many, but even one was too much. It had all been the Pathfinder’s decision, and it had made Ali quite furious – if Lyeneru had just chosen to abort the fight, nobody would have needed to die.
+
+And yet… Calen’s words twisted like a knife in Ali’s gut. The reason the army was here in the first place was because of her and the wretched, cursed title she bore. She couldn’t shake the feeling that the eyes had been waiting for an opportunity just like the one she had provided by despawning all her defenders in the town. Guilt gnawed at her, like a bitter poison festering in her belly.
+
+Lyeneru glanced at her, and for the first time, Ali saw raw pain and anguish etched upon the Night Elf’s face. But a moment later, she looked away, her vulnerability locked away behind her stoic mask as her lips pressed into a firm line and her bow buzzed again.
+
+Ali tried to find something polite to say, something civil, but when she opened her mouth, she was unable to find the words. She had never doubted Lyeneru’s experience or authority, following her lead whenever she ran the raids, but now her heart was so conflicted and twisted she had no idea what to even think. What even to do.
+
+They’re dead because of me.
+
+She hovered there as the awkward silence drew longer.
+
+“Congratulations, Lyeneru,” Calen said, swooping down to rejoin them.
+
+The stoic Night Elf nodded once, not interrupting her assault on the undead below for even an instant.
+
+Congratulations? Why is he… For a moment, Ali thought Calen was congratulating her for the disaster that had befallen Myrin’s Keep, but she couldn’t believe that of him.
+
+Wait… Ali squinted at the Night Elf.
+
+Archer [Pathfinder of Legends] – Night Elf – level 250 (Fire / Lightning)
+
+Two fifty… that means… Ali opened her mouth, but her guilt and anger conspired to stifle her words. She hated that Lyeneru’s decision had resulted in people dying. She hated that the undead had come.
+
+And yet, was Lyeneru really the one responsible?
+
+Why was Ali angry at the Night Elf when it was Nevyn Eld that hunted her, who had sent this army not only with the purpose of wiping out one Fae, but every creature that lived within these walls? And yet her feelings would not let her go. She hated it more that she was most likely the cause.
+
+You’re better than this, Ali thought. Lyeneru had reached her second evolution, and feelings or not, if she unlocked a powerful class…
+
+“If I get you to the shrine, can you clear this army?” Ali asked.
+
+“I thought you were upset with me,” Lyeneru answered, her gaze not deviating even slightly from the unfolding battle.
+
+“I am,” Ali admitted. “But I’m more upset with him.” And with her words, she felt the truth of it ringing clearly in her heart.
+
+Silence drew out for several long moments before Lyeneru said, “I do not know if I can.” The ghost of that internal pain flickered across her face again. “But I have to try.”
+
+It was only then that Ali recognized that it was the very same guilt eating her up from the inside that was being reflected back to her from Lyeneru’s face.
+
+“Let’s go right now,” Ali said. She could fight remotely, and the adventurers manning the battlements would not be in grave danger without the two of them for a few minutes.
+
+Ali and Lyeneru flew most of the way to the Shrine in silence, but as she crossed the glittering Forest Cavern with the glowing lake and began to approach the grove, something within drove her to speak.
+
+“I’m sorry for what I said earlier,” Ali said. Lyeneru remained silent, and so after a few moments, she continued. “The undead army is probably here because of me.” The fact that one of the first monsters she had killed was an Eldritch Horror made it all but certain. “They’re suffering because of my cursed title. You’re not responsible.”
+
+Ali touched down on the mossy ground beside her shrine, and Lyeneru alighted beside her. It was not far from the spot where she had first met the Night Elf in a dramatic showdown involving her bow and the summoning of a field of flowers.
+
+The legendary Pathfinder took a deep shuddering breath. “You were right to be upset, Aliandra,” Lyeneru said. “If I had not been so close to this threshold, would I have been more willing to heed your warning? Might I have made a better decision if I couldn’t see the cursed form of the vile betrayer, Nathaniel Sunstrider, lurking just beyond that final barrier? I do not know. The truth is, I made the decision and people died.”
+
+Ali glanced up at her, but she was staring off into the distance, struggling with memories and inner turmoil.
+
+“I trusted him, Aliandra – I made myself willfully blind to all the warning signs, and now, Nendir’s death and all the souls lost at Ciradyl are forever burned upon my heart. I will hold these new souls there beside them until we deliver justice and rid the world of his evil. I’m sorry. I should have listened. The adventurers would have most likely survived the abort, and then the townsfolk would have survived.”
+
+Stunned by the sudden glimpse into the heart of the stoic Night Elf, the raw honesty, and the depth of her wounds, Ali simply nodded, moving to unlock the shrine for her. In some strange way, Lyeneru’s guilt helped her to grapple better with her own. It did not lessen in any sense, but it was somehow better knowing she wasn’t alone.
+
+“This won’t end until Nevyn Eld is dead, will it?” Ali asked.
+
+“No,” Lyeneru said, and then she stepped forward to place a palm upon the surface of the Shrine. “All we can do is get stronger and hope it will be enough.”
+
+Soberly, Ali turned to her notifications as a way to distract herself from her feelings while Lyeneru’s eyes glazed over at the touch of the Shrine’s magic.
+
+Dungeon of Knowledge has reached level 206 (+8).+80 attribute points.Arcane Insight has reached level 124 (+3).Arcane Recall has reached level 61 (+3).Barrier has reached level 106 (+2).Runic Script has reached level 92 (+4).Sage of Learning has reached level 93 (+3).Martial Insight has reached level 125 (+2).Empowered Summoner has reached level 105 (+3).Domain Mastery has reached level 68 (+2).Minion Teleport has reached level 70 (+4).Reading has reached level 21 (+2).Identify has reached level 46 (+4).Inspiration has reached level 36.Calligraphy has reached level 16 (+2).Empowered Summoner has reached a base skill level of 100.Empowered Summoner has advanced to tier two.
+
+Eight levels for the Avatar of Annihilation? It had been a level two hundred and forty-seven champion boss, and the win had come under extreme pressure after countless attempts and strategy changes, so perhaps her growth was understandable. It pushed her above two hundred – a symbolic milestone more than anything else. Not like Lyeneru’s third-tier threshold. Still, she had eighty attribute points to spend, and Empowered Summoner had reached the second tier. She glanced at her skill, but she could already sense the growth. The base range had swelled from an already impressive sixty meters to over three hundred, allowing her far more freedom to arrange herself and her minions strategically in battle. Furthermore, she could tell just from the sense of it that the amount of additional damage on hit it provided had grown, too, though how much exactly would require some testing. A significant step toward growing stronger, as Lyeneru had articulated. And a lot more needed!
+
+Ali spent eight points on vitality and two each on endurance and dexterity before turning to her most critical attributes. After juggling the numbers in her mind for a moment, she made her decision: twenty-nine for intelligence, twenty-two for wisdom, and seventeen for perception.
+
+Before Ali could move on to begin exploring her newest tier-two skill, the shrine reacted with a surge of incredible power. Mana howled, drawn in toward the tall figure standing beside it, compressing, growing far denser, and erupting as an aura of pure flame.
+
+[Zone] The Vengeance of Mi’ir Valdanis has advanced to the third tier.
+
+Wow! What – what the… she could only shake her head, utterly overwhelmed at the implications of that announcement.
+
+Lightning arced from Lyeneru’s eyes and crawled lazily up and down her arms as her blazing eyes studied herself. “Yes. Yes, this will do,” she murmured, and then nodded at Ali, a fierce grin appearing upon her lips. “Thank you. Come.”
+
+She vanished, reappearing high overhead above the town, and Ali followed, her excitement mounting.
+
+Something was drastically different. For someone who used a bow nearly every day of his life, even the smallest changes in his technique and ability were immediately noticeable, and this was anything but small.
+
+Ever since he had set foot in Myrin’s Keep, every shot he fired into the crawling sea of undead monsters had the ease of rightness to it. Aiming came easier to him, and as soon as the path of his hand dipped, or the track of his elbow was off by even a hair’s breadth, he was instantly aware of the discrepancy. His arrows met his bowstring faster and far more accurately, and a vast amount of what Nendir had been trying to teach him – things he’d been practicing hard since his first lessons – suddenly became easy. Like all the practice had just distilled into his body, settling in like a new instinct. Curiously, he already knew what it was.
+
+Radiant Archery must have reached the second tier!
+
+This was an advancement he’d been eagerly anticipating for a while now. The impact was both subtle and profound; his proficiency with the bow had just taken a giant leap forward as he internalized a thousand little details that had been floating around in his mind forever.
+
+Finding a moment amid the chaos of battle, he opened his notifications, and sure enough, his suspicions were immediately confirmed.
+
+Realm Hunter has reached level 197 (+9).+90 attribute points.Radiant Archery has reached level 103 (+3).Arrows of Brilliance has reached level 98 (+4).Motes of Light has reached level 76.Explorer has reached level 112 (+3).Blessing of the Dawn has reached level 82 (+4).Eclipse has reached level 55 (+3).Eyes of the Archon has reached level 79 (+3).Righteous Fury has reached level 65.Azrael's Wings has reached level 53 (+2).Mirage Armor has reached level 78 (+4).Bowcraft has reached level 16.Radiant Archery has reached a base skill level of 100.Radiant Archery has advanced to tier two.
+
+Wait, one hundred and ninety-seven? In his excitement to see his primary archery skill advancing, he’d almost missed something nearly as significant. Just a second…
+
+Quickly, he scanned through his storage enchantment, searching through his collection of rings. Specifically, one of the lowest-level Charged Bands of Electrocution they had recovered from the Crypt of Kings.
+
+Charged Band of Electrocution – level 197A band of gleaming electrum, so charged with lightning mana that it continually leaks sparks into the air. +108 Intelligence.+86 Wisdom.+43 Dexterity.+118% spell power to Lightning skills.21% chance to cast level 182 Shock on hit.Requirements: Intelligence 690, Dexterity 394.Ring – Electrum
+
+Monstrous, he thought, studying the ring with undiminished awe and a small shiver of anticipation. For an archer like himself who had invested heavily in triggered magical payloads and inflicting the maximum number of strikes with his conjured arrows of light, this ring was unreal. They had recovered so many of these rings; after all, they had killed fifty-seven Bone Fetishes as they had delved through the Crypt of Kings. Fifty-eight, he corrected himself. He always forgot that one they had stumbled into in the temple-labyrinth after Haverron. It wasn’t the level two hundred ring they had pulled off of Grim Spark himself, but it was almost as good – and he could always upgrade when he leveled up again.
+
+Shock was one of the simplest lightning-affinity spells, one that many lightning mage classes offered as an initial skill, but this one was a second-tier version at level one hundred and eighty-two. With a twenty-one percent chance of triggering on every hit, Calen’s strategy of piercing his arrows through hordes of monsters would draw immense value out of the enchantment. To say nothing of the one hundred and eighteen percent increase in lightning damage and the over one hundred intelligence to boost his damage further. Even more impressive was the fact that lightning had a well-known partially stunning effect on monsters when they had flesh or muscles to jolt into brief inaction. A battlefield control tool that would go well alongside his many others.
+
+But his grin of excitement faded to melancholy when he moved to replace his current ring.
+
+Pathfinder Guild Ring – level 95An elegant silvery ring crafted in the shape of a wreath of leaves, signifying membership with the Pathfinders Guild.Owner: Calen Avery.+50 Dexterity.+50 Perception.+50 Intelligence.Requirements: Pathfinder, Dexterity 333.Quests: --Mana: Teleport yourself and one other to Ciradyl. Recharge: 7 days.Created by Nathaniel Sunstrider.Ring – Silver
+
+Damn. He had been so proud to earn this ring. He remembered being filled with the ambition to be a great Pathfinder and follow in the footsteps of Lyeneru, his mentor. He had looked up to Nathaniel Sunstrider as a walking legend, but now the Pathfinder guild was all but destroyed by his defection to the Blind Lich.
+
+He frowned and pulled the ring off. It was not even a question about which ring he should replace, but he needed to acknowledge that his attachment to this one was purely sentimental now. Still, removing it felt a lot like admitting the Pathfinder guild was no more.
+
+Firmly, he told himself, I’m just being silly. While Lyeneru was still around, the Pathfinders were still alive. Besides, they were finally at the last ring of the dungeon, and once they defeated the Wraith of Nathaniel Sunstrider, they could recover Ciradyl. And Ali can even regrow the trees. With his resolve restored and his feelings under control once again, he stored the Pathfinder Guild Ring and replaced it with the new Charged Band of Electrocution.
+
+Immediately, his attributes skyrocketed.
+
+With slowly mounting curiosity, he drew his Scourge of Deadly Creep and fired volleys of conjured arrows out into the sea of undead monsters trying to scale the battlements. Eleven conjured arrows fanned out, flying with uncanny smoothness and accuracy, piercing through undead flesh like mundane arrows through ghosts. But, unlike the challenges of hitting the incorporeal undead with steel, his arrows detonated on impact, passing clean through each monster to pierce the ones beyond, detonating again and again. Roots exploded in a chaos of magic, while poison spores drifted downward – mostly worthless against the undead.
+
+However, the explosions of light were lit from within by the incandescent flashes of lightning, unleashing a ripping crackle of power that tore through the dark horde of the dead in a wave of convulsion and spasmodic twitching. Zombies, at least, were affected by the stunning jolts of electricity.
+
+The grin finally crept back onto his face as he studied the impact of his new tier-two archery combined with the power of his new Shock proc. This is going to be fun!
+
+He was well past a hundred kills when the sonorous gong filled the air – the unmistakable sound of the zone notification.
+
+[Zone] The Vengeance of Mi’ir Valdanis has advanced to the third tier.
+
+Oh! So that’s what her class is called!
+
+A second later, a dark figure appeared in the sky above him, radiating lithe readiness and a mana density that matched Kryostria. A frisson of goosebumps trailed down his spine. A bow appeared in her hands and suddenly ignited with a crimson blaze so intense he could feel the waves of heat even down on the battlements. A second formation triggered, and all the exposed hair on his body stood on end as he, and everything around him began to leak ghostly fingers of white flame that seemed to dance upward, seeking to join with her outrageously amplified power. Her magic swelled, rising toward some unfathomable crescendo, and all the white flames arced upward, continuous lightning bolts that writhed and sizzled, connecting her to the ground below.
+
+And then, she fired.
+
+A single arrow flew from her bow, igniting into a rapidly growing orb of roiling flame and crackling lightning. It hurtled over the battlements with a rising hiss of fury, stray bolts caressing the ground in explosions of rotting undead flesh and flying dirt. By the time it struck the ground, it had reached the size of a house.
+
+Calen failed to hear the explosion. Instead, the world went absolutely dead silent. Everything bloomed into pure white radiance. He could see nothing, hear nothing. Then, the shockwave struck, hurling him from the battlements like he’d been struck by a boulder fired from a catapult.
+
+He coughed, winded, and flared his wings to catch himself as he struggled to see.
+
+The soft touch of Belmar’s holy magic infused him, and his sight and hearing rapidly returned. All he could hear were the raucous cheers from those lucky or smart enough to have ducked behind cover instead of gawking. Out in the center of the battlefield, nothing but a vast crater remained, flickering flames and lightning still lingering as it slowly faded.
+
+Holy shit! That’s insane!
+
+But Lyeneru was drawing her bow again. And this time, he wisely ducked behind the battlements.
+
+Naia slithered through the Rift and into the realm beyond. Immediately, she felt the prickle of a strange magic along her various membranes, duplicated again and again as she sent more and more oozes crawling into that opaque darkness.
+
+“That’s a neat trick,” Cael observed. “You don’t even need to risk yourself, do you?”
+
+“I am inside the rift,” Naia said. “And here.” She recognized now that most of the people she knew did not sense the world the way she did. They were all woefully unaware – unable to even feel anything through more than one body. What a… limited way to live.
+
+Her way was much more flexible. She could shift into any of the oozes that she had just sent slithering into the Realm of Creeping Shadows through the rift at the heart of Cael and Gage’s maze. Or she could simply feel the vibrations and taste the mana from where they were instead of here. It was so much simpler.
+
+She could imagine what it must be like for them; after all, she had experienced what it was like to have most of her minions destroyed by something powerful, but that feeling always made her quiver in fear. To live like that always, must be awful.
+
+She tested the shape of the strange mana within her oozes.
+
+You have been afflicted with Creeping Shadows.Flickering shadows seem to dance along your skin.+1 Shadow damage per second.Creeping Shadows has a small chance to grow whenever you take Shadow damage.When Creeping Shadows reaches a count of 100 or more, your race gains the Shade trait permanently.Corruption – Realm Aura – Count: 1
+
+Naia puzzled over the strange corruption aura for a moment, but she dismissed it as irrelevant. It didn’t seem that important. Instead, she tried to do what Calen had shown her. She tasted the ground, searching for signs of the oozes that must be there somewhere. It was a lot of ground, and it tasted strange, but she had made a lot of oozes, and even now, she was spawning more and more, sending them into the realm.
+
+Your Creeping Shadows has increased to 2.
+
+Quickly, she spread out, ignoring the shifting all around her, but the ‘shadows’ – whatever those were – did not wish to ignore her. Something struck her oozes from above. Bolts of consuming magic.
+
+Flying, she thought, rippling a series of furrows across her membrane. She had learned how to deal with flying in her deep caverns, but she lacked a roof here from which she might drop onto her attackers. What to do…
+
+Instead, she tasted the air.
+
+It was far harder than feeling the ground, but her sensitive membranes were spread out over a wide area in this twisted realm, and soon she found herself forming a picture of the air above the ground. And the strange, annoying flying beings that attacked her began to emerge.
+
+Dark Shade – Shade – level 59-83 (Shadow) Swarm x46.
+
+The instant she found them, Naia unleashed her attacks. Arcane bolts flew from her new Faen Glob, but it was still at quite a low level. She added bolts of water from her Brine Oozes and high-pressure blasts of steam from the Scalding Slime. This seemed more effective, but it still wasn’t nearly enough. Rot Oozes, Zombie Puddles, Sparkling Oozes, she made them all, sending them crawling into the realm as Naia searched for the most effective spells. And soon, her flying nemeses came crashing down to be consumed for the mana they possessed.
+
+Your Creeping Shadows has increased to 43 (+41).
+
+There were many such notifications, all of differing amounts, but Naia ignored them and pressed on.
+
+She had found a scent.
+
+She wound her way around rocky outcrops, through dense pools of mana, and crawled through tiny crevices to reach the other side. And eventually, she found them.
+
+“Mine,” she said softly, her membrane vibrating with sound where her main body was pretending to be an arcane crystal tree right outside of the rift.
+
+Your Creeping Shadows has increased to 95 (+52).
+
+Imprint: Shadow Slime completed.
+
+“I got one more,” she said, trilling again. “Shadow Slime.”
+
+“Good job, Naia!” Gage cheered. “Ali would be proud of you.”
+
+“You think so?” Naia wiggled at the thought of showing Ali her beautiful new Shadow Slime. Will she love it too? Of course she will, it’s so pretty!
+
+But just then, something new happened. Naia froze in place, so surprised that she let herself take the form of her rock again.
+
+“What’s wrong, Naia?” Cael asked.
+
+But Naia didn’t respond, still feeling out the notifications in her mind. Ripples of information coming from the slimes she had exploring in the rift:
+
+Your race has been changed to Shadow Ooze.Imprint: Shadow Brine Ooze completed.
+
+What is that?
+
+Your race has been changed to Shadow Ooze.Imprint: Shadow Scalding Ooze completed.
+
+Again?
+
+Your race has been changed to Shadow Ooze. Imprint: Shadow Blaze completed.
+
+Message after message chimed ripples across her distant membranes. And suddenly, understanding flooded into her as her intelligence began to skyrocket. Creeping Shadows. The realm’s corruption aura was turning all her oozes into shadow oozes!
+
+“I just turned into a shadow ooze,” Naia said, finally answering Cael’s worried questions.
+
+“Oh, no!” Gage exclaimed. “It got you? I told him it was dangerous, and now you’ve been corrupted!”
+
+“No… It’s good,” Naia said, trilling curiously at his fear.
+
+“What do you mean?”
+
+“It’s very good!” she bounced up and down. Ali was going to be so happy with her! Suddenly, she recalled that they could not feel their additional spawns as themselves and tried to explain the tricky concept. “No, not me, but me,” she tried, rippling her membranes anxiously. “The me – uh, me’s? Us? – out there in the rift. This me is still me.” She waved a pseudopod in the general direction where she felt the strange mana. “I learned a new shadow ooze for every ooze I sent.” And she even had a few more she hadn’t bothered making at first. She hastily began to remedy that. But first, she created a Shadow Blaze to demonstrate.
+
+“Oh, I get it,” Gage said. “Just your summoned oozes changed!”
+
+“Right, you’re a hivemind aren’t you? Everything feels like you, to you,” Cael said, realization finally registering in his voice. “That makes a very weird kind of sense.”
+
+“Yes! Many thoughts. I’m going to be the smartest!” Naia sang.
+
+“Hey!” Cael said, while Gage made a funny, snickering sound that she took for amusement. “That’s my job!”
+
+“No! Mine!” Naia giggled. This was the best day ever!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

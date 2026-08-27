@@ -1,0 +1,157 @@
+---
+id: abb524dd-0224-5209-95f4-04e4d1fbda4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 287: Shrine of the Emberforge Mines"
+slug: 0321-chapter-287-shrine-of-the-emberforge-mines
+partOf: dungeon-of-knowledge-complete
+position: 321
+ownLength: 2017
+unit: words
+ownProgress: 2017
+publishedAt: 2025-06-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2374124/chapter-287-shrine-of-the-emberforge-mines"
+royalRoadId: "2374124"
+markedReadAt: "2026-06-29T20:22:12.127Z"
+---
+
+“Mato! Are you ok?” Ali screamed, darting down to where her friend sat amid the fading flames. She had just witnessed his throat being ripped out by the enraged cleave of the Corrupted Fire Drake – an attack of such incredible force that it had shredded through her barrier like a sword splitting a sheet. A barrier that had held firm against the elemental storm of the Inferno. She had never seen so much blood spraying from him, and when he had staggered, faltering, her heart had stopped.
+
+“I’m fine,” he whispered, remaining on the ground, staring at the enormous corpse of the drake. He was a fine shade of shocking pink – the aftereffects of the witch doctor’s Ritual Infusion she had used to desperately feed him more health after the devastating strike. But, truly, he did not look fine; he was pale and his hands shook.
+
+“Malika said you were going to die if you got hit with that attack again,” Ali whispered back, coming right up to him to lay a hand on his arm. She couldn’t forget the sense of dread that flooded her heart when Malika uttered those words – it had been so shocking that she had burned her Arcane Recall just to ensure she placed the barrier correctly.
+
+Mato glanced over to where Malika was sitting. “She was right, I had used all my skills, and everything was on recharge. I already had less remaining health than the cleave attack on the strike before, and I had to burn Critical Block just to survive.”
+
+“How did you get in to heal him?” Ali asked, turning to Malika. It had all happened in a blur.
+
+“I can see the dragon’s attacks,” Malika answered. “I timed my teleport to land right behind the path of his cleave.”
+
+“That… still doesn’t explain it,” Ali demanded.
+
+“I teleported in on the back side of the attack, close enough to lean over and touch Mato. I healed him before it clipped him, and then I did it again afterward so that he could survive the dragon’s breath,” Malika said.
+
+“You… what?” Ali blurted out, incredulous at the ridiculous feat of timing and speed. “You timed it to arrive with the dragon’s claws between the two of you?”“Yup.”
+
+“Close enough to touch him?”
+
+“Yup.”
+
+“I couldn’t even see the claws, they were moving so fast,” Ali exclaimed.
+
+Malika just allowed a smug grin to cross her lips. Ali pretended to throw something at her.
+
+“You’re crazier than me,” Mato said. “If that thing had hit you, you’d be dead.”
+
+“I know,” Malika said. “But it didn’t. I knew what to do – in that moment I just knew.” She at least seemed serene and calm, and then her healing magic pulsed outward from her body as she sat there, and Ali felt the Touch of Clarity settling her mind. Mato’s hands suddenly stopped shaking, and he sat up a little straighter. “You can thank Ali for blocking the attack with her barrier, she absorbed some of the damage and prevented the chance of a critical strike.”
+
+“Well, thank you, both,” Mato said, still a little paler than normal.
+
+“You look pretty,” Calen said, landing beside them.
+
+Mato pulled a wry face and just shrugged. The pink would wear off in a bit, as it would from her berserkers and ice mages. Her witch doctor shimmered back into the normal realm finally, and immediately one of the shamans healed him.
+
+Calen glanced over with an eyebrow raised.
+
+“I was using him to grant temporary health to some of my ice mages and berserkers near the end,” Ali explained. “Then, when Mato almost died, I had him do the same for him – but the witch doctor almost died from donating so much health, so I bubbled him and had him spirit walk into the spirit realm to let the curse drop and avoid the flame.” It had been a last desperate attempt to save the fight – if she kept the witch doctor alive with a barrier, the curse would have failed and healed the boss at the last second. So, she had him leave the realm – and a good thing too, as he couldn’t have had more than ten or twenty health remaining by the end.
+
+Ali got up and walked over to the enormous head of the Corrupted Fire Drake, looking down at the now peacefully closed eyes. How a dragon had become so corrupted that it had turned into a demonic monster she had no idea, but it likely had something to do with the demonic incursions into this dungeon, and perhaps more to do with that Pit Lord. But she was unlikely to learn the truth any time soon.
+
+“Let’s see what you’ve got,” she said, reaching out her hand and deconstructing the giant draconic corpse. Please be Vitality!
+
+[Sage of Learning]Domain Magic analyzed: Attribute Enhancement (Vitality).Domain Magic analyzed: Living Flame.Domain Magic analyzed: Enrage.
+
+“Vitality!” Ali exclaimed. It wasn’t simple excitement over completing the set; vitality was a critical bonus for making the kind of boss they had just faced – or even something similar to Joraa. She would most certainly be using it to enhance her dungeon, and she would need to make sure Naia learned it when she next visited.
+
+“Congrats, Ali,” Malika said.
+
+As the corpse dissipated into tiny sparks of fire mana, she found herself staring at a strange burning crystal the size of her head lying on the ground among the dozen or so essences of hellfire and living flame. Is that…?
+
+Magicite (Fire)
+
+She poked it with her finger, succeeding in getting herself burnt, but after fighting an entire battle inside an immense bonfire, it was a minor annoyance rapidly fixed with a quick heal.
+
+Variant: Magicite (Fire) added to Imprint: Stone.
+
+She would definitely find a use for this.
+
+Dungeon of Knowledge has reached level 102 (+2).+20 attribute points.
+
+They weren’t kidding when they said leveling slows down, Ali thought. This had been a level ninety-nine raid boss, and she had only gained two levels from it. All her friends had gained similar levels, but they had all just hit one hundred and were temporarily blocked from gaining experience, so that made sense. Hopefully, what she had earned would be enough for Lydia.
+
+At least leveling wouldn’t be slowed against evolved monsters – although they would obviously be far greater threats. Curious now, she checked the rest of her notifications.
+
+Arcane Insight has reached level 55 (+2).Arcane Recall has reached level 19.Barrier has reached level 62 (+2).Martial Insight has reached level 67 (+3).Empowered Summoner has reached level 51 (+2).Minion Teleport has reached level 34.Identify has reached level 21.
+
+Not such a bad haul for a quick run, she thought. Ali dropped six points into each of intelligence, wisdom, and perception, saving her final two for vitality. Then she glanced at her Dungeon of Knowledge class aptitude, verifying that it was now contributing four more to her intelligence – two per level above one hundred, just as expected.
+
+Pretty nice, she decided, nodding to herself. Then her gaze shifted to the notifications from her minions.
+
+Your Rogue has reached level 31.Your Acolyte of Azryet has reached level 42.Your Ice Mage has reached level 87 (+3).Your Blood Shaman has reached level 85.Your Witchdoctor has reached level 90 (+2).Your Blood Berserker has reached level 100 (+2).
+
+The berserker hit one hundred, I wonder… but the very next notification answered her question.
+
+Your Blood Berserker has met the requirements for class evolution.
+
+Ali watched closely as her Grimoire reacted, inscribing dense runes to augment the imprints for her minions. She reached out, checking on the minions left in the rift chamber, finding them mid-fight against a Hellfire Warg that had crept through. She had missed the notifications for her rogue and acolyte during the fight, but it looked like her small force would be capable of holding the rift for now, at least until she came up with a more permanent solution.
+
+“My berserker is ready for evolution,” Ali said.
+
+“Oh, are you going to take him to the shrine?” Calen asked.
+
+“Hmm, I didn’t think of that,” Ali said. “I don’t know if it works on minions.” If it did, though, that would be rather incredible.
+
+“Why else would dungeons make shrines?” Mato asked. “I’m pretty sure most of them are not helping the local town grow out of the goodness of their hearts.”
+
+Malika snorted.
+
+Huh, I didn’t think of it that way, she thought. Sometimes, the uncomplicated directness in Mato’s thinking cut right to the heart of things in ways that surprised her.
+
+“Speaking of shrines,” Ali said, glancing up at the dais, “this dungeon was a natural one.” She levitated herself up onto the ancient platform, depositing herself beside the ancient relics that stood there: the forge, the anvil, and the shrine.
+
+Shrine of the Emberforge MinesAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: --Mana Siphon (Active)Mana: Unlock class experienceMana: Assign fire mana affinityMana: Unlock alternate classesMana: Class evolutionMana: Class revertShrine – Artifact
+
+“Wow, this thing is potent,” Ali said, studying it. Her eyes dropped onto the ‘Class revert.’ Vivian. Could this work for her? Suddenly, her heart was thumping in her throat. Calm down, Ali. One step at a time.
+
+The list of functions seemed just as advanced as the Aman Rak shrine and had the class revert ability she had had to pass on while in the temple. She reached out to touch the shrine with her hand, eyeing the flaming red runes that adorned its surface. It was also a relief to find it was a real dungeon shrine and not an artificial one that would summon the Blind Lich.
+
+Claim ownership of this shrine?
+
+She studied the surprising message for a moment, but she had already deconstructed the owner, so she accepted the new shrine.
+
+The moment she bound it to herself, Ali felt her mana surging into the shrine. A few seconds later, the huge monolith burst into a cloud of dense mana and immediately the entire domain of the Emberforge Mines began to unravel, a cascade of destruction and dissolution that rippled quickly through the dense mana field across the chamber and beyond. Crap, what did I –
+
+Before she could process the loss of a priceless artifact, her chime sounded once again.
+
+Shrine of the Ancient Grove gains Revert.Roll back a class advancement or evolution to the prior state, losing all intervening experience and levels gained.
+
+“You deconstructed it?” Calen gasped.
+
+“Not on purpose,” Ali said, touching her throat as a new wave of relief made her feel physically sick. “Apparently, you can’t own two shrines at the same time. I got an advancement – my shrine gained class revert. I can roll back an evolution or a bad class now.”
+
+Vivian still might be able to recover her power, despite my bungling.
+
+“You did?” Mato asked, suddenly interested.
+
+“Yup, why?”
+
+“Do you think we could offer it to Tabitha? I’m sure she’d much rather be a chef than a laborer,” Mato said.
+
+“Sure, I don’t mind trying,” she answered, but she was definitely going to try something that destructive on a minion first.
+
+She walked over to the anvil and the forge, making certain not to touch them this time. But she needn’t have worried.
+
+Anvil of the EmberforgeThe once-legendary anvil of Thovir Emberforge, now cracked and shattered, the light of its magic runes long faded.Quality: Broken, Legendary.Anvil – Artifact
+
+Thuli would be disappointed, but she would still bring him down here to see it. If nothing else, it was a piece of history – and a personal family heirloom for the dwarven smith. There was no hope of ever restoring it, was there?
+
+“Shall we go see if my mom leveled?” Calen chimed in.
+
+“Yes,” Ali said. Exploring could wait; she had almost forgotten they were on the clock. Quickly, she inscribed a runic teleportation circle keyed to the locus in the library.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,131 @@
+---
+id: 1803ef0f-d1d4-5cd0-b307-8d1e3cdd246f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 503: A Gift"
+slug: 0543-chapter-503-a-gift
+partOf: dungeon-of-knowledge-complete
+position: 543
+ownLength: 2467
+unit: words
+ownProgress: 2467
+publishedAt: 2026-01-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2932562/chapter-503-a-gift"
+royalRoadId: "2932562"
+markedReadAt: "2026-06-29T20:30:44.126Z"
+---
+
+Across the breadth of Myrin’s Keep, Ali heard and felt the sounds and activities of a town coming alive, a bustle that rose with the dawn. It was also a function of her ability to see mana, a potent combination of her pervasive domain perception, and the sights, sounds, and scents that clamored for her attention through the distributed senses of the minions she had spread surreptitiously throughout the town. Spiders lurked inside abandoned buildings, oozes rested in potholes or gutters, and bats roosted around under eaves. In fact, her most prominent dungeon denizens, the most visible, were the ubiquitous Glitter Dragonets that claimed perches upon chimney tops, awnings, and flitted between tree branches.
+
+It was amusing to Ali just how deep-rooted human reactions were: whenever her spiders were encountered, they were met with screams and running, which was why she bade them to hide within unused buildings. On the other hand, a young boy of no more than eight years old was eagerly attempting to coax a Glitter Dragon down from its perch on a branch by offering a small morsel. Said Glitter Dragonet disdainfully turned up his nose at the offer of a fried chip.
+
+You’d be his biggest friend if you had a moth or a bug to offer.
+
+Myrin’s Keep was drastically changed from the rubble and ruins choked by fungal growth and creep. Already, it looked like it would rise from the mire of Blooming Rot renewed, far bigger and better, and most certainly cleaner.
+
+Ali’s attention drifted to the previously open plain south of the battlements and the sight of a large celebration taking place in the boughs of the enormous Ciradyl trees she had planted. Wood Elves formed various processions, waving verdant branches and casting beautiful decorative spells as many of them sang. Ali watched the excited procession as they traversed a branch wider than the south road until they came to a halt at a doorway.
+
+As Ali smiled at their unexplained joy, her Grimoire suddenly popped into existence before her and sprang open. A moment later, a storm of runes formed, whirling about it, and her notification chime sounded.
+
+Imprint: Elf completed.
+
+Ali gasped as dozens of emotions burst into life within her. She intentionally ignored the sensation of healing mana spells coming from behind the closed door and instead locked her attention on the rising choir of voices coming from the celebrating elves, waiting with breath just as bated as theirs.
+
+Ten minutes later, the door opened, and a tired-looking elf emerged holding a tiny, swaddled bundle with a shock of bright green hair. Even though she was not there in person, Ali shared their joy at the sight of the newborn elf, knowing just how rare such an event was for them.
+
+It was only after they eventually dispersed, and the mother returned to her room with her baby that Ali finally let the implications sink in.
+
+An Elf gave birth in my dungeon. Much like when Basil germinated seeds in her mana, her Grimoire had reacted. It was something that had happened a few times, and she had never fully unraveled the conditions that led to a spontaneous imprint like this. She puzzled over it for a long while, but no inspiration manifested.
+
+Unfortunately, that left her with a tricky question. Should I take it? Taking the human imprint had been an emotional challenge, and now she confronted the same question, albeit with a far calmer mind and the weight of relevant experience. Still, she couldn’t help but note that she had just been critiquing humans for their biases and instinctive reactions to her monsters and then had run full tilt into one of her own.
+
+I’ll take it, she decided. Furthermore, she decided she would treat it as a joyous occasion, something to be celebrated, just like the elves had. With a final flurry, her Grimoire inscribed all the floating runes, taking two chapters for the imprint.
+
+This is a lot fuller than I expected, Ali mused as she browsed the pages, and moments later she realized how it had been triggered. Her new imprint was full of variants. One of the major contributors were the Sylvan Elf variants, monsters that Lira’s dungeon had created from the corpses of the Elves killed here. There were also half-elf variants that spanned her human and elf imprints, and Ali realized she could likely summon Sallis, the half-elf from the Crimson Blade who had tried to murder her with flaming arrows.
+
+Joyful, Ali, she reminded herself. She could worry about murderous people from her past later. Most notable was that the imprint was for ‘Elf,’ not ‘Wood Elf.’ The baby’s birth had merely been the final catalyst that triggered the full imprint, and her Grimoire had a far more general set of options and variants than just one.
+
+Ali smiled, the joyful celebration reminding her that she had planned something that might spread a little joy to a good friend. She descended on golden wings, her arcane mana flowing gently through them to power her flight, and she landed upon the empty plot of land behind the guild building. The crude church that Havok had erected to Azryet was most certainly not on the high-priority list for reconstruction, not with the Temple of Lunaré handling the bulk of the healing services for the townsfolk during the rebuilding, but that wasn’t exactly fair. She had seen Havok and his fellow Azryet-disciples conducting their simple services in the empty plot several times, and now that she had a little spare time, she had a mind to fix things.
+
+After all, it is in my domain.
+
+Besides, she needed a project to take her mind off her longer-term worries. Certain cursed titles and the attendant eldritch eyes were not going to fix themselves overnight.
+
+Her domain mana sprang into action with a thought and a wave of her hand. The plot of bare dirt and rock shivered momentarily as the domain mana bent the nature of its expression in the real world, and suddenly the whole square block shifted, becoming a thick foundation of alabaster-white marble. The stone she had collected from Azryet’s realm.
+
+Havok, in particular, had been in awe of the Cathedral in Azryet’s dungeon, and the construction of his vast draconic library, and so, as she embarked on her new project, walls sprang up out of the ground, shaped by her will to rise into a domed circular building of the very same stone. She opened four wide, spacious archways to each of the cardinal directions and fashioned a broad array of high windows designed to let in the light.
+
+She stepped into the domed construction, studying the pleasing way the sunlight streamed through the windows she had just made and made the alabaster floor glow like molten steel. The pristine marble seemed to absorb the light, almost shining with an inner radiance. She shifted the windows a little to create a slightly better flow of light and then turned her attention to the inner walls, studying her memories of Azryet’s architecture. No sooner had she done so, than Sage of Learning gobbled up a sizeable chunk of her mana and began flickering images through her mind like a colorful parade passing by. Images of ancient Dal’mohran architecture, sculptures from her youth, soaring pillars and buttresses of dwarven design, and the sweeping dark elegance of Mi’ir Valdanis. With each image, a dozen ideas presented themselves for how she might incorporate them to enhance the design or function of her construction.
+
+Her mana flowed, and benches formed from the briefly pliable marble, sculpted from the walls and extruded from the floor all around the edges of the cathedral she was constructing. Planter-boxes poured from the walls, sculpted to look like alcoves and sconces, and with shimmering pulses of magic from her Grimoire, Sacred Lilies sprouted from each, filling the air about them with a shimmering haze of holy mana.
+
+Perfect.
+
+Azryet, she reflected, had changed dramatically in her mind. Initially, she had assumed him to be a monstrously powerful dungeon, and she had almost lost her life in their first encounter. It was only due to the bloodline magic she had unlocked – heartbreakingly similar to her mother’s – that she had even had the remote chance of blocking his breath attack.
+
+But she had suffered from the same short-sightedness she despised in others; she had assumed that because she was in a dungeon, he was hostile. So had he, if she were being honest.
+
+I will learn to be better, she vowed.
+
+She summoned several holy kobold herbalists, expanding the Sacred Lily areas and supporting them all with her domain mana, her mind in a creative zone as she enjoyed the feeling of wielding her magic and weaving her skills to bring the cathedral to life. But the flow of creativity left her mind free to roam.
+
+Her second impression of Azryet had been just as wrong. He had made a bargain with her, and he had kept his word, and she had proceeded with the assumption that he was honest and fair, true to his word, and transactional, much like a good merchant. But the way he treated his followers, and the free offer of compassion and assistance when she had presented the problem of Lira’s entrapment, and his tacit approval of her continued mentorship, had yet again shifted her perception of the dragon god.
+
+She might not be one of his devout followers, taking him as her patron deity, but sharing a little of his draconic majesty with the townsfolk of Myrin’s Keep through the medium of a cathedral built in his honor resonated well with her. If Havok’s little church gained more popularity, that would be a good thing for the town, and she was certain the people who sought Azryet’s favor would be well cared for. Besides, she loved the little Goblin for his pure heart and his unbridled enthusiasm for life.
+
+And as a dungeon, now fully incorporating the city, she could do far better than the hovel Havok had started with.
+
+She hummed a little tune, enjoying the challenge of duplicating Azryet’s beautiful cathedral. She raised a dais in the center of the room, placing a circular table that might serve as an altar or a central focus, and then she summoned several spheres of voidstone, floating them high above the floor with a strategic application of her barrier magic; high enough that they wouldn’t hurt any visitors, and then she bound them to her domain.
+
+“Miss Aliandra?”
+
+Ali glanced over to find Havok standing at the open archway, his eyes wide and staring at the high vaulted dome ceiling, the arched windows, and the suspended voidstone orbs.
+
+“Hi, Havok,” she said, amused as he finally shut his jaw and turned to look her way.
+
+“Can… can Havok come in?”
+
+“Oh, yes,” she said. “This is your new church. I took the liberty of copying the theme from Azryet’s dungeon. I hope you don’t mind?”
+
+“This is new church?” he said, still looking a little dazed. Belatedly, he realized he was tracking mud across the pristine white floor and scurried back to the entrance to wipe his feet.
+
+“Yup,” she said, hiding her chuckle at his antics and effortlessly deconstructing the footprints. “I just have a few more things to finish.”
+
+“Havok watch?” He nodded his own head vigorously.
+
+“Of course. Be sure to let me know if you have anything you want me to change or add.”
+
+The little Goblin plopped himself down on one of the benches she had crafted, his plate armor making a loud clank, and he stared at everything, looking somehow dumbstruck and amazed all in one.
+
+Ali left him to his thoughts, needing a little more concentration for the next part. Referring to her notes several times, she inscribed the draconic rune formations into the stone of the floor using alternating lines of mithril and gold, taking exquisite care to get each rune perfectly formed. It took quite some time; all the while, Havok simply sat and watched, barely moving a muscle.
+
+Finally, the rune formation completed and burst into light from the mana of her domain, leaving only one thing remaining. She summoned five Priests of Azryet, giving them the holy robes that she had learned while in the dragon-god’s dungeon, and then she granted them domain respawn, binding them to her mana.
+
+She didn’t even need to instruct them; they simply wandered out into the cathedral, placing themselves equally spaced around the central dais, and then bowed their heads in Prayer. Immediately, holy auras of regeneration blossomed from the priests, filling the air with the soothing mana that slowly drifted into the rune formations to be absorbed into her domain.
+
+“What this does?” Havok asked, finally breaking the silence.
+
+Instead of answering him directly, she shared the Prayer skill the Priests had; an evolved version of the one her Acolytes possessed.
+
+Prayer – level 62Focus: Seek the guidance of your patron. Mana regeneration is increased by +990% [60 + skill x 15]. When used with a full mana pool, Prayer instead projects an aura granting +330% [20 + skill x 5] health and mana regeneration to all nearby allies. Movement or using an active skill cancels your focus. Your Patron may choose to double your bonus at their discretion. Range: 14.3 meters.Holy, Wisdom
+
+“Heal visitors?” Havok gasped.
+
+“Yes. Even if you’re not here,” Ali said. “Do you like it?” The rune formations had a second function; she could already tell that drawing this much excess holy mana into her domain from the praying priests and the Sacred Lilies would be enough to expand her shrine affinity offerings.
+
+“Is… pretty!” Havok said beaming. “Thanks, Miss Aliandra!”
+
+“It’s my pleasure,” Ali said, offering a quick, whimsical curtsey as her chimes sounded.
+
+Domain Mastery has reached level 59 (+5).Sculpting has reached level 15 (+6).
+
+She let her eyes widen at the additional levels. That was profitable. Any more holy Dragon-Gods around who need more churches?
+
+“You can tell the Guildmaster that the holy mana in your church means my shrine can offer holy affinity now. She will be very happy,” Ali said. Classes bearing a holy affinity nearly always had a natural path involving healing skills, something that was always in short supply. Ali wouldn’t be surprised to find Vivian in here, making an offering to Azryet for every recruit that chose a holy class in the future.
+
+Havok began to reply when suddenly an ominous chill speared through Ali’s heart, provoking a resonant fear as something powerful breached the city walls, blasting the heavy stone battlements into rubble, and entered her domain, charging right for her at incredible speed.
+
+Something powerful and undead.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

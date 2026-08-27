@@ -1,0 +1,263 @@
+---
+id: b4b9ec2c-2ecc-53df-a6fd-1e9fbf86fe26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 501: The Frozen Scourge"
+slug: 0541-chapter-501-the-frozen-scourge
+partOf: dungeon-of-knowledge-complete
+position: 541
+ownLength: 3954
+unit: words
+ownProgress: 3954
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2926541/chapter-501-the-frozen-scourge"
+royalRoadId: "2926541"
+markedReadAt: "2026-06-29T20:30:39.870Z"
+---
+
+Mato smiled quietly to himself at how quickly Ali immersed herself, already lost to the world, even in the depths of the Blind Lich’s domain, merely for the joy of studying some strange runes. He was no sage of mental healing, a battle healer at best, and so he’d been worried sick about something that could shake Ali so deeply. Still, he believed in her resilience, and it was a relief to see a little of her passion shining through.
+
+He glanced at Malika, “Just outside, yes?”
+
+“Calen confirmed that this is an uninhabited dead end,” Malika answered.
+
+“Ok, give me a moment,” he said, turning his mind inward to view the tree that grew ever larger at the heart of his soul. “I need to check what I earned for that eldritch pest.”
+
+Elemental Shapeshifter has reached level 169 (+9).+90 attribute points.Arboreal Sanctuary has reached level 72 (+4).Swipe has reached level 87 (+4).Brutal Restoration has reached level 81 (+3).Bear Form has reached level 81 (+4).Rampant Growth has reached level 44.Bestial Combat has reached level 69 (+3).Natural Prowess has reached level 68 (+3).Survival Instinct has reached level 84 (+2).Battle Trance has reached level 62 (+3).Last Stand has reached level 29 (+3).Identify has reached level 24.Cooking has reached level 26.
+
+“Not bad,” he said. “For a miserable fight.” Any battle where he lost his wits was a bad one in his books.
+
+“At least, Ali turned it around in the end,” Malika noted.
+
+“Yes, with a flower, of all things,” Mato chuckled. “And then I spent the rest of the fight being blown up by fireballs.”
+
+“Better that than the insanity.”
+
+“Sure,” Mato acknowledged. “Still, I wonder when I’m going to get a title for being the most on fire bear in existence.”
+
+“Big Burnt Bear?” Malika asked.
+
+“Knowing my luck, for sure,” Mato nodded. “Still, ninety points is a good haul.” Quickly, he spent twenty-five points on strength, twenty-three on vitality, and twenty-two on endurance. Then he added seven each to perception and wisdom, and three each to intelligence and dexterity. More and more, he was coming to rely on the small investments he was making in his weaker attributes for improved mental control with his spells and better ability to dodge in combat.
+
+“Good enough,” he said. “I’m ready.”
+
+Mato returned to the outer chamber while Ali and Calen explored the ancient, ruined passageways. It wasn’t like he was uninterested; he had seen the dusty corridor through the illusion, but he trusted Calen’s word that there was no danger within, and so his skills were not really needed. Besides, they had been wandering these strange passages for ages, and he could use a few minutes’ break from the endless fighting. Guard duty would be the perfect thing.
+
+Malika had clearly come to a similar conclusion, sitting cross-legged beside him with her intense blue eyes closed in meditation. If someone had told him that he would come to enjoy this stoic, responsible girl’s company when they had first met, he would have laughed at them, but, over the course of their adventures, he had come to truly appreciate her level-headedness as a foil for his occasional impulsiveness.
+
+That and he trusted her with his life. Far more even than the simple purity of the relationship between a tank and a healer. She had put her life on the line for him – for all of them – again and again.
+
+He grunted as he shifted forms and flopped down beside her, taking a moment to enjoy the coolness of the stone floor beneath him. His Bear Form was now almost second nature to him, an indelible part of his identity, but he had to admit, as he leveled up, he was definitely growing bulkier. Heavier, too. A useful trait for a tank, and his skills and strength kept him agile enough, but his larger mass had a noticeable tendency to retain heat long after combat. Sometimes, on the rare occasions when he had nothing to fight, he took simple joy in sprawling out across a cold stone floor, enjoying the sensation of heat flowing out of him.
+
+Mmm, this is nice…
+
+He had been lying there for several minutes when his ears prickled at the sound of a soft creaking coming from one of the dark passages leading from their chamber. He raised his head to take a look, but nothing seemed to be moving.
+
+A soft crackle followed a strangely melodic tinkling as if an icicle had fallen upon stone, shattering on impact and sending tiny fragments of ice skittering out across the floor.
+
+He knew in an instant what it was.
+
+“Malika, company,” he sent, surging to his feet, but Malika’s blue eyes were already open, glowing with the power of her magic.
+
+It floated into the room like it owned the place: a blue-white skull that hovered about three feet above the ground. Icicles sprouted from the mere touch of its heavy gaze, hanging from walls and encrusting stone. It turned slowly, and he knew he was already too late to reach it.
+
+Frozen Skull Sentry – Elemental – level 184 (Ice)
+
+But he charged anyway.
+
+You have been cursed with Frozen Doom.You have resisted Frozen. You have been cursed with Mark of Frost.You are wreathed in an outline of frost, making you easier to see and hit. You are visible.+20% to the accuracy of all attacks targeting you.Curse – Duration: 5 minutes.
+
+“Cursed,” he said, roaring to attract its full attention as the room sprang to life. Trolls left behind by Ali to help guard the entryway shouted bold battle cries, monsters roared, and the ground shook as Tol’brekk leapt into the air. Power surged into Mato’s paws as he activated all his support skills and lashed out with void-laced claws.
+
+His vicious Swipe found only air, brushing vortices through the faint sparkles of ice mana, the remnants of the sentry’s teleport magic.
+
+Fuck.
+
+Four distinct forms materialized before him.
+
+Unstable Arctic Skull – Elemental – level 191-192 (Ice) x2.Devastation Knight – Undead Dragonkin – level 187 (Ice).Devastation Knight – Undead Dragonkin – level 190 (Death).
+
+The two flying skulls screamed and shot forward, their jaws chattering as they trailed whipping winds filled with ice and snow. One hit him squarely on the shoulder, and the other impacted against Kir’mogan’s armored thigh.
+
+A thunderous crash rocked the room as both ice-elemental skulls exploded, blasting shards of frozen shrapnel through the room. Twin pulses of ice mana condensed from the epicenters as all their mana was instantaneously released, creating a wave of pure glacial ice magic that rippled through the room in an eyeblink. Everything froze solid.
+
+You have been frozen.
+
+“Shit, frozen!”
+
+Mato’s body creaked uncomfortably in its grasp as the ice took hold, a foreign chill that forced its way into him and froze him to his core. He couldn’t move a muscle. Not even when his frozen doom curse detonated, riddling his body with stress fractures and cracks. He couldn’t even wince at the pain. Nor could he heal.
+
+A towering dark form approached, a grin upon its decaying visage, mithril boots crunching loudly as its footsteps crushed the ice. Everything in the room was frozen; everything, he realized, except the ice-affinity death knight raising his sword for the coup de grâce.
+
+Just as he was about to call for help, something entered his Sanctuary moving at incredible speed. A blur darted between him and the descending blade, and, with a flicker of soul magic, knocked the blade to the side. The glinting, rime-encrusted sword sheared downward, only lightly grazing his shoulder. Like it was the signal to begin, a sudden flurry of blows and retaliatory ice spells erupted between the two fighters, everything flying so fast he could follow it only with Survival Instinct.
+
+Of course, she dodged it all. At least, encased as he was in solid ice, he didn’t feel overheated anymore. “Could use a heal when you have a chance,” he sent to Malika.
+
+Malika twisted in the air, launching a high kick that connected with the point of the undead chin. A ringing crash echoed from the walls of the room as her foot whipped the mithril helm backward and soul magic blasted a lance of force and destruction through the Death Knight’s head. She simultaneously fired her healing magic from an outstretched hand, blasting it through his face from a distance of six feet. Mato’s body crunched painfully as the magic burned through him, forcibly eradicating the cracks, pulverized organs, and shattered bone – the devastating result of detonating Frozen Doom while doing his best impression of an ice cube.
+
+But her healing magic was somehow more, more than he remembered. The groaning crackle of shattering ice continued as her spell banished it from his core, eradicating the chill like a poison, and with a powerful flexion of his muscles, the remaining prison of ice shattered, bursting outward off his body with a satisfying blast of force.
+
+“Nice upgrade,” he said.
+
+“Thanks.”
+
+Then, he roared in the midst of the flying shards, and the eyes of the Devastation Knight snapped toward him, filled with fury.
+
+Perfect. Ignore her while she takes you apart from behind. Mato swiped through the Death Knight’s dead flesh, his void claws and armor penetration skill combining to tear gashes through its mithril armor.
+
+“Do you think Ali will notice her minions fighting and come help us?”
+
+“I doubt it,” Mato answered. “You know how she gets when she finds a puzzle.”
+
+“Damn.”
+
+“Don’t worry. Her minions are decent on their own, and Calen is still in range. I can call him if things look like things are going to go upside down.”
+
+“Ok, good. Let’s clear out this trash then,” Malika said, a grin creasing her cheeks as she pushed herself to heights of pure speed.
+
+***
+
+“That was fun,” Mato said, finally shifting back after they’d taken care of three separate patrols.
+
+“It was,” Malika said, the blazing glow slowly fading from her eyes.
+
+“I even leveled up,” Mato chuckled, taking a long pull on his water bottle before offering it to Malika.
+
+“Not bad,” she said.
+
+Quickly, Mato looked inward, finding his notifications waiting for him.
+
+Elemental Shapeshifter has reached level 171 (+2).+20 attribute points.Arboreal Sanctuary has reached level 73.Swipe has reached level 90 (+3).Brutal Restoration has reached level 83 (+2).Bear Form has reached level 84 (+3).Bestial Combat has reached level 72 (+3).Natural Prowess has reached level 70 (+2).Survival Instinct has reached level 86 (+2).Battle Trance has reached level 64 (+2).Last Stand has reached level 30.
+
+“This place is good for our growth,” Mato said as he studied his skills. Nothing stood out, but his eyes lingered for a moment on Swipe, and then Survival Instinct. They’d tier up soon – he couldn’t wait. Then I’ll really slap those Knights around!
+
+“The bosses are a bit on the dangerous side,” Malika said, her voice laced with pretty blatant sarcasm.
+
+“Yep,” he grunted, agreeing with the ever-cautious monk’s opinion. Even he could accept that every boss they’d faced here had been deadly.
+
+“This trash, though. This is fun,” Malika said.
+
+Mato raised his eyebrow. “You? Fun?”
+
+“I know,” Malika chuckled. “I never imagined I’d be able to say that about facing tier two Devastation Knights in the middle of a dungeon like this.”
+
+Mato grinned, storing his water bottle and shifting back to Bear Form. “Get ready, I hear something else coming.”
+
+“Right,” Malika said, instantly alert. “Tol’brekk, Kir’mogan, incoming enemies.”
+
+As the trolls formed up beside Malika, Mato threw five points each into strength, vitality, and endurance, following that up with three in perception and the final two spent on wisdom. Then he moved to the front, placing himself in the center of the doorway.
+
+Come and get some!
+
+Reunited after having learned everything she could from the small, hidden chapel, they pressed on.
+
+The endless passages of the vast mockery of the temple at Mi’ir Valdanis created by the Crypt of Kings finally gave way to rough-hewn ice and rock, a frozen passage easily three times the height of her berserker troll. She could have walked two Pit Lords standing abreast down this passageway, and their stubby vestigial wings would not even come close to the walls.
+
+One of the more lucid passages in the latter parts of Eldorien Spellsage’s journal had provided a fascinating, if terrifying, account of the steady progression as the Crypt of Kings had consumed Mi’ir Valdanis. By his account, the true temple had been a much more modest affair, constructed around the Well of Eternity. For some unexplained reason, the dungeon had seen fit to greatly expand it, giving rise to an endless labyrinthine network of passages, carpeted chambers, and smaller chapels they had found themselves forced to explore. Perhaps it was some instinctive drive to protect the ancient well, or perhaps it was the madness of Baaoht Yll’shuum itself, Ali couldn’t rightly say.
+
+She flew on, surrounded by her minions and her friends as she studied the growing density of the dungeon’s domain and the thick layer of rime that coated the walls. In a small crack near the floor, her eyes caught sight of something entirely unexpected, and she flew down to get a closer look. Pushing its way up out of the small crevice in the icy rock, she found a cluster of bluish, serrated leaves of pure ice magic, and growing up out of the center, atop a slender stem, a pitch-black flower bloomed. Deep in its center, surrounded by the broad, silky petals, she could make out a small pattern, glowing blue mana with a shape that resembled a skull.
+
+What’s that? Curious, she identified it out of habit.
+
+Crypt Poppy – Wildflower – level 197 (Ice / Death)
+
+Further down the tunnel, she spied Mato bent over another poppy, examining it with interest. She scanned the darkness of the frigid tunnel, and, now that she knew what to look for, she found many more poppies sprouting every so often along the path.
+
+“How do they even grow here?” Ali asked. The tunnel was perfectly dark and inhospitable, covered in ice and steeped in death mana.
+
+“Are you seriously asking that question?” Mato asked, cocking an eyebrow at her.
+
+“Yes, why?”
+
+“Miss Fae, the dungeon who grows an underground forest?” Mato added.
+
+“Aah,” Ali managed, a touch of warmth reaching her cheeks, despite the icy air.
+
+Mato cracked a smile and handed her a bouquet of uprooted flowers, roots still dangling from the bottom of his hand, embedded in clods of frozen dirt.
+
+“Thanks,” Ali muttered, deconstructing them quickly and adding them to her Grimoire.
+
+Variant: Crypt Poppy added to Imprint: Wildflower.
+
+“A dual-affinity flower is nice,” Mato said. “High level, too.”
+
+“Quite,” Ali agreed. She wasn’t the biggest fan of death affinity, but she had to admit it had its uses, especially given what she had collected in her Grimoire.
+
+“How does it look, Ali?” Calen asked, his wings billowing like soft sheets of pure luminous radiance that somehow held his body aloft.
+
+“We’re definitely getting closer to the core,” she confirmed, although how much more there might be to the dungeon was anyone’s guess. “The mana is growing much denser.” Regardless of what remained, Ali was certain the ultimate prize lay at the core of this dungeon: the Phylactery of the Blind Lich.
+
+Eliminating Nevyn Eld had always been so unthinkable to her that she had only ever considered it in her dreams, but even there, any dreams of the Lich had invariably been nightmares. Horrific stories conjured from the worst of her fears and insecurities, her grief and her pain. In them, she broke his Phylactery a thousand times, and always he returned somehow. It was either an illusion or a fake. Or she had been deceived. Or betrayed.
+
+This, however, was no dream. She was finally here, in his domain for real. And she was one hundred percent certain they had not even seen the half of the Blind Lich’s defenses. Still, they must look and see for themselves. All it might take would be killing whatever guardian they found in this last chamber, something they had become very good at, and when she finally laid hands on his Phylactery, she was going to end him, once and for all, freeing her to save Lira.
+
+The tunnel twisted and wound its way deeper, always filled with the crunching of ice under the feet of her trolls. The noise echoed, eerily warped and distorted by the faceted, hard-edged ice. She slowed her monsters’ progress through the tunnel in an effort to quieten their approach, but there was little she could do to silence the noise of battle every time a Frozen Skull Sentry floated into view. Or Tol’brekk’s heavy footsteps that sometimes caused even rock to creak and splinter.
+
+Instead, she contented herself with the focus and diligence to disrupt any escape via teleportation spells every time a sentry appeared. She was grateful her mind felt nearly back to normal, presumably due to Malika’s newly advanced healing spell.
+
+“Sentry,” Mato warned.
+
+“I see it,” Ali whispered, knowing his ears were sensitive enough that she would be heard. With a gesture, she flicked out a flight of golden needles, shredding the teleportation forming within the latest patrolling skull and watched with satisfaction as her berserker’s great swing batted it into the wall where it shattered with a satisfying crunching pop, and the slushy sound of crushed ice flowing down the wall to collect in a wet pile upon the floor.
+
+The chime of her notifications told her everything she needed to know about their interruption, and she simply flew on past the remains. She had already committed that variant to her elemental imprint.
+
+The space around her widened, and Ali suddenly sensed a vast and powerful magic lurking deep within the darkness. Far ahead, somewhere in the depths of a vast cavern, she saw a shard of black and red, shifting and shimmering like a huge pane of magic that tore a gaping hole in the fabric of reality.
+
+“A rift,” she said, her voice a low whisper. The rift was not nearly the only thing out there. “And… something else.”
+
+“Let’s take a look,” Calen whispered.
+
+“Carefully,” Malika cautioned, unnecessarily.
+
+A half-dozen motes of light floated out, soaring high overhead, casting their light into the vast space and slowly revealing the sheer expanse of the enormous ice cavern. Down below, small figures struggled at the foot of the rift, and now Ali could catch the distant sounds of battle carrying over the blood-stained ice.
+
+“Dragonkin,” Calen said, squinting his eyes while his magic flickered within, greatly enhancing his sight. “From the rift. They’re fighting Death Knights.”
+
+Ali shifted her perceptions to the eyes of her void dragons and sentinel demons, taking advantage of their vastly more powerful vision. What she saw down there at the foot of the rift was chaos beyond the simple words Calen had spoken.
+
+Broken bodies lay strewn across the ice. Hundreds of dragonkin warriors and mages, sliced to ribbons, their blood running out onto the ice, forming rivulets and dark red pools that rippled and shivered to the tune of the heavy crashing of battle. Rivulets that rapidly congealed and froze upon the glacial ground.
+
+It was not all one-sided. As she studied the melee, three dragonkin warriors swarmed a Death Knight. The first was sliced in half by a rune-covered mithril blade. The second, frozen in mid-leap to shatter upon the ground. But the third buried a curved sword deep in the heart of the Death Knight, and it slowly crumpled to the ground with its dying magic arcing chaotically around it as it perished.
+
+“Should we help them?” Ali whispered. The thought came to her as she regarded the active incursion. Dragonkin were desperately trying to overwhelm the Death Knights of the Crypt of Kings. Surely any enemy of Nevyn Eld would be an ally of theirs, regardless of how their race was perceived by the mortal kingdoms.
+
+“Something doesn’t feel right here,” Calen whispered.
+
+Ali was about to disagree, but then she paused. One incredible fact stood out in her mind. How are they still actively fighting after so many years? Thousands of years in fact, and the battle was still raging. She was left with only a few explanations, none of which settled her mind, and she understood Calen’s uncharacteristic reticence to rush to their aid. Either these Dragonkin were bred for this war, or they were being summoned continually, minions of another creature, or worse, a larger dungeon.
+
+A vast rumbling tremor shook the entire cavern, interrupting her conflicted thoughts and knocking the fighting dragonkin and death knights off their feet. The trolls standing beside Ali swayed and stumbled, even at such a great distance.
+
+“Arise! Rejoice! You serve the Master, now!”
+
+Ali clapped a hand over her mouth to stifle a yelp.
+
+A vast surge of mana rippled through the chamber, igniting a previously invisible array of runes that filled the entire space above the rift with the dark pulsing of death and the power of the domain. Bolts of necromantic energy shot down, clawing and ripping at the corpses, tearing screaming wraiths from each and transforming them with a corrupted magic. The tormented wraiths writhed and thrashed against the shackles that bound them to the domain and slowly sank back into their corpses.
+
+Then, they all stood as one. Dark and ominous energy flickered and flashed across the newly created undead, as the dungeon’s mana rippled to gird them with mithril plate armor. Runic blades formed from dark knots of domain mana, and each corpse reached out a gauntleted hand to grasp one.
+
+In moments, Ali found herself staring at nearly a hundred newly minted Devastation Knights.
+
+“Report to Haverron for your assignments. Leave the intruders to me.”
+
+“Can’t imagine that’s anything good,” Mato grunted.
+
+Even as far away as they stood, the ground trembled under the thunderous impact of the ancient, grating voice. Up close, it was an entirely different story. Boulders of ice shattered into pulverized plumes that danced to the deafening noise. Devastation Knights stumbled and staggered, but as the sound subsided, they all turned as one and began to march toward the doorway. But Ali barely saw them, her eyes fixed on the apparition manifesting behind the rift.
+
+A vast winged shape slowly emerged from the darkness as the bitter cold of ice magic suffused its gaunt, bony hide. Twin glowing points of intense cobalt-blue suddenly kindled high above the rift, glaring down with haughty contempt at where she stood across the cavern.
+
+Kryostria [The Frozen Scourge] – Dracolich – level ??? (Ice)
+
+Dark, withered wings unfurled, revealing holes and rips and the remnants of dragon scales that might once have been sapphire. But there was nothing withered and gaunt about the immense, palpable intensity of the mana crystallized within her undead body. Ice began to grow, rapidly coalescing around her vast form, freezing everything even remotely nearby. Icicles sprouted from the rift itself, and a thick layer of rime crept out over the blood-soaked expanse, filling the air with a deafening cracking and popping.
+
+Several Dragonkin warriors leapt into the cavern through the rift and were instantly frozen solid, falling to the ground and shattering into a spray of shards.
+
+“Champion class boss. Easily past the second evolution,” Calen said quietly. “It’s higher than two-fifty.”
+
+A chilling laughter shook the chamber as the Dracolich opened its vast maw.
+
+“Come now, it is useless to hide. My ice will find you wherever you run.”
+
+“I think we might need to leave,” Malika said.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

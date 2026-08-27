@@ -1,0 +1,61 @@
+---
+id: 77813e15-9b26-5ec7-b220-412d3ee95e9a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 281: A Little Alone Time"
+slug: 0315-chapter-281-a-little-alone-time
+partOf: dungeon-of-knowledge-complete
+position: 315
+ownLength: 1461
+unit: words
+ownProgress: 1461
+publishedAt: 2025-06-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2358442/chapter-281-a-little-alone-time"
+royalRoadId: "2358442"
+markedReadAt: "2026-06-29T20:21:58.883Z"
+---
+
+Ali flew through her forest cavern, admiring the view of the thousands of glowing wisps among the trees and the little glitter dragonets swooping around among the branches hunting for insects. Nestled among the roots of the giant oaks were countless tiny glowing mushrooms creating a carpet that glittered like a sea of golden stars.
+
+She wasn’t ready to expand her dungeon or upgrade her bosses without significantly more planning, but she had a class advancement ceremony scheduled at the shrine for later today, and she wanted to make certain she had all the easy affinities added before the applicants came. Even though she already had fire affinity, she and her entourage of bodyguards started down by the entry hall to the ruined city, stopping in the tunnel connecting it to the forest cavern.
+
+As she made her way downward toward the ruins, she filled in more Fire Grass and populated the area with several more Kobold Fire Mages and a few more Drake Hatchlings, marveling at how much less they cost now, and how quickly her Grimoire spawned everything. She flew back through the entrance chamber and out into the city ruins beyond, and then stopped, surveying the darkened ruins from atop her golden disk.
+
+This should be a higher-level area, she decided. It was all good and well to have a bronze-rank corridor ending with a bronze-rank kobold boss, but she also needed protection from substantially stronger threats. She quickly laid down a carpet of Fire Grass across several blocks of the ruined city, all the way around the entry hall. Then she began summoning Flame Lashers to grow up the sides of the ruined stone buildings.
+
+I should use these more often, Ali mused, studying the strange creeper with the beautiful flame flowers. There was nothing quite like it in her Grimoire. A fire-affinity creeper in the mid-to-low thirties, they were essential for making Fire Elixirs. Upon summoning, they behaved exactly like any other plant she could summon, hooking into her domain. They even contributed fire-affinity mana to her domain now that she had Adaptable Mana. She examined the vine more closely. Most importantly, they cost her no mana to maintain.
+
+It was only when someone stumbled into the range of their vines that they animated, turning into a monster and immediately reserving some of her mana. Once the threat was dealt with, they fell dormant again. They’re more like traps than monsters, she decided. On one hand, they were ridiculously efficient monsters, but on the other… if some intruder managed to aggro all of them at the same time, Ali might just find herself suddenly several thousand mana poorer in an instant. Unlikely, she decided, but she spread them out, nonetheless.
+
+Then she turned to her spider imprint and populated the houses with Flame Spinners and several Flame Broodmothers, bringing the challenge level of the area up to the mid-fifties to sixty. Gold-rank.
+
+She rounded out the expanded fire zone with skitterers as her larger spiders set to work spinning flame webbing everywhere and extending their senses across the ancient stone streets. For her final touch, she spent the time inscribing several dozen new traps she had learned. Summoning circles keyed to the Flame Skitterer imprint. The summoning circle had several drawbacks – the spawn didn’t last more than a few minutes at a time, and the trap could easily be avoided with advanced perception skills, by flying over it, or walking around it. However, it cost Ali no mana, so she would be stupid to not make extensive use of them.
+
+There, that should do it, for now, Ali decided, surveying her work. The entire area surrounding the entry hall was now draped with flaming web. She made a mental note to come back later and promote one of the Flame Broodmothers to a boss. And the guild will have a source of Fire Silk.
+
+Happy with her newly enhanced fire biome, she left, returning to the Forest Cavern and making for the ventilation shaft and the lair of her Abyssal Stalker boss.
+
+Here she had several enhancements, courtesy of Aman Rak. First, she planted a broad swathe of Blood-Drenched Moss leading up to the cave. Then, she filled the cave with more of it, planting it up the walls and all the way down the ventilation shaft and into the ruined chamber below where she and Mato had faced their first Fire Mage. She spread the moss a little further outside, covering some nearby streets and buildings.
+
+She wrinkled her nose as the entire area began to fill with the metallic stench of blood while she flipped chapters in her Grimoire, creating nooks and crevices in the Abyssal Stalker’s cave and filling them with the Scarlet Tears blood affinity orchids. She didn’t bother regressing the flowers, content to leave them relatively high level, hoping that Basil would be able to do something useful with them. She even planted some in the ruins below, on the rocky wall outside, and up several nearby trees, making a rather gruesome display of blood that constantly dripped down the trunks and rock, but she was rewarded by her shrine recognizing blood-affinity as a new domain mana that it could bestow on applicants.
+
+Next, she turned to her boss, studying the sleek and powerful demonic spider closely. Aura, she decided. She had been quite impressed by the blood affinity aura Joraa had wielded against them, so she resummoned her boss and replaced its ability to summon Vampire Hornets with the same blood-affinity aura. Still, she liked having the hornets in this area, so she summoned several free-standing swarms of them outside the cave and added a few more Abyssal Stalkers to back them up.
+
+In keeping with her idea of ramping up the challenge in stages, Ali filled the ventilation shaft and the ruins below with gold-ranked Blood Thralls. They’d better look before they go down here, she thought, eyeing the narrow shaft now filled with deadly explosive blood slimes. Still, she couldn’t afford to skimp on her defenses.
+
+Good enough. Now I just need to find a good spot for ice, she thought. She had many ideas for ice minions, but for now, she flew across the residential ruins until she reached the great shattered hole that had been torn through the city level, revealing the layers below. All around the jagged stone, for several city blocks, she filled the space with Alpine Forget-me-nots and Azure Ice Queen orchids until the entire region began to freeze over and her shrine updated with the new mana type. Then she added swarms of Icicle Bats, and several Frost Dragonets and Frost Weavers regressed to be around level fifty to sixty. This way in about ten levels, the guild adventurers would have a reliable source of ice affinity webbing and extracts for Lydia to create Frostweave. It was by no means a well-planned zone, but she wanted to be able to offer ice affinity to the applicants later, and she could come back to it later when she had the time to discuss ideas with Calen and Ryn.
+
+She flew back to the library, passing right over the Challenge Arena, discovering Sabri still dueling an Abyssal Stalker in a ring while Vivian held a class for the new recruits near the level one area.
+
+Blood will probably be unpopular, she thought, eyeing the newbies. At least ice and fire were common enough, and popular choices for combat mages with access to shrines. As she entered the library, Ali recalled she had another plant from Aman Rak. Flying down to the roots of the giant Elder Tree, she filled the ring with Soulshade Blossoms. Then she flew back up and planted several more patches in Lira’s Forest and nearer the shrine, mingling them with Peacebloom. Not only did the flowers have a beautiful scent, but they were also the extremely rare soul magic affinity, and it didn’t take long before her shrine added that as an option.
+
+As she examined her work, she carefully bent down and plucked one on a whim. While she was personally unable to summon the undead Spectral Wraithroses, she watched in amazement as the self-raising undead flower sprouted and readily attached itself to her domain.
+
+How does that even work? What could it mean? Eyeing the undead flower that emitted death-affinity into her domain as easily as any other, she realized one obvious implication. I can probably offer death from my shrine. She pressed her lips into a flat line. No, I shouldn’t, she thought, deciding that was probably a step she didn’t want to take quite yet, if ever. She liked Seth, but manufacturing necromancers would probably draw all kinds of unwanted attention.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

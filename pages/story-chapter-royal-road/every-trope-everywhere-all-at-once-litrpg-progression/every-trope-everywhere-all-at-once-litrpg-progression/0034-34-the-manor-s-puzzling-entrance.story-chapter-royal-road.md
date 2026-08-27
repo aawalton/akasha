@@ -1,0 +1,283 @@
+---
+id: d191f377-545f-5174-a1b1-25af97ad728c
+page-type-slug: story-chapter-royal-road
+title: "34 - The Manor's Puzzling Entrance"
+slug: 0034-34-the-manor-s-puzzling-entrance
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 34
+ownLength: 2078
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3485241/34-the-manors-puzzling-entrance"
+royalRoadId: "3485241"
+---
+
+“So we had a weird accident,” I tried to explain as Kaelor stared at the number on the blue lantern, confused as to why we only had eight revives left. He held onto Dawn Sunderer, keeping it away from us.
+
+The griffins had scrambled after hearing the loud explosion I caused, only settling down after we came back and explained what had happened. Somehow, Tuna slept through the entire thing.
+
+On the bright side, I did get a trope reward.
+
+[TROPE COMPLETED: ATTACKING THE MENTOR AS TRAINING]
+
+[REWARD: Pending…]
+
+…
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE POWER OF TEAMWORK (COMPLETED)
+
+- ATTACKING THE MENTOR AS TRAINING (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL ACQUIRED: SPARRING RESISTANCE]
+
+Type: Passive
+
+Effect:
+
+- Reduces damage from allies during training
+
+Unfortunately, Meriel didn’t seem very happy with getting killed.
+
+“I have no words,” she said. “What even happened…?”
+
+I opened my mouth. “The sword’s light mixed with my Fireball and—”
+
+“No, I know what happened,” she cut in. “That was just a figure of speech.”
+
+“Ah.”
+
+Reina and I awkwardly stood side by side, ashamed of ourselves. Reina had accidentally killed me with the sword, while I had accidentally killed Meriel with that same sword.
+
+Legendary weapons sure were scary.
+
+“Can the two of you promise to not cause any more trouble?” Kaelor asked.
+
+He didn’t seem upset at us, but… I didn’t know what his expression meant. It was like a father scolding his two daughters. Actually, that probably wasn’t the right thing to say considering he looked to be around our age, but you get the point. That is, assuming Firstborns don’t age differently.
+
+“Sorry,” we said at the same time.
+
+Talon was facing in the opposite direction through this entire ordeal. He better not be holding back a laugh.
+
+“Look, I would take this sword away from you,” Kaelor said, “but I can’t. Because the two of you will need it for what's to come.”
+
+He handed it back to me. I looked at Reina to see if she wanted it back, but she insisted I held onto it, almost as if she was afraid of it.
+
+“What’s next?” I asked.
+
+The five of us gathered around the floating blue lantern. Thankfully, it had regenerated all the mana I had used during training.
+
+“There are three levers spread around the city and a portal at the very center,” Talon explained. “You can probably guess where this is going, but we’ll have to pull those levers to activate the portal.”
+
+“And I decided that the most efficient way to do this is to split into groups of three,” Kaelor added.
+
+“Groups of three? How would that work with the five of us?” Meriel asked. “Are we counting Tuna and the griffins?”
+
+He shook his head. “No. They can’t fly in this city, remember? They’ll be better off just staying here. As for us…”
+
+Kaelor gently moved all of us around. Reina and I were together in one spot, Meriel was in another, while Talon stood next to him.
+
+“And there we have it,” he said. “Our groups.”
+
+“That’s an interesting split,” I said.
+
+“I’m open to suggestions if you have any better ideas,” Kaelor said, “but we don’t have much to work with. Talon’s better off sticking with me so I can keep him safe, while you and Reina seem to work quite well together.”
+
+I looked at Meriel. “Will you be alright by yourself?”
+
+She shrugged. “Sure, but it depends on the kind of dangers we’ll be facing.”
+
+Talon raised his hand. “Yeah, so about that… you can expect all kinds of stone creatures. Gargoyles, living statues, constructs, and so on. And from what I’ve heard, there seems to be many living armor and living paintings, as well, so keep an eye out for them.”
+
+“Great,” I said. “What’s next? A living table?”
+
+Talon shook his head. “I don’t think the rumors ever mention living furniture, but I wouldn’t doubt it if they’re here.”
+
+“So we’re relying on rumors again, huh?” Meriel said.
+
+The boy nodded. “Yeah, well they’ve been pretty accurate so far, so why not? And besides, this is the last time we’ll be relying on the rumors. After we pull all the levers and pass through the gates… Well, whatever’s next is completely random. As I said before we entered this dungeon, the second part is completely randomized for every party.”
+
+“Then do we at least know how many parts there are in total?” I asked.
+
+“Three,” he said.
+
+“And how many people have made it to the end?”
+
+“Just one. In fact, he’s the only one who even passed the second part of the dungeon, let alone beat the dungeon warden in the third section. He’s the only reason we even know that the final reward is a pair of wings. And you know what the worst part about it is? He’s an angel! He didn’t even need them, and he insisted on doing nothing with them!”
+
+Reina’s ears perked. “What kind of monster is the dungeon warden?”
+
+Talon shrugged. “No clue. He wouldn’t share.”
+
+“What the hell?” I said. “How about the rest of his party?”
+
+“Party? Oh, no, he took on this dungeon solo.”
+
+We all looked at Talon, jaws dropped. And here I thought that I was the overpowered protagonist. That angel was on another level.
+
+“Wait a minute…” I said. “I’m not sure if all the cogwheels in my brain are rolling the wrong way, but I have a very suspicious feeling that the angel you’re talking about is the same one who raced us in the flying bathtub.”
+
+“Yup, that’s him,” Talon replied.
+
+I facepalmed. No wonder he didn’t take the race seriously. Having access to the dungeon as a reward hardly meant anything to him.
+
+Kaelor clapped, grabbing our attention. That clap alone generated enough wind to blow all our hair back.
+
+“We should begin right away,” he said. “We wouldn’t want the sun to rise.”
+
+“What happens if it does?” Meriel asked.
+
+He and Talon looked at each other.
+
+“The monsters become a bit scarier,” Kaelor said. “But that’s not important right now. Explaining it will just waste more time. I’m sure we’ll find all the levers before sunrise.”
+
+“Scarier…?” I muttered. “Wait, what do you mean by that?”
+
+He ignored me. Awesome.
+
+With that, Kaelor pointed to where each of our groups should go, briefly explaining what to expect and what to look for. We set off on our own paths deeper into the inverted city, leaving Tuna and the griffins behind to rest near the blue lantern checkpoint.
+
+Fortunately, that meant that if any of us died, we’d respawn in the company of the mounts—a very comforting sight.
+
+[TROPE COMPLETED: THE CAMPFIRE GATHERING]
+
+[REWARD: +1 VITALITY]
+
+[VITALITY]
+
+[20 → 21]
+
+[HP]
+
+[576 → 601]
+
+***
+
+“Why are you holding my hand?” I asked as Reina and I walked through the city. She had been playfully swinging them back and forth ever since we left the others.
+
+“Why not? I do this with my little sister all the time.”
+
+I frowned. “Again, I’m not your little sister,” I said, emphasizing the loathsome word.
+
+“Oh, come on, don’t be like that! Doing this makes everything feel a lot more fun, don’t you think?”
+
+I’d be lying if I said otherwise. Walking through a dark city that was barely lit by the hanging lanterns had as much of an ominous feeling as you’d expect. I had a weird feeling that someone was watching us.
+
+[TROPE INITIATED: SOMEONE’S WATCHING]
+
+Completion criteria: Find out who’s watching.
+
+My body shivered at the message. Doesn’t that just confirm my suspicion?
+
+I looked behind us, seeing nothing but shadows. Not even movement.
+
+“Oh god,” I said.
+
+Reina looked at me. “Hm?”
+
+“Doesn’t it feel like someone’s watching us?”
+
+She looked around us. “Sure does.”
+
+“Why are you saying that like it’s normal?”
+
+“I mean, we’re in a dungeon. There’s all sorts of creepy crawlies everywhere.”
+
+…
+
+“Good point.”
+
+We eventually came across a manor along the edge of the city. It looked aged yet elegant, and there were dim lanterns blinking from behind its cracked windows. From what Kaelor and Talon had told us, one of the levers was in here.
+
+However, standing between us and the manor’s courtyard was a black gate with spiked tips, with fences stretching wide on either side. Perched on top of the gates were two gargoyle statues.
+
+“Uh,” I began, looking at them. “Maybe I’m just paranoid, but I think those things should be attacking us in about three seconds.”
+
+Reina drew her Tree Sentinel’s Spear, pointing it at the statues. “Then we’ll kill them first.”
+
+She ran up to them, about to deliver a devastating blow…
+
+Only to realize she couldn’t even reach them.
+
+“Hargh! Hah!” she let out, struggling. If someone as tall as her couldn’t even reach them with a spear, then I certainly couldn’t do much either.
+
+I looked at the divine sword in my hand. Technically, I could try to swing at them and destroy the statues with the light arcs, but after everything that happened so far? I didn’t want to risk it. This sword alone has already killed our party members twice, and it hasn’t even touched a single monster yet.
+
+“Maybe they’re just regular statues,” I said, seeing that they remained completely still.
+
+Reina gave up. Just as she was walking back, she noticed something on one of the gate’s stone pillars.
+
+“Are those words?” she muttered, walking up to them. With how dark it was and how small the words were, it was nearly impossible to see them unless you stood close.
+
+Reina cleared her throat and began reading them out loud, making her voice extra dramatic.
+
+“To those who seek entry beyond the gate:
+
+Speak not the tongue of war, nor raise thy hand in malice beneath the inverted heavens.
+
+Only the silent heart may cross the threshold, for the gate shall remain closed to all who carry hostility, aggression, resentment, or annoyance.
+
+Speak, friend, and enter.”
+
+Reina stumbled over half her words, making the riddle harder to understand than it already was.
+
+Upon hearing that, we looked at each other.
+
+I blinked.
+
+She blinked.
+
+“I’ll be honest,” I began. “I have no clue what you just read.”
+
+“Me neither.”
+
+[TROPE INITIATED: THE MANOR’S PUZZLING ENTRANCE]
+
+Completion criteria: Solve the riddle to open the gates.
+
+Yeah… I’m not doing that.
+
+Look, I know what I said earlier about needing to use the legendary sword more carefully, but screw it. I’m too lazy to use my brain right now.
+
+“Step back,” I said as I walked to the gate.
+
+I swung the sword, and the gate shattered in an instant. No resistance, no “the gate is somehow protected by magic that makes it impossible to break open.”
+
+“Nice, Allene!” Reina said as the two of us walked through.
+
+[TROPE SUBVERTED: THE MANOR’S PUZZLING ENTRANCE]
+
+[ITEM ACQUIRED: STONE KEY]
+
+Effect:
+
+- Opens the gate next to you
+
+This item will now appear in your [INVENTORY]
+
+…Really? A key to a gate I already destroyed?
+
+I called my [INVENTORY], reached in, and tossed it away.
+
+Reading the message more closely, I noticed that the trope had been subverted rather than completed. That made sense, considering I never actually solved the riddle and still managed to get through anyway.
+
+The last time this happened was when I first met Reina. Back then, the System wanted her to sacrifice herself so I could escape the Tree Sentinel, but since we still managed to get away without her dying, the trope ended up being subverted instead.
+
+I still wasn’t entirely sure if my theory was correct, but I felt like I was starting to understand a bit more about how the System worked. Maybe a trope could still be fulfilled as long as the desired outcome was achieved, even if the method was different from the intended one. In that case, it would just be marked as subverted rather than completed.
+
+“Allene?” Reina called out, bringing me back to reality. “You’re staring off into the distance again.”
+
+“Whoops. Sorry, I just had to do some narration.”
+
+She tilted her head. “Anyway, they’re about to attack you,” she continued, pointing behind me.
+
+“Huh…?”
+
+I turned around.
+
+Both of the gargoyles perched on top of the stone pillars had come to life, their claws just inches away from my face.
+
+Looks like they’re upset about me destroying the gate.

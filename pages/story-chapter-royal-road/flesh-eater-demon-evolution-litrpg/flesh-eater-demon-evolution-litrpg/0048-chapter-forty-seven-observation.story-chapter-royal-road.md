@@ -1,0 +1,151 @@
+---
+id: 5b781dc1-1ce4-5600-9396-0653639a4b56
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Seven: Observation"
+slug: 0048-chapter-forty-seven-observation
+partOf: flesh-eater-demon-evolution-litrpg
+position: 48
+ownLength: 2686
+unit: words
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2810953/chapter-forty-seven-observation"
+royalRoadId: "2810953"
+---
+
+As it turned out, Pyre had severely underestimated the power of the garrison rumor mill.
+
+The next day started the same as usual with warmups and drills. Edna was as strict and stoic as ever, and she made no special announcements or gave any indication that something might be different. Despite this, by the time lunch rolled around, word of the Bellheins’ possible visit had spread rapidly between the cadets.
+
+“They’re saying Lord Bellhein might stop by sometime this week,” Declan said over the din of the mess hall.
+
+“You sure keep up to date with stuff.” She was a little impressed, to be honest. From what she could tell, Declan didn’t even speak to the other cadets all that much. He wasn’t outright avoided the same way she and Merrick were, but the general consensus in group A seemed to be that he was kind of weird. And hung around weird people (Pyre). The fact that he still managed to stay so in tune with everything the other cadets talked about was a feat in it of itself.
+
+Declan coughed. “I, uh, like to stay informed.” His eyes darted about the mess hall, where the constant chatter of conversation flowed around them. “It’s just a rumor, though. I don’t know if it’s true or not.” He frowned. “I hope not.”
+
+Pyre raised an eyebrow. “Yeah? Why’s that?”
+
+The cadet shifted in his seat uncomfortably. “I just… I think it’s in poor taste? We signed up to defend our country. I don’t think it’s right for the Bellheins to pull away talent to add to their own guards.” His eyes widened a little as he seemed to realize what he’d just said. “Of course, I’m not speaking ill of the Bellheins at all! They do so much for Magrath, and I truly appreciate their donations to the garriso—”
+
+The demon snorted. “Relax, kid. I don’t give a fuck what you say about the Bellheins.”
+
+Declan’s jaw snapped shut. His eyes swiveled over to Merrick, who had continued eating silently throughout their exchange. He finished chewing his current mouthful and said simply, “I’m from Galen. I have no opinion on the Bellhein family.”
+
+Declan relaxed a little at that, though he still spoke more carefully when he continued.
+
+“Okay. Well, uh, I just don’t agree with some of Lord Bellhein’s choices around the war effort. I really hope he doesn’t pull any cadets away this year, but…” His voice trailed, and Pyre guessed the noble had a track record of doing exactly that, considering how unconvinced Declan sounded at his own words. Good for her goals, probably not for Declan’s, it sounded like.
+
+“You might get picked, you know,” the demon pointed out. She stabbed her fork into a chunk of meat. “You’re pretty good.” She doubted Lord Bellhein would only pull one cadet. If he did, though, she’d make sure it was her.
+
+Declan looked horrified at the thought. “No!” he blurted out, only to embarrassedly sink lower into his seat when he realized how loud he’d been. He continued more quietly, but the vehemence in his voice remained.
+
+“I joined the garrison to fight against the Empire.” His fingers tightened around his fork. “I’d rather resign and join another city’s garrison if they pick me.”
+
+There was a low, deep-seated anger simmering beneath the cadet’s words. Pyre didn’t think she’d ever heard him sound like that before. It was unusual enough to be intriguing.
+
+“Sounds like you really hate the Empire,” she commented.
+
+Declan’s jaw tightened. “They killed my parents,” he said lowly. “They were in the Battle of Sitog.” The name didn’t ring a bell, but the cadet continued before Pyre could try to place the location.
+
+“They were winning, you know. Before the Empire sent those—demons.” He shook his head and shuddered. “None of them were prepared. They didn’t stand a chance,” he murmured. “I don’t know what the emperor is thinking. Even the worst of his ancestors never allied with monsters.”
+
+Pyre listened silently, absorbing the information with a detached sort of acknowledgement. This was new. Callan hadn’t mentioned the Tavrell Empire employing monsters in their armies during his crash course on the continent’s history, but she figured this was the sort of thing that slipped away when you were low on time.
+
+It would help explain the empire’s apparent dominance on the continent so far. It sounded like none of the other human nations used the same tactic, which would put them at a distinct disadvantage. It even made some of their training sessions so far make more sense in retrospect—there’d been a whole lesson dedicated to squad formations against significantly larger opponents, which wouldn’t make sense against other humans, but would if you were expecting non-human beings on the other side.
+
+The demon picked up her fork and resumed eating. After a few moments, Declan did the same, breaking the temporary silence that had fallen over the table with a sheepish laugh.
+
+“Uh, sorry, I got really serious there for a second. To clarify, I wouldn’t blame anyone for joining the Bellhein’s guards!” he quickly added. “I know everyone has different circumstances. I don’t mean to judge anyone.”
+
+Pyre raised an eyebrow, amused. “Good to know, kid.” She took another sip of her water, draining the rest of the glass. “For the record, I’m taking the position if I get picked.”
+
+Honestly, the demon wasn’t too sure why she said it. It wasn’t like she had a reason to reveal her goals to the other cadets. It wouldn’t help her in any way. Then again, considering she was lying about being a demon, maybe some part of her felt like being truthful in this other aspect. It was a difficult impulse to explain, one she didn’t care to bother unpacking right now.
+
+Declan blinked a few times, apparently genuinely surprised at the admission. Merrick was, too, based on the way his eyes glanced over from across the table.
+
+“Oh! Uh, well, good luck?” Declan stumbled over his words. Despite his best efforts to hide it, there was a very clear “Why?” written all over his face. It was funny, in a way, to think that he’d developed a high enough opinion of her throughout their time in the garrison to feel disappointed about something like this. She was only just starting to get used to it from Callan. Now, here was another human who seemed to “care,” odd as it was to say.
+
+In response, Pyre tugged on the bandages around her neck. At this point she’d heard a few rumors actually guess the ichor-poisoning cover, but there were enough random speculations still being thrown around that no one could agree on why she had them. It was far enough into training that she figured she could let her cover story be more widely known. It would help make it seem more “true” if everyone knew about it, in a way.
+
+“Don’t know if you’ve heard,” she began, voice casual, “but I’m ichor-poisoned. It’s not bad enough to fuck with my fighting or anything, but I figure a guard position’d be more stable.”
+
+Across the table, Merrick stilled. Declan’s face fell. He looked like she’d just kicked his dog.
+
+“Oh my god, I’m so sorry. I didn’t know,” he began. Pyre could see him preparing to unleash a wave of sympathies and apologies, so she raised her hand to stop him.
+
+“Like I said, it’s not very serious,” she said, amused. “Just kind of annoying sometimes. No need to be dramatic.”
+
+The cadet’s eyes were still wide as saucers, but he nodded slowly, which Pyre figured was as good as she was going to get.
+
+“Sorry, it’s just… a little surprising. Not many people around here get ichor-poisioning. Lady Daphne is the only one I know of.”
+
+The demon raised an eyebrow at the unfamiliar name. “Is that a Bellhein?”
+
+Declan nodded. “She’s Lord Bellhein’s niece. Her mother was the former head of the family before she passed away. I believe Lady Daphne is still technically the heir, but, well…” his voice trailed off.
+
+Interesting. Pyre thought back to the qualification exam, remembering the redheaded noble she’d seen on the observation deck. Based on her age, that had to be the Daphne he was talking about.
+
+She hadn’t expected to run into someone who actually had ichor-poisoning. On one hand, that might mean there was a higher chance of getting exposed for faking it once she was in the manor. But on the other, there could be an opportunity here. Maybe the demon could appeal to their “shared illness” to get some brownie points or convince the sick noble to put in a good word for her. People did that, right?
+
+A loud voice reverberated throughout the mess hall, cutting off the ongoing conversations as it warned the cadets to get back to work.
+
+Pyre grabbed her tray and rose. She’d need to stop by the latrines again to dump her food pocket before heading to the next training session. All in all, this was probably one of the most productive meals she’d had at the garrison so far. She’d learned a good deal of information.
+
+As the demon turned to dump her tray and exit the building, she felt eyes on her. When she glanced back, though, all she found were the usual crowds of cadets.
+
+Pyre paused for a moment to study her surroundings, but the feeling didn’t reappear. She narrowed her eyes. With one final look around, she turned and shoved open the mess hall doors.
+
+By the time lunch was over, word of Lord Bellhein’s possible visit had spread even further. It felt like damn near everybody knew about it even if the exact details were vague. Most just heard that he’d show up to observe the cadets “sometime this week.”
+
+In the end, Callan’s theory from last night was correct. He appeared later that very day.
+
+None of the instructors mentioned Lord Bellhein’s arrival. In the center of the training facility, Edna strode between sparring pairs, critiquing forms and giving suggestions for improvement. Not once did her eyes ever stray from the ring, which, to her credit, meant a lot of the cadets didn’t even notice it when a figure first appeared on the observation deck. Pyre had been waiting, though. Her eyes darted over the second she spotted movement in her peripheral vision.
+
+High above, casually peering down on the cadets, was the same guy she’d seen during the qualification exam. She recognized the weapons master beside him, who’d apparently been tasked with escorting the noble around for the day. His mouth moved as he spoke to the man, occasionally gesturing down at the training ring towards a recruit while Lord Bellhein nodded at whatever he was saying.
+
+“It seems the rumors were true.”
+
+Pyre’s eyes shifted away from their observers and back to her sparring partner. Standing a few feet away from her, Merrick was also peering up at the deck, his mouth pulled down in a frown.
+
+“Looks like it.” The demon shifted her weight, testing how slippery the mixture of dirt and sand beneath them was. They were working on footwork today, which was honestly pretty fun. In her demon form she usually just tanked blows—you didn’t have many dodging options when you were a giant mound of flesh—so this was a nice change of pace.
+
+It also super confirmed that her hand-to-hand combat instincts were from her past life, because she definitely didn’t have legs as a flesh blob.
+
+Merrick studied her for a moment, his own arms raised defensively. In the next instant, he lunged, aiming a punch at her stomach that the demon easily sidestepped. She quickly closed the remaining distance with one stride, tapping Merrick’s forehead to indicate the end of the exchange. The man nodded, and the two moved back to their original places. 3-0.
+
+“…You said you were interested in joining the guards, correct?”
+
+Pyre raised an eyebrow. Merrick seemed unusually talkative today.
+
+“Yeah, that’s the plan.” She cocked her head as they circled around each other, each waiting for an opening. “You know, you might get picked too. You’re second-best in the group.”
+
+The man made a sound that was probably a very muted snort. “I doubt it. You must know my background by now. Lord Bellhein wouldn’t want me anywhere near the manor.”
+
+Ah, right, the whole stigma around leveling aids. Pyre still didn’t get it, but she wasn’t really expecting to. She figured this was the sort of thing you couldn’t understand unless you’d lived your whole life under the same social expectations, which she most definitely hadn’t. Then again, if her past self had been anything like she was now, she probably still wouldn’t give a shit even with full context. It just didn’t seem like nearly a big enough deal to warrant all the fuss.
+
+The next time Merrick took a step, Pyre sprung into action. She reeled an arm back, making sure to keep the motion fast but within the stat possibility of her pretend level. She could feel a shift in the vibrations coursing through the ground below her as Merrick adjusted his weight, readying to dodge to the left.
+
+In response, the demon swung her leg up and around in a sweeping kick, stopping just before she would’ve hit the man’s torso. 4-0. Merrick grunted in acknowledgement, and they stepped back for another round.
+
+Throughout her time at the garrison, Pyre had gotten much more used to [Vibration Sense]. She was better at remaining passively aware of it, for one, and she could now detect shifts in movement often before she could visually see them. It was still a far cry from anything detailed, but hey, at least the trait had its own specific use now.
+
+Merrick’s voice interrupted her train of thought before it could continue.
+
+“You might get your wish.”
+
+Pyre followed the man’s gaze back up to the observation deck. There by the balcony, Lord Bellhein stood facing in their direction. The demon couldn’t make out his face from the distance, but it was clear that he was watching them.
+
+“We’ll see.”
+
+Throughout the rest of the session, Edna didn’t mention Lord Bellhein’s presence once. It was actually kind of impressive how thoroughly she ignored the noble’s existence. Most of the cadets ended up noticing him at some point anyway, though there were probably a few who still didn’t know he was there by the time they were dismissed for break.
+
+By the time the other cadets began filing out of the training facility, the deck was empty when Pyre glanced up at it. Lord Bellhein and the weapons master must’ve left a little after Edna had gathered everyone. He’d probably show up again at their next session, though, unless this really was just a “brief look” to see how the cadets were progressing.
+
+Either way, she wasn’t concerned—she’d felt eyes on her for the rest of her spar against Merrick. Clearly she’d succeeded in getting the noble’s attention, and she hadn’t even needed to try very hard. The benefits of being overleveled. And secretly a demon.
+
+Pyre shrugged and moved to follow the other recruits outside. Just when she’d stepped out of the main ring, however, footsteps sounded on her right. She turned.
+
+Stepping down the stairs leading to the observation deck was a tall, slender man with dark hair and sharp brown eyes framed with wrinkles. His back was ramrod straight as he walked, movements stiff, which would’ve clued her into his identity if his clothes hadn’t already made it obvious. They were noticeably higher quality than any of the regular clothing she’d seen around Magrath.
+
+On top of wearing way more layers than necessary, an engraved golden brooch resting by the man’s coat collar stuck out like a shining beacon. Pyre recognized the crest as the same one she’d seen on the manor gates. Though it had been hard to make out details from the ground, the figure approaching matched the blurry silhouette on the observation deck.
+
+This was Lord Bellhein.

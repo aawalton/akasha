@@ -1,0 +1,243 @@
+---
+id: e6d59c69-c762-5279-9fc3-aa57c37d1316
+page-type-slug: story-chapter-royal-road
+title: "45 - A Great Sin"
+slug: 0045-45-a-great-sin
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 45
+ownLength: 1990
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3536307/45-a-great-sin"
+royalRoadId: "3536307"
+---
+
+“A secret room inside of a secret room,” I said. “How funny would it be if there was another secret room inside of this one?”
+
+Seeing that no one was laughing, I guess it wouldn’t have been very funny. I coughed away the embarrassment.
+
+“Look, there’s a chest inside!” Reina exclaimed, pointing. She was about to run inside before Gabriel stopped her.
+
+“Be careful,” he warned. “There could be a trap.”
+
+“A trap? Then let’s have Camille go in first,” I suggested.
+
+We turned to her.
+
+“Why? Because I’m a ghost?” She shook her head. “If you couldn’t tell already, I am able to interact with objects in this world just fine. People, however, will pass right through me.”
+
+I reached out a hand to poke her, but she backed away.
+
+“Don’t,” she said, her voice stern.
+
+I gave a sly smile. “Why not?”
+
+“Because I’ll pass out.”
+
+“Oops. I totally forgot about that. But could you blame me? Who would even expect a ghost to pass out from things going through them? That’s like me passing out from breathing.”
+
+She gave me a look. “No it’s not.”
+
+Gabriel crouched in front of the secret wall that had slid open just now. He probed his fingers along the wall at a certain angle, and when he reached a certain spot, there was a click.
+
+Reina tilted her head. “What was tha—”
+
+Fire erupted before us, nearly burning off my eyelashes. We jumped back.
+
+“Whoa!” I said, stumbling. I prepared a stance, getting ready to cast wind magic to clear the fire.
+
+Gabriel put an arm across me. “There’s no need for that,” he said. “I’m familiar with this kind of trap. The fire doesn’t come from nowhere—whether it’s from a magic contraption or something else, there’s a finite amount of fuel. Just give it a bit of time.”
+
+Seconds later, the fire stopped. The chest and journal in the room remained unscathed, since the fire was only at the entrance.
+
+“Huh,” I said. “You’re right.”
+
+“Of course. This isn’t the first kind of trap I’ve seen.”
+
+“What kind of things do you do that make you so familiar with traps?” I asked. “Stealing?”
+
+For a brief moment, his gaze darkened.
+
+“Stealing, huh? Yes. Something like that.”
+
+“Stealing as an angel?” Reina said. “Isn’t that like… a sin?”
+
+He looked at her. “Everyone sins, whether they like it or not.”
+
+That was true, but hearing that from an angel was odd.
+
+He went inside the secret alcove. We stuck close to him since it looked like he knew what he was doing. At the very least, if there were more traps in here, he’d be the one to die first. Assuming Kaelor, Talon, and Meriel hadn’t died yet, we still had eight revives left. Since Gabriel was also a participant in this dungeon, it would make sense if he was able to use the revives as well.
+
+Gabriel went for the chest right away. He grabbed onto the lid, briefly glancing at us before opening it. When he did, the air became heavy, almost suffocating.
+
+“...What is that?” Camille asked.
+
+Purple light spilled from the chest—the same purple color as the cursed book that had forced Reina to read it. Mist emerged, enveloping the entire alcove in it. The air was too heavy to breathe, and the rest of us were forced to exit out into the main room. Gabriel, however, stayed inside.
+
+He reached inside the chest and pulled out what looked to be a ring. Though the mist covered nearly all of my sight, the brief glow emanating from the ring was enough for me to see its shape.
+
+I called [INSPECT]. Hopefully the mist wouldn’t stop it from working.
+
+[ITEM: SOUL ANCHOR RING]
+
+Rarity: Demonic
+
+Description:
+
+A ring once worn by a demon who feared losing possession of his own soul more than death itself.
+
+Effects:
+
+- Prevents possession of the wearer’s body
+
+- Protects the wearer’s soul from external forces
+
+- Reduces the effectiveness of soul-based magic
+
+I did a double-take on the rarity.
+
+Demonic.
+
+Now I know I’m not the brightest, but I’m sure the ranking typically goes common, uncommon, rare, epic, and then legendary. But demonic? That must’ve been on an entirely different level.
+
+I briefly cast wind magic, clearing most of the mist. Realistically, the wind only pushed the purple mist to the rest of the main room, but the space was a lot bigger out there anyway.
+
+“Thank you,” Gabriel said. He moved over to the pedestal, picking up the journal with his free hand.
+
+He took a moment to read its contents, quickly flipping through its pages. It took him no longer than twenty seconds to reach the end.
+
+“It’s nothing important,” he said, closing the journal.
+
+“What was it about?” Reina asked.
+
+“Just a few notes about the experiments the Borrowed One conducted.”
+
+But that only made Camille more curious. “If it’s information about Lord Aurelius, I would like to read it.”
+
+Gabriel shook his head. “There are plenty of research papers out there on the table in the main room. Most of the contents in this journal are the same thing.”
+
+“Can I at least take a look for myself?” she asked.
+
+“There’s no need for that.”
+
+There was a moment of silence. The purple mist in the main room hovered near us, keeping the air heavy.
+
+“Gabriel,” I said, putting a hand out. “I didn’t think I’d have to say it, but you’re suspicious. From the way you stalked us through the dungeon to the way you’re acting now… I can’t help but think you’re planning something. Please hand us the book.”
+
+His sharp eyes burned into my soul.
+
+“Suspicious?” he said. “Do I really look that way?”
+
+Even after a long moment, he didn’t blink once.
+
+“From what Talon told me, I know you’re keeping this a secret,” I began, “but what exactly is the warden at the end of this entire dungeon? You’re the only one who ever reached it.”
+
+He shook his head. “That isn’t something I can say.”
+
+“Why not?” I asked.
+
+He took a step, trying to walk out the alcove, but I stopped him.
+
+“You’re in this very dungeon with us,” I said. “It benefits nobody to keep the warden’s identity a secret. Just tell me whether or not my assumption is right. The dungeon warden… he’s the Borrowed One, isn’t he?”
+
+“I don’t know,” Gabriel said. “It was simply a monster I defeated. How was I supposed to know that it went by such a loathsome name?”
+
+“Because now we know that the Borrowed One’s specialty is soul magic,” I said. “It’s the only explanation for all of this—transferring souls, making bodies hollow. This should be enough information to tell you whether or not the dungeon warden you fought was in fact the Borrowed One.”
+
+He didn’t say anything.
+
+“The monster you defeated dropped the key that granted us entry into the underground section of this manor. Considering everything we’ve learned about this place, the only explanation is that the monster was the Borrowed One. This entire dungeon revolves around him. Everything here seems to depict some part of his life, whether it's exaggerated or true. Even this manor was likely based on the one he lived in before he was imprisoned.”
+
+I narrowed my eyes.
+
+“But there’s one thing that’s bothered me. You said you only learned about the Borrowed One by eavesdropping while the three of us were reading that book. Camille even pointed out that you shouldn’t have known about him beforehand. Yet when we decided to head to the cellar, you were the first to move. You were already walking out of the library, as if you knew exactly where the cellar was.”
+
+He laughed. “That’s what you’ve been wondering about this entire time?”
+
+“Yes.”
+
+Gabriel played with the Soul Anchor Ring in his hand, flipping it through his fingers.
+
+“So what are you trying to say?” he asked.
+
+I reached behind me, pulling out Dawn Sunderer.
+
+“You’re connected to the Borrowed One,” I said. “No… I think you are the Borrowed One.”
+
+“What…?” Camille muttered, her eyes widening.
+
+But Reina didn’t question my accusation. She pulled out her knockback stick, holding it the same way I was holding my sword.
+
+“How would that even be possible?” Gabriel asked.
+
+“Because the original Gabriel must’ve cleared the entire dungeon and reached the Borrowed One, who is the dungeon warden,” I explained. “He must’ve been defeated, and because of that, the Borrowed One was able to steal his body and become Gabriel. Thus, the angel’s body was able to leave the dungeon into the outside world—not as Gabriel, but as Aurelius. In other words, the Borrowed One.”
+
+Gabriel tilted his head. “You do realize how dungeons work, don’t you? Wardens can’t leave dungeons. Their bodies are imprisoned for eternity.”
+
+“Exactly,” I said. “Their bodies are imprisoned in these dungeons. Not their soul. But if the warden were able to transfer their soul from one body to another, they would be able to escape a dungeon without any restriction.”
+
+I pointed at the Soul Anchor Ring in his hand. “You being the Borrowed One would explain why you were so desperate to get that ring, since it can stop soul magic. It’s the one thing that nullifies your abilities. The moment you saw the chest, you rushed for it. You wanted the ring so that no one else could get their hands on it.”
+
+He shook his head. “That doesn’t make sense. The only way someone could get down here in the first place is with the key. I’m the only one with the key. Why would I be afraid of others getting this ring if they can’t even get to it in the first place.”
+
+“Because your key isn’t the only way to enter the manor’s cellar,” I said. “If the lever was able to spawn down here, that also means it’s possible for Reina and me to enter this place without the key. We’re required to pull all the levers in this inverted city to activate the portal, and I doubt the dungeon would make one of the levers impossible to access. I assume your key simply bypassed the intended puzzle we were supposed to solve to get down here.”
+
+I aimed Dawn Sunderer at him. “And to top it all off, you found the secret door to the alcove and knew exactly where the trap trigger was. You didn’t search for it. You reached straight for it, as if you were sure it was there.”
+
+Those were all the words it took before Reina rushed toward him, hitting him with the knockback stick.
+
+Her behavior was too reckless.
+
+But even so.
+
+It revealed the truth.
+
+The stick broke on impact.
+
+Reina stumbled back, staring at the broken pieces in her hand.
+
+“That…” she began. “The stick. Doesn’t that mean…?”
+
+The knockback stick could be used against anybody except one thing.
+
+Bosses.
+
+It would shatter upon contact with any.
+
+Which means…
+
+“So you’re the Borrowed One after all,” I said. “The dungeon warden.”
+
+The angel smiled.
+
+Not as Gabriel.
+
+But as Aurelius.
+
+“Looks like I’ve been found,” he said, laughing.
+
+=== BOSS ENCOUNTER  ===
+
+[AURELIUS, THE BORROWED ONE]
+
+Level: 231
+
+HP: 100%
+
+Description:
+
+A man who rejects the limits of a single life and seeks eternity through the bodies of others. Through soul magic, he abandoned his own flesh, leaving behind a hollow body. As a result of toying with his own soul, he has committed one of the greatest sins in this world.
+
+Assessment:
+
+You are severely underleveled. Direct contact is strongly discouraged. Escaping is recommended, though it may not be possible.
+
+My body began to sweat.
+
+Level 231.
+
+That can’t be.
+
+That meant that the Level I saw earlier when I inspected him must’ve been Gabriel’s Level, not Aurelius’s.
+
+We can’t possibly fight against something like that.

@@ -1,0 +1,243 @@
+---
+id: c425df36-26b1-5517-a541-8b4b2eea1b71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31"
+slug: 0031-chapter-31
+partOf: emie-ascended
+position: 31
+ownLength: 3128
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3563224/chapter-31"
+royalRoadId: "3563224"
+---
+
+“We should probably share any pertinent changes to our skills,” Mike said once everyone finished their evolutions. “As the team leader, I’ll start. Create Stone Weapon and Stone Wall were both absorbed into Earth Manipulation since I managed to push it to Legendary.
+
+“Tao, my guide, said the skill would have allowed for both permanence and manifestation already had I not already slotted skills to cover those features. The rest of my skills remain mostly unchanged, aside from an improvement in their strength and a decrease in the effort it takes to use them.”
+
+“That frees up two additional skill slots for you, then!” Cora exclaimed. “That’s great! Are you going to continue focusing on earth, fire, and lava, or do you plan to branch out more?”
+
+“I’ll probably start learning metal skills since I can see those being incorporated into Earth Manipulation in a future evolution. They are adjacent elements, anyway, and Tao mentioned that it’s possible, likely even, I’ll be able to expand the skill to adjacent elements since I managed to advance it so far before the first evolution.”
+
+“That’ll be a nice upgrade,” I said.
+
+It was unfortunate that we’d sold all of our unwanted skillbooks from earlier floors since we’d looted a few metal-based skillbooks that I could see working for the Earth Magi now that he wasn’t so focused on limiting his elements.
+
+Thankfully, there was always a decent supply of common skillbooks for sale through the Association. I didn’t think it would be long until Mike filled his recently freed slots.
+
+“I guess I’ll go next,” Cora said before grinning playfully. “I also combined some of my skills, freeing up not two, but three skill slots. Pierce and Arcane Blade were both incorporated into Blade Mastery, making the composite skill even stronger and capable of creating essence blades that can bypass weak armor.
+
+“Compress Pill was directly incorporated into Alchemy. It didn’t change the rating of the skill, but it feels a lot closer to upgrading to (Rare) now than it did before. Epsi said it was because my old Compress Pill was an ability usually granted when the skill reaches (Epic). Before that, Alchemists rely on the enchantments embedded in their cauldrons.”
+
+“So you basically skipped a step?” I asked.
+
+“That sounds like Cora,” her husband joked lightly.
+
+“I can’t help that I’m amazing,” the Rogue replied with exaggerated seriousness before giggling.
+
+It was easy to forget that the woman beside me was well over a thousand years old. I truly couldn’t tell if it was her new, younger body influencing her behavior, or if she’d always been this way.
+
+“But seriously,” Cora continued, her face losing some of its mirth. “The rest of my skills saw some general improvements. They’re all a bit stronger and take less focus, just like Mike described.”
+
+“Any ideas on what you’ll do with the newly freed up slots?” I asked.
+
+“I’ve been thinking about learning some crowd control skills,” Cora replied, glancing at her husband. Based on his expression, it was clear they’d discussed the topic before. “Aside from Mike’s Lava Pit skill and his ability to turn parts of the ground into quicksand, we don’t really have any effective crowd control skills within the party. I’ve seen several for sale in the Association’s Skill Shop, and most are priced pretty reasonably.”
+
+Her plan wasn’t a bad one. Having someone with dedicated crowd control skills would be a huge boon to the group. It would also be useful if she ever found herself fighting alone.
+
+“Sounds good,” I said. “I also combined a pair of skills. I’m not sure if you all were even aware that I had a Stasis skill since it was really limited.”
+
+“No. We knew that your inventory had a preservation effect, but you never mentioned having a separate skill,” Mike commented.
+
+“That’s because I could barely use it on anything alive, and there wasn’t much point in putting anything else into stasis when I could just put whatever I wanted to preserve into my inventory.
+
+“Anyway, since the skill was basically useless, Rho let me combine it with Haste to create a very limited Temporal Aura. I lost a bit of functionality with the merger, so I can only increase my personal time dilation to about double instead of the 2.5x that I’d managed before.”
+
+“That’s not good,” Cora said with a frown.
+
+“It’s not all bad. Though the effect is very limited outside of my sanctuary – basically just myself and anything I’m holding up to a certain volume – the merger made it so I can apply the effect to my entire sanctuary.”
+
+“Wait, does that mean time inside would pass twice as fast as it does outside?” Stephen asked with wide eyes, causing me to smile.
+
+“If I want it to. Seemed like a fair trade for a little drop in efficiency.”
+
+“I can see how it might come in handy, but I’m not sure it’s worth basically losing your old skill,” Mike said.
+
+“Well, it also lets me slow time as well, so the skill wasn’t totally lost. Obviously, I can’t put myself into stasis, but I can make time around me pass much faster if I don’t feel like waiting for some reason.”
+
+“And you can do that for the sanctuary as well?” Stephen asked.
+
+“I should be able to,” I replied. “Speaking of, the sanctuary got a huge upgrade. I’m a little nervous about how it turned out.”
+
+I’d put a lot of thought into things, and I’d decided to share more about my demesne under the guise of an upgrade to the sanctuary. I really hated keeping secrets, especially since my party members had proven themselves to be trustworthy over the past year.
+
+Eyes wide, Cora said, “We should check it out now! I wonder how it’s changed.”
+
+In truth, aside from growing larger, nothing about the space had visibly changed… yet. I planned to modify the actual sanctuary part a bit before I let anyone see it.
+
+I also intended to open up the garden and present it as part of the upgrade. It was a risk, but I felt it was a minor one.
+
+“No. Let’s finish what we’re doing first before we get sidetracked,” Mike said.
+
+I grinned sheepishly. “Sorry about that. I have a little bit more range for carrying people or objects along when I teleport,” I said, continuing my explanation. “I can also teleport anywhere that I’m sufficiently familiar with, without needing a Dimensional Anchor.
+
+“I did gain more anchors, which is always good, and the skill evolution now lets me get a sense of what’s around my anchors to ensure I’m not teleporting in on top of someone.”
+
+“You can definitely see the favoritism,” Cora joked while exaggeratedly rolling her eyes.
+
+“Whatever,” I replied. “Mike’s skill improvements were way better. The rest of mine are just general upgrades… except for Repulsion Aura. That one became a passive skill. Neither of my information skills evolved in any meaningful way, nor did my crafting skills.”
+
+“Yeah, Alchemy didn’t change either, aside from absorbing Compress Pill,” Cora said.
+
+Everyone looked at Stephen.
+
+“Well, unlike the rest of you, none of my skills merged. I did gain an additional beast form, which I already filled with Void Bear – one of the more difficult opponents I faced in my old realm. The rest were just general improvements.
+
+“I also got the upgrade to teleport anywhere I am sufficiently familiar with, but I didn’t get any kind of expanded range with what I take along. I still need to be in physical contact with anyone or anything that I want to accompany me, and it feels like there is still a definite limit.”
+
+“What kind of limit?” I asked.
+
+“I’m not sure. I need to test it first,” he replied before tilting his head. “What about you? Your skill is at (Epic) while mine is just (Rare). Do you feel the same sense of limitation?”
+
+“Not really. But like you, I won’t really know until I try to push the skill. It’s nice not having to worry about line of sight anymore, though.”
+
+Stephen nodded. “Very true.”
+
+“Alright, well, if we’re done sharing our changes, I’d like to see how the sanctuary has changed,” Cora said eagerly, turning to me.
+
+Knowing it was coming, I’d already started working on the changes I wanted to present while Stephen had shared the changes to his skills. It didn’t really take much.
+
+I reclaimed some of the space that had been incorporated into the sanctuary and garden for storage, making it significantly larger than the other two sections.
+
+Since I couldn’t yet create individual biomes, the flora requiring special environments was still in storage, making the space actually dedicated to a functioning garden quite small. Until I could artificially create working biomes, it would have to do.
+
+For the sanctuary itself, I’d erected walls around each of the bedrooms and soundproofed the spaces for added privacy. Stephen and I got one room, while Cora and Mike got the other.
+
+Each room got its own ensuite, which only required a bit of rearrangement since we’d already created two makeshift bathrooms with baths and toilets. Both sets were enchanted, which was a necessity given the limitations of the space.
+
+I also added a small workspace for when I felt like crafting. It was basically just an added closet attached to mine and Stephen’s bedroom.
+
+Aside from a bit of rearrangement, the rest of the space was left as a large, open living space with room to install a real kitchen next to the dining table. It looked a lot different than it had when Stephen first joined the party.
+
+“Alright, let’s check it out,” I said after a momentary pause.
+
+“Where did our rooms go? Are those doors?” Cora asked excitedly as she rushed over to the closest door.
+
+“I think that one is mine and Stephen’s,” I said. “That one over there should be yours,” I added, causing her to redirect to the door on the opposite side of the space.
+
+“How does it open?”
+
+“Just push it then slide it to the side,” I said as I examined the space. Though I’d ‘seen’ it while I’d made the alterations, seeing it with my actual eyes was a little different.
+
+I’d overlooked the wall décor in my rush to change the floorplan, which meant we’d need to manually change things a bit before the space felt properly balanced again.
+
+Cora was strangely into interior decorating, so I figured I’d just leave that to her to figure out once she noticed it.
+
+“There’s a real bathroom in here!” Cora yelled.
+
+Though the door was open, the sound of her voice was significantly muffled from the noise-dampening properties I’d added to the walls.
+
+“Wow, I could barely hear her yelling,” Stephen commented as he took my hand and gave me a playful look.
+
+“I noticed that, too,” I grinned. “We’ll probably need to do a little redecorating. The space feels a bit empty, even with the additional rooms carved out.”
+
+Though I’d siphoned a good amount of space from what was added during the evolution and ensured we had ample bedroom and bathroom space, the common space still ended up being about fifty percent larger than it had been before.
+
+That meant that there was a lot of empty space left to fill, even with the bedrooms and bathrooms being fully separated. I’d already planned to upgrade the furniture once we evolved and could afford better items, so the excess space didn’t bother me that much.
+
+It wasn’t something that I planned to do right away, but I was sure Cora would push for it sooner rather than later.
+
+“Do you plan to install a kitchen?” Stephen asked, eying the empty space next to the table. “You mentioned something about that a few months back.”
+
+“Eventually. It’ll probably cost more than everything else since enchanted appliances are expensive.”
+
+“Can’t you just enchant them yourself?”
+
+“Enchant what herself?” Cora asked as she and Mike left their new bedroom.
+
+“Appliances for a kitchen,” Stephen answered.
+
+“Are the two of you planning to live here or something?”
+
+“No,” I replied. “We discussed the possibility, but since I’m the only one who can freely enter and exit the sanctuary, we decided it would be more of an inconvenience than either of us wants to deal with.”
+
+“It might be different if there was some way to send a message inside, but since there’s not…” He shrugged.
+
+“Maybe if I get the option of creating a portal into the space in my next evolution, we might reconsider.”
+
+“Wouldn’t you need to slot the Portal skill for that to happen?” Mike asked.
+
+His query made me want to hit myself in the forehead. I’d had plenty of extra slots. I really should have thought about the potential value of having Portal slotted already, even if I didn’t technically need it.
+
+“You didn’t even think of doing that, did you?” Mike chuckled.
+
+“No. I was completely focused on getting a variety of elements before evolution. Since I can manually cast Portal and literally never use it, it never occurred to me.”
+
+“Can’t you just open a portal from inside the sanctuary to somewhere you have an anchor?” Cora asked.
+
+I shook my head and said, “No. Rho expressly said I wouldn’t be able to open a portal into the space when I ascended. I don’t get the sense that anything changed in that regard, but that doesn’t mean it can’t change with my next evolution.”
+
+I’d definitely need to slot Portal if I wanted any hope of that, though. I’d probably need to find a way to push Demesne to (Legendary), as well. Thankfully, there was still plenty of time before the next evolution.
+
+Most natives reached the first evolution in three to five years, while Ascenders tended to do it in a year to a year and a half. We’d managed right at the year mark, which I felt was really good, considering we were splitting essence between four people.
+
+The average time between the first evolution and the second for dedicated delvers was roughly twenty years, which meant we could probably do it in around a decade if we were really focused.
+
+As much as I’d like to push on to the next evolution, the thought of focusing on progression to that degree went completely against my goals for this life. I’d shoot for the more traditional twenty years instead.
+
+In that amount of time, I felt confident that I could push my Demesne skill to the height I needed if I really tried.
+
+“What does that door go to?”
+
+I turned in the direction she was pointing and smiled.
+
+“It goes to the garden,” I answered.
+
+“Garden?”
+
+I pushed the door and slid it to the side before taking a deep breath. Though my demesne was isolated, the living plants growing a short distance away made everything smell fresh and clean.
+
+My companions were all deeply surprised by the reveal, causing me to smile even wider.
+
+“I’m sure you’ve all noticed me collecting whole plants with clumps of dirt around their bases,” I said as I stepped through the threshold. “The plants that could survive without a special environment were moved here.”
+
+“How will you take care of them? Don’t they need water and real light and bugs to pollinate everything?” Stephen asked, looking up at the moderately illuminated false sky.
+
+“And where did the tree come from?” Cora gasped. “Is that…”
+
+She turned to me with wide eyes. I cleared my throat and looked away, not quite knowing how to answer that question.
+
+“I have a lot of space in my storage?” I hedged. It wasn’t a lie, after all. “And I’m pretty sure the space itself will take care of a lot of the necessities. I just evolved, so I don’t have all of the answers.”
+
+“But where did the tree come from, Emie?” Cora repeated, eying me suspiciously.
+
+“I might have acquired it back when we first explored the second floor,” I said, not meeting her eyes.
+
+“Then why weren’t we hit with a ridiculous tax? We both know how valuable one of those is.”
+
+“I’m sorry. I’m a bit lost,” Stephen interjected. “What’s so special about the tree?”
+
+“It’s a Golden Oak,” I said with a sigh. “I found it in the dungeon and pulled it into my storage. It wasn’t discovered because I was able to layer protections around it to hide it from the Association’s scans.
+
+“And before you all start thinking I’ve been cheating the city out of taxes, it’s the only thing I’ve ever removed from the dungeon without paying taxes for. And the reason I hid it was because we probably still wouldn’t be able to afford the taxes on such a tree. They’re too rare and valuable.”
+
+“But how did you pull the whole thing into your inventory?” Cora asked. “I mean, it’s not a huge tree, but it’s not like it’s a sapling, either.”
+
+“I did it the same way I collected the rest of the herbs that I planned to eventually grow,” I said, motioning toward the clusters of greenery around the tree.
+
+I’d tried to collect enough dirt to provide a bit of space between the plants, but the garden still looked quite crowded.
+
+“All that aside, this is pretty amazing, even if it does feel strange with so little dirt underneath,” Mike said. “I’ve only heard of spaces like this in stories.”
+
+“You’ve heard of something like this before?” I asked, perking up.
+
+“Yes. Old stories about Space Mages with their own little pocket worlds. Most of it was exaggeration, I’m sure. Honestly, I thought the whole concept was fiction until you showed us your sanctuary.”
+
+“My old realm had artifacts that could create something like this,” Stephen said. “Obviously, I only ever heard about them, but the concept isn’t new to me.”
+
+That was interesting to learn. Then again, I was pretty sure the people of my old realm had the capability of doing something similar, but it just wasn’t publicized.
+
+I knew there were storage devices capable of holding living creatures, so creating stable pocket dimensions capable of mimicking an actual world really didn’t seem too far-fetched.
+
+“Well, even if it looks a little weird with the hazy barrier around everything, I love the fact that you have real plants growing inside your sanctuary,” Cora said, letting go of the fact that I had an actual Golden Oak growing in the space. “It makes it feel more alive. Maybe we can leave the door open so we can see the garden from inside?”

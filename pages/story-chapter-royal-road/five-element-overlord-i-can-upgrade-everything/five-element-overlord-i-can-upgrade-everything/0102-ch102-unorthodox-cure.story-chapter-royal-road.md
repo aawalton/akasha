@@ -1,0 +1,171 @@
+---
+id: e35e8c9a-d711-570b-8bcd-9eec339d8ee8
+page-type-slug: story-chapter-royal-road
+title: "Ch102 Unorthodox Cure"
+slug: 0102-ch102-unorthodox-cure
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 102
+ownLength: 2108
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3708380/ch102-unorthodox-cure"
+royalRoadId: "3708380"
+---
+
+Instead of letting all my hard work to form this acquired physique go to waste, I hold onto the fragile illusory vibrations on my skin and flesh, and pull out a cauldron, an upgrade card, a martial root, a soothing flame talisman, and purified water.
+
+My physique feels weakened, but it's the only lead I have. If I can just practice these movements and continuously strengthen it while expelling this mist, it could work.
+
+I use up every last upgrade card I have to create heavenly grade martial roots and healing elixirs.
+
+Then I keep myself as stable as possible with my Jade Purity Soul Scripture while slicing the roots and making more tea.
+
+My ears, eyes, mouth, and nose run red with blood from the pressure, even with the immense amount of medicinal energy rushing through my body.
+
+When the tea is finally ready, I take a deep gulp and begin my movements all over again.
+
+The rush of pure martial extract feels satisfying and does exactly what I wanted it to do. My ring, paired with the natural dao rhythm coming up from the floor and my hyper-focus on this single task, allows my Martial Grandmaster physique to tighten back to its original strength.
+
+Wisps of foreign mist are squeezed out, and they disappear into the golden mist in this hidden realm.
+
+However, this is a perfected stage physique.
+
+There is no way for it to absorb any more extract and grow more efficient either. The frail layers that were weakened during the partial fracture are filled in, but the vast majority of this extract is pushed out with the mist.
+
+In less than an hour, and just a few cycles of movements, I begin to lean back toward the fragile near-fracture point I was in before.
+
+Almost half of the mist was pushed out, but now I have no perfect healing elixirs and no martial extract remaining.
+
+It feels like there is no way out of this.
+
+I have the passing thought of using my Tier 2 upgrade card on a healing elixir, or maybe even the Tier 3 card… but there is nothing physically wrong with me. It may end up being a total waste, only capable of healing my flesh and blood.
+
+Even if it does work, it might leave me in an even worse position to try and escape this pit outside my hidden realm.
+
+Whatever strength that crow has, its natural aura is stronger than a mid-stage foundation establishment’s full-force soul attack, destroying my Soul Gum Artifact from its presence alone. The mere residue has put me into a near-death state.
+
+If I used my Tier 3 card on one of my many low-grade Tier 1 attack talismans, they do have the potential of becoming artifacts capable of challenging a golden core.
+
+However, they equally have the potential of backfiring and killing me. I don’t know what kind of residue or blast radius damage a talisman of that strength would create. With only a Tier 2 card to create the strongest defensive talisman I can afterward, there is no logical way forward here.
+
+I don’t even know what rank this crow truly is. The fact that there was no system scan at all is even more unsettling. It could be even stronger than I’m imagining…
+
+The golden Tier 3 card falls back into my storage, as every scenario I picture ends up being a complete waste or a danger to myself.
+
+This Tier 2 upgrade card, on the other hand, there is one potential real use.
+
+My newest side quest’s only requirement is to bring any physique of my choosing up to the initial stage of the spirit grade.
+
+The last few pages of my booklet, the guide from a Martial Warrior to Martial Spirit, are still fresh in my mind after memorizing it with an enlightenment talisman a week ago.
+
+It could be strong enough to strengthen my physique and get rid of this passive soul attack for good.
+
+The Martial Movements for breaking through are already ingrained in my mind. All I need to do is make a tea extract strong enough, with a spirit grade root as its main ingredient.
+
+I pull out the largest inferior grade root left in my storage and hold it next to the silver card with a large two on its front side.
+
+The option to mentally select it is instant.
+
+There is a non-zero chance that this is possible, and whatever I gain from my next minor lottery has a much higher chance of helping me survive when I get out.
+
+Waves of fatigue still wash through me, and the prickling, painful sensation all over my body from being too tired and overworked puts doubt into my mind. However, I won’t be able to judge the efficacy of this plan until the upgraded root is in my hand.
+
+I grit my teeth, close my eyes, and confirm the upgrade.
+
+The bright flash of white light is so powerful that even through my eyelids, it feels like I’m staring into the sun.
+
+My spiritual senses pick up on what is happening deep inside the reaction.
+
+The dark brown root grows in size and weight, becoming almost twice the size of both my outstretched hands holding it. It turns from a pale tan color to an almost pristine white. Three extremely thick and bright golden vine patterns wrap around its base, and a Martial Pressure far too strong to withstand pulses outward.
+
+All of the fine prickling areas of fatigue that were already showing on my body are stimulated again, and it feels like I’m being stabbed by a thousand perfect grade daggers.
+
+A strong mental pressure beats down on me, like this root has a consciousness and presence of its own.
+
+It is far stronger than the Phantom Lord’s corpse.
+
+Yet, it has a very strange dichotomy to it.
+
+Part of the aura destabilizes my Martial Grandmaster physique further, but another part feels nourishing and inviting, like the most optimal thing to do would be to eat the whole root by any means necessary like a starving animal. I do not give in to these conflicting instincts. I let it fall into the cauldron of boiling water in the center of the array, then run backward.
+
+Even at the far edge of the array, the mental pressure and stress it puts on my physique is far too much to withstand without total concentration.
+
+The urge to run like prey, battling with the urge to devour this root like a delicacy, clashes in my mind, soul, and physique, making the tension far worse than before.
+
+I only last a few minutes before it becomes unbearable.
+
+Even after restoring my Martial Grandmaster physique, I now feel the awful tearing sensation in my soul reappear, as my physique tries to sacrifice itself to maintain a tether to my body.
+
+I take a step forward, ready to pull everything back into my storage, but at the same time, I watch the perfect grade cauldron holding the root start to crack all over too.
+
+My plans were far too ambitious. This perfect grade Tier 2 root is far too powerful to be extracted by inferior tools like this, and certainly not by me, at the 5th level of Qi Refining, with an already weakened soul and physique.
+
+I grit my teeth and take another step forward, one after another, all while watching the cauldron fracture more and more.
+
+I push my hand into the boiling water and pull the root back into my storage. It looks completely untouched by the water it’s been left in, still glowing brightly with golden vine patterns while floating unaltered in my mental space again.
+
+However, instead of unbearable pain from being in the presence of the leftover extract from a tier 2 item, my hand that touches the water becomes extremely calm.
+
+Waves of vibrations ripple up it and surge through my whole body.
+
+Small wisps of white mist are pushed out just from this light yellow liquid touching my skin.
+
+The bottom of the cauldron has cracked, and small amounts are already leaking out onto the floor, so I pick the pot up and drink everything remaining.
+
+The whole perfect grade Tier 1 black iron cauldron crumbles into metal fragments the moment I take my last gulp.
+
+I practice the final known movements of my acquired physique in a trance-like state, as dense vibrations like nothing I’ve ever felt before ripple through my sea of consciousness.
+
+A miniscule fraction of that Martial Root Extract was siphoned out, less than 1%. Even so, the echoes it leaves behind are far more profound than all of the tier 1 heavenly roots I’ve consumed combined.
+
+My transitional movements are rigid and awkward as this is my first time truly attempting them, and it takes almost a full hour to complete a single cycle.
+
+Droplets of white particles are squeezed out of my skin at a rapid rate, carrying the tier 2 extract with it in light yellow wisps. All of the remaining foreign white poison mist is squeezed out by the time I collapse onto the array floor, staring up at the golden mist with fractured metal all around me.
+
+Not a single step of progress has been made toward this Martial Spirit physique. However, my souls are finally calm.
+
+My Martial Grandmaster physique is the weakest it’s ever been, but it no longer needs to rely on my ring to stay stable.
+
+I let out a loud laugh.
+
+This plan didn't go exactly as intended, but I survived.
+
+—
+
+I spend a few hours resting before I try to get up.
+
+The fatigue in my body, mind, and soul is the worst it’s ever been. My mental state is shaky too, as I just faced the most horrific opponent of my life. It nearly killed me without even trying to, and it could be right outside my hidden realm waiting for me. I could wait here for more hours, or days, even weeks if I wanted…
+
+However, if that crow was truly after me, no amount of waiting would matter. It did not seem to have any interest in me, at least compared to corpses and eggs.
+
+I take a few long breaths and work up the nerve to take a peek back into the pit.
+
+I do a controlled blip, slipping into the outside world and back to my hidden realm as fast as I can. Still, I’m exposed for over half a second in the darkness of the pit due to the small amount of mental lag time it takes to open the bronze door.
+
+The first attempt goes without a problem. The pressure in the pit is completely gone.
+
+The second attempt, I stay for a few seconds and look around before coming back to catch my breath from the stress.
+
+The third time, I make a run for it. At the first sensation of this crow’s aura even watching me, I’m ready to slip back to safety.
+
+The air feels cold, dull, and empty.
+
+The Phantom Lord’s corpse is gone, and so are any signs of the crow. It must have been satisfied enough with my offering and left.
+
+My eyes dart to the familiar armored boar egg first. I run over and pull the smooth brown egg into my storage.
+
+I instantly turn toward the escape rope, but stop as another system scan hits my senses.
+
+[Automatic Inspect Function Activated…]
+
+[Unnamed Illusory Soul Fox] [Age: 0][No Qi Cultivation][Mutated Metal Spiritual Root][4th Grade][No Acquired Physique][Innate Soul Nourishing Physique][Initial Stage - Mortal Grade][Born from the Reaper Crow of the Misty Forest. In order to hatch, it must be placed in a metal element-rich environment, along with a large amount of potent neutral soul essence.]
+
+A pristine white egg is left in the dirt. It makes the mist around it quiver ever so slightly, just like the crow did at its most extreme point.
+
+I run over and grab it too, letting it fall into my storage while my heart beats loudly in my ears.
+
+This must be the result of the Reaper Crow’s digestion of the Phantom Lord’s Corpse, and one of those red tailed fox eggs stowed away with the boars.
+
+I don’t look back for another second. The next two minutes consist only of pulling myself up the side of the treacherous pit.
+
+When I get to the surface again, I pull out the small token left behind by Lin Fang, make sure it’s pointed in the right direction, and run away faster than I ever have before.

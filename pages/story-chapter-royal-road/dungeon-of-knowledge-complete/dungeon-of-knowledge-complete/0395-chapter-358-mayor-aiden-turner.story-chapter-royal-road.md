@@ -1,0 +1,177 @@
+---
+id: 7fc1fb6b-d1e6-5c49-8b73-3a5f527cc40b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 358: Mayor Aiden Turner"
+slug: 0395-chapter-358-mayor-aiden-turner
+partOf: dungeon-of-knowledge-complete
+position: 395
+ownLength: 2751
+unit: words
+ownProgress: 2751
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2549425/chapter-358-mayor-aiden-turner"
+royalRoadId: "2549425"
+markedReadAt: "2026-06-29T20:25:21.604Z"
+---
+
+Vivian nodded to Donella and took her seat at the council table. It was to be a private session this morning with just the council members in session, and the air inside the mostly empty town hall still held the remnants of the night’s chill. An almost imperceptibly tiny pulse of her fire aura banished the incipient goosebumps from her skin. She wasn’t the last to arrive, but it looked like she wouldn’t have to wait – as she settled in, Bastian Asterford and Hadrik Goldbeard entered, sharing a few quiet words between themselves before separating and taking their places.
+
+“I call this council meeting to order,” Bastian declared, commencing the formal part of their business.
+
+This should be interesting, Vivian thought, studying the guarded faces of the seated council members. It had been a couple of months and still, Roderik Icecrown’s seat remained unfilled. Good riddance.
+
+The town was already abuzz with the news, gossip spreading through the townsfolk like wildfire. Stories abounded of a great battle in the streets – the Town Watch facing off against the Pathfinders in broad daylight. Some accounts insisted that an entire district had been decimated by the immense magic that had been unleashed. With every retelling and accounting Mieriel uncovered, the stories only grew, until they had been warped beyond rhyme or reason.
+
+At least Vivian had the advantage of having been debriefed by Calen and Aliandra directly, and Mieriel had stopped by Lydia’s Allure to take a statement from the busy Grand Tailor herself. The truth of the matter was a lot less destructive than the rumors, and yet, in many ways it would be an immense upheaval in the established institutions of Myrin’s Keep. Some people – she glanced sideways at Jax Hawkhurst – were going to be significantly inconvenienced. The challenge would be reining in the backlash, because Jax was most dangerous when wounded. Oh yes, she must keep that in mind.
+
+One thing was certain: most of the townsfolk only tolerated the Town Watch out of necessity and most were tentatively overjoyed at the rumor of Kieran Mori’s demise. The town’s leadership, though, might be an entirely different story. Vivian braced herself inwardly.
+
+“The first order of business is the issue of the death of Kieran Mori and the loss of the leader of the Town Watch,” Bastian said. “How should we proceed?”
+
+“We must elect a new leader immediately,” Jax declared, leaping into the gap with predictable haste. “I would like to nominate Egan Wright. He has long been Kieran Mori’s second in command, and he knows the ropes. For the good of the townsfolk, we must ensure a smooth transition of power with no disruption in their protection.”
+
+“For the good of the townsfolk,” Vivian echoed in a faux whisper. Hadrik snorted, but he quickly reassumed his professional mantle of disinterest. Donella bore an expression of mildly aloof curiosity, while Commander Brand radiated fatalistic acceptance. Aiden seemed to be playing his cards close to his chest.
+
+I guess it’s up to me, then, she thought. “Why should we accept you pushing your pawns again?” Vivian asked. “I remember you tried to get Mori on this council when Roderik died.”
+
+“Can you let go of petty politics for a moment? This is an emergency!” Jax countered, appealing to the rest of the council members. “Without clear leadership, the townsfolk are at risk. I call for a vote to induct Egan Wright, effective immediately.”
+
+“If nobody has any objections…” Bastian said, beginning to call the vote.
+
+“I have a better proposal,” Aiden said, interrupting him smoothly, and judging by the lack of reaction from Bastian, it seemed he must have been expecting something.
+
+Good job, Aiden, Vivan approved. You’ve done your homework. She glanced toward the doorway, having been apprised of the outline of his plan by Mieriel earlier.
+
+“I have had Egan Wright and the remaining Town Watch leadership arrested and jailed,” Aiden announced laconically. “I propose we disband the Town Watch instead.”
+
+“What? Are you insane, boy?” Jax exploded, jumping to his feet to lean across the table, his face turning a violent shade of red. “On what grounds? You have no idea what you’re messing with. Vivian, rein in your puppy!”
+
+Aiden calmly stared Jax down, and Vivian had to admit the ‘boy’ had come a long way since he was first elevated to mayor and assumed his father’s seat on the council. No longer was he uncertain, instead he seemed to have grown into his role like he had been born to it. There was an unshakeable aura of confidence about him, no doubt due in part to the gold-rank ring he conspicuously displayed.
+
+It didn’t help Jax’s ego that Aiden was still a member of her guild, forming a solid block against Jax’s every attempt to steal the open council seat for himself. But today was Aiden’s show, so Vivian simply sat back and watched, curious to see how he would play it.
+
+“On these grounds,” Aiden finally announced, rising to his feet and calmly summoning a two-foot-tall black stone obelisk with faintly glowing runes etched into its smooth surface. It landed on the polished oak of the council table with a significant thud that echoed through the sudden silence that fell over the town hall.
+
+The blood drained from Jax’s face as he stammered, “W… where did you get that? This doesn’t prove anything!”
+
+Hit the mark, did we? Try as she might, Mieriel had not been able to pin anything on Jax himself with anything resembling proof, but it would be enough to watch Aiden dismantle his beloved Town Watch before his very eyes. Even the slipperiest fish can be pinned by a fishing spear.
+
+“My father’s shrine was recovered from the body of one Vernon Bell, a now-deceased priest, once a member of the Heroes of the Crimson Blade,” Aiden said, taking time for his words to settle in. “As you are no doubt aware, the Crimson Blade was a platinum-ranked adventurer group retained by the crown for dirty work, among other things, exterminating dungeons.” He nodded toward Hadrik and Bastian, both of whom worked directly for the crown. “Their corpses were recovered from deep within the Dungeon of Knowledge below Myrin’s Keep.”
+
+“This proves nothing, what does this have to do with the Town Watch being arrested?” Jax said, recovering his composure somewhat.
+
+“He has a point, Aiden. How is this relevant?” Bastian asked.
+
+“Calen, the Pathfinder who killed Kieran Mori in self-defense yesterday, has testified that Mori admitted to being the mentor of the Silent Assassin who assassinated William Turner, my father,” Aiden said.
+
+“Hearsay!” Jax exclaimed.
+
+“Is it?” Aiden asked. “I had an enlightening chat with Worthington Glimmerbuckle. The Silver Cog has a strict policy of privacy regarding the contents of their private auctions, but he was at liberty to share with me that a private auction was concluded between one Vernon Bell and Kieran Mori three days before the demise of the Heroes of the Crimson Blade in The Dungeon of Knowledge. While he wasn’t at liberty to share the contents of the auction, it is curious that this Vernon Bell just happened to have in his storage ring the only item stolen from my father by the Silent Assassin.”
+
+“Are you saying Mori’s protégé looted the shrine, and then he used it to purchase the services of this Heroes of the Crimson Blade group to wipe out Aliandra’s dungeon?” Donella asked. Vivian narrowed her eyes. That sounded a little too rehearsed.
+
+“That is exactly what I believe happened,” Aiden said. “Here is the writ from Worthington Glimmerbuckle, proof that the transaction occurred.”
+
+“Who cares?” Jax countered angrily. “They were here to kill a dungeon – that’s protected by crown law. Nothing illegal about that and you have no grounds to arrest the Town Watch or call for it to be disbanded.”
+
+“Ignoring the morality of killing a sapient person just because they might have a dungeon class – which I might add, this council confirmed in Aliandra’s case,” Aiden said, “it proves that Kieran Mori ordered the murder of my father.”
+
+“This is all based on hearsay,” Jax said, his eyes glinting dangerously. “You have no proof.”
+
+“Then, with the council’s leave, I’d like to call a witness,” Aiden said.
+
+“A witness to what?” Jax asked. “Nobody saw the murder.”
+
+“Two people did, in fact, witness it,” Aiden said.
+
+Bastian frowned at the sudden murmurs among the council members. Waving his hand, he said, “Call your witness then.”
+
+“Seth?” Aiden called, raising his voice. The door to the town hall swung open and Seth walked in, wearing plain blue trousers and a casual black cotton shirt with a stylized skull embroidered in silvery thread across the front.
+
+Oh, well played, Aiden! Vivian hid her grin behind her hand.
+
+“This is your witness?” Jax scoffed.
+
+“No, he’s the medium,” Aiden countered. “This is the witness.” And from his ring, he summoned the body of William Turner, gently laying it out on the table beside the shrine with an unreadable expression on his face.
+
+The council controlled their reactions well, but to Vivian’s practiced eye she could tell they were unsettled. Jax’s jaw clenched. Hadrik’s eyes widened and his beard quivered, while Donella shrank back in her seat just a little. To be fair, William’s corpse was not a pretty sight. His throat had been brutally slit and there was still a lot of blood all over his face and torso – kept fresh by having been stored since his murder. At least he didn’t stink.
+
+“What is the meaning of this, Aiden?” Bastian demanded, gesturing at the body.
+
+“Seth is a necromancer,” Aiden said. “He provides a discreet service to those who wish to share a few last words with lost loved ones.”
+
+“This… this is highly illegal!” Jax spluttered. “Bastian, stop this at once!”
+
+“This is my father,” Aiden said. “In the absence of his will, I have the right to see to the disposition of his remains as I see fit. Seth?”
+
+“Arise!”
+
+A softly glowing bluish ghost rose from the corpse and glanced about. “Aiden?” William said, his voice rasping harshly out of his ruined throat.
+
+“Dad…” Aiden said, swallowing uncomfortably. “Could you tell the council who murdered you?”
+
+William’s ghost turned to face the council, his eyes locking onto Jax Hawkhurst. Even in this form – or perhaps, more so because of it – his gaze was deeply unsettling, like daggers wrenched from a grave. “Tala… Tala Kane.”
+
+“By Bragni’s Bloody Beard!” Hadrik exclaimed, slamming the table with a meaty fist. “This is foul business."
+
+“Yes. Yes, it is,” Vivian murmured, agreeing with the dwarf’s outburst.
+
+“May I ask him a few questions?” Donella asked, her eyes glinting and her lips pulled into a firm line.
+
+“Go ahead. I mean to do this properly,” Aiden said, taking his seat.
+
+After the council had their fill of questioning his father’s ghost, Aiden stood once again.
+
+“Thank you, Seth, that will be all,” Aiden said at last.
+
+Seth nodded and dismissed the specter of William Turner before leaving the hall.
+
+Aiden took a deep breath and resumed, conspicuously leaving the corpse of his father on display – a move which Vivian could tell must have cost him dearly. “I have recovered the Town Watch records proving that Mori’s grooming and use of the Silent Assassin for this kind of work was not only condoned by the organization but was also considered standard operating procedure. For that fact alone, the entire Town Watch should be disbanded and the perpetrators tried for their crimes. It is too bad Kieran Mori and this Silent Assassin, Tala, are already dead and are unable to stand trial.”
+
+“The evidence seems compelling,” Bastian said. “I’m aware that the townsfolk disliked the Town Watch, but I didn’t know it went this far. This should reflect on us as a failure of proper leadership. I vote to disband.”
+
+“Seconded,” Vivian said, taking her cue, and with the writing on the wall, everyone voted to disband the Town Watch and put the leadership up for trial, with the notable exception of the furious Jax Hawkhurst who stormed out of the meeting, ignoring any further business.
+
+“What about internal security in the town?” Hadrik asked. “Will you take care of it, Vivian?”
+
+“That might be perceived as a conflict of interest,” Vivian said. “I was hoping we could simply abolish the restriction that the garrison can only defend against external threats.”
+
+“Wait, really? I would have thought you wanted to expand your influence with this… business?” Gerald Brand asked, gesturing uncomfortably at the corpse on the table and staring at her incredulously.
+
+“My guild is coming along just fine, but we are adventurers,” she answered. “I’m happy to provide a reserve force for emergencies and cede the security of the town to the experts.” She nodded to him. “Everybody knows you’re by far the most qualified to implement town security measures, and I would vote that you take up this mantle of responsibility. My guild is now strong enough to put Jax’s tired argument about the ‘balance of power’ to rest for good.”
+
+“Can we vote on this without Jax here?” Brand asked.
+
+“We most certainly can,” Bastian answered. “He abstains if he chooses not to participate.”
+
+The vote passed easily, and the council soon adjourned.
+
+“Vivian, do you have a moment?” Gerald Brand said, approaching as she was making her way out of the hall.
+
+“What’s up, Brand?” she asked, stopping politely. Whatever their differences, she still respected the man.
+
+“I know we have clashed a few times over recruits, but with the garrison now covering the responsibilities of the Town Watch in addition to protecting the walls, I find myself a little shorthanded.”
+
+“You want more of the recruits that we give classes to?” she asked. This had been the main point of contention between the two of them recently. The garrison offered reliable work and good pay, but the Adventurers Guild had been drawing many more new recruits due to the stellar rise of people like Aiden already reaching gold rank and through the efforts of her recruitment of folk from the poorer areas in town, some of whom were also nearing gold-rank. With the additional influx of Pathfinders from the refugees, she had expanded her ranks substantially, and while the garrison still boasted many more people, hers were on average substantially higher level.
+
+“Actually, no,” Gerald Brand said, drawing her up short. She glanced at him in surprise. “You have demonstrated a better way. I want higher-level people. You have found an incredible way to train them. I was hoping you could put in a good word for me with Aliandra?”
+
+“You want access to the dungeon… for training your people?” This was not what Vivian had expected at all. Brand had always felt stuck in his ways, a little stiff and resistant to change. Something dramatic must have happened for him to be asking for this. But then, several months of hard work to progress from level one to gold-rank for many of her adventurers might just be that thing. Or perhaps, more likely, he’d seen the same reports from Thorel Moldur concerning the movements of undead around the ruins of Ciradyl.
+
+“Specifically, I heard rumors that she has made training arenas, and the dungeon has an enchantment that enhances combat mastery skill acquisition,” he said, his normally stern expression seeming somehow expectant, maybe a little hopeful.
+
+“Those rumors are accurate,” Vivian said, thinking hard. It didn’t hurt to have the Guard training alongside her adventurers, especially as most of the higher-level groups were out tearing up the Lyton Ruins and the Blooming Rot dungeons right now. Besides, Aliandra could simply expand the training areas if needed. “I will ask her next time she comes to the guild meeting.”
+
+“Thank you, I appreciate it,” he said, nodding to her before heading out with his signature parade-ground brisk walk.
+
+“The Town Watch is gone,” Mieriel said softly as she and Seth joined her for the walk back across town. “This is going to be a big change for Myrin’s Keep.”
+
+“Yes, and a good one,” Vivian agreed. “As much as he’s a stick-in-the-mud, Brand is honest. He will do a much better job with town security than Kieran Mori ever did.”
+
+“What about Jax?”
+
+She nodded soberly. “That’s… going to be a problem. Let’s talk and make a plan.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

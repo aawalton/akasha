@@ -1,0 +1,243 @@
+---
+id: 11b79b07-d3ee-5261-bfa9-021ad420c838
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: A Cultural Exchange"
+slug: 0058-chapter-43-a-cultural-exchange
+partOf: ends-of-magic
+position: 58
+ownLength: 2833
+unit: words
+ownProgress: 2833
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2889752/chapter-43-a-cultural-exchange"
+royalRoadId: "2889752"
+markedReadAt: "2026-06-29T20:09:07.240Z"
+---
+
+The Heirs followed the two Questors into Driftmere. It was a weird town, carved out of a massive chunk of rock that floated above the ocean. Nathan had been expecting the inside to be cramped and twisted, but instead found it to be spacious and lived-in. It had the same feel as some ancient cities from Earth that had been inhabited for thousands of years, with stone worn down by passing footsteps and handrails stained by the oil of millions of hands.
+
+He’d been expecting the internal economy to be poor and fish-based, with a shortage of wood and other things primarily found on land. But once again, he was wrong, and the market street they went to positively bustled with people buying and selling all sorts of things. The echoing stone ceiling was the only indication they weren’t in any other prosperous and cosmopolitan port with easy access to goods from near and far.
+
+Their guides took them to an upper-class establishment that marketed itself specifically to Questors. The signs out front advertised exotic dishes and alcohol from far-off places, and Vira practically dragged them through the door. Nathan could feel the magic in the kitchen from the secluded table they were guided to, and found himself engrossed in the several pages of the menu that detailed payment options. There was a standard currency they could pay with, but Nathan had no idea how much it was worth. But if you didn't have any on you, the restaurant also doubled as a currency exchange in case you didn't have enough to pay. The back half of the menu listed out exchange rates for various rare materials and magical items, along with the statement that they had an evaluator on staff for less common magical artifacts.
+
+Aarl was also leafing through it, blinking down at some of the listed exchange rates and cross-referencing them with the prices. He looked up. “The cheapest meal here costs as much as a good sword in Gemore. Before drinks. And they would steal enchantments and give a pittance in return!”
+
+Vira chuckled. “This is Ostren! The locus of culture on Davrar. If you care about being cheated, then you’re in the wrong place.” She’d taken off her helmet, releasing a short afro of tightly packed grey curls. “Since we’re doing the service of guiding you, you should handle the payment.”
+
+“Vira…” Liren said warningly.
+
+“What?” she asked confidently. “I’ve wanted to order crawler tail since Slick told me about it, and this is a good excuse. If they’re truly the powers that Kaelis claims them to be, then it will be a mere trifle.”
+
+The Heirs exchanged glances, with eyes eventually settling on Aarl as the one who tracked their loot. The fighter snorted. “For our new friends, anything is fine. Please, order what you please!” He waved his hands around to include the Heirs in his proclamation. Nathan looked back at him, and he nodded encouragingly.
+
+Nathan took another look at the menu, noting that several items were marked with very obvious warnings that they required some level of toxin tolerance to consume, along with the notes that, for an extra price, the restaurant would provide the appropriate antidotes and healing. He was tempted by the novelty but decided against revealing that he was immune to poison. Besides, there was something else that sounded a lot like a fancy burger, and Nathan was surprised by the wave of nostalgia that struck him while considering it.
+
+The meal and conversation started to thaw the ice between the Heirs and the Questors. Liren steered the conversation away from anything sensitive and instead asked about different foods and drinks the Heirs had tried in their journeys. The Heirs answered questions with questions, and it became apparent that this was Liren and Vira’s first journey away from the Ashen Accord’s home continent. There was something funny about the Heirs being better travelled than their guides.
+
+Aarl paid for the meal with a couple of gemstones and enchanting materials that Nathan recognized. “Aren’t those from Giantsrest?”
+
+“They are. Still valuable, even if it was our first grand victory,” Aarl answered, sealing his pouch back up. “Looting a mage-city is a profitable endeavor.”
+
+Vira’s eyes were on the dimensional bags, though her expression was thoughtful instead of greedy. “Which Questor controls that place?”
+
+Stella’s lips pressed together into a line. “Badud, once. But then Nathan killed him. Nobody, now.”
+
+Liren scoffed. “Surely a Questor has a claim on the local Seal. Who oversees the defense?”
+
+“Brox, I think,” Nathan answered. “If not him, somebody from his Grid."
+
+“It barely qualifies as a Grid,” Vira said dismissively. “Four Questors from the far ends of Davrar, who barely participate in the game. I only heard of them when Kaelis tasked us to gather you.”
+
+Liren glanced at her pointedly. “Did you listen to his summary? They are far from irrelevant.” He turned back to the Heirs. “I await a demonstration of their prowess. Some of the elders of the Ashen Accord have been part of Davrar for a long time, but I cannot model what the originals are like.”
+
+The Heirs shared another look, something they’d been doing a lot recently.
+
+“They’re powerful,” Sarah said. “Not just in their classes and Insights, but in experience. They’ve seen everything before.”
+
+Liren nodded, his expression introspective. “To devote yourself to Davrar is a strong choice. I’m not sure I’m ready to make it so permanent.”
+
+“What other option is there?” Stella asked, appearing earnestly curious. But Nathan knew her well enough to see the slight twitch of the lips that indicated she was causing trouble on purpose.
+
+The Questor sputtered, searching for an answer that wouldn’t see him punished by Davrar for mentioning things he wasn’t supposed to mention. Vira exhaled in annoyance. “Other things. The meal is done and paid for, let’s depart.”
+
+They followed their guides to what they called the transit station. Nathan was worried it would involve teleportation, but it was something much more interesting. The transit station was at the top of the floating rock and looked like a shuttle bay from a science fiction story. Dozens of van-sized aircraft sat on the polished rock floor, and Liren led them straight to a fancy one, which he opened using an enchanted passkey. “This driftboat is on loan to the Accord. Don’t break anything.”
+
+Nathan pulled his aura in close and stepped inside. The enchantment that held the craft aloft dipped and fluttered under his weight. The interior was cramped but luxurious, with scattered couches and full windows that were only transparent from this direction. The front of the driftboat held a pilot seat that Liren sat in, complete with a joystick and throttle. “It would be calculated to strap in; I'm only an apprentice pilot.”
+
+Vira flopped herself onto the largest couch, completely ignoring the straps. She addressed Liren in a teasing tone. “Have you figured out how the magic of the ‘boat works yet?”
+
+He grumbled. “It’s tied into the magic of the stones, but I don't understand how.” The driftboat lifted into the air and eased out of the hangar, diving down to stay low above the rocks that floated over the water.
+
+The windows showed more stones stretching out in front of them, looking nearly dense enough to walk on. Driftmere was located in an area that was dense with the giant flying rocks. Nathan could feel that there were anchors embedded into the stones that resonated with the enchantment of the driftboat and transferred a measure of the stone’s antigravity to the little craft.
+
+“Huh,” he said. “Smart.”
+
+“It’s not gravity magic?” Stella asked curiously, glancing in his direction. “A wizardry linkage, using a basic mana frequency as the carrier?”
+
+“Yup,” he replied, impressed that she’d figured it out as quickly as he had. “Efficient too, and doesn’t actually use any power from either side, just steals it from the rocks.”
+
+Vira raised her eyebrows at the two of them. She pointed at Stella. “You’re a mage, obviously.” Then her finger moved to Nathan. “But I thought you were a monk. One with a weird vow of poverty or epsilon. But you understand magic?”
+
+He grinned back at her. “Something like that. Don’t worry about it. I’m on your side, and I’m sure you’ll see what I can do soon enough.”
+
+She glowered, but didn’t press the issue.
+
+“What is our destination? Will this take us all the way to the Blinded Mountain?” Khachi asked to change the subject.
+
+“It will take us to Galdon. From there, it’s a few hours by carriage to the Blinded Mountain,” Liren answered smoothly. “We have five days, and Kaelis said we should stop by the Crater of Fallen Gods on the path. We can do that with an extra hour. Does that match your desires?”
+
+Khachi answered quickly. “I would like that. Blasphemously so.”
+
+Vira snorted. “It’s a good tourist spot.”
+
+–
+
+Galdon was a more traditional port city, though even on their approach, Nathan could tell it was closer to Keihona than Litcliff in size and wealth. The city felt old, though the neighborhoods were patchy and built in different styles, as if various parts had been destroyed and rebuilt at different times. They didn’t stay long, disembarking for long enough to have another pricy meal at a place that catered to Questors before the next leg of their journey. The food was good, but Nathan was very aware it was still overpriced.
+
+The carriage was a self-propelled magical apparatus about the size of a short bus. They’d rented it on the account of the Ashen Accord. But they’d barely gotten out of Galdon before Nathan made an uncomfortable realization. The central road they were aiming for was like those in Gemore, dimensionally contracted to allow a small amount of travel to cover a vast distance.
+
+“Stop, stop,” Nathan called out, then reached out to manually throttle down the motive enchantment driving the carriage with his aura when Vira wasn’t fast enough to hit the brakes. “I can’t take this road. The dimensional enchantment will, uh, mess with my vow.”
+
+Vira poked the controls, confused, and looked back at Nathan. “How did you know it was there? I wanted to surprise you. And what’s wrong with the carriage?”
+
+Nathan groaned. “I guess I’ll fly there. Stella, I might need your help to carry me through the winds.”
+
+“We’ll just take the backroads,” Liren said with a sigh, shooting Nathan an annoyed look. “It’ll take days instead of hours, but if it avoids trespassing on your vow, we have only the one option.” He addressed Vira, “take the left here, I’ll find the maps.”
+
+“Thank you,” Nathan said, settling back into his seat. He withdrew his antimagic from the carriage’s engine, which shuddered, then eased back into its normal rhythm.
+
+Vira frowned at him, but steered them off the dimensional road onto a lesser road of packed dirt instead of fitted stone. They were soon passing through wild hedges and bumping over the occasional rut that the magical suspension couldn’t handle. The ride wasn’t as smooth as the carriage was designed for, and the drink cabinet stayed firmly closed, much to Vira's chagrin.
+
+Liren and Aarl hunched over a map together, finding a route that avoided the dimensional roads and would get them to the Blinded Mountain in time. Their new trip still took them by the Crater of Fallen Gods, which was fortunate, because Nathan was pretty sure that Khachi would demand the detour regardless of the timing. But as it was they just wouldn't be early any longer.
+
+He borrowed the map once their route was set, taking a few minutes to study it in detail. Good maps were rare on Davrar, and this one showed the whole of Ostren in fine detail. It even had a scale bar. As he traced the coastline, a memory surfaced. He’d seen this shape before. It was one of the hundreds of continents overhead in the night sky in Davrar. Not only that, it was featured in a painting he’d seen inside the Ascendant Academy. That enchanted canvas had hung outside the grand audience hall where Badud once called an assembly in the hopes of hunting him down. It had shown Ostren as it appeared by night, with fire flickering across the land.
+
+This map wasn’t exactly the same, but the resemblance was unmistakable. The circular regions of flame were now vast crater-lakes, some of their rims extending past the coast and breaking into clusters of floating rock. Driftmere rested among those fragments, the floating port-city and the driftboat routes clearly marked out in the ocean.
+
+That wasn’t the only thing Nathan learned from the map. It was intended for more informational purposes, showing the roads, cities, and villages of Ostren in more detail than could be picked out in the world above by anybody except maybe Sarah, or others with similarly augmented vision.
+
+I wonder if that’s how the map was made. Probably. Or maybe a scrying spell way up above the atmosphere.
+
+Based on the map, Ostren was more densely populated than any other part of Davrar Nathan had seen. There were towns and villages covering about two-thirds of the continent, all connected by the kinds of country roads they were travelling on. Then there were no fewer than nine major cities, of which Galden was the smallest. The Blinded Mountain seemed to be the most central, located a few hundred miles inland. But about a third of the surface of the continent was empty, marked only as “the wilds.”
+
+Nathan looked up at their guide, who was flipping through something invisible to the rest of them, likely his interface with Davrar. “Liren, what are the wilds?”
+
+The Questor shot him an amused look. “The place you go to fight monsters. We undertook our first true hunt there some weeks ago. I claimed a stalker patriarch!” His expression grew curious. “Where else would you go to fight monsters?”
+
+“Everywhere,” Nathan replied shortly. “On most continents, there are monsters everywhere past the city walls."
+
+Vira was interested. “That sounds fun. No quotas? As much hunting as you want? We should journey out, Liren!”
+
+The other Questor grunted but didn’t answer, as if this was a conversation they’d had so many times that it wasn’t even worth responding to.
+
+Nathan shook his head but didn’t respond, once again reminded of the giant gap between Questors and everybody else. He’d come to realize how privileged his life on Earth had been in comparison to Davrar, without fear of death or hunger and with the choice to do just about anything that could pay the bills. The Heirs had been lucky themselves, as the name suggested. But they’d grown up under the threat of monsters, knowing that they would risk their lives to protect their community. Gemore didn't have strict rules, but it was close enough to the edge of survival that everybody was expected to contribute.
+
+Though I wonder if the Liber Physicae will change that.
+
+But as far as he could tell, these Questors had only rarely faced hardship of any sort, unless you counted being denied the finest luxuries as hardship. They didn’t understand the value of money and seemed to treat any scarcity as a novelty. They also had a massive blind spot about how mortals in Davrar lived. He thought about trying to educate them, right then and there, on exactly how good they had it, and the way their behavior betrayed their ignorance of how the vast majority of people on Davrar lived.
+
+But he couldn’t imagine that conversation going well. His Inspiration skill would help, but how could you explain to somebody that they were incredibly privileged without offending them? They still needed this pair to help them navigate Ostren. Maybe when they’d reached the Blinded Mountain, he could give it a try.
+
+After all, this was exactly the problem that they needed to fix with Davrar.
+
+At least they're not wallowing in their apathy. They don't understand the evils of the system.
+
+Permanent Talent 1: Magical Destruction 3
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 2
+
+Forewarning 7
+
+The Truth of Magic 3
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 3

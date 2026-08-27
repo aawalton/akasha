@@ -1,0 +1,121 @@
+---
+id: b43fae0d-44a6-5cc9-af6c-d5b53442d999
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39"
+slug: 0039-chapter-39
+partOf: emie-ascended
+position: 39
+ownLength: 1453
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3641375/chapter-39"
+royalRoadId: "3641375"
+---
+
+After a grueling eight hours of work regrowing limbs at the clinic, I made my way back to the apartment. I didn’t quite have the mental fortitude to teleport there, so the trip was slower than normal.
+
+“You have mail on the table,” Stephen said when I let myself into the apartment.
+
+“Thanks,” I said, picking untying the twine that bound the bundle of envelopes and cards. There were more envelopes and cards in my pile than I expected, especially since the initial rush of invitations had already passed.
+
+Hoping to find one specific invitation, I quickly sorted through the mail. My eyes immediately homed in on the blue-silver trim representing mithril, and I eagerly separated the envelope from the rest of the stack.
+
+“Anything interesting?” Stephen asked.
+
+“Maybe. I think this one is from the Porter Guild.”
+
+“Looks like it,” he replied, though I was busy opening the extravagant envelope. Inside was a similarly decorated invitation.
+
+I looked up with a grin. “It’s an invitation to join the Porter Guild. Based on your expression, I’m guessing you got one as well?”
+
+As known teleporters, we both expected to receive an invitation to the soon-to-be established second branch of the Porter Guild.
+
+“I did. Do you still plan to join?”
+
+“Of course! There is no better protection for a Space Magi than joining the Porter Guild. It’ll stop most of the unwanted solicitations as well,” I said, motioning toward the unopened envelopes on the table.
+
+“That’s good. I guess we should take care of the paperwork before we head into the dungeon in the morning.”
+
+Before our evolution, the party had gotten into the routine of delving for about three days, taking a day off, then working with our respective guilds for the next three days before doing it all over again.
+
+However, we’d all agreed to take a bit of a vacation from delving for a few of weeks after reaching the first major milestone. Three weeks of just lounging around whenever I wasn’t working on commissions or regrowing limbs was more than enough to have me itching to return to the dungeon, and the next delve was scheduled for the next morning.
+
+“So, you’re definitely joining too?” I asked. He’d seemed less certain about the possibility the last time we’d discussed the topic.
+
+“Oh, I absolutely want to join,” Stephen replied. “I just wasn’t sure I’d get an invitation. Besides, how else will I see the world? I can’t rely solely on you to take me everywhere,” he added with a grin.
+
+I chuckled quietly before glancing around the small apartment. It had come fully furnished, just like my previous accommodations, but it was obviously several steps down in quality from what we’d both been given upon arriving in Dia.
+
+“Do you want to hang out here for a while, or head into the sanctuary?”
+
+“I’ll stay here,” he replied, holding up the access pad. “I started a new book earlier. I’d like to read a little more before I call it a night.”
+
+“Okay. I’ll come back and get you in a couple of hours, then?” I asked, knowing that I’d only distract him from his story if I stuck around. Doubly so if I brought Aerie out.
+
+She was currently in stasis since I didn’t like leaving her all alone. Though it slowed her growth a bit, I felt like it was a better option than leaving her isolated for hours while I worked.
+
+Besides, who knew what kind of trouble she would get into if I left her in my demesne without supervision? Putting her in stasis while I was away simply made more sense.
+
+I spent most of the next two hours playing with my small asolade companion before eventually retrieving Stephen from our Sorenguard apartment. The night passed quickly, even with my efforts to extend it through time dilation.
+
+Having gone to see the guildhall being built, I was barely familiar enough with the area to teleport us directly outside after Stephen and I shared an early breakfast. I could have let Stephen handle his own transportation, but that seemed a little rude considering how much stronger my teleportation skill was.
+
+It wasn’t that he didn’t use his skill as often as I did; it was simply a matter of experience and familiarity. I’d spent my entire previous life as a Space Magi, whereas he’d only just obtained the ability to teleport in the last year.
+
+While slotting a skill made its use intuitive, experience still mattered. That was why skill evolutions varied so dramatically between individuals.
+
+Though it was quite early, the guildhall was not empty when we arrived.
+
+“Hello. Can I help you?” the teal-haired woman standing near the counter asked when we entered the building.
+
+“We’d like to register with the guild,” Stephen said.
+
+“Both of you?” the woman asked, her crimson eyes brightening slightly.
+
+“Yes.”
+
+“Alright. If you can both provide your invitations, I’ll help you get registered,” she said with a friendly smile as she stepped behind the counter.
+
+The registration process was simple. The woman basically just asked for our Delver Association cards and copied the information over into the Porter Guild database, then asked us each to demonstrate any relevant skills.
+
+We each teleported and stored an item, either of which would have qualified us to join the organization.
+
+“You’re both Ascenders. I don’t suppose either of you is a Space Magi?” she asked after documenting our teleportation and storage skills.
+
+Stephen looked at me, and I sighed. As much as I preferred to keep some things to myself, too many others had already guessed at my background. Denying my capabilities with a guild designed to support people like me just seemed silly.
+
+Sure, there was a little risk involved with acknowledging my status as a Space Magi, but it really was only a matter of time. Besides, registering as a Space Magi with the Porter Guild might actually provide more protection than trying to keep it a secret.
+
+“I am,” I admitted. “I haven’t slotted many space-related skills since I am an Enchanter, and I want to have as wide a variety of skills slotted as possible, but I am capable of manifesting most spatial effects with enough time and preparation.”
+
+The woman’s polite smile spread into a huge grin at my admission.
+
+“Wonderful. It’s been far too long since the guild welcomed a new Space Magi into its ranks. The Guild Leader is going to be very happy to hear that this dungeon actually produced an Ascended Space Magi,” she said. “We were hoping, but just because someone had an affinity doesn’t mean they are capable of becoming a Magi for their former element.
+
+“The fact that you are a Space Magi also explains how you’re able to create spatial storage devices instead of just expanded storage items,” the woman continued. “At least, I’m assuming you’re the one who accepted the commissions.”
+
+I nodded. “I am. I only took the ones through the Enchanting Shop. I’ll probably stop by the Enchanter Guild after I finish the current batch, but it isn’t really my priority.”
+
+“Oh? That’s unusual. Are you spending all of your time in the dungeon?”
+
+“No. I’m also a Healer. With my new skill evolution, I’m one of only two Healers in the city who can regrow lost limbs.”
+
+The woman whistled appreciatively. “I’m sure you are busy, then. Enchanter, Healer, and Porter. You’ll need to be careful not to let yourself stagnate or burn out. With so much going on, it would be easy for either to sneak up on you.”
+
+“I agree. It’s something I plan to keep an eye on, as will the rest of my party.”
+
+“Okay, one last question,” the woman said. “Have either of you signed any contracts? If so, with whom?”
+
+“Just the Healer Guild and Enchanter Guild for me,” I said.
+
+“Leatherworker and Armorer Association,” Stephen answered.
+
+“Nothing else? I’m aware that some offers have been extended which could potentially interfere with guild membership.”
+
+We both shook our heads, and I said, “We both received several offers, but they didn’t seem like good fits.”
+
+There was no reason to badmouth any of the specific contract offers. I was sure the woman was smart enough to understand what I was implying, considering she’d been the one to bring up contracts in the first place.
+
+“Good. If those are the only contracts you’ve signed, that’s absolutely perfect.”
+
+The teal-haired woman, whom I eventually learned was named Sasha, chatted with us for a few more minutes before we said goodbye. It was time to return to the dungeon after a three-week-long break, and neither of us wanted to be late.

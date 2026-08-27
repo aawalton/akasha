@@ -1,0 +1,213 @@
+---
+id: 3e23b8c9-fc92-511e-bf88-3699bafde92a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 578: The Corrupted Coil"
+slug: 0622-chapter-578-the-corrupted-coil
+partOf: dungeon-of-knowledge-complete
+position: 622
+ownLength: 3592
+unit: words
+publishedAt: 2026-03-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3177021/chapter-578-the-corrupted-coil"
+royalRoadId: "3177021"
+---
+
+The immense noise of the gong reverberated through Ali’s frozen body as energy surged up from within Malika. Her eyes would have shot wide if they could. What is that?
+
+[Realm] Malika Yu [Savior of Aman Rak] has used The Ninefold Way: Gaze of the Shattered Soul.
+
+What? Malika – just, what? A burst of jumbled thoughts crashed through Ali’s mind at the sound, and some sense of tension eased within her at the realization of what had just happened. She was still trapped and unable to breathe, but Malika had somehow defeated the Lich’s magic, traversing the distance to save her from a third death with just her grit and her own body. And even more incredibly, she had somehow learned the Lich’s own spell. The upwelling of gratitude and relief threatened to bring tears to her frozen eyes.
+
+Malika…
+
+Fresh Authority blazed out from deep within Nevyn Eld’s chest, and Ali’s heart skipped a beat as she recognized in an instant what was coming.
+
+Malika!
+
+But nobody could hear her scream.
+
+A lance of twisted necromancy blazed forth from the Blind Lich, piercing the power of Malika’s newfound skill with the brute force of his Authority. In an instant, the lance impaled Malika through the chest, piercing her heart with darkness and erupting from her back in a spray of crimson and holding her aloft as she struggled.
+
+Then he began to drain her, just as he had drained Nendir that day at the fall of Ciradyl.
+
+“Ali, run… I’ll… hold him… off,” Malika gasped, but her gaze held no fear, and as she turned it upon the Lich, her eyes ablaze with surging, azure-white soul mana.
+
+But the Lich answered with cruel laughter, filling Ali’s ears with despair.
+
+I must help her! But… She had nothing. Nothing except a frozen Scion of Azryet, and a single undead witch doctor hiding out in the Spirit Realm…
+
+Ali cast about, searching for anything, but then she stopped at a strange sight. All around the clearing, droplets and puddles of blasted ooze lay, seeping into the moss or dripping off the branches. As she watched, two fist-sized bubbles bumped into each other and merged. On the opposite side of the clearing, another blob rolled over and wobbled as two smaller droplets were suddenly sucked in. Throughout the clearing, tiny bits began to wobble and crawl, drawing together, merging into progressively larger blobs and puddles.
+
+Then, all at once, the oozes began to advance upon the Lich.
+
+Naia!
+
+When the slithering blobs reached the Aegis of Absolution, the Lich began to attack. Dark bolts shot out with increasing frequency as Malika struggled against his grasp, but the oozes ate his magic, spitting out the bolts in random directions, or consuming them whole.
+
+As the joy welled up within Ali’s heart at the sight of her friend’s recovery, she knew she needed to act. Naia could not stand up against the Lich’s might for long, and Malika was struggling. Her healing spell surged continually through her, contending against the withering grasp of his Decrepify, but she was barely clinging on to life.
+
+But what? How do we defeat him?
+
+A dozen ideas flickered into her mind, to be instantly discarded as unworkable. She had barely any minions left, and she was still trapped, unable to summon more. She flickered up into the Spirit Realm, and using her witch doctor like an Avatar and Spirit Walked back to the battlefield, carefully picking her spot, beside a moss-covered rock behind an enormous, spreading oak, and out of the line of sight of Nevyn Eld.
+
+The first thing she did was curse Malika into the Spirit Realm with Spirit Banishment, but her soul magic shattered upon the Authority of the Lich. For a moment, she was at a loss for what to do, but then a crazy idea popped into her head. While the Lich contended with Malika and the relentless oozes, Ali banished herself.
+
+“Gage! I need the time puzzle room! I need twenty minutes!” she shouted. Then she gasped for breath, nearly fainting from having been held in the unyielding grip of the Lich’s gaze for so long. She had burned Arcane Recall for a second use of God Maker, saving her life, so it was still recharging. However, Cael and Gage wielded exquisite control over the Spirit Realm – enough to cobble together a makeshift replacement.
+
+Surely, it could work?
+
+“Ali? What are you doing here?” Gage’s plaintive voice echoed around her, as if confused for a moment. “Cael! We need a teleport!”
+
+Heavy threads of space magic settled about her as the space magic master sidestepped his own suppression array and whisked her away. With only a flicker of scenery and barely a lurch, Ali found herself sitting on a familiar island looking out over empty space with a shimmering Gate at her back. Arrayed before her were the dotted islands and their portals and drones buzzing around.
+
+Ali might still have several options at her fingertips, but next to Arcane Recall, this was the best for her needs. After all, this would take a substantial investment in time.
+
+“What’s going on?” Cael asked.
+
+“What’s so urgent?” Gage echoed. “Can we help?”
+
+“I know how to defeat him,” Ali said. Strictly speaking, she’d put a few important pieces together and drawn some educated guesses, but it was enough to come up with a tentative plan or direction. With Malika and Naia locked in a battle to extinction with the Lich, and the rest of her friends and guild mates facing an elder red dragon from behind another Aegis of Absolution and rapidly running out of time, she hardly had the luxury of certainty.
+
+“What do you need, Ali?” Gage prompted.
+
+“Are you guys ok with helping me?” Ali asked, trying to pull her shattered sense of self back together somehow. “I know Nevyn Eld meant a lot to you once.”
+
+“We’ve spent a lot of time with Ryn,” Cael said. “I wanted to learn to improve my Kings and Emperors strategy, but that required learning a lot of the history of the last three thousand years.”
+
+“We’ve seen what he has become,” Gage finished. “How can we help?”
+
+“Time,” Ali said. “I need to make a weapon that can defeat him at his own game.”
+
+“Isn’t he too strong?” Cael said, a thread of fear making his voice quaver. “Shouldn’t we just run instead? You can stay with us, we’ll protect you.”
+
+“I don’t have a choice,” Ali said, setting her jaw firmly as she sat down and began pulling stuff out of her storage ring. “He’s killing Malika. Naia, too. Can you reset the Multiple Paths in Time puzzle to the beginning?”
+
+“Naia is fighting?” Gage wailed. “But… she was so sweet.”
+
+“I gave her some powerful slimes!” Cael said, equally distraught by the idea.
+
+“So that’s where she got them,” Ali said. “Yes, she’s giving her all to help save us.”
+
+“See, my magic is already helping!” Cael claimed. “I’m the strongest!”
+
+“Naia is doing it, Cael,” Gage said. “And we should give our best, too. Ali needs us.”
+
+“Yes, we’ll help!” Cael declared. The world flickered suddenly as the twins drew on their domain, and everything lurched into different places as the twins manipulated the fabric of the Spirit Realm itself.
+
+“Thank you,” Ali said. She set down her things on the familiar white flagstones.
+
+Ok, what do I know? Before she got started, she needed to organize herself. Whatever she did, she would need to deal with the Aegis of Absolution first and foremost, and the only thing she knew of that worked – if only a little – was Void Nullification. And even as a legendary work, it is a Mana Shield, she noted, the skeleton of her plan coming together in her mind.
+
+She retrieved first the golden vial of her own Fae Blood Ink and set it down on the ground as she removed her gloves. Then, she found the vial of ink made from Azryet’s blood, a vial that shone so brightly in her mana sight it nearly blinded her, and her relatively mundane-looking bloodsteel needle.
+
+I wish Clarence were here, she thought, pulling out a notebook and a pencil, but, as if her thoughts were a summons, the perceptive book popped into existence beside her, and simply settled down, opening himself up to a page on mana transmutation. He shuffled a bit and then nudged her thigh.
+
+“Thank you, Clarence. You’re such a dear.” Ali ran her fingers over his pages and then reached under him to scratch his spine for a bit, making him squirm in delight as she gathered her thoughts. Her design was surprisingly straightforward, but she knew she was taking some substantial shortcuts, using her Grimoire and Clarence simultaneously.
+
+It’s not as if this has to be a work of art, she thought. Brute force would do, especially given the situation. She needed something powerful, something violent, and something able to take out a Lich protected with a legendary spell torn from ancient Ahn Khen lore.
+
+There’s only one tool for this job. Arcane Mana Burn.
+
+It was by far the best spell for the situation, and it should be devastating against a mana shield. It was no surprise that she had learned it by defeating powerful demons. With her basic core spell decided, she needed to chain in a lot of support magic. Void Nullification for sure, she thought, glancing at the shining vial of Azryet’s blood. A bit of holy damage wouldn’t hurt either. And Soul Burn. She reached into her storage ring and pulled out the leftover soul-affinity ink she had used for Malika’s tattoo. There was not a lot of space for frills, but the enchantments she envisioned would all prove to be crucial to her design.
+
+And then, she began.
+
+Starting with the foundation of her destructive power, she poured her mana into the bloodsteel needle and dipped it into the ink made of Azryet’s blood, simultaneously summoning voidstone from her Grimoire. She grimaced in pain as she formed the runes along her left forearm, fashioning them from pure voidstone. Sucking in a breath, she began to weave ink around the midnight black runes, folding her Authority in with her mana. Her skin sizzled and fried as the void mana ate at her flesh, filling the air with the stench of carbonized meat, but she quickly inked the holy support runes, linking them into the formation and forming a feedback loop that fed healing magic into her arm to counteract the potent runes of destruction she was inscribing.
+
+She gritted her teeth against the pain and wiped the sweat from her brow with the back of her other hand, but her focus was absolute. Foremost in her mind was the view of Malika struggling against the Lich’s empowered Decrepify. Even through the eyes of her minions, she could tell her friend was trying to enhance her attributes to outrun his drain. Her healing magic was pulsing nonstop, but without Naia’s never-ending slime horde spending themselves recklessly against the deathly bolts, Malika would most likely already have died.
+
+Ali’s awareness darted across the immense distances to the throne room under the Fangs of the Frost Wyrm where her friends spent their full might in frustration and futility against an impenetrable barrier, while Artur Dragonsworn burned them with endless torrents of dragon’s fire. Mato’s fur was burning and his roar sounded ragged. Calen’s bow was steady, but his eyes betrayed hints of rising desperation. They’ve run out of time. Malika was frozen, trapped by the Blind Lich’s power and the walls protecting Myrin’s Keep were crumbling. I’m all that’s left.
+
+Ali pursed her lips and blew softly to disperse the smoke and stench of her own disintegrating flesh and eyed her work critically. It would have to do; she wasn’t getting a second chance at this.
+
+She worked relentlessly, etching tiny runes up along the length of her arm, filling one side with black and yellow entwined patterns that looked surprisingly like a dragon’s sinuous body with the head pointing toward her hand, fangs bared. Thanks for the damage, Azryet. Hope this doesn’t blow me up in a cloud of void dust.
+
+Then she carefully wiped the needle and dipped it into the soul ink and began to ink Soul Burn upon the empty space on the back of her forearm. Time passed slowly in the Spirit Realm, if it truly passed at all. Drones shifted in their patrols and portals flickered, but Ali ignored them, focused only on Malika’s plight and the task she had set for herself.
+
+Finally, she finished up and moved on. Dipping her needle in the arcane ink made from her own blood, she began to layer in the final spell. The most critical element: Arcane Mana Burn. This had better work, she thought, gritting her teeth against the unrelenting pain. Minutes passed in silence with only the tiny trickle of her amber blood dripping down her fingers and the blur of the needle shifting against the backdrop of the strange grayness of the Spirit Realm. Neither Cael nor Gage said anything, but she knew they were watching intently.
+
+But then, she ran into a serious problem.
+
+How do I translate this rune? Ali frowned. It was clear in her Grimoire, in the imprint of the Eye of Agnor, but it was not a rune she could inscribe using arcane ink. She turned to Clarence, but while he had been able to provide references and answers for most of her problems, nothing she could find in his pages seemed to deal with this one.
+
+“What’s the problem, sister?” Gage asked.
+
+“I don’t know how to write this one,” she said, pointing at the page in her Grimoire. It was a demonic rune, and it blurred with a malevolent potency.
+
+“Oh, that’s tricky,” Gage said, humming softly as he considered it.
+
+Ali sat back and considered the problem. I can inscribe demonic runes. But they don’t work with my arcane ink. If this part of the spell had been written using an arcane affinity, like the rest of it, it would have been fine, but this section of the inscription was something uniquely demonic and had no particular affinity.
+
+She frowned harder still, racking her brain for anything that might work. Wait, I have that… But her skin crawled at the thought. But I don’t have any other options. She reached into her storage and pulled out another vial. A vial she had been cautioned to never use. A vial of Pit Lord blood.
+
+“Uh, Ali…” Gage stammered. “That doesn’t look good.”
+
+“Not good at all,” Cael added. “Maybe put it away?”
+
+“I know,” she said, glancing over in the direction she knew their core room to be. Where they hung suspended in their mother’s magic. Their concern felt so unbearably kind, so poignant, in this moment. She had to do this. There would be no problem inscribing the demonic runes with that, but at what cost? The image of Malika hanging from the Lich’s draining magic leapt into her mind, and she grabbed the vial and dipped her needle into it.
+
+“There must be another way,” Gage said.
+
+“I don’t have a choice,” she answered. Certainly, she didn’t have the time to find one. Bracing herself, she began to ink the final runes, spending every last point of Authority on her creation.
+
+It was far worse than she ever imagined.
+
+Pain wracked her entire body, but that was far from the worst. Nausea and disorientation hit her like a tidal wave, and the blood seeping its way through her veins was like a living parasite with a hunger for her soul. The world around her warped and shifted, tinged with red, but Ali set her jaw and wielded her needle with sharp, precise movements, linking the runes one by one.
+
+“Sister?” Cael moaned.
+
+Ali managed a sound that was barely a grunt in acknowledgement.
+
+By the time she finished, the blood leaking from her arm had turned black, and each drop sizzled as it struck the ground. Her vision was pulsating with angry veins of red and black, but she pushed it all aside and linked the final rune.
+
+With the final link, her notification chime sounded. And then the sonorous gong of the realm notification echoed it.
+
+You have lost experience. [Realm] Aliandra Amariel [Defiance of the Meek] has created a legendary item.You have gained Reputation.+2 Authority.
+
+Ali leaned back, gritting out a terrible groan as she tried to gather her thoughts, to focus through the pain. All she could think was, What the hell have I done?
+
+Chaos Brand, The Corrupted Coil – level 252Forged in desperation from the bloodline of the demon god, Destraggoth, and the dragon god, Azryet, the very runes in this inscription war with each other, wreaking havoc upon the wearer.+136 Intelligence.+108 Perception.+226% spell power to Arcane skills.Grants level 252 Arcane Mana Burn skill.Aspect of the Dragon God (Damage with this item gains Holy and Void traits)Slayer (Damage with this item is increased against undead).Void Nullification (Damage with the Void trait disintegrates magical formations).Soul Burn (+85% additional damage as Soul over thirty seconds with this item. Ignores defenses).Reserve: 1008 mana, 504 health.Cursed: Cursed by the taint of the Demon God’s blood. This item cannot be removed or disabled. It continually corrupts your soul with the demonic essence of Destraggoth. Requirements: Intelligence 882.Quality: Legendary.Created by Aliandra Amariel.Hands – Runic Tattoo
+
+“Wow!” Cael exclaimed.
+
+“Ali! Are you ok?” Gage gasped.
+
+Ali nodded to acknowledge Cael and Gage, struggling to make out the swimming, warping details of her creation as the ravenous consumption of the demonic curse slowly clawed its way into her disoriented mind. “I’m alive.”
+
+That it was cursed was hardly surprising; she had felt it seeping into her the instant her needle, charged with the potent Pit Lord blood and bearing the bloodline of the demon god, had pierced her skin. But it was not just the demonic runes burning like hellfire through her mind. Nearly half of the runes inscribed on her left hand and arm were inked in Azryet’s blood and they were at war with the demonic ones. The whole construct had to be critically unstable, yet she had somehow, literally, stitched it together from juxtaposed impossibilities. Her soul creaked and groaned, struggling to bear the weight of his essence.
+
+“I don’t think that’s something we mortals were meant to bear,” Gage whispered.
+
+“I just hope it’s strong enough,” Ali said. With either part alone, she would have already died, consumed by powers far greater than herself. And yet, somehow, the two of them stood in near-perfect opposition, warring within her flesh for dominance. A tiny reflection of the eons-long, realm-wide war that still consumed the Abyssal Realm. It was tearing her apart from the inside, and yet maybe – just maybe – the two of them might hold each other at bay long enough for what she had to do.
+
+In the midst of her unraveling mind, she let her thoughts cling to Naia and her selfless sacrifice. To Malika, still struggling in the bony grasp of the Blind Lich. And to Calen and Mato, striving greatly against the Crypt of Kings for the slim possibility of capturing the Phylactery and saving them all from fates worse than death. And to all her friends in the town and the guild.
+
+Her mind skittered back from the sheer impossibility of what they were attempting, and instead, she found her center in the burning flame of defiance deep within her heart, and in the love of her friends.
+
+This is my part, and I will do it.
+
+“Send me back,” she managed, her voice coming out as a pitiful croak.
+
+“Don’t do it! You’ll just be trapped in his spell the moment you return,” Gage wailed.
+
+“I know,” Ali said. “I need to be in the mortal realm to finish this.”
+
+“You’re fast, sister, but not that fast. You won’t even get a chance to use that horrible thing you made,” Cael observed.
+
+“Malika will free me,” Ali said. She had witnessed her friend harnessing the ancient Ahn Khen spell – the Lich’s own magic – against him. All she needed was a moment. A sliver of opportunity.
+
+“How will she know what you need?” Gage asked.
+
+“She’ll figure it out. I know she will,” Ali said. She has to. “I trust her.”
+
+“Yes, of course you do,” Cael said, worry coloring his words to a somber gray, like the Spirit Realm all around them. “Please let us know if we do anything more.”
+
+“You have already done so much. You have given us a chance,” Ali said, and then the overwhelming surge of his mana took her, and she flickered back to the forested cavern and found herself staring out at the gray echo of the battle. Her Scion of Azryet remained frozen in place, like an impossibly lifelike sculpture captured mid-attack. Malika hung in the air, dangling from Nevyn Eld’s horrific drain, still living the moment Ali had left. Her eyes blazed, soul mana radiating from her as she struggled against the might of the Lich and somehow refused to succumb.
+
+They’re still holding time locked, Ali realized, marveling at the power Cael and Gage wielded over the Spirit Realm. Something to discuss later over tea, once we’re all safe, she told herself firmly.
+
+Now, it was time to return.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

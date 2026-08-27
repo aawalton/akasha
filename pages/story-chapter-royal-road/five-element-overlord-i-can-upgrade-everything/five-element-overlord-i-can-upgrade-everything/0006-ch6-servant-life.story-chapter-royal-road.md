@@ -1,0 +1,143 @@
+---
+id: 95424e86-0414-56f0-a762-d76bad0f6b8a
+page-type-slug: story-chapter-royal-road
+title: "Ch6 Servant Life"
+slug: 0006-ch6-servant-life
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 6
+ownLength: 1395
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211618/ch6-servant-life"
+royalRoadId: "3211618"
+---
+
+I wake up to the sound of birds chirping, with a pounding headache and dried blood in streams that came out of my mouth, eyes, nose, and ears.
+
+After a coughing fit, I finally stand up to my feet and walk out the front door.
+
+I feel horrible, but truthfully, in my past life I've felt far worse waking up after a weekend bender, taking the subway to the office on Monday morning. Unfortunately, there is no plug in this world for a magic white powder that can help me stay focused throughout my day by any means necessary.
+
+Though, I still have small amounts of residue from that healing elixir I took three days ago still flowing through my bloodstream.
+
+It is how I was able to walk off that slap from a 2nd Level Qi Refiner with such ease last night, and probably the reason I didn't straight up die from absorbing that strange technique...
+
+All of the perfect connections of thought I felt are not as crisp in my head anymore, but the framework is still there.
+
+I can feel and see the exact breathing techniques, poses, and energy flows I need to follow its guidance.
+
+There is always an indescribable innate feeling I have, that the stronger I get, the more of the connections will come back. This technique was given directly from the system, and I can inherently believe it is far more profound than the template this sect gives out to all of its servant slaves.
+
+While walking over to the axe leaning against the side of the metal bin behind my house, I vow to cultivate with the system, and find out this world's secrets on my own terms. I can't trust anyone but myself, and I cannot blame anyone for the current position I'm in.
+
+This is just another hierarchy to work in, comprehend, and climb.
+
+With a thin grin on my face and sharp focused eyes, I lug the heavy axe over my shoulder and walk toward the closest tree in this forest.
+
+—
+
+The sun slowly rises, and the methodical sound of a metal axe cutting through thick wood echoes throughout the trees.
+
+I stop and catch my breath every hour or so, walking back into my hut to grab another piece of bread or jerky.
+
+After my hands become covered in cuts from gripping the rough axe handle, and my mouth gets too parched to swing again, I make my way through the forest about a kilometer and a half to find the stream, to gulp down at least a liter of water in one go before walking back.
+
+The second half of my workday flies by.
+
+In 12 hours, I manage to cut down three large trees and chop two up entirely into firewood. The last, I can only manage to chop halfway before the sun begins to set.
+
+Thankfully, it is just enough to fill the metal bin by the time the old Steward comes walking down the dirt path in my direction.
+
+I stop chopping wood, hide my bloodied hands behind my back, and bow respectfully as he inspects the bin.
+
+Zhou Kang taps a small brown pouch on his waist, then taps the metal bin.
+
+It disappears before my widened eyes, then reappears right back where it was, without any wood left in it.
+
+"Good first day. You didn't disappoint me," he grunts out.
+
+Then, throws a single spirit fragment my way.
+
+I catch it and bow again, "Thank you, Senior Zhou."
+
+He smirks and turns without saying another word.
+
+Once he's almost out of sight, I finally breathe again and fall back to slouch against the side of my hut.
+
+I hold up the tiny translucent warm gem, half the size of a penny, and hear screams and cries in the woods.
+
+My eyes lose focus on the glowing stone, and look past it deep into the trees to see the fuzzy outline of my neighbor's hut.
+
+"You worthless child, Tang Min! I gave you a day and a half to do a task, and what do you give me? Hardly half this bin is filled up!"
+
+Loud smacks echo through the forest, and the cries of this boy as he says he's sorry over and over.
+
+Almost fifteen whole minutes pass, and I hear the Steward's enjoyment of this beating rise.
+
+Finally, the boy doesn't even respond, he's been beaten unconscious, and Zhou Kang moves on.
+
+I just let out a sigh and stare up at the sky as the night fully arrives.
+
+The sound of moans and whimpers sporadically comes from the woods, but I don't bother to do a thing.
+
+I didn't hear his axe chopping wood today until noon, after I got back from the stream for my midday break. The temperament of our Steward is quite clear, established during the first conversation we had with him. The results of his actions are his own to bear.
+
+Once the darkness covers the sky, I make my way inside and sit down on the floor where I passed out last night.
+
+This time, with my legs crossed, arms resting on my knees, both holding a spirit fragment, I close my eyes.
+
+I take a few minutes to get focused and control my breathing, then I attempt the technique that has been imprinted in my mind.
+
+The entire world around me disappears.
+
+For a moment, I am truly at peace, floating in the darkness of my own mind.
+
+I can feel a fuzzy warm mist deep inside me. I can't pinpoint where it is, but from what this technique called it, I'm viewing my own two combined souls, at least, the outline of it.
+
+When I try to connect this fuzzy mist to the warm stones in my hands, there is no reaction.
+
+I try over and over again, cycling the breathing techniques and visualizing everything perfectly.
+
+Yet, the perfect warm flow of qi through my meridians that is depicted in this scripture never happens.
+
+My entire body starts to tingle after half an hour.
+
+I get light-headed, my vision starts to blur, and sharp pains start to flicker throughout every single muscle, bone, and stretch of skin tissue I have.
+
+I let out a frustrated grunt and lay on my back in pain, letting the unused spirit fragments fall out of my hands by my sides.
+
+"This is not going to be as easy as I thought..."
+
+—
+
+Six full days go by.
+
+My hands become covered in calluses, and I get into a steady routine of chopping wood for 12 hours a day, taking sporadic small breaks, and a single long lunch break for water in the middle of the day.
+
+I'm able to practice my cultivation before bed, usually no more than 30 or 40 minutes before my body fills with pins and needles or a horrible headache.
+
+No progress is being made, but I am collecting quite a bit of spirit fragments.
+
+Zhou Kang has become increasingly satisfied with my work. Some days, he doesn't even mutter a word, he just gives me my fragments and walks off. Every few days, a new bag of food rations is dropped off too.
+
+It's clear he is getting all of the satisfaction he needs from beating my neighbor.
+
+Tang Min has not handed in a single full bin of firewood once yet.
+
+There have been days where he gets close, but almost every morning consists of him sulking alone and dreading the day's work. When the sun starts to set, he gives up on working because he knows he won't hit his goal on time.
+
+"You worthless servant! How many times do I need to beat it into you! No spirit fragments for you until you fill this bin for me!"
+
+The Steward's laughter echoes through the forest as he leaves the kid motionless and beaten.
+
+I've gotten used to this cycle. The wimp's cries don't even reach my ears when I try to cultivate tonight, and eventually drift off to sleep.
+
+—
+
+[Ding!][Pre-Qi Refiner Check-In Time threshold met.][Would you like to Check-In?][YES] [NO]
+
+I raise both eyebrows as golden text hovers in front of my eyes at the crack of dawn.
+
+Without thinking, I choose yes.
+
+[Ding!][Rewards have been deposited into your storage!][x1 Perfect 1st Tier Upgrade Card][Please wait 10 days to Check-In again.]

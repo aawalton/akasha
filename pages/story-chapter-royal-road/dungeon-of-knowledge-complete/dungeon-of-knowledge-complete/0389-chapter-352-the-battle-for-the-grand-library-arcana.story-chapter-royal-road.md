@@ -1,0 +1,213 @@
+---
+id: ef9ccc67-3625-5334-a0d9-9f091f2ac181
+page-type-slug: story-chapter-royal-road
+title: "Chapter 352: The Battle for the Grand Library Arcana"
+slug: 0389-chapter-352-the-battle-for-the-grand-library-arcana
+partOf: dungeon-of-knowledge-complete
+position: 389
+ownLength: 2479
+unit: words
+ownProgress: 2479
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2533320/chapter-352-the-battle-for-the-grand-library-arcana"
+royalRoadId: "2533320"
+markedReadAt: "2026-06-29T20:25:08.641Z"
+---
+
+“I think we’re ready, Ali,” Malika said.
+
+Ali glanced around at the expectant faces of her friends and called Kir’vella, The Empress of Bats, over to join them. “Can you send these ones to the spirit realm?” she asked, pointing to Lira and Ryn.
+
+“As you wish, Seeker,” her witch doctor said, somehow making the words sound like a demented cackle. Immediately, the curse flickered into being, settling on Lira and then Ryn as she began to go around the circle.
+
+Ali’s energy had mostly returned as soon as her domain withdrawal had faded. Mato had selflessly planted himself in the alley behind the house she had restored for herself from the inner ring of the residential district near the library every night. The strict regimen of Eliyen’s nasty-tasting potions and the nights spent sleeping in Mato’s restorative aura had begun the slow process of recovering the life energy she had spent. Her convalescence bothered her like an unreachable itch, but it did not mean she was idle – her Grimoire’s monster imprints were now updated with every class and affinity combination her shrine could generate. Small groups of level one kobolds scampered through the endless cavern systems that riddled the mountain, mapping them out for her while earning their first few levels. A dozen new helpful kobold librarians and scribes scurried about the Grand Library, messing up the book ordering and knocking over writing supplies in anticipation of Ryn’s impending surprise. Ali couldn’t wait.
+
+She teleported, switching places with a ghostly spider that was haunting the area from the spirit realm. She had anticipated that it would now transfer her across the realm boundary with her recent advancement, which it did, and Malika simply made her own way there with Spirit Walk.
+
+The entire library faded to gray, and the elder tree vanished as the spirit realm showed them a far older echo, but Ali could still feel the vast well of domain mana spilling over from the other side of the veil. The full glory of the Grand Library Arcana sprang into view, albeit a little more muted and gray than it had been when Dal’mohra had still been whole, and Ali immediately felt the powerful suppression spell settle upon her once again – this time, without any anxiety.
+
+“Ali!” Ryn gasped. “What is this?” She was staring at the bookshelves with wide eyes and her mouth making a round circle of surprise.
+
+“It’s the spirit realm,” Ali said, holding back her grin.
+
+Ryn frowned and rounded on her, but it was such a delayed reaction that Ali couldn’t contain her laughter. Even Lira was smiling.
+
+“This is the main echo of the library in the spirit realm,” Ali said. She paused for a moment and then answered the question that was written plainly across Ryn’s face. “Yes, you can read the books here.”
+
+“Cael!” Gage shouted, his voice ringing with excitement as it echoed through the library. “She came! Ali is back!”
+
+“Ali?” Cael said. “Oh, I’m sorry.” And as he said that, she felt the suppression lift. It felt like a giant metaphorical weight had just dropped off her shoulders.
+
+“Hi Cael. Hi Gage,” Ali said. “I brought some friends. You’ve already met Malika, Calen, and Mato. This is Aunt Lira; she has been with me since I was a child.”
+
+“Aunt Lira?” Cael asked, sounding like he was struggling to remember something.
+
+“I think… I remember you,” Gage said. “Didn’t we used to play mana games?”
+
+“That we did, child,” Lira said. “I’m glad that you finally remember.”
+
+“I… missed you,” Gage said, his voice suddenly choked up with emotion.
+
+“I missed you too, dear one.”
+
+“Ali, thank you for bringing her,” Cael said. “We weren’t sure if you were coming back.”
+
+“I keep my promises,” Ali said. “There’s someone else I want you to meet. This is Ryn. She’s a librarian, and she loves Kings and Emperors.”
+
+“I’m the best at that game,” Cael said, his earlier bravado and bragging returning full force.
+
+“If you’re the best, then how come I already beat you once?” Ryn asked.
+
+“What?” Cael exclaimed. “Ali? Did you cheat?”
+
+“I’d hardly call it cheating,” Ali said, feigning outrage and indignation. “After all, there were two of you, so I called a friend to make it even.”
+
+“Hmm, I guess that’s fair,” Cael answered after a moment. “At least we got two levels for that game.”
+
+“You get experience even for losing with your puzzles?” Ali asked, suddenly curious.
+
+“Yes, the closer the match, the better the experience.”
+
+“We get a lot more if we win and our opponent dies,” Gage added.
+
+“But you can level up without killing your opponents?” Ali asked. She still found Gage’s obsession with opponents dying to be worrisome, but he had promised her. “Does it work if you play more than once?” It sounded a little broken to her, quite honestly. Although it probably would decrease the experience on subsequent tries with the same person, much like repeatedly defeating a dungeon boss would rapidly hit diminishing returns.
+
+“Gage, can we repeat puzzles?” Cael asked.
+
+“I never thought of that,” Gage said.
+
+“Well, how about a rematch?” Cael said suddenly. “Ryn, will you play?”
+
+“Of course!” Ryn exclaimed. “What are we playing for?”
+
+“We’ll play to the death, of course,” Gage said instantly.
+
+“Gage…” Ali said, but Ryn interrupted her.
+
+“I don’t want to kill you,” Ryn said, but her eyes swept around the books and shelves with a fervent hunger. “But I will play for the library.”
+
+“Ok, you’re on,” Gage said instantly. “You get the library if you win, but if you lose, you die.”
+
+“Gage!” Ali said.
+
+“Deal!” Ryn said instantly. “Where’s the board?”
+
+“Ryn! You can’t play with your life like that,” Ali exclaimed.
+
+“Ali, it’s the full library! I can and I will!” Ryn declared, pushing up her sleeves and tying back her hair.
+
+“Gage, you promised!” Ali said, trying to halt the madness. In the open air above the atrium, arcane magic began assembling into a large board. Pieces materialized, teleported in from elsewhere, and the giant hourglass appeared floating above the board.
+
+She was about to start yelling when a small sliver of arcane barrier appeared beside her, out of the view of everyone else. It twisted quickly into the shape of letters.
+
+“I will keep my promise – Gage.”
+
+Ali read it again, but it was clearly a message intended for her eyes only. Ali unclenched her jaw and took a deep breath. It was reassuring that Gage meant to keep his promise, but she had nearly had a heart attack. Now she wanted to smack him silly. Huh. Is this what it’s like to have a brother? Lira smiled her way, her perceptive eyes glancing at the remnants of the arcane message.
+
+Ali took another deep breath to steady her racing heart as Ryn stepped up beside her; this was all too much excitement for an invalid, really.
+
+“Don’t worry, Ali,” Ryn whispered. “I know what I’m doing. This is a library, and I have divination magic.” She flared her wings, flying up to the golden board that was now complete.
+
+“What do you think?” Ali asked, standing beside Lira.
+
+“I think it would be good to watch them play,” Lira answered, studying the board and its magic closely.
+
+Malika was no help; she was already sitting down with her eyes closed, meditating. Calen was off scouting, and Mato plopped himself down in an image of a couch by a fireplace with dancing gray flames.
+
+In an effort to distract herself from her nerves, Ali summoned her Grimoire and turned to her elemental chapter for a project she had had on her to-do list for ages.
+
+Ryn studied the board as Cael’s Mage began to move. She knew it was him because, of the two brothers, he was the most meticulous and deliberate; whenever Gage made a move, he seemed impatient and rather erratic.
+
+The Mage glided smoothly across three squares, coming to rest at exactly the spot she had expected. Instantly, her mana reacted, and the board flickered several times, showing her what she had come to understand were echoes of the future. It was an unexpected interaction of her divination mana to the presence of the spirit realm, greatly enhanced by being within a place her skills recognized as a library. But she wasn’t particularly surprised. After all, she was in the greatest library that had ever been, and her magic sang as it flowed effortlessly through her.
+
+She moved her Acolyte forward, manifesting the powerful defensive position that seemed to come from nowhere, and waited while Cael took longer than normal to process how her new position had just cracked his attack wide open.
+
+It wasn’t that he was a bad player. In fact, he was remarkably talented, and she was quite enjoying the game. It was just that he had missed the last several thousand years of development – the major battles between masters that had to be studied in order to compete successfully. The attack he had just pulled off was one she had never experienced in a real game because, while it had once been important, it had been rendered obsolete by a genius only two hundred years ago.
+
+Cael had obviously never seen that game – she was playing against a relic of the past era.
+
+He moved his Ranger forward to protect his Mage, perhaps the best move in his current position, and her mana vibrated again, causing the board to flicker through ghostly images of future potential layouts once more, each influenced by her choices of response.
+
+She smiled and advanced her Scout one square, clinching the battle. From here, it would be just a few moves before Cael realized it was already over.
+
+He could be a great player, she thought, and suddenly, her heart filled with excitement as she realized that she had a new project.
+
+The game was winding towards its close, and Ryn clearly had the upper hand, when Ali made her breakthrough.
+
+Variant: Arcane Brawler added to Imprint: Elemental.
+
+When she had transcribed the Glimmer Shard over to an arcane affinity, she had realized that it might be possible to do the same thing for other elemental variants with affinities that were a close enough match – and she had finally succeeded.
+
+The Radiant Brawler was originally a light-affinity elemental, and she had already successfully converted light into arcane once before, but this monster was a vastly more complex beast than a swarm Glimmer Shard with only a fraction of the skills. It had required some substantial reconfiguring, with Ali having to substitute some of the skills for things that weren’t quite the same but at least were close.
+
+She summoned one, and the monster appeared towering over her, translucent and glowing with her golden magic. It had the same squat, four-legged appearance with its massive shoulders and broad, fang-filled mouth. The same four waving tentacles floated above its back.
+
+But she had replaced the illusory teleportation skill with a combat teleport that detonated an arcane blast wherever it arrived – courtesy of an arcane mage variant her shrine had provided, upleveled with a lot of help from Clarence. Instead of beams of light, she had substituted Arcane Bolt. She knew it would have been infinitely simpler to use Arcane Ray instead – being that the spell was an almost perfect arcane analog for the Light Ray, but she had a rather soft spot for her old spell, and she didn’t mind the extra challenge of writing it in.
+
+As she examined the skills of the final monster, she was happy to find she had managed to preserve the hasted movement and attacks, and decided her Arcane Brawler was a rather resounding success.
+
+She channeled mana into her variant and summoned several more.
+
+“Cael! I can’t believe you lost again!” Gage exclaimed.
+
+“I don’t know how she did it,” Cael said, his voice morose. “I thought the first time was a fluke.”
+
+“So, I get the library?” Ryn asked, a broad grin on her face as the brothers’ emperor evaporated into motes of mana.
+
+“Yes,” Cael said. “My brother and I keep our word.”
+
+“At least we got another level for that,” Gage said, sounding a little sullen and pouty.
+
+“Yay!” Ryn said, whooping in delight as she swooped around the library.
+
+“Gage, I have something for you,” Ali said.
+
+“What is it?” Gage asked.
+
+“A gift,” Ali said, and pointed to her summoned elementals.
+
+“Those… those are arcane elementals!” Gage exclaimed, his voice instantly excited, as if the loss of the game had been entirely forgotten.
+
+“I think they will work much better than those shards,” Ali said, watching the interplay of mana as Gage used his deconstruction to dismantle the elementals and learn the imprint.
+
+It’s too bad I couldn’t get any of Nathaniel’s elementals, she thought, but they had been fighting for their lives at the time, and she hadn’t had the luxury of taking the time to collect imprints.
+
+“Ali!” Ryn was breathless as she landed back beside them. “Isn’t it amazing?” Her hand swept around to indicate pretty much the entire library. “I already got the teleport location, and now you can copy all the books!”
+
+Oh dear, Ali thought, realizing in an instant just how much work that would entail. But Ryn seemed overjoyed.
+
+“And I got fourteen levels for that puzzle! Can you believe that?” Ryn exclaimed.
+
+Librarian – Human – level 51 (Arcane / Divination)
+
+“Wow, that’s impressive, Ryn, congratulations!” Ali said. It sort of made sense, Cael and Gage were past their first evolution at level one hundred and twenty-nine now. Even though the puzzles were, by her calculation, not boss-level challenges, they still outleveled Ryn by more than three times over. Well, not anymore, but she pushed those quibbles aside. “Seriously, fourteen?”
+
+“Yes!”
+
+“Huh, we’re going to have to make you work harder.”
+
+“I still don’t know how I lost,” Cael said. “I had you in the mid-game, and then I could never recover the initiative.”
+
+“You played the Meregan gambit, and that has fallen out of favor in the last two centuries because it is easily countered by Bolzano’s defense,” Ryn said.
+
+“Bolzano? Who is that?” Cael asked.
+
+“Here, read this,” Ryn said, placing a small book on the table. “It will catch you up with some of the modern developments to the game, and then when we play tomorrow, you will know what mistake you made.”
+
+“Tomorrow?” Cael asked, surprised.
+
+“Of course,” Ryn said. “Unless you’re busy?”
+
+“No! We’re not busy,” Cael said, hastily tripping over his words.
+
+“Not busy at all, please come play!” Gage added.
+
+“Perfect,” Ryn said as the small book she had offered levitated on a thin sliver of arcane magic.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

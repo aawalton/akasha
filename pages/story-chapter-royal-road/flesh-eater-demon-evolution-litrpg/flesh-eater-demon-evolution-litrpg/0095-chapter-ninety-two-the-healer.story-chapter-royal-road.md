@@ -1,0 +1,153 @@
+---
+id: 25cc7454-f856-57d8-b9a2-dc8c48aacecd
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-Two: The Healer"
+slug: 0095-chapter-ninety-two-the-healer
+partOf: flesh-eater-demon-evolution-litrpg
+position: 95
+ownLength: 2441
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3519764/chapter-ninety-two-the-healer"
+royalRoadId: "3519764"
+---
+
+It was quiet for a moment after the man spoke. To her side, Pyre could see both Callan and Daphne staring at the stranger with wide eyes. Their jaws were hanging open, and the demon raised an eyebrow at their dumbfounded expressions.
+
+“Close your mouth,” Daphne suddenly whispered to Callan, still staring at the man—Llyr, probably.
+
+“You first,” the ghost muttered back. Neither one actually stopped staring or even attempted to move forward and respond to the man’s question. It was pretty funny to watch.
+
+With a snort, Pyre stepped down the rocks, landing on the sandy shore where the stranger was still waiting patiently. If the two mages’ blatant staring bothered him, he gave no indication of it.
+
+Now that they were on even ground, Pyre could see that the healer was taller than she’d first thought, though she still had a solid six inches on him. He held himself with a sort of quiet self-assuredness, following the demon’s movements as she approached. She came to a stop in front of him.
+
+“That depends,” Pyre drawled, cocking her head. “You Llyr?”
+
+Steady blue eyes met steel grey. He was clearly studying the demon, probably assessing if she was a threat or not, but he didn’t look outright nervous or wary yet. Not easily intimidated, then.
+
+“I am,” he confirmed. He shifted the basket he was holding into one hand and stretched the other one out. “It’s nice to meet you, …?” His voice trailed in question.
+
+“Pyre.” The demon shook the offered hand, then jerked her head back in Callan and Daphne’s direction. “That’s Callan and Daphne. We heard you lived around here. Figured you might be able to help us.”
+
+Llyr smiled politely at the two mages, nodding at them. He returned to holding the basket with both hands. Now that she was closer, Pyre could more clearly see all the plants he’d gathered inside. Probably herbs or something.
+
+“Well, I can certainly see what I can do,” he said, still in that eternally tranquil tone. He turned, gesturing further north up the shore towards a series of overhangs and even taller boulders.
+
+“My home is up ahead. If you don’t mind following, I can make a more accurate assessment there. I’m afraid I don’t keep many of my supplies on me,” he added with a light chuckle.
+
+Pyre raised an eyebrow. Well, that was awfully easy. She couldn’t tell if the healer was naive enough to invite random strangers back to his house based on nothing but their word alone, or if he was genuinely so devoted to helping people that it overrode basic survival instincts. No wonder those folks in the store were so protective. Either way, she wasn’t going to complain about things going smoothly.
+
+“Lead the way,” the demon drawled. Llyr nodded, still the picture of serene calm, before turning and beginning to walk forward. Once again, he was apparently unconcerned with exposing his back to a bunch of strangers.
+
+Footsteps sounded from behind, and Pyre glanced back to see Daphne and Callan had finally jumped down from the rocks. The group didn’t move at first, simply watching Llyr continue ahead, dark hair streaming behind him like a wave. Finally, Callan glanced at Pyre.
+
+“Hey, you can smell what species things are, right?” His voice was low—barely above a whisper, really. The demon turned to him.
+
+“Yeah. Why?”
+
+Callan’s voice got even quieter. “Is he… I mean, is he human?”
+
+That made Pyre pause. [Species Scent] allowed her to identify a creature’s species by smell as long as she had encountered said species before, making it basically an extra-strong scent memory. Based on their brief interaction just now, nothing about the healer’s smell had pinged her senses as unusual.
+
+“Smells like it, yeah. Why?”
+
+“Humans don’t look like that,” Daphne said bluntly. Now that the initial shock had worn off, the noble was squinting at Llyr’s retreating form with something like suspicion.
+
+It took a second for Pyre to figure out what the hell they were talking about. She glanced at the healer again.
+
+She hadn’t paid much attention to it before, but Llyr was, objectively, very easy on the eyes. The demon registered it as a basic fact, much in the same way that Daphne being pretty by all human metrics was just another part of her description. Symmetrical features and aesthetic sensibilities and all that.
+
+Apparently, the healer was so unnaturally beautiful that both mages had been gawking at him nonstop since he’d first showed up, and now they were asking her if he smelled like a human.
+
+Pyre raised an eyebrow at the two mages. She didn’t bother to hide her rapidly growing amusement. “Are you saying you don’t think he’s a human because he looks too good?”
+
+“No,” Callan said at the same time as Daphne said, “Yes.” She narrowed her eyes accusingly at the ghost, who proceeded to drop his gaze to the ground.
+
+“…Okay, yeah. Basically,” he admitted sheepishly.
+
+The demon snorted. That had to be the funniest reason she’d ever heard for someone to be accused of being a monster. Based on the way Callan looked like he wanted to sink into the sand, they were probably well aware of how absurd it sounded.
+
+Daphne and Callan were both smart people, though, so the demon figured it didn’t hurt to check. For the sake of maximum caution, she glanced back at Llyr’s retreating form.
+
+She still didn’t smell anything but a regular human. A quick scan with [Thermal Vision] showed the healer ran a bit colder than average, but it wasn’t anything outside the regular range. That guy in the shop yelling about bubbles in the water or some shit had been colder.
+
+Now that she had the [Empyrean] trait, she would be able to see through magical illusions as well, so his appearance itself was real. It did beg the question of what counted as a “magic illusion,” though. Could a faked smell get past the trait? She didn’t know yet. The demon hummed consideringly.
+
+“Tell you what, I’ll keep an eye on the dude. If he turns out to be an imposter or something, I’ll just kill him,” she said with all the casual ease of someone talking about the weather. No reason to complicate things.
+
+Pyre jerked her head in the healer’s direction. “Now come on. We’d better get going before we get left behind.”
+
+The mages still looked wary, but after a few nods of agreement, the group continued down the shore after Llyr.
+
+The woman at the shop, it turned out, hadn’t lied about Llyr’s location, but she’d definitely stretched the truth to make things harder for them.
+
+For one, the healer’s house was further north from Serindell than she’d implied. The coastline curved further inward here, forming a little bay.
+
+Llyr led them past a field of rocky boulders, then stepped up the sand to the grassy area lying just beyond the shoreline proper. There, the ground abruptly dipped downwards up ahead. This whole area, it turned out, was one giant hill.
+
+When they reached the top of said hill, they soon saw a mansion sitting at the very bottom of the slope, hidden from immediate view by the elevated terrain. No wonder they hadn’t seen it at first.
+
+Pyre studied the distant building. It appeared to be constructed out of a mix of wood and stone, and it stood four stories tall facing the ocean waves. It was no Bellhein manor, but it was still pretty fucking big. She whistled.
+
+“Nice place you got,” she said. Llyr smiled politely.
+
+“Thank you.” He adjusted his grip on the basket. “It belongs to a noble from the Inner Ring. I helped him a few months ago, and he insisted on giving this property to me. I am grateful, of course, but it is a bit much,” he added with a slightly embarrassed laugh.
+
+He turned to them next, gesturing at the slope. “Please mind your step on the way down. The grass can be quite slippery.”
+
+Despite his words, Llyr himself had no issue practically gliding down the hill with his hands still wrapped around the basket. Pyre elected to just jump down—it really wasn’t that high, especially not with her past portfolio—while Daphne and Callan were a lot more cautious. The ghost had turned solid again, it seemed. Probably to make sure he wasn’t discovered once they were inside.
+
+Once they’d all reached the bottom of the slope, they quickly approached the mansion itself.
+
+From here, only the highest parts of Serindell were visible over the hill, including the tops of the dead angel titan’s wings. The sound of the ocean was a constant churn, the clear waves undulating under the sunlight. It was a peaceful location, just close enough to Serindell to be easily accessible while also maintaining a sense of privacy.
+
+Llyr stepped up to the front door and pulled out a key, unlocking it. “I apologize if it’s a bit chilly,” he was saying. “I keep a number of spell components inside, and they’re quite sensitive to temperature. I’ve grown used to it, but I know it can be a bit unpleasant for visitors.”
+
+“No worries, we’re just grateful that you’re hearing us out at all. We know you must be busy,” Daphne said with a perfectly amicable smile. Now that she’d gotten over her initial shock, she was in full “sociable noble” mode, as Pyre decided to call it. Llyr didn’t seem to pick up on the obvious airs and just smiled back.
+
+“I’m happy to help when I can,” he replied just as gracefully. The healer swung open the door and gestured for them to enter.
+
+The inside of the mansion was noticeably colder than outside. Pyre scanned her surroundings, noting the line of runes running along the walls that glowed a soft blue. There must be a magic spell controlling the temperature of the place.
+
+Besides the runes, the interior of the building looked mostly standard. Galen’s aristocrats seemed to favor lighter colors and more windows than the ones in Auren, and an array of idyllic oil paintings, statues, and flower vases decorated the space. None of it looked especially personal in nature. Pyre wouldn’t be surprised if these were just the “default” furnishings the manor had come with when the noble had given it to Llyr.
+
+The one exception were the shelves lining the walls. These were made of a darker wood than the rest of the furniture, and they were stuffed full of various knicknacks. A whole lot of plants, dried and fresh, stones, gems, feathers, jewelry, other assorted trinkets—all of them carefully labeled and organized into marked sections.
+
+The second Callan saw the shelves, his eyes practically bugged out. The ghost stepped closer to a shelf on the left, where a few wispy, curly white plants sat in bowls of water.
+
+“Holy shit,” he breathed, unable to contain the excitement in his voice. “Is this Serpent’s Breath? It’s incredibly rare; I thought it only grew on the ocean floor!”
+
+“Nerd,” Daphne whispered with no small amount of glee. Callan steadfastly ignored the other mage.
+
+“It is,” Llyr confirmed. He set his basket down on a table and strode over to the ghost. “I was testing a few retrieval spells and managed to recover some, though admittedly I’m not the most well-versed on plants.” He smiled at the ghost, tilting his head. “Would you like to take them with you?”
+
+Callan spun around so fast that Pyre almost thought he’d turned incorporeal again by accident. “Really? I mean, are you sure?” His green eyes were round as saucers.
+
+Llyr chuckled. “Of course. It sounds like you’d make better use of them than me, anyway.”
+
+The healer turned to face them, blue eyes studying them closely. For a brief second, Pyre caught his gaze snapping to a glyph etched onto the ceiling right over the entrance, then back down.
+
+She grinned internally. Maybe not so naive, after all. That was definitely some kind of ward, but whatever it was wasn’t strong enough to bypass Pax’s talismans.
+
+Llyr nodded to himself, apparently satisfied with the results of whatever magic glyph-scan had just occurred. He gestured down the main corridor. “I have an infirmary set up just down the hall,” he explained. “Please follow me.”
+
+Callan, who’d been busy transferring all the Serpent’s Breath into one bowl, now carefully held it to his chest like a precious treasure as he followed the healer. Daphne stepped behind the ghost while Pyre brought up the rear, eyes casually scanning the mansion for all its entry and exit points as they walked. They did still have a “plan,” after all, however half-baked it may be. She was dead serious about healers being useful—assuming they were actually good at what they did.
+
+Soon, Llyr turned into one of the rooms. A large open window facing the ocean welcomed in a steady stream of warm sunlight. Two cots had been set up on one end of the room, while a long table and a few chairs occupied the other side. Shelves and cabinets presumably filled with more spell components and medical supplies lined the walls, making the space seem smaller than it was. It somehow felt both open and cozy at once.
+
+In the center of the room, a glyph circle had been drawn on the floor in smooth, white chalk lines. A basin filled with clear water sat in the very middle of the sigil.
+
+Callan and Daphne’s eyes both immediately fell on the circle, probably recognizing the runes. Considering their lack of reaction, it was probably for medical purposes, too. At the very least, it wasn’t an explosion or something.
+
+“Please, take a seat,” Llyr said, gesturing to the chairs. Pyre didn’t hesitate to plop down, legs sprawled casually. Callan and Daphne both sat down as well, albeit with much more caution.
+
+Daphne, in particular, was more visibly nervous than the demon had seen since the sanctum confrontation. It was probably hitting her, now that they were sitting in an infirmary across from the rumored healer they’d come to see, that this might be her chance to cure her ichor-poisoning once and for all.
+
+Or to leave disappointed.
+
+One of the noble’s hands moved to her chest, clutching at the fabric there with obvious tension. The demon studied the movement closely.
+
+Finally, Llyr took a seat across from the trio. Bathed in the warm sunlight, expression calm and serene, he looked the picture of a perfect “healer.”
+
+“Now,” he began, nodding at them, “what can I help you with today?”

@@ -1,0 +1,161 @@
+---
+id: e61171a3-b990-5629-82d1-e4639cf3dd93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 311: Shrine Paths"
+slug: 0348-chapter-311-shrine-paths
+partOf: dungeon-of-knowledge-complete
+position: 348
+ownLength: 3243
+unit: words
+ownProgress: 3243
+publishedAt: 2025-07-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2434364/chapter-311-shrine-paths"
+royalRoadId: "2434364"
+markedReadAt: "2026-06-29T20:22:22.289Z"
+---
+
+Ali stared at the pool of blood on the moss beside the shrine for a long time before she finally collected herself and deconstructed it. It had taken some time for them to get Lydia to the Temple of Lunaré and organize the proper elixirs from Eliyen, but she had finally returned to the shrine after helping to ensure that Calen’s mom was in safe hands and would be receiving the proper care. Wounds like that needed far more than just a casual slap with a healing potion, but it seemed she was well on the mend.
+
+Calen, of course, wanted to stay with her for a while, and certainly after barely foiling an assassination attempt, she understood his desire to be there to protect her in person despite the two trolls Ali had left with her as additional guards.
+
+Lydia and her tailoring business had been an important fixture in her life since soon after Ali had woken up beside this shrine. It hadn’t been until she examined Lydia with Healer’s Sight, and had seen how close she had come to dying, that she truly appreciated just how much Lydia had come to mean to her.
+
+It had been such a lot of blood, and that was even with her familiarity with the aftermath of a battle using blood magic and regenerating Trolls.
+
+She had been very lucky that she had forgotten to bind the acolyte to her domain. Typically, she gave her dungeon minions Domain Respawn because of the convenience and the greatly reduced reservation cost courtesy of Domain Mastery, but as she had just discovered, the side effect of binding them to her domain limited her ability to freely move her minions with Minion Teleport. Filling her dungeon with unbound Glitter Dragonets, Icicle Bats, and the like was only good for moving herself around.
+
+She’s going to be ok, Ali thought, trying to assuage her residual anxiety, and turned back to the shrine. There were several things she needed to explore related to her class evolution, and adjustments she needed to make to her domain. The first thing she did after making several new unbound healers, was to summon a second Carnage Berserker.
+
+“Revert your class evolution, please,” she instructed.
+
+“At once, Seeker,” her newest Troll said, dipping her head.
+
+[Shrine of the Ancient Grove] Class evolution reverted, Carnage Berserker – 20,000 mana.
+
+Just like that, the berserker before her changed back to a Blood Berserker. According to the description, she would have lost any additional levels, bringing her back to one hundred, but Ali had only been able to create her at that level anyway. She had already tested the revert function using Tol’brekk, but his unique circumstances had meant his immediate death. Re-death? It was prudent to test out the safety of reverting evolutions and classes if she was to offer the service to Vivian Ross and others. Not only did it seem safe, but it only cost twenty thousand mana.
+
+Now, this is curious, Ali thought, noticing immediately that the class evolution option was available to her freshly downgraded berserker. For the mere cost of two million mana, she could add a second evolution path to her imprint. That means Vivian can undo her broken evolution and immediately fix it. How can I ever convince her to try? It seems so painful to her – maybe Mieriel’s the key?
+
+And I can evolve my berserker again. The implication for her shrine was dramatic, and she wasn’t even sure she would have thought of it on her own. She could undo and redo evolutions as many times as she wanted, and simply keep the best option – the only limitation was how fast her shrine could regenerate its mana.
+
+I need to tell them, she thought. While her friends seemed happy with their class upgrades, the option to explore all the evolution paths might be too strong for them to pass up. I can do it too… but the moment the idea occurred to her, she discarded it. She had picked the options she wanted most and besides academic curiosity, there wasn’t a reason to do it. I’ll play with it if I have time and mana, she decided. However, she was most certainly going to explore the options with her berserkers in great detail.
+
+She eyed her floating Grimoire. Will it record all the evolutions? She had no reason to believe otherwise – her Grimoire had instantly recorded the Carnage Berserker – and the implication for her minions was even more profound. She didn’t have to choose only one evolution path, she could record all of them, provided her Grimoire had enough space. She sat there for a while, hovering on her little disk of magic, wishing she had enough shrine mana to experiment with it immediately.
+
+If it’s the evolution that’s expensive, she thought, paging quickly through her Grimoire to the Kobold imprint. She summoned a rogue at level one and then chose the shrine’s revert feature again.
+
+[Shrine of the Ancient Grove] Class advancement reverted, Rogue – 20,000 mana.
+
+Variant: Kobold added to Imprint: Kobold.
+
+Her Grimoire reacted, but the amount of new information it added was minimal, and the notification seemed rather redundant, but when she identified the Kobold, she clearly saw why.
+
+Kobold
+
+He has no class. Curious, she explored the shrine options for her new unclassed Kobold, discovering that she could assign him a new class immediately. Normally, unclassed people would need a combat trial, but for some reason, her newly unclassed minion did not require that.
+
+The berserker didn’t either, she realized. It had to be a property of the way the shrine reverted classes and evolutions, perhaps leaving them at the threshold of experience prior to the class or advancement.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 35,00014 Alternate classes found.Natural class:- RogueAvailable alternate non-combat class options:- Pickpocket- Trap Maker- Librarian- Blacksmith- Scholar- Miner- Alchemist- HerbalistAvailable alternate combat class options:- Assassin- Archer- Warrior- Monk- Sling Wielder- Skirmisher
+
+“Wow, crazy! Fourteen class options?” Ali murmured. “Where did they all come from?” She glanced over them, weighing up theories. Is it because I have a lot of options in my imprint? Or is the shrine learning more classes? Both?
+
+On a whim, Ali chose Monk for her Kobold and watched as a flurry of new skill options appeared for him. A quarterstaff proficiency, a defensive armor skill, a combat mastery, and an ability to throw knives accurately.
+
+Variant: Monk added to Imprint: Kobold.Monk – Kobold – level 1
+
+She didn’t have an imprint for a proper quarterstaff, but she fashioned a stick out of oak from her wood imprint and then made him some low-level knives to play with.
+
+“Thank you, Ancient Mistress,” he said. He seemed quite happy swinging the stick around and examining the knives, while Ali sat there and contemplated her newest minion. A level one kobold would not have been anything notable, save for one important fact. I could level him up.
+
+Her mind abuzz with ideas, she summoned a second unclassed Kobold and activated the shrine’s mana affinity feature.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 50,000Latent mana affinities:- FireCompatible domain mana affinities: - Blood- Arcane- Light
+
+It was her first time seeing her upgraded mana-affinity feature, discovering, to no one’s surprise, that her Kobold had a natural affinity with fire. They were, after all, draconic, and had natural racial aptitudes making them more resistant to fire so it really did make some sense.
+
+But although not all her domain options were compatible, she was rather surprised to see the list of what was; she might not be able to choose Nature, or Soul for her Kobold, but Blood, Arcane, and Light were available.
+
+Light, I guess, she thought, curious as to what kind of classes might be offered.
+
+You have gained an affinity for Light magic.Your Aptitudes have been updated.New class options are available.
+
+“Ok, what can we give you?” she asked, eyeing her waiting minion.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 35,0004 Alternate classes found.Natural class:- RogueAvailable alternate non-combat class options:- Sunlit HerbalistAvailable alternate combat class options:- Light Mage- Dazzling Rogue- Radiant Spellsword- Radiant Archer
+
+Ali studied the options with great interest. Most of the non-combat options had been removed by her choice of light affinity, but what remained was fascinating. Sunlit Herbalist? Definitely going to check that one out.
+
+First, however, she wanted to explore her combat choices. She picked the first option on that list, deciding that light mage looked like the most interesting for now, and the Kobold’s notifications exploded with skill information. Light beam, Illusory wall, a standard mage mastery, and so on. Six new skills, which in hindsight, were all pretty good for a first-level mage with a light affinity.
+
+Variant: Light Mage added to Imprint: Kobold.Light Mage – Kobold – level 1 (Light).
+
+“Would you show me your Illusory Wall, and then shoot this barrier?” Ali asked her, summoning a target.
+
+“Of course, Ancient Mistress.” The mage bowed her head as light-affinity mana coalesced within her before shooting out to create a three-meter-high wall about ten meters long. It shimmered softly, but other than the shimmer, it was entirely transparent. Ali poked at it, finding that it had some substance to it, but it was nowhere near as strong as her barrier magic, even at the same level.
+
+“Now shoot…” she said, turning to her Kobold, but she stopped in surprise. While the illusory wall was entirely transparent, there was no sign of the mage herself. She touched her nearby minions, using their senses to observe the phenomenon, and only then did it become clear to her. The illusion the wall projected was one of concealment – when viewed through the wall, the caster was invisible. She could see the Kobold clearly when viewed from the other side.
+
+Now this could be useful, she thought. It wasn’t a pure invisibility spell, but who knew where it would lead if it was cultivated and advanced?
+
+“Shoot the target,” she said, finishing her earlier thought.
+
+“Yes, ancient mistress,” the mage said, and from the invisible Kobold, an intense beam of light burst forth, searing afterimages into Ali’s retinas. It was instantaneous, one moment nothing, and the next a searingly bright and perfectly straight line of light magic shot out, passing right through the barrier target and slicing into a tree behind it. The Kobold slashed downward, chopping a small branch from the tree, leaving a smoking stump.
+
+“Thank you,” Ali said, and the mage dismissed her wall. Although weak at level one, it was obviously similar in nature to the beams used by the Radiant Brawlers. Just observing the level one spell was enough for her to understand it – well enough to Disrupt if she needed to.
+
+But although the new mage sparkled with possibilities and potential, it was not the specific class abilities that had captured her imagination, but rather, it was the power of her shrine itself that she grappled with.
+
+Why do dungeons have shrines at all?
+
+This question tugged at her mind. With her initial experiments, Ali’s understanding of the shrine – its very purpose – had suddenly and dramatically shifted. It was as if she had spent her entire life studying a sculpture from the back, only to suddenly see it from the front and have her understanding of what it was about instantly unraveled. When she had first seen the class features on the shrine, it had felt natural to use them to help her friends, and from that, and the fact that she was a person used to living with other people, she had just viewed her shrine as a tool to help people.
+
+But that’s not what it is at all, she realized. It suddenly made a lot more sense – why would something like a dungeon, a typically hostile entity, evolve something to help its usual prey? No, her ability to offer class services to other humans, elves, or dwarves was the anomaly, an accident of evolution perhaps. Mato even said as much.
+
+The shrine was first and foremost a tool to design the optimal minions to populate her dungeon. She could come to no other conclusion when she considered all the abilities she had. Dungeons had enormous amounts of domain mana to power something like a shrine – Val’korr had said that they had only managed to leverage the Aman Rak shrine by having hundreds of trolls donating mana using Soul Drain and Ritual Infusion to recharge the enormous cost for each use of the evolution function. That was at best a hack – she had Mana Siphon, and she needed less than a day or two for it to fill up completely. This had to be how it was designed, or evolved, to work.
+
+Adaptable Mana gave her the option to assign affinities that would be compatible with any biomes in her dungeon, and even collect new ones. Class and evolution revert allowed her to undo any classes she acquired and reassign them to better ones. Most dungeons did not join the Adventurers Guild and go out hunting for minions like she did – they had to make do with whatever stumbled into their domain. These were the features they needed to let them make the most of whatever they learned.
+
+Even the way her Grimoire worked – creating core categories and building variants by recording only the differences – allowed her to have many more choices than she would ever need. And then when she added in Minion Ego, she had the final piece – she could raise any monster or class to maximum level with nothing more than setting it in place to defend her domain and waiting for time to pass.
+
+A lot of time, no doubt, she thought, but the point had been made.
+
+It even explained one reason for dungeon breaks. Once one of her minions gained a level, or she raised a superior class, all her existing minions became obsolete. Instead of the chore of unsummoning them, she could totally see why some dungeons would expel them into the world to make room for the improved ones.
+
+In the hands of an intelligent dungeon, a shrine was, by its very nature, a fearsome weapon – but to those who had never been a dungeon, it would appear to be a massive boon, a blessing from the gods, or other similar hyperbole she had read. After studying Nevyn Eld’s book in great detail, and experimenting with his artificial dungeon, she was convinced not even he had understood this fact – blinded by his perspective as someone outside of a dungeon looking in. The same perspective she had had up until right now. There was no chance Nathaniel Sunstrider had understood it either – and it was unlikely he ever would – stuck with the limited artificial shrine that he had.
+
+She studied her new Kobold Light Mage carefully, making her a better set of robes to wear. She decided her little mage would look quite impressive in a set of frostweave gear – all she needed was to raise her to level eighty or so. Her new insight about her shrine was dangerous though. Obviously, she would tell Aunt Lira and her closest friends, but she decided then and there that she would tell no one else – not even the guild – they did not need to know the full extent of her capabilities.
+
+And Naia, she decided; her little friend was a dungeon after all. Ali was certain Naia had not created a shrine of her own yet, although she wasn’t exactly certain how that might be accomplished – after all, she had skipped whatever the usual process might be by virtue of inheriting ownership of her father’s shrine before she was even a dungeon.
+
+She returned her attention to the rapidly recharging shrine and the rustling swish of the mana winds it was generating.
+
+Variant: Dazzling Rogue added to Imprint: Kobold.Variant: Radiant Archer added to Imprint: Kobold.Variant: Radiant Spellsword added to Imprint: Kobold.Variant: Arcane Mage added to Imprint: Kobold.Variant: Blood Mage added to Imprint: Kobold.
+
+The Blood Mage was particularly interesting, wielding its own blood as mana it could make flying blades and shooting shards, but without the ridiculous regeneration of the Aman Rak Trolls, she doubted the class would have nearly the same staying power.
+
+Her eyes rested for a moment on something she had just glossed over initially: the non-combat class options. There were a surprisingly large number of them, and even more appeared when she chose mana affinities for the Kobolds.
+
+Why would a dungeon make non-combat minions? It was a somewhat tricky question, and one she wasn’t certain she would get a satisfying answer to, but she wasn’t just any dungeon, and she had her own burning curiosity to satisfy, so she created a few.
+
+Variant: Librarian added to Imprint: Kobold.Variant: Blacksmith added to Imprint: Kobold. Variant: Sunlit Herbalist added to Imprint: Kobold. Variant: Trap Maker added to Imprint: Kobold.
+
+She stopped when she finally drained her shrine to empty and then returned to the library with her new little horde of Kobolds following along behind her like a brood of ducklings, passing through and exiting on the first level.
+
+Her challenge arena was surprisingly busy, but she guessed she had grown more used to the strange prickle of knowledge and mastery experience trickling in more or less continuously. To her surprise, her new archery challenges were already in use, and mostly by her Elven guests – Coria fired arrows with incredible grace of form and a determined frown on her face, while a couple of new adventurers looked on in admiration, clearly taking notes.
+
+Ali left them to their training, happy to see that they were finding some use in her facilities before making her way over to the beginner section where Vivian Ross was conducting a class. She didn’t interrupt, content to wait till she was done before letting her know about the shrine feature, instead summoning her magic to create a couple of new arenas for her newest minions. She could at least give the recruits something a little more fun than a Kobold warrior and a slime to work with.
+
+When she was done, she glanced at her remaining Kobolds.
+
+Librarian – Kobold – level 1 (Arcane) x2.Blacksmith – Kobold – level 1 (Fire) x3.Sunlit Herbalist – Kobold – level 1 (Light) x3.Trap Maker – Kobold – level 1 x3.
+
+She set the herbalists loose in the Forest Cavern with instructions to learn how to tend to the plants growing there. She hoped they would be able to level up in the wildflower gardens, but she had no idea what advantage they may provide to the dungeon in the long run. She made a mental note to have a chat with Basil. He might well have a few ideas.
+
+Then she teleported the trio of blacksmith Kobolds to the anvil and forge, leaving them with instructions to assist anyone using the forge for blacksmithing and maybe practice their craft when nobody was around. Maybe Thuli’s apprentices can make them some tools.
+
+After dropping the Trap Maker Kobolds off in the sewers, she led the two golden-scaled librarians into the library itself, hoping to find Ryn so she could introduce her to her newest assistants.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

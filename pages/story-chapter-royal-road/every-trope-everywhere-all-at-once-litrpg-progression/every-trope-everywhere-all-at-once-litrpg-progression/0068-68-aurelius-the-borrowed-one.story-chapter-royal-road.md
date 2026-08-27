@@ -1,0 +1,159 @@
+---
+id: f21b1ee6-40e6-5e32-a9c2-5b7ecea95916
+page-type-slug: story-chapter-royal-road
+title: "68 - Aurelius, the Borrowed One"
+slug: 0068-68-aurelius-the-borrowed-one
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 68
+ownLength: 1800
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3650763/68-aurelius-the-borrowed-one"
+royalRoadId: "3650763"
+---
+
+The wind magic that had stopped me from crashing into the ground slowly lowered me onto the grass, leaving me completely unharmed. Aeris and Kaelor—who had also been fighting Aurelius in the air—landed beside me. Aeris transformed back into her human form.
+
+“Are you okay?” Aeris cried.
+
+“I am… somehow,” I said.
+
+Kaelor held out a hand. I grabbed it and used it to pull myself to my feet.
+
+Reina and Talon ran over. After realizing I was fine, we all turned to Meriel, not saying a word.
+
+Something about her was different.
+
+She was still Meriel. There was no doubt about it.
+
+But something was different.
+
+“Meriel…” Aeris began. “How are you still alive? That dagger killed you. I saw you dying in Allene’s arms…”
+
+The light enveloping Meriel’s entire body began to dim. After a moment, I saw something familiar. Or rather, I saw someone.
+
+I pointed at them. “You…”
+
+Standing beside Meriel was the faint silhouette of a woman. She wasn’t a human, an elf, an angel, or any other race that this world would recognize.
+
+She was a goddess. The goddess that I had met just before reincarnating into this world.
+
+Her expression was completely hidden by the light, and she didn’t move once. I looked around to see if anyone else saw what I did, only to realize they didn’t.
+
+I was the only one who could see her.
+
+But the moment the light disappeared, so did she. Only Meriel remained.
+
+Before we could say anything to her, we heard a grunt from behind. Aurelius began to stand, clearly wounded after Meriel had forcibly sent him flying into the harsh winds that divided us from the rest of our allies on the island.
+
+“That… can’t be,” he said, struggling to speak. “You shouldn’t be alive! How are you…?”
+
+Then, he smirked, falling into a laughing frenzy. “No… you’re special, aren’t you? Your body… that must be it… your body’s different from the rest!”
+
+He took a step closer. His eyes looked more manic than before. “Even your soul has changed. You’re not like the others anymore. Your soul… it’s similar to Allene’s now.”
+
+What…? Similar to mine?
+
+Giving us no time to react, Aurelius shot past us, heading straight for Meriel with his ring sword. But she didn’t budge. She stayed perfectly still, moving nothing but a single hand.
+
+The winds wrapped around Aurelius and slammed him into the grass. The rest of us rushed to his side, pinning him down. Meriel released her wind magic.
+
+“Get off me!” he shouted.
+
+He raised a hand, trying to gather the winds and blast us away, but Kaelor stomped down on his arm. Aurelius tried to cast his spell with his other hand, but I stabbed Dawn Sunderer through it, impaling his hand into the grass. His ring sword fell flat onto the ground as he screamed in pain.
+
+Meriel walked toward us, staring down at Aurelius with an expression I’d never seen from her before. It wasn’t just anger. It was malice.
+
+“So you’re the first villain of this story,” she said, pointing to his back. “Allene, pat him down.”
+
+I didn’t understand why Meriel wanted me to do that at first, but I listened anyway. As I searched him, I felt an object beneath his tattered clothes. I reached under his clothes and pulled it out.
+
+It was a journal. The same one Reina and I had seen when we went to the manor's underground alcove with him and Camille.
+
+“Don’t you dare read it!” Aurelius cried, thrashing around. Everybody continued pinning him down, even Talon—though he had a rather peculiar way of helping. He was simply standing on Aurelius’s back for whatever reason.
+
+“Read it,” Meriel said.
+
+I opened it and cleared my throat.
+
+“How could this happen to them? To Camille? Why would the world take them from me? Why did it think they deserved such a cruel fate?
+
+That doesn’t matter now. Fate doesn’t matter. I’ll bring her back. I must. I’ll bring her and all the others back.”
+
+Kaelor crossed his arms. “So this is your personal journal?”
+
+Aurelius didn’t reply.
+
+I continued, “I have attained a power unlike any other. Just as the world had taken them all from me, the world had granted me this blessing to bring them back. I won’t let this go to waste.”
+
+I flipped the page.
+
+“The experiments have failed. I now realize that a soul must be compatible with its vessel if it wishes to inhabit it. Otherwise, both the soul and the body will perish all the same. I, however, seem to be the exception.
+
+No matter which body I take, whether it belongs to a human, an elf, an orc, or a giant, both the body and my soul are considered perfectly compatible. I do not understand why. But I don’t intend on wasting any precious time trying to find the answer.”
+
+The next line was in a different paragraph.
+
+“I met a woman who had suffered from severe blood loss. It looked like she had been ambushed by a group of monsters and left in this dire state. As soon as she died, I grabbed her soul before it could slip away and cast a spell to keep it inside of one of my rings, where Camille and everyone else is.
+
+However, it appears I made a horrible mistake. The woman I had saved wasn’t ambushed by a group of monsters, but merely one. A cloud dragon. I stood no chance against it. At least, not in the normal way. Its attacks were devastating, and I nearly perished within seconds. But an idea came to me as I was avoiding its attacks. A very, very lucky idea.
+
+Behind the dragon were several eggs. My body moved on its own, and I managed to run beneath the beast and reached the eggs on the other side. The dragon didn’t attack us for no reason—it wanted to defend its children. I decided to take advantage of this.
+
+I pointed my sword at the eggs and shouted at the dragon. It froze immediately—no more stretched claws, fire breaths, or wind attacks. It was afraid that I would kill its children.
+
+With my sword steady on the eggs, I gave a demand. I wanted the beast to relinquish its soul to me, otherwise I would plunge my sword through the eggs.
+
+The dragon gave me a harsh stare. The kind of stare that would make anybody faint. But I knew I had the upper hand here, so I kept my blade steady.
+
+Fortunately, the dragon was more of a parent than it was a monster. It lowered its head before me, showing that it no longer wanted to fight. It’s a common thought that dragons and other reptilian-like creatures were unable to show emotion, but I don’t think that’s the case. Its face was filled with sorrow. I felt bad for it. I really did.
+
+But not bad enough that I would give up my own life over a monster’s.
+
+Now that the dragon had given up on fighting me, I held my hand over its nose. A part of me was scared that it would suddenly lash out and kill me with one single bite, but I made sure that my threat to its children was clear.
+
+Just like that, I dispelled the dragon’s soul. Its body fell limp and its soul began to disperse in the air.
+
+At that exact moment, one of my rings began to rumble. Not Camille’s, not the others, but the one with the soul of the woman I had just taken. That could only mean one thing—she was the only one who was compatible with this dragon’s body.
+
+And so I transferred her soul from the ring to the dragon, and the dragon’s eyes opened. I was surprised at first, but I could sense that the dragon harbored no intent of killing me. The soul transfer had worked. The woman who had been killed just a moment ago was brought back to life in a dragon’s body.
+
+One of the spells I had learned throughout my journey allowed me to understand the language of monsters. A dragon was no exception.
+
+After conversing with her, I learned that the woman I had saved was named Aeris. She pledged her life to me. It was purely a coincidence that I had come across her, but I wouldn’t let such a powerful ally go to waste.
+
+As promised, I left those eggs alone.”
+
+I took a deep breath, flipping another page. Aurelius lay completely still in the grass.
+
+I turned to Aeris, noticing her shifting uncomfortably.
+
+“Is all of this true?” Kaelor asked.
+
+She nodded. “It’s just as I said. Aurelius saved me.”
+
+I turned back to the journal.
+
+“This experiment was one of the most ambitious ones I have done so far. As I was struggling to find suitable bodies for Camille and the others, I began to question if multiple souls could exist in one vessel. If this were possible, I would be able to save multiple people at once.
+
+Among the test subjects I kept beneath my manor, I had one pair of twins. If any souls were able to exist in the same body, twins were undoubtedly the best bet. I decided to take their souls and try to put them inside of a giant’s body.
+
+The experiment, however, was a complete failure. The body rejected the souls, and the souls rejected the body, even after I made sure they were compatible by seeing how they reacted in close vicinity. I repeated the experiment with a pair of unrelated souls, but it didn’t end in merely rejection. The monster and souls died instantly. Now, I can only assume that compatibility was completely disregarded if one body had multiple souls within. I couldn’t afford to repeat the experiment multiple times, so I simply let it go.
+
+The experiment with the twin souls resulted in a monstrosity. Aeris and I tried to contain the monster that I had just created, but the beast was more intelligent than it looked. It escaped our grasp, never to be seen again.
+
+Or so I thought.
+
+The monster had wreaked havoc across all those who stood in its path. No one was able to contain it except one person. An archmage. Their hood concealed the entirety of their face, so it was impossible to tell who they were. They eventually traced the monster back to me, and Aeris and I stood no chance against them.
+
+The archmage contained us in seconds.
+
+As I write this now, I am imprisoned in some kind of… lair…? Prison? Basement?
+
+No… I know what this is.
+
+It’s a dungeon.
+
+I have become its prisoner.
+
+Its warden.”

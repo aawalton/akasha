@@ -1,0 +1,175 @@
+---
+id: 51b53234-74d5-5f61-b8e6-1dc2bc49438a
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-Four: Promise"
+slug: 0085-chapter-eighty-four-promise
+partOf: flesh-eater-demon-evolution-litrpg
+position: 85
+ownLength: 2618
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3425870/chapter-eighty-four-promise"
+royalRoadId: "3425870"
+---
+
+They reached the forest with no further interruptions. Daphne had a feeling that Sergeant Edna had something to do with that—it wouldn’t surprise her if the woman had purposely guided troops away from them.
+
+Callan visibly relaxed once they were safely hidden behind the treeline, but Daphne was still tense with thrumming energy.
+
+Her eyes drifted back to the field. More bodies had been added to the growing lines, the white tarps standing out starkly against the grasses. She’d been riding the high of the successful portal destruction, but the clear visual of the amount of lives lost hit like a ton of bricks.
+
+Daphne’s gaze kept moving, scanning the garrison troops and city guards still dealing with the aftermath of the battle. Sergeant Edna had said that Edmund’s carriage had entered Magrath several minutes ago, so he should either already be near the sanctum or arriving very shortly.
+
+Sure enough, further down the road leading to the rest of the city, she spied the shape of a carriage. A little ways away from it, a lone figure stood staring down at the lines of bodies. She’d recognize that straight, rigidly stiff posture anywhere.
+
+“That your cousin?”
+
+Daphne jumped and spun around, only to find Pyre staring in the same direction. She was a little surprised that she’d noticed him from so far away, but then she remembered that the demon probably had better eyesight than the average human. Slowly, Daphne nodded.
+
+“That’s him,” she confirmed. The demon hummed.
+
+“Better go talk to him,” she said casually.
+
+After their encounter with Sergeant Edna and the two garrison soldiers—no, they’d be cadets if they knew Pyre—the demon had returned to her usual lax demeanor. Cuts across her flesh were slowly stitching themselves together, and Daphne could actually see the flesh around her arm regenerating. Despite the demon clearly moving on from the conversation, however, the mage found her mind wandering back to it.
+
+Somehow, it hadn’t really occurred to her that Pyre had made connections at the garrison. Based on the way Callan kept glancing at the demon, she wasn’t the only one. Maybe it shouldn’t be a surprise, considering they’d been becoming friends themselves before she’d found out about Pyre’s true nature, but it was yet another thing about her that didn’t fit her preconceived notions of demons.
+
+Not that Pyre was an “average” demon. This day had very clearly proven that. The memory of the demon catching her was still vivid in her mind.
+
+Daphne glanced back at Pyre and Callan, hesitating. “Are you leaving Magrath after this?” she asked. Pyre had told that cadet that they were going “south,” but that was a pretty vague term.
+
+“Yep.” The demon pronounced the ‘p’ with a pop. She cocked her head, and another chunk of cracked bone fell off a plate with the movement. She didn’t seem to notice or care. “We got the horn, so we’re leaving. Probably’ll find a place to hunker down in the woods for a bit before we’re off.”
+
+Daphne nodded slowly. That was what they’d said they’d do, but she couldn’t help but feel… disappointed, maybe. She should be happy that the two monsters were leaving, no longer a presence to worry about in Magrath, but at some point in the midst of their planning and talking, she’d grown used to them. To their quiet bickering, their voices, their footsteps. The manor hadn’t felt so empty with them there. And while the circumstances had been far from ideal, she still remembered the exhilaration she’d felt just before blowing up the sanctum, the freeing feeling of life in its purest form.
+
+They were objectively dangerous—literal monsters—but she couldn’t help but be drawn to them. Drawn to the way they moved about the world, beholden only to themselves, able to freely travel and explore places that the noble had only ever read about. There were no rules or bounds. Nothing to stop them.
+
+Daphne wanted that, she realized. She wanted it so badly that it hurt.
+
+Her chest ached, that dull, constant throb lingering since attacking the sanctum. She already knew that this time, the ache wouldn’t go away. It would settle there, spiking occasionally, steadily growing stronger until the ichor poisoning killed her for good. How much time did she have left now?
+
+Daphne’s gaze shifted to Edmund again, a lone, distant figure staring down at the rows of corpses. He looked small. Lost. He’d left Magrath on a routine trip, then returned to find that everything he’d ever known had changed forever. Her eyes moved back to Pyre and Callan.
+
+In that moment, she came to a decision.
+
+“Ed?”
+
+The man in question didn’t react to his name being called. He just kept standing there, staring down at the ground. Daphne swallowed and took a step closer.
+
+It was quiet here. The wind breezed past, cool and crisp, and the chatter of guards and soldiers was reduced to a faded murmur. On the other side of the field, the atmosphere was more relieved, but even the most celebratory of people turned somber once they neared the rows of bodies.
+
+Edmund was standing in front of Lord Bellhein’s remains.
+
+Daphne hadn’t realized at first. At a distance, every tarp looked the same—faceless lumps carefully hidden below cloth. A few volunteers stepped down the rows, labeling the ones they could identify.
+
+Lord Bellhein, of course, had immediately been recognized. His full name and title, inked carefully on the little card placed in front of his covered body, was the sole indicator of who he was. Dead bodies, noble or not, looked the same.
+
+Daphne stared harder at the outline visible below the tarp. She heard her uncle’s voice in her head again, pleading for help, then the screech of the wyvern and the sickening squelch that followed. Her fingers tightened into a fist.
+
+On that narrow street, she’d been prepared to kill him. Fury and hurt had lit the magic gathering at her fingertips. She’d been moments away from releasing the spell. But then the light beam had flashed, and the wyvern appeared.
+
+Now, staring at the still body hidden below the cloth, her chest felt hollow. This was a man she’d known her entire life, and while they’d never gotten along, while their relationship had crashed and burned in the end, she couldn’t help but grieve the happier memories from her childhood.
+
+Playing hide and seek with Edmund while Lord Bellhein watched. Peaceful dinners together. The calmer week after she’d heard her uncle speak about her mother’s death, the moment of genuine understanding that had seemed like a sign of better things to come.
+
+If her uncle hadn’t chosen to work with the Empire, could their relationship have been fixed? She didn’t know. And now, she never would.
+
+Lord Bellhein had been a coward and traitor, and Daphne didn’t think she’d ever truly forgive him for what he’d done. Still, she couldn’t help but grieve what could’ve been.
+
+Still standing over the tarp, Edmund didn’t look up. His head was lowered. Loose hairs hung in his face, hiding his expression, but Daphne could see him trembling slightly.
+
+Carefully, she stepped forward and placed a hand on his shoulder. He tensed, then slowly relaxed again. For a minute, neither one of them spoke.
+
+And then, slowly raising his head, Edmund turned to Daphne. His eyes were swollen, and exhaustion hung heavy over his every movement. He looked like he’d aged ten years since she’d last seen him.
+
+“What happened?” His voice was rough.
+
+Daphne swallowed. She hesitated for just a moment before opening her mouth to respond.
+
+She told him the truth. She’d debated finding a way to soften things, to give him more time with his grief before telling him the truth of his father, but that didn’t feel fair. Edmund deserved to know what had happened, and she didn’t want to lie to him.
+
+The only things Daphne skimmed over were Pyre and Callan. They were ordinary humans in her tale, but she still mentioned discovering the sanctum, then working with them to create a plan to stop the Empire’s spell. Then there was the invasion, earlier than scheduled, and the ensuing fight.
+
+Throughout it all, Edmund listened in total silence. He didn’t ask questions, he didn’t even react. He just stood, frozen.
+
+Finally, Daphne finished. Her voice quieted, and the two were once again left ruminating in the stillness. The mage shifted her weight.
+
+From here, she could see more soldiers gathering near the sanctum. The troops were still recovering, but soon they’d begin to discuss exactly what had happened. The nobles and city officials who’d taken shelter during the invasion would want answers, and the Bellhein family would be chief among those spearheading what happened in the aftermath.
+
+For now, though, they were just two young adults, the last surviving members of the Bellhein family, standing above the body of a man who’d once seemed untouchable.
+
+“I wish I didn’t believe you.”
+
+Daphne looked up. Beside her, Edmund was still staring down at his father’s corpse, gaze distant. His expression gave nothing away, but his hands were shaking. He wrung the fabric of his pants.
+
+“I feel like I should defend him,” he murmured. “Isn’t that what a good son would do? But I—” His voice caught, and he shook his head.
+
+“I’m not even surprised,” he continued, voice hollow. “That he would do something like this. That’s the worst part.” He covered his face with his hands, an old habit that he used to do whenever he felt overwhelmed. He’d stopped in their teenage years after the gesture became “immature” and “unfitting” for a noble, and it sent a twinge in Daphne’s chest to see it now.
+
+“Is it bad,” Edmund said, the crack in his voice audible even through his hands, “that I still miss him?”
+
+“No.” Daphne’s response was immediate. She laughed hollowly. “I hated him, and a part of me does, too.”
+
+“It’s just, I keep wondering if there’s something I could’ve done.” He swallowed. “Maybe if I was a better son, he would’ve told me about this, and I could’ve convinced him not to do it.”
+
+“Hey, no.” Daphne spun Edmund around so that he was facing her, grip firm. “Listen to me. You didn’t do anything wrong. Most people would kill to have a son like you.” She took a deep breath. “He made his own choices. You—We couldn’t have done anything. It’s not our fault.” Her voice wavered a little at the end. She couldn’t tell if she was trying to convince Edmund or herself.
+
+Her cousin gave her a long look, looking more lost than she’d seen him in years. She pulled him in for a hug. He stilled, then returned it just as tightly.
+
+“You’re leaving, aren’t you?” Edmund’s voice was muffled in her shoulder, but she heard it clearly. “With those friends of yours?”
+
+Daphne was quiet for a moment. “Yeah,” she finally said, voice rough. “I am.”
+
+He nodded slowly. “Good,” he said, and Daphne couldn’t help but be surprised. She’d expected him to try and convince her out of it. Her cousin’s face was still buried in her shoulder, making it impossible to see his expression.
+
+“You… you always wanted to travel. See the world,” Edmund continued slowly. He swallowed. “You deserve to be happy.”
+
+Daphne felt tears stinging at the corners of her eyes. “You too,” she whispered fiercely. “You deserve to be happy too. And I’m sorry for—for leaving you with this mess. Putting all this on you.”
+
+Edmund laughed a little then. He pulled back just far enough to face Daphne, and below red-rimmed eyes, he was smiling. It was a little strained, a little awkward, but genuine.
+
+“I’ve been handling Bellhein affairs for a while now,” he said. “My father…” His voice trailed, and he swallowed, taking a moment to collect himself again. “At the very least, he didn’t leave me unprepared.”
+
+“You’ll be a great head,” Daphne said, and she meant it. She tightened her grip on his arms. “Listen, you don’t have to deal with this all alone. Let people help you. Harris, the garrison, the other nobles. I’m serious. You could sell the manor and live the rest of your life on a farm if that’s what makes you happy.”
+
+Edmund smiled at that. “I don’t know if I’d go that far,” he murmured, and Daphne laughed.
+
+“I’ll write letters,” she promised. “Every week. I’ll send souvenirs, too, until you get sick of them. That way, you’ll know what I’m up to, and—” Her next words caught, a heavy lump sitting in her throat. Both of them understood without needing to be told aloud. The dull throb in Daphne’s chest twinged.
+
+When the letters stop, you’ll know I’m dead.
+
+Edmund was the one to pull them in for a hug this time. Daphne reached a hand up and ruffled his hair, something she hadn’t done since they were children and he was still shorter than her. Since they were young and carefree and unweighed by the realities of the world.
+
+“Goodbye, Daphne,” Edmund whispered. Daphne squeezed tighter. She could feel tears soaking through her dress shoulder, and her own eyes shone.
+
+“Goodbye.”
+
+“I think this is far enough.”
+
+Pyre hummed, eyes casually scanning the area in question.
+
+After splitting from Daphne, she and Callan had continued through the forest, circling around the garrison grounds until they’d exited Magrath’s perimeter. Callan, paranoid as he was, had insisted they keep going a little further, and so they’d kept walking before finally stumbling into a small clearing surrounded by thick shrubs.
+
+The demon plopped down and leaned back against a tree trunk. She closed her eyes. Her whole body felt sluggish, though she could feel her [Regeneration] speeding up now that she was finally still. At this point, she just wanted her wounds to heal and to deal with the curse and all those notifications.
+
+When she opened her eyes again, she found Callan hovering a foot away, head turned in the direction of the city. He’d been doing that since they’d left the Bellhein grounds. She raised an eyebrow.
+
+“Missing Magrath already?” the demon drawled. Despite her ribbing, she’d found herself unconsciously glancing back at the manor and garrison a few times, too, though she couldn’t really say why.
+
+The ghost jumped and spun around, sputtering. “No, I just—”
+
+Before he could finish his sentence, Pyre felt a shift in the earth’s tremors. She was on her feet in an instant, injuries be damned, and stepped in front of Callan. Up ahead, the bushes rustled, the distinct smell of a human wafting over in the wind.
+
+Then, the shrubs parted, revealing a very familiar noble.
+
+Daphne had changed into a fresh set of traveling clothes, though the scratches and bruises from the battle were still there. On her back, she carried a huge bag stuffed to the brim with who knows what. There were twigs in her fiery hair and mud smearing her cheek, but her eyes lit up when she saw the two monsters standing in the clearing.
+
+Pyre’s eyebrows rose, and Callan’s eyes widened. Before either of them could ask what she was doing here, the human marched forward determinedly.
+
+“I’m coming with you,” she declared. Her voice left no room for argument, but the demon could see her hands tightening slightly around the bag straps.
+
+Pyre exchanged a look with Callan, an unspoken conversation passing between them. Beneath the shock, she could see a smile tugging at the corners of the ghost’s mouth. She snorted.
+
+Finally, the demon turned to face the waiting noble.
+
+“Be my guest,” she said simply.

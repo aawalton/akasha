@@ -1,0 +1,149 @@
+---
+id: bbf6e6b8-8305-59e8-a527-9b16f99a51a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32"
+slug: 0032-chapter-32
+partOf: emie-ascended
+position: 32
+ownLength: 1978
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3576441/chapter-32"
+royalRoadId: "3576441"
+---
+
+“Looks like the descriptions of the floor weren’t wrong,” Stephen said with a complicated expression.
+
+Since he’d joined our party, the reclusive archer had become a lot more open. He said it was because he finally felt comfortable and welcome amongst others, which I understood.
+
+“Yeah, this is definitely hilly grasslands,” Cora said with a frown. “I think I can see the next closest safe zone. It should be that clusters of trees off in the distance.”
+
+The twenty-first floor was estimated to be somewhere between ten and fifteen miles in diameter, with the boss at the center. It was easily traversable for a party in a single day, though most stuck to the perimeter until they were strong enough to defeat the stronger mobs closer to the center.
+
+Like the floors of the Realm Dungeon in Neohim, the weakest mobs stuck to the outer edges of the floor and grew stronger as one moved further inside. Everything was between level 200 and level 220, with the boss sitting at level 225.
+
+The next floor was supposed to be similar, though the levels ranged between 200 and 245, with the boss reportedly at level 250. It was also a grassland, and was supposed to be very similar to this floor.
+
+There were rumors that both floors now had hidden challenges – a variable that hadn’t been present in the dungeon prior to its evolution into an Ascender Dungeon.
+
+“The hills make it hard to tell, though,” Cora admitted as she squinted in the direction she’d indicated.
+
+“Do you want to head in that direction to find out?” Mike asked.
+
+“We might as well,” Cora said with a shrug. “We’d probably be wandering blindly, otherwise.”
+
+“I can teleport into the air and get a better view,” I offered.
+
+“Or I could shift into my mirror falcon form and recon a bit more covertly,” Stephen countered. “There’s no reason to draw attention to your ability to teleport, after all.”
+
+“It’s listed on my profile, so it’s not like it’s a secret,” I replied.
+
+After a bit of friendly back and forth, I conceded and let Stephen handle the information gathering. He hadn’t gotten to use his falcon form very often on the first twenty floors because of the layout, and I knew a part of him was itching to spread his wings and take to the skies.
+
+“I only saw two other parties,” Stephen informed us once he’d shifted back into his Dian form. “One was working their way around the floor. It looked like they were staying about two miles away from the boss, while the other group was actively fighting the boss itself.”
+
+“Did it look like they’d been here for a while?” Mike asked.
+
+Unlike beginner floors, where it was always morning when you entered a floor, only the first party to enter a particular instance was guaranteed to appear in the early morning.
+
+Looking at the false sun in the sky, it appeared to be either late morning or early afternoon. That meant at least a handful of hours had passed since the first group had entered, though it could have just as easily been days if there weren’t a lot of delvers heading to the floor.
+
+“It’s hard to tell,” Stephen answered. “I can watch both groups for a little while if you want more information before we explore the floor.”
+
+The Earth Magi shook his head. “No, there’s no need to do that. It was more curiosity than anything.”
+
+“Can we see your Void Bear form?” Cora asked Stephen.
+
+“Oh, and your other forms, too,” I added. “Your Mirror Falcon form was different this time than before. Maybe because of the evolution?”
+
+“Yeah. It’s stronger and faster than before. It’s still nowhere close to what it was before I ascended, but there is a definite improvement.”
+
+Stephen shifted back into the Mirror Falcon momentarily before moving on to his Mist Leopard form and testing his new limits.
+
+“We should all probably test our evolved skills before we start our hunt,” Mike suggested, like the responsible leader that he was.
+
+“We can take turns after Stephen is done,” Cora replied, though her eyes remained fixed on Stephen’s feline form. “I can’t believe the people of his old realm were afraid of a skill like this. They were all probably jealous.”
+
+“Are you?” I asked playfully as Stephen shifted into his Flame Herald form. It reminded me of a gryphon, but with a fiery mane and the ability to breathe fire.
+
+“Definitely,” the rogue answered without missing a beat. “If we ever acquire a shapeshifting skill, I absolutely want it.”
+
+After testing his Flame Herald form, Stephen shifted into a Voltmander, which was basically a salamander with a very strong lightning affinity. Cora was practically bouncing in place by the time he finally shifted into his newest form.
+
+“A Void Bear,” the rogue said breathily. “It’s like his fur soaks in the light.”
+
+Stephen let her get a good look at his new form before he stepped away to test its capabilities against a pair of grassy stalkers that had been hiding in the tall grass nearby.
+
+Mike’s ridiculously strong Earth Manipulation skill now allowed him to sense vibrations through the ground or anything connected to it, so finding the creatures had been easy for him.
+
+Seeing how effective the skill was made me miss my old Spatial Sense skill all the more, though I knew I’d need to either earn the skill as part of an evolution or find a skillbook for it.
+
+The reason for that was simple: such skills required specific physiological changes. Like Echolocation, Spatial Sense required a receptor of sorts – one that did not naturally occur within Dians.
+
+I had no doubt that Mike had received one as part of his evolutionary upgrade to let him process the feedback he now received from his Legendary Earth Manipulation skill, and it made a very small part of me jealous.
+
+Watching Stephen tear through the would-be ambush beasts, it was clear that he was deeply familiar with the form, though it seemed like he expected it to be capable of more.
+
+“If we ever get around to visiting Gremora, we should pick you up a Telepathy skill,” I told the shapeshifter when he returned to his Dian form.
+
+“I agree. There are also a few other dungeons that have been known to produce the skillbook, though not in the same quantities.”
+
+“You already looked into it?”
+
+“Of course. You’re not the only one who can research,” Stephen said with a grin. “The other dungeons aren’t Ascender Dungeons, though.”
+
+“That’s not necessarily a bad thing.”
+
+“Alright. I guess I’ll go next,” Cora said. Addressing Mike, she asked, “Can you point me in the direction of the closest mobs?”
+
+It took only a moment for the Earth Magi to respond. “There’s another pair of small creatures hiding in the grass about twenty meters that way. There is also something burrowing around that area, so be prepared for an attack from below.”
+
+With a nod, the rogue disappeared. It wasn’t a movement skill or anything. She literally disappeared from sight, which was a definite upgrade from the old version of her Stealth skill.
+
+“I’m guessing there’s a movement restriction?” I said, guessing that the rogue was still nearby.
+
+“Yeah,” her voice sounded from just a few feet away from her previous location. “I can’t move very fast, or it breaks the effect. I also can’t maintain it while I attack just yet.”
+
+There was slight movement in the grass as Cora made her way toward the hidden creatures, but it was nothing that would immediately stand out unless someone was paying attention.
+
+Because of the grass and rolling hills, I couldn’t quite see what happened when Cora engaged with the creatures. It made me a bit uncomfortable, but I trusted that the rogue was capable of holding her own against anything that might appear.
+
+My faith was not misplaced, and the rogue returned less than a minute later, holding a handful of iron bits and a piece of meat wrapped in a pelt. All of it went into my storage alongside the rest of the loot we’d collected during the delve.
+
+“I’ll go next, I guess,” I said.
+
+There was nothing left in the immediate vicinity of the safe zone, so we headed deeper into the floor in the opposite direction of the other party. We weren’t worried about any kind of conflict since we were confident in our abilities, but none of us felt like potentially fighting other people right after reaching official adulthood.
+
+“There’s a group of medium-sized creatures on the other side of that hill,” Mike said, pointing toward an incline about fifty meters away. “Based on what is reported to be present in the outer grasslands of the floor, they are probably hyenas.”
+
+I nodded in thanks. The hyenas on this floor were known to have skills that made healing more difficult and increased bleeding, but I already knew my healing skill was capable of handling any wounds that they might inflict.
+
+Even the unevolved version of the skill had been enough to deal with the wounds when delvers injured on this floor had come in for treatment.
+
+I activated Temporal Aura, noting the ease with which I could use the skill. It was so much less straining than Haste had been, which made sense considering my new aura skill was a core skill.
+
+The drop from 2.5x dilation to a mere double was significant enough to notice, but wasn’t hard to adapt to. The hyenas still looked like they were moving through molasses, making their attacks easy to avoid.
+
+I let a few swipes get close, just to test how Repulsion Aura’s passive worked in conjunction with Temporal Aura. I felt the skill flair as one set of claws came close, and the attack was redirected with little strain.
+
+I used a slightly strengthened Gust to push the mobs away from me, which barely seemed to affect the bronze-ranked beasts. The skill was followed by a wave of telekinetic power that did work. In fact, I was surprised at how much force the newly evolved skill was able to generate.
+
+With the creatures off-balance, I teleported around the small battlefield and swiftly defeated each one with a combination of Void Strikes and Ice Blades. Both were noticeably stronger than before.
+
+When the last creature fell, I released all of my active skills, letting my perceived time shift back to normal. The mental strain really hadn’t been bad at all.
+
+While my fight had felt pretty easy, Mike’s engagement with the next set of mobs showed just how overpowered his (Legendary) skill really was.
+
+“You know, it would probably take dozens of skills to accomplish what you are able to do with one,” I pointed out.
+
+The Earth Magi merely smiled and shrugged at my comment.
+
+Once our testing was complete, we broke into pairs – me with Stephen and Mike with Cora – and hunted along parallel paths. We stayed close enough to render aid if needed, but fought independently instead of as a larger party.
+
+It was something we’d started doing a few months earlier to make fights a little more challenging. On beginner floors, that meant we took turns fighting while the other pair provided oversight.
+
+Usually, I was paired with either Stephen or Mike since we all agreed it was better to keep one healer on oversight, but Cora and I occasionally got to fight together as well.
+
+We’d even vaguely discussed splitting the party since it was clear we really didn’t need to fight in such a large group outside of a few special situations, but ultimately, we decided to remain a single party.
+
+It was really more for the social aspect than anything, I felt.

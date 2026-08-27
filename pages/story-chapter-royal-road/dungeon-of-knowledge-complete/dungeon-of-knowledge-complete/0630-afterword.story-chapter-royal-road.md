@@ -1,0 +1,33 @@
+---
+id: f0d600c9-1a9b-5181-b6fc-c0890eac2d43
+page-type-slug: story-chapter-royal-road
+title: "Afterword"
+slug: 0630-afterword
+partOf: dungeon-of-knowledge-complete
+position: 630
+ownLength: 560
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187769/afterword"
+royalRoadId: "3187769"
+---
+
+A huge thank-you to all of you for your support – it has been a delight and an honor to write for you. A special thanks to everyone who left helpful comments, thoughts, corrections, and all the theory discussions in comments and on discord, or even just shared a quick ‘thanks for the chapter’ – I never imagined how much I would come to value your input, whether it be encouragement, laughing at a funny, or scratching my head and wondering how the heck that typo managed to sneak in there. Again. And, most importantly, thank you for reading – I hope you enjoyed it as much as I enjoyed writing!
+
+No project like this is a solo endeavor, and there are so many contributors I cannot hope to name everyone. Nevertheless, thank you to you all! A huge thank-you to my brother Marc who edited almost every word, I’ve learned so much about writing from you! Thanks to everyone who brainstormed ideas with me – particularly Gabrielle and Justin. And a huge thanks to all the authors I’ve met on discord who offered encouragement and support, my first author support group over at critrpg – you’re all awesome, and the many, many people willing to offer the shoutouts without which this story would never have seen the light of day. A special thank-you to Samantha for my first awesome review, long author chats, and for the awesome poems you wrote for more than two thirds of the chapters!
+
+I began this project in the middle of covid lockdown when I ran out of stuff I wanted to read and decided to try my hand at writing. I mean, how hard could it really be? Let’s just say, I threw away almost a million words before I wrote anything that made it into the final story. Since then, it has been just a little over two years of posting almost daily chapters, for a total of about 2.2 million words (yeah, you all read a lot!) Although this is my first book, and I was cautioned to not have too many expectations (I was told to expect haters and mean people handing out 0.5 star reviews, which, truth be told, did happen too), the interest and excitement it generated vastly exceeded my most ambitious hopes.
+
+So, what’s next?
+
+Ali and her friends will be getting some much-needed time to rest :) I do plan on exploring options to publish this story on Kindle Unlimited and Audible. If you’re interested in that, I’ll make an announcement on all the platforms I’ve published on so far: patreon, scribblehub, and royal road.
+
+I have started a new project, but it’s not ready for prime time yet. It is in a different world, with new characters. When I have something worth reading, I’ll post it first on patreon, so stay tuned.
+
+If you’d like to stay in touch and receive announcements, you can subscribe to the free tier on patreon for the earliest news. Alternatively, announcements will be posted on scribblehub and royal road – all you need to do is keep following the story. You could also follow me directly on those platforms if you don’t wish to keep your read list cluttered.
+
+Thanks for joining me on this ride.
+
+--Adrian
+
+P.S. There is a lighter after-credits scene following in a few minutes.

@@ -1,0 +1,217 @@
+---
+id: 1deaf17c-dc5e-58d7-8241-f7748d7faf83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: View from On High"
+slug: 0013-chapter-1-view-from-on-high
+partOf: ends-of-magic
+position: 13
+ownLength: 2679
+unit: words
+ownProgress: 2679
+publishedAt: 2024-07-18
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1722404/chapter-1-view-from-on-high"
+royalRoadId: "1722404"
+markedReadAt: "2026-06-29T20:07:41.159Z"
+---
+
+Nathan stood thousands of feet above the ground, thin air supporting his bare feet. The sky below him was still clouded with dust, though Badud had cleared enough of it that he could see the city of Giantsrest spread out beneath him.
+
+He was directly above the ruins of the Ascendent Academy. The building had been closer in size to a mountain than a piece of architecture - but no longer. Now it was a mound of gray rubble decorated with occasional fizzing sparks of the decorative magic that had once graced the heart and soul of Giantsrest.
+
+I shouldn’t be surprised it collapsed. Badud killed the ancient giant that powered the Academy, then I threw his black-hole spell into the center, and finally he tried to kill me with a divine artifact - with the Academy as the backstop.
+
+It looked like the building had mostly collapsed downwards. The zone of absolute destruction was relatively small, though a few larger stones had blazed trails of destruction as they rolled out into the city. The detonation of the shielding enchantment had done more damage, blowing out windows and crumpling smaller buildings halfway to the city walls.
+
+More worrying were the giant stone statues rampaging through the streets. Nathan’s enhanced vision picked out flashes of light as a trio of mages volleyed fireballs against a twenty foot tall stone statue sprinting towards them. The golem pirouetted between the spells and even the ones that struck home did no more than stagger it. Then the animated statue reached the mages, and the splashes of blood were visible from here.
+
+I think that probably started when I broke the control spell on the dungeon core.
+
+Everywhere Nathan looked, there was chaos. There couldn’t be more than a couple dozen statues loose in the city, but they rampaged freely. Their sudden appearance combined with the destruction of the Ascendent Academy had panicked the mages of the city badly enough that there was no sign of organized resistance. That was especially true since those expected to coordinate the resistance had been inside of the Academy. Another golem dug itself out of the rubble far below and raced into the city, seemingly eager to join the destruction.
+
+Nathan was unsure what to do next. He had come to Giantsrest to topple the Academy. By the look of the rubble that was all that remained, he’d accomplished his ambition. But now what?
+
+What Badud said was important. I need to leave this continent, get involved with the Questors. But reading deeper into his words - was Davrar created for the Questors, as a game? Am I inside some kind of game world right now?
+
+Nathan’s mind swirled. He wanted nothing more than to sprint back to Halsmet, take a nap and figure out what to do next. But looking down on the unfolding catastrophe below - he couldn’t just wash his hands of Giantsrest.
+
+Do I have a responsibility to these people?
+
+The city was built around roads that radiated out from what remained of the Ascendent Academy like the spokes of a wheel, the areas in between a mix of grand villas, prosperous urban neighborhoods and packed tenements. The golems were being indiscriminate in their destruction, and Nathan’s eyes narrowed as he saw a golem burst through a tall wall and enter into a packed maze of workshops and residences.
+
+He’d been in that very spot a little while ago, when he and Faline had snuck into the Chokiz estate to sow discord by assassinating Nol dho Chokiz and framing the Nails. But the golem wasn’t rampaging through the estate or the parkland around it. It was in the industrial part of the complex, where thousands of slaves lived and worked to make manufactured goods.
+
+I’m not here to save everybody. I came to Giantsrest to cast down the Academy, to break Giantsrest’s power. It’s not on me to save everybody and make something new from the rubble. But I can’t just leave when there’s such a clear way for me to save lives.
+
+Nathan stopped spending Stamina to hold himself up and fell out of the sky. He aimed himself towards the Golem who’d attracted his attention inside the Chokiz estate. At this point he was practiced enough with [Airwalk] to guide himself precisely through a freefall using an occasional sideways push. The wind of his descent against sensitive skin reminded him of another issue.
+
+I also need new pants. Badud’s last spell wasn’t any kinder to my clothes than it was to the Academy.
+
+The golem smashed its way into a workshop and moments later the building collapsed inwards, hiding it from Nathan’s view. He slowed down, waiting for his enemy to re-emerge so he could strike.
+
+Fast or slow?
+
+The rubble shifted before the Golem pulled its way free, head rotating mechanically to search for the next target. It locked onto a building across the street, and Nathan caught a glimpse of somebody slamming shutters closed to avoid its gaze. The golem tensed to pounce.
+
+Fast.
+
+Nathan stopped slowing himself down, letting gravity take hold as he flipped around for the last hundred feet of the descent. He impacted the golem with both feet, hitting it in the upper back with knees bent. Nathan’s legs protested at the force of the impact but his recent level-ups had improved the strength of all of his class skills. That included [Unarmored Resilience], which toughened his body when he wasn’t wearing armor.
+
+And I’m not wearing much of anything right now.
+
+His recent level-ups had also improved [Antimagic Momentum], and the spellwork in the golem fractured as Nathan’s strike smashed it to the ground. But that wasn’t enough to finish off the magical killing machine, and it started to push itself back up, uncaring of Nathan’s weight on its back.
+
+He slid down the stone torso wrapping his legs around its chest and yanking back on the golem’s neck even as his antimagic tore at the wizardry inside the golem. The golem stopped trying to get back up, instead reaching back towards Nathan with smooth precision. Then its limbs jerked as the damage he’d already done made some enchantments misfire.
+
+Nathan leapt away from the golem to evade its grasp, happy to gain some distance now that it was focused on him. He’d gained a lot of power in the last few fights, and it would only take seconds longer for his antimagic to cut the golem off from power, draining and sealing its artificial mana pool.
+
+The golem lunged once again, but Nathan dodged the strike easily. He kept the distance open until the stone statue slowed and froze mid-leap, toppling to the dirt street with a thud.
+
+Nathan walked over and poked the golem with his toe, then turned to the building that had attracted the golem’s attention. “Hey, anybody there?” There was no answer, but Nathan walked closer and reached out with his magical senses. There were several enchantments in the building, most feeling half-completed. But Nathan had broken thousands of slave collars in the last few months. There was another one just inside, attached to somebody hiding just below the window.
+
+Breaking that enchantment was automatic at this point, and once that was done Nathan knocked politely on the door. “You wouldn’t happen to have any spare pants, would you?”
+
+There was a moment of scrambling before the door opened to reveal a short older man with crude spectacles. He gaped at Nathan before rushing back into the building and leaving the door open.
+
+Nathan stepped inside and looked around, surprised by how well-maintained the space was. The house was tight and crude, with faded wood and rickety furniture, but everything was polished and clean. The workshop off to the side absolutely brimmed with handmade tools, and it looked like the man had been halfway through carving an intricate pattern into a spearhead to prepare it to hold an enchantment.
+
+The ex-slave himself was rooting through a set of drawers in the bedroom nearby. After a few seconds he found what he was looking for, turning with a set of baggy pants. Then he looked Nathan up and down, measuring his own five-foot frame against Nathan’s six and a half. Deft fingers undid the drawstring around the waist, then held them out.
+
+Nathan sighed as he took the clothes, sliding them on with a nod of thanks. They were still tight around the waist, and only reached partway down his shins. But at least now he wouldn’t be flashing everybody. “I’m going to protect this area from golems and mages, and free every slave here. Can you start organizing people somewhere in the open so I can break the control magic? I want some kind of local leadership set up.”
+
+The man’s face furrowed, and he felt at the metal-and-leather collar around his neck for a moment in confusion. Then his eyes lit up and he spoke in a voice rusty from long disuse. “The magic is broken?” He coughed a few times and rushed to his tools, reaching for a pair of shears and working them under the collar.
+
+“Get more slaves out of their houses and into somewhere central.” Nathan reiterated as he turned to go, though he wasn’t sure the man heard him. He walked out of the building, musing on how to get things moving quickly. He didn’t want to lead a slave revolt himself, but he certainly wanted to start one. That meant finding - and freeing - slaves who could take the leadership role.
+
+His eyes turned to the fallen building across the street, and Nathan couldn’t help himself. He used his magical senses to search the building for any more slavery enchantments, and found a pair of them buried under the rubble. With a shrug, he started digging into the rubble. The building was mostly wood, and with judicious applications of Stamina he was able to dig his way into the pile. The debris shifted, and Nathan leapt forward to catch it before it could fall far, throwing aside a heavy beam with a grunt.
+
+He found a man and woman huddled under what looked like a printing press, the lightly enchanted wooden frame protecting them from the weight above. He helped both of them out, breaking the enchantments on their collars as they clambered out before ripping the collars off with his bare hands.
+
+The two people looked at each other, the similar features on their faces shifting from terror into relief, then happiness as they embraced, before turning to Nathan as one. The man released a shaky breath. “The mage-breaker. You’re real.”
+
+Nathan almost rolled his eyes, but caught himself. For him, the battle had been won. He didn’t think there was anything Giantsrest could throw at him that he needed to be scared of. But he’d just completely upended the lives of the two people in front of him.
+
+My scale of reference is not the same as most people. But I also need to be careful of getting arrogant.
+
+“My name is Nathan Lark. What are your names?”
+
+The two looked at each other, and the woman spoke. “I’m Thia. This is my brother, Shong. We’re printers.” She raised an ink-stained hand as if in proof, then looked worriedly back at the ruined building. “That was our press.”
+
+Nathan nodded. “Nice to meet you. I’m overthrowing Giantsrest, and can free any slave I get close to. Can you get more slaves out of the buildings? I’ll protect the area until you can get organized and defend yourselves.”
+
+Shong turned back to his sister with scared eyes. “But the masters. The ways they kill slaves who escape the collars…”
+
+Thia touched her bare neck. “The collars are already off.”
+
+“The Academy is no more.” Nathan interjected. “The reign of Giantsrest is ended, and the mages don’t have the strength to hold you down anymore. I can free thousands of people, and the only question is what you decide to do. Will you rise up against your captors and fight until every slave is free, or flee to Halsmet, and Gemore beyond?”
+
+Both siblings traded a doubtful look. “We can try?” Thia said.
+
+Nathan sighed heavily, glancing between the brother and sister who seemed more terrified than inspired. “Ok, get started. I’ll go take a look around for any more golems, or mages.” He leapt back into the sky, shaking his head as he bounded upwards to get a better vantage point.
+
+Not everybody can be like Myrla. Or Suse. Where is Suse, after all? I hope she didn’t get crushed when the Academy collapsed. Along with Yelun, Hibor and Roni. I didn’t expect the Academy to collapse, but I also didn’t expect Badud to pull out such destructive spells. I think he considered the Academy lost after the Golem core was destroyed.
+
+Nathan grimaced as he thought about the death toll from the Academy’s collapse. Every single student was likely dead, along with their professors. They’d represented the next generation of Giantsrest, its future archmages, war mages and enslavement mages. But they’d also been schoolchildren who hadn’t yet committed evil deeds.
+
+Badud cast the spells that destroyed the Academy. My actions led to all of those deaths, but I’m not directly responsible for them.
+
+He closed his eyes for a moment, reflecting on the thought. He hadn’t destroyed the Academy, and if he’d had the choice to vaporize it then he would have looked for another way. That was precisely why he hadn’t taught Stella any nuclear Insights.
+
+But he had freed the enslaved magical intelligence at the heart of the Academy, and that had led directly to its destruction. Now rogue golems were killing people throughout the city. But that wasn’t his fault. He’d corrected an evil and caused another one, but Giantsrest had invited those consequences when they’d enslaved the last Giant and converted its dungeon into their Academy. Then Badud had accelerated everything by tossing a black hole spell at Nathan, then hit him with [The Last Arrows of Olita]. That was a spell that seemed designed to destroy armies.
+
+A shiver went through Nathan as he considered combat between Questors, where that kind of destruction was common. He would be engaging in more fighting like that, and didn’t want to end up the only survivor every time.
+
+Will I be able to protect the Heirs from that kind of attack in the future? Not with my current power. But my antimagic is already growing to cover a battlefield, and Khachi and Stella have some pretty formidable protections of their own. We’ll manage. I just hope they’re ready to come with me when I leave the continent. They’ll probably need to catch up with me in power.
+
+He’d reached a good height, so he looked around, keeping a careful eye out for any Golems. There were none visible in sight, just the sprawling tangle of workshops, warehouses, forges and tenements that made up the Chokiz industrial district. But coming down one of the streets that led to the estate was a small group of mages and slave-elites.
+
+As Nathan watched one of the slave-elites pointed up at Nathan before drawing back a bow and firing an arrow in his direction.
+
+Oh, my next target has volunteered. Nice of them.
+
+Permanent Talent 1: Arcane Nullfield 6
+
+Permanent Talent 2: Immortal Body 4
+
+Permanent Talent 3: Airwalking 7
+
+Class: Void of Magic level 517
+
+Deepened Stamina: 14696/15810
+
+Void of Feeling
+
+Antimagic Momentum
+
+Raging Thrill
+
+Implacable Inertia
+
+Unarmored Resilience
+
+Magic Anathema
+
+Airborne Agility
+
+Hand-to-hand Expertise
+
+Voluminous Aura
+
+Denial of Wizardry
+
+Mana Severance
+
+Class: Spellslayer level 379
+
+Regenerative Focus: 3613/3890
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Wizard’s Meditation 7
+
+Inspiration 3
+
+Acceleration 7
+
+Wizard’s Detection 5
+
+Alertness 8
+
+Wizard’s Understanding 6
+
+Effortless Dodge 6
+
+Mental Vault 1
+
+Tutoring 3
+
+Parkour 6
+
+Visibility Control 1
+
+High-tier Disguise 1
+
+Mid-tier Battle Cry 8
+
+High-tier Aura Manipulation 6

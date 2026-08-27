@@ -1,0 +1,201 @@
+---
+id: 124eb62f-0085-5323-8628-b36eab79c56f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22"
+slug: 0022-chapter-22
+partOf: emie-ascended
+position: 22
+ownLength: 2935
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3515786/chapter-22"
+royalRoadId: "3515786"
+---
+
+Something that had taken me a while to learn in the simulation about learning skills from skillbooks was that most magical skills could be somewhat guided when they were initially learned. A lot of it had to do with the person learning the skill’s intention and mental image of the skill.
+
+The user couldn’t completely change the function of a skill, but there was some flexibility built in to make using skills more intuitive.
+
+For Cora, it turned Arcane Blade – a skill that most used to create small, ranged blades – into something that she used as a melee weapon. I hoped to do something similar with Ice Blade, though I didn’t want the blades to manifest in my hands.
+
+I focused on what I wanted out of the skill as I activated the skillbook. My experience with Enchanting gave me an advantage in this, since firming my intent and visualizing effects was something I was quite familiar with.
+
+I wanted strong, adaptable blades that anchored to my weapons.
+
+I imagined a spearhead, then the head of a glaive. A short sword, then a serrated blade. Each I pictured made out of ice and growing from the weapons I most frequently used.
+
+For a Common skill – which is where almost every skillbook originated skill would start – I might have been reaching too far. But I hoped not.
+
+I felt the skill lock into place, filling my tenth general skill slot.
+
+“Well?” Cora asked.
+
+The fire was already burning merrily, indicating that I’d taken a bit longer than expected to learn the skill.
+
+“Let me test it,” I said, though I already knew the skill wasn’t quite as adaptable as I’d hoped.
+
+I pulled out a baton and activated the skill. A blade of ice appeared to literally grow from the wood, turning the blunt weapon into a bladed one.
+
+“That was what you were hoping for, right?”
+
+I dismissed the skill and tried to change the shape of the blade that manifested. I managed to make it a little thicker and longer, but the overall style didn’t change.
+
+“I wanted to be able to alter the blade more, but it will work for now.”
+
+I swapped the baton for a quarterstaff. It was still the same beginning quarterstaff I’d gotten at the start of the dungeon.
+
+Activating the skill, I watched as the same blade as before grew from the top quarter of the stave, turning it into something similar to a glaive. I dismissed the skill and tried to create a spearhead, but the result was just a smaller version of the original blade growing from the very tip of the weapon.
+
+At least I knew that I could attach the blade to the end instead of having it only grow from the side of the weapon. That would add a little versatility.
+
+“Maybe you’ll get that ability when the skill upgrades?” Cora hypothesized.
+
+“Hopefully,” I agreed, dismissing the skill once again. “Regardless, thanks for letting me have it. That’s one element down. Now I just need to get my hands on fire, air, and earth.”
+
+Realistically, I could probably skip fire since lightning, or rather, plasma, could do most of the same things. The only thing I’d really be losing is the concept of combustion, but I was certain that I could create similar effects with lightning.
+
+Maybe it would be better to swap out my plans to get a fire-based skill for a metal-based skill instead. I’d likely have a lot more uses for metal magic in Enchanting than I would for fire, considering the magics I already had access to.
+
+“Good. It was my first time making something like that since I ascended, so I wasn’t completely sure it would work like it was supposed to,” I told Stephen after he verified that the preservation artifact was working as intended.
+
+Mike, Cora, and I had spent two full days on the fourth floor, which had pushed me and Mike to level fifteen, while Cora lagged slightly behind at level fourteen. Stephen was just about keeping pace with our progress and had advanced to level eighteen during that time.
+
+“Can you make storage bags with expanded interiors?” Stephen asked. “You mentioned being able to reduce weight, but didn’t say anything about expanding storage space.”
+
+“I can. Is your inventory not large enough to fill your needs?”
+
+“I can manage with what I currently have, but I’d be able to stay in the dungeon longer if I had more storage. I figured if I put a storage bag in my pocket space, it should extend the amount I can carry by quite a bit.”
+
+“That’s true, but the preservation effect might not be able to handle the extra load, depending on how much space the bag contains,” I pointed out. “Also, if you were to get a dimensional storage item instead of one that just expanded space, the preservation effect wouldn’t work for it at all.”
+
+Stephen laughed lightly. “That’s good to know, but I doubt I’ll be able to afford something like that anytime soon. If it wasn’t for you practically giving me the preservation artifact, I wouldn’t have been able to afford that, either.”
+
+“So, what can you offer me for the storage bag, then?” I asked with a playful grin.
+
+The archer sighed. “All I can offer is more leatherwork. I have a passing familiarity with a few other crafts and professions, but nothing that I’ve slotted a skill for.”
+
+“Would you be willing to join my party for a delve?”
+
+Stephen’s expression darkened. “That doesn’t seem like a fair trade at all. Besides, I’ve already told you that I delve alone.”
+
+“Hey, no worries. I just thought I’d ask,” I said casually, trying to dispel some of the tension that had bloomed at my suggestion. “I know how lonely it gets, being isolated while you grind for levels. If you change your mind, let me know. I’m not asking you to join us permanently, just join us for a single delve. I think you might enjoy it.”
+
+Given his sudden shift in demeanor, it was clear that the archer really didn’t want to enter the dungeon alongside others. I wondered if he knew that most dungeons, including this one, started combining party instances after the first evolution.
+
+“I’ll keep that in mind,” Stephen replied, somewhat stiffly.
+
+He looked torn between finding an excuse to leave now that the purpose of his visit had been completed, or letting go of his discomfort and hanging out for a while.
+
+To make his decision a little easier, I pulled a plate of mixed sweet and savory snacks from storage.
+
+“Want one? I picked these up at a bakery nearby. I like to stock up on stuff like this since I don’t have to worry about anything going bad.”
+
+The archer carefully selected one of the sweet pastries and seemed to almost force himself to relax.
+
+“I should do something similar, now that I’ve verified that the preservation artifact works as it should.” He leaned back on the couch. “How did the bracers hold up?”
+
+“Good. I enchanted them with durability and self-repair, so I expect they’ll last me a while.”
+
+I could tell that he was interested in getting something similar for his armor, but after my last suggestion, he didn’t want to bring it up.
+
+“I meant to ask earlier, but can you make furniture?” I asked, thinking about some of the things we still hadn’t purchased for the sanctuary.
+
+“That’s not something I’ve got a lot of experience with,” Stephen admitted. “Sorry.”
+
+“It’s fine. I’m sure we can come up with something if you really want a storage bag.” After a moment of thought, I added, “Or some enchantments added to your armor.”
+
+Stephen actually seemed to flush a bit at having been seen through so easily.
+
+“You’ve made pretty good progress over the last week,” I said when the silence dragged out a bit too long for comfort.
+
+“You can see that? You must have some kind of inspection skill.”
+
+I nodded. “I do. Two of them, actually,” I admitted. “Herbalism is more of an information skill than an inspection skill, but the effect is pretty much the same. It provides a lot more information than the inspection skill does, though.”
+
+“Please don’t be offended by my comment, but that seems a bit wasteful,” he said before tilting his head and adding, “Unless you intend to spend this life as a crafter? I guess an Ascender wouldn’t necessarily need system skills to be an effective combatant, but with how limited skill slots are, it seems like a strange choice to make if you plan to continue progressing beyond the first evolution.”
+
+Since we were away from prying ears and I was really hoping to build some trust between the two of us, I decided to share a bit more about myself.
+
+“I’d rather this not get spread around, but I actually have quite a few skill slots.”
+
+“Quite a few, like ten? Eleven?” he asked before recoiling once he realized how invasive his question might seem.
+
+“It’s fine,” I assured him. “I have more than eleven, though I’d rather not give specifics.”
+
+Stephen pursed his lips in thought for a moment before coming to a conclusion. “You must have been the one to spark the evolution of the dungeon, then.”
+
+“That’s another thing I’d rather not be shared,” I told him. “I haven’t even told my party yet.”
+
+“So, at least twelve skill slots on top of your core skills. I can see why you’d feel like using a few for utility wouldn’t be a problem. I only have eight regular slots, though I have three core skills.”
+
+His having three core skills wasn’t a surprise since he’d shared that he had dual affinities prior to ascending. Somehow, I expected him to have more regular skill slots, though.
+
+Then again, I was pretty sure that Cora only had eight or nine regular skill slots, and she had dual affinities prior to ascending, too.
+
+I couldn’t be certain since neither Cora nor Mike had explicitly stated how many skill slots they had left, but the way they made it seem, they didn’t have many.
+
+“You didn’t have to share that, but I appreciate the trust,” I said.
+
+Stephen seemed to hesitate for a moment before coming to a decision.
+
+“I’m not sure why, but I do feel like I can trust you,” he said. “Maybe it’s because you trusted me with information you don’t want to spread first. Whatever the reason…”
+
+The archer hesitated before continuing, “I feel like I should explain a little bit about why I don’t like delving with others. I don’t want you to think it’s because of you or your party members, because it’s not.”
+
+Taking a shaky breath, Stephen explained that his Zoki affinity had given him the inherent ability to shapeshift into any animal that he was sufficiently familiar with. The ability allowed him to survive several encounters that would have otherwise led to his death.
+
+However, with Zoki being such a rare affinity – so rare that it wasn’t even tested for on most worlds – few knew that such abilities were even possible. Most only got the ability to communicate with animals and beasts. It took a very high affinity to grant someone the ability to actually shapeshift.
+
+Outside of a small tribe of druids on one of the more isolated planets of his former realm, only a handful of people had ever developed the capability to turn themselves into an animal.
+
+Those who discovered his ability thought he must have made some kind of dark pact to gain the power. Even in the hidden realm, he was viewed with suspicion, at best, when his secret was discovered.
+
+So, he’d isolated himself, only interacting with others when he absolutely needed to.
+
+As he grew stronger and progressed to new ‘hidden realms,’ fewer people were aware of his ability. He learned to present himself as a Tamer who preferred to hunt with his tamed beasts. It was not an uncommon path for those with an affinity for Zoki.
+
+As long as he kept his distance and avoided his secret getting out, he was able to visit and trade with those who lived in the cities that filled the safe zones at the center of each hidden realm.
+
+He still spent the vast majority of his time outside of the cities, mostly due to his tamed beasts, which were not allowed into the safe zones. But the deception gave him the ability to interact with others and become a peripheral part of the communities that had developed within the hidden realms.
+
+The more he talked, the more certain I was that the hidden realms he’d challenged were actually floors of a Realm Dungeon.
+
+Though he’d seemed pretty comfortable telling his story, Stephen’s demeanor shifted as he reached the conclusion.
+
+“So… When I ascended, I kept the ability to shapeshift. I can’t imagine losing the ability to shift into animal form after all this time, even if I’m limited to only two creatures for now.
+
+“Zeta – the representative who greeted me when I ascended – told me that there are others with a similar ability, but they’re mostly beastkin who ascended from other lower realms. We didn’t have beastkin in my realm, so I had no idea that such individuals existed.”
+
+I actually hadn’t read anything about former beastkin Ascenders in my research. It wasn’t that the information wasn’t there; I just hadn’t thought to look for it.
+
+It was interesting to find that former beastkin were offered the ability to shapeshift, and their dual nature was often treated as a separate affinity. Did that mean that a beastkin living in the lower realms couldn't have more than two affinities?
+
+I wondered if they got to choose which beast they could shift into when they ascended, or if they’d automatically gain access to a beast form similar to the one they were associated with in their previous realm.
+
+“Even knowing that my ability is not truly rare in this realm,” Stephen continued, “experience has taught me to be wary of exposing my beast forms to others. I’d hoped to find at least one other shapeshifter among our fellow Ascenders, but unless they have some way to hide what they are, there do not seem to be any present.
+
+“Zeta did mention that it was rare for beastkin to ascend to Dia, but I didn’t realize just how rare they were until I did a bit of digging through the information databases.”
+
+“I’m guessing they don’t appear often?”
+
+“No. There was a note that beastkin from feeder realms had the option of ascending to a realm other than Dia – one where shapeshifting is far more common than it is here. If I’d been given such an option, I would have likely taken it, so I can only assume that most of the others did the same.”
+
+He was probably right. I would have certainly opted to go somewhere that I wouldn’t be an outlier if I’d had the choice.
+
+“Well, I can assure you, I don’t see you any differently. I honestly doubt Cora or Mike would, either, though I’ll leave it up to you whether or not to share your skill with them.
+
+“If your ability to shapeshift is the only thing keeping you from joining us, I hope you’ll reconsider. Like I said, I’m not asking you to join our party permanently. For now, the offer is just to join us for a delve. We usually stay for a few days at a time, but we’ve been talking about extending that now that we’ve gotten a little more comfortable with all the changes.”
+
+“Do you go back to the safe zone each night?” Stephen asked. “I’ve heard that a lot of groups do that since they don’t want to risk camping between rooms.”
+
+“No, we have our own method of sleeping securely,” I said, not going into detail.
+
+If he decided to join us, I’d obviously tell him about my ‘sanctuary,’ but I wasn’t going to offer up any more about my skills otherwise. While I appreciated the trust that he placed in me by sharing his background, I didn’t feel the need to share everything about my skillset in response.
+
+“That’s good. I imagine having an Earth Magi in the party would make shelter construction a lot easier. I usually either run back to the safe zone when the light starts to dim or sleep in one of my beast forms. I’m very sensitive to changes in light while in beast form, so there is very little risk of me oversleeping and being attacked by the new spawns.”
+
+Stephen tapped his knee rhythmically as he nibbled on a steamed bun filled with savory meat. He barely seemed to enjoy the delicious treat, given how focused he was on his thoughts.
+
+After a few moments of silence, the archer said, “I’d be willing to try it. I’m not sure what kind of teammate I’d make, since I don’t have much experience working with others. But if you really don’t think my skill will cause an issue, I’d like to at least try working with your party.”
+
+Unable to suppress my smile, I said, “That’s great! And even if it turns out that you really do prefer delving on your own, it can’t hurt to build friendships. I really don’t think the shapeshifting thing is going to faze them.”

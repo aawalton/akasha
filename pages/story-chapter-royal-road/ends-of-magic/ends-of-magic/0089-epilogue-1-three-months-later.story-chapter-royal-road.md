@@ -1,0 +1,195 @@
+---
+id: 5991ab95-95e3-58f1-adb5-4a7eedf204bb
+page-type-slug: story-chapter-royal-road
+title: "Epilogue 1: Three Months Later"
+slug: 0089-epilogue-1-three-months-later
+partOf: ends-of-magic
+position: 89
+ownLength: 4289
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3296170/epilogue-1-three-months-later"
+royalRoadId: "3296170"
+---
+
+“I don’t think it will be so changed,” Aarl said. “We haven’t been gone so long, and Litcliff looked as it did before. Well, accounting for the rebuilding.”
+
+“They would not mimic any changes in Gemore,” Khachi said. “Not after the mark we left on the city. But I approved of the new rulers. It seems a more welcoming city than the one we left.”
+
+“Or just more terrified,” Sarah suggested with an amused tone. “They knew who we were.”
+
+Stella chuckled, but she addressed Aarl. “Hear me, Gemore will be very different. You’re not accounting for the magnitude of the Insights we left behind. I’m expecting walls of metal and towers of lightning. Guns the size of stalkers and alchemical tanks the size of houses.”
+
+Aarl shook his head. “In time, yes. But it hasn’t even been a year. We’re going to get home right before the solstice.”
+
+“Assuming there is one,” Sarah said darkly. “We don’t know if the solstices have been changed. Failing to defend the seal is how the blights start. I don’t know how those will change after what happened at the conclave."
+
+They all fell silent at the familiar wound that was Nathan’s absence. With time and distance it was no longer raw, and the Questors had reassured them that he’d succeeded. Davrar was different now, in ways too grand to be easily seen. But whatever “uploading his consciousness” meant, it hadn’t obviously changed Davrar’s behavior. They had seen no sign of their friend since that day in the conclave when he’d dissolved into nothing.
+
+They travelled towards Gemore, moving much faster than on their outward journey so many months before. It had taken them days to reach the coast from Gemore. Now it took them hours to make the return trip borne on Stella’s winds.
+
+“Lots of craters,” the mage remarked, pointing down at a battlefield. It looked like there had once been a dungeon down there, but now it was a pile of shattered rock surrounded by a field of craters.
+
+“Do you think…?” Aarl started, but Sarah interrupted him.
+
+“Smoke,” the sniper said, pointing ahead in the direction of distant Gemore. Old Gemore wasn’t even in sight yet, much less the settlement at its heart, but there was a tiny smudge on the horizon that Sarah's enhanced vision had classified as a pillar of smoke.
+
+“Let speed find our steps,” Khachi chanted, the golden light that always spilled from him growing in intensity. But Sarah spoke again before he could continue the prayer. She’d looked down the length of her rifle, using her skills to get a greater magnification. "False target. It’s fires of industry, not fires of destruction. Dragon’s breath, that's a lot of industry. I think Stella wins the bet.”
+
+“Ha!” she crowed. “By the dawn’s light, I’m glad to hear it.”
+
+“No need to slow down,” Aarl said. “My heart will be glad to be home.”
+
+The Heirs passed over the ruins of old Gemore, not bothering to land to take the spatially compressed transit roads. They could now fly at similar speeds, and being in the air gave them better sightlines. “More craters,” Sarah remarked. “Look, the rubble around the transit roads is cleared. This looks like a battlefield for wizards.”
+
+“Small wizards, perhaps,” Stella said smugly. “My craters are a fair bit larger.”
+
+“The placement is more important than the size,” Aarl said, continuing a long-running joke.
+
+Khachi groaned. “I never thought Nathan a great wit, but our jokes were better when he was here.”
+
+It wasn’t long before the city itself was visible to the unenhanced eye, and it was certainly different than they’d left it. The old walls had been tall stone constructions at the bottom of the mountain, the final line of defense in the heart of Old Gemore. Since Gemore’s founding, they’d been further enlarged with scavenged stone. But that wall had been dismantled at some point in the recent past, replaced by a new one farther out. But contrary to Stella’s prediction, it wasn’t a shining wall of metal. It had metal support pillars and watchtowers, but the bulk was still composed of ancient stone blocks. Extending from the top of each tower was a metal spike that occasionally sparked with electricity.
+
+“It’s close enough. Stella still claims victory,” Khachi declared. Aarl huffed, though he couldn’t really disagree. He’d predicted that all of the changes of Gemore would be smaller in scale, new classes and new weapons, not entirely new construction.
+
+The Heirs didn’t feel like testing if those sparking towers could hit air targets, and landed at the front gate. Something else that was new was a line. It appeared that one place Gemore had decided to be conservative with was the thorough checks for parasites, cursed items, and undue mental effects that happened at the front gate. But there’d never been enough traffic in the past to cause problems.
+
+But that appeared to have changed, and the Heirs joined four other parties waiting to enter Gemore. The people being checked out right now looked like they were from one of the villages, though they carried guns of a new design. The second group was from the empire of Agmon across the sea of grass, a group of genteel orcs dressed in fine clothing and guarded by a set of dour legionaries. The third group was an Adventuring party from Gemore itself, also mostly carrying guns, though one of them seemed to be wearing a steam-powered armored suit that towered nearly fifteen feet tall. Then the final group was from Giantsrest or Halsmet, with some of the group dressed in the unmistakable black armor that had once marked the slave-elites of Giantsrest.
+
+Most of the parties recognized the Heirs, cheering as they came in for a landing with “Hail the Heirs!”, “Giant’s blood, they’re back!”, and other similar words. Each of the groups made their greetings, and the Heirs exchanged them happily, recognizing some fellow adventurers from their same training crop. Aarl knew some of the slave-elites, having worked with them in Halsmet. They were here as part of a regular trade route across the mountains, which mostly consisted of enchanted items coming from Giantsrest and manufactured goods flowing back.
+
+The delegation from Agmon eyed the Heirs with uncertainty, and almost objected when the other parties ushered them through to the head of the line. But their attention lingered on the openly displayed artifacts each of the Heirs carried, as well as the other markers of extremely high level. Like Stella’s faintly glowing eyes, Khachi’s ever-present glow, or the way that Sarah and Aarl’s every move was supernaturally fluid.
+
+The guards sized them up, and the leader sighed. “Anything I should be concerned about?” She addressed the question to Khachi.
+
+“I swear on my power that we are not ensorceled, cursed, or possessed in any relevant way. We have several magical items of vast destructive power, but our own personal power is also sufficient to destroy the city, so I do not think them exceptional.”
+
+The normally unperturbable guards were certainly perturbed by that statement, but they waved the Heirs through regardless. “You know better than to sell anything like that. We’ve sent messages up the hill. Head straight to the council. They’ll be ready for you as long as you don’t run.”
+
+The Heirs thanked the guards, bid farewell to the other Adventurers, and entered the city they’d travelled to the ends of Davrar to protect.
+
+“It seems smaller than before,” Aarl said.
+
+Khachi nodded. “Indeed, but it is still home. I hope that we can guide Gemore to its own end, to rival those great metropolises while maintaining its inherent nature.”
+
+Aarl snorted. “I meant the wall. It’s not nearly as thick as the old one.”
+
+The Heirs came out into the city of Gemore proper and stared around at the new construction. The construction of the new wall had granted the city some extra real estate, and it was all filled with new construction in a style that used a lot of metal, including some large, boxlike structures that appeared to be entirely made of rolled steel plates. This was where all the smoke was coming from, pumped through large smokestacks that released the fumes high into the air. There were air enchantments up there to channel the pollution up and away from the city, leaving the fitted stone streets shaded but remarkably clean.
+
+“Huh,” was all Stella said as she watched a large carriage trundle by, loaded with huge metal plates. It was driven by some kind of bucking steam engine, closely watched by the driver who occasionally smacked it with a wrench. “This is more than I expected.”
+
+A sardonic new voice called out to them. “An encroaching Ending encourages adoption of novel Insights. You left us with a dungeon of them.” The speaker was Sudraiel, looking older than ever as she limped down the street supported by her spear. The guildmistress of the Gemore Adventurer’s Guild had always been old, but it looked like the last year had been hard on her, with the liver spots large on sunken skin. She gave them a quick once-over, frowning. “Nathan?”
+
+She winced at Khachi’s shaken head. “Ah, that’s a surprise. My bones said he’d survive the Ending itself. But you went on a quest that most would call a prophecy of death. That you come back at all is a welcome light.” She jerked her head back up the mountain that served as the foundation of Gemore. “Come, the council is assembling.”
+
+“He did what none of us could -” Stella started, but Sudraiel waved a hand to interrupt her.
+
+“Don’t tell this story twice. Let me describe what you’ve returned to. Gemore is much changed since you left, and I thought I could be a fine guide.”
+
+“When did you enlarge the walls?” Sarah asked, accepting Sudraiel’s change of subject and joining the old woman as she strode unevenly into Gemore.
+
+“Not long after you left, we realized that applying all of the new Insights from that book of yours was going to require a lot of new construction. So we built the new steelmill outside of the walls and used the first few runs to build the new ones, using the stone from the old walls. Now we’ve got a few dozen mages with metal mana, and they can assemble a building in days if the material is provided. Halsmet is eager to provide ore in return for food, and the influx of dimensional bags from Giantsrest is making the logistics easy.” She gestured around as they walked, naming a few buildings as they passed them. “The steelmill is over there. The monsters have also been less aggressive, the last few months.”
+
+The steelmill was an agglomeration of buildings that looked like it had been expanded again and again, and carried no less than four massive smokestacks. Sudraiel explained it with a practiced patter. “It’s as much magic as it is metal. Fire enchantments for the forges, air magic to ensure the bessemer works well, charcoal for carbonizing the metal.” She sighed. “I know more about metal than I ever meant to learn.” Then she gestured to the next building over, which looked ike it had been blown up and repaired several times. “The experimental workshop.” She said it with the tone you use to describe a monster that devours children.
+
+“I swear doom on those fools and the demands of their experiments. River mud to improve tempering, bluestone and Edrani construct wreckage for new alloys. They’re using electricity mana for arc-forging now.” Sudraiel shook her head in exasperation. “But they invented the new armored suits, and the leveling speeds of those inside are blasphemous. They’re burned by their own fire often, but every day the dawn falls on new Insights. I always imagined my Archive as a hallowed place, with young adventurers coming to learn secrets of magic and martial prowess in quiet contemplation. But now it's a place for arguments over elemental composition and engine pressure tolerances.”
+
+She indicated the next building over, which was dominated by tall metal tanks. “The chemical works. Poppy is happy, and he’s got his own brace of students.”
+
+“What are they making?” Sarah asked, suddenly interested. “Gunpowder?”
+
+Sudraiel scoffed. “We have a new edge to hold now. Some months ago he perfected a recipe similar to what Nathan named cordite, and we make it in massive amounts. We use it to crack annoying dungeons, but Halsmet wants every pound for mining.”
+
+Khachi seemed worried by all of this. “We named several worries in our book. Things that could cause problems. I worry at the cost of such rapid change.”
+
+“Ah, it’s as if you’ve listened in on the council meetings,” Sudraiel said dryly. “Yes, we debate it daily. But houses are built, monsters are killed, and all thrive on the bounty. We require that people do not inflict their costs on others. It’s a dungeon of fools, but it hasn’t been so bad thus far. There’s a waste heap out in the ruins of the city that worries me, but I keep being reminded that we can just have Archmage Hibril disintegrate it if necessary.”
+
+Stella blinked in surprise. “He ended up here? That archmage that Nathan crippled?”
+
+“He did, and he brought the entire town of Azamar with him. They arrived not long after you left. Half left for the villages, but the rest built their own homes over hence.” She gestured towards a tall set of buildings built into the mountainside, steel jutting from the stone and faced with glass. “They’ve brought incredible glasswork to us, and Hibril teaches classes on every aspect of magic.” Sudraie cocked an eyebrow at Stella. “Your parents are farting ice about it, but they’re not going to deny the Insights of an archmage.”
+
+“It’s quite a tally of deeds,” Aarl said, marveling at all of the activity and change. “At this rate, you’d have beaten the Ending on your own.”
+
+Sudraiel caught his turn of phrase and hissed out a surprised breath. But instead of following up, her smile turned down. “Don’t foresee the dawn. You handed us a tome of Insights that brought us here in a frantic year of building. But all of the easy treasure is picked. The last few months have been slower, and the future will be slower still. We are a town of engineers working on inherited knowledge, not scientists discovering things anew. People venture into the realm of the unknown, but rarely find success. There are passages in the Liber Physicae that nobody understands, and we have a list of questions for Nathan that would make a book of their own.” She pursed her lips and sighed, obviously lamenting that Nathan wouldn’t be returning to provide answers.
+
+“We could help,” Stella offered tentatively. “We did help write it, and probably have a better basis than most.”
+
+“Of course,” Sudraiel said, waving her hand in acknowledgement. “We welcome you home for many reasons. I’m sure your parents will be glad to have you.”
+
+The Heirs looked around at each other, seeming to suddenly remember they were about to see their parents again and weren’t sure if they were excited or scared. Khachi answered diplomatically. “The council first?”
+
+“As your flame calls,” Sudraiel said with a faint smile, the butt of her spear ringing against the cobbles as she led them onwards.
+
+The rumors of their return had flown ahead of them, and a crowd gathered on the road. It split before them, nobody wanting to get in the way of the guildmistress or the Heirs. The people seemed torn between cheering and yelling questions, but no one was brave enough to ask. Eventually, a grizzled old adventurer rolled his eyes. “What of the Ending? Did you fulfill your Oath?”
+
+The crowd quieted, waiting for the Heirs' answer. Khachi opened his mouth to respond, but Sudraiel cut him off, yelling back at the speaker. “Delric, that’s poor aim! They’ll tell their story to the council, and then we’ll tell you. Don’t make them repeat this story half a hundred times. Follow along if you want to hear it first.” The crowd muttered at that, but there wasn’t any more yelling as the people fell in behind them. The Heirs climbed the hill towards the council hall and the peak of Gemore, trailing a growing crowd as seemingly the entire population of Gemore spilled out to learn what their fate held in store for them.
+
+Before the Heirs could get to the council chamber, a small group rushed out of a side street and stood in their path, looming above the Heirs on the steep road. The Heirs walked up to stand before them. The two sides studied each other before closing into a series of tight embraces.
+
+“It gladdens my heart to have you back,” Kullal declared, enfolding Stella like she never wanted to let her daughter go. The slim foxfolk rubbed her cheek against her daughter’s for a moment. Her husband stood to the side, the spry old man watching indulgently and running a hand through his beard. He surveyed the Heirs and commented on their gear. “It seems you have not flagged in your journeys. Your weapons thrum with magic.”
+
+Stella coughed out a laugh, wiping her eyes as she cleared her throat and extricated herself from the hug. “Magic and more than magic. We have so much to tell you. So many Insights -”
+
+“ - of power,” Kia said, staring wide-eyed at Khachi. She was the only one not to embrace her child, seemingly stunned by the very sight of her adopted son. “What have you done?”
+
+Khachi smiled at her, teeth flashing as the radiant dawn. “I learned the secret that broke the pantheon, and stole a godhead for my own.”
+
+Stanel had an arm around each of his children, leaning most of his weight upon their bulk. “Ah, you all can keep the world-breaking Insights. I’ve got all I need right here,” he squeezed Sarah and Aarl, who rolled their eyes identically.
+
+“Don’t worry, we’ve got some world-breaking power of our own,” Aarl replied dryly, though he didn’t shake his father off.
+
+“This is a kindly showing, but I think you're going to smother our fire if you don’t let the Heirs get to the council and make their report,” Sudraiel prompted.
+
+“Lead on, conquering heroes!” Stanel cried, pushing his kids up the hill and walking along behind them. “So, kill any Questors?”
+
+“A few,” Sarah joked. “Stella got more than I did.”
+
+“Stella!” Kullal half-yelled, shock and fear coloring her voice.
+
+“It was a team effort,” Stella replied with her head held high, though she walked faster as her mother fumed and fretted behind her.
+
+“They will tell their story, and we will listen,” Kia said calmly, though her eyes bored a hole in Khachi’s back.
+
+The doors to the council building were open, and the hallways were clear for the Heirs as they walked through the space until they reached the central chamber that was the administrative heart of Gemore. Sudraiel took her place behind a curved stone table, filling out the seven guildmasters that represented the seven guilds of Gemore.
+
+Herdin nodded down at them, the old woman’s white dreadlocks bobbing with the motion. “You have returned. Mostly. Tell us what has occurred since the last time you stood before us. We all await your words with bated breath.” Her gesture encompassed everyone in the chamber and included those crowding in from outside. There was no way that all of Gemore could fit in this chamber, but it looked like they were going to give it a solid try.
+
+“We first journeyed to the city of Keihonia, to find Questors who would speak with us,” Khachi started, his voice deep and sonorous as he fell into telling the story.
+
+“By way of burning half of Litcliff to the ground,” groused one of the councilors, but every single person in the room turned their glares on him. He shut up.
+
+“We asked the Questors how to stop the Endings, and they told us,” Khachi said, glowing like a soft beacon in the large room. “We had to earn the attention of the society of Questors at large, and then they could together enact a ritual where we could attempt our change. We embarked on three deeds to earn this right. First was Esebus, an entire continent under the tyranny of a city like Giantsrest. We killed the Questors that ruled it, and completed the first deed.” Khachi spoke bluntly, and the audience chuckled or shook their heads at such a thing being said so simply.
+
+“Then we went to a Blight, the result of a corrupted Seal. It is an entire land turned into a woken grave of Quaz. Nathan purified it of that taint, and we moved to the third deed.” He could see there were many questions, especially regarding the absent Nathan.
+
+“Finally, we participated in a war of Questors. We sided in one of their conflicts to gain necessary allies.” Khachi pursed his lips, considering how to tell the story. “We annihilated them.” The comment prompted a series of confused expressions. Most people hadn’t even met a Questor or seen one in action, only heard vague stories of them as powerful heroes who occasionally dropped by. But those in the know, the council, the veteran Adventurers, the Guardians of Gemore, they all looked at the Heirs in a new light. They’d previously seen them as powerful people returning home from a long journey and were happy to welcome them back into the fold of Gemore. But now they saw the Heirs as the kind of power that could break empires.
+
+Khachi wasn’t done telling the story, though everybody knew he was skipping over vast amounts of detail. “Then, with the support of the Questors, we began the ritual to change the nature of Davrar. I am bound to silence on the details, but it was successful. Nathan sacrificed himself, merging with Davrar to stop the Endings. He also stated his intention to end mind magic, make monsters less aggressive, and curtail the harm of dungeons.” Khachi nodded in satisfaction and closed his mouth with a snap to signal the end of the tale.
+
+There was a moment of stunned silence as everybody tried to parse what he’d just said. It was so far beyond everything they had context for that it just didn’t make sense. That lasted for a heartbeat, then half the crowd tried to talk all at once. The hubbub lasted for a few seconds until Sudraiel slammed her palms down on her desk with a crack of thunder.
+
+“Silence!” She glared around at the crowd packed into the room. “This is council business. The council speaks, the Heirs speak. Nobody else speaks, not even as a game.” She turned furious eyes on the Heirs, and they grew confused again. “Nathan merged with Davrar? What does that mean?”
+
+Sarah answered, raising her hands in a shrug. “We don’t truly understand it. But his sacrifice changed the deep truths of Davrar. Mental magic can be resisted now, and the Questors tell us that the Endings are no more.”
+
+“No Endings?” Sudraiel shook her head, still trying to wrap her head around the concept. “We saw the monsters and dungeons behaving oddly. But weakened mental magic? No dungeons? Speak everything you know.”
+
+Khachi nodded deeply. “Much is left mysterious, even to us. The Endings will be replaced by new events that will not bring destruction to the lands but will bring new magics. Monsters have gained the needs of normal creatures and lost much of their unthinking aggression. But without such pressures, we expect conflicts between nations.” He continued to lay out some of the details he could tell them, and what the Heirs had learned by talking to Questors and their own experimentation. The other Heirs chipped in at various points, trying to explain what they knew and what they didn’t. There was a lot that was just unknown to anybody, and depended on exactly how Nathan had integrated into Davrar and what changes would spill forth from that.
+
+Or, as Sarya put it, “By Edes, we just need to see what will come.”
+
+Much later, once the story had been told again in more detail and the subsequent party lasted through the night, the Heirs sat in the garden outside the mansion Stella had grown up in. Their parents were giving them some time alone, Kullal having sensed that the Heirs needed a moment. It was nearly dawn.
+
+“We accomplished our Oath,” Stella said. “We ended the Endings.”
+
+“Nathan ended the Endings,” Sarah replied, a note of bitterness in her voice. “We helped.”
+
+“He would have failed without us,” Aarl said. “Any one of us. We share this victory, though he bore the cost.”
+
+The sun revealed itself in the sky, bright light shining down on the Heirs and illuminating Gemore below them. Khachi raised his glass of the sticky drink that Nathan had adored. “A cheer for Nathan Lark, Antimage, Adventurer, Assassin, Ascendant. The most moral man I have ever known. If it were to be anybody, it is good that it was him.”
+
+The rest of the Heirs raised their glasses in wordless agreement, then tossed them back in a single motion and just sat in the sun of the new world. A blue box appeared before each of them.
+
+"That's new," Stella said, blinking at the box in surprise.
+
+"I bet stalker teeth to dragon bones that it's from Nathan," Sarah replied with a vicious grin.

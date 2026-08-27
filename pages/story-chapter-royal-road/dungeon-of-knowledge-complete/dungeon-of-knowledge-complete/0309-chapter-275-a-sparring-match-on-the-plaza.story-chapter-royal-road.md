@@ -1,0 +1,93 @@
+---
+id: 81bfaf9c-b158-5181-8a11-27886d6e0647
+page-type-slug: story-chapter-royal-road
+title: "Chapter 275: A Sparring Match on the Plaza"
+slug: 0309-chapter-275-a-sparring-match-on-the-plaza
+partOf: dungeon-of-knowledge-complete
+position: 309
+ownLength: 1970
+unit: words
+ownProgress: 1970
+publishedAt: 2025-06-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2345354/chapter-275-a-sparring-match-on-the-plaza"
+royalRoadId: "2345354"
+markedReadAt: "2026-06-29T20:21:45.853Z"
+---
+
+Mato’s mind drifted, but it wasn’t the drifting of inattention. The presence of the grand tree spread far and wide, emphasizing a diffused awareness that understood and experienced broadly, rather than the focused awareness of animals and humanoids, clutching to their petty goals and purposes – well, to concerns that in the ambit of this vast sentience, seemed of far lesser importance.
+
+He found it to be a rather refreshing perspective, somehow knowing he sought it out for the same reasons Malika sought the serenity of meditation. Some truths grew clearer when one took a step back and looked with new eyes.
+
+And what did he learn? It was hard to say precisely. It was more that learning was a thing his mind did, and he could just allow it to happen while he floated in the broad awareness of Lira’s Elder Tree. He absorbed the abiding sense of life and balance while her mana mingled with his own – and the strange, supporting structure of Ali’s domain remained ever-present in the background, pushing a constant trickle of experience and combat knowledge into his mastery skill.
+
+Arboreal Sanctuary has reached level 45 (+2).Rampant Growth has reached level 23.Bestial Combat has reached level 44.
+
+Mental laughter trickled through his being. Yes, he was learning but, unlike Calen, he had no idea how. He settled deeper into the sensation, opening himself to receive more. It was good, necessary and altogether humbling.
+
+Ali glanced at her notebook again, but she had run out of ideas. She had finished copying every last book Ryn had brought, but instead of the weeks she had expected, it hadn’t taken much more than two hours. What she hadn’t realized was that with Grimoire of Summoning having Arcane, Nature, and Knowledge traits, it was benefiting from the spell haste from Arcane Recall, her Ancient Arcanist evolution path, and even the haste from her equipment. Furthermore, Spell Power appeared to accelerate the summoning of her Grimoire while Mana Control dramatically improved the precision of her customization – and all the trait power enhancements stacked. It was also an intelligence skill, of which she had over nine hundred now. All of this conspired to produce a skill reborn – her Grimoire was larger, brighter, and produced summons much faster. It would take some time to get used to the changes.
+
+Staring up at her from the page of her notebook was a list of the most important advances she had earned during her evolution. Under each one, she had made several notes on how she might use them, or at least test them out when she had the chance. Domain range improvements for Deconstruction and Arcane Insight were straightforward; the first had been intuitive, and the second had been blasting her in the face for several hours but seemed to be growing more and more manageable as she got used to it. Distracting herself with chores like copying books for the library had certainly helped her adjust to the overwhelming passive skill advancement.
+
+The option to use bosses to boost her attributes via Empowered Summoner was a huge upgrade. She could make bosses with the proper attribute enhancement domain magic and then never have to worry about how far away they were – or if she would cause a riot by bringing that monster on a stroll through town. There were several notable drawbacks, however. For one thing, Raid Domain Enhancement multiplied the mana reservation costs by a factor of ten and she would need a high-level minion if she wanted to take full advantage of the attribute boost. It was highly unlikely that she could afford every possible combination.
+
+And what if an adventurer group kills it while I’m fighting? The best solution she could think of would be to make two of each attribute and switch if one was killed, but that would get expensive fast. Although she had gained an enormous increase to her mana pool from her domain improvements, it was nowhere near infinite. A maximum-level boss monster would cost over four thousand three hundred mana, and her only recourse seemed to be gaining class levels or growing Domain Mastery to make her skills more efficient. It was on her list already. Number twenty-one. Huh. Calen would be proud of me.
+
+Speaking of Domain Mastery, she now had the major task of planting enough of each mana affinity plant to expand her shrine’s capabilities. Hopefully, she could get enough of the common affinities that the next round of class applicants had a decent set of choices available to them.
+
+They’ve always been happy with even the chance for a latent affinity, Ali reminded herself. Anything she did to improve the breadth of choice would be more icing on the cake.
+
+Arcane Insight’s new Disruption was very exciting, and she couldn’t wait to do some extensive testing with that. Maybe I can ask Vivian if I can borrow some guild mages for practice? Her skill required her to learn the spells she wished to disrupt, so studying the most common attack spells immediately was a priority. Her cursory testing with her Hellfire Imps and Fire Mages was promising. She rubbed her chin as she reviewed her notes. Very promising indeed.
+
+But it was Martial Insight and Sage of Learning that had her stumped. These two skills appeared to have received the most disruptive changes – for entirely different reasons – and she needed to figure out how to use them effectively. Especially this Domain Tithe. Just entering her dungeon advertised an easier path to skill growth and word was going to travel fast. If she wasn’t prepared, she might find herself swamped.
+
+The answer must be Minion Ego. Instinctively she knew that her answers would come from Martial Insight and the ability to level her minions up. If only she could figure out how to do it efficiently – none of her testing had provided more insights than the obvious. She couldn’t level anything against her own minions. It was, she supposed, like trying to advance your martial arts by punching yourself in the face. Perhaps I should have a chat with Naia?
+
+“Hey, Ali, do you have a few moments?” Malika asked, interrupting Ali’s ruminations. There was a light sheen of sweat on her brow from the drills she had been practicing now that Ali didn’t require her healing every thirty seconds.
+
+“Sure, what’s up?” Ali asked, welcoming a fresh distraction and trying to figure out the unusual expression on her friend’s face. Is that curiosity? Boredom? No, I think she just got an idea and doesn’t know if it’s good.
+
+“Can you make a monster for me to spar with?” Malika asked. Then she paused and Ali could tell she had more to say. “I was thinking about your new dungeon tithe thing… I want to see if I can use it to improve my Martial Artist skill – it’s a Mastery, and it takes a lot of work to level up.”
+
+“That’s not a bad idea,” Ali said, considering it carefully. She had just been wondering how to test her Sage of Learning and the Domain Tithe, and while she didn’t know if Malika’s approach would shed any light on the subject, it was something she would need to test anyway.
+
+“Do you think it will work?” Malika asked, some cautious, repressed excitement leaking out in the energy of her hands and eyes.
+
+“I don’t see why not; I got a skill level in Reading from Ryn,” Ali answered.
+
+“Oh, nice!”
+
+“Let’s go to the plaza. What would you like to fight?” Ali asked, getting up and leading Malika out of the library. Too many people were still studying inside, and this was likely to be a noisy endeavor.
+
+“Good idea,” Malika said, glancing across the study tables and following her out through the massive doors.
+
+The light in the ruined city was still rather dim given that Ali hadn’t done much with this space other than giving her Moss Creepers and Spore Spreaders free rein to fill it with her domain. The moss and glowing arcane mushrooms lent the ruins a mystical vibe; an illuminated-from-below look that seemed rather haunting. They stopped on a relatively clear stretch of flagstones, a spot not too far from where once Ali had cowered while Armand fought off skeletons.
+
+“What about one of those Bone Warrior Trolls?” Malika asked, limbering up with bounces on the balls of her feet in anticipation – not that she seemed to need it after all her drills – but it seemed like a habit of hers.
+
+“Ooh, ambitious,” she teased. Her friend’s eyebrows twitched at the implied challenge.
+
+Ali produced her Grimoire and fed it a stream of mana, watching in astonishment at the speed it turned it into a fountain of glowing runes. In less time than ever, an eight-foot-tall male Troll warrior sporting spikey gray hair, prominent tusks, and skin of such a dark blue it seemed purple in the strange light of the ruins appeared in front of her.
+
+“Greetings, Seeker,” he said, his medium bass voice sounding surprisingly eloquent. “I wish to fight.”
+
+“Very well,” Ali answered, a little surprised by the directness of this troll, but all her minions had been behaving a little strangely since her evolution. It was an unexpected effect of the Minion Ego Keystone certainly, but the actual ramifications, and what it would mean long term, still escaped her. She quickly made him a few replacement pieces to optimize his armor and gear. “Malika wants to spar with you – push her as hard as you can, but don’t kill her.”
+
+“Excellent,” the troll rumbled, turning his broad grin upon Malika, bone blades erupting from his forearms as he grew fresh weapons.
+
+Ali slipped into his perceptions, activated her Study Trance, and then experienced the bizarre sensation of having someone else fight with the body her awareness was inhabiting.
+
+The very first thing she had tested once her mind had recovered sufficiently from the onslaught of mana post-evolution was the sense of her minions’ commitment to her. The concept of her minions being summoned with an ‘ego’ still worried her, but although the changes felt simultaneously subtle and profound, the sense that her minions were an extension of her will had not changed in the least. This troll was no exception. So far, she had found no reason to doubt Lira’s insights on summoned minions.
+
+Ali gave herself over to the experience of the fight and her mind soared along with the flows of advanced combat: the forms and cunning of Aman Rak versus the elegance and grace of the Nine Paths of Ahn Khen as interpreted by Malika. Ali did not attempt to influence her troll, giving him free rein, but she studied everything about his fighting, immersing herself in the sensory contraction of muscle and stretching of sinew. As familiar as it was from blasting their way through the Temple of Aman Rak, she found that the combination of not fighting for her life and the potent enhancement of her domain magic allowed for a depth of study and focus she had not previously experienced. She lived the warrior’s way, experienced his joy, the thrill and rush of moving his body, of pitting his hard-won skills against a strong opponent. She understood what it was like to be a proud troll Bone Warrior, the backbone of Aman Rak.
+
+Then, there was Malika. With Study Trance running and the domain tithe helping her piece together the nuances, a lot of her intellectual knowledge gleaned from the Nine Paths was suddenly illuminated by the light of a deeper level of understanding as she directly observed the practical applications of the ancient tomes.
+
+Incredible! I can learn so much!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,147 @@
+---
+id: 84e02ada-51aa-5bd8-b1bf-991440024c72
+page-type-slug: story-chapter-royal-road
+title: "Chapter 551: While the Lich Slumbers"
+slug: 0592-chapter-551-while-the-lich-slumbers
+partOf: dungeon-of-knowledge-complete
+position: 592
+ownLength: 2096
+unit: words
+ownProgress: 2096
+publishedAt: 2026-02-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3101848/chapter-551-while-the-lich-slumbers"
+royalRoadId: "3101848"
+markedReadAt: "2026-06-29T20:32:32.756Z"
+---
+
+Ali, perched on the surprisingly comfortable chair Azryet had provided, greeted those arriving with a wave or a smile as they found seats around the broad, polished marble table.
+
+They’d chosen the dragon god’s library for their war meeting, as everyone was relatively certain the Lich’s eyes would not bother them here, nor would he risk showing up in person once he was free from his phylactery due to the specter of draconic fangs. Azryet and Tiraza were already seated beside Lira on one side of the table, while Ryn, Mato, and Malika sat beside Ali.
+
+Calen strode in and took a seat beside Mato, and then Vivian and Lyeneru entered the library, chatting quietly among themselves, finding their seats quickly.
+
+“Looks like we’re all here,” Azryet said.
+
+“Why don’t you get us started, Aliandra?” Lira suggested.
+
+“Me?” she almost yelped, glancing quickly at the august presences arrayed about the table, at least four of which exceeded her own level – and of them, only Lyeneru was close.
+
+“Yes,” Azryet said. “It was your idea to have this war council, after all.”
+
+“A wise endeavor,” Lyeneru said, nodding toward Ali.
+
+“Uh, ok,” Ali said. Then she cleared her throat and began, “So… I suppose the most important question is, how do we kill a Lich?”
+
+Azryet chuckled, a deep, booming rumble that filled the library, as if his humanoid form were a mere illusion and the mighty dragon god lurked unseen behind it. “Now, that is a great question.”
+
+“Um, if I may?” Ryn said, and everyone’s heads turned to the librarian, who was dressed in a sky-blue dress embroidered with white flowers. Half a dozen heavy tomes materialized on the table around her, and she flipped one open. “Tiraza and I did some research on the phenomenon of the Lich ascension. It seems that the soul is bound to the phylactery with a necromantic ritual, ripping it out of the body. This binding is permanent, and, while the body becomes undead, it is no longer the seat of the soul, so it can be replaced and the new one invested with the bound soul in a process that takes several weeks.”
+
+“To kill a greater lich, both the avatar must be destroyed, snapping the soul back to the phylactery, and the phylactery binding needs to be broken. Only then will the soul pass on.”
+
+“How does it work?” Ali asked, leaning forward curiously. “The phylactery.”
+
+“It’s just like a dungeon,” Lira said, surprisingly speaking with confidence on the subject. It didn’t take more than a second for Ali to realize why, after all, she’d spent so much time in her acorn. “It’s like the domain is all wrapped up inside, cradling your soul like a cocoon. That is what restores the soul to the body.”
+
+“So, if he’s in there right now, how about we go crush his dungeon and smash the phylactery?” Mato asked.
+
+“It may not be so easy,” Azryet rumbled. “Phylacteries are nearly indestructible, and he may very well have safeguards and wards prepared for when he’s inside.”
+
+“Lyeneru and I already found one,” Calen said, drawing the attention of the entire room. “We scouted the Crypt of Kings earlier, and the domain is guarded by an invisible barrier that neither of us was able to scratch.”
+
+“That wasn’t there before,” Ali said.
+
+“I believe it’s because he currently inhabits his phylactery,” Lyeneru said. “The barrier should drop when he leaves. I plan on keeping an eye on it so that we can be better prepared.”
+
+“So, what’s the plan then? We wait till he revives and then steal it while he’s out?” Malika asked.
+
+“That sounds like a fine plan,” Azryet said.
+
+“That means we will need a raid group strong enough to take out Kryostria and the three kings, all third-tier champion bosses,” Ali said, turning the shape of it over in her head. She glanced around the room, her eyes settling on her friends. “We have two days, maybe three, before he revives?”
+
+“At the most,” Lyeneru said.
+
+“We need to get Calen, Malika, and Mato to the third tier as a matter of priority,” Ali added. A couple of levels here and there did not make much of a difference at two hundred or more, but passing the threshold was a step into a different realm of power. Three more people in the third tier would drastically improve their chances, and her friends were so close. “I also have several minions that are close to tiering up. These should be our highest priorities until the Crypt of Kings opens.”
+
+“I concur,” Azryet said, his eyes glowing intensely. “I can provide hunting grounds in the Lair of the Demon God. I may not be able to directly intervene, but my domain is available as a retreat for safety.”
+
+“That will be perfect,” Ali said, watching closely as Ryn took notes.
+
+“Aliandra, I can also provide you several third-tier dragon imprints now that you’ve passed the threshold,” Azryet continued.
+
+“Oh, thank you!” That would definitely help.
+
+“So, we need to keep the Lich pinned down at Southport while our raid group wipes out the Crypt of Kings, and then we all return and destroy him,” Ali said. It sounded like a good, simple plan, and better yet, with a full group of third-tier adventurers in the raid, bolstered by her highest-level minions, they should find it much easier than the first time, where they were sent fleeing with their tails between their legs by Kryostria’s icy might.
+
+“There is one problem with that plan,” Lyeneru said, frowning.
+
+“What’s that?” Ali asked.
+
+“The Lich’s armies are no longer sieging Southport,” she said.
+
+“What? Where are they, then?” Ali exclaimed.
+
+“We don’t know,” Lyeneru grimaced. “I’ve not been able to find them.”
+
+Ali swallowed against the tingle of dread that rose within her gut. They’re gone? But where? Unfortunately… there goes my plan.
+
+“The timing is too much of a coincidence,” Ali said, not bothering to prevent her worry from leaking into her voice. Lira had as much as told her that Nevyn Eld would be able to hear realm messages, and there was one in particular that coincided almost exactly. “He knows Lira ascended, and he’s coming for her.”
+
+“That was my conclusion also,” Lyeneru said, glancing at Lira for a moment before continuing. “A freshly ascended non-combat deity who cannot move much is far too attractive a prize to escape the Blind Lich’s greed. I’m sorry, Great Mother, but I believe he’s coming for you.”
+
+“You are most likely seeing true,” Lira said, her voice resonating softly and soothingly through the library. “But also remember, he has ever hungered for the power of the Wells. The loss of the Well of Souls must have deeply wounded his pride, and the restoration of the Well of Divinity would hardly have gone unnoticed.”
+
+“That… is not good,” Vivian said. “We don’t know where his armies are, and we have three targets, all separated by half a continent.”
+
+“I have gates, and more than half a million mana,” Ali said, her mind already ranging out to touch the areas in question, checking in to make sure nothing was amiss. She ignored several gasps and surprised looks. “With Azryet’s help, I believe I can defend them. They are within my domain, after all.”
+
+“Can you do it all in time?” Vivian asked.
+
+“I believe so,” Ali said. “While the others grind out the last few levels to their evolutions, I will spend my time at the shrine, finding the best third-tier evolutions and summoning bosses at the target sites.” Nobody was going to take Lira from her again, not Haverron, not that eldritch monstrosity Baaoht Yll’shuum. Not even the Lich himself. Nobody. Her teeth creaked from being clenched painfully.
+
+“My apologies if this is presumptuous, Azryet, but are you not able to offer any high-tier guardians for these targets?” Vivian asked, her eyes settling on the dragon god with a look that conveyed uncertainty and a strong undercurrent of hope. “You have already eaten the Lich once – a few guardians would ensure nothing is lost.”
+
+“Unfortunately, my mana lacks the realm-crossing abilities of young Aliandra here. Nor do I have the dungeon break advancements she’s unlocked. I wouldn’t be able to hold on to my minions for long were they to cross the realm boundary,” Azryet said, with a scowl of pure frustration.
+
+“I’m sorry if I gave offense,” Vivian hastily said.
+
+“No offense taken,” Azryet said with a throbbing snarl that might have been an attempt from the dragon god to reassure her. “Were you to lure him to my domain, I assure you, that abominable creature would be destroyed with great prejudice.”
+
+“You can cross the realm boundary in one location, though, right?” Ali asked, suddenly recalling the warm burning sensation in the heart of Myrin’s Keep, where a portion of her domain had been consecrated in the name of The Calamity.
+
+“Only on those consecrated grounds,” Azryet said, turning sharply to regard Ali.
+
+“If you have a minion with long-duration health buffs, perhaps you could leave them in the church, and the raid teams can buff up before engaging the enemy?” Ali asked.
+
+“My priests have health buffs, this is true,” Azryet said. “But my dragons have damage buffs!”
+
+“Thanks for the damage,” Mato intoned, and Azryet immediately grinned broadly, and for an instant, a spectral mana-silhouette of his draconic head appeared behind him, baring gleaming fangs the size of tree trunks.
+
+Despite knowing Azryet was definitely on their side, Ali startled at the sight. She had personally convinced Azryet not to intimidate the townsfolk by populating the consecrated grounds of Havok’s church with anything more dangerous than cute dragonets; however, that was then. She collected herself. They had a Lich to beat, and high-level buffs from the dragon god himself would go a long way to keeping everyone alive. Not to mention, Azryet was grinning – clearly much happier having a direct way to involve himself. Being presented with a war without being able to unleash his own fury must be gnawing away at him inside. With her Gates to the Abyssal Realm, it was not much of a win to put his minions in the heart of Myrin’s Keep, but the idea was there, and Azryet acknowledged her efforts with a glance and a deliberate nod of gratitude. No doubt this would have an effect on morale.
+
+“So, in summary then,” Ryn said, consulting her notes. “Azryet will provide imprints to Ali, a safe fallback zone in the Abyssal Realm, a buffing station in the church, and a hunting ground for leveling up. Calen, Malika, and Mato will level up to two hundred and fifty with Ali’s minions. Ali will use the shrine to process their evolutions. Simultaneously, Ali will build defenses for the important targets: Lirasia’s World Tree, Ciradyl, and the Well of Divinity. Once the Lich emerges, we will send the adventurers in to clear the Crypt of Kings and retrieve the phylactery. Did I miss anything?”
+
+“I will continue to scout for the missing armies,” Lyeneru said. “It’s imperative we learn their location. It’s clear they are intended as a hammer to be deployed at a critical juncture, and we will need to be ready to pivot immediately the moment the Lich reveals his plan. Calen, I may call on you for another pair of eyes when you can spare the time.”
+
+“Right, got it,” Calen said.
+
+“I will contact Southport,” Vivian said. “We need to coordinate efforts with their forces. I’m also not convinced the armies are just gone. They are an invisible threat looming over us and we will need help.”
+
+“Can we get the platinum raid teams to take advantage of Azryet’s leveling plan?” Calen asked. “If we have even a day or two of downtime, they could gain levels also.”
+
+“Good idea,” Vivian said.
+
+“Do not forget, I am able to provide healing and healing buffs,” Lira said.
+
+“Ok, it sounds like we have a plan,” Ali said.
+
+“Aliandra, while you work, pay attention to gaining Authority,” Azryet said. “Summon your best guardians with a point of Authority whenever you can spare it. You too, Lirasia. You will both need it.”
+
+“Awesome,” Mato declared, slapping the table with his palm. “Time to grind out some levels and then go show that Lich what we’re made of!”
+
+Calen snorted, “Oh, you’re just going to swat him, are you?”
+
+“I’m sure going to try – and let the best Bear win!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

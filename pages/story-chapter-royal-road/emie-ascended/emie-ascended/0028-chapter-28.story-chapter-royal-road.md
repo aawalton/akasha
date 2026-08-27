@@ -1,0 +1,213 @@
+---
+id: d40fcefb-2f0b-59bb-ad8c-5abe45c2b050
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28"
+slug: 0028-chapter-28
+partOf: emie-ascended
+position: 28
+ownLength: 2725
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3549275/chapter-28"
+royalRoadId: "3549275"
+---
+
+When the ground first started shaking, I was confused. Such special effects had occurred earlier in the production during some of the fight scenes, but the current scene had nothing to justify such an effect.
+
+It wasn’t until the alarms started sounding from every direction that I truly understood that something was wrong.
+
+“Please remain calm,” one of the actors on stage said, breaking character and addressing the crowd directly. “A portal leading to the Dungeon Complex will be opened momentarily. For those required in other locations, please exit from the side exits near the stage.”
+
+“There must be an attack happening,” I said, turning to Stephen.
+
+“I thought the alarms were supposed to provide advanced notice,” he replied with a frown.
+
+Neither of us had moved since we were supposed to head to the Dungeon Complex, and the crew member responsible for opening the portal hadn’t yet arrived.
+
+“I thought so, too.”
+
+I’d definitely felt the ground shaking, so it seemed likely that whatever was attacking had somehow made it past the city’s patrols.
+
+Since demons were known to have similar abilities as Dians, it didn’t seem unreasonable to think that a particularly powerful demon might have used stealth or illusions to get around the patrols.
+
+Thankfully, no matter how strong the demon responsible was, only first evolution demons would be involved in the initial attack.
+
+Demons were strangely regimented in such things. First evolution demons always attacked first, followed by a wave of second evolution demons, then third, and finally, fourth evolution demons, if any were present.
+
+The only exception was when a higher-evolution Dian attacked lower-evolution demons before their ‘wave’ started. If that happened, all of the demons would attack at once, often causing far more casualties.
+
+It made me wonder why the demons were so set on sticking to their established attack protocols. They had to know that just attacking all at once would have a far greater chance of success.
+
+In fact, according to most sources, the majority of the early losses in the realm had come from Dians not understanding that very quirk about demon attacks.
+
+They’d fought back with everything they had from the beginning, which caused the highest-level demons to intentionally target groups of lower-evolution fighters in retaliation instead of mostly targeting similarly-leveled opponents.
+
+Of course, things didn’t always work out perfectly, and there was a lot of collateral damage when powerful entities fought, but the death toll was significantly lower when the demons’ ‘rules’ were adhered to.
+
+Not every attack was led by a fourth evolution demon, though. In fact, not every attack included even third evolution demons.
+
+In those instances, demons were often wiped out by patrolling silver-ranked or above fighters without ever reaching their target cities. It was why towns and small cities with beginner and bronze-ranked dungeons always had at least one party’s worth of higher-ranked delvers living there at any given time.
+
+Mostly, they were those who’d already entered stagnation and had no desire to chase ascension. Often, the highest-level individual would be offered the position of City Lord or Governor, depending on the territory.
+
+Since the highest-level demon involved in an attack was usually on par with whatever dungeon was inside the city, that often gave the natives a bit of an advantage. They still had to be careful, though.
+
+Sometimes, a group of higher-evolution demons would hide and observe an attack, only stepping in when the city’s protectors moved in to defeat the lower-evolution demons.
+
+Thankfully, higher-evolution individuals, whether Dian or demon, could not enter a lower-evolution dungeon. That protected weaker dungeons from getting outright destroyed by much stronger demons, though it wouldn’t protect them from waves of same-evolution demons if the city’s defenders fell.
+
+Aside from killing people, destroying dungeons appeared to be the demon’s priority. That was probably because dungeons naturally prevented incursions from appearing, either by strengthening the barriers between realms or by some other mechanism.
+
+“It doesn’t feel right to run away while others are fighting,” Stephen commented as a particularly well-dressed man entered the stage with an air of command.
+
+“I agree. But until we get stronger, we’d be nothing but fodder, even with our experience. First evolution demons are just too strong for us, especially with how low-leveled we both are.”
+
+I didn’t like it, but I was also realistic enough to know that my level twenty-one self wouldn’t be able to do much against opponents who started at level 200.
+
+The stage was filled with activity, but none of the actors appeared overly concerned. Identifying them revealed that most were only at the first or second evolution, though there were a few who’d reached the third evolution.
+
+The one with the Portal skill was one of those.
+
+“All those requiring shelter, please make your way to the stairs on either side of the stage,” the man said once the portal snapped into place. “There is no reason to worry. Muforia Company prides ourselves in our ability to ensure our patrons’ safety during any performance.”
+
+I was strangely annoyed at how easily the man had opened a portal to the local Dungeon Complex. I would have had to use a Dimensional Anchor to target a location, which didn’t seem to be the case for the man at all.
+
+It was one reason to consider eventually accepting the Portal skill, eventually, though that wouldn’t happen until I’d opened up a few extra skill slots.
+
+Even then, I might not bother slotting the skill if I managed to gain enough Dimensional Anchors. I didn’t see needing a portal for anything that I couldn’t use Teleportation for, after all, and it seemed more prudent to just upgrade Teleportation instead of adding a second space-based movement skill.
+
+In the rare case where I might need to open a portal, I figured I’d be able to manage by setting a Dimensional Anchor at my target location. As long as I gained a couple of extras, I really didn’t think it would be an issue.
+
+“Let the children enter first, please,” another man called out as most of the crowd started heading toward the exits, while others headed toward the portal on stage.
+
+Those leaving the venue mostly appeared focused on their tasks. Some looked nervous or worried, but nobody shirked their duties.
+
+Of those who remained, nobody seemed overly panicked as they lined up and started making their way to the portal. Their behavior said a lot about how often they had to deal with drills and actual attacks.
+
+I knew attacks occurred a few times a year, but I still expected everyone to be more worried.
+
+“I guess we should go?” I said, standing.
+
+Stephen frowned but followed suit. About a dozen children were quickly being led through the portal, which eased a bit of the tension I was feeling about the attack.
+
+At least the children are safe, I couldn’t help but think.
+
+“We need to get stronger,” the archer said quietly as we took our place near the back of the line. “I don’t like feeling like this again.”
+
+“Like what?”
+
+“Weak.”
+
+I could understand the sentiment.
+
+As we approached the stairs leading onto the stage, a crash sounded from behind, startling the two-dozen or so individuals who had yet to retreat through the portal.
+
+“Hurry up, please,” the well-dressed Portal Mage said, his expression shifting from confident to strained. His eyes kept darting to the back of the theater.
+
+I glanced behind me as some kind of minor aura attack hit, causing my muscles to lock up and freezing me in place.
+
+“Get through the portal, now!” the man yelled frantically, though I could only imagine his expression since my eyes were locked onto the demon who’d broken through the back of the theater.
+
+Though I’d read descriptions of demons and knew they were bestial beings, my mind had still imagined humanoids with red skin and horns. It was based purely on media from my childhood, I knew.
+
+Instead of the stereotypical demon from pre-integration Earth’s media, the being roaring a challenge at the lingering patrons appeared more like a dirty yeti with gray fur and red eyes.
+
+At least they got the eyes right.
+
+As if it heard my thought, the yeti-demon’s eyes locked with mine. A moment passed as those unaffected by the demon’s aura rushed toward the stage. I could hear them, though it sounded like far less commotion than I would have expected.
+
+“Get through! Get through!” the man cried. “I’m sorry. I can’t help the rest of you.”
+
+I barely managed to shift my eyes in time to see the well-dressed man dart into the portal before it snapped shut behind him. Sounds of distress were coming from the handful of people frozen by the edge of the other side of the stage.
+
+I could feel Stephen next to me, as well as another couple who had been knocked to the side as the terrified patrons had pushed past their frozen bodies. The man was closer than the woman.
+
+Sensing the demon’s approach, I stopped thinking and let my instincts take control.
+
+Pushing what little magical aura I had as far as I could, I grabbed ahold of Stephen and the man, pulling them with me into my sanctuary, while putting everything but me into stasis.
+
+I immediately exited, finding myself freed from the effect of the demon’s aura.
+
+I rushed forward and grabbed the woman’s arm, sending her into the sanctuary as well before teleporting to the small cluster of iron rankers who’d been unlucky enough to have come to see the play with us.
+
+The demon roared behind me, angry at having its prey escape.
+
+I didn’t give it time to catch up, opting to just pull everyone inside at once before teleporting to the hole the demon had left in the wall.
+
+While I could have entered my demesne and hung out there for a while, I would have had to eventually exit into the ruined theater. It seemed like a smarter idea to just leapfrog my way to the Dungeon Complex and offload my passengers.
+
+Using a trick I’d learned as a Space Mage, I targeted a location in the sky and teleported there. As soon as I appeared, I homed in on the Dungeon Complex and teleported to a small clearing that was away from the bustle of people responding to the attack.
+
+Since I knew all of the people I’d saved had seen my face, I didn’t see a point in hiding who I was now. Hopefully, they’d think I just had a particularly strong Teleportation skill that let me move with others to familiar locations.
+
+Technically, it was a possible evolution I could get if I pushed the skill hard enough, though having such an advanced skill while still level twenty-one would somewhat out me as a Space Magi.
+
+Maybe not, though. Everyone might have been too traumatized to really know what was going on.
+
+One could only hope.
+
+Taking a steadying breath, I focused on a second clearing near the residence hall and teleported there, ejecting my passengers in the order that I’d collected them while momentarily dipping into my demesne between their appearances in hopes that the minor misdirection would help obscure my abilities.
+
+It might not be enough to sell it to anyone who happened to see me initially appear, but hopefully, it would be enough to muddy the waters.
+
+“Is everyone okay?” I asked once everyone had been ejected from my demesne.
+
+Though I’d asked the question more generally, most of my attention was on the archer breathing heavily just a few steps away.
+
+“We need to get into the dungeon. Come on!” I said, grabbing Stephen’s hand and pulling him behind me.
+
+I didn’t bother with the rest of the people I’d rescued. As far as I was concerned, I’d done my part. The rest was up to them.
+
+“What happened? Did you teleport us?”
+
+“I’ll tell you once we get into the dungeon. Do you see Mike or Cora anywhere?”
+
+The large room housing the dungeon portal was a madhouse, and it was clear that there was something unusual about the attack. I couldn’t imagine people acting like this every time the alarm sounded.
+
+“Over there,” Stephen said, pointing toward the front entrance to the dungeon room. It was the side we should have come in if we’d entered the Dungeon Complex from the city instead of from the residential area.
+
+“Where were you two? We were just about to get into line, thinking you’d left us behind or something,” Cora admonished.
+
+“We got stuck in the theater. I’ll tell you about it once we’re inside,” I said, not wanting to answer any questions while surrounded by people.
+
+My ability to teleport wasn’t a secret, but I still didn’t want to draw any more attention to my space-related capabilities than necessary.
+
+With a moment of calm, my attention was drawn to a small notification icon in the corner of my vision. Focusing on it, a notification appeared.
+
+[Demesne (Rare) has been upgraded to Demesne (Epic)You have gained one level.]
+
+Now that I thought about it, I could feel that the skill had changed slightly. Not only was the space significantly larger, something the hoarder in me appreciated, but it also allowed me to put items or even people into the space without being in physical contact or extremely close proximity to them.
+
+There was a limit of about three meters, though I felt like that distance could be pushed a little if I put enough effort into it.
+
+It was a good upgrade, even if it did feel a little lackluster for the (Epic) rating. Maybe my perception of such things was just skewed.
+
+For as disorganized as everything appeared, the line moved remarkably fast, even if it felt like we were standing in line for hours. At most, only about ten minutes had actually passed.
+
+“So, what happened?” Cora asked.
+
+I told them what happened, leaving nothing out. I even told them about the skill upgrade that I’d earned by forcing the skill to transport people outside of my reach.
+
+“Yikes. At least the upgrade will make getting into and out of the space a little more convenient.” Turning to Stephen, Cora asked, “Did you sense anything during the process?”
+
+“No, nothing,” he replied, shaking his head. “One moment, I was frozen, and I could hear something charging us from behind. The next thing I knew, I was standing outside the residence hall, trying to catch my breath.”
+
+“Sorry about that. I just did the first thing that crossed my mind. I wasn’t quite thinking straight. I’m pretty sure the demon had some kind of fear effect or aura attack or something.”
+
+“No wonder they want every unevolved delver to enter the dungeon instead of trying to fight those things,” Mike said.
+
+“I don’t think I’ve ever felt as helpless as I did when the demon hit us with its aura. I didn’t even see it, but the effect was debilitating. I didn’t even think to try to teleport away.”
+
+“That’s not surprising. It’s still a new skill for you,” Mike said. “We should probably start actively training our new skills instead of just incorporating them occasionally. I’ve been told that it’s important to upgrade as many skills as possible before each evolution since the skills one has and how they’re used can impact one’s path.”
+
+I’d been told something similar, both recently and in the simulation.
+
+“No matter what, we need to get stronger,” Stephen said. “Not just in levels, either. I never want to feel like that again. I never want to come close to dying because I’ve forgotten I have a skill that can save me.”
+
+“I feel the same way,” I agreed.
+
+“Then I guess we all agree,” Cora said. “We’ll focus on improving our skills as much as we can while not neglecting progression.”
+
+Though I wholeheartedly agreed, I knew that with the number of skills that I had, it was going to take a lot of work for me to give each the attention it deserved. Ideally, I’d like to get everything to (Rare) or higher, though I knew that was unlikely, given the sheer volume of skills I had to work with.
+
+“Well, we might as well get started.”

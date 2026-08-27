@@ -1,0 +1,183 @@
+---
+id: 0ebb79b5-44dd-5650-89d3-e4827d679672
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Eight: Decisions"
+slug: 0059-chapter-fifty-eight-decisions
+partOf: flesh-eater-demon-evolution-litrpg
+position: 59
+ownLength: 3185
+unit: words
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2973780/chapter-fifty-eight-decisions"
+royalRoadId: "2973780"
+---
+
+“Why did you say that. Oh my god why did you say that. I can’t believe—”
+
+“I heard you the first time, kid,” Pyre drawled. She didn’t even look up from where she was currently crouched by Daphne.
+
+After an initial freakout courtesy of Callan, they’d checked the collapsed noble’s pulse and concluded that she was still alive, just unconscious. At first the ghost had accused the demon of doing something, then he began worrying that he’d somehow drained her by being nearby before Pyre pointed out that it was probably just an ichor-poisoning symptom.
+
+Either way, they (Pyre) had moved her into the forest. This would be pretty hard to explain if a random guard passed by, after all. Now, Daphne lay below a tree, red hair fanned out around her head, arms folded, looking for all intents and purposes like she was simply asleep. She still hadn’t woken up yet.
+
+“Why would you ever tell a human I’m a ghost? That could’ve gone much, much worse!”
+
+Pyre raised an eyebrow, finally rising to her full height and moving over to where Callan was panickedly hover-pacing between the trees. “Human? Nice to see you coming to terms with the ghost thing.” This was the first time he’d ever referred to humans as a collective species separate from himself.
+
+Callan hesitated at that. “I mean—I’m stuck like this now, so…” His voice trailed, and he shifted uncomfortably. The ghost cleared his throat and returned to his original spiel. “Seriously though, what were you thinking?”
+
+The demon shrugged. “Well, I had to give a reason I didn’t mention you. And I figured sticking to the truth would be easiest.” She leaned back casually against a tree trunk; the bark was cool against her back. After the heat from Daphne’s spell had died down, the night chill had returned full force.
+
+“What if she didn’t stop and listen?” Callan sounded frustrated. “You could’ve at least led up to it better!”
+
+“Eh, I figured she probably would.” She could see him about to argue at the ‘probably,’ so she continued. She nodded at the ghost, raising an eyebrow amusedly. “No offence, kid, but you look about as harmless as you can get without being, like, an actual toddler.”
+
+Callan looked a little insulted at that, but he also couldn’t really argue. There was a reason the demon had thought he was way younger than he was. Besides, in this case, looking harmless had been pretty important for preventing insta-fireball death.
+
+“Still, that was insanely risky,” he insisted.
+
+Pyre shrugged. “Not gonna argue with that. If it makes you feel better, it was this or coming clean about the curse. But I figured it might be a little hard to explain how I survived a fight with a demon.” Grey eyes briefly darted over to Daphne’s unconscious form, then back. She snorted. “I don’t think she’d let that go without a fuck ton of questions.”
+
+Hell, even as a level 15+ demon, she probably wouldn’t have survived the fight with Tivona if the envy fiend hadn’t been operating on half power because of her missing horn. No way a level 7 human would last more than a second. She’d either have to tell Daphne that she was way higher level than she said (which was super suspicious already), or she’d need to come up with some other excuse to explain it. It just didn’t seem worth it to her.
+
+Callan squinted at the demon. “…I guess,” he said begrudgingly, clearly still upset about the whole almost-getting-fireballed-in-the-face thing. “Maybe next time don’t put other people on the line without asking them first?”
+
+Pyre chuckled, the sound a low rumble in the quiet forest. “To be fair, I figured a ghost would be way more sympathetic than a demon. You did used to be human.”
+
+Callan paused at that. He frowned, brows furrowing a little as he stared at the sloth fiend.
+
+“You used to be, too,” he said quietly.
+
+Pyre didn’t answer right away, mind wandering to that conversation she’d had with the ghost about the nature of reincarnators. How her own situation seemed entirely different from what the legends in this world said. She shrugged. “That situation’s a whole lot harder to explain,” she said casually. She turned to Daphne again, who still hadn’t woken up.
+
+“Anyway, now that you’re past the walls, we don’t need to bother with the gallery key anymore. You said there weren’t incorporeal wards on the inner doors, right? You can just float in and find the horn.”
+
+Callan’s eyes widened in realization. “Oh my god, I completely forgot.” He floated towards the manor. “I could’ve been searching this whole time, I can—”
+
+“Woah there, hold your horses.” Pyre lightly gripped the ghost’s shoulder, who jerked. After being incorporeal for so long, she supposed it was probably a shock when someone didn’t phase straight through him now. Especially since [Incorporeal Touch] was rare.
+
+The demon nodded her head in Daphne’s direction. “She’s probably gonna wake up soon. If you disappear now, this whole thing’ll’ve been for nothing.” She grinned. “Personally I’m down for some magic fire dodgeball, but I’m guessing you’re still trying to be stealthy.”
+
+Callan frowned. “What if she kicks us out? Or me, at least. Then I won’t be able to get past the walls again.”
+
+In response, Pyre turned to Daphne, giving the human a long look. She remembered how insistent the noble had been about the demon resting when she’d said her ichor-poisoning was acting up. How she hadn’t hesitated at all to offer her own room.
+
+“Nah,” she finally said. “I think she’ll probably let you stick around. She doesn’t strike me as the type to kick out a poor, lonely, defenseless ghost kid.”
+
+Callan shot the demon a thoroughly unimpressed look. His eyes moved over to Daphne as well, a bit of curiosity entering his gaze now that the “oh my god I almost died” panic was starting to die down. “You seem to know her pretty well,” he commented.
+
+“Eh, not really. We’ve just had a few talks.”
+
+The ghost hummed. “That spell was really strong,” he said. He shuddered. “I definitely wouldn’t have survived that if it hit me. I think even you might’ve had trouble with it.”
+
+Pyre raised an eyebrow at that. “Really? I figured she was good, but not that good.”
+
+“It’s hard to explain if you can’t feel it yourself,” Callan said. “It wasn’t as refined as someone like Tivona, but there was a lot of raw energy packed into that spell. It must’ve taken a ton of ichor to maintain it—I definitely couldn’t do something like that,” he added, a hint of bitterness entering his voice.
+
+That would explain the ichor-poisoning collapse, then. It looked like the noble really hadn’t been pulling her punches.
+
+“She must’ve put up ward spells earlier,” Callan continued. “An invisibility one, maybe a silencing one.” He frowned. “Still, I’m surprised you didn’t notice her sooner. You usually keep that lookout eye-limb, right? Did she have a ward against thermal vision or something?”
+
+Ah, that. Pyre clicked her tongue, shifting her weight casually against the tree she was currently leaning on. “I just got careless. Felt a little tired, is all.”
+
+Callan squinted. “Tired? You?” He drifted closer, brows furrowing with concern. “Are you okay? Did the curse move again?”
+
+The demon opened her mouth to respond, but before she could, a tremor ran through the earth as something shifted nearby. Her eyes darted over to Daphne, who was beginning to stir.
+
+Callan followed her gaze and promptly floated down so that he looked like he was standing. He then concentrated, turning from silvery and translucent to opaque again, much to Pyre’s amusement. Apparently the kid was adamant about looking as human as possible around the noble. To be fair, it probably did help with sympathy points.
+
+The demon moved closer to where the human was laying, Callan hanging close behind.
+
+Slowly, Daphne opened her eyes.
+
+The first thing Daphne noticed was the chill. Without the heat of her spell warming up the area, the night air was cold and stinging. She squeezed her eyes tighter, shifting around a bit. She was lying on grass, she realized. One of the thicker patches within the forest. It was surprisingly soft.
+
+The next thing she registered was an all-too familiar heaviness lingering in her body. She groaned and rolled over. The pain in her chest was gone, thank god, but she always felt groggy after she had one of these “attacks.” How long had she been out?
+
+Her eyelids still felt heavy, but she forced herself to open them. She was immediately greeted with the sight of tree trunks and grasses, which she’d expected. It just confirmed that she was indeed inside the forest. Her gaze shifted to the side, taking in her surroundings—only to still when her eyes landed on a figure seated a few feet away.
+
+Daphne immediately scrambled up, one hand flying forward as she began to pull at the ichor in the atmosphere. She froze when a hand landed on her arm, casually pointing her finger away. She blinked. The lingering blurriness in her vision cleared, and when she looked up, she saw Pyre staring down at her with an eyebrow raised.
+
+“Real strong fireball instinct you’ve got there,” she drawled. “Very ‘blast first.’”
+
+Daphne just stared at her for a moment as her mind struggled to wake up. Then she noticed Callan hanging back behind Pyre, green eyes watching her warily. And just like that, all the memories of the night flooded in like a tidal wave of sounds and images. Her own eyes widened.
+
+“Holy shit, you’re a ghost. I didn’t hallucinate that. Oh my god.”
+
+Callan tensed, but Daphne was more busy taking in her surroundings. She could just barely make out a hint of the manor wall between the trees, which meant they were still on Bellhein grounds. That was a relief, at least. A quick survey also confirmed that she wasn’t hurt (aside from the lingering sluggishness from the ichor-poisoning attack), and all of her possessions were intact.
+
+She frowned and turned to the two of them again. “How long was I unconscious?” she asked warily.
+
+“Not that long,” Pyre said. “Like half an hour max.”
+
+Half an hour. That wasn’t bad at all, compared to some of her past attacks. Daphne tugged her coat closer, shivering a little as a cold breeze gusted past even as she kept her gaze on the other two members of this impromptu gathering. “You guys’re still here,” she commented. It was spoken like a casual observation, but there was a pretty clear question behind it.
+
+Pyre shrugged. “I would’ve brought you back to the manor, but…” Her voice trailed, and she looked deliberately over at Callan.
+
+The noble’s lips thinned. She was still trying to process the whole situation, to be honest. First the fact that Pyre had been hiding a little brother, then that said brother was a ghost, then that he was apparently a fully conscious ghost who’d managed to keep his human mind intact. It was a lot to take in at once, and she was still half-convinced that the whole thing was a hallucination. None of this felt real.
+
+Her eyes darted around the forest again. The fact that she hadn’t woken up dead or drained, at least, was a good sign. There was always a chance that Pyre and Callan were playing the long game, but they’d made a point to not hurt her when she’d been vulnerable, which was something. They’d stuck around, too, which was also encouraging. They could’ve run away or into the manor or a number of different things while she was unconscious, but they hadn’t.
+
+Daphne exhaled, forcing herself to relax a little. She still kept her guard up, of course, and she would throw a spell at the first sign of a threat, but it did seem like neither one was intent on fighting her. At least not right now. It wasn’t like Pyre was all that intimidated regardless, meanwhile Callan seemed like he’d be skittish no matter what she did.
+
+She turned to Pyre, who’d been watching her the whole time in that eerily still, unblinking way of hers. Daphne would be lying if she said she wasn’t a bit hesitant around the guard right now. She still remembered her standing under the moonlight, the quietly intimidating figure she’d cut. How she’d exuded a danger that seemed at odds with her level. That wasn’t something easily forgotten.
+
+“You—You said you’ve been meeting here at night, right? Just to talk?”
+
+The guard raised an eyebrow, calm as ever. “Yeah.”
+
+“And that’s it? Really?” Daphne’s eyes narrowed in suspicion. To her faint annoyance, Pyre continued to look completely unperturbed.
+
+“Don’t you keep in touch with your cousin or whatever? Seems pretty normal to me.”
+
+Daphne bit her lip, but she had to begrudgingly accept that the guard had a point there. Keeping tabs on a family member—especially a younger one—wasn’t exactly suspicious on its own. It was everything else that made it so.
+
+She turned to the family member in question, who jumped. Well, it started as a jump, but then Callan ended up floating suspended at the highest point before slowly drifting back down. If Daphne wasn’t still trying to process everything, she would’ve found this sort of difference in movement fascinating to watch.
+
+“You. You’re Callan, right? Pyre’s little brother?” She wasn’t convinced that they were blood-related, but she did think they were being honest about their dynamic. It was subtle, but the ease Pyre had around him was different than the one she usually carried. They definitely knew each other.
+
+Callan nodded slowly, clearly not sure where this was going.
+
+“Where’ve you been staying?” Daphne continued. “I mean, obviously you’re not hovering outside the manor all day.” Or at least she hoped not.
+
+He frowned. “Uh, I’ve mostly been exploring, I guess. As long as I don’t bump into anyone, I look solid.”
+
+Daphne’s eyes narrowed at that. “Exploring? Around Magrath?” She took a step closer. “Around all the residents?”
+
+“I didn’t drain anyone!” Callan quickly defended. He looked scandalized at the mere thought, and the emotion did seem genuine from what Daphne could tell. She hummed thoughtfully.
+
+“So you’re not staying anywhere, not even at night?”
+
+The ghost shifted uncomfortably. “I mean, it’s not like I need to sleep. I just kind of… wander around after dark.”
+
+Daphne frowned. On one hand, the idea of a ghost hanging around the unwitting people of Magrath was disturbing. On the other hand, she hadn’t heard any news of drainings or even of mysterious illnesses or deaths that could be attributed to a ghost. There was a chance that Callan was simply very good at lying, but at least from their conversation so far, she got the impression that he was being earnest. Compared to Pyre, he seemed to wear his heart on his sleeve.
+
+Even through the cloud of caution and suspicion, she couldn’t help but feel a little bad for the guy. Assuming he and Pyre were telling the truth, dying, then getting stuck as a ghost for the rest of eternity would be a pretty lonely existence, she imagined. She enjoyed her peace and quiet and took nighttime strolls sometimes, but what if every night she had no choice but to wander around alone while everyone else was sleeping? It was no wonder Pyre met up with him when she could.
+
+Daphne frowned, mind churning. What was she supposed to do in a situation like this? If she told her uncle or John or any of the guards about Callan’s existence, they would kill him on the spot. That might be the safest option, but if he really was innocent, then she wasn’t going to stand by and let him be killed for no reason.
+
+She could make Callan leave and return to the previous status quo, continuing her day to day as usual. That was equally unappealing as an option. It would be impossible to pretend like she didn’t know what was going on, and she didn’t feel good about Callan wandering freely around Magrath with no one the wiser. She definitely wouldn’t be able to act the same around Pyre as before, too.
+
+Another option was to kick both of them out, forcing them to leave Magrath and go elsewhere. That way she could ensure everyone in Magrath stayed safe, but that also felt like she’d just be displacing the issue onto someone else. Plus, despite her lingering suspicions, a part of her still couldn’t help but hope that they were telling the truth, that they could form something of a friendship or at least an understanding. The thought made her laugh darkly to herself. She must’ve been more lonely than she’d thought.
+
+The final option was to let both of them stay in the manor. She could get Pyre moved to one of the guest rooms in the main wing instead of the servant’s quarters, and Callan could hide there during the day. This would allow her to keep an eye on them and assess if they were an actual threat or not, but this could also mean putting the manor at risk.
+
+Daphne frowned. If they were dangerous, she finally decided, then the manor had more protections than random people in Magrath did. The entire garrison was next door, and all the guards were ready to act at a moment’s notice. She would be in the most danger with this option, but she’d rather it be her than a random resident of the city.
+
+It wasn’t perfect, but she wanted to observe the two of them a little longer before passing any final judgements. Daphne thought back to their conversation earlier that day. She owed Pyre that much, at least.
+
+Her fingers clenched into a fist. If they did turn out to be dangerous, if they were lying—then she would deal with them herself. That, she swore.
+
+Mind set, Daphne turned back to Pyre and Callan. The former was as calm as ever, casually leaning against a tree with seemingly no care in the world, while the latter looked like he was sweating bullets waiting for her to talk. The contrast was funny—decidedly human. She felt a little better about her choice.
+
+Daphne cleared her throat and spoke in a clear, confident tone.
+
+“I’m still not completely convinced you’re telling the truth,” she began, “but I’m also not going to pass judgment on you unless I know for certain you’ve done something wrong.”
+
+Her gaze hardened. “So for now, I’m going to keep an eye on you. Both of you,” she added, nodding to Callan.
+
+The ghost blinked. “You mean…?” his voice trailed, but he sounded hopeful.
+
+In response, Daphne looked up, peering through the canopy at the inky night sky. The silver moon glowed softly above them.
+
+“It’s late,” she said. She nodded at Pyre and Callan. “Let’s head back to the manor.”

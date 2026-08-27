@@ -1,0 +1,219 @@
+---
+id: 23ba08f2-4ca1-54dd-9d79-faefc2a5fe61
+page-type-slug: story-chapter-royal-road
+title: "36 - The Weeping Ones"
+slug: 0036-36-the-weeping-ones
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 36
+ownLength: 1564
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3494189/36-the-weeping-ones"
+royalRoadId: "3494189"
+---
+
+After the light settled down from Divine Fireball, I saw that all the statues of the lions and knights had perished. The explosion didn’t leave behind any flames or damage. I initially suspected it was because the entire manor was covered in some kind of protective magic, but even after I had cast the spell back when Meriel was training me, it didn’t cause any damage to the environment either. Maybe the entire city was protected from permanent damage.
+
+I collapsed on the ground after using too much mana on both the shield and Divine Fireball. My entire body ached, and I had a dull headache.
+
+“Allene!” I heard Reina calling for me.
+
+“Ugh…” I groaned. “I see why mages like using staffs and grimoires so much… casting spells with any other weapon uses way more mana…”
+
+I saw Reina kneeling beside me through my blurry vision, gently holding my head up.
+
+“No… Allene!”
+
+Tears fell from her eyes, dropping on my face.
+
+“You were the greatest friend I ever had,” she said. “I’ll miss you so mu—”
+
+“Relax. I’m not dead. And even if I was dying, we’ve still got eight revives—assuming the others haven’t died yet.”
+
+I slowly sat up, clutching my head. Honestly, I didn't think the entire plan would work out as well as it did. The shielding magic Meriel taught me was an amazing spell. Despite completely depleting my mana, it managed to protect me against the Divine Fireball. Although I doubt I could hold it up for too long, it could come in handy if I came across a boss that kills people in one attack.
+
+“We should head back to the blue lantern before going into the manor,” I said. “My mana’s completely exhausted.”
+
+Reina shook her head, pointing at the gated entrance. “We can’t. We’re still sealed in.”
+
+I looked at it. She was right. Although the gate was open from when I had cut through it with the sword, there was a strange refraction in the light—a telltale sign of a barrier.
+
+I looked through my [INVENTORY], trying to find anything that could possibly help me.
+
+[INVENTORY LIST VIEW]
+
+…
+
+- Lesser Mana Potion
+
+- Noodle Azrath
+
+Sorry, Noodle, but you’ll be staying in there until we’re done with this entire dungeon.
+
+I placed Dawn Sunderer inside and pulled out the mana potion, popped it open, and jugged it down. I don’t know if it was because my body was mana-thirsty or what, but the taste was refreshingly sweet and… electrifying? It was a strange feeling.
+
+Whatever it was, I couldn’t stop drinking it until it was completely done.
+
+“Ah!” I exclaimed, tossing the empty potion aside. “I seriously might get addicted to this stuff!”
+
+I stood, stretching side to side.
+
+Reina walked around, eyeing the ground. “Allene, look.” She pointed at a few tiny glinting objects. “I think those monsters dropped something.”
+
+She picked one of them up. It was a small piece of rock. I initially assumed they were just remnants of the monsters, but [INSPECT] said otherwise.
+
+[ITEM: STONE KEY FRAGMENT]
+
+Description:
+
+A shard of stone left behind by the guardians of the manor. Though it appears to be nothing more than a broken chunk of rock, the fragment faintly emits mana, reacting with nearby pieces as if yearning to be part of a greater whole.
+
+Effect:
+
+- Collect thirty fragments to combine into one large key that grants entry into the manor
+
+So we’ll need enough of these if we want to enter the manor.
+
+“How many of them are there?” I asked.
+
+Reina picked them up one by one, counting as she did. “About twenty.”
+
+I looked down the path in the courtyard leading to the manor. Along the path were countless more statues, all of which were still standing despite the huge explosion. If what I assumed earlier was true—that the city itself couldn’t be damaged—that meant that all of them were actual statues rather than monsters.
+
+“Interesting,” I said, walking down the path. “Are you sure there’s only twenty? I cast the Analyze spell earlier and it said we’ll need thirty of them to get into the manor.”
+
+She nodded. “Yeah. Just twenty.”
+
+How strange.
+
+She handed the fragments to me, and I put them in my [INVENTORY]
+
+As we headed down the path, we eyed the nearby statues, still wary from everything that had happened. Once we get out of this dungeon, I think I’ll be staying away from anything stone-related for a while.
+
+“Most of the statues left are angels,” Reina said. “Do you think that means something?”
+
+She was right. All the statues that had come to life and attacked us earlier were lions and knights, while the angels had remained completely still. But were they really just statues?
+
+I called [INSPECT], but nothing showed up. So they weren’t monsters after all, and they clearly weren’t classified as items, either. Maybe they really are just statues.
+
+“I’m not too sure,” I said. “Maybe we’ll get more answers up there.”
+
+When we arrived at the manor's front door, a System message appeared.
+
+[TROPE COMPLETED: NOT JUST DECORATIONS]
+
+Completion criteria: Reach the manor’s front door.
+
+[REWARD: Pending…]
+
+A pending reward, huh? This must be a part of a trope chain.
+
+We looked around for any hidden messages or hints about what to do next. Based on the riddle the gate back there had given us—which we completely ignored—I wouldn’t be surprised if there was another one somewhere around here.
+
+But there wasn’t. There were no signs or words engraved into the wall. There was, however, a doorbell.
+
+Reina pressed it.
+
+…
+
+Nothing happened. Not even a sound.
+
+“Hey, don’t just go around pressing random things!” I yelled. “What if it was another trap that exploded and killed us?”
+
+Reina opened her mouth, then suddenly shut it, her gaze shooting to the path we had walked on.
+
+“Something moved,” she said.
+
+“What?”
+
+I turned, looking at the path and the rest of the courtyard. Everything looked the exact same.
+
+“Are you sure?” I asked.
+
+She nodded. Knowing Reina, her sense of hearing was probably a lot better than mine. I should probably trust her.
+
+My eyes wandered around for a second, trying to figure out what changed. Just as I was about to give up and tell her she was just hearing things, I noticed it.
+
+The statues had changed.
+
+“One of the angels is missing,” I said. I pointed at one of the stone platforms closest to us, where one of the angels was supposed to be.
+
+My heart pounded as my body began to sweat and tremble. I was starting to see what was going on.
+
+Reina, on the other hand, stood as tall as ever. I don’t even think she knows what's happening.
+
+“Just to clarify, you do realize what this means, right?” I asked, looking at her.
+
+She tilted her head. “Well… I rang the doorbell, and then an angel statue disappeared.”
+
+She looked at me blankly.
+
+“Yes,” I said. “But it didn’t just vanish into thin air. It moved. It was a living statue all along. But for some reason, it only moved after we rang the doorbell.”
+
+“It moved?!” Reina cried.
+
+I sighed.
+
+But it was strange. Didn’t I cast [INSPECT] earlier but nothing returned? Was the angel I was inspecting a real statue after all, or was I unable to properly [INSPECT] them while they were in their original positions?
+
+When we returned our gazes to the path, our eyes widened at what we saw.
+
+It was no longer just one angel who had moved. While the two of us had our eyes off of them, the remainder had also moved.
+
+[TROPE INITIATED: THE ANGELS WHO WEEP]
+
+Completion criteria: Defeat the angel statues.
+
+Note: Don’t keep your eyes off of them.
+
+Oh no. I’ve heard of these kinds of monsters before.
+
+“Reina, you have to listen carefully,” I said, pressing my back against the manor’s front door. “We have to time our blinks so that we don’t accidentally blink at the same time.”
+
+She blinked. “Huh? Why?”
+
+“Stop blinking! Listen to me!” I cried.
+
+She blinked again. “I can’t help it! My eyes are super dry right now!”
+
+[TROPE COMPLETED: DON’T BLINK]
+
+Description: Dry eyes are a common concern, but they’re coincidentally more prominent during times when someone shouldn’t blink.
+
+[ITEM ACQUIRED: EYE DROPS]
+
+Description:
+
+A liquid solution that is considered the best friend of dry eyes.
+
+Effects:
+
+- One time use per eye
+
+- Moisturizes eyes on contact
+
+This item will now appear in your hand.
+
+Well that was good timing.
+
+A glowing light enveloped my hand, morphing into the shape of a small eye drop. As the light died down, Reina looked at it, smiling.
+
+“Whoa. You sure have some awfully convenient spells.”
+
+“I guess so…”
+
+I handed it to her, and she used it right away.
+
+“Ah, that’s much better!” Reina said.
+
+I froze, realizing I had forgotten something entirely.
+
+While we were too busy handling the eye drops, we’d completely forgotten about the angels. We hadn’t been keeping our eyes on the courtyard.
+
+I turned.
+
+My heart stopped.
+
+A stone angel stood in front of me, its mouth opened, revealing razor-sharp stone teeth, just inches away from my face. Its eyes lacked any form of life or soul, but it stared at me, completely still.
+
+I screamed.

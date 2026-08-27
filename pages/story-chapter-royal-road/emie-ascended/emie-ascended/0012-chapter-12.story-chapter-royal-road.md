@@ -1,0 +1,115 @@
+---
+id: 879f6440-41e1-5ff0-8dae-b2e01d6d9200
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12"
+slug: 0012-chapter-12
+partOf: emie-ascended
+position: 12
+ownLength: 1576
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3470779/chapter-12"
+royalRoadId: "3470779"
+---
+
+As I was about to leave the dining hall, I happened to mention that I looked forward to taking a nice, long bath after I got back to my room.
+
+Aribella and Cora both immediately perked up and informed me that there was a public bathhouse just outside of the Dungeon Complex. Apparently, a lot of older delvers went there to relax after leaving the dungeon.
+
+Finding both Aribella and Cora to be pleasant enough company, I agreed to join them when they suggested we visit the bathhouse together. I’d gotten over any discomfort at such an idea centuries ago.
+
+“Did either of your old realms have a Realm Dungeon or any kind of elite training facility for potential ascenders?” I asked as we lounged in a hot bath infused with cleansing herbs.
+
+The water was being constantly filtered and circulated, keeping everything fresh while whatever mix the proprietors used slowly purified our skin.
+
+“Not that I know of,” Cora replied before looking toward Aribella, who shook her head. “If there was something like that, it was probably on Lomis – the homeworld of our realm. Mike and I never had any reason to go there, even after we reached Tier Ten. We wouldn’t have been welcome in any case, even if we had gone. I doubt they would have shared any secrets with us.”
+
+“Why is that?”
+
+“Because we were part of a mixed marriage,” Cora replied matter-of-factly. “The people of Lomis are very traditional. They don’t believe in the mixing of elements. Since Mike’s origin element was Earth and mine was Air, our union was even more blasphemous. Even on more progressive worlds, it wouldn’t have been accepted.”
+
+“So, how did the two of you manage?” I asked.
+
+“We didn’t,” she replied seriously before her expression shifted into a smile. “I’m just kidding. But really, we didn’t get together until after I obtained Darkness as my second affinity. Once I gained that, a relationship between us was no longer considered taboo by any but the staunchest traditionalists, so we were able to act on our feelings.”
+
+“But you still couldn’t go to your people’s homeworld?”
+
+Cora shook her head. “Not really. I mean, they wouldn’t have killed us or anything, but our backgrounds were a matter of public record, and everything is reviewed whenever someone travels. We would have been flagged the minute one of us arrived, and there was nothing there to justify the kind of harassment we would have undoubtedly faced.”
+
+“All because you wanted to be with someone who had a different element?” I asked, feeling appalled by what she was describing.
+
+“Well, yeah,” she said as if such behavior was normal. “I mean, there’s obviously a reason for it, even if the traditionalists take it a bit too far.”
+
+“What do you mean?”
+
+“Before I obtained Darkness as a second affinity, I would have never considered getting involved with Mike, no matter how much we might have liked each other. To be with someone who has an incompatible element would be the height of selfishness since it would doom any children we had to the weakest of talents.
+
+“Granted, that isn’t always the case,” Cora clarified, “but the likelihood was so high that it would never have been worth the risk to anyone who cared about the well-being of their offspring.”
+
+“What about Darkness and Earth? How would that combination be better than Air and Earth?” I asked.
+
+“Because Darkness is compatible with Earth. It isn’t to the same degree that Light and Fire are compatible, but it’s pretty close. It was enough compatibility that we were able to have children and not worry that they would all be forced to start with the weakest of affinities. Did your old realm not consider such things when selecting partners?” Cora asked.
+
+“Not like you’re describing,” I replied. “I know that one’s element is often a factor in political marriages, but I don’t think normal people put a lot of weight into someone’s affinity when they marry.
+
+“Keep in mind that people could be born with more than one affinity in my old realm. It wasn’t common, but awakening dual elements wasn’t rare, either.”
+
+“I think my home realm was more like Emie’s than yours, Cora,” Aribella said. “Did the people of your home realm ever start with anything other than the basic five elements?”
+
+“Five? There are only four. Air, Water, Earth, and Fire,” Cora replied.
+
+“What about Metal?” Aribella asked.
+
+“That’s an Earth-adjacent element.”
+
+Aribella looked at me questioningly. I shrugged. “We had the same core four as Cora, but you could awaken any element. Gaining new elements was almost impossible outside of a couple of very rare circumstances.”
+
+Cora shook her head. “In my old realm, it was pretty easy. You just had to absorb five cores of the same type to unlock a new affinity. Absorbing more cores of the same type just made whatever affinity it was stronger.”
+
+“Where’d you get the cores from? Beasts?” I asked.
+
+Cora looked aghast at my suggestion. “Of course not! Who would absorb a beast core? That would probably kill someone. No, the cores were obtained as rewards in certain rifts. Those rifts were usually monopolized by corporations, which were the real rulers of the realm.”
+
+“In that way, my old realm was like yours, then. It was run by guilds, which were basically big corporations focused on extracting as many resources from the rifts as possible,” Aribella said.
+
+I shook my head. “We had nobles. There were guilds, too, but they were usually focused on professions and specific fields, like what they do here.”
+
+“But the guilds didn’t run anything?” Aribella asked curiously.
+
+“Not directly, I don’t think. But keep in mind, I didn’t spend much time outside of the Realm Dungeon, which was my realm’s elite training ground. Most of my life was spent there, grinding toward ascension.”
+
+“Were you one of those that you mentioned before – someone born with two affinities?” Cora asked.
+
+“I was. My situation was a bit stranger than most, though, since my world didn’t have access to mana when I was growing up. Mana and the system were introduced while I was in college, so I didn’t awaken my affinities until I was twenty-one years old.”
+
+Cora sucked in a breath, making a hissing sound. “That’s quite late,” she said before tilting her head slightly and giving me an appraising look. “But it clearly didn’t hold you back, considering you managed to ascend. I suppose stagnation wouldn’t have been an issue at all if you didn’t have access to mana.”
+
+“No, stagnation wasn’t an issue for my realm,” I said. “At least, I don’t think it was. Maybe some of the longer-lived races might have had to deal with it, but I was a human, and it was never something I was warned of.”
+
+To be fair, I only ever had a few years of break at any one time. Even if it was something other humans might have to worry about, it was never going to be an issue for me. I was pretty sure that stagnation wasn’t a thing in Neohim, though. If it were, surely I would have heard about it.
+
+“Well, it is an issue here, so you’ll want to keep it in mind when you take time off,” Cora said. “If it works like it did in my home realm, as long as there is a regular influx of essence, you won’t have anything to worry about.”
+
+Turning toward the quiet Water Magi, Cora asked, “What about you? Did you have to deal with stagnation in your home realm?”
+
+Aribella shook her head. “Not that I’m aware of.”
+
+We chatted for a little while longer before moving to the showers to scrub the dead skin off and wash our hair. By the time we left the bathhouse, I felt much fresher than I had in a while.
+
+Our clothes had been laundered as part of the fee, and putting back on the starter gear reminded me that I was still in need of quite a few items.
+
+“I need to go shopping tomorrow,” I said with a sigh.
+
+“You want me to come with you?” Cora asked. Aribella had already left, so it was just the two of us.
+
+“Sure. I wouldn’t mind the company.”
+
+“Did you already take out a temple loan?” she asked.
+
+Since most new Ascenders could not bring a lot of loot with them when they left the dungeon for the first time, the temple offered loans to cover the cost of clothing and equipment. It was a pretty safe investment since every Ascender should be capable of surviving long enough to repay the debt.
+
+“No. I shouldn’t need one to cover the basics,” I replied. I wasn’t one to take out loans unless I absolutely had to, anyway. “I was able to bring quite a bit of loot with me when I left using my inventory.”
+
+For now, I didn’t mention anything about being able to enter the space. I planned to eventually share the fact that I had access to a small ‘Sanctuary’ that I obtained as part of a boon, but it didn’t seem like something that needed to be shared right away.
+
+“Oh, yeah. I saw that listed as one of your skills,” Cora said as we reached the housing area of the Dungeon Complex. “That’ll definitely come in handy.”

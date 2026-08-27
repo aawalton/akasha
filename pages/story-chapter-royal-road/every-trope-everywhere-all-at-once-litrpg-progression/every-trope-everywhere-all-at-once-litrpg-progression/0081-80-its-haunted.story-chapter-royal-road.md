@@ -1,0 +1,225 @@
+---
+id: 41062794-9674-55d8-9452-d6ef292f9374
+page-type-slug: story-chapter-royal-road
+title: "80 - It's Haunted"
+slug: 0081-80-its-haunted
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 81
+ownLength: 1783
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3748713/80-its-haunted"
+royalRoadId: "3748713"
+---
+
+When morning came, a gentle breeze tickled my eyelashes, causing me to wake up. Warm sunlight poured over my body and seeped through my clothes. Even through my eyelids, I could tell the morning was bright.
+
+Where was I?
+
+That’s right… I fell asleep on the couch, didn’t I?
+
+Wait a second. Why did my body feel so heavy?
+
+I slowly opened my eyes, and that was when I saw…
+
+“Reina…?” I said. “Argh… how did you end up here?”
+
+She was sleeping soundly on my chest. I tried moving, but I couldn’t. My arms and legs felt as though they were pinned down. I peeked around her, realizing it wasn’t just her sleeping on top of me.
+
+Aeris and Talon had somehow ended up here as well. Weren’t they supposed to be sleeping in their rooms last night? How the hell did all three of them end up on this couch?
+
+“Well,” Meriel said. I turned, noticing her standing just beside the couch. “That doesn’t look very comfortable. At least not for you. The others, on the other hand, seem to be sleeping like newborns.”
+
+“If you know that, then help me out over here!” I cried.
+
+She shook her head. “I can’t. This is a valuable lesson. Imagine you have three enemies pinning you down. You need to find a way to escape them.”
+
+“I’m not in the mood for one of your lessons first thing in the morning!”
+
+“Well, that’s too bad. The mentor gets to choose when the lessons take place, not the student.”
+
+I gritted my teeth. “Fine! If you’re not going to help me, then Kaelor will. Where is he?”
+
+“Over there,” Meriel pointed at the other end of the couch. “He’s sleeping quite peacefully despite being upright. It would be a shame to wake him up just because you’re too weak to get your friends off of you.”
+
+I didn’t even realize he was there since the others were in the way. He must’ve fallen asleep here like I did last night.
+
+“If you’re going to be useless, I’ll take matters into my own hands,” I said.
+
+I tried to move again, but it was no use. The three of them pinned every inch of my body down to the couch, and it certainly didn’t help that my body was basically inside of the couch because of how soft it was.
+
+“Wake up!” I yelled. “Wake up, wake up, wake up!”
+
+Despite all the commotion I was making, not a single one of them did. Reina’s face, however, scrunched a little. Looks like it was working.
+
+“Wake up!” I yelled again. “Wake up, wake up!”
+
+As if some ghost had possessed her body while she was still asleep, Reina slowly lifted her head. Her eyes were still shut.
+
+“Yes, keep going, Reina. The morning’s here. Wake u—”
+
+She slammed her head into my neck before snuggling against me. I gasped for air, nearly suffocating from the attack. Damn it, Reina! How could someone move so erratically in their sleep?!
+
+“Want a hint?” Meriel asked, smiling at me. “I can give you a bit of advice to break out of this situation.”
+
+“A hint? No, I want you to pull them off of me!”
+
+“That’s a yes or no question. Do you want a hint or not?”
+
+Why was she treating this like some sort of game?
+
+“Okay, fine, give me a hint!” I yelled.
+
+“Use your skills, Allene. One of them has to be useful here.”
+
+My skills? Was she talking about my System skills?
+
+I looked through the list of all my skills. I realized right away that she was right. One of them would be very useful here.
+
+[SKILL: LUCKY BREAK]
+
+Type: Active
+
+Effect:
+
+- Cause one unlikely but believable coincidence
+
+Cooldown: once per day.
+
+That was the one I had received after rerolling my other skills.
+
+“Here goes nothing,” I said, using [LUCKY BREAK].
+
+I looked around the room. Maybe a huge gust of wind would come from the window and knock them off the couch. Maybe the sun’s rays would somehow concentrate on one of their faces and force them awake from the burn. Or maybe this house would just randomly explode.
+
+Actually, no. I’d rather not have the last one happen. They’ll get off of me, sure, but we’d all be dead.
+
+A faint hiss came from somewhere nearby. Seconds later, Noodle the serpent emerged under Reina’s clothes.
+
+“Noodle?” I said. “Were you here this whole time?”
+
+Without warning, he slithered onto Reina’s face, moving toward her nose. He rapidly flicked his tongue, causing her face to scrunch and her nose to twitch.
+
+“Ah… ah… ACHOOO!”
+
+Reina sneezed so violently that she launched herself backward, sending Aeris and Talon tumbling off the couch with her. Aeris had a rougher landing than the others and smacked her head on the floor, vigorously rubbing where she’d hit it. Noodle flew over and settled in between her horns.
+
+I sighed. “You saved my life, Noodle.” I tried to get up, but my entire body had gone numb from how long they’d been lying on top of me.
+
+“What’s with all the commotion?” Kaelor began as he rubbed his eyes, waking up from the other side of the couch. The moment his eyes met with mine, he burst out into laughter.
+
+I frowned. “What…?”
+
+“Why’s your face covered in snot?”
+
+“Snot…?”
+
+Meriel pointed at my face. “Well, Reina did sneeze right in front of you. It would be strange if you got away snot-free.”
+
+“The saying is scot-free, not snot.”
+
+“Snot-free fits the situation a lot better.”
+
+With my face burning red from anger, I pulled Meriel close and rubbed my face all over her white robes.
+
+“How’s that?!” I said, smiling deviously as I used her robes like a tissue. “All the snot will be a pain to get rid of… wait what?”
+
+I leaned back. My face was completely clean now, but… so were her robes? How was that even possible?
+
+“So… are you going to finally reveal how your robes always stay perfectly white or…?”
+
+“Nope,” she said. “That’s a secret.”
+
+I cast [INSPECT] on her robes, but the description was entirely ordinary. I guess this was one of those things that couldn’t be explained.
+
+“I’ll be sure to clean myself more often with your robes,” I said. “They’d make great bath towels. And they’re pretty soft, too.”
+
+“Let’s not do that.”
+
+I turned to the others, who had already gotten up and gone about their morning. Talon went to the kitchen. With Noodle perched on top of her head, Aeris headed to the bathroom to clean herself up, while Reina did her usual morning stretch before heading into the bedroom.
+
+I glanced at Kaelor, who had sunk so far into the couch that it looked as though he’d somehow grown a triple chin. His chin was practically pressed against his chest because of his god-awful posture.
+
+“So…” I began. “Could someone tell me how we all ended up in this situation?”
+
+Meriel shrugged. “I can’t. I had only woken up a moment ago and realized that I was on the bed by myself. When I walked into the living room, I saw everyone on top of each other.”
+
+I looked at Kaelor. He instantly turned away.
+
+“Now that’s a guilty look if I’ve ever seen one,” I said.
+
+He scratched his head. “I’m not too sure what happened either.”
+
+“You were the only one with me on this couch last night. If anything, you’re the one who should know.”
+
+He scooted over to me. “Then I’ll tell you the truth. Meriel, get closer. We can’t let the others know about this.”
+
+She leaned in.
+
+Kaelor continued, “Last night, Allene and I stayed up late to talk. She fell asleep first, but I stayed up for a little while. That was when I heard them.”
+
+He gave a horrified expression—an expression he never showed even during the dungeon outbreak.
+
+“I heard mumbling. Whispering. They came from the room you were sleeping in, Meriel. And not just that, but I was also hearing several thuds.”
+
+She gulped. “What…?”
+
+“I have no clue where you’re going with this story,” I said. “Are you trying to say the house is haunted?”
+
+He shook his head. “Not just haunted. Worse. The very people we trusted all this time… Reina and Aeris… they were possessed by demons! The two of them opened the bedroom door and walked down the hallway toward me. I heard the floor creaking with each step, and I stayed completely still, pretending to be asleep like Allene was. I was afraid for my life.”
+
+Kaelor put a hand over his heart. “Then they did something unthinkable. They climbed on top of Allene, trying to possess her too!”
+
+Meriel and I exchanged glances.
+
+“I’m pretty sure that’s just sleepwalking,” I said.
+
+“That is undoubtedly sleepwalking,” Meriel said.
+
+His jaw dropped. “Sleepwalking…? You think the two of them did it at the same time? That’s too much of a coincidence to be sure about. I even felt horrible demonic energy coming from them last night.”
+
+I sighed. “Kaelor, I think you’re suffering from trauma after everything with Aurelius and the whole thing with possessing bodies. Combine that with how dark it was, and you have a recipe for getting spooked.”
+
+He crossed his arms. “Hm… that actually does make sense.”
+
+“But wait,” I said, my blood running cold. “That doesn’t explain how Talon also ended up here. Did you happen to see him?”
+
+Kaelor shook his head. “No. As I was pretending to be asleep to hide from Reina and Aeris, I… fell asleep for real. The couch was too comfortable.”
+
+“That’s strange,” Meriel said. “I don’t think Talon was sleepwalking. Harpies almost never sleepwalk. Maybe he’s an exception…?”
+
+Just then, Talon walked over to us with a tray of steaming mugs.
+
+“The coffee’s ready!” he said.
+
+We stared at him.
+
+Very, very suspiciously.
+
+“Talon?” I called.
+
+“Hm?”
+
+“How did you end up on this couch last night?”
+
+He tilted his head. “I’m not sure… Oh! Actually, I sometimes glide around while I’m asleep—usually into walls, though.”
+
+I blinked. “You… what?”
+
+Meriel scratched her head. “I stand corrected. He sleepglides instead of sleepwalking.”
+
+Kaelor laughed. “I see! Well, that certainly explains the loud thuds I heard last night. Talon must’ve been bumping into walls before making his way out here. And here I thought this house was haunted.”
+
+[TROPE COMPLETED: SLEEPWALKING INTO AN AWKWARD SITUATION]
+
+[SKILL ACQUIRED: SLEEPWALKING PROTECTION]
+
+Type: Passive
+
+Effect:
+
+- Sleepwalkers will stay far away from you
+
+Welp.
+
+At least this entire ordeal gave me a skill I could use to reroll.

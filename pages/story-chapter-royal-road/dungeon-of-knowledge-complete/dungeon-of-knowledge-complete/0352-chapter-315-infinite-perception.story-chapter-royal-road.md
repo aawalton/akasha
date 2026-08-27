@@ -1,0 +1,127 @@
+---
+id: e8e940c6-0b91-5f19-8073-2d9a56ff1147
+page-type-slug: story-chapter-royal-road
+title: "Chapter 315: Infinite Perception"
+slug: 0352-chapter-315-infinite-perception
+partOf: dungeon-of-knowledge-complete
+position: 352
+ownLength: 2038
+unit: words
+ownProgress: 2038
+publishedAt: 2025-07-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2445754/chapter-315-infinite-perception"
+royalRoadId: "2445754"
+markedReadAt: "2026-06-29T20:22:30.635Z"
+---
+
+Training is the way of Ahn Khen.- Kamari Ren, Elder of the Ahn Khen, legendary master and inheritor of the Ninefold Way: Fists of Coherent Integrity.
+
+Mato stepped out back behind the main guild building and took in the sight of Havok’s church of Azryet. It was hardly more impressive than the first time he had seen it, but at least it now had proper stone walls and a roof.
+
+It had been a little while since he had stopped by – most of the time, it had been to offer his services to the outreach efforts, healing the sick and dying among those too poor to afford conventional healing services in town.
+
+But today, it was a little more personal for him. He just hoped Havok would be here – he needed help. He had never had much experience with religious observances, deities, or patronage, and he found he had no idea how to thank a god.
+
+He knocked on the door carefully, but it didn’t break under his strength, and a few moments later, it opened to the grinning green face of Havok, the First Paladin of Azryet.
+
+“Mato! Come pray?” Havok asked.
+
+“I don’t know how, Havok,” Mato said, chuckling wryly and taking the invitation to step inside. He glanced around, happy to find that they now had an actual wooden floor and a few stools. A small surge of relief caused his shoulders to relax at the empty chapel – there was nobody else around to observe his awkwardness.
+
+“Is easy,” Havok said. “I help.”
+
+“Thanks, Havok,” Mato said, taking a stool. “You see, Azryet offered me a very powerful path in my evolution, and I just wanted to say thank you. Is that something you can help with?” It had been a simple matter to share his gratitude with Lira, of course. But he had never seen Azryet in person, nor spoken with him.
+
+“I do.” Havok dropped to his knees immediately. “Oh, mighty Azryet,” he said. “Mato say thanks for the power.”
+
+It didn’t sound a whole lot like a prayer to him. Mato had always imagined something a little more chanted or pious or something – but a soft glow of holy light fell upon the tiny kneeling Goblin and then suddenly his chime sounded.
+
+Your actions have increased the reputation of your patron.
+
+Mato looked about in surprise.
+
+“He say you’re welcome.” Havok declared, beaming from ear to ear.
+
+He heard that?
+
+Somewhere, perhaps more imagined than actually beating upon his ear, Mato thought he heard distant laughter fit to shake mountains.
+
+Malika gulped, but leaped to her feet, nonetheless, vaulting up into the arena to stand opposite the elder who had just destroyed Ali’s most powerful berserker without taking a single hit. If that was the demonstration he had intended, it was beyond effective.
+
+Respect! She bowed deeply.
+
+“I will attack, and you will defend,” Rezan instructed, returning her formal bow. “Use your eyes. Watch and learn.”
+
+Malika barely had the time to nod before he came at her, fists and feet blurring with unbelievable speed. Instantly, she recognized the basic kata forms she had learned as a child in her parents’ dojo, a training sequence. She blocked each strike accurately, having practiced the form so many times it was almost ingrained in her muscles, but the elder was not going easy on her. It may have been a basic form, but she had never seen it executed with so much power and precision, the blows rained down on her like an unrelenting avalanche and she was hard-pressed to even keep her guard up and her stance unbroken.
+
+As instructed, she watched, studying the powerful flows of mana and stamina within the elder’s body as he struck again and again. Infinite Perception filled her eyes with a warm radiance as she studied the movements of the master, creating a clear and unobstructed view of the skill and technique itself.
+
+Then he brought the sequence full circle, blending the end back into the beginning and starting over. But this time, he was a little quicker, the blows a little stronger, and Malika reacted by feeding more stamina to Martial Artist, blocking everything as she had been instructed.
+
+And again, he repeated, speeding up even further. And then again. Infinite Perception was a subtle skill, gently, almost imperceptibly reinforcing her perceptions, but she was certain she would not have been able to follow many of his punches, elbow strikes, or kicks without it.
+
+After the sixth round of the same basic form, she was beginning to truly struggle, her breathing ragged as she pushed herself further and faster just to keep up. Rezan’s speed seemed to have no upper bound, and he was easily outpacing her, even though she was overspending stamina on Divine Step to accelerate her fluid movements. Her abilities were reducing in cost, certainly, but he was accelerating the pattern more rapidly than her abilities could keep pace.
+
+“Have you ever wondered why this pattern stutters?” Rezan asked, not breaking his rhythm in the slightest, his voice not even betraying any effort, like a friend pointing out an interesting view on an afternoon stroll through a park. “Between the sixth and seventh strike, the flow of movement seems broken.”
+
+“Yes,” Malika gasped, struggling a little now to keep her breathing even. She had indeed, but she had always thought that the break was there because it emulated the nature of real combat – it was impossible to fight with pre-designed patterns of any length simply because one had to react to one’s opponent.
+
+“Pay attention,” he said, beginning the pattern anew.
+
+But as he reached the stutter, Malika’s eyes widened in surprise as his fist blurred and split, coming at her simultaneously from the left and the right. It was not two separate attacks that just sped up; his right fist simply took two different paths, striking her on the shoulder and in the gut simultaneously as her surprise prevented her from blocking either blow. Her body flew across the ring from the sudden impact, but she suddenly understood – the form had never been designed to have two consecutive strikes with the right, it had always been intended to have a single simultaneous attack. The pattern he had just delivered shone within her mind, perfect and harmonious – as it had always been intended to be.
+
+Aha! That’s what it is!
+
+She caught herself in the air with Divine Step and landed lightly at the edge of the ring, returning to the middle.
+
+“Don’t let surprise interfere with your defense,” Rezan said. “Block me.” Again, he surged forward, his strikes accelerating to an even greater velocity, his body tearing through the pattern in an intimidating and aggressive, yet awe-inspiring display of power.
+
+Malika faced the onslaught, barely blocking everything, and when the moment came, she burned her stamina trying to block the simultaneous strikes, but her haste was woefully insufficient, allowing her only one block while the second strike connected with full force, knocking her flying again. Her failure did not stop Infinite Perception from singing the perfection of what she had witnessed a second time.
+
+“Don’t try to block them sequentially,” he said. “Visualize both moves with your mind and release them when the time comes.”
+
+What the fuck does that even mean? Holding both moves in her mind was the easy part. Releasing them simultaneously simply didn’t make any sense. But she wrestled with it anyway, studying his movement with her bloodline eye skill, searching for any insights she might glean.
+
+He struck again, and again she flew away as if casually swatted by Tol’brekk himself – but she leapt to her feet, returning immediately, eager for more. The attempts began to blur into a long sequence of punishing blows to her body, but she healed and returned to the fray, again and again.
+
+His fists flew, and separated before her very eyes, striking toward her with an impossible haste. Her body was burning with power and energy from the long spar, but she failed again and again to produce enough haste to match the intimidating simultaneous attacks. She watched the twin strikes approaching, despairing that she would never be able to understand Rezan’s teaching. But in that moment, she surrendered to the calm of Clarity, and she allowed her body to respond automatically. In that instant, surrendering her intent to her bloodline skill, her hand blurred forward, and she felt a strange sense of decoherence in her strike as she reflexively reached for both attacks.
+
+Her eyes saw her wrist blocking the high punch and the same forearm blocking the low punch, the impact of her mentor’s strikes crashing into her block at precisely the same time, and then her arm and body twisted, as if pulled back together by some elastic, snapping into wholeness once again.
+
+Holy crap! That was… weird? Yet it worked. Somehow.
+
+Malika grinned briefly. “Like that?”
+
+“That’s it,” Rezan said. “And now, you must understand the third form.” And with that, he came at her using the next sequence, blows flying rapidly as she blocked. As the strikes came, realization dawned – this pattern had a similar glitch in the flow.
+
+Three? She reacted as soon as she realized, reaching for the same clarity and flow. Her arm flickered, reaching three separate ways, as she barely managed to block all three of his simultaneous attacks.
+
+Without words, he simply launched into the next sequence, and she knew she would be expected to block four this time.
+
+She failed, only able to counter three of the strikes, flying backward again as shame and embarrassment rose unbidden within her. But he just waited for her to ready herself and came at her again, the expression on his face and the gentle flow of his energy exuding patience and calm.
+
+Finally, he stopped, stepping backward and bowing to signal the end of the bout. “Good.” He had stopped only after she had demonstrated she could repeatedly block four simultaneous strikes and could deliver them as the attacker also.
+
+She bowed back, her mind filled with the echoing of her notification chime.
+
+“Practice diligently, and you will continue to advance,” he said, exiting the arena beside her. “It will likely feel strange, even awkward, for some time.”
+
+Malika followed him, deep in thought, rubbing her aching fists and forearms.
+
+“Master, when will you teach us that?” Hala asked, excitement and awe plainly written on her face.
+
+“As soon as you reach your evolution,” he answered. “You will train here, I think. It is a good sparring ground.”
+
+Malika took a moment to kneel, breathing surprisingly hard after her bout with the master. Just a quick check of what I got…
+
+Martial Artist has reached level 52 (+3).Clarity has reached level 36.Soul Sight has reached level 34 (+3).Requirements met for skill advancement.Mentor: Rezan JinClass level has surpassed 100.Martial Artist has reached at least level 50.Has repeatedly studied master-level Instantaneous Strike with Infinite Perception.Has received master-level instruction in the Nine Paths.Has trained Masteries in the Dungeon of Knowledge. Dexterity has reached at least 985.Wisdom has reached at least 920.Martial Artist gains Instantaneous Strike.Martial Artist – level 52Requires: Unarmed.You are proficient with unarmed and acrobatic martial arts fighting styles. Your reaction speed is enhanced.Stamina: Deliver a Melee Attack with any part of your body. Attack damage is increased by +1086% [40 + skill + dexterity].Stamina: Block or deflect any attack, reducing damage taken proportional to dexterity and skill. Blocked attacks cannot cause critical damage.Stamina: Unlock the paths of possibility. You may make up to 6 [1 + skill / 10] simultaneous melee actions. Recharge: 15 seconds.Physical, Melee, Attack, Defense, Mastery, Dexterity
+
+She did not even need to accept the advancement, clearly having accepted it implicitly with her actions during the training bout. She sighed, studying the immense change, but it was abundantly clear what Rezan had meant about practice – against him, she had only managed four attacks or blocks, but her skill clearly implied she should be capable of six.
+
+“A word of advice, Malika,” Rezan said. “Never turn off your Infinite Perception.”
+
+“Thank you, Elder,” she said, bowing her head to him.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

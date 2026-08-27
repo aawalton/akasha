@@ -1,0 +1,167 @@
+---
+id: 6abbaf4a-31d7-594f-82e0-7ee24248ce6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirteen: Hurdles"
+slug: 0013-chapter-thirteen-hurdles
+partOf: flesh-eater-demon-evolution-litrpg
+position: 13
+ownLength: 2826
+unit: words
+publishedAt: 2025-08-31
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2563646/chapter-thirteen-hurdles"
+royalRoadId: "2563646"
+---
+
+Subtrait: Flesh CompositionAllows user to alter the muscle-fat composition of their flesh.Main Trait: [Amorphous]
+
+Pyre idly read through the description of her new subtrait. Once again the system liked to be vague, she thought in amusement. To be honest, she hadn’t even noticed a difference between muscle and fat—she was a giant blob of flesh that could warp and shit, and that was enough for her understanding. The fact that she apparently had muscles and fat (or whatever the system defined as them) was news to her.
+
+Still, to test the subtrait out, the demon focused. She had zero idea what muscle versus fat felt like, so she decided to just try thinking really hard and hope the system got the message. What even was her current composition? Fifty fifty? That seemed like a fair enough guess, so she attempted to bump that up to eighty percent muscle, twenty percent fat.
+
+It took a bit, but after some more intense concentration (that was mostly just her repeating eighty percent twenty percent in her head), she felt a wave of warmth flow through her. It wasn’t quite the same as when she got new traits and stats; this was more of a tingling sensation.
+
+She focused her eyes on one end of her body, watching as the flesh quivered a little. After a few moments, the area shrunk slightly. Actually, her whole body shrunk slightly. Her eyebrows rose.
+
+Huh. Pyre shifted around once the tingling sensation was gone. Yep, she was definitely a bit smaller now. Still big—she towered over Callan, same as before—but a little less so. Muscle was more dense than fat, right? That sounded right, and it wasn’t like she had any memories to prove her wrong, so she was going to take that as a yes. If that was the case, then it made sense that she’d be a little more compact like this.
+
+The flesh, too, was definitely harder and more rigid, less squish. This was pretty useful, actually. She did like being able to crush things through sheer size advantage, but moving through the forest was a little annoying at her size, even when she stretched out long and thin.
+
+Speaking of the forest, the surroundings had been very quiet so far. After Callan had decided to tag along with his ghostly self, Pyre had paused her travels for a bit so she could take a closer look at her new subtraits and how well her fall injuries were healing. Callan hadn’t said a word when they’d stopped suddenly. The ghost seemed content to stay quiet, apparently doing his best to mimic empty air, which suited the demon just fine.
+
+Pyre attempted to contort some of her now more muscular flesh. She could still warp it quite a bit, but it took longer. And, while it was more rigid, she still had to actively focus to keep it morphed. It looked like she’d still need [Flesh Sculpting] to passively maintain shapes. Something to keep in mind. For now, she decided to keep her current composition. If she ever needed to cushion a drop from the top of a giant hill again, she’d adjust it.
+
+With that done, the demon took another glance at her stat sheet. The descriptions for the other subtraits were pretty much what she’d expected. It had been fun to grow some nails, which could also be claws, it turned out, but they weren’t as strong as bones and not really useful in her current state. Why grow nails when she could straight up stab things with bones? Not worth it, if you asked her.
+
+There was also the notification currently flashing in her face that she needed to deal with.
+
+[WARNING: You currently have (10) unused stat points. Stat points may only be held for up to one hour. After an hour has passed, the points will be forfeited.]
+
+So, apparently she couldn’t just infinitely hoard points for insta-heals. Ah well, it had been worth a shot. At least she now knew she had an hour to do whatever the fuck she wanted with her points before the system took them away again.
+
+Pyre decided to toss all 10 points into magic resistance. She’d been running into an awful lot of mages lately, and she’d rather not deal with any more magic bullshit down the road than she needed to. The sooner she could get her magic resistance above 100, the better. A wave of warmth flowed through her, and she turned her attention to the last main order of business: checking her wounds.
+
+The first thing she did was grow some more eyes. Her flesh rippled as she attempted to grow six more to hit her maximum of eight. She heard a faint noise of alarm from Callan. The ghost looked vaguely sick, but he was still watching with a morbid sort of fascination. Pyre snorted. Clearly the kid hadn’t realized that two eyes wasn’t her norm.
+
+There was still a bit of soreness as the flesh morphed, but she was pleased to see that three of the new-grown eyes were fully functioning. The other three were still in shit condition, though—barely even recognizable as eyes. She reabsorbed them and, after some consideration, decided to keep two functioning eyes in reserve and three active. She had to say the extra eyeball did wonders for her field of vision.
+
+Her damaged mouth, on the other hand, hadn’t made as much progress as the eyes. It was still half deformed, so she reabsorbed it and her second mouth to leave just the one. Ah well, at least she was healing. And pretty fast, too. If she gave it another day, she’d probably be all set to do another giant drop if she felt like it. Maybe she’d even be able to crack through Fred’s thick skin this time.
+
+Eh. Probably not.
+
+“What happened?”
+
+Pyre moved an eyeball over to stare at Callan, who grimaced a little at the motion. The neat thing about being able to move her eyes and mouths everywhere was that she never actually had to turn her body to face someone. She could just swivel an eye around. The fact that others apparently found it disturbing just added to the entertainment value.
+
+“What’re you talking about?”
+
+Callan shifted a little. Despite constantly hovering an inch above the ground, he still moved his legs when walking and acted like he had actual weight to adjust. It was kind of funny to see.
+
+“Your—I mean, I saw you brush off those blades like nothing, so how…” his voice trailed, but Pyre got the general gist.
+
+“Oh, the smushed eyes? Turns out falling from very high places has consequences.”
+
+The ghost squinted at her. “You… fell,” he said like he couldn’t quite believe it. Pyre didn’t think it was that hard to understand, but maybe this was another human thing her poor soulless, memory-less mind couldn’t comprehend.
+
+“I see you’re talking now,” she remarked casually. “So, before you decide to do your best impersonation of empty air again, what’re all the Tier 1 class options?” If he was set on tagging along, he might as well make himself useful and answer more of her questions.
+
+Callan hesitated, mentally debating with himself. Finally, he answered. “Warrior, ranger, mage, and healer,” he said slowly.
+
+Ah, so she had been missing shards for one. Thankfully for her, Pyre had zero interest in becoming a healer and probably straight up couldn’t, anyway, if it was also magical. Of the four, warrior sounded like the best fit, and she already had all the shards she needed for it. Lucky her.
+
+Pyre shifted her eyes back to their original positions, ready to continue moving, but at the last second she caught Callan open and close his mouth again. She raised an eyebrow.
+
+“What? If you’ve got something to say, say it.”
+
+“How’re you gonna get to the village?” he blurted out.
+
+“Well,” Pyre drawled, “I was thinking of walking—slithering, excuse me. Unless this village of yours is actually on a floating island. Then I suppose I’d have to jump really high.” That would be cool, actually. She hoped there were floating cities in this world. Considering all the magic ancient-titan blood everywhere, it didn’t even sound all that crazy.
+
+“No, I mean—” Callan cut himself off and made a frustrated noise. “I mean, you said you weren’t going to—to kill everyone.”
+
+“I did say that, yes.”
+
+“So,” the ghost continued, “how’re you planning on getting in without all the guards coming after you?”
+
+The demon had actually put some thought into that. The fact of the matter was that she was very obviously a demon at a glance, and she still wasn’t planning on dealing with an entire angry village going after her. Which would be hard to avoid, if she approached in her current form.
+
+The thing was, though, that she’d gotten a lot of new subtraits since her time in the Fred Zone. She could make a skeleton with joints and shit now. She could grow hair and nails and pretty much everything required to form a rough human shape, at least on the outside. No one had to know she didn’t have organs. Or blood.
+
+She hadn’t bothered to do it up until now, mostly because she hadn’t seen the point, but she was pretty sure she could shift herself into something that looked passably human. She’d have to use [Flesh Sculpting], so it would only last for an hour tops at the skill’s current level, but that would be more than enough time for her to get in, find the crystals she was looking for, and get out.
+
+Hell, she might not even need to steal the class crystal—those guards she’d just killed were definitely carrying money. She could buy it like a good citizen, then dedicate her full thievery efforts into the evolution crystal. And if she had to slaughter a few guards on the way out, well, she could probably handle it.
+
+“In case you haven’t noticed,” Pyre said, “I’ve got an awful lot of control over my appearance.” To prove her point, she promptly slid her three eyeballs around her body, moving them so they drew little circles across her flesh like swimmers in a pool or something. Callan looked like he was about to test if ghosts could puke or not. “I can make myself look human enough to get in.” Enough being the key word here. It definitely wouldn’t be perfect, but as long as no one looked too closely, she’d be good.
+
+“That’s not what I meant.” Callan waved vaguely. “I mean, how’re you gonna get past the alarm spells?”
+
+Pyre gave the ghost a long look. “Alarm spells.”
+
+He hovered to the side uncomfortably and cleared his throat. “Uh, yeah. Most places have them. They’re ritual spells. Mages use the ichor streams underground as pathways to channel the spell. They’re designed to trigger whenever certain species cross the threshold. They’re really complex, actually. Some of them look at flesh composition and blood and stuff, others look directly at the soul, I think some even—”
+
+“Okay that’s enough.” Pyre cut off the ghost’s rambling. The kid looked a little embarrassed and promptly dropped his gaze to stare at the ground. “Were you a mage or something? You seem to know an awful lot about this and ichor shit.” And care about it a lot, if that impassioned slew of information was anything to go by. Ghost mage sounded like a very powerful combination, actually.
+
+He pursed his lips. “…Not a very good one,” came the eventual reply.
+
+Pyre squinted at the former human, but he seemed intent on not saying anything more on the topic, so she returned her focus to the main issue at hand.
+
+“So,” she began, “there’s some magical barrier spell thing around your village that’ll let every human in a ten mile radius know the second I cross the border. That about right?”
+
+“Well it’s not exactly a barrier—”
+
+“Not the point.”
+
+He nodded sheepishly.
+
+Pyre went quiet for a moment, simply watching the ghost. Studying. The unblinking silence was apparently rather unnerving, because after an uninterrupted minute of it, Callan blurted out, “What?”
+
+“I’m thinking.”
+
+“…About?”
+
+“I’m trying to figure out if you’re bullshitting me, or if you’re telling the truth, why you’d decide to tell me now when you conveniently left this out earlier.”
+
+The ghost’s jaw clicked shut. Slowly, a wide grin spread across the demon’s face. Rows of sharp teeth gleamed in the sunlight.
+
+“Ohh, I see. You were hoping I’d trip the alarm, then get killed by the combined force of your whole village guard raining down on me. Is that it?”
+
+His silence was answer enough. Pyre chuckled and shifted a little closer, flesh contorting with each movement.
+
+“And let me guess, now that you’ve seen me fight, you’re thinking maybe that plan of yours might not go so well for your village.”
+
+“They’d still win,” Callan said firmly. The demon raised an eyebrow.
+
+“But?”
+
+“…But the casualties would be too high,” he admitted. Too high to make it worth it, was the unspoken part. High enough that he’d rather help the demon find a way to sneak into the village in the hopes that she’d stick to her word than try to get her killed but at the cost of a whole lot of lives.
+
+Pyre laughed. Her voice, low and booming, echoed throughout the forest trees. Callan winced at the sound. He dropped his eyes to the ground, and he looked like he was mentally bracing himself.
+
+Finally, the laughter died down to a simmering chuckle. This might be the most amused she’d felt since waking up in Fred’s stomach, Pyre thought. It probably said something about her, that she got so much of a kick out of someone actively trying and then failing to kill her, but she liked to think it added some spice to her life. Kept things fresh and interesting. Unpredictable.
+
+“You know, I figured you’d probably try to kill me at some point, but that wasn’t too bad of a plan before you decided to walk it back. You’ve got guts, kid. Bravo.”
+
+“Are you gonna eat me now?” The ghost sounded defeated.
+
+She raised an eyebrow. “And why would I do that?”
+
+“…I just admitted to trying to kill you.”
+
+“Sure did. I respect the effort. I even applaud you for changing your mind once you knew better. Not that it would've worked, for the record. I’d have figured it out eventually.” She adjusted her eyes, idly checking the clearing for any signs of movement. Ever since the last scuffle with the patrol group, it looked like even animals were avoiding the area. Pity. She was probably only one or two fucked-up rabbits away from a level up. “Besides, you’re useful.”
+
+Callan looked dumbfounded. So dumbfounded, in fact, that Pyre got the urge to laugh again when she stared at his face too long, so she quickly turned her attention back to the current obstacle.
+
+“So, the alarm spell. I’m guessing you don’t know how to disable it.”
+
+The poor ghost looked like he was getting whiplash from the change in subjects. “Uh, um, no? No.” He shook his head. “It’s too complex. No one in Winrow but the original spellcaster had the skill for it, but he died a long time ago.”
+
+The village had a name at last. Pyre hummed, thinking over the words. Magic spell, no way to undo it, automatic monster-detection. It did seem like a bit of a conundrum, but she found she wasn’t too mad about the knot in her plans. It made things more interesting. She did have to come up with a solution, though, or who knew how long it’d take to find the next closest crystals. Actually, those would probably have similar spells in place. It sounded like this was a standard human settlement protocol.
+
+Maybe there was a way to trick the spell, she thought. She was willing to bet there were specific traits that would do it, but she didn’t have any right now. Another spell, maybe, that could cloak her or make her presence register as “human” to the alarm spell. Except she couldn’t use magic, and she seriously doubted Callan had the ability to pull something like that off either.
+
+As she continued to think, something tugged at the back of her mind, a nagging sensation. Ever since she’d read through all the species options during her first evolution, the thought had existed, bubbling below the surface and waiting for a moment to rise.
+
+She hadn’t had a good excuse for it before beyond fulfilling her own curiosity, but now? This seemed like the perfect opportunity.
+
+Maybe it was time to meet more of her fellow brethren.
+
+“Hey,” Pyre began, focusing her eyes on Callan. “How do you summon a crossroads demon?”

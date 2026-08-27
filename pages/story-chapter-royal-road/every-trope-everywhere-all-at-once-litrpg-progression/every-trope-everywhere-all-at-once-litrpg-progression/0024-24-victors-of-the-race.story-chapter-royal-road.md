@@ -1,0 +1,287 @@
+---
+id: 186df967-709c-56eb-882d-6ab136c4d1b9
+page-type-slug: story-chapter-royal-road
+title: "24 - Victors of the Race"
+slug: 0024-24-victors-of-the-race
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 24
+ownLength: 2063
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3446120/24-victors-of-the-race"
+royalRoadId: "3446120"
+---
+
+Now, I wish I could say that I somehow beat everyone in the race and crossed the finish line before Tuna, the flying bathtub, and Kaelor.
+
+Unfortunately, that wasn’t the case.
+
+Well… technically, it wasn’t the case for any of us besides Tuna.
+
+[TROPE COMPLETED: THE SHORTCUT THAT DEFINITELY ISN’T SAFE]
+
+[REWARD: Pending…]
+
+“Disqualified!” a harpy yelled at all of us besides Tuna and Talon.
+
+“Huh? Disqualified?” the angel said. “What for?”
+
+“For using magic.”
+
+He scratched the back of his head as he burst out into laughter. “Hahaha! Is that so? Oh well,” he said as he flew away on his bathtub without a care in the world.
+
+“How are we disqualified?” I asked.
+
+“For veering off the main path.”
+
+“Ah.”
+
+Kaelor fell on his knees in utter devastation. “No… that can’t be…”
+
+Our griffins walked up to him, trying to nudge him back to his feet. He wouldn’t budge.
+
+“I have failed you, my friends. I’m sorry! Please forgive me!”
+
+[TROPE COMPLETED: WITNESSING THE OVERLY DRAMATIC NOBLE]
+
+[REWARD: Pending…]
+
+Reina and Meriel came through the finish line just a minute later. Because of all the disqualifications, they managed to secure second and third place. The other racers came in much later on their whales, jellyfish, and manta rays.
+
+“Second place… I can’t believe it!” Reina cried. She hugged her griffin tight. “We did it!”
+
+It let out a feline-like purr, showing off its majestic wings. I didn’t expect a beast so fierce-looking to make such a cute sound.
+
+I looked at the griffin I rode with. “Want a hug?”
+
+He rapidly shook his head. I frowned. The griffins were more intelligent than I thought.
+
+Talon and Tuna—the first-place winners—were somewhere off to the side of the island, celebrating their success with the crowd. Countless people surrounded the two of them. We couldn’t even get to them if we wanted to.
+
+“Good for him,” I said, smiling. “Tuna is awfully fast for a whale.”
+
+“Her mana is impressive,” Meriel said. Noodle briefly poked his head out of her robes before going back inside. Guess he liked how warm it was in there.
+
+I turned to her. “Mana? Tuna uses magic?”
+
+“All the sky creatures do. How else do you think some of them stay afloat at their size without any wings?”
+
+Huh. Good point.
+
+“You can tell how much mana she has just by looking?” I asked.
+
+“Instinctively, yes. It comes naturally, the more attuned you are to magic.” She looked at me. “Speaking of which, I can see that your mana is growing along quite nicely. Especially your mana control and recovery. It’s impressive for a beginner like you.”
+
+I smiled, scratching the back of my head. Truthfully, it was just because of the stat points I had in Wisdom and Intelligence.
+
+“Thanks,” I said anyway.
+
+“What about me?” Reina asked.
+
+Meriel turned to her. “You’re a little lacking on control and recovery, but your mana output isn’t bad at all. Your mana capacity is also strangely impressive. It must be because of all the endurance training you’ve done.”
+
+She smiled. “Hehe… but I’ve still got a long way to go, master.”
+
+“Master…?” Meriel muttered. She looked awkward hearing herself called that.
+
+Reina ran off to the crowd surrounding Talon and Tuna. I doubt she’d actually get through, but I guess she wanted to try anyway.
+
+I looked at Kaelor. He was surrounded by all four griffins, who were rubbing their heads and bodies against him. He was still on his knees, truly devastated from being disqualified from the race.
+
+[TROPE COMPLETED: WITNESSING THE LOYAL BEASTS COMFORTING THEIR MASTER]
+
+[REWARD: Pending…]
+
+…
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE SHORTCUT THAT DEFINITELY ISN’T SAFE (COMPLETED)
+
+- WITNESSING THE OVERLY DRAMATIC NOBLE (COMPLETED)
+
+- WITNESSING THE LOYAL BEASTS COMFORTING THEIR MASTER (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL ACQUIRED: GRIFFIN’S CALL]
+
+Type: Active
+
+Effect:
+
+- Lets out an oddly majestic call that causes nearby griffins to fly faster
+
+I wasn’t sure I’d ever ride a griffin again after this race, but it definitely sounded like a useful skill.
+
+I leaned in close to Meriel, still curious about the others’ mana.
+
+“What about Kaelor’s?” I asked.
+
+“He’s the same as most other Firstborn,” Meriel said. “Unmatchable levels in all four categories—capacity, output, control, recovery.”
+
+“But he’s not even a mage.”
+
+“His blood is enough.”
+
+She narrowed her eyes at me.
+
+“So you really don’t know about them?” Meriel asked.
+
+I flinched. Was she about to accuse me of being from another world again?
+
+“I… uh…”
+
+Her gaze lingered for a second too long.
+
+“Come,” she eventually said, walking toward a direction with fewer people. “Let’s talk.”
+
+[TROPE INITIATED: WE NEED TO TALK]
+
+Completion criteria: Find out what Meriel wants to talk to you about.
+
+My heart skipped a beat from the tone of her voice. She had a serious look on her face, almost as if I’d committed a crime.
+
+“Meriel?” I called out.
+
+She didn’t answer. She just kept walking.
+
+I gulped and followed, leaving Kaelor behind with his griffins.
+
+“And now all my friends are leaving me… I’ve really lost everything!” he cried from behind me. I had no clue what he was talking about, so I didn’t bother looking back at him.
+
+Meriel took us to a shade beneath a large tree, somewhere far away from the others. She sat on the grass, leaning against the wood, and patted the spot beside her.
+
+“Sit,” she said.
+
+I did exactly as told.
+
+“I’ve been meaning to ask, but how do your white robes never get stains?”
+
+She didn’t say anything. We just sat there, staring off into the distance in awkward silence.
+
+The winds blew by, ruffling the leaves and our clothes. I was starting to feel a bit cold, considering we were on a floating island way above the clouds. I considered casting Warmth Aura, but… well, I wasn’t so sure if now was a good time to make any movement.
+
+Meriel had a scary look on her face.
+
+“It was said that the Firstborn were the first beings to walk the face of this world,” she began. “Before humans. Before the beastfolk. Before the celestial races. Before all the others. Thus, they were favored by the gods themselves, and they still are to this day.”
+
+My ears perked. A sudden lore dump from Meriel was not what I expected.
+
+I turned to her. “Favored by the gods?”
+
+She nodded. “They excel in nearly everything, from magic to weapon-wielding to forging. It is rare for someone with their blood to be beaten by the other races.”
+
+“But they’re just humans, aren’t they?”
+
+She shook her head, facing me.
+
+“The Firstborn are not just humans. They are the primordial race that took many forms. Some Firstborn look human. Others look elven. They take the forms of angels, demons, dragons, giants—every race that we know today. Yet they are their own race.”
+
+“Every race…? So they just happen to look like the other species?”
+
+“Yes. Or rather, we are the ones who look like them.”
+
+“Why is that?”
+
+Meriel shrugged. “We don’t know. Maybe the modern races evolved toward the forms of the Firstborn. Maybe the gods simply reused their appearance.”
+
+“I see—”
+
+“I’m sure of it now,” she cut me off, “that you’re not from this world.”
+
+My eyes widened as the System gave me a warning.
+
+[TROPE IN PROGRESS: THE OTHERWORLDER’S SECRET]
+
+Completion criteria: Do not let anybody find out you’re from another world until the day you die.
+
+Punishment: You will no longer be recognized as the protagonist.
+
+Noodle squirmed inside her robe, poking his head out again. He looked at our faces. As if reading the atmosphere, he let out a strange noise before retreating back inside.
+
+“Meriel, stop it with the jokes,” I forced a laugh.
+
+“I’m not joking,” Meriel said. “There is not a single being on this planet who doesn’t know about the Firstborn. But you? You know nothing about them.”
+
+I shook my head, standing. “I grew up in a small village. I wasn’t taught much there. My parents kept me isolated.”
+
+She studied my face. “And you left that village for what? To head to Lyndale’s Adventurer’s Guild?”
+
+A reasonable assumption, considering that was where we first met.
+
+“Is that wrong?” I asked.
+
+“No. But for somebody so talented in magic, and who can speak just fine, it doesn’t look like you’ve been isolated from the world. Your parents must’ve exposed you to books, at the very least. You should know about the Firstborn from any of them.”
+
+I frowned. “You don’t know anything about my past. And it’s just as you said—it’s talent. Some people are born with a better affinity to magic than others.”
+
+She gave a small nod. “Perhaps.”
+
+I expected her to argue further, but she just stood, looking away.
+
+“I’m sorry,” she said. “I went a bit too far.”
+
+I hadn’t realized until then that my fists were clenching. Seeing the warning message made me more upset than I thought.
+
+“I… No—I’m sorry as well,” I said. “For raising my voice.”
+
+A smile appeared on her face. “It’s alright. You’re difficult to read, you know that? In any case, we should head back now.”
+
+I looked ahead. Talon and Tuna had somehow gotten away from the crowd. Reina and Kaelor stood just beside them.
+
+“Yeah. Sure.”
+
+[TROPE COMPLETED: WE NEED TO TALK]
+
+[REWARD: +2 LEVELS]
+
+[LEVEL]
+
+[120 → 122]
+
+***
+
+“As tradition dictates, the top three racers shall earn the right to enter Whale Isle’s Sky Dungeon!” an angel said to us. “Congratulations, Talon, Reina, and Meriel! Ah, and of course, your friends may partake in it as well.”
+
+She had blonde hair and white wings. She was the one who had organized the entire race, and also the one who had cleared away the crowd for us to talk in peace.
+
+Reina and Kaelor were off on the side, playing around with the griffins. Talon and Meriel stood just beside me. Tuna floated in the sky beside the island, her belly facing the sun.
+
+“Dungeon?” I said.
+
+“The grand race determines who gets to enter the dungeon,” Talon said. “It opens now and then, but since it’s one of the more advanced dungeons, it takes a while to recharge. That’s why Whale Isles locks it behind the grand race.”
+
+Advanced dungeon? Recharge? What did any of this mean?
+
+I turned to Meriel. We already had that talk just earlier, so hopefully she could give me some answers without accusing me of being from another world.
+
+“The Whale Isles are known for this very dungeon,” she said. “One of the rewards is a pair of wings that allow the wearer to fly, no matter their species. Even giants. Though it’s a bit of a difficult dungeon to handle.”
+
+Thanks, Meriel. She was like a walking lore book.
+
+“Difficult? Like the enemies are strong or something?” I asked.
+
+“Not just that. We also have very limited attempts. I believe we’ll have a total of ten revives for the entire party.” Meriel turned to the angel. “Is that correct?”
+
+Interesting. So revives exist in this world as a dungeon mechanic.
+
+I was about to question how such a thing could exist, but judging by the arcane gambling machine back at the guild, I bet an archmage was responsible for making these dungeons.
+
+The angel nodded at Meriel. “Yes, that’s exactly so. Ten revives—no exception. The last few parties never even reached the dungeon warden.”
+
+That was likely the boss.
+
+“If it’s that difficult, then why lock entry behind a sky race?” I asked. “Surely there are better-suited warriors out there than people who happen to have an ungodly quick whale.”
+
+I eyed Talon.
+
+He laughed. “That’s exactly why it’s locked behind the race. We’ll need to be very good at flying to get through.”
+
+Huh…? Flying in a dungeon? Was I imagining something entirely different? Maybe the dungeon wasn’t inside a structure after all.
+
+I looked to the horizon, noticing that the sun was beginning to set. The sky dimmed with it.
+
+“I’m sure you’re all excited for the dungeon and all, but before that calls for a celebration!” the angel exclaimed, grinning. “Let us make our way to the final part of the Skycurrent Festival!”
+
+With the way she was looking at me, I had a strange feeling the “final part” involved alcohol.

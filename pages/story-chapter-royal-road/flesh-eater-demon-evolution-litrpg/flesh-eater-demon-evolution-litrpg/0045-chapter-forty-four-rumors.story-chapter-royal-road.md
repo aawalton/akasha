@@ -1,0 +1,199 @@
+---
+id: 4cba1cd1-e5e5-5231-9449-cb7ffda9cc7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Four: Rumors"
+slug: 0045-chapter-forty-four-rumors
+partOf: flesh-eater-demon-evolution-litrpg
+position: 45
+ownLength: 3027
+unit: words
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2770962/chapter-forty-four-rumors"
+royalRoadId: "2770962"
+---
+
+A few different thoughts ran through Pyre’s head. The first was: Okay, I definitely knew how to fight as a human. The second: Why the fuck did I know how to fight.
+
+Realistically, even with her hazy memories, she knew there were classes and stuff for this back on Earth. Maybe she’d been really into martial arts. On the other hand, the brief spike of adrenaline followed by her muscle memory kicking in had felt almost exactly like it did when she was in actual, life-on-the-line fights as a demonic flesh lump. It had felt like a movement born both from lessons and from genuine, threatening combat experience, which was a lot harder to reconcile with the little she remembered of Earth.
+
+Obviously she could be wrong—in fact being wrong about this would make the most sense—but it did evoke a bit of curiosity. Ever since she’d learned about her soul scattering, she hadn’t bothered to think about her past life much. She didn’t see a point when she didn’t know if she’d ever get those scattered pieces back anyway. Why waste time thinking about shit that didn’t matter?
+
+This was different, though. If those buried instincts were to be believed, there was enough “human Pyre” in there to actually affect her current self, which inevitably meant putting some deeper thought into her past and who she’d been.
+
+So, she’d known how to fight. Possibly from experience. And the system had decided that, whoever she’d been, getting reincarnated as a demonic lump of flesh was the most “fitting.”
+
+It certainly painted a picture, that was for sure.
+
+The sound of chattering broke Pyre out of her thoughts. She glanced down to see Merrick carefully rising again. The man looked surprised, thoughtful, and even a bit wary as he brushed the dirt off his clothes. It was probably the most emotion she’d seen on his face so far, not that that was saying much.
+
+On the sidelines, Edna cleared her throat, silencing the growing murmurs of the other cadets.
+
+“Impressive.” She nodded at the two, blue eyes sharp. “From your registration information, I understand both of you have had combat experience before.”
+
+“Yep,” Pyre said while Merrick simply nodded. Edna seemed to consider this. The fact that she didn’t look suspicious was a good sign for the demon.
+
+“I see. I will speak to the other sergeants. Perhaps we may be able to transfer the two of you to standard training.”
+
+It seemed logical enough—move the grown adults who knew how to fight to a different class than the fresh-faced teenagers—but it did make the demon pause. “Standard training” sounded like the general garrison soldiers, so they’d basically be skipping the new recruit stuff altogether. If she did that, though, she’d be missing her main goal of getting a guard position at the Bellhein manor. That flyer had specifically said Lord Bellhein would be watching the newest batch of recruits, not the more seasoned soldiers. Not ideal.
+
+“Nah, I’d rather not.”
+
+Edna raised an eyebrow, and the chattering started again. Pyre shrugged, casually gesturing around the ring.
+
+“I appreciate the thought,” she continued, “but I think I’d be better off here. I don’t have much formal training, if you know what I mean. Still got a lot of stuff to learn.”
+
+Edna seemed to consider this. She turned to the other cadet. “And you, Merrick?”
+
+The man was quiet at first. Finally, he said, “I would also prefer to remain with this group. I believe it the most fitting for my current abilities.”
+
+That was actually kind of surprising. Pyre obviously had her motives, but she would’ve thought any human joining the garrison for the usual reasons would be jumping at the chance to skip ahead.
+
+Edna slowly nodded. “Alright. But if I find the two of you slacking or believe you have nothing to learn here, I will move you.” Her voice was decisive.
+
+It sounded fair enough. Pyre could dial it back if she needed to to stick around.
+
+The sergeant dismissed them, and the two cadets returned to their seats, albeit with a whole lot of extra murmuring around them. The whispers quieted, though, when Edna called out the next pair. Attention drifted back to the newest spar, and the previous bout was forgotten.
+
+For now. Pyre was sure the rumor mill was just getting started.
+
+“That was incredible!”
+
+Pyre raised an eyebrow. Across the table from her, Declan was still gushing over the spar like it was the best thing since sliced bread. He was apparently so enthusiastic about it that he hadn’t hesitated to sit down across from her again, any previous nerves thoroughly quashed by excitement.
+
+“Thanks,” she drawled. She stabbed her fork into some kind of squishy vaguely cube-ish vegetable that was probably a squash of some sort. She’d made sure to ask for less this time just so she wouldn’t have to pack away as much food in her flesh pocket, but it was barely different than yesterday. Considering her height and build, it was probably a lost cause anyway.
+
+“Have you been trained before? Were you part of Drovna’s military?” the cadet continued. Pyre was quickly realizing that Declan was like if you took Callan, swapped his passion for magic with fighting stuff, then removed the passive-aggressiveness and injected some extreme earnestness and a good dose of gullibility on top of that. In other words, they weren’t actually all that similar at all, but the ghost was the only human (former human) that she’d spent much time around that she could actually remember, so she had to use something as a reference.
+
+“I don’t remember mentioning Drovna,” she said, amused. Declan froze a little. He shifted in his seat.
+
+“I, uh, heard you were from there from some other recruits. Sorry, I didn’t mean to gossip!”
+
+Interesting, so the rumor-mill was starting to get a little more accurate. Well, accurate to her fake cover story, at least. She wondered if they’d figured out the ichor-warping bit yet. She hoped not. The bandages led to the funniest bits of speculation.
+
+Speaking of speculation, it looked like her spar with Merrick had birthed a new wave of gossip. She hadn’t thought it would be that big a deal—oh look, two recruits over thirty already knew how to fight, what a shock—but combined with the pre-existing attention she’d gotten for the sand bag incident and the bandages, it was apparently enough to create a stir.
+
+Plus, it turned out she wasn’t the only older cadet with a bunch of rumors following her. She hadn’t paid much attention to it before, but there were also a good deal of whispers about Merrick. The man in question currently sat alone at a table in the corner of the mess hall. His face was as stoic as ever, completely ignoring the glances and murmurs tossed his way.
+
+“Hey, kid, you know what’s up with that guy?”
+
+Declan blinked at the change in subject. He looked torn between being happy that the demon was actively talking to him and disappointed that it wasn’t to answer any of his questions. He ended up settling on the former.
+
+“Merrick?” His eyes darted around, and he lowered his voice a little. “I’ve heard some things, but I don’t want to spread rumors or anything.”
+
+“Yeah? Well I’m asking you directly, so no need to feel bad about it.”
+
+That actually worked, to the demon’s amusement. Apparently the cadet had only been worried about the “moral” implications of spreading gossip, and now that he had permission, he cleared his throat.
+
+“Uh, I don’t know if it’s true or not, but from what I’ve heard he’s actually level 20.”
+
+Pyre’s eyebrows rose. She whistled. “Damn, what’s he doing here then?” That was the Tier 1 cap for humans, if she remembered right, and technically higher than her own class level. The man should be getting a Tier 2 class, not bumming it out with a bunch of teenagers (plus one disguised demon with ulterior motives).
+
+Declan’s voice got even quieter. “That’s the thing, people’re saying he used to work as a leveling aid in Galen.”
+
+The demon gave him a flat look. “You say that like I know what that is.”
+
+“Oh! Well, it’s called different things in different places, but it’s when you make an agreement to transfer your leveling points to whoever you’re making the contract with. You’d usually also work as their servant or guard, since you have to stick close to them to give the points before the transfer window closes. Uh, it used to be, like, a forced thing nobles would do, but it’s been outlawed in Auren. Some places like Galen still let you do it as long as it’s paid, but there’s a pretty big stigma around the whole thing.”
+
+Huh, interesting. Callan hadn’t mentioned this during his giant crash course on the history of the continent, but it was specific enough that the ghost probably hadn’t seen the need.
+
+“So, he’s got a high level, but his stats’re way below average.”
+
+Declan nodded. “Yeah. It only works for so long since eventually, the person doing the leveling doesn’t have the stats to keep winning against similarly leveled opponents anymore, so leveling slows significantly. Most contracts end around level 20 because of this, I think.”
+
+It made sense why Merrick had decided to stay with the cadets, then. If he’d gotten basically no stat points, then his stats were probably similar to the other cadets even if he had more fighting experience.
+
+It sounded like doing that sort of thing would permanently fuck up your future leveling potential, unless you could get a bunch of bonus points from somewhere. If not, you’d be stuck grinding lower level fights for barely any experience at all, and your stats would forever lag behind. You’d have to be pretty desperate for cash to resort to it.
+
+“Is there—I mean, does that not happen in Drovna?” Declan asked tentatively.
+
+“Haven’t heard of it.” The demon’s voice was blunt. She stabbed her fork into a chunk of meat, chewed it a few times, then fake swallowed. “My village was pretty isolated. A little hard to communicate when everything’s ice and snow.” She shrugged. “Never saw that happening in the village, though.”
+
+Declan nodded. “That’s good. It’s a disgusting practice; I’m glad Auren outlawed it.”
+
+Pyre was willing to bet it definitely still happened, both paid and unpaid—it was just quieter now. The cadet currently seemed bursting with patriotic pride, though, so she wasn’t going to mention it.
+
+That did make her wonder, though. Obviously Merrick was from Galen, if the rumors were to be believed. If she was remembering the map right, they’d have to cross through there to reach Pereth. It might be worth it to see if she could get some extra information about the place. Couldn’t hurt to try, she supposed. It wasn’t like she was doing anything else right now other than pretending to eat.
+
+With that in mind, Pyre grabbed her food and promptly rose, ignoring Declan’s confused look and the stares of the others in the mess hall. Instead, she turned and strode over to Merrick’s table. The man didn’t react as she approached, and it wasn’t until she dropped her tray onto the table that he finally glanced up.
+
+“Yo.”
+
+One of Merrick’s eyebrows raised very slightly. “Is there something wrong with your table?”
+
+The demon grinned. “Oh, you know. Just checking how my sparring buddy’s doing.” She was aware of the not-so-subtle looks from the tables around them, but she ignored them. “That’s not supposed to be an insult, by the way. A buddy of mine says everything I say sounds mocking.”
+
+Merrick snorted. “That’s a wise friend,” he murmured. He turned his attention back to his tray of food, not saying anything else and effectively ending the conversation. Pyre probably wouldn’t learn anything about Galen from him today, but he didn’t tell the demon to leave, either, so it was a start.
+
+Back at her old table, Declan looked confused and like he was considering moving as well, but hesitating. Pyre picked up her fork to resume fake-eating.
+
+The table fell into a companionable silence. All things considered, things could’ve been much worse.
+
+When Daphne swung open the heavy office doors, she found her uncle seated at his desk, dark eyes rapidly shifting through a stack of reports. She was half surprised to see him there, to be honest. He had a habit of disappearing randomly—doubly so these past few months—and considering the goose chase she’d had to go on yesterday, it almost felt odd to find him so easily.
+
+After the end of the qualification exams, Daphne had been sent back to the manor despite her protests while Lord Bellhein finished speaking with the instructors. As a result, she hadn’t had a chance to talk (yell) about her second major grievance with him, and she wasn’t going to let it slide so easily.
+
+“I know about the Tavrell Empire.” Her voice was blunt and unhesitating. Her uncle didn’t look up from his papers, but he did wince a little.
+
+“…I’m not sure what you mean,” he murmured, still not looking at her. She narrowed her eyes.
+
+“They’ve figured out a way to cross the Spine, haven’t they?”
+
+Lord Bellhein pursed his lips, and the lack of a response was answer enough.
+
+“You can’t just not tell me these things,” Daphne said, already feeling years and years of frustration from similar past arguments rising to the surface. “I have a right to know. You think I wouldn’t notice if the Empire suddenly came knocking on our doors? What were you gonna say then? Do you think I’m stupid?”
+
+“It’s not that. I—”
+
+“Or,” Daphne continued, “do you think I’ll be dead before they invade anyway, so it doesn’t matter.”
+
+That finally got the man to look up. “Of course not,” he said, and he looked genuinely horrified enough at the thought that some of Daphne’s rage simmered down. He rubbed his forehead.
+
+“Daphne, I know I’m not always the most… forthcoming. And I’ll acknowledge that I should’ve told you about the Empire. I’ve been so busy lately that it slipped my mind.”
+
+Yeah, she’d heard that one before. Her uncle continued.
+
+“But I promise you that I would never think such a horrid thing. And I’d appreciate it if you didn’t think so lowly of me.”
+
+Daphne squinted at the man, assessing his expression. He seemed earnest enough, but he also earnestly believed keeping important information from her was “for her own good,” so that didn’t say much on its own.
+
+“Let me attend meetings,” she said. Her uncle’s eyes widened a little, but she kept going before he could interrupt her. “Let me attend meetings, and maybe I’ll believe you. I’m still technically the heir, you know, and I expect to be treated like it until—until I’m not.”
+
+She stood firm, waiting for her uncle’s response while preparing herself for an argument. Her eyes gleamed in the light trailing into the office, and her face was set in a stubborn expression that everyone in the Bellhein manor knew too well. It was probably because of this that after a few moments had passed, Lord Bellhein heaved a deep sigh.
+
+“I… suppose you’re right.” He sounded reluctant, but both of them knew that she’d just spy on the meetings anyway. You couldn’t stop Daphne once she really set her mind on something. “So long as you promise to stop thinking the worst of me at every opportunity.”
+
+“Promise to spend more time with Edmund too, and it’s a deal.”
+
+The noble opened his mouth to argue, probably about to bring up his busy schedule again, but Daphne cut him off.
+
+“He’s your son. He idolizes you.” God knew why. “The least you could do is actually acknowledge him beyond throwing more errands at him.”
+
+Some unreadable emotion flickered between Lord Bellhein’s eyes, too quick for Daphne to parse, but he slowly nodded. It was probably the best she was going to get from the man—at least for now. Satisfied, she directed her attention to the stack of papers on the desk.
+
+“What’re you reading?”
+
+“It’s none—” Her uncle stopped at a sharp glare from Daphne and cleared his throat. “They’re the final qualification scores and examiner notes from the garrison.”
+
+Daphne stepped closer, and she could recognize the pages from what she’d seen the previous day. The whole “siphoning talent away from the garrison to placate your own paranoia” issue was a whole separate conversation, but seeing as she’d actually gotten her uncle to agree to let her into meetings, she decided to leave it for another day.
+
+“Anyone interesting?”
+
+The furrow in the man’s brow returned. “It’s a rather ragtag group,” he muttered, eyes scanning the pages. “There’s a few promising ones, some nobles, cadets from families with military backgrounds. Most, however, are unremarkable or worse. One of the recruits worked as a leveling aid in Galen.” He shook his head. “It seems like the garrison is desperate for anyone these days.”
+
+Of course they were, Daphne thought. That was what happened when you were fighting against the most powerful country on the continent.
+
+“What about 84?” she asked.
+
+Lord Bellhein frowned and grabbed another paper from the stack. “She was accepted into the garrison, though I still think it’s a risky move. Her background is… curious.”
+
+Daphne squinted down at the page. 84’s name was Pyre, she saw, which was a pretty weird name on its own. Her eyebrows rose when she kept reading. A mercenary from Drovna, it said, and not just any part—specifically the Shard Mountains. That explained the ichor-poisoning. The ichor concentration was extremely dense up north.
+
+“I like her,” Daphne said. “She seemed cool.”
+
+“I don’t know if cool is the word I would use.”
+
+Daphne narrowed her eyes. “Yeah? Well, it looks like she scored the highest on all the tests. She seems like a pretty good recruit to me.”
+
+Lord Bellhein gave the paper another long look.
+
+“We’ll see,” he finally said.

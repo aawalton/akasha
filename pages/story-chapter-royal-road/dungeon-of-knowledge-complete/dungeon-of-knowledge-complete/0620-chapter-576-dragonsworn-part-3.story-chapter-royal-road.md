@@ -1,0 +1,121 @@
+---
+id: 8f1263b2-494c-54a1-b8f2-6fbbdf99f985
+page-type-slug: story-chapter-royal-road
+title: "Chapter 576: Dragonsworn (Part 3)"
+slug: 0620-chapter-576-dragonsworn-part-3
+partOf: dungeon-of-knowledge-complete
+position: 620
+ownLength: 1815
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3173159/chapter-576-dragonsworn-part-3"
+royalRoadId: "3173159"
+---
+
+Ali’s awareness wobbled precariously, returning in a vibrating swirl of black and gray that slowly faded as the glow of her protective barrier and the dimly lit forest returned to view. She took a tentative breath.
+
+I just died. Again. While her body seemed whole, her awareness must have dimmed, but this time, she hadn’t passed out for more than a moment. Ali took stock of her predicament. Nevyn Eld hovered entirely unscathed by the furiously fought battle through her forests, safely protected by his impervious dark Aegis. Two portals sprouted nearby, linked to the armies outside the walls, while Malika hung frozen by the Lich’s gaze, but somehow, the mythical spell she’d triggered, or the fact that she’d actually died, had freed Ali from the grasp of his Gaze of the Shattered Soul.
+
+A dark bolt of Authority-enhanced necromancy shot out to extinguish her friend’s life. Ali reacted faster than thought. Simultaneously, she disrupted the spell and dismantled the fresh portals. Instantly, the Lich spun, firing another empowered bolt at her. Ali deflected it into the ground, but the third Authority-empowered spell shattered her barrier instead.
+
+“Killing you is like trying to kill a cockroach.”
+
+Ali startled at the sound of the Blind Lich’s rasping voice echoing all around her, but the moment his gaze swept across her, she felt her limbs freezing once more, as if his undead eyes were turning her body to stone. Her neck stiffened, and her eyes locked open. She tried to turn her head and failed. Her chest slowed as her ribcage petrified and her breathing halted. For a moment, she felt as though she were back in her Arcane Recall spell before she had unlocked the ability to move, and she was being hunted by some eldritch monster just beyond the edge of her vision.
+
+Without him even having to recast it, she found herself trapped once again and under the influence of Nevyn Eld’s Gaze of the Shattered Soul.
+
+What the… how do I even begin to fight this? For a second, she wanted to scream at the sheer unfairness of it all. This was no match-up a mortal being could hope to survive! He was too powerful; ancient and experienced and unstoppable!
+
+Her heart began to race as panic set in. She could feel the trembling of her body, but she could not breathe. Nevyn Eld moved past her, just out of sight on her right. Barely out of her field of view.
+
+She could feel him. She could see the magic flowing from him. The mana that sustained his undeath, the strangely vacant sphere of the Aegis of Absolution. She could not see whatever he was doing with his Gaze of the Shattered Soul, but the pinpricks of soul magic nestled in his eye sockets blazed with power in her mana sight.
+
+Think Ali! It’s not absolute! It can’t be! She had managed to activate Arcane Recall with health instead of mana, and her mana sight was still working just fine. Logically, some magic worked under the Shattered Soul, so there should be a way out. It was a puzzle, but deep down inside her heart, she was just barely clinging to a veritable cliff-face, desperate for something to distract her from whatever horrid thing the Blind Lich was about to inflict upon her helpless body.
+
+But Nevyn Eld proved to be quite unimaginative. Perhaps Ali had pissed him off a little too much already. A formation of dark power formed from behind her, and she recognized the shape of Sacrifice.
+
+What use is imagination if I can’t block the most straightforward tools? He’s just going to kill me.
+
+Slowly, the dark form of the Lich drifted out in front of her once more, lazily assembling the magical formation as if he had all the time in the world.
+
+“You should have taken my offer. It would have been so much easier,” he said, his tone conversational for a millennia-old Lich. “No matter, I will still wrest good use out of your corpse.”
+
+Ali would have swallowed if her throat worked, but something strange caught her eye. If she had not been entirely immobilized, she wasn’t sure she could have concealed her surprise from him. As it was, her heart accelerated, and he simply twisted his ruined mouth into a mockery of a grin.
+
+Several meters above him, something seeped. Something black and viscous was leaking out of the very air. Long strands of goop that stretched downward, rapidly filling with fluid of some sort.
+
+That’s… death affinity? Ali could not even use Identify, but she knew an affinity when she saw it – that one especially.
+
+Ooze? That’s an ooze? Naia? Is that you?
+
+More ooze spilled out of the air, and a big blob that shimmered and wobbled like glowing transparent jelly plopped down wetly on Nevyn Eld’s shield, sliding down the front of it right as he completed the formation. Sacrifice shot out from the withered fingers, but the magic vanished into the strange ooze and reappeared off to the side, blasting into a writhing pool of darkness which simply ballooned up and then slowly subsided, pulsing with new potency.
+
+It… ate his magic?
+
+Nevyn Eld began to shout something, but another ooze fell on him, and then another, fully encasing the sphere of his Aegis, and all Ali could hear was a muffled roaring of anger and frustration.
+
+Naia, be careful! The Lich is dangerous!
+
+But thuds and plops and splats sounded from all around, and every ooze that landed on the moss or in the trees crawled over to join the pile that was engulfing the Lich.
+
+“Ali-friend, run!” Naia called, but Ali couldn’t even tell where her friend was holed up.
+
+Naia! Get away! But her screams were only echoes in her head as she struggled with all her pitiful strength against the power of the Lich’s spell.
+
+Suddenly, something enormous blazed from within the giant ooze pile, and a devastating explosion of death and soul magic ripped through every ooze, shredding everything in its path. A blaze of pain shot through Ali’s mind, but it faded rapidly as the entire clearing was subjected to a monsoon deluge of ooze bits and drops.
+
+Naia! No!
+
+But the screams in Ali’s head faded at the sight of the furious Lich rising from the self-inflicted crater, wearing a shroud of roiling magic that continuously discharged bolts of death magic in every direction.
+
+And his gaze was locked on her.
+
+The holy kobold mage, gazed at the throne room, but Ali, riding her awareness, saw none of it. Battle raged around her, the roaring flames now entirely filling the room with Artur Dragonsworn’s aura. In the far corner, Mato could be seen contending with the full fury of the Elder Red Dragon’s brutal talons and stone-melting breath. The powerful, scaled tail lashed about, causing a ripple of frantic dodging among the rogues and warriors trying their best to stab him.
+
+But Ali barely heard the cries and crash of battle, barely felt the searing burn of the flames upon her scaled hide. She stood in the midst of the battle, head down, pressing her trembling lips together as the enormity of what had just happened dragged her heart down like an anchor.
+
+Naia? Is she… gone?
+
+The worst of it was that she couldn’t even check. Her own body still stood frozen in Lira’s Cavern, awaiting the cruelty of the Blind Lich.
+
+He just… destroyed her.
+
+Naia. Always so eager, so vulnerable, and filled with such delightful curiosity about the world. How could she be gone? Her heart pinched painfully – she should have visited more often. She had been so busy. There were always so many things that seemed so important, and it had been so easy to just push it off. Until… and now it was too late.
+
+She raised her kobold eyes to the immense Elder Red Dragon towering before her, her entire existence heavy and numb.
+
+Why bother? He’s just going to kill me next.
+
+But the tiny, guttering flame within her heart refused to die.
+
+For Naia. Slowly, Ali drew herself up to her full height. Not that a mere kobold could compare to the might of a true dragon, but she lifted her little reptilian chin, and without thinking, her holy mana sprang to her scaled grasp. A rush of purifying power that built upon the rage in her heart, soaring with searing fires.
+
+My friends are fighting and dying here. If I must die, I’m going to poke him in his fucking eye socket on the way out. I will be the stone in his boot. I will not go quietly!
+
+She unleashed her holy fireball. The dense mass of searing white flame detonated upon the heavily armored red dragon scales with a boom that shook her eardrums even over the roars of the dragon and the clash of battle. The strangely pungent scent of incense caught her sensitive nostrils, cutting the stench of sulfur and brimstone from the dragon fire, and her mind finally cleared.
+
+No, I refuse to believe Naia is gone. She’s a rock, hiding somewhere, for sure.
+
+“Twenty percent!” Belmar yelled.
+
+At that moment, the dragon reared up to his full height, roaring so loudly that the chamber rang, and the flames danced to the resonance in his voice.
+
+“You shall not prevail!”
+
+A sudden burst of mana rippled through the great body, and it vanished, reappearing beside the throne in a devastating burst of flame that sent the healers and archers scrambling in panic.
+
+The altar beside the dragon surged with a strangely vacant formation, as if much of it were invisible to her mana sight. It expanded suddenly and rapidly, forming a dark, glittering sphere that encircled the throne, the dragon, and the altar. The arrows and spells of the entire raid smashed and bounced off the impervious projection.
+
+A spell Ali knew far too well. Her kobold jaw slackened, and her eyes widened at the sight.
+
+How… But it was true. The glittering evidence stood plainly for all to see. The Blind Lich’s signature shield protected Artur Dragonsworn and the Altar with the Phylactery.
+
+That’s… his Aegis of Absolution. How is that even possible? All she had to do was check in with the rest of her awareness to see the Blind Lich wielding the very same shield halfway across the continent.
+
+And if things worked the same… But she didn’t have to guess as Artur Dragonsworn began lobbing enormous fireballs out of the shield and into the room. In the chaos, the chamber rang with the shouts of frantic contingency plans cobbled together on the fly, and a mad scramble to avoid the deadly blasts of dragon fire.
+
+Ali stared in disbelief at the impossible shield, knowing she was missing something. Something very important.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

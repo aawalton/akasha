@@ -1,0 +1,175 @@
+---
+id: 930ead99-7133-5a18-bd87-917e69974506
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25"
+slug: 0025-chapter-25
+partOf: emie-ascended
+position: 25
+ownLength: 2433
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3531470/chapter-25"
+royalRoadId: "3531470"
+---
+
+Mike looked tired when he met us for dinner the evening before we were scheduled to enter the dungeon. We’d opted to meet at an actual restaurant instead of just eating in the dining hall, and Stephen had agreed to join us so we could discuss our plans for the delve.
+
+We arrived right as the sun slipped below the horizon and the aurora became visible in the rapidly darkening sky.
+
+“You look exhausted,” I commented when the Earth Magi settled into his seat. “Are they not giving you enough breaks?”
+
+“I’m getting plenty of breaks,” Mike replied as he picked up the slim menu in front of him. “I just pushed myself a bit to finish the project I was working on. The airship is supposed to arrive in the morning, and the guild wants everything finished by then.”
+
+“They aren’t worried about the expected attack?” Stephen asked.
+
+The rumors about a demon attack had only gotten stronger over the last couple of days, and most of the public believed that an attack was imminent.
+
+The procedures for such things were a part of our mandatory reading, so I was fully aware of the expectations in place should the city come under attack.
+
+As copper-rankers, we were expected to enter the dungeon as soon as the alarm sounded since we couldn’t meaningfully contribute to the fight and our presence in the shelters would only crowd things further.
+
+The reinforced shelters were only meant for children and a selection of non-combatants who served as their caregivers during the crisis. The rest were expected to contribute to the city’s defense unless the fight was deemed unwinnable.
+
+If that were to happen, the defenders would collapse the entrance to the underground shelters, then retreat into the dungeon as well. As long as the demons didn’t make it inside, the children would remain safe since each shelter had access to several weeks’ worth of food and water, as well as fresh air and purification artifacts.
+
+“I guess the news hasn’t been released widely yet,” Mike commented, looking up from the menu. “The delvers on the airship headed this way already took care of most of the demons. There was a strong party of platinum rankers among the passengers, and they took care of everything. Unless there was another incursion somewhere else, the city shouldn’t see more than a handful of demons anytime soon.”
+
+“That’s good,” I said.
+
+Truth be told, I didn’t like the thought of retreating to the dungeon if the city came under attack, but I understood the need for it. At our strength, even our vast experience wouldn’t do us much good against higher evolution opponents.
+
+After giving our orders to the waiter, the conversation shifted to our plans the next day. Since we were in a public location, Stephen didn’t openly state he could shift forms, but he gave enough hints that I didn’t think Cora or Mike would be overly surprised when he showed them inside the dungeon.
+
+“Can you attach magical effects to your arrows?” Cora asked.
+
+“No, but I have a magical attack, Shadow Bolt, if a regular arrow isn’t enough. I guess technically, I can cast Bleed on the arrow to make the injuries bleed more, but I haven’t practiced using it that way. It’s still a relatively new skill.”
+
+“I used to have a Shadow Bolt spell,” Cora commented. “I wonder if the one you have is anything like my old one.”
+
+“Ascender Dungeons supposedly recycle the old skills of Ascenders who arrive within them,” I said thoughtfully. “Unless there is another former Shadow or Darkness Mage among the local Ascenders, it might actually be your old spell.”
+
+“That would be a bit ironic,” Cora chuckled. “I wish there was some way to see a list of every skillbook the dungeon has produced and compare it to what the dungeon used to provide before it evolved.”
+
+“I think the Association keeps track of all of that. Obviously, they only know what delvers share with them, but I’m sure there’s a record of everything, somewhere.”
+
+“Oh, for sure,” Cora agreed. “I’ve heard a few people theorizing about the dungeon’s new elemental inclinations. So far, most people agree that the dungeon is leaning toward space-based skills, though that is mostly because the old dungeon never produced a space-based skillbook before evolving.”
+
+“Well, it’s not like the dungeon isn’t going to produce skillbooks of other elements and aspects, regardless of what its inclinations are,” I pointed out. “I just hope I can get a few more elements to round out my magic before I reach the first evolution.”
+
+“I’m sure you’ll manage it,” Mike said, pausing when our food was delivered. Once the waiter departed, he added, “Even if you have to buy them, you’re only looking for basic elemental skills. I doubt the cost will be too high.”
+
+“On the topic of skillbook prices, have you heard how much the Association is paying for Portal skillbooks?” Cora asked, shaking her head. “I heard a group of iron-rankers talking about it, and they were paid in steel. That’s obscene for a single skillbook.”
+
+Steel was a denomination that most didn’t encounter until near their second evolution. To put it in perspective, a single steel bit was worth a million copper bits.
+
+Obviously, the difference in the value of the materials themselves wasn’t that extreme, but nearly all coins came from the dungeon, and they had special properties that made them far more valuable than their composition suggested.
+
+A million copper bits seemed like an obscene amount for a single skillbook, and that was just what the Association was paying, not what they were reselling it for.
+
+“I guess the demand is pretty high, then?” Stephen said. “What is the plan if we encounter one of the more valuable skillbooks while we are delving together?”
+
+“We sell it, of course. Unless someone actually wants and needs whatever skill it is,” Mike said before glancing at me and Cora to gauge our reactions.
+
+“I’m fine with that,” I said. “Though, if we found something good like Portal, selling it would provide enough money for me to get an asolade and maybe a beast companion skill to make raising it easier.”
+
+My comment drew questioning looks from all three of my companions.
+
+“An asolade? What is that?”
+
+I felt the impulse to gush at how absolutely adorable the creatures were. Instead, I kept myself perfectly calm as I described the small, fluffy creatures that had stolen my heart during the simulation.
+
+“They aren’t very big. At full-grown, most are no bigger than the palm of one’s hand if not counting their fluffy tails,” I explained. “They look and act like a mix between a kitten and a sugar glider.”
+
+The term kitten translated easily enough, but it seemed sugar gliders did not have a local analog.
+
+At their confused expressions, I said, “I’ll show you a picture later, unless you want to stop by a pet store on the way back? They aren’t really meant as combat partners, though they do have access to minor forms of magic, even at low levels.”
+
+“We had a shadow wyvern as a pet before we ascended,” Cora said longingly. “Wally was the best wyvern. It’s just too bad beasts don’t ascend the same way we do.”
+
+“How would that work in this realm?” Mike asked. “In our old realm, Wally could hunt and gain levels on his own. But if the asolade isn’t a creature likely to hunt on its own…”
+
+“In the simulation, I delved alone to level my asolade. There are, or were, devices that you can buy that will funnel most of the essence in a fight to a single participant. I can probably make something that would work similarly, even if the technology has been lost since then.
+
+“You can also just feed them essence cores to help them grow. Beasts don’t have the same contribution limitation for absorbing cores,” I informed them. “I originally planned to wait until after I reached bronze rank to get an asolade, but if we found ourselves with excess funds, I’d rather go ahead and get one early so it can grow with me.”
+
+“That makes sense,” Mike said. “But it might be better to wait if acquiring a pet will likely slow your progression.”
+
+“I get that, but I can always just delve a bit extra on my own to make up the deficit, if needed.”
+
+“While I don’t doubt you’re capable of managing on your own, you did say you planned to take it easier and relax more in this life, didn’t you?” Mike countered.
+
+“That’s true,” I admitted.
+
+Actually living life instead of just focusing on progression was one of my goals. However, I didn’t think that getting a pet ran counter to that plan. If anything, it would help keep me grounded.
+
+Stephen had stayed mostly silent throughout the exchange, but I could sense a deep interest in the topic. Given his history, I figured it was likely he might also wish to have one or more pets join him on his journey.
+
+“What about you?” I asked, turning to the shifter himself. “You mentioned being something of a Tamer before you ascended. Do you have any intention of acquiring beast companions in this life?”
+
+“Most likely, though it will probably be a while before I manage it,” Stephen replied. “I looked into it briefly after I realized that dungeon creatures could not be tamed, but the cost for even basic, companion pets is far too high for me to afford at this point. I doubt that I’d need to purchase a skill to create a bond, given my background, but there are other factors involved as well.”
+
+He wasn’t wrong. Having a pet was expensive in more ways than just the initial costs.
+
+“It’s too bad wyverns and dragons don’t exist in this realm,” Cora said with a sigh. “The only mention I found of either was in fiction stories.”
+
+“You can always get something else if you really want a pet.”
+
+“Won’t that slow our progression down a lot?” Cora asked.
+
+“I mean, it’s not like you have to help it level,” I pointed out. “You can always just get a pet without it becoming a companion of some sort.”
+
+“Where would it stay when we’re in the dungeon?”
+
+I stared pointedly at the rogue. “Where do we sleep when we’re in the dungeon?”
+
+Cora opened her mouth to answer, then seemed to realize where we were and closed it.
+
+Before she could comment, I said, “And if you don’t like the idea of it staying there, I can always craft a storage device that would keep it in stasis.”
+
+Cora’s expression twisted. “That doesn’t seem like a pleasant existence.”
+
+I shrugged. “I don’t think it would be bad. It’s better than being left alone for long periods. It’s an option, either way.”
+
+“You can make storage devices that can store living creatures?” Stephen asked curiously.
+
+“I haven’t tried it in this realm, but it was something I could do in my old realm,” I replied. “I’m pretty confident I can do it. If not right away, then after my first evolution.”
+
+While I was undoubtedly more capable than pretty much any other unevolved Enchanter, there was an inherent limit to what I could produce. Each evolution would make me stronger in every way that mattered, and that strength would be directly reflected in my enchantments.
+
+“Alright, well, dreams of riches aside, we should probably get back to the topic at hand – planning for our delve tomorrow,” Mike said, redirecting the conversation.
+
+We discussed the approaches we’d taken to the rooms we’d explored so far. Stephen offered ways that he could contribute, though most of what he mentioned revolved around his ranged capabilities.
+
+A few times, he alluded to an ability to scout or potentially sneak up behind groups of opponents, but he never outright mentioned his ability to shift his form.
+
+Cora seemed enthusiastic about the idea of having someone join her in her roguish endeavors, especially when it came to flanking and attacking opponents from behind.
+
+We would have to be careful of friendly fire, but that was already an issue when Cora used stealth to sneak up on her targets.
+
+“So, we’ll meet for breakfast shortly after dawn and enter the dungeon from there?” Mike verified as we headed into the Dungeon Complex after our meal.
+
+After agreeing, Mike and Cora split off to head to their shared apartment. Stephen’s accommodation was just a few doors down from mine, so he kept pace with me as I headed to my temporary home.
+
+“They seem like nice people,” he commented as we walked.
+
+“They are.”
+
+He paused outside my door. “Thanks for inviting me to join you. Even if it doesn’t work out, it’s been nice spending time with the three of you.”
+
+“Hey, even if you decide to go it alone, that doesn’t mean we can’t be friends. I’m sure Mike and Cora feel the same way.”
+
+“Maybe. Let’s see how things go tomorrow. I’ve found that even the nicest, most understanding people sometimes react in unexpected ways when they discover what I am.”
+
+“What do you mean? You’re a person, just like the rest of us,” I said with a smile, though I understood his meaning behind the comment. “Just because you have a really interesting skill that lets you change forms doesn’t change that.”
+
+Though I firmly believed what I said, I could imagine the kinds of reactions he might have gotten. Had someone possessed a skill like that in my previous realm, I could easily imagine how some might react poorly.
+
+Even the demis, or beastkin as they were sometimes called, couldn’t change forms. They had a single form, and that was it.
+
+I truly didn’t think it would be an issue in this realm since there were shapeshifting and beast-shifting skills. They were rare, but known.
+
+After learning about Stephen, I’d even done a bit of research into the topic. Aside from a few friendly fire incidents where people thought a shifter’s beast form was an actual beast, there were remarkably few mentions of problems for those with such skills.
+
+The fact that there were also taming and beast companion skills made things even easier since it was not uncommon to see a tamed beast among people.
+
+It was still a risk for him to fight in that form around others, sure, but I was hopeful it was only a minor risk.

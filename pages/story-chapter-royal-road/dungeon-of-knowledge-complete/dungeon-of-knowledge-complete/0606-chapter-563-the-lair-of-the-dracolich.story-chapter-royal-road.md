@@ -1,0 +1,187 @@
+---
+id: b0a08ac5-4688-53ee-9295-5f55f16b09e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 563: The Lair of the Dracolich"
+slug: 0606-chapter-563-the-lair-of-the-dracolich
+partOf: dungeon-of-knowledge-complete
+position: 606
+ownLength: 3621
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3143659/chapter-563-the-lair-of-the-dracolich"
+royalRoadId: "3143659"
+---
+
+The cavern was deathly cold, and despite his thick hide and fur, Mato shivered. Dark too, but his eyes did not struggle to see. At the far end of the cavern, across a cracked and icy landscape, the rift glittered against the black ice of the walls.
+
+The Lair of the Dracolich. The first true challenge of the Blind Lich’s Crypt of Kings. Ever since he had fled this chamber with his tail between his legs – something of an incongruous image for a bear – he had dreamed of a rematch.
+
+“Start it,” Lyeneru commanded.
+
+“Right,” Mato answered. All the preparations were done, and all the words needed had been spoken. Myrin’s Keep could not wait. Ali was relying on them. Now was the time for action.
+
+Mato scrambled down the treacherous slope, his void claws biting deep into the ice to keep him from slipping, and then he broke into a slow, lumbering run. Of course, he could go faster, but he had no death wish. Behind him, he could sense the raid giving chase, remarkably silent as they naturally fell into their practiced formations and order. Last-minute buffs flickered and popped as their casters unleashed them on the fly – short-duration spells that would benefit greatly from being cast at the last second.
+
+He pulsed his own nature mana, summoning the enigmatic Lirasian Sage. The tiny spirit creature shone with a soothing emerald-green aura reminiscent of Lirasia herself, and flitted upward to follow him, bathing the entire raid group in her radiance and the potency of the tree spirit’s vitality bonus.
+
+But the light of the spirit, and the raid group following behind, was lost, eaten up in the vastness of the dark, icy cavern. A speck of light in a vast wilderness of ice and darkness. He scrambled over sheets of shattered, sheer ice, zigzagging around protruding boulders and jagged slabs of jutting dark ice the size of houses, making his way steadily down to the broad open area at the far end of the cavern. The chosen spot in front of the rift and the frozen corpses strewn there.
+
+The shimmering rift pulsed continually, colors shifting like an aurora of black and angry red, and lurking in the shadows behind it…
+
+“So, the pests return to disturb my slumber,” Kryostria growled. The immensity of her voice rolled through the cavern, an ancient grinding rumble filled with the promise of doom. The vast, looming shadow of her presence stirred in the darkness behind the rift, and two icy cobalt orbs of flame snapped open to transfix him with a haughty glare.
+
+He identified the ancient scourge.
+
+Kryostria [The Frozen Scourge] – Dracolich – level ??? (Ice)
+
+Calen had revealed that the monstrous undead dragon had reached level two hundred and eighty-five, well beyond the level he could personally identify, and well into the third tier. Mato swallowed, a futile attempt to clear his suddenly arid throat as his heartbeat throbbed loudly in his ears.
+
+It’s just dragon’s fear, he told himself, grinding his fangs together. All dragons had it. He had faced it before, but Kryostria was a Dracolich, and the numbers Calen had quoted for the raid had nothing on the immensity of her presence. Only when Azryet slipped up and let his aura out did Mato feel more insignificant. Or when he’d run into the Blind Lich himself. He found himself struggling to even breathe.
+
+Kryostria rose to her full height and unleashed a shattering roar at the adventurers who had the temerity to scurry and scramble across the sheets of ice that blanketed her domain. Screams and gasps rose weakly from their throats as the priests scrambled to fortify rapidly fraying resolve. Great bony tattered wings spread wide, dark and decayed, but brimming with an ice-blue mana that made them glitter like frozen snow. Dragon scales that had once adorned a magnificent sapphire dragon now blazed with a malevolent aura, blackened and cracked like the withered body beneath.
+
+But while her body seemed decayed and gaunt, the mana that coursed through it burst forth in an immense fresh wave of power. Snow and sleet howled through the air, spontaneously conjured from nothing by the mere fact of her presence. It lashed down against Mato as icicles sprouted in his fur and chilled his bones.
+
+You have been cursed by The Frozen Scourge-20% resistance to Ice damage while Chilled.-50% resistance to Ice damage while Frozen.+500 Ice damage per second. Curse – Aura
+
+Mato stared up at the giant undead dragon while his heart pounded and adrenaline-quickened tempo within his chest. But he found, to his surprise, he needed no buffs and priestly wards or fortifications. He was in the third tier, and his wisdom was immense. He shook off the fear and intimidation like he shed the snow that thickly coated his fur. Energy infused his muscles, and he roared his challenge.
+
+“Down here, you bag o’ bones,” he thundered, throwing his challenge into her undead face as he stepped up onto his shields of void magic, raising himself higher into the air to better catch her attention. Paws were meant to stay on the ground, as he’d always insisted, but for a foe this magnificent, he was willing to make an exception.
+
+The great draconic head tipped downward to regard him with the unholy flames of ice that danced within her vacant eye sockets and an immense disdain that Mato intended to beat out of her withered hide. Her great maw opened and filled with an intense blue-white ball of frozen mana, and then she breathed out.
+
+A deluge of roaring ice and arctic cold burst from her maw, blasting forth in a hissing torrent. Sensing the danger instantly, Mato hunkered down and blocked using Spell Breaker – his two-piece Adamant set bonus – with a fresh array of void shields that sprang into existence at his call, to guard his face and shoulders.
+
+The dragon’s breath howled over and past him, sluicing off the conjured shields and scouring his fur, but his hide crawled with his gear’s bizarre defensive spell as it absorbed ice and cold, deflecting it sideways and downward, drawn aside and released out of harm’s way. But no block he’d yet found could fully stem the tide of a dragon’s breath. Perhaps his Spell Breaker, used in combination with Critical Block? He would try that soon. As the remnants of the dragon’s breath passed through him, it clawed at his flesh, freezing his marrow and shattering the bones within him.
+
+You have been chilled.
+
+He had been lucky. The dragon’s breath tore through the raid members rushing along behind to support him, and with a sickening cracking and popping, at least half of them were left encased in dense blocks of ice, frozen in place by the magic of the Dracolich.
+
+All his healers!
+
+Fear spiked in his throat. Not good! He charged forward to seize the initiative, slashing lines of void that bit through the undead dragon scales with a lingering sizzling sound and a harsh, pungent odor of burning. Kryostria roared, but as she struck with immense, razor-sharp talons, Mato used his Critical Block.
+
+“Mato’s healers are incapacitated!” Calen shouted from somewhere in the back.
+
+An earth-shattering crack answered her powerful cleave as Mato reflected the damage back onto the once sapphire dragon, earning a surge of enmity and icy rage as she thundered in response. In the periphery of his vision, he could sense his healers still frozen in place, and several people sprinting madly across the treacherous frozen ground.
+
+I’m on my own out here.
+
+Strangely, his heart did not stutter, nor did his will. Not even the dragon’s fear seemed to affect him much. He saw the bite coming and lowered his center, flickering his thoughts to the tiny Lirasian Sage hovering above and summoning a Greater Stonecap Armor potion to his mouth before biting down hard.
+
+The tree spirit responded instantly, and its Giant Growth spell sent roots of potent mana spreading through his flesh. He began to grow, armor thickening and strength mounting.
+
+Dirt-flavored liquid spilled down his throat in a viscous splash. The gritty concoction went down because he forced himself to swallow, and immediately its magic began to swirl through his body, condensing in his hide. Normally supple and strong, it hardened dramatically, adding weight and toughness, and moderately restricting his ability to move. But his tanking style did not require dexterity.
+
+You have gained Greater Stonecap ArmorA dark brown, gritty earth affinity potion made from high-level Stonecap Mushrooms. It tastes like dirt, but greatly increases Armor.+45% to Armor.-15% to Movement Speed.-15% to Dexterity.Created by Morwynne Fizzlebang – “Don’t stub your toes!”Potion – Duration: 2 minutes.
+
+As the giant maw snapped shut across his back, Mato used Shield Wall. He fed a stream of mana into Bestial Combat, fueling the short-duration defensive advancement and dozens of overlapping black dragon-scale shields of pure void settled around him with an exhilarating, sizzling crack.
+
+The immense power of the dragon’s jaws crunched down on his defensive skills and advancements, making his encircling wall of shields creak and groan as the void burned tooth and flesh. With a great sizzling snap, several of the shields shattered, and a giant fang tore a half-foot deep gash from his shoulder to his spine, while the crushing pressure of the mighty jaws cracked his ribs in a series of popping jolts of pain.
+
+The giant bear found himself clamped tight between the dragon’s jagged thicket of fangs, held up in the air like a mouse in the jaws of a cat as the remainder of his thirty-second shield wall began to fail in a cascade of sizzling black sparks. He growled furiously, reaching out with cunning precision to swipe with his void-enhanced claws, tearing through her withered skin until he carved deep grooves into her exposed jawbone while his heart beat out the thrilling rhythm of battle against his savaged ribs.
+
+“Mato!” Calen screamed.
+
+“Don’t worry,” he chuckled. “I have her right where I want her!”
+
+“You… what?”
+
+But Mato ignored his friend. Action, in all things, spoke louder than words. He had, after all, received a gift from a dragon who was in all ways superior to the one trying to eat him. Both of his forms boasted unique versions of the Breath of the Dragon God.
+
+My turn! With his head shoved halfway down the gullet of the Dracolich, he sucked in air and expelled his void breath. A cone of utter darkness jetted past his lips, a sizzling stream of void that disintegrated everything it touched. It seared his throat, burning his lips, but the devastation it wreaked inside the Dracolich’s maw and down its throat was staggering.
+
+In a spasm of agonized rage, Kryostria flung him head over heels to crash against an enormous ice shard stabbing up out of the ground. Another rib broke on impact, joining his collection, and he grunted in pain, but Mato shook his head and got to his feet.
+
+Thanks for the damage! To his amusement, his thoughts were met with a mental impression of a toothy grin of draconic fierceness.
+
+The sage hovering above him cast a quick Heal, repairing his shattered bones and void burns, but still, the rest of his healers were too far away, and he needed to reposition Kryostria so she would not breathe on them a second time.
+
+His mind settled easily into his Battle Trance, unaffected by all the damage inflicted upon his body, sizing up his opponent. Brutal Restoration ticked along, offering some small, additional measure of healing. He glanced back at the still-frozen raiders – he was going to need a plan. Pretty much any plan that did not involve him becoming a dragon’s chew-toy again.
+
+“Sabri, I need you,” he sent. He did not know if she heard him, but he trusted the reliable Ahn Khen tank. If there was ever a need to take hits for the team, she would be first at the post. Well, he was a little faster, so she might have to be happy with second place some of the time.
+
+He swiped again, unleashing his upgraded attack skill, Aggression of Claw and Fang, and spent health freely on Bestial Combat to enhance his strike. Mana flooded through Brutal Restoration, and he kept his moves defensive and guarded as his shattered shield wall began to fade. Out in the corner of his eye, he caught the bizarre sight of a dwarven priest sprinting toward him at a ridiculous speed, dodging ice-cubed people as he zigzagged across the ice.
+
+Belmar, you crafty Dwarf.
+
+Clearly, he was the only priest who had had the presence of mind to pack a speed potion. Mato grinned, shifting sideways to point Kryostria’s head away from his rescuer. While his aerial tree spirit could heal, against a foe of such power, he would not last without a dedicated team of healers. A great draconic claw gleamed wickedly right before Kryostria unleashed a devastating cleaving arc toward his left shoulder. Mato hunkered down, readying his block. Judging by the intensity of Survival Instinct, he wouldn’t need his Last Stand quite yet.
+
+It was too quick to avoid. The talons slammed into his hide as he rolled with the blow, screeching across the earth-affinity-boosted armor and tearing through his flesh. For just a brief moment, he felt the claw-tips grinding against his bones before they cleared his chest, spraying crimson blood across the ice. As his health dipped dramatically, his ears picked up the panicked screams of healers rising from somewhere behind him.
+
+But the dwarven priest was already hunkered down beside an enormous chunk of ice on that desolate glacial expanse, glowing with the intense radiance of a powerful holy spell. A soft pulse filtered through his body as the instantaneous Restoration heal began to work, shoring Mato up for the moment while Belmar worked his more powerful spells.
+
+Mato roared again, swiping strips of decaying flesh from the Dracolich. I’ll grind you down one scale at a time if that’s what it takes, you stupid overgrown lizard!
+
+Sabri and Havok must have reached him – he could smell them both. The scent of censers, holy blessings, and the mineral oil the crafters extracted from the oily tar pits deep in Ali’s mines – used to keep their armor shiny and rust-free. From Sabri, Mato caught the scent of dragon-skewers. He sniffed the air. And a new kind of pepper? He would have to stop by Tabitha’s cart when he got back – whatever it was, it smelled delicious. Dragon meat was the perfect scent for a tank to wear to a battle with a dragon, and if he were to bet, he’d say Sabri had likely done it on purpose.
+
+Belmar’s intense holy spell landed. Mato’s gushing wound ceased bleeding in an instant, and the gashes he bore on his flanks shrank dramatically as warmth and light surged through him.
+
+You have gained Holy Shield.Physical damage is reduced by 400.Magic – Duration: 5 seconds.
+
+Mato grinned at the dramatic, brilliant evidence of the critical healing spell and the shield proc that resulted from Belmar’s potent skill as his health shot up again. He shifted his stance at once and sidestepped to control the distance, drawing Kryostria closer to the wall as a burst of hundreds of icy skulls exploded from beneath her wings, flying off into the giant cavern. He ignored them, trusting Calen and his archers to take care of the spawns.
+
+Instincts prickled, raising the hackles on the back of his neck right as Kryostria opened her maw once again. Ice burst forth, an unstoppable avalanche of power that pinned him to the wall of the cavern, blasting him with chunks and slivers, while the intense cold began to claw its way into his bones.
+
+You have been frozen.
+
+His body seized up. His muscles froze, and all he could do was stare at the specter of the enormous Dracolich looming down at him, wearing fury prominently upon her undead visage and leaking great gusts of white condensation from her maw. The brutally cold gusts rimmed her blackened fangs with gleaming sheaths of ice.
+
+“Now,” Mato said.
+
+A ringing shout echoed out through the chamber. The air shivered and warped from the power of the soul magic that tore into Kryostria, ignoring all her physical armor to rip at the core of her essence. The great Dracolich roared and spun, lashing out with talons imbued with potent ice magic, but her vicious strike met a shining mithril shield. An enormous crack rang out, matched with a shimmering blast of power – the unmistakable sign of a successful Critical Block.
+
+“Smooth,” Mato told her.
+
+Mithril boots crunched as the downward blow shoved the unbowed Sabri knee deep into the heavy ice, but she simply lashed out with her sword, taking a perfectly timed opportunistic strike at the massive monster lashing out at her.
+
+Smart tanking, Mato thought, admiring Sabri’s skill and forethought. She had circled behind Kryostria so that when she took over, the breath weapon would be aimed even further away from the struggling raid, and she had thought to bring Havok too, clearly understanding the situation in greater depth.
+
+While under normal circumstances, Mato would not have spent the Critical Block recharge so early, when implementing an emergency tank switch which hadn’t been discussed with the healers in advance, any damage mitigation that bought a few seconds for the healers to react was worth it in his opinion, a testament to the instinctual awareness of the Ahn Khen warrior.
+
+The principle of least astonishment, he recalled from when Vivian had explained it. Tanks who surprised their healers would quickly find themselves without a healer – or dead.
+
+In the meantime, he was forced to sit there in his own personal ice cube, while the damage from Kryostria’s aura ticked away at him, but from the variety of healing magic spells that were landing on him, it seemed the raid was quickly recovering from the surprise and ensuing chaos of the pull.
+
+Gromm roared his War Cry, raised his foot and brought it down with all the force of Earth Breaker. The ground buckled, rippling away from him for more than thirty feet in all directions, and the echoes of his cry bounced back from the battlements behind him. Every Ghoul, Wight, and Death Knight was knocked off their feet, leaving only the giant flesh abomination still standing – but it was already in tatters, hanging on by strands of sinew and dead skin. And he had a plan for it.
+
+He swung low and the mithril blade of his axe bit deep into the undead abomination’s left knee with a sickening crunch, and as the monster stumbled and toppled, Gromm turned his momentum into a whirling backhand strike. Right as his blade cut the monster’s throat, it flashed with brilliant holy light.
+
+You have gained Azryet’s Wrath.
+
+The patchwork abomination’s head separated from its body as the holy magic blazing from his axe sizzled into undead flesh.
+
+“Thanks for the damage,” Gromm chanted as the monster’s death fed him, making his muscles swell with new power.
+
+“Thanks for the damage,” Galeth echoed, finishing off a Death Knight beside him. “Now, what are we going to do about that little visitor?” The big warrior gestured with his holy sword to the giant siege monster crawling its way across the battlefield.
+
+“We kill it,” Gromm said. Galeth was not a follower of Azryet, as far as he knew, but wielding the Dragon God’s blessed sword counted, in his opinion.
+
+“We’re not going to reach it in time,” Galeth said. “And what about the others?”
+
+Gromm grimaced at the sight of the Blind Lich weaving a third crawler out of shadows and darkness. “We’ll worry about that after we kill the first one,” he said.
+
+“Right,” Galeth said, and then he yelled in alarm as something enormous burst from the Lich’s unholy portal and went cartwheeling across the dirt.
+
+The monster that rose from the heap towered over the Death Knights. Its leathery skin was dark purple and seemed slightly translucent – like it wasn’t quite there. It leaned forward, opening a fang-filled maw and roared at the dead scurrying about around its feet and raised a glaive so large, Gromm wasn’t certain even he’d be able to wield it.
+
+“Is that… a Pit Lord?” Gromm asked.
+
+“Whatever it is, it’s going to get mobbed,” Galeth said. Just as he said it, every undead monster in the vicinity turned and swarmed it. But the moment the first Death Knight’s sword connected, the Pit Lord burst into a thousand detonations of hellfire, incinerating everything in its way. From within the inferno, it roared in triumph and the sky began to rain fire, lighting up the siege crawler like a pyre.
+
+With a giant leap, the Pit Lord launched itself onto the crawler with its glaive whistling through the air.
+
+“Aah… the heck?” Galeth grunted, but he was interrupted by the strange portal bulging wider and a second Pit Lord bursting through.
+
+Gromm just swore in surprise. “Allies?”
+
+“Those are summoned Mana Echoes – I think someone is looking out for us,” the witch in the skies called down. “Look, it’s going for the other crawler.”
+
+“How about we leave those to them, then?” Gromm suggested delicately as he watched the second Pit Lord incinerate a broad path through the lesser undead to reach its prey. “We shouldn’t hog all the enemies.”
+
+“Right…” Galeth said, hefting his sword and glancing about for a fresh Death Knight. “Wouldn’t be polite.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

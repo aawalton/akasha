@@ -1,0 +1,247 @@
+---
+id: 01bf772f-b6c9-554d-a2a6-4a11401861c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: A System of Debate "
+slug: 0072-chapter-57-a-system-of-debate
+partOf: ends-of-magic
+position: 72
+ownLength: 2944
+unit: words
+ownProgress: 2944
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3071065/chapter-57-a-system-of-debate"
+royalRoadId: "3071065"
+markedReadAt: "2026-06-29T20:09:34.557Z"
+---
+
+The Heirs woke early the next morning, with Aarl gathering breakfast from outside their cave. According to Khachi, he’d joined them just an hour or two after the rest of them had gone to bed. Now he was getting them food, so Nathan was inclined not to rib the guy for staying out late.
+
+“If Questors are good at something, it’s food,” Aarl said, pulling stacked plates of hot food from his dimensional bags. “Not cooking it, to be clear as glass. But they make sure it’s excellent, even in a random patch of wilderness.”
+
+Nathan had to agree, digging into the broad assortment of stuff in front of them. It tasted as if it had just come out of a top-tier kitchen, and he wouldn’t be surprised if it had been teleported in at great expense or had skills on it that kept it hot and fresh until consumed.
+
+“Let’s chat about the conclave,” Stella said as she finished her breakfast. “What is our plan?”
+
+Aarl frowned, wiping at his brow. “We’ve spoken of this before, and we don’t have enough information to make a complete plan. The battlefield is unknown.”
+
+“It’s starting soon. How do we get that information?” Sarah asked pointedly. "If we wait any longer, then we will be fighting an invisible foe."
+
+“I think Colborn and Sarya are going to travel with us to Dawn’s Concord, and we’ll talk it over with them,” Nathan answered. “That being said, we do need to decide what is most important to us. We don’t know what options we have, but there’s an underlying question we can talk about. Are we ok with a small incremental change, or should we go for broke?”
+
+“Go for broke?” Sarah asked.
+
+“It means risk it all for the highest reward,” Nathan said. He’d explained a lot of Earth phrases to the Heirs, but apparently had never gotten to this one. “It means that we hold out for an end to the Endings and don’t accept something that just makes them more tolerable.”
+
+“We swore to it,” Khachi said sternly. “Atop the Seal in Gemore. Davrar is broken. The Ending of History will come for our home if we do not act, and it will destroy countless people across Davrar.”
+
+Stella piped up. “It’s not broken for the Questors. Why would they part with the Endings?”
+
+“What purpose do the Endings serve?” Khachi asked in rebuttal.
+
+“I’m speculating a bit,” Nathan said, “I think they were originally supposed to help stress-test experimental cultures, while wiping out any that weren’t strong enough so they could start fresh. But when all the people seeking entertainment came in, they became a good way to add extra excitement and shake up the game. Adding necromancy, getting rid of overbearing Gods, and adding new species. They’re like expansion packs.”
+
+Khachi grunted angrily. “Why is so much death necessary in adding new magics?”
+
+Nathan raised his hands in exasperation. “I don’t know! Maybe it’s more exciting that way, or a way to showcase the new powers. Maybe just a way to prevent Davrar from getting too crowded over millennia. But most of the Questors seem to stick around the populated areas like Ostren anyway. Maybe it’s just something they haven't revisited in a while?”
+
+“Once again, we lack the necessary knowledge,” Sarah said calmly. “We do not know if it is possible to stop the Endings. But we should make the attempt. If we face the Questors willing to accept a lesser outcome, then that’s what we'll achieve.”
+
+Stella nodded in agreement. “Hear me, we can shield people from the Endings on our own. What the Conclave gets us is the ability to truly change the mechanisms of Davrar.”
+
+“If we want to blunt the Endings, we just need Nathan to share his immortality.” Aarl raised his eyebrows.
+
+Khachi chortled. “My grace may solve that problem more easily, but it is not a near concern. Still, I see the same light as Sarah. We cannot compromise on the Endings.”
+
+Nathan frowned, but he could see that the rest of the Heirs were set. “Alright, but we’re still going to do everything we can to learn more. I don’t know if it’s possible to completely eliminate something like the Endings, but if we can make them significantly less destructive, we should consider it.” He raised a finger for emphasis. “We also should be careful about confronting the Questors about this. I think our allies want a compromise, and we shouldn't alienate them and lose the support we need.”
+
+Stella huffed. “Do you think Sarya would cancel her promises? She said she’d bring us to the Conclave.”
+
+“There’s a lot of moving pieces here," Nathan said, "and Sarya doesn’t control most of them. If I were to point to an actual leader here, it would be Colborn. I like him, but he thinks he knows better than any of us.” He was about to continue, but felt something with his magical senses. “Sarya and Colborn are coming this way. Remember, we need to learn without giving up too much. As it is, we’re walking into a fight blind and weaponless.” He stood and started packing up the nonmagical gear he could.
+
+Sarya stepped inside their underground bunker a few seconds later, passing through the privacy spell Stella had thrown up as a matter of course. “A cozy redoubt. Is this how you passed through the blight?”
+
+“It is,” Stella answered, the tension obvious in her voice. “We got good at hiding.”
+
+“As one must, in the depths of a Blight!” Colborn proclaimed as he entered. “A fine construction, especially when limited in your magic. I have a fine pocket house, but I’m afraid I won’t be giving tours.” He winked at Nathan.
+
+The space felt a little cramped with two more people inside, and it wasn’t just a matter of personal space. These underground camps had been a safe zone for the Heirs amidst some pretty terrible dangers, and now it felt like outside presences were invading for the first time. The two Questors were allies, but there was tension there, especially with Nathan's recent warning.
+
+Nathan chuckled in response to Colborn’s joke. “We’ll be ready soon. Are we flying to Dawn’s Concord?”
+
+“Sarya tells me we must!” Colborn answered jovially. “I haven’t travelled the long road for eons, ever since Kalis and its miracles of teleportation. But your power indeed comes with a price.”
+
+“We think it’s worth the trade,” Aarl said jokingly.
+
+Nathan discussed logistics with the Questors while the Heirs packed up the camp with the ease of long practice. Then they all trooped out of the underground hidey hole before Stella collapsed it with a wave of her hand and a quick flex of earth magic.
+
+The wreckage of the party lay scattered across the hillside, with trash and furniture everywhere. Most of the Questors had gone back to civilization and other things, but a few groups were still going. They had the energy of a frat party at sunrise, when everybody was too tired to be rowdy. There were a few Questors passed out here and there, and Nathan wondered if they were all alive.
+
+Aarl blinked around at the carnage. “By the dawn’s light, this was a party.”
+
+“You’d think they’d won a great victory,” Sarya said with a touch of bitterness. She was looking around with a sour expression on her face. “This is not the face of proper stewards of Davrar.”
+
+Colborn snorted unkindly. “No, but was that even true in our time?” He lifted into the air seamlessly, and Nathan identified a set of bracelets as the cause of his flight. “Let’s depart, before we fall into a discussion of the new generation’s failings. It's a popular topic, but not a productive one.”
+
+“Isn’t that what the conclave is for?” Sarya asked, rising into the air herself. “Changing Davrar, and how we Questors interact with it?”
+
+The Heirs followed her, gaining altitude much more sedately than they had yesterday before setting off to the north. Nathan opened his mouth to get the conversation onto the track he wanted, though he kept his tone light. “We want to get rid of the Endings. How can we do that?”
+
+“A difficult task,” Sarya said cautiously. “The Endings are the gem of Davrar, to both the younger Questors and us. It is a chance to see if the civilizations we forge can survive an apocalypse. The younger Questors enjoy fighting in desperate battle for ages, always feeling on the edge of survival. Then if they die, they simply go elsewhere and try again until they succeed and stand in glorious victory.”
+
+Colborn’s beard was fluttering with the wind of their flight, the gems woven into it flashing in the sun. “The Endings are indeed a popular attraction, to be sure. But they do spill death across the land, and many complain that they are too lethal. There is a path to suppress the power of the Endings. It would enable more survival, and many Questors would welcome easier Endings.”
+
+“Or variable Endings,” Sarya interjected. “Such that on some continents a well-defended city can survive, and on others an army of Questors would fall in glorious battle.”
+
+“An army of Questors like that one?” Khachi asked sarcastically, pointing back towards the remains of the party that were just about to pass out of sight.
+
+Sarya frowned at him. “Do not be deceived. The Ashen Accord is powerful. Just Slick and his squad could conquer most nations in a day. The only enemy beyond a full grid is another grid.”
+
+“Or these five,” Colborn said with a chuckle, gesturing towards the Heirs. “Which is why we now fly to a conclave where they will address our peers. But before we speak of strategy, let us describe the rules of the Conclave.”
+
+Nathan almost objected, but he let Colborn seize control of the conversation again. He’d wanted to jump straight to the meaty bits, but learning the structure of the conclave was also important, and he'd probably been overly aggressive in talking about ending the Endings so quickly.
+
+“Each conclave begins with a speech from the one who first called it. In this moment, that’s Kaelis, but he’ll cede his time to you. You have unlimited time, but beware of boring your audience. The conclave can make any decision, but that speech sets the parameters and focuses the discussion.”
+
+Nathan felt a cold terror rise in his throat. “How long do I have before I need to address every Questor on Davrar?” Anger slipped into his words at the thought he’d lost precious hours of preparation time.
+
+“Two days,” Sarya answered. “The conclave starts the day after tomorrow, and we’ll arrive tonight. You have time to plan.”
+
+That was better than Nathan feared, but it still felt like he had less than two days to prep for the most important event of his life, and he could have had more if they’d just told him earlier.
+
+“We’ll teach you the traditions of this speech,” Colborn said, waving it away as insignificant. “There is a standard form to follow. It’s simply setting the target of the conclave. What comes next is the meat of it all, when the decisions are made. Anyone in attendance may petition to speak, and Davrar will grant them the stage, alternating between sides of the discussion and prioritizing the audience's desires. Each speech must be short, and once complete, anyone who attends may challenge the speaker to a duel. Once a proposal is validated, different kinds of votes may be called, and all Questors may vote. If a majority of Questors agree to a final vote, then the measure is passed.”
+
+Sarya broke in with a correction. “What this means is that a majority of Questors must vote in favor. If somebody is bored and tunes out of the Conclave, that is equivalent to a vote against.”
+
+“Hold on, let me get that straight,” Nathan said. “These are duels to the death? Can people speak multiple times? Can anybody petition? What’s to stop one side from signing up for every slot instantly?”
+
+“The challenges,” Colborn said, in a tone like he was answering a subtle question. “The challenges are to the death, and for Questors, the result is exile from the continent for the duration of the conclave. Nobody can stop you from speaking at first, but you must survive your challenges to speak again. If you lose all of your speakers, then the other side will monopolize the time before the vote."
+
+“It’s a system of social pressure,” Khachi spoke with resigned understanding. “Anybody who causes the wrath of the crowd will be challenged by many, and will be exiled from the conclave, and the continent, with their death.”
+
+“Unless they win all of their fights,” Nathan pointed out. “It seems like having a champion who can win every duel is the most important thing, because then you get to keep talking.”
+
+“An articulate champion,” Sarya replied. “Besides, the vote also matters. A single Questor cannot push the issue. You need a crowd of Questors to argue the point, to carry the argument as Questors lose and are ejected from the continent, and the conclave.”
+
+“But our enemies are already ejected.” Aarl sounded almost giddy with realization. “They lost the war, so they can't attend the conclave.”
+
+Sarya pulled an apologetic face. “Unfortunately not. Every Questor is granted access to the continent of a conclave. That was part of how Kaelis received the support needed to hold it. By hosting the conclave here, all of the Aleph Grid Questors are able to return to Ostren. Many backed it for that reason alone.”
+
+Nathan blew air out through closed lips. “I guess I’ll get to kill Badud a fourth time, then.” He started to think of more questions. “Is there any limit to the number of challenges that can be received at once?”
+
+"A speaker will only fight three times per speech. Davrar will choose the challengers with the greatest merit and place them upon the stage. But those who issue a challenge also risk losing access to the conclave and the continent. But if somebody abuses their combat power to silence the opposition, then refuses to speak, that is seen as poor argument.” He shrugged. “It’s a system that works when it works, and is abused when there is an imbalance of power.” He raised an eyebrow at Nathan. “I am not sure what direction it is tilted in your case.”
+
+Nathan threw up his hands. “I guess we’ll find out!” He was feeling somewhat exasperated, though he had to admit that the setup was pretty simple. It was the sort of thing that rewarded you for having allies, punished you for having enemies, and required people to back up their words with their fists. “I’m guessing that the duels are part of the fun, and that giving a good performance in the fights is almost as important as a good speech.”
+
+“More important, to some,” Colborn said with a sour twist to his mouth. “If the fights become boring, then the next petitioner will take their turn to speak, but not if they will be ignored. And if a speaker wins all of their challenges, they can reclaim the stage.”
+
+Sarya spoke placatingly, trying to calm Nathan down. “You aren’t without allies. We will speak, and fight. So will every one of the elder Questors who went to the battle. Their true purpose there was to signal their side in the upcoming conclave.”
+
+The Heirs were all thinking hard, trying to understand the implications of this system. Stella broke the silence first. “We’re all going to need to stare the ghoul in the eye.”
+
+Nathan hissed. “No. If a mortal needs to fight, it should be me. I can survive fighting most Questors. But if one of you stands up to talk, then the Aleph Grid will have a Questor lined up who’s perfectly suited to kill you. They’ll do it out of spite, and then you’ll be dead. Even if we take revenge, it won’t matter.”
+
+“The same is true for you,” Sarah said. “They will be planning an approach to beat you. We’re chasing this goal together, and must all be bold.”
+
+Colborn’s expression was complicated. “You have been introduced into the games of Questors by the war, and are known as a collective unit. You will all be expected to fight, if not speak. If any of you hold back, then it will taint the entire cause.”
+
+Nathan felt a smoldering anger in his heart. This felt like the first betrayal from the Questors. He felt absolutely certain that at least one of his friends would die in the upcoming conclave.
+
+Permanent Talent 1: Magical Destruction 6
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 2
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 5
+
+Forewarning 10
+
+The Truth of Magic 6
+
+Evasion 5
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

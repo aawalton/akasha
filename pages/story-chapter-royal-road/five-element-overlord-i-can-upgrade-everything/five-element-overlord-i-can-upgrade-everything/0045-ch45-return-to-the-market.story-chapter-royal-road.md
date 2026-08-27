@@ -1,0 +1,147 @@
+---
+id: 61e78ca7-cd36-55d9-8862-d9053e174acd
+page-type-slug: story-chapter-royal-road
+title: "Ch45 Return to the Market"
+slug: 0045-ch45-return-to-the-market
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 45
+ownLength: 1599
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3343330/ch45-return-to-the-market"
+royalRoadId: "3343330"
+---
+
+After paying a doubled ride fare, and enjoying the peaceful flight through the night, I eventually walk into the Red Pine Market once again.
+
+The mid level qi refiners that roam the streets are not as intimidating as they were the first time I came here. With all of the artifacts in my storage right now, I feel confident enough to take on even late stage qi refiners.
+
+However, the general tone of the market today is not the same as I remember.
+
+Cultivators are walking faster, not chattering as much, and when I look at many of the hand drawn price signs, they have been written over and raised quite a bit. Some shops have prices up to double what they were before.
+
+I walk straight through the tense market, toward a familiar storefront with ‘Mu Family General Store’ printed on their banner.
+
+“Fellow Cultivator, how can I help you today?” a young woman’s voice calls out as I approach.
+
+I smile, but the Red Pine Market concealment talisman covers it up. A small grey ring is placed on the table in front of her.
+
+“I’m looking to sell. Both the ring, and the item inside it.”
+
+After recharging my Azure Lightning Attack Talisman, I’ve only managed to refine about three thousand more spirit stones from the vein. My main objective in the market today is to load up on supplies that will help me surpass this bottleneck to the 4th level of qi refinement.
+
+Selling the perfect grade storage ring, and the perfect grade verdant steel short sword inside it should grant me enough spirit stones to get what I need.
+
+There are still a few perfect grade defensive and incineration talismans in my storage, but I’d rather keep these on me than try to sell them. The same goes for the few qi gathering pills and healing elixirs I upgraded for if I’m in a bind.
+
+“It’s you... Isn’t it? The one who sold me that dagger last month…” Mu Shulan remarks in surprise.
+
+The storage ring fluctuates with a dim pulse of qi once she breaks the imprint, and her eyes widen even further.
+
+“A perfect grade verdant steel artifact… I didn’t even know it was possible to have such a high percentage of verdant steel in a 1st Tier weapon… Are you truly looking to sell?”
+
+She stares motionless for a few seconds, then looks up at me in a daze.
+
+“What is a fair price? It appears these are far more valuable than the dagger I brought you before.”
+
+She audibly gulps, and starts shifting through papers and storage pouches beneath the counter.
+
+“Since last time, I had an elder from my family bring a price list just in case you came back.”
+
+She turns one of the papers, and points to a line in a long list.
+
+“Here, a perfect grade Verdant Steel short sword sold at auction in Lingshi City for 2,700 spirit stones last year… but… their Verdant Steel content was 91%. I do believe yours is higher….”
+
+Nervously, she sifts through the papers again, “and here, a perfect grade storage ring was sold four years ago for 3,500.” Her eyes return to the grey ring in her small fingers with longing.
+
+“What about the price increases? Everything in the market today is almost double the price it was last time I showed up.”
+
+Even in this store, when I look around, many prices are crossed out with higher ones marked next to them.
+
+“That’s because tensions with the Blood Sword Sect are rising. Over the last few weeks the Outer Sect has discovered more and more strongholds. The Azure Cloud Sect has been buying up a lot of the raw materials from families, clans, and rogues. This has made many of the initial and mid stage qi refining materials far more scarce.”
+
+Mu Shulan nervously scratches her head, “-But, perfect grade items are different. They’re already so rare- the price can’t go up much further…”
+
+“Six thousand stones. That’s slightly under the auction price, and I know my items are better quality than those,” I reply, setting the empty high grade storage ring of the Blood Sword Sect’s team boss on the counter.
+
+“That- uhm.”
+
+“And I want some more defensive talismans too.” I point toward the stack of black papers, then read the signs nearby.
+
+“Throw in a stack of those too. Mid grade stone bullet talismans, they sound interesting.”
+
+My gaze shifts around the shop, but there are no pills available. This shop is mostly filled with weapons.
+
+Mu Shulan looks through the auction ledgers again, and quickly agrees. “Deal.”
+
+A wide smile grows onto her face while she counts out my stones.
+
+“On another note, what do you think is the best way for an initial stage qi refiner to break the bottleneck into the 4th level?”
+
+She slows down her counting slightly, but replies as though she’s heard this question many times before.
+
+“Well, if you’re a 6th grade root or better, and don’t have all 5 elements, the bottleneck won’t be too difficult. Normal focused cultivation on top of a mid grade vein is enough. But, if you’re asking about a 7th or 8th grade root, Qi Nourishing pills will be necessary… and to be extra safe, they should be eaten with a White Jiao Fruit. They’re a bit overpriced now, but I’m sure you can find some in the market.”
+
+I mentally take note, but change the topic to something she might have.
+
+“What about Acquired Physiques? Do you have any such booklets for sale?”
+
+This makes her stop counting, and she looks up at me with a curious gaze.
+
+“You are quite the strange customer, you know… Acquired Physiques aren't sold in small markets like this. Just like perfect grade weapons, the closest place you can find any of them would be in Lingshi City… and that’s just in their big auctions.”
+
+She thinks deeply for a second, then shakes her head and keeps counting spirit stones, “If you wanted to buy an Acquired Physique without waiting, you’d have to travel to Nine Rivers City. But with the current chaos brewing, I don’t think travel outside the Azure Cloud Sect’s territory is a safe option.”
+
+Mu Shulan hands over the high grade storage ring filled with stones and talismans.
+
+I accept it, but she senses my hesitation to leave, “There’s always the Martial Warrior Acquired Physique, but I assumed you wouldn't want that.”
+
+“Why not?”
+
+She looks at me with confusion in her eyes, “Well… because the Martial Warrior Physique only grants a small amount of strength benefits. Reaching the Initial stage adds about half of a level 1 qi refiner’s strength to your physique. Yet, it takes up to ten years even for cultivators to take all of the necessary elixirs and practice the breathing techniques.”
+
+“Is that because of the impurities in the pills?”
+
+“Yes, a cultivator will have to substitute their normal qi gathering pills, stunting their qi cultivating progress in the meantime. It is why it's sold so cheap, sometimes for nothing more than silver. Only mortals practice this basic Acquired Physique.”
+
+An idea sparks in the back of my mind, “Do you have a booklet on hand? And the requisite pills?”
+
+“We do… but-”
+
+“Add those to my payment too.”
+
+Mu Shulan’s expression has become one of pure disbelief. Yet, she still opens up a drawer, sorts through a storage pouch, and pulls out a tan booklet with 100 dark brown pills.
+
+“As you wish.”
+
+I accept it with a smile, and turn around to continue my walk through the market.
+
+A low murmur is caught by my senses, “Uncle always said the more profound a cultivator is, the less of a chance I’ll ever have of understanding them… I think I’ve finally run into what you mean.”
+
+Her words make me chuckle.
+
+I don’t stop to talk with any stall owners for the same length of time as her moving forward.
+
+A total of 30 Qi Nourishing pills are purchased for 4,820 spirit stones.
+
+I snag a sale for 2 marrow cleansing pills for 1,000 spirit stones flat.
+
+Then, a stall selling all kinds of spirit fruits has a reasonable deal for 10 White Jiao Fruits. I manage to purchase them for a total of 1,750 spirit stones. They look like miniature bananas, about the size of my thumb, but their outer skin is as white as jade.
+
+Even after haggling, this is the best I can do.
+
+It is not that the sellers are stingy, it’s that there are buyers lining up offering to pay more in fear that the market will soon run out.
+
+–
+
+I find myself walking down familiar back streets of the market.
+
+I’ve stopped by every major talisman, technique, and weapon shop to ask if they have Acquired Physiques, and only get the same reply back each time that I need to find a bigger market.
+
+The same advice for my bottleneck is given too, Qi Nourishing pills and White Jiao Fruits seem to be the way to go.
+
+Yet, I still have a little over a thousand spirit stones in my storage, and am open to any unique suggestions these unnamed stalls may have.
+
+Far at the edge of the market, the outline of a fat man and his spirit beast brown bear come into view.
+
+Yet, they do not appear as the jolly couple I remember buying spirit apples from before. Instead, both have their heads bowed down, and an angry red haired man is yelling at them.

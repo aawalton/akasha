@@ -1,0 +1,181 @@
+---
+id: dba9f705-25a3-5664-887d-b2acda0de949
+page-type-slug: story-chapter-royal-road
+title: "Chapter Six: First Evolution"
+slug: 0006-chapter-six-first-evolution
+partOf: flesh-eater-demon-evolution-litrpg
+position: 6
+ownLength: 3541
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525504/chapter-six-first-evolution"
+royalRoadId: "2525504"
+---
+
+The moment Pyre selected “yes,” the glowing text flickered. Lights flashed in her vision, and the next thing she knew, the original screen stretched outward in a translucent sphere towards the ground, completely covering her. She could still see outside, but it was now filtered through a silvery screen. She attempted to poke at the bubble or whatever it was, but she realized she couldn’t move. Internally, her eyebrows rose. This seemed like an awfully vulnerable position to be in; see-through walls of light didn’t seem like the best defense in the world. It was a good thing she was in such a secluded area.
+
+Her eyes wandered over to Fred. Hopefully the giant corpse didn’t suddenly wake up and attack her or something. Really didn’t mean anything with the stabbing earlier, she thought at the limp body, just in case. Just some good old-fashioned experimentation. I didn’t even break skin.
+
+The flickering lights started to settle down into a more steady glow, and soon a new series of screens appeared in front of her.
+
+[Gathering quest rewards…]
+
+[Calculating total number of Flesh Lumps killed…]
+
+Pyre waited patiently as a counter rapidly ticked up in front of her. She found the whole thing rather amusing. Surely the system didn’t need to manually raise a visible counter to figure out how many things she’d killed. Maybe it just liked to be dramatic.
+
+Finally, the counter slowed, settling on a final number. The text shifted again.
+
+[Original quest requirement: 30][Total Flesh Lumps killed: 88]
+
+She whistled internally. What an overachiever she was. She probably could’ve gotten more kills, too, if she’d dealt with that slightly-smarter flesh lump earlier on. She was pretty satisfied with this, though. That was 58 extra points.
+
+[Starter Quest: Escape the Flesh Pit completed!][Experience earned!]
+
+[You have earned 88 points]
+
+[Your species has leveled up! Lvl 8 —> 9][Strength +2, Agility +2, Constitution +2, Magic Resistance +2, Intelligence +2]
+
+[You have earned 10 points]
+
+[Your species has leveled up! Lvl 9 —> 10][Strength +2, Agility +2, Constitution +2, Magic Resistance +2, Intelligence +2]
+
+[You have earned 10 points]
+
+Two whole levels just from quest experience alone? Damn, she hoped she got more of those in the future. At the end there she’d been devouring a fuck ton of flesh lumps and getting pretty much no experience at all, and here she was suddenly jumping up to level 10.
+
+She also now had 108 points to distribute in total, which was a very respectable amount, if she did say so herself.
+
+[Congratulations, you have met the requirements for your first evolution!][(5) Tier 1 species evolutions available]
+
+[Please select from the following evolution options.]
+
+The screens shifted again, and Pyre noticed the glowy barrier around her getting brighter. Fred’s giant corpse was nothing more than a vague dark silhouette now, but she was more focused on the string of text that now filled her vision.
+
+Tier 1 Species: Lesser FiendA demonic species directly descended from the ancient demons of old, lesser fiends are a flexible, balanced species categorized into 7 subspecies (pride, greed, wrath, envy, lust, gluttony, and sloth) that each provide additional stat bonuses and specializations.Stat Bonuses: Strength +1, Agility +1, Constitution +1, Magic Resistance +1, Intelligence +1
+
+The description was pretty vague, though Pyre did find the “ancient demons of old” part pretty interesting. The phrasing made it sound like said old demons were extinct, and now there were only the lesser descendants remaining. Her eyes glanced over to Fred. She’d thought it might be a demon before—was it the preserved corpse of one of those ancient demons?
+
+She focused back on the screens, filing that thought away for later. As for the species itself, it seemed fine to her. Pretty general, pretty basic, probably the standard option. She continued reading.
+
+Tier 1 Species: ImpA small, mischievous species known for its agility and playful nature. Descended from both demons and fae, imps thrive on sowing chaos. They exhibit strong innate magical abilities that compliment their quick-thinking.Stat Bonuses: Agility +3, Magic Resistance +3, Intelligence +1
+
+This option seemed far more specialized than lesser fiend had been, but it was also specialized in the complete opposite direction from her current stats and abilities. She couldn’t even use magic, she thought with amusement. This was a pretty easy pass from her.
+
+Tier 1 Species: HellhoundOnce the beloved pets and guard dogs of the demons of old, hellhounds are a fiercely loyal species boasting heightened senses, an innate proficiency in tracking, and the ability to work well in groups. This species receives pack bonuses.Stat Bonuses: Strength +2, Agility +2, Constitution +2, Magic Resistance +1
+
+It looked like all the evolutions were demon-related, Pyre noted as she read through the description for hellhounds. Apparently she and the other flesh lumps were demonic in nature, which confirmed for her that Fred was, in fact, a dead demon. Hellhound didn’t seem like a terrible option, though the idea of a species defined by its loyalty to a presumably extinct species was a little funny. She moved on to the next evolution.
+
+Tier 1 Species: CambionHalf-demon and half-human, this species is known for its versatility and ability to blend into human spaces. As a cambion, you will gain the ability to unlock a human profession, making this one of the few species with access to a species, class, and a profession.Stat Bonuses: Strength +2, Agility +2, Constitution +1, Magic Resistance +1, Intelligence +1
+
+Huh, interesting. This confirmed that humans did, in fact, exist in this world, and apparently they had something called a profession in lieu of either a class or a species. Pyre guessed it was the latter. Humans were likely the majority then, or at least the assumed “default.”
+
+This evolution seemed like the one that would take her closest to her past human self and would probably result in the most “human” shape. Did she actually want to become more human, though? She’d been having a fine time as a flesh lump, and without her memories in place, she didn’t feel much attachment to humanity beyond the vague knowledge that she was once one. Something to think about, she supposed. She moved on to the final option.
+
+Tier 1 Species: Crossroads DemonA demonic species existing since ancient times that consumes souls instead of flesh, crossroads demons are brokers and dealmakers. Known for their cunning and wit, they trade raw strength for the ability to harness unlimited power via deals. The best crossroads demons are clever, resourceful, and know how to leverage their contracts.Stat Bonuses: Agility +2, Constitution +1, Magic Resistance +1, Intelligence +3
+
+Crossroads demon was the last of her evolution options and probably the most unique. It sounded like it had the most potential, assuming you were good at making deals, and actually was an old species rather than just being descended from one. She was also curious about the whole soul eating thing. Would picking this replace her [Flesh Eater] trait with [Soul Eater]? She still didn’t know what souls really were, just that they were important for magic, they apparently could be eaten, and her own was being blocked by something.
+
+Pyre gave the five options another scan to make sure she hadn’t missed anything, then began mentally crossing evolutions off. Imp wasn’t going to happen. It had 0 synergy with her current stats and abilities, and she wouldn’t even be able to use the species’ biggest strength—magic.
+
+Crossroads demon was out, too, for the sole reason that she was 90% sure she’d be absolute dogshit at it. She didn’t think she was dumb or anything—by flesh lump standards she was a genius, not that that was a very high bar—but while the species was interesting, the idea of spending all her time negotiating deals was thoroughly unappealing to her. She’d probably suck at it or go insane or most likely both. Maybe if she’d been a lawyer in her past life she’d jump on this, but for her current self? Nope. Best go for a species she could actually make full use of.
+
+That left her with lesser fiend, cambion, and hellhound. She decided to cross off hellhound too. It wasn’t bad or anything, but it didn’t really appeal to her and sounded like a bad match for her personality. She felt neither particularly loyal nor especially inclined to working in groups. It was between cambion and lesser fiend, and pretty quickly, Pyre decided on the latter.
+
+She’d already decided to embrace this second life; she didn’t see much value in becoming half-human when she’d already been fully human once before. Besides, considering all the flesh sculpting and morphing options she was getting, she figured she’d probably have ways of blending in with humans in the future if she really wanted to without having to dedicate her whole species to it. The concept of gaining a profession didn’t really appeal to her either. She was perfectly fine with not working, thank you very much.
+
+Pyre focused on the remaining evolution option, lesser fiend. The basic one. But hey, basic wasn’t a bad thing in her mind, and it sounded like this would give her the most freedom and flexibility to do her own thing. She liked that.
+
+Mind set, she mentally selected [Lesser Fiend]. The screens flickered for a moment, a second prompt appearing to ask her if she was certain about her choice. She snorted. Were misclicks a problem with mental screens too? She thought yes again, and the descriptions of the evolutions promptly disappeared, now replaced with a new wall of text.
+
+[You have selected the [Lesser Fiend] species evolution][Strength +1, Agility +1, Constitution +1, Magic Resistance +1, Intelligence +1]
+
+[Please select a subspecies from the following options. This selection will influence future traits and skills.]
+
+Lesser Fiend (Pride)Pride fiends are arrogant and hold themselves in high regard. Natural born leaders with strong egos, these demons gain abilities suited for taking command and possess a well-rounded skillset with few weaknesses.Stat Bonuses: Strength +1, Magic Resistance +1, Intelligence +1
+
+Lesser Fiend (Greed)Greed fiends always desire more material goods. They possess an innate ability to track down wealth and riches, specializing in thievery and stealth.Stat Bonuses: Agility +1, Constitution +1, Magic Resistance +1
+
+Lesser Fiend (Wrath)Wrath fiends hold a deep well of rage that can be unleashed in violent bursts. These demons are the most specialized towards offensive attacks and are typically the strongest general fighters among lesser fiends.Stat Bonuses: Strength +1, Agility +2
+
+Lesser Fiend (Envy)Envy fiends covet what others possess. This subspecies specializes in imitation and mimicry. Many possess advanced shapeshifting abilities.Stat Bonuses: Agility +2, Intelligence +1
+
+Lesser Fiend (Lust)Lust fiends hold strong, unbridled desire. Known for their silver tongues, they excel in manipulation and charm.Stat Bonuses: Agility +1, Magic Resistance +1, Intelligence +1
+
+Lesser Fiend (Gluttony)Gluttony fiends overindulge in excess. They possess powerful consumption abilities that give them the most raw destructive power among lesser fiends, but their bodies themselves are frail and constantly hungering for more.Stat Bonuses: Strength +2, Agility +1
+
+Lesser Fiend (Sloth)Sloth fiends hold a general apathy and indifference towards the world, social customs, and personal responsibilities. These demons tend towards defensive abilities and are highly durable in nature.Stat Bonuses: Constitution +2, Magic Resistance +1
+
+Ah yes, many options indeed. Awfully nice of the system to give her a handy guide to each one’s strengths and weaknesses, too.
+
+She did wonder about those vague personality descriptions; would picking a subspecies mess with her personality, or was it just flavor text that generally held true? She imagined it mattered more to native-born monsters who didn’t have a reincarnated mind with a set personality already. The other flesh lumps had still been barely sentient, so for them, selecting one of these probably would mean more for their personality, even if it was just a passive influence or a self-fulfilling prophecy.
+
+In any case, once Pyre read through the options, it was actually a fairly easy choice for her. She’d been opting for a more defensive build this whole time, and only one of the subspecies seemed inclined to that. Mind set, she mentally selected Sloth and confirmed her choice when the next popup appeared.
+
+Around her, the translucent bubble flared until the bright silver light completely engulfed her surroundings. Waves of warmth flowed through her body, many times more powerful than when she gained a trait or upgraded a stat. Those were like a singular wave hitting your ankles at the edge of the beach. This was being entirely submerged.
+
+[You have selected the Lesser Fiend (Sloth) subspecies][Constitution +2, Magic Resistance +1]
+
+[You have gained the [Keratin] trait!]
+
+[You have gained the [Vocalization] trait!]
+
+[You have gained the [First Evolution] title!]
+
+[You have increased from Tier 0 to Tier 1!]
+
+[Class selection unlocked!]
+
+[Quest unlocked!]
+
+Evolution Quest: Second EvolutionMeet the requirements for your second evolution. You must achieve a minimum species level of 30, a minimum class level of 20, and possess an evolution crystal.Reward: Experience, 30 points, second species evolution
+
+After what felt like ages, during which Pyre was definitely a sitting duck (thank god Fred was dead), the waves of warmth finally settled and the light began to die down. The silver bubble dispersed, leaving her standing in the same place as before. Pyre waited for a few more seconds to make sure no new notifications appeared, then shifted.
+
+She wasn’t quite sure what she’d been expecting from something called an “evolution.” An upgrade, certainly, and possibly a shift in her appearance. When she focused her eyes on herself, though, she found that not much had really changed. She still looked like a blob of flesh, though the flesh itself did feel both stronger and firmer than before. Easier to morph and manipulate. She stretched part of her body out like an arm and raised it over her, then reabsorbed one of her eyes and regrew it at the end of the pseudo limb. Like that, she was able to get a clear view of herself.
+
+She hadn’t been wrong. Her body still looked similar to before, though on closer inspection, she looked a little less grey now. She moved the eye closer and realized that on top of the flesh, she now had what appeared to be actual skin.
+
+That wasn’t the only change. Around the top of her body, two curling silver horns jutted out from her “head,” gleaming in the faint light of the chamber. They were asymmetrical, one of them curling upwards much like Fred’s while the other split like a branch, one end pointing to the sky while the other twisted down like a ram’s horns.
+
+She moved around, and the horns stayed put. When she focused, she found she could adjust their shapes, could make them grow larger or smaller or even reabsorb them entirely. Their original appearance, though, felt the most “natural.” The easiest to maintain.
+
+This, she suspected, was that [Keratin] trait she’d gotten. If her past life’s knowledge was to be believed, that should allow her to form skin, horns, nails, and hair. The name, though, seemed awfully specific to her past world. Maybe the system changed the names of skills and traits to better match your personal well of knowledge or something. That would also explain [Ossification]’s name. If she wasn’t a reincarnator, maybe [Keratin] would’ve been called [Grow Extra Shit] or something like that.
+
+Either way, she doubted these traits and subtraits were an exact science. She didn’t have any trait for muscles, for example, but had been getting along just fine. She shrugged. She didn’t feel like analyzing the system’s trait definitions right now. It wouldn’t really affect anything, and it didn’t seem worth the effort to agonize over it.
+
+As a test, Pyre attempted to grow some hair. She pictured a few strands sprouting from in between the horns, but nothing happened. She frowned and pulled up the description of [Keratin].
+
+Trait: KeratinAllows user to form structures primarily composed of keratin.Subtraits (2/4): Horns, Skin
+
+The description was far from the most detailed thing in the world, but Pyre was more interested in the fact that it already had two subtraits. Very nice of the system, she thought. She was willing to bet she’d need to get subtrait shards for growing hair and nails and whatever else was made of this stuff.
+
+While she was looking at traits, she glanced at the description for [Vocalization] as well, which was pretty much what she’d expected. It let her actually talk out loud, though unlike the [Voice Projection] trait option she’d received earlier, this one specified that the voice had to originate from one of her mouths. It also had four subtrait slots, but unlike [Keratin], none of them were filled.
+
+“Hey, Fred,” Pyre said to the giant corpse, and sure enough, a new voice filled the massive chamber. It was low and slightly rough, with a faint rumble to it, but it felt right to her. Yep, that was what she sounded like. That was her voice.
+
+Her mouths curled up in smiles. There was something satisfying about talking out loud. She now understood why some people couldn’t shut the fuck up, but in her case, she had the actual excuse of not being able to talk for however long it had taken her to crawl out of the pit. Aka Fred’s stomach.
+
+She did a little more experimenting, finding she could make her voice originate from either of her two mouths or from both at once for an extra-trippy effect. Once her curiosity was satisfied, she directed her attention back to her recent evolution. Pyre pulled up the description for her new title, but it didn’t give any stat bonuses. It was pretty generic, all things considered, but she supposed it was a nice achievement to have.
+
+She tested out a few of her older abilities, growing some bones, absorbing then regrowing eyes and mouths. Everything felt a little easier, a little stronger than before. She felt pretty damn great, if she did say so herself. Pyre wondered what she could do now with [Flesh Sculpting], but the skill was still on cooldown. She’d have to test that one out later.
+
+For now, she focused on her stat points, which still needed to be distributed. All 108 of them. Not too shabby, if she did say so herself.
+
+The first thing she did was increase each stat by 10. That still left her with 58 points to work with, and it ensured she didn’t neglect anything. Wouldn’t want her stats to get too lopsided. Waves of warmth flowed through her as her body adjusted to the increases in stats. She grew larger again, but not by quite as much as she would’ve expected for a 10 point increase to constitution. It looked like there was some sort of size limit in place, which was probably a good thing, all things considered.
+
+Pyre stared at her remaining points. Fuck it. She threw 28 into constitution, bringing it all the way up to a nice round 100. And yep, there was definitely some kind of cap that slowed the effects of constitution. She still grew bigger, though, and her flesh felt a whole lot tougher than before.
+
+With the last 30 points, Pyre decided to put 15 in strength and 15 in magic resistance. Now that she’d chosen the sloth subspecies, she was fully committed to a more defensive fighting style. If she ever felt like her agility or intelligence were lagging behind too much, she’d bring them up, but so far she hadn’t had too much issue. She didn’t know what the “average” stat should be at her level, but she figured she was probably pretty far ahead of the curve, considering all those bonus points she’d gotten from her starter quest.
+
+Points distributed, Pyre pulled up her full stat sheet just to give it another look now that she’d evolved.
+
+Name: Pyre [Tier 1]Species: [Lesser Fiend (Sloth), Lvl 10]Class: NoneTitles: Reincarnator, Amnesia, Above-Average Sentience, Cold Blooded, First EvolutionStatsStrength: 75Agility: 45Constitution: 100Magic Resistance: 66Intelligence: 38Points: 0Traits: [Amorphous 3], [Flesh Eater 4], [Scent 3], [Eye Growth 2], [Ossification 2], [Sound Perception 2], [Keratin 1], [Vocalization 1]Skills [2/5]: [Basic Flesh Sculpting 1], [Basic Impact Absorption 1]Subtrait Shards: [Thermal Vision 1/3], [Species Scent 1/4], [Ligaments 1/6], [Skeleton 1/8]
+
+Class, she noted, now simply said “None” instead of “Locked.” It sounded like she’d need to get a class to level 20 to complete the requirements for her second evolution, but the system hadn’t said a thing about how she was actually supposed to get a class in the first place.
+
+She tried focusing on the text, tried imagining a selection screen appearing, but nothing showed up. Something else she’d need to figure out, along with what an “evolution crystal” was.
+
+To do that, though, first thing was first. Pyre closed her stat screen and shifted, drawing in her pseudo arm and peering around the wide-open chamber. Nothing had changed since her evolution. It was still dull and lifeless, with only Fred’s massive corpse to keep her company. Up above, the light continued to beam down through the single gap in the ceiling. Pyre’s eyes narrowed.
+
+First, she needed to figure out how to get out of here.

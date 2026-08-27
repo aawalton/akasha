@@ -1,0 +1,173 @@
+---
+id: a8ede976-3a8b-59cf-9e5a-a7ad909bbc54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 442: Clone"
+slug: 0479-chapter-442-clone
+partOf: dungeon-of-knowledge-complete
+position: 479
+ownLength: 3606
+unit: words
+ownProgress: 3606
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2760447/chapter-442-clone"
+royalRoadId: "2760447"
+markedReadAt: "2026-06-29T20:28:26.643Z"
+---
+
+Ali held her forces back as the four tanks charged out into the clearing, chunks of fungal creep flying as their feet – and paws – tore it up thanks to their powerful movement skills. Malika sprinted along, hot on their heels, her feet not even touching the ground, ready to heal at a moment’s notice, her incredible speed and durability a godsend in the chaos of the first few seconds of a battle such as this.
+
+“Places,” Calen directed.
+
+Bows were readied, healers shuffled forward, and last-minute elixirs were quaffed across the entire raid as the inevitability of combat set in, unleashed by the tanks rushing the Malevolent Oaks. Most, if not all, would be fighting back qualms about how badly things had gone last time.
+
+Ali quickly rechecked that the teleportation suppression aura was flowing properly from the Spirit Realm and then flew over to join the main healer group as the crashing and thumping of the initial engagement began. Quickly, she fanned her minions out, sending them to their assigned positions as a veritable storm of rot bolts whistled through the air. The small group of kobold priests huddled in around her, along with the other long-range healers and the handful of mages – her ice trolls included – that wouldn’t be hampered by a half-dome of her golden barrier suddenly snapping into place around them. Healing magic of every color and flavor flickered across the clearing, topping up everyone during the frenetic chaos of the initial pull, but the moment her barrier dome appeared, the healers all visibly relaxed.
+
+“Dome’s up,” Ali called out.
+
+“Good,” Calen answered from above. “Split the trees. Tanking spots.”
+
+Outside of the bulwark of golden magic, Ali directed her mages toward the safe zone and her shamans and melee toward the two tanking spots as the tanks split the pack of trees into a group of three and a single – isolating the one they would kill first from the rest outside of the range of their healing auras.
+
+Her eye demons floated out into the battlefield, entirely silent, very hard to see in the dim light, and entirely terrifying. The stuff of nightmares. Ali just knew they were going to prove to be awesome in this fight. One Eye of Agnor made for each group of trees, and her Baelok Descrier followed the main melee group to provide resistance against the Taunt whenever Lira possessed a tree.
+
+As the tanks approached the spots marked by Calen’s Motes of Light, the rot-bolt storm eased dramatically, no longer raining down upon the archers, mages, and her barrier.
+
+“Safe zone established,” Calen said. “Ten seconds for the tanks to establish threat and then attack.”
+
+With the center established, Ali moved her two Armored Fire Drakes and Devouring Consumptions into position, anticipating the mass summoning of maddened rotting trees. She had deliberated long and hard about this part, initially wanting a Pit Lord for her summoned treant tank. But ultimately, the extra stress of curing the blood corruption from the full raid group, and the fact that the powerful demon used blood magic while the trees didn’t have any, led her to choose the fire-affinity drakes instead. Their dragon breath and the Taunt skill they had gained during their evolution would be good enough. High above the battlefield, two shadows darker than night circled restlessly, awaiting her orders. Scions of Azryet.
+
+“Begin,” Calen said.
+
+“Go,” Ali commanded, echoing Calen, and sending her intent to all her waiting minions.
+
+Tol’brekk and a second berserker were the first to reach the target Treant, leaping across the entire battlefield to land with crashing axes. Kir’mogan led the pair of Bone Champions, leaving trails of bone spikes in the wake of their Bone Rush skill, both of them immediately landing Mortal Wounds upon the tree that manifested as sap-seeping gashes across the trunk. In the wake of the berserkers’ bloody strikes, Joraa appeared, shield and axe in hand, using the spilled blood to travel. Totems rapidly sprouted from the ground as a second shaman followed – Free Action, Blood Restoration, Armor, and Resistance – everything that would help against the immense damage output of these tree monsters.
+
+The shamans struck, blood leaking from their empowered axes, and Ali waited till she saw the formation of Vampiric Hex appear next to Seth’s Life Tap curse before she allowed them to react to the hail of rot bolts raining down upon the melee from the other camp of trees by firing Blood Siphons that arced through four people at a time, healing them rapidly.
+
+“No scream, just mind blast,” Ali instructed, moving the Baelok Descrier closer to the melee so they could benefit from its mental protection.
+
+Then her larger Eyes of Agnor floated over into place. She had chosen one for each of the tank groups, but lining them up to use the potent Arcane Mana Burn stumped her for a few seconds until she remembered they could fly – and the trees were tall. “Higher,” she instructed, and when they were in position, she allowed them to let loose. The first eye unleashed a golden cone of sparking magic projected from its major eye, passing harmlessly above the crowded melee group. The Malevolent Lirasian Oaks recoiled in whatever passed for pain to a treant, and their mana visibly dropped as the spell ripped through the massive treants’ branches. Then the second eye reached the single tree and unleashed the same spell into its branches.
+
+With her forces arrayed in position, Ali studied the formation carefully, watching for magic abilities and inefficiencies in her deployment, shifting minions here or there and making other minor adjustments until she caught sight of the surge in domain magic.
+
+“Mass summon,” she called.
+
+Outside her barrier, but still within the safe zone, Seth paused his Volatile Wraith spam and readied his magic. A great horde of treants suddenly materialized, thumping and crashing as they rushed about with branches swinging, but before they could smash the vulnerable mages standing nearby, Ali’s Armored Drakes roared. A great ripple passed through the crowd of treants like a stiff breeze as they all turned toward the gleaming, red-scaled drakes, and then twin gouts of dragon-fire erupted from their mouths, blasting through the forest of angry animated trees.
+
+With a thought, Ali directed her Eyes of Agnor, calling for their curses. Two trees in the midst of the crowd lit up with intense conflagrations of black flame as her eye demons inflicted their Explosive Conflagration curses on them.
+
+“Attack,” Ali commanded, directing her mages to begin. All the guild mages, Seth’s undead kobolds and trolls, and her mages unleashed their best spells into the enormous group. Fireballs exploded, Frost Nova shattered, holy fireballs detonated with pure white flame, and ice and rock rained down as the mages yelled frantically in attempts to prevent their conflicting-affinity spells from interfering with each other. And somewhere within that assault, Seth had used Curse Proliferation on a mage with area damage. The Explosive Conflagration tore through the group of trees like wildfire, lighting them up with black flames of hellfire, and then they started detonating with muffled thumps.
+
+“Black Hole,” Ali called, directing her command to the great black dragons wheeling overhead. Their void magic was terrifyingly indiscriminate, but here all she needed was to avoid her Armored Drakes. Twin orbs of dense, pure, unadulterated black shot downward, detonating among the trees with the distinctive double implosion-into-explosion, obliterating many of them from existence entirely.
+
+Less for us to clean up, she thought, readying her Devouring Consumption oozes as the treants began dying to the onslaught and flame. The great globs of murky green and black slithered and slopped around the burning treant corpses, devouring everything in sight, but the black roots striking from under the ground were fast, lancing into the corpses to begin the decomposition. She raced, urging her oozes to devour faster while undead treants began rising from the ash and flame, but even with both her and Seth working together, they only managed to beat the roots to about half of the corpses.
+
+“Better than nothing,” Seth said, glancing over his shoulder to catch her eyes through the golden barrier.
+
+“True,” she agreed, however, she vowed to do better next time. If Calen had understood the mechanics correctly, mana really was going to be the key to this fight, and she would need to step it up. Perhaps I can use the void dragons more? Or put the Oozes in the middle of the fire before the trees die, and heal them through it?
+
+Four rounds of summoned treants came and went before Ali saw the signature surge of dark magic. “Death Storm!” she shouted. Her voice triggered a cascade of potions being summoned from storage rings and downed, followed by a surprisingly coordinated display of gagging and retching as the group simultaneously consumed their death absorption potions. Ali didn’t even want to try to tally just how much gold had suddenly vanished into stomachs. She wasn’t about to drink one of the foul potions that supposedly tasted like biting into a decaying zombie, but all her humanoid minions outside of the barrier were, and that was enough. It had taken Morwynne ages to figure out how to even craft them. At least I can make those potions now.
+
+Seth, bless his heart, downed his potion while simultaneously casting Curse Proliferation on one of the spawned treants that were still milling about in the middle, trying to kill the drakes, ensuring that the Explosive Conflagration would continue to propagate while everyone was stunned.
+
+The dimly lit clearing flickered and darkened perceptibly as black ribbons shot out overhead from each of the four massive, rooted treants tanked at the two camps, one reaching hungrily for every single thing that had a life total – living or dead. Outside her golden, glittering dome, everyone fell like scythed wheat, stunned while the dark magic drained away their life. The massive Scions of Azryet fell from the sky, crashing into treants and roots with bone-crunching force. Ribbons shot toward her and her shielded companions, but all of them slammed into the dome of gold, sending a cascade of black mana sparks flying in a continuous arcing crackle of energy, and Ali coughed like she’d been gut-punched as her mana instantly hit maximum.
+
+You have been afflicted by Mana Saturation.
+
+While the healers within the barrier continued casting furiously under the enormous raid-wide onslaught, Ali began discharging mana sparks and bolts within the confines of the barrier. Heedless of the waste, she hastily poured her mana into Empowered Summoner, channeling everything she didn’t need to maintain her barrier against the Death Storm into empowering the nature and arcane power of her minions. The only two minions who could even use her gift were the two troll ice mages inside the barrier, simply because they were able to shoot through it at will.
+
+But her mana dump, wasteful as it might have been, averted the crisis of setting off a mana explosion in the close confines of the barrier. I need to get Calen to estimate the next one, she thought, deciding she should empty her mana pool before the Death Storm next time.
+
+Ali studied the world outside the barrier as the death magic ran its devastating course against the incapacitated raiders. Her plan had worked admirably; outside, everyone and everything was stunned, with the notable exception of her oozes. The two Devouring Consumption oozes continued trying to consume the now incapacitated treants even before they were dead, mostly ignoring the ribbon of death magic attached to each of them. The Sacred Oozes, also left outside the protection of the barrier, summoned legions of tiny oozelings which crawled about, healing everyone they touched with barely audible pops and splats.
+
+Mana grew rapidly in the main treants, but the raid’s concerted efforts had definitely made an impact, and by the time the summoned treants had all collapsed, Ali could tell exactly how much. Instead of reaching mana saturation and spawning an uncountable horde, about two dozen Spiteful Tree Spirits rose from the corpses of the slain minion trees, and the follow-up mass summoning created about as many new trees.
+
+“Did it work?” Calen asked, holding his head as he came to.
+
+“See for yourself,” Ali said, keeping herself busy with the task of making her slow-witted oozes eat as many corpses as they could reach. Two dozen tree spirits would be challenging, but with the amount of explosive area magic their group could muster, it should be just a matter of time. Already, an artillery barrage of ice, lightning, and fire was lofting into the air above the battlefield, the most devastating of which seemed to be the combination of Hala’s chain-lightning javelins and Kaitlyn’s lightning arrows. At least, their supremacy lasted until Lyeneru lit the sky with the unassailable power of her bow and the din reached a new crescendo.
+
+“Heal the dragons,” Ali said, urging her two recovering Sylvan Dark Druids to target the void dragons that had fallen from the sky, stumbling now with broken wings. Immune to rot, she had left the druids outside her barrier and they had been stunned by the Death Storm, but with a few flickers of their nature magic, and an uncomfortable grinding and cracking, the dragons’ wings righted themselves and her two Scions of Azryet launched themselves into the air, beams and barriers of void scything through the remaining undead spirits like vengeful reapers.
+
+“How are we doing?” Calen asked.
+
+Ali turned to the isolated far treant boss and registered surprise. “Twenty-five percent left!”
+
+“Just pray Lira doesn’t jump to it and protect it,” Calen said. “Can I get a Bloodlust?”
+
+“Yup,” Ali said, relaying the command to her second blood shaman on the front line while she suddenly redirected her attention to yet another wave of summons. She would have asked Gara, but Ali’s minions were still at a higher level.
+
+An explosion of blood erupted into the air, runes forming from the droplets, swirling up to circle the brow of every melee class in the raid. Ali’s kobolds reacted instantly, dropping large heals onto the blood shaman who had sacrificed so much of her life for the ridiculous buff spell. Ali pointed her wand at her trolls, giving them a quick dose of Winter’s Desolate Celerity, causing their ice bolts to accelerate to ridiculous speed.
+
+It's probably close enough, she thought, spending mana like crazy to boost the nature and arcane damage granted by Empowered Summoner to all her minions. Empowered Summoner granted all her minions, regardless of class or affinity, additional nature and arcane damage on hit. Channeling mana into the new Power Infusion advancement dramatically boosted that nature and arcane damage across the entire raid, but Ali was not prepared for what it did to her Sylvan Druids and her Eyes of Agnor. Possessing an innate affinity for nature and arcane respectively, the channeled Power Infusion drastically increased their base power. Both Eyes of Agnor blazed with golden power, their golden Arcane Bolt streams suddenly searingly intense. Arcane Mana Burn unleashed as a painfully bright cone of golden magic. On the ground, the Dark Druids began to shine with pulsing, viridian power, and Ali gasped to see the sudden potency of their healing spells.
+
+And then Calen ignited the twisted forest with the blazing glory of his Righteous Fury.
+
+Ali watched with bated breath. A flicker of a formation told her Lira had moved, but she appeared on a different treant in the group of three, not choosing to block their assault. The formation for Dark Restoration appeared within the isolated Treant, and Ali launched her Disruption darts, ripping the nascent spell to shreds. Lira flickered again, but this time, she appeared up in the air above the battlefield as a screeching specter, darting around in a frenzy. Ali ignored her, intent instead on the rapidly plummeting health of the massive Treant.
+
+Something is going to happen. She was certain of it. But the health continued to spiral downward, and then, without much ceremony, the massive treant slumped over, branches falling still. A joyous cheer erupted from the raid as they realized their achievement.
+
+“How dare you! You killed my tree!”
+
+“Basir, split yours out next,” Calen instructed.
+
+Lira vanished, appearing within one of the remaining three treants. Suddenly, all the mana from the remaining treants transferred to the one possessed by Lira, and then Ali saw something that instantly obliterated her excitement and joy.
+
+“Fuck! It’s casting respawn!” Without hesitation, Ali launched a disruption that shattered across the invulnerable tree trunk. In frustration, she shared the description of the Clone domain magic and the almost forgotten ability it granted.
+
+CloneRequirements: Creature with mana.Source: Living FlameDomain Respawn creates two [boss] or three [raid] identical copies of this monster. Each clone of the enhanced monster gains the following skill:Mana: You may domain respawn any dead clone. Requires full mana pool and focus – getting hit cancels the summoning. Cast Time: 10 seconds. Skill – Domain Magic
+
+She threw everything she had against the treant, anything in range, but the presence of Lira’s avatar within the massive tree rendered it immune to all damage.
+
+Ten seconds later, the spell completed, and a fresh Malevolent Lirasian Oak spawned.
+
+Calen stared in dismay as his arrows bounced ineffectually from the tree, and it completed its intricate casting. The domain surged, and a huge Malevolent Lirasian Oak materialized, spawned to fresh life from the dungeon’s mana. The corpse of the old one still remained, a testament to their now-hollow achievement.
+
+How can anyone beat that? People were shouting, demanding his attention, but his mind was stuck on the unavoidable conclusion. It’s not possible. There’s no way. He couldn’t see anything they could do. Out on the battlefield, Sabri, reliable as ever, picked up the new treant and put it back in the proper spot, ensuring the integrity of the raid and the safe zone they had established, giving him some much-needed time to think. To collect himself.
+
+The problem was that Lira’s avatar could possess any tree, and in doing so, she could make it immune to damage. So, she could just possess the tree for long enough to always resummon whichever treant they managed to kill. By itself, that meant they could never make progress – there was no way they could out-damage the domain mana of a dungeon.
+
+We need to retreat.
+
+“Calen!”
+
+“What?” he asked, realizing Ali had been calling for him for a while, and she had resorted to shouting with several of her minions simultaneously.
+
+“Why did she protect the respawn when she could have just blocked us from killing the tree in the first place?”
+
+“I… don’t know,” he said, turning back and staring at the dead tree in surprise. Why? It was a tricky question to answer, and he was certain Ali was onto something. If he could just understand it, perhaps he could find a clue to unlock this mess.
+
+What all happened? Step through the process.
+
+Biting his lip in the hope that pain would help him focus, he began to rapidly review the fight in his mind. He had asked Ali for a status when the tree hit twenty-five percent left, just in case there was any form of Enrage skill. He remembered calling for Bloodlust and using his Righteous Fury. In the excitement of the massive increase in damage and how close they were to their first kill, he had ignored Lira’s possession bouncing about among the trees, but it had happened a couple of times, and yet she had never jumped to the beleaguered tree tanked out there by Sabri. It’s not a range issue. It can’t be, he thought, knowing Lira had annoyed the melee by jumping to that tree several times earlier in the fight.
+
+No, it’s something more…
+
+And then it came to him in a flash.
+
+“Split all the trees!” Calen roared, sending four motes flying to four different corners of a large square to mark the positions.
+
+“What did you figure out?” Lyeneru asked. A question he realized the whole raid needed answered.
+
+“She can’t possess the tree when it’s low – twenty or twenty-five percent,” he answered. He wasn’t precise on the exact number yet, but it must be close to that. “I’m almost certain. She had many opportunities and failed to do so – it cannot be a coincidence.”
+
+“Oh, you’re right,” Lyeneru said, clearly running the scenario through her mind rapidly and coming to the same conclusion he had. “You want to burn them all down simultaneously?”
+
+“Yes. At least, let’s get them all below twenty percent before we take them out.”
+
+“That’s going to be hard with the healing – Aliandra cannot Disrupt all of them,” Vivian said, entering the conversation.
+
+“I’ll make some more Bone Champions,” Ali said, producing her Grimoire with a flourish in the middle of the barrier. “The trees are low, if we keep denying them mana, we should be able to restrict the heals and summons. The Mortal Wounds will limit the setback when the heals get through.”
+
+“This is a workable plan,” Lyeneru said. “Hard, but it should work if we have perfect execution.”
+
+“Ok,” Calen said. It was good to have Lyeneru and Vivian’s counsel here; if they saw the plan as workable, he felt a lot better about it. “Begin with Havok’s tree,” he called out, directing the raid to the tree with the most damage so far.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

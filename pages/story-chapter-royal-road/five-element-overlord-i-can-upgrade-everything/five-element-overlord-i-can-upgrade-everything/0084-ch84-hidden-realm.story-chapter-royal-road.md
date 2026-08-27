@@ -1,0 +1,147 @@
+---
+id: 966b69ce-5e3a-5373-b258-d8cc4c7211f1
+page-type-slug: story-chapter-royal-road
+title: "Ch84 Hidden Realm"
+slug: 0084-ch84-hidden-realm
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 84
+ownLength: 1984
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3591271/ch84-hidden-realm"
+royalRoadId: "3591271"
+---
+
+‘Did you just…? Call this place yours?’ I ask into my mental space, and try to read through the last few system messages. However, there is no reply, and only the final edited message shows up.
+
+“System… Can you hear me?” I ask again, this time out loud, but nothing changes. It’s as though I hallucinated the glitching system text.
+
+My voice echoes far more than it should in an open field.
+
+When I look down and regain my senses, the outside ground is completely gone. I’m standing on a small white jade stair step.
+
+It is floating on a sea of golden clouds, yet, every time I attempt to step off it an invisible pressure pushes me to stop. It is not forceful, instead it feels natural.
+
+I take a few deep breaths, and push my questions about the system behind me.
+
+The only direction I can move right now is forward, up toward the next white smooth step that floats a half meter in front of me.
+
+The echoing sound of me walking up dozens of steps is all I hear as the strange golden text fades away.
+
+An enormous disk-like structure floats in the sky above. I slowly approach it, then stand right before it as the last floating step is perfectly aligned with its level.
+
+The disk is at least twenty meters across, and it’s sectioned off into 5 even areas, all coming to triangular points at the center.
+
+I walk forward, and stop where all the sections align.
+
+Then, red, brown, silver, blue, and green light starts to ripple out from each section, and new text materializes in front of my eyes.
+
+[Ding!][Five Element Cultivation Array has bound to the Host!][Cost Per Use - 0 Spirit Stones] [Self sustained formation within this Minor Hidden Realm][When sitting in the center of this array, the host will absorb a perfect balance of the energy of all five elements. If the host wishes to concentrate their cultivation on a specific elemental affinity, cultivating further away from the center is optimal.][Note: No matter where the host sits on the array, the cultivation of Qi, Soul, and Dao Rhythm are always neutral.]
+
+I feel the red fire, brown earth, silver metal, blue water, and green wood emanating out of this array far stronger than any perfect grade fire stone I gifted Lan Xin.
+
+The soothing sensation of my Jade Purity Soul Scripture activating washes through me, as there is a thin white mist that rises from the floor of every section.
+
+It is pure qi, and interwoven, there is a soothing aura that feels like it nurtures the soul. I have never felt anything in the natural world quite like it.
+
+In addition to these, as the intensity of all the elements around me rise to their peak, an invisible vibration resonates out of the array. It aligns with my Martial Elite Body, readjusting all of the small bubbles of space where extract from pills have not fully seeped in and assimilated. It even mentally adjusts the movements in my mind that I have not been practicing perfectly in the past.
+
+I sit down and start to let the forces of all 5 elements and natural powers flow through me.
+
+There is a wriggling movement in my robe’s chest pocket, and Little Red’s head pokes out with wide excited eyes.
+
+He croaks and jumps forward into the crimson fire section, hopping a few times before moving far away from the center. The toad sits right on the edge, engulfed in manifested flames, far away from any other elements with closed eyes and a wide satisfied smile.
+
+I close my eyes too and relax.
+
+The bottleneck holding me at the late stage of my 4th level of qi refining loosens up slightly, and small particles of qi flow through my meridians into my dantian and spirit roots. The bottleneck itself is still present, but this environment is far better than any perfect grade tier 1 vein. I can feel actual progress is still near impossible, but it’s capable of opening up my pathways enough to solidify this minor realm that was crudely achieved by barrier breaking pills.
+
+My breathing slows and a few hours pass while my body, mind, and soul realign properly.
+
+Eventually, I stand up and open my eyes with a refreshing smile on my face. It feels like I’ve just experienced the rejuvenation effects of multiple nights of perfect sleep in a fraction of the time.
+
+There are golden clouds that slowly drift around this disk in the sky, both above and below.
+
+The floating staircase I came up here on has faded away, but as I look upward, three more staircases materialize from the mist.
+
+The first one I focus on leads to an enormous silver door. Without even having to walk up the steps, textboxes fill my vision.
+
+[Tier 2 Entrance Locked.][Price to Open - 1,000,000 Foundational Crystals]
+
+An ominous pressure comes off of it. The moment I decide not to walk up toward this door, the stairs dissolve into the mist. Yet, the door in the sky does not fade.
+
+I turn toward the staircase to my left, and see it leads up to a very small floating disk, no more than 3 meters wide. I walk up to see what this mysterious island is.
+
+When I step atop it, I see only a small pedestal in its center made of the same smooth jade. It is slightly indented at the top, with a hand sized rectangular hole, large enough to place a small talisman at most.
+
+[Ding!][Tier 1 Enlightenment Talisman Dispenser has bound to the Host!][Cost Per Use - 100,000 Spirit Stones][When used, a profound aura of concentration and increased understanding will envelop the host. What could take months, years, or decades to truly comprehend can be achieved in a single moment.][Note: Unlimited Tier 1 Enlightenment Talismans can be purchased, but only one talisman can be used on a single entity every 30 days.]
+
+My heart beats quickly a few times, and I can’t resist but to pull out 100,000 spirit stones from my storage. This leaves less than 20,000 remaining inside, but considering the dozens of remaining spirit veins outside, I don’t see it as a waste.
+
+The stones float in my hand instead of naturally falling into my palm like they would normally in the outside world.
+
+This place has very strange rules, ones my natural senses don’t intuitively understand.
+
+Still, I press one small white stone after another into the pedestal until the counter hits zero.
+
+A flash of white light covers the top of the pedestal, then in its place, perfectly fitting inside the indent, a small white piece of jade rests. A golden shimmering character for enlightenment glows on its front.
+
+I pick the talisman up, and feel it all over before letting it fall into my storage.
+
+My breaths are almost as quick as my excited heart as I quickly make my way down these steps, and walk up to the final stairway.
+
+The small white floating disk is the same size as the last one, but there is nothing at all sticking up from the floor.
+
+It is a flat empty island. Text still appears in my vision, and the golden clouds around me rise up like walls of privacy mist.
+
+[Ding!][Rematch Simulator has bound to the Host!][Cost Per Use - 1,000 Spirit Stones per Qi Refining Level][Enter an arena with any opponent the host has killed before at their full strength. Will only deactivate after one side dies.][Note: Is an illusion, there will be no harm reflected on the host.]
+
+Faces of hundreds of illusory demons appear at the forefront of my mind, and so do a handful of late stage blood demons. They move by like a mental select screen, with their levels and acquired physique data.
+
+I pull out my azure lightning attack talisman out of curiosity, and scroll to the first 8th level blood demon I ever killed from the Ravine.
+
+8,000 spirit stones disappear from my storage. I realize in this space, I don’t even have to manually pull them out, there is already a mental link. It almost feels like an extension of my system storage space, where I can control everything inside with my mind to a degree. Manually taking out stones to make a purchase on the last island was unnecessary.
+
+Oddly, once all the system screens for this rematch simulator island disappear, so does the talisman in my hand.
+
+Golden mist covers my vision, blurring my senses, and thrusting me into weightlessness.
+
+All of a sudden, I’m transported into an unknown environment.
+
+The ground is sandy, there are yellow-orange walls over ten meters high surrounding an arena-like battlefield that I stand in. I’m dressed in an unfamiliar light weight grey unmarked servant’s robe. Across from me, there is a vicious 8th level qi refining blood demon in the same unmarked clothes, activating his acquired physique.
+
+Crimson energy flows out of his body, and creates a massive red sword in his grasp.
+
+Before I can even move, the blur of red light attacks, slicing off my head at the neck.
+
+I scream out in pain, but only gurgles come out.
+
+In seconds, my world goes black, and weightlessness takes over.
+
+I take in a gasp of breath as the white platform, and golden clouds all around me return.
+
+“That…. Felt too real…” I murmur, shifting the settings and paying 4,000 spirit stones to fight a 4th level blood demon with an initial stage mortal grade physique instead.
+
+I try to bring my bow and arrows in this time, but even they disappear once my senses are covered in golden mist. I have to fight this demon bare handed, yet, he has to fight me without any weapons too.
+
+The demonic cultivator’s eyes look dead, but his movements are fluid and natural. The demon’s aura glows crimson, as small muscle bulges show all over his skin and tiny horns peek out of his forehead.
+
+It takes me a few seconds to get used to this strange place, but with my mid stage mortal grade physique compared to his initial stage mortal grade physique, the gap in strength is noticeable.
+
+His punches and kicks have far better technique, but mine actually land.
+
+Bone crunching hits attack his skull from angles where I’m faster to move to.
+
+My knuckles bleed and soon tear open with exposed bone, but this blood demon lies motionless on the ground just 2 minutes after starting this fight.
+
+I yell out in victory, as this feels just as real as any fight I’ve ever had in the outside world. In fact, it’s almost more real… as every fight I’ve had outside that was such a close matchup often ended with a perfect grade talisman bringing me the easy win.
+
+Golden mist floods in from the sky, and I’m thrust back to the white disk moments later. There isn’t a single scratch left on me.
+
+A grin grows on my face as I scroll through my list of many old enemies, even the foundation establishment Phantom Lord appears. Though, the price by his name just reads [Insufficient Foundational Crystals].
+
+This island’s feature has immense potential to increase my close range combat abilities without the negative high risk stakes of actually fighting in life or death battles.
+
+I walk away from this island, back down to the 5 element cultivation array at the base of this hidden realm. I’ve spent the majority of my spirit stones on opening this door and buying an enlightenment talisman, leaving me with less than ten thousand stones left.
+
+I’ll have to obtain far more to continue this training. There is still a pile of upgrade cards in my storage, and 32 remaining untapped inferior spirit veins in the land outside that can grant me what I need.

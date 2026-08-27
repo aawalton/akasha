@@ -1,0 +1,249 @@
+---
+id: 54d31a97-5ca4-5f6c-bd96-cf6fc99ce8e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 415: The Landing"
+slug: 0452-chapter-415-the-landing
+partOf: dungeon-of-knowledge-complete
+position: 452
+ownLength: 4341
+unit: words
+ownProgress: 4341
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2690948/chapter-415-the-landing"
+royalRoadId: "2690948"
+markedReadAt: "2026-06-29T20:27:28.043Z"
+---
+
+“Watch out! Healers in the back!”
+
+Malika heard Calen’s urgent shout and snapped her eyes toward the dark forest. Soul Sight didn’t necessarily require her to look in that direction, but she was constantly running her Infinite Perception eye magic, and the moment she caught sight of them, she saw stamina among the trees.
+
+She teleported, shifting across space in an instant, appearing under the sweeping boughs of the dark oak. But it was no oak; she punched the shapeshifted druid hard, using her Soul Strike to attack its mana directly. Blow after blow rained down on the thickened bark as she unleashed her high-speed forms.
+
+She could see the mana when it summoned another set of Rot Saplings, but she was powerless to interrupt mana spells – at least, not until she ran the monster entirely dry. Seeing the attacks from behind her by the dense mana within them, she dodged to the other side of the tree, allowing Calen and Lyeneru’s magic a clear line on the monster. She could tell the other Dark Druids were healing it, and it was also regenerating from the rain of rot that still lashed down upon their heads, but they were slowly whittling it down.
+
+And then Vivian appeared in a blast of flame, her blades slicing and burning – the perfect weapon against a tree. She continued blasting her soul magic through the monster’s trunk, but Mato still needed her, so she broke off, teleporting back to heal him.
+
+“Can’t we just outrun this slowpoke?” Malika grumbled.
+
+“The minions will catch us,” Vivian said. “And what if we get stuck between this and something in the mines?”
+
+“Right,” Malika said. She was of course correct, but she still made a grimace. Fighting oozes was no fun, and they were on a time crunch.
+
+One half of the Devouring Consumption was lashing at Mato, and the other half was eating a dead Rot Sapling.
+
+Is it growing? The Great Ooze had been enormous when it emerged from the forest, but it was now substantially larger. It was only when she asked for its level that she realized how many corpses it must have consumed already. Calen and Lyeneru were tearing through the mob of treants with powerful fans of arrows that continued into the forest beyond and the Dark Druids that lurked there, but there were no corpses on the ground, and not because they couldn’t kill anything.
+
+A Rot Sapling collapsed, only to be immediately eaten by the ooze. And then another. And it wasn’t just Rot Saplings and Creep Spores – the spawning pool behind them was still spitting out monsters – Bamboo Crawlers, Toxic Slimes, and an assortment of other familiar denizens that simply joined in the giant melee, only to become food for the unstoppable appetite of the Devouring Consumption.
+
+She recalled another close fight against an ooze on this very shore, only this time the monster was far more powerful.
+
+But so are we, she reminded herself, teleporting back just in time to land the killing blow on the first Dark Druid.
+
+Malika bounced around the battlefield, using her teleportation skill every time the recharge was up, healing the archers, healing Mato, then diving back into the fray to drain mana from the Dark Druids and heal Vivian. Everyone needed topping up every few minutes as the rot raining down from the sky continued to fall without pause.
+
+By the time the third druid died, the Devouring Consumption was substantially larger again, now the size of a small house. Not content to simply crush Mato, pseudopods lashed out at her and Vivian, and both Calen and Lyeneru if they were not careful. But her magic was stronger now, and she could afford to pump far more stamina into Healing Mantra than she had when the fight began. Surrounding the Ooze, the team began to hit it with everything they had.
+
+It took nearly ten minutes before the resilient Ooze finally expired with a loud squelch, and her notifications chimed cheerfully.
+
+Your group has defeated Devouring Consumption – Great Ooze – level 207 (85 temporary) (Nature / Death)Your group has defeated Dark Druid – Sylvan Elf / Plant – level 120 (Nature / Death) x3Your group has defeated Rot Sapling – Treant – level 91-101 (Nature / Death) x57Eyes of the Soul has reached level 121 (+5).+50 attribute points.Martial Artist has reached level 63 (+2).Soul Strike has reached level 65 (+3).Healing Mantra has reached level 77 (+3).Perfect Body has reached level 43 (+2).Soul Armor has reached level 55 (+2).Divine Step has reached level 59 (+3).Second Wind has reached level 39.Clarity has reached level 43.Soul Sight has reached level 40 (+2).
+
+“Wow, two hundred and seven?” Malika said.
+
+“Yes, it was getting up there,” Calen said.
+
+“We need to move out quickly,” Lyeneru said. “Respawns starting in a few minutes.”
+
+“Right,” Malika said, springing to her feet and deciding she could spend her points on the way. The level growth was fantastic, and she decided to keep to her formula, spending her points very much like last time. Twelve for dexterity, nine each for endurance and wisdom. Six for vitality and perception, and four each to intelligence and strength.
+
+Ok, what’s next?
+
+Ali surveyed her new dungeon. It was rather small compared to what she had once called home, but the inclusion of Lirasian Oaks, Arcanite Birches, moss, and her other favorite plants had transformed the rough cavern and the surrounding network of passages and tunnels into something at least a little more comfortable and familiar. She still had the area Azryet had granted her within his domain, and a narrow path of moss-grown rock linking the two, but having her own space out here was rather nice.
+
+Azryet had not yet returned, and she had no idea what was taking so long. Sure, she had forgotten how to get back to the rift in the confusion of her frantic retreat, but it couldn’t have been that far away. She summoned another flight of glitter dragonets, letting them loose in her new underground forest; they were particularly handy for traveling back and forth between her new domain and Azryet’s library, where she spent the remainder of her time whenever she was not building her domain and securing its various entrances and exits.
+
+This particular area had an abundant supply of bloodsteel ore and Abyssal Bloodstone, now disconnected from the demon god’s dungeon, but that was not her first priority.
+
+Security, she thought. At the entrance to this part of her new domain, her monsters were already clashing with hellfire wargs and various imps – the dregs at the edges of the giant dungeon, and, if Azryet was to be believed, most of what she would need to defend against. The larger and more powerful denizens of the dungeon would likely not bother with such a small threat as her.
+
+She hadn’t really wanted to believe him, but it had been shocking to track her domain through the same massive chasm that had been so filled with battle, only to find it completely silent and empty now, with the dragon god’s mana slowly filling in the massive underground wound with his white stone and minions. Whatever he had achieved as a result of her distraction had been far larger than she had imagined. Still, dregs that they might be, these demons still represented a substantial challenge at her level. She flipped through her Grimoire carefully, considering her options.
+
+Safe? Or experimental?
+
+She glanced at her berserkers, cleaning up the incoming monsters while her acolytes healed. She had made a second witch doctor to support Kir’vella’s efforts to banish random demons, and as she watched them work, an idea popped into her head. An intriguing idea. Experimental, it is.
+
+She flew over to where her monsters guarded the dimly lit passageway that vanished into the darkness after only a few score meters, still marveling at the exhilarating sense of her wings humming behind her back.
+
+“How would you like to own securing this area for me?” she asked.
+
+“It would be my pleasure, Seeker,” he said, grinning broadly. He was taller than Kir’vella and sounded far less cracked, which Ali appreciated. A secure defense took a focused mind – at least that’s what she liked to think.
+
+“Ok, here you go. I have something fun for you,” Ali said and reached across and touched him, summoning her domain magic.
+
+Domain Respawn applied to Witchdoctor.Raid Domain Enhancement applied to Witchdoctor.
+
+It was too bad she didn’t have access to her shrine; her troll witch doctor was still stuck at level one hundred, but for what she wanted here, that should be more than sufficient. At least, provided Azryet’s assessment about the strength of the incursions proved to be correct.
+
+Slayer (Demon) applied.Amplify Skill (Soul Drain) applied.Curse Aura (Spirit Banishment) applied.Domain Enhancement complete.
+
+Your reserved mana has increased by +780.
+
+“Ok, everyone else, back off,” she called, and her minions retreated behind her newest raid boss. She had a theory about how this would go, and so, she backed up too, but for the purposes of studying her newest creation, she kept herself and a few monsters within the range of the zone the curse aura would reach and simply waited.
+
+It didn’t take too long before two Hellfire Wargs, a Hellfire Imp, and some sort of corrupted blood orc she hadn’t seen before showed up. With a bloodcurdling roar, the orc charged, followed by the two-headed howling wargs, trailing black sooty smoke from their bared fangs.
+
+The witch doctor stepped forward. “Welcome to my domain, but you may not enter,” he declared, and soul mana wafted outward from him like a fresh spring breeze, enhanced by the newly created domain. The demons, of course, ignored him, howling and cackling as they rushed in, but the potent mana surging outward from the witch doctor could not be ignored.
+
+You have been cursed by Spirit Banishment.You are trapped in the Spirit Realm.Curse – Aura.
+
+The colorful greens and golds of Ali’s domain faded rapidly to gray as the world took on the ethereal quality of the spirit realm. Her minions – at least the ones she’d kept in range – appeared gray and faded beside her, with just the green and gold knot of her sustaining mana in their chests visible in color. However, the connection she had with them – the mana reserved to sustain them – pulsed, and like a flush, they rapidly regained their color. The same could not be said of the demons. All four of them appeared in the Spirit Realm, gray and surprised, stumbling to a halt as they glanced about. Ali’s witch doctor, the only one unaffected by the curse, shimmered into the spirit realm with Spirit Walk, and the invading Hellfire Imp immediately lobbed a fireball his way, but the dull, gray spell passed clean through the chuckling troll without any effect.
+
+It's just like the first time I came here, Ali thought, recalling her first encounter with a witch doctor and not her own Arcane Recall, which she’d only learned later was connected to the Spirit Realm. Now let’s see how well this works.
+
+Just as she had hoped, shifting the battle to the spirit realm tipped the odds dramatically in favor of her witch doctor. Even without her Realm Affinity allowing her minions – creations of her own mana – to function in the spirit realm, the witch doctor’s soul affinity should have been sufficient.
+
+Four blindingly intense blue beams sprang forth from the witch doctor’s outstretched hand, one for each demon, as his cackle echoed softly across the spirit realm echo of the chamber. The outmatched demons immediately turned to flee, but it was far too late. The amplified Soul Drain, paired with Demon Slayer, tore at them relentlessly, ripping mana and health from them until all four collapsed twitching on the ground and expired.
+
+Your Witchdoctor has defeated Hellfire Imp – Demon – level 63 (Hellfire).Your Witchdoctor has defeated Hellfire Warg – Demon – level 60-61 (Hellfire) x2.Your Witchdoctor has defeated Corrupted Warrior – Demonic Orc – level 53 (Blood).
+
+“How was that, Seeker?” her troll asked, looking at her with a sense of wanting approval.
+
+“Excellent work,” she said, offering heartfelt praise. In fact, the combination of his abilities should prove to be a formidable barrier to any but the most advanced of the demons she had encountered so far.
+
+Ali stepped outside the curse aura and shifted back to the normal world. That was much better than I expected. The double-enhanced Soul Drain beams had proved devastating, and her hunch about how the aura banishment would affect the demons had been exactly right. Unless Destraggoth got annoyed and sent a substantially stronger, evolved monster like a Pit Lord, she was certain her witch doctor could handle anything that came through that tunnel at least – and that would free up the minions she had set to guard the exit since Azryet had recalled his drakes.
+
+With the main access to her area sufficiently plugged, she activated her Minion Teleport, swapping her Subterranean Brood Queen into this cavern, and then ten seconds later, when the recharge expired, she swapped herself back using a glitter dragonet.
+
+“Go work on your armor,” Ali said, giving her Brood Queen leave to sate her appetite for the delicious smelling Abyssal Bloodstone and Bloodsteel ore it was already eyeing. She didn’t have to tell her a second time, the heavy beetle queen shot forward and began eating the walls, all the while Ali scouted by observing what it could see through the rock.
+
+All across the front of her cavern she could sense the remnants of the demon god’s mana percolating through the thick rock, but in no other direction could she find any trace of the domain, so she allowed her Brood Queen to burrow down to several crystal deposits, quartz and amethyst, and then to a more substantial cavern system filled with deposits of crystalline mithril ore.
+
+She kept the Brood Queen focused within her mind, but she set herself to following down the newly bored tunnel and into the cavern system below, laying down moss and mushrooms as she went. If Azryet was granting her this space, she was going to ensure she got the most out of it.
+
+It did remind her strongly of her mad, survival-focused scramble through the rock which had originally landed her in Azryet’s domain, but she was far stronger now, and had a safe base to retreat to if she needed.
+
+One perhaps dubious advantage of fighting a Devouring Consumption was the fact that it left very few corpses around for the Corpse Flowers to spawn on, so when it died, Calen just backed up a bit, keeping an eye on both the forest and the spawning pool itself. A soft silence fell across the green lake, and for a precious few minutes, he could ignore the fact that they were deep in the bowels of a hostile, aggressive dungeon.
+
+As soon as Malika had finished topping everyone’s health off, he led the way to the entrance of the mines.
+
+Calen did not possess any enhanced sense of smell, but even he gagged as he entered the mines, coughing and choking on the stench of rot and smoke that filled the air, trapped by the confined space of the tunnel. Inside the first cavern, the rocky walls, floor, and even the roof were covered with damp and seeping fungal creep, but the lava pools and rivers were still flowing, pumping heat and smoke into the air as the endlessly growing creep blackened and charred on contact.
+
+Mato roared, and Calen’s attention was immediately on the fight as two Braconids emerged from the far tunnel, scrabbling along the walls in their haste to reach the noisy bear. Calen rolled his shoulders, stretching the muscles in his back for a moment, and then unleashed his arrows in a continuous stream as they began their descent into the mines, echoing the footsteps of their prior flight from the raging dungeon and the ill-fated accident with the rift that had gotten Ali stuck.
+
+He focused his mind, pushing forward as the Braconids died and were replaced with several Rot Slimes deeper in the tunnel. Slowly, he settled into the zone, his arms drawing and releasing his bow in a continual rhythm of destruction and leeched mana that became somewhat soothing in a way. It ceased to matter what exactly they faced, only that they were in a narrow tunnel, and all of his being was focused on blasting their way through as they inched their way closer and closer to the rift and finally finding Ali.
+
+He lost count of the number of monsters they tore through on their way down, but they finally slowed as they reached the widening tunnels before the Landing, and his mind registered the denser mana up ahead, yanking him out of his flow.
+
+“Let me go look,” he said, vanishing with a quick application of Eclipse, and then he dashed forward on silent feet.
+
+The Landing was about what he would have expected: a pit of rotten fungal growth that covered all available surfaces. Sludge dripped from the ceiling, and strange fungal growth protruded from the walls, lending an eerie, soft glow of dirty green to the chamber. He found he couldn’t shake the feeling that it all resembled the inside of a giant stomach far more than was comfortable. At the far end of the Landing, the three exits lay open, but choked up by the growth of stunted trees, vines, ferns, and fungi.
+
+In the center stood a massive ravager – a four-legged hulk of mutated fungus that loomed too large within the chamber. Far bigger than the Living Flames they had first encountered here. It shuffled, shifting its huge body, making the walls of the Landing shake and the vegetation shiver in response to its immense weight. Six uneven, misshapen eyes gleamed menacingly in the dim light.
+
+Fungaloth Ravager – Fungal Aberration – level 146 (Nature / Death)
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Fungal AberrationDamage: RotKnown Abilities: --
+
+His heart sank as he saw the sheer power of the monster before them, larger even than the one they had faced guarding the passage between the two forest caverns far above where they now stood. But they had no choice – Ali was trapped beyond this monster, and they had to defeat it.
+
+He retreated back to his waiting friends.
+
+“Ravager,” he said. Their faces immediately registered frustration, annoyance, and several other emotions. “Level one-forty-six. It’s a raid boss, but I didn’t sense the suppression aura, at least,” he added.
+
+“Nasty,” Vivian said.
+
+“Well, we have to go through it,” Mato said.
+
+“Yes, let’s see what it does,” Malika said, and by the set of her jaw, he could tell she was just as determined to overcome this obstacle.
+
+“Up against the back wall?” Mato asked.
+
+“That sounds good,” Calen answered. He and Lyeneru could shoot from the entrance, while the three of them tackled the boss at melee range against the far wall in case there were any area damage effects or knockback.
+
+Mato’s transformation was rapid, and a few moments later, his roar filled the chamber, drawing the ire of the many tons of angry fungus that guarded the Landing. There was a loud crash, a sizzling of void magic, and a rending of flesh, and the monster let out a crazed hissing screech of pain and anger, but Mato simply charged past it, drawing it away from the group as they all sprinted into the foul, dripping chamber.
+
+Malika vanished, appearing next to Mato, pulsing her healing. Calen waited, charging Power Shot while observing carefully until the Ravager was properly placed and secured on the opposite side of the room.
+
+“Ok, go.” Mato’s thoughts popped into his mind, and he automatically echoed them out loud for everyone to hear, unleashing his arrows in a rapid stream across the room. But he could immediately tell something was wrong.
+
+It took him several more volleys to put his finger on precisely what it was. He was leeching health and mana, but somehow it wasn’t nearly as much as normal. As he focused on it, it became much clearer. “Is everyone else doing a lot less damage than normal?”
+
+“Yes.”
+
+“Yup.”
+
+“Yes.”
+
+“No.”
+
+Huh? Lyeneru was the odd one out. Somehow, she alone was doing normal amounts of damage, but his seemed to be less than half. Calen puzzled over it for a while, but then the monster suddenly raised the front of its body clear off the ground, stomping down with both front legs in a blow that shook the entire Landing, shattering stone through the creep.
+
+And Mato collapsed, hitting the ground like a sack of wet sand.
+
+“He’s stunned!” Malika yelled, but her voice carried a sudden sense of rising alarm as the Ravager turned and bit her, no longer interested in the disabled bear. Soul magic flared under the powerful grinding jaws, both healing and Soul Strike flashing furiously within the cavernous maw, until the monster finally released her and she fell back against the wall, panting with expended energy.
+
+Fine! Calen thought. You want to play? I’ll just –
+
+“Get off!” Malika yelled as she hammered at the insistent creature, but the Ravager was not done with her, pressing its attack with snapping heavy jaws and smashing legs, even trying to shoulder check her into the wall. Now freed from its maw, Malika danced around the attacks, dodging furiously and unleashing ripples of healing magic that flew from her in waves as she desperately tried to heal the downed Mato without being able to physically reach him.
+
+Seconds ticked by as Calen kept up his assault, but his attention was entirely on Mato’s collapsed form and the rapid-fire dodging by Malika, who was suddenly tanking the boss. It was a full thirty seconds by his internal reckoning before Mato finally stirred, rising shakily to his feet once again.
+
+“Armor debuff and stun,” he sent. “Fifteen more seconds.”
+
+Calen had not seen the ability triggering, which meant it was a martial ability using stamina, and probably a domain magic too. “Fifteen seconds,” he called out, echoing Mato’s message. “Malika, it’s a martial ability. Armor debuff and stun attack.”
+
+It was a nail-biting fifteen seconds as Malika somehow repeatedly dodged the tremendous melee power unleashed upon her – her relatively small form blurring as she danced back and forth in front of a rock wall that was rapidly being pulverized by the sheer brute force of the monster.
+
+Finally, Mato braced himself and his roar echoed through the chamber, and the giant misshapen fungal head with its six eyes and rotting maw filled with too many blackened fangs turned on the bear once again.
+
+Calen could see Malika’s visible sigh of relief. He let out his breath too, as the fight returned to a more normal stability, the massive blows striking Mato’s immense armor and powerful blocks, while his roots and brambles harried the giant monster.
+
+Fifteen seconds later, the monster struck again, smashing Mato into the ground and wheeling about to knock a surprised Malika flying through the air across the chamber. It charged, clearly intending on crushing her against the wall before she even landed, and incredibly, it was fast enough to reach her, but despite her startled yelp, Malika was ready and dodged the charging behemoth by sidestepping in the air, finishing with a graceful flip and landing by a fresh wall.
+
+“Malika, can you disrupt that attack?” Calen shouted. If he wasn’t much mistaken, the Ravager’s devastating stun had a one-minute recharge.
+
+“No. I tried. It’s a domain skill,” she yelled back, clearly breathing hard as she pushed herself to the limit to dodge the monster once again.
+
+“We need to reset this,” Lyeneru said. “It’s fully healed, and this is clearly a two-tank fight.”
+
+“I agree,” Vivian said. “I’ll get Mato.”
+
+And then they fled.
+
+***
+
+“That stun has a one-minute recharge and lasts thirty seconds, and according to Mato, the armor reduction lasts forty-five seconds,” Calen said, his bowstring twanging with ceaseless shots as they fought their way back out of the mines through all the respawned monsters.
+
+“It’s incredibly resilient,” Malika said. “I’m doing much less damage than normal, less than half.”
+
+“I’m doing about a quarter,” Vivian said.
+
+“Some kind of damage reduction domain skill then,” Lyeneru said, a thoughtful expression on her face. “Perhaps level dependent, because my damage seems about normal.”
+
+“What did you mean by a two-tank fight?” Calen asked. “Are you suggesting intentionally switching tanks?”
+
+“Yes,” she said. “This kind of ability requires two cooperating tanks. We almost got it right, swapping between Malika and Mato, only Malika isn’t the ideal build for tanking something like this, and Mato pulled the boss back too early. If you have each tank taunt the boss right after the stun and tank for a full minute, you always have a fully healthy tank on it while the second one recovers.”
+
+“We would need one of the raid groups,” Calen said, considering the strategy carefully.
+
+“Probably two,” Lyeneru said, agreeing. “We were not doing enough damage to overcome its regeneration; you’re going to need a lot more damage classes in that room.”
+
+“We can’t afford to take two raid groups off the defense upstairs.”
+
+“Give them two raid groups, and you and I will stay upstairs and help defend the camp,” Lyeneru said. “I agree with Calen, this effort is important.”
+
+“Will they do enough damage without you?” Vivian asked.
+
+“That I don’t know,” Lyeneru said, her brow creasing in thought.
+
+They spent the rest of the way back discussing finer details of strategy and the logistics of bringing another twenty people all the way down through the dungeon, given that many of them couldn’t fly.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

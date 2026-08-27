@@ -1,0 +1,239 @@
+---
+id: a14fca3e-87c1-5064-a123-b8c27011f15c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Terrible Night"
+slug: 0044-chapter-29-terrible-night
+partOf: ends-of-magic
+position: 44
+ownLength: 2730
+unit: words
+ownProgress: 2730
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2748448/chapter-29-terrible-night"
+royalRoadId: "2748448"
+markedReadAt: "2026-06-29T20:08:40.599Z"
+---
+
+The Heirs followed Sarah’s direction, heading directly into the gloom of the Blight. They were wary of threats, but flying seemed to be enough to bypass most of the threats beyond the occasional monster with a ranged attack that Sarah eliminated before they got close.
+
+On two different occasions, a couple of the ranged monsters hid in the terrain until the Heirs were within range. The first time Nathan noticed them, he killed them with his aura just before they came into view. They were creatures of magic, even if it was dark, corrupted magic, and his aura sufficed to remove all of the energy keeping them going just as it had in Nathan’s first encounter with the undead.
+
+The second time, the monsters were embedded in a crowd of more normal zombies and hidden behind a hill. A barrage of spikes and acid shot towards the Heirs, but Khachi waved his hand and sent out a pulse of light that deflected the attacks to the side. Then Stella cast a quick grand fireball spell and lit the entire hillside on fire with a concussive detonation.
+
+“This is easier than that tomb of Sklias. Remember, outside of Gemore?” Sarah asked.
+
+Nathan grimaced. “Oh, I remember. I got covered in zombie guts. It’s not something I’m going to ever forget, as much as I wish I could.”
+
+“It’s where I found my first true weapons,” Aarl said wistfully, pulling out the elemental sabers they’d gotten from that long-ago dungeon. “These helped me fight through everything until Giantsrest. But now my armaments are far superior.” He stowed the blades with a shrug.
+
+“I thought this area was supposed to be blighted,” Stella called, floating lazily on her back. “It doesn’t feel much worse than a chilly day.”
+
+Nathan snorted. "Oh, it’s blighted, alright. Do you want me to let some of it through and see how it feels? It’s not going to be pleasant.”
+
+The mage looked chagrined. “Ah, I’d walk into a dungeon of fools. I'm good.” Then she pointed upwards. “There’s magic above us.”
+
+“There is,” Nathan confirmed. “It’s the blight controlling the weather. Making it like this all the time. The clouds want to do anything else, to rain, to clear, but the mana won’t let them.”
+
+“Could you clear it?” Khachi asked thoughtfully. “I believe I could, if that was my target.”
+
+“I could,” Nathan replied, looking up and mapping out the mana streams running through the sky. He also felt a distortion in the sky, with twenty-three knots of death mana heading in their direction at high speed. They were being pushed along by a gust of high wind that was being controlled by yet more death mana. “Hold on, I think we have incoming.” He pointed up into the clouds, in the general direction of what he was feeling.
+
+Sarah stopped and looked in that direction herself. “I see wings, but no body. They're protected by something.” She fired off a shot, which was followed by a faint explosion high above. One of the blobs of death mana winked out. Nathan felt the rest accelerate down towards the Heirs at high speed. “Incoming! Shields!” He threw out his aura towards the oncoming enemies, stripping off the coating of mana that blurred them against sight.
+
+They looked like giant bats, except with more streamlined, torpedo-shaped bodies and a trio of lance-like horns. Those weapons gleamed with innate enchantment and were aimed directly at the Heirs. The monsters gained speed in their dives, and Nathan had only a moment to take them in.
+
+Khahi raised his hammer and shouted a proclamation. “Burn in righteous light!” Light blasted away from him towards the oncoming undead. It disrupted their formation, and a dozen of the creatures fell from the sky, corrupted flesh burned away by the divine light. The rest were stunned and erratic, their skin bubbling from even a grazing hit from the cleric's spell. They were slowed and weakened, and then they ran headlong into Stella’s shield. The horns punched through, but it served to stop them dead in the air.
+
+Aarl charged forward, taking advantage of the stationary nature of their opponents. Remembering his intent to stay mobile, Nathan followed. He couldn’t physically keep up with the raw speed granted by all of Aarl’s items, but he caught one that managed to evade the tornado of blades that diced the others. Nathan’s punch carried his antimagic with it, and the final bat fell from the sky as little more than a puppet of meat stripped of its animus.
+
+The Heirs regrouped in midair, checking to be sure there weren’t any more surprises. The whole fight had taken just seconds, and Stella commented on that. “Hear me, that was fast. Once we killed one, they all swarmed. It was like fighting a score of wyverns.”
+
+Nathan’s expression was grim. “I think we’re being tested. The ambushes, now this. The blight is trying different things to see how we react. We should probably keep some things in reserve.”
+
+Khachi nodded. “A topic for camp. Sarah?”
+
+She pointed forward again. “You should be able to see it now.”
+
+It was just barely visible in the gloom and diffuse fog. The mountain Sarah was guiding them towards was more of a rocky hill, but its summit was entirely composed of sheer rock faces. It would do. They reached it without any more surprises and kept a tight watch while Stella dug out a cavern with stone mana. Once the space was open, they filed into it. She closed off the entrance, leaving a few air holes.
+
+Once that was done, Nathan closed his eyes and spread out his magical senses, feeling for the undead all around. There were a few patrols headed this way, but nothing beyond what they’d faced before. The Heirs set up camp quietly as Nathan kept his attention focused outwards, looking for any sign that they’d be attacked.
+
+The undead pooled around the base of the hill, and a few of the more agile monsters clambered upwards. They were probably searching for the Heirs. One clambered right over the smooth stone where Stella had dug their entrance, and Nathan raised his hands for silence. The Heirs had been whispering to each other while Aarl made food, but at Nathan’s gesture, they fell entirely silent. The faint sound of claws on stone made its way through the airholes, then went away as the undead moved on. Before long, the climbing monsters returned to the base of the hills, and the patrols moved on. More replaced them, roving across the plains below with chaotic swirls.
+
+“We’re good,” Nathan said, relaxing and letting the tension drain out of his body. “Day one finished. Now all we need to do is repeat that for as long as it takes to find the Seal.”
+
+“A true prophecy of victory,” Khachi replied dryly.
+
+They took some time to attend to the various rituals of life. It was normal enough that you could almost forget that they were deep inside a desolate wasteland overrun with undead. Then, the faint hint of rot would drift in through the air holes as a reminder.
+
+“We should speak of our strategy,” Sarah reminded them all once they’d eaten. “Nathan’s antimagic holds the blight at bay, and we have not faced challenges so far. But he believes that there’s some greater intelligence commanding the blight.”
+
+“Did you feel anything like that, Nathan?” Stella asked, looking up from the book on Wizardry she'd gotten from the vault.
+
+He blinked, then shook his head. “No, but that doesn't mean it wasn't there. Against the general backdrop of death mana, some kind of linkage might be invisible. It might work through the field of mana.”
+
+Sarah gestured her agreement. “We should assume so, and withhold our true capabilities. Which powers should we demonstrate, and in what manner?”
+
+Aarl spoke up thoughtfully. “The grand magics. Sarah and I should kill most of the problems, and without our best powers. You should pretend to be limited by range, and I’ll keep my most potent weapons and defenses hidden.” His gaze panned to Khachi. “You’ve shown the base of your powers, but not their full extent. Don't. We need to surprise this enemy.”
+
+Stella was already nodding in agreement. “I’ll sow smoke and blood with fireballs and force spells. Then lightning and lasers. The nuclear spells should be kept to kill the woken giant.”
+
+“Nathan, can you keep your aura tight? Would that smother your fire?” Sarah’s request was concerned but serious.
+
+He brushed off her concern. “I’ve got more Stamina than I need, and I can always ask Stella to give me a top-up if I'm not neutralizing lots of undead. I can also choose only to do minor things, to hide my full capabilities. It’ll be our second trump card, after the nuke spells. What about Khachi’s light, or your range? I guess that the attacks are going to get more and more tailored to kill us, and we’ll need to expose new abilities as we move.”
+
+Aarl shrugged. “Don’t bait the castlebear. If we need to use something to kill the problem, use it.”
+
+“My range is situational. I will utilize it if I see a worthy target,” Sarah contributed. “And Aarl will only need his full armament for an especially durable enemy.”
+
+“I will use my light against further swarms of foes,” Khachi agreed.
+
+Stella gave Nathan a crooked smile. “We pretend incompetence as long as we must. But if we see a Grave Tangle I’m striking it with a charged laser free of regret.”
+
+“There are Grave Tangles ahead,” Sarah confirmed darkly. "Better to let Aarl deal with them."
+
+“What did you see?” Nathan asked, looking at her curiously. “Can you see all the way to the Seal?”
+
+She shook her head. “The land grows mountainous ahead, and the gloom blocks my vision in ways that normal clouds cannot. But there is a place ahead where every mountain is capped with a Grave Tangle.”
+
+“Oh.” The shocked word dropped from Stella’s lips. Then she shook herself. “Hear me, that’s more than I expected. Maybe we should skim past them."
+
+“Anything that could be described as an obelisk of bone?” Nathan asked. “Or a ‘flesh tyrant’? All we have to go on are the names, but those two worry me.”
+
+“None of those,” Sarah replied, though her lips quirked. “Living shadows do not scare you?” She glanced around their little cave. It was well lit from the magical fire Stella had conjured, but shadows danced against the walls.
+
+“Not particularly,” Nathan admitted. “I think Khachi will kill them easily, and my aura should do it if his light can’t.”
+
+They talked some more about what they knew about the Blight and how they might go about countering the dangers here, but they didn’t have much to go off. Part of the challenge they’d been set was figuring it out as they went along. But they had a lot of options and contingencies available, and made a few game plans for different kinds of enemies and interpretations of the sorts of powers they’d face.
+
+Then everybody went to sleep, leaving Khachi on watch. Nathan knew he’d be able to stay up for several days if necessary, but there was no sense starting that when he didn’t have to. His antimagic would stay where he put it while he slept, and tomorrow they’d start all of it over again.
+
+The pressure of the Blight on Nathan’s antimagic made it hard to sleep, and he wasn’t able to fix it with a quick calming exercise. After some introspection, he realized he was stressed. It felt like they were walking a knife’s edge in every possible way. He was trying to negotiate an alliance with a group of Questors he knew next to nothing about, so they would sponsor his bid at a Conclave. The way they were doing that was by delving into a realm of dark magic that was nearly as inhospitable as outer space. And then at the end of all of that was the Conclave itself, which felt like an impossible cliff, a test he didn’t begin to know how to start studying for.
+
+Identifying that as the root cause of his anxiety helped him deal with it. The flat truth of it was that he didn’t know enough to prepare for the Conclave, or dealing with the Ashen Accord. But that wasn’t the challenge at hand. He needed to worry about the Blight, no Questors and Conclave. Did he know how to fight the Blight?
+
+I think so. I feel good about our strategy. We’ve got a lot of options, and I’m having a hard time imagining an undead that could beat us.
+
+He went to sleep trying to imagine the worst undead he could, something that would terrify Brox. It did not make for pleasant dreams.
+
+-
+
+The next morning felt reminiscent of the days they’d spent in the mountains outside of Esebus, with the Heirs rousing themselves inside a womb of stone and preparing to go out for a day of travel through harsh land. But the Blight pressed in on Nathan’s antimagic like a sore tooth in the back of his head, reminding him that this was different.
+
+When Stella opened up the passage back to the surface, it was hard to tell that it was day out. The sky was dark, almost black, with just the faintest grey leaking through from the sun overhead.
+
+“Blacker than a muckgrabber’s asshole,” Aarl muttered as they took to the sky. “And we’re sitting next to a golden light.”
+
+Khachi snorted, but didn’t disagree. His magic came with a certain level of glow as a baseline, and Nathan was pretty sure that just flying in the dark wouldn’t be enough to stay hidden. There were too many eyes, and many of them belonged to the corpses of insectile monsters that could probably see heat or track with scent. Given what he'd seen of undead so far, they probably retained that ability in death.
+
+They took off without much more conversation, headed directly into the Blight. They flew a little higher than before to avoid the constant attacks from below. There wasn’t much point in trying to stay hidden in the terrain. If they couldn’t hide from every single undead, they couldn’t hide from any greater intelligence of the Blight, and it seemed to have shown the capability to steer undead in their direction already.
+
+After a few hours, Nathan could feel fliers massing to the side. He made no sudden moves, but did call out to his friends just loud enough for them to hear. “Fliers massing on the right. About a hundred. Same as last time, but there are seven bigger ones.”
+
+Khachi grunted. “My light shall lead us, as yesterday. I have had time to think of an appropriate prayer for this foe. Stella, force shields?”
+
+“Teach a mage to light a fire. I’m going to put some wizardry in them this time.”
+
+Nathan’s paranoia kicked in as the monsters started accelerating in their direction. He didn’t trust this to be the only thing that would hit them, and so he scanned the surroundings for another layer to the attack. But there was nothing.
+
+“It’s escalating slowly, testing one thing at a time.” The realization made Nathan feel cold, like he was a bug being examined under a microscope by a being that could crush him at any moment.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 9
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 8
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 8
+
+Veracity 4
+
+Whiplash 1
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

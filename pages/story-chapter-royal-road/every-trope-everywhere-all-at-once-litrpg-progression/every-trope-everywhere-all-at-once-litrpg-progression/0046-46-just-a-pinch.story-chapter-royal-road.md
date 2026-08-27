@@ -1,0 +1,209 @@
+---
+id: 91c83a8a-090f-54bf-ba43-b430cea663af
+page-type-slug: story-chapter-royal-road
+title: "46 - Just a Pinch!"
+slug: 0046-46-just-a-pinch
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 46
+ownLength: 1654
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3539926/46-just-a-pinch"
+royalRoadId: "3539926"
+---
+
+“Lord Aurelius…?” Camille began, taking a step. “Are you truly…?”
+
+“I am,” he replied.
+
+Reina, Camille, and I stood in the main secret room, while Aurelius stayed inside the alcove. Just above us was the cellar we had initially entered from, and above that was the rest of the manor. There were too many stairs to climb. Too many steps.
+
+Could we escape, even if we wanted to?
+
+Assessment:
+
+You are severely underleveled. Direct contact is strongly discouraged. Escaping is recommended, though it may not be possible.
+
+No… I don’t think we can. Even the assessment said that escaping was unlikely.
+
+Even so, we had to try.
+
+I steadied my posture, preparing to cast wind magic—hoping it would carry us up the seemingly endless flight of stairs behind us.
+
+“There’s no need for that,” Aurelius said. “I don’t think you can escape.”
+
+He placed the Soul Anchor Ring on top of his ring finger, making sure it was beneath the ring that was already there. Then, he pointed his hands toward the three of us, and every ring besides the Soul Anchor Ring began to spin, threatening to shoot out.
+
+“What’s your goal…?” I asked.
+
+He turned to me. “The answer should be obvious. It is your body that I want. Your flesh. But to do that, I must expel your soul.”
+
+“Which means you wouldn’t actually hurt us,” I said. “Your spinning rings are an empty threat. Our bodies would be useless to you if they’re severely wounded.”
+
+“Yes,” he said. “But I’m willing to incapacitate you. Whether it’s tearing these rings through your legs or breaking your bones—I’m willing to hurt you just a little if it means I can expel your soul.”
+
+I steadied my grip on Dawn Sunderer.
+
+There must’ve been some condition he needed to fulfill to actually expel someone’s soul. If he was able to do it to us, he would’ve done so already.
+
+But what was the condition?
+
+“Lord Aurelius… you’ve become mad,” Camille said. “You’re not the same person I once knew.”
+
+“And you’re not the Camille I once knew,” he said, glaring at her. “The real Camille acts nothing like you. You can never replicate her.”
+
+Camille frowned. “...Real? What are you—”
+
+“You’re a fake,” he continued. “A byproduct of this dungeon. This manor, the statues, this floating island, and you—it’s all nothing more than a replica of the truth.”
+
+“Again with the dungeon,” she said. “I don’t understand any of it.”
+
+Aurelius laughed once.
+
+“Because you were created to forever be imprisoned within it,” he said. “You were created to believe that this is your entire life. You don’t have a soul. Everything you say and everything you do is the result of magic, not a soul. I was supposed to be imprisoned here with you. But having abandoned my body once more, I was able to escape into the outside world, where I truly belong.”
+
+His eyes looked different than they were before.
+
+They were the eyes of a man who had sunk into madness.
+
+Camille walked towards him.
+
+“Please, tell me. What do you mean by all of this?” she asked.
+
+Aurelius shook his head. “I can’t afford to waste any more time explaining something to someone who shouldn’t exist. I’m sorry, Camille.”
+
+He pointed an index finger at her, and a ring shot out, piercing her head. Even if she was a ghost, objects interacted with her like anyone else. Only another person could pass through her.
+
+She died on the spot, her body becoming limp.
+
+Reina and I gasped.
+
+“Camille!” Reina cried, trying to grab her body before it fell to the ground. Her hand passed right through. The moment Camille hit the ground, her entire form dispersed into nothingness.
+
+I gritted my teeth. “You—!”
+
+“Spare your sympathy,” Aurelius said. “The monsters in this dungeon have no souls. She’ll revive like the rest of them.”
+
+He stepped forward, forcing us to back away, hitting the desk behind us. Reina was shaking. Now that the knockback stick had shattered, she was left completely defenseless.
+
+I tightened my grip on Dawn Sunderer, but I knew we would stand no chance against him. Unlike other people in this world, I had something they didn’t—the ability to see Levels. Even if Meriel was here with us, we would stand no chance against him, and Talon was completely out of the question.
+
+But Kaelor on the other hand… could he defeat Aurelius?
+
+He and Aurelius were two of the most powerful people I’ve seen in this world so far. But I never did check Kaelor’s stats, did I?
+
+Whatever it was, we needed to regroup with the rest of them as soon as possible. We had no chance of surviving against Aurelius otherwise, but what could we do now when he’s right in front of us?
+
+Think, Allene, think!
+
+My mind was racing with nothing other than the fear of death.
+
+Death.
+
+Death…
+
+…
+
+Wait. That’s it!
+
+I turned to Reina. “I’m sorry, but this’ll just feel like a pinch!”
+
+“Huh? What do you—”
+
+I sliced her head off with Dawn Sunderer before she could say anything else.
+
+Thankfully, the sight wasn’t as gory as I imagined, and her entire body dissolved into floating particles.
+
+Aurelius frowned. “I didn’t think you’d remember to do that,” he said.
+
+I pointed the sword at my face, smiling. “Revives do come in handy, huh? Catch me if you can!”
+
+I stabbed myself through the head.
+
+The world became blank for a moment. I had no senses, no feelings, no thoughts.
+
+As soon as I came back to life, my eyes shot open, and I was greeted by the sight of Reina, Kaelor, Meriel, Talon, Tuna, and the griffins. I was back at the inverted city’s blue lantern checkpoint.
+
+“You two…” Kaelor began. “I was about to make some joke about how it’s been so long since we’ve last seen each other, but judging from the look on your faces, it looks like something serious has happened.”
+
+“We need to leave, now!” I said right away, putting Dawn Sunderer on my back.
+
+“Stay calm,” Meriel said. “What’s wrong?”
+
+“The angel! The warden! They’re the same!” Reina cried.
+
+“What does that even mean?”
+
+I covered Reina’s mouth as she tried to speak again, figuring she’d only make things more complicated.
+
+“The angel who flew a bathtub during the race was the dungeon warden himself. The dungeon warden’s name is Aurelius, the Borrowed One. It’s complicated, but he has the ability to swap bodies and dispel souls. When Gabriel—the original angel—reached the end of the dungeon, he must have been defeated by Aurelius. That must have been the moment Aurelius stole his body.”
+
+Talon tilted his head. “I don’t understa—”
+
+“Don’t even try to understand,” I said. “The point is, we need to get out of here as soon as possible. He’s too strong. He has the ability to make our souls separate from our bodies.”
+
+“Sure thing, but we do have one small problem,” Kaelor said.
+
+He pointed at the blue lantern.
+
+There was a zero.
+
+We had zero revives left.
+
+My mouth dropped. “How did that even happen…?”
+
+“We might’ve made a few mistakes,” Talon admitted.
+
+“So did I,” Meriel said.
+
+“So you’re telling me that Reina and I were the only ones who didn’t die while trying to find the lever?!” I cried.
+
+“Hey, don’t be a hypocrite! We had two revives left before you and Reina came here!” Talon argued.
+
+“Okay, but we’re not counting the intentional suicide we just did to get back here. Anyway, let’s start moving!” I yelled.
+
+Talon nodded, moving first.
+
+“Follow me,” he said. “Since we’ve pulled all the levers, the portal should already be activated.”
+
+The others nodded, and we began to follow him. It was awkward for the griffins to run and for Tuna to wriggle through the city due to her size, but fortunately, the area Talon brought us through was spacious enough for her to go through.
+
+I’m glad I put all those stat points into Endurance and Agility. It made moments like these a whole lot easier.
+
+As usual, Meriel and Talon were the ones who struggled the most. Meriel had cast a spell to help them run more easily, but the tradeoff was that she had to use her mana. I guess that was fine, considering mages like her had much more mana capacity than lung capacity.
+
+When we turned a corner, I heard the faint sound of drums and trumpets. I looked around, wondering where the sound came from, but no matter where I turned, the sound followed. It grew louder each second.
+
+“Do you guys hear that too?!” I yelled over the sound.
+
+The others looked at me, confused. Reina said something from beside me, but I couldn’t hear what she was saying from how loud the music was.
+
+“What?!” I yelled again.
+
+The music felt like it was about to rupture my eardrums. I covered them, but for some reason, the music didn’t stop.
+
+What the hell was happening?
+
+As if answering my cry, a System message appeared in front of me.
+
+[STATUSES]:
+
+[Final Health Insurance]
+
+- The next boss you face will survive a lethal attack once
+
+[Boss Music]
+
+- The next boss you face will have overwhelmingly loud music
+
+Oh no. I’d completely forgotten about the status effects I had received after failing a few tropes since we fled from Skoll. The drums and trumpets were just the damn boss music.
+
+Wait a minute… boss music? Then doesn’t that mean…?
+
+“He’s here!” I yelled.
+
+A ring shot by, killing one of the griffins instantly. The remaining griffins yelped at the sight, but that same ring flew back, killing the rest before returning to the sender. All the griffins were dead in seconds.
+
+We turned.
+
+Aurelius had caught up to us, his angelic, golden eyes glowing through the darkness of the city.

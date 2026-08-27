@@ -1,0 +1,109 @@
+---
+id: 1281b079-a323-58fa-a711-e2d209fecf39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 The first discussion"
+slug: 0003-chapter-3-the-first-discussion
+partOf: ends-of-magic
+position: 3
+ownLength: 2412
+unit: words
+ownProgress: 2412
+publishedAt: 2022-08-17
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/973735/chapter-3-the-first-discussion"
+royalRoadId: "973735"
+markedReadAt: "2026-06-29T20:07:21.904Z"
+---
+
+Nathan didn’t have too long to wait before Taeol dho Droxol, Grand Dimension Archmage of Giantsrest, came back. He heard the door being unbarred, heralding Taeol waddling in and sliding into the other chair. He was wearing a new robe, still in orange. It was embroidered with gold thread in patterns that could be magical, but were certainly decorative. A man-sized stone statue in the same khaki marble followed him in, bearing a wooden slab covered in food.
+
+The golem set the food down in the middle of the table and withdrew to stand in front of the door. Taeol shook his robes back from his hands and dug in, slapping preserved meats onto soft cheeses and dipping them in fragrant sauces. He smacked his lips appreciatively, and gestured for Nathan to follow suit.
+
+As Nathan tentatively nibbled on the luxurious fare, Taeol began lecturing, continuing to eat while doing so. “When I scried upon your world, I beheld marvels made common. Buildings taller than the clouds, metal travelling devices that flew faster than any bird. Ships the size of islands. And wonder of wonders, all without magic. Imagine what could be done by combining such knowledge with magic! I tailored my spell to summon one of receptive mind with expertise in your ‘science’. I know you know the secrets behind such things. First, and most important for planning, what is your class?” He was looking at Nathan expectantly, and gestured with what looked like a pickled chicken leg to answer his question.
+
+“I’m sorry, but classes? What do you mean, I don’t think those exist where I come from.”
+
+Taeol’s jaw dropped, giving Nathan an unfortunate view of his latest bite. He sprayed some of it across the platter as he spoke. “You cannot be serious. But you are! No classes and still your world achieves such things. I expect a vein of gold and find it instead to be of oricalchum! But no matter - surely you’ve received some kind of message from Davrar about classes, all people in this world do as soon as they can understand. Just think about your abilities and Davrar should grant you information in some way that makes sense to you. You have seen such a thing, haven’t you?”
+
+Nathan tentatively nodded, and Taeol grinned hugely. “Excellent. We shall begin by making you my personal apprentice. We will start with initial training in basic mana shaping to unlock the Talent, the mage class and your mana pool. Then we can speed along the basic enslavement mage progression, as it is the fastest mental magic class to level if you have the resources. There are mental spells that allow directly imparting knowledge to another, and I would have you master them as soon as possible. Then it will be possible to impart to the necessary craftspeople your knowledge and realize the wonders of your world. I had hoped you would have a teaching class already, so you could effectively explain things, but truly mages and magic are superior to all other classes in all things. Oh, is it not wonderful that I can design your advancement? Truly perfect.”
+
+Taeol had continued to shove food into his mouth as he spoke excitedly, and the combination of chewing while speaking and additional sprayed food turned Nathan off the platter nearly as much as Taeol’s words.
+
+Enslavement mage?
+
+Nathan tried to get a word in edgewise, but Taeol plowed right over him. “Of course, I must assuage my curiosity before we begin. so I will ask you questions as to how your world accomplishes these things. First, what is your full name, and how do those metal boxes move along the ground? There is no magic, but they move by themselves. What moves them?”
+
+Nathan needed time, and information. He cast around for a good alternative subject to assuage Taeol. “My name is Nathan Lark. And I apologize for answering a question with a question, but what is Davrar? Is it the name of your world? Is there a person named Davrar granting people power? How do these classes work?”
+
+Taeol shook his head for a second before responding. “It is understandable, I would respect curiosity about such things. Our world is called Davrar, and also it grants us the powers of Talents and all the rest. There was a series of experiments some years ago showing Davrar cannot learn, and does not change its name if you teach people to call the world something different. The scholars of renown on the subject say that Davrar is the will of the world, ensuring that thinking beings survive on its face against the horrors of monsters and Endings. One could wish it was a little more selective to civilized beings and excluded some of the barbarians and intelligent monsters from its blessing, but we can fix that oversight on our own.”
+
+Fearing what he was going to hear, Nathan pushed more on that last point. “How will you fix it?”
+
+Taeol turned expectant eyes from the remaining food to Nathan. “Of course, there is only one permanent solution. We must take control of their lands, and either civilize them appropriately or replace them with good stock. How else?”
+
+So they’re not just slavers, but genociders as well. I hate that I’m glad I look like them.
+
+Taeol pointed the chicken bone at Nathan. “I see what you’re doing boy, and I clap my palms at it. You find yourself in an unfamiliar place and wish to learn as much as you can before you make any commitments. It reminds me of myself when I was your age. But I must be clear as flawless gems, your only path here is giving me what I want. You shall do it willingly and I will raise you up to stand Ascendent in magic. Else I will dominate your mind and force you to tell me your truths. If you prove stubborn I will transfer your soul to a golem core and extract your knowledge from a screaming husk.”
+
+Sweat broke out all over Nathan’s body, and he felt adrenaline in his veins. Taeol seemed entirely serious, and without hesitance or pity. Nathan did the only thing he could think of. He brought back the window for his pending talent, and approved it. He could probably undo it later so he could learn magic, but right now he needed all the protection he could get from a powerful mage threatening to rip out his soul.
+
+…It said Permanent. Maybe he couldn’t get rid of it. Shit. Well, something to think about later, after he didn’t have a genocidal archmage staring him down and expecting him to explain how cars worked.
+
+I could just tell him. It’s not like a basic explanation of internal combustion engines will start an industrial revolution. I certainly don’t know enough to make one from scratch.
+
+But on the other hand - not only was this the start of a slippery slope, but maybe the very idea of how to convert expanding gas into rotational energy would interact with some magic he didn’t know about. And Nathan found that somebody making direct personal threats against him to break his principles didn’t make him anxious. It made him enormously pissed off. He was not going to teach this genocidal maniac about technology. He would rather die than enable genocide.
+
+Pending Talent: Moderate-tier Resolute Mind
+
+You have resolved to refuse to violate your principles in the face of overwhelming power. This Talent will make that decision into a personal Talent. You will be harder to persuade to change your mind, and be extra resistant to talents and skills that can charm or influence you. You will also have minor resistance to mental magic geared at influencing you. Less effective on high-tier talents and spells.
+
+Nathan found he could understand the box’s contents almost instantly. And again, almost immediately rejected it. Harder to persuade to change his mind? That would make him useless at science… or anything. Forever. Only an arrogant idiot presumed they were always right and didn’t sometimes need to be persuaded otherwise. That wasn’t something he was willing to sacrifice for what seemed like only a minor benefit.
+
+Taeol tapped his fingers on the table impatiently. Nathan took a deep breath and tried to stop quivering with rage. He was playing for time and information now, until he could escape. “It seems that it is much better for both of us if I cooperate willingly. I apologize for my reaction, but you must have noticed that my world is generally peaceful. We have wars, but most people will never experience violence. The talk of wiping out peoples is shocking to me.” Taeol pursed his lips at Nathan, then shrugged, and with an offhand wave of his hand cast a spell.
+
+[Charm]
+
+Nathan’s eyes saw double for a second. Had he really seen that gesture and heard that spell? Surely his good friend Taeol wouldn’t do such a thing. He was a nice guy, and he was going to teach Nathan magic! Why was he balking at talking about combustion engines - they were really neat and it was fun to explain the basics of science like that. Nathan had spent a lot of volunteer hours in college doing science demos and explaining basic science and technology to younger kids. Surely he could just explain this basic thing to Taeol. And then Taeol would teach him magic!
+
+Taeol the asshole who had threatened him with the worst kind of mental magic.
+
+The moment faded, and Nathan felt the spell slide off him. It tingled as it disentangled itself from his head and puffed away, leaving him clear-eyed and once again, furious. While he had been struggling with the spell, Taeol had been talking. Extolling the greatnesses of his culture, it sounded like.
+
+“... and of course, the barbarians have none of that. What will they do when the next Ending comes, cower in their hovels and beg their ancestors to save them? No, the Giantsrest Dominion brings enlightenment to those we conquer, and we raise them up for it. We are harsh at times, but it is an absolute necessity! Many peoples have strange and ridiculous superstitions and traditions that prevent them from properly fitting into the dominion. But the academy is open to all peoples if they can pass the entrance exam, and our civilizing influence will truly save the world. That is a truth of the fist.” Taeol’s eyes were positively beady as they surveyed Nathan again, gauging the effect of his spell and speech. He apparently decided it wasn’t enough.
+
+[Charm]
+
+This time, Nathan felt the spell hit, and blinked his eyes closed against the tingling, stilling his mind in an instant to focus entirely on the feeling of the spell sliding off. It did so, feeling like a wave of pins and needles sliding over his skull.
+
+Taeol had asked Nathan a question. “I’m sorry, can you repeat that?” Taeol frowned slightly, then repeated his question. “Therefore, with such a glorious cause as ours, don’t you think you can satisfy my curiosity? It’s a simple question. How do those metal boxes move along the ground?” It didn’t seem like this was about Taeol’s curiosity anymore, but his authority.
+
+Nathan didn’t see any way to avoid the question. He hoped that Taeol didn’t jump straight to dominating him, but he couldn’t think of an evasion. He thought about jumping Taeol, but there was a table in the way and the golem was still by the door. He needed to rank up his magic resistance before he challenged Taeol for real. He should go with a soft refusal.
+
+“I’m so sorry Taeol, but I’m feeling overwhelmed and confused right now. You have some really good arguments but all of this is too much. Can you give me some time to try to understand everything that’s happened? I also want to hear more about how your culture governs subjects, and the rights of the citizens before I commit to anything.”
+
+It was weak, and Nathan knew it was weak. But he’d been the target of two mind-affecting spells in as many minutes, so it was the best he could do. Taeol seemed to agree, since he sighed, and stood. “You’re a soft, sentimental boy, but surprisingly resistant to charm spells. It would be so much better to have you cooperate willingly. Next time I won’t threaten you, or mention the inferior peoples at all.”
+
+[Paralysis]
+
+Nathan’s body froze in his chair. He was breathing, but every voluntary muscle had frozen. He couldn’t blink, couldn’t move his eyes. It nearly caused him to panic until he focused on the thrill of the adrenaline still coursing through him. He tried to throw off the paralysis like he had the Charm, but it wasn’t working. The tingling of the spell stayed anchored firmly in his muscles, blocking or jamming all the messages sent to them. He focused on his right hand, trying to throw his entire will into twitching the pointer finger. Nothing happened. He pushed harder, and still nothing happened.
+
+Taeol was slowly walking around the table, coaxing a faint glow along in his hand. He seemed to be muttering under his breath, but Nathan couldn’t spare the attention to listen. He focused again on his right hand, this time imagining sucking the energy in his hands into his bones. He felt… something moving. Like there was another sense in his hand, detecting not pressure or heat but something wispier. He drew that wispy feeling out of the muscles and into the bones of his hand and arm, naming the bones in his hand and arm as he paid attention to them.
+
+Ulna, Radius, the big ones. All the phalanges in the hand, then the mess of small bones in the wrist. They’re all sponges, soaking up the magic.
+
+His hand twitched and then came completely under his control once again. Satisfaction bloomed in Nathan’s mind, competing with the terror. Nathan focused on doing the same to the rest of his body. It wasn’t easy, the paralysis pervaded him and wasn’t letting go easily. The spell started to generally unravel, and…
+
+And he was out of time. Taeol’s hand came down on his face.
+
+[Memory Purge]
+
+Status of Nathan Lark
+
+Permanent Talent 1: High-Tier Magic Resistance 3
+
+Talent 2: None
+
+Talent 3: None
+
+Class: None, level 1
+
+Utility skills: None

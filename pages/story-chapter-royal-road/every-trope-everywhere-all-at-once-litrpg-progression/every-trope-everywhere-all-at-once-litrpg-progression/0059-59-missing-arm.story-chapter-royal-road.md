@@ -1,0 +1,261 @@
+---
+id: bd688c8c-78c7-52ec-8714-b08a363bc9af
+page-type-slug: story-chapter-royal-road
+title: "59 - Missing Arm"
+slug: 0059-59-missing-arm
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 59
+ownLength: 2105
+unit: words
+publishedAt: 2026-06-28
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3601210/59-missing-arm"
+royalRoadId: "3601210"
+---
+
+My wings slowly lifted me above the grass. Kaelor was surrounded by Aurelius and the twin beasts. I couldn’t get close to him even if I wanted to.
+
+His severed arm lay just beneath him. He held the wound with his other hand, doing everything he could to minimize the bleeding.
+
+But the wound was severe. The river of blood wouldn’t stop.
+
+“Why,” I began, my face burning red. “Aurelius… you want his body, don't you? So why would you do this?!”
+
+The angel—no, the demon—stepped behind Kaelor and put a hand against his back.
+
+“Because he’s simply too stubborn to just relinquish his body,” Aurelius said. “If harming the vessel means I would be able to take it, then so be it.”
+
+He brought his hand to the back of Kaelor’s neck and tensed it, as if trying to siphon Kaelor’s soul. A deep purple light spilled from his palm.
+
+Kaelor screamed.
+
+Was it because of his severed arm? Or was it because of Aurelius’s soul magic?
+
+I couldn’t tell. All I knew was that nobody deserved to be in the situation Kaelor was in.
+
+The light shattered as he stumbled forward, panting heavily.
+
+“What…?” Aurelius said, looking at his hand. “You haven’t given up yet?”
+
+Even in the condition Kaelor was in, he found the resolve to smirk.
+
+“You can’t take my soul, can you?” he said, staring at Aurelius.
+
+Aurelius didn’t say anything.
+
+“So that’s what it is,” Kaelor said. “You’re unable to dispel a person’s soul from their body unless the conditions align. I’m not exactly sure what it is, but from what you had said just now, I suppose it has to do with them voluntarily giving it up. Is that right?”
+
+Aurelius gritted his teeth. His reaction said everything.
+
+“That’s not true,” he said.
+
+“You can try to hide it as much as you want, but that explains why you haven’t taken our bodies already,” I said, flying toward them.
+
+The twin beasts stared at me, watching my every move. Even with the brave front I was trying to put up now, I couldn’t stop trembling. Seeing Kaelor in such pain…
+
+I couldn’t bear it.
+
+“You’ll never touch my soul,” Kaelor said, walking over to me. “I’ll never give up.”
+
+I expected them to stop him, but they didn’t. They let him walk to my side.
+
+He was far too wounded for them to try anything. One mistake, and they’d end up accidentally killing Kaelor. Since Aurelius wanted his body, he wouldn’t want that to happen.
+
+“Can you stop the bleeding?” Kaelor asked me, his voice growing weaker by the second.
+
+“I… I don’t know how to cast healing magic.”
+
+“No,” he said. “We don’t need that. Use your flames to stop the bleeding.”
+
+My eyes widened. “You want me to cauterize the wound?”
+
+He nodded.
+
+“But the pain… could you handle it?”
+
+He smiled at me, giving a thumbs up with his remaining hand. “Sure. Any great warrior should be able to handle this.”
+
+I looked at Aurelius and the twin beasts. They remained completely still. They wanted me to stop the bleeding. We all wanted the same thing, but for completely different reasons.
+
+I wanted Kaelor to live.
+
+They wanted his body.
+
+I cast a small fire.
+
+“I’m sorry,” I whispered, my hands shaking.
+
+“Don’t be,” he said, patting my head. “You’re doing me a great favor.”
+
+I hesitated for a moment. He smiled, encouraging me to continue.
+
+I pressed the fire against the wound.
+
+His scream echoed through the sky. It rattled the grass and leaves across the island, shaking the clouds beneath us.
+
+The smell of burning flesh was awful.
+
+But nothing was more awful than hearing something so gut-wrenching from an ally.
+
+From a friend.
+
+When we were finished, Kaelor sank into my shoulder, barely standing. With the wings letting me hover just above the ground, we were about the same height. His breathing was rapid and unstable, and he held back the urge to vomit from the smell and pain.
+
+“Kaelor, are you alright…?”
+
+“Yes… yes, I’m fine,” he said, clutching his severed arm. “But we’re not done yet.”
+
+“...What?”
+
+He pointed at the divine sword in my other hand, then at the wound on my outer thigh.
+
+“Do the same to me as you did to yourself,” he said.
+
+I gasped.
+
+That’s right. If Aurelius had sliced his arm off with the same sword that had grazed me, Kaelor must’ve suffered from demonic blight as well.
+
+I had to act now. Considering how quickly my health had drained back then, Kaelor must’ve been on the verge of death. I couldn’t afford to hesitate any longer.
+
+I slowly sank the sword into his outer thigh, just like I had done to myself. It was safer than anywhere else—far away from any vital organs while having enough muscle mass to take on such an injury.
+
+He wrapped his remaining arm around me, squeezing me tighter the deeper I sank the blade. Darkness began to leave his body, entering the sword.
+
+Moments later, he stopped me.
+
+“That’s good enough. Thank you, Allene.” His voice was much more stable now than it was before.
+
+I pulled out Dawn Sunderer as gently as I could. He winced.
+
+He used wind magic to lift himself off the ground since standing would only make his leg bleed even more.
+
+As we turned to face Aurelius and the twin beasts, we heard a familiar roar in the far distance.
+
+Another beast.
+
+But this time, it wasn’t an enemy.
+
+“Aeris…?” I said.
+
+We looked in the direction of the roar, seeing Meriel standing on top of Aeris as she flew toward us. They didn’t come alone. Countless other allies had also come with them.
+
+As Aeris swept past the island, she unleashed a stream of fire aimed toward Aurelius and the twin beasts. They quickly shot to the air, avoiding the flames as it burned down the grass, setting a large section of the island on fire.
+
+The warriors that Meriel and Aeris came with attacked the enemies right away. But with Aeris’s draconic eyes, she noticed the condition we were in from afar and dove toward us instead of attacking the enemies. As soon as she landed, Meriel leaped off, casting wind magic to soften the fall like it was second nature.
+
+“Aeris, go with the others! I’ll help these two!”
+
+She nodded, roaring and flying off.
+
+Meriel sprinted toward us. “Allene! Kaelor!”
+
+“Save our reunion celebration for later,” I said, pointing at Kaelor. “He needs healing, quickly.”
+
+Meriel’s eyes widened as she noticed what had happened to him.
+
+“Kaelor, your arm—!”
+
+He let out a weak laugh. “Yeah… What can I say? They caught me off guard.”
+
+She pulled out her grimoire, casting healing magic right away. She examined the injury.
+
+“Did you cauterize his wound, Allene?”
+
+I nodded. “Maybe I should’ve waited a little longer for you to come. I didn’t expect you to suddenly arrive.”
+
+She shook her head, glancing at the grass all around us. Kaelor’s blood was everywhere.
+
+“You made the right decision,” she said. “His bleeding was too severe. This is my fault. I should’ve taught you how to cast healing magic. You did good, Allene.”
+
+“Thanks, but Kaelor’s the one who told me to do it.”
+
+He shook his head. “Give yourself some credit. I would’ve bled to death without your flames.”
+
+As she continued healing his burned wound, Meriel scanned the island.
+
+“Is that your arm?” she said, looking in the distance.
+
+I turned to where she was looking. There it was on the ground, lying exactly where I had last seen it.
+
+“Should I grab it?” I asked.
+
+“Yes.”
+
+I blinked. “Wait, really? I was just joking.”
+
+“Now’s not the time to joke. Get it, quickly!”
+
+I flew over to it, picked it up, and returned to them.
+
+“Now what? Are you going to reattach it?” I asked.
+
+She gave me a look. “Do I look like some sort of miracle healer?”
+
+“Then what was even the point of me doing this…?”
+
+“Just put it in that void rift of yours,” she said. “I’ll explain later. It’s best to retrieve a severed limb whenever possible.”
+
+I opened my [INVENTORY] and put it in.
+
+We heard several loud explosions, screams, and clashing blades from up above. The battle waged on as Aurelius and the twin beasts fought against Aeris and our other allies.
+
+“Where are the others?” Kaelor asked as Meriel finished healing his burned wound, leaving behind a massive scar. She moved over to his bleeding leg, healing that as well.
+
+“Reina, Talon, and Tuna are fighting the rest of the monsters alongside our other allies,” she said. “They’re the reason why we’re even here. They’re doing their best to keep the monsters distracted.”
+
+I carefully watched Meriel as she healed Kaelor’s injuries, taking in the green light from her hand and the motions she made.
+
+I looked over at my own injured leg, trying to mimic the spell. With my [MERIEL’S ACKNOWLEDGEMENT] passive skill, it should be easier for me to learn a spell just by watching Meriel perform it. Although I’ve seen her casting healing magic several times in the past, this was the first time I actively tried to mimic it.
+
+As I focused on my hand, green light spilled from my palm. It was much more faint than Meriel’s, but still, I felt something happening with the wound on my leg. I stared as the injury slowly closed. The healing wasn’t nearly as quick as Meriel’s, but at least it somewhat worked.
+
+She looked at me after she fully healed Kaelor. “You’re a talented one, Allene. Most mages spend years studying books and building their understanding of magic before they learn anything. You, on the other hand, seem to have completely skipped that step.”
+
+I laughed. “Good. I don’t like reading anyway.”
+
+For some reason, I wasn’t able to heal the last portion of my wound. Meriel saw it and healed the rest for me. As soon as I thanked her, she reached into her robe and pulled out the staff she had always used.
+
+“Here,” she said. “Take it.”
+
+I looked at the staff in her hand.
+
+“Huh? For what reason? You already gave me Moonweaver.”
+
+“It’s time you upgrade to something that suits you better. You’re already past the beginner magic phase.”
+
+“Already?”
+
+She sighed. “Just take it.”
+
+And so I did, holding it in one hand while my other held Dawn Sunderer. What was I, some kind of weapon chest? Including the broken Tree Sentinel’s Spear, Giant Slayer, and Moonweaver—which were all in my [INVENTORY]—I had a grand total of five weapons.
+
+“Then what will you use?” I asked.
+
+She looked at the book in her hand. “This grimoire that I got from the dungeon will suffice. Though it will weaken my offensive capabilities, I’ll be able to support you and the others better. From everything I’ve seen so far, versatility seems to be your greatest strength. Whether you should use Dawn Sunderer or my staff during combat, it’s up for you to decide what suits the situation best.”
+
+“You want me to use both?”
+
+“I want you to have the option of using both, yes. Meanwhile, I’ll take back the beginner’s staff I gave you. I’ll use that if I ever need to.”
+
+I reached into my [INVENTORY] and returned Moonweaver to her.
+
+“Are you sure about this?” I asked. “It feels so… sudden.”
+
+“It’s better now than later,” Meriel said. “You’ll get used to the staff the more you use it. My mentor did the same for me once. I initially thought I wasn’t ready for such a weapon, but the truth is, you’ll never feel ready.”
+
+[TROPE COMPLETED: THE MENTOR PASSES THE TORCH]
+
+Completion criteria: Meriel gives you her main staff.
+
+[The reward has been kept hidden]
+
+A hidden reward…?
+
+Wait. I’ve seen this before, haven’t I? Back at the Skycurrent Festival, she had also fulfilled her own trope.
+
+If this trope had revolved around me instead, the completion criteria would’ve been about me receiving the staff. But it wasn’t. Instead, it was the act of her handing me the staff that completed it.
+
+What could this mean?
+
+But I didn’t have time to worry about it. The battle above us continued on.
+
+The enemies and our allies were a considerable distance away now, thankfully keeping us out of the battle and giving us time to recover. Still, we had to help them out as soon as we could. Even with our numbers, Aurelius and the twins were far too dangerous.

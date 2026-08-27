@@ -1,0 +1,267 @@
+---
+id: 3d099690-d635-5d44-bb62-90c1b31e3db2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 524: Boot to the Head"
+slug: 0564-chapter-524-boot-to-the-head
+partOf: dungeon-of-knowledge-complete
+position: 564
+ownLength: 4919
+unit: words
+ownProgress: 4919
+publishedAt: 2026-02-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3001686/chapter-524-boot-to-the-head"
+royalRoadId: "3001686"
+markedReadAt: "2026-06-29T20:31:29.497Z"
+---
+
+Ali hovered above the raid group, the sounds of sober, quiet conversation drifting upward as they finalized their preparations. But her eyes – and the senses of all her minions – were fixed on the Avatar of Annihilation floating serenely above the dense magical energy pouring out of the rune construct below it.
+
+It was a named Theuronic Crystal, just as Calen had said, a monster she remembered vividly from the fall of Ciradyl. It could fly and had powerful melee attacks due to its ability to instantly change its form, but the signature of the Theuronic Crystal had been the astonishingly large and potent arcane explosions it could generate.
+
+The rune array is doing something to it, too, she realized, studying the flow of mana from the safety of distance, but it only revealed tantalizing tidbits, as if luring her in to examine it closer.
+
+Four minions hovered around the boss, all clearly enhanced by the domain, but she could instantly see the strangeness Calen had observed. Something about them reminded her of the spirit realm echoes, but not echoes of memory and reality, somehow an echo of mana. They’re not quite… real? It looked like a summoning spell gone wrong, perhaps not quite completed, and then frozen like that. That’s impossible, isn’t it? But every single perception skill she brought to bear insisted they were not illusions either, even though they were shockingly invisible to her Healer’s Sight.
+
+Her eyes drifted upward to the orbiting disk-like platforms and their floating crystal spires, studying the complexity of the runic magic inscribed upon their surfaces – yet again, wishing she could be closer.
+
+How are they inscribed into a barrier? She could infuse runes into stone or metal. Or many other kinds of materials when she created wands or rods. She could even inscribe runes into tattoos and imbue them with the mana of the recipient. But she had never imagined runes could be woven into constructs of pure magic like her barrier. I never tried that, though, she told herself. In truth, the idea had never even occurred to her, except for her old aerial teleportation trap that had dumped zombies into the lake, but that had been done differently. That was more like painting; these runes appeared to be part of the barrier magic itself. A mana tattoo applied to a mana construct? If I wasn’t seeing it with my own eyes…
+
+These platforms would be her responsibility in this first fight. She needed to figure out how to destroy them or at least block the mind control from impacting the raid. She grimaced. If she failed, she would easily find herself fighting her friends. And if she – or Seth – were taken by the mind control, the raid would wipe as they found all the minions turning on them.
+
+“Is anyone not ready?” Lyeneru asked. There were murmurs and shuffling through the group, but the chatter silenced as nobody raised any objections. “Ok. Take your mental fortitude elixirs. Let’s begin.”
+
+Ali reached into her storage and retrieved the elixir made from the strange, dreamlike azure flowers she had recovered from the nightmare, and she downed it. They were ridiculously expensive – the price literally skyrocketing when Weldin and Basil had begun listing them on the auction house – and she was almost certain they would not help all that much against a domain magic mind-control ability. Still, the expense was nothing compared to the risk they were taking – more of an opportunity cost in her case, really, given she could grow the flowers and actually summon the potions herself. Her domain already tingled with the sensation of the half dozen groups of guild members too weak to join the raids that were out scouring her dungeon to harvest the pretty flowers as they respawned. Gold and silver adventurers, herbalists, and alchemists working tirelessly to ensure that the main raid groups would remain supplied – it really took an entire town, didn’t it?
+
+You have gained Mental Fortitude – Eternal Reverie.
+
+“Tanks, begin,” Lyeneru called, her voice carrying clearly across the field, and Ali responded by gathering a sphere of dense barrier magic around herself.
+
+On the bubbling plain below, Mato’s bulky form lumbered forward, followed closely by the shiny, mithril-armored forms of Havok and Sabri bearing heavy shields and looks of intense focus on their faces.
+
+Battle was joined with a crash and a reciprocal detonation of arcane power that hammered outward from the central form and then was echoed an instant later by all four minions. Ali felt the surge of fresh mana as the arcane energies rocked her barrier even at a distance, but she ignored it, her eyes already focused on the buzzing platforms which had suddenly shot off in frenzied swoops and circles.
+
+Even with her focus locked onto the platforms, she still retained enough attention to register curiosity at the sight of the four minions being separated from the boss, transitioning into hulking elementals of death magic as soon as Sabri and Havok dragged them out of the runic circle. This had been one of Calen’s ideas – keeping the boss and its minions locked into opposite affinities should help mitigate the damage amplification. Or so the theory went.
+
+“Shoot them,” she commanded. In response, Sylvan arrows of lightning and nature soared into the air, accompanied by the glacial blue ice bolts from her troll mages. Moments later, her Pyromancer added a blazing dash of orange-red firebolts, and around her eager fire user and the rest of the melee fighters, holy fireballs began to land, rocking the ground with a buffet of shockwaves and white flames.
+
+Ali frowned at the sight of the platforms and their unexpected interaction with the rain of spells. They’re absorbing it? All of it? The four platforms zipped out of the blast zone, and if her assault had caused any damage, she could find no sign of it.
+
+With a loud, droning buzz, a purple crystal platform swooped down upon the melee, and Ali immediately encased it in a sphere of her own barrier magic, perfectly trapping it inside a bubble, but without hesitation, it teleported out of her trap, appearing amongst the fighters and turning her smile into a sudden frown. Hey!
+
+The glittering purple crystal spire floating above the runed platform darkened suddenly, shadowed by a dense formation that rapidly coalesced within its faceted core and fed power through an enormous conduit of mana drawn from the domain. A bolt of black lightning shot out from it, striking Devan on the back of her head. The deadly demon hunter stumbled, but the lightning continued to arc, crackling between her and the crystal and pulsing with an ominous energy. Sparks of black wreathed her head, and she stood up, surveying her surroundings with eyes shockingly devoid of awareness. Then her dagger flashed, burying itself in Mato’s flank.
+
+Fuck! She’s mind-controlled! Ali instantly summoned a barrier to contain the pulsating crystal, but the dark lightning continued to arc downward, passing through her golden magic as if it were not even there. Ali had no time to study the effect: Devan’s dagger flickered again, and Mato’s health dropped dramatically. In a flash of alarm, Ali summoned a new barrier, this time trapping Devan within a sphere of glittering gold.
+
+She ignored the bolts of death magic detonating against the golden barrier before her and the pulsing shockwaves of dense purple Arcane Blasts, focusing all her mind and skills on the dark, crackling mind control tether. Her primary task in this attempt, assigned to her unanimously by the raid leaders, was to figure out a way to neutralize the mind control spell. It had the greatest potential to destabilize their teamwork and safety. It didn’t take long for her to understand the spell; it wasn’t particularly complex, but within the presence of domain mana, it was enormously powerful. A thing of brute force, not subtlety. Carefully, Ali adjusted her arcane formation until it was the perfect counter. She released the needles of gold, sending them flying outward in a tight fan and studied the mana as they pierced the black magic that tethered Devan’s mind to the crystal, but to her dismay, her Dismantle disintegrated on contact, her delicate spell failing to penetrate and instead being ripped apart by the raging torrent.
+
+Again, she ground out, gritting her teeth. She would not be defeated by a mere crystal. Ali crammed more mana into her formation, every little trick she had learned, every detail, every scrap of efficiency, and she unleashed it again the instant she was able. But her thread of hope riding along upon those glittering golden needles shattered just as abruptly as they did.
+
+Another buzzing platform zipped by, its attached crystal darkening like a cloud-covered sun, and Ali saw the nascent mind-control spell forming within. Urgently, she formed her needles again, this time using Disrupt, but the domain protection was just as powerful, rebuffing her magic before it had even the slightest effect. The arc of black lightning struck Calen between his shoulder blades, and he instantly whirled about, turning his bow upon her and her healers. His arrows shattered spectacularly, blowing up in his face as Ali’s barrier penned him in. Another droning buzz whined past her left-hand side, and a fresh arc of lightning shot downward, and Ali was forced to trap another mind-controlled adventurer, not even able to try Disruption now that her skill was recharging.
+
+I need to break the runic structure of the entire platform, she realized suddenly. Just like breaking Nevyn Eld’s array. There had to be a reason the crystals were flying around with the rune-covered platforms. If she could just get to the runes to study them, she might have a chance. Surely, breaking a mind-control spell platform was easier than the death knight array at Aman Rak?
+
+There was only one problem. Getting close to the evil mind control crystal when she knew it would ignore her barrier was taking an extreme risk, especially considering the raid was counting on her to deal with them. On the other hand, dealing with them without reading the runic structure was going to be impossible. She had the highest wisdom in the raid, and she was using an Eternal Reverie elixir, but the group would almost certainly collapse if she were mind-controlled and her minions turned on them.
+
+On the other hand, she was a summoner, and she had access to tools most people could only dream of. She summoned a flight of Glitter Dragonets and released them into the smoke-filled air, and before she immersed her awareness into them, she surrounded herself in a thick bubble of barrier magic. Her second-tier barrier skill clicked into place, quieting the sounds from outside, and she set it to keep her aloft while she followed her golden flight.
+
+Comfortably ensconced in the bodies of her tiny dragons, she gave chase, swooping and diving after the crazy zigs and zags as they followed the demented platform wherever it went. Seen from the perspective of draconic eyes, the smoke-filled battlefield below took on an indefinite sharpness as their instincts tracked danger and mana wherever they saw it. She swooped and dove at the nearest platform, fanning out her tiny minions in an effort to bracket the platform. It dodged, banking hard, but Ali had a dragon flying on that flank. As the platform swooped by, she folded her wings and fell like a stone.
+
+The instant she reached the platform, all sense of crazy inertia and momentum vanished, and she found herself standing easily upon a motionless disk of mana while the world spun and tilted outside. She ignored it, directing the full force of her gleaming draconic eyes to memorizing and analyzing the glowing runes beneath her tiny draconic claws.
+
+There was a loud but oddly distant buzzing, and the world flared with a dense, dark burst of mana, and then something struck her a ringing blow on the back of her head.
+
+Mato felt the difference from his first Swipe. While the heavy adamantium mace and shield had vanished, incorporated into his Dire Bear Form by the magic of the shapeshifting transformation, the weight was most definitely still present. He felt it in the momentum of his paws.
+
+His claws struck a resounding blow on the crystalline surface of the arcane elemental. Nature damage surged like a bright, popping flare, ripping into the pristine purple surface and leaving claw trails and flying crystal shards.
+
+Is that Spell Piercer? he wondered. Or just the extra damage? It was hard to tell, really, but it hardly mattered. He was grinning from ear to ear – probably a terrifying look on a dire bear, but he didn’t care to give it that much thought.
+
+He braced in response to his Survival Instinct and found himself somehow naturally blocking a huge burst of arcane energy. Oh, I can definitely get used to this!
+
+You have been afflicted with Arcane Amplification.
+
+But the giant elemental before him was not simply going to stand there and blast him with magical explosions. A shaft as thick as his thigh suddenly shot out of the featureless surface before him, completing a wide arc and smashing into his head and shoulder and driving him back two feet. His claws scraped through the dirt, all the way to the dense magical runework below.
+
+Your Arcane Amplification has increased to 2.You have been afflicted with Rend Armor.-1% to Armor. Duration refreshes on reapplication.Physical – Duration: 30 seconds. Count: 1
+
+He shook his head, trying to clear the ringing, his grin getting broader. This guy can hit!
+
+A spike lanced out from the other side, aiming to impale him, but he had Critical Block ready and waiting. A great crash rang out across the battlefield as his block shook the ground.
+
+You have gained Onslaught.
+
+His claws glittered as the blow accelerated, trails of void magic slicing through arcane armor like butter. At least, if he were slicing butter with a knife hot enough to vaporize it. He fed power to all his support skills, resulting in a spray of shards and cracks that spiderwebbed across the glasslike surface before him. A nova of nature magic rippled outward, healing his allies and doing even more nature damage as Brutal Restoration triggered off the Crushing Blow.
+
+But it was the new surge of nature magic, settling upon the monster like a glowing cluster of twining branches within it, clutching for its heart.
+
+Is that…
+
+But his next strike answered his question instantly. The nature damage inflicted by his mace’s enchantment struck deep and powerfully, clearly benefiting from the sudden application of his Nature Vulnerability curse proc. Oh, boy! That’s really cool!
+
+But the boss clearly did not like that. Not even one bit. Three spikes shot out simultaneously to impale him, and a heavy blunt protrusion smacked him hard in the chest, cracking several ribs.
+
+Your Arcane Amplification has increased to 5 (+4).Your Rend Armor has increased to 5 (+4).
+
+He coughed up some blood, but his healers were already landing their potent spells, restoring him to the range where his own Brutal Restoration could take care of him. But as he felt his health stabilize, something powerful stabbed him in the ribs so fast not even Survival Instinct could help him avoid it.
+
+You have been poisoned.
+
+He risked a glance to the side, just in time to see Devan wearing a halo of black lightning and stabbing him a second time.
+
+What the fuck? Devan?
+
+There was no way to defend himself against the sudden betrayal as he immediately found himself blocking several new spikes and another Arcane Blast from the boss, but before she could lift the dagger again, a thick golden globe of barrier magic snapped into place around her, leaving her raging inside like a trapped, feral animal as she tried to stab her way out.
+
+“Thanks, Ali.”
+
+Carefully, he shifted the boss sideways to give himself room to fight as the huge elemental boss belched out a vast swarm of small flying elementals into the sky.
+
+Ali woke curled up tightly into a fetal ball in Malika’s lap. Her head throbbed like it had been cracked by Thuli’s hammer.
+
+“What… happened?”
+
+You have gained Clarity.
+
+The sudden infusion of Malika’s intense healing ripped her headache away, shredding it and leaving her suddenly gasping in its wake.
+
+“You got mind-controlled,” Malika answered, matter-of-factly.
+
+“Oh,” Ali said, her memories coming back in a rush. She had been in the process of studying the runes when something had snuck up on her and hit her head. Some dark magic.
+
+“Most of the damage to the town will respawn, and nobody was seriously injured, thank goodness,” Malika continued. “Havok and Lamyndra have a line of people to heal, but they should all be fine.”
+
+“Wait, what?” Ali gasped.
+
+“You got mind-controlled by the boss,” Malika said. “What do you think it did with all your minions?”
+
+“Oh, no!” Ali exclaimed, jumping to her feet. Ugh! Too fast. She had to grab Malika’s shoulder or she would have fallen over.
+
+Seriously? I got – just like that? She had been worried about her raid summons messing up the guild group, but she had not even imagined it would take over the bosses she’d placed on the battlements and the monsters guarding the town. How did it even do that? That’s far worse than any of us imagined. My whole dungeon?
+
+“It’s ok,” Malika said. “I just said everyone is taken care of.”
+
+“But I hurt them.” Not all the townsfolk were her friends, not even a lot of them, but many of them she had no grudge against, and hurting innocent people was not something she was even remotely comfortable with.
+
+“The boss did, not you.”
+
+“I didn’t know it could use my skills like that,” Ali said. Of course, in hindsight, it made a crazy sort of sense – a bit like her efforts to control the minions of a minion she’d turned into a dungeon with Nevyn Eld’s artifact.
+
+“Yes. You started disrupting spells, casting barriers on random people, and all your minions went berserk. Lyeneru called the retreat immediately. The mind control has a range; it dropped the instant I got you out of there. You were out for no more than twenty seconds.”
+
+Ali felt the weight of shame and embarrassment falling heavily on her heart. When Devan or Calen had been mind-controlled, she had simply locked them away in a bubble of her magic; it had never occurred to her that she might be vastly harder to contain. A disruption of that magnitude in the middle of a champion-level raid was how people got killed.
+
+“I can’t let that happen again,” Ali muttered.
+
+***
+
+Ali sat in the library, notes and runic reference manuals strewn across the table before her, but her heart was not in it. Sure, she’d memorized the entire layout of the platform’s runic structure the moment she’d smuggled her dragonet on board, and she’d easily been able to interpolate some of the most important functions, but her attention was elsewhere. Out in the dungeon, she watched the guild struggling with the Avatar of Annihilation through the eyes of her minions. This would be the third try since she had decided to sit out, and it was going just as badly as the first two.
+
+The fight had begun as normal, the tanks splitting the boss’s minions over to the death aspect, while Mato tanked the boss in its arcane form in the center. The platforms buzzed around, randomly controlling people right up until they got someone strong enough, or in the wrong place.
+
+Then, the entire raid fell apart.
+
+Seth had shown up to all the subsequent attempts after her failure without any minions, instead relying on curse magic only, but the one time Mato had been mind-controlled, their whole strategy had instantly collapsed.
+
+Unfortunately, without her barrier magic, nearly everyone other than the healers had the power to cause serious mayhem to the delicate balance of a raid group struggling against a powerful foe.
+
+She closed her eyes as Lyeneru called the retreat, yet again. Perhaps the last one for today.
+
+Ali blinked a few times, battling against a sudden upwelling of sadness and frustration. Her abilities were so critical to the raid, and yet her presence there was a real danger to the town and all her friends. People had gotten hurt because she had been mind controlled. Innocent folks who were just out shopping, working, or enjoying their day. She sighed, wishing for the millionth time that she could turn once again to Lira for a few kind words of wisdom.
+
+She always knew what to say. And, remember Mieriel?
+
+Suddenly, all those feelings of violation, of utter helplessness, welled up from the pits of her darkest nightmares. The tears came spilling out. She did not sob or cry, but still, they just tracked down her face as a chasm of loneliness split her heart. Lira was gone, and Ali couldn’t even fight to help the raid out there, struggling to recover the Well of Souls. The Well that she needed to cleanse her aunt’s acorn – if that even worked, if she could even allow herself the smallest sliver of hope.
+
+It's unfair. So… so damn unfair! As her silent tears ran down her cheeks and waves of thick, impossibly overwhelming emotions surged over her repeatedly, something heavy settled in her lap, shuffling about a little. She glanced down to find an Eldritch Tome trying to snuggle up against her.
+
+“Clarence? Are you trying to cheer me up?” she asked, wiping her face with the back of her hand.
+
+The moment she noticed him, the book snapped open, riffling through its pages in clear excitement – a bookish ‘look at this!’ that made her lips quirk into a small, sad smile. Then, he flopped open and shifted his covers a little in her lap as if encouraging her to read. Ali slipped her hand down and scratched along his spine where she knew he liked it, and got a shiver of happiness from the book. Her eyes settled on the pages, and suddenly she froze.
+
+Chapter 1173: A Few Notes on the Subversion of Magic.
+
+What is this? Why did you open here? But her eyes were already rapidly scanning the dense text written in her mother’s impeccable hand, and suddenly her sense of sadness and frustration vanished, replaced with astonishment and excitement at what Clarence had found to share. In seconds, she had her Study Trance running, and her hands were reaching for all the notes she had made of the runic magic from the platforms.
+
+If this can work…
+
+***
+
+“… so, if I can just replace the fundamental meta-structure of the formation with these runes here, I think we can access the main target module directly via this conduit in the second layer,” Ali said, and looked at the faces around the conference table expectantly.
+
+But they just stared blankly at her.
+
+“What?” she asked.
+
+“Ali, none of us have any idea what you’re talking about,” Calen said. Sitting beside him, Lyeneru and Vivian both nodded.
+
+“Can you simplify it?” Malika asked gently.
+
+“I need to get on one of those platforms. There’s something I need to check about the runes powering the mind-control spells,” Ali said, not allowing the frustration to creep back into her voice. The idea was at once so simple, and yet so profound that she simply couldn’t even imagine what might be possible – but she had to see. “If I’m right, I think I can neutralize those crystals.”
+
+“Can you do it remotely?” Calen asked, clearly worried about the implications.
+
+“No, I don’t think so,” she said. She would likely need her Study Trance to run for at least twenty to thirty seconds, and there was a section she would need to verify, and the only way she knew how was with her own second-tier mana sight. Unfortunately, the chances of her getting mind-controlled again were high.
+
+“What about the town?” Aiden asked.
+
+“I was thinking I could despawn the monsters while we’re raiding,” Ali said. “Maybe we can ban people from raiding in my dungeon for a bit? I’m almost certain I’ll get mind-controlled again.” She would need to completely change her minions for the raid, too, but she had a few interesting ideas.
+
+“Good enough for me,” Lyeneru said, letting her frustration at the fight show on her face. “We could use a breakthrough.”
+
+“Not everyone will listen to a ban from the guild,” Vivian said. “But I don’t think that’s your responsibility, then. I’m good with it, too. It’s certainly a better idea than what we’re currently trying.”
+
+“But you said you didn’t even understand it,” Ali objected.
+
+“Yes,” Vivian answered, leaving her implication loudly unspoken.
+
+“It was really that bad?” she asked. She had been watching, participating, at least remotely. But the chorus of agreement and nods around the table told her the full story.
+
+***
+
+Ali hovered above the raid group, the sounds of sober, quiet conversation drifting upward as they finalized their preparations.
+
+“I’ll give you Clarity,” Malika said. “And get you out if it takes you again.”
+
+“Thanks,” Ali said, smiling at her friend.
+
+For this attempt, Ali was accompanied by the most bizarre set of minions she had ever brought to a fight. A veritable glittering horde of thousands of low-level golden arcane elementals swarmed around her. Every single one of them was chosen for two abilities: immunity to arcane damage and the ability to fly, and, just in case that wasn’t sufficient, she had a cloud of thousands of Glitter Dragonets cavorting above her head.
+
+She had two objectives: get herself on the platform, a task that promised to be extremely challenging, and give herself enough time on the platform to complete her work.
+
+“Ready, Aliandra?” Lyeneru asked.
+
+“Yes,” she said, nodding firmly and trying to ignore the racing in her heart.
+
+“Time to kill this boss with glitter and sparkles,” Mato said, his joke causing a ripple of chuckles and snorts to travel through the group of ready raiders.
+
+“Hush, you,” Calen said.
+
+“Begin,” Lyeneru commanded.
+
+Mato charged forth with Havok and Sabri flanking him, beginning the fight as usual. The only change to their normal strategy manifested early when Sabri and Havok kept the minion elementals within the arcane circle on the ground. The raid would be stacking up Arcane Amplification far faster this way, but it did mean all the damage would be only arcane magic.
+
+Brimming with determination, Ali released her swarm into the battlefield, filling the air with elementals spread out as evenly as possible. The swarm formed a stunning starscape of glittering golden light. They shimmered and shifted like gossamer curtains under the compression waves of the continuous purple spheres of exploding arcane damage.
+
+The buzz of the crystal platforms filled the air, and they shot out in their crazy, unpredictable trajectories, cutting jagged lines through her starfield of elementals. She reached out with her mind, connecting to every single one of them. She calculated trajectories, estimated speed, and computed velocities using thousands of perception skills dotted throughout the space. No matter where the platforms went, she had a teleportation target ready and waiting.
+
+There! She suddenly chose, triggering Minion Teleport and appearing right in the path of a crystal platform. But at the last instant, it changed trajectories, darting sideways, and she fell past the edge.
+
+With a thought, she summoned a barrier by her feet, watching nervously as the dark lightning flickered outward, hopping between elementals at random, but she couldn’t risk waiting, so she used Arcane Recall and reset her teleportation recharge. She teleported again. This time, her calculations proved far more accurate, and she appeared right on top of the platform.
+
+Instantly, all momentum ceased, and Ali found herself standing easily upon the runic magic she had studied in the library for hours. It took less than a fraction of a second for her accelerated perceptions to verify the runic formation, quickly discarding several of her leading theories as she saw the mana flow with her own Arcane Insight. Option six, it is, she said, although there were a few minor variations she hadn’t predicted. Now to see if it works. She summoned her prepared counter formation, making a few tweaks before unleashing it upon the platform itself. Tiny needles of golden mana shot down into the runic structure, instantly seeking the targets she had marked out during her studies in the library.
+
+Please work, she thought as the magic in the crystal suddenly darkened.
+
+To her utter amazement, the runes twisted, and the magic warped. A great bolt of dark lightning burst forth, arcing down from the crystal to the ground to pierce one of the boss’s quasi-real Theuronic Crystal arcane minion elementals, and for a fraction of a second, she felt the connection.
+
+Oh, goodness! Can it do that?
+
+Ali’s notification chimes sounded in the back of her mind. Several lines of glittering gold text appeared in her mind’s eye.
+
+Arcane Insight has reached level 120 (+2).Runic Script has reached level 88 (+3).Sage of Learning has reached level 90 (+2).
+
+And then, something hard hit her on the side of her head, and everything went black.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

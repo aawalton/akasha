@@ -1,0 +1,143 @@
+---
+id: aa46f581-3a80-564d-a061-34351ec6afe0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 284: Return to the Mines (Part 2)"
+slug: 0318-chapter-284-return-to-the-mines-part-2
+partOf: dungeon-of-knowledge-complete
+position: 318
+ownLength: 2259
+unit: words
+ownProgress: 2259
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2366099/chapter-284-return-to-the-mines-part-2"
+royalRoadId: "2366099"
+markedReadAt: "2026-06-29T20:22:05.642Z"
+---
+
+Mato charged the first pack of elementals, and Ali’s minions tore into them with him, dropping frost breath whirling axes onto the fire monsters.
+
+“Adds!” Calen yelled as a second patrol saw them and charged in.
+
+“Frost nova,” Ali called. “Free Action Totem.” Her minions instantly carried out her instructions, freezing the double pack of elementals in place and filling the intervening space with ice bolts and icy dragon’s breath. Her berserkers ignored the ice, tearing through the elementals with a twin Blood Vortex that caused everything to explode or drop, and even flung a few Lava Lurkers out to splatter against distant rocks.
+
+“That’s a good way to get more adds,” Calen said.
+
+“Maybe we should do it on purpose?” Malika answered. “It doesn’t seem to be a problem with all the area damage and ice.”
+
+“Sure,” Calen said. “I can bring a few more too. Let’s go get some more experience. Every bit counts.”
+
+Her friends were hungry for that evolution too, Ali realized.
+
+What followed was a raging pack of destruction that progressed through the cavern as Calen swept up every single group of monsters with explosive multishot, drawing them into the blender that was Ali’s berserkers. Everything that approached was frozen by chain-cast Frost Novas and ice bolts, and anything that got away got webbed to the ground by either the Abyssal Stalker or the Frost Weaver – or chained to the ground by Calen’s light magic.
+
+It was nonstop utter chaos, but somehow it was incredibly effective, and in less than half an hour, Ali found herself staring at the great stone amphitheater and the gigantic fire elemental waiting for them there. She hadn’t even needed to refresh her or her trolls’ Elixir of Fire Resistances yet since the start of the mines.
+
+Inferno [The Consuming Flame] – Elemental – level 73 (Fire)
+
+“Same plan,” Calen said.
+
+“Let’s go,” Mato said, shifting to bear and stepping out onto the heat-shimmering rock.
+
+Ali checked her recall potion, pushing her nerves down. We’re a lot stronger now, she told herself, but this fight had always been a challenge – especially with the elemental storm ability and explosions. As they drew closer, she could feel the waves of heat radiating off the towering, domain-enhanced elemental of flame.
+
+“What manner of puny creatures interrupts my contemplation!”
+
+Ali clapped her hands over her ears as the rumbling roar of the Inferno’s voice shook the cavern, making chunks of rock fall from the ceiling. Every time they had fought this boss, his voice always took her by surprise. “Why so loud?” Ali yelled, but the elemental’s only response was a louder roar.
+
+“DIE WEAKLINGS!”
+
+The boss struck downward with a double-overhand blow to Mato’s back, but instead of crushing the bear, there was a loud crack and a shockwave tore through the heat and the shimmering air, making lava burst and jump wherever it hit the ground, and the fire elemental recoiled from the impact of Mato’s Critical Block.
+
+“Go!” Calen yelled, taking to the air on his wide shimmering white wings of light, arrows raining down in a powerful glowing stream.
+
+“Begin,” Ali echoed, sending it to all her minions, picking a spot a little back from the main melee and erecting a large glowing golden barrier for her and her Acolyte to hide behind.
+
+“Yes! Kill!” one of her berserkers roared, and both of them leapt across the intervening lava and cracked rock, axes glinting in the light of the flame.
+
+The air filled with flying Frost Dragonets – her two, and her ice mages’ familiars, darting around Calen’s glowing form while they swooped down to deliver breath attacks of ice. Arcing streams of ice bolts lanced out, ripping into the elemental’s body, while her bone warriors, shamans, and berserkers joined Mato and Malika in the thick of melee battle.
+
+“Explosion!” Ali yelled, recognizing the mana pattern from before, and feeling the strange prickle of information shifting in her mind as Sage of Learning began to draw from her mana pool. She felt a moment of worry before she remembered she had almost twenty-thousand free mana, and that was after the reservation for her entire dungeon and the minion army she had brought.
+
+The concussion wave of fire burst outward from the Inferno, shattering rock and sending lava, and all her minions, flying. But Mato bounced off the improvised barrier wall she had summoned right behind him, and the previously terrifying blast wave crashed against the barrier protecting her and her acolyte quite comfortably. Her berserkers, bone warriors, and shamans flew off into the distance, but they all used their movement skills to return, leaping across the shattered stone, charging with Bone Rush, or teleporting to the blood totems that had been left behind in the melee. Those with flying skills barely moved, arresting their momentum as soon as the shockwave passed, and her troll mages teleported back to their familiars and resumed fighting. Malika hadn’t even paused her attack, dodging the entire shockwave.
+
+Well, that’s a lot better, Ali thought. She hadn’t even had to use Minion Teleport to save anyone. Having high-level minions seemed an incredible luxury, now.
+
+“He’s summoning!” she yelled when the mana patterns shifted. “Frost Nova. Blood Vortex,” she commanded as soon as the dozen or so Shards of Inferno appeared, and the berserkers turned the suddenly icy rock and frozen elemental spawn into a blender of blood and steel while Calen rained devastating volleys of explosive arrows down on them.
+
+“Explosion!” Ali shouted, seeing the mana twisting into the familiar spell formation, but this time, she was ready. Using her memory of thousands of explosions from the Living Flames, and the slight variations she had just learned from the Inferno himself, she pulsed her mana into Arcane Insight, trying out her Disruption for the first time. A glittering formation of golden magic wreathed her outstretched arm for an instant and then crossed the intervening space so fast, she almost couldn’t see it. Tiny, delicate golden darts tore through the formation of fire, shredding it right as it manifested, and the entire construction fizzled with a rather pitiful pop, at least compared to the power of the spell she had been expecting.
+
+I didn’t know it could work on bosses, she thought. But the Explosion of the Inferno was not a domain magic spell, so she would still need to test it against one of those.
+
+A few moments later, the vast core of domain mana ignited within the Inferno.
+
+“BURN TO ASH!”
+
+“Hide!” she yelled, recognizing the coming Elemental Storm of fire. She commanded her minions, and everyone rushed to find any protruding rock in the blasted rocky chamber. As she hunkered down behind her rock, flame exploded outward from the Inferno with the familiar deafening roar that shook the rocky cavern to its very foundations.
+
+But the flame did not reach her boulder this time, and she popped the head of a berserker up to look. What she found was an incredible sight – flame rushed outward from the Inferno in all directions like an inexorable tide, but her barrier endured, parting the flames around it and leaving the leeward side sheltered from the storm.
+
+I can block it? Her mind filled with the heady rush of the glut of mana pouring into her mana pool, recovered from the intense fire magic absorbed by her barrier. She stood slowly, and then one by one so did her friends and minions.
+
+A flicker of magic beside her accompanied the lancing ice bolts as her troll mages resumed the fight, shooting their ice magic right through her barrier, reminding her of the Spectral Ice support skill they possessed.
+
+Then, to her shock, both berserkers leapt over the barrier into the flame, tearing into the Inferno while it channeled its magic. Their health began to spiral downward, but both of them began laughing as their damage and rage spiked.
+
+“Heal them!” Ali commanded, and ribbons of bright red arced over the barrier to the berserkers, and her little acolyte triggered her Devotion skill, glowing with holy light.
+
+Malika reached a hand past the barrier and into the flame, gazing at it curiously for a moment, and then she vanished, appearing beside the enraged berserkers in the middle of the storm of fire, punching while her cascading healing magic pulsed outward from her in rippling waves.
+
+Then Mato charged into the flame. To Ali’s intense surprise, none of them died. They were taking enormous amounts of damage, but it was still much more manageable than Tol’brekk’s Blood Vortex.
+
+“Go all out, it’s vulnerable,” Calen said, igniting his mana and lofting his arrows over the barrier.
+
+Ali glanced at him in surprise, but she called for Bloodlust and stared in amazement as the Inferno’s health suddenly began to plummet. A low thunder of ramped-up damage poured over the melee group as a slew of attacks landed in quick succession, far too rapidly to follow every strike.
+
+Your group has defeated Inferno [The Consuming Flame] – Elemental – level 73 (Fire).Your Acolyte of Azryet has reached level 38 (+4).Your Abyssal Stalker has reached level 50 (+2).Your Frost Dragonet has reached level 66.Your Bone Warrior has reached level 81.Your Ice Mage has reached level 84.
+
+Again, Ali’s Grimoire spontaneously manifested and began updating all the imprints for her minions, reflecting the growth of their levels in response to the fight. She could even feel it in the deeper understanding as her Martial Insight connection grew with her minions’ increase in power.
+
+“Minion Ego is incredible,” Ali said as their group made its way quickly back to the Landing. “My acolyte has gained fifteen levels since we started.”
+
+“Maybe you should summon a rogue for this next part, and have them stab the wargs?” Calen suggested. “You liked the little kobolds, right?”
+
+She considered it for a second, but although right now she preferred the Abyssal Stalker for her melee damage minion, they had severe limitations against monsters without blood – like the elementals they had been facing. Perhaps having the kobold Dagger Rogues as an alternative wouldn’t be so bad, she decided. I should always plan to have an option in my back pocket. I’ve got work to do. Calen could help me prioritize…
+
+***
+
+Your group has defeated Demon Hunter – Flamecaller Elemental – level 75 (Hellfire)Your Dagger Rogue has reached level 30 (+5).Your Acolyte of Azryet has reached level 41 (+3).Your Abyssal Stalker has reached level 52 (+2).Your Blood Shaman has reached level 84.Your Witchdoctor has reached level 88.Your Blood Berserker has reached level 98.
+
+“I need a few moments,” Ali said, sitting down and taking a second for the first time in their mad whirlwind through the Emberforge Mines. She needed time to think.
+
+“What’s up, Ali?” Malika asked.
+
+“I don’t want a repeat of the cross-realm dungeon break,” Ali said, staring at the shimmering pane of broken reality that led to the Abyssal Realm. The fight had been surprisingly trivial; Ali had been the first one marked as Prey by the boss, but she had bubbled herself in her barrier and learned to dismantle the curse while Calen, her mages, and her berserkers cleared the room of any demons that had the temerity to join them from the other side.
+
+With so much area damage, the boss’s trick of vanishing to leave mirage illusions of himself had been entirely ineffective.
+
+“Maybe leave some minions here?” Calen suggested.
+
+“Yes, I can just make a whole lot, but I can’t take all these minions with me to the Corrupted Drake fight anyway,” she answered. In the end, she made the hard call, choosing to leave all her lower-level minions in the rift chamber because she would likely have to unsummon them for the last fight anyway. Her acolyte was high enough level to keep everything alive provided there wasn’t a sudden large invasion, so she made a fresh ice mage and left the frost dragonet, the frost weaver, the rogue, and the abyssal stalker behind to guard the rift, reducing her army to ten of her most powerful minions.
+
+Then she picked skills for her rogue and her acolyte.
+
+For the rogue, she shared her options with her friends, and both Malika and Calen recommended Flurry of Blows – a melee haste enhancement that seemed like it might become rather impressive as it leveled up.
+
+Flurry of Blows – level 1Stamina: Gain +11% [10 + skill] melee haste for 30 seconds. Recharge: 5 minutes.Physical, Melee, Haste, Dexterity
+
+“If that’s anything like the dual wield one the kobold warriors have, you might be able to advance it to do area damage,” Mato suggested, approving also.
+
+For her Acolyte, she picked a skill named after their namesake, the Dragon God, Azryet. A skill she was disappointed she wouldn’t have for the Corrupted Fire Drake or the Phoenix of Living Flame when they got there, but it would take too much work to level her Acolyte, and they didn’t exactly have the time.
+
+Azryet’s Gift – level 1Mana: Cast Azryet’s Gift on an ally. If they are damaged before it expires it releases holy energy in an instant heal before jumping to a random nearby ally and refreshing its duration. Azryet’s Gift can jump 1 [1 + skill / 10] times before it expires. Duration: 30 seconds.Holy, Healing, Buff, Area, Wisdom
+
+Even so, she couldn’t wait to see it when it was leveled up to match her most powerful minions.
+
+“Ok, let’s continue,” Ali said.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

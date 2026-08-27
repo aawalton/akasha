@@ -1,0 +1,147 @@
+---
+id: 082eed6e-64d9-5ba9-8f68-66515ed5acbe
+page-type-slug: story-chapter-royal-road
+title: "Ch123 Acquiring Property"
+slug: 0123-ch123-acquiring-property
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 123
+ownLength: 1849
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3836557/ch123-acquiring-property"
+royalRoadId: "3836557"
+---
+
+Feng Minshun sees me approaching, and his expression shifts to visible disgust.
+
+He stands up from his seat, while other members of his clan look up at him in confusion.
+
+“What do you want?” he grunts out, gritting his teeth in anger.
+
+“I was just stopping by to say hello, I don’t know many cultivators in Lingshi City, I thought I’d start by approaching the first familiar face.” I reply, crossing my arms and putting on an unassuming calm smile.
+
+This only angers the 7th level qi refiner more. He lets out wisps of his aura, but restrains himself from overreacting.
+
+At the same time, the Feng Patriarch stands up to greet the incoming Wang Ming and Wang Yang on the other side of the table.
+
+Mid bow, almost interrupting his words of courtesy, I provoke his son further.
+
+“Also, I haven’t seen you in the Quest Hall all month. I wouldn’t normally be so rude as to ask for the winnings of our bet in such a public setting, but considering how well you’ve been avoiding me, I fear I’ll never get another chance to see you again.”
+
+The middle-aged man’s face turns a brighter shade of red, and my words get the attention of everyone in his family, surrounding clans, and most importantly the Wang Patriarch.
+
+Feng Minshun’s soul twists with embarrassment, “It was dumb luck, I tripped and there was no time for a rematch! I- You- do you think you could truly beat me in a real duel? I already gave up my slot in the Misty Forest expeditions for you, what more do you want?”
+
+I calmly step back with a smile, replying louder than necessary, “Is that right? Even though I won, your Feng family won’t pay up the full amount because you want to change the terms we both agreed on after the fact? That says a lot about your clan…”
+
+I shrug and begin to turn away; qi refining clans nearby start to murmur.
+
+“What is the Wang family’s honorary guest talking about?”
+
+“That initial stage qi refiner won a duel against a late stage qi refiner?”
+
+“Clearly he used some trick to win, how could he beat the strongest heir of the Feng Clan in a fair fight?”
+
+“Does it matter? He still won a duel, Feng Minshun admitted it. He’s being a sore loser.”
+
+“That is disgraceful. It’s even slighting the Wang Clan if you think about it. If they’re capable of backing out to a force like this, why would we ever trust them to keep their word with us?”
+
+The whispers spread, and a few green-robed qi refiners nod along, recalling a rumor that was spread around a few weeks ago, but they weren’t sure if it was real until now.
+
+Feng Minshun’s clenched fists begin shaking, but a stern voice cuts through the air from Feng Baishan.
+
+“Enough chatter. This is clearly a misunderstanding. Li Hao, was it? What does my son owe you? I shall pay off his debt and deal with him later.”
+
+The old man’s grey beard covers most of his facial expressions, but he instantly can tell that I came here at this exact moment on purpose.
+
+I smirk and look at his son, “Tell him. Tell him what you wagered against my rights to stay in the outer sect, hoping to win your brother my slot.”
+
+A few gasps roll through the crowd, as now it’s not just a few tables turned our way, it’s almost half the venue.
+
+The man’s teeth grind, as I can tell he doesn’t want to speak, but some of the outer sect disciples are already echoing the old rumors that were going around, so he repeats their words in confirmation.
+
+“It was the rights to our largest family shop… the one on Jade Market Alley, one street over from the main town square. I… was certain I wouldn't lose-”
+
+Feng Baishan’s eyes widen, and he walks around the table. The old man slaps his son across the face over and over, the cracks growing louder each time until he loses balance and falls backward to the floor.
+
+“You put up our primary source of income on a petty duel!? Stupid son! We are an honorable clan! Your brother can make it into the Outer Sect on his own merits, there is no need to stoop to stealing slots from others! You dishonor the Feng Family!”
+
+As Feng Minshun tries to get up, he’s slapped again, creating a shockwave of qi powerful enough to make many initial and mid stage qi refiners queasy.
+
+The old man looks toward me, and bows reluctantly, pulling out a small white jade tablet from his storage ring.
+
+“Please, do not take the misguided words of my son to heart. The Feng family shall honor our word. This is the right to our Jade Market Alley storefront, it must be imprinted by you, and one of the three major families of Lingshi City in order to officially change hands.”
+
+When I accept the small tablet, Wang Yang’s calm voice splits through the tension.
+
+“I will happily imprint the property rights for you, I wasn’t aware you had such a complicated history with the Feng Clan.”
+
+Wang Yang strides over, and cultivators step away silently, bowing in his presence.
+
+He taps the jade slip at the moment I do, and I feel all of the other qi imprints inside it vanish, pushing my identity to the top as its owner.
+
+I stow it away into my robes and bow.
+
+“Thank you, Senior. My apologies for causing such a scene. I saw an opportunity to retrieve the rewards I was owed, and took it.”
+
+He smiles at me with a knowing glance, seeing right through my words, as his spiritual senses are far greater than mine. This old man most likely heard every word I said to Wang Ruze and his son before I even decided to get up from my seat.
+
+He only nods, and looks up to everyone who’s turned our way, “That’s enough, it’s been settled, I’m happy to be of help. Carry on with the celebration.” Then, starts walking away toward the nearest late stage qi refining patriarch a few tables away to continue his stroll.
+
+Wang Ming grins ear to ear behind his grandfather, and whispers to me while he passes, “So that’s why you weren’t worried about him not paying you back.”
+
+I nod and show a thin smile as he passes, but my attention is far more focused on the old patriarch that just handed over his shop’s rights.
+
+His face shows a calm smile, but his soul twists with anger, and a notification in my inner ear shows the truth.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[He does not plan on letting the Host keep his shop’s property deed. When the Jiang Family attacks, the host will be his first target to eliminate in the chaos.]
+
+“Feng Minshun. Leave the ceremony now, and take your juniors with you. You’re no longer needed in this celebration,” he comments to the pitiful man on the floor with red slap marks on his cheeks.
+
+It appears he’s punishing him to the outside crowds, but to me it’s clear he’s clearing out the weaker clan members at his table before the attack.
+
+I turn around without saying another word, scanning everyone I can while hopping back up onto the raised platform.
+
+The late stage clans are starting to all become more restless. However, the clueless clans are all getting drunk, laughing, and enjoying the day.
+
+Mu Shouxin and Mu Shulan walk out of one of the foundational clans’ private seatings.
+
+My best guess is it is either the Wei or Lin Clan, as I can feel strong foundational level physiques permeating from them but there is no pressure of the blood demon physique.
+
+It is not only the Wang and Mu families that come up to our table over the next hour or so, it’s some of the more confident mid stage qi refining families that introduce themselves before leaving.
+
+They also attempt to greet the maids of honor table on the other side of the stage where Meng Ruo, Lan Xin, and multiple sisters and aunts of Mu Shulan sit around.
+
+My focus is starting to waver, as I’ve been hyperanalyzing the movements of every nearby system reading, but none have made their moves yet.
+
+That is, until I watch an old lanky man limp out from one of the foundational clans’ private seating areas, and straight over to the Mu Clan’s honorary guests.
+
+“Lan Xin! Have you reconsidered my offer yet? Join the Tang Clan while you still can. This is the final chance I’ll be giving you.”
+
+He looks up at the fiery woman with lust in his eyes and stance, but she does not look down, only moves her hand to wave him away.
+
+“I already declined your offer during the war. What makes you think I’ll change my mind now? Leave my presence at once.”
+
+The old man grits his teeth and turns away resentfully, stepping into the range of my spiritual senses briefly.
+
+[Automatic Inspect Function Activated…][Tang Fuchen] [Age: 191][1st Level Foundation Establishment][Fire, Earth, Wood Spiritual Root][6th Grade][Acquired Heavy Mountain Physique][Perfected Stage - Mortal Grade][Acquired Blood Demon Physique][Perfected Stage - Mortal Grade][No Innate Physique][To supplement his severe soul fractures, he has been cultivating the blood demon physique to keep his body intact. Has used the Primal Yin of many pure female cultivators to disperse the negative effects of holding two acquired physiques at once, but none have been strong enough to heal him. He needs to hold on long enough to obtain a mid grade tier 2 healing elixir. The Jiang Family has promised him this pill in exchange for help in exterminating the Mu Clan’s most talented concubines and new generation offspring as his duty in the attack.]
+
+As I read this, I watch him turn toward multiple late stage qi refining patriarchs and nod.
+
+They stand up one by one, including Feng Baishan, and make their way over to varying foundational clan private seatings.
+
+Not all of them have Blood Demon Physiques, but more than half do.
+
+From the outside, it appears as nothing out of the ordinary, like they’re trying to curry favor before leaving, but it’s clear as day to me.
+
+Now I’m certain, the attack is about to begin.
+
+I pull a small white beetle puppet out of my storage, and flick it up into the air, letting it surround the table we’re seated at.
+
+A small circle of qi cuts off all of the chatter from the outside banquet, only leaving myself, Wang Ruze, and his son to turn their heads and stare at me in confusion.
+
+I turn straight to the old man with rosy cheeks.
+
+“It’s time to sober up before it’s too late. The Jiang Clan is planning on settling the Lingshi City feud once and for all today. They’re about to launch a surprise attack… ”

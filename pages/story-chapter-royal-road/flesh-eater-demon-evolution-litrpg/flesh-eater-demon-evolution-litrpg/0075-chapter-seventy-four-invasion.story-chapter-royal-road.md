@@ -1,0 +1,129 @@
+---
+id: 23303a9e-6e30-5b1c-ba1b-e28c1ebb6352
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Four: Invasion"
+slug: 0075-chapter-seventy-four-invasion
+partOf: flesh-eater-demon-evolution-litrpg
+position: 75
+ownLength: 2128
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3190796/chapter-seventy-four-invasion"
+royalRoadId: "3190796"
+---
+
+“Pyre!”
+
+A familiar voice and a pulling sensation yanked Pyre out of her thoughts. The demon’s head snapped to the side.
+
+Standing beside her, Declan was tugging insistently on her arm, eyes wide and frantic. Frenzied shouts continued to ring around them. Above the mayhem, Pyre could hear Edna’s voice, sharp and commanding, shouting orders at cadets and seasoned soldiers alike. The initial shock still hadn’t faded for most, but some were starting to spring into action as the reality of the situation dawned on them.
+
+“We’re being called,” Declan said urgently. Pyre glanced over his shoulder and saw Merrick standing just a step behind the younger cadet. The man’s face was paler than she’d ever seen it before, but his expression remained stoic. Steady dark eyes met hers.
+
+“I need to return to the manor.”
+
+Pyre’s voice was calm as she spoke. She stepped back, arm falling loose from Declan’s grip. The cadet looked like he was barely keeping it together right now. His shoulders shook, and his eyes wouldn’t stop darting around—moving between the sky and the sanctum and the garrison that was quickly filling with more and more bodies. She smiled wryly. “The Bellheins’ll be expecting me.”
+
+Declan opened his mouth to speak, that wild panic still bright in his eyes, but he was halted by a gentle, firm hand on his shoulder. Merrick had taken a step forward, and he now nodded at Pyre, an entire unspoken conversation passing between them.
+
+“Be careful,” he said. High up in the sky, still soaring circles around the red pillar of light, the dragon let out another screech.
+
+“I will.” Pyre took a step back, taking one last second to glance at the two cadets. Merrick, tense but steady, and Declan, worry shining in his every movement and expression. Edna’s voice continued to ring out along with the other sergeants, calling soldiers and cadets alike into formation. At a moment like this, it didn’t matter if someone hadn’t fully completed their training yet or that almost the entire group had never seen a real fight before. Not when the hulking silhouettes of the Empire’s army approached.
+
+“You two watch yourselves, too,” the demon said before she could think further on it. With one final look, she turned and sprinted for the garrison gates.
+
+It was mayhem everywhere. Pyre wove between gathering units and gawking soldiers, ignoring the few questioning calls that came her way. She didn’t hesitate to bodily shove people aside until she’d reached the gates at record speed. It was a good thing the garrison was so close to the manor, she thought.
+
+Once she hit the main road, it was a short run to the Bellhein property now that she was no longer bothering to hide her speed. At this point, Pyre could see enough of the army to have her initial suspicions confirmed.
+
+Red stones much like the ones she’d shattered gleamed in the chests of lumbering golems, but they weren’t the only ones in the invading group. Other creatures followed—short imp-like beings, hulking canine beasts that were probably hellhounds, large humanoid monsters that brought to mind the word “ogre,” even a few lumbering undead corpses.
+
+From what Pyre could tell, there were only a handful of actual humans present, and they were dressed in the same dark robes that the Empire mage in the sanctum had worn. They moved scattered between the various monsters, seemingly leading their own units. The demon had known about the Empire working with monsters, of course, but she hadn’t thought it would be nearly the entire invading force.
+
+All the while, that pillar of light continued to shine a bright, bloody scarlet. The weird feeling in her chest was still there, and judging by the way that creatures continued to pour out of the broken sanctum doors, she suspected the ritual spell was still active. The entire sanctum was now essentially a portal for Empire troops to flood in from, and at the center of that growing army were the horn and her soul piece.
+
+Her gaze sharpened. Between the throng of monsters and the barrier that was almost certainly still active, it was going to be a lot harder to reach the ritual circle now.
+
+Finally, Pyre made it to the Bellhein gates at record speed. If she’d had any doubts about most of the guards not knowing about the plan, they were immediately assuaged when she took in the sheer fear in the eyes of the guards by the gates. Their weapons were raised in shaking hands, gazes fixed on the sanctum and the looming shadow flying overhead. They barely reacted at all when Pyre shoved them aside to enter the manor grounds.
+
+Inside wasn’t much better. Practically every guard and servant in the manor was huddled together on the front lawn. In the middle stood Harris, desperately trying to maintain order over their shouting voices.
+
+“Please, calm down! We can’t afford to panic!” he pleaded.
+
+“My husband and kids’re still in the city!” One maid spat, attempting to shove the guard aside. “I need to see them!”
+
+“Is that the Empire? How’re they here? What’s going on!”
+
+“Where’s Lord Bellhein?”
+
+Harris made another attempt at keeping order, turning for only a second to urgently ask another worker if they knew where John was. The head butler wasn’t in the crowd, Pyre realized, and she had a feeling she knew why. She was willing to bet Lord Bellhein wasn’t anywhere near the grounds either.
+
+The demon didn’t hesitate to stride forward. With her height and build, people instinctively stepped aside as she approached, steps steady and purposeful. Over the sea of people, Harris met her gaze, something like relief in his eyes when he saw her.
+
+“Pyre, you’re here.” His voice was hoarse from all the yelling. He didn’t look like he was doing much better than the other servants, to be honest. “Do you know what’s happening? Did they say anything at the garrison?”
+
+The voices around them hushed, every eye in the crowd moving to the demon as they waited for an answer with bated breaths.
+
+“Empire invasion.” Pyre’s voice was blunt and matter-of-fact. She jerked her head in the direction of the garrison. “They’re gathering troops now to fend them off. The city guard’s probably doing the same.”
+
+As she spoke, her gaze traced over the manor itself, searching the windows for any sign of movement. “Is Lady Bellhein still here?” she asked.
+
+“I told her to stay inside,” Harris whispered. His face had gone pale at the confirmation of his worst fears. Now that she thought about it, with Lord Bellhein poaching promising cadets for guard duties, a lot of the people here had probably never seen real combat. Guarding the manor was an easy, cushy job most of the time. And now they were facing an invasion. It was no wonder so many were panicking.
+
+Pyre opened her mouth to respond, but before she could, a loud boom sounded to her right. Someone screamed. The demon’s sharp gaze darted over to the source of the noise, finally landing on a cloud of dust rising along the property’s eastern wall.
+
+There, a pile of scattered debris lay strewn about the ground. Thin runes of light flickered along the stone wall’s surface, fading in and out of view. They flashed a few more times, then fizzled out entirely.
+
+The dust settled, revealing a fresh hole blasted clean into the wall. On the other side, a humanoid figure in billowing robes stood with one hand raised. Even in the distance, Pyre thought she could see the Empire mage’s palm still glowing from the lingering effects of the spell. An army of monsters stood waiting behind the newly-created opening.
+
+The temporary quiet immediately broke. Voices raised, several servants shoving Harris away and making a break for the gate while others scrambled back into the manor and still others ran for cover in the forest. The monsters were already beginning to flood through that narrow gap, and while there was still a ways to go before they reached the manor proper, there was no longer a ward to stop them.
+
+Pyre ignored the mayhem. Instead, she immediately dashed into the manor. Her footsteps were heavy as she ran down the by-now familiar halls, navigating corridors and dodging panicked workers as she made her way towards the main wing.
+
+When the demon turned the next corner, she found Daphne not waiting in her room, but standing in the middle of the hallway.
+
+The noble jumped. She whipped around, hand automatically raising at the sound of footsteps. She only stopped when she saw who it was.
+
+Daphne stood in front of the window just outside Pyre and Callan’s room, the door of which had been swung wide open. One of her hands gripped the edge of the windowsill tightly. From her current position, she had a perfect view of what was happening outside.
+
+“Did the Empire break through the wall?” she demanded. “Are all the servants and guards safe and accounted for?”
+
+There was a faint note of panic in her voice, but it was hidden below a clipped, determined measuredness. On the surface, the noble looked stone-cold. Business-like. Only her blazing eyes gave away the stormy mix of emotions currently coursing through her.
+
+“One of the mages blew through the wards. Harris was trying to gather all the manor workers, but it’s pretty chaotic out there.” Pyre strode forward. “The garrison’s assembling troops.”
+
+“That’s good, at least,” Daphne muttered. Her eyes returned to the window, fixed on the monsters filing through the gap in the wall.
+
+“Why is this happening now? We were supposed to have another week!”
+
+Pyre glanced to her left. Inside the open room, Callan was floating directly over the sigil on the floor, both hands glowing green as he desperately continued channeling ichor into the seeds. The demon met his panicked eyes steadily.
+
+“I don’t know why they’re invading now, but it looks like that portal’s still open. Monsters keep coming out of the sanctum.”
+
+“It’s because of us,” Daphne said darkly. Her grip on the windowsill tightened until her knuckles turned white. “I saw my uncle this morning, he mentioned some kind of argument. I think there was a breakdown of trust between him and the Empire after they found the golems. They must’ve decided to attack early.”
+
+Grey eyes shifted to the noble. “You seen Lord Bellhein since then?”
+
+Daphne shook her head stiffly, confirming the demon’s suspicions.
+
+“What’re we supposed to do now?” Callan’s hands shook a little as he forced himself to channel more ichor. His silvery form looked a little more transparent than usual, the ghost straining to complete the spells. “This wasn’t part of the plan!”
+
+“No, it wasn’t, but the basic steps’re still the same.” Pyre jerked her head at the window. “The sanctum’s surrounded by monsters, and the barrier’s probably still active. We still need to break the circles, then the barrier. That should shut down the ritual portal and stop more monsters from coming.”
+
+Callan shook his head. “It’s too early, the spell’s not ready.” His form flickered a little as his anxiety grew. “I can’t—I can’t channel enough ichor!”
+
+“Kid.” Pyre strode into the room and placed a hand down on the ghost’s shoulder. The sudden solid weight jolted him out of his panic, and he blinked up at the demon with wide eyes.
+
+“I don’t know shit about magic,” Pyre continued, voice steady and even, “but you’re smart. The seeds’re all planted. If anyone can figure out a way to make it work, it’s you.”
+
+She straightened, nodding at a tense Daphne waiting out in the hall. “After the circles’re gone, you’re gonna have to blast through the main barrier. You still up for it?”
+
+The noble nodded slowly. “I can do that,” she muttered. Her gaze darted back to the demon. “What about you?”
+
+A flicker of doubt passed through Daphne’s expression. It was a question not just about Pyre’s next course of action, but about the horn and the soul piece in general. Daphne and Callan were primarily fighting to push the Empire back and defend their homes, but that had never been the demon’s main goal.
+
+In response, Pyre simply gestured to the window again.
+
+Outside, the broken white walls of the sanctum stuck out starkly amid the growing mass of monsters. It was impossible to reach the building like this, much less the objects resting in its center. It would take some time before the garrison could begin to push the Empire back. With that in mind, the demon’s next move was clear to her.
+
+“I,” she began, “am going to clear a path to the sanctum.”

@@ -1,0 +1,159 @@
+---
+id: 0de5875a-1bde-50d6-91bb-3ad8464a2667
+page-type-slug: story-chapter-royal-road
+title: "Chapter 351: Tea, Cookies, and Ancient Memories"
+slug: 0388-chapter-351-tea-cookies-and-ancient-memories
+partOf: dungeon-of-knowledge-complete
+position: 388
+ownLength: 2390
+unit: words
+ownProgress: 2390
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2530628/chapter-351-tea-cookies-and-ancient-memories"
+royalRoadId: "2530628"
+markedReadAt: "2026-06-29T20:25:06.673Z"
+---
+
+Ali was still a little unsteady on her feet when she touched down in the library, and she had to lean on Malika more than she would have liked to admit. As Malika guided her to her favorite reading chair – the big burgundy one that was soft and large enough that she could curl up in it with a good book – her friends fussed over her. Altogether too much.
+
+“Be careful,” Calen cautioned as she approached the chair. “Mato, help her.”
+
+“Got it,” the big Beastkin said.
+
+“I’m not an invalid,” Ali complained. “I can get into a chair by myself.”
+
+Malika cocked an eyebrow at her with an expression that told her in no uncertain terms that she was being delusional.
+
+“The dizziness and mental fatigue are passing already,” Ali said, allowing Malika to help her up into the chair. “Mato’s aura really helped.” It had taken an hour sitting in the forest by his trunk before her domain withdrawal had faded, and his potent aura had set her squarely on the path of healing the life she had channeled away. Still, it would take quite some time for her to fully recover.
+
+“Here, drink up,” Mato said, holding out an emerald-green potion that shone brightly with a luminous otherworldly glow. “Eliyen said you would need to take one every hour for the first six hours.”
+
+“Ugh,” Ali grimaced.
+
+“Come, Ali, take your medicine,” Malika chided.
+
+“I know,” she said, taking the vial and glaring at it. “But why does it have to taste so awful?” Under the guidance of Lamyndra Duskwind, Eliyen had whipped this restorative potion up out of a soul extract brewed from Ali’s Soulshade Blossoms and a Living Essence. It tasted like it was ‘good for you.’
+
+“You sure sound like an invalid,” Malika said.
+
+“So mean,” Ali mumbled.
+
+“What was that?”
+
+“Nothing.” Ali tossed the nasty potion back in one shot, shuddering as the medicinal oily sludge went down like it was reluctant to be swallowed.
+
+“There, that wasn’t so hard, was it?” Malika said encouragingly.
+
+“Bah,” Ali grumbled, but her friend was right. They were just trying to be helpful. She sank into her chair and accepted a selection of books from Ryn, managing a smile for all of them as they all settled in nearby. There was still a ton for her to unpack and process. She had a new title – one which would cause her significant problems in any civilized community on the continent were she to encounter someone who could identify it.
+
+Dungeon Ally.
+
+From the description, this title had been earned because she had twice helped a dungeon survive: once with Naia and, more recently, saving Cael and Gage from the decay of their life support spells.
+
+I guess I am a dungeon, she thought, and so technically, the title shouldn’t matter. However, it was much more likely that someone with an Advanced Identify, Analyze, or similar skill could view her titles than be able to discern the nature of her class at a glance. Somewhat worrying, the title also made itself always visible to dungeons – but that was a different problem, and one for another day.
+
+Not much I can do about it. She wasn’t about to advertise it. At least it gave her a nice bonus to manipulating domain mana – the effects had been obvious the moment she had returned to her domain.
+
+Holding up a book and pretending to read – for the benefit of her friends with their concerned glances – Ali sorted through her skill descriptions. Arcane Recall’s life-channeling advancement was insane. Due to its nature, it would be challenging to experiment with it, needing a lot of free time to recover from the steep cost and the emotional energy required to wield it. The only time she had ever seen it before had been her mother’s final act of sacrifice.
+
+The almost insignificant-looking addition of being able to power Arcane Recall’s normal function with health meant she would never again be quite so helpless caught by a mana suppression field.
+
+Somehow, she had awakened a Fae Bloodline. What the heck do I even do with this?
+
+And she had a brother. Brothers.
+
+Her thoughts continued to dwell on her newfound brothers. Half-brothers? Ali glanced over at Ryn. Given the nature of how they had come to be, the relationship was technically complex. But what mattered most was whether she could continue to trust them, unstable as they seemed to be. They were two distinct personalities despite sharing a single body, or what was left of their body, at least. She had so many questions about them and so little experience with this kind of thing. Did that mean two souls? Or one which was split down the middle or coexisted like her domain and Aunt Lira’s? Mom must have meant to come back and help them – she would, wouldn’t she?
+
+Even now, the realm mana compatibility advancement to Arcane Recall allowed her to feel Cael and Gage’s domain mana wherever her dungeon overlapped with theirs in the spirit realm – calm, now, and devoid of any of the dungeon rage since she had attuned her mana to their domain. Throughout her domain, Ali could feel her mana spilling into the spirit realm, extending her influence there – the implications were hard to predict.
+
+She curled up deeper into her comfortable chair, her mind churning over her recent experiences.
+
+“Tea?” Lira asked, gracefully stepping out of one of the branches of the giant tree as if entering a throne room or a palace.
+
+Typical. But the mere words warmed her heart more than she could say. Ali looked up and had to dab at the corners of her eyes, momentarily surprised to discover the teapot was already steaming and the cups already set out. “Um, sure. Thank you.”
+
+“Something on your mind?” Lira asked mildly, moving over to the side table, beginning to pour tea for everyone, and arranging a few cookies on a plate.
+
+Ali always found it curious how a being of such immense power, who didn’t actually eat normal food, still managed to be such a fantastic judge of the best cookies.
+
+“I found my brothers,” Ali said, catching the slight narrowing of Lira’s eyes as she dropped the news. “They have a dungeon in the spirit realm, overlapping with this space.” Ali gestured with a hand wave to the library.
+
+Lira’s dark hazel eyes suddenly seemed to be an infinitely deep well of melancholy and ancient pain, drawing Ali in. “I see,” she said as she gracefully passed out the teacups and offered cookies to everyone.
+
+In the moment of silence, Ali accepted a steaming cup, pausing to sample the delightfully refreshing floral aroma, and then chose a cookie. “So, you knew about Cael and Gage?”
+
+“Aah, those two dear ones,” Lira said, taking her seat with regal grace and sipping her tea as she failed to conceal a flicker of pity or perhaps old grief that passed across her face. “Such a shame.”
+
+“You knew them?” Ali asked, surprised by the depths of emotions she found in the normally serene dryad’s eyes. “Why haven’t you ever mentioned them before now?”
+
+“You must understand, Aliandra, when the nature of Nevyn Eld’s experimentation came to light, your mother was horrified. Elowynn made it her purpose to track down every last victim and care for them, to right the wrongs he had wrought upon them, but the more we dug, the more we found. He must have made hundreds, maybe thousands – it is impossible now to know how many suffered for his ambition. Most were already dead by the time we found them, and the rest succumbed soon after, despite your mother’s supreme efforts to save them. She was beside herself, as you can imagine. Despite them being spawned unwillingly from her mana and bloodline in his laboratories, your mother grieved for every child that died in her arms.”
+
+Ali swallowed, shifting uncomfortably in her seat. Knowing her mother, this must have been anguish for her. “Cael and Gage survived.”
+
+“A few did. Some were never found, leaving sparse footprints that carried down the generations,” Lira said, glancing over to Ryn, who was curled into a tight, trembling ball on the couch as she listened.
+
+“I spoke with them. Cael and Gage remember… they remember my mother.”
+
+“I remember when Elowynn found them. She came to me for help, but we were unable to do much for them. They were barely in the mid-forties, chained to the Spirit Realm by the class he forced on them, their mind already fractured, and their body torn asunder by the Fae bloodline running rampant.”
+
+“Wait, they were two personalities already? I thought that happened because they spent three thousand years alone,” Ali said. Spending that time fully conscious with nothing but shades trying to eat you could not be healthy.
+
+“No, Nevyn Eld’s experiments had left nothing but shards and rubble,” Lira answered. “The two personalities that emerged from the shattered remains were the result of our best efforts to put his mind back together. I’m honestly surprised Cael and Gage survived.”
+
+It took a strong will and several moments for Ali to unravel the knot of pure anger and frustration that gripped her at the horrific story Lira had revealed. She had heard the outline of it before, but having met Cael and Gage, it felt more immediate. More real. More personal. His – their – insanity and fractured personality had been the result of Nevyn’s magic breaking his mind. It sounded like none of his personality had initially survived. Perhaps the three thousand years in isolation had helped heal their mind somewhat from that initial damage rather than caused it as she had initially feared.
+
+“Cael and Gage seem a little childlike, and very… damaged. They tried to kill me at first, but… I think I understand now. They kept their word to me when it mattered,” Ali said, reexamining her recollection of the events in the light of Lira’s insight.
+
+“Hearing that is such a relief,” Lira said, putting her teacup down to look at her intently. “I only wish Elowynn could have been here to hear it. I know it ate at her to be forced to leave them there, but she couldn’t fully extract them from Nevyn Eld’s formation – they were wholly dependent on it for life at that point.”
+
+“Why did he put them in the spirit realm?” Ali asked.
+
+“It wasn’t the spirit realm he was interested in,” Lira said. “He was obsessed with accumulating magical power. We saw evidence of it several times – he wanted that rift. He wanted to harvest it. That’s what his soul magic array was for.”
+
+Ali nodded soberly. It all agreed with what she had seen with her own eyes. And it matched what she had learned from Aman Rak even though there had been no rift there – the pattern was unmistakable.
+
+“I saved them with her magic,” Ali said slowly. “I awakened my bloodline.”
+
+“The Fae bloodline is awake in you, child?” Lira asked, her head snapping around to fix her with a piercing stare as sparks of emerald-green mana sprang up in her eyes. “Aah, I see it is true. I always knew you were special, but this is something that not even I expected. Your mother had it, but it is truly a fickle thing, appearing and disappearing throughout the generations without rhyme or reason that I could ever tell. Tell me, are you well?”
+
+“I think so. What does it even do?” Ali asked. She obviously didn’t feel great after spending so much of her life force – but that ability seemed to be the only obvious change so far – powerful, yes, and yet quite difficult to use.
+
+“It’s hard to say for certain. It manifests differently for everyone, but it has been responsible for some of the most powerful magic users among your kind. It is responsible for granting you the same arcane mana as your mother – not just the ability to spend your life but the unique golden arcane magic you wield. But the Fae bloodline is fickle and contains the seeds of much destructive power. Nevyn Eld forced it to awaken early in his victims – and you saw what damage it wrought on the body of Cael and Gage. It is also undoubtedly the reason for… your wings.”
+
+Ali swallowed uncomfortably as her tiny wings quivered on her back, but she ignored that for now. “Gage has it too,” she said, recalling the vast number of golden barriers throughout the spirit realm dungeon. “He definitely wields mother’s golden arcane magic.”
+
+“Does he?” Lira asked, her eyes sparkling with complex emotion. “Well then… I would very much like to visit them if you can arrange it.”
+
+“I did promise to bring them visitors,” Ali said, smiling at her. “Provided they behave, that is.”
+
+“May… may I come too?” Ryn asked, glancing up from the couch.
+
+“You want to visit a dungeon in the spirit realm?” Ali asked.
+
+“If I understand… they’re cousins, right? Many times removed?”
+
+“Quite possibly, child,” Lira murmured.
+
+“And they’re the ones we defeated in Kings and Emperors?”
+
+“Yes,” Ali confirmed.
+
+“Then I definitely want to meet them,” Ryn said, her eyes sparkling with fresh interest. “Um… as long as you think it’s safe? I’ve never been in a dungeon before. Well, except for yours. Which is pretty awesome.”
+
+Ali smiled at her. “It’s alright, Ryn.”
+
+“I’ll be coming, too,” Lira said, reassuring her, leaning forward and placing her empty teacup on the table.
+
+“I’m not going to let you go back there without me,” Malika said, looking up from her cross-legged meditation pose. “I’m not sure I trust them quite yet.”
+
+“Let’s all visit together,” Ali said, finally finding a smile at Malika’s commitment and the reminder that her friends had been there for her when she needed them – and in anticipation of the incredible surprise that waited there for Ryn. “But I do need a little time to recover.”
+
+“And food,” Mato reminded her. “Fae cannot live on spirit flowers and fancy glittery arcane mana alone, you know. They need real food, too.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,159 @@
+---
+id: 23e4b3fd-0c0f-5e91-9089-2aae219c5f47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 350: A Magical Bloodline"
+slug: 0387-chapter-350-a-magical-bloodline
+partOf: dungeon-of-knowledge-complete
+position: 387
+ownLength: 1907
+unit: words
+ownProgress: 1907
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2527921/chapter-350-a-magical-bloodline"
+royalRoadId: "2527921"
+markedReadAt: "2026-06-29T20:25:04.569Z"
+---
+
+Ali groaned as the world vibrated violently around her. A sadistic gremlin seemed to have crawled into her brain and was gleefully stabbing at it with a red-hot poker.
+
+“I think she’s awake…”
+
+Malika? Ali grasped for her memories, but her mind seemed to be a mushy blur of pain.
+
+You have gained Clarity.
+
+The vibrating sensation slowly abated, taking with it the demented mind-stabbing gremlin and leaving her with only a splitting headache and a profound sense of enervation. Her eyes cracked open to find Malika cradling her body, looking down at her with lines of worry and concern etched on her face.
+
+“What… happened?” Ali said, her croaking no louder than that of a dying frog.
+
+“Don’t scare me like that, ok?” Malika said.
+
+Something had ravaged her mind, leaving Ali to rummage around in the chaos and clutter for answers. She had been trapped in a dungeon, struggling with fiendish puzzles. Her mind produced fractured images of a broken Fae and memories of voices gloating. Twisted twins. A maze full of shades. Her friends rushing in to save her. There was a spell, a gong, a golden light… she saw herself fading, just like her mother…
+
+She had done something. Ali studied her arms, but the translucent look had vanished, and she looked uninjured. Was it just a dream? But a dream couldn’t explain the sheer exhaustion that weighed on so much more than bone or flesh.
+
+“You were dying,” Malika explained.
+
+“Dying?” Ali glanced about, finding her friends all gathered around her. She was still in the core chamber of the puzzle dungeon, and Gage and Cael still hung suspended in their golden cylinder – now pristine, the patchwork of her magic only visible to eyes as sensitive to mana as her own.
+
+“You spent almost your entire life force on that spell,” Val’korr said, squatting beside them with the uncharacteristic warmth of concern radiating from his eyes. “You need to be more careful!”
+
+“Ahh,” Ali groaned as she struggled to sit up, only managing with Malika’s gentle helping hands. “What about the shades?” Her minions stood idle at the doorway, and the only sounds reaching her ears were the whispered conversations of her friends and the faint hum of powerful magic.
+
+“The dungeon restored the suppression field in the maze,” Calen said. “But they exempted this room, so we were able to wipe out everything within reach.”
+
+“Thank you, Ali,” Cael said.
+
+“Yes, thank you,” Gage echoed. And then, with anguished contrition, he added, “I’m sorry we were so mean to you.”
+
+“You’re welcome,” Ali said, her voice slowly returning to normal. Are they so childlike, almost stunted, because of the isolation? What might they… become? Given time and companionship?
+
+With no small amount of trepidation, she called up her notifications to see what had transpired.
+
+Arcane Insight has reached level 66 (+2).Arcane Recall has reached level 33 (+5).Barrier has reached level 68 (+3).Runic Script has reached level 59 (+2).Sage of Learning has reached level 58 (+3).
+
+While her eyes widened at the levels of skill growth she had just earned, nothing in that list shed any light on what had happened to her. But the next notification took her breath away.
+
+You have gained the Bloodline (Magical, Fae) aptitude.Fae (Inheritor of an ancient Fae bloodline, passed down through your ancestral line, drawn out through your exceptional actions.)Magical (The effects of Wisdom and Intelligence are increased by 50%.)Arcane Infusion (Steeped in arcane magic for millennia, your very life is attuned to the arcane. Arcane magic comes easier to you, both learning and wielding it.)BloodlineYou have lost the Magical aptitude.
+
+Her Magical aptitude had blossomed into a full-blown bloodline. Ali’s heart began to thump harder in her throat. On one hand, a bloodline like Malika’s or her parents’ was a tremendous source of power. She had always known it lurked inside her – it was the supposed reason for her stunted wings. And… she eyed the broken form of the Fae suspended in the golden cylinder. What does this mean for me?
+
+Not quite knowing how to react to the change, she searched for more clues.
+
+Requirements met for skill advancement.Mentor: ClarenceArcane Recall has reached at least level 30.Awakened your Bloodline (Magical, Fae).Studied the formation of life-channeling magic.Experienced the use of life-channeling magic.Understood a legendary-grade spell.Arcane Recall gains Life Channeling.Arcane Recall gains the Bloodline trait.(You may spend life to empower your magic)Advancement accepted.
+
+Speechless, Ali called up the description for Arcane Recall. She knew the exact instant she had unlocked this, but her heart was a roiling mess of conflicting emotions.
+
+Arcane Recall – level 33The narrative has been illicitly obtained; should you discover it on Amazon, report the violation.You are proficient with Arcane magic. You gain +165% [skill x 5] to spell power, spell haste, mana control, and mental reaction speed with Arcane magic. Your mana has affinity with all realms. Mana or Health: Ignore the recharge for any Magic skill, spell, or triggered ability. Your magic is cast instantly. Recharge: 24 hours.Maximum Health: You may channel a percentage of your maximum health to empower your magic. The effects on spell power are multiplicative.Arcane, Metamagic, Bloodline, Mastery, Intelligence
+
+There were several more notifications to read, but she already knew what she would find.
+
+You have empowered magic using Life Channeling. -68% to maximum health.[Realm] Aliandra Amariel [Ancient] has restored the legendary spell: An Instant, Frozen in Time.
+
+It was her mother’s spell she had unlocked and instinctively used to save the brothers. The spell she had used to spend her life that Ali might live. She felt the squeeze from Malika’s hand before she registered the tears spilling down her cheeks.
+
+Your group has defeated Dark Shade – Shade – level 38-129 (Shadow) Swarm x16.1K.Your group has defeated the Rift Break from the Realm of Creeping Shadows.You have defeated the Maze of Shadows – Puzzle – level 121 (Arcane / Space)Dungeon of Knowledge has reached level 118.+10 attribute points.
+
+She had earned a level, presumably mostly the result of defeating the puzzle that had been created to tie up the shades. Even with the enormous number of shades killed, most of that work had been Calen and the others, and most of the shades were too low-level for her to gain any experience. It seemed utterly trivial in comparison to all that had come before.
+
+Ali took a deep breath.
+
+“You ok, Ali?” Malika asked.
+
+“Yes… it’s just a lot.” There were still a few notifications left, so she mustered her courage and pulled them up.
+
+You have saved a Rift Warden.You have earned the Title: Dungeon AllySaved a dungeon from certain death at extreme risk to yourself. You have freed a dungeon from imprisonment. You have contributed substantially to increasing the power of a dungeon.The Identify of a sentient dungeon will always reveal this title.+5 [class level / 20] to skill level of Knowledge skills when manipulating domain mana.TitleYour Blood Shaman has reached level 90 (+2)Your Ice Mage has reached level 100 (+5)Your Hellfire Imp has reached level 65 (+4)Your Hellfire Imp has reached level 64 (+4)…Your Ice Mage has met the requirements for class evolution.
+
+Wordlessly, Ali shared her new title.
+
+“Nice,” Mato said, nodding. “You got rewarded for saving these guys and for rescuing Naia.”
+
+Ali nodded.
+
+“I suggest you don’t wear that title, though,” Calen said, scratching his chin soberly. “I don’t think most people would understand.”
+
+Ali slowly clambered to her feet, staving off her dizziness and weakness with sheer willpower and a little assistance from Malika. More than a little. There was a lot to unpack in her notifications, and something told her that what she had just done would have significance way beyond what they all could imagine. But as she took in the glittering golden cylinder and the brothers floating within, her heart was light. So, she clung to that as her reassurance that she had made the right choice, whatever it may mean.
+
+“We should get you home,” Malika said, helping her balance.
+
+“Yes, I think that’s a good idea,” Ali said. She would need to heal from the terrifying aftermath of what she had just done. She had spent nearly seventy percent of her maximum life repairing Cael and Gage’s life support, and it had happened in an instant. She was already suffering from domain withdrawal; any kind of dangerous encounter, or perhaps even a stiff breeze, ran the risk of killing her outright. She couldn’t afford to stay here any longer.
+
+Health: 165/165(-68% Life Channeling, -10% Domain Withdrawal)
+
+She hadn’t had such a low health total in a long time. It was almost as bad as having eight days of domain withdrawal, with the enormous downside that this would take much longer to heal.
+
+“You’re leaving?” Cael gasped.
+
+“Yes,” Ali answered. “I need Mato’s aura to heal me, and I probably need to rest for a while to recover what I just spent.”
+
+“Please don’t go,” Cael pleaded.
+
+“Please don’t leave us… alone,” Gage said, an edge of hysteria coloring his voice.
+
+“I can come and visit when I’m healed,” Ali said, not wanting to leave the two of them feeling abandoned.
+
+“You promise?” Cael asked.
+
+“Of course. Now that I know you’re here, I’m not about to leave you by yourselves,” she said. Thinking about it a little more, she added, “Besides, you’re family.”
+
+Her voice cracked badly over the words. They say you can’t choose your family…
+
+To her grateful surprise, the Fae Construct simply nodded, his expression graver than ever, almost… she fought for a word. Serene? Holy? Whatever it was, it moved the very core of her being. This was right, she realized. Somehow, it was right.
+
+More lightly, she added, “If you promise not to kill my friends, I will invite them to visit you, too.”
+
+“Why would anyone want to visit us?” Cael asked.
+
+“I know a bunch of crazy people who would love to help with your shade problem,” Ali said, smiling at them. She was sure Havok, Aiden, and the rest of the higher-level guild members would absolutely love grinding experience in this place, especially as they were growing close to hitting gold rank now.
+
+“That’s a good idea,” Calen said, catching on instantly.
+
+“Good training,” Malika agreed. “The shades are the perfect level for the guild.”
+
+“I promise I won’t kill them,” Cael said, his voice hopeful now.
+
+“You too, Gage. I don’t want any misunderstandings,” Ali said, biting her lip as she sounded exactly like a stern parent telling off a toddler.
+
+“I promise!”
+
+“Thank you,” she said, and turned to her friends, preparing to go.
+
+“Ali?” Gage said, using her name more naturally this time. She turned to look at him – them both. “Thank you for helping us. I know we were very mean to you, and we didn’t deserve it, but you… you helped us anyway.”
+
+“Of course, Gage,” she told him. “I’ll make sure things are better for you both from now on. Just please remember your promise, ok?”
+
+“I will,” Gage said, a little hope creeping back into his voice. “And I’ll help Cael remember, too.”
+
+Cael gasped, “Gage! That’s my job.”
+
+“Sounds like a healthy sort of argument,” Malika said, reaching for Ali’s arm as she wobbled. “Easy there.”
+
+Grinning down at them both, Mato rumbled, “I prescribe a cup of sweet tea and a light snack – Beaskin-sized. Let’s go.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,111 @@
+---
+id: 1e1e868e-09a6-5735-a150-57ad7aa69e6d
+page-type-slug: story-chapter-royal-road
+title: "Ch29 An Opportunity"
+slug: 0029-ch29-an-opportunity
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 29
+ownLength: 1178
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3253721/ch29-an-opportunity"
+royalRoadId: "3253721"
+---
+
+A few of the older stewards let out laughs.
+
+“One hundred fragments just for a ride? I could buy another servant with that.”
+
+“Yeah, who does he think we are? A steward can’t afford anything of use at the Red Pine Market anyway! A single low quality qi gathering pill costs more than I make in two months!”
+
+They soon turn the conversation elsewhere, but I see a few figures in the steamy room get out of the bath and put on their robes to leave.
+
+I do the same.
+
+I’m unclear how often this opportunity will come again. This could be my chance to fix my dwindling supplies problem.
+
+Soon, other stewards walk out from their cave abodes, the dining hall, or even come running down dirt paths from their late night work schedules.
+
+The majority stay in and make sour remarks, but from the general reactions of every steward I see, this has happened before. Trips to this Red Pine Market are a regular part of life as a steward.
+
+About a dozen grey-robed stewards line up in front of the dining hall, waiting patiently, until a familiar large wooden flying boat comes soaring in overhead.
+
+It slowly descends and stops a few meters off the ground in front of the hall.
+
+A ladder drops down, and Gu Shan hops off without using it.
+
+Above on the main deck, I catch the sight of at least 20 other stewards that must be from other Steward’s Quarters like this one.
+
+Quickly, the line starts moving, and stewards all pay 100 fragments before climbing up onto the boat.
+
+I drop 130 spirit fragments into Gu Shan’s outstretched hand.
+
+“Senior, I’ve added fragments to pay back the gift you granted me on my first day as a steward.”
+
+He squints, then pulls the extra 30 fragments out, handing them back.
+
+“I never asked for anything in return for my kindness. It is considered quite rude to close a string of fate with a Senior.”
+
+I accept the fragments back but turn my head in confusion.
+
+He chuckles and points up to the ship.
+
+“Move along. You will understand more in time. There is no need to overthink my gift.”
+
+I nod and climb the ladder, but not overthinking this interaction is certainly out of the question.
+
+It is the second time I’ve heard this strange statement: a string of fate.
+
+As the ship fills and every last steward in front of the dining hall boards, I stare off at the many trees in the distance, thinking about what it could mean. Even as the ship floats upward and begins picking up speed, I’m still drawing no conclusions.
+
+Simultaneously, many stewards are shifting about, and new names with cultivation levels pop up in golden system text one by one.
+
+They are mostly all old men, at the 1st to 3rd level of qi refinement. Living bitter and boring lives. Yet one reading finally catches my eye.
+
+[Automatic Inspect Function Activated…][Chen Yilin] [Age: 40][3rd Level Qi Refiner][Earth, Wood, and Fire Spiritual Roots][8th Grade][No Innate Physique][Has been secretly learning alchemy for many years. Today he has set out to sell a large batch of inferior grade pills and buy more spiritual herbs to practice with.]
+
+He’s a bright-eyed man with dirty blond hair, but a rather short stature.
+
+To be a 3rd level qi refiner at this age in the steward quarters is actually pretty impressive. He must be from a quarters on the other side of the Alchemy Peak, or maybe there are other expansion teams further to the north, I’m not sure.
+
+I don’t really care how he managed to reach this level. It is his secret that draws me in.
+
+We haven't even made it to this market, and I've already found a lead.
+
+Some stress leaves my mind and body at this discovery, and I lean over the edge of the flying ship to watch the landscape move by below us in the dead of night.
+
+We speed up faster and faster, moving hundreds of kilometers per hour, but a protective barrier surrounds the ship’s deck, making no wind hit us as we fly.
+
+Dozens of large-scale steward quarters and servant camps move by below us. Small lights shine on the bigger buildings. However, we never fly near any of the larger peaks. I assume this is where the Outer Sect’s disciples stay, but I can’t confirm my hunch.
+
+Three full hours go by, and over 1000 kilometers before the flying ship begins to descend.
+
+Compared to the flight of tens of thousands of kilometers from Donghe Village, this quick flight is barely anything special.
+
+A large crimson pine tree grows on top of a small slope. Its trunk is at least 10 meters wide, and it towers up into the air half a kilometer high.
+
+In the surrounding area, everything is saturated in a deep red warm hue.
+
+When we touch down, it is beside at least twenty other flying vessels of similar size.
+
+Gu Shan greets another green-robed Outer Sect Disciple at the landing point, but their conversation is muffled, even though it’s at a distance I should normally be able to hear.
+
+Afterward, the ladder of the ship is let down again, and stewards walk off one by one.
+
+The new disciple that has greeted us hands small white papers to each of us. They’re familiar-looking, similar to the communication talismans I saw used once. Yet, the patterns on them are not the same.
+
+“These are one-time-use appearance concealment talismans,” the man speaks up while handing them out. “They will not hide your aura, but they will make your face and voice indistinguishable. The Red Pine Market may be owned by the Azure Cloud Sect, but we allow rogue cultivators and family clan cultivators to enter at will. Anonymous transactions may be a safer way for stewards like yourselves to make exchanges. They are one-time-use talismans, and will last roughly three to four hours.”
+
+With a smile, this Outer Sect Disciple hands out the last talisman and spots another ship approaching from afar. He utters a goodbye and heads off to greet them.
+
+Gu Shan leads us toward the market.
+
+There are many dirt paths leading to this place, and even well-maintained roads that look like they’re part of a major trade route connected to other markets or towns.
+
+A large stone wall surrounds the market beneath the Red Pine Tree, but with a simple flash of Gu Shan’s Outer Sect token, the two green-robed guards at the gate let us all in.
+
+Soon, a chain reaction of talismans are activated, and dim auras blur the faces of every steward in front of me.
+
+Gu Shan smiles. “There are still many hours left in the night. I plan to set off again back to the sect around sunrise, so explore as you wish. Meet me back at the flying vessel before it becomes bright again.”
+
+I push a small wisp of qi into the talisman gifted, and a warm blurry light covers my whole body.

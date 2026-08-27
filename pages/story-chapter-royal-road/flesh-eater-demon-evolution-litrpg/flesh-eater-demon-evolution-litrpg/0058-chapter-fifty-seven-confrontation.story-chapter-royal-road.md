@@ -1,0 +1,181 @@
+---
+id: 6b205878-12ae-5062-839e-c9b624f27669
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Seven: Confrontation"
+slug: 0058-chapter-fifty-seven-confrontation
+partOf: flesh-eater-demon-evolution-litrpg
+position: 58
+ownLength: 3151
+unit: words
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2967146/chapter-fifty-seven-confrontation"
+royalRoadId: "2967146"
+---
+
+Daphne held her arm steady, eyes never leaving Pyre. The concentrated magic glowed brightly at the tip of her finger. She could feel the heat emanating from it, warming the air around her as she held the spell at ready.
+
+When Pyre had first noticed her presence, she’d frozen. She’d made it a point to stay far away the entire time, even to the detriment of not being able to hear clearly, and she knew she hadn’t made a mistake with her wards. Not only did the guard apparently have the ability to detect an invisible, silent presence, but she’d also been able to pinpoint Daphne’s exact location behind the trees. She’d waited longer to see if it was a fluke—if maybe Pyre was just staring at the forest in general—but then she’d confirmed she knew someone was there. Sneaking away without notice was no longer possible.
+
+Even now, Pyre was still watching her with that same unblinking grey gaze. Her eerie stillness, once a slightly odd quirk, was completely unsettling. She stood like a statue under the moonlight, immovable and distant. Her height had never stood out quite as starkly as it did now.
+
+Daphne swallowed, but she held her ground. This was her home, and she wasn’t going to back down. She knew Pyre was strong, but her own spells were nothing to scoff at. In terms of magic, very few people had her destructive capabilities. As long as she stayed at range, she had the advantage.
+
+“Who are you?” Daphne demanded. Her voice rang clearly through the night air. “Who were you talking to? Who’s behind that wall?”
+
+Pyre didn’t answer right away, and Daphne’s muscles tensed even more. The guard was still watching her with that uncanny stillness. Utterly unperturbed. Most people would look at least a little nervous with a spell of this magnitude pointed straight at them, but Daphne couldn’t read any particular emotion on the guard’s face. It made it all too clear that she really knew nothing about the woman despite their “bonding” so far. This was a total stranger.
+
+“Answer me!” Daphne repeated. She channeled more ichor into the spell, and the flame grew brighter. Any more and a guard might notice it soon.
+
+Pyre seemed to realize this too. Her gaze darted briefly over to the spell, eyes sharpening, before she looked back at the noble and responded.
+
+“You want to meet him?”
+
+The words were casual and nonchalant. Daphne’s frown deepened. She scrutinized the guard, trying to determine if this was a trick or not, but she was as impossible to read as ever.
+
+The noble bit her lip. In a worst case scenario, Pyre was conspiring with someone against the manor, which would make the person on the other side of the wall her partner in crime.
+
+The question was if Daphne could handle two people at once in a fight. Pyre still hadn’t moved closer, continuing to watch the spell glowing at her fingertips. If she let it loose, it would have enough strength to cover the whole area, and then the nearby guards would come running as well when the explosion went off. This spell was already designed to hit a large range, so theoretically she could cover a second person easily. She didn’t know what abilities that person—or even Pyre—had, though.
+
+In the end, Daphne’s curiosity won out.
+
+“Stay where you are,” she ordered. She flared her spell as warning. Their surroundings heated up even more. By now, the night chill was no longer noticeable. If Pyre moved so much as an inch from her current spot, she wouldn’t hesitate to blast, and she could tell the guard knew that too.
+
+Eyes never leaving Pyre, Daphne slowly stepped forward, finger still raised in threat. Steel grey eyes followed her movements like a hawk as she approached the wall. The guard raised an eyebrow.
+
+“Pretty sure the gate’s the other way,” she said.
+
+Daphne lifted her hand higher in warning. She didn’t show it, but Pyre’s apparent lack of concern was disconcerting, to say the least. She was being underestimated, but she shoved down her instinctive irritation at that. In this case, that was actually a good thing.
+
+“I don’t need to use the gate.”
+
+As she spoke, she raised her other hand. Her uncle, in his eternal paranoia, had commissioned a mage from the capitol to embed every stone in the wall with specialized magic. In addition to the standard wards and the much less standard ones, he’d specifically requested a spell that would allow anyone in the Bellhein family to exit the property from any location. That way, if the place was ever attacked or the gate was blocked, they still had a way out.
+
+At the time, Daphne had thought it was excessive—the manor grounds were already probably the safest place in all of eastern Auren. Now, though, she was grateful for the added precaution.
+
+Taking a deep breath, the mage slammed her other hand against the wall. She kept it in place, focusing on the spot as she waited for the magic in the stones to recognize her aura.
+
+The area beneath her hand trembled. In the next instance, a glowing line cut straight through the wall. The stones split apart, curling outwards like an uncoiling ribbon, all of it in perfect silence. That was another deliberate design choice. The only noise she heard was the faintest yelp as whoever was on the other side jumped out of the way of the moving walls.
+
+Finally, everything stopped. Stones settled back into solid forms again, only now there was an opening exactly the right size for a person to escape through.
+
+Pyre whistled, but Daphne ignored her. In the inky darkness, she couldn’t see anyone standing outside the manor property.
+
+“Come out,” she commanded. Still nothing. Her frown deepened. Had they run?
+
+“You heard her. Go ahead, Callan.” Pyre’s voice was still lax, but it was the name that piqued Daphne’s interest. She didn’t recognize it, but she hadn’t expected it to. The noble committed it to memory.
+
+For a second there was still no movement, and Daphne was seriously considering firing off a warning spell when the shadows finally shifted. Slowly, a figure carefully stepped through the gap in the wall. Daphne blinked in surprise.
+
+When she’d first heard Pyre talking to someone on the other side of the wall, her first instinct had been that she was part of some kind of conspiracy. A thief would be the best guess, but an assassin or spy of some sort was also possible. The Bellhein family certainly had its enemies. With that in mind, her co-conspirator would probably be someone similar: another gruff mercenary-type.
+
+The person who stepped through the wall, though, was none of that. Where she’d expected an older, built figure, she was instead met with a scrawny kid who looked like he was one loud noise away from running off like a scared deer. He—Callan, Daphne reminded herself—shuffled forward, eyes darting between the open wall with something resembling awe and the spell at Daphne’s fingertips with trepidation. He came to a stop the moment he’d crossed into the manor grounds proper, and he didn’t look at all inclined to move any closer.
+
+“You’re Callan?” Her voice was disbelieving, and the kid bristled a little. It didn’t do anything to make him look remotely more threatening.
+
+“Yeah.” He crossed his arms, eyeing Daphne with no small amount of suspicion. Now that she could see him under the moonlight, he was a little older than she’d thought at first—not an actual kid—but definitely still young. Younger than her for sure.
+
+Daphne turned to Pyre, who’d been watching them with an amused look on her face. “Explain.”
+
+The guard raised an arm. Daphne instinctively tensed, but she just gestured to the boy.
+
+“This is Callan,” she introduced. She paused, then added, “My little brother.”
+
+Daphne squinted at the woman. “Your brother?” Her eyes darted between them, taking in first Pyre’s sharp grey eyes, pale complexion, and broad build, then Callan’s warm brown skin, green eyes, and decidedly softer features. And that wasn’t even bringing up the difference in height. “You don’t look alike at all,” she accused.
+
+“He’s adopted.”
+
+Pyre’s face was completely serious, but at this point Daphne didn’t trust the guard at all. She clearly had zero trouble lying convincingly.
+
+On the other hand, Callan shot the guard a deeply unimpressed look that was probably the most convincingly “sibling-like” thing she’d seen about them so far. At the very least, they did seem to know each other quite well. That didn’t address the flood of questions, though.
+
+“So let me get this straight.” Daphne didn’t bother hiding her skepticism. “You’re telling me you snuck out in the middle of the night to talk to your”—her eyes darted to the side—“‘little brother’ through the wall instead of, I don’t know, visiting him like a normal person? After you told me you don’t have any family?”
+
+A beat of silence passed. Pyre’s expression didn’t change at all.
+
+“Pretty much, yeah.”
+
+The spell at Daphne’s fingertip flared brighter. Callan flinched black while Pyre’s gaze shifted to it briefly before returning to Daphne. She seemed to sense the noble’s thinning patience, so she opened her mouth to elaborate.
+
+“He’s a ghost.”
+
+Daphne’s mind skidded to a grinding halt at the same time as Callan yelled, “Are you crazy?” His voice didn’t really process, though, because the noble was much more preoccupied with the fact that there was a monster standing five feet away from her.
+
+Daphne immediately spun around to face him. The temperature around them rose as she readied to fire her spell. Callan yelped and shot back, but before he could scramble away, Pyre strode forward, stepping between them.
+
+“Hey now, no need to be so hasty,” she said.
+
+“Are you serious?” Daphne fumed. “He’s a fucking ghost! He’s going to drain the whole manor!”
+
+A million different worst-case scenarios flew through her head. All the stories of vengeful spirits and malevolent phantoms crashed like a flood from her memory. Stories of entire villages withering away to one ghost, travelers found mysteriously dead, drained of life and energy. Ghosts were rare, as far as monsters went, but they were dangerous.
+
+“He’s different,” Pyre said, infuriatingly calm. Daphne shook her head.
+
+“You’re insane. You’re actually insane.” She raised her hand higher. “I can’t believe I thought we could be friends.” A horrible thought entered her head. “Oh my god, are you a monster too? Is that why you’re defending him?”
+
+The guard didn’t say anything at that. Her expression remained impossible to read—a fact that was becoming more and more maddening. Slowly, she raised her hands in a placating gesture.
+
+“Let me guess, you’ve heard a bunch of scary ghost stories or whatever. But do me a favor. Does this kid”—she gestured at Callan, who was barely visible hidden behind her—“look or act anything like those ghosts you’ve heard about?
+
+Daphne was tempted to just fire the spell, explanations be damned, but the sight of Callan peering uneasily at her from behind Pyre made her hesitate just long enough to listen. It was a gesture that was so human that it took her off guard.
+
+She squinted. It was true that Callan certainly didn’t look like a ghost. He looked pretty damn solid to her, in fact, though now that she was paying attention, she realized the grass below him wasn’t bending. He was floating just barely above the ground and pretending to stand and walk, and clearly he was high enough level that he could look opaque.
+
+Normally that would be enough of an alarm bell for Daphne to fire the spell, but she thought more about the second half of what Pyre had said. Because in the short time since he’d appeared, Callan hadn’t acted like a ghost, either.
+
+Spirits were a very specific sort of monster. Born from the souls of the deceased, they were typically formed when either strong magic, lingering emotions, or concentrated ichor prevented the soul from returning to the cycle of rebirth. Often it was a combination of those things. Those souls morphed into ghosts, and their minds degraded into base, vengeful bundles of impulse and malice.
+
+Callan, though, didn’t seem mindless. He’d spoken to her normally. He was still watching her right now with obvious wariness. He looked fully sentient, aware, and not at all driven by destructive impulse.
+
+Daphne turned back to Pyre. “Explain,” she demanded.
+
+Seemingly satisfied that she’d halted Daphne’s spell (for now), Pyre lowered her hands and cocked her head.
+
+“He was killed by a pool of concentrated ichor,” she began. Callan flinched at the bluntness, which was another distinctly human response. Pyre nodded at him. “When I found him, he was literally a mindless orb floating around the forest. Couldn’t even talk.”
+
+That did track with what Daphne knew of ghosts. Despite herself, she felt a bit of curiosity bubbling even as she remained tense and ready to attack at a moment’s notice. “What next?”
+
+“I transferred him some points.” Pyre shrugged. “Five, to be exact. He put them in intelligence, and the next thing you know, he could talk and think again. He’s been like this ever since.”
+
+A hundred different thoughts flew through Daphne’s head at once. First, that Pyre had apparently transferred points so casually. Even for family, that was rare. Next, the fact that this had apparently worked and restored the ghost’s mind. It sounded insane—so insane that she was almost inclined to believe it, just because no one in their right mind would lie about something like this.
+
+Pyre could probably tell she was thinking, because she continued. “Look, there’s no way I’m the first person in this whole ass world to try transferring points to a ghost. There’s got to be some obscure text out there mentioning it or something.”
+
+Daphne automatically opened her mouth to tell her no, but she clicked her jaw shut at the last second. It was from several years ago, but  now that the guard mentioned it, she did remember reading a report of a man in Ilyra who was supposedly married to a ghost. The records claimed the two had lived peacefully before the woman’s true nature was discovered. The man had pleaded that she wasn’t dangerous, but the village didn’t believe him. They’d executed her with magic, and the man chose to die with her in the end.
+
+She’d thought the story was fictional at first—even found it romantic in a tragic way—but now she couldn’t help but wonder if it was real after all. If a similar situation had happened and the ghost had managed to retain her mind and identity, only to be executed when no one believed it possible. And now, Daphne was standing here as today’s executioner.
+
+“…Why didn’t you say something sooner?”
+
+Pyre raised an eyebrow at that. “You were ready to blast the second I said ‘ghost.’ Why do you think?”
+
+Daphne bit her lip. Despite herself, she felt her hand waver slightly. The entire thing sounded crazy, but it also made sense in a weird way. The sneaking around, meeting up to talk at the wall at night—obviously Pyre wouldn’t want to risk anyone finding out that her little brother was a ghost. She’d mentioned growing up by the Shards, and there would definitely be enough ichor concentration there for spirits to form.
+
+Even the fact that transferring points had apparently brought back his consciousness wasn’t all too farfetched. Ghosts were known to degrade more and more with time, so a sudden burst of intelligence at the beginning of formation could very well stave that off. Daphne knew if she ever found Eduard dead and turned into a ghost, she’d probably throw everything at the wall to find something that would keep him himself, too.
+
+It would even explain that pause Pyre had made when Daphne had asked her about her family. She’d noted it as another suspicious sign at first, but having a ghost little brother would make that pause make all too much sense. Hell, if Daphne really thought about it, when she was listening in on Pyre and Callan’s conversation, she’d thought she’d heard laughing. It was so faint that she’d thought she’d misheard, but more and more she was starting to think that she’d been right. Pyre had been laughing, and this whole situation might just be a lot less malicious than she’d thought it was.
+
+She still wasn’t completely convinced, though.
+
+Daphne turned to Callan and studied him again. He looked distinctly uncomfortable, but he didn’t move away either.
+
+“Prove you’re a ghost,” she suddenly said. He blinked, so Daphne repeated herself.
+
+“Prove you’re a ghost. You look pretty solid to me.”
+
+Callan eyed her warily, but slowly, he stepped—no, floated—out from behind Pyre. He coughed. “Uh, I can look solid when I focus.” In the next instant, all the colors disappeared from his body, and he became silvery and transparent. Daphne jumped. Another flash and he was back to opaque.
+
+“…And you’re completely conscious? You’re not some insane angry spirit?”
+
+Callan frowned. “Do I look mindless and vengeful to you?” he sounded slightly offended.
+
+At this point, Daphne was increasingly convinced that their story was true (insane as that sounded), but that didn’t exclude the possibility that they were still here to sneak around the manor or drain people or any other number of things.
+
+A part of her, the part that was still clinging to some kind of a connection with Pyre, wanted to be able to accept this as it was. She hadn’t seen them do anything but talk, after all. Neither of them had attacked her so far, and Pyre hadn’t harmed anyone in the manor or garrison that she knew of. Still, she had to be sure.
+
+Daphne opened her mouth to question them some more, but before the words could escape, a jolt of pain suddenly burst through her chest.
+
+The spell at her fingertip extinguished as she stumbled forward, blinding pain screaming through her nerves as black spots began to appear in her vision. She vaguely felt herself hit the ground, but it was hard to make anything out through the pain. Shit shit shit, she thought. She’d overdone it with her magic. She should’ve known her luck would run out.
+
+As more and more of those black spots appeared, Daphne was vaguely aware of voices above her. Pyre and Callan were still there, she realized. As her consciousness faded, she had the hysterical thought that dying of ichor-poisoning or getting killed because she’d collapsed now of all times would be an unbelievably pathetic way to go out.
+
+The voices faded and her vision blurred. The last thing Daphne saw before blacking out was the image of Pyre stepping closer.

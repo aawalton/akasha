@@ -1,0 +1,179 @@
+---
+id: 04d249a2-291f-5d65-a04c-a11bfb5fb141
+page-type-slug: story-chapter-royal-road
+title: "87 - Bathhouse"
+slug: 0088-87-bathhouse
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 88
+ownLength: 1826
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3805413/87-bathhouse"
+royalRoadId: "3805413"
+---
+
+Calling this bathhouse “luxurious” was an understatement.
+
+Tall marble columns surrounded the enormous open courtyard. Their archways were carved with images of angels, harpies, and other celestial and winged species I haven’t seen before. One of them even looked like a unicorn, though maybe I was just imagining it.
+
+Several statues stood tall with water pouring out their mouths, surrounding the central pool. Some of them looked suspiciously familiar to the statues I had seen back at the manor in the dungeon. That has got to be a coincidence, right? There’s no way these would just suddenly come alive and attack us.
+
+Right?
+
+“Now this is exactly what I’ve been waiting for!” Sparrow exclaimed.
+
+Everywhere I looked, people walked around in white towels wrapped around their bodies, moving in and out of archways that led to even more baths beyond the main pool we were looking at now. From what we heard, some pools were completely indoors, while others sat beneath the open sky, letting the sun warm the waters. There was a mix of hot baths, cold baths, and steam rooms, separated by gender. The main area we were in allowed both men and women, which felt quite strange to me considering they all wore nothing but towels. It was likely just a Whale Isles custom.
+
+Looking at the floors, walls, and ceiling, I noticed colorful mosaics depicting all kinds of scenes, from battles to creatures to simple shapes. From what I could see, the entire bathhouse wasn’t just a place where people came to clean themselves. It was a place to bond with others.
+
+People sat along the edges of the main pool talking to their friends and families, while others played card games at the nearby stone tables. There was even an entire area meant for exercise, and I had expected Reina to be ecstatic about it. For now, it looks like she hasn’t yet noticed it was even there.
+
+Several workers walked around carrying trays of fruit and drinks, which were apparently free. The only thing people had to pay for was an entrance fee. Though of course, we didn’t have to worry much about that. The harpies up front recognized us right away and let us in for free since we’d decided to take off Sparrow’s rings.
+
+Oh—and I nearly forgot to describe the most important part. The men’s and women’s sections were on opposite sides of the building. The place we were standing—the center of the entire building, where the main pool was—was the only section that allowed both genders, strictly requiring people to keep their towels on in and out of the water. The towels were enchanted with magic that kept them perfectly dry even after being submerged in water.
+
+“Let’s meet back here when we're finished,” Meriel said.
+
+Kaelor nodded. “Very well. Come, Talon and Sparrow. Let us conquer this bathhouse!”
+
+I raised an eyebrow. “Conquer? Why does taking a bath sound like you’re about to enter a dungeon?” I asked.
+
+“We basically are.”
+
+“Not really.”
+
+He shrugged. “With this many rooms and pools, there’s no guarantee we’ll leave with the same number of people we entered with.”
+
+What was he even talking about?
+
+“...Just go take your bath,” I muttered.
+
+Kaelor laughed before heading toward the men’s section with Talon and Sparrow.
+
+“Hold on. There’s one more person who wants to come with you three,” Meriel said.
+
+She nodded at me.
+
+“Ah,” I said.
+
+I opened my [INVENTORY], and Noodle slithered out the moment it opened, almost as if he knew we were calling for him.
+
+“Noodle!” Talon said. “Come here! I’ll give you a nice wash.”
+
+“Wrrr!” Noodle chirped as he flew over to them.
+
+Just like that, the four of them headed away. That left me with Meriel, Reina, and Aeris.
+
+For some reason, I had a feeling this wasn’t going to be as relaxing as everyone claimed, but maybe that was because of how Reina and Aeris were looking at each other right now.
+
+“Could the two of you promise me you’ll behave yourselves?” I asked.
+
+“Yes,” Reina said.
+
+“Of course, darling,” Aeris said.
+
+I facepalmed. The fact that they immediately agreed to it only made me more worried.
+
+Meriel shrugged. “If anything happens, I’ve got just the right spell to keep them under control.”
+
+The right spell? They didn’t let anyone cast combative magic in here, did they? Either she was just bluffing, or she really did have something up her sleeve. Whatever it may be, Reina and Aeris seemed too afraid to ask about it.
+
+We headed off to the woman’s changing chambers. There was a mix of stone and wooden benches to sit on and cubbies built into the walls to put our belongings. Attendants stood nearby to guard any valuables left behind, but they weren’t too strict about it. From everything I’ve seen so far, crime was rare in Whale Isles.
+
+After putting our clothes away and wrapping ourselves in towels, we headed off to the baths. Aeris’s tail and wings made it difficult to fit the towel around her properly, but she somehow managed it in the end.
+
+Walking through the building, we saw too many kinds of baths to count. The basic ones were warm and cold baths, but there were also several that were rather… exotic.
+
+The first one was a cloud bath with thick, warm mist hovering over the surface of the water. The mist made it impossible to tell how many people were actually in there, but Aeris seemed particularly drawn to this one, given that she was a cloud dragon.
+
+The next was a mana spring with a deep bluish-purple tint. Based on what the sign said, this one not only restored your mana quickly, but temporarily increased your mana capacity for several days. We talked to one of the attendants in front of it, and she told us that the mages of Whale Isles’ army were required to soak in it periodically to keep their mana reserves high. To no one’s surprise, Meriel wanted to go in this one.
+
+“Hm…” I began. “Now I’m starting to see why Sparrow wanted to go here so badly.”
+
+We eventually came across a healing bath. The water was enriched with minerals, which gave it an emerald color. This one helped sore muscles and minor injuries, though I doubt it could replace actual healing magic.
+
+“Is that what I think it is…?” Reina muttered as she ran over to the next one.
+
+It was a flower bath with floating petals and lily pads on the water. This one had a particularly strong but pleasant scent coming from it.
+
+“We should probably just pick one instead of walking around forever,” I said.
+
+Meriel nodded. “I agree. How about this—we’ll go into the next one we see.”
+
+Wait a minute. There was a clear pattern, wasn’t there? If the past couple of baths appealed to Aeris, Meriel, and Reina, then the next one had to be for me.
+
+We walked over to the next one. Peeking inside, we saw…
+
+A pool made for dwarves and smaller women. The water was incredibly shallow, and that was pretty much all there was to it.
+
+Hah. How hilarious. The world just loves repeating the same jokes over and over, doesn’t it?
+
+“Okaaaay,” I said. “Could we just dip in the mana pool?”
+
+The others nodded. That one seemed to be the most popular one, anyway.
+
+We went back to it and stepped down the marble stairs one at a time. Warmth immediately spread through my body the deeper I sank into the water. Once we were submerged up to our necks, I realized that it was nearly impossible to see anything beneath the surface because of the deep bluish color.
+
+A significant portion of the pool was crowded with groups of people along the edges, so we took one of the corners, where it was quieter. There was enough room for the four of us to sit comfortably without having to squeeze between anyone else.
+
+I leaned back and let out a long sigh.
+
+“I can see why this one is so popular.”
+
+Meriel shut her eyes, smiling with pure bliss. “I absolutely needed this.”
+
+Surprisingly, bringing the towels into the water wasn’t as uncomfortable as I initially thought. Aside from the special effect of staying completely dry once somebody left the water, it still felt like the water was touching my skin. In fact, it didn’t feel like I had the towel on at all. I even had to double-check to make sure.
+
+“What happens if I drink the water?” Reina asked. “Would I have as much mana as you, Meriel?”
+
+“Yes, definitely,” Meriel said sarcastically. “Give it a try.”
+
+I stopped Reina before she could even try. “That’s gross.”
+
+Aeris sat beside me, inching closer whenever I wasn’t looking.
+
+“What are you doing?” I asked.
+
+She flinched, turning to me. “Hm? Oh, nothing, darling.”
+
+“I don’t mind you sitting close as long as you don’t suddenly start hugging me out of nowhere like you usually do.”
+
+Aeris chuckled, rubbing the back of her head. “Don’t worry, I wasn’t planning to do that at all.”
+
+I didn’t believe that for a second.
+
+“Well,” Meriel began, looking at us. “Taking a bath with someone you love is quite romantic. I can only imagine how Aeris feels right now.”
+
+Aeris smiled, timidly looking down at the water. That wasn’t a reaction I would expect to see out of her.
+
+“My heart is actually racing right now,” she said, putting a hand over her chest. “I never thought things would move so fast between us, darling. Now that we’ve taken a bath together, the natural next step is for us to get married and—”
+
+“I think you’re skipping at least a hundred steps,” I said. “Not that I plan on doing them anyway.”
+
+Her eyes lit up. “Are you saying you want to skip them and get married right away?”
+
+“No. I mean I don’t plan on doing any of that.”
+
+Aeris frowned, sinking deeper into the water. Everything below her nose was submerged.
+
+Reina laughed. “One-sided love sure does suck!”
+
+“That could’ve been you if you accidentally drank the love potion back then,” I said. “Good thing I grabbed it from you just in time, huh?”
+
+By now, all the tension in my body had disappeared, and I felt myself involuntarily sinking deeper into the water. Looking around, I noticed the others falling into the same state of relaxation.
+
+I decided to just let it happen.
+
+After everything we’ve been through, a bath like this was exactly what we needed.
+
+[TROPE COMPLETED: A WELL-DESERVED BREAK]
+
+Description: Even heroes need time to rest. After battles filled with blood, injuries, and loss, sometimes the greatest reward is simply relaxing with your friends.
+
+[REWARD: +1 LE-
+
+Nevermind.
+
+This nice bath should already be your reward.
+
+Nevermind…? Really? The System couldn’t have just given me one Level?

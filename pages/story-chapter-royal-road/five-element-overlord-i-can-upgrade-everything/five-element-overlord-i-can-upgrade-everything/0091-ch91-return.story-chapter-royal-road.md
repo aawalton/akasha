@@ -1,0 +1,119 @@
+---
+id: 7883ef9e-5924-5549-9b47-b91fe6c74d92
+page-type-slug: story-chapter-royal-road
+title: "Ch91 Return"
+slug: 0091-ch91-return
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 91
+ownLength: 1521
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3641731/ch91-return"
+royalRoadId: "3641731"
+---
+
+We fly back over the many mid and high grade veins surrounding the city, and eventually further away to the low grade and inferior grade plots.
+
+It was the dead of night when we passed over the majority of the wilderness on our way to the city. I saw outlines of mountains, and groups of lights pointing out small towns and even mortal villages.
+
+However, now, I get to take in far more of the wilderness in our long flight back to the sect.
+
+Every few hundred kilometers, off far on the horizon, a taller than average peak stands out. Lan Xin always avoids them, continuing to fly on travel routes above only the main roads.
+
+“What are those mountains? Why do you not go near them?”
+
+“They’re privately owned plots. Smaller than Lingshi city, but still granted to families by the Azure Cloud Sect. They’re most likely high and perfect grade tier 1 veins, allocated to strong qi refining families with perfected stage patriarchs.”
+
+She shrugs, “Or, they’re owned by foundational clans and left abandoned to let the wild spirit beast populations build up. Most use plots like this for training grounds for their young.”
+
+I raise an eyebrow, as one of my side quests for killing 5 mid stage spirit beasts comes to mind.
+
+“Is there any way we can stop at one? Or pay a clan to let us hunt there?”
+
+Lan Xin sighs, “You really know nothing about this county, do you? Did your family just give you protective items and throw you into this sect as a tribute?”
+
+“Yeah, something like that… are you going to explain or not?” I murmur.
+
+A stir of excitement shows in Lan Xin’s soul at my irritation, and a grin grows on her face, “The Sect has their own territories for exploration and training practice. Ask the quest hall about the Misty Forest once you return, the Beast Mastery Peak sends out expeditions often. It’s how this county got its name in the first place.”
+
+I recall a few late stage qi refining disciples mentioning the Misty Forest in the Quest Hall. They often dropped off earth lizard eggs in exchange for contribution points. My first assumption was that it was some kind of breeding ground, but it appears it's far more than that.
+
+Lan Xin turns away and walks to the front of the ship, and sits down in a cultivation position. “I still have to stabilize those fire stones, so do not disturb me for the rest of our travels.”
+
+Her eyes close, and I’m left to watch the mountains and villages pass by in silence.
+
+The sky turns dark by the time we actually get to the sect.
+
+Almost no one is at the Quest Hall when we arrive and slowly descend.
+
+I walk in behind Lan Xin, right up to one of only two on staff workers. The lines move slow, but an old man scans our identity tokens and confirms that I’ve returned within a reasonable time to start my seven day leave.
+
+Lan Xin turns to exit, but I ask the old man a question.
+
+“I’ve just found out about something called the Misty Forest Expeditions. Is this something I can sign up for now?”
+
+He nods as though it’s inconsequential. “Possibly, let me see when the next available outing slot opens.”
+
+His wrinkled fingers sift through a few jade tablets, and eventually he looks up, “We’re all booked for the next 2 months on the exotic egg hunting explorations. Would you like to attend then? You don’t fit the 6th level qi refining soft threshold, but if a named disciple like Lan Xin were to talk with whoever is sent over from the recruitment peak to guide the exploration, I’m sure they would make an exception.”
+
+I stare at him, confused, “I guess that works... Are there really no earlier slots available? I can pay.”
+
+He shakes his head while adding my name to the scheduled slots, “No, the waitlist has gotten much longer after the war due to a shortage of guides. This is not a list you can simply purchase privilege slots for. If you come by and check in the morning, sometimes there are cancellations that open up new positions. Or of course, you could privately ask a fellow outer sect disciple to swap with you.”
+
+He glances toward Lan Xin again as she walks out the front door of the hall, so I clasp both hands in understanding and give a simple bow, “Very well then, thank you.”
+
+She has already boarded her flying vessel by the time I get outside, and doesn’t say a word to me until we’re back to my spiritual fields.
+
+“I will return in a week with your spirit stones. You better have what I need,” she remarks while flying away, her dismissive cold expression has entirely returned.
+
+I still show a thin smile and wave as her boat fades from sight. Then, walk back to my humble mid grade spirit vein, take a warm bath, and fall asleep until the sun rises again.
+
+–
+
+“Senior Li! There is a problem with the spirit fields! It is dire!” A 60 year old man’s voice yells out.
+
+After collecting my check-in of upgrade cards this morning, I was planning on slipping away into my hidden realm, but the presence of a steward at the base of my small peak keeps me from doing so.
+
+His hoarse raspy tone and urgency makes me believe this is not the first day he’s been calling out for me. It is kind of him to wait until the sun rises.
+
+I walk down the grassy hill, and the kind face of a sun tanned and wrinkled 1st level qi refiner with 9th grade roots greets me. His name, Shen Dehai, shows up in my system scan.
+
+His shoulders relax at the sight of me, but he still bows over and over until I stop him.
+
+“Junior Shen, I was away in Lingshi City for the week. What is the issue?”
+
+He keeps his head down, “There has been a planthopper infestation. They appeared two days ago out of nowhere, and have started ravishing the fields.”
+
+He pulls out a small clear jar, and a brown grasshopper-like creature buzzes around and hops against the glass. My spiritual senses pick up a small amount of qi inside this insect, but it is barely more than a spirit fragment.
+
+My eyebrows raise, “How bad is it? Are we going to have to replant everything?”
+
+“No, no, it is not that bad. Their reproduction rates cycle about every 5 days, so this is only the first major wave. There are not nearly enough yet to do serious damage, but if the current infestation repopulates again it could be devastating. If I hire out a few pest control earth lizards to clear them out, we should be able to save over 90% of the crops.”
+
+My gaze tightens, as these numbers are strange. If the planthoppers came two days ago, and they take five days to normally hatch, the first infestation happened the day after I left these fields.
+
+It is either a strange coincidence, or it was planted…
+
+“How much will it cost?”
+
+“One spirit stone a day per initial stage earth lizard, I think hiring ten for three days would be a safe amount… and a single mid stage armored lizard for a day would guarantee the fields are cleared. That would be an extra ten spirit stones.”
+
+I nod, and toss him a low quality ring packed with two hundred spirit stones.
+
+“There’s extra, rent more lizards if it will guarantee the pests are gone faster. Split the rest with the other stewards as a bonus for the extra work, thank you for watching over the fields while I was busy.”
+
+He hurriedly catches the ring while I walk back up the grassy hill toward my abode.
+
+The old spirit crane swoops in from its slow circling after a morning of watering the fields.
+
+I’ve occasionally felt this crane sit atop a stone wall in the back courtyard and cultivate with the ambient energy, but it never does when I’m around. The bird appears mindless and dull, but I believe there is a glint of wisdom in its eyes. Not much, but it is enough to understand my habits.
+
+I pull out a handful of inferior grade water stones from my storage, and toss them his way.
+
+“Thank you too, keep up the good work.”
+
+Its beak turns to the pile of pale blue rocks, and picks one up to throw it in the air above before swallowing it whole. As I walk inside my home, it swallows the rest of the stones one by one, and curls up in a comfortable ball to cultivate with them.
+
+I walk to my bedroom and lock the door behind me. Then disappear from sight, slipping away into my hidden realm.
+
+An upgrade card and a martial root appear in my hands as I stand in the center of the five element cultivation array.

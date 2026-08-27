@@ -1,0 +1,209 @@
+---
+id: 4dab6d0c-8d53-5a47-8c9e-3d52e0b49b47
+page-type-slug: story-chapter-royal-road
+title: "14 - We're Not Dead"
+slug: 0014-14-we-re-not-dead
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 14
+ownLength: 1241
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3411771/14-were-not-dead"
+royalRoadId: "3411771"
+---
+
+My skin felt like it was being torn and burned apart.
+
+I collapsed into the snow, clutching my arms as the blizzard devoured my entire body. Breathing… blinking… moving… Everything hurts.
+
+HP: 196/576
+
+HP: 171/576
+
+I was… dying. This was insane. How were people supposed to fight against something like this?
+
+“Allene!”
+
+It was Reina’s voice, somewhere in the snowstorm.
+
+I tried to answer her, but my body wouldn’t move. I wouldn’t be surprised if the frost froze my words away, even if I did speak. My entire body was slowing down.
+
+I heard footsteps again, crunching against the snow. It was getting close. Then further. Then close again.
+
+I forced myself to look up.
+
+I saw two glowing eyes staring back at me.
+
+Skoll, the Beast of the Endless Blizzard.
+
+How was it so powerful…?
+
+“Allene!”
+
+I felt something behind me. A touch. Then warmth.
+
+“Allene, are you okay?”
+
+Somehow, my movements began to come back. I turned, seeing Reina clutching onto the spear that Meriel had set on fire. Its heat had kept Reina alive, even while her Warmth Aura was gone. And now, it was keeping me alive, too.
+
+My HP stopped draining.
+
+“Over… there….” I muttered weakly, pointing at where I had seen Skoll’s glowing eyes.
+
+Reina looked in that direction, but they weren’t there anymore.
+
+The footsteps continued. The growling continued. What was the beast planning?
+
+“Allene! Reina!” came another voice. It was Meriel.
+
+She burst through the snowstorm, finding Reina and I together. She looked at my condition, noticing how hurt I was. Her Warmth Aura was still up, but she took it down to conserve mana, standing closely next to Reina’s flaming spear.
+
+“What do we do? Allene’s badly hurt, and… and…”
+
+Reina ran out of words to say. The situation we were in now looked dire.
+
+“A normal teleport is impossible, and we can’t defeat the beast now,” Meriel said as she cast some kind of healing spell on me. I was starting to feel better already. “But there is one thing I can try.”
+
+“What is it?” Reina asked.
+
+“An unstable teleport. It’ll be much quicker to cast. We can escape, but I don’t know where we’ll end up.”
+
+Even on the brink of death, I had enough consciousness to know how stupid of an idea that was. What if we were teleported inside a volcano? What about in the middle of the ocean?
+
+“Allene,” Meriel said. “Support me while Reina keeps the beast away.”
+
+After being next to Reina’s flaming spear for long enough, my breathing steadied, and I could speak normally again.
+
+“You… want me to help you with the teleport spell? But I don’t even know how to do it.”
+
+“You don’t have to,” she said. “Just lend me your mana and follow my lead.”
+
+She pulled me close and tapped her staff to the ground. Light filled the area, but it wasn’t the same light as all the other times. It was a dark-red color, almost like blood.
+
+I tapped my staff to the ground as well. I didn’t know what I was doing, but with the way Meriel held me, it felt like she was supporting me—guiding me through the spell. My mana was completely exhausted earlier, but all the stat points I put into Wisdom had allowed me to generate some back, even if only a little.
+
+I did everything I could to help her.
+
+Skoll roared, and somewhere in front of us, its glowing eyes reappeared again.
+
+“Focus,” Meriel said. “Don’t look at it.”
+
+“But—”
+
+“Trust your friend.”
+
+Reina stood in between us and the glowing eyes. She kept her flaming spear next to us to provide us heat, but she was also prepared to plunge it into the beast at any moment.
+
+Then, Skoll began its attack.
+
+It burst through the blizzard. Reina quickly thrust her spear, forcing it to dodge. It retreated back into the snowstorm, disappearing completely. She brought the flaming spear back to us.
+
+Then, Skoll attacked again—appearing behind us this time.
+
+Reina reacted quickly to the sound. She turned. From that distance, she wouldn’t reach the beast in time.
+
+It flew mid-air, just a millisecond away from clenching its jaw on Meriel and I.
+
+But Reina didn’t need her spear to keep it away.
+
+She cast Fireball from the tip of her weapon. It seemed larger from the last one she had cast during training—more controlled.
+
+It shot out, exploding on Skoll’s face. The beast roared, and that hesitation was enough for Reina to sprint at it and thrust her spear forward, plunging it deep into the beast’s shoulder. Its roar was so loud and earth-shaking that I nearly collapsed again, but Meriel held me steady.
+
+“It’s ready!” Meriel screamed. “Reina, come!”
+
+She returned to our side, stepping into the dark-red light we had cast.
+
+Then, the spell began to take us away.
+
+The blizzard slowly disappeared, and Skoll’s roar faded away.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- COMBINED SPELL CASTING BETWEEN A MENTOR AND A MENTEE (COMPLETED)
+
+- THE FRONTLINER PROTECTS THE CASTERS (COMPLETED)
+
+- THE ICE BOSS HAS A STUPID SLOWING DEBUFF (COMPLETED)
+
+- THE BOSS ENTERS PHASE TWO (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL ACQUIRED: GUIDED MANAFLOW]
+
+Type: Passive
+
+Effect:
+
+- Mana control temporarily improves when casting alongside another mage
+
+[ITEM ACQUIRED: LESSER MANA POTION]
+
+Effect:
+
+- Restores some mana upon consumption
+
+Warning: May induce mana sickness, reducing spell power.
+
+This item will now appear in your [INVENTORY]
+
+- ICE WOLVES (FAILED)
+
+- BOSS DISGUISED AS A MONSTER (FAILED)
+
+[CONSOLIDATING PUNISHMENTS…]
+
+[CURSE GAINED: FINAL HEALTH INSURANCE]
+
+Effect:
+
+- The next boss you face will survive a lethal attack once
+
+Note: In other words, you now have the 1 HP curse.
+
+[CURSE GAINED: BOSS MUSIC]
+
+Effect:
+
+- The next boss you face will have overwhelmingly loud music
+
+***
+
+Gusts of wind louder than any I’ve ever heard before blew past my ear. I heard a waterfall to my side, paired with the subtle chirping of what sounded like birds.
+
+But that wasn’t all.
+
+Remember the first time Meriel teleported Reina and me to the cabin? The time when I was on top of Reina, and Reina was on top of Meriel?
+
+It was, unfortunately, the complete opposite this time around.
+
+“AGHHH!” I screamed, my eyes shooting open.
+
+Between the two, I knew very well who took the majority of the weight.
+
+Let’s just say it definitely wasn’t Meriel.
+
+“Well, that’s surprising,” Meriel said. “We’re not dead.”
+
+“That’s… surprising?” I repeated. “Then what were you expecting?”
+
+“The opposite of not dying.”
+
+“So dying.”
+
+“Yes.”
+
+Reina was the first to stand, taking in the sight. Her eyes sparkled with joy, emphasized by the beam of light spilling from above. Even though the sun was as bright and brilliant as it could ever be, it was surprisingly colder and windier than expected. Not as bad as the blizzard, but still.
+
+“I’ve always wanted to see the floating islands!” Reina let out, laughing. “The two of you did it! We escaped the big wolf!”
+
+“Yup, we did,” I said casually at first before pausing. “Wait, what? Floating islands?”
+
+I looked around.
+
+Grass ran all over the ground, with the occasional trees here and there. But that was usual.
+
+What was unusual was that we were so high up in the air that the clouds were below us instead of above us.
+
+The teleport spell had brought us to the very edge of a floating island.

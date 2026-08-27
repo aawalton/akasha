@@ -1,0 +1,185 @@
+---
+id: 37698a10-f5b0-56dd-a3e9-05b996a0bfb6
+page-type-slug: story-chapter-royal-road
+title: "Ch99 Martial Grandmaster"
+slug: 0099-ch99-martial-grandmaster
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 99
+ownLength: 2322
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3686585/ch99-martial-grandmaster"
+royalRoadId: "3686585"
+---
+
+Stable ground, calming cultivation energy, and my surroundings filled with golden mist come into view.
+
+The presence of a relentless armored lizard swarm disappears. There is only a single living entity left within my spiritual senses.
+
+[Automatic Inspect Function Activated…][Little Red] [Age: 0][1st Level Qi Refiner][Mutated Fire Spiritual Root][Special Grade][Acquired Black Lotus Flame Physique][Initial Stage - Spirit Grade][Acquired Natural Flame Physique][Initial Stage - Mortal Grade][Semi-Dormant Innate Physique][Holds a trace of the Primordial Flame Swallowing Toad’s Bloodline. Has a partially awakened innate talent for assimilating Unique Flame Fragments, nurturing them into True Flames and their associated Acquired Physiques.]
+
+The small flame toad shifts its gaze my way as my presence accidentally wakes it up from its peaceful cultivation.
+
+I stare back at it, narrowing in on the new acquired physique on its status… a natural flame physique. The only thing I can think of is the calm crimson flames that pour out from the floor of this cultivation array.
+
+Unlike others’ physiques like blood demons or armored lizards, for some reason I cannot intuitively sense its two physiques.
+
+He is still at the first level of qi refinement, and there is no indication that he’s trying to absorb any of the ambient qi flowing out of this array.
+
+With a shrug, I look away, and dive deep into my own storage now that I have more time to think.
+
+There are just about a dozen upgrade cards, three minor lottery dice, a few perfected tier 1 talismans, arrows, and short-range weapons. Unfortunately, my two 2nd tier offensive trump cards have already been used up.
+
+I only have enough spirit stones left to charge my lightning attack talisman again, but it can only kill a small amount in one place.
+
+At the rate I’m climbing, it’s going to take two or three minutes to make it up the wall. I’d need to use my qi sword slaughter formation many more times to be certain of escape. Moving forward… I’ll need to carry a bigger emergency supply of spirit stones to charge my tier 2 talismans for times like this.
+
+I pull the three 20-sided dice out from my storage, and roll one to start.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Soul Anchoring Gum][2nd Tier Soul Artifact]
+
+[Ding!][Soul Anchoring Gum has bound to the Host!][Passive Ability: None, must be consumed to act upon the user.][Active Ability: 1 Use, Non-Rechargeable. This Soul Anchoring Gum can be bound to one’s soul, and completely block a full-force mid-stage foundation establishment cultivator’s soul attack.]
+
+A small vial the size of a finger appears in my storage. When I pull it out, it shimmers with a milky white and semi-metallic shine. It feels warm in my palm, and when I move it side to side it hardly flows, as its viscosity is thicker than molasses.
+
+“This isn’t going to do anything for me right now… Come on, I need something to help me out of this pit in one piece.” I murmur and toss another die.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Perception Expanding Spirit Jade][2nd Tier Mental Artifact]
+
+[Ding!][Perception Expanding Spirit Jade has bound to the Host!][Passive Ability: While worn, the user's spiritual senses cannot be suppressed by any force below the average strength of an initial stage of foundation establishment cultivator.][Active Ability: 1 Use, Rechargeable(Cost-10,000 Spirit Stones). The user’s spiritual senses will increase to that of an initial stage foundation establishment cultivator for 3 minutes. Requires minimal movement to maintain full strength.]
+
+A small flat white rectangle of jade with a green eye in its center falls into my storage. There is a black string tied to it long enough to wear as a necklace. It reminds me of an artifact I used a long time ago in the servant camps and the ravine to give me small bursts of mid-stage foundation perception for seconds at a time. This item seems to be less powerful, but it has a much longer duration.
+
+I pull it out, and tie it around my neck. A subtle warm white glow pulses out once, but nothing happens.
+
+“What is this? How is seeing these enemies coming going to help me if I don’t have the means to kill them…?” I speak out loud toward the system.
+
+I start mentally counting my upgrade cards and recall the old directions that armored lizards were headed toward me. Yet, every scenario I think of ends poorly. If it was just late-stage lizards, I could make it out, even if there were a hundred. It’s the level 10 lizards that are the problem. It takes multiple perfected talismans to kill them; I simply do not have enough.
+
+There is still a 2nd and 3rd tier upgrade card deep in my storage. However, using one of these on an offensive item may be far too powerful for me to withstand… It could certainly get rid of the threat, but it would have a high chance of killing me in the process.
+
+Gritting my teeth, I toss the final lottery die.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Physique Concealment Ring][1st Tier Concealment Artifact]
+
+[Ding!][Physique Concealment Ring has bound to the Host!][Passive Ability: Automatically acts as a temporary stabilizing soul anchor if the physique becomes unstable.][Active Ability: Use until stored vibrations dull, average half-life - 1 year. The user can alter the visual output of their mortal grade physique between the initial, middle, late, and perfected stage. The inner strength will not be affected.]
+
+A small black ring that appears no different than a normal spatial item falls into my storage.
+
+This is the first time I’ve received an item below the 2nd tier from a minor lottery draw.
+
+I pull it out, and try it on. From its weight alone, I can tell this is no normal perfect grade tier 1 ring.
+
+Another small text box flickers to life in my mental space.
+
+[Perfect Grade Tier 1 Physique Concealment Ring][Perfected Stage - Mortal Grade Enchantment]
+
+At the same time, my martial physique vibrates, and syncs with its rhythm.
+
+Options appear in my mind below this status description, and I’m able to shift the outward pressure of my physique without a second thought.
+
+Instantly, it shifts down to the output of a martial elite, then a martial warrior.
+
+Combined with my Illusory Demon’s concealment art, I really could blend in as a mortal, but still pack the punch of a late-stage 8th level qi refiner at my full force.
+
+I’m unable to hide my physique entirely; it can only be shifted down to that of the initial stage… and when I try to push the setting to the perfected stage, it does nothing at all, leaving my late-stage martial master physique outwardly showing.
+
+The more I play with this valve-like concealment artifact, the more I think about the other two lottery draw items I just received.
+
+One shields me from soul damage, another widens my perception, and this third item that is a ring can stabilize my physique.
+
+These are all of the issues holding me back from the final perfected stage of this martial physique…
+
+So far, the system has always granted me items adjacent to what I need, but recently it sure has been a pain about it. There’s no longer a necessity for a special attack item; it’s given me the tools to become that item myself.
+
+At the same time a weak mental image of my side quest window floats to the forefront of my mind, I concentrate on it further and the crisp golden text materializes.
+
+The first two are still the same, requiring me to reach level 7, and to kill 5 foundation establishment cultivators. However, the new one that forms is not what I expected to see after the last few quests were all focused on killing spirit beasts.
+
+[Become a true physique holder, upgrading any physique to the Initial Stage of Spirit Grade.] shines bright in my vision at the bottom of the side quest window.
+
+The system is heavily pushing me in one direction, and I do not question it any further.
+
+I pull out my cauldron again, and pour in filtered water, begin heating it up, then pull out a pile of inferior martial roots.
+
+I begin upgrading them one by one until there are 6 perfect grade golden and light brown roots before me. I chop them all up into over 400 coin-sized slices, and drop them into the slowly boiling water.
+
+The thought of pushing myself so early before made my physique shudder, but as I wait I start to practice the final set of movements in this mortal grade physique. Every time there is an uncertainty, I feel a calming ripple pour out from my ring to act as a mirror image of the harmful tension.
+
+I manage to make it through the entire routine of movements without overstraining myself; however, doing so without any excess extract to absorb is a far different trial than the real thing.
+
+I cycle my Jade Purity Soul Scripture to calm myself down entirely, and even forget about the threat outside.
+
+Every few minutes, I lift the cauldron off the heat and gently stir it.
+
+Making a tea with 6 roots at once is far more difficult than just one.
+
+It takes over thirty temperature shifts and pot stirs, lasting almost two hours before all of the extract soaks out from every root slice. The liquid shifts from milky white to a shimmering gold in the blink of an eye once it's ready.
+
+I stand up, pop the cork off of the Soul Gum Vial, and drink it down without hesitating.
+
+Next, I activate the single use of the Perception Expanding Spirit Jade pendant around my neck.
+
+Without care for burning my hands or throat, I grab hold of the cauldron, and drink every drop of Heavenly Grade Martial Extract Tea there is.
+
+—
+
+A ton of sensations collide in my consciousness at once.
+
+The first is a silky metallic substance that flows into and around my two souls and holds them together like a thick warm glob of gum.
+
+My new pendant activates too, expanding my senses by over two times. These enhanced spiritual senses reach outward 100 meters, equal to that of an average initial stage foundation establishment cultivator.
+
+The golden mist in this hidden realm is far too complex for me to comprehend, so the majority of these senses dive inward, enhancing my focus.
+
+It allows me to watch the third factor in greater detail, which is the heavenly martial tea extract flowing into my body.
+
+The invisible extract disperses, heading straight toward my physique, while the heavenly aura evenly distributes itself into my flesh, soul, qi pathways, and the physique itself.
+
+I start my Martial Movements at once, and my new ring artifact activates its passive attribute instantly, soothing the extreme tension of my first lunge.
+
+It is so extreme, in fact, that this lottery artifact is not capable of combating it on its own.
+
+I instantly feel the tension break past what this anchor can hold, and my souls bend erratically to help out.
+
+They twist and try to break apart, and portions of them push up against my physique to elevate the tension.
+
+In any normal situation, my souls would have fractured apart, and each into hundreds of shredded pieces on the spot, like blood demons fighting above their strength potential.
+
+Yet, once the tension passes, and I make my next punch of the movement, the bent soul fragments stretch back, as though they’re being pulled by rubber bands.
+
+The metallic white Soul Gum is acting as glue, using its passive ability, and holding them both perfectly in place while my physique is still gaining the benefits.
+
+I do not even have to pause and activate my Jade Purity Soul Scripture; absolutely zero damage is being done. In fact, every small stretch adds a level of maturity to my souls that would have needed many days of cultivation to achieve alone.
+
+Over and over, I run through the movements ingrained in my mind.
+
+I watch my physique be pushed to its breaking point, then saved from a fracture every time.
+
+The cycle repeats.
+
+A full hour passes in my trance-like state, long past when the perception expanding spirit jade has worn off. I pull it back into my storage.
+
+My 100 meters of spiritual senses have faded, and I've returned back to my natural state. Though, somehow, my natural state feels far more full of depth than it was before.
+
+I can sense at least 50 meters outward now, and the worst of this trial is already over. There is no need for the depth of perception I had before.
+
+I’m capable of doing multiple movements in a row only relying on my ring for stabilization. It is only the most extreme positions where my souls are stretched out of place again.
+
+Another full 8 hours pass.
+
+I have to rely on the passive traits of this Soul Gum less and less.
+
+Eventually, full cycles of the movements go by without even a single harmful ripple.
+
+Even the reliance on my ring fades. I feel the enormous amount of extract sinking into my physique slowly and steadily.
+
+Once I go full movements without even feeling the ring’s assistance, I take it off and drop it into my storage to carry out the final movements.
+
+It is hard to tell exactly how many hours pass in these last few cycles, but it is certainly more than everything before it. A new check-in card collection notification alerts me that it is now morning rings in my inner ear as I finish up, and watch my status shift.
+
+[Acquired Martial Grandmaster Physique][Perfected Stage - Mortal Grade]
+
+An extremely heavy ripple of Martial Aura pours out from my being as the perfected stage of this physique shifts into place.
+
+With it, a full four levels of raw strength is added to my physical prowess.

@@ -1,0 +1,189 @@
+---
+id: 43dbe630-90e2-5ed9-a344-2432008d8967
+page-type-slug: story-chapter-royal-road
+title: "41 - Gabriel"
+slug: 0041-41-gabriel
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 41
+ownLength: 1835
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3517080/41-gabriel"
+royalRoadId: "3517080"
+---
+
+I stopped Camille in the middle of her explanation about the Borrowed One.
+
+“Let me get this straight,” I began. “So you don’t know what a dungeon is.”
+
+Camille shook her head. “I do not.”
+
+Which, as I thought before, was likely because she was a byproduct of this dungeon. This dungeon was her entire world.
+
+“Then what about the Borrowed One?” I asked. “When Reina was reading that book earlier, she… actually, I didn’t really understand what was happening, but it sounded like the Borrowed One was able to leave the manor.”
+
+“That is correct.”
+
+“And you aren’t?”
+
+“That is also correct,” Camille replied. “My life has revolved around this very manor. I have never had the ability or the will to leave it.”
+
+“Do you remember the time when you were a child?” Reina asked.
+
+“I was never a child,” Camille said. “I have taken this form—an adult human ghost—since my very birth.”
+
+I leaned in to Reina, whispering, “The dungeon probably made up backstories for all the NPCs.”
+
+Reina tilted her head. “NPCs? You said something like that after we first entered the manor.”
+
+“By NPCs, I’m talking about ‘living’ things in this dungeon that aren’t monsters,” I clarified. “Camille is probably just made of magic, and the Borrowed One is just a part of this dungeon’s backstory.”
+
+I turned back to Camille, raising my voice. “So this Borrowed One was the previous owner of this manor, and he became mad while seeking immortality. What exactly did he try to do to achieve that? I heard a few things here and there from the book, but I think it’ll be much easier to understand if you tell us directly.”
+
+The ghost maid nodded, resting her hand on the cursed book in front of her.
+
+“Lord Aurelius believed that flesh was replaceable, and that a soul was imprisoned in the vessel it was born in. In other words, his life goal was to find out if it was possible for somebody to transfer from one body to another, all while retaining their thoughts, memories, and sense of self. As we know, aging is tied to one’s own body—wrinkling skin, eyes going blind, ears becoming deaf. These are natural processes that come with age. Yet, a person’s soul remains untouched. It is the one thing that doesn’t know the concept of aging.”
+
+She opened her arms, showing off the shelves of books surrounding us. “Every single one of these books relates to his research. Some may be about organs. Others may be about memories. As I mentioned earlier, he was a man who took education extremely seriously, and spent countless hours here in this very library studying as much as he could, hoping that one day he could find the answer he sought.”
+
+“And did he ever find it?” I asked.
+
+Camille looked out the window.
+
+“I don’t know,” she said. “But as much as I loved Lord Aurelius, I understood just how unreachable his goal was.”
+
+I laughed. “You doubt him even though you’re his servant?”
+
+“Even though I was his servant, yes,” she said. “And I’m inclined to believe he failed. In the following weeks before he left the manor, he became mad. He screamed at every little thing, pulled his hair as he flipped through the pages of these books. There was even a time when I had tried to serve him tea, just for him to grab it and dump it on me. Unfortunately, even for a ghost like me, only people can pass right through me, so the tea drenched me nonetheless.”
+
+Reina stood, her chair shooting back. “That’s horrible! Didn’t you say he was kind?”
+
+Camille nodded, blinking slowly. “Yes. To this day, he is still one of the kindest people I have ever met, but his madness overcame him. It turned him from Lord Aurelius to what we call the Borrowed One.”
+
+“Where did that name come from?” I asked.
+
+“Because his desire to transfer a soul from body to body requires spare flesh. There is no living thing in this world born without a soul. Thus, to even have a spare body to conduct his experiments, he often had to ‘borrow’ flesh. That is, to separate another being’s soul from their body, leaving that body hollow. Of course, these bodies were not monsters, but real people.”
+
+“How is borrowing flesh any different from murder?” I asked.
+
+“Because murder is painful,” Camille said. “But the separation between a soul and a body is not. At least, that was what he believed. The soul was said to be sent to the afterlife, where it could never feel pain again. Pain is tied to the body, after all.”
+
+She pointed below us, not at the library’s floor, but beyond it.
+
+“He conducted all of his experiments involving borrowed flesh beneath this manor.”
+
+Reina and I looked at each other.
+
+“Doesn’t that mean…” Reina began. “Doesn’t that mean there are bodies down there right now…?”
+
+The ghost maid’s expression grew serious.
+
+“I don’t know. No one has ever had access to the underground area besides Lord Aurelius. Regardless, he has been gone for a long time now. If there were any beings down there before he left, they’re likely all dead by now.”
+
+Camille stood, and her chair pushed in by itself. “If the two of you would like, I can take you to the cellar’s entrance. No one has been able to open it, but if it satiates your curiosity, I’m able to bring you to the door.”
+
+She picked up the cursed book and placed it back in the bookshelf it belonged in.
+
+“I think we should do it,” Reina whispered to me, her eyes glistening.
+
+“Why do you look so happy after hearing such things?”
+
+“Because this seems super interesting! This dungeon has more secrets to it than I thought. Maybe we’ll somehow be able to get into the cellar, and there could be a hidden chest down there with another legendary weapon.”
+
+I touched Dawn Sunderer, which was hanging from my back. Another legendary weapon did sound pretty nice.
+
+“Have your past guests ever seen the cellar?” I asked Camille. Of course, by past guests, I just meant the previous adventurers who took on this dungeon.
+
+She shook her head. “The past guests don’t even know about the Borrowed One. Reina was actually the first person to have ever found that cursed book.”
+
+Welp. I’d be pretty dumb not to take her offer. Clearly, this dungeon was pushing for us to go in there and find some super cool loot. Either that, or we’ll be met with the horrifying sight of the Borrowed One’s past experiments.
+
+“Lead the way,” I said.
+
+Just as Camille was about to lead us out of the room, we noticed a head poking out of the doorway. The three of us froze in our tracks.
+
+It wasn’t a monster.
+
+It wasn’t a ghost like Camille.
+
+It was…
+
+“Bathtub man…?” Reina muttered.
+
+The man smiled, stepping through. It was the same angel who had raced us in the floating bathtub—the one who was disqualified for using magic during the race.
+
+And the only person who had ever cleared this dungeon… by himself.
+
+“You… what are you doing here?” I asked.
+
+His wings spread as he walked up to us. “Why hello there, my good friends! I’m so happy to see you two again. I haven’t stopped thinking about you and the others ever since our last encounter.”
+
+“Huh?” I said.
+
+He smiled. I looked at his hands, seeing the same rings on each of his fingers as the ones I saw back at the race.
+
+“Curious?” he asked, noticing my gaze. He lifted his hands, and the rings around his fingers began to rapidly spin. It was the same trick he had shown me back then.
+
+“Is that wind magic?” I asked.
+
+He nodded. “A variation, yes.”
+
+Reina stood in between us, arms out. “How did you get in the dungeon? And how long have you been following us for?”
+
+His rings stopped spinning as he let his arms fall to his sides.
+
+“I’ve been following you all ever since the five of you opened the dungeon gate,” he said. “Kaelor, the Firstborn. Talon, the harpy. Meriel, the mage-elf. Reina, the magic-knight. And Allene…”
+
+He poked his head around Reina, looking at me. He didn’t continue after that.
+
+If all of this was true, that meant that the trope initiation I saw just before entering the manor… it was him all along.
+
+[TROPE COMPLETED: SOMEONE’S WATCHING]
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[128 → 129]
+
+Well that confirms it.
+
+“Anyway, this is rather good timing,” the angel continued. “The two of you and Camille are about to head underground, right? So am I.”
+
+He looked at Camille, and she bowed down to him.
+
+“Welcome back, Gabriel.”
+
+He reciprocated the bow. “Hello, Camille. Thank you for the service last time.”
+
+That’s right. If he was the only person who defeated the warden at the end of the dungeon, he must’ve also had to go through what we’re doing now and enter this manor to find one of the levers. This would be his second encounter with Camille.
+
+“Why do you need to head down there?” I asked.
+
+He reached into his pocket and pulled out a key. “Because of this.”
+
+We looked at it.
+
+“A key to the cellar?” Reina asked. “How did you get that?”
+
+“When I defeated the dungeon warden, it didn’t just drop a pair of wings as the final reward. It also dropped this key,” he explained. “Back at Whale Isles, I had a mage cast Analyze on it, and she said the key could only be used inside this dungeon. It was easy to connect the dots and make it back here. And it looks like I had a good reason to do so, considering how important this seems to be with all that talk about the Borrowed One.”
+
+I looked at Camille. “You told him about the Borrowed One?”
+
+She shook her head. “No. You and Reina are the only ones who know about the Borrowed One. Gabriel must’ve listened to us just outside this room.”
+
+The angel nodded. “I heard everything. Though this may just be a dungeon, it’s a dungeon with its own secrets,” he said. “I was curious enough to bring myself back here. So what do you say? Do you mind if I come with you?”
+
+“You’re asking that when you’ve already been following us ever since we took a single step inside the dungeon,” I said. “But I guess if you have the key, then this isn’t so bad.”
+
+He smiled. “Perfect! Then let’s start going right away!”
+
+He headed out the door before any of us could.
+
+“Do you even know where it is?” Camille asked.
+
+He looked back. “Oh! Actually, no, I don’t. Can you show us the way?”
+
+He stepped aside, letting Camille go through.
+
+“Come right this way,” she said.

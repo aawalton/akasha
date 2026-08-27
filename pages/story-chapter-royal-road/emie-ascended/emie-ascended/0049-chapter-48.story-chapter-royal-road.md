@@ -1,0 +1,167 @@
+---
+id: 12f8619d-d4f9-56a3-b0ff-5f673a812263
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48"
+slug: 0049-chapter-48
+partOf: emie-ascended
+position: 49
+ownLength: 2300
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3815871/chapter-48"
+royalRoadId: "3815871"
+---
+
+While Stephen continued to sleep, I carefully unpacked the box before examining everything. I’d definitely need to enchant all the pieces with durability to prevent anything from breaking, but since I would have to do each item individually, I wasn’t in any hurry to start on the project.
+
+Glen had provided far more than I expected from our deal, which explained why the box had been so large. Aside from dishes and glassware, he’d also included a tea set, mixing bowls, and two large serving dishes.
+
+Once everything was unpacked, I swiftly stored it all to prevent any accidents. With a young asolade in the residence, it was only a matter of time before something was knocked to the floor.
+
+All the more reason to keep everything put away until I get around to enchanting it all.
+
+“You’re back already?”
+
+I turned to see Stephen walking out of the bedroom with Aerie perched on his shoulder. Her long, fluffy tail was wrapped lightly around his neck to provide stability.
+
+“Yes. I’m all finished with my task. Are you hungry? I don’t really feel like cooking, but we can always go somewhere.”
+
+“Breakfast sounds good,” he agreed with a nod.
+
+We fed Aerie first and promised the kit that we wouldn’t be gone for long. I decided not to put Aerie into stasis when I left the sanctuary this time since I wanted her to get used to being alone at least a little bit.
+
+She also needed time to grow, and she couldn’t do that in stasis. I did make sure to put anything fragile away first, though.
+
+Since the Dungeon Complex’s breakfast buffet was actually pretty decent, especially the one that catered to ‘adults’, we ate there instead of going to a restaurant where we’d have to pay more.
+
+“What are your thoughts on relocating to another city one day?” I asked as we ate.
+
+“I wouldn’t mind,” Stephen replied. “Though honestly, being able to teleport means we don’t really need to move somewhere new to experience life in other cities.”
+
+“That’s true, but it might be nice to actually live somewhere a bit more rural instead of staying in larger cities. And it’s not like we can’t teleport back to the city if we want access to something the smaller town doesn’t have. I told you about Bounty, right?”
+
+“That was the farming community on the peninsula?”
+
+“Yes. I wonder if we could find something like that on this side of the world. Not right away, but eventually.”
+
+Stephen’s hand paused as he focused on my expression for a moment.
+
+“To be honest, this is the closest thing I’ve had to a real home since I was a child. It isn’t so much the location that matters; it’s you. If you want to settle somewhere smaller, we can do that. As long as we’re together, our location really doesn’t matter.
+
+“And besides,” he continued, his expression shifting from earnest to playful, “we’re Porters now. It’s not like we can’t just relocate somewhere new if the urge strikes.”
+
+“What about Mike and Cora?”
+
+Stephen shrugged. “Again. We’re Porters. Even if they want to stay in Sorenguard, it isn’t like that would be a big deal for the two of us.”
+
+Though we initially planned to take another day off since Mike was working on a project that he couldn’t step away from, I ended up pulling a shift at the hospital that afternoon since there were just too many injured patients waiting for healing.
+
+I let Seraphine and Leslie know that I wasn’t sure about my future availability just yet, but I promised I’d try to solidify a schedule going forward to get through the backlog of patients.
+
+They were very understanding, and Seraphine mentioned something about potential reinforcements arriving soon. I was glad to hear it since the healers of Sorenguard could certainly use the assistance.
+
+After my shift, Stephen and I ended up taking Aerie on a walk around the lower market before inviting Mike and Cora over for a home-cooked dinner.
+
+I wanted to discuss the possibility of traveling during our down days and maybe even settling in a different city eventually.
+
+“Now that Stephen and I both have waypoints set in multiple cities, I was wondering if the two of you were still interested in exploring more of the realm?” I asked after the meal was over and we’d settled in to relax for a while.
+
+“Sure! I’m definitely interested in seeing more of the world, especially Goldwood,” Cora said excitedly before glancing at her spouse with a strange expression.
+
+“I agree,” Mike said slowly. “It would be nice to see more of the realm, and I wouldn’t mind seeing cities that are reminiscent of home.”
+
+He seemed like he wanted to say more, but didn’t. Unsure what might be causing the pair to act so strangely, I said, “I don’t have an anchor in Goldwood yet, but I’ll see if I can get one soon so we can visit.”
+
+It probably wouldn’t be very hard since the city was within the Porter Guild’s existing coverage area. Worst case, I could just pay for a trip there from Portal and set the waypoint on my own.
+
+It would be expensive, but since Goldwood was a major Ascender Dungeon city, it probably wouldn’t be too bad. And as a fellow Porter, I might even be able to get a discount.
+
+As long as I didn’t operate out of the city, I doubted the Porters who covered it would mind me having a waypoint there.
+
+“That would be amazing,” Cora said earnestly. “Let us know if it costs you anything, and we’ll reimburse you.”
+
+“Will do,” I replied before letting my shoulders drop. I could tell something wasn’t quite right with the pair. They’d hidden it pretty well during the meal, but it seemed obvious now. “Alright. Out with it. What’s going on?”
+
+The couple shared another look. Cora’s expression seemed more questioning, while Mike looked resolute.
+
+“Cora and I have been talking recently,” Mike began. “Though it is still quite early in our journey within this realm, we’ve both been missing our family and home to the point that it is starting to negatively impact our mental states.”
+
+Mike reached for his wife’s hand and squeezed it lightly. After taking a steadying breath, he said, “We have decided to start a family. Preferably, in a city that reminds us of home, though the actual location is less important as long as it is relatively safe and we can make a comfortable living.”
+
+The silence following his statement was louder than words, and it took me a few moments to process what he was saying.
+
+“So, you want to move to Goldwood and start a family?” I summarized, receiving nods from Mike and Cora in reply.
+
+“That would be ideal,” Mike agreed. “I’m not sure how our plans will ultimately impact our partnership with the two of you. Obviously, things will have to change after Cora conceives since delving while pregnant creates unnecessary risk, but with the next evolution roughly twenty years away at our current delving pace, there doesn’t seem to be any real reason to wait.”
+
+“I understand,” I said a bit sadly.
+
+I knew how much family meant to the pair, so their decision to start a family sooner rather than later was not too much of a surprise. It still felt early, but really, that was all a matter of perspective.
+
+“There’s no need to rush with obtaining the waypoint to Goldwood,” Cora said with strained cheer. “And if you happen to find a different city with the same feel, that would be fine, too. We just don’t want to forget where we came from, and settling in a city inspired by Arkenesis seems like the best fit for us.”
+
+It was kind of funny that I’d so recently been worried about upsetting the party dynamics because of my desire to potentially relocate somewhere more rural. It turned out I didn’t need to be all that worried about that at all.
+
+“We’d also be open to relocating somewhere else, depending on the city,” Mike added. “While Sorenguard isn’t a bad city, it’s not one we particularly want to raise our future children in.”
+
+Shaking her head, Cora added, “It just doesn’t feel like home to either of us.”
+
+“How soon do you plan on trying to conceive?” Stephen asked.
+
+After sharing another glance, Cora answered, “We’d like to start trying within the year. I know it’s short notice, and we’re really sorry about that.”
+
+“A year isn’t short notice,” I said. “Funnily enough, I was just talking to Stephen about wanting to find a more rural city to relocate to. Given our ability to teleport, no matter where you end up moving, we can still keep in touch.”
+
+Nodding, Stephen said, “We can even continue delving together as long as that remains feasible. Who knows?” He glanced at me and said, “Maybe in a few years, circumstances may be completely different for all of us.”
+
+While we’d never directly discussed starting a family, I knew that it wasn’t something that Stephen was opposed to.
+
+Neither was I, if I was being honest with myself. My biggest hesitation was that Stephen and I had only been together for about a year, and that was already one of the longest relationships I’d ever had.
+
+While I certainly wasn’t young, the thought of having children had always been something abstract. It was something for later, not now.
+
+“Well, we can always start with trips to different cities that Stephen and I have waypoints in,” I suggested. “Maybe we can visit a city or two every week on our down days until one of us can set a waypoint to Goldwood?”
+
+“Wow. That was a bit unexpected,” Stephen said as he slid into bed.
+
+We were staying in our apartment since there was no immediate need to take advantage of time dilation. Mostly, it was so Stephen could continue reading whatever he was so interested in on the tablet.
+
+“A little,” I agreed. “I knew they were missing their family and wanted to start a new one once things settled down, but I didn’t realize how quickly they planned to take that step.”
+
+“I know we’ve talked about it before, but I would like to have children someday,” Stephen said a bit whimsically. “Not anytime soon, though. I don’t think I’m quite ready to be a father.”
+
+“I feel the same way. I want kids, but I’m not ready to take that step.”
+
+Several long moments of silence passed before I turned to him and added, “How do you think their decision is going to impact the party? If we keep delving with just Mike, Cora is going to fall behind.”
+
+“We could slow down our own delving to keep from getting too far ahead,” Stephen proposed. “You already have to adjust your core absorption to keep from getting too far ahead of the rest of us. We could do something similar when she gets pregnant. As long as we don’t push things and risk stagnating, things don’t necessarily have to change.”
+
+Cora wouldn’t have to worry about stagnating while she was pregnant and for a few months after giving birth – it was an exception created by the goddess to prevent women from having to choose between progression and having children.
+
+From what I’d been able to learn, most realms with stagnation did something similar; otherwise, women would be significantly disadvantaged when it came to progression and ascension.
+
+“I was curious, but it never seemed appropriate to mention it,” Stephen continued. “Is it just a matter of your additional skill slots, or is there another reason you seem to progress faster than the rest of us?”
+
+I’d never told Stephen or the others about my second title or its effects, so they had no idea that I gained five percent more essence than others for the same effort. Though it didn’t seem like much, that was five additional levels for every one hundred. It added up.
+
+“You don’t have to answer if you don’t want to,” he quickly added. “I’m not trying to pry. I know you still like to keep some things to yourself. I was just curious, is all.”
+
+“I guess there’s no real reason to hide it since you’ve already noticed,” I said after a moment. “I mentioned that I earned a boon from my old realm deity for helping to establish a second Realm Dungeon before I ascended. Well, I actually earned a title, and the boon was one of the rewards. The other reward was a slightly higher essence absorption rate than others.”
+
+“How much?”
+
+“Five percent.”
+
+Stephen nodded slowly. “I see. What is the title?”
+
+“Contender. What I’m a contender for, I still have no idea. Maybe it was Neohim’s vote of confidence for ascending a second time, or maybe the title has to do with whatever comes next,” I said with a shrug.
+
+“Hmm,” Stephen hummed.
+
+The sound seemed to draw Aerie’s attention because the young kit immediately launched herself from the small perch I’d mounted to the wall of our apartment bedroom and landed in the space between our heads.
+
+The quick movement startled me for a moment before I realized what it was, and I laughed lightly before reaching for the fluffy kit.
+
+“Anyway, absorbing the extra essence lets me save more cores for Aerie so she can grow quickly without slowing me down. By the time she is mature enough, I should have enough cores to push her to iron rank.”
+
+“That’s a good point,” Stephen said, reaching over to scritch the young asolade’s head. “It’s amazing how fast beasts can grow with a few cores.”

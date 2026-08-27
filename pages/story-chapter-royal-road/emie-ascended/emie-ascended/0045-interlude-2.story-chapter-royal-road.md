@@ -1,0 +1,221 @@
+---
+id: e28d1b43-3db5-5f7e-a4e7-50b593ccf6d1
+page-type-slug: story-chapter-royal-road
+title: "Interlude 2"
+slug: 0045-interlude-2
+partOf: emie-ascended
+position: 45
+ownLength: 2580
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3735485/interlude-2"
+royalRoadId: "3735485"
+---
+
+“Hurry, Aspen!” a young girl shouted as she darted across the tree bridge followed closely by another youth with pale pink hair. “If we don’t speed up, we might not make it in time!”
+
+While this wasn’t their first time experiencing a demon attack, it was the first time either of the two girls had been away from their parents or teachers when an attack occurred.
+
+Though scary, demon attacks during the school day were by far the safest for the youths since every school had a shelter capable of protecting every student and designated guardian.
+
+When attacks happened outside of school hours, parents were responsible for swiftly transporting their children to local shelters before heading out to defend the city.
+
+But today, the two youths had been out on their own.
+
+“I don’t understand why this is happening!” Aspen cried when Ivy stopped at the drop rope to descend from the tree. “The city was just attacked last month! Why are they attacking again so soon?”
+
+Ivy shook her head, not knowing what to say.
+
+The only reason their parents had allowed them to play freely was that the demons had attacked so recently. It was almost unheard of for a second demon attack to follow so soon. They should have been safe for at least another few months.
+
+That was also why the pair had felt confident enough to wander far from their neighborhood. While every neighborhood grove was set up in roughly the same layout, they’d gone beyond the neighborhoods and into the outer market area.
+
+“Come on,” Ivy said before grabbing the thick rope and dropping through the branches. Her friend followed just a few moments later.
+
+“Shouldn’t we go to the shelter under Blue Willow?” Aspen asked when her friend started heading in an unexpected direction. “That’s where our parents are going to look for us.”
+
+“No. It’s too far away. We’ll never make it through four groves in time. We just need to find the closest shelter. It should be somewhere close by.”
+
+Heading away from the markets and toward the closest neighborhood, the girls took off at a sprint. Though both girls were far more used to traveling through the treetops, they were able to move much faster on the ground.
+
+They rushed around the thick trunks, trying not to destroy the flora as they made their way toward where the local shelter should be.
+
+“Ahh!” Aspen screamed as she fell to the ground, clutching her leg.
+
+Ivy skidded to a halt and quickly returned to her friend’s side.
+
+“What happened?”
+
+“I twisted my ankle!” Aspen cried. Tears dripped down both cheeks before falling to her chest.
+
+Unwilling to leave her friend behind, Ivy said, “Come on. Grab onto me. I’ll help you.”
+
+Knowing there was no time to hesitate, the two girls struggled forward, only to pause again when a second set of alarms sounded, signifying the first wave of attacks had begun.
+
+“No! They’re going to close the shelters. We’re not going to make it!” Aspen wailed, letting go of her friend and falling to her knees.
+
+As tears filled her vision, an unfamiliar purple-haired young woman wearing a bronze circlet appeared next to them.
+
+“Need some help?”
+
+Recognizing the circlet, Ivy said, “Please! My friend twisted her ankle, and they’re closing the outer shelters! Can you take us to a shelter?”
+
+“Sure thing,” the woman said, stepping closer. “Get ready.”
+
+The world twisted around them before solidifying into a location that both youths had only seen in passing.
+
+“Are we…?”
+
+“Here, let me fix that for you,” the unknown woman said before focusing on Aspen’s swollen ankle. In just a breath, the swelling rapidly shrank, leaving a normal-looking ankle.
+
+“What? You healed it?” Aspen said dazedly as she shifted her foot hesitantly. Realizing there was no lingering pain, the girl looked up and asked, “But how? You’re a healer, too?”
+
+“Sure am,” the woman said with a grin. “You two head over to the shelter,” she added, pointing toward a set of doors nearby. “I’ve got more people to rescue and some demons to kill.”
+
+Glen stood atop the glass platform that ran behind the city’s wall. Unlike most cities, the wall surrounding Bloom was not made of stone or cut wood. Instead, it was a living wall made from several special varieties of plants taken directly from the dungeon.
+
+Though it might look weaker than standard walls made of denser materials, the living wall protecting the city of Bloom was in no way inferior to any other non-enchanted walls in the realm. In fact, the wall held several advantages that traditional walls did not have.
+
+Such as the ability to rapidly regenerate, and the incorporation of thorned varieties on the exterior of the wall, providing a bit of extra protection.
+
+Most citizens of Bloom focused on nature, glass, or a combination of both types of skills. Nature was the most common choice, by far. But some, like Glen, opted to focus on glass instead.
+
+He’d purchased a few supplementary skills from the market as well, but glass was his real focus.
+
+His parents were both Glassers who spent most of their time creating beautiful pieces of glass art when they weren’t in the dungeon. Glen had developed his own love of glass from his parents and planned to carry on their legacy once he earned enough to move and settle in another city.
+
+As much as he loved Bloom, the city already had too many Glassers. If he wanted to actually make a living in the field, he knew he’d be better off moving somewhere else.
+
+The problem, of course, was money. Airship tickets were expensive, and traveling by air held an element of danger since flying demons could attack at any time.
+
+Hiring a Porter was also an option, and also expensive, but most of the cities in the Porter network already had plenty of Glassers – most of whom came from Bloom and had settled in those cities with hopes very similar to Glen’s.
+
+There were rumors that a second Porter Guild was being established somewhere on the other side of the world, but Glen had little faith in such rumors. And even if they were true, it would probably take a very long time before such distant locations were open for travel to the people living in Bloom.
+
+Granted, Glen had little idea how any of that worked, but it just didn’t seem logical that the Porters working on this side of the world would suddenly become capable of teleporting or opening portals to the other side of the world.
+
+Maybe in a decade or two, things would be different.
+
+“Are you using glass?” a purple-haired woman standing next to him on the platform asked with clear curiosity. “I don’t think I’ve ever seen anyone use a glass-based skill before.”
+
+Glen looked at the strange woman with an incredulous expression.
+
+“Really? You must be new to Bloom, then,” he replied before using another glass skill to kill the demons rushing toward the wall. “There are a lot of people with glass-based skills here.”
+
+“Yeah, I heard that, but I’ve never actually seen anyone using one before. To be fair, I haven’t been in the city very long.”
+
+Glen’s eyes were drawn to the bronze circlet on the woman’s head, and his eyes widened.
+
+A Porter who’s never seen a Glasser? Could it be…?
+
+His thoughts were shattered by the roar of thunder. He’d barely noticed the woman using a skill, but the effects of her actions were clearly apparent.
+
+Looking back out at the encroaching demons, Glen noticed several lying burnt and smoking a fair distance from the wall.
+
+“What kind of skill was that?”
+
+“Oh, just a regular Lightning Bolt,” the woman said nonchalantly before grinning. “If you want to see a really neat combination, check this out.”
+
+A cluster of demons had entered the clearing near where the last group had fallen. There were nearly a dozen, which was more than Glen expected to see so early in the wave.
+
+He prepared to use his own skills to attack, but the woman gestured for him to wait, then cast a skill that looked like a metallic ball into the center of the group. A second later, the demons jolted as if struck by several small projectiles originating from the metallic ball.
+
+Glen raised a brow at the odd woman’s actions. Though she’d clearly hit most of the demons, her attack didn’t seem to do all that much damage.
+
+As if hearing his thoughts, the woman chuckled, then thrust her hand forward.
+
+A thick bolt of lightning shot from her hand into the group of demons, radiating like plasma lightglass outward and connecting to each of the demons.
+
+Glen’s eyes widened as the woman continued to channel massive amounts of lightning into the demons. Such a skill almost had to be a core skill. Otherwise, there was no way she’d be able to use so much energy without flagging.
+
+“That should be enough,” the strange woman said, lowering her hand.
+
+The demons collapsed, smoking and twitching in a scattered heap.
+
+“That was…”
+
+“Shrapnel, a metal-based skill followed by Lightning Bolt. The combination enhances both skills. It’s one of my favorites to use against large groups.”
+
+The purple-haired woman opened her mouth as if about to add something, but seemed to decide against it, shaking her head.
+
+“Are you a Porter?” Glen asked after throwing a glass lance at a demon approaching the wall from his left.
+
+The weapon exploded on contact, reminding him of the woman’s Shrapnel skill. His seemed a bit more effective on its own than her metallic ball had, but the thought provided only a small consolation.
+
+“I am! Though I’m a new Porter,” she added. “I was just visiting the city to set a waypoint with my mentor when the alarm sounded.”
+
+“So, your home city doesn’t have Glassers?”
+
+“Like, people who work with glass?” the Porter asked. She tilted her head. “I mean, I’m sure they do since I’ve seen glass cups and such, but I don’t think glass-based skills are common there. I’d never actually heard of glass-based skills until I learned about your city.
+
+“However, I should probably point out that I’m an Ascender, so it’s possible Sorenguard has Glassers, and I’m just not aware of it. I’ve only been in this realm for a little over a year, after all.”
+
+The woman’s words shook Glen to his core. Though he knew of Ascenders – everyone knew of Ascenders – he’d never actually met one before.
+
+He’d also never met a Porter.
+
+Glen had never been an impulsive person, but he found himself feeling strangely moved to ask, “Will you take me back with you? I can pay you!”
+
+Even if they had Glassers in the woman’s home city, they couldn’t be as capable as someone with actual glass-based skills.
+
+“Back to Sorenguard?” the woman asked in surprise. “Uh, if you want? I mean, I’m not sure how the whole process works just yet since I’m still basically in training, but I don’t mind bringing you back with me, depending on how the timing works out.
+
+“My mentor and I are supposed to be visiting more cities today, but I’m not sure that’s going to happen with the demon attack and all,” she added with a frown.
+
+“Please. I want to be a Glasser, but all the cities nearby already have too many people with glass-based skills. The competition is too high, especially for a mere bronze ranker. If I could go somewhere where glass-based skills aren’t common, I think I could really make a name for myself.”
+
+The woman seemed to give it some thought as she slowly whittled down the attacking demons with a strangely varied array of attacks.
+
+After a few moments, she said, “Well, I still haven’t fully stocked my kitchen yet. I guess I could trade a trip to Sorenguard for a set of dishes and maybe some mixing bowls of various sizes?
+
+“It’s probably better to wait until next week, though, since I’m not sure how my schedule is going to work out with training. It would also give you time to settle your affairs and such, which I imagine you’d need to do if you want to actually move to another city. Surely, you have family and friends you’d want to say goodbye to.”
+
+Glen could only stare at the woman’s earnest expression.
+
+She’s willing to teleport me in exchange for some dishes? Teleportation fees are way higher than that!
+
+Glen couldn’t help but feel a little suspicious about the woman’s offer. It really seemed too good to be true.
+
+“Oh, behind you!” the woman exclaimed as she made a pushing motion.
+
+Glen turned just in time to see one of the leaping demons go flying backward through the air as if they’d been shoved away.
+
+“Maybe we should discuss this after the wave is over? I promised to help heal the wounded afterward, so you can find me at the Dungeon Complex and we can talk later.”
+
+Glen was already nodding when the woman’s eyes widened, and she said, “Gotta go! See you later!”
+
+Before he could respond, the woman had already disappeared.
+
+She was burning.
+
+From out of nowhere, Zinnia’s section of the wall had been struck by a massive fireball, knocking her and her fellow defenders from the platform.
+
+The twenty-foot fall normally wouldn’t have done much damage, but Zinnia happened to have fallen onto the pile of supplies. Somehow, the blast had launched her in such a way that she’d landed directly on the flagpole marking the location.
+
+Zinnia reached forward in a daze. Even that slight movement sent a shock of pain radiating through her midsection.
+
+Impaled. Burning.
+
+Zinnia groaned as the weight of her body caused her to slide further down the pole toward the burning debris.
+
+It’s probably for the best that Jasper was assigned to another section of the wall. At least the kids won’t lose both of their parents today.
+
+The thought of her children broke her control, and tears of pain and anguish poured from her eyes.
+
+She’d lost her own parents at a young age. The last thing she wanted was for her children to grow up the same way.
+
+Even if she’d slotted a water skill, it wouldn’t be enough to save her. Still, she wished for a way to put out the flames. Burning alive while impaled was not how she wanted to die.
+
+She could barely see the shapes of her fellow defenders moving through the thick smoke. Though made of living plants, the wall was normally very difficult to burn. But it did have the tendency to smoke heavily whenever the demons tried.
+
+“Hold on! I’m coming!”
+
+Zinnia’s head was spinning, and she could barely focus on the person’s words. Were they talking to her? They couldn’t be. She was already as good as dead.
+
+Her stomach lurched, which was impressive since she was pretty sure her stomach had been destroyed when her abdomen had been impaled by the flagpole.
+
+“You’re going to be okay. I’m a healer,” a woman’s voice said.
+
+A surge of hope welled as a warm, itchy sensation covered Zinnia’s body. Most of the feeling consolidated into her abdomen, but she could feel other areas being targeted as well.
+
+With all of her energy being redirected toward healing, Zinnia’s consciousness slipped away.

@@ -1,0 +1,169 @@
+---
+id: c101934d-6dc8-5fc5-be86-c9a319cacfdb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 439: The Overwhelming Tides of Death"
+slug: 0476-chapter-439-the-overwhelming-tides-of-death
+partOf: dungeon-of-knowledge-complete
+position: 476
+ownLength: 3283
+unit: words
+ownProgress: 3283
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2754677/chapter-439-the-overwhelming-tides-of-death"
+royalRoadId: "2754677"
+markedReadAt: "2026-06-29T20:28:19.988Z"
+---
+
+Seth shifted his spectral mages, keeping them gathered up into a tight clump, desperately trying to find a spot that was not so vulnerable to the crushing roots and the unrelenting storm of rot bolts. While his specters regained health from death affinity magic due to their natural absorption, the rot had a large component of nature damage, but it was the physical component of the grinding and crushing roots that forced him to keep up a continuous barrage of Volatile Wraiths to keep his undead minions alive.
+
+Even as dire as the situation was, he could barely devote the attention they demanded, instead finding himself forced to follow the flow of the larger battle. He switched his Life Tap curse to the new treant target as the strange undead avatar of Lirasia wiped out all the curses he had placed on the previous one.
+
+How is she doing that? She’s definitely a greater undead, he thought, observing her closely. Incorporeal? Possession? He wasn’t quite certain, but what he did know was that she was not the Malevolent Lirasian Oak boss. Firstly, she was able to shift around by taking over any of the trees at will, and secondly, she was a far higher level than they were. Her magic ignored the suppression; a fact he could see clearly with his Eyes of the Damned. Every time she took over one of the Malevolent Oak trees, she cleared all of the afflictions and status debuffs instantly, making it immune to any form of damage he was able to unleash.
+
+“Summoning!” Ali shouted.
+
+Shit.
+
+A great surge of mana preceded a new horde of treants appearing, summoned in the middle of their raid. Plague Treants, Rot Saplings, and several other variants he hadn’t even seen before. He leveled his rod at his clump of undead and infused one of his spectral ice trolls with Curse Proliferation. Right on cue, Calen’s radiant arrows tore through the treants, inflicting his Slow curse and binding chains on every hit.
+
+“Frost Nova,” Seth commanded, and right as he did, he cast another Life Tap on one of the loose treants. His ice mage dropped the Frost Nova into the center of the forest of animated trees, the explosion of cold rooting many of them with chill or freeze, but it was the Curse Proliferation that really stood out. The combination of Frost Nova’s area damage and the mage’s Curse Proliferation triggered a wave of mana formations among the treants. Slow and Life Tap sprang to life, leaping from tree to tree like wildfire through the canopy of a dry forest.
+
+“You rock, Seth,” Kaitlyn said as a single volley of her lightning arrows into the treants healed her to full, courtesy of the spreading Life Tap curse.
+
+“Kill them all,” Seth commanded, and his spectral kobolds and trolls unleashed their spells upon the mass of trees at the same time as the mages on the other side did the same. He knew all of them had seen his curses and were eager for the boost of healing his Life Tap curse would grant them under the bombardment of area damage. At least while the barrage was underway, the healers would gain a brief respite.
+
+While his minions took care of business, he shot a Volatile Wraith into the middle of them, more to drain life to himself than their need to heal – they were pretty much topped up by the Life Tap and their damage.
+
+It took nearly a full two minutes under their continuous magical barrage, but the trees fell one by one to their onslaught.
+
+Until it summons more…
+
+He reached for his Raise Greater Undead skill. “Arise!”
+
+But to his surprise, his skill fizzled on activation, shattering with a stinging slap. He stared at the treant lying dead on the ground. Why didn’t it work? They were not undead; he should have been able to raise one. As he stared at it, the trunk began to cave in, collapsing as it decayed. Then, his mana sight revealed the source of the problem. From the ground below the corpse, dozens of black roots had pierced into the body of the dead treant, pulsating as they spread rot and decay from within the trunk. Tendrils of dark mana spread rapidly through the body like hungry extensions of the roots seeking nourishment, and across the whole battlefield, the trees decayed at an obscene rate, collapsing into compost, complete with putrid sludge and rotting outgassing.
+
+What was that – something from the domain? He didn’t cease his observations when the corpses dissolved, following the delicately branching dark roots as the mana pulsed within them, drawn down into the ground below, and across the battlefield until it rose once again within the trunks of the giant treants, filling and infusing them with new energy. And with that new energy, a huge pulse rippled outward, and suddenly a new horde of trees appeared.
+
+It’s cannibalizing the trees for mana! Of course!
+
+Calen hovered above the battlefield for a better view, swooping down only to unleash volleys of his conjured arrows into the growing horde of treants below, trying his best to dodge the ceaseless bombardment of rot bolts that filled the air.
+
+Ali had certainly given them the key to unlock the fight with her crazy scheme, but that was all it had given them – the fight itself was going poorly. Worse than poorly.
+
+Report after report, yelled out over the noise and smoke of endless detonations and the creaking thumps of branches smashing against armor, came to him, telling the story of yet another problem. The healers were running out of mana too fast in the rot bolt storm. The Malevolent Oaks could taunt. They were regaining mana. There were too many spawns, not enough mages, and the list went on and on.
+
+Prioritize.
+
+Nobody has died, he thought. This was his highest priority, especially considering the difficulty of exiting the fight safely while the suppression was active. Ali had insisted it would take time to disable the formation – time they couldn’t afford if everything fell apart. Next? Next was almost certainly Ali’s observation – the treants could heal each other. That or finding a mitigation for the insanity of a raid-wide rot bolt storm and what that meant for their healers.
+
+“Mato, move your tree away from the others,” he said. Mato was currently tanking the main target for the raid, and if Ali’s observation was correct, it would soon be the target for healing. “Ali, help me find if the heals have a range limit.”
+
+“Got it,” Ali said, hovering below him near the healers encased in golden arcane magic that was fending off the barrage of bolts aimed at them.
+
+He continued unleashing his arrows, taking time to aim efficiently as he spread his bow’s slow curse among the summoned trees below, trusting Ali to find the information he needed.
+
+“Fifty meters… err, yards, close enough,” Ali said, firing an arc of tiny golden darts into the furthest treant. “It’s all druidic magic, rot-based. The aura is like one of my runic Restoration circles, but it seems to have a plant trait, and it is much stronger closer to the trees. There is a single target heal that stops working past about fifty yards.”
+
+Fifty yards. He studied the battlefield carefully, but then something he had not expected caught his attention. Mato is getting hit? Out away from the rest of the trees, Mato was being blasted with a continuous stream of rot bolts, but the curious fact was that the damage only originated from three of the trees. His own tree was still shooting, but none of those bolts were hitting Mato or the rogues and warriors clustered around the tree.
+
+Does it have a… minimum range? Putting all his strategy ideas on hold, he flew down, hovering between the trees, studying the bolts. It took him barely thirty seconds to figure it out. When he was closer than fifty-five yards to the outlying Malevolent Oak, it stopped shooting at him, all its bolts ranging further to hit the mages or archers, or the tanks for the other trees. He had not made the necessary observation due to the chaos of the relentless rot bolt storm that filled the air, originating from all four Malevolent Oaks. He shifted his position, preventing himself from being targeted by each tree in succession.
+
+It works. Wow, now this is something we can use! And with Ali’s estimate of the healing range…
+
+He produced two Motes of Light, shooting them out into the battlefield, picking out exactly the positions he needed. “Mato, Havok, Basir, group up on the near mote, Sabri on the far one. Switch damage to Sabri’s tree,” he shouted, adjusting the strategy to use two tanking spots instead of four. To their credit, although he was suddenly bombarded by a slew of questions, everyone moved first, quickly implementing his plan. It was quite a testament to Vivian’s thorough training and the sheer amount of experience they had gained surviving deadly boss encounters as a team.
+
+“Two camps, separated by sixty yards to outrange the heals,” Calen explained. “Ali, disrupt the one Sabri is tanking. That is our kill target.”
+
+It was a simple plan, really, separating one of the treants from the other three eliminated the healing auras and the targeted heals from the other clones, allowing them to kill the exposed one.
+
+Vivian had always insisted on developing a team strategy that relied on informed and intelligent individuals, rather than blind authority and obedience. Initially, he hadn’t understood her insistence – most raiding guides insisted on obedience and following the chain of command – but he had come to truly appreciate her experience and wisdom in this. Everyone in this raid group was trained to take independent action within the scope of the overall strategy, which required them to understand it. But once they did, the raid group as a whole could react much faster to changing circumstances, and he could rely on the individuals to fill in the gaps in the hastily cobbled-together plan with smart tactical choices.
+
+His choice of tanks had been deliberate also. With the trees further apart than the minimum range, all the tanks were being hit by rot bolts. The group of three would be healed by Havok’s consecration, and Basir had a cool floating rock shield that could block some of the incoming bolts. Mato’s Brutal Restoration was pulsing green novas of healing and damage every few seconds, and grouped up the way they were, the extra healing was taking care of much of the extra damage. Sabri, on the other hand, had her Soul Shout, and she could grant the bonus to masteries to all the melee if they were near her, provided her area taunt didn’t draw the other clones to herself.
+
+Next phase in the devious plan. Not bothering to grin at his own joke, he moved his motes to very specific locations. At a distance of sixty yards apart, there should be a small dead zone of about five yards under the minimum range of both groups of trees that should, in theory, be safe from the entire storm of rot bolts. He flew down, landing in the spot he had picked out, and, just as he had guessed, the bolts stopped targeting him. Entirely.
+
+“Healers and ranged classes, gather on me,” Calen shouted. The healers were busy, so they trickled in as they could, but as the mages and archers found the dead spot, the healers suddenly began to relax.
+
+“That’s brilliant!”
+
+“So much better.”
+
+“How did you figure that out?”
+
+“Ali figured out the range on the heal, and the rest was simple,” Calen said, choosing to remain on the ground to give his arrows more chance to pierce through the tree spawns as they flew horizontally instead of straight down from above. With the entire raid bunched up in a small five-yard-wide zone, he had a mostly unobstructed line of sight to the monsters.
+
+Yes, yes. This can work.
+
+Ali’s focus was perfect. Every single time the distant treant began to heal, she was ready with the disruption. She didn’t miss a single one. After so much time in the battle, she was growing accustomed to the overwhelming storm of detail her mana sight showed her; at least, Sage of Learning wasn’t drawing quite so much mana anymore.
+
+At least with Calen’s rearrangement of the battlefield, she only had to beat a single treant, and not having to deal with so much rot damage was certainly very much appreciated. She kept her barrier up regardless, but she moved it to hover above the tanks, soaking up rot damage to ease the healing burden and feed her mana pool, reserving only enough to keep herself encased in a small, egg-shaped protective bubble.
+
+Disruption did not take much of her mana, and so Ali fed whatever excess mana was recovered by her barrier strategy into her new Empowered Summoner advancement, enhancing the added nature and arcane damage granted to her minions.
+
+While they fought, Lira’s specter hopped from treant to treant, and even occasionally flew overhead, taunting her relentlessly. Ali tried to tune it out, but some of the time they struck far too close to her heart. She gritted her teeth, wishing she could turn off her hearing for just this fight, and hovered a little higher above the spawned treants to fire off her tiny darts of golden disruption. From her vantage point, she could see that the sea of treants was growing larger and larger.
+
+Their target was already below seventy-five percent and rapidly dropping under their combined assault, but her happy grin vanished in an instant as she felt the sudden, powerful surge from the domain around them.
+
+“Domain magic!” she yelled before she even identified the specific skill. All four of the massive treants planted themselves, burying their great roots into the ground as they shivered beneath the domain’s rising power. Then the magic rushed upward through the conduits of their trunks, erupting from the branches as dark ribbons of death magic that shot forth into the raid, one for every person.
+
+The ribbon struck her golden barrier sphere, recoiling and lashing this way and that as it sought a way in, discharging sparks of pitch black as her mana rapidly began to refill from the sheer power of the strike.
+
+Elemental Storm! That’s an Elemental Storm! It was like nothing she had witnessed before, but the formation did not lie. The sudden recognition of the spell sent a chill of fear through her. “Everyone, hide!” she yelled, but to her horror, nobody moved. Ali gasped as she found almost everyone collapsed on the ground as the ribbons of magic tore hungrily at their life force.
+
+What? How? She had carefully counted the domain magic spells. There was no way there could be another. What have I missed? This is crazy!
+
+“Go! Hide!” she screamed, trying a second time as she desperately searched for an explanation for why everyone was simply lying there. Any explanation. Nobody was casting magic. Nobody was healing. Everyone was just dying.
+
+It was then that she noticed the black ribbons reaching her minions. There was even one for every single spawned treant. Like each Malevolent Oak was a maypole in a macabre, nightmarish, twisted carnival game.
+
+“Death magic is so pretty, isn’t it, my dear?”
+
+The mockery of Lira’s face twisted into a scowl as her specter flew about above the incapacitated raid.
+
+What can I do? Ali darted through the awareness of each of her minions, but she got nothing from any of them.
+
+How can they all be stunned? It took only a glance at the notifications her minions had received to confirm her fear.
+
+The black ribbons writhed and twisted, still bursting into a continuous shower of black and golden sparks as her barrier protected her from their hungry reach. Briefly, she recalled the twisting tendrils of mana she had seen preying on Nathaniel Sunstrider in the spirit realm, but, although this was less sinister, it pulsed with the raw destructive power of domain magic. She unleashed a torrent of mana, desperately pouring it into her barrier, reforming it continuously, a bulwark against the onslaught, while the parasitic twisted band on her finger fed ravenously upon her health. If she let it drop for even an instant, she knew she would be on the ground, suffering the same fate as her friends.
+
+Everywhere around her, healers lay stunned and dying upon the battle-scarred fungal creep, and without their support, Ali’s health rapidly dwindled away, consumed by the voracious ring. In sudden desperation, she reached for it, twisting the band off her finger with a wrench that left her hand bloody, stashing it in her other ring’s storage enchantment before she downed a health potion.
+
+They’re dying! She searched the raid, but there was no help to be found.
+
+The black ribbon relentlessly wore away at her barrier as she braced it against the force and power with a continuous stream of golden arcane mana pouring into her barriers, squinting and flinching against the sparks and flashes of annihilating magic.
+
+Intuition struck her like lightning from the blue. Of course! Casting about her, she picked one of her kobold priests and snapped a second bubble into place surrounding her, and instantly, the health of everyone in the raid became visible as the kobold’s eyes flickered open.
+
+“Heal them!” she shouted as she saw the dire state of her friends.
+
+Instantly, her priest began to shine with the intense holy light of Devotion, accelerating and empowering her holy magic as the heals started flying. Ali bubbled Belmar with the remainder of her barrier capacity, choosing him over the others because he was a Dwarf, and she didn’t need quite as much barrier surface to protect him.
+
+“Heal!” she yelled, unable to convey the desperate urgency of the situation directly into his mind like she could with her minion.
+
+He blinked, suddenly aware of his surroundings, but he immediately began casting, not even wasting the time needed to stand or stammer out a question.
+
+From behind Ali, a giant crack of energy detonating caught her attention, and she spun around to find the planted Malevolent Oaks were beginning to discharge arcs of black or green that grounded themselves into the fungal creep.
+
+Mana saturation! She recognized the effect instantly, and with her realization, she also saw the treants were filled to overflowing with mana.
+
+Then the spawned treants began to die, first one, then the second, and then a handful more as the black ribbons drained them of all their health. But the black ribbons did not let up in spreading their ghastly touch of death, they followed them to the ground and drew out ghostly black shades that let out horrific shrieks, shedding the ribbons as they took to the air.
+
+Spiteful Tree Spirit – Undead Spirit – level ??? (Death).
+
+More and more spirits took to the air, flying in formation with Lirasia’s specter as she circled the raid with predatory swoops.
+
+Then, the black ribbons suddenly vanished. Everyone in the raid suddenly groaned or shouted in alarm, but the vast store of mana the Oaks had gathered surged in the familiar formation of Mass Summoning.
+
+“Run!” Ali screamed as hundreds of treants began flashing into being, crowding each other for sheer lack of space, while the soaring flight of spirits began raining death bolts down upon everything that moved.
+
+“Isn’t this so exciting?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

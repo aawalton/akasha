@@ -1,0 +1,321 @@
+---
+id: ea8f74cf-41dc-59a0-8c73-284f4225e218
+page-type-slug: story-chapter-royal-road
+title: "Chapter 534: A Journey with an Uncertain Destination"
+slug: 0574-chapter-534-a-journey-with-an-uncertain-destination
+partOf: dungeon-of-knowledge-complete
+position: 574
+ownLength: 6210
+unit: words
+ownProgress: 6210
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3036536/chapter-534-a-journey-with-an-uncertain-destination"
+royalRoadId: "3036536"
+markedReadAt: "2026-06-29T20:31:52.852Z"
+---
+
+They came in the night, under the cover of darkness. And by morning, Mi’ir Valdanis was no more. I see them still, the relentless armies of the dead; they are there in my nightmares. They haunt me when I close my eyes. I dare not sleep, for I fear I will drown in the blood of the fallen. - Journal of Eldorien Spellsage, Recordkeeper, Mi’ir Valdanis.
+
+Ryn rubbed her eyes, trying in vain to remove some of the tiredness, but her exhaustion was not skin-deep, to be wiped away by a gesture. She had reread the mad ravings of the Spellsage one too many times, and now the words seemed to blur and shift on the pages, a visual mimicry of the warped insanity that had progressively infiltrated his words. Not even the ancient, forgotten tomes Tiraza had dredged up shed any light on the problem.
+
+It was not like rereading the journal even helped. With her skills, she had easily memorized it the first time through and could recall every single page with perfect clarity. The problem wasn’t remembering the words – it was deciphering meaning and extracting truth from a literary swamp of aimless ramblings and incoherent ravings.
+
+Take the current chapter, for example.
+
+It seemed to be discussing the sage’s recollections of the signing of the Accords of Aalion, describing everything from the color of the pennants flying high off the spires of the ancient city nestled high in the Thousand Celestial Peaks, to the style of the invitations sent out, and even the sense of urgency in the attendants. Then, it went on to discuss the problems navigating the ‘roiling waters of the tides’ and the ‘shattered, flying stone fragments the size of buildings’. What was she to make of such a contradiction?
+
+The problem was obviously that the Thousand Celestial Peaks had been nowhere near the ocean – a vast mountain range, with peaks thrusting up several thousand feet into the skies. The Sun Elves had boasted that it brought them closer to the heavens, although, in Elven lore, the word ‘heavens’ was more a translation glitch than accurate. The Elves of Aalion had believed in a source of divinity that shared nothing with the beliefs of most other races, other than that everyone seemed to agree it was in an ‘upward’ direction.
+
+No, it made far more sense that the author had simply gotten confused, mixing up his memories. Perhaps he’d been referring to Ared Culyn or a similar major seaport of the time? If he hadn’t just spun it out of whole cloth. It was sad how the revered sage’s hallucinations had crept into his writing, an invasive corruption of mind that could be tracked through the passages he’d penned thousands of years after he’d lost the siege against his sanity.
+
+She reached for a heavy tome that lay on the table beside her. Julian Pellast’s ‘The History of Ancient Kingdoms,’ and flipped through the index, searching for references to the Accords of Aalion.
+
+“So it was in the north,” she muttered, scanning the pages. “Seems like it might have been somewhere around the location of the modern-day kingdom of Brast…” She glanced at one of several continent maps she had pinned to a borrowed easel she had lugged to the dragon god’s library for this discussion, ignoring all the markers and notes tacked to it. It made sense; Brast was north of the Spine of the World, mostly peopled by nomadic desert dwellers, which probably meant Aalion could be found somewhere in the Spine of the World. It was, after all, the largest mountain range on the continent.
+
+“Maybe people just forgot it was called the Thousand Celestial Peaks?” Ryn mused. It was hard to believe that everyone would have forgotten such a significant name, even over several thousand years, especially given the existence of long-lived individuals like Lirasia and Val’korr, who would have had firsthand memories, but Ryn had long ago deduced that the Breaking had included one of the most significant workings of knowledge magic in recorded history. A spell or ritual that had erased significant knowledge from the realm, something she could only deduce, but never prove, discovered by tracking shadows and gaps to see what could not be seen written on the pages of history. It was like knowing a rogue was present, even though they were invisible. A feeling of being watched, a sense of something present without a direct way to observe it.
+
+It was as though the contents of the dragon god’s library that Tiraza tirelessly dredged up for them referred to an entirely different realm, an alternate history, unrelated to the events recorded in the Grand Library Arcana, and the notion that someone may have meddled with the integrity of the library had left Ryn dealing with the unfamiliar embers of fury. If the Blind Lich had raised an impenetrable defense on the board, denying access to his Emperor, she would borrow a strategy she’d learned from Cael: change the rules. Create a portal to a different board. Which was why she was conducting her research here in Azryet’s library – in a different realm – and she was close to something.
+
+“I’m not sure that book is worth the paper it’s printed on,” Val’korr grumbled, peering over her shoulder.
+
+“But Pellast is one of the most trusted historians of that age!” Ryn exclaimed.
+
+“True. But that whelp wasn’t around for the Age he is discussing,” the ancient troll added, frowning at the book in question.
+
+“And I suppose you were?” It was, Ryn reflected, an obviously rhetorical question, but she couldn’t help herself. Knowledgeable as he was, Val’korr was… grouchy, and she could rarely avoid poking at him. Still, she found herself grown rather fond of the old Troll, in a grandfatherly sort of way. Maybe he just needed a steaming mug of hot chocolate to mellow him out? Lirasia’s passing had definitely hit him harder than he would ever admit.
+
+“Yes,” he said, grinning smugly. “Take this passage, for example. Here, he deduces that the deserts of Brast were a thousand leagues south of Ared Culyn, right?”
+
+“Yes,” Ryn answered, not quite following the reasoning, even if the ancient finger tracing the map was easy to track.
+
+“That would put Ared Culyn, about here on today’s map, right?”
+
+Ryn nodded. “Thereabouts, yes.”
+
+“I happen to know for a fact that we Trolls had to journey for a month to get there. This is far too close to Aman Rak to be credible, even with the amount of shifting that happened due to the Breaking. Ared Culyn must be at least three times farther north than this.”
+
+“You walked?” Ryn gasped, her finger tracing the sheer enormity of the supposed journey.
+
+“Yes,” Val’korr said. “I was still not much past my second millennium, and my bones weren’t quite as creaky then as now. And nobody had these new-fangled, extensive teleportation networks that we have today.”
+
+“I suppose it must have been a challenge dealing with all that snow, then?” Ryn asked, certain Ali had mentioned teleportation to Ared Culyn once, so she wasn’t quite buying the aged Troll’s story.
+
+“It was terrible,” Val’korr agreed. “I almost got frostbite. My left hip still aches on cold mornings.”
+
+“Must have been so tiring going uphill for so long,” Ryn nodded.
+
+“I’m glad you understand the toil I had to put up with,” Val’korr said, straightening up his chest and beaming proudly. “Young people these days never appreciate…”
+
+“… both ways,” Ryn finished.
+
+“Yes,” Val’korr added emphatically, and then he glared at her. “Why, you little whippersnapper!”
+
+Tiraza chuckled in the background, her eyes whirling with mirth.
+
+Ryn caught the book he lobbed at her head with her Library Domain skill, effective here because of her mentorship with Tiraza, and gently returned it to its rightful place on the nearby bookshelf. If the ancient Troll was right, and the distances in Eldorien Spellsage’s journal could be trusted instead of being the deranged ravings of a madman, as she’d initially assumed, that would put Aalion…
+
+She traced her finger westward along the far northern coast of the continent until it reached the massive hole – a hundred-mile-wide bite taken out of the continent.
+
+The Sea of Fractured Dreams.
+
+Suddenly, it all clicked into place. Her divinations had repeatedly directed her to Eldorien’s journal as the key piece she most needed to read. On every recast, it had guided her to precisely this chapter. She had been certain her magic had failed her, but… it was precisely correct. As always. She just hadn’t had the wits to see it until she had so elegantly put the ancient Troll Seeker of the First Age in his place.
+
+It’s so much further than we thought.
+
+She had been hunting for the Thousand Celestial Peaks in a mountain range, and had never considered the sea, but the Sea of Fractured Dreams was a remnant of the Breaking. A cataclysm – one of dozens from that time – that had left a giant crater, a hole in the world that was filled with seething waters, wild storms of chaotic magic, and maelstroms of levitating boulders. Water that flowed upwards in defiance of any reasonable laws, to reach islands floating in the skies.
+
+“Upwards both ways,” she murmured, suddenly certain. Upwards, implying further north on the map, but also upwards following the aberrant flow of water high into the air. Nobody would buy the reasoning that got her there, but she felt it in her bones. In the subtle stirring of her mana. Is this a divination? Those boulders levitating high above the sea had to be the remnants of the Thousand Celestial Peaks. “This is it. This is where Aalion was.”
+
+“Congratulations,” Tiraza rumbled from above both of them, her voice echoing around the library. “I see you’ve found your answer.”
+
+“That’s a dangerous spot,” Val’korr said, his irate grumbling vanishing like a mirage. “How will you check for the Well of Divinity? There are deadly elementals of wind and fractured celestials that inhabit that realm, not to mention the crazy storms.”
+
+But neither of them seemed to doubt her reasoning.
+
+“It’s a good thing I happen to know an amazing scout,” Ryn said. Calen had achieved the impossible when he tracked the Blind Lich to his phylactery and discovered the Crypt of Kings. With what she’d uncovered, she was certain he would be able to track the fading glimmers of a once-radiant empire to the ancient Well of Divinity they had guarded like a holy relic. If it still existed.
+
+“Farin, they are dead on their feet. Just look at ‘em. They canna possibly take another step,” Vilda hissed, bristling angrily and getting closer and closer to his face.
+
+“Aye, I can see that,” Farin sighed, backing up slightly. “But we cannot camp so close ta Telim Gor. Remember what we saw?”
+
+The problem was that she was right. The children and the unclassed stood about with the glassy-eyed stares of total exhaustion, many of them collapsing to the rocky ground the moment they stopped the march, already passed out where they landed. In fact, everyone without a physical class seemed to be bone-weary and spent. Unfortunately, that was by far the majority of their group of nearly a thousand refugees that had fled the sacking of Thorel Moldur with him when he had opened that passage through the mines.
+
+Vilda just glowered at him without words. After all, what was there to say?
+
+How did I end up in charge? Farin’s fighting days were long gone, and he was better suited now for slightly embellished stories told while he enjoyed his ale, not for traipsing through the snow and mud playing hide-and-seek with the undead. Unfortunately, his was the highest-level combat class in their entire group, and everyone had immediately deferred to him for protection and leadership.
+
+It was a false hope, but he hadn’t had the heart to crush it. Vilda knew, and several of the others. The ones that had seen fighting in the last incursion, back when he was still a younger lad.
+
+Still, now they all knew. When that monster had marched slowly by making ice grow up the stone walls, it had sown fear that crushed his soul and left him cowering, unable to move even a muscle. His measly seventy levels and his axe would count for less than an insect against what had torn Thorel Moldur to rubble and dust.
+
+Death Knights.
+
+That was why he didn’t push Vilda. She had seen it all and was just as afraid as he was. They were supposed to be stories, Death Knights. Ancient history. Scary stories to remind children not to misbehave.
+
+“We should be going to Southport anyway. Why are you taking us east?” Vilda demanded. This was hardly the first time they had argued over this, and his answer was the same as always.
+
+“You heard the realm notifications, just as well as me,” Farin answered. Indeed, everyone had heard them. It was impossible to ignore the gong that rang through the granite foundations of the mountains. Someone had restored the Well of Souls, which meant someone was fighting for the fallen city of Ciradyl. Whoever it was must be strong enough to survive the undead, and that meant the only safe place for them was beside these strong warriors. Not traipsing off to find an undead army surrounding Southport. They just had to get there. Alive.
+
+“Aye, and I heard it again the next day and the next,” Vilda grumbled. “Whoever is doing that didn’t succeed.”
+
+“They have to,” Farin said. They had threaded the needle between Aman Rak and Telim Gor without rousing the ire of the undead. It had been days underground in the mines with neither food nor rest; there was no way they would make it back. No, Ciradyl was the only choice now, and the thin vein of hope that whoever was responsible for those notifications would honor the kinship of the living. Even if it’s the Elves.
+
+“One more hour, and then we will be far enough from Telim Gor that we can safely make camp. Carry the children and those who are too tired to continue,” he said.
+
+“Right,” Vilda said, turning back to the weary refugees to relay his instructions. Steady, she was. With a heart as strong as forged steel.
+
+Then, in the confines of his own heart, he worried about the terrifying implications of a Skeletal Frost Dragon that had cast the legendary spell, causing the realm to tremble under the sound of the gong. Why was it an undead monster? Was he leading his kin to their doom? Would they even survive being near such a cataclysmic battle? He grimaced. There was no choice, now. All that was left was faith. The remnants of Thorel Moldur could not march all the way to Southport and bypass the Lich’s armies. No. They would find their savior at Ciradyl, for there was no other option left to them.
+
+Ali studied the glowing purple barrier. It was, she reflected, a stark reminder of their repeated failures. Her domain encircled it, entirely surrounding it, and still she could not break through. Deep within the cursed heart of the dungeon, she found the malevolent eyes of the ethereal wraith of Nathaniel Sunstrider staring back at her. She glared at him as if she could defeat him through the sheer weight of her frustration. For nearly two weeks now, the guild had faced him, relentless in their focus, returning every single time Nendir the Corrupted respawned and they could make another Soul Jewel.
+
+In all fairness, she could allow them to skip that part of the process if she wished. She could summon Nendir’s undead revenant now, and harvest the soul fragment herself, but the raid group needed so much time between attempts – for rest, and the recovery of critical recharge timers – that they would have to face the respawn anyway. Besides, it would be a cruel thing indeed to summon him unnecessarily in front of those with freshly broken hearts.
+
+After the first few days, Ali had grown annoyed. The repeated realm messages had drawn a huge host of Nevyn Eld’s armies to Ciradyl, and she had to substantially boost the defenses throughout the reclaimed territory surrounding the final ring of the Well of Corruption dungeon. Even now, she could feel the continuous assault of her champion Sylvan archers, wielding the powerful new domain magic skill she had lifted from Nendir.
+
+One positive result had come out of that, though. Under the pressure of the dual siege of Myrin’s Keep and Ciradyl, any minion she could make that could survive combat had been leveled up to maximum overnight.
+
+But after a week, she had begun to dream repeatedly about the fight; waking in the middle of the night, sweating, shaking, and with muscles knotted from tension and stress. She felt thin, wrung-out like a dishcloth, and beginning to fray. It was not just her; everyone was growing irritable, frustrated, or beginning to lose hope. Their morale had taken a sharp dive over the last few days, when they had finally endured more than twenty minutes of the fight only to discover that Nathaniel could re-corrupt the Well in that time. The crushing defeat of having him restore the Soul Well Corruption aura in the middle of combat had been a bitter pill to swallow. Worse, Nathaniel retained more than half his life when they had been forced to abandon the fight. They were not even close.
+
+It had been nearly a month of unrelenting dungeon rage and near-continuous assault, and she was tired.
+
+“I need a vacation,” Ali muttered.
+
+“If the dead are fighting us here, they’re not killing people in Southport or elsewhere,” Malika said, somehow knowing just the right words to say. Sure, the Blind Lich had been sighted with his armies near Southport, so it was not a huge consolation, but any undead they killed here were soldiers that he could not use to reinforce his offensive armies and carry out his ruinous plans.
+
+While she balked at summoning Nendir, himself, his bow was another story. The Sylvan Storm archers arrayed in neat lines on the ground behind her were all maximum level, and every single one of them wielded a pair of legendary bows. It was a force the likes of which she doubted the continent had ever seen. Still, it hadn’t proved enough yet. More was needed, and she was scraping the bottom of the barrel already.
+
+“I think we’re ready. Aliandra? One more time?” Lyeneru said. Even her stoic face was strained, and her signature confident authority seemed to be showing cracks.
+
+“Ok,” Ali said, holding back a huge sigh. What else could she do? She slipped the Eye of the Lich onto her finger, grimacing at the shroud of darkness that billowed from it, enveloping her hand. Across the raid, and her entire dungeon, her minions shrank, while their magic blazed intensely brighter. She downed two potions and summoned her arcane needles of disruption to dismantle the barrier.
+
+You have gained Greater Intellect.You have gained Alacrity of Mind.
+
+The disintegration of the giant barrier and the billowing of the resulting clouds of corrupted mana slowed dramatically as her mind accelerated under the influence of Morwynne Fizzlebang’s best work. She would need it for what was to come.
+
+As the purple dome collapsed, and Seth’s plummeting Skeletal Frost Dragon approached the corruption of the Well, Ali studied her opponent. Nathaniel always tried to kill the jewel-bearer, and it was almost always with an empowered and accelerated fireball.
+
+And, it never worked.
+
+The sheer immensity of the Soul Well Corruption rendered the undead dragon nigh invulnerable to anything Nathaniel Sunstrider cared to throw at it. Unfortunately, it also rendered him immune to the damage of their entire raid.
+
+Still, it always proved the perfect distraction for her opening move.
+
+Right as the fireball shot up into the sky, blazing like an ill-advised, overly large firework given the intensity of the metamagic he had spent on it, Ali retaliated.
+
+“Interrupted Casting,” she commanded, and one of her pair of eye demons cast the curse, her response in the superficially predictable opening moves of this game of Kings and Emperors before the real battle of wits commenced.
+
+Right on cue, Nathaniel’s staff glowed, drawing the curse into the Spell Steal enchantment like a moth to a Glitter Dragonet.
+
+“Thank you for...”
+
+Ali tuned out the wraith’s voice – she had heard it far too many times – instead clicking the button on the beautifully crafted stopwatch she had purchased from the auction house. It was an exquisite device fashioned from mithril gears and delicate runework. Most likely it was far too accurate – and certainly too expensive – for this job, but she would definitely lose it if they failed because she had cheaped out on her alarm, and misjudged the five-minute Spell Steal recharge timer.
+
+The Skeletal Frost Dragon lit up like a firework as Nathaniel’s overloaded ball of fire detonated within its ribcage with enough force to level the entirety of Myrin’s Keep’s artisan district, but Seth’s minion continued plummeting down into the seething blackness of the Well.
+
+[Realm] Skeletal Frost Dragon has cast the legendary spell: True Purification.
+
+Act two, Ali thought.
+
+Nathaniel snapped his furious gaze back at her as the dragon splashed down into the Well, and the staff glowed as her Interrupted Casting curse flew back at her. She eyed it impassively as it hit her, and then tracked his weave of mana as he immediately began summoning domain magic to create the first raid boss.
+
+“Decurse,” Ali instructed, and two witch doctors immediately removed her curse. Technically, they would have done it without her instruction, but it was a dance, and performing all the steps made it smoother. It was a redundancy she could afford simply because she had so many witch doctors and only one disrupt recharge. Control magic casters were quite rare, and in fact, there was only one other in the guild, a Dwarf mage who simply did not have the class levels or the sheer mental speed to go head-to-head with the Archmage. Nor could she fashion a wand, given each disruption had to be tailor-made for the target spell. Instead, the raid group had the Dwarf focused on disrupting any dangerous spells from the lower-level raid bosses, leaving Nathaniel as Ali’s exclusive task. She made a mental note, as she did every single attempt, to prioritize leveling up her kobold arcane mages and ensure that in the future she had an army of casters with a versatile repertoire of disruption spells. That project was already well underway, and she held hope that between her own class, the Grimoire, and her shrine, she would unlock the proper spell advancements.
+
+She cast Arcane Recall.
+
+Instantly, Nathaniel’s domain summoning collapsed as a cascade of disruptions blasted outward toward her, and leveraging her extreme mental haste, she canceled her spell at the last possible moment.
+
+“Interrupted Casting,” she called. Her second Eye of Agnor cast the devastating curse, and now that Nathaniel’s anti-magic tools were on recharge, he was forced to take it. Ali grinned in satisfaction at the sight of the frustrating curse settling its tendrils into him. He had ways to remove it in his respawned spellbook, but they were all costly, and burning his Greater Mass Dispel Magic to remove a curse was easily a worthwhile trade in her book.
+
+There were very few things in her repertoire that could disrupt domain magic. The first was her ability to present a far more dangerous spell that he needed to counter immediately, forcing him to interrupt his own spell casting. The second was Interrupted Casting – a twenty percent chance to fail a raid boss summoning was a critical advantage in this fight. Keeping the curse on him as long as possible would be key to surviving the fight.
+
+And now it comes.
+
+Ali waited. A sequence of flickering formations pulsed within the dark wraith’s ethereal chest, and she read the increased area and maximized damage meteor storm, allowing it to be cast unmolested. She had far bigger fish to fry. Her only concession to the ludicrous damage from the earth and fire spell was to shield the healers with her barrier magic. She didn’t even have to warn the raid anymore; they were already guarding against it.
+
+Mana swirled again.
+
+Amplify Casting.
+
+Empower Spell.
+
+Increased Duration.
+
+This is it! Ali realized, instantly recognizing the pattern. He always used this combination of metamagic enhancements with Time Stop.
+
+Leaning heavily into her accelerated mind, she spun up the anti-formation. The well-practiced formation sprang to her fingers instantaneously, but she knew he wouldn’t miss it. Instead of releasing it immediately, she feinted, holding it in case he canceled and tried recasting. Even without his metamagic enhancements, Time Stop was too powerful to miss. Especially while the Well was being cleansed.
+
+At the last possible instant, Ali unleashed her magic. Golden darts crossed the gap at the speed of thought, shredding the nearly completed formation, turning it into a puff of unbound sparks that rained to the ground, punctuated by an angry hiss.
+
+The gong rang, shaking the world.
+
+[Realm] The Well of Souls has been restored.
+
+Even after so many times, the purity of the Well of Souls took her breath away. As the water of the Well of Souls clarified, Ali sighed, relieved that she had successfully pulled off her first showdown. For a brief moment, she wondered if people were annoyed by the daily realm-notification spam, but her attention quickly returned to the task at hand. With both his Disruption and Spell Steal on recharge – and his Time Stop foiled for now – Nathaniel would need to hard-cast his raid boss summoning, and all his defensive enchantments, taking valuable time.
+
+Time that she fully intended to abuse to the maximum extent possible.
+
+“Attack,” she commanded.
+
+A storm of arcane bolts erupted from Nathaniel’s fingertips, raining down across the whole raid group with distinctive thumps and cracks. Ali’s squad of ice mages returned fire with a steady stream of swishing ice bolts that pierced through Nathaniel’s glittering mana shield and barrier, beginning the long slog. Dark and twisted tendrils of corruption burst from his ethereal body, plunging into the clarity of the Well, and Ali clicked the second button on her stopwatch: the twenty-minute timer. The hard stop, when his corruption would reclaim the Well and destroy their hopes once again.
+
+As Nathaniel began the laborious summoning, drawing in domain mana for a defender, both of Ali’s Eyes of Agnor teleported right up beside him and unleashed their cones of Arcane Mana Burn, ripping into his mana and shields. But his shield spell was so powerful, he was still able to fend off the attack, and moments later, an oversized Reaper of Ruin appeared, and her demons fled.
+
+“Overpowering Strike,” Malika announced.
+
+“Zone of Destruction and Enhanced Strength,” Ali called out, reading the abilities directly from the mana formations he’d used to create the monster. Identifying the various domain magic abilities Nathaniel could imbue upon his summons had grown easy after so many failures. There were some combinations – at least somewhat random – that required an instant shift of the raid’s strategy, and a few that were so dangerous that the raid was immediately aborted the instant they were summoned. This was not one of them.
+
+Sabri picked up the elemental, tanking it beside the rest of the raid, leaving Havok free in case the next was undead, and Mato in Tree Form to eke out the most from his regeneration before he had to be called on for a potential third boss, though things would have to be going fairly badly for that to be required.
+
+Ali ignored them, keeping her eyes glued to the rapid flickering of pages of Nathaniel’s spell book.
+
+Greater Mass Dispel Magic. She ignored it, instead downing two more potions to restore her buffs and resummoning her barriers to protect the mages.
+
+Several raiders joined in the assault on Nathaniel – any damage that could be spared from the summoned bosses and could pass through his barriers went to assaulting the wraith. Calen’s potent Power Shot attacks and Malika’s Soul Strike were regularly piercing the barriers. A guild light mage wove in a few beam attacks. Two of Ali’s witch doctors lurked in the Spirit Realm, calling spirit beasts to phase through and attack from within his protection.
+
+And there were the two Scions of Azryet, circling overhead.
+
+To Ali’s delight, she’d discovered that the infinitely black beams of their void breath, enhanced with Void Nullification, tore into the purple barriers and shields, slowly disintegrating the core formations. They, and the Arcane Mana Burn spell, were a critical part of Ali’s strategy of opening Nathaniel up to damage, an important play even if he kept repairing them.
+
+Mass Summon Elementals. Ali ignored this one, too. The raid itself was competent, and moments later, Havok was taking four earth elementals beside Sabri’s raid boss.
+
+Mass Curse. There was only one in his spell book that he used this metamagic on, but as the page disintegrated, Ali snapped her mind into razor-sharp focus. A spell that had wiped their raid more times than she cared to admit. And her Disrupt was still on recharge.
+
+You have been cursed with Eldritch Arcana+75% chance to disrupt any mana ability or spell. Curse – Duration: 15 minutes.
+
+The curse flickered across the entire raid, cursing every single raider, all their minions, pets, and summons simultaneously.
+
+“Decurse,” Ali commanded. One of the two witch doctors she had stashed in the Spirit Realm shimmered, reappearing in the regular realm and cast his curse removal.
+
+Instantaneous Casting.
+
+Mind Control.
+
+“Second decurse,” Ali called out, instantly trapping her mind-controlled witch doctor in a bubble of her barrier magic. There was a shimmer as Kir’vella shifted across the veil, immediately assisting Ali with removing the curses from the other witch doctors and priests before prioritizing the rest of the healers. Ali breathed another sigh of relief when the insidious curse vanished from the raid. The terrifying part of this curse was that it not only interrupted three-quarters of all healing spells – a disaster for any raid – but it also disrupted escape magic spells that relied on mana, making the first couple of attempts to abort due to the curse insanely dangerous.
+
+“Ribbit!” Ali said, and then frowned as she dismantled the frog hex her own witch doctor had cast on her. “Curse down,” she announced.
+
+She felt the prickle of readiness when her Disrupt recharge expired. Which told her two things. Nathaniel’s Disrupt was available again, and so was his Time Stop.
+
+“Refresh Interrupted Casting,” she instructed. It was the cheap alternative – occasionally she could draw his Disrupt with a redundant cast of the curse, but this time he failed to take the bait. Moments later, she witnessed his metamagic flickering, and she responded by feinting with Arcane Recall again.
+
+Of all her magic, that spell was guaranteed to draw his Disrupt. It was clear he understood her spell well enough to recognize the danger, and so his formations dropped instantly, and he responded with seven simultaneous Disrupt casts – the Domain Magic enhancement rendering his spell more-or-less invulnerable to interruption from normal spells. One targeted her, while the rest seemed to attack random spells raid-wide.
+
+But once again, Ali succeeded in canceling her spell before his Disrupt landed, a feat only possible due to the ridiculous Alacrity of Mind Basil had learned to concoct; a novel use he had researched for her Eternal Reverie flowers. I need to remember to thank him again.
+
+Again, Nathaniel’s metamagic formations pulsed and flickered, and again she managed to outmaneuver him and Disrupt his Time Stop. Just like a dance. Again, he began to summon a new raid monster. Ali was forced to allow the spell to complete.
+
+“Calhedron. Empowered Arcane Bolt, Mass Summon, and Elemental Storm!” she yelled. Anxiety spiked as she identified the dangerous combination. With four earth elementals and another raid boss up, Elemental Storm was likely a raid wipe, if it triggered successfully.
+
+“Ready!” Lyeneru shouted. Behind her, Ali could see the warping of Mato’s magic as his body transformed, and he launched himself across the intervening space, finishing his bear transformation along the way. He collided with the newly summoned monster, roaring and tearing into it with claws trailing void mana.
+
+“All out!” Lyeneru yelled.
+
+“Bloodlust,” Ali instructed. Every minion and raider switched from whatever they were doing to attack the dangerous Calhedron as Mato dragged it across the way to the tanking area. As soon as he had it placed correctly, every single area damage skill was unleashed.
+
+The amount of damage the raid put out boggled the mind – and threatened to overwhelm Ali’s mana-sight. Ali winced and focused. Missing a critical spell in the background noise would send them packing yet again. Most of the raid was approaching the level of the summoned boss, and they had two and a half times the normal group size. The health of the boss melted away, but at the cost of leaving Nathaniel uncontested.
+
+Ali grimaced as he successfully cast a Mass Summoning of ghosts and banshees, followed by four potent defensive magic formations he had been forced to skip by her lockdown of his Time Stop. But there was no recourse; the threat of Elemental Storm was far too great.
+
+Her stopwatch chimed, and she quickly lured out the Spell Steal with another Interrupted Casting curse, immediately decursing it when he hurled it back at her.
+
+“Four minutes, twenty-three seconds,” Calen announced, as the raid shattered the elemental. It was impressive, but still too close for comfort. The earliest she had seen them use elemental storm was five minutes after summoning, and now that they had burned so many potent raid damage buffs, it was unlikely they would be able to duplicate that feat, at least till bloodlust recharged. But by then, Nathaniel’s corruption would have been completed anyway.
+
+Ali glanced back at him, studying the dark and twisted tendrils pulsing disturbingly as they pumped corruption into the well. It was a kind of magic that sent cold fingers of fear down her spine, far too reminiscent of Baaoht Yll’shuum’s magic, and the sheer force of despair Nevyn Eld had exuded.
+
+But she forced herself to look.
+
+As much as she hated and feared it, this was the one spell that had prevented them from progressing in the last two attempts. The instant the corruption aura had burst forth from the well, Nathaniel had been healed to full, and the fight had been lost. Yet, the nature of the strangely twisted eldritch magic, shifting in and out of reality, still eluded her understanding.
+
+With a thought, she redirected her minions back to Nathaniel, carefully timing the Void Nullification and the Arcane Mana Burn, studying the effect they had upon his defensive shields and working around his retaliation spells.
+
+Domain magic surged within him, but this wasn’t another summoning. Instead, it was his runic magic skill.
+
+“Traps!” Ali yelled. Across the breadth of the torn-up battlefield, glowing runic circles blossomed on the ground. Immediately, several of them detonated with devastating arcane explosions. Ali and those other mages who could dispel rapidly set to destroying the formations before more of them could be set off, but it was a time-consuming effort. Each had to be carefully handled because the Archmage’s traps were sensitive to tampering.
+
+A second surge of domain magic appeared, and Ali snapped her attention to the raid summoning, but as the spell completed, they finally caught a much-needed break. The summon formation twisted and unraveled right at the last moment, and she sent a silent thank-you to the Interrupted Casting curse.
+
+“Summon interrupted,” Ali yelled. And then, as the void beams of her dragons blasted down from the sky, the mana shield and barrier finally unraveled. “He’s open!”
+
+With incredible precision, the entire raid pivoted, switching all their damage to Nathaniel’s ethereal form. Several damage buffs went off, but the most powerful ones had already been spent. Still, his health plummeted with very satisfying speed.
+
+Accelerated Casting.
+
+Greater Invisibility.
+
+Instantaneous Casting.
+
+Teleport.
+
+Ali twitched, so tempted to Disrupt it, but she forced herself to hold back. The light of Calen’s Mote spell rendered Nathaniel partially visible, and with just that, several other archers immediately lit him up with mark curses, and the raid once again pivoted to his new location.
+
+Ali unleashed everything she had; every single arrow, spell, and enhancement, desperate to drop him lower. She successfully faked out his Disrupt again and then countered his Time Stop, but moments later, his shields snapped back into place.
+
+“Switch targets,” Lyeneru announced.
+
+Ali stared in dismay at Nathaniel’s health and then at her stopwatch.
+
+There’s no chance. We didn’t do enough damage. We can’t. Not with so little time… how’s this ever going to work?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

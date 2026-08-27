@@ -1,0 +1,259 @@
+---
+id: 20a9b108-daa8-5804-8e14-a7c6ab01b33e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 399: The Calamity"
+slug: 0436-chapter-399-the-calamity
+partOf: dungeon-of-knowledge-complete
+position: 436
+ownLength: 4366
+unit: words
+ownProgress: 4366
+publishedAt: 2025-10-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2651037/chapter-399-the-calamity"
+royalRoadId: "2651037"
+markedReadAt: "2026-06-29T20:26:49.003Z"
+---
+
+Azryet [The Calamity] – Ancient Abyssal Dragon God – level ???? (Void / Holy)
+
+Ali trembled and shook on her knees before the might of the dragon god. The Calamity. Eyes of implacable anger transfixed her soul as his cavernous maw opened and his mana gathered. A raging torrent of void so powerful it tore at her mundane hearing and sight as she cowered beneath her impending doom. The ball of mana gathered, compressed into a density she could scarcely begin to comprehend.
+
+She stared at death, knowing with every fiber of her being that she was insignificant; a mere insect about to be wiped from existence by an ancient being of unimaginable power.
+
+No…
+
+The tiny spark deep within her guttered and flickered in the gale of his sheer presence, but it refused to go out. The same spark she had found when she faced her first rat, a spark that she clung to with all of her being.
+
+And she found, to her surprise, that despite the overwhelming, oppressive power of his dragon-induced fear, she could act. Whether it was her inner spark – a strange mix of frustrated anger at the unfairness of it all, hope, and fury – or from the still active Compulsion from her Baelok Descrier, she had just enough will to cast.
+
+Without a moment’s hesitation, she reached for Arcane Recall, and the world about her froze to gray. All her minions stopped moving, even breathing. The giant form of the dragon god hung in the middle of a cathedral suddenly turned to gray, as the spirit realm washed out all color.
+
+She reached for her Grimoire, but the giant eye of the dragon god turned to follow her hand. His transparent inner eyelids blinked across the holy fire and void, and he roared. The ground shook, and the gray world splintered like a hammer blow to a mirror as the very fabric of the Spirit Realm cracked under the force of his still-gathering power.
+
+She dropped her Grimoire – there was nothing within it that could withstand the coming calamity – and in desperation, she summoned her barrier, pouring everything she could into the formation, all her mana, even the meager power of the tiny domain her moss was emitting beneath her feet, her hopes, and her fears – and she curled up into a ball as the impossibly dense torrent of void shot screaming across the room, coming straight for her.
+
+The room shook with the dragon’s roar and the screaming howl of void mana smashing into her barrier, rushing past the edges and into the walls, disintegrating the flying fragments of the Spirit Realm echoes. Her minions winked out of existence like gnats caught in a firestorm. Her barrier shattered instantly, and it was only her highly accelerated mental reflexes that allowed her to summon a second one, instinctively adding life channeling in a desperate last-ditch attempt to merely survive.
+
+The power of the void screamed past the edges of her barrier as the golden sparks of her life force began to drift upward from her shaking hands and arms. The full weight of the dragon’s fear hammered into her mind, threatening to send her screaming, fleeing from the onslaught, but somehow, she held on, knowing that to falter would spell instant death.
+
+Mana blasted through her, refilled from the immense power of the dragon’s breath against her barrier, filling her to bursting and beyond. She channeled it back into her barrier in a vain attempt to hold back the tide. But the void etched her golden magic, and tore at it from the edges, ripping away large chunks that vanished into the torrent like tiny sparks swept away in a gale.
+
+She knew she was screaming, but no sounds could be heard above the roar, the storm of magic, and the violent bucking of the stone disintegrating beneath her feet. Dimly, she felt her life force draining away in sharp bursts of searing pain, but against the might of the dragon god, it was more than she could do to barely cling to her rapidly disintegrating barrier.
+
+She felt her will slipping.
+
+I’m going to die.
+
+It wasn’t a question; deep within her, she knew she could not stand against the might of a god.
+
+No…
+
+Again, that spark rekindled, and a sheer bloody-minded defiance flooded through her as she reached out for something, anything…
+
+Her mind connected. Tol’brekk. Her last remaining minion lay cut clean in half, bleeding profusely behind her, desperately trying to crawl toward her and protect her. She submerged her mind in his awareness, the pain, and the pure rage of an evolved berserker.
+
+The motes of her life began to dance.
+
+Her will steadied as her fear gave way under the white-hot forge of rage. She screamed her fury, the fury of her berserker, the rage of her own defiance, and she poured her mana and life into her barrier. But even recklessly throwing her very life force into her magic, it still could not withstand the ascendant power of the dragon god. Even with her will to live restored by rage and defiance, her barrier shrank by the second, progressively disintegrated by the roaring void and rapidly eroded into sizzling fragments that poured off the edges and vanished into the storm.
+
+And then it stopped.
+
+You have empowered magic using Life Channeling. -91% to maximum health.
+
+The sudden silence was somehow louder than all the noise. The howling void vanished, taking the midnight darkness with it and leaving Ali blinking at the surprisingly bright light. She was on her knees before her golden barrier, now a shattered and ruined thing, barely large enough to cover herself and the remaining half of her berserker troll. The edges of her barrier were blackened and burnt, still bubbling and sizzling as molten bits of boiling magic dripped off and onto the floor and hissed as they evaporated into the air.
+
+You have been afflicted by Mana Saturation.Your mana pool is overloaded with excess mana.Your magic will be violently unpredictable and chaotic until your mana pool recovers.Magic – Affliction
+
+Ali ignored it. Somehow, she had lost an arm in the onslaught, but her entire being remained solely focused on the giant dragon that dominated the chamber before her. She slowly got to her feet, standing behind her burnt and scorched barrier while the dragon looked on in what could only be described as profound surprise at her continued existence.
+
+“What the fuck was that for?” she snapped at him, taking full advantage of the Draconic language to fill her words with outrage and anger.
+
+Ali, you’re yelling at The Calamity. It was a small voice that spoke in the back of her mind. The voice of reason, perhaps. But she found that a part of her, a rather large part, simply didn’t care. He had almost killed her, and she was furious.
+
+She placed her remaining arm on her hip and glared up at him, while golden arcs of unstable arcane mana burst out from her chest and hair, discharging into the ground, and her nature magic went wild, spontaneously growing plants around her feet. Trickles of amber blood leaked down her left side where the void hadn’t quite cauterized the wound.
+
+“You have the temerity to growl at me?” Azryet roared, his voice shaking the chamber. “I know not how you have survived, but you are in no shape to do that again.” His eyes flashed with anger as he opened his mouth once more, gathering mana for a second breath.
+
+There was one thing Ali knew, clear even through the haze of Dragon Fear and her rage. He was right, she couldn’t withstand another blast; she had spent nearly all of herself just to miraculously survive the first one, and she could see the mana collecting was already more powerful than the last blast, now merging not only void, but holy magic. No, she could barely even stand under her own power, never mind whatever calamity he was preparing next.
+
+Ali stood on a small sliver of white stone, all that was left of the floor of the cathedral chamber – a tiny piece that had been in the shadow of her barrier. Behind her, the walls were gone, there was no floor or even any sign of the long passageway she had used to enter the cathedral. Everything had been erased, disintegrated by the void. Everything except the tiny patch of moss and mushrooms on her narrow promontory of scorched marble.
+
+Fuck him.
+
+She twisted the mana of her pathetically tiny domain, causing sparks of unstable magic to cascade from her as she struggled against the pain. But suddenly her Adaptable Mana twisted and unwound her compatibility with his domain.
+
+The sudden pain and inrushing of dungeon rage as her raw domain collided with his was insignificant against the warring rage, fear, and pain that wracked her body and mind, but it all somehow, impossibly, seemed to balance, leaving her furiously angry, but functional.
+
+Azryet hissed sharply, snapping his huge jaws shut with a loud crack.
+
+“How dare you!” he roared. “You come in here wielding Destraggoth’s minions, and you dare to strike me? This ends now!” His mouth opened again.
+
+“Who the fuck is Destraggoth?” Ali yelled. “Look, I’m not responsible for whatever argument you have with your friend, so I’d appreciate you not being so rude to me.”
+
+“You…” Azryet looked somehow angry and nonplussed at the same time. “Destraggoth is the Demon God, the deity of the Lair of the Demon God. You are his tool; the proof lies in the demons you brought into my domain."
+
+“Look, I’ve had an utterly awful week. I don’t have the patience to deal with your problems. I watched my Aunt Lira being murdered by the Blind Lich right in front of me and then raised as an undead and forced to turn into a dungeon. I got thrown through the rift into this stupid Abyssal Realm!” Ali knew that the words were spilling out of her now in an ugly flood, but she had reached the end of herself. It no longer mattered. “I had to fight my way through that fucking irritating dungeon of blood and hellfire, and get my ass handed to me by Maalgaroth, and then I was tossed into your dungeon where you show your magnificent deity by trying to eat your guests. Fuck this! I just want to go home!”
+
+By the end of her tirade, she was screaming at him.
+
+“I care not for your mortal problems,” Azryet said. “You are still an intruder in my domain, and you shall die.” But for some reason, he simply stood there glaring at her.
+
+She held his gaze, too frustrated and angry to look away. It was stupid, she knew. She should take the opportunity to run. Her mana sparked again, a discharge of golden lightning that struck the ground below her, but neither of them flinched, nor broke the stare.
+
+Suddenly, a knot of golden mana twisted between her and the dragon god, and the familiar shape of a book appeared. Clasped between his covers, Clarence appeared to be dragging a massive gray limb complete with talons almost a meter long each, leaking a black ichor or blood that steamed as it hit the ground.
+
+Ali stared. So did Azryet, as the book dragged the gruesome thing over to the dragon, dropping it by his front claws. The book backed up a bit and bobbed up and down.
+
+Azryet growled, a deep, rumbling roar, and backed up a step.
+
+The book gamely shot forward, pushing the limb another meter or two forward, leaving a dark stain on the ground and then backed up again, riffling his pages expectantly.
+
+“Stop it, Clarence. The dragon is grumpy and doesn’t want to play fetch,” Ali said. Of all things, why did he have to show up now? And where did he get that arm? Or whatever it was. Clarence drooped and slowly floated back to join her, leaving his precious toy at the feet of the dragon god.
+
+“What manner of creature is this?” Azryet asked, his voice suddenly no longer smashing into Ali with the overwhelming force of his presence.
+
+So many thoughts rushed through her mind, things she almost blurted out in anger, but somehow his gesture of quieting his voice spoke to the small remnants of civility buried under all her rage.
+
+“Azryet, meet Clarence. Clarence, this is Azryet, dragon god, and the bearer of the title ‘The Calamity’. He and I were just having a bit of a disagreement, so playing fetch isn’t such a good idea right now,” Ali said.
+
+“Why can I not Identify it? And how does it have a Pit Lord’s arm?” Azryet asked, his eyes narrowed and still fixed on Clarence.
+
+“Look, I really don’t know,” Ali said. “And he doesn’t talk.” She sighed. This was all really too much – she just wanted to go home to her dungeon and hang out with her friends. Fighting with dragon gods was not on her list of fun things to do. “Come, Clarence. I think we should leave before he tries to obliterate me again.”
+
+Clarence bobbed up and down, as if he understood.
+
+Ali turned slowly, intending to hobble back out along the narrow promontory.
+
+“Can you turn off your dungeon rage?” Azryet asked. “It’s annoying.”
+
+“I’ll turn it off if you turn off your annoying fear,” Ali said. It was petty, but she was sticking to it.
+
+“Very well,” Azryet said, and suddenly the oppressive aura vanished, leaving only the entirely overwhelming ‘mundane’ presence of the dragon god.
+
+Ali turned to stare at him in surprise. Slowly, she released her hold on her Carnage Berserker and his rage, finally allowing him to stop bleeding himself to keep his regeneration at bay and maintain his rage. She turned to regard her tiny sliver of moss and the chaotically grown plants on the thin sliver of rock hovering above an abyss of empty space and twisted its mana. The dungeon rage vanished. Softly, a chime went off.
+
+You have earned the Title: Defiance of the MeekYou have faced the full wrath of a god three tiers beyond yourself with defiance and survived. Your Defense skills, attributes, and aptitudes will be more effective against those higher level than you. Title
+
+“Thank you,” Azryet said. “That is a remarkable magic, but one I would caution you against using often. It leaves you extremely vulnerable.”
+
+“I figured that out the hard way,” Ali said, slumping down onto her moss. Exhaustion, the remnants of mana saturation, her extremely low life, and the loss of her arm were all beginning to catch up with her. But that was not what she was really struggling with.
+
+I shouted at the dragon god.
+
+Without the rage to sustain her, she recalled her actions with a mix of fear and embarrassment, and she risked a glance upward at his enormous form. Will Havok forgive me?
+
+“I have never seen someone resist Dragon Fear with berserker rage,” Azryet observed, his voice sounding rich and resonant. The contrast from his earlier anger left her a little bewildered, but she was just grateful he wasn’t trying to breathe on her anymore.
+
+“I remember you, now,” he continued, lowering his head toward her in curiosity. “You were there, sitting beside Lirasia when I gained my First Paladin.”
+
+“You saw that?” Ali asked. Havok had been so happy that Azryet had answered his prayer. Her personal impression of Azryet, though, had taken a rather steep dip with his aggression and violent attack. Although she had just walked into his domain with what were presumably his enemy’s monsters, so she guessed the misunderstanding should be expected.
+
+“Yes, and I spoke with Lirasia. She recommended the Goblin. If you would convey my gratitude to her, I would…” Azryet suddenly stopped as tears spilled uncontrollably down Ali’s face. “Lira… your aunt was Lirasia? The Great Mother of the Deep Woods is dead?”
+
+“Yes. She is,” Ali said, choking down a sob. “The Blind Lich, Nevyn Eld, killed her and raised her to be his undead dungeon servant. She almost killed me and my friends, too.”
+
+“I am so sorry,” Azryet said, and then he reared up, and let out an earth-shaking roar, filled with an intense fury and frustration that Ali found resonated with the feelings deep within her heart. She sat for quite a while beside the roaring dragon, no longer afraid, simply sitting with her feelings for Lira, and the deep sadness within her heart.
+
+“What is your name, little one?” Azryet said when he finally finished his mourning roars.
+
+“Aliandra Amariel,” she said, looking up at his face. Halfheartedly, she added, “And I’m not little, you’re just huge.”
+
+There was a rumble from within his vast chest, and it took a few moments to realize he was laughing.
+
+“Tell me about my paladin, Havok. And do you know the one called Mato? He is just past his first evolution like you.”
+
+“Havok is the kindest soul I know, and Mato is my dear friend. He and I are adventurers together,” she said. But then her heart fell. “I don’t even know if they’re still alive.”
+
+“They are,” Azryet said with absolute certainty. “They have my mana.”
+
+“Your mana?” she asked, but then she suddenly realized what he meant, and looked at her own sheet, finding her two protégés still listed there. They’re alive? At least Seth and Naia were both alive, and she had the word of the dragon god telling her Havok and Mato were alive, also. It was not everyone, but the news lifted her spirits.
+
+Ali pulled out her Grimoire and summoned an Acolyte of Azryet, getting a curious stare from the dragon god as she reflected on her situation. Here she was, sitting in a dungeon on the other side of the rift, talking about her friends with the dragon god Azryet. Her little kobold quickly healed her, regenerating her lost arm, and finished healing Tol’brekk, but she would likely have to find somewhere safe to hole up – recovering from her Life Channeling would probably take weeks. Azryet, for his part, was surprisingly polite, now that he wasn’t trying to kill her, and he had a powerful interest in the goings on of her realm, and in particular the fledgling church Havok had built. She got the feeling he seldom had anyone to talk to, and that he probably didn’t have a whole lot of followers either – the more popular gods were notoriously distant and aloof, caring little for individuals.
+
+“So, Destraggoth is your nemesis, then?” Ali asked.
+
+“Yes, we have been locked in constant conflict for eons,” he growled.
+
+“I thought Maalgaroth was the dungeon’s owner,” she said.
+
+“Maalgaroth?” Azryet said, his rumbling laughter filling the chamber once again. “He is a weak minion relegated to surviving in the weakest outlying regions of the Demon God’s domain. I would be surprised if Destraggoth even knows his name.”
+
+“I see,” Ali said. But the implications were staggering. The giant cavern filled with demons was a ‘weak outlying region’ far from the Demon God Destraggoth’s center of power. She had been easily overwhelmed by the weakest of his minions. Much like here, she thought, realizing that the kobolds and perhaps even the Scion of Azryet she had faced were also nothing to the might of Azryet. “Which of you is stronger?”
+
+“That is a presumptuous question,” he said.
+
+“I said a lot worse to you in my anger,” she countered.
+
+“That you did,” he said. “Yet righteous fury is not the insult you fear it to be, for fury is fire and fire, fury, and could you name a creature who understands this better than a dragon?”
+
+Ali nodded respectfully. “Still –”
+
+“It matters not. The truth is, Destraggoth is stronger than I, and he has been advancing over the last few centuries where I could not. If I do not find a way, I will eventually succumb to his power.”
+
+“Seriously?”
+
+“Yes,” he said. “For reasons that were critical at the time, my chosen path has led me to specialization. I can only summon minions of a draconic line, and I am restricted to holy and void affinities only. In return for these limitations, I acquired substantial enhancements to my power, which have allowed me to match him for several millennia.”
+
+“So, why are you losing? Help me to understand.” His words confirmed a theory she had had about the Emberforge Mines, and other dungeons she had met or explored. Naia had a similar minion-type restriction, which seemed to give her more freedom with moving her domain.
+
+“You are a dungeon, are you not?”
+
+Ali nodded.
+
+“So, you are familiar with domain magic. Destraggoth has developed a domain magic spell called Immunity. Specifically, he found a way to grant some of his bosses immunity to Holy and Void. As you can imagine, that’s something of a problem for me.”
+
+“I see. That does sound problematic,” she said. Especially if he could only use physical damage against those bosses because of his affinity restrictions.
+
+“I have a proposal for you, Aliandra Amariel, Dungeon Ally,” he said. “I do not know how to return you to your home, nor do I exactly know where this rift was located. But if you do a task for me, I will offer you a boon, and I will investigate ways to return you to your home.”
+
+Her eyes flicked momentarily to Clarence. He couldn’t identify you? What are you?
+
+Clarence bobbed innocently, then shifted to boop her lightly on the hip. To her, his meaning could not have been clearer. She spoke with a god. Best she clear her mind and pay attention.
+
+Turning to Azryet, she said. “Sounds like an excellent proposal, your…err Calamity…ness. What did you have in mind?” Argh, so eloquent, Ali.
+
+Calen stood quietly at the back of the crowd in the clearing the guild had appropriated as their temporary guild hall and defensive staging area, allowing the Guildmaster’s words to sink in. A murmur of chattering rose from the half of the guild that was present, those not on shift and out in the fields fighting the continued dungeon break, as they began to discuss their orders and the strategy Vivian had just outlined.
+
+It was a great plan, as expected, and he was certain Lyeneru and Commander Brand, standing beside her had both contributed significantly to it, but there was something critical missing. He glanced warily at the crowd, but this was too important for him to stay quiet.
+
+“Excuse me, Guildmaster?” he called out, using her title in public because it was a formal strategy meeting with more than just the guild. His words cut through the hubbub, causing a ripple of silence to propagate through the guild members and guards gathered in the large clearing, and he felt the blood rising in his face as everyone turned to look at him.
+
+“What is it, Calen?”
+
+“It is an excellent plan, but I couldn’t help noticing it is purely defensive. There is no attempt to scout the Blooming Rot dungeon or reclaim anything,” he said, and, taking a breath to steady his nerves, he plunged on. “Is this an oversight?”
+
+“No, it is intentional. Lyeneru and I agreed that the dungeon is too strong to push back with the forces we have available. Lyeneru’s assessment is that the top range of this dungeon is around level one hundred and eighty. Given that Nevyn Eld’s forces are marching on Southport, we cannot expect any aid, and so we will dig in and survive until the situation changes. We are working on an evacuation plan as a backup, should we need to abandon the area.” Her words caused several exclamations and gasps from the crowd as they absorbed the news regarding the maximum power level, and the even more worrying report on the capital city of Southport.
+
+“But the situation has changed,” Calen said. “Aliandra is alive.”
+
+“Are you certain?” Lyeneru asked, abruptly interrupting Vivian as she was about to say something.
+
+“As certain as I can be,” Calen said.
+
+“I still have her patron enchantment,” Seth said, speaking up from the other side of the crowd, confirming his claim.
+
+“That does change things, Vivian,” Lyeneru said, catching the Guildmaster’s eyes. “If we could deploy her on the field, she could protect the encampment with her monsters, freeing up our entire force to go on the offensive."
+
+"Yes... yes, I see," Vivian said.
+
+“I was hoping that Mato, Malika, and I would be granted permission to scout the dungeon and search for a path down to the rift to rescue her.”
+
+“You are our answer to the highest-level monsters in the dungeon break,” Vivian countered. “Our only viable answer.”
+
+“The dungeon seems to have a cycle,” Lyeneru chipped in. “I’ve noticed that the monsters spawned during the night tend to be weaker and fewer in number than the daytime. I think it might be due to the plant nature of the dungeon spawns and the cycle of light, but I think that you and I can handle the nighttime, provided they’re all here for shifts during the day. An assessment of the deeper parts of the dungeon would provide invaluable intelligence about any possible surprises it may pull.”
+
+“Very well,” Vivian conceded. “You will mount nighttime incursions to discover a way to the rift, and during the day, you will take shifts on guard duty. That will be all.” With a wave, she dismissed everyone and turned to continue her conversation with Lyeneru.
+
+Calen let out his breath as everyone’s attention turned to other matters, leaving him standing with his thoughts near the trees. And sleep when? He sighed. Ali needs us, but what can we even do? This looks so hopeless…
+
+A light touch on his arm interrupted his spiraling thoughts. “Thanks, Calen,” Malika said, reminding him that he wasn’t the only one who desperately wanted to rescue their friend.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

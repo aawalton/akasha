@@ -1,0 +1,253 @@
+---
+id: ef2d7f41-8aa7-5b0e-a104-d61414bbe8ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 300: Eyes of the Soul"
+slug: 0336-chapter-300-eyes-of-the-soul
+partOf: dungeon-of-knowledge-complete
+position: 336
+ownLength: 2959
+unit: words
+ownProgress: 2959
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2408532/chapter-300-eyes-of-the-soul"
+royalRoadId: "2408532"
+markedReadAt: "2026-06-29T20:22:45.067Z"
+---
+
+“What do you guys think?” Malika asked, mulling over the decision options.
+
+“Damage, tank, or magic?” Calen said, offering a concise summary.
+
+“Weapon, shield, or unarmed,” Ali offered.
+
+“Actually, it says ‘shields’. Plural,” Calen said, quirking his eyebrow in puzzlement.
+
+“Oh, huh... how odd is that?” Ali said.
+
+“Two keystones, and one rare path,” Mato said.
+
+“Mhm,” Malika agreed. And here was a perfect example. She could choose to focus on additional martial arts and attack skills by giving up her unarmed restriction. She didn’t know if the path would fix her martial arts mastery, but she assumed that it would, being that it was a keystone path, and one that specifically referenced the martial arts of her father’s dojo. She could wield a quarterstaff, just like her dad.
+
+The second option – The Unbreakable Bulwark – was similar. Holding to her commitment to being unarmored had been the source of some enormous headaches, and this path allowed her to eliminate that and become some sort of ultra-defensive monk tank.
+
+Like a walking tank tortoise? Not sure about that one, she thought immediately, before quashing that sarcastic inner voice. She would give each option due consideration.
+
+And her final option, The Diamond Edge of the Soul, obviously went all in on magic, focusing on her soul affinity – but, as Mato had noted, it was not one of the highly sought-after keystone paths. It is rare, though.
+
+In Malika’s mind, the path choices felt a little different than her friends had suggested. She was being offered a choice between relaxing her monk restrictions to ease some of the challenges she had faced – or she could double down and really explore the path of the pure unarmed martial artist, wielding nothing more than the power of her body and soul.
+
+“You’re making that face, have you decided already?” Calen said.
+
+Face? What face? she thought, smoothing out her features. “Mato is a good primary tank for us, I don’t mind being the secondary tank when needed,” Malika said, reasoning out her intuition carefully. “Calen and Ali have damage covered well enough. I think that the soul magic path sounds the most interesting.”
+
+She had grown to love her soul monk class, with its strange quirks and powerful advantages, and reinforcing her commitment to that path resonated deep inside her heart.
+
+“That sounds like a great choice,” Ali said.
+
+“Simple start,” she said. “Only one choice.”
+
+“Don’t forget to check each time, in case it changes,” Ali reminded her.
+
+“Right,” she said, glancing over the reachable nodes to double-check before she spent her Authority.
+
+[The Diamond Edge of the Soul 1/10] +10% spell power to Soul skills.[The Diamond Edge of the Soul 2/10] +10% spell power to Soul skills.[The Diamond Edge of the Soul 3/10] +10% spell power to Soul skills.
+
+“Aah, it changed,” Malika said, pausing before sharing the unusual next step. “What does this even mean?”
+
+Reachable Nodes:+1 foot base range to Soul skills. Cost: 2
+
+“It increases the range of your soul skills by one foot,” Mato said.
+
+“Funny,” Malika said, “I don’t have any ranged abilities. How could it even apply to Soul Armor or Perfect Body?”
+
+“I think it’s pretty straightforward,” Calen said. “And, very strong. Anything that has a range will increase by one foot before modifiers.”
+
+“Like Soul Sight?” she asked. That was a pretty mediocre benefit if so – her sight skill had a range that was nearly eighty feet already. And it costs two Authority points.
+
+“What about your Soul Strike?” Calen said.
+
+“That doesn’t have range, I have to touch something to release it,” Malika said. “It even says the range is ‘touch’ in the description. Wait… you don’t mean…”
+
+“I’m pretty sure that will be affected,” Calen nodded.
+
+“I can punch through walls?”
+
+“Looks that way. More importantly, you can probably punch through armor with your magic.”
+
+Malika didn’t hesitate.
+
+[The Diamond Edge of the Soul 4/10] +1 foot base range to Soul skills.
+
+Immediately after spending the points, her reachable nodes reverted to spell power, but fifteen percent this time.
+
+[The Diamond Edge of the Soul 5/10] +15% spell power to Soul skills.[The Diamond Edge of the Soul 6/10] +15% spell power to Soul skills.
+
+“It changed again,” Malika said, studying the crazy range increase node yet again.
+
+Reachable Nodes:+1 foot base range to Soul skills. Cost: 2
+
+“I’d get it,” Mato said. “Calen is right, it looks incredible.”
+
+Well, I’m committed now. Let’s do this.
+
+[The Diamond Edge of the Soul 7/10] +1 foot base range to Soul skills.
+
+For the third time, her path offered her increased spell power for one point each, but again it was stronger.
+
+[The Diamond Edge of the Soul 8/10] +20% spell power to Soul skills.[The Diamond Edge of the Soul 9/10] +20% spell power to Soul skills.
+
+Right before the end of the path, it once again switched. Range again? Even though she had not gained any fancy keystone advancements, a range boost to her touch skills would be nothing short of transformational.
+
+[The Diamond Edge of the Soul 10/10] +1 foot base range to Soul skills.The Diamond Edge of the Soul path completed. 31 Authority remaining.
+
+One hundred percent additional to soul magic and three feet extra base range. It seemed that her choice would substantially increase the power of her magic at the very least. Oh, here we go. The choices changed. Nervously, she read the new notifications.
+
+New paths found.The Resolute InstructorYou have set many students on the path of martial arts and spread the instruction of the Ahn Khen beyond your ancestral lands. Follow in the footsteps of your mentor, Rezan Jin, taking disciples and training them to the pinnacle of their skills. Gain enhanced skills for training and instruction. Traits: Mastery, Knowledge, Tithe, Wisdom, Teaching.Path Length: 17Reachable Nodes:+10% spell power to Knowledge skills. Cost: 1 Quality: RarePath – ClassThe Relentless FistYou are relentless in battle, growing more and more powerful as combat draws on.Traits: Stamina, Endurance, Regeneration, MasteryPath Length: 9Reachable Nodes:+25% to stamina regeneration. Cost: 1Quality: UncommonPath – Aptitude
+
+“I got a rare class path,” Malika said, studying the two new paths. To her surprise, the original paths still remained, perhaps tempting her to take them. She shared the new ones.
+
+“Vivian had better watch out; you could take her job with that path,” Mato said, chuckling.
+
+Joking aside, Mato had the right of it. The Resolute Instructor must be the result of her helping Vivian recruit from the poor quarters and then committing substantial amounts of her own time to train them to unlock basic martial arts or attack skills in preparation for their class unlock. But the path was long and looked like it would take most, if not all of the remainder of her points, so choosing that might be the last path she could take.
+
+“You like being an instructor,” Ali said.
+
+“I do…” she answered, considering it carefully. “But this would make it my entire focus, I think. I don’t want to give up teaching, but I’m not sure I want it to be my entire life. I also want to be strong and help bring good to the world. Clearing the Temple of Aman Rak was important to me – I want to be able to do that again if it’s needed.”
+
+“Then the decision is made, right?” Ali asked.
+
+“I think so,” Malika said. The Relentless Fist appeared to be referring to her Relentless Aptitude and seemed to fit her style well enough.
+
+[The Relentless Fist 1/9] +25% to stamina regeneration.[The Relentless Fist 2/9] +25% to stamina regeneration.[The Relentless Fist 3/9] +25% to stamina regeneration.[The Relentless Fist 4/9] +25% to stamina regeneration.[The Relentless Fist 5/9] +25% to stamina regeneration.[The Relentless Fist 6/9] +25% to stamina regeneration.[The Relentless Fist 7/9] +25% to stamina regeneration.[The Relentless Fist 8/9] +25% to stamina regeneration.
+
+The path held true, not deviating in the slightest until she reached the last point.
+
+Reachable Nodes:Second tier Relentless (Whenever you spend or reserve stamina, you can spend more to increase the effect) Cost: 3
+
+Despite the steep cost, Malika spent her three Authority points in a flash.
+
+[The Relentless Fist 9/9] Your Relentless aptitude is improved.The Relentless Fist path completed. 20 Authority remaining.
+
+“What did you get for the last one?” Calen asked.
+
+“Something unusual,” Malika said, sharing the changes. She had gained an additional two hundred percent to stamina regeneration along a very simple path, but it had culminated in the ability to spend extra stamina to enhance whatever she spent it on.
+
+“That’s not bad,” Calen said.
+
+“I think it’s going to be very strong,” Malika said. Ridiculous and versatile. “Remember I have the Abiding Perseverance upgrade for my Second Wind?”
+
+“What’s that do?” Mato asked, leaning closer.
+
+“It progressively reduces the stamina cost of her abilities as the fight gets longer,” Calen said, his eyes widening as he said it.
+
+Mato just let out a low whistle.
+
+“Oh, wow,” Ali said. “So you can get progressively stronger instead of just having cheaper abilities?”
+
+“I think so,” Malika said. “By three percent per minute.” It didn’t sound like a lot, but in long battles – anything longer than twenty minutes – she regularly got better than fifty percent reduced stamina costs. “And it applies to reservation costs too.”
+
+“Yup, that,” Calen said. “You can just keep spending the normal amount, and as the cost reduces, the effects get stronger. It looks like it will work for everything you have.”
+
+She had known intuitively that it was good, but the more they discussed it the more impressive it sounded. She had been considering a single boost to an attack, much like Calen’s ambush or power shot – but what he said made more sense; the aptitude was called Relentless after all. The longer the fight went, the more powerful she would become. And faster too, she thought, realizing it would apply to Divine Step. And tougher. Assuming she could boost her defensive skills too.
+
+I need to test this out immediately.
+
+The Striking Staff of the Ancestors path removed. The Unbreakable Bulwark path removed. New paths found.Infinite GraceUpgrade your Divine Step to the bloodline skill, Infinite Grace, empowering your haste beyond legend. Traits: Bloodline (Ahn Khen), Haste, Dexterity, SoulPath Length: 8Reachable Nodes:+10% to melee haste. Cost: 1Quality: RarePath – KeystoneEyes of the SoulEnhance your Soul Sight with potent eye magic, taking your first step toward the lost arts. Traits: Bloodline (Ahn Khen), Soul, Wisdom, Perception.Path Length: 4Reachable Nodes:+2% to the range and power of your Ahn Khen bloodline skills. Cost: 1Quality: RarePath – Keystone
+
+“Haste or perception,” Calen said, again summarizing when she shared. But this time her decision was hard.
+
+She had always been drawn to the legends and stories of eye magic when she was younger, and the Eyes of the Soul path looked incredible to her. But haste was her fundamental advantage in combat compared to all her friends and turning Divine Step into Infinite Grace would grant her a third bloodline skill – an unheard-of achievement in the modern age.
+
+“I don’t know,” she said finally. “I want the eyes so badly, but I need the haste.”
+
+“Eyes,” Ali said, instantly.
+
+“Yup,” Calen and Mato both echoed.
+
+“Why?” she asked, genuinely curious how they could all be so certain.
+
+“Because you want it,” Ali said. “You’ll regret it forever if you don’t take it. You’ll always feel like you settled for the safe option.”
+
+“I…” she said and stopped, actually considering what Ali had said. She was right, of course, but really, she felt like she somehow would be indulging herself if she picked her most desired option – like somehow, she wasn’t worth it or didn’t deserve it. She pressed her lips together and frowned.
+
+I do want it, she thought, pressing her lips firmly together. Then she spent her points.
+
+“Why are my paths so linear?” she asked as the first three points offered no diverging choices.
+
+“You’re pretty straightforward,” Mato said, waggling his eyebrows at her.
+
+Despite his jocular attitude, she found herself bristling a little. “Are you calling me boring?”
+
+“Me?”
+
+Malika snorted and continued investing in her path.
+
+[Eyes of the Soul 1/4] +2% to the range and power of your Ahn Khen bloodline skills. [Eyes of the Soul 2/4] +3% to the range and power of your Ahn Khen bloodline skills.[Eyes of the Soul 3/4] +5% to the range and power of your Ahn Khen bloodline skills.
+
+After the third point, her options changed. Figures, right after he teased me about it.
+
+Reachable Nodes:+10% to the range and power of your Ahn Khen bloodline skills. Cost: 2Soul Sight gains Martial Disruption. (Attack the stamina energy of a martial skill directly to disrupt it) Cost: 4
+
+And there it is. Her Soul Sight upgrade. Martial Disruption was a remarkably rare eye magic that had always captured her imagination. A skill for the heroes of the stories, disrupting the attacks of their foes and denying their adversaries their most powerful moves. She smiled, suddenly experiencing a rush of relief and a fresh flood of excitement over her chosen path.
+
+[Eyes of the Soul 4/4] Soul Sight gains Martial Disruption.
+
+“Wow, you’re growing a real denial build,” Calen exclaimed when she shared it. “Fighting you is going to suck, no mana, no stamina, and no big finishing moves.”
+
+“Boring never sounded so epic,” Mato grinned. He must have noticed her annoyance and was offering the peacebloom wreath.
+
+“No frills, no fuss,” she smiled back.
+
+Just then, Malika’s chime sounded. Her mouth dropped open as she read the unexpected notification.
+
+The strength of your bloodline has unlocked a hidden continuation for the Eyes of the Soul path.Eyes of the SoulEnhance your Soul Sight with potent eye magic, taking your first step toward the lost arts. Traits: Bloodline (Ahn Khen), Soul, Wisdom, Perception.Path Length: 4/8Reachable Nodes:+10% to the range and power of your Ahn Khen bloodline skills. Cost: 2Quality: UniquePath – Class
+
+There’s more?
+
+“What, Malika?” Ali said.
+
+“I don’t know, it just did a thing,” Malika answered.
+
+“What kind of thing? Is it ok?” Ali said, her voice laced with concern.
+
+“Nothing bad,” Malika said slowly, and shared the update.
+
+“Whoa,” Calen said. “It upgraded to a class path!”
+
+“Unique too,” Ali said. “That’s incredible. There was nothing like this in Val’korr’s book.”
+
+“Maybe she’s not so boring after all,” Mato said in a faux whisper to Calen.
+
+“Oi,” Malika said, lobbing a small pebble at him and making it plink off the heavy plate armor covering his shoulder. Even though the cost of her bloodline improvement nodes had increased to two points, the amounts went up commensurately and they seemed well worth it.
+
+[Eyes of the Soul 5/8] +10% to the range and power of your Ahn Khen bloodline skills.[Eyes of the Soul 6/8] +15% to the range and power of your Ahn Khen bloodline skills.[Eyes of the Soul 7/8] +20% to the range and power of your Ahn Khen bloodline skills.
+
+Still stunned by the incredible increase in power of the benefits this path provided, she stared at the path divergence shown for the final node. What is that?
+
+Reachable Nodes:+25% to the range and power of your Ahn Khen bloodline skills. Cost: 2Soul Sight gains Infinite Perception. (Your perception and understanding of martial skills are greatly enhanced.) Cost: 5
+
+She had heard of the rare Martial Disruption skill in the list of bloodline skills of the Ahn Khen heroes, but she had never heard of Infinite Perception – and she had read every story she could lay her hands on. Greatly enhanced? She had no idea how it worked, but it sounded extraordinary.
+
+[Eyes of the Soul 8/8] Soul Sight gains Infinite Perception.The Eyes of the Soul path completed. 2 Authority remaining.
+
+She had only two more Authority points remaining, so she would most likely need to spend the remainder to purchase attributes, but while she was considering her options, her chime sounded once more.
+
+New path found.Nine Paths of Ahn KhenYou have helped save the Nine Paths of Ahn Khen. You have studied its wisdom. Now walk the path of your ancestors and grow ever stronger.Traits: Vitality, Strength, Endurance, Dexterity, Perception, Intelligence, Wisdom.Path Length: 2Reachable Nodes:+1 to all attributes every nine class levels above 100. Cost: 1Quality: UniquePath – Attribute
+
+Oddly convenient, those numbers, she told herself, but really there was no question at all. She’d be the world’s biggest fool to pass this up. Before she could overthink it, Malika spent her last points.
+
+[Nine Paths of Ahn Khen 1/2] +1 to all attributes every nine class levels above 100.[Nine Paths of Ahn Khen 2/2] +1 to all attributes every nine class levels above 100.Nine Paths of Ahn Khen path completed. Class evolution completed. Your class has become Eyes of the Soul.[Zone] Eyes of the Soul has advanced to the second tier.
+
+There was a deep lurch within her heart as the changes took effect. The memory of her terror and pain at the feeling of her bloodline unraveling crashed back into her mind, but the sensation passed, leaving her sweating and breathing heavily.
+
+“You ok?” Ali asked, taking her hand in concern.
+
+“I think so,” Malika said, checking everything with feverish haste, but other than the changes she had chosen, nothing else seemed to be lurking. She did feel quite different – for one thing, Soul Sight had substantially enhanced range, and the clarity with which she could perceive mana and stamina flowing around them was extraordinary. Hopefully, her weird passing sensation was just her bloodline growing stronger, but Rezan had cautioned her to return when she advanced, and she wasn’t about to let it go so long this time.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

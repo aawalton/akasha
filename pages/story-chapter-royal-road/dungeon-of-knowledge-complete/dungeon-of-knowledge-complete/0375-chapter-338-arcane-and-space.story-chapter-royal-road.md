@@ -1,0 +1,231 @@
+---
+id: 158a8f19-b61d-5ce4-9514-d8968f0b7f50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 338: Arcane and Space"
+slug: 0375-chapter-338-arcane-and-space
+partOf: dungeon-of-knowledge-complete
+position: 375
+ownLength: 3882
+unit: words
+ownProgress: 3882
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2496749/chapter-338-arcane-and-space"
+royalRoadId: "2496749"
+markedReadAt: "2026-06-29T20:23:19.163Z"
+---
+
+The way forward did not look passable, and the elegant spiral of floating platforms to her left had some scary gaps in the arcane paths and bridges, but the way to the right seemed to be manageable, a simple staircase and an elevator to the first large island below.
+
+To the right, then, she decided – not that it was a particularly difficult decision. She needed to figure out the rules of this place, and until she understood them, she would be in danger. It would be a trivial task if she had access to any of her spells. She didn’t have a nearby target for Minion Teleport, but she tried the long-range version again. It remained annoyingly beyond her reach. Then she tried her Barrier magic and attempted to summon her Grimoire to no avail. Even her storage enchantment acted like she lacked sufficient mana to activate it, which was absurd.
+
+At least I got to talk with Malika, she thought, feeling just a little less alone and helpless, even though she couldn’t imagine how Malika could help her when she couldn’t even tell her friend where she was. They need time. I’m going to need to keep these two nutcases focused on me, so they don’t catch Malika and Calen snooping around. She frowned. That meant she couldn’t just sit in a corner and wait. As if they’d even let me.
+
+Ali turned to the right and walked over to the edge of the platform, frowning as she placed a hesitant foot on the arcane barrier of the first step. It was one thing to descend her own transparent golden staircase, but entirely another to trust that this one wouldn’t suddenly vanish beneath her feet.
+
+“Right. The safe choice,” Cael said, his voice sounding like he was approving.
+
+“You should have tried the center path,” Gage said. “It’s more direct – I know you could have made the jump.”
+
+“That’s a thirty-meter jump,” Ali said, directly acknowledging the more bloodthirsty brother for the first time.
+
+“You won’t know unless you try,” Gage finished, an almost desperate note of pleading in his voice.
+
+“No thanks,” Ali answered, pressing on the glowing platform with progressively more weight before taking a determined step down the stairs. I’m definitely not taking his advice ever, she thought.
+
+Slowly, with painstaking care, she descended the staircase, testing each barrier platform before committing her weight to it. She ignored the brothers egging her on, one encouraging her to trust the stairs, and the other trying to get her to take unreasonable risks, and eventually, she found herself on the final step, suspended far below the initial platform with vast open space stretching away to infinity in all directions. The floating island she had picked as her first target lay almost thirty meters below, as unreachable as the distant ground.
+
+She waited, studying the strange, inverted pyramid of golden energy slowly rising toward her from below. This was her biggest risk; it was some kind of elemental and therefore a monster, but she hadn’t seen it do anything other than float up and down, pushing its projected disk of golden magic above it like an open elevator leading from the final stair to the island far below. Throughout her slow descent of the stairs, she had studied its movement, but it had never deviated even once from the fixed path. Except for the time the realm echoes flickered.
+
+It finally arrived, slowing down and stopping flush with her final step. She hesitated, but immediately forced herself to tap it with her foot. She had resolved to not try these things at first sight, but here she was testing it out. Not like I have a better choice. But it didn’t wait for her, immediately beginning its descent while her mind screamed at her to not trust it. But if she didn’t get on immediately, she would have to wait for a full cycle of its descent and subsequent return. She held her breath and stepped forward. Contrary to her fears, the barrier did not suddenly vanish. Nor did the arcane elemental shoot her or fly off in some random direction, dumping her into the abyss. Instead, it calmly continued its slow descent toward the island below.
+
+When it finally reached the bottom, Ali stepped off onto the polished white stone, studying the several arcane trees and clumps of white crystal growth that dotted the surface of the island.
+
+“There, that wasn’t so hard, was it?” Cael asked.
+
+“No, it was simple,” Ali said, choosing not to keep her inner fears and terror to herself.
+
+“I still think you should have gone for the jump,” Gage added. “Now, that would have been fun!”
+
+That’s his idea of fun? Every time he opened his mouth, Gage confirmed her assessment that he was entirely cracked, maybe even psychopathic. It wasn’t that he was indifferent to her survival, he seemed to actively relish the idea of seeing her falling to her death. Murderous for sure. At least Cael had some more reasonable ideas of what fun entailed, although she wasn’t personally a fan of them.
+
+Slowly, she walked around the perimeter of the new island, exploring the space. The trees were intriguing, and she even tried deconstructing one, but her magic remained barred to her, much to her disappointment. She was curious if these things would show up in her elemental imprint, or her tree imprint, seeming to be a little of both to her mana sight.
+
+As she rounded the nearest tree, brushing her fingers against the golden, semi-transparent trunk, she found a narrow passage between the tall white crystal growths. Curious, she followed it, marveling at the perfection of the crystals large enough in this area that they towered over her head on all sides. She couldn’t confirm it with Identify, but she was certain that these crystals were unimaginably valuable amounts of space-affinity magicite. Even running her fingers over the hard faceted surfaces allowed her to feel the dense space-affinity mana that she could see billowing from within.
+
+She followed the narrow winding passage through the crystal forest and suddenly came upon an intricate and complex formation of mana, hidden there among the growth.
+
+A runic circle? Again, she couldn’t use Identify on it, but her knowledge of Runic Script was still available to her, so she simply read the runes directly. Arcane… Barrier? There was a trigger built into it too, one that she could make herself. It was slightly different than the way she inscribed it, but she was clearly looking at a voluntary trigger – if she stepped into the circle, she would be presented with an option to turn it on.
+
+Probably safe, she thought, but still, she bent down and picked up a loose chunk of crystal and tossed it into the runic circle, but nothing happened.
+
+“Paranoid, are we?” Gage said.
+
+“You’re one to talk,” she answered him absently, still studying the magic.
+
+“I’m not paranoid. I know you’re here to destroy us.” Gage replied angrily. “I don’t care what my brother says, I won’t let you win.”
+
+Definitely paranoid, Ali decided, taking a step into the circle. As soon as her foot touched down in the middle, she received a chime and a notification.
+
+Accept creation of Barrier Platform One?
+
+Platform? She hesitated, but then decided there wasn’t much to be learned if she didn’t accept it, so she did. Mana pulsed through the arcane runes, creating a formation that was intimately familiar to her – almost identical to her own barrier magic, but prior to the advancement that had given her the ability to absorb the mana from attack spells.
+
+High overhead, in the distance, her attention was caught by a brilliant golden flash of light. She stared at the barrier that had formed in response to her standing in the circle. It was a large rectangular bridge that spanned the distance between the initial Gate platform and the first floating island on the sinuous path toward the exit Gate.
+
+Huh… that’s interesting, she thought, but she couldn’t immediately see how it solved anything for her. She stepped out of the runic circle, and immediately the bridge vanished as the triggered barrier spell was disabled without her presence. How do I keep it active? She literally couldn’t be down here in the circle, and up there walking across the bridge at the same time – and something inanimate like the rock couldn’t activate a voluntary trigger.
+
+Maybe? she thought, looking over at the elevator pyramid elemental just reaching its highest apex again. But she didn’t see any obvious way to communicate with it, or even if it was intelligent enough to know how to activate a circle. Now, if only she could summon minions, she might be able to test out a few ideas.
+
+“You figured it out, that’s fantastic!” Cael said encouragingly.
+
+“Yup,” Ali said. Of course, she wasn’t going to admit she had no idea how to use this information, but she hoped that by keeping him talking he might let something slip. “I assume there are more of these I need to find?”
+
+“Definitely,” Cael said, sounding pleased with her. “You’re clearly quite smart – this game is turning out to be quite fun.”
+
+“Stop giving her hints, brother,” Gage said. “You’re going to mess it up.”
+
+“A little bit can’t hurt,” Cael answered his brother. “Besides, she hasn’t figured out the other part yet.”
+
+“Cael!” Gage yelled, getting annoyed.
+
+Nice! Judging by Gage’s sudden outburst of annoyance, Ali was certain Cael had just revealed something important. There was another piece to this puzzle, and she just had to keep her eyes open. Immediately, she set off to explore the rest of the island.
+
+The island was surprisingly large, and she had to walk through several crystal gardens and forests before she finally found something interesting at the far end of the island. A different runic circle? This one was entirely composed of runes attuned to the much less familiar space magic affinity.
+
+The circle was three meters in diameter, and within it was a shimmering aura of white light, with absolutely no evidence of a trigger. Whatever happened inside the circle was already active. Sage of Learning began drawing mana from her pool, but she didn’t mind – it wasn’t like she could use her mana for anything under the strange suppression field of this dungeon. She read the runes several times, committing them to memory, but other than a similarity to the much more complex runes inscribed on the Gate itself, she had no context to understand what exactly it did. It was definitely related to space, but that wasn’t narrowing it down much.
+
+“Hah, stumped you, did I?” Cael gloated.
+
+Ali ignored him, picking up a handy, fist-sized loose crystal while she eyed the runic circle speculatively. If it were actually dangerous, she would have expected Gage to be encouraging her to jump in, but he remained conspicuously silent.
+
+Still, I’m not taking any chances, she thought, and lobbed the crystal into the circle. It flew in a nice curved arc, falling to the ground, but to her surprise, it vanished instead of bouncing. A second later, it reappeared, falling upward out of the ground through which it had vanished, slowing as it reached its apex before falling through the floor again.
+
+A mini-gate? Portal? Ali studied the trajectory of the crystal as it fell back through the bottom again and again, and by the height of the apex, she intuited that it was experiencing very little friction, simply reversing gravity every time it passed through the floor. While the large Gate that had brought her here had used an unimaginably enormous quantity of mana, and could quite easily have sent her anywhere on the continent, or even further, this one was barely fluctuating every time the crystal appeared and vanished.
+
+The other end must be nearby. She got up and looked around, staring first at the islands above her where the barrier bridge had appeared, but when she saw nothing obvious, she continued searching. Finally, she saw something when she looked down. On the floating island below this one, something tiny moved, almost too far for her to make out. Then it vanished, and the crystal reappeared beside her before falling back down through the floor where she saw what must be the same crystal falling up through the floor of the distant island below her. She studied it carefully for several cycles of the strange magical pendulum before she reached out and caught the crystal with her hand, halting its endless oscillation. And as she had deduced, the movement from below ceased immediately.
+
+Gulping, she considered the distance carefully. There was no way she could reach the distant island under her own power. I’m going to have to do this, she realized. But… I don’t have to like it. Screwing up her courage, she carefully stepped across the runes and into the portal. Immediately, she fell through the floor. No sooner had she passed through than gravity flipped, switching her orientation to upside down and she fell upward, feet-first, from the floor, seeing the ground above her head. She reached her apex with her stomach instantly clenched in queasiness before she fell headfirst toward the ground, thankfully falling painlessly through the floor and emerging back on the higher island, head upward again.
+
+Ugh, she groaned, trying to twist her body around as she fell back down into the portal again. It took two nauseating cycles before she righted herself properly for the destination and managed to step up and out of the circle as she passed the ground.
+
+“You got it! Well done!” Cael exclaimed. “You’re amazing at this!”
+
+Ali ignored him, doubled over trying to avoid retching.
+
+“You told me this would be hard to figure out,” Gage complained.
+
+“It is,” Cael answered.
+
+“Why is she figuring it out so fast then?” Gage continued.
+
+“She’s smart!” Cael answered.
+
+“She’s smarter than you,” Gage retorted.
+
+“Nobody is smarter than me. I have over seven hundred intelligence,” Cael bragged.
+
+Ali kept quiet, not about to reveal that she had over a thousand intelligence, and was therefore in fact, quite a lot smarter than Cael – if one went by attribute points, that was.
+
+“Mother was smarter than you,” Gage continued.
+
+“Mother doesn’t count,” Cael said smugly.
+
+Reasoning from a logical fallacy, Ali thought. Her professors had always impressed on her the importance of education. The intelligence attribute could be considered analogous to your top speed. In their favorite analogy, they would always refer to education as having a map. No matter how fast you could fly, if you didn’t know where you were going you weren’t going to get there. Whereas with a proper education, the person with the lower intelligence attribute would often arrive at the correct conclusion more efficiently and faster.
+
+“Ok, fair enough,” Gage answered. “But Nevyn Eld was smarter than you, too.”
+
+Nevyn Eld? Ali jolted to fully alert as if she had just been struck by lightning from the clear sky. But they stopped talking.
+
+“You know the Blind Lich?” Ali asked, curiosity overcoming her fear with a powerful need to know if these two were servants of the Lich.
+
+“What Lich?” Cael asked after a surprisingly long pause.
+
+“You said Nevyn Eld?” Ali asked.
+
+“Nevyn Eld isn’t a Lich, silly,” Gage answered. “He is a prominent magical researcher in Dal’mohra. The City of Learning. You’ve probably heard of it, it’s our home. He is a Guardian of the Realm, so he’s very important.”
+
+“Although something has happened,” Cael said. “And we haven’t seen anyone in a little while.”
+
+Ali reeled, struggling to get her chaotic thoughts under control before she gave anything away. Of course, she knew Nevyn Eld was a Guardian of the Realm – it was common knowledge from before he’d been expelled from Dal’mohra. Her mother had also been a Guardian.
+
+No, it was the fact that these two knew him. They spoke about Dal’mohra in the present tense and seemed to be entirely unaware of Nevyn Eld’s ascension to his state of undead immortality. Which meant their ‘little while’ had to be over three thousand years, and it seemed that she had to be looking in on a time capsule from the distant past. The implications were staggering.
+
+“But you knew… know him?” Ali asked, suddenly breathless.
+
+“Yes, it was Nevyn Eld who gave us this place,” Cael said.
+
+“And gave us our mission,” Gage added proudly.
+
+“And… what is your mission?” Ali asked.
+
+“It’s top secret,” Gage said. “We can’t tell someone like you.”
+
+“And very important,” Cael added.
+
+“He used to visit us a lot,” Gage said. “He always brought us our potions.”
+
+“But then he stopped coming,” Cael said, his voice thick with grief. “We nearly died without the potions.”
+
+“Uh, what happened then?” Ali asked. She had been hoping to get them to open up a little, but this was far more than she had bargained for.
+
+“That’s when mother visited,” Gage said. “I liked her.”
+
+“Me too,” Cael said. “She saved us, but she only came once.”
+
+“Oh yes,” Gage said. “Right after that, we saw the mountain explode.”
+
+“And then there was that pillar of golden magic,” Cael said. “Gage, did we decide if that was her spell?”
+
+“No, we didn’t,” he answered. “But it’s gone now.”
+
+Wait… are they talking about Mom’s barrier?
+
+“We miss them,” Cael said. “We haven’t seen anyone since the echoes in the Spirit Realm went crazy.”
+
+“If you find them, could you please tell them to come back?” Gage asked, his voice pitifully wistful.
+
+“I… would need to get out of here for that,” Ali said, swallowing and choosing to keep her knowledge of current events private for now.
+
+“Oh, no you don’t,” Gage said accusingly. “I know what you’re trying to do, and it won’t work. You can’t avoid this by manipulating us.”
+
+Ali frowned, struggling to process the implications of the brothers’ story. At least if they were unaware that Nevyn Eld was a lich, they couldn’t be working with him right now, but it seemed they had once enjoyed a positive relationship with him, and she had no idea how they would react if they found out he was her enemy. Certainly, it was not worth the risk until she learned more. And this ‘Mother’ of theirs… could it be…
+
+“Is there another barrier on this island?” Ali asked, attempting to change the subject. She needed time to process what she had heard.
+
+“Don’t tell her, Cael,” Gage answered immediately. “I don’t trust someone smarter than you.”
+
+“She’s not smarter than me,” Cael grumbled, but he volunteered no further information, seeming to allow himself to be influenced by his brother’s caution.
+
+Ali turned her attention to her new surroundings, an island significantly smaller than the first, but still large enough that she would have to explore. It only took about five minutes though, before she found the next arcane circle.
+
+Accept creation of Barrier Platform Three?
+
+Far above, she saw the creation of the barrier bridge between two of the islands on the path to the exit Gate – this one appearing somewhere in the middle of the path.
+
+Three? Did I miss number two? A substantial gap remained between the islands that wouldn’t be covered by the two barrier bridges she had discovered so far. Presumably, she would find a runic circle that bridged that gap, too, although she still had no idea how she was going to get up there while activating all the needed barriers.
+
+At that moment, the Spirit Realm flickered as the echo changed. All the moving elementals reset, but Ali’s entire point of view shifted disconcertingly, and she suddenly found herself looking out over the vista of islands from the platform right before the Gate where she had first entered.
+
+I… was teleported back? She stood, staring about in surprise, but she had indeed been moved back to the start. She could see the island she had been exploring moments before far below her on her right.
+
+Well, that’s annoying, she thought, not relishing the need to brave the arcane elevator, the stairs, and the nauseating portal again, but before she could take the first step, a shape stepped out in front of her. A small gray figure with long flowing hair, just about as big as her. It walked forward to the edge, as if studying the islands arrayed before them.
+
+Wait… is that… me? She stared, hardly breathing as she watched the ethereal gray form of a Spirit Realm echo exploring from above. The figure finally nodded to herself before it headed toward the right, testing the stairs carefully with a foot, before slowly descending. Ali stood, transfixed, studying the bizarre phenomenon – in all her experience in the Spirit Realm, she had never seen anything like this. As she watched the echo of herself exploring, she became more and more certain that this was somehow the key she was missing.
+
+Finally, after her long, painstakingly cautious passage, her echo-self approached the first Runic Circle and stepped into it. Her eyes flickered to the path before her, leading to the exit Gate. With a golden flash, the barrier platform between where she stood and the first island on the path to the exit suddenly materialized. That’s it! Ali crept forward, suddenly moved to action by curiosity, and she poked at it with her foot, but there was nothing echo or insubstantial about the barrier – it was as real as anything she had encountered here.
+
+She almost stepped onto it in her excitement to progress when she suddenly remembered she hadn’t remained in the first circle for long. A few moments later, the barrier winked out of existence as her previous self left the ring.
+
+“Aww,” Gage whispered, breaking the silence.
+
+I’m not that stupid, Ali thought, but in truth, she knew it had been a little too close for comfort. The rules in this place were anything but normal and she would need to remain vigilant if she didn’t want to die suddenly from a random mistake. Still, as she studied the path of her echo, she knew she had the answer to this puzzle.
+
+“Are you just going to stand there?” Cael asked suddenly, but Ali felt no inclination to answer him, instead continuing to observe the path of her image as it explored the islands below. The only unknowns were how frequently the spirit realm reset, and where the remaining barrier circles would be found.
+
+It took about twenty minutes of Cael badgering her for responses before the realm flickered again and she found herself transported from the edge of the platform back to the center. This time, however, she was ready. Moving quickly, she descended the stairs, reaching the elevator platform well before her previous echo did, and descending to the island below. This time, when she entered the runic circle and accepted the voluntary trigger, she simply sat down to wait out the time till it reset.
+
+“Cael, she figured it out,” Gage whined. “You said she wouldn’t be able to figure it out.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

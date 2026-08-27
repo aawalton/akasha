@@ -1,0 +1,195 @@
+---
+id: 65cf270b-50b5-5586-bee2-f7f6640ccdf2
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-One: Questioning"
+slug: 0042-chapter-forty-one-questioning
+partOf: flesh-eater-demon-evolution-litrpg
+position: 42
+ownLength: 3096
+unit: words
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2750799/chapter-forty-one-questioning"
+royalRoadId: "2750799"
+---
+
+“ —happened to not suspicious—”
+
+Pyre’s eyes moved idly over to the rest of the training grounds. The other recruits had gathered closer to the building after they’d all been ushered out so that the examiners could “discuss things in private.” After her little showing with the sand bag—former sand bag, until it was repaired—the staring had gotten worse. Even now, casually lounging against one of the trees by the wall, she could still see people glancing her way and whispering.
+
+On her part, she was enjoying the weather. The training facility had been unnaturally cold thanks to some magic temperature runes, according to Callan, so the warmth of the sunlight was a nice change of pace.
+
+Speaking of Callan, the moment they were out of earshot from anyone else, the ghost had launched into an impressively lengthy tirade that put his past magic rambles to shame. She estimated it had been a solid seven minutes now, and she was personally betting on if he could make it to ten. The demon thought he probably could, but there was a chance they’d be called back indoors before then, so it was really a 50/50 chance.
+
+“ —throwing it across the entire damn ring—”
+
+“Technically,” Pyre drawled, “I punched it, not threw.”
+
+If he wasn’t invisible right now, the ghost would probably be leveling her with his most unimpressed look to date.
+
+“Right,” Callan said sarcastically. “That’s so much better.”
+
+“Hey, I really didn’t think it would be that light. I was going more for two-thirds of the way.” Fighting the chimera and Tivona, both higher leveled than her, had probably skewed her sense of what an average stat was. That and getting close to 100 bonus points from the flesh pit quest. Just a little, though.
+
+“That still would’ve stood out,” the ghost muttered.
+
+“Yeah, that was the point. I went a little too far, but hey, mission accomplished.”
+
+If Callan was capable of popping a vein, he would probably be pretty close to doing so by now. Pyre heard him take a deep breath, undoubtedly readying to launch into another spiel, and decided to spare him from further increased ghost-blood pressure.
+
+“Up on the observation deck, you see that dude in the fancy clothes?”
+
+Callan paused. “…The one sitting in the middle?”
+
+“Bingo.”
+
+“What’s bing—”
+
+“I’m like 99% sure that guy was Lord Bellhein.” The clothing and general aura of importance had been pretty convincing on their own, but it was far enough away that she could be wrong.
+
+Then that red-headed girl had appeared, and she’d been positive then. She was even more obviously not a soldier and fairly young, probably early twenties, but none of the examiners had said anything to her when she’d barged onto the deck. Only a noble of really high standing could get away with something like that, and then she’d started talking to that first fancy dude and her suspicions were confirmed. It looked like the Bellhein family was already starting their “observations.”
+
+Callan was quiet for a moment, taking in the words. “So you… were trying to show off so they’d notice you?”
+
+“Pretty much, yeah.” The demon shrugged, still keeping a casual eye on the training facility in case any of the gossiping recruits decided to move closer. “That’s the end goal, right? Faster I can get a guard position, the faster I can find that horn and get this”—she tapped her chest where the curse mark lay beneath layers of clothing—“off.”
+
+“I guess that makes sense,” Callan said slowly. She heard the scowl return to his face. “You overdid it, though.”
+
+Pyre chuckled and leaned further back against the tree, enjoying the passing breeze. “I did say that part was an accident.” Movement flashed in the corner of her eyes, and she glanced over to see the doors of the training facility opening. The chatter of the waiting recruits grew louder.
+
+“Looks like it’s time to go,” she said, and Callan immediately quieted. The demon pushed herself off the ground and rose back to her full height, stepping casually across the grassy lawn to return to the gathered group while ignoring all the stares. If she was the kind of person who cared about attention, she’d probably be feeling pretty damn great right now. As it was, she was mostly just amused.
+
+Standing just outside the building doors, she could see that same examiner from earlier—Sergeant Edna, she was pretty sure her name was. She was holding a thick stack of papers that was apparently very intimidating, if the reactions of the waiting recruits was any indication.
+
+“Before we begin, I’d like to thank you all for participating,” Edna began, voice ringing loud and clear. “Signing up alone takes great courage and strength. The garrison and all of Auren extends its gratitude to you.”
+
+A few chests puffed up at that, most notably the really excited guy Pyre had seen earlier standing in line. Edna paused, allowing some time for her words to sink in, before she continued.
+
+“As you all know, the garrison maintains high standards. Training is rigorous, and these tests were necessary to determine which of you have what it takes to join us.” She flipped over a page to the next one in her stack of papers. “Taking into account your varied backgrounds, those of you who passed your physical exams have been divided into different groups based on your current skill level. I will begin calling out names for group C.”
+
+Around Pyre, shoulders stiffened as Edna promptly began reading names off her list. Some of the others she’d seen up on the observation deck were outside too, she noted, though there was no sign of the Bellheins. They’d probably left already.
+
+The list of names ended up being a lot longer than expected, but she figured the garrison couldn’t afford to be all that picky when they were fighting a war. Pyre tuned out as more and more recruits were called up. Eventually, Edna finished, and that first group was led away by one of the other sergeants. Edna then moved on to group B, which was thankfully smaller than the first group, and finally group A.
+
+Pyre had full confidence that she’d passed, so she barely reacted when her own name and number were called out. Group A was by far the smallest, and by the time the sergeant was done reading, there was still a sizable number of dejected recruits who hadn’t been called. Edna gave them a speech clearly designed to make them feel better about not making it, then they were ushered off, leaving just group A and Edna outside the training facility.
+
+The sergeant didn’t talk for a long moment, simply studying the increasingly nervous recruits in front of her. Pyre figured it was some kind of weird intimidation tactic. Finally, after another few moments of silence, Edna nodded and turned to the building.
+
+“Follow me,” she said.
+
+The next phase, it turned out, involved a fuck ton of paperwork and waiting around in a room. Apparently all the recruits who’d passed the physical tests weren’t out of the woods yet: now was the time for the more “thorough” background checks.
+
+After filing into the building, the recruits were handed back their bags and other personal items, then sequestered off into separate tiny, drab rooms. Pyre tapped a finger on the cool wooden table. She’d been in here for nearly half an hour now waiting for someone to show up. At least she had her stuff back. It had obviously been rummaged through, but everything was in there. Good thing she’d left the map and crystals at their camp. And that she’d gotten rid of all the bloodstained stuff.
+
+“Question 45 should be yes, then 46 is no,” Callan muttered in her ear. The ghost had made good on his promise to help with any paperwork, and she’d finally made it to the end of the very-thick packet that had been left on the table for her to complete.
+
+“Cool, thanks.” Pyre squinted down at the signature line on the bottom of the page. She didn’t have a signature, so she opted to write “Pyre” really quick and messily—not hard, all of her writing was a little shaky, but that was what happened when you spent most of your time as a flesh lump without hands—and finally put the pen down. Frankly, she was surprised she still knew how to read and write at all, but she assumed the system had done something during the reincarnation process to translate her old language knowledge into whatever this world used.
+
+She gave the forms another look, then nodded to herself. There. She was done, and still no one had shown up. Pyre’s front eyes shifted in the direction of Callan’s blue gradient.
+
+“Hey, isn’t your invisibility running out soon? You might want to get out of here while you can. Just saying.”
+
+The ghost sounded hesitant. “But what about the questioning and background check?”
+
+She snorted. “Kid, you literally can’t be here when you’re not invisible. Relax. I’ve already made it this far. I’m not gonna fuck it up now.”
+
+The doubtful energy was practically radiating off the ghost, but he sighed.
+
+“Okay, I’ll meet you behind the dining hall tonight.”
+
+“Tomorrow,” Pyre corrected. “They’ll definitely be keeping extra close tabs on us tonight.” She waved vaguely in the ghost’s direction. “Now go off and explore the city. You’ve still got all your solid time left.”
+
+The gradient bobbed, which she assumed was Callan nodding. Still, he didn’t leave right away. The demon raised an eyebrow.
+
+“What?”
+
+“It’s just…” the ghost hesitated. “Please be careful,” he finally said.
+
+There it was again—that oddly sincere concern that Callan had been displaying since the chimera episode. Pyre still didn’t know quite what to make of it, so she just nodded.
+
+“Yeah, I will.” And then, to her own surprise, she added, “You too.”
+
+Callan’s invisible state meant she couldn’t see his reaction, but he lingered a little longer before finally phasing through the walls and disappearing entirely. Classic ghost privileges. She was sure whoever had put up the garrison’s wards would have a conniption if they knew a ghost had been casually hovering inside the walls all day.
+
+They’d probably freak out even more if they knew a demon was still inside those very walls.
+
+As if on cue, the door to the room finally swung open. Pyre remembered to turn her head and glance back instead of relying on her thermal vision back-eye. Gotta keep up appearances.
+
+Edna strode forward in that purposeful way of hers and took a seat across from the demon. Only the small table separated them. She picked up the stack of paperwork Pyre had finished and flipped through it all to make sure everything was completed and correct. Her nod meant it probably was, though Pyre hadn’t been concerned on that front. She seriously doubted Callan would fuck up something like paperwork.
+
+Edna set the forms down and leaned back in her chair, studying the demon with a cool, assessing gaze.
+
+“Pyre, correct?” she finally said.
+
+“Yep.” The demon met the sergeant’s gaze evenly. Edna slowly nodded.
+
+“I will be honest with you, Pyre. None of us have known what to make of you.” She reached for the papers she’d brought in and began flipping through them. “You passed all our tests with flying colors—record-breaking, in some cases. Your background is highly unusual, and to top it off, you claim to suffer from ichor-poisoning.”
+
+Edna set the papers down and slid them across the table for the demon to read. They were notes on her background and performance. Pyre could see quite a few comments in different handwriting sprawled across the pages, crowding every last inch of space with words. Evidently the examiners had had a lot to say.
+
+The demon casually scanned the notes, but she didn’t say anything. Mostly because she could tell the sergeant was thinking right now, and she figured it was best to let her make her own judgments before opening her mouth and possibly saying something to mark her as “definitely suspicious.” Callan would be proud.
+
+Finally, after another solid minute of silence, Edna sat back and frowned.
+
+“Why did you decide to join the garrison?” she began. “You’re not from Auren, you don’t seem especially in need of money, and you’ve apparently spent the past few years traveling alone with no issue. Why stop now?”
+
+There it was. Pyre was quiet for a moment, considering the best way to handle this. Something vague and easy to remember would probably work best here. She’d already given a reason during registration, so she decided to just build on that.
+
+“Well,” she replied, “I wanted to try and do something with my life.” She nodded at her bag currently lying on the table. “Like you said, I’ve been traveling around, exploring, doing odd jobs here and there. And I’ve had a damn good time of it. But it’s also been a bit… aimless, you could say. I’ve got no real purpose, no real connections to anything. That’s fun and all, but I thought I could use a change of pace. It can start to feel empty.”
+
+The words flowed smoothly, surprising even herself with how easily they poured out. Edna seemed to consider this.
+
+“If you’re searching for a greater purpose, this is indeed the place to find it,” she finally said.
+
+Pyre raised an eyebrow, allowing a grin to spread across her face. “Does that mean I’m allowed in?”
+
+“Not quite.” Edna smiled wryly. “Considering how unusual your background is, we do need to exercise additional caution. Your bandages.” She nodded at them. “Normally the garrison would deem them inappropriate and prohibit them, but you say they’re necessary to cover your ichor-warping. I will need to verify this.”
+
+Yeah, she’d figured this was coming. Pyre kept her voice and movements relaxed and casual. “You sure? I gotta say, it looks pretty nasty.”
+
+“I’m sure I can handle it,” Edna said dryly.
+
+With that not-so-subtle cue, the demon raised a hand to the bandages around her neck. Carefully, she began to unwind them, then immediately focused on the flesh in the area just enough for it to droop down, but not fall off her skeleton entirely. She even preemptively formed some unnatural ripples in her skin before unwrapping the bandages to mimic some of the ichor-warped animals she’d seen in the Fred Zone.
+
+Edna’s face remained impressively stoic as more flesh slowly sunk down with gravity. Finally, she nodded.
+
+“I see. You may replace the bandages.”
+
+The demon didn’t hesitate to wind them back around. Based on the fact that she wasn’t immediately getting attacked, she assumed it had looked pretty believable. The sergeant cleared her throat.
+
+“I will make a note to allow you to keep those on throughout your time here. In the meantime, I have a few final questions for you.”
+
+Edna reached for her stack of papers again and flipped to the next page. “During registration, you claimed to be a level 7 [Warrior], but your performance during the physical tests would seem to contradict this.”
+
+Thankfully, this was a question she’d prepared for. “My profession level is higher,” she said simply. “I’m a mercenary.” According to Callan, it was actually pretty common for humans to focus more on leveling their profession than their class since the former was what usually got the bills paid. It was an excuse that wouldn’t work if she looked younger, since humans didn’t choose professions until they became adults, but a thirty-something year old with a high profession level and a comparatively low class level wouldn’t raise any eyebrows.
+
+Edna nodded and scribbled something down. “Thank you. Returning to your ichor-poisoning, quite a few people were hesitant to admit you on account of the potential health concerns. Evidently you suffer from the physical warping effects, but what other symptoms have you noticed? How much has your lifespan been shortened?”
+
+The woman’s voice remained professional and business-like. Pyre was starting to like her no-nonsense attitude.
+
+“I left the Shards pretty soon after the physical effects started,” she said. She shrugged. “I haven’t noticed anything else. As for the lifespan bit, well, I wouldn’t know. I feel pretty great, though. Besides the drooping flesh.”
+
+Edna scribbled something else down. When she was done, she nodded to herself and slid the papers to the edge of the table. Pyre raised an eyebrow. Were they finally done? She was starting to get bored of this room.
+
+Apparently she’d spoken too soon, because just when she thought Edna might be getting up to leave, the sergeant instead reached under the table and pulled something out from a drawer. Pyre squinted at it.
+
+In the soldier’s palm sat a round, perfectly smooth glass orb. It was a little larger than a baseball, and it reminded her a bit of those glass spheres she’d seen outside the Bellhein manor. There were telltale silver lights floating inside the sphere, so it was safe to say that this was some kind of magic device.
+
+“Before we finish here, I’d like you to place this crystal on your palm.”
+
+“What’s it do?”
+
+Edna’s lips thinned. “It’s a standard precaution. This crystal will register nonhuman entities who may have slipped inside the garrison.”
+
+Pyre studied the object closely. “I thought you had wards around the whole place.”
+
+“We do. They are not impervious, however, and sacrifice strength for range. This contains a far more powerful, concentrated spell.”
+
+Edna’s sharp blue eyes were fixed on her, and the demon knew she couldn’t delay this any longer without looking suspicious. She’d just have to hope Pax’s charm was good enough to handle this.
+
+And so, Pyre carefully reached a hand out and grabbed the crystal. It was icy cold atop her open palm. She stared at the silver lights inside, watching as they began to swirl and spin around like a mini-tornado. She kept her muscles relaxed and loose even as those lights continued to whirl, all too aware of Edna’s hawk-like gaze on her.
+
+Finally, all at once, the lights stopped spinning. They broke apart from that fixed circle, scattering and returning to aimlessly drifting around the interior of the orb just like they had been before. The glass remained cold and perfectly clear.
+
+Across from the table, Edna smiled—the first real, genuine smile that Pyre had seen from the human so far.
+
+“Congratulations,” she said. “The garrison welcomes you.”

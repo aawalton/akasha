@@ -1,0 +1,227 @@
+---
+id: 3d6e403a-374a-57d7-809c-f5f1a284c31c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 491: A Brush with Death"
+slug: 0530-chapter-491-a-brush-with-death
+partOf: dungeon-of-knowledge-complete
+position: 530
+ownLength: 3987
+unit: words
+ownProgress: 3987
+publishedAt: 2025-12-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2892732/chapter-491-a-brush-with-death"
+royalRoadId: "2892732"
+markedReadAt: "2026-06-29T20:30:16.059Z"
+---
+
+Byron sat staring despondently at his map, hoping against hope that the moving shapes depicting the rout being inflicted upon his forces outside the barriers would somehow shift and magically rally. Futile wishes. Unfortunately, anyone with a shred of rationality knew it was impossible. He twisted his lips and frowned, not that his feelings would have any positive impact on the pathetic wreckage of his carefully planned formations. In the background, the battle continued unabated, felt in the thumps and crashes of magic detonating upon the flagging city shield with enough force to shake even the foundations of this building.
+
+As the general in command of the defenses of Southport, he had commandeered the largest table in the cramped headquarters to lay out his map, leaving his aide, Crixi, with just a small chair and a side-table with which to conduct the newcomer onboarding – not that there was a lot of clamoring to join the stricken defense of New Daria’s capital city anymore. The crown quests had initially attracted many, but that was before the Lich had encamped and revealed his forces.
+
+“Next,” Crixi called out, and Byron tuned her out, just like the cacophony of artillery magic that had been their constant companion ever since the Lich arrived. If they couldn’t scavenge more magicite soon, the shield would likely fail in the next couple of days. The problem was that magicite could only be found in the highest-level artifacts and weapons, and those were nearly always critical for fighting the undead.
+
+Logistics. The death of armies. Yet another problem he had no solution for.
+
+He returned his attention to the live map and the slow retreat of his forces. He had four brigades deployed in the field along with several regiments defending the most critical strategic towns and supplies, in addition to those troops defending the city, but somehow, the Blind Lich’s army had not ceased growing. The Lich had already amassed enough undead that he was easily pushing back every single army he had deployed.
+
+It would take weeks, as these things did, but he could already read the outcome, clear as day.
+
+“It says you’re all gold ranks in the guild registry,” Crixi said, her high-pitched voice breaking through his gloomy thoughts.
+
+“Yes,” a deeper husky woman’s voice answered.
+
+“Well, I’ll ask the obvious question then, Moira,” Crixi said, her voice sounding surprisingly curious. “How come you’re all above one thirty?”
+
+“We classed up this week in the dungeon under Myrin’s Keep,” the woman answered. “We didn’t have time to return to our home guild and have our Guildmaster update the registry.”
+
+“I see,” Crixi asked, continuing to pepper the applicants with the usual questions.
+
+Myrin’s Keep? Where did I hear that name? Byron thought as the woman’s words triggered a forgotten memory buried under all his worries and lack of sleep. Aah, that was it: Garland Manning, he thought as he suddenly recalled the rather insignificant and annoying meeting with the Head Acolyte up on the battlements at the commencement of the siege.
+
+Right. Wasn’t that the dungeon that supposedly killed The Heroes of the Crimson Blade? Hold on…
+
+Suddenly, his curiosity exceeded his despondency. He glanced over to study the group of five adventurers clustered around Crixi’s table, doing a silent double-take as he identified their levels.
+
+Witch – Human – level 134 (Lightning / Arcane)Warrior – Human – level 133 (Metal)Rogue – Gnome – level 131 (Poison)Sorcerer – Sun Elf – level 136 (Sound / Ice)Priest – Half Orc – level 139 (Nature)
+
+The witch, presumably Moira, cut a striking figure with her raven hair and the extraordinary white robe that shimmered and flickered with blue light within the weave, casting off tiny snowflakes that drifted about, slowly fading.
+
+Is that Frostweave?
+
+His gaze drifted to her companions, taking in the rogue with his pair of mithril daggers and rugged black leathers, and the sun elf with gorgeous long braided hair who was wearing a similar shimmering robe, clearly made by the same tailor.
+
+Each of them wore several hundred gold worth of top adventuring gear, conspicuously expensive and well-crafted, and yet, they were here in his headquarters at the heart of a failing siege, answering Crixi’s questions patiently, without complaint.
+
+The half-orc priest and the warrior tank were shifting uncomfortably, both of them over seven feet tall and bulky to boot, crowding the small space.
+
+Byron felt his eyes drawn to the beautifully crafted mithril breastplate and shield the warrior carried, noting the obvious hand of a master smith at work.
+
+This group seems strong, he thought. His experienced eyes did not miss the readiness in their poise, the well-rounded affinities and classes represented before him, and the obvious care and expense they had taken with their equipment.
+
+“Excuse me for interrupting,” he said, standing and approaching. All five of them turned to look in his direction, and he got a raised eyebrow from Crixi, but she remained silent. “I couldn’t help but overhear. Did you find a dungeon in Myrin’s Keep? Something high-level enough to earn your evolutions? How did you all avoid losing group members to broken paths?”
+
+Typically, people following natural path evolutions rolled the dice with fate, and if their classes broke, they retired. It was unheard of for a group of five to survive the process intact. Inevitably, newly platinum adventurers were forced to form fresh and unfamiliar groups, but he could tell – even without their explicit confirmation – that these adventurers had all been together for a long time, possibly even from their initial class ceremony.
+
+“Oh, we used the shrine,” Moira answered.
+
+Shrine? What shrine… but she continued:
+
+“Ours is a typical story. We all stalled at the threshold for several years, waiting for the Aman Rak shrine, but as you know, that was destroyed by the Blind Lich when the troll kingdoms fell. We thought we would be forced to use the natural path, but then the guild in Myrin’s Keep posted shrine services. We were one of the first groups to take advantage of it.”
+
+“The Myrin’s Keep adventurers guild has secured a shrine? A shrine with evolution capabilities?” he gasped. The idea sounded insane. No wonder Garland was so upset. But if the guild has a shrine…
+
+“Not quite,” Moira said. “The dungeon that owns the shrine is a guild member. Her name is Aliandra, and she’s a Fae.”
+
+“She was very polite and helpful,” the half-orc priest added, his voice a deep rumbling bass.
+
+Byron opened his mouth and then shut it again, his brain failing to produce anything but blaring swear words. Not just a dungeon, but a sentient one. Garland and his hordes of sycophants would be baying for blood as soon as this news became widely known.
+
+But they have a shrine!
+
+“Huh, would you look at that?” Crixi murmured, looking up from her tablet. “It’s right here in the Myrin’s Keep guild registry. Shrine class services, affinity assignments, evolutions, class resets… all … free?”
+
+Suddenly, a thousand questions slammed into Byron’s mind all at once. “How long till it… she… can use the shrine for someone else?” Aman Rak had taken months to recharge the shrine between uses.
+
+“She did all of us at the same time,” Moira said. “The shrine is powered by the dungeon itself; the guild says she can use it several times a day.”
+
+“I see,” Byron said, but he really didn’t. This was too much. His head was spinning as he tried to figure out how he could get the crown to pay for long-range teleportation of a high enough level to bypass the shield and the Lich’s offensive formations. “And this… Aliandra… she just let you use the shrine?”
+
+“We had to fight the bosses for it,” Moira answered. “Why don’t you show him, Galeth?”
+
+“Her bosses are crazy strong,” the giant warrior, Galeth, said quietly. “She has an undead troll – a Fetish-Painted Assassin with human slayer and several other abilities. It almost one-shot me even after my evolution.” The huge man produced another breastplate from his storage – this one with massive, poorly repaired puncture holes both in the front and the back.
+
+“Undead?” Byron asked, but as the huge warrior turned to show him the breastplate, Byron’s eyes caught sight of the sword he was wearing on his back.
+
+Or more accurately, the dancing white light that shone out from the dark blade.
+
+“What is that sword?” he blurted out.
+
+“Oh, heh, she said you’d like it,” Galeth said, drawing the oversized longsword with one huge hand and offering it hilt-first. It was clearly a longsword, but in Galeth’s massive grasp, it would no doubt be used one-handed along with his shield.
+
+Byron took it carefully, identifying the beautifully crafted weapon.
+
+Azryet’s Wrath, Holy Avenger – level 120Blessed by the Dragon God Azryet, this sword glows with holy power, wreathing your mind to protect you from fear.Added Physical damage on hit.Added Holy damage on hit.+117% to Physical damage.Attacks gain +57% additional damage as Holy.+70 Strength.Fear Ward (Your resistance to fear is greatly increased)Requirements: Strength 420.Created by Kavé Steelscale in the Dungeon of KnowledgeOne Hand – Sword – Eimuuran Steel
+
+For a moment, Byron’s mind simply stopped working, shocked into inaction by the impossibility of what he held in his hands.
+
+This is… this is a Holy Avenger sword! Such things belonged in the legends and fairytales he read to his grandchildren.
+
+“She had it blessed by a holy Dragon God called Azryet,” Galeth continued. “But it’s specifically designed for killing Death Knights. I thought it was a smart choice, given that we were coming here.”
+
+“I need access to this master smith, immediately,” Byron demanded. So many of their best weapons had been cannibalized to feed the city shields, but what he now held in his hands was the answer he’d been seeking. If only he could get this Kavé Steelscale to make him more swords…
+
+“Oh, she’s just the apprentice,” Galeth said, chuckling as he clearly read the unspoken question. “The master smith is a dwarf named Thuli Emberforge, and he made these.” He held up his ridiculously large mithril shield and banged his matching breastplate with a fist. “Here, she said to give you this.” He produced a small slip of paper and offered it.
+
+Frowning, Byron took the offered slip, noting the mana signature and seal. “A private auction slip?”
+
+“She was still making these swords when we left; she said she would put fifty of them in that auction. Your royal weapons orders couldn’t be satisfied unless the swords were fire-enchanted, and these are holy, so she couldn’t use the quest to offer them.”
+
+“Crixi!” Byron yelped.
+
+“On it, sir!” And before he could even blink, the little Gnome had snatched the slip of paper out of his hand and vanished with a sharp popping sound.
+
+Byron sat down heavily on his chair. He had had more than enough surprises for one day. Fortunately, the last few had been very favorable. “If those swords are real, I can afford to sacrifice some of the stronger fire swords to feed magicite to the shield,” he said, murmuring his thoughts out loud. “That should give us a week or two…”
+
+“Um, sir, that won’t be necessary either,” Moira said.
+
+“What do you…” Byron began, but when he looked up, he found the witch holding out a fist-sized piece of glowing green rock.
+
+“Aliandra’s dungeon spawns magicite. Nature, light, ice, arcanite, voidstone, abyssal bloodstone, you name it. Just put out a quest and the guild will farm it for you.”
+
+Just then, Crixi reappeared with an excited yell as she produced sword after sword, pulling them from her storage ring like a street peddler, producing trinkets from a bag of holding, every last one of them glowing with the same dancing holy light. One thing was for certain: Byron could not wait to see Garland’s apoplectic fit when he started handing out Holy Avenger swords blessed by this Azryet instead of pandering to his rabid loyalty to Helios. He had to restrain himself from rubbing his hands in anticipation. That would just be unprofessional. Still, his heart danced beneath his breastplate. Nevermind that fool. This… this could change everything…
+
+“There’s one more thing,” Galeth said. “I was instructed that intoning, ‘thanks for the damage’ upon slaying a foe is the appropriate way to offer gratitude to Azryet for his blessing. Please pass the message along when you distribute those swords.”
+
+“Very well.” Byron felt a strange sensation rising from his heart, and for a few moments, he puzzled over it before he realized what it was.
+
+Hope.
+
+He had almost forgotten what it felt like.
+
+Ali studied the chaotic flow of mana throughout the battle. The sheer power of the ice and death magic emanating from the center pinpointed Haverron through the raging storm far more clearly than any mundane sight could hope to do.
+
+With the sheer quality of perception she had now, it was trivial to see the Siphon Life skill forming in the epicenter of the storm. Having disrupted it several times now, she found herself growing quicker at fashioning the counter-formation and more precise about striking with it. The golden needles lanced through the storm, passing over the popcorn-like detonations of Explosive Conflagration, and tearing into Haverron’s formation with a rather satisfactory precision. She ripped the heart out of his skill and shredded it into motes of mana.
+
+But it wasn’t that skill she was waiting for; the Elemental Storm she could not counter would be far deadlier.
+
+As she searched for signs of the domain magic spell, she suddenly saw something surging forward out of the storm. The ghostly shape of Haverron tore across the plaza, hovering halfway between the mortal and spirit realms, his body passing clean through her defenders, walls of ice, and skeletal mages, barely disturbing them with his passage. The only sign he was affecting the mortal realm was the vortices his outstretched glowing greatsword left in the storm as it passed.
+
+He's coming for me!
+
+She knew it with dreadful certainty. The glowing blue light in his eye sockets was fixed upon her with a focus that sent shivers down her spine. He was moving so fast; she was certain he could outrun even Calen’s arrows.
+
+Malika? What happened? Ali had no time to contemplate why their plan with the beetles had not worked. All she knew was that she needed Malika to block his impale, otherwise she would certainly die, but when Malika appeared from the storm behind Haverron, glowing with the intense blue-white that meant she was burning all her stamina to overload her abilities and pushing her speed to the max, it was obvious the Death Knight was faster still.
+
+Ali’s mind quailed at the sight. She had no idea what had gone wrong, only that Malika was stretching to her limit to reach her and that she was going to fail.
+
+She briefly considered Arcane Recall, but he was insubstantial, passing through mundane monsters. Something about Malika’s magic had been able to stop him, and she had no idea how to duplicate that with her Grimoire. While she spurred her brain to find any solution, she tossed up barrier after barrier in his way in a futile effort to slow him down, producing only a tinkling crash and a spray of golden shards in his wake.
+
+She knew from experience that Haverron could redirect his rush to chase her down if she teleported, and yet there were no minions between her and Malika, so she couldn’t even use that to get closer. All she had were the three groups and the Scions of Azryet overhead. All her other minions were deep within the deadly storm of ice, and only those with the highest health, like her berserkers, warriors, Mato, and Malika, had braved the blizzard. Or back home. But that would require abandoning her friends to this monster.
+
+Health… Mato…
+
+Suddenly, she saw the mana emanating from Mato’s floating tree spirit, the Lirasian Sage, hovering deep within the storm. Haverron was less than five meters away and closing fast, and she was out of options. With a thought, she teleported, swapping places with Tol’brekk and dumping herself in the middle of the storm.
+
+She snapped a golden barrier shut around herself as her mind reached far away to her domain and the monster she had made for just this eventuality. The Malevolent Lirasian Oak boss was her only monster with the primary attribute of vitality, and while she had deliberately created it for exactly this kind of situation, she hadn’t expected to ever need it. At least, not this soon. With a thought, she traded her Eye of Agnor, and its enormous perception boost, for the Malevolent Lirasian Oak, adjusting her chosen minions for Empowered Summoner.
+
+The loss of over a thousand perception hit her hard, like someone had suddenly blindfolded her. Mana faded from view all around her, and the crystal-clear perceptions of all her minions darkened and blurred. But her tiny body surged with life as if filled to bursting with the sap of the oak, and her vitality skyrocketed, clearing two thousand. The soft light of Mato’s Lirasian Sage filled her, and even with her physical penalty to health, she suddenly found herself with a little more than fifteen thousand health for the first time ever.
+
+Seconds later, Haverron was upon her, his greatsword shining bright in the darkness of the storm. He passed through her golden barrier as if it were not even there, and his giant sword plunged through the center of her chest, transfixing her upon its runic mithril blade. She coughed at the sensation of steel sliding through her lungs, but somehow no blood spilled forth.
+
+Haverron’s triumphant expression faded to puzzlement and then anger as she persisted in not dying. She struggled against the blade, writhing as she tried to extricate herself, but as he turned corporeal once more, he wrenched the blade from her chest, almost ripping her body in two, just like Malika. The sword passed through her, separating flesh in an amber spray of blood. Ali gasped, coughing violently and almost blacking out at the rush of pain.
+
+She glanced to her side, finding Mato standing there in a giant puddle of blood. Tendrils rose from the bloody pool and were drawn from her amber spray, swirling about and sucked into Joraa’s blade, shield, and totems. A crimson ribbon of his healing spell pulsed and surged as it arced between her and Mato. Their wounds rapidly stitched themselves shut, and Ali breathed again.
+
+“Thank you,” she whispered, her voice still hoarse and raspy, encasing herself in her barrier once again and whisking herself out of the Death Knight’s warpath. Arboreal Sanctuary. Damage redirection is so strong. Of course, she had to reach the range of Mato’s domain for it to be effective, but the moment she had, he had simply taken the hit for her.
+
+“You’re welcome,” Mato replied.
+
+To Calen’s infinite relief, Ali appeared beside him with a great tear ripped clean through the center of her robe. It flapped open on the stiff, frigid breeze, slowly repairing itself under the influence of her mana.
+
+“You ok?” he asked. How is she even alive?
+
+“I think so,” Ali said, running her hands over her body as if checking her words by touch.
+
+“Why did he attack you? Did we get it wrong?” Calen asked. Malika had been certain Haverron was targeting the lowest health, but they had a horde of beetles engaged with the skeletons, all of which had lower health than Ali.
+
+“I think he’s smart enough to ignore minions.”
+
+“Aah. Shit. I should have thought of that,” Calen said, frowning. It certainly made sense. In hindsight. Nevertheless, it was a nasty surprise. Nasty and near-lethal. “So, do you have a plan for the next attack?”
+
+“He won’t attack me next,” Ali said. “I used my Empowered Summoner to increase my health, and I can’t set it back for an hour. I’m sorry.”
+
+“Sorry?” But it came to him a moment later, at the same moment Ali explained.
+
+“You’re next.”
+
+“I got this,” he said with a confidence he didn’t feel. Certainly, watching Malika being ripped in two had been shocking, and he had no desire to experience the same fate.
+
+“Mato can take the hit for you if you’re in his domain,” Ali said. “That’s how I survived.”
+
+“Got it,” Calen said, immediately shooting out his motes of light, ensuring that at least two of them were inside Mato’s Sanctuary aura, giving him valid locations for teleportation.
+
+But… I’m sure I can do better. After all, he had some very powerful skills. With that thought, he sent out two more decoys, hoping to confuse the inevitable attack when it came, and returned to his task. Arrows flew from his bow in wide, fan-like volleys, shooting across the black stone at about waist height and tearing through the skeletal horde without pausing. Each arrow pierced dozens of undead as it flew, and on each hit, his magic detonated, both light and flame tearing through the animated bones. He alternated Grappling Shot and Light Damage, relying on his piercing and explosions to distribute shackles across the sea of spawned undead. He did not even want to think about the prohibitive mana consumption of using his abilities so quickly in succession, but his mana leeching enchantments against any sufficiently large group were more than sufficient to the task.
+
+“Incoming,” Mato said, speaking into his mind. He didn’t even question how Mato knew it was him; he trusted it implicitly. Decoys, perfect replicas of his body, shot out from his form, and he instantly called upon Eclipse to go invisible, shooting upward on ephemeral wings as the shifting, spectral outline of Haverron tore across the black stone. Halfway across, the Death Knight swerved up into the air on an unerring trajectory, ignoring all the decoys.
+
+He sees me.
+
+Calen reached for his teleportation, but as he did, he noticed something curious. Wisps of magic that made sense to him, remnants in a long trail behind the terrifying charge of the Death Knight that flickered across the border between the realms.
+
+A movement skill.
+
+Without hesitation, Calen activated his incredible Realm Hunter evolution to Explorer, a skill that allowed him to track his foes by duplicating their movement skills. But he did not intend to track Haverron; he intended to kite him.
+
+The power of Devastation Rush settled upon him like a mantle as the skill ripped him halfway out of the mortal realm, casting him as a partial projection into the Spirit Realm, and with that, he shot off, zooming past the surprised Death Knight and tearing across the battlefield, passing through all obstacles like one of his arrows.
+
+I’m faster than him. Ha!
+
+That realization pasted a fierce grin on his face. While he was using Haverron’s very own Devastation Rush, his class and gear provided over fifty percent more movement speed, and he had an enormous amount of dexterity with which to back it up.
+
+Haverron turned and hurtled after him, but Calen had the advantage. Not only was he faster, but he could also see in the spirit realm, thanks to his class, and he had activated the movement skill after Haverron. Any time now… Sure enough, a few moments later, the powerful Death Knight suddenly became solid once more, and his speed faltered as his Devastation Rush expired.
+
+And I didn’t even need to use Mato, he thought, happily. Now, if I just knew how to use a sword, I could impale something. Wait… can I use a dagger? With a wry grin, Calen realized he might just get the chance to leverage his Basic Daggers skill in a high-end battle after all.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,199 @@
+---
+id: 25cf79b2-06dc-5a6e-b242-2d52da9ac8c1
+page-type-slug: story-chapter-royal-road
+title: "11 - Bouncing Ball of Death"
+slug: 0011-11-bouncing-ball-of-death
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 11
+ownLength: 1618
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3397982/11-bouncing-ball-of-death"
+royalRoadId: "3397982"
+---
+
+Reina, Meriel, and I stood in the middle of the blizzard, protected under the large magic dome Meriel had cast for us. Neither wind nor snow could pass through it.
+
+“Before the two of you go hunting, I’ll be teaching you a few basic spells,” Meriel began, pointing ahead.
+
+The three of us weren’t the only things in the dome. There were several trees on the other end as well.
+
+“But before that, you’ll need your weapons,” she continued. “I have a spare staff for Allene, but…” She looked at Reina. “Where’s your sword?”
+
+She tilted her head. “Sword?”
+
+“Yes. A knight should have a sword.”
+
+Reina looked at me as if I was supposed to know where it was. “Uh…”
+
+I sighed, opening my [INVENTORY] and pulling out the Tree Sentinel’s Spear.
+
+“Will this work?”
+
+Meriel stared in awe—not at the spear, but at the pocket of void space that had just appeared beside me.
+
+“You know how to use dark magic?” she asked.
+
+I had totally forgotten that she hasn’t seen my [INVENTORY] yet.
+
+“Ah…” I began, trying to think of something. “It’s not dark magic, it’s uh… a spell I learned from my mother.”
+
+I dissipated the [INVENTORY] before she could study it too closely. I’m not too sure why, but it just felt right to hide my System skills from this world. Who knows? If word about it spreads far enough, I’ll probably be treated like some kind of demon. Or maybe a talented mage. Either way, I wasn’t willing to risk it.
+
+Meriel eyed me, then shrugged it off.
+
+“Yes, that spear will work. The weapon doesn’t matter all that much.”
+
+I handed it over to Reina.
+
+“Thanks,” she said.
+
+When that was done, Meriel pulled out another staff from… behind her? What? How did she do that?
+
+She tossed it to me like it was normal. I caught it.
+
+“How did you…?” I began.
+
+“You have your secrets, I have mine,” she replied.
+
+She stepped beside us, looking at the trees.
+
+“Now that the two of you have a feel for fire magic, the natural progression is for you to learn a fire attack. A common one is Fireball.”
+
+She pointed her staff at one of the trees, and a ball of fiery light grew from the tip of her staff before shooting through the dome. There was a tiny, controlled explosion the moment it touched a tree. Not enough to damage the surroundings, but enough to destroy that specific tree itself.
+
+“The two of you don’t have to control it like I do,” Meriel said. “I only did that to leave more targets for you to practice on.”
+
+She drew a line in the snow with her staff.
+
+“From this moment onward, do not cross this line. We won’t leave until all those trees are destroyed.”
+
+She stepped aside, waiting for us to try.
+
+“Um… some advice would be helpful,” I said.
+
+“Point your weapons at the trees and imagine a Fireball forming.”
+
+“Yeah… obviously. But we need actual advice.”
+
+She shrugged. “If you can cast Warmth Aura, you can cast Fireball.”
+
+I couldn’t tell if she was serious or just plain lazy. Reina didn’t seem to mind, and began her attempt immediately, aiming the tip of her spear toward the trees.
+
+She took a breath, gathering her focus. I felt the air around her spear rumbling slightly, and before I knew it, a tiny speck of light started to form. I was honestly impressed. No shame to Reina, but considering she couldn’t even cast Warmth Aura, I didn’t expect too much from this.
+
+“I’m doing it! Look, I’m doing it!” she let out.
+
+The light shook each time she spoke.
+
+“Focus,” Meriel said.
+
+Reina nodded, her expression growing tense as she eyed the trees. The light took the form of a ball—a bit smaller than Meriel’s earlier one, but still there nonetheless.
+
+“Fireball!” she shouted.
+
+The ball shot out from her spear, heading toward the trees.
+
+Did she really just do it the first try?
+
+Before the ball touched the tree, it exploded mid-air, hitting nothing. The flame vanished, just like that.
+
+Reina frowned. “What? What happened?”
+
+Meriel gave her a look. “Give it a guess.”
+
+“Did I not imagine the right thing?”
+
+“No, you did.”
+
+“Did I not control it enough?”
+
+“No, it was good enough.”
+
+“Then what is it?”
+
+Meriel walked over and bonked her in the head with her staff. Reina yelped, rubbing the area she was hit at.
+
+“You’re too noisy,” Meriel said. “What mage yells ‘Fireball’ while casting it? Not only does it break your concentration, but imagine how stupid it would sound if you told your enemy the exact spell you were using.”
+
+I was half-expecting a trope notification when Reina yelled the name of her spell, but I guess not. Maybe it only counted when I was the one doing it.
+
+Looks like this is one of those fantasy worlds where not chanting your magic is the norm.
+
+“Let me try,” I said.
+
+The two of them looked at me as I aimed my staff at the trees. The one Meriel had given me was a bit smaller than her own—a perfect size for me. It had the same white color as hers and a similar design. Kind of like a little sister in the world of mage staffs.
+
+Anyways, enough admiring the weapon. It was time to get to business.
+
+I treated the process similarly to how I would cast Warmth Aura. I steadied my breathing, tensed my arm a bit, and imagined a ball of fire forming at the tip of my staff. I took Meriel’s advice from earlier and imagined it growing from small to big.
+
+Just like that, a ball of fire appeared. It was the same size as Reina’s—maybe a tiny bit bigger, but nothing noticeable—and I felt its heat against my arm. When I felt ready, I released it.
+
+The fireball shot through the air. However, it was obvious it was going to miss. But I continued to focus, concentrating on the Fireball even after it had left my spear.
+
+The ball redirected and shot at one of the trees, exploding and taking down two of them at once.
+
+I looked back at the other two, smiling. “Boom.”
+
+“That…” Reina began. “That was totally awesome! How did you do that?”
+
+I puffed my chest out proudly. “Heheh…”
+
+But the look on Meriel’s face wasn’t something I expected. For once, she actually showed emotion.
+
+She was surprised.
+
+“To think you had cast Guiding Fireball instead… I didn’t expect that.”
+
+I raised a brow. “Guiding Fireball?”
+
+“It’s the natural progression of the normal Fireball, requiring much more control and mastery over the spell. Although it seems basic, most people struggle with it because they’re not used to controlling magic after it leaves their staff.”
+
+It must’ve been because of my Wisdom stats. I had 21 points in it, after all.
+
+“Ah,” I said. “Maybe I’m just naturally gifted with magic.”
+
+I said that as a joke. I thought my overconfidence would make Meriel a bit upset, but she wasn’t at all.
+
+“Yeah, I think you actually are naturally talented. Let’s try another spell.”
+
+Meriel pointed her staff at the trees. After a short moment of gathering fire at the tip of the staff, they shot out rapidly like bullets, one after the other. I counted a little under a dozen of them.
+
+“Try it,” she said. “It’s called Ember Shot.”
+
+It looked similar to Fireball, but instead of sending out one big chunk of fire, you would have to split it up into several tiny ones, all spewing out from the same ball.
+
+I followed suit, and did exactly that. Fire formed at the tip of my staff before several tiny flames shot out toward the trees in rapid succession.
+
+Both the flames Meriel and I had shot out had set the trees on fire. The spell wasn’t explosive like Fireball, but it seemed useful for overwhelming somebody during combat.
+
+“Another one,” Meriel said.
+
+She raised her staff and shot a Fireball—or at least, what seemed to be one. The Fireball exploded mid-air, but unlike Reina’s failed explosion, this explosion was intentional. The Fireball split into several tiny pellets, each about the same size as the fire bullets from Ember Shot, and hit the trees. Kind of like a shotgun.
+
+I did the exact same. There were less pellets than Meriel’s after it exploded, but it was similar otherwise.
+
+“Another,” Meriel said again.
+
+Once again, a spell that resembled a Fireball formed at her staff. But this time, she aimed it right at the snow on the floor beside us.
+
+“Wait, what are you doing?!” I cried.
+
+She shot it. Reina and I screamed, embracing each other as we thought we were about to die. But instead of exploding, the fireball… bounced?
+
+Huh?
+
+It bounced high up into the ceiling of the dome protecting us from the outside blizzard. Then, it shot back down. Every time it hit the floor or dome, it continued bouncing and flying everywhere like a scorching bouncy ball of death.
+
+“Don’t touch it, or you’ll be set on fire,” Meriel said calmly. How the hell was she calm in this situation?
+
+She stood completely still as Reina and I ran for our lives, fully confident that the bouncing ball of flames wouldn’t touch her. The ball melted bits of the snowy ground every time it landed.
+
+“Help! Somebody, help me!” Reina cried.
+
+“No one’s here to help you. We’re the only ones here,” Meriel said, smiling.
+
+The ball landed just in front of me, nearly burning off my eyelashes.
+
+This mentor is a lunatic.

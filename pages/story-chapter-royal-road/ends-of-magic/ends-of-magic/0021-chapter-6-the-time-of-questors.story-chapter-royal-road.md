@@ -1,0 +1,217 @@
+---
+id: 5054bb78-e148-54cd-abf7-c75968f54a2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: The Time of Questors"
+slug: 0021-chapter-6-the-time-of-questors
+partOf: ends-of-magic
+position: 21
+ownLength: 2820
+unit: words
+ownProgress: 2820
+publishedAt: 2025-07-24
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2462254/chapter-6-the-time-of-questors"
+royalRoadId: "2462254"
+markedReadAt: "2026-06-29T20:07:56.534Z"
+---
+
+“You’re not a very good assassin,” Sarya said as they met up the next day to continue their training. She waved a stack of reports at him. “You’re just good enough to get yourself into trouble, but not good enough to emerge unscathed.” She slapped the sheaf of papers onto the table and sighed. “But even if you wake the dragon, your other skills make you fireproof. I have verified my guess that your assassin class trends towards combat and movement skills over disguise and stealth.”
+
+Nathan nodded easily. “Yup. It’s mostly boosts to my antimagic.”
+
+The Questor snorted in disgust. “It gladdens my mind to hear that. Your antimagic does more than any Talent should." She started flipping through the pages. “You are ethereal to any magical tracking spell. You can bypass any magical barrier that my guards have access to. You can track [message] communicators?” She looked up at him with an expression of disbelief. “Do you hold the power to listen to them as well?”
+
+I’m impressed they figured out I could do that.
+
+“I can’t listen to them, though I could probably figure it out if I spent some time on it,” Nathan replied sheepishly.
+
+Sarya eyed him glumly. “We need to change the lesson. You’re not a sneaky assassin, you’re a surprise fighter. Instead of a touch, the guards need to deliver a blow with a weapon. And instead of a slip of paper, you must deliver a blow of your own. Without inflicting harm.”
+
+Her eyes bored into him. “Set your eyes on surprise and speed. Learn to act at the moment when your opponent realizes their assumptions were wrong. There is a moment of confusion there, an interruption of their thoughts that can be used to further deceive. Even the most experienced warrior will be open at the moment they realize they’ve been tricked.”
+
+The words carried the weight of an Insight, and Nathan nodded slowly as he internalized them.
+
+Sarya shook her head in exasperation. “You’ll never execute a perfect kill or even a decent theft, but you can achieve a score of kills in the same interval. It is not my path, but it is an effective one.”
+
+He glanced towards Khachi for support, who just shrugged in response. “Her words carry weight. You are an assassin, but you leave chaos in your wake, not silence.”
+
+“Not you too,” Nathan replied, exaggerating his woe for comedic effect. Then he grinned at his friend. “How’s your training going?”
+
+The wolfman tilted his head contemplatively. “I am learning of the paths of divinity, and the theories of theology. The territories of the gods are not free for the taking, and to usurp the role of the righteous requires virtue…” he trailed off at a sharp look from Sarya, who jerked her head at Nathan.
+
+“Go. Practice. The trackers have joined those hunting for you. It will not be so easy today.”
+
+Nathan left, off to continue his game of tag throughout the city with the guards. The changed rules favored his fighting style, but he was worried about the new inclusions. It was also likely that the guards had devised countermeasures to his existing skills.
+
+This is going to be good practice.
+
+They spent the next week in a similar pattern. Each of the Heirs received personal tutoring from a Questor in a variety of Insights relevant to their chosen path. Nathan tried not to be disgruntled that most of his time was being spent with the guards of Keihona and not with a Questor, aside from evening sparring matches with Ushia. Sarya kept tweaking the ruleset of their little game to make sure it was fair. Soon enough, Nathan was facing off against the elites of Keihona in addition to the regular guard. Their game wasn’t happening at all hours of the day, though occasionally it was set to happen at night to give Nathan the cover of darkness. It didn’t help him very much.
+
+On one particularly memorable day, they set a tracker on his trail, a burly wolfman who could follow him across the city by scent. The tracker couldn’t match Nathan’s mobility, but he was relentless, and his teammates could lasso Nathan out of the air from a hundred feet away. After the third time Nathan found himself unceremoniously trussed up out of nowhere, he started taking extreme measures. Coating himself in a spice that smelled strongly of licorice did the trick, but it also meant any normal person could smell him coming a mile away.
+
+After all the chicanery, he would have expected the guards to be disgruntled with him. But once Bathilde - the first guard to tag him - invited him to a party outside the hours of the game, he learned that they were also receiving hefty incentives to engage. It was good experience for them, and multiple people thanked him for helping with skills and levels. All in all, they bore him no ill-will, and he found himself the center of attention in more ways than one. There was quite a diversity of ambitious guards making their interest in him known, Bathilde included. Nathan found himself joining the parties multiple nights in a row and basking in the attention while the Heirs trained late into the night.
+
+I’m not interested in anything serious, especially after being burned by Faline. But there’s nothing stopping me from enjoying myself so long as I make it clear it’s just casual.
+
+Besides, getting to know his opponents outside the competition also helped him do better inside it. He learned some of their specialties, and even was able to specifically recognize many of the individual guards by the magical signature of their equipment. That helped him evade patrols and track down the captains. Added to his nightly training with Ushia, he was filling out a breadth and depth of skill he’d previously lacked. Davrar seemed to agree and rewarded him with some skill ranks and levels.
+
+The developments were more substantial than he’d expected, but it was similar to what he’d experienced when training back in Gemore near the start of his journey. You could earn developments by training, so long as you pushed yourself and learned new things. But there was a cap on it, a limit to the amount of strength you could gain through training at any given level. So he pushed himself to the limit, welcomed every challenge, and didn’t complain even when Sarya started to tag in adventurers with builds that were excellent at taking him down.
+
+The Questors had said they only had two weeks of training. Not only did they have duties to get back to, but if the Heirs spent too long in Keihona, it could be used against them in the eventual conclave. They couldn’t spike in power too soon after meeting the Questors - it would be too obvious that they’d been extensively trained by Sarya’s grid.
+
+So the solution is to only train us a little bit and hope we win anyway.
+
+“It’s a missed target,” Aarl complained, just a couple of days before they were due to depart Keihona for Esebus. “The Insights they teach are good, but they’re stalker teeth to the dragon bones of what they could be teaching us.”
+
+Khachi gave a cautionary growl in response. “Speak - and think - with caution. They are granting us weighty Insights, there is no need to search for greater gems.”
+
+Sarah nodded along with Khachi, but her expression was downcast. “But it grates to know that there are such treasures just beyond reach. Brox’s speed is a Talent, but not one he will teach. Garna can manifest ranged weapons already in flight. That Talent with my bullets would be…” She shook her head in disbelief.
+
+“Ushia’s not teaching me anything about foresight,” Stella complained halfheartedly. “Many tips on wizardry, but all generalities. Nothing specific.”
+
+Nathan blinked at them. “Is this not enough? My understanding was that they’re already pushing the bounds of how much they can help us before we’re regarded as an extension of their will. They’re already making the conclave happen, and now they’re training us in addition. It’s more than I expected. We can’t jeopardize that. I’m due for some magical tomes from Sarya soon, too. Just the basics, but still.”
+
+“Hear me, I’m not suggesting we try to rob them. Not even as a game,” Aarl said, flapping his hand at Nathan. “Though they have loot worth the attempt. The weapons Brox has mentioned could outfit an army.”
+
+Khachi grimaced. “Sarya showed me a suit of armor that resonates with divinity. It is faith made manifest and attunes itself to the wearer. It would be worth boldness.”
+
+Stella gave a low chuckle. “There’s a wand that multiplies and stabilizes elemental combinations. Ushia got it from Sarya’s vault for my practice. It was a genuine war-artifact of Kalis.”
+
+“We’re not going to steal from Sarya’s grid,” Nathan said firmly. “That’s a bad idea.”
+
+“Do you look at us and see fools?” Sarah asked, amused. “It would be against our goals. But if that’s what Sarya has, imagine what we could find in Esebus, a city known for its artificers.”
+
+“So, in addition to killing all of Badud’s grid, we rob them blind?” Nathan asked pleadingly.
+
+“Now you follow my light,” Sarah replied with a wide grin.
+
+The rest of the Heirs chuckled at that, though it didn’t completely dispel the air of underlying tension. They were still looking uncertain, and Nathan was expecting somebody to raise the idea again.
+
+Instead, Khachi gave a dramatic harrumph. He turned to Aarl, “What are you learning from Brox? Are his lessons worth the regret of his company?”
+
+Aarl snickered, but nodded. “He says I’m worthy of his genuine effort. He’s a warrior beyond peer, and is teaching me.” The coppery-skinned man spread his hands, as if that explained everything. “He knows tricks for every weapon I possess, and has fought against weapon-switchers before and learned their Insights. He’s teaching me to be ‘unignorable,’ and some small insights of speed.” His lips quirked. “Though not his Insight of speed. But they are smaller portions of it, that will help me develop my mobility skills anyhow.”
+
+Everybody made sounds of satisfaction, then directed their attention to Sarah. Aarl’s sister sighed and frowned, her brows scrunching together. “Garna’s theory of ranged combat is…” she searched for words for a moment. “Complete. Complex. Thorough. Through her, I have had many Insights into how Questors fight. They all have powerful Insights, and most have artifacts to cover their weaknesses. Her lessons are not about how to aim or ways to shoot faster. She’s teaching me how to study an enemy and discern their weaknesses. To pick the perfect moment to catch an enemy with their shielding magics disabled. Or how to disrupt spellcasting, or place the perfect shot to determine a fight, even when the shot cannot harm my target.” She grew more excited as she talked about the subject, and offered a few details of how Garna had taken her to the practice yards where various agents and adventurers sparred and taught her to recognize people’s tells.
+
+She finished with a quote from Garna that she’d taken a liking to. “Many people across Davrar are powerful, but few of them are disciplined, Questors most of all.”
+
+Stella spoke up next. “Ushia's not teaching me magery, and told me not to investigate other schools of magic too closely. She warned me against attempting to read tomes of magic written by other traditions, as it may corrupt my Insights. But she is teaching me wizardry. I’m beginning to see it as the hidden Path inside magic. The way to true power is not just more power, but a deeper understanding of the meaning of that power.” A flickering flame ignited on the tip of her finger, dancing to mirror the sparks in her eyes. Then it shifted to a dark purple, and Nathan could feel the weight of this change. This flame now burned at a deeper, more conceptual level. It would be harder to defend against, better at burning, and able to burn objects reinforced with wizardry. It looked like her Hydrabane spell, but on the scale of a candle flame.
+
+He shivered as he looked at it. “You can control it now.” He wasn’t sure if the other Heirs could feel the change inherent in the change of color, though Khachi was looking at the flame with a focused expression.
+
+The red-haired mage shrugged, and the flame went out. “I have better control if the light’s not in my eyes. It’s easier with flame than anything else. Ushia says that it’s the flame of ambition.” Stella grinned around at them. “Ambition is not a talent I lack.”
+
+“Hear me, isn’t that the truth,” Aarl said wryly. “What of your lessons, Khachi?”
+
+The wolfman stayed silent for some time before answering. “The Paths of Faith, as told by Sarya, are different than the stories painted by my mother’s books. More joyous. Less zealous. She has asked me to hold the Insights of sainthood tightly.” He scratched awkwardly behind his ear. “They are - powerful. Divinity held immense power, dependent on the whims of the gods. Now I must gorge myself on the metaphysical territory of the god I once worshiped. It is a matter of conceptual ownership.” He nodded decisively, seeming to indicate he was done speaking on the topic.
+
+They all sat in silence for a moment before Aarl turned to Nathan. “How is your training, Nathan? You’re in the city, yes?”
+
+“Don’t run from the ghoul, Aarl,” Stella spoke up, annoyance in her tone, pivoting back to the wolfman. “Khachi, are you free of regret? Is this a Path you can follow?”
+
+He nodded again, slowly and not quite so surely. “It is. It is not a target I would have found myself, but it is a way to achieve power.” He looked up at the rest of the Heirs, light like a banked flame in his eyes. “We seek to challenge the Endings themselves, and now that we have found the path, we must be fit to walk it. We will never be truly ready, but we will succeed regardless.” He held his serious demeanor for a beat, then cracked a smile. “But in the meantime, let me tell a secret. Nathan’s performance in his training determines how we shall dine when we leave. If he does well, Sarya will send delicacies with us.”
+
+“Truly?” Aarl was excited, almost vibrating in his chair. “Why didn’t you say? How are you doing? Can I help?”
+
+Nathan rolled his eyes. “Because I knew this would be your reaction. Sarya was teaching me to be better at stealth and assassination by pitting me against the Keihona guard. I don’t think I've learned as much as each of you, but I did just fine. We’ll have some nice food along for the ride. And there are some places in the city I should take you to before we leave.”
+
+“But every moment with the Questors is a treasure without worth,” Aarl objected. “Sightseeing is a dungeon for fools.”
+
+“Nope,” Nathan replied, shaking his head. “This city is worth seeing. If you leave without any tourism, then that’s something you’ll regret to your dying day. We’re delaying our departure a day for it, and I’m not taking no for an answer. Esebus can wait.”
+
+Even extending their stay by a day, the end of their time in Keihona came all too quickly. They’d shared several private dinners with the Questors during their training to get to know them a bit more, and Nathan had been expecting another one of those on their last night. But instead, Sarya hosted a grand party for them, inviting hundreds of notable guests and presenting the Heirs as allies of Keihona. Not agents, or guests, but allies.
+
+It seemed to carry some weight, and Nathan could feel himself being weighed by many different foreign representatives. He wondered what kinds of messages would be sent out the next day, and to whom.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84291/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 572
+
+Regenerative Focus: 5820/5820
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 4
+
+Forewarning 4
+
+Arcane Insight 4
+
+Evasion 2
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 10
+
+Visibility Control 6
+
+High-tier Disguise 7
+
+High-tier Battle Cry 3
+
+Aura Control 5

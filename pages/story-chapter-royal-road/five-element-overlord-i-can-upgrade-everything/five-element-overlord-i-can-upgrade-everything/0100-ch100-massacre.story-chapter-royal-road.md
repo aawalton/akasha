@@ -1,0 +1,155 @@
+---
+id: e5285143-1596-50bb-96e4-4f0d31f5859a
+page-type-slug: story-chapter-royal-road
+title: "Ch100 Massacre"
+slug: 0100-ch100-massacre
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 100
+ownLength: 2061
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3691474/ch100-massacre"
+royalRoadId: "3691474"
+---
+
+With this increased strength coursing through me, it feels possible to escape unharmed.
+
+However, I take my time and use a few upgrade cards just in case.
+
+The first goes toward my old black iron low grade bow.
+
+I replaced it long ago, during the war in the stone valley stronghold for a mid grade bow. Though, even that has become less useful to me in a scenario like this. The drawback weight is not powerful enough to send arrows flying with enough speed and force to kill these lizards.
+
+Now, as I watch a flash of white light turn the small black bow into a thick sleek glossy obsidian weapon with a shimmering silver bow string, I can’t help but grin and feel it up and down.
+
+I lock a perfect grade arrow on it, and pull it back with the equivalent force of a 12th level qi refiner that now courses through my body.
+
+It falls back into my storage, and I use a few more cards to create more perfect grade arrows, and incineration talismans.
+
+Then, steady my resolve and slip out of my hidden realm back into the pit.
+
+Instantly, I feel myself go into a free fall. The long rope comes into view, and I grab onto it before hitting the hard floor.
+
+My spiritual senses flow out much further than they did before; it is a noticeable amount… Usually, an increase this large would have required a jump in my qi refining stage, but it feels as though my senses can be increased by my soul strength… or maybe my physique settling at the perfected stage. I’m not certain which had the most effect..
+
+There is no longer a relentless swarm of armored lizards chasing me.
+
+Only a few creeping around deep in this pit’s walls come into view.
+
+They are only late-stage qi refining lizards, and they feel extremely weak to my new senses.
+
+I start to pull myself up to escape this pit, but stop after just a few meters.
+
+I grit my teeth and let some slack go on the rope to start sliding down.
+
+There were so many eggs exposed on this pit’s floor, it would be a waste to leave completely empty-handed. Plus… the mental memory of a level 10 armored lizard’s strength is still fresh in my mind. I’m certain they won’t pose any real threat.
+
+A heavy thud sounds out as I hit the bottom of the pit again.
+
+Some small groups of late-stage lizards charge at me.
+
+I pull my new bow out of my storage, pull back a jet black perfect grade arrow, hold my breath, and let one fly.
+
+It breaks through the hard scaly skin between one 7th level armored lizard's eyes, breaking a hole in its head and killing it on the spot.
+
+Instantly, I pull back another arrow, and kill a 8th level lizard in the same fashion.
+
+The strongest of this group is a 9th level lizard at the back, and when I fire a perfectly aimed shot its way, it wounds it badly, but the creature keeps charging my way.
+
+It is certainly an improvement. At this range, the lizards would have easily dodged my arrows before. The downside here is that I have to travel much further into the chaos to retrieve these perfect grade artifacts.
+
+I fire off one more arrow, finishing the 9th level lizard off, then stow the bow away into my storage and run forward holding nothing at all to try another fighting method.
+
+My fists feel so much heavier than they ever have. The perfected stage of this Martial Physique feels flawless and unbreakable…
+
+It is like liquid hot steel has filled every drop of my being, solidified, and tethered it all together. There is even a subtle vibrating invisible film perfectly layered over the outside of my skin, making it feel like I’m wearing armor myself.
+
+Less than five steps later, my closed fist explodes the head of a level 7 armored lizard, killing it instantly.
+
+They appear slow-moving, not giving them the time to even dodge or try to bite or claw at me.
+
+I just calmly run through their smaller swarms and kill them each with a single punch. It does not matter if they’re level 7, level 8, or even another level 9 at the back of this group. I pull the few lizards with arrows in their bodies into my storage, but ignore the rest.
+
+Instead, I make my way down into some of their exposed tunnels, and tear them apart with my bare hands. Many down here are the weaker initial and mid stage lizards, gathered around nests, that were too intimidated to tunnel out before. The sound of hard rock and metal clangs on the ground as their scales hit the pit’s floor behind me.
+
+I begin grabbing eggs and storing them in my system storage.
+
+There are at least a dozen 9th grade earth lizard eggs at the bottom of each cave hole.
+
+A few have one or two 8th grade armored lizard eggs as well.
+
+Around the edges of this pit, there are strange older holes that have different colored eggs, half of which are broken or half eaten. They appear to be from other territories, where these beasts have stolen them and hoard them as food sources.
+
+A few 9th grade grey wolves, 9th grade red tailed foxes, and 9th grade long-tusked boar eggs appear in these holes.
+
+They are nothing special or rare. I grab them if they’re nearby, but don’t go out of my way looking for 9th grade eggs. Instead, I set my sights toward the middle of the pit where I recall briefly seeing a 7th grade egg right near the earth stone beneath this pit.
+
+The armored lizards are starting to sense me more now, and have emerged from their hidden caves, some even digging new holes to the surface.
+
+The first sighting of a level 10 lizard appears, and my teeth show in a grin as I run toward it.
+
+This would have taken me two to three perfect grade attack talismans to confidently challenge before. It would probably take at least that many perfect grade arrows to take one down, and they would have to be in weak points like their eyes or mouths.
+
+Yet now, I can match its speed perfectly. Their raw strength is still greater than mine, the equivalent of a qi refining level higher, but it doesn't matter. My footwork is more intricate, while this dark black armored lizard’s intelligence is still lacking. It charges at me with animalistic instinct alone.
+
+I shift my body to dodge its chomping jaws, and land a brutal uppercut on its exposed neck where a deep soul fracture tethered to its physique has already made it weak.
+
+A horrific screech and cracking sound fills the pit, and I run forward to attack it again with a brutal kick, snapping its spine.
+
+Perfect grade armored lizard scales fly off its body as I follow and relentlessly beat this level 10 qi refining creature to a pile of lifeless flesh. I pull it into my storage once it's killed as a trophy, as it is my first perfected stage bare handed kill.
+
+I stand covered in its blood, breathing heavy in victory as just like before, over a hundred armored lizards attack me from every side.
+
+My loud laughter echoes through the pit as I let loose.
+
+Late-stage lizards are shredded to pieces by a single well-placed punch. I don’t even have to aim for their weak physique spots, the overwhelming power difference is enough to one-shot kill them every time. The Mid and Initial Stage lizards are as harmless as flies, mostly all dying in the crossfire.
+
+The level 10 lizards almost all have horrific soul fractures from their past. Fighting two of them at once is about my limit; if a third tries to jump in, I use an incineration talisman as a distraction to escape and kill them off separately.
+
+The bloody massacre lasts less than 5 minutes.
+
+The ground, walls, and depths of the caves lining this pit are completely emptied.
+
+Every single armored lizard lies dead, covering the entire ground in a horrific crimson fleshy and scaly mess.
+
+I catch my breath for a minute once it’s over, and go back to collecting the eggs from every tunnel these lizards carved out.
+
+There are well over a hundred eggs in my storage by the time I make it underground to the main nest where it seems the level 10 lizards all once rested.
+
+A black egg with symmetrical brown diamond-like patterns sits in the middle of a nest filled with the broken shells of similar armored lizard eggs that have already hatched. It is the sole remaining unhatched 7th grade egg, a lizard with the potential to reach the 10th level just like these other ones swarming in the pit.
+
+I quickly snatch it, and find the large boulder that contains an earth stone in its center. With a full-force kick, the boulder breaks open to reveal a powerful palm-sized earth stone. It is light brown, and semi-translucent. It gives off a dense pressure of hot brown earthy energy, similar to the strength of the few perfect grade tier 1 black iron ores I remember stepping over in the war.
+
+This slips into my storage too as I walk out of the cave tunnels, but once this warmth stops pouring out from the ground, I shiver.
+
+I don’t know if there was a small bubble of energy blocking my perception, but all of a sudden I feel like I’m being watched.
+
+It is not my demonic technique, and my martial physique doesn’t sense anything near either.
+
+I can’t even tell if it’s coming from below or above…
+
+No matter where I look, it feels like it’s behind me. The only other time I’ve felt such a dangerous and elusive pressure was once before, when Little Red activated his dormant physique during the war in order to sacrifice a portion of his black flame lotus physique.
+
+I consider slipping away into my hidden realm again, but decide to slowly walk out of the lizard caves to the surface instead. Whatever this pressure is does not seem to have any malice.
+
+My heartbeat still rises once I see what’s in the pit…
+
+Or at least, what isn’t.
+
+There is not a single armored lizard corpse remaining in my spiritual senses.
+
+It is just normal rocky ground. If there weren’t craters and big holes in the floor where I’m certain I just had a battle, there would be no proof I killed a single lizard here at all.
+
+I gulp and look around, then slowly back up, heading to the rope to get out of here for good.
+
+Not a single corpse can be found on my way back. I have a few dozen corpses in my storage, but I’m certain I left easily a hundred behind.
+
+It makes me shiver even more… as I didn’t realize it, but there were no bodies or remains on the ground from the destruction of my qi sword slaughter formation the first time there was a brutal fight. Something cleaned it up while I was inside my hidden realm.
+
+Just as I grab the rope to start climbing up and away from this mystery, the ear-piercing caw of a crow echoes through the air. It makes the ground shake beneath my feet, and even causes the white mist in the air to tremble and act erratically.
+
+My pupils constrict when I see the outline of a 30-meter-tall jet-black crow appear before me. Its eyes shine with a golden light, and the pressure it exudes is far more powerful than the only foundation establishment cultivator I’ve been in the presence of before.
+
+A loud crunch makes all the hairs on my body stand up, as it easily bites through and swallows a level 10 lizard corpse that rested in its beak.
+
+My hands instinctively shake and let go of the rope, and my chest feels heavy from its pressure. It is hard to breathe or even stay conscious. The most unnerving detail I find is that no automatic system scans show up in my mind, despite it certainly being within range.

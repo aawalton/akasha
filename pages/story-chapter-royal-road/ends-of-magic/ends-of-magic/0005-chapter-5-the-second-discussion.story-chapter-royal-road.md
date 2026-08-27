@@ -1,0 +1,193 @@
+---
+id: 5c959ea8-c4b5-5e69-9cea-604e62734d73
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 The second discussion"
+slug: 0005-chapter-5-the-second-discussion
+partOf: ends-of-magic
+position: 5
+ownLength: 4557
+unit: words
+ownProgress: 4557
+publishedAt: 2022-08-18
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/974431/chapter-5-the-second-discussion"
+royalRoadId: "974431"
+markedReadAt: "2026-06-29T20:07:25.589Z"
+---
+
+It turns out that Davrar does not reward lying to inanimate objects. That was fair. And included golems as ‘inanimate’.
+
+Not long after he’d finished failing to convince the wall that it really was in fact, made of small particles of silica and was not a contiguous solid, the door had opened and a golem had walked through, carrying a plate of roasted vegetables.
+
+Nathan had done his best to act like a confused world-traveler with no knowledge of how he had gotten there, asking random questions starting with “Where am I”, moving on to “who are you” and ending with “what is this place”. The golem had ignored him, placing the food on the table and removing the now-empty bowl of fruit. When Nathan made a halfhearted move toward the door the golem had sped up, quickly moving to the door before closing and barring it.
+
+Nathan inspected the meal, and was quite pleased to note that the roasted… zucchini? had come with a fork. A two-tonged fork where the tongs were nearly an inch and a half apart, but still a metal utensil. Huzzah! He sat down on ‘his’ side of the table and quickly scratched three words in small text into the side that faced him. “You’ve been neuralized” was pretty close to “You’ve been mindwiped” but the extra level of obfuscation through pop reference seemed like it could only help. Added to his terrible handwriting and potentially unknown language, it was unlikely Taeol could read it even if he found it. Unless there was a [Translate] spell that worked on cultural references. Man, magic was bullshit. The kind of bullshit Nathan badly wanted to be able to do, but that was looking less likely as his plans firmed up.
+
+He sat down to munch on the plate of grilled green veggies. They weren’t bad - cold and a little soggy, but naturally a bit peppery in a way that combined nicely with the crisped edges. Nathan could only hope it didn’t contain allergens that would cause his throat to close up. He was almost done with the plate when he heard the door being unbarred again.
+
+Nathan did his best to look up in a hopeful and confused manner when Taeol entered the room, the golem a stride behind. Taeol was in another orange robe, this one decorated with shiny stones around the hems and sleeves. As he was sliding into the chair, Nathan asked “Can you please tell me what is going on?”
+
+Taeol looked gravely at Nathan. “My boy, I do apologize but I must be clear as flawless gems with you. First, allow me an introduction. I’m Taeol dho Droxol, a researcher at the Ascendent academy. You find yourself in a new world. As much as it twists my thumb to admit, my understanding of what occurred is limited. I believe that some cosmic force moved you across dimensions to this world. I was conducting an experiment to probe dimensional quasi-resonance and my utter harmonic went out of control. Entirely beyond expectation, and much expensive equipment was destroyed. But right where the primary phase-resonator had broken I found you, lying on the secondary tuning rod. And before we continue, may I ask your name?”
+
+That sounded to Nathan like techno-babble intended to confuse him. Magi-babble? Regardless, it seemed like Taeol was trying to sell Nathan a story where he’d appeared here by chance, and destroyed valuable equipment in the process. He had to pretend to believe it and play into the effect that Taeol was going for. He wished he could take back telling his name to Taeol earlier in case it gave him some magical advantage, but he’d done it while trying to stall Taeol before the memory purge.
+
+“Oh, that is a lot to take in. My name is Nathan Lark. Thank you for the answer, but I’m still so confused. I’m sorry to hear that I destroyed some valuable equipment. This is all a big shock for me, I was going mad with panic earlier trying to figure out what was going on. I have a lot of questions. You must have incredible technology to be working on something like dimensional science”
+
+Taeol seemed satisfied with the answer, and smiled gently. He gestured with a hand, and Nathan saw the spell coming before the word left Taeol’s mouth.
+
+[Charm]
+
+Nathan let his eyes go unfocused for a moment, the same way it had happened the first time. He took a long blink, focusing his thoughts to notice and banish the seductive foreign thoughts as they flowed into him with a prickling sensation.
+
+“No my friend Nathan, we do not use ‘technology’. In this world, we use magic to bend the world to our will. I take it from your response that your world does not have magic? Would you like to learn magic?”
+
+Taeol conjured a floating ball of smooth orange light over one hand, and his smile had changed into something predatory. He knew what Nathan wanted, and was leveraging it and his mental magic to gain leverage. Nathan knew what the right response was. Luckily, it wasn’t hard to channel his excitement for magic. He didn’t have to try hard to make his eyes bug out at one of the first visual displays of magic he’d seen.
+
+“Magic! That’s incredible! I can learn it? How does it work? Where does the energy come from? Is that an easy spell to learn? How long will it take before I could cast it?” He pointed to the orb of light, doing his best to seem like he’d forgotten his misgivings and was entirely excited about learning magic. Pretty much the same as the first time he’d learned about magic from Taeol.
+
+Pending utility skill: Low-tier Earnestness
+
+You have done a good job conveying seriousness and honesty to a suspicious observer. This skill will help you portray your intense conviction and honesty when you speak to people. Cannot compel actions beyond what natural speech could, and cannot fool truth spells or skills.
+
+Not exactly what Nathan had in mind, but beggars couldn’t be choosers and it seemed like it would help here. He accepted the skill.
+
+Those messages were getting a little repetitive. While he’d been considering it, Taeol had started talking.
+
+“... forgive that, and I would be sure as a good glove that you can learn magic. I’d like to get you started on a mage class soon. With my enormous guidance we could have you casting light spells such as this by week’s end. But if you have no magic, I would love to hear how your people do things! This technology sounds fascinating, and I would love to hear all of it I could. If your people have no classes, how do you accomplish anything?”
+
+Nathan nodded, noticing Taeol’s slip - he hadn’t told Taeol he didn’t have a class yet. “I’m sorry, but classes? Do you mean something like educational degrees?” Taeol flushed a bit in response, so it was probably a mistake, and not Taeol trying to draw Nathan out in a slip. He rushed to explain classes again, this time omitting the mention of ‘less civilized’ thinking beings that had tipped Nathan off the first time. Then he closed by saying “But Talents, classes and skills are essential to all we do. My civilization - no civilization - could long survive without them against the monsters and Endings of this world. Then, I ask you, even if your world has no monsters, no Endings, how do you accomplish anything?”
+
+Endings?
+
+Something to ask about later. For now, Nathan had an opening to convince Taeol of his usefulness as a thinking, free agent. “I have dedicated my life to furthering our technology, and had nearly attained the highest education my world offers before…” he gestured around the room. “Knowledge is shared freely in my world. We have a saying among my people, ‘if I see further it is by standing on the shoulders of giants’. It means that even though I may not be as wise or as smart as my predecessors, I can learn all they discovered and then surpass them in knowledge.” Nathan spread his hands, as though laying his secrets upon the table.
+
+Taeol had his hands tightly clasped together, and was listening to Nathan with slightly teary eyes. “Amazing. When we lose a titan, their Skills and Talents die with them. When you lose one, their skills and knowledge are taught to the next generation. What a grand world that must be. Ah, but can we make it real here? My people hoard insight like dragons, only to be dispensed to their trusted heirs, if at all. Only a fist of steel, one armed with advantage and insight beyond all others, could break that culture. Will you give me the strength of your fist in this, Nathan? Together we could raise the banner of knowledge, to take what is best of your world and use it in this one.” He raised his hands dramatically with that, gesturing with one hand in a now-familiar gesture.
+
+[Charm]
+
+It was a remarkably persuasive argument, Nathan had to admit. But as the spell washed around him and passed by, Nathan reminded himself of Taeol’s past actions. He was not the beacon of knowledge and truth that he pretended. Taeol dho Droxol was a scheming man convinced his own superiority justified any means necessary to get his way. He’d thrown away any chance of Nathan ever willingly cooperating with him the first time he’d cast [Charm]. Looking up, Nathan saw Taeol watching carefully to see his reaction. Then he gestured again, his voice louder, more insistent, and the glow from his mouth stronger.
+
+[Charm]
+
+The spell was clearly cast with more strength, meant to overcome any resistance, and Nathan allowed his eyes to go unfocused for a moment. He bent his will to overcoming the spell, sucking the tingling feeling into the bones of his skull as it sought to latch onto his brain. After a moment, the spell broke.
+
+Nathan smiled, and Taeol smiled with him. Then Nathan gave the only answer that Taeol would accept, mimicking Taeol’s speech patterns as best he could. “Of course I will help you. This is a much grander path than I expected to walk, and I would be honored to walk it with you. But please, I have so much to learn about this world before I know what we are about. Could you please tell me where we are? Can you tell me of your government and society, and to learn what my place is within it? I don’t want to disgrace you if I should meet another prominent member of your academy.” Nathan could feel his Earnestness skill activating, guiding his voice and face to express honest curiosity and sincerity as he tried to pump Taeol for information.
+
+Taeol seemed taken in. “It is good you are thinking ahead, but you should not have to worry about that for some time. We are currently in my personal research tower, a ways to the west of Giantsrest, and there are no other living beings in this tower to worry about. It was given to me with the title of researcher, as it is traditional to conduct experiments away from any large group of people. We are protected by golem, ward and trap and will not be disturbed. There will be plenty of time to tutor you in scholarly etiquette before I present you to the academy, as I am not due back for a month at least. The town of Halsmet is a short way to the South and I will take you there next time I visit the brothel, to give you an introduction to our culture.”
+
+And that was the bare minimum that Nathan needed to know. He still hoped to get more general information from Taeol, but every exchange increased the risk that Taeol would figure him out. It was time to switch priorities toward escape. Nathan nodded to Taeol and looked over his shoulder at the golem. Nathan was distracted, thinking about how to get the golem out of the room and get a jump on Taeol.
+
+I don't think my antimagic will do squat against the golem, I probably need to wait for Taeol to send it somewhere. Can I ask for something? And Taoel needs to speak to cast his spells, so I should punch him in the throat.
+
+Taeol asked “How would you like to start our teachings? I have many questions to ask you, but you also must have many questions for me?”
+
+Nathan, trying to deflect from his own secrets, answered. “You said we should start mage training with mana shaping, right? Could we get started on that?” Just learning how mages manipulated mana would probably help him figure out how to absorb it.
+
+Taeol froze, and his eyes narrowed. He stood up and backed away from Nathan. “I never mentioned mana shaping. Not today.” Nathan, realizing his mistake, broke out in a cold sweat.
+
+Shit. I blew it. All my plans and one slip of the tongue throws the game
+
+He stood up, and started to approach Taeol “No - I meant, you mentioned mana earlier, and it makes sense that you’d need the mana shaping ability to be a mage”.
+
+Taeol wasn’t buying it. “No. You’ve been strangely resistant to my charms. You must have somehow broken my memory spell. You didn’t think I would notice? You tried to fool me?” Taeol snarled in what was probably supposed to be an intimidating manner, but came off more afraid than anything else. That fear showed weakness, and caused Nathan to lunge toward Taeol. Maybe he could get in close and hammer him before Taeol could get off a decisive spell.
+
+[Paralysis]
+
+But you could cast ranged spells as fast as you could speak and gesture. Nathan felt his muscles lock up, staggering and falling mid-step as all his muscles fell asleep at once. He frantically pulled at the feeling of paralysis in his muscles, but his focus was broken by his cheek slamming into the ground in front of Taeol’s slippers. Taeol looked down on him and gloated “Magic is superior to all! You have given up a chance many would cut off their thumbs for. And now you will lose all you have, you stupid boy.”
+
+[Slumber]
+
+A heavy fog descended upon Nathan’s mind, pushing at his consciousness. His eyes prickled and magically slid closed. Nathan felt his focus sharpen with [Focused Mind], and he was able to hang onto awareness by his fingernails. Taeol spoke again and the words were spikes of meaning that Nathan grabbed onto to avoid falling into the pit of nothingness. “Take him to the Golem creation room, put him on the table”. When the sound faded, Nathan focused on the cold stone hands that manhandled him into an over-the-shoulder carry. The golem’s steps were smooth, but he still bounced on its shoulder, the hard stone digging into his stomach and hips. As he was carried out the door and down the hallway, the suffocating pressure on Nathan’s mind lessened.
+
+He was still paralyzed, but at least he wasn’t threatening to pass out entirely. He could feel the wispy sensation of the magic more clearly now. It was filling his head like a nasty hangover, itching and cloying. It wouldn’t slide off like the Charm spell, or sink into his bones like paralysis did. It was just sitting there, a sticky fog adhering to thoughts, weighing them all down. So, Nathan tried to think as fast as possible, to recall as much as possible of that manic state he’d found after trying out some internet-ordered stimulants. He imagined bright blue skies over the mountains he’d grown up in, dredged up memories of the martial arts he’d done in high school and the beautiful design of the optics in superresolution microscopy.
+
+The sleep spell was swamped by the number of topics. It tore apart into fragments and was subsumed by Nathan’s mind. He tried to sigh in relief, but he was still paralyzed and draped over the back of a golem.
+
+Right. One thing after another, ain’t that just the way
+
+The humor kept the fear at bay, a bit. He knew how to break the paralysis, and it was much easier to do now. As he concentrated, the tingling sensation faded. He didn’t know if that was his focused mind, the rank-ups in the magic resistance, or just practice feeling the spell and breaking its patterns. Before he was quite finished, the golem smoothly followed Taeol into a room and gently lowered him onto a large stone table filling the center of the room.
+
+But before Nathan could do anything, Taeol cast another spell.
+
+[Chains of Restraint]
+
+Nathan hastily shut his eyes again as slick magical chains sprung from the base of the table and wrapped around his limbs and across his torso. He surreptitiously flexed his arms and legs to check the paralysis and the chains tightened to restrict him further.
+
+Oh come on! This jerk is so damn paranoid. At least he’s using magic and not real chains. I can break these cuffs!
+
+He was definitely feeling a bit punchy, but Nathan wasn’t sure if it was a response to the mind magic he’d resisted so far or his impending doom and fate as an animated rock. Breaking the thin but immobilizing chains seemed like an important next step. Nathan tried tugging against the chains but felt absolutely no give in them. His admittedly limited strength was not the answer here - he needed to use his Talent for it. Once again he reached out to a new kind of magic, hoping he could resist it somehow.
+
+And it’s not like I have a plan B!
+
+He focused on where the chains dug into his flesh. There was a feeling… beyond the merely physical. He visualized the chains, felt them engraved in his consciousness by more than just touch. The feeling wasn’t wispy this time, but harder, more structured. Nathan didn’t think he could do the same thing he’d done to the mental spells here - the magic couldn’t flow. But maybe it could break? He tried hitting the structure with his will, making a hammer of his consciousness to shatter the chains. Nothing happened.
+
+Taeol was busy against the back wall of the space, sounding like he was sorting through a full toolbox. He commanded the Golem “Go get an empty golem core from the second magical storage space. One of the grandmaster-quality ones I think, I want the highest-quality imbuing right now.” Nathan heard the door open again and close.
+
+The golem is gone! Now or never. This may be impossible, but you only win if you play as if it is possible. How would it work?
+
+He’d succeeded in resisting magic by utilizing the inherent magic resistance of his body and some sort of magical sense the skill had given him. To resist charm magic, he’d noticed and denied the intrusive thoughts and the spell had evaporated. The paralysis had needed to be drawn out of his muscles and into his bones. The sleep magic had been overwhelmed trying to suppress frantic thoughts. In each case he’d found a key element of the spell and subverted it until the whole structure had fallen apart. What was the appropriate key element of these chains?
+
+They had a detailed structure, as if each link in the chain was a tightly packed mass of geometric shapes. It most reminded him of the representations of how DNA was packed into chromosomes - coiled strands made of looped string, itself made of tightly wrapped but unknotted… energy? The analogy fell apart at that level. The strings themselves felt tough, like an extremely thin metal wire. Nathan picked a chain that was tight around his stomach, focused on a link directly over his belly button where he imagined a single loop in a single coil. He focused on grabbing a single wire and pulling, yanking with his mental fingers right into his gut.
+
+The string responded quickly to Nathan’s intention. It flowed into him and stung slightly, like a needle poking into skin. But as the magic entered his body it became less substantial, sliding down some sort of energy gradient from solid to insubstantial to nonexistent. The link Nathan had focused on fuzzed out, and the entire structure of the chains loosened slightly.
+
+Nathan wasn’t paying attention to his surroundings, and he flinched a bit as his head was lifted by fleshy hands. Taeol placed some kind of metal construct under his head, folding up flexible arms that encircled his head with cool metal. Nathan tried to ignore it and started pulling on more threads in more chains. He could only manage three at a time, focusing on his arms first. It only took seconds per chain, but there were a lot of chains.
+
+Then, all of a sudden Nathan could do four at a time. Probably a rank-up, but he didn’t open his eyes to check. Now that he could do something about the chains he was feeling claustrophobic, and he wanted out. The chains across his chest were suddenly unacceptably tight, and Nathan tried to ignore the rising tide of panic as the last chains around his arms loosened. It was getting easier now, the entire structure of the spell falling apart. From directly above him, Nathan heard a gasp, and knew he had run out of time. His eyes snapped open.
+
+The boxes vanished, revealing Taeol’s face, wide eyed and staring at the snapped chain links. He was standing to Nathan’s right and was holding a spike capped with a green gem in one hand and a small hammer in the other, poised to drive the spike into Nathan’s solar plexus. Nathan’s left hand came up across his body, and his hips and shoulders twisted as he drove a palm into Taeol’s face.
+
+Or, at least tried to. Nathan’s palm skated off a barrier of slick force a few inches in front of Taeol. The orange-robed man staggered back a few steps from surprise, though the force of the blow seemed to affect him not at all. Nathan sat up, pulling away from jeweled and engraved metal arms folded across his forehead. He tugged at the last few chains around his ankles as Taeol took further steps back, pointing at Nathan with the spike. “You… how? What kind of toxic power do you have?” Nathan replied by shutting his eyes again, frantically pulling on the strings of the remaining chains. They fell away in moments, and he pushed himself up, and towards Taeol.
+
+The mage had backed up until he ran into the workbench, and his eyes flicked to the door. Nathan sprung at him, and Taeol cast just as quickly as last time.
+
+[Paralysis]
+
+Nathan was ready this time. He saw the gesture coming and balanced himself so he wouldn’t immediately fall. Then, he drained the feeling out of his muscles nearly as fast as it came in, staggering but not falling. Taeol’s eyes bugged out further, and he reflexively held his hands out in front of him. Nathan charged into him a moment later, relying on momentum to get through the defense spell, or at least knock Taeol over. The barrier flexed as Nathan hit it, but he bounced off as if he’d shoulder-checked a padded bag, and Taeol wasn’t pushed back in the slightest.
+
+Magic is bullshit. Conservation of momentum is a core physical law!
+
+At least Taeol seemed to be panicking. He stared at Nathan’s face like a man with a hundred hammers seeing a screw for the first time. Nathan loomed over Taeol and wrapped his arms around the smaller man, feeling the barrier a few inches above Taeol’s skin all over. It flexed under his arms, but didn’t break. Then Nathan dug his fingers into the barrier behind Taeol’s shoulders and pulled as hard as he could, trying to rip the barrier apart. It cracked and tore, a brief blast of force pushing Nathan a few steps back. Taeol’s lips were moving, and Nathan could feel the mana of the spell he was weaving from feet away. It was more powerful than anything Nathan had felt Taeol cast before. Nathan raised his hands protectively in front of him.
+
+[D-d-d-DISINTEGRATE]
+
+A thin beam of pale green light shot from Taeol’s pointing finger and hit Nathan’s left palm. Taeol’s face pulled into a satisfied rictus as Nathan’s left hand fell apart. Pain blasted through him as first his wrist, then his forearm turned to black dust. He screamed.
+
+The wave of magic swept down Nathan’s arm and he felt his Talent fight the spell consuming his inherently magic-resistant flesh. Nathan clutched his left arm with his right hand, unable to do anything but watch and feel his arm slowly disintegrate. The advancing wave of mana felt like a hungry void, a consuming pit that would never be sated.
+
+Nathan tried to push back, he tried to arrest the advancing tide of entropy. Not with any clever ideas, just with frantic desperation. And maybe it made a difference, as the spell passed his elbow and slowed to a crawl. Both Taeol and Nathan’s eyes were glued to the advancing black line. Then, a few inches from his shoulder and with one final notification, it stopped.
+
+Nathan fixed tear-filled eyes on Taeol, whose victorious expression paled into terror. Nathan stalked forward.
+
+[Paralysis]
+
+Nathan barely stumbled, overcoming the spell with sheer rage and desire to beat Taeol’s face in. Taeol started gathering magic for another powerful spell, but Nathan took a long step and pivoted his entire body, smashing his right elbow into Taeol’s nose. Nathan felt cartilage pulping under the blow, and continued his turn, stomping on Taeol’s left knee with his right foot. The knee folded with an unpleasant popping sound and Taeol dropped to the ground with a whimper past bloody lips.
+
+Nathan’s left arm hurt, and he tried to cradle it as he turned to the door. Time to get out of this place. Especially before the golem came back. He stumbled to the door, pushed it open and was ten steps down the hall before he paused and turned around.
+
+I hurt him, but he won’t die. I need to kill him. He’s tried to do worse to me. He deserves to die. He’s a powerful, vengeful mage and if I don’t kill him now he’ll come for me.
+
+He’s also a man named Taeol dho Droxol, who seeks knowledge. If I kill him, I kill a story, and all of the potential he could have.
+
+Nathan’s face hardened, and he walked back to the door into the Golem creation room.
+
+A potential for great evil. Fucker took my arm. Kill him now, think about it later.
+
+He turned the corner, and Taeol looked up at him from across the room, pulped lips stuttering.
+
+[t-t-Teleport]
+
+And with an orange flash, he was gone.
+
+Permanent Talent 1: High-Tier Magic Resistance 10
+
+Talent 2: None
+
+Talent 3: None
+
+Class: None, level 9+
+
+Utility skills:
+
+Low-tier Focused Mind 5
+
+Low-tier Earnestness 3

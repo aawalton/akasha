@@ -1,0 +1,131 @@
+---
+id: bd9f601b-1249-5d7d-9814-d60db4d3ae91
+page-type-slug: story-chapter-royal-road
+title: "Ch67 Demon Slayer"
+slug: 0067-ch67-demon-slayer
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 67
+ownLength: 1569
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3484927/ch67-demon-slayer"
+royalRoadId: "3484927"
+---
+
+Including this morning’s check in, I have 24 unused upgrade cards in my storage.
+
+While I did already upgrade plenty of talismans, and still have four uses left on my cloak’s defensive measures; I pull out every one of my available bronze cards and upgrade everything I can think of being beneficial.
+
+Many are used on creating new defensive talismans, the others on healing elixirs, my new silver arrows, and an even spread of every attack talisman I have on hand.
+
+I even pull out old perfect grade arrows and add them to my quiver to have more ammo on hand.
+
+My focus tunnels, and I completely forget about everyone I came to this mountain with. I exert the full speed and strength that my qi cultivation and Martial Elite Body can withstand.
+
+It is time to reap some rewards from this war I’ve been forcefully thrust into.
+
+In loose areas of rock on the ground, foot shaped cracks start forming under the pressure of my steps, and my black blurry figure streaks down cave passage after cave passage.
+
+A high pitch twang of my bow string being released over and over is the only sound other than the screams of initial stage illusory demons that can be heard.
+
+Every turn and crevice that would normally be overlooked, I find ten to twenty of them hiding in wait of an ambush.
+
+A single incineration talisman burns a small group to ash.
+
+I activate the newly upgraded pine needle barrage talisman for the first time, it has turned into a perfect grade pine spear explosion talisman. I watch over a hundred thin shiny green needle thin spears explode forward from my grasp.
+
+Every Illusory Demon within ten meters of the blast is impaled and bleeding to death on the cold cave floor seconds later.
+
+Multiple 4th and 5th grade illusory demons lead squads deeper into these winding passages, but they’re no more effort than the initial stage demons to me at such long range. The only difference is my choice of arrow, using a silver mid grade arrow to pierce their foreheads or chests is all the same.
+
+I slaughter over a hundred demons before running into the fluctuations I sensed through the walls before.
+
+An identical scenario to the first late stage blood demon I came across is playing out. There is an 8th level qi refining demon, fully transformed in his perfected stage physique.
+
+He does not move from the small red blood energy array on the floor.
+
+“How have you come this far? All alone?” the old demon yells, holding up his blood sword.
+
+I feel the only other exit to this passage growing warmer with the auras of dozens more initial and middle stage demons, but my focus remains on the late stage before me.
+
+His sword moves faster than my eyes can track, however, I don’t have to guess where the attack itself is coming from. My defensive talisman shatters, but so do two perfect earth bullet talismans in my grasp.
+
+I’m thrust backward by the force. The demonic scream of a blood demon getting a hole carved out of their torso and impaled by rock fragments is what I hear echoing back. Another defensive talisman is activated, and a blue talisman I’ve never tried before goes off in my grasp next.
+
+It is the perfect grade version of a water bullet, upgraded to a far more densely qi infused version humming with power.
+
+The blood demon’s crimson energy is being siphoned into his torso to attempt to heal my last attack, and his head is wide open. Skull fragments, brain matter, and a beautiful blue watery mist fill the air.
+
+This 8th level blood demon falls to the floor on top of the still glowing array. I pull him into my storage, and run farther down the passage leading deeper into the mountain.
+
+Arrows whistle through the darkness, as more initial stage and mid stage demons pop out from hidden rooms and dark tunnels.
+
+They’re far more surprised to see me than I am to see them. Every single arrow I shoot now is already covered in the blood of past demons.
+
+Well over a hundred more bodies, swords, and spatial rings fall into my storage. There are pockets of demons that I do miss, as they run away in fear rather than try to stop me, but large numbers of them are killed.
+
+Without live updates from Bao Zhan’s communication talisman, I’m running in blind.
+
+From the information that I know an array is circled around this mountain, and the fact that a map of a crimson circle around this mountain was found on a demon weeks ago, hundreds of kilometers away, this is obviously an intricate trap.
+
+The first blood demon mentioned someone called the Phantom Lord. To be so confident in leading this many late stage Azure Cloud Sect cultivators into the mountain, their boss must be strong.
+
+My excitement spikes as I sense the presence of another blood demon.
+
+It only takes three more long curved passage ways to find exactly where the blood red vibrations are coming from. The air pressure down here becomes extremely thick, filled with killing intent, even tinting the air light red through the black mist of the iron ore in the walls and floor.
+
+No more illusory demons attack me.
+
+The only obstacles in my way are half a dozen level 4 to 6 blood demons.
+
+I use a single perfect grade curved knife to kill the level 4 demons at close range. My speed and strength surpass theirs, even after consuming dozens of blood qi pills. The red aura surrounding them splatters onto the walls along with their own blood.
+
+The level 5 and 6 blood demons are trickier. I can follow their movements, but their auras are too erratic to take any chances testing out their physical strength to quell my curiosity. Instead, I go for the fastest kills possible.
+
+The stronger ones are obliterated with incineration talismans, while the slower ones are shot through the foreheads and hearts with a perfect grade silver steel arrows.
+
+My face, cloak, hands, and weapons are soaked in layers of dripping red blood that is not my own.
+
+When I finally see the late stage blood demon I’ve been tracking down, all I am thinking about is slaughter.
+
+As I get within 29 meters, triggering my system scan, it reads as the first level 9 blood demon I’ve ever seen.
+
+His aura is sharp and erratic, far stronger than any of the level 8 blood demons I killed on the way here. I get the instinctual feeling that his physique is on the verge of elevating, but it is already at the perfected stage. While eerie, this doesn’t slow me down.
+
+It just fuels me to attack with far more power.
+
+Instantly, I fire off a perfect grade arrow straight toward the demon standing on a bright crimson blood array.
+
+While he moves his sword to block, two perfect grade stone bullet talismans activate, and a perfect grade pine needle barrage follows.
+
+My defensive talisman is shattered less than a second later. For the first time today, a blood sword slash is not fully negated by this talisman, and a portion of the energy collides with my chest.
+
+The defensive measures of my cloak activate, and half a blood sword slash is reflected back toward the demon just as fast as it came. It carves out a sword slit in the ground as it travels away from me, and a massive crimson burst fills the air as it collides with its original sender.
+
+I grit my teeth and activate another defensive talisman, then trigger two incineration talismans while lunging in for a closer range strike.
+
+The bloody swordsman’s outline is engulfed in flames, but I still hear him yell with fury.
+
+“Dying here makes no difference! The array has already been activated! I will still serve the Phantom Lord in his grand plan! You will too! You are all fools for making it this far!”
+
+This remark devolves into laughter, and I catch a glimpse of half a demon's face burning off.
+
+I trigger another stone bullet to finish the job.
+
+As the thud of this demon's burning body hits the ground, a chime echoes in my inner ear.
+
+[Ding!][Congratulations! Side Quest Complete: Kill 5 Late Stage Qi Refiners (5/5 complete).][Collect Your Rewards!][YES][NO]
+
+I accept while watching the flames die down, but the thick blood aura in the air stays heavy…
+
+[Ding!][Rewards have been deposited into your storage!][x3 Perfect 1st Tier Upgrade Card][x1 Minor Lottery Draw]
+
+Bronze cards and a 20 sided die fall into my storage, and new golden text floats up to the surface of my mind to replace the side quest that just disappeared.
+
+[Kill The Phantom Lord and reclaim the core of Black Iron Mountain’s Inferior 2nd Tier Black Iron Vein.]
+
+I stare ahead, making out a faint line of active crimson blood magic carved into the cave floor.
+
+It connects to this array beneath me, tying to something else… much stronger, and much more sinister further into the mountain’s center.
+
+Loud explosions and the demonic roars of other nearby late stage blood demons hit my ears. Yet, so do the victorious yells of other Azure Cloud Sect squad leaders. We’ve all made it to the center of Black Iron Mountain….

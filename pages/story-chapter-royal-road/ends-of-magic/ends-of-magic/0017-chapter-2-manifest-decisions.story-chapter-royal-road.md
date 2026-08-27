@@ -1,0 +1,221 @@
+---
+id: d5c2d6b1-0353-59ff-9430-980f1641cea5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Manifest Decisions"
+slug: 0017-chapter-2-manifest-decisions
+partOf: ends-of-magic
+position: 17
+ownLength: 2687
+unit: words
+ownProgress: 2687
+publishedAt: 2025-07-10
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2424039/chapter-2-manifest-decisions"
+royalRoadId: "2424039"
+markedReadAt: "2026-06-29T20:07:48.715Z"
+---
+
+“Deeds,” Khachi said, emphasizing the plural. “The first of them does not seem iniquitous, but the ones beyond - they may be of a different flavor. Do we commit ourselves to this path, even if the later tasks may stray beyond the bounds of righteousness?”
+
+Nathan shrugged. “I don’t think Sarya will do that. She’s got a good enough read of us not to ask us to sacrifice our principles. I’m comfortable telling her to go pound sand if she asks for something we don’t want to do. I think she's telling the truth about what we need to do, and it'll be easier to have her help because she knows the political landscape of the Questors, but if we needed to, we could do it ourselves.”
+
+Aarl’s brows crinkled. “We can’t call a conclave. That requires the Questors, and this influence.”
+
+“We’d just need to find another group of Questors willing to help us out, then do favors for them until they agreed,” Nathan replied, waving away the point. “The secret is that we need to insert ourselves into Questor society, and we could do that without Sarya if necessary.” He looked around at his friends, eyebrows raised in question. They were in their suite in Sarya’s palace and hidden behind a layer of Stella's spells. Nathan was almost completely sure nobody was eavesdropping on the conversation.
+
+“We’re speaking as if this deed is easy,” Sarah pointed out, her expression grim. “Sarya would have us attack a bastion of Questors that happen to be her enemies. A place as defended as this one is.” She gestured around the palace they were sitting in. “It’s a dungeon for fools.”
+
+“Not the first time we’ve aimed for a target above our station!” Stella replied jokingly, then continued in a more serious tone. “We never expected it to be easy to challenge the Endings. It was easier to follow that oath before the path was clear. But now that it’s before us. If we meant that oath, it’s time to walk the path as best we can.”
+
+Khachi nodded along with that statement before turning to Nathan, an inquisitive look on the woflman’s face. “What aid can they provide?”
+
+“Nothing that would make our achievement less impressive,” Nathan replied wryly. “No powerful artifacts or Insights that can be traced back to them. But they’re willing to give us what they can, and that means personalized mentorship. They’re waiting for us right now.”
+
+Stella shot up from the couch as if it had lit on fire. “Hear me, why didn’t you say so earlier? We’ve been talking before learning Insights from Questors.” She sounded personally offended at the waste of time.
+
+Nathan chuckled. “This was an important conversation to have. But yeah, I didn’t expect anything else. Let’s go learn what we can.” He looked towards the other Heirs to see if any of them would object.
+
+None did, and soon enough they strode into the garden that a servant had directed them to. It was the same place they’d had their first meeting with Sarya, and the water dripping from the trees all around created a soothing atmosphere. But this time it wasn’t just her at the table, but also three others. As the Heirs took their seats, Sarya introduced them.
+
+“This is Ushia. She’s a seer, but don’t let that intimidate you.” Sarya gestured towards a huge orcish woman dressed in a sharply cut robe dyed with rainbow stripes. With her sitting down, it was hard to tell how big she was, but Nathan wouldn’t be surprised if she was nine feet tall. The woman was massive, and she studied the Heirs with an air of curiosity. Her focus seemed drawn to Nathan in particular, and when Nathan met her eyes, she gave him a friendly smile.
+
+Sarya continued down the table. “From Brox's stories, you are already known to one another.”
+
+Brox gave them all a casual wave, looking the same as the last time they’d seen him. He once again had two swords and looked excited to see them. He’d only seen Brox so animated in the seconds before he fought Badud to the death, and when he’d been trying to goad the Heirs into challenging the dungeon in Fireface Pass.
+
+“Last is Garna.” She turned to address the person at the end of the table with a fond smirk. “What should I call you? Spy? Bureaucrat?”
+
+The androgynous-looking woman sniffed dismissively. “Logistician. Analyst. But knowing your inclinations, you’ll call me whatever you like.” She reached a hand up and ran it over her bald head slowly, turning her attention to the Heirs. “But for this group, the most relevant title is probably deadeye.” Her attention turned to Sarah. “We should speak.”
+
+Sarya sighed. “Let’s talk as a group before we separate out into individual mentoring. We must be training for the same fight. The target is Esebus, and Sussu’s hold over the city.” Nobody was surprised at those words.
+
+I mean, it would have been weird if she hadn’t talked to her allies about this. She’s enlisting them in what might seem like a harebrained scheme, setting adventurers up against Questors. But they all seem fully onboard with it.
+
+“To beat those Questors on home territory, they will need to fight like Questors,” Ushia rumbled.
+
+Brox coughed delicately. “To beat that grid on their home territory, they’ll need more than that. If it were any other team, I’d call it spitting on a fire elemental.” He flashed a sly grin at Nathan, obviously referencing their previous encounter with that kind of enemy. “But Badud and his pals always did rely too much on magic. Every one of them is a mage of one color or another, and Nathan will knock them over like targets in a range.”
+
+Garna held up a placating hand, but she spoke directly to the Heirs. “Don’t outgrow your allocation so quickly. Despite your advantages and proven achievements, the challenge we set before you is immense. Even unreasonable. We should not even ask it of you.”
+
+“This isn’t you sending us off to our doom. This is us asking how to achieve our goals,” Nathan replied shortly. He was getting a somewhat motherly vibe from the androgynous woman, and wasn't a huge fan. That kind of thing might cause her to hide information for their protection, and generally get in their way because she assumed she knew what was best.
+
+In many cases, she will actually know what is best, what with being a multi-thousand-year-old Questor. But I’d prefer that her priority is helping us win, not protecting us from ourselves.
+
+Garna froze with her mouth open, not used to being interrupted. But after a moment, she closed it and gave an acknowledging nod. “Then the best that we can do is arm you with what is needful. Sarya has explained that we cannot provide you help that is too obvious?”
+
+“She has,” Nathan answered, glancing around at his friends.
+
+Stella spoke up. “You can’t give us too much or else the wins won’t be ours. We’ll be seen as your puppets. Despite the deed being done.”
+
+“This ploy rests on establishing you as an independent force, separate from our interests,” Garna said with a frown. “If you accomplish these deeds under our aegis, then you are our agents, and any demands you make will be seen as ours, and dismissed as such.”
+
+Sarya rolled her eyes expressively. “We’ve explained all this noise before. The conclusion is that we’ll still teach them, but it needs to be deniable teaching. The plan calls for infiltration, sabotage, and maximum force. We all have our Insights, and can decide what to teach. We should each instruct each of the Heirs, but I wish to start with…” She tapped her finger to her lips, which curved upwards into a smile. “Kachi. Divine magic was a topic I studied before the Ending of Gods.”
+
+“But was it the magic, or the salacious influence of the god in question?” Garna asked, voice clinical but unimpressed. “I should speak to Sarah. I wish to know of her class, and add what Insights I can to her repertoire.”
+
+“I’m going to spar with Aarl,” Brox chimed in, surprising nobody. “It’s been some time since I found somebody to match me. He must learn to fight with a black blade.”
+
+Ushia stood from her seat, the movement ponderous. “Remember, the goal is learning, not pleasure.” Her voice was stern but fond, and her eyes flicked between Nathan and Stella. “I will speak to Stella and Nathan on the topic of magic and wizardry.” Then she crooked a finger. “Follow.”
+
+Each of the Questors led their students off in a different direction. Nathan and Stella shot each other an uncertain look when Ushia took them to the magical elevator that had brought them up from the harbor below. She didn’t bother to push a button, instead holding a charm on her wrist to the panel. The doors shut, and Nathan made sure to keep his aura tucked close as the enclosed box dropped. It showed them the harbor once again, and Nathan spotted The Grace of the Mists, the ship that had brought them here.
+
+He’d expected them to get off at the harbor or somewhere above it. But the elevator kept dropping into the earth, travelling far below sea level. Then it opened, revealing a shadowy room lit in dappled blue light. There was a table in the center lit at the edges with dim lights, and Ushia led them towards it, taking a seat and gesturing towards the other seats with her hands.
+
+Nathan was too busy looking up. With his sensory skills, his eyes hadn’t required any adjustment to the dim conditions, and he was watching the plethora of sea life through the clear windows.
+
+Stella took her seat, then followed Nathan’s gaze. “Are those…?”
+
+“Monsters,” he said, eyes on a creature with the front half of a shark and the back half of a twelve-tentacled squid. Except instead of suckers, the tentacles were equipped with hooked spikes. “Definitely monsters.” He wondered why they weren’t attacking, but a moment of investigation gave him the answer. He could feel the enchantments on the underwater room, layered into the glass like layers to a mechanical watch. Magic that drew in the monsters and kept them docile, more to reinforce the room against the pressure of the depths, and any monsters that resisted the first effect.
+
+How do they command monsters with mental magic? I didn’t think that worked.
+
+With a bit of Focus, he delved into that effect and felt the subtle wizardry that strengthened the calming mental effect and made it effective on monsters. It was a masterful addition, and Nathan made note of the Insight involved. He didn’t think he’d be in a situation where he could convey this specific Insight, but it might lead to other applications where it was possible to bypass some kind of magical resistance.
+
+“Nathan, get your ass in the chair,” Stella called out to him, an amused look on her face.
+
+He sat, shaking his head in apology. “Sorry, I just got distracted. The magic in this room is interesting.”
+
+And I could destroy it all if I just released my aura. A sobering thought, that I need to be careful, or else I’ll destroy wonders.
+
+“An antimage who enjoys magic, and explores it for the joy of discovery.” Ushia’s voice was inquisitive. “Perhaps that is the Insight missed for so long. Antimagic has an ancient and cyclical history. It is revived here and there and explored in the face of magical empires, then abandoned when the limits are reached.” Her gaze was placid as it rested on Nathan. “You have broken those limits, now and in the past. You understand wizardry. You can counter it.”
+
+It wasn’t asked as a question, so Nathan simply nodded in response.
+
+The big orc continued speaking, gesturing emphatically with her hands. “Wizardry is the path to truly powerful magic, and the Insights involved are broad and personal. Nearly every powerful mage first finds it in a moment of strain, when they delve into the deepest depths of their specialty. Often it takes place in battle, in moments of extremity. When a mage first reaches beyond the limits of mana to enforce their own reality upon Davrar.”
+
+She turned to Stella. “I can feel the traces of it in you. You’ve touched upon wizardry. Would you tell me the story?”
+
+Stella looked a little bit intimidated, but she perked up quickly as she told the story. “Leaving the city of Litcliff. We’d been promised hospitality, but it was all a lie. They tried to assassinate us with poisoned food, then blades, then their army. As we fled the city on Eolinne’s ship, I was furious. At their betrayal. At how they were getting away with it because we were running away.” She shrugged, as if to downplay what happened next. “So I combined a couple of Insights about fire, and cast a spell that burnt down the palace and most of the military district.”
+
+Ushia’s tone was encouraging. “Were you able to cast the spell again?”
+
+“Not easily,” Stella said, her brows furrowing. “We were attacked by a hydra eel after the fight against the Maelstrom ship. I killed it with the spell, so we named it ‘hydrabane’ after. But it was different. Harder than the first time.” She looked up at Ushia, naked hunger on her face. “Why?”
+
+The orc raised one hand, holding it palm up. “Because magery is about precision. Control. Willpower. You must wrestle the mana into your spells and enforce exact craftsmanship in the doing. The best mages are those obsessed with order, able to cleave to the rules of magic and calculate the precise input required for the desired outcome.”
+
+She raised her other hand, holding it as a balance against the first. “Wizardry is about breaking those rules once they are fully understood. To cast your magic flawlessly and then push it past the limits of what is possible. It is an effort of emotion, a denial of Davrar’s authority, and an imposition of your own. It is an art, and one driven by the extremes of emotion.”
+
+Both hands came together, fingers clasped. “To be a wizard is to apply perfect control and unleash your emotions simultaneously. You must cast spells with utmost precision while wrestling with the rules of reality and rewriting them to your preference.” Her mouth slanted in a smirk. “I was never a very good mage, unable to move beyond scrying. But at wizardry, I am excellent.”
+
+Nathan looked at her questioningly. “How does that work?”
+
+"Wizardry is not an inevitable progression of the path of the mage." Her hands came apart and balled into fists. "It has Insights all its own. I am poor with mana, but what skills I do have are augmented by wizardry." Her hands came up into a boxing stance. "It's easy to hit people when you see the future. Though I may find you to be a novel challenge.”
+
+Both Nathan and Stella blinked at her, though she spoke first. “You - punch things?”
+
+She nodded wordlessly, amusement written across her face.
+
+Maybe I can learn more than wizardry from her.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 564
+
+Regenerative Focus: 5740/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 3
+
+Mystical Discernment 4
+
+Forewarning 2
+
+Arcane Insight 4
+
+Evasion 1
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 9
+
+Visibility Control 5
+
+High-tier Disguise 5
+
+High-tier Battle Cry 3
+
+Aura Control 5

@@ -1,0 +1,117 @@
+---
+id: 733aca05-6f56-56e5-a486-411c3ea20b30
+page-type-slug: story-chapter-royal-road
+title: "Chapter 445: Planting a Tree"
+slug: 0482-chapter-445-planting-a-tree
+partOf: dungeon-of-knowledge-complete
+position: 482
+ownLength: 2362
+unit: words
+ownProgress: 2362
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2768782/chapter-445-planting-a-tree"
+royalRoadId: "2768782"
+markedReadAt: "2026-06-29T20:28:33.073Z"
+---
+
+It’s over.
+
+The clearing had grown quieter with most of the adventurers having returned topside. Ali sat, mostly not really knowing what to do with herself. Ever since they had forged their way down through the Blooming Rot to the strange rift at the bottom of Naia’s dungeon and accidentally drawn the attention of Nevyn Eld himself, she had not had a moment’s rest. Everything since had been a cascading torrent of rapidly unravelling emergencies and a mad scramble simply to survive.
+
+She had been brutally ripped from her home and her domain and cast out into the Abyssal Realm with no hope of returning. Forced to fight for her life with no time to grieve the loss of Lira, she had clawed her way back from the brink of annihilation with only the tiniest spark of her domain.
+
+But her friends had not forsaken her, questing tirelessly for her rescue. She glanced about to find them still sitting nearby. Due to their grit, sheer bloody-minded persistence, and no small amount of luck, they had prevailed, rescuing her from her predicament.
+
+But now the Blooming Rot dungeon was gone, and she could feel the last remnants of its domain mana being absorbed into her own as she hunted it down in every nook and cranny of the Grand Library Arcana below them. She had returned from the Abyssal Realm, restored her dungeon, reunited with her friends, and somehow, in a way beyond logic or reason, a tiny hope had been kindled within her heart that there might be a way to save Lira.
+
+It’s going to be a lot of work, though, she thought. She had no idea how to even start figuring out a phylactery. But first, she would restore Ryn to the library, and perhaps she could help with the research. Then, there were all the townsfolk who no doubt wanted to return to Myrin’s Keep. Rebuilding it was going to be an enormous amount of effort. And her dungeon was in a total shambles, she had dropped the highest-level bosses willy-nilly, and almost all her plants were repossessed rot plants from the squatter that had invaded her home.
+
+She looked at the Grimoire floating in the air beside her, gold and green sparkles dripping from it as it shimmered in the dark cavern. It was nearly a third larger, and most of the new stuff she hadn’t even had time to study yet.
+
+“Come, Ali,” Malika said. “Let’s go get you some rest.”
+
+Ali wanted nothing more than to collapse in her bed and forget the world for a week, but her apartment was gone, consumed by Blooming Rot, and she would need to rebuild it first. Still, that wasn’t the highest priority right now.
+
+“I’d love to, but there are a few things I need to take care of before we finish up,” Ali said. She had wiped out Blooming Rot and claimed her area for herself, but it was woefully unguarded. In their rampant rush through the dungeon, she had learned the value of raid bosses for anchoring and preserving a domain. Lessons she would never forget.
+
+“Will you need the portal?” Weldin asked.
+
+“No, I can take care of it,” Ali said.
+
+“Very well. I look forward to seeing you upstairs,” he said, inclining his head to her. Then he vanished, taking his Gate with him. Ali quickly inscribed a locus and a teleport circle to the refugee town above ground and surveyed her domain.
+
+I can start with this boss, she decided, sending mana into the Grimoire as it riffled rapidly through its pages to reach the tree chapter, and a few minutes later, a giant treant appeared in the open space before her. “That’s mine,” Ali said, reassuring her friends that no crazy respawn hijinks were happening, and they weren’t facing an unexpected fight.
+
+Malevolent Lirasian Oak – Ancient Treant – level 157 (Nature / Death).
+
+“What does it do?” Calen said.
+
+Ali shared the skills and attributes with him.
+
+“So, then, the boss would have had…”
+
+“Give me a moment,” Ali said, cross-referencing the giant tree’s status sheet with her grimoire and what she knew of the boss. With only a few minutes of work, the two of them managed to reverse-engineer something that had to be pretty darn close to the status sheet for the boss they had just defeated.
+
+She shared it with her friends.
+
+Race: Ancient TreantActive Buffs: Oak Heart, Dark Restoration, Champion, RespawnClass: Malevolent Lirasian Oak – level 207- Branch Strike – level 151Stamina: Melee attack for weapon damage +3194% [skill + strength].Stamina: A heavy crushing blow which does weapon damage +6237% [skill + strength x 2]. Chance for critical damage is increased by +151% [skill]. Recharge: 30 seconds.Physical, Melee, Area, Strength- Treant Melee – level 132You are proficient at fighting with your branches and roots. You can fight equally well in all directions and can make up to three simultaneous melee attacks.You are immune to knockback and stun.Stamina: Block a Melee attack, reducing damage taken proportional to strength and skill. Blocked attacks cannot cause critical damage.In addition to your normal critical strike chance, your enormous strength grants a chance to do critical damage on crushing blow.Physical, Melee, Mastery, Strength- Oak Heart – level 128Mana: Your Vitality, Strength, Endurance, and Wisdom are increased by +250.2% [40 + skill + base wisdom / 10]. Reserve: 20%Nature, Buff, Wisdom- True Sight – level 176You have True Sight with a 360-degree field of view.Nature, Perception- Compost – level 98Gain +49% [skill / 2] of your Death damage as mana over 30 seconds.Stamina: Consume an organic corpse, returning 9.8% [skill / 10] of its maximum health as mana over 30 seconds. Range: Touch.Mana: Channel mana to a nearby ally. Channeled. Range: 394 meters.Nature, Death, Mastery, Vitality, Wisdom- Core of Rot – level 103All death and nature damage is increased by +390% [skill + wisdom / 10].Mana: Imbue any attack to do additional rot (Death + Nature) damage.Nature, Death, Ranged, Melee, Support, Mastery, Wisdom- Rot Bolts – level 115Mana: Fire a bolt of rot (Death + Nature) at all enemy targets in range. Range: 667.5 meters. Minimum Range: 55 meters.Nature, Death, Ranged, Area, Wisdom- Tree Stride – level 83Mana: Teleport to a nearby tree. Range: 349 meters. Recharge: 20 seconds.Nature, Movement, Wisdom- Dark Roots – level 99Mana: Grow death magic enchanted roots throughout the area. The roots automatically make crushing or piercing melee attacks on nearby enemies, and grapple on hit to reduce movement. Range: 138.95 meters.Stolen story; please report.Death, Melee, Area, Strength- Dark Restoration – level 87Mana: Heal the wounds of your target. Range: 54.15 meters.Mana: Project an aura of Restoration around you that heals all allied plants. Health gain decreases with distance. Reserve: 10% Nature, Ranged, Area, WisdomDomain Magic- Damage Multiplier: x3 to all attack and spell damage. - Clone: x4. - Mass Summoning (Treant). - Elemental Storm (Death). - Retaliation Trigger (Tree Stride). Aptitudes- Nature (Affinity): +125% spell power to Nature magic. - Death (Affinity): +100% spell power to Death magic. - Languages: Sylvan, Plant. - Resistance (Racial): +50% Resistance against Death or Nature damage. - Vulnerabilities (Racial): +50% extra damage from Fire. - Ancient Vigor (Racial): +207 to Vitality.Attributes- Vitality: 3869 (+2764)- Strength: 3043 (+2174)- Endurance: 2468 (+1763)- Dexterity: 203- Perception: 445- Intelligence: 338- Wisdom: 2878 (+2056)Armor: 2980Physical Damage Reduction: 33.95%Resistance: 2980Magical Damage Reduction: 33.95%Health: 580350/580350Stamina: 370200/370200Mana: 302190/302190 (+129510 Reserved)
+
+“Wow, that’s ridiculous,” Mato said, breaking the stunned silence.
+
+“Wow is right,” Seth said. “How much do I need to level up so I can use that for a specter?”
+
+“Do you mind if I share this with Lyeneru later?” Calen asked.
+
+“Sure, go ahead,” Ali said. Amid the chatter that broke out among her friends, Ali studied the monster’s skills, familiarizing herself with the Ancient Treant, trying to get a general feel for it. There were several rather useful-looking abilities – it was one thing facing the treant as a foe but, studying it with an eye to using its skills to her advantage gave her an entirely different perspective.
+
+“Are you thinking about using them as a mana battery?” Calen asked, easily intuiting the train of her thinking.
+
+“Yes,” Ali said. The Compost skill was extraordinary, allowing her to refill any of her monsters, or even her friends, with mana whenever she needed, while also providing a great way to replenish mana similar to her own Deconstruction skill. “But I’m also thinking sentry,” she added. Her instinct had been to summon a troll to guard the library, but after seeing the status sheet of the treant, she had changed her mind.
+
+“True Sight?” Calen asked.
+
+“Yes.” One of her long-standing fears was stealth and invisibility, and the inevitable Ambush that came with that whole strategy. With her racial disadvantage to her maximum health, she had always been extremely vulnerable to surprise attacks. Short of living inside a bubble, she had prioritized many diverse perception skills, deploying them strategically throughout her dungeon, providing sentinels and early warning signals. Now, if she had time on her hands she could really think this through and even work on actively leveling specific minions, but time was a luxury she could not afford. She needed the best protections she could afford, right now – if only for a bit of peace of mind.
+
+“Seems like a great idea,” he said, his eyes soft upon her.
+
+Ali dropped her own gaze, embarrassed and grateful in equal measure. Right. To work.
+
+True Sight was exceptional. When she slipped her awareness into the tree, sharing its perception skills, the entire area immediately became clear to her. Ambient light seemed irrelevant – she could see shadows, but they had no impact on her ability to resolve details within even the darkest corners. She could see through stealth like it wasn’t there, and even a quick test showed she could see Calen when he went invisible, too. And the sight was always on, the tree had no eyes to blink with, and she could see in all directions simultaneously.
+
+All of this came packaged with a pair of druidic-style, nature-affinity healing skills, solid melee abilities, and a powerful anti-swarm ranged area damage skill. It was also a fixed-class large monster with twenty attribute points per level, and a primary attribute of vitality. If she ever needed health desperately enough to sacrifice her perception buff, this would be the perfect monster to use with Empowered Summoner – a great way to counter Ambush even in remote areas.
+
+“It’s just a little slow,” Ali said, watching the giant monster uproot itself and lumber around. The massive, dark form of the Malevolent Oak stomped aimlessly around the blasted remains of the twisted forest that the Blooming Rot had left behind, creaking loudly as its boughs waved in the air. A surge of dark mana flared within it, and it vanished, appearing next to a distant oak to continue its exploration.
+
+“Tree Stride is good, though,” Calen said, his eyes also tracking the huge monster as it wandered aimlessly around. “If you use it in a forest or a jungle. A twenty-second recharge is long for a combat teleportation skill, but that range is enormous.”
+
+“It’s a good thing we suppressed teleportation,” Ali said, studying the skill. She couldn’t imagine how they would have fought a monster that could move almost three hundred and fifty meters every twenty seconds. Even without the chaos of teleporting everyone that hit it, that ability alone would have made it a giant chore to keep up with. Can I make a portable suppression? she wondered. If evolved monsters were going to show up with such powerful movement skills, it might become essential. She made a note to ask Ryn – it might be possible to find a way to evolve her Disruption and Dismantle into some sort of magical suppression skill, but that would be a long-term project for certain. At least, something to think of when she was rested.
+
+Anyway, it’s time to put my dungeon back in order. Starting with this. Ali teleported, switching with a nearby Glitter Dragonet, but attaching her massive, errant Malevolent Oak to the spell, bringing it right to the spot she wanted. Right in front of the library entrance.
+
+“You will be the new library guardian,” she told it, placing a hand upon its gnarled bark. It rustled its leaves and waited.
+
+Domain Respawn applied to Malevolent Lirasian Oak.Raid Domain Enhancement applied to Malevolent Lirasian Oak.
+
+Ali didn’t feel the need to test out the new Champion enhancement yet. For her purposes, a raid boss would suffice. For a few moments, she reviewed the fight they had just experienced, going over it in her mind, and the attributes of the dark monster towering over her, and then she decided to put her own spin on it.
+
+Elemental Storm (Death) applied.Summon (Sylvan) applied.Retaliation Trigger (Rot Nova) applied.Domain Enhancement complete.Your reserved mana has increased by +2648.
+
+“Raid boss?” Calen asked, his eyes betraying his obvious curiosity.
+
+“Yes,” Ali said, sharing the abilities she had granted it. “Its reservation is more than twenty-six hundred,” she said, wrinkling her nose. It was a ridiculous amount of mana, but that was the price of a max-level raid boss.
+
+“That’s… a lot!” Malika exclaimed, raising her eyebrows.
+
+“Oh, clever,” Calen said. “Rot Nova retaliation is a good cover for the minimum range limit of the bolts.”
+
+“Yep, I thought so too. The Sylvans should be a much more useful summon.” Granting her boss the ability to summon archers, druids, and warriors would make for a very robust encounter, and she had quite liked the power of the death-affinity Elemental Storm, so she kept that.
+
+Not only that, but now nothing could sneak into the library without her being aware of it. At least, not from this entrance. She still had a lot of work to do before her dungeon was restored, but this was a good start.
+
+And I also have a Vitality boss for Empowered Summoner, should I ever need it.
+
+“Ok, I’m done for now,” Ali yawned, feeling the exhaustion really beginning to set in. “Everything else can wait for tomorrow.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

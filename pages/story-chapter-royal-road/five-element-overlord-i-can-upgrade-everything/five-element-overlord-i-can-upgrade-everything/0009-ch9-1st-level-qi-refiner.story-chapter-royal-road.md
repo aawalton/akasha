@@ -1,0 +1,129 @@
+---
+id: 825d7d63-c7e6-5eb9-b2f1-301e3854504a
+page-type-slug: story-chapter-royal-road
+title: "Ch9 1st Level Qi Refiner"
+slug: 0009-ch9-1st-level-qi-refiner
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 9
+ownLength: 1396
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211632/ch9-1st-level-qi-refiner"
+royalRoadId: "3211632"
+---
+
+Chopping wood today is easier than it's ever been before.
+
+The air is fresher, my body moves with less resistance, and the axe cutting through trees feels sharper.
+
+I fill up my metal bin halfway through the day, when I would normally go to the stream for a break.
+
+So, when I come back, I walk inside my hut and sit down while the sun is still high in the sky.
+
+There is no point in overworking; the best thing to do is focus on my cultivation with the time I have.
+
+With a swift movement, I pull out a small spirit fragment and the last remaining upgrade card in my storage space. A flash of white light appears in the hut, and a heavy spirit stone drops into my open hands.
+
+Now, with cleansed meridians and the knowledge and experience of cultivating ambient qi last night, the stone in my grasp is yearning to be absorbed. I instantly close my eyes and begin my breathing techniques to start circulating the energy in this stone.
+
+A rush of white-hot qi flows through my hands, down my wrists, and into my chest to eventually circulate around my body with ease. Large amounts of the energy stay and consolidate in my chest, as it feels like invisible flowing fields of energy are refining it and holding it in place.
+
+The energy flows are innate, like second nature, but I'm certain this is my soul containing large amounts of qi that would normally leave my body after one circulation.
+
+I mentally think back to the basic qi cultivation booklet and its details of energy flows. It stated: After a single cycle, all of the qi that could not be siphoned through my spirit roots and captured in the dantian has to be let go back into the atmosphere.
+
+Yet, this technique gained from the system is very different.
+
+I zone out and only focus on cultivation, allowing my instincts to take over before I become too distracted.
+
+–
+
+About 30 to 40 minutes at a time is my limit.
+
+While holding a spirit stone, I'm able to absorb over 10 times more qi in a single session than I would without.
+
+Over the next few days, I manage to cultivate in the morning, midday, evening, and sometimes when I wake up in the middle of the night. Four times per day is about my limit.
+
+With every passing day, the hot sensation in my chest grows. It makes every movement, action, and detail of my life more vibrant and easy to complete.
+
+There are days where I fill up my metal bin with chopped wood within 3 hours. Many days, I finish before even hearing my neighbor start chopping wood.
+
+The large spirit stone I've been cultivating with shrinks and becomes slightly duller every day that I drain its energy. By the 7th day, it completely goes dark and crumbles through my fingers like grey dust.
+
+During my next session, I try to use one of the spirit fragments I've been paid with to cultivate, but within about 20 minutes, half a session, the tiny warm gem disintegrates into unusable dust.
+
+Instead of wasting the fragments I've saved up, I decide to cultivate with only the ambient qi in the air for the next 3 days.
+
+It is painfully slow compared to the hot streams of pure qi I've grown used to pulling out of a spirit stone. I feel completely unsatisfied at the end of every cultivation session, but still hold a routine.
+
+The familiar ringing sound echoes in my inner ear when I wake up in the morning.
+
+[Ding!][Pre-Qi Refiner Check-In Time threshold met.][Would you like to Check-In?][YES] [NO]
+
+I choose yes with eager anticipation.
+
+[Ding!][Rewards have been deposited into your storage!][x1 Perfect 1st Tier Upgrade Card][Please wait 10 days to Check-In again.]
+
+A bronze card materializes in my storage space.
+
+Without waiting even a full second, I select a spirit fragment and upgrade it to a heavy white spirit stone.
+
+The first morning cultivation session back is a refreshing return. Moving forward, instead of 4 sessions per day, I limit myself to 3. This is to make sure the stone can last me a full 10 days until I know I can upgrade another one.
+
+There are only two constants in my life right now.
+
+The first is my wood chopping and cultivation routine. The second is the certainty that Tang Min is going to get beaten unconscious.
+
+I've witnessed plenty of workers like him in my previous life.
+
+They blame the world for being unfair, rather than accepting that we live in a hierarchy and system made up of many moving pieces. Taking advantage of the weaknesses in the cracks is the only way to progress.
+
+Seeing this young kid sulk about every morning only motivates me to work harder.
+
+Some days he even wanders into my camp or stares at me with puppy eyes when I take breaks to go to the stream.
+
+Yet, I don't entertain him or respond at all when he tries to get my attention.
+
+There are more bruises on his face and body every day, and he works less and less.
+
+The only hope I have of exploiting this situation is that the one who has made this kid his punching bag doesn't turn on me. I don't want to get on the wrong side of my superior until I'm certain I can fight back.
+
+–
+
+A full month passes.
+
+I've timed my cultivation sessions perfectly and can make a spirit stone last a full 10 days each time.
+
+I just finished absorbing my 4th stone and signed in for a fresh new one.
+
+Today, I can feel that it is going to be different.
+
+There has been a high pressure building up in my chest that feels like it has been at its breaking point for the last few days.
+
+However, I didn't want to follow the next steps ingrained in me from the Jade Purity Soul Scripture until I was certain I had enough raw energy to pull it off.
+
+With the sun newly risen and the birds still chirping, I sit in the center of my hut and close my eyes.
+
+My two souls tightly bind all of the qi I've been absorbing through my meridians over the many passing weeks. I can feel the thin meridians I cleansed still holding their vibrant state even after all this time has passed.
+
+The forceful nature of my cultivation technique that pushes qi back through my meridians many times over until finally siphoned into my dantian leads to constant overflow. Large amounts of qi that would normally seep back out into the atmosphere settle into my flesh, blood, muscles, and bones instead.
+
+All of the qi that was successfully siphoned into my chest feels like it is compressing in on itself, and my malleable mist-like souls are helping it do so. There is already an invisible casing that holds it all together, the dantian, but now all the qi I've cultivated has reached a point where it physically pools together.
+
+Portions of the flowing energy start to pour into the invisible dantian's walls and ignite it into a translucent white glowing orb in my chest.
+
+Something that was innate sparks to life and tethers my meridians end points to my wood, metal, water, fire, and earth-based spiritual roots. It creates permanent pathways. They felt fuzzy and disconnected before, as I had to rely on the Jade Purity Soul Scripture's instincts to find these five roots.
+
+Now, as hot white qi flows through them, tethered to the walls of my dantian, they become a part of my consciousness, another extension of myself.
+
+This consolidation sends shockwaves of energy through my entire body.
+
+My vision shifts, a buzzing sound echoes in my ears, and I feel a jolt of pain mixed with pleasure tingling throughout my whole body. The fresh new spirit stone in my grasp is completely drained, disintegrating into grey dust between my fingers.
+
+I inhale a deep breath in, let it out, and instantly everything feels different.
+
+Reality around me is warmer, sharper, and more beautiful...
+
+Before I can even inspect my body to feel the difference, another ringing sound fills my inner ear.
+
+[Ding!][Congratulations! Side Quest Complete: Become a 1st Level Qi Refiner!][Collect Your Rewards!][YES] [NO]

@@ -1,0 +1,195 @@
+---
+id: 86d42b25-91cb-593a-88de-d14f97866558
+page-type-slug: story-chapter-royal-road
+title: "Chapter 378: A Tattoo for Naia"
+slug: 0415-chapter-378-a-tattoo-for-naia
+partOf: dungeon-of-knowledge-complete
+position: 415
+ownLength: 3316
+unit: words
+ownProgress: 3316
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2602036/chapter-378-a-tattoo-for-naia"
+royalRoadId: "2602036"
+markedReadAt: "2026-06-29T20:26:04.857Z"
+---
+
+“Thanks, Aliandra,” Vivian said as they both emerged from the quiet meeting room and into the bustling chaos of the guild hall. People were chatting loudly about half a dozen different subjects, sitting in the lounge or the bar, or clustered up around the jobs board. Even the guild store had a line of people waiting for Weldin’s attention.
+
+The whole guild was celebrating their achievement in wiping out Alexander Gray and the Lyton Ruins dungeon. Someone had even hung cheerful banners, but for those running the guild, it had created an enormous amount of work. There were piles of reagents that needed to be sold, items to be repaired, or equipment upgraded. With such a large number of fresh gold ranks in the guild, the jobs board was an obvious destination of interest. All of the crafters reportedly had a waiting list for work.
+
+“Oh, Aliandra,” Mieriel said, glancing up as the two of them emerged from the room. “Willow wanted to see you about your quest, she’s over in the store right now.”
+
+My quest? Which one? Ali had several things lined up on the jobs board right now: dozens of plant or monster collection quests and several item quests, all to help with the management and expansion of her dungeon. The problem was, she couldn’t quite guess which one the Beast Tamer would have picked. Getting a nod from Vivian, Ali flew off, taking advantage of her barrier disk to zip over the crowds to cross the room. Much more convenient than trying to push past at everyone’s waist height!
+
+Even though the guild store was bustling with people, Cami, the enormous Timber Wolf who had bonded with Willow, was preserving a small island of space around the two of them as they browsed. Easy to spot. Ali swooped across and descended into the open area beside them.
+
+“Hi, Willow,” Ali said. “Mieriel said you wanted to talk to me?”
+
+“Oh, Aliandra,” Willow greeted her, unsurprisingly not startled given her companion’s incredible senses. “Yes, I have something for you.” With that, she retrieved a small vial filled with a dense blue liquid that seemed to swirl slowly on its own, radiating a potent aura of water-affinity mana. “Is this suitable for your quest?”
+
+What is that? Quickly, Ali identified the vial.
+
+River Serpent Ink – Ink – level 89 (Water)
+
+“Oh, perfect!” Ali exclaimed. “And you got a high level on it too! How did you manage that?” The ink was at a higher level than Willow.
+
+“Cami and I hunted about thirty river serpents up in the northeastern part of Toria. I took the essences to Serendipity Puddlecrash in the academy, and she was able to process them into the ingredients Teharissa wanted.”
+
+“Oh, that’s great. How is Serendipity?” Ali hadn’t seen the gnome water mage in ages – not since she had decided she was better suited for non-combat crafting jobs and transferred to the Novaspark Academy.
+
+“She was very happy to have some unusual work,” Willow smiled. “You know how she is, always curious. She said she even gained two levels from it.”
+
+“Well, this will do perfectly,” Ali said, accepting the small vial and signing the release of funds for a completed job. Mieriel would make sure she received the funds Ali had put in escrow for the request.
+
+“Do you mind if I ask what’s so important about this ink that you’d pay a hundred gold and expenses for it?”
+
+“I don’t mind,” Ali said, smiling at her. “Do you remember Naia?”
+
+“The slime dungeon?”
+
+“Yes. She is a good friend, but she’s unable to wear normal gear, as you might imagine. I wanted to see if I could make a tattoo for her instead,” Ali said. “But I don’t have any water-affinity monsters of a high enough level for the ingredients.”
+
+“Do you want any of these, then?” Willow asked, producing a strange, whirling cerulean torus that radiated a dense aura of water-affinity mana. It hovered above her hand, casting shimmering ripples of refraction from the store lights overhead. Several nearby shoppers gasped.
+
+Elemental Core (Water)
+
+“Oh, wow! Do you have any more?” Ali asked. It looked like someone had taken water from a hosepipe and linked one end of the stream back to its source, making a self-contained loop feeding itself with a never-ending flow that hovered in the air. She couldn’t tell from the core precisely what kind of elemental it had come from, but it was a very poorly represented affinity in her dungeon. All she had were a couple of slimes and a water-affinity mushroom.
+
+“Sure, I collected thirty,” Willow said. “Your gather quests weren’t specific about elementals, so I just wanted to check with you before selling them to Weldin.”
+
+“Can I give you thirty gold for three?”
+
+“Perfect,” Willow said, producing two more and offering them all in exchange for a pile of gold coins that Ali produced from her ring.
+
+Variant: River Serpent added to Imprint: Elemental.
+
+“I got a River Serpent,” Ali exclaimed, delighted at the sight of the notification. “Thank you!”
+
+“Where will you put them?” Willow asked.
+
+“Probably in the lake,” Ali said, suddenly noticing a ripple of attention as adventurers’ ears pricked up across this entire side of the store. With a sudden sense of mischief needing to be unleashed, she put her hands on her hips and said loudly, “I really think I should change it all up, wouldn’t you agree, Willow?”
+
+“Eh?”
+
+“You know, redesign stuff, create a bunch more surprise bosses and challenges – it’ll be such fun!”
+
+Half the room groaned.
+
+***
+
+“Are you ready?” Ali asked.
+
+“Will it hurt?” Naia asked.
+
+“Maybe a little,” Ali admitted. “But Malika will heal you if there’s a problem.”
+
+“Ok.” The little slime quivered, literally, but she sidled up to Ali on the table and offered her membrane to the needle.
+
+“Here we go,” Ali said, dipping her needle into the ink vial and beginning her work. She settled into the flow, tracing the runes with her needle, filling them with mana, and slowly but surely the tapestry of the formation appeared at her fingertips. More than an hour passed in a blink, and Ali only looked up when the final rune began to glow.
+
+You have lost experience.Calligraphy has reached level 13 (+3).
+
+Ali winced at the sudden discomfort, but she had been expecting it – and it was for a good cause. Carefully, she inspected her work.
+
+Sigil of The Illusory Wave – level 85Soft blue flowing runes shimmer under the membrane.+52 Intelligence.+41 Wisdom.+20 Vitality.+2 to skill level of Water skills.+2 to skill level of Illusion skills.+240% to Minion Health Regeneration.Reserve: 340 mana.Requirements: Intelligence 298.Created by Aliandra Amariel.Body
+
+“Ooh, that’s pretty,” Naia said, shifting and writhing as she examined herself with her unusual senses.
+
+“I hope it helps you in the fights,” Ali said, packing away the ink and the needle. “Can you check if it interferes with your camouflage skill?”
+
+“Ok,” Naia said, immediately turning herself into a vase. A delicately curved vessel with no sign of the softly shimmering blue water runes in evidence.
+
+“Perfect,” Ali said. She had been a little worried, but there was no long-term risk – Naia could discard the tattoo at any time if she relinquished her reservation.
+
+“Ali-friend,” Naia said, her voice turning somber, and for a moment Ali wondered what she had done wrong. But Naia changed the subject. “The last cavern – it is dangerous. Dangerous for your adventurer friends, I think you need to see it.”
+
+“Oh? Please show me right away.”
+
+***
+
+Ali’s sharp, scythe-like spider legs pierced the fungal creep as she sought purchase from the rock lying beneath to support her Abyssal Stalker body while scurrying upside down through the dark and twisted labyrinthine cavern system deep below the city of Volle.
+
+The air was hot and humid and reeked of rot, but it did not bother the demonic spider much.
+
+“This is the last cave, Ali-friend,” Naia whispered as the little shiver of her movement betrayed the fact that the nearest lump of fungal creep was, in fact, the body of a ridiculously talented illusionist pretending to be her environment. When she stopped moving, there was no way Ali had yet found to distinguish her from the damp, slowly pulsing, putrid fungal creep that infested every surface with its dripping rot.
+
+She swarmed down the rancid wall and, as she crawled out along the floor of the cavern, the scorch marks and scars of the recent battle, only partially covered by the still regenerating fungal creep, became obvious. Even as the Blooming Rot dungeon began to reclaim this space, Ali could tell how hard Aiden and his group had fought to clear the rotting tree boss that had previously claimed this cavern. At least with its destruction and scorching of the cavern, the domain had been pushed back.
+
+The guild was still riding the high after the successful campaign against the Lyton Ruins dungeon and finally destroying Alexander Gray for good. With most of the raiders having reached gold, and a strong new group rising rapidly through silver rank, the guild had leapt upon the remaining tasks with renewed zeal – Cael and Gage had a constant stream of eager teams wanting to fight shades, and the raids had systematically wiped out every boss in the Blooming Rot dungeon until only the final one remained.
+
+Ali circled around, finding a good spot near the back wall, avoiding the broad exit tunnel and the creeping, shambling shapes that were slowly gathering there. She tapped the ground with her claws, unable to speak to her friend in this form, but Naia understood. The small lump of fungal creep that was hiding in a crack briefly quivered, swelling up with misshapen lumps and growth as the ooze used her bizarre teleportation skill to summon minions directly into her body before ejecting them by dividing and splitting them off. Oozes and slimes began to crawl or slither down the wall, gathering on her spot; scores of rotting slimes, immune to the bulk of the Blooming Rot’s magic, a few sacred oozes, and several others that Naia used as support classes.
+
+“I’m going,” Ali said, addressing her friends from where they waited with her beside Tol’brekk, her most powerful raid boss protecting the second level of the Dal’mohran city ruins. They had made her promise that she wouldn’t head out into hostile territory to place the Gate without adequate protection this time. The Headhunter had certainly made her friends much more cautious – Malika in particular had insisted, not wanting to be stuck unable to help on the other side of an unconnected Gate while Ali fought for her life.
+
+“Why are we doing this complicated Gate stuff, again?” Mato asked. “We’re just going to wipe that dungeon out, right?”
+
+“Naia is worried she’s not strong enough to guard the rift on her own,” Ali said. “I’m going to make a rift guardian like Mok’freja to lock down this rift, and for that, I need my domain in that cave.” The ability to transport her domain halfway across the continent was still incredible to her, and she would certainly find amazing ways to use it.
+
+“Like the rift to the Abyssal Realm?”
+
+“Exactly.”
+
+“Naia got you covered?” Malika asked.
+
+“Yes,” Ali answered, surveying the still-growing horde of slimes Naia was spewing into the cave – if nothing else, the slimes would be more than enough to delay anything that threatened them, and with that, she switched places, using her long-range teleport and dumping the Abyssal Stalker scout back into her home dungeon.
+
+Ali’s stomach lurched uncomfortably from the disorientation of her teleportation magic, and she found herself in a cave that was vastly darker to her non-demonic eyes. She grimaced as her feet squelched, sinking into the disgusting, squishy, slimy fungal creep, and the stench of putrid rotting fungus assaulted her nostrils. Cold dampness soaked into her slippers, and her foot made a gross sucking squelch as she pulled it out to take a step.
+
+Thank goodness for Cleanse, she thought. Without the ability to eradicate the foul odor, she was certain she would never want to wear her slippers ever again – regardless of how beautiful and powerful they were. But for now, she simply gritted her teeth, grateful for her foresight to skip lunch so that her stomach wouldn’t rebel, and summoned the giant circular ring of white stone into the chamber. I just hope the light doesn’t draw any attention.
+
+The ring of white stone was vastly heavier than it looked – densely packed with magic runes, the marble and crystal artifact instantly sank through the creep, grating as it began sliding down the rocky walls, scraping the putrid fungus and filling the air with a somehow even more intense stench of rot. Quickly, Ali summoned her prepared space-affinity magicite and attached the first piece before the carefully crafted second half of her Gate smashed into the ground and brought the remains of Blooming Rot down on her head.
+
+Delicate white runes flared to life on the surface of the stone artifact, illuminating the barren, battle-scarred cave with a pure fresh radiance, and the space magic enchantments began to activate in rapid sequence. The entire edifice of heavy marble levitated slowly out of the creep, hovering just above the ground as it slowly righted itself into its final vertical orientation. There was an audible grinding clunk, terrifyingly loud in this silent cavern, as the Gate reached its proper alignment, and the enchantments locked it into place. Ali winced, but nothing came howling or roaring around the corner. What it was grinding against Ali could only guess; she was not all that knowledgeable about the subtle intricacies of space magic, but she knew not even her berserkers, with all their vast strength, could move these Gates once they were activated.
+
+She added more chunks of magicite, slotting them into place one by one, and the Gate began to hum. Sludge and the remains of the creep burned off the construct as power thrummed through it. A threshold was reached, and the air within the ring shivered delicately – a single pulse rippled out from the center, and suddenly she could see the familiar ruins of Dal’mohra on the other side and Malika’s lithe, athletic form leaping through. Tol’brekk stood guard, hefting his axes just in case.
+
+Ali knelt, summoning a barrier to protect her robes now that the Gate was open and she had the support of her friends, and finalized the attachments of the magicite to the power of her domain mana as it began billowing forth through the Gate from the elder tree within the library. By the time she was done, her friends and her army of trolls were already moving through the cavern, securing the passage in from the exit.
+
+But she still had a few details to take care of before they began. Naia’s domain was visibly strengthening throughout the cavern, brought about by the horde of slimes she had summoned, and Ali’s domain mana began filling the room, somehow not even conflicting with Naia’s even though she hadn’t done anything special to make it compatible. Naia either had a skill like hers, or something about the Mimic class allowed her to make her mana match her surroundings, just like she could adjust her body. With her Grimoire out, Ali flew to the center of the cavern and summoned a Lirasian Oak. Just the single elder tree would undoubtedly be enough to fill the entire cavern, but she also created a couple of Gage’s Arcanite Birch trees beside it, enjoying the satisfying surge of arcane mana as the trees all joined up and claimed the cavern for her domain. She was, however, rather careful to place her trees far enough from the exit passage that her domain would not mingle with the remaining domain mana of the Blooming Rot dungeon; triggering a dungeon rage at this point would bring everything that remained in the dungeon running.
+
+Grimoire of Summoning has reached level 47.
+
+Huh, nice, she thought absently.
+
+“Maybe put a boss here?” Calen suggested. “For extra protection. That Gate is two-way access.”
+
+“I have Tol’brekk for protection just on the other side,” Ali said, considering the Gate carefully. “And I can always remote deconstruct it if anything goes wrong.”
+
+“That sounds good, but…” Calen said, but he was still frowning.
+
+“Better safe than sorry,” Ali finished, and then she called out, “Hey, Naia?” Her little friend shimmied across the Creep to join them, bobbing with either excitement or anxiety. Ali could already support a boss in this space, but this was Naia’s dungeon, too. “Can you make a strong boss here and guard this side of the Gate?”
+
+“Yes,” Naia said. It certainly didn’t take long for one of the Rotting Slimes to swell to several times its normal size and settle in near her massive oak to guard the chamber. At least with a boss on either side of the Gate, they would have a safe zone to fall back to in case the final chamber of the Blooming Rot dungeon proved too dangerous.
+
+Knowing they would be facing a Mana Eater, Ali had handpicked a small force optimized around doing damage with melee classes that did not care about mana. The blood magic trolls were an easy choice, but her Bone Warrior trolls also got along quite comfortably without much mana once they had made their bone tonfas. Most of their damage came from stamina skills. She reviewed their basic stats quickly.
+
+Carnage Berserker – Giant Troll – level 108-109 (Blood) x2.Bone Warrior – Troll – level 95-98 (Bone) x2.Blood Shaman – Troll – level 93 (Blood) x2.
+
+Her second group was chosen based on the entire dungeon being mostly plants. She couldn’t very well ignore her only evolved caster, so she had two ice mages with her, but she decided to pack a decent complement of fire because the last Mana Eater had been vulnerable to it.
+
+Mage of Piercing Frost – Troll – level 102 (Ice) x2.Hellfire Imp – Demon – level 68-70 (Hellfire) x2.Fire Mage – Kobold – level 65 (Fire).
+
+Then, for utility, she brought a single witch doctor and two acolytes. Fun and surprises!
+
+Witchdoctor – Troll – level 91 (Soul).Acolyte of Azryet – Kobold – level 66 (Holy) x2.
+
+The acolytes, in particular, were turning out to be one of Ali’s most versatile minions. While the Blood Shamans could carry the bulk of the healing in this fight, her little golden holy kobolds sported three powerful healing spells, each with unique and potent characteristics, and their Cleanse skill could deal with a wide variety of ailments now that it had advanced a couple of times. All up, her little army felt quite powerful, and it had cost her a respectable three thousand mana to maintain. She would have made some of the rotting slimes she had been gifted, purely because of the immunity to nature and death, but their fifth party member was Naia, and she more than had those bases covered.
+
+“Ok, Naia,” Ali said. “Remember that once we kill the Mana Eater, you will need to claim the final cave and put your strongest boss monster in there to protect against whatever comes out of that rift.”
+
+“Scary,” Naia said, shrinking visibly.
+
+“Don’t worry, Naia,” Ali said as soothingly as she could. “I’ll be there, too. I’ll turn one of these ice mages into a raid boss to help.”
+
+“Ok, Ali-friend,” Naia said, bobbing a little. She was a tiny glowing blue core in the center of a storm of murky black and green writhing slime, and somehow Ali could sense the excitement bubbling from her membrane.
+
+“I’m ready,” Ali said.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

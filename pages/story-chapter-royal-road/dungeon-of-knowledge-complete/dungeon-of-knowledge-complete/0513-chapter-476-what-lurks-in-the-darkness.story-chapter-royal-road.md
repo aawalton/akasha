@@ -1,0 +1,137 @@
+---
+id: 2cadff11-4c5f-53e6-b956-163bcfb84270
+page-type-slug: story-chapter-royal-road
+title: "Chapter 476: What Lurks in the Darkness?"
+slug: 0513-chapter-476-what-lurks-in-the-darkness
+partOf: dungeon-of-knowledge-complete
+position: 513
+ownLength: 2413
+unit: words
+ownProgress: 2413
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2849987/chapter-476-what-lurks-in-the-darkness"
+royalRoadId: "2849987"
+markedReadAt: "2026-06-29T20:29:39.621Z"
+---
+
+Calen landed. Quietly.
+
+Haverron was far bigger up close than he had imagined. If he had been insane enough to walk up to the ominous Death Knight, his head wouldn’t even have come up to the height of his rune-encrusted greatsword’s hilt.
+
+Calen dismissed his wings, just on the general principle that Eclipse would be able to conceal him better without them, or at least cost less. But still he hesitated, the sight of the powerful undead and the piercing blue glow coming from his shrouded eyes giving him pause. This was a true specter of the ancient war – an infamously legendary general of the Blind Lich himself, reputedly responsible for laying waste to cities and entire kingdoms.
+
+It’s not going to get easier, he told himself, knowing he was trying to psych himself up for what he needed to do. He didn’t have any reason to believe the monster would see through his illusion, but it was one thing to claim such a thing, and quite another to put his life on the line. His inner eye flickered anxiously through his stored possessions, making sure he was familiar with the location of his escape potion, and then he finally took a silent step forward.
+
+Calen crept out from under the cover of his building, stepping out onto the open plaza, taking care to avoid any runes, but never once taking his eyes off the towering Death Knight standing in uncanny stillness at the center. His heart in his throat, Calen snuck across the open ground. The skin along his back and neck prickled with the uncanny sensation of being watched as he moved forward, exposed, without a building to hide behind or shadows to crouch in. Step after painstaking step he took, choosing a long, circuitous path that closed in upon his goal, while maintaining the maximum distance from the boss, all the while painfully aware of the roaming patrols in the streets nearby.
+
+But to his intense surprise, the only things that moved were the flowing ripples in the black cape, presumably blown by the dense, frigid mana that billowed outward from the Death Knight in continuous waves of cold. Never once in his cautious evasion did the boss register his presence, and after several minutes, Calen stepped out of the shattered city and through the giant arched doorway into the passage beyond. He let out a ragged breath, letting his shoulders drop.
+
+Two shadows flitted into the hallway behind him. Calen nodded to them, sharing a silent moment of relief with Ali.
+
+Quickly, Calen darted through the hallway, emerging into a dimly lit chamber hundreds of yards long with an impossibly high vaulted ceiling. Created from the same stone as the ruins outside, this chamber featured several black altars with bones piled upon them or scattered in disturbing heaps along the ground. Impressive murals spanned the walls, incredibly well preserved, and a crimson carpet ran the entire length of the room. Lines of glowing runic script were etched into the ground, forming concentrated patterns embracing the altars. At the far end of the chamber, he could make out several doorways leading further in.
+
+Calen stood just inside the doorway, his eyes systematically scanning the room. As he studied the chamber, something floated in through one of the open doors at the far side.
+
+Frozen Skull Sentry – Elemental – level 183 (Ice)[Explorer]A glacially blue ice elemental in the shape of the skull of an indeterminate species.
+
+Category: Dungeon Spawn.Threat Level: Normal.Monster Type: Elemental.Damage: Ice.Known Abilities: Levitation.
+
+Seemingly made entirely out of ice, the skull hovered about four feet above the ground, radiating an intense blue light into the room. It slowly turned as if scanning the area, and, operating entirely on instinct, Calen ducked behind a broad stone pillar. He had no idea what skill the monster was using, but it was visibly blasting mana into the room. Testing his stealth against an unknown sentry monster in the highest-level dungeon he had ever explored would be tempting fate far more than he was comfortable with.
+
+The mana shone through the room, like beams from twin Glowstones, only blue, and far more potent, reaching to the corners of the room before passing smoothly across his hiding spot and continuing its rounds. The monstrous skull spun on its axis and, presumably finished with its scan of the room, floated off through a different doorway.
+
+Hmm. It didn’t look up…
+
+Calen considered his options briefly, but his choice was hardly difficult. He manifested his wings and flew across the rest of the chamber, keeping his body well above six feet off the ground, eager to avoid any further encounters.
+
+As he considered leaving the chamber and which door to pick, something caught his eye. A small flutter of off-white trapped against the wall by a dark iron sconce. He flew over to find a scrap of paper, clearly torn from some ancient book, that had been wedged there as if begging to be found.
+
+Suspicious?
+
+He checked everything, but there were no signs of strange mana formations or unusual features, nor could Explorer tell him anything interesting about the sconce or the wall, so he carefully reached out and took the page. It was blank, but when he turned it over, he found spidery Elvish writing scrawled upon it in a strange, brittle-looking black ink.
+
+They are watching. The eyes… they see everything. Unspeakable eldritch monstrosities slithering through the shadows, always whispering; secrets of power and promises of release.I cannot see them. I must not look… But they are here. In my very mind, infecting my thoughts – I feel them writhing, creeping, crawling inside. I scribble my warnings on these pages, but for what? Everyone is dead.Or worse. They are coming for me. I must get out…
+
+Calen shivered, breaking into a sudden cold sweat as he felt the paranoia and fear leap from the page in his hand.
+
+Is this blood? He ran his finger gently across the erratic script in ancient, crumbling ink, but it seemed far too old for him to tell.
+
+He stored the page, the first sign that anyone had ever lived here, deciding to discuss it with Ali later, and took off, heading cautiously deeper into the dungeon.
+
+The chambers and passages seemed endless, but he methodically committed them all to memory, noting the layout, the placement of the runic formations, the altars, pillars, and also the approximate routes of the Frozen Skull Sentries whenever he encountered them. He was certain it would take him days to commit it all to a decent map, but that would be a fun task for later.
+
+It was while considering his map that he passed through an open archway and found himself in a vast amphitheater. It was a hemispherical chamber so large that the domed roof arched away to invisibility in the darkness. Instead of the usual hollow, the amphitheater floor rose in terraced levels, like broad circular steps, till it reached something of a dais or apex in the center. The room itself was entirely devoid of monsters, but his eyes were instantly drawn to the center.
+
+A column of flickering black light rose like a banshee’s veil from a stone-wrought pool. Strangely indistinct black ribbons or tendrils waved and reached out into the distance somewhere beyond this realm, visible to him only by his realm sight. Runes etched into the stone-walled edges of the pool shone with brilliant radiance, the only source of light in the entire chamber, but the waters within were almost black and mirror-still.
+
+Is that… Calen squinted at it, lamenting his inability to identify artifacts or items, when suddenly his chimes sounded.
+
+[Explorer] You have discovered the Well of Eternity.
+
+You have greatly increased the reputation of your patron.
+
+That means… these are the ruins of Mi’ir Valdanis? He stared around at the sculpted stone walls, the amphitheater, and the intricate glowing mithril runes in awe. Mi’ir Valdanis had been lost to the world for thousands of years – vanished during the Breaking, a casualty of the Necromancer Wars.
+
+And he was the first to set eyes upon its legendary streets.
+
+His chime sounded again, confirming his guess.
+
+[Explorer] You have discovered Mi’ir Valdanis, The Lost City.
+
+You have greatly increased the reputation of your patron.
+
+Calen’s heart raced as he feasted his eyes upon the splendor of the ancient Night Elf capital, stripped bare of everything and playing host to the Lich’s dungeon, but nevertheless, a priceless artifact of ancient history.
+
+I can’t wait to tell Lyeneru.
+
+He spent far too long simply hovering there, drinking in the sight of the legendary well and the city itself, before he began to move. He circled the outer rim of the chamber, keeping himself far from the strangely ominous dark energies that seemed to be siphoned continuously from the well, drawn upward and outward to an inexplicable purpose – as if some eldritch being dwelled in the dark waters, reaching through the spirit realm to fish for prey.
+
+He shook it off; the paranoid scribbles had affected him more than he had thought.
+
+“Ali,” he whispered to the shadows nearby. “That is the Well of Eternity.”
+
+“Are you sure?” the whisper came back in sibilant draconic, filled with palpable excitement and astonishment.
+
+“Yes,” he said, sharing his notifications.
+
+“I need a vial to free Lira from her acorn,” she said.
+
+“I can get it,” Calen said. Carefully, he retrieved an empty potion vial – one of the discards from his Ice Protection elixirs and began to fly down toward the dark, mirror-like waters in the well.
+
+“Calen, wait!” The whisper was urgent and brought him up cold. “There is… something. Let me go first.”
+
+“Ok,” he said, wondering what the Shadow Dragon had seen that he could not.
+
+The dark patch of shadow twisted and warped away from the alcoves and shadows along the wall and slowly floated down toward the well. Calen watched it, tracking it more with his Sense Prey than any actual visual feedback, so good was its Shadow Meld stealth skill. But when it was still several yards from the dark well, the world suddenly lit with a blinding light as dozens of dense bolts of lightning pierced the Shadow Dragon, filling the room with a deafening peal of thunder that shook the foundations of the ruined city. Despite his affinity, Calen was left momentarily blinded by intense afterimages burned into his retinas and shaken by the shockwave.
+
+He blinked furiously; his sight was slow to recover. Throughout the area around the pool, shimmering forms of ethereal black flame floated, drifting about as they filled the air with an insistent hissing sizzle, while every now and then discharging flashes and sparks of lightning.
+
+Dark Soul – Ghost – level 209-216 (Death / Lightning) x30
+
+[Explorer]A second-tier ghost, nearly invisible and possessed by powerful lightning magic.
+
+Category: Dungeon Spawn.Threat Level: Normal.Monster Type: Ghost.Damage: Lightning.Known Abilities: Invisibility, Incorporeal, Lightning Bolt.
+
+Of the Shadow Dragon, there was no sign other than a small curl of white smoke rising into the air.
+
+As one, every single Dark Soul let out a simultaneous bone-chilling screech and surged toward him. Terror bloomed from deep in the primal recesses of Calen’s mind as he realized the blast had somehow ripped away his invisibility, and he was standing alone in a dungeon facing down a horde of undead ghosts.
+
+The cat was out of the proverbial bag, so to speak. Ignoring the intense flare of light, he flooded his wings with mana and shot off as fast as he could, but he could already tell the Dark Souls were gaining on him, surging toward him as easily as if he were taking a stroll in the park. Using the half second he had bought himself with his maneuver, he reached for his escape potion, ruing the mistake that had cut his exploration short, but then he remembered – he had one more option.
+
+He summoned a decoy. The illusion of himself fled down the hallway as Calen responded to the trigger and used Eclipse. Light bent around him, folding inward like a rose blooming in reverse and encasing him in its illusion. He juked sideways, desperately hoping these monsters did not possess any additional perception skills that might pierce his invisibility or somehow track his scent, essence, or soul.
+
+The Dark Souls shot past him with a sound like a loud sigh, close enough for him to sense the prickle of electricity as their lightning magic surged. Giant bolts of lightning cracked out, obliterating his decoy in an instant and frying his eyesight again. The school of ghosts circled the location like Sand Vultures evaluating a kill for several rotations before they slowly drifted back toward the well, but in that time, Calen had made himself scarce, putting as much distance between himself and the Well of Eternity as he was able.
+
+From the cover of the archway, he glanced back over to it. Orbiting the pool, sipping from the energy and light that streamed upward from it was a much larger Dark Soul, one flickering with far more intense lightning and death energy, waves that made his hair stand up even across the whole amphitheater. What he had just discovered was undoubtedly the second boss of this Crypt of Kings. As he watched, the Dark Souls drifted, orbiting the pool, slowly fading from even his sight, winking out one by one until the entire area was left, once again, deceptively free of monsters.
+
+That’s a nasty trap.
+
+As he turned to leave, he caught sight of a ripple across the uncannily still surface of the well, and he froze. The water splashed soundlessly, disgorging an oily black shape that floated upward into the air. Suddenly, a vertical slit appeared in the black orb, lids peeling back with a disgusting ripping sound to reveal a baleful red eye.
+
+The mere sight of it sent jagged hooks of pain clawing into Calen’s mind, staggering him and arresting his breath. The eye snapped around, fixing him with its gaze. Reality lurched around him as his mind began to fray. The surface of the well erupted in a great explosion of water and dark, lashing limbs, and something shot out toward him. His mind struggled to grasp it, failing to find purchase, unable to even understand what it was. But it was reaching for him.
+
+He fled.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

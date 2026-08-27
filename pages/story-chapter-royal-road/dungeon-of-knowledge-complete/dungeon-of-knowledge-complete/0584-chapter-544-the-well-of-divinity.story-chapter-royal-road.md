@@ -1,0 +1,303 @@
+---
+id: 1fe70dfb-6963-55ed-82bc-7d467bd33ba1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 544: The Well of Divinity"
+slug: 0584-chapter-544-the-well-of-divinity
+partOf: dungeon-of-knowledge-complete
+position: 584
+ownLength: 5258
+unit: words
+ownProgress: 5258
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3077874/chapter-544-the-well-of-divinity"
+royalRoadId: "3077874"
+markedReadAt: "2026-06-29T20:32:14.746Z"
+---
+
+Lira was dead.
+
+The truth crushed her. It loomed all around her like the shadows of dark mountains of despair. There was no way around. There was no way through. There was no way.
+
+They had battled through the Crypt of Kings, Nevyn Eld’s own personal dungeon, just to lay eyes upon the mystical Well of Eternity. Ali had risked insanity and been cursed with an eldritch Title from the Nightmare in order to secure their first vial from its waters.
+
+They had wrought defeat upon Nathaniel Sunstrider, a third-tier Archmage wraith and dungeon, liberating Ciradyl for the Wood Elves and Pathfinders after such grievous losses. They had unraveled corruption and purified the Well of Souls with a fragment of Nendir’s soul, all to secure the second vial.
+
+But here, at the end of it all, among the shattered fragments of the Thousand Celestial Peaks, she had learned to her dismay that the Well of Divinity was gone. Destroyed ages ago by the dark forces of the Lich during the Breaking, all that remained of the fabled artifact was a faded echo of the relic, memories, and the mere imprint of its weight upon the fabric of the Spirit Realm.
+
+All of her efforts had been in vain. Doomed from the start, only she’d been unable to see it.
+
+Moving through the battlefield like an automaton, Ali slowly deconstructed all the corpses; a task she always performed at the end of every battle. She went through the motions, barely even seeing her own hands or feeling the mana pouring into her spells.
+
+Variant: Sacred Guardian added to Imprint: Elemental.
+
+How will it feel? A soul, trapped inside an acorn, slowly, painfully consumed by the corruption of the Lich’s curse. Her only hope of restoration had just died with the cursed image of the Well.
+
+Azryet’s words of caution sprang clearly recalled to her mind:
+
+“You must succeed before it corrupts her, or I fear the evil that may germinate from that Acorn will be more than your realm can bear. If you cannot find the Wells, you must find a way to destroy the Phylactery.”
+
+Ali shuddered at the thought. The very idea that she would have to permanently end Lira’s soul was far too much for her to bear. I… I can’t. She sat in the middle of all the blood and dying flames and let the tears spill down her face.
+
+Malika sat beside her and reached out to hold her hand.
+
+“Why’s she crying?” Mato asked, but her dear friend’s question was just background noise to the screaming from the great wound in her heart.
+
+“She can’t get the vial from the Well, so Lira’s going to die,” Calen said quietly.
+
+“Lira’s not going to die. Ali’s going to fix the Well, right? Ali?”
+
+“Fix the…” Ali coughed as the lump in her throat sabotaged her ability to speak. The thought was preposterous, and yet it clung to her like a leech supping on the vastness of her despair. How can that – can he – I don’t understand. She stared at the image of the Well, stable, nearly solid, even when the surroundings flickered and shifted moment by moment. As if its presence, even after its destruction, was so significant that it failed to succumb to the fickle insubstantiality of this place.
+
+Beyond the image of the Well, visible out in the real world, the rubble that remained simply floated about, billowing holy mana in chaotic eruptions even now.
+
+“How…” was all she managed. The Well of Divinity. An ancient artifact that predated all records and memories. How was someone like her supposed to repair an artifact so powerful, so critical, and so important?
+
+“You fixed the Anvil. That was an artifact, too,” Mato said, joining her and Malika on the grass.
+
+“Yes… but that was different.” That had been an artifact made by a Dwarf. Moreover, she hadn’t really known what she was doing at the time. It had been a fortuitous accident.
+
+“How is it different?” Mato asked, his voice laced with an unfamiliar pleading.
+
+Ali was about to dismiss him and his ignorant idea as an unintentionally cruel joke, but the earnestness upon his face brought her up short.
+
+“I had my domain…”
+
+“But you have Gates. You can bring your domain here.”
+
+“I’m still pretty sure it won’t work,” Ali managed. How could she explain that the Anvil of the Emberforge was less than a seed to the mighty forest that was the Well of Divinity? A speck of dust to the endless sands of Brast?
+
+“But you’re going to try anyway,” Mato asked, still staring at her with unrelenting intensity.
+
+He loves her. The realization hit her like a bolt of lightning. A realization that shouldn’t even have been a surprise. Of course, he did – so many people cared about Lira. Even Azryet did, and here she was, wallowing in her own self-pity while everyone was suffering around her.
+
+“Of course I’ll try,” Ali said, forcing some measure of determination into her words for his sake. Whether it worked or not, neither of them could afford to let it go without trying everything in their power. After all, she loved Lira, too. She got to her feet, dusted off her robes, and shifted back to the real world with a flicker of her Dismantle upon the banishment curse.
+
+Then, she opened her Grimoire and made a Gate.
+
+She linked the Gate to the middle of her jungle level – somehow feeling it would be appropriate to connect the chaotic mana between the two locations and still finding it close enough to come under the protective umbrella of the suppression aura should she need it. Immediately, dense waves of mana spilled outward from the rippling surface of the Gate and bathed the island in her domain.
+
+Ali took a deep breath and then flexed her domain.
+
+Variant: Howling Reed added to Imprint: Grass.Variant: Tempest Willow added to Imprint: Tree. Variant: Storm Bloom added to Imprint: Wildflower.…
+
+Ali ignored the slew of messages and summoned five Lirasian Oak Elder Trees to encircle the ruins of the Well. They bent and swayed in the heavy winds, but they were immense trees in the second tier, and mere winds could not break them. Not even the violent winds of this magical squall. Carefully, she sank her awareness into the flow of her mana as it seeped through the chaotic holy mana and the remnants of stone. She studied the image of the Well of Divinity, comparing it in minute detail to the Well of Souls already bound to her domain. She noted every detail she could sense, every difference she could define.
+
+Then, she wielded her domain like a crafter wielded their tools. Stone flowed forth from her Grimoire, born from her mana, and sculpted into reality by her magic. She twisted it, rearranging the pieces, binding them together according to the blueprint that overlapped from the Spirit Realm. She filled in gaps, binding the chaotic eruptions of holy mana into more laminar flows and molding them into the stone walls of the Well, and with every chunk, every ancient remnant she molded, the mana flowed into her domain to be fed in tantalizing tidbits to her Sage of Learning.
+
+Her mana surged out into the Spirit Realm and suffused the Well of Divinity with the crystalline structure of her domain, and with a thought, she bound it together with the manifestation on the other side of the veil. Sweat poured from her brow as her mind stretched, saturated with magic, and the memories of the formations imbued into the Well itself. She didn’t have to create them, finding them intact in the echoes, but just the sheer volume and weight of binding them through her own domain to the rubble and boulders in the real world was nearly overwhelming. She reached for the next piece, bending it and fitting it into the whole. Another fragment of mana mingled into her domain, and another tiny glimpse of the vast vista became clear.
+
+Minutes passed, or hours. Time ceased to have meaning, as she wrought magic and wrestled with power far beyond her own, struggling to undo the destruction and the erosion of eons.
+
+She reached for the next remnant – a fragment of the well – but she suddenly found nothing remaining. She blinked in surprise, but her work seemed far from done.
+
+“What’s wrong, Ali?” Malika asked.
+
+“There’s not enough of this stone left,” she said, still surprised.
+
+“Can’t you make more?”
+
+“It’s not the stone really, it’s the remnants of the Well’s mana that I need,” Ali said. Whatever else it might be, the mana left over from the original carried the essence of the Well like an indelible fingerprint. If she could find enough pieces, perhaps she might be able to weave it all back together – at least, a tiny kernel of fragile hope within her dared to believe it might be possible.
+
+“There were more stones on the other islands,” Calen said, landing beside her. “Should we get them?”
+
+Suddenly, Ali remembered the vision Mirianth had shown her in the seconds before her kobold priest had died – an image of a rapidly approaching island floating in the storm. An island with a stone hovering in the center. A stone much like the stone fragments of the well.
+
+Ali glanced over at the freshly named Mirianth, and instantly she knew what needed to be done.
+
+“I need to link them all,” Ali said. “Can you find them for me? All of them?”
+
+“Yes!” Calen answered with a fierce grin coming to his face as his mana flared brightly within him.
+
+“Ok, I’ll need to absorb it all through my domain. Let me make a few Gates on this island and then let’s go collect the rest,” Ali said.
+
+It took some time, but when she was done, she had created an array of Gates that encircled the site that held the remnants of the Well like an elegant white marble megalithic ring. Hopefully, she would be able to link to each and every island Calen hunted down.
+
+“I’m ready,” she said, hope beginning to burn fiercely within her heart.
+
+“Ok. Just be warned: some of the islands still have live Fractured Archons on them,” Calen said. “Follow me.”
+
+“A fight, you say?” Mato exclaimed with excitement that Ali knew was only slightly exaggerated.
+
+Ali grinned and hoisted Mato into the air on one of her barriers. He yelped and stiffened, instantly transforming into his Bear Form to cling on with his claws, and then Ali pulled him along and followed Calen into the storm. Maybe I can steal that Mirror Image again.
+
+It was dark by the time Calen tracked the kobold priest’s corpse to the final island, and Ali was already exhausted from a long day, lots of fighting, and the grueling toll of wielding Sage of Learning to understand one of the oldest artifacts in existence. She stood beside her kobold minion as they stared at the splattered remains of her fall. Each island on their arduous path to this one had been filled with wind elementals or Fractured Archons, and, while Spell Steal had made many of those fights far easier, it was still a long time to be struggling through a storm.
+
+Still, the fierce determination that burned within her heart and drove her onward had only grown stronger. Her Gate appeared, spilling domain mana out into the smaller island, and no sooner had it enveloped the several-ton floating boulder leaking densely chaotic holy mana than she set to work binding it to her domain.
+
+“Ok, this should be it,” she said. I hope. She hopped back through the Gate after securing it and studied the nearly complete replica of the Well of Divinity that she had made. The collected mana from the fragments of the Well had been coalescing toward some transcendent epiphany, and Ali knew she must be close now.
+
+Carefully, she wrought new stone to finish the construction, drawing the remaining holy mana through the Gate from the boulder, and finally attaching it to the Well itself. And then she reached across the veil and merged the image with reality.
+
+How it was accomplished, she couldn’t really say. And yet the process felt somehow intuitive – her mana worked across realms, and she was burning mana like kindling to her Sage of Learning and Runic Script to restore the formations, but the veil between realms shifted, somehow becoming porous. Her mana rushed through the gaps, rapidly filling the replica she had made, drawing in the meaning, traits, mana, and imprint of the well from the Spirit Realm. There was a soft, but infinitely heavy grinding noise, and the two sides became one. The veil between realms shivered, and then the startling gong rang loud, drowning out the storm.
+
+[Realm] The Well of Divinity has been restored. Runic Script has reached level 105 (+3).Sage of Learning has reached level 112 (+4).Runic Script has reached a base skill level of 100.Runic Script has advanced to tier two.Sage of Learning has reached a base skill level of 100.Sage of Learning has advanced to tier two.
+
+“Ali, you did it!” Calen shouted.
+
+“I knew you could do it,” Malika said softly, squeezing her hand.
+
+For once, the massive beastkin had no words. Mato just pressed his knuckles to his eyes, blinking.
+
+It… worked? Oh, wow…
+
+Ali stood frozen, staring in astonishment as the Well she had been working on all day suddenly began to glow. As if the porous veil had suddenly manifested in reality, water began flowing through from the other side, filling the Well, and within moments, the water reached the top, stilling to a mirror surface, and slowly beginning to shine with the intense, radiant light of holy magic.
+
+A burst of holy magic shot forth from the Well, bathing her Grimoire with light.
+
+Variant: Divine Archon added to Imprint: Celestial, Elf
+
+Just like before, her shrine reacted. Like an echo from the Spirit Realm, she heard the disembodied voice of the Divine Archon speaking like a memory once again.
+
+“Protect the Well!”
+
+Ali shivered, and the light dimmed like a dense, black cloud had just passed across the sun. An array of more than a dozen crimson eyes flickered into being in the air to the sound of loud popcorn bursts. Every last one of them swiveled to fix her with a mind-withering gaze, but before her defenses could buckle, Malika moved.
+
+You have gained Clarity.
+
+A hail of arrows filled the skies, followed by detonations of flame and lances of ice, and the eyes vanished, entirely obliterated by the storm of magic. But it was not over. A massive dark formation of death magic coalesced into a pillar of rapidly condensing power. A vertical tear ripped downward through the fabric of reality and then expanded outward like a great eldritch eye opening.
+
+“Incoming!” Ali shouted.
+
+Moments later, a figure shrouded in black mist, with impossibly long, spindly legs, clawed its way through the slash in the fabric of reality, tearing it wider.
+
+D̷͙͝r̸̡͇̓͐ę̴̣̎a̵̬̬̫̓m̵̨̞̩̓̔͠ ̵̳̉Ẽ̶̟̇ä̵͓̌̊t̵̹̖̃͠é̸̼̗́͑ȓ̶͎̻̯̃͗ – Eldritch Horror – level 230 (Mind).
+
+Ali didn’t hesitate – she summoned her Eternal Reverie potion from storage and downed it right as the weight of the horror crashed into her mind with the familiar, sickening, warped probing that cared nothing for her sanity.
+
+“Oh, no, you don’t,” Ali growled. “Not today!”
+
+You have gained Mental Fortitude – Eternal Reverie.
+
+“Attack!” she yelled, and all her minions sprang into action, galvanized by her suddenly clear thinking. Deep within the portal, darkness stirred, and it disgorged a Devastation Knight, followed by a seemingly endless swarm of crawling Parasitic Nightmares.
+
+“Dungeon break! Ali! Close the portal!” Calen yelled, a withering hail of arrows flying furiously from his bow.
+
+Ali rushed forward, under the protection of her barrier, while Mato and Malika cleared the way with roars and punches, but more and more monsters crawled out of the portal. Before she had made it even halfway, they were already being forced backward by the horde of undead and eldritch monsters. Magic detonated against her barriers, forcing her to hunker down and pour mana into them just to hold her ground.
+
+But the denizens from the Crypt of Kings were relentless.
+
+From the Dream Eater’s indistinct body, dozens of black tentacles burst forth, lashing out and sending her minions flying as they grasped hungrily. Meeting little resistance, they plunged into the Well of Divinity, and the waters instantly began to turn black.
+
+Seeing all her work about to be corrupted, Ali lashed out with her golden darts, disrupting the probing tendrils, just as she had with the Well of Souls. Then another eldritch horror emerged from the portal, and more tentacles reached for the waters.
+
+Ali’s heart chilled as the heavy-set figure of an immense Devastation Knight stepped across the threshold.
+
+Haverron. He’s back.
+
+In that instant, Ali knew her friends were seconds away from being overwhelmed. Even the sky overhead was growing darker, flush with eldritch monsters she had never seen before. Twisted illusions that burned her eyes and clutched with invisible claws that raked through her mind.
+
+The scene before her seemed frozen. Mato roared his fury at the Death Knights. His paws trailed void and nature magic while several swords swung in toward him, shining with devastating magic. Calen, his face bearing a grim fatalism, unleashed his arrows into the sudden sea of undead. Malika was calm and serene, dancing within the chaos, but her magic seemed like the last flickering light about to be swallowed by an ocean of black.
+
+Driven back up against the very brink of the Well itself, with ever more Death Knights and worse pouring through the portal and fresh skeletons beginning to rise from the ground, Ali knew they were already out of options.
+
+All options, save one. Ali shifted, and the world turned gray. She blinked, studying the battle scene from the relative safety of the Spirit Realm and the shelter of her Arcane Recall spell. Already, there were two dozen death knights of various types. Haverron had somehow stepped through the portal, and the frozen ground at his feet crawled with summoned skeletons, but the black tentacles of the eldritch nightmares still twisted and writhed, seeking the Well even here with time arrested.
+
+She opened her Grimoire and summoned her chosen defender.
+
+Divine Archon – Celestial Sun Elf – level 235 (Holy).
+
+Rapidly scanning through the skill list as Arcane Recall completed, she simultaneously bound the shining Celestial Sun Elf to her domain while her friends struggled to stem the overwhelming tide.
+
+Domain Respawn applied to Divine Archon.Champion Domain Enhancement applied to Divine Archon.Affinity Aura (Holy) applied.Immunity (Death) applied.Amplify Skill (Celestial Sword) applied.Elemental Storm (Holy) applied.Domain Enhancement complete.Your reserved mana has increased by +2692.
+
+Ali breathed as the color rushed back into the world.
+
+Her domain mana surged into the strongest Divine Archon she was able to summon, forcing her to grow to more than twice her original size, a tangible and visible infusion of the domain magic. The radiant glow that shone outward from her shining armor bathed the entire island in the soft light of the Archon’s holy presence, a constant, steady assertion of power, entirely unlike the chaotic, broken magic that had suffused the island before Ali had repaired the Well. Healing pulsed through all her allies like a heartbeat of divine energy. It pulsed again.
+
+Like the holy version of Elemental Storm, the holy-affinity aura had been one of several timely gifts from Azryet and his mentorship. The immunity to death, on the other hand, had come from her own efforts to satisfy her bargain with the Dragon God and subsequently feeding it to and thoroughly plundering the Well of Corruption for everything she could extract from the dark shrine artifact that had once powered Nathaniel Sunstrider’s dungeon.
+
+Just as she had hoped, the mana from the Well surged in concert with her domain, further imbuing her defender due to its proximity to the ancient artifact. A quick glance at the status confirmed a fifth domain magic for summoning Sacred Guardian elementals.
+
+“Turn Undead,” she commanded, hastily running through the Divine Archon’s abilities again in her mind as she cobbled together a sketch of a strategy. The Archon’s mana simply shifted at her command, and the aura activated. Ghostly white flames erupted from every single undead monster’s body, as the paladin’s aura began to push the dead back.
+
+“Defend the Well and our allies against the invaders,” Ali ordered, echoing this very same Divine Archon’s last plea, as every single Death Knight’s head swiveled to glare at the Archon.
+
+“As it should be,” the Archon intoned, standing like a beacon of all that was radiant against the sea of crawling undeath before it. A being whose very existence was anathema to the dead and all they stood for.
+
+A burst of holy mana flared as the Archon summoned a Sacred Guardian, and then she leveled her sword and flung it into the host arrayed before her, cutting a devastating arc through the sea of undead and eldritch horrors and leaving behind spinning afterimages of gleaming swords to further tear into the hordes.
+
+If the undead hated the aura, every single monster noticed the Celestial Sword and the trailing images of holy blades left whirling in its wake like holy blenders or whirlwinds that sliced through decayed flesh like an unquenched, forge-heated sword through butter. Across the battlefield, undead and eldritch horrors paused, glaring at the shining beacon of holy power, while flames of holy power began to burn them. The Archon caught the sword at the end of its circular arc and threw it again, leaving more and more blades spinning in its wake, filling the area with consecration and the flashing glints of swords.
+
+As the flying sword slammed back into her outstretched grasp, Ali sent her Divine Archon charging into battle. With a shout of challenge and eyes flaring with inner holy power, she waded through the monsters with her blade flickering and slashing. Lesser skeletons burned up and turned to dust before they could even approach, and the stronger ones exploded from the impact of the powerful cleaves. Even Death Knights gave way under the power of her onslaught, defensive spells flaring.
+
+Despite Havok and his general delightfulness, Ali was well aware that Paladins were often considered to be not the most sociable. But there was no other class more suitable for facing down endless hordes of undead than one of the durable holy warriors. An implacable hatred flowed from the Archon, clearly felt through Ali’s connection with her powerful summon. Not the hatred of grudges or vengeance, but the methodical hatred of an exterminator dealing with an infestation of Plague Rats.
+
+A second Sacred Guardian appeared. It stood beside the Archon as a pillar of holy fire and lashed out with six disembodied Holy Avenger swords. Then she summoned a third. Magic howled, sizzled, cracked, and blasted, drawn into the Divine Archon and crashing against her radiant breastplate like lightning drawn to a steel steeple. The black bolts of death magic were shrugged off effortlessly, fizzling against the Archon’s death immunity, and the rest met with continuous dispels and heals. Death Knights burst into flames despite their defensive shields as the archon turned her healing magic into an offensive weapon.
+
+Without being bidden, the Divine Archon switched auras to one called Fanaticism.
+
+You have gained Fanaticism.+182% to attack speed.Magic – Aura.
+
+About to correct the aura switch, Ali suddenly pulled up short.
+
+“One hundred and eighty-two percent?” Mato exclaimed, his incredulousness echoing softly within the chambers of her mind. “What the heck did you make?”
+
+“Divine Archon,” Ali whispered, knowing he was still likely to hear her over the racket. She stared in awe as their entire party’s attack speed nearly tripled. Sure, it might not benefit her personally all that much, but the Sacred Guardians’ swords were whistling through the air. Mato and Calen moved like they’d been possessed. Arrows buzzed and swords crashed as her minions leaned into the powerful enhancement aura, and Malika was moving so fast that Ali could barely even perceive her attacks.
+
+Even under the onslaught of the holy elementals, flying blades, and the ludicrous auras, Haverron began imposing his arctic storm on the field of battle, raising undead by the dozens. Still more were pouring through the portal. A portal Ali still could not reach. The icy grip of frost began to creep outward, slowing everything, often even freezing them solid before they shattered from impact.
+
+It was then that Ali sensed a particular readiness from the Divine Archon. She caught her minion’s three-eyed glance, as if her Archon were requesting permission.
+
+“Allow me to smite this filth,” the Archon said, putting words to the sense Ali felt through her connection.
+
+“Destroy them,” Ali said grimly. “Destroy them all.”
+
+The Fanaticism aura vanished, replaced by one Ali had already seen before – Holy Vulnerability. Then, Divine Archon drew heavily on the power of the domain, filling herself to the brim. White flames burst from her body, tearing outward with a blazing roar that hushed the winds. It ripped through the dark horde, erasing lesser monsters in an instant and igniting everything it touched.
+
+Elemental Storm.
+
+All Ali felt was the warmth of healing as she stood in the midst of the raging inferno. Chimes began to sound, somehow audible over the deafening roar of holy fire, and Ali took off, aiming for the portal as the raging waves of holy flames guttered Haverron’s arctic storm.
+
+Thirty seconds of flame. When it slowly faded, the battlefield was scoured clean of everything save bone-white ash and the cleansing holy flames that lingered on the few corpses of the dead that were strong enough to avoid obliteration. All that remained standing was the battered form of Haverron, lit like an undead torch.
+
+Haverron’s body shimmered, flickering to semitransparent as he launched himself forward and unleashed his Devastation Rush, charging right for Ali. With the lowest health, she knew she would always be his pick for target, but she simply faced him down, staring calmly through her glittering golden barrier that would matter little against his deadly ethereal strike. A flicker of intent passed from Ali’s mind to the mind of the Divine Archon via the conduit of Martial Insight.
+
+“Your kind is not welcome here,” she declared, and with those words, the Divine Archon flung her sword with an almighty overhand throw. The sword flipped end over end, crossing the breadth of the field, and slammed into Haverron mid-charge, burying itself to the hilt with a terrible thud as it impaled him dead center through his chest. The power of the throw and the holy magic roaring within the sword tore the great Devastation Knight out of his Devastation Rush, slapping him as if with a godlike hand nearly ten meters across the grass and leaving him impaled to the ground. He lay there for several moments while the blade sizzled against his undead flesh, releasing a cloud of foul smoke from the grievous wound. Then, he succumbed to the blade.
+
+The Divine Archon gestured with her hand, and the sword returned, soaring through the air as if called home. She flickered with a formation and her aura switched, this time to Redemption, and within the magic, every single corpse evaporated, leaving the ground pristine once again.
+
+“Wow,” Calen exclaimed breathlessly.
+
+“Holy shit,” Mato said as he shifted out of Bear Form.
+
+“She’s so strong,” Malika said. “What did you do, Ali?”
+
+“The Well of Divinity gifted me the imprint. I made her a champion. She gets the Summon Elemental skill from the Well, so she has five abilities. I amplified her sword skill, gave her immunity to death, holy elemental storm, and a holy aura,” Ali explained.
+
+Mato nodded sagely. “Simple.”
+
+Ali gave him a side-eye. “In that tone of voice?”
+
+“That must be expensive,” Calen said, still aiming his bow at the portal, although no new monsters seemed to be emerging as the portal flickered and shimmered wildly.
+
+“Yes, but not as much as I expected,” Ali said. She was already studying Haverron’s portal and preparing her magic to dismantle it, but it turned out she didn’t need to do it. Without Haverron there to sustain it, the magic was rapidly destabilizing on its own.
+
+When the portal collapsed, Ali shot across the battlefield to finally fill her vials at the Well of Divinity, choosing to scan her notifications quickly on the way.
+
+Dungeon of Knowledge has reached level 237 (+2).+20 attribute points.Arcane Insight has reached level 147 (+2).Arcane Recall has reached level 83 (+3).Barrier has reached level 127.Grimoire of Summoning has reached level 84.Martial Insight has reached level 139 (+3).Empowered Summoner has reached level 125 (+2).Domain Mastery has reached level 80 (+5).Minion Teleport has reached level 84.Reading has reached level 22.Sculpting has reached level 18 (+3).You have learned a new Domain Magic: Abundant Summoning.Abundant SummoningRequirements: Nature affinity monster, Domain Mastery has reached at least level 80. Source: Class.Summon nature-affinity elementals, plants, or nature-affinity beast monsters in overwhelming waves.Skill – Domain Magic
+
+She nodded to herself. A nice option.
+
+For the first time in ages, Ali had no cleanup work to do after the battle. The Divine Archon’s Redemption aura had erased all the corpses and restored all her stamina and mana in the process. The Archon inclined her head at Ali’s gaze and returned to plant herself before the Well, assuming exactly the same position as when they had first seen her in the Spirit Realm – sword grounded between her feet, held in clasped hands, her head slightly bowed as if in prayer.
+
+Ali studied the vial in her hand for several long moments before she stored it in her ring.
+
+Then, pensively, she checked her Guild Ring’s status.
+
+Platinum Guild Ring – level 100A ring signifying platinum-level membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Aliandra Amariel+60 Intelligence.+48 Wisdom.+24 Perception.+345% to mana regeneration.+120% to minion health regeneration.+12% to minion movement speed.Requirements: Intelligence 350Quests[Deity Quest] Find the ancient wells and collect the essences for Azryet – 3/3[Platinum Quest] Eliminate undead attacking Southport – 0[Platinum Quest] Death Knight bounty – 478Mana: Store or retrieve an item. Capacity: 1029 / 2400 kg.Created by Giddy Clicksprocket.Ring – Platinum
+
+I should turn in that Death Knight quest, Ali thought absently, but her eyes were drawn back to the quest Azryet had given her.
+
+‘3/3’.
+
+It was such a tiny number, and yet it was answered with such a torrent of hope that Ali found herself crying for the second time today.
+
+“Why are you crying, little one?” Mato asked. “We won, and you were amazing.”
+
+“We’ve a… a chance to save her now,” she answered, smiling up at him through the tears. Annoyed with how meek her response sounded, she frowned and considered – really considered – what that small number represented. They had waged war against the Crypt of Kings, restored Ciradyl from the corruption of the Well of Souls, and even dragged the shattered Well of Divinity back out of the echoes of time. All that remained was the creation of the elixir. With fierce hope bubbling up within her, she declared, “We can do it!”
+
+“Yes. Yes, we can!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

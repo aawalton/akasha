@@ -1,0 +1,251 @@
+---
+id: 9d32b684-bd3a-5600-9d1b-4ff952f4264a
+page-type-slug: story-chapter-royal-road
+title: "83 - The Human With Wings"
+slug: 0084-83-the-human-with-wings
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 84
+ownLength: 2111
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3779051/83-the-human-with-wings"
+royalRoadId: "3779051"
+---
+
+The smell changed every step as we moved through the marketplace. Fresh bread, roasted meat, flowers, incense—any smell you could imagine was probably here. Actually, I take that back. After passing by a potion brewer, I noticed him mixing five different colored potions into a small cauldron. That one had a smell I couldn’t describe no matter how hard I tried, but it seemed to attract all the giants in the area. Good luck trying to imagine that.
+
+As we were walking through, I couldn’t help but notice all the weird gazes and whispers we were getting. Did Reina have some snot sticking out or something?
+
+“Where’s Sparrow?” Reina asked. “Didn’t he come off the ship with us?”
+
+“He said he was going to do his own shopping,” Talon said.
+
+It was hard to talk to each other with how loud the place was. We bumped shoulders with people every few steps, and I wouldn’t doubt it if all of us were suddenly separated after looking away for too long. Good thing Noodle was back in my [INVENTORY], otherwise we’d never see him again considering how much he likes to wander around.
+
+Still, it wasn’t nearly as bad as the Skycurrent Festival island. There were many more people here than back there, but this island was also much larger.
+
+“Oh!” a man let out as he bumped shoulders with me. “Sorry—wait, are you Allene?” He looked around at the rest of us. “And that’s Sir Kaelor, Meriel, Talon, Reina, and…”
+
+His jaw dropped as he looked at Aeris.
+
+“Hm?” she said. “Did you forget the name of the most memorable person in this party?”
+
+“Most memorable…?” Meriel muttered.
+
+I mean, Aeris was literally a mythical creature. Even I could admit she stood out more compared to the rest of us.
+
+The man shook his head. “Sorry, it’s just… I can’t believe it. You guys really do have a dragon in the mix. I’m a huge fan, Aeris!”
+
+Hearing that, she chuckled to herself, covering her mouth. “Oh! In that case, I’m glad to hear it.”
+
+“I have a strange request,” the man said. “And um… I was wondering if you’d be okay with it.”
+
+“It depends on the level of strangeness,” she said. “Though admittedly, I’m usually fine with most strange things, especially when it comes to Allene.”
+
+Huh? And what exactly was that supposed to mean?
+
+The man gulped. “Actually, never mind. It’s weirder the more I think about it.”
+
+Kaelor waved his hand. “Might as well just say it since you’ve got us all curious.”
+
+The man turned around, contemplating whether to run away before taking a deep breath and facing Aeris.
+
+“Can I…” the man began. “Uh… Can I please touch your horns?!”
+
+…
+
+…
+
+…
+
+Really?
+
+The man had said that so loudly that nearly everyone stopped what they were doing and turned our way. Even the ones running the booths were looking. I didn’t know who was more embarrassed between us and the man who said that.
+
+“That’s Aeris, isn’t it…?” a woman from the crowd said. “The dragon who saved Whale Isles!”
+
+“Did I hear that right? Is she letting people touch her horns?”
+
+“I heard that too!”
+
+Soon, a crowd formed around us. Although most of the attention was on Aeris, plenty of people went up to the rest of us. Kaelor seemed to be the second most popular.
+
+“Oh?” he said. “Looks like we’ve got some fans!”
+
+Reina and Talon waved to the crowd, fully embracing the situation, while Meriel rolled her eyes. For some reason, the ones surrounding her took that as a sign of appreciation rather than annoyance and were shouting her name soon after.
+
+I gently tapped her with my elbow. “Okaaay, Miss Popular.”
+
+She frowned. “Don’t act like you don’t have just as many people in front of you, too.”
+
+I looked ahead, seeing several people calling after me and waving. Was this what it was like to be a hero?
+
+[TROPE COMPLETED: THE HEROES ARE SURROUNDED BY FANS]
+
+[REWARD: You get to see an absolutely adorable fan in three… two… one…]
+
+“Allene! Allene!” a little girl’s voice caught my attention as she wiggled through somebody’s legs to get to me. She was a human like I was, with black hair and a tiny face, and she looked younger than Talon.
+
+And of course, she was as adorable as adorable could possibly be. The System sure wasn’t lying.
+
+“Hey there!” I said with a smile. I thought about squatting to get closer to her, but I realized that would’ve made me look embarrassingly small next to a child.
+
+“Allene, you’re the human with wings, right?!” she exclaimed, her eyes bright. “Is that really true?”
+
+I nodded and turned, flaunting my back. “What do you think?”
+
+I heard several “Ooh!”s in the crowd, and I couldn’t help but smile with all the pride I could muster. You see, I never like attention when all eyes are on me, especially when I have to say something important like a speech. But moments like these? I could definitely get used to it.
+
+I wasn’t even surprised that the little girl knew me because of my wings. I had kept them on throughout the entire battle and even afterward, too. It was just more convenient to leave them on. The only time I put them back in my [INVENTORY] was when I was trying to sleep, but I was getting so comfortable with them that I wanted to try sleeping with them for one night. Meriel pushed back that idea, though, saying it could ruin the feathers since they weren’t natural wings like the ones harpies and angels had.
+
+“Allene, can I please touch your wings?” the little girl asked.
+
+First it was Aeris’s horns, and now it was my wings? Why was everyone so curious about getting all touchy?
+
+“Sure,” I said. “But be gentle.”
+
+Unfortunately, even the most angelic faces could conceal monsters. And no, that was not an intentional reference to Aurelius. I was talking about the little girl.
+
+She burst forward, giving my wings a full-blown tackle. I yelped, expecting a world of pain. Those wings were sensitive!
+
+…
+
+Wait, what was I saying? No they weren’t. I didn’t even feel anything from them at all.
+
+“Allene?” the little girl said, her eyes glistening. “Miss Allene, did I hurt you…?”
+
+She began to make the face people always did right before crying. Making a kid cry was not good publicity, and was just as bad for my heart. I scrambled for any idea I could to stop her from doing so.
+
+“No, no, I’m not hurt at all! You just caught me by surprise. You’re strong for a little girl!”
+
+I leaned over and patted her head, which seemed to help.
+
+“Really?” she said.
+
+I nodded. I must’ve been confused with the wings Meriel would give me with that one spell of hers. That one gave me wings that were extremely sensitive for no reason at all. As for the wings I got from the dungeon?
+
+Well, although I did say I didn’t feel anything from them, that wasn’t really the case. The more I wore them, the more I realized I was beginning to have sensations from those wings. Whether that was the winds blowing against them or Talon brushing them every other night—which he insisted on doing while I still had the wings equipped on my back instead of just laying them on a table—it was beginning to feel like they were becoming literal extensions of my body.
+
+Was this what they called phantom limb?
+
+[TROPE COMPLETED: THE WEAPON BECOMES A LIMB]
+
+Description: When a warrior spends every day with a weapon without rest, it begins to feel like an extension of their body.
+
+[REWARD: You’ll now feel every sensation on your currently equipped wings. This effect is not reversible.]
+
+…Wait, what? What kind of reward is that?!
+
+The little girl ran around me, running her hand through my wings. I was about to let out another yelp, thinking it would hurt, but it didn’t. It kind of felt like someone was just running their hand through my back. This was probably how Talon felt with his own wings.
+
+Out of nowhere, a man burst through the crowd, frantically looking around. “Tira? Tira, where are you?”
+
+As he called out her name, the girl shouted, “Right here, papa!” before running straight toward him. He knelt down and hugged her.
+
+“Tira!” he said, his worried expression softening into a smile. “Don’t go running around like that, okay? It’s hard to look for you with this many people.”
+
+“Yes, papa!”
+
+Unlike his daughter, the man was an angel, not a human. That man wasn’t her biological father, was he?
+
+“Ah,” I said, realizing I was accidentally staring at them for too long. “Sorry about that.”
+
+The man chuckled, shaking his head. “Don’t worry about it. You’re curious about our relationship, aren’t you? We get asked about it all the time.” He ruffled her hair, causing her to giggle. “I adopted her when she was young, and she’s been with me ever since. Isn’t that right, Tira?”
+
+She nodded and snuggled into his arms. I couldn’t help but smile—not just me, but the rest of the people around us.
+
+[TROPE COMPLETED: INTERSPECIES FAMILY]
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[157 → 158]
+
+“Your daughter’s adorable,” I said. “I’m having baby fever now, thanks to you.”
+
+“Is that so? Well, she certainly is an adorable little thing.” He looked around at all the other people surrounding me. Then, he leaned in, whispering, “Remember this: Tira’s your biggest fan, alright? Don’t let anyone tell you otherwise!”
+
+I laughed. “Fans, huh? Do I really have fans?”
+
+A person from the crowd stepped in. “Absolutely! Your whole party’s famous around here!”
+
+I guess words spread quickly about our feats up here in the skies.
+
+“Well!” I said, puffing my chest out. “I welcome you all in the presence of Allene, the leader of the party! Thank you for all your love and support!”
+
+The ones who heard me gave strange looks.
+
+“Leader? Isn’t that Kaelor?”
+
+“That’s definitely Kaelor.”
+
+“Maybe she’s just joking around?”
+
+…
+
+“Um…” I said. “If Kaelor’s the leader, then what about me?”
+
+Tira pointed at me, smiling. “You’re Allene, the human with wings!”
+
+I waited for her to continue, but she didn’t say anything else.
+
+“That’s… it?” I said. “I’m just known as the human with wings?”
+
+“Yes!” the girl said with utmost enthusiasm.
+
+“Then what about the rest of them?” I pointed behind me.
+
+The father said, “Meriel’s the Elven Mage, Reina’s the Flaming Knight, Talon’s the Boy Who Saved the Isles, and Aeris is, well, a dragon.”
+
+Why did Talon get the coolest name out of all of us? And was I really just known as the human with wings? What about the fact that I dealt the final blow to Aurelius?
+
+[TROPE COMPLETED: THE HEROES’ NICKNAMES]
+
+Description: Some of the greatest names are earned after battle.
+
+[ITEM ACQUIRED: DICE OF NICKNAMES]
+
+Effects:
+
+- You will be granted a new nickname based on the number the dice lands on
+
+- Everyone will forget about your previous nickname
+
+- The dice activates once it touches a flat surface and isn’t moving
+
+- The dice will disappear upon usage
+
+- The granted nickname will refer to the list below
+
+Huh. So it was basically a fifty-fifty chance as to whether I got an awesome name or something totally laughable. Also, it’ll definitely be a problem if it lands on the first one. Depending on how things go, this either becomes a wholesome one-liner reference or a huge copyright issue.
+
+But wait, where was the dice anyway? Wouldn’t the System usually just have it appear either in my [INVENTORY] or in my hand?
+
+The final message popped up as soon as I questioned it.
+
+The item will now appear beside your left foot.
+
+Left foot? Why so specific?
+
+Wait a minute… wouldn’t that just instantly use the dice?
+
+A bright, tiny light emerged beside my foot. The crowd began to stare.
+
+Oh no.
+
+What if I got “The Bird Cosplayer”?! I couldn’t live with that! At least give me a chance to not roll it, damn it!
+
+I thought about using [LUCKY BREAK], only to remember that I had used it to get Reina and everyone else off of me after I woke up on the couch.
+
+When the light faded, I saw the number facing up.
+
+Six.
+
+The dice disappeared right after.
+
+“Six,” I whispered. “Six… that’s Allene, the Dragonrider.”
+
+My face lit up.
+
+Did I accidentally land myself a totally badass nickname?

@@ -1,0 +1,147 @@
+---
+id: 63ccb95e-4dc2-5fef-9ccf-c29cb695302d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 481: The Grim Spark"
+slug: 0519-chapter-481-the-grim-spark
+partOf: dungeon-of-knowledge-complete
+position: 519
+ownLength: 2537
+unit: words
+ownProgress: 2537
+publishedAt: 2025-12-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2864796/chapter-481-the-grim-spark"
+royalRoadId: "2864796"
+markedReadAt: "2026-06-29T20:29:51.921Z"
+---
+
+Malika teleported behind the Death Knight, avoiding the powerful descending strike of the greatsword blazing with the blue radiance of its ice mana, and she unleashed her punches, refreshing her Soul Mark and stacking up more Soul Burn that flickered softly within the undead monster, relentlessly consuming its mana.
+
+These patrols of Death Knights and Devastation Knights had initially been terrifyingly dangerous, but as she unleashed her forms from the calm within her Clarity, she could already see Ali’s Berserkers and her void dragon finishing off the other one. Unfortunately, with greater proficiency, the risk was lower, and the experience they gained had tailed off, but she would take that tradeoff for more safety any day.
+
+It's not like they’re exactly easy, she thought.
+
+She let Mato block the return strike amid the storm of offensive magic raining down upon them, knowing he had more than enough health and armor to survive a while without her healing. It wouldn’t be long now, only a few more spells, a few more attacks, and it would be drained.
+
+The brilliant radiance of icy blue mana coalesced within the Death Knight, and Malika instantly began dodging as a veritable storm of ice bolts blasted outward in all directions. Ali’s trolls were not so lucky; several of them were suddenly frozen in place by the combination of the bolts and the frozen ice aura.
+
+Both shamans, she noted. Still dodging, she shifted positions, drawing close enough to Mato to heal him. Healing Mantra’s range had grown to a little more than ten feet thanks to the aptitude she had earned from the Diamond Edge of the Soul path she had taken during her evolution, but it still wouldn’t be smart to heal through the Death Knight.
+
+A dazzlingly brilliant flash of blinding light overwhelmed her Soul Sight, momentarily saturating the entire quadrant behind her. She turned, but before her head had even moved an inch, something stabbed her in the back. Every single nerve screamed out in pain as lightning magic coursed through her body. Every single muscle spasmed in agony. Dimly, she was aware of similar intense flashes of lightning tearing through the bodies of the shamans beside her, and Mato too, making them jerk spasmodically in response.
+
+She finished turning to find nothing more than the afterimage of something small, bone-white, and skeletal as it shot off in an arc with a rapid pattering of bone feet upon stone. She staggered from the aftereffects of the concentrated lightning and then caught herself, realizing in that moment that she had somehow lost almost half her health. Blood poured down her back, and she couldn’t make her legs move. Whatever it was that had just stabbed her was tearing around the battlefield, stabbing everything in sight so fast she could barely even see it.
+
+Normally, she would just pulse Healing Mantra, but this time she dumped stamina into it by the bucket-load, instantly restoring feeling and function to her legs. The arterial blood spurting from her back shut off like a suddenly closed valve as the torrent of healing magic ripped through her body to burst outward in an expanding sphere of blue-white soul magic. Her only acknowledgement of the sheer amount of stamina she had just burned through was to equalize her mana and stamina pools with Second Wind, and then she took off after the new monster.
+
+Her reflexes matched her haste as she pushed her body faster and faster, and she finally saw it. It took a few moments of chasing it for her to even velocitize her mind to the speed of the thing – even at her fastest, it was still unbelievably quick. She caught up to it only because it paused to stab a couple of trolls, the long bone dagger sparking dangerously as it flickered in the darkness – so fast she needed her Infinite Perception to tell it wasn’t actually several simultaneous attacks. As she closed in upon the tiny white skeleton with its abnormally large head, it snapped about to regard her with the glowing white sparks that danced within its empty skeletal orbs. She noted the ominous dark runes inscribed into its forehead that shone out bleakly within her Soul Sight, and she unleashed her strikes even before she reached it. Soul Strike shot outward from her fists, blasting through the skeleton from several feet away even as she closed the gap.
+
+She took the final step, pressing off the air and unleashing her fist with the full power of all nine strikes of Instantaneous Strike. Her arm blurred, shimmering at the shoulder, each of nine images of her arm punching out with slightly different trajectories, crashing into the horned skull, ribs, and bones of the monster. Blazing soul energy blasted through each of the nine impacts.
+
+She had an instant of satisfaction, knowing Rezan would have been proud of her attack.
+
+Malika’s chime sounded as Calen shared the identification of the monster.
+
+Grim Spark [The Quick] – Undead, Bone Fetish – level 204 (Lightning)
+
+At the same instant, everything exploded. From within the monster’s bared bones, an incredible surge of lightning novas burst outward in rapid, successive waves, crashing through her body and frazzling her mind until she imagined smoke must be pouring out of her ears. With the Bone Fetish in the epicenter, an incredible surge of lightning burst forth in all directions, waves of devastating magic that pulsed so rapidly it felt like a vibration. Lightning ripped through her, burning her flesh and locking up her muscles in jangling pain that assailed even the fortress of her mind.
+
+You have been cursed with Lightning Vulnerability.
+
+Malika registered the nature of the curse from behind the mental bulwark of her Clarity. Threads of panic washed futilely against the walls of her mind’s fortress as realization began to settle in, but they failed to find purchase on her soul. Instead, she found herself flooding Healing Mantra with stamina, healing for her life and that of her friends. Through the sudden blaze of lightning, she saw Mato charging, his fangs bared in a slow-motion roar, his body pulsing with the rapid bursts of holy magic from the diminutive kobold priests at the far side of the street. Grim Spark, the Bone Fetish, blurred sideways as it shot off, zipping past the slow, lumbering bear.
+
+Malika’s eye magic recognized the flash of stamina within the bear, and the instantaneous retaliation of claws and void magic smashed into the hyperactive skeletal monster. Roots sprang from the ground to coil into its bones at the same moment that three more domes of devastating lightning magic burst out from the impact.
+
+Then, it vanished amidst a dazzling implosion of magic that looked like a teleport spell, but left behind yet another triple-pulse blast of lightning that she had to heal through.
+
+Silence descended upon the battlefield.
+
+It was a scene of utter devastation. Nearly all of Ali’s melee minions lay twitching or dead on the ground. Beside them, the last Death Knight had fallen, presumably slain by the same lightning novas that had razed most of their forces.
+
+“What… was that?” Malika gasped, staring at the remnants of the battle in shock while the jangling sensation faded from her nerves. “And where did it go?”
+
+“Grim Spark, an undead Bone Fetish,” Calen said. “Boss-level threat. It’s three streets over that way.” He pointed through a big, bulky building up ahead.
+
+“Lightning Retaliation Trigger and Spell Cascade,” Ali said, pressing her lips into a firm line. She continued, spelling out the implications even as Malika’s mind put it together, “Those trigger three lightning novas every time you hit it.”
+
+“I got cursed with Lightning Vulnerability,” Malika said. The spell was no longer present, but she had seen it, and she knew Ali’s minions would have removed the curse as soon as they could, but in the thick of the lightning storm, it had been devastating.
+
+“We should retreat and regroup,” Calen said. “We need a plan.”
+
+“Agreed,” Malika said, nodding. But at that moment, she heard the clear sound of bone feet rapidly pattering across stone. “Here it comes.”
+
+Mato had never enjoyed fighting hasted monsters, and particularly monsters that were so fast he couldn’t even see them when they moved or attacked. But he had enough experience fighting them that he had learned a few strategies.
+
+The pitter-patter of bone feet striking the stone pavement echoed off the buildings, but his enhanced ears could easily pinpoint the location of their assailant. He simply placed himself in the middle of the street, between the incoming footsteps and the healers, making certain he was lit by the soft glow of his floating Lirasian Sage. Only two of his skills operated at the speed needed for this fight, and for that reason, he wanted to make himself a clear target.
+
+A blur of white shot out from a side street, and Mato prepared his support skills, feeding mana to Brutal Restoration and health to Bestial Combat in preparation for what would come. Just as he expected, one of the kobold priests topped him up with a restoration, instantly drawing the monster’s attention.
+
+It shot past him in a blur, and his first instant skill triggered: Battlemaster. His right paw blurred, its speed an uncanny combination of his power and the energy flowing into his skill. He felt the void enchanted claws ripping through ribs, fracturing bones, and sending shards blasting outward. The monster turned, its gleaming, sharp bone dagger sparking with lightning, visible for just a moment before Survival Instinct screamed. But he had already anticipated this outcome and pre-prepared Critical Block. The dagger struck, invisible to all but his Survival Instinct, but his block blasted the force of the attack back at the monster, a shimmer of air and a cracking of stone beneath his paws that were the only signs that something had actually happened.
+
+Before the roots of his Battlemaster had even had the chance to entwine it – actually, without so much as a sniff of a chance – the monster vanished, leaving only the rapidly pulsing spheres of lightning novas in the wake of his two strikes.
+
+You have been cursed with Lightning Vulnerability.
+
+The lightning magic blasted into his body, ripping life from him in sudden waves: five, six, … seven. And only after the seventh wave did it stop. Three per hit? And one for the teleport? At least he thought that’s what Ali had explained.
+
+The support casters and healers quickly caught up, refreshing his health and removing the curse, but the demented lightning-enchanted skeleton was long gone.
+
+He flexed his back with a growl of annoyance. “Aargh! Stupid bag of bones!”
+
+Kavé could see the thoughts going through his mind as Thuli scanned down the work order. She knew he was evaluating their supplies, translating the standard quantities for the surprisingly large measurements she had noted beside the armor details, deciding how best to satisfy the order.
+
+He had always been remarkably efficient, still sometimes surprising her with how much he could get done with the materials and time he had available. It wasn’t even magic. It was simply that his thinking was exceedingly clear; he could see the entire work order in his mind, laid out from beginning to end as soon as he understood it. In every single detail. At least for anything that involved steel and hammers.
+
+But then he said something she did not expect. Not even in the slightest.
+
+“You will make this sword, Kavé,” Thuli said, putting the work order down and reaching for the crate to choose some ingots.
+
+“I… I cannot, master,” she said, stammering a little. “I haven’t yet mastered those fire enchantments. At least, not at that level.”
+
+“Let me teach you something about business,” Thuli said, grinning at her in a way that made her stomach lurch. “A lesson in giving the customer what they want, rather than what they asked for.”
+
+“What do you mean?” Any time he got like this, it usually meant he was about to be monumentally stupid, or unbelievably brilliant. Sometimes it was hard to tell the difference.
+
+“This is the royal weapon order specification,” Thuli said, his broad finger pointing to the weapon request on the order note. “What do you think he will be killing with this?”
+
+“Undead?” she said, not quite sure what he was getting at. “Death Knights?”
+
+“Aye, and why do you think the crown requested fire?”
+
+“I’m not sure,” Kavé said. “Fire is the cheapest enchant?”
+
+“Aye, right again,” Thuli cackled. “Death Knights often wield ice or death magic, and there are stories of other variants, too, but seldom fire. That means they chose fire because they need weapons in bulk, and they will need lots of crafters who can make them.”
+
+“Ok,” Kavé said. “Why aren’t we going to give him fire then?”
+
+“What is better than fire for killing undead?” Thuli asked.
+
+“I…” Kavé stopped and gave it some thought, but the first person who came to mind was the grinning green face of Havok. “A Paladin? Holy magic?”
+
+“Exactly,” Thuli grinned at her. “But very few blacksmiths can do holy, and they’re therefore expensive and rare enchantments.”
+
+“You want this one to make him a holy weapon?”
+
+“Yes,” Thuli said. “Isn’t your new patron a holy dragon? His tithe enchantment should improve your affinity with holy enchantments dramatically.”
+
+“But…”
+
+“Remember how I taught you to craft enchantments from potions and combat skills?”
+
+“This one…” She did, in fact, remember. The lesson had been thoroughly fascinating, in a mostly theoretical sort of way. Thuli had borrowed Serendipity Puddlecrash from the Novaspark Academy a few weeks ago and had her cast a water affinity spell that neither of them knew. The trick had been getting the little Gnome to cast the spell at precisely the correct time and then imbuing the energy of it into the shield she had been making, but it had worked.
+
+“Havok will help ya, and ya can also buy some Holy Might potions from the alchemist. The lass with the pink hair… Morwynne.”
+
+“Ok,” Kavé said. To her surprise, Thuli’s crazy scheme sounded like it might actually have a chance at working. But there was still a thread of doubt when she thought about Galeth. “What if he really wants the fire sword, though?”
+
+“I will make the fire sword, too,” Thuli said. “We will let him choose, but he’ll choose yer sword. Mark my words.”
+
+“You’d make a sword for nothing?” Kavé gasped.
+
+“Nonsense, lass, the crown requisition is still available. I’ll sell it to them, and someone else will get to kill Death Knights with it. We’ll still make a profit.”
+
+“So why the convoluted ruse, then?”
+
+“This here is one big fellow,” Thuli said, tapping a flux-stained finger on the measurements on the work order. “And this is a big sword. People will take note when he goes waving it all about on the battlefield. Curious or jealous people will ask questions, and he will tell them where he got it from. Ya see? Gotta keep an eye out for good opportunities to market yer work.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,167 @@
+---
+id: b82cee4b-f032-57a3-88f3-b9f333ce76b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 557: The Return to Mi’ir Valdanis"
+slug: 0598-chapter-557-the-return-to-mi-ir-valdanis
+partOf: dungeon-of-knowledge-complete
+position: 598
+ownLength: 3899
+unit: words
+ownProgress: 3899
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3123036/chapter-557-the-return-to-miir-valdanis"
+royalRoadId: "3123036"
+markedReadAt: "2026-06-29T20:31:19.689Z"
+---
+
+Calen soared out over the dark black ruins of Mi’ir Valdanis, relying on Eclipse to keep him from alerting the wheeling skeletal frost dragons. Below him, the familiar streets and artistic architecture slipped by, an empty relic of a bygone age, now filled by the swarming undead spawns of the Lich’s strongest dungeon yet – a sobering reminder of the power the Lich still kept in reserve.
+
+Despite his familiarity, his eyes remained alert, studying the layout closely and scouring the shadows for anything that might have been missed by the scouts and still lurked waiting for the unwary, but Willow and Coria had clearly been thorough, and the cityscape immediately below him was as quiet as a crypt.
+
+He paused for a moment, wondering if his thought would remain true no matter how noisy or silent, given that this was literally the Crypt of Kings.
+
+Calen rolled his shoulders, but his new body – for he hadn’t yet come up with a new or more accurate way of describing his evolution to the third tier – had none of the familiar creaks or pops. It may not have been the biggest change when measured according to effectiveness in battle or tracking, but it was the one that had been the most personal. He felt different. The body he’d grown up with had been dramatically changed, and in ways he imagined he’d still be getting used to for some time yet.
+
+Celestial Half-Elf. He was still undoubtedly himself, but… Well. Since imbibing a small quantity of water from the Well of Souls and processing his evolution, his muscles felt inexhaustible, and he was filled with a radiant vitality that even shone from the strange white jagged lines that had appeared like tattoos across his skin. From everything he’d found in the library, a Celestial was a being with a far higher capacity to handle power of any sort, and as such, he now gained fifteen attributes per level. Retroactive. Sure, five had been spread between vitality, endurance, dexterity, perception, and intelligence, and he would not be able to choose those; they still filled him with an unsettling sense of being a stranger in his own skin.
+
+He flew on quickly, keeping his Motes of Light zipping back and forth to shed light into dark alleyways and corners while he took advantage of a substantially better Eclipse to keep himself invisible and rein in the radiant glow of his wings, his skin, his eyes, and his new jewelry. So much light. He grinned softly, alone in the darkness.
+
+Time to move the raid group up a little, he decided, noting a clear space at the intersection of two larger roads, with solid buildings on two sides, which would make an excellent defensible position for the raid group. He cycled his vision through his Motes of Light – the ones searching the darkness here, the one he’d left back with the raid group, and the two he’d left with Ali and Malika back in Myrin’s Keep. Is this how Ali feels? It was an almost innocuous change to Eyes of the Archon – the ability to use any mirror image or mote as a point of view for his perception skills – but he was certain nothing would expand his natural scope of influence more. It was unfortunate that he’d not had enough time to explore all his abilities before tackling the Crypt of Kings, but when had they ever had the luxury of time?
+
+Just a few streets over, he finally found movement. Two patrols of Death Knights: the group of three had only a single death-affinity Knight, but the one with four Knights had two, and one of the rarer lightning-affinity variants. He would need to watch that one; they could be tricky.
+
+He summoned his bow to his hand and then used the skill he was most eager to test in battle. The one that had the potential to truly take his damage to the next level. Burning up the greater part of his mana pool in a single instant, he summoned eight Celestial Mirror Images – the evolution of his old decoys. Eight perfect copies stepped out of his body to stand beside him, hovering radiantly in the air. Eight bows raised and aimed as one.
+
+The Death Knights immediately took notice.
+
+It was the signature skill of the Fractured Archons, and it was his! Immediately, his defensive abilities and skills hardened, heightened, and he felt his body strengthened by their mere presence. He could summon fewer mirror images than with his old decoy skill, but the difference was incomparable. They were real: illusions with substance. Even his True Sight recognized that. He couldn’t use all his skills from the mirror images, but all his key damage and archery skills, his perceptions, and tracking skills were all duplicated by the magic of Cascade across the images.
+
+Raising his own bow in a fluid motion, he released a multishot fan of conjured arrows, boosting his damage with the optimal selection of ammunition enchantments. Each of the eight mirror images echoed his movements perfectly, and the street blazed with light as nine fans of shining arrows seared their way through the ancient ruins to strike at the once-terrifying undead Knights.
+
+Hisses of anger and flares of defensive magic blazed from the Knights below, answering his presence with the practiced efficiency he’d come to expect from the Blind Lich’s most reliable minions. Both groups turned, rushing toward him under the cover of diverse shields of ice, and flickers of lightning and death curses rippled outward.
+
+Again, a deceptively simple change to one of his key skills made itself known – expected, and yet surprising for its unfamiliarity – Eclipse kept him cloaked from sight. Attacks no longer disrupted his illusions, and the Death Knights were forced to rely on advanced perception skills to pick him out in the darkness. Worse – for them – there was no way he’d yet discovered, other than True Sight, to distinguish his true form from the images.
+
+While the Death Knights couldn’t immediately figure out which Calen to attack, he made it easy for them by rushing off down the street with all the images in tow, flickering his awareness among them, to make them turn and fire at random intervals and throw off their stride with Grappling Shot and bow swaps to bring out his Slow curse. The loud clatter and clang of mithril boots on stone echoed loudly from the empty buildings as the knights all gave chase. Calen fled, still smiling as he pushed his new advancements, learning the details of how they might be used to the greatest effect.
+
+To his surprise, he found he had to slow down. A good kiter knew just how far ahead they needed to be, and just how often they needed to poke or provoke their prey to keep them enraged and chasing. Obviously, intelligent foes like Death Knights demanded a more nuanced and subtle approach, but he was used to squeaking it out by the skin of his teeth. No more. He spun in the air when he reached a corner and unleashed a fresh volley that tore into the pursuing Death Knights without mercy, spectral arrows allowing him to inflict devastating wounds even through the mithril plate and crystalline ice shields. His arrows forked on impact, triggering far more explosions through the group of pursuing Knights as they bunched up around a corner. And those who had not managed to pierce the illusion of his invisibility were subjected to the impact of his far more deadly Ambush. Without his Eyes of the Archon, he would barely have been able to see dark forms within the rapidly detonating flash-bangs his barrage of arrows unleashed.
+
+He paused for a moment, having accidentally leashed the entire group with his chains. Once they began to break free, he tore through the streets, flying low above the ground, darting left, then right, then straight through an intersection over a set of shimmering silver runic traps, unerringly heading for the raid group lying in wait. His mirror images followed, flying in formation, loosing arrows into his pursuers as much to keep them at bay as to encourage them to attack. A delicate balancing act. Nendir would have been proud. Two more turns he took, carefully modulating his speed, and then he shot out into the open space of a broad intersection that had once been a circle with a fountain in the center.
+
+Into a scene of apparent chaos.
+
+Havok stood proudly in the middle of a blaze of white flames, tanking two burning Death Knights. A little further up ahead, Sabri was barely visible, tanking six Death Knights under the bombardment of a dense storm of fireballs, lightning, and blizzards of ice. The raid group had been busy in his brief absence.
+
+“Incoming!” Calen announced with his voice pitched to carry. As he rushed into the battle zone, Havok triggered his shield rush, shooting across the gap and joining Sabri in the storm of elemental magic. His two Death Knights charged after him, intent on murder, but they seemed to be limping, and their armor hung in tatters, revealing gaunt undead flesh beneath.
+
+They must be close to dead, Calen realized, reading the field and instantly grasping the familiar team strategy. Sabri was tanking the newest group, and the bulk of the damage dealers had already switched to her. Havok was managing the remnants of the last group, and all he needed to do was join up with Sabri, and his charges would die in the crossfire. It did mean that neither of them was free to help him with his additions.
+
+“Seven!” Calen shouted. He found his target cooling his paws in front of the raid group and split the distance, screeching to a halt in the middle of the street while his catch rounded the final corner and barreled along toward him and his mirror images. He spun around, fixing his gaze upon his prey.
+
+From the corner of his eye, he caught sight of a flash of brown fur. Fangs glinted in the darkness, and there was a familiar sizzle of void magic as Mato rushed past him. Calen studied the remnants of the bear’s Charge skill and snagged an illusory copy, stashing it away for later. Charge was not the most versatile of movement skills, but Explorer now allowed him to hold three, and having options had gotten him out of several tight spots already. He popped a Mote of Light into the air above Mato and fed it mana to boost the extra damage it granted to all bathed by its light.
+
+“Thanks for the damage,” Mato sent, a soft chuckle overlaying his mental voice.
+
+“Need more?” Calen asked.
+
+“They’re taking them down fast,” Mato sent, along with the mental equivalent of a shrug.
+
+“Ok,” Calen said, waiting precisely five seconds to make absolutely certain Mato had control before announcing it. “Mato’s secure. Open fire.” Instantly, area damage began to rain down upon his group, while the healers reacted to their charge suddenly taking immense quantities of damage. Under the onslaught, Calen’s sharp eyes could pick out the new unfathomable blackness of void shields in the shape of dragon scales popping up around Mato’s body to protect him from harm.
+
+“You got a few good upgrades, too,” Calen murmured, unleashing a few more shots into the group Sabri was tanking to prime his mana and stamina leech before he headed out.
+
+“You have no idea!” Mato said, clearly having heard him even under the barrage.
+
+“Back in a bit,” Calen said, and took to the air as soon as Havok emerged from beneath the destruction, setting up in a clear spot to catch whatever the scouts brought next.
+
+“There’s a clear spot four streets up that way,” Calen said as he passed Lyeneru.
+
+“Noted.”
+
+He zipped off, back the way he had come, eyes already scanning for new targets, and on his way, he passed Coria, who was already dragging the next group of undead Knights back to the team, but he’d already dismissed his mirror images and shrouded himself in invisibility, so he wasn’t seen.
+
+They really are tearing through this place, he thought. Mato’s assessment was spot on. When he and his friends had first found this crypt, they’d been in the low one-forties, and they had struggled. The well-oiled machine he’d just left had every top-level raider the guild could muster, save for Ali and Malika, and many of them were rapidly closing in on two hundred. They also boasted three people at the third tier, and Ali’s away team of five domain-enhanced, Elite, Authority-summoned third-tier minions. From what he'd seen, Ali’s little helpers might have been able to clear the Death Knights entirely on their own. Especially the Divine and Soul Archons.
+
+He had to range out much further into the ruins before he found something new. His ears picked it out first: the small pitter-patter of bone feet on stone that he had learned to fear. Chances were it was just a normal fetish, but there was always the possibility it would be…
+
+Grim Spark [The Quick] – Undead, Bone Fetish – level 204 (Lightning)
+
+[Explorer]A macabre doll fashioned from bones steeped in dark energy and granted a semblance of life through a powerful necromantic ritual.Category: Dungeon BossThreat Level: Party.Monster Type: Undead Bone Fetish.Damage: Lightning, Physical.Known Abilities: Haste, Lightning Leech, Cascade, Retaliation Trigger, Teleport
+
+Shit. Not this guy again!
+
+Without hesitation, Calen downed a Mental Fortitude elixir to protect against the Panic and Confusion procs and chased it with a Lightning Protection potion and unleashed his arrow. Having extensive experience with just how fast Grim Spark really was, he didn’t wait for his arrow to strike before summoning every single Mirror Image and unleashing a full barrage.
+
+His first shot – an invisible arrow, trailing an invisible chain – impaled the tiny bone fetish through the sternum out in the middle of the street, triggering a blinding ball of lightning to explode outward from the creature. A flicker of mana appeared right before his eyes, and suddenly, a bone dagger was stabbing toward his face.
+
+Calen was faster, and he was prepared. The instant the mana flickered before him, he triggered his own teleport, switching places with a mote of light further up the street.
+
+Yoink. While he was leaving, he snagged Grim Spark’s teleport, recording it in his second slot. Far more useful than Charge, in his opinion.
+
+He resummoned three of his Mirror Images to move them up and then unleashed another full volley at the crackling fetish. This time, he used Speed of Light. His arrows struck instantly, lighting up the entire city for several blocks with the airborne sun of dozens of cascaded lightning nova procs.
+
+“Take that, you miserable bag of bones,” Calen muttered. Knowing just how much speed this monster possessed, he went all out, flying far faster than when he was kiting the Death Knights. Those seemed positively sedate by comparison. And, he never once took his eyes off it.
+
+He summoned a talisman to his hand and tore it in half.
+
+“I have Grim Spark,” he said.
+
+“I need thirty seconds,” came Lyeneru’s instant reply.
+
+“Got it,” he answered, but the ephemeral magic of the expensive talisman had already faded. Calen glanced through the viewpoint of a Mote of Light left above the raid group, verifying that they indeed had their hands full right now – but it looked under control. He changed tack, zipping sideways around a building and doubling back the way he had come. Less than two seconds later, the frenzied bone fetish shot around the corner, lightning arcing from his bones to trail like twisted sparking fingers caressing the sides of the buildings. Calen fired again, putting on another burst of speed as he fled for dear life down the long street.
+
+He saw his own shadow starkly outlined against the wall up ahead as he was backlit by the immense brightness of the lightning nova detonations – retaliatory discharge that told him his arrows had found their mark.
+
+You have gained Onslaught.
+
+Time to test it out. He glanced at the ability quickly; it was one he hadn’t quite had a chance to explore yet. The pinnacle keystone of Realmstrider Ascendant – a simple addition to his Radiant Archery.
+
+Mana: Your next shot ignores all barriers, boundaries, and distance to hit whatever you can see. Recharge: 5 minutes.
+
+He fed an obscene amount of mana to the skill. Now, if I’m right, this should work… He had no idea how it would work, but there was no reason it shouldn’t. Other than that it would be ridiculous if it did. He switched his viewpoint to one of the Motes of Light he’d left with Ali and Malika, hovering above the Death Knight armies outside the walls of Myrin’s Keep. With the boost from Onslaught, he fed his bow a fully funded Power Shot and unleashed his maximum number of arrows loaded with all his damage enchantments. From every single Mirror Image. He aimed toward Grim Spark, just in case, but the arrows that fired from his bow faded to nothing in the air.
+
+An instant later, in the air above the armies bearing down on Myrin’s Keep, nine fans of shining arrows materialized, ripping through the undead in a devastating cascade of explosions.
+
+Well – heck! So that’s how it works, Calen thought, gasping at the intensity of the mana and stamina leeched from that immensely powerful strike. Nearly every single hit had triggered Ambush, no doubt because none of his targets would have been even remotely capable of seeing the attack coming. I guess Ali no longer has a monopoly on fighting two battles at the same time. He chuckled to himself.
+
+Mana flickered, and he teleported instantly, launching himself forward and coming out of his teleport facing backward with his bow already nocked. His arrows flew, and before they even struck, he turned and threw himself down a side street with his mirror images taking conflicting paths to confuse, aiming to make a large circle. A crack of bones hitting the ground echoed from behind him, followed immediately by the rapid pitter-patter of feet.
+
+Calen summoned a fresh mirror image, both to reposition it and to reclaim invisibility. He left it as a lure by the corner and shot down another street, turning and waiting while his heart raced, thumping rapidly in his throat. The pitter-patter paused for a moment, and then the street up ahead blazed with rapidly strobing light that left afterimages on his retinas even though he had only seen the reflections. Then Grim Spark reappeared, tearing forward at such great speed that he was leaving a cloud of dust and rock fragments behind him from the shredded stone of the street.
+
+Tendrils of lightning arced out erratically as Calen released another arrow and fled.
+
+A prickle materialized inside his head. “Ready for you.”
+
+Briefly consulting Explorer, he tracked Lyeneru to the new spot he had picked out for them, and veered sideways, heading toward the raid with all his images flying formation about him. Several more harrowing turns later, he shot out into the clearing to find the raid group ready and waiting, all the Death Knights vanquished. Pools of holy fire were already laid out upon the ground, and the telltale flickers and sparkles of buffs lit the waiting adventurers.
+
+“Last call for potions! Don’t get confused and shoot your friends!” Lyeneru shouted.
+
+Several people downed elixirs and vials in response to the Night Elf’s call, and then Grim Spark arrived with that telltale clatter of bones and an eerie chuckle. Calen hovered in the center, right above Mato, and waited as the terror of the ruins charged toward him, brandishing that same oversized bone-white dagger and leaking sparks from his eye sockets.
+
+Mato charged, slamming into the bone fetish with a crack and a sizzle of floating void shields, and he disappeared inside a ball of continuous lightning.
+
+“Spread out,” Lyeneru called. “Everyone, hold your fire. By the numbers, damage groups go, one at a time.”
+
+Cautious attacks were unleashed, slowly increasing in frequency as the team followed the plan Ali had come up with the first time they had destroyed this monster. Only the most powerful ranged attacks were allowed, buffed to the maximum. With the retaliation nova triggering on every hit, the group needed to make every shot count, and there was no place for melee fighters. Calen used an image to refresh invisibility for his entire formation, and then charged Power Shot to full before unleashing a single enchanted arrow at the monster – the strongest attack he could muster.
+
+Rogues and assassins were reduced to standing around and watching – most of them relegated to taking cover in case the unpredictable boss went on a rampage. Mages buffed each other with metamagic skills, trying to eke out the most power per shot, and when the healers yelled, everyone paused, at least until they gave the all-clear. The only people given free rein to attack were himself, Lyeneru, and the Soul Archon, all tier-three archers dealing devastating damage to the bone fetish. Calen, of course, burned Righteous Fury and flooded every drop of excess mana into his Motes of Light, boosting the power of his light damage raid buff.
+
+The strategy is solid, he decided, studying the raid group. Nobody had been confused and tried to attack their neighbors, and only a couple of Panics had broken through the Mental Fortitude of Ali’s Eternal Reverie, and even then, the fear had not lasted nearly as long as he remembered. Perhaps the priests were just that quick with the dispels. Or perhaps Ali’s priest had something special – he hadn’t had the chance to ask what her evolution had brought.
+
+Then, to his immense surprise, his notification chimed, and the lightning faded, revealing Mato standing over a pile of white bones, an unnaturally short femur gripped between his bared teeth.
+
+His lips curled up into a typical Mato grin. “Done!”
+
+Your group has defeated Grim Spark [The Quick] – Undead, Bone Fetish – level 204 (Lightning)
+
+“Stay back! Death proc,” Calen shouted, recalling what had happened last time. Sure enough, a few seconds after the chime, the corpse exploded, spreading lightning vines that crawled and grew like a demented plant across the stone, but, fortunately, most of the adventurers had read the accounts of the boss encounters in detail and were prepared.
+
+I guess it was just a regular party boss, he reminded himself. Not that such an abomination could be appropriate for any normal group of five.
+
+“Seth, you’re in charge of the corpse. Bring him with us. Loot on the way. Scouts head out and find us some more monsters. Let’s move!” Lyeneru barked commands with the easy confidence of long years of practice, and everyone rushed off down the street.
+
+Calen grimaced as Grim Spark got to his feet and followed his new master. He shook his head, glancing away from Seth. Necromancers. It was just too bad that he wouldn’t have access to the domain abilities. Calen took to the air and resumed the hunt for Death Knights.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

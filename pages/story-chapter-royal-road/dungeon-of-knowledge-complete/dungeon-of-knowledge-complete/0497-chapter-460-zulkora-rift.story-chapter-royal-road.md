@@ -1,0 +1,97 @@
+---
+id: d56c974d-74f0-5b2f-bb0e-935971f23297
+page-type-slug: story-chapter-royal-road
+title: "Chapter 460: Zulkora Rift"
+slug: 0497-chapter-460-zulkora-rift
+partOf: dungeon-of-knowledge-complete
+position: 497
+ownLength: 1740
+unit: words
+ownProgress: 1740
+publishedAt: 2025-11-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2806031/chapter-460-zulkora-rift"
+royalRoadId: "2806031"
+markedReadAt: "2026-06-29T20:29:05.515Z"
+---
+
+Ali entered the final chamber behind her minions and the rest of the raid group. Finally, we made it. It was not a particularly long trip from the top to the bottom, and she had done it far faster in the past, but the sheer number of monsters that kept pouring from the rift and choking up the tunnels and caves had slowed their progress down to a crawl. What should have taken a day at most was now more than a week of continuous streams of creaking treants, crawling beetles, and countless other denizens that just wanted the opportunity to leap out of crevices and eat your head.
+
+A sudden prickle, the unmistakable energy signature of high-level mana, snagged her attention, and Ali immediately launched her awareness out of the cavern and back halfway across the continent to her own dungeon to see what it was. Invaders! While she pretended it hadn’t affected her, facing off against the Heroes of the Crimson Blade had left a lasting impression, and the presence of unknown, unrecognized mana of high-level set her anxiety soaring and left her on the knife’s edge of stress.
+
+There.
+
+Five unknown figures entered the ravine, one at a time. One floated above the rest to survey Ali’s brand-new Forest Cavern, just recently restored to its former glory. Well, much better than its former glory, because not only was Ali at a significantly higher level with far more imprints available to her, but this time, she had enlisted the aid of both Mato and Basil in the replanting of her forest. Already, the wisps had begun spawning, and she’d found dozens of new mundane birds, frogs, and insects flocking to the bounty she had created.
+
+They’d better not break anything.
+
+Behind the interlopers, several new figures appeared, but these people, Ali recognized: Pathfinders and guild members. Her anxiety eased, but just by the smallest margin.
+
+Two figures hung suspended by magic in the air above the ravine.
+
+“It’s beautiful.”
+
+“Sure is.”
+
+Oh, I like her, Ali thought, immediately giving the witch a free pass in her mind. It didn’t hurt that she knew Faelon, and he had proved himself trustworthy. Must be another shrine group, she realized, seeing that the invaders – newcomers – were all at precisely level ninety-nine – clearly a deliberate choice to avoid being forced down their natural paths.
+
+Ali returned the bulk of her attention to the fight in the cavern in front of her, and the complex task of managing her minions against the oncoming horde that boiled out of the rift, now somehow much larger than she remembered. But she kept an eye on the group back home as they settled down at the shrine and prepared to fight.
+
+Sharing her abilities with the guild registry had been a huge risk for her, and she hadn’t even been certain anyone would take her up on her offer. But she’d already hosted two groups, and she had learned so much from studying their magic that now she viewed the impending fight with quite a measure of excitement and anticipation.
+
+Her Bone Champion had been augmented with Minions, Nova Strike, and Overpowering Strike, borrowing heavily from Calen’s notes and her recollection of Kir’mogan. It didn’t hurt that she could consult with the champion himself whenever she wanted. It wasn’t a particularly complex fight, but that suited her goals precisely – she’d designed something to fight off the riffraff and casual challengers, but for the serious contenders, it was there mainly to give her a warning, and for them to gain the last bit of experience they needed before she unlocked the shrine. In the background of her mind, she felt the nova of bone shards explode from her boss, clattering off the armor of the two tanks that rushed in to engage, and then her attention was snapped to the witch, and the exquisite spell she summoned.
+
+Is that an anti-curse domain? A ritual?
+
+Sage of Learning surged in response, drawing heavily on her mana, and for once, even though she was in the middle of a fight, she didn’t care. Whatever the witch was doing, she needed to understand it. It was a kind of arcane denial magic formation she had never seen before. Whatever it was, it certainly prevented the witch doctor from doing anything nasty to them.
+
+It’s too bad, I like turning adventurers into frogs, Ali thought, but she had to hand it to the group; they seemed to be very competent.
+
+Right at that moment, the hulking warrior tank used a spell, and Ali gasped in surprise as his metal shield swelled up and spikes protruded from it. Metal-affinity! She had seen something similar only from Kavé, and never once with combat skills. But their surprises were not over yet.
+
+The Elven sorcerer clapped her hands together, and a detonation of sound wove itself together with a large spear of ice and shot forward, humming loudly. The elegantly combined ice and sound exploded with a deafening shockwave the moment it hit. Ali had obviously experienced sound mana before, and ice too, but this sorcerer could wield them simultaneously, blending them into constructs of vibrating energy trapped deep within ice, only to be released on impact with violent cracks and shrapnel.
+
+By the time the group had finished clearing the boss, a reasonable test for them but the outcome was never really in question given their unusual abilities, Ali was itching for them to use the shrine so that she could attempt to make minions with some of their class abilities and skills. Goodness, are there even plants with sound affinity? I need to have a serious talk with Basil as soon as possible!
+
+“I guess, here goes?” the witch said, stepping up to the shrine, looking around with uncertainty.
+
+“Good luck, Moira,” one of the others said. The rest of the group was resting, recovering their mana, or inspecting the, quite frankly, extraordinary gear Ali had equipped her trolls with, and the fist-sized chunk of nature magicite where the trolls had fallen.
+
+Ali still couldn’t activate the shrine remotely, so she simply teleported, swapping places with the Glitter Dragonet that was perched on a rock near the shrine. This time, she appeared with two of her highest-level trolls as bodyguards and her barrier fully materialized, just in case there were mistakes like last time.
+
+All of them instantly reacted, reaching for weapons and spells, but Ali just raised a hand. “Congratulations on reaching level one hundred,” she said. “I can activate the shrine for you.”
+
+“You’re the dungeon?” the witch asked, lowering her wand slightly.
+
+“Yup,” Ali said. “It’s good to meet you all. I hope you get the paths you’re looking for.” Then, she activated the shrine. It was a simple matter for her to continue to monitor the remote rift battle from here, so she waited as all five of them processed their evolutions, the only thing she wasn’t able to do remotely was plant more trees to claim the Rift Chamber or grant her minions extra nature and arcane damage via proximity with Empowered Summoner.
+
+I’ll return before they engage the bigger ones. You aren’t escaping from my clutches yet!
+
+Mmm, she needed to work on a proper evil-dungeon laugh.
+
+Calen regarded the rift for a few moments. All he could see of the new realm beyond was a green blur of vegetation, endless sand, and a too-bright sun.
+
+He nodded to the others and stepped into the rift, entering the shimmering veil that separated the realms from one another. A shiver passed over him as the mirror surface tugged uncomfortably at his skin and clothing before he emerged from the ripple of the veil and stepped out into the heat of an unfamiliar sun. He squinted against the brightness, his eyes easily picking out the monsters that lurked in the jungle and hid under the sand dunes. It was a world of two opposites, each struggling for dominance; on one side were the endless sands of a desert, and on the other was the humid, vibrant, untamed growth of a jungle grown thick and wild on nature mana. Even the air shimmered, humid versus dry, wherever the two extremes met.
+
+[Explorer] You have discovered the Realm of Zulkora.A realm filled with primal jungles and endless sands. Explorer has reached level 72 (+2).Your actions have greatly increased the reputation of your patron.You have gained the Blessing of the Wanderer+32 to Perception.+6 to Perception skills.+7 to Tracking skills.+10% to Movement speed. Blessing – Duration: 1 day.
+
+Oh wow, that’s really strong, he thought, seeing the surprisingly potent blessing his patron had bestowed upon him. Supposedly, his benefits could improve after earning enough cumulative reputation for his patron deity, but he had no idea how that worked. Clearly, something had changed, though – he had never seen a blessing with such high skill increases, nor so many bonuses. He was about to take a step forward when his notifications chimed a second time.
+
+You have earned the Title: Realm TravelerVisit five or more realms under the patronage of the Wanderer. +15% experience gained for Tracking and Perception traits while in a new and unfamiliar realm.+15% accuracy vs. extra-planar monsters. Title
+
+He stopped in surprise, still maintaining his stealth, but studying the new title carefully. Five? But it was true, provided he counted the normal realm as his first. The others were the Spirit Realm, the Abyssal Plane, the Realm of Creeping Shadows, and this one. It was a rather impressive title, just from the bonuses awarded, and he decided to display this one, swapping out the Tracker of the Dead title.
+
+Quickly, he set out to explore, his feet flitting across the warm sands without disturbing a single grain while he marked the vast number of unfamiliar monsters within reach of his powerful vision skill. As the adventurers began to enter the realm, he took to the air, carefully scouting further and further, and it was only when he reached his apex that he saw it.
+
+The sand, it moves… He studied it with his vision tuned to maximum, but the mana he saw spilling up from under the sand was unmistakable.
+
+“Sandwyrm!” he shouted, dropping his stealth so the adventurers might see which way he was pointing. He retrieved his Death’s Grasp. We’ll see how tough it is against death magic.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

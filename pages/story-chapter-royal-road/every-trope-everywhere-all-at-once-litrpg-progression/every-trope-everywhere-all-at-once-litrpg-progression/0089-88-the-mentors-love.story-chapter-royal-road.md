@@ -1,0 +1,237 @@
+---
+id: 77ef92c2-405e-5cb6-b706-e7fd85f183c0
+page-type-slug: story-chapter-royal-road
+title: "88 - The Mentor's Love"
+slug: 0089-88-the-mentors-love
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 89
+ownLength: 1981
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3810095/88-the-mentors-love"
+royalRoadId: "3810095"
+---
+
+The four of us had been sitting quietly in the mana pool for several minutes now. I watched as groups of people entered and exited the pool, grabbing beverages from the attendees as they left. One of the workers even stopped by to hand us milky drinks. Once we were finished with them, we left the glasses beside the pool and the attendees came by to pick them up. One thing’s for certain—the service here was impeccable.
+
+I let out a deep sigh. Each time I opened my eyes, they eventually drifted shut again. Nothing could ruin such a peaceful moment.
+
+Nothing.
+
+“Have you ever been in love, Meriel?” Aeris asked.
+
+My eyes shot awake after hearing that out of nowhere. “Huh?”
+
+I was about to question Aeris, but admittedly, I was quite curious. And from the look on Reina’s face, so was she.
+
+Meriel, who had been peacefully resting like I was, opened one eye. “Why do you ask?”
+
+Aeris scooted closer to her. “I was thinking I could maybe learn a thing or two from you to make Allene fall in love with me.”
+
+I blinked. “Uh… I’m right here, you know?”
+
+She didn’t seem to care.
+
+Meriel closed her eyes again. “I’m a mentor of magic, not love.” She leaned back, looking up at the ceiling’s colored mosaics. “I don’t mind telling you eventually, but… that’s a story for another time.”
+
+Reina stood in the water, walking over to her. “I’d like to know too,” she said. “I feel like you never share much about yourself.”
+
+“Because there’s no reason to.”
+
+“But there’s no better time than now since we’re all bathing together!”
+
+Meriel glanced at me. I could tell that she was asking for help to stir the conversation away, but I didn’t say anything. I just grinned.
+
+Sorry Meriel, but I wanted to hear about it, too.
+
+She sighed, scooping up the water with her hands and letting it fall through. “There was a time when I felt that way about someone.”
+
+The three of us exchanged glances.
+
+She continued, “But it was a one-sided love. It wasn’t anything worth mentioning.”
+
+Aeris frowned. “Ah. So you were in the same situation as I am now.”
+
+Meriel thought about it for a moment before shaking her head. “Well, it was a bit more complicated than that, but…”
+
+She stood, and the water fell from her body. Just like the rest of the patrons who had exited the pool, her towel was perfectly dry. “We should go back now. I’m starting to feel light-headed.”
+
+But Reina and Aeris had other plans. They grabbed her hands and forced her back down in the same spot. I could tell that she was thinking of blasting them away with magic, but that would only get all of us in trouble.
+
+“Seriously…?” Meriel muttered.
+
+“You’ve already said too much! You can’t just leave us hanging like that,” Reina said.
+
+Aeris nodded. “We won’t tell anyone, we promise. Your secret’s safe with us.”
+
+“For some reason, that doesn’t sound particularly convincing,” Meriel said.
+
+“Please?” I said, scooting closer. “You’re always trying to give me all sorts of unwanted lessons anyway. Why not give a lesson about love? A good mentor shouldn’t hide her feelings from her students.”
+
+Though honestly speaking, I just wanted to hear Meriel share a vulnerable story about herself. I doubt I’d learn much from it, but it’d certainly be a great thing to hear to make fun of her in the future.
+
+“You seem awfully enthusiastic about this,” Meriel said. “That’s rare.”
+
+“Because it’s you,” I said. “I didn’t know you were even capable of falling in love.”
+
+She glared at me. “What’s that supposed to mean? I’m a normal person, too.”
+
+Seeing that the other two wouldn’t let her go, Meriel caved in, deciding to stay in the pool. She took some time to gather her thoughts and nodded, as if encouraging herself to speak about it.
+
+She looked at me. “You’re wrong, Allene.”
+
+“Hm? About what?”
+
+“About what you said just now. A good mentor can hide their feelings from their students.”
+
+I had disappointment written all over my face. “So you don’t want to talk about it after all?”
+
+She shook her head. “No, that’s not what I mean. I’ll tell you the story. What I mean is that my mentor hid his feelings from me.”
+
+Reina scratched her head. “What’s that supposed to mean?”
+
+Aeris’s eyes widened. “Wait, so… the person you loved was your mentor…?”
+
+Meriel nodded.
+
+“Wow,” I said. “And you even gave Starcaller to me. That used to be his weapon, right?”
+
+She nodded again. “Yes. Just like how he passed it down to his student, I passed it down to mine.”
+
+“So you’re just trying to follow the tradition?”
+
+“That’s one reason,” she said.
+
+“Or maybe it’s because looking at that staff reminds her of him,” Aeris joked. “She wants to keep it far away from her.”
+
+“That’s another reason,” Meriel said.
+
+“What? Really?” Reina blurted. “Wait, so is this some kind of tragic love story? Should I get ready to cry?”
+
+Meriel chuckled, shaking her head. “Not at all. He’s not dead or anything, if that’s your concern. He’s actually still at Arcstar Academy now.”
+
+“Oh?” I said. “Is that why you want to go back so badly?”
+
+“No. I’m not that much of a simple woman that I’m going back just for him. Doing so is entirely for me alone.”
+
+“Oh, come on. That has got to be one of the reasons you want to go back, even if it’s just a small one,” I said.
+
+She shrugged. “Who knows.”
+
+I chuckled to myself. From the sound of her voice, that was basically the same thing as saying yes.
+
+“What did you like about him?” Aeris asked.
+
+“Better yet, why did you like him?” Reina added.
+
+Aeris looked at her. “Those are the same thing.”
+
+“Oh.”
+
+Meriel began playing around with the water. “I liked him for a lot of things. He was smart, caring, and a great teacher. I think he’s one of the reasons why I’m so obsessed with magic like I am now. Being his student, we naturally spent a lot of time together. I sometimes found myself getting jealous back then whenever he spent more time with some of the other students.”
+
+Jealousy? Now that was something I certainly didn’t expect coming from her.
+
+“He was one of the professors at the academy,” she continued. “I’m not sure if he’s still teaching now, but I do know he’s still at the academy. When I first enrolled, I was one of the weakest students at the time.”
+
+I raised my brows. “You were weak at magic? For some reason, I’m having a really hard time imagining that.”
+
+Though she did mention being the weakest among the mages I met back at Lyndale’s Adventurer Guild. I held back a laugh as I remembered the huge elf in the pink robes. I wondered just how powerful he was.
+
+Meriel laughed. “I’m not lying, you know. I didn’t even know how I passed the entrance exam back then. Maybe it was just a stroke of luck.”
+
+She continued, “Being weak, as it turned out, was the very thing that brought us together. Because of how much I struggled to learn the things he taught, he decided to give me a private lesson one day after the classes were over. He began with the basics and everything else that all the students at Arcstar should already know.”
+
+She smiled, looking down at the water. “He was more patient with me than anyone else, and he never yelled at me for making mistakes. He simply showed me all the things I could do to improve, and before I knew it, our private lessons became a part of our schedules. What I really loved about him was that he would always stay with me until I completed the lesson, even if it got late.”
+
+I haven’t seen such a smile like that from her before. Hearing all of this made me incredibly curious about who this man was.
+
+“When did you realize you were starting to see him that way?” Aeris asked.
+
+Meriel gave it some thought. “I’m not sure. It didn’t suddenly happen after one night. I just slowly realized that staying with him taught me so many things, and before I knew it, I was looking forward to our lessons not just to learn about magic, but also to see him.”
+
+She sank deeper into the pool. “Of course, love between a professor and their student is frowned upon at any academy. Arcstar was no different. I think he realized long before I did about my feelings. He just never said anything about it.”
+
+“Did you ever directly tell him how you felt?” Reina asked.
+
+Meriel shook her head.
+
+“What?! So this whole thing ends in a cliffhanger?!” I yelled, standing.
+
+I realized I had spoken a bit too loudly after seeing all the glances in our direction. I bowed, apologizing to the others in the pool before sitting back down.
+
+Damn. This story was a whole lot more interesting than I thought!
+
+“There was one particular moment when I asked him what he thought of me, if that counts,” Meriel said.
+
+Our eyes lit up.
+
+“And what did he say…?” Reina asked.
+
+“He said I was a bright student with a lot of potential. I didn’t know how to feel after hearing that, and the fact that he was patting my head while saying that certainly didn’t help my case. I was younger back then, and immature. I felt my face getting far more red than I thought was even possible.”
+
+She frowned. “And before I gathered the courage to tell him how I really felt, it was already time for me to graduate.”
+
+Hearing that, Aeris and Reina started crying at the exact same time. Meriel and I were shocked at their reaction and did everything we could to calm them down, otherwise we’d be making too much of a scene in the pool.
+
+It wasn’t like she was never going to see him again. Why on earth were they crying so much?
+
+[TROPE COMPLETED: EVERYONE’S CRYING AFTER HEARING A LOVE STORY]
+
+[REWARD: Pending…]
+
+After they calmed down, we decided to head back to the bathhouse’s main area. Reina and Aeris walked ahead of us, comforting each other after hearing such a story. I guess crying together was a surefire way for people to strengthen their bond.
+
+“Promise me,” I began, whispering to Meriel, “that you’ll talk to him once we get to the academy.”
+
+She turned to me. “Why?”
+
+“Because you have unfinished business. There’s a lot of things people regret in life, and I think this could be one of your biggest regrets.”
+
+Meriel chuckled. “Oh really?”
+
+“Mhm.”
+
+She nodded, smiling. “You’re right. I’ll do just that. I promise.”
+
+We turned a corner.
+
+“Do you have any regrets like that?” she asked.
+
+Regrets, huh?
+
+Of course I did. Who didn’t?
+
+“Yes,” I said.
+
+“Which are…?”
+
+“I’ll tell you about them eventually.”
+
+She frowned. “Eventually? That’s not fair. How could you say that after I told you my story?”
+
+I rubbed the back of my head. “Sorry, but I’ll tell you one day, I swear.”
+
+She gently tapped my back. “I’ll remember that.”
+
+If I wasn’t punished for telling her I was from another world, I would’ve told her about the mistakes and regrets I’d left behind there.
+
+But for now, I’ll have to keep everything to myself.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- EVERYONE’S CRYING AFTER HEARING A LOVE STORY (COMPLETED)
+
+- THE MENTOR’S LOVE STORY (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL UPGRADED: MERIEL’S ACKNOWLEDGEMENT]
+
+Type: Passive
+
+Effect:
+
+- Spells shown by Meriel are easier to learn
+
+- Spells learned from Meriel are easier to teach to others (New)

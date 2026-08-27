@@ -1,0 +1,83 @@
+---
+id: fe1bbe3f-4893-57e9-aa9a-4a23b90cf455
+page-type-slug: story-chapter-royal-road
+title: "Chapter 465: The Scout’s Choice"
+slug: 0502-chapter-465-the-scout-s-choice
+partOf: dungeon-of-knowledge-complete
+position: 502
+ownLength: 1525
+unit: words
+ownProgress: 1525
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2818166/chapter-465-the-scouts-choice"
+royalRoadId: "2818166"
+markedReadAt: "2026-06-29T20:29:16.165Z"
+---
+
+On the other hand, the Trolls generally believe a person – even one from the lesser races – comes from beyond the veil through the Well of Eternity – a place of non-existence, nothing, an emptiness. Once they set foot in this world, they are granted a soul from the Well of Souls, which allows them to walk the path of the living until they ascend through what they believe to be the gate to the afterlife, the Well of Divinity, shedding their mortal bodies to join with the ancestors in the Spirit Realm and beyond.The Elves do not like this interpretation, and the Trolls are quick to remind them that the Wells predate even the first Elves. What is not widely known, though, is that the Wells predate even the First Age. I do not know how they were created, but you might try asking one of the ancient dragons. If you can find one, and if you can survive the conversation.- Excerpt from Legends of the First Age, the collected lectures of Val’korr, Trollish (translated).
+
+Calen studied Myrin’s Keep from his distant perspective, flying far above it on the cool, crisp currents of the early morning air, his eyes picking out the details with extraordinary clarity. Considering that only a couple of weeks ago it had been a town consumed by a rot dungeon, spawning waves of high-level monsters and devastating the countryside, the progress could only be described as astounding.
+
+And we have Ali to thank for fixing most of that.
+
+Still, there were large districts filled with pitched tents and makeshift dwellings, but the magic of the stone crafters, working in conjunction with Ali and her ridiculous mastery over her domain which now infused the entire town and surrounds, had contrived to restore the battlements, all the roads, the bridges, and most of the major buildings. Already, he could see the merchants setting up in the newly completed, expanded marketplace, and even several crafter and merchant districts were almost finished.
+
+His eyes lingered on Artisan’s Row, picking out his mother’s new and expanded shop from among the new buildings. It’s still there. She’s… He shut his eyes for a second, riding the unexpectedly powerful surge of emotion. Calen puffed out his cheeks. Yes. Stay safe, Mom.
+
+It was not just the stone and the buildings – in the fields south of town, the farmers had sprouted their crops, many of them excited to discover how much the dungeon’s mana would improve their harvest. The wood elves had taken to the giant Ciradyl trees, and already they had grown extensive dwellings and raised floating bridges connecting the major branches.
+
+He took a deep breath and began to descend, content that all was quiet, for once. The damage was being undone, and the trauma of being caught in the wake of a rogue dungeon, for the elves, twice now, would take longer to fade. But already the signs were there, as people began to look toward the future once more.
+
+But in the back of his mind, the specter of war lurked. Myrin’s Keep had been nothing more than an afterthought in the grand scheme of the Blind Lich, no more important than an ant crushed under the heel of his Death Knights, trampled like a discarded rag in conquest of the living. Everywhere, rumors and reports came in of destruction on a grand scale, but one more archer, even with his new strength, would be like a tiny shell washed away by the tide of darkness and undeath.
+
+What can I do that would even make a difference?
+
+Pushing his dark and depressing thoughts away for now, so that he didn’t inflict them upon his friends, he circled down, making for the guild, and while he did, he reviewed the last battle against the Sandwyrms.
+
+Realm Hunter has reached level 145 (+3).+30 attribute points.Radiant Archery has reached level 82 (+2).Arrows of Brilliance has reached level 73 (+2).Explorer has reached level 76 (+4).Blessing of the Dawn has reached level 60 (+2).Eyes of the Archon has reached level 55 (+4).Righteous Fury has reached level 51.Azrael's Wings has reached level 38.Mirage Armor has reached level 55 (+2).Cartography has reached level 27 (+3).Skinning has reached level 15.
+
+It was clear that the diminishing returns of fighting similar monsters had reduced the experience gained, but also, most of the fights had been borne on the back of the power of Ali’s Pit Lord champion. Still, a challenging encounter in the strange, conflicted realm known as ‘Zulkora’ with his new Realm Traveler title had netted him substantial growth for his Eyes of the Archon and Explorer skills, and an extraordinary increase in reputation for his patron. The tier upgrade in his blessing was a sure sign that his efforts were aligned with her goals, and at least he was having some impact.
+
+He opened the doors, and, greeting Mieriel on the way, found his friends sitting on the couches with Lyeneru and the Guildmaster.
+
+“Hi, Calen,” Ali said, waving at him with a smile, and suddenly his worries felt just a little easier, just a little more manageable. We’ll figure it out together.
+
+“Hey,” he said, joining the group.
+
+“I was just saying, I’m going to visit Azryet today,” Ali said. “Do you want to come?”
+
+He hesitated, all his planning weighing against the proposal Ali had just offered. The idea of exploring, even a little, the dungeon of the dragon god called powerfully to his skills and his nature.
+
+Who could say they have seen a four-mark dragon god and explored his domain?
+
+But the dragon god and his domain would still be there when he got back, and the trail of the Blind Lich’s Phylactery had the potential to turn the tide of the war. Twisting his mouth ruefully, he said, “I think I need to follow up on the lead we have to the Lich’s Phylactery.”
+
+“I concur,” Lyeneru said. “There are many jobs we need done, but this is perhaps the most important.”
+
+“Southport has issued new quests,” Vivian said. “The Blind Lich’s armies are relentless and never-ending. They are all but demanding that every platinum-rank adventurer join the war effort. I will not be able to deny them much longer.”
+
+“You shouldn’t deny them, Vivian,” Lyeneru said. “But, I agree, simply pouring our people into the grinder is not a good strategy. I have requested several scouting quests, and those finally came through today. We must determine where the undead are being spawned and cut them off at the source if Southport is to have any hope of stemming the tide. Aliandra’s discoveries in the Temple of Aman Rak have taught us that he subverts dungeons to create his minions – I will scout the Dol Kerriadh peninsula, Meere Kada, Telim Gor, and the ruins of Ciradyl. Calen will head to the Spine of the World and search for the Phylactery. With accurate information on the Blind Lich’s Death Knight factories, we can plan our next move.”
+
+Over the months he had spent learning from her, Calen had grown more comfortable around Lyeneru, but it was moments like this, facing the horror and might of the Blind Lich’s unholy power, that he truly saw what had earned her the title of the Legendary Pathfinder. Much like the fight against the Lich in Aman Rak, or facing certain death at Nathaniel’s betrayal, her inner resolve and focus was like adamant, her intellect sharp and fast like a piercing arrow, and her grasp of strategy on the scale of kingdoms, far beyond his experience.
+
+“This sounds like a good first step,” Vivian said.
+
+“It’s hard for me to contribute,” Ali said. “I’m chained by my domain and the withdrawal penalty.”
+
+“Aliandra, you must consider the long term,” Lyeneru said, nodding toward her. “Your value to the war effort is in the resources you produce. Every platinum-ranked class you unlock is potentially another person on the battlefield, trying to tip the odds in our favor.”
+
+“I would like to fight,” Malika said. “It is right to stand up against the Blind Lich and his minions. We have power, but many do not.”
+
+“Me, too,” Mato said. “The undead cannot be allowed to destroy the land.”
+
+“Once Lyeneru scouts the best targets, you will have your chance,” Vivian said. “We all will, whether we like it or not. Now is the time we must grow stronger. All of us.”
+
+With his mind filled with strategy and numerous worries about Vivian’s dark prediction, Calen made his way over to the quest board. The usual quests and jobs were on display, but when he touched the runic controls, the posted listings shifted to show only the platinum-ranked quests, and he quickly scanned all the new offerings.
+
+“Wow, those rewards are something else,” Mato said, peering over his shoulder. “A thousand gold per Death Knight kill quest?”
+
+It sure looked like a lot, but Calen knew, one-on-one, he could easily spend more gold on consumables against a Death Knight. But then his eyes settled on the scouting quests, and he smiled, finally finding something that fit him perfectly.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

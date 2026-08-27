@@ -1,0 +1,217 @@
+---
+id: 7c9b0e74-0409-52e3-a20c-d77b3e7348f9
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Callan"
+slug: 0023-interlude-callan
+partOf: flesh-eater-demon-evolution-litrpg
+position: 23
+ownLength: 3803
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2626791/interlude-callan"
+royalRoadId: "2626791"
+---
+
+The ichor lights were moving more than usual. Callan squinted up at the canopy, tracing their glow with his eyes while he muttered to himself. He turned, stepping over a small boulder onto a pile of scattered leaves. This area was patrolled fairly regularly, but if he kept heading north, he should reach the more secluded parts of the forest soon. He tightened his grip on his bag. If he was right, north was where the peninsula’s ichor concentration should be at its highest.
+
+Callan continued forward, eyes continually scanning his surroundings for any signs of movement. He half expected to hear footsteps behind him—his parents or maybe a guard calling him back on their behalf.
+
+He wasn’t a kid anymore, though. His parents wouldn’t bat an eye if he ventured away for a bit, and he’d long grown past the point of being the most important thing in their lives. They had serious work: the war was ramping up, and once again the fear of the Tavrell Empire crossing the Spine was spreading like wildfire throughout the village. Even little Winrow, so isolated on its peninsula, couldn’t escape the news.
+
+Callan ducked under a low branch and continued walking.
+
+Three months ago, he’d planted fifty plants in a circle in his garden. Years of failed experiments and spells and unending frustration had led to that little batch of seeds.
+
+Those plants were specifically designed to be hyper-sensitive to atmospheric ichor. Combined with a few more spells, the circle acted as a map of sorts, one that would chart areas of particularly high ichor concentration.
+
+The plant that tracked the northern parts of the forest had been shooting up like crazy for the past several weeks, and he was going to find out why.
+
+Callan nearly stumbled over a fallen branch. He quickly caught himself on a tree and straightened again. The mage exhaled and kept going. Now that he was further away from Winrow, he unsheathed the dagger he’d brought with him.
+
+It was an old thing, gifted to him on his eighth birthday by his parents. At that age, he’d already decided to become a mage, but he hadn’t wanted to disappoint his parents by telling them. They were so proud to have a son following in their footsteps, and he couldn’t stand the thought of that pride disappearing. Callan pursed his lips and shoved down the memories.
+
+A twig snapped. The mage jumped, and his grip on his dagger tightened. He spun around, searching for the source of the noise, but there was nothing there. It was probably just the wind or maybe a rabbit passing by.
+
+His shoulders relaxed. Callan mentally scolded himself for being so nervous. Stupid, he thought. How was he ever going to leave Winrow if he couldn’t make it through the forest without jumping out of his skin at the smallest noise? Crossing the mountains would be infinitely harder than this.
+
+Exhaling, the mage continued walking. He estimated he was past the point the guards patrolled, so he was starting to enter uncharted territory. He squinted up at the canopy. It might just be his own hopeful imagination, but it did seem like there were more ichor lights between the leaves here. Maybe he wasn’t wrong about this.
+
+Another branch snapped. This time the sound was louder than before.
+
+Callan paused and turned again, expecting a rabbit or a squirrel to come bounding out of the bushes. Still nothing.
+
+He frowned. Slowly, he took a step forward, then stopped again. A chill crawled up his spine.
+
+Up ahead, something moved.
+
+Through the dense trees and the shadows of the forest, six yellow eyes peered out of the darkness. They didn’t rest on any animal face he recognized, but were instead set atop a bony white skull ending in a jaw filled with crooked gleaming teeth. The creature’s body was obscured by the bushes, but Callan had already seen enough. There was only one thing it could be.
+
+A chimera.
+
+The mage didn’t think. He just turned and ran. His heart was pounding so fast that he swore the creature could hear it beating in his chest, but he didn’t dare look back to check.
+
+Questions flooded his head as he sprinted away, his breaths coming out in gasps and pants. What was a chimera doing here? Had it seen him? Was it following him now?
+
+He had to warn the village, Callan thought. His parents would know what to do. They’d probably seen a chimera back before they’d moved to the peninsula—they’d take care of it. They would investigate where it had come from, send out a group of guards to kill it, and everything would be fine.
+
+Callan repeated those reassurances to himself all the way back to Winrow, but between the panic and terror and adrenaline, he couldn’t shake a growing sense of foreboding.
+
+When Callan was seven years old, his parents took him to see the annual harvest blessing. It was an old tradition in the village, and he’d already heard all about it from the older kids in his class. His parents, however, had insisted that seeing it in person was different.
+
+For the most part, the event was what he’d expected. A few words of gratitude were spoken to the ancient angels who’d died to save humanity, and the village head gave a few updates on the state of Winrow. A seven year old Callan had listened politely, but after the brief mention of the angels, he’d been bored to tears.
+
+And then, the mage had stepped forward.
+
+Dressed in a thick cloak that obscured his features, he’d stood in front of the field and begun chanting in a low, almost melodic voice. Callan had instinctively straightened at it. There was a power and authority to those words, one he recognized even without knowing what they were for.
+
+He remembered the ichor lights glowing brighter, how streams of ichor flowed through the air like silver strings weaving a tapestry at the mage’s command. The man’s body had begun to glow with a pure white aura, the light crystal clear and so bright that it hurt to look at. He’d raised his hands. With a snap of his fingers, the lights scattered across the field like thousands of stars falling down from the sky.
+
+Around him, onlookers had clapped and cheered. This was a familiar sight to them, but Callan had been too awestruck to move. He couldn’t take his eyes away from the silver lights drifting down onto the earth. He was sure that they were the most beautiful thing he’d ever seen.
+
+Years later, Callan would look back on that moment as the day fell in love with magic.
+
+There were several voices coming from inside the house. If Callan were in a less panicked state, he might’ve paused and wondered what was going on. It was late enough that his parents should have both returned from their guard duties, and they rarely had guests over.
+
+As it was, though, Callan was more focused on the memory of those six yellow eyes. The chimera hadn’t followed him—and thank god for that—but that just meant it was still out there. What if a patrol ran into it? He’d never heard of a chimera appearing near Winrow before. They wouldn’t be prepared.
+
+“Mom! Dad!”
+
+Callan burst through the door, still panting and out of breath. He froze when six different pairs of eyes turned to face him.
+
+The house consisted of a squat, compact wooden building kept meticulously neat. The interior of the home was designed for efficiency, which meant there were few extraneous decorations beyond a picture frame or an occasional vase of flowers. His parents spent most of their time away, anyway. When Callan was by himself in the home, the place never felt small at all—quite the contrary.
+
+Now, with six full grown adults crowded around the little table in the center of the living room, the air felt distinctly stifled.
+
+Callan’s eyes quickly moved between them. He recognized a few high-ranking guards, the village head’s secretary, his old magic instructor, and, of course, his parents still dressed in their uniforms. They all looked like they’d been in the middle of talking, mouths still half-open, his mother’s head in her hand in frustration.
+
+Callan felt himself deflate a little, but he swallowed and stood his ground even as his parents both frowned.
+
+“Callan, where’ve you been?” his mother asked. The mage carefully closed the door behind him.
+
+“I was, uh, taking a walk.” He forced himself to ignore the annoyed gazes tossed his way and continued. “Mom, I saw a chimera.” He put as much urgency into his voice as he could. “It was north of the village. I ran away, but—but I think it’s still there.”
+
+A silence fell over the room.
+
+And then, a few seconds later, his old magic teacher snorted.
+
+“What’s this nonsense? There’s not enough ichor on this peninsula to create chimeras. Have you forgotten everything I’ve taught you?”
+
+Callan pushed down a retort that actually, he’d mostly taught himself since the man had barely gotten any actual instruction done between his constant insults. The second he’d learned about Callan’s low magic potential, he’d written him off as a lost cause and a waste of time.
+
+“It’s real,” he insisted. “I saw it. I think there’s more ichor than we think up north, enough for a chimera to form. That’s why I was in the forest to begin with—I was investigating it!”
+
+“Is this about your garden?” His father’s voice was neutral, as it usually was, but with just the slightest hint of disapproval in it. He’d never understood the purpose of that plant circle. Even when Callan had explained that it was to read the levels of ichor in the atmosphere, he hadn’t been able to fake more than a few passing words of enthusiasm.
+
+“No, it’s not about the garden. I’m telling you it’s real! Gather a patrol group; I’ll lead them there!”
+
+“Callan.” His mother’s voice was weary. “Can you please go outside for a bit? We just heard news from Auren. They’re requesting Ravarn send troops to aid them.”
+
+That made the mage pause. “…It’s gotten that bad?”
+
+“Very much so.” His instructor’s voice was dripping with disdain. “Now, if you could just leave us alone, we can continue discussing important things.”
+
+A spark of indignation flared at that. Callan opened his mouth to retort, but at the last second, his eyes darted over to his parents. Both of them were watching him, the exhaustion visible in the lines of their faces, the tired slopes of their shoulders, the bags under their eyes. They were on the mage instructor’s side, he realized. That was why they hadn’t said anything to reel the man in. They didn’t believe him either.
+
+“We can talk after this,” his mother said softly.
+
+Slowly, Callan nodded, his throat suddenly dry. He swallowed and turned around, gripping the handle to swing the door open again. He slammed it shut behind him.
+
+They would talk later, but he already knew what would happen.
+
+At fourteen, Callan finally sucked it up and told his parents that he was going to pick mage as his base class, not warrior. By then, they’d already mostly figured it out, so there wasn’t much surprise in their eyes as they’d nodded.
+
+If anything, he thought they looked a little relieved. At that point, a few schoolhouse brawls and clashes with other kids his age had shown that while Callan had a temper and stubbornness to match with the best of them, he had absolutely no coordination or basic reflexes to speak of. Scrawny and awkward, he was about as far from “warrior material” as you could get. Maybe they were a little sad he wouldn’t be following in their footsteps, but at least this way he wouldn’t embarrass them.
+
+In the years leading up to that, Callan had already been studying magic extensively. He pored through books, staying up reading well past midnight and sometimes until dawn if he found a particularly interesting volume. He practiced etching runes and learned the chants of every spell he could find. He was determined to become the best mage in Winrow—good enough to wipe away any lingering disappointment his parents felt at his class choice. Then, he’d travel to the mainland to all the places he’d read about, studying magic from other countries while perfecting his craft.
+
+When he reached sixteen, Callan was finally ready to select his base class. At that point he had several volumes of magic fundamentals memorized. He dreamed about manipulating ichor and performing spellwork like he’d seen on the field that day. His parents had even encouraged him, energized by their son’s enthusiasm, and found the best magic instructor in the village to teach him the basics after he unlocked his core.
+
+Then came the first lesson.
+
+It was a simple one. A mage’s first step was to learn to lower the barrier around their core. The first time, they would lower it as much as possible to measure their potential for drawing in ichor. Callan had run through the motions countless times already. All that was left was to do it for real.
+
+That was when things went wrong.
+
+In all those years of reading and studying, it had never occurred to Callan that he might simply lack an innate talent for magic. As a child, it had seemed like a given that if you loved something and worked hard at it, you would inevitably succeed, and he’d carried that mindset with him into his teens.
+
+It didn’t take long for the idea to be shattered.
+
+“I don’t understand,” he remembered hearing his mother murmur through the closed doors. “Surely if he practices enough, he can learn to absorb more ichor.”
+
+“He’s very hardworking,” his father had agreed. Normally Callan would’ve latched onto the praise, so rare from his stoic father, but as it was, all he could do was stand there, back against the wall, listening in as his instructor relayed his failures.
+
+“He can improve, but there is a limit,” the mage had said. “The fact of the matter is that your son will never be able to draw in enough ichor to perform anything beyond low and mid-level spells. I can teach him all the theory in the world, but to be frank, he has no talent for magic.”
+
+His parents said something back, but at that point he’d heard enough. Callan shoved himself away from the wall and stalked back to the living room, where he grabbed the book of earth magic he’d been reading and plopped down to continue poring through the pages. He committed paragraphs of intricate ichor weaving patterns and elaborate chants to his memory, ignoring the increasingly raised voices coming from the other room.
+
+He just sat down, focused, and kept reading.
+
+Callan cursed and shoved another branch out of his face. His eyes darted around, searching for anything resembling footprints.
+
+As expected, his talk with his parents hadn’t gone well. They hadn’t been angry with him—just concerned. They worried he’d been staying up too late, that he was becoming obsessed and starting to see things that weren’t there, that his own bitterness at his weak magic core was eating away at his mind. It was one thing to have a useless son. It was another to have a crazy one.
+
+A part of Callan wished they would get mad, just once. He could take anger. It was the subtle disappointment, the quiet pity that drove him up a wall.
+
+Three days had passed since he’d seen the chimera. He’d told damn near everyone in the village, and no one had believed him. One word from a more experienced mage was all it took to destroy any ounce of credibility he managed to gain.
+
+If no one would believe him, Callan decided, then he’d just have to bring back proof and force them to take him seriously.
+
+He ducked under another low branch, pausing and craning his ear at the sound of water. If he remembered right, there was a stream near here that ran throughout the forest. Callan frowned, thinking. He wasn’t sure what creatures this chimera had formed from, but generally speaking, it should still need to drink water. If he followed the stream, he might be able to get a lead.
+
+Taking a deep breath, Callan stepped towards the noise. His fingers tightened around his bag. He didn’t need much as proof—some fur, shedded scales, a broken piece of a horn. As long as it came from the chimera, a spell would reveal the warped ichor around it. He knew the other mages would probably scoff and refuse to perform the spell, but he’d either force them to or he’d do it himself in the middle of the village if that’s what it took.
+
+One piece. That’s all he needed.
+
+Up ahead, the trees thinned, the forest soon opening to reveal a narrow stream cutting across the earth. Callan began following along the water’s edge. He was well past Winrow’s patrol bounds by now, he knew. Aside from the sound of the stream, the forest remained eerily quiet. He kept walking.
+
+Eventually, the stream led him into a clearing. Callan pushed a few bushes aside, taking note of a small waterfall and the cave below it. He stepped a little closer.
+
+The inside of the cave was empty from what he could tell, but near the entrance, he could see what looked like a sharp white tooth. The mage’s heart raced. Moving swiftly, he picked it up. Was it the chimera’s? Had he found its lair?
+
+There was a chance, of course, that it belonged to some other animal, but this was better than nothing. He tucked it into his pocket. He’d head back to Winrow and test it to see if its ichor was warped. If it was, then he had his proof. If not, he’d look again. He didn’t care how many trips it took.
+
+For now, Callan turned away, readying to return to the village. That was when he heard it.
+
+A low, rumbling hiss.
+
+The hairs on the back of his neck rose. Before he had a chance to turn around or leap away, blinding pain burst from his back. The mage screamed, falling forward as sharp claws dug into his flesh. He slammed hard into the ground, but the sensation barely registered to him. Callan gritted his teeth. Through the pain, he could hear another snarl. Without thinking, he threw his arm back with as much force as he could muster.
+
+He felt it slam into something hard, and there was another hiss. Callan shoved himself up, fueled by adrenaline, and rapidly muttered a chant below his breath. He raised his hand just as the chimera pounced again, and the spell burst out of his palm.
+
+The creature didn’t even flinch. The magic just bounced uselessly off its body.
+
+Its jaw unhinged. Callan scrambled away, but it was too fast. Rows of gleaming teeth clamped into his torso, and for a second he blacked out from the pain. By the time he was conscious again, he was faintly aware of his own voice screaming as he thrashed wildly in the monster’s grip. He tried to cast another spell, tried to dig his fingers into those yellow eyes, but it held on.
+
+Around him, his surroundings were becoming blurry. He was losing too much blood, he realized.
+
+Still struggling to force the chimera away, he felt his hand brush against something hard. He grabbed onto the rock and swung it down on the chimera’s skull. It snarled, jaws loosening just enough for Callan to shove it away.
+
+Gasping for breath, he chanted another spell and slammed his other hand into the ground. Thin vines sprouted out from the earth, snaking and coiling around the chimera. They wouldn’t hold it for long, he knew. He had to get away.
+
+Callan forced himself to his feet. His legs were shaky, and he couldn’t see straight. His whole body was starting to grow cold, but he attempted to take a step forward. He almost fell, but he kept going.
+
+Behind him, the vines ripped.
+
+A heavy weight slammed into him. Between his fuzzy vision and the nonstop pain, everything was becoming hazy. He was vaguely aware of the chimera clawing into him, of himself still desperately trying to hit it back, but his body felt distant, heavy.
+
+He was dying, he realized. He was going to die here, alone in the middle of the forest, and no one would know what had happened to him.
+
+In a last ditch effort, he attempted to fire one more spell directly into the chimera’s chest. It barely singed it.
+
+Sharp teeth tore into his arm, yanking it out of its socket. He punched the chimera with his other hand. Its snake tail wove around its body and snapped his fingers.
+
+When Callan imagined dying, he’d always thought there should be more to it. Some greater meaning or purpose. As it was, there was only pain, so much pain that he couldn’t tell where it was coming from, and a growing, all-consuming cold. No grandeur, no heroics. He was going to die as he’d lived—useless, insignificant, and filled with regrets.
+
+It was so easy to snuff a life out. He was hit with the growing realization that he would never travel the continent now, never get a chance to learn more spells, never share a quiet meal with his parents again. He wouldn’t be able to feel the wind on his skin anymore, smell the fresh grass after a rain, see the soft glow of ichor. So many little things that he’d taken for granted, all of them gone in an instant.
+
+The black spots in his vision grew. His heartbeat was starting to slow down, and there was probably more blood outside of him than inside at this point. He should close his eyes and just accept it—maybe he’d go unconscious faster and the pain would stop—but he couldn’t bring himself to close his eyes.
+
+He kept them open even as the chimera shifted until it was looming over his head, staring into those blurry yellow eyes and its open maw. He met its gaze as those teeth clamped around his skull. He refused to look away.
+
+Everything went dark.
+
+He heard a voice, but he didn’t understand the words. It was cold, but a wave of warmth washed over him.
+
+The haze lifted. The world sharpened into focus.
+
+When Callan looked up, the first thing he saw after waking was the sight of a demon standing before him.

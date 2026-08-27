@@ -1,0 +1,197 @@
+---
+id: f256e407-1d68-5bfb-a7fb-8e210b19a9ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: Bestowing Morality"
+slug: 0088-chapter-73-bestowing-morality
+partOf: ends-of-magic
+position: 88
+ownLength: 2646
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3281004/chapter-73-bestowing-morality"
+royalRoadId: "3281004"
+---
+
+Evesor’s expression firmed. He spoke clearly and directly to Nathan, but his words were intended for the audience of Questors watching them. “Very well. You win our duel. Kill me, but the conclave is still over. By Edes, all you have gained is your own satisfaction.”
+
+Nathan tilted his head. “We’re not done yet. Not until I’ve said my piece.” You weren’t really supposed to use the duels as a chance to speak to the audience. A bit of banter was expected, but it was not a free speaking slot. Still, Nathan had risked everything to earn this moment to save the conclave. For now, all of the Questors were eating up the sheer drama of the moment. Most of them thought he was doomed to failure. Even he only had a slim hope. But it was the only hope he had, and he had no choice but to follow through.
+
+“I tried to do this the proper way,” Nathan started, sending his voice around the arena with his skill. “Through conversation and diplomacy. Davrar is broken, and it must be fixed. You have the power to do that, and I want to work with you to make it happen.” While he talked, he spread his aura out to dissolve the edges of the arena, keeping just enough to worm his way into Evesor’s mana pool and drain him dry. He paused as his aura ate away at the spherical arena like acid dissolving through spun sugar.
+
+Evesor opened his mouth to speak, expression disdainful. Nathan shut him up with a quick punch to the solar plexus, leaving the Questor gasping and out of breath. He continued speaking, turning away from Evesor to address the crowd. “But you hold the power of life and death over every mortal in Davrar, including me, my friends, and our home. This very conclave is hostile to mortals, with every speech resulting in a death or three.”
+
+Davrar seemed to have decided that Nathan had done enough talking, and it attempted to clamp down on his voice. He fought back, holding off its efforts without letting any sign of the effort show in his face. “Questors keep telling me that my antimagic goes beyond anything you’ve seen before. I learned to neutralize wizardry and silenced an entire Grid's magic. I crippled Badud’s magic after I beat him, but I could have cut him off entirely. Davrar, validate that.”
+
+He glared around at the Questors, who seemed unsure of the direction of Nathan’s speech. Some were outraged at the suggestion that he could permanently hurt them, but most didn’t seem to feel threatened. “But that’s not the limit of my Insights. When we conquered a Blight, I found traces of the deep magic of Davrar. The thing that forms this dueling arena.” Nathan gestured around with one hand at the remnants of the sphere, the only trace of Davrar's power a small area directly below him.
+
+Then he held Evesor up with his other hand. The Questor’s eyes were wide and bulging, and he shook his head in mute desperation. “It is also the thing that makes a Questor a Questor.” He reached one hand upward to cup Evesor’s forehead. It was entirely for show. He didn’t even need physical contact to do what he was about to do, but it helped demonstrate to the audience what was going on.
+
+Nathan half-expected somebody to intervene, but they didn’t. He still tried to hurry, funneling his antimagic into the aether and then deeper, towards the bundle of complex energy that formed Davrar’s connection to Evesor. It was more complex than any magical construct Nathan had encountered. By habit, he focused on a small part of it, trying to understand just a minute section of the construct. But no matter how closely he looked, he found ever-deeper complexity, like zooming in on a circuit board and discovering more and more layers of organization at higher magnification.
+
+It didn’t matter. He wasn’t trying to understand how Davrar bestowed the system on people. He was just wrecking it. He brought his antimagic to bear and found it stymied by the Gordian knot of Evesor’s system. It had yielded to his antimagic in the physical world, but resisted him here inside Evesor’s soul. Nathan was tempted to back off and tease apart the complexities, to unravel the interlaced framework in much the way he’d solved previous obstacles. But he knew this would take more than that. This was one final step, one more demand from Davrar that Nathan prove himself worthy of the power he was attempting to grasp. He pushed for an Insight, briefly sending his mind deep into his mental palace for inspiration. He sorted through ideas and memories for something that would help him break Davrar-granted powers. He didn’t find anything that felt right. Nothing else he’d run across in his journeys had interfaced with the magic of classes and skills so deeply.
+
+Will I fail now, at this final barrier?
+
+He pushed down the rising fear and calmed the encroaching rage. This needed to work, at all costs. He forced himself to think calmly, to search for ideas. His antimagic was rooted in denial, sacrificing his own potential to wield magic to deny it to others. His Developments emphasized the idea that every magic had its counter, that the playing field could always be equalized by the appropriate counter.
+
+Nathan embraced those concepts, throwing the deeper meaning of his antimagic at Davrar. His power was about tearing down power differentials, and what embodied that greater than immortals lording it over mortals? He knew Davrar could read his thoughts; it had done so for every previous Insight. So he communicated his willingness to sacrifice his own potential to deny it to the enemy, as he had once done with his dreams of magic. Ultimately, this wasn’t a contest of power. It was a request to Davrar. Nathan recognized that he was using the power Davrar had granted him to contest another part of the grand system. He could only win this contest if Davrar decided to let him. So he posed a question inside his own mind, addressed to Davrar. Did it agree that the very power of Questors should have a counter? Was his risk, his sacrifice, great enough to overcome this final, ultimate piece of magic?
+
+Congratulations, you have developed the [Magical Destruction] Talent into [Davrar’s Denial].
+
+Talent: [Davrar’s Denial]
+
+You deny not only mana and wizardry, but also Davrar’s core power, the deep magic that grants Classes, Skills, Levels, and Talents. You can deny all skills and Talents in addition to magic. Be warned that your own Davrar-granted power is not exempt.
+
+His power ripped through Evesor’s binding, severing the Questor from Davrar and wholesale destroying the knot of power that had been the man’s Talents and classes. But a thread remained, stretching off beyond Nathan’s sight. It pushed forward, seeking to re-establish what had been lost. But it could make no headway against Nathan’s aura. Nathan understood that he had a choice. He could sever that connection and permanently cut Evesor off from Davrar, or he could hold off and allow Davrar to reconnect later.
+
+I’m on a time limit here.
+
+The Questor jerked in Nathan’s hands, convulsing and seizing as he lost every single bonus granted by the system. Nathan half-expected the man to go completely limp as whatever connected this body to an external mind was cut. But that didn’t happen. After a moment of supreme disorientation, Evesor croaked out a few words. “What did you do?”
+
+Nathan felt new hope surge within him. He hadn’t been sure until this very moment that the Questors were really and truly here. But they were, and that meant he had real leverage over them. That gave him a real chance. He removed his hand from Evesor’s head and answered him, pitching his voice high and spreading his aura out to ensure Davrar didn’t interfere with his speech. “I destroyed your connection to Davrar. Your Talents, skills, and classes. You are not a Questor anymore. You are barely a mortal.”
+
+Several members of the audience got up and sped for the exits, but the vast majority stayed where they were, spellbound by the spectacle. A few yelled, and the Aleph grid was trying to intervene. But Davrar suppressed their efforts and prevented any interference with the ongoing “duel.”
+
+“If I kill you now, you will die permanently,” Nathan said, twisting his aura through the deep magic around him. The last of Davrar’s shackles fell from him, and his social skills spilled forth into his words. “You have tried to kill me many times. You have committed innumerable crimes over centuries. You manipulate this conclave into dooming billions of mortals to death. You deserve a final death.”
+
+His grasp tightened, and Evesor gasped, shaking his head minutely in terror and denial. Nathan’s grip on his robes was tight enough that the ex-Questor was struggling to breathe. If he exerted much more pressure, the man’s bones would break. It would be no effort at all.
+
+Then Nathan let out a prolonged breath and dipped down to drop Evesor onto the small shard of the crystal arena he’d left intact. “But that won’t fix Davrar. Violence begets violence, and I do not want to go to war against the Questors.” He withdrew his antimagic from Evesor and felt Davrar reconnect to the man. It was just a seed compared to the massive tree that had been there before, but it pulsed with a signature Nathan thought was unique to Questors.
+
+“Davrar, validate this: I could have killed Evesor permanently, or left him mortal forever. His death would have been inevitable and final. But I chose not to, and his immortality is now restored.”
+
+Nathan looked around at the audience of Questors. They were captivated, even those who’d been trying to get to the doors freezing in place to see what he would say next. “There is a better path than death, for you and for me.” Nathan struggled to keep his calm. This was it, his final ploy to find the narrow path through the keyhole to fix Davrar. “Colborn’s proposal is workable, except that it lacks a way to resolve moral questions. I propose an addendum, that my consciousness be uploaded into Davrar to make those decisions. Davrar, does this modified Continuance Charter work?”
+
+Nathan nodded, unsurprised. He’d confirmed that this would work before the duel against Evesor, when he'd put together this insane plan. Now he just had to convince the Questors to go for it. “Colborn laid out why this Charter is a good idea. It will make Davrar better for both mortals and immortals. I will guarantee it remains true to the intent of the Charter with the very core of who I am.”
+
+His mouth set in a hard line. “It will also remove my body and abilities from Davrar.” He left the threat unstated, but it was unmistakable. If the Questors didn’t agree on the proposal, they’d be face-to-face with a pissed-off Nathan. He didn’t know what he would do in that case, but he was happy to let the Questors fill in the blanks on a vengeful rampage that threatened their immortality. Especially since his threat was half a bluff. Continued use of that ability would destroy all of Nathan’s other abilities.
+
+Congratulations, you have developed the [Inspiration] Talent into [Mandate].
+
+Utility skill: [Mandate]
+
+Your words guide the minds of those who listen to you. Listeners remain free to disagree, but they must engage with your earnest intent.
+
+“I call for a binding final vote on the Continuance Charter, modified with my addition. Do you want a future of death, or one of life?” Nathan held both hands out as if balancing two possible futures, and waited for their answer.
+
+Nathan had to remember to breathe. He’d been the one to call the vote, so it made sense he’d be able to see it. He ignored the bars of “yes,” “no,” and “abstain” in the corner of his vision, except to note that there were almost zero abstentions. Instead he panned his gaze around the audience, gaze intent as the Questors entered their votes. They shrank away from his stare, terrified of drawing his attention.
+
+It was an effort of supreme will to keep his eyes away from the vote summary, but if acting intimidating and confident swayed even a single vote among the hundreds of thousands present, then it would be worth it. He had thrown this idea together in the moments after Evesor’s poll had come back, and hadn’t had enough time to talk it over with any of his friends or allies who could have told him if it stood a chance of working.
+
+They all would have tried to talk me out of it regardless.
+
+Hopefully, most of the people who’d supported Colborn’s idea originally would stick with it. He thought he’d demonstrated his character well enough and reinforced it by sparing Evesor. Then there was the threat of permanent death, and the promise that the Questors would be rid of it if they just voted for the proposal. Yes, they’d be handing him greater control over Davrar, but it was a softer power than the permanent death he had demonstrated. Then there were his social skills. He had no idea what percentage of the Questors could resist, but it definitely wasn’t all of them.
+
+Is it moral to use social skills to manipulate the vote here?
+
+He almost snorted. Yes, he was confident that he was in the right. If the only way to fix Davrar was to permanently kill every Questor who disagreed with the need for change, he would do it. But he would prefer any other solution, which is what he was doing now. Using a bit of Davrar-granted persuasion to make them see his point of view was a fairly minor harm to avoid a much greater evil.
+
+Nathan closed his eyes, feeling a complicated rush of emotions. That was it. He’d won, and now it was time to pay the price. He opened his eyes to see another blue box hanging in front of him.
+
+He just wished he had the chance to say goodbye to the Heirs. But he would not risk anything that could stop him now. He accepted the prompt and released his grip on his antimagic. He could have fought Davrar’s power, but he didn’t. This is what he wanted, after all.
+
+I did what I could. I hope it’s enough.
+
+Talent: [Davrar’s Denial]
+
+You deny not only mana and wizardry, but also Davrar’s core power, the deep magic that grants Classes, Skills, Levels, and Talents. You can deny all skills and Talents in addition to magic. Be warned that your own Davrar-granted power is not exempt.}
+
+Utility skill: [Mandate]
+
+Your words guide the minds of those who listen to you. Listeners remain free to disagree, but they must engage with your earnest intent.
+
+Permanent Talent 1: Davrar's Denial 2
+
+Permanent Talent 2: Distributed Immortality 3
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1337
+
+Bottomless Stamina: 134700/134700
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 951
+
+Limitless Focus: 8371/9610
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Mandate 1
+
+Impulse 8
+
+The Sense of Magic 7
+
+Forewarning 10
+
+The Truth of Magic 8
+
+Evasion 5
+
+Wizard’s Palace 8
+
+Veracity 5
+
+Visibility Control 8
+
+High-tier Battle Cry 10
+
+Aura Mastery 6

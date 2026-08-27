@@ -1,0 +1,167 @@
+---
+id: fce62dfa-477f-50a1-a0f0-1d6fb18671fc
+page-type-slug: story-chapter-royal-road
+title: "Ch59 Green Rock Lake"
+slug: 0059-ch59-green-rock-lake
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 59
+ownLength: 2113
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3429401/ch59-green-rock-lake"
+royalRoadId: "3429401"
+---
+
+We receive far more earth mound talismans than usual in this supply dropoff. There are generic low-grade defensive talismans and even low-grade weapons presented for the first time as well.
+
+I receive a small black iron dagger, but stow it away as it's not better than the bow I use as a main weapon, or the few random inferior grade weapons I’ve upgraded to perfect grade with extra cards these past few days.
+
+Though, identical sleek black daggers are held in the remaining nine stewards' hands all around me with a glimmer of awe in their eyes.
+
+We hand off the secured camp to a new team that arrives about half an hour later and set out far deeper into the western forest. Our checkpoint is over 30 kilometers away. Even at our fast pace as cultivators, this takes a majority of the day.
+
+The rockier terrain we’ve been moving through the last few days starts to thin out, and the earth beneath our feet becomes more moist. Occasional streams and ponds pop up, and the wetter land makes it far easier to track enemies.
+
+Once we’re well into the day and the sun begins to fall closer to the horizon, footprints begin popping up everywhere. Not only that, but the faint sensations of qi-infused blood spattered on trees.
+
+The further we walk in, the more this feels like our first mission, where we were being watched and surrounded in enemy territory.
+
+This time, every steward is looking over their shoulders.
+
+Yun Renshu’s sharp presence in the back of our squad is almost painful on the back of my neck as he scans our surroundings, and Bao Zhan constantly disappears in a blur of black aura far ahead to make sure our path is clear.
+
+We travel in this tense and tight formation for over an hour as signs of battle become more and more pronounced.
+
+Enormous craters, pockets of dozens of fallen trees, and even body parts left behind become quite regular. Yet, not a single Blood Sword Sect cultivator attacks, and my senses do not pick up on any abnormal auras outside of my direct line of sight.
+
+We arrive at a clearing where the trees stop growing, and far ahead in the distance a large body of water comes into view. At its far side there is an enormous green boulder sticking out from the lake. Behind the rock, a small portion of water and shore is hidden.
+
+Even a kilometer away, we can all see it, and the slightly warm rush of dense qi tells us we’re certainly in the right place.
+
+“The high quality spirit vein is beneath that chunk of verdant steel ore. My guess is there’s a much deeper vein of material underground. No wonder the Sect put us up to this…” Bao Zhan murmurs.
+
+The vice captain’s medium quality short swords are grasped tight by his side as he examines the calm tree line to either side of us.
+
+“There’s no sign of them around the lake, they must be hiding in the trees.”
+
+Everyone stands in silence, waiting for orders as Bao Zhan scans the scene and looks toward the direct and closest path to the rock. However, the open grass clearing is far thinner there; it's right up against the tree line.
+
+“That’s where they want us to go.”
+
+He shifts his gaze back to the other side of the lake, which would be the long way around.
+
+“We’ll be a moving target for twice as long, but at least we’ll see them coming if there’s an attempted ambush. The treeline is over a hundred meters away. We secure the land around the center of the vein and wait for orders.”
+
+We’re repositioned into formation, then walk out into the clearing.
+
+The silence is extremely eerie.
+
+Our squad leader’s logic adds up, as the shortest path close to the treeline where illusory demons could hide would be the perfect place to ambush an inexperienced squad.
+
+However, my resonance with the demonic technique has begun to swirl in the edges of my consciousness.
+
+Whoever is watching is far away, and they have hidden themselves extremely well.
+
+The closer in we march, the stronger the resonance becomes.
+
+There is no movement in the trees and no blatant attack now that we’ve opened ourselves up for anyone looking to see.
+
+The tension in everyone’s footsteps and breathing grows as we pass by the treeline where demons could have surprised us, and now toward the final stretch behind the green boulder.
+
+To our left, there is a raised hill of dirt and rock, making it basically a wall of earth protecting us.
+
+To the right, there is only the lake. As the stirring of the illusory demon's aura grows, the only possible place they could be hiding is behind the boulder.
+
+Even without these senses, this is the common rule of thought for everyone in our squad.
+
+Our pace slows down as we get closer, but my heartbeat speeds up.
+
+This is because the stirring in my mind has somehow become less potent, and it's split into two groups. One is right where we’re headed…
+
+A sudden burst of red aura and heat erupts into the air.
+
+“Blood Demon Transformation! I’ll handle him, vice captain, you lead the squad to take on everyone else!" Bao Zhan yells, running forward while his skin shifts even darker to a pitch black color, vibrating with the heavy aura of his acquired physique. A faint cloud of black mist trails behind him as he moves faster than my eyes can see.
+
+Yun Renshu yells next, “Forward, into formation to stop any from running away!”
+
+The stewards around me follow his lead, but my footsteps turn to move in the opposite direction.
+
+I do not want to panic the squad, but I still whisper under my breath while running past the blond-haired vice captain. “There are more in the lake… they wanted to bring us here to squeeze us from both sides… I’ll hold the rear as long as I can.”
+
+His eyes widen as I run past him, back the way we came.
+
+There is not even a ripple in the surface water, but I can feel dozens of warm auras traveling quickly from the center of this lake.
+
+It wouldn’t have mattered which side we attempted to go around, they would have reacted the same way.
+
+Yun Renshu yells again, “Li Hao will take the rear, all of you fill his gap in the formation!” I can hear his disbelief of my callout in his tone. However, his focus quickly turns to his own mission as two dozen initial stage black-robed demons come flooding out from behind the green boulder where Bao Zhan ran.
+
+In the center of their mix, two 4th level qi refiners stand out, glowing with the red aura of a blood transformation demon.
+
+I do not even look back, nor do I care to hold back using any hidden items.
+
+I release my concealment cloak from my storage while running and activate a perfect grade defensive talisman while sprinting along the shore of the lake.
+
+It all happens in an instant.
+
+Before I can even make it out of the thin alley between the dirt mound and the lake’s edge, over thirty ripples start to manifest in the water.
+
+They quickly turn into large splashes, and the heads of demonic cultivators burst out.
+
+I start shooting arrows as fast as I can before they can even get on land.
+
+Five initial stage demons are dead before hitting the shore, but the majority spread out and run at me before I can get a fast enough shot off.
+
+The front line is all 2nd and 3rd level qi refiners. My eyes do not widen in shock because of them; instead, it is from the eruptions of red and black aura that come from the demons in the back of their formation.
+
+I instantly spot three that are mid stage qi refiners, but do not have enough time to focus or read their system scans.
+
+Instead, I pull out a crimson Incineration Talisman in one hand and a perfect grade Stone Bullet Talisman in the other.
+
+Enormous red flames explode into the closest approaching group of half a dozen demons, while an unbreakable sphere of stone pierces through three initial stage demons one by one before exploding one of the mid stage qi refiners to blood and flesh before he can even get out of the water.
+
+The backlash from the incineration talisman breaks part of my defenses, but I’m used to it by now.
+
+I send off four more arrows that land in initial stage demons’ foreheads before they can react to the shock of the situation.
+
+Instead of running away, I dive right into the center of the chaos at the shoreline, lighting off another incineration talisman to kill another five demons and evaporate a large amount of lake water.
+
+At the same time, I sense the presence of one of the 4th level qi refiners running my way.
+
+He’s an illusory demon, and his only advantage is his hiding capabilities. His speed is not on par with mine.
+
+I don’t even bother taking the safe route and dodge his incoming sword slash from behind with my reflexes alone.
+
+There’s no need to use up any valuable talismans. Instead, I pull out one of the inferior grade weapons I upgraded with extra cards last week. It is a heavy dagger, almost the length of a machete, and shimmers with a white and silver gleam.
+
+I don’t know what it's made of, but its sharp edge cuts off this mid stage qi refiner’s head without any resistance.
+
+I’m nothing but a free-flowing black blur, moving from scream to scream as I slice through the remaining injured and shocked initial stage qi refiners. I only get serious when I feel the presence of a hot red aura creeping up behind me.
+
+While my cloak could automatically deflect any sneak attack, I’d much rather save it for real emergencies. Instead, I activate another defensive talisman and turn around to see glowing red eyes, stretched bloody skin, and small bumps of horns poking out of the forehead of a 4th level qi refiner.
+
+[Acquired Blood Demon Physique][Initial Stage - Mortal Grade] shows up in bright letters on his system scan.
+
+Instead of killing him on the spot, I dodge his incoming strike and try to fight back one on one.
+
+His strength and movements are almost perfectly even with mine.
+
+It only takes a few paces backward before he yells out in anger, “What are you? I can’t see through you at all… A 5th level qi refiner? How can a mere steward keep up with my movements!”
+
+He crunches down on a handful of blood qi pills and surges with a crimson aura. For a second, his speed actually does outpace mine, showing his acquired physique’s superior strength.
+
+Yet, the sword strike he lands sinks in like a sponge with no damage thanks to my defensive talisman.
+
+I shift my feet and activate an incineration talisman, burning him to ash along with two more initial stage qi refiners behind him.
+
+“That’s enough…” I murmur, pulling my bow out again and picking off all of the initial stage qi refiners trying to run away.
+
+Yet, my main attention still lingers in the lake, as the Illusory Demon’s Concealment Art still gives off an extremely strong reading not too far off shore. It feels like there are two readings, but they’re extremely obscure and hard to make sense of in the middle of battle.
+
+In the next instant, another explosion of red and black aura erupts from the lake as a fully transformed blood demon emerges behind a blurry black and grey humanoid figure.
+
+I try to make sense of what I see as a blur of demonic energies comes flying my way, but the only thing I can see with certainty is the system scan’s details.
+
+[Automatic Inspect Function Activated…][Xue Canyue] [Age: 82][9th Level Qi Refiner][Water, Metal, Earth, and Fire Spiritual Roots][6th Grade][Acquired Illusory Demon’s Physique][Initial Stage - Mortal Grade][No Innate Physique][Is the mastermind behind the Green Rock Lake ambushes, has single-handedly killed over 100 Azure Cloud Sect cultivators this week using the Illusory Demon’s Shadow Step.]
+
+[Automatic Inspect Function Activated…][Zhao Duanhun] [Age: 91][8th Level Qi Refiner][Water, Metal, Earth, and Wood Spiritual Roots][7th Grade][Acquired Blood Demon Physique][Perfected Stage - Mortal Grade][No Innate Physique][Practices both the Blood Demon Transformation and Illusory Demon’s Concealment Art. In order to not lose control of his soul, he holds a valuable treasure inside his dantian.]

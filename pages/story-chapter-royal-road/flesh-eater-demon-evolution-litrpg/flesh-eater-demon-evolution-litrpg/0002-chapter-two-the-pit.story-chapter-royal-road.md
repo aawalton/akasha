@@ -1,0 +1,139 @@
+---
+id: bd965d4e-2c0d-5ed3-885e-250068af781c
+page-type-slug: story-chapter-royal-road
+title: "Chapter Two: The Pit"
+slug: 0002-chapter-two-the-pit
+partOf: flesh-eater-demon-evolution-litrpg
+position: 2
+ownLength: 2891
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525480/chapter-two-the-pit"
+royalRoadId: "2525480"
+---
+
+It occurred to Pyre, as she read through the notifications, if the other flesh lumps could read. Maybe they couldn’t. Maybe they learned and grew purely based on vibes. That was the benefit of naturally being born a monster, she supposed. On her part, she was enjoying the +2 to intelligence she’d gotten from her last level. She could really feel the hamster wheels turning now.
+
+Returning her attention to the messages, she realized if she focused on a specific trait option, it brought up a more detailed description of it.
+
+Trait: Eye GrowthAllows user to grow eyes on their body. These eyes can be grown anywhere on the body where there is smooth flesh, and they can be moved or removed at any time. The maximum number of eyes the user may have on the body at a time is equal to this trait’s level x4.Subtrait Slots: 5
+
+Trait: Crawling FingersAllows user to grow fingers that are up to four inches long anywhere on the body where there is smooth flesh. These fingers must always be grown in groups of five placed next to each other. The maximum number of groups the user may have on the body at a time is equal to this trait’s level x2.Subtrait Slots: 6
+
+Trait: Voice ProjectionAllows user to project their voice as if spoken verbally with vocal cords. This voice always originates from the center of the user’s body and mimics the user’s internal voice. At higher levels, the maximum volume and range of the voice increases.Subtrait Slots: 4
+
+Trait: ChameleonAllows user to change the color of their flesh to match a single solid color that they are currently touching. At higher levels, this trait is able to mimic more complex patterns and variable hues.Subtrait Slots: 3
+
+Well, would you look at that. Assuming she was allowed to choose her own traits every time, this was like a veritable Build-A-Bear workshop. Except she was building herself with actual flesh and eyes and shit, not a stuffed animal. She was pretty sure that’s what Build-A-Bears were, at least.
+
+Pyre had no idea what subtrait slots were, but she assumed they would let her add to the abilities later on. For now, she decided to focus on what the actual traits themselves did. No point in wasting time agonizing over something she literally knew nothing about.
+
+[Crawling Fingers] was a little interesting, but the limit on the size of the fingers was kind of a bummer. It would be fun to test if flesh lumps were ticklish, and the image of herself lumbering on the ground on a bunch of fingers like a centipede was funny enough that she was half-tempted to take it, but the +2 intelligence was really doing wonders for her decision-making. She didn’t even know how many finger groups it would take to support her body’s weight—better leave it and go for something with some more concrete benefits.
+
+On the flipside, [Voice Projection] and [Chameleon] were a lot more obviously useful, but she cared about them less the more she considered her current situation. Talking was nice in theory, but who the hell was she supposed to talk to? The other flesh lumps? The ones with 2 intelligence? Herself? She was already doing that, no external voice needed.
+
+[Chameleon] was probably the best on a pure survival level, but it didn’t actually matter because without the ability to see, she couldn’t even tell what color she was changing into.
+
+Nope, eyes first. And it sounded like a lot of eyes, at that.
+
+[You have selected the [Eye Growth] trait]
+
+A by-now familiar wave of warmth flowed through her, and Pyre immediately used the opportunity to test out the new trait. She focused first on the trait itself, then picked a random spot on her body to “target.” It wasn’t like she had a head or a torso—she could put the eyes wherever she wanted. Who was going to stop her?
+
+A second later, the flesh around that area quivered. A ripple passed through the surface of her body like a wave, and in the next moment, she felt the flesh open as something grew there. Suddenly, she could see.
+
+Well, sort of. Turned out that the middle of a giant pile of flesh lumps was pretty dark and not all that great for perceiving things. If she concentrated really hard, she could make out the silhouettes of other flesh lumps, which looked about as fleshy and lumpy as she’d expected. There did seem to be a decent variation in sizes, though all of the ones around her were just as amorphous as her own body, and the lumps seemed to run in a range of various desaturated shades. She twisted up the end of her body to get a closer look. Her own flesh was grey.
+
+Keeping the current eye in place, Pyre grew another one on the other side of her body, this time attempting to mentally project darkvision onto it. The flesh opened to make room again, and her vision field rapidly expanded. Still no darkvision, though. She wondered if those subtrait slots would let her add features like that. Probably. How did she get subtraits, though?
+
+Eyes three and four were grown more rapidly, and Pyre learned that while she couldn’t affect the kind of vision she had, she could manipulate the sizes and shapes of the eyes within a set range. No body-sized eyeball for her, unfortunately, but she did make a point of making eyeball #3 a perfect circle purely because she thought it looked funny.
+
+Now with the power of four eyes spread strategically across her body, she had an effective 360 degree view of everything around her. Enough time had passed, too, that she was getting more used to the lack of light. It was because of this that she noticed some of the lumps a little further away starting to move more.
+
+One of them stretched and devoured a smaller lump next to it. Another one above her sprouted a long limb-like appendage from its center. It looked like the other flesh lumps were starting to get with the program. She still had some time—the ones in her immediate vicinity hadn’t seemed to manage to get past the “wiggle in place” phase yet—but she should probably hurry up.
+
+Pyre directed her attention to the last thing left unresolved: the points. With the 10 from the level up, she decided to add 2 to all her stats. Now, she didn’t actually know what the “average” for a stat was, though the little intelligence mixup had given her some idea. And she had the feeling 4 was absolute shit. She’d rather all her stats hit a basic level of acceptability before deciding to specialize, but more importantly, this gave her a chance to observe how each increased stat affected her body.
+
+Most of it was pretty expected. After the strength increase, she could crash into lumps with more force. Agility let her move and stretch faster. Magic resistance had no obvious physical effect, but the name was pretty self explanatory. And oh boy, it sure would be fun when she ran into magic for the first time. She hoped it was colorful.
+
+The increase in intelligence also didn’t do too much. After reaching that bare minimum threshold of “more sentient than a flesh lump,” the stat probably had some degree of diminishing returns, but she liked to think her mental hamster wheel was spinning a little faster now.
+
+Constitution ended up being her biggest point of interest. The flesh of her body felt a little tougher, not quite so soft, though it was just as easy to stretch and contort as before. That she’d expected. What she hadn’t expected, however, was the increase in size. She’d noticed she’d grown slightly bigger after leveling, but the +2 to constitution added to that. Pyre narrowed her eyes, mentally humming in thought.
+
+By now, more flesh lumps had started doing interesting things. The lump she’d seen eating another one earlier had devoured a second flesh blob, and a lump to her left had grown an eye in the meantime.
+
+She focused her eyes upwards. She couldn’t see the top of the pit, but she guessed it was a long way up based on how dark it was. One option would be to focus on improving her agility to get out and finish the starter quest as fast as possible; that initial evolution sounded pretty interesting.
+
+Her eyes returned to focusing around her. On the other hand, it still smelled pretty damn amazing right now, and she was in no rush. She would eventually make her way up, of course, but moving on without eating all of this free food felt like a waste. And she shouldn’t waste food, right?
+
+Pyre increased her constitution by 6. Another wave of warmth flowed through her, and she immediately felt her body double in size. Suddenly it was way more cramped than before, but it was also extremely easy to wrap around the closest lump and devour it. She barely even had to stretch to do it.
+
+[You have devoured (1) Flesh Lump Lvl 1][Experience earned!]
+
+She grinned internally and devoured the one next to that, getting the same message and a new one after that.
+
+[The trait [Flesh Eater] has leveled up! Lvl 1 —> 2]
+
+Oh yeah, Pyre thought. This was working out even better than she’d hoped. Minimal effort, maximum gains. She could get used to this.
+
+She used her remaining 4 points to raise her strength by 3, because now that she was so much bigger than the other lumps, the easiest way to move around was to just shove things aside instead of going around. She also added 1 to her agility just to make sure she wasn’t neglecting it. The stat wasn’t as useful in this tight space, but once she got out, she suspected she’d need it more.
+
+Pyre sprung into action, allowing her smell and newfound vision to aid her in rapidly consuming the flesh lumps around her. By the end, she barely had to move at all to consume a lump. She was so much larger that she could just kind of nudge one and leave it to her [Flesh Eater] trait to absorb the thing.
+
+Notifications rapidly flashed across her vision. [Flesh Eater] leveled up again, but she hadn’t gained another species level yet. She’d successfully cleared out a lot of space around her, though, and had crawled upwards a little through the pile. Her top eye focused on her next targets. Directly above her were the slightly more advanced flesh lumps.
+
+She first went after the one with the limb growth. It had sprouted two new arms by now for a total of three, and they waved in agitation as she approached. One of the arms darted towards her, and yep, those were vaguely finger-like appendages at the end there.
+
+The arm easily slipped between the gaps in the lumps, rushing toward Pyre at a faster-than-expected pace. Instead of bothering to try dodging, she decided to stay in place to see what would happen. And also because realistically there was no way she was getting out of the way in time.
+
+The arm crashed into her. She felt the vibrations of the impact ripple throughout the surface of her body, but it didn’t hurt. The flesh just kind of spread away from the blow, absorbing its force. The arm came to a stop about a fourth of the way down the typical depth of her body before there was no momentum left to push it further.
+
+Pyre’s eyes swiveled over to the attacking flesh lump, which hadn’t moved closer. If it had eyes, she suspected they would be watching her. Its second arm rose and shot forward too, but the result was the same. She mentally raised an eyebrow.
+
+Want to give it another go? Third time’s the charm.
+
+Apparently this flesh lump had slightly above-average intelligence too, because instead of trying again, the creature’s body contorted. It jerked away, apparently deciding to flee and change targets, but Pyre wasn’t about to let it escape so easily. She quickly manipulated her flesh, tightly coiling around the two limbs, and yanked.
+
+The other lump flew backwards. Pyre whistled internally. Damn, she didn’t think her strength was that much above average, but being three times the size of the other being probably helped. Laws of force and mass and all that.
+
+Pyre waited until it looked like the other lump was starting to lose momentum, then stretched out the free end of her body to wrap around it. Absorbing the flesh lump took barely any time at all, and she felt another ripple of satisfaction pass through her as she finished devouring the creature.
+
+[The trait [Scent] has leveled up! Lvl 1 —> 2]
+
+[You have devoured (1) Flesh Lump Lvl 3][Experience earned!]
+
+[Your species has leveled up! Lvl 2 —> 3][Strength +3, Agility +2, Constitution +3, Magic Resistance +1, Intelligence +1]
+
+[You have earned 10 points]
+
+Huh, interesting. Last time she’d leveled up, every stat had risen by 2. It looked like the system kept track of her point decisions and somewhat mimicked them during levelups. That was good to know.
+
+No new trait? she wondered. Maybe it was every other level or every three levels that she got a new one.
+
+Pyre swiveled her eyes over to look at the other flesh lump with eyes. It was still in the same spot, apparently having watched the whole fight. Its eyes blinked. She blinked back. The flesh lump turned tail and ran.
+
+It didn’t make it far. It was so crammed in the pit that squeezing around lumps took time, time that Pyre avoided by simply shoving the other creatures aside. She dumped another 5 points into constitution as she moved, bringing it up to a neat and tidy 20, then put 3 in strength and 2 in agility. The wave of warmth was dissipating just as she caught up to the lump, a single wide eye staring back at her with something that resembled franticness. She didn’t care. She stared steadily back with the two eyeballs on this side of her body, then promptly wrapped around the lump.
+
+[You have devoured (1) Flesh Lump Lvl 2][Experience earned!]
+
+[You have gained (1) [Darkvision] subtrait shard]
+
+[The trait [Eye Growth] has leveled up! Lvl 1 —> 2]
+
+Pyre silently grew four more eyeballs, resulting in eight in total. It didn’t really add to her field of vision, but she figured she might as well use them if she had them. Most of her attention, however, was fixed on that second notification. She squinted and mentally opened up her stat sheet again.
+
+Name: Pyre [Tier 0]Species: [Flesh Lump, Lvl 3]Class: [Locked]Titles: Reincarnator, Amnesia, Above-Average SentienceStatsStrength: 15Agility: 11Constitution: 20Magic Resistance: 7Intelligence: 15Points: 0Traits: [Amorphous 2], [Flesh Eater 3], [Scent 2], [Eye Growth 2]Skills [0/5]: NoneSubtrait Shards: [Darkvision 1/5]
+
+1 of 5, it said. Considering she hadn’t gotten any subtrait shards from the other flesh lumps she’d killed, she guessed she could only get them if the creature she devoured had the same trait as her. It had been [Eye Growth], in this case.
+
+It seemed that not every trait had subtrait slots, though, or she’d definitely have gotten a few shards for [Amorphous] and [Flesh Eater] by now. Or maybe those did have subtraits, but none of the lumps she’d eaten had any subtraits for them, so no shards. The lump she’d just eaten hadn’t had as many eyes as her, after all. Maybe it had traded numbers for its darkvision, which meant she’d have to find and devour other lumps with darkvision and [Eye Growth] to get the 4 additional shards she needed to gain the subtrait herself.
+
+Her eight eyes swiveled around to study her surroundings. Well, it would be pretty easy to spot lumps that had [Eye Growth], though not necessarily ones with darkvision. Pyre decided then and there that she didn’t actually need to purposely target them. If she was going to devour her way out of this pit anyway, she’d earn subtrait shards just by virtue of eating things. A lot of things. Why overthink it?
+
+Mind set, Pyre readied to absorb some more flesh lumps when something collided into her, hitting her directly on top of one of the eyes. Instead of simply absorbing the blow, a sharp stinging sensation flowed through her, and her vision warped as the edge of the eyeball melted.
+
+Pyre swiveled her body around in the direction of the attack and found herself staring at the larger lump she’d seen earlier. Beyond its size, there was nothing else noticeably remarkable about it. It was a light pink and didn’t have any eyes or limbs that it could’ve used to attack her from so far away.
+
+The lump shuddered. In the next instant, the center of its body began to glow. The ball of light exited its skin before it was flung forward, narrowly missing Pyre. It ended up hitting a lump behind her, and the entire thing dissolved as easily as a stick of butter in the microwave.
+
+Well, she thought. Call her crazy, but she was 90% sure that was magic just now.

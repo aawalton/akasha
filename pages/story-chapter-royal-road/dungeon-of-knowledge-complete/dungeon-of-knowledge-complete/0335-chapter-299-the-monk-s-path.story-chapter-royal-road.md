@@ -1,0 +1,123 @@
+---
+id: c9b9a637-4434-5f48-ad5e-dad71e7bfa0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 299: The Monk’s Path"
+slug: 0335-chapter-299-the-monk-s-path
+partOf: dungeon-of-knowledge-complete
+position: 335
+ownLength: 2417
+unit: words
+ownProgress: 2417
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2405852/chapter-299-the-monks-path"
+royalRoadId: "2405852"
+markedReadAt: "2026-06-29T20:22:42.999Z"
+---
+
+Mato was grinning from ear to ear as he paced back and forth, discussing half a dozen ideas at once with Calen and Malika. His hands gesticulated excitedly, and it made Ali’s heart warm to see her friend so happy with the evolution of his class.
+
+“That’s brilliant!” Mato exclaimed, slapping Malika on the back of her shoulder with enough force that Ali was sure she would have gone flying if it had been her receiving his enthusiasm. Malika just grinned, her body taking the blow without even the slightest discernable flexing or flinching.
+
+Mato’s void-affinity Dire Bear had looked terrifyingly powerful; Ali could still smell the ozone from the excess void mana literally slicing the air. Indents and claw marks still marred the stone path where he had first tried out his much more substantial shifted form. Ali scuffed her foot across the marks and the stone flowed under her direction to repair the damage.
+
+“The tree upgrade is going to be amazing for group fights,” Calen said, focusing their debate back on strategy.
+
+“Oh, for sure,” Malika agreed.
+
+When he had first revealed his majestic Elder Tree form, Ali had just stared in amazement. Even the mana spilling outward in his aura was so much more potent, and when he had released the holy flames of his new Consecration, it had offered a glimpse of Azryet’s influence. The power of a dragon god.
+
+But it was the delicate-looking Lirasian Sage that captured her heart. Floating serenely above the grove, it bathed her in the soft radiance of a nature aura that evoked her oldest and fondest memories of Lira. Somehow, Mato had reached out and gained a little touch of the Dryad’s magic, and it was as beautiful as it was gentle.
+
+Ali sighed happily, turning her attention to her shrine for a moment, waiting. Her efforts in reclaiming the Emberforge Mines had paid off handsomely, and while her shrine hadn’t quite eclipsed four million mana, it was close enough. As she watched, the roaring, turbulent mana surged by her, drawn into the giant stone artifact. The reservation slowly ticked up, until it surpassed the threshold.
+
+2,000,003.
+
+“It’s ready for you, Malika,” Ali said.
+
+“What is?” Malika asked, glancing at her, her eyes following the arm Ali had placed on the shrine. “Oh, already?”
+
+“Yes, I grew its capacity quite a lot,” Ali explained. “This way we don’t have to wait another day for it to finish recharging.”
+
+“Uh, ok… thank you, Ali,” Malika said, approaching the shrine with the same look of trepidation, uncertainty, and hope that she had worn on her face the first time she had used it to gain her class.
+
+Ali didn’t want to contemplate how life might have gone if she hadn’t had her shrine back then, nor how her friends’ evolutions might have wrecked their classes like Vivian if she hadn’t been able to learn the class evolution in Aman Rak.
+
+At least they can choose their path, she thought, hoping Malika would find something that made her just as happy as Mato and Calen.
+
+“It’s not going to bite you,” Mato teased, gaining a startled look from Malika and a chuckle from Calen.
+
+“Here you go,” Ali said, activating the shrine and unlocking it for Malika. Then she sat down to wait. Having watched three evolutions now from the outside, she expected it would take a while. There would be long periods of time where Malika would be reading and thinking, so she sat herself beside Lira, and let her mind roam around her dungeon, checking on everything. Being able to see the mana everywhere all the time was such an incredible upgrade, but she was still getting used to the unfamiliar and somewhat uncomfortably noisy sense.
+
+Right as she was contemplating how busy her dungeon seemed when viewed through her domain-wide Arcane Insight, her notification chime rang out.
+
+Your Acolyte of Azryet has reached level 45.
+
+More noise. Her mind leapt across the distance to the rift chamber where her Acolyte had just gained another level. It had slowed dramatically from the initial hectic growth, but then her acolyte had almost doubled in level since she had first summoned her. Ali was still far from fully internalizing the impact of the change Minion Ego had wrought on her class, but it was obvious that leveling up her minions was going to be a big part of her priorities. Every time her acolyte grew, her Grimoire recorded the increase in abilities and power, and she had quickly verified she could now summon new kobold acolytes all the way up to the new highest level, presumably meaning that at some point, she could reintroduce her favorite little kobold to her main minion army.
+
+From all the way on the other side of her domain, she deconstructed the dozen or so demon corpses littering the floor of the rift chamber – the work of Mok’freja, the demon slayer.
+
+Her mind drifted to the Challenge Arena training area outside the library on the upper-level plaza, feeling the constant prickle of her Sage of Learning as Domain Tithe siphoned small slivers of bonus knowledge and experience from the guild members fighting monsters in the various rings. As usual, Sabri was in the thick of things, introducing an Abyssal Stalker to her personal interpretation of the martial arts of Ahn Khen, but Ali had been surprised by the enormous popularity of her challenges among the majority of the guild. Certainly, it was dramatically more popular than the library itself as the combat classes preferred practical training over reading, but even the use of the library had grown once the challenge arenas had become common knowledge. If only because it was something to do while they rested.
+
+The more they practiced, the more Ali’s Martial Insight expanded with new forms, techniques, counters, and attack combinations that she recycled back into her own minions, typically throwing them at Sabri to see how she adjusted. Given the dominant presence of trolls in Ali’s armies now, adapting what she learned from the guild fighters was quite simple.
+
+I should try to make something for Vivian to train with, she thought. She was running out of novel ideas to throw at Sabri as the martial arts prodigy devoured every new technique she showed her. Or have Malika train a bit after her evolution.
+
+Ali studied Malika’s face as she stood with a hand pressed against the surface of the shrine. Her eyes had that faraway glazed look of someone reading inner notifications.
+
+While they waited for Malika to come up to speed on what she’d been offered, Ali shifted to observing the low-level rings, where a novice ice mage attempted to duel a level five kobold rogue with ice bolts. He was not having a good time. Ice mana coalesced in his outstretched palm, forming the ice bolt, but he was unable to see the stealthed rogue, so the ice attack spell shot off into the terraced stone seats which were fortunately empty. Sage prickled as she studied the formation. Then the black-scaled kobold rogue appeared behind the unfortunate mage, stabbing him in the kidneys. Ali winced at the shattering of the mage’s fragile ice shield as the Ambush took him down below ten percent of his life in an instant. You need more vitality! The runic circle reacted with a powerful pulse of domain mana, and the outmatched mage was instantly teleported to the healing area where her acolytes cast their holy magic on him.
+
+The mage waited till he was healed, gritted his teeth, and got back up to approach the ring a second time.
+
+Hmm, she thought, watching the mana form a fresh ice bolt, studying it with interest. Automatically, Ali analyzed the low-level spell, opened her notebook, and added it to the list of basic spells she understood – and could presumably disrupt.
+
+This is a bit of a problem, Ali thought, continuing to study the determined mage. As her gaze roved about, she noted that nearly two-thirds of the combatants were warriors or rogues. The arenas were based on Malika’s recommendations, which made them ideal for melee classes like Sabri, but mages and archers were a conspicuous minority. Bigger arenas? They need cover and range. Maybe a maze of rocks? Or an urban setting… I could expand into some of the ruins back there. Mage versus rogue was a poor match, especially in open terrain or in close quarters – as she had learned from personal experience. And the seats need some barriers. Shooting the spectators or other trainees was less than ideal.
+
+But if she could encourage more mages to train, she might be able to dramatically broaden her repertoire of common spells she could study and learn to disrupt. Most of the time she probably wouldn’t want to be disrupting something as common as an ice bolt, but she remembered almost dying to Mok’freja’s ice bolt streams and winter’s desolate celerity combination – if she had been able to force a recharge on the Ice Queen’s ice bolt skill in that moment, it would have dramatically improved her safety.
+
+Definitely need to make some improvements. Put it on my list.
+
+Malika gazed at the huge onyx obelisk, suddenly finding it was her turn. She gathered her feelings, relying on her Clarity and years of meditation experience to try to still her suddenly racing heart, but even so, Ali’s shrine served as a significant turning point in her life. The milestone that marked the fork in her destiny – if such a thing even existed – but it was almost certain that without Ali and her shrine, she would be struggling now with a Thief class or worse. That path would have had her an outcast, slave to Jax Hawkhurst and Kieran Mori and their criminal ambitions – an existence which would have ground down her Ahn Khen warrior spirit and spat it out like so much dirt.
+
+Instead, she stood in this Grove just like that first time, staring up at the now much larger stone artifact – a palpable sign of their incredible progress – anxious once again about her class. She had offered to go last and had just assumed that she would need to wait a day or so for the shrine to recharge, but her quick Appraise confirmed Ali’s assessment of the shrine’s mana capacity.
+
+Incredible.
+
+Before reaching out, she spent just a moment reviewing the notifications from the Corrupted Fire Drake, and their destruction of their third full dungeon. In particular, her eyes lingered on the significant large round number.
+
+One hundred.
+
+Soul Monk has reached level 100 (+2).+20 attribute points.
+
+Right after they had killed the Corrupted Fire Drake, Malika had spent one point each on strength and intelligence, two points each on vitality and wisdom, four each on perception and endurance, and her final six on dexterity. It had rounded out her attributes nicely for what was to come, and now that moment was here.
+
+Martial Artist has reached level 49 (+2).Soul Strike has reached level 53 (+3).Healing Mantra has reached level 64 (+4).Perfect Body has reached level 35.Soul Armor has reached level 45.Divine Step has reached level 50 (+2).Soul Sight has reached level 30 (+3).Calligraphy has reached level 6 (+2)Appraise has reached level 26.
+
+Malika reached out with her hand, embarrassed by the subtle trembling in her muscles.
+
+“Good luck, Malika,” Ali said. “I’m here for you if you need me.”
+
+“Thank you, Ali,” Malika said. The trembling finally faded as her palm pressed against the cold, smooth stone. This was her moment. Here, she would honor her bloodline and all those who had fallen. Those she wished she could have saved, if only she had been stronger.
+
+[Shrine of the Ancient Grove] Class evolution activated – 2,000,000 mana.Gathering Authority based on your actions, achievements, titles, reputation, and influence.
+
+Malika braced inwardly at the invasive gathering process, struggling to suppress the distinct feeling of being judged by the shrine and its magic. It was fortunately brief and she was released quickly to the sound of her chimes going off.
+
++44 Authority.You may buy 10 attribute points per Authority point.3 paths have been found.
+
+“Forty-four Authority,” Malika murmured, letting her friends know she was still doing ok.
+
+“Not bad,” Mato offered. “What paths did you get?”
+
+“Um… let’s see,” she said, and pulled them up.
+
+The Striking Staff of the AncestorsTake up the staff of your father’s arts and wield it to far greater power. Trade your defensive skills for an impassable wall of spinning technique and precision. Traits: Dexterity, Attack, Mastery, Physical, HastePath Length: 10Reachable Nodes: +10% melee attack damage. Cost: 1 +10% to amount blocked when using a staff. Cost: 1 Quality: UncommonPath – KeystoneThe Unbreakable BulwarkYou have taken countless strikes on behalf of your allies. Now enhance your defenses by taking up armor and shields, specializing in all but the heaviest plate armor. Become the unbreakable bulwark, defending your friends and allies with your durability, toughness, and defensive skills. Traits: Endurance, Defense, Mastery, Physical, Block.Path Length: 12Reachable Nodes: +10% to armor. Cost: 1 +10% to amount blocked. Cost: 1 Quality: UncommonPath – KeystoneThe Diamond Edge of the SoulYou are a true monk, wielding the magic of the soul, eschewing all weapons and armor. Remain true to your purpose, refining your soul magic into a cutting edge that slices through all. Traits: Wisdom, Soul, Mastery, Healing, Spell Damage, Unarmed. Path Length: 10Reachable Nodes:+10% spell power to Soul skills. Cost: 1 Quality: RarePath – Affinity
+
+This is it… But despite the momentous implications for her future, Malika’s heart calmed even further as she studied the three paths presented to her, feeling the implicit support of her friends silently gathered around. She had already sat through all their evolutions, and by now, she was quite familiar with what it entailed. As Calen had eloquently summarized, she was being offered a choice between different approaches – she would have to pick the path that most matched how she felt about herself, her class, and the essence of who she really was. Here, she would be able to reinforce her commitment to her path or even embark on new directions. It was strange to imagine a chunk of magical rock trying to make her choose in order to better refine the concept of her class but, as Mato had said, it didn’t matter as long as she held true to herself.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

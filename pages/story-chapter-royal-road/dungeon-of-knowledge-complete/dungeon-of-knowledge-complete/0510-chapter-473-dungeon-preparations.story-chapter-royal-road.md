@@ -1,0 +1,99 @@
+---
+id: 3bed787d-810d-5957-a4c9-423e27942971
+page-type-slug: story-chapter-royal-road
+title: "Chapter 473: Dungeon Preparations"
+slug: 0510-chapter-473-dungeon-preparations
+partOf: dungeon-of-knowledge-complete
+position: 510
+ownLength: 2750
+unit: words
+ownProgress: 2750
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2841661/chapter-473-dungeon-preparations"
+royalRoadId: "2841661"
+markedReadAt: "2026-06-29T20:29:33.181Z"
+---
+
+It’s busy, Aliandra thought, casting her mind ranging outward through both the eyes and ears of her monsters, and through the very domain itself, sampling the foreign mana wielded within her dungeon.
+
+The prickle of lightning, the chill of ice, and the searing burn of fire played delicately through her awareness and sympathetically across her skin as groups of adventurers contended with her monsters, seeking treasure, experience, and growth. From the novices clearing spiders in the sewers to the raid group making an attempt on the Inferno at the bottom of the mines for the chance at essences that would unlock the path to the forge, all tithed a little of their experience and skill through the subtle weave of her domain to percolate back into her mind. Sage of Learning sipped at her mana continually, running on a permanent low burn in the background as she processed what her domain observed of their mana and skills. At the same time, tiny slivers of inspiration or understanding filtered into her mind as Martial Insight allowed her to draw a wealth of practical knowledge of fighting from her observations and shared experiences of her minions’ battles.
+
+There were currently twelve adventurer groups delving into her dungeon, ranging from the platinum raid down to the lowest-level novices that had just unlocked their classes yesterday.
+
+When Ali had reopened the teleportation circle to Kezda – she stuck to the runic circle rather than upgrading to a Gate because having her domain spill out and take over their town without permission would have been rude – there had been a large influx of fresh novices seeking classes and a few dozen jaded laborers and farmers who’d heard she could give them a second chance. Mieriel had filled the quest board with a host of new jobs from the Ahn Khen villages, the moment the way was restored and with Ali’s commitment to keeping travel open between the two towns, many of the Ahn Khen recruits had taken Vivian’s offer to join the guild to gain experience and practical training, knowing their efforts would benefit their homes.
+
+There was even one rogue going solo, having figured out an elaborate path to exploit one of Ali’s respawning ore nodes with the minimum of monster slaying. And, of course, Devan, who had been camping the Devouring Consumption chamber on the other side of the Abyssal Rift, opportunistically ambushing Hellfire Imps for experience by herself.
+
+Then, of course, there was the ridiculous anomaly that was Seth, who was currently laying waste to Treants in the Zulkora realm beyond Naia’s rift – although it was hard to call Seth ‘solo’ with the giant army of undead he commanded.
+
+All this activity couldn’t hold a candle to the clamor and goings-on of the town above ground, where the constant rush of magic from the crafters and artisans rebuilding their homes and businesses melded into a background roar of magic that Ali was learning to tune out. Idly, she pulled up the notifications that she had shown up over the last couple of days through no more than the accumulated trickle of tithed experience from the thousands of people working and studying within her domain.
+
+Reading has reached level 19 (+2).Sculpting has reached level 9.Calligraphy has reached level 14.
+
+At least the dungeon is back to normal, she thought. She had felt strangely desecrated by the malignant creep of the Blooming Rot dungeon, and eradicating that had taken some time. But finally, her dungeon was set up just how she liked. It wasn’t that she didn’t like the plants and minions of Blooming Rot – she had placed many of the treants strategically in Naia’s caverns, and Lira’s old forest, and even deployed the fungal creep in the death-affinity zones on the second level of the ruins – it was just that she was now the one to decide what went where, and her own personal sense of aesthetic and function could be manifested.
+
+She had even restored the Gate to Aman Rak, and she could feel her domain growing outward through the dense jungle as her monsters inexorably expanded her perimeter by methodically planting trees, glowing mushrooms, moss, and flowers. Nestled safely in her domain, guarded by her monsters, the remnants of the Aman Rak trolls Val’korr had managed to gather up since the disaster were setting up camp in the ruins of the Temple of Blood.
+
+Her favorites to watch, though, were the quest groups escorting visitors to the shrine or the anvil. In the days since she had allowed her dungeon to be listed on the guild register, her shrine, the library, the restored training arenas, and the anvil itself had seen ever-growing numbers of visitors, and it had spawned a flourishing new industry that began with Ryn and the quest board in the guild as many of the visitors availed themselves of the local services to reach their objectives. Already, Ali had filled several notebooks with new spell formations, class paths, and armor and weapon enchantments – and added dozens of pages to her Grimoire – all of which were rapidly being repurposed to upgrade her dungeon’s defenses. Still, she was struggling to keep ahead of the sheer volume of the influx of new knowledge.
+
+The biggest disturbances, by far, however, were the continual incursions into her domain by hostile monsters. The Devouring Consumption and her Spirit Walker witch doctor bosses in the Abyssal Realm were under continual threat, contending with the unending stream of the Demon God’s dregs ejected as a dungeon break to attempt the rift. Even her ice mage on the near side saw regular action. I need something stronger there. If he ever sends a Pit Lord or something more powerful, my defenses might crumble. Even the thick walls of glowing golden barriers she had erected around the rift did not make her feel entirely secure.
+
+At the opposite end of the dungeon, through the other rift, Maalgaroth was busy fighting off a horde of twisted treants and rock beetles in the lulls between the periodic Sandwyrm incursions, with Seth occasionally using him as a defensive asset when he got overwhelmed. Even down in the jungle below the Ruins of Dal’mohra, the two spawning pools had recovered, spitting up a continual stream of elementals and oozes, ejecting them into her domain.
+
+“Ok, you lot come with me,” Ali said, surveying the small group of kobolds chittering softly as they awaited her instructions. With a thought, she located a Glitter Dragonet roaming near the light-affinity spawning pool deep within the newly restored jungle area, and she teleported. She barely noticed the extra mana it took to bring all the kobolds with her, and she found herself standing in the center of the small party on the shores of the shining lake of liquid light-affinity mana.
+
+The kobolds’ heads darted back and forth, birdlike, as their bright eyes took in the trees, the lake, and the newly spawned Radiant Brawler dragging itself, dripping, from the pool.
+
+“Now that you’ve leveled up sufficiently in Naia’s dungeon, I have a new challenge for you. Your task is to kill everything that comes out of this pool,” Ali said. It had been a nostalgic trip down memory lane watching these kobolds struggling with the earliest reaches of Naia’s caverns and her lowest-level slimes and oozes, but it had been just as effective as she’d hoped. “Get stronger.”
+
+“Yes, Ancient Mistress,” one of the kobolds chirped.
+
+The spawning pools were a never-ending source of fresh monsters that broke against whatever boss she placed nearby, but that was a missed opportunity. Ali rarely got hostile human invaders, and when she did, they were more like the Heroes of the Crimson Blade; humans were not stupid – low-level ones did not challenge her dungeon attempting to wipe her out. At least those kinds of people didn’t last long. It was either training groups, or quests – people she didn’t want to kill – or high-level threats like Crimson Blade, Roderik, or the Disruptor and assassins that she would need to defend against with all her might.
+
+None of that was suitable for power-leveling her new experimental minions. But the spawning pools were an endless source of mid-level monsters, and most importantly, they were not hers. And so, her minions could earn experience from fighting them.
+
+Paladin – Kobold – level 31 (Holy)Archer – Kobold Shade – level 29 (Shadow)Archer – Kobold – level 28 (Arcane)Witch – Kobold – level 30 (Death)Mage – Demonic Kobold – level 33 (Hellfire)
+
+The paladin kobold immediately summoned a Holy Shield, chirping orders as she charged forward to intercept the Radiant Brawler emerging from the pool. A crack sounded as the Holy Shield retaliated against the near-instant bite from the larger elemental, but the paladin calmly thrust her shortsword into the monster’s chest, making it blaze with the bright holy light of her Smite spell.
+
+Ali smiled. Aww, she looks just like Havok when he was a novice! Indeed, most of the inspiration for this class and its skills had come from Havok’s use of her shrine. The kobolds’ ancestral heritage was almost certainly fire, which was why water, ice, and nature affinity were never available for them. However, they took well to shadow, void, death, and even arcane and holy. Ali was even testing out the demonic and shadow kobold variants she had inscribed from fighting against the Demon God’s corrupted minions, or corrupting them herself in the shadow rift, just to see what potential they might have.
+
+The archers fired, bolts of shadow and arcane filling the air. The witch cast a ritual, summoning a strange, short-lived specter of death mana that darted rapidly toward the Radiant Brawler, screeching like a banshee. It’s not a Volatile Wraith, but so similar.
+
+The demonic kobold shouted, his voice coming out louder and somehow echoey as his scales began to smoke from a suppressed inner heat. Suddenly, a whirlwind of black flames burst from his body, and his cackling form could be seen dancing toward the Radiant Brawler by the glowing red eyes and wickedly gleaming talons.
+
+He’s pretty terrifying, Ali decided. At least, at his level. She continued studying their performance carefully until the five of them defeated the brawler and moved on, tackling a Luminous Slime next, before she let them go on their own.
+
+It looks like they’re going to be fine. She checked in with the other groups she had seeded – a second party of kobolds at the nature pool, and some mixed groups of higher-level monsters tackling demons in the Abyssal Realm, and treants in the Zulkora realm of the Sandwyrms. Trolls, Sylvans, and new demons. Several of her latest experiments formed up in Naia’s upper caves, preparing to tackle the lowest level slimes, and she had a fresh group about to enter the shadow rift with several of Gage’s Arcane Brawlers. And Seth will help with some of the higher-level minions after he’s done in Zulkora. Indeed, the quiet necromancer had lit up with excitement when Ali asked for his help to level her minions.
+
+When she had sat down with Malika, Mato, and Calen to discuss their ongoing priorities, it had become abundantly clear that she needed to be ready and prepared for anything. Arguably, her biggest asset was the variety of minions she could bring to bear on any situation, and it would be negligent not to expand and level her options as urgently as possible. Who knows what Calen will find out there?
+
+Demons, elementals, and beast monsters like dragons or treants seemed to have the fewest options and paths available to them. She could not manipulate the Fungaloths much – they simply couldn’t take flexible classes or alternate affinities. But her humanoid monsters – well, the possibilities seemed endless. Kobolds and trolls had a few affinity restrictions, but beyond that, they had a broad range of class choices and variants. Even though summoning humans still made her queasy, she had suppressed her misgivings and verified that they definitely had the broadest variety of classes – and many of their skills, now recorded in her Grimoire, provided fascinating options which she used to judiciously edit or guide her trolls, kobolds, or even sylvans, making them more robust or interesting. In fact, the only reason she limited her summoning of humans, preferring a sylvan, troll, or a kobold if she had similar classes, was that she was certain some of the townsfolk would freak out.
+
+She hadn’t experimented with her Greater Undead imprint yet, with the single exception of her Fetish-Painted Assassin, but from the pages and pages of inscriptions in her Grimoire, and what she had seen from Alexander Gray and Seth, she was certain they had a lot of range, too. That was one of her next projects. Can’t leave anything on the table when we face the Blind Lich.
+
+But it was the Sylvans that surprised her the most. Incompatible with any fire affinity, presumably due to the obvious dryadic influence in their race, they nonetheless still bore the heritage of their mutated progenitor races: humans, dwarves, and elves. And her shrine had offered some of the Elven and Dwarven classes in modified form when she had begun experimenting with them – even though she didn’t have Dwarf or Elf in her Grimoire yet – proof, yet again, that her shrine was recording everything.
+
+With her kobolds and other experiments busy working to raise their levels, her mind shifted to her other project. Teleporting to the sewers, she found her Subterranean Brood Queen had dramatically expanded the area, digging an organic labyrinthine maze of twisting tunnels and caverns deeper into the mountain. With the enormous influx of new recruits to the guild and the addition of Commander Brand’s new guards wanting time in her dungeon to train, the sewers, even as extensive as they were, were simply inadequate to serve the growing demands placed on it. It was convenient that she had rock beetles that could bore their way through the mountainside, growing the area several times larger in mere hours. Imagine what I could do with my very own Sandwyrm?
+
+Ali paused at the entrance, considering her options as the moss creepers and spore spreaders scurried and scrambled into the dark twisting tunnels, leaving moss and mushrooms in their wake.
+
+Spiders. Yes, definitely spiders. I can hear the newbies shrieking already. She giggled at the thought.
+
+While beasts tended to have anemic class and path options at her shrine, several of them – bats, spiders, and wolves – took to almost any affinity, each one granting them unique themes for their skills and aptitudes. Ali had explored every single one. She had her favorites, of course, but expanding the newbie area allowed her to hit another goal at the same time.
+
+She opened her Grimoire and began summoning spiders, filling some areas with ice spiders, others with poison spiders, fire spiders, shadow spiders, blood spiders, and water spiders. In fact, almost every single affinity she could make had a couple of caverns and a range of twisting tunnels devoted to them. For most of them, she created at least an Elite or a simple Boss monster, keeping the levels under fifteen, and before she finished each mini area, she collected a sample of the unique spider silk. She sprinkled a whole host of various bats through the caverns too, trying to match affinities to the nearby spiders, and left the moss creepers to lurk about.
+
+Paging through her Grimoire, she dotted several small camps of kobolds – her newer experiments – chosen to be level appropriate. It was here that she unleashed her Trap Makers and a new Beast Tamer kobold class. They should have plenty of material to work with.
+
+At her current level, and with her Domain Mastery skill growth, the thousands of monsters she filled the caverns with barely cost a couple of hundred mana to reserve.
+
+As Ali finished collecting a fresh bundle of fiery silk, a sudden prickle left goosebumps all along her arms. An alertness trickled through her connection to her Shadow Dragons, melded with the shadows in a dark, icy tunnel, and the sound of a distant notification chime flowed across the vast distance into the back of her mind.
+
+[Explorer] You have entered a dungeon.The Crypt of Kings – level ???Affinity: Ice, Lightning, Death.Age: Ancient.Known Creatures: Death Knight.Known Bosses: --Dungeon
+
+Calen! You found it!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

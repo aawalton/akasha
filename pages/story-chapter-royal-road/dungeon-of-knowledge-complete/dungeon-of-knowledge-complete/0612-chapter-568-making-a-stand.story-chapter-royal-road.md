@@ -1,0 +1,325 @@
+---
+id: 710753b6-55b7-5e37-95c7-049ac0a4f472
+page-type-slug: story-chapter-royal-road
+title: "Chapter 568: Making a Stand"
+slug: 0612-chapter-568-making-a-stand
+partOf: dungeon-of-knowledge-complete
+position: 612
+ownLength: 6419
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3157955/chapter-568-making-a-stand"
+royalRoadId: "3157955"
+---
+
+Calen crouched down beside the glittering rift and fished pieces of shattered ceramic out of the slag and rubble that had once been ice-covered granite.
+
+“What do you plan to do with that?” Lyeneru asked.
+
+“Let’s have Val’korr or Ali study this when we get back,” Calen said, storing the shattered, frozen fragments of Kryostria’s phylactery. It had looked much like a vase made of ice, but it had taken the full force of Lyeneru’s most powerful Power Shot to shatter it and finally grant the raid their kill notification.
+
+“Not sure it will make much difference,” Lyeneru said. “We need to clear the whole crypt.”
+
+“Agreed,” Calen said. While he could not be sure without Ali’s powerful senses and analysis skills, he was almost certain the phylactery itself was a domain-bound artifact. A terrifying thought to consider. It wouldn’t be sufficient to kill just the avatar and the phylactery. The dungeon would respawn them in a few hours unless, as his mentor had suggested, there was no dungeon remaining to do so when the time came.
+
+Exactly the kind of devious scheme he expected from the Blind Lich.
+
+He stood, but the realm boundary shivered as the deep, sonorous peal of an invisible gong shook the chamber. The air vibrated from the reverberations, and leftover ice kicked up off the ground in sudden flurries and vortices.
+
+[Realm] Nevyn Eld [The Blind Lich] has used The Ninefold Way: Aegis of Absolution.
+
+“What was that?” Calen gasped, immediately switching his sight to the Mote of Light he had set to follow Ali. What he saw there made his blood run cold.
+
+“That is a pinnacle skill of the Nine Paths of Ahn Khen,” Sabri said, her face suddenly drained of all color.
+
+“He’s making a move!” Calen said, raising his bow. His recharge was up, so he conjured a full fan of light-mana arrows and fired. Every mirror image duplicated his movements exactly, and a hundred and seventeen arrows fully imbued with light damage, explosive shot, and armor piercing vanished, appearing in his far sight in Ali’s Grove below Myrin’s Keep.
+
+Calen gasped as, to his dismay, his arrows cracked against a glittering dark sphere protecting the Blind Lich without penetrating, like the fangs of a drake hatchling trying to gnaw its way into an impervious glass ball filled with darkness. A dark sphere that seemed too similar to the warding shield that had barred entrance to the Crypt of Kings after Azryet had eaten the Lich to be a coincidence. They buzzed with barely suppressed power for two long seconds, skittering across the smooth surface, and then detonated, but he could instantly tell he’d not struck his mark.
+
+“What the heck is that shield?” he muttered, glancing at Sabri, but the Ahn Khen girl just lowered her eyes in shame.
+
+“We should press on,” Lyeneru said. “Leave Weldin and Basil here to finish dismantling the corpses and recovering any useful materials. Calen, can you show us the secret passage?”
+
+“Yes,” Calen said, glancing at the busy Porter stashing dragon bones and salvageable sapphire scales into his portable dimensional storage. At the same time, Basil harvested the many dark blue and black flowers that sprouted in clumps of improbable life near the walls. He checked on the Grove back home, just in time to witness Ali disrupting one of the Blind Lich’s spells. I have to trust her. And Malika is there to help. We’ve destroyed the Frozen Scourge, and there’s only one boss chamber left. We need to finish it. He took a deep breath and announced, “This way.”
+
+The battle against the Dracolich had been frantic and bitterly fought, and they had taken losses. Hadlis and Isolde had been caught out of place, flash frozen beyond the range of the healers’ spells and crushed underfoot by the claws of the Frozen Scourge. With only a pair of mangled, frozen bodies stashed in Weldin’s storage, they left holes in their hearts and weakness in their formation, but the time for mourning would come later. If there was a later: Calen well knew what lay beyond the secret passage. The three kings of ancient Dal’mohra promised to be a different level of evil, but they had little choice. He tucked those feelings away deep inside and, for the sake of the others, strode up to the sheer ice wall at the edge of the enormous cavern, projecting an air of outward confidence that was secretly fraying on the inside, driving a wave of his motes ahead of himself to reveal the potent concealment illusion.
+
+The illusory wall was the least of their troubles; he knew precisely where it was, but that didn’t stop the small release of tension in his shoulders and jaw when his face met the shimmering slab of illusory ice and he stepped through. It was like walking through the dream of solid rock.
+
+“Quietly through this tunnel,” he instructed, keeping his voice to a firm whisper as the rest of the adventurers filed in. It was narrow and twisted, forcing them to go no more than two abreast, but for such a large group, decked in so much steel and mithril, they were remarkably stealthy.
+
+And so, when the second gong sounded, it was far more deafening than the first. In the close confines of the tunnel, the resonant realm-gong shook the walls with its powerful vibration, causing the less dexterous to stumble or thrust out their hands to catch their balance against the walls.
+
+[Realm] Aliandra Amariel [God Maker] has cast the World Magic: Cycle of Rebirth.
+
+“Ali!” Calen exclaimed, nearly forgetting to keep his voice down.
+
+Mato, already back in his Beastkin form, grabbed the lapels of the tiny holy kobold trudging through the icy slush beside him and lifted her off her feet. “Ali! Are you ok?”
+
+The kobold stared blankly ahead as if it had not seen him – completely zoned out. Calen’s heart plummeted in freefall, plunging deeper into the cold abyss as the echoes of the resonant gong faded. There could only be one reason for Ali to have triggered Cycle of Rebirth; they all had the God Maker title, and every scenario his brain conjured was more terrifying than the last.
+
+He did not hesitate. He had a Mote back in the Grove, and with a flash of light, he switched places with it, effortlessly traversing half the length of the continent in an instant. He appeared above the shrine in a bright flash of light, and all eight of his Mirror Images appeared beside him.
+
+Malika was cradling Ali in her arms, while the tiny Fae was being enveloped in a blazing corona of green. Amber blood covered her body from her chest to her feet, and there was more of it on the moss than seemed possible.
+
+“Malika!” he shouted.
+
+“She’s… alive!” Malika answered, her voice cracking as if on the verge of tears, but her magic was blazing brightly, and an enormous pulsing sphere of soul-affinity mana rippled outward from the monk, healing everything within a radius of almost two hundred and fifty feet. Without even identifying her, just by that spell alone, he could tell she had reached the third tier.
+
+“Get her somewhere safe,” Calen roared, drawing back his bowstring. And with that, he unleashed the full fury of his assault at the advancing undead monsters, stopping them in their tracks with a thunderous roar of explosions and shining magical chains. “I’ll cover you. Go!”
+
+“Buy us two minutes,” Malika said, and then she took off like an arrow loosed from his bow.
+
+The longer Mato shook the unresponsive kobold, the more terrifying its passivity grew. Ali! What happened? Are you…
+
+Suddenly, the kobold twitched, head snapping upright as if waking from a dream. She turned golden draconic eyes on him and said, “I’m ok, Mato. Nevyn Eld attacked the shrine, and Malika and I had to flee.”
+
+“You scared the crap out of me,” Mato grumbled, gently putting the kobold down and patting the shoulders of her robes to straighten out the creases.
+
+“It’s ok,” Ali’s kobold said. “He won’t catch me by surprise again. Calen is buying some time, and I’ll make a few more powerful bosses. Malika and I will take care of him.”
+
+“Don’t kill him too early, Ali,” Mato said.
+
+The tiny kobold’s eyes widened in surprise as she turned to regard him for a moment, and then it chirped in a surprisingly recognizable imitation of Ali’s wry chuckle. “Sure, Mato, I’ll keep that in mind.”
+
+“What can we do to help?” he asked.
+
+“I don’t want you guys trapped inside the Lich’s shield when we send him to his Phylactery; we’ll try to keep him distracted as long as we can,” Ali said. “I’ll send Calen back in a moment, but I don’t think we can hold him off for very long. You guys capture the Phylactery as soon as you can – it’s our only chance.”
+
+“Right. Let’s hurry it up, then,” Mato said, not wasting any time explaining things to the adventurers clustered about him. They had, after all, heard everything and every last one of them knew precisely what was at stake.
+
+“Forward,” Lyeneru said, leading the way down the passage, and a few moments later, Calen reappeared.
+
+I hope Ali isn’t too shaken by whatever that was. She needs to be at her best against the likes of the Blind Lich.
+
+Ali’s body shuddered, and it had nothing to do with the jostling from Malika’s arms as she sprinted across the Forest Cavern at top speed, carrying her.
+
+She wasn’t harmed in any way that she could see, thanks to Lira’s blessing of the God Maker title, but her most primal instincts knew she had just died. Something still felt broken.
+
+Ali shook her head slowly, trying to clear it, still reeling from her experience – and from Mato’s inappropriate joke. It really was just his nature, and tossing a moment of shocking levity in the face of her mortal terror had, surprisingly, jolted her out of a dangerous funk.
+
+At least my brain is still working. And I didn’t lose my minions. She shuddered briefly at the damage that might have wrought.
+
+Still, Mato’s joking about not killing the Lich too quickly was a gentle reminder of a darker truth: they had all agreed that the raid group needed to wipe out the Crypt of Kings and claim possession of the Lich’s Phylactery before his avatar died. While he had lain dormant after Azryet had eaten him, the Crypt of Kings had been locked down, guarded by a warding shield the likes of which Calen had never seen. Accidentally wiping out Nevyn Eld prematurely had a good chance of trapping the entire raid in there with him, and no one wanted to imagine what would happen to them then.
+
+Still cradled in Malika’s arms, Ali ranged outward, back the way they had come, searching urgently. Six portals pulsed under the flux of necromantic magic, dotted in several locations across the Forest Cavern, each one disgorging undead like kicked anthills. In the air, Calen and his images fought a bitter retreat, stalling the enemy while Malika brought her to safety.
+
+Right, let’s see if I can lend a hand. She flexed her domain, deconstructing every last corpse she could find. Unfortunately, most of the demons had been raised and had joined Nevyn Eld’s armies. Then she set about dismantling portals, cheating outrageously with her domain mana to circumvent the Blind Lich’s control. Four of them collapsed in seconds, greatly stemming the tide of fresh invaders, but he managed to wrest control of the last two from her before she spiked their formations. There goes that idea. Still, I need to keep him hopping. She smiled wryly, remembering a certain frog curse.
+
+The Forest Cavern was burning. Great stretches of her beautiful forest were being rapidly consumed by black flames of hellfire as undead demons rampaged, and what remained was withering and dying from the deathly presence of so many powerful Death Knights. A few moments later, her mana reservation snapped as the undead horde finally overwhelmed her Soul Archon, and her archer champion dropped to the floor among the writhing sea of monsters clawing at her.
+
+But Ali had learned a hard lesson the day Lira had wiped out her domain, and she was no longer solely dependent on her trees and moss in the mortal realm. While her domain plants burned and withered, those overlaid upon the area in the Spirit Realm continued to thrive, pulsing with energy and spilling her domain lattice across the veil.
+
+Dark mana flickered from the rear of the battlefield, an unmistakable formation she would recognize even in her nightmares. Ali reacted with an ability she had rarely needed before today. A long time ago, Arcane Insight had advanced, allowing her domain to always be in range. Golden darts materialized in the air far away from where Malika was carrying her, and they lanced outward with near-instantaneous arcs, leaving softly glowing glitter trails behind them, and Nevyn Eld’s Raise Greater Undead formation was ripped to shreds.
+
+Before his recharge could expire, Ali deconstructed the corpse of her own Soul Archon, denying him another powerful minion.
+
+But his horde was already vast.
+
+“Put me down, Malika,” she said.
+
+“Ali…” she said, slowing down and staring at her with an intense expression on her face.
+
+“Mmm?”
+
+“You… you nearly died,” Malika said, her brow furrowed in concern.
+
+“I think I did, for a moment,” Ali answered, shuddering once more before her body stilled and Malika obligingly lowered her to the mossy ground.
+
+“What happened? I thought you said you had it under control,” Malika asked.
+
+“Well, apparently, he can use Authority to boost his death bolts,” Ali said. It had been a rude surprise, and her blithe words did little justice to the image of Lira with a smoking hole bored through her chest that sprang into her mind in vivid clarity. A hole spilling sap that had matched the one she had gazed through in her own chest just minutes ago.
+
+“Shit,” Malika said.
+
+“Yup, you can say that again,” Ali nodded. She had not expected to burn her God Maker title’s recharge at all, let alone so early, but she had bought that lesson at great cost, and she intended to wring everything she could from it. First, she could see Authority. It was unmistakable in hindsight – where the Blind Lich had got it from, was another story, and a question for later. Still, it explained so much. Secondly, it could be used to great effect on spells other than summoning, and if she were to have a fighting chance, she needed to reserve a point for her Disrupt. And finally, she needed to be smarter about his counter-magic – he was an ancient monster and had many tricks up his tattered sleeves.
+
+Malika had put her down all the way across the Forest Cavern by the small river channel that connected it to what had once been Lira’s Forest and the uppermost entrance to the library. “He won’t catch me with that trick a second time, but we have a problem. Nevyn Eld has raised all the demons, and he’s on his way here.”
+
+“What are we going to do about him, Ali?”
+
+“Well…” she said, glancing around at the tunnel, considering how best to use it defensively. “Mato asked us not to kill him too quickly.”
+
+Malika’s face contorted into at least five distinctly conflicting emotions in short succession before she answered. “Are you serious?”
+
+Ali nodded, but she had an actual plan in mind, and she didn’t want to keep Malika hanging. “Can’t send him to his ‘death jug’ until they have it secured. What do you think of holy?” she asked, sizing up the space. “This tunnel should be a good chokepoint to delay his minions, and we can be on the far side. A Divine Archon, maybe?”
+
+“Holy is good,” Malika said, thoughtfully. “Works against demons and undead. And your Archon is strong.”
+
+“That’s what I thought, too.”
+
+She opened her Grimoire and began summoning, feeding a point of precious Authority into her spell while she scanned the entire surrounding domain, locking on to every single manifestation of foreign mana, every formation, and every hostile presence.
+
+The undead were closer than she had thought, and within moments, raspy howls echoed through the forest as the first raised Cerberus demons stalked out of the darkness, unhealed wounds hanging open and leaking hellfire. A hail of brilliant arrows rained down upon them with unceasing fury.
+
+“We have to send Calen back soon,” Ali said. “The other group needs him.”
+
+“I’ll take care of it. Finish your boss, and let me know when you’re ready,” Malika said, and she blurred into action, a radiant blaze of light to ward off the fires of darkness.
+
+Ali’s Grimoire flickered and faded, and the Divine Archon appeared before her, resplendent in burnished mithril plate and wielding a glowing Holy Avenger greatsword that illuminated the inside of the tunnel.
+
+Divine Archon – Celestial Sun Elf – level 252 (Holy).
+
+It still amazed her just how much her spell haste changed combat for her. Previously, Ali would have had to ensure time and preparation for summoning her armies prior to engaging in combat, but now she was able to simply back off while her friends delayed their foes and summon an incredibly potent defensive monster mid-battle.
+
+She reached out and touched the celestial’s hand, and through her, her domain swelled, causing the Divine Archon to shine with radiant brilliance. It grew nearly twice the size, empowered by the enormous flow of domain magic required to support a champion enhancement.
+
+Domain Respawn applied to Divine Archon.Champion Domain Enhancement applied to Divine Archon.Elemental Storm (Holy).Slayer (Undead) applied.Mass Summoning (Holy) applied.Triggered Mana Echoes (Mass Summoning).Domain Enhancement complete.Your reserved mana has increased by +2129.
+
+“Defend this tunnel. Kill all the undead,” Ali instructed, glowing runic formations flickering rapidly above her outstretched hands as she cast a half-dozen memorized buffs on her newest minion and refreshed some important ones on herself.
+
+“It will be done,” the Archon answered, raising her sword as her mana surged.
+
+“I’m ready,” Ali called out, using a manually cast Sending spell spun out of golden arcane runes, but she was already busy summoning more monsters. Even though the zombified demon wolves were still far from the tunnel, Malika began backing toward the chokepoint. Ali had a moment to appreciate just how fast Malika had become as she flitted back and forth between the undead, almost too fast for the eye to track.
+
+Calen swooped down into the tunnel and landed beside her, unleashing another brilliant storm of deadly arrows without seemingly bothering to take aim. “Ali? Are you ok?”
+
+“I am now, thanks,” she said. He had truly swept in at the nick of time to hold the Lich’s forces back while she recovered.
+
+“The others have reached the final chamber. Can I leave you and Malika for now?” Calen asked.
+
+“Yes,” Ali said, nodding and pointing to the celestial she had just summoned with Authority. She was still feeling a little rattled, truth be told, but she held her friend’s worried gaze steadily. “This is my strongest boss. He will not get through here easily, and I have time to make more.”
+
+“Alright,” Calen said, nodding. “Just, Ali? Please don’t scare us like that again.”
+
+“Ok,” she nodded soberly, and then he vanished, replaced with a bright orb bobbing slowly in the tunnel. Back to work. Come on! They’ve covered for me long enough. Now it’s my turn.
+
+Malika was getting close now, so Ali gestured to her boss. The Divine Archon stepped up and launched her sword out of the tunnel and toward the onrushing, crawling, clanking, moaning dead. It whipped out in a broad arc, tumbling end over end with a soft whooshing noise that cast shifting shadows as it zipped through the trees. Afterimages peeled off the flying blade, spinning out to engage with the monsters, and suddenly, the forest beyond was lit by the glow of dozens of flying holy blades.
+
+Demonic howls of pain rose from the burning trees as the blades bit through freshly raised undead flesh. New flames burst upward within the blaze, the white of holy consecration contending against the black of hellfire.
+
+And then, suddenly, he was there.
+
+Nevyn Eld snapped into existence right before them with the wisps of the teleportation spell she hadn’t even seen fading. Surrounding him was an entire army of undead and raised demons that had been pulled along with his movement spell.
+
+Just like Seth, the rational part of her mind observed – the part of her that wasn’t already quivering at the sight of the Blind Lich. At least the range of his Minion Teleport did not include the full army still assaulting the walls of the town.
+
+Ali’s eyes widened as the twisted eldritch skull appeared in the Lich’s hand. I shouldn’t have invited any tricks! her mind wailed briefly. The light in the dark tunnel died as a deep humming shook the earth, and Nevyn Eld released his Umbral Lance with a deafening crack. She ducked reflexively, raising a wall of barriers several thick.
+
+Brilliant light flared in the darkness as the Divine Archon summoned her Holy Shield. A second explosion shook the ground as the lance careened off the shining holy shield and, even though plainly weakened by the impact, obliterated a chunk of the tunnel wall larger than a house.
+
+“Your evil cannot harm me,” the archon decreed.
+
+“Summon minions to aid us,” Ali ordered, shoving her fear back. This was not the time. Instead, she took her own advice and began summoning one of Azryet’s finest holy dragons to support the archon.
+
+The Divine Archon did her bidding without question; cold eyes firmly locked on the incoming wave of the dead. Domain magic surged, and monsters popped into being left and right. Kobold mages and priests chirped excitedly, instantly summoning their holy spells in the form of fireballs and buffs. Several Sacred Oozes plopped down, slithering along the ground, their jelly-like bodies wobbling as they split off dozens of miniature oozes. But it was the handful of Sacred Guardian elementals and the four Mana Echoes of the Divine Archon that Ali had pinned her hopes on.
+
+She had seriously considered using Summon Domain Enhanced Monster – the ability she had learned from Nathaniel Sunstrider, which would allow her champion Divine Archon to summon raid bosses. But the Mana Echoes were faster, and in this case, she was certain they would be far more effective.
+
+“All the auras,” she said, triggering aura switches among the mana echoes. Mana surges caused echoing buzzing and clicking as the monsters switched their auras, enabling the full suite: Retribution, Fanaticism, Redemption, Turn Undead, and Holy Vulnerability – overlapping holy aura formations that meshed in a dizzyingly complex dance of mana.
+
+Malika suddenly appeared beside her, simply standing there silently, glaring at the Blind Lich. Perhaps it was a trivial gesture, but Ali was glad of the support.
+
+“What have we got?” Malika asked.
+
+“Some fun surprises,” Ali said, her mana still working to summon more monsters. She had little doubt that she would need everything she could get to hold him at bay. Her next archon summon was nearly half completed, and she had reserved a point of Authority for when she was able to resummon Tol’brekk.
+
+Out beyond the crashing wave of undead, shadows gathered to the Lich like maggots to a midden heap. A wave of pressure mounted, straining her domain, and a golden ring on his left hand began to shine, and twisted skeletons with stained bones began to claw their way out of the pool of shadows around his feet. Scores of them belched up like an undead plague had blighted the land. They all seemed around low platinum rank, but they seemed to be an endless river of clacking and creaking bones.
+
+How does he have the mana for all this?
+
+Ali studied Nevyn Eld’s horde as it rushed the tunnel, baying and howling with fangs bared and flames burning, or clacking and creaking on fleshless feet with rusty helms and rotting teeth, all reaching for the two of them standing behind the shining archon. Undead, whipped into a frenzy by the will of the cold, arrogant necromancer standing back within his impenetrable, glittering black shield. Ice and Death magic surged as the Devastation Knights clanked in their shining mithril armor with their black capes waving behind them on currents of unfelt breezes, and every single dead began to move with frenzied speed and power as the Blind Lich’s shadows billowed outward.
+
+“Elemental Storm,” Ali commanded, using a mental image instead of verbal commands, just in case he could hear her.
+
+As one, the Divine Archon and her four Mana Echoes ignited like stars born in the dark firmament. A blazing inferno of pure white flame howled outward with divine rage, a burning righteousness that existed only to cleanse the world of evil. Freshly raised demons burst into flame like kindling and promptly disintegrated under the conflagration of five simultaneous elemental storms. Ranks of skeletal warriors were turned to dust and blown away on the winds of mana and flame. Already debuffed by Turn Undead and Holy Vulnerability, most of the monsters stood no chance.
+
+But for Ali and Malika, standing toward the back and observing, it was the soothing warmth of healing magic that bathed them.
+
+“Now, that’s pretty impressive,” Malika said, her eyes shining with her own soul magic power. “Even the death knights are dying. Disintegrating.”
+
+“Yup,” Ali said, the tension held within her shoulders slowly draining at the sight of her plan working so well. At least the incredible horde of monsters Nevyn Eld had brought with him was being decimated, and over the roar and sizzle of flame and the anguished howling of demonic undead, she could hear the soft hiss of Redemption consuming the corpses, turning them into mana. Certainly, one of the most effective spells to wield against a summoning necromancer. Still, she took no chances and deconstructed everything she could sense.
+
+“Come, Ali. We should leave now, before he figures out how to kill it,” Malika said.
+
+Ali glanced at her Divine Archon and the radiant inferno of holy magic, pressing her lips into a sour line as she realized Malika was right. He had teleportation spells and a thousand other tricks to allow him to bypass any boss – unless she managed to disrupt whatever he conjured. And she had not had the best of luck with that so far. No, their best chance was to keep him off balance by throwing more monsters and bosses in his way until the raid captured his Phylactery. She glanced back through her distant minions’ eyes to see Calen leading the raid into the final chamber of the Crypt of Kings.
+
+Shit, they’re just starting. We’re going to need to buy them some time.
+
+Even as she mustered her resolve, the Lich’s dark form glided smoothly into the inferno of holy magic, the flames held at bay from his dark robes in a perfect spherical zone about him that glittered with darkness and soul mana.
+
+“Follow my lead!” Ali called, grabbing her friend’s hand for a second. “We need to panic!”
+
+“Oh no, he’s coming!” Malika shrieked at a pitch she had frankly never heard from her friend before. “Come on, Aliandra!”
+
+Brilliant, Ali. Just brilliant. I can see the acting jobs pouring in already. Ali immediately turned and teleported out of the tunnel and into Lira’s Forest cavern beyond, using her magic to keep up with Malika’s incredible speed. Perfect, kiting the Blind Lich. First time for everything.
+
+But, while she fled, she never took her senses off the unfolding battle.
+
+The Blind Lich raised a gaunt arm, unhurried and supremely indifferent to the raging storm of holy fire spilling around his Aegis of Absolution, and Ali’s mana sight was suddenly drawn into the intense focus of his formation.
+
+A dark orb of roiling black formed, floating ominously above his grasping skeletal fingers. A formation brimming with primal power, preternatural sharpness, and immense weight.
+
+Ali hesitated.
+
+It was the very same spell that had defeated her Disrupt back there. The magic that had effortlessly shattered her barrier and killed her. She studied it intently as the magic formation bloomed, searching for a way – any way. There had to be a way to defeat it. But her Sage of Learning remained stubbornly silent, revealing nothing she didn’t already know. Her knowledge of the spell was already complete. Yet, she had failed to Disrupt it.
+
+Authority. It must be – surely?
+
+It was just as she had expected. That Nevyn Eld could wield Authority had been a devastating revelation. It was not precisely the same as hers, she suddenly noticed. His carried a taint of death and eldritch energy that made her insides crawl, calling to mind the nature of the Well of Eternity before Baaoht Yll’shuum had been defeated.
+
+Is that it? Is that why I could never add the vials of water to my Grimoire? Is that his secret? According to Azryet and Lira, her ability to use Authority before the fourth or fifth tier was unprecedented. The fact that Nevyn Eld could wield it should be impossible, and yet she couldn’t doubt the evidence before her very eyes. If he had found some way to harness the power of the Well of Eternity, secured deep within his Crypt of Kings, that would explain a great deal. It would also, unfortunately, imply he had access to far more than she did – only the fact he wasn’t spending it like water reassured her that it couldn’t be that straightforward.
+
+Unless I can figure out how to use it, too? She had two Wells to his one, but he’d had millennia to experiment, to perfect it, and she had no time at all.
+
+Still, his ability to essentially bypass all her defenses simply by spending a point had, in fact, killed her – it was only courtesy of Lira’s blessing and her friends’ quick thinking that she was still standing. Worse, he seemed to already have far more points than she did, if the rate at which she had observed him spending them was anything to go on, and she did not have any good prospects of earning more. Nobody was awaiting a third-tier evolution, and she did not currently have easy access to her shrine. Nor was the remote raid about to kill a new high-tier boss – not in the next few minutes.
+
+She glanced at her paltry collection of Authority – only six remaining after summoning the Divine Archon – as the dark bolt of death magic completed, agonizing over the decision to use it.
+
+This might not even work.
+
+If it failed, she may spend a critical point that she needed for a new minion, and she risked revealing her hand to the Lich. On the other hand, if she didn’t, she would never figure out if it worked or not.
+
+I must know. This knowledge was too critical to leave to chance.
+
+Decision led instantly to action, and she formed her golden darts in the air above her Divine Archon’s left shoulder, using her domain to greatly increase her range. It was a subterfuge that she was almost certain wouldn’t work, but she did it anyway. If Nevyn Eld believed that the Archon had cast the spell, it would be less she had given away. As her darts assembled into the complex counter-formation, she fed her skill a point of Authority. Instantly, the formations hardened, glittering like diamonds within the holy flames of battle.
+
+That’s it! Her intuition of her Authority being subtly different from his was revealed openly to her senses, and yet, it was clear that her spell had just been raised to the same tier as his. No longer would it be like trying to disrupt the spell of a mage twice her level, almost certain to fail. It was plain to see in the contrast between the formations.
+
+She launched her shining needles, darting outward through the white flames to impale the roiling ball of black magic right as it left the Lich’s fingers. They sliced into the surface, vanishing within, as if they had simply been inhaled, or engulfed like one of Naia’s oozes feeding. For an instant drawn out uncomfortably long by her accelerated perceptions, nothing much happened. Then, a golden light bloomed within the blackness, swelling dramatically until jagged cracks split the suddenly solid surface. Radiant golden light burst out, shining brightly all around, and then the whole construct detonated in the Lich’s face.
+
+“I think that just pissed him off more,” Ali muttered, just grateful that he couldn’t feed Authority into that Umbral Lance spell. At least, she hoped, but it seemed to be an artifact spell, so it was a semi-reasonable assumption.
+
+“What?” Malika asked, stopping to stare at her.
+
+“I disrupted one of his authority-empowered spells,” she said, grinning fiercely. With his ire, and the steep cost of one of her points, she had bought knowledge. Knowledge of how to save herself or Malika next time. Provided I have a point left.
+
+“That’s going to be very useful,” Malika said, soberly.
+
+“I only have five points left, and I need them to summon strong guardians,” Ali reminded her, but Malika was not wrong. Having a way, scarce as it may be, might just turn out to be the edge they needed. Still, she kept every eye and domain perception skill trained on the battle, alert for anything she could learn, or ways to delay him a little longer while she summoned more defenders.
+
+Tol’brekk next? Fractured Archon? Or an Eye of Agnor?
+
+Tol’brekk would take another point of Authority and bring immense fury and power to her defenses, a juggernaut of muscle and blades for sure, but he would need constant babysitting –a dedicated witch doctor, at least. He was vulnerable to the Devastation Knights’ favorite curses – unsurprisingly, it had been Damage Reflection that had done him in back in the Grove. The Archon’s eye beams were virtually impossible to dodge, worked well against undead, and were not nearly as susceptible to the kinds of curses in play. Although… they need room to maneuver. On the other hand, summoning an Eye of Agnor would free her up from having to cast curses like Interrupted Casting manually and would likely draw more of the Lich’s countermeasures. Perhaps I can manage an Eldritch Arcana curse? she thought. There was no way he was letting something like that land. Strategies flittered rapidly through Ali’s mind as she sorted, catalogued, and projected outcomes. There had to be a way to beat him.
+
+Under the frozen mountains, Ali blinked, gazing out through Kir’vella’s eyes. Her canny, half-mad Empress of Bats had not been upgraded using her World Walker elite domain enhancement, but she was firmly in the third tier. She was here in her capacity as a support spellcaster, specializing in unconventional combat potions, mental resilience, and decursing abilities, and Ali had even sent several Nightwing Bats for her to use as surveillance, taking advantage of her title.
+
+Lyeneru’s hand rose in a firm gesture that halted the raid, and Ali ceased all movement after stepping out of the secret passageway and into what was clearly a throne room, taking a deep breath as she surveyed its splendor with her troll eyes.
+
+Nevyn Eld’s throne room. The heart of the Crypt of Kings.
+
+The intricate onyx stonework of Mi’ir Valdanis soared high overhead, supported by delicate and gracefully fashioned arches and pillars. Complex silvery runework adorned the walls with an elaborate, shining tracery of inlaid mithril. Incredibly, it all seemed to be actively channeling mana from the domain in soft pulsing waves that turned the chamber into the inside of an ornate, silver-lined black heart.
+
+An ebony throne loomed tall at the end of a narrow, crimson carpet, and beside it stood a dark altar. Ali’s attention was immediately drawn to the floating prism, the artifact that powered his dungeon, and the powerful wards that had been inscribed into the stone surface. There was a familiar, dark, glittering spherical shield surrounding the dungeon artifact, likely making it impossible to reach the altar.
+
+Kir’vella harrumphed, digging what might have been an insect out of her ear with a fingernail, supremely unimpressed. Ali barely caught her minion before she was subjected to a protein snack surprise, seasoned with a dash of earwax. Again.
+
+“… and there are three of them,” Calen was saying. “Artur is a warrior who wields fire magic and a runic sword. Bragni seems to be a holy cleric with an enormous hammer. And Thaldorien is a mage of dark lightning.”
+
+“Have we learned any of the domain magic spells?” Lyeneru asked.
+
+“They each have a damage aura about half the size of the chamber in their personal affinity. All three have an amplification debuff, increasing the amount of damage you take from their affinity. It refreshes and stacks. I don’t know their other abilities, other than all three of them are champion-level bosses,” Calen explained.
+
+How did he do that? Ali wondered, but her eyes traced the mithril runes on the walls, deciding she could make a pretty good guess. It was virtually impossible to make multiple powerful domain enhancements in the same space, but she could feel the density of the domain gathered here – something that was clearly artificial. After the fight, she would need some time to study them and confirm it, but she was certain she could learn a lot just by memorizing this chamber and all the runic magic.
+
+“Separate them and rotate tanks?” Mato asked.
+
+“That’s probably our best bet until we know more,” Calen agreed.
+
+Ali sharpened her focus, scanning the room with every sense at her disposal. She would need to be on top form – this had to be the final battle, and every iota of knowledge or insight she could unravel would hasten the end, and the moment her friends could return and help her wipe out the Lich for good.
+
+But… where is his Phylactery?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

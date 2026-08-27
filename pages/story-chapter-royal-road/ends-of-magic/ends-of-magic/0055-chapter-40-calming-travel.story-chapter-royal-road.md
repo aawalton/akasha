@@ -1,0 +1,237 @@
+---
+id: e4609856-3adb-59c1-a04b-b6672d433e98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Calming Travel"
+slug: 0055-chapter-40-calming-travel
+partOf: ends-of-magic
+position: 55
+ownLength: 2879
+unit: words
+ownProgress: 2879
+publishedAt: 2025-12-18
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2858727/chapter-40-calming-travel"
+royalRoadId: "2858727"
+markedReadAt: "2026-06-29T20:09:01.591Z"
+---
+
+The Heirs ate a leisurely breakfast, with Aarl breaking out some of the precious supplies they’d saved from Gemore for a taste of home. They’d all spent several days awake and in combat mode, and there was a lot of temptation to stay in their underground hidey hole for a day or more to come down from that level of anxiety. They probably could stay on schedule regardless, since Stella’s new wind spells would accelerate their travel.
+
+They did spend some time relaxing, breaking out various pastimes they hadn’t been able to give any attention to in days. Sarah read a book, Aarl played with an enchanted puzzle box from the vault of Esebus that looked like a masterpiece of complex wizardry. Khachi and Nathan chatted about religions and philosophers from Earth, and Stella poked around some enchanted objects Aarl had loaned her from his newly massive collection.
+
+But eventually, they all started to feel like the cave was claustrophobic instead of comforting, and decided to continue the journey. The landscape was still dark and dead. But the haze in the air was dissipating, and the clouds were breaking up, revealing the sun overhead.
+
+“How long will it take for the Seal to purify the land?” Aarl asked, looking down at the lifeless expanse of dry rock studded with the occasional band of undead.
+
+The Heirs looked to Nathan, and he pursed his lips. “I’m not sure. It depends on a lot of things. Based on what we saw back there, at least years. At most centuries. It depends on whether the rate stays constant or slows down at longer distances.”
+
+“We may be able to accelerate the process,” Khachi said, pointing downwards and raising his voice. “Let this land be healed. The source of the evil is slain, and purification follows.” His hand glowed, sending a shaft of light down to illuminate a random patch of dusty ground. Stella killed the wind spell, and the rest of the Heirs slowed down to let Khachi conduct his experiment. After a minute of sustained light a patch of rock a hundred feet across was a visibly lighter shade, more grey than black.
+
+The cleric cut off the flow of divine energy, examining the ground below. “The taint has soaked into the land deeply. It would take significant power to purge it completely.”
+
+“It’s more than I could do,” Stella admitted. “I can see the death mana infused into everything, but I don’t know how I could get it out. Maybe by melting the rock first.” She cocked an eyebrow at Nathan. “Well, aren’t you going to try? This is your dungeon.”
+
+Nathan unfurled his aura expectantly. It had grown ever easier to control his antimagic with the development of Aura Mastery, and it was next to no effort to keep it compressed close to his body. But now he let it out and directed it downwards, bathing the land in his antimagic. The blight was tightly tied to the landscape, and drawing it out felt like extracting pus from a wound. It reminded him faintly of the blightmind. Over the course of half a minute, the land healed in a radius of several hundred feet. The rocks reverted to their natural color, the soil turning a shade of healthy brown, though no plants sprouted. But now the potential was present when it hadn’t been before.
+
+“Don’t smother my fire completely,” Khachi said, more amused than grumpy. "An impressive demonstration."
+
+"I'm not done yet," Nathan answered, looking around at the distant expanse of blackened terrain. "I've got a new Development to try out." A thought struck him, and he reached to his side to grab the adamantium dagger. "Aarl, can you hold onto this for me? I'm not sure it'll survive this. In fact, go ahead and hang onto it until I ask for it back."
+
+"Another weapon for my collection," the fighter said, accepting the weapon and sticking it into his pouch.
+
+With that out of the way, Nathan dropped down below the Heirs, feet touching down in the center of the area he’d already cleansed. He extended his aura, making it more diffuse. This way, he would cover a bigger area, though it would take quite a bit longer to fully purify it. But that wasn’t his goal - he wanted to test the other mode of his antimagic, the version where it destroyed all magic. His aura stretched for miles, encompassing a large swath of the labyrinth of jagged ridges.
+
+He took a deep breath and flexed his aura to its full potential, smoothing out the background of wizardry and draining the ambient magic from the land. It funneled into him, bringing with it a feeling of addictive power. There was magic here, and Nathan was taking it, drawing something vital from the land and into himself. What was there was corrupted and warped, but it still held potency that went beyond normal resources. His stamina was overfull, but he felt something more, something associated with the base magic of Davrar. It was a power without an outlet, and to Nathan it felt like the potential for an Insight.
+
+The land lightened, losing the blackened coloration of the blight. But the difference was more obvious to his magical senses. It was like he’d created a vacuum in the background magical energy, cleansing the magic from a chunk of Davrar. It wasn’t the same resource as the mana somebody used to cast a spell. Instead, it was the source of the mana that refilled a mage’s mana pool and encouraged the propagation of magical effects. It would be harder to cast spells in this area, and a mage’s mana pool wouldn’t naturally refill while inside it.
+
+But nature abhorred a vacuum, and magic was already beginning to creep back in at the edges. This wasn’t a permanent state of affairs, and the Seal would slowly replenish everything Nathan had just taken. But it would take just as long to heal as if he'd left it blighted.
+
+He didn’t fully understand what he’d done. The ambient mana was just something that was there, part of the world. It had been corrupted to form the blight, but it had still been present. It was somehow associated with the metaphysical membrane that separated the aether from normal reality in ways Nathan didn’t quite understand. But he'd drained it dry, taking what had always before been omnipresent.
+
+“Can we continue our trip?” Stella called from above. “Whatever you did, it chills my bones.”
+
+Nathan looked up, seeing that the Heirs had retreated up into the sky to get farther away from his little experiment. He retracted his aura and tamped it down so he stopped draining away the very fabric of magic. It felt like clenching a muscle, like holding his breath in a somewhat unnatural way compared to the satiation he'd just felt. Siphoning off the magic of Davrar was his natural state, and anything else was him holding back.
+
+“What did it feel like to you?” he asked when he rejoined the Heirs.
+
+Khachi answered first, picking his words carefully. “As if you were killing the world. I feel this space pulling on my divinity, like a hungry mouth.”
+
+Stella nodded along firmly, her face pale. “It's terrifying. What was it?”
+
+“My new Talent,” Nathan replied. “I can do that, and get power from it.”
+
+“What kind of power?” Sarah asked.
+
+Nathan shrugged. “I’m not sure. It’s Stamina, but also something more, something associated with wizardry. I don’t understand it yet.”
+
+Sarah nodded sagely. “Sounds like an Insight waiting for your grasp.”
+
+“Let’s go,” Stella said, wrapping her arms around herself. She started casting the big wind spell, raising it high above the magic-dead zone Nathan had created.
+
+The Heirs travelled out of the Blight quickly, stopping for a few more tests and demonstrations of their new abilities. This might be the last time they were alone for a while and able to test their new understandings without worrying about either watchers or the fragility of the Grace of the Mists.
+
+Khachi’s light had also been upgraded. He could shift it between hues of rich gold, sun-yellow, and blinding white, with different colors specialized for different purposes. The gold was supportive, carrying healing and morale-boosting properties to allies, while the yellow burned enemies. The white blinded and stunned enemies, making a horde of undead stop in its tracks and stare at Khachi in a daze while they disintegrated.
+
+Stella had gained the ability to infuse spells with wizardry that could act semi-independently, like setting balls of lightning to orbit without her control, or laser spells to track flying targets on their own. It wasn’t as flexible as she could hope, but that would improve with practice. It lent her spells a certain fire-and-forget quality that would definitely be powerful. Her shields had also gotten stronger, with the ability to crystallize them with wizardry into a tougher and more durable form.
+
+Sarah had already bonded to the new weapon, which seemed to roughly double her fire rate and the power behind each shot. She’d also picked up Developments in various utility skills that further increased her sight, aim, and made her a less obvious target.
+
+Aarl had actually gained the most of everybody but Nathan, finally developing a Talent he’d had capped out since Giantsrest. Spatial Blade had allowed his bladed weapons to grow or shrink slightly as he swung them. It hadn’t been a substantial effect, primarily relevant in fights between blademasters where a couple of inches one way or another were critical. But there hadn’t been very many use-cases against the giant monsters and exotic magic effects they’d been fighting.
+
+But in the fighting over the Seal he’d Developed the Talent into Dimensional Reach, which only let him expand his weapons. But the effect was quite potent, to the point where he could increase the reach of a sword up to three times its previous length. That cap was only growing in size with further ranks, and more testing revealed that the effect was entirely spatial and didn’t make the blade any harder to handle.
+
+“Give me a long enough sword and I’ll outrange you,” he said to his sister jokingly.
+
+“I can hit things farther than you can even see,” she replied, a bit miffed by the suggestion.
+
+Stella waggled her finger at both of them. “I can still blow up the whole horizon. No need to see my target.”
+
+“Nobody’s trying to claim the title of explosions from you,” Aarl responded in a soothing tone. “But if you want to kill one person and not a city, that’s our goal.”
+
+“Or if there’s another mage present,” Khachi said. “You said most mages could break your new spells.”
+
+She shrugged. “Only if they know to focus on them. And if they can reach far enough. The wonder of the nuke spell is that it hits such a big area, I can aim beyond another mage’s range, and they will be fuel to the fire regardless.” She tilted a hand towards Nathan. “Or Nathan can clear the path with his aura. We can cast them closer now that I can direct the blast.”
+
+Nathan felt a little uneasy about them talking about using that kind of spell more commonly, but he couldn’t disagree with the sentiment. “We do need to be careful about showing our hand on that spell. If the Questors learn about it, then they’ll treat us differently.” He pointed back at Stella. “If nothing else, you will be the highest target on their priority list.”
+
+She scoffed. “Standing next to you? My bones say that will be you, as soon as they see your capabilities.”
+
+“I can heal back from just about anything," Nathan said. "You can’t, not without Khachi, and that power comes with more limits than my healing. We also need to apply the same caution for Khachi’s resurrections. Both your nukes and his Raise Dead are rare powers that will make Questors want to control or kill us.”
+
+“But we’ve demonstrated both recently! They must know,” Stella protested.
+
+Nathan shook his head. “I don’t know if they do. Badud was dead before Kachi revived you, and Sarya hadn’t shown up yet. We stayed pretty hidden after that, so I expect he thinks you’re still dead. For the new spell, I don’t think any of the Questors looked outside the colosseum to see the craters. That’s the only time we’ve used them outside of testing, and they might assume it was a weapon of the blight.”
+
+Sarah prodded her brother. “If those secrets are hidden, the next on the Questor’s kill list would be you.”
+
+“Why?” He pondered that for a second before snapping his finger. “Right, the vault. There are more than a few doomsday devices in there. But we haven’t used many. Unless they think the craters come from those.”
+
+“Scrying could reveal these secrets,” Khachi said.
+
+“Not around me,” Nathan said. “I’ve got a skill to deny divination spells, and that’s even before the magical interference of the blight. The Questors — aside from Sarya and her grid — know very little about our greater powers. Just like with the blight, we should try to keep it that way until the critical moment.”
+
+“Hear me, it seems I need to practice these spells now, before there are any witnesses around,” Stella said. “I wonder if the Grave Tangles are still atop those mountains.”
+
+“They are,” Sarah confirmed, glancing into the hazy distance.
+
+“Then they will be a fine target,” Stella replied with a grin.
+
+They were. Stella tested new configurations of the spell, mostly working to dial down the total size to something that didn’t require deleting several square miles. She also worked on directing them in specific directions, with the goal of being able to cast it at a shorter range if necessary. The result was that a section of the unnaturally dense and steep mountain range was reduced to rubble.
+
+Nathan did have to argue her down from scaling the spell up as far as it could go, with the argument that Helmaris would definitely see anything of that scale. As a matter of fact, people on the other side of Davrar would probably see it.
+
+Still, it only took them half the time to get back to Helmaris that it had taken them to enter the blight, primarily sped along by Stella’s new wind spell and the lack of organized undead trying to eat their faces. The guards of Helmaris let them in without complaint, surprised by their return but holding their tongues.
+
+They obviously thought that the Heirs had gone and poked around the edges of the blight before returning. It wasn’t worth correcting them, since from here the blight looked just the same, a section of constantly dark horizon. Beyond the weather, the repaired Seal wouldn’t cause a visible change for at least months and potentially years. Besides, the Heirs’ deal had been with the Questors of the Ashen Accord, not the city of Helmaris.
+
+Speaking of those Questors, Henrish was nowhere in sight. A few questions to the locals indicated that he hadn’t been seen since shortly before the Heirs defeated the blight, and hadn’t left any instructions.
+
+“I guess he didn’t care much about following up on the science lessons,” Nathan remarked to the Heirs.
+
+Khachi’s lips twisted in distaste. “There are Questor politics in the air. That will draw his focus, not the city he calls his own. It is merely a bridge to demonstrate his ideas, not a true stewardship."
+
+Nathan considered giving some quick lessons on science and engineering to the locals, but without anything to grant him legitimacy, he decided it wasn’t worth the effort. His skills would help him pass on information, but he didn't want to fight a battle to make them listen in the first place. The Heirs were on a deadline. Granted, they were ahead of schedule, but he didn’t want to kill their buffer for no reason.
+
+They went straight to the Grace of the Mists, which was still docked in the harbor. The large ship looked out of place against the smaller fishing boats of Helmaris. Eolinne greeted them and welcomed them aboard once more. “Another deed beyond possibility, another journey across the seas to distant lands.”
+
+“Hopefully our last,” Nathan replied.
+
+Permanent Talent 1: Magical Destruction 3
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 9
+
+Impulse 6
+
+The Sense of Magic 2
+
+Forewarning 7
+
+The Truth of Magic 3
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 3

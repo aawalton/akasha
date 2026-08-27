@@ -1,0 +1,145 @@
+---
+id: 839de9dd-3120-52cd-8bfa-a5b6ba465c62
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Three: The Third Circle"
+slug: 0074-chapter-seventy-three-the-third-circle
+partOf: flesh-eater-demon-evolution-litrpg
+position: 74
+ownLength: 2460
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3168433/chapter-seventy-three-the-third-circle"
+royalRoadId: "3168433"
+---
+
+The rest of the morning passed without much fanfare. Well, one teenage cadet did almost shoot another cadet, but that wasn’t anything to write home about. It was good to know that the training group hadn’t changed since she’d last been there. Declan and Merrick were nearby the whole time, and there was something relaxing about returning to their old rhythm of training and sparring and talking when the instructors weren’t looking.
+
+By the time lunch rolled around, the sun was beaming high in the sky. The other cadets eagerly piled into the mess hall, so tired that even the garrison’s food seemed like a gourmet banquet.
+
+Pyre debated if it would be better to fake-eat (well, half fake-eat and half real-eat, she guessed) first, then head over to the circle, or to plant the seed and then return to the mess hall. The former was probably less suspicious.
+
+In the end, she stepped into the line, Declan and Merrick behind her.
+
+When they got their food and sat down, still at the same table, Pyre began eating right away, letting Declan’s chatter wash over her. The kid had barely stopped talking since that morning. She got the distinct impression that he was trying to fit in all the conversations she’d missed while at the manor. It was actually kind of nice to have her ear talked off about something that didn’t involve magic shit.
+
+Speaking of magic shit.
+
+Pyre set down her fork, her tray of food half-consumed (she’d purposely been eating the veggies and “saving” the meat for last), and rose. Declan paused, giving her a confused look when she stood.
+
+“Latrine,” she said bluntly. The younger cadet blinked.
+
+“Oh, uh, have a safe trip?”
+
+Pyre exchanged an amused look with Merrick, who just shook his head. The demon snorted. “Sure thing, kid,” she said before turning and making her way towards the exit.
+
+She was acutely aware of eyes following her as she wove between the tables. Considering she was trying to sneakily plant a seed, that was a little annoying, but she could work with it. The demon shoved the door open and stepped outside, taking a brief moment to scan the area.
+
+Further away, she could make out another group of cadets on the training grounds, probably in the middle of a session. A few others walked between the buildings, some clearly taking a break, others looking like they’d forgotten something and were hurrying as fast as they could.
+
+Most of the activity was concentrated at this front section of the garrison, where the major facilities were. The back half, the part that was mostly grass and trees and probably a few rocks, was much quieter.
+
+Turning, Pyre strode in the general direction of the latrines, which were situated behind the mess hall. She personally thought that that was a hilarious place to put them, but right now, it worked in her favor. She spotted a cadet exiting who she recognized as that noble kid in her group. She’d seen him in the morning sessions, and honestly she was a little impressed he was still around.
+
+As he approached, she grinned, knowing it was a little too wide and, according to Callan, super uncanny. He blanched and quickly ducked his head, speed-walking past her.
+
+Pyre snorted, but kept going. Her thermal vision didn’t reveal anyone else nearby, so after another quick scan of the area, she ducked behind the latrines, then slipped into the trees bordering the wall here. This was the same area she’d secretly met Callan in during her time at the garrison.
+
+The demon kept moving, keeping right next to the wall and putting as many trees between her and the main garrison grounds as possible. It was a bit of a trek to reach the northeast corner, so she allowed herself to switch to a full sprint once the trees were dense enough that she didn’t think she’d be seen. All the while, the bag of seeds swayed on her belt.
+
+Finally, Pyre spotted the wall bending sharply in a corner up ahead. She slowed her pace. The map had been a little vague, considering trees all looked roughly the same to her, but there should be a small clearing in the area right over the center of the third circle.
+
+After a bit of searching and several bushes and branches shoved aside, she found it: a small patch of open grass in the middle of the forest.
+
+Pyre strode forward to the center. She extended some extra flesh, growing an eye on the end in what was becoming a very familiar bit of fleshwarping.
+
+The eye-antenna poked through the thick canopy, and she could see the looming Gravestone Mountains north beyond the wall. Further east were the arches of the sanctum, and if she turned the eye-limb even more, she could see the border of the Bellhein grounds right there. It really was right next to the garrison, separated only by some trees and two separate walls with various wards.
+
+Once she’d verified that this was, indeed, the right spot, Pyre raised her hand and loosened the bandages just enough to create a gap over her palm. From that center, she shot a bone out, the spike digging deep down into the earth. Once the hole was big enough, she retracted the bone and tightened the bandages again.
+
+With that done, the demon pulled out the pouch of seeds and dropped one down into the freshly-made hole. The moment it landed, those faint green lines on its surface flared. The dirt surrounding it began to glow softly too, little silver lights moving closer to the seed.
+
+Pyre raised an eyebrow. Well, it looked like she’d been right about Callan probably obsessively checking when the seed was planted. He was already starting to channel ichor into it, and she hadn’t even covered the thing in dirt yet.
+
+Snorting, the demon used her foot to fill the hole with surrounding dirt, patting it down and doing her best to make the spot look untouched. She doubted many people stopped by here, but better safe than sorry.
+
+Her eye-limb swiveled in the direction of the manor again, where she could just barely make out the building itself through the canopy. Callan probably would’ve turned invisible and followed her to the garrison if he wasn’t so intent on channeling ichor into the seeds as quickly as possible. At least she knew for sure that she’d planted the seed in the right place.
+
+Giving the ground one final stomp, Pyre absorbed the extra limb, then gave her head a quick pat to make sure her horns hadn’t popped out at some point. Satisfied, she turned and made her way back towards the mess hall.
+
+Lunch was almost over by the time Pyre made it back. Actually, it was over, or at least the mess hall had closed. Most of the cadets were making their way back to whatever building they needed to be in next, leaving the area around the mess hall itself relatively quiet.
+
+Pyre made sure to loop around to the back of the building so that it looked like she was coming from the latrines. She soon found Declan and Merrick waiting in front of the mess hall’s front doors. The former spun around as she approached.
+
+“There you are.” He sounded relieved. “I thought something happened!”
+
+Pyre gave the cadet a flat look. “Latrine happened,” she said in a perfect monotone.
+
+Declan sputtered while Merrick made a noise that sounded suspiciously like a laugh. The demon snorted and strode forward towards the training grounds, where their group’s next session was scheduled. “Come on, better get going before Edna does role call.”
+
+The threat of being tardy was enough to shut down any lingering questions Declan might’ve had, and the trio quickly made their way over to the training facility.
+
+Now that Pyre’s main priority was taken care of, the rest of the day passed easily. Most people probably wouldn’t agree with that assessment, considering how packed the day was, but the demon was able to listen to the instructors and do whatever tests she needed to prove she was still meeting standards without having to worry about the ritual and the seeds. All things considered, it was almost relaxing, in a way. Like a vacation before it was time to destroy the barrier, if that vacation involved nonstop drills.
+
+Right now, Pyre stood outside, a warm breeze rustling the grasses below. She could hear cadets sparring nearby, Declan facing off against another young man a few feet away. The demon turned her attention back to Merrick, who currently stood across from her, arms raised defensively. Hand-to-hand combat, it seemed, was a long-running course.
+
+Pyre circled the man, keeping her posture lax. She could feel her arms instinctively moving to a ready position. Now that Pax had basically confirmed her suspicions about her double-reincarnation, her fighting abilities made a lot more sense. Obviously she could’ve still learned this stuff from Earth, but she wouldn’t be surprised if most of it came from whoever her past incarnation on this world was.
+
+It would certainly give her more practical experience.
+
+Across from the demon, Merrick frowned, brows furrowed in concentration. He’d tried—unsuccessfully—to land two hits so far, and he seemed to be taking the challenge in stride.
+
+“New sparring buddy not as good as you?” Pyre joked. Merrick’s dark eyes briefly darted over to a cadet sparring on the other side of the field, then back.
+
+“He’s quite skilled for his age, actually,” he said, ever humble and serious. He focused on the demon again. “Though I did miss the challenge,” he admitted.
+
+Pyre hummed in acknowledgement. In a flash, she lunged forward in one step, gripping Merrick’s arm and pushing it to the side. He attempted to twist away, but with the demon’s longer reach, she was able to stretch out her other arm and tap his forehead before he could dodge.
+
+She released his arm and stepped back again. “3-0,” she drawled. The man huffed a laugh.
+
+“Not my finest performance,” he said, but there was no real heat behind the words.
+
+As they started circling again, Merrick studied the demon, face as stoic as ever. Pyre thought she saw something flash briefly in his eyes, though, and sure enough, the man soon opened his mouth to speak.
+
+“Did you receive additional training at the manor? You’re moving a bit differently from before.”
+
+Pyre whistled internally. Daphne, Edna, now Merrick. That made three people who’d noticed. Not ideal, but also not that bad. Besides, she’d be getting rid of the curse once and for all very soon, anyway.
+
+She opened her mouth, about to use the same ichor-poisoning excuse, but stopped at the last second. An old conversation rose in her mind, words spoken of a lost son and an incurable condition in the evening light. The lie died before it could fully form.
+
+“Yeah,” she said instead before she could really think about it. The demon shrugged. “The head guard taught me a few new tricks. Not sure I like them yet, but I figured I’d give them a go.”
+
+Merrick nodded, easily accepting the answer. A few feet away, Pyre heard Declan’s enthused voice as he managed to land another blow on his sparring partner. From the brief glimpses she’d gotten of their fight, the cadet was definitely a lot more confident now than he’d been before. Funny, how both so much and so little could change in such a short amount of time.
+
+Pyre focused her attention on Merrick again, about to search for another opening, when a strange feeling suddenly rose in her chest.
+
+It wasn’t like the all-consuming pain of the curse mark moving, sharp and piercing, but closer to the tugging she’d felt near the sanctum. Instead of a pull, though, this felt like that persistent hollowness in her chest was twisting, nothing bending like it was something. She didn’t realize she’d stopped moving until she heard Merrick’s voice call her name, but by the time her eyes focused again, her gaze was immediately drawn in the direction of the sanctum.
+
+The sanctum, where a beam of scarlet light burst through the top of the tower, shooting up into the sky like a bloody beacon.
+
+The sanctum, where the white arches and engraved walls began to crack and crumble, the mountain itself seeming to tremble with an unseen force. Even from this distance, Pyre could see clouds of dust rising from the mountainside as rocks and debris were knocked loose and disturbed.
+
+All throughout, that light kept beaming brighter and brighter until it blinded the sun.
+
+Someone yelled.
+
+Around the demon, the training grounds descended into chaos as cadets pointed to the sanctum with growing panic. Some scrambled away, as if wanting to put as much distance between them and that light as possible. Others dropped down to the grass for cover.
+
+No one seemed to know what was happening. She was sure that the same reaction was happening all across Magrath, every eye fixed on the sanctum in shock and horror and growing fear.
+
+Through the thick of chaos, Pyre stood steady, watching.
+
+The central tower of the sanctum burst open.
+
+Shattered white stone fell heavily to the earth in a pile of debris, allowing the light within to pour outwards. From that light, a dark silhouette grew larger, and Pyre thought she heard the distant flap of wings.
+
+In the next moment, a creature soared violently out from the light pillar. Even at this distance, its reptilian body and pointed, leathery wings cut an imposing figure. The demon could see a long, serpentine tail trailing behind it, two clawed legs hanging just behind the flapping wings. A word immediately rose in her mind, pulled from that haze of broken memory.
+
+Dragon.
+
+The screams and panic around Pyre grew louder. The creature reared its head back, releasing a piercing screech that seemed to shake the very earth. Several people covered their ears as the monster soared across the bright blue sky.
+
+The light didn’t stop beaming. The walls at the base of the sanctum were the next to fall, and a mass of silhouettes poured out of the new opening. It was too far away to see exactly what they were, but Pyre had a good guess. There had to be hundreds of them, hunched figures trodding steadily forward towards Magrath. A veritable army descending down on the unsuspecting city.
+
+As the training grounds exploded into complete mayhem, one truth rang clearly in the demon’s mind. It was a week too early—this wasn’t what they’d planned for—but it was undeniable.
+
+The Empire’s invasion had begun.

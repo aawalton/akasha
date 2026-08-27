@@ -1,0 +1,177 @@
+---
+id: be62a982-3d76-55cd-9da6-d1ecacb3a884
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50"
+slug: 0051-chapter-50
+partOf: emie-ascended
+position: 51
+ownLength: 2329
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3846185/chapter-50"
+royalRoadId: "3846185"
+---
+
+“It looks like I have you to thank once again, Healer Emie,” Jed said when we met outside the café the following day.
+
+“That’s my job,” I said lightly before smiling and adding, “Though you should probably try not to get injured so often. Maybe your party should invest in one of the healing skillbooks being dropped from the dungeon?”
+
+“We would if we could afford one,” Jed said with a sigh. “And it’s not like I’m trying to get injured. It really was just an unlucky accident.”
+
+His eyes briefly shifted to the redheaded fire specialist before looking away. Seeing his look, Stacy shrank into herself at the unspoken blame.
+
+“Hey, accidents happen. What’s important is that everyone learns from them and they aren’t repeated,” I said neutrally. Hoping to shift the topic to something lighter, I added, “So, you said the food here is good?”
+
+“Oh yeah. It’s one of our favorite spots,” a fifth person said. “I’m Lannigrand. You probably don’t remember me from when we met the first time. We just missed each other yesterday at the hospital.”
+
+“Right. I remember,” I said, stepping inside the restaurant.
+
+It was a more casual dining experience than most places I’d been to since my ascension. Instead of being seated and ordering off menus, we stood in line and ordered at the counter before finding a seat, much like the fast food model of pre-integration Earth.
+
+“Don’t be fooled by the atmosphere. The food really is good,” Jed said quietly as I examined the posted menu.
+
+“I believe you. This kind of restaurant isn’t new to me,” I said. “It was actually quite common on my home world.”
+
+“Yeah? Was it hard to leave it all behind?” he asked before shaking his head with a scoff. “What am I saying? Of course, it was hard leaving everything you knew behind. That was a dumb question.”
+
+I chuckled and stepped closer to the counter. “Nah, it’s fine. I’m used to it by now. I still miss a lot of things about my old realm, but I think the goddess does something to us when we ascend to keep us from missing home too much.”
+
+“Does something?” Jed repeated. “Something like what?”
+
+“An emotional dampener, or something. I can still develop new emotions and everything, but the emotions connected to my prior life feel distant and duller than they did before. It makes things easier.”
+
+Jed frowned and brushed his golden hair away from his face. “I don’t think I’d like to have my emotions manipulated, though.”
+
+I shrugged in response. While a part of me agreed, the more logical side understood the value of the dampening effect.
+
+Even with as few connections as I had because of my time in the Realm Dungeon, I was glad that I didn’t have to experience the pain of missing my loved ones as deeply as I would have without the goddess’s intervention.
+
+I ordered a salad and a sandwich with a glass of something fruity. The drink reminded me of flavored colas, but without carbonation. There was still a similar tingling feeling when it was consumed, but it was created using magic instead of science.
+
+Or maybe it used both? I honestly had no idea how the drink was made. I did know that it wasn’t something unhealthy like the sodas of Earth, so at least there was that.
+
+“I heard you joined the Porter Guild,” Jed said after we got our food and found a table. “How is that going?”
+
+“It’s good so far. I have my first official job with the guild after lunch. I’m supposed to open a portal between Iron Fortress and Sorenguard.”
+
+“Iron Fortress? I’m not familiar with that city.”
+
+“That’s probably because of how far away it is. It’s nearly on the other side of the world,” I said.
+
+“That far?” asked the other woman in the party, whom I’d verified was named Jeni, not Gemmi.
+
+“Yes. Distance doesn’t matter all that much as long as I have a waypoint set. Every new guild member was given a mentor and taken to several cities to set waypoints to facilitate our ability to transport clients. Iron Fortress was one of mine.”
+
+“It must be interesting to get to travel so many places,” Jeni commented.
+
+“And costly,” her boyfriend, Harlon, added under his breath.
+
+I nodded and said, “It is both interesting and expensive. I suspect the cost of traveling to and from Sorenguard will soon become much more affordable with the new guild branch here, though.”
+
+I could see the interest in four out of the five party members’ eyes. Only Stacy seemed indifferent, though it seemed more like she wasn’t really paying attention than any true disinterest.
+
+“Really? What kind of cost do you think it might drop to?” Lannigrand asked, leaning forward.
+
+“I’m not sure about the exact costs since I haven’t looked them up,” I said carefully, not wanting to provide false information. “But I do know that clients are charged based on their rank. They’re usually paired with a Porter of the same rank, too, if one is available. Aside from that, I really don’t know the specifics involved.”
+
+I really probably should, since the fees involved directly correlated to how much I’d be compensated for each job. But with everything going on, the question had slipped my mind.
+
+“I actually need to look into it since I’m hoping to travel to a city I’ve never been to before,” I continued. “Since it isn’t somewhere that I need to go as part of the job, I’ll probably have to pay out of pocket for the trip.
+
+“If you want, I can look into it for you? You can also just stop by the Porter Guild and ask. That might actually be faster. They’d likely be able to answer your questions better than I could, too.”
+
+“That’s a good point. No need to bother yourself on our behalf,” Jed said.
+
+Tilting my head, I asked, “Are you all planning to relocate?”
+
+The question seemed to cut through Stacy’s self-imposed isolation, causing her eyes to dart between her fellow party members.
+
+“Wait. Are we? When did we talk about that?”
+
+Jeni rolled her eyes and said, “We’ve talked about it multiple times.”
+
+“Yeah, but never seriously. What about our families? Our friends?” the redhead asked, getting worked up. “Are you guys really considering just leaving it all behind?”
+
+“Well, it’s not like we couldn’t come back,” Lannigrand said.
+
+“Yeah, and it’s not something we’re deciding on right away. It was just a question,” Jeni added.
+
+“But there’s no reason to leave. It’s not like we’ll outgrow the dungeon here,” Stacy stated stubbornly.
+
+“Let’s discuss this later. I don’t really think that now is the right time,” Jed interjected before giving me an apologetic look.
+
+With the mood broken, the conversation became forced. It was clear that nobody really wanted to be there anymore, and we were all relieved when enough time passed that we could end the meal without it coming across as rude.
+
+“Thanks again for healing me,” Jed said, extending his hand.
+
+“You are very welcome. Good luck and try to stay safe from now on,” I said.
+
+“I will. Who knows? Maybe you’ll see some of us again sooner than you expect,” he added with a playful grin.
+
+The hardest part about the portal job was holding the portal open for nearly half an hour. Even that wasn’t really all that difficult, though I was informed that most bronze (and even some steel) rankers often had to close the portal and take a break part of the way through.
+
+Normally, they’d open the portal one way, step through and take a break, then reopen it for travelers going in the other direction. I didn’t have that issue, likely because of my status as a genuine Space Magi and the centuries of experience I had under my belt.
+
+“Good job,” Sasha said once the last client passed through the portal and I closed it. “Your fee will be transferred to your Association account by the end of the day.”
+
+I nodded in thanks and headed toward the door of the Dungeon Complex. All major transfers took place at the complex’s transportation platform since the facility was already set up to handle such things.
+
+Walking next to me, Sasha said, “So, I have to ask: was holding the portal open that long difficult for you at all?”
+
+“Not particularly, no. Why?”
+
+“I was just wondering if you’d be interested in having us schedule multiple portal transfers on the one day per month that you’ve committed to managing portals,” she said casually, pausing just outside the door. “We certainly have the demand given the recent interest in Sorenguard, but don’t feel pressured or anything. Those who are truly interested in traveling here will manage.”
+
+Sasha already knew how many demands I had on my time, so I appreciated her casually mentioning the possibility instead of trying to pressure me into committing more time.
+
+Though I was only committed to managing a single portal between Iron Fortress and Sorenguard once per month, I was still ‘on call’ for clients needing teleportation services. Thankfully, that didn’t include any quotas.
+
+The only reason I’d agreed to a set commitment managing the portal was because the compensation was just too good to pass up.
+
+Since clients were charged based on their rank, opening a portal and having a couple of higher evolution clients pass through was hugely profitable. In contrast, I would only ever be assigned to teleport a higher evolution client if there were no higher evolution Porters available.
+
+The difference was in how rare the Portal skill was.
+
+Though one might think they’d have the same rarity considering their source, Portal skills appeared far less often than Teleportation skills did.
+
+I had no clue why, either.
+
+“I’m interested, though I’d prefer it if you could schedule all of the portal transfers on the same day,” I told her.
+
+Given the compensation involved, I’d be crazy not to be interested.
+
+“I can do that,” Sasha replied. “I may need you to set waypoints in a few of the cities assigned to your partner, since he can’t open portals. Do you see that being an issue?”
+
+“Not at all. We already planned to share waypoints and overlap our availability,” I replied before cautiously adding, “I was actually curious about getting a waypoint to an additional city that neither of us has access to. Is that something that could be facilitated as part of my duties, or would I need to pay a transfer fee to another Porter to get there?”
+
+Sasha tilted her head in thought and said, “That depends on the location. Let’s head back to the guildhall, so I have access to our records.”
+
+Barely a blink later, the two of us appeared in the guildhall, and Sasha headed behind the counter.
+
+“Where are you trying to get access to?”
+
+“Goldwood. I believe it is in zone SB7.”
+
+“Oh yes. That’s a… umm… well, it used to be a popular location a while back, but the demand for travel there dropped when the city’s laws shifted with the change in City Lords,” Sasha commented uncomfortably without even needing to access the information. “It does look like there is already coverage for the city for both teleportation and portal services, so there wouldn’t be any real demand for another Porter to set a waypoint there.”
+
+I’d noticed that Porters with inventory skills were almost never mentioned in such conversations, but that probably had more to do with the fact that they were considered local assets and couldn’t travel between cities on their own.
+
+“Do you think any of the assigned Porters would be willing to take me there anyway? I don’t even have to add it to my available options if that is an issue.”
+
+“It normally isn’t an issue since we Porters tend to look after our own,” Sasha said, brushing a loose strand of teal hair out of her face. “With the opening of a second guild branch, I’m fairly certain you could convince one of the Porters assigned to cover that city to take you there in exchange for bringing them here.
+
+“At least one of the Porters responsible for Goldwood has a bit of wanderlust, so bringing them across the world would likely be enough compensation for taking you where you want to go.
+
+“Just be aware that if you bring him here, it’s likely he will start expanding to nearby cities that no other Porter has covered. Aside from closing incursion breaches, his only real goals in life seem to be exploring, recovering unevolved dungeon cores, and expanding his network now that he has decided not to ascend.”
+
+“Stagnation?” I asked, causing Sasha to shake her head.
+
+“No. It was a personal decision that he hasn’t explained, though several people have asked,” she replied. “All I know is that he met with a Head Cleric after reaching mithril rank and came out of the meeting with new goals. He still delves regularly, so as far as I know, he isn’t at risk for stagnation. But his focus has shifted to exploring instead of ascending.”
+
+“You mentioned he also closes incursion breaches?”
+
+Stella nodded. “Yes. Daver is a true Space Magi like yourself, and has been dedicated to closing incursion breaches for longer than I’ve been alive. In fact, I’m a bit surprised the Guild Leader didn’t ask him to be your mentor, considering he is one of the very few Space Magi Porters we have.”
+
+The prospect of meeting another Space Magi was too appealing to pass up, and I immediately asked Sasha to make contact with the elder Porter for me.
+
+I let her know that I’d likely be entering the dungeon in the next couple of days. I was hopeful that she’d have news for me by the time I returned.

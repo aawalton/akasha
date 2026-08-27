@@ -1,0 +1,107 @@
+---
+id: 6e47d43a-f759-57a7-b0b4-cfd64541eeff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 416: The Wisdom in a Good Pair of Boots"
+slug: 0453-chapter-416-the-wisdom-in-a-good-pair-of-boots
+partOf: dungeon-of-knowledge-complete
+position: 453
+ownLength: 2114
+unit: words
+ownProgress: 2114
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2693711/chapter-416-the-wisdom-in-a-good-pair-of-boots"
+royalRoadId: "2693711"
+markedReadAt: "2026-06-29T20:27:30.168Z"
+---
+
+Mato made his way slowly through the forest, leaving the main living areas of the refugee camp for the quieter grove on the outskirts favored by Zor’kan. The forest was silent, a mute testament to the continuous clanging, screaming, and detonations of magic of every kind that had long driven all the wildlife in the area away to seek safer places.
+
+He stepped into the small clearing, and the reclusive troll glanced up from where he squatted beside his crude hut – a dwelling created from nothing more than a piece of leather draped over a few sticks. A smile creased the skin around his eyes, and the corners of his mouth curled upward around his tusks as he put down the leather he was working.
+
+“Hi, Zor’kan,” Mato said, greeting the troll, not entirely certain how much of the smile was welcoming and how much was amusement at the weapon and shield he was forced to carry around at all times. Certainly, many of the adventurers had found it extremely funny, and if you asked him, it was getting rather old.
+
+“Greetings, Mato,” Zor’kan said, inviting him to join him at the fire. “You’ll be happy to know, I have finished your commission.” He pulled a pair of dark red boots from nowhere and offered them to him. “It was rather hard working with such low-level materials. I’m sorry if it’s not good enough, but all I had was some leftover fire drake hide, so you got a fire enchantment instead of nature like you asked.”
+
+Mato took in the beautifully tooled leather and the gorgeous red dragon scales, his enhanced senses already feeling the warmth that the boots were emitting without even needing the tiny wisps of swirling smoke that occasionally rose from the leather to tell it was fire enchanted.
+
+Sage’s Dragonscale Boots of Fire – level 110Leather boots crafted from the scales and hide of a red fire drake. Even though these are merely the leather and scales of the drake, the boots are warm to the touch and emit occasional wisps of smoke. Linked to your mana, this armor will shapeshift with your changing forms. Melee Attacks gain +7% additional damage as Fire.+65 Wisdom+52 Strength+26 EnduranceMana: Shapeshift.Requirements: Strength 385Created by Zor’kan.Feet – Dragonscale Hide.
+
+Mato’s eyes widened just a little in surprise as he studied the enchantments the master leatherworker had wrought on the boots. His request had been simply wisdom, as high as possible, and if possible, something to enhance his nature damage. But true to form, Zor’kan was incapable of making anything less than a masterpiece. While fire was not his preferred choice, it would admittedly be incredibly useful down in the dungeon of Blooming Rot against the horde of plant monsters, most of which were vulnerable to the affinity. The rest of the attributes were well chosen to suit him and his class. He had expected an item that he would put on once to remove his parasitic gear, but this was far better than the Blood-soaked Greaves of the Shifter he was currently using.
+
+Excitement mounting, he quickly unstrapped his old greaves, and donned the new dragonscale boots, enjoying the comfortable warmth of the fire enchantment against his feet. He stood up and stomped a bit to arrange his feet within the newly crafted leather and then took a few strides around the fire under Zor’kan’s critical gaze. The troll merely grunted his approval and inclined his head gratefully when Mato produced the agreed-upon payment.
+
+“Now, let’s see…” Quickly, Mato brought up his attributes, discovering that the combination of his Beastkin form and the skill increases in Natural Prowess had raised him to a whopping six hundred and forty-eight wisdom. It was an enormous increase over the three hundred and ninety-odd he had had when he had first equipped the cursed items. Immediately, he tugged at the ring on his finger, feeling the resistance to his pull somewhere deep within his heart. But the greater insight from his wisdom began to untangle the parasitic grasp upon his flesh, and he drew the ring off slowly, pulling the mana roots out of his body, and suddenly he felt relief as the continuous pulse of nature damage over the last several days finally ceased. He immediately removed his mace, too, but he was still short of the six hundred and seventy-seven required wisdom to remove the Rugged Heartwood Bulwark.
+
+But he had leveled down there today, and even though they had not defeated the ravager, they had killed countless sylvan monsters, oozes, treants, and the Devouring Consumption on the shore of the nature mana pool.
+
+Elemental Shapeshifter has reached level 120 (+5).+50 attribute points.Arboreal Sanctuary has reached level 52.Swipe has reached level 66 (+3).Brutal Restoration has reached level 61 (+2).Bear Form has reached level 60.Rampant Growth has reached level 31 (+2).Bestial Combat has reached level 50 (+3).Natural Prowess has reached level 47.Survival Instinct has reached level 61 (+2).Battle Trance has reached level 43 (+2).Herb Gathering has reached level 22.
+
+“Yes!” Mato exclaimed, punching the air with his free hand. He immediately spent ten more points on wisdom, ignoring Zor’kan’s grin and raising his effective total comfortably past the threshold, now showing six hundred and ninety-seven after the enhancement provided by Natural Prowess. And with that, he easily removed the shield, storing it in his ring. He stretched his arms, relishing the sudden release.
+
+“Freedom,” Zor’kan said, nodding sagely.
+
+“Indeed,” Mato said. “Thank you again for the boots!”
+
+“Glad I could help.”
+
+Mato said goodbye and quickly returned to the campsite he and the others had staked out, finishing the allocation of the remainder of his attribute points. He spent fifteen on vitality, ten each on endurance and strength, and the last five went to perception.
+
+Grinning fiercely, he rejoined his friends. Now I can finally cook again!
+
+Ali hovered comfortably beside Tiraza in a ‘small’ side branch of the vast dragon’s library, studying the book that the knowledgeable and studious holy dragon had provided. Even though she had seen Azryet changing his physical size to move through the tunnels and caverns of the Demon God’s Lair, his personal library had been constructed with his most comfortable form in mind. The corridors lined with books might be better described as boulevards. Yet, even with the size of the library, no surface was left bare – every available wall had been turned into a bookshelf and proudly displayed the dragon god’s hoard.
+
+Ali returned her dubious skepticism to the book in her hands. The passage in question was extremely vague, making one single reference to a skill called Planar Rift, but the rest appeared to be in some sort of ancient draconic verse – a love song from one dragon wooing another.
+
+“This doesn’t seem to get us much, does it?” Ali asked, meeting the curiously intelligent eye of the massive monster looming over her.
+
+“That is true,” she answered, “but the more direct references have turned out to be fabrications or worthless so far. I thought it best to be thorough.” While feminine in nature, the dragon’s voice still sent shuddering vibrations through Ali’s entire spine, and the giant monster used a form of telekinesis to manipulate books that were obviously made for smaller races.
+
+Ali sighed. It seemed the search would have to continue. At least my draconic runes are getting better, she thought, trying to put a positive spin on her disappointment. Her time in the library had been incredibly fruitful, and she had advanced her understanding of several major branches of teleportation magic – far more than she had in her entire three thousand years of existence, however, she had found nothing that might help with her current predicament. She still desperately wished for even a small piece of information on how her friends were doing. Perhaps I should ask Tiraza for cross-realm scrying spells, instead? No. That won’t get me home.
+
+A vast whump filled the giant library, and Ali was suddenly flung several meters toward the center as the giant implosion of Azryet’s void magic vacated the area in which he suddenly appeared. Unable to control herself, she bounced off his shoulder scales with a yelp before catching herself in the roiling, turbulent air.
+
+Azryet’s abrupt appearance filled the library with the weight of his presence. His head tilted down, fixing her with an urgent glare. “Aliandra, we have a big problem. I found the rift!”
+
+Ali froze. He found it! But right as her heart was preparing to celebrate, the rest of his words percolated through, twisting her hope into uneasy apprehension. After all, what concern could affect a dragon god? “Um… what problem?”
+
+“I found the sealed rift in a chamber not far from your new domain. It is guarded by Maalgaroth – now granted a domain enhancement.” He stopped, staring at her expectantly.
+
+“So, he’s a raid boss now?” Ali asked, not getting what was making Azryet so worried.
+
+“Aah, you do not understand,” Azryet said, his rumbling shaking the bookshelves on the far walls, sending Tiraza teleporting across to catch a few dislodged tomes. But Ali had seen his anger before, and this was not it. “Aliandra, before this, Destraggoth probably didn’t even know Maalgaroth existed, so why would he suddenly be granted the elevation to a boss, as you call it? I sent in some scouts under the cover of stealth, and they learned the reason: Maalgaroth has captured and corrupted an ice troll. And for this, Destraggoth has recognized him.”
+
+“Aah, that’s probably mine,” Ali said in a quiet voice. “The Ice Queen?”
+
+“Yes,” Azryet said, peering closer at her with an unnerving intensity.
+
+“That’s a problem for me, but why are you worried about it?” Ali asked. It elegantly explained why she had been unable to resummon Mok’freja, but she didn’t understand the sheer intensity radiating from Azryet, nor the unease in his posture. He looked like he was preparing for battle.
+
+“I think it will be faster to show you,” he said, turning and walking toward a huge set of doors at the far end of the library. Doors that opened smoothly and silently as he approached. “Come,” he said, and shimmered as he stepped through a Gate to elsewhere.
+
+A Gate? It was exquisitely constructed, and apart from the faint flickering as Azryet passed through, she wasn’t at all certain she would have noticed it. Ali followed on humming wings, but as soon as the Gate took her to her destination, she froze in awe as she beheld what the room contained. It was a vast circular chamber of white stone, and the walls were densely etched with runes of black and yellow-white, but it was the enormous obsidian obelisk towering in the center that captured her attention, and the oppressive power of his domain mana pressing down on her.
+
+His shrine! It was taller than he was, soaring high up above them on a massive base of pitch-black stone. Upon every available surface, the familiar runes in his colors glowed with restrained power, and the mana of his domain swirled energetically about it.
+
+“Look,” he said, inviting her forward. “See for yourself.”
+
+Ali approached cautiously, even with the obvious invitation. She laid a hand tentatively on the cold, polished stone and triggered her identification.
+
+Shrine of The CalamityAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: AzryetMana Siphon (Active).Mana: Unlock class experience.Mana: Adjust affinities.Mana: Unlock alternate classes.Mana: Class evolution.Mana: Class revert.Experience: Create a dungeon denizen, attaching a willing external entity to the domain. Experience: Spawn an additional shrine.Authority: Capture an imprint of a single object or creature. Recharge: 30 days.Authority: Class blend.Authority: Force class or race evolution. Authority: Randomize class.Shrine – Artifact
+
+Oh, wow! Ali couldn’t see how much mana it contained, but her mana-sight was so overwhelmed by what lay within that she knew it would be an unimaginable amount. But her eyes were drawn immediately to the strange abilities listed on his shrine. Abilities she’d never even heard of.
+
+Spawn an additional shrine? And it costs experience? That seemed to be the most easily understood ability. When she had studied the Temple of Aman Rak shrine, she had seen something similar – the same ability that allowed attaching someone to the dungeon. Spending experience to power a shrine ability was at least something that she had seen once before, but…
+
+Class blend? Force class or race evolution? Randomize class? And those abilities cost Authority. The same quantity she had been so fascinated with when processing her evolution at her own shrine.
+
+“Um, I don’t understand,” Ali finally admitted.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

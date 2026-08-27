@@ -1,0 +1,191 @@
+---
+id: e2cdcb5c-0606-5692-b4bb-25a748df2c96
+page-type-slug: story-chapter-royal-road
+title: "Chapter 368: A Crazy Plan"
+slug: 0405-chapter-368-a-crazy-plan
+partOf: dungeon-of-knowledge-complete
+position: 405
+ownLength: 3440
+unit: words
+ownProgress: 3440
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2576454/chapter-368-a-crazy-plan"
+royalRoadId: "2576454"
+markedReadAt: "2026-06-29T20:25:44.068Z"
+---
+
+While Calen went to fetch Vivian and the guild raid groups, Ali busied herself by unleashing an army of Moss Creepers, Floral Menaces, and Spore Spreaders on the ruined Temple of Blood and the surrounding verdant overgrowth of the jungle. She inhaled the spreading floral and leafy scents with a sense of satisfaction that went far deeper than merely mundane appreciation. Sweet justice. Directing them with a relatively small fraction of her attention, she flew back and forth, planting giant oaks and rapidly expanding her domain into Aman Rak. While Mato and Malika explored up top, she even grew her domain down the cliffside and into the ancient bloodsteel quarry below, the spot where Mok’freja had once held court in her ice palace. It was a barely recognizable clearing in the forest now, beside a shallow excavation that jutted into the cliff right below the temple.
+
+This is a nice little nook, Ali thought, scouting out the small hollow. And I have just the thing. Her Subterranean Brood Queen rested almost ten meters below the roots of the trees Ali had planted in the courtyard above, fussing over her brood of beetles like a mother hen. Just like your name. Ali grinned and called her, “Come! I have a new home for you.”
+
+Immediately, she felt the Brood Queen swimming down through the rock and dirt till she was level with the quarry, and then she emerged.
+
+“Make a cave here,” Ali said. At once, the gigantic beetle summoned her swarm to bore a huge hole behind the cliffside, hollowing out a lair right beneath the Temple of Blood. It took less than two minutes. Like her mithril queen, this one immediately incorporated the ore into her shell, but of course, it was Bloodsteel this time – a dense rock with ruddy-colored veins that slowly seeped blood. As soon as she was done, she burst out from her new lair, making a tunnel to the clearing, and emerged to preen in the sun and show off her new armor.
+
+“Very pretty. Good job!” Ali told her, ignoring the disgusting smell of blood that pervaded the entire quarry, stronger now that her Brood Queen was digging it up and wearing it as armor.
+
+The Brood Queen would make her lair down here in the quarry, directly below the Blood Temple, but it was still within range of the surface above via Earth Sense and Burrow, allowing Ali to have her first boss designed to take invaders by surprise. It was a bit unfortunate she had been unable to use undead slayer before making her, but she did not envy anyone who wanted to go up against the domain-enhanced bloodsteel armored carapace that glistened in the sun.
+
+Yes. This will do nicely. Now, what else for her support?
+
+Calen darted between the blight-ridden dead trees, ignoring the ever-present miasma that seeped up from the ground and spilled from the twisted branches. It scratched at his nasal passages and burned in his lungs whenever he took a breath. They would all need a healthy dose of Mato’s sanctuary when they were done, but by now, he was quite used to it. When he was at a lower level, the ambient blight had been a far greater issue, but now, he traded off the discomfort for the benefits of more cover to assist his stealth skills. With his senses heightened to maximum, he pressed on, quickly checking in on his notifications as he flew.
+
+Realm Hunter has reached level 111 (+4).+40 attribute points.
+
+Hmm, only four levels for that Fetish-Painted Assassin and his Headhunter ability? It appeared that the second-tier leveling slowdown was no joke. He would need to rerun his projections later when he had a few minutes to spare. I guess it would have been an easier fight if we’d known to drop the Headhunter buffs. Oh well, experience is the greatest teacher, as Lyeneru always says. That, and the humbleness to recognize when we’ve done something truly silly – wouldn’t be the first time, right? A bit of luck and some pretty damn awesome friends…
+
+Still, he welcomed the extra skill growth and the forty new attribute points for what he knew was coming. While he had made copious notes and calculations in his notebook, he did not bother to pull it out and check – he had all of it memorized. Ten points went to each of dexterity and perception. Another twelve went to intelligence, and then he divided the remainder evenly, spending two points on everything else, before quickly studying his skill growth.
+
+Radiant Archery has reached level 65 (+3).Motes of Light has reached level 44 (+2).Explorer has reached level 63 (+3).Blessing of the Dawn has reached level 45.Eclipse has reached level 38 (+2).Eyes of the Archon has reached level 40.Righteous Fury has reached level 40.Mirage Armor has reached level 42.
+
+There. Not bad. I think I’m ready for this. The Fetish-Painted Assassin had been an unexpectedly potent threat and one that would require him to reevaluate some of their strategies. He had been certain their precautions were more than sufficient, but allowing Ali to be the first one through the Gate into potentially hostile territory had proved to be not particularly smart. We should have sent Mato in first. When it came to the surprise of concealed daggers lurking in the shadows, nothing beat enormous vitality and armor. At least he seems to like it.
+
+At least their performance had been optimal the moment they understood the threat. The major component of their strategy had been one they had already practiced extensively, and the team had fallen into the pattern effortlessly. His Realm Hunter ability to chase the elusive assassin and his use of his motes of light on both sides of the veil had proved remarkably effective at locking down the stealth and ambush threat. Malika and Mato had naturally taken the responsibilities of tanking on either side, with Ali assuming a powerful control role. His Power Shot and Ambush had been their hammer. At least, until Malika had begun shining from all that the excess soul magic that leaked from every pore. He was certain that she had been dealing far more damage than himself by the end of the fight.
+
+His feet touched down on the trail, automatically seeking out the best places to preserve his illusions and silence. It took him winding up a steady incline through the decay and the stench of rot until he crested the hill. He stopped, pressing himself up against a tall, blackened oak as he focused his eyes and skills on the remains of the small town nestled in the small valley below.
+
+Lyton.
+
+What little remained was set beside the bend of what might once have been a brook or stream winding around the outskirts. Now, however, it appeared to be a swampy mess of decaying black sludge. Every time the breeze shifted, he caught the reek of it even from way up here on the hillside.
+
+The buildings were gone, with piles of rubble serving as headstones to mark their demise. All that remained were the blackened, blasted cobblestone expanses of the town square and a ruined circle that must once have been the well.
+
+This will be a problem, he thought, scanning through the undead monsters crawling across the ruins like busy ants. His sharp eyes easily picked out the larger and more powerful ones. Up on the hillside opposite his position, he spied the hulking form of a Skeletal Wyvern, much larger than the one he and his friends had killed in the library.
+
+Skeletal Wyvern – Undead Dragon – level 82.
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Undead WyvernDamage: Physical, FireKnown Abilities: Flying, Breath weapon.
+
+It had claimed a giant rock as its throne and surveyed the land with an air of withering disdain. Even at this distance, Calen could see the dancing red gleam of fire magic from his otherwise empty eye sockets, and he wondered what other skills that bland description might be hiding. As they had leveled up, he more and more came to appreciate – and respect – the sheer variety of skills that could be acquired at the higher levels. Specialization and complimentary skills, he reminded himself, could result in combinations that turned the tide of battles.
+
+Over on the other side, almost flanking the wyvern, but still just outside of the town, he found another boss.
+
+Plague Ghoul – Undead Troll – level 84
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: GhoulDamage: Physical, RotKnown Abilities: Paralytic Touch, Disease
+
+Ugh, it had to be, right? The fact that the Plague Ghoul had once been a troll confirmed their worst suspicions – the remnants of the shattered and destroyed troll kingdoms had been fed to this dungeon to fuel its growth. It was a warped and twisted creature, barely recognizable as a troll, save for the blackened tusks it still sported. Although its flesh was rotted to the point that yellowed bone was visible through the wounds, Calen knew through painful experience just how tough the fiendishly animated undead flesh would prove to be. This was not a foe to underestimate.
+
+Almost directly below his lookout position, he spied a third boss.
+
+Bone Wight – Undead Troll – level 81
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Greater WightDamage: Physical, BoneKnown Abilities: --
+
+Shit. This is bad. This boss resembled the Wights they had fought once before, except it already had four arms and was armed with four mismatched bone swords. The Wight’s armor appeared to have been sprouted directly from flesh tougher than bloodsteel in a twisted mockery of the Aman Rak troll bone magic.
+
+Three raid bosses. In such close proximity, these three would prove to be an extreme challenge, but Ali had been teaching him to decipher domain magic with his new mana sight, and he knew what an affinity aura looked like. Pulsing out from the center of Lyton Ruins like a corrupted heartbeat, a twisted aura of death blanketed the entire town and much of the surroundings, easily enfolding each of the three raid bosses within its embrace. A fact which likely made them unkillable.
+
+Ali and Seth had confirmed time and again that many undead healed from death-affinity damage. These raid bosses all being within the reach of that powerful affinity aura, meant they would be healing constantly. He scanned the rubble below, searching for what he knew must be there. It didn’t take long before the monster glided into view.
+
+Mage – Undead – level 132
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Greater UndeadDamage: DeathKnown Abilities: Avatar, Blight
+
+Calen studied what had once been a human. Its flesh had been blackened by death, and dark robes hung from his shoulders like shifting rags. It was not a wraith nor a specter. Definitely not a Lich, for which he was eternally grateful, but he still struggled to place it. Greater Undead.
+
+He shifted positions to get a better look, and as he did, he finally identified the shrine artifact – hovering beside the gaunt monster in tattered robes, its black geometric shape was definitive proof that this dungeon was the work of the Blind Lich. That explains him. The undead mage had to be the owner of the dungeon and, therefore, their ultimate goal.
+
+We have to kill him to wipe out this dungeon. But how?
+
+His face was gaunt and bloodless, eyes gone, replaced by gleaming black sparks of mana. From his hands dribbled a black sludge that sizzled and hissed, emitting clouds of dense miasma. Without a doubt, he was the source of the death-affinity aura and all the blight in the dungeon. But it was the familiarity of the undead monster that caught Calen’s attention. Despite the ruined body and the now-stooped, gaunt figure, the mana, the blight, and even the robes matched. His nape crawled as he studied the creature with shock and disgust.
+
+Is that Alexander Gray?
+
+Suddenly, as if in answer to his inner question, his chime sounded.
+
+You have greatly increased the reputation of your patron. Requirements met for skill advancement.
+
+Calen almost gasped out loud. What is this?
+
+Patron deity: The Wanderer.Righteous Fury has reached level 40.You have scouted the core of a powerful active dungeon.You have entered stealth during combat.You have stacked Power Shot, Stealth, Ambush, and Onslaught to slay a higher-level enemy with a single shot. Dexterity has surpassed 1250.Intelligence has surpassed 900.Eclipse gains Vanish.Whenever you gain Onslaught, you may use Eclipse to gain stealth even under observation. Recharge: 2 minutes.Radiant Archery gains Overwhelming Onslaught.Whenever you gain Onslaught, you may charge Power Shot instantaneously. Recharge: 30 seconds. Choose one advancement.
+
+The Wanderer? She must really care about destroying this dungeon. The timing was just about as blatant as he could imagine – right as he saw the shrine, it had triggered. If his admittedly vague understanding of how it all worked was correct, offering an advancement like this must have cost her dearly.
+
+Thank you, he thought, although he had no idea if she could hear. He snuck back down the hill before the deadly dungeon bosses heard his heart thumping in his chest. Vanish? Overwhelming Onslaught? His patron deity had really gone all out. Vanish was uncannily like Kieran Mori’s ability to disappear in plain sight – an immense boon for any assassin. Powerful for sure, but his eyes caught on the second offering, and he knew his heart had already decided.
+
+He was not an assassin, even though his class was undoubtedly suited to it. Power Shot was a great opener, but in longer battles – particularly against the strongest bosses – it used up precious time he could be shooting. It was seldom worth it. Lyeneru and Nendir had both advised him to look out for percentage-based damage skills, counseling him to take Power Shot. Now, his investment had just paid off. Onslaught triggered constantly against raid bosses, meaning he could work in Power Shot every thirty seconds. With the nearly seventy-five percent stamina cost reduction Blessing of the Dawn provided, he could channel Power Shot for nearly forty seconds before emptying his entire pool – and now that would be instant. All he had to do was work out a suitable rotation plan to get his stamina leech bow to fill him back up.
+
+Suddenly hungry, he studied the enemies one more time, committing every detail to memory. Then he slowly clenched his fists. Bring it, Alexander. I’m ready!
+
+***
+
+“So that’s it,” Calen said. “The final boss is actually an undead Alexander Gray.”
+
+“Never leave a corpse when there’s a necromancer around,” Seth stated mildly. “Unless you want to fight it again.”
+
+“Hey, it’s not our fault. A Death Knight came and stole the corpse,” Mato said. “I mean, I asked politely and all that –”
+
+“I know,” Seth whispered, obviously still haunted by the memories. “I was there.”
+
+It would have sounded like a poor excuse for not handing in homework if Calen hadn’t been there to witness the terror of that Death Knight personally. He had even helped chase it down and faced it – fortunately with Lyeneru Silverleaf to back him up. I can’t believe I agreed to that.
+
+“Can we pull the secondary bosses out of the aura?” Vivian asked.
+
+“No, I don’t believe so,” Calen said. The aura had been much larger than the typical area Ali’s bosses projected, meaning they wouldn’t be able to lead them past the edge of the death and blight influence before they gave up and were forced to return to the spot at which they were anchored. And that was assuming that merely entering the aura didn’t aggro everything. It all smacked of an underlying intelligence, and Alexander Gray had been quite devious in life.
+
+They had come so far, and yet, with the end in sight, he was presented with a puzzle for which he had no solution. It was so frustrating. There was no way to pull the bosses out of the aura, and they wouldn’t be able to kill them within it. “I don’t think we can pull this off.”
+
+“Yes. This is impossible,” Vivian said. “We would need a full raid of platinum ranks.”
+
+“Just fight them all at once,” Mato said.
+
+“What?” Calen asked. Mato was often headstrong and too direct, but this was unexpectedly reckless even for him. “Those raid bosses are all above eighty, and Alexander Gray is level one hundred and thirty-two.” His assessment of Alexander Gray’s challenge level earned him a startled round of anxious looks from at least half of their raid members, all sitting around listening intently to the strategy discussion – if it could even be called that. But they needed to know what they were facing.
+
+“The problem is the aura of blight and death, right?” Mato said, not backing down.
+
+“Yes, but it comes from Alexander Gray.” The final boss was preventing them from getting through his minions.
+
+“So, fight them all at once,” Mato said. “We have four full raid groups and five platinum-ranked adventurers. Tank all the bosses and kill Alexander Gray first. Once the aura is down, the rest should be easy.”
+
+“That’s insane!” Calen exclaimed.
+
+“Is it?” Mato asked. “We have the numbers.”
+
+“I…” Calen’s words trailed off as he considered the proposal.
+
+“That might just work,” Vivian muttered, obviously not pleased by that admission.
+
+Certainly, it had a better chance than anything Calen had come up with so far. He took a deep breath and gave the crazy plan the proper amount of attention. “So, you tank Alexander. We put Basir, Sabri, and Havok on the other three with healers to keep them alive. Then the combined raid kills Alexander first?”
+
+“Yep, something like that,” Mato said. “But we might need to use Malika to tank Alexander. I remember needing Tree Form for him last time. I assume he still has that ridiculous blight aura. That Plague Ghoul probably also has some corruption or diseases or something. Without a proper plan for healing, those groups won’t survive.”
+
+“Cleansing, too,” Vivian added. “Disease management is critical to avoid it getting out of control. Weldin has a large stock of elixirs we should take advantage of.”
+
+“I’m not sure I can beat him by stealing his mana this time,” Malika said. “He will have at least ten times more mana because he’s a raid boss. Right, Ali?”
+
+“Yup, at least,” Ali said. “Probably more. He’s a lot higher level, and his skills have probably advanced a few times.”
+
+“How do we set up?” Basir asked. “What are the tanking assignments?”
+
+“You on the wyvern, I think,” Calen said, sorting the parameters in his head. I can’t believe we’re considering this. “You are the only tank with a ranged attack. Coria and I will keep it grounded as much as possible, and you should probably face it away from the group so the raid doesn’t get breathed on. I think it might be fire.”
+
+“I have a fire resistance armor set,” Basir said, nodding solemnly.
+
+“Good. Sabri, you get the four-armed Wight because you have the best blocking skills. If it’s anything like the Wight we fought in Dal’mohra, it will have high dexterity and hit extremely hard and fast. You’ll want to avoid critical damage as much as possible.”
+
+“Ok,” Sabri said. “I’ll use my heavy shield.”
+
+“Havok, you get the Ghoul because you can still do damage with Consecration whenever the Paralytic Touch hits.”
+
+“No problem! Havok smite!” Havok said, with his typical enthusiasm.
+
+“The kill order should probably be the Ghoul after Alexander,” Vivian said. “It seems the most disruptive. Then the wyvern – but we’ll have to remain flexible if we discover some dangerous abilities.”
+
+“Yes. Ok,” Calen said, and with that, and against his better judgment, Mato’s ridiculous idea somehow became their plan.
+
+“Can you give me an hour or so?” Ali asked, her Grimoire already surging to life.
+
+“What do you have in mind?” Calen asked, raising his eyebrows at her.
+
+“I don’t like how little we know about the bosses. I was going to throw some berserkers at them and see if I can provoke them to cough up the secrets of one or two domain magic spells.”
+
+“Oh, now that’s a fantastic idea,” he said. Any intelligence would be worth more than its weight in gold. He flared his wings – he knew how to observe while staying out of range.
+
+“Of course,” Ali said. “Come, Seth. You can help me with this.”
+
+“Uh, ok,” the necromancer said, his eyes wide as saucers.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

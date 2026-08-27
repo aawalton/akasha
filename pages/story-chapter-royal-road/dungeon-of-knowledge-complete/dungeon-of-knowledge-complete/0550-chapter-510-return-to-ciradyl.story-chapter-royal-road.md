@@ -1,0 +1,115 @@
+---
+id: 52771087-89ca-5638-908f-50c485d50d81
+page-type-slug: story-chapter-royal-road
+title: "Chapter 510: Return to Ciradyl"
+slug: 0550-chapter-510-return-to-ciradyl
+partOf: dungeon-of-knowledge-complete
+position: 550
+ownLength: 2883
+unit: words
+ownProgress: 2883
+publishedAt: 2026-01-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2954974/chapter-510-return-to-ciradyl"
+royalRoadId: "2954974"
+markedReadAt: "2026-06-29T20:30:59.489Z"
+---
+
+Ali circled downward, feeling the air and void mana flowing across her great, black draconic wings. Her powerfully muscled back easily held her aloft upon the fickle and chilly air currents as she lazily circled Lyeneru, Calen, and Coria as they descended toward the blackened and dying ground below. For a moment, her goals, the mission, and her worries all vanished in the pure visceral thrill of the Scion of Azryet’s physical power and the joy of flying.
+
+“This is a good spot,” Lyeneru said, touching down in a small, secluded box canyon which looked like she had chosen it for the ease of setting up defensive positions. It met Ali’s approval because it seemed to have escaped the creeping corruption that spewed forth from the Well, and it was therefore a little outside of the visible roiling, corrupted mana that comprised the domain of Nathaniel Sunstrider’s Well of Corruption.
+
+Ali landed, powerful talons slicing deep into earth and rock with equal ease, and then she teleported herself there. She could move six additional minions with her now, but that was still few enough that she had spent quite some time agonizing over her initial group. She had one kobold priest and both a blood and restoration shaman, biasing her bodyguards heavily toward healing, given that she had three powerful archers already here for damage should they be attacked before she could establish her Gate. She brought a troll ice mage, a staple in her army, and rather versatile. Doubling down on versatility, her next pick had been Kir’vella: the Spirit Walker witch doctor was a master of control curses and decursing. For her last, she brought a carefully designed Eye of Agnor, wielding the twin affinities of Ice and Lightning.
+
+Normally, she preferred arcane, simply out of familiarity and the option of boosting it with Empowered Summoner; however, Nathaniel Sunstrider’s dungeon had been filled with arcane elementals, in addition to the undead, and they likely had high resistance or even immunity to arcane magic at best. At worst, they might absorb the damage as healing instead. With ice-affinity mana, the Eye of Agnor brought a third form of mana sight – a skill Ali was certain to need against the wraith of the most powerful archmage on the continent.
+
+Immediately, she sent her witch doctor to the spirit realm and had the Eye of Agnor fly higher to gain a better view. As the sentinel demon rose above the ridge, Ali found herself taking in the entirety of the devastation that had befallen the once-beautiful Ciradyl.
+
+The legendary soul trees, for which the Wood Elf city had been named, were long gone, consumed by the black, suppurating crater of corruption that extended more than a kilometer from the epicenter. Lyeneru stood stiffly beside Ali while her extraordinary eyes were glued to the destruction that the elves had once called home. Tears spilled freely down Coria’s cheeks.
+
+With her peerless array of demonic eyes, Ali studied the dungeon Nathaniel had built, Lyeneru’s detailed map coming to mind in comparison. But the map, though extremely detailed and accurate, did nothing to convey the desolation of the wasteland he had wrought.
+
+The Wraith of Nathaniel Sunstrider had truly gripped this land within his undead fist and wrung the very life from it. The dungeon was a vast sphere of pulsing purple and black as the dense, writhing arcane mana twisted and warped around the black corruption of death that lay at its heart.
+
+Her eyes found not one single living thing. Powerful, glowing elementals shone with great concentrations of purple arcane mana, their strange geometric shapes twisting and shifting as they relentlessly patrolled within the confines of enormous concentric domes of dense glittering domain-empowered barriers. Many, she could see, were clearly raid-level bosses or perhaps even higher, easily identified by the density of domain mana roiling within their semi-transparent elemental bodies.
+
+Spread throughout the area, difficult to spot in the oppressive darkness emanating from the corrupted land without the aid of mana sight, were the ethereal, shifting, transparent wraiths and banshees. Their faces all bore a rictus of eternal hate and twisted anguish, and their screeches filled the air with a never-ending, deathly chorus of hair-raising screaming and wailing as they floated above countless Elven zombies – the fate of all who had failed to escape the corruption of the Well.
+
+It was a disaster on the scale of those she had naively believed to be the realm of storybooks and fireside tales.
+
+When she had last seen Ciradyl, the dungeon had been nascent, barely beginning to form, and yet, even then, it had been overwhelmingly powerful. Now it was vast, and even the least perceptive of observers would have felt the palpable waves of malevolent power rolling from that place, promising death and worse. The crystals of arcanite that had begun sprouting at the birth of this dungeon had grown substantially larger and more refined, now manifesting as translucent purple crystalline pillars of geometric perfection that seemed to feed upon the excess corrupt mana, drawing it in with some arcane process that caused them to glow progressively more intensely until the energy dimmed with the spawn of a new undead monster. There were thousands upon thousands of them, spread throughout the domain, like a lifeless forest of arcanite trees that grew denser and larger toward the center.
+
+And in the center, the Well of Souls. Nevyn Eld’s corruption of undeath had now completely consumed it, leaving a gaping hole of darkness in the ground out of which a never-ending geyser of inky blackness erupted, gushing hundreds of meters into the sky before falling back to the corrupted ground.
+
+Ali’s heart quailed at the sight. Was there even anything left of the Well of Souls to be saved? Was Lira doomed?
+
+But the bottomless geyser of mana and power did not simply vanish into the domain. Wherever it crashed down into the dungeon, the forest of arcanite pillars pulsed with a deep glow, gluttonously feeding upon the deluge of corrupt mana. Forms shimmered by the pillars, spawning into a horrific twisted unlife. A mockery of the verdant growth that had once graced this land, and the Elves’ reverence for nature. Banshees and wraiths spawned endlessly, their howls and screams chilling her very bones even from so far away, and they gathered into a vast sea of undead, a dungeon break on a scale so vast, Ali struggled to grasp the half of it, all heading northwest to join the Blind Lich’s army.
+
+Lyeneru had been right. “Southport is doomed,” Ali whispered, putting voice to what she saw. There was no hope for them to withstand a host of such terrible vastness, utterly numberless, crawling across the land like an obscene tide of unstoppable darkness.
+
+“Never mind Southport. What hope is there for any who live?” Coria croaked, her voice thick with emotion.
+
+Lyeneru’s gaze faltered, and she turned to regard the younger elf, a flicker of concern and worry crossing her eyes briefly. “Us,” she said simply, with a gruffness born of her own deep emotion. “We are their hope.”
+
+“What can we even do against that?” Coria wailed.
+
+“We will do what we must,” Lyeneru said, her mouth pulling into a grim line. “There is no other choice.”
+
+Even though a big part of Ali agreed with the despair Coria had voiced, she still reached out a hand and placed it in the Elf’s palm, squeezing gently and offering her a smile. It was a small thing, her smile. But the core of Ali’s essence agreed with the legendary Pathfinder: they would do what they must because the alternative was oblivion.
+
+Ali turned her attention back to her study of the dungeon. With an artifact of such power forming its dark, corrupt heart, it was no wonder it had expanded so far and fast. And there, through the shimmering, glittering shells of arcane barrier magic, the Wraith of Nathaniel Sunstrider stood at the very center, hovering beside the same floating black artifact she had unwittingly delivered into the betrayer’s hands. She gritted her teeth at the sight. What would I not have done…
+
+Ali wrenched her attention away from her demon, setting her mind to her task, and retrieved the components of her artifact. She had a job to do, and she began unloading her ring. The discussion about how to tackle the archmage-turned-wraith, formerly Nathaniel Sunstrider’s, dungeon had taken the better part of several days, and after that, several more hours of preparation. One thing was certain: Ali had no intention of fighting fair this time.
+
+The last thing she retrieved from her ring was the massive, pristine white stone ring of a Gate endpoint. Quickly, she attached it to the waiting space-affinity magicite and closed the runic formations. Mana thrummed through it as the power runes completed, and the surface contained within the ring shimmered several times before it stilled. Through the Gate, the endless sands colliding with the verdant jungles of Zulkora shimmered into view. In the foreground, the guild’s finest adventurers waited with the terrifying form of her Pit Lord, Maalgaroth, looming over them.
+
+Ali’s domain immediately began to spill through the threshold as Tol’brekk crouched, shrugging his enormous shoulders and scrunching his back to squeeze himself through the Gate, followed by the rest of her minions and the alert and ready adventurers. She had deliberately linked the Gate to her domain in the alternate realm, not caring for the additional mana cost, because Maalgaroth was her most powerful defender. If anything went wrong, whatever assaulted her domain would have to go through her demonic Champion and several failsafe measures before they could even attempt to threaten the people of Myrin’s Keep. If worst came to worst, she could unhook and disable any of her Gates leading back home via several redundant methods. She had even taken the extreme precaution of tattooing a ‘cast on death’ trigger deadman’s switch to Maalgaroth that would bury the rift chamber in the event something powerful enough appeared and killed the massive demon.
+
+As the adventurers formed up into their groups, Ali planted several Lirasian Oak trees in a circle around the new Gate to secure her domain’s beachhead here right outside Ciradyl, feeding her newly established domain mana back into the Gate to make it self-sustaining. With a quick wave, she arranged a few minions into defensive positions around the box canyon, offering protection to the Gate and their non-combat support classes headed up by Weldin and Basil.
+
+“All ready, Aliandra?” Lyeneru asked.
+
+“Yes,” she said, nodding.
+
+“Ok, you all have your assignments,” Lyeneru announced, her voice taking on all the aspects of a veteran battlefield commander. The adventurers all nodded, but despite their outwardly composed demeanor, Ali could sense the undercurrent of heightened awareness and barely managed anxiety running beneath the surface as the guild prepared to take on the vast power of the giant dungeon. Even with just her cursory study of the challenge that awaited them, she had counted at least twenty bosses of at least raid-level threat or worse. This was going to be a monstrous undertaking.
+
+“Remember, steer clear of the Well itself for now. That corruption is potent,” Lyeneru said, continuing to deliver instructions to the attentive adventurers. “Your priority is to survive and return with knowledge of the abilities of the raid bosses assigned to your group. Kill them only if it is safe to do so and use your Sending scrolls to alert me if you’re getting overwhelmed.”
+
+Ali finished summoning a new Lirasian Oak near the entrance to the box canyon, among the raiding groups. Her domain swelled, growing up through the trunk of the huge tree, spilling outward in an expanding aura of mana that glittered gold and green.
+
+“If there are no further questions, let’s begin,” Lyeneru said. Then she met Ali’s gaze. “Everyone, brace yourselves. Aliandra, you may provoke the dungeon when ready.”
+
+As the raid groups assembled, buffing themselves with powerful magic and elixirs, Ali’s domain spilled forth from her tree, pouring outward in an ever-expanding wave. Pain lanced up her spine, stabbing into her mind as her mana collided with the edge of the dark, purple-and-black domain emitted by the Well of Corruption dungeon.
+
+During the extensive discussions on their approach to this dungeon, it was she who had suggested that she attack the domain itself. As the raid groups destroyed the bosses, she would progressively consume the domain in their wake, preventing the dungeon from respawning them. Tearing into the dungeon’s domain with her skills would be like stabbing it in the heart with a poisoned dagger – guaranteed to provoke an extreme reaction. However, she had assured Lyeneru there was no way the dungeon’s bosses were not bound to the domain, especially given the sheer number of them, and the ones ejected from the domain for the war effort would have been severed from the dungeon itself and immune to the dungeon rage she provoked. A calculated risk, but one she was confident in, given her unique perspective. Besides, it would be far better to do this before everyone was engaged in the risky business of fighting bosses.
+
+Everything that was not bound to the Well of Corruption’s domain would be thrown at her immediately, to break upon the combined power of the guild’s top raid groups. After the ordinary monsters were cleared, approaching the bosses would be far safer.
+
+As the familiar pain of dungeon rage lanced through her, the baleful eyes of the Wraith at the center of the dungeon snapped up, piercing her with its malevolent gaze, and a nerve-flaying scream rose, echoing throughout the entire dungeon, rising from the throats of thousands of undead banshees.
+
+Ali shuddered. Ok, that’s not good!
+
+Every last banshee and ghost still within the extent of the dark domain simultaneously halted their exit. Every last zombie rose, glaring in her direction. The moment hung as if suspended in time, and then everything in the dungeon turned and charged. Countless zombies lurched forward with a vast moaning that added a bass rumble to the banshee wails, as they mindlessly pushed against the concentric barriers. The horde of ghosts and banshees swarming from everywhere across the entire dungeon passed through the barriers without challenge, rising like a silver-gray maelstrom of fury, howling ceaselessly as they came.
+
+Ali’s heart nearly burst out of her throat. She wanted to speak, to shout a warning, but she found herself unable to.
+
+“Dungeon break!” Lyeneru roared, snapping Ali out of the dazed stare down the gullet of the fully mobilized dungeon. “Mental Fortitude elixirs, now!”
+
+Ali gritted her teeth against the pain as she wielded the crystalline gold of her arcane mana and the vibrant green of her nature mana against the twisted corruption before her, staring in frustration and no small anxiety at the rage of the undead hornets’ nest she had just provoked. Sure, it was all according to plan. Her plan. However, the reality of facing this horde down staggered her mind and made self-doubt spear deep. Could she have miscalculated somehow? Her instinct was to withdraw her mana and flee, but she already knew that, once roused, the rage-induced dungeon break could only be defeated by destroying every last monster.
+
+“Form up! Tanks to the front! Healers get ready, mages and archers target the banshees.” Lyeneru’s commands came quick and fast, but her voice carried a calmness that belied the magnitude of the undead wave that bore down upon them. Except for the bosses and the corporeal monsters blocked by the barriers, the ire of the entire dungeon had suddenly been raised against their group, an instantaneous reaction to her domain mana’s attack.
+
+Ali bit her lip, forcing herself to concentrate. Consider them provoked! Let’s go!
+
+“Defensive positions! Group one, back up,” Lyeneru shouted, but Seth ignored her, searching frantically through the crowd for the small, sparkly figure.
+
+The wail from countless banshees blurred into a continuous droning howl that filled the air, kicking up dust and small pebbles from the sheer power of the sonic magic, but the potions Morwynne Fizzlebang had crafted and the wards cast by their defensive mages were holding fast against the onslaught against his mind. Besides, the wails of the dead hardly worked on him anymore.
+
+There she is! he thought, as his eyes picked out the small figure of Aliandra staring at the impending wall of undead bearing down upon them with a look of stunned helplessness, her minions formed up around her, looking pitifully small against such a tide. Within the dungeon, gaps began to appear in the purple barrier domes, spilling hordes of corporeal undead forward. It had been a risky plan, all told, but a risk they had chosen to take. However, according to his assessment, they had badly miscalculated the sheer magnitude of the undead horde lurking within the bowels of this dungeon.
+
+Even with all the raid teams fully prepared, he feared they wouldn’t be enough. He knew exactly what he needed to do, and he was the only one who could stave off an impending rout, but he needed her help.
+
+Against orders, he sprinted forward, heading toward the dungeon and the destruction it promised.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

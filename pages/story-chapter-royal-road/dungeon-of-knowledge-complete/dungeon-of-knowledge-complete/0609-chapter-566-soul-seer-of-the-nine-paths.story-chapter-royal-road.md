@@ -1,0 +1,125 @@
+---
+id: 443348b6-b25b-5e36-8bf8-53c3091de1ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 566: Soul Seer of the Nine Paths"
+slug: 0609-chapter-566-soul-seer-of-the-nine-paths
+partOf: dungeon-of-knowledge-complete
+position: 609
+ownLength: 2796
+unit: words
+publishedAt: 2026-03-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3151152/chapter-566-soul-seer-of-the-nine-paths"
+royalRoadId: "3151152"
+---
+
+She’s ok. Thank goodness she’s ok. Malika’s hand found Ali’s shoulder, supporting her grim-faced friend more from the security of physical closeness than any need for healing. Malika met the Fae’s amber eyes for a moment of shared understanding, and she nodded.
+
+The mental haste buff Ali had cast on her had faded before she’d finished navigating her convoluted evolution paths, and she had been forced to watch while Ali had faced the Blind Lich by herself. Ali’s plea that she hurry had been all that had held her back from abandoning her evolution and leaping to defend her friend, and even so, rushing her evolution while distracted by the confrontation had almost seen her ruin her paths.
+
+It had seemed touch-and-go for a moment while the Blind Lich pressured Ali as she struggled with her memories of the past, but Ali, for all her gentleness, had a fierce will. Her commitment to her friends and her determination to do what was right could not be broken, no matter how rattled she got.
+
+I should know better than to doubt her by now.
+
+Out in the clear space of the grove, the flames of Calen’s wrath continued to burn the Blind Lich, but the chains were snapping with loud ringing cracks as the Lich began to overcome the binding magic.
+
+Ali had never told her the full story of what had happened that night, but Malika knew it had happened in this very Grove. Nevyn Eld had killed her parents and destroyed her world, and the experience had left her shattered with grief and cast adrift into the river of time, to come washing back up against the shore three thousand years later.
+
+How awful it must be to have to face him here and hear him speak contemptuously about her mother. Yet, somehow, Ali had found the strength to get back up and throw the Blind Lich’s words back in his face. And now his Death Knights were here defiling her Grove once again, withering her moss under their boots as they advanced in ranks.
+
+It was enough for Malika. The time for words was past. She had completed her evolution, finally reaching the third tier, and with the resolve she could see burning in her friend’s eyes, a deep calm settled upon her. Despite the dire circumstances they found themselves in, a sudden lightness bubbled up from deep within Malika’s heart, and she smiled softly. Whatever happens here, we’ll face it together.
+
+Malika stepped through space. Divine Step was a skill she had since nearly the beginning – her first chosen class skill at level ten. From its humble beginnings, the skill had grown with her, becoming the very foundation of her speed and maneuverability on the battlefield. And yet, what happened when she used it set her heart racing.
+
+The fabric of the realm leapt eagerly to her will as she unleashed her technique. The bloodline skill – for that’s what Divine Step had become at the culmination of her Path of Speed – shifted the world. Not like one forcing their will upon creation, contending with it to make it bend. Instead, she slipped through space like she was part of the fabric, like she finally understood, and in her calm reflection, she was meant to be elsewhere. And so, she was.
+
+She appeared in the air above the Blind Lich himself as he shattered the last of Calen’s chains, dimly aware of the waves of despair sluicing harmlessly off the impenetrable integrity of her Clarity. If she had to sum up her advancements, she would say she’d chosen her bloodline. The bloodline of Ahn Khen. Almost half of her paths had enhanced her bloodline itself, gaining proficiency, insight, power, and range for all her bloodline skills. And two more of her existing skills had advanced to their bloodline versions: Divine Step, and Healing Mantra, now upgraded to Mantra of the Ancestors. Clarity’s advancements were perhaps the least of those, and still, she could sense fresh power running through the skill like a vast current.
+
+Before Malika could strike, the Lich vanished, appearing behind his forces with the pulsing flickers of protective wards and restorative spells rushing through him, and three powerful Devastation Knights advanced on her with their rune-inscribed greatswords blazing with ominous light. Dark currents of mana swirled around the blades, and she saw the curse coming.
+
+You have been cursed with Damage Reflection.
+
+Even as the foul tendrils of the death magic curse settled upon her, she could tell it was weakened. The usual barbs scraped across the ward of Clarity as her upgraded skill began to weaken the curse even as it landed. Still, Malika ignored the dangerous curse and punched toward the Death Knight’s rime-covered helm.
+
+Eleven strikes she unleashed, every single one stopping a foot short of the mark. Instead, the soul-affinity coronas around her fists pulsed, blasting javelin-like lines of force that pierced through the mithril armor and undead flesh with equal ease, while Soul Strike drank heavily of mana and stamina.
+
+You have gained Onslaught.
+
+Damn. Ali was right. I’m stronger now – far stronger than I was even with my relentless buffs. Soul Strike hit hard, even when she’d withheld her physical damage to avoid the Death Knight’s curses, now fluidly able to drain any combination of resources she willed. And it wasn’t just that. Azryet’s Bone Band of Aggression gleamed darkly on her finger, adding flashes of void and holy damage to every hit. It was the same ring Mato had accepted as his reward from the Dragon God’s demon hunting quest – a ring that focused on destruction. Holy and void were both incredible choices against the undead, but with her speed, the twenty percent chance to trigger the melee version of Onslaught on hit meant she was always hasted.
+
+Malika deflected the first blade with the palm of her hand, healing the searing frostbite she earned from the harsh blue ice magic aura. She effortlessly dodged the second Devastation Knight’s bolts of ice, flipping over the spell almost lazily to deliver a powerful kick to the mithril visor. As her foot reached the target, she allowed it to connect, sensing the death-affinity reflection curse dispelled by Ali’s hand before her Clarity could finish unraveling it.
+
+Her foot connected with a loud smack, and she unleashed her Soul Strike, but at the last moment, she asked her damage to wait. It was an odd thing to contemplate, but she had no other way to really articulate what it was that her Path of the Patient Fist did. She hit the monster, and instead of the normal sensations of impact and damage, the energy she had unleashed – all of it – remained, humming within the Death Knight’s body as the vibrations in the mana and stamina she’d unleashed began to mount. The longer she left it, the stronger it would grow. She lashed out again, several punches in a tight sequence, each time holding her damage in abeyance, leaving the buzzing energy to mount within the undead Knight.
+
+A greatsword cleaved past from behind in a horizontal arc, and she ducked only enough to feel the wind of it passing the back of her neck. From her crouched position, she pushed upward, delivering a powerful knee strike to the Knight’s left thigh.
+
+You have gained Ancestral Insight.
+
+A prickle of intuition coalesced in her mind, like Rezan whispering wisdom into her ear. The calm understanding gained from that simple strike made her lips curl slightly upward. She spent her insight immediately to reset her Instantaneous Strike recharge and delivered eleven simultaneous kicks with her right foot and immediately released all the delayed energy buzzing within the monster.
+
+A loud crack, followed by a flash of soul energy, ripped the Devastation Knight apart from the inside as every strike from the beginning was unleashed simultaneously. Mithril armor ruptured with the skin-crawling screech of tortured metal, and dark, withered flesh sundered under the blaze of pale-burning soulfire.
+
+The shattered remains of the Devastation Knight collapsed to the sound of a chime, and Malika cracked her neck, surveying her work.
+
+“Wow, Malika!” Ali said, flicking a glance her way but watching the Lich warily for any new tricks.
+
+“I guess I’m an actual damage class now,” Malika said, grinning. With the incredible increases to haste she had earned, and the ability to delay her damage and transform it into mounting resonance with Path of the Patient Fist for up to twenty seconds, earning her full critical damage multiplier, her destructive potential had skyrocketed.
+
+Although I did see Calen’s ridiculous damage from the other side of the continent. It wouldn’t do to let her improvements go to her head. The Blind Lich still stood, and his most powerful minions were still clawing their way through the portal, contending with the ridiculous hellfire storm Ali’s Pit Lord was unleashing.
+
+She assessed the battle calmly. How can we turn the tide? Even with all our advancements, the odds are ridiculously against… and then, she sneered inwardly at the thought. Never stopped us before. I will honor my ancestors!
+
+“With me, Ali!”
+
+As three golden barriers sprang up to her right, forcing her enemies to cluster awkwardly and impede each other, Malika punched an Abomination’s flail out of the way, disrupting the Mortal Cleave ability with a sharp blast of her Martial Disruption eye technique to the flow of its energy, pirouetting in the air to land a heel strike to one of its heads. Something crunched under her heel and she blasted a fresh bolt of soul magic clean through the back of his head, but the monster was unreasonably resilient, and she was forced to dodge back immediately by the powerful backhand swing that clipped the edge of a Death Knight’s ice shield, launching a spray of ice crystals that hung in the air for a brief, glittery moment.
+
+As the Death Knight pressed its advance, a bright glittering barrier appeared under its left boot, canted at an extreme angle. Despite its immense strength, the monster stumbled on the suddenly treacherous footing, and Malika pounced on the opening with a flurry of blows she rained down on its armored head and neck.
+
+Malika ducked at the sound of a whistling blade from behind her, but a tiny, black-scaled kobold appeared out of nowhere, burying a mithril dagger slathered with shining holy poison into the side of the ambushing Knight’s right knee. It hissed and its blade went wide while a cloud of Glitter Dragonets dive-bombed the approaching reinforcements, blocking their vision.
+
+Wow, Ali? You’re fighting dirty today! Malika came down on the back of the poisoned and reeling Death Knight’s neck with an elbow strike that slammed its armored face into a boulder, splitting the granite with a sharp crack. But more Knights and other undead were advancing, navigating through the maze of barriers and walls Ali constantly threw in their way.
+
+Twisting in the air, Malika slipped past the grasping undead taloned fingers, her feet pulsing with soul magic to conjure stepping stones that allowed her to sprint through the air with far more ease than ever before, but as she pushed her advance toward the Blind Lich, an unbelievable surge of death magic blasted outward. It shredded through Ali’s barriers immediately. A black wave of necromantic decay rippled through Ali’s demonic minions with frightening ease. It pulsed and writhed like a nest of blighted vipers, shot through with wicked knots of soul magic that tore at and impaled the Pit Lord with a hunger for life that was palpable in Malika’s sight.
+
+It was a magic she had witnessed twice before. Once, when Nevyn Eld had nearly succeeded in killing Lyeneru Silverleaf in the air above the Temple of Aman Rak. The second time had been altogether more fatal – the time when he had killed Nendir at the fall of Ciradyl. She had even experienced its shuddering, skin-crawling touch for the briefest of moments.
+
+Decrepify! Malika dove for the ground, dodging furiously as a half dozen golden disks snapped into existence about her, somehow cutting into the flow, but the spell seemed to have a life of its own, wailing like a banshee as it sought her living flesh. She hit the ground, trying to roll out of range. “Aah, dammit!” She clutched her shoulder as an agonizing chill bit into flesh and bone.
+
+You have been afflicted with Decrepify
+
+Even within the diamond-hard clarity of her mind, her stomach lurched as her body weakened and the Lich’s fearsome spell drained her life and vitality greedily.
+
+“Malika!” Ali screamed.
+
+“I’m ok,” she shouted, springing to her feet and pulsing Mantra of the Ancestors – her newly upgraded bloodline healing spell – through her own body. The spell that flowed through her body was like an ocean to the drop of water of her old Healing Mantra. Her chime immediately rang softly in her mind.
+
+You have gained the Ancestral Memory: A Gift of Healing.You have gained Clarity.
+
+A torrent of revitalizing energy surged through her, and stillness as she’d never experienced flooded her mind. In the ensuing calm serenity, she saw the energy lines through her soul converging, widening, and strengthening as her magic sought to weave harmony between all aspects of her being. A pulsing bubble of healing power rippled outward from her, extending more than three times further than before, bringing healing to everything it touched. And with the piercing gaze of Soul Sight, she unraveled the extraordinary nature of her own magic.
+
+I’ve seen this before. With a sense of wonder, she guided her magic. While her body ducked and dodged as if possessed of a will of its own, and her fists beat out the well-worn paths of the forms she’d drilled for so long, her healing magic wore away at the decrepification of her vitality like a mountain stream grinding boulders into sand, slowly wresting her strength back from the Lich’s grasp. Even the insidious tendrils of Pit Lord’s blood corruption aura were slowly forced out of her by her healing magic. Oh, shit! This must be what Rezan used to heal my bloodline!
+
+Grinning, Malika turned, but at that moment, she sensed something she’d never witnessed before. Out at the edge of the Grove, in the heart of the Pit Lord’s hellfire inferno, something dark was being brought into existence. A black orb appeared in the Lich’s claws that warped her greatly expanded Soul Sight with a density and pressure that set her heart pounding.
+
+What… is that?
+
+Suddenly, it shot forth, closing the distance between the Lich’s grasp and the Pit Lord’s chest in less time than it took her to blink. The vast, towering pillar of the Pit Lord’s life energy fluttered like a candle in a stiff breeze. The corpulent flesh collapsed in on itself, withering away in seconds, blackening, and beginning to slough off in chunks.
+
+At the back, behind an array of protective barriers, the constant flickering of rune magic and the rhythmic pulsing of Ali’s Grimoire froze for one shocked instant.
+
+Malika shot across the Grove in a fraction of a second, unleashing a flurry of punches at the Blind Lich’s head. Her fists cracked with sharp staccato blows against his heavy mana shield, sending pain shooting up her forearms. She had held nothing back. The bubble darkened briefly at each impact as her Soul Strike pierced it, drinking mana and ripping through the Lich’s gaunt body.
+
+Ghostly soul fire flickered across his corpse-like skin, but not a single flicker or falter could be seen in the coursing surge of the Lich’s dark spell. Malika poured stamina into her Mantra, continuously repairing the insidious necrosis that billowed outward from him, infecting her by mere proximity, and attempting to save Ali’s demon.
+
+Devastation Knights charged in defense of their master, their dark souls leaving the foul stain of undeath etched across her Soul Sight, but they ignored her dodges and evasive maneuvers as every undead monster mobbed the Pit Lord, heedless of the retaliatory hellfire and blades of blood.
+
+Before Malika could even shout a warning, the powerful Pit Lord collapsed, falling to the ground with a heavy crash. Immediately, the corpse was filled with the glittering consumption of Ali’s signature magic as she desperately tried to deconstruct it, but Malika knew it would too late.
+
+In the silence that ensued, a dry, hissing sound filled the air. The Lich’s laughter. Ignoring her fists rattling against his shield, he thrust a withered hand toward the Pit Lord, rings clicking together as they hung loosely from his bones, and he spoke with power.
+
+“Arise!”
+
+Oh, shit! This is going to hurt!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

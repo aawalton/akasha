@@ -1,0 +1,149 @@
+---
+id: 70ba5783-5042-5406-bc32-5a2db4a47f53
+page-type-slug: story-chapter-royal-road
+title: "42 - White Rocks? Or something Else?"
+slug: 0042-42-white-rocks-or-something-else
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 42
+ownLength: 1650
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3522225/42-white-rocks-or-something-else"
+royalRoadId: "3522225"
+---
+
+The four of us stood in a room near the back of the manor, where the walls were peeled and the lights were dim. Compared to the rest of the building, this place seemed significantly more neglected.
+
+Gabriel and Camille stood near the door leading to the cellar. It was shielded by some kind of magic, making it unbreakable. If somebody wanted to go in, they needed the right key for it. Remembering what Camille had said earlier at the library, the Borrowed One was the only person who ever had access to this cellar.
+
+But then how did Gabriel have the key for it? He mentioned it was a boss drop from the dungeon warden, right?
+
+“This doesn’t make sense,” I whispered, shaking my head softly.
+
+Reina and I stood on the other end of the room, away from the other two.
+
+Reina began, “If Gabriel got the key from the dungeon warden, and the Borrowed One is the only one who ever had access to the cellar, doesn’t that mean…”
+
+“That the Borrowed One is the dungeon warden?” I said.
+
+She nodded. “That’s what I think.”
+
+“You might be right,” I agreed. “But I’m still a little confused about this entire story with the Borrowed One and the manor. All of this about seeking immortality and borrowing bodies... how do we know any of it actually happened?”
+
+Reina tilted her head. “What do you mean?”
+
+“I mean, we’re inside a dungeon,” I said. “The manor and everything about the Borrowed One… aren’t these just made up stories for the dungeon? Like how a writer makes up stories for their books?”
+
+“You’re wondering how much of it is true?” she asked.
+
+I nodded.
+
+But then again, I was just assuming that these dungeons were the result of some man-made creation, like from an archmage since that seemed like the easiest explanation. I never asked Meriel or anyone else about the purpose of dungeons in this world. Hell, I still didn’t know what that secret dungeon was about back at the Adventurer’s Guild.
+
+“From what I’ve heard,” Reina began, “dungeons were made to contain powerful monsters. That’s why wardens exist in every dungeon. They’re the monsters that are kept in captivity.”
+
+“Then if the Borrowed One is the warden...”
+
+“Then he used to exist outside the dungeon before he was captured,” Reina said, “just like the rest of the dungeon wardens in every dungeon.”
+
+I looked at her. “So everything we know about him now actually happened?”
+
+“Maybe not exactly—but if the Borrowed One really is the warden of this dungeon, then the manor, Camille, and all the stories we've heard about him are probably based on what actually happened during his life.”
+
+Which would confirm my suspicion that this Camille we’re currently seeing was just an NPC after all. Camille must’ve existed out there in the real world and related to the Borrowed One in some way. Judging from everything we’ve seen so far, she was likely his servant.
+
+“So this entire dungeon is based on his life?” I asked. “And I don’t mean just the manor. I mean the inverted city, the porcelain harpies and chainbound knights we fought—it’s all based on him?”
+
+Reina nodded. “Dungeons revolve around their wardens. There might be small details that change to make things more dramatic, but the overall dungeon theme usually comes from whatever the warden is.”
+
+I crossed my arms.
+
+“But this also means that the people who created these dungeons are intentionally keeping the dungeon wardens alive. Why would they do that?”
+
+“Because it’s kind of like a training ground,” she replied. “My father grew strong by taking on as many dungeons as possible. The loot you get is just an added benefit, but the experience you get from fighting against dungeon wardens is the safest way to get stronger without risking your life.”
+
+Reina was more knowledgeable about all of this than I thought.
+
+“Then what about the other monsters?” I asked. “If we’re assuming that the Borrowed One is the warden of this dungeon, what about all the porcelain harpies, stone knights, and statues we fought against?”
+
+“They’re just meant to guard the warden so that only capable people are able to get through. Meriel would know more about it than me, but I think they made it this way because fighting against wardens uses a lot of the dungeon’s mana, so they try to limit how many people can get through.”
+
+I recalled how dungeons needed time to recharge after each use, which was the main reason why the people of Whale Isles had to lock entry to this dungeon we were in behind the Grand Skycurrent Race. Since nobody has ever gotten to the warden at the end besides Gabriel, this must’ve been one of the more difficult dungeons. It was no wonder the rewards were so great. And I’m not just talking about Reina’s Dawn Sunderer. Even the pair of wings that you would receive if you beat the warden at the end was insanely useful.
+
+Everything was starting to add up.
+
+Dungeon wardens weren't just prisoners. They were training tools as well. They were dangerous enough to threaten the lands, but the dungeons containing them are stronger than them, keeping them in place for adventurers to test their strength. After all, the best way to get better at fighting against powerful monsters is to fight more powerful monsters.
+
+Of course, doing all of this fighting in a dungeon with revives was much safer than doing it in the real world. Reviving people likely consumed enormous amounts of mana, which explained why dungeons need time to recover between expeditions.
+
+“Ready?” Gabriel called from across the room, breaking my focus. He smiled at us, tilting his head toward the door. He had opened it with the key he brought while I was talking with Reina.
+
+“Yes! We’re coming right now!” Reina replied.
+
+Gabriel and Camille nodded before heading through the door. I stopped Reina before she could follow.
+
+“Keep an eye on him,” I whispered. “I don’t mean to act so cautious toward him, but… it’s just a feeling, you know?”
+
+She nodded slowly. “Sure.”
+
+The two of us headed through the door. We regrouped with Gabriel and Camille, heading down a flight of stairs. Tiny lanterns hung on the side of the walls as we descended, only lighting up as we passed. We couldn’t see any further than a few steps in front of us because of how dark it was.
+
+After what felt like minutes, we took the final stair, arriving at the basement level. Everything was made of stone bricks—the floor, ceiling, and walls. The air down here was damp and much colder than the rest of the manor.
+
+“That smell,” I said, covering my nose. “What is that?”
+
+The area was better-lit than the stairs we were on. I looked ahead, trying to find the source of the foul smell, but I couldn’t see anything other than stone.
+
+“The manor’s underground levels have been largely abandoned since Lord Aurelius was the only one who ever entered them,” Camille began. “The mold and dampness are likely the cause of the smell. Either that, or—”
+
+“The bodies,” Gabriel said.
+
+We looked at him.
+
+“What? It makes sense, doesn’t it? From what you told us, Camille, the Borrowed One—or Aurelius as you like to call him—conducted his experiments on this very level. Or did I mishear the story?”
+
+The ghost maid shook her head. “No, you’re right.”
+
+Gabriel turned to us. “You two understand what that means, right? Are the two of you up for it? The sight ahead may be more horrifying than anything you’ve ever seen before.”
+
+I looked at Reina. Her eyes were wide and her body was trembling.
+
+“Bodies,” she muttered. “Like… dead bodies?”
+
+“Yes,” Camille said. “It’s very unlikely that anybody survived down here without Lord Aurelius checking up on them and bringing them food. If you would like to avoid seeing such things, I can escort you back up the stairs.”
+
+Reina turned to me. “What about you, Allene? Are you going?”
+
+I shrugged. “Well, I’m already down here. Might as well. But you don’t have to force yourself to come.”
+
+She shook her head profusely. “No, I’ll go! I have to!”
+
+“Uh... no you don’t.”
+
+“I do! There could be super cool loot down here!”
+
+“Even if it means seeing dead bodies?”
+
+“I… I’ll close my eyes!”
+
+With that, we continued on.
+
+Reina and I walked behind the other two. My eyes were fixed on Gabriel. He looked just like every other angel—feathery white wings, long white robes, and a friendly smile. But the more I looked at him, the more anxious I felt.
+
+Was it because he had cleared this dungeon by himself? Or because he was the only person who had ever done so? Maybe it was the fact that he had been following us this entire time without saying anything.
+
+Whatever the reason was, I couldn't shake the feeling that something was wrong. He was hiding something from us.
+
+Just as we were about to reach a hallway that was narrower than the area we had been walking through, we noticed several white rocks scattered around the ground. Before we could question it, the ground rumbled. Dust erupted everywhere, and all at once, the white rocks slowly rose into the air, combining into several different forms.
+
+“Those aren’t rocks,” I said, coming to a realization. “Those are bones.”
+
+When all was done, dozens of skeletons stood before us, guarding the hallway.
+
+Of course.
+
+[TROPE INITIATED: YOU CAN’T HAVE AN UNDERGROUND AREA IN A DUNGEON WITHOUT SKELETONS]
+
+Completion criteria: Defeat the skeletons.
+
+I called [INSPECT] on them, but honestly, their description and assessment were pretty lame. I’ll spare you from having to read all of it and leave it at that. Just use your imagination.

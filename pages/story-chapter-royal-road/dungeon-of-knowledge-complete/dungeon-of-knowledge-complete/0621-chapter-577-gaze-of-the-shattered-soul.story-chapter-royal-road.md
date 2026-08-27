@@ -1,0 +1,117 @@
+---
+id: d5d32fdf-9956-5f6e-a724-c54d697b9f6f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 577: Gaze of the Shattered Soul"
+slug: 0621-chapter-577-gaze-of-the-shattered-soul
+partOf: dungeon-of-knowledge-complete
+position: 621
+ownLength: 2189
+unit: words
+publishedAt: 2026-03-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3176977/chapter-577-gaze-of-the-shattered-soul"
+royalRoadId: "3176977"
+---
+
+Malika’s body vibrated with thrumming power as she strained against the will of the Blind Lich, but it was useless. She had broken through to the third tier, and since then she’d been fighting against the Lich and his implacable minions for long enough that Second Wind’s Abiding Perseverance was blazing within her heart, driving her to heights of power the likes of which she’d never imagined, and yet, she was bound, held helpless by the gaze of the ancient Ahn Khen monster, now Lich.
+
+It had been her mentor, Rezan Jin, who had revealed the ugly truth of Nevyn Eld’s betrayal of their people, but not even the elder, with all his wisdom and decades of refined techniques, had been able to stand against the Blind Lich and live. If even he couldn’t do it…
+
+Her heart froze as the dark specter of the Lich, stripped now of his infamous crimson blindfold and revealed as the unassailable pinnacle of necromancy, floated across the mossy ground, approaching Ali a second time. How she had managed to trigger the Cycle of Rebirth twice, Malika had no idea, but without a shadow of a doubt, that had been – should have been – a one-time thing. The desperate last grasp of an extraordinary mind, systematically stripped of all remaining options and left frozen and helpless upon the rapidly withering moss. I need to create an opportunity for her. An opening. Anything…
+
+But right then, something strange appeared. Pitch black slime began leaking out of the air above Ali and the Lich, and as Malika watched, it began swelling, as if filled with water from wherever it had come. Larger and larger it grew until suddenly, it released, landing on top of the Aegis of Absolution with a loud splat.
+
+And more. Slime began dripping, seeping, pouring out onto the battlefield from everywhere, as if the very air itself had sprung leaks. Slimes of utter darkness, radiating death. A blob of sizzling void that ate everything in its path. Blazing ooze made from fire and lava. Strangely flickering ghostly blobs of light blue energy and stamina.
+
+Hundreds of them.
+
+The dark bolt of Nevyn Eld’s distinctive Sacrifice spell blasted into a strangely shimmering ooze reminiscent of Cael’s magic. Instead of striking the tiny frozen Fae frozen there, it suddenly shot out of a matching ooze off to the side, blasting into a puddle of darkness which simply consumed the magic. A little puff of black soot was all that remained of the Lich’s awful spell.
+
+Chaos erupted. Spells of more kinds than Malika could easily count poured into the clearing as more oozes dribbled out of the air like heavy, viscous rain. Blobs of dense gravity that sucked in the very earth, plants, and all. Wobbling hellfire. A thing that hovered, firing golden bolts of arcane energy. Blobs of ghostly ectoplasmic jelly crawled their way over the Lich’s shield, consuming his dark death bolts, while strange things of shadow attacked with darkness itself.
+
+What the… is that… Naia?
+
+Malika had far too many questions, but she ignored them. She had been hunting for a way to create an opportunity for Ali, but she knew an opening when she saw one. The… oozing… had captured the full focus of the Lich, and for just a moment, she was being ignored. She wrenched herself against the force binding her in place, but the Lich’s spell was resolute and unwavering.
+
+If only I could overcharge Perfect Body. She couldn’t do anything. If she had access to her stamina, she might have been able to overpower him by boosting her attributes, and having fought for so long, she could boost them to insane heights.
+
+But his skill was absolute, locking her down entirely.
+
+Malika, what did you learn?
+
+Malika paused at the recollection of the painful lesson Rezan had beaten into her with endless sparring and training. Why can you never just tell me the answer, old man? What did I learn? She was still struggling helplessly, but she hadn’t actually considered her foe and studied his abilities.
+
+I still have Soul Sight. The Blind Lich’s Gaze of the Shattered Soul did not lock her out of all her skills. She still benefited from her passive perception skill. None of her reservations had been severed; she just could not adjust them. Quickly, she checked the rest of her skills, discovering, to her surprise, that she could still use Second Wind.
+
+It doesn’t have an activation, she suddenly realized. She could use anything that didn’t require stamina or mana flow to activate. Her titles still worked; certainly, Ali’s had just saved her life twice. Her Gift of Insight still seemed to be active. It’s anything that requires moving mana or stamina that’s blocked. Now, how can I use that?
+
+Rezan had told her to always keep her Infinite Perception powered, stressing the value of information, knowledge, and learning about the skills of one’s opponents. He had, in fact, told her that her perception skill was by far the most powerful weapon she possessed, and that advice had prompted her to pick a powerful evolution for the skill. If she had access to her mana and stamina, she would have been able to greatly overcharge it, but – at least – she had followed his wisdom, and her eye magic was still active.
+
+Why aren’t the oozes frozen, then?
+
+With a little chagrin, she finally looked. Rezan would be so disappointed, she thought, realizing that this was what she should have been doing from the very beginning, but it had taken Naia’s unexpected attack for her to realize the Ninefold Way: Gaze of the Shattered Soul was not the absolute denial she had been led to believe. Naia was ignoring it wholesale.
+
+Mana and stamina flowed out from the Blind Lich’s eyes, bathing the entire area in a dense and intricate lattice of suppression. A spell crafted as much from his martial technique as from the seamless blending of his soul magic. The level of detail that suddenly flowed into her mind as she focused closer on her Soul Sight was staggering. The only time she’d ever seen anything like it was in the Fae twins’ Infinite Maze. And that healing-suppression Fungaloth, she recalled suddenly. This was on a far greater scale, though. For just a moment, she wished she had Ali’s intelligence to even parse it all.
+
+But that was not her way. Instead, she imagined closing her eyes and floating in a pose of meditation, her awareness resting with the pattern of his skill. She couldn’t actually close her eyes; she was denied even this freedom by his skill, but her mind easily flowed into the familiar calmness of her meditation. She observed the flow of his skill, softly vibrating. How it interacted with her own stamina flow, disrupting it continuously.
+
+It's just like Martial Disruption, she suddenly realized, but she let that thought pass naturally, as was the nature of all things to do. It was similar, and it was different, and she just let it be for a moment.
+
+The energy seemed to pass right through the Oozes. The projected stasis lattice was affecting them, just like it affected her, but somehow, they simply… slipped through the infinitesimally small cracks and pores; gaps in the uniform structure she had initially assumed was smooth and unblemished.
+
+A sudden blast of energy erupted from within the pile of oozes, and Malika was suddenly drenched with foul-smelling slime as bits splattered across everything in sight, but she simply continued to watch, knowing she could do nothing about it. She still couldn’t even breathe.
+
+The Lich advanced on Ali again, sweeping the remaining oozes off his shield with blades of dark magic. The sudden rush of Ali’s accelerating heart caused the clarity of her mind to ripple and warp, threatening her with urgency, fear. She watched the emotions, steeling her resolve, and they rapidly passed, leaving her empty once more.
+
+And then she finally saw it.
+
+No more than a dozen robed warriors stood before the gates of a small Ahn Khen village as a host of thousands charged toward them with swords bared and glinting in the afternoon sun. Groups of children hid behind the walls, staring on with fear-widened eyes.
+
+Malika felt the presence of Rezan and her parents beside her, witnessing the scene with her.
+
+There were no cries among the defenders, no shouts or challenges. The warriors stood as the last line of defense against certain annihilation. Malika’s awareness descended upon the shoulders of an unremarkable warrior closest to the rough stone wall. As she settled in, she felt him step forward, half a pace ahead of his companions. He accepted the glances of surprise directed his way from the elders beside him, for he was hardly the greatest warrior of their village, but something undeniable coursed through his soul – a clarity of form that could not be withheld. He closed his eyes for a moment, gathering his will. When he opened them, mana and stamina flowed together, a dance of exquisite harmony and balance. His eyes blazed with sudden power, and the attacking host stopped to a man, as if they’d suddenly been turned to stone. Malika’s Ancestral Vision faded with the remnants of the sound of a realm notification gong echoing in her ears, and she knew she’d just witnessed the birth of the technique.
+
+Malika forced her stamina at Divine Step with all her might, but it was the lingering echoes of the Ancestral Vision and the image of the oozes slipping through the cracks that had really shown her the truth behind the Blind Lich’s technique. No. It’s not his technique. It’s ours! She twisted her stamina, warping it in painful directions, desperate to emulate what she had witnessed.
+
+The Lich’s hand raised and began to burn with an ominous mountain of dark mana from within his undead shell. His skills forced it to coalesce into a roiling core, a harbinger of unavoidable death.
+
+Ali…
+
+Please, I need this! she thought, half a prayer, and half a mantra to steel her will. She rammed her stamina energy into the wall of his skill. Suddenly, her energy rippled within her. It warped, just like the Oozes. Something gave.
+
+And then, she was there.
+
+The blast of death and soul magic pierced her chest, ripping her clarity to shreds from the force of exquisite pain as it clawed at her very soul.
+
+Her vision went black. Even Soul Sight dimmed as she coughed. Decaying black sludge spilled from her lips as she studied the withered crater in her chest.
+
+Not fair! Where’s my mythical restoration spell? She chuckled, a weak, wet sound, and then flooded stamina into Mantra of the Ancestors, using it to begin to weave the tattered wisps of her torn soul back together.
+
+She had lost nearly a third of her vitality attribute in an instant, and the Lich’s spell had ripped out a chunk of her soul to match the dark hole bored into her chest. A catastrophe by any measure, but Malika wore her grin proudly. She’d just tanked an Authority-empowered Decrepify with nothing more than her relentless Abiding Perseverance applied to her Soul Armor, and lived. So what if she had to repair a little soul damage? Ali was still alive.
+
+As the wound slowly began to close, and her powerful mantra recovered the first point of vitality, several chimes sounded in her mind.
+
+Soul Sight has reached level 120 (+10).Requirements met for skill advancement. Ancestral Soul Memory: Rezan Jin.Perception has surpassed 700.Wisdom has surpassed 3700.Soul Sight has reached the second tier.Understood the true nature of the Ninefold Way: Gaze of the Shattered Soul.Defeated the Ninefold Way: Gaze of the Shattered Soul.Soul Sight gains Gaze of the Shattered Soul.Accept this advancement?
+
+Malika’s mind was still reeling from her sudden brush with death and the vibrating fragility of her torn soul, but she knew she needed this. She desperately grasped for it, like a drowning person clutching at a passing log.
+
+This… this is the key!
+
+Her sight broadened, like eyes long closed finally opening to the dawn’s light, and she saw him. The Lich’s blazing soul gaze bored into her like searing beams, but behind them, she could see his soul. It pulsed with dark energy like a pitiful, plagued, and corrupted thing. Dark tendrils streamed off him, vanishing into the Spirit Realm. And within his core, shone the true essence of the Lich – a terrifying emptiness that was bound elsewhere.
+
+Malika closed her eyes.
+
+She took a deep breath.
+
+And when she once again opened her eyes, they blazed with power.
+
+[Realm] Malika Yu [Savior of Aman Rak] has used The Ninefold Way: Gaze of the Shattered Soul.
+
+The Blind Lich stopped. All the blazing tendrils flowing from his soul froze in place.
+
+But Malika had the advantage of greater understanding. While it was excruciatingly slow, she could still move. And her stamina began to flow once more.
+
+Owie! The moss-covered boulder nestled among the oak roots thought: Lich is… Not-friend!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

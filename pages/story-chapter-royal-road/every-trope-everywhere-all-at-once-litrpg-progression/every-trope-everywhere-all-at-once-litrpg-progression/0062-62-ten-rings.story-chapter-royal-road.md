@@ -1,0 +1,177 @@
+---
+id: fbaec7fd-98b3-5b78-a18c-5b5be77df99c
+page-type-slug: story-chapter-royal-road
+title: "62 - Ten Rings"
+slug: 0062-62-ten-rings
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 62
+ownLength: 1689
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3614614/62-ten-rings"
+royalRoadId: "3614614"
+---
+
+My eyes flickered around the crowd, trying to find all the ones with Aurelius’s ring on their finger.
+
+Which one of them was he? The harpy? The angel? The woman? The taller one?
+
+Was he even here?
+
+There were far too many people in the crowd. As several men and women flew Aurelius’s first body away—the one he had stolen from Gabriel—I closely took note of their every movement. Their expressions were unpredictable. Some seemed glad that the battle was over.
+
+Others were just like me, Kaelor, Meriel, and the rest of us. They knew something was off. It was too easy to just say that Aurelius had just died out of nowhere. He was undoubtedly hiding among us.
+
+“We can limit our targets to those with his ring on their finger,” Aeris whispered. “There should be ten of them.”
+
+So far, we could only see six. The crowd had already begun to clear. The other four must have already flown away.
+
+Kaelor flew higher to get a better view on everybody.
+
+“May I have all of your attention?” he began, clapping once. Everyone stopped what they were doing. “For those of you who have the enemy’s ring on your fingers, could you please come to me? I would like to investigate something.”
+
+The crowd began whispering among themselves. Most of them didn’t pay any mind and continued flying away.
+
+“This is a demand, not a request,” he said.
+
+Some of the people in the crowd were Kaelor’s troops—at least, what was left of them. Among all the ships in the air, only a few belonged to them. Compared to the number I saw before, having this many left after the battle was… horrible.
+
+The troops surrounded the crowd, stopping anyone from flying away. The last thing we wanted now was another battle between our own allies. Thankfully, they seemed to have realized the same. Among the six people with Aurelius’s rings, four of them flew to Kaelor. As soon as he gave a nod, the troops parted, letting the rest of our allies pass through and head back to the islands.
+
+I glanced at the remaining two ring wielders who didn’t fly to Kaelor. Of course, one of them was Talon.
+
+“Let’s interrogate them,” Meriel whispered to us. “Allene and Aeris—you two go talk to that woman. Reina, stay here with me and talk to Talon.”
+
+He blinked. “Wait, me too?”
+
+“You have one of the rings,” Meriel said. “We’re not excluding anyone.”
+
+He groaned. “That’s fair…”
+
+We nodded and parted ways.
+
+The woman that Aeris and I flew to was a harpy. She gave us a strange look as we got closer, even trying to fly away, but Aeris hovered in her path, stopping her.
+
+“What’s the deal?” she asked, fidgeting. “The battle’s over, and I’m tired. Get outta my way.”
+
+“We can’t do that,” I said. “Because the battle isn’t over.”
+
+“What the hell are you even talking about? The monsters are gone and the angel controlling them is dead. How’s it not over?”
+
+She gave me a death stare. To be honest, I’d be upset too if I couldn’t leave and get some rest after a long battle.
+
+“Where were you before the battle?” Aeris asked.
+
+“What’s that gotta do with you?”
+
+“It would help us a lot if you tell us,” she said. “I understand that everyone’s on edge right now after everything that’s happened, but that’s all the more reason to cooperate.”
+
+Seeing that we wouldn’t budge, she eventually caved in.
+
+“I was at a tavern with some of my friends. We were just drinking some beers and relaxing. That’s all.”
+
+“A tavern?” I said. “What’s a Whale Isle’s soldier doing in a tavern?”
+
+“What, you think we’re supposed to be training during every hour of the day? We don’t get attacked very often, so there’s no need for our military to be as strict as some of the other cities.”
+
+Even if she said that, I recalled how quickly the army had formed after the monsters were first spotted. Maybe she was one of the soldiers that had come into the battle later than the rest.
+
+Either that, or she was lying.
+
+“I see,” I continued. “And what did you do after the horns sounded?”
+
+She crossed her arms. “I chugged all my beer and geared up. Nothin’ special there. Anyways, you’re pissing me the hell off. You’d better let me go now, or I’ll let you have it.”
+
+“No,” Aeris said. “Please stay here for a little longer. We won’t take long, I promise. That ring on your finger could be dangerous.”
+
+“Huh? Dangerous? How?”
+
+“Could you just wait here for a little bit?” I asked. “Just a few more minutes, please.”
+
+The woman looked like she was about to lash out at me.
+
+“...Fine.”
+
+Aeris and I moved away, whispering to each other.
+
+“What do you think?” I asked.
+
+“It’s hard to say, but I don’t think she’s Aurelius.”
+
+I scratched my head. “Yeah… I think so too. She was pretty fidgety at first, but I think it’s normal considering the battle we just fought. Not just that, but the way she talks and acts is nothing like Aurelius.”
+
+“Or maybe he’s just pretending.”
+
+“True, but it would be impressive as hell if he managed to act completely differently than before.”
+
+We turned toward Meriel and Reina, who were still questioning Talon. We flew close enough to hear what was happening, but not enough to interfere.
+
+“...And where were you before the battle?” Meriel asked.
+
+“Right beside all of you?” Talon said.
+
+“Be more specific.”
+
+“Uh… In the dungeon?”
+
+“More specific,” Meriel pressed. “Something that Aurelius wouldn’t know about.”
+
+Talon gave it a moment of thought before his eyes lit up. “Ah! During the day we first met, I took you, Allene, and Reina back to my house. The three of you had to sleep together in the same room and—”
+
+“Okay, that’s enough. You’re not him.”
+
+Talon threw his hands into the air. “That’s what I’ve been saying! Can we stop pretending I’m secretly Aurelius? If I were him, I would've picked a cooler body than a little harpy.”
+
+We looked up at Kaelor, who was still talking to the four other ring wielders. After he was done, he glanced at us, motioning to gather all of them in one place. The crowd had mostly cleared by now, so it was mainly just us and the other ring wielders floating in the sky.
+
+After gathering them together, they began to whisper among themselves, wondering what was going on. We floated nearby to hold a discussion of our own. Talon had been cleared, so he joined us.
+
+“None of the four I spoke with seemed suspicious,” Kaelor said. “But of course, he could just be playing a disguise. Actually, I take it back—I think all of them are suspicious.”
+
+“All of them? Really?” I said.
+
+He nodded. “It’s better to treat them as such anyway. We should still see all of them as suspects. Then again, there’s only five of them in front of us. We’re still missing the other four.”
+
+“What if he’s not hiding inside any of the people with rings?” Reina tried.
+
+“What do you mean?” Meriel asked.
+
+“Those rings only let him temporarily possess their bodies, right? But we’re just assuming he’s hiding in one of them. What if he just did a normal possession? Maybe he managed to dispel somebody’s soul and take their body that way.”
+
+“That doesn’t seem likely,” Kaelor said. “For him to dispel a soul, that soul must voluntarily relinquish itself. At least, that’s what Allene and I theorize after fighting him directly.”
+
+“Exactly,” I agreed. “And I don’t think anybody’s giving up their soul that easily.”
+
+“You’d be surprised,” Aeris said. “During the time I spent with him long ago, he told me all kinds of processes he put people through to get them to give up their bodies. Torture is one of them.”
+
+“Torture? How would he torture somebody in the middle of a battle?” Talon asked.
+
+“I’m not saying he did it during this battle in particular,” Aeris continued. “I’m just pointing out the lengths he’s willing to take to force a soul out of its body.”
+
+I crossed my arms. “Then that makes all of this sound unlikely, doesn’t it? I still think that assuming he’s taken a ring wielder’s body is our best bet.”
+
+“I agree,” Meriel said. “But then that makes me worried about the four ring wielders we haven’t spoken to yet. I think it’d be easier to find him if we had gathered them all in one place. They were too quick to leave, which makes them all the more suspicious.”
+
+“Then should we go look for them?” Reina asked.
+
+We all thought about it for a moment.
+
+“We have to track down the other four eventually,” Kaelor said.
+
+“But what if he’s one of the people before us?” Meriel asked. “Sending us away would be exactly what he wants.”
+
+I gritted my teeth. “He’s got us cornered. That’s why he did this in the first place. Now we have no clue where he even is.”
+
+We moved to the remaining ring wielders before us, inspecting them one by one. One man had a concussion from the battle. Another was far more nervous than the rest. In contrast, the angel beside him was awfully calm.
+
+Then, my eyes lit up.
+
+“Wait,” I began. “I think I know where he is.”
+
+They all looked at me.
+
+“The Soul Anchor Ring… it was still attached to Gabriel’s body as they were carrying him away, right?” I said. “If he abandoned Gabriel’s body, he’d be abandoning the Soul Anchor Ring too. He values that ring too much to leave it behind. There's no way he’d leave it unattended with so many people moving through the islands.”
+
+“You mean…?” Meriel said.
+
+“It’s more likely that he isn’t among the ones before us. He must be back at the islands with everyone else—more specifically, somewhere near Gabriel’s body. I think he’s one of the four who flew away.”

@@ -1,0 +1,127 @@
+---
+id: 544ad539-4482-55a1-9ae2-286974b7d190
+page-type-slug: story-chapter-royal-road
+title: "Ch76 Beast Mastery Peak"
+slug: 0076-ch76-beast-mastery-peak
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 76
+ownLength: 1910
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3544981/ch76-beast-mastery-peak"
+royalRoadId: "3544981"
+---
+
+More flying vessels soar overhead, dropping off teams at varying points on the peak from the base up to the middle. However, none fly higher than where we were dropped off.
+
+A few squads join us on the walk up the stone steps, and others fly on their spirit beasts to scale the mountain faster.
+
+We only have to walk up another kilometer or so before making it to a massive white palace resting on top of an enormous cliff ledge. The cliff beyond drops straight down at least 3 kilometers before there are any more of the mountain’s trees or green patches.
+
+It overlooks many smaller peaks and deep valleys that I spotted flying in on my way here.
+
+With only a mountain rock wall to its back side, and a clear view from the other, this fortress is well fortified and protected.
+
+There are large courtyards and facilities on the premises, and I spot dozens of green robed outer sect workers manning doors, and walking around following orders. Even the burst of hot dense qi that hits me once we approach is extremely stimulating. It feels similar to the density I experienced when cultivating over my own perfect grade Tier 1 vein.
+
+I don’t react, and just follow beside Wang Ming and Mantou, stepping into line where tons of squad captains, vice captains, and stewards congregate, still in their bloodied attire from war.
+
+Many of them have spirit beasts beside them, or even under them. The most common beast I see for the green robed outer court disciples is a white and blue feathered crane as a flying beast, and a strong grey furred wolf beast for ones that stand on land. Almost all of them are mid-stage qi refiners, with their own levels matching their beasts exactly.
+
+The majority of stewards do not have spirit beasts, but the few that do all have small initial stage red toads or tiny brown lizards on their shoulders.
+
+I keep my head down, and stay quiet while slowly moving forward in line.
+
+Many cultivators leaving the white palace politely bow to Wang Ming and Mantou respectfully, and others ignore him and scoff. It is a strange mix of deference and arrogant disrespect. At first it’s confusing, but the more I analyze it I find that the younger 4th and 5th level qi refiners all look up to him trying to curry favor.
+
+The 6th level cultivators with impressive gear and unique looking beasts, as well as all of the late stage qi refiners don’t bother to pay him any special treatment.
+
+At first I think it is just him, but the more I pay attention to others in this line, the same reactions play out.
+
+The weak curry to the strong and the strong ignore the weak.
+
+In the steward camps, almost everyone was old, similar strengths, and pretty much gave up on progressing in life. While bleak and unmotivating for some, it made for a slightly less competitive environment where many could become close without thinking about advantages or gains too much.
+
+The instant tone shift when walking into an Outer Sect peak is drastically noticeable.
+
+It brings up past memories of a life working at a marketing agency for over a decade, where my creativity and passion was crushed out of me. Even though I’m aware that I’m walking into this hornet’s nest where I know everyone wants to suck me dry of advantages, I can’t help but shiver with excitement.
+
+This time, I have a system, and a perspective from a world filled with fast paced attention grabbing influence that has trained me to think much differently than these cultivators. No one here understands people’s desires, true intentions, and the depths of depravity that greed leads people to quite like I do.
+
+By the time we get to the front of the line, I have to consciously hold back the grin from forming on my face.
+
+“Next! Step forward to see the Vice Peak Master!” an outer sect disciple calls, and we walk through the main courtyard, into the entrance hall of this palace.
+
+There are six more outer sect disciples, all at the 7th level of qi refining standing in front of the entrance hall door. Two walk in with us, then leave, shutting the door behind.
+
+A loud echoing click sounds out through the massive room.
+
+From the back wall where we stand, to a raised white marble platform at the other side, it is over 200 meters away. The ceiling is even higher, with white, yellow, and rose stained glass making up most of the ceiling to allow the sun to shine in.
+
+The qi in the air is even more dense than it was outside.
+
+I’ve never felt a vein so powerful to compare it to, but my instincts tell me there must be at least a tier 2 inferior grade vein beneath the center of this palace.
+
+A single tall man stands at the back of the room in a green robe with black and blue accents on the collars and sleeves.
+
+He appears young, in his early 20s, but from the subtle foundation establishment aura emanating off of him, and the same exact strength tier 2 aura coming off the dark grey wolf laying at his feet; I do not presume he is young.
+
+“Junior Wang Ming, Mantou, and a guest steward it appears. Please, approach, and present your tokens.” his confident voice remarks.
+
+As we walk forward, I take in the small pedestals holding unique looking artifacts, and paintings on the white marble walls anywhere from a meter to over 10 meters wide for some murals.
+
+The floor is glossy and warm, absorbing the sound of our footsteps, not allowing the pressure to disturb the ambience of the hall.
+
+[Automatic Inspect Function Activated…][Kang Yelang] [Age: 99][1st Level Foundation Establishment][Metal and Earth Spiritual Roots][6th Grade][Acquired Beast Master Physique][Perfected Stage - Mortal Grade][No Innate Physique][Son of the current peak master. Suffering from the backlash of a minor soul fracture that occurred while in battle with an Illusory Phantom a month ago at the start of this war. Is secretly self conscious about the fact he could not help in the final push of this war.]
+
+We stop before him and I take in the data while politely bowing and clasping my hands, then presenting my steward’s token.
+
+Wang Ming does the same, and a warm burst of white qi pulls the two tokens out of our hands from a distance.
+
+They’re tapped against a jade tablet, and Kang Yelang nods while sifting through a storage ring.
+
+“During the time you returned, the war has come to its final moments. There was a collection of maps found that pointed out the Blood Sword Sect’s main strongholds, and Miss Qin was able to push their forces back as the main force in our front line. It appears the enemy is making for a full retreat back out of the undeveloped wilderness. The Blood Sword Sect has not chosen to escalate the dispute past the foundation establishment realm.”
+
+Kang Yelang looks up at Wang Ming, “I heard your grandfather was of great help on the front line, and was rewarded handsomely by the sect. He only suffered a few minor injuries that should heal up before the year is over.”
+
+Wang Ming smiles and bows, “Senior Kang, thank you for the inside information. That is good to hear.”
+
+He chuckles, “You would have found out sooner or later, it is not much trouble to share. He did train me quite a bit when I was younger when my father was off on missions of his own.”
+
+Kang Yelang tosses Wang Ming his identity token back, and next to it a small black pin with a carving of a mountain on it.
+
+“Your 89 contribution points have been added to your running counter, and the higher ups at the War Hall issued a custom medal for the few of you that survived that Black Iron Mountain Expedition. Good work.”
+
+Wang Ming catches the items and bows, then both of their attentions shift toward me.
+
+Kang Yelang tosses me two pins. One is the same Black Iron Mountain pin, while the other is bronze, with three small white stars on it.
+
+“A steward that survived the Black Iron Mountain raid, and with over 300 confirmed kills during this war. The sect has issued custom valor pins for those that surpass certain kill counts. I’ve only handed this out to one other person today, and it was a late stage squad leader.”
+
+His sharp gaze digs into me with curiosity, “A Martial Elite? I haven’t seen one of those without a grey beard in decades… I didn’t know it was possible to train such a physique at only 16…” he smiles and turns to Wang Ming.
+
+“I presume you have something to ask of me, bringing in a foreign steward from the Alchemy Peak into this hall.”
+
+“Indeed, I do. Senior Kang, this fellow cultivator was of great help to me during the war, and I believe granting him a position as an Outer Sect Disciple would be a fitting reward. He wishes to live a peaceful life out of the public eye, and have access to the Red Pine Market at will. I hope to bring him out to Lingshi City occasionally too.”
+
+I pull out my sleeping flame toad, and plop him on my shoulder to show that I do have a spirit beast.
+
+However, the hall falls silent for a few seconds.
+
+“A level 2 qi refiner should not be permitted into the Outer Sect normally… Even with that flame toad, and the help of a physique, it will take you at least 20 years to challenge the 4th level of qi refining. At most he should have a premium steward position at your private estate. However, if you take full responsibility for his quotas, I will permit it. We have lost many of our spirit farmers due to mandatory drafts, and cannot leave the fields empty. It is a job that most disciples hoping to work directly with spirit beasts try to avoid. Though, it will get you an official outer sect position.”
+
+“That will work. I can accept his quota responsibility. Thank you Vice peak master.” Wang Ming bows as the man taps on a jade tablet a few times, then pulls out three identical sets of outer sect green robes, a green identity token, a small brown booklet, a small white talisman, a medium quality storage ring, and ten spirit stones out of his own ring.
+
+They’re all tossed down to me.
+
+“Your 160 remaining war contribution points have been transferred and can be used at the Beast Mastery Quest Hall down the mountain at your leisure. Imprint this identity token, and wait a moment please.”
+
+Senior Kang taps his tablet a few times, and one of the doors of the back hall opens up.
+
+I look down at the smooth green token labeled with the “Outer Disciple” characters, and push a pulse of my aura inside.
+
+The sound of fluttering wings hits my ears as a white crane with blue accents on some of its feathers comes out from a courtyard behind this meeting hall.
+
+Simultaneously, a flash of golden text fills my vision.
+
+[Ding!][Congratulations! Main Quest Complete: Officially join the Azure Cloud Sect by becoming an Outer Disciple.][Collect Your Rewards!][YES][NO]

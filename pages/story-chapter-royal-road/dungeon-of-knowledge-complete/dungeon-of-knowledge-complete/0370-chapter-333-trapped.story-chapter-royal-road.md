@@ -1,0 +1,109 @@
+---
+id: 43f23a9d-64b2-5492-8eda-a7e3a89151b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 333: Trapped"
+slug: 0370-chapter-333-trapped
+partOf: dungeon-of-knowledge-complete
+position: 370
+ownLength: 1970
+unit: words
+ownProgress: 1970
+publishedAt: 2025-08-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2486533/chapter-333-trapped"
+royalRoadId: "2486533"
+markedReadAt: "2026-06-29T20:23:08.884Z"
+---
+
+Ali struggled in vain. She twisted and thrashed, wrestling against the insubstantial wisps of mana that bound her essence to the Spirit Realm while her body was drawn inexorably back toward the mortal realm. She hung there, suspended halfway between realms, desperately holding herself together with nothing more than her will while immense forces tried to separate her from her spirit like the Blind Lich’s Sacrifice.
+
+In the eerily colorless, silent world of the Spirit Realm, runes flickered in complex formations, an impossible display of incongruous color and magic far more intricate even than Nevyn Eld’s dungeon array. Whatever this was, it shouldn’t have been here.
+
+In the mortal realm, her body hung encased within her barrier. All that remained of the terrifying Heroes of the Crimson Blade were their bloody, mangled corpses and the puddles of dark gray that stained the worn flagstones like beacons proclaiming her violence. Ali’s stomach heaved in disgust, more than a little grateful that her situation prevented her from seeing the remains in color. As awful as they were, they had still been living beings – people. Her desperate last stand against the murderous greed and avarice of the platinum-ranked adventurers had exceeded even her wildest imaginings – Tol’brekk had crushed the party in moments. But, even in self-defense, their deaths weighed heavily on her conscience. She had chosen not to run. Even though it was the right decision – and she would make the same choice a thousand times – she had purposely precipitated the confrontation here, seeking the best advantage, and she had killed them.
+
+Always, it’s the dungeon thing. She couldn’t fathom the hate and disregard for her from random strangers simply because of the nature of her class. Sure, she could rationally grasp what was going on; people were raised believing dungeons were these terrible monsters that lived only to consume. But she had faced them civilly. Stood up to them and asked them to leave – how could they so easily ignore the fact that she was demonstrably, obviously a person and not a monster?
+
+Was it their greed that made them monsters? As she struggled with the entrapment, her mind replayed the anger and twisted scowl in the eyes of the shadow assassin Beltz, who, even with his entire party destroyed, had still single-mindedly assaulted her barrier, hungry to bury his daggers in her flesh. He had thrown his own life away in the process, and Ali couldn’t even begin to understand why. It was the kind of zealotry and fanaticism reserved for those drowning in a cult.
+
+But now, she found herself caught in an incomprehensible web of magic – Sage of Learning and Runic Script were struggling to interpret its intricate enormity. Just about the only thing she knew for certain was that the construct was crafted with space-affinity magic.
+
+It has to be a coincidence. None of the Heroes of the Crimson Blade had space-affinity mana, and the formation was still active and restricted to the Spirit Realm, even though all of them were dead. Unless she had missed a Crimson Blade, it had nothing to do with them.
+
+Think, Ali! Somehow, she was trapped halfway between realms, still present enough in the normal world to have been vulnerable to Beltz’s fury, and able to physically move, albeit as if stuck in a web. If only she was in the real world, dismantling this trap would have been simply a matter of time, but this deep in the spirit realm, everything other than the entangling magic was gray, and her mana did nothing. From the heart of the wispy, white runic trap, she unearthed an uneasy sense of ages – a trap laid long ago and left waiting patiently for prey. Had it not been for the fact that it was a construct of pure mana, tucked away in the spirit realm, Ali would have expected to see it covered in dust.
+
+In a flash of inspiration, she reached for her storage and the almost-forgotten Fried Ghost Mushrooms Mato had made, but her ring was inaccessible to her, somehow nullified by the unusual spell.
+
+Suddenly, a disembodied voice reached her, echoing as if coming from all around. “Cael, I think your net has caught a fish.”
+
+Ali startled at the sound, twisting to look in all directions, but nobody appeared.
+
+“Oh my, I believe you’re right, Gage,” another voice spoke, also male, and also speaking in the familiar ancient language of Ali’s Dal’mohran home.
+
+The binding wisps of white solidified as the runic construct flared with dense energy. The gray world around Ali vanished abruptly and she suddenly found herself in a strangely sterile room, constructed entirely from pristine white stone that appeared to be some unusual type of mana-infused marble. Strange crystals grew on the walls, white and sparkling, flush with the same space-affinity mana that had brought her here.
+
+Towering in the center of the room was something that could only be described as a bizarre cross between a crystal growth and a tree, its branches seemingly made from pure arcanite. At least, she guessed that’s what it was from the arcane-affinity mana that poured from it in waves.
+
+The same golden arcane magic as her own mana.
+
+Ali stared at it as the mana prickled against her skin. What does it mean? How could this possibly…
+
+“Oh, Gage?” the voice called Cael asked.
+
+“Yes, brother?” he answered.
+
+“What is a fish?” Cael asked. “I don’t quite remember now…” the voice trailed off echoing in the distance, strangely wistful.
+
+“I don’t remember either,” Gage answered. “But it creeps me out; I think we should kill it.”
+
+The simple, matter-of-fact delivery of her intended murder took Ali’s breath away. Twice in one day. Too much. Instinctively, she reached for her Grimoire, but it failed to appear. She reached for her Barrier skill but found it also out of reach – tantalizingly close, but impossibly far. Beginning to panic, she searched for anything she could use, starting with the strange golden, crystalline tree, but even Identify failed.
+
+“Why so hasty, Gage?” Cael asked. “She is the first one we have caught in so long. Can’t we play with her first?”
+
+Mana. Ali could see mana. So not everything is blocked. Sage of Learning had been operating on the strange mana construct before it had whisked her away to wherever this was, and if she concentrated, she could still sense the presence of her minions. The direction was indistinct and impossible to determine as if searching for something in a dark, murky pool, but they were certainly there – even the monsters she had made to help the guild. She just couldn’t tell where she was. She grasped for the connection and fed her mana to Minion Teleport. Her skill failed as if it had been Disrupted, and her mana felt crystalline and brittle instead of fluid and energizing.
+
+How do I get them to find me? If she only had an unbound witch doctor, Ali could explore the spirit realm around Tol’brekk for clues, but the Heroes of the Crimson Blade had wiped out nearly every minion on their rampage through her dungeon. All she had left were the bosses she had bound to the Emberforge Mines. With her use of Arcane Recall to reset her respawn recharge, everything that was bound to her domain had respawned, but she would need a free minion to explore, and all her trolls had been wiped out in the library, buying her the time she had needed to summon Tol’brekk.
+
+Her awareness was unaffected – still split, fighting four separate raid encounters with the guild. It was fortunate indeed that her current predicament somehow hadn’t interfered with her ability to heal and direct her minions, or else someone in the raids could easily have died. She reached out to a kobold rogue in the middle of a fight and activated her long-range Minion Teleport, but again, her skill felt empty as if it were blocked from her. It feels just like being out of mana? The sensation was so clear that she even checked, but her mana pool was nearly full.
+
+“I don’t like it,” Gage said. “It looks suspicious. We should kill it first and then play.”
+
+“It won’t play back if it’s dead, remember?” Cael said.
+
+It? I’m an it? Something was very off about these two; Ali didn’t know if they were fully sane and just messing with her, but either way, the implications were terrifying. All around her, the mana flowed in complex patterns, weaving together threads of arcane and space, forming something that she suddenly recognized as a domain.
+
+“Is this a dungeon?” Ali asked tentatively, unsure if interrupting the two beings debating her murder was strictly smart, or monumentally stupid.
+
+“It speaks!” Cael answered cheerfully. “Of course. You are in our dungeon, the Infinite Maze. We’re going to play some games. Very fun games.”
+
+“And… if I don’t want to play?” Ali asked, easily guessing the answer.
+
+“Then, you die,” Gage said. “If you lose the games, you also die.”
+
+I don’t like him, Ali decided. Gage was definitely unhinged; clearly preferring that she die immediately over any other option.
+
+Finding herself no longer bound, Ali sat up and carefully looked around. At the far end of the mostly featureless white chamber, she saw something that took her breath away.
+
+That’s… a Gate!
+
+The perfect ring of white crystal hung suspended vertically above the ground, almost four meters in diameter. Its polished translucent surface bore thousands of glowing runic inscriptions, pulsing with enormous quantities of space-affinity mana drawn directly from the domain. Instead of the wall behind it, Ali could see through it to somewhere else as if peering through a window. The surface of the air that was bounded by the Gate rippled and shimmered like looking into a clear pool of water. Ali’s heart thumped at the sight of such an extraordinarily rare spell – one that took incredible amounts of power just to keep running. At least, according to what she had read. She had never in her life seen one – the closest thing she had encountered to this construct was the rift to the abyssal realm – but this was no natural rip in the fabric of space.
+
+While she was still in grave danger, vulnerable without access to her defensive magic, Ali scrambled to her feet and crossed the featureless white floor in a flash, her footsteps echoing strangely in the unnatural room, till she stood before the extraordinary artifact. Even the runes were strange – familiar in some ways, but a little like reading an ancient text in a language that had drifted over many centuries till the words were close but still foreign. She studied it carefully, grateful that whatever was blocking her magic hadn’t prevented her Runic Script from helping her to understand it.
+
+“Eager to proceed?” Cael asked. “Through the Gate, you can access the first challenge.”
+
+“I need to get home,” Ali answered, looking about for any sign of where the voices might be coming from. “My friends will be worried about me.”
+
+“You don’t get to go home,” Cael said gently. “Not until you finish our ten challenges.”
+
+“Ever,” Gage cut in. “I don’t trust her, Cael. Can’t you just teleport her into the maze right now?”
+
+“No,” Cael said. “Remember the rules, Gage. We agreed to the rules.”
+
+“Ok,” Gage said, clearly upset about doing something extremely burdensome and against his will. “But after she fails, can we kill her?”
+
+“Of course,” Cael said. “When she fails, we’ll kill her together.”
+
+All the charm of a pair of madmen, Ali told herself. Sorry, but this ‘little one’ isn’t going down without a fight – a big fight.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

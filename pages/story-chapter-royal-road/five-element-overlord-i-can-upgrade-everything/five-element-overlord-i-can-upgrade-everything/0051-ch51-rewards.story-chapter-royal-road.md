@@ -1,0 +1,119 @@
+---
+id: 4f9f9806-08e8-5462-9931-bbc200adc5e6
+page-type-slug: story-chapter-royal-road
+title: "Ch51 Rewards"
+slug: 0051-ch51-rewards
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 51
+ownLength: 1508
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3384305/ch51-rewards"
+royalRoadId: "3384305"
+---
+
+I continue to cultivate diligently for quite a long time after breaking through my bottleneck, as my dantian still feels unstable with all of the excess qi flooding in. When I finally open my eyes, not only do I see the visible swirling gaseous qi in the air that has built up to an absurd degree, I also see a dozen notifications flashing in my vision.
+
+The first 10 are the backlog of daily check-in rewards, all granting me 3 bronze upgrade cards. The 11th window is another daily check-in alert, but it is for 4 cards.
+
+I accept them all and swipe to the last window.
+
+[Ding!][Congratulations! Side Quest Complete: Reach the 4th Level of Qi Refinement, becoming a mid-level qi refiner.][Collect Your Rewards!][YES][NO]
+
+I accept again, finally taking in my surroundings a bit more.
+
+My spiritual senses have grown out to 25 meters, almost reaching the edges of this main cave’s room.
+
+Yet, the potent impurities pooled up on the floor give off a violent enough scent that my normal senses are enough to grasp the situation.
+
+My dantian has grown larger once again and has far more room to store raw qi.
+
+I feel like all of the restraints have shattered off of me, no longer limiting my growth.
+
+My muscles feel more powerful, my bones denser, my skin harder, and even my blood feels thicker and more potent. Everything about me has shifted into something newer and stronger. The gap between an initial stage qi refiner and mid stage is even wider than I thought.
+
+[Ding!][Rewards have been deposited into your storage!][x3 Perfect 1st Tier Upgrade Card][x1 Minor Lottery Draw]
+
+Three more cards drop into my storage, making 37 in total float beside a new red and black die.
+
+Instead of instantly rolling it again, I close my eyes and cycle my Jade Purity Soul Scripture again. The denser clouds of qi in the air slowly seep into my meridians that were forcefully cleansed again.
+
+They’re all still open quite wide compared to their natural state, still stimulated from the pills and fruits.
+
+I stabilize my realm, but something still doesn't feel right.
+
+My soul feels even more robust, and I feel it resonating with something nearby.
+
+Images of my breakthrough replay in my mind, and I realize some of these visions are not my own. In the moment where I pushed through and shattered the abyss despite not having the spiritual root talent to do so, I witnessed the mental darkness crack like an eggshell.
+
+Yet, when recalling this memory, it’s like I was watching the abyss through another pair of eyes that were not my own.
+
+All of a sudden, a light hopping sound echoes through the cave, coming from the only entrance to this main room. When I turn my head to see what it is, a fine thread tugs at my soul, and text lights up in my vision.
+
+[Automatic Inspect Function Activated…][Unnamed Flame Toad] [Age: 0][1st Level Qi Refiner][Mutated Fire Spiritual Root][Special Grade][Acquired Black Lotus Flame Physique][Perfected Stage - Spirit Grade][Dormant Innate Physique][Holds a trace of the Primordial Flame Swallowing Toad’s Bloodline. Has a partially awakened Innate talent for assimilating Unique Flame Fragments, nurturing them into True Flames and their associated Acquired Physiques.]
+
+A small dark red toad, no larger than my fist, lazily hops down the hall, into the main room, and down into the cultivation pit with swirling qi still surrounding me.
+
+It lets out a low croak, then stares up at me with a bored expression.
+
+My mouth is left wide open as I stare into its semi-intelligent eyes.
+
+The heavenly soul contract is almost visible to me; it feels like a warm light vibrating and shimmering between us. I have full control over it, as though it would be as easy as taking a breath to dissolve the contract. Yet, it feels comforting, almost like a sweet taste in my mouth that I don’t want to let go of.
+
+The toad hops up in the air in my moment of astonishment, landing on top of my head.
+
+It lets out another low croak, then closes its eyes and falls asleep within seconds.
+
+I slowly close my mouth and grab the toad off my head to hold it up in front of me.
+
+It takes a few seconds for it to lazily open its eyes and even yawn before giving a short, annoyed croak in response.
+
+“Hey! Maybe a thank you? If it wasn't for that flame fragment you might have never woken up.”
+
+It looks at me with an even more exasperated expression, letting out a snarky croak.
+
+I don’t know how, but the small thread connecting our souls trembles, and I understand its meaning in a simple sense. It just insinuated that I should be thanking it instead, because with my 9th grade roots I wouldn’t have possibly broken through without it.
+
+The toad wriggles its way out of my grip and jumps forward, landing on my shoulder instead of my head this time.
+
+Its eyes quickly shut, and it nods off like this is an unimportant interaction.
+
+I’m left in silence for a few seconds, then let out a laugh of disbelief that echoes through the cave.
+
+“You know what, maybe you’re right. I wasn’t planning on keeping any of these flame toads… but if you were able to break my 4th level bottleneck from reaching level 1, maybe you can help me later too…”
+
+I gently scratch its head. “I’ll call you Little Red.”
+
+It lets out a light snort of acceptance, and I let out a sigh, pulling the twenty-sided die from my storage next.
+
+‘System, I was wrong to think you didn't have my best interest in mind. That flame fragment truly was the best item I could have asked for. Now it’s up to you, what do I need most?’
+
+I call out into the system’s void and watch the die roll to a stop.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Dark Night Concealment Cloak][2nd Tier Defensive Item]
+
+A thin silky black cloak materializes in my storage, and I pull it out into my hands to imprint.
+
+[Ding!][Dark Night Concealment Cloak has bound to the Host!][Passive Ability: Conceals the aura of the wearer from any cultivators within the Qi Refining Realm; the wielder will appear as a mortal. At night, the wearer becomes as dark as the shadows, evading physical senses to a higher than normal degree.][Active Ability: 10 Uses, Non-Rechargeable. This cloak has a defensive mechanism that activates upon being struck by an attack above the wearer’s level. It can withstand a single strike from an initial stage Foundation Establishment cultivator with each use, and reflect their attack back with equal force.]
+
+“Not bad…” I murmur, sliding it on and feeling an elusive aura slip over my own.
+
+When this cloak slides onto me, over my steward’s robes, I can tell that none of my pressure is leaking out; yet my spiritual senses are undisturbed. My 4th level of qi refinement strength and qi control are not limited at all…
+
+I may have no control over the level I present to the outside, so it cannot be used in face-to-face confrontations where I have to outwardly present a certain level using my Illusory Demon’s Concealment Art. However, using this cloak for stealth in a life and death conflict, it will take a mental burden off me from having to suppress my own aura.
+
+A low croak comes from my side as Little Red wiggles his way beneath the silky fabric near my head and completely hides himself and his aura too.
+
+I shift the settings on the array control disk back to refining the natural qi releases in this vein to spirit stones and slowly make my way up the layers of this cave. Once outside, I’m slightly relieved that it’s nighttime.
+
+The shadows of every tree, boulder, and even bush meld with my new cloak. It is just as the description says, blurring my presence to the untrained eye wherever I step.
+
+At first I find it mildly intriguing, but once I start to hear whispers in the Ravine and even pick up on a mid-level qi refiner’s system scan, my playful tests turn to real focus.
+
+It is not just one cultivator.
+
+As I make my way up to the top of the Ravine, I pass by half a dozen, all of whom are wearing green outer sect robes.
+
+When I slip through the woods past the familiar servant routes, I see outer sect members patrolling, and even an occasional Law Enforcement Officer checking in and verifying identities.
+
+My mind starts to spin, trying to figure out what happened… Maybe there was another Blood Sword Sect attack, or there could have been another phenomenon like Xu Hong’s awakening that has the sect searching for its origin. I’ve been away for 11 days, and I only applied for 5 days of leave. If it’s something serious, I’ll need to come up with an extremely good excuse for my absence.

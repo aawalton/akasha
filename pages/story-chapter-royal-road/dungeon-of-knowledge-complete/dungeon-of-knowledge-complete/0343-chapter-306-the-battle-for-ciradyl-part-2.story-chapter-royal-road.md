@@ -1,0 +1,209 @@
+---
+id: 16ade411-931e-575d-adb4-668478d0992c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 306: The Battle for Ciradyl (Part 2)"
+slug: 0343-chapter-306-the-battle-for-ciradyl-part-2
+partOf: dungeon-of-knowledge-complete
+position: 343
+ownLength: 3810
+unit: words
+ownProgress: 3810
+publishedAt: 2025-07-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2424184/chapter-306-the-battle-for-ciradyl-part-2"
+royalRoadId: "2424184"
+markedReadAt: "2026-06-29T20:22:10.791Z"
+---
+
+Malika hit the apex of her leap and came down on the wraith with a rapid sequence of punches. Her fists passed right through the glowing diaphanous wisps of its body, but her Soul Strike triggered shockwaves of force that shot right through the monster, ripping glowing ectoplasmic spirit essence out of its back in vortices and streaming trails.
+
+The undead spirit howled and rounded on her; the cowering elves forgotten. Malika kicked it through the head, releasing the energy of her soul mana halfway in and the monster expired, all its substance draining out in a rush like a slashed wineskin.
+
+Range is very good, Malika thought, reflecting on the surprising effects of her evolution – effects that would take far more than a single unexpected battle to fully master and incorporate. The three-foot base range granted to Healing Mantra and Soul Strike by The Diamond Edge of the Soul had grown to an almost seven-foot range due to the level her skills were currently at. This meant that she could punch clean through these banshees and ghosts, always hitting with the full force of her enhanced soul magic.
+
+As she studied the glowing remnants of the wraith dissipating, she pulsed her Healing Mantra through herself until she was topped up and then she pulsed some more, pushing the excess mana into the rippling wave that burst out of her and into the surrounding area. It was the now nearly forty-foot range on the area overheal that was making her task so much easier – she was granting Touch of Clarity to everyone near her without even needing to miss a punch during her fight – all she had to do was keep pulsing her heal through herself when she was at full health. On the forest floor below her, cowering elves recovered their wits and scrambled to their feet, their shaky gazes in ashen faces struggling to comprehend the calamity.
+
+“That way, head to the glowing tree,” Malika shouted, giving the disoriented and confused victims a direction. But, as her gaze swept across the dying remains of Ciradyl, she saw hundreds, perhaps thousands of people still in dire peril, about to succumb to the corruption and flying undead.
+
+Suddenly, a hum and the distinct buzzing crackle of mana caught her attention, and she turned just in time to block an intense beam of arcane magic that had been aimed at the back of her head.
+
+“Shit, what is that?” she yelped, staring at four gleaming purple cubes the size of small carts spinning about in the air. Sparks of arcane energy arced between the edges of the cubes whenever they passed by one another, filling the surroundings with the powerful stench of ozone.
+
+“Galdrone Tetrad. Elemental dungeon spawn,” Calen said, his bow already glowing. “Level one twenty.”
+
+“None of these elves can handle something like this,” Malika said. These were crafters, city folk. The combat-capable Pathfinders were already running ragged.
+
+“We need to kill it,” Calen agreed.
+
+The cubes paused their frenetic tumbling as the powerful humming rose to a crescendo and a dense beam of coruscant purple as thick as her wrist shot out. Malika tilted her head sideways and raised her guard, wincing at the bruising crack on her forearm as her uncanny blocking skill allowed her to deflect a beam of pure energy.
+
+Healing her arm and allowing the excess to spill outward and keep the Elves moving, Malika fed more stamina to Divine Step and launched herself at the glittering arcane elemental. She punched it on arrival, feeling the satisfying crack of her knuckles against something corporeal for a change, and unleashed her Soul Strike to blast through the monster. But her stamina barely budged.
+
+She dodged, narrowly avoiding a cascading four-way arcane blast of surprising potency, and pushed her speed further, burning more of her stamina to unleash her barrage. Still, her stamina remained full.
+
+“Hey, Calen,” she called out. “How long have we been fighting?”
+
+“Huh?” Calen said. “Since the Lich showed up? Almost an hour.”
+
+“Oh,” was all she said. That’s longer than I thought. I so need to get used to my new abilities. I’m being inefficient. Her stamina costs were being reduced to less than twenty percent of normal after almost an hour of continuous fighting – it was a nice little side benefit of advancing Second Wind, and one she was so familiar with she barely noticed it anymore. A three percent reduction per minute only really mattered in longer fights.
+
+But Relentless got upgraded. She glanced at her aptitude, refreshing her memory.
+
+Relentless (Class): You can pay for any abilities with stamina instead of mana. Whenever you spend or reserve stamina, you can spend more to increase the effect.
+
+It doesn’t say it just helps my active abilities. With a glance she verified that her reservations were all drastically reduced, leaving her with an enormous pool. Surely I can… Taking a deep breath, she shoved stamina into her Perfect Body skill. It resisted briefly, but suddenly the reservation swelled with excess stamina as her skill accepted her energy. Blue-white rune-like glyphs lit up briefly all across her skin, making her body burn with power as her stamina flooded in and overcharged her skill. She accelerated.
+
+“Holy shit, what is that?” Calen exclaimed.
+
+“Relentless,” Malika said, grinning as she saw just how much her attributes had jumped. With a thought, she forced Enlightened Evasion and Soul Armor to take more of her stamina, dialing them up to their original reservation percentages. Fresh lightness and toughness coursed through her being like a heady elixir.
+
+Oh, this is going to be good, she thought, diving back into the fight with her vastly increased attributes, improved damage reduction, and avoidance. When she struck, she forced the normal amount of stamina into all her skills, making them accept her desire to push them past their limits. And the effect was incredible. Her body moved with impossible speed, and she struck with incredible power, and through it all, she felt the vibration of energy that thrummed through her slowly growing even stronger.
+
+By the time the two of them killed the elemental, she was grinning fiercely with exhilaration at the glimpse of what her evolved class might be capable of if she chose to push it.
+
+"Watch out, incoming," Calen said, snapping her out of her celebration.
+
+Rising from the corrupted Well of Souls, she saw several glowing purple elementals, all larger than the one they had just defeated, and, like a dark wailing cloak, a wing of banshees fluttered and swooped along behind them.
+
+Beyond that, all Malika could see was a scene of extreme devastation. Massive craters littered the previously idyllic forest while a full-on magical battle raged between Nathaniel’s wraith and the two flying Elven Pathfinders. She caught sight of several of what must be Ali’s trolls. A half-dozen of the immense Ciradyl trees had fallen, dashing great swathes of the arboreal Elven city to the ground. Dozens of groups of elves had formed and were defending the last stand of the stricken city in Mato’s aura or ranging out like them to rescue the fallen and guide them to safety. And through it all, the corruption slowly seeped, turning the very ground to foul blackness and raising the corpses of elves in its wake.
+
+“Let’s get back and help,” she said. “I don’t see any more elves around here.”
+
+“Right,” Calen said. “That way, I see someone struggling under those branches.”
+
+She could hardly bear to see the anguish underlying the flames of battle in his eyes. This was yet another terrible blow. How could they hope to survive?
+
+Ali’s mind was aflame. She struggled to outwit Nathaniel Sunstrider and Nevyn Eld in a battle of wits against two mages who were both immeasurably stronger and more experienced than herself. And she was doing it while trying to summon Ice Mages and avoid dying to arcane blasts and bolts from the giant raid bosses that Nathaniel kept summoning.
+
+Her first lesson had come when she had watched Nevyn Eld Sacrifice a terrified Elf that had been crawling toward the safety of Mato’s aura. Ali had tossed a barrier in front of her, but she had not realized that the banshee’s fear or Nevyn’s dread aura would incapacitate someone enough for Sacrifice to work. She shuddered. The sounds of the Elf’s soul-rending screams would haunt Ali for a long time.
+
+From that point on, every time she recognized Nevyn Eld’s Sacrifice skill, she Disrupted it. But of course, Nathaniel Sunstrider learned to disrupt her disruption, which had lost yet another Elven victim to power the Lich. What was worse was that every time he gained power, the Blind Lich poured it into the Well of Souls, and the deathly corruption grew. So, she had to learn to fake her magic, stutter-cast, or cancel and recast, never using the same pattern twice. Whenever Nathaniel recreated his barrier dome, she had to dismantle it so that the elves could keep the pressure on.
+
+She sighed in audible relief as her Grimoire completed summoning another Ice Mage. They had lost the tree with the teleportation locus ages ago, cutting Ali off from the remainder of her monsters, and now she was forced to attempt to summon them between disruptions – a most challenging endeavor.
+
+“Banshee,” she commanded, redirecting her Ice Mages to the incoming undead spirit. It was fortunate that most of the arcane elementals Nathaniel summoned immediately flew off somewhere else, although she knew that would undoubtedly come back to bite them. According to the far-sighted flying elves, they were being used to establish a perimeter of raid bosses encircling the Well of Souls.
+
+Ali glanced back, taking in the sight of groups of bow-wielding Pathfinders zipping in and out, scouring the disaster for signs of the living.
+
+“Kill the zombies,” she said. Tol’brekk led the Troll charge, taking the fight to the incoming wave of zombies, but an enormous Ciradyl tree collapsed, crushing several of her trolls along with the zombies in a huge splintering crash. She instantly switched her intelligence boost from the crushed Ice Mage under the tree to Mok’freja back home in the rift chamber.
+
+“They’re trapped!” someone yelled.
+
+It was the sound of screaming and wailing from beyond the massive trunk that alerted Ali to the fact that fleeing elves were now trapped on the other side, unable to reach the safety of her teleportation circle. Desperately hoping that Nevyn Eld didn’t sacrifice someone else while she was busy, she teleported over and placed a hand on the giant tree to deconstruct it. It was not the first time either, and she was desperately grateful that none of those falling giants uprooted or shattered by the elementals or the elves’ powerful arrows had crushed her or Mato.
+
+“It made another raid boss back there,” Lyeneru said.
+
+“We’ll take care of it,” a Pathfinder Elf said.
+
+“Lyeneru, we are losing,” Nendir said.
+
+Ali finished her deconstruction just in time to disrupt the next sacrifice. It was the only magic she could interfere with – Nathaniel with his amplified Runic Script never cast the same spell twice – and his repertoire was as powerful as it was large. It was only the supreme efforts of Nendir and Lyeneru that kept them from being instantly wiped out. But Nendir was right. Beyond the black upwelling of corruption from the well, what had once been the beautiful and idyllic city of Ciradyl was now a devastated landscape of pockmarked craters filled with circling undead and glowing arcane elementals. Shining purple crystals covered the ground as far as her eye could see, spreading the dark domain in all directions except through Mato’s aura and her barriers.
+
+“We need to leave,” Lyeneru said, making the executive decision. “Get everyone that remains out of here and then we must make our escape.”
+
+“This is the last,” Calen said, flying in as the stragglers ran across the ground with Malika assisting them against the fear.
+
+“The last?” Lyeneru asked, raising an eyebrow.
+
+“The last we can reach,” Calen corrected with a grimace. “Many fled into the surrounding hills and mountains. We cannot get past the southern reaches of the city, there are too many elementals now.”
+
+“Get them to the circle,” Lyeneru ordered, her voice cracking like a whip. “Get them out of here. Now!”
+
+“Some of us can still fight,” an Elf said, part of the group of defiant Pathfinders that was loosing arrows and magic from within Mato’s Consecration.
+
+Ali surveyed the dirty, haunted faces of hundreds of Elves dressed in Pathfinder robes. She saw defeat in their eyes – a hollowness that could not be filled.
+
+“This battle is lost, Pathfinder,” Lyeneru said, her eyes hard and her mouth pressed into a firm line. “Escape, and we will regroup to fight another day.”
+
+“Yes, Commander,” the Elf said, instantly recognizing Lyeneru’s authority on the battlefield.
+
+But as Lyeneru was organizing the retreat, Nathaniel cast something new. From his outstretched fingers, a strange elemental emerged, bounding over the barrier and up into the air. Purple and black chains lashed around, wrapping about Lyeneru’s form and grappling her to the ground. In her prime, there was no way she would have been caught like that, but even Ali could tell she was not at her best. In the distance, an immense detonation sounded followed by the drawn-out sound of a splintering crash.
+
+“Watch out!” Ali screamed, as a falling Ciradyl tree cast a dark, looming shadow across the ground. Ali cast a barrier in its path, teleporting herself out of the way, but the giant tree smashed through the barrier as if it were an illusion, crushing Lyeneru, many elves, and trolls under its enormous bulk, blocking the rest from their escape.
+
+“Get them out!” Nendir yelled, bursting into an intense flare of energy which was echoed shortly after by Calen’s Righteous Fury.
+
+“Bloodlust,” Ali shouted, not that there were many melee fighters to boost, but the benefits would hopefully be enough. While the blood runes circled and they went all out, Ali shot over to the fallen tree, reaching out to deconstruct it. Thankfully, she was still on the lookout and noticed the formation of Sacrifice at the last possible moment. In that instant, she caught the scent of Lyeneru’s powerful blood and realized that while she was crushed beneath the tree, she was only unconscious – and the Blind Lich’s magic sought her.
+
+Ali switched spells to Disruption. It took every speck of her willpower to cancel it before it completed, recasting it immediately after, but in that instant, she saw Nathaniel’s Disruption and she knew she had successfully faked him out. Her second hurdle was cleared the moment her disruption successfully broke the Sacrifice death magic. Her heart crawled back up out of her belly and resumed beating – and only then, did she deconstruct the massive tree while Malika stood by, pulsing waves of healing out through everything.
+
+The tree evaporated, and the remaining elves rushed through, vanishing in twos and threes as they reached the runic circle.
+
+“I see the Telim Gor delegation,” Calen said, pointing to where several trolls were pinned down by some flying undead and an arcane elemental. Whatever they were doing, it pulsed with intense ice mana.
+
+“I will get them,” Nendir said. “You and your friends evacuate the rest and get Lyeneru to safety.”
+
+“Mato, come,” Calen said, and the huge oak twisted. The holy fire flickered out and the grasping roots vanished as Mato and Calen sprinted to the teleportation circle, guiding the last of the elves and carrying Lyeneru.
+
+“To me,” Ali commanded, gathering her remaining minions around her. Three Ice Trolls fired at Nathaniel while she summoned barriers to protect her friends as they charged for the safety of her magic circle.
+
+But right then, an enormous surge of mana flared from the Blind Lich, pulsing outward, shattering her barriers, tearing up the earth as hundreds of undead crawled out of the Well of Souls, tearing toward them, desperate to prevent their escape.
+
+“It is done,” the Lich intoned, his voice triumphant.
+
+And Nendir was too far to help.
+
+“Get to the circle!” Ali screamed, raising her barriers and desperately throwing her remaining minions into the fray. Beside her, Malika pulsed her healing to keep them safe while Calen and Mato began attacking the horde of incoming undead, desperate to guard the teleportation circle that was their only route to freedom.
+
+Suddenly, the Ice Trolls of Telim Gor charged toward them, shooting bolts of ice magic and wielding powerful shields, while Nendir flew in like an emerald meteor.
+
+“Go!” Nendir shouted. “I’ll hold them off!” From his bow, a storm of energy and arrows surged downward to meet the dark apparition of the Blind Lich.
+
+Mana surged in an immense raging torrent as the Elf unleashed an unimaginable power. But within the storm, a dark figure slowly rose. Arrows and magic hammered at the Lich, but he shed it all, diverting the flow around him with dense shields of pure darkness. The ground behind him evaporated in a smoking hole the size of a small town, but still, the Lich pressed onward, inching higher and higher against the onslaught.
+
+Why doesn’t he move?  But Ali answered her own question immediately. Even as the Blind Lich gained ground, pushing Nendir’s power further and further back, he stubbornly held his ground – a last stand to ensure that the way out remained open.
+
+“Run!” Ali screamed.
+
+The Telim Gor delegation dove for the runic teleportation circle, followed quickly by Mato, and then Calen. Malika remained, keeping her safe from the fear.
+
+“Nendir! Everyone is out!” Ali yelled. “Come!”
+
+Nendir turned his head a fraction, a hint of a smile appearing on his face. “Get… out…” he hissed from between clenched teeth. And then Nevyn Eld reached him. In that touch, the deadly darkness of Decrepify punched through Nendir’s chest and his bow fell silent for one last time.
+
+“Run…” he managed, a gurgling whisper before he slumped unconscious in the Blind Lich’s grasp.
+
+Ali saw the Sacrifice formation and fired off a disruption using a stutter cast, but Nathaniel was quicker, breaking her magic, and all she could do was watch as the horrifying spell completed.
+
+Nevyn Eld’s gaunt skeletal hand plunged into Nendir’s chest and ripped his soul from his body. The Lich threw his head back, his chilling, sepulchral laughter echoing through the battlefield over the screams of the spirit trapped in his grasp.
+
+Ali fled, appearing suddenly and abruptly in the Novaspark Academy of Magic, surrounded by crowds of lost and weeping elves. A second later, Malika appeared beside her, and Ali released her reservation on her runic circle.
+
+But to her horror, it failed to dissipate.
+
+“The circle is still open!” she gasped, desperate to warn everyone. Somehow the Lich or the Archmage was holding it open, even without her mana to support her magic.
+
+Calen instantly produced his bow, and Malika turned right as a banshee appeared in their midst, its eerie, terrifying wail of despair ringing out through the crowded room. Elves screamed, fled, or cowered, entirely overcome by the mind-breaking shriek of the undead spirit, but Mato roared, already shifted to the form of his Dire Bear, leaking trails and wisps of black void magic.
+
+His claws sizzled as the void sliced through the air, tearing gruesome gashes through the incorporeal monster. It screeched as the magic of his strike ripped through its fleshless body.
+
+A second banshee appeared.
+
+The teleportation circle had to be closed immediately. They were seconds away from the Blind Lich stepping through.
+
+But how? Ali’s runic circle wasn’t even using her own mana anymore, but she could see the trails of mana connecting it, fueled by the dark black and purple of Nathaniel’s domain slowly twisting and clawing its way through into the room.
+
+I know my own spell.
+
+She grimaced as the seconds on her recharge slowly ticked down to zero. As soon as it did, she formed her spell, sensing the mana of Nathaniel’s matching disruption forming from the other side – something that, without her enhanced mental speed, she might never have had the time to react to. She canceled her disruption, and recast it, but Nathaniel was again quicker, and he managed to pull off her own trick, canceling and disrupting it a second time.
+
+He got her again.
+
+Fuck, she thought, staring aghast at the new sixty-second recharge on Arcane Insight while Nathaniel’s magic continued to worm its way through the connected teleportation circles.
+
+Yet another Banshee appeared.
+
+Ali cast Arcane Recall. Transported abruptly to the Spirit Realm, she paused to collect herself in that familiar frozen state. In the gray of the locus room, she could see the full extent of the magical battle across the teleportation circle. Tendrils of black and purple writhed through the afterimage of her runic circle from the other side, seeping through the locus on this side as Nathaniel clawed his way through the magical connection. But Arcane Recall allowed her to ignore recharges, and in this space, there would be no time to disrupt her magic. She cast Dismantle, and time instantly restarted as the golden needles of her arcane magical formation shot through the channels Nathaniel had opened. It tore into the runic circle, ripping the formation to shreds as all the mana from her runic construct, and Nathaniel’s encroachment exploded in a blast of chaotically disconnected mana. She had a brief moment of satisfaction as she felt the Elder Wraith recoiling from the impact of the detonation before the mana conduit collapsed.
+
+Shit, that was close.
+
+Ali sat right there, in the middle of the locus, letting the sounds of screaming, crying, and shouting wash over her, trusting Malika to heal them. The entire city of Ciradyl had been destroyed. A city that had been old since before she was born. She had personally witnessed thousands of elves crushed, turned, or killed – wiped out by the casual malice of the Blind Lich. The Well of Souls was corrupted and in the hands of Nevyn Eld. And…
+
+“Where is my father? Nendir? Where… where is he?” A scared, frightened voice pierced her horrible recollection, and Ali glanced up to see a pretty, young elf holding a bow at her side – an elf who looked at her with desperate hope in her eyes. “You were the last through the gate, do you know what happened to him? Please tell me he’s ok…”
+
+“I’m… sorry,” Ali whispered. “He bought us all enough time to escape, but the Blind Lich got him right at the end. He did not make it.”
+
+Her wail tore through Ali’s heart.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

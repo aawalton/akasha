@@ -1,0 +1,123 @@
+---
+id: 38412573-6f6c-5680-b93c-745a912e18c6
+page-type-slug: story-chapter-royal-road
+title: "Ch58 Killing"
+slug: 0058-ch58-killing
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 58
+ownLength: 1670
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3424751/ch58-killing"
+royalRoadId: "3424751"
+---
+
+“We’ll send them back to the sect for proper burials once we get our next orders. For now, we guard this checkpoint.” Bao Zhan remarks as he collects the fallen members of the Azure Cloud Sect, then gives us each our direct orders.
+
+The small camp we’ve all walked into is no larger than 200 meters wide.
+
+It’s mostly just flat ground cleared out in the forest against a small rock ridge. There are artificial mounds of earth creating a wall a few meters high all around its edges. Beneath the center of this camp, I sense a medium quality spirit vein, similar to the one that was deep within the Ravine before I upgraded and overstrained it.
+
+Artificial cave mounds were formed over its center, but there are large sword marks and explosive craters from past battles that have destroyed most of them.
+
+I’m stationed right at the edge of the wall, watching a portion of the forest where we came from.
+
+Other stewards are placed every few large earth mounds along the wall too, ordered to yell out if there are any signs of movement. There are shift changes every few hours, and occasionally stewards stop by my station to bow and thank me in private for saving their lives. I refuse all small gifts, but keep a polite attitude throughout the rest of the day.
+
+As night falls, no ambushes or any movement in the forest has been detected.
+
+Eventually, my break shift comes, and my spot watching the forest is filled by another steward.
+
+Yun Renshu shows me to a resting area if I’d like to sleep, but when I arrive no one is catching any shut-eye. I do not either. Instead, I walk a few meters out of sight and use the upgrade cards I was granted this morning after my check-in.
+
+Three are used immediately. One a defensive talisman, one on an Incineration Talisman, and another on a Stone Bullet Talisman.
+
+I already have a few of each at perfect grade in my storage, but considering the uncertainty I’m now living in, I want more…The last card upgrades a Martial Root Pill.
+
+For the next two hours during my break, I practice the movements and fully assimilate this pill.
+
+A few stewards notice and walk by with confused expressions. The only one in that gets within my spiritual senses that does not look surprised is Bao Zhan. Instead, he studies my movements for a few minutes from afar, then leaves with an uninterested expression to do his intermittent checks outside the camp’s walls.
+
+Once I’m directed to watch the forest from a new post, it's the dead of night, and this is where I stay with an arrow ready to draw until the sun rises again.
+
+–
+
+A small black bird dives down from the sky above and lands on Bao Zhan’s outstretched hand.
+
+It makes a light chirping sound and wriggles a small storage ring off of its leg. Bao Zhan takes it and replaces it with another ring. Then, he confirms the bird’s departure using a communication talisman.
+
+“All right, everyone line up, we have new orders to follow today!”
+
+I get in line with the other stewards, and storage bags are pulled from the ring he received from the small black bird. When I break the weak imprint seal, I see a map with a bold line on it through the forest, three spirit stones, a low-quality qi gathering pill, a fasting pill, and a dozen or so earthy brown talismans labeled ‘Low Quality Earth Mound Talisman.’
+
+“You’ve all received your allotment of cultivation resources for making it to this base. Our next trek is roughly twenty kilometers to the west, it is another mid grade spiritual vein, but no Azure Cloud Sect squads have made contact with the Demons that secure it now. Our task by nightfall is to clear them out and create a barrier around the vein just like this.”
+
+As he finishes his words, I quickly turn my head as I hear movement in the forest.
+
+However, Bao Zhan is the first to make his way over and greet them.
+
+Another team of bloodied and tired stewards and outer sect disciples arrive on orders to take hold of this base once we leave.
+
+–
+
+Over a week and a half passes. My days become very repetitive.
+
+The Azure Cloud Sect’s intelligence network is far more advanced than I first thought it would be. After being ambushed on our first mission, I thought this truly would be a messy blind fight for our lives.
+
+However, once we reach our second checkpoint, the squad of Blood Sword Sect Demons does not even see us coming. Bao Zhan and Yun Renshu go in alone to kill everyone over level 3, and us stewards only chase the initial stage fleeing demons without leaders to command them.
+
+After every enemy is slain, we use up all of the allotted earth mound talismans to create a raised defensive border around this mid grade vein and spend the night guarding it until a new team arrives to take over the base and we receive new orders.
+
+In these nearly ten days, there has only been one more ambush, taking the lives of two more of our stewards. Even in the attacks where we’re outnumbered, I can always sense the Illusory Demons coming, and somehow Bao Zhan can always pinpoint the location of a blood demon if they are ever near.
+
+Each earth mound talisman has a slow activation time, but within a few minutes of wherever they’re placed, a large two- to three-meter-high hill is formed on top of the natural soil. Within an hour, each new camp can be secured and transformed.
+
+Six strongholds of low to mid grade spiritual veins have been established, and we’ve trekked almost 150 kilometers deep into the undeveloped wilderness.
+
+Along the way, we’ve even run into a few level 1 and 2 initial stage spirit beasts. When a fellow steward voices his desire to kill one for food, Yun Renshu orders him to stand down. The majority of beasts flee when they sense our presence, and apparently not killing them on sight makes the later generations that survive less hostile toward humans.
+
+I outwardly nod along in agreement, but if they were mid stage beasts, I’d certainly try to kill them to complete my side quest.
+
+Bao Zhan details our injuries, kill count, and casualties every night, and the sect gauges our strength and ability, only sending us out on missions we have high chances of completing.
+
+I stop using upgrade cards to make any more weapons or defensive items, as I have not even had to use them once yet. I stow away the spirit stones and qi gathering pills the sect has been paying us, as due to my 9th grade spiritual roots, I’m completely stuck at the initial stage of the 4th level of qi refinement. Trying to absorb more qi is pretty much pointless to me at the moment.
+
+Instead, all of my cards recently have gone straight toward Martial Root pills, quickly exhausting the last of my remaining 50 pill stock.
+
+Little Red has found himself a comfortable resting place under the fabric of my robe near my shoulder. Even in the midst of battle, he does not open his eyes or care to wake up.
+
+Tonight, I take my break shift and walk back toward a small alcove where a few other stewards are off duty too.
+
+When I sit down near them and gaze at the game they’re playing, gambling with spirit fragments, one calls out.
+
+“No Martial Warrior practice for you today? Care to join?”
+
+I shrug and walk over, pulling out a small handful of spirit fragments I never planned on using.
+
+“Really? The Heavenly Archer is joining us?” another remarks in a playful tone.
+
+When I take a seat, I pull out a bottle of inferior quality rice wine and place it down on the mat next to my stones.
+
+“Why not? One night off won’t hurt.”
+
+Truthfully, I’m all out of Martial Root Pills. Doing the movements tonight would still be beneficial, but not much.
+
+I turn my gaze to the side of our small camp. “The Captain has been acting overly cautious today. I think a little rest and relaxation might be beneficial for whatever he’s going to tell us tomorrow.”
+
+I pull out another bottle of normal rice wine, then a peach wine and apple wine next. I uncork one and take a swig. “Please, indulge, we have a few hours to relax, don’t we?”
+
+“You truly are the Heavenly Archer… both on the battlefield and off it!” an old man’s voice is cut off by the sounds of other thanks and uncorked bottles.
+
+This is a nickname that one steward mumbled as his life flashed before his eyes a few days back, when I killed a demon with a blade already pressed against his neck from over a hundred meters away.
+
+Others repeated his words every time they were rescued from a similar situation.
+
+I find it less awkward than these elderly men calling me senior, so I never rejected the title.
+
+Laughter and bottles clinking fill the alcove. I lose a few hundred spirit fragments in our game, but by the time I’m sent back to my post, the morale has certainly lifted.
+
+The sun slowly rises, and I watch the familiar small black bird enter our camp.
+
+Bao Zhan’s pupils constrict once he breaks the imprint, and I’m certain my instincts weren't wrong.
+
+“Line up, squad! There are a lot of supplies for me to hand out today. We’ll be trekking toward the Green Rock Lake Camp… My information here states that the last four squads sent out disappeared without a trace. This is a high grade spiritual vein we’ve been tasked to secure. The sect would not give these orders if it wasn't crucial. Prepare for our deadliest mission yet.”

@@ -1,0 +1,143 @@
+---
+id: 7c6b9e1b-192c-5a8e-b1ab-f7936d991f7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24"
+slug: 0024-chapter-24
+partOf: emie-ascended
+position: 24
+ownLength: 2324
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3525594/chapter-24"
+royalRoadId: "3525594"
+---
+
+While registering as an apprentice Enchanter with the Association’s Enchanting Shop, I asked how compensation worked for items created by apprentices in modern times.
+
+I soon learned that, though the rules limited how much I could be compensated for my work while still unevolved, it didn’t prohibit the shop from setting aside what I should have earned and holding it for me until I reached the first evolution.
+
+Of course, a small portion of those earnings would be lost to compensate the shop for the service, as well as to pay for any resources that I used. They kept a record of everything to ensure things were fair, which made me feel a lot better about working with them.
+
+Curious, I headed over to the medical facility and asked Meria if they used a similar structure. She hadn’t mentioned anything about an additional account, so I was pleased when she verified that most professional organizations that worked with the Delver Association had a similar program in place.
+
+It wasn’t just for Ascenders, either. Any unevolved person learning a trade or working as an apprentice had the potential to earn funds the same way. Typically, however, they ended up using more resources than they earned, especially in the beginning.
+
+This was less pronounced for healers, though it still applied since training and oversight weren’t free. Still, by the time an apprentice reached the first evolution, most had reached a point in whatever field they were interested in to make a profit.
+
+It was also worth noting that few ‘dedicated’ delvers bothered with such things, especially during their early years. Only those with plans to become professionals or tradesmen really bothered with apprenticeships since skill slots were limited, and most viewed slotting any non-combat skill as a waste.
+
+That tended to change after someone evolved once or twice, but by then, few were going to bother with official apprenticeships. There were always exceptions, though.
+
+“You didn’t have to bring me food,” I said when Cora stopped by the next afternoon with a platter stacked high with a variety of street food she’d picked up from various street vendors just outside the Dungeon Complex.
+
+“I know. But I felt kinda bad that you’re basically supplying all our meals while we’re in the dungeon. I figured it was only fair to contribute,” she said, handing me the platter after swiping a meat pie and something that looked like spiders grilled on a skewer.
+
+Though I had no problems eating the legs of certain spider species that tasted a lot like crabmeat, I found the thought of eating small, grilled spiders completely unappealing.
+
+“Besides,” Cora continued as she made herself at home, ignoring my reaction to her food selection. “It’s lunchtime, and I’m tired of eating the same boring meals from the dining hall.”
+
+“I’ve noticed the quality of the food has gotten a little better recently,” I said, eying the grilled spiders on her skewer. Even the most tasteless food in the dining hall looked more appealing.
+
+“Has it? I hadn’t noticed,” Cora commented before biting one of the spiders in half. I tried not to react to the sight.
+
+“Then again,” she added once she swallowed the spider, “Mike and I have been eating out a bit more often. You should really try these. They remind me of home.”
+
+“No thanks. I’m happy with my meat pie,” I said, after grabbing one of the pastries and sending the rest of the tray into storage. The options would provide a bit of variety to our meals later.
+
+“And, yes. One of the people refilling food on the buffet mentioned that their Chef supervisor recently returned. Apparently, they left when the dungeon started its evolution, and they only recently got back.”
+
+“Oh. Well, maybe we’ll start eating there again. Eating out was getting a little expensive.”
+
+I’d walked around the dungeon complex, so I knew there were plenty of cheap meal options available. But even the cheapest options would start adding up after a while.
+
+I was actually a little surprised at myself for not seeking better food like my party members. I’d cooked a little bit to prepare for our next delve, but aside from that, I’d mostly stuck to eating the meals provided by the dining hall.
+
+Nothing was cheaper than free, after all.
+
+“How was the Enchanting lesson?” I asked, changing the topic as I sat in the chair next to the couch.
+
+Cora’s expression tightened slightly. “It was… not as good as I hoped,” she admitted. “To be honest, I didn’t even make it past the essence control exercises Enchanter Donnovan had me doing.
+
+“When he mentioned that new prospective Enchanters often took months just to learn how to manually control essence enough to even start the process, I realized that it’s probably not going to be a good fit for me. That’s not even taking into account how limited I’d be as an Enchanter without completely changing my build.”
+
+I nodded knowingly. The part about her build was definitely relevant, and I hadn’t fully taken that into consideration when I recommended she consider the field.
+
+She probably had a couple of skill slots she could use to gain access to new magic, but unless she wanted to incorporate those skills into her fighting style, they’d probably be largely wasted.
+
+“Yeah. I probably should have anticipated that,” I admitted. “I also wasn’t thinking about the essence control requirements. It took me quite a while to get it in the simulation, too. Maybe not months since I already had a lot of experience with manually controlling mana, but it certainly took a while.”
+
+“Simulation?”
+
+At her question, I realized that I hadn’t told her or Mike anything about the simulation I’d gotten to experience to prepare me for ascension. I didn’t think I’d mentioned it to Stephen, either, come to think of it.
+
+I’d told them about challenging the Realm Dungeon, but hadn’t gone into details about the actual rewards I’d gotten or how it had prepared me for life in Dia.
+
+As we ate our meat pies, I shared a little bit about the reward I’d earned for the last trial of the Realm Dungeon, where I spent fifty subjective years inside a simulation as a Traveler in the realm of Dia.
+
+“Well, that certainly explains some of your knowledge,” Cora said with a smirk. “I was wondering how you knew so much about everything when you’d been here the same amount of time as us.”
+
+“A lot of my knowledge is outdated, though,” I informed her. “There were no demon incursions or any of this forced apprenticeship stuff. Youths used to go on Treks where they’d travel between dungeons, challenging the different floors and gaining real-life experience in the process.”
+
+“But the magic and dungeons were all the same?”
+
+“Pretty much. I’m not familiar with how these enchantments can turn essence into solidified ether that mimics matter,” I said, holding up the small control tile.
+
+I’d done a little bit of research about the subject after recovering my Enchanting skill, but it wasn’t enough for me to really understand.
+
+Continuing, I said, “But aside from that, which is more of an innovation than a real change, I think, everything is mostly the same.”
+
+“Speaking of demon incursions,” Cora said hesitantly. “When I was at the Alchemy Shop yesterday, I heard some delvers talking about an attack on one of the nearby cities. They seemed worried that some of the demons might have slipped past the other city and might be heading this way.”
+
+I raised my brow at the comment. Not because of the attack, which I was sure we’d be sheltered from if it reached Sorenguard, but because of where Cora was at when she heard about it.
+
+“Alchemy Shop? Did you decide to try your hand at that instead?” I asked before adding, “I don’t mind, of course. Alchemy is an extremely useful field to learn, and the products they provide are always in demand. If you think you’ll enjoy it, I wholeheartedly support you.”
+
+The tension in Cora’s shoulders eased, making me realize that she actually had been worried about my reaction.
+
+“I’m not entirely sold on Alchemy either,” Cora admitted, brushing away the crumbs that had fallen as she ate. “But at least I have a chance of actually earning the skill before I reach the first evolution. From the way Enchanter Donnovan talked, it would probably take more than a year before I was functionally able to enchant something.
+
+“He also made it very clear that if I really wanted to pursue Enchanting, I’d need to fill my remaining slots with different elemental skills or become a specialized Enchanter who only handles very specific types of enchantments. Since I don’t want to shape my skills around a field that I’m not certain about and specialization seems boring, it seemed smarter to find something else.”
+
+“I get it,” I said. “Really. It doesn’t hurt my feelings that you aren’t drawn to the craft that I prefer. Honestly, you shouldn’t feel pressured to find any craft to fill your time if you don’t want to. Just do whatever makes you happy.”
+
+“I’m still hopeful that Alchemy will resonate with me,” Cora replied. “I can imagine it being a very useful skill to add to the party, and it would be nice to have my own outside source of income as well.”
+
+She was right. Having an Alchemist in the party would be of benefit, especially if she used her skill creatively. Aside from making poisons to coat her blades, she could easily create smoke bombs, explosive potions, and potions that flash-froze anything they touched. And those were just the effects that I could think of right off the top of my head.
+
+Unlike Enchanting, Alchemists didn’t need to have access to specific types of magic to create certain effects. They just needed the right ingredients.
+
+“Even if it isn’t something I really enjoy, I can see the value of slotting the skill,” Cora continued. “And it’s not like I don’t have the free slots available. I doubt I’ll find any skillbooks that suit my build soon, anyway. I’m willing to give up a single slot if it allows me to contribute more to the party.”
+
+“Don’t just do it for the party. If you don’t like Alchemy, I’m sure there is something else that suits you better. Also, keep in mind that you’ll gain a new skill slot every fifty levels or so. It could take a little longer, but fifty is about average for Ascenders.”
+
+The number of levels it took to gain a new skill slot roughly correlated with the number of total skill slots one had, with more weight being given to core skills.
+
+For natives with a single core skill and four regular skill slots, they could expect to gain a new skill slot every hundred levels or so.
+
+Conversely, for an Ascender with two core skills and eight skill slots, it was closer to one new slot every fifty levels. It wasn’t linear growth, though. It was more like a curve that ended somewhere around one new skill every twenty-five levels.
+
+Starting with four core skills and fourteen regular skill slots, I should be close to the limit as far as skill slot acquisition rate was concerned. However, I suspected my actual rate would be closer to one new slot every thirty to thirty-five levels since I was just starting out.
+
+The rate probably wouldn’t increase quickly at all, either, regardless of how I pushed my skills. Even so, I fully intended to dedicate quite a bit of effort to growing as many of my skills as possible since there were other benefits to upgrading skills before each evolution.
+
+I probably wouldn’t bother much with Divide Space since it would likely be merged with Demesne during my first evolution, but the rest of my skills would need some dedicated attention over the next year if I wanted to get the most out of them.
+
+“That’s true,” Cora said. “That’s even more reason to stop holding onto the empty slots. Maybe the next time we get a skillbook that isn’t too far outside of my build, I’ll learn it instead of tossing it into the sell pile.”
+
+“Well, it looks like the dungeon is leaning toward time and space-based skills,” I said. “I could see something like Haste or Slow working well for you.”
+
+“Isn’t Haste the skill you recovered from your old realm?”
+
+I pressed my lips together and nodded slowly. I’d already shared most of my background, and with my declaration about the dungeon, Cora had everything she needed to put the pieces together about my status as the dungeon’s Originator.
+
+Instead of leaving her with suspicions, I decided to offer another display of trust. I’d already shared the secret with Stephen, anyway, so it seemed only right to let my party members know about my status.
+
+“Yes. The dungeon takes after the Originator who sparked its evolution. I don’t mind you sharing the information with Mike, but I really don’t want my status getting out. I’ve already heard whispers of people trying to find out who the Originator is, and my guide recommended I keep the information to myself. I assume she had a reason.”
+
+The whispers had mostly involved overheard snippets of conversations while I worked as a healer at the hospital. There was nothing overly concerning just yet, but people were definitely curious about which of the Ascenders were responsible for the dungeon’s evolution.
+
+“So, why tell me?”
+
+“You would have figured it out eventually. Besides, you already know my secret about the sanctuary. I figured I might as well be open about my status.”
+
+Cora stared at me incredulously for a moment before saying, “You know, I’m trying very hard not to be jealous of you. You make that hard sometimes.”

@@ -1,0 +1,189 @@
+---
+id: 3084adb6-b19c-57f4-9114-a6b0047ed470
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-Six: Second Evolution"
+slug: 0087-chapter-eighty-six-second-evolution
+partOf: flesh-eater-demon-evolution-litrpg
+position: 87
+ownLength: 2768
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3446593/chapter-eighty-six-second-evolution"
+royalRoadId: "3446593"
+---
+
+Pyre shifted slightly. She’d brought her bag with her to the garrison, and miraculously, the thing had stayed strapped to her throughout all the fighting. The fact that she’d covered it with bone plates probably helped.
+
+Now, the demon removed the bag and rummaged around its contents. It was more than a little squished, pressed between flesh and bone armor as it had been, but it didn’t seem like it was missing anything.
+
+The subtrait slot expansion shard was there, Pax’s (now very wrinkled and slightly torn) map was there, and, of course, the two evolution crystals.
+
+Carefully, the demon removed one crystal, then placed the remaining one back into the bag. She closed it and set it aside.
+
+The crystal looked the same as it had when they’d first recovered it from the chimera’s cave. Smooth, round, and cool to the touch. Its faint silver glow was more obvious at night, nearly the exact same shade as the moonlight.
+
+Pyre held it in her palm and focused on the notification again. According to the quest requirements, she needed one for her second evolution. She assumed it would absorb into her skin after she selected “yes.”
+
+And so, the demon did just that.
+
+The moment she accepted the quest rewards, light flashed in her eyes. She was vaguely aware of the crystal sinking into her hand, just as predicted, but she was more preoccupied with the silvery, translucent bubble rapidly forming around her. She heard startled yells across the clearing, and it occurred to her that she probably should’ve warned Callan and Daphne about her evolution first.
+
+Ah well, she thought in amusement. They’d figure it out.
+
+The flashing lights settled into a steady glow. Soon, a new series of notifications appeared in front of her.
+
+[Gathering quest rewards…]
+
+[Evolution Quest: Second Evolution completed!][Experience earned!]
+
+[You have earned 30 points]
+
+[Your species has leveled up! Lvl 30 —> 32][Strength +5, Agility +3, Constitution +5, Magic Resistance +5, Intelligence +2]
+
+[You have earned 20 points]
+
+[Your class has leveled up! Lvl 20 —> 22][Strength +2, Agility +2, Constitution +3, Magic Resistance +3]
+
+[You have earned 10 points]
+
+She’d almost forgotten about the evolution quest experience reward. Two whole levels was nothing to scoff at, especially with how much slower leveling had become lately (outside of fighting wyverns, of course).
+
+Just how many levels had she gotten in total today? A hell of a lot, that was for sure.
+
+[Congratulations, you have met the requirements for your second evolution!][(4) Tier 2 species evolutions available]
+
+[Please select from the following evolution options.]
+
+Around Pyre, the glowing silver bubble grew brighter. She couldn’t see her surroundings at all now, not even a silhouette. It was probably a good thing that Callan and Daphne had set up those wards, because this thing was basically a beacon.
+
+Across the demon’s vision, four new blocks of text appeared in quick succession.
+
+Tier 2 Species: Greater Fiend (Sloth)Greater fiends are the more powerful evolutions of lesser fiends. Greater sloth fiends are the immovable sentinels of the demon world. They boast high defenses and innate resistance to poison, elemental damage, and mental effects.Stat Bonuses: Strength +8, Constitution +20, Magic Resistance +20, Intelligence +2
+
+As its name suggested, this seemed like the “default” evolution for lesser fiends, and honestly? It wasn’t a bad choice.
+
+The boosts to constitution and magic resistance were very respectable, and the innate resistances also sounded useful. Nice, simple, and reliable. She kept reading.
+
+Tier 2 Species: Abyssal Demon Lord (Sloth)The abyssal demon lords are the rulers of the demonic world, with balanced offenses, defenses, and strong magical abilities. They boast heightened auras, specializing in crowd control, and possess few weaknesses.Stat Bonuses: Strength +10, Agility +10, Constitution +10, Magic Resistance +10, Intelligence +10
+
+This option was interesting, if not just for what it said about demon society and how it functioned as a whole, but Pyre didn’t feel any particular attachment to it. She had 0 interest in leading anyone, even if those crowd control and aura effects sounded fun, and that “strong magic” part was the final nail in the coffin.
+
+She doubted absorbing a single soul piece would be enough to “fix” her inability to use magic, and she didn’t feel like gambling on it. Not when strong magic was supposedly one of this species’ main draws.
+
+That being said, the species description did bring to mind the brief conversation she’d had with the Empire mage. Was the demon king one of these? Maybe a further evolution of it, Pyre thought. The king of all demons was probably well past Tier 2.
+
+For now, she continued going down the list. There wasn’t much she could do about a demon king she hadn’t even met yet, so she wasn’t going to waste more time speculating.
+
+Tier 2 Species: Demon of ApathyDemons of apathy are the purest embodiments of acedia. This evolution is suitable for sloth fiends seeking to reach the pinnacle of their sin. In addition to possessing the same innate defenses and resistances as greater sloth fiends, demons of apathy spread their sin wherever they go. As they sink deeper into acedia, their existences become increasingly metaphysical in nature.Stat Bonuses: Constitution +25, Magic Resistance +25
+
+Pyre raised an eyebrow. The description made this one sound like a greater sloth fiend on steroids, but not necessarily in a good way.
+
+For one, what the fuck did “increasingly metaphysical in nature” mean? Did demons of apathy turn into concepts or what?
+
+In general, the whole description made this sound like a final evolution even though there were definitely more tiers to go. Then again, if it really did turn you into a full “embodiment of sloth,” then maybe it was the end for whoever picked it.
+
+The demon decided pretty quickly on avoiding this one. She didn’t like the finality of its description or the implied shift in personality, funny as the stat bonuses were.
+
+Mentally scratching the option off the list, Pyre moved on to the final block of text.
+
+Tier 2 Species: Empyrean Demon (Sloth)This evolution is only available to those meeting the prerequisites.Empyrean demons possess an unusually strong connection to the ancient titans of old. Their blood runs thicker in you, resulting in a heightened attunement to ichor. Empyrean sloth demons boast strong defenses and an innate resistance to magic. Exposure to ichor cannot poison them, and they can see through magical illusions.Stat Bonuses: Strength +10, Agility +5, Constitution +15, Magic Resistance +15, Intelligence +5
+
+Compared to the other choices, which all seemed like standard lesser sloth fiend evolutions (helpfully marked with a “sloth” tag to boot), this one sounded like it was more exclusive. She supposed she had Fred to thank for it—she was, after all, technically a “first generation fiend” thanks to whatever weird magic shit the titan had been up to.
+
+Pyre didn’t particularly care about how rare or special an evolution was. She just wanted the one that worked best for her, so she studied the rest of the description the same way she would if it were a standard option.
+
+Since the evolution was still a subset of the sloth sin umbrella, the stat boosts were also primarily defensive based. The innate resistance to magic was very appealing, and she imagined the ability to see through magical illusions could come in handy in the future.
+
+Immunity to ichor poisoning was less relevant to her personally (she briefly glanced across the clearing, but the glowing bubble made it impossible to see outside), but it added to the general idea of empyrean demons having a special connection to ichor. The blood of the titans ran thicker in them, and so, that same blood was less effective at harming them.
+
+The choice was ultimately between a greater sloth fiend or an empyrean demon. Innate resistance to magic and the ability to see through illusions versus innate resistance to poison, elemental damage, and mental effects.
+
+Pyre took a moment to study her current stat sheet. She did already have some resistance to various mental effects through a few different titles and the [Psychic Resistance] subtrait, and she’d gotten an [Elemental Resistance] subtrait shard from the wyvern as well. These would presumably stack with whatever bonus resistance the greater fiend option gave, but it did suggest that these resistances were easier to come by in general.
+
+On the flip side, while the [Magic Perception] subtrait shard was somewhat close to the ability to see through magical illusions, she hadn’t encountered anything that granted innate magic resistance yet. Maybe the title she’d gotten for defeating Tivona, but that was only for transmutation spells.
+
+In the end, the magic resistance won her over. Pyre had only seen a fraction of the shit magic could do at this point, and that was already plenty. She’d take any extra guards against it that she could—especially when she herself couldn’t use it.
+
+Mind set, the demon selected [Empyrean Demon].
+
+[You have selected the [Empyrean Demon (Sloth)] species evolution][Strength +10, Agility +5, Constitution +15, Magic Resistance +15, Intelligence +5]
+
+[Adjusting stat sheet…]
+
+[Your maximum species skill slots have increased! 5 —> 10]
+
+[You have gained the [Empyrean] trait!]
+
+[You have gained the [Persistent Form] subtrait!]
+
+[ERROR: Duplicate ability effects detected]
+
+[The species skill [Basic Flesh Sculpting] has been upgraded to Intermediate!]
+
+[You have gained the [Second Evolution] title!]
+
+[You have increased from Tier 1 to Tier 2!]
+
+[Quest unlocked!]
+
+Evolution Quest: Third EvolutionMeet the requirements for your third evolution. You must achieve a minimum species level of 60, a minimum class level of 50, and possess three evolution crystals.Reward: Experience, 100 points, third species evolution
+
+The string of notifications finally came to a stop. Waves of warmth flowed through her body like churning tides, and the bubble of light around her finally began to fade. Soon, it dissipated entirely, leaving just the demon seated against the tree, the moonlight shining down from above.
+
+Pyre briefly scanned the area, noting that there were new runes drawn in a circle around the grasses. Callan and Daphne had finished setting up those wards, then.
+
+Speaking of which, the two mages in question stood on the other side of the clearing, both tensed like they were waiting for a bomb to explode. Their eyes were wide as they watched her. She snorted in amusement.
+
+“All good,” she said breezily. “Just some system stuff.”
+
+“System stuff,” Daphne mouthed. Callan gave the demon a flat look.
+
+“A second evolution is a little more than ‘just some system stuff,’” he muttered. Daphne nodded emphatically, but Pyre simply responded with a dismissive wave.
+
+From how intently the two were staring at her, she wondered how much—if at all—her appearance had changed. She raised her right arm, extending the mass of flesh there and growing an eyeball on the end to peer back at herself.
+
+At a glance, she didn’t look all that different from before. Her horns were still the same silver color, the same asymmetrical shape, and her vaguely humanoid warped form remained in place.
+
+It did feel noticeably easier to maintain, though, and parts of her body that had been soft and amorphous now kept their shape without her needing to focus on them. She suspected this was a result of that new subtrait she’d gotten, and a quick look at its description confirmed this.
+
+Subtrait: Persistent FormUser is able to passively maintain the shape of their warped flesh.Main Trait: [Amorphous]
+
+This also explained why there’d been that error earier; the old [Flesh Sculpting] skill was effectively made obsolete by this subtrait.
+
+Awfully nice of the system to up it to intermediate, Pyre thought with a snort. It could’ve just as easily forced her to manually level it to 10.
+
+Skill: Intermediate Flesh Sculpting Level 1This skill allows the user to sculpt their own flesh, both attached and detached, into defined, structured forms that can be passively maintained for a maximum duration equal to the skill’s level x 4 hours. Once the maximum duration has passed, user must wait for this skill’s cooldown to pass before using it again. If the skill is not used for the maximum duration, cooldown decreases. Detail of sculpting increases with level.Once this skill reaches level 10, it can be upgraded to Advanced.Cooldown: 1 hour. Cooldown decreases with skill level.
+
+At a glance, the description was almost the exact same as the basic skill—excluding the cooldown and durations being better—with one glaring change.
+
+Both attached and detached, the skill said. Pyre raised an eyebrow. She glanced at her [Autotomy] subtrait, then at the skill description again.
+
+If she was reading this right, this could enable some very funny shit. She’d have to detach some flesh to do it, but that was the price to pay.
+
+Plus, detaching excess flesh didn’t seem so bad when she now had so much more of it.
+
+That was the other major change and probably the reason for Callan and Daphne’s staring.
+
+Behind the demon, a giant mass of flesh extended out like a weird amorphous tail, except the flesh “tail” was both as long as her current form and also twice as thick.
+
+The extra flesh was probably partially from all her levels and stat points increasing her constitution so much, but the evolution definitely had something to do with it.
+
+Pyre warped the flesh experimentally. It easily contorted exactly as she wanted. She willed it to ripple like a wave, and it did so with no issue. When she tried to condense the mound down, switching its composition to pure muscle, it deflated as easily as a balloon losing its air.
+
+Huh, interesting. A quick test of her existing flesh showed that this was a universal thing now. After her evolution, warping her body was easier than ever. She could make mini sculptures out of her flesh, and she was able to compress it to an unprecedented degree. She didn’t even need to try very hard to compact the new “tail” down, and soon, it looked like it had never been there at all.
+
+Callan and Daphne were both still staring at her, the latter especially—probably because she wasn’t used to seeing the demon’s flesh warping. Funny as it was to watch them, though, Pyre did still have a few notifications to go through, so she returned her attention to the system screens.
+
+The [Second Evolution] title was another fluff one, and the third evolution quest had been expected. The fact that she’d apparently need three evolution crystals for it could end up being annoying, but she still had quite a ways to go before she had to worry about it.
+
+Meanwhile, the [Empyrean] trait description was a rehash of the evolution text. This was what actually granted the ichor-poisoning immunity, magic resistance, and ability to see through magical illusions. The trait did have 4 open subtrait slots, which was interesting. She didn’t know how she was supposed to collect shards for it when all the ancient demons and angels were dead, but it didn’t hurt to have them.
+
+Finally, all that was left was distributing the 60 points she’d received. She decided to put 20 in strength, constitution, and magic resistance each, just to make things easier for herself.
+
+A few bursts of warmth washed over her, and then, finally, she was done. Pyre gave her stat sheet one last scan, then mentally closed it.
+
+Name: Pyre [Tier 2]Species: [Empyrean Demon (Sloth), Lvl 32]Class: [Knight (Tier 2), Lvl 22]Aspects: NoneTitles: Reincarnator, Amnesia, Above-Average Sentience, Cold Blooded, First Evolution, Base Class, Monster Class, Group Combat, Chimera Killer, Conquering Sin: Envy, Tier 2 Class, Knightly Courage, Demon King’s Heed, Wyvern Killer, Flight Aptitude, Second EvolutionStatsStrength: 257Agility: 126Constitution: 335Magic Resistance: 331Intelligence: 72Points: 0Traits: [Amorphous 6], [Flesh Eater 7], [Scent 3], [Eye Growth 3], [Ossification 6], [Sound Perception 4], [Keratin 3], [Vocalization 2], [Regeneration (Sloth) 7], [Demonic Aura (Sloth) 1], [Empyrean 1]Species Skills [5/10]: [Intermediate Flesh Sculpting 1], [Basic Impact Absorption 3], [Basic Weight Manipulation 3], [Basic Slothful Field 2], [Basic Slothful Time 1]Class Skills [5/10]: [Basic Bracing Stance 3], [Basic Enfeebling Strike 2], [Basic Counter 2], [Basic Stalwart 2], [Basic Smite 1]Subtrait Shards: [Scales 4/9], [Mobile Ears 1/6], [Venom 4/9], [Curse Resistance 3/5], [Life Drain 2/9], [Magic Perception 3/7], [Scent Tracking 4/10], [Preservation 1/8], [Elemental Resistance 1/8], [Volant 1/10]Subtrait Slot Expansion Shards: 1
+
+Vision now clear, the demon leaned back against the tree trunk, eyeing the silver moonlight beaming down from above. Then, her gaze shifted to her right arm, which remained coiled around the soul piece.
+
+Well, technically she wasn’t done just yet. There was still one last thing to deal with.

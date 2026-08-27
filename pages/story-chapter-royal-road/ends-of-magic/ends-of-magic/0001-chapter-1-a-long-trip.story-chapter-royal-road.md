@@ -1,0 +1,117 @@
+---
+id: 5968aa21-fbc9-5072-be4b-098acfb965cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 A long trip"
+slug: 0001-chapter-1-a-long-trip
+partOf: ends-of-magic
+position: 1
+ownLength: 2016
+unit: words
+ownProgress: 2016
+publishedAt: 2022-08-15
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/972224/chapter-1-a-long-trip"
+royalRoadId: "972224"
+markedReadAt: "2026-06-29T20:07:18.210Z"
+---
+
+Nathan twisted the key to his apartment’s front door and felt the heavy bolt clunk back. He took three steps into the darkened single-room studio, swinging the door closed and shucking his backpack into the center of the bright carpet that took up most of the open floor space. Then he flopped into the overstuffed armchair that was the largest piece of furniture in the place, aside from the bed.
+
+It had been a nightmare to get the chair up the stairs and into the apartment, but Nathan’s friends had earned their pizza for helping him move out of the graduate student dorms a few years ago. Besides, he’d found the comfortable chair marked ‘up for grabs’ on the street when somebody had moved out. On a graduate student’s stipend it was hard to turn down comfortable furniture for the low price of free.
+
+Sighing, Nathan twisted in the chair to fish his phone from underneath his wallet and keys, pulling up the meditation app. He’d started doing mindfulness meditation almost a year ago to help deal with the anxiety of graduate school. To his surprise, it had helped.
+
+I’m definitely better about not just sitting in this chair and feeling bad about everything I should be doing. I can meditate and feel productive about not doing anything instead!
+
+Nathan started the session, listening to the soothing voice through his earbuds as he relaxed deeper into the cushions. He let his mind relax, stilling his inner voice and focusing on the sensations of breathing, of gravity pulling his body into the chair.
+
+Time passed, and Nathan didn’t focus on anything. He didn’t plan, and he especially didn’t worry about the fellowship application due soon or tomorrow’s experiment that would cap off the last two months of work. If that experiment worked, it would be a big step forward towards his doctorate. If it didn’t… well. It depended on how it didn’t work. Nathan realized he was spiraling, and with a moment of attention the worries dissipated like smoke.
+
+Some more time passed, and another thought intruded on Nathan’s mind. [A kinnar avi, nukol ad kayikxrokko, dlan avail-xalark da dhak!]
+
+He was confused.
+
+The words had emerged clearly in his consciousness in a deep, booming voice, but he didn’t understand where they’d come from or what language it was. He was pretty sure they hadn’t come from the earbuds - the words had seemed injected directly into his brain.
+
+He was about to stop meditating early and start making dinner when it happened again, the words more forceful this time. They pressed against the inside of his head, grinding and overwhelming. [A KINNAR AVI. DANO DA NO JAILROAV UDLAKK DHO XAAK. A KINNAR AVI]
+
+Nathan’s eyes snapped open and he tore off his earbuds, exhaling with frustration.
+
+I don’t need this now! Can’t it wait until after the cytometry experiment? Just gimme a 24-hour rain check.
+
+He started to stand, but the voice crashed into his skull for a third time. It wiped out thought.
+
+[DANO DA NO]
+
+Nathan didn’t feel the chair under him anymore, or the clothes on his skin. His eyes were open and saw nothing but black. Air tore itself from his open mouth and his ears spiked in pain.
+
+This must be what being in vacuum feels like. Why aren’t there any stars?
+
+Nathan flailed, accomplishing nothing but feeling the vacuum pulling on his lungs and eyes and the spit in his mouth boiling away. He tumbled in absolute darkness, with no reference point and no sense of anything other than himself.
+
+After what must have been mere seconds but felt much longer, he tumbled into brightness, landing on his butt on smooth stone. With vision tunneling, he heaved deep breaths, paying attention to nothing but pumping air in and out of his abused lungs. After a minute of slowing breaths, he looked around the room.
+
+Why am I naked?
+
+He was sitting in a shallow bowl of cold stone in the center of a large room. The entire place was made of the same smooth pale stone as under his butt, all lit evenly by a grid of bright lights in the ceiling. It looked like a cleanroom done in pale marble.
+
+The bowl was only a foot deep and several feet wide, so he could see out easily. The room around him was decorated with several pedestals capped with orbs shining in muted purples, yellows and blues. They were linked together by a complex grid of glowing metal that looked like nothing so much as multiple overlapping circuit boards. The metal started dimming in color before his eyes, losing some of the blinding radiance. .
+
+The formation wasn’t centered on Nathan, but rather right behind him. He scooted around, sitting on his hands to protect his butt from the cold stone. There was a metal filigree arch supporting a horizontal disk of exquisitely carved stone eight feet across. Multicolored lights emanated from a series of enormous gemstones inlaid into the arch and the stone. Over the disc hovered a horizontal portal into darkness, rapidly shrinking until it vanished with a tiny ‘pop’.
+
+Nathan stared blankly at the disk, losing himself in the fractal-like carvings for a moment.
+
+Whatever that is, it’s beautiful. It’s like an arcane language or art, all carved with mathematical precision. Magic?
+
+Then Nathan’s attention was drawn by movement beyond the arch. There was a man on a low dais at the edge of the room, and it looked like he was concluding a victory dance, pumping his fists and bouncing like somebody who had just won the lottery, his orange robe flapping around him. Just beyond him were a pair of humanoid statues with eerie levels of detail, flanking the door out of the room.
+
+The orange-robed man saw Nathan looking at him, and held out his palm, the semi-universal gesture for ‘stop’ as he mouthed a word that didn’t look like ‘stop’ at all. He busied himself at what looked like nothing so much as a wide control panel, complete with flashing lights. The grid of equipment surrounding Nathan dimmed even faster, quickly turning into a mix of shiny metal in steel, copper and gold tones. The shining orbs lost their glow, many of them cracking apart with a faint tinkling sound that sounded expensive.
+
+The man hopped down from the dais, nearly skipping over to Nathan’s bowl. He kept his attention fixed on Nathan, not sparing a second glance for the complicated apparatus that he threaded his bulk through with a deftness borne of familiarity.
+
+Nathan found the man’s single-minded focus unnerving, and looked around for anything to cover himself with. He settled for simply putting a hand in front of his genitals before looking up and observing the man who was just now approaching Nathan’s bowl.
+
+He looked to be an average height man in late-middle age, fairly pudgy, with a full head of black hair and a wide, stubbly face. His eyes glowed orange (what?) and his face was full of excitement as he stopped in front of Nathan. He clapped his hands together and spoke in a low, fast voice. “Dhak ak ka odadark!”
+
+It sounded like the same deep voice Nathan had heard in his head earlier, and Nathan looked up at him dumbly and spoke with a raw throat. “Excuse me, sorry, but what?” The man slapped one hand across each eye in a gesture that looked self-admonishing, before quickly stepping forward and laying a hand on Nathan’s forehead.
+
+[Ankiko Rurkiuko]
+
+Orange light emitted from the man’s mouth with the words - and from the hand on Nathan’s forehead. Nathan's head spiked in pain, a pressure and tightness squeezing down behind both temples like a concussion combined with the worst migraine Nathan had ever had. His eyes slammed shut and Nathan collapsed sideways. Both hands flew to his head, modesty forgotten.
+
+After a brief moment he heard the man’s voice again, and Nathan felt the language was more familiar than before. Cold and unyielding hands slid underneath him, lifting Nathan gently off the floor as he tried to curl into a ball around the pain in his head.
+
+Whatever was carrying him felt more like a statue than a person. Nathan felt its steps carry him across the room, down a staircase and through a hallway. The pain in his head receded rapidly, and he blinked teary eyes open. He was being carried by a humanoid statue made of the same sand-colored marble as the walls. A multicolored opalescence shone from its eyes. Then a blue box flashed in Nathan’s vision, front and center.
+
+Welcome to Davrar
+
+Davrar will help you survive
+
+Adapting you to the local biosystem
+
+Calibrating to your understanding and determining your capabilities
+
+Please, be patient, this will not take long
+
+What.
+
+Nathan desperately wanted to figure out what any of that meant, but the box vanished as soon as he parsed what it said. The man in orange was hovering next to him and when he saw Nathan open his eyes he heaved a relieved sigh and started to talk quickly. “Hail the Giant, you must be so confused. Be patient just a moment and all will be explained.” Each word caused another pulse of pain, but they were just faint wisps of the paired migraine of a moment before.
+
+Hang on, that wasn’t English or Spanish. And neither was the text in the box. How did I understand that? Was that magic? I’m being carried by a statue?
+
+The man had distinctly spoken in the same language as before, but Nathan understood all the words and the grammar. His head was sore, his breathing uncertain and too many questions and observations swirled in his mind, so he let the statue carry him down another flight of stairs and to a metal door.
+
+Beyond the door was a small stone room in the same seamless pale marble, complete with bed, table and two chairs in light wood. In one corner of the room a trough of water smoothly ran underneath a hollowed-out seat. The statue (or golem? Animated object?) gently set Nathan down in one of the chairs, on one side of the table. The orange-robed man smoothly slid into the seat across the table and his orange eyes focused on Nathan’s face like two searchlights. Given that they were faintly glowing, it wasn’t too bad of a comparison.
+
+“I will explain. I am Grand Dimension Archmage Taeol dho Droxol, seventh finger and third researcher of the Ascendant Academy of Giantsrest. I have summoned you here in a grand quest for Insights and power. I scried across dimensions to find…” he was interrupted by Nathan loudly coughing into his elbow, his lungs feeling scraped raw. Taeol’s eyes widened briefly, and he took in Nathan’s teary eyes and naked body. “Oh, a gauntlet of apologies. You have had a long journey”. His lips curved into a self-satisfied smile. “A very long journey”.
+
+Taeol sized up Nathan, then gestured to the statue/golem. “Fetch an extra-large apprentice robe, a bowl of porridge and one spoon”. The golem immediately turned and left the room, closing the door behind it. Taeol leaned across the table, catching Nathan’s left hand in his right even as Nathan flinched away. He spoke again in that resonant voice that Nathan was starting to associate with spellcasting.
+
+[Moderate Curing]
+
+Nathan’s residual headache lessened dramatically, his breathing evened out and the ringing in his ears reduced to background noise.
+
+He called himself an archmage! He used magic on me! There’s magic here and I can probably learn it!
+
+Excitement quickly replaced the pain. Nathan knew he should probably be scared, he should probably ask what the hell had just happened to bring him here. But instead his mouth spoke the words at the front of his mind. “Can I learn magic?”
+
+Taeol smiled again, broad and genuine. “Yes my boy. You will give me the secrets of your world, and I will teach you magic. Together we will grasp Davrar and bring it to our breast!”

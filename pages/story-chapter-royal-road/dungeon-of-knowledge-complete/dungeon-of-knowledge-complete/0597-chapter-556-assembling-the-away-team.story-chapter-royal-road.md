@@ -1,0 +1,285 @@
+---
+id: 1bccb6de-6d6b-54dd-9379-04e16be9ea8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 556: Assembling the Away Team"
+slug: 0597-chapter-556-assembling-the-away-team
+partOf: dungeon-of-knowledge-complete
+position: 597
+ownLength: 5041
+unit: words
+ownProgress: 5041
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3119184/chapter-556-assembling-the-away-team"
+royalRoadId: "3119184"
+markedReadAt: "2026-06-29T20:31:16.724Z"
+---
+
+Several hours later and holding off bone-weary exhaustion by sheer willpower, Ali wobbled into the guild hall and collapsed onto the couch in the small gap between Malika and Mato. Even the normal hubbub of a roomful of people coming down off their adrenaline rush was a relief after being forced to endure the continuous detonations of magic and the unrelenting shaking of the battlements. The din had been mind-numbing. Of course, Ali could still hear the clash from the battlements through the ears of her many minions. She glanced at Mato, wondering if he’d somehow unlocked a density advancement – his body felt like granite beside her.
+
+“Ok, everyone. You all have your shifts. For those coming up next, I’d encourage you to get whatever sleep you can,” Vivian announced, and the general commotion of many simultaneous conversations faded as everyone directed their attention to her. She consulted a few notes clearly scribbled down in a hasty hand.
+
+“I saw you flying,” Ali whispered, nudging Mato gently – any harder and she feared she might bruise her elbow.
+
+“That scoundrel tricked me,” Mato whispered back, taking her cue not to interrupt Vivian while she was talking. “He said he got a new skill that let him teleport me to the army. He didn’t say it would be from so high up!”
+
+Calen did not turn, but Ali saw a ghost of a smile curving his lips, emphasized by the flexing of the unusual lines of light etched into his skin by his Celestial advancement. Whatever he’d earned, it had to have been influenced by those Fractured Archons they’d fought in the stormy ruins of Aalion.
+
+“Tabitha commissioned Basil to find some of the spiciest fire-affinity peppers you’ve ever seen. Want me to grow some, so you can spice up his stew next time?” Ali asked.
+
+“Oh, that’s evil, Ali!” Mato gasped. “When can you do it?”
+
+Beside them, Calen coughed.
+
+“I have a few things I want to discuss with regard to strategy before letting you all go,” Vivian said. “Firstly, Aliandra, how are things elsewhere?”
+
+Ali cut off her seditious conversation hastily and answered, “There are still undead pouring out of the Crypt of Kings portal, assaulting the Well of Divinity.” She could still feel the magic of the Death Knights and the righteous justice of her Divine Archons as they waged war across the small island. Whatever his inscrutable reasons, it was clear that Nevyn Eld desperately wanted to claim the Well of Divinity for himself, and he hadn’t let up for an instant. It was too bad for him that her guardian was ideally suited for its defense. “My Divine Archon just killed Haverron again.”
+
+At least that meant there would be a little less urgency for the next few hours before the Devastation Knight was respawned.
+
+Vivian nodded. “Good. Holding so far. What else?”
+
+Her senses scanned across her domain. “Ciradyl is quiet. Undead wraiths patrol the outskirts of the city, but the Well of Souls appears to be working.” She had no idea what exactly it was doing, but any undead approaching the influence of the Well seemed to get confused and wander off. She had more than enough sentries there, and many of the Wood Elves were running continuous scouting patrols – even shooting the undead through the Well’s barrier did not break the concealment spell.
+
+“That seems to be good news,” Lyeneru said. “He must not get his hands on the Wells.”
+
+“Naia’s cavern is holding steady,” Ali continued. Helping her friend had been touch-and-go for a while at first, but then her Authority began trickling in. First from Mato and Calen’s advancements, and then in sporadic bursts as the occasional defender made a Mastery breakthrough during the fighting. She had spent it as fast as it had come in, splitting her efforts between the walls protecting Myrin’s Keep and the tunnels in Naia’s caverns.
+
+Now, that point was holding steady. The combination of her Sylvan Storm with the unique abilities she had granted it, and that cavern chokepoint she had found, was proving to be a very effective blockade against the invading undead. Admittedly, the incursion there was nowhere near the size of the vast armies Nevyn Eld had encamped outside the South Gate, nor did they seem to have the power to drag a raid boss across the portal boundary as she’d seen at the Well of Divinity, but Ali had high hopes for her Sylvan Storm. If it survived with all the support bosses and minions she’d summoned, it should clear level two hundred and fifty soon, giving her another third-tier minion and more of the much-needed Authority. Right now, her pool was dry.
+
+“Thank you, Aliandra,” Vivian said. “For the rest of you, I want you to concentrate on your assignments and hang in there. Dig in and defend the town. I’m certain Southport will send aid as soon as they regroup. All we need to do is hold off the army for a week or two.”
+
+That offhand comment was met with groans and grumbling, but Ali could tell even the Guildmaster was hiding her true feelings in an effort to keep morale from collapsing. The undead forces arrayed against them – revealed by Calen’s scouting and Ali’s own Greater Dispel – were far larger than even the craziest estimates of the force that had laid siege to Southport. Certainly, far larger than Vivian or Lyeneru had expected. The Blind Lich had shown his hand and now seemed content to settle in, grinding them down with the inevitability of creeping death. Ali’s eyes turned to Calen, remembering how he had speculated about the cooldown of that devastating umbral attack which had shattered their battlements and vaporized far too many strong defenders. If the Lich could keep doing that… if he hit one of their lynchpins…
+
+“I think we should attack,” Calen said.
+
+“Attack?” Ali echoed, but she kept her surprise quiet as she glanced at Calen. The eruption of exclamations and noise across the room was loud enough without her adding to it. How could they even go on the offensive against such an enormous army?
+
+“Attack,” he repeated. “Attack before he levels more of the town.”
+
+The immense hum of the Blind Lich’s distant Umbral Lance rattled bookshelves and shook the walls as he vaporized another segment of the battlements along with several nearby buildings. Why did I just think that? Inviting trouble! Ali threw up several barriers to block the dead from accessing the town, immensely grateful that the Lich’s devastating artillery spell had a significant recharge. She would have to rebuild the walls again, but her domain-enhanced barrier would hold till after the meeting.
+
+“You have a plan, I take it?” Lyeneru asked, characteristically holding her surprise and glancing at Calen with curiosity.
+
+Has she come to respect him that much already?
+
+“The Blind Lich has shown his hand, revealing himself and his full force. We now know exactly where he is for the first time.”
+
+Aha! Suddenly, Ali knew what Calen was getting at. He didn’t plan to attack the army. They had made a plan back in Azryet’s library, and he hadn’t given up on it, despite the Lich failing to play his part properly.
+
+“I think it’s the perfect opportunity to strike at his heart. We’d always planned to lure him out of his home base in the Crypt of Kings so that we could sneak in and capture his Phylactery. The fact that he’s here instead of wasting his armies against the defenses we built around Lira’s World Tree doesn’t change the strategy. We cannot win this battle head-on, even if we wipe out his armies and destroy his avatar with the providence of the gods, he will always retreat and rebuild, coming at us again and again, until we are worn down and crumble away. No, we must take this opportunity and rip him out at the root.”
+
+Ali had to admit that while her friend looked mostly like he had before, the changes in his appearance and voice due to the Celestial path he’d earned lent him a definitive edge of confidence and poise. There was surprising weight to his words. To his presence.
+
+“What makes you think we can do that? That the plan is still viable?” Lyeneru asked, but the legendary Pathfinder was considering his words with the full weight of her attention and extensive experience.
+
+“We have two more third-tier people,” he said. “Yourself, Ali, Mato, and me. The guild proved that the platinum raid groups teamed up can tackle monsters in the third tier when we cleared the Well of Corruption, so I’m confident that Kryostria and the Three Kings should be beatable. Provided the Blind Lich doesn’t discover what we’re doing before we win.”
+
+“So, you think that with four third-tier classes and the full raid group, we have a chance to defeat the Blind Lich’s personal dungeon?” Lyeneru asked.
+
+“I don’t think it gets better than this,” Calen said. “Obviously, it won’t be easy, and it will no doubt fail if we’re discovered, but if we don’t take this opportunity, we will lose the war – I am obviously worried about us pulling back from Myrin’s Keep, here, but I don’t think we’ll get another similar opportunity.”
+
+“I agree,” Lyeneru said, a dark expression crossing her eyes. “I do not believe we are strong enough to hold him off for long.”
+
+It was a daring plan, and one Ali wouldn’t have ordinarily expected from someone as calm and rational as Calen – but it was filled to the brim with his signature brilliance, and he sat with an air of confidence that was hard to argue against.
+
+Unfortunately, there was only one problem. “I think you all are forgetting that I can’t go,” Ali said ruefully. “Not if you want to keep the mission a secret.” As if on cue, a dark orb suddenly popped into existence above her head, and Calen’s arrow pierced it before anyone could even flinch, pinning it to the guild’s ‘Looking for Group’ board. Black ichor leaked from the eye, dripping down the board from the puncture, causing more than a few of the lower-level adventurers to blanche or shudder at the brief brush with the Eldritch presence.
+
+Calen’s face fell as the truth of her words settled in. Wherever she went, Baaoht Yll’shuum would surely find her. Now that the Blind Lich had revived, the eldritch being would undoubtedly keep him apprised of her whereabouts.
+
+“What would our strategy be for Myrin’s Keep in the meantime?” Vivian asked, posing the obvious question. “There are a lot of people who need protection. If we cannot hold off his armies with our current forces, sending the strongest off to fight in the Crypt of Kings will cripple us. How does Nevyn Eld have so many high-level minions?”
+
+“Some of our skills scale really well at the higher levels,” Seth observed soberly from the corner where he sat, offering a sobering explanation for the sheer size of the Blind Lich’s gigantic necromantic summoning.
+
+“Can you protect the town with just your bosses, Aliandra?” Vivian asked. “Can you match him?”
+
+“I have more than enough minions to teleport back and forth whenever I need, but…” Can I match that power? How can anyone? Ali could still see the endless hordes of undead throwing themselves relentlessly at their defensive line. Her breath caught in her throat at the immensity of it.
+
+Before she could finish her thought, a familiar voice cut through the murmuring.
+
+“Perhaps we may be of service?” Moira Sangrey said, stepping into the hall, followed by her team.
+
+Witch – Human – level 203 (Lightning / Arcane)
+
+“Moira? What are you doing here?” Vivian asked. Then she corrected at once, “Not that your team is unwelcome, mind you. It’s just a surprise to see you.”
+
+But Moira was not alone. Nor was it just her team that had arrived. Platinum-ranked adventurers filed into the guild hall in a continuous line.
+
+“We read your report that the Lich had arrived at Myrin’s Keep, and we decided to come to defend Aliandra,” Moira said flatly, as if she took Vivian’s comment as a personal challenge. The Guildmaster made to raise her hand in apology.
+
+“Me?” Ali squawked.
+
+“Yes, you,” Moira said, grinning.
+
+“You would cross the kingdom to defend a dungeon?” Lyeneru asked, but her tone wasn’t one of shock or surprise – more a cautious hope.
+
+“This is no longer about dungeons or ancient fears. We must cast off old superstitions and grudges for our very existence is threatened,” Moira stated. “We have faced the Lich’s armies without rest. We know them well enough. Aliandra is the most important resource on the side of the living – she cannot be allowed to fall. The longer she lives, the stronger we grow. The Blind Lich knows this; it is the reason he’s here.”
+
+Ali’s eyes widened at the words, and the line of platinum-ranked adventurers – most of whom she recognized from granting them their first evolutions. They returned? They all returned?
+
+Also, she had another chilling realization. The Lich failed to deal with me early on. Somehow, I failed to attract his notice, just too weak and insignificant. Now he’s here for the endgame. He isn’t going to stop until we’re all wiped out of existence, is he?
+
+“It sounds like you have a bold plan, and simply need someone to guard your home base?” Moira said. “We know how to hold the siege against the Lich’s armies. We will guard the walls while you take the fight to him.”
+
+“Your service is greatly appreciated,” Vivian said, nodding her head respectfully.
+
+Moira cleared her throat, “Um, we could use some fresh consumables and supplies. We came without restocking.”
+
+“That we can help with,” Vivian smiled. “Chat with Weldin at the guild store, and he can get whatever you need. We also have two gods handling buffs. I suggest you take advantage of those.”
+
+That comment got a few strangled coughs and gasps.
+
+“I have a suggestion,” Ali said, considering her abilities carefully. She had aggressively burned all her Authority, shoring up the town’s defenses, but during the long battle, several people had earned advancements, and she now had a whopping total of two points. “While I cannot join the away team personally, I can fight remotely. My last evolution gave me some substantial bonuses for dungeon breaks. I can make a party of third-tier Elite minions and send them with you to the Crypt of Kings.”
+
+“Elite dungeon breaks? That ability is ridiculous,” Lyeneru muttered, but it was the radiant grin on Calen’s face that told Ali everything she needed to know.
+
+“In that case, I will remain here and help coordinate the defenses of Myrin’s Keep,” Vivian said. “Lyeneru, perhaps you can lead the raid?”
+
+“Certainly,” Lyeneru said.
+
+“What can we do?”
+
+Ali glanced up at the sound of a familiar voice and instantly recognized the druid, Kerrin. A follower of Lira’s – just barely at level twenty.
+
+“Focus on your studies and training, Kerrin,” Vivian said.
+
+Kerrin’s face fell at the tough reality. There was no place for a level twenty in a battle against Death Knights and Liches. Even just getting close enough to the ice or death auras may be enough to kill someone that low, and the Guildmaster had basically told her to stay out of it, for her own safety.
+
+But there was more than one way to contribute.
+
+“I feel I should point out something important,” Ali said, interrupting. “If you earn a mastery or knowledge skill advancement in the dungeon, I have a chance of earning reputation and gaining a point of Authority. I can use Authority to make stronger bosses – far stronger, in fact.” Sure, it was just a chance, and low-level advancements came with a far lower chance, but it wasn’t nothing – and who knew if one more point of Authority might turn the battle.
+
+“How much Authority do you have?” Kerrin blurted out, and then clamped a hand to her lips while flushing a bright crimson at the faux pas.
+
+Given the circumstances, Ali didn’t mind answering, certainly not when it meant people’s lives might be saved. “I have a whole two points left at the moment – not even enough to make my away team. I spent every other point on the defenders already. More would be extremely valuable.” To her surprise, a sudden spark of determination kindled in the young druid’s eyes and spread like wildfire across the lower-level adventurers on the outskirts of the guild hall – like a spell proliferation wave as they realized a way they could make a meaningful contribution.
+
+“Any class?” Kerrin asked. “Not just combat?”
+
+“Yes, any,” Ali confirmed.
+
+“I’ll make sure to let the crafters and the Academy know, too,” Kerrin said, a sudden look of purpose on her face. Excited murmuring spread throughout the room.
+
+“That’s a great idea, Kerrin,” Vivian said above the hubbub.
+
+The conversation drifted then to strategy, defenses, logistics, and the selection of the raid group members.
+
+“One of us should stay with Ali,” Mato said, his gruff voice filled with concern.
+
+“I agree,” Calen answered.
+
+“Hey, I can look after myself, you know,” Ali said.
+
+“Yes, I know you can,” Malika said. “I’ll stay. Just promise you’ll make the raid group a super-healer Elite, please? I don’t want to hear that the boys got squished without my Healing Mantra.”
+
+“You don’t have to, Malika,” Ali said, surprised and more than a little moved by her friends’ concerns.
+
+“I know. I’m sure it will be just hiding behind your ridiculous monsters the whole time, but I can help train the novices and bronze-levels and hopefully get you a few more points of Authority, and if I can hit two-fifty in the process, you’ll earn three more points.” But despite the casual lightness and self-deprecation in her words and tone, there was a glint of unbreakable adamant steel in her gaze, and a firm set to her jaw that betrayed far more serious concerns.
+
+Malika needs this just as much as I did. Ali smiled at her friend, receiving a rather grim smile in return. Alright, Malika. You’re not exactly far behind. Now, what else…
+
+Before Ali could challenge her friend’s reasoning, in a distant cavern nestled underground to the far northeast, her domain surged, flooding her Sylvan and filling the underground chamber with a storm of green. Undead crumbled in droves, and Ali’s chime rang out in a soft, bright chorus.
+
+Your Sylvan Storm has reached level 250 (+2).Your Sylvan Storm has met the requirements for class evolution.
+
+There it is! Ali’s relief was palpable. With the three points she would earn for the Sylvan Storm’s tier-up, she would not only be able to field a new, powerful minion, but she would have the points to make the minion team she needed to protect her friends.
+
+***
+
+Ali glanced over her monsters one more time, examining them critically. She had almost sweated blood weighing their strengths and abilities, calculating efficiencies and synergistic skills to produce the optimal group. Every item had been recrafted and reconsidered more times than she could count. Still, she was unsatisfied. A persistent undercurrent nagged at her in the back of her mind, tightening her chest. Her stomach churned uncomfortably.
+
+“It’s ok, Ali, we can take care of ourselves,” Mato said, comfortingly, eyes soft with worry or concern. “My advancement was very strong. Azryet’s patronage unlocked those void force shields his dragons have.”
+
+Why’s he worried about me? He’s the one attacking the Lich’s dungeon.
+
+But it was true, she was fussing now. Procrastinating when this group was already the best she could manage.
+
+I just hope it’s enough. She pressed her lips together firmly. It had better be enough. That Umbral Lance or those horrors will hammer the final nail into our coffins otherwise.
+
+“What do they all do?” Lyeneru asked, drawing the attention of the entire room. It had cleared out dramatically, and only the higher-level adventurers who were to participate in the raid were present, along with those of the Southport delegation that were off shift. All the lower-levels were out training or studying, or ferrying fresh potions and items from the crafters’ labs and workshops.
+
+Ali’s gaze lingered over the five minions – both towering and tiny – standing quietly in the guild hall while the adventurers finished up their preparations. In their construction, she had blessed each with a single precious point of Authority. Every single point she had. They positively sparkled with energy, a gleaming, radiant foundation that leaked out into the room, reminding her of that indefinable quality of substance and weight she saw in Calen and Mato after their evolutions. Even with mundane senses, there was something about them. Do I look like that?
+
+The conversation among the other adventurers died as they all turned to stare.
+
+Ali walked over to stand before her newest third-tier minion, freshly raised.
+
+Sylvan Storm – Sylvan Elf / Plant – level 250 (Nature / Lightning).
+
+“I gave the Sylvan Storm Deadshot,” Ali said, indicating the tall, slender elven-tree hybrid surveying the room with delicate, inquisitive eyes. But there was nothing delicate about the pair of legendary bows Ali had given her, nor the competent way she held them in both her right hands. “You may recognize it as that ridiculous attack Nendir had.”
+
+Lyeneru winced.
+
+Advancing her Sylvan Storm boss to the third tier had earned her a far more potent archer, and three points of Authority – the other two points for this group had come from Kerrin’s inspired motivation setting half the guild to training. Following Calen’s advice, Ali had equipped the Sylvan Storm with three combat-focused rings – including two of the parasitic ones – and a storage ring filled with a wide selection of potions and alternate bows to increase her versatility. One advantage of having four hands.
+
+Mirianth [Terminal Velocity] – Kobold – level 252 (Holy).
+
+“This is the Elite healer I promised,” Ali said, meeting Malika’s gaze and gesturing to the named kobold priest, only slightly taller than she was. It happened to be the same priest who had fallen to her death from the Islands of Aalion, now resummoned a tier higher and with far greater power. “I gave her Zone of Destruction.”
+
+The little kobold stood with hands clasped before her, head bowed, using her Prayer skill, sending visible pulses of holy magic radiating out into the guild hall.
+
+“Zone of Destruction? How does that work for a healer?” Lyeneru’s brow furrowed slightly.
+
+“It works like a domain magic version of Consecration,” Ali explained. She had borrowed the holy version of this domain magic skill from Azryet during one of their trades. “It will heal allies and damage enemies; all you have to do is stand in the fires.” She had verified that it had both the Healing and the Holy traits, and so its power would benefit from most of the kobold’s support skills and aptitudes, and, of course, holy damage should be incredibly effective against a dungeon full of undead.
+
+“Thanks, Ali,” Malika said, clearly appreciating the potent area healing enhancement she was offering the raid team.
+
+Ali moved to the next member of her team.
+
+Carnage Berserker – Giant Troll – level 251 (Blood).
+
+“I gave the berserker Amplify Skill on Blood Rage,” she said, pointing upward at the towering Carnage Berserker. At the third tier, her berserkers towered even taller and more massive, with muscles the size and texture of boulders clearly visible even when standing at rest. She decided to keep Tol’brekk and his unique The Rage of Aman Rak class with her, and instead, she summoned a fresh berserker with a third-tier version of the Carnage Berserker class to support the Crypt of Kings raid. “It dramatically increases the damage boost from her rage – it works very well with her tier-three skill advances.”
+
+“That might be a bit challenging,” Lyeneru said.
+
+“I have enhanced control over their emotions now, so you shouldn’t need to worry too much.” It wasn’t perfect, by any stretch of the imagination, but tiering up Martial Insight had definitely improved the quality of her communication and control of her minions. Not that control was typically a problem, but the berserker’s blood rage was a unique skill.
+
+“Ok, I’m trusting you on that one,” Lyeneru said. “What about the others?”
+
+Divine Archon – Celestial Sun Elf – level 252 (Holy).
+
+Next, Ali pointed to the towering Sun Elf Archon, casually handling a Holy Avenger greatsword that was likely heavier than most of the adventurers staring at it.
+
+“I gave the Divine Archon the Amplify Skill enhancement on her Celestial Sword,” she said. It was the same approach she had used for her first World Walker, and it had proved highly effective. Celestial Sword was both a sword mastery, and it also allowed the Archon to throw her sword, filling a room with devastating whirling blade images. Definitely a powerful tool against hordes of undead. “And don’t forget, the Divine Archon can heal too; you should treat her like a paladin.”
+
+“Thanks for the damage!” Havok cheered, waving a matching, though much smaller, holy sword.
+
+Lyeneru nodded while a ragged cheer made its way around the onlookers, before turning her gaze to the final minion and visibly straightening up.
+
+Nendir [The Purified] – Celestial Wood Elf – level 251 (Soul).
+
+The Soul Archon, who had once been a storied Wood Elf, stood quietly at ease, his eyes alert and missing nothing. Once she realized the dead were not attacking Ciradyl, Ali had reclaimed him from the Well of Souls. Although he could now summon a bow of pure soul magic, the steady weight of Lunaré’s Lament rested easily in his hand. Tall – though not quite as imposing as the Divine Archon – it was clear that he had once been a Wood Elf, even to those who had not known his face. He had dark skin of mottled forest tones and long, flowing brown hair, but he would never be mistaken for a normal Elf. His eyes were solid white and shone with visible radiance, and his body was cloaked in a shimmery, veil-like aura that rippled and swirled whenever he moved. According to his skill descriptions, the veil would conceal his presence in combat or on hunts, and from what she had observed so far, it was remarkably effective, allowing repeated use of Ambush to punish even the slightest lapses in attention.
+
+He was her most powerful archer, and they would all need his skills before the end. It was just too bad she couldn’t leverage his additional powers that came from proximity to the Well of Souls, but his titles and skills would be invaluable wielded against the dead.
+
+Ali’s choices of third-tier minions were still quite limited. Other than the ones she had already introduced, she had only the Archer Wight, a couple of Azryet’s dragons, and the Fractured Archon. Being undead, the wight of course required an attachment to a death-affinity biome in her domain, so it was not useful for a dungeon break. Dragons would struggle in several spots inside the Crypt of Kings, and between the Fractured Archon and the Soul Archon, the choice had been obvious. While the Divine Archon had earned a place with potent holy magic, the Soul Archon seemed to be the perfect assassin against the dead.
+
+“The Soul Archon has aptitudes that dramatically increase damage to undead, skills for tracking undead, and various improvements to critical damage against undead. I gave him Undead Slayer.” Ali quickly shared the skill sheet with Lyeneru and Vivian.
+
+“Well,” Lyeneru said after a few moments. “That’s really something, isn’t it?”
+
+Vivian just raised an eyebrow and let out a low whistle of appreciation.
+
+They weren’t the only minions she was sending with the group, but they were by far the most significant. Ali included several utility classes, like her witch doctors for decursing, a blood shaman for an alternative source of healing, and several classes picked for their unique perception skills or curses, like her eye demons. But for pure combat, her Authority-enhanced World Walker Elites would be the powerhouses.
+
+“It’s too bad we won’t have Malika’s Clarity for all the fear auras,” Calen said.
+
+“I agree with Malika’s assessment,” Lyeneru said. “Having her here to protect Aliandra is smarter and offers her a quicker path to the third tier, which we desperately need. We are taking Weldin Thriftpenny, so we should adjust on the fly.”
+
+“You shouldn’t have to worry about my minions on that account, either,” Ali said, absorbing the blunt admission that the Night Elf saw Malika’s role as her bodyguard. “I stocked them all with Eternal Reverie potions, and Veylis’ Final Word in combination with the Eye of the Lich will grant all my minions a sixty-five percent resistance to death magic and an additional thirty-five percent resistance to fear effects.”
+
+Calen let out a low whistle. “Wow, Ali. You’ve thought of everything!”
+
+“I just hope I haven’t missed anything,” she corrected. “How’s about –”
+
+“I’ll review everything. Maybe a tweak or two?” He had the grace to look extremely doubtful. “Thanks for the knowledge!” He winked at Havok.
+
+“Knowledge good. Damage better,” came the predictable response. The Goblin gestured eloquently to the assembled minions Ali had prepared. “That good damage!”
+
+“Ok. Then, it looks like we’re ready,” Lyeneru said. “Those of you who are coming on the raid, please double-check to make sure you have escape potions and all the elixirs from the list Calen provided. I will not be fishing you out of the Nightmare if you were too cheap to buy enough Mental Fortitude elixirs.”
+
+And shortly after, the raiders began vanishing through Ali’s runic circle, to appear in the small ice cave high up in the Fangs of the Frost Wyrm, right outside the Crypt of Kings.
+
+She puffed out her cheeks. Wish I could be there – wait! Does this make me the bait? Or just a distraction?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

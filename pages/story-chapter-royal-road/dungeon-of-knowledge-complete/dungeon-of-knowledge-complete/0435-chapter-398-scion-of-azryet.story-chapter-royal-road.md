@@ -1,0 +1,143 @@
+---
+id: c083ed44-ad21-5d32-b747-c03426e3c04b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 398: Scion of Azryet"
+slug: 0435-chapter-398-scion-of-azryet
+partOf: dungeon-of-knowledge-complete
+position: 435
+ownLength: 3388
+unit: words
+ownProgress: 3388
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2648518/chapter-398-scion-of-azryet"
+royalRoadId: "2648518"
+markedReadAt: "2026-06-29T20:26:46.800Z"
+---
+
+Three things happened almost simultaneously. The Abyssal Dragon released its breath weapon, a sphere of light-devouring blackness that sizzled and crackled as it shot downward, aimed directly at the barrier Ali cowered behind. The Baelok Descrier teleported into harm’s way, appearing right beside her. Tol’brekk roared, leaping into the air in a mist of blood red rage, both axes swinging toward the void sphere with immense power and trailing streamers of his blood.
+
+The black hole of void magic hissed loudly as it passed the giant troll, removing his legs, but the dragon reared backward as the twin greataxes passed a hair’s breadth from its eye. The fear diminished, somehow.
+
+Ali glanced up, suddenly regaining full command over her mind. She glanced about, her eyes meeting the gaze of two of her Baelok Descrier’s peripheral eyes, and she suddenly understood. An aptitude the demon possessed, Inscrutable, hardly relevant at the time she had read it, but it granted the mind magic demon immunity from mind-altering effects. When the Scion had appeared, the demon had teleported, placing her within range of its Compulsion aura – an aura that increased resistance to mind-altering effects. Effects just like the dragon fear.
+
+As she recovered, so did her minions, no longer overpowered by their connection to her.
+
+“Heal him,” she commanded, suddenly catching up with the battle. He saved me. Her Descrier was not the only minion able to overcome fear. Two beams of Blood Siphon intersected the fallen berserker, synchronized with an infusion of holy healing. His severed body began regenerating rapidly under the influence of the powerful surge of healing.
+
+But the Abyssal Dragon was not done. Its maw opened again, and it roared, unleashing a narrow beam of pure black that tore through stone and minions as it unerringly sought her out. She had no time to flee, ducking behind her barrier instead. The beam sizzled, disintegrating stone and runes with equal ease until it struck her barrier.
+
+It didn’t pass through the golden wall, but to her dismay, she felt the void magic disintegrating the very structures of her magic wherever it touched. It was as if it were anathema to all mana and matter, simply erasing whatever it touched. She poured her mana into the barrier, desperate to repair it while she sprinted sideways, trying to make herself harder to hit. Suddenly, the beam winked out, and the dragon voiced a thunderous roar of annoyance, flapping huge wings and sending powerful gusts of wind downward, knocking her smaller minions sprawling.
+
+Take the initiative, she told herself. But she was struggling to see what she might do against a flying monster of such incredible power. It wasn’t a boss monster, but it may as well have been, judging by the number of minions lying strewn and bleeding on the ground – many of them minus a limb or two. Healing magic poured from her blood shaman and acolyte as they struggled to recover the maimed and injured. That void power is brutal. I’ll have to watch myself here.
+
+Ali began to organize her monsters, shifting them around to be closer, taking advantage of the Descrier’s aura. As soon as she got her mage into the aura, she began to fire ice bolts at the dragon. Next, she gathered her bone warriors together and ordered them to fling exploding axes into the sky. Joraa could reach the dragon with Blood Siphon, but that might have to wait for the minions to heal. At least her Descrier had its Mind Blast and could shoot multiple of them simultaneously.
+
+Flying is stupid, Ali grumbled, echoing Mato’s favorite complaint. What she really needed was a way to ground the beast. Freshly healed, she encouraged Tol’brekk to take another leap, which he was all too keen to try anyway. The huge bulk of the giant troll leapt into the air, swinging his axes furiously. The blades struck, but instead of burying themselves in black scales, they collided with a transiently materialized wall of void in a loud buzz of sizzling and popping. Sparks and glittering fragments burst into the air, and when the axes rebounded, sizeable chunks of the blades were missing, as if some ravenous, metal-hungry beast had taken a bite.
+
+Tol’brekk roared in defiance.
+
+The draconic maw opened wide, and a midnight-black formation flickered into being between the gleaming fangs. “Scatter!” Ali yelled, and her minions scrambled to get out of the way as a huge, expanding ball of void crashed into the stone floor, removing a perfectly spherical indentation and taking half an Abyssal Stalker that had been unlucky enough to dodge the wrong way.
+
+“Pull its wings,” Ali said.
+
+“Yes, Master. A fantastic strategy,” the Descrier replied, swiveling around and floating upward as it fixed its major eye on the flying dragon.
+
+Thrumming strands of near-invisible telekinetic magic poured out, grappling with the dragon. One wing froze, tangled and twitching. The dragon roared in frustration, turning hateful eyes on the demon, but it was unable to prevent the precipitous downward spiral and met the ground with a shuddering crash. The Scion rolled over and got to its feet, snapping sharply to the side and raising its head with a kobold rogue in its maw. Or, what was left of her rogue after being bitten in half by those powerful, void-imbued fangs.
+
+“You pitiful insects will perish!”
+
+The voice of the dragon hammered down on her, and the full power of the Dragon Fear momentarily overcame even the Descrier’s aura as Ali was driven to her knees under the immense pressure.
+
+Suddenly, the giant dragon vanished in a swirl of depthless blackness. As the enormous shockwave rattled Ali’s barrier, the dragon appeared on the opposite side of the room, leaving behind a trail of disintegrated stone and wisps of void magic. One of her bone warriors was gone. Entirely unmade, deleted by the sheer force of what had been a void teleportation skill that seemed to erase everything between the dragon and its destination, including space. Joraa lay on the ground, pumping blood magic healing into himself as he struggled to repair the cauterized wounds of being caught too close to the spell. The air rippled and warped, bending strangely as it snapped back to normal.
+
+Shit, the beam. Ali threw a barrier up in front of her minions as the dragon breathed its beam of disintegration toward her forces. She struggled against it as the power of the dragon’s magic tore through her barrier, slowly erasing the essential magical structures of her formation.
+
+“Go now!” she yelled.
+
+With an incoherent shout, her berserker soared over the barrier, crashing down on the dragon’s back and swinging his damaged axes with fury and fresh rage, dealing shattering blows to its neck and shoulders. Void barriers flickered in and out, deleting pieces of troll with every flash, but Tol’brekk responded by unleashing Blood Vortex and funneling the damage into power with his rage. Recovered now in the time they had been granted, Kir’mogan and Joraa charged to join in, the Blood Shaman popping his new Holy Shield in response to a swipe of sizzling claws. Beside her, Ali’s magical forces unleashed everything. Hellfire fireballs, ice bolts, Soul Drain, and even the ice breath of her mage’s familiar.
+
+Oh, their weapons! Ali flicked open her Grimoire when she saw what was happening over in the thick of battle. The stump of Kir’mogan’s bone greataxe had been discarded, and he was attacking furiously with self-grown blades, but with every strike, the void defense magic of the dragon tore his bone tonfas to shreds. He regrew them continuously, but it was just a matter of time till he ran out of mana. Tol’brekk was also almost down to axe handles, using them more like clubs than the powerful axes they had originally been.
+
+As she resummoned an axe, she directed her remaining Abyssal Stalkers to attack the grounded dragon from behind, but the tail lashed out with a whip-like crack, trailing void magic, and her stalkers went flying, some of them cleanly bisected by the void. Her eyes leaped as she surveyed the mayhem, cataloging, assessing, formulating and discarding strategies in milliseconds. Her fists clenched as her mind burned with possibilities. One thought was clear. She could not falter now.
+
+“Keep it grounded,” Ali cried.
+
+“I obey, Master,” the Descrier answered drily.
+
+She summoned a barrier, catching the huge axe as it appeared, and lobbed it toward the melee. Her berserker snatched it up with a surge of feral glee and cleaved it through the widening maw of the dragon as it readied its black hole attack once more. The slicing blade sprayed void-imbued black blood out in a several meter wide arc to be sucked up by the shaman totems on the ground.
+
+The dragon roared and bit down, its fangs buried deep in the berserker’s shoulder, and Ali gasped as she watched his health plummeting rapidly. An instant later, Tol’brekk triggered his Last Stand. Flush with temporary life and a much larger maximum, the berserker tore free of the savage bite with Blood Vortex, slashing the dense dragon scales in a gruesome storm of blood and steel.
+
+The dragon’s health was dropping sluggishly, but it was clear from her Healer’s Sight that the dragon possessed some kind of healing or advanced regeneration, because a recovery would kick in whenever there was a lull in attacks. Her melee was a terrible match for this monster, every single strike causing weapons and limbs to be progressively disintegrated by the void defenses. But without her berserker tanking and her warrior loading up Mortal Wounds, there was no way she even stood a chance.
+
+“Now,” Ali called, directing her thoughts downward through the floor. An emotional blast of impatience ricocheted through her connection as the Subterranean Brood Queen swam through the alabaster marble, breaching right underneath the dragon with her entire brood of rock beetles spilling out like a sudden volcanic eruption.
+
+The dragon roared in surprise as it was assaulted with a hail of sharp rocks and biting mandibles as the beetle horde tore into it without mercy. It lashed out, striking at the Brood Queen with void-empowered claws, but although they disintegrated rock with ease, they were simply not long enough to penetrate the queen’s massive carapace of rock-reinforced armor. The gashes rapidly closed as the queen regrew her armor while simultaneously summoning fresh beetles to replace those lost to the lashing tail or the barriers of void.
+
+The dragon lashed out with its talons and writhed its body, sending smaller minions flying, and tried to flex its wings, but the Descrier bore down, pouring mana into its Telekinetic Eye, and the attempt at getting airborne stalled out. As the dragon’s health began to plummet under the unrelenting assault, it became progressively more desperate, lashing out with claws and fangs. Rock beetles flew, bouncing along the ground, or cracking against the walls – but they were all earth-affinity monsters, and mere impact against stone could not hurt them. An Abyssal Stalker was dashed to bits, forming a gruesomely dark splatter against the white marble. Her shaman and her bone warrior repeatedly scrambled back to their feet amid the flurry of freshly-grown bone, blood ribbons to recover horrendous injuries, or the pop of Holy Shield being recast as they strove to take the fight to the dragon.
+
+Flickers of void mana appeared, and Ali flung out her golden darts to disrupt the incipient, destructive teleportation spell, but her magic collided with a barrier of pure darkness and burst with a sizzling pop.
+
+The dragon vanished again, connecting itself to a clear space with a powerful surge of void mana. Everything in its path exploded, disintegrating in an instant, leaving a massive furrow on the ground. The Subterranean Brood Queen flailed around with three legs suddenly amputated along with a sizeable chunk of armor. Green ichor oozed from the grievous wound as Ali’s acolyte surged with holy power to recover the damage.
+
+The dragon’s maw opened, and it turned, dragging with it the fearsome, rapidly growing ball of black energy. The void magic shot outward, flying toward the melee group. Ali’s barrier snapped into place, but the giant ball of black void crunched into it, pausing for a second as it disintegrated her barrier magic before shooting forth. It sizzled as it intersected the Brood Queen, carving a three-meter-wide hole through the entire carapace, leaving it almost cut in half. Ali felt the mana reservation snap even before the acolyte stopped healing it, and all the spawned borer beetles collapsed.
+
+“Kill it,” Ali said, brandishing her wand and granting Winter’s Desolate Celerity to her mage, and then giving the same boost to her Descrier and the remaining Hellfire Imp. Bolts and fireballs flew with hasted acceleration.
+
+“Bloodlust,” she commanded.
+
+“I hear and obey, Seeker,” Joraa declared, responding with a surge of blood magic to empower her remaining Abyssal Stalker and the berserker and warrior along with herself.
+
+Winter’s Desolate Celerity expired first, but Ali recklessly burned more charges to give them all another round. The bolts flew fast and furiously, and the dragon roared, slicing a beam of void toward her mage and telling Ali that her strategy was certainly having some effect. Her barrier blocked the beam, but had no effect on her mage’s ice bolts, so she summoned another, and then a third, layering barrier magic to give her minion more time to shoot. The void magic poured into her barrier, refilling her mana pool even as it bored through the golden magic like a drill. It disintegrated its way through the second and halfway through the third before it finally winked out.
+
+Ali emptied her wand as the last few seconds of Bloodlust ran out and her mage’s high-speed ice bolts finally struck home.
+
+The huge dragon roared in pain, rearing up onto its hind legs and then hitting the ground with a shuddering crash, crushing the corpses of Ali’s half-destroyed army.
+
+You have defeated Scion of Azryet – Abyssal Dragon – level 148 (Void).Dungeon of Knowledge has reached level 129 (+2).+20 attribute points. Arcane Insight has reached level 71.Barrier has reached level 72 (+2).Grimoire of Summoning has reached level 49.Martial Insight has reached level 81.Empowered Summoner has reached level 61 (+2).Identify has reached level 26.
+
+Oh, thank goodness. Despite not physically fighting, Ali was breathing heavily from the sheer force of will needed to power her barriers against the disintegrating void of the dragon’s breath attacks. It had drained her mentally, and the shock of the Abyssal Dragon’s sudden power had destroyed whatever shreds of complacency she might have had as certainly as its void magic had annihilated her minions.
+
+She quickly distributed her incredibly welcome new attribute points: two into vitality, four into perception, six into wisdom, and the remaining eight into intelligence. Then she dismissed her level notifications as she flew across the devastation to take stock. There were enormous furrows where stone, runes, and holy fire had been obliterated, victims of the passage of the dragon’s intense void-based teleportation magic. There wasn’t even any rubble. More than half her minions had been killed; some of them were entirely erased, leaving nothing for her to even deconstruct.
+
+Carefully, she approached the enormous black dragon, but the void magic that had ripped her monsters to shreds had died down to a slowly fading trickle, no longer presenting any danger for her, and even the dread weight of Dragon Fear had vanished like it had never been.
+
+Void Dragon. Scion of Azryet. She reached out and laid a hand on the still uncomfortably warm black scales and filled the corpse of the powerful Abyssal Dragon with her Deconstruction magic. Her impressions of this dungeon had been entirely wrong; it was not a kobold dungeon – this monster before her was the king of the dungeon and entirely warranted the power of the domain she had witnessed. She was just glad she had encountered only one, and that it had not been a domain-enhanced boss of some kind. She shuddered to think of the power of such a monster with Spell Cascade or Elemental Storm.
+
+As the dragon faded into motes of light and darkness, two chunks of the abyss popped out, hovering in the air.
+
+Greater Void Essence x2
+
+Ali collected them for later investigation, but as the motes of mana drifted away, her tension faded. I survived. It had been a close call several times – too close. She was strong, but surprise could still easily kill her, and this monster had been stronger. She didn’t know how the dragon had picked her out immediately as the most important target, but she had nearly died from barrier failure right at the start.
+
+For now, though, she was safe. Plenty of lessons learned, I suppose, she thought ruefully, mentally dusting off her knees and elbows and taking a deep, calming breath. Right. What’s next?
+
+Her gaze turned to the room itself – a wrecked holy cathedral deep in an abyssal dragon dungeon. Much of the fascinating runework inlaid into the floor had been destroyed by the dragon’s power that ripped great chunks of it out, leaving pieces unconnected, runic circles shredded, and holy magic leaking out as the spells slowly faded. But there was still enough remaining for her to study, and the giant voidstone still hovered above, waiting for her to deconstruct it to see if she could finally create a gap in this powerful domain to create a small niche for her own or to create stronger ripples of force that might show her the way out.
+
+She floated up slowly, examining the hovering voidstone before reaching out with her mana and deconstructing it. The giant crystal of pure black vanished in a surprisingly anticlimactic puff of mana, and the potent domain about her shivered, rippling as if her magic had removed a critical support and now everything had suddenly become unstable. It wobbled.
+
+Interesting, she thought. She had half expected that it would immediately collapse, but something more was propping it up. I guess I’ll just have to find whatever that is. She watched curiously, studying the ripples emanating from her removal of the voidstone, trying to understand what she saw. The domain bent and twisted with strangely powerful formations springing up where it should have been weakened.
+
+Is that a defensive enchantment? Ali backed up a little while she studied it carefully, but couldn’t uncover how it might have been created.
+
+“Master!” The urgent voice of her Baelok Descrier appeared suddenly in her mind, and she shifted some of her awareness to the demon. Suddenly the formation became clear – it was a vast, domain-powered teleportation spell on a scale she could scarcely believe, and she was hovering right in the middle of it!
+
+Heart racing, she vanished, switching places with her Sacred Ooze and appearing back at the entrance archway, hovering above the patch of moss and mushrooms she had grown right up to the edge of this chamber.
+
+Domain mana surged as the spell completed, and Ali’s ears popped painfully from the implosion of all the air in the room being sucked out, followed by a sudden reversal as the vacated space within the cathedral abruptly manifested a vast, singular form that blotted out the light and the entire roof. Its arrival was accompanied by the detonation shockwave of air blasting outward, making the stone walls tremble and knocking her minions to the ground.
+
+A huge eye, larger than Tol’brekk standing at full height, opened within the scarred and black-scaled reptilian face. The eye trailed intensely bright holy fire and wisps of the blackest void, and she could see the immense fury that smoldered within. Giant wings of black unfurled, trailing void magic, a span wider than the entire cathedral as they ripped through the stone walls on either side, sending great boulders of alabaster stone crashing to the ground.
+
+The sheer presence of the dragon – far beyond mere Dragon Fear – bore down upon her, driving Ali to her knees on the shattered ground. She shuddered as the words of her identification seared into her mind.
+
+Azryet [The Calamity] – Ancient Abyssal Dragon God – level ???? (Void / Holy)
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

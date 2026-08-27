@@ -1,0 +1,123 @@
+---
+id: bbd2f546-a124-5fdd-a316-1014fcda5e3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 277: The Pathfinder’s Report"
+slug: 0311-chapter-277-the-pathfinder-s-report
+partOf: dungeon-of-knowledge-complete
+position: 311
+ownLength: 1736
+unit: words
+ownProgress: 1736
+publishedAt: 2025-06-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2350766/chapter-277-the-pathfinders-report"
+royalRoadId: "2350766"
+markedReadAt: "2026-06-29T20:21:50.164Z"
+---
+
+The light of the breaking dawn spilled across the carefully tended grounds surrounding the illustrious Temple of Lunaré, creating long shadows where the trees stood as mute sentinels guiding visitors along the gently winding pathway to the center.
+
+Fancy, Calen thought as he approached the white marble archway that served as the entrance to the temple. The Temple of Lunaré is always open should you have need of it, he thought, reiterating the most commonly uttered words of the acolytes and priests that served here.
+
+Apparently, they took it literally – he walked through the doorless archway and found himself in a lobby where a white-robed acolyte waited behind a desk. “Greetings, traveler,” the elf intoned. “Do you have need of Lunaré’s blessing?”
+
+“Good morning,” Calen offered. “Can you direct me to where Lyeneru Silverleaf is staying?” The spartan lobby was a study in marble, with incredible murals on the walls depicting scenes that Calen assumed were meant to evoke divine providence. At the opposite end of the chamber, a small party of hooded priests robed in a variety of shades wandered sedately toward the exit intoning a low chant while gently swinging smoking censers that filled the air with a delicate scent that he couldn’t quite place.
+
+“She is in the guest chambers,” the receptionist said, his hand indicating the same exit. “Down that hallway, third door on the right. May Lunaré guide your path.” The elf bowed to him with his palms pressed together above his heart.
+
+“Thank you,” Calen said. He made his way down the hall, and when he found the proper door, it opened and the Night Elf priestess Lamyndra Duskwind emerged.
+
+“Aah, there you are,” she said. “The patient is unruly, but also very tired. Please keep your visit short.”
+
+“I will,” Calen answered before he knocked on the open doorframe.
+
+“Come in, Calen,” Lyeneru said. She sat at a small table, writing with an expensive-looking enchanted pen that seemed to require no ink. On the table beside her was a stack of completed parchment and a glowing Elixir of Vitality Rejuvenation. “I’m almost done.”
+
+Calen entered, closing the door softly behind him, and sat down, waiting patiently while she continued writing. He studied her, finding no more evidence of the grievous wounds inflicted by the Blind Lich’s death magic, but she was still struggling, even with the simple task of writing. She wore the loose white robes of an invalid, and her breathing was ragged. A sheen of sweat gave her brow a shiny look, and Calen was certain he had never seen her as labored – not even when she had soloed the Ice Death Knight.
+
+Finally, she lowered the pen and glanced up from the parchment to meet his eyes.
+
+“How are you doing?” he asked.
+
+“I’m alive,” she said wryly. “Thanks to your friend’s healing magic and these incredible elixirs, I’ll likely recover. But Lamyndra promises dire consequences if I do anything more strenuous than sitting in a chair – she was horrified I wanted to write this report. She told me I should be in bed –” she snorted “– as if that will help the troll kingdoms or secure Ciradyl’s defenses.”
+
+“I’m glad you’re feeling better.”
+
+“Oh, I feel like death came to visit and stayed a week,” Lyeneru said, carefully rolling up the parchment and tying it with a piece of twine. She pushed it across the table to him and then paused to catch her breath, looking immediately embarrassed for the show of weakness. “Please tell Nathaniel Sunstrider that I need about two weeks’ rest to recover my stamina, and then I will join the city’s defensive efforts.”
+
+“Ok,” Calen said, making the report vanish into his guild ring’s storage.
+
+“Did you get what I asked for?”
+
+“Ali copied it this morning,” Calen answered, retrieving a leather-bound notebook containing the full transcription of the Blind Lich’s runic magic – Ali’s recording of the Lich’s diabolical work across the Temple of Aman Rak.
+
+“Don’t let anyone else see that,” Lyeneru cautioned. “Give it directly to Nathaniel Sunstrider for the Council of Archmages to study.”
+
+Calen nodded.
+
+“Calen,” Lyeneru said, and he glanced back at her, meeting her eyes. “I hate being an invalid, unable to go to Ciradyl’s aid at its time of need. Thank you for doing this, at least I feel the council and the guild will have the necessary information in time to secure the city and all the elves.”
+
+“Of course,” he said, standing and bowing quickly to her before activating his ring’s teleport function. After the encounter with the Blind Lich and his newest troll Death Knight, Calen had a most visceral appreciation for the importance and urgency of his mission.
+
+***
+
+Calen found Nathaniel Sunstrider where the Pathfinder Guild administrator had suggested, standing in quiet contemplation beside the Well of Souls in the shade of the immense Ciradyl trees. He approached, stopping a few paces behind, and waited.
+
+This close to the ancient artifact, he could feel the pressure of the mana that emanated from its otherworldly blue waters in slowly pulsing waves. Uncountable wisps danced in the glow, rising like a pillar above the pool, ranging from tiny sparkles to ethereal orbs the size of his head. They drifted and floated in shades of blue or white as if unfettered by the mortal realm.
+
+“Calen,” Nathaniel said, without turning. That he recalled his name was surprising.
+
+“Guildmaster,” he said. “I bring Lyeneru’s report.”
+
+Nathaniel Sunstrider turned slowly, his archmage robes glittering in the light of the Well of Souls, and Calen retrieved the report Lyeneru had entrusted to him and offered it to him. The Archmage gestured, and the scroll levitated off his open hand floating to the powerful elf. The twine binding the pages disintegrated at a gesture and he began to read.
+
+“I see,” was all he said after he reached the last page a few seconds later. “Did you bring the runes?”
+
+Without answering, Calen retrieved the duplicate of Ali’s notebook and handed it to him. He began to scan the reams of densely scribed runework Ali had recorded, and for the first time, Calen saw a reaction from the reserved elf. Surprise flickered along his brow and then full-blown astonishment widened his eyes as he backtracked to reread something or other. Realization slowly percolated across his features and then he frowned.
+
+“So that’s how he does it,” Nathaniel said, closing the book. “Thank you for bringing this to my attention, you have done us a great service. I will inform the council.”
+
+“Lyeneru said we need to warn Meere Kada and Telim Gor, both kingdoms are in danger,” Calen said.
+
+“So she did,” Nathaniel answered, turning back to the Well of Souls and gazing deep into its mystical blue waters as if searching for some thread of wisdom that might be buried there. “It is an amazing magic, is it not?” he said.
+
+Calen nodded, not knowing exactly why the Guildmaster was taking this tangent.
+
+“It is a fortunate thing for the elves, and Ciradyl itself, that we have the Well of Souls. Not much is known about its origin or creation. I have studied it for centuries, yet it has yielded few insights.” He paused for a long time in contemplation. “Our scouts are reporting undead incursions in the forest beyond the city already, but the magic of the Well of Souls keeps them at bay. Even now, it still defends Ciradyl.”
+
+“That is fortunate,” Calen offered, not quite understanding what he was getting at.
+
+Nathaniel turned to face him once again. “We have already lost all contact with Meere Kada and Telim Gor, and I fear we are too late to help them. The Blind Lich’s armies stir in the north and there are rumors that his champions have emerged from their slumber. Ciradyl will need to defend itself with all its might. Inform Lyeneru that I have need of her bow as soon as she is able. She must bring the dungeon artifact you recovered from the Temple of Aman Rak. I need to study it.”
+
+We were too late? Calen felt his stomach twist into a knot at the thought of two more kingdoms of trolls tortured and killed, their bodies enslaved to the will of the Blind Lich. “I will convey your words to her,” he managed, bowing deeply.
+
+“Do not despair, Calen. I will find a way. Your timely report and Aliandra’s recording of the Lich’s work have greatly aided Ciradyl,” Nathaniel said.
+
+“Thank you.”
+
+“How is Aliandra doing?”
+
+Brimming with pride, Calen almost blurted out Ali’s successful evolution, but then he recalled Ali’s misgivings about the Archmage, and he guarded his words. He did not understand Ali’s worries, especially with the glowing force of his presence right before him, but it was enough to change his words. “She’s doing well,” he said.
+
+“I have had several eminent scholars express interest in visiting the Grand Library Arcana,” Nathaniel continued. “There is great interest in the academic circles for copies of a few of the books she possesses.”
+
+“I’m sure Ali would love to trade books,” Calen said, knowing just how dearly Ali held the goal of restoring the library. “You should direct them to the Adventurers Guild to set up a visit.”
+
+Nathaniel nodded. “Were you aware that Lyeneru recommended you for promotion to full member status with the Pathfinder Guild in recognition of your efforts in the Temple of Aman Rak?”
+
+Calen jerked upright in surprise, meeting the eyes of the Archmage.
+
+“I agree with her assessment,” Nathaniel said. “We will need more Pathfinders like you in the coming days. Take this to the guild and they will process your promotion.” He retrieved a single page from the report and added his mana signature and held it out toward him.
+
+“I… thank you,” Calen managed, taking the offered parchment, his head reeling from all the unexpected surprises.
+
+He was still reeling half an hour later when the guild administrator identified his new ring for him.
+
+Pathfinder Guild Ring – level 95An elegant silvery ring crafted in the shape of a wreath of leaves signifying membership with the Pathfinders Guild.Owner: Calen Avery.+50 Dexterity.+50 Perception.+50 Intelligence.Mana: Teleport yourself and one other to Ciradyl. Recharge: 7 days.Quests: Investigate the sudden silence of Aman Rak – CompleteRequirements: Pathfinder, Dexterity 333.Created by Nathaniel Sunstrider.Ring – Silver
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,189 @@
+---
+id: f58207be-e7b5-5e5a-8939-0240c0953278
+page-type-slug: story-chapter-royal-road
+title: "Chapter 357: The Spear of Silent Extinction (Part 2)"
+slug: 0394-chapter-357-the-spear-of-silent-extinction-part-2
+partOf: dungeon-of-knowledge-complete
+position: 394
+ownLength: 3887
+unit: words
+ownProgress: 3887
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2546459/chapter-357-the-spear-of-silent-extinction-part"
+royalRoadId: "2546459"
+markedReadAt: "2026-06-29T20:25:19.348Z"
+---
+
+Calen’s vision tunneled in, highlighting the ghastly crimson spray of his mother’s blood through the expanding cloud of shattered golden barrier shards. The world around him faded to a muted roar as his mother’s body hit the ground like a limp mannequin.
+
+“Mom!” someone screamed, using his voice.
+
+A dark figure, clad entirely in black leather, loomed over her and Ali. A silver spear buzzed at the maximum reach of his thrust as the echoes of his thunderous movement broke against Calen’s fear-frozen mind.
+
+It was just like when he had burst into the room and seen the assassin’s dagger plunging into his mother’s back, sending a spray of blood as his mind and heart screamed.
+
+But she hadn’t been dead.
+
+This fact leapt out in stark contrast, vying against the brutal single instant framed against the brightly painted entrance to the store his mother loved so much. The details clamored for his attention, and he kicked his mind back into gear, fueled by that tiny spark of hope. She’s not dead. She can’t be.
+
+Her pained groan triggered a rush of instant relief and sympathetic anguish through him. Somehow, Ali had seen the deadly Ambush coming, and at the last instant, she’d sacrificed her only minion and barrier. But she and his mother were still alive.
+
+For now, the dark part of his mind reminded him that there was still a black-clad, spear-wielding assassin looming over both of them. In a flash, he summoned his new smoking bow to his hands. In a single motion, he nocked his most powerful enchanted arrow and released it, shooting at the heart of his adversary while he launched himself into the air by flaring his wings.
+
+Kieran Mori blurred sideways. Calen’s arrow detonated on the cobblestones, ripping a small crater into the street and showering Ali’s new barrier with rubble and dirt.
+
+Then, despite all his perception skills, the spear assassin vanished before his very eyes. What? How the fuck, you bastard!
+
+Motes of light bubbled forth from him, as he launched them out and across the street searching for the assassin. Mori had earned his reputation and the title of Sudden Death for a reason. It had everything to do with combining Ambush with that wicked spear of his. Calen had witnessed it in person, more than once, and it sent chilling prickles of fear down his spine.
+
+No time for fear. Strategy first. Ali and his mother were both still vulnerable.
+
+Quickly, he waved one of his four motes over to them, leaving it hovering above them. Mori would be unable to use Ambush if the radiant light of the magical mote dispelled his stealth but, given how high the Assassin’s level was supposed to be, there was more than a fair chance his skill would fail to reveal him. I also need to be careful. With the three remaining motes, he scoured the street corner and the darker shadows of the alleyways, keeping a close eye on Ali and his mother.
+
+Normally a monster in battle, Ali was out of her depth here – stranded without a single minion and still below half her life, she was just as vulnerable as his mother. She should escape. It was the best strategic move, but as he opened his mouth to call out to her, he knew Ali would never do it. If she teleported away, she would be leaving his mother without protection. And if they burned recalls to escape, they would just be relocating the fight to the Novaspark Academy. No, it would be up to him to drive Kieran off and protect them. If he could.
+
+A gust of wind brushed past his cheek, followed by a sting as a blade drew blood. High above the street, standing on air, the black-clad assassin appeared. His spear was held outstretched like an afterimage of his charge, half an inch away from his face as the thunderclap of his strike echoed in Calen’s ears.
+
+Calen shot backward with a powerful surge of his wings and Kieran dropped out of the sky, vanishing before he touched the ground.
+
+“Nice dodge,” Kieran growled, taunting him from the shadows with his directionless voice.
+
+They both knew it hadn’t been a dodge, technically. What had actually happened was Calen had been zigzagging about at random, attempting to be unpredictable, and his Mirage Armor had saved him by interfering with Kieran’s aim. Slightly. That was not a die-roll he was willing to risk his life on a second time.
+
+Spying faint wisps of mana curled in lazy vortices along a straight line behind Kieran Mori – the remnants of his incredible movement skill, Calen suddenly remembered he had more tools at his disposal. Tools he needed to be using. For one thing, he was ignoring the confusing flickers and shifts from the strange sight that allowed him to peer through into the adjacent spirit realm. He had no idea what it was telling him, but he needed to learn before someone died.
+
+He retrieved a coin from his storage and flipped it into the air. “Why are you attacking my mother?” he demanded, desperate for any clue as to Kieran’s whereabouts before the next attack. “First it was Tala, and now you.”
+
+“Don’t ask stupid questions, boy. You know why my apprentice had to kill her.” Kieran’s strangely disembodied voice echoed around him, betraying no clue as to his whereabouts.
+
+So, he was Tala’s master, then. Calen filed the tidbit away for when he wasn’t struggling for his life and offered a little mana to his godly patronage. The coin vanished in a flash.
+
+“It was you who sent the Silent Assassin to kill my mother?” Calen filled his words with as much anger as he could muster, shocking even his own ears with the hateful growl.
+
+You have gained the Blessing of the Wanderer.
+
+He didn’t have time to read what he had been granted, trusting that it would help him. Instead, he focused on his Explorer skill – specifically Sense Prey. It was a dangerous move in the middle of combat because it required a sharp focus and potentially distracted him from attacks, but he had no idea where Kieran was anyway and hoped the talking would distract him for long enough. A slim hope.
+
+A second later, Calen felt it. A clear tug off toward his left in the dark alley beside the store. Without hesitation, he fired a full volley of magical arrows, enchanted to the brim with explosive and grappling shot. As the brilliant missiles hurtled toward the shadows, he leapt backward to avoid any potential counterattacks while simultaneously releasing one of his Mirage Armor decoy illusions. It was his first time using the skill in combat. A perfect replica of himself escaped from within his body, shooting off in the opposite direction under the guidance of a little of his focus. Down below, the deafening explosion of his arrows was overshadowed by the thunderclap of Kieran’s retaliation. But when he appeared, he had impaled the decoy.
+
+The summoned image burst into a gentle cloud of mana motes that slowly rained down toward the ground as Kieran vanished again, but Calen’s Eyes of the Archon were more than sufficient to make out the torn leather on his thigh and the tiny splash of blood on the wall where he had been hiding.
+
+Calen grimaced. How did he shake my chains so easily? Damn, he’s good. Frowning, he summoned three more decoys, holding the fourth and last in reserve for some possible surprise tactic later. He scattered them in all directions, trying to confuse the Spear Assassin’s unerring aim.
+
+Ali flickered. It was the briefest moment of displacement, like she had frozen for the tiniest fraction of a second. But when she resumed moving, her Grimoire was out and Joraa, the Betrayer – Aman Rak’s former strongest Blood Shaman – stood beside her.
+
+Arcane Recall! Ali had just burned her most potent skill. In that instant, Calen knew her plan. A summon that could heal his mom and could smell blood. She needed a gap that only he could provide.
+
+“I killed Tala. Somebody needed to take out your trash,” Calen announced, hoping to distract Kieran, goading him into some rash action. He tried Sense Prey again, but instantly the thunderclap roared, accompanied by strange ripples in the Spirit Realm sight, and the decoy beside him popped like a balloon. Calen launched himself backward, simultaneously summoning a replacement decoy to rush in the opposite direction. He orbited his Motes of Light, trying to put pressure on his opponent, denying him the freedom of stealth.
+
+Shit. It was clear Mori had guessed he had some way to sense him after the explosions, and he wasn’t about to give him time for the focus his skill required. Down on the street below, a crimson beam healed his mother, and Ali summoned a Glitter Dragonet. Calen frowned. What is she doing? Regardless, he still pinned one of his motes to her barrier like a Steel Spined Barnacle to a ship’s hull in an effort to protect them from Mori’s stealth, but right then, Ali caught his eyes and surreptitiously nodded her head toward the alleyway on the right.
+
+Did she smell him? Calen diverted a mote.
+
+Wisps and echoes flickered across the spirit realm and Kieran Mori’s form briefly appeared, sprinting through the air from the alleyway as his trajectory clipped the stealth detection of the mote. The thunderclap rang out and Calen had no choice but to teleport, switching locations with the mote to escape a charging Spear Rush that was so fast he appeared to blink across seventy feet through the air.
+
+He barely managed to escape in time, but something had jolted into place. He hated that he would be forced to risk his life on an edge so tenuous, but his realm sight had revealed a crucial insight. The faintest of tells right before Kieran Mori unleashed his signature attack – recognized only now that he had seen it executed several times.
+
+The spirit realm flickered and Calen teleported, but to his shock, Kieran’s attack curved with impossible grace, arcing toward him with deadly intent. A golden barrier shattered in its path and Calen reached for the only thing he had left – the faint remnants of Kieran’s own movement skill. Realm Hunter activated, creating a perfect echo of Kieran’s skill, and Calen’s body was flung forward as if by an invisible hand of god, launching him down to the road below. He wrenched at it, dragging himself around in an arcing path that barely missed clipping a building and it was only through the combination of his extraordinary dexterity, his wings slowing him down, and his fast reflexes that he was able to tuck and roll out of the charge, landing on his feet facing back the way he came.
+
+Shit, that’s brutal.
+
+He took the opportunity to unleash a volley of explosive arrows that detonated right below where Kieran Mori had been falling when he vanished. The detonations stripped the stealth from his target and bound him in shining chains, but the man sprang to his feet, shrugging off the binding with shocking ease and dodging Calen’s hail of arrows for a few seconds before he vanished once again.
+
+“Nice trick, boy,” Kieran’s voice echoed around him.
+
+Slippery bastard. Calen downed a mana potion. Maintaining his mana in normal combat was easy. Every time he hit something, mana leech would restore his mana, but in this fight, he had hit Kieran precisely twice, nowhere near the amount required to maintain his flight, his motes, and his illusions, not to mention all the tracking skills he was using. While Kieran was hopping in and out of stealth like a frog in a pond, Calen had to make do with motes and decoys.
+
+Even worse, Kieran had twice attacked him directly, ignoring the decoys. There was no way it was a coincidence – not from an assassin of his experience. No, Kieran had found a tell, and Calen was running on borrowed time. Focus, Calen. Get it right!
+
+He glanced over toward Ali hoping for anything, but to his surprise, she was nowhere to be found. In her place, she had summoned a tall, blue-skinned troll Ice Mage who stood in front of his mother with a dense wall of ice hovering before them. Throughout the fight, Kieran had not been able to attack them, even though his mother was clearly his primary mark. He would have liked to think that it was his skill locking down an advanced opponent, but it was almost certainly no more than him keeping that stealth-banishing mote floating above their heads. Kieran couldn’t risk approaching and breaking his stealth. Not when one of his opponents could teleport like a demented bat.
+
+It had hampered him more than he’d like to admit – having to rely on only three motes meant that Mori had lots of gaps through which to attack. It was only by accident that Calen had flushed him out once with Ali’s help, but it wasn’t like he could spend a mote near his position without painting a target on himself, making his decoys worthless.
+
+Ali’s troll waved a hand, and a Frost Nova burst from the center of the street, coating the cobblestones with a sudden layer of fresh ice and then the air around the tiny Glitter Dragon flickered, and abruptly, Ali was back. Instantly, Calen recalculated his coverage and shifted his motes to take advantage of the extra pressure from the troll’s area ice magic. You can’t underestimate Ali, even when she’s down. Always thinking, improving, finding a way.
+
+Sure enough, a moment later he sensed the flickers again, and Kieran Mori appeared in the center of Calen’s light aura with his spear impaled through the center of the ice troll’s sternum, demolishing the ice shield in an explosion of blue and white. Calen grinned, despite the circumstances – Ali had just forced Mori into attacking the troll and, for a blink of time, he couldn’t vanish.
+
+His response was pure reaction speed. Calen unleashed a hail of arrows with every enchantment he could summon while the Assassin executed an exquisite sequence of acrobatic dodges that would have made Malika jealous. Just before Kieran escaped the mote and vanished, Calen saw a single arrow piercing his thigh, just above the knee.
+
+You have gained Onslaught.
+
+More importantly, he saw the wispy-looking tendrils of Cinderstrike’s Slow curse taking hold. Got you!
+
+Now I just need to take advantage of it before it fades. He shifted the mote back over Ali’s head while she focused intently on her Grimoire, clearly trying to summon something new.
+
+But as he glanced at that one protective mote, an idea came to him. It would be an enormous risk, but the remnants of mana were still in place, and his mote was right there in front of the perfect bait. He had learned to see when Mori initiated his attack from his spirit realm sight, and he needed a few seconds to activate Sense Prey.
+
+I will only get one shot at this. If he failed, his mother and Ali would die – right after he did. I won’t fail. There’s no way this bastard wins. Not today.
+
+He took to the air once again, weaving a little to try to throw off his opponent’s aim, but he kept himself in range of that one stationary mote, moving the other three erratically, searching further and further, trying to create the impression that he was accidentally putting himself slightly out of range of them in his eagerness to flush out his opponent – as if he hadn’t adjusted to account for the loss of the Ice Troll’s Frost Nova. He had no doubt Mori had already figured out his teleport range, he just hoped the Assassin would take him for enough of a rookie to make the mistake he was emulating.
+
+As soon as the last of the three motes crossed that invisible line, the spirit realm sight flickered. This time, Calen waited an instant longer to give Mori the chance to lock on to his position, and then he teleported, switching with the mote protecting Ali and his mother, appearing on the ground right in front of the resummoned golden barrier.
+
+Ali’s eyes widened, nodding in the direction of the other alleyway, but she continued summoning.
+
+“Calen?” his mother called.
+
+But he was forced to let her query go unanswered. In an instant, he executed his plan, latching onto the fading remnants of Malika’s earlier Spirit Walk spell with Realm Hunter. He summoned his fourth and final decoy, timing it to the shimmering shift as he retreated to the spirit realm, replacing himself with the decoy. It all hinged on Mori falling for the switch. His timing had to be perfect, but Calen wouldn’t find out if it had worked until later.
+
+He shot the fourth decoy off into the air, making it aim its illusory bow in Kieran Mori’s supposed direction.
+
+In the spirit realm, out of sight of Mori, Calen used Eclipse to enter stealth for the first time and then he returned to the mortal realm, appearing right where he had left, in front of Ali’s barrier, now no longer protected by his mote which was floating off to the side where he had been when he had triggered his teleport. He made his four decoys dart around with as much realistic strategic maneuvering as he could conjure, while he focused on Sense Prey. While his powerful tracking skill searched for the target’s direction, he drew his bow and nocked an arrow to the string, beginning to channel his stamina into Power Shot.
+
+Take the bait. They’re unguarded. Take the bait…
+
+Seconds ticked past with agonizing slowness. Calen channeled his stamina, his focus exquisite. For every second that passed, his power grew. With nearly seventy percent stamina cost reduction from Blessing of the Dawn, he easily surpassed ten seconds with his power skyrocketing. Sense Prey told him Kieran Mori was moving rapidly, darting around the flying motes, but he didn’t quite know where he was so he couldn’t aim accurately, couldn’t time his enchantments properly. What he needed was a distance. And for that, he needed to see the instant of Kieran’s attack.
+
+There! He was staring right at it when the ripple flickered across the shadows in the alleyway and his spirit realm sight told him all he needed to know. Kieran had taken the bait. His body and spear might still be invisible, but Calen knew exactly where he was. As the Assassin unleashed his attack, Calen could track it traveling a perfectly straight line toward his mother, which would take it right through his own body. Here it comes! He adjusted his lead, accounting for the haste from Onslaught and carefully estimating the effect of the Slow curse.
+
+He fired. He was technically shooting blind, but he had worked out precisely where Kieran would be. He knew the direction. He had the starting location, and he knew his target. He had timed the instant the charge began, and, having stolen his movement skill once, he knew precisely how fast Kieran could move.
+
+His arrow catapulted from his bow with all the pent-up power of his fully charged Power Shot. Only a fraction of a second passed before Calen added the light damage and explosive shot enhancements, and then he triggered Righteous Fury.
+
+There was an eye-blinding flash of ultra-intense white as the explosion of light and flame detonated in the middle of the empty street. Stones blasted in all directions, shattering windows and roof tiles.
+
+You have gained Onslaught.
+
+Calen’s mana seared through his veins and his mind as his eyes fixed on the dark-clad charging form of Kieran Mori, silver spear straining forward at full thrust. He had another flight of arrows conjured to his bowstring, but he held them unused. Kieran rushed toward him at incredible speed, but the tip of his spear halted inches before Calen’s throat, his eyes wide enough to see white all the way around. Kieran glanced downward to see the smoking hole Calen’s overpowered Ambush and Power Shot combination had blasted right through the center of his chest.
+
+“Well played, boy…” Kieran said, his voice whistling and faint from air escaping through the gaps in his torn lungs.
+
+And then he collapsed.
+
+Your group has defeated The Spear of Silent Extinction – Human – level 121.Your actions have greatly increased the reputation of your patron.
+
+Calen sank to the ground, completely and utterly spent, his emotions deadened from dancing along the knife’s edge of death for so long. Only now, the import of what they’d done began to catch up with him.
+
+“Calen!” his mom shouted, rushing up to him. “Calen! Speak to me.”
+
+“You ok?” Ali asked, joining them to check on him.
+
+“I’ll be alright… in a bit,” he managed, his eyes meeting with his mother’s gaze for a moment before he turned back to Ali. “You both?”
+
+“You had my back,” Ali said simply, reaching out to squeeze his fingers briefly.
+
+“And mine,” said his mom, drying her eyes on her sleeve.
+
+After a deep, deep breath, Calen added, “He confirmed he was Tala’s mentor. We need to take that shrine artifact to Aiden before the next council meeting.”
+
+“Right,” Ali said, nodding firmly.
+
+As everyone took a moment to process what had just happened, Calen squeezed his eyes shut and searched for the familiarity of his notifications. Numbers were simple. He’d always liked that about them.
+
+Realm Hunter has reached level 106 (+3).+30 attribute points.Radiant Archery has reached level 59 (+2).Motes of Light has reached level 40 (+3).Explorer has reached level 54 (+3).Blessing of the Dawn has reached level 44.Eclipse has reached level 35 (+2).Eyes of the Archon has reached level 37.Righteous Fury has reached level 38.Azrael's Wings has reached level 27.Mirage Armor has reached level 40 (+3).Requirements met for skill advancement.Mentor: Lyeneru Silverleaf.Eclipse has reached at least level 35.Intelligence has surpassed 800.Land a killing blow against a higher-level invisible enemy. Eclipse gains Invisibility.(When you gain stealth, you are invisible).Accept this advancement?
+
+At that moment, trolls, kobolds, and imps began boiling up out of the sewer entrance in the alleyway and Malika landed beside him with a light thump. “I can’t leave you guys alone for even a minute, can I? What did I miss? Street party?”
+
+“I guess,” Calen said, struggling to control the trembling in his body as the adrenaline finally caught up to him. He wrapped his arms around his mother’s shoulders, not entirely sure if it was him that was comforting her, or the other way around. As a kind of an afterthought, he accepted the advancement. “Heck yes.”
+
+“I love you too,” said his mother, mistaking his meaning by the width of a few continents or so.
+
+“Yeah.” He hugged her harder.
+
+“At least we don’t have to worry about him anymore,” Malika said, adding a trollish hiss of contempt and poking at Kieran’s shoulder with her foot. “Come, help me with him before someone finds this mess.”
+
+“I’ll get the body, you get the gear,” Ali said.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

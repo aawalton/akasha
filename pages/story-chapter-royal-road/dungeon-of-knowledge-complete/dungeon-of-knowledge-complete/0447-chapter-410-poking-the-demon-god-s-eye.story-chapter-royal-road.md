@@ -1,0 +1,139 @@
+---
+id: 3662e3b6-db4a-545c-8f35-a5d207ae9a14
+page-type-slug: story-chapter-royal-road
+title: "Chapter 410: Poking the Demon God’s Eye"
+slug: 0447-chapter-410-poking-the-demon-god-s-eye
+partOf: dungeon-of-knowledge-complete
+position: 447
+ownLength: 3624
+unit: words
+ownProgress: 3624
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2678314/chapter-410-poking-the-demon-gods-eye"
+royalRoadId: "2678314"
+markedReadAt: "2026-06-29T20:27:17.264Z"
+---
+
+Ali hunkered down under her golden barrier umbrella, struggling to save her minions as a veritable storm of hellfire and blood rained down throughout the cavern. The giant Pit Lord thundered his triumph as he channeled the ludicrous spell.
+
+I need to get out of here. Ali reached her mind to the small number of minions she had left in the safety of the cathedral chamber Azryet had granted her for her domain. Her Subterranean Brood Queen, her rock beetle brood, and several minions for growing plants.
+
+But she hesitated before activating her long-range teleport.
+
+If I run, Azryet won’t help me. Although he hadn’t said it outright, she was certain he wasn’t the type to let her take as many tries as she wanted. If she blew this, most likely the demon god would permanently reinforce the area, and she wouldn’t get another chance. Under the cover of her barrier, she turned on her Sage of Learning. Fortunately, the Pit Lord’s devastating magic was not particularly complex, a construct of brute force and power rather than subtlety and finesse, and before too long, she fired off her golden arcane needles, disrupting his massive room-wide rain of hellfire and blood.
+
+He roared in frustration, turning his malevolent glare on her, but she wasn’t done yet. Guiding the Devouring Consumption, she made it lash out with its massive pseudopods, wrapping around the Pit Lord’s huge legs and torso, and bodily dragging him back into the pool of blood. A certain amount of brute force only became available with the application of three hundred levels of strength attribute gain and weight.
+
+And you’re out of the fire, now. Dragging it out of the flames meant less healing for the Pit Lord. The fact that such a thing was even possible stood as a testament to just how big and powerful her Devouring Consumption had grown. She directed the massive Ooze to engulf the Pit Lord, but the massive demon reacted with a blast wave of hellfire that dislodged its grasp.
+
+Ali wiped the blood leaking from her eyes with the back of her hand, a vain attempt to clear her warped and blurry vision, and sent a shaman and a bone warrior diving into the pool of blood with instructions to keep Mortal Wounds up on the Pit Lord. Her minions instantly moved to do her bidding, charging across the rocky ground and into the pool, her Blood Shaman, in particular, grinning as her environment turned into the very resource she needed to power much of her magic. Immediately, blood flew into the air in rivulets and clouds as her shaman began to abuse the blood pool to blind and harass the Pit Lord, while Ali frantically summoned barriers to block every fireball headed for the furious conflict.
+
+“Bloodlust,” she said, calling for the potent melee enhancement magic. Blood magic runes burst outward from Joraa, anointing the berserkers, warriors, the void dragon, and all her other physical combat minions with its immense power, hasting their attacks and greatly enhancing the strength of their blows. Finally, her minions were moving just as fast as the enhanced demons within the chamber – demons that her sole remaining ice mage was struggling to control with Frost Nova. Mato would have simply roared and collected them all up in a nice group for her to destroy with ranged area magic, but she was struggling without a true tank minion and an effective area Taunt skill.
+
+Ali’s barriers flickered out across the chamber like sparkling panes of glass, blocking the deafening explosions of hellfire as she sought to deny the Pit Lord any opportunity for healing. She even began blocking with the body of her Devouring Consumption as she instructed it to continue snatching up wargs and eating them alive. Her healers seemed to be struggling against the insane hellfire damage, and the Pit Lord clearly had something similar to her Mortal Wounds, inflicting it on both her Devouring Consumption and her Scion of Azryet.
+
+The abyssal dragon breathed a huge ball of void, which bit into the flank of the Pit Lord, sizzling as demonic hide and flesh vaporized, accompanied by a furious roar of pain. The enormous war glaive lit up with hellfire and cleaved sideways through the dragon’s chest, losing chunks of bloodsteel to the void barriers but still tearing out clumps of black dragon scales in return. An explosion of blood blades ripped out into the nearby ooze and trolls as the glaive continued its path, striking the Devouring Consumption, and then the troll warrior and shaman. The blood blades again burst forth from both strikes to the trolls, filling the area with more blades of blood and ripping into their health. Ali grimaced – an on-hit area damage ability was devastating among close-pressed melee fighters. The shaman’s Blood Siphon flickered out, barely visible against the riot of flying blood as the shaman’s blood manipulation contended against the Pit Lord’s blood blade explosions. Anything standing near the Pit Lord was standing in a blender – but Ali needed Mortal Wounds on him. Even with that, and all the work she was doing to block the hellfire, he was still healing somehow – she was beginning to suspect some kind of life leech ability because it seemed to synchronize with his glaive strikes or the explosions of blood.
+
+She threw up again, with more blood this time, as the corruption began to seriously warp her mind and her vision. She struggled to keep control, checking with several minions’ perception skills simultaneously to ensure she was not seeing some bizarre hallucination.
+
+Over at the other side of the cavern, the Eye of Agnor continued its assault, immolating the berserkers and the fire drake before it while its continuous assault of arcane bolts relentlessly arced around the room, picking on the weakest and most vulnerable. And it continued summoning demons without pause. Ali quickly flicked out a handful of golden darts to interrupt another summoning, trying to claw out a way to keep a lid on the spiraling conflict.
+
+You have been cursed with Interrupted Casting.
+
+Without her even having to ask, Kir’vella immediately removed the curse.
+
+At least the drake is immune to fire. Her drake was perhaps her best choice for this fight – gamely tanking the Eye of Agnor and all the wargs that spawned nearby. Wargs that were kept healed whenever the Immolation burst forth from the higher eye – but right at that moment, the Immolation faded. “Blood Vortex,” she sent, triggering both berserkers into unleashing their maelstrom of blood blade destruction. The Immolation had to cost a stupendous amount of mana – it appeared to be a channeled spell, and Ali was all too willing to take advantage of the lapses in its power. In moments, the wargs started dying to the fury of the berserkers’ blades.
+
+A flicker in the mana back over by the pool caught her attention, and Ali shot the Pit Lord with her arcane darts, disrupting a second attempt at the terrifying rain of fire and blood. Unfortunately, that meant allowing the Eye of Agnor to get off another summon. In response, the Pit Lord stomped down, knocking everything around it away in a blast wave of hellfire and an explosion of blood, and then it vanished, shooting across the gap and impaling her Bone Warrior with its war glaive in another explosion of blood that ripped into her nearby shaman. Suddenly, Ali felt the mana reservation for her Bone Warrior waver, and the troll stood up, eyes blood red and frenzied, with a strangely stooped posture. Something about him had changed, and it sent a chill down her spine. Her reservation snapped, and the troll turned with a vicious snarl and sliced the blood shaman across the back, drawing a scream of pain and a spray of blood.
+
+“You serve me now!” the Pit Lord yelled, his triumphant voice thundering in the chamber.
+
+What?
+
+Corrupted Bone Warrior – Demonic Troll – level 93 (Bone)
+
+My troll!
+
+The Scion of Azryet roared and flickered with a void mana formation. The massive void dragon vanished, suddenly appearing on the opposite side of the pool. In its wake, it left a momentary void, parting the pool of blood by disintegrating everything in its path. The Pit Lord roared in pain as one of his legs was vaporized and a large chunk of flesh was gouged from its side. A few small pieces of the demonic troll fell into the briefly dry pathway as the blood rushed in to fill the void. But the Pit Lord rapidly began healing.
+
+Scrambling to recover, Ali sent in a second Bone Warrior, knowing she absolutely needed the Mortal Wounds, but she had just lost one of her trolls to the blood corruption somehow. It must be that explosion of blood, she realized. Not only the aura, but its very blood must have a powerful, corrupting influence on whatever it was hitting. It was the only explanation that made sense.
+
+“Can you cure that corruption?” she asked.
+
+“Yes, Ancient Mistress,” the golden-scaled kobold beside her answered, but she hesitated and then continued. “But we are running low on mana.”
+
+Shit. Ali rummaged through her storage ring at high speed, finding a pair of mana potions, and handed them to her two kobold healers. Amid all the chaos, her constantly flickering barriers blocking hellfire and her urgent disruption of the Pit Lord’s powerful magic, she got Kir’vella to conjure a couple of combat mana potions and set out to inscribe an Inspiration circle. It would probably take way too long, but she didn’t have a lot of choices.
+
+Whatever the Kobold acolytes were doing, she could immediately see it would not be a complete solution – at best, they would be delaying the corruption. They could cure it, but it was constantly being reapplied by the aura of the titanic demon, and by the ridiculous explosions of blood magic blades that trailed in the wake of its massive war glaive. Ali switched her Sacred Ooze to healing her four minions fighting the Pit Lord. It would add pressure to the healers for the Eye of Agnor, but she couldn’t afford to lose much more. Besides, she had a theory.
+
+A horde of tiny little bubbles of holy and water affinity oozes slithered and bobbed across the rock and dove into the blood pool, popping as they reached their targets, and sure enough, the Pit Lord howled in anger and pain as the holy magic tore into it while healing her forces. Figures it would take extra damage from holy. Every little bit counts.
+
+Right when Ali completed the Inspiration circle, the second Bone Warrior succumbed to the Pit Lord’s corruption, roaring with demonic rage as crooked bones sprouted from its back and face. Again, the Scion of Azryet simply vaporized the demonic troll while its health was still low, forcing Ali to substitute her last troll warrior. “Kir’mogan, get in there!” She just hoped she wasn’t wasting the champion troll on a fool’s errand, but the Pit Lord was dying – painfully slowly – but she could only see twenty percent health remaining from the continuous assault.
+
+Ali checked with her shamans and called for a second Bloodlust. She was running out of time – if she didn’t kill the Pit Lord soon, she would need to abandon the fight just to cure the Pit Lord’s Corrupted Blood before it expired and turned everyone into demon spawn. Her berserkers roared, and her monsters accelerated for the second time in this long fight. The Immolation dropped again, giving her healers some breathing room, and the Blood Vortexes ripped through the accumulated demons with sudden fury.
+
+Xammath’s war glaive cleaved across her monsters again, triggering a cascade of exploding blood blades, and this time, she felt the blood shaman’s reservation waver and snap. The Pit Lord roared in victory, but the Devouring Consumption took the opportunity to surge over the giant demon, latching on with its massive tentacles, body merging and flowing as it pulled itself over the Pit Lord’s body, slowly enveloping the struggling demon.
+
+Kill it! she urged. The Pit Lord was below ten percent now, and the Devouring Consumption had finally gotten the upper hand in the brutal brawl. But, visible within the massive, murky body of the ooze, the Pit Lord stamped down hard, and the entire inside of the Ooze filled with a billowing cloud of dark flame. Its body swelled up to impossible proportions, and it seemed like it might hold out against the explosion, but suddenly it detonated with an enormous bang, sending burning slime flying across the cavern.
+
+She stared in shock as her most powerful monster was blown to pieces and its reservation snapped. The Pit Lord leveled its war glaive with stunning precision and control, and, in an instant, it leapt across the gap between itself and the Scion of Azryet which was gathering void mana in its maw, impaling it through the chest with a vast explosion of hellfire and blood blades as the glaive made its gruesome exit from the dragon’s back.
+
+The Scion’s health vanished, but its dark eyes gleamed with fury, and in the moment before it expired, it released all of its collected mana as a dense, compressed ball of all-consuming darkness. The black hole of void punched through the chest of the Pit Lord, ripping a hole right through and out of its back. And to her shock, Ali saw both behemoths locked in a final embrace, stitched together by the Pit Lord’s glaive. Slowly, they toppled over and collapsed into the pool with an enormous crash, splashing blood that hit her barrier even on the other side of the cavern.
+
+“Kill the shaman,” Ali said, suddenly collecting herself, and her last remaining mage turned her ice bolt on the corrupted demonic troll shaman, making quick work of the critically damaged monster, ice magic easily piercing the arcane shields that manifested to protect it. “Cure the corruption!”
+
+Finally, she thought, breathing a large sigh of relief, but this time she tried not to jinx herself by thinking the fight had just gotten easier. For all she knew, the Eye of Agnor could simply summon another Pit Lord. But now that the Pit Lord was no longer summoning hellfire from the ceiling, she could devote her entire attention to denying the Eye its teleportation magic. When the familiar formation flickered to life, Ali disrupted it with extreme prejudice. With Kir’vella aggressively decursing the Interrupted Casting, her spell was far more reliable, and perhaps she might have been able to prevent it from summoning Xammath in the first place. Lesson learned. Although disruption was an art, and not a sure thing at the best of times.
+
+She dropped the last two charges of her wand into her mage and one of the acolytes as she flared with the holy light of Devotion and unleashed everything she had at the eye demon. But with her drake pinning it down in the corner, and her healers taking turns in the Inspiration circle, the Eye of Agnor slowly lost ground – and with Ali disrupting most of the teleportation magic, the demons running amok in the cavern slowly dwindled and eventually they burned through the enormous health pool of the raid demon.
+
+You have defeated Eye of Agnor – Demon – level 152 (Arcane / Hellfire)You have defeated Xammath [Desecrator] – Pit Lord – level 160 (Blood / Hellfire)
+
+She mopped her forehead, having to read the lines three times before she could believe she’d won. Ugh, that was ugly. Uh… anything else?
+
+What followed was a ringing cascade of kill notifications for lesser demons, but the two most important ones were dead, and the blood and hellfire cavern soon fell silent. Ali slowly turned to survey the destruction. Black flame and burnt slime still dripped from the walls everywhere she looked. Blood splatters decorated everything – her monsters, the ceiling, the walls – in fact, the only thing that wasn’t covered with blood were the minions who had been standing in the Immolation of the Eye of Agnor.
+
+Ali felt a sudden rush of relief as the kobold acolytes finally managed to cure the remnants of the Pit Lord’s Corrupted Blood, and her warped and blurry vision slowly stabilized. She was breathing hard and soaked with blood and sweat, and all she had done throughout the fight was inscribe some runes and summon a dragon, but this had been by far the hardest battle she had ever faced.
+
+Well, except for him, she thought, recalling her defiance in the face of Azryet’s wrath. Although she wasn’t entirely sure hiding behind a barrier while it was eroded by a god-tier dragon’s breath counted as ‘fighting.’
+
+She didn’t appear to be in any immediate danger, so she flew across to the enormous corpse lying partially submerged in blood. The first thing she did was to deconstruct Xammath’s enormous war glaive that still stuck up out of the corpse of her dragon. Her Scion of Azryet had been the tipping point in the battle – without the sheer power of the void dragon, she would have been wiped out easily. As it was, the Abyssal Dragon and the Devouring Consumption had fought the Pit Lord to a standstill. She deconstructed the black dragon.
+
+Thanks for the void damage, she thought wryly. She couldn’t wait to show this dragon to Havok.
+
+Placing a tiny hand on the shoulder of the Pit Lord, she activated her magic, careful not to get any of his obviously potent blood on her. It was the second Pit Lord she was deconstructing, but she had no desire to face another just for a chance to get the imprint – she knew precisely how fortunate she had been with the environment, and her Devouring Consumption – a situation she wasn’t sure she could ever duplicate. Maybe Azryet will let me spend some time in that graveyard again. The huge demon corpse evaporated into mana, leaving behind several reagents that splashed her as they dropped into the pool of blood. Following her mana sight, she fished them out, wiping the blood off on her already blood-smeared robes and storing them carefully.
+
+Demon Core.Greater Hellfire Essence x2.Crystallized Pit Lord Blood x7.
+
+Ali studied the warped and twisted remains of her blood shaman carefully – somehow ripped from her control by the corrupting power of the Pit Lord and made to serve her enemies. It had also warped the troll into a horribly twisted monster – a mockery of its previously proud troll heritage. She deconstructed it too, deciding it was a fitting way to dispose of the loyal minion. Besides, she knew just how bad of an idea it was to leave corpses in a hostile dungeon – at least she knew what she would do with them, and she had no desire to face hordes of demonic troll shamans in the future.
+
+Then she flew over and hovered above the collapsed spheroid shape of the Eye of Agnor. This is my third one. She felt a sense of anticipation and nervousness – by all rights, none of them were the same variant, but her Grimoire had surprised her before. She felt the subtle flow of her magic entering the demon’s corpse, and slowly it evaporated into mana.
+
+[Sage of Learning]Domain Magic analyzed: Immunity (Void).Domain Magic analyzed: Immunity (Holy).Domain Magic analyzed: Curse Aura (Fire Vulnerability).Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Ali could scarcely believe the notification. She stared at it for a few moments, but it stubbornly refused to disappear. Without needing to think about it any further, she quickly gave up one of her precious free chapters and received the notification she had been hoping for.
+
+Variant: Eye of Agnor added to Imprint: Demon.
+
+I can make it.
+
+On the ground where the corpse had been, she found another demon core among the essences. It was clearly a high-level reagent of some kind, so she carefully collected it, hopeful that she would eventually be able to return and sell it to Weldin, or at least discuss it with Thuli or Lydia. Or maybe Azryet has a use for it.
+
+Demon Core.Greater Arcane Essence.Greater Hellfire Essence.
+
+“Miss?” Azryet’s scout approached cautiously, interrupting her while holding a strange stone artifact in his hand. It was a disk-shaped object with runes inscribed on both surfaces. “My master will be pleased to hear of your success, but I recommend we leave as soon as possible. This victory will not have gone unnoticed.”
+
+“We can go as soon as I deconstruct all my dead minions,” Ali said. “I assume we go back the same way we came?” She continued deconstructing everything that had been killed, not wanting to leave anything for the demon dungeon to consume, but the thought of fighting her way back through an alerted god-tier dungeon, this time without a level three hundred Devouring Consumption, left her more than just a little worried. She paused, considering the option of summoning a fresh Devouring Consumption and having it clean the chamber for her. It would start at level 100 this time.
+
+“That will not be necessary,” the scout said. “I brought a Hearthstone.” And with that, he activated the stone artifact with his mana, and a huge runic circle appeared on the ground. “Step inside when you are ready; it will take all your minions, too.”
+
+Ali’s eyes widened at the sight of the novel spell formation. Ooh! That looks useful! I wonder if I can learn it?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

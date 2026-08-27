@@ -1,0 +1,197 @@
+---
+id: 7ccfbe99-e2ae-56c5-be29-2eae92947bdd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29"
+slug: 0029-chapter-29
+partOf: emie-ascended
+position: 29
+ownLength: 2750
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3553718/chapter-29"
+royalRoadId: "3553718"
+---
+
+Just shy of the first anniversary of our arrival in Dia, my party stood before the dungeon entrance for the last time as unevolved delvers.
+
+“Everyone ready?” Mike asked after being given the ‘go-ahead’ by the Association representative.
+
+We’d gone through this process so many times over the last year that I’d pretty much lost count at this point. Moments later, we stood on the twentieth floor of the dungeon.
+
+Beginner floors changed themes every five levels. The first five contained ‘rooms’ with a forest theme. Floors six through ten were actual caves and tunnels with rivers of lava and veins of various ores scattered throughout.
+
+Actual safe rooms resembling oases started appearing after every tenth challenge room around then as well, making it easier for parties to remain in the dungeon for longer.
+
+Floors eleven through fifteen resembled an abandoned underground mine, though there were far fewer resource veins in the actual mine than there were in the lava tunnels.
+
+The ground-dwelling mobs also shifted from having fairly normal defenses to creatures with stone or metal armoring of some sort. It made defeating them a bit harder, but it wasn’t anything our group couldn’t handle.
+
+Floors sixteen through twenty were more reminiscent of the first five floors of the dungeon, though they had larger jungle-themed rooms instead of the small forest rooms we’d encountered in the beginning.
+
+Really, it was more of a forgotten grotto theme than an actual jungle, especially since the lighting for each room came from floating fairy lights and embedded crystals instead of a false sun.
+
+The skillbooks dropped seemed to somewhat follow the theme of the floors, though there were a lot of random other skills mixed in, likely influenced by the prior affinities of me and my fellow Ascenders.
+
+I’d picked up a lava-based skill on the eighth floor, a metal-based skill on the twelfth floor, and an illusion-based skill on the nineteenth floor. I’d ultimately just purchased the last of my new skills – Gust, which most people considered little more than a utility skill than anything meant for actual combat.
+
+Because the skill was considered so weak and there were better utility skills that provided a similar function, the skillbook had been relatively cheap, which the frugal part of me had appreciated.
+
+I wasn’t the only one who’d gained a few new skills, both from the dungeon and the skillbook vendors. We’d all added a few skills to fill the new skill slots we’d earned through leveling.
+
+Pulling up my status, I looked over the changes that the last year had brought.
+
+***
+
+Name: Emie NeohimTitles: Ascender (hidden), Contender (hidden)Level: 198Evolution: None
+
+Core Skills: Demesne (Epic)Stasis (Unique/Uncommon)Restorative Healing (Epic)Lightning Bolt (Epic)
+
+Skill Slots (15/19):Divide Space (Unique/Rare)Dimensional Anchor (Epic)Teleportation (Epic)Herbalism (Uncommon)Haste (Rare)Repulsion Aura (Rare)Telekinesis (Rare)Identify (Uncommon)Enchanting (Rare)Ice Blade (Rare)Eruption (Uncommon)Shrapnel (Uncommon)Cooking (Uncommon)Minor Illusion (Common)Gust (Common)
+
+***
+
+Every skill except my most recent two had upgraded at least once from where it started, though some were distinctly harder to improve than others.
+
+Like Demesne. After the upgrade I’d gotten automatically after the first demon attack, the skill had refused to upgrade further, no matter how much I pushed it.
+
+The size continued to increase slightly with every level that I gained. There were a few times when I pushed the skill really hard and managed a moderate expansion, but the description and rarity of the skill refused to change, no matter what I did.
+
+Herbalism and Identify were similarly stubborn when it came to upgrades. Both had improved to (Uncommon) a few months after Stephen joined the party, but no matter how often I used them, they refused to upgrade further.
+
+It was frustrating.
+
+Conversely, both Restorative Healing and Lightning Bolt had seemed almost eager to upgrade, as had most of my time and space-based skills. The only real exception was Stasis, but I had a feeling that would change once the skill actually evolved.
+
+I’d finally given in and slotted Cooking once it became clear that I wouldn’t likely fill all of my skill slots any time soon. The skill had started at (Uncommon), likely because I’d tried enchanting effects into my ingredients more than once.
+
+It hadn’t worked, but the effort must have been enough to push the initial skill rating to the next level. Or maybe I was just better at cooking than I realized.
+
+Dismissing my status, I looked around the familiar space. The fairy lights twinkled almost playfully above the verdant grove, causing the small fountain at the center of the safe zone to look as if it were sparkling.
+
+“I think I’ll miss these floors when we move on,” I mused, before starting my harvest. “At least, I’ll miss how pretty they are.”
+
+It was routine at this point to harvest anything of value as we made our way through the dungeon, and it didn’t take long for the four of us to collect everything.
+
+“The next floor starts the open floor plan with other parties,” Stephen said with a grimace as he stored the last of the sour berries growing next to the fountain. While edible, the berries were mostly used as an ingredient for stamina recovery products.
+
+I knew that Stephen was still a little wary about using his shifting skill around others. He’d managed to upgrade it at least once, recovering even more beast forms from his old realm.
+
+Stephen had mentioned that he had the option of selecting beasts from this realm instead, but he’d opted to go with creatures he was already deeply familiar with instead of learning how to use something new.
+
+“It won’t be that bad,” Cora said confidently. “The dungeon only allows five parties per instance, and each floor is supposed to be large enough that none of the parties should get in the way of each other unless it’s intentional.”
+
+Because Dians were a lot like humans, such interference was much more commonplace than anyone wanted to admit.
+
+I glanced between my party members. We’d all kept pretty steady pace with each other, mostly by having those lagging behind do extra delves or work toward improving their skills, which automatically granted a level.
+
+Even having four empty slots, I still had quite a few more skills than the rest of my party members. To avoid getting too far ahead, I started storing my share of essence cores instead of absorbing them.
+
+Since beasts didn’t have the same limitations as Dians, I planned to give my future asolade beast companion the cores I’d collected to help it level.
+
+While I’d had enough money to acquire an asolade for months already, I’d ultimately decided to wait until I reached the first evolution before adding such a responsibility.
+
+I knew Stephen was inclined to acquire a beast companion after we were officially ‘adults’ as well, but I wasn’t sure Cora and Mike would follow suit.
+
+It would be kinda fun for everyone in the party to have a beast companion of one sort or another, but I was the only one with a storage space capable of housing said companions.
+
+There were beast crates and beast bags capable of storing pets when it might be inconvenient to have them accompany their bond, but the good ones were often far too expensive for even steel rankers to comfortably afford.
+
+I didn’t mind holding all of the party’s pets – a fact I made sure to let them know – but I got the sense that Mike and Cora didn’t want to rely on me for something like that.
+
+My situation with Stephen was a little different.
+
+Once I’d made my interest in the man clear, we’d become pretty much inseparable. We still maintained our own residences, for now, but that would change after we left the dungeon. In fact, we’d both already cleared our apartments in anticipation of our upcoming evolution.
+
+Since we’d no longer be unevolved, we wouldn’t be authorized to live in the building housing unevolved delvers. We also wouldn’t be entitled to free room or board, which meant we’d have to start paying like every other delver living in the Dungeon Complex.
+
+Thankfully, as Ascenders, we got a discount on housing within the Dungeon Complex, so the cost of living wouldn’t be too steep. Still, the added expense was enough to justify living together – not that we needed to justify our actions.
+
+“What skills are you working on this time?” I asked Stephen.
+
+Since it was our last delve before evolution, this was our last real opportunity to push any of our lagging skills.
+
+“Camouflage,” he replied. “It’s the only one still left at (Uncommon) that I think is close enough to potentially upgrade before I reach level 200. What about you?”
+
+“I’ll probably work on Gust and Minor Illusion,” I replied.
+
+I knew that Gust had a strong evolutionary path; it would just take a lot of work to get there. I hadn’t slotted it for its potential, though. I’d learned the skill because I wanted to have all of the basic elements covered before I evolved.
+
+Technically, I was still missing fire and earth, but with Eruption, I figured I had those covered well enough. Lava was just fire mixed with earth, after all. It also provided the combustion aspect that I’d been missing with lightning.
+
+As for Minor Illusion, it was a very useful skill that would only become more useful as it advanced. Aside from creating distractions, I knew the skill could eventually be used to create disguises, allow one to hide, or even manifest large area illusions.
+
+It would take a few evolutions to get to those heights unless I really focused on pushing the skill, but I wasn’t worried. I’d get there eventually.
+
+“What about you two?” I asked, turning toward the married couple.
+
+“I’m going to try to push Shadow Clone to (Rare),” Cora said, referencing her latest skill acquisition.
+
+It was an illusion-based skill she’d picked up a few floors earlier and had already upgraded once, mostly due to her experience with darkness and shadow.
+
+“I’ll probably focus on Sharpen,” Mike said. “I’ve neglected it for a while. It’s one of my earliest skills, and it’s still sitting at (Uncommon). Though, honestly, I doubt I’ll be able to make much progress in the limited time we have left.”
+
+Though we didn’t share everything about our skills, I’d picked up enough in general conversation to know that most of Mike’s skills were still at (Uncommon) or maybe (Rare). He’d gained far fewer levels from skills than the rest of us, though the last one he’d gotten had been a three-level jump all at once.
+
+I suspected he’d pushed one of his core skills to (Legendary). Earth Manipulation, if I had to guess which one. It was the only real explanation for why he would have gained so many levels all at once. Even going from (Rare) to (Epic) only earned someone a single level.
+
+“You’re not going to use one of the lava skills?”
+
+“No. That would make things too easy,” Mike replied.
+
+I could understand the sentiment since most of the mobs were animated plants of one type or another.
+
+The only exception was the whispers, which were basically a mix between wisps and evil fairies. They liked to blend in with the fairy lights above and attack when delvers were distracted.
+
+Even the boss was a treant. What made it more difficult than normal was that the boss was an evolved creature, if only barely.
+
+However, if we fought using lava, fire, and lightning skills, even the modest advantage it had in strength became basically meaningless since the creature had almost no fire resistance.
+
+“Let’s go.”
+
+I hung back, casting Minor Illusion to create confusion as Mike fought the boss head-on with his sharpened gemstone longsword. Surrounding him were shards of stone creating a barrier that cut through the plant creature’s limbs as it tried to retaliate.
+
+Stephen peppered the treant with arrows while using Camouflage to hide, though the skill did little to actually hide him from the creature. His last upgrade to Creeping Frost let him apply the effect to his arrows, which left streaks of rime on the trunk of the creature where his arrows impacted.
+
+For the most part, Cora kept her distance as well, using her Shadow Clone skill to disrupt the treant’s attacks while occasionally sending a Space Bolt or Gravity Bomb – another of her newer acquisitions that came from my old spells – to whittle the creature down.
+
+Any of the four of us could have likely handled the boss on our own, even with the power difference. However, we would have had to fight much more carefully… unless we took advantage of its weakness.
+
+Of the four of us, Stephen would probably have had the hardest time defeating the boss on his own unless he’d shifted into his Flame Herald form to set the creature on fire.
+
+Though Stephen had access to different types of magics while in his various beast forms, that access did not extend to his Dian form. It was a bit weird, but that was simply the nature of his skill.
+
+Cora would have also struggled a bit, mostly because the only fire-based skill she had access to was one she’d acquired specifically to support her Alchemy skill.
+
+The rogue had really embraced the previously out-of-reach skill, and had already managed to push the skill to (Uncommon), which was quite a feat for someone with less than a year’s experience with the craft.
+
+The boss eventually fell, leaving the final room in silence.
+
+“Alright, Emie. Looks like you’re up,” Cora said.
+
+She’d often claimed that the dungeon liked me best since I was the Originator, but I’d never really noticed a difference in the drops based on who was looting. If anything, I felt like the drops that I got were actually a little worse than what the others received.
+
+Still, I stepped forward and looted the creature, watching as it broke into motes and reconstituted into something new. My heart started beating harder when I saw the deep, light-absorbing cover on the skillbook.
+
+“Ha! What did I say? Emie always has the best luck!” Cora crooned. “Weren’t you just talking about wanting a Void skill yesterday while we were fighting?”
+
+She wasn’t wrong, but it wasn’t like the dungeon ever listened to me when I’d talked about skills that I wanted before. Sure, I’d picked up Shrapnel and Ice Blade, both of which I’d specifically mentioned wanting before I’d gotten them, but I’d mentioned several others as well to no avail.
+
+“Do you mind if I learn it?” I asked the others as I carefully picked up the skillbook.
+
+“Of course not,” Cora exclaimed before looking toward the ceiling and addressing the dungeon directly. “But I wouldn’t mind a void skill of my own, dungeon. A nice void barrier would be great, though I’d be happy with pretty much any void-based skills.”
+
+Before meeting me, Cora had never heard of a void skill. Such things hadn’t existed in her previous realm. However, after telling her about the affinity and what it could do, Cora had agreed that a void skill would make an excellent addition to her skillset.
+
+Mike hadn’t cared too much about void skills since he’d already decided to dedicate himself to earth and fire-based skills, with a bit of lava mixed in since it was a combination of the two.
+
+Stephen had shown some interest, but claimed to have a beast form with a void skill still in reserve. While he couldn’t access it yet, he felt confident it was only a matter of time before he regained the rest of his lost forms.
+
+“Well, you might as well go ahead,” Mike said with a nod. “We’ll take care of collecting everything.”
+
+I was very close to reaching level 200, even without absorbing the cores I’d earned. The others were right there with me, ready to cross that threshold at any moment.
+
+In fact, I was almost certain that if we ran the floor again, we would all reach the first evolution by the time we met the boss.
+
+Though I had no hope of upgrading the skill in the limited time I had left before I evolved, just having the skill would be enough to strengthen my connection to void magic.
+
+Focusing on the skillbook in my hand, I eagerly began the process of learning my soon-to-be newest skill: Void Strike.

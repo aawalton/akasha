@@ -1,0 +1,105 @@
+---
+id: 0643ded9-87ad-5550-a8c3-3f349e574cb8
+page-type-slug: story-chapter-royal-road
+title: "Ch31 Wang Ming"
+slug: 0031-ch31-wang-ming
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 31
+ownLength: 1355
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3270303/ch31-wang-ming"
+royalRoadId: "3270303"
+---
+
+Throughout the market, I have come across stalls with spirit fruits for sale. A majority of them are out of my current price range, from 100 to 200 stones for a single one.
+
+They are priced around the same rate as an elixir called the Qi Nourishing Pill, advertised in most shops as a pill for level 4 to 6 qi refiners. There are a few other higher rarity elixirs that catch my eye too, like low quality Marrow Cleansing Pills that can go for up to 400 spirit stones for a single one. The elixirs on display are milky brown and round; nothing like the stolen burnt inferior quality ones I’ve come across before.
+
+The fruits that I pass by on this stall look like oversized green apples, and give off a pleasing fragrance. The fact that they’re only being sold for 30 spirit stones a piece is intriguing, but it isn’t enough to make me stop.
+
+It is the name that pops up in my system scan that does.
+
+[Automatic Inspect Function Activated…][Wang Ming] [Age: 30][6th Level Qi Refiner][Earth, Wood, and Water Spiritual Roots][4th Grade][No Innate Physique][Is anxious about his inability to break into the late stage of qi refinement. He is unaware that his dormant gluttonous intent is on the cusp of awakening, and requires a large amount of energy.]
+
+I turn my head to see even the brown bear by his side, named Mantou, has a status too. He is at the 7th level of qi refining, and the exact same spiritual roots and grade.
+
+Though, the secret floating below the status is different.
+
+[Experiencing a backlash in cultivation after his breakthrough. Cannot progress further until his soulbound partner enters the late stage of qi refining.]
+
+“Are you a beast tamer too?” a cheerful voice calls out.
+
+I look away from the enormous late-stage spirit beast that calmly sits with an almost human-like stature.
+
+“No… I’m not. I was just drawn by the smell of your fruits. I’ve never seen them before.”
+
+The fat man smiles and picks one up with a proud stance.
+
+“That’s because the only spiritual green apple farm in Hidden Mist County is owned by my Wang Family. These are a sample of the harvest best used by mid-stage qi refiners. I’m Wang Ming, by the way, nice to meet you!”
+
+He puts out a hand to shake, but I politely shake my head.
+
+“Nice to meet you, but I’m not fond of handshakes.”
+
+He shrugs and keeps a jovial grin. “Understood. These Spiritual Apples are best for beasts, but they have very beneficial effects for cultivators too. One is similar to the raw qi stored in a full vial of low quality qi gathering pills.”
+
+I pull out 150 spirit stones and place them on the table. “I’ll take five.”
+
+As he happily collects the stones and picks out the best-looking apples, I watch the fat man move about. After setting five aside for me, he throws a sixth up in the air. His brown bear sniffs once, opens its eyes, and swallows a fruit in a single bite before it even starts to fall.
+
+“Another sale made, Mantou. I’ll be able to buy a Barrier Breaking Pill from the Inner Sect once I sell the rest of these,” he whispers, and ruffles the bear's fur.
+
+It lets out a satisfied grunt, and the two look like brothers in my eyes for a moment.
+
+I collect my fruits and leave with a wave, not pondering on this any more.
+
+Both Wang Ming and Mu Shulan are from the Outer Sect with 3 spiritual roots. After overhearing hundreds of conversations in the market today, I’ve come to learn this is what the sect considers real spiritual roots. Meaning, as long as they’re of at least 6th grade, they can cultivate fast enough to make it to the Foundation Establishment stage in their lifetime. Four roots are considered pseudo-roots, as most will never make it out of qi refinement, and five roots are just considered a waste. Even if the talent grade is high enough, some are still limited to the initial stage of qi refinement.
+
+On top of the fact that both of them have real spiritual roots, they’re of the 4th grade… This is far more talented than anyone else in this market. Schemes of leveraging their family drama to get closer to these future prodigies flash in my mind, but soon slow as I realize my own cultivation level is still far too low to safely navigate this next level of the hierarchy.
+
+Just making contact is a good start for now.
+
+Quite content with my haul, and still with over three hundred spirit stones in my storage, I start to make my way back around the outer edge of the market to find the main gate to exit.
+
+I stop at a small blanket stall where an old man at the 1st level of qi refinement is selling handmade daggers out of an inferior black iron with less than 10% of the active alloy that normal low quality 1st Tier daggers hold. I manage to buy a dozen of them, ranging from pocket knife sized to machete length, for 10 spirit stones.
+
+The stall right next to him sells inferior quality spirit wine and hand-rolled tobacco cigarettes.
+
+I grab five 1kg bottles of wine, and a single cigarette.
+
+“That will be 500 spirit fragments for the wine. You can have the smoke for free,” the second old man replies as I point out what I want.
+
+I pull out a full spirit stone and point to a tiny stack of red talismans.
+
+“Throw in a light, and keep the change.”
+
+He smiles, showing a few missing teeth, and tears off at least ten thin red talismans from the stack.
+
+“Ember papers are almost worthless. Here, take a few in case the first is faulty.”
+
+I accept, and walk out of the market a few minutes later with everything I wanted.
+
+Even if I don’t come back here for months, I feel prepared and stocked up.
+
+As soon as I walk past the outer gate and begin making my way back to the flying vessel, I feel the concealment talisman flickering and deactivating.
+
+I pull out the single smoke I purchased, and one of the flimsy red ember papers.
+
+Just a tiny pulse of qi from my fingertips makes the whole paper glow red. It grows hot in my hand, and the far edges start burning away like a slow-burning paper towel.
+
+There aren't even flames, it just makes small flickering embers. I quickly light the end of my smoke and breathe in before the paper dissolves to black ash less than 3 seconds later.
+
+“Nice design,” I murmur while letting out the first breath of thick smoke, and let my head fall back, looking up at the enormous Red Pine Tree’s underside above.
+
+This is the second time this young teen body with little to no nicotine tolerance is struck with a refreshing head rush. I get to fully enjoy the moment this time, but my first cigarette in this world still flashes back to me.
+
+While breathing in another drag, Qin Yue’s flawless face appears in my memories.
+
+Even after wandering the market today, seeing plenty of female cultivators of striking beauty that would certainly be famous stars in my previous world, none of them even come close to comparing to the aura that icy woman instilled in me.
+
+No one in this market was at the 12th level of qi refinement like her either… making even more questions arise in my mind.
+
+Strings of fate, innate physiques, and even the strange message I saw on Wang Ming’s status. He had something called Dormant Gluttonous Intent. All of it is a mystery to me.
+
+As the wind blows the crimson needles of this pine tree through the night, and the sun finally starts to show itself on the horizon, the line before Gu Shan’s vessel grows longer. I get to enjoy my entire smoke in peace before walking over to the forming crowd.

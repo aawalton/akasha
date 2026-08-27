@@ -1,0 +1,149 @@
+---
+id: 20210df3-aac1-5709-a35d-f66047e94c11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16"
+slug: 0016-chapter-16
+partOf: emie-ascended
+position: 16
+ownLength: 2055
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3489140/chapter-16"
+royalRoadId: "3489140"
+---
+
+I pointed to a creeping vine that had wrapped around the rough bark of a hardwood tree. It had deep, burgundy leaves that looked like they were covered in blood when the light hit them just right.
+
+“These are called Bleeding Hearts. They are very rare – one of the rarest herbs I’ve seen so far in the dungeon,” I told my teammates. “They are marked in the Delver Association guide as one of the more sought-after herbs for two-star Alchemists and are worth between ten and fifteen iron bits per leaf, depending on their condition. Truly perfect leaves can go for as much as seventeen iron bits.”
+
+Having gained their full attention, I continued, “There was no mention of these plants being present below the twelfth floor, but obviously, that information is incorrect. Since I didn’t see any updates about them in the forums yet, I can only assume that none of the younger delvers have any idea what this is.”
+
+“How do you even know about them if they aren’t supposed to appear below the twelfth floor?” Cora asked.
+
+“I researched all the herbs and valuable flora that could be harvested on the first twenty floors of the dungeon, since those are the floors that are considered ‘beginner’ floors.”
+
+“That’s a lot of information to memorize.”
+
+“It is,” I agreed before showing the duo how to harvest the leaves without damaging the vine.
+
+Even in the dungeon, it was important to harvest just the leaves since cutting the vine itself would cause the entire thing to shrivel and die, making everything left worthless.
+
+We stopped several times to harvest different herbs that I’d either overlooked or skipped during our initial journey through the rooms. Each time, I had my new party members take the lead in gathering the plants while I supervised and provided guidance.
+
+Before leaving the dungeon, I isolated my garden by creating a separate dimensional space within my demesne. I then placed the garden into stasis and the area outside the garden into stasis.
+
+My hope was that whatever artifact was used to appraise the value of what was inside my demesne wouldn’t be able to see through the second layer.
+
+After a moment of hesitation, I cannibalized my sanctuary and used the space to create a third and fourth layer around the perimeter of the garden, creating something akin to a Russian nesting doll.
+
+It might have been excessive, but with an entire Golden Oak stored inside, I didn’t want to take any chances.
+
+“You ready?” Cora asked when I opened my eyes. I’d completed my remodel after absorbing my share of the cores from the last fight, and though I’d been fairly quick, it had still taken some time.
+
+Before I could answer, I felt a thrum from deep within. My demesne hadn’t upgraded from my efforts, but it felt like it had grown by about ten percent.
+
+Rubbing my chest absently, I smiled. “I’m ready. Sorry, it took so long.”
+
+Stepping out of the dungeon, we automatically passed through another sensor arch. I tensed slightly as we were motioned toward the tax collector’s counter.
+
+I wasn’t sure my gambit would work. If it did, it would save us a ton of money. If not… well, I’d need to come up with an excuse to explain how I managed to get an entire mature Golden Oak into my inventory.
+
+“Names?”
+
+Mike gave the woman manning the counter our names while I stayed silent.
+
+“I’m assuming one of you has a storage skill since I don’t see any bags, and you owe a significant amount of taxes for your level and duration within the dungeon.”
+
+“That would be me,” I said.
+
+“Emie of Neohim. Yes. I see you have an inventory skill listed. Very good,” the woman said before marking something down. “As an Ascender party, your group owes one iron dime and fifty-six copper bits.”
+
+I barely stopped myself from sighing in relief. From the relatively low amount quoted, it was clear my efforts to hide my garden had paid off.
+
+I wouldn’t have to keep it that way since the tax was based on the difference between our starting value and our end value. From here on out, I wouldn’t have to worry about hiding the garden.
+
+I just hoped Priest Zeth was being honest about the artifacts not recording the specific contents of one’s storage. Finding the Golden Oak had been a boon, but not one worth drawing attention over.
+
+Honestly, had I given it more thought first, I might not have even bothered to transplant the thing. Still, I was curious about whether another tree would appear. It wasn’t unheard of for a dungeon to only provide certain resources until the first time they were harvested.
+
+It was rare, but not unheard of.
+
+“I don’t think we have enough to cover that without selling some of our loot first. Do we do that here, or somewhere else?” Mike asked.
+
+“You can head over to the man at the next counter. He’ll take care of you. Once you cash out, be sure to come back, or you’ll get stopped by the guards at the gate for attempting to leave without paying your taxes.”
+
+We nodded and headed to the next counter.
+
+We sold the team loot first, which came surprisingly close to what the artifact had estimated we should have earned in total. Mike took care of paying the team taxes out of it, but I promised to pay him the difference once I sold the rest of the loot.
+
+He tried to wave the offer off but begrudgingly accepted in the end.
+
+It turned out that the artifact’s estimate had been quite low. When I commented on it, the appraiser working with us said that it wasn’t uncommon for the artifact to undervalue loot stored inside a skill-based storage space.
+
+While there were ways to make it more accurate, the cost of doing so was too high to justify. The appraiser jokingly told me to just appreciate the discount and not worry about it since we were only required to pay the amount that the artifact said or ten percent of the true value, whichever was less.
+
+So, for those whose estimates came in high, which the appraiser assured us almost never happened, they could take the appraisal back to the tax collector and request an audit.
+
+It only worked if nobody in the party had left the processing area, though. If even one party member had stepped outside the controlled area, the audit request would automatically be rejected.
+
+In our case, I suspected the golden acorns had something to do with the undervaluation since just the half dozen I’d sold were worth three iron dimes.
+
+“Where did you find these, if you don’t mind me asking?”
+
+“The first room of the second floor,” I answered.
+
+The appraiser hummed as he stored everything, then made a note of the information. “I’ll have to ask one of the new groups to see if they can find any more. It’s possible it was just a one-time thing, but you never know.”
+
+After receiving my coins, I met up with Cora and Mike by the exit. We passed by a pair of bored-looking guards along the way, and I waited until we were outside the controlled area to hand Mike a few more coins.
+
+“This much?” he asked.
+
+“Yeah. I found a few things on the second floor that were pretty valuable.”
+
+“Do you think we should go back?”
+
+“I’d like to. There was a super rare tree in the first room. I’d like to see if it’s still there.”
+
+“Why wouldn’t it be?” Cora asked.
+
+“It was a Golden Oak,” I said quietly. “You should look it up later. They’re extremely rare, so I wouldn’t be surprised if it disappeared after I harvested the mature acorns.”
+
+I obviously left out the fact that I’d taken the whole tree. But it was either going to be a one-time spawn or not. If it were a one-time spawn, the tree would have disappeared whether I took it or not. If it wasn’t, then another should have appeared when the dungeon reset.
+
+“I’ll do that,” Cora replied. “Are you going to the supply store right now?”
+
+“I would, but I need a shower before I go out in public. I doubt anyone wants to be around me after two days’ worth of delving and no bath.”
+
+I considered heading straight to the bathhouse instead, but worried that I might fall asleep if I sat in a hot pool for too long.
+
+“Alright. I think Mike and I could use a bit of refreshing ourselves,” Cora said with a grin. “Do you want to get together sometime tomorrow? We can head over to the registration area and take care of officially registering as a party.”
+
+“Sounds good. I don’t think I mentioned it, but I’m in room A7. If you don’t see me around, I’ll probably be here trying to recover my Enchanting skill. I probably won’t pull a shift as a healer until the day after tomorrow, pending any future plans we might make.”
+
+Smiling, my new party member said, “Alright. If we don’t see you by dinner time, we’ll stop by.”
+
+I ended up falling asleep after my shower. I’d only planned to rest for a moment, but I was out as soon as I closed my eyes and relaxed.
+
+Though I woke up before dawn, I waited until a couple of hours after the sun crested the horizon before heading over to the crafters’ emporium. After a bit of consideration, I decided to splurge on a better enchanting focus than the base option. It took a good chunk out of my funds, but I felt like it was worth it.
+
+Aside from the focus, I also picked up several types of enchanting bases, or blanks as they are called here, as well as a few other crafting supplies.
+
+With what remained of my funds, I stopped by a market and stocked up on a variety of cooking staples before finally giving in and heading back to my apartment to practice with my new tool.
+
+It took me a few minutes to work out how to get the suite’s controller to alter the room layout to include a crafting station. I hadn’t had any reason to mess with this aspect of the room’s function as of yet, so it took a bit of experimentation to figure things out.
+
+Though the process was different, I found that the controls worked a lot like the pods I’d created near the end of my time in Neohim. They basically pulled from the mental images held by the user to manifest changes in reality.
+
+However, unlike my pods, which worked using a combination of expanded space and mana-constructs, the items that were manifested by the room’s controls were made out of a completely unfamiliar energy.
+
+Calling them energy constructs didn’t feel totally accurate since the energy mimicked matter so closely. But they were definitely different from normal items. I also instinctively knew that any items manifested by the room would dissipate if they were removed from the suite.
+
+Since I’d never encountered such items in the simulation, I could only assume that this aspect of technology had improved significantly since the simulation was designed. The only other explanation was that as an Ascender, I now had access to much higher evolution technology that I would have encountered as a mere ‘Traveler.’
+
+Given how much time had purportedly passed since the time in which the simulation was based, I was leaning toward the former being the case, though Priest Zeth had mentioned that such devices were rarely seen below the second evolution.
+
+Regardless, I was very interested in this new type of energy that so easily mimicked matter. I was also deeply curious about how the enchantment had managed to create it.
+
+The energy wasn’t essence, of that I was certain. But I suspected it might be some kind of derivative energy.
+
+Reining in my curiosity for now, I forced myself to take a seat at my newly manifested workstation. I could research the energy and new technologies to my heart's content once I regained my Enchanting skill. Until then, I needed to focus.

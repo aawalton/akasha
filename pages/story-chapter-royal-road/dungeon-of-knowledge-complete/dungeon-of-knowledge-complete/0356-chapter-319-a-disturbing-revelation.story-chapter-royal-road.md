@@ -1,0 +1,157 @@
+---
+id: 9f984ed0-4627-5e7c-b943-13e4560c5625
+page-type-slug: story-chapter-royal-road
+title: "Chapter 319: A Disturbing Revelation"
+slug: 0356-chapter-319-a-disturbing-revelation
+partOf: dungeon-of-knowledge-complete
+position: 356
+ownLength: 2550
+unit: words
+ownProgress: 2550
+publishedAt: 2025-07-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2456821/chapter-319-a-disturbing-revelation"
+royalRoadId: "2456821"
+markedReadAt: "2026-06-29T20:22:38.841Z"
+---
+
+Ali stepped through the teleportation circle, appearing in Naia’s upper cavern in the center of the ring of Trolls she’d sent ahead. She had woken up excited to explore her new runic tattoo skill, but Ryn had delivered a message that Naia wanted to see her about something urgent. It didn’t take too long before a plop behind her signaled that Naia had arrived – Ali still marveled at how well the little Mimic Slime evaded all her various perception skills to appear almost undetectable when she didn’t wish to be seen.
+
+Mimic Slime – Anomalous Ooze – level 81 (Water)
+
+“Wow, Naia, you’re growing so fast!” Ali said, excited to see how quickly her friend was progressing.
+
+“Ali-friend!” Naia said, her membrane quivering with the strange adaptation of her unique biology to solving the challenging problem of speech. She slithered across the ground to where Ali stood and reached out with a tentative pseudopod.
+
+Ali didn’t hesitate, taking Naia’s offered ‘hand’ in greeting, causing the slime to shiver and bounce with joy.
+
+“How are you leveling up so quickly, Naia?” Ali asked.
+
+“Plants are strong, and many,” Naia said, her tone and her body language somehow conveying how serious it was to her.
+
+“I have a new ooze for you,” Ali offered.
+
+“Later, I must show you something first,” Naia said, shocking Ali both with the improvement in her language and her choice to prioritize showing something over gaining a new ooze that she clearly would love. “Make a body that can’t be seen.”
+
+“Oh, alright,” Ali said, opening her Grimoire in a hurry and immediately summoning an Abyssal Stalker – whatever it was that Naia wanted to show her had to be very distressing to the little blue slime. Moments later, her stalker appeared, and Naia reached out with several pseudopods, exploring the unusual monster with the gentle touch of a blind person exploring an unfamiliar face. Mana flickered from her stretchy limbs in delicate exploratory waves.
+
+“Good monster,” Naia said, bobbing up and down, and then slithered up a wall toward a barely visible crack. “Follow. I must show you Blooming Rot.”
+
+Ali sent her Abyssal Stalker pattering down the tunnel on its eight agile legs, chasing the surprisingly fast slime as she navigated unerringly through the previously unknown maze of tunnels. She watched through the senses of her spider as she was led deeper and deeper into the earth, emerging from tunnels into caverns, traversing the craggy roofs while studying the bustling press of strange monsters below. There were things down below that were familiar to her – the fungal creep, and giant plants like the Mana Eater she had once fought – but there were many denizens she didn’t recognize. Enormous scarabs, strange walking trees covered with shaggy moss, mounds of fungus that somehow shambled around, squeezing through narrow openings much like slime, and creeping vines along the walls that lashed out at anything that moved, friend or foe.
+
+This Blooming Rot dungeon is far more extensive than I imagined. No wonder Naia is eighty-one already. Is she saying she can’t handle it?
+
+The one ubiquitous thread that ran through it all was the fungal creep – every surface was covered with the slimy growth, spawning many strange spores and fungal monsters and propagating a progressively denser, more cloying domain of nature and death. But the Stalker’s stealth was strong, and Naia was a mimic, often invisible even to the potent senses of her demonic minion.
+
+Finally, after nearly twenty minutes of skulking about on the rocky ceilings and tunnels, Naia led her out into a vast cavern. Crawling out into the open, clinging upside down among the stalactites, Ali felt small, dwarfed by the gigantic space, but as her mind tried to contend with the inverted view of the chamber, she suddenly registered several important things and gasped in surprise. Instantly, she covered her mouth with her hand, but it was her Fae body that had gasped, not the Stalker, and relief flooded through her as she realized she had not given them away.
+
+Out in the center of the chamber was the largest plant monster she had ever seen – a level one hundred and twenty evolved Mana Eater, with waving vine tendrils that covered an enormous span within the cavern, and glowing flowers brimming with the strange mana it used to feed. Five bud-like heads were growing out of the top of it, like a macabre plant-based aberrant hydra.
+
+A press of stalking monsters writhed across the cavern floor, every single one of them some bizarre, twisted form of unnatural plant life. On the far side of the cavern was the first thing that caught her breath – a large vertical slash through the reality of the chamber, sparkling as the infinitely sharp jagged edges sliced even the air and the ambient mana.
+
+A rift!
+
+Crawling through the crack from the unknown realm beyond, a heavy form of wood and twisted brambles emerged, roaring with power that caused the air to ripple like water. It took no more than two shuddering heavy footsteps into the room when every nearby monster turned and attacked it. To her surprise, even the evolved Mana Eater in the center of the chamber managed to reach it with its lashing vines, and in a sudden and violent explosion of magic and brawn, the nature-and-death dungeon eliminated the intruder in an efficient and brutal display of power.
+
+The fungal creep nearby bubbled and sprouted, surging up and over the corpse like an ooze consuming dinner, and before Ali’s demonic eyes, the monster was digested until nothing remained except the drifting sparkles of dissipating mana.
+
+That looked like Deconstruction. That’s troubling.
+
+A tiny touch alerted her attention to Naia, who was silently tugging her spider leg in the direction of the other side of the chamber. An involuntary shiver of dread took her then as she saw it standing – or rather floating above the ground; a sizeable geometric pyramid of polished black stone with glowing green runes etched into its surface.
+
+An artificial shrine. A sure sign that this Blooming Rot dungeon was a tool of the Blind Lich himself.
+
+***
+
+Ali’s heart was still pounding as she stepped through the teleportation circle back into her library, followed shortly after by Naia. She was deeply disturbed by what Naia had just shown her. She had always known the Blind Lich’s reach was large, but she had never understood just how vast. Naia’s domain was in the far northeastern reaches of Toria, half a continent away from the Dol Kerriadh peninsula and the destruction of Aman Rak and Ciradyl, and yet, the Blind Lich’s dark grasp fell over the entire land like a blighted shadow.
+
+Ali glanced over at Naia who bounced along beside her, seeming delighted to be in the library again. Does she even understand the implications of what she found?
+
+I’ve been lax with Naia, she realized. She was not certain if it was simply laziness, ignorance, or some residual reluctance to help her because she was a dungeon, but whatever the reason, it needed to stop immediately. Naia could not be left to face Nevyn Eld alone, and certainly not face him without every tool Ali could possibly offer.
+
+“I need to give you some weapons,” Ali said, clenching her jaw with resolve and garnering some curious looks from the other library inhabitants. She ignored them and began summoning monsters. The first thing she made was a Blood Thrall, getting a gleeful bouncing response from Naia as she reached forward with her pseudopods.
+
+“One moment, Naia,” Ali said, causing her friend to stop instantly, quivering in surprise.
+
+“No eat?”
+
+“You’ll see,” she added, trying to soothe her surprised friend – after all, there was an important reason she had wanted to do the exchange in her own domain. She quickly gave the Blood Thrall a raid domain enhancement, loading it up with three domain magic skills she knew Naia did not possess.
+
+“Ok, you can eat it now,” Ali said, and studied the complex interplay of mana as her friend grew to consume the much larger blood-affinity ooze.
+
+“Oh,” Naia said, wobbling about for a moment as her engorged body slowly shrank back to normal. “Raid domain enhancement? Vitality? Overpowering Strike? Ali-friend gives lots of gifts!”
+
+“Yes, Naia. I believe you will need them to fight that Blooming Rot dungeon,” Ali said. It was during her experience studying the Temple of Aman Rak dungeon shrine that she learned how to transfer Domain Magic between dungeons. She had quite the selection now, and Naia would benefit greatly from what she had collected.
+
+“Blooming Rot is strong,” Naia grumbled, her membrane shivering, but she was already sprouting a blood-red growth to experiment with her newest acquisition.
+
+But the ability Ali was even more excited about was the one where her class had automatically added her own Nature and Arcane affinities to the available options for Affinity Aura and Elemental Storm. When she had traded it to the Temple of Aman Rak dungeon, it had added its own natural affinities: Soul, Ice, Blood, and Bone. Now she was eager to see if she could add Water to her affinities by sharing her skills with Naia. At least trading with Naia was mutually beneficial and she trusted Naia. While theoretically a possibility, Ali was obviously rather hesitant to experiment with feeding domain magic skills to a random hostile dungeon for the possibility of recovering new affinities.
+
+“This is fun!” Naia exclaimed as she consumed another monster.
+
+“Just, please be careful, Naia. The one that put that stone down there is powerful,” Ali said, continuing to produce monsters for Naia to consume. She just hoped she could impress on Naia just how dangerous Nevyn Eld really was.
+
+“Not stronger than Ali-friend?” Naia asked.
+
+“Much stronger than me,” she answered, and Naia shivered with sudden worry.
+
+“Ali-friend not worry,” Naia said, patting her gently with a pseudopod. “I help.” And with that, she split off several slimes glowing with holy mana.
+
+Sacred Ooze – Ooze – level 61-65 (Holy / Water) x 3
+
+“Naia, where did you get these?” Ali asked, staring at the transparent, glowing oozes with an incredible combination of holy and water mana flowing synergistically within their bodies.
+
+“The holy Goblin,” Naia explained. “It can heal!” As she said it, Ali felt a rush of domain mana infusing the largest Sacred Ooze and a cloud of water vapor rushed outward, filling the area, growing rapidly denser.
+
+“That’s fantastic,” Ali said, quickly deconstructing the oozes before the domain magic got out of control in the library and wet all the books she and Ryn had so painstakingly collected. She had been certain that sending the adventurers to challenge Naia’s forces would result in growth, but she had never expected something quite like this. If Naia was to be believed, the Sacred Ooze was the result of her strange mutation ability reacting to Havok’s holy magic.
+
+Immediately, her Grimoire responded with an update.
+
+Variant: Sacred Ooze added to Imprint: Ooze[Sage of Learning]Domain Magic analyzed: Affinity Aura (Water).Domain Magic analyzed: Elemental Storm (Water).
+
+“Thank you, Naia!” Ali said. However, she now had several new questions – such as how Naia had been able to layer her domain down in the library without Ali noticing. She made one of her own Sacred Oozes to experiment with while Naia consumed every single domain magic Ali knew. The ooze was an impressive level sixty-five, and it had the strangest method of healing Ali had ever seen. It could spawn off tiny little oozes of holy and water magic, and they would crawl after their targets, exploding on impact or being consumed by the target to deliver healing.
+
+It's like a factory, making self-guided healing potions. Magic’s just so endlessly versatile! Is there ever any end to knowledge?
+
+Worthington reached in and removed his client’s purchases. A small assortment of lightning-affinity wands and miscellaneous artifacts of such value that the six percent auction house cut on this purchase alone would cover his expenses here in Myrin’s Keep for several months. Whistling a happy little tune to himself, he placed the items in an elegant box and carried them over to where his customer was waiting.
+
+“Here you go Ms. Novaspark. I hope you enjoy your purchases,” he said, bowing as he offered the box. “Please let me know if there’s anything else I can do for you.”
+
+“No, thank you. This all seems in order,” Donella said, peering at the items in the box.
+
+Worthington turned to leave, giving his client some peace and privacy to examine her purchases, but from behind him, he heard a big sigh. And then…
+
+Crack!
+
+He wheeled around, to find a pale Gnome face staring at a shattered wand, splinters covering her lap. But his heart truly stopped at the sight of her picking up a second wand and snapping it with a sudden abrupt motion.
+
+“Fuck,” she muttered.
+
+And then she broke the third one.
+
+“What are you doing!” he exclaimed, unable to contain himself. “Those are ancient, crafted items of incredible value!”
+
+“I know, I had to take a loan to afford them,” Donella said, and then gritted her teeth and snapped the last one.
+
+She stared down at her lap, and Worthington stared too, finding only shards and splinters. But then a smile broke out on her face, and she began laughing.
+
+Is she cracked?
+
+Then Donella reached down and collected several bright crystals, and with a small infusion of mana, she made them spark and crackle with brilliant white discharges of electricity. Then she rose to her feet and dusted herself off. “Sorry for the mess,” she said, and turned to leave with the crystals clutched in her fist.
+
+“What is the meaning of this, I must know,” he said, still breathless from the wanton destruction of priceless magical artifacts.
+
+“I need a supply of lightning-affinity magicite,” Donella said. “And Aliandra can’t make it yet. This is a gift for her that I’m hoping will prove to be mutually beneficial.” She held up her hand, revealing the sparking crystals and then she vanished in a cascade of tiny sparks.
+
+“She’s nuts,” he muttered, and headed for the back room to retrieve a broom. But it was only when he returned that the import of what she had just said registered fully.
+
+Wait… is she going to feed a dungeon lightning magicite... Wait, is that how dungeons gain the ability to make magicite in the first place? Feeding on the artifacts of unlucky explorers and failed raids?
+
+Several dozen thoughts suddenly collided in his brain. Just the idea of feeding a dungeon on purpose was insane. But feeding this dungeon lightning magicite meant quests at the guild, and adventurers farming it. Which meant a supply of magicite. A reliable supply. Which meant the disruption of the entire economy for lightning-affinity artifacts and wands. Even if all the magicite went to Donella Novaspark’s academy, she would still be the only source of new lightning-affinity wands on the continent.
+
+Suddenly, he realized just why Donella had been so willing to mortgage herself into extreme debt to break her purchases.
+
+Fuck! I need to let Bixi know!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,227 @@
+---
+id: 4f9068dc-1b46-5e0b-954e-2aa3ad0abdf3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: A Light and Friendly Chat"
+slug: 0016-chapter-1-a-light-and-friendly-chat
+partOf: ends-of-magic
+position: 16
+ownLength: 2813
+unit: words
+ownProgress: 2813
+publishedAt: 2025-07-07
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2415919/chapter-1-a-light-and-friendly-chat"
+royalRoadId: "2415919"
+markedReadAt: "2026-06-29T20:07:46.799Z"
+---
+
+“Try the cake, it’s truly excellent,” Sarya said, gesturing at the syrupy concoction with her spoon before taking a bite herself.
+
+Nathan dropped his gaze from Sarya down to the table between them, then took a bite with an internal shrug. It was sweet and drenched with syrup, but floral spices kept the dish from being too heavy. “Very tasty. I’m not particularly surprised you’ve got good cooks in your palace.”
+
+“That I do,” the Questor replied with a smile, and her cheerful expression made a shiver go down Nathan’s spine as she leaned forward to help herself to another indulgent serving.
+
+If he'd met Sarya on Earth, he would have thought about asking her out. She had stylish hair, subtle jewelry, a form-fitting leather jacket, and an intelligent gaze. But knowing just who and what she was killed any potential attraction. She simply wasn’t somebody he could relate to, and he would never be able to trust that she wasn't wrapping him around her finger for her own purposes.
+
+Just like Faline.
+
+At least it wasn’t hard to remember that her physical appearance was deceiving, with his magical senses blaring every time he was even in the same room with her. She wasn’t a mage as far as he could tell, but multiple of those subtle pieces of jewelry were relics that positively dripped with divine energy powerful enough to shatter this island and the city that sat atop it. The rest were merely integrated into a seamless whole of synergistic effects that felt more protective than any suit of armor could be.
+
+Though it wouldn't work very well against me.
+
+Sarya was either willing to let Nathan work through his complicated thoughts or was content to let the conversation move at its own pace. She slowly ate her way through the entire cake, luxuriating in the pleasant weather and the gorgeous view they had. From this vantage point, the ocean stretched into the limitless distance, disappearing into an upward-curling haze in the far distance.
+
+Nathan would have been more appreciative of the grand cliffs and climbing horizon if he hadn’t just finished a somewhat interminable sea voyage and seen a similar sight every single day. But he appreciated the reprieve to think. Eventually, it was time to cut to the chase. He broached the question he assumed she had called him to answer. “Are you going to help us stop the Endings?”
+
+She said she would help me make Davrar better. But it’s time to get into specifics.
+
+Her smile twisted as if the dessert had turned sour. “Mayhaps. We will help you, but that goal of yours has complexity beyond prediction.”
+
+Nathan clued onto the most important word of the sentence. “We?” The other Questors of your grid?
+
+“Yes. All of us. We had a little vote, and it was unanimous. Even Brox agreed, though he usually detests this kind of coordination.” She pointed at him with her spoon. “You impressed him.”
+
+Good to know. But let’s see how far that help will go.
+
+Nathan’s next question came out a little more challenging than he meant. “How does Davrar work? How do we change its rules?”
+
+Sarya snorted softly and leaned back in her seat, looking out over the ocean. “A simple question with a database as an answer. To truly understand the function of Davrar would require you to understand us, and our history, and then the entire history of Davrar."
+
+“With you being the distal expansion?”
+
+She nodded affirmatively, still looking away and across the ocean. “Davrar is governed by a council of eighty-nine seats, each of which has equal voting power in determining the rules and priorities of this place. Then Davrar carries out their will in the way it decides best.”
+
+Nathan frowned at how much there was to unpack in that. “You’re saying that Davrar is an artificial intelligence?”
+
+Sarya waved a hand dismissively. “Not truly. It’s not a conscious entity, if that’s what you mean. It is the highest tier of smart system, capable of carrying out complex instructions according to defined rules without bias.” She scowled again. “Without bias, that it was not given. But Darvar does not have sentience. To know more would be to delve into technical details I have not accessed in eons, and do not care to. They are irrelevant. You need to change the Mandate of Davrar, not interfere with its functioning.”
+
+Nathan nodded slowly, but his mind was racing. He had deduced that Davrar was some kind of megastructure, but he was having trouble accepting that the technical details of how it worked weren’t important to him. There was an emotionless intelligence that made everything run. It ran the sun and made the magic and skills of Davrar work, and probably controlled the Endings. Was that function really irrelevant to his goals?
+
+Sufficiently advanced technology is indistinguishable from magic. I’d like to keep in mind the idea of breaking the system, but the only way to do that might be to destroy Davrar entirely. It may be impossible - it’s the very thing that gives me my powers. Probably not a topic to mention to Sarya, and probably a bad idea from step zero.
+
+“Then we need to convince forty-five of the council seats to change the rules?”
+
+Sarya shook her head sharply. “I hold one of those seats, but it’s worth less than a prayer now. Changing the Mandate requires a unanimous-minus-one vote, and it hasn’t been how decisions were made since the Ending of Gods.” She saw the disbelieving expression on his face and chuckled. “It is exactly as impossible as you assume to get all but one of the council to agree. Now we hold Conclaves when necessary, and the council members are sworn to vote according to the will of the Conclave. It was demanded of us after Davrar surged in population, and it was no longer our little project. There are caveats and complications, but at the core of it is convincing those who decide to attend the Conclave.”
+
+Nathan felt like he was chasing a ghost. “So we go to a Conclave and make our argument. If they agree that we need to change the rules of Davrar, then it happens? You’re not beholden to some outside force that can overrule you?”
+
+Sarya’s smile was sad, with a touch of bitterness. “No. Davrar was built to be an experiment, an independent place where those of us who wished to make our own utopias could do so. A political breeding ground that would inform us on how to organize societies. That was our naive dream when we started. But then it became an outlet for all those who could not find purpose elsewhere, and now its purpose is to allow them a playground to spare the galaxy their ravages.”
+
+Nathan blinked at the new information, momentarily befuddled by the scale of what Sarya had just said, and the personal biases it revealed. Sarya seemed to have quite a lot of baggage tied up in the history of Davrar, and he wasn’t sure how to respond to the ancient bitterness she’d revealed. But ultimately, it didn't matter. He’d gotten his answer. If they convinced a Conclave of Questors that something about Davrar needed to change, then it would change. That was what he needed to know. The only thing left to sort out was how. “Alright. How do we go about convincing a Conclave to get rid of the Endings?”
+
+Sarya leaned forward, resting her arms on the table and pushing her plate aside. “You make your argument and respond to challenges. But the more significant deed is summoning the Conclave in the first place. There hasn’t been one for a very long time. Most Questors like Davrar as it is, and do not want to call another in the lack of a clear issue. I don’t personally possess the necessary influence either. But we can describe the path to tread.”
+
+She met his eyes, her expression serious. "It requires you to become known. Even if a Conclave is called, the Questors will only listen if they know of you and your deeds. As you are now, you are a mortal. You must be known across Davrar - to all Questors - for you to have a chance of success in your task.” She shrugged. “You must achieve deeds that are heard by all. If we work together, I will ensure that those deeds will gather the necessary influence to call the Conclave. Then you will have your chance to speak, as you spoke to me before.”
+
+Nathan was starting to realize the enormity of the task in front of him. He’d been hoping there was somebody he could fight, some shadowy organization he could defeat and wrest control of Davrar away from. But it wasn’t that simple. He had to become famous among the society of immortals who treated this massive megastructure as their personal playground.
+
+Maybe I should revisit the idea of breaking Davrar.
+
+But he wasn’t going to. Not really. Davrar was a constructed system that he wanted to change the rules of. If he went against the system, then he made an enemy of every Questor - and the system itself. He doubted there was some convenient control room to assault, some McGuffin he could break. It was more likely that Davrar was threaded through the entirety of the megastructure without a single point of failure. If it was a technological creation, the technology was so far beyond him that it wasn't even funny.
+
+After a bit of processing, he looked back to Sarya, who’d been watching him patiently. “What deeds do we need to accomplish? It sounds like you have a plan?”
+
+Her mouth quirked at the response, but she nodded. “I do, though it is hazy past the first step. I plan to revisit the targets as your capabilities develop. But - beware. These deeds must be impressive enough for Questors to hear your name. If we help you overmuch, then it will cheapen the victory. You will be seen as our pets. These must be your deeds, not ours. I will aim you as I would fire an arrow, then let you fly to the target.”
+
+“What’s the first deed?” Nathan ground out, getting slightly impatient. He wasn’t quite sure what he was expecting. Kill a dragon?
+
+“Conquer Esebus. Kill Sussu and every other member of her grid that attempts to stop you, likely including Badud.” Her lips curved up in a gleeful smile. "Again!"
+
+Nathan pursed his lips. “Sounds similar to taking down Giantsrest.”
+
+Sarya snorted. “In the same way that conquering this city would be the same as conquering Gemore. Esebus is a nation that has stood through Endings under Sussu’s hand, and if Badud’s grid has a center, it is there. They produce enchantments that approach the majesty of the Kalis Conclave if not the elegance, and a squad of their regular soldiers could challenge the elites of Gemore.”
+
+“Okay,” he answered lightly. “I’m going to need a lot more information and to talk to my team. We need to plan. Do you want us to destroy the whole city?”
+
+If they’re ruled by one of Badud’s grid, one of the other ‘founders’ of Giantsrest, then I doubt it’s a particularly utopian city. But I don't think I want to blast a city off the map because its rulers are bad people.
+
+Sarya shook her head briefly. “All you need do is kill the Questors. They will be denied the city for a generation, and that will be long enough for another to stake their claim, or the city to develop an independent leadership. If the city is intact enough for another Questor to claim it, then all the better. And if I learn about it before broader Questor society, then I can leverage the information for influence.” Her smirk carried an edge of cruelty. “It will be a tug on the web for such a venerable grid to lose their center of power. The gossip of Davrar, even.”
+
+Nathan nodded, beginning to understand the shape of the scheme. “I get it. Not only is it an impressive deed for us to be able to kill off a grid of powerful Questors, but to do it in their place of power makes it more so. Especially since it’s actually a permanent loss for them. Something that will hurt. And the fact that they’re your primary enemies won’t hurt your prestige either.”
+
+She dipped her head in acknowledgement. “Verified truth. You can’t kill a Questor, but for somebody like Badud, you can target the things they’ve spent eons building. Better still to leave it intact and in the hands of somebody else.”
+
+Nathan sighed. “It all sounds great, except for the part where we need to attack Esebus and win. How are we going to do that?”
+
+“We’ll discuss it later,” Sarya said with a shrug. “After we’ve talked to you all and reviewed the details of Esebus. The smart plan would be for you to sneak in and assassinate Badud’s grid in sequence.”
+
+“Isn’t that too much help?”
+
+Her mouth quirked up in amusement. “We cannot claim the victory, even by proxy. We can’t give you artifacts to overcome critical defenses, or even pass Insights that are known to be part of our builds. But we’ve all been on Davrar for a long time. We’ve got Insights that nobody knows we have. And most Questors view the logistics of travel and intelligence as irrelevant. They forget the importance, with easy travel and the information system at their fingertips. But we can tell you about the key defenses, such as the Shield of Solemnance that suppresses destructive magic around Esebus.”
+
+“Is that anything like the shield that extends a dozen miles around Keihona?” Nathan asked, tilting his head inquisitively at her.
+
+Sarya’s eyebrows went to her hairline. “You can detect that?” She shook her head in mild disbelief. “Yes, nearly the same. Though each is a masterpiece of purest wizardry, the prove-works of the mage-lords of Kalis. It should be undetectable to all but skilled wizards.”
+
+“Yup,” Nathan replied, more than a little smug. “I thought it was impolite to mess with it, but it did seem to be changing something about reality inside of it.”
+
+Sarya was eying him speculatively. “We wrote off antimagic as a Path five endings ago. Occasionally, a new Questor attempts it, but they usually abandon it the first time they lose to somebody with wizardly empowerment. I doubt we’ll have many Insights to offer you on your Path.”
+
+If they’re going to offer us Insights freely, then it seems like a pretty big handicap not to put my cards on the table.
+
+“Probably not on my antimagic,” Nathan acknowledged. “But there’s some amount of brute hand-to-hand, and my second class is as an assassin.”
+
+“You do have two classes,” Sarya said, not nearly as surprised as when he’d revealed the depths of his antimagic. “Difficult to obtain, and often considered a handicap in the long run because of the split of Paths. Davrar rewards focus.”
+
+Nathan met her eyes. “Davrar rewards risk. And I get the sense that we’ve taken on more risks in the last year than you have in the last thousand.”
+
+She laughed, the sound loud and throaty. “True enough! Davrar rewards risk, and mortals do level and Develop their abilities faster than Questors. Now, let us gather everybody and discuss what Insights we can teach you.”
+
+“I’m going to need to convince my team that all of this is a good idea first,” Nathan said wryly. “We came here to learn how to stop the Endings, and now I’m going to tell them that we need to jump through a bunch of hoops first."
+
+Sarya gave him an unimpressed look. “Do you expect it to be difficult? They followed you here on the barest hint of a plan.”
+
+He lifted his hands in defeat. “Probably not.” Then he stood. “Thanks. It’s good to know where we stand.”
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 564
+
+Regenerative Focus: 5740/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 3
+
+Mystical Discernment 4
+
+Forewarning 2
+
+Arcane Insight 4
+
+Evasion 1
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 9
+
+Visibility Control 5
+
+High-tier Disguise 5
+
+High-tier Battle Cry 3
+
+Aura Control 5

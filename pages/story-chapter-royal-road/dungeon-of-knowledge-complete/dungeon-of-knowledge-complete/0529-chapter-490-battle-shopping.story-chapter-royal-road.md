@@ -1,0 +1,319 @@
+---
+id: a854991f-f1c3-5a1e-bab3-d16609d2958a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 490: Battle Shopping"
+slug: 0529-chapter-490-battle-shopping
+partOf: dungeon-of-knowledge-complete
+position: 529
+ownLength: 5481
+unit: words
+ownProgress: 5481
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2889961/chapter-490-battle-shopping"
+royalRoadId: "2889961"
+markedReadAt: "2026-06-29T20:30:13.795Z"
+---
+
+“Hey, guys, do you mind waiting for a few minutes?” Ali said, already mentally directing the tiny golden dragonets flying around her domain. “I need to go shopping really quick.”
+
+“Are you serious? You know we’re in the middle of a fight right now?” Malika said, glaring at her with a comical mix of exasperation and surprised amusement.
+
+“New slippers?” Mato put in.
+
+“Well, not right at this exact moment,” Ali said, sticking her tongue out at Mato as she summoned a dragonet to facilitate her return teleport. “I won’t be long. I just need a few wands from the guild store, and Kavé just used the anvil to make a fantastic holy sword I want to use for this fight. Back in a flash.”
+
+“I guess it’s fine,” Malika said, throwing her hands up in an exaggerated gesture that made Mato chuckle.
+
+“Wait, if Kavé used the anvil, couldn’t you just make the sword with your Grimoire?” Calen asked.
+
+“Yes,” Ali said, “but then she won’t get any experience from the fight.” She still couldn’t duplicate mana signatures, even with her Grimoire’s potent ability to replicate almost anything, although she hadn’t exactly spent a lot of effort exploring those possibilities. There always seemed to be far more urgent things she needed to learn, and her list of fun, exploratory research projects had grown into a neglected mountainous heap by now.
+
+“Will she even get experience if your minions use the sword?”
+
+“I don’t see why not?” Ali mused. “My minions gain experience, so the mana signature tithe should work just fine, right?”
+
+“I guess so,” Calen answered, pursing his lips thoughtfully. He was so transparent, Ali could almost read his thoughts: it was abundantly clear he was mulling the idea over in his mind, dissecting it in every which way, intent on abusing it somehow.
+
+“I’ll be right back,” she said, leaving him to it, and dropped a recall potion at her feet. The instant she appeared at the Myrin’s Keep locus, she used her domain and a well-placed minion to teleport directly into the guild store, startling Weldin and several of the adventurers in the midst of quietly browsing his wares.
+
+“Hi, Aliandra,” Weldin said, adjusting his eyepatch with an almost flawless recovery that returned him instantly to his signature unflappable elegance. “What might I do for you today?”
+
+“I’m in a bit of a hurry, but do you still have any wands of Fire Vulnerability in stock?” Ali asked. Her plan for Haverron’s horde of undead involved a lot of fire magic, both hellfire and regular, and she recalled that some of Donella Novaspark’s magic item crafters had started supplying the guild shop with samples of their work.
+
+“I believe I do have a few left,” Weldin said, leading her to a display cabinet and opening a drawer. “Very popular item,” he added. “A must-have for any discerning up-and-coming Fire Mage.”
+
+Ali watched while he rummaged around in the drawer before pulling out three wands that appeared to have been fashioned from Eimuuran steel – a prudent choice for fire magic, one that wouldn’t risk having them catch alight, unlike a more traditional wooden wand. Each had a functional-looking handle, perhaps a little larger than she preferred, and lines of tiny runes inscribed along the length of the wand glowed with a soft red light. It was excellent craftsmanship, but it wasn’t like she was personally going to wield the wands anyway. Still, given that her life, and those of her friends, might depend on it, she examined the work closely.
+
+Wizard’s Wand of Fire Vulnerability – level 95 (Fire)The Pyromaniac's trusty helper.+57 Intelligence.+45 Wisdom.+22 Vitality.Charge: Curse your target with level 95 Fire Vulnerability. Charges: 25/25.Requirements: Intelligence 333.Created by Donella Novaspark.Main Hand – Wand – Eimuuran Steel
+
+“These are perfect,” Ali said. Not very flashy, but functional. She inspected each in turn, but they were almost identical. Twenty-five charges would be more than enough for the fight, and with only four enchantments, they wouldn’t break the bank.
+
+“Is there anything else I can help you with?” Weldin asked.
+
+“Oh, yes, do you have any more Ice Protection potions or elixirs?” she asked, mentally reviewing her shopping list.
+
+“I do, in fact,” he said, opening a glass display cabinet on the opposite wall and retrieving a box with the bubbling flask logo for Pretty Powerful Potions on the side. “Morwynne Fizzlebang dropped off a new batch just this morning.”
+
+“Great! Can I take them all?”
+
+That response got a raised eyebrow from Weldin’s good eye, but he was a consummate merchant and made no further comment. Anything for the sale. “Five gold each for the wands. Fifty gold for three dozen elixirs,” he suggested.
+
+“Ok,” Ali said, dropping the coins into his hand. A trace of a frown crossed his brow, and suddenly, Ali remembered her manners. “Oh, I’m sorry, Weldin! I’m in a bit of a rush; can we haggle next time?”
+
+“Of course,” he said, ever the smooth businessman, and bowed to her, making the gold coins vanish with a tiny flicker of his space-affinity magic. “Always a pleasure.”
+
+Ali stored the three wands and teleported immediately, happy now that she had seeded her dungeon with a few respawning nodes of fire-affinity magicite. Apparently, the crafters over at the academy had been putting it to good use.
+
+She materialized above the scorched, rocky terrain of the Emberforge Mines, right next to the Anvil. Waves of intense heat rolling off the pool of lava behind the forge greeted her. Coincidentally, this was at the precise location where she had originally found that first chunk of fire-affinity magicite lying under the corpse of the Corrupted Fire Drake so long ago.
+
+“Och, lassie, ya spooked me,” Thuli exclaimed, clearly startled by her sudden appearance. Kavé, on the other hand, seemed oblivious to her entrance, remaining bent over the anvil with a look of intense focus on her face as she beat a piece of steel with a hammer that was overflowing with her mana.
+
+“Hi, Miss Aliandra!” Havok shouted, waving a glowing holy sword at her. “Look! Havok get fancy sword!”
+
+“Hi, everyone,” Ali said, smiling at the excited Goblin as she glanced around, taking in the small group of adventurers that were guarding the smiths while they worked. “Nice sword, Havok, you’re going to do some damage with that.”
+
+“Smite, smite it!” he yelled happily, waving the sword rather dangerously above his head. “Smite holier and thank for the damage!”
+
+She grinned at his excitement. “Too right! And congratulations, Kavé, I heard you got promoted.”
+
+“This one is grateful,” Kavé said, turning and bowing to her.
+
+“I’m in a bit of a hurry. We found a really nasty Death Knight, and I was wondering if you had maybe four of those swords to sell me?”
+
+“Oh, this one is sorry, Ali,” Kavé said. “That one was made specifically for Havok, and the other is sold. There are only three other completed swords, but if you can wait an hour, this one should be finished.”
+
+“I can’t wait,” Ali said. She didn’t want to have to face Grim Spark again when he eventually respawned. “Three will have to do.”
+
+“Death Knight, eh?” Thuli asked, tugging his beard with a soot-stained hand. “Ice magic?”
+
+“Yes, and death affinity, too,” Ali said. “I’m thinking of two swords for a troll warrior, and one for an assassin. I’ll need to find a second dagger or sword somewhere, but I think I can probably make something reasonable.” If Kavé only had three swords with her signature on them, Ali might just have to make up the difference with her Grimoire.
+
+“Why don’t ya take this?” Thuli said, handing her a long, dark dagger that radiated heat from a blade wreathed in flame. “It could use some combat testing.”
+
+“Wow, what is this?” Ali asked, taking the dagger and examining it closely.
+
+Deadly Blade of Searing Flame – level 135An elegantly designed blade for the haste-conscious rogue who requires just a little extra oomph to get the job done.Damage: Fire, Melee, Physical, Slashing.+122% to Physical damage.Attacks gain +40% additional damage as Fire.+71 Dexterity.+56 Strength.+23% to Attack Speed.21% chance to cast level 102 Flame Burst on hit.Requirements: Dexterity 427Created by Thuli Emberforge in the Dungeon of Knowledge.One Hand – Dagger – Eimuuran Steel
+
+“I was learning some of the flame enchants Grelda Flamebellows taught the Anvil. This design is intended for the royal weapons quest, but you can have the first one,” Thuli answered. “Let me know how it performs in battle. I can make adjustments if needed.”
+
+“Thank you all so much!” Ali exclaimed, and with her brand-new flaming dagger, wands, and three holy avenger swords, she used her long-range teleportation recharge to switch herself back into the Crypt of Kings, right beside her friends.
+
+Immediately, she shivered as the icy chill in the air banished the warmth of the Emberforge Mines.
+
+***
+
+Ali couldn’t have been gone for more than fifteen minutes, and already Calen had made several substantial improvements to their proposed strategy. She intended to burn everything with fire and holy damage, disrupt Haverron’s Siphon Life skill, which Calen said had both a stun and a life drain, and then generally make sure nobody died using a whole host of shields and barriers. But he had details and contingencies and a thousand other things written down.
+
+She listened intently as he explained some of the subtle interactions of skills and how they might exploit them, but she also opened her Grimoire and got to work. She had a lot of monsters and gear to summon, and they were on the clock with the dungeon respawn timer, after all.
+
+Scion of Azryet – Dragon – level 163 (Void) x2Mage of Piercing Frost – Troll – level 145 (Ice) x3.
+
+Her first set of summons were some of her highest-level and most trusty minions, and she hoped their barriers and shields would be sufficient to block Haverron’s Elemental Storm.
+
+“Here you go,” she said, handing the ice mages each a Fire Vulnerability curse wand. Their ice magic would be next to worthless for most of the fight, so she gave them the job of seeding the curses into the undead horde, and hopefully being her eyes to see through the snow and ice.
+
+“Now I need fire. Lots of fire,” she muttered.
+
+“You sound like a maniac, Ali,” Mato chuckled deeply.
+
+“Hush, you.”
+
+Hellfire Imp – Elder Demon – level 107-113 (Hellfire) x3.Fire Mage – Kobold – level 98 (Fire).Hellfire Warg – Demonic Wolf – level 95 (Hellfire) x2.Armored Drake – Dragon – level 108 (Fire).
+
+If she were honest, she had made the kobold Fire Mage more out of nostalgia than anything else. Objectively, another Hellfire Imp would have been a better pick, if only a little, but the risk she was taking was low, and the payoff might be another evolution for her trusty little kobolds. The wargs and drake were intended to be skeleton tanks, and given that they were immune to the fire bombardment she intended to subject them to, they seemed to be ideal choices.
+
+She shifted further down the demon imprint chapter and summoned two giant Sentinel eye-demons.
+
+Eye of Agnor – Demon – level 151 (Arcane / Hellfire).Eye of Agnor – Demon – level 149 (Arcane / Lightning).Baelok Descrier – Demon – level 93-96 (Mind) x3.
+
+“Odd choices,” Calen mused, studying the ugly demonic creatures.
+
+“The first one will cast Explosive Conflagration and more fireballs,” Ali said, explaining her choice so he could finetune the strategy. “The second one is because Chain Lightning will be incredible against that horde. I’ll make both of them keep bombarding Haverron with arcane bolts the whole fight.” Furthermore, both demons could fly and buff her imps and wargs with extra shields and defenses.
+
+“Those arcane bolts will be handy tracers in the storm,” Calen said, nodding his approval. “What are the Descriers for? Aren’t they a little weak compared to the Eyes?”
+
+“They have a compulsion aura that protects against mind-altering effects,” Ali said. “This way, Malika doesn’t need to teleport everywhere to block the fear.”
+
+“Oh, thanks,” Malika said. “I was worried I’d need to be everywhere. Especially with Calen’s strategy of spreading out to avoid the gaze.”
+
+“What next?” Calen asked.
+
+“More fire,” Ali said.
+
+“Told you. Maniac…” Mato fake-whispered to Malika, making her chuckle.
+
+“What, you too?” Ali gasped. But she kept up her stream of mana pouring into her Grimoire, and shortly, she had her next set of minions. The core damage dealers.
+
+Wielder of the Sacred Flame – Kobold – level 140-141 (Holy) x3.
+
+With the additional holy fire area damage, she was hoping she would be able to keep all her melee minions, Mato, and Malika healed under the onslaught of all those ice blades and the devastating blizzard, not to mention the continuous explosions of detonating wraiths. Despite the name, holy fire was not actual fire, and it wouldn’t benefit from Fire Vulnerability. Still, holy damage, or healing, was a ridiculously powerful tool wielded against the undead, and the simultaneous healing effect on their allies was far too good to pass up.
+
+Joraa [The Betrayer] – Troll – level 160 (Blood)Ensure your favorite authors get the support they deserve. Read this novel on the original website.Restoration Shaman – Troll – level 98 (Nature)Priest of Azryet – Kobold – level 144-146 (Holy) x2
+
+Ali had been working around the clock to level up some of her newer minion classes, and one of the ones she was most eager to evolve was the Restoration Shaman. Similar in class to Teagan, she knew he could pull his own weight even though she had not evolved him yet. With her healers done, she turned to her melee monsters and her champions.
+
+Tol’brekk [The Crimson Blade of Carnage] – Giant Troll – level 165 (Blood).Kir’mogan [The Brutal Blade] – Troll – level 161 (Bone).Void Assassin – Kobold – level 138 (Void) x2.
+
+Haverron had to be some kind of Sword Master, and with the flurry of area sword strikes, flying ice blades, and Cleave, she wanted to keep the number of monsters within his reach as small as possible, so each had been chosen with exquisite care to maximize her damage and utility. The great thing about Carnage Berserkers is they were fantastic all-rounders – virtually immune to crowd-control magic, they had two powerful movement skills, a devastating area attack, and insane damage with their dual greataxes when focused on a single target. And of her berserkers, Tol’brekk was easily the most powerful; a cunning fighter with a wealth of experience.
+
+Of her melee monsters, the only minions she saw unleashing more sustained damage on a boss were her Void Assassins, a product of her hard work and her alliance with Azryet. While her Bone Champion didn’t quite match either of the other two, Kir’mogan was still no slouch in the damage department, especially with the new swords she was about to give him, but she had come to rely on him for Mortal Wounds and his general reliability and resilience in the thick of things.
+
+“Here you go,” she said, tossing Kir’mogan two of Kavé’s Holy Avenger swords.
+
+“Thank you, Seeker,” he said, his eyes gleaming in delight as he examined his powerful new weapons. “These are worthy weapons for striking down undead.”
+
+Before her kobold assassins could grow too jealous, she discreetly duplicated the last sword and the fire dagger Thuli had given her and offered one each to the eagerly waiting kobolds. “These are for you guys.”
+
+“Excellent, Ancient Mistress. I will slay your foes without hesitation. May their blood run upon the ground in great rivers.”
+
+Great, a kobold with a flair for the dramatic. She grinned, amused at the kobold’s choice of words, and the fact that the undead likely didn’t even have blood, let alone rivers of it. She continued to hand out weapons and armor to her increasingly eager minions and then resumed summoning. This time, she summoned one of her most versatile, annoying, and definitely most batty minions.
+
+Kir’vella [Empress of Bats] – Troll – level 158 (Soul).
+
+“You will help me by decursing those Frozen Doom curses,” Ali instructed. Even if she couldn’t do much about a gaze-applied Life Tap, removing the Frozen Doom would be a massive advantage. “And any Ice Vulnerability curses, too.” If something like that were to stick to Mato, they would be in for a world of hurt.
+
+“Yes, Seeker,” Kir’vella cackled, hopping up and down on her toes.
+
+“Don’t forget your decoy,” Calen said. “You going to use the ooze?”
+
+“I don’t think so,” Ali said. Her Toxic Spitter ooze could summon many spawned oozes, but they all did poison damage. Even if their purpose was to take the impale on her behalf, she didn’t much like the inefficiency of bringing a monster that couldn’t serve any other purpose. She was already skirting the boundaries of efficiency by bringing ice mages to a Death Knight fight.
+
+She did have several swarm monsters, but she quickly discarded her Vampire Hornets and the Glimmer Shards as being too weak.
+
+“I think it’ll have to be the Dark Druid,” Ali said. The Sylvan monsters could summon Rot Saplings, which would be fantastic damage soaks. The only problem is their damage. Rot damage was the combination of nature and death, and if they did any damage at all, she was certain Haverron would regenerate health by being hit with a source of death affinity.
+
+But then a different idea suddenly popped into her head. Something much more suited to the fight. Ali reached for her Grimoire and summoned an old favorite.
+
+Subterranean Brood Queen – Rock Beetle – level 90 (Earth).
+
+It was the lowest-level monster she was bringing to the fight, but it was a natural summoner – and her brood were swarm monsters. Earth affinity, at least, wouldn’t interfere with the fight and might provide some useful crowd control. The other contender had been her Flame Broodmother with her ability to summon hordes of fire spiders. Flame web and the swarm fire damage aura would have been fantastic in this fight; however, she had unfortunately not had the time to level them up enough, and their vulnerability to cold within Haverron’s blizzard had been the deciding factor.
+
+Rock Beetle it is, she decided.
+
+Your reserved mana has increased by +13385.
+
+“Oof, you lot are expensive!”
+
+***
+
+“So, the cowards come crawling back?”
+
+Ali shuddered at the raw power woven through Haverron’s voice, but the combination of her enormous wisdom and Malika’s buff had rendered it merely loud and uncomfortable, the pressure waves of dark mana and air dissipating against her frostweave, making the cloth rustle and shift restlessly, rather than having her brain turned to jelly.
+
+You have been cursed with Agony.
+
+Haverron’s cold, eyeless gaze swept across her, and Ali studied the prickling ripple of death magic curse formations washing across everything he saw with a scholar’s detached curiosity. Pain flared in her joints and mind as the curse tore voraciously at her life, but by itself, the curse was not much of a problem. Holy mana briefly flickered as her two priests cast their versatile Azryet’s Gift, making several instances of the healing buff that darted and bounced between members of their group, unerringly seeking out damage before hopping to the next like over-eager little bright white frogs of holy light.
+
+Her eyes followed Mato’s heavy lumbering gait as he eagerly charged out across the dark, empty stone with only Malika beside him. In her mind, she counted slowly to five and then unleashed her minions. In the lead, her giant berserker roared his challenge, the bellow carrying clearly over the heavy, ground-shaking strikes of his enormous three-toed feet, and the clanking of dark, gleaming enchanted armor.
+
+Like the Death Knight himself, the Carnage Berserkers were one of those rare anomalies; a monster that received more than ten attributes per level while still retaining the ability to wear armor and wield equipment. It had been an expensive undertaking, but Thuli had outdone himself making Tol’brekk his oversized, custom gear.
+
+Appearing almost tiny in the great shadow of the berserker, Kir’mogan downed his glittering crystal Ice Protection elixir and unsheathed both Holy Avengers, keeping pace beside the kobold Void Assassins who were only visible due to the vast array of diverse perception skills Ali wielded.
+
+Joraa sprinted fearlessly into the wall of furious ice and snow, his shield and sword already dripping with his own crimson blood, just a few paces behind the others. Immediately, all of them were lost to her normal vision. Fortunately, she had her troll ice mages with their handy ability to see through ice and snow as if it were a clear summer day.
+
+With rapid mental commands, Ali began the second stage, directing her minions simultaneously. The two void dragons took to the air with roars and violently flickering shields of pure black energy and unleashed their breath attacks directly at the two skeletal frost dragons, drawing them up and out of the storm in a spectacular crashing aerial battle, fangs and claws, scales and bone. Of hard glittering blue ice and the sizzling, deadly black of the void.
+
+Quickly, Ali split her minions into three groups, one remaining with her, and the other two groups rushing around to the rear, completing the triangle, which was Calen’s final suggested formation to minimize the gaze curse. Each group comprised a healer, a descrier, a barrier mage, an imp, and a holy Fire Mage. In her group, she took the role of the barrier mage, sending the last ice mage wading into the storm to protect the melee when the time came.
+
+Kir’vella was already hard at work decursing, an activity which Ali was certain didn’t require the capering dance she was engaged in. At her side, the massive brood queen had already summoned a small horde of beetles.
+
+Ali paused, focused on the ice storm, using half a dozen perception skills to penetrate to the core and observe the fight unfolding. Shapes began to materialize in the howling wind and ice, skeletons that glowed with cold blue eyes, wraiths that screamed and took off to hunt the living. Within the pillar of intense mana at the center, she saw a distinctive formation appear.
+
+Quick as a flash, she fired her arcane darts at it, and the Siphon Life skill collapsed, evoking a hollow howl of fury and a shattering cascade of unbound mana and golden sparks.
+
+Ali waved her hand, and her Armored Drake waded into the ice storm, flanked by two Hellfire Wargs that filled the raging storm with eerie howls as they hunted skeletons.
+
+“Begin,” she said.
+
+The burning cackle of Hellfire Imps and the hunting chirps of kobolds echoed across the plaza. The sudden acrid stench of brimstone mingled with the howling winds of the storm as fireballs pierced the clouds, the glow flickering strangely as it reflected off the inside of the chaotic ice storm. Behind her, two Eyes of Agnor rose ominously into the air, their many eyes already glowing with power. Hellfire fireballs launched out, far bigger than the ones the Imps wielded, and a pair of chain lightning bolts shot into the storm, making it flicker and flash like the inside of a thunderhead, adding the pungent odor of ozone to the medley of fire.
+
+“Curses,” she commanded. Wands were raised, unleashing Fire Vulnerability upon the shambling skeletons, and then her hellfire-affinity Eye of Agnor unleashed the devastating Explosive Conflagration upon the same hapless undead. Ali studied her deployments carefully through the arctic winds as the skeletons trudged on, casting a continuous storm of ice bolts while ignoring the fact that they were burning with black flame.
+
+One… two… three… she counted the seconds, and then it happened. Magic flared upon a skeleton. A spell she had once crafted for Seth. A magic she had fought against countless times, both from the warlocks and the phoenix.
+
+Curse Proliferation. Here it comes.
+
+Like a plague, the Explosive Conflagration flickered across three nearby skeletons, cursing them as it proliferated and bringing the Fire Vulnerability curse with it. Another tick of fire damage, and it proliferated again. Before the first one had even exploded, the curses were tearing through the undead horde, a plague of hellfire that refused to be put out.
+
+Then the fireballs landed, detonating among the dead and healing her wargs and the drake.
+
+“Looking good, Ali,” Calen said, unleashing a volley of arrows from his Cinderstrike bow. A volley that tore through the horde, piercing dozens of undead and leaving behind a wave of explosions of light and flame that ripped through the entire storm.
+
+“Oh, you have a Slow curse!” Ali had forgotten about that.
+
+Calen grinned wickedly.
+
+But it was simply more fuel for the Curse Proliferation. That reminds me… With a thought, she directed her Baelok Descriers and Eyes of Agnor to include their other curses, adding Feeble Mind, Interrupted Casting, and Lightning Vulnerability to the mix. None would be nearly as useful as the Fire Vulnerability, but every bit counted.
+
+“Yep, it seems to be working,” Ali said, her arcane mana flickering continuously as she helped her witch doctor dispel the Ice Vulnerability and Frozen Doom curses. The Hellfire Wargs and the Armored Drake barely needed any healing under the continuous bombardment of hellfire and holy fire. Occasionally, her shaman healer fired a beam of green light into them, or a priest dropped a restoration spell, but the onslaught of healing fire seemed to easily offset her monsters’ ice vulnerabilities.
+
+There would still be the Impale attack and the Elemental Ice Storm to deal with, and any other surprises Haverron might have, but so far, things seemed to be going vastly better than their first try. She checked in on her melee party in the center of the storm. They were all taking enormous damage from flickering swords of ice and the Death Knight’s cleaving greatsword, but Malika’s healing rippled outward with constant pulses of soul magic, and the scarlet ribbons, vampiric hex, and totems Joraa had deployed were easily picking up the rest.
+
+So far, so good. She narrowed her eyes, scanning the battle for the smallest details she might have missed.
+
+A shadow flickered within the tempest of ice and snow, and Malika dodged low, barely avoiding the long, gleaming blue sword of ice that struck from behind. The blade quivered, hovering nearly invisible against the icy wind, and then blurred into action, trailing three spirit realm echoes of itself. Pushed to her limit, she leapt over the slash, powerless to help the battered Blood Shaman who hunkered down as the sword echo smashed into his shield. The other two echoes vanished into the ice, but Malika did not have time to see where they went. She would need to rely on Soul Sight when they inevitably came back.
+
+You have been cursed with Life Tap.
+
+The mithril greatsword in Haverron’s hand shone with sudden intensity as he unleashed his deadly Mortal Cleave.
+
+“Fuck,” Malika swore, realizing that the disembodied ice sword had been a distraction designed to force her into the path of the Cleave. The sword bit through Mato’s chest, spraying blood into the winds to be sucked up by the berserker’s axes, but it was the blurring of the sword as several ghostly blades shivered free, unerringly seeking each of Haverron’s attackers. She pulsed stamina out into the air, pressing off it with the ball of her foot and throwing herself into a sideways dive. The echo of the Death Knight’s blade whistled a fraction of an inch past her face, and she breathed an inward sigh of relief.
+
+You have been chilled.
+
+Her reprieve vanished like a mirage in the desert as her body slowed from the chill, and she suddenly saw the two ice blades that lay in wait for her. They flickered briefly, cutting deep into the small of her back and her left thigh, a surge of lancing pain that shook her confidence at its roots.
+
+You have been cursed with Frozen Doom.
+
+You have resisted Frozen.
+
+How is he so good?
+
+At every turn, this Death Knight had her outmaneuvered. Every single move she made had been predicted, and always, there was a blade of ice waiting to punish her. Every single one of his sword strikes was perfect, exquisitely balanced, masterfully crafted, and executed with a brutal violence that staggered the mind.
+
+Your Frozen Doom has been dispelled.
+
+Every single strike was echoed like her Instantaneous Strike, slicing into every nearby target so efficiently that the nearby howling snow and ice was already colored pink with frozen blood. Not even Rezan had been capable of using Instantaneous Strike without a recharge.
+
+“Look, Malika, use your eyes. You have more weapons than you think.”
+
+As if conjured by her thinking of him, Rezan’s voice echoed softly in the back of her mind.
+
+I’m using my fists and my feet, she thought, contorting her body into a rolling dodge. Am I not using my elbows enough? I’d headbutt him if he weren’t covered in plate armor.
+
+Through the shifting ice and howling winds, she saw the enormous stamina surge as Tol’brekk wound up to unleash his devastating Blood Vortex. Beside the giant, the tiny kobold assassin triggered Adrenaline Rush. These were skills she had seen so many times; she didn’t even need Infinite Perception to read them.
+
+But in that moment, an epiphany struck.
+
+As the blades of blood lashed out, and the Void Assassin’s holy sword and flame dagger flared to life, she saw her opportunity. So that’s what he meant. Malika teleported, appearing behind the Death Knight right as his ice swords were deflected by the brutal power of Blood Vortex, and his mithril greatsword shifted to parry the assassin.
+
+Malika unleashed her fists and feet in a flurry of strikes, pulsing Soul Strike in a flashing staccato to pierce the dark armor, leaving the mark of her soul magic to damage and weaken him further. Blow after blow she rained down upon the Death Knight, and yet, even as pressured as he was, he still managed to block over half of her strikes, parrying two of them.
+
+She saw the Riposte retaliation, her eye magic telling her in exquisite detail just how she was going to be hit, but she also saw the vast surge of stamina that presaged his Devastation Rush. She gritted her teeth, healing preemptively against the damage she was choosing to take, and let the two sword echoes pierce through her chest as she instead pulsed her energy into her eyes.
+
+You have been cursed with Ice Vulnerability.
+
+Martial Disruption flickered outward in a wave, bursting into the Death Knight and hitting his skill formation like a hammer striking a bell. It shivered, resonating chaotically with her energy, and then she ripped it apart, leaving a backlash of broken stamina that provoked a hateful glare and a hiss.
+
+Your Ice Vulnerability has been dispelled.
+
+Malika ignored the sudden deepening of understanding in the back of her mind; something for later. She slipped off the swords and dodged under the berserker’s whirling greataxe, allowing it to pass over her head and strike at Haverron, and then she followed up with several more strikes, further drawing the furious Death Knight’s ire. All the ice swords descended upon her in an overwhelming flurry of deadly precision as her body gave up blood from several dozen slashes.
+
+But she could see the energy of the Blood Shaman surging as the canny troll took advantage of the brief opening she had provided, landing a strike with his blade to refresh Vampiric Hex.
+
+Malika cursed at the limitations of her speed as she blocked and dodged under the unceasing onslaught, healing rapidly through the damage as she watched her recharge timer tick down by fractions of a second. As soon as it became available, she teleported, appearing beside Mato and filling him up with Healing Mantra before ducking back out of the way of the deadly-fast runic blade.
+
+You have been chilled.
+
+Just as she was congratulating herself in her mind, Infinite Perception registered the giant surge of his stamina a second time.
+
+Devastation Rush! But how? It was impossible; she had disrupted it, and Martial Disruption still had fifteen seconds left on its recharge. Does he have multiple recharges? Is that even possible? Or a reset ability? But her perception skills revealed the ability in painstakingly incontrovertible detail. Not only was he using it again, but he was looking at…
+
+“Ali!” she screamed.
+
+But her voice was torn from her lips and scattered by the howling wind and ice. And her teleport refused to activate.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

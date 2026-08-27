@@ -1,0 +1,177 @@
+---
+id: b0be11d6-298e-5832-953c-cc78c9c75413
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Four: Unveiled"
+slug: 0065-chapter-sixty-four-unveiled
+partOf: flesh-eater-demon-evolution-litrpg
+position: 65
+ownLength: 2662
+unit: words
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3052879/chapter-sixty-four-unveiled"
+royalRoadId: "3052879"
+---
+
+The man jerked backwards and yelled a chant. At the last second, a translucent barrier wrapped around him just before the spell exploded, engulfing the magic shield in bright, crackling flames.
+
+When the smoke cleared, the man was fuming. “Stupid girl,” he sneered. He raised a hand towards Daphne, palm beginning to glow red, but he suddenly gasped.
+
+The spell fizzled out. The man lurched forward, gripping at his chest. Behind him, a familiar blue gradient floated close by.
+
+“What is—?” he choked. Daphne looked taken aback, but she quickly steeled herself and began chanting. In the light of the sanctum, Pyre could actually see individual streams of ichor moving between the mages. But just as Daphne fired a second spell, the Empire mage yelled something. The red lights in the center of the golems’ chests flared.
+
+The one on the right shot forward, deceptively fast for its size, and blocked Daphne’s spell before it could reach the mage. The fire fizzled out harmlessly against its stony skin.
+
+Pyre heard Callan yell, and she turned in time to see the second golem shoot some sort of red light out of its chest. Callan shimmered back into view, gritting his teeth and clutching one arm where it had been singed by the creature’s magic.
+
+The Empire mage, now freed from the draining, collapsed to the ground, hacking and clutching at his chest. He looked half dead already. Daphne’s jaw dropped in surprise when she saw Callan appear again.
+
+“Where did—?”
+
+In her shock, she didn’t notice the golem in front of her reel a thick arm back. The creature threw itself forward, closed fist hurling straight towards the human.
+
+Before the attack could reach its target, Pyre stepped in front of Daphne, activated [Bracing Stance], and raised an arm.
+
+A loud boom reverberated throughout the sanctum, overpowering the roar of the waterfall. A blast of wind shot backwards from the force of the impact, and Pyre heard Daphne yelp as she fell backwards behind her. The demon was unaffected. Her one arm remained raised, halting that massive fist in its path.
+
+It really was comically large, bigger even than the creature’s head. Pyre had been right about the thing’s flesh being solid stone. Right now, the golem’s arm trembled slightly as it tried to press forward, but it didn’t budge an inch.
+
+Pyre raised an eyebrow. Hm. She probably hadn’t needed [Bracing Stance] there.
+
+The golem seemed to realize it couldn’t overpower her, because it promptly yanked its arm back. Its chest began to glow red again, and Pyre leapt out of the way as a blast of light exploded on the spot she’d just been standing.
+
+Smoke rose from the scorched mosaic. The demon watched in interest as the stone began to repair itself in front of her eyes. It looked like those ichor etchings weren’t just for show.
+
+Movement flashed in the corner of her vision. She turned just in time to duck below another swing. The golem’s torso was left wide open, and she surged forward and slammed her hand into the creature’s hard stomach. She heard a loud snap as a web of cracks bloomed out from where her fist had landed. She was tempted to grow a bone and stab the thing, but she could see Daphne still watching her with her jaw dropped. She didn’t think she’d actually need any of her more obviously demonic abilities to win, so she’d keep them under wraps until necessary.
+
+At the very least, it made for a fun challenge.
+
+Pyre brought her forearm up to block a swing from the side. Hard stone collided with her arm, but she could barely feel it. The golem’s chest glowed again. By now, though, she already knew what to expect.
+
+The demon shoved the creature back and leapt into the air, one hand reaching for her shortsword as she moved. Just as the glow reached its peak, she threw herself at the golem with all her strength. She might be human-shaped right now, but her flesh was very, very dense and heavy. The creature’s mouth opened, crooked teeth gleaming in the ichor light, but it made no noise as it fell backwards in a heap.
+
+Pyre now stood on top of the fallen creature, its back to the floor. She didn’t hesitate to stab the shortsword straight into its glowing red core. The metal hit something hard. There was some sort of crystal embedded there, and she was willing to bet that it was what was animating these things.
+
+The golem thrashed, arms flailing and slamming into a nearby pillar with a loud crack. She kept a firm grip on the weapon, digging the blade deeper as she attempted to carve out the crystal. She was vaguely aware of explosions and yelling behind her—Callan and Daphne were dealing with the second golem, it seemed.
+
+The blade was too short to make it all the way through. The golem lurched up, nearly managing to stand again, but she wrestled it back down. Pyre clicked her tongue and glanced back just long enough to see that Daphne was indeed preoccupied with the second creature. She turned back to the golem and raised an arm.
+
+In one smooth motion, the demon grew a snapping jaw in the center of her palm and slammed it into the crystal. Teeth crunched around the object, its red light blinking wildly. A stray spell blast shot out, but it didn’t do more than singe her sleeve. Pyre stayed focused, eating through the crystal as quickly as possible.
+
+Finally, the mouth bit all the way through with a resounding snap.
+
+[You have devoured (1) Stone Golem Lvl 15][Experience earned!]
+
+[Your species has leveled up! Lvl 21 —> 22][Strength +4, Agility +2, Constitution +2, Magic Resistance +2]
+
+[You have earned 10 points]
+
+[Your class has leveled up! Lvl 11 —> 12][Strength +2, Agility +1, Constitution +1, Magic Resistance +1]
+
+[You have earned 5 points]
+
+[The skill [Basic Bracing Stance] has leveled up! Lvl 1 —> 2]
+
+[You have gained (1) [Far Sight] subtrait shard]
+
+[You have gained (1) [Immutable] subtrait shard]
+
+[You have gained (1) [Psychic Resistance] subtrait shard]
+
+The demon yanked her arm back and quickly absorbed the mouth until all that remained was plain flesh. Still standing atop the now-unmoving golem, she turned around to face the rest of the sanctum.
+
+Daphne cursed and ducked behind a pillar seconds before the golem’s arm crashed straight through the stone. She kept running, narrowly avoiding getting hit by debris. She could see the wards around the sanctum beginning to repair the column, but at this rate, it wouldn’t be fast enough. She’d soon be out of cover.
+
+Across the chamber, she could see that mage—that Empire mage—still curled on the ground, trembling. She didn’t know what had happened. One second the man had been ready to fire a spell at her, the next, he was writhing in pain. Then Callan had appeared from thin air, the golem had swung at her, and Pyre had blocked it like it was nothing—
+
+Daphne swallowed, forcing herself to calm down. Too many things were happening at once. First Callan’s existence, now the revelation about her uncle, the war, and this ritual. Her mind was a roiling mess of thoughts and emotions, but right now, she needed to focus on surviving.
+
+She spun around, quickly throwing a jet of fire at the creature. It barely singed the stone. She cursed and rolled out of the way when its core started glowing again. She needed more time to hit it with something more powerful, but the golem wouldn’t stop moving and attacking. If she could just keep it still for a few seconds, she could burn through its core crystal.
+
+“Daphne!”
+
+The noble jerked around to see Callan floating a few feet away. In this translucent form, he practically blended in with the ichor glow. “Over here!” he called.
+
+Gritting her teeth, the noble turned a sharp corner around the next pillar, narrowly dodging the golem’s arm as it collided into the marble.
+
+“What the fuck was that just now?” Daphne hissed. “I didn’t know you could turn invisible!”
+
+The ghost’s lips thinned. “I’ll tell you later,” he said. His eyes darted about the sanctum. “Can you—do you have a way to break its crystal?”
+
+“Of course,” Daphne said without missing a beat. She was half expecting Callan to argue or doubt her, but he simply nodded.
+
+“Okay, I think I can hold it in place for a few seconds.” He was practically vibrating in place, a line of tension running all throughout his body. “Can you lure it near the ichor pool?”
+
+Daphne’s eyes moved back to the golem, which had picked its way past the debris and was lumbering towards them again. Her lips thinned.
+
+“Damn right I can,” she muttered.
+
+Daphne surged forward with a burst of speed, firing another fire blast at the golem to get its attention. It worked, and the creature shifted to chase after her.
+
+In the corner of her eye, she could see Callan hurrying to the ichor pool, glowing green light surrounding him as a series of branches bloomed out of his hands. He guided them to the ground so that they fell in a circle. He was making a rune circle with the plants, Daphne realized, because he couldn’t draw one right now.
+
+The sound of rushing wind snapped her back to attention, and she narrowly ducked below another punch. The wind pressure alone almost knocked her off her feet. How the hell had Pyre stopped it with one hand?
+
+Daphne’s heart raced in her chest, her breaths coming short. She could feel herself getting tired, but the adrenaline was enough to keep her pushing onward. She threw one more jet of fire at the golem, then bolted for the rune circle Callan had created.
+
+Heavy footsteps pounded behind her, echoing loudly around the sanctum, but she didn’t look back. With a running jump, she leaped over the assortment of plants, skidding a little when she landed. She spun back around.
+
+The moment the golem stepped into that circle, a bright burst of green light exploded outwards. Snaking branches and vines sprouted from the floor, wrapping around the monster’s body in a tangled web of plants. The golem stumbled, unable to halt its momentum. Daphne immediately raised her hands and began chanting, fingers moving rapidly through the motions of the spell.
+
+By the time the monster broke through the first vine, it was too late. Daphne concentrated, pulling in the surrounding ichor and ignoring the sharp pain in her chest as she did so. With a final yell, she hurled the spell straight at the golem’s center.
+
+Red-hot flames engulfed the creature, cloaking it in rippling fire. The entire chamber heated up from the intensity of the magic, and the very air seemed to sizzle and warp. The golem’s jaw dropped open in a soundless scream as the fire burned its way through its crystal. Red liquid dripped out of its chest, pooling down onto the sanctum floor.
+
+Finally, when the entire thing had melted, the golem collapsed forward. Its heavy stone body collided into the ground with a loud boom.
+
+It didn’t move.
+
+Daphne gasped. A line of system notifications flooded her vision, but she barely noticed them. Her hands gripped her chest. Some of the pain was still there, but it was fading. It wasn’t a full attack—thank god. She squeezed her eyes shut just long enough to get her breathing somewhat under control, then opened them again.
+
+“Are you okay?” Callan was floating in front of her, the ghost’s brows furrowed with worry. She huffed.
+
+“I’m fine,” she managed to get out between pants. “I just. Need to catch my breath.”
+
+Across the chamber, she could see Pyre straightening. Somehow, the guard had brought the second golem to the ground, and she now stood atop it like it was the easiest thing in the world. A few red shards lay on the floor around the collapsed monster. It seemed she’d managed to break its crystal, too.
+
+“That was amazing,” Callan was saying, and Daphne couldn’t help but laugh a little at his enthusiasm. Despite just revealing his invisibility and his magic, the ghost was the least threatening he’d ever been. “I’ve never heard of someone melting through a golem’s crystal like that. I didn’t even think it was possible!”
+
+Daphne smiled and opened her mouth to respond, but the words died in her throat. Her eyes widened.
+
+Across the sanctum, the Empire mage had staggered back to his feet. She barely had time to scream a warning before an inky black sphere of magic flew straight towards the ghost’s exposed back.
+
+“Look out!”
+
+The spell never reached its target.
+
+Instead, in front of Callan, a solid white plate of something had blocked the spell. It was matte and hard, somewhat resembling bone, but that didn’t make sense.
+
+The object shifted. White melted into grey, the hard substance morphing into something soft and malleable. In seconds, a quivering, amorphous mass of pale flesh now shielded the ghost. At its front, a wide, gaping maw with gleaming teeth stretched open its jaws.
+
+The Empire mage started to yell something. In a flash, the mound of flesh shot forward, contorting and stretching across the sanctum like a living limb.
+
+Those sharp teeth clamped mercilessly over the man’s head.
+
+Daphne just stared as a muffled scream rang out over the roar of the waterfall. It was quickly replaced with a loud snap. The squelching of blood. The crunch of bone. Red dripped down onto the floor, staining the mosaic. The mage went limp.
+
+With a final tear, his headless body dropped to the ground like a dead weight.
+
+That mouth retracted, grey flesh rippling as it warped back into one thick appendage. Those sharp teeth were stained red. Daphne wasn’t focused on that, though.
+
+Instead, her attention was drawn to the source of the flesh, because it hadn’t sprouted from nowhere. The bone had clearly originated from the other side of the sanctum.
+
+Slowly, Daphne turned.
+
+Still standing atop the dead golem, Pyre’s unblinking grey eyes stared back at her. Her inky ponytail fell in a thin stream down her back, and her bandages and uniform were torn. She didn’t have any visible wounds, though. She didn’t even look tired. Daphne’s eyes shifted to the side, and she went still.
+
+Where Pyre’s right arm should’ve been, a mass of quivering flesh fanned out like a grotesque wing. It was nearly as tall as the guard, and it extended all the way to where Callan was. The mouth on the end of the appendage continued to chew even as the human half of her body remained in place.
+
+Everything seemed to freeze. Daphne heard Callan say something behind her, but she barely processed it. She was too busy staring at that mass of flesh that was somehow connected to the guard. The guard who clearly wasn’t human. The guard who was still watching her, expression utterly unreadable.
+
+A deluge of thoughts flooded her mind. Every book and story she’d read, every interaction she’d had with Pyre, every bit of information she knew. There weren’t many creatures who could manipulate their flesh and bones like that. Even less to this degree.
+
+Slowly, her gaze moved upwards to that second ritual circle painted high against the mountainside. She’d seen Pyre staring at it earlier—at the platform laid out on the bridge. Her eyes settled on a curling black horn that gleamed in the light.
+
+Suddenly, everything made sense. The uncanny stillness and lack of blinking—things she’d once written off as quirks that now looked like the actions of a monster struggling to mimic humanity. The shapeshifting, the impossible strength Pyre had demonstrated against the golem. The answer rang out in her mind like the clear toll of a death knell.
+
+Demon.

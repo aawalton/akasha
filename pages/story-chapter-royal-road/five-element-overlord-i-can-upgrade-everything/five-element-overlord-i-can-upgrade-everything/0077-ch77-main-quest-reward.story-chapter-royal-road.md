@@ -1,0 +1,109 @@
+---
+id: 92c62dc0-d56a-5638-af2a-d83cab57f30f
+page-type-slug: story-chapter-royal-road
+title: "Ch77 Main Quest Reward"
+slug: 0077-ch77-main-quest-reward
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 77
+ownLength: 1513
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3549684/ch77-main-quest-reward"
+royalRoadId: "3549684"
+---
+
+“This is the spirit crane assigned to plot 81. That consists of 122 acres of low quality spirit rice fields. There are already ten stewards living on this plot, and almost a hundred servants working under them. Your quota is set at 1000 kilograms of inferior quality spirit rice per acre every 3 months. Excess can be distributed to your workers as you see fit, or sold off for your own profit.” Kang Yelang remarks, pointing to the brown booklet on top of my folded green robes.
+
+I look down to see it titled, 'Outer Sect’s Beast Mastery Peak Beginner Farming Guide.’
+
+My eyebrows raise, and I turn to the white and blue crane standing at attention.
+
+[Automatic Inspect Function Activated…][Unnamed Spirit Crane] [Age: 49][5th Level Qi Refining][Water Spiritual Root][8th Grade][Acquired Water Mist Physique][Initial Stage - Mortal Grade][No Innate Physique][Is the offspring of a powerful Spirit Crane bound by the Beast Mastery Peak’s elder. Is conditioned to accept minor short term soul contracts with any Azure Cloud Sect cultivators.]
+
+“Read that guide once you’re situated, for now, just create a temporary soul bond with our sect’s spirit crane. It will bring you to its known plot, help you with daily watering and field maintenance, then bring you back to the Quest Hall when promoted to hand in your quotas. This rice is one of the main food sources for our breeding farms, so producing quality product on time is extremely important.”
+
+The spirit crane walks forward with a blank stare. Its will eroded by age and routine.
+
+When it stops and lowers its head, I realize what the small white talisman is for, then lift it up and tap the base of it to the crane’s head, and push a small pulse of qi inside.
+
+The talisman breaks, and a strong connection between this 2 meter tall bird and myself is created.
+
+It is an extremely simple bond, to the point where calling it a soul bond is not truthful. If anything it is just a strong qi infused contract, allowing me to stop the bird from harming me. There is no actual soul connection to myself, nor can I feel any of its thoughts or emotions like I can with Little Red.
+
+The spirit crane stretches its wings out and motions for me to stand on its back, and Kang Yelang points down as well.
+
+“That is all. Junior Li Hao, welcome to the Beast Mastery Peak. I hope you make full use of Wang Ming’s kindness. Even with your Martial Elite Body, no 9th grade spirit roots at the initial stage of qi refining has ever been accepted on this peak. While what I have granted you seems to be a simple task, do not underestimate the malice of other disciples that may not believe you deserve the position. You still must prove yourself to the rest of the peak, myself, and the true peak master once he returns too.”
+
+This upright man looks at me with an indifferent stare, even his words seem practiced, like he’s had a hundred of these talks today.
+
+“Understood, Senior.” I bow, pull all of the gear I’ve been granted into my new storage ring provided, and step onto the crane's back.
+
+Wang Ming throws me a communication talisman, “Call me whenever you wish to come along to Lingshi City, of course, after you settle in.”
+
+I catch it and nod once. A warm sensation covers my feet, as qi seeps out of the crane’s feathered back, making my feet stick to it just slightly as it flaps its wings.
+
+We get airborne, and fly out of the large arched door to the back of the room a moment later.
+
+The crane swiftly leaves the back courtyard of the palace, and soars off the edge of the cliff, slowly descending down toward the endless fields of crops and breeding grounds.
+
+The crane stays moving quite slow, as the qi binding my feet to its back is not perfect. I still have to balance and hold on as the wind hits my face.
+
+However, the main thought running through my mind is the bright golden main quest completion notification in front of my eyes.
+
+I choose yes to accept the instant I leave the white palace.
+
+[Ding!][Rewards have been deposited into your storage!][x1 Perfect 1st Tier Upgrade Card][x1 Perfect 2nd Tier Upgrade Card][x1 Perfect 3rd Tier Upgrade Card][x1 Major Lottery Draw]
+
+A bronze, silver, and golden upgrade card labeled with a printed 1, 2, and 3 on their fronts and backs materialize in my storage.
+
+Beside them, a 50 sided lottery die shimmering with black and diamond colored faces appears next to them.
+
+I reflexively lose my footing out of excitement, and almost fall off this flying spirit crane.
+
+It squawks loudly, and I stand upright again, yet my cheeks feel tight from smiling ear to ear.
+
+“Second and Third Tier cards…” I murmur, sinking into my mental fantasies wondering what to use these on.
+
+“And a Major Lottery…” I mumble into the wind next. The only lottery I’m well acquainted with is the Minor Lottery die. Every time I roll it, I get an item around the initial or mid stage of foundation establishment.
+
+One of those black and red 20 sided dice is still in my storage, unused after claiming the prize for subduing the Phantom Lord of Black Iron Mountain.
+
+When this crane finally descends deep into a valley, and lands on top of a small peak overlooking the 122 acres of rice fields down below, reality sets in.
+
+I really did it, I made it to the Outer Sect. Another rung of this Azure Cloud Sect hierarchy has been climbed. Now, I need to carefully study and explore my surroundings before making any more moves.
+
+The quality of the qi in the air where I stand now isn’t bad. I sense the presence of a mid grade spirit vein beneath my feet, and a completely abandoned stone courtyard in front of me.
+
+The spirit crane squawks once I step off, and it flies away, down toward the rice fields.
+
+The old bird glows a faint blue color, and small misty clouds are left behind wherever it flies.
+
+Small drizzles of rain drop down on the fields below, and the crane flies out of sight.
+
+I scratch my head, pull out the brown booklet guide, and walk into the stone courtyard.
+
+Over the next hour, I read the guide front to back, then explore this whole peak. I was right when I sensed the mid grade vein. I have one beneath this structure all to myself. There is a large bedroom, a common area, a cultivation room, and a large meeting hall. There is also a wide open stone courtyard in the front of this abode to greet less familiar guests.
+
+Out back there is a smaller courtyard, with a bathhouse and private spirit pool heated to the perfect temperature with an inferior grade fire stone.
+
+The farming guide outlines the standard pay for stewards, and the prime harvesting times and when to order the servants to do various tasks.
+
+There is a small map of the surrounding private plots, and public areas like the Quest Hall, Dining Hall, and Sparring Platforms where outer sect disciples like myself can go freely whenever we wish.
+
+It also details how to use the minor rain technique that the spirit crane uses above the fields right now. It is not only for beasts, humans can learn it too. The prerequisites are that a cultivator must have a water element spirit root, and be at least the 4th level of qi refinement.
+
+A long training guide with breathing techniques, qi flow movements, and use of water stones for external stimulation are all shown. However, I’m blending in as a 2nd level qi refiner, there is no need for me to learn this and contribute to the fields.
+
+It also states that stewards come to report to this peak once a month to collect pay and receive new orders. There is a note about this plot 81 that says the current growing season is already 3 weeks in, so if I do nothing they will most likely all come by next week.
+
+When I peer down into the valley, I can see some small moving servants that look like specs in my vision, but none come anywhere near a 1 kilometer radius of the peak’s base leading up to my abode.
+
+I let out a long sigh, as after this hectic day, the sun is finally starting to set.
+
+Then, I walk inside my new home, let Little Red sleep in peace in my bedroom, then make my way to the backyard bathhouse to undress and relax in the private pool.
+
+I pull both the minor and major lottery dice to throw them across the room, watching both roll to a stop at almost exactly the same time.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Emerald Swallow][2nd Tier Communication Puppet]
+
+[Ding!][Major Lottery Draw Successful!][x1 Minor Hidden Realm][4th Tier Damaged Spatial Entity]

@@ -1,0 +1,159 @@
+---
+id: 901d8056-4153-5cea-b11e-76aba9c9a068
+page-type-slug: story-chapter-royal-road
+title: "Chapter 426: Guild Evolutions"
+slug: 0463-chapter-426-guild-evolutions
+partOf: dungeon-of-knowledge-complete
+position: 463
+ownLength: 2304
+unit: words
+ownProgress: 2304
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2719600/chapter-426-guild-evolutions"
+royalRoadId: "2719600"
+markedReadAt: "2026-06-29T20:27:52.187Z"
+---
+
+Ali smiled. She had been surprised and delighted to discover the strange interaction between her mentor’s enchantment and her mana sight that had allowed her to see the ghostly outline of Azryet’s awareness, but she knew exactly what it meant. His followers were quite dear to him, and she had been certain he would want to help with their Paths, and the zone messages confirmed exactly that to the sonorous sound of several gongs.
+
+[Zone] First Paladin of Azryet has advanced to the second tier.[Zone] Demon Hunter of the Winds has advanced to the second tier.[Zone] Harbinger of the Storm has advanced to the second tier.[Zone] Elemental Earthshaper has advanced to the second tier.[Zone] Nature’s Fount of Life has advanced to the second tier.
+
+Also, she was well aware that she had left the dragon god’s realm without so much as a goodbye. She would need to return as soon as she had the chance – she had a bargain to keep, after all.
+
+Mana howled through her domain, drawn into the vacuum of the suddenly empty shrine by the power of its Mana Siphon, until once again, she felt the Mana Saturation fade away into the background as the shrine rapidly gorged itself on the excess.
+
+To her surprise, her Grimoire sprang open, flipping to the Human imprint as it began inscribing a veritable torrent of magical runes. Puzzled, she tried to read them, but the pages were filling and flipping far too rapidly, and it all looked like evolved class information. And then Azryet’s words came back to her, his suggestion that she re-evolve her monsters at her own shrine to encode the paths within it.
+
+That works for them, too? It must do. Every time she evolved one of her trolls, her Grimoire had updated, and she had assumed it was because they were her minions, but it seemed there was far more to the picture than she had previously understood. The adventurers were not her minions, but they were using her shrine, and this was the first time she had a matching imprint for them – it was incredible, almost unbelievable, but the evidence before her was unmistakable. Each of the humans evolving was causing her Grimoire to update as her shrine recorded their choices and classes.
+
+“The shrine is ready again,” Ali said.
+
+“Wait, are you serious?” Aiden yelped.
+
+“Yup,” Ali answered, smiling at his reaction. “It consumed all the mana I’ve been tearing from the Blooming Rot dungeon. Who are the next five?” The shrine wasn’t quite full yet, but at the rate it was drawing in mana, it would be ready by the time they had finished sorting it all out.
+
+In short order, Aiden had the next five ready to go, and while they were choosing their paths, Ali reached outward with her domain, sending tendrils of her mana into the surrounding dungeon in all directions, while carefully observing her Grimoire and the interaction with the shrine. She grew through the tunnels of the old mines, now surprisingly much more extensive, excavated under the influence of the Blooming Rot dungeon, and reconnected the Anvil of the Emberforge to her domain. It seemed her shrine and her Grimoire operated in a fashion quite similar to the anvil in that the services they offered resulted in recording information for use later. Although the shrine came first, she thought, realizing it was the anvil that was copying the shrine, and not the other way around.
+
+Her mana poured everywhere, tearing the Blooming Rot domain from the rock and absorbing everything, and as she ripped the dungeon out from under them, she triggered an enormous dungeon break of plant aberrations and fungal monsters that charged up and out of their lairs.
+
+“You have incoming,” she warned Maalgaroth, but she was confident her boss would endure the threat comfortably.
+
+“Excellent, master. I was just getting warmed up,” Maalgaroth answered, readying his glaive as a fresh wave of crazed Fungaloths burst into the Landing. Through her remote senses, Ali felt his roar and the answering surging heat from his intense hellfire aura.
+
+She left him to it and began similar expansion throughout the ruins and the forest cavern, growing the extent of her domain broader and broader, exploring the limits of what she could take.
+
+“Next six,” Ali said, as soon as the adventurers had finished their class evolutions. By now, she was certain. Only the human evolutions were triggering a reaction in her Grimoire – well, and Gara too. She didn’t have an imprint for elves, dwarves, or gnomes, and so those were presumably only retained by the shrine itself. She wondered if obtaining those imprints later would cause everything the shrine had recorded to be transferred to her Grimoire. It certainly seemed that it might – and, if she was understanding Azryet clearly, any compatible paths chosen by the elves here might be available for subsequent elves later simply because the information appeared to be imprinted upon the shrine itself.
+
+That must be why the ancient shrine of Aman Rak was so valuable.
+
+“Six?” Aiden asked, raising an eyebrow.
+
+“I expanded my domain, so the shrine has a little over twelve million mana now,” she explained, reaching through her domain to deconstruct the giant piles of corpses that now littered the Landing, the central plaza around her Carnage Berserker, and the jungle area below her furious void dragon. Although the void dragon had less salvageable mana, simply due to disintegrating large portions of her kills.
+
+Aiden’s eyes widened and he shook his head in disbelief, but he was grinning with excitement as he turned to the remaining adventurers.
+
+Of all the dungeons she had met, none had a Grimoire like hers. Even Azryet had remarked on it, mentioning that his imprints were stored in the shrine itself. Likely, most dungeons worked that way. As to why hers was different, she had no clue, other than she had inherited her shrine from her father before she had earned her class, and her class had runic magic as a primary trait. She puzzled over the matter while the adventurers worked through their paths. She was hardly unique, though. Naia’s dungeon seemed to store her imprints in her mind, expanding both wisdom and intelligence as the imprints grew. So unfair. But it made sense too; one could hardly benefit from a mobile domain if the imprints were attached to a fixed, immovable shrine. Nonetheless, it seemed clear that there existed a profound and mysterious link between the Shrine of the Ancient Grove and her Grimoire’s magic.
+
+While it was a discovery of immense significance for her and her growth, she found herself reluctant to share. At least, with everyone present. She was sure she would discuss it with Malika, Calen, and Mato when they were alone, but there were things about her class and abilities she wasn’t comfortable being public knowledge.
+
+“Only four more, now,” Aiden finally told her, the question clear in his tone. Sabri, and one of the adventurers who had just hit one hundred from the Fungaloth Ravager, stood looking hopefully at the now noticeably dimmer shrine beside Aiden, who had left himself till the very end. And Seth.
+
+“I can do that,” Ali said, and deconstructed most of the nature spawning pool, releasing the flood of concentrated nature mana, corrupted with death and rot, into her domain. But it was no problem for her Domain Architect advancement, which had supplanted her Adaptable Mana, and her domain simply funneled it all through to her shrine, filling it one last time. “Ok, it’s ready.”
+
+As the adventurers lined up, Ali hesitated. “Seth?”
+
+“Yes?”
+
+“The shrine does have the Revert function. I don’t know… do you…”
+
+“I would need to start over from zero, right?” he asked, intuiting her question immediately.
+
+“I think so,” Ali said. “If you want a different path…”
+
+“I think I’d like to see where my class can evolve,” he said, his eyes gleaming with clear resolve. “Necromancer has sort of grown on me. It’s not as bad as everyone fears.”
+
+“Ok,” Ali said. “But if you change your mind, let me know.”
+
+“I will,” he smiled.
+
+And a quarter of an hour later, they were done with all the evolutions.
+
+While the excited adventurers fanned out to take on the remaining monsters in the Forest Cavern, Ali quickly promoted her last Scion of Azryet to a raid boss, in charge of protecting the shrine. With a glance at the shrine’s mana, she estimated that it would be full again in a couple of hours.
+
+“I assume there are more people to advance in town?”
+
+“The town is gone, it’s all dungeon now,” Calen said. “The survivors are living in the woods to the south.”
+
+“Survivors?” Ali didn’t like the sound of that.
+
+“The casualties were, of course, much higher among the unclassed or the low-level craftsmen and merchants, but we have lost several adventurers and guards to surprise battles. But yes, there are still a fair number of new platinum adventurers and a few crafters too. Oh, and Kavé hit level one hundred just yesterday.”
+
+He met her gaze soberly before dropping his eyes. This is bad, she realized, biting her lip. What’s been happening while I’ve been away?
+
+On the way to the refugee camp, Ali began telling her friends the story of how she had survived the Abyssal Realm, of Azryet and her bargain, and the skill she had learned which had enabled her meteoric recovery of her domain. “I can’t wait to tell Ryn about his library,” she said with a newly kindled spark of excitement beginning to rise within her as she entered the Myrin’s Keep refugee camp.
+
+“Oh, I’m sorry, Ali,” Malika said, looking suddenly stricken. “Nobody has seen Ryn since the Blooming Rot dungeon took over.”
+
+“What?” Ali gasped, stumbling and finding Malika’s steady hand suddenly gripping her arm.
+
+“Alright, Ali?”
+
+“I… what? I’m fine. What happened to her? Malika, please –”
+
+“I’m sure she just teleported somewhere safe with her Library Teleport, but we don’t know where she is,” Malika finished, but it was clear it was more of a hope than a certainty for her.
+
+That must be it, Ali thought, trying desperately to convince her quivering heart that her friend was alright, somewhere. I can’t lose her. I just can’t.
+
+“Incoming on the left! Basir, lock them down!” Vivian shouted as she spied the wiry humanoid Sylvan warriors sprinting out of Myrin’s Keep’s shattered and ruined walls to flank them.
+
+Basir, ever reliable, fired a basic barrage of supersonic pebbles at them, ripping through their thick bark and leafy foliage, and dragging them to attack him instead of the much softer healers standing at the back. Rezan would have been proud of the legacy he was leaving through his students and disciples.
+
+But almost everyone had reached Platinum now, and there was no recourse. Left to fate, simple statistics dictated that many of the guild’s finest adventurers would be left with ruined or broken classes after the week was out – some of them as soon as tomorrow. It was the most frustrating circumstance Vivian could imagine: so many of these bright and talented adventurers would be forced to face the same fate she had dealt with for so many years.
+
+Her blades hissed and sizzled with flickering, orange-red flame as she spun them around, chopping large gashes into the fungus monster before her, leaving lingering fire to devastate the wounds in the wake of her steel blades. Many of these plants were vulnerable to fire, and so she found herself out on the front lines of the battlefield more than her fair share of the time.
+
+It broke me, she admitted to herself.
+
+Suddenly, a deep, resonant gong shook her to the bones.
+
+[Zone] First Paladin of Azryet has advanced to the second tier.
+
+Shit, did he just get a natural evolution? I thought Havok had another day… But then the name of his class registered, earning her a broken rib for her distraction.
+
+First Paladin of Azryet? The heck?
+
+Then, before she could gather a single coherent thought, the gong sounded a second time.
+
+[Zone] Demon Hunter of the Winds has advanced to the second tier.
+
+Wait, Devan too? What’s going on?
+
+The gong rang out a third time.
+
+[Zone] Harbinger of the Storm has advanced to the second tier.
+
+A sudden cheer erupted from the adventurers and guards all across the battlefield as every single one of them simultaneously realized what this meant. It mattered not that they were locked in fierce battle with the permanent dungeon break that poured out from the ruins of their town.
+
+[Zone] Elemental Earthshaper has advanced to the second tier.
+
+Each gong rang out the news: the delve team had been successful.
+
+[Zone] Nature’s Fount of Life has advanced to the second tier.
+
+They found her. They found Aliandra. She fought by instinct alone, muffling a sob – just one – as her eyes blurred for a moment. Damn, she’s back!
+
+Then, as impossible as it seemed, the gong pealed again and again, and the zone messages continued, on and on until Vivian knew every single member of the group that had left to rescue Aliandra from the Rift had unlocked their evolutions – even the ones who weren’t at level one hundred when they’d set out.
+
+Vivian’s sword blurred, decapitating the wounded monster, and as it fell to the ground, relief threatened to unhinge her knees. We might even have a chance.
+
+“Drag this one to the pile,” she ordered, poking the corpse with her foot before leaping over it to find another. When Seth came back, he would have an army waiting for him. “You there! Hold the line, there’s help coming!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

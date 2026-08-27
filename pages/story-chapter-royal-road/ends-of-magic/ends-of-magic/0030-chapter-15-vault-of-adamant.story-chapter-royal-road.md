@@ -1,0 +1,201 @@
+---
+id: a0ced6ea-ecaa-5d81-96a9-ee5a97af3f07
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Vault of Adamant"
+slug: 0030-chapter-15-vault-of-adamant
+partOf: ends-of-magic
+position: 30
+ownLength: 2752
+unit: words
+ownProgress: 2752
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2546297/chapter-15-vault-of-adamant"
+royalRoadId: "2546297"
+markedReadAt: "2026-06-29T20:08:14.002Z"
+---
+
+The towers in the inner city were elaborately warded, with golem and human guards to ensure that only those with the proper access could enter. It didn’t appear to be about genuine security as much as keeping out the riffraff, since Nathan could feel a variety of fairly broad exceptions that would allow a licensed resident to invite other registered citizens inside. Or for any properly accredited service worker to make deliveries or otherwise attend to their clients.
+
+The central tower stood in contrast to the rest. It didn’t appear to house a large population, and had correspondingly tighter security. But there was a steady flow of bookish types flowing in and out. Nathan studied them as they approached and concluded that it was likely to be an administrative and enchantment hub, likely for the most sensitive and dangerous work that happened in Esebus.
+
+He was more cautious on the approach, using his magical senses to scan the tower carefully. He hadn’t found anything that could even detect his magical perception, and he had multiple skills that should help hide his antimagic. But if there was going to be an exception to that rule, it would be here. Still, he ran into no traps, and no enchantments tripped as he mapped out the tower with his sensorium.
+
+Not to say that there weren’t security enchantments - the entire tower was lousy with them. Every one of the twenty-eight soldiers on duty on the first floor showed up like bonfires with how many enchanted items they had. They weren’t wearing the magical flying armatures, but instead suits of heavily-enchanted armor equipped with a variety of close-combat weapons. The upper floors appeared to be various offices and enchanting workshops, stretching up as far as he cared to scan. Each had its own set of guards and security enchantments, and there was enough firepower present to challenge the assembled war mages of Giantsrest.
+
+But the aboveground portions of the tower weren’t what he was interested in. There was an entire underground complex that housed yet more magical workshops, and near the base was a giant three-hundred-foot-wide hole in his perception. It was like there was a solid and completely nonmagical stone orb whose top was several floors below the center of the tower. It was surrounded by magical security systems and seemed to have a single access point, a guardroom filled by a dozen more soldiers in enchanted armor and emplaced weapons with enough firepower to slag the bedrock.
+
+Yup, that’s it.
+
+“It’s in there, underground,” he muttered, loudly enough for the rest of the Heirs to hear him. They were lurking on the side of the wide plaza that surrounded the central tower, blending into the various workers grabbing food from the shops and stalls that existed to cater to the evening rush.
+
+“Do we wait for nightfall?” Stella asked, her voice uncertain. “Fewer bystanders.”
+
+Sarah’s reply was tight with anxiety. “The missing patrol. Is it worth the risk?”
+
+“My magic will be weaker in the night,” Khachi replied, his words a low rumble.
+
+“Then we should fight now,” Aarl urged, but he turned towards Nathan for the final word.
+
+Nathan watched the workers around him, some of whom were picking up groceries to take home. “It’s just a workplace, not a place people live. It should empty after work hours. It’s already starting.” He pointed at the doors, where more people were exiting than entering. “Let’s find cover for an hour, then go in while there's still a couple of hours of light left. I’ll explain the layout.”
+
+They turned away from the central tower, ignoring the curious and occasionally hostile glances they got. Nathan thought about trying to find an inconspicuous table somewhere, but he had the impression that they wouldn't fit into any of the restaurants around here. Instead, they decamped to a nearby alley and made sure nobody was watching. Then Stella dug a quick pit in the street. The Heirs packed into the small space, then covered over the entrance with a flagstone. Nathan protected them from magical detection, and they just had to wait until it was time to make their assault.
+
+“Almost time,” Nathan said. “Anybody nervous?”
+
+Khachi gave a low chuckle, his quiet humor filling the small space. “It would be madness to feel calm. I am not so blinded by my own light.”
+
+“Our choice is made. We made it here, without being seen.” Sarah sat calmly, her knees nearly pressed to her chest. “It’s a blasphemous deed, to enter the heart of such a city so stealthily.” She shot a look at Stella. “We could cause untold destruction here if our goal was death.”
+
+Stella was busy wringing her hands together, and she shot Sarah a dark look at the comment. Then she turned her attention to Nathan. “Can you shed light on the layout?”
+
+Nathan nodded. “I’ve got an idea of what the interior looks like. They use enchantments in everything, so I was able to map out all of the corridors, the doors, even the people. First is the central lobby, which has five guards, with twelve more in a security room and two watching the lifting shafts.”
+
+Stella gestured, and lines of light drew themselves in the air, forming a rough approximation of what Nathan was describing.
+
+“Thanks,” he replied, then grabbed the lines with his antimagic, manipulating them into the approximate shape he’d seen. Over the next hour, he built a facsimile of what he’d sensed of the central tower, with special attention paid to the routes from the entrance to the underground security room that seemed to be the primary point of contact with the big orb of nothing in the basement.
+
+“Hear me, is there a chance it's a fake?” Aarl said, frowning at the empty spot in the diagram. “The valuables stored elsewhere, with this as a decoy?”
+
+Nathan paused at that comment, then shrugged. “It’s possible? I don’t think we have a way to validate it without me scanning the entire tower, and even then, it could be somewhere else entirely. But what we want isn’t really what’s in the vault; it’s the Questors to make a personal appearance. Which they'll probably do even if it's a decoy.”
+
+Aarl’s expression remained fixed, his gaze boring a hole in the diagram. “Pardon my ax, but won’t Sussu just send her troops after us? Why would she come herself?”
+
+Khachi flicked his hand. “Hold her weapon for a moment. If attackers suddenly appeared in your innermost secure areas, you would involve yourself. Even if she should send some soldiers against us, we will defeat them. Then she will face us herself.”
+
+“I just hope she doesn’t bring all of the Questors in at the start,” Nathan retorted. "This can't be an even fight."
+
+“Doubtful,” Sarah replied. “They are arrogant. Sarya and her grid meet up, but they don’t seem to work together frequently. Sussu seems little different. She’ll think she can handle us on her own.”
+
+Stella made an exasperated noise. “Assumptions like that are a dungeon of fools. We don’t know Sussu’s mind. But the plan is a good one.” She checked a timekeeping spell. “It’s been an hour.”
+
+The Heirs cautiously decamped from their impromptu bivouac, heading back out into the streets and beelining for the central tower. The sun was still directly overhead, but there were fewer people around. They received suspicious looks from the few remaining bystanders as they strode directly for the tower.
+
+Nobody stopped them, likely because they assumed that the humbly dressed Heirs wouldn’t make it into the tower. All six doorways were warded with powerful enchantments that wouldn’t let anybody through without authorization. They didn’t bother with physical doors, trusting the magic of the building to do the job. Each opening was additionally flanked by a pair of thirty-foot stone golems that would back up the more passive defenses. But Nathan had already checked them over. They weren’t intelligent, simply enormously complicated and powerful extensions of the building’s security system.
+
+With Nathan leading the way, it was trivial to ensure that the building couldn’t detect their presence. The golems didn’t react as the Heirs traipsed through the doorway, passing through a corridor of antimagic that blocked all the defensive and sensory magics of the tower that would have stopped them or sounded the alarm about unauthorized entry.
+
+Nathan was doing his best to appear inconspicuous, but all five of the Heirs walking through the security barrier without so much as a blip was enough to put the guards inside on alert. About half of the ground floor was a gigantic lobby space, and the five guards behind the desk were focused on the Heirs. Nathan raised his hand in a friendly gesture as he walked towards the desk. Three of the guards watched him come, one standing and casually lifting his arm in such a way to line up a weapon in his gauntlet with the Heirs. The other two kept their attention outwards, looking for other potential threats.
+
+They’re well-trained.
+
+Unfortunately for them, they were wearing full-body suits of magical armor. Each suit was equipped with dozens of enchantments to protect them from every conceivable attack, as well as enchantments intended to keep them comfortable and mobile in a hundred pounds of enchanted metal for hours at a time. More enchantments linked them together in some kind of [Message] network, as well as provided them with weapons ranging from nonlethal to tank-killers.
+
+Nathan stripped it all away in a moment, bearing down on the guards with the full weight of his antimagic for the time it took him to render the suits of armor no more magical than paperclips. They all staggered at the sudden weight of their armor, and the Heirs sprang into motion. A bright but silent flash emanated from Khachi’s armor, briefly blinding everyone in the lobby who wasn’t ready for it. Stella dropped a [Muffle] spell on the guards, and Aarl leapt over the desk. His arm rose and fell quickly as the invisible ax went to work, chopping cleanly through the backplates of the guards, severing their spines on the way to the heart.
+
+The axe's magic reanimated the guards moments later into zombies, subservient to Aarl’s will. He directed them to sit at their normal posts while the Heirs strode past at a pace just barely under a run. Nathan spared a look around at the few people who'd been in the lobby. Most of them hadn’t been paying attention, headed elsewhere, or were engrossed in other tasks. The few who'd been looking up were still shaking off the daze from the light. They were looking around suspiciously, but the attack had been so sudden and so unexpected that they seemed to have trouble understanding what had just happened. The sight of the security desk with five guards still sitting in their seats seemed to mollify them. It wouldn't take long for the alarm to be raised, but every second counted.
+
+The Heirs were already leaving the lobby behind, passing into the area behind the desk that held the lifting shafts. There was a security gate with yet another set of enchantments. Nathan teased it apart almost automatically, and without magic holding the gates closed, he was able to shove his way through.
+
+There were two more guards back here. They both were alert and headed towards the lobby to check on what had happened. They triggered their weapons as soon as they saw Nathan, but nothing happened. Nathan’s aura had already reached them, and he intercepted the magic before rendering their suits of armor inert. They staggered, and Aarl dashed forward again, this time using the disintegration-edged greatsword to kill the soldiers before stashing the bodies in a dimensional bag.
+
+They don’t have any answer for us, or at least me. The alarm hasn’t even been raised. They have deadman switches in their armor that trigger an alarm if they die, but I’m taking it out with the rest of the enchantments.
+
+Nathan pointed towards a pair of closed doors at the end of the bay. They were different from the rest of the openings that led to the upper floors, with heavier enchantments and thick protective doors. Nathan could have spent a few minutes nudging apart the enchantments to trigger them to open, but instead, he just wiped all magic away from the barriers. Then Stella used wedges of force magic to jam a door open to reveal a long shaft that stretched downwards into darkness.
+
+Nathan stepped in first, dispelling security measures as he dropped into the shaft and towards their destination. He was sure that they were triggering warnings as he broke various parts of the security system. They wouldn’t be confirmation of intrusion, just alerts of a security system failing. But their primary objective here was speed, not stealth. This was never going to be a perfect heist, but that was because their real goal was to kill the sheriff.
+
+He stopped on the correct floor, and they forced open the next security door to find a kill zone. A narrow corridor without any cover led down to a series of barricades and prepared firing positions. Nathan could feel a security room just on the other side of the door, and the guards inside were just starting to move. A magical signal connected somebody in the room to somewhere high above for just a moment before Nathan activated his Magic Jammer skill to cut off all magical communication in a large radius. That had definitely started a clock, as every magical communication in a huge radius would now fail.
+
+The Heirs charged the barrier. The defenders hadn’t been ready for an imminent assault but reacted quickly, diving for their positions. Halfway there their armor became deadweight as Nathan stripped the magic out of it. A few of them overbalanced and fell with a clatter, and two fell with bullets in their heads.
+
+Four guards reached the emplaced weapons and frantically pulled triggers. Nothing happened; the powerful enchantments had already degraded past the point of usability in Nathan’s aura. A centrally mounted cannon exploded in its user’s face as the containment chamber broke down, consuming two soldiers in a blast of brilliant energy and throwing the rest to the floor. The blast didn't reach the Heirs, eaten by Nathan's antimagic. One of the last guards tried to fire something that looked quite a bit like a machine gun, but the magical device was inert in her hands. She smacked the device in breathless frustration, then looked up to see Khachi’s hammer, limned in golden light, descending.
+
+“Oh - Skills prot…” Her words were cut off with a sickening crunch, and Aarl bounded into the security room, blades slicing out to finish off the downed guards before they could rise to their feet.
+
+Stella simply walked forward, holding a dozen unneeded shield spells at the ready. She looked around at the chaos with disdain. “Too easy. A dozen elite soldiers, and they can only die.” She looked back at Nathan, a complicated emotion somewhere between awe and disgust on her face. “Dragon’s breath, this isn't a true contest.”
+
+Nathan shrugged, but stepped into the room to study the far wall. There was another enchanted security door before the orb that was blocking his magical perception. This barrier was different from everything they’d passed by so far, reeking of wizardry that rivalled anything he’d seen in the Ascendant Academy.
+
+He squared his shoulders and concentrated on the door, mapping out the patterns of aetheric energy emblazoned onto the alloy. He found what he was looking for, then smiled grimly. “This is where it gets interesting.”
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 839
+
+Bottomless Stamina : 84900/84900
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 619Regenerative Focus: 5782/6290
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 5
+
+Forewarning 4
+
+Arcane Insight 7
+
+Evasion 2
+
+Mental Vault 6
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 3
+
+Aura Control 5

@@ -1,0 +1,229 @@
+---
+id: 6d7c513d-fb1b-510b-84e0-c8e6f75392b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Unfriendly Skies"
+slug: 0062-chapter-47-unfriendly-skies
+partOf: ends-of-magic
+position: 62
+ownLength: 3124
+unit: words
+ownProgress: 3124
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2935314/chapter-47-unfriendly-skies"
+royalRoadId: "2935314"
+markedReadAt: "2026-06-29T20:09:15.244Z"
+---
+
+The pre-meeting meeting went on for longer than it probably needed to. Kaelis had already settled on his goals and gotten the critical mass of the Ashen Accord leadership on his side. He was going to be the one to lead negotiations, and he was going to propose a rather straightforward and brutal type of war, where victory involved killing the entire force of enemy combatants. Nathan had expected that to be the end of it.
+
+But some of the Questors, led by Nierna, still wanted to talk through everything in exhaustive detail. They tried to revisit the negotiation strategy, focused on the extreme victory condition. When Kaelis refused, they dragged out the meeting, bringing up a huge number of extraneous details and arguing against small points wherever they could, citing small deceptions they could pull on Evesor.
+
+Kaelis refused to be distracted, sticking to his guns and boring in on the most relevant topics. No, there would be no explicit prizes for victory. The prestige and the denial of Ostren to the opposing grid would be enough. The battlefield would almost certainly be in the wilds instead of an urban environment, by preference of both grids, though the reasons for that differed. The Ashen Accord preferred to minimize collateral damage, while the Aleph grid just wanted to reduce the amount of cover available. Stealth was probably a wash, as the ability to sneak up on a mage was countered by every enemy being under an invisibility spell. Both sides would likely want a provision that meant somebody couldn’t hide for the sake of delaying a loss. Both sides would probably propose banning teleport, and they’d agree to that.
+
+Every time Nathan thought they’d surely covered everything, there was another topic. They sent one of the other Questors out for food, and he returned with a pile of enchanted self-heating rations that were admittedly excellent. Still, the meeting dragged on long past what was reasonable, until Nathan was starting to feel a headache forming behind his temples.
+
+“No, we will allow most kinds of magic and wizardry,” Kaelis said, using the same unyielding tone he'd used every time the subject had come up before. “Only mind magics will be banned, since any other stance would see mutiny. We’ll use that to push for the total extermination conditions and ensure the short time window.”
+
+“Which variant?” Slick asked, shuffling through a set of notes that had accumulated. They’d discussed this topic multiple times before, and there were a few ways to implement that kind of rule. Nathan favored the one where you could stay hidden indefinitely, but only if you killed at least one enemy combatant per day, since it seemed like a backup plan that he could execute if they were losing otherwise. But this wasn’t a place to contribute. He’d thought about it early on in the meeting, but as soon as he’d opened his mouth, Garna had sent him a sharp look and shaken her head slightly. She’d spoken just a few times, on each occasion in support of Kaelis.
+
+Stella and Aarl were bored with the whole thing, which was understandable. It was an interminable meeting of people arguing around the same points. But Nathan, Sarah, and Khachi soaked up the details. This was going to be a fight over life and death, and it was a valuable source of information on the Questors and their interactions with each other and Davrar.
+
+The most important question Nathan had was who would enforce the rules they were deciding on. Was there a neutral arbiter who’d use their judgment? The Questors seemed to be assuming that the rules would be applied with complete impartiality and omniscience. He got his answer in an argument over whether they should try to limit social skills.
+
+“In past wars, Davrar has counted inspiration and coordination skills as social skills,” Kaelis said. “If we suggest any kind of social skill limit, the Aleph grid will support it enthusiastically because Davrar will remove an entire set of the skills we are known for.” He frowned over at Nierna, who didn’t appear to be done with arguing yet.
+
+Nathan let the rest of the conversation wash over him as he put the pieces together. Davrar would adjudicate this war. The Questors would define the rules, then Davrar would enforce them. He didn’t know why he was surprised about that. He supposed it was because it felt petty. To him, Davrar wasn’t something to be interacted with. It was the world and its rules, the framing of reality. But now the Questors were deciding on a new and temporary ruleset that would only apply for as long as it took to kill each other. It was like using the idea of a fundamental concept to smash somebody’s skull in. Or more accurately, using an everything machine that could solve all problems forever to set up a medieval little battle to settle who was the top frog in the aquarium.
+
+“It’s time to go,” Sarya suddenly butted in, speaking over the ongoing argument. “Unless you wish to be late to the term meeting?”
+
+Nierna protested. “But we still need to decide the level equivalents to be sure that we can bring additional Questors to match any level imbalance! And we need to know which other Questors will be joining us. That’s critical information that we need!”
+
+“The elders will only commit once the terms are decided,” Kaelis growled. “And level equivalents are irrelevant. Both grids will commit all of their forces, so that victory will be complete." He stood and walked out of the door without another word, unwilling to let the conversation drag on any further. Everybody followed him quickly enough, not wanting to be left behind. They kept trying to get another word in edgewise, but Kaelis moved quickly through the underground estate. They reached the lower courtyard, where another, smaller carriage waited for them. This one was fancier than the one the Heirs had ridden before. It lacked wheels, instead floating a few feet above the ground. It was also enchanted to be larger on the inside than the outside.
+
+“I can’t fit into that,” Nathan said, looking askance at the carriage.
+
+Kaelis rolled his eyes and sighed. “Of course you can’t. Edes-cursed antimagic.”
+
+“We need a security contingent regardless,” Slick added placatingly. “You can fly alongside my squad.” He jerked his head at a group of nine tough-looking Questors who were playing some kind of board game at a table near the gate. They got up, leaving their game where it lay.
+
+Nathan blinked, seeing that one of them was familiar. “Ushia? Are you part of Slick’s squad?”
+
+The big orc woman gave a deep laugh and shook her head. “No, but they are good company, and not used to my tricks just yet.” She laughed again as the Questors cursed her good-naturedly, then grew serious. “You should join Slick, but the Heirs should not. It will be a dangerous flight.”
+
+“Somebody will attack?“ Slick said cautiously. Ushia shrugged, noncommittal. Slick sighed, then turned back to Nathan. “You can fly at a decent pace?”
+
+Nathan nodded towards the Questors, then glanced over at the Heirs. “Go ahead. I’m bait for an assassination attempt.”
+
+“Good to gain practice,” Aarl said. “Hear me, it’s only the fourth time.”
+
+Once the Questors finished loading onto the carriage, Slick and his soldiers followed behind it wordlessly, walking through the tunnel that separated the Ashen Accord’s estate from the Blinded Mountain. Nathan used the walk to study Slick and his squad. None of them were mages, but they were all well-muscled and bearing powerful magical artifacts. They reminded him of Brox, but with more discipline and slightly worse gear. One of them noticed Nathan’s attention and gave him a salacious wink. “You’re an interesting sort. Fancy a drink later?”
+
+“Duty before joy,” Slick chided before Nathan could answer. The wiry orc pulled an adamantium axe from a dimensional pouch integrated into his belt. It was the same kind of weapon as Brox’s black-bladed swords, and Nathan nodded as he finished inventorying the Questors’ gear. They had an impressive array of weapons ranging from swords to tridents to maces, though Aarl had several dozen of the same quality. But what really stood out was their utility and defensive gear. Every single one of Slick’s squad had a powerful flight enchantment of one kind or another, and most carried items that would defend them against magical, ranged or melee attacks. This was a mage-killing strike team that would dash straight through attacks to get up close and personal.
+
+“He thinks he can beat us,” rumbled one of the other men, a skill tingling on the edge of Nathan’s awareness.
+
+Slick chuckled. “He may even be correct. How would you do it?” He addressed Nathan with the question, his tone curious rather than offended.
+
+“I couldn’t do it here,” Nathan said, gesturing around at the tunnel around them. “I’d need a clear sky. Then I’d disable your flight enhancements and get out of your reach.”
+
+I’d also rupture your dimensional bags and a couple of other volatile enchantments that you’re carrying. But I won’t mention that one.
+
+Some of the other Questors wanted to argue, but Slick forestalled them. He kept his gaze focused on Nathan. “Right now, you’re under my command. Does that parse?”
+
+Nathan nodded. He’d disobey any stupid orders, but every indication was that Slick knew his business. He felt a scratching in his mind, like a staticky radio at low volume. He narrowed his eyes, trying to track down the sensation.
+
+“It is only coordination, not an attack,” Slick said aloud. “One of my utility skills facilitates communication among my squad.”
+
+Nathan lowered his mental defenses against that one particular vector and was rewarded by Slick’s voice in the back of his head, speaking clearly and quickly.
+
+“Stay close to the carriage. Defend it if you wish, but don’t chase after any threats. That’s our role. We're in three teams of three, but you're outside of that. We'll chase any threats, but your priority is to stay alive."
+
+“I understand,” Nathan said into the same space. It was like speaking into his mind palace. “Do you expect any attacks? I’ve known Ushia to be wrong.”
+
+The Questors all winced, and Slick replied along the same channel. “You learn quickly. But lower your intensity, please.”
+
+One of the other Questors spoke aloud to answer Nathan’s mental question. “Never discard prophecy. Doubt it, but there is usually a signal to the noise.”
+
+They reached the end of the tunnel, and the carriage took to the sky, activating a wizardly defense that warped space and would make projectiles curve around it. Nathan didn’t think it could block anything that could correct its course. Slick and his squad followed the conveyance up into the sky, and Nathan joined them. He realized he had no clue where they were heading. He spoke into the mental space again. “Where is the term meeting?”
+
+“At the peak,” Slick answered shortly. He and the rest of his soldiers were scanning the city around them, trying to spot any attack before it came.
+
+Nathan joined them, but there was just so much to look at. The city stretched in both directions along the giant crevasse that carved through the mountain, and it was alight in the perpetual darkness. Thousands of buildings proclaimed their presence and advertised the good times to be had within. From this altitude, Nathan could see hundreds of restaurants, theaters, bars, clubs, and other types of entertainment that filled the bottom of the crack. Magical advertisements flashed in the air along with illusions designed to mesmerize their audience. The walls on either side were filled with dwellings and estates that clung to the rock like climbing ivy, with balconies and gardens lit from below by the street-level decorations.
+
+The carriage ascended up to the level of the mountain slope, and the ground changed abruptly to barren rock. From here, the mountain again reminded Nathan of a geode, with a crack in the bare rock revealing the brilliant glimmering light within. But they were headed to the top of the mountain, and between one moment and the next, the light and clamor vanished to be replaced by the windswept darkness of the slope. Nothing green grew here in the perpetual darkness, though the blues and greens of the world above kept the landscape from being too bleak.
+
+Nathan dodged without thought, hearing the crack of a supersonic projectile after he’d already completed the motion. The shockwave ripped his clothes off and probably would have caused severe internal damage to a normal person.
+
+Now that the initial attack was over, he could feel targeting enchantments trying to get a lock on him. They failed, but more attacks were launched his way, guided by skills or just raw skill. Nathan was vaguely aware that Slick and his team were deploying, but his focus in this split-second was on not getting hit. He leaned into his skills and tried to move chaotically. The shockwaves from the first attack helped, letting him ride the sudden turbulence towards parts of the sky that he shouldn’t have been able to get to. A blade of spinning crystal took off his arm, but the other attacks missed entirely and whizzed off into the night.
+
+“The ambush is over,” Slick’s voice spoke into his head. “We’re in pursuit of the attackers. Stay with the carriage.”
+
+Nathan found himself alone in the sky more than a hundred feet from the carriage, looking around for Slick's soldiers. He spotted the three squads, each speeding towards a different location where Nathan roughly thought the projectiles had come from. None of them was quite as fast as Brox, but they were in the same ballpark, moving in blurring arcs towards their foes.
+
+“The carriage looks undamaged,” Nathan reported through the squad channel. “Anybody else hit?”
+
+“You were the focus of all the attacks,” said the voice of another Questor. “Engaging. Watch for further teams; we won't be able to counter them for another ten seconds.”
+
+The carriage slowed down to give the Questors a chance to finish their hunts. It didn’t take long. Most of the snipers had escape plans, and some successfully teleported out. Others couldn't for reasons Nathan didn't understand, leaving them at the mercy of Slick and his soldiers. Within about thirty seconds, Slick and his squad returned to the sky. “That was Enfanalin. One of the best mercenary grids. This is an expensive day for our foes,” Slick said, grinning as he hefted a glowing bow almost as tall as he was. “Good loot, too.”
+
+“Is this kind of attack legal?” Nathan asked.
+
+“To whose law?” Slick asked sardonically. “It taints the game, but victory forgives the stench of sabotage. There’s usually some level of minor sabotage before a war, especially to steal powerful artifacts. But there is little purpose to killing, since any Questors killed now would simply return to fight with greater anger than before.”
+
+Nathan stayed calm. It made sense that the Questors would snipe at each other like this, and even see such attacks as little more than nuisances. Small moves in the grand game of Questors. But these had been deadly attacks. He wondered how often the mortals of the city, like those guards on the estate, suffered in this kind of 'minor sabotage'.
+
+Probably not more than the number of people who die in wars between Questors. Doing this war in a city was an option.
+
+They were approaching the mountain's peak, which was carved into an ancient temple. It looked like a large explosion had gone off in the center of the sanctuary, shattering the central dome and leaving little behind but jagged pillars and mounded rubble.
+
+There were already people present inside, and Nathan blanketed the building with his senses. There was heavy-duty wizardry laid over the whole space, backed by the shreds of a divine presence. If he was parsing it right, it would be hard to move at any pace faster than a walk while inside, and offensive magic would be suppressed to a greater degree than a Shield of Solemnance could manage, albeit over a much smaller area. He also recognized several of the mana pools present, including Badud, Sussu, and the rest of the grid that the Heirs had killed in Esebus.
+
+Some of his discomfort must have shown, because Slick spoke comfortingly to him. “This is a term meeting to set the rules of the war. They will not attack here, or else nobody will ever trust the Aleph Grid again. But that bargain has two sides. We cannot take any offensive action unless they clearly and obviously strike first. Davrar itself will testify to the truth of the matter, so this is not a place for tricks.”
+
+Nathan nodded, but his thoughts were spiraling. Most of the Questors would be powerless in this space. But the magic wouldn’t affect him at all. If he wanted to test out his ideas on killing Questors, he had Badud and the entire leadership of the Aleph grid as a captive audience. It wasn’t an opportunity he was likely to get again.
+
+He breathed out slowly, calming the embers of anger. At the beginning of his time on Davrar he’d embraced his rage according to Artha’s teachings, and it had provided him the power to fight mages. But that path had come with downsides. His anger had moulded him in ways he hadn’t realized, made him reach for violence as the first option in many situations. But fixing Davrar couldn’t be done solely with violence.
+
+Nathan landed on the stone next to the carriage, his eyes picking out the Questors waiting inside.
+
+Violence will play its part, but only in service to grander strategy.
+
+Permanent Talent 1: Magical Destruction 4
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 9
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 8
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 4
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 4

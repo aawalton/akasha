@@ -1,0 +1,131 @@
+---
+id: 2ed06fae-1a1f-5da1-b628-0a4e06782f2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 512: Calhedron (Part 1)"
+slug: 0552-chapter-512-calhedron-part-1
+partOf: dungeon-of-knowledge-complete
+position: 552
+ownLength: 3905
+unit: words
+ownProgress: 3905
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2961223/chapter-512-calhedron-part-1"
+royalRoadId: "2961223"
+markedReadAt: "2026-06-29T20:31:03.570Z"
+---
+
+The towering pillar of arcanite crystal pulsed powerfully as it drew in the dark tendrils of corrupted mana that poured forth from the remnants of the Well of Souls in continuous waves. The energy within the pillar crackled violently, causing the hair on Ali’s arms to prickle as if she were somehow standing beside a bottled-up lightning bolt that had mysteriously failed to damage anything.
+
+Suddenly, the energy dipped dramatically, and a transparent, floating form materialized in the air beside them. A bone-chilling, mind-shattering wail clawed its way free from some realm of negative energy and death, channeled through the newly spawned Banshee, only to shatter upon the wards of her elixir and magical enchantments, leaving Ali chilled, but otherwise unharmed. Despite all the buffs, Calen flinched visibly due to his lower wisdom, and a flicker of healing magic settled in on him a moment later.
+
+With a roar, Mato’s void-enhanced claws swiped through the Banshee, his paws passing clear through its incorporeal form without even the slightest resistance, but the trailing strands of void magic ripped strangely glowing fluid from the undead monster. It hissed at him, baring dark fangs that phased into a semblance of solidity, and tried to claw at his face, its hand passing through his block without noticeable resistance to tear at something essential deeper within him. The bear grimaced in obvious pain, lashing out with immediate retaliation, but Malika was beside him, ready with her healing. With a move almost too fast for Ali to follow, Malika attacked, unleashing three near-simultaneous blasts of transparent blue-white soul magic that were projected like lances from her fists, tearing into the Banshee’s core. But where her fists were ignored, the soul magic pulses most certainly were not – the strikes causing visible recoil from the terrifying undead monster and leaving a tangible burning residue to linger within.
+
+Soul Burn, Ali observed, identifying the flickering, ghostly flames that licked at the Banshee’s wounds. It seemed that Malika’s style of magic was inordinately effective against the incorporeal undead.
+
+As Calen’s arrows tore into it from above, and her own minions engaged, Ali turned her attention back to the strange artifact, and their group’s primary objective for scouting deeper into the dangerous dungeon. The pillars, like the smaller arcanite crystals she had observed in the early stages of this dungeon’s expansion, were most definitely propagating its domain. Even though the ugly corruption caused the purple lattice to sag and bubble, the structure of the projected mana was still recognizable as a domain lattice, not unlike her own. However, unlike the arcanite birch trees she had borrowed from Cael and Gage’s Infinite Maze, these seemed to serve a much more convoluted purpose – certainly if the intricate and complex runes inscribed upon every centimeter of their surfaces were anything to go by. A dark purpose, for sure, one she was becoming familiar with the more she tangled with Nevyn Eld’s malevolent influence.
+
+She frowned as she leaned clear. What are you up to?
+
+A chime sounded softly in the back of her mind, but she ignored it, focusing her Runic Script, Sage of Learning, and Arcane Insight skills upon the rune formation in a concerted effort to decipher the artifact before them.
+
+“Any idea what it is?” Malika asked, hopping up and down beside her to relax her muscles after the sudden but brief bout with the summoned Banshee.
+
+“It definitely propagates the dungeon’s mana, so destroying them should allow us to slowly dismantle the wraith’s domain,” Ali said. In the distance, behind them, she could still easily follow the senses of her kobold mage as it continuously unleashed holy fireballs at the unceasing flood of undead monsters spawned by the dungeon. She had been frustrated to find that the combination of her champion mage, Seth’s raised pet Sandwyrm, Cuddles, and her Domain Architect skill to dismantle the domain had been barely enough power to force the dungeon to a stalemate – a standoff where the full output of the dungeon’s summoning was continually annihilated by their forces, but neither could progress in any meaningful way. It left her with a powerful headache from the dungeon rage induced by the clash of her domain with that of Nathaniel Sunstrider, and the disgusting feeling of corruption under her skin, like someone was trying unsuccessfully to drown her in a vat of viscous black sludge.
+
+Both Mato and Malika had assured her repeatedly that she was not actually becoming corrupted, nor had there been any notifications to that effect, but continuous contact with Nathaniel’s domain was most certainly unpleasant. She consoled herself with the fact that their efforts had drawn the entire undead output of this dungeon, and none of it was heading for the besieged city of Southport or elsewhere. The discomfort was a small price to pay for easing the pressure on the stricken defenders. At least, Azryet trained me well. She was in pain, but it was no longer debilitating.
+
+“Also, it obviously works as a summoning artifact,” Ali added, waving a hand at the towering purple pillar. That much anyone could have told her, but she could see the runic structure – so similar to her own circles of runic script – encoding the spell formations for summoning, but that was where it got far more complex. How does he do it? Arcane runes, but the monsters being summoned were almost always undead: Banshees, Ghosts, Zombies, and a host of other less common forms. It truly did not make any sense. “It’s almost the same as those altars we found in the Temple of Aman Rak,” she mused, speaking aloud the sudden connection her mind had made, using her past knowledge and the accelerated pattern matching from her Sage. As to where the corpses or ghosts were being summoned from, she had no idea, but the spell did not seem to be creating them from scratch.
+
+Malika instantly stiffened, glancing about warily as her magic flickered. But she didn’t cast anything immediately. “Why aren’t we dying, then?”
+
+Why aren’t we dying… The altars in Aman Rak had been excruciating, and they had required Malika’s healing magic to even be able to survive their proximity long enough to deconstruct them. In stark contrast, these seemed to have no such effect. That must mean something. Something important. She studied the runes further, tracing the connections as her mind automatically recalled the thousands upon thousands of formations she had studied and analyzed, filtering through them using Sage of Learning to find the closest matches, the most likely similarities.
+
+“Aman Rak was written in death-affinity runes,” Ali finally answered, pursing her lips in thought. Death affinity seemed to readily manifest with effects like Life Drain. Her studies of necromancy and Seth’s abilities had confirmed this quite easily, and it was no surprise that the death-affinity spells inscribed into the Aman Rak altars had possessed that quality. However, there seemed to be a deeper reason, one she felt was related to how this magic was being powered.
+
+She peered closer, still seeking to pierce the superficial layers to get to the core. “In Aman Rak, the fundamental formation upon which those altars were built was the Sacrifice spell, and therefore, it drew energy from the life force of everything around it. This… thing… is drawing power directly from the Well of Souls.” The more she studied it, the more certain she became. The spell formation was dizzyingly complex, and she couldn’t be certain without consulting with Clarence and the rest of her library, but the formation had a section that reminded her of her experimentation with power conduits. Only vastly more potent. More twisted. She recalled seeing something similar around the Well of Eternity, but her mind had been rather shaky after that fight, and she had neglected to properly study it. She peered at the Well through multiple layers of glittering purple walls. Is the Well making the dead?
+
+As if her observation had opened her eyes, the thick ropy rivers of corrupted mana coursing through the ground like a web, linking the towers with the pulsating heart of the Well of Corruption, suddenly made sense. The excess mana that spilled from the corrupted well was being drawn directly into the formation by the exquisitely intricate runic power conduit, and then, by some incredible inscriptions, it seemed to be twisted into mana compatible with the array. Affinity transmutation? But not? It’s like he’s disguising the mana, cloaking it when it gets inserted into this part… that works? Only after passing through the conversion runes was it fed into the summoning runes, which somehow produced viable undead. She had no idea why the structure had been built to convert the mana instead of using the Well’s corrupt death-affinity directly, and yet, through the complex and convoluted conversion, the undead that spawned were being linked directly to the dungeon’s domain as if they were regular dungeon-spawned monsters. The implications were profound. He’s using the Well as an infinite mana battery. No wonder he has so many undead.
+
+Ali grimaced and rubbed her aching temples, reminded once again of her miscalculation earlier, but she pushed it off. It was already dealt with. But something was definitely twisted about how the mana reservation worked, and without examining a live spawn – a dubious prospect at best – she wasn’t about to figure it out any time soon. Instead, she simply committed everything to memory, resolving to transcribe it all to her notes later, and make a more in-depth study of the similarities she had found between this and Nevyn Eld’s magic in Aman Rak and the Crypt of Kings. With an absent thought, she directed some of the kobolds back in the Grand Library Arcana to get started on that task.
+
+“So, if we destroy it, the dungeon shrinks a little and spawns fewer monsters?” Mato asked, his mental ‘voice’ echoing in Ali’s head.
+
+“Yes,” Ali answered, trusting Mato to repeat his telepathic question for the benefit of the others. “However, there may be problems we have to deal with because of the excess unabsorbed corrupted mana from the Well.” She had absolutely no idea what the consequences may be, but the Well was exuding an immense pressure similar to that of the Well of Eternity, and the only reason it seemed to remain in check was the thousands of these arcanite pylons consuming it all and turning it into monsters. In a way, it was a fortunate thing that Nathaniel’s Dungeon was ravenously consuming all the corrupted energy from the Well of Souls – without it, Ali was not certain the spread of the corruption would ever stop.
+
+“Are we done here, then?” Calen asked.
+
+“Yes,” Ali said, sighing a little. What I wouldn’t give for a week or two to understand this. Full understanding of the consequences would have to wait for later, and she would most certainly want to examine a few more of these, but her friends had been handling the spawns constantly for the twenty minutes she had needed to study the runes. At the very least, she understood enough to know they could safely destroy it. There was no need to subject them to more fights than necessary, so she placed a hand upon the cool, softly vibrating crystal surface and deconstructed the entire thing.
+
+“Ok, next one,” she said, studying the way the attached mana flows and lattice recoiled from the sudden hole she had just torn from the middle of the structure.
+
+Calen studied the mana that surged about him like the stormy seas trying to claim a drowning sailor. A powerful prickling in the back of his mind called his attention to what Explorer was trying to tell him.
+
+[Explorer]The Well of Corruption – level ???Affinity: Arcane, Death.Age: New.Threat Level: Tier Three.Known Creatures: Arcane Elemental, Zombie, Ghoul, Banshee, Wraith.Known Bosses: Calhedron.Dungeon
+
+A tier-three dungeon. He had always known Nathaniel Sunstrider was one of the strongest mages to have ever walked this realm, but the far more acute sense he gained from his second-tier Explorer skill crystallized just how strong. Above two-fifty. Perhaps twenty levels higher, he decided; if he could trust the feelings filtering in through his uncanny senses, that was.
+
+He stopped as their group assembled before the first of the giant elemental bosses. Crystalline geometric shapes of purple energy twisted and rotated within an enormous floating elemental construct, like panes of glass continuously morphing from one shape to another as they shifted through each other in a mind-bending display, as if the Betrayer had casually ignored the proper rules of geometry and space when constructing this monster.
+
+“I bet it sounds like glass when we shatter it,” Mato whispered into his mind.
+
+Calen grinned at his friend as he produced a gold coin and flipped it into the air, channeling his mana in an action that was so familiar, now, that it almost didn’t hurt when the gold vanished into sparkling motes of light. There was a time when he had resented the enormous cost of his patron’s blessing, but his perspective had shifted. A single gold coin for such an impressive boon was nothing to his coin pouch. He couldn’t even buy a level-appropriate mana potion with a single coin these days – and his patron’s blessing did not require a store or a crafter. His chime sounded cheerfully in his mind.
+
+You have gained the Blessing of the Wanderer.
+
+The monster before him, the ground, and the strangely twisting wisps of mana perceived by his realm-crossing mana sight clarified sharply as the blessing of his patron granted him a substantial boost to his perception skills and attributes. He studied his foe with painstaking care.
+
+Calhedron – Elemental – level 209 (Arcane)[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: ElementalDamage: Arcane
+
+While his newly tiered-up Explorer informed him that something in this dungeon was well past the second evolution, at least the boss in front of him was not. It was bad enough to have faced Kryostria; he had no desire to face another tier-three dungeon boss any time soon. Not without substantial growth.
+
+He paused for a moment, surprised at the richer feeling trickling in from Explorer. The white shining text in his mind hadn’t altered, still displaying the core attributes and properties as his skill helped him evaluate the threat before them, but the sense of it was far… more. Thoughts, intuitions, and impressions flooded through his mind. For instance, he was immediately sure the Light Mages would struggle with the transparent purple panes of this elemental – and not just from partial transparency. Refraction would be a problem, too. He also had a powerful hunch it would wield potent ranged spells. It was a subtle sense, and he spent a moment with it. It seemed that instead of just the mundane observed properties, Explorer was now tapping into his typical role as battle tactician, offering insights into how to approach the challenge it represented. It was, he reflected, primarily a knowledge-trait skill, and if he wasn’t very much mistaken, it was showing him how he might grow it, provided he leveraged its insights in battle. I should discuss this with Ali, he decided. If anyone understood the nuances of Knowledge magic, it was her.
+
+While he explored his expanded skill, his eyes had never left the towering elemental’s glittering facets. Here again, he was confronted with Nathaniel Sunstrider’s incomprehensible actions to ally himself with the forces of darkness, and the clear evidence that the archmage had grown dramatically more powerful. Somehow, no matter how many times he faced reality, he still felt the sharp pang of betrayal in his heart. He had admired Nathaniel Sunstrider, and he had believed he had found his place with the Pathfinders Guild: a home among like-minded people. His heart clenched painfully in his chest. Ruthlessly, he pushed those feelings away, his naïve dream broken by the selfish actions of an Archmage seeking personal power at the cost of the people who depended on him. How had he so completely and utterly lost his way?
+
+Calen recalled the Calhedron from the fall of Ciradyl, but the monster floating before them was so far beyond what he had faced back then that it may as well have been unrecognizable.
+
+With a thought, he activated his storage enchantment, recalling Death’s Grasp to his hands and replacing the Scourge of Deadly Creep. Immediately, the incessant clutching whispers of insanity infiltrated his mind as his favorite bow tried in vain to take over his will. Kir’vella, the foremost of Ali’s witch doctors, hissed at it, as if reprimanding the bow, but the familiar sound was a surprisingly welcome reprieve from the unending background wail of Banshees and the sub-audible hum that thrummed forth from the Calhedron in time with its twisted geometric pulsating heartbeat.
+
+Death’s Grasp was by far the most powerful bow he had ever wielded, and if he were to fight an unknown arcane elemental that had no death affinity, he was most certainly going to leverage his most potent tools.
+
+“What do you see, Ali?” he asked, glancing to his right where the petite Fae hovered beside him on golden, shimmering wings.
+
+“Arcane Bolt for sure,” she answered, confirming one of his suspicions as she peered thoughtfully at the monstrous elemental that hovered against the backdrop of the first layer of the dungeon’s barrier domes. Mana density fluctuated rapidly around her eyes as she studied it with her characteristic intense focus, and Calen knew she was taking advantage of her incredible mana perception skills to try to tease out any foreknowledge of the monster’s abilities before they engaged. “Looks like it’s empowered… I think maybe a summoning spell?” She cocked her head to the side as if trying to peer deeper into the arcane construct by simply looking from a different angle. “I can’t quite tell yet, reading it without seeing the spell formations is hard,” she finished, sounding a little frustrated. “Want me to throw some minions at it?”
+
+“I think that’s good enough,” Calen said, and he hadn’t missed the sudden twinge of recognition from his Explorer skill when she had mentioned summoning. Even just this information would be invaluable in an unknown encounter. He channeled a tiny trickle of his mana into the Sending Stone in his hand, sharing the information with Lyeneru and Vivian, who were coordinating the efforts of each group. It was a magical construct that rivaled the legendary artifacts of the second age, created by a team of artisans and crafters at the Novaspark Academy. It had cost an obscene amount of gold and required a team camping in the Grand Library for more than a week, and even then, it was only possible with the Arcanite Ali provided. Yet, Calen wholeheartedly agreed with Lyeneru’s insistence that it was essential to their survival.
+
+“Acknowledged,” came the response, Lyeneru’s voice appearing in his mind just like the way Mato communicated when he was in Bear Form. “You may begin. Remember, our priority is information gathering. Retreat at the first sign of surprise or real danger.”
+
+“Starting,” Calen said, drawing his bow and charging his Power Shot. Below him, standing at the head of a powerful group of Ali’s melee minions, Mato and Malika braced, clearly ready for him and the incoming violence.
+
+A single arrow spat forth from his bow with a resonant twang, carrying the full potency of his magic and skills. An arrow with a sharp head crafted from the purest mithril and a shaft of obsidian along which thousands of tiny runes glowed with suppressed power. It had cost him more than five gold, but the enchantments of accuracy and magic penetration were easily worth it for his first and most important shot. The arrow flared to light, shining with radiant power and trailing a thin magical chain in its wake as it sped across the corrupted earth to strike the arcane elemental dead center.
+
+With a deafening crack and a brilliant flash, his unreasonably expensive arrow punched through several planes of twisting arcane geometry, delivering the full force of his skills into the raid boss. Within the heart of the radiant blast, an ominous formation flickered, appearing far too quickly and too intricate for him to resolve, but he recognized his bow’s signature Death’s Grasp curse from long experience. The chain whipped around the monster, suddenly snapping taut and anchoring it to the ground below him. His magic pulled, drawing the boss toward Mato’s waiting claws of void.
+
+The Calhedron flickered with dark energy, letting out a resonant blast of sound like an immense subterranean horn, and then its magic flared even as it was pulled downward by his chain. Mana surged, twisting and warping within the monster, far too fast for him to grasp.
+
+“Mass summoning,” Ali called calmly from where she hovered beside him, pitching her voice to be heard by the others. As soon as she had declared the magic, he connected the shapes of mana, now coalescing into angular geometric forms among the slowly orbiting planes of the Calhedron and whirling about like a purple glittering tornado. A cloud of glittering shapes appeared beneath the panels.
+
+Barragon Shard – Elemental – level 162-165 (Arcane) x60[Explorer]Category: Summoned MonsterThreat Level: SwarmMonster Type: ElementalDamage: Arcane
+
+Well, Ali will want these! he told himself cheerfully, mostly to keep his trepidation at bay. The start of a battle always wore on his nerves.
+
+The newly summoned swarm of monsters surged out from under the protective wings of the mother elemental in an attack formation of glittering gem-like prisms, the dark light gleaming as it refracted through highly polished purple facets. A squadron of elementals like the Glimmer Shards, only denser, brighter, and with far more refined shapes.
+
+“Area damage,” Calen called, raising his bow and conjuring a full fan of magical arrows upon its ethereal string, but before he could unleash his volley, a ripple of fresh power cascaded through the elementals bearing down upon them. Every single elemental unleashed a barrage of rapid-fire purple bolts of arcane energy, lancing out in a sudden cascade of graceful arcing light, each unerringly targeting one of their group. With a thought, Calen summoned his Mirage Armor and split off his decoys, releasing his arrows into the cloud of monsters. His volley tore through the arcane elemental swarm formation with a rippling cascade of light and death magic, detonating in brilliant flashes of spherical energy. Arrows punched through the flying prisms, tearing into the ones behind them as his bow delivered destruction and curse magic across the skies.
+
+“Another wave,” Ali said, and he saw it immediately.
+
+As it spawned, the remainder of the first flight began to assemble, dozens of elementals clumping up and attaching to one another like a three-dimensional aerial jigsaw puzzle. Purple light blazed from within as the collection accreted more and more shards until a jagged ball the size of Mato hovered above them, spinning in the air.
+
+Then it exploded.
+
+“I’ll take care of the fliers,” Calen said, deftly dodging the blast of sharp purple shrapnel and tallying the number of shattered monsters that rained from the swarm from his first volley.
+
+“I’ll toss in a few fireballs,” Ali said. “That explosion was rough.”
+
+“That will be good,” he said, nodding. “Everyone else, target the boss. And, watch out for surprises!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

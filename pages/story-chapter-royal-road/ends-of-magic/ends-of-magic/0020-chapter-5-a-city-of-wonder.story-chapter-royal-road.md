@@ -1,0 +1,195 @@
+---
+id: e3349d96-521c-517a-b586-f90438c5e485
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: A City of Wonder"
+slug: 0020-chapter-5-a-city-of-wonder
+partOf: ends-of-magic
+position: 20
+ownLength: 3088
+unit: words
+ownProgress: 3088
+publishedAt: 2025-07-21
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2453930/chapter-5-a-city-of-wonder"
+royalRoadId: "2453930"
+markedReadAt: "2026-06-29T20:07:54.620Z"
+---
+
+Nathan’s exit from the palace was a quiet affair. It wasn’t so much that the security was loose or the entrance wasn’t grand, as that he was able to slip into the constant stream of people entering and leaving. Sarya’s palace was a place of government as much as it was a home for her and her guests. It was easy for Nathan to slide into the stream of people departing, their business done. His clothing was plain and undecorated compared to theirs, and nobody paid him much notice.
+
+He slowly crossed the huge causeway linking the palace to the rest of the city, taking his time to appreciate the sights. The thoroughfare was wide enough for an interstate highway, but most of it was taken up by decorative trees and flowers. It was also studded with disguised defensive features, and Nathan could detect at least half a dozen fortifications that would magically sprout from the ground if given the command. It was a bit sobering to walk over a lush park and know that it could turn into a multi-layered defensive killzone with the push of a button.
+
+The causeway also sloped down towards the city itself, giving him a grand view of the city of Keihona and its rising towers. It reminded him of the metropolises of Earth, with a forest of skyscrapers reaching for the sky. However, these towers were in dozens of architectural styles that did more to convince Nathan of the city’s age than any number of towers or size of population. Many of the grandest cities of Earth had been built in a relatively short period, and as a result, the buildings shared a small number of common styles. There were towers of Keihona that were similar to one another, but the total range was significantly larger than anything on Earth.
+
+About a third of them were made from metal and glass, with a couple in the reflective box style that most residents of Earth would be familiar with. Others had a look more reminiscent of something he'd describe as art deco, but still more were harder to categorize, looking like bundled noodles or interweaving spirals. The weirder ones made wide use of other materials, with stone just behind glass before it moved into more exotic and magical substrates, including one that looked like a shifting mass of water moving in a slow-motion waterfall. A few more were constructed entirely of permanent force magic, and there were a half-dozen that appeared grown out of various kinds of trees.
+
+Forget the game. I want to explore this place, though I probably shouldn’t play tourist in any secure areas.
+
+Nathan set his sights on the waterfall building and started making his way towards it. His attention jumped around from place to place as he wandered the streets, noting the diversity of people and the character of different neighborhoods. Keihona wasn’t a perfect utopia. There was trash on the streets, and some sort of social hierarchy where people with fancier clothes carrying a greater number of decorations expected those with fewer to cede right of way. The social rules were complex and strange, and Nathan watched a group of older men in guard uniforms give way to an elderly birdfolk matron wearing a long burgundy wrap festooned with golden beads in the shape of gems.
+
+He was also enthralled by the number of species wandering the streets. Gemore had its own share of different peoples, though they were overrepresented in the Adventurers' guild. But Keihona was a cosmopolitan metropolis, and while humans were in the majority, there were always several nonhumans around, usually dressed in much the same clothing. Orcs, birdfolk, and other animal-peoples were the most common, but Nathan saw a few elemental-folk, as well as a couple of treeborn navigating the street. Seeing the big elk-centaurs gave him a flash of grief for Artha, but it was quickly suppressed by the wonder he felt at the city around him. There were even others that Nathan didn't recognize, including a group of the short orange-skinned knuld and a single tall man with pointed ears.
+
+Then he noticed that the guardsmen who'd just let the birdfolk woman by were casually working their way closer to him, and he remembered the second part of the game. It wasn’t just that he was trying to sneak towards a guard captain. The guard was also trying to catch him. He changed course, angling for a side road that would take him diagonally towards the building that was his goal. The guards didn’t accelerate in response, but they did casually change angles to follow him. He sped up, walking quickly and dodging around various groups of people with supernatural precision.
+
+He made it into the smaller street and sped up even further, easily slipping through the crowded alley. A quick look back showed that the guards were only at the mouth of the alley and spread out. They’d given up their attempt to be stealthy, and every single one was watching Nathan carefully.
+
+They’re chasing me, but not with the intent to actually catch me? They're driving me towards something.
+
+He ran forwards, minding the crowds and pushing his perception skills as he stayed ahead of the pack. He spotted the upcoming ambush and leapt skywards as a group of people walking in his direction suddenly reached for him. He soared over them, grinning down as they watched him fly overhead.
+
+There was a flash of motion in the corner of his eye as somebody launched themselves around the corner of the building. He bounced upwards to dodge, but they redirected in midair to tackle him regardless. The two of them flew into the nearby wall and then fell heavily to the ground. The impact stung, but it wasn’t enough to hurt Nathan at all. He leapt to his feet, the weight of his assailant disappearing as the young woman stood in front of him, grinning with a hand outstretched.
+
+Nathan rolled his eyes and sighed, then reached into his pocket to pull out one of the slips of paper. “Here.”
+
+“Thank you well!” She responded cheerfully, then eyed him up and down with a quick flick of her eyes. “I’m Bathilde. Drink with you later?” Her eyebrows bobbed flirtatiously.
+
+Nathan gaped at her for a moment, then looked over her shoulder to where the other guards were closing in. His eyes narrowed. “Maybe. Come to the palace and ask for me.” Then he darted past her, bounding up and over the approaching line of guardsman. They threw out a couple of thin lines of thread to catch him. The ropes bore enchantments of strength and binding that would make them animate and bind him when the bearers commanded it.
+
+Nope. None of that. If they use fancy toys to catch me, they’d better be ready to lose them.
+
+His aura broke the enchantments on the ropes, and he touched down on the next street over. There was less traffic here, and a clear path down the road. He took off at maximum speed, spending Stamina quickly to blast away from pursuit faster than a horse could run.
+
+A few more guards scattered around the area gave chase, but they couldn’t catch him. Several were able to keep up for a little while, demonstrating similar bounding movements to the young woman who’d first caught him. But now Nathan knew of their abilities, and they were trapped in a stern chase. It was a game of endurance and finding clear paths through the city. They knew the city, but he had a nearly bottomless well of Stamina, and his abilities were just better at the long chase.
+
+Still, it left Nathan reevaluating the terms of the game he was playing. He wasn’t going to be able to play tourist and take his time scoping out the city before picking his targets. He was playing an active game of cat and mouse with the entire city’s worth of guards. At least the stakes were lower than the last couple of times it had happened.
+
+This is just a regular occurrence in my life, isn’t it?
+
+Nathan spent the next few hours gathering information. Some of that information was about the guards, their Insights, and their patterns. But most of it was on the sights and attractions of Keihona, even if he was barred from some of the most extravagant portions of the city. Not because the city guard were hunting him, though they certainly were, but simply because magic was built into the very structure of Keihona in a way Nathan had not even seen in the Ascendent Academy.
+
+The skyscraper made of water was exactly what it looked like from a distance. Bubbles of water rose and fell in a giant cycle, and you could enter into a bubble at the bottom and be carried up into the sky while enjoying the relative weightlessness of neutral buoyancy. There were layered enchantments on the whole structure to make the water breathable and allow conversation, and further magic on the exits dried people out thoroughly before they left. It looked like there were several specialist restaurants and clubs in the larger bubbles, while the smaller ones were high-end meeting spaces and a few miscellaneous businesses.
+
+But none of it was for Nathan, because his antimagic would prevent him from breathing the enchanted water. He could probably make do with Stamina, but if his aura slipped, it could break the enchantments and drown everybody in the observation bubble. Several of the other spots were like that as well, with a tower made of flowering plants not only suffused with enchantments to nourish and guide plant growth but structural enchantments to help the greenish shoots support the weight of a thousand-foot tower.
+
+The discovery didn’t discourage him, and neither did the groups of guards roaming the city. They had some kind of Insight to pierce disguises, and every time they spotted him, they set a perimeter and slowly tightened it. But Nathan was able to evade them every time, usually by hopping over a building or sprinting down a street far above their heads. He slipped detection magics and punched through anti-flight magic trivially, and he could almost see the steam venting from the guards’ ears as he evaded each of their standard procedures in turn.
+
+Finally, he found what he was looking for in a tower formed out of living wood. Nathan couldn’t tell if it was a single tree or a collection of them that had been sculpted into the shape of a residential tower. Regardless, it wasn’t heavily enchanted and probably would have stood and lived for decades even if every piece of magic was stripped out of it. He was still cautious to keep his aura pulled in as he ascended the lift to the observation deck near the top. It wasn’t heavily frequented, and he felt comfortable examining the exotic skyline of Keihona for some time. From here, he could see down the other slope of the island, which revealed a whole new set of novel buildings in entirely new styles. He watched people surge through the streets for the lunch rush and felt awe in his chest.
+
+This is what civilization looks like on Davrar. It’s grand. The legacy of millions of people living well for thousands of years. A civilization allowed to grow and change over time.
+
+His next feeling was a close cousin of despair. It would be easy for him to seriously damage this place. He could destabilize more than half of these buildings by simply stripping out their enchantments, and almost a fourth of the surrounding skyscrapers would immediately collapse without magical support. He was sure that there were elites he wasn’t seeing, defenses that he’d only found hints of in deeply buried magics that were layered across the landscape. But if the Heirs wanted, they would be able to kill tens of thousands in minutes, or wreck the whole city in an afternoon.
+
+How do you possibly defend it all?
+
+Nathan suddenly had a lot more tolerance for the customs inspection they’d gone through to enter the city, and the amount of trust he was being shown in being allowed to wander the city freely. More than anything, that freedom convinced him that Sarya wasn’t treating him as a puppet or somebody to manipulate. If she didn’t trust him to be reasonable and careful, then she wouldn’t have let him out to wander her city, where a single slip on his part could destroy a building that had stood for centuries.
+
+He was also willing to bet that the guard were using him as a training opportunity for their lower-level personnel. There was no way they were throwing everything they had at him. That thought caused him to look down again and catch a pattern in the flow of traffic around his building. They were locking down the streets around this building, and Nathan sighed.
+
+I suppose my little sightseeing trip is over. I should take the guards seriously and engage with Sarya’s game. She’s trying to help, and while the ingredients are a bit of a joke, the books aren't. I shouldn’t dismiss Quester-offered training.
+
+Nathan waited for the lift to come up one more time, carrying people wearing the distinctive guard-issued magical gear. Armor enchanted to be lightweight, a variety of lethal and non-lethal weapons, and some kind of magical communicator. The moment the doors opened, he turned around, made eye contact with the tigerman at the head of the guard contingent, and hopped off the edge of the observation deck.
+
+He caught himself less than ten feet down, pressing his body into one of the clefts of the wood and listening to the people above him swearing. One of them pulled out their enchanted communicator and started talking rapidly into it. Nathan didn’t listen to what they were saying beyond confirming they were talking to their captain. Instead, he focused his attention on the magical signal coming out of the device and worked on tracking down the other end of the link.
+
+It wasn’t easy to pinpoint the direction, as the signal was low-powered and had some kind of weird harmonics to it that Nathan was pretty sure were an encryption he didn’t understand. But he didn’t need to decrypt the device's signal. All he needed to do was follow it back to its source. He ran at an angle to the direction he was heading, flaring his stealth skills to avoid being spotted so easily. Then he dived down towards the building that he was pretty sure held his target. The nexus of the guard communications wasn’t in one of the well-marked stations, but rather in a cozy-looking pub.
+
+I'm not the only one who can be sneaky, I see.
+
+Nathan dropped into a nearby alley, took a second to catch his breath, and looked around for a disguise. There wasn’t anything obvious, but he saw a pair of buckets set outside the back door of the building he was trying to get into. He grabbed them and shouldered his way into the building, entering a hallway between the kitchen and the pantry. A member of the staff gave him a once-over, but his disguise skills and the buckets helped convince them that he belonged.
+
+He walked deeper into the building, glancing around and reaching out with his magical senses. Where the hallway met the main room, there was a serving counter with several platters of food on it. Nathan set the buckets down and snagged a tray of food, walking confidently up the staircase towards the concentration of guard-issued magic items. There was some kind of privacy spell over the upper floor of the building, and he'd guess that the upper floor had been commandeered to serve as a temporary headquarters.
+
+The moment Nathan passed through the barrier, he was assaulted by the sound of a loud argument. The occupants were clustered around a table already bearing several plates of food, though they were busy stabbing fingers and claws at a detailed map of the city that lay in the center. One of them was wearing the distinctive shoulder patches that Sarya had indicated, and Nathan placed the platter of food next to him with one hand while dropping the slip of paper down the neck of the man’s armor with the other.
+
+He got a grunt of acknowledgement for the food and turned to leave. Then Nathan’s [Forewarning] skill tweaked, and he ducked past a grasping hand and a yell from one of the others at the table.
+
+Then he was off, dashing down the stairs before most of the people in the room had fully recognized his presence.
+
+The rest of the day followed much the same vein. Nathan played a cat-and-mouse game with the guards, occasionally being boxed in by their coordination and those with the Insights and level to spot him despite his disguise. He still usually managed to escape despite that, his stacked mobility and dodging skills allowing him to slip out of any situation that wasn’t truly hopeless.
+
+He had worse luck getting to more captains and only managed it once more. He got tagged twice while trying to rush into the stations where more of them were hiding out. Still, the whole process was extraordinary training for Nathan’s stealth and disguise skills, and he got a couple of skill ranks.
+
+He also spent a few hours in the evening training with Ushia in hand-to-hand combat. He was actually slightly stronger and faster than the big woman, but she was still able to teach him a few tricks learned over a few millennia of experience.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 83381/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 564
+
+Regenerative Focus: 5460/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 3
+
+Mystical Discernment 4
+
+Forewarning 3
+
+Arcane Insight 4
+
+Evasion 1
+
+Mental Vault 5
+
+Tutoring 9
+
+Parkour 9
+
+Visibility Control 6
+
+High-tier Disguise 6
+
+High-tier Battle Cry 3
+
+Aura Control 5

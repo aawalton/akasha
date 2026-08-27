@@ -1,0 +1,129 @@
+---
+id: 54e6baf4-0d7f-515c-8407-7c84047e17b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 310: The Searing Arrows of Retribution"
+slug: 0347-chapter-310-the-searing-arrows-of-retribution
+partOf: dungeon-of-knowledge-complete
+position: 347
+ownLength: 1582
+unit: words
+ownProgress: 1582
+publishedAt: 2025-07-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2431811/chapter-310-the-searing-arrows-of-retribution"
+royalRoadId: "2431811"
+markedReadAt: "2026-06-29T20:22:20.246Z"
+---
+
+Calen was deep in the middle of a strategy debate with today’s discussion group which consisted of Aiden, Teagan, Belmar, and Brena, when the door slammed open.
+
+He turned to find a gasping, breathless Mieriel standing there, holding herself up by the door handle.
+
+“Calen… Lydia… Silent Assassin, back in town. She’s in danger!” Mieriel managed.
+
+“What?” Calen asked, struggling to parse the urgent message. And then, with a sudden horrific clarity, he understood. “My… mom is the mark?”
+
+“Yes!” Mieriel gasped, nodding vigorously, still struggling to regain her breath.
+
+Calen launched himself out of the room at a dead sprint, charging past Mieriel as his wings flared from his back. He downed a mana potion, taking off in the middle of the guild hall and flying out of the door traveling at maximum speed, ignoring the gasps and shouts of people scrambling to get out of his way.
+
+As soon as he emerged from the guild hall, he released all his motes of light, shooting them out in front of him, moving faster than even his fastest flight. He teleported, switching places with the furthest mote, resummoning it as he shot across the town.
+
+But he was halfway to his mother’s store before he registered that his Sense Prey was pulling him in an entirely different direction. He banked hard, and teleported again, shooting diagonally across the town, cursing the time lost to his careless mistake.
+
+Following his tracking senses, he alternated teleporting every time the recharge was up with maximum speed flight until he swooped down, landing hard in front of the new Silver Cog building.
+
+He threw the door open and burst into the room.
+
+Worthington snapped his head up to stare at his dramatic entrance, but his eyes saw only his mother, standing quietly beside Hilda at one of the alcoves. Relief surged through him at the sight of her standing there, perfectly fine and healthy.
+
+But then a ghostly outline appeared beside her, visible only to his unfamiliar realm sight, and his eyes widened as something gleamed. Before he could even move, a dark blade descended, and a vibrant crimson spray of blood stained the dark wooden paneling as if yanked straight out of her heart.
+
+“No!” He heard the scream in his own voice, but all he could do was watch the limp form of his mother slumping over and landing unmoving on the floor, a dark pool of blood forming rapidly under her.
+
+D… dead? She’s… no! She can’t…
+
+The brittle shards of his broken mind drifted down as he stood, stuck, staring at the horrific picture unfolding before him. A picture that couldn’t possibly be real. The still-hazy black-clad assassin turned to see him and grinned under her mask before vanishing in a cloud of dark smoke.
+
+It was the grin that did it. Even through the hazy mirage of the cloaking skill she wielded, her eyes had been clear – filled with a touch of pure sadistic glee at butchering his mother. The shards of his shattered mind crashed to the floor and the sounds of the room faded to a dull roar. All he could hear was the throbbing pulse of his own heart. He reacted on pure instinct, cloaking his body with Eclipse, and then reached for the fading wisps of whatever strange escape skill she had used to flee the scene of the bloody murder.
+
+His body shifted, and suddenly he was standing in a dark room, somewhere unfamiliar. Before him, the assassin stood, pulling her mask off, laughing as she did.
+
+“Come on, come on, give me my levels already,” she said, dancing around the room.
+
+Calen gritted his teeth and drew his bow, charging his stamina into Power Shot. He forced himself to watch her joy, etching the evidence of her cruelty into his heart, but it was his mother’s crimson lifeblood spraying into the air that filled his mind. When his charge was at maximum, he released his arrow.
+
+A deafening thunderclap split the room as his magic blazed forth. The arrow punched right through the center of her chest, picking her up and smashing her into the wall as Ambush triggered and Explosive Shot detonated simultaneously, amplifying his damage to the extreme.
+
+You have gained Onslaught.
+
+The assassin coughed once, staring at him in shock. Calen screamed as he unloaded volley after volley into her torso, ignoring the concussive damage from the close-quarters explosions, stopping only after the back wall of the building collapsed in a smoking heap of shattered stone. Belatedly, his chime confirmed the kill.
+
+You have defeated Silent Assassin – Beastkin – level 87.
+
+He ignored the rest of the notifications, triggering his teleport and reappearing beside his mother’s body in the Silver Cog building.
+
+“Calen! She’s still alive!” Hilda gasped, kneeling in the pool of blood beside her. “Get a healer!”
+
+What? His mind latched on to that sliver of hope. How? Mom? He fell to his knees, retrieving a healing potion into his shaking hands and force-feeding it to his unconscious mother.
+
+“Get a healer! Immediately!” Worthington exclaimed. “That girl! She purchased a Life Drinker poison yesterday! Get help!”
+
+“Life… Life Drinker?” Calen asked, his throat raw and painful.
+
+“It consumes maximum health! She’s going to die if she doesn’t get that poison cured.”
+
+Mato? Malika? He ranged out rapidly with Sense Prey, locating them somewhere down in the dungeon. Desperately, he shot his motes of light out, searching for the quickest way down. He gathered his mom into his arms, cradling her to his chest, and hurled himself out of the building flying as fast as he could toward the guild.
+
+Please don’t die! Please don’t die!
+
+He shot through the guild hall, down the stairs, and through the teleportation circle, trailing shouts of alarm in his wake, appearing finally in the grand library. He could feel his mother growing weaker in his arms as her warm blood soaked his armor despite the healing potion that labored to heal the grievous wound in her back. Following his tracking senses, he found Mato and Malika, and shot off in their direction, desperately wishing they weren’t all the way over at the shrine.
+
+He was still swooping down to land when Malika appeared in the air beside him, pulsing healing through both him and his mother. He landed hard, his legs buckling painfully.
+
+“Poison. Life Drinker,” he got out, pleading with the surprised looks of his friends for understanding. “Help!”
+
+Ali vanished, and in her place stood a golden-yellow-scaled kobold acolyte. It did something with holy mana, and his mother’s body relaxed in his arms, and then both the kobold and Malika healed her again, while Mato finished his transformation to Tree Form, spreading the ghostly white fire of consecration throughout the area.
+
+A few moments later, Ali reappeared.
+
+“Quick thinking on that Cure spell, Ali. The poison is gone,” Malika said. “But she’s really weak, it looks like it left a serious drain effect.”
+
+“Mato should be able to fix that, right?” Ali said.
+
+“Yes, but it will take some time. We should probably have Lamyndra look at her too,” Malika said. “Calen? Are you ok?”
+
+“No,” he said, his knees giving out under him and dropping him clumsily to the ground. “I don’t think so.” What else could he say? He had just seen his mother assassinated, and he had been powerless to stop it. It was a miracle of luck that she was still alive. She was a Tailor without the benefits of armor or defensive skills, not a combat class. Against a level eighty-seven assassin, she should have died instantly, poison or none. How had she made it?
+
+“It was her, wasn’t it?” Malika demanded. “The Silent Assassin?”
+
+“Yes–”
+
+“Did you let her get away?”
+
+Calen shook his head roughly. “No. I tracked her down. Finished her.”
+
+“Good.”
+
+“Malika… when she died,” Calen said, forcing the words around the constriction in his throat as he recalled the gruesome scene he had wrought with his own hands. “When the disguise skills failed… she was a feline Beastkin, not human.”
+
+Malika stiffened immediately. “Tala? So Mieriel was right? It was really her?”
+
+Calen nodded, not trusting his voice. It explained so much about that first day when they had been trapped down underground. When they had been abandoned to save Ali from the wolves on their own.
+
+“I fucking knew she was shifty,” Malika growled. Then she took a deeper breath. “At least it’s over, now.”
+
+Calen felt a tremor and glanced down. His mother’s eyes flickered and then opened, staring up at him, still cradled in his arms.
+
+“Aah, my sweet boy,” she said. “Am I dead, then?”
+
+“No, Mom. You’re still alive, they were able to heal you in time,” he said, his throat constricting painfully from his chaotic emotions.
+
+“I think I know how you survived,” Ali said, smiling down at Lydia. “That dress you’re wearing is a level one hundred Frostweave Tailoring robe with vitality and endurance enchants. I think you might just be smarter even than your brainy son.”
+
+“Oh, she’s always been smarter than me,” Calen said, caring nothing for the tears that flowed freely down his face. He gazed down at her and said, “Please don’t do that again, Mom. You scared me.”
+
+His mom just smiled up at him, her body still trembling. “So –” she coughed weakly “– I should probably call and cancel next week’s assassination attempt, then?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

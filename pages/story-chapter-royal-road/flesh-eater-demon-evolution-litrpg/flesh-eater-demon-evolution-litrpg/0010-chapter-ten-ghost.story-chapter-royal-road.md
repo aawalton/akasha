@@ -1,0 +1,173 @@
+---
+id: 45c66505-17ea-5533-bdb2-c5de1a1d6d92
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ten: Ghost"
+slug: 0010-chapter-ten-ghost
+partOf: flesh-eater-demon-evolution-litrpg
+position: 10
+ownLength: 2707
+unit: words
+publishedAt: 2025-08-24
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2544718/chapter-ten-ghost"
+royalRoadId: "2544718"
+---
+
+As Pyre approached the weird floaty orb, the murmuring grew louder, and it soon became clear that she had 0 idea what the fuck it was saying. It wasn’t like the system pre-intelligence boost; there were words there, albeit very slurred ones, but none of them made any sort of sense put together. It was just a random mishmash of sounds.
+
+Slowly, she grew a long bone from her body, eyeing the orb. She couldn’t make out any additional details, yet—it really did just look like a translucent silvery sphere. She could even see parts of the forest ground through the substance. It still hadn’t moved from its spot despite her getting closer and closer. Well, Pyre thought. Time to see how long that lasted.
+
+In one quick motion, she shot the bone spear straight through the orb. It passed through as seamlessly as it did air.
+
+She raised one of her fresh new eyebrows. The sphere remained perfectly intact, pale substance unperturbed by the bone currently stabbing it. And it still didn’t move. Fully incorporeal, it looked like. Its lack of a distinct smell also backed that theory up. Interesting.
+
+“Hey,” Pyre said. Her voice was a little scratchy from disuse, but it was still the same low and rumbly timbre. “What the fuck are you?”
+
+Nothing. The mumbling didn’t stop, either.
+
+Well, that settled it. She retracted the bone spear and moved around so she was directly in front of the orb. The way she saw it, there were two main options here. If this was some kind of weird creature, it was either ignoring her or too dumb to understand what she was saying. Or, it wasn’t a living being at all and another weird magic thing. Her current theory was option one, the too dumb to understand sub-theory.
+
+Why? Because now that she was less than a foot away from it, she could just barely make out what looked like a face within the translucent orb. A human face. Fairly young, too.
+
+“You wouldn’t happen to know what’s up with that chimera and ichor stuff those humans were talking about, would you?” she said conversationally.
+
+Very, very slowly, those eyes shifted up to look at her own two active ones. The being looked confused.
+
+“ …know…?”
+
+Pyre gave the creature a long look. “Can. You,” she began, deliberately emphasizing her words, “understand. Me?”
+
+“…stand?”
+
+Pyre briefly considered abandoning the orb altogether and making her way to the village, but she was admittedly curious about what this thing was. And more importantly, if she could get an actual conversation out of it, she might be able to answer a lot of her questions here and now. She couldn’t eat the thing, after all—it wasn’t flesh. Might as well try and get something out of the situation.
+
+She shifted her body, morphing some flesh into a vaguely arm-like shape before remembering she had the [Skeleton] and [Ligaments] subtraits now. Focusing, she attempted to grow a bone and imagined it pushing through the flesh. Halfway through the appendage, she attempted to create a joint as well.
+
+Making internal bones, it turned out, took significantly more time and energy than her usual random external bone growths. But the orb wasn’t going anywhere, so she was in no rush. Plus, the added effort made it extra satisfying when she finally managed it. She now had a less floppy limb thing that she could move and bend like an arm, albeit an extremely misshapen one. It turned out her random memories of her old life did not include perfect knowledge of skeleton bone shapes. Whatever, it did the trick.
+
+With her new sort-of-arm, Pyre gestured to the dead bodies behind them. If the thing couldn’t understand her words, maybe it would react to visual information. Maybe she could shock it into full consciousness.
+
+“Look.”
+
+All she got was a blank stare. Pyre met the gaze evenly before swiftly coming to a decision.
+
+“Nope, not dealing with this.” Her eyes swiveled around to stare vaguely up at the sky. Surely an omnipotent being like the system would hang out in the sky and not, like, the ground or something. “Hey,” she called out. “Can I transfer points?”
+
+No response. She raised an eyebrow. “I know you can hear me. You’re literally omnipotent.”
+
+Still nothing. Damn, maybe it had grown a backbone since the last time they’d talked. She was almost happy for it.
+
+Whatever, she could figure it out herself. Turning back to the orb, Pyre mentally pulled up her stat sheet, focusing on her remaining 15 points. She eyed the creature critically. It had some degree of awareness, definitely more than a lot of those flesh lumps in the pit had had. She estimated its intelligence was at, like, a 5 or something right now, if 10 was the universal “standard” amount.
+
+Keeping a close eye on the orb, she attempted to transfer 5 points over to the strange creature. She grinned when a notification soon flashed across her vision. Success.
+
+[15 total points available. Transfer 5 points to [Unknown]?]
+
+She mentally selected yes. Her free points dropped down to 10, and a small flash of light passed over the sphere. The eyes blinked. Pyre waited, curious to see what would happen now.
+
+When he first came to, the world was fuzzy. That was the best way he could describe it. He was vaguely aware of various sensations and images, but they were all a blurred soup in his brain. He felt like he should be doing something, like there was something he was missing, but everything was a jumble. Thinking felt like slogging through mud. Nothing made sense.
+
+Then something flashed across his vision. It was immediately followed by a wave of warmth.
+
+When he blinked his eyes again, the world suddenly came into sharp focus. The persistent numbness in his head disappeared. The sounds and sensations of his surroundings separated out into distinct pockets of awareness. His memories cleared, and with them, the reality of his situation hit him like a ton of bricks.
+
+Panic settled in. His heart raced, except he couldn’t feel it beating. His breaths quickened, but he couldn’t breathe. Why wasn’t he breathing?
+
+Through the haze of terror and confusion, he was vaguely aware of someone talking. There was something standing in front of him—something that was speaking to him now.
+
+Shit. Shit shit shit. He needed to get a grip on himself. He could tell he was starting to lose it, but he couldn’t afford a meltdown right now. Not when he still didn’t know what was going on.
+
+Squeezing his eyes shut, he tried to force himself to calm down, to not think about the fact that he couldn’t feel his body or that the last thing he remembered were glowing eyes, sharp claws, and the feeling of getting ripped to shreds. He’d thought he’d died. He’d thought he’d died, alone in that cave where no one would ever find him.
+
+Finally, after what felt like ages, he managed to get his thoughts somewhat under control. The voice was still talking, a low, rumbling sound that he didn’t recognize. Okay, what was his current situation? Obviously something had caused him to snap back into awareness, and that probably had to do with the notification he’d gotten about the points transfer. Whoever was in front of him had evidently helped him out. That was good, right? He most likely wasn’t in immediate danger, then. In fact, he should thank whoever this was.
+
+He exhaled. He could do this, he told himself. He’d talk to this person, figure out what was going on, and then go from there. This wasn’t the first shitty situation he’d found himself in—he could handle it. He was good at that.
+
+Slowly, he opened his eyes and looked up. And up.
+
+And promptly screamed.
+
+Pyre turned off [Sound Perception] just when the screaming started. Her new ears stayed in place, she noted, which was pretty cool. It would’ve been annoying if she had to absorb and regrow them every time she needed to temporarily shut off her hearing.
+
+Speaking of which, she should probably do something to calm this thing (creature? kid?) down.
+
+“Hey, chill out,” she said, though of course she couldn’t hear herself talk right now. The floating orb’s face somehow grew even more terrified, so she assumed he’d heard her, even if he was reacting the opposite way she’d been hoping for. “I’m not gonna eat you,” she continued. In fact she literally couldn’t even if she wanted to, considering she couldn’t touch incorporeal things, but the being didn’t seem to know that and she wasn’t planning on telling him. She had to maintain some sense of threat, right?
+
+The translucent face’s mouth moved, forming the shape of words. She turned on [Sound Perception] again just in time to hear him sputter.
+
+“You’re a demon!”
+
+“Yes, I’m well aware,” Pyre drawled. “And you are a floating sphere.”
+
+The face looked horrified. “Oh my god you’re right,” he whispered. Ah, he was panicking again. Whoops. “I’m dead. I died. Oh my god I’m a ghost.”
+
+“A ghost?” Pyre perked up a little at that. “Those exist here?” It did match the incorporealness and the general translucent appearance, though she would’ve pictured something with a bit more form than a sphere with a human face in it.
+
+She squinted at the face again. It didn’t match any of the humans she’d just devoured, so this wasn’t one of her kills. However, the fact that he was a ghost and probably a former human meant he was even more likely to know the information she was looking for. That was good. She just had to get past this screaming phase first.
+
+The ghost apparently didn’t hear her, too busy freaking out. To his credit, he did seem to be actively trying to get a hold of himself, but every time his eyes darted over to her, he started panicking again.
+
+It occurred to Pyre that she probably looked a fair bit more terrifying to a suddenly awakened former-human-ghost than she’d first thought. She snorted. Well, she could sort of fix that. [Flesh Sculpting] had just gotten off cooldown, after all.
+
+She focused, and her flesh rippled. The ghost let out a little eep!, but she ignored him in favor of her skill. Carefully, she began to morph her body.
+
+Just when he thought things couldn’t get worse, the demon started moving. He froze, only able to stare wide-eyed as the giant mound of flesh in front of him began to contort.
+
+A ripple passed through the front of the demon’s body like a wave running through water. The creature’s two eyes were sucked into the monster’s flesh only to reappear a little above eye-level to him. They were smaller now, closer to the size of human eyes, and framed with arching eyebrows. Steely grey irises stared at him.
+
+One of the mouths warped next. Razor sharp teeth clamped down, folding in on itself until it, too, had been absorbed into the demon’s body. A new one appeared below the eyes, but this one had actual lips. The teeth were square and decidedly human-looking, nothing like the jagged terrors the absorbed mouth had held.
+
+The demon was still a giant mound of flesh. It still had bones sticking out of it and a second mouth with sharp teeth snapping menacingly above and a random appendage hanging off its side (was that an arm?), but on the front of its surface, it had formed an actual face.
+
+It didn’t look quite right. Little details were off, misaligned, misshapen. The entire face was uncanny, a stark reminder that what he was seeing wasn’t actually a human stuck in a flesh mound, but an honest-to-god demon who’d apparently decided to morph its features into something more familiar to him.
+
+“There. Better?” The voice sounded faintly amused, and even the mouth’s movements were wrong. He could only stare dumbly at the monster.
+
+A whirlwind of words flowed through him, different thoughts and questions kicking up a storm. But amidst the turmoil, what came out was: “You don’t have a nose.”
+
+The demon stared at him. He wanted to shrivel up and die. Could he even die a second time?
+
+He closed his eyes and waited for the inevitable end, for that looming mouth above him to clamp down over him and end his short-lived afterlife. But nothing happened.
+
+Carefully, he opened one eye, then the next. In front of him, the demon had somehow constructed a rough nose-shape in the center of its “face” using its flesh. It had even moved its two ears down closer to its eyes, though considering the size of its body, they were still nowhere near where human ears on a human head would be.
+
+“I’m assuming it’s crooked,” the demon drawled, “but I’m afraid it’s the best you’re going to get.”
+
+He didn’t know what to say to that. The demon seemed to take his silence as agreement and continued speaking.
+
+“I wasn’t kidding about not eating you, by the way. I’m a flesh eater.”
+
+A hysterical, disbelieving laugh bubbled up before he could stop it. “Is that supposed to make me feel better?”
+
+“Well, yes.” The demon raised an eyebrow. “I’ve got no reason to eat you. It’d be a waste of everybody’s time, and you’d probably taste like shit anyway.”
+
+He couldn’t help but feel vaguely offended at that, until he promptly remembered that he was standing in front of a powerful demon who could probably kill him before he took a single step. Floated a single step. Oh god he was a ghost—
+
+“Hey.” The demon’s voice abruptly snapped him out of his thoughts before he could continue down that train. “Don’t go panicking on me again, kid. You literally just stopped.”
+
+“I’m trying,” he wheezed.
+
+“Well try harder.” Those oddly flat grey eyes were still staring at him, but the demon hadn’t moved to attack him or anything like that. It was just… watching.
+
+“All I want,” the monster continued, “is to ask you some questions. Then you can go on your merry way with your new and improved intelligence and do whatever ghosts do. You’re welcome for that, by the way. Sound good?”
+
+A demon wanted to ask him questions. He briefly wondered if he’d gone insane. Maybe he’d hallucinated this whole thing. Maybe he’d wake up and realize he’d fallen asleep reading his spellbooks again, and this’ll all have turned out to be one giant nightmare. The chimera, the demon, all of it.
+
+Of course, even as he thought it, he knew it wasn’t true. His logical side won out, as it often did—the side now insistently pointing out that this was probably very real, and if he wanted to get out of this alive, he needed to get it together right now.
+
+He released a shaky breath. Maybe, he thought, if he just did what the demon asked, he would be fine. He didn’t have many options here. He seriously doubted he could run, not with the demon so close already. For now, he’d just play along and pray that was enough.
+
+“…Okay,” he agreed slowly. The demon smiled, and he resisted the urge to shudder. Combined with the flat eyes, the expression just looked wrong.
+
+The demon’s body shifted, and he belatedly realized that it was the same motion a human would make when cocking their head. The thought was so absurd to him that he almost burst out laughing right then and there, but he shoved the instinct down.
+
+“What’s your name, kid?”
+
+He blinked. “…You want to know my name?”
+
+“Well yeah. I can’t keep calling you ‘the ghost’ in my head, you know. I’m Pyre, for the record.”
+
+Pyre. It didn’t sound like any name he’d ever heard before, but he had no idea how demons picked their names. He swallowed.
+
+“Callan,” he said slowly. It felt weird to say it, a direct acknowledgement of who he was and what he’d lost. The demon repeated the name, as if testing it out. Its mouth rose in a grin.
+
+“Okay, Callan. So tell me: what’s a chimera?”

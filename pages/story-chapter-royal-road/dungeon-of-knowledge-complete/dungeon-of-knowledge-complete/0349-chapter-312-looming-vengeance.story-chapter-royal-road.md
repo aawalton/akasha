@@ -1,0 +1,111 @@
+---
+id: c889218d-a2a9-5241-9d8b-29121511c17a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 312: Looming Vengeance"
+slug: 0349-chapter-312-looming-vengeance
+partOf: dungeon-of-knowledge-complete
+position: 349
+ownLength: 2041
+unit: words
+ownProgress: 2041
+publishedAt: 2025-07-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2437107/chapter-312-looming-vengeance"
+royalRoadId: "2437107"
+markedReadAt: "2026-06-29T20:22:24.378Z"
+---
+
+“I’ll crush them all,” Kieran declared, fury making his voice low and quiet as he glowered at the rubble blasted out into the street.
+
+“You will do nothing of the sort, Kieran,” Jax said, his hard eyes piercing and uncaring as he picked his way through the debris of the partially demolished apartment and crouched down to examine the crushed and badly burnt remains of Tala Kane. “Remember your place. There is a reason we don’t get personally involved.”
+
+Kieran ground his teeth, biting down on his rage and frustration and the sudden, powerful desire to put the insufferable prick in his place. But that wouldn’t do – the Shadow Council would look poorly on him losing his temper and wasting a valuable asset. He forced himself to lower his gaze. The self-important idiot was right – if he acted personally, then one of the royals would be forced to respond. It might be Bastian or Hadrik, but either way, one of the platinum-ranked groups the kingdom kept on retainer would be sent from the capital to deal with him and then his entire operation here would be dismantled overnight. If Myrin’s Keep even survived the encounter.
+
+No, he would control himself. He must. Otherwise, he’d quickly find himself answering to Tala’s latest mentor, Indacus Argyle – or worse.
+
+“Come, let’s get some privacy,” Jax said, making Tala’s corpse vanish and leading the way to his opulent carriage.
+
+Kieran followed. But he was furious, and his rage had nowhere to go. Jax had been the one to suggest the plan, and now Tala was dead. He had spent so much time grooming and training her, and now it was all wasted.
+
+The Town Watch only got away with keeping the general populace in line because there was a constant litany of greater and more terrifying threats that the townsfolk faced, forcing them to rely on the Watch for protection. Threats that oftentimes were conveniently and covertly created by the Town Watch themselves, but that was beside the point. Unfortunately, he owed the Watch’s extensive latitude to Jax and his efforts to sway the Town Council.
+
+But even that was beginning to erode. With the recent rise of the Adventurers Guild, the Town Watch was rapidly losing ground, no longer given free rein over the interior of the city by the council edict that effectively forced Gerald Brand into defending only against external threats. Especially with newly minted platinum ranks sprouting like spring daisies of late. Even Jax’s businesses must be suffering tremendously with the introduction of the Silver Cog and their blasted Auction House.
+
+He shut the door with a bang and felt the carriage lurch under him. “It all comes back to that fucking dungeon,” Kieran growled. The guild was supported by the dungeon, and all the crafters were turning against him and Jax, attracted by the unconstrained growth the dungeon promised. This, in turn, was driving the ridiculous growth of Vivian’s annoying Adventurers Guild and the meteoric rise of her political power in town.
+
+“It does, indeed,” Jax nodded.
+
+Hence Jax’s plan of killing the crafters. The idea had been perfect – kill the evolved crafters, making Myrin’s Keep unattractive to Silver Cog. Once they left, their monopoly on shipping in and out of the town would be reestablished, and dominance over the town would be assured.
+
+His instrument had been perfect. But they had killed Tala.
+
+He took a deep breath, calming himself and tuning out the churning wheels in his mind. “So, what are we going to do?” He had no desire to let them get away with dismantling all his hard work over the years, and he was certain Jax must feel the same way. But if he couldn’t personally kill them all, he couldn’t see how Jax was going to pull it out of the dumpster.
+
+“The plan is still the same,” Jax said, wearing an insufferable grin. “There’s just one dungeon to take care of first.”
+
+“I know that,” Kieran hissed. “How?”
+
+“The kingdom keeps several platinum-ranked adventurer groups around for disasters, cleanup, and extermination,” Jax said cooly, echoing a thought Kieran had already considered.
+
+“Yes, and we want to avoid having them dispatched here,” Kieran answered. “I know. I will control my anger. You don’t have to tell me twice.”
+
+“No, that’s the beauty of the plan,” Jax said, a wicked smile curling his lips. “I want you to hire them.”
+
+“What?” Kieran exclaimed, surprise cracking his control. Jax wanted him to keep a lid on it so those groups would not be sent, but now he was asking to hire one?
+
+“It’s elementary,” Jax said, leaning backward in his seat and placing his hands on the back of his head, in a relaxed posture. “What do those groups take care of for the kingdom?”
+
+“Uprisings and revolutions. Wiping out mafia organizations like ours, extreme dungeon breaks, and rogue dungeon exterminations,” Kieran answered, listing the normal challenges from memory. But then he stopped, suddenly realizing what Jax was after. “You want to hire them to kill her?” he asked.
+
+“Exactly.”
+
+Obviously, Kieran could deal with Aliandra himself, but such action would blow his cover and draw the threat of those very exterminators to his doorstep. However, the kingdom kept those groups primarily for taking care of big threats nobody else could handle – and none came close to the danger of a rogue dungeon. All they had to do was explain and prove that there was a sentient rogue dungeon lurking below Myrin’s Keep and it would be taken care of for them. The setup would be easy enough. The only problem – besides the risk of bringing that kind of scrutiny down upon their heads – was… “Where the fuck are we going to get that kind of money?” he asked. “I know you don’t have it anymore, not since the south road was shut.”
+
+“Use this,” Jax answered, retrieving a two-foot-tall black obelisk and pushing it across the leather seat toward him.
+
+Shrine of the Second PathAn artifact of elvish construction. Offers class experience and an alternate class choice. Owner: --Mana: Unlock class experience.Mana: Unlock an alternate class.Created by Nathaniel Sunstrider.Shrine – Artifact
+
+“That’s Turner’s shrine,” he said softly, staring at Jax in surprise. Kieran barely tolerated the insufferable man, but this plan… this was genius. There was little they could come up with to entice a platinum-ranked team that regularly delved into the hardest dungeons. Perhaps he could offer his spear, but he would rather die than cripple himself that way. An unbound shrine artifact, on the other hand, was worth an unbelievable fortune on any market and would attract an extreme amount of attention. Merely by possessing it, Jax was taking an incredible risk. The assassination of William Turner had been perfect, and nobody could have tied Tala’s work to them, the only flaw being Jax’s insistence on retrieving the bloody shrine.
+
+This plan, though… a perfect way to unload a hot shrine discreetly and simultaneously purchase the kind of overpowered force that would turn this Dungeon of Knowledge into a smear as easily as swatting a bug. Kieran met Jax’s firm and determined gaze with grudging admiration.
+
+“I want Aliandra and her dungeon wiped out, and I’m willing to pay even this much. Take care of it.”
+
+“The road is still closed though; the couriers don’t know when it will be open.” The idea was perfect. Every adventurer or mercenary they had sent down there had been killed or driven off, but Myrin’s Keep did not attract the kinds of people who would be able to take care of it easily. They would just need to find some way to get their quest placed in the capital city of Southport.
+
+“That’s the beauty of it. With Silver Cog in town, we have access to private and secure courier services,” Jax answered, his grin expanding broadly.
+
+Kieran’s smile came to his lips almost instantly. “I sense a change in the weather, don’t you?”
+
+“Seems inevitable.”
+
+Malika stepped through the teleport circle appearing in the receiving locus in Vertias. Her stomach barely lurched anymore, having rapidly grown accustomed to the sensation of teleportation after unlocking her own skill. A shimmer and flash of gold appeared, and she dodged the small dragon appearing in front of her face.
+
+“No monsters in Vertias,” the official declared with a superior, overbearing tone. The attitude vanished in an instant, however, making her wonder if he might not have tried to identify her and instantly repented of his ways.
+
+“This is a minion,” Malika said, reaching for the Glitter Dragonet and placing it on her shoulder. There was no reason for him to know that it wasn’t her minion.
+
+“Very well, see that you don’t let it bother anyone,” he said, with a tight-lipped smile.
+
+“Will do,” Malika answered, wondering just how bored he must be if that made him disappointed as she walked by and left the building. It was early morning in Vertias and already the street vendors were busy, hawking the day’s wares to whoever happened to be passing by, but she had little interest in what they offered. Orienting herself quickly by the view of the mountains to the north, she stepped into the air and took off at a high speed, sprinting as steadily as if she were on the road below. The poor little dragonet screeched and launched itself into the air, eyes flashing with annoyance at her sudden movement.  Then it seemed to take this as a game and wheeled around, giving chase on its golden wings and trailing a subtle hint of mana that sparkled in the sunlight.
+
+The north road flew by below her feet, empty of all but the hardiest and most desperate merchant wagons, a testament to the poverty of the Ahn Khen villages that lay nestled among the harsh mountain peaks up ahead. But Malika wasn’t nearly done. Watching her stamina carefully, she began to spend more and more on her Divine Step, pushing her acceleration faster and faster. The countryside began to blur by the time she outstripped the ability of her vastly enhanced stamina regeneration to replenish the cost – but she simply started converting mana to stamina to replace the deficit, accelerating faster and faster.
+
+A few moments later she stopped, letting the frustrated little dragonet catch up to her. Her new Relentless aptitude wasn’t nearly as powerful as it had been an hour into battle, but with all her regeneration and resources, it still allowed her to push her speed to levels unheard of.
+
+“Hang on, little one,” she said, placing the Glitter Dragonet on her shoulder again, not minding the tiny sharp clutching claws poking at her skin through her shirt. Soul Armor was more than its match. The dragonet wound its tiny tail securely around her neck before Malika took off again, this time holding Ali’s little minion for added security.
+
+***
+
+In the cataclysmic battle, Ciradyl had fallen to the forces of the Blind Lich, but although she had personally witnessed enormous destruction and death, Malika tried to console herself with the fact that her skills, particularly Clarity and Healing Mantra, had been crucial to their strategy. Without her abilities, most of the elves they had saved would most certainly have perished in fear as the corruption consumed them – and quite possibly, she and her friends would have died there too.
+
+I just hope Elder Rezan approves. With nothing better to do along the monotonous dusty road, Malika reviewed her notifications.
+
+Eyes of the Soul has reached level 103 (+3).+30 attribute points.In the aftermath of this fight, she had broken from her long-standing attribute strategy and instead focused on her core. She had spent five points on endurance, ten on wisdom, and the remaining fifteen on dexterity.
+
+Martial Artist has reached level 49.Soul Strike has reached level 54.Healing Mantra has reached level 67 (+3).Perfect Body has reached level 36.Soul Armor has reached level 46.Divine Step has reached level 51.Clarity has reached level 35 (+3).Soul Sight has reached level 31.Appraise has reached level 27.
+
+All good. She sprinted onward, fixing her eyes on the mountain pass up ahead that would take her to Kezda.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,251 @@
+---
+id: e8bf1059-7e5f-564a-a61c-b8a6eac1384c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 307: The Ashes of Ciradyl"
+slug: 0344-chapter-307-the-ashes-of-ciradyl
+partOf: dungeon-of-knowledge-complete
+position: 344
+ownLength: 4650
+unit: words
+ownProgress: 4650
+publishedAt: 2025-07-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2426709/chapter-307-the-ashes-of-ciradyl"
+royalRoadId: "2426709"
+markedReadAt: "2026-06-29T20:22:13.334Z"
+---
+
+Calen slumped to the floor as the magnitude of what he had just survived bore down on him with a weight that made his heart wrench and stutter. While there had been monsters in his sights, in the thick of things, he had been able to ignore it all and maintain a clear focus and purpose. Still, as soon as Ali’s teleportation conduit to Ciradyl had collapsed and the last of the banshees and wraiths had been dealt with, there had been nothing else to distract him. The full import of what had just happened slammed into him at the sound of Coria’s grief-stricken wail, sending his emotions into a tailspin.
+
+Nendir… how… He had been holding off the Blind Lich, allowing them all to escape, but he had not appeared through the teleportation locus after Ali and Malika arrived. Calen couldn’t believe it – his eyes kept returning to the wreckage of the locus, desperately hoping…
+
+In the short time Calen had known him, the master archer had become so much more to him than merely an instructor. He was someone who believed in him and his skills, who supported him when very few others would, and was a fantastic role model. He gritted his teeth, struggling to hold back the tears as Coria cried.
+
+And now he was gone.
+
+Taken from this realm by someone who Calen had considered a role model, too. Nathaniel Sunstrider, Archmage and Guildmaster of the Pathfinders Guild; his betrayal twisted in Calen’s gut like a poisoned dagger.
+
+Dimly, he was aware of Mato sitting slumped against the wall beside him, but his friend simply sat, keeping him company in silence as he struggled with his feelings. Even though he didn’t say a thing, Calen took a small measure of comfort in his presence and the soft, ambient vitality of Mato’s aura washing over him.
+
+Ciradyl. It’s gone.
+
+His eyes had seen, but his mind couldn’t even begin to grasp the scale of the tragedy that had unfolded before him. He had gone from admiring the pristine Well of Souls to watching the last Ciradyl tree succumbing to the corrupting influence of the Blind Lich’s spell. He had witnessed the death and profane raising of Nathaniel Sunstrider. He had witnessed the birth of a dungeon in the heart of the Elves’ most sacred domain and the summoning of wraiths and elementals to brutally slay the innocent in numbers he couldn’t even begin to comprehend.
+
+All gone. It may not have been his home, but the wanton destruction of life beggared belief.
+
+He sat there wrestling with his grief for an unknown amount of time with Mato beside him, patiently offering the support of his silent presence. The receiving room quieted down, and when he finally looked up to behold the slag and still-smoking remains of the Myrin’s Keep teleportation locus, he found it mostly empty.
+
+His eyes met with those of Ali and Malika, still here, trying to help the remaining elves. And then he found Lyeneru, holding an inconsolable Coria, with tears running down her normally stoic face.
+
+There were no words, just pain and sorrow.
+
+***
+
+It was with a profound sense of dazed numbness that he got up to follow his friends out, heading toward the guild, but the mundane action offered a sense of energy and purpose. Following the force of habit, he pulled up the notifications from the fight, using the muscle memory to distract his mind once more.
+
+Realm Hunter has reached level 103 (+3).+30 attribute points.Radiant Archery has reached level 57.Arrows of Brilliance has reached level 59 (+3).Motes of Light has reached level 37.Blessing of the Dawn has reached level 43 (+2).Eyes of the Archon has reached level 37 (+2).Righteous Fury has reached level 37 (+3).Azrael's Wings has reached level 26 (+2).Mirage Armor has reached level 37 (+2).Howling Hellfire Bow has reached level 78 (+3).
+
+For the first time since he had earned his class, he felt that the skill and level growth was a cheap and tarnished reward, not worth what he had lost to earn it. It was with a sour taste in his mouth that he distributed his points, spending ten on intelligence and six each on dexterity and perception. The strength requirement for his bow had grown to one hundred and nine, so he distributed the rest of his free points evenly, allocating two to each of the remaining attributes.
+
+His notification chime made a hollow ding in his mind.
+
+Requirements met for skill advancement.Mentor: Lyeneru Silverleaf.Chosen path: Follow the Light.Mirage Armor has reached at least level 35.Received master instruction on advanced ranged combat.Faced a being of pure magic in combat.Mirage Armor gains Illusory Decoys.(You can create illusory images of yourself which last until dispelled)Accept this advancement?
+
+He stared at the requirements for his advancement with two conflicting emotions warring within his heart. On the one hand, the advancement was incredible, the result of his chosen path, combat skills, his mentor, and the advanced instruction he had enjoyed. On the other hand… his eyes dwelt on the ‘master level instruction’ requirement, knowing full well this would likely be the last time his advancement was influenced by Nendir’s inspired teaching and the wealth of his experience.
+
+Slowly, deliberately, he accepted the advancement and pulled up the skill descriptions, his eyes lingering on the changes.
+
+Mirage Armor – level 37Mana: Bending light around you, your body creates afterimages as it moves, making it significantly harder to hit you. Evasion is increased by +2198 [skill x 7 + intelligence + dexterity]. You are significantly harder to see, and your mana is cloaked from the perceptions of your enemies, granting an additional +37% [skill] to Resistance. Reserve: 10%Mana: Conjure up to 4 [1 + skill / 10] illusory images of yourself. The images can be directed to mimic your typical movements, skills, and attacks, and last for the full duration, or until dispelled or damaged. Duration: 3.7 [skill / 10] minutes.Light, Defense, Illusion, Stealth, Intelligence, Dexterity
+
+Nendir, I will put your teaching to good use, he vowed, clenching his fist by his side as he lengthened his stride to keep up with his friends.
+
+Mato glanced over at Calen as they walked, his heart filled with worry for his friend. The events in Ciradyl had been horrific, a tragedy of immense proportions that seemed to have hit the half-elf with all the force of a collapsing mountain.
+
+For Mato, he had felt the death and struggles of every Elf within his aura, but he had been mercifully blind to everything that occurred beyond, shielded by the nature of his Elder Tree senses. Even the trauma of all that death and destruction had been muted, blurring together as they had fought for survival and safety. One thing was certain, the strange meditative calm he experienced while shifted into a tree had shielded him, blunting the sharp blade of trauma.
+
+Blunting, but not blocking…
+
+In the end, the several thousand people they had saved had been a small fraction of the once-vibrant and bustling capital of the Wood Elf nation, and he was certain all the unnecessary death and destruction would haunt him for a long time.
+
+Mato straightened up, and for the first time in a long time forced his stride to slow down and match his friend’s. Calen had been personally invested in Ciradyl; both Lyeneru and Nendir had been beloved mentors and teachers for him. In the elven city, he had found a place to grow, a direction. He had begun to blossom at the Elven Pathfinder Guild under the guidance of its Guildmaster, Nathaniel Sunstrider.
+
+Now, Nendir was dead, and the Archmage had betrayed everyone, turning to the side of the evil Blind Lich with disastrous consequences. Mato couldn’t even begin to imagine the impact this would have on the world.
+
+They headed down the street toward the guild in silence, everyone deep in their own struggles. He had no idea what to even say to comfort his friend, but he could feel the hurt and grief deep within him.
+
+But as he was struggling to figure out what to say, Calen finally broke the silence.
+
+“Mato, do you mind sharing your skill levels?”
+
+He had his notebook out already, and while such a request seemed overly trivial and mundane in the face of what had just happened, Mato knew his friend was trying to reconnect to something familiar. And this he could easily do.
+
+“Sure,” he said, opening his notifications and sharing them.
+
+Elemental Shapeshifter has reached level 103 (+3).+30 attribute points.
+
+“How are you going to spend them?” Calen asked. It was a level of detail he often skipped, but Mato didn’t mind.
+
+“Nine for vitality, and eight each for strength and endurance,” Mato said.
+
+Calen scribbled the numbers down and then asked, “What about wisdom?”
+
+“Two,” Mato said. It was low for one of his primary attributes, but he would see how it worked and adjust next time. “One each for all the others.”
+
+“Even intelligence?” Calen asked, no hint of his usual joking present in his voice.
+
+“Yeah,” Mato said. “I was struggling a little with the number of targets in my aura. I think intelligence is a little more important in Tree Form.”
+
+“Makes sense,” Calen said. “What about skills?”
+
+“Here,” Mato said, sharing them.
+
+Arboreal Sanctuary has reached level 47.Swipe has reached level 57.Brutal Restoration has reached level 57.Bear Form has reached level 54 (+2).Rampant Growth has reached level 25 (+2).Bestial Combat has reached level 45.Natural Prowess has reached level 43 (+2).Survival Instinct has reached level 53 (+3).Battle Trance has reached level 37.Last Stand has reached level 19.Identify has reached level 18.
+
+“Not bad,” Calen offered.
+
+“We’re all growing,” he said, pushing the door to the guild open and letting his friends enter. One thing was certain, the ripples from today would take a long time to process. For all of them.
+
+“Ok, let’s get to it,” Ali said, floating beside the enormous shoulder of her berserker troll and surveying the ruins of Dal’mohra. Her eyes took in the dark, slowly crumbling stone that had once been the finest of dwarven crafting, but her memories overlaid her vision with the recollection of what the bustling city had once been. I can’t even hope to give them that glory, she thought, but she had the feeling that the ancient city would approve of her resurrecting it from the ancient crypt it had become to house the Elven refugees.
+
+“What do you require of me, Seeker?” Tol’brekk asked, his rumbling voice so close to her body sending a palpable vibration through her bones.
+
+“Keep watch, and keep me safe from any intruders,” she said.
+
+“Of course,” he said, bowing his massive, tusked head. Then he took his axes and barked a few orders, organizing the other trolls in Ali’s bodyguard and whipping them into a serviceable defensive formation.
+
+Right. Ali rolled up her sleeves and her domain all around her surged to do her bidding. The first thing she did was unleash a slowly widening pulse of deconstruction that washed across the ruins as she slowly floated down the remains of the main thoroughfare, erasing the dirt and buildup of millennia. Rubble, remnants of bone encrustations, ancient kobold eggshells and nests, all yielded to her mana, evaporating in a strangely beautiful ring of mana motes that slowly drifted up over the ruined buildings.
+
+Summoning her Grimoire to her left-hand side, she let her stone imprint flow through the entire district, filling in potholes and erasing the scored grooves of forgotten battles. Walls rebuilt themselves under her attentive ministrations, roofs regrew as she fashioned slate tiles to replace the ones that were missing. Entire buildings sprang anew from the empty lots, while sidewalks and staircases were fashioned from fresh combinations of marble and granite. She had the original stone imprint for all that had once been, but she put her own touches on the domain-induced urban renewal – it was too dark and depressing for her. Retaining walls and walkways snapped into existence, made out of golden barrier magic instead of stone, and yet still mirroring the ancient recollection that lingered now only in her mind.
+
+She was unable to duplicate the immense feat of magic that had once lit this city with an artificial sun, but she left large open spaces, parks in which she sprouted light-affinity mushrooms and trees to illuminate the new refugee town.
+
+In this way, Ali slowly swept her way through the residential district, block by block until she felt a sudden unusual pinch of mixed nostalgia and melancholy. Her memories flickered, overlaying the dark husk of an apartment before her with a familiar picture.
+
+This is… my apartment? There was no mistaking it. It was the right location; she had long memorized the layout of the streets. The delightful coffee shop had been on the back corner, and up ahead was the bakery her mother had asked her to stop by and pick up a cake.
+
+Ali stopped, staring at the dark hole where her door had once been, overcome and struggling with a lump in her throat. She had always known she could easily find it among the ruins, but there had always been something more important to do. Always an excuse to avoid this feeling.
+
+She wiped her eyes with the back of her hand, annoyed that she still had these feelings, and she was about to sweep through the area and rebuild it when she paused and really looked. She had loved this neighborhood and her cozy apartment.
+
+Why do I have to keep living in a tent or a sleeping bag? Mato and Calen are still living with their parents, and Malika has probably not had a home in the entirety of her adult life. Firming her resolve now with fresh purpose and new energy, she wielded her mana.
+
+For Malika, she chose a three-bedroom townhouse opposite her apartment. First, she expanded one of the rooms, replacing the floor with rich cherry wood. She will like a dojo. She fashioned racks against the walls, new windows, and raised the roof higher to accommodate her friend’s martial acrobatics. She swept through the rest of the house, outlining a small kitchen, bedroom and a spacious living room.
+
+For Calen she fashioned something a little smaller, given that he would likely still spend time at his mother’s home. With his range, his skills would be best trained at the arenas, so instead she made him a neat drawing room.
+
+Mato’s house was, of course, built entirely around a giant kitchen and she furnished a dining room that could seat twelve for dinner. Outside the front of his house, she opened a wide circular planter that he could use for his Tree Form.
+
+I hope they like it. Only after she was done with their new accommodations, did she find the courage to face her own. It took her maybe twenty minutes, but when she was done, her apartment looked as close to what she used to have as she could make it. Obviously, there were some differences – she couldn’t make carpet, so her floors were wood. And she didn’t have exactly the same plant imprints for her pot plants, but sometimes life had to move on. After witnessing Ciradyl, that fact had been burned into her soul.
+
+Finally, Ali stepped outside and inscribed a pair of teleportation circles to link this new neighborhood to the library and then she returned.
+
+***
+
+“Oh, there you are,” Mato said as Ali flew into the library and dismissed her barrier, dropping herself onto the couch beside Malika rather than face climbing up onto it, which would be far beyond her right now. “You were out there for ages.”
+
+“We saved a lot of elves,” Ali said, drooping wearily. “Do you have any idea how hard it is to make that many houses?” In all, they’d rescued a little fewer than six thousand elves from the destruction of Ciradyl before Nathaniel had grown too powerful – a pitifully small number, considering it had been the largest Wood Elf city on the continent. While Myrin’s Keep had enough empty lots and broken buildings to eventually house all the refugees, they most certainly did not have the crafters and builders to make them habitable on short notice, and so Aiden had begged her to help out. Although, calling what she had been able to whip up with Domain Mastery and the left-over ruined buildings from Dal’mohra ‘livable’ was being generous in her opinion.
+
+At least they won’t get rained on and freeze to death.
+
+“Thank you for doing that,” Calen said.
+
+“You’re welcome,” Ali said, managing a small, tired smile for him. Of the four of them, he had taken the loss of Ciradyl the hardest. He had been so proud of his Pathfinder membership, and he always looked forward to his archery training with Nendir.
+
+“Here you go,” Mato said, offering a steaming plate of stew that made her mouth water just looking at it. “If you’re going to do so much work, then you need to eat.”
+
+“Thanks, Mato,” Ali said, placing the plate on her lap and accepting a spoon. “I made a house for each of you, too. There’s a new teleportation circle to get to them.”
+
+“You did?” Malika asked, raising her eyebrows in surprise.
+
+“Yes, although it will probably be quite a while before we can buy things like proper beds with all the refugees in town,” she admitted. While making a house using the ruins was no big deal for her, Malika had not known a true home since she had been forced to flee the burning of Bakahn.
+
+Of course, it hadn’t been just one house – she had had to rebuild almost the entire first residential ring to accommodate so many people – and most of them probably would not enjoy living underground in the dark after having grown up in the boughs of Ciradyl.
+
+“Can we go look?” Malika asked, her eyes locked on Ali. The monk’s normally calm demeanor was gone, replaced by an unfamiliar energy, like she was itching to rush off at this very instant.
+
+“Dinner first!” Mato declared.
+
+“Ok, after dinner,” Ali said. She shoveled a spoonful of stew into her mouth and moaned at the explosion of unusually spicy flavor. “Mmm, Mato, what is this?” she asked, trying a little more.
+
+“Armored Drake stew,” he answered with a grin.
+
+I must be ravenous, she decided. Armored Drake meat was not the most sought-after of delicacies, other than when it was dungeon… Her chime interrupted her thoughts.
+
+You have become Well-fed.+12 to Vitality.Duration: 6 hours.
+
+“Oh wow, that’s a nice buff,” she exclaimed. “Does everyone get that?”
+
+“It’s only full strength if you’re above level sixty, but still it’s better than my previous cooking,” he answered.
+
+“Oh, shit,” Ali said.
+
+“What? That’s pretty normal, I thought,” Mato complained, frowning as he stared at her.
+
+“No, it’s not you,” Ali reassured him. “I just realized that those six thousand Elves are probably going to be hungry soon.”
+
+“And Myrin’s Keep probably can’t handle that on short notice,” Calen said, catching on quickly.
+
+“A dungeon’s work is never done?” Malika asked.
+
+“Ugh,” Ali said, groaning at the thought of how much more work that would be. “I’ll take care of it after I finish eating.”
+
+Everyone fell silent and Ali’s thoughts returned to the fateful battle at Ciradyl, wondering what, if anything, she could have done to turn the tide. The Blind Lich had returned with a new Avatar, the likes of which Lyeneru insisted had not been seen in an age. Perhaps there were accounts of him appearing with such power in the Pathfinder Guild records, but those had been lost along with the rest of the city. Despite his unfathomable power, the Elven city had stood for thousands of years, resisting the schemes and encroachment of the dead, yet even Ciradyl had fallen, and Lyeneru was blaming herself for not being prescient enough to see it, for being too weak to defend it, and, most of all, for ignoring Ali’s warnings.
+
+But it was not the Blind Lich that had defeated the ancient wards of the Well of Souls. Without Nathaniel Sunstrider’s betrayal, Nevyn Eld would have been denied his prize, Ciradyl would still be standing, and all those Elves would still be breathing the fresh forest air.
+
+Nathaniel Sunstrider. Why the Archmage had done something so awful Ali would never understand. Immortality? Ali twisted her mouth at the sour flavor. The signs had all been there – his arrogance and superiority, the strange binding magic visible from the spirit realm, and his obsessive desire to take Ali’s copy of Nevyn Eld’s manual on dungeons.
+
+Why couldn’t I see it? She had asked herself this same question a thousand times as she went through the menial drudgery of building housing for six thousand elves. She should have put it together; all the clues were plain for anyone with eyes to see. How could I have missed it? Even Clarence didn’t like the Archmage, and yet she had allowed herself to be swayed by the opinions of Lyeneru and Calen who respected him, and his gestures of help, such as his assistance in concealing her class from being published to the guild registry and access to the advanced magic in Ciradyl’s library. She had questioned her own feelings and the strange dark magic that she had observed.
+
+I should have done something. I should have pushed harder. But she had. She had shared her misgivings with Lira, and her aunt had taken her seriously, traveling to Ciradyl to study the Archmage herself and consult with Tol’zerath, The Seer of Divergent Paths. When Lira returned, she confirmed that the Troll sage had observed the same phenomenon – the hungry, leech-like tentacles of magic, apparently only visible in the Spirit Realm, but he had asked for time to study it and track it to its shrouded source. Unfortunately, Nathaniel’s craving for immortality had pushed him to act sooner than anyone could have predicted, and even Tol’zerath had barely escaped with his life.
+
+It's not that I missed it. I saw it. I just never imagined he’d go that far.
+
+“What should we do?” Ali finally asked, voicing the question in her heart. “What can we do?” Once unleashed, Nevyn Eld had been devastating and unstoppable, even against two of the most powerful Pathfinders in the world.
+
+Ali had believed the Blind Lich’s death at Aman Rak to be a victory, but he had already secured Meere Kada and Telim Gor, and presumably summoned his army of Death Knights, and then he had subverted Nathaniel Sunstrider himself, gaining entrance to the heart of the elven city, and corrupted the Well of Souls. In the space of a scant few weeks, he had gained full control over the entire Dol Kerriadh peninsula. Whatever he had planned couldn’t be good for anyone.
+
+“We recover, and then we get stronger,” Malika said firmly.
+
+“And then we go kick his ass,” Mato finished, but his attempt at levity fell flat – they had all seen the incredible power he wielded. In a single stroke, he had poisoned the Well of Souls, wiped out Ciradyl, and installed an incredibly powerful arcane and death affinity dungeon in its place, slave to his will. Against such might, they were nothing more than bugs under the steel boots of his Death Knights.
+
+Taking the fight to him was far down their priority list – they needed to get stronger immediately if they were to even make it through whatever came next, alive. Trying to distract herself from the maudlin spiral her thoughts were taking, she opened her notifications.
+
+Dungeon of Knowledge has reached level 105 (+3).+30 attribute points.
+
+Ali frowned as she considered her points, but it didn’t distract her for long. Ten points went to wisdom and eight each to intelligence and perception. The final four she added to vitality and then glanced over the rest of her notifications. Thirty points was not the kind of power that could crush a Lich, but it was growth.
+
+Arcane Insight has reached level 60 (+4).Arcane Recall has reached level 20.Barrier has reached level 65 (+3).Grimoire of Summoning has reached level 43.Sage of Learning has reached level 47 (+2).Domain Mastery has reached level 36 (+4)Identify has reached level 23 (+2).Sculpting has reached level 8 (+2).Inspiration has reached level 19.Your Blood Shaman has reached level 86.Your Ice Mage has reached level 88.Variant: Ciradyl Tree added to Imprint: Tree.Variant: Magicite (Arcane) added to Imprint: Stone.
+
+Ali winced. The two notifications at the end served as a woefully inadequate summary of the events at Ciradyl. She had no idea if any of the original majestic trees had survived, and if not, her Grimoire imprint was probably the last remnant of the powerfully magical trees she had been admiring not more than a few hours ago.
+
+She had learned Nathaniel’s magicite. Arcane magicite, often simply referred to as Arcanite, was quite possibly the most useful magicite in existence. The arcane affinity was replete with metamagic spells, teleportation, and various other incredibly useful tools – many of which would vastly enhance other classes and magic affinities were they accessible. Through the means of a wand, she would likely be able to make such tools available to the guild for purchase.
+
+But even that didn’t hold her attention for long. Instead, her mind continued to dwell on the horrific events, and the power of the magic animating the arcane elementals she had seen Nathaniel create. It had never occurred to her that Amplify Skill applied to Runic Script would turn out to be so enormously powerful – but certainly, when it was backed up by the mind of an Archmage of his experience, it had been overwhelming. She had been forced to take a reactively defensive role, unable to gain any meaningful advantage.
+
+Then there was the horrific magic of the Blind Lich himself. Now that she had learned to Disrupt his gruesome Sacrifice skill, and with the aid of her vastly enhanced perceptions, she had realized something even more disturbing. The Lich’s Sacrifice was derived from a domain magic; of this, she was now certain. If she didn’t know any better, she would have said it was a domain spell. He didn’t appear to have a domain, and yet somehow, he was able to cast the exact same magic formation that Tol’brekk had used – the very same skill she had learned on deconstructing his corpse. Only Nevyn’s version was much more powerful.
+
+How is he able to do that?
+
+This, and many of her other questions, would have to go unanswered for now.
+
+“Ali?” Malika said, breaking her train of thought.
+
+“Hmm?”
+
+“Can we go look?”
+
+“Huh? Oh… yes,” she said, smiling at the evident excitement on her friend’s face. It took just a few minutes for her to lead the way to the new circle in the library and moments later they were out in the middle of the residential district, standing before the apartments Ali had renovated. “This one is yours, Malika.”
+
+Ali opened the door and invited them all in. “Sorry, I don’t have much in the way of furnishings yet,” she said, but she took them all on a tour. “This is the kitchen area. The bedroom is in here.”
+
+“What’s through there?” Malika asked, her eyes resting on the archway into the dojo, Ali had made for her.
+
+“Why don’t you go take a look?”
+
+Malika stepped into the room and gasped. “Ali! This… this is perfect!”
+
+The obvious joy on Malika’s face as she danced through the room to explore was a bright shining light in the otherwise unremitting darkness of the last couple of days.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

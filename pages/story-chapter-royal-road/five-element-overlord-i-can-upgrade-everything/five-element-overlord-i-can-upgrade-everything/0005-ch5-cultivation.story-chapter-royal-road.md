@@ -1,0 +1,113 @@
+---
+id: 6146a609-bd42-5464-812b-6f8cef0cfeb8
+page-type-slug: story-chapter-royal-road
+title: "Ch5 Cultivation"
+slug: 0005-ch5-cultivation
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 5
+ownLength: 1278
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211538/ch5-cultivation"
+royalRoadId: "3211538"
+---
+
+I hold my pounding head for a few minutes until it stops hurting, and finally turn my attention to the small bag I was given.
+
+It holds a few more loaves of bread, and a pile of dried and salted meat jerky.
+
+Beside it, a small leather booklet with a few dozen pages sits. It reads [Basic Qi Cultivation] on its front in bold black characters. Then, a tiny pile of semi-translucent crystals glow with a faint aura beside it.
+
+I pick one up and feel a very subtle heat coming off it. The tiny shard is no bigger than a fingernail.
+
+Compared to the white pill I was gifted by that woman, this is almost as plain as an ordinary rock.
+
+With my eyebrows scrunched, I open up the leather booklet and start reading. The further I get in, the more my heart drops.
+
+The first few pages give out generalized cultivation knowledge, like the ranks of cultivation in this world.
+
+There is Qi Refinement, Foundation Establishment, and Golden Core.
+
+Each rank has 9 levels, and before moving on to the next, a cultivator has to reach the perfected stage, better known as the 10th level, to attempt a breakthrough to the next rank.
+
+This small booklet does not share any details on how to break through, nor does it give any in-depth information on any of the tiers past Qi Refining. It only outlines a single way to sit, and the breathing techniques and mental visualization steps necessary to start feeling the qi in the world around me.
+
+I flip through the booklet past these in-depth pages and find a new section that looks interesting.
+
+It outlines the five spiritual roots, water, earth, wood, metal, and fire.
+
+The fewer roots one has, the faster it is to cultivate, because the spiritual energy from the world outside can be concentrated solely through one direct pathway.
+
+The grades of these roots matter too. [1st Grade] being the highest and most efficient, and [9th Grade] being the weakest and worst at holding, circulating, and maintaining spiritual power.
+
+The more I read, the more I realize how I truly have the worst possible spiritual roots there are. Just like the old man that is my Steward, five mixed 9th grade roots....
+
+It references this combination of waste roots many times over in this booklet, saying that on average it should take 10 years to gather enough spiritual energy to break through to the 1st Level of Qi Refining, and another 30 to reach the 2nd.
+
+Most never reach the 3rd level, and die before the 100-year lifespan of an Initial Stage Qi Refiner.
+
+My heart sinks the more I read this text, but I'm also filled with an air of doubt.
+
+I have a strange system with two cards left that can upgrade random items into Perfect objects. If it's capable of gifting these once, there's a good chance it will do it again.
+
+Another thing nagging at me is the Inspect function of this system. When it scanned Qin Yue, that young woman with ice magic, I vividly remember it said she was a 12th Level Qi Refiner.
+
+Nowhere in this booklet does it ever mention a 12th level.
+
+There must be other things it's wrong about too...
+
+—
+
+I contemplate what to do for over an hour, even looking out the window occasionally to watch the day turn into night.
+
+I read over the Basic Qi Cultivation technique, but the fact that it has false information about the limits of a cultivator's potential detailed in the very foundation of this booklet makes me distrust the whole thing.
+
+"Maybe if I use one of these..." I whisper, pulling out one of the bronze cards in my inventory, hovering over the booklet.
+
+I can feel the system selecting the technique, but I retract my thoughts before it confirms and activates. Instead, I turn the card back at myself, placing it flush against my chest right where my spirit roots should be according to this text.
+
+My heart beats in anticipation, but the same mental system selection function does not return.
+
+I press the card all over my body from head to toe, but it only gets stimulated momentarily when it touches one of the small semi-translucent spirit fragments on the hut's floor.
+
+With a sigh, I pull the card back into my storage. It is still unclear what the limits of these cards are, but upgrading myself directly in this crude fashion is not an option.
+
+There were only three cards granted, and I already used up one on an arrow to save my life back in Donghe Village. The arrow itself was lost in the fires, and I don't want to waste another without thinking things through.
+
+Instead of the two cards left, I turn my attention to the 108-sided rainbow die still in my inventory.
+
+It was called a [Mysterious Lottery Draw] by the system, with only one directive: to roll it in order to receive a prize.
+
+"Is that it? Is there nothing more you can tell me about this thing, system?"
+
+I speak out loud and question it mentally in my head a few times too, but there is no response.
+
+Even when I pull the die out of my storage and examine it, there aren't even markings on any of the sides. They're just smooth and shimmering with different colors every time I turn it and look at a different angle.
+
+With the outside world turned to a dark dusk, it's the only thing lighting up this room anymore.
+
+"Well, I have nothing else to try..."
+
+I roll the die.
+
+"Some kind of real cultivation technique would be appreciated, system. Even if you can't respond, I hope you can hear me. You are my only hope of breaking this curse of wastrel spiritual roots in this world you brought me to..."
+
+The die rolls across the floor, clicking, and slowly coming to a stop.
+
+It pulses one time, then disappears out of my sight. I hold my breath, and less than half a second later, the reassuring electronic voice echoes in my inner ear.
+
+[Ding!][Mysterious Lottery Draw Successful!][x1 Jade Purity Soul Scripture] [Un-Ranked]
+
+A warm white, gold, and azure-hued orb of energy oscillates in my storage space, right where the die was before.
+
+I try to pull it out to examine it, but the instant my eyes meet it in the outside world, the entire thatched hut I'm in is illuminated in a blinding bright light. Even the forest outside for kilometers is thrust into a flash of brilliance.
+
+It floats out of my hand and naturally merges with my forehead, sending a burst of sharp, cold, and intense energy coursing through the depths of my two souls and sea of consciousness.
+
+With it, an unfathomably rich catalog of complex and obscure cultivation knowledge starts to rise in my mind. It feels like knowledge I've learned long ago, finally resurfacing like an old memory. Yet, this is the body of a mortal, and all my true past studies are of concepts and systems that don't even exist in this world.
+
+It is both frightening and blissfully enlightening, as schools of thought I've never even tried to piece together effortlessly begin to make sense to me. I even start to comprehend the concept of a soul, perfected techniques to gather Qi, and invisible vibrations of the Dao. The separation between mortals, martial warriors, and immortals all becomes crystal clear.
+
+Yet, this moment of perfect connectivity and understanding only lasts a few minutes. Quickly, I become mentally, spiritually, and physically overwhelmed.
+
+I react naturally, and black out.

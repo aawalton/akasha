@@ -1,0 +1,169 @@
+---
+id: f1bacd88-b92e-55a1-bcc9-4967ec362a18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42"
+slug: 0042-chapter-42
+partOf: emie-ascended
+position: 42
+ownLength: 2738
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3687023/chapter-42"
+royalRoadId: "3687023"
+---
+
+“Emie, Stephen, this is Jace,” Heaven said, introducing the unfamiliar man standing next to her. I couldn’t recall having seen him the evening before, but that didn’t necessarily mean he hadn’t been present. “Jace will be serving as Stephen’s mentor and is most familiar with the western half of the Cavardian continent. If you’re familiar with the guild’s mapping system, that’s roughly between zones NC1 and NG8.”
+
+I was only vaguely familiar with the map in question, but luckily, there was one mounted prominently in the guild lobby nearby. A glance at the map showed that the area referenced only accounted for a tiny fraction of the world’s surface. Perhaps 1/100th if I were being generous.
+
+The city of Portal was located in zone NC5. Sorenguard, by contrast, was located on nearly the opposite side of the massive world in zone SR12.
+
+I’d already known roughly where the two cities lay in relation to each other, but seeing it laid out in a grid square granted a new perspective.
+
+“I know that might not seem like much when you look at the big picture,” Heaven continued, “but I assure you both, it’s a lot. To put it into perspective, Norm and I cover roughly NA2 to NC6, and that includes nearly fifty cities.
+
+“Most focus on no more than a dozen locations, so Porters like us are pretty rare. You should both feel quite lucky to have gotten us as mentors,” she added proudly.
+
+Shaking his head in either amusement or exasperation, Jace extended a hand toward Stephen, “Well met. I’m only available for the next week, so I hope you’ve cleared your schedule. It’s going to be tight trying to fit in every location I’ve got stored as a waypoint in such a short time period.”
+
+“That’s what the circlets are for,” Heaven said, handing me a bronze band that looked like a plain version of the one she wore on her head.
+
+Mirroring her action, Jace handed Stephen an identical circlet, making it clear that the circlets themselves were some kind of identifier within the guild.
+
+“What are these for?” I asked as I examined the metal band carefully.
+
+“They serve two purposes,” Heaven answered. “First, they work as a sort of guild badge, marking you as a member of the Porter Guild. The metal directly corresponds to your current rank, which keeps things simple.
+
+“As new members, your circlets are unadorned. As you increase your standing with the guild, the bands can be modified with increasing levels of embellishment,” she said, motioning toward her own circlet, which was heavily decorated.
+
+Now that I was paying closer attention, I recognized a few different symbols carved into the band surrounding the fingernail-sized blue gemstone that was mounted in the center of her forehead.
+
+“The second purpose is to aid in establishing waypoints by allowing you to create short memory echoes, which can then be linked to specific locations. Be careful not to lose them,” she said with more seriousness than she’d shown thus far.
+
+“Go ahead and bond the circlets with a drop of blood,” Jace said, clearly not wanting to spend any more time hanging out in the guildhall than necessary. “That will let you connect with it to create the memory echoes. Using it is pretty intuitive, so I doubt either of you will have any trouble figuring it out.”
+
+Though I wasn’t too sure about connecting to a device that could literally copy my memories, I did as instructed and bonded with the circlet in my hands. I’d examined the item closely enough to feel confident there was nothing malicious about the enchantment. As far as I could tell, it did exactly as described.
+
+“Alright. We have a lot of distance to cover and not a lot of time. I hope you’re feeling well-rested since we’ll be busy for a while. Is there anything you need to take care of before we leave the city?” Heaven asked me.
+
+“I wasn’t aware that I needed to clear my schedule for the week,” I said with a wince. “I just need a few minutes to make the arrangements. Please excuse me for just a moment.”
+
+When my platinum-ranked mentor nodded, I teleported directly to the medical facility and let Seraphine know that I would be unavailable for the next week. I apologized and asked her to extend my apologies to those whose healing would be delayed.
+
+Once my healing responsibilities were dealt with, I sent a message to Cora through the communicator, letting her know what was happening. I didn’t like changing things at the last minute like this, but I knew that Cora and Mike would understand.
+
+In fact, they’d probably encourage Stephen and me to spend as much time as we could extending our potential travel network.
+
+Once the message was sent, I teleported to the Enchanting Shop and let Donnovan know about my absence.
+
+Thankfully, I’d shifted to more of a ‘direct sale’ approach instead of accepting individual commissions for spatial items. I was still accepting a few special requests, but I was confident I would have enough time to complete those I’d accepted before the deadline.
+
+I might have to make use of time dilation in my demesne to manage it if we spent literally all day, or night, rather, traveling between cities. But that was fine. A little grinding never hurt anyone.
+
+I really should have anticipated things a little better, especially knowing that travel was going to be a part of joining the Porter Guild.
+
+“Everything taken care of?” Heaven asked with a raised brow when I returned to the guild lobby holding Aerie.
+
+I felt bad about leaving her in stasis so much, and I figured a trip to various cities would be safe enough.
+
+“Yes. Thank you for your patience.”
+
+“No problem,” she said before shifting her attention to Aerie. “And who is this cute little one?”
+
+“This is Aerie,” I said, scratching the kit’s head. “She’s still pretty young, but I was hoping it would be okay for her to come along with us. Otherwise, she ends up sitting in stasis the whole time since I feel bad leaving her alone.”
+
+“It’s fine. Bringing her along won’t be any trouble. However, you probably won’t want to have her with you when you’re actively working as a Porter. At least, not until she is trained well enough that you are confident she won’t cause any problems.
+
+“It isn’t really an issue for this trip since I’m just taking you on a little tour to set waypoints, but presentation is very important to the Porter Guild. Keep that in mind.” When I nodded in understanding, the platinum-ranked Porter said, “Alright. First up, Portal. It’s time for you to visit Headquarters.”
+
+The main guildhall of the Porter Guild was almost identical to the one built in Sorenguard. The only real difference was that the guildhall in Portal was clearly much older.
+
+The apparent size of the structure wasn’t all that different, though I could tell there were numerous enchantments at play in the space. More than were overlaid on the Sorenguard guildhall, that was for sure.
+
+Consequently, it was significantly larger inside than the branch location, providing plenty of room for anything that might be needed within the space.
+
+We didn’t stay long. In fact, it was our shortest stop of the day by far. Once I’d looked around the guildhall enough to feel confident I could return, Heaven had swiftly moved on to the next location.
+
+I soon discovered that using the circlet to memorize locations was quite simple. All I had to do was activate the enchantment and examine my surroundings, focusing on whatever I could find that made the location stand out as unique.
+
+Obviously, the guildhall in Portal was the primary focus for that location. I was a little worried about the other cities we would visit, but thankfully, every city we went to had a unique sign right by the arrival area with the name of the city displayed.
+
+Once Heaven had pointed out the feature, I realized that even Sorenguard had a similar arrival area in one of the rooms within the Dungeon Complex.
+
+Sorenguard’s new Porter guildhall also had a similar area set aside with a very noticeable sign pronouncing the reader’s location. It was only then that I realized how important such spaces really were.
+
+In my previous realm, I’d been able to extend my senses and find a suitable place to teleport without needing to completely rely on memory. Even when I used memory as my guide, the way teleportation had worked in my old realm meant I was able to get a sense of my destination before completing the spell.
+
+In this realm, that wasn’t possible. At least, it wasn’t without a special skill to facilitate it.
+
+While I hoped to eventually acquire such a skill, the reality was that it was not something I could acquire on my own. Short of begging the goddess for the skill as part of my next evolution or acquiring the right skillbook, something like that was simply out of reach.
+
+“Can you open a portal?” Heaven asked near the end of the first ‘day,’ though it was already likely late morning back in Sorenguard.
+
+We’d managed to visit twelve cities by that point, and it was clear the platinum ranker was ready to call it quits. Even Aerie had grown tired by that point, so I’d sent her into the sanctuary to sleep without bothering to place her into stasis.
+
+Because Heaven had wanted to ensure that I was able to create a waypoint at each stop – waypoint being the general term the Porter Guild used to reference a location that could be revisited – Heaven had done more than just teleport us to a new city and have me try to memorize the arrival room.
+
+Instead, she’d taken me to meet some of her contacts and see a bit of each city. She claimed it would help create resonance with the locations, making them easier to return to in the future.
+
+“I do not have the skill slotted,” I said slowly, “but I am fairly confident that I could manage if necessary. I may be limited to locations in which I have a Dimensional Anchor, but as long as I can teleport somewhere first, that shouldn’t be much of a burden.”
+
+Heaven tilted her head and asked, “Dimensional Anchor?”
+
+I hadn’t listed the skill anywhere, so there was obviously no record of me having slotted such an ability. But now that I was talking to a fellow Porter, keeping such a thing secret didn’t seem to be all that important.
+
+“Yes. It’s one of the skills I acquired early on as a Space Magi. It basically is like a marker that lets me target a particular location. Even if I’m completely unfamiliar with a place, as long as I have a Dimensional Anchor there, I can teleport or, presumably, open a portal to the location at will.”
+
+“So, you haven’t actually opened a portal since ascending?” Heaven asked with clear surprise.
+
+I shook my head and said, “No. I haven’t had a reason to.”
+
+“I recommend you try. Further, I recommend you slot the skill if you are offered it and have the free slots available. Obviously, you are under no obligation to follow my advice, but I think slotting it instead of relying on manual casting would be in your best interest if you plan to rely heavily on the Porter Guild for supplementary, or even your primary, income.
+
+“While I’m not a Space Magi myself, I’ve known a couple, and they all agree that manually creating skill effects takes far more essence and focus than activating a slotted skill. Though I don’t have the skill myself, I know that it is always in high demand, and the compensation for managing portal transfers is significantly higher than what you’ll get doing individual teleports.”
+
+While I’d been worried about slotting the skill before joining the Porter Guild, I no longer felt the same need for caution now that I had the guild’s support.
+
+“Where do you want me to open it to?”
+
+“Anywhere in Sorenguard is fine. I told Norm I’d meet him there later so we could pop into the dungeon for a bit.”
+
+My head bobbed in agreement as I considered my options. After giving it a bit of thought, I picked the Dimensional Anchor I’d left in the Dungeon Complex. It wasn’t inside any of the main structures, but I figured it was close enough.
+
+I started by scanning the anchor I was targeting, ensuring there was nothing around to interfere with the portal. Once I felt confident that I could open the gateway safely under the framework that I’d imagined, I focused on building the connection, relying on my experience and my existing space-related skills to manifest the bridge connecting the two locations.
+
+Since I hadn’t tried doing so before, the manual working took a lot more time than Heaven probably expected. Had I practiced a few times, I was sure I could manage to make the connection in less than a minute.
+
+However, since it was my first time even attempting such a feat, the process took several minutes of focused effort.
+
+“I was honestly starting to worry that you might not be able to manage it,” Heaven said when the portal finally stabilized, showing our destination on the other side.
+
+“Portals are hard. Teleportation was hard, too, just in a different way,” I replied before stepping through the construct.
+
+I wasn’t going to make my temporary mentor risk her safety on a manually-cast portal without proving it was safe first.
+
+“I believe you,” the platinum ranker stated as she followed me through the gate.
+
+As soon as she was clear, I went through the process of closing the portal. It wasn’t something I could just cancel and have go away. At best, it might collapse and cause a minor explosion. At worst, the sudden release could tear something better left undamaged.
+
+It was a worry that I hadn’t had in my previous realm since the system handled nearly all of that. Even with manual casting, I was effectively creating spell circles that controlled the minutiae.
+
+But in this realm, things did not work the same way. That was part of why it took so long.
+
+“I’m not going to push, but I will point out that slotting the skill will make this whole process practically instantaneous,” Heaven said when the portal finally closed. It had taken almost as long to close the thing as it had to open it.
+
+“Oh, I plan to slot it,” I said, turning my attention to the waiting notification.
+
+While it would have been nice to play around a bit and see if I could get some kind of improvement, I could already tell that the offered skill would allow me to use Portal like I did Teleport, basically allowing me to open a portal to any location with which I was sufficiently familiar.
+
+But not the dungeon or my demesne, unfortunately. But who knew? Maybe the goddess would be kind enough to let me evolve the skill in that direction in the future?
+
+At least I’d been offered an (Uncommon) version of the skill instead of just the (Common) one. I wasn’t sure what the difference was, but seeing the higher grade of skill made me happy.
+
+“You should update the guild now that you’ve slotted it,” Heaven advised. “I’ll make a note as well that I’ve witnessed you using the skill; that way you won’t have to demonstrate it again unless you want to.”
+
+“I’ll do that now,” I agreed before checking the time and seeing that I was right in my estimate. “What time did you want to meet later?”
+
+“Around seven,” she said after checking her watch. “That’ll give you a little over eight hours to rest. I only plan to spend a subjective day or two in the dungeon. At my rank, the time dilation is something like one to eight. That should be more than enough for me to get a bit of rest in before meeting you.”
+
+Feeling ready to crash, I was happy to leave the platinum ranker to her own devices and head home to see if Stephen had returned yet.

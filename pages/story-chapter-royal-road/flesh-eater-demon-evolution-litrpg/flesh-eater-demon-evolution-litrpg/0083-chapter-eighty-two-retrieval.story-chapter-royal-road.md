@@ -1,0 +1,123 @@
+---
+id: ff45c38b-0cf0-5866-9fd9-92f409785314
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-Two: Retrieval"
+slug: 0083-chapter-eighty-two-retrieval
+partOf: flesh-eater-demon-evolution-litrpg
+position: 83
+ownLength: 2083
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3393288/chapter-eighty-two-retrieval"
+royalRoadId: "3393288"
+---
+
+“There!” Callan called, speeding through the trees so quickly that the forest passed in a blur. A little further back, Daphne cursed, almost tripping over a rock as she ran after him.
+
+“Not all of us can float!” she yelled back, but she moved faster.
+
+The closer they got to where the wyvern had crashed, the harder the terrain became to navigate. Daphne carefully ducked below stray branches and climbed over fallen trees. Callan could just phase through them, but she didn’t have that privilege.
+
+They’d watched the wyvern collide with the forest from the clearing, Pyre a singular form barely gripping onto its back. By now, most of the other monsters had been dealt with by the garrison troops, so they didn’t hesitate to run after the falling creature.
+
+Daphne leapt over a sharp boulder. Even just thinking about it made her heart race. That had been a huge fall—much higher than the fall down from the sanctum tower, even. She knew Pyre was strong, but that didn’t do much to ease the cold fear steadily creeping up her stomach. Nothing was invincible.
+
+Crashing through a thick shrub, she finally saw it. On the other side of the foliage, the dark scales of the wyvern stood stark against the greens and yellows of the forest. Daphne quickened her pace.
+
+The whole form of the wyvern soon revealed itself. It was even more massive up close like this, looking more like a small hill at a glance than a living (or formerly living) creature.
+
+The monster lay collapsed on the ground, wings crooked, barbed tail flailed haphazardly behind it. Deep cuts and stab wounds littered its back, and one of its wings was half-torn off—it looked like it had been chewed through. The wyvern wasn’t moving.
+
+Daphne’s gaze flitted about, trying to find a glimpse of Pyre near the behemoth. Before she could start to panic, Callan’s voice rang out, a little muffled, from the front of the unmoving wyvern.
+
+“Over here!” he called.
+
+Daphne wasted no time. She immediately circled around to where the wyvern’s head lay slumped against the grasses. Its eyes were closed, dried blood crusting around the left socket, and the ground below was covered in dark red. She hesitated for a moment, eyeing the wyvern closely. It looked dead, but she also wasn’t keen on testing that out for herself.
+
+In the end, the decision was made for her, because the moment she spotted Pyre and Callan, she rushed over with only a final wary glance at the dead creature.
+
+Seated leaning against the wyvern’s bleeding chest was Pyre. The demon still had the bone armor from before, but several plates were cracked or fully missing, and Daphne could see her flesh quivering around fresh cuts.
+
+From what she could tell, the demon didn’t bleed, but she was still covered in the substance. Her pants were completely soaked, and her bone armor was more red than white at this point. None of this was helped by the massive, gaping hole in the wyvern’s chest right behind where she sat.
+
+The flesh looked like it had been flayed open. Squishy lumps dangled from jagged edges, reminding Daphne of the soft pulp of a fruit. She could see torn, fibrous muscles and even the snapped pieces of a shattered ribcage digging inside the wound. The noble quickly looked away before her stomach could lurch.
+
+When she focused on Pyre again, her gaze shifted to the demon’s right arm, which had been warped from that bone axe into a fleshy wing-like mass not unlike what she’d seen in the sanctum. At the end of that warped arm was a huge mouth, as wide as she was tall, that was currently munching down on something. Blood and gore dripped out from between the razor sharp teeth, further pooling onto the grass.
+
+Well. That explained the hole in the wyvern’s chest.
+
+Despite the carnage, Pyre looked relaxed. Callan floated anxiously around her, darting back and forth as he scanned the demon for injuries. She waved his concern off casually. As if she hadn’t just killed an entire fucking wyvern by herself.
+
+Holy shit. Pyre had killed a wyvern.
+
+Swallowing, Daphne stepped closer, finally drawing the two’s attention. “Are you okay?” she asked immediately.
+
+The demon raised an eyebrow. “Well, I feel like I just fell out of the sky on a dying wyvern, but otherwise pretty good yeah.”
+
+Callan scowled and shot her an unimpressed look. “You’re missing a lot of flesh,” he muttered. Daphne frowned at that. Was she? She had no idea what the “standard” amount for the demon was—she mostly only saw her in her compact, humanoid form.
+
+“Eh, it’ll grow back.” Slowly, Pyre rose, and her movements were definitely heavier than usual. Daphne exchanged a look with Callan.
+
+Despite their concern, the demon’s expression gave nothing away. If not for the visible wounds and blood everywhere, she looked like she could just be getting ready to go on patrol.
+
+Pyre flicked some of the drying blood off her bone armor, then turned towards the sanctum. “The monsters cleared out yet? The horn’s still in there.”
+
+Callan’s eyes widened, and he cursed. “I think the garrison’s still regrouping, but they’ll probably investigate the sanctum soon,” he muttered, thinking. “If we go now, we should be able to retrieve the horn and soul piece before anyone else shows up.”
+
+Pyre nodded. “Sounds like a plan,” she said. She turned, already starting to make her way over to the destroyed sanctum, only to pause and glance back at Daphne with a raised eyebrow. “You coming with us?”
+
+The mage blinked. She hadn’t even realized that she’d started to follow the demon instinctively.
+
+“You helped me stop the invasion,” she finally said, voice slow and careful. “That was your end of the deal. Now it’s my turn to help you.”
+
+Pyre just hummed at that. Without another word, the demon turned and began making her way through the forest.
+
+Getting to the sanctum without being seen wasn’t actually very hard. Mostly because a not-insignificant chunk of the mountain behind the building had also been blown up in the explosion, leaving behind a field of rubble and broken stone that they could use as a cover while they made their way over to the sanctum proper.
+
+“I can float in and grab them,” Callan was saying. Pyre peered out from the large chunk of debris that the three of them were currently hiding behind. From here, she could see both the large hole blown into the side of the sanctum, revealing the barest glimpse of glowing ichor within, as well as the field in front.
+
+The area was now covered in corpses, and sure enough, she only saw a few stray monsters that the remaining soldiers quickly chased down and disposed of. The garrison had done a good job of clearing out the rest of the hoard.
+
+Others were beginning to haul away the bodies, clearing space, while more and more soldiers and guards gathered in the area. A smaller squad had already been sent to the forest, probably to check on the wyvern. They’d need to be quick.
+
+“Nah, I’ll go,” Pyre said. After double checking that no one was looking their way, she darted forward, clearing the small gap between the rubble and the sanctum ruins in record time. “I don’t know if you’ll be able to touch the soul piece, kid.” Or if he could, if something would happen when he did.
+
+Callan opened his mouth, then closed it again. He couldn’t really argue with that, not when he was the most insistent on being careful out of all of them. The ghost grumbled under his breath.
+
+Ducking below the collapsed stone, Pyre stepped into the building proper.
+
+The inside was, as expected, just as destroyed as the outside. The white pillars had collapsed, leaning haphazardly against the walls, while puddles of glowing ichor dotted the floor. The main ichor pool had chunks of debris sticking out of it, mostly from the arched bridges that had fallen down, which explained the splashes. From what the demon could tell, though, the ichor itself was unaffected. It still glowed that same, steady silver.
+
+The waterfall, too, looked pretty intact. It was just the building and mountain behind it that weren’t. Pyre still wasn’t an expert on “ichor shit” (a close cousin of “magic shit”), but she figured that was probably good news for Magrath, which presumably relied on the stuff. The sanctum would need to be rebuilt, but that was an aesthetic issue compared to the ichor itself being fine.
+
+Then again, maybe it shouldn’t be a surprise that the ancient blood of super-powerful godly titans was hard to contaminate.
+
+Pyre’s eyes landed on the significantly more shallow main ichor pool. There, atop one of the fallen bridges, she could see a very familiar jet black horn and the glowing orb from before.
+
+The tugging sensation pulled harder at her chest. From what she could tell, neither of the two objects looked damaged. That was good. It would’ve sucked if they’d done all this only to accidentally break them or something.
+
+Moving forward, Pyre stepped over to the edge of the pool. Her flesh contorted. She had just enough to extend and scoop both the horn and soul piece up. She quickly retracted the limb, then folded the flesh around the two objects to form a secure little pocket. She could feel them sitting snug inside.
+
+She hadn’t known what to expect when she’d grabbed the soul piece. The demon horn was solid and icy cold, but the soul shard had looked like little more than a swirling orb of energy at a glance. It turned out it was solid, though, and holding it only made that tugging sensation worse.
+
+They really needed to get out of here quickly. Pyre didn’t know what would happen when she absorbed the soul piece, but she had a feeling that the middle of a destroyed sanctum, minutes away from discovery by the garrison troops, was not a good place to find out.
+
+“Come on,” the demon said, nodding to Callan and Daphne. They’d both hung by the edges of the sanctum when she went further in, though she did notice Callan silently draining an ichor puddle close to him. Her gaze sharpened. The cold aura around the ghost had been noticeably weaker since he’d broken the circles. She had a feeling that he was hiding his own share of injuries, too.
+
+Right now, though, their biggest concern was getting out of here and heading somewhere secluded. There, they’d be able to rest, heal, remove the curse, and she could sort through the metric shit ton of notifications that she’d gotten after devouring the wyvern.
+
+Pyre peered out of the ruins. There were, indeed, even more soldiers gathering now. A small impromptu station had been set up in the field’s center, where soldiers and civilians alike seemed to be getting their injuries treated. The corpses, on the other hand, were being cleared away: monsters tossed into a pile on one side, humans carefully laid out and covered with tarps on the other.
+
+Beside the demon, Daphne stilled. Brown eyes scanned the covered bodies, rows of them lying just outside the forest, and an emotion Pyre couldn’t discern flashed through her eyes. She didn’t say anything as they crossed the gap to the next closest piece of rubble, but the demon could see she was still staring at the corpses.
+
+She caught Callan glancing at them, too, but in contrast to the noble, the ghost seemed to struggle to look at the bodies for too long. His gaze would land on them, something would flash in his eyes, and then he’d look away again.
+
+Pyre turned and scanned the rest of the way to the forest. The debris still provided good cover, and the garrison troops were decently far. She took a step, about to continue forward, when she felt a shift in the tremors running along the earth.
+
+The demon’s gaze snapped ahead.
+
+Behind a large chunk of fallen stone jutting out of the ground, her [Thermal Vision] eye focused on a slightly warmer splotch. It was faint, but undeniable.
+
+She sniffed the air. The distinct scent of a human wafted above the smells of iron and grime soaking the battlefield. A few seconds later, a figure stepped out from behind the rubble. One she recognized.
+
+Declan.

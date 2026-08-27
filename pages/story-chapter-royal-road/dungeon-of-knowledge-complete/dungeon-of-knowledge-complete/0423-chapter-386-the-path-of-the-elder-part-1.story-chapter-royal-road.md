@@ -1,0 +1,155 @@
+---
+id: 72fabd54-9554-51d1-b81c-5b014e9fe037
+page-type-slug: story-chapter-royal-road
+title: "Chapter 386: The Path of the Elder (Part 1)"
+slug: 0423-chapter-386-the-path-of-the-elder-part-1
+partOf: dungeon-of-knowledge-complete
+position: 423
+ownLength: 2819
+unit: words
+ownProgress: 2819
+publishedAt: 2025-09-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2617485/chapter-386-the-path-of-the-elder-part-1"
+royalRoadId: "2617485"
+markedReadAt: "2026-06-29T20:26:22.149Z"
+---
+
+Mato roared in anger and frustration as his stomach lurched like he’d leapt off a cliff, and his void claws were suddenly digging furrows in polished marble instead of the rock and dirt of the rift chamber. The acrid odor of smoke magic faded, and he slowly shifted himself back to normal, barely noticing Malika arriving within the teleportation locus moments later, his mind obsessively replaying that awful image of the whip vine slapping Calen and Ali through the rift as it closed. He had stood there, unable to do a single thing to help them.
+
+“They’ll come back,” Malika said, putting a comforting hand on his shoulder. “They both have recall potions.”
+
+“They’d better,” he said gruffly, but even he knew that the bluff was to hide the yawning abyss of fear in his heart.
+
+What if they don’t? The thought repeated over and over again in his mind, refusing to let go.
+
+“Come, let’s sit and wait for them,” Malika said.
+
+“Ok.” He accepted Malika’s healing and then sat on a creaky chair, staring at the stubbornly empty expanse of marble within the locus runes while his mana slowly – surprisingly sluggishly – ticked back up. He felt awful, like a tendril of death had lodged inside him, stuck somewhere deep where he couldn’t see. It was like the undead blight of Alexander Gray, only more subtle and insidious.
+
+“Why are they taking so long?” His mind was stuck in a loop, conjuring a thousand scenarios while Malika refilled the mana they had used for their teleportation.
+
+“They’ll be here,” Malika called over. “Trust them.”
+
+After ten minutes, he was beginning to really worry.
+
+By the time fifteen minutes had passed, despair had started to set in. Somehow, Malika was sitting calmly on the floor meditating, but his futile attempts to contain his worries had devolved into anxious pacing. It didn’t help that it felt like the Mana Eater had left its spores in him somehow; there was something slowly draining little bits of his mana still.
+
+He dusted himself down, but he could find no signs of any remaining blue spores, neither with his hands nor with any of his enhanced senses, and yet there it was. A slow pull against his mana pool that twisted inside him, leaving him feeling faintly nauseous. Mostly to distract himself from his nerves, he opened his status, searching for anything that might give him a clue, but there were no obvious debuffs, and nothing listed next to his mana pool.
+
+It took him several moments before he noticed it.
+
+Patrons & Tithes- Mentor: Lirasia (Corrupted).- Deity: Azryet
+
+Lira… His mentor, the wise and ancient druid who had taught him so much about his nature magic, taught him to understand and appreciate balance. He had arrived just in time to see her murdered in the act of saving Ali and then raised by the Lich. Dreading what he would find, he opened the mentorship.
+
+Mentor Patronage – LirasiaCorrupted: 2 mana drained per minute. Traits: Death, Nature, Wisdom, Vitality, Domain, Perception, Shapeshift, Knowledge, Regeneration, Plant, Undead, CharmExperience gain is increased for actions aligned with your mentor, or under their supervision. Gain additional skill unlocks and advances aligned with your mentor’s traits and experience.A portion of your increased experience is awarded to your mentor, increasing their reputation.Enchantment – Tithe
+
+Somehow, his mentorship tithe with Lira had survived her death with only two changes he could see: it was leeching a small trickle of his mana, and her Traits had gained a death affinity and ‘undead.’ But the words barely conveyed the disgust he felt at the sensation of the slow defilement of undeath pulsing within him, leeching his very life from him.
+
+Reflexively, he reached to remove the corrupt thing, a powerful desire to throw it off, to get it as far away from him as possible, but then, he hesitated. For some reason, he couldn’t bring himself to part with her mana signature, as if doing so would be discarding her somehow, disgracing her memory. He knew he was being irrational and that she was truly gone – all that remained was the undead monster the Blind Lich had raised from her still-warm corpse, but he still vacillated, going back and forth between trying to rid himself of the corrupt mana tithe and refusing to admit the compassion and wisdom, and her kind guidance and mentorship were truly gone.
+
+His agonizing was interrupted by a sudden flash of mana and the intense stench of smoke. He leapt forward to the Locus to find Calen lying sprawled out on the marble floor, unconscious, but Malika was faster, reaching him with a pulse of healing magic.
+
+“Holy shit! That drained the entire mana battery!” The exclamation from the official drifted by in the background, mostly ignored by Mato’s sudden rush of relief at seeing his friend finally appear in the locus.
+
+“Calen!” Mato yelled, bending down.
+
+A second puff of smoke burst outward with a loud pop. The runes of the locus lit with energy, but then they fizzled out immediately.
+
+“No! Ali!” Malika yelled, and she was instantly at the desk trying to pour mana into the artifact that powered the runes.
+
+“Ali?” Mato gasped.
+
+But no matter how long they waited, nor how much mana Malika shoved into the artifact, the teleportation spell to bring Ali back refused to reappear.
+
+Rowan yawned, covering his mouth politely, even though he was the only one manning the receiving chamber. It had been a rather quiet day for tourists and visitors to Vertias, but he still had half an hour to go on this boring shift. He couldn’t wait for it to be over; it was the girls’ night out, and he was looking forward to the promise of a relaxed evening game of cards with his buddies. His friends weren’t particularly good, but it was a rather nice way to unwind after a long day with some good fun and a few beers.
+
+The locus inscribed into the ground dimmed suddenly and then surged with mana.
+
+An unscheduled teleportation.
+
+His hand went to his sword, but he did not draw it. “Welcome to Vertias,” he said, automatically repeating the words he had said a thousand times, but the shape that materialized was not quite what he was expecting.
+
+A strange figure appeared, humanoid, but green, covered in rugged bark and leaves, but it was the unusual curved sword in its hand that caught his attention. Black, but with strange roots protruding from the hilt that seemed to grow into the figure’s hand and forearm.
+
+Warrior – Sylvan Human / Plant – level ?? (Neutral)
+
+“Hey, put down the sword!” he commanded, using the tone of authority that had been drilled into him through hours of practice.
+
+The figure turned toward him, cocking its head to the side curiously, but it made no move to comply with his order.
+
+“I said, put down…” But Rowan’s words vanished at the sight of the second figure materializing in the room. Standing in the center of the Locus, it filled the room – its thick, squat head and back brushing up against the roof, while the four massive legs were causing radiating fractures in the heavy, polished stone floor. It shifted its weight, and the chamber filled with the crunch of breaking stone. The giant misshapen head turned to face him as the three glowing green eyes fixed him with an angry glare.
+
+Fungaloth – Fungal Aberration – level ??? (Hostile)
+
+“Shit!” Rowan dove for the desk, reaching for the alarm enchantment and pumping a small jolt of mana into it as the monster unleashed a shattering, shrieking roar that probably could be heard across half the city. He hit the ground heavily, bruising his shoulder as he rolled up against the wall, drawing his sword and bringing it up into a guard position while pulsing stamina into his defensive arts.
+
+All he saw was a huge open maw dripping with green ichor and filled with sharp fangs. The crunch as it snapped down on his chest and head was sudden and brutal, and then he felt nothing.
+
+Rezan followed the dark Elf closely as her penetrating gaze picked up the all-but-invisible signs of the Blind Lich’s trail through the endless gray of the spirit realm. The last time he had been on a hunt in the spirit realm, he had been a young man, filled with ideals and dreams. But beside him was one that put even his age to shame.
+
+Val’korr. Rezan glanced at the wiry, aged troll who wore an expression of intense focus and had lost all signs of his affected frailty. The ancient Seeker of Aman Rak, the spiritual guiding light of the troll kingdom, driven to the brink of extinction by the Lich they pursued. His leathery face bore the marks of the ages he had endured, and his hair sprang frazzled and bone-white from atop his head. But the soul magic pulsing at his core still thrummed with vibrant life and energy, and the piercing look in his eyes left no doubt in Rezan’s mind as to his resolve. This was a person with a heavy axe to grind.
+
+Lyeneru’s raised fist stopped them without a single word spoken, and up ahead, in a gray clearing among gray boulders and surrounded by gray trees, was the black and crimson of the Lich, pausing to consult with an artifact that dribbled death magic into the air.
+
+While the Lich’s aura of dread gnawed incessantly at his fortified mind, he nonetheless still felt the prickle of gooseflesh rising on his neck and down his back at the sight. From the back of the Lich’s head rose several ribbons of darkness, writhing like some living eldritch being, trailing off into the grayness of the spirit realm as if reaching toward elsewhere and fading from view.
+
+But it was the ribbon that was wound up into a ball, and the orb of viridian green weakly struggling against the dark bonds that truly wrenched his heart with the icy grip of wrongness.
+
+He must not have her. As if it weren’t enough that Nevyn Eld had slain the Great Mother of the Deep Woods, for him to imprison the remains of her soul was unconscionable. Rezan struggled, swallowing painfully at the thought of what evil the Lich might unleash with what he had stolen.
+
+“Rezan, you’re point, and tank. I’m ambush. Val’korr, you’re support,” Lyeneru whispered. “Be careful, this incarnation of his avatar is much more powerful than the last.”
+
+Rezan nodded. Their roles were obvious from their experience and classes, and over the time they had spent together doing rescue and scouting runs to the ruins of Ciradyl, he had grown accustomed to how his companions fought and thought.
+
+He adjusted his breathing, calming his heart and smoothing out the flow of his stamina within his body. There was no way for him to approach unawares, for he knew exactly which skill the Lich used to perceive the world around him. Still, he waited for Lyeneru to vanish before he stepped forward and into the range of the Blind Lich’s Soul Sight.
+
+“So, you have come.” The face of death turned toward him and Val’korr as they approached. From the center of his chest, dark mana flooded outward, shielding his undead frame and bearing down on them with the full weight of the pressure and dread of his oppressive aura.
+
+Rezan breathed, cycling his stamina and warding off the magical fear, taking another step forward. His form shifted, and in that single step, he instantly traversed the distance between them, his open palm striking forward at the dark magical shield. Soul magic shot from his palm in a wave, piercing through the shield and striking the Lich. The undead body barely moved as the wave passed right through him and out the other side with a loud crack.
+
+“Is that the best you have, elder? Is this how far the mighty Ahn Khen have fallen?” Nevyn Eld said. Even in the echoes of his undead voice, Rezan could feel the contempt dripping from his words.
+
+Rezan gritted his teeth and ignored the betrayer, launching instead into his first form, fists and feet blurring with speed and power, each strike piercing the barrier with his projected soul magic.
+
+From the gray forest, ghostly, glowing blue beasts of the spirit realm emerged, answering Val’korr’s call, bearing down on them with cunning intelligence lighting their eyes. Wolves, spiders, and things for which he had no names. Their eyes glowed, showing the power they held within their ethereal bodies, and as one, they fell upon the Lich, howls and hisses echoing strangely through the gray forest.
+
+“Very well, a fight you shall have,” the Lich declared. A wave of darkness rolled out across the clearing, consuming everything in its path. Rezan sensed the life energy of the beasts wink out one by one as he channeled his mana to heal himself.
+
+Perfect cover for… He hadn’t even finished the thought when the blindingly incandescent arrow materialized behind the Lich, shattering the shield and punching through the exact center of his back, emerging from his chest with hungry flame and crackling lightning.
+
+“Annoying Elf! I should have killed you the last time,” the Lich hissed, and an enormous bolt of black energy shot off to where Lyeneru was already dodging.
+
+Unfortunately, Rezan knew just how durable this Lich really was, and he didn’t fail to take advantage of the opening. His body twisted in divergence, taking nine separate paths, each image a powerfully imbued attack, striking simultaneously. All of his blows struck with perfect synchronicity, knocking the Lich back.
+
+All he received for his attack was a hiss of annoyance and a huge bolt of death magic that flattened the tree behind him as he dodged. A wavy blue strand of shimmering magic struck the Lich, draining health and mana to Val’korr, but Nevyn Eld responded by snapping his gaunt blackened fist shut in a dramatic gesture of termination, and his shield snapped back into place, severing the Soul Drain.
+
+A sudden hail of arrows blasted out from behind the trees, and Lyeneru sprinted around, dodging the retaliation of death bolts. Rezan did not need an invitation. He attacked. His fists, his feet, knees, and elbows blurred as he unleashed every form into the Lich’s shield, trying to burn him down as quickly as possible. Soul magic flickered and tore through the shield, striking the undead body within, but no matter what he did, the Lich did not falter.
+
+“You think you can stand against me?” the Lich hissed. “You are less than insects. Witness your futility.” A sudden blast of roiling black magic exploded out in all directions, faster than Rezan could even track with his accelerated perceptions.
+
+In an instant, he found himself lying many yards away amid the flattened trees at the edge of a wide crater. He coughed, blood dribbling from his mouth as he rapidly forced his mana to heal his extensive internal injuries before he passed out.
+
+He leapt to his feet. In the center of the clearing, standing at the epicenter of the enormous blast, stood the Lich. The entire clearing pulsed and bubbled from a black, writhing pool that rapidly consumed the ghostly spirit beasts. Thick skeletal hands rose up out of the darkness to drag them down.
+
+Rezan shuddered as the pressure of the Lich’s death magic pushed him back, draining him even from this distance. Decrepify. And something else.
+
+“Don’t step in that,” Val’korr said. Nobody needed to ask what he meant.
+
+Suddenly, an extraordinary spell burst forth from the Lich’s chest. A spell Rezan had never seen before, had never expected to witness in his lifetime, and yet he instantly knew what it was. He struggled to shake off the sudden weight that bore down on his chest and the tremor that threatened his legs. But the realm notification gong boomed loudly through the spirit realm, confirming his worst fears.
+
+[Realm] Nevyn Eld [The Blind Lich] has used The Ninefold Way: Aegis of Absolution.
+
+One of the lost arts!
+
+Val’korr raised his gnarled staff, firing another set of blue beams at the Blind Lich, but his potent beams of magic failed to penetrate the transparent black sparkling shield that snapped into place around the Lich. Arrows shot in from among the trees, imbued with potent lightning and fire, but they too shattered upon the Aegis of Absolution, like kindling snapping underfoot.
+
+The Lich laughed – a contemptuous, harsh hissing sound that carried easily across the field, a savage dismissal of all that he was. “Are you scared, little Ahn Khen weakling? Why don’t you come closer and taste my magic? You call yourself an elder, and yet you stand there quivering like a coward.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,151 @@
+---
+id: ce03f4b1-ac1c-51d7-a84a-31db0a81fb19
+page-type-slug: story-chapter-royal-road
+title: "Chapter 450: Shrine Party with the Ooze Overlord"
+slug: 0487-chapter-450-shrine-party-with-the-ooze-overlord
+partOf: dungeon-of-knowledge-complete
+position: 487
+ownLength: 2331
+unit: words
+ownProgress: 2331
+publishedAt: 2025-11-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2783555/chapter-450-shrine-party-with-the-ooze-overlord"
+royalRoadId: "2783555"
+markedReadAt: "2026-06-29T20:28:43.779Z"
+---
+
+“What is it?” Naia said, exploring the shrine with her infinitely stretchable body. “Strong mana.”
+
+“This is my shrine,” Ali said. “You can use it to unlock your evolution, and then you can earn experience and levels again.”
+
+“How can I get one?”
+
+“I don’t know,” Ali said, frowning. She had inherited her shrine, presumably when her father had died, and so she didn’t exactly know how dungeons normally got their shrines. But she knew someone who probably did. “I could take you to visit Azryet, though, he probably knows. Anyway, here you go.” She unlocked the shrine for Naia to use.
+
+In surprisingly short order, the gong notification echoed through the Forest Cavern.
+
+[Zone] Ooze Overlord has advanced to the second tier.
+
+That was quick. Ooze Overlord? Did she just double down on everything Ooze? Knowing Naia, that’s probably exactly what happened. The little ooze quivered, and the mana emanating from her grew considerably denser and more potent, swirling within her transparent body like a high-level concoction brewed by Morwynne Fizzlebang. Except that Naia didn’t spontaneously explode.
+
+Mimic Slime [Rift Warden] – Anomalous Great Ooze – level 100 (Water)
+
+“Ali! Naia is Overlord! That’s good, right?” Naia said, bobbing up and down excitedly.
+
+“I’m glad you’re happy, Naia,” Ali said. Only mildly terrifying. “Now, I should give you the Champion domain enhancement for when you reach the rift.”
+
+“Naia has present for Ali-friend, too,” she burbled, and with that Naia produced a new slime with her bizarre, body-splitting technique for summoning. “Look! Sand slime!” She continued producing them until she had enough for Ali to learn the imprint.
+
+Sand Slime – Ooze – level 91 (Earth / Water).
+
+It’s a blob of mud, Ali thought, but she didn’t say it out loud, not wanting to hurt Naia’s feelings. Besides, it was one of her very few earth-affinity monsters, and she was certain she would find good use for it. Why not a mud slime, though? When Ali looked closer, it did seem to be more sand than water, but it was still strange-looking.
+
+Naia seemed content to play around with her new abilities for a while, Malika wore a serene expression as she meditated, and Ali certainly didn’t have any pressing engagements right now, so she sat there in the middle of the depressing forest of twisted trees and fungal growth that had once been her beautiful forest cavern. It’s going to take forever to clean everything up. When will I ever have the time?
+
+But the shrine stood tall and was already almost back to fully charged after Naia’s evolution, and she had a lot of unanswered questions swirling in her mind.
+
+What exactly is a shrine?
+
+She had inherited hers without truly knowing what it was for. Over time, she had developed some ideas, but it was her discussion with Azryet that had truly coalesced the concept for her. A shrine was a dungeon’s tool to optimize the minions and imprints she earned to produce the best combinations possible.
+
+So, if I were an ancient and powerful dungeon, what minions would I be making? Draconic Leviathans, the size of a major city, would be nice. She would be able to swallow up a Sandwyrm in a flash, but she wasn’t quite that powerful yet.
+
+There were many things she wanted to try, experiments she was excited to run, but the most important thing would be efficiency. The best minions were the ones that covered gaps in her survivability, such as the many and varied perception skills she had collected, and those that synergized well with her own skills. For example, her troll ice mages were dramatically more versatile because she could hide them behind barriers without worrying that they couldn’t shoot anything.
+
+But it was her most recent advancement to Empowered Summoner that had lodged itself in her imagination. It had surprised her in the battle against the Malevolent Lirasian Oak clones – channeling mana into it did not just boost the additional nature and arcane damage on hit granted by Empowered Summoner, as she had expected, but it boosted all nature and arcane spell power. This alone had improved the value of nature or arcane-affinity monsters dramatically.
+
+I really don’t have that many, do I? She had learned the Malevolent Lirasian Oak and the Dark Druid Sylvans, both of which had a secondary nature affinity, but neither of them was an ideal minion to bring to general fights. Her Forest Guardian was a pure nature elemental, but she would need to level it up to be effective in the kinds of fights she was currently facing. She had an Arcane Brawler – the arcane transcription of the Radiant Brawler, but it was similarly low level.
+
+Perhaps I should try transcribing more elementals?
+
+She had made an arcane-affinity kobold mage a while back, but it had only been used in her training arena and hadn’t progressed beyond level five yet. If Azryet was to be believed, she should have quite a few new options recorded within her shrine, and if not, she had some human and greater undead classes she could try cannibalizing with her runic script.
+
+Well, trying is faster than wondering about it. She popped open her Grimoire and summoned a troll bone warrior. It was the lowest-level troll she had summoned in a long time, and he immediately bowed to her.
+
+“How may I serve, Seeker?”
+
+“I wish to see if I can change your class and affinity,” she said.
+
+“As you wish.”
+
+Ali activated the shrine and got to work.
+
+[Shrine of the Ancient Grove] Class advancement reverted, Bone Warrior – 20,000 mana.Variant: Troll added to Imprint: Troll.
+
+She identified her now-classless troll.
+
+Troll (Bone)[Shrine of the Ancient Grove] Reserved mana reduced by 50,000Latent mana affinities:- Bone- BloodCompatible domain mana affinities: This content has been unlawfully taken from Royal Road; report any instances of this story if found elsewhere.- Nature- Arcane- Soul- Death
+
+Hmm, she thought, seeing the options she had available. She hadn’t repaired her dungeon, so she wasn’t quite sure if the troll would find other affinities later when she expanded her biomes to their former diversity. But it seemed the racial affinities for Aman Rak trolls were available, along with her main biome affinities for now. The availability of a death affinity seemed intriguing, bringing to mind visions of the Fetish-Painted Assassin. Although, he had shadow affinity, she thought, recalling the terrifying undead monster. But that wasn’t why she was here.
+
+“What do you think about a nature affinity?” Ali had many questions about affinities. Would she add a second affinity to her troll? Or would a new one replace the bone affinity? Were dual affinities an inherent property of more magical people or creatures, or was it something she could force?
+
+“I’m sure it will be excellent, Seeker,” the troll answered politely.
+
+“You’re not just saying that because I’m your summoner?”
+
+“The trolls of Aman Rak have always held nature with the highest respect. It would be an honor.”
+
+“Ok,” she said. Minion ego was a strange thing; how did he even know about Aman Rak, given that she had just summoned him? Is it my knowledge? Or is he picking it up from the accumulated knowledge in all my imprints? She put the question aside for later and chose nature.
+
+You have lost the affinity for Bone magic.You have gained an affinity for Nature magic.Your Aptitudes have been updated.New class options are available.
+
+Interesting. No dual affinities for him… If Azryet was right, and Teagan’s evolution was sufficient, I should be able to choose shaman now. Ali switched to the available class options, eager to see what had appeared.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 35,00010 Alternate classes found.Natural class:- WarriorAvailable alternate non-combat class options:- Herbalist- Ritualist- FarmerAvailable alternate combat class options:- Druidic Shapeshifter- Forest Archer- Beast Tamer- Berserker- Restoration Shaman- Elemental Shaman
+
+Oh… she thought. Oh wow. Not only did she have Teagan’s Restoration Shaman class available, but she had several other exciting options that seemed to be inspired by the many classes and evolutions she had given with her shrine. Of course, there was no way to be certain without many more experiments, but, in addition to Mato, there were several guild shapeshifters with a nature affinity now. Willow was a Beast Tamer. Teagan was the Restoration Shaman, and she had no idea where the Elemental Shaman had come from. Is Forest Archer from the Pathfinder Elves?
+
+Obviously, she would need to make all of them, but the idea of a Restoration Shaman was highest on her priority list. A potent and versatile healer that she could boost with Empowered Summoner would be an incredible asset, and well worth the effort to level up.
+
+Variant: Restoration Shaman added to Imprint: Troll.Restoration Shaman – Troll – level 1 (Nature).
+
+It didn’t take long to verify that his skills were close to what Teagan had shared, at least when she had started out. It had been a bit of a shot in the dark because she had not been the one to grant Teagan her original class, only her evolution – but, apparently, the evolution was sufficient for the shrine to offer a level one shaman class for her troll.
+
+Now, how do I level him up? And which other classes make sense? She had Sylvan archers, but she could see the advantage of adding a troll archer and exploring the different paths and skill advancements its bloodline might unlock. Similarly, the Elemental Shaman and Beast Tamer classes both warranted close study.
+
+“What is Ali friend doing?” Naia said, done with her exploration of the dark grove and the new abilities of her evolution.
+
+“Making minions,” Ali said, pointing to her troll.
+
+“Make a slime!” Naia said, bobbing up and down excitedly. “Slimes are best!”
+
+“Ok,” Ali said, amused by Naia’s excited antics. What to make? She considered what she had just learned about her shrine, studying Naia for a few moments. If it worked with Teagan’s evolution…
+
+It took all of a few moments to make a Brine Ooze and regress it, and then check the class options. Most race-bound monsters did not get any options other than their natural path, and so she was both surprised and delighted to see her newest minion offered two compatible choices.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 35,0002 Alternate classes found.Natural class:- Brine OozeAvailable alternate combat class options:- Mimic Slime
+
+So, it really encoded Naia’s class evolution and offered it to me. With the troll gaining Restoration Shaman as an option, she was only reasonably sure she had verified Azryet’s insight. But the appearance of the Mimic Slime as a choice settled it; it was far too rare to have been a coincidence. She was absolutely convinced, now. She selected the rare option and her slime’s little body clarified into the transparent blue, a little smaller than Naia when she had first met her deep under Volle.
+
+Variant: Mimic Slime added to Imprint: Ooze.Mimic Slime – Ooze – level 1 (Water).
+
+“Oh! It’s me!” Naia said, bobbing up and down and reaching out to prod the new ooze, which immediately turned itself into the shape and texture of the nearest rock, duplicating it exactly. It was a gesture so like Naia’s that Ali couldn’t contain a snort of laughter.
+
+Oops, did I just create a new dungeon? But when she brought up the tiny Mimic Slime’s skills, she found only ordinary slime abilities, along with the unique Mimic camouflage skill, which seemed to be a water affinity stealth ability. That’s odd.
+
+“Naia, were you always able to summon slimes and oozes with your class?”
+
+“No,” she answered. “At level twenty. One of my friends died, and I tried to put it back together, and my skills changed. I made a new Brine Ooze by accident.”
+
+“I see.” While Ali didn’t have a complete understanding of how her shrine recorded classes, it made some sort of sense – her own Deconstruction had evolved into Grimoire of Summoning at some point, and that had radically changed her class too. It must be that the Mimic Slime was an ooze class, but the Anomalous Ooze must have been the result of Naia diverging from her class path through the experiences she had had, and her choices.
+
+Still considering the implications, Ali made several more, offering them to Naia so she could learn to make them too.
+
+The next several hours vanished in the blink of an eye as Ali explored the various options available through her shrine, adding several new highly promising monsters to her Grimoire. However, her favorite occurred almost by accident when she reverted the second-tier evolution of a Plague Treant – a miasma-spewing treant that they had encountered sweeping through the jungle and forest cavern when she had first returned from the Abyssal Realm.
+
+[Zone] Deep Woods Ent has reached the second tier.
+
+Ali had chosen to experiment with it due to nothing more than its pure nature affinity, something of a rarity from the Blooming Rot dungeon. When she had checked its available paths, she had found a non-combat option focused on the summoning and care for plants in their natural environment.
+
+She stared at the zone notification, wiping the moisture from her eyes with the back of her hand. The name ‘Deep Woods’ and the pacifist path of natural balance could only have come from Lira.
+
+It’s a gift, Ali thought, steadying herself. And she knew exactly how to use it.
+
+It was a matter of a few minutes of runic inscription in her Grimoire to duplicate the feat she had achieved earlier, attaching the treant’s summon skill to any plant imprint she knew. Then she immediately summoned a dozen of her new Deep Woods Ents and unleashed them upon the awful, twisted ruin her Forest Cavern had become.
+
+“Fix it for me,” she told them. “Restore my beautiful, peaceful forest.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

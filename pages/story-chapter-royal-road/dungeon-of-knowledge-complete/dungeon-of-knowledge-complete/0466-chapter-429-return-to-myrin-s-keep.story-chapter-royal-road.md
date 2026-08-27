@@ -1,0 +1,165 @@
+---
+id: ce65f458-8cf1-54f0-9a15-96689311394c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 429: Return to Myrin’s Keep"
+slug: 0466-chapter-429-return-to-myrin-s-keep
+partOf: dungeon-of-knowledge-complete
+position: 466
+ownLength: 2719
+unit: words
+ownProgress: 2719
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2728622/chapter-429-return-to-myrins-keep"
+royalRoadId: "2728622"
+markedReadAt: "2026-06-29T20:27:58.586Z"
+---
+
+“Retreat! Fall back to the battlements!” Raya shouted, and her battered squad fled, bruised and bleeding, to the safety of the golden glowing walls. Kayleigh, in particular, needed prompt attention, her arm hanging limp where the monster had crushed it, tearing the muscles to shreds along with her guard uniform with its ridiculous bite.
+
+The battlements loomed large before her as they scrambled for safety with the remaining monsters breathing down their necks. “Run!” she yelled, reaching out and catching Kayleigh as she stumbled, the huffing growls of the Fungaloth growing closer and closer as they desperately sprinted for the distant gap in the barrier that was their sanctuary. “Go! Go!”
+
+But the pounding of the giant monster’s stride shook the ground, rapidly closing in, and she could already smell the rotting stench of its breath. She dared not look back, throwing everything into running as she dragged the struggling Kayleigh along with her.
+
+Suddenly, a flash of gold caught her attention from the corner of her eye, and a great crash and frustrated roar washed over her, and there, up ahead, she saw the tiny figure of the strange Fae flying on wings of gold. She wore an intense expression on her face, fully focused on the monster behind them.
+
+It’s her.
+
+The memory of this tiny creature waving her hand and manifesting the huge barrier that protected them sprang into her mind. Many people had been overjoyed to see it, but power of that scale simply couldn’t be trusted. Especially if it was true what people said – that she was the dungeon. But Raya did not slow down. If she could reach safety with all her squad alive, she would happily keep her feelings to herself.
+
+“Attack,” the Fae commanded.
+
+From behind the flying Fae, a glowing ball of white flame shot out, and Raya’s eyes widened as she saw the fireball rushing straight toward her. She dove to the ground, taking Kayleigh with her, earning a mouthful of dirt as the rest of her squad tried to run. But there was no time.
+
+A huge detonation filled the air with white flame, spraying clods and dirt everywhere. But it was the rain of dirt hitting her that made her look around in surprise. I’m not dead? Slowly, she got to her feet, darting around in surprise. She stood in a sea of flame, but she was not burning.
+
+She stared in astonishment, finding the mutated Fungaloth monster struggling to crush a golden barrier that blocked it from reaching them, and then another ball of yellow-white flame shot toward it, passing right through the barrier that winked out of existence for a fraction of a second before reappearing.
+
+Raya flinched as the fireball detonated, spraying flame and dirt everywhere, but again, she was unhurt. Wait… I’m healing? The deep gashes on her side itched as they slowly knitted back together, and then her rib crunched as it slotted back into place. On the ground beside her, Kayleigh was staring at her ruined arm as it slowly repaired itself.
+
+“Sorry! I didn’t have time to warn you,” the Fae said. “Holy fire. It will heal you.”
+
+Several more bolts of holy fire shot out, and she finally saw the strange little kobold mage standing on the battlements as it tore the struggling monster to shreds with its potent magic.
+
+Your group has defeated Fungaloth – Fungal Aberration – level 98.Spear Soldier has reached level 45.+10 attribute points.
+
+Ninety-eight? This is bullshit! How could her squad stand against something so much stronger than them? Even now, she had only earned a single level for the kill, showing just how little she and her squad had contributed compared to the Fae and her kobold mage that had stepped in to save them.
+
+She helped Kayleigh to her feet, now fully healed, and they walked over to the battlements and the glowing Fae.
+
+“You guys are a bit outclassed here. Where is your healer?”
+
+“We don’t have a healer,” Raya said. “Or a tank. We’re just guards.” And that really was the problem – there were not nearly enough healers in the guard ranks. Command had set up what few healers they had behind the golden wall, and if they got injured, they were ordered to retreat and find one of the healing stations to recover. But, out there in the thick of battle, it was all too easy to lose people in an instant. Especially against a level ninety-eight monster.
+
+“That’s not good.”
+
+“No shit,” Raya said, her frustration leaking out. They weren’t even strong enough to make kills that would let them grow.
+
+“Perhaps I can help?” the Fae said. “Where are you posted?”
+
+“Over there,” she pointed. “By that hill.”
+
+“Let’s go.” The Fae flew past her, heading in that direction.
+
+Raya took a quick look at her squad, but everyone was looking back at her, waiting for her decision. Everyone is healed. “Fall in, follow me,” she said, and turned to follow the flying Fae at a brisk jog. She wasn’t sure what the Fae had in mind, but she had just healed her entire squad, and that, at least, was worth a lot to her.
+
+They finally reached the battered hillock, scarred with the signs of a long battle. “We were ordered to guard this area,” she said.
+
+“Ok, this is a good spot,” the Fae said, and made a strange, glowing book appear before her. Magic flared and flickered for a good thirty seconds until, suddenly, a huge monster of wood and bark appeared. It was nearly the size of the Fungaloth, but its four legs seemed to be heavy bark-covered wood ending in roots that gripped the earth below. An enormous, broad head hung between massive shoulders, and the glowing green eyes turned to regard the flying Fae with a surprising intelligence.
+
+“You will help these guards protect this area,” the Fae said, and the massive head lowered in acknowledgement as a bass rumble shook the ground.
+
+Forest Guardian – Wood Elemental – level ??
+
+The Fae touched it, and something happened with the magic in the air about them, and the elemental monster grew even larger.
+
+“It’s an elite dungeon monster,” she said. “It does physical damage, but it has nature absorption and a self-heal, so you won’t have to worry about it dying even if it is a little low-level compared to the monsters. It has a fairly large health regeneration aura, and I amplified that skill. You should be able to use it as a tank, and the regeneration should be enough to keep you healed.”
+
+“Low level?” Raya said, staring at the giant elemental. She couldn’t even identify it.
+
+“It’s level sixty-seven,” the Fae answered. “I can’t make it any higher yet, but if you help it kill stuff, it will level up with you.”
+
+“Incoming! Sylvan warrior, sir!” Kayleigh shouted.
+
+“That’s a level eighty-two,” the Fae supplied.
+
+Raya turned, her gaze flipping from the elemental to the incoming monster, worry and trepidation making her slow and hesitant. Eighty-two? Always so high, and much scarier when she knew exactly how high.
+
+“Why don’t you try it?” the Fae suggested. “Let the guardian attack first and use it to tank, and then you all kill it. I’ll stay here just in case.”
+
+“Ok,” she said. “Wait for the guardian, then attack. Just like she said.” Her squad acknowledged the orders and readied their weapons, and moments later, the Forest Guardian turned and roared a mighty challenge. The ground shook as it charged the tree-person, smashing into it with sheer brute force and tearing great furrows in the ground with its thick roots.
+
+Raya waited a few moments until the monster was fully engaged. “Attack!”
+
+She charged in with her squad and lunged forward using Spear Strike, the point biting through the dense wood and bark. The Sylvan warrior lashed out, striking with both swords in a swinging arc that ripped right through the heavy wood armor plating on the Guardian’s chest and continued onward in a spray of bark and wood, one of the blades slicing through Raya’s shoulder on the way through.
+
+Pain lanced through her from the sudden wound as blood sprayed across the side of her face, and she fell backward. But her wound filled with a living vitality, a pulse of magic that even she could feel, and to her amazement, it slowly knitted itself back together.
+
+Is that the regeneration aura she spoke of? If it was, it was far more potent than any she had ever seen.
+
+She waited, hanging back while her squad darted around the monster, taking the time for her ruined shoulder to repair itself. By the time she was healthy, two more of her squad were hanging back with debilitating injuries, but they were healing, so she readied her spear and rushed back into the fight. It was slow and cautious, but the Guardian tanked the monster the entire time, and her squad whittled away at the Sylvan warrior, backing off to recover injuries whenever they needed.
+
+Your group has defeated Warrior – Sylvan Dwarf / Plant – level 82.Spear Soldier has reached level 49 (+4)+40 attribute points.
+
+“Holy shit, I got five levels!” Kayleigh exclaimed, followed by excitement from the rest of the squad as they compared notes.
+
+I got four. Raya was the highest level of her squad, so the difference made sense. Still, four levels, even with the help of a huge elemental, were by far the most she had ever earned from a single fight.
+
+She glanced up to find the Fae still hovering at the back. “Thank you,” she said. And she meant it, despite the rumors and horror stories about dungeons, this Fae had given them a way to survive out here – and if it played out the way this fight had, her squad would grow rapidly stronger, and that was more than enough for her.
+
+“You’re welcome. When you finish your shift, please let Commander Brand know. If he coordinates with the Guild, I can do this for other squads that might be struggling too.”
+
+“I will,” she said, smiling at the Fae. “I’m Raya, by the way.”
+
+“Aliandra, it’s good to meet you.”
+
+As Aliandra left, Raya turned back to her squad and the enormous Forest Guardian at their backs and felt the first stirring of excitement since the destruction of the town. Time to get stronger. They could do this.
+
+Ali flew along at the back, hovering beside Calen and Lyeneru, looking down on her minions as they tore through the plants and fungus monsters on the ground below, making their way through a ruined Myrin’s Keep. It was a sad sight – Myrin’s Keep had never been a particularly nice town, but the last couple of months before the Lich’s catastrophic appearance had seen an impressive improvement. Crime had been dramatically reduced by the death of Kieran Mori and the ouster of the Town Watch. Commander Brand and the garrison guards were far more competent at the job of protecting the town, and they were widely respected among the townsfolk.
+
+Although they had arrived under unfortunate circumstances, the addition of several thousand wood elf refugees had certainly invigorated the town’s economy with an injection of so many new crafters and artisans with talents and skills that seemed rare among the human townsfolk.
+
+Now, though, Ali’s berserkers were ripping through Creep Spawners sprouting from the dense, dark mush that grew like a malignancy, choking even the rubble of the ruined buildings and streets.
+
+They were not the only ones in here – with the establishment of her battlements and the raid bosses and monsters guarding the uprooted townsfolk, three of the four raid groups were out here, tearing through monsters and honing their newly unlocked skills against the parasitic fecundity of the Blooming Rot dungeon. The shouts, clanging, and sizzle of spells could be heard in the distance above the roars of monsters, and flashes of lightning and other magical attacks flickered among the ruins, testament to the brutality of the clashes.
+
+Ali’s awareness ranged throughout her reclaimed dungeon, tracking the border by the pain of the dungeon rage and the unrelenting tide of monsters that the Blooming Rot threw at her in never-ending waves. But the bosses she had established seemed to be comfortably holding off the hordes. It wasn’t the trash monsters that were particularly challenging – it was the power of the established raid monsters, and the relentless assault that scrambled and clawed its way to poison, corrupt, rot, and consume everything in its path.
+
+“We’re getting close,” Calen said, pointing the way with a floating orb of light.
+
+“So, what abilities does it have?” Ali asked. While the other raid groups were culling the horde, their team was making their way up through the center of the ruins of Myrin’s Keep, heading for the marketplace, their goal to kill an archer raid boss that was preventing her from retaking the ruins of the town. Once the boss was killed, removing the infection of the Blooming Rot domain would prevent it and the Creep Spawners from respawning and spilling out into the surroundings.
+
+“Zone of Destruction with pools of rot,” Calen answered. “And it summons zombie treants.”
+
+Zombie trees? Ali frowned. The idea of zombie treants was a perversion of everything Lira stood for. Everything she had been in life. Ali was already committed to clearing the dungeon and releasing Lira from her unwilling servitude to the Blind Lich, but this simply underscored her resolve.
+
+“He’s very slippery,” Malika added, looking up from where she had just finished punching a Creep Spore, preventing it from exploding. “He has two movement skills, and he’s super-fast.”
+
+“Fade makes him invisible,” Lyeneru said, hovering on wings of flame and lightning nearby. “So, if you don’t have the perception skills to see through that, you will face constant Ambush attacks. He has multishot, rapid fire, and power shot. The arrows have poisons and a curse, and an explosive death magic ability.”
+
+“And it quickly fills the space with poisonous spores.”
+
+“Can we pin it down?” Ali asked. Locking it in one place would make it much easier for her melee monsters: the berserkers, shamans, and the bone champions.
+
+“It’s virtually immune to nature magic, so roots don’t work. And Disengage is a teleport, so it gets out of most other traps and grapples. I’ll use Cinderstrike for the on-hit Slow curse,” Calen said. “That at least works, even though it’s a low-level curse. The boss heals from nature damage, which it gets from its parasitic items.”
+
+“Wait, the archer has nature absorption?” Ali asked, a nagging worry rearing its ugly head in the back of her mind.
+
+“It’s a Sylvan. All the Sylvans do, and so do the Infected Rot Guardians,” Calen said. “Remember from your imprints? The one you probably don’t know is that the zombie trees have death magic absorption.”
+
+“Oh,” Ali said, and suddenly two different pieces of information collided in her head. “Oh!” She reached out and ripped the Twisted Band of the Sylvan Summoner off her finger. No wonder they’re so hard to kill all the time. She had been inadvertently healing their enemies with additional death and nature damage on every hit her minions made. Mostly, they still did more normal damage, and so they weren’t fully healing the monsters like she had once done to a fire elemental in the Emberforge Mines, but the ring was certainly making their jobs much harder.
+
+“What advantages do we have?” Ali asked, giving Calen an apologetic look, knowing that his sharp eyes wouldn’t have missed the removal of her ring. She wasn’t about to turn off Empowered Summoner, which also granted her minions nature damage on hit, but removing the ring would definitely help. They’d just need to power through the rest of it.
+
+“It’s vulnerable to fire,” Vivian said, twirling a flaming sword in her hand with a flourish for emphasis.
+
+“Ok, I can do fire,” Ali said as she pulled out her Grimoire and got to work. Huh. Maybe we can just ask Azryet to sneeze over this part of town? He’d burn everything to the horizon with holy fire.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

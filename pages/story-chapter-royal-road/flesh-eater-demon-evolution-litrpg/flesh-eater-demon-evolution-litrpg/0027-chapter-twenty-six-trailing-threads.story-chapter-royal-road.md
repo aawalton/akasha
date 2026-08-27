@@ -1,0 +1,171 @@
+---
+id: a50e26cb-c121-5e9c-94c1-d2500f24cd4b
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-Six: Trailing Threads"
+slug: 0027-chapter-twenty-six-trailing-threads
+partOf: flesh-eater-demon-evolution-litrpg
+position: 27
+ownLength: 2722
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2649655/chapter-twenty-six-trailing-threads"
+royalRoadId: "2649655"
+---
+
+The shadow twisted again, and this time Pyre could see an actual shape moving along the ceiling. It was still hard to make out exact details, but based on her thermal vision map, the approaching creature was quite long. And big.
+
+“Hey, kid. Heads up.”
+
+Callan’s eyes snapped upwards, widening when they noticed the movement. “…What is that?”
+
+“Not a good thing to ask an amnesiac,” Pyre drawled. She flexed her flesh slightly. The numbness from the lightning strike had mostly gone away by now, and the burns had healed over. [Regeneration] was doing good work. Of course, it probably helped that she hadn’t taken much damage to begin with.
+
+The demon continued watching the approaching… thing, which seemed to be purposely crawling around the rocky bits of the ceiling to stay out of view. Now that it was closer, though, she could make out a distinct scuttling sound, albeit amplified many times louder than she was used to thanks to the creature’s size.
+
+She raised an eyebrow. Long, crawling body. Scuttling legs. A vague memory rose in the back of her mind, the word starting to form just when the creature finally creeped out from behind the shadows.
+
+Ah, giant centipede. That’s what it was.
+
+Callan made an alarmed shout just as the bug shot forward, its many long legs moving with impressive speed for its size. It slammed into Pyre’s bone armor with full force. The demon shifted a little, but the bone plates held firm. Compared to the chimera, this was nothing.
+
+The creature made some sort of clicking noise and darted back, quickly climbing up the walls of the cave to where it could loom above them. The demon squinted at it and tried very hard to remember if bugs had flesh. She was pretty sure the answer was “no,” but this was also a fantastical giant bug. Maybe eating the muscles and organs would count? [Flesh Composition] did imply that the system defined flesh as “muscles and fat,” so maybe eating one half of that would work.
+
+While Pyre deliberated, green light flashed to her side. Through her side eye, she saw Callan thrust his hands out, a glowing arrow shooting out of his palms towards the centipede. It easily dodged, and the spell landed harmlessly against the rocky cave wall. A small seedling sprouted out from the spot it had hit. The ghost made a frustrated noise.
+
+“It’s moving around too much for me to drain!” He spun around to face the demon. “Why’re you just sitting there?”
+
+“I’m trying to figure out if I can actually eat it or not.” She didn’t understand why the kid was so stressed. Based on its last attack, the centipede couldn’t do shit against her, and it could do even less to an incorporeal ghost. For all she cared, it could continue to crawl around them as much as it wanted, and it would still be no more than a minor nuisance.
+
+Callan frowned. “Don’t you have a class now? You could get class experience from killing it!”
+
+She paused, considering. “True.”
+
+The centipede’s body undulated, its many legs moving lightning fast as it approached again. Pyre wasn’t planning on chasing it around or turning this into a match of agility, though. Instead, she released [Flesh Sculpting], then adjusted the composition of her flesh to 90% fat.
+
+Immediately, her body’s volume rapidly grew, expanding to fill out the small space of the cave. The centipede seemed to realize what was happening and attempted to scamper away, but it was too late. It was hit face first with a pile of flesh crushing into it. The demon promptly grew a mouth over the creature and chomped down, just to check if it was edible or not.
+
+It took her a bit to tear through the thing’s exoskeleton. She let the ripped pieces drop down to the cave floor with a clatter. Finally, she reached its innards.
+
+[You have devoured (1) Giant Centipede Lvl 11][Experience earned!]
+
+[You have gained (1) [Vibration Sense] subtrait shard]
+
+[You have gained (1) [Autotomy] subtrait shard]
+
+[You have gained (1) [Venom] subtrait shard]
+
+Ah, so it did count as flesh. Good to know. She hadn’t gotten that many subtrait shards from it, but she figured she probably didn’t share that many main traits with the bug. The shards she had gotten, though, sounded pretty interesting.
+
+As Pyre finished chowing down, brief images and sensations flashed through her mind. The blue sky, the wind pressing against her, a distinct feeling of weightlessness. That last one, especially, made the demon pause. She spit out the last bit of exoskeleton and adjusted her flesh back to 99% muscle. Her body immediately shrank back into a denser, more compact form.
+
+Callan was floating near the cave wall, eyeing the broken pieces of exoskeleton with faint disgust. Pyre focused her eyes on him as she absorbed her extra mouth, leaving just one active.
+
+“Hey, can giant centipedes fly?”
+
+The ghost squinted at her. “…No? What the fuck?”
+
+“Hm. Interesting.” That’s what she’d thought, but you had to cover all your bases when you were in a world of magic. She waved her flesh at the bug’s remains. “‘Cause I’ve got a subtrait that lets me see memories and shit when I eat things, just some quick flashes, and either the subtrait’s broken or that bug’s been hallucinating flight.”
+
+Callan opened his mouth, then closed it again. He gave the demon a long look before his eyes shifted over to the broken pieces of the exoskeleton. He looked thoughtful, his earlier disgust replaced with distinct curiosity.
+
+“You said it shows memories specifically?”
+
+“That’s what the description says.”
+
+The ghost hummed. “Maybe it fell from somewhere high up? If it’s just flashes, the two sensations could be similar.”
+
+“If that’s what it was, then it was falling awfully slowly.”
+
+Callan didn’t respond to that, not that Pyre had any better theories about what those memories had been. The whole situation was weird—more weird than “giant centipede” and “targeted giant lightning.” The Gravestone Mountains as a whole were just an odd place, she decided. But hey, they sure were interesting. This definitely beat waiting around in the cavern all day while she was healing.
+
+Speaking of the mountains, another rumble of thunder echoed around the cave. Throughout their brief encounter with the centipede, the cave entrance had regularly lit up with flashes of lightning. But from what Pyre could tell, there hadn’t been any more of those long, sustained lightning bolts, which was itself suspicious. Whatever was causing them, it seemed to know that its targets were currently out of range.
+
+The demon peered deeper into the tunnel. She couldn’t see where it ended. Experimentally, she warped some of her flesh and hit the wall a few times. The sound echoed down the passage, eventually fading back into silence. It sure sounded like it went on for a while.
+
+“Hey, you know if this goes all the way through?” Considering the imminent threat of death via lightning bolt in the pass, this might be their only option to get through the mountains.
+
+Callan furrowed his brows in thought. “Maybe? I’ve heard of people traveling through tunnels before, but most avoid it since there’s usually so many creatures living inside them.”
+
+“Can’t be much more dangerous than giant lightning,” Pyre pointed out.
+
+“That’s the thing, lightning strikes do happen because of the storms, but I’ve never heard of anything like…” His voice trailed, and he gestured vaguely to the cave entrance to prove his point.
+
+The demon thought back to the scorch marks along the mountain sides. Based on those, clearly this wasn’t the first time a bunch of lightning had been sent coursing down the pass, but she also hadn’t seen any bodies or other remains lying along the trail. It was highly likely that whatever was causing the lightning was also going out of its way to pick up the corpses it left behind. And if humans had been able to get through the pass without issues in the past, then that pointed to one particularly unpleasant thought.
+
+“It picks and chooses who to target.” And it could somehow see or sense who was in the pass at any given time.
+
+Both of them stared outside the cave entrance for a moment, more flashes of lightning illuminating the steep mountainsides and sharp stones. “Well,” Pyre said. “I think it’s time to see what’s in these tunnels.”
+
+Travel was easy, at first. The tunnel continued deeper into the mountain, and they soon reached a point where the light from the cave entrance was no longer visible. Both of them had darkvision, though, so it wasn’t a very big deal.
+
+The air cooled down even further. Pyre could hear the sound of water dripping down from somewhere on the ceiling. After the giant centipede, she’d been expecting more weird, possibly extra-large creatures to jump out, but there’d been nothing so far. She was guessing the noise from the fight had scared away anything that might be close. Or maybe the centipede had eaten all the nearby creatures before attacking them.
+
+Things got more complicated when the path split. The stone tunnel branched out into two distinct routes. Pyre stopped and squinted down the openings. Both of them extended past what she could make out, and a quick glance through her thermal vision eye revealed equally blue, cold temperatures in them. There was nothing special about either of them that she could see.
+
+“Got a coin to flip?” the demon half-joked. Technically she did still have her bag, dutifully swinging on its bone spike, and there were leftover coins in there. Frags. She still couldn’t believe that’s what this world’s currency was called.
+
+Callan frowned and drifted forward until he was hovering directly between the two paths. His brows furrowed in thought.
+
+“Wait, I think I’ve got an idea.”
+
+The ghost crouched down, pointing a hand down at the earth. He focused, and a soft green glow shone from the center of his palm. A few moments later, a flower with large, fanning white petals began to grow directly beneath his fingers, stopping when it was just tall enough to reach the ghost’s ankles.
+
+Callan exhaled, and his palm glowed again. Pyre watched in interest as what looked like thin, silvery strings first wound towards his hand, then proceeded to wrap themselves around the flower. The thread-like substance, she guessed, was the atmospheric ichor mages pulled for their spells.
+
+Finally, the glow died down and Callan’s shoulders slumped, visibly tired. His face, however, was triumphant. Pyre stared down at the flower, its pale petals stark in the darkness. She was about to ask what it was supposed to do when she noticed it tremble slightly. She squinted.
+
+Sure enough, the flower was tilting, its stem bending steadily towards the right before it came to a stop in a curved arc. Callan smiled and pointed at the left tunnel.
+
+“This way,” he said. Pyre raised an eyebrow.
+
+“Care to explain how you figured that out?”
+
+“If one of the tunnels connects all the way through to the other side, then there’d be wind currents coming through,” Callan said. “Over time, plants can grow bent if they’re constantly hit by winds coming from the same direction. This type of flower, especially, is really sensitive to air currents.” He gestured to the plant in question, still sitting innocuously between the two paths. “The second spell I cast just artificially sped the process up.”
+
+“And since it bent right, that means it was probably getting hit by wind from the left,” Pyre finished. The ghost nodded.
+
+“That was my thinking, anyway.” He shifted, and he suddenly sounded less confident. “Uh, of course I could be wrong—”
+
+“Cool. Let’s go left.” Pyre didn’t give the ghost a chance to respond, already turning to head in that direction. Callan blinked, seemingly surprised at how quickly the demon had taken his word for it. She raised an eyebrow.
+
+“What? It’s not like I’ve got any better ideas.”
+
+The ghost nodded slowly, though he still looked a bit stunned even as he floated after the demon as she entered the left tunnel.
+
+It was even narrower than the entrance, Pyre noted. If she increased her fat percentage even a little, she could easily stretch from ceiling to floor. She quickly checked to see if [Flesh Sculpting] was off cooldown yet—she hadn’t used it for its maximum duration while traveling through the Lightning Pass, so its cooldown should be shorter. No such luck. It looked like she’d have to wait a bit longer to use the skill again.
+
+“You know,” Pyre said, her voice echoing slightly in the enclosed space, “couldn’t you just float through the mountain or something?” That would certainly be one way to go about it.
+
+Callan shook his head. “Passing through solid objects takes a toll. The longer I do it, the more I start to… fade. I can’t do it for very long right now,” he admitted.
+
+“Fade,” Pyre guessed, was the ghost equivalent of what melting was to her and her fellow flesh-lump brethren. She hummed. “No passing through mountains for you, then.” At least not yet. Who knew what ghosts could do once they got higher up in levels.
+
+As they made their way deeper into the tunnels, the muffled noise of thunder reached the demon’s ears. It was so muted that if she didn’t know better, she could easily mistake the sound for an impending rockslide or a distant roar.
+
+She heard a splash and glanced down. The dripping water from the ceiling was fast enough here to form a proper thin stream along the edges of the tunnel. Some of the rock there had started to erode, creating a little dip for the water to run through. A small, dark shape swam within that tiny stream. A fish of some sort.
+
+Pyre extended her flesh and wrapped it around the creature. It was cold and slippery, not helped by its immediate flailing. She dropped it into her mouth, mostly to check if it was secretly high level.
+
+[You have devoured (1) Cave Fish Lvl 2][Experience earned!]
+
+[You have gained (1) [Scales] subtrait shard]
+
+Damn, that was worse than she’d thought. It didn’t even taste very good.
+
+Pyre would’ve lamented the tragedy of only getting one subtrait shard from the creature for longer if her attention wasn’t drawn to the quick flash of memories she’d gotten from that bite. Namely, green leaves. A forest canopy. Stuff that looked decidedly not like any place a fish should be. Her memory might be mostly missing, but she was 99% sure fish didn’t climb trees.
+
+The first time she maybe could’ve brushed it off—Callan’s “it was falling not flying” theory could work if she really stretched it—but twice? Either [Memories of the Flesh] was glitching out or there was something else at play here.
+
+She swiveled her eyes around, ready to ask Callan if he knew what the fuck was going on in these mountains, when she realized the ghost wasn’t there.
+
+Pyre raised an eyebrow. Had the kid booked it? A second scan, however, revealed a flash of something silvery a bit further ahead. She moved closer, and yep, that was definitely Callan, translucent body hovering over something by the tunnel walls. It was a little more spacious here, the demon noted, which she appreciated. It definitely made it easier to move around.
+
+“Hey, what’s up?”
+
+Callan didn’t say anything in response. He simply pointed, and Pyre followed the line of his finger to the sides of the tunnel.
+
+There, a pale human corpse lay collapsed against the stone walls, its body almost completely encased in a cocoon of thin, stringy white threads.
+
+The demon’s eyes followed those strings, tracing them up to the ceiling where more hung down in dangling loops. She turned to the rest of the tunnel. The threads continued winding deeper inside, and more limp shapes lay scattered along the ground like morbid stepping stones framing the path. None of them moved. All of them were wrapped in that same string-like substance.
+
+Well then. Call it a hunch, but Pyre had a feeling she’d be getting answers to her questions about this place very soon.

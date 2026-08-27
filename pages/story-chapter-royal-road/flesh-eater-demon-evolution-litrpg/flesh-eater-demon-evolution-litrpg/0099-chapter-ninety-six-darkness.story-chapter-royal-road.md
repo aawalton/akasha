@@ -1,0 +1,163 @@
+---
+id: 60e149d9-a838-560c-bba1-84b632052fbe
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-Six: Darkness"
+slug: 0099-chapter-ninety-six-darkness
+partOf: flesh-eater-demon-evolution-litrpg
+position: 99
+ownLength: 2312
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3564190/chapter-ninety-six-darkness"
+royalRoadId: "3564190"
+---
+
+Callan immediately tensed. He listened more closely, but he didn’t hear the sound again. There was nothing but the inky darkness shrouding the alleyway from view.
+
+It could be nothing. Just the wind knocking over a piece of trash or a rodent scurrying across the ground.
+
+And yet, the ghost couldn’t shake the feeling that something was very wrong. A cold unease settled in his gut, every instinct of his blaring in warning.
+
+Callan’s eyes darted back to the fountain at the end of the road. Pyre and Daphne were probably waiting there. Should he go get them? He was sure Pyre would be able to handle whatever was down that alleyway.
+
+But what if that took too long? If he was right and there really was something down there, it could easily be gone by the time he returned with the demon.
+
+His fingers clenched. He was being ridiculous. You are a goddamn ghost, Callan reminded himself. You already died once. What the hell are you so afraid of?
+
+He wasn’t a human anymore. If anything, he was arguably the best equipped to investigate something like this. It didn’t matter that his instincts didn’t seem to understand this or that they were practically screaming at him to get away from here. Old habits died hard, after all.
+
+Taking a deep breath, Callan turned and stepped down the alleyway.
+
+Almost immediately, the sounds of the city dimmed, muffled by the thick brick walls towering on either side of him. The ghost scanned his surroundings, but it was still hard to see. It was so dark that it felt unnatural.
+
+Callan narrowed his eyes. He didn’t have perfect darkvision the way Pyre did, but he could definitely see a lot better in the dark now than he could as a human. He’d been able to navigate the tunnels in the Lightning Pass just fine. This was something else.
+
+Carefully, the ghost continued forward as quietly as possible, trying to avoid alerting whatever was inside of his presence. Now that the sounds of the city were dulled, it was easier to focus on the alleyway. He could hear water dripping down from somewhere, the wind whistling through the narrow space, the buzzing of a bug flying about.
+
+Then, he heard it again. Another faint rustle.
+
+Callan stopped. The sound had come from his left. Slowly, he began to turn.
+
+Something grabbed his neck.
+
+He immediately turned incorporeal and invisible.
+
+The person who’d grabbed him stumbled with a yelp, nearly falling forward as the ghost disappeared. Through the thick shadows, Callan could make out a humanoid figure hidden below a black cloak.
+
+“What the hell—?”
+
+Whispering as quickly as possible, Callan began chanting. The green light of his magic glowed in the dark alleyway, and the figure spun around to face him. The man’s eyes widened at what must’ve looked like a spell being cast out of thin air. He cursed.
+
+Just before Callan finished his incantation, the hooded figure shoved up his sleeve. Through the darkness, he could just barely make out what looked like inky black runes wrapping all around the man’s forearm.
+
+Callan launched his spell, but just before it could hit, the man tapped one of the runes on his skin. It flared a deep violet hue, and in a flash, the figure disappeared.
+
+The spell crashed into the wall of the alley. Creeping vines sprung out from the brick, coiling harmlessly around empty air. Callan spun around, trying to find a trace of the cloaked figure, but he was gone.
+
+The ghost blinked. Suddenly, the darkness in the alleyway was no longer as thick as before. He could see normally again, and right now, he saw only brick walls and a muddy ground beneath him. His brows furrowed.
+
+Was that a teleportation spell? Spatial magic was a highly specialized, advanced form of magic to master. You needed to have a particular affinity for it, and even then, true, unmoored teleportation was something you only achieved at [Tier 4].
+
+Callan thought back to the rune tattoos he’d glimpsed. No, that had seemed more like a pre-prepared “homing” spell. He guessed the glyphs could only teleport the user back to one specific location once activated. It was still advanced, but a little more reasonable.
+
+The ghost’s heart raced. Between the teleportation, the magical darkness, and the rune tattoos, it was clear that that hadn’t just been a regular thug. There was something more going on.
+
+Almost immediately, his mind went to those newspapers. Was that man responsible for the disappearances? Was he part of a larger group that was? What was the purpose?
+
+“Yo, Callan, you alive?”
+
+Callan jumped and spun around.
+
+There, standing at the opening of the alleyway, was Pyre. The demon’s body language was casual and relaxed, but he could see those sharp grey eyes scanning the area. Behind her, Daphne squinted into the alley and frowned. She couldn’t see him because he was still invisible, Callan realized. The human didn’t have Pyre’s thermal vision.
+
+He turned off his invisibility—Daphne jumped slightly at his sudden appearance—and carefully floated over to the two of them. Finally, he came to a stop in front of Pyre. The demon was watching him steadily. Not judging, just waiting. He swallowed.
+
+“…I think I know who’s behind the disappearances.”
+
+“I don’t know what he wanted.” Callan sounded frustrated. After fetching the ghost from the alleyway, they’d hurried towards Serindell’s eastern gate.
+
+By now, the sky was dark and the silver moon shone brightly above them. While the central parts of the city were still quite busy, the outskirts were silent as they passed through. Callan was on edge the entire time, gaze darting everywhere, and Daphne was equally tense. No one had approached them, though—certainly no one like the man the ghost had just described.
+
+“And he grabbed you? Just like that? Did he have a weapon?” Daphne’s questions came rapid-fire, gaze sharp and focused.
+
+Callan shook his head. “I couldn’t see. I think he was using a spell to create artificial darkness.”
+
+“So teleportation and magical darkness,” Daphne recited. She frowned. “That’s… not good.”
+
+Pyre hummed in acknowledgement, casually scanning their surroundings as they walked. She could see the eastern gate looming up ahead. Once they passed through, it was just a short walk along the shore before they made it back to Llyr’s house.
+
+The demon couldn’t gauge how rare or impressive a spell was, but the combination of artificial darkness and instant teleportation certainly sounded like the ideal setup for serial disappearances. Granted, “mysterious dark-hooded figure” wasn’t a whole lot to go on, and it still didn’t explain why all these people were being kidnapped in the first place.
+
+It must’ve been a shock when the guy had tried to grab Callan, only for the ghost to disappear into thin air. She would’ve wanted to see his reaction.
+
+“If I’d just been faster, maybe I could’ve caught him,” the ghost was saying, shoulders slumping dejectedly. “I should’ve just drained him.” He rubbed his forehead. “God, why didn’t I think of that?”
+
+“Eh, you were surprised,” Pyre said with a shrug. She reached down and ruffled Callan’s hair, the ghost trying and failing to bat her hand away. “Congrats, kid, we’ve been here for less than a day and you’ve already got someone trying to kidnap you. Must be a record.”
+
+Callan immediately scowled at that. Daphne huffed a laugh.
+
+As the group passed through the eastern gate, one of the guards standing at the sides glanced their way, but she didn’t stop them. They left Serindell with no further interruptions, and soon, the sound of rolling waves washed over them.
+
+Under the moonlight, the ocean shimmered like twinkling stars. Water and sky seemed to blend together in the darkness, forming a vast expanse of black and silver. Behind them, the warm lights of Serindell and the iridescent sheen of the angel wings’ feathers illuminated the city like a beacon.
+
+“…Do you think he went after someone else?”
+
+Pyre glanced back at Callan, who was staring at the ground as they walked. She hummed.
+
+“You said that teleportation spell or whatever only goes one way, right? So probably not tonight.” She faced forward again. “I bet he’ll show up again at some point, though.” The sheer number of people who’d already gone missing proved that whatever was going on, it wasn’t slowing down any time soon.
+
+Both Callan and Daphne quieted at that, their moods turning somber. Both of them seemed to be taking these disappearances hard despite not knowing any of the victims. The demon couldn’t say she felt the same emotional attachment to the situation, but she was still curious about it.
+
+Doubly so now that Callan had been targeted.
+
+Up ahead, the ground sloped upwards. The trio made their way up the hill and finally reached its peak. There, they could see the mansion lying at the bottom of the slope, the waves gently kissing the shore behind it.
+
+There was a carriage parked outside the home.
+
+Pyre’s eyebrows rose. That definitely hadn’t been there before. It was an ornate carriage, too, the kind with gold trimming, sleek horses, and a perfectly nondescript driver waiting patiently at the front seat. She seriously doubted Llyr owned something like that, and based on the glances Callan and Daphne exchanged, they didn’t either.
+
+“…Maybe it’s another patient?” Daphne suggested. The lady in the store had said that Llyr healed people from the Upper Ring too, so that wasn’t impossible. Callan’s near-kidnapping had left them on edge, though, so it was with wariness that they descended the slope.
+
+When they reached the front door of the mansion, it was unlocked. Pyre shoved it open and strode in without preamble, ignoring Callan’s sputtered objections. If Llyr didn’t want people randomly barging into his house, he should lock the door.
+
+Almost immediately, the demon heard low voices coming from the dining room. She turned in that direction.
+
+Thanks to the open layout of the building, she was able to glimpse the room in question after turning the next corner. Some of her view was blocked by the wall, but she could see Llyr sitting at the table. His shoulders were tense, blue eyes narrowed slightly, and his usual serene smile was completely absent from his face.
+
+Seated across from him was an unfamiliar man who appeared to be somewhere in his early to mid thirties, though his sharp features made him seem older. His clothing—a long dark coat with gold buttons that probably cost more than some houses—immediately made it obvious that he was a noble and probably the owner of the carriage outside.
+
+The man had black hair and equally dark eyes that were currently fixed on the healer, and he carried himself with a cold, refined confidence. He was saying something that Pyre couldn’t make out. Llyr’s jaw clenched almost imperceptibly.
+
+Just then, the healer looked up. His eyes met the demon’s, and almost immediately, his shoulders relaxed. He stood from his seat, raising his voice slightly.
+
+“I’m sorry to cut you off, Lord Alardice, but it seems my patients have returned.” He nodded to where Pyre, Daphne, and Callan stood just outside the dining room. “I wish you a lovely evening.”
+
+Lord Alardice turned to the three of them, calmly assessing. Pyre saw his eyes move from Callan to Daphne and finally to her. She met his gaze evenly, and she thought she saw something sharpen in his eyes. Slowly, he nodded and stood as well. He was tall—almost as tall as Pyre.
+
+“Alright, I’ll take my leave. I know when I’m no longer welcome.” His voice was cool, matching the rest of his demeanor. He turned to Llyr, eyeing the healer intently. His dark eyes seemed to gleam in the dim light. “I do hope you’ll consider my offer, Llyr. Your abilities are far too rare and precious to be wasted here.”
+
+The noble’s eyes briefly flitted back to the three of them at that, and Pyre saw Daphne bristle slightly. The man didn’t say anything else, though. He simply nodded at Llyr.
+
+“Take care,” he said. Without another word, he turned away and strode past them without a second glance.
+
+Pyre followed the man’s movements as he reached the door and exited the mansion. It was only after the muffled sound of horse hooves sounded outside that some of the tension in the room dissipated.
+
+Llyr sighed and sat back down at the table. He gave them a tired smile.
+
+“I’m sorry about that,” he said. “Did you all enjoy the city?”
+
+“Who was that? What did he want?” Daphne completely ignored the second part of the healer’s words. She was still frowning at the door. Llyr’s lips thinned.
+
+“That was Lord Alardice. He’s one of the most influential people in Serindell.” The healer adjusted his position on the chair. “He had, ah, a job offer. I’ve told him I’m not interested several times now, but he’s quite persistent.”
+
+“Don’t answer the door, then.” Pyre raised an eyebrow. “Or kick him out.”
+
+Llyr smiled wryly at that. “Unfortunately, this mansion belongs to him. And I can’t exactly turn an Alardice away.”
+
+He shook his head, clearly eager to move on from the subject. “In any case, I’m sorry to bore you with my troubles. Were there any issues in Serindell? You’re returning quite late.”
+
+Callan and Daphne exchanged looks. The ghost turned to the healer, and Pyre could practically see him mentally debating how much to say. She kept quiet. She didn’t have a strong opinion on whether or not to include Llyr in their impromptu “investigation,” if you could call it that.
+
+Callan’s eyes landed on the drawer that Llyr had pulled the newspapers from earlier, and he seemed to come to a decision. He shifted his weight.
+
+“Actually…”

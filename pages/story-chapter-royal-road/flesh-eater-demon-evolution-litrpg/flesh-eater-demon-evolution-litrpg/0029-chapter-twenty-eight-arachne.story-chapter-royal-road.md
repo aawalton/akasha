@@ -1,0 +1,209 @@
+---
+id: f8030c0d-c940-5006-afc3-c89ad9f2a269
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-Eight: Arachne"
+slug: 0029-chapter-twenty-eight-arachne
+partOf: flesh-eater-demon-evolution-litrpg
+position: 29
+ownLength: 3283
+unit: words
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2662476/chapter-twenty-eight-arachne"
+royalRoadId: "2662476"
+---
+
+The second the ghost finished uttering the word, the creature in question leapt forward. It landed with a crash, stray rocks sent flying from the impact, and swung out with extended claws. Pyre grew a flat bone shield seconds before they hit. Hardened nails met solid bone.
+
+Before the arachne could retreat, the demon warped her flesh. Focusing, she wrapped one end around the closest leg, then pulled. A sound resembling a shriek escaped the creature as it was violently yanked forward by the smaller monster. Pyre opened her current mouth, maw gaping and ready to devour the spider, but at the last moment it twisted its head around.
+
+From its open mouth, clumps and strands of white silk shot out, coating the demon with the substance. Normally that wouldn’t have mattered, but the moment the first thread touched her flesh, a jolt of numbness spread through her.
+
+Clicking her tongue, Pyre released the leg and slid back, using her bones to rip away any lingering webs. There must be some kind of special substance coating the stuff that caused paralysis, she guessed. It would explain how the arachne had captured all its victims so cleanly—after all, none of the corpses had had any visible wounds that she could see.
+
+The creature hissed at them again, and Pyre could see Callan’s palm glow with magic as he readied for the next attack. The demon narrowed her eyes and studied the monster more closely.
+
+Obviously it was the source of the cocoons, but so far, the spider hybrid hadn’t used any magic yet. Even the preservation effect Callan had noticed on the corpses could be part of its special numbing webs. If it couldn’t use magic, then it probably wasn’t the source of the weird animal memory fuckery, and it definitely wasn’t responsible for the lightning.
+
+But if it wasn’t, then what was?
+
+A burst of branches and leaves shot out from Callan’s palm, jetting towards the arachne. The creature swung its claws out, slicing through wood and bark like butter. It bared its fangs at the ghost and kicked a spindly leg out. Callan tensed instinctively, but the blow simply phased through him. He released a held breath, and the arachne made a confused noise.
+
+More webs shot out, their ends sticking to the walls and ceiling of the cavern, but once again none of them touched Callan. Definitely no magic, Pyre thought, or it would’ve used it on the ghost by now. Not very intelligent either, if the lack of speech so far and its repeated failed attempts at hitting Callan were any indication.
+
+The demon’s flesh rippled. She began to grow a series of curving bones that jutted out about a foot away from her, then connected them. Unlike her usual bone shields, she left deliberate gaps in the structure, forming her own pseudo web-cage that would catch any stray threads while still allowing her to see through and attack between the holes.
+
+The timing worked out almost perfectly. By the time the bone barrier was fully constructed, the arachne seemed to have given up on trying to hit Callan and had turned to her. The ghost, on the other hand, was attempting to get close enough to drain the creature, but it was moving around too much, so he’d resigned himself to throwing spells instead. They were doing a pretty good job at limiting the arachne’s movements, even if it was often too quick to land a direct hit.
+
+The creature opened its mouth, and another web of spider silk shot out. The threads landed on Pyre’s bone cage, and she grinned to herself when none of them reached her flesh. It looked like her little strategy worked.
+
+Concentrating again, the demon shot a new bone straight at the arachne, weaving it through one of the gaps in her shield. The creature hissed and jumped back, the tip of the bone only managing to nick one of the legs. Pyre clicked her tongue. The only problem with the cage was that it limited her movement, and the arachne happened to be freakishly fast for its size.
+
+In front of them, the spider-hybrid slashed its claws forward. Sharp nails carved into earth and dirt, digging a deep gash into the cavern wall where the demon had been just seconds ago.
+
+Pyre contorted her flesh. Without hesitation, she threw herself at the arachne, slamming straight into the other monster. It released a piercing shriek as it was sent flying into the opposite wall. A crack bloomed out from behind it, and the demon felt the chamber shake a little.
+
+“Careful, you could cave us in!” Callan yelled. Which, to be fair, was a legitimate concern. Pyre sighed. No more body slams, then.
+
+The arachne, recovering from its temporary daze, furiously kicked out with those spindly legs. They crashed into the demon’s bone web, but the pseudo-shield held firm. The hits didn’t even chip it.
+
+Pyre quickly grew a new chain of smaller bones connected with ligaments. She whipped the appendage at the spider hybrid, managing to coil the bone rope around one of those massive legs. With a sharp tug, the demon yanked back, forcibly jerking the arachne away from the wall and sending it barrelling towards her.
+
+Just before they collided, the arachne opened its mouth again. It was so close that Pyre could see the white threads inside where a tongue normally would be, ready to spray outwards.
+
+She didn’t give it a chance.
+
+Through the gaps in the bone shield, the demon extended her flesh and plunged her horns straight into the arachne’s stomach.
+
+It choked. Warm blood gushed down from the wound, leaking onto the stone floor below. It was red, the same color as human blood, which maybe shouldn’t have been a surprise considering its torso’s appearance.
+
+The arachne’s eyes fluttered, its scent dulling, and Pyre quickly reabsorbed her bone cage. Before the life could drain out of the creature, the demon grew a new mouth directly over it. The jaws expanded, wide enough to totally encase its head. They closed with a loud snap.
+
+[You have devoured (1) Arachne Lvl 15][Experience earned!]
+
+[You have gained (1) [Vibration Sense] subtrait shard]
+
+[You have gained (1) [Venom] subtrait shard]
+
+[You have gained (1) [Autotomy] subtrait shard]
+
+[You have gained (1) [Skeletal Recall] subtrait shard]
+
+[The trait [Keratin] has leveled up! Lvl 1 —> 2]
+
+The image of a human village suddenly flashed through Pyre’s mind. It was followed by a rapid series of different locations and nameless faces. The village turned into a larger city, then an expansive classroom, training grounds, a forest path. The memory of the Lightning Pass itself was the strongest—it lingered far longer than the others. The demon saw the same steep mountain sides, heard the pounding thunder, could feel heavy rain as she ducked for cover in an innocuous cave.
+
+Then came the memories of the tunnels, dark and lit solely by a flickering torch. Long shadows. A shape moving in the darkness. Everything after that was quick, a barrage of sounds and sensations and clipped pieces of speech that were too fast to make anything of. Flashing lights, lightning and magic. Pouring rain. The feeling of bones snapping and deforming.
+
+One specific thing, however, stood out in Pyre’s mind even as the memories finally began to dissipate.
+
+And that was the sight of a curling, jet black horn resting atop a humanoid head.
+
+“ —re, Pyre!”
+
+The demon blinked. Around her, the muffled roar of thunder filtered back into her awareness. Her vision cleared, the rainy backdrop melting away to reveal the rocky cavern and Callan hovering anxiously beside her.
+
+Through her side eyes, Pyre could see the massive dead arachne lying on the ground, blood pooling out from where the demon had stabbed it. The upper half of its torso was entirely missing, taken off in one clean bite.
+
+Pyre spat out the bones and hair she’d devoured. Well then. It looked like [Memories of the Flesh] was significantly stronger when she was eating intelligent beings—or, in this case, beings that had once been intelligent.
+
+“How long was I out?” If these memory bursts took her a significant amount of time to recover from, she was going to have to keep that subtrait turned off. Getting killed because her subtrait decided to flood her brain with some other creature’s memories would suck.
+
+“Not long,” Callan said. “A few seconds at most. You, uh, just looked kind of out of it.”
+
+“Hm. Not too bad, then.” Pyre squinted down at the arachne again, and the ghost followed her gaze. He seemed to hesitate a little over the wounds, but he didn’t look away. The chimera fight had probably gotten him more used to gore. Well, that and dying, probably.
+
+“It… wasn’t as strong as I thought it’d be,” he murmured.
+
+“Yeah, probably ‘cause it wasn’t the thing responsible for all the lightning and shapeshifting and shit.”
+
+Callan’s eyes snapped up, sharp and inquisitive. “You saw something in its memories?”
+
+“Yep.” She gestured at the arachne’s corpse with her horns. “For one, it used to be a human. Looks like it got hit with the same spell that changed that centipede and fish.”
+
+The ghost looked unsettled at the thought. “That explains why she wasn’t using magic to attack me, at least. She couldn’t.” He shifted uncomfortably. “What’s been doing all this, then?”
+
+“A demon.”
+
+A beat passed. Callan’s face went through a storm of emotions that Pyre didn’t bother trying to untangle. In the end, it settled on something that was mostly confusion.
+
+“A demon? Here? Are you sure?”
+
+“Unless another species also has horns, then yeah.” Pyre warped her flesh to gesture up at her own horns for emphasis, their silver color now stained with the arachne’s blood. “Looks like this human ran into the demon, somehow pissed it off, and voila. Half spider.”
+
+“Did it wipe her memories too? Why couldn’t she talk?”
+
+“Nah. Honestly I think she probably just went crazy from the pain. I got a quick flash of it, and it turns out getting shifted into a giant spider monster hurts like hell.”
+
+Pyre hadn’t thought it was possible, but Callan’s face got even paler. He turned and began his hover-pacing, muttering under his breath as he drifted in circles around the chamber. The giant corpse in the center was starting to get cold by now.
+
+“I can’t believe it. There’s been a demon living on the peninsula this whole time!”
+
+“Technically the mountains aren’t on the peninsula,” Pyre pointed out. She’d seen that map. She knew where stuff was, mostly.
+
+Callan kept going, either too caught up in his rambling to hear the statement or too freaked out to care. Probably a combination of both. “And it’s strong enough to use transmutation magic! And manipulate lightning! How did no one know?”
+
+The demon’s first instinct was to point out that no one in Winrow had known about Fred, but there was actually some magical spell shit to explain the dead titan’s lack of discovery. She also couldn’t point to herself as an example, seeing as she’d been born, like, a week ago.
+
+This was weirder. It sounded like a decent number of humans had traveled safely through the pass before, so obviously the demon wasn’t shooting lightning at everything that went through. In fact, if she thought back to the arachne’s memory flashes, the demon hadn’t gone after the human girl until she’d literally stumbled into its lair. The cocoons were the arachne’s doing, and the shifted animals could be explained as magic practice or whatever.
+
+With all that in mind, it seemed like this demon was purposefully trying to stay hidden. But then it had gone and tossed lightning at them for daring to step foot in the mountains. Or hover, in Callan’s case.
+
+“Well,” Pyre began, “at the very least, I think it probably knows I’m also a demon. And apparently it doesn’t like that. I can’t think of another reason it’d go after us and not all the humans who’ve made it through just fine.”
+
+Callan nodded slowly. “That… would make sense. Maybe it’s territorial?”
+
+“Don’t see why. A bunch of wet rocks is hardly worth the effort.”
+
+The ghost made a sound halfway between a cough and a wheeze. He cleared his throat. “Whatever the reason, it probably won’t let us leave easily.” He sounded worried.
+
+“Oh, I know.” Pyre thought back to that shadow again, the flash of a horn, then the brief images of the surroundings she’d gotten before the human had been morphed into an arachne. Just enough to guess where it might be.
+
+She turned to Callan and grinned.
+
+“That’s why we’re bringing the fight to it.”
+
+“Do you know what level it is?”
+
+“What, you think the arachne was yelling the thing’s level in its brain? Of course not.”
+
+Pyre squinted closely at the walls as she spoke, never taking her eyes away from the tunnel. After leaving the cavern, they’d proceeded deeper into the mountain. She was pretty sure that was where the demon was. Rocks tended to look similar, but the current area, at least, seemed to match up with the memory flashes she’d seen.
+
+Compared to the earlier parts of the tunnel, the passageway was wider, and sharp stalactites broke up the monotony of the ceiling. They’d passed the last of the webs, too, and Pyre suspected they were about to reach the exit soon. The exit for this specific mountain, at least. Crossing the whole range would take a lot longer.
+
+The sound of thunder, previously at its most muffled, had started to grow louder again. The arachne had met the demon while it was raining, so its lair was probably outside somewhere between the mountains and the Lightning Pass.
+
+Callan frowned. He didn’t look very happy with Pyre’s answer, but he didn’t look happy about the situation in general. Unfortunately for him, they both knew a confrontation with the demon was unavoidable. Something so bent on getting rid of them that it’d chuck giant lightning in their faces was not going to let them go quietly without a fight.
+
+Callan’s floating suddenly slowed. He squinted. “I think… I think I see the exit.”
+
+Pyre’s own eyes peered over. Sure enough, there was just the tiniest bit of light emanating from further down the tunnel. That by itself didn’t necessarily mean anything—it could be weird glowing mushrooms for all she knew. The faint breeze, however, was a sure sign that they were close.
+
+The demon checked her [Flesh Sculpting] skill. It was finally off cooldown again, so she used the opportunity to warp her current shape. She didn’t know what kind of demon this was, other than that it could use magic, but she suspected a more compact form would probably be best. She’d gotten used to moving around through a combination of slithering and sort-of bouncing, but she’d admit it wasn’t the most practical in a fight. It also meant if someone cast a “floor is lava” spell, she’d be fucked.
+
+Focusing, Pyre grew a few internal bones, trying her damndest to remember what that human skeleton had looked like. It was easier to grow the bones now that she’d done it once before, and she wasn’t bothering with perfect accuracy. She wasn’t trying to look human, just to get legs, and she did succeed on that front. She tested them. Yep, they felt good to walk on. Even misshapen and a little crooked, her old human instincts kept her coordination solid.
+
+Next, she formed something roughly resembling a torso and arms, but she didn’t bother with a head. She simply shifted her six active eyes (and their corresponding eyebrows) all over her body, then sprouted some additional bony spikes along her back and on the sides of her torso that she could extend out at a moment’s notice. [Flesh Sculpting] was finally used to keep the flesh firm enough that she didn’t have to constantly focus on it.
+
+In the end, she’d shifted into a large, bipedal form with arms that were a bit too long, one giant mouth in the middle of her torso (which she might move depending on how tall this other demon was), and a lot of eyes everywhere. Plus two silver horns at the top, since those liked to stick around no matter what shape her body was in. No head necessary.
+
+Pyre did have to hunch down to fit in the tunnel like this, but it wouldn’t be a problem once they were outside. Based on Callan’s expression, she probably looked pretty damn monstrous right now. Perfect for meeting another demon, she supposed.
+
+No sooner was she done than the scent in the air shifted. Pyre covered her body with bone armor just as lightning streaked down the dark tunnel.
+
+Perhaps because they were still relatively deep inside the mountain, the lightning fizzled out before it could reach them. Their current spot was beyond the demon’s range, then. Still no signs of the creature itself, but it had to be outside. Waiting.
+
+The sloth fiend dropped her bag down. Callan met eyes with her, a brief unspoken conversation passing between them. They’d gone over “the plan” several times on the way here, at least insofar as it could be called a plan. Mostly it boiled down to “try and avoid a fight if you can because this thing is definitely way stronger than us, but also you probably won’t be able to so be ready to fight anyway.”
+
+Pyre turned towards the exit. Raising her voice, she yelled, “Chill out, we’re just trying to pass through!”
+
+Callan frowned, which meant that probably hadn’t sounded as diplomatic as she’d intended, but in her defense she had to yell pretty damn loud to be heard.
+
+There was no response at first. Pyre debated if she should try again. The moment she opened her mouth, however, a ringing voice suddenly echoed all around them, the sound bouncing off the enclosed tunnel walls.
+
+“Who are you?”
+
+It was unnaturally loud and seemed to come from everywhere at once. “Voice projection,” Callan whispered. Pyre nodded and kept looking towards the exit.
+
+“Travelers,” she called back.
+
+“You’re a demon.”
+
+Pyre snorted. “So are you.”
+
+The voice went quiet at that. She could be patient, though, so she waited. Finally, after what felt like hours, it spoke again.
+
+“I already told Cyrus I’m not interested in joining his war.”
+
+Beside her, Callan frowned in confusion. His ghostly mind was undoubtedly moving a mile a minute right now. Frankly, the fact that it hadn’t already come to blows (save for that first lightning bolt) was a miracle.
+
+Pyre raised an eyebrow. “Sorry to break it to you, but I don’t know who that is.”
+
+More silence. The sloth fiend waited a bit longer, but it looked like the voice had gone totally quiet this time. There were no new lightning bolts though, which could be a good sign. She turned to Callan and gestured at the exit. He looked pensive, but nodded.
+
+Carefully, Pyre took a step forward. Then another. Then another. Still nothing.
+
+The rest of the walk out the tunnel was perfectly silent save for the sound of the demon’s footsteps and the occasional clatter of a rock falling to the ground. Pyre had to hunch over to fit in the space, but she kept moving forward steadily. Callan drifted close behind.
+
+Soon the exit came into view, stone and dirt expanding into the stormy world outside, but neither of them relaxed.
+
+There, waiting below the overcast sky, was the demon.

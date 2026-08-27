@@ -1,0 +1,113 @@
+---
+id: 12a4b0d3-7172-542a-86e4-1e64d703f190
+page-type-slug: story-chapter-royal-road
+title: "Chapter 477: Fashion Shopping"
+slug: 0514-chapter-477-fashion-shopping
+partOf: dungeon-of-knowledge-complete
+position: 514
+ownLength: 2136
+unit: words
+ownProgress: 2136
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2853131/chapter-477-fashion-shopping"
+royalRoadId: "2853131"
+markedReadAt: "2026-06-29T20:29:41.546Z"
+---
+
+Ali popped out into the sunlight as she appeared in the middle of the new Artisan’s Row, bringing a couple of her minions to escort her. A rogue, hiding in the shadows, Joraa, Kir’vella, and a small green frog that sat inconspicuously upon her shoulder, surveying everything with an air of disdain. It wouldn’t do to scare the townsfolk after all they’d been through.
+
+She could still feel the jangling pain of the blinding lightning that had vaporized her Shadow Dragon, but it was not the loss of her minion, nor the lightning that gripped her memory so urgently.
+
+The Well of Eternity!
+
+The tendrils of black that twisted up out of the well, blindly searching, groping through the Spirit Realm, bore an uncanny likeness to the magic spell that had infested Nathaniel Sunstrider when she had first met him. The Dark Souls protecting the well with lightning would be a terrifying challenge for any raid group, but whatever inhabited it – that was far, far worse.
+
+But we found it! It still exists! It was the first lead they had uncovered in their quest to free Lira from her acorn phylactery – and what a lead it was: the ruined city of Mi’ir Valdanis, and the Well of Eternity were found!
+
+She paused for a moment; her vision split. Her remaining Shadow Dragon followed the indistinct mana trails of Calen as they warily retraced their steps back out of the Crypt of Kings. Her own eyes – and those of her nearby minions – scanned Artisan’s Row, studying the new construction with interest, still riding on the high of her and Calen’s discovery. When she had first visited Lydia’s Allure on this street, it had been rundown, many of the businesses abandoned and gutted. The signs of an economy dying under the stranglehold of the criminal Town Watch and the other syndicates. Over time, things had been improving, but it didn’t compare to what greeted her sight now. Belra and Murgrid had outdone themselves – lining the street was a row of beautifully crafted stores and workshops, each done in coordinated stone, much of it she recognized from her own Grimoire, gathered over her own quests and exploration. One building was the pristine white from the Infinite Maze dungeon, another in the rich greens of Dal’mohra. Several shops were hewn from black obsidian, and there was even one with an ostentatious set of opal trimmings: a jewelry store catering to the wealthy, of course.
+
+Lydia’s Allure was far larger now, entirely crafted from the beautiful white marble of Azryet’s domain, and Ali wondered if Lydia knew where it had come from, given that she could clearly see the Grand Tailor’s hand in the choosing of the colors.
+
+Ali strolled up to the door and knocked before opening it to the sound of a chime, and then, she stepped into a spacious new waiting room, lit by the streaming sunbeams that shone through the large windows to fall upon the beautiful gowns and robes already on display.
+
+“Oh, welcome, Aliandra,” Elton said. As usual, Lydia’s assistant was dressed in the most fashionable of suits, this one made from a royal-blue shiny fabric and embroidered in silver. “Sorry for the mess, we’re still getting everything properly organized.”
+
+“Mess?” Ali asked, glancing around at the pristine showroom. “What mess?”
+
+“Well, you know,” he said, allowing just a hint of a conspiratorial smile to crease the corners of his mouth. “Not everything is precisely organized the way Lydia wants it.”
+
+“She is particular about style and aesthetic,” Ali said, grinning at the apprentice Tailor, who was rapidly closing in on level ninety now. Lydia had to be routing a lot of business his way for his progress to be so stellar. Probably many of the guild’s up-and-coming mages or rogues, if she had to guess.
+
+“Oh, there you are, Aliandra,” Lydia said, popping her head in from the workroom to the left. “I was hoping you’d stop by.”
+
+“I love your new place,” Ali said, gesturing to everything.
+
+Lydia gave her an enormous grin. “You have no idea how difficult it was to ensure my store was the only one with this color stone. The Dwarven crafters said you had a hand in producing it – can you tell me where you got it from? Some of my more sophisticated customers will no doubt want to know.”
+
+“Oh, you can tell them it was a gift from the Dragon God, Azryet,” Ali said, deliberately trying to keep her voice nonchalant, and she was immediately rewarded with a stunned look and a moment of speechlessness. No small feat, considering Lydia’s piercing wit.
+
+“I… had no idea,” Lydia said, now staring at the white walls and floor in amazement.
+
+“What can I say? You have fine taste for picking stone,” Ali said, grinning. “Speaking of picking, I brought some new samples for you to look at.” She quickly retrieved the samples of each affinity of spider silk she had collected, laying them out carefully on the counter, although for several of them she waited until Elton produced some protective spools, so they didn’t break anything: hellfire, void, and the strangely leaking jelly-like water-affinity silk. Some of them were even incorporeal or insubstantial: shadow silk, soul, and light, for example.
+
+“Oh, shadow silk!” Elton exclaimed, his face lighting up in joy at the sight of a material in his affinity.
+
+“Now this is interesting,” Lydia said, drawing out a little strand of void silk using a skill instead of touching it. “Hilda is going to love some of these new ones.”
+
+“I’m sorry, I only have low-level samples at the moment. If you tell me what you like most, I can seed the dungeon with higher-level versions of it for the guild to collect.”
+
+“Well, eventually all of them will be useful,” Lydia said, frowning in concentration for a moment, “Fire and Ice we already get from the guild, but shadow affinity will probably have the highest demand, and I’d imagine there are likely a lot of fascinating uses for this soul silk. I’d love to experiment with some.”
+
+“Ok, I’ll prioritize those first,” Ali said. For the shadow affinity, she would have to work a little to level the spiders up, but she already had reasonably high-level Ghostly Spiders that she could deploy immediately in the spirit realm, although she might have to leak the location to someone so that they knew where to find it.
+
+Well, there are quite a few trackers and scouts in the guild, she thought. Perhaps leaving it as a challenge for them to find would be more effective. Just posting a job to collect it should get them engaged.
+
+“Thank you, Aliandra,” Lydia said. “Now, come sit. We need to talk about what you want for your gear upgrades. What you’re wearing is woefully out of date – I can’t have you running around in last season’s fashion.”
+
+“But…”
+
+“No buts. It just won’t do. Think about my reputation. Besides, you agreed to model my work, remember?”
+
+“I…” Ali racked her brain for a moment before she recalled the agreement she had made so long ago. “But that was when I was, what? Level five?”
+
+“Did you see an expiration on that business agreement? I think not,” Lydia said, winking slyly as she reached for her measuring tape. “Back me up here, Elton. I’ll let you have the shadow silk first…”
+
+As the two tailors descended upon her with purpose, Ali decided she had better know when she was beaten.
+
+***
+
+Ali had never sat through the entire design process for a new item before, and by the time she was done, she had cycled thousands of points of mana through her Sage of Learning as she learned the details, constraints, and skills Lydia worked with.
+
+I need to study her work more often, she thought, considering the implications for her own Grimoire. She could transcribe some affinities for her monsters, and she could lift skills from the recorded classes into runic tattoos and runic circles, but she hadn’t yet cracked the code for how items were recorded. If I can figure this out… She just knew there had to be a way to transcribe individual enchantments from one item to another, if only she could fully understand the constraints and the way the runic formations worked.
+
+But her session with Lydia had given her far more than a head start on her nascent crafting dreams. Being able to sit down with her had allowed her to optimize the distribution of enchantments to bring out the best advantages of her class, and Lydia had a keen understanding of how to push her skills and craft to the absolute limit.
+
+“Here you go,” Lydia said. “Why don’t you try this on and see how it fits?” She held up a gorgeous robe of iridescent white with shimmering blue tones shifting within the fabric as it shed tiny ice crystals from its surface to float gently in the air. The entire robe was embroidered with delicate runes, picked out in golden arcanite thread.
+
+“That’s… incredible!” Ali said, admiring Lydia’s work. There was a subtle elegance to the design, an understated quality that would make people look twice even were she to wear it in the archmages’ academy of Dal’mohra at its height. And Lydia had made it match her slippers perfectly – she almost couldn’t believe that they were for her.
+
+Eagerly she checked the piece’s details.
+
+Frozen Sanctuary of the Summoner – level 157A long, elegant, flowing mage robe, expertly crafted from frostweave fabric, with runic embroidery in arcanite thread. It is cold to the touch and trails snow and ice crystals. Resistance: 2260+120% to Resistance+88 Intelligence+70 Perception+35 Wisdom+330% mana regeneration+4 skill level to Minion skillsRequirements: Intelligence 550Created by Lydia Avery.Body – Frostweave / Arcanite Thread
+
+Wow! She wove all of that into this one item?
+
+Ali slipped her arms into the robes as Lydia held them up for her and studied her reflection in the mirror the Grand Tailor conjured – and simultaneously through the eyes of her minions. This is gorgeous, she thought as Lydia fussed with the fit. She had chosen the attribute spread, preferring to favor perception a little higher than wisdom this time, and instead, she had asked for even more mana regeneration, pursuing the strategy of taking advantage of her racial and domain improvements to total mana, while still not letting her core perception skills languish.
+
+When Lydia had asked her what she struggled with most in her defenses, she had said magic attacks. Her barrier was incredible at absorbing physical damage, and most magic, too; however, she always struggled with incorporeal or insubstantial spells that could pass through the transparent golden barriers: Light rays, Dazzle, and the like. And magic that ignored barriers: curses, corruption, fear, and mind manipulation.
+
+Lydia had answered her woes with a frankly incredible one hundred and twenty percent increase to her resistance – a specialty of her light-affinity Grand Tailor evolution.
+
+“There,” Lydia said, stepping back to inspect her. “It’s also self-repairing and self-cleaning. Obviously.” The minor enchantments seemed to take so little of the item budget now that Ali would probably need a full appraisal to even have them show up.
+
+“Ok, now your gloves,” Lydia said, holding up a pair of almost entirely transparent gloves that shimmered in the workroom’s light. “Something new – Soulweave.”
+
+Yet, even these were designed to match her entire ensemble – she was definitely going to look like an arcane archmage with all this golden runic embroidery.
+
+Grasp of the Perceptive – level 160Elegant gloves crafted from an ethereal and insubstantial cloth that shimmers with golden sparkling thread woven through it in runic patterns. +90 Perception+72 Wisdom+42% spell power to Arcane skills+4 skill level to Perception skills+25% spell haste+20% Minion spell hasteRequirements: Intelligence 560Created by Lydia Avery.Hands – Soulweave / Arcanite Thread
+
+She slipped them on, amazed to find she could almost not feel them at all. She flexed her fingers, discovering that even her sense of touch was entirely unimpeded. For her gloves, she had decided to focus more on her counter-magic – Arcane Insight with its ability to Disrupt and Dismantle. She had had to sacrifice an attribute slot, but she didn’t think the loss would be important considering what Lydia had managed to enchant in its stead. Spell power and haste to her magic meant she would be quicker and stronger to counter any spells, and the extra skill levels in perception would help too. But the boost in perception would help Sage of Learning and Martial Insight too, and Lydia had even managed to include an increase to minion spell haste. All in all, she couldn’t wait to try it out.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

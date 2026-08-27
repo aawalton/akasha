@@ -1,0 +1,275 @@
+---
+id: dbfa2a0b-a8ba-5606-b858-c438ce3ee82d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Smart Systems"
+slug: 0060-chapter-45-smart-systems
+partOf: ends-of-magic
+position: 60
+ownLength: 2879
+unit: words
+ownProgress: 2879
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2913638/chapter-45-smart-systems"
+royalRoadId: "2913638"
+markedReadAt: "2026-06-29T20:09:11.353Z"
+---
+
+Khachi floated down to land next to their Questor guides, his glowing fur blowing in the opposite direction as the breeze. They both stared at him, confused and a little bit scared. “I communed with my god,” he said in explanation of what had just happened. Then he walked towards the coach. “We should leave. We must reach the Blinded Mountain.”
+
+“But what did he do?” Vira pleaded, her gaze flicking between Nathan and Aarl.
+
+Aarl gave her a wide smile. “He told you. He communed with his god.” He stepped up into the carriage, the rest of the Heirs following close behind.
+
+“But the gods are dead!” Liren yelled after them, then moved to follow. He took over the driver’s seat while muttering angrily. “Must have absorbed the power. But then why haven’t others done it?”
+
+“Is this why Kaelis wanted us to bring you here?” Vira demanded, slumping into one of the chairs and glaring at Khachi.
+
+Sarah shrugged. “Who knows? He may have wanted the light of history in our eyes.”
+
+“But is the history even true?” Liren said from the front. “If the gods aren’t dead, then what else is a lie?”
+
+“The gods are dead,” Khachi replied. “But death does not deny divine purpose.”
+
+Both Questors stewed in their thoughts, trying to pick apart that answer. Then Vira’s gaze moved between the rest of the Heirs. “Is he your champion, then? Or do you all hold similar power?”
+
+The Heirs exchanged looks again. They’d already talked about their cover story, and it didn’t involve holding back their powers all that much, especially to their allies. Sarah was the one to answer. “He’s not the strongest of us.”
+
+Vira narrowed her eyes. “Not you, then.” Her gaze moved to Aarl. “You have the muscles of a fighter, but wear artifacts like trinkets.”
+
+“Not me, either,” Aarl replied with an amused smile.
+
+Next, Vira's gaze moved to Stella. “The mage. The staff. How many schools of magic do you command?”
+
+“Schools?” Stella asked. “I have nine mana types, if that is your question. I should have ten, but I don’t think the last is a true school.”
+
+“NINE!” Liren was yelling again, but he calmed quickly. “Which ones?”
+
+“Hear me, that’s not a small question,” Stella replied in a scandalized tone.
+
+“You’re the strongest, then,” Vira said, amused by Liren’s grumbling and pleased to have finally gotten her answer.
+
+Stella smirked back at her. “Not even as a game.”
+
+Vira frowned, then looked at Nathan. “You? The - monk?” She didn’t sound certain about that classification.
+
+Nathan raised his hands helplessly. “Strength isn’t a simple game. A weaker person can beat a stronger one if it’s a good matchup or if they have a better strategy. At the higher levels, it’s less about strength and more about how well you can neutralize other people’s powers.”
+
+Liren snorted. “That sounds like what Slick says.”
+
+“It does,” Vira agreed. “And he’s the strongest in the Accord. So it’s you. What can you do?”
+
+“You’ll find out,” Nathan replied. “Won’t be long until the battle. It’ll be pretty obvious.” He turned back to the map, cutting off the conversation as he studied the route they were taking towards the Blinded Mountain and trying to figure out where the battle was likely to take place.
+
+“What was the grandest moment in your travels? The deed that you most value?” Vira asked, trying to be innocent.
+
+“Probably hovering over our defeated enemies while our allies swept in and liberated thousands of slave-soldiers,” Khachi answered.
+
+Vira chuffed in frustration. “But what was the battle like, where you defeated your foes. We heard you killed Questors. How?”
+
+Aarl joined in the fun, shrugging dramatically. “We killed them. It’s not very complicated. Sword in, sword out.”
+
+“Vira, it’s rude to inquire like this,” Liren said, trying not to sound too annoyed. “You know that.”
+
+“But they’re not Questors,” she protested. Then she realized that her words could be considered offensive and trailed off, checking to see if any of the Heirs were upset. But the brief embarrassment only paused her attempts to weasel out details from them. Liren joined in, though he was more circumspect. The Heirs refused to answer beyond vague, unhelpful comments. They also turned the questions back around, asking what the training was like in the Ashen Accord.
+
+Liren and Vira were happy to answer, trying to encourage an exchange with information they didn’t consider very valuable. The Ashen Accords’ training for new Questors sounded similar to what the Heirs had gotten back in Gemore, but much more comfortable. They’d had live combat against monsters and humans, and a point system that rewarded trainees with enchanted gear and Insights. It sounded carefully crafted to encourage competition and hard work.
+
+Nathan was especially curious about how the Questors managed Insights. If the Questors all came from some technological universe beyond Davrar, they should have access to nearly unlimited Insights without needing to trade for them. But that didn’t seem to be the case. Either they didn’t understand much, or what they did know wasn’t easily translated to Davrar in some way. They certainly had a leg up, but it seemed that it was more that Insights were relatively cheap in terms of points instead of any innate knowledge that the Questors had.
+
+They’d stopped in a roadside tavern for the evening, getting a private dining room that seemed to be set aside for the occasional Questor visitor. Once the meal was done, Nathan leaned forward in his seat and folded his hands. “Alright, if you answer this question completely, then I’ll give you a hint about my build.”
+
+Both Questors perked up at that, but Liren hedged. “There are many things we cannot speak of.”
+
+Nathan waved that away. “How much physics do you two know?”
+
+Liren cocked his head to the side. “That word can mean a lot of things. What do you mean?”
+
+“The basic laws of the universe. Motion, matter, energy, fundamental forces, fields, conservation principles. The way that everything works.” Nathan said.
+
+“Why would we need to know about those?” Vira asked. “What would be the alpha? I could just call up a smart system if I wasn't...” She looked up and to the side at empty air, then froze and looked back at Nathan. “I mean, I’m sure we could pay points to learn those Insights, or trade a favor to somebody.”
+
+Nathan pursed his lips, considering if that answer was everything he’d needed. “But what if you want to do something new? Something you’ve never done before, and you don’t know if it will work? Something outside of common sense. Like if I were to light this table on fire but surround it in a bubble of force, would that make the fire burn faster or slower?”
+
+Vira was being quiet, so Liren answered haltingly. “It would concentrate the heat and keep it inside, so it would burn faster?”
+
+Nathan couldn’t help but exhale slowly. He consciously reminded himself that these Questors weren’t idiots. They’d never learned that fire needed oxygen to burn, because they’d never needed that information. If they had, they could ask a smart system what would happen, and it would tell them. Liren was a void mage, and he’d probably gotten the Insights for that from the Ashen Accord, which had likely tailored its Insights to whatever level of understanding was appropriate for Questors.
+
+This wasn’t to say that the older Questors didn’t have powerful Insights, but his estimation of the younger ones was dropping with every moment. His only remaining question was why the two of them had been assigned to escort them to the Blinded Mountain. It seemed like a strange choice to have the Heirs interact with two such inexperienced Questors.
+
+Unless that’s exactly the point. I wonder if Kaelis is doing what he can to educate us as to the realities of Davrar that he can’t share overtly.
+
+“You said you’d give us a hint as to your build,” Vira said pointedly. “Well? What can you do?” Both of the Questors were watching him intently.
+
+Nathan shook his head, clearing his thoughts. “This,” He locked eyes with Liren, and pointed at him. He dug a tendril of his aura into the man’s mana pool, then gently drained it dry over the course of a couple of seconds.
+
+The man didn’t notice immediately, then he jumped. “My mana pool’s empty!” He snapped his fingers, trying to cast magic. Nothing happened, not because Nathan was suppressing his magic, but simply because Liren was out of mana. “He stole it!”
+
+Nathan shrugged, leaning back and picking up his drink. “There’s your hint.”
+
+“You can drain resources?” Vira asked, sounding scandalized. “That’s a mean power. And useless against monsters!” She paused, thinking it over. “But I can see how it would be useful in a war.”
+
+The Heirs all fought to keep their faces smooth, and mostly succeeded. “What can we expect at the Blinded Mountain?” Sarah asked, deftly changing the subject. “More members of the Ashen Accord?”
+
+Liren nodded, turning back to his iced dessert. “And many more. It’s a good place to meet other Questors beyond your grid. If we get you there in time, you’re supposed to go to the term meeting.”
+
+“Aren’t we fighting the Aleph Grid?” Aarl asked, confused.
+
+“Yup, but wars are supposed to be fought against people you know,” Vira said. “Otherwise, you’re just fighting nameless enemies. We’re supposed to get to know the other side first through the nightlife, so we can dislike them properly. That’s what Slick always said.” She pushed away her own dessert. “It’s our first war, so our knowledge is epsilon. And we’ve been picking you up instead of participating.”
+
+“I think you’ll be fine,” Nathan said dryly. “Is there a lot of violence during this pre-war period, where everybody is all friendly?”
+
+“Well…” Vira said, uncertain how to answer. “There are rules against it. But part of the terms of the war are that you can Travel back without the normal restrictions.”
+
+“Vira!” Liren snapped, gesturing to the Heirs again. “Not Questors.”
+
+She made a hand gesture towards him with her thumb under her middle finger. It looked rude. “They need to know, and I didn’t get a warning, so Davrar agrees with me.”
+
+Liren sighed. “There are rules to prevent violence, but we were told three times that those rules are flexible, and that we shouldn’t travel alone. And that if we saw an Aleph Questor alone, we should find a more experienced Questor and let them know.”
+
+The Heirs all wore grim expressions. Stella was the one who spoke aloud, her tone bitingly sarcastic. “This is going to be such a calm and peaceful visit, isn’t it?”
+
+Nathan rotated to scowl at their guides. “Anything else you forgot to mention? What’s the term meeting?”
+
+Liren finished his dessert before answering, seeming nonplussed by the Heirs' hostility. “It’s when the important people from the grids meet to discuss the terms of the war. We’re not invited, but Kaelis said that you are. It’s not until tomorrow night, and we’ll arrive there before noon. It shouldn’t be a blocker.”
+
+“Great,” Nathan said. “Is there a safe place in the city? Somewhere that the Aleph Grid can’t go?”
+
+“The Ashen Accord has an estate. I think it’s rented for the duration of the war,” Vira said. “It’s warded. And very comfortable.”
+
+“Then we’ll go straight there,” Nathan said. “I’m not keen on sticking our heads out in a city where a lot of people have reason to kill us, and if we kill them, they just respawn.”
+
+The next day, they arrived at the Blinded Mountain. Nathan hadn’t been sure what to expect. On the map, it was just marked with a dot, and he hadn’t asked Liren or Vira what the city itself was like. He’d wanted it to be a surprise. Davrar held wonders at every turn, and many of the ones he’d seen recently had been terrible, like everything in the blight. The Blinded Mountain did not disappoint. The plains around it shone in the light of the day, miles of well-tended crops rolling to the horizon. But the sunlight broke around the solitary peak. The Blinded Mountain was a lone mass of bare stone rising without a scrap of snow or greenery to soften it, cloaked in perpetual night.
+
+“People live there?” Khachi asked. “Do they ever see the light of the sun?”
+
+“Only on the Solstice,” Liren replied. “But it doesn’t lack light. Pause your questions, they’ll answer themselves.”
+
+Their carriage rounded the corner of the peak, coming into view of a grand crevasse that carved about a third of the mountain from the rest. It was almost a canyon, a wound several hundred feet wide that went straight through to the other side. Buildings covered the ground and the walls, each festooned with dozens of magical lights. From afar, it looked like a magical geode, a rough, rocky exterior split open to reveal a trove of glowing facets within.
+
+“Best nightlife on Davrar,” Vira said in anticipation. She was driving and took them straight towards the city. There wasn’t a wall around the place, and they just drove into one of the external neighborhoods on their way to the center.
+
+Nathan kept a careful eye out, both to watch for danger and to get an idea of what a city with so many Questors was like. Out here in the farthest outskirts, most of the buildings were housing or amenities for the mortals who worked in the city, and Nathan guessed they were only seeing it because they hadn’t come along the main road. Still, most houses had one or two enchantments for cooking or cleaning. The people weren't rich, but they weren't poor either.
+
+Next was a set of nice houses or small mansions that were still some distance from the crack. Judging from the decorations and variety in taste, they likely all belonged to Questors. The fanciness of the mansions was directly correlated with how close the houses were to the entrance to the crevasse.
+
+“Stop,” Nathan snapped, reaching his senses forward. They had just gotten onto the main thoroughfare, a mosaic-tiled roadway which continued all the way through the mountain. “Ambush ahead.”
+
+Those words got Vira to hit the brakes, though she looked confused instead of alarmed. “Verified truth?”
+
+“There’s a remotely-triggered magical bomb under the road fifty feet ahead, and six people on the balconies on either side,” Nathan answered. “None of whom are mages. They all have bows, and I think they’re all Questors. Don’t look!” He commanded as Vira peered through the front windshield. “They’re hidden by skills, not illusions.”
+
+He shot a significant look at the other Heirs. The absence of mages and illusions suggested that the ambushers knew at least some of Nathan’s powers. They’d made a mistake with the bomb, but it looked like it was supposed to be camouflaged into the enchantments that kept the road clean and increased its sliding friction. The disguise just hadn’t fooled him in the slightest.
+
+“A fight against assassins!” Vira sounded thrilled, and a bloodthirsty smile spread across her face. She reached for her daggers. “Let’s get some levels!”
+
+“Nope,” Nathan answered, pointing to a side street. They weren’t in the crack yet, and there was more than one path to get to it. “Let’s just go around.”
+
+“Oh,” Vira said, deflating slightly. “But they are enemies, and they need to be punished for starting a fight in the city?” She seemed to be trying the argument out for size.
+
+Nathan shook his head again. “They haven’t started it yet. They might not even be supposed to kill us, just cause an incident that delays us. The term meeting is this evening, so if we get in a fight now, it might prevent us from getting to it. There's no good reason to fight them, so we go around.”
+
+“Warn me if they decide to bait the castlebear,” Stella said, holding an incomplete shielding spell low by her side. It would take her just an instant to cast and would protect the entire carriage with a triple layer of crystallized force.
+
+Liren gaped at the spell. “How - that’s - you’re just holding it like that?”
+
+She snickered. “This isn’t our first time doing this.”
+
+Permanent Talent 1: Magical Destruction 4
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 7
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 4

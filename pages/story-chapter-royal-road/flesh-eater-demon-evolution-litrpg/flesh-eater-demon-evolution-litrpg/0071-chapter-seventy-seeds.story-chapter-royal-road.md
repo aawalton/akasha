@@ -1,0 +1,165 @@
+---
+id: 5ea57465-3e11-5c1e-9235-aea53c4b9077
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy: Seeds"
+slug: 0071-chapter-seventy-seeds
+partOf: flesh-eater-demon-evolution-litrpg
+position: 71
+ownLength: 2890
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3142605/chapter-seventy-seeds"
+royalRoadId: "3142605"
+---
+
+“So, we’d each need to break a glyph at the same time,” Pyre summarized. She cocked her head. “But I’m guessing it’s not that easy.”
+
+Callan bit his lip, glancing at Daphne. “Could you—I mean, would you be able to burn through a glyph?”
+
+Daphne frowned, her own eyes never leaving the diagrams. “Maybe,” she began slowly, “but if they’re that far below ground, the dirt will just smother out my flames. And I’d need to dig a hole big enough to send a spell down, which would take time.”
+
+“Not to mention draw attention,” Callan muttered. He rubbed his forehead. “We don’t know who’s in on the invasion plan. If someone sees us and reports back to Lord Bellhein…” His voice trailed, and he didn’t need to elaborate.
+
+Pyre hummed, taking in the information. She’d probably have the easiest time breaking through the glyphs, since she could shoot a bone down or extend her flesh and grow a mouth to chew through the stone. Callan was right, though, that it would be hard to pull that off without being seen. Especially if all three circles had to go at the same time.
+
+If they were all closer to the sanctum, then she’d say fuck it and break the glyphs, then make a run for the main barrier. They were just far enough away, though, that Lord Bellhein would have time to up the defenses around the sanctum the minute someone alerted him to what was happening. With the garrison next door, getting to the barrier could become complicated fast.
+
+“What about you?” Daphne asked, nodding to Callan. “I mean, you’re a ghost. Can’t you, I don’t know, float underground?”
+
+He shook his head. “I can’t pass through a solid object forever. I start fading when I do it too long, and those are deep enough below ground that I’d need to. I… I don’t even know if I have a spell powerful enough to snap the stone at once.”
+
+“Plus, what if we do manage to destroy the circles, but the barrier’s still too strong to break through?” the ghost continued. Callan was rambling again, and it was pretty clear that his thoughts were quickly spiraling down all the worst possible scenarios. It was a reasonable concern, though. That barrier certainly hadn’t budged an inch when Pyre had hit it.
+
+“You don’t need to worry about that part,” Daphne spoke up. “I can definitely burn through once the smaller circles are gone. I was close last time; I could feel the ichor bend a little.”
+
+The mage’s eyes were bright and determined, and she seemed confident. The demon hummed. That was probably the closest to “sure” that they would get. It would have to be enough for now, but it still left the question of the glyph circles up in the air.
+
+“Maybe a counter rune?” Callan suggested tentatively. Daphne shook her head.
+
+“We’d have to draw them over the actual glyphs. Someone would see.”
+
+As the two mages continued poring over the diagrams, debating different ways of dealing with the circles, Pyre strode over and opened the curtains just enough to glance outside the window.
+
+In the morning light, the manor grounds looked the same as usual. She certainly didn’t see any signs of a giant underground stone glyph circle. There were maybe a few more guards around than she remembered yesterday, but it did seem like Lord Bellhein had kept the sanctum issue under wraps. Those guards outside didn’t look like they had a clue about what had happened last night.
+
+Sharp grey eyes scanned the surroundings, taking in the Gravestone Mountains, the white arches of the sanctum, and the thick forest covering much of the Bellhein property and beyond. Nothing was out of place. She paused, gaze stilling on the trees. A thought suddenly occurred to her.
+
+“Hey, kid.” Pyre turned to the two mages, interrupting their argument. She jerked her head at the window. “You grow plants and stuff with your magic, right? You think you could grow tree roots or something to snap the glyphs?”
+
+Callan’s eyes widened, mouth still half-open from pausing mid conversation. He immediately floated back over to the diagrams, muttering under his breath as his eyes rapidly scanned the pages. “I might… maybe… no… what about…?” Pyre could practically see the gears in his mind turning as he considered this new idea.
+
+Finally, after another few minutes of unintelligible mumbling, the ghost laughed disbelievingly. “That could actually work.” Callan spun around to face the two, words rushing out a mile a minute.
+
+“I think—If we can get some tree seeds, I could embed them with magic, then modify them with long-distance runes,” he explained. “Once activated, they’d sprout roots, and those could hopefully snap the stone glyphs at the same time.”
+
+“And we could plant the seeds beforehand without drawing attention,” Daphne finished. A bit of excitement had entered her voice for the first time since they’d found those pages. “You wouldn’t even need to be next to the circles. We could wait inside the sanctum, then the moment you activate the spell and all the glyphs are broken, I burn through the barrier and we destroy the ritual.”
+
+Callan nodded eagerly. “I’d need to prepare the seeds, but I think I can have them ready by tomorrow morning.”
+
+“Then we plant them, and we stop the invasion before the sun sets!”
+
+The ghost deflated at that. “Ah, no. It’ll… it’ll take longer than that.” He swallowed. “I, uh, have a really low ichor draw-rate. After the seeds are planted, I’d have to spend the next several days pulling in ichor, channeling it into the seeds, and repeating that until there’s enough to activate the spell.” The longer he spoke, the more frustrated he seemed with himself.
+
+Daphne frowned. “How long?”
+
+Callan shrank down even more. “Maybe a week?” His eyes darted worriedly over to Pyre at that.
+
+“Sounds good,” the demon said simply. She cocked her head. “Still a full week before the invasion, and the curse isn’t gonna kill me in one week. You’re fine, kid.” She glanced over at Daphne, raising an eyebrow. “I don’t suppose you could help channel the ichor or something.”
+
+The noble shook her head. “Two mages working on one spell like that wouldn’t work. Ichor takes on the mage’s unique signature after it’s been manipulated. The spell wouldn’t recognize any ichor I try to add to it.” She frowned. “Do you… not know any spells? I mean, that’s a pretty basic concept.”
+
+“Nah, I don’t know shit about magic. Can’t use it either.”
+
+That gave Daphne pause. “But… you’re a demon.” She said it like it was the most obvious thing in the world.
+
+Pyre snorted. “Yeah. And I’m missing most of my soul.”
+
+Daphne opened her mouth, then closed it again. “Oh,” she finally said. Pyre couldn’t tell if her inability to use magic was a relief to the human or not. Based on the way her brows furrowed slightly, she figured her feelings were mixed.
+
+Callan cleared his throat, bringing the topic back to the ritual. “Is everyone okay with the plan? I mean, do you think it’ll work?” he added a little more nervously.
+
+Pyre had already given her approval, so she turned to Daphne, the other mage in the room. The human’s eyes scanned the pages. Slowly, she nodded.
+
+“It should,” she finally said. She pursed her lips. “And if it doesn’t, we’ll figure something else out.”
+
+And that was that. They didn’t have the time to waffle about, unsure of what to do. They needed to act. If the plan failed, they’d go from there.
+
+With a final nod, the three began working out the rest of the details.
+
+The first order of business was finding some seeds for Callan to tamper with. This wasn’t hard. As it turned out, the Bellhein grounds contained an entire shed that was bigger than some houses, and it was filled to the brim with all the gardening supplies necessary to maintain the greenery on the property. All Pyre and Daphne had to do was stop by after breakfast, grab one of the many bags of seeds, then make their way back to the room.
+
+From there, it was mostly Callan and Daphne hashing things out. A mixture of runes and flashes of green light filled the space as they tested various spells and methods. The whole time, Pyre observed quietly, one eye on the door in case anyone stopped by. She still didn’t understand a lick of magic, but it sounded like they were creating links between the seeds and Callan that would let him activate them from far away. They apparently had very different opinions on the best way to do that.
+
+“—carving into them’d be the easiest,” Callan was arguing. Daphne frowned.
+
+“How’re you supposed to carve them when you’re a ghost?” she pointed out.
+
+In response, Callan’s form went from silvery and translucent to solid in a blink. Daphne jumped a little, but the noble had already seen him look opaque before, so this wasn’t a huge shock. What did cause her eyes to widen was the sight of Callan then reaching over and picking up one of the seeds with his hands.
+
+“You can turn fully solid?”
+
+The ghost looked a little embarrassed. “It’s, uh, just for a limited amount of time.” He coughed. “Anyway, I think carving runes into the seeds will be easiest. I’m the one activating them anyway, and I’m a lot better with glyphs than hand signs.”
+
+Daphne was still squinting at where he was holding the seeds in his hand. “Let me guess, that invisibility at the sanctum was another ability.” The ghost’s silence was answer enough, and the noble huffed. “Anything else you two’re hiding?” She leaned back and crossed her arms, eyes shifting pointedly over to Pyre as she spoke.
+
+The demon raised an eyebrow. “Want me to read you my stat sheet or something?” She wouldn’t even mind, frankly, except the thing was long.
+
+“No, I—” Daphne cut herself off and took a deep breath. She rubbed her forehead. “I just mean if we’re going to be working together, then I want to know if you have any abilities that could help us. Like turning solid”—Callan steadfastly continued focusing on the seeds, not looking up—“or being able to shapeshift and see the memories of things you eat.”
+
+Fair enough. The logic was sound, and it was in all their best interests that this plan went off as smoothly as possible. Knowing each other’s relevant abilities would help with that.
+
+“Well, I can regenerate,” Pyre said. She cocked her head. “Hopefully I won’t need that.”
+
+Daphne frowned. “You won’t. Not if we destroy the ritual before the invasion.” Her tone was confident, but Pyre could see her shifting her weight slightly. Even with a plan, there was always some degree of uncertainty, and the pressure was clearly weighing on both her and Callan. The demon hummed.
+
+“We’ll see.”
+
+Callan finished spelling the seeds by nightfall. The ghost looked more than a little tired by the end of it, but he smiled triumphantly when he gestured to the pile of seeds lying on the floor. There was a second, larger pile of failures next to it, some of those seeds smoking or oddly warped where the runes had failed. The successful ones, on the other hand, looked largely the same as regular non-magical seeds. It was only when Pyre picked one up and inspected it more closely that she saw the faint, thin green lines of light running along their surfaces.
+
+“You just need to plant them into the soil,” Callan explained. “It doesn’t have to be too deep. As long as they’re fully covered, the roots should reach down to the glyph circles once the spell activates. I added an extra spell that’ll help pull in the surrounding ichor in the soil, too, which should speed up the process. If you can find an ichor vein to plant them in, that’d be best, but if you can’t it should still work.”
+
+Pyre nodded and grabbed a handful to dump in her pouch. “Good job, kid,” she said. The ghost ducked his head, but he looked pleased, if still nervous.
+
+“Do you think we can get any planted tonight?” Callan asked, eyes darting between Pyre and Daphne. They’d already agreed that the two of them would be in charge of placing the seeds, seeing as no one knew Callan was in the manor, and he’d have to turn solid (and thus, visible) to plant them.
+
+“I’ve got a guard shift starting soon. I can handle the one in the garden while I’m patrolling,” Pyre said.
+
+Callan nodded. “That’ll be a good test, then. I’ll start channeling ichor into those, and if I can’t feel them, well—” His voice wavered, but he steeled himself, a determined look entering his eyes. “If there’s anything wrong, I’ll have a chance to fix the other ones.”
+
+As Pyre rose and reached for her issued guard axe, Daphne looked hesitant.
+
+“I could go with you,” she offered. “I know the gardens really well, and it’s not like I haven’t snuck out before.”
+
+The demon considered this, studying the human. Even in the dim light, the dark circles under her eyes were apparent.
+
+“Nah,” she said, grabbing the axe and attaching it to her belt. “I can handle planting a few seeds myself.” She chuckled. “Would be pretty sad if I couldn’t.”
+
+“Remember, they have to be near the center of the circle or it won’t work,” Callan stressed. Pyre’s gaze moved over to the map, sharp grey eyes tracing the lines of the garden and memorizing the location of the glyph. This one, it seemed, was just left of the fountain.
+
+She gave the map one final look, then turned and reached for the doorknob. “Be careful,” she heard Callan call behind her. She tossed a casual thumbs up behind her back, then stepped out of the room and made her way towards the servant’s wing.
+
+Tonight, Harris was waiting there.
+
+“Good evening,” he said in that pleasant way of his. Pyre nodded at him even as her eyes scanned the man for anything off. He didn’t give any indication that he knew about what was happening in the sanctum, but he could be a good liar. It was hard to say how much he did and didn’t know.
+
+“I just wanted to give you your patrol route for tonight,” Harris explained. He frowned, some of his cheer dampening a little. “A few guards called in sick, so we had to make some adjustments. It sounds like there’s a bug going around.”
+
+He handed Pyre a map of the manor with a path neatly outlined in dark ink, but she was more focused on the mention of the other guards. She hummed. She was willing to bet those guards were the ones called away to deal with the sanctum and the Empire mage’s remains.
+
+“Thanks,” she said simply. Without another word, she continued forward, exiting the manor and stepping into the chilly night air.
+
+Pyre didn’t go to the garden right away. She checked in with the guard on the shift before her, then began her patrol following the map. It looked like the route passed by the garden anyway, so there was no reason to risk suspicion.
+
+When she did finally reach the gardens, the area was empty. The light babble of the fountain drifted over the sound of whistling wind, and the flowering bushes rustled in response. Pyre idly scanned the area as she walked past, but she didn’t see any signs of the glyph circle sitting below the earth. She wouldn’t be surprised if they’d used magic to cover it up, considering how perfect the soil looked from above.
+
+The demon approached the fountain and slowed her pace, mentally mapping the garden onto the diagram she’d seen. One hand toyed casually with the pouch hanging from her belt as she walked.
+
+Finally, when she was at the right spot, she casually slipped it from its loops, and it fell to the ground. Pyre stopped and bent down, pretending to pick it up.
+
+As she did so, she silently shot a bone out from the sole of her foot. She felt it pierce through the thick material of her boots, then dig deeper down into the soil. It was thin enough that the hole wouldn’t be noticeable when she was walking normally, and even if it was, she’d just say she stepped on a nail or something.
+
+While Pyre moved to pick up the bag, she slid a few seeds out and dropped them into the hole before straightening. From there, all she had to do was pat the area down with her foot while she reattached the pouch to her belt.
+
+There. A quick sweep of the area showed that there was still no one around, and if anyone in the manor had been watching from the windows, all they would’ve seen was a guard dropping their bag and picking it back up. Quick and smooth. Then again, this was supposed to be the easy part.
+
+Pyre kept walking, continuing her patrol and leaving the garden and the freshly-planted seeds behind her.

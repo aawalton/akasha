@@ -1,0 +1,113 @@
+---
+id: 11369421-3055-5b4f-b3bb-c2d1f870223e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 404: Trading Arrows"
+slug: 0441-chapter-404-trading-arrows
+partOf: dungeon-of-knowledge-complete
+position: 441
+ownLength: 2351
+unit: words
+ownProgress: 2351
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2663408/chapter-404-trading-arrows"
+royalRoadId: "2663408"
+markedReadAt: "2026-06-29T20:26:59.807Z"
+---
+
+Calen crept across the open street, his feet leaving no trace even across the fungal creep. He wrinkled his nose as he took cover against a tall, gnarled tree that sprouted from a pile of rubble that had once been a merchant’s shop near the marketplace and sneaked a peek around the corner. This dungeon stank. It was an odor like a compost heap that had been left to rot and fester, and for the hundredth time, he thanked the powers that he had not developed a scent skill like Mato’s.
+
+Eclipse might render him literally invisible, but with these strange plant monsters, he couldn’t be certain they didn’t have some alternate way of perceiving him, so he was taking every precaution. He scouted without his Motes of Light, relying heavily on his Eyes of the Archon skill to reveal the hidden monsters in the gloom by the dim starlight. Even running invisible, he could still feel the fuzziness along the edges of his body, a subtle blurring caused by running Mirage Armor to further obscure his position.
+
+He froze and sucked in his breath as he rounded the corner, and his enhanced eyes revealed the clearing before him. This had once been a thriving merchant neighborhood near the town market, but now several buildings had been torn down and the rubble dragged away, wrapped and tangled by dark roots around the perimeter. All around the cleared area, the dungeon’s dark and twisted oak trees stood silent, lording over the remains of the conquered and shattered town. Covering the rubble and remnants of the shops and houses was the ever-present slimy fungal creep, but out in the center of the clearing, the creep had grown far thicker and darker until it seemed to be a huge mound of mutant fungal growth, with dark roots twisted through it like infected veins. Worst of all, it pulsed slowly, as if animated by a macabre heartbeat of rot and decay that filled the air with a hazy miasma.
+
+Creep Spawner – Fungus – level 131 (Nature / Death)
+
+Deep within the mass, something twisted and then convulsed, and a slimy hole opened in the side of the growth. Strangely rhythmic contractions afflicted the giant mutant fungal creep, and he stared in grotesque fascination as the mass birthed something huge, ejecting it slimy and wet onto the surrounding creep before contracting back into itself and closing up once more.
+
+Fungaloth – Fungal Aberration – level 107 (Nature / Death)
+
+The newly spawned Fungaloth shook off the slimy goop with a sudden, violent spasm and raised its massive, asymmetrical head to the night sky, unleashing an alien hissing roar, and then it charged off, smashing through a chunk of remaining stone wall like a bear snapping twigs.
+
+Creep Spawner.
+
+He studied the recovering spawner, noticing that the mana from the domain was slowly pooling within it once again, and it had already begun swelling at an alarming rate – if it continued, it seemed like it would be ready to summon another monster in just a few minutes. If this were the only creep spawner in the dungeon, he’d eat his hat. Not that I have a hat.
+
+I need to tell Lyeneru, he decided. Clearly, he had uncovered the reason behind the incredible number of monsters this Blooming Rot dungeon was ejecting in the continuous dungeon break. Just knowing there were spawners in the ruins of the town would radically change their strategy – waiting out the dungeon break was not an option. Not only that, but they would also need to be incredibly careful to avoid this area as they passed by.
+
+For a moment he thought the area ahead was clear, and he was about to continue, but then a cloud passed, and by the sudden sliver of moonlight, he caught sight of an unmoving group of sylvan monsters standing over in the deeper shadows on the far side under several twisted trees, their bodies ideally suited to hiding in the ruined dark forest that had once been Myrin’s Keep. I almost mistook them for trees.
+
+Archer – Sylvan Elf / Plant – level 103Warrior – Sylvan Human / Plant – level 91-95 x2
+
+He squinted against the dim light, studying them closely. The two warriors carried pairs of gleaming blades, and the taller, elf-like plant creature had a long wooden bow held at the ready. He scanned the area carefully, making certain these were the only monsters in this starlit clearing before he made any move.
+
+Human and Elf. It had been bothering him ever since they had entered the ruined town. The original Blooming Rot dungeon had not possessed these Sylvan creatures, and their resemblance to Lira was too close to be a coincidence, but the fact that their forms were derived from elves, humans, and dwarves was even more insidious – had the dungeon created these monsters from the townsfolk it had consumed? He forced the darker parts of his thoughts away for later and summoned his bow, sighting carefully and taking the time to make certain of his aim in the darkness of the early night. His mounting stamina made his arms and bow buzz with power, but he still took the time to check the Creep Spawner, ensuring it wasn’t about to spit out another monster before he fired.
+
+Smoothly and silently, he released his arrow, withholding his magic until the last possible moment. The flash when he unleashed his magic lit the clearing with a sudden blinding bang, his arrow piercing through the first warrior’s chest and clipping the archer behind before smashing into the wall. All three monsters instantly rushed forward, the two warriors blurring as they activated their Rush movement skills.
+
+But Calen had played this role so many times that it was second nature. Immediately, he fed mana to Mirage Armor, conjuring a pair of illusory decoys to distract the archer, and then he turned and sprinted, fleeing down the creep-covered road toward where his friends waited. He glanced back at the sound of a soft swooshing noise, only to find a volley of arrows unleashed at him in a straight line. Behind the arrows, soft billowing clouds of spores trailed, raining down upon the ground like a green plague.
+
+He dodged, but to his surprise, the Sylvan Elf archer was already almost flanking him, moving at an incredible speed, the likes of which he would never have imagined from a monster that had roots for legs. A second rapid-fire burst of arrows shot out toward him, and he flared both sets of wings to accelerate his speed, but as he did, the spores collecting on the ground in the wake of the arrows exploded in several sudden popping detonations, releasing clouds of tiny thorns in all directions.
+
+His eyes widened as he realized he was in the blast radius of one of the thorn explosions, and he wouldn’t be able to dodge them all.
+
+You have been afflicted with Poison.Your poison has increased to 4 (+3).
+
+He downed a potion on the run, flying as fast as his wings would allow, and reached out to the wispy remnants of one of the warrior’s Rush skills, borrowing it with Explorer. Even with the sudden burst of duplicated speed, he was barely able to keep ahead of the pursuing archer, but as he finally rounded the corner, a roar greeted him, and the massive form of Mato’s dire bear came barreling out from behind the rocks, slamming into the archer, void trailing from his fangs and claws.
+
+“Two warriors and an archer,” Calen called out, alerting the others as he spun in the air to shoot. “Poison arrows.”
+
+The Sylvan Elf released a sudden blast from his bow, an arrow that shattered explosively at point-blank range, blowing up in Mato’s face and leaving him momentarily stunned. Calen’s arrows flew through empty space as the archer vanished, appearing twenty yards back and behind a tree.
+
+“It has a teleport!” he called out as Mato recovered just in time to take a swipe at the two warriors tearing down the road. Malika performed a graceful flip over an arrow to land with Mato among the warriors, and Lyeneru’s arrows sizzled as they shot past Calen’s ear from above.
+
+From the cover of the trees, a sudden flight of arrows burst forth, trailing their virulent clouds of spores. He dodged the arrow meant for him, but down below, two arrows exploded, detonating with black necrotic blasts, followed immediately by the ripping cascade of spore pods bursting and launching hundreds of tiny, deadly thorns in all directions. Calen retargeted, aiming at the concealed archer, noticing Lyeneru doing the same, but the plant monster suddenly vanished entirely, leaving only strange wispy lines of mana that were difficult to track.
+
+“Watch out for Ambush!” Lyeneru said, instantly diving for cover.
+
+Calen plummeted downward, taking cover behind a partially destroyed wall, noticing a subtle imprint in the creep up ahead, and then another immediately after, but several yards ahead. Then, an enormous bang rocked his wall as a huge necrotic blast detonated on the far side in Mato’s face. The bear reeled back from the power of the Ambush attack.
+
+Malika appeared beside him, pulsing healing magic into his hide, and Calen saw the dreadful rotting wounds in his face rapidly healing up.
+
+“What was that?” he asked, releasing his arrows at the ridiculous archer.
+
+“Fade,” Lyeneru hissed. “He has two movement skills, Disengage is the teleport and stun, it only goes backward. Fade is invisibility paired with a large increase in movement speed for a few seconds. It is almost always followed by Ambush.”
+
+“That’s a nasty combination.” But the monster was not done yet. As the thought appeared in Calen’s head, he saw the mana within the sylvan archer ignite with a familiar power, and its rate of fire suddenly doubled. Calen ducked behind his half-wall as the arrows detonated in succession against it, sending rubble flying as the wall disintegrated before his very eyes.
+
+Shit, it has Righteous Fury? Where’s this coming from?
+
+Calen poked his head out sideways to catch a glimpse and released a shot before ducking back down as the return fire volley hammered into his covering wall. Unable to take a good shot, he hunkered down in the darkness and shadows, dismissing his wings, and instead using Eclipse. It took a few moments for it to take, but he felt when his skill twisted the light, and then he stepped out, sprinting around the side, trying to get clear of the archer’s sights. Without even a hint of a pause, the arrows instantly lanced out from the other side, tracking him unerringly even though he was invisible.
+
+It can see me! Calen launched himself forward in a low dive, tucking for a roll and aiming for another pile of rocks, but one of the arrows managed to hit him, piercing through his calf muscle and leaving a ragged wound of torn and bleeding flesh behind. He sucked in his breath from the pain, but rolled into cover, and sat up, nocking his bow and firing in one fluid motion. None of his arrows struck home, most bouncing off the rocks or narrowly missing the monster as it dodged with uncanny agility and speed, while simultaneously firing off arrows in his direction several times a second. Fuck, is this thing better than me?
+
+Slowly, the ignited mana within the monster began to fade, and with it, the insane rate of fire dropped back to a mere ridiculous speed. There was a sudden, deafening thump as the ground beneath him lurched, and a huge blast of lightning and fire blinded him. He ducked down as rock, soggy chunks of creep, and shattered and burning splinters rained down everywhere, and when he looked up again, little remained of the Sylvan Elf archer – even his hiding spot had been obliterated. There was a large smoldering crater beneath the hovering form of Lyeneru Silverleaf, still wreathed in flame and discharging lightning into the ground as the smoke slowly cleared. A few still-burning wood-like body parts strewn about were all that remained.
+
+Despite being used as bait, Calen grinned. He had gotten incredibly strong, but Lyeneru remained in a league of her own. I can still get stronger!
+
+His eyes picked out the bow the monster had been using, still attached to a piece of an arm by what looked suspiciously like roots. A longbow of gnarled and twisted wood, but covered in what seemed to be spore pods. Cautious after Mato’s experience, he refrained from touching the item.
+
+“Malika? Is this bow parasitic, too?”
+
+Malika joined him and bent down to examine the bow for a few moments before picking it up, tearing it from the dead grasp of the severed sylvan hand.
+
+“Yes,” she said. “Here, take a look.”
+
+Poisonous Longbow of the Scourge – level 95A longbow of gnarled and twisted dark wood, covered with strange fungal spore pods. Every arrow fired from this bow trails a cloud of green spores in its wake. Damage: Ranged, Physical, NatureAdded Nature damage on hit with this weapon.15% chance to inflict level 32 Deadly Poison on hit.+57 Dexterity.+15% increased attack speed.Explosive Spores (Releases spore pods that explode with tiny poisonous shards).Parasitic: +5 Nature damage to wielder on activation of a skill or ability. Requires 140 Wisdom and Strength to unequip.Requirements: Strength 120, Dexterity 999Two-Handed – Bow
+
+“Aah, thanks,” he said, studying the bow with a little disappointment. He didn’t have the strength to unequip it yet, but he was surprisingly close. And while Cinderstrike was undoubtedly better for most jobs, having a bow with an alternative type of damage in his storage seemed like smart preparation.
+
+“You going to try to use it?” Malika asked.
+
+“I need a little more strength first,” he said. He had no desire to be stuck like Mato was.
+
+“I can keep an eye out for some good strength items,” Malika said, handing him the bow. “Keep this for now.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

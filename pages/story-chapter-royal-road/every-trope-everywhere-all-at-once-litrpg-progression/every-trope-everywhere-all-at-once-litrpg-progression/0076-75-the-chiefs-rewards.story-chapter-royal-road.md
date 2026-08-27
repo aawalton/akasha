@@ -1,0 +1,209 @@
+---
+id: bcb729dc-7f84-5b52-8d1b-ca720795c38f
+page-type-slug: story-chapter-royal-road
+title: "75 - The Chief's Rewards"
+slug: 0076-75-the-chiefs-rewards
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 76
+ownLength: 1962
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3708509/75-the-chiefs-rewards"
+royalRoadId: "3708509"
+---
+
+Meriel and I were back at the same table as the others. By now, the music had stopped, the children went back to their seats, and the dancers stood along the edges. After bringing the last food and drinks, the waiters settled down to their own tables.
+
+At the fars back was a raised platform with an elderly harpy standing on top, holding onto a stand with a glowing crystal. From how loud his voice was, it seemed like some kind of voice amplification device. He had spoken with it just earlier to tell everyone that the ceremonial speech was about to begin.
+
+Once everybody settled down and gave him their full attention, he scanned the entire area and cleared his throat.
+
+“First of all, I would like to thank each one of you for attending tonight’s event,” he began. “The past couple of days have been difficult for many—whether because of grief, injury, or simply the exhaustion that follows a battle like the one we faced. But despite everything, you are all here tonight.
+
+Today is not a day to forget those we lost, nor is it a day to pretend everything is suddenly as it once was. The scars left upon our islands and within our hearts will remain with us for years to come.
+
+But today, however, is a day to remind ourselves why we fought.
+
+We fought so our children could continue laughing. So our families could continue gathering around their tables. So our skies could remain filled not with fear, but with the creatures, airships, and islands we call our home.
+
+Whale Isles still stands. And for that, every single person here has my deepest gratitude.”
+
+Applause erupted throughout the island alongside cheers from the crowds gathered around. Reina’s and Talon’s applause was the noisiest, while Kaelor’s claps made several harsh gusts of wind, flapping our hair.
+
+The man raised a hand, waiting for the noise to settle before continuing.
+
+“There are many heroes who deserve recognition tonight. Some fought on the front lines. Some carried the wounded to safety. Others worked tirelessly to heal, repair, cook, or keep hope alive through the devastation. No victory is won by a single person.
+
+As many of you may know by now, the battle was caused because of a dungeon outbreak. Talon, Kaelor, and their friends took on our treasured dungeon. However, what was supposed to be a normal expedition turned into an unpleasant surprise. The dungeon was defective, and as a result, its warden escaped long ago without anyone realizing it, ultimately leading to the war we had just fought.
+
+As the Chief, I would like to give my special thanks to Allene, Meriel, Aeris, and Kaelor’s troops for charging head-first through the horde of monsters and closing the dungeon gate. Many of them lost their lives doing so, including Darwin, the captain of Kaelor’s troops.”
+
+Darwin…
+
+He never did get to tell us his name, did he? The twinned beasts had caught us by surprise and killed him before he could.
+
+The Chief listed several more names of others who had done notable feats during the battle. When that was done…
+
+“Talon, Kaelor, Allene, Meriel, Reina, and Aeris—would the six of you please come to the stage?”
+
+I blinked. “Huh?”
+
+Kaelor, Talon, and Aeris stood and headed toward the stage, as if they had expected this the entire time. Reina was about to go as well, but she stopped after realizing that Meriel and I were still in our seats.
+
+“Let’s go, you two!” she said as she grabbed our arms and brought us over.
+
+“Wait—hold on, this is too sudden!” I said.
+
+“So what? We deserve this!”
+
+I looked at Meriel, who laughed at me.
+
+“You don’t like having too many eyes on you, huh?”
+
+“I… No, not really…”
+
+“It’ll be fine,” she said, gently patting my back. “The Chief just wants to personally congratulate us. That's all. I’m sure he won’t ask us to say anything to the crowd, but if he does, I’ll be sure to point at you.”
+
+“Meriel!” I cried.
+
+My heart pounded faster as we all got onto the stage. Sweat began to build on my forehead.
+
+I really, really hated having so many people watching me. It was one of the things I struggled with the most, even in the world I came from. I never learned how to cope with it.
+
+“Please give a round of applause to these brave individuals for taking down Aurelius,” the Chief said.
+
+Cheers erupted.
+
+Kaelor waved back to the crowd with a charismatic smile, while Talon puffed his chest out and spread his wings. Reina pulled out a sword and pointed it at the night sky, and Aeris made a short fire breath that quickly disappeared in the air. Meriel put a hand on my shoulder, bringing her head down to my level.
+
+“Take this in,” she said. “This is what it means to be a warrior, adventurer, mage, magic knight, and more. Strive for power and greatness to protect the ones who need it the most.”
+
+I turned to her. “Wow. Nice speech. For someone who’s aware of tropes, you’re still playing the mentor role awfully well.”
+
+She smiled. “I am still your mentor. That won’t change. And besides, learning magic is only the second thing that makes me happiest.”
+
+“And here I thought you were grossly obsessed with magic. What’s the first?”
+
+“Using it to help others. Seeing all these people cheering for us is what makes everything worth it.”
+
+I looked at the crowd. The harpies, angels, giants, humans, elves, dwarves, and everyone else were all clapping for us. They saw us as inspirations. They saw us as the ones who saved Whale Isles.
+
+“I get what you mean,” I said. Despite how nervous I was from all the people looking at me, I found the courage to smile. “This is something I could get used to.”
+
+Once the applause settled, the Chief walked in front of the stage.
+
+“To thank these brave warriors, I, Chief Xylen, have prepared a number of rewards.”
+
+He turned to us. “As of this very moment, the six of you will be granted the following:
+
+Free food and drinks at any of our restaurants, paid for by the council.
+
+Free transportation within and out of Whale Isles with any airships.
+
+Free lodging at any inns or hotels.
+
+Free repairs for your equipment.
+
+An annual invitation to the Skycurrent Festival as honored guests.
+
+Your names engraved on a monument…”
+
+He continued with far too many rewards to count. Half of them were things I didn’t even know existed on Whale Isles, but from the way Talon’s grin grew wider after hearing about each new reward, I would happily take them.
+
+The Chief continued with a final reward that took us by utter surprise.
+
+“We have prepared enough materials to build a statue on the memorial island, but due to limited space, we’ll only be able to build a statue of one of you. Please decide which one of you the statue should depict.”
+
+There were so many people who would’ve made for an amazing statue.
+
+Aeris, a literal dragon.
+
+Kaelor, a Firstborn and a famous noble.
+
+Talon, a young boy from Whale Isles itself who defended his city from the monsters.
+
+But no. All of them pointed at none other than—you guessed it—me.
+
+“Huh…?” I said, looking around. “Me? Seriously…?”
+
+“I agree!” Reina said. “I think it should be Allene.”
+
+“But why? What about Aeris or Kaelor or—”
+
+“You’re the smallest, so it makes sense,” Kaelor said. “You’re the easiest to build and you’ll use less material.”
+
+I frowned. “Okay, that makes sense, but there’s no way that’s actually the reason, right…?”
+
+Talon ran to me, hugging me. “It’ll be awesome, Allene! Please say yes!”
+
+The others smiled and nodded.
+
+I sighed. Fine, why the hell not?
+
+I looked at the Chief and gave a thumbs up.
+
+“Wonderful,” he said. “We will begin its construction by tomorrow morning. With that being said, I’m sure many of us have some questions for you, brave warriors. Would any of you mind answering them for us?”
+
+Kaelor nodded. “Sure—”
+
+“She’ll do it,” Meriel said, pointing at me.
+
+I glared at her. “Meriel, you—?!”
+
+But the Chief handed me the voice amplification crystal right away, and Meriel nudged me toward the front of the stage. I looked back at her, raising an angry fist.
+
+“Whoops,” she said.
+
+“Then let us begin!” the Chief said, clapping. He pulled several small notes from his pocket. “The first question comes from one of our guards. He asks, ‘What encouraged you all to come to Whale Isles?’”
+
+The island became completely silent as the crowd waited for me to respond. My heart felt like it was beating out of my chest.
+
+“Um…” I began, nervously scratching my head. “Well, it was a bit of a coincidence. Meriel, Reina, and I were fighting a huge Ice Wolf that was, for some reason, much stronger than we thought. We tried to teleport away, but our spell wasn’t perfect, so we somehow ended up here.”
+
+Of course, calling it a big Ice Wolf was a complete understatement considering it was actually one of Glacinus’s guardians, but they didn’t need to know that.
+
+“Next question,” the Chief went on. “This one came from a woman who was at the Skycurrent Parade. She asks, ‘Why did Kaelor suddenly jump off his ship during the parade, and why did he bring Allene, Reina, and Meriel to his airship?’”
+
+That was back when Kaelor had smelled his brother’s scent on us, wasn’t it?
+
+Kaelor walked up to me. He opened his hand, so I gave him the voice amplification crystal.
+
+“It’s a secret,” he said, smiling at the crowd. “However, I will say this: Allene and her friends are some of the most enjoyable people to be around. That’s why we’ve become friends—nothing more.”
+
+Kaelor walked back to his position.
+
+The Chief continued to ask more questions. I answered them as best as I could, but occasionally handed over the crystal to the others if they were able to answer them better than I did. One of them even asked Aeris how it felt to be a dragon, which somehow led to her having a group of children run onto the stage to touch her horns.
+
+After a while, we eventually got to the last question.
+
+“What do all of you have planned going forward?” the Chief asked.
+
+I held the crystal close, looking at the others. Meriel gave me an expression that was a bit different from the rest. It was hard to describe, but I knew what it meant.
+
+Our goal was to find out the truth about this world. The tropes. The Narrative. Everything.
+
+I turned back to the crowd, taking a deep breath.
+
+“We’ll explore the rest of the world and learn as much as we can, whether that be magic, different cultures, or meeting new people and making new friends.”
+
+It was the typical response you would hear out of a go-getter protagonist, but what can I say? I had to give the crowd what they wanted.
+
+Everyone gave their final cheers as the night came to a close.
+
+We celebrated for a little longer before heading back to Talon’s house, where we had all been staying for the last couple of days.
+
+The sleeping situation was… tricky, to say the least. Having me, Reina, and Meriel on one bed was already bad enough, but now with Aeris into the mix?
+
+It was really bad.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- STATUE OF THE PROTAGONIST (COMPLETED)
+
+- THE CHIEF ACKNOWLEDGES YOUR PARTY (COMPLETED)
+
+- THE CITY’S SAVIORS (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[REWARD: Everything promised by Chief Xylen.]

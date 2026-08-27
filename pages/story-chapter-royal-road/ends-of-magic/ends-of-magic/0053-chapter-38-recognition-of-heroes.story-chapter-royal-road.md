@@ -1,0 +1,257 @@
+---
+id: b8438aaa-7472-5ae5-bf72-01e815669dcc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: Recognition of Heroes"
+slug: 0053-chapter-38-recognition-of-heroes
+partOf: ends-of-magic
+position: 53
+ownLength: 2898
+unit: words
+ownProgress: 2898
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2838620/chapter-38-recognition-of-heroes"
+royalRoadId: "2838620"
+markedReadAt: "2026-06-29T20:08:57.718Z"
+---
+
+The Heirs came down from the sky, slowly descending into the coliseum cut into the center of the ruined city. Nathan made sure to grab the adamantium dagger from the ground. It was unblemished from the exposure to the blightmind.
+
+“Why is the mana so thin? I thought the Seals purified it,” Stella said. “The aether is harder to reach, too. What did you do?”
+
+Nathan rubbed the back of his head self-consciously. “My new Development. It means I destroy any magic, including the ambient mana and wizardry. All of the death that was here, gone like that.” He snapped his fingers. “And it’s already starting to come back. The Seal is replacing what I took.”
+
+“It is also draining the blight. Look,” Khachi gestured down at the coliseum, where the sand was slowly changing color in a ring expanding out from the seal. Its natural color was a dark red, the shade of old blood, and it was a splash of welcome color against the bleak darkness of the blight. Sunlight poured down upon them, the clouds torn apart by the fighting and no longer reconstituting themselves.
+
+Sarah hovered over the Seal, looking it over as if she could tell what was wrong with the interlocking stone slabs. “It’s working now? You didn’t break anything with your aura?”
+
+Nathan's words were dry. “It’s working perfectly. They’re tough, and now that I've really gotten into one, I don’t think I could break it if I tried.” Nathan trailed off, realizing that was absolutely no longer true. He couldn’t have seriously interfered with the Seals before his recent Developments, much less destroyed them. They’d repair themselves from most conceivable levels of damage. But now, with Magical Destruction, he most definitely could break the Seal beyond any hope of regeneration. He could wreck the Seal to destroy the sources of mana and wizardry, and then drain the magic from a huge area. He could remove mana from this continent if he so desired.
+
+In fact, he could do it for every Seal. Somebody would stop him eventually, but if Nathan could get to a Seal, he could destroy it. It would probably be easiest with Blights, since there wouldn’t be an organized response from the Questors. The moment he started targeting continents that Questors controlled, they'd band together to stop him.
+
+“He’s got that light in his eyes,” Aarl said, poking Nathan in the arm. “The one that means he’s thinking of breaking the rules of Davrar. I don’t like that look when it’s turned on a Seal.”
+
+“Nathan, don’t break the Seal.” Stella spoke slowly and clearly, like talking to a child. “Our Deed depends on it. So much else, too!”
+
+He shook his head and looked away, rubbing at his eyes. They felt heavy. The other Heirs had received a blessing of wakefulness from Khachi, one that still clung to them with faint tracers of divine light. He had none of that. “I could destroy the Seals, and the magic with them. Maybe it wouldn’t be the worst idea. All of the evils of Giantsrest depended on magic. The same was true of Esebus.”
+
+“Destroy - magic?” Sarah asked in confusion, as Stella sputtered in the background.
+
+“Not everywhere. But if I destroyed the Seal, then the magic on this continent would thin and die out, especially if I gave it a bit of a kickstart. Wizardry too. Other kinds of skills would keep working, but not magic.” He shook his head once more, as if to clear it of cobwebs. “I know it’s a bad idea. But if the Questors don’t play ball… then maybe we should consider it. It might stop the Endings.”
+
+“Or it might cause them,” Stella replied hotly. She’d regained her balance and spoke like she couldn’t believe what she was hearing. “The Seals power the sun. What if the destruction of the Seals causes the Ending of Silence, and you accelerate it!”
+
+Nathan flopped onto his back on the rough sand, the energy flowing out of him. He had enough Stamina and Focus left to keep going, but he’d been combat-ready for days now, and it had worn him down. “There are a lot of reasons it’s a bad idea. The Questors would probably hunt us down. It would alienate our allies. But if we decide that there's no way for us to get what we want through discussion, the option is there."
+
+But Stella wasn’t done. “Magic is a tool, not an evil to be purged from Davrar. It’s the only way that many people survive! It needs to be used responsibly, not completely destroyed. It’s like the Insights you spread. On your world, they caused widespread damage, but you told us how to do it better. Magic causes problems, but it also fixes them. Don’t do this.” She was yelling now.
+
+He sat up and looked at her, thinking for the first time how his words would sound to her. “Of course I won’t. It was an idle thought. I’m tired.”
+
+“We’ll find another way,” Khachi said in a placating tone. He placed a gentle hand on Stella’s shoulder. “Nathan will not destroy your magic.”
+
+Nathan nodded emphatically, and Stella subsided.
+
+“Do not tell the Questors of this capability,” Sarah said. “They might weigh the risk differently from us.”
+
+“Good idea. Forget I said anything,” Nathan replied, shaking his head. He shouldn’t have brought it up.
+
+Aarl cocked his head at Nathan. “You told us you damaged Badud’s mana pool with your aura. Could you do worse now?”
+
+Nathan hesitated, but not for long. “It’s hard to say for certain, but yes. I could strip him of his magic. Permanently.”
+
+“Also knowledge to keep to the dark.” Sarah glared between Nathan and her brother. “Even allied Questors would mislike the idea of being permanently damaged. We seek to play their game, not upset it.”
+
+“Not yet,” Nathan corrected, but without any real heat to it. He didn't have enough energy for this discussion. Instead, he just lay there.
+
+"What occurs," Stella asked, looking down at Nathan with worry.
+
+He sat up and dusted himself off. "Just checking the Seal is working. And trying to stay awake."
+
+Then he felt a new presence, somebody at the edge of his magical senses. It was a familiar signature, headed this way quickly.
+
+“Hail to the victorious heroes!” Brox’s voice boomed across the huge colosseum. He jogged down the broken stone of the stands, the casual run moving as fast as Nathan could sprint. He raised a hand in greeting, hopping down from the stands to fall to the black sand below.
+
+The Heirs watched him come. “Our deed is done, so it is time to collect us.” Khachi’s words were resentful. “I feel like a hunting pet, let loose and called back.”
+
+Nathan could only grunt. “I’m just as happy to get answers as to what’s happening next. Sarya holds information close to her chest.”
+
+Brox caught at least some of Nathan’s words as he arrived and spared a long glance at the Seal. “By Edes, your deeds blind the mind’s eye. To speak answers to your questions, Sarya is speaking with the leaders of the Ashen Accord. They’ll arrive soon, to observe your victory and make good on their pledges.”
+
+“To a Conclave?” Nathan asked.
+
+Brox barked a quick laugh. “No, not yet. To war. This,” he waved his hand towards the Seal and the anemically growing ring of red sand, “will convince them that you are a worthy weapon to fight that war. Once the Aleph grid is ground to humiliation, then you shall have your Conclave.”
+
+“Who is coming? How should we act?” Sarah asked, brushing dust from her clothes.
+
+The Questor snickered. “You’ve met Henrish. The other is Kaelis Valthorne, an old friend of Garna.” He waved his hand dismissively. “They’ll ask after your builds, but truly, it’s of no importance. Your power is clear, and the agreement is made.” He once again indicated the blight around them. “Did you enjoy the bonus for clearing a blight? For such a small group, it should have been quite potent.”
+
+“The Developments?” Khachi asked.
+
+Brox dipped his head amiably. “No other.” He cocked an eyebrow at Aarl. “Have you picked up the trick of matched speed yet? You’re going to need it.”
+
+Aarl grinned back. “Just minutes past. Next we spar I’ll return some of your lessons.”
+
+“Good. Just don’t mention that around other Questors,” Brox said, then turned to Nathan, his face growing serious. “They come. If they want to test you, let them. The more powerful you seem, the more they will treat this war as a good bet. This is not a time for ego.”
+
+That comment almost caused Nathan to splutter in indignation. It seemed like such a hypocritical statement coming from Brox. But before he could figure out the right response, four more people appeared on the sands of the colosseum. They were about forty feet away from the Heirs, and there was no sign of mana or wizardry. But Nathan felt the same twist of something deeper, a greater effect of Davrar that had transported them across space to stand here. It was something he could probably interfere with if he knew it was coming.
+
+Three of them were familiar. Garna and Sarya looked around at the Seal and the cleansed ring of sand with satisfaction, while Henrish seemed shocked and gratified. The fourth member - who had to be Kaelis - was a grizzled man with stubble on his lined face. He looked old, but well-defined muscles and smooth movements belied that impression. He wore a battered breastplate with a leather skirt that carried a calm undertone of divine mana.
+
+Kaelis looked around with a guarded expression, appearing more academically curious than anything else. Then his eyes landed on the Heirs. It felt like a physical inspection, like Nathan was being probed and judged by intrusive hands. He felt a brief tingle on his newly developed mental protection skill that quickly withdrew, and the man pursed his lips and walked over. The other Questors followed, happy to give deference to the leader of the Ashen Accord.
+
+“Undead Seals are always a caustic burn.” His voice was low and growly, sounding like a man who spent a lot of time yelling. “But this appears to be done cleanly, even outside a Solstice. Which one purged the Seal?”
+
+Nathan raised his hand casually. “I did. Ripped the blightmind out root and branch.”
+
+“Hah, blightmind. We just call it the blight, because that’s what they are. But it’s a good phrase,” Kaelis replied. His eyes rested on Nathan once again, quickly scanning him from top to bottom twice before he looked back to the Heirs. Then he glanced over to Garna with a stern expression. “They’re good, but good enough to stake a Questor war on?”
+
+“What did your eyes see?” Garna asked, not out of curiosity, but more to prompt the older Questor to review his data.
+
+He pointed to Stella. “Elemental mage, powerful but just starting down the path of Wizardry. The Seal will have given that a boost.” He moved to Sarah. “Archer, specialized for range. Very long range, and dangerous, though I don’t quite understand how.” He moved to Aarl. “An item class, very dependent on the items he carries.” He frowned, then looked back at Garna. “Did they really loot Sussu’s adamant vault?”
+
+“Bet stalker teeth against dragon bones that we did,” Aarl replied, shaking his arms out to emphasize the bracelets he wore there, the ones they’d taken from Sussu's body.
+
+The Questor hummed, scanning Aarl again with a renewed interest. Then he panned to Khachi. “A cleric of a dead god. Farther along that path than I thought was possible without a personalized blessing. Novel. Which god?"
+
+"I followed Deiman," Khachi answered.
+
+"Followed..." the Questor nodded to himself. "I begin to understand. Truly, a unique Path."
+
+Then he looked back at Nathan. “But not as novel as you. Antimagic and assassin. A feared combo, but not a threat to a true wizard. Except you are. And capable of purging a blighted Seal. And…” He narrowed his eyes, and Nathan felt a scratch along his mental protection skill. He threw Focus into the skill to prevent Kaelis reading his status like an open book.
+
+The Questor frowned, then looked up to the sky and back at Nathan. “Regeneration and flight, though only guesses from the state of the battlefield and your clothes. You’re blocking my eyes. Can I test the regeneration?” His hand dropped to a short blade, almost a dagger, at his side.
+
+Nathan raised his eyebrows. “You got a decent read.” He held out his hand to the Questor. “Nathan Lark, nice to meet you. Don’t strike me with a weapon you want to keep.”
+
+Kaelis huffed a quiet laugh and reached out to take Nathan’s hand. In a flash, his other hand came up, holding the dagger. It was a smooth motion, but without Brox’s superhuman speed. Nathan thought he could have pulled away, though he didn’t have a good grasp on Kaelis’s strength. But he let it happen.
+
+The blade cut cleanly, separating Nathan’s hand from his arm. With a twitch of his aura, Nathan made sure to destroy the enchantment on the blade, and a second thought caught the rings on Kaleis’ hand. The magically forged blade fell apart into shards of metal and dust, and Kaelis looked down at it with a confused frown. “That was mithril.”
+
+Nathan rolled his shoulder around as he pushed Stamina towards his hand to regrow it in seconds. “Oh, is that what it was? It was resilient. But a resilience rooted in wizardry doesn't mean much to me.” He waved his regrown hand at the Questor, then pointed to the man’s other hand, which held Nathan’s severed limb. “Those rings are toast too.”
+
+“Toast?” Kaelis idly moved to stow the amputated limb in his bag, more interested in the rings.
+
+Brox was suddenly there, holding onto the severed hand. “Calculated theft is still theft.” He gave the other Questor a stern look until the man released his grip. Brox tossed Nathan’s spare hand to Aarl, who stowed it away in one of his bags with an air of bemusement.
+
+Nathan blinked at the exchange, not entirely sure about everything that had just happened. He hadn’t been particularly worried about Kaelis taking the arm - it didn’t hold any of his antimagic, and it wasn’t like it could be used to scry him. But then again, he didn’t know what kinds of abilities were out there. Maybe there was somebody who could smell his arm and find him across continents.
+
+Kaelis sighed, then inspected the rings on his finger. He twisted one and grunted. “An uneven exchange.”
+
+Garna’s expression was similarly stern. “You gained knowledge. Are you content?”
+
+The man’s disappointed expression transformed into one of delighted satisfaction. “I am. That was high-tier healing, and to break a mithril blade on contact? It is a potent force. If the Seal did not convince me, this did. We will arrange this war,” he pointed towards Nathan. “And you will win it for us.”
+
+Sarya rolled her eyes at the melodrama. “Where? What continent do you want to conquer?”
+
+“Not conquer. We’ll do it in Ostren,” the man answered with a subtle smile and a glance in Khachi's direction. “Not the grandest ambition. But our feud with the Aleph grid has never been a matter of territory. Prestige is the currency of the game, and Ostren will guarantee us the largest audience.”
+
+Garna, Sarya, and Brox all laughed aloud. “It’s a continent of craters!” protested Brox, but not in a serious way. In response to the Heirs’ confused look, he explained. “It’s where we killed Olita, Deiman, Isera, and Sereth.”
+
+“And Tirien,” Sarya corrected.
+
+Brox just waved it away. “Pah, God of weddings. Sereth was the nightmare to slay. Secrets never die.”
+
+Kaelis clapped his hands together to cut through the byplay. “A land of grand deed and modern gathering. Action there will signal that Davrar is changing once more. That is your goal with the Conclave, yes?” His eyes grew suddenly piercing, emphasizing the depth of his question.
+
+Sarya mirrored the expression, suddenly deadly serious. “Yes. Let the rest of the original council know that this is the time to revisit the nature of Davrar.”
+
+He smirked. “I’ve already started. It will be a reunion of the elders.”
+
+Permanent Talent 1: Magical Destruction 2
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1274
+
+Bottomless Stamina : 120928/127400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 7329/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 9
+
+Impulse 6
+
+The Sense of Magic 2
+
+Forewarning 7
+
+The Truth of Magic 2
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 3

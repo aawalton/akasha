@@ -1,0 +1,129 @@
+---
+id: 886c8c62-3b46-55d6-9b43-9330a5c4f46d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 285: Corrupted Fire Drake (Part 1)"
+slug: 0319-chapter-285-corrupted-fire-drake-part-1
+partOf: dungeon-of-knowledge-complete
+position: 319
+ownLength: 2126
+unit: words
+ownProgress: 2126
+publishedAt: 2025-06-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2368812/chapter-285-corrupted-fire-drake-part-1"
+royalRoadId: "2368812"
+markedReadAt: "2026-06-29T20:22:07.789Z"
+---
+
+“I just wanted to stop by and thank you for your kind hospitality, Mr. Hawkhurst,” Worthington said. He was an expert at buttering up the local nobility or wealthy businesspeople, and he would never allow this Jax Hawkhurst to see just how much he detested him or his miserable little god-forsaken town.
+
+For the last few days, he had been forced to smile at an endless, tedious parade of rundown houses and abandoned warehouses and subject himself to the unwashed masses desperately looking for handouts. Just like this Jax Hawkhurst. Worthington had taken the measure of the man in an instant – he was just like all of them, looking to ingratiate himself with the Silver Cog Trading Company in the hopes of calling in a favor later. He had seen it so many times – they were all the same. He dabbed his forehead with a silk handkerchief.
+
+“Well, I’m so sorry you had to come all the way out here for nothing,” Jax said. “But if you’re ever in town again, I can offer you a much better room than the inn.”
+
+“Thank you kindly,” Worthington said with a practiced smile and reached out his hand to shake Jax’s. Taking bribes was against company policy. Not that it mattered, there was no way he was ever coming back here, that was for certain.
+
+He had known he would be right, but strict adherence to their carefully constructed business plans was what kept Silver Cog running smoothly, and Jax had merely confirmed that there was nothing of value for them in this town. As soon as he settled up with the innkeeper, he would be one quick teleport away from the comfort of his own home, and the shipment which must be waiting for him in his warehouse by now.
+
+And he had a bet to collect from Filius. Neither of them had ever considered the Myrin’s Keep petition to have any value whatsoever, but Filius had been certain it would take at least a week for him to ferret out the truth, and he had achieved it in just a couple of days. A hundred gold coins were a hundred gold coins, and he would relish seeing Filius’s face as he was forced to pay up.
+
+Grinning at the prospect, Worthington left the offices of the dinky Hawkhurst Trading Company, fervently hoping that he would never be forced to see them again.
+
+The loss of her lower-level minions did not noticeably affect their pace through the mines – if anything, the dungeon clear sped up as they grew more confident with their group’s ability to handle more monsters simultaneously than seemed entirely reasonable. With three Ice Mages freezing everything with their Frost Novas and Calen distributing glowing chains of light with explosive multishot volleys, almost nothing could move – and bunched-up stationary targets were extremely vulnerable to area damage.
+
+“That Blood Vortex is ridiculous, Ali,” Calen observed as her berserkers tore through the frozen group of monsters.
+
+“I think it’s become my favorite skill,” Ali admitted, surveying the carnage with a critical eye.
+
+“More than… fireball?” Malika exclaimed with exaggerated incredulity from atop the back of a struggling Armored Drake. She unleashed a few more punches into its spine and it collapsed under her.
+
+“Yes, I know. Crazy, isn’t it?” Ali said, leaning into Malika’s joke. I still love Fireball, she thought, it was just this dungeon that was problematic for fire spells.
+
+“Phoenix next,” Calen said, pointing the way to the shadowed crack in the wall that led to the fire bird’s lair.
+
+Mato shifted just to groan, and then shifted back.
+
+It took three incarnations to put the Phoenix of Living Flame down, but even then, it hardly slowed them down, and so, before they had even used half of their remaining fire elixir duration, Ali found herself staring in on the Corrupted Fire Drake’s slumber. Behind the sleeping dragon with the dark flames that danced across his gleaming red scales a stone dais rose, providing a platform right before the enormous lake of boiling lava. A huge monolith of black stone covered in burning red runes – a natural shrine – sprouted like a watchtower in the center, standing guard over the legendary forge and anvil of Thovir Emberforge.
+
+Corrupted Fire Drake – Demonic Dragon – level 99 (Hellfire)
+
+“Ninety-nine…” Ali breathed.
+
+“No wonder we struggled,” Malika said, gazing into the chamber from the threshold of the arched doorway. “What level were we when we first tried this guy?”
+
+“You were sixty-three, I believe,” Calen said, his eyes glued to the waves of Living Flame that rippled outward from the drake like a heartbeat of flame expanding through the entire chamber.
+
+“Here’s a quick recap of his abilities,” Ali said, sharing the two major abilities that were the source of so much frustration and struggle while she distributed a few fresh potions to her friends and minions. “First, Ruinous Frenzy. It’s a curse he can cast on everyone that enters the room. Don’t dispel it or let it drop; it heals him for… a lot.”
+
+Ruinous FrenzyA terrifying curse that exudes a dark demonic energy. -1% maximum health whenever duration is refreshed. Duration: 15 minutes.+50% haste.+100% damage.Demonic Siphon. (Lose 20% of your maximum life and heal the caster for 20% of theirs when the curse ends.)Curse – Duration: 5 seconds.
+
+“Second, Living Flame,” Ali continued, sharing the domain-powered version of the ability the Living Flames and the Phoenix displayed – a theme for this dungeon.
+
+Living Flame+150 fire damage per second.+25 stamina and mana restored per second.Curse Proliferation (Whenever Living Flame damages a cursed target, it has a chance to refresh the curse duration or proliferate it to nearby targets).Skill – Domain Magic
+
+“This ability is those orange-red pulses of flame filling the room. It keeps the Ruinous Frenzy running on everything inside the chamber. Make sure you get hit by it every other pulse at least,” Ali said, glancing pointedly at Malika.
+
+“Right, I remember. Don’t dodge it,” Malika said, offering a somewhat theatrical wince.
+
+“Everyone ready?” Calen asked. “Recall potion check?”
+
+Mato grunted.
+
+While they had cleared the dungeon in record time to reach the chamber of the Corrupted Fire Drake, everyone waited, poised, as if uncertain they should continue. Ali glanced back to the drake, jerking backward suddenly, startled to see the slitted, malevolent red eyes staring at her. Tiny shards of black swirled lazily in the great glowing orbs, some strange function of this monster’s twisted fate; a bizarre blend of fire dragon and hellfire demon.
+
+“Have you returned to die?” The entire chamber shivered and trembled at the sound of the drake’s voice, draconic growls, hisses, and roars punctuated by bursts of black hellfire.
+
+“No!” Ali shot back, shouting in draconic. “Will you stand down?” But just as before, the drake ignored her words, rising to his feet and letting out a thunderous challenging roar that made the flames dance.
+
+“Well, let’s not keep him waiting,” Mato said, transforming into his Bear Form.
+
+“Same plan as last time, just with more… everything,” Calen observed drily, “except any actual dying. Strictly forbidden.”
+
+He jested, but the reminder was real. Overconfidence could be fatal.
+
+“Right,” Ali said, and stepped forward into the chamber of fire.
+
+Calen darted into the chamber on wings of light after having used Eclipse from cover to mask his presence. With the unending waves of Living Flame continuously buffeting his body, he had no reason to worry about the mana cost of running both sets of wings, and the extra maneuverability and height would grant him a much better line of fire – he just needed to make sure he didn’t outrange the shamans and their Blood Siphon. He fed more mana to Eclipse, hoping that the room-wide walls of flame would mask the energy from his light magic wings, and he wouldn’t be discovered before he fired.
+
+Mato lumbered across the rocky floor of the vast chamber, his fur already a bonfire of flame.
+
+The healers have him covered. Calen summoned a gold coin and flipped it into the air.
+
+You have gained the Blessing of the Wanderer+27 to Dexterity. +11% to Movement speed.Blessing – Duration: 3 hours.
+
+After pausing for a moment to silently honor his patron, he quaffed a Potion of Greater Intellect, doubling down on his magical damage, and drew his bow. With a flourish nobody would see, he retrieved a singular heavily enchanted physical arrow from his storage ring. It had a mithril tip, and the shaft was a dense tapestry of incredibly intricate runes – when he had laid eyes on these in the Pathfinder Guild Store, he knew he had to have them. Unfortunately, he had only been able to afford one.
+
+Calen sucked in a deep breath and held it, beginning to channel his stamina into Power Shot.
+
+On the ground below, Mato’s claws flared with dark sizzling streamers of void energy, striking the drake cleanly across the front right shoulder and making it roar. A sudden spray of crimson blood arced into the air, igniting in the flame, and still, he channeled his stamina. Mato struck again, and the drake breathed dense black waves of hellfire on him, and still he channeled. Ali’s minions launched themselves at the boss, filling the chamber with yells and shouts in Trollish. Ribbons of blood arced over to heal Mato still engulfed in the dragon’s flame, and he waited, channeling till the bow vibrated in his hands before releasing his arrow.
+
+His bow recoiled with the enormous release of pent-up power and his magic-infused arrow ignited from his light magic and armor-piercing enchantments, punching down into the drake with the full force of his Ambush, all his critical damage and enhancements, making a cracking noise that echoed loudly from the walls as it impaled the drake. It roared in fury, but to Calen’s relief, the great dragon remained glued to where Mato had placed him.
+
+He ignored the waves of flame, the stench of burning flesh, and the curse washing over him, immersing himself instead into the zone of conjuring arrows and firing as rapidly as possible. He rained down volleys of glowing arrows, every one of them enchanted with light magic, Armor Piercing, and the bonuses from his motes circling overhead.
+
+Everyone seemed to be placed well, Ali had chosen a spot for herself and her mages that was close enough for the Blood Siphons to arc across between them and the melee group, while overhead, the three Frost Dragonet familiars swooped, delivering diving breath attacks of frozen ice.
+
+Calen allowed the battle to play out, tracking the time as he fired his arrows.
+
+“Thirty seconds,” he called out. “Damage check?”
+
+“About fifteen, maybe twenty percent so far,” Ali answered.
+
+I just hope I can make the right call, he thought. In an effort to optimize her minions around the limited numbers they could bring to this fight, Ali had chosen to discard her Acolyte – a decision he wholeheartedly supported – but it had also eliminated their only source of precise information about the Corrupted Fire Drake’s remaining life total. It was unsettling being forced to make the call effectively blind, but there was no choice, they couldn’t afford to sacrifice a high-level Troll in their group for a low-level kobold, not even given how important the boss’s remaining health was to their strategy. He would just have to make do, relying on Ali and her imprecise Scent of Blood – and his personal experience of their prior attempts, as ineffective as they had been.
+
+He studied the battlefield from his elevated vantage point while he fired. Everything seemed to be proceeding smoothly, but in the back of his mind, he worried about everything they didn’t know. The boss had only revealed Living Flame so far, and two further domain magic skills were still unknown. He was relatively certain one of them had to be vitality, given how much health the drake had, but it was not something he would be able to know for sure until they won, or the drake sprung it on them as a surprise.
+
+“Fifty seconds,” he called out. I hope this is right, he thought. But logically, there was no reason to hold back.
+
+“I think he’s getting close to half,” Ali called out. “But I’m not exactly sure.”
+
+“One minute. Keep going,” he yelled as the one-minute mark passed. This was the turning point, and as best he could tell, they might just be on track. He continued firing his arrows as fast as he could while he counted the seconds and watched his maximum health slowly tick down.
+
+Come on… what are we missing here?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

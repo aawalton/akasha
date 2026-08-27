@@ -1,0 +1,257 @@
+---
+id: 8a539e86-de27-5304-8265-735d271cb39b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 297: The Branching Paths of the Druid"
+slug: 0332-chapter-297-the-branching-paths-of-the-druid
+partOf: dungeon-of-knowledge-complete
+position: 332
+ownLength: 3168
+unit: words
+ownProgress: 3168
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2400466/chapter-297-the-branching-paths-of-the-druid"
+royalRoadId: "2400466"
+markedReadAt: "2026-06-29T20:22:35.363Z"
+---
+
+“It’s ready for you, Mato,” Ali said, gesturing grandly at the humming edifice of stone flooding the grove with softly shifting green and gold illumination.
+
+The shrine. Evolution.
+
+Mato took a deep breath, wiped his palms on his thighs, and glanced about. His friends were all here, smiling at him expectantly. Lira stood quietly nearby, her face serene as always.
+
+Let’s get this over with, he thought, but he kept his nerves to himself and reached out his hand, placing his palm on the cool stone surface, and closed his eyes.
+
+[Shrine of the Ancient Grove] Class evolution activated – 2,000,000 mana.Gathering Authority based on your actions, achievements, titles, reputation, and influence. The gathering process made his nerves prickle and his muscles tremble like standing in the middle of a Lightning Nova, but it didn’t last long before the shrine notifications sprang into his mind with glowing green text gilded in gold.
+
++46 Authority.You may buy 10 attribute points per Authority point.3 paths have been found.
+
+Three paths, he thought, calling them up immediately. Nerves or not, there was no reason to hesitate.
+
+AggressionYou have chosen to follow Azryet, the Dragon God. Upgrade your shapeshifting, taking the form of a dragon and eschewing all other forms. Enhance your damage in combat with dragon claws, and dragon breath.Traits: Draconic, Strength, Melee, Critical Damage, FlyingPath Length: 6Reachable Nodes: +25% to Critical Damage. Cost: 1Quality: RarePath – TraitBalanceWalk the path between your deity and your mentor, striving for the balance of nature. Traits: Endurance, Wisdom, Strength, Physical, Melee, Defense, Healing.Path Length: 8Reachable Nodes: +10% spell power to Healing skills. Cost: 1 +10% melee attack damage. Cost: 1 +10% to amount blocked. Cost: 1 Quality: RarePath – AttributePacifismWalk the path of the dryad, tapping into your healing nature. Upgrade your shapeshifting, taking the form of an Ent, eschewing all other forms. Your healing is greatly enhanced. Traits: Wisdom, Healing, Plant.Path Length: 9Reachable Nodes: +25% spell power to Healing skills. Cost: 1Quality: RarePath – Trait
+
+Mato had been dreading his evolution; he hated doing number calculations and the feeling that he might not have chosen the best option. He didn’t particularly enjoy feeling stupid either. But these evolution paths seemed to speak to him directly.
+
+He glanced over at Lirasia, meeting her soft hazel eyes for a moment. He had never been a pacifist, and he wasn’t about to become one, even though she was. The offered Ent Form would no doubt be incredibly powerful, but it wouldn’t support the role he had found on the team. No, that was not his path to tread.
+
+On the other hand, there had been a time when he would have instantly chosen the path of Aggression, reveling in the ability to become a dragon whenever he wanted. Who knew how powerful a dragon form would become? But he had abandoned the path of damage at all costs along with his old Primal Rage skill, and instead grown to respect that nature required balance in all things, just as Lira had taught him. Besides, he enjoyed being both a bear and a tree.
+
+And dragons have to fly, he twisted his lips as he considered that wrinkle. It looked like a very compelling choice, but one perhaps for someone else. Call him old-fashioned, but he did prefer to have his feet firmly planted on the ground.
+
+Noticing the expectant gaze of his friends, he shared his path choices.
+
+“Holy shit, you get to be a dragon!” Calen exclaimed.
+
+“Or an Ent!” Malika said. “Can you imagine his oak tree uprooting itself and strolling about?”
+
+“How are you even going to choose?” Ali asked.
+
+“I think the young druid has already made his choice,” Lira said.
+
+“I think so,” Mato nodded. His was undoubtedly the path of Balance, and he was extremely grateful to Lira for suggesting he take Azryet as his deity as a counterbalance to her pacifism – without that, he likely wouldn’t have been offered this path. This path seemed to offer him the best tanking options.
+
+Keeping an eye on the reachable nodes for updates, he decided to spread his selections as much as possible to broaden his base.
+
+[Balance 1/8] +10% spell power to Healing skills. [Balance 2/8] +10% melee attack damage.[Balance 3/8] +10% to amount blocked.
+
+After spending his third point, the nodes updated, showing him a new choice. “Hey, Calen,” he said, sharing the new option along with the same set of three that were still available. “Fifty strength for one point is good, isn’t it?”
+
+“Oh, yes! That’s a lot for your build.”
+
+“Thanks,” he said, and chose that option, disappointed to see that it was a one-time thing.
+
+[Balance 4/8] +50 Strength.[Balance 5/8] +10% spell power to Healing skills. [Balance 6/8] +10% melee attack damage.[Balance 7/8] +10% to amount blocked.
+
+For his final point, the nodes reached a new breakpoint, offering him the ability to choose a boost to his endurance. Easy choice.
+
+[Balance 8/8] +50 Endurance.Balance path has been completed. 38 Authority remaining.Aggression path has been removed.Pacifism path has been removed. New paths have been found.
+
+He sucked in a deep breath and cracked his knuckles, before centering himself deliberately to try to calm the yammering of his heart. Alright. Now the fun starts. He read on.
+
+Lirasian SageAlign yourself with the forest itself, embodying the vitality of nature. Traits: Vitality, Nature.Path Length: 6Reachable Nodes:+10% spell power to Nature skills. Cost: 1Quality: RarePath – KeystoneBark SageAlign yourself with the bark of the trees, embodying the endurance of nature. Traits: Endurance, Nature.Path Length: 7Reachable Nodes:+10% to amount blocked. Cost: 1Quality: UncommonPath – KeystoneThorn SageAlign yourself with thorns of bramble and bush, embodying the strength of nature. Traits: Strength, Nature.Path Length: 9Reachable Nodes:+10% of blocked Physical damage is reflected to the attacker. Cost: 1Quality: UncommonPath – KeystoneInstinctual TankDefend yourself and your allies using the power of your instincts and your alignment with the natural order. Traits: Endurance, Defense, Nature, PerceptionPath Length: 5Reachable Nodes: +10% to armor. Cost: 1+10 to endurance. Cost: 1Quality: UncommonPath – KeystoneBattle HealerNot one to shy from the thick of battle, you still hold a deep commitment to the healing paths of nature. Traits: Wisdom, Healing, Nature.Path Length: 5Reachable Nodes: +10% spell power to Healing skills. Cost: 1Quality: UncommonPath – KeystoneBestial RampageFinding yourself in the thick of things at all times, your thoughts are always relentlessly pursuing the path of maximum damage and carnage. Traits: Strength, Attack, Critical Damage, Nature.Path Length: 4Reachable Nodes:+10% to melee damage. Cost: 1+25% to critical damage. Cost: 1Quality: UncommonPath – Keystone
+
+“Whoa, six new paths,” Mato said, eyeing the sudden burst of notifications warily before sharing them.
+
+“Six keystones!” Ali exclaimed.
+
+“Looks like two sets,” Calen said. “I suspect they might be exclusive.”
+
+“What do you guys think?” Mato asked, a little worried about making an incorrect choice.
+
+“Which ones do you like the most?” Malika asked.
+
+“I think the tank one mostly,” he answered, surveying the list carefully. “The healer one looks like it might be good, too. I’m not sure what the sages do, exactly, but the Lirasian sage is about vitality, so that seems important. If I can only get one, I’ll take that one.”
+
+“It’s obviously influenced by Lira,” Ali said, gesturing to the ancient dryad beside her.
+
+“Yes, dear, I think he figured that out,” Lira smiled.
+
+“It’s only got vitality and nature traits,” Calen said, “Both are important for your build. That, and the Bark Sage might be very good. The only problem is some of them might be eliminated when you choose, so pick the one you want to lose the least.”
+
+Mato glanced at the ancient dryad, his mentor, but she smiled encouragingly at him and said, “I believe it will suit you.”
+
+“Tank first, then,” he said, but he really hoped the other options didn’t vanish. “I can choose ten percent armor boost or ten endurance. Why would I need a path for ten endurance when I can just buy attributes directly?”
+
+“Maybe the path leads somewhere different if you take it as path nodes?” Calen suggested.
+
+Mato nodded thoughtfully, but in the end, he was certain he would benefit far more from the armor improvements.
+
+[Instinctual Tank 1/5] +10% to armor.[Instinctual Tank 2/5] +10% to armor.
+
+After spending two points to buy armor, Mato reached a new node.
+
+Reachable Nodes: +10% to armor. Cost: 1+10 to endurance. Cost: 1Last Stand gains Receptive Restoration. (Last Stand improves healing received) Cost: 3
+
+“Oh, this is the troll berserker’s Last Stand, isn’t it?” Mato asked, his eyes immediately seeking out Ali.
+
+“Looks like it!”
+
+Mato immediately spent the three Authority to get it. Last Stand was the ability he had used time and again to pull their team out of the fire, any boosts to make it more effective were worth it.
+
+[Instinctual Tank 3/5] Last Stand gains Receptive Restoration.
+
+When Mato checked the nodes he could reach, he found that all of them had been removed except for the armor bonus, and that had increased substantially, so he took that next.
+
+[Instinctual Tank 4/5] +30% to armor.
+
+For his final node in the path, the thirty percent armor boost was still reachable for one Authority, but a keystone upgrade had been added.
+
+Reachable Nodes: +30% to armor. Cost: 1Survival Instinct gains Instinctual Defender. (Your survival instinct works on attacks made against allies within your domain) Cost: 2
+
+While the thirty percent armor boost was a steal for only one Authority, the upgrade for Survival Instinct was far better. Especially if he considered the fights when he needed to tank in his Tree Form.
+
+[Instinctual Tank 5/5] Survival Instinct gains Instinctual Defender.Instinctual Tank path completed.30 Authority remaining.
+
+To his relief, all the other paths remained, and so he picked his second favorite – based entirely on its connection to Lira, who had been a steadfast mentor and inspiration for him. It felt right to honor her in this way.
+
+[Lirasian Sage 1/6] +10% spell power to Nature skills.[Lirasian Sage 2/6] +10% spell power to Nature skills.
+
+Two points in, Mato found his first path divergence.
+
+Reachable Nodes:+20% spell power to Nature skills. Cost: 1+1 Vitality per class level above 100. Cost: 1
+
+Easy choice, Mato thought. Vitality was one of his most critical attributes. Gaining an additional point every time he leveled would pay out dividends in every battle.
+
+[Lirasian Sage 3/6] +1 Vitality per class level above 100.
+
+Disappointingly, he couldn’t choose it again, his node options reverting to nature-affinity spell power – which still wasn’t half bad.
+
+[Lirasian Sage 4/6] +20% spell power to Nature skills.[Lirasian Sage 5/6] +20% spell power to Nature skills.
+
+When he reached his last node, his options changed again.
+
+Reachable Nodes:+30% spell power to Nature skills. Cost: 1+1 Vitality per class level above 100. Cost: 1Rampant Growth gains Lirasian Sage. (+Minion. You can summon a Lirasian Sage). Cost: 3
+
+“I can choose vitality again or something called a Lirasian Sage. It seems to be a summon?” Mato inspected the text a second time, but no more details were forthcoming. That was the problem with this evolution. Too often, he felt as if they were searching blindly, playing some kind of cosmic lottery with hard-won skills and abilities.
+
+“Oh, my,” Lira breathed. “You have done well, haven’t you?”
+
+“What do you mean?” Mato asked as all his friends stared curiously at her. “Do you know what this is?”
+
+“I had hoped… when I saw your path. I believe you will not regret choosing the Sage,” Lira said, smiling her most mysterious smile, yet he also read there a degree of hope that, frankly, amazed and concerned him. Was it truly this important? If so, the decision was easy.
+
+“Good enough for me,” Mato said. Lira had never once led him astray.
+
+[Lirasian Sage 6/6] Rampant Growth gains Lirasian Sage.Lirasian Sage path completed.22 Authority remaining.Bark Sage path removed.Thorn Sage path removed.
+
+He had no idea what a Lirasian Sage actually was, but somehow it had advanced his Rampant Growth skill, granting some kind of summoned minion, which was nothing like what he had expected. He moved on, deciding to check it later. Lira thinks it’s cool. Let’s keep the trust strong, alright?
+
+“Ok, Battle Healer next,” he announced.
+
+[Battle Healer 1/5] +10% spell power to Healing skills
+
+For his second node, the path offered an increased amount of healing power for the same cost.
+
+[Battle Healer 2/5] +15% spell power to Healing skills.
+
+It increased again? Not questioning his good fortune, he spent the point.
+
+[Battle Healer 3/5] +25% spell power to Healing skills.
+
+Mato paused as his path began to diverge and shared his new choice with his friends.
+
+Reachable Nodes: +35% spell power to Healing skills. Cost: 1Brutal Restoration gains Natural Blast (+Area. On critical damage with the supported skill, Brutal Restoration will emit a short-range blast of nature magic, healing your allies and damaging your enemies.) Cost: 3
+
+“Natural Blast looks good,” Mato said. “But thirty-five percent to your healing seems strong, too. Do you guys think it’s worth it?”
+
+“That’s a very good skill,” Malika said. “It distinguishes friend from foe.”
+
+“I’m not a dexterity build, I don’t crit much,” Mato said, wrinkling his brow. This was the number-crunching nightmare he had dreaded.
+
+“Hey, before you make your decision,” Calen said. “I was chatting with Devan at the Challenge Arena earlier, and she was saying that Azryet’s Favor and Azryet’s Wrath both count as critical strikes delivered with her dagger. They’re spell criticals, so they don’t deliver melee physical critical damage, they just affect the spell damage – but they affect all spell damage.”
+
+“Uh… what?” Mato asked. He was getting a cramp between his eyebrows just trying to follow what Calen was getting at.
+
+“Whenever you get your Patron’s blessing, it should trigger that Natural Blast skill, and increase any additional magical damage you get, like the light damage from my motes,” Calen said.
+
+“You sure?” Mato asked. If that were the case, then this new ability would trigger often enough to be very useful.
+
+“Absolutely, we tested it extensively.”
+
+“How did you even test that?” Ali asked.
+
+“I bought a cheap dagger from Weldin that had a critical damage proc. It went off every time she got the blessing,” Calen said.
+
+“Alright, pack the brains away before we all get jealous,” she teased, nodding to indicate her approval.
+
+“Don’t you strength-builds sometimes land Crushing Blows, too?” Malika asked.
+
+“Yup,” Mato said, “Wait, do those count too?”
+
+“Oh, yes! An excellent point, Malika!” Calen said, pointing a finger at her dramatically. “That should definitely do the trick.”
+
+“Ok, getting this one then,” Mato said, grinning at his friends. “You all can thank me in advance for the overwhelming healing in the future! Look out, Malika, I’m after your job.”
+
+“Bring it on, fluffy bear!” she said, putting up her fists.
+
+[Battle Healer 4/5] Brutal Restoration gains Natural Blast.
+
+Mato grinned at her as he accepted his skill improvement; his first direct healing spell, and then glanced over the updated reachable nodes available for his last path step.
+
+Reachable Nodes: +50% spell power to Healing skills. Cost: 1Battle Trance gains Retributive Heal (Whenever you are hit, you may use Brutal Restoration for free. Recharge: 5 seconds.) Cost: 3Arboreal Sanctuary gains Breeze of Restoration (Mana: Your Sanctuary aura heals your allies over time. Channeled.) Cost: 3
+
+“Another difficult choice,” Mato said, sharing the options.
+
+“This path is strong,” Calen said, furrowing his brow as he studied the choices.
+
+“Fifty percent to healing, wow,” Malika said.
+
+“I still think one of the skill upgrades is better,” Ali said. “More options in battle.”
+
+“I agree,” Mato said, eyeing his two keystone choices. “But which one? I like the Retributive Heal the best, but should I be taking the healing aura because it will help all Ali’s minions?”
+
+“That would be strong, but your Sanctuary is pretty small in Bear Form – it should mainly help with the melee-range fighters,” Ali said.
+
+“It’s channeled, so that means it’s likely mana intensive,” Calen observed.
+
+“It would be very strong in Tree Form,” Malika said, “but I think Retributive Heal is the better choice.”
+
+“How come?” Mato asked. He had his own gut feelings, but Malika understood tanking and melee combat better than most and her reasoning was solid.
+
+“With Ali bringing shamans, we don’t struggle with any lack of healing,” she said. “Your mana would be making the shamans and my job easier, but nothing we can’t handle without it. I think you should save your mana for the abilities that make you tougher as a tank. You get hit a ton, so that Battle Trance upgrade will allow you to use your blast heal for free every five seconds. That should save a ton of mana for increasing your magical damage, stealing damage from others, and deploying your roots for battlefield control. Those are unique skills you bring to the fight that are much harder to duplicate.”
+
+“Sounds like you think that would be the best for the team?” Mato asked.
+
+“Yup.”
+
+“I agree, too,” Calen said. “Don’t forget the other side of the coin, that it damages enemies too, so it should help with area tanking.”
+
+“Same,” Ali said. “I can always bring another shaman, and soon I should have my Acolytes leveled up.”
+
+“Ok,” Mato said, letting the grin spread across his lips. It was nice to know his friends valued his unique contributions. He glanced appreciatively at his friends before he chose the ability, grateful to have them able to back up his gut preferences from the numbers perspective.
+
+[Battle Healer 5/5] Battle Trance gains Retributive Heal.Battle Healer path completed.13 Authority remaining.Bestial Rampage path removed.Two new paths found.
+
+Phew, that was a complicated one. Ok, what’s next? Mato shared the paths as they came up.
+
+Elemental ShapeshifterYour paws have walked the paths of Balance, threading the line between beast and plant, healer and tank. You have learned to incorporate the aggression of your deity and the nurturing of your mentor, forging your own path without being wholly defined by either. Now take up the mantle of your patrons’ affinities, folding them into the essence of your shapeshifting magic and thread the line of elemental balance between all.Traits: Shapeshift, Wisdom, Nature, Void, HolyPath Length: 4Reachable Nodes: +1 wisdom per class level above 100. Cost: 1+35% spell power to all skills while Shapeshifted. Cost: 1Quality: UniquePath – ClassAdaptable ShapeshifterYou converse with beasts and plants. Your deity is a dragon, and your mentor is a tree. You have experienced life in four different forms. Expand your understanding of nature and explore the wilds. Learn to incorporate the forms of every beast and plant you defeat, folding them into the skills of the Adaptable Shapeshifter. Assume the perfect form for every occasion. Traits: Shapeshift, Strength, Vitality, Knowledge, Nature.Path Length: 4Reachable Nodes:Unlock the Adaptable Shapeshifter skill (Consumes all existing Shapeshift skills. Grants Limited Telepathy while Shapeshifted.) Cost: 4Quality: RarePath – Class
+
+Oh boy, these both look amazing!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

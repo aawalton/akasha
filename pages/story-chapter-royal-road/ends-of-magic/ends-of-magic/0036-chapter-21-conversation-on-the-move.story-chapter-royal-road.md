@@ -1,0 +1,209 @@
+---
+id: 8506a57f-405b-59a9-827c-1fdd0a88ee0b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Conversation on the Move"
+slug: 0036-chapter-21-conversation-on-the-move
+partOf: ends-of-magic
+position: 36
+ownLength: 2898
+unit: words
+ownProgress: 2898
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2601860/chapter-21-conversation-on-the-move"
+royalRoadId: "2601860"
+markedReadAt: "2026-06-29T20:08:25.505Z"
+---
+
+Nathan's eyes narrowed as he rolled his wrists around. “Let’s go. We need to kill the last Questor.”
+
+Sarya held up a calming hand. “Brox and Ushia track him, and I go to help. They are not officially part of Badud’s grid, so it does not detract from your deed for us to crush this obstacle.” She fixed Nathan with a stare. “Are you interfering with magical communication? We need to coordinate, and Garna cannot assert control of the government with message spells blocked.”
+
+“Oh, yeah,” Nathan replied awkwardly. “I forgot to turn that off.” He held up a finger and focused inwards, making the necessary adjustments. “There you go, magical communications should be restored now.”
+
+The Questor just looked at him for a moment, then shook her head sharply. “By Edes, I swear that your skills are as mystifying as they are powerful.” She looked around at the Heirs again, eyes lingering on the bloodstains around Stella’s neck. “Do you have any items from Sussu? We need some of her belongings for legitimacy.”
+
+“I’ve got it.” Sarah reached into her bag, and with a weird distortion, Sussu’s dead body popped out, pulverized skull leaking onto the floor of the room.
+
+Sarya moved quickly, leaning over the corpse and stripping off the bracelets. She stared at one intently for a moment, then shifted her gaze to the other before shoving her arm into it. Her hand didn’t come out the other side, and it looked like she was rooting around in the interdimensional space they contained with some kind of thief ability. “Success to blind the mind’s eye.” She nodded, then retracted the arm holding a set of tokens glimmering with faint but complex enchantments. “I will return with transport to take you from the city, or a message spell to Stella if we need you. We are working to complete the conquest of Esebus, and your presence will distort the situation.” She gave them a crooked smile. “Think on your class choices. I’ll be happy to give advice when I return.” Then she left, shutting the door firmly behind her.
+
+Nobody seemed to have the energy to protest her taking away the bracelets. Nathan leaned against the door, feeling the weight of fatigue dragging him down. He learned against the portal, and the Heirs looked up at him dumbly from where they’d crashed. Khachi’s eyes were starting to slide closed again, and Stella’s expression was glassy.
+
+Sarah yawned, though her eyes were sharp as she pulled Sussu’s corpse back into her storage space. “It gladdens my heart that they’re not going to kill us, though I worry about the other Questor.”
+
+Aarl glanced around at the Heirs. “I hope she provides payment for those treasures. Who can keep watch? I think we need a real rest.”
+
+Nathan blinked and shook himself. “I’m good. Feel free to take a nap, though I think Sarya will be back soon and hopefully with good news. Three-on-one should be quick.”
+
+“I won’t be able to sleep,” Stella said, though her words were a bit slurred with exhaustion. She did seem to be on the verge of passing out.
+
+Nathan had a second of extreme paranoia as he checked his mind and body for external influences, but there was nothing out of the ordinary. He consciously cleansed his body of fatigue toxins and released more sugars into his bloodstream. “I think it’s just the adrenaline crash. Take a break. We’ll talk about classes later.”
+
+Khachi was already asleep, and the rest of the Heirs dozed. Nathan noticed that Aarl didn’t go to sleep, but he did stare off into space with an exhausted expression.
+
+It was funny, seeing them all crash like this. Nobody was depleted of their class resources, but they were all pretty out of it. He checked again that it wasn’t some external influence, but he didn’t think it was. Khachi and Stella were both physically and mentally exhausted after the drawn-out combat. Khachi didn’t even sleep anymore, but something about the magic he’d been using and especially the resurrection spell had taken a lot out of him in addition to Faith. Or maybe when he was drained on Faith none of his class skills worked as well.
+
+The other two weren’t as bad. Sarah was just physically worn down enough to fall asleep, and Aarl was mentally not present. With an internal chuckle, Nathan realized it had to do with their resources. Aarl had Stamina from his class, while Sarah had Focus. He’d attributed his own relative endurance to his [Immortal Body]. While control over the level of adrenaline and stress hormones helped, he was starting to realize that his class resources played just as significant a role in his ability to keep operating through extensive periods of stress and combat. So long as he had Stamina, his body would keep going, and Focus would do the same for his mind.
+
+It would be something to pay attention to in the future, that Nathan’s allies couldn’t function for as long as he could. But they would likely try to as long as there was still a threat.
+
+All of that might change with these new classes. If Stella takes Mana Incarnate, she might not have a biological body anymore. Same with Khachi and his Nascent Divinity.
+
+He tried to keep his attention on the world around them, to be sure that nobody could get close without him knowing. But his mind wandered to his own classes a bit more. Death of Legends was still the most obvious choice to him, though he thought there was also a strong argument to be made for Veilpiercer. His antimagic was what made him unique, and he’d had a lot of luck in continually improving it. The problem with Stalker of Horizons was that it was fundamentally a stealth class, and stealth just wasn’t his primary modus operandi and wouldn’t be so long as he was with the Heirs.
+
+But did his antimagic need much improvement? He’d controlled the battlefield today. The Heirs were powerful, but they’d only had a chance to demonstrate their capabilities because Nathan’s aura had effectively neutered their opponents. The enchanted armatures of the Esebus soldiers were powerful enough that the Heirs would have had trouble against a dozen of them, much less the hundreds they’d faced. But with Nathan there, they'd been a nonissue.
+
+Even the Questors had needed to rely on other abilities or been forced to upscale their spells just to power through Nathan’s aura. Badud had avoided the area entirely, opting to focus on long-range attacks that had entirely physical effects to bypass Nathan’s aura. Amoh had needed to fight Aarl without the benefit of spells or magical items, and he’d been denied mobility and much of his offensive shadow-magic as a result. Ogarius had been similarly crippled, his spells only faring as well as they had because his dream-based magic was so unfamiliar to Nathan. Even then, the Questor’s magic had been dampened by Nathan’s aura, and the battle had been effectively over once Nathan got the chance to focus on him.
+
+But Nathan hadn’t carried the entire battle on his own. He lacked the offensive capability to rout the soldiers, much less take the fight to Amoh and Ogarius. The two of them together would have run circles around him, eventually locking him in place. It was only with the Heirs that the fight had been won.
+
+From that perspective, it made more sense to take Veilpiercer. The class would let him do more with the Aether, potentially going so far as mimicking some of the enhancements that Badud had stacked onto his own mana pool. He might have needed to take antiwizard back at his level 729 antimage development for that to work.
+
+Maybe it’ll let me interface with the things beyond wizardry. With the structure of Davrar itself.
+
+It was a big assumption to make, but Nathan resolved to ask Sarya about it later. He reached out to scan the surrounding area again and felt Sarya’s unique collection of enchanted items approaching them once again. She rode one of the golem-powered cargo carriages at full speed, stopping it right in front of the main entrance to the building.
+
+Nathan didn’t wait for her to get them, rousing his friends quickly and getting them all moving in the right direction. Sarya was waiting and greeted them with a nod. “The other Questor is dead. He was a new member of the grid, but not fully brought in, and slow to attend to their summons. The city is ours.” She ushered them into the carriage, and they entered without another word.
+
+Nobody saw them in the brief minute they were exposed, and they loaded into the empty cargo area. It took just a few moments to pull out blankets and pillows and turn the bare metal container into a comfortable place to resume their naps.
+
+The entrance was sealed tightly, and the transport started moving shortly after, with Sarya staying above to navigate them through the streets. Nathan could feel the city starting to come back to life around them through his magical senses. Most people around here wore something enchanted or were mages themselves, and he could track as people and soldiers started venturing into the streets now that some time had passed without open combat. The container blocked sound, but he could imagine the hubbub of the city rising now that the explosions and open combat had stopped. There were more announcements by Garna aimed at reducing unrest and spreading a version of events where Sussu had been replaced by a "continuity council" taking over after their previous ruler had been assassinated.
+
+Sarya drove straight towards one of the primary transitways to get them out of the city. There was some confusion at a checkpoint, but that seemed less to do with Sarya and more to do with the soldiers. They didn’t seem to be certain if they should be locking everything down or not, but when Sarya waved one of the tokens she’d taken from Sussu’s storage around, they snapped to attention. Then they joined a long procession of other essentially identical carriages, and Nathan relaxed. It seemed like Sarya had done her job, and they were well on their way.
+
+A few hours later, they cleared another security check that yielded even more easily than the first. That put them outside of Esebus entirely, though they were on one of the heavily trafficked trade arteries out of the city. The hatch opened and Sarya slipped inside, pulling out a padded chair from a storage space and setting it on a clear spot.
+
+Khachi was the only one of them still asleep, and he awoke with a start at the invasion of cold night air and the clattering of wheels on stone from outside. Then the door shut again, and they were once again in a metal box lit by an enchanted camping lamp Sarah had stuck to the wall earlier.
+
+“It will be a few days to reach the port of Kankus. Eolinne will be waiting for you there, to take you to your next task if you will accept it.” The Questor quirked her mouth up in a small smile. “It would be a long journey, which will give you time to rest from your grand deed.”
+
+“How long are you staying with us?” Aarl asked.
+
+The Questor seemed faintly surprised by the question. “Until you are aboard the Grace of the Mists. Any trace of you would pollute the air here in Esebus, and leaving you on your own would be rude after your accomplishments on our behalf. And the gift you’ve delivered to us.” She waved a hand backwards, towards Esebus. “Garna and Ushia are usurping Esebus, and my presence wouldn't aid that delicate balance. When those two work together, they produce amazing results. But it happens about once an Ending.”
+
+She looked back at Aarl. “If that’s to your desires, of course. I could watch you from afar if you prefer. Oh, and before it passes from my mind, let me return these.” She pulled out the bangles she’d taken from Sussu’s body and passed them back to Sarah. “They are your treasures. We only needed the authentication tokens and bookkeeping of leadership. I can help you extract the further wealth from within.” Then she thought of something else and frowned at Sarah. “Do you keep the bodies of the other Questors with you?”
+
+The sniper shrugged. “We have Talents for dimensional storage, and bags enchanted for valuable monster corpses. I say that Questors qualify.” She tilted her head towards Aarl. “He carries Amoh’s body.”
+
+Sarya’s face lit up with excitement. “Truly? I would like to see it. He changes his face after every Ending, and I have not seen this iteration. Did you get Ogarius or Badud’s bodies? All we know is that they are dead.”
+
+“Ogarius was incinerated, and Sarah shot Badud through the head. His body’s in a market somewhere,” Nathan answered.
+
+Sarya merely hummed at that, then bent down over the spot where Aarl was laying out the four pieces of Amoh’s corpse. She bent down over it, turning the head back and forth before patting the body down. “It seems he stripped most of his magical items before the engagement. We will search the city. May I have this?”
+
+Aarl shrugged and waved his assent, and the body vanished into the Questor’s dimensional bags with a twist of her wrist. Then she pulled out a wand that pulsed with powerful enchantment. She activated it and waved it over the bloody metal, leaving the surface spotless and shining.
+
+Nathan stared at the powerful magical item, aghast at the mismatch between the strength of the magic and the mundanity of the purpose. “Is that just for cleaning?”
+
+She deactivated the item, then spun it through her fingers before it vanished once more. “This? It’s useful for a thief and assassin to be able to clean up any messes they leave behind. Not something you seem to value.” Her voice was sardonic.
+
+Nathan shook his head before he asked exactly why she had such a powerful item whose purpose was to simply clean things. “How far are we towards being able to call a conclave after killing Badud’s grid?”
+
+Sarya regarded him seriously. “Questors will acknowledge you now, as a threat if nothing else. You stripped their vault bare?” Her eyes flicked to Stella’s new staff and the other pieces of gear they held. The unstated question seemed to be "how much did you get."
+
+At his nod, she pursed her lips. “That will garner more attention, some of which will be negative. But you have established yourselves as important pieces, and every major grid will at least hear of this. An old grid like Badud’s is not frequently ousted from its seat of power, because every power capable of doing so is balanced by another. But you are outside the balance, and that will earn you notice as a new player in the game.”
+
+“Then what’s next? How do we become more than just noticed?” Nathan prodded. It sounded like Sarya already had their next mission lined up, and he wanted to be convinced that it was a good one.
+
+“I would offer you a task far from here, a favor for a board member of the Ashen Accord. His name is Henrish, and a blight is hemming in his claim of Helmaris. Clearing a blighted Seal is a commitment for any grid, even a vaunted one like the Ashen Accord. You have killed Questors. Now you show that you can challenge the highest tier of challenge that Davrar offers. If you can do it without significant Questor involvement or expended resources, then that will gather more gossip in your wake.”
+
+“Expended resources?” Aarl asked. “What of the weapons we took from Sussu?” He pulled out a thin rod from his pocket and spun it around his fingers. Nathan felt only a fairly small amount of magic in it, some kind of containment field.
+
+Sarya flinched back from the display, reaching out a hand on instinct to snatch the rod before withdrawing it. “Handle that more carefully! The containment is good, but not perfect.” She shot a look towards Nathan. “Any perturbation in the containment, and there will be annihilation.”
+
+Wait, as in antimatter annihilation?
+
+Nathan made very sure that none of his aura was anywhere near Aarl’s rod. “Maybe you should do as she says.” He suggested, trying not to be too alarmed.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 995
+
+Bottomless Stamina : 91195/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 729
+
+Regenerative Focus: 5583/7390
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

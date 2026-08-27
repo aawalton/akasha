@@ -1,0 +1,233 @@
+---
+id: e28f7b2b-6631-51aa-9589-e3366aabfd1b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 539: Dal’mohra"
+slug: 0579-chapter-539-dal-mohra
+partOf: dungeon-of-knowledge-complete
+position: 579
+ownLength: 3734
+unit: words
+ownProgress: 3734
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3059540/chapter-539-dalmohra"
+royalRoadId: "3059540"
+markedReadAt: "2026-06-29T20:32:03.487Z"
+---
+
+The giant shrine towered above her, casting its runic glow across the grove of majestic oaks. Silent, now that most of the visitors seeking to evolve their classes had departed for other parts of her dungeon. Little had changed down here in her grove. The trees were a little bigger, and there were several new kinds of flowers and herbs nestled among their sprawling roots. Moss grew everywhere, coating the ground with a lush, verdant carpet of green and giving the area an impression of being established, old-forest, gnarled and weathered by the passage of time. The shrine itself was bigger, of course, but the narrow stone path leading up to it was the same one she had walked while holding her father’s hand when she was a child.
+
+So much had changed for Ali. For a while, she simply stood in the clearing, soaking up the ambiance of the grove – the eye of stability in her world that she had spent so much time recreating, preserving.
+
+And yet, as she caught sight of the bedraggled group limping toward the grove, she realized some things would never change. She studied the novices. A Wood Elf in practical leather armor led them slowly across the forest floor. Two exhausted Ahn Khen youths followed – a brother and sister by appearance – and they wore nothing more than heavily mended laborer’s clothing, their bare feet stained with blood and moss. Ali’s eyes widened at the sight of a two-meter-tall, blood-spattered Orc supporting a limping young man from Brast. The foreigner’s tan tunic was torn, and his scimitar obviously notched, but he still retained a firm grip on the weapon. Bringing up the rear of their rag-tag group was a female Troll who was nearly as tall as the Orc.
+
+Ali waited. They were not in any immediate danger. She’d made certain of that, but she didn’t want to take this moment away from them. The first sense of achievement, and the approach to the shrine, where they would make one of the most momentous decisions of their lives. No matter how high she rose, she would never tire of this moment.
+
+“Were we this weak when we started?” Malika said, her voice pitched low.
+
+“Worse,” Ali said, sharing a smile with her friend.
+
+The guild meeting had probably started, but they would have to wait. This was important. Her days had been filled with much that distracted her from her roots. Death Knights were attacking constantly, night and day, and they had required much of her attention to be driven back into the forest. The Wood Mages required her assistance with the rebuilding of Ciradyl. Adjustments were required for defenses, and the preparations for Calen’s scouting trip. All of it took time, frustrating amounts of time, and she had no way to tell how long Lira had left.
+
+At least, with several days of not mindlessly throwing herself at the Well of Corruption and freed now from the constant pressure of dungeon rage, she had found some time to rest. Gone was the bone-deep exhaustion and boiling frustration.
+
+As the exhausted and battered novices approached, Malika pulsed her healing, erasing their injuries.
+
+“Congratulations,” Ali said. “You have all done well.”
+
+At her words – or, more likely, under the influence of Malika’s healing – they all straightened up, and Ali saw that look of wonder and tentative triumph kindle in their eyes.
+
+“Come, let me show you how to use the shrine,” she said, reaching up and laying a palm upon the cool stone surface.
+
+Shrine of the Ancient GroveAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: Aliandra AmarielMana Siphon (Active).Mana: Unlock class experience.Mana: Assign latent or domain mana affinities. Mana: Unlock alternate classes.Mana: Class evolution.Mana: Revert a class or evolution.Experience: Create a dungeon denizen, attaching a willing external entity to the domain. Owner’s Mana: Recharge the shrine’s mana reserve. 71,250,000/98,388,000Shrine – Artifact
+
+While she knew her shrine grew relative to the size and density of her domain, she hadn’t been quite prepared for just how much its mana capacity had shot up the moment she attached the Well of Souls to her domain. With nearly a hundred million mana stored, processing every evolution request instantly had become trivial. Already, the shrine was rapidly refilling, recovering the expenditure from earlier – a single group of novices wouldn’t even dent it.
+
+She answered their questions, and soon enough, they were all examining their options, and Ali summoned Azryet’s parting gift to her palm in the meantime.
+
+Malika raised her eyebrow at the sight of four dark rings nestled there, emitting an aura of darkness that clung to her hand like an ominous cloud, and asked, “For Seth?”
+
+Ali nodded and closed her hand, pulsing her mana through the priceless legendary rings. Motes of mana escaped from between her fingers.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Ali quickly added a third chapter to her ring imprint and received the notification she had been hoping for.
+
+Variant: Eye of the Lich added to Imprint: Ring.
+
+She didn’t hesitate, immediately pouring mana into her Grimoire until a new dark silver band appeared on the palm of her hand. She had customized it down a few levels so that Seth could use it immediately on his upcoming dungeon mission.
+
+“He’s going to love this, Ali.”
+
+“I think so too.” In truth, the ring was really a necromancer’s summoner ring, optimized perfectly for undead. The massive boost to death magic, the free undead summoning, and even the gigantic storage enchantment – everything was ideally designed for creating the perfect army of undead. Better yet, Seth lacked the percentage decreases she had for her Tiny aptitude, which meant he only had to worry about combat debuffs when considering Summon Supremacy.
+
+“You all ready?” Malika asked as the applicants stepped away from the shrine one by one. She received nods from smiling or awestruck faces.
+
+“Come, let’s go to the guild hall,” Ali said, pulling out her Hearthstone and gathering the guild’s newest set of novice adventurers to her side.
+
+***
+
+Most of the guild was already present when they arrived, and the restless energy that filled the guild hall was a stark contrast from several days before. Vivian Ross’s grumpiness at being made to keep the whole guild waiting vanished the instant Ali trotted out the newest set of novices and directed them to Mieriel to collect their shiny new guild rings. It probably didn’t hurt that two of them had chosen obvious healer-oriented classes.
+
+Malika settled in, but Ali’s gaze drifted across the packed hall. Even the lower-level classes that were not going to be directly affected by Vivian’s announcements exuded a sense of anticipation.
+
+I guess they will be the ones responsible for defending Myrin’s Keep while the teams are away on their raids. Vivian’s announcements were to be something of a formality: everyone already knew the top four raid groups would be tackling Meere Kada and Telim Gor now that Ciradyl had been secured. Vivian, Lyeneru, and the rest of the strategy team had made no secret that they believed attacking the source of the Blind Lich’s undead was the most important next step in their efforts to slow the tide of Nevyn Eld’s armies. It wasn’t as if Ali could miss the regular bursts of scrying magic as they attempted to coordinate with the other forces arrayed around the continent.
+
+Besides the highest-level raid groups, the next wave of adventurers had blasted past platinum rank, growing fast by cutting their teeth on the endless waves of undead that poured out from the forest. It helped immensely that they could take risks and fall back on the protection of Ali’s bosses any time things went badly.
+
+“Ok, let’s get started,” Vivian announced, rising and addressing the adventurers crowded into the hall.
+
+Ali allocated a portion of her attention to Vivian while her eyes scoured the crowd, one of the perks of having more than six thousand intelligence. When she caught sight of him, she literally flew over the crowd to plop herself down beside Seth in his corner.
+
+“Hi, Ali,” he said, keeping his voice low enough not to interrupt the Guildmaster and glancing at her as she settled herself in.
+
+“Hey, Seth, I have a little something for you.” As casually as possible, Ali retrieved the ring she had just made and offered it to him, her efforts at nonchalance thoroughly undermined by the dramatic way the ring ate up all the nearby light, imposing stark twilight around them. “Congratulations on reaching two hundred!”
+
+Seth’s eyes widened in recognition. “Ali! I can’t take your legendary ring!” he exclaimed, struggling to keep his voice at a whisper, but it was a lost cause – the two of them were already attracting glances from everyone nearby.
+
+With a flick of her mana, Ali used Calen’s reequip trick and swapped the ring on her finger with her own Eye of the Lich stashed in her storage enchantment. She held it up for him to see. “Dungeon trickery,” she said, as if that explained everything.
+
+“Oh… Oh!” he spluttered, finally reaching out and gingerly accepting her offered gift. “Holy shit, that’s a lot of storage,” he said as he put it on.
+
+“Seth, I’m not sure a necromancer really gets to swear by holiness,” she chided, affecting a tone of pompous seriousness borrowed from her memories of Val’korr’s lectures in Dal’mohra. “Perhaps ‘Beldin’s Bones’, or ‘Darkness Incarnate’ might work better?”
+
+Seth’s eyes met hers in a moment of surprise, and then he chuckled, finally slipping the ring on his finger. “I suppose you’ll want me to affect an aura of doom now, too?”
+
+“What? I’m your mentor. I’m supposed to educate you on the proper way to be a necromancer. I take my responsibilities seriously,” Ali said.
+
+“Thank you, Ali.”
+
+“No problem. And no smiling!” His grin widened. “Which one are you clearing?”
+
+“Meere Kada,” he said, his expression turning serious once more. “Vivian is splitting the guild. We’re using Aman Rak as a staging area to try to take out both dungeons simultaneously before the Blind Lich recovers. I can’t believe Azryet ate him.”
+
+“His avatar, yes,” Ali reminded him. “And Azryet said he’s stronger than he expected, so please be careful. Take care of our friends.”
+
+“I will.”
+
+“If you find any interesting monsters or plants, please collect them for me. And try to capture the dungeon shrine intact if possible. Make sure you get it stored immediately – we’ve been burned by that too many times.”
+
+“Yes, of course,” Seth said, but by his teasing expression, Ali realized she was babbling obvious stuff now.
+
+Ali returned her attention to the front of the room as Vivian and Lyeneru listed the group members for each raid, mentally analyzing each for weaknesses. She didn’t have Calen as he had left already. Technically, she could ask him any important questions through her shadow dragons, but for this level of strategy analysis, she was far more than experienced enough. By the time they had finished listing the groups, she had summoned two Priests of Azryet, a witch doctor, and a Blood Shaman, splitting them out and assigning two to each of the groups. It would be easy enough for her to help out remotely with a little extra healing and support magic.
+
+She sat back to wait for the next announcement, but something prickled against her domain, and her attention instantly crossed half the continent to the perimeter around Ciradyl projected by the Well of Souls. A surprising number of displaced Trolls had been crossing into her domain, drawn by Val’korr’s efforts to resettle Aman Rak. It was a diverse and growing group, formed from the refugees of all three destroyed kingdoms. Lured in, perhaps by the realm notifications from the restoration of the Well, she’d experienced an even larger influx of Elven refugees entering Ciradyl.
+
+This seemed different.
+
+A stout, bearded figure crossed the border into her domain, holding a crude sword at the ready. He was dirty, tired, and his armor was scratched and torn, and he glanced about suspiciously before gesturing to his comrades.
+
+Realization dawned. Dwarves? Now that I didn’t expect…
+
+Another Dwarf crossed the boundary, followed by a third. Then, several more entered the surroundings of the replanted Ciradyl forest. As Ali watched, an entire procession followed: children, families, and the elderly. Blacksmiths, miners, cooks, gemcutters, and stonemasons – crafters and artisans of all kinds. Almost no combat classes. Many of them were sporting bandages or shuffling forward on makeshift crutches, and several of the worst-wounded had clearly been dragged a long way in makeshift litters. One and all, they looked as if they had been rolled repeatedly through an avalanche, but in the way of Dwarves, somehow remained unbowed, doughty to the very end.
+
+Her heart squeezed within her. She knew exactly what to do.
+
+Ali immediately told her roaming Soul Archons to stand down and sent one to check for any pursuing undead. How did they survive the Death Knights?
+
+“Does anyone have any questions?” Vivian asked, suddenly splitting her attention.
+
+“I have some Dwarves entering the domain from the south of Ciradyl,” Ali announced, rising a few feet so Vivian could see her over the crowd. “They look like they need healing.”
+
+“How many?” Vivian asked.
+
+“Almost a thousand so far, and they are still coming.”
+
+“Thorel Moldur?” Vivian asked.
+
+“That seems the most likely,” Lyeneru answered, nodding eagerly. “Weldin, can you help us with a portal?”
+
+“Certainly,” the elegant gnome said, and he and the Night Elf vanished in a crackle of lightning.
+
+I could have done that, Ali thought, but then decided she didn’t mind others taking care of things. A few moments later, a shimmering portal appeared in the center of the guild hall, and Dwarves began streaming through. In moments, organized chaos erupted as the guild healers began setting up critical triage or diverting people to the Temple of Azryet next door.
+
+“Ali? Do you have a moment?”
+
+Ali glanced up to find Aiden standing beside her. “Yes?”
+
+“We don’t have much space for them. I was wondering if you wouldn’t mind?” Aiden asked.
+
+“The ruins?”
+
+“Yes,” he nodded. “They might prefer that to the trees.”
+
+“I’ll get right on it. Can you send Murgrid and Belra down to help me?” Ali asked.
+
+After Aiden nodded, she said goodbye to Seth and teleported directly to the plaza on the upper level of Dal’mohra. She had housed the Wood Elves here for a while, a necessary discomfort for them, but perhaps it might suit the dwarves better, as Aiden had suggested. Regardless, the place was still an unfinished mess after the Blooming Rot incursion, and she had a lot of work to do before anyone settled in – and some of those Dwarves had looked like they were at the end of their rope.
+
+She pushed her sleeves up to her elbows and summoned the mana of her domain.
+
+A billowing wave rolled out through her mana, and with it, she erased everything that was not locked down or solid stone. She watched carefully, directing her mana, and then removed a substantial amount of what remained, leaving the ruins stripped bare, with just the outline of houses, the skeleton of the stone paved boulevards and streets, and the barest backbone of trees she needed to support her domain with the help of all the plants she’d placed in the Spirit Realm.
+
+After taking a deep breath and rolling her shoulders a few times to ease a crick in her neck, she summoned several giant Treants, setting them the task of repopulating the main spoke boulevards with glowing Radiant Larch trees. She had enough experience working with Murgrid and Belra rebuilding Myrin’s Keep by now to know exactly what they would need. Beside every block of houses, she summoned neat piles of stone, leaving the shells of the houses in place with the raw materials for the stone crafters to wield their mastery. Where it was easy, she patched up the structure of broken walls, but fashioning details like bathtubs and windowsills on this scale was a task best left to the specialists.
+
+When she finally reached the yawning hole blasted through the foundation rock of the residential district by Nevyn Eld’s invading armies so long ago, she paused.
+
+You’ve been broken long enough, she decided, resolving to undo at least part of the Blind Lich’s damage. She summoned her magic once again, and stone began to sprout, growing out from the shattered edges. Ali shaped it steadily, making the flowing stone harden as it seamlessly repaired the missing bedrock of the city level. When she was done, she repaired the runic defensive circles, growing them as inlaid etchings around the shattered edges, until they finally looped around and closed.
+
+With just a few adjustments, she diverted the power conduits from the missing mana condensers on the level below, instead attaching them directly to her domain, and, more than three thousand years too late, the defensive dome shields suddenly sprang into place. She disabled them with a thought.
+
+When Ali flew back, she found Dwarves slowly filing out of the Grand Library Arcana and onto the plaza, grumbling and complaining about the dark, the long journey, being hungry, and more or less everything that exhausted, tired, and hunted people typically felt.
+
+When Dal’mohra had been at the height of its glory, the residential district had been bathed in the beautiful radiance of an artificial sun. One that tracked the cycles of day and night on the outside. It had been something she had loved waking up to and watching how the city transformed at night when the ‘sun’ slowly faded.
+
+The artifact that had powered that was now a shattered remnant down a level below – a mana condenser that had been leaking liquid light mana down into the jungle below for so long that it now spawned all kinds of elemental monsters. Still, Ali did not have an enormous domain for nothing. Just as she had repaired the defensive barrier enchantments a few moments ago, she zipped across the plaza and poured her mana into the ancient runic array, adjusting the couplings and restoring sundered runes. As soon as she finished, she linked it to her domain, and the formation suddenly thrummed with raw power.
+
+High overhead, light-affinity mana projected by the array began to gather. It swelled as the conduits fed the flood of domain mana through the array. Larger and larger it grew, while below her, the Dwarves grumbled as more and more of their number gathered, guided there by the guild leaders.
+
+And slowly, after millennia of night, dawn broke once again over the ancient city of Dal’mohra.
+
+As the light began to shine, the Dwarves fell silent.
+
+The awed hush shattered as Murgrid and Belra strode through the crowd to the front and turned to face them.
+
+Murgrid announced, “Alright you lot! Stone crafters, masons, and earth mages with us, we have a city ta rebuild. If ya want some nice solid stone houses to sleep in tonight, we have work ta do!”
+
+“Those of you who aren’t about to pass out on your feet,” Ali added.
+
+“Aye, that,” Belra added.
+
+And with that, she wheeled on her heels and strode off toward the first pile of stone Ali had left, magic gathering in her stocky arms and hands.
+
+Looks were exchanged. Looks of surprise, with many unanswered and unspoken questions, but then dozens of Dwarves rushed after her eagerly.
+
+With her part of the work mostly done, Ali flew down, admiring the ancient magic that powered the artificial sun. Compared to the disaster that had befallen her home, the sun seemed like an insignificant detail. And yet, somehow, just seeing it again, the soft light illuminating the houses and familiar streets, making the crystals embedded in the rock overhead glitter like stars in the daylight, it instantly filled her with that indefinable feeling. I’m home.
+
+“Who are ya?” someone grouchy asked.
+
+“Excuse me?” Ali asked, turning to find a Dwarven woman with a shock of fiery red hair glaring at her.
+
+“Who are ya that ya offer us the fabled city of Dal’mohra for a home?”
+
+“This has always been my home,” Ali answered, keeping a lid on her feelings. “You and yours seem to need a place to stay, and Dal’mohra has been empty for far too long.”
+
+The Dwarf woman paused, as if reconsidering her response, and finally said, “Vilda Steelbellows. Thank ya for yer generosity and hospitality.”
+
+Ali identified her.
+
+Blacksmith – Dwarf – level 122 (Fire)
+
+“Aliandra Amariel,” she answered, smiling at the soot-stained dwarven blacksmith. She looked like she’d been crawling around in the dirt somewhere for a few weeks.
+
+“I don’t suppose ya happen ta have a wee little forge in here somewhere?” Vilda asked, eyes searching the ruins hopefully.
+
+“Yes. The Anvil of Thovir Emberforge is down past the mine,” Ali said. The Dwarf wheezed in evident shock. “I can have Thuli Emberforge stop by tomorrow and show you if you like.”
+
+“Aye, I would like that… very much,” Vilda whispered, her voice filled with sudden awe, and yet carrying well in the dead silence Ali’s words had provoked.
+
+“There’s a mine? Did ya hear that Haldin?”
+
+“Thovir Emberforge?”
+
+“The legendary anvil?”
+
+“Be there good, strong iron in those mines, lassie?”
+
+“There is iron,” Ali said, and then she grinned at the curious dwarf who’d asked. “There’s also bloodsteel ore, mithril, magicite, abyssal bloodstone, and a whole lot of other things.”
+
+“Ooh, lassie! Yer my new favorite person!” That fervent declaration earned him a clout on the ear from a woman who looked to be his wife and a raucous round of infectious laughter from everyone nearby.
+
+If they can still laugh after all they’ve been through, I think they might be ok, Ali thought. But she wasn’t certain of it until a whole army of townsfolk traipsed through the doors bearing barrels of beer and crates of food. Street vendors set up their carts, and soon the entire plaza was filled with the mouthwatering scents and aromas of cooking and the happy chatter of the Dwarves mingling with their hosts.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

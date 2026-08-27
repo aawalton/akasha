@@ -1,0 +1,241 @@
+---
+id: d96dc44a-aa28-5e81-8f8c-8a8baf9a0231
+page-type-slug: story-chapter-royal-road
+title: "Chapter 293: A Discovery of Significance"
+slug: 0328-chapter-293-a-discovery-of-significance
+partOf: dungeon-of-knowledge-complete
+position: 328
+ownLength: 2516
+unit: words
+ownProgress: 2516
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2389555/chapter-293-a-discovery-of-significance"
+royalRoadId: "2389555"
+markedReadAt: "2026-06-29T20:22:27.012Z"
+---
+
+The entire way back to the library, Ali wrestled with her discovery. He remembered… but, what does that mean?
+
+By the time she entered the library and sat down, she was no closer to any sort of understanding. She had summoned the same witch doctor after unsummoning him – that much was true, but she didn’t even know how it had been done. Oh, superficially she knew – she had been thinking about him explicitly when she summoned a witch doctor, and she had intuitively wielded her customization to resummon the same one. But that hardly answered how it was even possible – it went against everything she knew about her Grimoire of Summoning.
+
+Minion Ego. It had to be – she had been observing far more engagement from her minions ever since she had evolved her class, and it had to be some inner working of her Minion Ego advancement. Does memory mean they have egos? She gnawed at her lip. Souls, even?
+
+Just the very idea filled her heart with a tangled knot of ethical dilemmas.
+
+“Hi, Ali.”
+
+Ali glanced up to find Seth approaching.
+
+“Is this a good time?” he asked. “I found you a few more spiders. They’re low-level, unfortunately, but they have stealth.”
+
+“Sure,” Ali said, smiling at him and inviting him over, but as she deconstructed his gifts, her thoughts returned to her dilemma. “Hey, Seth?”
+
+“Hmm?”
+
+“Do you think minions can have souls?” she asked. Lira had told her they didn’t, but her experience earlier had rattled her more than she cared to admit.
+
+“Not mine,” he said, chuckling. “How come?”
+
+“I unsummoned a witch doctor earlier,” she said, pointing at her minion. “When I resummoned him, I got the same one. Exactly the same. Including his memories from before.”
+
+“Wow, that’s cool!”
+
+“Is it? I’m worried he has an ego,” Ali said. “A self, which surely implies a soul, doesn’t it? Is that even possible? When I evolved, I chose an advancement that allows them to level up from combat – and it was even called ‘Minion Ego.’”
+
+“What’s the problem?” Seth asked, sitting down at the table beside her. “That sounds incredible.”
+
+“Well, should I be putting them in the way of fireballs now?” Ali asked. Was she committing some heinous act against their souls?
+
+“I think you’re fine,” Seth said, his expression turning serious.
+
+“Discussing summoning ethics with a necromancer?” Malika asked, sitting down at the table too, followed by Mato and then Calen. “Perhaps you should write a book.”
+
+Ali and Seth snapped their heads about to stare at her, but she kept her façade for only a few seconds before cracking a grin.
+
+“Hey, this is serious,” Ali complained. “I’m worried.”
+
+“You’re a researcher,” Calen said, nodding an apology as he cut Malika off. “You should test it before you make any firm conclusions.”
+
+“I… well… I guess I should have thought of that first,” Ali said, chagrin fueling the fires in her cheeks.
+
+“Hey, worry makes us miss important stuff sometimes,” Malika said. “That’s why you keep us around.”
+
+“Yup, Malika will set you straight,” Mato said, his hand shaking the table as he slapped it.
+
+“What about you?” Malika demanded.
+
+“Oh, I’ll just feed the Fae. Big thoughts generate big appetite, you know.”
+
+Ali glanced askance at the hulking Beastkin, alarmed to find herself on the brink of screaming at him – after an awkward pause, she settled for, “Mato, really?”
+
+“If I may,” Seth said, interrupting the banter. “I know that a necromancer doesn’t exactly pass for the trustiest of guides, but I had the same worries about summoning specters. After testing it extensively, I concluded that I was just animating fragments of what was left. Memories, emotions, the remnants of soul energy, and such. It’s not the real person anymore.”
+
+“How could you know that?” Malika asked, eyes instantly narrowing in suspicion.
+
+Ali glanced at him, not entirely convinced. After all, she had seen what the Blind Lich had done to Tol’brekk.
+
+“I’ve raised a few human specters,” Seth said quietly, shifting in his seat. “Ethically sourced, of course.”
+
+“What even is an ‘ethically sourced’ human corpse?” Malika asked.
+
+“Aah… It’s not advertised officially, but word that the guild has a necromancer has leaked. Vivian and Mieriel sometimes get private job requests,” Seth said. “Families that want a chance to say goodbye or apologize to a loved one who died too suddenly. Or sometimes as a way of clarifying a last will or cause of death.”
+
+“That’s… morbid,” Mato said, wrinkling his nose.
+
+“Yes, it is,” Seth said. “But for some people, the closure is worth it.”
+
+“How is that related?” Ali asked, choosing not to unpack what he had just revealed right now.
+
+“Well, specters retain their memories from before they died,” he said. “Just like your minion. I think you should test it as well. Use the highest-level minions you can – they have better attributes and experience and that can get better results.”
+
+“Ok,” Ali said, racking her brain to think of an appropriate minion.
+
+“Get a Troll from Aman Rak,” Calen suggested. “They’re smart and high-level.”
+
+“Get that Kir’mogan fellow,” Mato suggested. “He was exciting!”
+
+“I… I don’t know if I can do that,” Ali said. Summoning her witch doctor had been easy, but she had deconstructed those trolls before she had evolved her class. She sighed. Either way, sitting around wouldn’t get the question answered.
+
+Closing her eyes, she focused on Kir’mogan – the arrogant Troll warrior with the enormous greataxe and the nasty Mortal Wounds debuff. She manifested her Grimoire, connected her focus to her customization, and let her mana flow.
+
+Kir’mogan [The Brutal Blade] – Troll – level 81 (Bone)Your reserved mana has increased by +321
+
+“Holy shit, Ali, you just summoned a unique monster!” Calen said, eyes boggling at the sight of Kir’mogan in the flesh.
+
+“What is your command, little Seeker?” Kir’mogan growled.
+
+“Don’t call me little,” Ali snapped at him, her patience already thin enough to see through.
+
+“But you are,” Kir’mogan replied.
+
+“Be that as it may, you will not refer to me as little,” Ali said. The nerve!
+
+“Yep, bad idea, dude,” Mato chipped in. “Don’t call the little one, ‘little’. She doesn’t like it.”
+
+Ali glared at him, but before she could give him a piece of her mind, her troll champion spoke.
+
+“Very well, Seeker,” he said. “What do you require me to kill?”
+
+“Well, that’s something you don’t see every day,” Malika said. “Minions giving their summoners lip.”
+
+“Some of my specter summons did things like that,” Seth said, nodding knowingly.
+
+“Do you have a soul?” Ali asked, getting to the heart of her dilemma.
+
+“I do not know,” the brawny Troll said.
+
+“But you’re Kir’mogan, are you not?” she asked. “Troll champion of Aman Rak?” Her skill had managed to resummon him exactly as she recalled, complete with his name, title, and even the runic tattoos on his skin.
+
+“I was,” he said. “But I died to you lot.”
+
+“You remember that?” Ali asked.
+
+“Yes.”
+
+“And you’re not angry?”
+
+“Kir’mogan might have been, had he lived. I am proud of dying in glorious battle,” the Troll champion said. “You gave me a good fight.”
+
+“You refer to yourself in the third person?” Ali asked, latching onto the unusual manner of speech.
+
+“I know I am Kir’mogan, and I know I would have been angry before death. But I am not upset, I seek to serve,” he said, puzzlement creasing his brow for a second. “It is strange, but it doesn’t bother me. Perhaps you can give me that Beastkin for a rematch – that would make me satisfied.”
+
+“Bring it on, bone-boy,” Mato taunted.
+
+“Not now,” Ali said, making Kir’mogan stand down. “How do I figure out what you are, then? If you have a soul?”
+
+“By the fact that you killed me, and we are no longer in Aman Rak, can I assume you defeated the others?” Kir’mogan asked.
+
+“Yes,” Ali said. “What of it?”
+
+“Ask Kir’vella,” he suggested. “She has a deep connection with the spirit realm. She will know.”
+
+“Easy enough,” Ali said, and wielded her Grimoire a second time.
+
+Kir’vella [Empress of Bats] – Troll – level 87 (Soul)Your reserved mana has increased by +414
+
+Time to get some answers.
+
+The troll champion witch doctor manifested in the middle of the library in all her glory. She carried the strange grim fetish she had in life and sported the same intricate tattoos, but she appeared without her garishly painted face mask and her signature sacrificial bone knife because Ali’s Grimoire did not have those imprints. Instead, an Eimuuran steel dagger hung at her waist and the Grimoire had seen fit to clothe her in some leather items.
+
+“Fancy meeting you again, little one,” Kir’vella said, cackling hoarsely. Ali tensed so hard she felt a twinge in her neck. Freaking bat lady! Relax.
+
+“The Seeker has commanded us not to call her little,” Kir’mogan snapped.
+
+“Very well,” Kir’vella said. “How may I serve? How about making some more of those potions of insanity? Fun, weren’t they?”
+
+“I need to know, are you really Kir’vella?” Ali said, ignoring the eccentric mannerisms.
+
+“I have Kir’vella’s mind, her emotions, her memories. I have her class and titles. I even know what she would have said or thought because I have those thoughts,” she said, and then she trailed off into another cackling fit.
+
+“What of your soul? Your ego?” Ali pressed, not too happy with the insincerity she seemed to show.
+
+“Kir’vella’s soul?” the champion witch doctor queried. “It has passed on through the spirit realm to the other side. It is gone. Gone. Gone!” She began chanting the last word like a children’s rhyme.
+
+“What do you have, then?” Ali probed.
+
+“My soul? My ego?” Kir’vella said, grinning widely. She pressed her hand to her chest. “You can see it, can you not? I have a soul of green and gold now. It is yours. Your soul moves me.”
+
+“I see,” Ali said, relieved but still uncertain. The green and gold she saw in the troll’s chest was the manifestation of the mana she reserved to keep her summons alive – how could that be a soul? “I think I need a second opinion. She’s a bit…”
+
+“Cracked?” Mato asked.
+
+“Yup,” Ali said, deciding to forgive the big Beastkin for his ‘little’ comment earlier. Maybe. That, or she’d figure out a way to frog him. Ha!
+
+“Maybe ask Val’korr when he gets back?” Calen suggested.
+
+“That’s a good idea. Speaking of which,” Ali said, turning to face the two summoned troll champions. “There’s something I need to know. What caused you to accept being bound to the dungeon?”
+
+“Power,” Kir’mogan answered immediately.
+
+“That snake, Joraa, deceived us all with signs of the prophecy and then sold us to the Blind Lich,” Kir’vella spat. “I should have seen the signs and portents.”
+
+“What did he…” Ali began, but then she realized she could do far better than second-hand information. She glanced over and met Seth’s eyes, suddenly understanding the need for the services he occasionally provided. “Calen, please go find Val’korr. He’s going to want to hear this.”
+
+“Right,” Calen said, flaring his wings and shooting off in the direction of Lira’s Forest above.
+
+A few minutes later, he returned with Val’korr and Lira in tow. “This had better be good,” the irascible Troll complained, cracking his walking stick against the flagstones with altogether too much force.
+
+Ali didn’t bother even answering His Grumpiness, the Seeker of the First Age, she simply fed mana into her Grimoire.
+
+Joraa [The Betrayer] – Troll – level 98 (Blood).Your reserved mana has increased by +651
+
+“You!” Val’korr shouted, raising his staff and summoning a staggering amount of mana from within him.
+
+“Aah, Val’korr, old friend,” Joraa said, oozing with a smarmy grin. “So nice to see you again.”
+
+“You slimy toad! How are you… wait!” Val’korr said, squinting at him and then glancing at Ali. “This is yours?”
+
+“Yes,” Ali said. “How did you know?”
+
+“I can see you here,” he said, rapping the end of his staff on Joraa’s chest. “Right where his pathetic, shriveled soul used to be.”
+
+“Aah, I should have asked you first,” Ali said. It wasn’t that surprising that a soul-affinity Seeker of the First Age would be able to see whatever counted as a soul, just like the cracked Kir’vella – except, the aged and irritable seeker had at least one evolution and a vast amount of experience on the lunatic Empress of Bats. Still, the exercise of summoning the champions had not been for naught. “Joraa, we have a few questions for you regarding the betrayal of Aman Rak.”
+
+“Of course,” he said. “What did you want to know?”
+
+“Why did you do it?” Val’korr demanded, jabbing him in the sternum with an angry finger.
+
+“The Blind Lich has released Haverron from his shackles and The Devastator is gathering an army of Death Knights the likes of which the world has never seen. The Dracolich Kryostria has been seen in the northern lands past the Spine of the World, freezing cities with a mere breath. He moves, Val’korr. The Blind Lich passes in restless majesty across the lands, seeking new power for his inscrutable purpose, and none may stand in his way,” Joraa said, sounding as if he were reciting words he had learned from another.
+
+“That is no reason to betray us to him and enslave us to the dungeon,” Val’korr said.
+
+“Or turn Tol’brekk into a Death Knight,” Ali added.
+
+“Aah, but it is all the reason in the world,” Joraa said. “He will claim this realm as his own and cover it in darkness. The only way to survive is to join him. You see, I was looking out for Aman Rak all along.”
+
+Val’korr’s blue skin turned purple as struggled to get out even a single word against the pillar of rage Joraa had lit within him.
+
+“Won’t the other Troll kingdoms catch on and take action?” Ali asked. “They joined with the forces of the living against the Blind Lich once before.”
+
+“It is too late,” Joraa said, sending icy fingers of dread running down Ali’s spine. “You see, I coordinated this with the chapter in Southport. Indacus Argyle of the Shadow Council. They know everything. The other Troll kingdoms should have already fallen by now.”
+
+“This is dire,” Val’korr said. “I must travel to Ciradyl at once. The world teeters on the brink of war, we must activate the ancient defensive pact. Nathaniel Sunstrider met with Tol’zerath recently – we must warn him. We must save them at all costs.”
+
+“I’m sorry, Korr,” Lira said, placing a comforting hand on his forearm. “Go swiftly, and may the spirits guide your path.”
+
+“Thank you, Lirasia,” he said, offering her a small smile. Then he turned to Ali and said, “You have done a greater service for Troll-kind today than you know. Thank you.” And then he shimmered and vanished into the Spirit Realm.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

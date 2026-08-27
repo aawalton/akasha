@@ -1,0 +1,205 @@
+---
+id: 3f535331-b8b7-5b27-b240-372b8d684250
+page-type-slug: story-chapter-royal-road
+title: "Chapter 271: Dungeon of Knowledge"
+slug: 0304-chapter-271-dungeon-of-knowledge
+partOf: dungeon-of-knowledge-complete
+position: 304
+ownLength: 2981
+unit: words
+ownProgress: 2981
+publishedAt: 2025-06-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2337642/chapter-271-dungeon-of-knowledge"
+royalRoadId: "2337642"
+markedReadAt: "2026-06-29T20:21:35.050Z"
+---
+
+“What do you guys think?” Ali asked, having a hard time keeping the excitement out of her voice.
+
+“You wanted something for your minions,” Malika said.
+
+“Yes, but does the ego part mean she will lose control of them?” Calen asked.
+
+“I don’t know,” Ali said. Honestly, that angle hadn’t even occurred to her – in the description, it even said it enhanced their agency. “What do you think?” she asked, turning to Lira.
+
+“My minions, if you can call them such, have their own minds,” Lira said. “But, in matters like this, I think you have to go with your heart. Does it feel right to you?”
+
+“I think so,” Ali answered, examining how she felt. She glanced at Val’korr, but he just inclined his head. Is it just because I lost the Summoner path? Or do I want this? The path did hit a lot of her primary traits, and apart from the strange language around ego and agency, she would have had no trouble picking it. Smarter minions can’t be such a bad thing, the thought finally pushing her decision over the threshold.
+
+“Which options are you going to take?” Mato asked.
+
+“I think I’m going to generalize again,” Ali said, studying the choices. “If it lets me.” That was always the rub – it seemed hard to predict what the paths would do as she followed them. One thing was certain, she had minions for every situation, so all of the abilities would be important. Consulting with Calen, she quickly drew up a priority order and began investing her points, picking the possibly higher-value nodes first, checking after each point to see if anything updated.
+
+[Minion Ego 1/5] +15% to Minion attack damage.[Minion Ego 2/5] +15% to Minion spell damage.
+
+I might have to adjust my lower-level minions in the sewer, she realized. Boosting everything with new power might be counterproductive for the guild’s training delves.
+
+[Minion Ego 3/5] +15% to Minion regeneration.[Minion Ego 4/5] +15% to Minion movement speed.
+
+Last point, she thought, checking the available nodes. This was a keystone after all, and nothing had changed so far, but when she looked, everything had changed.
+
+Reachable Nodes:+35% to Minion attack damage. Cost: 1+35% to Minion spell damage. Cost: 1+35% to Minion regeneration. Cost: 1+35% to Minion movement speed. Cost: 1Martial Insight gains Minion Ego (Your minions gain experience from combat.) Cost: 3
+
+“Thirty-five percent!” she said – with one more step in the path, she could boost one of the options to fifty percent total. But her eyes were suddenly caught by the Keystone addition.
+
+“Ali! Wait!” Calen exclaimed, jumping to his feet.
+
+“I see it,” she said, and he let out a huge sigh of relief. There was nothing more to be said, Ali took the keystone ability: Minion Ego.
+
+[Minion Ego 5/5] Martial Insight gains Minion Ego.Minion Ego path completed.14 Authority remaining.
+
+“My minions can level up…” Ali murmured, still stunned.
+
+“Ali, that’s incredible,” Calen exclaimed.
+
+“That’s very strong,” Mato agreed. “I think that’s what Naia has, right?”
+
+“Yes,” Ali answered. She had to admit to having been a little jealous of Naia’s ability to level up her slimes – ok, maybe a lot – but she thought it was a counterbalance to the restriction of only being able to make ooze monsters. But it looked like taking Naia on as a protégé and helping her and Seth improve their minions had weighed heavily in creating this amazing path for her. “This changes a lot,” she said. “I’m a little sad I got rid of those Storm Shamans now.”
+
+“You have Trolls you can level up,” Malika said.
+
+“Goblins? Pfft,” Val’korr spat. “Stick with Trolls. Besides, your new title should work with your minions.”
+
+“I want to level up my Kobold Acolytes, too,” Ali said. In truth, she wanted to level up her rogues, all her Trolls, her Abyssal Stalkers, and her drakes – all her dragons in fact, especially the Glitter Dragonets. She stopped going through the list, realizing that she loved so many of her monsters that she was probably going to be leveling them all for ages. And the Forest Guardians… how powerful could those become? Could they even evolve?
+
+Two new paths found.Realm WalkerYou have earned the title of Rift Warden. You have left footprints on two realms beyond your own and studied advanced teleportation magic. Gain additional movement skills and travel the realms wherever your fancy takes you. Traits: Arcane, Movement, Mana, Knowledge, Intelligence, (-Domain).Path Length: 5Reachable Nodes:+50% to movement speed. Cost: 1Add one skill slot. Can only be used for a Teleport skill. Cost: 5Quality: RarePath – KeystoneDungeon of KnowledgeYou have walked the paths of Ancient Arcana, the Natural Dungeon Sage, and Minion Ego, and now you are poised to transform your class. Walk this path to see what the might of a dungeon can achieve, wielding the power of knowledge. Traits: Domain, Minion, Arcane, Nature, Intelligence, Knowledge, Perception.Path Length: 5Reachable Nodes:+1 Intelligence per class level above 100. Cost: 1+1 Wisdom per class level above 100. Cost: 1Quality: UniquePath – Class
+
+Ali stared at the two new paths in awe. Realm Walker was a path that would undoubtedly give her advanced teleportation magic and realm travel. It was the answer to a dream she had had ever since she had figured out that it was even a possibility – and, she wouldn’t have to put up with domain withdrawal anymore, nor have people try to attack her just for her class.
+
+I have fourteen Authority left. It was only a five-node path, but one of the first reachable nodes already cost a whopping five Authority points. But what an option it was. For five Authority, she could buy an eleventh skill slot. She could never imagine not having a teleport skill slotted, so even the fact that it had restrictions wouldn’t matter to her.
+
+But then she read the second path and ran into a squall of indecision. Dungeon of Knowledge was incredible, every single important trait she had was included. All the advanced paths she had taken had been required for it to even manifest. It appeared to directly represent the combination of her love of knowledge and studies with her combat minions and dungeon domain.
+
+“I don’t know how to decide,” Ali admitted finally. She shared both paths with them, hoping that they might have some insight to make the choice clearer.
+
+“Fuck, an extra skill?” Calen swore quietly, the instant she shared it.
+
+“But she has to give up her domain,” Malika countered.
+
+“Take both?” Mato suggested.
+
+“I only have fourteen Authority left,” she said. “I doubt it’s enough for both.” But even if she had the points, she was certain she would not be able to take both – they conflicted on the Domain trait. Realm Walker would free her from her dungeon, and Dungeon of Knowledge seemed to be a profound commitment to the path of being a dungeon.
+
+“It’s making you choose,” Lira said.
+
+“I think you’re right,” Ali said, glancing at her soft hazel eyes.
+
+“Your class evolution is by far the most complex I have ever witnessed,” Val’korr said. “Most classes get at most two or three paths and enough points to walk a single one. But I have to say, your Class path is likely the stronger of the two – Class paths are rare, and usually adjust your class in powerful ways. Yours is unique, which means it was tailored from your blend of achievements and the Authority you offered to the shrine. However, it is far from certain how it will manifest; you will need to take a risk either way.”
+
+Ali glanced at her friends, all of them nodding encouragingly at her – all nice and supportive, but not helping her with her decision in the slightest.
+
+“They both look like good choices, dear,” Lira said. “Perhaps consider what kind of life might make you happier, instead of what might be stronger?”
+
+With just those simple words, Ali found her answer. She loved teleportation, but realm travel would likely be an adventure on her own. Maybe she would be able to bring her friends, but she could see a lonely path ahead as her class developed and she hopped from realm to realm. Always visiting, never putting down roots, as Lira might say. Ali had grown used to being a dungeon, and, to her surprise, she found she didn’t want to give it up. More importantly, she loved adventuring with her friends and then coming home to live in her Forest Cavern with her shrine and hanging out in her library while the adventurers came to study and chat.
+
+Dungeon of Knowledge. She knew this choice would define her class and her path as she looked to the future.
+
+Her chosen path, it seemed, also had a choice for her. Wisdom or intelligence? While Ali was often hard-pressed for mana, every skill she had scaled with intelligence. Intelligence helped her with minions, with her studies, with her knowledge skills, and with her role in their group. This was a choice Ali found to be easy. She took the first step.
+
+[Dungeon of Knowledge 1/5] +1 Intelligence per class level above 100.
+
+“One point of intelligence per class level from here on out,” Ali said, more than a little in awe. “That’s a lot.”
+
+“And that’s probably an aptitude, so it works as base intelligence for your buffs,” Calen said, nodding sagely.
+
+“Seriously?” Malika asked, her eyebrows jumping.
+
+Ali pulled up the reachable nodes:
+
+Reachable Nodes:+1 Intelligence per class level above 100. Cost: 1+1 Wisdom per class level above 100. Cost: 1Empowered Summoner gains Boss Targets. (You can choose bosses as targets for your enhancements, regardless of range.) Cost: 3
+
+“Oh, wow, look at this!” Ali exclaimed. She would be able to choose boss monsters as her targets for Empowered Summoner and keep the bonuses even outside of her dungeon.
+
+“Does that mean you can use your domain magic to boost your attributes when we go fighting other dungeons like Aman Rak?” Calen asked.
+
+“Yes,” Ali said.
+
+“Oh, that’s excellent,” Mato said. “Take that one!”
+
+“I will,” Ali said, grinning at his excitement and spending the three Authority to buy it.
+
+[Dungeon of Knowledge 2/5] Empowered Summoner gains Boss Targets.
+
+After purchasing her new advancement, the reachable nodes reverted to the original choice: intelligence or wisdom. Ali already knew what to take. I’m gonna double down on intelligence.
+
+[Dungeon of Knowledge 3/5] +1 Intelligence per class level above 100.
+
+With her third node in the path, they changed once again.
+
+Reachable Nodes:+1 Intelligence per class level above 100. Cost: 1+1 Wisdom per class level above 100. Cost: 1Domain Mastery gains Adaptable Mana. (Your domain mana is compatible with all affinities.) Cost: 3
+
+I need this one, too. While the description was somewhat vague, Ali knew for certain that this node was due to her intense research on mana efficiency and affinity transformation from her mother’s book and everything Ryn had acquired for the library so far. She hadn’t made any obvious breakthroughs on her own, but she had fed Sage of Learning so much mana on this subject that even Calen might choke. Additionally, her domain was already filled with plants of many different affinities. Even not knowing precisely what it would do, she happily spent the three points to get it.
+
+[Dungeon of Knowledge 4/5] Domain Mastery gains Adaptable Mana.
+
+“Last node,” she said.
+
+“Good luck,” Malika offered, squeezing her shoulder in support.
+
+Ali glanced at the available nodes.
+
+Reachable Nodes:+1 Intelligence per class level above 100. Cost: 1+1 Wisdom per class level above 100. Cost: 1Sage of Learning gains Domain Tithe. (+Tithe trait. Experience earned towards Knowledge and Mastery traits is increased for everyone within your domain. A portion of this knowledge and experience is Tithed to you.) Cost: 5
+
+“Wow, look at this,” Ali said, sharing again. Sage of Learning would gain an advancement tied to her domain. It was the most expensive node, but she had six Authority left. Just enough. For her, even as she saw her friends simply nodding all around her, it was the easiest choice of all.
+
+[Dungeon of Knowledge 5/5] Sage of Learning gains Domain Tithe.Dungeon of Knowledge path completed.
+
+“I finished the path,” Ali said. “What do I do now? I only have one point left and I can’t finish any other paths.”
+
+“Your evolution will complete when you spend your last point,” Val’korr said. “If you don’t spend it now, it will be automatically allocated in a week when your evolution expires.”
+
+“Allocated to what?” Ali asked.
+
+“As best I’ve been able to determine, unassigned Authority is assigned to reachable nodes at random.”
+
+“What if it gets assigned to something like Realm Walker?” Ali asked, a sudden moment of realization going off in her mind like a draft of bitterly cold water dumbed down the back of her neck. “A path that removes something…”
+
+“It is as you suspect,” Val’korr said soberly. “You would gain fifty percent movement speed… and lose your domain aptitude. It is best that you spend that last point on something safe. Either the first node of an existing path, or spend the point to buy ten intelligence.”
+
+So that’s how classes are broken, Ali thought. Having examined her paths extensively, she finally appreciated just how fragile the evolution process must be for most people. She had been annoyed with Val’korr for frightening her when he had stressed the importance of her shrine – now, however, she was certain he had been holding back. Quickly, she scanned through the available paths and spent her final point buying the first step of Mana Sage. Her notifications updated immediately.
+
+[Mana Sage 1/7] +25% to mana regeneration.Class evolution completed.Your class has become Dungeon of Knowledge.[Zone] Dungeon of Knowledge has advanced to the second tier.
+
+A sonorous gong rang out with the zone-wide message, and an enormous bolt of green and gold shot from the shrine, striking Ali in the center of her chest. She screamed, but it was not in pain – rather she felt every bit of the two million mana used for her evolution blasting through her veins, arcing along her nerves, and filling her mind with knowledge and power. A shockwave pulse of mana burst forth from her, crossing the length of the Forest Cavern in the blink of an eye, a surging roar of power rushing through every part of her domain. She saw every fragment, every twist and whorl, every new mana butterfly, spark or wisp in excruciating detail, rammed directly into her brain thanks to her upgraded Arcane Insight.
+
+Even with her prodigious intelligence attribute, Ali felt herself losing her grip and her awareness faltered, crushed under the maelstrom and sudden weight of an entire dungeon-full of magic forced into her brain.
+
+So much…
+
+You have gained Clarity.
+
+Slowly, tentatively, her mind rejoined her body and Ali found herself blinking up at Malika’s concerned blue-eyed stare. She felt unnaturally calm – the unshakable mind granted by Malika’s powerful Clarity skill.
+
+“Aliandra, are you well?” Lira asked, hovering over her like a mother hen.
+
+“I think so,” she answered, slowly sitting up, her friends all gathered around. “I have a passive perception skill, and it got upgraded to include my entire domain,” she said. “I can’t shut it out, but Touch of Clarity is helping.”
+
+“I can keep it going as long as you need,” Malika said.
+
+“Thanks, I just need a few moments to get used to it,” Ali answered. I hope. The information torrent rushed in continuously – she could sense every little piece of mana in her entire dungeon. It filled her mind to the brim, overflowing, stretching it past the breaking point and about to burst from the pressure. All the tendrils and connections of her suddenly much denser domain were jammed in there somehow. She could see the tree in the library as a tower of green, and the voracious maw of the shrine sucking up mana to replenish the two million she had just spent. She could see every thread connecting her to every monster she had made, and she could even see the minuscule puffs of mana as the terrified newbie adventurers in the sewers cast their best defensive skills.
+
+With a thought, she drew her monsters away to give them a little breathing room. She had been unconscious at the time, but she was sure the zone message, the domain pulse of her mana growing vastly denser, and the sudden power-up of her minions had all been overwhelming for them. It wouldn’t do to have any more unnecessary deaths.
+
+“You turned your entire dungeon into a Tithe,” Val’korr said, staring at her with an expression that seemed to hover along the border between question and awe.
+
+“I did?” she asked. She tried not to be, but she was rather chuffed that she had shocked a troll seeker who had been alive since the first age.
+
+“Yes, see?” he said and shared his notifications. “This is what will greet anyone entering your dungeon from now on. The work of your last path. The Domain Tithe node.”
+
+You have entered the Dungeon of Knowledge.Experience earned towards Knowledge and Mastery traits is increased.A portion of this increased experience is tithed to the dungeon.
+
+“Go, Ali!” Mato exclaimed. “That’s what you get for helping all those adventurers get classes and level up!”
+
+Val’korr eyed him askance for a moment, but then said, “The big oaf is not wrong. Authority comes from your reputation and actions, if that was a big part of your growth, then it fits.”
+
+“Wait, does that mean you get experience when people defeat your bosses now?” Calen asked, his eyes growing wider.
+
+“They don’t even have to do that,” Val’korr said. “Just growing their skills is enough.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

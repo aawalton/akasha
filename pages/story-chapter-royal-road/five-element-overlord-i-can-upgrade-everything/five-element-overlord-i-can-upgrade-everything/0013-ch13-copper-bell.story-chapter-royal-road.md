@@ -1,0 +1,173 @@
+---
+id: caa2563c-ea27-5690-9433-162e8b6053f7
+page-type-slug: story-chapter-royal-road
+title: "Ch13 Copper Bell"
+slug: 0013-ch13-copper-bell
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 13
+ownLength: 2045
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211868/ch13-copper-bell"
+royalRoadId: "3211868"
+---
+
+The talisman around my neck activates the instant I feel the life-threatening beast’s cold mouth wrap around me.
+
+A hot layer of qi bursts out from my necklace, and the manifestation of a 3-meter-tall and wide copper bell grows outward to surround my entire body.
+
+The serpent bounces off, as a force of equal strength thrusts it back.
+
+[Automatic Inspect Function Activated…][Nameless Black Serpent] [Age: 35][3rd Level Qi Refiner][Water, Metal, and Earth Spiritual Roots][7th Grade][No Innate Physique][Has nurtured a spiritual plum with its life essence for the last 2 years in solitude, hoping to use this to break through its bottleneck at the perfected stage of the 3rd level into the 4th level of qi refinement.]
+
+Information flashes before my eyes, as the serpent's data is read aloud.
+
+Beside it, a countdown from 15 ticks away, as the copper bell talisman only stays active for a finite amount of time.
+
+A ferocious serpent lunges back my way, now even more mad that its last attack failed.
+
+The loud bell rings through the forest again, and it’s thrust backward.
+
+This time, smashing into a nearby tree and cracking its base.
+
+When the serpent slithers my way again, half of the tree slowly falls to the ground with a thud.
+
+It’s paired with a loud bell’s ring, repeating over and over as the serpent relentlessly attacks me from every side, and it's thrust backward every time. It is an impressive shield, but the copper bell is locked in place. I can only move within it, limiting my options of escape until the 15 seconds are up as well…
+
+[7…][6…][5…]
+
+Over a dozen full-force attacks have been blocked, but the monster is not harmed badly.
+
+This artifact only defends. The backlash from each strike is only as powerful as the serpent's, allowing it to attack almost indefinitely.
+
+[4…][3…][2…]
+
+Even if I activate this talisman two more times, all it will do is preserve my life another half a minute.
+
+I watch the serpent’s desperate attacks over and over again and pull out the rusty knife I took off Tang Min’s body.
+
+This snake is far too agile and sensitive to qi to fall to an arrow. The fact that it dodged, and is now attacking so vigorously, means that arrow could have killed it if I managed to land the shot. If these upgrade cards truly do as they say, a perfected tier 1 weapon should be able to slice through a level 3 qi refiner with ease. I just need to create the opportunity to land the hit.
+
+I pull out a bronze card and select the knife in my grasp.
+
+A flash of white light covers my hands.
+
+[1…]
+
+I twist my body and lunge at an awkward angle, watching the serpent charge my way for the twentieth time.
+
+Its neck is already recoiling, as it believes it will be sent flying backward as it has every time before.
+
+Yet, I feel the copper bell deactivating about half a second before the visuals in the outside world fully fade.
+
+This is all the extra time I need.
+
+The serpent’s open mouth lunges forward where my head was moments ago, and a long shimmering white and silver dagger thrusts upward, slicing deep beneath its bottom jaw.
+
+The serpent's scales are cut through like butter, and so is the soft meat at its neck connecting to its stomach.
+
+I follow all the way through, digging deep into the serpent up to the dagger’s hilt.
+
+The momentum of its lunge forward doesn’t stop, and the sharpness of this perfected 1st tier weapon is so unreasonable that there is no resistance at all as it slices itself open.
+
+Before it realizes its guts are falling out onto the forest floor, there is already a 6-meter-long gash along its underside.
+
+A murderous screech combined with a hiss echoes with agony as the serpent turns its body to try and figure out what has happened.
+
+Yet, shredded organs and serpent blood gush out onto the forest floor. It only gets worse the more it moves.
+
+I run away in the opposite direction, back toward its cave.
+
+The sound of brush being trampled and fallen trees being moved aside trails away behind me.
+
+The more this serpent moves, the faster it is gutted alive.
+
+By the time I make it to its cave and turn back around, the lifeless eyes of the angry black serpent stare at me in disbelief.
+
+My heart is beating out of my chest as I dig through the dirt mound it’s made and grab the fist-sized orange plum, holding it up in front of my eyes.
+
+All of my senses go wild, and saliva even builds up in my mouth.
+
+My natural instincts are urging me to eat it, but I stow it away in my storage instead.
+
+I feel the eyes of other animals still on me. This is not a safe place to stay and consume it.
+
+My gaze darts back to the dead black serpent. I hesitate for a second, looking for any signs of life remaining, but spot its heart and entrails disconnected from its body behind it.
+
+Dark birds, raccoons, and other creatures of the night have already swooped down to peck at the qi-rich blood and guts. However, none have made it close enough to the serpent itself.
+
+I place a hand down on its head, and in the blink of an eye, the entire 10-meter-long corpse of meat, scales, and head disappears into my storage.
+
+Without another thought, I run back in the direction of the servant camps and do not look back.
+
+–
+
+Over the fallen tree across the stream, past the empty hut of my dead neighbor, and into my own home, I shut the door tight.
+
+There are high levels of adrenaline pumping through my bloodstream, but also white-hot qi.
+
+I just ran faster than I ever have before. Some strides, I was airborne for over 5 meters. Thinking back to the world records on my home world, I easily have them beat. For multiple 100-meter sprints, I easily ran them in under 7 or 8 seconds.
+
+Even after a kilometer at that pace, I’m only slightly out of breath, and my muscles are only a little bit sore.
+
+The only reason my heart still beats out of my chest is from the visions replaying in my head, watching the open mouth of an enormous black serpent try to devour me.
+
+I’ve accepted the fact that I’ve been transmigrated to another world, and even the fact that cultivation exists. Yet, the size and ferocity of that serpent was truly monstrous, unlike anything I’ve ever imagined.
+
+And despite that, this rusty butter knife was turned into a blade capable of slicing through the beast two minor realms above me with ease.
+
+I pull the silver and white blade from my storage and look at it with awe in the silent night.
+
+It makes my eyes ache, and skin prickle from looking at it for too long, almost like hundreds of paper cuts are forming all over my body where the aura touches me.
+
+“This is truly a perfect grade 1st tier weapon…” I whisper to myself.
+
+A level 1 qi refiner in the servant camps should not be able to get their hands on a weapon like this. I bet even level 9 qi refiners would fight life and death to get their hands on it.
+
+This makes me remember another phrase the elders of Donghe village used to say: “A poor man with jade invites his own death,” meaning even if you do no wrong, as long as you have something of value, those around you will do anything to have it.
+
+I still look at the dagger up and down for a full minute in awe before taking out the real prize…
+
+A bright orange glow fills the dark room, and so does an overwhelming sweet fragrance. Instantly, it seeps out of the cracks in my hut, and the forest stirs to life in the night.
+
+It takes all of my willpower not to shove the plum into my mouth and swallow it whole.
+
+Instead, I pull out my last bronze upgrade card and push it against the fruit to activate it.
+
+A flash of white light shines over my hands, and when it recedes, an even more enticing fragrance erupts outward, filling the forest with an orange plume of aura for hundreds of meters.
+
+Golden patterns form on the outer skin of the fruit. They look like naturally painted vines with symmetrical leaves. I saw these patterns one time before on the marrow cleansing pill I upgraded.
+
+Every cell, meridian, and wisp of my soul craves this fruit; but I also get a screaming sense of danger from it. The potency of this plum has been amplified many times over, making devouring the entire thing whole far out of the question.
+
+My vision starts to blur, and my hand brings the fruit closer to my mouth.
+
+I take a large bite, roughly a third of the plum, and an overwhelming rush of hot energy explodes across my tongue and fills my body with an exhilarating feeling.
+
+Before I can reflexively take another, I use the last bit of willpower I have to let the rest of the fruit fall into my storage. At the same time, I feel all of my thin cleansed meridians open up wider, by almost two times their diameter, to allow for the hot energy to flow through.
+
+My weak spirit roots all twitch around my dantian and allow the orange and golden energy to saturate their frail forms.
+
+I activate my Jade Purity Soul Scripture, and the excess orange and golden energy that naturally would have flowed out of my dantian is captured by the invisible weight of my two souls, forced back into circulation to meld with my skin, bones, muscles, and blood before circulating back to my chest.
+
+The amount of raw qi that has just entered my body is easily 15 or 20 full spirit stones. My body and mind can barely handle it. My nose starts to bleed, and the pressure in my eyes and ears becomes excruciating. The energy has a unique aura about it, similar to the sharpness I felt in that serpent’s gaze when it locked onto me. If I ate this entire fruit, I don’t think I could have withstood this intensity. There is an additional aura that comes from the golden patterns, it is calming and nourishing to my body, meridians, and soul, but I cannot comprehend exactly what that is.
+
+All I know is, this is far more energy than I’ve ever tried to cultivate at once.
+
+I sit in place for over an hour, and every single circulation of energy fills my body with more heat that doesn't dissipate.
+
+My skin turns red, hot to the touch, and blood does not stop flowing from my orifices. By hour 3, I’m barely holding onto my consciousness. The sweet orange scent permeates outward from my hut even though I’ve stowed away the majority of the original fruit.
+
+Birds, squirrels, rats, and thousands of insects swarm about, but many of them back off once they feel the sharpness radiating out of the aura surrounding me.
+
+The scent gets weaker the more I digest and take control of the fruit slice, but my internal battle is far from over.
+
+I have to sit cultivating in place all night long.
+
+For 8 hours straight, I do not get a single moment of rest. I’m fighting to stay conscious, and make sure my meridians do not fracture.
+
+My mind is clouded, ears ringing, my muscles and skin tingle, my bones ache, and my heart feels like it’s about to burst.
+
+Once the morning sun rises, I can finally open my eyes and stand to my feet without having to forcefully activate my cultivation technique.
+
+In a single night, I’ve managed to elevate my cultivation to the mid-stage of a level 1 qi refiner… My dantian has become filled with multiple times more raw qi than it did yesterday, and my shriveled 9th grade spiritual roots finally soak up qi, saturating at a slow, but steady rate.

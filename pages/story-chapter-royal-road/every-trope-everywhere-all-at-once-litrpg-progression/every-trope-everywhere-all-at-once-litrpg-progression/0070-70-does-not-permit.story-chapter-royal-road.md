@@ -1,0 +1,229 @@
+---
+id: 198ce9f0-6988-5cc7-85af-deca31fb6ea9
+page-type-slug: story-chapter-royal-road
+title: "70 - Does Not Permit"
+slug: 0070-70-does-not-permit
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 70
+ownLength: 1915
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3660058/70-does-not-permit"
+royalRoadId: "3660058"
+---
+
+“There were two ways to enter the manor’s underside: either with a key, or by playing with several of the paintings in this room,” Meriel continued reading the journal. “The key has been with me since the moment I was first imprisoned within this dungeon, which made access much easier. However, I have memorized which paintings to move by heart. Entering it by that means wouldn’t have been difficult for me, but I did find it strange that no adventurer had accidentally unlocked the basement door yet.
+
+As I walked down the stairs and through the hallways, I realized that even the manor’s underground layout was a perfect replica to the original. Every stone brick was the same. Even the air felt the same. Even the cells. How did the archangel who imprisoned me in this dungeon know about it? Or did they perhaps look into my memories?
+
+As I moved deeper, I came across several cells. Each of them had hollow bodies within. In the outside world, this was where I kept the subjects of my experiments.”
+
+As soon as Meriel read that line, Aurelius took a step forward, causing Kaelor to shoot his dagger in front of Aurelius's neck. Aeris had her claws stretched behind him.
+
+“Don’t move,” she warned.
+
+Aurelius glanced behind him. “You’re treating me this harshly after everything I’ve done for you?”
+
+She didn’t say anything.
+
+He laughed. “I suppose it doesn’t matter now that Allene has tamed you with that love potion.”
+
+“Even without it, I would still act this way toward you,” she said. “I am grateful that you saved me back then. I truly am. Even so, you’ve become mad. Your experiment with the twins back then was when I realized you were no longer yourself.”
+
+“Is that so?” He turned back to Meriel, his expression going dark. “Read the final words of the journal carefully. As for the rest of you—listen closely.”
+
+Meriel looked at us. We nodded.
+
+“As soon as I opened the alcove, I saw it,” she continued. “The Soul Anchor Ring. Before grabbing it, I remembered that I had set up a trap here back in the original manor, so I assumed the same for this replica. I lured out the fiery trap I had set up as a last resort in case anybody found this, and as soon as the fire cleared, I reached for the Soul Anchor Ring.
+
+But something strange happened.
+
+My body wouldn’t let me have it. And not just that, but I saw a glowing message floating in the middle of the room—or rather, the middle of my vision. It said, ‘The Narrative does not permit you to take this action at the moment.’
+
+I didn’t know what it meant. All I knew was that no matter how hard I struggled, my body wouldn’t let me take the Soul Anchor Ring. Not yet.
+
+So now I am sitting in the corner of the alcove, writing down my thoughts in this very journal. Why am I even writing this in the first place? For myself? For Camille? I was never the type of man to do something like this, and yet I find myself writing in this by instinct.
+
+It’s almost as though I’m not in full control of my body.”
+
+…
+
+And that was all. Meriel had reached the end of the journal.
+
+Aurelius glanced at each of us. “After I wrote that last line, I placed the journal on the pedestal and ultimately left the dungeon, making my way back into the outside world. The sight was unfamiliar, likely because of how many years had passed. I realized that they call these islands the Whale Isles, which wasn’t something I was familiar with. As I went around and talked to people, I realized that nobody recognized my body. Nobody knew who Gabriel was. And what was even stranger…”
+
+He looked at us one by one. “I was unable to re-enter the dungeon until you all appeared. Even as other adventurers took on the dungeon after I had already escaped it, my body just wouldn’t let me enter it to retrieve the Soul Anchor Ring. I saw the same message over and over again: ‘The Narrative does not permit you to take this action at the moment.’”
+
+His gaze lingered on me the longest. “For some reason, I felt drawn to you, Allene. It was a strange feeling, so I participated in the Grand Skycurrent race to confirm it. Sure enough, I was right. For some reason, I knew that following you would lead me back to the dungeon and grab the Soul Anchor Ring. I knew that the Narrative would finally permit it.”
+
+He shook his head. “Allene… You don’t happen to know something about this, do you?”
+
+I stared at him.
+
+The Narrative… Aurelius…
+
+I could hardly believe what I was hearing right now. The message he had seen back then… was it a System message?
+
+But how would that make sense? I was the only one with the System, wasn’t I?
+
+“The message that you saw,” I began. “Did it ever say anything else?”
+
+He shook his head. “Never.”
+
+I stumbled back.
+
+The Narrative. The Narrative…
+
+Was it forcing Aurelius to cross paths with us?
+
+Then, something strange happened.
+
+Aurelius started screaming, thrashing around before crashing into the ground, causing the others to back away as he clutched his head in pain.
+
+“What’s happening?!” Reina cried.
+
+He briefly looked up, his eyes moving erratically from side to side. It looked as if he was being possessed by something. But I realized what was happening.
+
+He was reading something. I couldn’t see it, but out of everyone here, I recognized it well.
+
+He was reading a System message.
+
+“Talk, now!” Kaelor shouted, pointing his dagger at Aurelius.
+
+At once, the wind exploded, sending everyone flying back except Aurelius and me. In a blink, he appeared behind me with his ring sword pointed at my neck.
+
+I put my hands up. We were in another hostage situation—only this time, it was with me instead of Reina.
+
+“Don’t move!” he demanded.
+
+The others stayed completely still.
+
+“What are you planning to do?” I tried. “Kill me? We know you won’t do that.”
+
+I had a passive skill for something like this, didn’t I?
+
+[SKILL: HOSTAGE NEGOTIATION]
+
+Type: Passive
+
+Effects:
+
+- Your words carry greater weight during hostage situations
+
+- You are better able to identify what hostage-takers want
+
+He shouted, “I… I… Arggggghh!”
+
+He wasn’t himself anymore. He was being controlled. There wasn’t any use trying to negotiate at this point.
+
+His blade dug into my neck, drawing blood. My eyes widened as I felt the sword’s effect right away.
+
+Demonic blight.
+
+Wait, no… I could take advantage of this, couldn’t I?
+
+[SKILL: PURGE]
+
+Type: Active
+
+- Consume one negative status effect affecting you.
+
+- The affliction is cleansed and unleashed upon nearby enemies.
+
+This ability can be used once per day.
+
+But I couldn’t use it just yet. Even if I hit him with his own Demonic Blight, the Soul Anchor Ring was still on his finger, which would protect him from its effects. I had to get rid of it somehow.
+
+“Allene!” Meriel shouted.
+
+Even without holding a staff or grimoire, she was able to cast magic without any effort. She made a quick gesture, and a blast of wind sent Aurelius and I flying back. The sword was knocked out of his hand. We looked at each other for a split second before scrambling for the sword.
+
+I was slower. The Demonic Blight was hurting me. I had to get rid of it, fast.
+
+With no other choice, I used my wings to carry me toward the sword. Aurelius got a hold of it first, but I kicked his hand away and grabbed it from him. He tried taking it back, but the sword was already in my grasp now. I swung at his outstretched hand…
+
+And sliced it off.
+
+It was the same hand that the Soul Anchor Ring was on. His soul was no longer protected by the ring. Seeing this, I cast [PURGE].
+
+A burst of dark energy exploded from where I stood. Meriel and the others stayed far away from the explosion, but Aurelius took the entire explosion. When the darkness faded away, I saw Aurelius thrashing on the ground, tearing off the feathers on his wings.
+
+His screams were far more grueling than any I had heard before—more deafening than even a monster could make.
+
+“Reina, end him!” I yelled.
+
+Dawn Sunderer was in her hands—the weapon that Aurelius’s soul was weakest to. She sprinted at Aurelius, who was still squirming around the grass in agony.
+
+“Are you sure…?” Reina asked.
+
+I looked down at him, twisting and turning like an insect on the verge of death. The sight was pitiful, but…
+
+We should end his suffering.
+
+“Do it,” I said.
+
+For a moment, Aurelius seemed to regain control of himself.
+
+“No… please don’t! Camille and the others… I still have to save—!”
+
+Then, he screamed with a voice that didn’t sound like his. The look in his eyes didn’t belong to him, either. It belonged to a monster.
+
+Before he could do anything else, Reina jabbed Dawn Sunderer into his head.
+
+Aurelius—or rather, Gabriel’s body—went still. Unlike the other times we had defeated the bodies he took, his soul didn’t spill out of the body’s mouth.
+
+Dawn Sunderer had destroyed it right then and there. It was all over. He was killed not just by his own Demonic Blight, but by the very sword we had obtained from his dungeon.
+
+[ANTAGONIST SLAIN]
+
+[Aurelius, the Borrowed One]
+
+The wind died. No one said a word.
+
+Then, the System messages came.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE BATTLE OF TWO ARMIES (COMPLETED)
+
+- THE MASTER LOVES THEIR SERVANT (COMPLETED)
+
+- THE VILLAIN’S BACKSTORY JOURNAL (COMPLETED)
+
+- THE VILLAIN’S TRAGEDY (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[REWARD: +20 LEVELS]
+
+[LEVEL]
+
+[134 → 154]
+
+[MECHANIC UNLOCKED: SKILLS REROLL]
+
+- You may select three skills to discard and replace with a random skill
+
+- This can be used for both passive and active skills
+
+- You are now limited to a total of ten “enabled” passive skills
+
+My eyes widened. Not only did I receive an incredible amount of Levels, but I even unlocked a new mechanic?
+
+Though I didn't have time to look at it deeply.
+
+Because just like that, it was all over. The Boss Music status effect was completely gone now. The harsh winds that had kept us separated from the rest of the island were completely gone, and the rest of our allies rushed in at once. Several medics and mages started healing us right away.
+
+“We did it,” I said.
+
+Meriel, Kaelor, Aeris, Reina, and Talon… we were all standing together now, alive. Even Tuna, who had also been kept away from us because of the wind alongside our other allies.
+
+Reina ran over to me, trying to hug me, but Aeris did the same. They fought over who would hug me first. Talon and Kaelor ran over to Tuna, rubbing her head and smiling at the victory.
+
+“Good work,” Meriel said as she walked over to me, smiling. Thankfully, Reina and Aeris had taken their fight elsewhere.
+
+I nodded. “You too. But Meriel, how are you… I don’t know… alive?”
+
+She placed a hand on my head.
+
+“Rest first and talk later. I’m sure we’ll have a lot to talk about.”

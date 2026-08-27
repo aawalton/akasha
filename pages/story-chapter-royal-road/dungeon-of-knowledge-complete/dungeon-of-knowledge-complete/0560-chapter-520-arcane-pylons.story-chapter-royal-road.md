@@ -1,0 +1,201 @@
+---
+id: 53cb79eb-35d6-5c4d-b408-6ebc159435a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 520: Arcane Pylons"
+slug: 0560-chapter-520-arcane-pylons
+partOf: dungeon-of-knowledge-complete
+position: 560
+ownLength: 3784
+unit: words
+ownProgress: 3784
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2987831/chapter-520-arcane-pylons"
+royalRoadId: "2987831"
+markedReadAt: "2026-06-29T20:31:21.364Z"
+---
+
+With only three Galdrone Tetrad clones remaining, Ali found it far easier to draw the disruptions with her ice mages. And so, she did: every time she could, she dismantled shields, exposing the clones to the full damage output from all the archers and mages with multishot skills. While most of that damage and the area spells and attacks were directed skyward to cull the swarms of elementals, now that the swarms were smaller, the additional time to target the main bosses resulted in a not-inconsiderable amount of damage.
+
+Another wave of Theuronic Shards took to the skies. As she prepared to deal with a rain of Arcane Bolts, the domain mana within the elemental began rapidly twisting, condensing into the devastating formation of Mana Short.
+
+“Mana Short!” Ali yelled, downing a mana potion as the vibrations rippled through the aura magic and stole her precious mana yet again. She directed the roots of her Treants while letting Calen handle disrupting the respawn magic within the spherical barriers for a few seconds.
+
+A new and decidedly unfamiliar spell suddenly rippled through the ground, a surge of sparkling, crackling arcane power. Her skin prickled, and her hair rose toward the sky from mere proximity to the immense power that coursed through the battlefield. In an instant, the vast amount of mana stolen by the Mana Short vanished, and every single Arcane Pylon across the battlefield ignited with an aura of malign radiance. She knew what those complex magical constructs were for, and yet she could only stare in horror as every single one of them spawned hordes of howling, translucent Banshees, Ghosts, and Wraiths.
+
+“Stop shooting!” she shouted to her Treants as her heart began to quicken and she raced to pivot her strategy. The rot bolt storm ceased, and along with that, the bulk of their mana leech vanished. “You too!” she sent to her death-focused Sylvan Archers.
+
+A vast mournful wail echoed through the raid as every single undead shot off to rip and tear at the living with dark claws, talons, and spectral fangs. Chaos erupted everywhere as the healers and mages fled, entirely unequipped to deal with the threat.
+
+But that only left her slow and ponderous trees behind to take the brunt of the damage. Branches creaked and groaned as the Treants swung them in their defense, but bark and branches were physical and mundane, and their ghostly attackers simply phased right through them, tearing and ripping at the cores.
+
+Surrounded by furious Banshees and tormented ghosts, Ali could only watch helplessly as her trees began to die. Memories of Ciradyl rose unbidden, the pang so sharp and visceral she felt the edges of her vision begin to blacken.
+
+No, she thought, wresting control from her fear and shock. If they were helpless because they were slow, she must move them. I should have planted some trees, she thought, realizing they might have been able to use Tree Stride to escape, but hindsight was always perfect – perfectly frustrating. Contingencies for contingencies!
+
+“Ice Bolts,” she commanded, using her trick to draw out the dissonance of disruption, and then she used Minion Teleport.
+
+She appeared in the center of the tanking area, switching places with a Carnage Berserker, and surrounding her in a tight copse were all her Malevolent Lirasian Oaks, yanked here by the power of her teleportation.
+
+The Carnage Berserker glanced around, his eyes reddened by rage, and, finding himself surrounded by undead, he simply roared and spun his greataxes, filling the area with blood, ice, and brutally sharp mithril blades.
+
+It had all happened so fast; one moment, the smoothly practiced raid organization had been dominating the champion-level boss encounter with perfect teamwork and a great strategy. And with a single surprise, everything had collapsed into screaming chaos and disaster.
+
+Down on the ground below her tree, Havok and Sabri sprinted out into the battlefield, desperately swinging their weapons, shouting, flailing, and using their Taunt skills in a futile attempt to arrest the chaos.
+
+If only he could use Azryet’s Favor, she thought, but unfortunately, the tiny Goblin tank was not on the consecrated ground of the church.
+
+Healers were failing to heal, mages were no longer casting their spells, archers scrambled to flee, and even her enormous Carnage Berserker, in the midst of his maelstrom of slicing bloody blades, was rapidly dying to the fury of the undead and his own destructive magic.
+
+“Move them,” she sent to him, sending an image of Sabri trying to tank a Wraith nearby. Not that it would help, given the sheer scale of the chaos that was rapidly unraveling the raid. She could hear the mithril plate creaking under the strain of the giant thigh muscles compressing under tons of weight, and Tol’brekk took off, landing with a bone-wrenching crash beside Sabri. Surprised by his move, the Wraiths and Banshees paused momentarily, but as soon as they found where he had landed, they screamed and gave chase.
+
+Ali caught Sabri’s eyes across the distance, and to her surprise, all she saw was gratitude. The air around Sabri rippled under the sheer force of her Soul Shout, and instantly, all the undead hated her, forgetting the berserker entirely in their rage to destroy the Ahn Khen girl.
+
+And suddenly, Ali understood what she needed to do. After all, she had seen Calen do it countless times. She glanced toward him, flying above the battlefield on his luminous wings, but his entire focus remained on the Galdrone Tetrads trying to respawn their fallen clones behind glittering spheres of arcane barrier magic. No, this would be up to her.
+
+She willed it, and her Carnage Berserkers leapt into the fray, each mountain of angry blades and blood coming down on the biggest concentrations of the undead. “Heal them,” she said. She needed them to have enough awareness for her strategy to work, not to be consumed by their rage. As soon as she saw them dragging their monsters toward the two frustrated tanks, she switched her attention to her Sylvan Storms.
+
+Surveying the battlefield for a moment, she picked the most important targets. She ignored the scrambling archers, pathfinders, rogues, and even the mages. Arrows of pure lightning crackled and boomed across the battlefield, each striking a ravaging undead monster anywhere near a healer. The Sylvans also moved by using roots, just like the Treants. However, they were anything but slow. As soon as the Banshees swooped across the field to tear at them, she made them move. With two powerful movement skills and self-haste, the Sylvans were natural kiters. Arrows sizzled and sparked, filling the air as they shot across the ground, drawing as many undead as they could reach to the waiting embrace of Sabri and Havok.
+
+She saw the surprise on the faces of Teagan and Belmar as they suddenly realized they were no longer being pursued. But their surprise was fleeting as they immediately resumed casting their healing magic.
+
+But she had no time to dwell on them. “Drain the ghosts,” she said. “Transfer the health to the tanks.”
+
+“Yes, Seeker,” her witch doctors answered, not even bothering with the traditional bow as glowing blue ribbons of Soul Drain fanned out from their outstretched fingers to delicately caress the howling undead. Soul magic surged within the trolls, making their eyes glow and sending sparks of overcharged mana spraying into the air around them like a glittering cloud.
+
+Lyeneru’s dark, angry form swooped down toward her, bow blazing while arcs of lightning played across it and along her arms.
+
+“How do you expect the tanks to survive this?” she demanded, “Their armor is no use against ghosts.” But although her voice sounded harsh, there seemed to be a glimmer of hope in her eyes.
+
+“Look at their health,” Ali said, pointing to Sabri and Havok.
+
+Lyeneru’s intense eyes narrowed, and then she looked back at her in sudden surprise.
+
+“Ritual Infusion,” she answered the unasked question. “Temporary health boost. And my shamans are not low on mana.”
+
+Lyeneru’s bow rose, and an intense wave of heat rolled off it as the blaze suddenly intensified. A surge of power rocked the battlefield as she unleashed her power. Fire and lightning exploded, arcing through ghost after ghost, and she took off, drawing her catch toward the tanks. “Pathfinders! Rally!” she shouted.
+
+And every single archer answered her call.
+
+In seconds, every loose wraith, banshee, and ghost turned to chase after archers, drawn in toward the center and the two tanks who stood waiting for them.
+
+Anxiety gripped Ali’s heart as she saw her friends about to face the full weight of all the undead, but one look at the grinning Goblin and the serious look of focus on Sabri’s face, and she instantly realized they were in their element – precisely where they wanted to be.
+
+“Heal them!” she shouted, impressing her will and the urgency upon her Treants and Shamans. And then she summoned a vast barrier stretching across most of the battlefield, separating the undead from the elementals flying in the sky. At the very least, she could block the rain of Arcane Bolts, saving them from some small measure of unnecessary damage.
+
+“Death magic above, lightning below,” she sent to her Sylvans, splitting the damage so that she would not heal the undead. Unfortunately, her Treants in the center of the battlefield would be entirely unable to shoot, but instead she urged them to consume every corpse they could find, spreading the mana to the slowly stabilizing raid.
+
+“Reform!” Lyeneru shouted, raising her voice over the din as she wielded her lightning and fire to draw in the last of the stragglers. “Area damage! Clear the undead!”
+
+“You heard her. Kill the banshees,” she said, speaking trollish for the benefit of her Carnage Berserkers, and as one, all of them leapt into the fray, deep booming shouts of glee punctuating the earth-shaking mass as they landed among the dense press of monsters. All five of them immediately unleashed Blood Vortex while the rest of the raid group regrouped and began unleashing their best area damage.
+
+“I got the respawn,” Calen said, sacrificing his chance to unleash his area damage for the reliability of locking down the remaining clones.
+
+“All in, heals,” Ali said, and five crimson ribbons danced among the dead, bringing blood healing to all their allies.
+
+“Lightning Vulnerability curse, now!” Ali roared.
+
+“Yes, Master,” the eye answered.
+
+The raid began to recover rapidly. Seth noticed the curse and proliferated it to all the undead, and then Lyeneru unleashed a bolt of pure lightning from her bow that arced instantly to the monsters, splitting rapidly as it jumped from monster to monster.
+
+Ali followed up with a twin chain lightning from her Eye of Agnor, and a storm of lightning arrows and lightning nova from the bows of the Sylvan Storms. Magic rained down, creating a deafening roar as explosions and detonations blurred into a confusing roar of pure noise.
+
+The deafening cacophony went on and on, but eventually it faded, revealing only devastation and scorched earth. And in the center, Sabri stood proud and grinning, her skin glowing a bright neon green with sparks of lightning pouring off her hair – the weird cost of overusing Ritual Infusion.
+
+“Thanks for the damage!” Havok announced, and then he burped a cloud of bright blue butterflies that flittered about his head for a moment while several members of the raid – followers of Azryet, no doubt – echoed his prayer.
+
+“Good work,” Lyeneru said, her voice returning to its normal, unflappable calm. “Now, back to the bosses.”
+
+Ali turned her attention to repairing the remains of the disaster, moving her Treants, lowering the barrier, restarting the rot-bolt storm, and repositioning her archers once again. She would never understand the mindset of the tanks – the desire to throw oneself into harm’s way, on purpose, but she was ever grateful that she knew some fantastic ones.
+
+The swarms of elementals spawned unceasingly, waves of glowing destruction that filled the skies, but they were far diminished from what had been summoned earlier, and her trees, along with the mages and archers, swept the sky clean every single time, with progressively more and more time to devote to killing the bosses.
+
+Mana Short came slower and slower, and there were even another two rounds of summoned banshees. But now she knew what to look for, and easily warned the archers and pathfinders, resulting in a far smoother transition to clearing the undead. All in all, by the time the last clone collapsed, the fight had become far easier than it was at the start.
+
+There were no further surprises, for which she was grateful.
+
+Your group has defeated Galdrone Tetrad – Elemental – level 235 (Arcane) x5. Dungeon of Knowledge has reached level 198 (+7).+70 attribute points.Arcane Insight has reached level 119 (+4).Arcane Recall has reached level 58 (+2).Barrier has reached level 104 (+3).Martial Insight has reached level 123 (+5).Empowered Summoner has reached level 102 (+4).Minion Teleport has reached level 66 (+3).Identify has reached level 42 (+2).
+
+The wave of exhaustion almost swamped Ali as soon as the chimes sounded; she had not realized she had been holding on quite so tightly to her stress, and the taxing mental demands of controlling so many minions and evaluating the timing of critical raid-wide strategy pivots on the fly, second by second had worn her out. But her job was not yet done. As soon as she was certain the boss was dead and nothing would immediately threaten her friends, she teleported back to the edge of her domain.
+
+Teleportation magic flickered right beside her, and in a flash, she had herself wrapped inside a dense spherical barrier. But it was just Calen.
+
+“Sorry,” he said, glancing at her glittering barrier. “I just thought I’d come with and watch your back.”
+
+“Thanks, Calen,” she said, dropping her defenses and turning back to her task.
+
+She gritted her teeth against the rising tide of dungeon rage and consumed everything before her with the diamond edge of her domain. Mana surged, crackling and sparking as the two domains went to war on a far more direct and fundamental level than minion combat. But there was no contest; the Domain Architect dungeon war advancement she had earned under Azryet’s firm tutelage gave her such an advantage that she devoured everything up to the glowing dome barrier in less than ten minutes. In the aftermath, she left a broad plain devoid of much of anything except slowly rising plumes of untethered mana, which her domain also consumed, albeit more slowly.
+
+Domain Mastery has reached level 66 (+3).
+
+Huh, that’s decent. She took a deep breath, drawing back just short of the dome barrier to relieve the dungeon rage just a bit, and then she flexed her domain, deconstructing every single monster corpse left over from the fight, and every arcane pylon, just in case.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.Variant: Galdrone Tetrad added to Imprint: Elemental. Variant: Arachnodrone Seeker added to Imprint: Elemental, Spider. Variant: Arcanomorph added to Imprint: Elemental. Variant: Rhomboid Blaze added to Imprint: Elemental.
+
+Many new imprints for arcane elementals for her to study, and lots of gifts for Gage, but by far the most interesting was the Galdrone Tetrad itself.
+
+Imprint: Dark Soul updated to Imprint: Undead Spirit.Variant: Ghost added to Imprint: Undead Spirit.Variant: Wraith added to Imprint: Undead Spirit.Variant: Banshee added to Imprint: Undead Spirit.
+
+Ali accepted the Undead Spirit variants solely because she had the chapters to spare. Exceptional circumstances aside, she had very little desire to summon ghosts and their ilk. Although they did have a rather unique ability to shift between the spirit realm and the real world, and she had already populated some tunnels in the Abyssal Realm with her Dark Souls… no. Still no.
+
+Imprint: Arcane Pylon completed.Runic Script has reached level 85 (+2).Sage of Learning has reached level 88.
+
+Oh, now that’s interesting, she thought, as the knowledge of the thousands of Arcane Pylons filtered through her mind and into the tiny glowing runic script that filled the pages of her Grimoire. It was a construct of arcanite and powerful runes, much like a wand. It charged up with mana and then delivered the spell that was imprinted upon its crystalline layers.
+
+Which explains how the Arcane Elemental could summon undead, she suddenly realized. The arcane elemental had not really summoned them; it had simply charged the pylons and let what was effectively a vast dungeon summoning trap trigger. Storing it in her Grimoire was rather convenient, given she had the space, and once she had learned the runic formations, she could free up the chapter for something more useful.
+
+To her surprise, the notifications kept coming.
+
+[Sage of Learning]Domain Magic analyzed: Area Curse (Arcane Impedance)Domain Magic analyzed: Clone.Domain Magic analyzed: Mass Summoning (Arcane Elemental)Domain Magic analyzed: Mana Short.Mana ShortRequirements: Creature with an Arcane or Soul magic aura. Champion domain enhancement.Source: Galdrone Tetrad.Draw all the free mana from enemies affected by your aura, claiming it for your own. Only available mana can be taken. Reserved mana remains. Recharge: 5 minutes.Skill – Domain Magic
+
+Well, she thought, studying her new gains. Mana Short had some serious restrictions, but then again, it had been a devastating ability; but it seemed like she might be able to duplicate this boss exactly – she had, after all, just added Arcane Impedance to her repertoire.
+
+“Looks like I guessed right,” Ali said. “Arcane Impedance was a domain curse aura.” Which meant that Mana Insufficiency must be a skill inherent to the Galdrone Tetrad itself. She would need to check that later.
+
+“That’s interesting,” Calen nodded.
+
+In the meantime, Ali unleashed a host of little nature elementals to fill her newly claimed domain area with moss, flowers, and mushrooms, and turned her attention inward for a moment. She spent two points each on dexterity and endurance, and eight on vitality. Seventeen each went to perception and wisdom, followed by twenty-four for intelligence. That should do nicely.
+
+Ali popped back to the raid group and constructed an array of golden needles that she then unleashed upon the barrier. Her magic seeped into the purple construct, dissolving it from within, and as great holes appeared in the dome, a dense wave of dark energy rippled outward. The world swam, swirling around her head, and she felt her stomach emptying itself right at her feet.
+
+You have been afflicted with Soul Well Corruption.The twisted presence of the Corrupted Soul Well tears at the essence of your being.You are afflicted with nausea and mild disorientation.+23 Soul damage per second to mana.+29 Death damage per second. Undead are healed instead of damaged. Corruption – Aura
+
+“Well, that’s uncomfortable,” Calen said, looking positively green around the gills.
+
+“It’s stronger,” Ali said, staggering back upright while wiping her mouth to the sound of groaning and retching all around her. “Much stronger.” In that instant, she suddenly understood what exactly it was that the giant purple barrier domes were constructed to absorb.
+
+Malika walked over to the corpses and looked down. As corpses went, arcane elementals were rather atypical; much of what was left looked like a pile of dull purple glassy shards.
+
+Mana twisted in her soul sight, and Ali vanished, replaced by one of her signature tiny golden dragonets. Malika sighed. Ali was one of the smartest people she knew, and yet, she regularly forgot that she was cursed by an eldritch monster and had agreed to never be alone.
+
+“Calen?” she asked.
+
+He glanced up with surprise on his face, but in less than a second, he registered understanding. “I’ll go watch her,” he said, vanishing in much the same way.
+
+Finally, certain Ali was in safe hands, she turned her senses to the pile of shards.
+
+Arcane Elemental Core.A high-level arcane-affinity crafting reagent.Value: 180 goldReagent – Elemental CoreGreater Arcane Essence x4An arcane-affinity crafting reagent.Mana: Split Greater Arcane Essences into 3 Arcane EssencesValue: 145 goldReagent – Mana EssenceArcanite Crystal x17.An arcane-affinity crafting reagent that can collect ambient mana and store arcane-affinity mana.Value: 87 goldReagent – Arcane Magicite
+
+Not a bad haul, Malika decided, poking through the pile to make certain she hadn’t missed anything. She had no idea who would want the elemental core, but she was certain some of the crafters would be able to work miracles with such a potent reagent. Even the shards of the monster were made from arcanite – the power core of many artifacts and constructs. She worked her way through the other four corpses, collecting a similar amount of loot from each.
+
+“We get anything good?” Mato asked. But it was abundantly clear from the ears pricking up around them that he was not the only curious one.
+
+“A lot of good crafting materials. Five arcane elemental cores, twenty-three greater essences, and eighty-five shards of arcanite about the size of my hand.”
+
+Mato whistled appreciatively.
+
+“Yep,” she said. Even divided among such a large raid, it far more than covered most people’s potion and consumable costs, and everyone seemed well aware of it. That, and many of the adventurers had gained so many levels that they would need to upgrade their gear soon.
+
+Letting the sudden burst of happy conversation wash over her, she simply sat amid the corpses to wait for Ali to return, and reviewed her notifications.
+
+Eyes of the Soul has reached level 189 (+8).+80 attribute points.Martial Artist has reached level 91 (+2).Soul Strike has reached level 96 (+3).Healing Mantra has reached level 114 (+3).Perfect Body has reached level 68 (+2).Soul Armor has reached level 84 (+2).Enlightened Evasion has reached level 72 (+3).Divine Step has reached level 81 (+2).Second Wind has reached level 53 (+2).Clarity has reached level 68.Soul Sight has reached level 82 (+4).Dancing has reached level 21.
+
+It was a great haul of skill levels and attribute points for a fight that had some very tricky surprises. Still, she was glad it was done, and even happier that Ali could ensure the dungeon would not be respawning it anytime soon.
+
+And now, some points. She quickly spent two points each on intelligence and strength, the easiest choices in her mind. Eight more went to vitality, to keep up with the ever-increasing damage that was flying around in their raids. Next, she spent fifteen points on perception and then focused on her primary class attributes. Nineteen to endurance, twenty-four to dexterity, and she finished up by spending the last twenty on wisdom.
+
+She gazed toward the center of the dungeon. I wonder what challenges lurk in there?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

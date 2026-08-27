@@ -1,0 +1,169 @@
+---
+id: b901419d-8b7a-5f09-ada4-3ab286025d8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-Five: Cave"
+slug: 0026-chapter-twenty-five-cave
+partOf: flesh-eater-demon-evolution-litrpg
+position: 26
+ownLength: 2916
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2644343/chapter-twenty-five-cave"
+royalRoadId: "2644343"
+---
+
+“So, I’m guessing you didn’t see what caused that just now.”
+
+Callan shook his head, face pensive. “No, it—it came from deeper in the pass, but it was around a bend. The mountains were blocking the view.”
+
+Well, that was even more proof that the lightning bolt hadn’t been natural, at least. She seriously doubted curving around a long ass pass was the “path of least resistance.” The demon hummed in thought.
+
+“Any idea what could’ve done it? You probably know what kinds of creatures can shoot lightning, right.”
+
+The ghost frowned. “I mean, maybe a thunderbird, but then I feel like the lightning would’ve come from higher up? Same with a storm dragon.” His brows furrowed. “It could’ve been a spell, too, so realistically anything that can use magic could’ve been the source.”
+
+Pyre thought back to the moment before the lightning bolt had struck. She hadn’t smelled the distinctive, acidic note of magic, but it might’ve been covered up by that other smell—ozone, according to her vague memories. She paused, another thought occurring to her.
+
+“Hold on, if it was magic, wouldn’t it have hit you?”
+
+“It depends on the type of spell. If the magic’s generating the lightning, then yes, but if it’s redirecting existing lightning, then it wouldn’t. It’s the ichor used in spells that can hit incorporeal things,” Callan explained.
+
+Well, that was good to know at least. Magic wasn’t ruled out, then, since there was plenty of lightning over the mountains for a mage to theoretically manipulate. Pyre was willing to bet it was easier to do that than to create your own lightning anyway.
+
+The demon’s eyes peered into the darkness, thunder rumbling around them. “So, what, we’ve got a territorial lightning mage lurking somewhere in the mountains?”
+
+Callan shifted uncomfortably. “I mean, maybe? It’s hard to say for sure.”
+
+Both of them stared down the pass, the steep mountains on either side of them shadowy and looming. Lightning continued to flash above.
+
+“Well,” Pyre said, “I guess we’ll just have to be careful.”
+
+They found the clearing by coincidence.
+
+Elmer was outside doing chores when he swore he heard a tree fall deeper in the forest. This, by itself, didn’t cause much alarm. Though there hadn’t been any major storms lately, dead trees fell all the time. He saw it as an opportunity to gather some easy firewood, and so, with the sort of brash confidence that only a teenager could have, he’d wandered into the woods to search.
+
+It was pure chance that he was outside and close enough to hear the tree fall. Pure chance that it had been him, who had the impulsiveness to pursue the noise despite the warnings of the chimera in the forest, and not someone who would’ve ignored the sound.
+
+An hour later, Elmer stumbled back into Winrow on shaking legs, face pale and eyes wide and haunted. His words were a jumbled mess, but through it all, he managed to get out “chimera” and “waterfall” and “cave.”
+
+A party of guards was immediately gathered, one led by co-captains Dieter and Greta themselves. They brought their best, all of them armed to the teeth and bracing for the worst. They’d entered the clearing prepared for a fight.
+
+Instead, they found the aftermath of one.
+
+Outside the running stream, the clearing was perfectly still. Deep fissures bloomed across the earth like gaping wounds. Craters and claw marks littered the soil, interspersed with dried blood and a strange, viscous liquid that no one could recognize. Mage Irvin had immediately crouched down to examine the largest puddle of the substance, muttering spells under his breath to scan the contents.
+
+The rest of the guards focused their attention on the mangled corpse lying in the center of the destroyed clearing. Six flat yellow eyes peered up from a cracked skull. Shards of shattered white bones lay scattered about the corpse, whose torso had been completely mauled. Chunks of flayed flesh drooped down from jagged bites. Flies had already begun to gather around the open wound, feasting on festering flesh. Several guards went green when they saw it.
+
+The creature had been so thoroughly mutilated that if not for its eyes, no one would’ve recognized it as the fearsome chimera that had attacked the sanctum. But it was—undoubtedly so. This was the same monster that had ripped into the guards, dragged their corpses away along with the evolution crystals, and disappeared into the forest. Here it was, lying in front of them, dead.
+
+No one could make sense of it. No one knew what had killed it or could even begin to fathom what had happened here.
+
+Then, there were the bodies.
+
+Piled haphazardly in the back of the cave, the chimera’s victims lay tossed together in heaps like discarded trash. Some guards did puke, then, when they laid eyes on the familiar faces of the corpses. Corpses with names that had already been declared dead, but the confirmation hurt all the same. Without the bodies, they could imagine that they’d died quickly, painlessly. Now, the fantasy was destroyed.
+
+A few guards turned to the captains, opening their mouths to ask what to do. They found the two standing not by the majority of the bodies, but instead lingering in the back of the cave, staring down at a small corpse sprawled against the cave walls.
+
+Neither one spoke. Neither one moved. They simply stood there, silently gazing down at the remains of their son.
+
+Both of them were well acquainted with death. Captain Greta had grown up in a military family on the border of Auren. She’d met Dieter when he, too, had joined the army after his family was killed in the crossfire of the Tavrell Empire’s war. Both of them had fought and bled, both of them had witnessed countless horrors together and alone. It was why they’d decided to move to Ravarn, to abandon the nonstop battles and death for a quiet life on a peninsula so perfectly sheltered from the horrors of the mainland. A place without monsters.
+
+It was a difficult adjustment, at first. Though they’d come to Winrow for the quiet, it was disconcerting all the same. Greta had scoffed disbelievingly at the villagers’ naivete, and Dieter had agreed. The people here were too innocent, too soft, too unprepared.
+
+And yet, over time, the two of them were drawn into the lull of peace. They grew comfortable, happy to push aside old paranoia and fear as things of the past. In that haven, they built new lives for themselves. Callan wasn’t the son they’d imagined they’d have, and neither one took naturally to parenting, but they’d loved their child all the same.
+
+They weren’t fools, but it had been impossible to push down the faint hope after Callan had disappeared that perhaps he’d simply left Winrow. He’d always wanted to travel; perhaps he’d crossed the mountains for the mainland, taking the opposite path as his parents. Foolish, stubborn hope now snuffed out and laid bare.
+
+The other guards gave them a wide berth. Eventually, the bodies in the cave would need to be moved back to Winrow, where they would receive a proper burial. They would need to regroup and discuss what had happened here, what had killed the chimera and what to do next. But for now, no one could work up the energy to disturb them. Grief hung heavy over the cave.
+
+The only person unaffected by the somber atmosphere was Irvin, still studying that strange liquid. In the end, it was him rushing forward that finally drew the co-captains’ eyes away from the body of their son.
+
+The mage spoke quickly, not caring about interrupting the grieving parents or giving a second glance at his former pupil. It was difficult to make out exactly what was said between his ramblings, but one word did stand out among the rest.
+
+“Demon.”
+
+The very word sent a chill down the guards’ spines. No one dared breathe, afraid they might miss what Irvin said next. It didn’t seem possible.
+
+First a chimera, and now a demon? What was it doing near Winrow? Was it still here? Would it attack the village next? They hadn’t been able to handle the chimera—they would fare even worse against a demon.
+
+Mage Irvin continued speaking, gesturing wildly towards the forest and the chimera’s corpse. The substance, he said, was demonic in nature, the remnants of a fiend. He’d found traces of it throughout the clearing outside of the large puddle, and notably it was on both the chimera’s teeth and in its wounds. This demon, it seemed, had killed the other monster.
+
+Murmurs broke throughout the cave. Quietly, two guards stepped forward and said they’d seen a stranger enter Morris’s store a few days ago. Another guard claimed the same traveler had visited the sanctum.
+
+On further questioning, all three agreed that the traveler had been odd, that there had been something off about her. But she hadn’t attacked anyone. She’d simply left the village after hearing about the missing evolution crystals. She hadn’t been seen since.
+
+“I don’t detect anything demonic nearby,” Irvin murmured, the mage’s eyes glowing with magic. “It may have left the peninsula already. We must warn the villages by the Gravestones, send an alert out to the region! It must have taken the crystals; it could very well have reached its second or even third evolution!”
+
+But neither captain was looking at him. Dieter’s gaze had moved back to his son’s corpse while Greta’s eyes wandered over to the clearing. They landed on the chimera briefly, its still body, this creature that had killed her child. A monster she hadn’t believed in—had refused to believe in. They hadn’t wanted those years of peace to end, and so, like children, they’d covered their eyes and ignored it and called it a lie.
+
+Her eyes drifted over to the stray tree stump jutting out from the earth beside the chimera’s corpse, the plant out of place in the clearing. Her eyes shone. Callan had gone out fighting, she was certain. He was not a warrior, but he’d been braver than both of them combined.
+
+“You say this stranger didn’t attack anyone?”
+
+The three guards who’d stepped forward shook their heads. The captain nodded slowly and turned to her husband. An unspoken conversation passed between them, born from the familiarity of decades. Finally, they turned back to Irvin.
+
+“Do not send word out.”
+
+The mage’s jaw dropped. “You—You can’t be serious! This is a demon! It’s far more dangerous than that chimera ever was!” He gestured wildly to the chimera’s mangled corpse and the destroyed clearing. “Do you have any idea what kind of damage it could do, especially with those crystals? I understand you two are grieving, but—”
+
+“It did what I couldn’t.” Captain Dieter’s voice was low and rough. It avenged my son, he didn’t say.
+
+Greta took a step forward. “We’ll question everyone who interacted with this demon to determine if it’s a threat, and if it returns to the village and harms anyone, we will kill it. But for now, we do nothing.”
+
+Irvin laughed disbelievingly. He shook his head. “You’ve lost your damn minds. You have to know how stupid this is. You’re endangering the village, the entire region, for what? Silly emotion?”
+
+The captain’s eyes flashed in warning. “Watch yourself, Irvin. You were the one who said a chimera could never form on this peninsula. Clearly you were wrong.”
+
+“And so were you,” the mage spat.
+
+“We were,” Dieter said quietly. Carefully, he crouched down and wrapped his arms around his son’s mangled corpse, gently lifting him up while ignoring Irvin’s continued complaints.
+
+Of course they understood how absurd they were being. They knew even better than Irvin the kind of damage a demon could do, the sort of all-consuming, oppressive fear that came from facing one—those monsters descended from the titans themselves. They’d seen the clearing. They knew what had been unleashed on these lands.
+
+But in that moment, caught in the mixed whirlwind of grief and guilt and anger and odd gratitude towards this unknown demon, they did not care.
+
+“We can discuss this more when we return to the village.” Greta’s words were final, leaving no room for argument. Her eyes moved around the cave, focusing on all the still bodies, the chimera’s victims, before finally landing on her son cradled in his father’s arms like he hadn’t been since he was a young child.
+
+“First,” she said quietly, “we bring everyone home.”
+
+Pyre decided to keep her bone armor active. She was pretty sure bones were a worse conductor of electricity than raw flesh, so if the magical-mage-creature-something decided to shoot out another lightning bolt and she didn’t duck fast enough, at least that would minimize the damage.
+
+After some consideration, she also decided to use [Flesh Sculpting] to maintain her current, vaguely snake-like shape. That way, she wouldn’t have to expend energy focusing on keeping her form if she did need to drop everything to dodge. Plus, she figured it was a good chance to get more experience with the skill. She was quickly realizing that letting her skills “naturally” level up would take a long ass time, so she’d have to make more of a conscious effort to use them whenever she had the chance.
+
+[The skill [Basic Flesh Sculpting] has leveled up! Lvl 1 —> 2]
+
+The demon grinned to herself. Case and point. She’d figured the skill must be close to level 2 after using it so extensively for her human disguise. Glad to know she was right. It now lasted 2 hours max, and its long cooldown had gone down to a still-long but slightly better 10 hours instead of the original 12.
+
+Up above, Callan was floating ahead with his eyes carefully fixed forward. The kid hadn’t relaxed at all since they’d started moving again, and her pointing out that he couldn’t get hit by the lightning hadn’t helped his nerves at all. He was muttering to himself, but between the distance and the loud storm, Pyre couldn’t make out the words. She assumed he was theorizing about the lightning’s source.
+
+Now then, how long would it take for another one of those bolts to show up? The demon was almost excited to see.
+
+The answer, it turned out, was less than ten minutes.
+
+That burnt, metallic scent once again seeped into the air, and Pyre was already ducking down before Callan had even yelled out the warning.
+
+Pure white lightning streaked violently down the pass, illuminating the sides of the mountains in a blinding light. Pyre gritted her teeth and pressed herself flatter to the earth, but this bolt wasn’t going away like the first one had. It kept going, electricity crackling in a constant stream. She smelled something burning, felt a faint stinging, then pain as the lightning finally reached her.
+
+The demon’s muscles seized, but she kept her eyes open. Through the pain, she could see that the lightning still wasn’t stopping. The bone armor was dispersing some of it right now, and her high constitution and magic resistance meant she could probably take a few bolts, but it couldn’t last forever. She needed to get away from here.
+
+“Pyre!” Callan’s panicked voice drew her attention to where the ghost had drifted over, hovering over her while the lightning passed straight through him. “There’s a cave opening!” he yelled over the roar of thunder and wind, gesturing wildly to the left.
+
+The demon’s eyes shifted to where he was pointing, spotting a hole in the mountainside a few feet above the ground. She couldn’t see what was inside it or where it might lead, but it was her only option at this point.
+
+Pyre half-crawled, half-slithered to the cave entrance. Lightning continued to crackle, burning itself into the edges of the surrounding mountains. The demon shot out a bone and used it to climb up to the cave. She hadn’t thought it was possible, but the lightning bolt grew in size, and she just barely managed to heave herself into the cave before it filled the entire pass.
+
+Blinding light poured in from the cave entrance, but the demon didn’t stick around to see the damage. She quickly moved deeper inside, only stopping when she no longer felt the buzz of electricity on her skin. Finally, she released a long breath.
+
+“Next time, we’re taking a different route.”
+
+Pyre leaned against the cool stone walls, allowing [Regeneration] to work. She hadn’t sustained too much damage, thankfully, but she probably would’ve if she’d stayed in the pass much longer. Callan grunted in agreement beside her.
+
+The demon scanned their surroundings, focusing through the eyes with darkvision and the one with thermal vision. The whole cave was noticeably cooler than outside, and the sound of thunder was muffled by layers of stone.
+
+The cave itself seemed to extend deeper into the mountains—less of a cave and more of a tunnel, really. Considering it was apparently the one place safe from the random lightning bolts, it seemed like the perfect place to stop and rest.
+
+Or it would’ve been, if not for one thing.
+
+Slowly, Pyre’s eyes shifted upwards. Deeper within the cave, half-hidden by the uneven, rocky ceiling, she could make out a distinct red splotch with her thermal vision. The shadows moved, and she narrowed her eyes.
+
+It looked like they had company.

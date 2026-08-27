@@ -1,0 +1,159 @@
+---
+id: b90d46ff-3dff-56c7-8439-efa9df5b6302
+page-type-slug: story-chapter-royal-road
+title: "Ch108 Playing With Fire"
+slug: 0108-ch108-playing-with-fire
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 108
+ownLength: 2107
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3743872/ch108-playing-with-fire"
+royalRoadId: "3743872"
+---
+
+I turn back to the spirit crane and toss it another mid-grade water stone.
+
+“Thank you for the ride. Continue watching over the fields as you usually do.”
+
+The old 5th-level qi refining spirit crane catches this stone and bows its head low. There is a different look in its eyes now than I remember the day I made a weak temporary bond with it. This is the 3rd mid-grade stone I’ve granted it, and it’s now beginning to accept a different fate.
+
+The dull, overworked, lifeless gaze it once had is starting to fade, and a far more satisfied and sharper gleam in its eyes is pushing through.
+
+It is a 49-year-old bird with 8th-grade roots and is still technically owned by the sect. At this point in its life, it’s almost hit its maximum potential already, but gaining its trust and strengthening it to be a healthy mid-stage qi refining spirit beast can only be beneficial.
+
+The blue saturation of its feathers is growing, and even the [Acquired Water Mist Physique][Initial Stage - Mortal Grade] in its status feels heavier than usual.
+
+While walking away into the courtyard of my dwelling, a few things stir around in the back of my mind.
+
+I disappear back into my hidden realm before making my next move.
+
+The fact that my stewards are all going to become beast masters soon makes me think of the two most valuable eggs still deep in my storage.
+
+Most of all, that 4th grade Illusory Soul Fox with an innate physique.
+
+It’s only hatching requirements were to rest in a metal element-rich environment, and to absorb a large amount of potent neutral soul essence.
+
+There is truly no better place I can think of but here to try and hatch it.
+
+I pull a low grade soul contract out in one hand, and upgrade it on the spot to become a pristine soft white and gold jade soul contract like the one I bound to little red.
+
+Next, I pull out the small white egg, and walk deep into the silver metal portion of this five element cultivation array. It is almost directly across from little red on the other side, cultivating on the edge of the fire section.
+
+All it takes is a tiny wisp of qi to imprint the contract, and a light tap to the outside of the egg allows the jade to disappear and create the bond. Three golden vine patterns form around its shell, and I place it right on the edge of the array..
+
+After a few seconds, nothing happens and I slowly step back.
+
+A minute passes, and I let out a sigh and murmur. “Well… That’s the best I can do… Little Red took a few weeks to hatch, so all I can do now is wait for you too.”
+
+I think about the 6th grade armored boar egg in my storage, but decide to keep it unbound. It does not draw me in to try and hatch it as much. In fact, I’d be open to selling it off for the right price if I get a chance.
+
+Instead of dwelling on this further, I turn around and walk toward the center of the array and pull out the two small booklets I picked up from the market today.
+
+One of them is a dull blue, labeled Minor Rain. It has the same exact technique inside it that my intro to farming booklet has, granted to me by the sect. The only use for such a technique is to water the fields, and my spirit crane is already quite proficient.
+
+Still, as I stow it away back into my storage, I think of the spirit crane peacefully cultivating outside. Upgrading this booklet may be useful in the future.
+
+Right now, only one catches my attention, the detailed red booklet in my grasp.
+
+My spirit roots have reached their absolute limit given their talent at the 9th grade. Every particle of qi I siphon through them just flows directly into my dantian to refill it. There is no longer any saturation or momentum toward increasing my dantian’s outer walls. It is not even right to call it a bottleneck, as there is no barrier to feel any longer. It is simply their natural limit.
+
+With qi cultivation progress out of the question, I have my Martial Physique that can still potentially progress.
+
+However, after reaching the perfected stage in the pit, my progress has also halted.
+
+I have the heavenly grade tier 2 Martial Root necessary to break through, but I’m going to need a far stronger cauldron at least at the foundation establishment strength to handle the tea making process. It isn't confirmed yet, but there may have also been a problem with the strength of the soothing flame talisman I used. In order to pull out spirit grade extract, I may need a tier 2 fire as well.
+
+On top of all of that, I do not even know if my soul and physical body are ready to handle the breakthrough. I’m going to need to do some more testing, and get access to an even bigger market where tier 2 items are sold before I can safely make any more progress here.
+
+For the time being, I want to learn more about these skill books.
+
+I’ve seen talismans with minor fireball on them and even witnessed my crane using the minor rain to water the fields. Yet, I’ve never seen a human cultivator use any spells with their own qi within my time in the sect.
+
+There is only one memory, of that icy woman, Qin Yue, summoning ice spears all around her body before flying away to my old mortal farming village. I did not have the spiritual senses to comprehend what she was doing, so even then, I’m unsure if they were spells or some kind of artifact.
+
+It is a mystery to me why these booklets are so easy to obtain, yet no one seems to use them in battles.
+
+That old salesman’s words about learning spells being his only way to progress in his old age have stayed in the back of my mind.
+
+I pull out an upgrade card and touch it to the booklet’s front cover.
+
+Curiosity does form in my heart at what the original text might say, or what his additional personal notes could have been, but I do not want to impact my subconscious with incorrect techniques.
+
+However, there is a piece of knowledge I keep from my past life that many in this world seem to neglect… It is that fools grow old too.
+
+Just because an elder has gray hair and old eyes does not mean they haven’t been practicing incorrectly all their lives.
+
+The first impression should be the perfected version if I truly want to learn these techniques.
+
+The thin red booklet becomes covered in a flash of white light, and it gets heavier in my hands as the flash fades and many more pages materialize in between the original ones.
+
+The simple thin-lined black text on its cover shifts from Minor Fireball to Minor Fire Control.
+
+A small illustration of a golden hand with a single finger pointed upward forms below the text, and the lifelike imagery of a flame appears above the finger like a flickering candle.
+
+The booklet becomes dense with qi, and staring into the fire emblem fills me with warmth.
+
+I open up the booklet with wide eyes and begin reading as much as I can.
+
+It is split up into two main sections.
+
+The first being the basic explanations of what fire control is, a free-flowing technique allowing the caster to draw upon the natural element of their fire root and wield this infused qi at will.
+
+There is a very intricate series of diagrams and long blocks of text. As I flip through them all, surprisingly, not a single one is blocked from my senses or gives me any sense of danger like other perfected booklets.
+
+Many of the descriptions state that even initial stage qi refiners can practice these methods. It is all the same for practitioners at the 1st or 12th level; the only difference is the density of qi being released.
+
+Immediately, I think back to what that old seller told me, that spells of this nature are not to be performed by anyone below the 4th level. It’s no wonder so many pages and corrections were made, as his understanding of this technique is certainly flawed in its foundation.
+
+After reading through the first section, I flip to the second.
+
+Here, I begin to get ringing in my ears again and feel my vision blur.
+
+The names of the technique variations are easy to read, as I see minor fireball, flame pillar, and even a violent crimson-colored technique at the very end labeled Incineration. However, trying to piece together the diagrams and movements within results in me having to look away.
+
+I cannot attempt any of the spells without first mastering the initial stage basic fire control movements.
+
+So, I turn back to the first page and set my focus on these most simple isolated movements alone to start.
+
+I study the dozen or so pages for a few hours, then finally place the booklet into my storage and close my eyes to give it a shot.
+
+The first step is to cycle any natural qi cultivation method, so I sit in the center of this five-element cultivation array and activate my Jade Purity Soul Scripture like any other session.
+
+For a few minutes, I fall into a calm mental state and begin watching the qi flow through my meridians, into my spirit roots, and into my dantian.
+
+I begin projecting the mental imagery this booklet shows in my sea of consciousness, picturing my 5 spirit roots at the center of my mind.
+
+There is a blue-tinted water root, a gray-tinted metal root, a brown-tinted earth root, and a green-tinted wood root. The final root I focus on is a dull red. It is naturally imbued with the fire element, but like all the others, the qi that flows through it is pure white, neutral, unaffected.
+
+This is not an issue. All I need to move on to the next steps is to isolate the correct root in my mind.
+
+I let out a long breath of air and stop cycling my cultivation technique.
+
+The repetitive cycling, keeping qi within my body, halts, and I stand up to my feet.
+
+I begin reciting the physical movements that consist of graceful steps and hand patterns. I walk back and forth in the center of the array, repeating them over and over until they feel more fluid.
+
+Unlike Martial Movements, which have direct uses in battle, where I can recall certain motions and replicate them into punches or kicks with stronger force, the movements I practice now are being used for an entirely different reason.
+
+They are paired with careful breath timing and the mental visualization of my fire spirit root releasing its innate element. The simple physical movements I repeat make the path of least resistance in my meridians open up, allowing a direct pathway from my fire root to my right palm.
+
+The extremely potent energy in the air of this cultivation array allows me to focus deeper, even when I pause to think or follow a movement incorrectly. The next cycle, I just readjust my stance and repeat it with better accuracy.
+
+I lose track of time.
+
+Hours and hours pass.
+
+It feels like very little progress at all is taking place.
+
+Without an enlightenment talisman to fully comprehend and memorize every word, the exact movements still feel crude and imperfect.
+
+By the time a new notification pops up in my mind, allowing me to collect five more upgrade cards, the only sign of my efforts I have is a slight burning feeling in my chest.
+
+The dull red root glows slightly more, but I haven’t managed to send a single particle of red qi down my meridians.
+
+I halt my movements and let out an exasperated sigh, then sit on the floor covered in sweat and breathing heavily.
+
+A sharp prickling feeling returns to all of my meridians, so I take out a heavenly-grade healing elixir and slip away out of my hidden realm.
+
+As the sun fully rises, I soak in my large bath and let the warm white and golden light flow through me. I replay the movements I practiced all night in my head and prepare to return as soon as possible.

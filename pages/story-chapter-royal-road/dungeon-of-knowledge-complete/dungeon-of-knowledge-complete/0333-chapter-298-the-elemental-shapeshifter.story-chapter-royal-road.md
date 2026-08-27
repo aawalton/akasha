@@ -1,0 +1,173 @@
+---
+id: a926e892-02bd-51cc-8fba-dd63009743c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 298: The Elemental Shapeshifter"
+slug: 0333-chapter-298-the-elemental-shapeshifter
+partOf: dungeon-of-knowledge-complete
+position: 333
+ownLength: 2139
+unit: words
+ownProgress: 2139
+publishedAt: 2025-07-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2403160/chapter-298-the-elemental-shapeshifter"
+royalRoadId: "2403160"
+markedReadAt: "2026-06-29T20:22:37.479Z"
+---
+
+“What about these?” Mato asked, eyeing the two options as he tried to wrestle his delight down to the ‘let’s be cautious’ level. Both were class paths, which, according both to Ali and that grumpy old troll, were supposed to be rare. He instinctively preferred Elemental Shapeshifter because the description referenced both Azryet and Lira and all the paths he had taken so far – and it was unique. But Adaptable Shapeshifter looked incredibly strong. Any form I defeat? And a way to communicate with the others…
+
+“Wow! There’s the answer to your communication problems,” Calen said, immediately noticing the same thing.
+
+“I like the idea of being versatile,” Ali said, slowly. “But the Elemental Shapeshifter sounds so much cooler to me.”
+
+“Totally, he should choose on coolness factor,” Malika drawled. “Mato, would you use many other forms? You used to have a wolf and you got rid of it. You had the choice of Hawk and Panther, and you passed them up as being inferior. You seem quite happy with the bear and the tree now.”
+
+“It looks like a choice between making your current forms stronger, or having a lot of options, although each individual one might be weaker,” Calen said. “I see the advantages of being adaptable, but you’re not that much of a fan of flying, so I don’t see you doing much scouting, or branching out with new roles, right?”
+
+“I… I prefer having my paws on the ground,” Mato said, clamping down on the typical jolt of nerves that threatened to set his heart racing at the thought of being suspended high in the air with nothing between his feet and the ground. “I could learn to do it, though…”
+
+“I can help you fly when it’s necessary,” Ali said, placing a reassuring hand on his arm.
+
+“Sounds like Elemental Shapeshifter, then?” Malika asked.
+
+“I think so,” Mato said, nodding. “Although, what does it mean that it has void and holy affinities as traits? What do those even mean?”
+
+“Those are Azryet’s affinities,” Lira said, her soft voice soothing his ears. “It seems like his influence will be strong with this path.”
+
+“Yours too, Aunt Lira,” Ali said. “It has nature and wisdom traits, too.”
+
+“Very well,” Mato said. “Let’s see where this takes me.” Losing that Limited Telepathy skill is going to suck though.
+
+For his first pick, he invested in wisdom. While it might not be as good as the spell power in the near term, it was a solid investment for his class. It would make him far more resistant to Taunts, charm, and mental manipulation; increase his resistances, and boost all his main attributes via Natural Prowess. He would just need to level a few times to enjoy the benefits.
+
+[Elemental Shapeshifter 1/4] +1 Wisdom per class level above 100.
+
+He opened the reachable nodes to see what he had access to next.
+
+Reachable Nodes: +1 wisdom per class level above 100. Cost: 1+35% spell power to all skills while Shapeshifted. Cost: 1All shapeshift forms grant + [skill x 7 + wisdom] Resistance. Cost: 3
+
+“Ok, now we’re talking,” Mato said, sharing the new options. As they had grown and begun facing higher and higher leveled foes, magical damage had grown more and more important. Much of it could be solved by gearing properly, hunting down essences and skilled crafters to fashion incredible armor, however, an innate resistance boost to all his forms would make him so much more resilient. And there was no reason he couldn’t still add resistances by commissioning specific pieces from Thuli or elixirs from Eliyen and Basil.
+
+“Yup, that’s strong,” Malika said, nodding. “I’m just bummed you got that without having to sit in lava.”
+
+Mato let a great guffaw rip out of his chest. Startled to discover just how relieved he felt at how his choices had shaped up so far, he glanced about him and found his friends chuckling right along with him. Gratitude sat thickly in his throat, so powerful he felt it impossible to speak. They’re right in this with me. Cheering every move. Let’s finish this, then.
+
+[Elemental Shapeshifter 2/4] All shapeshift forms grant additional Resistance.
+
+He chuckled at Malika’s deliberately exaggerated pout as he caught her eyes, and opened the reachable nodes.
+
+Reachable Nodes: +1 wisdom per class level above 100. Cost: 1+35% spell power to all skills while Shapeshifted. Cost: 1Bear Form gains Void Touched (+Void. All melee attacks are enhanced by additional void damage while in Bear Form. Your Bear Form is upgraded to Dire Bear.) Cost: 4
+
+“Wow…” Calen breathed as soon as he shared it.
+
+The first two points spent on this path were exceptional, but this blew them out of the water. Every time Azryet’s blessing triggered, he struck substantially harder, and the void magic tore through armor like butter. Now his Bear Form would have it all the time. He could barely wait to try it out.
+
+“Magical armor piercing for your fangs and claws,” Malika said. “So jealous!”
+
+[Elemental Shapeshifter 3/4] Bear Form gains Void Touched
+
+“One more node,” Calen said. “Let’s see it!”
+
+“Here,” Mato said, opening the reachable nodes and sharing. Reachable Nodes: +1 wisdom per class level above 100. Cost: 1Find this and other great novels on the author's preferred platform. Support original creators!+35% spell power to all skills while Shapeshifted. Cost: 1Tree Form gains Divinely Touched Heartwood (+Holy, +Healing. Your Sanctuary aura has Consecration while in Tree Form. Your Tree Form is upgraded to Elder Tree.) Cost: 4
+
+“Azryet must trust you,” Lira said. “This boon has surely cost him greatly.”
+
+“I… it will hurt him if I take this?” Mato asked, his gaze snapping up to catch Lira’s eyes.
+
+“Divine patrons may take a personal interest in your development – at significant cost to themselves. As you may imagine, it is not common, especially among popular deities. It is a sign of great trust and an investment in your future growth.”
+
+“I don’t wish to be a burden,” Mato said, worry still clutching at his heart.
+
+“Fear not, young Druid,” Lira said. “Azryet has very few followers and likely wishes to invest in his renown through you. You can easily repay his generosity by increasing his reputation which will increase his power and draw new followers.”
+
+“Is that what happened to my path with the Wanderer, too?” Calen said, his eyes taking on a serious cast as the gravity of the situation became clear.
+
+“Yes,” Lira said. “Your patron has gained much from your efforts and has chosen to invest heavily in you also.”
+
+“I see,” Calen said, turning to catch Mato’s eye, an unspoken understanding passing between the two of them. These abilities were being entrusted to them by powers far greater than themselves, and Mato felt a strong commitment to wield them wisely. This is a powerful gift.
+
+[Elemental Shapeshifter 4/4] Arboreal Sanctuary gains Divinely Touched HeartwoodElemental Shapeshifter path completed.1 Authority remaining.
+
+With only a single Authority point remaining, and no available paths left to spend it on, Mato chose to buy another ten points of wisdom.
+
+Class evolution completed.Your class has become Elemental Shapeshifter.[Zone] Elemental Shapeshifter has advanced to the second tier.
+
+The most immediate effect he noticed was the suddenly heightened perceptions – a deep awareness of all his friends. Nobody was currently being attacked, but he was certain he would be able to tell the instant something threatened them. Survival Instinct.
+
+“Well?” Ali said, eyeing him curiously.
+
+“Well, what?”
+
+“I want to see it. The new bear and tree and stuff,” she said.
+
+“Sure thing, little one,” he said, grinning at her.
+
+“Oi!”
+
+Chuckling, Mato shifted. The moment his skill took hold, he could feel the difference. His bones grew heavier, denser, and thicker than before as his skill drew hungrily at his mana and stamina. His muscles shifted and his body sprouted coarse wiry fur – the same reddish brown as always, and yet altogether bigger and tougher.
+
+“Wow,” Malika said. “You’re enormous!”
+
+This is going to take some getting used to. Standing beside him, Malika barely took him up to his shoulders. She wasn’t the tallest human, but he was on all fours gazing down at her.
+
+But the most incredible change was his mana. His entire form exuded wisps of void energy – it suffused the entirety of his Dire Bear Form, fortifying his flesh and hide and blending seamlessly with his heightened nature-affinity magic. His claws were midnight black, trailing streamers of void that sizzled softly, filling the air with a strong odor of ozone. The way his claws sunk into the rock beneath his feet like it was the softest loam told him all he needed to know about his power.
+
+Thanks for the damage!
+
+“Well, that’s terrifying,” Calen said, but he could tell his friend was offering a compliment.
+
+“Your eyes are emitting trails of void magic,” Ali said, sounding almost as excited as he was.
+
+He glanced through his sheet, verifying that his armor value had gone through the roof and that his Bear Form now granted a sizeable amount of base resistance even without his gear. But, of all the gains, the gift of his patron’s void-affinity mana to this form was the one he wanted to explore the most.
+
+I’m going to need to try this out in a fight. Mato spent the next few minutes putting his new heavier bear form through its paces, exploring his Charge skill and how it behaved under his new bulk and momentum, throwing test swipes and blocks and dodging back and forth. Malika even threw a few punches and kicks for him to block without having to ask.
+
+I’m going to regret passing on that Lesser Telepathy, he thought, even knowing he had made the right choice for himself.
+
+Next, he shifted into his tree, digging his roots into the ground. Yet again, he found his form to be much more substantial. Many things changed as his body altered under the influence of his magic. The sizzling baleful destructive energies of the void faded, replaced by the soft luminous warmth of holy magic.
+
+Elder Tree. As soon as his branches and leaves unfurled, his form erupted with a soft white holy fire that burned continually without consuming him. As his Sanctuary aura billowed outward, the flames rippled along with it, wreathing the entire grove in the ghostly flames.
+
+“That’s healing me,” Malika said.
+
+“It’s the same as Havok’s spell,” Calen said, “Although, so much stronger.”
+
+There wasn’t a whole lot to test in Tree Form, given that there was no damage to take from anyone and no corruption to dissolve, but he did summon his roots using Rampant Growth, verifying that he would be able to deliver grappling attacks with them while wreathed in holy flames.
+
+“I think I like it,” Mato said as he shifted back.
+
+“Void Bear,” Ali said.
+
+“Holy Tree,” Malika countered, grinning.
+
+Mato just smiled at his friends. His new forms were going to take some getting used to – for everyone. It wasn’t just the unusual form-specific affinity changes – both his forms had evolved and felt far more substantial.
+
+But there was one last thing he wanted to try. Mato glanced up, catching the anticipation in Lira’s eyes. He pulled up the new description for his Rampant Growth skill, verifying that he could now summon something called a Lirasian Sage, and so he did.
+
+Lirasian Sage – Wisp, Tree Spirit – level 23 (Nature).
+
+His summon – a tree spirit, apparently – appeared before him as a dense cluster of green light that slowly swirled within itself, hovering about three feet above the ground. It slowly floated upward, hanging above them and pulsing softly. Lira let out a sigh then as a soft green light radiated from it, bringing the freshness of spring, the germination of seeds, and the burgeoning vitality of the trees. It was like an echo of the aura he felt from Lira when she was not holding it back, and he glanced over to find her smiling softly.
+
+“You have grown, young Druid. To be able to summon the Sage is a rare gift,” Lira said. “Keep it safe and it will greatly assist you in battle.”
+
+“How does it work?” Mato asked, staring curiously at the strange, insubstantial creature floating above him. It called to him, a soothing, lilting song and he found himself responding in kind using the language of the Plants.
+
+“Perhaps take a look at your health, young Druid,” she suggested.
+
+“Oh,” Calen gasped.
+
+“Wow!” Malika said.
+
+When he finally took a look, he stopped in awe, finding himself under the influence of an unexpected aura buff.
+
+Lirasian Sage+23% to maximum health.Aura
+
+“Well, now. That’s really something,” he breathed, staring at the little floating sage in awe.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

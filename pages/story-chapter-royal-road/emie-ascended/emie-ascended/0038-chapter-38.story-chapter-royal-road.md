@@ -1,0 +1,173 @@
+---
+id: 37581d38-4e65-5aa3-88cc-18aa19dc7fa4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38"
+slug: 0038-chapter-38
+partOf: emie-ascended
+position: 38
+ownLength: 2442
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3623521/chapter-38"
+royalRoadId: "3623521"
+---
+
+“Is that your new pet?” Enchanter Donnovan asked when I stopped by the Association’s Enchanting Shop.
+
+The silver-haired Enchanter’s teal eyes lit up at the sight of the small creature who’d taken up residence on my shoulder. Though it had been a long time since I left the simulation, the sensation of having an asolade on my shoulder still felt natural enough.
+
+It had only been a few days since I brought Aerie home, but I already felt comfortable enough with our bond to allow her to remain outside of the carrier most of the time as I walked around town.
+
+Without the Beast Companion skill, Coco had taken months to train sufficiently to reach the same point. The discrepancy only further highlighted the convenience of having such a skill.
+
+“It is. This is Aerie. She’s an Air Asolade if you couldn’t tell by her name.”
+
+Though most beasts with an elemental inclination showed obvious signs of said inclination pretty much from birth, asolades did not follow the normal trend.
+
+Like a few other species, asolades wouldn’t develop visual signs of their elemental affinity until after their first evolution. Before then, they were almost always mixtures of neutral colors like white, gray, black, and brown.
+
+It was part of the reason why Illia had to wait until Aerie started actively manifesting signs of her element before she could definitively declare her an Air Asolade.
+
+“Well, hello there, little cutie,” Donnovan said with a friendly smile. It was probably the most approachable I’d seen him in the year that we’d been acquainted.
+
+“I have a couple of commissions to turn in,” I said, pulling his attention away from the young asolade on my shoulder. After handing over the items, I asked, “Are there any new commission requests since the last time that I checked?”
+
+“There are a few,” he said, handing me a book. “Now that you’re a full member, you know you can go to the guild office to access a larger number of commission requests. You can also continue to sell your items on consignment, if you prefer.”
+
+“I know,” I said, flipping to the most recent entries. “But it always takes forever to get in and out of that place. It’s a lot faster and easier to just come here. I’ll likely drop off some items for consignment as well the next time that I stop by.”
+
+My eyes skimmed over the list of entries. Nearly half were for storage items with preservation – a request I hadn’t seen listed in the shop’s commission request book before.
+
+“Well, I suppose that’s no real surprise that the guild office has been busy lately. Everyone probably wants to get to know the guild’s newest Ascended Enchanter,” he said with a knowing smirk. “You’ve already made a bit of a name for yourself, especially since word got out that you’re a Space Magi. Everyone is wondering when you’ll start producing storage devices. Specifically, ones with preservation capabilities.”
+
+My body stilled as I looked up from the book.
+
+“Oh, really? Is that why there are so many requests? Someone thinks it’s something I can create?”
+
+While my party knew that I was capable of producing such items now that I’d evolved, nobody else should be aware of my capabilities. Since I didn’t think any of my friends had spilled the beans, I wondered where their information had come from.
+
+Enchanter Donnovan laughed. “Of course! You’re an Ascender who reached Grandmaster in your previous realm. I would be shocked if you couldn’t create such an item, especially with how often the dungeon is dropping both time and space-based skillbooks.
+
+“Everyone already knows you have an Inventory and Teleportation, so the storage aspect is pretty much a guarantee. With the Association’s preliminary findings being leaked and the number of time-based skills being reported, it seems only logical that an Enchanter like yourself would acquire the necessary skills for something like that. That’s not even taking into consideration the possibility that you wouldn’t need the dungeon’s skills to access such aspects.”
+
+The silver-haired Enchanter didn’t look smug with his statement. It was more like he was amused that I bothered denying my abilities.
+
+“You’re right. The dungeon has produced a lot of time-based skillbooks. I guess it is only logical to think I would have acquired one over the last year,” I said, completely ignoring his inference that I might be the dungeon’s Originator.
+
+By this point, it really was only a matter of time before the truth got out. But that didn’t mean I wanted to verify anyone’s suspicions about the topic.
+
+I didn’t mind if people knew that I could produce preservation storage devices. Like Donnovan said, it was only expected that a former Grandmaster Enchanter would be capable of creating such things once I had access to the requisite aspects.
+
+In fact, it would be downright odd if I didn’t acquire such aspects, given the demand and value of such items. Glancing over the compensation being offered, I had no issues accepting the pending commissions.
+
+“Are there any more like this at the guild office?” I asked.
+
+“Probably, but you know the rules. You’ll have to go there if you want to accept any of the commission requests registered in the other office.”
+
+I found it a little annoying that they didn’t link their databases since I knew for a fact that the Enchanter Guild had the technology available to facilitate such a thing.
+
+“I’ll pass. Between these, my shifts at the medical facility, and delving, I’ll hardly have time to play with Aerie over the next month as it is,” I said, reaching up to rub the asolade on my shoulder gently.
+
+“Well, if you’re willing to give a class to some of the Enchanters who’ve recently acquired both space and time skills, you’d be able to offload some of the demand. We both know that simply having access to an element or aspect isn’t always enough to properly conceptualize an enchantment.
+
+“Having a mentor experienced with both aspects would go a long way toward developing other Enchanters capable of producing such items. Even our most senior Enchanters have only managed to make spatially expanded items instead of genuine spatial items since the products and aspects are completely new to them.
+
+“I’m sure you know how rare spatial skills were before the dungeon evolved,” he added with a sigh. “The guild wouldn’t expect you to teach for free, either. You can pretty much name your price, as long as it isn’t too outrageous.”
+
+“I might just do that,” I said, meaning it.
+
+I’d never been one to hoard that kind of knowledge, and I had pleasant memories associated with teaching others Enchanting. Though I’d never consider myself a true teacher, I really didn’t mind passing along my experience and knowledge if it would benefit others.
+
+My comment made the other Enchanter’s eyes light up.
+
+“Good. Oh, are you planning to join the Porter Guild when the local branch officially opens? I figure as a Space Magi, it would make sense for you to join them as well, right?”
+
+“I never said I was a Space Magi, but I do see the value in joining the Porter Guild if they really open a local branch.”
+
+“There is no ‘if,’” Donnovan said, shaking his head. “The building is already under construction, and the Enchanter Guild is already under contract to complete the necessary enchantments. They’re bringing in Enchanters from their own local guild to do the work since they already have a relationship with them.
+
+“I’m pretty sure their local Enchanters’ familiarity with spatial expansion enchantments also has something to do with it. I can’t really say I blame them, either, considering how new the local Enchanters are to the work.”
+
+I nodded in agreement. Given the choice, I’d always prefer to have someone experienced with a particular enchantment do the work over someone new to the process.
+
+“Do you know when the guild will officially open?”
+
+Donnovan shook his head. “Not the exact date, but I would expect it to be sometime in the next couple of weeks. You’ll probably get an invitation directly, considering your background.”
+
+“Mike mentioned that the Builder Guild started working on the building for the Porter Guild,” Stephen said when I told him about the conversation I’d had with Donnovan a short while later. “I meant to tell you when I got home yesterday, but I forgot.”
+
+The shifter looked a little sheepish, but it really hadn’t been his fault. I’d been late meeting him at the apartment, then we’d had dinner and played with Aerie until it was time to sleep.
+
+“It’s fine. How were the fights? Anyone noteworthy?” I asked, sitting beside him on the small couch and moving Aerie into my lap.
+
+Though the arenas of the city were often used for non-violent displays, fighting was by far the most common form of entertainment I’d seen advertised.
+
+But the fights weren’t solely for entertainment value. Some fighters used the arena as a platform to display their martial prowess in hopes of attracting a potential party.
+
+More often, though, fights in the arena were considered a source of entertainment. Individual fighters, duos, and parties could earn fame, fortune, and even potential sponsorship deals that they might otherwise have never qualified for.
+
+Though I’d never been all that interested in watching fights before, I’d discovered a budding interest in the field since ascending.
+
+Normally, I would have attended the fight alongside Stephen, Mike, and Cora, but I’d passed in favor of finishing the commissions I’d picked up the week before.
+
+I tried not to hold commissions too long since it was considered rude to accept a commission and then drag one’s feet completing it. The preservation spatial items were a little different since they’d all been submitted with the intention of having me complete them.
+
+Still, I wouldn’t take any longer than necessary to complete them, even if I did currently have the market cornered.
+
+That wouldn’t remain the case for long, though, since I’d already agreed to start teaching some of the more advanced Enchanters how to create spatial enchantments.
+
+“Not really. There’s a fighter that uses Barriers for both offense and defense who is pretty good, but you could tell he was just trying to draw the interest of a new party.”
+
+“Was there any explanation as to why?” I asked.
+
+“No. They just said he was new to the city,” Stephen replied before adding thoughtfully, “There were actually quite a few new fighters at the arena tonight.”
+
+That wasn’t a surprise. Since the dungeon’s evolution, the number of people moving to Sorenguard had only increased. Even after a year, the migration hadn’t slowed.
+
+If anything, it had only increased as more information about the new Ascender Dungeon spread.
+
+I smiled as Aerie lay on her back and pretended to attack my fingers while I tickled her stomach. Aside from the thin, furry membrane stretching from her back paws to her front paws and the rounded ears, she really did look almost exactly like a young kitten.
+
+After several minutes of playing with the energetic asolade kit, I asked, “Do you want to go for a walk in the garden? I took Aerie to play there during a break while you were gone yesterday, and she really seemed to like it.”
+
+“Sure,” he said, standing up and then offering me a hand.
+
+Though we spent a lot of time in the sanctuary, Stephen had gotten used to hanging out in the small apartment we rented since he often found himself stuck there when I was working at the medical facility or already inside the space.
+
+And without a way to communicate through dimensional barriers, he basically just had to wait for me to come back and bring him over.
+
+It was inconvenient, but there wasn’t much we could do about it. Still, that was why we’d opted to rent an apartment in the first place.
+
+Holding Stephen’s hand in one hand and Aerie in the other, I transported us directly to the garden. I couldn’t help but laugh when the small asolade immediately launched herself from my shoulder.
+
+Instead of simply gliding to the ground, the Air Asolade used small bursts of air to propel herself up and forward into the young Golden Oak at the center of the garden.
+
+I’d also picked up a few small fruit trees from the dungeon – mostly things that were growing in safe zones or near enough a safe zone that the dungeon had made them small enough to harvest with ease.
+
+Between the trees and along the small path I’d made were a variety of herbs and other greenery. Most were edible or had some alchemical value, though I really hadn’t done much with the space aside from planting what didn’t require special conditions to propagate.
+
+That meant the garden itself was quite small, but I didn’t mind. It left more space for regular storage that way.
+
+“She really likes that tree, huh?” Stephen said with a chuckle as he watched Aerie run through the tree branches like a squirrel.
+
+“She does. She still won’t use the door I installed, but I feel like she’ll get there eventually.”
+
+Several minutes later, the young asolade glided back to my shoulder before abandoning me for Stephen’s larger shoulders.
+
+“Oh? You want me to play with you?”
+
+Aerie ran from one shoulder to the other, then launched herself back toward the tree.
+
+Stephen looked at me questioningly.
+
+Chuckling, I said, “Go ahead. It’ll be interesting to see how she reacts to one of your beast forms.”
+
+Though I’d seen him shift into his beast forms many times already, I still found the transformation process magical.
+
+I could feel a flash of excitement with an undercurrent of fear as the asolade laid eyes on the much larger feline that had taken Stephen’s place. I felt the urge to give a cautionary reminder, but I stopped myself. I was absolutely certain that Stephen understood better than I did what his limits were with the small kit.
+
+Though she was initially frightened by the transformation, it didn’t take long for Aerie to recognize Stephen’s mist leopard form as a friend.
+
+And while I knew that he was being careful, it soon became apparent that the garden was not nearly large enough for Stephen’s feline form to do more than walk carefully or lie under the tree.
+
+Still, Aerie seemed to enjoy using his body as a playground, and I felt a deep warmth as I watched how patient he was with the young kit.

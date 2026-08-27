@@ -1,0 +1,151 @@
+---
+id: 85fa0ffe-5cb3-5d32-9cf3-afa6d0cc1949
+page-type-slug: story-chapter-royal-road
+title: "Chapter 571: The Counsel of the World Tree"
+slug: 0615-chapter-571-the-counsel-of-the-world-tree
+partOf: dungeon-of-knowledge-complete
+position: 615
+ownLength: 2822
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3165514/chapter-571-the-counsel-of-the-world-tree"
+royalRoadId: "3165514"
+---
+
+Calen teleported back into the fray as soon as his Lightning Amplification wore off, not relishing the resumption of the painful jolts and prickles from the arcing black lightning aura that crackled about the flying wraith of Thaldorien Stormshaper.
+
+He drew and fired; a full volley of arrows from all his mirror images zipping across the throne room to detonate brightly among the continually spawning Dark Souls drawn to Thaldorien’s crackling power through the runic arrays inscribed upon every inch of the temple walls. They were annoying, more than anything; a distraction slowing them down. Still, he pumped all the excess mana his arrows leeched from them into his Motes of Light to boost the raid-wide damage.
+
+You have been afflicted with Lightning Amplification.
+
+You have gained Onslaught.
+
+He felt the subtle prickle in the back of his mind, letting him know his recharge was up. Immediately, he vanished, triggering Eclipse by resummoning one of his Mirror Images. Under the concealment of invisibility, he drew his bow and channeled his stamina into it. Ten, twenty, thirty seconds of channeling stamina were compressed into an instant, causing his bow to vibrate in his hands from the immense pent-up energy.
+
+It was a strange effect; the bow itself remained steady, but it was the thumping of power beneath the polished wood of Lunaré’s Lament that went deep enough he could feel it in his bones. A sorrowful song of power.
+
+Despite his potent perception skills, the Stormshaper never noticed him. Eclipse was no ordinary stealth skill now.
+
+He relaxed his right-hand fingertips, and his bowstring released, the usual twang completely muffled by the sound-damping properties of his Explorer skill.
+
+Every last mirror image duplicated his movement with precision and skill, cascading the enchantment skills he chose, buffing every single conjured arrow. A devastating crack echoed off the stone walls as a blinding flash lit the Wraith from within, entirely overwhelming the radiance of the Divine Archon tanking in the air.
+
+“What’s the count?” Lyeneru asked, her tone clipped and crisp as she added crackling arrows that trailed fire into the fray.
+
+“One hundred and sixty-five,” came the answer, spoken by Ali from the mouth of her elegantly robed kobold priest.
+
+One hundred and sixty-five percent! It was an incredible number, especially considering the continual barrage of heavy Chain Lightning strikes and the arcing flickers of Lightning Nova that rippled outward from Thaldorien like waves from a struggling insect on a still pond.
+
+“How is your Archon still alive?” Calen asked, meeting those reptilian eyes glowing with pulses of holy mana every time she cast a spell.
+
+“The healers are excellent,” Ali answered, this time using the voice of the Soul Archon beside him. “Also, I still have a few tricks up my sleeve. I have Kir’vella donating the archon an extra helping of temporary health.”
+
+“Are you going to tank him until he dies?”
+
+“If I have to,” Ali answered. “It’s not like we have any other options, do we? The archon is struggling, but Thaldorien is close.”
+
+“Yes,” Calen said, dipping his head momentarily. As soon as Lyeneru had shed her Lightning Amplification, they had tried to switch Thaldorien Stormshaper back to attacking the legendary archer, but to no avail. He had clearly decided that the Divine Archon waving an oversized, blazing Holy Avenger in his face had to die first, and had bent all his energies on its destruction. Nothing they did could shake his focus. Mages with high wisdom were such a pain to control.
+
+The Soul Archon drew and fired, warping light like a mirage with its disconcertingly silent soul-magic arrows. Several Dark Souls exploded, unraveled by the undead-hostile support magic laced into the shot while the rest of the arrows passed through Thaldorien’s body, ripping streamers of insubstantial glowing ichor from the undead Wraith.
+
+“How’s it going back home?” Calen asked, risking a glance through his distant Mote of Light.
+
+Ali was silent for a few moments and then said, “Nothing we’ve tried can penetrate his shield, and I’m almost out of Authority. We’re going to need help… as soon as we can finish up here.”
+
+“Right,” Calen said. They were stuck in a bind. Each attempt took a substantial time investment, and if they didn’t make a breakthrough this time, Ali and Malika were going to be facing at least another half an hour of contending with Nevyn Eld by themselves. He twisted his lips and turned his eyes back to the Wraith before him. There was no other way; he just needed to kill these monsters as fast as possible.
+
+Calen fired again, as he continued to study the lay of the battle. Most of the melee had retreated to fight Artur the moment Thaldorien had taken to the air and began pulsing his devastating Lightning Novas. The only member of their group in the deadly range of the undead Elven King was Ali’s Divine Archon, swinging the Holy Avenger greatsword like it weighed nothing.
+
+Truly, it was incredible to see. All the ludicrous lightning damage was being countered by the pools of holy fire dropped by Mirianth – Ali’s kobold priest – and by the archon herself, but the fight was rapidly growing unstable as the Lightning Amplification mounted on their blazing celestial tank. Already, the healers were sweating in their robes, muttering and quaffing potions like candy. Calen sympathized with their sudden potion addiction.
+
+Unfortunately, the withdrawal of half the raid’s damage – all the melee – had greatly slowed their progress against Thaldorien. Sure, if they took him down, it would all be worth it, due to the extra damage stacked up on Artur Dragonsworn, but they were spreading their damage and forcing their group to withstand the full might of all three kings for far longer than their plans had accounted for. Poor strategy – but he saw no way around it.
+
+“Recharge is up,” Teagan shouted.
+
+“Bloodlust! All out! Take him down,” Lyeneru said, barking her orders in a parade-ground shout pitched to carry over the ringing clash of steel and the steady crack of lightning bolts.
+
+Instantly, the dark throne room was filled with the sounds of guttural primal chanting, an immensely disconcerting sound coming from Teagan’s throat, and glowing jade-colored runes grew from the shaman’s outstretched palms, springing into the air to wreath the brows of all the mages and healers with her powerful Primal Ritual.
+
+Blood burst forth from Joraa, a bloody crimson echo of Teagan’s spell, splashing cursed-looking runes upon all the melee and physical damage classes, anointing their faces with rivers of blood as their eyes grew crimson and feral.
+
+Calen responded in kind, igniting his mana with Righteous Fury and flooding his Motes of Light with nearly his entire mana reserve, beacons to grant additional light damage to everyone touched by their pulsing radiance. For the first time in ages, he gulped down a large mana potion, knowing he was buying extra damage for the entire raid.
+
+At that moment, in the cavern under Myrin’s Keep, the Mote of Light he’d left to keep an eye on Ali and Malika was snuffed out.
+
+“Shit. Ali…” he said. He had a second one, hovering above the battlements and sharing his damage bonus with the defenders, but if he moved it, they would lose out on the powerful aura.
+
+“We’re ok, Calen,” Ali’s kobold said. “Let’s kill this wraith.”
+
+“Right,” Calen said, downing an elixir of Greater Agility, and wasting the remaining duration of his previous elixir – a cost that barely even registered to him as he restructured his buffs for optimal effect. Then, he unleashed every arrow he could summon, every single one focused on Thaldorien Stormshaper.
+
+Roaring battle magic filled the air, and his Righteous Fury combined with Motes of Light turned every weapon and spell into a miniature sun. The shadow-shrouded throne room of the Blind Lich and his three dead kings lit up like high noon on a summer’s day. The deafening thumps of explosions and crashes of battle joined the blinding flickers and flashing, but Calen’s concentration did not falter for a second. Arrow after arrow flew forth, striking the wraith with all the precision and power he could manage. The time for subtlety was gone, but even enchanting every arrow to the hilt with damage, he still maintained his combat invisibility, thanks to his evolution, and nearly half his shots triggered Ambush.
+
+Suddenly, a vast sigh echoed through the chamber.
+
+“Release me… Release me from this torment…” Thaldorien moaned, his disembodied voice echoing through the darkly sparking remains of the wraith as they drifted down out of the smoke and crackle of mana to land softly like black snow upon the scorched crimson carpet below.
+
+The sifting dust that was all that was left of the Elven King of Dal’mohra, one of the most storied mages in history, crackled. Spherical pulses of dark lightning began to radiate from his remains, and even without Ali’s skills, Calen could tell they would need to continue to avoid his aura. Worse, bolts of dark lightning began to crackle out from the remaining two Death Knights, striking people at random.
+
+“Thaldorien is down,” Lyeneru announced calmly. “New target is Bragni. Target is a cleric; let’s have anti-healing debuffs. Don’t let your amplification go above thirty percent. Let the healers regenerate a little mana. Switch to Artur when you need to drop your amplification.”
+
+Instantly, the whole raid pivoted, with everyone running or flying over to the far corner where Mato was currently tanking the undead Dwarven King.
+
+“One down, Ali,” Calen said, as he shifted his aim. “Hang on, we’re coming.”
+
+The little kobold met his eyes and nodded before lobbing out a ball of holy magic that splattered against the ground, leaving a fresh puddle of consecration. “Let’s just make sure we’re prepared for whatever big surprises he’s left us.”
+
+Calen shivered. Yes. Right you are.
+
+Lira floated; her awareness carried aloft by the vast mana flow spilling out from her soaring branches to splash down upon the restored forest far below. Sap thundered up through her giant trunk, drawn up from the mana in such diverse, far-off places as Aalion and the Abyssal Realm. She had even spread her roots into Zulkora, supping on the rich nature mana that continually bubbled to the surface of that realm.
+
+At some point, she would need to study the implications of the vast concentration of dense mana she was creating by the mere existence of her World Tree. What would be the long-term effects on the ecosystems below? Or the low-level townsfolk in Myrin’s Keep? Would they grow to be healthy, or was her mana too dense? Already, the air was rife with nature wisps, but more than that, her mana was fertile grounds for spawning all manner of tree spirits. Mana-hungry insects and birds had been drawn from far and wide to make their homes in the branches of her forest.
+
+But studies would be a problem that could wait for later. Right now, she had work to do.
+
+She flexed her mana, marveling at the potency of her ascended class. Millennia of salting experience away had finally yielded fruit, and it was in no small measure thanks to Aliandra and her friends that she hadn’t lost everything. Several times. There had been many times she had deeply contemplated the folly of her chosen path – never quite tilting over into regret, but it had been close.
+
+With intuitive ease, she wove Authority into her spell, and across the entire forest, wood-sprites grew from oak branches, sprouted wings, and took to the air like a cloud of green dragonflies – sparkling wildly in the sunlight. It was all worth it now, and surprisingly not for the reason she had expected. She had spent so much time in solitude in the heart of her forest, choosing exile from societies and people, and yet the worth had come in the forms of Aliandra, Mato, and all the people she had come to connect with and love.
+
+Never too old to learn, she thought wryly.
+
+Now, she reflected, she worried for them. She feared she might lose someone, and still, she wouldn’t change it for the world. She might not be able to fight – directly – but she would not stand idly by while the armies of undead ravaged the living. With a thought, she directed her newly summoned creatures, elementals, sylvans, and tree spirits – each spilling softly pulsing auras of healing, oaken fortitude, and mental strengthening, to where they were most needed: to Myrin’s Keep and the many ravaged towns along the south road. Her armies of treants and spirits marched forth, taking advantage of Aliandra’s Gates to bring support magic to the most beleaguered defenders, desperately fighting to hold back the tides of the dead.
+
+From the dizzying heights of her canopy, she caught sight of a flicker of movement. Far down among her extended roots, a lone figure approached. The person carried an oaken staff but approached hesitantly. Lira smiled inwardly, for she could see and sense the touch of her own mana upon the girl.
+
+“Lirasia… are you here?” Kerrin called out, gazing up at the lowest of her branches before her eyes turned to stare at the parade of elementals and sylvans marching through the gate.
+
+Lira stretched, drawing herself slowly out of the wood and bark of her trunk to take a humanoid form, and beheld Kerrin with her own eyes. “Hello, dear,” she said. “What brings you to visit me?”
+
+“I want to help, but I don’t know how,” Kerrin said, her expression downcast as she scuffed her boots against the grass. “Aliandra said any advancements in knowledge and mastery skills could help her, but I’ve been studying all day, and I can’t seem to make any breakthroughs…”
+
+“And you came to seek my counsel?” Lira asked, gently prompting Kerrin to help the girl name her dilemma. Aliandra had to have told her about reputation, and she seemed eager to help, but advancing a skill was not a trivial matter. There were times, such as when one was already upon the threshold, where merely reading a book might be all that was needed to trigger the advancement, but that was hardly common.
+
+“Yes,” Kerrin said, looking up with clearer eyes and even an air of resolve. “Everyone is fighting or contributing. I want to do my part.”
+
+It was almost inconceivable for such a low-level druid to contribute to something as realm-shaking as a battle against the Blind Lich, and yet, Aliandra had found a way for it to matter. And where the highest-level classes would struggle, advancement for a low-level class was easier. It was only natural.
+
+“I may be able to help you, but you might find it a little disconcerting,” Lira said, hiding her amusement for a moment. It had been a while since Mato had last used Tree Meld to advance his class, and the first time was always disconcerting for non-sylvan beings. However, for someone like Kerrin, there would be no real danger, and diffusing her form into the mana-enriched sap of her tree would most likely accelerate her development greatly. Even better, dear Aliandra had so thoughtfully left her domain suffusing the entire area, including her World Tree, and imparted the extraordinary learning enhancement of her tithe to a substantial portion of her forest.
+
+She really is so thoughtful.
+
+“I’ll do anything,” Kerrin declared.
+
+“Oh, dear! You should not say such things to anyone, much less a deity class. You never know when they may have selfish motives,” Lira said to a suddenly wide-eyed Kerrin, who clamped her hands to her mouth in shock.
+
+Lira winked at her.
+
+“What I can offer you is something called a Tree Meld. You will be drawn into my World Tree and infused with my mana. It will feel very strange at first, but if you relax, it will feel a bit like meditation or a dream. The experience will allow you to partake of a small portion of my mana and it should definitely accelerate your trait development. It will be like an acceleration for your mentorship enchantment.”
+
+“Oh, can I try that?” Kerrin asked, her shock giving way to curiosity. “What do I do?”
+
+“Of course. Here, take my hand,” Lira said.
+
+The young Druid reached out eagerly and grasped her hand, soft, warm flesh meeting bark and sap, and then Lira drew her into the tree. To her credit, Kerrin only struggled briefly near the end, but once she found herself within the tree – and realized she had no need to breathe – her mind began radiating awe and sheer amazement.
+
+“Let’s begin,” Lira said, focusing her skills and mana on teaching, while tempering her instruction to match the fragile capacity of the novice druid’s fluttering mind.
+
+She will grow well.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,145 @@
+---
+id: 84b52769-9da0-58bd-bc1a-10d41ab5fd77
+page-type-slug: story-chapter-royal-road
+title: "Ch73 Survivors"
+slug: 0073-ch73-survivors
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 73
+ownLength: 1941
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3521795/ch73-survivors"
+royalRoadId: "3521795"
+---
+
+The enormous Black Iron Mountain that once towered in the sky slowly crumbles.
+
+There was a strong mystique that this mountain held as we approached, but now it feels as though its intimidating aura has been stripped away. Only a few perfect grade black iron cores remain scattered beneath it, while the central core of the inferior grade 2nd tier vein is now within my system storage.
+
+Massive avalanches crumble down and portions of the mountain collapse in on themselves.
+
+The six stacked earth mountain talismans I placed now stick out of the side of the mountain, like they have more structural integrity than the rest of the crumbling peak.
+
+Plumes of black iron escape into the air, and the shockwaves of fighting far off in the distance hit my senses.
+
+I still have a few attack talismans left, but nowhere near enough to confidently fight more blood demons.
+
+While there are no lingering eyes around, only an unconscious Lan Xin nearby, I pull out my Azure Lightning Attack Talisman, and the dull white jade sword token that is the core of a 2nd tier slaughter array.
+
+I pull out 10,000 spirit stones for one, and 42,000 for another. The piles rise up meters in the air with each artifact beneath them as they slowly drain the qi from these raw crystals.
+
+I sit down and eat a heavenly grade healing elixir myself.
+
+There are no severe injuries, but my fatigue and stress from this experience have worn me down. It is the first time I’ve taken one of these and not completely whited out. I’m able to meditate in a half conscious state, watching the world around me as my energy returns.
+
+The Azure Lightning talisman is recharged first, and about ten minutes later, my anchored qi sword slaughter formation resets to a fully charged state too.
+
+I pull them both into my storage, stand to my feet fully refreshed, and look out at the settled Black Iron Mountain about half as tall and majestic as it once was.
+
+In the back of my mind, I start cracking open storage rings from demons and organizing their loot.
+
+The thousands of blood qi pills and corpses of initial stage illusory demons all fall into my Azure Cloud Sect storage pouches and rings, ready to be handed in. I stow away the few thousand looted spirit stones, along with the Late Stage Blood Demons hidden in my system storage.
+
+They do not have anything interesting I have not seen before.
+
+The only valuable loot I find are the silver daggers the Phantom Lord carried. They were strong enough to stop low quality tier 2 qi swords from my slaughter formation, so my guess is they’re at least the same strength.
+
+When I hold them, they are extremely heavy and give off an uncomfortable headache inducing aura..
+
+The Illusory Demon’s corpse gives off an even more insidious pressure, capable of incapacitating late stage qi refiners. I can’t take it out long to examine, but it must be valuable too.
+
+Even though this storage ring is only a high quality Tier 1 item, it’s sealed with a foundation establishment aura. Even after his death as it dissipates, it takes me almost half an hour to crack open the imprint.
+
+Around the same time that I do, Lan Xin starts moving again, coughing up her own blood.
+
+Her pale face starts to show some color again, and she moans intermittently, moving around on the rocky ground to try and get more comfortable.
+
+I’m focused on what’s inside this ring. There are three small chunks of soul metal, much smaller than the one I gave Wang Ming, maybe a tenth the size. I pull them into my storage, and examine the Illusory Demon booklet he had on him.
+
+Unfortunately, after comparison, it’s not even as detailed as the one I upgraded myself looted off a low ranking illusory demon. Beside it, there is a formation and description for the blood sacrifice array that was created in the center of the mountain, along with a few thousand spirit stones and a map.
+
+I pull the spirit stones out, but leave the booklet, array, and marked map in the ring.
+
+There are tons of fortress names and landmarks with crimson circles and notes around them. They are probably marking other largescale traps like this one, but the names of the strongholds are foreign, and it holds no value to me.
+
+A loud groan comes out of Lan Xin’s mouth in the same moment, and she finally sits up off the ground. The serpent doesn’t come out of her soul, she just holds her head, and looks up at me with a strange stare.
+
+The young woman looks back toward the collapsed mountain, then at the storage ring in my hand.
+
+I toss it down to her, “If you’re going to claim to have killed the mastermind, you should at least have his loot. That map is probably quite valuable to whoever you report to.”
+
+She catches it and breaks my imprint to look inside, then nods and turns away with a dismissive and haughty posture. “Very good. I did kill the 10th level blood demon mastermind. You’re forgiven. I won’t mention what you did inside that mountain.”
+
+Lan Xin pulls out the illusory demon’s booklet, and burns it to ash in her hand with yellow fire, and stows away the ring.
+
+I let out a sigh, but tighten my gaze at the base of the mountain where a small squad of two dozen Azure Cloud Sect cultivators slowly approach.
+
+They’re all badly beaten. Some missing limbs and covered in blood, but I recognize a few, so I raise my hand to wave them down.
+
+Only 3 squad leaders, and two vice captains are present in green outer sect robes.
+
+Mu Shulan’s green feathered eagle flies above them in the clouds, while the small brown haired woman sits on top of Wang Ming’s bear, hugging the former fat man’s arm and looking up at him.
+
+Wang Ming looks exhausted, but upon making eye contact with me, relief washes over him and he shows a wide smile.
+
+He bows with his hands clasped while approaching.
+
+Bao Zhan picks up on these subtleties. However, Yun Renshu, Old Liu, Old Chu, and two other elderly stewards behind him are covered in wounds and blood, oblivious of everything that is going on around them.
+
+Old Liu is missing an arm, and Old Chu has a demonic claw mark through his eye. It is slightly shocking to see such horrific injuries on them. Another dozen or so stewards from random squads trail behind, and many of them have it even worse, pale and on the verge of death.
+
+Lan Xin straightens her back and takes a few steps away from me to welcome the survivors.
+
+She pulls out a communication talisman, and directly contacts the higher ups that have sent us on this mission.
+
+“Black Iron Mountain has been captured by me, Lan Xin. All mid stage qi refining demons, Late Stage qi refining Demons, and the perfected stage blood demon mastermind have been exterminated. The central collection of perfect grade Black Iron Cores have been secured beneath the mountain. Our casualties are extremely high. My full squad was wiped, and so were many others. The only remaining captains left are myself, Bao Zhan, Wang Ming, and Mu Shulan. Please send back your next orders.”
+
+The line goes silent for a few seconds, and Lan Xin still does not directly greet the approaching group.
+
+A rough old man’s voice replies through the talisman after, "Good work. Continue to secure the mountain, we will send new squads in to help fortify its borders once the manpower is available. There have been multiple large scale ambushes this morning, you’re one of the first to even manage a call back… The Azure Cloud Sect has lost ground.”
+
+The line goes silent again, and everyone that overheard this tenses up.
+
+Half a minute later, a new man’s voice calls through the talisman, “There are some inconsistencies with your report. The Black Iron Mountain vein was classified as an inferior Tier 2, and there was a high value squad member on your team, Jiang Ran. What are the reports on these matters?”
+
+Lan Xin finally looks at the man on top of the brown bear.
+
+Mu Shulan looks at this fiery woman with pleading eyes. Lan Xin turns her head away again and smirks. “Your man may not be as useless as I thought Mu Shulan...”
+
+She then glances at me, and clicks the communication talisman again. “There was no Tier 2 Black Iron Core. It must have been excavated by the Demons before we arrived… and Jiang Ran? I watched him self-destruct while fighting a 9th level blood demon, it was the only way he could contribute to the battle. Everyone else that made it into the center of the mountain died.”
+
+“Understood, Lan Xin, report received. Your sacrifices in this war have been noticed.”
+
+She stows away her talisman, scans us all with a fiery gaze, and walks away. “You’re welcome.”
+
+Once behind the black iron boulder nearby, and out of everyone's sight, my spiritual senses are still strong enough to watch her collapse, hold her chest in pain, and cough up blood.
+
+Her minor soul fracture is far from healed, but she still puts on a prideful and arrogant front before these squad captains for some reason.
+
+The mix of complex gazes from everyone that has approached makes me even more unsure of her relationship with everyone here.
+
+Old Chu looks up past Bao Zhan, and right at me, then at the spot where Lan Xin was standing a moment ago.
+
+He pulls a small magazine from his storage pouch, and begins rapidly flipping through it with his one good eye widening more and more. I recognize that magazine, as one of the stewards I killed a long time ago had a similar one.
+
+It was filled with pictures of cultivator women, but I never examined it too much.
+
+Old Chu stops on a page and yells out, “That- That was really Lan Xin. The third ranked beauty of the Azure Cloud Sect… I can’t believe I saw her in the flesh!”
+
+A few of the other stewards shake themselves out of their trances, as they were stuck in glassy eyed stares. A few pull out magazines of their own, and others crowd around Old Chu, completely ignoring me.
+
+However, Bao Zhan runs forward, and murmurs, “That wasn't what happened in there at all… was it?”
+
+I shake my head, “Not exactly… but like Green Rock Lake, it is complicated…”
+
+–
+
+Everyone settles down to make a small campsite. Bao Zhan circles the mountain every hour, and Mu Shulan takes to the skies to survey the mountain from above and report back.
+
+Lan Xin and Wang Ming both cultivate in private, healing their injuries. I hand out some of my extra low grade healing elixirs to the stewards that need them most, and time passes quite quickly, becoming mid day with the noon sun high in the sky.
+
+After reporting the exact number of survivors on each team, we’re only ordered to wait by higher ups in a busy tone, and the communication talismans have gone completely silent.
+
+Not even a single illusory demon is found for hours, and most of us begin to relax quite a bit.
+
+That is, until the hot sun beating down on us starts to dim. An extremely cold breeze comes in from the east, and the sky starts to darken.

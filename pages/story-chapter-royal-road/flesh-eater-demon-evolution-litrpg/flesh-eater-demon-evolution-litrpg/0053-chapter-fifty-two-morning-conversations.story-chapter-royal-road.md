@@ -1,0 +1,187 @@
+---
+id: 7f5e2ba8-dd63-53bf-aa5b-aba7dd2064ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Two: Morning Conversations"
+slug: 0053-chapter-fifty-two-morning-conversations
+partOf: flesh-eater-demon-evolution-litrpg
+position: 53
+ownLength: 2641
+unit: words
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2906670/chapter-fifty-two-morning-conversations"
+royalRoadId: "2906670"
+---
+
+According to the all-important schedule that Harris had given her, Pyre was supposed to begin guarding Daphne bright and early at five in the morning. Now, she was no expert on noble routines, but that seemed awfully early to her. Either Daphne woke up super early, or the person who made the schedule was extremely paranoid. Maybe a bit of both.
+
+Ah well, it wasn’t like she needed to sleep anyway. Pyre shoved the schedule into her pocket, then made her way over to the noble’s room. One benefit of starting early was that she didn’t run into many people besides the head butler—John, apparently—who gave her another spiel before sending her off.
+
+This part of the manor was even more quiet than the servant’s wing had been. Pyre only passed by one other guard doing rounds before reaching Daphne’s bedroom. The door was shut, and it didn’t sound like anyone was awake inside.
+
+So the second theory was the right one, then. Good to know. She could use this time to search the manor for the key, but since this was her first official day, she figured she should play it safe today. The other guards would definitely be keeping an eye on her.
+
+With that in mind, Pyre stepped to the side of the hall and settled against the wall to wait.
+
+A few hours later, the demon heard some muffled rustling through the door. This was followed by a light thud as Daphne presumably got up.
+
+By now, the sun had fully risen, and the morning sunlight streamed through the windows lining the hallway. There were a lot more servants around now, and Pyre’s theory about them keeping an eye on her was right. Pretty much every butler, maid, and fellow guard who walked by would spend a few seconds longer than necessary staring at her before looking away. Some of them at least hid the staring with a nod or greeting, but others were way less discreet, much to her amusement.
+
+Some more ruffling and clicking noises emanated from beyond the door. Pyre heard soft humming accompanied by the distinct sound of a hairbrush being pulled through tangled hair. The demon was a little surprised Daphne was getting ready herself, to be honest. She’d figured a noble would have maids to dress her or something, but maybe she’d requested not to have them. From the little Pyre knew of Daphne, that didn’t seem too out of character for her.
+
+After about another hour or so, the doorknob finally turned. With a soft creak, the bedroom door swung open. The sound was promptly followed by a much louder shriek.
+
+“What the fuck!”
+
+Pyre glanced back from her current spot where she stood leaning casually against the wall. She raised an eyebrow.
+
+Standing in the doorway, Daphne looked about the same as she had the previous night. Her wavy red hair glowed like fire in the sunlight, and she looked impressively put together for the hour. She’d also jumped back a solid foot after opening the door and seeing the guard, and she looked like she was one second away from firing a magic blast at her or something. At least, she was pretty sure that was why the noble was holding one finger up in front of her like a gun.
+
+“Good morning to you too,” the demon drawled. She paused, then remembered to add “Lady Daphne” to the end. John had extra-emphasized that during this morning’s lecture.
+
+Daphne frowned and lowered her hand. Her brows furrowed with a mixture of annoyance and faint relief that it was just Pyre and not some rando murderer or something. Not that a demon was much better than the latter, but it wasn’t like the noble knew that.
+
+“…How long have you been standing out there?” the human said suspiciously.
+
+“How long?” Pyre glanced down the hallway at the ornate clock hanging on the wall, then back at Daphne. “About three hours.”
+
+“Three hours?” A little bit of mortification joined the irritation on the noble’s face. “You’ve been standing out there for three hours listening to me sleep?”
+
+“I mean, I can’t really hear anything through the door.”
+
+Daphne sent her an unimpressed look. She cleared her throat. “Well, from now on, you don’t need to be here before eight.” There was just a hint of authority in her voice, the kind of natural command that very much screamed “born noble.” Pyre started to nod, then remembered to bow instead.
+
+When she straightened, she found the noble scrutinizing her. The irritation had faded, but it was replaced by the same suspicion that she’d seen the previous night.
+
+“I’m guessing you’re going to be follow—guarding me for the rest of the day?” she said.
+
+“According to my schedule, yes.” Pyre gestured down the hallway in the direction of the dining hall. Reminding Daphne of her own schedule was apparently another part of her duties. “Breakfast should be ready for you now.”
+
+Daphne gave the demon another long look, then nodded. She cleared her throat and stepped forward, pushing past the guard to make her way down the hallway with her head held high. Pyre watched in amusement before following a few paces behind her.
+
+The dining hall, if possible, looked even more massive in the morning light. Part of that was probably helped by the fact that they were the only people inside save for the steaming plates of food laid out on the table. Pyre hadn’t actually seen Lord Bellhein all morning, now that she thought about it. He must’ve eaten already. Daphne didn’t seem surprised to be dining alone, so she figured this was probably a regular occurrence.
+
+Daphne took a seat near the head of the table and picked up a fork, glancing over at Pyre as she did so. “Have you eaten already?” she asked.
+
+“Yeah, I ate in the servant’s hall earlier.” That was a lie. She hadn’t eaten shit, and in fact she’d told John that she’d be eating later in the day. The differing shift times made it a lot easier to bullshit her way out of fake eating compared to the garrison.
+
+Daphne nodded at that, satisfied, and began eating her own breakfast—some sort of fancy egg dish that apparently required multiple sizes of forks to consume.
+
+For a while, there was nothing but the clink of silverware and an occasional pause when Daphne took a sip of her morning tea or ate one of the pieces of fruit arranged in a flower-shape on another plate. Pyre remained standing a few feet away the whole time, content to keep silent.
+
+When Daphne was about halfway done with her food, she suddenly spoke.
+
+“So,” she began casually, “you met with my uncle last night.”
+
+Ah, right, that. She’d almost forgotten about their “agreement.”
+
+“I did,” Pyre confirmed. She could tell Daphne was waiting for more, so she kept going. “He didn’t say much. Just welcomed me to the manor and made me swear to protect the Bellheins.” She paused, considering, then added, “And he brought up the empire maybe crossing the Spine and invading soon.”
+
+Daphne’s lips thinned, but she didn’t look particularly surprised.
+
+“I guess you already know about that,” the demon continued casually. Daphne nodded and stabbed her fork into another bite of egg.
+
+“I overheard a meeting,” she said darkly. She shook her head. “That was really it? Nothing about watching me?”
+
+“Nope. He just wanted to make sure I’d protect you ‘no matter what.’”
+
+Daphne’s shoulders slumped slightly. “I see.” She picked up her knife and began cutting the last bit of the egg dish into bite-sized pieces, which seemed more like an excuse to continue thinking whatever she was currently pondering. Pyre couldn’t tell if she was disappointed or relieved that her uncle hadn’t sent a spy after her. Maybe both.
+
+Finally, after Daphne was done cutting and set down her knife, she turned to the guard again.
+
+“Tell me about yourself,” she said abruptly.
+
+Pyre raised an eyebrow. “That an order?”
+
+Daphne snorted. “I just want to get to know you better. You know, since apparently you’re going to be around all the time now.”
+
+That made enough sense to the demon. Plus, she had a fake backstory for this exact reason. “Well, what do you want to know?”
+
+“You were born in Drovna, right? I saw your file.” Daphne’s eyes were intent, and Pyre had the distinct feeling that she was being scrutinized. She was used to it by now, though, and maintained a casual tone and posture.
+
+“Yeah, I am. I’m from a village near the Shards. You wouldn’t know it.”
+
+“Do you have any family?” The noble sounded curious.
+
+Pyre opened her mouth to say no, but paused at the last second. Callan’s face popped into her head unbidden, but she didn’t think the ghost counted. She wasn’t sure why the thought had even occurred to her to begin with. Either way, for fake backstory purposes, it didn’t really matter.
+
+“Nope, it’s just me.”
+
+Daphne squinted at her. Whatever theories she was coming up with, she didn’t voice them, so Pyre didn’t comment more on the subject either. Better to let the noble draw her own conclusions.
+
+“Why did you leave Drovna to begin with?”
+
+In response, Pyre pointed at the bandages wound around her neck. This whole conversation was reminiscent of the ones she’d had with Declan at the garrison, but the cadet had been comparatively way less skeptical. She probably couldn’t get away with fake-Drovna-fact-trolling Daphne, unfortunately.
+
+“I’m guessing you already know,” the demon began, “but I’m ichor-poisoned. Turns out growing up near a bunch of concentrated ichor isn’t the best for your health.” She shrugged. “I didn’t have anything tying me down to the village, so I figured I’d head south. Maybe save some of my flesh from melting,” she joked.
+
+Daphne’s mouth quirked up at that. Ichor-poisoning jokes were a go, then.
+
+“So you’ve been to Drovna and Auren. Anywhere else?”
+
+“I stopped by Ravarn for a bit, but not for long. I’m definitely not the most well-travelled person out there or anything.”
+
+“More well-travelled than me,” Daphne pointed out. She stabbed her fork into her forgotten eggs, which were probably cold by now. Absently, she pointed a finger at the tip of the utensil and made a small circular motion. The metal promptly glowed red for just a second before returning back to silver. A line of steam rose from the newly-heated eggs.
+
+Pyre’s eyebrows rose. So she’d been right about the finger gun earlier being a potential “fuck off” spell. Daphne must be a mage like Callan, though she didn’t think she’d ever seen Callan use magic so casually before. The ghost’s spells usually involved chants and sometimes runes, but it looked like Daphne didn’t use those. At least not for minor spells. Maybe it was a difference in magic-schools or something, assuming there were different kinds of magic.
+
+“You’ve probably been to some interesting places,” Daphne continued. Maybe the demon was imagining it, but she thought she detected a hint of longing in her voice.
+
+“Eh, there’s good days and bad days. Most of the time all I saw were a bunch of trees.”
+
+Daphne glanced up at that, raising an eyebrow. “And the other times?”
+
+Pyre thought back to Fred’s giant corpse lying in the center of the hollow hill, the giant bolts of lightning shooting through the Lightning Pass, and even the ichor-warped plants and animals in the Fred Zone. That probably counted as pretty unusual, even in this world.
+
+“Oh, you know. There’s some wild stuff out there.”
+
+“You’re being vague on purpose,” Daphne accused, pointing at the demon with her fork. Pyre grinned.
+
+“Maybe.”
+
+“Uh-uh, you’re not getting out of this that easily.” Daphne’s brown eyes sparkled, and she leaned forward eagerly. “What’ve you seen?”
+
+Pyre gave the noble a long look. Finally, she cocked her head. “How about this,” she began. “I’ll tell you one of the places I’ve been, and you tell me about yourself. I’ve been the only one talking so far,” she said, amused.
+
+Daphne blinked. “I’m not really that interesting, though.”
+
+“You’re a noble. That’s pretty different from me.” A noble whose family collected rare objects, to be exact—one of which she needed.
+
+Daphne nodded slowly. “Okay, but you start.” She was still wielding the fork like a weapon, much to Pyre’s amusement. To be fair, if she could heat the thing up by pointing at it, it probably could become a decent weapon.
+
+“Well, when I was in Ravarn, I traveled through the Lightning Pass to get to Auren.” Out of all the stuff she’d seen, that seemed like the safest to talk about. Plus, it had the most pre-baked “lore” around it, if what Callan had said was to be believed, so it would probably get a good amount of interest.
+
+Her suspicions were confirmed when Daphne’s eyes lit up in recognition.
+
+“Was it as stormy as people say? I always thought the stories had to be exaggerated.”
+
+“Oh, it was worse. The lightning was nonstop, and some of it even travelled horizontally.” She cocked her head. “Before crossing, I heard some villagers in Ravarn talking about it, actually. They said a demon living deep in the Gravestone Mountains was the one throwing lightning everywhere.”
+
+Pyre studied Daphne’s face for a flash of recognition, but her eyes just widened with a normal amount of surprise. Either the Bellheins didn’t know where the horn had come from when they bought it (entirely possible if it had been sold a few different times from the original village), or Daphne specifically didn’t.
+
+The latter wouldn’t surprise her. It sounded like the Bellheins regularly bought random “rare” shit, and it was probably Lord Bellhein who’d purchased the horn. Daphne might not even know the horn existed—it was just another item in the manor gallery to her.
+
+“A demon?” The noble sounded both morbidly curious and somewhat excited. “Seriously?”
+
+Pyre shrugged. “That’s what they said. I didn’t see anything myself, but some of the lightning definitely wasn’t natural.”
+
+Daphne looked sufficiently intrigued, so Pyre directed the conversation back to her. “Okay, that’s my end. What about you?”
+
+The human frowned. “There’s really not much to say,” she said. She stabbed the last of her eggs. “I’ve always been stuck in Magrath. I haven’t seen anything compared to you.”
+
+“Tell me about your life in the manor, then. You know, so I know how to be a good guard,” Pyre added jokingly. Daphne snorted at that.
+
+“It’s not much, really. My parents both died in an accident when I was little. I can’t even remember them.” She shifted in her seat. “It’s always just been me, my uncle, and Edmund. Edmund’s my cousin,” she added. She smiled. “He’s more like a brother, really. We grew up together. He’s kind of awkward, but he’s a good guy.”
+
+“He’s away right now, right?” She vaguely remembered Harris mentioning something like that.
+
+Daphne nodded, and some of that earlier irritation returned to her face. “He’s in the capital for a meeting with the war council. Uncle usually sends him since he doesn’t like to travel,” she mocked. The sarcasm was practically dripping off her words.
+
+Pyre raised an eyebrow. “Really? I didn’t see him around, so I figured he must be away or something.”
+
+“He doesn’t like to leave Magrath,” Daphne corrected. She snorted. “He’s probably at the sanctum overseeing the construction again. He hasn’t been in the manor much lately.”
+
+It sounded like a great time to search through the man’s office for the gallery key, then. She’d have to wait until nightfall to do that, though.
+
+“Guess that means more room for you,” Pyre said. Daphne smiled at that.
+
+“Yeah,” she said. “I guess so.”

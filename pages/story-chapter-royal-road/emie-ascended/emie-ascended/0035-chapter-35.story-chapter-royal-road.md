@@ -1,0 +1,169 @@
+---
+id: 693dcc83-bf46-5463-aaaf-5ea882c8eb41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35"
+slug: 0035-chapter-35
+partOf: emie-ascended
+position: 35
+ownLength: 2606
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3590462/chapter-35"
+royalRoadId: "3590462"
+---
+
+“Was there a lot of interest in your healing skill, or was it mostly about your ability to teleport?” Cora asked as we made our way to the City Lord’s manor just outside the secondary gate.
+
+The large home was surrounded by lush gardens that would have seemed out of place on the opposite side of the Dungeon Complex. However, within the affluent neighborhood of the secondary gate, the sight was hardly noteworthy.
+
+The manor itself was significantly larger than its neighbors, making it clear that those who resided within were of great standing.
+
+“Surprisingly, a little more than half of the inquiries and invitations seemed to be focused on my healing skill. The rest mentioned my ability to teleport or alluded to my spatial skills. I’m pretty sure a couple know, or at least suspect, my background as a Space Magi.”
+
+“Do you think any of them know about your title?” she asked, carefully avoiding the word ‘Originator’ since we were in public.
+
+“Maybe?” I said with a shrug before smoothing the bodice of the new dress I’d picked up for the luncheon.
+
+Though I didn’t necessarily care for such things, I understood the importance of appearances. I was also somewhat pleased at the deep, royal blue of the dress I was wearing. I couldn’t remember the last time I’d worn something dressy that wasn’t black, white, or purple.
+
+“I’m sure some might suspect my status, considering the dungeon’s obvious elemental leanings, but none outright stated anything,” I continued. “They were mostly just invitations to discuss potential opportunities.”
+
+“Did you get messages from the Enchanter Guild and the Healer Guild, too?”
+
+“Yes. Both sent a letter of congratulations and a reminder to remember to officially join both organizations.”
+
+“I got one from the Alchemy Guild, as well,” Cora stated. “I thought I was already a member when I became an apprentice, but I guess you don’t officially join until you reach the first evolution and take an assessment.”
+
+I was pretty sure I wouldn’t have to take an assessment to become a full member of either guild, given my experience. It was likely different for Cora since she was still a newcomer to her chosen field.
+
+“Even Mike?” I asked, glancing toward the Earth Magi walking behind his wife.
+
+“Even me,” he replied. “I already took care of the paperwork, though. As of today, I’m officially a full member of the Builder Guild.”
+
+Stephen had also gotten a similar letter from both the Leatherworker Guild and the Association of Armorers. The latter was less formal than the guild, but he’d seemed happy enough to have gotten an invitation to join them.
+
+While guild or association membership wasn’t officially required to practice any particular craft, selling crafted items was often much more difficult without the appropriate organization’s seal of approval.
+
+There were obviously tons of ways that such a setup could be abused, but there were going to be things like that no matter what system was in place.
+
+“Welcome, Ascenders!” a man wearing this realm’s version of a butler uniform greeted us before we even reached the door. Clearly, he’d been waiting. “Please come inside. You are right on time.”
+
+We were led through a sparsely decorated foyer. The lack of clutter made the space appear much larger and highlighted the few pieces that were on display.
+
+We followed the butler down a long hallway decorated with hand-painted canvases depicting a variety of scenes – likely those reflective of the City Lord’s history, given the contents.
+
+The butler led us to a sitting room and asked us to make ourselves comfortable. He assured us that the City Lord would greet us shortly, then disappeared.
+
+We’d all expected something like this since it seemed illogical to expect the City Lord to be sitting around waiting for us. We had no idea how long we’d be made to wait, but I hoped it wouldn’t be very long.
+
+To my surprise, only a few minutes passed before the butler returned and guided us to a small, informal dining room.
+
+“Welcome! Please be welcome at my table, fellow Ascenders,” the City Lord said.
+
+He was taller than most Dians I’d encountered, and considering his status as an Ascender, I knew that his towering frame was by design.
+
+Interestingly, the man had ombre hair that started pale silver near the roots and gradually shifted to metallic blue at the tips. His eyes looked like an ocean filled with silver flakes.
+
+Such physical manifestations were a clear sign of his advanced evolution, and I didn’t even need to Identify him to know that he was extremely powerful.
+
+To his right sat his wife, Alora. She was a beautiful woman with light pink hair and pale blue eyes. Based on her appearance alone, I guessed that she was likely only at her second evolution.
+
+I was almost certain neither would know if I used Identify. However, I was equally sure I would get little to no information back from such use. Even if it might help the skill progress, I didn’t want to risk the possibility of offending such powerful individuals, especially not when one of those was the City Lord.
+
+There were four additional chairs placed at the table, though it was large enough to easily accommodate another six.
+
+I left the seat to Lord Jaxon’s left for Mike, opting to sit next to Alora. Cora sat across from me, and Stephen took the remaining seat on my other side.
+
+“Before the food is served, allow me to introduce myself and my wife. I am Jaxon, Ascender City Lord of Sorenguard. I originally hail from Graven, an inconsequential realm that has produced few Ascenders since its inception.
+
+“My lovely wife is Alora, another Ascender, though she is originally from Jorges. I believe one of your cohort is also from the same realm, so you may already be familiar with it.”
+
+“Aribella,” I confirmed. “She told Cora and me a little bit about Jorges. She said it had guilds that ran like corporations and were basically only interested in extracting whatever profit they could get from the rifts that appeared.”
+
+“That sounds about right,” Alora said. Her voice was a lot softer than I would have expected for an Ascender. “It is a harsh realm – one in which it is difficult for those without advantages to succeed. I happened to be lucky in my birth, which granted me more opportunities than most.”
+
+“What about you all?” Jaxon asked. “I’ve read information reports on all of you, but I’d rather get information like this from the source.”
+
+This time, his focus seemed to be directed at Mike and Cora, which made sense considering he was the party leader.
+
+The couple shared a little about their background and their current roles before the focus shifted to me.
+
+Following their lead, I shared some of my background, mentioning that I’d grown up on a world without mana, only to be introduced to the system in my early twenties. I mentioned awakening dual affinities and drawing the eye of a very strong mentor who happened to be the Sect Leader of a fairly well-known sect.
+
+I did not mention which affinities I’d awoken, nor did he ask.
+
+I explained a little bit about the Realm Dungeon and how I’d ended up entering it as a sect elite, though I left out the more personal reasons that I’d made such a decision. Since most of the rest of my life was spent in the dungeon, I didn’t have much else that I felt was relevant to share, and the City Lord didn’t push.
+
+Stephen openly shared the fact that he was a shapeshifter with the City Lord and how that had impacted his progression through his previous realm.
+
+We’d talked about whether or not he should share his ability, and in the end, he decided it was better to be open about it instead of trying to hide it. After all, it was only a matter of time before we encountered someone in the dungeon who witnessed him changing forms or saw enough to figure things out.
+
+“Outstanding. Your party is an exceptional example of the kind of strength that Ascenders bring to Dia,” City Lord Jaxon said as he motioned for the servants to begin bringing the food. “I have heard that you are all interested in traveling the realm. Is that correct?”
+
+My teammates and I shared a complicated look as small, delicious-looking appetizers were delivered to each of us. While we hadn’t openly shared our plans to leave the city and explore the massive planet that comprised most of this realm, we also hadn’t particularly hidden such plans, either.
+
+“We are,” Mike said. “However, it will probably be a while before we amass enough funding to support such travels. There is also still a lot to see in this city, not to mention new floors of the dungeon to explore.”
+
+“This is true, but with two members of your party having the Teleport skill, it’s not like you cannot return at will,” Jaxon pointed out with a knowing smirk before placing the entire hors d’oeuvre into his mouth.
+
+He was very well informed, especially since I was almost certain that none of us had shared the fact that Stephen had the Teleportation skill.
+
+He almost had to have had someone use a high-level inspection skill on us to learn such information. That meant he likely knew, or at least suspected, the truth about my own skills.
+
+And my status as the dungeon’s Originator.
+
+“Further, given Emie’s status as a Space Magi, I’m sure you won’t have any trouble moving between cities soon enough,” the City Lord added, verifying my assumptions.
+
+He waited for each of us to try the small dishes before nodding toward the serving staff to signal the next course.
+
+“Why do you think that I am a Space Magi?” I asked, neither denying nor confirming his statement. “Just because I had an affinity for Space magic in my previous realm doesn’t mean that I am capable of using such magic without the system’s assistance.”
+
+City Lord Jaxon smiled and leaned back in his chair as a small bowl of soup was placed in front of him. Similar bowls were soon delivered to the rest of us as well.
+
+Knowing just enough about noble dining not to completely embarrass myself, I waited until the head of the table tasted the dish before trying it for myself. Like the appetizer, it was delicious.
+
+“While that is true, two of the five skills you acknowledged during your initial registration are space-based. You had both an Inventory and Teleportation. And while you are not the only Ascender with an inventory,” he said, glancing at Stephen momentarily before returning his gaze to me. “You are the only one who admitted to having a second space-based skill from the onset. Regardless, I am not in need of the services of a second Space Magi, especially in a city with a space-based Ascender Dungeon.”
+
+His expression was pointed, like he was making it clear he knew that I was the Originator of said dungeon.
+
+“What are you in need of?” Mike interjected. “Surely, there is more to this lunch than getting to know us.”
+
+“I wouldn’t say I’m in need of anything in particular,” he replied nonchalantly. “This meeting was my wife’s idea and was more about meeting all of you than anything. As fellow Ascenders, my wife and I feel it is only right to help out where we can.”
+
+The pink-haired woman sitting next to him nodded in agreement. “He’s right. A lot of Ascenders find it difficult to adjust to a new realm after potential millennia in their old realms. Going from the peak of power to starting all over is hard. It is not uncommon for some to simply give up as soon as they reach the first evolution.”
+
+I could certainly understand how that might happen, especially if the Ascender in question hadn’t known they would be effectively starting over once they arrived in Dia. Thankfully, Priest Zeth had assured me that ascending from this realm would not result in the same loss of power.
+
+I still didn’t know if I wanted to climb to the pinnacle and ascend again. However, had Zeth claimed I’d have to start over in the next realm as well, I knew for a fact that I wouldn’t have the heart for it.
+
+“I personally struggled with finding the motivation to keep progressing after arriving in Dia,” Alora continued. “I felt like I’d been cheated out of some kind of reward by having all of my hard work disappear.
+
+“It made it hard for me to want to put in the effort to struggle through the levels again, just to risk losing everything at the end. If it wasn’t for my party, I would have probably fallen into stagnation before I could reach steel rank.”
+
+“Where is your party now?” Cora asked curiously.
+
+“They’re here in Sorenguard. We all moved here together when Jaxon took over as City Lord. Jaxon and I were together at that point, and the party agreed to move here since the dungeon could support us.
+
+“We were about a century into our third evolution at that point, so we still have several hundred years before we reach the fourth evolution. We initially planned to spend it here before eventually heading to a city with an Ascender Dungeon when we got close to the next evolution, but obviously, there is no need to move anymore.”
+
+The last sentence was said with a soft smile toward her husband. While I couldn’t be sure they weren’t just putting on a show for us, it seemed like they genuinely cared for each other.
+
+“So, this is just about getting to know us, then?” I asked, not quite believing the claim.
+
+“Yes. We would have reached out earlier, but there are rules limiting contact with unevolved delvers,” Alora said.
+
+“Especially Ascenders,” Jaxon added. “The goddess is really strict about such things since Ascenders have the highest potential to reach the next realm. She doesn’t want anyone interfering. Even now that you’ve reached bronze rank, we are limited in the kinds of contracts we can make with you.”
+
+“Do you plan to contact every Ascender who reaches the first evolution from this dungeon?” Mike asked, causing Alora’s expression to twist slightly.
+
+“Not every Ascender,” she said with something very close to a sneer. “Some don’t deserve any additional advantages.”
+
+It was clear Alora had strong feelings about at least one of our cohort, and those feelings were not particularly positive.
+
+“So, is that what you’re wanting from us?” I asked. “You want us to form some kind of contract with you?”
+
+“No,” Jaxon replied firmly. “Don’t get me wrong. We’re willing to sign all four of you as retainers if that’s what you want. The terms can be very loose to ensure there is limited interference with your progression and your other responsibilities, but that isn’t the goal here.”
+
+Making eye contact with each of us, the City Lord said, “You each have at least one guild you are working with. My best advice to you right now is to leverage those connections to buffer you from anyone who might be inclined to take advantage of your current weaknesses.
+
+“Guilds are excellent shields. If you find yourself needing more, you are welcome to reach out and we will help where we can. Otherwise, Alora and I simply wish to maintain a friendly relationship with the four of you.”

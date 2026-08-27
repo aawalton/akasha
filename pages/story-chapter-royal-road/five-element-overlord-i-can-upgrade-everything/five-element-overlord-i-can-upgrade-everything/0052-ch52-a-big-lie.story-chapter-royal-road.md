@@ -1,0 +1,107 @@
+---
+id: 5d60948e-02ce-5dc3-8559-e24e1c2d729c
+page-type-slug: story-chapter-royal-road
+title: "Ch52 A Big Lie"
+slug: 0052-ch52-a-big-lie
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 52
+ownLength: 1576
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3388295/ch52-a-big-lie"
+royalRoadId: "3388295"
+---
+
+On my way back to the steward quarters, I formulate every possible excuse I can think of in my mind.
+
+Instead of the late stage of level 1, I allow my aura to seep out to show the initial stage of level 2. Then, I let my cloak fall into my system storage and move an assortment of items into my steward’s pouch that were not there before.
+
+With Little Red perched on my shoulder, I walk out of the shadows and straight into the dining hall, toward the counter at the back. There is an unusually long line today, and it looks like no one is picking up or dropping off anything. They are only pressing their steward’s tokens against a small jade ledger.
+
+When it’s my turn, the steward pushes the tablet forward with a practiced movement, and I follow through to tap my token, but his eyebrows rise once information begins shifting on it before him.
+
+“This is your first check-in since the lockdown started? How is that possible?”
+
+His eyes dart up and down the tablet, then he pulls a communication talisman out from his robe.
+
+“I have a lead, please send an Outer Sect disciple here immediately to handle this breach of the lockdown ordinates.”
+
+I open my mouth to speak, but the steward points to a small door a few paces away, releasing his 3rd level of qi refining aura. “Do not make this harder than it has to be, Li Hao. Wait in the containment room for the higher-ups to arrive. If you are innocent, then there is nothing to worry about. I’m only following orders.”
+
+I look around the dining hall as many stewards step back.
+
+“That’s the new teenage steward that came in a few months ago. I heard he was only level 1, that’s a level 2 qi refiner’s aura coming off of him.”
+
+“Yeah, wasn’t he reported to have 9th grade roots? How could he progress so fast?”
+
+“Is that a flame toad on his shoulder? Those cost more spirit stones than I could make in a lifetime as a steward. Does he have a clan outside the sect sending him resources? Who is Li Hao?”
+
+Rumors start to be whispered around the room, but I pay them no mind, slowly nodding and walking toward the door at the back of the hall.
+
+Inside, there are no windows and no decorations on the walls. It is just a plain room with three wooden stools. A click sounds as the steward in charge closes the door behind me.
+
+I let out a sigh and sit down.
+
+The whispers about me fade quickly, and the sound of many stewards returning from their daily routes echoes outside. They are all quite accustomed to this check-in process, as from what I can tell, it’s been going on now for almost a week.
+
+No stewards seem to know why; all of the theories they speak of contradict each other.
+
+It takes just under an hour for the only door in this room to click open and for two familiar faces to walk in.
+
+The green-robed 6th level qi refiner Gu Shan of the Outer Sect, and the black-robed 10th level qi refiner of the Law Enforcement Hall, Lu Fayun.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[He has become obsessed with finding the connection between the Flaming Black Lotus and the Purple Female Warrior in search of clues to why his grandfather has still not returned from the west. A large amount of Outer Sect disciples from the Recruitment Peak have been tasked to search the Ravine due to his orders.]
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[Has been tasked by the Captain of the Law Enforcement Hall to make sure there are no holes in the Western Border. Has been promised a healing elixir once the immediate Blood Sword Sect threat is dealt with, so is increasingly strict with his searches and questioning lately.]
+
+Text windows cover my vision as the door shuts behind these two, and they stare down at me.
+
+I begin to realize that while I was breaking through, there really must have been some kind of visible event that the Black Lotus Flame Fragment’s assimilation into Little Red created, similar to Xu Hong’s… However, the tension is lifted once I see the Vice Captain of the Law Enforcement Hall’s secret. The increased security is only partially because of me.
+
+Lu Fayun speaks first in a low, demanding tone, “Where have you been off to for the last eleven days? It says in your file that you’ve applied for breakthrough leave, but you disappeared for over double the time allotted… plus, you’ve reached a higher level than you reported you would.”
+
+His gaze tightens, and Gu Shan steps forward with a more complex expression.
+
+“We may have a small history of goodwill, but I will not impede any truths in this investigation. Do answer the Vice Captain of the Law Enforcement Hall’s questions without fail, and do tell me, where did you manage to obtain such an expensive spirit beast?” His gaze stops at the sleeping toad on my shoulder.
+
+My heartbeat starts to rise, and I turn to the black-cloaked man first.
+
+“You’re right. I applied for a 5-day leave to break through into the late stage of level 1… There just happened to be an unexpected delay.” I look down at my shoulder, singling out the sleeping toad.
+
+“Just as I was breaking through my bottleneck, Little Red here decided to awaken too. It stimulated our soul bond and forced me to spend another 6 days in isolation. The shared memories of his breakthrough to level 1 allowed me to shatter the perfected stage bottleneck without even trying. Slowly, the iron curtain around my dantian holding me back from level 2 just faded away… If I stopped cultivating, my dantian would have shattered. I only woke up a few hours ago, I had no idea there was a lockdown or any check-in process.”
+
+Lu Fayun leans closer with a suspicious gaze, “I’ve heard of similar stories from the Beast Mastery Peak… I believe it’s possible. My doubts are the same as Gu Shan’s, the fact that a steward like yourself has a spirit beast worth the salary many in this camp would need decades to save up.”
+
+“Well, you see… Last month, I found a cracked egg in the stream near one of my servant huts. I thought it was some kind of bird egg or something, until I brought it to the Red Pine Market on our last trip and a vendor explained to me what it was.”
+
+I turn to Gu Shan, but his brows are knitted, “Where did you get the spirit stones to awaken it? You’d need at least a medium-grade soothing flame talisman.”
+
+“And how did you even contract it? Soul bonds aren’t cheap either?” Lu Fayun adds.
+
+I grit my teeth and toss my steward’s storage pouch forward. Inside, I've left a huge stack of ember papers, about fifty scattered spirit fragments, and a few bottles of inferior quality spirit wine.
+
+“I just lit up a few hundred ember papers, and I traded and resold spirit wine in the market until I could afford an inferior grade soul contract talisman. The egg was already cracked and in poor condition. Applying the contract was not as difficult as a regular spirit beast.”
+
+Both of the men look at me with disbelief.
+
+Their eyes shift as they piece together my words and realize what I’m saying could actually be true.
+
+Gu Shan shakes his head while holding it, “Awakening a Flame Toad with ember papers… now I’ve seen it all. Li Hao, your luck is enviable. I stayed up at night wondering why you gained the young Miss Qin’s favor, but now I’m starting to understand… fortune follows you.”
+
+Lu Fayun’s glare toward me is different, still trying to find a flaw in my words, but after a full minute he lets out a sigh and gives up.
+
+“I sense no deceit or malice in your words. Your aura has not fluctuated one bit to insinuate lies. Plus, that flame toad of yours gives off almost no natural qi… it may be the weakest spiritual beast I’ve ever seen.”
+
+Even though every word I’ve spoken over the last few minutes has been a lie, only a controlled, calm pressure of qi is being released by my Illusory Demon’s Concealment Art.
+
+He turns to leave, but pulls out a small red rock from his storage ring and hands it to me, “A low-grade fire stone, for the trouble of doubting an innocent man. Spirit beasts are not cheap to take care of, that should last you at least a few months.”
+
+He shows a fake professional smile and leaves out the only door.
+
+Gu Shan gives a slight nod and taps a jade tablet a few times before turning to leave himself.
+
+“You’re free to go. Do remember, moving forward, you must check in once in the morning and once when you return at night from your wood collection route. It says here you already have one slip-up on your record for missing a wood collection day. If there is a third this year, any further infractions will be punished even if it was not within your control.”

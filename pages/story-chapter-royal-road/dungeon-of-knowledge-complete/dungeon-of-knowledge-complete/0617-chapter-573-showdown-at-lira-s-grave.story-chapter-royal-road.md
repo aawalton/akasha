@@ -1,0 +1,257 @@
+---
+id: 73800c8f-4bb8-5424-807e-fd7be39b7f58
+page-type-slug: story-chapter-royal-road
+title: "Chapter 573: Showdown at Lira’s Grave"
+slug: 0617-chapter-573-showdown-at-lira-s-grave
+partOf: dungeon-of-knowledge-complete
+position: 617
+ownLength: 4044
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3169228/chapter-573-showdown-at-liras-grave"
+royalRoadId: "3169228"
+---
+
+Nothing is absolute. Find the counter strike.
+
+- Kamari Ren, Ahn Khen Elder, legendary master and inheritor of the Ninefold Way: Fists of Coherent Integrity.
+
+Ali grimaced at the grievous damage the Blind Lich’s mere presence was wreaking upon the beautiful grove of Lirasian Oaks she had once used to sustain Lira’s life. Huge trees blackened with decay as their leaves wilted and fell from their boughs like blighted snow.
+
+Nevyn Eld hissed, making his pool of shadows spill forth another wave of skeletons, and he took advantage of her tapping out on control spells to summon another portal, inviting more Death Knights in.
+
+An explosion of blood burst forth from her rampaging berserker at the surprised twitch from Nevyn Eld, but The Rage of Aman Rak’s cleaving greataxes did not strike the shield. Instead, Tol’brekk unleashed a whistling double axe strike at the Death Knight intent on crushing Malika, spending his health freely. Domain mana flared brightly, and the pair of wicked blades, trailing streamers of blood, cleaved through the undead Knight’s chest and thigh, shredding mithril armor with sheer brutality and power. The blades sliced the monster into two. The upper half bounced off Nevyn Eld’s shield with a clang, while the two terrifying axes bypassed the still-standing legs, completing in a broad arc and dispatching the last Wight and a Ghoul with ease.
+
+A surge of holy mana from behind a golden barrier signaled her kobold priest’s efforts to restore the giant troll’s casual exchange of more than three-quarters of his enormous health pool for the brutal strike and the elimination of the Death Knight.
+
+Ali’s tightly held jaw unclenched at the sight, but Nevyn Eld, it seemed, had been waiting for just such a moment. The spark of Authority snatched her full attention as a bolt of pure darkness was tossed her way. Ali teleported, sacrificing a low-level minion to the deadly blast, but the moment she arrived, another Authority-imbued bolt was already seeking her head.
+
+Her eyes widened at the ridiculous cost, but she instantly understood she had been cornered. She glanced at her powerful berserker as she unleashed her golden darts, burning her last point of Authority to counter the spell she knew she could not block. Her magic did its job admirably, blasting the ball of death into shreds of rapidly dispersing mana, but Nevyn Eld was already casting Decrepify, and there was nothing she could do about it.
+
+Enhanced with Authority she could not afford to match, he sent the ravenous beam through Tol’brekk’s heart, and his health and attributes began to drain at a ridiculous rate. Malika poured healing magic into the giant troll at an incredible speed, and to Ali’s amazement, her friend’s spell began to unravel the grievous drain inflicted upon the troll, but, like an incoming tide, Nevyn Eld did not let up. Death and soul magic bubbled and boiled in an all-consuming pool around the berserker’s feet, and he began to dissolve under the unholy force of the Lich’s devastating soul magic spell.
+
+There was nothing for it. Ali cast Minion Teleport as soon as the recharge expired, fleeing deeper into the cavern as a burst of searing pain ripped through her mind.
+
+A few moments later, Malika appeared beside her, shining like a radiant beacon and barely even breathing hard, but the signs of fierce battle were etched into her clothes, if not her body.
+
+Ali winced for a moment, holding her head at the strange surge of pain. Malika pulsed her unique healing magic into her, but although the pain began to fade, it was strangely sluggish, as if she were being healed of an affliction deeper than mere wounds.
+
+“Are you ok? What are we going to do, Ali?” Malika asked.
+
+“It’s just a headache. I’m going to make a dragon,” Ali said firmly, shaking off the pain. It was just pain; she’d experienced worse while training with Azryet. If she could handle that, she could definitely deal with whatever this was. The away team in the Crypt of Kings was still only halfway through killing Bragni Doomhammer, but she couldn’t even tell Malika for fear of Nevyn Eld overhearing and drawing the conclusion that he might be in real danger. Or maybe…
+
+Gauging the risk, Ali fashioned a quick Limited Telepathy and explained the situation to Malika. “Thaldorien is down. Bragni at half. It’s slow going. We need to hold him off for a little longer.”
+
+Malika nodded a silent acknowledgement.
+
+Ali flipped open her Grimoire and began to summon her Scion of Azryet. She only had a few options for third-tier monsters, and she had never had the time to level her Scions of Azryet past the threshold; however, Azryet had not been stingy. She had a half dozen variants in both void and holy affinities, but she had exhausted everything else she could think of to break the Lich’s Aegis of Absolution; it was time to try Azryet’s favorite. Void. Unfortunately, she was out of Authority.
+
+It will have to do.
+
+Suddenly, Ali’s notification chimed, along with the familiar pull of knowledge from the far outskirts of her domain.
+
+You have gained Reputation.+1 Authority.
+
+What? Her attention was drawn immediately to the giant World Tree and the sensation of her domain tithe activating, and she suddenly knew what had just happened.
+
+Thank you, Lira! she thought, and a huge weight lifted from her shoulders as her Authority increased. Even one point was another devastating spell she could disrupt, or another monster she could throw at Nevyn Eld to slow down his relentless advance. And thank you, Kerrin, she added, realizing who was embedded into the great tree by the wisps of her personal mana entwined with the domain tithe enchantment.
+
+Ali fed the point directly into her summoning and swallowed uncomfortably. Back to zero. There was nothing in reserve to counter the next enhanced spell he threw out, but nothing short of an Authority-enhanced monster was likely to have any effect on that Aegis. And if she couldn’t break it, he would continue advancing with impunity.
+
+Nevyn Eld. She grimaced, curling her lip at the thought of his foul stench and the unmistakable wrongness he brought to her domain. She glanced over at Malika.
+
+If I gave in to him, would he spare her?
+
+The thought came to her in a flash, and for a moment she wavered. But Malika looked up, and even though her eyes were blazing with radiant soul magic, they were smiling at her.
+
+Malika would never want that.
+
+Nor would any of her friends. They were giving their all to rid the world of the Lich and his evil. All she had to do was delay him long enough, and she would not falter. The real issue was simply that Nevyn Eld was right; he really was far stronger than she was. Even within her domain, where she was supposedly at her strongest, he was relentlessly pushing her back, effortlessly defeating her bosses and monsters. He had even killed her once already.
+
+She clenched her jaw, steeling her resolve as she saw the formation of his teleport spell just up ahead. “He’s here.”
+
+“I’ll hold him off,” Malika said, without hesitation, and with that, she suddenly appeared in front of the Lich with her fists already flying.
+
+Huh, no minions? she realized as the Lich’s spell completed, leaving him standing there alone. Tol’brekk had taken the remaining Death Knights with him, and her scheme with the Malevolent Oak’s roots had denied the necromancer any corpses to raise. Of course, that situation was unlikely to last. She could already see his cloak and shadows rippling.
+
+Of course, Ali was down to a kobold priest, an undead witch doctor, and the Scion of Azryet that suddenly manifested before her in all its black-scaled glory. She glared out at the dark form of the Lich, and then, in a pique of frustration, changed her title from God Maker to Defiance of the Meek. It served no real purpose, not affecting the bonuses from all her titles in the slightest. Still, now she would be advertising a title that matched her mood.
+
+“Well now, isn’t this nostalgic?” Nevyn Eld rasped, drifting slowly forward across the dark moss and flowers that had once been the site of Lira’s murder, seeming to simply ignore Malika, letting her pound away at the black, sparkling shield. A wide circle of grass and moss withered beneath him like a persistent shadow burned into the ground.
+
+“Why are you here?” Ali asked, clenching her teeth as he continued to advance.
+
+“Long have I sought Elowynn’s magic,” the Lich rasped. “But I am patient. I do not begrudge you some time for your petty striving, your insignificant struggles.”
+
+“So kind of you,” Ali said, biting her words off sharply, but if he noticed, he gave no sign. “And I suppose time is up?”
+
+“You have the Wells,” he hissed.
+
+“That changes things?” she probed, casting her awareness through her minions, still contending with his undead throughout the Forest Cavern and the grove.
+
+“Did you think the Elixir of Ages was the extent of what’s possible?” the Lich answered. “How little you know.”
+
+So, he is after the Wells. He must have a way to ascend if he has all three. He must not realize I have Authority, somehow. Or thinks I don’t understand its connection to the Wells. In truth, what she knew about how the Wells worked was bordering on ignorance, but she couldn’t allow him to get away with this. “Why are you attacking Myrin’s Keep then? If you just need the Wells?”
+
+All along the battlements, guards and adventurers struggled against the immense forces of the dead. Villagers cowered in Havok’s consecrated church to Azryet, hoping for salvation, or gathered in parks and groves where Lira’s wisps spilled restoration in waves from the trees. Fear, grief, and terror reigned in every corner of the city.
+
+“You are a dungeon, Aliandra,” the Lich hissed, his tone contemptuous and filled with scorn. “Those insects you care about so much will be your undoing. It’s a matter of efficiency. You are the weak point. Once I raise you, I will have everything I want.”
+
+“You’re a monster,” Ali said, swallowing the bile in the back of her throat. He thought nothing of wiping out an entire town because raising her from the dead would be marginally easier.
+
+“I’m just like you,” he said. “Only smarter, and stronger.”
+
+“You’re nothing like me!” Ali yelled, the sudden burst of fury leaving her fists clenched and her arms trembling. How dare he!
+
+“You’re right,” he said, his voice trailing off into skin-crawling laughter for a moment before he added, “I wouldn’t be caught dead showing a Title like that. Defiance of the Meek? Don’t make me laugh. The meek are fodder for the strong.”
+
+It was his laughter that focused her mind. In a different timeline, one where he’d kept to his dungeon and plied his schemes in distant lands, Ali could very well imagine having never risen to challenge him. The very idea of standing against an ancient evil of such power was folly. But he had killed Lira right here in this clearing before her very eyes. He had killed her family and wiped out her home, along with every sentient being in it.
+
+He floated before her, ignoring Malika and laughing all the while. Ali had gone to the ends of the realm and beyond to save Lira from his evil, and here he was, poised to do it all over again. And he was gloating. Her trembling ceased as her rage compressed into a white-hot star deep within her heart.
+
+Ali reached out, placing her left hand on the smooth black scales of her dragon and channeled her domain magic into him.
+
+“You are indeed far more powerful than I am,” Ali said, feeling a burst of satisfaction at the confident steadiness in her voice. “But I have achieved something you could never do.”
+
+He stopped, his head swiveling to regard her, as if the blindfold was simply for show. “Oh? And what might that be?”
+
+“I earned this title for standing up to the Dragon God’s wrath and surviving,” she said. “You’re just a crunchy dragon snack.”
+
+“You dare to insult me!” he hissed, his voice at once thrumming with rage-fueled power. In the silence after his words, Ali heard a loud grinding, and it took her a few moments to realize it was the sound of his teeth. “I will destroy you! I will tear you into pieces and then raise your Wraith and imprison it in Baaoht Yll’shuum’s Nightmare for a century. You will rue this day…”
+
+Fragile ego? Ali thought, tuning out his ranting, but then suddenly she realized he had trailed off, and his head seemed to be searching the air above her.
+
+“The eyes… What have you done?” he roared, snapping his head around. A teleportation formation rapidly appeared. A long-range teleportation spell.
+
+Shit! He figured it out! Deep in the Crypt of Kings, in the final throne room, the raid group was still locked in combat with Artur and Bragni – if he interfered, they would all be crushed. She scrambled her golden darts, shredding the formation at the last moment. At the same time, she completed her domain enhancement.
+
+Scion of Azryet – Dragon – level 251 (Void)Domain Respawn applied to Scion of Azryet.Champion Domain Enhancement applied to Scion of Azryet.Amplify Skill (Black Hole) applied.Amplify Skill (Void Nullification) applied.Zone of Destruction (Void) applied.Spell Cascade (Black Hole) applied.Domain Enhancement complete.Your reserved mana has increased by +2057.
+
+“Attack! Tear down his shield!” she commanded, and her Scion of Azryet took to the air with a roar that shook the forest. Mana of such pure darkness that it devoured the very light and air around it formed into a sizzling ball within his maw. He opened wider, baring huge fangs and unleashed a volley of seven void black holes at the Blind Lich.
+
+In her quest to find a way to breach the Aegis, she had decided to go all in on void – the Dragon God’s destructive power, able to disintegrate nearly anything. She had amplified Void Nullification, too; an attempt to double down on its anti-magic properties. If this didn’t work, her last idea would be finding a way to keep him still long enough to surround him with Mana Eaters and see what that did.
+
+Ali did not wait to see the outcome of the attack; instead, she Spirit Walked her witch doctor into the Spirit Realm immediately.
+
+“Cael! I need you!” she shouted.
+
+“Ali?” Cael’s disembodied voice echoed about her. “Gage, Ali is here!”
+
+“Hi, Ali!” Gage said.
+
+“I don’t have much time,” she said, struggling to form the Ancient Dal’mohran syllables from a mouth filled with two large, protruding tusks. “Can you activate the array again?”
+
+“Yes, but… oh!” Cael said, his voice suddenly wavering. “Is that… Nevyn Eld?”
+
+“We must hide!” Gage shrieked.
+
+“Yes! Hide!” Cael echoed.
+
+“Please?” Ali begged. “I need this.” Her friends would most certainly die if she let Nevyn Eld escape back to the Crypt of Kings. The fight they were embroiled in was already insanely dangerous – any disruption, much less the Blind Lich himself, would be deadly.
+
+“It’s Ali, Cael…” Gage said.
+
+“I… of course,” Cael answered. “I’m sorry, Ali. We’ll always help our sister.”
+
+Ali couldn’t see them, but if she could, she was certain they would be shivering. Making them choose between her and their memories of Nevyn Eld before he’d turned himself into a Lich had to be awful, but she had no time. She would have to apologize to the twins later.
+
+Suddenly, the vast spatial suppression array thrummed with power as Cael fed the mana of the Infinite Maze into the gigantic formation.
+
+“Thank you,” Ali gasped, her stomach unknotting. “You have no idea how many you might just have saved.”
+
+Notification chimes rang out, this time coming from one of Ryn’s pupils studying language in the guild hall up above.
+
+You have gained Reputation.+1 Authority.
+
+Oh, thank goodness, she thought. The class was large and incredibly focused, but although there had been several advancements ripping through her tithe already, this was the first one that had triggered reputation.
+
+Back in the forest cavern, dense, compacted balls of void smashed into the Aegis of Absolution, deleting dirt, moss, and grass all around him, but the void magic clung to the shield like sizzling black glue, giving off an awful stench of ozone and sparks of mana that seemed to be scoured off the surface of the shield.
+
+Ali’s eyes widened as her powerful mana sight and her Sage of Learning fed images and analysis into her mind, teasing apart the strange phenomenon strand by strand.
+
+It’s… working? Maybe?
+
+It was the tiniest of changes, as if an infinitesimal layer of the shield had been scoured away by the abrasiveness of Void Nullification. A brush of sandpaper against the polished sphere, but it was something. For the first time, she had affected the impenetrable shield in any way other than having it flicker and darken from potent impact.
+
+Mana surged within the Lich, and Ali gasped at the sudden lance of dungeon rage stabbing through her mind like a rusty blade.
+
+Ugh… What is that? It had happened several times, now – far too often to be a coincidence. Every time he did something big, it affected her just like dungeon rage. No, it’s not the big spells… Ali zipped through her memories. It did not seem associated with his use of the fouled Authority that she was growing more and more certain he’d somehow harvested from the Well of Eternity using his eldritch pet. Just before it hit, she recalled a dark surge as he drew heavily on his mana pool. If her memories were accurate – and they were – that was one consistent sign. That has to be a clue. Is it something about the nature of his mana? A unique spell I can’t quite see? Sage of Learning was prickling something fierce, and the sense of the answer being on the tip of her tongue was growing overwhelming.
+
+Malika was beside her in an instant with fresh healing.
+
+Inside his void-scoured Aegis, a small, folded paper talisman, shining with potent magic, appeared in Nevyn Eld’s hands, and he ripped it down the middle with an impatient gesture. The magic spilled out into the spherical barrier, pulling at him for a moment before it fizzled and dissipated.
+
+“What…” he roared.
+
+A moment later, another powerful teleportation formation manifested, this one even enhanced with Authority, but it too fizzled against the immense weight of the Infinite Maze pressing down upon them.
+
+Thank you, she thought, shooting thoughts of silent gratitude to Cael and Gage like a prayer to her guardian angels. It seemed that even Authority had its limits when pitted against so much power. Her legs were wobbly, and her mouth was dry, but Nevyn Eld was still here, stuck in her dungeon.
+
+Right where I want you, she thought, her mood oscillating somewhere halfway between wry sarcasm and a bout of gallows humor.
+
+She shrugged and unleashed the void, blasting another cascade of black holes at the dark shield while unleashing the Zone of Destruction upon the ground beneath him.
+
+How much is it going to take?
+
+“You are beginning to vex me greatly,” Nevyn grated, turning to her and firing off an Authority-enhanced bolt of death magic.
+
+Instinctively, Ali reached for Minion Teleport, knowing her Disrupt was on recharge from denying his teleportation spell, but, of course, it failed, suppressed by the very aura that she had invoked to trap Nevyn Eld.
+
+Her eyes widened at the sight of the deadly bolt of magic hurtling toward her, far faster than her body could react. But her mind was so fast she would be forced to endure the excruciating sight of it reaching her…
+
+No, she thought, summoning her Barrier and burning her point of Authority to reinforce it. She took the added precaution of attaching it to her domain also. She still flinched back as the bolt smashed itself against her protective shield, but with the power of her Authority, it stood firm against his spell. Ali’s chime sounded again.
+
++1 Authority.
+
+Huh? Ali froze in surprise at the unexpected notification. No reputation? Still, she had gained a point of Authority somehow. But then it clicked – her Barrier returned a portion of the mana it blocked to her mana pool. Somehow, it had just done the same with Authority. She didn’t quite know how to exploit that yet, but her mind was awhirl already. She repositioned the barrier, hoping to draw another attack.
+
+“Very well. You leave me no choice,” Nevyn Eld said, his voice deathly calm as he drifted closer. His bony hands reached up and grasped his blindfold, and he ripped it off. Underneath it, his face was ravaged by death, shriveled and twisted with a blackened cheekbone protruding through the leathery, decaying skin below his left eye socket. His lips were long gone, revealing teeth so dark they may have been made of ebony, but it was the shadowed hollow eye sockets that drew all Ali’s attention.
+
+Deep within those sockets, a cold, harsh light ignited.
+
+Soul Magic.
+
+Somewhere beside her, Malika gasped. But what formation was being created, she could not tell; it was as if she were seeing only a fraction of the full pattern. Like hearing one side of a conversation. Authority burst forth, and his eyes blazed.
+
+The realm gong shook Ali to the bones.
+
+[Realm] Nevyn Eld [The Blind Lich] has used The Ninefold Way: Gaze of the Shattered Soul.
+
+Instantly, her body froze. She struggled to move, but not even a finger responded to her will. Her heart raced as her adrenaline began to surge, but she found herself unable to even breathe. She fought against the grip, desperate to force her lungs to respond, but all she got were spots in front of her eyes and sweat beading her face.
+
+“Now, let me show you the path to death,” the unmasked Lich hissed, drifting unhurriedly closer to Ali’s kobold priest. A gaunt hand reached out, and a familiar, dire spell burst forth.
+
+Sacrifice.
+
+The essence of something from within her frozen priest was ripped free at his grasp, yanked out of the kobold’s chest, and drawn toward the Lich like a choice morsel. Her connection with her minion snapped, and the kobold fell to the ground in a heap.
+
+“Arise,” he said, pointing at it.
+
+Ali twitched, trying to Disrupt it, but to her horror, she found her mana was just as frozen as her body. She could not cast a thing.
+
+The kobold priest slowly rose to her feet as her once-shiny scales darkened to mottled black, and her flesh sank into hollow and hanging folds, withered away from within.
+
+“Now. You,” he said, fixing Ali with his piercing gaze. The dark, withered hand extended from his robed sleeve, and the formation appeared once more.
+
+No! she screamed, but the sound only echoed within her own mind. The grasping horror of his Sacrifice reached for her, claws of cold darkness piercing her breast, sliding within. They plunged deep into her chest, contracting to encircle her heart.
+
+Then, he pulled.
+
+Pain, like nothing she had ever known, burst from within, threatening to overwhelm her mind. She struggled in vain, unable to scream, unable to run. Helpless. Desperate, she reached for anything.
+
+To her surprise, she found something.
+
+Arcane Recall triggered in a burst of spent life as she shoved it toward her God Maker title. She felt a click as the magic resolved, and then her soul was ripped from her body.
+
+You have died.
+
+The recharge on her God Maker title reset as Arcane Recall completed.
+
+[Realm] Aliandra Amariel [Defiance of the Meek] has cast the mythic spell: Cycle of Rebirth.
+
+You have gained Reputation.+5 Authority.
+
+Fuck. Not again! It was all she could manage to cling to her consciousness this time and throw up an Authority-enhanced barrier around herself.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

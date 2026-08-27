@@ -1,0 +1,135 @@
+---
+id: b8a0e174-f784-5d55-9dd6-d7d79b0a4686
+page-type-slug: story-chapter-royal-road
+title: "Chapter 390: Observer"
+slug: 0427-chapter-390-observer
+partOf: dungeon-of-knowledge-complete
+position: 427
+ownLength: 2037
+unit: words
+ownProgress: 2037
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2627965/chapter-390-observer"
+royalRoadId: "2627965"
+markedReadAt: "2026-06-29T20:26:30.055Z"
+---
+
+The jangling howl of a psychic scream tore through her. Words of power in a demonic tongue lashed her mind, banishing all rational thoughts to a dim memory. Ali crawled along the ground, desperately trying to escape, while warm amber blood leaked from her ears. Most of her minions were on the ground writhing in pain from the assault, but Ali had no way of countering the spell.
+
+You have been cursed with Feeble Mind-20% to Intelligence.Curse – Duration: 2 minutes.
+
+Finally, desperate for any kind of relief, Ali cast Arcane Recall. Instantly, the scream was silenced, and she found herself surrounded by the gray expanse of the spirit realm once again. She panted for a while as her body and mind slowly recovered.
+
+Wow, that was awful!
+
+When she felt like some of the major pieces of herself had been reassembled, she staggered to her feet and looked around at the still, silent battlefield. By the entrance to the Pit Lord’s realm, she saw a horror that made her want to flee to the darkest recesses of her mind.
+
+Floating several meters above the ground was a large orb of shadowy demonic hide and bony ridges and spines, trailing a cluster of dark tentacles below its main body. Right in the center of the orb was a smoky, pupilless eye, larger than her head. Below the eye, a great horizontal slash opened, filled with dozens of rows of sharp fangs. Two smaller eyes were embedded in the bony brow on either side of the giant central one, these seeming to glow even in the muted color tones of the spirit realm. The monster, for it satisfied that title in more than one way, seemed to be able to see almost all the way around its orb-like body.
+
+Observer – Demon – level 91 (Mind).
+
+Other than Mieriel, this was the only mind magic user she had ever seen – and it had to be here when she didn’t have Malika’s Touch of Clarity to help her out.
+
+How can I even deal with this?
+
+She walked over to examine the monster, taking full advantage of her newfound freedom during Arcane Recall. Up close, it was even more terrifying. Some of the fangs were almost as long as her forearm, and they seemed to have bits of unidentifiable meat wedged between them. Ugh, that’s nasty.
+
+Slimes don’t have typical minds, she thought, considering her options, but as she walked around the monster, she saw the horde of dark shadows in the tunnel beyond and realized exactly what that psychic scream had been for. As terrifying as the Observer was, she instantly recognized that it served as a sentinel – an alarm to summon other demons.
+
+She flipped the pages through her Grimoire and summoned Kir’vella instead. The spirit realm faded, and the unending psychic scream pierced her mind once again, but this time she was ready.
+
+“Banish that… thing,” she managed to shout.
+
+Before she collapsed, Ali’s canny witch doctor cast her powerful Hex. The scream cut off instantly, and she heard the tremendous rumble of demonic feet rapidly approaching.
+
+“Go!” she yelled, unleashing her forces upon the attackers as she threw up several barriers powered by her domain in order to funnel the incoming monsters to her Armored Drake tank. She studied her forces carefully for a second and then made her decision.
+
+“Banish the berserker,” she said. Of all her current minions, Tol’brekk was the most suited to fighting without full mental faculties. A fact that she had personally tested against Joraa, earning herself an eternal helping of embarrassment.
+
+Her huge Carnage Berserker vanished, but she could still see him with her domain mana sight in the spirit realm. He looked left and right, grimacing in pain at the psychic scream, and the moment he caught sight of the Observer, he launched himself at it.
+
+You have learned the Demonic language.
+
+Good, she thought. “If that thing comes back, send it away again,” Ali said.
+
+“Yes, Seeker. A wise plan,” Kir’vella said, and then her dry cackle was choked off in a fit of coughing.
+
+Under normal circumstances, she might have sent her witch doctor into the spirit realm to help, but against a monster like that, she was certain the witch doctor would collapse just as she had.
+
+She shifted her attention to directing the rest of her minions as they tangled with the dark horde of demons pouring from the tunnel, threatening to overrun her Armored Drake through the sheer weight of numbers.
+
+But she had ice magic.
+
+Frost Nova ripped through the horde, freezing everything into place as her evolved Mage of Piercing Frost moved forward, pushing her Affinity Aura into the monsters. The frost dragonets swooped down, adding additional chill and freezing with their ice breath. Then the ice bolts began to shatter the demons, piercing through the bunched-up monsters and hitting everything in their path.
+
+This is going well, she thought.
+
+At that instant, the Observer reappeared, and the Psychic Scream filled the cavern once more. Ali had just enough time to see bolts of mind magic shooting forth from the smaller eyes as the demon turned to fix its central gaze upon her Armored Drake. To her shock, the massive drake began to levitate, freeing the monsters behind it to storm into the chamber.
+
+“Banish…” she yelled, but Kir’vella was already on it, and the Observer shimmered away.
+
+In the sudden relative silence, she heard an all too familiar roar.
+
+“Who dares invade Maalgaroth’s domain!”
+
+The ground shook with the heavy footfalls as something huge barreled down the tunnel, and the gigantic Pit Lord smashed his massive body of muscle and fat through the tunnel entrance, not heeding the demons he crushed with his mass in the slightest. The glaive he wielded glittered in the dim light of her arcane tree, wreathed in hellfire and dripping blood. His head turned to survey the cavern, the dark recessed cruel eyes coming to rest on Ali.
+
+Maalgaroth [The Corrupter] – Pit Lord – level ??? (Blood / Hellfire)
+
+“You!” he spat. “You will not escape me again!”
+
+An intense wave of cloying blood mana poured from him, filling the cavern.
+
+You have been afflicted with the Pit Lord’s Corrupted Blood.+30 damage per second bleed.Demonic energy infuses your blood, causing progressively worsening disorientation, perception distortion, nausea, and dizziness.After 30 minutes, your race gains the demonic trait, and you become a thrall of the Pit Lord. Contagious. Range: 25 meters.Corruption – Duration: 30 minutes.
+
+Ali’s heart stuttered in panic as she threw all her minions at the giant demon and his devastating power.
+
+“Run, Seeker. I will delay this foe.” Ali turned in surprise to see Mok’freja, bleeding from her eyes and mouth. The Ice Queen turned to face the monstrosity of hellfire and corruption, unleashing all the magic at her disposal.
+
+But this time, there was nowhere to run.
+
+The Pit Lord roared in pain as the ice bolts ripped through his enormous torso, and Ali experienced a moment of hope as she remembered she had granted her troll mage the demon slayer domain magic. But the glaive glinted as it suddenly accelerated, whipping around and shearing through the pitiful forces arrayed before it. The Armored Drake was knocked flying, crashing through her barrier, smashing into the rock wall, and dislodging dirt and boulders that fell from the roof under the sheer power of the impact.
+
+All Ali’s hope vanished in that instant, and she desperately began summoning another monster, using every bit of magical haste she had at her disposal. She coughed, amber blood splattering across the rune-inscribed pages, but fortunately her book was magic. Although she still didn’t have much time.
+
+Your group has defeated Baelok Descrier – Demon – level 91 (Mind).
+
+Another minion went flying as the glaive swatted a frost dragonet out of the air, cleaving a wing clean off, and then the Pit Lord was fully inside the cavern, lashing out equally with hellfire and blood as his glaive whistled through the air.
+
+Desperately, Ali urged her Grimoire to summon faster, but she was losing minions at a dizzying rate, and once the Pit Lord killed her mage, it would no longer be chilled and suddenly gain an enormous boost to its speed.
+
+But right as the glaive would have ripped Mok’freja in two, Tol’brekk reappeared, blocking the strike with his own body. A giant troll arm went flying into the wall, still clutching a greataxe, but her berserker simply roared his fury and channeled the damage and blood into a blood vortex, making his one remaining axe whirl within a storm of blood blades.
+
+Ali redoubled her efforts as the two titans traded shattering blows, sending great sprays of crimson and black blood flying into the air. Another enormous strike with the glaive triggered Tol’brekk’s Last Stand, and his axe grew suddenly more powerful, scoring multiple deep, bloody gashes across the Pit Lord’s torso and arms.
+
+As her Grimoire summoning finished, the Pit Lord landed a devastating backhand cleave with his glaive that passed clean through the giant troll’s neck, sending his head soaring across the cavern to bounce off the far wall.
+
+The cavern echoed with ugly laughter as the Pit Lord paused his rampage.
+
+“Weaklings!”
+
+Then he turned to regard Ali once more, perhaps meaning to savor her impending demise, but a sudden spray of ice bolts slammed into the side of his head, making him growl in anger.
+
+“Dig that way,” Ali commanded her just-summoned Subterranean Brood Queen – her once mithril rock beetle. It turned and plunged through the sheer rock wall of the cavern.
+
+Ali retrieved her wand from her storage and gave Mok’freja a parting taste of Winter’s Desolate Celerity before she fled through the tunnel her brood queen had just made, sprouting moss and mushrooms wherever she touched the ground.
+
+As soon as she was more than thirty meters into the rock, she stopped her brood queen. The tunnel was way too small for such a huge monster to traverse, but she wasn’t taking any chances, and as soon as her domain flowed into her new verdant, mossy footprints, she made the brood queen collapse the tunnel behind them.
+
+She threw up blood again as the dizziness and vertigo hit her in a wave. She was stuck deep underground in a dark tunnel to nowhere with nothing but her rock beetle for company. All the other minions she had made were rapidly vanishing from her connection. She could still feel him – Maalgaroth, the Pit Lord – rampaging around her unraveling domain, tearing down trees and ripping up her moss with his glaive, scorching it all with hellfire. But for the moment, she still had a little control over her domain, so she reached for it and deconstructed everything she could find, her berserker and his weapons, the observer lying sundered in the spirit realm, and the hordes of demons that had answered its call. She knew she would need all the mana she could get.
+
+“Let’s go,” she said as soon as she was done, and her brood queen began to dig again, although at a slower pace, filling up the tunnel behind them as they went. Ali kept a small part of her awareness on her Earth Sense, but she was paging through her Grimoire quickly. She had a little time before the corruption took her, but she would die from the blood damage long before that happened.
+
+Her first choice was to resummon her golden-scaled Acolyte of Azryet.
+
+The little kobold immediately cast Holy Restoration on her, filling the dark, cramped tunnel with radiant holy light, and then she began to cast her Cure, working on healing the Pit Lord’s Corrupted Blood. It took a surprising amount of time to unravel the corruption with the poor little kobold having to stop to heal her several times, but Ali felt a surge of relief as the corruption faded and her equilibrium was restored. She wiped the blood from her face and watched curiously as the Acolyte began to Cure the Brood Queen, also.
+
+One more step. When’s this ever going to end?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

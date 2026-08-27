@@ -1,0 +1,119 @@
+---
+id: 60b731e6-a178-56bb-bd09-0654ce290f5c
+page-type-slug: story-chapter-royal-road
+title: "Ch39 The Truth"
+slug: 0039-ch39-the-truth
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 39
+ownLength: 1401
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3310996/ch39-the-truth"
+royalRoadId: "3310996"
+---
+
+I cough up blood, and feel my whole body tingling, aching, and burning.
+
+All of my limbs are numb, and I can feel multiple broken bones in my back and neck.
+
+When my eyes open, static Azure lightning still flickers in the exhausted talisman in my grasp. The cave in front of me is full of rubble, and a 20-meter wide, 10-meter deep hole is now in the floor where the red teleportation array was charging up moments earlier.
+
+No trace of it remains, only a faint white light comes out from the base of the hole.
+
+This is not where my vision lingers long, it settles on the only movement in the cave.
+
+Xu Hong sits on the edge of the hole in the ground, half-facing me. I only see her dark silhouette, the shadow of rounded twin peaks making it clear she is no longer wearing a shirt.
+
+The muscular woman carefully pulls shrapnel out of her shoulder and chest, tearing off portions of cloth to fill the wounds so blood does not gush out any more than it already has.
+
+Her gaze turns toward me, and only a small flicker of purple flashes in her tired eyes. “I came down here to kill you for abandoning me, but it looks like you had an even harder fight than I did.”
+
+She grins and looks away, pulling out another chunk of black blade from her flesh, coughing up blood in the process.
+
+Just concentrating on her for these few seconds is exhausting, but a series of notifications appear in front of my eyes.
+
+[Ding!][Congratulations! Side Quest Complete: Take over the Blood Sword Sect Stronghold within the Ravine.][Collect Your Rewards!][YES][NO]
+
+I mentally click yes, and feel four items materialize into my storage space.
+
+[Ding!][Rewards have been deposited into your storage!][x3 Perfect 1st Tier Upgrade Card][x1 Minor Lottery Draw]
+
+I pull out a single low-quality healing elixir, and a bronze upgrade card on the spot. Xu Hong’s head turns my way reacting to a flash of white light shining in this dim cave, but I’ve already swallowed the heavenly grade pill.
+
+The whole process of moving just this small amount is extraordinarily painful, but the rush of white-hot healing elixir and the golden heavenly aura that begins to flow through my body takes over.
+
+I lose consciousness again.
+
+–
+
+When my eyes open for a second time, nothing hurts anymore. A lot of time has passed, but I don’t know how much.
+
+Unfortunately, this instance, my clothes are not washed, and I’m not in a comfortable bed. I’m still laid up against the wall where I fell asleep.
+
+Xu Hong is out of sight; a faint purple glow is visible coming out from the hole in the floor.
+
+I walk over and peer down to see her sitting cross-legged at the base of the explosion pit. She has a plain black cloak over her body now, from one of the Blood Sword Sect members.
+
+There is an exposed white crystalline floor at the bottom of the crater. The line is about 2 meters wide, and it travels along the entire bottom of the pit. When I jump down and use my spiritual senses, I can feel this vein move deeper into the ground in both directions.
+
+[Automatic Inspect Function Activated…][Mid-Grade 1st Tier Spiritual Vein Detected][No Innate Elemental Affinities][This vein is currently 210 meters long, with an average diameter of 2 meters, naturally releasing 42 spirit stones worth of qi per day. It has been harmfully degraded by pulling more qi than its natural release rate. No matter the damage, 1 Perfect Upgrade Card can fully restore this vein.]
+
+My eyes widen at the description popping up in my mind, but I quickly regulate my emotions.
+
+Xu Hong’s eyes open as she feels me walk into her purple aura’s spiritual awareness.
+
+I toss down a vial of low-quality healing elixirs, it is only missing the one I just upgraded. Once she catches it, she only takes a single pill out to swallow. The other eight, plus a shiny black storage ring, are thrown up to me.
+
+“We’re even. I’ll take this low quality pill as compensation for cleaning up your mess.”
+
+When I crack the imprint, I see hundreds of crimson pills, over a dozen corpses, my own used low-quality black iron arrows, low-quality swords, pages torn out of the Illusory Demon’s concealment art, and a far more consolidated red booklet called The Blood Demon Physique. Next to it all, over two thousand spirit stones rest.
+
+I put together the fact that these are all the belongings of scouts from outside, along with the storage ring of the boss.
+
+With a nod, I let the ring fall into my storage, and walk down into the pit. I sit a few meters away from Xu Hong, right on top of the spirit vein we now own.
+
+“Of course, a deal's a deal. We’re even, but I do have a few questions I’d like to ask.”
+
+“I told you, I won’t tell you any more about my reasons for becoming a servant. My revenge has nothing to do with you.”
+
+“It’s not about that… It’s about your innate physique… or at least, physiques in general. The boss I fought down here had something called an Acquired Physique. What exactly are they?”
+
+Her eyes tighten with suspicion again.
+
+“You eat heavenly-grade pills like they’re candy, yet you don’t know the difference between an Acquired and an Innate Physique?”
+
+I can make many assumptions, but decide to shake my head. “No… I really don’t. Any knowledge would be quite helpful.”
+
+“You at least know what a Martial Warrior is, right?”
+
+“I do.”
+
+“Well, that is an example of the most common Acquired Physique in this world. Pretty much anyone can use inferior martial elixirs, and practice the known breathing techniques to obtain this body. Even mortals without any spiritual roots.”
+
+Confusion grows on my face, but she continues.
+
+“It is considered a Mortal Grade physique, the lowest grade. True Acquired physiques are of the Spirit Grade and above.”
+
+I remember the reading on that old demon’s status that flashed in my mind, it said he has a perfected stage of a mortal grade acquired physique. He was able to withstand a perfect grade incineration talisman at just the 8th level of qi refinement, yet somehow that enhancement isn't even considered a true acquired physique.
+
+“So it goes Mortal Grade, then Spirit Grade, then, what’s after that?”
+
+“Well, Noble Grade would be next, then Royal Grade… but past that I do not know the names of the ranks. My elders never taught me.”
+
+More memories of status images come to me. Xu Hong’s reading: the Initial Stage of a Noble Grade Physique. And a memory from my first day with the system… I saw a white haired icy cultivator with an Ancient Grade Innate Physique that is not one of the mentioned grades.
+
+My eyes widen as I try to piece all of this together.
+
+“That still doesn't explain the difference between an Innate and an Acquired Physique… are the grades different?”
+
+She shakes her head. “No, the grading system is all the same. The only difference is that cultivators are born with Innate Physiques. Whether it is ingrained in their bloodline, or mutated at birth; one cannot simply work harder or take pills to gain an Innate Physique.”
+
+She pauses for a few seconds, and lets out a sigh. “An Acquired Physique pitted against an Innate Physique of the same grade will never be stronger. It is the cruel nature of the cultivation world. One born with talent will always have more potential than one who gains strength through artificial means.”
+
+The absurdity of Xu Hong battling a 6th Level Qi Refiner at the 1st Level of Qi Refinement with her raw strength now is beginning to make sense to me.
+
+I nod in understanding. “I get it now.”
+
+Her eyes close, and a faint smile stays on her face as she returns to cultivating on top of the spiritual vein.
+
+“No problem. Another thing you may want to hear, you were asleep healing all night. It’s already morning. I don’t know if there are any steward duties you might need to catch up on. If there are, don’t involve me. Just tell the sect I went missing. They won’t care about a single worthless servant.”

@@ -1,0 +1,109 @@
+---
+id: 8e996eb9-0c30-56da-aa2f-f969b03de840
+page-type-slug: story-chapter-royal-road
+title: "Chapter 266: Abundant Healing"
+slug: 0298-chapter-266-abundant-healing
+partOf: dungeon-of-knowledge-complete
+position: 298
+ownLength: 2107
+unit: words
+ownProgress: 2107
+publishedAt: 2025-06-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2324377/chapter-266-abundant-healing"
+royalRoadId: "2324377"
+markedReadAt: "2026-06-29T20:21:22.192Z"
+---
+
+She’s just a kid, Malika thought, disgusted by the kind of evil being that would impale a kid to a tree with a bone spear. She approached the wide-eyed, scared girl slowly. The troll girl’s clothes were ripped and stained with blood and her face was streaked with tears that had long ago dried up, leaving tracks in the dirt and grime. But as Malika approached, she raised her chin with a brittle pride betrayed by the trembling in her body.
+
+“I’m not going to hurt you,” Malika said, her trollish still hesitant and halting. “I’m going to get you down, ok?”
+
+The girl nodded, uncertain hope warring with the fear and distrust in her eyes.
+
+Malika’s fist blurred, snapping the spear of bone, and then she pulled the girl off the short remaining length still embedded into the tree. The girl screamed once while trying to shut her mouth with her hands, but Malika immediately pulsed healing magic through her, and the hole through her ribs closed quickly.
+
+“M… Mom?” the girl asked, as Malika set her down.
+
+“Show me?” Malika asked, and immediately the girl reached out to take her hand and led her off to a stone building where another troll was bound to a steel frame.
+
+Malika quickly cut her down and healed her too, and then followed her to where the girl’s younger brother struggled weakly.
+
+But after rescuing their little family and gathering them under Mato’s tree to recover, she found no other survivors among the many corpses littered throughout the rubble and wreckage. She searched everywhere, but not even Ali’s Blood Shamans could sniff out any more survivors.
+
+Malika shook her head sadly as she walked from corpse to corpse, storing any useable equipment until she finally stopped before the massive form of Tol’brekk, lying where he had fallen on his back, staring sightlessly up into the sky. Once hale and muscular, the transformation to Death Knight had ravaged his body, and even in death, he appeared gaunt and tough. His thick skin had hardened into an ebon-gray which Malika had struggled to punch through, and even though withered, his body had possessed an extraordinary power.
+
+Not bothering to move him – because she probably lacked the strength – she simply stored the gear he was wearing straight off his unresisting corpse. Most of his items were slightly better versions of the berserker troll gear she already had so many of in her storage, but when she examined his axes, she paused in amazement.
+
+The first one she found resting under several rocks on his left side – a broad double-bladed Labrys made from Bloodsteel and bone.
+
+Decimation Slash Labrys – level 91A long, curved bone haft with a polished double-bladed Bloodsteel head, this axe blade is engraved with dark runes. Damage: Slashing, PhysicalAdded Physical damage on hit with this weapon.+2 to skill level of Melee skills.+20% increased attack speed.+23% chance of critical strike.+55% to critical damage.  Requirements: Strength 987, Dexterity 113Quality: Rare.Value: 165 gold. Two Handed – Axe – Bloodsteel / Bone
+
+Rare! The enormous axe was far too heavy and large for her to wield – even if she had a class that could wield axes. But it had five enchantments on the blade and the craftsmanship was beyond anything she had ever seen.
+
+No mana signature. Dead crafter? Or no crafter? She studied it, deciding that this might actually be a dungeon drop, rather than a crafted item. But what a weapon – every single attribute was focused on physical melee damage: faster attack, critical strike and damage, and more physical damage over the base weapon. The enchantment that granted two additional skill levels to all Melee skills was superb – that had to be something only an evolved crafter or a dungeon could make.
+
+She stored it and retrieved the wicked-looking single-bladed axe from the other side of the corpse, fishing it out of a slowly growing puddle of blood. This one had a long, broad blade forged from the red-tinged bloodsteel and a wicked-looking spike on the back – but the most striking feature was the blood leaking down from the blade and dripping on the ground, never seeming to let up.
+
+Tol’brekk’s Bloody Axe of Carnage – level 90A long single-bladed axe made from Bloodsteel, with a stained leather grip. This weapon leaks blood.Damage: Slashing, PhysicalAdded Physical damage on hit with this weapon.+35% to Physical damage with this weapon.+1 to skill level of Blood skills.+20% increased attack speed.Bloody (Axe blade continuously leaks blood.)Requirements: Strength 945Quality: Unique.Value: 268 gold.Two Handed – Axe – Bloodsteel / Leather
+
+Although lower in level than the Decimation Slash, this had been Tol’brekk’s main-hand weapon, and Malika could clearly see why. A unique weapon named after its wielder had to have been crafted specifically for him – and the lack of mana signature simply meant that the weapon had outlived its maker.
+
+Even though two of the enchantments were focused on blood rather than physical, this weapon would hit substantially harder than the first – the synergetic combination of added physical damage and increased physical damage percentage pushed the power of its strikes well beyond reasonable. It was a wonder Mato wasn’t a bloodstain on the ground. For a blood-magic wielder like Tol’brekk, the blood skills and bleeding enchantments simply piled on more carnage.
+
+She studied them carefully, weighing up their attributes and effectiveness. While they were inordinately valuable and could fetch an amazing sum of gold, she found she had no desire to sell them. Ali’s berserkers, she decided, nodding firmly to herself. None of their group could wield the axes, but it looked like Ali’s berserkers were likely to become a common feature in her minion army – and powerful weapons would make them much stronger. Although I want to show these to Thuli, at least, she decided. Perhaps the dwarven smith could gain some inspiration, and she was sure Ali had at least learned the bloodsteel ore from the quarry Mok’freja had taken as her temple.
+
+Ok, let’s see what we got for that, Malika thought, returning to the impromptu camp at Mato’s trunk and sitting down beside Calen.
+
+Soul Monk has reached level 98 (+10).+100 attribute points.
+
+Malika sat quietly, letting the first number of her notifications settle for a while. The battle had been a milestone for her, one for which her skills had been uniquely suited, requiring almost all her abilities used intelligently in concert to ensure their team prevailed. A battle in which they had faced an evolved death knight, while the legendary Lyeneru Silverleaf fought the Blind Lich to a standstill. She had personally saved Lyeneru by enduring the Lich’s decrepifying assault of death magic and then faced down Tol’brekk in the middle of his Blood Vortex to heal and rescue all the minions from fear. She had stood side-by-side with Mato as he tanked that monster to keep him alive. And she would forever argue with Calen for bragging rights over who had struck the killing blow.
+
+I love my class.
+
+Martial Artist has reached level 46 (+3).Soul Strike has reached level 50 (+3).Healing Mantra has reached level 60 (+6).Perfect Body has reached level 34 (+2).Soul Armor has reached level 44 (+3).Enlightened Evasion has reached level 44 (+3).Divine Step has reached level 48 (+2).Second Wind has reached level 32 (+3).Clarity has reached level 32 (+3).Soul Sight has reached level 27.Dancing has reached level 12 (+2).Appraise has reached level 25.
+
+Malika took a deep breath. She had always desired to become strong, and for the longest time, she doubted herself. But today, she felt like she had earned it. She was level ninety-eight, and she had put down a dungeon that had consumed an entire troll kingdom. She glanced over at the little troll girl curled up on her mother’s lap. While she had saved far fewer people than she had hoped, some, at least, would live to see the sunrise tomorrow morning.
+
+Life is… good. In this moment. Yes…
+
+She directed her attention inward to distribute her newly earned attribute points. She pursed her lips in thought for a moment, but she had a good pattern going now and not much reason to change it up. Nine points went to vitality, boosting her health. She spent five points each on intelligence and strength, ensuring that they wouldn’t lag and pull her down. She devoted twelve points to improving perception for Soul Sight. Sixteen points went to endurance, boosting her major defenses and stamina, twenty to wisdom improving Clarity and resistance, and the rest of her points – thirty-three – went to dexterity. With her class, speed improved everything.
+
+But she wasn’t done; more notifications awaited.
+
+Requirements met for skill advancement. Mentor: Rezan Jin.Martial Artist has surpassed level 45.Dexterity has surpassed 900.Wisdom has surpassed 700.Survived 100 magical attacks per second for more than ten seconds. Survived 50 ranged attacks in under ten seconds. Used Dancing to alter the course of battle.Mastered the defensive stances of the Nine Paths of Ahn Khen.Survived the magical attack of an evolved class. Able to perceive mana.Martial Artist gains Perfect Block.(You can block any attack: melee, ranged, or magical).Martial Artist – level 46Requires: Unarmed.You are proficient with unarmed and acrobatic martial arts fighting styles. Your reaction speed is enhanced.Stamina: Deliver a Melee Attack with any part of your body. Attack damage is increased by +998% [40 + skill + dexterity].Stamina: Block or deflect any attack, reducing damage taken proportional to dexterity and skill. Blocked attacks cannot cause critical damage. Physical, Melee, Attack, Defense, Mastery, DexterityAccept this advancement?
+
+Block anything? This looks really strong. She was certain this skill would have been incredibly helpful against the accelerated stream of ice bolts Mok’freja had fired at her, and surviving so many magical attacks must have been when she was dancing through Tol’brekk’s Blood Vortex.
+
+She considered it for a while, but she saw no reason to pass on this advancement and added it to her growing repertoire of powerful defensive mitigations. Immediately as she accepted the advancement, another notification popped up.
+
+Requirements met for skill advancement.
+
+Another one? Eagerly, she read on.
+
+Bloodline: Ahn Khen.Healing Mantra has reached at least level 60.Wisdom has surpassed 735.Used Healing Mantra to save a legend during a critical battle.Used Healing Mantra to survive the Blind Lich’s Decrepify.Used Healing Mantra to defeat a Lich’s Soul Terror for your entire team.Used Healing Mantra to help destroy three Altars of Sacrifice.Used Healing Mantra to save an innocent life. Healing Mantra gains Overheal Abundance.Healing Mantra gains the Area trait.(Excess healing above maximum health is shared by all nearby allies.)Healing Mantra – level 60Excess healing above maximum health is shared by all nearby allies. Range: 28 feet.Mana: The connection between your body and soul is strong. Instantly regenerate mortal wounds and restore health to anyone you touch. Your healing grants your target Clarity for 30 [skill / 2] seconds. Range: Touch.Soul, Melee, Area, Healing, WisdomAccept this advancement?
+
+Malika studied the offered advancement in growing amazement. The list of achievements alone that had been incorporated into the skill advancement gave her pause as she internalized the fact that yes, she had actually done all of that. At least three of the achievements had come in just this last battle, and maybe even the last one, too.
+
+While she liked to be rational about her class choices, she felt the resonance in her heart when she saw this advancement and decided to follow her parents’ advice: Go with your heart.
+
+She accepted it at once. A subtly profound shift rippled through her class-defining Healing Mantra skill. From now on, any time she healed someone in combat, she would have the option of healing more than their health to push her magic out into the area around them – and area healing, she knew, was going to be extraordinary in melee range.
+
+She pulsed her heal through herself quickly, even though she was already full, and a spherical blue-white ripple of her soul mana pulsed outward from her, reaching everyone resting around Mato’s tree.
+
+You have gained Clarity.
+
+Oh. Oh, wow! I don’t have to punch people anymore! She smiled as she realized the subtle, but critical change to the interaction of her skills. Now that overhealing had an effect, she didn’t need her target to be damaged to grant them the benefits of her Clarity buff. The sudden intensification of Mato’s regeneration aura proved it.
+
+“Wow! Now that’s awesome,” Calen said, clearly recognizing what she had just done.
+
+“I can still punch, if you’d prefer?”
+
+The half-elf grinned broadly. “Are you quite sure you’re a monk?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

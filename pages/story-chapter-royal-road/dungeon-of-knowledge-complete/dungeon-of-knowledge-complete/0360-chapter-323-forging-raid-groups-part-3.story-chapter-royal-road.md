@@ -1,0 +1,93 @@
+---
+id: 560f098d-cd39-55ff-a669-27707caeb885
+page-type-slug: story-chapter-royal-road
+title: "Chapter 323: Forging Raid Groups (Part 3)"
+slug: 0360-chapter-323-forging-raid-groups-part-3
+partOf: dungeon-of-knowledge-complete
+position: 360
+ownLength: 1451
+unit: words
+ownProgress: 1451
+publishedAt: 2025-07-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2467959/chapter-323-forging-raid-groups-part-3"
+royalRoadId: "2467959"
+markedReadAt: "2026-06-29T20:22:47.055Z"
+---
+
+“These next two bosses will be harder,” Ali said, eyeing Vivian as they made their way through the uncomfortably hot excavated caverns of the Emberforge Mines, now with her own domain flowing through all its tunnels and passages. “And the final one probably will require fire resistance gear and potions. I know this will mess up the convenient rotation, but I think I would recommend killing one or two of the other bosses first, just to gain a few more levels.”
+
+“I can work with that,” Vivian said. “A structured difficulty ramp is a good idea.”
+
+“What are you going to make?” Malika asked, standing beside her in the center of the chamber where they had encountered the Flame Broodmother. The dark cave was empty now, but it still bore the slag scars of the flame breath against the rock where Mato had tanked it. Ali hadn’t found the time to erase those with her Domain Mastery yet. The work never ends.
+
+“I’m going to make the Flame Broodmother again, but the raid version of it,” Ali answered, pulling out her Grimoire and beginning.
+
+“That was a great fight,” Mato said, nodding approvingly. “Everyone’s going to love it!”
+
+“Maybe not so much the mages and healers who get pasted to the walls,” Malika said, affecting a sinister grin. “But I like it!”
+
+Ali smiled at the back and forth that continued between the two of them, recalling just how challenging it had been to heal that fight. But that was precisely the reason she was going to recreate the boss – the healers needed to learn how to overcome the challenge safely.
+
+Flame Broodmother – Spider – level 60 (Fire)Domain Respawn applied to Flame Broodmother.Raid Domain Enhancement applied to Flame Broodmother.Nova Strike (Flame Web) applied.Overpowering Strike (Slash) applied.Attribute Enhancement (Dexterity) applied. Domain Enhancement complete.Your reserved mana has increased by +382.
+
+The original Flame Broodmother had also been level sixty, but it had only had a perception enhancement and the Nova Strike boosting its Flame Web skill. Ali’s version was deadlier and would require a very well-geared tank. Both Overpowering Strike and the dexterity enhancement would dramatically increase the physical damage to the tank and, combined with the flame breath that was capable of melting stone, it would be quite the challenge for the healers. And Ali most certainly had not forgotten that this Broodmother spider came with innate Enrage and Summon skills.
+
+Altogether, a nasty piece of work, she approved.
+
+As soon as she had completed the domain enhancement, the terrifyingly huge black spider shot up the sheer rock wall, jagged chitin armor gleaming in the near dark, and in minutes it had filled the upper reaches of the cavern with curtains of burning red flame webbing. Then, it filled its lair with a host of smaller flame spider spawns.
+
+Ali quietly explained the options she had chosen to Vivian, making sure she didn’t spoil the fight and any experience for the raid groups. Most of the onlookers were nervously discussing the high level of the spider, or excitedly pointing to the fire webbing on the ceiling, no doubt recognizing it from Lydia’s open gather quest that had been posted on the guild board for some time now.
+
+“Group one, you’re up again,” Vivian said, assigning the first group to go again without any hesitation – a decision Ali wholeheartedly agreed with. It would mess up the convenient rotation and mean the two untested groups would take a bit longer to get their fights, but the extra levels gained from killing the first boss would go a long way to making this fight manageable – and the earlier bosses would respawn in a few hours anyway, so everyone would get their chance.
+
+Before long, the eager raiders charged in and the cavern filled with the sizzling hiss of fire breath, the clanging of swords on chitin, and the shouts of typical battle coordination.
+
+Ali left the group fighting the boss, keeping an eye on it while she healed Havok from within the grip of the flame webbing that had her little acolyte pinned to the wall, and headed deeper into the mines, stopping when she finally reached the Landing. Here they had encountered the cloned Living Flame boss, but she had something different planned for the adventurers. She would need to come back down here in a bit and fill in the empty tunnels with spiders and elementals, but for now, she wanted to get the bosses done so the groups could get started on their training without delay.
+
+“Maybe wait here in the hallway,” Ali said, glancing at her friends who were accompanying her. Vivian and Lyeneru were still back at the Broodmother cave, observing the in-progress raid. “This one is going to have some environmental damage.” Some… that was a bit of an understatement for what she had planned.
+
+“Do you want some help out there?” Malika asked.
+
+“Oh, yes,” Ali said. “That would be great.”
+
+Ali flew out into the center of the chamber with just Malika joining her, hovering above the fire grass that carpeted the rough rocky ground in a sea of flames, and stopped at the base of the giant Lirasian Oak she had placed in the middle of the room – a massive elder tree that she had chosen both for its prodigious mana output and its resilience to the effects of all the fire grass.
+
+“You said hellfire for this one?” Malika asked, her eyes scanning the large chamber.
+
+“Yep,” Ali said and got to work.
+
+Hellfire Imp – Demon – level 60 (Hellfire)Domain Respawn applied to Hellfire Imp.Raid Domain Enhancement applied to Hellfire Imp.Affinity Aura (Hellfire) applied.Mass Summoning (Hellfire Imp) applied.Spell Cascade (Fireball) applied. Domain Enhancement complete.Your reserved mana has increased by +382.
+
+Malika’s magic coursed through Ali’s body as soon as her domain enhancement took effect. The oversized Hellfire Imp cackled as its aura rolled out, filling the room with hungry black flames. It was the first time she was using hellfire affinity with her Affinity Aura, so she studied the effects with great interest, despite the familiar pain of burning paired with healing. This is annoying, Ali thought and expanded her barrier to create a sphere that included both herself and Malika. The flames raged outside, buffeting her golden bubble, but nothing reached them inside it.
+
+“That’s nicer,” Malika grinned.
+
+“Agreed,” Ali said, raising an eyebrow as the imp’s aura washed up against the outer reaches of the enormous chamber – far larger than she had been expecting. More intense, too. So, specialization really helps.
+
+“What did you give this one?” Malika asked.
+
+“Vivian asked for a team coordination challenge – something that pushed the healers and the damage dealers. I gave it Mass Summoning for more Hellfire Imps, and Spell Cascade on fireball,” Ali explained quietly. “What do you think?” The raid boss Hellfire Imp was exactly level sixty, the minimum requirement for Mass Summoning. If Vivian wanted a chaotic challenge, she was going to deliver extreme unpredictability.
+
+“Ooh, that’s nasty,” Malika said. “Oh, and the room is hellfire, that’s verging on evil, Ali.”
+
+Ali gulped. “Ah…”
+
+“Abolish that thought this instant, you nitwit!” Malika managed to roll her eyes and punch Ali’s shoulder lightly at the same time. Excellent dexterity. “Smack this into that massive brain of yours – you are not evil. Understood?”
+
+“Right.”
+
+“Right! Or I’ll smack you again.”
+
+Malika had clearly realized the implications; Imps had always been a real pain to pin down due to their ability to travel within any fire using Flame Form – including their own fireballs, warg hellfire breath, and the flame shields of their companions. What Ali had done was create the ideal environment for the summoned imps by giving the boss a hellfire Affinity Aura and filling the entire room with the black flame.
+
+“Yep, I think they’ll struggle with this one,” Ali said as they walked out of the room together, Malika keeping their health at full. “But I wanted a bit of a progression so that they are close to gold rank by the time they hit the undead dungeon.”
+
+“That’s good thinking,” Malika said. “Going a little harder in the training room saves dying in a real fight.”
+
+“The crafters are already set up to make fire resistance gear and consumables,” Ali said. She was glad Malika understood her reasoning. She just hoped the adventurers facing this ridiculous imp would eventually get it, too. Of course, she would be fighting alongside them, so she was sort of doing it to herself.
+
+“Vivian has been pushing the raiders to take advantage of that already,” Malika said. “It’ll be hard, but I think they’ll manage.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

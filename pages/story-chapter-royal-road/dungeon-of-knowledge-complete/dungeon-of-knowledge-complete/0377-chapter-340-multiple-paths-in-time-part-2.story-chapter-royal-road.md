@@ -1,0 +1,117 @@
+---
+id: 083b4dcb-066a-5ed6-ba70-341935f5d843
+page-type-slug: story-chapter-royal-road
+title: "Chapter 340: Multiple Paths in Time (Part 2)"
+slug: 0377-chapter-340-multiple-paths-in-time-part-2
+partOf: dungeon-of-knowledge-complete
+position: 377
+ownLength: 2867
+unit: words
+ownProgress: 2867
+publishedAt: 2025-08-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2502047/chapter-340-multiple-paths-in-time-part-2"
+royalRoadId: "2502047"
+markedReadAt: "2026-06-29T20:23:23.397Z"
+---
+
+The path toward the first of the string of islands to the left of the starting Gate was outlined with oddly shaped fragments of arcane magic, barriers of uneven shape and size, resembling stepping stones in a pond. Only, instead of traversing water, they were transparent platforms, like glass steps suspended above the yawning space and the distant ground below.
+
+She hopped onto the first one, favoring her injured leg, frustrated with just how debilitating it was, and how easy it would have been to heal her injury if she just had access to her minions or her storage ring.
+
+“Why are you so quiet?” Cael asked. He had been growing more and more insistent when Ali had simply ceased talking with him, and while Gage continued his infrequent taunts and wishes for her misfortune, Cael seemed distraught with the fact that she had shut him out.
+
+Serves him right, Ali thought, sparing not a shred of pity for the disembodied voice who had deceived her into hurting herself and then gloated about it. She hopped carefully to the next barrier and then studied the wide gap in the path before her. A single arcane elemental traversed the gap, carrying a moving barrier above its inverted pyramid shape, and much as she dreaded hopping onto a moving target, it was clear what she needed to do. As soon as it reached her, she jumped, landing awkwardly on her good leg, teetering precariously for a moment before she collapsed onto her behind to save her balance. She pointedly ignored Gage’s groan as she averted disaster.
+
+Hopping off at the other end was somewhat easier – a matter of trying to hit a much bigger, stationary target. Still, she took a bit of a tumble with her bad ankle before she steadied herself and continued her path. Slowly, she picked her way across the arcane platforms and smaller floating islands until she stood facing a gap. It was not a particularly large gap, but it was a gap, nonetheless. With her magic, she would barely have even noticed it. Malika or Calen could have made the jump across without even thinking, but she was small, and her physical attributes were very low. And she had only one good leg.
+
+Nothing appeared to help her out, no floating platform came to her rescue, nor portal magic she could use to bypass it. All her focus came down to these moments, each simple step, each goal attained.
+
+“You must jump,” Cael said, voicing the reality Ali feared.
+
+She refused to take him at his worthless word, but she had to confront the situation. There was no obvious way forward – she either needed to jump or fail the entire challenge, and be stuck here, perhaps forever. So far, they had been following their admittedly demented ‘rules,’ but if she balked, all bets were off, and Ali didn’t want to contemplate what that would mean for her future in here. Probably a swift push off the edge with a burst of space magic.
+
+She swallowed and shuffled closer to the edge of the barrier, trying not to look down too much. With her sprained or perhaps even broken ankle, there was no chance she could gain momentum with a run-up. She swung her arms several times but stopped just short of leaping.
+
+You can make it, she told herself, and flung herself into the gap before her mind could stop her again. She sailed through the air, and for a moment, she thought she had made it, but then she began to fall, seeing the edge of the arcane barrier rising way too fast. In desperation, she reached out with both hands, stretching as far as she could. Her heart caught in her throat as the fingertips of her right hand curled around the edge. Her body swung precariously under the barrier, held on by only one hand until she began to swing back, and her fingers began to slip alarmingly. Struggling furiously, she pulled, managing to catch the edge with her other hand and slow down the inexorable slipping of her fingers across the cold, smooth magical surface.
+
+Ali hung, swaying in empty air for several moments, breathing heavily. This was just like the time when she had blown up the lake in her forest cavern, long before she had even known she was a dungeon. It had been hard to pull herself up the barrier surface back then, and now she would have to do it while injured.
+
+If I ever get out of here, I’m commissioning a ring with strength on it.
+
+She gritted her teeth and tuned out the voices of her tormentors. Her fingers cramped and her biceps trembled as she pulled hard before her arms grew too tired to hold her up, once again grateful for her small size. It took forever for her to reach over the edge of the barrier, and lever herself up with her good leg, but finally, she managed to clamber up and threw herself onto the surface of safety, grateful for every last point of dexterity she had spent since the first time she had struggled with clambering up onto a barrier for her life.
+
+“That was so much fun!” Cael exclaimed. “Let’s do that again!”
+
+“You’re pretty seriously messed up if you think someone almost dying is fun,” Ali snapped, annoyed with her captors and their amusement with her near brush with death. Her life wasn’t entertainment for some demented voices with their space magic. Fury burned through her veins, but to her surprise, Cael didn’t respond, both brothers falling silent as she wearily scrambled to her feet and continued to the next island.
+
+I wonder if you can murder someone twice? Three times? Seth will help me, she thought furiously. Idiots!
+
+Unfortunately, the island was not the home of a barrier runic circle, and worse yet, she found a portal circle floating on a tiny island when she peered over the edge – a portal that appeared to lead to the next island far out of reach. It was the very same setup that had gotten her injured.
+
+Grumbling internally at the demented nature of her captors, she turned around and lowered her feet off the edge of the island, shifting further and further until she was hanging from the lip of white marble. The more she could reduce the distance she needed to fall, the better. And she had learned her lesson – she eliminated all possibility of sideways drift before she released herself. She fell through the floor of the portal circle, feeling gravity flip upside down, much to the annoyance of her stomach.
+
+She grimaced, enduring the vertigo induced by the repeated flipping upside down as her body oscillated between the sides of the portal, slowly reducing in amplitude until she reached out and caught herself on the edge, pulling her battered body up out of the portal like she was climbing out of a hole.
+
+Aah… there it is. The arcane barrier runic circle was clearly visible on the next island. It was close by, however the passage between the two islands was marred by a gap in the stepping stones – this one larger than the last. Ali stared at it in dismay, knowing that in her state, there was no chance she could make that jump. Not in a million years.
+
+“Go on, try it,” Gage snickered.
+
+“Shut up,” Ali snapped. She was fed up with the two of them rooting for her death. Exhausted, she flopped down onto the ground, sitting where she had stood, staring dejectedly at what was, in the grand scheme of things, a tiny gap in the path. Small though it was, it may as well have been infinite for all the chances she had of crossing it. If only she had put more points into strength or dexterity, she might have done it – or perhaps if she had unlocked a stamina-based movement skill like Malika’s Divine Step. But her physical attributes were a paltry six and seventy-eight respectively, nowhere near enough to make a jump like this.
+
+This would be a perfect opportunity for Empowered Summoner, she thought. It would be so easy to just switch to a different boss and gain the right attributes to solve the problem, but none of her magic worked here.
+
+Wait, that’s not exactly true. I can still see mana, and Sage of Learning is still eating my mana. It was the only ability that was consuming mana at the moment. All her passive abilities still functioned normally. Could it be suppressing abilities that have cost? When she had tried to use her spells upon arriving here, it felt like she did not have enough mana to cast them. There was also the issue that manifesting magic in the spirit realm was impossible without the Ghost Mushrooms. But another interpretation of the sensation was that the cost was somehow increased. Burning with curiosity now, she opened her skill description.
+
+Empowered Summoner – level 51Mana: Your minions gain added nature and arcane damage on hit.Choose up to two Minions. You gain 144.1% [40 + skill + base intelligence x 0.15] of their highest base attribute. Range: 37.95 meters. Reserve: 10%0: Replace a minion target for your attribute enhancement. Minions with at least Boss Domain Enhancement may be used as a target regardless of range. Recharge: 1 hour.Nature, Arcane, Minion, Buff, Intelligence
+
+Her reserve was still active, which meant that her skill was still running – she just had no nearby minions to gain extra damage. But although her wisdom bonus had been lost when her trolls were killed by the Heroes of the Crimson Blade, she still had her intelligence bonus from Mok’freja – the Ice Queen was still alive, guarding the rift chamber. And the ability to switch targets had no cost other than the recharge.
+
+Ali reached for her skill and activated it, choosing her giant Carnage Berserker, Tol’brekk to replace her lost wisdom buff. To her intense surprise, her strength attribute suddenly skyrocketed.
+
+Six hundred and seventy-eight? She knew that her Berserker was insanely strong but, not only had she not expected this to work, but she had boosted her strength to an unheard-of amount. She got to her feet and faced the gap with suddenly revitalized hope. She was about to leap when she froze. She had a new problem. With so much unfamiliar strength, there was a very real chance of her leaping too far and plummeting to her death. Carefully, she tested out her newfound power, jumping as lightly as she could, straight up. She launched herself into the air, soaring over ten meters in height before she came down, windmilling her arms in fear of the sudden height. She landed comfortably, absorbing her momentum on one leg. Well now… this changes everything. She tested it a few more times adjusting for her new strength before confronting the gap and leaping out over the abyss.
+
+Her body soared into the air, and for a moment, she felt what it was like to be her Carnage Berserker, leaping at his foes with incredible power. She cleared the gap with ease, landing in the center of the island on her good leg, her injured one extended to the side to protect it from the impact as she stabilized herself with her hand.
+
+Well, that was impressive, she thought.
+
+“How did you do that?” Cael screeched.
+
+“That’s cheating!” Gage’s voice exclaimed angrily. “How did she – how?”
+
+Ali ignored them both, walking over to the arcane circle and sitting in it.
+
+Accept creation of Barrier Platform Four?
+
+She activated the barrier, staring at the almost completed path between the two major Gates. All that remained was a single, substantial gap at the end, the last step between the final floating island and the exit platform.
+
+She searched around her, discovering the final arcane circle on an island floating a little below her current vantage point, but rather distant. But the arcane bridge between the two islands was shattered and the distance she would need to jump seemed extreme.
+
+Maybe if I swap intelligence for dexterity? She thought. Control would become the limiting factor in such a long jump and her dexterity was relatively low – certainly compared to Calen or Malika – the only people she would imagine doing such a feat. She was still considering the problem when the spirit realm flickered, and she found herself back at the start. Switching her dexterity would require waiting an hour for her recharge or using her Arcane Recall to ignore it – if that even worked here.
+
+She studied the spiral arc of islands to the left, considering the ridiculous jump she would need to make. The brothers had evidently never intended for this puzzle to be solved – this much was now obvious.
+
+Or… her attention shifted to the winding path and the missing arcane bridges that would be progressively filled in by the shadow echoes of her previous selves activating the rune circles. In particular, the final gap, which was not that much longer than the jump between the islands she had been contemplating.
+
+She got to her feet, limped up the center path, and waited until her echo turned on the first barrier. She crossed it, somewhat surprised that Cael and Gage made no comments. Were they sulking? Planning another deathly surprise for her? Her echo filled in barrier three and she waited till barrier two appeared before crossing all of them. Then she sat to wait for a while – her journey to activate the fourth barrier had taken much longer, but eventually, the golden bridge flickered into life, and she crossed it, and the island, finally confronting the gap and the Gate beyond.
+
+She would need more control to leap to a tiny island in the middle of nowhere, but this jump had a broad platform with a Gate in it. Even if she missed her angle, there was a great wall of white stone behind the Gate – it might hurt to crash into it, but it would catch her. She crouched down, heavily favoring her good leg, and threw herself forward.
+
+Her tiny body catapulted across the gap, zooming past the abyss and hurtling across the final platform. She passed the Gate, slamming hard into the wall behind it, leaving several radiating cracks where her foot arrested her momentum before she fell to the floor. The several-meter drop onto stone was nothing compared to the impact against the wall, and certainly, with almost seven hundred strength, her body shrugged off the impact as if it were nothing.
+
+“That’s cheating,” Gage complained.
+
+Ali got up, dusted her hands, and then stepped through the Gate. To her surprise, her chime sounded.
+
+You have defeated Multiple Paths in Time – Puzzle – level 107 (Arcane / Space).Dungeon of Knowledge has reached level 112 (+3).+30 attribute points.Arcane Insight has reached level 62.Arcane Recall has reached level 23.Runic Script has reached level 55.Sage of Learning has reached level 52.Empowered Summoner has reached level 53.
+
+What? I got levels for this ridiculous charade? Ali had never expected to gain class levels for the strange puzzle Cael and Gage had forced upon her. There were many accounts of dungeons providing puzzles as challenges in place of monsters, but she had never considered the implications. Yet again, she found herself wishing she could find an experienced dungeon to talk to about how everything worked – the best reference she had was Nevyn Eld’s book – and as she had discovered, not even the genius scholar and Lich had fully understood the subtleties of how dungeons worked.
+
+She paused to consider her attributes. She had vowed to invest in strength while she had been hanging from the barrier, but that was before she had discovered she could gain strength from empowering herself from Tol’brekk. The paltry few points she might spend now were nothing compared to the boost he provided. I should keep his boost while I’m here, she decided. She couldn’t know what was coming next, though, so she instead spent a point on dexterity and two on vitality. One further point went to endurance. It was not much, but she hoped she wouldn’t need it. She spent six points on perception and split the remaining twenty evenly between wisdom and intelligence. I wish I could do more.
+
+As she considered the revelation about the nature of a puzzle dungeon, her mind began to fill with ideas for her own dungeon. Puzzles that could be used to train adventurers and better ways to construct her challenge arenas. This could even be used to level non-combat classes, she realized – except for the giant leap at the end, there was no reason someone like Ryn or Mieriel couldn’t have completed the Multiple Paths of Time puzzle.
+
+But what makes it a proper dungeon puzzle? she wondered. Was it the lack of hostile monsters, or was there more to it? As she glanced around the new room she found herself in, her mind filled with unanswered and unanswerable, questions.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

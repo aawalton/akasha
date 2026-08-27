@@ -1,0 +1,119 @@
+---
+id: da85ea9a-f41f-543f-bb68-e084c8982016
+page-type-slug: story-chapter-royal-road
+title: "Ch10 Minor Lottery"
+slug: 0010-ch10-minor-lottery
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 10
+ownLength: 1360
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211644/ch10-minor-lottery"
+royalRoadId: "3211644"
+---
+
+[Ding!][Rewards have been deposited into your storage!][x3 Perfect 1st Tier Upgrade Card][x1 Minor Lottery Draw]
+
+[Ding!][Check-In Time Threshold has been updated to Level 1 Qi Refinement Settings.][Wait 1 day for your next Check-In!]
+
+Notifications echo in my ears and form in golden text before my eyes. I choose yes, and feel 3 bronze cards materialize in my storage beside a small black and red shimmering 20-sided die.
+
+"What is this...? A side quest...? System, since when are there quests?"
+
+[Ding!][Host has requested to see available quests.]
+
+[1 Main Quest Task Available][Officially join the Azure Cloud Sect by becoming an Outer Disciple.]
+
+[3 Side Quest Tasks Available][Kill 5 humans, (1/5 complete).][Reach the 4th Level of Qi Refinement, becoming a mid-level qi refiner.][Become an Azure Cloud Sect Steward.]
+
+[??? Mysterious Quests Available][Hidden]
+
+I watch one of the lines below the side quests fade away, where the quest to reach the 1st level of qi refinement used to be. Nothing on this quest board looks like it can be attained in the near future, so I let it fade away to the back of my mind. Yet, the fact that this function existed and I had no idea about it makes me wonder what else this system is hiding.
+
+"Is that it? My Check-Ins are daily now? Anything else you want to show me?" I murmur out into the empty hut.
+
+Only silence returns.
+
+I stand to my feet, and when I look around, everything feels and looks different.
+
+The depth of my senses has increased to an astonishing degree. The smell of my bed, my sour clothes, and the old rations in my wooden crate are far more potent.
+
+The cracks and texture of the wood and mud that hold this hut together are so much more defined.
+
+When I look down at my own body, it feels significantly stronger. The same sensation I felt after eating that marrow cleansing pill is radiating through me, like fresh surges of energy just washed through my meridians. However, they flow around with ease.
+
+My pores are wide open, but there are no built-up impurities to be expelled.
+
+If I didn't cleanse myself previously, I'd certainly be sitting in a pile of that black goo again right now.
+
+I move my fingers around, and feel the increased dexterity.
+
+Then breathe in through my nose and sense the ambient qi in the air that feels warmer and more familiar.
+
+I jump up in the air, and my head touches the top of the hut. My strength has significantly increased, and I don't even know by how much.
+
+My skin, bones, muscles, and organs all feel extremely warm. I can sense raw qi infused within my entire being, an effect that was not present moments ago before this transition.
+
+I'm filled with excitement, but at the same time, a twinge of fear washes over me.
+
+There's a saying many elderly would repeat often back in the farming village I worked as a slave in for 12 years. It is that, "A tree that stands out in the forest will be destroyed by the wind."
+
+There is already a set strength and power hierarchy set in this servant and steward relationship I have with Zhou Kang. We both have 5 mixed 9th grade trash spirit roots. He's wasted his whole life, over 60 years, and only made it to the 2nd level of qi refinement, while I've already made it to the 1st level in just over a month.
+
+His temper is already one to be feared, and having any envy my way would be unwise. I already used up all my perceived luck when I said I found a spirit stone in the stream. Showing off even more would raise suspicion.
+
+I gulp, and pull the 20-sided red and black die from my storage space.
+
+"System. You granted me a cultivation technique when I asked before... Now I need something that can hide my abilities and protect me from danger. We're in this together, aren't we?"
+
+My heart beats in my ears as I roll the die.
+
+Just like the last time, it slowly clicks along the floor and disappears the instant it stops moving.
+
+[Ding!][Minor Lottery Draw Successful!][x1 Copper Bell Talisman] [2nd Tier Defensive Item]
+
+Half a second later, a small black jade amulet on a necklace string appears in my storage space.
+
+On its rounded front, there is a perfectly carved bell design, its lines shimmering in a copper-orange hue.
+
+When I pull it out of my storage and hold it in my hand, it feels far heavier than an object its size should be. Instinctively, I pour a tiny amount of qi into it to imprint it as mine, and hear a system voice echo in my inner ear.
+
+[Ding!][Copper Bell Talisman has bound to the Host!][Passive Ability: Conceals the aura of the wielder for any cultivators within the Qi Refining Realm. The wielder will appear as a mortal.][Active Ability: 3 Uses, Non-Rechargeable. This Talisman can be activated to create a copper bell energy barrier around the wielder, lasting 15 seconds. It is capable of blocking an attack from an initial stage foundation establishment cultivator.]
+
+A warm pulse of energy flows back at the same rate I pushed it in, and an invisible illusory shield of pressure covers my entire body.
+
+It feels like a thin one-way film that I can sense through, but no presence can look back through unless I allow it.
+
+Even the ambient qi in the air, it would bounce right off unless I want to absorb it.
+
+I stare dumbfounded at the item for almost a minute straight, then hurriedly place it around my neck and clasp my hands.
+
+"Thank you, System. You have aided me greatly once again."
+
+–
+
+My cheeks grow tight from smiling as I go on with my day.
+
+When I first joined this sect, I wasn't exactly weak. I could lift up to 70 kg at a time, even when I worked in the fields back as a farming slave. Yet, after I began cultivating, absorbing warm qi into my meridians, slowly my strength increased to about 100 kg at a time. It hasn't been a huge shift, the only real noticeable change was that my energy levels throughout the day stayed high. I could work longer without having to rest. Yet, after this breakthrough, all of the dormant energy resting in my body has finally been activated. My raw strength and basic senses have undergone an immediate and monumental shift.
+
+I can lift a 300 kg log and carry it over to my hut to chop up now that the 1st level of qi refinement has been consolidated.
+
+Even the sharp branches and bark that scrape against my skin don't leave any marks.
+
+The overwhelming force I felt within Zhou Kang's slap, or the hardened skin of a Martial Warrior back in Donghe village, now do not seem so unattainable. It all feels natural, and within my grasp.
+
+Chopping wood into perfect pieces is as simple as cutting up vegetables today.
+
+I finish filling up the bin in under an hour, and head back to my hut to cultivate in solitude before the birds stop chirping at the morning sun.
+
+Another newly granted 1st tier upgrade card is used to form a new spirit stone for my session.
+
+I'm able to sit and concentrate for over an hour today before I have to stop.
+
+I do not limit myself at all, going on and off every hour, cultivating 5 times before the sun goes down.
+
+With my enhanced senses, I have been waiting all day to hear my neighbor's axe start chopping wood. However, even after my usual lunch break at the stream, he has not started.
+
+I catch glimpses of him laying out on the grassy ground in front of his hut and sulking while staring at the sky. He even paces about in front of his cold axe, murmuring to himself, but he never touches it.
+
+Not a single new block of wood has entered his metal bin by the time I perceive Zhou Kang's outline walking down the mountain path.

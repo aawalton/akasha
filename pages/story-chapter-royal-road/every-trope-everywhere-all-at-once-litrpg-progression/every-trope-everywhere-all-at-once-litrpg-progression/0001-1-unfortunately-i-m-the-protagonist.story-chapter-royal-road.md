@@ -1,0 +1,433 @@
+---
+id: e28c507b-4a00-567d-9981-623706c8e825
+page-type-slug: story-chapter-royal-road
+title: "1 - Unfortunately, I'm the Protagonist"
+slug: 0001-1-unfortunately-i-m-the-protagonist
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 1
+ownLength: 1900
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3373465/1-unfortunately-im-the-protagonist"
+royalRoadId: "3373465"
+---
+
+Level 100.
+
+That’s where I started.
+
+Not level 1. Not level 5. Not even something reasonable like 10.
+
+Level. 100.
+
+…
+
+Actually, no. I should’ve expected that. That’s a trope. This entire world is a damn trope.
+
+[TROPE COMPLETED: OVERPOWERED PROTAGONIST]
+
+[REWARD: +5 LEVELS]
+
+[LEVEL]
+
+[100 → 105]
+
+Right.
+
+That was the power the goddess told me about. The more tropes I come across and complete, the more powerful I get.
+
+I stood, patting my pants and brushing off bits of grass and dead insects. I was under a tree on a grassy hill, with a castle in the distance.
+
+It was—actually, never mind. I don’t feel like describing it. You already know what a castle looks like.
+
+[TROPE IN PROGRESS: GENERIC FANTASY WORLD]
+
+Description: A generic fantasy world.
+
+I blinked.
+
+That was certainly one of the descriptions of all time.
+
+I slapped the message away and started running down the hill. Not even two steps later, I tripped.
+
+Then I rolled.
+
+Then I kept rolling.
+
+By the time I stopped, my entire body was bruised and aching. I had even landed on my face, tasting dirt for the first time in this world.
+
+“...Ow.”
+
+Damn it. This body of mine had shorter legs than I expected.
+
+[TROPE COMPLETED: CLUMSY PROTAGONIST]
+
+[REWARD: +5 LEVELS]
+
+[LEVEL]
+
+[105 → 110]
+
+[TROPE COMPLETED: SHORT PROTAGONIST]
+
+[REWARD: +5 LEVELS]
+
+[LEVEL]
+
+[110 → 115]
+
+I let out a laugh.
+
+It had only been a few minutes since I reincarnated, and here I was leveling up every other second. The goddess might as well have just made me Level 115 from the get-go.
+
+What the hell was happening?
+
+Just as I was about to get up, I heard a faint sound of squelching to the side. I slowly turned.
+
+My eyes widened at the demonic, nightmarish, abominable beast “standing” before me.
+
+“A blue slime,” I said.
+
+It bounced closer, jiggling each time.
+
+Wait a minute, isn’t this a…?
+
+[TROPE INITIATED: SLIME AS FIRST MONSTER ENCOUNTER]
+
+Completion criteria: Defeat the slime.
+
+Of course. So the first thing I’ve run into in this world was a slime. How original.
+
+I shook my head. “Yeah, I’m not doing this.”
+
+[TROPE IN PROGRESS: SLIME AS FIRST MONSTER ENCOUNTER]
+
+Status: Avoidance detected.
+
+I stared at the message, then at the slime, then back at the message.
+
+I stood up and started walking away.
+
+The squelching continued.
+
+I walked faster.
+
+It followed.
+
+I stopped.
+
+It stopped.
+
+“...Seriously?”
+
+I sighed and turned around. The slime stopped bouncing the moment I did. It was just standing there… menacingly.
+
+“[INSPECT],” I said.
+
+I didn’t know if it would work, but judging from all the books I’ve read and the shows I’ve watched, it had to do something.
+
+Sure enough, an interface appeared.
+
+[MONSTER: SLIME]
+
+Level: 1
+
+HP: 10/10
+
+Description:
+
+You are expected to defeat this.
+
+Assessment:
+
+Failure to defeat this is… concerning.
+
+Wow. So now the description was mocking me?
+
+I swiped the messages away and walked up to the slime, crouching in front of it. Up close, it was… honestly kind of adorable.
+
+I shook my head. No. Absolutely not. What the hell was wrong with me? It was a monster—a monster, damn it. I have to kill it.
+
+The slime had no facial features. It was just a big blob of blue. Still, I swore I could see it looking back at me with puppy eyes.
+
+I found myself smiling. Screw it. One little pat on the head won’t hurt, right?
+
+…
+
+Did slimes even have a head? Or was the whole thing just a body?
+
+I reached out and stroked its head like it was some kind of pet. It shivered from my touch, almost like it enjoyed it.
+
+I blushed. This cute little thing… should I give it a name?
+
+Then it exploded.
+
+Chunks of blue spilled across the grass, all over my clothes.
+
+…
+
+[TROPE COMPLETED: SLIME AS FIRST MONSTER ENCOUNTER]
+
+[REWARD: +2 LEVELS]
+
+[LEVEL]
+
+[115 → 117]
+
+[ITEM ACQUIRED: BLUE SLIMEBALLS]
+
+Description:
+
+The remains of a slime.
+
+Effects:
+
+- None
+
+Note: It’s slightly bouncy and technically edible. Give it a try.
+
+Tears formed in my eyes. A part of my soul had just died, but I should’ve expected this. Someone over Level 100 had no business touching a Level 1 monster.
+
+Out of respect, I decided to leave the slimeballs where it died.
+
+Rest in pieces—I mean, peace—little one.
+
+I stood and glanced around. What do I even do now?
+
+My eyes naturally drifted to the castle in the far distance. Should I just head there?
+
+I mean… castles usually have people, right? People usually know things.
+
+Good enough for me. It was probably the best place to learn more about this world anyway.
+
+***
+
+I’ve been following the cobblestone road for a while now, and my legs were already starting to give out. I don’t know why, but it looks like I’ve been reincarnated into one of the tiniest, most unathletic bodies ever. The scorching sun certainly didn’t help either.
+
+I was about to topple over and pass out when I noticed a man on horseback coming down the path. He had several bags tied to both sides of his horse. Worst case—he pulls out a knife and stabs me to death. Best case—he has some water for me.
+
+Please don’t kill me.
+
+[TROPE INITIATED: TRAVELING MERCHANT ENCOUNTER]
+
+Completion criteria: Gain information. And water, too.
+
+When he got close, I tried calling for his attention.
+
+“Hey, quick—”
+
+His horse continued walking past me as if I didn’t even exist.
+
+“Hey!” I shouted.
+
+That seemed to have caught his attention.
+
+He slowed, looked at me, and frowned.
+
+“...What is it?” he asked right away. And geez, what’s with the harsh tone?
+
+“Do you uh… happen to have any water on you? Please spare some for this poor dying little girl and—”
+
+“Where are you coming from?” he cut me off.
+
+That was… strange? I didn’t sense any hostility or anything, but something about him felt off. That was a weird question to ask a stranger like me, wasn’t it?
+
+I made up a lie on the spot.
+
+“Uh, a village?” I said. “Far from here.”
+
+His gaze remained stone cold.
+
+“What village?”
+
+“I don’t remember the name.”
+
+That was probably the most suspicious answer I could’ve possibly given.
+
+The man stayed quiet for a moment before slowly glancing at the castle behind him. “Are you here to visit Lyndale Castle?”
+
+“I—”
+
+Before I could finish my sentence, his horse neighed, growing restless.
+
+“No,” he said suddenly.
+
+I blinked. “No?”
+
+“You shouldn’t go there.”
+
+“What? Why not?”
+
+He tightened his grip on the reins.
+
+“You have their blood.”
+
+“Blood?” I shook my head, raising my fist. “Look, I don’t know what you’re talking about, but I just need some water! Don’t let a little girl like me die out here!”
+
+He pulled the reins, and the horse jogged him away.
+
+“Wait!” I yelled after him.
+
+But he continued riding away—too fast for me to chase after him. Before I knew it, he was already gone.
+
+“Seriously…? What was that about?”
+
+[TROPE FAILED: TRAVELING MERCHANT ENCOUNTER]
+
+Reason: Target fled.
+
+Punishment: None.
+
+Punishment? I could get punished for failing a trope?
+
+I stared at the empty road for a moment, then sighed.
+
+The way he looked at me… something was off. What was that?
+
+…
+
+I exhaled. “Okay. Whatever. That’s fine,” I assured myself.
+
+Screw water. I don't need it anyway.
+
+…
+
+Damn it.
+
+I turned toward the castle. For some reason, it looked even further than before. Was it because of how badly my body was heating up?
+
+I forced my legs to keep moving down the path.
+
+This entire world was just a generic fantasy world, just like the System said, right? I’m sure it’s not much different from anything I’ve ever seen before.
+
+I’m sure.
+
+***
+
+If you were expecting me to already be inside the castle after that line break, you’d be wrong. That damned thing was a lot farther than it looked.
+
+So now I was sitting by a tree, resting under its shade.
+
+Though it looks like I’m not alone. Someone else had the exact same idea.
+
+She sat on the other end of the tree with her brownish-red hair and a stature fitting for a knight. I snuck glances at her now and then, wondering when she would stand up and continue on.
+
+But for some reason, she never moved at all. That was when a thought came to me.
+
+Was she… dead?
+
+No… that couldn’t be, right?
+
+Or was this some kind of trope I didn’t know about? A trope where the protagonist finds a dead body next to a tree?
+
+No, that can’t be. That sounds way too specific.
+
+I gulped and leaned over for another look. And when I did, I saw her staring back at me, eyes wide.
+
+I jumped back, nearly having a heart attack.
+
+“What the—?!” I yelped.
+
+She did the same, stumbling back.
+
+“You scared me!” she shouted.
+
+“No, you scared me!” I shot back.
+
+“What?!”
+
+I put a hand over my chest, feeling my heart race.
+
+“Geez, I thought you were dead…” she said, letting out a sigh.
+
+“I… I thought the same.”
+
+“Really? But I was moving the whole time,” she said. “Sneaking glances at you.”
+
+“Huh? I was doing that too.”
+
+We blinked, staring at each other.
+
+Ah.
+
+I see what’s going on.
+
+Every time I looked at her, she just happened to be staying still, and every time she looked at me, I did the same.
+
+“You didn’t hear me walking over and sitting next to this tree?” I asked.
+
+“I was asleep,” she said. “And when I woke up, I thought you were here to rob me or something, so I just didn’t move.”
+
+We both laughed.
+
+“Are you heading to Lyndale Castle too?” she asked.
+
+“I am.”
+
+“Really? What for?”
+
+“Uh…”
+
+I scratched my head, scrambling for something.
+
+“The Adventurer’s Guild,” I said. “Yeah, that’s it. I heard good things about it, so I figured I’d sign up.”
+
+That had to exist in this world, right? I just went with the most generic thing I could think of.
+
+Her eyes lit up.
+
+“Seriously?! Me too! Let’s go together!”
+
+Before I could react, she rushed over and hooked her arm around mine.
+
+I realized then that she was… a lot bigger than me, in more ways than one.
+
+“I’m Reina!” she said. “What’s yours?”
+
+“Allene…” I muttered.
+
+How did things end up like this?
+
+I called [INSPECT] in my head, aiming it at her.
+
+[HUMAN: REINA]
+
+Level: 5
+
+HP: ???
+
+Description:
+
+A physically capable individual who is adept with the sword.
+
+Assessment:
+
+Harmless. Probably.
+
+Why was her HP just question marks?
+
+“So you’re Level 5, huh?” I said.
+
+She looked at me. “What do you mean?”
+
+“…Your level?”
+
+“My what?”
+
+I blinked. “…You know. Your level. Five.”
+
+She stared at me for a moment before laughing. “Is this some kind of joke?”
+
+I frowned. “You seriously don’t know what that is?”
+
+“Yeah,” she said, tilting her head. “Are you feeling okay?”
+
+So it’s just me, huh? No one else can see it.
+
+[TROPE INITIATED: YOU ARE THE ONLY ONE WITH A SYSTEM]
+
+Completion criteria: ???
+
+Punishment: ???
+
+I stared at the message blankly. I had no clue why the completion criteria were kept hidden, but that definitely couldn’t have been a good thing.

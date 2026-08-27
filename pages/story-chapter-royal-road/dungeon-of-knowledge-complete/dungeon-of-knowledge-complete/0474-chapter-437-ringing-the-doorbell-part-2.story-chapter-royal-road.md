@@ -1,0 +1,189 @@
+---
+id: 427cd87c-7a37-59ab-806b-90d7fdd5a8e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 437: Ringing The Doorbell (Part 2)"
+slug: 0474-chapter-437-ringing-the-doorbell-part-2
+partOf: dungeon-of-knowledge-complete
+position: 474
+ownLength: 2350
+unit: words
+ownProgress: 2350
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2748697/chapter-437-ringing-the-doorbell-part-2"
+royalRoadId: "2748697"
+markedReadAt: "2026-06-29T20:28:15.706Z"
+---
+
+“Yes,” Ali said. “Dungeon rage. It will certainly get their attention.” It would, unfortunately, also be painful, but that couldn’t be avoided. At least she could keep it brief. She grew several other plants while her domain established itself: a fairy ring of ghost mushrooms that glowed bright blue and a Lirasian Oak to fully establish a strong domain here, wherever this was. The only thing she knew was that it was close enough that she could sense her domain mana leaking across from the normal world.
+
+Her entire plan had hinged on that fact, and it was a relief to find that her guess had been accurate. Even though the landscape was drastically different, they couldn’t be too far from the ruins of the second level of Dal’mohra, and she had planted a colossal Ciradyl tree just below it. Wherever they were, it seemed that the imprint of this space predated the city itself, and perhaps even the mountain range it was built in – a feat that she was certain Gage had a hand in creating.
+
+She watched closely, waiting for the domain to fully establish itself around her Arcanite Birch and Lirasian Oak, studying the curious effect of the interaction of her domain against the invisible spatial barrier. The infinitely fine weave of her mana butted up against nothing, bouncing back as if it were water lapping against an invisible shore. But every time it hit, infinitesimal shimmers and shifts betrayed the nature of the domain on the other side. And she had the advantage of having seen it before.
+
+She twisted her mana, morphing its shape to match what she could barely see in a manner reminiscent of an ooze molding itself to the shape of a nook to hide inside. It took several tries, each time requiring further refinement to her structure, but soon enough she found the right configuration, and her mana sighed as it suddenly soaked through the wall and spilled over to the other side. “I’m through the barrier,” she said, letting her friends know she wasn’t just staring off into space for nothing.
+
+“What now?” Mato asked, eyeing her sideways.
+
+“The bell part,” Ali said. Then, she braced herself and twisted. A small section of her domain polarized, shifting configurations to the hostile, incompatible structure she had used to tear through the Blooming Rot domain and the outlying weaker regions of the Lair of the Demon God. Pain lanced into her mind, the familiar pain of annihilating domains, but hers was like the diamond edge of a blade, slicing through a crisp apple. She let it cut for less than a fraction of a second and restored it, hoping it would be enough.
+
+“Ouch!”
+
+Cael’s voice echoed from somewhere nearby, loud and angry.
+
+“It was over here, Gage!”
+
+“I felt it too,” Gage said, “Stop yelling, and get searching!”
+
+Before Ali’s eyes, the boundary rippled, and suddenly she saw through it into the familiar white stone antechamber. “Cael? Gage? Are you there?”
+
+“Ali? Ali! Is it really you?” Cael exclaimed.
+
+“Of course it’s her,” Gage said, “I told you she hadn’t abandoned us. But no, you were all ‘woe is us, she forgot about us’, and all that drivel.”
+
+“I was not!”
+
+“Were too!”
+
+“Hi, guys,” Ali said. “Are you all ok? Can we come in?”
+
+“Yes, come in!” Cael said, their argument forgotten in an instant, and the barrier widened to give them space to enter the room.
+
+“We’re ok, but there were a whole lot of nasty Fungaloth monsters that came through your teleportation circle and tried to eat our things,” Gage said. “What happened to you?”
+
+What happened to me? Ali thought. Where to even begin? A jumbled cascade of everything all at once tumbled into her mind: her unwilling adventure in the Abyssal Realm, meeting Azryet, Lira’s murder, and the subsequent campaign against the Blooming Rot dungeon. But Cael and Gage ploughed onward excitedly, not letting her even get a word in edgewise.
+
+“I just teleported them to the maze, and they eventually died to the shades,” Cael said, sounding quite proud of himself as he interrupted his brother.
+
+“Don’t forget my elementals shooting them, Cael,” Gage said. “You always forget that part.”
+
+“I don’t forget it,” Cael said. “It just so happens that my teleport was so much more effective.”
+
+“Don’t be silly,” Gage said. “The Arcane Brawlers were the ones that actually killed most of them.”
+
+“Your memory is really getting quite terrible,” Cael countered.
+
+“Boys,” Ali said sharply, getting their attention. “Let’s not argue.” It was as she had feared; they had been at risk when the library had fallen, although it seemed like they had handled it quite efficiently. “That dungeon is still down there, and we wanted to see if you could help us defeat the final boss that is guarding the library.”
+
+“Oh,” Gage said.
+
+“Sure, if you think we can help?” Cael added.
+
+“We’re not very strong, though,” Gage countered.
+
+“I am,” Cael huffed.
+
+While the two of them nattered on, a powerful formation of space magic materialized around Ali and her friends, and moments later, she found herself whisked away, appearing once again in the familiar Spirit Realm version of the Grand Library Arcana. Towering bookshelves filled with gray, colorless tomes rose endlessly into the darkness above, and hovering above the atrium was the familiar set of golden squares with pieces laid out upon the board, somewhere in the late stages of an extraordinarily complex game of Kings and Emperors. And, seated there, cross-legged upon a golden disk like a throne, sat a familiar figure. She turned as they appeared.
+
+“Ali!” Ryn squealed, wings exploding from her back in a glittering puff of purple and gold magic, and she shot forward to meet them.
+
+“Ryn?” Ali exclaimed, but that was all she managed before Ryn collided with her, almost knocking her from her feet with a giant hug. “How…”
+
+She’s alive? She’s alive!
+
+Ali had hoped against hope that Ryn was alive, sequestered in a library somewhere. She had needed it to be true, but there had been no way for her to know, and the Spirit Realm library was not exactly where she would have looked first, although perhaps in hindsight it might have been the most obvious. “Have you been here the whole time?”
+
+“Yes,” Ryn said, “I’m stuck here.”
+
+“Stuck?” Ali asked, more than a little surprised. Ryn had an enviable teleportation skill with multiple libraries as destinations she could use, after all.
+
+“All the other libraries are gone,” Ryn said.
+
+“Gone?” Ciradyl, she understood, and obviously her Grand Library Arcana had been taken over by Blooming Rot. Myrin’s Keep was a ruined pile of rubble still. She continued processing the mental list. “What about Vertias? Volle?” She suddenly had a premonition, a certain knowing. She, too, had tried teleporting to all these locations via the loci she had memorized, and she had been devastated to find they didn’t work.
+
+“The libraries must be destroyed,” Ryn said. “The locations were removed from my skill – this is the last library I have left.”
+
+“Destroyed?” Ali gasped.
+
+“I told her I could teleport her somewhere, but she didn’t want to go blind,” Cael said.
+
+What could have destroyed all those libraries? Ali thought, but she knew right then that it was she who was responsible. She had happily made the teleportation circles that linked her dungeon to those cities via their loci. Then, she had allowed her domain to be captured by a hostile, rogue dungeon. Destinations that were dependent on her active mana reservation, Kezda and Aman Rak, had probably disconnected instantly, one side of the connection broken without her. But the links in the library had been permanent runic circles made from electrum, and the destinations were permanent loci in those towns. The Blooming Rot dungeon break must have spilled through those circles and into those cities, and clearly, the damage had been extensive.
+
+How many people did I kill with those circles?
+
+“It’s not your fault, Ali,” Malika said, putting a comforting hand on her shoulder. “You’re not the Blooming Rot.”
+
+“Sure, but I didn’t even consider the danger,” Ali said. “I put all those people at risk. I should have known better.”
+
+“You couldn’t know,” Mato said. “But if you want, after we finish the dungeon, we can go visit and help them.”
+
+“Thanks,” she said, looking gratefully up at her concerned friends.
+
+“Hey, Ali? Where did you get these?” Ryn asked, gently poking at one of Ali’s golden wings.
+
+“Aah, I have a bit of a story to tell you all,” she said. “But first, we have something urgent to take care of.”
+
+***
+
+“… and so that’s why I wanted your help, Cael,” Ali finished. “We can’t defeat the Treants if we can’t deal with the teleport.”
+
+“You want the suppression?” Cael asked.
+
+“Yes,” Ali said. “Is it possible?”
+
+“No,” he said. “Our magic doesn’t work outside the Spirit Realm. At least, we have never figured out how to get it to work.”
+
+“What if you teach it to me?”
+
+“It requires space affinity mana.”
+
+“I can sorta do space with my domain,” Ali said. But then she frowned. The problem was, she could write space magic runes only in an area of her domain that had space affinity in sufficient density, but the suppression formation required very dense mana, from what she had seen, and she would require her own domain in the area which contained the hostile boss, which was impossible without defeating them first. A circular chain. She frowned.
+
+“Ali?”
+
+“Yes, Gage?”
+
+“How did you do that painful thing?”
+
+“The dungeon rage?”
+
+“Is that what it is? You did it before, when we first met.”
+
+“Yes, when two domains collide, they annihilate unless you have a skill that makes them compatible,” she said. “My dungeon mana overlapped yours, and I made it incompatible for a moment, just to get your attention. I’m sorry if it hurt.” She hadn’t realized that, isolated in the Spirit Realm, the twins had probably never encountered another dungeon in their entire lives, except for hers, and so dungeon rage must have been quite a shock to them. Well, except for that one time she had unleashed it on them to escape. Not even the Blooming Rot could touch them, shielded by the thinnest fabric of the veil that separated the realms.
+
+“So, you brought your domain here?” Gage said. “Like the mana that used to leak through in this library?”
+
+“Yes,” Ali said, as the light suddenly went on in her mind. “Hey, can you guys build the suppression aura here in the Spirit Realm, and let me power it?” she asked, the plan rapidly assembling in her mind as she evaluated every facet of the magic construction they would require. It would be an extraordinary undertaking, but she could see no reason why it shouldn’t work. Blooming Rot was not present here in the library, meaning it couldn’t cross the realm boundary.
+
+She could.
+
+If she grew her domain to overlap Lira’s Forest and the Grand Library Arcana, but on this side of the realm boundary, she could, at least in theory, power the immense suppression formation with her own mana using an improbable amount of space-affinity magicite. Then, with her domain mana that could cross the realm boundaries, she could lay the suppression on the entire fight from here. At least, as she had thought, in theory.
+
+Fortunately, she happened to have an extraordinarily accomplished space mage right here she could ask.
+
+“Wow, that’s an idea!” Cael said, but his tone was anything but dismissive, puzzling over the problem like any decent scholar or researcher presented with an interesting challenge. “We should test it out. Can you grow your domain into here?”
+
+“I can,” she said, pulling out her Grimoire.
+
+“Just… please don’t make it painful again,” Gage said.
+
+“I won’t, I promise,” Ali said. She would need to make sure they left a more civilized way to visit in the future.
+
+***
+
+Ali was exhausted, her brain was throbbing, and she barely said anything to her friends all the way through dinner. She had spent the better part of an entire day puzzling over runes, formations, and the complexities of space magic with Cael and Gage.
+
+She had no idea if what they had built would work, and she didn’t have the energy to even think about it anymore. As it was, she had runes floating around within her mind, decorating the dark insides of her eyelids when she took an overly long blink, and even hovering enticingly in her bowl of food.
+
+I need sleep.
+
+But in one sense, her work had already been rewarded.
+
+Runic Script has reached level 67 (+3).Sage of Learning has reached level 68 (+2).Minion Teleport has reached level 45 (+3).Requirements met for skill advancement.Mentor: Clarence.Minion Teleport has reached at least level 45.Undergone advanced study of space magic. Synergy: Arcane Insight has surpassed level 80.Advanced understanding of spell Disruption and Dismantle. Studied Gate magic and the efficiency of teleportation.Has teleported to a boss battle solo and survived. Minion Teleport gains Portable Army.(You can bring [skill / 10] minions with you when you teleport.)Minion Teleport – level 45Mana: Instantly swap location with any minion. Range: 35.25 meters. Recharge: 10 seconds.Mana: Teleport beyond your range. Mana cost depends on distance. Recharge: 4 hours.Domain: While within your domain, Minion Teleport has no range limits.Mana: Whenever you use Minion Teleport, you may optionally bring up to 4 [skill / 10] nearby minions with you.Arcane, Movement, Domain, Minion, Intelligence
+
+“Why don’t you go to bed, Ali?”
+
+Malika’s voice startled Ali, and her head jerked up suddenly. Embarrassed, she realized she had nodded off while reading her notifications. “Sorry,” she muttered.
+
+“It’s ok, you had a long day,” Malika said. “I’ll keep watch while I meditate.”
+
+“Ok, thank you,” Ali said and, after returning her finished dinner plate to Mato, she crawled into her little tent and passed out almost before her head touched the pillow.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

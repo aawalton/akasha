@@ -1,0 +1,213 @@
+---
+id: 6d8fe843-4e7d-5d48-a21d-ba33c6c5263b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Joined in Battle"
+slug: 0033-chapter-18-joined-in-battle
+partOf: ends-of-magic
+position: 33
+ownLength: 2890
+unit: words
+ownProgress: 2890
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2573572/chapter-18-joined-in-battle"
+royalRoadId: "2573572"
+markedReadAt: "2026-06-29T20:08:19.864Z"
+---
+
+“They’re ready for us,” Nathan said as Stella charged up the spell. He could feel the soldiers above, buzzing around like a kicked anthill. The heirs were under the plaza that surrounded the tower, and there were both soldiers on foot and in the air. Hundreds of them, armed with powerful suits of enchanted armor.
+
+“Then we fight them.” Khachi’s tone was matter-of-fact, his shield still raised to hold back the weight of stone above them with golden magic. “Then fight the Questors when they arrive.”
+
+Aarl was in full armor, but his voice was tight. “Hear me, let’s kill this problem and live to tell of the deed.”
+
+“Casting now,” Stella said. She unleashed her spell, and the stone above them stopped being above them. It blasted away and upwards like the Heirs were the magma chamber of an exploding volcano. The only thing they could see out of Khachi’s bubble was a roiling cloud of dust, but at least it wasn’t crushing rock.
+
+Khachi leapt upwards, his bubble of protection moving with him. The Heirs followed with their methods of flight. They stayed within the magical aegis as rocks fell from the sky. Stella had fired hundreds of tons of stone into the air, and now it was starting to return to the ground. The size ranged from fine gravel to boulders the size of cars.
+
+I hope it didn’t catch any civilians. At least the soldiers locked down the area.
+
+The Heirs stayed in the cover of the dust cloud, unable to see what was going on as they broke above ground level and into the open air. Nathan could tell that the soldiers were scrambling. A few dozen of them had been knocked around by the blast, though their armor had kept them from death. The rest had scattered and were just starting to form back up into squads oriented on the newly manifested threat.
+
+Nathan took that as his cue. He fully unleashed his aura for the first time in months. It billowed outwards as an entirely intangible explosion that cut off sensor spells and broke the forming cohesion of their foes. In moments, his aura stretched for hundreds of feet in every direction. It could have gone further, but the more concentrated it was, the more potent.
+
+He was permitting all of the magic associated with his allies, and Stella conjured up a wind spell to wipe away the dust. One screaming gust later, and the battlefield was revealed. The flying soldiers were wavering through the air like a bunch of drunk idiots, most of them trying to make a safe landing as the flight magic of their armatures sputtered and died. Stella’s wind battered them around and sent several crashing into the ground with bone-shattering force.
+
+Nathan stood in place on solid air, and the Heirs cut loose. Sarah fired like a metronome. Each shot was a penetrator round pulled from her new pouch, and they punched through the soldiers like rocks going through wine glasses. Aarl zipped around in midair, moving faster than Nathan had ever seen him go before. Any soldiers who came close to the Heirs received his attention and usually ended up in multiple pieces. His new belt radiated gravity mana as it tugged him through impossibly tight turns, equally distributing the force of acceleration across Aarl’s entire body to enable inertia-defying motions.
+
+Those are some potent pieces of gear.
+
+Not willing to be left out, Stella and Khachi were fiddling with their new acquisitions. One of Aarl’s skills let him understand and use magical gear more easily, but the other Heirs didn’t have anything like that. Nathan thought of telling them that battle was a bad time to try out new abilities, but they knew that already. If they were doing it anyway, they had good reasons. He hovered with them, ensuring that the dozens of attacks directed their way dissolved in his aura.
+
+Khachi raised his hammer high. “My holy might shall strike you down!” The proclamation rolled out across the battlefield, and golden light shone from the wolfman. Khachi’s magic had never been well-suited for direct attack except through the medium of his hammer or against the undead. But this time, the divine presence of his magic fed back upon itself, channeled through the new amulet, crossing back to the aether and through the jagged shard of divinity that Khachi had in place of a mana pool. The feedback loop strengthened the mana, and the prayer swelled massively in strength until Khachi released it. A dozen golden spears formed around him and shot outwards like ballista bolts. Each one detonated in a rattling explosion that scattered the squads that Khachi had aimed them at.
+
+Not to be outdone, Stella channeled her laser spell through her staff. As soon as she was done, the staff mirrored the spell through a flex of powerful wizardry that felt a bit like a teleport spell. Nine more identical copies formed in the air. The spells charged for barely a second before firing, each perfectly lancing through a faraway soldier. The spells reoriented, and less than a second later, Stella repeated the feat to kill another ten soldiers.
+
+Nathan just floated there, watching in growing distaste as the soldiers of Esebus tried to rally against the invaders that had appeared in the center of their city. They were arranged on all sides of the Heirs, and each squad of soldiers was trying a different solution. Some fired the weapons mounted into their armatures as if they could burn through the resource that maintained the antimagic. Others attempted to disperse smoke to block the Heirs’ sight, or close into melee combat, while a few tried to break chunks of rock off buildings and hurl them. But every single attempt relied on magic in one way or another, and Nathan shut them all down with his expansive aura.
+
+He felt like an adult getting involved in a fight between toddlers. He effortlessly plucked away their weapons and left them helpless as his friends steadily picked them off. Aarl had run out of nearby targets and floated nearby, ready to pounce on anybody who made another attempt.
+
+This isn’t a fight, it’s a slaughter. Are the Questors going to show up?
+
+The rout started slowly, but then it happened all at once. The soldiers turned and ran, getting behind whatever cover they could. The Heirs stopped killing them, letting a moment of silence descend on the battlefield. It was a strangely sterile scene, with bodies draped across the cityscape but no gross damage to the city aside from the crater directly underneath.
+
+In that instant of relaxation, Khachi collapsed. He fell from the sky like a dead weight. Nathan bounded towards him and got his arms underneath the wolfman, lifting him back up. He gashed his hand on something stuck into the wolfman’s armor. The world blurred for a moment, and Nathan burned Stamina and Focus to remain conscious.
+
+Poison, and a stronger one than I’ve run into before.
+
+Stella reacted quickly, wrapping them all in a multilayered bubble of force further strengthened by her new staff. Nathan contracted his aura into a protective bubble around the shield. Any attacks would need to penetrate Stella’s shield without the benefit of magic.
+
+Nathan turned Khachi over, finding a tri-bladed disk or shuriken embedded into a joint in the armor on his back. It was spiky and engraved, looking like something out of an anime. It had once carried enchantments, but Nathan hadn’t even noticed it until now. He should have. There was some kind of powerful mental skill at work that had hidden this attack from all of them.
+
+He wrenched the blade out, letting out a spurt of blood. “The Questors are here. They’re staying hidden from us for now. I think this was Amon’s. Hidden by some kind of mental skill.” He handed Khachi’s still form to Aarl.
+
+Aarl took him gently. “Attacking our healer. What do we do?”
+
+Nathan swiveled to Stella. “You know healing magic. We just need him to be conscious for a moment so he can heal himself.”
+
+“I can hit that target,” the mage replied, holding out her hands above the still form.
+
+Nathan was distracted by a faintly familiar sensation. It was barely perceptible even to his senses, but it was the faintest touch of radiation impinging on his antimagic. It was only barely magical, and most of it went straight through his aura to weaken Stella’s shield. The pressure was barely getting started, but it was ramping up with quick pulses.
+
+It’s Badud’s radiation spell, the one he used against me in the Ascendent Academy.
+
+Nathan spread his aura and his attention towards the source of the magic, finding it atop a distant tower. Badud was there, slowly building up the pulsating spell that was the source of the radiation. It was surrounded by a concave containment unit that directed the entire output straight towards Nathan.
+
+He’s assembling the spell so much slower than last time I fought him. I wonder if that’s because of how much I damaged his self-enhancements.
+
+The spell was growing quickly in power, but Nathan took his time to set up his aura around Badud. The man probably thought he was far enough away that he was safe from Nathan, but he’d set up an impressive array of shields and tripwires regardless. Nathan didn’t want to give him any warning that he’d been found. He also wanted to give Stella a chance to heal Khachi before he set off the next round of the battle, and he wanted to render Badud a non-issue immediately.
+
+He felt Stella's magic flare, and a stuttering cough from Khachi as he was flooded with a healing spell pushed beyond sane limits. The wolfman’s eyes stuttered open, and he snarled at the black bile dripping from his muzzle.
+
+All of the Heirs staggered as a feeling of oppressive terror burrowed into their minds. It was overwhelming and thought-crushing, making them all lose track of what was going on. Even Nathan found himself retreating to his mental vault in the face of the attack. He was vaguely aware of the outside world, where the Heirs were all doubled over and trembling.
+
+Mental attack. We knew one of them was a mental mage of some kind. But I don't feel much magic.
+
+Nathan had been spending Focus already to help track the battle and control his Aura. But now he spent more to help bring him back to the present. It hadn’t been more than a few seconds, but things were happening quickly. Badud’s spell was nearly to dangerous levels, and Nathan’s aura had drifted out of his control and brushed Badud’s tripwires. Badud teleported out before the jaws of the trap could slam shut on him. Nathan crushed the radiation spell into nothingness, but the Questor was already gone.
+
+The teleport left a trail through the aether, but Nathan was distracted by the outermost level of Stella’s shielding failing. It vanished like a popped balloon, and Nathan redoubled his focus as he tried to figure out what had happened. His aura was stretched thin, and he was trying to figure out the mental spell, what had cracked the bubble, and how he was going to save the Heirs. The next layer of the shielding cracked, and Nathan still didn’t know what was doing it or the mental spell.
+
+Khachi’s voice tolled out like a bell, resonant with divinity. “I deny this dread! With Faith as my flame, I banish this blight! By my hand, Ogarius the Questor will be marked for Justice.” The last word rolled out as an explosion of golden light, rippling across both the physical world and the aether.
+
+When it passed, Nathan felt buoyed, the weight of the mental effect lifted. The other Heirs likewise stood tall. The next layer of the shielding cracked, but without the pressure of the mental skill, Nathan could tell the origin point, the place that it had unravelled from. He couldn’t detect anything there with his magical senses, but he pointed. “Questor. Amoh?”
+
+“Ogarius is far. There.” Khachi’s attention was focused in an entirely different direction. "He wields cursed dreams."
+
+“Badud?” Sarah asked, her rifle vanishing into her dimensional bag as she drew her revolvers.
+
+Nathan spoke quickly, aware they didn't have much time. “Far away. He was setting up a spell, but I disrupted it. He teleported away. I don’t know where he is, but he’s casting slowly. I’ll keep an eye out for him.” Another layer of Stella’s shield popped, and he adjusted his arm to point at the exact origin of the break.
+
+Sarah just nodded, entirely focused on their fight. “Aarl and I fight Amoh, Stella and Khachi on Ogarius. Nathan plays defense. Don’t get far, the antimagic is our truest shield.”
+
+The Heirs nodded, and then Stella gave a quick count. She dropped the last layer of the shield to reveal the outside world. It was much as they’d left it, though with the addition of a large and well-muscled man in a flowing robe of black. He matched Sarya’s description of Amoh. He’d been rearing back with some kind of pick, ready to slam it into the shield. His outline was a bit blurred, like there was some sort of optical effect that failed to effectively hide him in the face of Nathan’s aura.
+
+He looked at them and blinked, his expression surprised. Then Sarah unloaded her revolvers into him at close range. The Questor morphed into a shadow in an instant to flow out of the path. Several of the bullets went through his incorporeal form, but they left no visible wounds. Aarl chased after him. Nathan could detect only faint and slippery magic about the man, but he could see a few magical effects with his eyes. It was more likely that Amoh had some kind of skill or ability that hid the man from non-visible senses.
+
+It’s all just happening so fast. I’m defending from attacks from every front, and I don’t have time to figure out everything happening.
+
+Khachi shone a bright beam of light that tore through a layer of subtle shadows to reveal a tall man in a face-concealing hood on a distant balcony - most likely Ogarius. The man raised a hand to shield his eyes from the light and then snarled something impossible to make out at this distance.
+
+Nathan had been stretching his aura outwards towards both combatants, but at the distant Questor’s gesture, all of the light was suddenly sucked from the world. The only source of remaining illumination was Khachi and his glowing armor, and even that divine light only spread so far in the face of the massive zone of darkness and confusion cast by the Questor.
+
+An antimagic aura was the perfect solution to this kind of large-area spell, though the novel structure of the spell took Nathan a few seconds to fully understand and counter. Still, Nathan was able to restore the light in a handful of seconds. But the distraction had meant that he hadn’t managed to focus his antimagic on either of the Questors.
+
+Both of their enemies had shifted positions, and there was a soft clang as Aarl’s blade met a curved saber. Amoh’s other hand flicked out, and Aarl was doused with liquid that hissed against his fully-sealed armor. Sarah unleashed a fusillade that Amoh blocked by manifesting a shield of shadow. But she’d mixed in an enchanted rifle shot that penetrated that shield and took a chunk out of his arm. That drove him back long enough for Aarl to accelerate away and douse himself with a torrent of high-pressure water from a dimensional bag.
+
+Meanwhile, Khachi had successfully tracked Ogarius’s next move, and Stella was bombarding him with lasers that were being eaten by flickering distortions in the air. She moved onto lightning bolts, but those were also being absorbed by the shimmering haze. Khachi was throwing more spears, but the Questor was moving quickly, using short-range teleports to stay ahead of the strikes.
+
+Nathan could have tipped the balance of any of the fights, but his attention was split too many ways. He was worried that if he focused on any of the other Questors, he’d miss Badud’s next move. Giving Badud time to prepare a killing blow was inadvisable, and Nathan needed to be ready for it.
+
+I need to find Badud and deal with him, so I can tilt the balance here.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 872
+
+Bottomless Stamina: 84165/88200
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 644
+
+Regenerative Focus: 4109/6540
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 6
+
+Forewarning 6
+
+Arcane Insight 8
+
+Evasion 2
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 3
+
+Aura Control 7

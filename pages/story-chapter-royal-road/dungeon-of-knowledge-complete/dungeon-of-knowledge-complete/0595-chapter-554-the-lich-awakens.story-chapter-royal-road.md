@@ -1,0 +1,221 @@
+---
+id: fc785649-c72c-55ba-b7ba-bf2bc13d6cdc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 554: The Lich Awakens"
+slug: 0595-chapter-554-the-lich-awakens
+partOf: dungeon-of-knowledge-complete
+position: 595
+ownLength: 4418
+unit: words
+ownProgress: 4418
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3111851/chapter-554-the-lich-awakens"
+royalRoadId: "3111851"
+markedReadAt: "2026-06-29T20:31:12.090Z"
+---
+
+Calen delighted in the sense of the brisk wind flowing across his face and wings as he soared through the air, struggling a little still to keep up with Lyeneru’s third-tier flame and lightning wings. He was so close now, he could almost taste it. Tearing through demons for hours on end with Mato and Malika and the rest of the guild in the Abyssal Realm was grueling and brutal, dirty fighting, but he couldn’t deny it was getting results. He had reached two hundred and forty-nine earlier this morning when Lyeneru had called for him.
+
+He glanced a mite enviously at his mentor, but, while she still had him beat at speed, his eyes were better.
+
+Far below them, rolling hills and green valleys flowed by like a beautiful tapestry of densely wooded valleys bursting with vibrant, new forest growth where weeks ago, the land had been desolate and dead all the way from Myrin’s Keep to the shattered remains of the troll kingdoms of Meere Kada and Aman Rak far to the south.
+
+The newly restored domain of Lirasia, Great Mother of the Deep Woods, and now elevated to the status of a god in the form of a World Tree. Even if she was still a new deity – at the lowest tier – it was an event which would surely ripple through the entire realm and beyond. Provided she was given the chance to put down roots and secure her influence – gods required reputation, as he’d come to learn recently.
+
+“It happened right after the realm notification,” Lyeneru said, using a battlefield command voice general skill that she and Nendir had wanted him to learn. There was never enough time. “Even General Byron Dragovich has confirmed by Sending that the siege is lifted. The royal family announced a celebration.”
+
+“How can an entire army of undead vanish?” Calen asked, pitching his rhetorical question with no small degree of frustration. This supposedly fortuitous event was far too convenient. Its apparent synchronization with Lira’s ascension was such a ridiculous coincidence he struggled to understand why people were even celebrating. Can they not see it? What is the Lich playing at?
+
+“I’m wondering the same thing,” Lyeneru said, glancing back with a grim expression on her face. “This cannot be anything good. I do not see the Blind Lich abandoning a war upon the cusp of his victory. It’s why I pulled you out of there. I need your eyes, and this is more important than even leveling up.”
+
+“But nobody knows where they went.” Calen considered the problem carefully. Lyeneru was right, this was critical, and he understood. He really did. But being so close to tiering up grated on him like the adult version of waving candy under the nose of a five-year-old and then eating it in front of them. “If he had mass-teleported the entire army anywhere, we would know because wherever he landed would be suddenly at war.”
+
+“Agreed. There are no reports. On every front, all is quiet,” Lyeneru said, scowling darkly. “I don’t like it. Except for a few isolated reports of small towns along the border between the Dol Kerriadh mountains and the Lirasian forest that aren’t responding to contact.”
+
+“So, you think he’s using some kind of illusion?”
+
+“Exactly,” Lyeneru said.
+
+“What kind of spell can cloak an entire army?” Calen asked. “That has to be at least legendary or maybe mythic, right?” Whatever it was, it couldn’t be anything normal, and in the hands of the Blind Lich, that was terrifying to contemplate.
+
+“Or an ancient artifact,” Lyeneru said. “World Magic might have triggered a realm notification, and we haven’t heard anything like that.”
+
+“We’ve missed realm notifications when they’re triggered in the Spirit Realm,” Calen reminded. Although, Ali or her brothers should have noticed something like that.
+
+“Yes, that’s what I’m afraid of,” Lyeneru said. “I’ve scoured everywhere the army could have reached so far and found nothing.”
+
+“The dead are hard for you to see, right?” Calen asked. Lyeneru had been opening up more and more about the details of her skills as Calen had risen through the levels. Or perhaps she just took time to build deeper trust – he didn’t know precisely, but it rang true with what he knew of her. At least, he knew her ability to see through illusion was a combination of being able to see heat and the minute electric energy that presaged muscle movements. Perception skills aligned with her affinities, allowing her a precognitive sight similar to Mato’s Survival Instinct. However, the dead rarely had either heat or living muscle tissue.
+
+“That’s why you’re here. Keep your eyes peeled and those motes of yours shining,” Lyeneru said.
+
+“Yes,” he said, nodding soberly. Lyeneru could quite easily fly right past something like the Blind Lich’s cold, dead armies without ever seeing them. But not him – at least, not if he was attentive and actively searching with his motes. True Sight was one of the most extraordinary perception skills in existence, avoidable only with similarly extraordinary abilities like true incorporeality – the bodiless entities that couldn’t be seen because they didn’t exist in the physical realm at all, mental constructs, or realm-slipping monsters. But he had realm sight to counter even some of those.
+
+He had nine Motes, now, and a range that extended out nearly a third of a mile. He activated Eclipse, shrouding himself in invisibility, and swooped down, following his Motes of Light and tracking the terrain below, shedding light upon the ground as he kept pace with Lyeneru as best he could. But he kept his eyes trained upon the ground, searching intently for anything that might be out of place.
+
+Eventually, he found it. Or, rather, it found him.
+
+An almost imperceptible ripple. A ripple that should not have been there. If he had not been completely focused, he would have missed it.
+
+“Wait,” he called, and Lyeneru stopped, eyes still efficiently scanning the surroundings with the disciplined vigilance that only came from the decades of relentlessly refining herself to the pinnacle of the Pathfinders.
+
+Calen flicked a coin into the air, donating gold in exchange for a fresh Blessing of the Wanderer. With the very welcome boost to movement skills, he earned his tenth Mote of Light. Quickly, he summoned the mote and sent it out to expand his sweep surveillance of the winding road below, but before it had gone more than a dozen yards, something shimmered again. A brief ripple in the air, like a heat mirage above a hot oven. A ripple from beyond the realm veil.
+
+There! Instantly, Calen summoned all his decoys and downed a Mental Fortitude Elixir as a Banshee surged out of the Spirit Realm with a wail that made his skin crawl and his vision swim. It tore into one of his decoys with ghostly claws, hideous fangs, and angry hissing.
+
+“Found it!” Calen cried, drawing his bow and unleashing a shining arrow without hesitation. It was clear from Lyeneru’s shifting gaze that she still could not see the monster, so Calen enchanted his arrow with Speed of Light, Light Damage, and Grappling Shot – every single enchantment designed to draw the eye. His tight fan of arrows punched through the Banshee, leaving a searing line of light in their wake, pointing the way to the monster and its kin spilling out through the veil. His shot tore ethereal wisps of ghostly light from its body and drew wails and screams of pain as the arrows continued, tearing through the following ghosts.
+
+Moments later, detonations of flame and cracks of lightning ripped through the remains, triggering a chime in response as Lyeneru’s eyes found what he’d revealed.
+
+“A scout, from the Spirit Realm,” Calen said. Only his realm-piercing perception and his fortunate placement of the Mote of Light had even allowed him to see it. If fortune had been unkind to him, he would have missed the signs entirely.
+
+“We must be close,” Lyeneru said, her restless eyes scanning the woods below.
+
+“I’ll take a look,” Calen said. Sure enough, ten minutes later, a cohort of dark armored figures marching under a shimmering cloud of magic were revealed by the light of his motes and his illusion-stripping True Sight gaze.
+
+“I see them,” he said, pointing. “Death Knights.” But this was just the vanguard. Behind the Death Knights, more and more undead crawled, scrambled, walked, or flew. Skeletons of trolls, both mages and warriors. Putrid ghouls leaking poisonous drool, ghosts, and giant abominations of dead flesh. Spread among the hordes, the greater undead roamed. Wights with fearsome weapons and magic, Specters, Skeletal dragons. They marched by the thousands, and they were fast. “Movement magic,” Calen gasped. “They’re hasted!”
+
+“And, this far north?” Lyeneru asked. “That can mean only one thing.”
+
+“I thought he was going for Lirasia and the World Tree,” Calen said, frowning. The position was way off.
+
+“No,” Lyeneru said, speaking the words he was afraid to utter. “They abandoned Southport for Myrin’s Keep.”
+
+“Fuck,” Calen said.
+
+It was at that moment that his chime chose to chime.
+
+Realm Hunter has reached level 250.+10 attribute points.Requirements met for class evolution. Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+“Two fifty,” Calen said, adrenaline still coursing through his veins as his heart began to race.
+
+“Congratulations,” Lyeneru said wryly. “Go find Aliandra and warn her, and get your evolution done. I will retrieve the raid groups from the Abyssal Realm. Meet me at the guild hall. It is time to make a stand.”
+
+“Right,” Calen said, marking the location and speed of the armies coursing by below in his mind and then triggering his teleport home.
+
+“There, that should do it,” Ali murmured, imprinting the wand with her mana signature and a flourish. Arcane Bolt was a basic spell, but she held a lot of fondness for it, given all her early-level struggles. It had certainly treated her well. Still, the wand that sat on the table before her, hungrily gobbling up ambient domain mana, was something else entirely. Thanks to Ryn’s tireless efforts, she had been able to rustle up a second-tier version of the spell, along with full runic array diagrams. It was tricky to inscribe onto something as small as a wand, but with the quality of the materials available to her, that had proven to be only a minor obstacle, easily overcome.
+
+Sure, with the understanding of the formations, she could now summon the runes directly using her mana, but she also gained substantial advantages while casting spells from items. Having the wand in her inventory would buy her options – precious options that would prove invaluable in any uncertain fight.
+
+She gently fed it more mana, topping up the arcane magicite she had embedded within the mithril handle, casually casting her mental sight over the array of wands readied in her ring. Many arcane spells and contingencies were designed to take advantage of her immense spell haste and arcane mana boosts. Nature wands with healing spells and wands with spells selected from a variety of affinities for their unique buffs that she could leverage over her entire minion army due to Summon Supremacy. Anything useful, like percentage health or mana bonuses.
+
+She did not feel ready, though. Not in the slightest, but it was progress compared to where she’d been two days ago.
+
+Ali sighed and rolled her shoulders, enjoying the blissful sense of release as her joints crackled and her tight muscles eased, but at precisely that moment, she felt a prickle of alarm from her sentinel minions in two separate locations.
+
+She shifted her perceptions instantly, only to find herself watching as a long column of undead and Death Knights trooped into her domain to face one of the bosses she had placed deep under the wreckage that had once been the city of Volle. Death Knights that she was ill-equipped to handle, far below ground within Naia’s domain.
+
+Oh no. What did we miss? Her thoughts swirled, chasing loose ends as she struggled to reason out why they were there precisely. The Dark Treant boss currently guarding the cavern would not last long against such a powerful army, nor would most of Naia’s bosses. She simply didn’t have the levels to handle this. Is this a coincidence? Can’t be…
+
+Far away, at the opposite end of the continent, Ali felt the ripping sensation of a portal opening within the bounds of her domain. A portal she had felt once before. Her awareness flickered across the continent, settling on the island bearing the Well of Divinity, and there she found her Divine Archon preparing herself for battle as a fresh horde of undead Knights spilled forth from the roiling darkness of the gateway magic.
+
+We miscalculated!
+
+And then, her mana connection to the Treant boss in Naia’s domain snapped.
+
+“I’m under attack,” she whispered. She left the words unspoken, but they rang loudly in her mind:
+
+Nevyn Eld.
+
+He’d come. And he was after her, specifically. Naia’s dungeon was the passage through which the Lich had first attacked her, and the Well of Divinity was the second. With these ominous realizations weighing on her heart, she teleported immediately. She had anticipated attacks on Ciradyl and Lira and had concentrated so much of her defense preparations on those locations, and he had ignored them. It sent chills down her spine, but she knew it in her bones. He was after her.
+
+She gritted her teeth. She could not allow him to run roughshod over her home, her domain, and all that she held dear. Not again. Never again!
+
+Ali appeared high above the Sea of Fractured Dreams, instantly bubbling herself with her barrier magic as the air around her rippled and crashed with detonating spells and deafening blasts. The surface of the floating island spread out below her, rugged and scorched as a seething horde of undead poured forth from the maw of a dark shimmering portal, spreading out to secure their foothold. Whirling images of holy swords and spawned Sacred Guardians spent themselves against the monsters in blazing conflagrations of holy fire, struggling to hold the hungering dead at bay while a beleaguered champion Divine Archon furiously defended the Well of Divinity with all her considerable might. As the darkness closed in, it was obvious they were losing.
+
+But Ali hadn’t come alone.
+
+Her Minion Teleport had crossed half the continent, but it hadn’t left the extent of her domain. Incalculably far away, deep within the Abyssal Realm, her away team of monsters was recovering in her domain after the guild adventurers had been recalled, and as her spell had completed, she had snatched them up and drawn them along with her. As she appeared above the highest floating island of Aalion, her minions arrived clustered around her. With a deft adjustment of her barriers, she dropped her assault on top of a slavering horde of Ghouls, Specters, and Death Knights.
+
+The second Divine Archon – her World Walker – immediately began summoning more Sacred Guardians, gaining the ability due merely to proximity to the Well of Divinity. Tol’brekk, freshly raised to the third tier, tore into the undead with unbridled fury and rage, and a new booming war cry that stunned the lesser undead and left even Ali shocked.
+
+But Ali hardly had time to babysit them, and little more than three seconds later, she left, appearing deep in the dark, damp caverns beneath the destroyed city of Volle with a fresh selection of Sylvans to serve as her bodyguards. The invading cohort of Death Knights was making frighteningly quick work of crushing her and Naia’s bosses, so Ali chose a spot well within the borders of her domain. A large cavern that provided a natural chokepoint on the way to the rest of the dungeon.
+
+Still keeping her eye on the battle unfolding in the ruins of Aalion, Ali prompted her Archons to synchronize their auras, switching to Holy Vulnerability and Frenzy now that there were far more allies in the fray. Her attention returned to the damp cavern, currently quiet enough to hear the soft plinking and splatters of dripping water landing on moss or in puddles.
+
+She had a lot of space to work with; about half the ground was covered in standing pools and streams that flowed slowly down through a lower exit toward caverns below. Ali had not really spent much time here, not since the first days she had spent invading Naia’s domain, and much had changed. All that she had contributed was to plant a few trees and a broad cover of mosses and flowers. A dozen bats roosted among the crags overhead, minions made to give her eyes in this space.
+
+Through the senses of her rapidly dwindling scouts and bosses in the low hundreds up ahead – too weak to hold back Death Knights – she knew that the undead incursion was vast and powerful. She had found the perfect spot, but she had to rack her brains trying to think of what kind of minion she could use to stem the tide of so many undead.
+
+Something with area damage. And I can do something with the terrain.
+
+Her first thought was a Pit Lord. The hellish demons had a hellfire Blast Wave and Rain of Fire and Blood that were great area damage skills. With their ability to boost demon summons, it would be a potent pick, but the corruption aura, as always, would be a pain to manage – effectively blocking this area to any allies passing through, and she was pretty sure undead were immune – it was a blood magic spell after all.
+
+Holy Fire mages would be good for damage, but as soon as a Death Knight got close, mages would die quickly to the devastating rune swords. Another of her minions died, closer than was entirely comfortable, and she realized she was rapidly running out of time.
+
+Quickly, Ali blocked the tunnel into the chamber with a domain-reinforced barrier and opened her Grimoire, deciding to go with her third choice. As her book lit up with mana, she poured one of her precious remaining points of Authority into the spell. One of the few she’d kept in reserve.
+
+Power surged through her book, bathing the entire cavern in a brilliant, shifting display of gold and green – reflections of the visible intensity of the magic pouring forth from the pages of her imprint.
+
+Sylvan Storm – Sylvan Elf / Plant – level 233 (Nature / Lightning)
+
+Not her highest-level minion, but archery backed by lightning and nature magic would mean that nothing that entered the expanse of this cavern would be safe, and her Sylvan positively shone with the underlying power imbued by her Authority.
+
+Ali touched the four-armed plant being and wove her domain into it.
+
+Domain Respawn applied to Sylvan Storm.Champion Domain Enhancement applied to Sylvan Storm.Abundant Summoning (Plant, Nature Elemental) applied.Natural Restoration applied.Deadshot applied.Elemental Storm (Nature) applied. Domain Enhancement complete.Your reserved mana has increased by +1104.
+
+Abundant Summoning was her newest domain magic – a nature-specific summoning skill that supposedly summoned far more monsters than normal. At least that’s what she was counting on. Natural Restoration was another class Domain Magic spell – one which should, in theory, keep the summoned monsters alive longer and, hopefully, Elemental Storm would synergize nicely with the mostly immune-to-nature monsters it would be making. It should even heal her nature elementals and many of the Sylvans. It was this synergy she was counting on to bridge the gap from using a high tier-two instead of a tier-three minions, and justify using one of her remaining points.
+
+Already, the Death Knights were systematically demolishing her barrier magic at the far end of the tunnel with blows that cracked like nearby thunder, so with her last few remaining seconds, Ali wielded Domain Mastery to reshape the cavern. She deepened the streams, creating meandering channels that would be difficult to scale, and raised the area under her new boss, so it would have a clear line of sight into the oncoming horde.
+
+The frontline dropped immediately, but that was only a precursor to the main event as the horde of gray-black bodies seemed to swell with a kind of primal rage, as if it were one single, shambling organism swelling its chest before surging into battle. The thick tide of their coming shook the cavern with a low thunder of heavy limbs and armor, and the eerie, moaning wails of a mindless hunger for violence.
+
+All too soon, the barrier shattered.
+
+Golden shards tinkled to the ground as the chamber filled with the moaning, hissing, lip-smacking cries of the insatiable dead. Ali could not suppress a shudder. Immediately, the Sylvan Storm filled the air with crackling bolts that trailed lightning and nature enchantments. Countless arrows zipped across the full length of the cavern to slice through the vanguard of shambling, drooling ghouls that rushed through the gaps.
+
+Ali set her stance and thrust both palms forward, channeling her domain through her right and a storm of accelerated runes through her left. Immediately, jagged spires of granite thrust upward from the ground to impale zombies and disrupt formations, funneling the monsters into chokepoints and dead ends. Whole sections of ground fell away as yawning pits opened beneath the feet of the ghouls while lines of shining runic script in gold and green snaked their way through rock and dirt as Ali sowed traps of roots and arcane explosions like seeds of ruin to bind the Death Knight’s ankles and sap their dreadful unlife.
+
+Spells flickered from far back in the tunnel, bolts of lightning and ice that returned fire in a retaliatory wave, but Ali’s canny Sylvan shifted sideways, taking advantage of her incredible movement speed to dodge while never allowing the pair of legendary bows even a second to falter.
+
+When the creature used it, Ali felt the domain surging. Summoning magic, but across the broad expanse of the cavern. In a crackle of emerald-green, two dozen Forest Elementals appeared, instantly glowing from the proliferation of the Natural Restoration domain magic and their own vast restoration auras. The roar as they all simultaneously registered the invaders shook the cavern, and the rumble of their immense weight charging towards the undead shattered rock underfoot and dislodged boulders from the ceiling.
+
+But her boss was not done yet. Another wave of summoning spawned a host of minion archers – Sylvans just like the boss herself, each wielding similar pairs of bows, and, when they all fired in unison, the cavern flashed like the inside of a demented, apocalyptic lightning storm.
+
+“This looks fun,” Calen said, appearing beside Ali.
+
+“Calen? How did you even find me down here?” Ali asked.
+
+He gave her a mock-offended look. “Tracker, remember?”
+
+“Oh, right.”
+
+“Ali, Nevyn Eld is coming.”
+
+“I can see that.” She gestured vaguely at the undead pouring into the cavern so quickly that her monsters were being pushed back, even given the onslaught of arrows and enormous elemental bodies. Her gesture hardly needed to be precise with that seething mass of black and gray.
+
+“No…” Calen began, but Ali saw the domain magic surging.
+
+“Hide…” Ali interrupted, using the same tone of voice she always used during raids. Calen leapt without hesitation, ducking behind the glittering wall Ali had summoned in front of herself.
+
+The blast was immense. Elemental Storm surged through the cavern, a crackling avalanche of green magic that was part explosion, part lightning storm. It raged on and on, smothering the entire cavern with destruction, and when it finally began to fade, Ali stared in astonishment at the aftermath while her chimes sounded.
+
+Your Sylvan Storm has reached level 235 (+2).
+
+The whole cavern was freshly carpeted with flowers, grass, and moss that hung from every nook and cranny, even from the roof. Of the undead that had been present in the cavern when the spell had unleashed, there was no sign. Perhaps some of the grassy mounds might have once been Death Knights, but she really couldn’t tell. Out on the grass, the summoned Forest Guardians ambled patiently, while the Sylvan Archers scanned for new threats.
+
+“That seemed ridiculously effective,” Calen said approvingly as he stared through the barrier. His bow was in his hand, but there was no pressing need to fire. Undead that had been far out of range beyond the cavern started trickling in, inciting her monsters to action once again.
+
+“Champion boss, summoned with Authority,” Ali said. As she was beginning to learn, Authority could dramatically increase damage potential beyond normal, even for a champion boss. How it might work for a tier-three monster, Ali couldn’t even begin to comprehend. Although I can just look. She had a Divine Archon currently engaged in combat at this very moment.
+
+“Ali, I came to tell you, we have a big problem. Nevyn Eld has abandoned the siege at Southport.”
+
+“Isn’t that good news?”
+
+“His army is marching along the south road under the cover of an enormous illusory enchantment. He will be at Myrin’s Keep in a few hours.”
+
+“What?” Abandoning the capital for a nothing town in the middle of nowhere like Myrin’s Keep made absolutely no sense at all. Unless…
+
+“Yes, Ali. He’s personally leading the army; I saw him with my own eyes.” He punctuated his words by drawing his bow and firing, spearing the spawned eldritch eye before it could even open. It landed on the ground beside her with a wet thud.
+
+A trickle of pure unadulterated dread began clawing its way into her heart. A dread she had grown to recognize. “He’s coming for me, isn’t he?”
+
+“I can’t say for sure,” Calen said, shifting uncomfortably. “But I think we should have a contingency plan. This throws a big wrench in our predictions – obviously.”
+
+“Not enough of a wrench,” Ali said, clenching her fists by her sides. To her surprise, she found she believed it. We can’t let him outmaneuver us like this. Glancing over at her friend, she decided to put her words into action immediately. “You hit two-fifty. Come, let’s get you to the shrine. This chamber should hold for a while.”
+
+“Thanks, Ali,” Calen said, his eyes lighting up.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

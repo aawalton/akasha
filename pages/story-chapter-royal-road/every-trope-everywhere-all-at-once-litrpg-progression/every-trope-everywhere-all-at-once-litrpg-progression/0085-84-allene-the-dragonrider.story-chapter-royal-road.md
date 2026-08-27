@@ -1,0 +1,277 @@
+---
+id: 0c961799-1484-5794-860f-2419f05113e3
+page-type-slug: story-chapter-royal-road
+title: "84 - Allene, the Dragonrider"
+slug: 0085-84-allene-the-dragonrider
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 85
+ownLength: 1844
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3783466/84-allene-the-dragonrider"
+royalRoadId: "3783466"
+---
+
+Nothing seemed out of the ordinary after the dice of nicknames was used.
+
+The crowd continued to surround me and the rest of the party, and the little girl and her father still spoke to me as if nothing had happened. Curious, I asked them a question that would instantly show me whether or not the dice actually worked.
+
+“So…” I began. “What’s my nickname again?”
+
+The girl and her father looked at each other.
+
+“Didn’t we just tell you?” he asked.
+
+I shrugged. “I just want to hear it again in Tira’s adorable little voice.”
+
+The girl ran to me, tugging my arms. “You’re Allene, the Dragonrider!”
+
+Hearing that, I couldn’t help but let out a devilish laugh.
+
+I can’t believe it. It worked. The dice actually worked!
+
+You totally expected me to get one of those goofy names like the Bird Cosplayer, didn’t you? Honestly, I did too, knowing how things usually go.
+
+Sorry to disappoint, but here I am, reborn with an actually cool nickname.
+
+Dragonrider.
+
+My endless laughter seemed to catch everyone’s attention, but I didn’t care. I was too proud of myself.
+
+Meriel leaned toward me, whispering, “I don’t know why you’re acting crazy all of a sudden, but keep it up. I’m getting tired of talking to all these people.”
+
+Talon, Kaelor, and Reina started laughing along with me.
+
+“Your laugh…” Kaelor said, struggling to talk straight. “Why does it sound like that?!”
+
+“You sound like a bird!” Reina yelled.
+
+All the harpies in the crowd glared at her.
+
+Talon frowned. “What’s that supposed to mean?”
+
+Soon, the crowd began to laugh, too. Now everyone was laughing at… well, my laughter. I was starting to become embarrassed with everyone focusing on me for the wrong reason, but I decided to muster up the courage to take full advantage of the situation.
+
+“Behold—Allene, the Dragonrider!” I said as I used my wings to hover above the crowd.
+
+I cast my [INVENTORY], pulling out Dawn Sunderer and flaunting it for everyone to see. The sword glowed brighter as I raised it toward the sky. Then, I began to swing the weapon, sending arcs of light flying through the air.
+
+“Hah! Showing off, are you?” Kaelor said from below. “That’s fun!”
+
+The wind swept him up by his feet, lifting him high above the marketplace. He spun multiple times before launching himself through the air like a spear, gracefully landing on top of a stall.
+
+Talon puffed out his chest. “Watch this!”
+
+He took flight, performing some kind of flying dance that seemed to impress the other harpies the most.
+
+Meriel sighed. “What are we even doing?”
+
+Aeris giggled. “Well, I can’t let everyone have all the fun.”
+
+She flew higher than the rest of us. Once the area was clear, she transformed into her dragon form. Her roar and sheer size made everyone gasp in awe at the sight before them. She ascended even higher, showing off her wings. Then, in a blink, she began to dive straight down toward everyone, stopping just before crashing into the island, sending a harsh gust of wind across the marketplace. Banners fluttered, hats flew off people’s heads, and feathers rippled.
+
+“Um…” Reina said, glancing around at everybody. They all stared at her with anticipation. “I’m just a knight. I can’t even fly.”
+
+Meriel put a hand on her shoulder. “Just leave them be. They’ve turned from heroes to street performers. But not us. We’re the last true heroes, Reina.”
+
+“Wha…?”
+
+Glancing down at everyone, I noticed Tira staring at me with sparkling eyes, smiling. I was starting to believe that she really was my number one fan.
+
+I put the sword back into my [INVENTORY] before descending to her.
+
+“Want to fly with me?” I asked.
+
+Her eyes grew wide. “Can I…?”
+
+We both turned to her father.
+
+“Sure,” he said. “But be sure to hold onto Allene tight, alright?”
+
+She nodded. “Okay!”
+
+Just like that, I picked her up in my arms and carried her into the air. For a human—and a little kid no less—she was a lot less afraid of heights than I expected. If I were in her situation and I didn’t have any wings, I’d probably start trembling until my feet touched the ground again. She was a brave one, that’s for sure.
+
+[TROPE COMPLETED: A FAN’S DREAM COMES TRUE]
+
+[Reward: Tira’s smile and laughter.]
+
+You know what? I couldn’t be upset about that reward. Seeing her like that was priceless.
+
+“Hey there, little one!” Talon said, flying toward us.
+
+I laughed. “A little kid calling someone else a little kid? Interesting.”
+
+“She’s younger than me!” he exclaimed.
+
+“Not by much.”
+
+“How do you know that?”
+
+“I have eyes.”
+
+Kaelor and Aeris continued doing all sorts of tricks in the air, keeping the crowd below focused on them.
+
+“I’m seven,” Tira said. She held onto me tightly, just as her father told her to.
+
+Talon laughed. “Hah! See? You are younger than me! I’m eleven! You might as well be my little sister!”
+
+“R-really?” she said. Then, out of nowhere, she buried her face into my arms.
+
+Talon tilted his head. “Hm? What’s up with that reaction?”
+
+“I think you made her embarrassed,” I said.
+
+“What did I even do?”
+
+The little girl shook her head. “I’m just so happy right now. My friends will be so jealous of me!”
+
+“Oh yeah?” Talon said. “Do your friends like me or Allene more?”
+
+She didn’t even hesitate. “You.”
+
+He snickered, grinning at me. “Hahaha! Why don’t you look at that, Allene?”
+
+I shrugged. “Maybe all the children like you because they can relate to you. You’re probably a big inspiration to them.” I looked down at Tira. “What about you? Do you like me or Talon more?”
+
+The little girl hugged me. “You!”
+
+I grinned at Talon.
+
+“How come?” Talon asked. “But I’m a kid, just like you! Aren’t I inspiring? I was the youngest warrior during the entire battle!”
+
+“Because,” the girl said, “Allene is strong, cute, and small!”
+
+Strong? Yes. Cute? Absolutely. Small?
+
+…
+
+Come on.
+
+Oh well. I’ll take all the praise I can.
+
+Talon pointed at himself. “You’re saying I’m not strong, cute, and small?”
+
+“I never said that,” the girl muttered.
+
+“Am I, then?”
+
+Tira’s face flushed red as she turned away. “I don’t know… but Allene’s cuter!”
+
+That seemed to have really ticked him off.
+
+“Fine,” he said. “Then I’ll make you like me more than Allene. Come here!”
+
+He reached out his arms to grab her, but I pulled away.
+
+“Hey. Hands off the little girl,” I said.
+
+“Why? I wanna fly her around! I bet you she’ll be my biggest fan instead of yours after I do! Unless you’re scared…?”
+
+I shook my head. “I don’t care about all that fan stuff. What I am scared of is you accidentally dropping her.”
+
+Talon flexed his nonexistent biceps. “Oh, come on! I’m strong! Do you really not trust me after everything we’ve been through?”
+
+Honestly, he did have a point. I wouldn’t doubt it if he was the strongest person his age up here in the sky islands.
+
+“No! I’ll always be Allene’s biggest fan!” Tira said.
+
+Talon raised an eyebrow. “Oh yeah? I bet you won’t say that after flying around with me. I’m better at flying than her.”
+
+“No you’re not!”
+
+He opened his arms. “Then come here! Decide that for yourself!”
+
+“Fine!”
+
+Tira shot out from my arms, and I would’ve dropped her if Talon hadn’t closed in on time and grabbed her.
+
+“Hey, that’s dangerous!” I yelled.
+
+Talon held her the same way I did earlier. “She’s light as a feather! We’ll be fine!”
+
+Just like that, they soared away, leaving me behind in the air with Kaelor and Aeris—who were somehow still energetic enough to do all kinds of tricks to entertain the audience below.
+
+I flew back to the ground, landing next to the girl’s father.
+
+“So um… I’m sure you saw what just happened to your daughter. About that…”
+
+“Totally fine with me,” he said. “If Talon’s strong enough to defend the islands from monsters, I’m sure she’ll be fine flying around with him. And plus, she’s actually a fan of his, too.”
+
+I raised my eyebrow. “Really? It didn’t seem like that when we were talking.”
+
+The man laughed. “She’s probably shy around him because he’s a boy. If anything, Talon’s her second favorite—right behind you, of course.”
+
+Meriel and Reina, who were the only ones still on the ground, walked up to me.
+
+“We have an issue,” Meriel said, looking at me with worried eyes.
+
+“Huge!” Reina added.
+
+I tilted my head. “What is it?”
+
+“Everyone is demanding that you strike a pose with Aeris,” Meriel said.
+
+As soon as she said that, multiple people from the crowd walked up to us.
+
+“Can you please do it?!” three of them asked at the same time.
+
+“Sure, I don’t mind,” I said. “But why with Aeris, specifically?”
+
+“You’re the dragonrider, aren’t you?”
+
+Hearing that, I puffed my chest out. “Ah—damn right, I am! What pose would you like us to do?”
+
+“Ride her!” someone said.
+
+I was surprised by the simple request. “Is that all?”
+
+“Yes! It’ll be on the front page of the news!” a man said as he pulled out a… camera? Since when did they have cameras in fantasy worlds? Several other people had their cameras ready, too.
+
+Looking closer at them, I could tell that a tiny magic gem was embedded inside of each one. I should’ve known better. When in doubt, magic’s probably behind it.
+
+[TROPE COMPLETED: MAGIC IS THE ANSWER TO EVERYTHING IN FANTASY]
+
+[ITEM ACQUIRED: MAGICAL CAMERA]
+
+Effects:
+
+- Captures an image when the button is pressed
+
+- Captured images preserve the exact colors and lighting of the moment
+
+- Images cannot be altered once taken
+
+- Stored images may be viewed at any time
+
+This item will now appear in your [INVENTORY]
+
+Now that could be a fun item.
+
+I began to take flight, ready to tell Aeris about the photo everyone wanted to take of us. Before I could, Reina stopped me.
+
+“Allene, are you sure about this? Isn’t it embarrassing?”
+
+“No? How’s it embarrassing to ride a dragon? That sounds totally badass.”
+
+Reina shook her head. “Whatever you’re thinking of, that isn’t exactly what they want you to do.”
+
+“What? How else would I ride her?”
+
+Reina hesitated at first, then leaned in and whispered,
+
+“I think they want you to ride her in her human form.”
+
+I froze.
+
+Did I hear that right?
+
+Judging by how Meriel was nodding, I was afraid I did.
+
+“You guys… want me to ride Aeris,” I said. “In her human form?”
+
+All the ones holding cameras nodded.
+
+Now hold on a second. I’m not typically the kind to have a dirty mind, but what on earth could they have meant by that except that?
+
+Okay, no. I was definitely just misinterpreting things. I’ve lived in this world long enough to know it was probably just something stupid.

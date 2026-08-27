@@ -1,0 +1,217 @@
+---
+id: 825f431e-307d-59a5-bb2c-17f4c254d170
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Polite Terms"
+slug: 0063-chapter-48-polite-terms
+partOf: ends-of-magic
+position: 63
+ownLength: 2812
+unit: words
+ownProgress: 2812
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2945339/chapter-48-polite-terms"
+royalRoadId: "2945339"
+markedReadAt: "2026-06-29T20:09:17.157Z"
+---
+
+Aarl was the first to step out of the carriage, tossing Nathan a set of clothes. Sarya followed a moment later, waiting for Nathan to finish slipping his new garments on and then signaling for him to take the lead into the temple. He did so, feeling the connection to Slick’s squad channel break as he left them behind. Kaelis and the other leaders of the Ashen Accord followed next, but Sarya had managed to get Nathan out in front as they walked into the ruined temple.
+
+Nathan could feel the Questors of the Aleph Grid deeper inside, standing on the other side of the cracked stone and tangled wizardry that marked the epicenter of the presumably ancient explosion that had destroyed this place, and probably cursed the entire mountain to perpetual night. Most of the Questors had the deep mana pools of skilled mages. About a third of those also carried a wizard's mark on their mana pool, the same kind of self-enhancement that Nathan had ripped from Badud back in Giantsrest.
+
+Speaking of the Questor, he was standing with the other members of his grid at the back of the gathering. He’d made at least some repairs to his wizardly enhancements, but his casting was still far inferior to what it had been when Nathan had faced him in Giantsrest.
+
+One of the Questors on the opposite side walked forward, breaking ranks with the Aleph grid and walking around the edge of the crater as quickly as the restrictive enchantments of the temple would allow. He was a sharply dressed man wearing a tuxedo-like outfit in shades of blue and black, inspired by the ocean’s depths. He carried a cane that felt like a caged storm to Nathan’s magical senses, and his mana pool felt like an abyss of water and wind. The Questor stopped before Nathan and examined the Heirs with eyes like fathomless pools.
+
+Nathan pulled to a stop, seeing consternation and sideways looks on the faces of the Aleph representatives as the water-themed Questor moved forward. Whatever this was, it wasn’t planned. He felt a mental skill brush across him, but it was feather-light and withdrew instantly when he poked back. Nathan was trying to figure out what to say when Sarya beat him to it.
+
+“Maestro. I thought you swore on Edes never to fight beyond the Maelstrom. Have you broken that oath to work with the Aleph lunatics?” Her voice was bright and cheery, but there was a mocking edge to it.
+
+The man didn’t acknowledge her for a long moment, finishing his study of the Heirs before facing Sarya directly. “They believe so. But I feel the tides of Davrar shifting, and these adventurers mastered one of my captains. I wished to measure them with my own senses.” He looked to the Heirs and nodded sharply. “You are worthy. Participating in a Questor war is foolhardy, but that is how one shifts a storm. Show these ancients what mortals can accomplish, and know that you are welcome in the Maelstrom, should you survive.” He flicked his cane towards Stella. “I would teach you the true way of the storm.” Then he vanished without another word, travelling far away. Off the continent of Ostren, if Nathan was reading the flex of Davrar’s power well enough.
+
+Sarya cackled, looking over at the Aleph grid. “Not a promising start, to lose allies before the meeting even begins.”
+
+“We are not here to negotiate with you, relic,” snarled the man at the front of the group, who must have been Evesor. He was dressed in a heavy black robe intricately decorated with grey panels and silver. “Kaelis! I’m here to talk with you. Return this thing to the crypt, and clear out these mortals on the route.”
+
+Kaelis walked up ahead of Nathan, giving him and the Heirs a warning look before crossing his arms and turning to regard the other Questor. “Instead of that noise, let us begin negotiations. We propose a fight out in the wilds, starting distance of one hundred yards, full elimination. No doomsday artifacts.”
+
+Evesor’s face was pale and sharp, and it twisted up into a harsh sneer at the suggestion. “Ah, but that favors your traditions over ours. I propose on the edge of the wilds, bases in the villages of Stanek and Kulmere. Five-point capture mechanics, full magical spectrum. Agreed on the artifacts.”
+
+“Death is the purpose here. Stop pretending otherwise as a negotiation tactic.” Sarya’s voice was snide as she jeered from behind Kaelis. “Let's bring up the true forces behind this war. I see you back there, Sussu. Did these mortals scald you so badly that you’d spend this kind of favor to avoid facing them a second time?”
+
+Evesor looked furious at Sarya’s tone, but he glanced over his shoulder. Sussu walked out of a patch of darkness, doffing a disguise Nathan hadn’t even realized she was wearing. Her gaze flicked past Nathan and the rest of the Heirs before settling on Sarya, and her lips twitched in distaste. “Mortals are subjects. Treating them as equals is despicable. But I would spend more favors yet to firewall your plans.”
+
+“Your favors must be running thin, now that your vault is lost,” Sarya sniped back. "Are you trading in credit now instead of true relics?"
+
+Kaelis exhaled forcefully and glared at Sarya. “This is not a place for trading verbal blows. A challenge was issued and accepted, and we come here under the gaze of Davrar to decide on the terms. We will hold firm on the wilderness demand, but will allow all magics except those of the mind. The mode will be elimination, but the starting positions can be as far as five hundred yards apart.”
+
+Evesor pursed thin lips and considered. Before he could respond, Badud interrupted. “No antimagic. Ban it, and they will lose,” His eyes were on Nathan, hot and hateful.
+
+Sarya snorted derisively. “A true wizard of Kalis, terrified of antimagic. How far have you fallen, Badud?” She addressed Evesor. “If you utterly deny a whole build, then we start within fifty yards. Davrar will judge it a fair trade.”
+
+Badud stalked forward, levelling a finger at Nathan. “He is the reason they declared their war. This mortal can undo wizardry and deny even the best-crafted magic. We must neuter him.” Then he blinked and caught sight of Stella, eyes furrowing in confusion. “Wait. I kill…”
+
+Sarya caught Nathan’s eye and tilted her head towards Badud with a clear implication. Nathan had kept silent to avoid interrupting the careful balance that Sarya and Kaelis were striking. But it seemed like it was time for him to give the negotiations a little bit of a push.
+
+“Scared I’ll do worse to you than last time?” Nathan asked sardonically, doing his best to seem arrogant and overconfident. He tapped his finger against his lips in mock thought. “I have levelled a bit. Defeated a blight. Picked up all kinds of Insights I’d like to try." His voice was melodramatic, and now he locked eyes with Badud, smiling cruelly to convey the full weight of the threat. "But the worst I can do is kill you. Right?"
+
+The words hit the Questor like a blow, causing Badud to flinch backwards and raise his arms defensively. In the next moment, he tried to hide the reaction, straightening up and glancing around at his allies to see if they’d noticed. They had.
+
+So he hasn’t told them that he’s weaker than he used to be. I didn’t think he would.
+
+The Questor seemed nearly incoherent with a combination of hatred and fear. He sputtered for a second, his attention swinging between Nathan and Stella. “We must ban antimagic, else he’ll kill us all.” It was intended as a dire warning, but came across more like a desperate request.
+
+Evesor scoffed. “Just because you failed against these mortals doesn’t prophecy disaster for us. If antimagic is viable due to new Insights, I would face a single practitioner before it becomes a common build.” He turned his attention back to Kaelis. “Wilderness combat zone, ten-mile starting distance. All magic except mind magic allowed. Full elimination. No teleports or stealth.” His gaze flicked back to Sussu for that one. She dipped her head in approval, watching the Heirs with a restrained hatred in her eyes. Badud sputtered, but nobody paid him any attention.
+
+Kaelis waited just long enough that he didn’t appear eager. “Done and done. We begin tomorrow afternoon. Full viewing for any Questor that wishes.”
+
+That caused multiple surprised expressions on the other side. The Aleph Grid hadn’t been expecting their terms to be accepted so quickly. But they were quick to seize the opportunity. “So soon? You don’t wish to train or practice your famous formations?” Evesor waved off the topic. “Well enough. But on victory, I will receive the full Insight for this new variety of antimagic.”
+
+Sarya snorted a laugh. “If you win the War, then it won’t be available. None of us knows it.” She waved back to Nathan. “His own invention.”
+
+Evesor’s surprise grew. “An original creation? And unknown to your allies.” He regarded Nathan more seriously than he had before. “Do any aside from you know the weight of the Insight?”
+
+“No,” Nathan answered simply. One could argue that the antimages of Halsmet counted, but their antimagic wasn't anywhere near the "weight" of his.
+
+Evesor nodded decisively and spoke quickly, as if worried that they’d take back the offer on the table. “I accept tomorrow afternoon and full viewing contingent that this mortal share his Insight with no others until after the war.” His lips quirked. “As a mortal, it shall die with you.”
+
+“Done thrice and done permanently,” Sarya called out in a sing-song voice. “We shall see you across the field tomorrow, with whatever forces you bargain and borrow, they shall be crushed underfoot.
+
+"Agreed," Kaelis said simply, frowning sourly at Sarya.
+
+Nathan could see some of the Questors in the Aleph party shifting uneasily at Sarya's comments. If one of the original Questors was so pleased with the outcome, that meant they were missing something. He could almost see the wheels turning as they tried to figure out what it was. But Evesor was already leading them out. The Aleph contingent walked to the edge of the temple’s protection before vanishing in flashes of teleportation.
+
+Kaelis waited for the last of the Aleph Questors to vanish before letting the satisfied smile drift across his face. “Truly, a prophecy of victory.” He turned to Nathan. “Badud was rather unbalanced there. Your victories over him must have been terrifying.”
+
+“The first successful blow of the war,” Sarya said with a wide smile of her own. Her eyes were knowing as she met Nathan’s gaze, and he wasn’t entirely surprised that she’d picked up something extra from his threat against Badud. She’d been sparring and negotiating with Badud for millennia, and if anybody would catch his strange behavior and figure out that there was more than a simple death, it would be her.
+
+Though I'm sure both of them are just thinking of stripping magic.
+
+“The terms are good,” Garna said for the first time since they’d arrived. She’d stayed silent as Kaelis and Sarya played off one another, and now that Nathan had seen it, he could understand the strategy at play and salute its success. “Their true goals were a large starting distance and a broad range of approved magic.”
+
+Slick winced. “We will be at a real disadvantage there. They have magical superiority in every battle they fight. Our path to victory lies in getting too close for them to cast their larger magics. With ten miles to cross, none of us may even reach them. Our starting location will become a wasteland seconds after the war starts. With the war starting tomorrow, we don’t have time to plan a proper strategy or practice the scatter pattern.”
+
+“The timeline was necessary to restrict the number of allies Sussu could call forth,” Garna said, though she’d already made the point during the planning meeting. “Though it will restrict the number of elders we can call to our own side as well. But we are not depending on them as she is.”
+
+Kaelis interrupted her, “Hold the discussion. Planning for victory should be done in a secure area.”
+
+“I’m blocking scrying,” Nathan replied almost absently. “They’re trying, they’re just not succeeding.” He felt another piece of divination magic probe at the protections of the ruined temple, then fall to pieces from his influence. “But I can’t block mundane spies, and I can’t rule out the possibility there’s somebody hidden outside.”
+
+“Then let us depart,” Henrish said, turning and striding out of the temple and into the carriage they’d arrived in.
+
+The flight back was quick and easy, with Nathan accompanying Slick’s squad in flying alongside the carriage. They didn't speak as much as they had on the flight up, and were more respectful now that they’d seen one of the original Questors quail in front of him.
+
+They returned to the estate of the Ashen Accord to find the lower courtyard crowded with Questors. A bit over two hundred of them milled around the flat surface or leaned against the railings on upper levels. A few floated in midair, chatting with people on the balconies. The hubbub of conversation peaked as the negotiating party returned, and then quieted as Kaelis disembarked and raised his hands for attention.
+
+His voice carried easily over the remaining buzz, silencing the last few speakers. “We go to war tomorrow. The terms are a full elimination battle in a large wilderness area. You should be getting the invitation soon.” A ripple passed through the assembled Questors, some excited, others displeased. A few hecklers called out, but Kaelis ignored them and kept speaking. “This war won’t go as anybody projects. It will also be broadcast to every Questor and stored for future review. Know that it will be reviewed in the future. This isn’t just another play in the game of Questors. This is the first act of a long-laid plan that will shift the balance of Davrar.” He delivered the words with impressive gravitas, even accounting for the skill that probably boosted it.
+
+The hundreds of Questors were quiet now, hanging on Kaelis’s words. “Accept the invitation and become part of real events that will echo through history. Your actions carry a new weight as of this tick. As a result, I must give some unfortunate orders. For tonight, you are ordered to be boring. Eat well, soak in baths, and see a healer if needed. No nightlife, no experimental Insights, no duels. In the morning, we assign formations and contingencies, and then we teleport straight to the battlefield. The eyes of Davrar will be on us tomorrow, and the Ashen Accord will look like professionals, not survivors of our own bad ideas.”
+
+A round of chuckles rolled across the audience at that, and Kaelis seemed ready to dismiss them all. But Sarya leaned forward, cocky and sure. “You heard the man. Lazy luxury tonight, glorious carnage tomorrow. We’ll fight, we’ll win, and then we’ll be heaped with glory everlasting.” The assembled crowd cheered at that, and Sarya clapped her hands together in a gesture that was unquestionably a dismissal.
+
+Kaelis gave her an annoyed look, but didn’t say anything as the crowd of Questors broke up. He sighed, then tapped at the air in front of him. A blue box popped up in front of Nathan.
+
+This is a formal Questor conflict with special rules. Participation is optional. You are not a Questor: If you die in this War, your death will be permanent. Term Summary:
+
+Additional condition: if you accept, you agree not to share your new antimagic Insight with any other being until the War is concluded.
+
+Do you wish to join this Polite War on the side of the Ashen Accord?
+
+Permanent Talent 1: Magical Destruction 4
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 9
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 8
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 4
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 4

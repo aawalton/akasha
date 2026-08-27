@@ -1,0 +1,253 @@
+---
+id: 346e841f-f1d9-5d02-9dba-5be568300ab9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 355: Mithril Beetle"
+slug: 0392-chapter-355-mithril-beetle
+partOf: dungeon-of-knowledge-complete
+position: 392
+ownLength: 4132
+unit: words
+ownProgress: 4132
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2541282/chapter-355-mithril-beetle"
+royalRoadId: "2541282"
+markedReadAt: "2026-06-29T20:25:14.781Z"
+---
+
+A scorching, dry breeze poured from the Emberforge Mines, but it was still nothing like it had been when the fire dungeon had lurked in the depths. Ali examined her notifications.
+
+Subterranean Brood Queen – Rock Beetle – level 81 (Earth)Your reserved mana has increased by +293.
+
+“Not bad,” she said. It was a relatively cheap cost for a level eighty-one monster. A high-level summon in a fresh and useful affinity – and one that could spawn its own swarm.
+
+“What boss abilities are you going to give it?” Seth asked, curiosity written all over his face.
+
+“She’s just my excavator,” Ali said. “I have a different plan for this spot.” Experience had honed her senses for chokepoints and strategic advantage – this was the entrance to the Emberforge Mines, and the perfect spot for a gate-keeper boss.
+
+Ali laid her fingertips against the rough granite carapace of the magnificent and proud Brood Queen, discovering that the Rock Beetle was embarrassed by her plain rock armor. Interesting. The beetle queen seemed to be highly intelligent, even though she had no language. Many of her skills were exactly what Ali had expected, but there were a few curious surprises.
+
+It could, of course, summon the lesser Rock Beetles – the swarm Borer Beetle, and Ali immediately instructed it to use the ability. In seconds, a brood of beetles emerged, clustering around the queen’s segmented legs or scurrying beneath her massive body – like little baby hills clustered around a momma mountain. Immediately, Ali was exposed to the first of the queen’s intriguing skills – a hivemind perception skill. If she hadn’t already had extensive experience with splitting her awareness, she would no doubt have been immediately overwhelmed – the full sensory load of the entire brood crashed into her mind as a singular awareness.
+
+Ali gasped.
+
+“Everything ok?” Seth asked.
+
+“Hivemind,” Ali explained, recovering her equilibrium.
+
+“Oh, right,” Seth said, the fellow summoner instantly understanding the challenge.
+
+The second surprise was Earth Sense. All the Rock Beetles had it, but the Brood Queen’s skill was far stronger and had multiple advancements. The huge pile of rock that had fallen from the ruins above to bury the Emberforge Mines entrance vibrated palpably in her awareness. She could smell – or taste – the rich variety of ore and stone buried here, pinpoint the exact location of the interesting crystal deposits, and refined metals or stone to a remarkable depth. With the Hive Mind skill, the Brood Queen extended her perceptions through the senses of her minions in a way that reminded Ali of her own Martial Insight.
+
+“Wow, this is a great monster,” Ali said.
+
+“Isn’t it?” Seth agreed.
+
+For her final surprise, the Brood Queen had the earth-affinity movement skill: Burrow. It could literally swim through rock like it was water – an advanced version of Basir’s Earth Travel. A thousand sneaky ideas for leveraging the queen as a potential defender of her domain blossomed across her mind like a sudden field of those Spectral Nightroses.
+
+But first.
+
+“Make me a cavern entrance here,” Ali commanded. “You may decorate your armor with whatever you find.”
+
+The brood queen had already been sniffing out some of the more interesting deposits and ores in the huge pile of rock, quivering with suppressed excitement, and the moment Ali gave her permission, the massive beetle surged forward. The horde beneath her feet fanned out in a wave as they plunged into the sheer rocky surface. The entire bulk of the queen beetle and her brood vanished without a trace into the cliff face.
+
+“Wow!” Seth exclaimed. “I didn’t see that ability when we fought it.”
+
+“Movement skills are sometimes limited for bosses. The domain enhancement tethers them, so they can’t go too far from the spot they are attached to,” Ali explained. Although for her bosses, she imbued a lot of her own understanding into them via Martial Insight – she expected her monsters to leverage every ability they could, even in unusual ways. At least Tol’brekk had made it abundantly clear just how important movement skills were in challenging fights.
+
+Ali retained her awareness within her beetles, now blinded deep within the sea of rock. However, visual blindness wasn’t much of a limitation when they had such a rich Earth Sense to navigate with. In a surprisingly short time, punctuated with loud crunching noises from deep within the rock, the brood queen broke out the front and emerged with a glorious carapace studded with gemstones and bright gleaming metal ores, radiating a sense of satisfaction. The front of the cliff face collapsed under the assault of the smaller beetles, revealing a massive open cavern leading into the first tunnel of the Emberforge Mines. The brood queen stood in front of her work, preening happily.
+
+“She seems pleased with herself,” Seth observed.
+
+“She did a good job,” Ali said. “And her armor looks pretty.”
+
+The preening definitely intensified the moment Ali mentioned her armor.
+
+Happily, Ali entered the enormous chamber and looked around. A stray stream of lava poured into the cavern, puddling wherever there was a low area in the uneven ground. Ali wielded Domain Mastery and adjusted the levels of the ground to give the puddles a direction, and shortly she had a meandering stream.
+
+She pulled out her Grimoire and began summoning monsters.
+
+Hellfire Warg – Demonic Wolf – level 58 (Hellfire) x4
+
+The two-headed wolves immediately began prowling around, exploring the cavern, making strange coughing barks to one another as they sniffed at the scurrying beetles.
+
+“Zor’kan will be happy with those,” Seth said on seeing the minions she had chosen.
+
+“Vivian too, I assume,” Ali said, but she wasn’t quite done yet. “What do you think? A river or a pond of lava? Where should I put the boss?” She had a good idea of what she wanted to achieve here, but it never hurt to get a second opinion – especially from someone as smart as Seth.
+
+“Boss?” Seth asked, glancing back at the wargs. “Oh, right. Maybe a pond in the middle and a lair over there at the back? Require some strategic use of space instead of just an open cavern?”
+
+“Sounds good. That’s close enough to the exit to prevent people from bypassing it,” Ali said, opening a channel for the lava to flow toward the center of the cavern and then digging out a broad depression for it to fill. Her Grimoire glowed with magic as her spell haste made short work of carpeting most of the cavern with fire grass. Even with this simple task, she could feel the profound effects of her Dungeon Ally title lending new strength to her abilities. With a few simple instructions, the queen and her brood enlarged one side of the cavern, hollowing out a sort of crude den.
+
+“Ok, now for you,” she said, selecting the biggest warg – one with a scar across the side of its rightmost head. She touched it and bound it to her domain, bestowing the power of her magic.
+
+Domain Respawn applied to Hellfire Warg.Raid Domain Enhancement applied to Hellfire Warg.Select or create minions: 174 levels remaining.
+
+Ali had already planned this boss with Calen, so she quickly chose the other three hellfire wargs as the minions.
+
+Minions assigned.Amplify Skill (Hellfire Breath) applied.Attribute Enhancement (Dexterity) applied.
+
+With her choices defined, she committed them and let her domain magic course through the warg, growing it to become more than twice its normal size.
+
+Domain Enhancement complete.Your reserved mana has increased by +234.
+
+She eyed the cavern critically before she sprouted several large boulders and placed heavy barrier walls to ensure nobody could skirt the boss without engaging it in combat. Then she dropped several Flame Wall rune traps.
+
+“That looks good,” Seth approved.
+
+“Hopefully, they like it,” Ali said, examining her work. If this worked, the guild would have a decent challenge, a source of leather for Zor’kan, and she would have an unskippable threat guarding the mines.
+
+“Wait,” Seth said as he studied the giant two-headed wolf with thick, dark clouds of smoke curling up from between giant fangs. “Doesn’t this thing resurrect?”
+
+“Yes,” Ali answered, grinning as Seth’s eyes widened perceptibly.
+
+“Doesn’t it heal from hellfire?” he continued.
+
+“Yup,” Ali said. But she wasn’t quite done yet. She summoned several more wargs to fill up the cavern, giving them a regular domain respawn enhancement. Then she had the beetles dig out some crevices and small nooks and crannies for her to fill with several kobold Fire Mages, Hellfire Imps, and the odd flame spider to round out the room. In keeping with her unique plant-focused dungeon theme, she planted Fire Grass all over and embedded some fire-themed magicite into the walls.
+
+“Isn’t that a little evil?” Seth asked, staring at the giant warg and his three minions.
+
+“No more evil than some of the stuff we’ve all faced already,” Ali added, proud of herself for resisting the temptation to cackle wildly before she led the way deeper into the mines. It took a while, but she finally reached the spot she had picked out midway through the former demon wing.
+
+“I think I want to use that Earthquake ability I got from Naia for this queen,” Ali said, looking around. The cavern was filled with the black, acrid smoke from the tar pits and had narrowed a lot at this point. She hadn’t invested much in this space yet – all she had were some vines and Fire Grass to extend her domain all the way to the rift chamber at the end, but in the intermediate space, she hadn’t even bothered to create monsters or shape the space efficiently.
+
+“Earthquake was pretty brutal,” Seth said, looking around with interest at the area. “What’s up that way?”
+
+“The rift to the abyssal realm,” Ali said. “That’s another place you can harvest demonic hide – my ice mage kills a lot of them as they come over from the other side. Though, maybe after you all level up some more.”
+
+“How strong is that boss?” Seth asked, obviously curious about it and the rift.
+
+“She’s my second strongest boss after the berserker,” Ali answered. “I couldn’t compromise on the rift protection. Her name is Mok’freja, and she just hit level one hundred. I plan on evolving her class soon and keep her leveling up.”
+
+“That bad?” Seth asked, clearly intuiting Ali’s fear from how she was treating the boss.
+
+“You have no idea,” she said. The memory of the Pit Lord had given her nightmares, and the massive dungeon break across the rift had taken everything she and her friends had to give. They had still almost died, which would have condemned Myrin’s Keep to being overrun by thousands of demons.
+
+Ali shivered from the recollection of the horrific corruption and horde of demons and turned her attention back to the brood queen that had followed her down here. “Dig here,” Ali said, pointing to the wall where the rock looked particularly dense. “Let’s make a lair for some beetles.”
+
+The brood queen immediately got stuck into the task, fanning out her brood as they tore into the rock, ripping it to rubble and consuming it as they went. The tunnels grew rapidly, meandering according to whatever whim took the brood queen’s fancy.
+
+“How about a larger chamber here?” Ali said, following down the tunnels with Seth and their minions in tow. The brood queen complied, now discarding lesser-value minerals and ores from her armor to replace them with new ones that were shinier or harder.
+
+The crunching and splintering of rock under the influence of the beetles’ powerful mandibles and earth magic rattled the cavern continuously while pebbles and sand drifted or fell from the roof, bouncing on the ground below, but Ali wasn’t particularly worried, keeping her barrier at the ready just in case of a cave in.
+
+“This looks like a great spot for that Earthquake,” Ali mused.
+
+Seth gulped as he eyed the enclosed space warily.
+
+Suddenly, the Brood Queen froze, quivering in excitement as Ali sensed something intoxicating from her Earth Sense.
+
+“What is that?” she exclaimed, sensing, probing at it, but the beetle had no words to describe it other than the powerful sense of greed and the desire to eat it. “Go,” Ali said, giving her permission. The Subterranean Brood Queen tore into the rock personally, shards and splinters shattering and flying about in her haste to reach the tasty morsel. Ali’s barriers sprang up immediately to protect herself and Seth from the flying shrapnel.
+
+The brood queen grew more and more frenzied as she got closer and closer, and suddenly, the wall in front of her collapsed, revealing a long, irregular cavern that positively shone with blue-white radiance. Ali’s eyes widened as the brood queen tore into the rock, consuming it with ravenous haste as the glowing ore started materializing on her shell.
+
+“Is that…” Seth gasped.
+
+“Stop!” Ali commanded, interrupting him mid-sentence in her haste to rein in her monster. The giant Rock Beetle halted like she had run full tilt into a wall, but she remained straining forward, antennae and mandibles quivering at the overwhelming scent that filled the cavern.
+
+Ali picked her way around its huge rock-encrusted insect legs and reached the threshold of the cavern. It wasn’t particularly large as underground caves went, but it was quite deep. Like a giant geode, the walls were laced with glowing veins and protrusions of a silvery metallic ore that shone with an intense mana.
+
+“Wow, that’s extraordinary,” Seth said, joining her at the threshold.
+
+With a sense of wonder and amazement, Ali floated out on her barrier, suspended high above the deep crevasse, and flew over to inspect the wall. She didn’t have mining, and there were no individual chunks of rock to identify, but she had strong suspicions. If she was right, Myrin’s Keep would be in for another crafter frenzy. She reached her hand to the wall, resting her fingers against the glowing ore, and deconstructed a huge swathe of it.
+
+Variant: Mithril Ore added to Imprint: Stone.
+
+“Mithril,” Ali said quietly.
+
+Seth simply gave a low whistle.
+
+Both of them immediately understood the magnitude of the impact this would have on the town, if not the entire region. Even just this vein alone would have been something incredible, but Ali could create it, and make it respawn. At least one blacksmith Ali knew would not sleep until he learned how to properly smelt it.
+
+“Eat enough for your armor, and guard the rest of this vein,” Ali ordered, releasing the straining brood queen.
+
+Her huge beetle quivered with delight and gobbled up a large glowing boulder, sprouting fresh, glowing veins across her already unimaginably priceless shell. With her Grimoire competing with the brood queen for radiant illumination in the cavern, Ali consolidated her domain with Stonecap mushrooms. After waiting a few minutes for it to stabilize, she filled her lair with more mithril ore attached to the domain so that it would respawn.
+
+“This looks like a good spot,” Ali said, glancing to Seth.
+
+“Yes, especially if you can redirect the passage so that people are forced to come through here,” he agreed.
+
+“I think the presence of mithril here will be enough of a lure,” Ali speculated. It was the ideal location for the Brood Queen to settle down. While it was technically a ‘small’ vein – if it were any other ore – there was more than enough to last Myrin’s Keep for ages. Her beetle boss would always have fresh mithril for her shell and would respawn.
+
+Domain Respawn applied to Subterranean Brood Queen.Raid Domain Enhancement applied to Subterranean Brood Queen.Earthquake applied.Amplify Skill (Augmented Armor) applied.Attribute Enhancement (Endurance) applied.Domain Enhancement complete.Your reserved mana has increased by +658.
+
+“Do you… need me to keep this a secret?” Seth asked, as they both returned to the main cavern and began making their way back to the library.
+
+“No. Feel free to share it with the guild.”
+
+His eyebrows waggled. “Ready for the rush?”
+
+“I guess I’ll have to be. I’m going to go drop a pile of this ore beside the anvil for Thuli to experiment with, and I’m sure he will want a steady supply as soon as he figures it out. You’ll probably see collection quests on the jobs board pretty soon.”
+
+I’ll have to check through the rest of my defenses, I’m sure Calen will have a few ideas… She was looking forward to seeing how well her queen performed – it was the perfect level for many of the guild raiders, and the mithril ore would have incredible long-range effects on the power of the guild as soon as the crafters learned to incorporate it into useful equipment. Even for her friends – she couldn’t wait till Mato commissioned a set of mithril plate armor or Calen found a fletcher capable of crafting mithril arrows.
+
+***
+
+Ali jerked up from her studies in surprise as her domain mana surged unexpectedly, but her instinctive reaction to danger faded quickly as she sensed the origin of the effect. Way down below the library, in the final chamber of the Emberforge Mines, Thuli stood at the giant black anvil with billowing waves of ember-affinity mana pouring from him like the sweat dripping from his brow and his thick muscular arms. He laid his hammer to the side and retrieved something small and sharp that blazed with pure brilliant radiance in her mana-sight.
+
+“Congratulations, master,” Kavé said, crowding closer beside Tarek to see what the master Smith had created.
+
+“What did I tell ya about the master thing, lass?” Thuli said, but he was grinning from ear to ear as he held out his work for his apprentices to see.
+
+Ali’s Grimoire reacted to the tithe enchantment on the Anvil of the Emberforge, immediately recording Thuli’s discovery.
+
+Variant: Arcing Mithril Dagger of Agility added to Imprint: Dagger
+
+That was quick!
+
+It wasn’t the most impressively enchanted dagger in the world – merely a magical creation with a dexterity enchantment and additional lightning damage on hit, but no crafter who saw his mana signature on a mithril piece would miss the seismic significance of the weapon.
+
+Using a Glitter Dragonet she’d left in the chamber, Ali stared down at him and his excited apprentices with eyes of satisfaction. She hadn’t had a chance to talk with Thuli, but he had clearly discovered her gift beside the forge and had made two breakthroughs – smelting and refining the ore into pure bars of mithril and the forging of the dagger itself. Most likely, the smelting and the proof of the supply of ore would be the most significant discovery.
+
+The pages of Ali’s Grimoire riffled past to a second imprint, and an insistent chime pinged.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Based on where the Grimoire fell open and what Thuli had just made, Ali was pretty sure she knew exactly what it wanted. Mithril was an evolved metal with an extremely high affinity for all kinds of magical enchantments. The fact that it was exceptionally rare, forming only in silver-bearing rock that had been exposed to extremely dense mana for ages, and that wars had been fought over the discovery of even small deposits, didn’t bother her at all. No, she couldn’t wait to try it out with her own runic magic.
+
+Eagerly, she selected a precious empty Grimoire chapter that she was used to hoarding by habit now and offered it up to the metal imprint.
+
+Variant: Mithril added to Imprint: Metal.
+
+The resulting flurry of activity only made her smile broaden. Wow, it’s complex! I wonder if I’ll ever understand the half of it? Ali rubbed her temples as she partitioned her awareness away from the deluge of information. She was still worryingly tired. More sleep, more tea.
+
+Thank you, Thuli, she thought, sending her feelings of gratitude toward the grinning, happy dwarf down in the depths of her dungeon. His Eimuuran steel would serve admirably for any un-evolved class, and she knew he had already taught it to Kavé, but Thuli was an evolved blacksmith now, and he would need to make items used by people higher than level one hundred in order to gain meaningful experience. Mithril was the perfect metal to get him going. That mithril dagger he had just crafted would be a perfect reason for her to work on leveling her kobold Dagger Rogues, and she was certain Calen would want a set of mithril arrows as soon as Thuli figured them out.
+
+With her Grimoire already open to the right chapter, Ali created a fist-sized chunk of mithril on the desk in front of her. As soon as it appeared, it began to shine, lighting up her desk and the books strewn about her with a radiant silver-blue light. She studied it intently, fascinated by how the mana of her domain was channeled through the lump of metal, flowing and twisting before being shot out in various directions with much more energy than when it had been absorbed. It was the reason for the intense glow, an effect she had learned about from books but was far more fascinating to see in person. The tiny bar of mithril would act as a mana density detector simply by the brightness of its glow – although nobody in their right mind would use the astonishingly expensive metal for something so mundane.
+
+Unless they’re a dungeon, Ali grinned. I have a few decorating ideas in mind! Yay! Another reason people like enslaving dungeons. She grimaced. Let’s keep it a bit cheerful.
+
+She twisted the metal before her, using Domain Mastery and Sculpting, creating a small statue of her mithril-coated Subterranean Brood Queen, and then using the left-over pieces to fashion several tiny runes, watching excitedly as they began absorbing mana on their own.
+
+“Is that…” Calen gasped, leaping toward her table to see the cause of the radiant glow.
+
+“Mithril,” Ali confirmed. She hadn’t realized how much of a scene she was making, but the entire library fell into a sudden hush as everyone stared at her and the glow. “You probably want to talk to Thuli soon.”
+
+“You found mithril?” Calen said, still breathless, as he sat down beside her to stare at her tiny creations.
+
+She pushed the sculpture of the queen rock beetle toward him. “My beetle found a small vein of ore in the mines yesterday. Thuli did the rest.” It was rather unsurprising that the mithril ore had been down there. After all, Dal’mohra had been excavating deeply into those caves for ages for a reason, and the Emberforge Mines dungeon had been spilling dungeon mana into the mineral-rich rock for the better part of three thousand years. All she had needed was the proper set of perception skills and a monster that could dig.
+
+They sat there in silence for a few minutes as more and more people stopped by, wanting to see or touch the legendary metal.
+
+“Ali,” Calen said, breaking off his amazed stare to look at her. “Mom says your new shoes are ready. If you’re feeling well enough to venture out, we can go pick them up whenever you like.”
+
+“Oh, sweet!” Ali said. She had been hunkered down in her dungeon recuperating, spending her nights curled up in Mato’s Sanctuary to try and heal from the damage her powerful magic had wreaked on her body. But she was getting cabin fever – she hadn’t visited the guild or any of her friends in town since she had come back. “I’m almost halfway healed,” she said. “Do you think it will be safe?”
+
+“I can come with you,” Malika offered. “I want to ask Lydia to make me a shirt out of some tougher fabric so it doesn’t keep tearing. Maybe some of that Frostweave or the demonic silk she had been working with lately – it seems pretty rugged.”
+
+“Mato, do you want to come, too?” Calen asked.
+
+“If you want more protection, I will,” he said, glancing at Ali. “Otherwise, I want to chat with Thuli about some gear.”
+
+“I think Malika and Calen will be enough of a deterrent for any thugs,” Ali said. “And I’ll bring my shaman, too. Go get your armor.”
+
+“Can you ask Thuli about mithril arrows when you see him?” Calen asked eagerly.
+
+“Elfie needs some shiny new toys?” Mato chortled.
+
+“Oi, you rotter!” Calen blushed deeply, which only seemed to make him more uncomfortable as Malika and Ali hooted. “I don’t see you turning down some shiny new armor.”
+
+“A bear’s got to look his best.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

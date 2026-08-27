@@ -1,0 +1,185 @@
+---
+id: fb5b3cfb-c508-5c52-ad85-b20b9b7b3c34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33"
+slug: 0033-chapter-33
+partOf: emie-ascended
+position: 33
+ownLength: 2237
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3582229/chapter-33"
+royalRoadId: "3582229"
+---
+
+“Should we challenge it now, or wait until the next delve?” Cora asked as she eyed a very familiar-looking entryway that marked the entrance to the floor’s new trial.
+
+When reports that new floor challenges had appeared after the dungeon evolved, I didn’t think much of it. Trials were such a common part of the Realm Dungeon that it hadn’t struck me as peculiar at the time, even with the natives’ apparent surprise.
+
+But seeing the familiar markings around the entryway made me realize there was something more going on. And when I took a closer look, that suspicion became a certainty.
+
+“Don’t they move with each new instance?” Stephen asked. “I remember reading something about that.”
+
+“That’s a good point. These are supposed to be good sources of essence, though they only provide a single reward at the end, no matter how many people enter together. What do you think, Emie?”
+
+“I think we should rest for the night and challenge the trial when we’re fresh.”
+
+It was a bit unfortunate that we’d encountered the trial on the last day we planned to spend in the dungeon, but now that I’d seen it, I definitely wanted to go inside.
+
+“It’s a little weird that the dungeon marked it with an unfamiliar language,” Mike pointed out.
+
+Our steadfast party leader had been carefully examining the trial entrance since we’d discovered it a few minutes earlier, and I was very curious how he would react to what I was about to share.
+
+“It’s written in English. It’s my native language.”
+
+Three sets of wide eyes turned in my direction.
+
+“What does that mean?” Stephen asked. “Is the dungeon trying to reach out to you for some reason? We already know that you’re the Originator. Do you think there is something more to the title?”
+
+“I have no idea,” I answered honestly. “It’s probably better that nobody else learn about the connection. I’ve already got enough eyes on me as it is.”
+
+“It’s not just you,” Mike said. “I’ve noticed it as well. They are probably monitoring our progress. I expect we’ll be receiving multiple offers for employment once we leave the dungeon.”
+
+We’d all been warned about the likely reaction to us reaching the first milestone. As Ascenders, we would each become a hot commodity.
+
+Not only could partnering with us significantly reduce dungeon taxes for anything obtained from an Ascender Dungeon, but we were all usually capable of fighting well above our actual level, especially compared to natives with barely a fraction of our experience.
+
+That wasn’t even taking into account my status as an Originator or a Space Magi.
+
+The first was more of a bragging point than anything since the title didn’t actually convey any real benefits as far as I could tell. However, glancing at the elegantly carved cursive lettering on display, I wondered if that was actually true.
+
+Clearly, I was connected to the dungeon more than I realized. Why else display something that only I would recognize? It was almost like the dungeon wanted me to recognize that there was something more going on.
+
+The question was: What?
+
+It was something I planned to ask Priest Zeth at the earliest opportunity.
+
+“Well, if I needed any more motivation to stay in the dungeon for a few extra days, that would have done it,” Stephen muttered.
+
+“Then we agree? We’ll take a break for now and start the trial after we’re all well rested?” Mike asked.
+
+I liked that he didn’t just make a decision and force it on us. Though he was officially the party leader and often took charge, he was always considerate of everyone’s wishes.
+
+Stepping through the arched entryway, our party was transported to a new location – one that I instantly recognized. Any doubt in my mind fled as I examined our new surroundings.
+
+“What’s wrong?” Stephen asked, noticing my expression.
+
+“This is exactly the same setting as the later wave trials in my old dungeon,” I answered. “Not similar. They are exactly the same. Even the pedestal with the crystal is the same. It’s like the dungeon copied it right out of my memories.”
+
+“Well, you are the dungeon’s Originator,” Mike interjected. “Perhaps your affinities weren’t the only things used to shape the dungeon’s evolution.”
+
+A familiar notification appeared, outlining the parameters of the trial. Skimming it, I saw that even the rules hadn’t changed, aside from the caveat about death within trials not being permanent. Since there was nothing in the notification making such a claim, I could only assume that death in these trials would be permanent.
+
+“That has some pretty hefty implications,” Stephen said. “Do you think we’ll see things from our own pasts as we delve deeper?”
+
+“Perhaps,” Mike said noncommittally.
+
+“The first wave is about to start,” Cora warned us. “It looks like a group of little bipedal monsters.”
+
+“Goblins,” I said as I shook my head. I wasn’t even surprised anymore.
+
+“Whatever they’re called, they are pretty ugly,” Cora said, making a face. “Do they have any special attacks?”
+
+“Probably not at the start. They’ll likely get more competent as we progress. If you see one with a staff, you should target it first since it probably has access to magic.”
+
+Our conversation was cut short by the attacking goblins. There were four of them – one for each of us. While they were all nominally first evolution creatures, they were far weaker than the beasts serving as the mobs for the rest of the floor.
+
+“Other than appearance, they remind me of horkins,” Stephen said several waves later.
+
+By this point, the goblins had grown stronger, and shamans had started appearing. There were also a few other varieties mixed in as well, though the bulk of the waves were still the weaker, basic goblins.
+
+“What do horkins look like?” I asked as I watched the defeated mobs disappear without leaving any loot behind.
+
+“They are about the same size, but have four arms and patchy fur, making them look mangy and diseased. They also have large, bat-like ears and fangs like a serpent, which they try very hard to sink into anything they see as prey.”
+
+“Sounds pretty nasty.”
+
+“They would be if they weren’t so weak. They are mostly swarm monsters, though they occasionally could be found in smaller groups if the main swarm grew too large. They never fought with weapons, though, so I guess that’s another difference.”
+
+“How far are we planning to push this?” Cora asked, walking over to us with Mike. “I say we go until things start getting too difficult. If we start taking injuries or it seems like we’ve hit our limit, we use the crystal to quit.”
+
+“Wasn’t that already the plan?” I asked.
+
+“Just making sure we’re all on the same page,” Cora replied. “Do you think the challenge will be limited to just these creatures?”
+
+“Not if we stick with it for a while,” I said. “Hobgoblins are bigger versions of the regular goblins we’ve been fighting. After that, I guess it’s possible we might face orcs or trolls. Interestingly enough, though they were often mobs in our rifts, there were also sapient versions of those creatures outside of rifts. I believe my old realm was originally two different realms ruled by different deities, but for reasons beyond my knowledge, they were combined.”
+
+“That is interesting,” Mike commented thoughtfully. “I wonder how all of that works.”
+
+“I don’t know. I suspect the only way to find out is to keep ascending until we reach whatever realm that controls stuff like that.”
+
+“I’m not sure I want to ascend and start all over again,” Cora said with a groan. “I may just push myself to the peak of this realm and stay there until I return to the cycle of reincarnation.”
+
+“Did you not know you’d have to start over after ascending?” I asked, causing all three of my party members to shake their heads.
+
+“No. We were under the impression that after ascension, we’d continue climbing with our previous strength,” Mike answered. “We had no idea that we’d basically be reset and have to start over.”
+
+“Same here,” Stephen said. “It was purely an assumption on my part, though. I was never taught that I’d keep my power or anything. It just seemed logical after putting all of that effort into gaining it.”
+
+That did make sense, though I also understood why the reset was necessary, especially if the magical energy that ran this realm was significantly different from the magical energy that ran the lower realms.
+
+“Well, if it makes you feel any better, Priest Zeth assured me that the next realm doesn’t force us to start over,” I told them. “He said it would be the first step toward true immortality, but didn’t elaborate any more than that. I’m not sure if it was because he wouldn’t or couldn’t.”
+
+“We should probably talk about this later,” Mike said before pointing into the distance. “The next wave is starting.”
+
+We called it quits after a particularly rough wave that left us all feeling wrung out and fatigued. The injuries we’d sustained were relatively minor, but none of us felt like continuing the challenge any longer.
+
+Waves of goblins had eventually turned into hobgoblins, just as I’d expected. From there, instead of shifting into another type of creature, the hobgoblins had grown stronger until their strength, combined with the sheer volume of opponents, had become too much.
+
+“My head hurts,” Cora moaned as Mike moved to the crystal to formalize our surrender. “I don’t think I’ve had a headache like this in millennia.”
+
+“It’s probably a result of overusing your skills,” Mike said as he touched the crystal. A moment later, he stepped back and said, “Our skills aren’t free, even if it might sometimes seem that way.”
+
+“Hush, you,” his wife replied as she stumbled over next to him and buried her head in his chest. “Just hold me for a few minutes. It helps me feel better.”
+
+“You don’t want to check our reward?” the Earth Magi teased. “It is your turn.”
+
+“Oh, that’s a good point,” the rogue said, suddenly showing renewed energy as she pushed her husband away playfully and looked around. “Where’s it at?”
+
+I pointed at the small chest that had appeared in front of the exit. Now that we’d indicated our intent to quit, no additional waves were being spawned, allowing us to catch our breath before leaving the trial.
+
+“That’s different,” Cora commented as she eyed the chest. “This is the first time I’ve seen a loot chest since we ascended.”
+
+Come to think of it, it was mine, too.
+
+“You had loot chests in your old realm?” I asked.
+
+“Sure did,” Cora said. She squatted next to the shiny metallic chest. “I’m guessing you both probably did, too?”
+
+I nodded, as did Stephen.
+
+“Must be a lower realm thing, I guess,” the rogue said before flipping the lid and exposing the deep purple cover of a skillbook.
+
+“Which one is it?” Mike asked, catching a glimpse of the cover before Cora snatched it up and held it protectively to her chest.
+
+The smile on her face looked almost painful.
+
+“Looks like we won’t have to spend as much time delving for funds, after all.”
+
+“Portal?” I asked.
+
+Cora nodded. “Yep,” she said happily before her smile dimmed slightly. “We’re still going to sell it, right?”
+
+“I don’t see why not. I can manually cast Portal, so I don’t need the skillbook. Unless someone else wants it? We’ve all got plenty of open slots,” I pointed out.
+
+“I’d rather just sell it,” Stephen said.
+
+“Me, too,” Mike said, causing the tension in his wife’s shoulders to ease.
+
+“Good. There are a lot of things we need to buy, and the cost of transportation to a new city is ridiculous. I was thinking, when the time comes, that we could save money by sending Emie by herself, and she could just portal us to the next city. That, or we could stow away in the sanctuary or something.”
+
+“That’s not a bad idea, though I’d rather not be stuck in the sanctuary for weeks at a time, no matter how nice it might be,” Mike said. “Regardless, that’s something to think about later. It’s going to be a while before we have enough to travel, even with the sale of Portal.”
+
+“It’s too bad the Porter Guild doesn’t operate on this side of the world,” I mused quietly.
+
+With us all in agreement regarding the skillbook, I stored it and turned to the exit.
+
+“We should probably rest before we leave the dungeon,” I said. “I have a feeling that things might not be as peaceful as we’re used to after we leave.”
+
+My feeling was not solely based on the additional eyes I’d noticed following us in the weeks leading up to our advancement.
+
+My sometimes-boss Leslie had mentioned several inquiries about my healing capabilities in recent months, and she’d warned me that I’d likely find myself the target of several interested organizations as soon as I evolved.
+
+According to her, Ascenders with core healing skills were in extremely high demand, especially among the rich and well-connected. They were almost as sought-after as Space Magi, though for a different reason.
+
+I could only hope that nobody realized I was both anytime soon.

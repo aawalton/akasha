@@ -1,0 +1,167 @@
+---
+id: e7c32eff-0b85-5724-ae82-00d0551577fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Two: The Garrison"
+slug: 0043-chapter-forty-two-the-garrison
+partOf: flesh-eater-demon-evolution-litrpg
+position: 43
+ownLength: 3006
+unit: words
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2759053/chapter-forty-two-the-garrison"
+royalRoadId: "2759053"
+---
+
+After being cleared by the great magical orb of monster-detection (it was a good thing Pax was as strong as she was, or that could’ve ended very badly), Pyre was given an unnecessarily lengthy rundown of basic rules around the garrison and a stack of more papers—including a map of the garrison and a schedule for the next day. The demon remembered to nod her head at the appropriate times, and apparently it was convincing enough for Edna, who dismissed her to the mess hall with a final stern reminder to “stay in line, cadet.”
+
+All in all, Pyre thought the whole thing had gone swimmingly. Absurd levels of vagueness aside, Pax did indeed seem to be very good at what she did.
+
+She glanced down. According to the schedule, she was pretty much done for the rest of the day. Tomorrow morning was when the real training began.
+
+The demon mentally debated if she should actually go to the mess hall. Obviously they wouldn’t be serving raw meat there, but it would also look suspicious if she didn’t go. In the end, she decided to head over if not just to see what the place was like. It wasn’t too far from the training grounds anyway.
+
+Pyre swung the heavy wooden doors open and found the building significantly more crowded than expected. All around her, the chatter of various cadets and soldiers filled the wide, open space. The garrison had clearly attempted to cram as many tables into the hall as possible, and it still didn’t look like nearly enough.
+
+The demon took a moment to assess the various parts of the room, noting the tall, narrow windows. Through them, she could see the thick patch of trees that Callan had pointed out during the long-distance run. She was pleased to note that they were indeed dense enough that you couldn’t be seen in them as long as you were as close to the wall as possible. It should work as a meeting spot—at least until she found a better one.
+
+The feeling of eyes on her broke the demon out of her thoughts. Ah, right, she should probably get moving soon. Pyre tossed a casual wave at one table of cadets blatantly staring in her direction, and they immediately looked away. She snorted. Damn, not even a wave back. Such was life.
+
+Grabbing a tray, she moved to the back of the very-long food line circling around the edges of the dining hall. From what she could tell, most of the new cadets were gathered in one section of the room. To her amusement, it looked like the younger ones had formed their own little cluster of teenagers while the folks over twenty sat in their own groups. It was clear a lot of them already knew one other from before the garrison.
+
+Judging from the amount of whispering and glances her way, Pyre figured the story of the sand-bag incident had quickly spread. Reactions ranged from awed to disbelieving to suspicious. No one actually tried to approach her, though, so she didn’t pay the gossip much mind.
+
+“Next!”
+
+Pyre returned her attention to the food counter, which she was more than tall enough to peer down at. The woman manning the station faltered a little when she had to tilt her head all the way back to meet the demon’s eyes. She coughed.
+
+“Um, what would you like?”
+
+Pyre scanned the assorted array of food, acutely aware of the fact that she couldn’t eat any of it. Cooked meat definitely qualified as dead, so that would make her sick, but she hadn’t actually tried to eat any plants yet. They might cause more demon-stomach issues, or they might just do nothing.
+
+Eh. It didn’t seem worth it to waste more time worrying about what foods to eat, so she just said, “A little of everything, thanks,” and the woman at the station seemed more than happy to be able to look away and focus on stacking food. Pyre figured she could find a way to warp her flesh to make, like, a pocket or something where a human’s throat would be. If she didn’t actually consume anything, there would be no need to worry about digestion issues.
+
+A few minutes later, she was handed back her tray—now piled high with food. Pyre thanked the woman and even remembered to blink, then turned to the tables.
+
+They were still as crowded as before, but in the “new cadet area,” as she’d started to call it, one end of a rectangular table currently stood empty. She strode over and plopped down, completely ignoring the way the conversation on the other end of the table immediately stopped the moment she sat.
+
+Now, time to figure out how to eat this stuff. The pocket shouldn’t be too hard to form—she just had to make sure nothing externally changed while she was making it. Thankfully, the metal plates provided a severely blurred and a warped reflection that was good enough for her current purposes.
+
+Focusing, Pyre concentrated on the mass of flesh right behind her mouth. She imagined a tunnel diverting away from “standard devouring territory,” like an extra train track running off from the main one. She felt the flesh quiver and start to move, and she decided to activate [Flesh Sculpting] to hold it there while she was eating. It was late enough in the day that the skill would definitely be off cooldown by the time morning came and training officially started.
+
+While the demon was doing this, she casually listened in on some of the conversation that had tentatively restarted at the other end of the table. Either her demonic hearing was better than the average human’s or the cadets were laughably bad at volume control. For their sake, she hoped it was the former. The latter would just be embarrassing.
+
+“You see? That’s the one. Number 84.”
+
+“She really knocked the sand bag all the way across the ring?” came a more skeptical voice.
+
+“I mean, she does look strong.”
+
+“Wait, hold on. She? I thought that was a guy?”
+
+“Nah, I heard the examiners talking. My question is, what’s up with the bandages?”
+
+“I heard it was scarring. Someone said 84 was a gladiator.”
+
+“That’s outlawed, stupid.”
+
+“Doesn’t mean it doesn’t still happen.”
+
+“Well, I heard it was some kind of spell accident. They’re covering the magic burns.”
+
+Pyre had to admit, she was enjoying the speculation. She was privately hoping there’d be some more outlandish theories, stuff on the level of “fought a shark barehanded,” but this was still pretty funny to listen to.
+
+She grabbed a fork and stabbed it into a chunk of meat. Maybe she should test her new food chute with a plant or something that wasn’t guaranteed to fuck her up first, but she figured it was go big or go home.
+
+The demon swallowed the food and waited a bit. To her satisfaction, she felt the meat chunk land in the little hollow pocket of flesh she’d made, just like planned. Great, now she could “eat” without looking suspicious. She’d just have to remember to empty out the food pocket at some point.
+
+Pyre realized the other end of the table had gone quiet again. Ah shit, she’d forgotten to chew, hadn’t she. She was used to only needing to bite when devouring stuff with bones and shit. Like humans.
+
+Oh well. Maybe this would lead to some more wild rumors. Worth it.
+
+She picked up the knife and began cutting the meat into smaller pieces, careful to control her strength to not, say, accidentally slice the silverware apart. Conversation began again, albeit hesitantly, and there were even more glances in her direction. One of these kids should really just walk over and ask the questions they clearly had, but alas, no one seemed keen on approaching.
+
+Well, all except for one.
+
+Seated two tables away, that extremely excited guy from the registration line was staring in her direction. That wasn’t unique, but the fact that he’d pause and glance contemplatively down at his tray every few seconds did make him stand out. He was pretty clearly mentally debating with himself, and after another few minutes had passed and Pyre was halfway through her green beans (she remembered to chew them and could safely say that everything other than raw meat tasted like generic paste), he grabbed his tray and stood.
+
+With careful, purposeful steps, the cadet walked over to the table, pausing beside an empty seat across from the demon. He cleared his throat.
+
+“May I sit here?”
+
+He was clearly trying to sound polite and professional, but his voice kind of cracked halfway through, so it sounded more like “MAy I sit here?” Pyre raised an eyebrow and waved casually at the chair.
+
+“Be my guest.”
+
+His shoulders slumped in relief, and he sat down. It looked like that old armor he’d been wearing in the lines had been returned to him, and he looked decidedly out of place in it. It made funny clanking noises every time he moved.
+
+For a moment, no one said anything. The kid was clearly working up the courage to talk, but Pyre was in no rush, so she just kept munching on her food with zero care in the world.
+
+Finally, the cadet blurted out, “My name is Declan.”
+
+Pyre stabbed her fork into another chunk of meat. “Cool. Pyre.”
+
+The casual tone seemed to deflate some of his enthusiasm, but he kept going. “I’m in group A too,” he continued. Pyre glanced up. From what she could remember, he’d scored pretty high in the sand-bag punch, so that tracked. She returned her attention to her food.
+
+“Congrats,” she said. Declan hesitated.
+
+“Uh, if you don’t mind me asking, how did you do that with the bag? Was it—was it a skill?”
+
+“I just hit it really hard,” the demon said bluntly. Declan frowned.
+
+“That’s… that’s it?”
+
+“To be fair, I’m about 98% muscle.” That was true. All hail [Flesh Composition].
+
+Pyre was expecting the cadet to drop the subject after that, but instead, he looked awed. She could practically see his eyes sparkling. He leaned forward excitedly.
+
+“What—”
+
+“Last call!” a loud, ringing voice interrupted from the food counter. “The dining hall closes in fifteen minutes!”
+
+Ah, it was later than she’d thought. Pyre figured now was a good a time as any to leave—she could only fake-chew so much before it got boring. She rose and grabbed her finished tray, remembering to give a disappointed-looking Declan a final nod. Contrary to Callan’s beliefs, she did know what basic politeness was. Albeit fuzzily.
+
+“See you around, kid,” she said. Declan furrowed his brows.
+
+“I’m twenty four?”
+
+He sounded genuinely confused. Pyre barked a laugh and moved to dump her scraps and return the tray to the counter. More whispers and murmurs followed her once she was done and made her way to the dining hall doors.
+
+It was still early, but she was pretty confident that her time at the garrison would definitely not be boring.
+
+The barracks, it turned out, consisted of a bunch of wooden buildings stuffed with as many cots as could reasonably fit inside. There were a few communal areas and washing rooms, but after that, the sleeping space was one giant room with only a few curtains between the beds that could be closed for some privacy.
+
+Other than the cot, each “room” got one square-shaped desk and a couple of drawers below the bed frame to store stuff. Pyre figured that, given the sudden war and all, the garrison probably hadn’t had time to renovate the place. It worked just fine for her, but she could see a few cadets’ faces fall when they first saw the sleeping quarters.
+
+Speaking of cadets, it looked like they’d divided the buildings into different trainee groups. This building housed both groups A and B while another one probably held everyone in C. Beyond the specific assigned building, though, it was a free-for-all to pick a cot, so Pyre strode over to one in the corner that was also conveniently near the exit. No one tried to argue for that bed, and the few people who’d been glancing at it quickly turned away to focus on other possibilities. No one seemed to want to confront her.
+
+The demon snorted. The perks of accidentally blowing up a sand bag.
+
+Pyre drew the curtains shut and tossed her bag into the drawer. The official “lanterns out” time wasn’t for a bit, and she could hear cadets chattering, some bickering over sleeping arrangements. Eventually, though, the space dimmed and the talking reduced to poorly-concealed whispers, the creaking of bed frames as people tried to get comfortable, and snores. In other words, there was still a whole lot of sound.
+
+The demon, of course, didn’t actually need to sleep, so she wasn’t bothered unlike the multiple grumbling cadets that she could overhear. It did beg the question of what to do now. She was tempted to explore, but she hadn’t been wrong when she’d told Callan that there’d probably be higher security tonight. She’d seen several guards patrolling around the living quarters before entering. That, and she was willing to bet a fuck ton of cadets would barely be sleeping at all tonight anyway thanks to a combination of nerves, excitement, and the unfamiliarity of a new location. Nah, best to lay low for now.
+
+Laying low didn’t mean doing nothing, though. Pyre decided now would be a good time to try and figure out how [Vibration Sense] worked. First, she grew a thin tendril of flesh from that extra mound on her back and slid it just below the curtains where it would be hidden in the shadows. Next, she formed a tiny eyeball with darkvision on the end so she could keep an eye on the room. That way she wouldn’t be caught off guard if something suddenly happened.
+
+With that done, the demon turned off her [Sound Perception] trait and turned on [Vibration Sense]. She figured solely using the latter would make it easier to learn, and it also had the benefit of cutting off the snoring sounds. Now, in the dead silence, she once again felt those different frequencies like ghostly waves hitting her body.
+
+Raising a finger, Pyre tapped lightly against the wooden desk beside the cot. A stronger, more obvious vibration resulted from the motion. She did the same on the metal frame of the bed, noting the difference in how the vibrations felt.
+
+Huh. Like she’d thought, different materials did have different frequencies. It was a little hard to test everything since she couldn’t make too much noise by stomping around everywhere, but if she really strained, she found she could get the general direction of objects and roughly figure out how dense the material was. It wasn’t nearly as detailed as actually hearing and seeing shit, but if she got good at keeping a subconscious awareness of vibrations, it might help her notice sneak attacks and stuff of that nature.
+
+While she was doing this, Pyre also activated [Flesh Sculpting] now that it was off cooldown from her very brief use during dinner. The excess food she’d already tossed into the latrines, so at this point she decided to just maintain her current form and firm up any parts that might’ve started melting. It would be off cooldown again by the time the sun rose.
+
+For the rest of the night, the demon continued cycling through her skills and practicing with [Vibration Sense]. It wasn’t until the first rays of sunlight started to peek through the barracks windows that she finally turned her [Sound Perception] back on and retracted her extra-eye appendage. She decided to leave [Vibration Sense] on during the day, too, now that she was better at blocking out the unnecessary white noise parts.
+
+Based on the singular clock in the room and her memory of the schedule for the day, there were still a few hours left before they had to show up at the training grounds. The neat thing about waking up early was that while the garrison had a “lights out” time, there was nothing indicating that you’d get in trouble for waking up early. In other words, it was an ideal time to explore.
+
+Pyre threw on the uniform she’d been given the previous day. The fabric was thick and slightly stiff, and at first she was 90% sure it was going to be too short, but then the pants literally lengthened in front of her eyes. Her eyebrows rose, and she poked the cloth. That had to be magic. Convenient.
+
+The demon did a quick check to make sure her bandages were all tight and that her horns hadn’t popped out in the middle of the night, then slid open the curtain and stepped out into the main room. From what she could see, most of the other cadets were still sleeping, and she didn’t run into anyone in any of the common areas on her way out.
+
+Outside, the air was crisp and cool. The sky was still mostly dark, only a few streaks of pink lining the clouds, but she could see a few soldiers on their morning patrols or doing chores. She turned.
+
+From where Pyre currently stood, she could just barely make out the Bellhein manor’s silhouette looming in the distance. She still hadn’t felt anything from the curse mark, but she was willing to bet that the side effects would start to show up soon if she didn’t get that horn.
+
+A soldier on patrol glanced in her direction, but she ignored him. It wasn’t like she was doing anything wrong. Turning away from the Bellhein property, Pyre faced the dirt road running throughout the garrison again.
+
+Well, time to see how much of the grounds she could cover before the first day of training officially began.

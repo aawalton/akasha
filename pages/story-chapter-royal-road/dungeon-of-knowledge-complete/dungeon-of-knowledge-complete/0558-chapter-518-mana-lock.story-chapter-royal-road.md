@@ -1,0 +1,245 @@
+---
+id: 9cbddb8d-ed18-5cf4-9cb9-1196f94a9866
+page-type-slug: story-chapter-royal-road
+title: "Chapter 518: Mana Lock"
+slug: 0558-chapter-518-mana-lock
+partOf: dungeon-of-knowledge-complete
+position: 558
+ownLength: 4098
+unit: words
+ownProgress: 4098
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2980903/chapter-518-mana-lock"
+royalRoadId: "2980903"
+markedReadAt: "2026-06-29T20:31:16.469Z"
+---
+
+Ali landed hard on the black marble floor in the center of the crowded locus, earning a painful bruise on her rump and surrounded by a claustrophobic crush of much larger adventurers crammed into the receiving room of the Novaspark Academy. The loud buzz of frustrated conversation, punctuated by the slowly fading groans and cries of the injured and wounded clamoring for attention, pressed in on her as the thoroughly defeated and disheartened raid group milled about, struggling to find its bearings.
+
+Ali spread her wings instinctively, intending to rise above the claustrophobic press of larger people, but in her haste, she had forgotten her injuries. She recoiled as her severed wing attempted to do her bidding, unleashing a sudden wave of dizzying pain. Already half-risen, she stumbled under the onslaught, tumbling back onto the unyielding stone surface.
+
+“Ali!” Malika’s distant voice rose above the hubbub as she pushed and shoved her way through the crowd.
+
+“Malika, I’m over here,” Ali gasped through clenched teeth.
+
+Malika appeared with a soft pop that sounded almost like a quick sigh; a flicker-step that ignored the press of platinum-ranked bodies, armor, and even the rules of space itself. A burst of searing soul magic rushed through Ali, making her gasp in pain once again as her injuries twisted together, new flesh and skin just suddenly there, and the torn, flapping fragments of her wing knit themselves back whole. In moments, she was fully healed, but Malika did not stop for several seconds, letting the extra healing spill over into a broad pulsing sphere of healing magic that quietened the sounds of agony and pain all around them.
+
+“Are you ok?” Malika asked, slowly turning off the burning rush of healing.
+
+“Yes. Thank you,” Ali answered, slowly picking herself up off the ground and instinctively checking her body for any remaining injuries and hurt. Even her minor bruise had vanished.
+
+“It’s a good thing Lyeneru insisted on alternative escape options, as you suggested,” Malika observed soberly, her eyes surveying the crowd in a way that suggested she was counting to see if they were all present.
+
+Ali nodded. She hadn’t even had the mana to use her storage ring, let alone her Hearthstone.
+
+“It’s a good thing you attached this locus to your domain,” Calen observed as he and Mato pushed their way through the crowd. “Otherwise, we would have overloaded the mana battery after five people and left the rest stranded.”
+
+Several faces in the crowd turned with expressions of gratitude or surprise. Ali acknowledged them with an awkward wave or a nod, but she did not feel comfortable dealing with any kind of public attention right now.
+
+“Strategy meeting in the guild hall in thirty minutes,” Vivian announced, her voice raised to cut through the clamor. “If you still need healing, remain here. The rest of you, clear the room, please. Obviously, we’ll be making plans and learning from this.”
+
+A ripple of magic cascading through the room answered her announcement as those with mid-range movement skills vanished, thinning the crowd and relieving the pressure.
+
+“That was a bit of a disaster,” Ali observed. In truth, she was still shaken by the experience. She had suffered a severe injury in the fight, but it was how it happened that gnawed at her, spiking her reluctance to face the powerful elemental once again. She had anticipated her barrier failing to protect her against the beam attack, but her teleportation escape had been soundly disrupted. It dredged up memories of the terror of facing the disruptor assassin for the first time.
+
+And that devastating mana drain transported her mind right back to the rift chamber and the Mana Eater that had stripped her of all her mana and spat her out through the rift. She had not been left stranded in the Abyssal Realm while the remnants of her domain were consumed this time, but she couldn’t shake the traumatic memories.
+
+“We’ll figure it out,” Calen said, placing a gentle hand on her shoulder, his voice calm and certain.
+
+“How can you be so sure?”
+
+“You saw all its skills already, didn’t you?”
+
+“I did…” Ali said, a little surprised in spite of herself. Perhaps it had not been all the skills, but she had seen quite a few of them. There had been four distinct domain abilities.
+
+“Then we will figure out a good plan,” he finished. “Come, let’s go to the meeting, we can talk on the way.”
+
+“I need to make a few more defenders before I go,” Ali said. The last of her minions had fallen to the Galdrone Tetrad and its flying swarm of drone elementals, and she could already feel the incursion of several elementals testing the range of her kobold holy mage boss. In a few minutes, the entire swarm of summoned elementals would likely be ejected as a dungeon break, and she wanted a little more certainty that she could keep the outpost around the gate and their incursion through the first barrier. Losing that would be a substantial setback. “Can you tell Vivian I might be a little late?”
+
+“Sure, just be careful, ok?” Malika answered.
+
+“I will,” she said.
+
+“I’ll come with you,” Calen said. “Just in case.”
+
+“Thanks,” Ali said, smiling at her friends, and with that, she teleported, her Grimoire already manifested, open to the Sylvan imprint. This would be a good task for her new archers. I also need a few speed minions that are robust enough to get in there and drag the corpses out before the dungeon consumes them. She glanced through the Sylvan imprint one more time, wondering if Fade and Disengage might be sufficient.
+
+“So, what do you think?” Calen asked, appearing beside her in a flicker of magic that appeared to be a strange facsimile of her own Minion Teleport, although manifested with his own affinity somehow. Remarkably, it looked almost like a magical illusion – but of a spell – and somehow, it had circumvented her requirement of switching places with a minion by creating an illusion of the Glitter Dragonet she had used and switching places with that. She would most certainly need to study it sometime when she wasn’t quite so busy. Perhaps it only worked because I satisfied the requirements first? It would be an unusual twist on the normal requirements for spells, but she could see how it might satisfy the costs without breaking the half-dozen laws of magic she’d been taught.
+
+“I think I’m going to make a bunch of archers,” Ali said, already filling the runes on the exposed pages with her mana. “I’m hoping they’re fast enough to retrieve the bodies of my minions so we don’t feed the dungeon any more than we must.”
+
+“Not that,” Calen answered, already launching a casual tracer-stream of glowing arrows into the air, whittling away at the flying swarm of spawned elementals that approached in a steadily growing wave. “The fight.”
+
+“I don’t know,” Ali said, a nearly overwhelming sense of futile despair rising within her. Other than Lyeneru, who was over two hundred now, she was the highest-level person in the guild. I’m supposed to be strong, she thought bitterly, but instead she had been rendered helpless, neutralized with such ease and suddenness that it still smarted. “I’m worse than useless in that fight. Without mana, I lose my minions, and they will break and attack the raid.”
+
+“Come on, it’s not that bad,” Calen chided.
+
+“What do you mean?” she asked, “Arcane Impedance makes all magic expensive, and blocks mana regeneration. Then, that domain skill drained all my mana. I’m completely helpless after that. What’s worse, the Soul Well Corruption does mana damage, and so does the Mana Insufficiency aura, both of which eat into my minion reservations. I can’t block his stuff with my barriers. It’s a complete mana lockout.”
+
+“It only blocks mana regeneration,” Calen answered. “My mana leech was fine, and potions still work.”
+
+“Oh, hmm…” Ali said. What else works then? Any alternative mana recovery skills?
+
+“See? There’s the Ali I know,” Calen said, grinning as he loosed more arrows to detonate loudly overhead.
+
+“What do you mean?” Ali grumbled, more than a little nonplused by his teasing. Why isn’t he taking the wipe seriously?
+
+“You were in a bit of a funk,” he explained. “Now you’re back to looking at it like a puzzle to be solved. Let’s break it down together. The domain abilities were the Clone and the Mass Summon, right?”
+
+“Yes,” Ali acknowledged. And she was forced to admit, he had a point; as soon as he had mentioned the gap in the mana lockout, her mind had instantly switched to a sudden influx of ideas for how she might exploit it. “Arcane Impedance is a domain applied curse aura, and the last one is that Mana Short thing.” It had seemed a lot like an arcane version of elemental storm, but a mana-draining version, instead of regular damage. It also only denied available mana, leaving reservations to be eroded by the other abilities, unlike the Mana Eater’s spores or her demons’ Arcane Mana Burn ability. How can we exploit that? It was a definite window, but she didn’t quite see how to factor it in yet.
+
+“Arcane Insufficiency is not a domain ability?” Calen asked.
+
+“No, that looks like a natural passive skill,” she answered, finishing up another Sylvan Storm summon, attaching her to the domain and moving to the next one as the lightning-imbued arrows crackled skyward to join Calen’s continuous barrage.
+
+“Ok, what else do we know?” he asked. Ali could almost see him taking mental notes. Did he even need that notebook of his anymore?
+
+“It has a mana-resonance perception skill, unlike anything I’ve ever seen. It can use it to deliver disruption,” Ali said, recalling how surprised she’d been as it manifested. Worse, she had seen the disruption skill stealing the mana she had used for her spell. It was unlikely they would be able to run this monster out of mana with all its drain abilities. “It does a lot of raid damage with those beams, and we need a way to deal with the summoned fliers.”
+
+“Normal stealth probably won’t work then,” Calen said. “I wasn’t paying attention. How fast is it?”
+
+“The perception?”
+
+“The reflected resonance. I assume it works something like echolocation?” Calen queried. “It’s not instant, right?”
+
+“Um, the pulses take about a quarter of a second round-trip from where the healers were standing,” she answered, racking her brain for how he intended to abuse that.
+
+“I think Devan and a few of the Pathfinders can outrun that,” Calen said. “At least, enough to mess up its aim.”
+
+“If they can see it,” she countered, but she knew several of them had pretty impressive perception skills – particularly the rangers and scout builds.
+
+“Healing mana is probably our biggest challenge,” Calen continued. “Healers typically can’t make use of leech enchantments and abilities, so we probably need a ton of mana potions. But that won’t be enough, what else?”
+
+“I don’t know…” Ali answered. She would normally make Inspiration circles, but that merely increased mana regeneration, so it would not work in this fight. Her priests had their Prayer, but that also worked by boosting mana regeneration, and similarly, Mato’s aura worked the same way. If it were just her, she could try to find a spell she could block with her barriers to gain mana – maybe the Arcane Blast, or the Arcane Bolts from the spawns. Or she could deconstruct corpses to regain mana, but her healers did not have those abilities, nor could she directly transfer mana to them. “Perhaps we can give them wands to do some damage and take advantage of Coria’s mana replenishment curse?”
+
+“Do they have the time to shoot anything?” Calen asked.
+
+Wait a minute… The flash of inspiration came as an image of a tree: a dark and malevolent tree. Under Calen’s inquiring gaze, Ali flipped the pages of her Grimoire to her tree imprint, studying the Malevolent Lirasian Oak for a second. “I have an idea, but it might be a crazy one,” she said with a small measure of cautious hopefulness creeping into her voice.
+
+“Your best ideas are crazy,” Calen offered.
+
+“What? That’s not fair!”
+
+He just chuckled in response and asked, “What did you find?”
+
+“Well,” she huffed, a little miffed by his teasing, “Do you remember those cloned treants we fought at the end of Blooming Rot?”
+
+“The fight against Lira’s spirit? The oaks with the rot magic?” he asked. “Oh! You said those guys are like mana batteries?”
+
+“Yes! They can transfer mana to allies,” Ali explained. “They can also compost corpses with their roots, and their death magic has mana leech.”
+
+“What’s crazy about that idea?” Calen asked. “They sound perfect.”
+
+“The rot bolts can’t be targeted; they hit all enemies in range between fifty-five and six hundred and sixty meters,” she said. It was indeed a rather strange ability; nothing she had ever seen so far had a minimum range, nor such a gigantic maximum range. Although the Malevolent Oaks appeared to fire individual bolts, the skill actually behaved more like a broad area attack that ignored allies. “If we get any banshees or zombies, the trees will heal them with death magic.”
+
+The area in which they had engaged the boss had many of those strangely complex arcane pylons that seemed to be the nexus for the dungeon’s undead summoning. Almost certainly, there would be new monsters appearing from them mid-fight.
+
+“That’s a manageable risk,” Calen said, fixing her with a thoughtful gaze. “We can clear a wider area before engaging, and task the archers and rogues to assassinate or ambush any undead adds to get rid of them. I still think this is workable. The rot bolts will help clear the summoned arcane elemental swarms because they can hit unlimited targets, and with their death magic mana leech, they would be generating a lot of mana to share. That’s easily worth the cost of managing a few undead adds. I might even switch to Death’s Grasp to spread death vulnerability to everything.”
+
+“What about the Arcane Blast?” Ali asked. Her melee had been shredded by the overwhelming damage of the overlapping explosions. “Can we split the five bosses a bit and take them out one at a time?”
+
+“We can split them up, but don’t we have to kill them simultaneously?” Calen asked.
+
+“Not if we hit the remaining clones when they’re trying to cast respawn. Here, see for yourself,” Ali reminded him, sharing the description for the Clone domain skill once again.
+
+CloneRequirements: Creature with mana.Source: Living FlameDomain Respawn creates two [boss], three [raid], or five [champion] identical copies of this monster. Each clone of the enhanced monster gains the following skill:Mana: You may domain-respawn any dead clone. Requires full mana pool and focus – getting hit cancels the summoning. Cast Time: 10 seconds. Skill – Domain Magic
+
+“I forgot about that,” Calen said, pursing his lips in thought.
+
+“What, a malfunction in your infinite notebook?” Ali snipped cheekily, having the satisfaction of seeing his ears redden.
+
+“They do have barriers, though,” she added, recalling the Living Flames with their impenetrable shields allowing the free cast for respawn. “We need a solution for that. My ice mages, maybe?”
+
+“I can shoot through barriers, too, remember?” Calen said, his mind clearly calculating options. “So can Seth with his damage curses. Also, the light mages with their beams. I think we can do this, Ali. This is a workable plan, and we even have redundancy. Come, we can work out the details on the way back to the guild meeting.”
+
+Somehow, the idea of turning the tables on the monsters and shooting through their barriers felt like a suitable kind of reciprocal karma.
+
+***
+
+Ali hovered in the air, surveying the scorched-earth devastation the raid had unleashed upon the area. Nothing moved – alive or undead – except for the Galdrone Tetrad themselves.
+
+She had thought the guild meeting would be a quick one and that they would return and attempt the fight within the hour, but the strategy discussion had taken ages. Vivian had postponed the fight for an entire day, insisting the guild take the time to stock up on enough mana potions and mana leech gear.
+
+In retrospect, though, Ali felt she had been able to use the time quite well. Below her, and all around, towering above her, was the strangest minion army she had ever summoned. Also, likely the most expensive, costing nearly twenty thousand mana and leaving her with a little less free mana than she was really comfortable with, but she tried to trust the plan. Better to have the mana tied up in minions than having it being stolen by that Mana Short ability.
+
+She glanced at the minions bringing up the rear of her army.
+
+Malevolent Lirasian Oak – Ancient Treant – level 180-188 (Nature / Death) x5.
+
+She had brought an ancient forest to this blasted land of arcane magic and corruption. The giant, dark trees loomed ominously, creaking and groaning as they picked their way inexorably across the corrupted dirt to the positions that she had assigned them. The lynchpin of her strategy, these hulking monster treants, twisted and warped remnants of Lira’s magic, would serve as mana generators for the raid, primary healers, and area damage all in one.
+
+Looking insignificantly tiny, marching along among the writhing roots of the ambulatory forest, were her primary ranged damage dealers.
+
+Archer – Sylvan Elf / Plant – level 140-144 (Nature / Death) x5.Sylvan Storm – Sylvan Elf / Plant – level 139-142 (Nature / Lightning) x5.
+
+Calen had decided in favor of Death’s Grasp, so Ali had summoned the original sylvan archers with their nature and death affinities to take advantage of his weapon’s curse. Her new Sylvan Storm archers were her answer to the dungeon’s continuously summoned undead. Each of her Sylvan army moved in the shadows of a massive treant, taking advantage of their Dark Restoration plant restoration aura. The sylvans all sported parasitic rings and either Death’s Grasp or The Scourge of Deadly Creep as their weapons, save for the sole Sylvan below level one-forty who sported Calen’s max-leveled hellfire bow. Zor’kan had helped her learn the Vampiric Bracer of the Bat, so her archer army would be entirely self-sufficient, with both mana and health leech. Just in case, every one of them carried a dozen stamina potions, too.
+
+It was the theme of her choices; everything she could do to circumvent the mana lock.
+
+Bloodwielder of Aman Rak – Troll – level 169-173 (Blood) x5.
+
+Other than the Treants, her only healers were blood shamans – immune to mana hijinks, and able to offer the raid Vampiric Hex, led by Joraa.
+
+Carnage Berserker – Giant Troll – level 170-176 (Blood) x5.
+
+Seeing five carnage berserkers striding forth in modified death knight armor, wielding the greatswords and greataxes they had plundered from the Crypt of Kings was a terrifying sight indeed, especially with Tol’brekk standing a head and shoulders above even the other giant trolls, but she had to admit, Thuli had performed a miracle working the anvil and forge overnight. Again, not a speck of mana in sight.
+
+The rest of her forces were designed to operate at range, supporting the raid.
+
+Eye of Agnor – Demon – level 158 (Ice / Lightning).Eye of Agnor – Demon – level 158 (Arcane / Lightning).
+
+The Eyes of Agnor brought Lightning Vulnerability and chain lightning. The curse alone would be worth it, given the number of Sylvan Storm archers she’d made. The ice magic was merely an optional extra, although the Glacial Chill curse would improve the damage of all the ice magic wielders. However, against a caster boss, the Interrupted Casting arcane curse would be worth its weight in reduced raid healing.
+
+Spirit Walker – Troll – level 159-162 (Soul) x3.Mage of Piercing Frost – Troll – level 150-156 (Ice) x3.
+
+Rounding out her last two roles, she brought some of her most trusty trolls. Although for very different purposes this time. The ice mages were the only mages she possessed that could shoot through barriers like Calen, and this was a key aspect of their strategy for defeating the respawn magic of the clones. Without them, the raid would be forced to kill all the cloned bosses simultaneously. Finally, Kir’vella and her witch doctors could drain mana with Soul Drain, and gift it with Ritual Infusion – a second effective way to control mana which might prove essential. Ali had high hopes that they could dodge the Mana Short by escaping to the spirit realm. Each of her mages and witch doctors had a Tusk Ring with a storage enchantment crammed full of mana potions.
+
+“Looking good, Ali,” Calen observed.
+
+“I just hope everything goes according to plan,” she answered.
+
+“It won’t,” he said, grinning at her. “But that’s what redundancies are for. Come, let’s get this show on the road.”
+
+Mato growled, feeling uncomfortably small even in his Dire Bear Form, but he supposed it was inevitable, after all, he stood among the massive berserker trolls and the even more enormous treants.
+
+He summoned his Lirasian Sage, feeling the familiar sensation of its powerful vitality aura augmenting his health, and sent it to orbit Ali, who sat on one of the lower branches of her biggest treant.
+
+Riding into battle, he thought, grinning a little.
+
+It was a complex strategy, but even though he had fully internalized the details, his own job was remarkably simple. He had the third Galdrone Tetrad from the left.
+
+Hit it hard, get hit harder, he thought. Oh, and don’t die. It was a joke among the guild tanks, and he had to admit he quite liked it.
+
+“Ok. Let’s get this started,” Lyeneru said. “Healers ready?”
+
+“Aye,” Belmar answered on their behalf.
+
+“Tanks?”
+
+“Ready,” Sabri called out after a brief hesitation to meet his gaze.
+
+“Ok, begin.”
+
+With that, Mato ambled out in front with the rest of the tanks, chuckling inwardly that the raid leaders always checked with the healers and tanks, but nobody ever asked if the damage dealers were ready.
+
+Ali had mentioned the mana resonance, and now that he was aware of it, he felt the subtle buzz as it hit his Sanctuary aura, and the instant it did, the floating cubes smoothly morphed their way to the ground, as if unwrapping and unrolling their geometries was a form of locomotion. A great chaotic mess of purple elemental facets and prisms approached, seemingly smooth and slow, but covering ground deceptively rapidly.
+
+He had his target. With a glance behind to confirm his Blood Shaman would be in range, he charged forward, crashing into hard elemental plates with a roar and a slash of void magic. It buzzed angrily at him, and he struck a second time, stacking up a second charge of Brutal Restoration. Slowly, he backed out of the chaos as the other tanks fired rocks, smote, or shouted to secure their targets.
+
+A rippling cascade of magic burst from within the elementals, tearing through all the tanks as Arcane Burst detonated among them, and less than a half second later, he had a druidic restoration buff and a crimson streamer of Blood Siphon restoring his health.
+
+Healers are on point today.
+
+Several glowing spheres materialized orbiting the cubes, whipping around to impact against his armor and shoulders: blunt physical damage. He simply treated the attack like he would a mace. With Critical Block. The familiar crack drove his paws into the soft, squishy ground as tremendous damage was reflected back into the elemental.
+
+But then it flickered and vanished, leaving a rapidly expanding bloom of magical energy that shredded through the tank group, picking him up and tossing him flying.
+
+Fuck, it didn’t do that last time. Frantically, he searched for his target, finding it twenty yards away, trying to smash his shaman healer’s ribs through its spine. Still flying through the air, he saw the sphere-mace crack down upon the shaman’s shield, driving her to her knees in the muck from the massive force of the strike.
+
+Hold on, he thought, triggering his Charge the instant his paws touched the ground. Mud and worse sprayed into the air behind him as his heavy body barreled into the Galdrone Tetrad, claws trailing streamers of void magic.
+
+Buzz off, sparkles! Leave my healer alone!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

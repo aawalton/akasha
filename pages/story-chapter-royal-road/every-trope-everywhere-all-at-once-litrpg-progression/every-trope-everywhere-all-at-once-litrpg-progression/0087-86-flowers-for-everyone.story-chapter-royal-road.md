@@ -1,0 +1,209 @@
+---
+id: 794f5d43-c86e-5d4e-a55e-dc389c4cc8ad
+page-type-slug: story-chapter-royal-road
+title: "86 - Flowers For Everyone"
+slug: 0087-86-flowers-for-everyone
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 87
+ownLength: 1872
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3800644/86-flowers-for-everyone"
+royalRoadId: "3800644"
+---
+
+The rings that Sparrow had given us disguised us perfectly, given how not a single person bothered looking in our direction as we walked through the marketplace. Speaking of which, why did Sparrow even disguise himself, anyway? It wasn’t like he was famous the way we were.
+
+Oh well. Maybe he just wanted to fit in.
+
+“Out of curiosity, what would happen if I went into my dragon form with this ring on?” Aeris asked. “Would it just not work? Or would I end up disguised as a blue whale?”
+
+Sparrow shrugged. “I’ve got no clue, but I don’t think I want to test that out. Ya might break it.”
+
+“No clue? But you’re the one who made it.”
+
+“Well I’m sorry I haven’t tested it out on a goddamn dragon!”
+
+Talon walked beside me, scrunching his face.
+
+“What’s wrong?” I asked.
+
+He looked at me. “If nobody recognizes us, won’t this mean we won’t get free things anymore?”
+
+Kaelor nodded. “There’s a tradeoff for everything. It’s either that, or we get recognized and surrounded. But worry not, my friends. I, Kaelor, will happily pay for everything.”
+
+I was about to push him back on that, but after remembering the grand entrance he had made during our first encounter at the parade and the fact that his family owned an entire army, I guess it wouldn’t be so bad to let him splurge for us.
+
+I looked in my [INVENTORY]. I still had some gold and silver coins from one of my first ever trope rewards, but I hadn’t really gotten the chance to use any of them. Seeing as we were in the middle of a huge marketplace, now seemed like a perfect time to use them.
+
+“What’s that…? Something smells amazing!” Talon exclaimed, sniffing the air.
+
+The moment he caught sight of the stall that the smell was coming from, he sprinted toward it without waiting for any of us.
+
+“That does smell quite nice,” Kaelor said. “I’ll go check it out, too.”
+
+Sparrow and Aeris followed him to the stall, leaving Meriel, Reina, and I behind.
+
+“You guys aren’t hungry?” I asked.
+
+They shook their heads. Now that was something I didn’t ever anticipate hearing from Reina. Instead of going for food, she walked to the stall closest to us. The man running it greeted her as she knelt over to take in the scent of the flowers being displayed up in the front.
+
+“A flower vendor?” Meriel said as we walked up to Reina. “I didn’t take you for the type to enjoy flowers.”
+
+Reina nodded, picking up a bouquet of red roses. They suited the color of her hair incredibly well.
+
+“My village is surrounded by all sorts of flowers,” Reina said, smiling at the thought. “We often sell them to merchants passing by, and our ceremonies always involve the flowers somehow.”
+
+I glanced at all the ones at the stall. There were flowers for nearly every possible color and shade.
+
+“What color is your favorite?” I asked. “Let me guess—red?”
+
+She shook her head. “White, actually.”
+
+“How come?”
+
+She put the bouquet back in its original spot.
+
+“When I was little, the elders in my village taught us that every flower had a meaning. We never gave them to people just because they looked pretty.”
+
+“Oh?” Meriel picked up a blue flower from a basket. “So there’s a whole flower language?”
+
+We scooted aside as other people came to check out the stall.
+
+Reina’s fingers went over to a cluster of white roses. “White flowers represent sincerity and hope. Whenever someone returned safely from a dangerous journey, we would welcome them home with white flowers. Not just that, but they were also put beside the graves of people who had passed away. That was why there were so many white flowers back at the memorial island we visited. Whale Isle’s meaning of flowers must be similar to our village’s.”
+
+“What about the other colors?” I asked.
+
+“Well…” Reina pointed to the bright red bouquet she had held just earlier. “Red meant courage. Some of the knights from our village’s army would sometimes pin one onto their armor.”
+
+She moved to the yellow flowers.
+
+“Yellow was for friendship. They were usually given during festivals or birthdays.”
+
+Then came a handful of blue blossoms.
+
+“Blue meant trust. If someone gave you blue flowers, they were saying they believed in you for whatever it is that you’re doing.”
+
+“Interesting,” Meriel said. “So there’s a meaning for every single color?”
+
+Reina nodded before looking back at the white bouquet one more time.
+
+“I guess those flowers just remind me of home,” she said. “My parents gave me all sorts of flowers before I left the village to join Lyndale’s Adventurers Guild. They told me that once I come back, they’ll have a hundred white flowers to welcome me home.”
+
+I laughed. “A hundred? That has to be an exaggeration… I hope?”
+
+Reina shook her head. “It’s more believable than it actually sounds. We have a lot of flowers back in the village, so I wouldn’t even be surprised if they somehow did that.”
+
+She turned to us, smiling. “But I guess things have turned out a bit differently than I thought. I’ve spent more time up in the sky than I should’ve been at Lyndale like I told them I would.”
+
+That much was true. Everything that had happened so far… I couldn’t say I ever could’ve predicted any of it. Meriel taking us to Glacinus after we first met at Lyndale’s Adventurer Guild had already been spontaneous enough. Using a broken teleportation spell that sent us to Whale Isles was even more unexpected. But then there was the entire dungeon outbreak ordeal, too.
+
+God, it had become impossible to predict where things would head next.
+
+Even with everything I now knew about the tropes and the Narrative—and with Meriel being aware of them as well—things had only grown much more confusing.
+
+I reached into my pocket and pulled out a silver coin, handing it to the man running the stall.
+
+“How many flowers could this buy?” I asked.
+
+His eyes widened. “A silver coin? Miss, that's enough to buy more flowers than you could possibly carry.”
+
+“Really?”
+
+I didn’t have a very good understanding of how much the coins were actually worth in this world, but this gave me a better idea.
+
+“Could I buy one bouquet of every color?” I asked.
+
+“Yes, of course.” He pocketed the coin and went to grab them right away.
+
+“A bouquet of every color?” Meriel asked. “Isn’t that overkill?”
+
+I shook my head. “Not at all. It’s for our entire party.”
+
+Reina raised her brows. “Really? You didn’t have to, Allene. That’s a lot of money…”
+
+“It’s alright,” I said. “I just felt like giving a gift to everyone, especially after the things you said about these flowers.”
+
+The man handed us the bouquets. We could only carry two bouquets in each hand, so the rest went into my [INVENTORY]. Every time I cast the skill, I caught a few strange looks. It was probably the first time most of them had ever seen anything like it.
+
+We headed back to Talon and the others, who were still at the food stall across from us. They were eating directly at a table next to the stall itself, so we went over and sat with them.
+
+“Mmm, mm mm mmh!” Talon said with his mouth full of food, pointing at our bouquets.
+
+“You should swallow before talking,” Meriel said.
+
+Aeris translated, “He asked what you guys were doing with all those flowers.”
+
+“How did you even understand that?”
+
+“Because he’s been doing that ever since we got our food. I feel like he’s just doing it on purpose at this point, but at least I’ve become somewhat fluent in the language of talking with a stuffed mouth. Anyway…”
+
+Aeris scooted closer to me. “Are those flowers for me, darling?”
+
+I nodded. “Mhm. Here, I think these would suit you well,” I said as I handed her the blue ones.
+
+She grabbed them and smelled them with a smile. “Oh, darling, you shouldn’t have! Thank you so much! You really do love me!”
+
+She gave me a hug. I was about to push her away, but decided to just leave it be for the occasion.
+
+“And these,” I continued, “are for you, Kaelor.”
+
+I handed him the red ones. From what Reina told me, these ones symbolized courage.
+
+He put down his spoon and held the bouquet close to him. “Thanks, Allene. They’re beautiful.”
+
+“Oi, what about me?” Sparrow said.
+
+I shot him a look. I still had two bouquets in my hand.
+
+“Well, I was going to give you some, but not anymore since you said that.”
+
+“What?!”
+
+“Just kidding.”
+
+I decided to give him both of them.
+
+Once everyone was finished with their meals, we explored the rest of the marketplace. I realized that I might’ve bought too many flowers, so I gave them out to some of the people passing by us.
+
+We went around to several more stalls, trying out more snacks, buying all kinds of trinkets and goods, and even drinking random potions. Now, look—I’ve already learned my lesson with the love potion, so I made sure to cast [GOURMET ANALYSIS] on all the potions before letting anyone drink them.
+
+Thankfully, they turned out to just be regular potions. And by “regular,” I just meant they didn’t make someone fall in love with me or poison me.
+
+After Talon drank his potion, his lips wouldn’t stop quivering. Sparrow’s potion was some strange mix of alcohol and left him completely drunk for only a few minutes before suddenly going sober again. The potion I drank gave me ridiculously huge forearms… for about two seconds. The person running the stall said that was highly unusual since the effects should’ve lasted longer, but I guess my body was just destined to have little to no muscles.
+
+Once we’d explored enough of the marketplace, we headed back to the ship and set down all our bags of goods and flowers inside the cabin. I asked Talon and Sparrow what our next destination was, and their responses were completely different.
+
+“A public bath house,” Sparrow said.
+
+“A garden,” Talon said.
+
+They looked at each other.
+
+“Oi, didn’t we agree to go to the bath house?” Sparrow asked.
+
+“No, we agreed on the garden, remember?”
+
+“Huh?”
+
+I asked Sparrow why he wanted to go to a bath house, and he mentioned that the one he was planning to take us to was one of the most luxurious ones Whale Isles has to offer. Talon added that we would be able to get in for free as part of the Chief’s rewards.
+
+We held a vote on the ship. Unfortunately for Talon, the bath house won by a landslide, but he didn’t seem entirely defeated by it since he also wanted to go there.
+
+Looks like that’s our next destination.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE KNIGHT LOVES FLOWERS (COMPLETED)
+
+- DIFFERENT COLORED FLOWERS HAVE DIFFERENT MEANINGS (COMPLETED)
+
+- THINGS THAT REMIND SOMEONE OF THEIR HOME (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[REWARD: +2 LEVELS]
+
+[LEVEL]
+
+[158 → 160]

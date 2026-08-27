@@ -1,0 +1,99 @@
+---
+id: 13f53015-8c45-57e6-b8cf-21f0ea5d7fa0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 334: An Underground Earthquake"
+slug: 0371-chapter-334-an-underground-earthquake
+partOf: dungeon-of-knowledge-complete
+position: 371
+ownLength: 1855
+unit: words
+ownProgress: 1855
+publishedAt: 2025-08-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488683/chapter-334-an-underground-earthquake"
+royalRoadId: "2488683"
+markedReadAt: "2026-06-29T20:23:10.968Z"
+---
+
+One hour prior…
+
+Sabri stared out across the dimly lit cavern that extended out far below their shadowed vantage point, still concealed in the shadows of the entrance tunnel. Even from their hiding spot, she could smell the pungent stench of the fungal creep that covered much of the floor and walls of the cavern, the odor enough to make her imagine her own lungs should start rotting merely from breathing it, but it was the giant hulking shapes lumbering around and grazing on granite boulders with the loud grinding crunch of heavy mandibles pulverizing stone that captured all her attention.
+
+Subterranean Brood Queen – Rock Beetle – level ??Stone Juggernaut – Rock Beetle – level 61 x3
+
+The three Stone Juggernauts idly wandered about with ground-shuddering steps as they ripped through the fungal creep to feed on boulders and stalagmites, somehow always seeming to be flanking the monstrous Brood Queen in the center. Their carapaces were made of molded granite rather than chitin, apparently grown into the shape of heavy armor with thicker and heavier plates and horns protecting their heads and beady pitch-black eyes.
+
+It was only when her attention was drawn to the giant brood queen in the center that she noticed the smaller beetles. Dozens of Borer Beetles fanned out into the cavern from beneath the giant queen’s heavily armored bulk, vanishing into the shadows of dark alcoves and tunnels. As Sabri watched, they returned with gifts; rocks of all different types and compositions, all deposited delicately before the queen so she could feed without bothering to move.
+
+Rock? Yes. Those are going to be tougher than tough.
+
+Sabri’s heart beat just a little faster at the mere sight of the queen. Its bulk was almost unbelievable, a giant, fully twice the height and length of the already massive Stone Juggernaut beetles, covered with rock armor that was embedded with jewels and silvery veins of ore. The queen reached down and snapped up a gift of sparkling rose quartz, and moments later her armor shifted, sprouting quartz from a small section halfway up, gleaming softly as it refracted the dim light, as if it had always been a part of her armor.
+
+“Boss?” Malika asked, peering out at the creatures with soft glimmers of light dancing in her piercing blue eyes.
+
+“Yes. Earth,” Naia said, her strange bluish membrane quivering with words. “Queen uses Earthquake, and lots of beetles swarm out.” The tiny ooze somehow seemed to convey frustration through both her voice and posture as she clung to the side of the tunnel as easily as she and Malika were standing.
+
+Earth magic, Sabri thought, studying the boss group. The queen was the boss, and the three juggernauts likely would be there to protect her while she presided over her swarm.
+
+“Do you think you can tank all of them?” Malika asked, looking at her with eyes that weighed possibilities, considering options.
+
+“I’m not sure,” Sabri answered. It would depend on how hard they hit, and what magic they could bring to bear.
+
+“They hit too hard for slimes,” Naia added, surprising her with an intelligent and intuitive grasp of the strategy question. “But you have armor that tastes like steel. Might work.”
+
+Sabri ignored the awkwardness the tiny slime was having translating her senses into a human-centric language. “What attacks do they have?” she asked, eager to gain any advantage from Naia’s experience against these monsters before she needed to face them. “Magic?”
+
+“Queen uses Earthquake,” Naia repeated. “Juggernauts protect queen, rock bullets, slam, bite. What word Ali-friend say? Phi – phi…”
+
+“Physical? I can try it, then,” Sabri answered. “Thanks, Naia.”
+
+With the new plate armor Kavé and Thuli had crafted for her, her upgraded shield, and her plate armor specialization, physical damage was her highest mitigation. She would need to work hard to increase her magical defenses, but it seemed that would not be particularly important for this fight. This might be just like fighting Basir – if he turned into a lumbering, multi-legged granite boulder with a bad attitude.
+
+“Ok,” Malika said, rising to her feet and turning toward the rest of the waiting raiders. “Seth, can you and the mages take care of the Borer Beetle swarm? I think your undead army and some area damage should be sufficient.”
+
+“Got it,” Seth said, and the mages beside him nodded.
+
+“Sabri, how about tanking the four big ones over by that pillar?” Malika asked, pointing.
+
+“Should work,” Sabri answered, already mentally adjusting her strategy. If they were going to use magic to handle the spawns, she would need to time her Soul Shout correctly. Her area taunt skill did substantial magical damage, but it was confined to a fairly short range around herself. The raid didn’t need to deal with her messing up their plans by pulling all the borer beetles onto herself with a poorly timed shout.
+
+Malika faded back into the dark tunnel to consult with Brena and Seth on some more details, and her place was taken by the familiar tall, tusked form of Gara.
+
+“Scared?” the troll asked, her voice pitched low to not alert the beetles that her curious eyes studied so intently.
+
+“A little nervous,” Sabri admitted. It was always that way with tanking. No matter how much planning was done, or how accurate the perception skills were, she would still be the first to experience the actual blows and offensive magic of the unknown boss. Still, waiting for it to start was the part she had come to dislike the most.
+
+“Do not worry,” Gara said, her gaze turning to regard her. “I will keep you alive. You still owe me another match, and this looks like the perfect battle for you to catch up.”
+
+“Thanks,” Sabri answered, grinning at her friend – rival – wryly. As a primary healer and a hybrid melee class, Gara was constantly in high demand within the guild, her skills and class always relevant in every fight. Tanks were also rare, so Sabri found herself in demand a lot, but in fights where a strong tank wasn’t essential, her contribution was lower. She had discovered that she and Gara would regularly pass each other by one or two class levels depending on the nature of the fights they encountered. Right now, Gara had one level on her, and her trollish sense of honor wouldn’t allow her to count the wins in their regular rivalry unless they were equal.
+
+“Ok, we’re ready,” Malika said, returning to the front, and quickly outlining the important points of their strategy, including a slight adjustment in the positioning of the tanking spot, which curses that would be deployed, and how to respond to various contingencies. Sabri found it a little strange to be taking direction from Malika instead of Brena, but Malika was vastly more experienced and she seemed to value everyone’s ideas and input.
+
+Sabri retrieved an expensive vial of high-level Stonecap Armor elixir and downed it, nodding to Malika and Gara, and then stepped out onto the rough creep-covered scree, trying to avoid stumbling as she scrambled down the steep slope and into the cavern.
+
+She was only halfway down the slick, slippery slope when the beetles noticed her. With loud hisses and screeches, the Stone Juggernauts raised their heavily armored heads and turned to run at her, not wasting a second. Sabri’s eyes widened and her heart began to pound in her chest at the sight of several tons of rock on segmented legs thundering across the cavern toward her. If she didn’t act quickly, the Stone Juggernauts would block her access to the Subterranean Brood Queen, and they would have a loose boss running around the raid. She quickly glanced to her side, finding both Malika and Gara only a single pace behind her. Carefully judging the distance, she sprinted another two paces forward before accelerating, the power of her Shield Rush skill coursing through her as she shot past the forward juggernaut, landing a huge shield slam flush on the armored face of the queen. The giant queen beetle lunged forward, snapping her mandibles shut, but Sabri thrust her shield in the way, earning a skin-crawling squeal of chitin scratching across steel.
+
+Splitting the air with roars of fury, and perhaps even indignation that she had struck their queen, the three Juggernauts wheeled on her, battering her hastily raised guard and armor with heavy impacts and sharp biting mandibles.
+
+That got you mad enough.
+
+Still, Sabri took a breath, trusting that Gara and Malika would keep her from dying, and unleashed her shout. The air around her shimmered from the force of her soul magic smashing into the four giant beetles, ignoring their rock armor. Their roars turned suddenly to screeches of pain and all of them lashed out. Instantly, she reacted, blocking two bullets of rock fired point blank, making them ricochet from her shield and hearing the crack and whizzing sound as they careened off the craggy rock overhead. The third juggernaut charged, smashing into her with the force of an avalanche, knocking her backward into the rock wall behind her.
+
+Oof. She smiled, even though rattled by the massive body slam, happy that she had placed herself within a few feet of the exact spot Malika had selected for her. A flicker of blood seen from the corner of her eye told her that she was still in range of Gara, and moments later, she felt the familiar crimson thread of healing magic coursing through her body. Totems appeared near her feet, piercing the creep and the rock below as they impaled themselves into the ground.
+
+“Good placement,” Malika said. “Can you keep them there?”
+
+Still pressured, Sabri hunkered down behind her shield, blocking the next slam, and then retaliated, channeling soul magic into her blade – without her soul power, she would not be able to do much damage through the dense granite armor. Her sword struck the queen squarely on the side of the head, and she could feel the damage boost of Seth’s Amplify Damage curse, and the welcome trickle of healing that came from Gara’s vampiric hex.
+
+Certainty swelled deep within her chest. “I have it,” Sabri announced loudly.
+
+“Attack!” Malika yelled at once, calling for the full force of the raid’s damage, and instantly, the air filled with the sizzling crackle of lightning, bolts of fire and ice, and dozens of other magical or mundane attacks. From high overhead, bolts of water and strangely glowing blobs of holy light rained down on their forces – gifts from their slime allies on the ceiling.
+
+“It’s casting something big!” Seth yelled from the back, and suddenly the entire cavern began to shake. The ground bucked, trying to throw Sabri off her feet. The air filled with the deafening reports of cracking rock, and she ducked under her shield as boulders and slimes rained down from above, dislodged by the grip of overwhelming earth magic.
+
+“Earthquake,” Naia said.
+
+Sabri simply hunkered down, still holding her shield overhead, deflecting boulders and attacks as she weathered the storm.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

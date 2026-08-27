@@ -1,0 +1,221 @@
+---
+id: 2dcb80ed-cf18-558f-a228-925805780542
+page-type-slug: story-chapter-royal-road
+title: "Chapter 525: Sneak Attack"
+slug: 0565-chapter-525-sneak-attack
+partOf: dungeon-of-knowledge-complete
+position: 565
+ownLength: 4675
+unit: words
+ownProgress: 4675
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3004874/chapter-525-sneak-attack"
+royalRoadId: "3004874"
+markedReadAt: "2026-06-29T20:31:31.531Z"
+---
+
+“Ali, can you slow down?” Calen said. “I got less than a third of that.” It was late, and they sat in a crowded private meeting room with the guild’s best strategists, all exhausted after a frustrating day. There had been no lack of ideas, but none of them had shown any real potential, and after the first hour of discussion, they’d begun circling the same patterns, going around and around like a dog endlessly chasing its tail. We need a break.
+
+Ali stopped, staring at him with a perplexed expression full of exasperation. She was obviously very excited about the strange golden crystal she was waving around emphatically – enough so that she had barged into the strategy meeting she had initially declined, and launched a soliloquy of incomprehensible magical theory.
+
+“Ugh, sorry,” Ali said. “Here, see for yourself.”
+
+She handed him the golden crystal she had been waving around like some talisman against doom. It nestled in his hand with a deceptive weight, glowing under its own power with the characteristic signature golden hue of Ali’s magic.
+
+“Err… I can’t –” he said.
+
+“Sorry, here,” Ali said, sharing the details.
+
+Arcanite Disruptor – level 175Single-use crystal, designed and crafted for a specific task.Charge: Linked Magic. Cast Dismantle followed by Runic Script. Charges: 1/1.Requirements: Intelligence 100.Created by Aliandra Amariel.Artifact – Arcanite
+
+He eyed it skeptically. Whatever this was, its dense, incomprehensible magical formations were far beyond his ability to discern.
+
+“This doesn’t help,” he said, trying to be patient, but his willpower was waning. Ali had clearly made some sort of breakthrough since the fight, and he really wanted to understand. He just hoped it would provide some advantage in the fight to unblock the stalemate – nothing he or the others could think of had allowed even the tiniest iota of progress against the dangerous elemental boss, and without defeating this one, they would be barred from entering the inner areas of the dungeon. Failing here would allow the dungeon time to reclaim its territory or leave it battling Ali’s dungeon forever. Allowing his hope to reach for the best outcome, he asked, “Will this somehow neutralize the mind control crystals? Is that what you’re saying?”
+
+“No…” she said, exasperation leaking through her voice.
+
+Calen frowned, and his hope vanished like a popped soap bubble. He glanced down at the extremely expensive thing in his hand and then back at Ali’s expectant face. “So, what does it do then?”
+
+“That’s what I was trying to tell you,” she said, her voice rising emphatically as she gestured with both hands like she was miming shaking him. “It dismantles a few key runes, and then the linked magic takes the formation I created with Runic Script and fills the gaps. If you use this on the platform, you should be able to mind control whatever you want.”
+
+“Wait, are you sure?” he asked, stunned for a moment, unsure if he was understanding her revelation properly.
+
+“Yes, of course,” she said. “I got control of one of the minion elementals for a fraction of a second before the other crystal platform took me out. I have its skill sheet; you can use it for strategy planning. Here.”
+
+Race: ElementalActive Buffs: Elemental Ascendance, Mana Echo, Champion, RespawnClass: Theuronic Crystal – level 245- Arcane Slam – level 159Mana: Make up to three melee attacks using blunt or piercing arcane protrusions that do weapon damage +3697% [skill + strength].Physical, Melee, Strength- Rend Armor – level 135Mana: Empower a Physical, Melee attack to do weapon damage +3673% [skill + strength]. Empowered attacks rend your opponent’s armor, applying a 1% reduction per hit. Duration: 30 seconds.Physical, Melee, Strength- Melee Prowess – level 105You are proficient at fighting with blunt or piercing natural weapons and forms. You gain +250% to critical damage.Physical, Melee, Mastery, Intelligence- Arcane Blast – level 91Mana: Release a devastating blast of Arcane energy, hitting all enemies around you. Range: 410.3 feet.Mana: Empower an Arcane spell with a known meta magic.
+
+Known Metamagic: Amplified Casting, Increased Area of Effect, Maximize Damage.Arcane, Area, Intelligence- Arcane Infusion – level 123Mana: Enhance a Melee attack or Spell to do additional Arcane damage.Arcane, Support, Intelligence- Elemental Ascendance – level 108Mana: Your Strength, Intelligence, and Wisdom are increased by +249.3% [40 + skill + base strength / 10]. Reserve: 20%Physical, Buff, Strength- Theuronic Vision – level 81You can perceive mana, damage, and injuries, and share the perception skills of your minions. Arcane, Perception- Arcane Armor – level 100Armor +7678 [class x 12 + skill x 12 + strength].Resistance +8104 [skill x 7 + intelligence x 2].Mana: Summon an arcane Barrier within your body to reinforce your armor.Arcane, Defense, IntelligenceDomain Magic- Damage Multiplier: x2.5 to all attack and spell damage- Alternate Form (Reaper of Ruin)- Damage Amplification (Arcane)Aptitudes- Arcane (Affinity): +150% spell power to Arcane magic- Immunities (Racial): Arcane- Mana Echo (Racial): You can use mana to pay for any costs. You have no health or stamina. Effects that apply to health or stamina apply to mana instead- Flight (Racial): You can flyAttributes- Vitality: 679- Strength: 3538 (+2525)- Endurance: 476- Dexterity: 536- Perception: 382- Intelligence: 3702 (+2642)- Wisdom: 3122 (+2228)Armor: 11206Physical Damage Reduction: 62.02%Resistance: 11044Magical Damage Reduction: 61.68%Mana: 513240/641550 (128310 Reserved)
+
+“Holy… Ali! Is that…” Calen gasped, positively reeling with the implications. They had been struggling so much with the random mind-control magic, with no approach anybody had come up with that he considered could be viable. With this, he could use a powerful elemental minion against the boss. “Did you… mind-control the boss’s minion?”
+
+“Err, yes, that’s what I was trying to tell you,” Ali said. “I used the platform and took control of the Mana Echo. The minion.”
+
+“This changes everything!” Calen said. “It’s like… cheating!”
+
+“Cheating? You, Calen?” Malika snickered.
+
+“Yes! No! I mean – you know what I mean!” Calen cried, pretending to swat her as she held out a placating hand, chuckling at her own joke.
+
+“One minor problem. You have to get it before they control you,” Ali said, frowning. “But the statistical approach seemed to work…”
+
+“Statistical?”
+
+“The cloud of minions I made. My theory is that, in the absence of a controller directing it, the mind-control spell picks targets at random, biased toward closer targets,” Ali said. “I had just enough time to get on the platform without being caught.”
+
+“Is this thing a single-use item? A consumable?” Vivian asked, picking up the crystal with considerable interest. “This must be worth more than two hundred gold.”
+
+“Yes,” Ali answered. “It requires such a large amount of mana to subvert a domain magic formation that I could only give it one charge. That’s also why I needed so much arcanite to make it. It burns the charge entirely, which was the only way I could avoid having it require an intelligence attribute somewhere north of two thousand.”
+
+“So, we get one minion for one try?” Vivian asked, pursing her lips in thought.
+
+Calen’s heart dropped again. He had been so excited about the possibilities that he hadn’t seen the obvious limitations.
+
+“I can do a little better than that,” Ali answered, reaching forward with her hand, and suddenly, a pile of glittering golden artifacts spilled out onto the table. “I spent a grimoire variant on it; I can make more if we run out. I was thinking we could give them to people like Malika, who have unlimited combat teleportation and fast reflexes. The platforms have inertial damping using some really neat gravity runes, so once you’re on the platform, you can just concentrate on controlling the monster. I’m pretty sure these crystal platforms are magic artifacts repurposed from something else – there’s no real reason for the platform and the inertial damping unless it was originally intended for an operator to drive it, but the magic of the crystal is inextricably entwined with the platform itself.”
+
+Malika nodded slowly. “Sounds like a plan.”
+
+“The beginnings of a plan,” Vivian corrected tersely, but there was a hungry gleam in her eyes. “Details, people – I want contingencies, counter-arguments, failsafes. You all know the drill.”
+
+Why do I ever doubt her? Calen wondered. Then, he turned his attention to the skill sheet of the monster Ali had revealed. Now, let’s see. What secrets can we exploit?
+
+Malika hopped on one foot and then took off at a light jog behind the tanks, leading the group that had volunteered for mind control duties. Every single one of them seemed focused, brimming with fresh energy inspired by the new changes to their strategy.
+
+From behind her, a glittering cloud took to the air, filling the skies – Ali’s swarm of golden flying shards.
+
+She tracked her strike team with Soul Sight, keeping her eyes and her Infinite Perception trained on the boss and its minions. Her focus tightened as Mato approached that familiar invisible line, and the instant he crossed it, the Avatar of Annihilation reacted by unleashing an enormous blast of arcane energy and surged toward them, minions in tow, releasing echoes of the blast, most of which she dodged.
+
+You have been afflicted with Arcane Amplification.Your Arcane Amplification has increased to 2.
+
+When she saw Mato’s muscles flooding with an infusion of stamina energy to power his Charge skill, she shouted over the noise, “Go!”
+
+She and her compatriots all took off, suddenly accelerating to maximum speed, for once allowed to pass the tanks. Malika sprinted through the air beside Devan, briefly jealous of the two mages who had enough range to simply teleport directly to their assigned platforms, but in less than a second, she was in range and stepped through the intervening distance as if it were simply not there.
+
+Suddenly, she found herself standing on a purple glowing platform about four feet in diameter with a shining crystal hovering overhead. Jagged bolts of black lightning were already arcing between Ali’s flying minions, searching for the strong or powerful to dominate. The platform beneath her feet was strangely stable as the inertial damping effect clamped down to support her, just as Ali had explained, but the world outside was teetering and spinning crazily. She tuned out the disorienting scene, summoned the Arcanite Disruptor, and placed it carefully in the center of the runic formation. Right under the floating tethered crystal, just as instructed.
+
+Here goes nothing, she thought, and triggered the charge.
+
+It let out a stunningly bright flash of golden light, disintegrating into powder, and the magic shot into the platform like rain soaking into a parched landscape. Then, it twisted. The crystal above her head darkened dramatically, and she fixed her eyes on her assigned Mana Echo, which was contending with the tanks far below. Suddenly, she felt a mental connection to something.
+
+It was an indescribable sensation, and yet Ali had prepared her for this moment. Without hesitation, she reached through it with her mind and searched the ground below, grasping with a sense she had never had before. Her vision and the synthetic perception suddenly aligned, and she found Havok tanking two of the minions just outside of the arcane circle. She reached for the nearest one through the bizarre connection, and the crystal reacted with a surge of dark power. A crack sounded as a black bolt of lightning shot toward the ground, piercing the minion Reaper of Ruin through the center of what passed for a head, and her connection shifted as the monster’s will fell beneath her control.
+
+“Yoink,” she said, and then frowned at the rush of embarrassment at her childish response, but the stunning joy of finding herself controlling one of the boss’s own minions burned that away in a flash. Besides, nobody would be able to hear her over the crash of battle.
+
+Focus, she told herself. Her job was to figure out how to control this monster and see how they might use it in battle. Calen had copied the abilities of the arcane Mana Echoes onto a study packet for each of them, offering suggestions for what they should try, but for this first attempt, she was controlling a death affinity elemental: a Reaper of Ruin. She would be flying blind, so to speak. The first thing she did was call up its status and skill sheet, recording it with a second experimental device Ali had given her. While it worked, she rapidly scanned through the skills. A melee attack, anti-heal melee support, melee mastery, aah, there it is, she thought as she found the death bolt area damage and death-affinity enhancement support skills. Oh boy, this guy is powerful!
+
+She switched focus to the battlefield to take stock, discovering a disorienting blend of her own vision, Soul Sight, and the minion’s bizarre perception of mana, but the battle seemed stable at the moment. Mato tanked the boss in arcane form in the center of the runic circle, and thousands of arcane elementals were pouring skyward or crawling along the ground as it lit the world with consecutive arcane blasts. Ali’s swarm contended with the boss’s spawns in a sky-spanning aerial conflict that staggered the imagination. But most importantly, Malika counted four dark crackling arcs of lightning tethering flying platforms to Reapers of Ruin, and the freed-up tanks, Sabri and Havok, were now rushing around collecting the lesser, ground-based summons.
+
+Malika activated her first ability, choosing the death bolt spell, while simultaneously enhancing the damage with the support skill that claimed to add additional death magic damage. A vast surge of power rippled through her minion as a veritable storm of dark energy burst outward, blasting toward the cloud of elementals in the air and the boss itself.
+
+Holy shit, I’m a mage!
+
+Mana drained through her connection in a way that drew her mind to her healing skill. Quickly, she studied her minion again, verifying that the death elemental also possessed only mana – a bizarre state without health or stamina. Most likely, it will die if I empty its mana pool.
+
+She studied the death bolt skill a little closer, suddenly realizing that it had several metamagic options similar to the skills taken from the arcane version, and she hadn’t bothered to use any of them.
+
+And it has no recharge!
+
+She used her potent death bolt spray, this time adding amplification, extra range, and maximizing the damage. A vastly more potent blast erupted from her elemental as bolts flew everywhere, joining a dark swarm as the other operators began to figure out their minions.
+
+Next, she proceeded to sweep out across the battlefield while continually blasting her bolts. As soon as she encountered the cluster of monsters Sabri was picking up, she unleashed her melee abilities.
+
+Ooh, I have Cleave! Her minion wielded a great scythe that sliced across the arcane spawn, shredding them, leaving a spray of splinters while applying a devastating healing reduction debuff. I wonder if I can use the Death Infusion support on the melee attacks? No sooner had she thought of it than she put her idea into action, discovering that yes, indeed, she could. This guy is awesome!
+
+A few more swings and she verified she could also use Amplify Casting and Maximize Damage on the infusion, but not the enhanced range. She was still trying to figure out the metamagic skills when her minion chased a monster across into the arcane circle. Instantly, Malika felt a shift in her connection, but her control never wavered. Instead, she found herself suddenly controlling a Theuronic Crystal arcane elemental with an entirely different set of abilities.
+
+Grinning, she released the powerful Arcane Blast, but every single uncontrolled enemy was an arcane elemental, entirely unbothered by arcane damage, so, after a few more experiments, she moved it back across the line, observing how it shifted forms yet again.
+
+Easy enough, she thought, growing more familiar with her borrowed abilities and skills. Death damage could hurt the arcane elementals, and it grew progressively more powerful as she and her fellow operators drove the Death Amplification higher and higher. Somewhere, she was certain, Seth would be cackling.
+
+She was still experimenting when she suddenly ran out of mana. The Reaper of Ruin imploded, collapsing in on itself with just the crumpled remnants falling to the ground. Moments later, the crystal above her head shattered, and the platform disintegrated below her feet, and she found herself falling, the connection to her elemental snapped like a twig.
+
+“Retreat,” Lyeneru called out. “Mato can’t take much more.”
+
+Malika’s head snapped to the side, taking in Mato’s wildly oscillating health, and she teleported instantly to his side, pouring her healing magic into his body. She kept up the continuous stabilizing stream, but even with her relentless abilities, there was no way she could keep it up for long.
+
+She summoned a pair of recall potions to her hand, waiting only long enough for the closest adventurers to retreat before she evacuated Mato and herself.
+
+Ali glanced down, studying her minions, but everything was just as ready as it had been the last six times she had checked, not to mention all the prior attempts. Her only change this time had been adding two Eyes of Agnor to her army, lightning and arcane damage to hopefully balance out the Soul Well Corruption that was healing the undead spawned by the boss whenever it was in its death phase.
+
+She ranged wider with her senses, verifying that her bosses and monsters within the town limits of Myrin’s Keep and the refugee elves’ forest just outside the battlements were still despawned. She hadn’t been mind-controlled in more attempts than she could count now, but she wasn’t about to take chances with the lives of low-levels, crafters, or the classless townsfolk.
+
+She grimaced as she downed yet another of Basil’s foul-tasting concoctions; nasty, but they really did help with the nausea induced by the Soul Well Corruption. She chased it down with a marginally more palatable Death Protection Elixir, trying to wash away the lingering foulness with the goopy black syrup.
+
+“Begin,” Lyeneru announced.
+
+The tanks rushed forward, Mato in the center, with Sabri and Havok flanking him. The mind-control crystal operators followed closely behind, their movements light and agile, contrasting dramatically against the power and weight of the tanks. The Avatar of Annihilation reacted the same way it always did by blasting everyone with its powerful arcane energy, an opening move everyone was well familiar with. With a minimum of wasted movement, the tanks split the Mana Echo minions, peeling them off to leave Mato alone in the center with the boss. The operators vanished in rapid succession, and the deafening cracks of the black lightning arced down to dominate their chosen elemental minions. A perfect dance of teamwork, practiced and honed over days of grueling, repeated failures.
+
+“Attack,” Ali commanded. The platform operators had perfected their technique; nobody had missed their targets in many attempts, and it was now reliable enough that both Ali and Seth were risking bringing a full complement of minions in an effort to boost their group’s damage and shorten the duration of the fight.
+
+A roar of berserk fury shook the air, and several tons of giant troll leapt into the fray, landing with a crash of ice and blood, twin mithril greataxes biting deep into the crystalline arcane elemental. Dark shadows opened and coughed up a black-scaled kobold assassin, bleeding trails of midnight-black void magic from her eyes and the wicked daggers she wielded. From below Ali’s aerial vantage point, ice mages and sylvan storm archers unleashed their magical maelstrom.
+
+The Avatar of Annihilation belched up a swarm of buzzing, chittering, crawling arcane spiders that flowed across the corrupted ground like a relentless wave.
+
+“Bolts!”
+
+The single Malevolent Lirasian Oak lurking at the back of the raid unleashed a veritable storm of dark bolts, filling the air with the putrid stench of composting vegetation and joining the hail of pure death orbs from the four mind-controlled Mana Echoes. Balls of holy fire detonated high in the sky amid the clashing swarms, blasting elementals and launching rapidly disintegrating purple limbs and shattered carapaces whizzing through the air.
+
+Deciding on specific minions for this fight had been a real challenge. On one hand, the steadily building Death Amplification made death-affinity magic extraordinarily powerful, but the moment they switched the boss – which was now a core part of their overall strategy – those death-affinity attacks suddenly became worthless.
+
+If only I had switchable affinity monsters, she thought, glancing at the Mana Echoes below covetously.
+
+The giant rot treant was Ali’s only affordance to take advantage of the greatly enhanced power of death magic. Really, she had included it primarily to boost the healers’ mana after it composted the summoned elemental corpses – essential in a fight where the corruption flowing from the Well of Souls constantly ate the raid’s mana. Besides, Seth had brought far more than enough death magic for the entire raid.
+
+“Main tank Rend is at fifty percent,” Calen announced.
+
+“Main tank Arcane Amplification is at three hundred percent,” Ali said. Her job was to track the magical amplification debuff. Her own did not matter – she blocked most of the hits with barriers anyway – but every single attack from the arcane form of the Avatar of Annihilation stacked another percent, and Mato was running quite high already. She could probably gauge the level just by the grimaces, winces, and narrowing of eyes among the furiously casting healers.
+
+“Begin the switch,” Lyeneru announced. “Destroy the minions.”
+
+The death bolt storm from the four mind-controlled Reapers accelerated, suddenly taking on a much darker, more potent aspect as the controllers unleashed every available metamagic skill and enhancement in an effort to burn through their remaining mana pools. The rest of the raid’s support casters had learned to save their buffs for this moment, loading the Mana Echoes up with transient power as they went out in a final blaze of glory. The arcane elemental swarms melted under the onslaught, and the health of the boss fell rapidly.
+
+Suddenly, something clawed at Ali’s mind, twisted insanity trying to worm its way in. A brilliant flare of light ruled a perfectly straight line from Calen’s bow into the sky, and a sudden flash and detonation destroyed a crimson eye that had come to spy on her.
+
+It never gives up.
+
+But Calen’s vigilance never faltered; she trusted him to keep the corrupted eldritch eyes off her back and focused on the most challenging aspect of the fight. The featureless black reaper elementals imploded, followed shortly by the spontaneous disintegration of the mind-control crystals, dumping their operators out in mid-air.
+
+Mato carefully backed up, drawing the giant arcane elemental out of the concentric glowing runic circles. The instant he crossed the outer border, a powerful transformation took hold of the towering boss. Domain mana surged through the giant elemental, and Ali counted three distinct domain magic skills triggering in rapid succession. The giant, glowing purple elemental filled with darkness from within, and in moments, the outer form of the elemental bubbled and warped. A broad chest appeared as an expanse of featureless black, a shrouded face emerged, and powerful arms sprouted, hovering above a black cloud. A giant black scythe extended rapidly from its ‘hands,’ culminating in a sharp, gleaming, curved blade that dripped death mana.
+
+Four identical Reaper of Ruin minions appeared in a ripple of domain magic, followed by four new crystal platforms that shot up into the air at breakneck speed.
+
+The death aspect of the Avatar of Annihilation drew back the massive scythe, intent on the dire bear backing away before it, but a shining figure, clad in mithril and steel, stepped between the scythe and the bear and shouted. Sabri’s shout boomed out across the battlefield, making the ground shake and the air shimmer to the rolling timbre of her voice. The sheer power of her skill arrested the scythe for an instant, and by the time the monster struck her with it, she was already blocking.
+
+Ali found herself nodding in appreciation. Perfect.
+
+“Tanks switched successfully,” Lyeneru announced. “Resume damage.”
+
+Havok expertly collected all four Mana Echoes by himself, giving Mato a healthy buffer of time for his Rend debuff to drop, and dragged them back across the threshold, triggering them all to transform to arcane simultaneously within the center of the rune circle.
+
+As the boss and its minions inverted their affinities, arcing bolts of lightning burst downward, and Ali began to redirect her minions as the entire raid pivoted strategies. She stopped her treant from shooting; death magic was worthless now. And just in time, too. The boss reacted by summoning waves of ghouls and skeletal mages, in dark contrast to the prior swarms of glowing purple elementals. While Mato and Havok scrambled to collect the freshly spawned undead, Ali sent her Berserker on a Blood Vortex jaunt through the entire pack.
+
+“Switching to curses,” Seth announced calmly as most of his undead minions backed up to create a protective wall of creaking bones and rotting flesh around the squishier healers and mages.
+
+From the center of the runic circle, vast spheres of purple arcane explosions burst out as the controllers began their assault.
+
+“Arcane bolts,” Ali said, speaking demonic to the Eyes of Agnor that loomed large behind her, adding a powerful slew of arcane damage to the rest of her onslaught. Then she erected barriers to soak up extra damage and collect mana, and began channeling Empowered Summoner.
+
+While the two forms of the Avatar, death and arcane, seemed mostly symmetrical, the presence of the corrupted Well of Souls tipped the balance dramatically in favor of the undead spawns. They were far harder to kill, with their mana and health being continually refreshed by the aura flowing out in foul waves. Holy fireballs were excellent, but they hadn’t proved quite enough last time.
+
+This time, however, Havok managed to get a solid lock on the bulk of the undead monsters, with Mato gathering up the stragglers and dropping them into his consecration aura, and so, Ali and the rest of the raid unleashed all their area damage into the crush. But it was when her Eyes of Agnor teleported in and breathed Arcane Mana Burn across the clumped up skeletal mages that the tide suddenly turned. Skeletons flattened like wheat in a hurricane, and to her immense surprise, the raid stabilized.
+
+She studied Sabri carefully and then announced her findings. “Main tank Death Amplification at two hundred and fifty percent.” It was not quite critical yet, but there was the additional death damage from the corruption itself to consider. Calling the switch early would not be a bad idea.
+
+“Main tank Rend at forty percent.”
+
+Oh, Sabri avoided a lot of hits, she thought, hearing the unexpectedly low number for the physical armor rend.
+
+“Begin tank switch,” Lyeneru announced. “Burn the Mana Echoes.”
+
+She agrees, Ali thought, approving of Lyeneru’s early call.
+
+“Compost now,” Ali instructed. The healers were beginning to get a little low on mana, and so was she, and she could clear the battlefield of undead corpses for the next round while they managed the switch. Dark roots burst from the corrupted ground, hungrily consuming the undead corpses, and clearing the path for Havok and Sabri to reach the center of the arcane runic circle, where Mato waited for the switch.
+
+The switches were by far the most dangerous moment in the fight, but for Ali, it simply meant holding her minions back so they didn’t mess with the tank swap, and studying the domain magic a little closer.
+
+And so, with so much of her mind suddenly freed up, she did not miss the faint, unmistakable taint of undead entering her domain hundreds of kilometers from ruined Ciradyl. Lots of them. Eyes widening in surprise, Ali shot her awareness outward, rippling across her mana and minions searching everywhere to find it.
+
+Myrin’s Keep! The town is under attack!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

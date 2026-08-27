@@ -1,0 +1,129 @@
+---
+id: 1193563b-faec-51e2-9ad6-91af9f61cbb9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 394: A Mother’s Woes"
+slug: 0431-chapter-394-a-mother-s-woes
+partOf: dungeon-of-knowledge-complete
+position: 431
+ownLength: 2256
+unit: words
+ownProgress: 2256
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2637869/chapter-394-a-mothers-woes"
+royalRoadId: "2637869"
+markedReadAt: "2026-06-29T20:26:38.429Z"
+---
+
+Seyah staggered over toward the campfire, her muscles aching from hours of drilling the ancient forms over and over. “Hi, Sabri,” she said, greeting her daughter and plopping herself down on the ground beside her with a groan.
+
+“Hi, Mom,” Sabri said, smiling, but then she returned to her conversation with the strange necromancer boy and the dragonkin blacksmith. Seth, I think? And … was her name Kavé? There were so many people in the camp, and she hadn’t even found the time to get settled in and get really acquainted before Myrin’s Keep had suddenly been wiped out.
+
+She struggled with it, emotionally. Rezan had died, giving his life to defeat a Lich, and even that was only to win a temporary respite. Her feelings churned, tumultuous and chaotic, but she had not even had a moment to process them, much less introspect or meditate.
+
+Her eyes drifted back toward the distant noise. Out there, across the open fields and beyond the tree line, lay the ruins of Myrin’s Keep – now a dungeon that continuously spewed out horrid monsters far beyond the ability of a level eleven Soul Spear to even hope to stand against. All she could do was train. Endlessly train.
+
+I can’t even protect myself. It rankled – her pride as an Ahn Khen warrior did not take kindly to being a burden on others, but without the protection of the guards standing watch and repelling the monsters all day and all night, Seyah knew she would have quickly died to the horde. They were all far too high-level for her. They – the monsters – didn’t care that she was still new to having a combat class.
+
+She sighed.
+
+“Here you go, dearie.”
+
+Seyah glanced at the sound of a familiar, friendly voice and found the stooped old woman offering her a bowl of what smelled like mushroom stew.
+
+“It’ll put some hair on your chest, you see if it doesn’t!” The old woman cackled as if it were the funniest joke.
+
+“Thank you, Tabitha,” she answered, taking a great measure of satisfaction at remembering at least one name. She accepted the bowl with both hands, consciously trying to ignore any questions that arose in her mind as to where the mushroom part of the stew had come from. Not even Sabri’s friend was able to raise all the fungus monster corpses; there were so many.
+
+“It’s my pleasure,” Tabitha said.
+
+Seyah dug in, surprised to find it didn’t taste nearly as bad as she feared. It was a little spicier, perhaps, than she preferred, but it was certainly hearty – and she needed energy if she was going to train again later tonight.
+
+A sudden gasp dragged her attention away to one of the nearby guards. Then, a frightened shout arose. Like a ripple spreading out in sudden waves, the garrison guards pointed, calling out nervously and beginning to back up.
+
+A loud thump in the distance caused a heavy tremor to pass underfoot. Another thump shook the ground. The ominous sounds continued, growing quickly louder as urgency and fear began to take their toll on the nearby guards. Suddenly, through a break in the trees, she caught sight of it.
+
+Standing alone out on the fields under the starlight, a huge tree loomed. Dark, heavy branches swayed, shedding blackened, rotten leaves. Slowly it shifted, taking a creaking, groaning step, and it was then that Seyah realized its trunk was split into two giant legs covered with thick black bark and trailing gnarled roots that twisted to grip the earth. One of the huge, stump-like legs landed, and a boom shook the camp, rattling her bowl enough to spill her stew. Large branches creaked and swayed, far faster than any tree had a right to move, and the sweeping strike smashed through a line of guardsmen and women pointing trembling spears at it, bowling them over and sending some flying. Screams of pain and agony echoed in the deepening darkness of early night.
+
+Frenzied Oak – Treant – level ???
+
+A Treant? Here? And… three marks? Where’s Sabri? We need to get out of here!
+
+She turned and caught sight of Sabri. A creak of leather and the soft clanging of well-forged steel accompanied her daughter as she rose from her seat. A heavy, gleaming shield appeared in her left hand.
+
+“Sabri?” Seya asked, hardly even noticing the quaver in her own voice.
+
+“I gotta go, Mom,” she said, adjusting the straps with a sure hand.
+
+To Seyah’s horror, before she could even utter a word, Sabri was out there striding across the fields and heading straight for the terrifying behemoth.
+
+“Wait…” she wailed, but her voice was drowned out by the fearful shouting and distant screaming. Unable to look away for even an instant, she watched as her daughter, her baby, walked into the path of that … thing. Nausea churned in the pit of her stomach. She knew in her head that Sabri had become strong, but that thing was huge, a monster, surely unstoppable!
+
+A second figure emerged from the gloom of the forest, joining Sabri. A blue-skinned, tusked woman who towered over Sabri, and the way they walked out into the open beside each other, Seyah knew they were both expecting battle. “Sabri…” she whispered. She couldn’t even identify the monster, but from the reactions of the guard and how easily they had been tossed aside, they should all be afraid. By the three marks next to its name, she knew it had to be vastly stronger than any of them.
+
+The last time she had seen anyone that strong had been when those platinum dungeon assassins from Southport had come calling – and they had nearly killed her with a casual afterthought.
+
+Where is the Guildmaster? Basir? Anyone?
+
+A sudden, creaking groan tore through the dusk, and the Treant charged, making the campground buck and shake. To her horror, Sabri strode forward to meet it, alone out there on the field. Her battered armor gleamed brightly, and she held her shield in a perfect guard position. Her sword was precisely angled, ready for battle. Seyah’s heart clenched at the sight. Her little girl, who had always loved martial arts, was about to be crushed.
+
+The huge, arm-like bough of the tree creaked as it whipped down at the tiny girl silhouetted at its feet by the fire and lightning of distant combat, and Seyah gasped as a huge boom shook the ground, knocking nearby townsfolk from their feet.
+
+“No, Sabri!” she screamed, leaping to her feet and snatching up her spear. A massive cloud of dust and clods of earth obscured her sight, but, at the instant the devastating strike landed, there was a loud, earsplitting crack. The sudden obscuring cloud was violently ripped aside by the force of impact, and within the clear center, Seyah saw Sabri standing with both feet braced wide in the bottom of a large crater, her shield held firmly above her head. The massive branch creaked and split as it shed splinters and leaves from the shock of the impact.
+
+Beneath the powerful Treant’s strike, Sabri raised her head, and a deafening shout split the night. All around her, the air shimmered. Wood and bark exploded from the force of the shockwave to come raining down in splinters about Sabri and her friend. The Treant roared in evident pain, and behind Sabri, her troll friend fired a ribbon of crimson magic that connected the two of them. Then the troll raised a sword and shield dripping with blood and charged in beside Sabri.
+
+What? What are they thinking…
+
+“They’ve got this,” the necromancer said, already on his feet and standing beside her, looking out upon the battle. He gestured with an obsidian rod held in one hand, and from the cover of the forest a horde of shambling skeletons and zombies emerged, mobbing the Treant with the reckless abandon of the dead.
+
+A huge cheer rang out from the previously terrified guards.
+
+But Seyah could only sink to the ground, unable to think, to understand what she had just seen. How was it even possible?
+
+“Seconds, dear?”
+
+Seyah glanced up uncomprehendingly at Tabitha, taking the offered bowl of food without registering what she was doing.
+
+“Your daughter? Yes, I see the resemblance. You should be proud of her,” Tabitha said, squinting her eyes at the battle out on the fields. “She often brings me the best monsters to cook.”
+
+Ali floated down to the ground, stepping off her barrier and onto the gorgeous, polished white marble floor as she considered her new predicament. She had gone from sneaking about in tunnels and caves, trying to remain hidden from the most terrifying demonic dungeon of hellfire and blood she had ever seen, to falling headlong into a second dungeon, only this one was woven from a crystalline holy lattice and a surrounding matrix of destruction in the form of sizzling void-affinity mana. From the density and visible structure, she could guess that this domain was at least as powerful as the one she had fled from.
+
+I need to get out of here. Somehow, she had alerted that enormous cavern of demons, and she was certain that any way out in that direction would dump her from the frying pan into the fire. No, she would need to get some distance from it and attempt to make her exit elsewhere, hopefully without tripping over anything she couldn’t handle in here first. At least, based on her hastily twisting her mana, this dungeon still didn’t know she existed. She eyed the walls closely, observing the thick layers of domain mana flowing beneath the strangely reverent murals that depicted haloed dragons laying waste to hordes of dark and twisted monsters.
+
+Is this some ancient, forgotten church to Azryet? Havok would love this theme.
+
+Even given her dire circumstances, she took a few moments to study the domain and the pristine construction evident around her. The perfectly carved passageway – for it would be just at home in an elegant cathedral as underground in this dungeon – extended off in either direction without any deviation. The murals continued unabated, and she couldn’t see a single monster anywhere. Nor a single speck of dust.
+
+Either this dungeon was a master builder and architect, or it had appropriated some ancient temple.
+
+Channeling just a little mana into her Grimoire, she began to sprout moss and wildflowers around her feet. She would just need to risk it for now. As soon as she was far enough away from that demon cavern, she would dig her way out of this domain and find a safe place to hide and plan.
+
+Safety first, though. For the umpteenth time, she opened her Grimoire and began to summon replacement minions while her Brood Queen consumed all the fallen rubble from her ignominious entrance. Even if there were no monsters around, there was no need to leave more calling cards lying around.
+
+She summoned her best scouts: Abyssal Stalkers and her kobold rogues. Then she summoned her highest-level acolyte and Joraa. She was inside a dungeon, and she needed the best protection she could make. She flipped the pages and resummoned Tol’brekk along with his weapons and armor, and then she looked for Mok’freja, but for some unknown reason, she could not be summoned.
+
+Is she still alive? She searched through her connections, but no, there was no link to the Ice Queen. She was sure she had felt her connection snap, which usually meant her minion had died… Why is she not available then? Ali pondered it while slowly walking down the long tunnel, but no plausible explanations came to mind. After several minutes of turning it over in her mind, she put the puzzle aside and peered into her Grimoire. It was not restricted to the single champion monster, of course, so she summoned a fresh Mage of Piercing Frost at nearly the same level.
+
+Her new mage appeared, a slender female troll with deep blue skin and the characteristic white hair of the Telim Gor done up into a topknot. Good enough, Ali decided, even though the new troll would lack a few of Mok’freja’s unique advancements and titles. She rounded out her forces with a few more assorted trolls, her anxiety slowly fading as she settled in with her familiar protectors, and the dungeon persisted in failing to leap out and attack her.
+
+She had one more crucial task, though – understanding her enemies. Now, let’s find out how you work, shall we? Ali flipped through her Grimoire, reaching the new variant just added to her demon imprint, and summoned the terrifying nightmare that had just almost killed her.
+
+Baelok Descrier – Demon – level 90 (Mind).
+
+Your reserved mana has increased by +226.
+
+The horrifying monster materialized right before her, taking up a sizeable amount of room in the passageway, hovering there in perfect silence as its eyes – all of them independently – began to take in its surroundings. The deep purple of its leathery demonic hide was accented with black markings and black horns and protrusions of bone that protected its major central eye and the four smaller ones to either side, giving it a menacingly spikey look. Although the menacing part may have been substantially enhanced by the trailing tentacles and the mouthful of deadly, sharp, pointed teeth.
+
+“What is your will, Master?”
+
+She shivered despite herself.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

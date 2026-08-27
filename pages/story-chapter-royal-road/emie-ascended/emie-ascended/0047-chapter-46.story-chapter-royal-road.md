@@ -1,0 +1,149 @@
+---
+id: a59aad93-6308-51db-b73a-139c1800da83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46"
+slug: 0047-chapter-46
+partOf: emie-ascended
+position: 47
+ownLength: 2144
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3773508/chapter-46"
+royalRoadId: "3773508"
+---
+
+Aside from the novelty of experiencing new places, the rest of the week passed with little excitement. There were no more demon attacks, nor were there any other significant events that occurred.
+
+Aerie remained excited with each new change in venue, and I tried to take a few minutes in each location to let her explore a bit after my waypoints were established.
+
+Though it required some very long days, I managed to set waypoints at each of the locations originally listed on our itinerary, even with the delay from the demon attack in Bloom.
+
+“I have to say, I’m pretty impressed with how quickly you managed to establish waypoints at each of the locations,” Heaven said when we reached our final city.
+
+The senior Porter was holding Aerie in her hands at this point since the asolade had gotten quite comfortable with the woman during our journey.
+
+Scratching under the kit’s chin, the platinum ranker admitted, “I was a little worried we wouldn’t make it through all the cities on my list after the attack.”
+
+The city of Bounty was more of a town than a genuine city, with only a population of about ten thousand or so, as opposed to the hundreds of thousands I’d seen in some of the larger cities that housed Ascender Dungeons.
+
+Comparatively, Bounty only had an early steel-ranked dungeon, which meant the strongest mobs found inside only reached around level 450.
+
+What made the farming community significant was that it was located on a small peninsula, which protected it from demonic attacks from all sides except the north. Consequently, the city was not surrounded by a wall.
+
+Instead, there was a single wall stretching from the edge of the dungeon’s protection range across the neck of the peninsula.
+
+Though I didn’t see the wall myself, given its distance, I did see bountiful fields of grains and other foodstuffs stretching miles into the distance.
+
+“It’s pretty, huh?” Heaven asked as we looked across the gently sloping valley that had given the city its name.
+
+“It is,” I agreed. “I think this is my favorite city out of them all, so far.”
+
+“Really? Even more than Seabed and Mountain Refuge?” she asked, referencing the two cities that had been wholly isolated from outside access without spatial skills.
+
+While Seabed had been an underwater city, Mountain Refuge could be said to be its underground equivalent.
+
+“Seabed was cool, but I’m not super crazy about underground cavern locales. I was basically forced to live in an environment like that for a few years, and I didn’t really enjoy it. I’m actually a little surprised that more people don’t settle in places like this.”
+
+Heaven nodded understandingly. “That’s because there are strict limits for most cities regarding population. There pretty much have to be, since cities with walls can only hold so many people. Even somewhere like this, where everything feels wide open, there is only so much space available. The majority is reserved for farming.”
+
+“There seemed to be plenty of room available for expansion in Sorenguard,” I countered.
+
+“Sure, but they had centuries to expand the city as the dungeon grew, and with each level of growth, the protective aura of the dungeon expanded. In places like Seabed or Mountain Refuge, they are limited, no matter how much their dungeon might expand.
+
+“And somewhere like this,” Heaven said, motioning around us with one hand while Aerie slept in the other, “or one of the island nations, or even somewhere like Bloom where the city is not inclined to expand its footprint… well, there is only so much land available. Even if the dungeon aura greatly exceeds the space needed, that doesn’t mean there is more space available.”
+
+“Is it hard to relocate somewhere like this?” I couldn’t help but ask.
+
+“For you?” She shook her head. “It wouldn’t be hard at all. As a Porter, they’d welcome you with open arms, especially if you agreed to provide regular access to other locations. If you were to offer to open a portal to one of the major cities once a week, or even once a month, they’d probably welcome you and the rest of your party without question.”
+
+“What happens when the population exceeds the city’s capacity?”
+
+Heaven shifted her gaze back toward the fields. “Small cities like this usually don’t have an issue since there are always delvers who reach the limit of what a weaker dungeon can support and are eager to move.
+
+“That doesn’t even take into consideration the new adults who are eager to leave home and see the world. Why? Are you actually considering relocating from a city with an Ascender Dungeon to a small town like this?”
+
+I shrugged. “Maybe. Like you said, it’s not like I can’t travel back anytime I want. And if I understand things correctly, as an Ascender, I’ll always be considered a resident of Sorenguard, even if I change my official residency to another city.”
+
+“Yeah, but you’ll have to pay full taxes for dungeon loot if you delve into dungeons that aren’t Ascender Dungeons,” she pointed out.
+
+While that was true, money really wasn’t a huge concern, all things considered. Even if I focused solely on a single ‘profession’, I’d earn more than enough to live comfortably without needing to delve more than the minimum to prevent stagnation.
+
+And if I wanted excitement, it wasn’t like I couldn’t visit a larger city.
+
+I certainly couldn’t deny there was an appeal to living somewhere like Bounty, but as it stood, I’d probably choose to settle down somewhere closer to Sorenguard instead of moving to the other side of the world.
+
+I also had to take into account the rest of my party’s wishes.
+
+While we’d discussed the potential of leaving Sorenguard several times, we hadn’t really talked much about what type of city we’d like to relocate to as a group. It was possible we might have completely different goals as far as that was concerned.
+
+In truth, I’d be okay living just about anywhere for a while. Regardless of where I settled, I was sure that I’d inevitably get the itch to move after a handful of years in any given location, but that was somewhat to be expected.
+
+Not only had I grown up a military brat used to moving every two or three years, but I’d also been forced to relocate with each advancement. Even when I spent decades on the same floor of the Realm Dungeon, I rarely spent all of it in one place.
+
+“Well, I’m not sure where I’ll eventually end up. I’ll probably settle in multiple locations over my lifetime,” I finally said. “It seems to make more sense to settle somewhere like this early on when the dungeon can support me instead of waiting for later.”
+
+“That’s true. It’s also a good place to raise a family since demon attacks are much less common, given the landscape.” Letting out a heavy sigh, Heaven turned to me and asked, “So, you ready to go finish up the paperwork?”
+
+“We have more paperwork?” I asked tiredly.
+
+After the last week, all I really wanted to do was go back home and collapse on my bed. Though there was a certain comfort inside my demesne that the apartment couldn’t match, over time, the rented apartment had started to feel more like home.
+
+It was probably because we spent a lot of our off-time there since it was the only place we could easily access the local network. Really, unless we wanted to take advantage of time dilation, we mostly just lived in the apartment we rented instead of staying in the sanctuary all the time.
+
+Part of that was obviously because Stephen couldn’t access it on his own. It was a problem I’d need to try to solve with my next evolution.
+
+If I couldn’t get Rho to allow me to open portals directly into the space, maybe she’d let me create some kind of access key to allow others to enter and exit the space at will?
+
+It was probably a long shot, but it couldn’t hurt to ask.
+
+“There’s always more paperwork,” Heaven said with a grin. “Come on. Time to head back to headquarters. You should take some time to look around the city once we get there, now that we’ve finished our task. I’d be interested to see what you think of the place.”
+
+I’d seen pictures of the city before, so I wasn’t sure why Heaven thought the view would be so distracting. From what I’d seen through the network, Portal was a normal enough city, if a little more modern-looking than Sorenguard and the other cities we’d visited.
+
+When I stepped through the sliding doors leading outside after updating my information with the guild, the truth of the city hit me like a brick.
+
+It was nothing like the pictures.
+
+I mean, sure, it was obviously the same city underneath, but it was like the difference between seeing a black-and-white sketch of a cityscape and looking at a high-definition panoramic photograph.
+
+The skyline was clearly identifiable, as were some of the more notable buildings. But the photos hadn’t done the city justice at all.
+
+There had been very little technology on display in the photos, which stood in stark contrast to what I found myself surrounded by.
+
+Skybridges made of what I could only assume was hardened essence, or maybe a form of ether that didn’t completely mimic regular matter. Whatever they were made of, they glittered in the sunlight.
+
+The people glittered, too, especially in the setting sun.
+
+There were floating vehicles and platforms, moving sidewalks, and obvious signs of spatial expansion all over the place…
+
+It didn’t match my expectations at all, especially not after what Priest Zeth had told me about the goddess’s desire to limit technology within the realm.
+
+I took a step forward, wanting to get a closer look at the park that seemed to take up a few square feet and several city blocks at the same time.
+
+“Well? What do you think?” Heaven asked, jolting me from my strange reverie.
+
+“You weren’t kidding about Portal being unique. I understand now why you kept me inside the guildhall and the Dungeon Complex when we visited before.”
+
+Still holding Aerie, Heaven said, “Yes. It is definitely a city unlike any other. You’re not going to see things like this in many other places.”
+
+Motioning for me to follow her, the senior Porter said, “Come on. If you’re not too tired, I’ll show you some of my favorite places that I think you’d also enjoy. Since Jace and your partner haven’t checked in yet, you probably have some time to explore before you need to head back, right?”
+
+While she wasn’t wrong, I was acutely aware of the fact that I’d promised to meet Glen in Bloom the next day.
+
+“Okay, but let me send Stephen a message to let him know,” I said, pulling out the new communicator I’d been given by the guild after completing my ‘assessment’ period.
+
+Though my contact information transferred seamlessly, the range on the new device was significantly larger than the basic version I’d had before. In fact, the communicator was supposed to work anywhere in the realm (outside of a dungeon).
+
+Considering how massive the world-slash-realm of Vasillios was, that was really saying something about the level of technology involved. Magic or not, the range was truly impressive.
+
+I didn’t think it would work between my demesne and the outside world since my demesne was technically a separate sub-realm like dungeons were, but I wouldn’t know for sure until I tested it.
+
+I was hopeful that maybe the magic that allowed it to work would somehow reach between dimensional boundaries, maybe using my soul as a bridge or something. If so, I wouldn’t have to worry so much about figuring out a way for Stephen to enter the sanctuary on his own.
+
+As long as he could reach out to me and let me know when he was ready to come inside, I could easily teleport to him, especially if I marked him with a Dimensional Anchor.
+
+Of course, I’d have to ask his permission first, especially since I had some sensory capabilities attached to my Dimensional Anchors now. It was a bit of an invasion of privacy, so it might be better to just have him message me at specific locations. Either way, it was an option.
+
+“Alright. I sent him a message. Where do you want to go first?” I asked, feeling a bit excited about exploring the city around me.
+
+I would have expected to have lost a bit of eagerness after visiting dozens of cities over the last week, but there really was something special about Portal that made me intensely curious to explore.

@@ -1,0 +1,215 @@
+---
+id: b4763848-80a0-56c9-b76d-e0785c3cfa1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter Twenty-One: Chimera"
+slug: 0021-chapter-twenty-one-chimera
+partOf: flesh-eater-demon-evolution-litrpg
+position: 21
+ownLength: 2899
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2613882/chapter-twenty-one-chimera"
+royalRoadId: "2613882"
+---
+
+Pyre heard Callan yell as the chimera leapt forward, bursting out of the cave in an explosion of movement. She focused, warping the flesh at her front into a plate of bones seconds before gleaming claws slammed into it.
+
+Crack. The demon slid backwards from the force of the impact. The source of that noise, she realized, was the bone shield. A small fracture stretched across its surface, just barely revealing the flesh underneath. It had been damaged with a single hit.
+
+Strong, she thought. Much stronger than any of the flesh lumps or humans had been. A faint thrill rose at the thought.
+
+“Look out!”
+
+Movement flashed in one of Pyre’s eyes as Callan’s voice rang throughout the clearing. Up above, the chimera had pounced into the air, the bright sun nearly blinding behind it. The demon twisted her flesh, bringing the bone shield up just as the chimera dropped down.
+
+The two monsters collided, a shockwave rippling out from the point of impact. Loose leaves and stones and clouds of dirt flew away. The earth dented beneath them.
+
+The existing crack in the bone plate shot outwards, crawling all along the white surface before the entire thing shattered into jagged pieces. Cursing, Pyre activated [Weight Manipulation] and flung herself back, her added lightness just barely allowing her to get away from the chimera’s snapping jaws.
+
+Two blows, she thought. Her bones could withstand two blows from the creature max.
+
+Rising from the crater their clash had created, the chimera twisted its skeletal head towards her. Those yellow eyes remained unblinking, and a low hiss escaped its gaping jaws. Away from the shadows of the cave and under the bright sunlight, the silver, translucent shimmer of its body was more apparent than ever.
+
+It didn’t seem like it could talk, Pyre observed, and while there was purpose to its movements, they seemed mostly instinctual. It probably hadn’t reached its second evolution yet, which was good at least.
+
+That didn’t stop it from being strong as fuck, though.
+
+Another low rumble escaped the chimera. The mouth sitting on the creature’s stomach snapped, teeth opening and shutting in impatience. Pyre focused one eye on that mouth.
+
+The next time it opened, she shot a bone straight into it.
+
+Once again, it passed through with zero resistance.
+
+The chimera pounced again, easily closing the distance. The demon had been expecting it, and she flattened out her body, ducking below an arcing swing of the beast’s claws. Now, with the chimera so close, her own mouth opened wide. The chimera’s body flashed. Sharp teeth snapped around its leg, but once again they closed around intangible air. Pyre cursed and formed another bone shield to block the next attack.
+
+“Hey, a little help here!” she yelled.
+
+From her fourth eye, she could see Callan frozen at the edge of the clearing. His eyes had clouded over, and he couldn’t stop staring at the chimera. Her voice, however, seemed to snap him out of his trance. He jolted awake.
+
+“I can’t hit the damn thing,” the demon continued. The chimera was still pressing into the bone plate, apparently intent on breaking it at all costs. “Use magic! I’ll distract it.”
+
+She remembered the brief scuffle she’d seen between Callan and the mage from the second guard patrol. Based on that, magic might be the only way to actually do damage to this thing. As long as she could keep the chimera from running away, the ghost could pelt it with magic until it either croaked or its incorporeal ability hopefully faded.
+
+Behind the chimera, its snake tail shot out, slithering around the bone shield and digging its teeth into some of her flesh.
+
+It was a dull sting. The teeth struggled to pierce through tough flesh, but the creature seemed intent on staying latched on. Pyre violently contorted that area, waving the flesh up and down until she managed to force the snake tail loose. The chimera’s body flashed again, and suddenly the pressure on the bone shield disappeared. The creature leapt back with a snarl.
+
+Across the clearing, Callan’s arm was raised. He was muttering under his breath. The center of his palm glowed a faint green hue. On the ground a little ways away from where the chimera had been, a small plant had suddenly sprouted from the earth, its leaves shining with a lingering magical glow.
+
+The chimera bared its teeth at the ghost just as he finished chanting. An arrow of light shot forward, crashing into the side of the beast’s body. The spell bounced off the bony armor plates, but before it hit the ground, the light exploded into a cluster of snaking vines that coiled around the chimera. The monster’s body flashed again. It hissed, swiping at the magical vines. They weren’t doing much in the way of damage, but they could at least hit the creature.
+
+Six yellow eyes snapped in Callan’s direction. The ghost froze.
+
+Crouching down, the chimera vaulted at the boy. Callan yelped and attempted to dart away. It should be fine, Pyre thought to herself. He was incorporeal too, and the chimera didn’t seem to know magic.
+
+The creature’s claws dug into the side of the ghost’s arm. Callan screamed, his translucent form seeming to grow paler.
+
+Pyre cursed. She shot out a bone just as the chimera spun around and unhinged its jaw. Its body flashed again.
+
+Sharp teeth closed around the long bone, and the entire thing shattered with a resounding crack. Callan hurriedly hovered back in an attempt to put as much distance between him and the monster as possible.
+
+“You okay, kid?” Pyre called, but she kept her eyes focused on the chimera. Broken pieces of bone now lay scattered around it. Its body, she noted, was still a shimmering silver.
+
+Callan swallowed. “I—I’m okay,” he managed to get out. He was grabbing onto his injured arm with his other hand, and there was actual translucent blood flowing down from the wound. She hadn’t known ghosts could bleed. It looked like they couldn’t just let Callan fire magic at it with no repercussions.
+
+“You could’ve mentioned incorporeal creatures can hit other incorporeal things,” the demon muttered. She warped her flesh, forming four long pseudo-limbs supported by a series of internal bones and ligaments. They were flexible enough for her to move them like whips, and while her aim wasn’t ideal, pre-forming them would let her respond to things faster. Next, she grew another bone plate, but she couldn’t make it as thick as the original ones. Not while the bones were “healing,” she guessed.
+
+“They usually can’t!” Callan insisted. Great, so the chimera had some kind of special trait that let it do that. Sure would’ve been nice if she’d had that going into the fight.
+
+Callan carefully removed his hand from his injury. It was still bleeding ghost blood, Pyre noted, but it didn’t look as deep as it could be. He raised his other hand. It shook slightly, but when he started chanting, his palm began to glow once more.
+
+The chimera apparently didn’t like that, because it immediately pounced again. Pyre swung her four whip-like appendages at it. She knew they wouldn’t actually be able to hit it, but they were meant to get in the way of the creature’s next potential strike.
+
+Sure enough, the chimera’s body flashed again. The mouth on its stomach opened wide, snapping at Callan, but it closed around one of the demon’s pseudo-limbs instead. Those teeth tore into the flesh, and Pyre felt a sharp sting as the chimera’s teeth sunk all the way through.
+
+The bones inside cracked, and the bitten-off half of the appendage flopped limply onto the ground. The flesh immediately began to melt.
+
+Callan fired off another spell, but it bounced off the chimera’s bony armor, barely even singeing it. Pyre whipped her remaining pseudo-limbs at the chimera, but they once again passed straight through.
+
+The creature pounced again. Pyre shifted her bone shield up to block its next blow. This time, when it swung its claws, they immediately shattered the bone. Its body blinked again as its jaws opened. Before the demon had a chance to get away or grow more bones, those teeth clamped around her main body.
+
+The demon’s vision warped as one of her eyes was torn clean off with the surrounding flesh. She was vaguely aware of Callan yelling her name, but she was more focused on the sharp pain that suddenly burst out from that section of her body. She shot a bone into the chimera as retaliation. It hissed and twisted around, ramming the antlers on its back into the demon.
+
+Pyre felt herself fall back, slamming into a tree behind her. Branches rattled and stray leaves fell, but she was more focused on assessing the damage she’d taken. The chunk of flesh on the ground that had been torn off was melting just like that ripped-off pseudo-limb had. Her flesh and bones both felt softer, weakening with each bit of damage she sustained.
+
+Callan was still calling her. In the center of the clearing, the ghost desperately attempted to dodge the chimera’s attacks. He narrowly avoided one of those antlers, the chimera’s body briefly flashing before the strike, then returning to a silver shimmer. Just like it had been doing this entire time.
+
+Pyre felt a laugh escape her mouth. The sound was low, a rumble that coursed throughout the entire clearing.
+
+“I’m a fucking idiot.”
+
+She grew a new eye to replace the damaged one, then pushed herself away from the tree.
+
+“Hey!” she yelled. Callan’s eyes snapped to her, and she flicked the end of her body in her direction. The ghost seemed hesitant, but he quickly floated back towards her. The chimera followed.
+
+Incorporeal my ass, the demon thought to herself. To think she’d been wasting all this time trying to figure out how to hit the damn thing.
+
+There was an exact opening when she could hit it, when the chimera turned fully solid even if for just a moment.
+
+And it was when it landed a blow on something.
+
+Callan narrowly twisted out of the way of the chimera’s snapping tail, using his floating to his full advantage to weave around the clearing. When he reached the demon, his eyes widened, flicking between her and the melting chunk of flesh lying limply on the ground a few feet away.
+
+“You—”
+
+“Stay back,” Pyre interrupted. The chimera was still bounding towards them, body shimmering, but it wouldn’t be like that forever. The demon warped her body into one compact mound, but she didn’t form another bone shield. Not for what she was planning.
+
+Pyre activated [Impact Absorption] and [Bracing Stance] just before the chimera’s teeth dug into her.
+
+[The skill [Basic Impact Absorption] has leveled up! Lvl 1 —> 2]
+
+More stabbing pain burst out where sharp teeth pierced flesh, but the demon ignored it. Her skills had absorbed enough damage that the chimera had to struggle for a moment to bite through, and she used that opening to clamp her own mouth around the chimera’s body. Her teeth couldn’t get past its armor.
+
+Fine then. She’d just have to break through.
+
+With the chimera’s teeth still firmly digging into her flesh, Pyre warped her body. She heaved the beast up into the air, holding it up for just a second before activating [Impact Absorption]’s second effect and slamming it back down.
+
+The ground shook beneath them. The chimera howled, and Pyre could see a crack form in one of its armor plates, but it still wasn’t enough. She arced her body up and slammed it down into the earth again.
+
+The demon felt the chimera’s teeth loosen. It was trying to get away, likely trying to let go so it could activate its incorporeality again.
+
+Oh hell no.
+
+Pyre shot out several curved bones, forcibly shoving the chimera’s teeth deeper. She could feel part of her body starting to melt a little—she couldn’t sustain this much damage forever—but that didn’t stop her from raising the chimera up and slamming it back down again. The crack spread.
+
+The second mouth along the chimera’s stomach hissed, opening and readying to bite. Pyre braced herself for another burst of pain, but it never came.
+
+Through one of her eyes, she saw what looked like the bottom half of a tree trunk sprouting out from the ground. The teeth had clamped around it, bark snapping under the force of the jaws, but the trunk was keeping the mouth stuck open.
+
+To the side, Callan was panting, brows furrowed in focus. Both of his hands were planted firmly against the earth. A faint green glow still lingered around him.
+
+Pyre felt the corners of her mouth tug into a grin. She raised the chimera up and slammed it down again. And again. And again.
+
+With each new blow, the cracks spread further along its bony armor. Fissures bloomed across the ground from the point of impact, the earth itself starting to split apart from the sheer force, but still the armor was hanging on.
+
+Every blow forced the chimera’s teeth deeper into her flesh. Pyre could feel her [Regeneration] trait struggling to keep up. If she didn’t break through soon, she might not be able to survive the damage. Her eyes snapped to Callan.
+
+“Drain it!” the demon yelled. She didn’t know if it would help or not, especially when the chimera’s constitution was probably high as fuck, but if it weakened it even a little, that might just be enough.
+
+Callan rushed forward, leaving the stump stuck in the chimera’s second mouth. He raised his hands, squeezed his eyes shut, and took a deep breath.
+
+Silver light began to glow from the chimera’s center. It was faint, so faint that Pyre might not have noticed it if not for the low moan that left the creature. It was still thrashing around, trying to escape, but every time it snapped through a bone she grew another one to keep it caged. Callan gritted his teeth, visibly straining with exertion. He pressed his hands forward, sweat forming along his forehead as the glow strengthened. The chimera convulsed.
+
+Heaving the beast up into the air, Pyre rammed it into the ground with all her strength.
+
+A blast of wind gusted past her, stray rocks and dirt blown back from the impact. The earth fully split apart, and the boom from that final blow reverberated throughout the forest.
+
+The chimera roared. Its armor shattered.
+
+Pyre opened her mouth wide and clamped down on the creature’s torso. The chimera thrashed harder, digging its teeth deeper into the demon in turn. She felt another sting as the snake tail bit her in retaliation.
+
+She didn’t stop. Forcing herself to devour faster, the demon grew a second mouth with rows of gleaming teeth and chomped down on the other side of the creature’s body. She could feel some of her flesh starting to melt away as she took more and more damage, but she kept pushing, kept devouring.
+
+Finally, after what felt like hours, the chimera’s jaws loosened. Its body fell limp, and the scent around the creature faded. Pyre barely remembered to spit the rest of it out before its flesh turned bitter.
+
+The chimera’s dead body landed in a heap across the earth. Its torso was mangled beyond recognition, huge chunks of flesh missing and the little bit still intact flayed until it resembled mincemeat. Crooked limbs lay sprawled out around it, and those six yellow eyes stared emptily out from its skeletal head.
+
+The silver glow in its chest vanished. Pyre heard Callan gasp. The ghost stumbled back, finally lowering his hands and nearly collapsing from the exertion of draining.
+
+An array of notifications flooded the demon’s vision, so many that she could barely keep up with them as they zipped by. Through that sea of system messages, Pyre met eyes with Callan. An unspoken understanding passed between them.
+
+It was done.
+
+The chimera was dead.
+
+[You have devoured (1) Chimera Lvl 23][Experience earned!]
+
+[The trait [Amorphous] has leveled up! Lvl 3 —> 4]
+
+[The trait [Eye Growth] has leveled up! Lvl 2 —> 3]
+
+[The trait [Regeneration (Sloth)] has leveled up! Lvl 1 —> 2]
+
+[Your species has leveled up! Lvl 12 —> 15][Strength +7, Agility +7, Constitution +9, Magic Resistance +3, Intelligence +4]
+
+[You have earned 30 points]
+
+[Your class has leveled up! Lvl 1 —> 4][Strength +4, Agility +3, Constitution +7, Intelligence +1]
+
+[You have earned 15 points]
+
+[You have gained (1) new class skill!]
+
+Please select from the following options:[Enfeebling Strike], [Brutish Shove], [Savior]
+
+[You have gained (1) [Vibration Sense] subtrait shard]
+
+[You have gained (1) [Skeletal Recall] subtrait shard]
+
+[You have gained (1) [Bone Armor] subtrait shard]
+
+[You have gained (1) [Memories of the Flesh] subtrait shard]
+
+[You have gained (1) [Incorporeal Touch] subtrait shard]
+
+[Maximum number of subtrait shards acquired from a single creature reached. Remaining subtrait shards discarded.]
+
+[Required amount of [Bone Armor] subtrait shards collected][Apply subtrait shards to [Ossification] trait?]
+
+[Required amount of [Memories of the Flesh] subtrait shards collected][Apply subtrait shards to [Flesh Eater] trait?]
+
+[Required amount of [Incorporeal Touch] subtrait shards collected][Apply subtrait shards to [Amorphous] trait?]
+
+[You have gained the [Group Combat] title!]
+
+[You have gained the [Chimera Killer] title!]

@@ -1,0 +1,185 @@
+---
+id: b8b44e88-0614-58ca-9e40-71b1dc1822ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Nine: The Last Night"
+slug: 0050-chapter-forty-nine-the-last-night
+partOf: flesh-eater-demon-evolution-litrpg
+position: 50
+ownLength: 3143
+unit: words
+publishedAt: 2025-12-07
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2826439/chapter-forty-nine-the-last-night"
+royalRoadId: "2826439"
+---
+
+In the end, despite all her preparation, the next few days passed without much fanfare. Lord Bellhein did indeed show up a few more times, though he remained a distant onlooker and never interacted with any of the cadets. That didn’t stop said cadets from acting five times more nervous and jumpy during lessons, much to Edna’s annoyance, but that was probably to be expected.
+
+Pyre kept training in the evenings with Merrick and Declan, and she was pretty confident that she wouldn’t have a problem passing whatever guard licensing exam there was. She wasn’t an expert with the spear or bow, but she only needed “basic proficiency” anyway. Plus, she figured being really good with axes—even if she still didn’t know why—would technically reduce how skilled she needed to be with everything else. As they say, you had to play to your strengths.
+
+So of course, when three days after her conversation with Lord Bellhein Pyre was called away in the middle of weapons instruction, she already had an idea of what was going on. Declan whispered an enthusiastic “Good luck,” and Merrick gave her a little nod as she set down her axe to follow Edna.
+
+Speaking of Edna, the sergeant’s face remained perfectly stoic as she waited by the armory door. Once the demon was close enough, she turned to exit the building, eventually leading them over to an isolated part of the training grounds. It was a sunny day, and Pyre could see a few soldiers outdoors running laps, doing chores, or relaxing between shifts. Edna’s eyes briefly swept over them as she continued walking.
+
+“I assume you already know why I called you, cadet.”
+
+Her voice was as no-nonsense as usual. A warm breeze gusted past them, and Pyre’s eyes instinctively moved to focus on the distant Bellhein manor.
+
+“I’m guessing it’s about that guard position Lord Bellhein was talking about,” she said casually. Edna’s lips thinned.
+
+“Indeed.” The sergeant stopped walking and turned to fully face the demon. Pale blue eyes swept over her, calculating and unreadable. “It will be a shame to see you go,” she finally said. “I haven’t seen a cadet with this much potential in a long time, though that cavalier attitude of your needs work.”
+
+Pyre raised an eyebrow and didn’t comment on the second part of the sentence. “This mean I got the position? I thought I’d need to take a test or something.”
+
+“Normally, yes, but Lord Bellhein is rather impatient this year.” A dark look briefly crossed the human’s face before it was wiped away in favor of her usual stoic calm. She turned and began walking at an even pace again, speaking at the same time.
+
+“Given how early into training this is, you’ll be required to return to the garrison once a week for expedited lessons. The other instructors have already been informed of your situation.” She glanced briefly over at the demon. “Lord Bellhein was very impressed with your performance these past few days. He requested you be sent to the manor tomorrow morning to begin guard duties.”
+
+Damn, “impatient” was an understatement. The dude had to be seriously desperate for guards. Not that she knew why, since according to Callan the manor already had a shit ton of them, but she wasn’t going to look a gift horse in the mouth. The mark hadn’t expanded a second time yet, but it probably would soon. If she was lucky, she could find the horn and get out of Magrath before that happened.
+
+“I suggest you pack your things,” Edna continued. “You leave tomorrow at dawn. I recommend informing your friends of your whereabouts as well.”
+
+It took Pyre a second to realize that she was talking about Declan and Merrick. Huh. She’d never thought about them like that, but looking back on it that was what they looked like to a random observer. Even if she hadn’t thought of it herself, she found the term didn’t really bother her.
+
+The demon’s eyes moved from the manor back to the armory, where the other cadets were probably in the middle of practice spars.
+
+“I guess I should,” she said.
+
+“You know I’m not dying, right.”
+
+Pyre raised an eyebrow at Declan, who’d looked extra emotional since he and Merrick had sat down at their “designated table” in the mess hall and she’d told them about the guard position. He sputtered.
+
+“I know, it’s just—it’s going to be weird not seeing you around anymore,” he tried to explain.
+
+“She’ll be here once a week,” Merrick pointed out without looking up from his food. He was still quiet, but he’d been noticeably more talkative since that night on the training grounds. Any reservations Declan had held about the man had completely disappeared, and the kid had practically latched onto him for the last few days. They even began their own extra training sessions, much to the demon’s amusement. On his part, Merrick didn’t seem to mind the younger cadet’s presence.
+
+“That’s true.” Declan immediately brightened. “You should tell us what it’s like! Er, if you can, of course. I wouldn’t want you to break any contract rules or anything,” he added in a rush.
+
+Pyre stabbed her fork into a chunk of orange vegetable. “I’ll do my best, kid.” She didn’t mention that she’d probably be long gone from Magrath by the time she was supposed to step foot back in the garrison. The idea of busting Declan’s bubble didn’t hold much appeal to her.
+
+After that, conversation continued as normal at the table, the chatter of the mess hall around them a familiar sound. At some point the demon had grown used to garrison life—the routines and the people. She couldn’t say that she’d miss it, per se, but as she recited another completely made-up Drovna fact to a starry-eyed Declan while Merrick hid his snort in the background, she decided she hadn’t minded her time here at all.
+
+“You got the position?” Callan’s voice was a mixture of shock and disbelief. Pyre snorted.
+
+“Wow, way to have faith in me.”
+
+The ghost frowned at that. “It’s just, this feels really fast is all. But you still have to go back to the garrison once a week?”
+
+“Yep.” She pronounced the ‘p’ with a pop. “Won’t matter if I can find that horn quick, though.”
+
+“Remember, you have to tell me before you try taking it,” Callan emphasized. The demon raised an eyebrow.
+
+“What, you don’t trust me to steal a horn on my own?”
+
+“I don’t trust you not to make a mess while doing it,” the ghost muttered. His eyes darted to the side, surveying their surroundings, but they were still alone in the patch of trees. Pyre’s extended eye-limb, as she’d started calling it in her head, remained hidden in the canopy above them. “Seriously though, there’ll probably be magic wards or alarms around it. I wouldn’t put anything past them at this point.”
+
+Callan’s brows furrowed as a sudden thought occurred to him. “Wait, where’re we going to meet once you’re at the manor? You’ll be living in the guard quarters, right? I can’t get into the grounds, and even if you sneak out, you also can’t get back in without setting off the wards.”
+
+That was a good point. It sounded like leaving in and out of the manor’s main gate was the only way to avoid all the magic shit surrounding the place, but that gate would be swarming with guards at night. It might look suspicious if she was always leaving, plus she could very well end up with night shifts or something.
+
+“Well,” Pyre began, “technically we don’t need to be next to each other to talk. We can just pick a wall and chat through it or something while you’re invisible. That way no one needs to sneak in or out.”
+
+“That’s… true.” Callan looked thoughtful. “For now, let’s go with the wall closest to the sanctum. The sound of the ichor-waterfall might help block our voices out, and it’s pretty far from the main house, so there should be less guards patrolling there inside the grounds.”
+
+“Sounds good.” If it didn’t work and there were too many people around, they’d just find another meeting place.
+
+Callan looked satisfied. If anything, the ghost seemed even more excited than she was to find the horn, much to the demon’s amusement. Ever since the mark had expanded the first time, he’d been noticeably more anxious. It looked like that would be stopping soon.
+
+Before the two parted ways for the night, a thought suddenly occurred to Pyre. She hadn’t mentioned it before since she hadn’t known what to make of it herself, but the more time she’d spent at the garrison, the more curious she’d gotten. The nagging sensation that night watching Merrick and Declan, especially, had brought the question to the forefront of her mind.
+
+“Hey,” she began, “what do you know about reincarnators?”
+
+Callan paused at that, taken aback by the sudden change in topic. Almost as quickly, though, understanding dawned on his face. His eyes lit up, and he floated a little closer. “Have you started remembering things?” he asked eagerly.
+
+“Nah.” Not proper memories, anyway. She didn’t count random muscle memory. “Just curious is all. I heard someone bring it up at the garrison, and I figured I should learn more about what people think of reincarnators.”
+
+“Oh.” Callan looked a little disappointed, but the emotion was quickly wiped away as he turned his attention to the demon’s question. “What do you want to know?”
+
+“How they’re viewed would be a start.” Based on Callan’s reaction way back when he’d first learned she was a reincarnator, she was pretty sure they were viewed positively (or at least not negatively), but beyond that she didn’t know shit right now.
+
+“Well,” the ghost began, “there’s not a lot known about them. Most information on reincarnators comes from legends and historical accounts—a lot of them were heroes. Some people even say reincarnators are a gift from the ancient angels.”
+
+Pyre raised an eyebrow. “Really. How’s that work out?”
+
+He shrugged. “There’s no evidence for it or anything, but since the demons’ curse resulted in today’s fiends, some people say the angels kept their own legacy going by allowing certain souls to maintain their memories.”
+
+The whole theory sounded intriguing, but the demon mostly latched onto the last part of the ghost’s words.
+
+“Hold up, what do you mean ‘maintain memories?’”
+
+Callan frowned. “You don’t know?”
+
+Pyre gave him a flat look. “Amnesia, kid.”
+
+He winced. “Right,” he muttered. He cleared his throat. “Well, uh, technically every soul is reincarnated. It’s part of the great cycle. Reincarnators are special because they’re able to maintain the memories, and sometimes abilities, of their past lives. You’re a really weird case, to be honest. I’d think amnesia would mean you can’t be a reincarnator by definition, because then your soul is just reincarnating normally like everyone else’s, but Pax seemed really confident about it. I guess it confirms that there’s something unique about a reincarnator’s soul, if she could see the difference, which might mean the angel theory holds weight. Or maybe—”
+
+Callan continued rambling, his attention diverting to his new train of thought. Pyre, meanwhile, was still processing the new information and the implications, because that definitely wasn’t how she’d assumed things worked. At all.
+
+“When you say past lives,” the demon said, cutting Callan’s theorizing off, “you talking about this world?” It was possible that this “cycle” involved souls getting reincarnated across different worlds, which would mean her situation could still technically be in line with standard reincarnators, minus the amnesia.
+
+The ghost’s brows furrowed. “Yes?” He sounded confused. “What do you mean by world? Like the continent?”
+
+Pyre gave him a long look, all the while Callan continued to have that look of confusion on his face.
+
+“Nothing,” the demon finally said. “Don’t worry about it, kid.”
+
+Something was going on.
+
+Daphne frowned, peering out her bedroom window to the flowering garden sprawling outside the front of the manor. Ever since her conversation with her uncle, things had been… surprisingly nice. She’d expected him to immediately forget about his promises, to be honest, but the man had surprised her.
+
+In the next letter she’d gotten from Edmund, for example, he’d said that his father had sent him a note wishing him safe travels in the mail for once. His disbelief was clear through his written words, as was his happiness, which was the only reason Daphne didn’t immediately go yell at her uncle again for being such a bad father that his son got emotional about getting a letter. Small steps, she reminded herself.
+
+Beyond that, she’d also actually been able to attend the next meeting at the manor. As expected, they were discussing the empire’s movements, and it sounded like the possibility of them crossing the Spine was no longer a rumor and now an inevitability. The spy who’d first sounded the alarm was convinced it was a ritual spell, and the highest ranking people in Magrath had all gathered to discuss different options to stop it before it was too late.
+
+The core of the problem was that no one had any idea what the ritual spell was or where it was being cast from. Daphne was still having trouble believing it, to be honest. Not because she didn’t think the empire was capable of something like this—if anything, she was surprised they hadn’t managed it sooner, considering all the resources and mages they had.
+
+And therein was the problem. If they had a spell that could bypass the Spine, why hadn’t the Tavrell Empire used it sooner? No one knew, and Daphne could tell that the lack of certainty was getting on everyone’s nerves.
+
+Right now, Auren’s council was working on contacting the most powerful mages in the country to see if they could track down the ritual or find a way to intercept it. So far, they hadn’t found anything.
+
+Personally, Daphne thought the need for secrecy was a huge detriment to their goal. She understood that they didn’t want to cause a panic, but the more people knew about what was going on, the more likely it was for someone to have heard something.
+
+“We’re already working with Auren’s strongest mages,” one of the garrison generals had said when she’d pointed this out during the meeting. “If they can’t find anything, ordinary civilians would stand even less of a chance.”
+
+Murmurs of agreement had rippled throughout the room at that, and Daphne had known she wouldn’t be able to convince them otherwise. Not yet, anyway. She was fully intending on bringing the argument back up if the mages still hadn’t found anything by their next meeting.
+
+All things considered, her uncle had followed through on his promises. He was still largely absent from the manor, always away observing the garrison or overseeing the construction on the sanctum or meeting Magrath officials. When he was around, though, he seemed to be making an active effort to treat her like an actual adult and less like a fragile piece of glass who would drop dead any second. He’d even asked for her opinion on the meeting after it was over.
+
+Things were going too well, if you asked her. Maybe Daphne was paranoid, but she’d grown up with the man as her guardian. She found it difficult to believe that he’d managed to turn over a new leaf now, but not in the two decades before this. Something else had to be going on, and she was waiting for the other shoe to drop.
+
+Because of this, she wasn’t surprised when her uncle cleared his throat near the end of dinner that day. If anything, it was almost a relief to have her suspicions confirmed. She set her fork down and braced herself for the worst.
+
+“I’ve been observing the new cadets lately,” her uncle began.
+
+“I know,” Daphne said flatly. “We have plenty of guards already. You should leave the garrison recruits alone.”
+
+Lord Bellhein winced a little, but he continued like she hadn’t said anything. “There are many talented cadets this year.”
+
+“Exactly. They’re great assets against the Tavrell Empire.”
+
+“And,” her uncle emphasized more loudly this time, “considering your newly expanded presence at meetings and in public representing the Bellhein family, I thought it was high time you receive a personal guard.”
+
+Daphne stared hard at him. She felt a disbelieving laugh rise in her throat.
+
+“You pulled a cadet away from the garrison to be my chaperone?”
+
+“Guard, not chaperone.” He frowned. “From what I’ve seen, she’s very capable. Harris has been showing her around the manor and orienting her to her new duties.”
+
+Daphne rolled her eyes and picked her fork back up. She stabbed it into a chunk of meat that had already gone cold at this point. “What duties? Following me around all day and wasting everyone’s time?” She lit a small flame at the end of her fork to heat the meat back up, then shoved it into her mouth.
+
+“Stop using magic for useless things,” Lord Bellhein snapped. It was practically an instinct at this point, and as usual, Daphne ignored him. One tiny spell wasn’t going to kill her.
+
+“You’re wasting that cadet’s time. And this is way too fast. Haven’t they only been training for a week or so? That’s barely enough time to learn anything, much less decide to hire someone as a guard. She could be a serial killer for all you know.”
+
+“The garrison instructors all assure me that she’s more than capable of fulfilling these duties.” Her uncle frowned. “I thought you’d be happy. You said you liked her during the exam.”
+
+That got Daphne’s attention enough for her to glance over again. There was only one cadet he could be talking about.
+
+Just as she opened her mouth to confirm it, a light knock sounded on the dining hall doors. Lord Bellhein called for the person on the other side to enter, and the heavy mahogany doors soon swung open.
+
+On the other side, Harris bowed politely to the two nobles in greeting. Daphne’s attention, however, was focused on the person behind him.
+
+Dressed in the standard manor guard uniform, a muscular, broad-shouldered woman with wavy black hair and steel grey eyes stepped into the room. She towered over Harris, even taller in person than she’d looked from the observation deck, and through the gaps in her uniform, Daphne could see the same white bandages from the exam wrapped all around her. A name floated to the front of her mind, the one she’d seen on those papers in her uncle’s study.
+
+This was number 84, the ichor-poisoned mercenary from Drovna.
+
+Pyre.

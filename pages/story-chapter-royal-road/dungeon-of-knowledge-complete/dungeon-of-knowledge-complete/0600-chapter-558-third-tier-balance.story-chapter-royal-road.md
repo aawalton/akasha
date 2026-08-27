@@ -1,0 +1,91 @@
+---
+id: 22e91c1a-f85f-5b70-bb84-48ac00964750
+page-type-slug: story-chapter-royal-road
+title: "Chapter 558: Third Tier Balance"
+slug: 0600-chapter-558-third-tier-balance
+partOf: dungeon-of-knowledge-complete
+position: 600
+ownLength: 2320
+unit: words
+publishedAt: 2026-03-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3126625/chapter-558-third-tier-balance"
+royalRoadId: "3126625"
+---
+
+Mato glanced over as the slender Wood Elf girl sprinted around a corner, deftly using a smooth section of vertical black wall as if it were no more challenging a path than a stretch of flat pavement, running straight toward him.
+
+It was pitch dark in the ancient ruins, but ever since his Survival Instinct had reached the second tier, his senses had been pushed past the realm that mere darkness could bother him – and that was even before his second evolution. She was decked out in a full set of the same green and brown leather armor pieces her father had once worn, and his legendary bow was gripped firmly in one hand, all courtesy of Ali’s ridiculous dungeon magic. If it weren’t for her lighter frame, sandy blonde ponytail bouncing behind her, and the expression of pure focus on her face, she might have been mistaken for Nendir. She caught his gaze with relaxed alertness in her hazel eyes.
+
+“I can take your delivery,” Mato sent, speaking directly with her mind. His sharp eyes caught the hint of a grin cracking her otherwise serious expression. Nice. One should enjoy one’s work, if possible. He didn’t send that part, though. She’d been through a lot, he knew.
+
+Behind Coria, a crash of Death Knights and Bone Fetishes barreled out of the side street, bearing down on her with the cold, hungry, murderous intent of the undead in their eyes. Or what passed for eyes in some of them. Mato’s lip curled back into a snarl, and he wrinkled his nose at the overwhelming assault of the stench of undeath – there was no rot here, but undeath had its own reek. The stench of dusty crypts and evil, twisted rituals. A wave of loathing churned inside him; an all too familiar shuddering, crawling sense of being unclean. He had willingly borne it within himself when he chose to keep Lira’s corrupted mentorship, but that experience had served only to intensify his disgust, heightening it to the point of near-irrational hatred.
+
+“Balance, young druid. Balance in all things.”
+
+Lira’s wisdom during the time he had been melded into her tree came back to temper his flaring rage.
+
+But Death Knights and the undead rushing toward him were an affront to the balance of nature. How could he remain calm in the face of such a violation of the natural order? He missed Malika and the calming presence of her magic. He missed Ali and her irrepressible smiles.
+
+He charged, his skill catapulting him across the aged stone with such speed that the sprinting Coria felt momentarily stationary. He smashed his way into the pack of undead like a boulder crushing wheat in a field, roaring to snatch their attention from her and fix it firmly on his furious rage, but it was a colder, more balanced rage, now, entirely unlike the berserker skill he had once had, and, as the first unblocked sword bit into his shoulder, Battle Trance suffused him. His mind eased, and he found his balance.
+
+Void magic sprang eagerly to his will – far more readily, now. Azryet’s gift to him in his evolution sprang into existence – half a dozen black dragon scales of void popped into existence before him, hovering around his neck and shoulders. Sizzling shields wielded by his patron’s dragon flight to block attacks destined for his flesh. It had not taken long to learn to guide them with the swiftness of his Survival Instinct, and immediately the sizzling cracks of bone daggers disintegrating on void filled his nostrils with the acrid scent of destruction.
+
+Void mana rose within him once again, suffusing his claws and fangs, and he lashed out with the destructive potency of his draconic patron across the press of undead bodies, cleaving through armor, flesh, and bone with equal ease. Gleaming mithril swords, bone-white daggers, and the flickers of spells whistled and crackled in the unsteady light, far too numerous to fully block, but he was able to withstand so much more than he once had. At two hundred and fifty, he was shrugging off a half dozen Devastation Knights and a handful of those pesky Bone Fetishes without too much sweat. He might even be accused of enjoying himself.
+
+A memory of the berserk bear he had once been speared shame into his mind, but Mato shrugged off the echo immediately. No dwelling there. He had chosen a different path, and that Mato may as well have been a different person, or a relic from the past. Yet still, that deep sense of wanting to protect them all, to be their bulwark, drove him forward. Perhaps it always would.
+
+His Adamant Fortress shield shivered within him, even shapeshifted to merge with his Bear Form, and the Nature Vulnerability curse triggered as he blocked with his void barriers just in time for him to land a second claw swipe loaded with Brutal Restoration. Yes, this is working well.
+
+Sensing the sword strike aimed at his left flank easily, he deliberately shifted and used Critical Block, buffeting the entire group with the shockwave of impact, and powered his Aggression of Claw and Fang – the evolution of his old Swipe skill – for a follow-up attack, but the sudden premonition of extreme danger stayed his paw right as the notification chimed.
+
+You have been cursed with Damage Reflection.You are condemned to endure the pain inflicted upon others returned to you with interest.430% of the Physical damage you deal is reflected back to you as Death.Curse – Duration: 2 minutes.
+
+He held his strike for the half-second it took for Ali’s witch doctor to remove the curse, sending a quick impression of thick sprouting bark to the Lirasian Sage hovering overhead. The evolution of his sage had been nothing short of astounding. It now often took the indistinct, ethereal form of a humanoid tree spirit, bearing a striking resemblance to its namesake. He had been overjoyed to discover he could converse with it using the language of plants; however, what it was now capable of was what had him firmly convinced he’d made the best choice.
+
+It hummed softly and cast Bark Skin on him, followed by a Heal, both skills drawn from a small subset of his own repertoire, but these were skills he could normally only use in Tree Form. He replied with a feeling of gratitude that contained overtones of the pleasant nourishment of the summer’s sun and the soothing feel of freshly watered soil. It danced through the air, easily shrugging off an ice bolt aimed at it.
+
+As soon as the witch doctor completed her dispel, Mato cast Giant Growth. It was one of the skills he had gained by upgrading his Bear Form, and the mere idea of it filled him to bursting with excitement and joy. The spell took hold of his body, and he began to expand. The Devastation Knights surrounding him paused as he rapidly grew to loom over them, his mass and strength mounting by the second, but he didn’t give them an instant to recover. He lashed out with an old staple – a fully loaded claw swipe including his thirty-second knockback recharge. With his greatly enhanced mass and strength, half the pack of undead were sent flying to crash into the wall, while the combination of his Giant Growth and the freshly cast Bark Skin hardened his hide into a nearly impenetrable barrier.
+
+It’s the little things. He grinned fiercely at a Bone Fetish who struggled to extract a dagger that had gotten stuck three inches into his hide without even reaching the muscle underneath. He clamped down on its head with void-enhanced fangs, relishing the satisfying crunch.
+
+Shouting in the background filtered past the crush and racket of melee combat. Crisp commands issued to coordinate the damage-dealing teams. Another to direct the healers. He caught the sounds of footsteps on stone – the clanking of mithril and the swishing of leather soles. The ground at his feet burst into intense holy flame, and the Death Knights howled as they lit up like candles on the eve of the Fall Festival. This consecration was not his, though. Nor his good friend Havok – this time it was courtesy of Ali with her ridiculous Zone of Destruction domain enhancement skill paired to a holy kobold priest. Is she ever not going to be ridiculous?
+
+Still, it was a pleasant sensation. The holy fire was as a soothing balm, cleansing his wounds and restoring his flesh even while it scoured the undeath from the Knights before him.
+
+The air froze and crackled as a magical blizzard unleashed a fury of sleet and fist-sized chunks of sharp, deadly ice upon his head. The response to the Death Knight’s storm from the raid mages was instant. Mato’s fur caught on fire; flash-burnt by the deafening detonation of an empowered fireball that shook his enormous shoulder. Arrows whipped past his ears, slamming home into undead flesh, packed with explosive enchantments that wrecked armor and ripped through cold, dead skin. Magical debuffs sprouted like fresh mushrooms and whirling holy swords whipped through the pack, punctuated by the eerily silent detonations of the Soul Archon’s soul-affinity bombs – unheard, but certainly felt.
+
+“Hey, Ali,” he said, whispering his thoughts into the mind of the Divine Archon. “Can you take care of those three pests at the back? I’m about to lose my Giant Growth.” For all his advancements, speed was still his nemesis, and those Bone Fetishes were a pain. All he really had were his new void shields and the solidity of armor and hide – although he had a ton more of that, now.
+
+The celestial paladin answered with a burst of holy fire and a whistling blade, followed a half second later by more of those silent arrows. His Giant Growth faded – a short-duration boost to his strength and armor – but he’d taken great joy in the opportunity to bat the Death Knights around like dolls. Now that the raid mages and archers were focused on his group, it would be better to keep them all bunched up. Instead, he focused on popping void shields up over his back and head to take the brunt of the descending offensive magic and ease the burden on the healers.
+
+After several minutes of deafening action, the noise began to abate, and he heard Calen calling out in the distance as he returned with another pack. Havok’s holy magic prickled as the goblin locked down the newcomers, and the raid began to shift as they relentlessly ploughed through the continuous stream of undead gathered up by the scouts and Pathfinders. The mob facing him were getting low, he could tell, and so he dragged the remainder toward the new pack, so that the raid could fully commit their damage to the new group and finish his off at the same time.
+
+A few moments later, he was freed up, ready to grab the next pack after Sabri. He grinned to himself. Efficient. It was an easy rotation, and he would have a little time, so he transformed right there on the heavy black stone of the ancient street.
+
+It was another advancement, this one courtesy of Lirasia’s influence over his paths. He no longer required soil to put down roots. In fact, he was no longer constrained to one spot either. His roots spread along the ground while his branches stretched up into the air, and he assumed the form of his Elder Treant. His branches shuddered as he stretched and ponderously took a step toward the healer group. Sure, he was slow, but he could walk. He swept a branch across the ground and swatted the still-twitching remnants of a Bone Fetish away from the healers.
+
+“How’s your mana situation?” Mato asked.
+
+“Below half,” Teagan grumbled, firing green beams into Havok’s team.
+
+“Time for a top up, then,” he decided. His trunk groaned as his roots punched downward, shattering stone as they hungered for the earth below. Deep Roots had been offered a second time, and this time he had snapped it up, happily. For a short while, his regeneration abilities surged, and as his Sanctuary aura touched his allies, it carried his buff with it.
+
+“Och, thanks, Mato,” Belmar murmured, patting his trunk affectionately as he squinted his eyes at the conflagration up ahead.
+
+“You’re welcome.” With insignificant amounts of his great mana pool, he summoned his dragon-inspired shields once more – now popping into existence in blazing white holy affinity instead. Ali’s job, he reflected. Although, he hardly had her intelligence, so he was not nearly as deft with them. His strategy was to load them up in front of the vulnerable healers and leave them in place for those who needed to hide behind. It earned him several grateful glances.
+
+He popped off a few heals and then sent his intention to the Lirasian Sage gamboling among his branches. It paused, cocking its head to the side for a moment, and then cast the spell.
+
+Time for some fun, he thought as the sage’s Giant Growth took hold of Havok in the middle of the fray. The diminutive goblin immediately swelled from his approximately three feet of height into a towering nine-foot-tall, green-skinned juggernaut.
+
+“Havok smash!” he roared, eyes alight with savage joy as he laid into the undead with greatly enhanced strength.
+
+Mato’s leaves rustled as he restrained a chuckle. This may be the most serious undertaking of his life – perhaps of the age – and yet he firmly believed one needed to take time to enjoy moments like these whenever they presented themselves.
+
+He glanced over and caught sight of the ordinarily serious Coria joining in to cheer the goblin on, and his heart smiled.
+
+That is the way. Balance in all things.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

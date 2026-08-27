@@ -1,0 +1,177 @@
+---
+id: 75bab4f5-29fb-56d0-b5de-980f5f7731c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 458: The Guild Report"
+slug: 0495-chapter-458-the-guild-report
+partOf: dungeon-of-knowledge-complete
+position: 495
+ownLength: 2793
+unit: words
+ownProgress: 2793
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2800532/chapter-458-the-guild-report"
+royalRoadId: "2800532"
+markedReadAt: "2026-06-29T20:29:00.952Z"
+---
+
+Moira glanced up, staring at the closed door to her office as the sound of footsteps running thumped along the hallway outside. There was a loud bang, a yelp, and then the door was flung open, crashing against the wall. He charged in, red-faced, breathing hard.
+
+Of course, it’s him, who else could it be? she thought, frowning over the rims of her enchanted glasses at the intruder into her peaceful domain.
+
+“What is it this time, Galeth?” she demanded, not bothering to keep the annoyance from her voice. She had known the man for a good five years now. When facing down a Golem or a Cyclops in a dark dungeon, she would trust nobody more than him, but for everything else, the man’s unbridled, unfettered energy was simply tiresome.
+
+“The… the guild report… it came out!” he gasped, still panting as he blurted out his news.
+
+“Yes. I know,” Moira said, tapping the red-bound folder that was placed prominently on the inbox pile in front of her desk with the back of her pen. “Everybody knows.”
+
+“Did you… read it?” Galeth managed, still laboring to get his breathing under control. The man despised running, and he always wore his full plate armor. Still, Moira took a dim view of his affectation – he was a tank, for goodness’ sake.
+
+“Not yet,” Moira said, sighing. “And you can drop the act. I know exactly how much endurance and stamina you have.” It was clear that this wasn’t going to blow over or go away without her attention. She put the pen down and glared at him. Whatever could have gotten him in such a knot?
+
+“The guild at Myrin’s Keep,” Galeth said, straightening up and breathing normally. His unbounded energy, unfortunately, remained. “They have a dungeon!”
+
+“Of course they do,” Moira said. “That’s what guild quests are for. You know, when an out-of-the-way dump like Myrin’s Keep finds a dungeon they cannot handle, there’s this thing called public quests where they can request adventurers from other guilds to help them out.” She let the sarcasm drip so thickly off her words that even someone as dense as him had to be able to get it. At least she could hope. “They probably don’t even have a single gold rank.”
+
+“You need to read it,” Galeth said, ignoring her skilled jibe and fixing her with a deadly serious gaze. “Their guild just registered forty new Plats.” He finally dropped himself into the guest chair.
+
+“Forty… what?” That number can’t be right, Moira thought, stunned. Not even their home guild had forty platinum-ranked adventurers, and they were the third-largest guild chapter in New Daria.
+
+“Yes,” he said, grinning at her. “You really should have read the report.”
+
+“Be that as it may!” Moira snapped in annoyance. “May I remind you, I cannot go dungeon diving anymore, lest I trigger my evolution. Perhaps you forgot the reason we’re all stuck here doing administrative duties rather than taking quests?”
+
+It was an extremely sore point to her. She had been nineteenth on the list – nineteenth – for consideration to use the shrine at Aman Rak before it had fallen to the dark forces of the Blind Lich. At nineteen, she might have had to wait only a little more than a year, and with the unique rituals her class was capable of, the guild was covering all the costs. For someone like Galeth, a warrior and a decent tank, he was looking at more than four to five years to even be considered. To even get on the list. It was ridiculous!
+
+Now the shrine was gone, along with the whole troll nation, destroyed, if one could believe the rumors – damning her and her team to a life of administrative ennui which was the only alternative to throwing the die of fate and getting whatever random junk her natural path might curse her with.
+
+“Moira, you need to actually read the report. Before everyone else realizes what it is they have.”
+
+She just raised an eyebrow at him.
+
+“One of their platinum-ranked adventurers is a dungeon. Among the services they are offering are class advancement… and evolution. For free. Hell, they even offer class tier reset for people who’ve broken their classes.”
+
+Moira barely caught herself before her jaw dropped, and she made a fool of herself by looking stupid. “I see,” she croaked, reaching out to the folder, and flipping through the pages, the trembling in her hands betraying her fake calm.
+
+And there it was. She could scarcely believe it. Boldly advertised under the guild-services directory – all the class services Galeth had just mentioned, and more. Her eyes skipped over most of it, drawn like a magnet to the single line.
+
+Class evolution service: Free.
+
+“Moira, you do realize this means we can take Southport’s platinum-ranked quests and join the fight against the Lich’s army?”
+
+The pages fell to the table with an unheard thump. Everyone in the team, she knew, would give anything to be able to help defend the kingdom – but every report from the battle reinforced and reiterated the platinum-rank minimum quest restriction. Of course, the rewards on offer for successfully defeating Death Knights were astronomical, not to mention the enormous experience to be gained if one could survive.
+
+“Are you ok?” Galeth asked. “You look a little pale.”
+
+“Yes, um…” Moira managed. This would give us a chance. An actual chance!
+
+“The others are ready. The Myrin’s Keep guild published their locus; we can go immediately.”
+
+***
+
+Moira nodded toward Eldara as she took a seat on one of the uncomfortable chairs in the space mage’s office, waiting her turn and trying to suppress the urge to chew on her fingernails. The mage surged with her signature brilliant mana, and Galeth vanished from within the circle.
+
+There must be a catch, Moira thought for probably the thousandth time. How can they afford that kind of mana cost? Where are they getting their damn money from?
+
+“Who’s next?”
+
+She snapped her head up to find Eldara looking directly at her. “Don’t you need to regenerate your mana or something?” Moira asked in surprise. Myrin’s Keep was on the opposite side of the kingdom, after all.
+
+“Nope,” Eldara said, looking puzzled too. “Somehow, it took only a couple of hundred mana to send him. I can do all of you immediately.”
+
+“That’s weird,” Moira said. Did she send him to the right place? But they had all checked the locus carefully, and so she stood, letting the mage cast the long-range teleportation spell on her.
+
+Magic seeped into her body, and the familiar, disorienting lurch took hold of her and flung her somewhere else. She stumbled briefly on a seamless, black, polished stone floor as the locus and sender didn’t quite align on the height of the ground.
+
+You have entered the Dungeon of Knowledge.Experience earned towards Knowledge and Mastery traits is increased.A portion of this increased experience is tithed to the dungeon.
+
+Moira rapidly scanned the room in alarm, but the only thing she found was Galeth’s somewhat sheepish grin as he stood beside a bored-looking official outside of the glowing metal runic circle inlaid into the dark polished stone floor. There were no monsters to be found, even lurking in stealth or invisibility – and her perception skills were top notch. A conspicuous, handwritten note had been tacked to the wall: “Yes, you’re in a dungeon. No, you’re not in any danger.”
+
+“Welcome to Myrin’s Keep, traveler,” the official announced. “We apologize for the ongoing construction, but most of the essential services are now online. You can find the Adventurers Guild Hall here, the Auction House here,” he said, circling some locations on an unfolded map with a marker. “You may have this map free of charge.”
+
+“We don’t have to pay for the locus, either,” Galeth said. “Apparently, the dungeon covered the mana cost. Isn’t that awesome?”
+
+“The town is in the dungeon?” Moira asked, somewhat redundantly. Just judging by the density of the arcane and nature mana and its rich structure, she knew in no uncertain terms that she was in an evolved domain. It was hard to forget the feel of a dungeon’s mana; invigorating, inviting, and yet filled with the promise of untold dangers.
+
+This one feels… sparkly?
+
+The dense knots of mana right on the cusp of evolution caught her attention, and Vivian glanced up from her book right as the door opened. Five strangers stepped in, eyes and mana surveying the guild hall before fully entering. Five very well-equipped strangers.
+
+Witch – Human – level 99 (Lightning / Arcane)Warrior – Human – level 99 (Metal)Rogue – Gnome – level 99 (Poison)Sorcerer – Sun Elf – level 99 (Sound / Ice)Priest – Half Orc – level 99 (Nature)
+
+Re-evolving her class had provided Vivian with everything she wanted, and far more. Still, she missed having her Advanced Identify skill and the ability to see class names. Five times ninety-nine. Exactly what Aliandra predicted.
+
+“Welcome to the Myrin’s Keep Adventurers Guild,” Mieriel said, using her professional greeting voice. “Right this way.”
+
+Vivian smiled and carefully marked her place in the book Ryn had acquired for her before setting it down. It had been only two days since she had posted the updates to the guild in the registry, and already this was the third group to come. Ostensibly, there was no tangible benefit to her and the guild, although the last two groups had dropped a substantial amount of gold on equipment upgrades and consumables at Weldin’s store, but she knew this was mostly for the guild’s reputation. And a good reputation meant everything for a guild – with it, they would be trusted with the best jobs, asked for quests, and be able to attract the most skilled and talented recruits.
+
+Vivian rose from the couch and wandered across the hall to Mieriel’s desk, where the Witch was peppering her with pointed questions, not the least of which was a general sense of distrust over Mieriel’s mana affinity.
+
+“Hi,” Vivian said, finding a suitable pause in the conversation to insert herself. “I’m Vivian Ross, the Guildmaster. I apologize for the town’s general state of disrepair; we’re just recovering from a rogue dungeon attack. If there’s anything you need, please let me know.”
+
+“Aah, Ms. Ross. I’m Moira Sangrey,” the Witch said, introducing herself. “We’re curious to find out more about the advertised shrine services.” Her body language was closed, and she sounded guarded, like she was expecting some kind of scam or hoax, just like the other two groups.
+
+“Oh, yes, of course,” Vivian said, smiling. “Class evolution seems to be one of our most popular services.”
+
+“Sorry for being blunt,” Moira said. “But is it real?”
+
+“Oh, it’s very much real,” Vivian answered. “I had a class evolution broken by my natural path, and I used Aliandra’s shrine to revert it and unlock my current class. I can personally attest to the service.”
+
+“I see,” Moira said, unable to iron the disbelief out of her voice. “The guild directory said the service is free?”
+
+“Yes, Aliandra, the owner of the dungeon, insists that it remain free. Although, she does accept donations of certain types of monsters, mana-affinity plants, or books for the library.”
+
+“I brought these,” the plate-clad tank said, producing five perfectly spherical fist-sized granite rocks that leaked earth-affinity mana like a cracked dam wall. “Granite Rumbler elemental cores. Low eighties. Will they be acceptable?”
+
+“Galeth? When did you…” Moira gasped, turning to the tank in surprise.
+
+“Some of us read the reports, Moira,” he said, but his broad grin told Vivian he was just teasing.
+
+“I can make sure Aliandra gets these,” Mieriel said, collecting the elemental cores. “She’s going to be ecstatic, I’m sure.”
+
+“So, where is this supposed shrine, then?” Moira said, collecting herself again.
+
+“The shrine is situated in a cavern below the sewers under this town, and it is guarded by a raid boss,” Vivian explained. “If you wish to wait, the guild will host a run down to the shrine next week with all the unclassed recruits, and you will be able to access the shrine without worrying about the monsters. Alternatively, you are free to delve into the dungeon and kill the boss on your own. Aliandra will unlock the shrine for groups that achieve the kill. This is a convenient option for teams such as yourselves that need a little more experience to hit one hundred.”
+
+“A raid boss?” the warrior asked, speaking in a deep voice that carried an excited undercurrent.
+
+Battle junkie, Vivian thought, categorizing the tank in the same group she put Mato. Not necessarily a bad thing. After all, she would categorize her younger self in that group, too.
+
+“We can’t risk a raid boss, Galeth,” the priest said. “There are only five of us, and the rumor is that this is the dungeon that iced the Heroes of the Crimson Blade. We can’t just waltz in there unprepared.”
+
+Well-informed, too, Vivian thought. The fact that the Crimson Blade had met its demise in Aliandra’s dungeon was not exactly common knowledge, and she had most certainly not advertised that fact. This group may require my personal attention. It’ll take time for these adventurers to stop being leery here in our not-very-tame dungeon.
+
+“Is that true, Ms. Ross?” Moira asked.
+
+“It is,” she said. There was not much point in trying to hide it if they already knew. “I hope that will not be a problem?”
+
+“The Heroes of the Crimson Blade were a bunch of thugs and mercenaries. If it were any other time, we would be glad to see them gone, but with the Blind Lich and his army of Death Knights laying siege to Southport, their strength would have been more than helpful,” Moira said. “We’re hoping to unlock some strong classes so that we can join the fight.”
+
+Just like the other groups. While Moira seemed to have a more patriotic motive, Vivian could easily tell that some of her group were motivated more by the frankly ridiculous quests that Southport had been posting. She had already approved several requests from their own ranks to join the fight after the Rift was fully stabilized. At least, if Aliandra’s shrine proved to be as popular as it seemed, Nevyn Eld might be in for more of a fight than he had bargained for. This is good for all of us, she reminded herself. The more the merrier.
+
+“I see all of you are wearing guild rings,” Vivian said. “We have the usual services – you may use the ‘looking for group’ board next to the jobs board. There are several high-level gold groups in our guild that would help you just for the shot at some more experience.” She could already see the excitement taking hold, infecting the warrior and the rogue first, but even the witch had a hopeful gleam in her eye.
+
+“Is there anything you can tell us about the boss we’ll have to face?” the gnomish rogue asked, puffing up his chest like he wanted to take up more space.
+
+Aah, they have a researcher, Vivian thought, identifying the rogue’s team role. Too many groups didn’t bother with the tedious legwork, and they often didn’t last very long as a consequence. But this group seemed quite well prepared. “Let me introduce you to Weldin. He’s the proprietor of the guild store, and he has a dungeon manual for sale which includes known boss abilities and strategies that have worked – all validated by my own platinum-ranked adventurers.”
+
+“You sell a strategy guide to your own dungeon?” Moira asked, raising her eyebrows.
+
+“Aliandra doesn’t like unnecessary deaths.”
+
+“How very un-dungeon-like,” Moira said, clearly trying very hard to button down any sarcasm.
+
+“I do have one request, though,” Vivian said. “When you delve down, would you mind avoiding killing the lower-level bosses? I have a lot of silver-ranks waiting on respawns.”
+
+“Ok,” Moira said, but the rogue and the warrior both frowned unhappily.
+
+“And for your more battle… uh… motivated members, the dungeon manual will show you several other normally unadvertised bosses of a more appropriate level, if you wish to gain a few levels and test out your new evolved classes before you head out to take on the Death Knights,” Vivian said, showing them into the guild shop. Aliandra had gone on a boss-making spree since the reclamation of her dungeon, and there were several high-level ones to choose from already. That comment at least raised grins of excitement and glee from the warrior and rogue, and at least a nod of thanks from the priest.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

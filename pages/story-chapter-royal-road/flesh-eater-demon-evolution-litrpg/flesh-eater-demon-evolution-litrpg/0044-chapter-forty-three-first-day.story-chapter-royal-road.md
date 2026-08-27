@@ -1,0 +1,175 @@
+---
+id: c553771b-3812-52e0-9c0f-aa6f98b9b4e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Three: First Day"
+slug: 0044-chapter-forty-three-first-day
+partOf: flesh-eater-demon-evolution-litrpg
+position: 44
+ownLength: 2881
+unit: words
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2765350/chapter-forty-three-first-day"
+royalRoadId: "2765350"
+---
+
+Humans, it turned out, weren’t the best at organizing themselves.
+
+After all the group A cadets had shown up at the training grounds (one kid was late and sentenced to three laps, so long first impression) Edna had showed up, face stern, and gave them yet another rundown of garrison rules and what to expect. This was followed by some warm up exercises, which mostly went well. Pyre, at least, had no trouble completing them.
+
+After all this was done, the end of the morning was meant to be an “icebreaker” for the recruits to get used to working together. How? By sorting themselves into an alphabetical line.
+
+There were about twenty people in group A, so theoretically this shouldn’t have been that hard. A few quick “yo what’s your names” and it was done. No physical effort needed.
+
+But then an argument had broken out when some noble kid had pointed out that he actually had a last name and since surnames were clearly the most important, he should line up by his last name. This was countered by someone else saying they should keep it consistent and all use first names, and the argument had escalated from there.
+
+All in all, Pyre was having a blast. Standing around the back half of the barely-formed line, the demon was watching the yelling and mentally betting on how much farther the argument would get before Edna inevitably interrupted. Probably not a lot. Saying that the sergeant looked “displeased” would be an understatement.
+
+“Uh, guys—” Near the front of the line, Declan was desperately trying to get the two to calm down, but he kept getting yelled over. A for effort, though.
+
+“—by your logic, it wouldn’t matter where anyone without a last name stands ‘cause apparently that’s the only one that’s important! You know how that sounds?”
+
+“I know exactly how it sounds, and I—”
+
+“Enough!”
+
+Ah, nice, her bet was pretty close. Edna leveled the arguing cadets with a glare so icy that they immediately shut up.
+
+“Laps, all of you.” Her voice was clipped. “Since you can’t seem to work together well enough to form a line, perhaps a run will help you cool your heads.” Cold blue eyes moved deliberately from cadet to cadet, several swallowing and looking away to avoid the gaze.
+
+One braver kid timidly raised her hand. “Um, how many?”
+
+Edna considered this. “Since you failed a basic teamwork exercise,” she finally decided, “you will keep running until all of you have completed at least four laps.”
+
+This elicited several groans and protests that were staunchly ignored. One more stern look, and the cadets slumped over to the running track. Many looked like they were seriously reconsidering signing up. Declan looked positively devastated. When you were working with a group of mostly teenagers, though, the demon figured this sort of thing was to be expected. That was probably the only reason several cadets hadn’t immediately been kicked out. Well, that and the fact that the garrison was desperate.
+
+Edna blew her whistle, and the group took off.
+
+Less than a minute in, the two who’d started the last name argument began bickering again. Pyre snorted.
+
+Things were off to a great start.
+
+Callan cringed as another carriage squeaked by, rushing to the side to avoid both the horses and the inevitable wave of people also moving to dodge it. Magrath seemed to always be crowded, and he’d already had a number of close calls today. It was a relief when he finally turned the corner and found the building he’d been looking for.
+
+The Magrath Library was a massive structure constructed of elegant arches and tall, welcoming windows. He felt excitement rise as he approached the engraved mahogany doors, which had been propped open for visitors to trickle in and out of throughout the day. Winrow hadn’t had a proper library, at least not a public one, and even by regular library standards the Magrath one was exceptional in size.
+
+Quickly checking to make sure he still looked solid, Callan straightened and stepped into the building. He was immediately greeted with a vast, open space that was positively filled to the brim with books. The shelves stretched high up to the ceiling, where a long chandelier dangling from a chain illuminated the room in a warm glow. Staircases led to a railed walkway running beside the higher shelves—five different levels in total. Tables had been placed throughout the library, and he could see a few people seated, reading or studying or quietly whispering to each other.
+
+“Can I help you?”
+
+Callan realized his mouth had fallen open while staring, and he quickly closed it.
+
+He turned to face the source of the voice, a young woman around his own age with wavy brown hair and dark, warm eyes who stood behind the front counter. She looked amused, and the ghost coughed.
+
+“Uh, sorry, I got distracted,” he said sheepishly. She chuckled.
+
+“I’m guessing you’re not from around here?”
+
+He shook his head. “I’m visiting,” he said, deliberately keeping the explanation vague. He gestured at the tall shelves. “I’ve never seen a library this big before.”
+
+“I know what you mean, I had the same reaction when I first came here. Were you looking for anything in particular?”
+
+Callan paused, thinking. “Yeah, actually, if you don’t mind. Do you have any spellbooks? Or books on magic theory?”
+
+She pointed behind her to a section of shelves at the back of the main room. “We have a whole magic section,” she explained. “You should be able to find what you’re looking for there. If not, just let me know.”
+
+The ghost nodded. “Thank you,” he said gratefully, and the girl smiled.
+
+“Happy to help! If you need anything, my name’s Jessica. It’s nice to meet you.”
+
+“You too,” Callan said. “Thanks again.”
+
+With that, he turned and strode over to the section of books she’d pointed out, reminding himself not to hover too quickly or it would be obvious that he wasn’t actually walking.
+
+The library had a good amount of people, but it wasn’t packed like the streets. He relaxed his shoulders a little. It was nice to be able to move around without constantly worrying about crashing through something.
+
+The magic section Jessica had pointed out was contained to two rows of shelves, which was more than Callan had dared hope for. He couldn’t see anyone else browsing the area, so he was able to scan the spines at his own pace. Anytime he found a book that looked somewhat interesting, he’d temporarily turn solid, grab it, then set it on the table and resume browsing. For the sake of preserving corporeal time, he was planning on looking at them all at once.
+
+The ghost managed to build a sizable stack over the next several minutes. He pulled any books on magic theory, especially plant and earth related spells, and books on curses and binding magic. He needed to make sure he was actually able to bind the curse mark to the horn once they found it.
+
+Besides magic books, he also moved over to a neighboring section and found some historical works and city records. Any book that looked like it might mention the Bellheins was added to the stack. He might not be able to join the garrison, but he wasn’t going to sit around being useless.
+
+Speaking of the garrison, Callan wondered how Pyre was doing. He hadn’t been able to relax the entire night, worried about the demon being discovered, and he wasn’t much better today. He hadn’t heard any alarm spells go off, at least, so that was a good sign. That didn’t mean they were in the clear, though. He shook his head and forced himself to keep reading.
+
+At this point, all he could do was trust Pyre.
+
+After the morning fiasco, group A was given a ten minute break to catch their breaths (which was sorely needed by most of the cadets, considering Pyre had ran a full eight laps before the last cadet finished four) before being ushered into the training facility for their next session: hand-to-hand combat.
+
+Frankly, Pyre wasn’t convinced Edna hadn’t purposely decided to move this session up after the failed alphabetical line experiment. Clearly more than a few recruits had managed to create some serious beef in less than a full day’s time.
+
+At the very least, she didn’t think a few minutes of instruction, then immediately moving to partner sparring was the standard. It probably wasn’t a coincidence, either, that she paired up those two bickering recruits. It was free entertainment for the demon, though, so she wasn’t going to judge the sergeant’s intentions.
+
+According to Edna, this was meant to be a brief spar to get a baseline of every cadet’s skill level and overall strengths and weaknesses. They’d all come from very different backgrounds, after all, even within the greater group divisions.
+
+With that preamble done, one by one, pairs of cadets were called up to the center of the ring while the rest of the group formed a circle of spectators around them. The pair would spar until one of them got the other on the ground, and then the sergeant would ruthlessly critique them. If her goal was to instill some humility in the group, then it was working. A bunch of freshly-signed-up teenagers, it turned out, were generally pretty bad at fighting.
+
+“—left your torso wide open to initiate a slapfight—”
+
+The current pair, the two who’d been arguing earlier, now stood in the center of the ring, uniforms covered in dirt and sand, shoulders slumped.
+
+The spar had actually started off alright, and the noble kid seemed like one of the few recruits who had some prior combat training. But then the other kid had called him a “prissy stuck-up rich boy,” and things had quickly devolved from there. “Slapfight” was actually a pretty good description, Pyre thought.
+
+As Edna continued to lecture the cadets, the demon’s eyes wandered over to the rest of the group. Declan was leaning forward, hanging on to Edna’s every word, but he was definitely in the minority. Most appeared visibly nervous—probably dreading the moment they were called. She even caught a few glancing in her direction, to her amusement, which she realized was probably them hoping they weren’t paired up with her. Which was funny, because she didn’t think she’d actually do very well. Not that she was going to tell them that.
+
+As the rounds progressed, the demon considered her own inevitable turn. The thing was, she’d obviously need to avoid using her full strength—breaking someone’s bones during a practice spar probably wouldn’t fly—but that didn’t bother her much. It would actually be kind of fun to learn some proper technique or whatever.
+
+The bigger issue was the fact that, thanks to her wandering mercenary cover story, Edna probably thought she already knew how to fight. And she did, but not as a human. Attacking and devouring shit as a giant demonic lump of flesh was worlds apart from punching and kicking stuff. She didn’t even have limbs most of the time, for one. She wouldn’t be able to grow bones or other flesh appendages, either. Or straight up devour things.
+
+She figured she’d probably still do better than the kids with zero combat experience, but probably not as well as Edna expected. Which wasn’t ideal when she was both trying to avoid suspicion and to get that guard position.
+
+Maybe if she just shoved her opponent to the ground fast enough, the sergeant wouldn’t notice her total lack of fighting technique. Hm. It was a thought.
+
+“Declan and Noris!”
+
+Edna called out the next pair’s names, and Declan practically leapt to his feet. The cadet he was fighting was another one of the older ones—if you could call early twenties “older”—who’d been pretty quiet up to this point. The two exchanged a nod, got into position, then lunged once Edna blew her whistle.
+
+Declan was actually pretty good, Pyre thought idly. He seemed a little hesitant, but he actually looked like he knew what he was doing. At least theoretically. He successfully dodged a punch and managed to trip Noris, though he did fuck up slightly by also tripping himself. Both cadets ended up sprawled on the ground, which, to be fair, wasn’t the first time that had happened that day.
+
+Edna nodded at the two of them once they’d made it back to their feet.
+
+“Not bad, cadets. Noris, you have good instincts. You don’t hesitate, and your movements are decisive. However, you need to pay more attention to your surroundings. That last trip was easily avoidable.”
+
+He nodded solemnly, and Edna turned her attention to the second cadet. Declan visibly tensed, standing ramrod straight as he waited nervously for her to speak. She looked thoughtful.
+
+“Have you had combat training before?” she asked.
+
+“A little.” Declan shifted his weight. “Uh, my parents taught me. Sergeant,” he quickly added.
+
+“I see. You do seem to have a decent foundation, but you overthink your movements. There is no place for hesitation, especially not when our enemy is the Tavrell Empire.”
+
+Declan tensed for a moment at the mention of the empire before nodding seriously. Edna seemed satisfied with this and dismissed the two to sit down again. It was probably the quickest spar so far, in terms of feedback.
+
+The sergeant’s eyes returned to the remaining recruits, and Pyre already had a feeling she’d be called next before the words had even left the human’s mouth.
+
+“Pyre, Merrick.”
+
+Seated a few feet away, the middle-aged recruit she’d seen in the registration line stood. He was a tall, dark-haired man with brown skin, black eyes, and an overall imposing stature. He would be the tallest in the group if not for Pyre. His expression was stoic and unreadable, and he’d been entirely silent up until this point, so the demon didn’t really know much about him other than the fact that he was the oldest of the recruits.
+
+Pyre rose as well, giving her bandages a quick tug to make sure they were secure. It definitely wasn’t a coincidence that Edna had paired the two of them to spar, she thought in amusement. A forty or thirty-something year old beating up a teenager probably wouldn’t be the best look. This wasn’t the greatest for her, though, since she was pretty sure this guy was one of the ones who actually knew how to fight to some degree. She’d have to hope her quick shove strategy worked before Edna started getting suspicious.
+
+A few murmurs rippled throughout the watching cadets as the two of them moved to the middle of the ring. Declan gave Pyre an enthusiastic wave when she passed by him, which she took to be a silent “good luck.” She snorted. The kid seemed determined to befriend her—probably purely for the sake of getting workout tips or something. Hey, she could respect the determination.
+
+Pyre moved to stand on one end of the open space the cadets were seated around while Merrick stopped on the other side. His face was as expressionless as ever. The demon shot him a wide grin, which only caused him to frown slightly. She was starting to think this smiling thing wasn’t worth it, or maybe she just had to get better at it.
+
+“Ready,” Edna said, and Merrick immediately bent his knees and raised his hands in a ready stance that looked decidedly practiced. Yeah, he definitely knew what he was doing.
+
+The demon mirrored the stance. Well then, she’d just have to hope she could knock him down before her lack of human-shaped fighting experience became obvious. She’d use a little more strength than planned if she had to.
+
+The ensuing whistle rang throughout the training facility.
+
+Merrick narrowed his eyes, but he didn’t move from his spot. Pyre didn’t either. She wasn’t going to be the one to approach first.
+
+For several seconds, the two simply circled around each other, neither one stepping closer. Both sizing the other up. Pyre was acutely aware of the whispers from their spectators and of Edna’s sharp, watchful gaze.
+
+Finally, when they’d just about completed a full circle, Merrick finally made the first move.
+
+Lightning fast, the man lunged, one arm drawn back for a punch. Pyre began to dodge, but the instant she stepped aside, Merrick switched hands. Suddenly, his other fist was barreling straight towards her.
+
+The demon reacted on pure instinct. She couldn’t say where she’d learned the movements from, nor could she explain them. It wasn’t like she was in any real danger.
+
+All she knew was that somewhere, buried in those fragmented memories, some part of her knew to slide one foot back while her other arm automatically rose to grip Merrick’s arm.
+
+In one smooth motion, she threw the man over her shoulder and slammed him into the ground.
+
+For a second, it was quiet. Pyre was aware of Merrick’s bewildered face looking up at her and had a moment to wonder if she’d accidentally used too much strength. Then, she realized what she—no, what her past self’s instincts had done. Her eyebrows rose.
+
+The fuck?

@@ -1,0 +1,155 @@
+---
+id: ef9859f6-dc47-5749-a5dc-3e460bd07199
+page-type-slug: story-chapter-royal-road
+title: "Ch74 Yin Moon Rises"
+slug: 0074-ch74-yin-moon-rises
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 74
+ownLength: 2321
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3526305/ch74-yin-moon-rises"
+royalRoadId: "3526305"
+---
+
+The loud cry of an eagle echoes through the sky as the temperature in the air rapidly plummets.
+
+Mu Shulan flies down to the ground, and every meditating cultivator’s eyes open to look around startled.
+
+My vision begins to shift to a blue tint, as I feel an extremely dense and pure aura fill the air.
+
+It is not harmful. In fact, it feels only pure and invigorating. However, it is so powerful and overwhelming that my instincts still tingle with danger.
+
+The pressure becomes sharper, and the sky continues to darken.
+
+An energy manifestation of a pure icy blue moon fills the sky. It is so massive, that for a moment it covers the entire sun above. Only distorted beams of light make it through at first, then the false moon in the sky crystallizes and becomes opaque.
+
+In the middle of the day, the sun goes out, as a lunar eclipse hides the light from pushing through.
+
+The cold blue aura becomes more intense too, creating a layer of frost on the ground, and spreading as far as the eye can see.
+
+Energy manifestations and icy blue shadows fill the sky. I see enormous wings, swords, moons, stars, and other unbelievable sights.
+
+Many of them are too big to see the entire image, showing up as abstract shapes as they stretch far off into the distance, tens, even hundreds of kilometers away. The epicenter of this celestial event is not even nearby, it seems as though it’s extremely far to the east, somewhere deep inside the Azure Cloud Sect.
+
+It all goes on for over half an hour before the cold aura recedes, and the enormous moon in the sky fades to reveal the sun again.
+
+Everyone has stood to their feet, lost in awe at the beauty of what we’ve just witnessed.
+
+A lingering thought grows in the back of my mind, as for some reason this aura feels familiar. I’ve only ever seen one cultivator use Ice magic, so the odds of it being that woman is not zero…
+
+The frost on the ground melts away, and the noon-day sun returns to beat down on us like nothing happened.
+
+Then, just minutes later, every single squad leader's communication talismans go off.
+
+“Miss Qin of the Inner Sect has broken through to foundation establishment. An emergency attack plan has been issued, and airspace has been cleared out by the Law Enforcement Hall. If you’re getting this message now, prepare to leave your current positions.”
+
+My eyes widen in realization that my passing thoughts were true…
+
+I just faced a foundation establishment cultivator in battle, yet this communication is saying she has only achieved this rank too. Whatever I just witnessed in the sky above proves even within the same rank, cultivators can still be worlds apart...
+
+While I stare up into the sky, trying to piece together the information I have, an enormous airship flies overhead. It is followed by hundreds of smaller vessels. Three smaller boats leave formation and come down toward Black Iron Mountain.
+
+One lands on the central peak, while two float down toward us.
+
+“Lan Xin, you’ve been promoted to a front line tactics commander for our final push to reclaim our lost ground and force the Blood Sword Sect’s retreat. Please, come aboard.” one man calls out from a sleeker and more powerful looking ship.
+
+The other ship’s captain calls out, “Wang Ming, Mu Shulan, Bao Zhan, and all present vice captains and stewards, you’re being recalled back to the Azure Cloud Sect. We have orders stating the war will be over very soon, and you have contributed all that we can ask for.”
+
+–
+
+We’re all searched, and our demon kills are tallied up.
+
+My cultivation level is still suppressed to that of a level 2 qi refiner, but the presence of my Martial Elite body cannot be hidden. To stay under the radar as much as I can, I only hand in initial stage demons from the last week of trekking here and some of the kills from the mountain. I make sure to mirror close to the amount I handed in last time in the stone valley stronghold, collecting 160 sect points.
+
+All of the squad leaders talk alone on one side of the vessel, while I stand with the stewards.
+
+The flying boat finally lifts off the ground, holding a large bear and eagle, and heads eastward.
+
+Many green robed disciples spread out to secure what’s left of the mountain below, and the ship Lan Xin boards flies off to the west deeper into the undeveloped wilderness.
+
+The instant Black Iron Mountain is out of sight, I pull a half drunken bottle of spiritual rice wine out of my storage. When I pop the cork at the top, every single steward’s head turns my way.
+
+I take a single swig, and feel the rush of the sole perfect grade spirit wine I created while struggling with my bottleneck back in the steward camps. I hand the open bottle to Old Chu standing next to me.
+
+“It looks like the war is now out of our hands. The Inner Sect is stepping in. We’ve stuck together and made it out alive, right?”
+
+He lets out a nervous laugh, then takes a swig, and his eyes widen in shock. Old Chu gulps it down and hands the open bottle over to Old Liu, “Indeed we have. The Heavenly Archer brought us here safely, and in our hearts, we know you helped us survive through Black Iron Mountain as well. It is best to celebrate.”
+
+Old Liu takes a gulp, and has the same reaction, handing it to the other two stewards in our squad that made it out, echoing Old Chu’s words and calling me the Heavenly Archer.
+
+The bottle is passed around to the other dozen stewards present, emptied out dry, and it’s more than enough to calm everyone’s nerves and even get them all tipsy. A few sit down and cultivate on the spot, as a single mouthful was enough to loosen up minor bottlenecks in a few steward’s stagnant cultivation.
+
+I recall drinking half the bottle myself a while back. It is certainly strong, similar to the potency of a heavenly grade qi gathering pill. However, I believe that the base ingredients do not have any rare medicinal properties or high potential to be extracted. Just like there is an upper limit to the ingredients in a qi gathering pill that will never reach the same effectiveness as a qi nourishing pill even when they’re both heavenly grade.
+
+Soon, familiar landmarks begin coming into view. There are smaller bases that we passed by days ago, and some we even captured ourselves. A few make me tighten my gaze and look over the edge of the boat, as they appear to be flattened, or burned to the ground like enemies have raided them.
+
+A half-drunk steward elbows me and opens up one of the magazines they were all looking at on the ground, showing a painted image of a fiery woman with a serpent around her neck.
+
+“What was Lan Xin like? How did you even end up meeting her?” he asks with a heavy breath.
+
+“She rescued me from the mountain before it collapsed, that’s all.” I shrug.
+
+“So that means she carried you out? Or did you just follow her? Were you close enough to tell what she smelled like? None of the beauty lists ever tell details like that.”
+
+I turn away from the burning fortresses below, with my mouth open in disbelief at this old man’s questions, but his rosy cheeks and the expectant eyes of other stewards listening make me realize a single sip of perfect quality wine really got them all quite tipsy. They’ve become loose enough to reveal their inner thoughts in a matter of minutes.
+
+“I can’t remember. I was too focused on surviving.” I murmur, but the sweet scent of sappy firewood burning surfaces in the back of my mind.
+
+Their faces drop, but I grab the booklet out of the man’s hand. “What is this anyway?”
+
+I flip through the pages, seeing perfect paintings of the top 25 ranked female cultivators in the sect this year.
+
+They are all far more beautiful than any woman I’ve ever seen in my past life, and Lan Xin’s eyes, figure, and skin rightfully do place her near the top of this list. It appears they do not take attitude into account.
+
+When I flip to the 2nd ranked spot, there is a mature woman’s outline, but it is only that, a dark silhouette. Next to her name, the marking states that her portrait was taken out due to her wishes as an Inner Sect Elder. The cultivation rating of 3rd level golden core is written below this.
+
+Other than the mention of such a thing in the basic cultivation booklet provided by the sect, I’ve never seen proof of anyone actually achieving this rank.
+
+Though, my eyes open even wider when I flip to the number 1 ranked spot, and the striking portrait of Qin Yue stares back at me. My own memories of her flash in my mind, and I’m confident this art does not do her true beauty justice.
+
+Beside her name, the label of Young Sect Leader is written. Then, her cultivation level at the 10th level of qi refining. Either this magazine is out of date, or they did not properly test her 12th level of qi refining when I met with her.
+
+I keep this to myself, but whisper, “What is a Young Sect Leader?”
+
+The steward that gave me his magazine peers over to the page I’m looking at, “It means she’s next in line to inherit the Sect. You had the once in a lifetime chance to see Lan Xin up close, and now you dare to set your sights on Miss Qin? She is the pride of our Azure Cloud Sect. The most talented of the young generation mentored by the Sect Leader himself. Didn’t you hear the war report? She has already stepped into the path of foundation establishment, the sole reason we’re able to retreat to safety.”
+
+Yun Renshu butts in, after being quiet near the side of the boat all this time, “It’s true, I heard a rumor she killed a foundation establishment blood demon once when she was only a mid-stage qi refiner… Miss Qin must be unstoppable now.”
+
+I go silent, and look over the edge of the flying boat again.
+
+Some things just aren’t adding up.
+
+If there are such powerful cultivators in the Inner Sect, why do they only send weakling outer sect troops and stewards into battle? Why doesn't the Sect Leader himself just come out here and destroy the enemies to secure the border?
+
+On the surface it appears complicated, like they’re trying to dilute the population and kill off the weaklings in the sect to let the strong rise up.
+
+However, the deeper I think the more a far more eerie conclusion comes to mind.
+
+The Blood Sword Sect must have powers of similar strength lurking in their depths. If one side strikes with their top ranks, it would force the other side to retaliate. Instead, they send in fodder like us to test the waters.
+
+While cruel, it would actually be much safer for the general population of the sect to fight like this.
+
+The true powerhouses behind these Sects must have nuanced and complex agreements that troops like us are not privy to, like limiting wars to only qi refiners or foundation establishment in certain regions. All of the excitement and change in battle tactics upon Qin Yue’s breakthrough start to make more and more sense.
+
+I’m shaken out of pondering these connections once I see a flash of red light burst on the ground below us.
+
+The Law Enforcement Hall cultivator driving the ship yells out, “We’ve entered a pocket of enemy airspace. Attack from below, brace yourselves!”
+
+A blood energy blade slams into the bottom of the flying vessel a moment later, triggering the automatic ship defenses. A burst of white qi comes out, blocking the attack and dispersing the energy.
+
+We keep flying forward, and more of these attacks come shooting up at us.
+
+The ship shakes violently, and the Law Enforcement Hall officer pours hundreds of spirit stones from a ring into the core of the ship to continue replenishing its defenses.
+
+Far off in the distance, another Azure Cloud ship is facing the same fate, but they have been within this airspace longer than us.
+
+A massive red and black explosion tears the ship in half, letting dozens of cultivators fall from the sky. Some of the late stage cultivators use artifacts to slow their fall, but all of the stewards quickly hit the ground and either die on impact or are ambushed by demons while injured and defenseless.
+
+The bottom of our ship is bombarded by attacks in the same way, and the ship driver’s face turns pale once his storage ring runs out of spirit stones.
+
+I take a deep breath, then transfer about three thousand stones to a medium quality ring, and throw it across the ship’s deck toward Bao Zhan. The stewards are in the middle of cycling qi to sober up, or shaking with nerves. None of them notice my actions. Not even the ship driver, as he has his own problems.
+
+Wang Ming and Mu Shulan have sharp enough senses to watch Bao Zhan catch something, crack the imprint, and let out a thin smile while handing it to the ship captain.
+
+More spirit stones are piled into this ship’s energy core as we pass over multiple demon run spirit veins, and out of the danger zone. Another Azure Cloud vessel far off in the distance is targeted as we escape.

@@ -1,0 +1,325 @@
+---
+id: 7379a1b6-cf04-5cc4-96be-175588f7515d
+page-type-slug: story-chapter-royal-road
+title: "5 - The Arcane Gacha Machine"
+slug: 0005-5-the-arcane-gacha-machine
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 5
+ownLength: 1822
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387943/5-the-arcane-gacha-machine"
+royalRoadId: "3387943"
+---
+
+The exploding appraisal ball grabbed everyone’s attention.
+
+The receptionist stared at the sapling, then at me, then back at the sapling. And Reina, too.
+
+Speaking of Reina…
+
+“Are you gonna say anything?” I asked. I had no clue why she was standing there with such a smug look.
+
+“Heheh,” she began, leaning over the counter. “You see, Allene and I over here did something… special on the way here. Let’s just say there’s one less Tree Sentinel in this world.”
+
+The entire guild whispered to each other.
+
+The receptionist’s ears twitched. “You… the two of you killed a Tree Sentinel?”
+
+Well, more like I did. The most Reina did back then was tickling it with a punch.
+
+“So what’s our reward for this catch?” Reina asked.
+
+The receptionist leaned in, sniffing the sapling. As expected of beastfolk from any story, their sense of smell was especially keen.
+
+“I…” she muttered. “I’m not too sure if I could take this.”
+
+“Huh? Why not?”
+
+“It’s… off.”
+
+Reina slammed her hands onto the counter. “What? Are you saying it’s fake?” She turned to me. “Say something, Allene! Or even better—show them the spear we got from the Sentinel!”
+
+More whispers.
+
+“No, that’s not it,” the receptionist continued. She turned, ushering the other workers to take a look at it. Each of them had the same initial reaction as her. They could tell something was off.
+
+So I wasn’t just imagining it after all. Maybe it really was demonic.
+
+Even some of the other guild members walked over to inspect the sapling. Same reactions.
+
+“What’s wrong?” Reina asked no one in particular.
+
+I looked at her. “See? I told you the thing was cursed, but you wouldn’t believe me.”
+
+My eyes grew wide, coming to a realization.
+
+I never did try to [INSPECT] it, did I?
+
+Oh god. I should’ve done this since the beginning. It was hard trying to get used to my abilities.
+
+And when I did…
+
+[BOSS: SOUL SAPLING]
+
+Level: 7
+
+State: Unrooted
+
+Description:
+
+Unlike other typical Tree Sentinel saplings, this one grows “crops” at a much faster rate, but requires life energy to function. Nearby life energy is automatically consumed.
+
+Assessment:
+
+A hybrid entity. In its sapling form, it functions as an item that degrades when left unplanted. When rooted and sufficiently nourished, it transitions into a monster. Its level scales with age.
+
+Huh? The sapling was a monster? And why did the description emphasize “crops”?
+
+Before I could say anything about it, I felt a hand gripping my shoulder. Was that Reina? Or—
+
+No. The hand was several times the size of any human hand.
+
+“What do we have here?” a man asked.
+
+I turned. It was a giant. I looked past him, toward the front entrance.
+
+How did he even fit through?
+
+“Garagog—I was just about to call you,” the receptionist said. “I think this sapling is—”
+
+“Demonic?” he said from just a single glance.
+
+He picked up Reina and me by the back of our collars, carefully putting us to the side like we were kittens. For somebody of his size, his voice was surprisingly calm and collected.
+
+He reached into his behind, pulling out a magnifying glass from god-knows where, and studied the sapling on the counter.
+
+A second later, he turned back to us.
+
+“Five gold,” he said. “If the sapling survives to adulthood, I’m willing to give additional rewards.”
+
+Five gold… that had to be worth a lot in this world, right?
+
+“Sounds good to me,” I said. When in doubt, just nod along.
+
+I looked at Reina. Judging from the greedy saliva running down her mouth, it sounded like a hefty sum.
+
+“Wait! Wait!” she said, grabbing everyone’s attention. “Could we just get one more thing?”
+
+The giant—Garagog—tilted his head. “I don’t typically negotiate rewards, but I’ll let it slide since the two of you pulled in quite the interesting catch.”
+
+“One ticket,” Reina said. “One arcane ticket!”
+
+“Arcane ticket?” I repeated.
+
+She opened her mouth, and—alright, let’s fast-forward the explanation.
+
+Long story short, a legendary archmage left behind some kind of arcane gambling machine. One ticket means one random item. This guild got their hands on it, built their entire reputation around it, and now hands out pulls as part of their rewards.
+
+Why?
+
+Because nothing’s more addictive than gambling.
+
+“Give us one gacha pull, please!” I immediately begged after hearing about it.
+
+The giant scratched his head, looked at the receptionists and sapling, and turned back to us.
+
+“Deal,” he said.
+
+Seconds later, one of the receptionists handed me the rewards: five gold and an arcane ticket.
+
+[TROPE COMPLETED: HANDING OVER A SUPER RARE ITEM TO THE GUILD]
+
+[SKILL ACQUIRED: GUILD’S FAVOR]
+
+Type: Passive
+
+Effect:
+
+- Slightly more guild reward yields and reputation gains
+
+[TROPE COMPLETED: GENTLE GIANT]
+
+[REWARD: Increased chance of higher rarity in the next arcane pull]
+
+I stared at the ticket in my hand.
+
+Forget the damn gold.
+
+This was better.
+
+[TROPE INITIATED: LEGENDARY ARCHMAGE’S INVENTION]
+
+Description: Every fantasy world has at least one absurd magical invention left behind by some legendary archmage centuries ago. Nobody fully understands how it works, but everybody still uses it anyway.
+
+Completion criteria: Obtain something from the machine worth bragging about, and use it.
+
+.
+
+Failure: Emotional damage and a fueled gambling addiction (You’ll get something even better next time, so keep trying!)
+
+***
+
+The usual progression for most stories was simple: arrive at a guild, sign up, take a commission or two, then leave to take on the commission.
+
+But now?
+
+Standing in front of me was the guild’s infamous arcane gambling machine, tucked away in a separate room. Apparently, they did it for privacy. There was an incident a while back—long before I came to this world—where ten people beat each other up over a supposed legendary relic from this machine.
+
+To top it all off, the relic wasn’t even anything special. It just looked cool, but was otherwise useless.
+
+I guess that’s what makes appraisers so important in this world. My [INSPECT] skill would definitely come in handy for that. Hell, if all this adventuring stuff doesn’t work out, I might as well become one.
+
+Reina stood beside me, sneaking glances at the door. It was sealed with some kind of magic, locking us in the moment we had entered. The condition was clear: we couldn’t leave until we used our ticket.
+
+Officially, it was to prevent outsiders from getting into the room with us.
+
+Yeah… I don’t believe that for a second.
+
+This was absolutely just to keep people gambling.
+
+“You ready?” I asked, holding the ticket in my hand. The anticipation was making me shake.
+
+“More than ever,” Reina said, her eyes lasered on the machine. “We even got five gold earlier, too… I wonder how many tickets that’s worth.”
+
+I looked at her. “You’re already thinking about buying more? We haven’t even started yet.”
+
+“I’m just getting ready. Just in case.”
+
+I walked up to the machine, gulping. Whichever archmage made such an invention must’ve been a damn genius. Gambling in another world is a fantastic start to any journey.
+
+Without further ado, I inserted the ticket into the slot. The machine ate it, let out a burp, and unlocked the lever beside it.
+
+“This item could be anything, right?” I asked.
+
+Reina nodded. “That’s what they say.”
+
+“What if it gives us the One Ring?”
+
+“What’s that?”
+
+“Never mind.”
+
+I pulled the lever.
+
+The machine twisted and turned, letting out groans and all sorts of flashing colors. It was oddly animate.
+
+I was about to call [INSPECT] on it when—
+
+THUNK.
+
+Something shot out of its mouth—fast—slamming straight into my face. I didn’t even know it had a mouth.
+
+I flew backward, crashing near the entrance.
+
+“Allene!” Reina cried, running toward me with her hands out.
+
+“Ah… ugh… huh…? Where am I?”
+
+I was starting to see stars.
+
+What the hell did it just throw at me?
+
+I tried grabbing Reina’s hand to stand—only to faceplant. Her hands weren’t even there anymore.
+
+“Ow! What’s wrong with you?!”
+
+I looked up.
+
+She was never reaching for me in the first place. It was for the damn thing the machine threw at me.
+
+“Oh my…” Reina muttered. “I can’t believe it…”
+
+My heart stopped.
+
+The thing the machine spat at me…
+
+The thing I earned from using that ticket…
+
+It was brown.
+
+It was straight.
+
+It was…
+
+“A stick,” I said.
+
+“No,” Reina replied.
+
+“What do you mean, no?”
+
+“It’s not just any stick. I can feel its power coursing through my veins!”
+
+I called [INSPECT].
+
+[ITEM: Stick]
+
+Rarity: Rare
+
+Description:
+
+A stick.
+
+Effects:
+
+- Deals negligible damage
+
+- Applies extreme knockback on contact
+
+- Has no effect against bosses and shatters immediately upon contact with them
+
+Note: Sometimes, all you need is a good push.
+
+“It’s… a knockback stick,” I said. “So that’s why I was sent flying away.”
+
+What were we even supposed to do with something like this?
+
+***
+
+The opportunity came sooner than I imagined.
+
+Back at the adventurer’s guild main room, I noticed a man shouting over the reception.
+
+“B?! Are you kidding me?! I’ve worked with you guys for years, so why the hell am I still B-rank?!”
+
+He was shouting at the same catgirl who had registered Reina and me earlier. A large goblin head rested on the counter. He was likely trying to turn it in, expecting to promote from it.
+
+[TROPE INITIATED: MAKING A SCENE AT THE GUILD]
+
+Completion criteria: Intervene and resolve the disturbance.
+
+The room was much emptier than when we originally came here. Most of the remaining folks here didn’t look like they had very impressive rankings. Max, probably C, like me. They were all likely weaker than the man, so they just stayed quiet.
+
+“We can’t do anything about it,” the receptionist said. “There are certain criteria that must be met before each promotion.”
+
+He slammed his hand. “Oh yeah? And what are they?!”
+
+She shook her head. “We can’t disclose that to the public.”
+
+I sighed, turning to Reina. “Could I borrow that stick for a second?”
+
+She handed it to me. Might as well test it out here.
+
+I walked up to the man, tapping him on the back. He turned around, his face red with anger. He looked around for a second, wondering who tapped him, before finally seeing me. Unfortunately, I was closer to the floor than most people.
+
+“What do you want, kid? Get outta my way.”
+
+I felt blood rushing to my hands as I clenched them.
+
+“...Kid?”
+
+[TROPE INITIATED: DON’T CALL ME A KID]
+
+Completion criteria: Correct their assumption.
+
+“Say that again,” I demanded.
+
+He leaned down, completely towering over me. “I said, get outta my w—”
+
+I slapped the knockback stick across his face.
+
+He wasn’t standing in front of me anymore.
+
+Not even close.
+
+Let’s just say the knockback stick did exactly as it was supposed to.

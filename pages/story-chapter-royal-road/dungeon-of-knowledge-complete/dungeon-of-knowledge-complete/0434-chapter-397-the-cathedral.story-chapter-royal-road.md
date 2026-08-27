@@ -1,0 +1,183 @@
+---
+id: eecc739c-f4f1-53d6-9aa7-b32cc2f8adfe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 397: The Cathedral"
+slug: 0434-chapter-397-the-cathedral
+partOf: dungeon-of-knowledge-complete
+position: 434
+ownLength: 2620
+unit: words
+ownProgress: 2620
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2645841/chapter-397-the-cathedral"
+royalRoadId: "2645841"
+markedReadAt: "2026-06-29T20:26:44.663Z"
+---
+
+Vivian entered the clearing and stopped. Someone had encouraged the nearby trees to weave their boughs into a gazebo stretching across the clearing. A large wooden meeting table seemed to have sprouted from nowhere, complete with several beautiful chairs, all incongruously set out in the middle of the forest among the bustling chaos of their refugee camp.
+
+I guess that’s what happens when you have the excess wood mages from Ciradyl?
+
+Camp was really too small a word for what sprawled about; a refugee town would be more like it.
+
+She strode toward it, studying the members already seated at the table: Jax Hawkhurst was already scowling, and Gerald Brand was studiously ignoring him. Bastian Asterford sat at the head of the table, seemingly trying to placate Jax.
+
+Vivian picked a seat beside Gerald Brand.
+
+“Look, I told you it was a mistake to trust that dungeon, Bastian. See where it has landed us?” Jax grumbled, glaring at the taller noble.
+
+“We followed the law, Jax,” Bastian said, growing visibly more exasperated.
+
+“We should have killed her when we had the chance. If only those Crimson Blade people had taken care of her, we wouldn’t have this disaster on our hands.”
+
+“That dungeon is not Aliandra’s,” Vivian interjected. “It is a spawn of the Blind Lich.”
+
+“Stop peddling that superstitious nonsense! The Blind Lich? Pah! You might as well invoke the boogeyman,” Jax yelled. “What on earth would an ancient legend want with Myrin’s Keep? Besides, you’re not a dungeon expert.”
+
+“But I am.”
+
+Vivian and the other council members turned at the sound of the newcomer’s voice. A surprisingly deep, feminine voice of absolute command and confidence. From among the trees, the legendary Night Elf, Lyeneru Silverleaf, stepped forward.
+
+“This is a private meeting of the council, and you’re not a member,” Jax objected, drawing himself up to his full height, eyes flashing dangerously.
+
+“She represents over half of the residents of Myrin’s Keep,” Bastian said. “I invited her.”
+
+“She’s also the foremost expert on dungeons and strategy,” the normally taciturn Brand added. “We’d be stupid to ignore her counsel.”
+
+Lyeneru simply picked a seat on the opposite side of the table, as if she didn’t care who did or did not approve of her presence. “Val’korr cannot make it; he is still under the care of Lamyndra Duskwind,” she said.
+
+Then, two more figures entered the clearing, both bearing the grime and ichor of long combat.
+
+Warrior – Human – level 97 (Ice)Mage – Gnome – level 100 (Lightning)
+
+Aiden and Donella Novaspark took their seats, and Vivian grimaced inwardly at their levels. Aiden would be hitting his evolution soon, and it seemed Donella had already hit the threshold. The timing of losing Aliandra’s shrine could not have been worse.
+
+“Let’s get started,” Bastian said. “Commander Brand, why don’t you report?”
+
+“We’re not waiting for Hadrik?” Vivian asked.
+
+“Unfortunately, Hadrik did not survive the initial assault,” Bastian said, his voice quiet and filled with a surprising amount of sadness. Vivian had never realized he even cared.
+
+“The garrison guard is very shorthanded,” Gerald Brand said, his voice clipped and crisp, delivering the data without any obvious emotion clouding his words. “About a quarter were either lost in the initial fight or subsequently fled.”
+
+“What about you, Vivian?”
+
+“We lost far too many lower-level adventurers, the silver and bronze ranks, but our raid teams remain intact. Our major loss is Aliandra Amariel, who was lost to a rift trapping her in an Abyssal Realm.”
+
+Vivian didn’t miss Jax’s suppressed smile at the news.
+
+“Lyeneru Silverleaf, could you provide us with an assessment of the dungeon itself?”
+
+“This is a dungeon of rot. It has nature and death mana affinities, and is controlled by a high-level undead dryad, the raised specter of Lirasia, forced to serve the Blind Lich in death. The monsters range from level eighty to around one hundred and eighty, and it has fully supplanted the previous dungeon and taken over the entire ruins of the town on the surface. It is a rogue category dungeon, and in the process of a continuous dungeon break. It is one of the most dangerous dungeons I have encountered.”
+
+One hundred and eighty. A small trickle of fear prickled down Vivian’s back as the implications settled in on her. The table erupted with shouts and comments, but she tuned them out. It was too much. Too much by far. With such a high-level dungeon in play, they risked losing even their gold-ranked adventurers.
+
+“We must get help from Southport!” Jax shouted.
+
+Surprisingly, for once, Vivian agreed with the crook.
+
+“That’s not going to happen,” Lyeneru said.
+
+“Because their Crimson Blade team died here?” Bastian asked.
+
+“No,” Lyeneru answered. “I received a report that the Blind Lich’s army is on the move. It has passed the Dol Kerriadh peninsula and marches south and west.”
+
+“He’s attacking Southport?” Vivian asked, aghast.
+
+“Yes, and they have sighted Death Knights.”
+
+Death Knights? If that was true, Southport would need every platinum-ranked adventurer and guard they could find, and even then, it would likely not be enough. Even though the others might not understand the implications, it was abundantly clear to her. They must face this dungeon on their own.
+
+Her mind scrambled into action, sorting through their resources while the others argued and debated trivial details. It was likely impossible, given their limited resources, but they would have to try – but she shuddered to think of the cost.
+
+“Brand, can your guards cover the perimeter?” she said, interrupting a heated debate between Bastian, Donella, and Jax.
+
+“If we shrink the size of the camp a bit, yes.”
+
+“Do it,” she said.
+
+“Hey, who gave you authority to make unilateral decisions?” Jax demanded.
+
+Vivian ignored him. “I will assign my raid groups on shifts to handle the higher-level monsters. They’re all almost level one hundred now.”
+
+“That makes it much more feasible,” Gerald Brand said, inclining his head in gratitude.
+
+“We have only six evolved combat classes: Me, Lyeneru, Val’korr, Malika, Mato, and Calen. Given that Val’korr is out of commission, still recovering from the battle with the Lich, the five of us will have to be enough to take care of any of those level one hundred and eighty monsters.”
+
+“A defensive plan,” Lyeneru said, nodding slowly. “Likely the smartest option under the circumstances.”
+
+“Are we not going to clear the town and restore Myrin’s Keep?” Bastian asked, shushing the angry Jax with a wave of his hand.
+
+“I don’t believe we have enough strength to take the battle to the dungeon,” Vivian said, trying to ignore Jax. Why couldn’t it have been him instead of Hadrik? But she squashed the thought – there wasn’t enough time for that kind of indulgent thinking. “Certainly not if we want to keep protecting this camp.”
+
+“I see,” Bastian said.
+
+“We might need to discuss evacuation plans and consider abandoning Myrin’s Keep altogether,” Vivian finished.
+
+Jax leaped to his feet, purple-faced and almost foaming at the mouth. “What?”
+
+Ali crept slowly along the passageway, alert for any sign of patrols, monsters, or assassins. She was most certainly approaching something more important in this dungeon – she had been attacked a half dozen times by kobold rogues, and she had run into more patrols than she could count. A wide assortment of kobold melee, archers, and even a few void mages.
+
+Whatever this kobold dungeon was, something sure didn’t add up. While level ninety kobolds were certainly strong and extraordinary, it did not explain the ridiculously potent runic circles she found powering the various holy ‘chapels’ – as she had come to think of them – seemingly powered by the many acolytes as their Prayer generated excess holy mana.
+
+She wasn’t sure this sudden increase in monsters was a good sign or a bad one, but it had certainly made her much more cautious. In fact, it reminded her more than she would have liked of her time stuck in the Ruins of Dal’mohra with Mato; kobold rogues ready to spring out and ambush them from any corner.
+
+Only this time, she didn’t have Mato and his cheerful support. At least I have better perception skills now, she thought, quickly turning the depressing thought to a more positive one. She hadn’t been ambushed yet; the combination of her bat and her slime circumvented almost any stealth skills, and if that wasn’t enough, she still had Scent of Blood and her new Baelok Descrier’s Mind’s Eye, which she was still getting used to.
+
+Cautious, but optimistic, she crept slowly toward to the distant archway up ahead.
+
+Ali hung back a fair distance from the arch and sent her scouts in first. Through the archway, she found a chamber the likes of which she had never imagined. A giant circular room, cut with geometrically perfect precision hundreds of meters in diameter. It rose high above, closing over in a domed ceiling covered with regular arched openings that led who knew where, accessible only by flight, or some similar skill.
+
+The archway her minions entered came out about ten to twelve meters above the alabaster floor, the passage ending in a sheer and abrupt drop.
+
+Ali crept closer, keeping her barrier ready, sending more and more of her minion army to explore. Her Abyssal Stalkers crept down the walls, keeping their stealth, and her Descrier used its Astral Projection to send its awareness and senses into the chamber.
+
+If she had considered the small junction rooms with holy runes to be chapels, then this room had to be the central cathedral. The entire floor was etched with runic inscriptions, most lit with the holy fire of consecration, but there were regular runic circles of pure blackness that flared with the void. I have to bring Havok here.
+
+The walls were covered with holy and sacred flowering plants, and a half-dozen golden-scaled kobolds stood bowed, hands clasped, spread among the holy fires and runic magic. Floating impossibly huge above the center of the room was the largest chunk of voidstone she had ever seen, geometrically perfect in every way, and yet somehow burning with holy fire in a strange fusion of magic that defied explanation. All she could tell was that it was emitting a stupendous amount of mana into the surrounding domain.
+
+Well, that explains why I wasn’t having any effect on the domain. All her deconstruction efforts had barely dimmed the intensity of the domain, but this chamber clearly showed how futile and insignificant her efforts had been.
+
+For all its immense size and the potency of the domain, Ali was surprised to find it only sparsely populated. There were several patrols of kobolds walking among the acolytes below, but nothing that resembled a boss. Certainly, nothing she had seen matched the quantity and power of the mana being generated here. She didn’t see any soul or death affinity runes or arrays, but she couldn’t discount the premonition that something bigger was at play.
+
+Ali finally approached the archway herself and beheld the splendor of the cathedral chamber with her own eyes. She studied the flow of mana like one might study a raging waterfall, safely from the banks, grateful to not be torn asunder by the sheer power.
+
+Suddenly, the flame dimmed dramatically, almost extinguishing from around the giant floating voidstone, and her mana sight beheld the dramatic sight of mana being ripped away by a powerful force.
+
+Mana Siphon. She recognized the phenomenon as the same one her shrine used to replenish its reserves, only the scale of this was vastly beyond anything she had believed possible.
+
+Instantly, all the kobold acolytes on the floor below shone out with the holy pillar of their Devotion as their mana pulsed with power and their skills fed everything to the runic siphon.
+
+What is this dungeon? What’s it feeding? She could scarcely comprehend the scale of this magical power and couldn’t even imagine what so much mana might be capable of producing. And all for a strangely quiet and mostly empty kobold dungeon.
+
+She couldn’t see anything particularly dangerous, though, and while the acolytes emptied their most powerful skills into the void, she summoned barriers, levitating any of her minions that couldn’t fly, crawl, or jump down by themselves, and sent her entire force into the room. She left only her Sacred Ooze hanging on the high archway. It could spawn its healing slimes from there, and it would be her backup in case she needed a quick teleport out of the room.
+
+She floated downward on a disk of her barrier magic, still unnoticed by the room’s occupants, but the huge form of her Carnage Berserker passed her on the way down, landing with a loud thump before rising to his impressive full height. Instantly, the room filled with chirping screeches of alarm and shouts in draconic as the kobold patrols turned and charged at them. Ali hung back near the wall, staying out of the line of fire, but still close enough to ensure her entire attacking force gained the bonus damage of her Empowered Summoner skill. Her minions required little direction from her, so she simply observed. The giant Carnage Berserker burned his health, turning it into a maelstrom of rage and blood blades that tore through the kobolds. The Descrier’s magic pulsed out from its terrifying orb, driving the Abyssal Stalkers and Hellfire Imps into Frenzy while shooting mind blasts in all directions from its peripheral eyes. Her Mage of Piercing Frost simply locked down the entire battlefield with her perfectly placed Frost Nova as the rest of her minions tore into the kobolds.
+
+This seems too easy, she thought, walking across the room, deconstructing whatever she found but keeping a sharp eye out and all her senses alert. I can’t imagine that’s all there is…
+
+Her Grimoire pinged a few times, adding two new kobold variants and an impressive new ring that the rogues had been wearing.
+
+Variant: Void Mage added to Imprint: Kobold.Variant: Void Rogue added to Imprint: Kobold.Variant: Onyx Band of the Void added to Imprint: Ring.Onyx Band of the Void – level 83A band of pitch black that radiates void mana to those who can see it.+51 Dexterity.+40 Strength.+19 Perception.Added Void damage on hit.Grants level 23 Vanish skill. Recharge: 5 minutes.Requirements: Dexterity 291.Ring – Onyx
+
+She created several of these new onyx bands, distributing them to her own rogues while she walked around the room studying the runes, but right then a dark shadow crossed the alabaster floor, and Ali glanced upward. Suspended on giant wings, trailing wisps of midnight black mana, she found herself staring into the malevolent gaze of the king of predators.
+
+Scion of Azryet – Abyssal Dragon – level 148 (Void)
+
+Oh… shit! The monster was huge, casting a shadow far larger than even Tol’brekk. Black scales glinted in the light of the holy fires, obscured by streaming wisps of pure blackness that seemed to shroud its body.
+
+“Aah, I don’t suppose we can talk? I’m… just looking for the way out?” Ali said, her voice cracking embarrassingly in the middle.
+
+Its giant maw yawned open, baring fangs of pitch-black void. “Spawn of Destraggoth! Prepare to be unmade!” it roared, an earsplitting thunderclap of sound that shook the foundations of the room, sending waves of pure Dragon Fear radiating outward through her entire force.
+
+Ali cowered behind her barrier, unable to heed the screaming voice in the back of her mind urging her to action as the monster’s enormous maw opened wider and a tiny spark of pure void magic kindled in its mouth, rapidly expanding to a sphere of utter darkness.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

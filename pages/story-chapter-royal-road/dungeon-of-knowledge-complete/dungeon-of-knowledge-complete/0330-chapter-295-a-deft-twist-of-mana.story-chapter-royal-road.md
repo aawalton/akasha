@@ -1,0 +1,147 @@
+---
+id: 4004b7c7-d80b-5b78-971f-5f37e8fbe1ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 295: A Deft Twist of Mana"
+slug: 0330-chapter-295-a-deft-twist-of-mana
+partOf: dungeon-of-knowledge-complete
+position: 330
+ownLength: 2323
+unit: words
+ownProgress: 2323
+publishedAt: 2025-06-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2394602/chapter-295-a-deft-twist-of-mana"
+royalRoadId: "2394602"
+markedReadAt: "2026-06-29T20:22:30.958Z"
+---
+
+Ali walked over to the rift, inspecting it closely. “You can see through this thing?” she asked. To her, it was almost opaque. It repelled the mana of her domain – as if it was a barrier of clouded glass that could only permit physical objects to pass.
+
+“Yes. A fair way in, actually,” Calen said. “I can see that whole cave we entered into. It’s clear right now, but I saw that imp easily.”
+
+“That’s an impressive ability,” Ali said.
+
+“It’s weird, I can see into the spirit realm too,” he said. “It flickers a lot. Sometimes it gives me a headache.”
+
+“I think it shows echoes of the past,” Ali said, repeating her favorite theory, but she didn’t understand the realm much. The only reference she had found with more than a cursory few lines of text was from Clarence, and he was most definitely not easy to understand.
+
+“It’s strange getting used to all the changes,” Calen said as the two of them began to head back, flying side-by-side through the former demon wing of the Emberforge Mines – now Ali’s largest fire domain. It looked so different now, devoid of the Flamecallers with their demonic pets and covered in large swathes of Fire Grass, with the Flame Lashers lining the walls of the lava and boiling tar pits. The bigger chambers even sported trees, now.
+
+“It really is,” Ali said. While she was talking to Calen, she was simultaneously monitoring the situation – aware of her new Ice Mage boss shooting a new warg that had crossed the rift, several adventurers training in the challenge arenas, a small group trying to earn experience in her sewer, and a new huge pile of broken furniture and rubble her kobolds had liberated from Vertias. She deconstructed the trash before it could pile up in the library, earning a few new regional variants of wood, and a small stack of nickel from a couple of lost coins in the pile.
+
+“I think when Malika and Mato finish their evolutions, we should find something easy to fight, just to get used to our new skills,” Calen said, his fair eyebrows scrunched together in thought.
+
+“I agree,” Ali said. “Hopefully this increase to my domain pushes my shrine above four million mana and we can get them done quicker.”
+
+“What are you going to use all this space for?” he asked as they reached the Landing.
+
+“I’m not sure,” Ali said. The Landing looked bare with just her plants and no twin Living Flame boss or the ignited runes and doors blocking their way. Like they had just cleared it out, but it would never respawn.
+
+“It was a good dungeon for us to learn in,” Calen said, clearly reminiscing.
+
+“I was hoping to put some higher-level bosses for the silver-ranked adventurers to reach gold, but I’m not sure. I’m worried my Arcane Insight skill has made me worthless for training them.” Up till now, she had always left the adventurers unobserved when they encountered her bosses, ensuring that they would gain full experience from the unsupervised encounter – but that was no longer possible; Arcane Insight gave her passive perception of everything in her domain all the time – at least for mana. “I can’t look away anymore. At least from mana.”
+
+“Hmm,” Calen said. “How does Naia do it?”
+
+“I… I don’t know,” Ali said, surprised. She had not thought of how that worked, but the adventurers had reported that Naia’s first boss had earned them a lot of experience. She was almost certain Naia had some sort of hive-mind perception skill that meant she was always aware of what every slime in her dungeon was doing at every moment. She had been jealous of it for the longest time.
+
+“Maybe visit her?” Calen said.
+
+“That’s a good idea,” Ai said, suddenly excited at the prospect of visiting her favorite little slime friend. She could already imagine the cute little shivers and wobbles she would make when Ali presented her latest slime gift. I should make time to give her all the Domain Magic skills too, her thoughts turning a little more serious and practical. Naia had been struggling with the dungeon of nature plants and death magic, and an infusion of new options for bosses might be the thing that really gave her the edge.
+
+She stopped, hovering beside the extinguished rune before the door to the inferno wing.
+
+Rune of Living Flame
+
+It was a strange construct; dense black stone that looked like the Adamant Onyx used in shrine construction. Etched upon the surface was a large fire-affinity rune, supported by a fairly complex structure of magical runework inscribed directly into the sides of what must be some sort of magical artifact. She recognized some of the construction techniques as similar to what she had learned from Donella in her lessons, but this seemed to be quite a bit more advanced – more specialized.
+
+“That’s a lot of complex fire runes,” Ali muttered, and on an impulse, she twisted her domain mana and attempted to attach it using Domain Respawn. The strange runic artifact seemed to resist her for a few moments, but as she gathered more, the impedance suddenly vanished as the runes in the stone hungrily consumed the fire-affinity mana carried within the local weave of her domain. Ali ducked back quickly as the rune surged with power, flame erupting from it in a pillar of light and heat, but it slowly died down to a smaller blaze as the nature of the flame shifted to Living Flame, pulsing its energy of mana and stamina rejuvenation back into the nearby domain.
+
+With a loud thump, the stone door to the Inferno wing slammed shut.
+
+Domain Mastery has reached level 31.[Artifact] Rune of Living Flame has been added to your Domain.
+
+What?
+
+“Oh, you figured out how to use the rune?” Calen said, flying over to look at it at once.
+
+“I barely did anything,” Ali answered. But she was shocked to the core to see her domain mana flowing into the runic artifact, empowering it. “Somehow I added this to my dungeon as an artifact…”
+
+“Like respawning monsters?” Calen asked, peering at it curiously.
+
+“Yes, exactly like that. Well, maybe like a respawn enchantment for a piece of magicite… but I didn’t make this rune.” That was a requirement for Domain Mastery, but how she had circumvented it was anyone’s guess. Maybe because I can make all the components? The artifact was almost certainly Adamant Onyx, and she had Runic Script.
+
+“I see,” Calen said, poking at it with an Eimuuran steel arrow he summoned from his storage. “Pretty neat, I like Living Flame. Free resources.”
+
+Wait… those are fire runes.
+
+“Fire runes, Calen! They’re fire runes!” Ali exclaimed, hopping up and down beside the strange artifact. She had struggled so hard to activate any runes other than her own affinities, and she had failed miserably so many times that she just assumed it was forever out of reach. Yet, here in front of her, flickered a potent rune of Living Flame embedded in an artifact and powered directly from her domain. In hindsight – and with mana sight – it was clear what had happened. This entire Landing was filled with fire-affinity mana, taking advantage of her new Adaptable Mana advancement. It was that fire mana that now powered the runes. The simple purity of the explanation took nothing from her incredulity; her mind flooded with a cascade of unanswered questions, half-formed ideas, and implications.
+
+“What’s wrong?” Calen asked, swiveling to study her reaction.
+
+“I just powered a fire rune!” she said. She could even feel the soft rejuvenating heat spilling out from it.
+
+“Oh,” Calen said. “Oh, that’s big, isn’t it?”
+
+“I think so,” Ali said, racking her brain for a way to explore it. “Give me a second. Don’t go anywhere,” she said, and teleported herself directly into the library.
+
+“Ryn, do we have any books on introductory fire runes?” she blurted out, gaining a startled look from her friend.
+
+“Yup, top shelf on that bookcase, third book from the left,” Ryn answered, recovering quickly and pointing to the shelf with a smile.
+
+“Thanks! Be right back!” Ali said, snatching the book from the shelf and teleporting back to where Calen still waited, depositing the surprised little Glitter Dragonet back in the library where it had started.
+
+“Whatcha got?” Calen asked, craning his neck.
+
+“Fire spells,” Ali said, showing him the cover before paging through the book in a rush, searching for a simple introductory fire spell she might use to test her discovery.
+
+“Good idea!”
+
+“Flame Wall,” Ali decided. “This will do nicely.” It took all of a minute to memorize the level five spell inscribed on the pages, and then, with not much difficulty, she inscribed the fire runes into a runic circle on the ground in front of the door to the Inferno Wing. She had always had the ability to write runes of any affinity, she just had rather little use for that because she could never activate them – at least until she learned to make wands. When her runic circle completed, she tried pushing her own mana into it, but as usual, her arcane or nature affinity was entirely incompatible leaving the fire runes dark and dead.
+
+She pushed up her sleeves and then tried again, this time wielding her domain mana instead. While it was exactly what she was hoping for, the runes lighting up readily still caused her heart to race with excitement. The runic circle completed with a snap and a pillar of flame erupted from the center of the circle.
+
+“It works!” she cheered.
+
+“Nice!” Calen said. “New traps! The guild is going to be so happy!”
+
+Ali eyed him askance for a second before detecting the grin that threatened to creep out under his deadpan expression.
+
+“I mean, it will be good training for them, if they get this far,” he offered.
+
+“True, but I do have a closer fire biome available,” Ali said. If she understood the way it was working correctly, she should be able to create ice runes in the rift chamber, or even blood runes in the cave where she had placed her Abyssal Stalker boss. It was not freedom to use any affinity unrestricted – she would need to create a domain region filled with sufficient mana of the correct affinity for it to work, but it opened up so many exciting possibilities. And fresh trap designs were just scratching the surface; of that, she was sure.
+
+“Does it work for creatures too?” Calen asked suddenly.
+
+“What do you mean?” Ali had always been able to make kobold Fire Mages, fire drakes, and Hellfire Imps. But then she suddenly realized what he was thinking right as he clarified.
+
+“The fire elementals?” he asked.
+
+She answered him by immediately opening her Grimoire and paging to the imprint with by far the most unusable variants and selected Shard of Flame. In a hurry, she poured her mana into the imprint, eager and nervous in equal amounts – but when her elemental appeared, it collapsed in a sigh of expiring flame, the core bouncing off the ground and coming to a standstill. In response, she tried twisting her domain mana into the corpse, but it was most certainly dead.
+
+“That’s too bad,” Calen said, poking it with his foot. “I was hoping it would work.”
+
+“Gimme a second, I’m not done yet,” Ali said, considering the technique she had used to bind the Rune of Living Flame and how she had needed to bend her domain mana to encourage it to take the fire affinity.
+
+I probably need to bind it earlier. Ali wielded her Grimoire again, but this time, while the elemental was being summoned, she simultaneously bound her domain mana into the creation of the monster, trying to blend the creation process with her domain respawn enchantment, ensuring the elemental was never starved of the flame that would grant it ‘life.’
+
+This time when her elemental appeared, it shimmered and guttered dramatically, but abruptly rekindled as the mana of her domain poured into it. It flared into fiery life as waves of heat began rolling off of it.
+
+Shard of Flame – Elemental – level 38 (Fire)Domain Respawn applied to Shard of Flame.Your reserved mana has increased by 24.
+
+“Oh!” Calen exclaimed, almost as delighted as she was. “You did it!”
+
+“I did,” Ali said quietly, letting the implications sink in. She had created an elemental – a monster of pure fire mana – and bound it to her domain. It was certain that she could never create such a monster unbound from the support of the fire mana woven into this region of her domain, but it was a breakthrough of staggering proportions, and Ali wasn’t certain her imagination was even scratching the surface of what she had just unlocked.
+
+“You have a lot of new minions you can use, don’t you?” Calen said, speaking for her.
+
+“Yes,” Ali said. “I should be able to duplicate almost all of the Emberforge Mines if we need it. I think I have all those Flamecallers, the lava oozes, and most of the fire and lava elementals. I could probably even do the Living Flame, Inferno, and the Phoenix boss.” Perhaps the only monster she couldn’t resummon would be the Corrupted Fire Drake that had guarded the shrine.
+
+“Weldin and the town crafters will be happy,” Calen said. “They were sad when Malika told them that the fire essence supply would dry up after we defeated the mines.”
+
+“I can definitely use some space for that,” Ali said. “Also, I have a lot of new skill sheets for you to study!”
+
+“Oh! Yes! Now you’re talking!” Calen exclaimed, his notebook materializing in his hand in a flash. “Give me everything!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,237 @@
+---
+id: 5d0b808b-c9db-5df3-8f2f-8bc87c6b778a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55: Celebrations of Triumph"
+slug: 0070-chapter-55-celebrations-of-triumph
+partOf: ends-of-magic
+position: 70
+ownLength: 2863
+unit: words
+ownProgress: 2863
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3028525/chapter-55-celebrations-of-triumph"
+royalRoadId: "3028525"
+markedReadAt: "2026-06-29T20:09:30.581Z"
+---
+
+“We haven’t levelled yet,” Aarl noted as the Heirs made their way back to the starting location at a much more sedate pace than how they’d left it. “The battle must not be over.”
+
+“I think Davrar will tell us when the war’s over,” Stella said. "It announced the start, it'll announce the end. We're not done yet."
+
+“My assassin class hasn’t levelled, and it should have,” Nathan added, though he wasn’t giving the conversation his full attention. He panned his magical senses around, catching the edge of various conflicts. Most of them seemed to be winding down, with the Ashen Accord Questors coming out victorious due to massively outnumbering their enemies. Nobody was coming their way.
+
+He was also gathering information on how the various Questors fought, especially the powerful ones. From this distance, he didn’t have precise information, but he could tell that Mirus used a strange type of basic mana that seemed tailor-made to pick apart and counter enemy magic. That was backed up by a solid core of efficient offensive magic, including disintegration and massive swarms of force blades. He also caught the edges of a localized time spell at one point, but from outside of the area of effect, he couldn’t tell if it had reversed time, frozen it, or done something stranger. Phyrne was interweaving divine mana from a few different gods together into attacks, blessings, and curses that usually had multiple effects. Her repertoire was broad, with the power of at least a dozen dead gods on tap.
+
+Soon enough, the Heirs left the battle zone behind, though they were still a few minutes from reaching the starting position.
+
+“Now we move to the next step of our Path,” Khachi rumbled. “We have completed the deeds, and now we must hope the conclave can fulfill our Oaths.”
+
+“My eyes can’t see how,” Stella responded morosely. “The changes we want aren’t in favor of most Questors. Having met more of them, I don’t expect the conclave to yield a dragon’s hoard.”
+
+“What changes do we even want?” Aarl asked, scratching the back of his head awkwardly.
+
+“Changes to the Endings. I’d also like changes to mind magic,” Nathan answered. “I don’t know if we’ll be able to ban them fully, but it’s a starting point. I’d also love to make Davrar a kinder place, where Questors don’t send nations to war to resolve a spat. But we don’t know exactly what’s on the table, and Sarya’s been evasive on the topic.”
+
+“Now is the time for those questions to be answered,” Khachi said resolutely.
+
+Aarl’s face twisted up in distaste. “We’ve struggled to achieve this conclave, and now it’s become a dungeon for fools.”
+
+“We’ve learned a lot,” Nathan disagreed. “We know a lot more about the Questors than we did when we started all of this. We have contacts, and if we need to…”
+
+“Full viewing,” Sarah interrupted sternly. “Questors from across Davrar may be listening to us right now.”
+
+“Ah,” Nathan said, mouth suddenly dry. He hadn’t been about to talk about properly killing Questors, but discussing plans while an unknown number of people with unknown motives watched them was a bad idea. “Good point. Let’s try our best to make sure this conclave achieves what we need.”
+
+The Heirs were silent for the rest of their flight back to the starting area, which wasn’t long. It was surrounded by an invisible, intangible dome of magic made of innumerable threads of mana. Nathan slowed down to investigate, noting that it had almost certainly been cast by Mirus. It would automatically counter any damaging spell that came from the outside. He made sure to slip through without disturbing the magic.
+
+The hilltop looked much the same as before. The only difference was a carpet of stones, the remnants of massive boulders thrown at the Heirs. A few Questors were standing around, some vigilantly watching the sky and others slouching and chatting without a care in the world.
+
+Colborn stood at the very peak of the hill and gave the heirs a jaunty wave as they flew towards him, calling out in a friendly voice loud enough for everybody to hear. “It is good to be wary of spilling secrets during this war. Every word and move is already watched. You in particular will be examined to the angstrom." Then he broke out into a wide grin and threw his arms wide. “All because of your truly dominant presence on this battlefield! Achieving a dominant victory.” He brought his hands together in a rapid burst of applause, and the rest of the Questors turned to join in. Some of them looked grumpy, but they still clapped as the Heirs landed next to the short Questor.
+
+He didn’t even wait for the applause to die down before continuing, aiming his words as much towards an invisible camera as towards the Heirs. “Half of the enemy cleared by a single spell, and then slaying their champions in massed combat! Kamus of the Gold, killed in the middle of his proclamation of victory. Such deeds blind the mind’s eye and would not be believed without verification. Not since the Ending of Wrath and the Undying has a single group been responsible for so much carnage. You have won this war, and now you shall get your conclave. If mortals can achieve such success on the battlefield, they deserve to have their voices heard on the stage where true change can happen.”
+
+A new notification popped up, perfectly timed to coincide with the end of Colborn’s speech.
+
+The Polite War between the Ashen Accord and the Aleph Grid has concluded with an Ashen Accord Victory. All terms have been upheld, and the consequences have been assessed.
+
+Congratulations on your victory and your survival!
+
+Your contribution percentage has been assessed at 17.43% You contributed the most of any combatant on either side! Davrar will verify this claim in future dealings.
+
+Davrar applauds your success.
+
+Nathan blinked up at the message, then looked to Colborn. “Is there any reason to keep our contribution percentage secret?”
+
+“Exactly the opposite,” He said, gems glittering in his beard as his grin stretched wide. “Dazzle me!”
+
+Nathan looked around at the Heirs. “17.43%.”
+
+“14.04,” Stella crowed. “I killed most of them, but it couldn’t have happened without you softening the target.”
+
+“6.38,” Aarl said morosely, turning his eyes to Khachi and bracing himself for bad news.
+
+The wolfman looked like the picture of humility, but his satisfaction was obvious. “8.78.”
+
+A smile played at the edge of Sarah’s lips before she spoke. “I don’t know how these were calculated, but I hold the honor of 14.26% contribution.”
+
+Stella gasped in dramatic betrayal, placing a hand over her chest like she’d been mortally wounded. “How! I demand a proper scoring!” The rest of the Heirs broke out into subdued chuckles, and Stella pouted melodramatically before a grin and a chuckle broke through the facade. “Six parts in ten is pretty good, isn’t it?”
+
+“It is a deed to span the sky!” Sarya exclaimed, having arrived in the last few seconds through some kind of medium-range teleport. She walked up to the Heirs and almost gave Nathan a hug before aborting the motion at the last moment. “Now we can call the conclave. But first, a party!” She reached into her pocket and pulled forth a long table laden with food in a casual abuse of physics.
+
+The number of Questors on the hill multiplied by the moment, some teleporting in and others simply flying or running back towards the central area to join the swelling crowd. They cheered on the sudden appearance of food, and the party supplies grew spontaneously as other Questors contributed their own spreads or piled food and drinks from dimensional bags onto tables shaped out of the chunks of rock.
+
+“You have questions about the conclave,” Sarya said quietly, speaking directly to Nathan. “They will be answered, but later. For now, enjoy the glory of victory.”
+
+“What about levels?” Aarl asked plaintively.
+
+Colborn walked up, already carrying a wide glass of smoking liquid that had meat skewers sticking out of it. “There are no levels from Questor Wars, or else it would be easy for every Questor to climb into the upper tiers of level without exploring the wilds. Davrar does not reward our arranged games.”
+
+“But it does reward skill ranks and Developments,” Nathan said thoughtfully.
+
+Aarl chuckled darkly. “Davrar rewards risk, not achievement.”
+
+The short man shrugged. “So it does. Achieving skill ranks during wars is like achieving them in training, though it may be more so for mortals.” He waved around his glass of meat vaguely. “But do we wish to speak of details of the past, or celebrate the achievements that map the future?”
+
+“I want to know more about the conclave. It’s going to be close by and soon, right?” Nathan pressed.
+
+Sarya melted out of the crowd around them, returning now that Nathan was pressing the issue. “Yes, and yes. We will tell you all of the details and help you plan your presentation. Later. For now, enjoy your victory. You’ve crushed yourselves beneath a mountain of duty for long enough. Take this time as a well-earned break.” Her lips quirked. “Or consider it an opportunity to gather supporters to your cause.”
+
+If Nathan was being honest, schmoozing was the last thing he wanted to do right now. He felt mentally drained and slightly achy, and all he wanted was a nap and more information about the conclave so he could plan for it. He'd been in a state of moving from one thing to another almost since he'd arrived on Davrar, and didn't like the idea of taking a break without a plan in place. He looked back at the Heirs questioningly, wordlessly asking for their opinions.
+
+Aarl’s face broke out in a smile. “If partying is our duty, then I am on the right path! Now, where do I get a drink?” He joined a mass of happy Questors, yelling back to them over the crowd. “Think of the delicacies available. Truly, a feast for Questors!”
+
+Nathan followed along with a sigh, grabbing a glass of something that looked sweet and syrupy and, more importantly, wasn’t inherently magical. It was good, a strong floral note supported well by sweetness and herbal flavors. But it did nothing to fill the yawning void in Nathan’s stomach. He watched the Heirs engage with other Questors with a dour look on his face, though they all stayed within sight of each other. Aarl was chatting up a trio of Questors and gesticulating wildly, while a pair of young mages were gushing to Stella about her magic. Phyrne had found Khachi, and it didn’t look like she was grilling him so much as asking for a sermon. Sarah was talking to Vesh, who had produced a bent straw instead of taking off his helmet to sip his drink.
+
+A few people looked as if they wanted to talk to Nathan, but after one look at his face, they all turned away. He sighed internally and smoothed his expression, confronting what had him so off-balance. The core of the problem was that he was increasingly convinced there was no point to any of this. They were pretending that this was the way to solve Davrar’s problems, but every hint he’d gotten was that the problems with Davrar were impossible to properly solve.
+
+He’d met more Questors and come to understand their psyches a bit better. Some of them saw some of what he did, but most were just here for the fun of it. He didn’t think he could convince them to make significant changes to their plaything. But worse than that, he didn’t see another path. He’d thought about killing Questors permanently, but didn’t see how that would really work. He didn’t even know if that would kill them properly, or just eject them from Davrar somehow. Mass murder would make him feel better without solving the actual problem, and what did that say about him?
+
+“It feels like dancing on graves, doesn’t it?” came a voice to his side, and Nathan turned to see Colborn again. The Questor had finished his earlier dish and now carried a pair of small tumblers that had a couple of fingers of dark green liquid. “To celebrate with the authors of disaster,” he murmured, “and pretend the story ends here with a joyful ending.” He handed one of the tumblers to Nathan and took the fruity drink in exchange, tossing it off the hill with a flick of his wrist. “Drink it all at once.”
+
+Nathan eyed the shot of emerald liquid and then shrugged, raising it to his lips and tipping the small volume back. It burned, but it was such a smooth burn that he kept his head tipped back, not wanting to interrupt the warm sensation as it travelled down his throat and reached his stomach. Heat radiated from its path, suffusing his body with a comforting glow. Then he looked back at Colborn, who had finished his own shot. “What’s it called?”
+
+The Questor wiped at his beard with the back of his hand, then dabbed at his eyes surreptitiously. “Hero’s Regret. A friend of mine brewed it long ago and asked me to name it, right after a battle won and a war lost.”
+
+Nathan couldn’t help but chuckle, the sound emerging from the same ball of warmth as the drink. He looked around at the party, and it felt like they were celebrating the demise of his dreams. “Appropriate. What happened to him?”
+
+The Questor stepped closer to Nathan, avoiding touching him, but still isolating them in a bubble of privacy among the raucous party. “He was a mortal. He died in the Ending of Undeath.”
+
+Nathan eyed the glass, realizing he’d just drunk something that was probably older than Earth’s recorded history. Then he answered the Questor’s original question. “It feels hopeless. I don’t see how a Conclave could fix Davrar. Your rules - your entire society - are the problem.”
+
+The man nodded slowly, his face drooping with suddenly revealed exhaustion. “It is. But the choice is always the same. Either you do nothing, or you do something. We cannot fix this world with a single act, so we bide our time and seize the opportunities to make small improvements when they appear.” He lifted his glass in a loose gesture toward Brox, visible for a moment through the crowd as he spun another man across the grassy hillside. “The alternative is to curl inward and pretend that whatever you choose counts as virtue.”
+
+Nathan nodded slowly. The feeling of the hollow pit hadn’t subsided, but it was accompanied by the warm feeling left behind by the drink. “All that’s left is to try.”
+
+“Indeed. Your greatest victory might be bringing us old fools some hope, and rallying us back to the cause.” The jovial Questor said self-depricatingly, the jovial appearance emerging once more. “We’ve fought this battle before; we can guide you through the moves as needed.”
+
+“Thank you,” Nathan said. “For the drink, and the talk. And not using any skills on me. I know you have them.”
+
+That caused Colborn to guffaw. “You don’t scan as the sort to appreciate it. Remember why you act, but also that your life must be more than duty to the cause. Otherwise, you will crumble to dust.” He raised a hand in farewell, leaving Nathan behind holding an empty glass.
+
+Nathan looked down into the dregs of the green liquid that remained before looking up at the Questor’s departing back. He wanted to trust in Colborn’s words, to believe that the Questor was supporting Nathan as much as possible. But everything he’d just heard boiled down to one simple suggestion.
+
+Don't expect to fix the problem. Let me handle this. That’s what he said.
+
+Colborn - and Sarya - wanted to take over the Conclave from Nathan and the Heirs. He didn’t think it was malicious. They didn’t trust Nathan and his friends to handle the politics and were going to angle for small, incremental changes to Davrar.
+
+I can’t even say for certain that they’re wrong. But I'm not sure I agree.
+
+Permanent Talent 1: Magical Destruction 6
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 7282/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 829/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 2
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 5
+
+Forewarning 10
+
+The Truth of Magic 6
+
+Evasion 5
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+High-tier Disguise 10
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

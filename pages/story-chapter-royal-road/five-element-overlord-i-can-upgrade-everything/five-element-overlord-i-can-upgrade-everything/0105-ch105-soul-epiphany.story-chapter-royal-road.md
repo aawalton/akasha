@@ -1,0 +1,159 @@
+---
+id: de6788e9-06e8-51d4-befb-f605e0b32eba
+page-type-slug: story-chapter-royal-road
+title: "Ch105 Soul Epiphany"
+slug: 0105-ch105-soul-epiphany
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 105
+ownLength: 2234
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3721948/ch105-soul-epiphany"
+royalRoadId: "3721948"
+---
+
+I sleep for almost 2 whole days.
+
+The built-up stress of no sleep, no qi absorption, and also no true physique recovery after battling hundreds of armored lizards was more extreme than I thought it'd be.
+
+When I wake up, my body feels refreshed. There is enough natural qi coming out of this medium-grade vein to refill my dantian.
+
+While my spirit roots are incapable of being stimulated for further growth or saturation, they are still sturdy pathways for my meridians to suck qi from the air into my dantian.
+
+Just the act of moving and maintaining my cultivation while in battle drains small amounts of qi that must be naturally restored.
+
+Even my physique feels more settled. The mortal-grade ring acts as a constant guide rail, allowing my perfected-stage physique to fluctuate and settle while safely countering any harmful tension to a calm state.
+
+Without it, I would be constantly waking up every half hour to manually stabilize it myself with my soul as a temporary anchor point.
+
+That is not to say my soul isn't being stimulated in my sleep. My Jade Purity Soul Scripture slowly cycles automatically. There is no physical damage, but the misty white orb deep within my consciousness feels slightly naked now that the soul gum artifact was destroyed by the aura of that crow...
+
+Its golden eyes appear in my dreams quite a few times as I try to comprehend what it really was.
+
+A loud knocking sound finally wakes me up from my deep sleep, alerting me to the ten extra upgrade cards in my notifications waiting for me to collect.
+
+"Li Hao! I know you're in there! I've come with your weekly payment, you better have that firestone ready that I'm owed!"
+
+Lan Xin's voice hits my ears at the same time as the morning sun.
+
+I sense her right outside my front courtyard, but she looks up to the sky with crossed arms and an overly confident expression.
+
+The serpent in her soul is moving around more than usual, like it is excited, bleeding through into the bright-eyed woman's stance. Her foot taps on the ground in anticipation.
+
+I pull out an inferior fire stone and upgrade it on the spot before getting out of bed. Then, I think about something and pull out another two dull dark rocks to upgrade into perfected tier 1 fiery treasures.
+
+"Coming! Give me a second!" I reply while making my way through the central rooms and out to the front courtyard overlooking my fields.
+
+Lan Xin pulls out a large black rectangular case and clicks it open the second I walk outside.
+
+"I couldn't fit your full two hundred thousand stones in rings without it being a hassle. I had a custom containment case crafted. Honestly, I always wanted to get one of these but never had a good enough excuse."
+
+She clicks it closed and tosses it to me.
+
+I pull it into my storage and examine the device. It feels like dozens of high-quality spatial rings are linked together with a single imprint array.
+
+It does not feel very sturdy, but it can certainly store a lot. These stones only come close to half its limit. I easily pull them out and store a perfect-grade firestone in their place, then toss the black box back to Lan Xin.
+
+She pulls out the stone while I examine her aura at closer range. She's still at the late stage of the 11th level of qi refinement. One stone might be enough to push her over the edge to the perfected stage, but more would certainly be better.
+
+Without looking at the stone for more than ten seconds, her spirit beast wanders out from her chest, slithers down her arm, and eats the fiery red rock in a single bite, retreating into her skin moments later.
+
+"Very well then. I will see you next week with the same amount of stones. And just so you know, I added a low-grade security barrier around the entire outer perimeter of the plot. It does not do much in true defense, but it will keep the ambient qi coming off the current veins from drifting away from the property. Anyone illegally flying above will not sense anything out of the ordinary," she remarks, then bites her lip instead of turning to leave.
+
+"Is there anything else I could do... to get just one more stone? If I concentrate, I think I might be able to hit the perfected stage of level 11 this week."
+
+I pull out another hot red rock.
+
+With my newly strengthened physique, I'm able to hold it in my outstretched palm without immediately feeling the intense burn. Though, it is still not comfortable.
+
+"Sure, answer me one question. It's one I asked you before, but you declined to tell me... How exactly did you break into the 11th level of qi refinement? Was it through your own natural breakthrough using the firestone, or was it a byproduct of your spirit beast's breakthrough?"
+
+She hesitates, but soon after puts out her hand, and I throw her the stone.
+
+"It was a combination... These stones, they have a higher purity than any perfect-grade stone the sect has ever granted me. I don't know what it is, but they feel like they were formed in a much different way than normal firestones found in the ground in this county. It's like... they're actually perfect. I never even knew there was anything past the 10th level of qi refinement, but after touching a stone like this, it is so obvious... I've even been in the presence of a Tier 2 firestone before, it may be more powerful, but it does not have the same sharp purity, or, maybe purity isn't even the right way to describe it. I don't exactly know what the difference is, but it is extremely noticable."
+
+I show a thin smile, looking deep into the firestone in her palm as the serpent comes out to slither down toward it again.
+
+A faint glimmer of golden heavenly aura flashes in the very center of the stone.
+
+Her serpent eats it whole, stowing it away into some kind of internal physique storage, and Lan Xin continues.
+
+"My soul-bound beast has an even higher sensitivity to the fire element, and our physique is exceptionally good at absorbing their power. She broke through before I did, reaching the 11th level through instincts alone. It created a minor soul fracture that I could follow. Even without fully knowing how, I can follow behind her path to simultaneously heal the fracture and break through to the 11th level myself. I'm even more confident that we can break through into the 12th using the same method."
+
+Lan Xin's eyes sparkle with orange and yellow flames as I contemplate her words.
+
+It is slightly similar to my breakthrough with Little Red, but far more convoluted.
+
+I pull out a 3rd firestone.
+
+"If you want another, I have one more question. This one is far more important. What does my soul look like to you...?"
+
+I toss the glowing red crystal her way.
+
+In the same instant, I pull off my physique suppression ring and stop passively using my Illusory Demon's Concealment Art.
+
+The full strength of my 5th level of qi refinement and perfected-stage mortal-grade physique is on display, because I want a completely honest answer out of her.
+
+Lan Xin's pupils shrink as she catches the firestone, and I watch her skin begin to flicker with flames as a natural defense mechanism. Her soul starts to twist and churn in confusion, but she still manages to keep a straight face..
+
+"What are you talking about? How would I know what your soul looks like?"
+
+"I can feel your spiritual senses reaching me, just look... How does my soul appear to you?"
+
+My purpose in this is to know if she can see two souls, one from this original body, and the extra one that has merged with it. Afterward, I can do some tests to see if there are any major tells or fluctuations when I lie. If I'm as easy to read as she is and don't know it, I have quite a bit of work to do.
+
+However, I do not get the response I'm looking for. Lan Xin's face starts to turn pale, and her hand holding the stone trembles.
+
+"I don't know. I can't answer that question. Even though I have an innate spirit-grade physique, I can't see another cultivator's soul at this distance. I would have to reach at least the perfected stage of foundation establishment, or maybe even a golden core to look that deeply into someone from this range."
+
+Her gaze becomes concerned, turning down to the stone in her hand, clearly not wanting to have to return it.
+
+"Seeing one's soul is extremely intimate. Even physical skin to skin contact is not always enough for qi refiners to see into someone's soul."
+
+My own expression shifts.
+
+"Are you certain? No qi refiners... or even foundation establishment cultivators can see others' souls without contact...? What can your spiritual senses even see then?"
+
+Lan Xin gulps quietly. "For the average cultivator, of course it would be impossible. There are certain unique soul based physiques that might be hyper sensitive, but at this range they would have to still be at least a foundation establishment to see one's soul. Like everyone else, all I can see is the density and efficiency of the qi your dantian naturally releases. My physique classification is complex, but I can still sense the vibrations of physical types like yours quite well."
+
+Every interaction I've ever had with cultivators over the last few months replays in my mind.
+
+I always assumed people could not read my emotions solely because of my Illusory Demon's Concealment Art, and the calmness of my soul because of my unique cultivation technique.
+
+However, it appears no one was even trying.
+
+The swirling patterns in Lan Xin's chest that allow me to understand exactly what she's thinking every moment... This is not normal at all. Just because some cultivators could sense my Martial Physique, I assumed everyone could sense souls with the same accuracy as I could, but that is not the case.
+
+My understanding of this cultivation world has just been flipped upside down. For some reason these common rules do not apply to me.
+
+A wide uncontrollable smile forms on my face as I wave away Lan Xin's outstretched hand.
+
+"No, please, take it. That was actually even better than the answer I was looking for. Your insight has been very helpful. Good luck in your breakthrough."
+
+I slip my ring back on to suppress my physique to the mid stage and cover a few levels of qi cultivation again.
+
+A satisfied serpent's mouth chomps down on the stone just seconds later.
+
+Lan Xin's smile breaks through as she turns away and pulls out her sleek flying vessel. "Thank you, see you again soon." She flies off without looking back.
+
+I stare off at the rice fields this morning pondering this new information for a long time. My spirit crane lets off large clouds of blue and white mist while circling through the air. Over half an hour passes before it finishes up all of the plot's fields and returns to this small peak.
+
+The deep blue pigment has grown to cover both of its wings and a large portion of the formerly white crane's torso.
+
+Whoever the previous owner of this crane was truly malnourished it. The medium-grade water stone I granted it two days ago has completely elevated its aura. The heavy rain over these fields is at least ten times as dense as I remember it being the first day I settled in here.
+
+I toss the crane another medium-grade stone, and it happily accepts, flapping its long wings a few times in glee before settling into a sleeping position to refine it.
+
+Just two of these medium-grade stones cost 100 contribution points, the total payout that this entire spirit field will reward after 3 months of labor. It makes sense why no one would bother nurturing a crane from the sect that isn't even theirs.
+
+I sit and watch the sun rise for a few hours, beginning to see servants and stewards all wake up and begin their work on the fields down below too.
+
+My plan for some of the leftover eggs is to grant them to my workers. They will not have to hire out other stewards to control pests in the future. I need to find some of the necessary earth element talismans and soul contracts for them to use too.
+
+While the sun rises to almost hit noon in the sky, I recharge my azure lightning attack talisman, new perception expanding jade pendant, and my anchored qi sword slaughter formation. There are still about a hundred fifty thousand stones resting in my storage, making me feel far more secure.
+
+Finally, the spirit crane's eyes open, and it stretches its wings with satisfaction. The blue markings have grown even larger.
+
+It walks over to me and bows its head.
+
+I smile back. "Glad you've got some rest, I'll need to ask you for a long flight to pick up a few things. Could you take me to the Red Pine Market?"

@@ -1,0 +1,131 @@
+---
+id: 94c0692a-f35e-5a45-a1da-42577c20b396
+page-type-slug: story-chapter-royal-road
+title: "Chapter 318: An Ancient Art"
+slug: 0355-chapter-318-an-ancient-art
+partOf: dungeon-of-knowledge-complete
+position: 355
+ownLength: 2443
+unit: words
+ownProgress: 2443
+publishedAt: 2025-07-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2454095/chapter-318-an-ancient-art"
+royalRoadId: "2454095"
+markedReadAt: "2026-06-29T20:22:36.882Z"
+---
+
+“So how does it work?” Ali asked, attempting to lean across the cluttered book-laden table to peer at the delicate runes tattooed upon Rezan Jin’s weathered back. Eventually, she tossed decorum to the winds and levitated herself up and over the tabletop to get a closer look. It wasn’t exactly proper library etiquette, but then neither was stripping half naked to show off your chest and back tattoos. Besides, it’s my library. I get to make the rules.
+
+The Elder’s tattoos glowed softly with dense soul-affinity mana that slowly circulated through the construct, pulsing in time with his steady, slow heartbeat. Each of the tiny runes had been exquisitely, invisibly inked on his weather-beaten skin – visible only because she could see mana. The runes and glyphs were written in the same script as the ancient texts; something she had only ever seen in the Nine Paths of Ahn Khen. It was quite an impressive work of art, yet wholly functional in the same way as her own runic circle magic.
+
+Rezan gestured in deference to the vastly more ancient Troll scholar sitting at the head of the table who was at that very moment scratching his armpit with his walking stick, neither assuming the task of explaining, nor making any move to cover up the work Ali was studying.
+
+“So, you finally wish to accord me the appropriate respect?” Val’korr said, surprisingly speaking in the Ahn Khen language, his tone humorous, but with a slight edge that hinted that he might be actually annoyed and simply using humor to cover it.
+
+Grumpy, Ali thought, confirming her impression of Val’korr. The ancient Troll was a wealth of knowledge and experience, but his personality seemed more than a little prickly. How he had lived so long and kept such insecurities escaped Ali, but she was glad the two of them had finally agreed to sit down and teach her a little more of this strange but beautiful branch of runic magic.
+
+“I bow to your greater experience,” Rezan said, giving no hint that he had taken any offense, nor even noticed the subtle thread of annoyance in Val’korr’s voice.
+
+The ancient troll glared at him for a few moments more before turning to answer Ali’s question, presumably deciding not to push it. Ali personally decided that the fact that Lira was giving him an unimpressed look from the other side of the table may have had more than a little impact on his decision to behave.
+
+“The unique difference between runic tattoos and most other applications of runic magic is that it makes use of the mana of the canvas, so to speak,” Val’korr explained, his voice instantly taking on the tone of an experienced lecturer, suddenly transporting Ali back to her days at the university, listening to professors drone on about their favorite studies.
+
+“That means, you need to match the ink, and the runes, to the mana affinity of the recipient,” Val’korr continued, his tone heavily underscoring his statement of the obvious.
+
+“Is that like the difference between crafting a wand with magicite and a rod that needs to be powered with an appropriate mana affinity?” Ali asked, recalling Donella’s lessons and her now-extensive efforts to practice the craft. Rods did not require a magicite power source, but then the affinity and the spell inscribed had to match the user’s mana. Magicite was the trick to allowing anyone to use Fireball.
+
+Val’korr glowered at her for a moment, annoyed that his momentum had been derailed, and then grudgingly admitted, “Yes, that’s an apt analogy. Once complete, the inscription takes a full gear slot, and a reservation of the recipient’s mana to power it.”
+
+“Isn’t that a significant disadvantage, then?” Ali asked, curious why such powerful Trolls as Kir’vella, Joraa, Kir’mogan, and Tol’brekk would give up so much to instead use a tattoo. Or for that matter, why Rezan had done it.
+
+“Tattoos have several unique advantages,” Val’korr explained. “Firstly, the enchantments do not need to be crafting enchantments, they can be anything you know, meaning you have access to more choices for skill-based effects. Secondly, the tattoo will grow in level automatically, powered by the mana of the recipient. As I’m sure you’re aware, this can be an incredible advantage if you cannot upgrade your gear frequently.”
+
+“I see, that’s not too bad,” Ali answered, considering his words. One obvious implication was she would be able to use her library to research many interesting enchantments for gear, giving her a wealth of unique choices, provided she was able to master the technique.
+
+“There is one other advantage that the Trolls don’t particularly care about,” Rezan said, interjecting for the first time. “As you may have noticed, I’m a monk, and I’m using the body armor gear slot for a runic tattoo inscription.”
+
+“Oh,” Ali said, suddenly getting it. Monks couldn’t use body armor, but somehow the runic tattoo was different. “How does that avoid your class restrictions?”
+
+“Trolls seldom take monk classes, and so they don’t necessarily care but, unlike crafted body armor, runic tattoos do not include the basic defenses of armor, evasion, or resistance – they must be explicitly added if desired. So, much like a cotton shirt, these tattoos don’t count against my unarmored requirement,” Rezan finished. “Elder Inaya of Bakahn Village was the artist who inscribed mine. Unfortunately, she is with the Ancestors now, otherwise I would have already commissioned one for Malika.”
+
+At his words, Malika’s eyes widened in surprise as she turned from the nearby table where she was studying to stare at them. Val’korr snickered as if oddly pleased by her reaction. Rezan’s eyes narrowed briefly as he glanced at the cantankerous Troll, but he said nothing further.
+
+Ali had mostly approached the idea of runic tattoos with an academic curiosity, fascinated with what she had seen from the Trolls, but suddenly Rezan had given her a powerful reason to master the skill. Even if nobody else wanted one, she would learn it for Malika’s sake.
+
+“Have you learned Calligraphy already?” Val’korr asked, taking charge of the conversation once more.
+
+“I did,” she answered. It was perhaps particularly apropos that it had been Malika who had taught her the skill; she would be the one who benefited most from the result.
+
+“I counsel caution,” Val’korr said, his eyes meeting Ali’s with a suddenly serious expression. “Like many advanced crafts, the inscription of a runic tattoo takes a lot from the creator. It will most likely cost you some small measure of experience for each one you inscribe, and if you’re not careful, you can even lose levels doing this. Do you still wish to learn?”
+
+It costs my experience? But his words explained the presence of experience in the cost of her witch doctors’ skill description, so she had somewhat expected it. Technically, she could most likely circumvent that requirement by using her witch doctors, especially now that they could earn experience, but runic script was her dream, and delegating to her minions would prevent her from unlocking advancements. There would be time enough to explore that path later. She would need this knowledge to grow her skills, and if she could help Malika get stronger, it would be worth sacrificing a little of her experience. I can always earn it back. “Yes,” she said, “I will learn.”
+
+“Very well, bring one of your blood magic users, we will begin there,” Val’korr said, producing a glass vial from his storage enchantment.
+
+Ali called her Blood Shaman over.
+
+“How may I serve, Seeker?” the shaman asked.
+
+“I require some of your blood,” Val’korr said, offering the vial.
+
+Ali nodded to her.
+
+The shaman quickly slashed the back of her own forearm, and the thin blood ribbon swirled in the air, guided into the vial by her blood manipulation skill. Moments later, the flow ceased, the shallow wound closing up under the influence of her potent natural regeneration.
+
+“Troll blood can be used as ink if you cannot find an alchemist capable of making high-quality affinity ink, unlike with humans,” Val’korr said, looking smugly at Rezan.
+
+“A fact that the Trolls never seem to tire of waving in our faces,” Rezan answered.
+
+“What about Fae blood?” Ali asked. She was obviously not human, but she had no idea if her own blood could work.
+
+“I… actually I’m not sure,” Val’korr answered, his face registering puzzlement, curiosity, and even surprise all at once – as if he had never considered the question before. “Something we could experiment with later,” he muttered. His expression shifted back to normal, and he produced a delicate needle made from what looked like bloodsteel.
+
+“The process is superficially similar to Calligraphy with a pen, but you will use a needle to insert the ink under the skin. Like normal imbued runework, you must charge the ink with mana during the process, but the mana you use must be the mana of the recipient, not your own. The only exception is when you share an affinity.”
+
+“How is that achieved?” Ali asked, eyeing the needle with some measure of trepidation – it was rather large and pointy.
+
+“I was just getting to that. You can control the recipient’s mana with your own, guiding it into place, as if coaxing or channeling it. Watch with your mana sight while I demonstrate,” he said, dipping the strange needle into the blood and beginning to puncture the skin on the back of his own hand, moving the needle rapidly.
+
+Ali stared in fascination, almost forgetting to enable her study trance as she watched the ancient Troll Seeker slowly formed the rune on the back of his own hand, the steel needle a blur guided by the delicate flows of his mana, pausing only briefly for him to refresh it with more troll blood. Within minutes, the tiny rune was completed, an exquisite inscription which flared momentarily before it faded away.
+
+“Why did it expire?” Ali asked, curious. The back of his hand still showed the outline where he had inscribed the tattoo with the troll blood, but it was rapidly fading.
+
+“It’s not soul-affinity ink, so my mana doesn’t take to it as well, and it’s not a full enchantment, so there is no point in reserving mana for it – it wouldn’t do anything,” Val’korr explained. “Now you try,” he said, handing her the needle. “I recommend practicing on your minions.”
+
+Ali looked dubiously at the needle and then at her Blood Shaman, but her minion unhesitatingly placed her hand on the table in front of her.
+
+“It will work better on her too, she has blood affinity,” Val’korr explained.
+
+And then, Ali began.
+
+It had all seemed remarkably straightforward when she had watched Val’korr’s experienced hand guiding the needle in a blur of mana and motion, but Ali rapidly discovered that there was vastly more to the skill than she had initially expected. For one thing, she had no skill to guide her hand and needle, so she was painfully slow. Secondly, by far the trickiest part of the skill was coaxing the blood shaman’s mana into the formation of the rune. Ali almost gave up – blood magic was almost invisible to her given that it operated on life, rather than more normal mana, and that complication way more than offset the advantage of the ‘ink’ being compatible with blood magic.
+
+“Blood magic is invisible to me,” Ali grumbled. “Perhaps we should have started with something easier?”
+
+“The challenge will make you better,” Val’korr answered, blithely unsympathetic to her concern.
+
+Ugh, he’s so insufferable. But Ali would not be defeated, and her breakthrough finally came when she had the inspiration to place her awareness into her Blood Shaman and observe the blood magic with Scent of Blood and Blood Manipulation instead of relying on her woefully ineffective mana sight.
+
+That was not the only thing though, guiding the recipient’s magic was a skill she had no experience with, and she felt clumsy and awkward. But on top of all of that, she had to layer and structure the rune, blending her understanding of Runic Script with her still-unfamiliar Calligraphy skill, using the awkward implement of a bloodsteel needle to ‘draw’.
+
+Hours passed as she wrestled with it. To Ali’s surprise, Val’korr and Rezan both sat with her the entire time, patiently offering tips and advice as she eked out her progress with the speed of a stalactite growing one drip at a time. She had judged the Troll Seeker as grumpy and irritable, but he demonstrated extraordinary patience and focus in his teaching, matching even her stubborn determination to master the difficult skill.
+
+The library had grown silent and empty by the time her breakthrough came.
+
+Runic Script has reached level 52 (+3).Calligraphy has reached level 5 (+2).Requirements met for skill advancement.Mentor: ClarenceRunic Script has reached at least level 50.Synergy: Calligraphy has reached at least level 5.Received master-level instruction in runic tattoo technique.Studied at least five runic tattoos.Studied one runic tattoo higher than level 100.Created ten functional runes using tattoo techniques.Runic Script gains Runic Tattoo(You can tattoo runes imbued with mana)Runic Script – level 52You are proficient with runic magic.Languages: Ancient Dal’mohran, Elvish, Dwarven, Troll.Mana: Inscribe a runic circle with your mana. Reserve: by level.Mana: Imbue compatible materials with your runic magic, adding permanence, durability, power, and other properties drawn from the chosen material, allowing limited crafting of magical items and constructs.Mana, Experience: Create runic tattoos in the affinity of the recipient, using appropriate tools and ink. Domain: Runic magic written within your domain may be supported by domain mana and will not decay.Arcane, Domain, Knowledge, Intelligence
+
+“I got it,” Ali said, her voice weakened substantially by exhaustion. She had not expected it to take quite this long, and she had been running her Study Trance more or less continually the entire time. She had a splitting headache to go with her advancement.
+
+“Congratulations,” Val’korr said. “Next, we will work on creating a full construct.”
+
+“And I can teach you the rune translations for Ahn Khen,” Rezan said.
+
+Ali almost groaned out loud, all she wanted to do was go to bed.
+
+“Gentlemen,” Lira said, interrupting the excited Troll and Elder with tea and a small selection of cookies. “I think your pupil will be much more receptive in the morning after some good sleep.”
+
+Ali wanted to leap up and hug her, but her body felt way too exhausted, and so after finishing her tea and a cookie, she slunk off to bed and sunk into dreams of floating runes that were somehow imbued with stealth skills, hiding themselves from her.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

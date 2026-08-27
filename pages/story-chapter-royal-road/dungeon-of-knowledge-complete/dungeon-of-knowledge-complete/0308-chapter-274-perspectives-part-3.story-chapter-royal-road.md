@@ -1,0 +1,177 @@
+---
+id: 4cf76f56-832a-5898-b119-b05ef3123895
+page-type-slug: story-chapter-royal-road
+title: "Chapter 274: Perspectives (Part 3)"
+slug: 0308-chapter-274-perspectives-part-3
+partOf: dungeon-of-knowledge-complete
+position: 308
+ownLength: 2654
+unit: words
+ownProgress: 2654
+publishedAt: 2025-06-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2342451/chapter-274-perspectives-part-3"
+royalRoadId: "2342451"
+markedReadAt: "2026-06-29T20:21:43.467Z"
+---
+
+The maelstrom of roaring mana hammered through her brain like an all-consuming torrent on its way to being devoured by the vortex of the Shrine of the Ancient Grove. And that was just what was happening nearby; Ali’s mind was crammed with every single ripple or wrinkle of mana happening across the full expanse of her domain. She gasped, drowning under the overwhelming pressure of the now vastly denser mana that poured relentlessly from her plants, even cascading up into the streets of Myrin’s Keep above.
+
+“Help…” she managed, gasping again.
+
+You have gained Clarity.
+
+Malika’s magic seared into her body, and with it came the sudden serenity of the eye of the storm. She breathed again, suddenly able to think as the Touch of Clarity fortified her mind.
+
+“That bad?” Mato asked and Ali shrank inwardly at the sight of the worry in his eyes.
+
+“Yes,” she said. “It’s too much all at once.” Malika’s magic held it at bay, but not by blotting it out. She could still feel every little thing, but somehow Touch of Clarity allowed her to find space for all of it.
+
+“I’ve got you, Ali,” Malika said, squeezing her shoulder gently.
+
+“Thanks.” I’m going to have to figure it out, she thought, but it would be a while before she was ready to face the deluge again.
+
+Instead, she reached up and took Lira’s hand and allowed her to lead the way back to the library, with her concerned friends gathered around her. “It’s ok, guys. I just need time to get used to it,” she said, keeping her fears to herself. It wouldn’t do to worry them unnecessarily, but it was so much more overwhelming than the first time she had learned to see mana. Hopefully, getting away from the shrine as it tried to replenish the two million mana she had burned would help.
+
+Malika’s hand brushed her shoulder, pulsing healing magic through her, rippling outward in a shimmering, almost invisible blue-white sphere to replenish her Touch of Clarity, and Ali smiled up at her gratefully. I’ll be ready to try again in a bit. I promise. Although she hated passing out. Just a few more minutes.
+
+They walked slowly, matching the pace she could manage while winding their way through the forest before Ali drew to a halt, staring at the flower garden she and Basil had planted.
+
+This… something is different.
+
+“Ali?” Malika asked. “Something wrong?”
+
+“I’m… not sure,” she answered, studying the dense flows in the sparkling crystalline sea of mana that was her domain. It wasn’t just the additional density from her tier-up. Something is… different. What is it? Whatever it was, the effect was subtle. She studied it closely, trying to get used to her vastly different sense of mana while her friends glanced at one another, and then it came to her. Many of the flowers Basil had gifted to her had inherent mana affinities: the Arc Lilies sparked with lightning magic, the Mystic Bluebells effused the cryptic purple of divination mana, and the newly acquired Lunaré’s Tears shone with holy magic. In the background, the beds of Peacebloom flowers she had planted for Malika shone with the same magic she wielded.
+
+But the difference was striking, so obvious once she saw it that she couldn’t imagine how she had missed it at first. Where before her domain would be suppressed by the presence of an incompatible mana type, it now easily wove them all together in a seamless tapestry. Each of these little flowers was now contributing to her domain instead of draining it. Somehow, the power of lightning-affinity mana pulsed, incorporated into the crystalline lattice of her glittering arcane mana as if it had always belonged.
+
+“Hey, Ali,” Mato said, catching her by surprise by the tone in his voice. “You’re just staring at the flowers.”
+
+“Oh, sorry. The mana is different,” she explained. “My domain is using all of the affinities. It just surprised me, that’s all. We can go on.” She turned and began to follow again as she searched her domain with her powerful new Arcane Insight, fortified by the stabilizing influence of Malika’s Clarity. Deep in the sewers, she searched out the Forest Amanita mushrooms she had planted for the adventurers to find, observing that they now bolstered the local region of the domain with poison-affinity mana. Down by the lake, the light-affinity mana emitted by the stand of Radiant Larches was once again being absorbed into her domain as easily as it took Nature and Arcane magic, fortifying the weave and enhancing it. Even the deathly patches of Blackened Deathcaps Seth had requested, and the Brown Stonecaps at the back of the Timber Wolf lair were contributing their affinities to their local stretches of domain.
+
+No longer a tricky balance between her affinities and fire, the entire entrance hall to the ruins of Dal’mohra where she had created her Fire Mage boss blazed with intense domain mana, vastly more potent than when she had last seen it – and the majority of it was fire affinity from the boss’s Affinity Aura and all the Fire Grass she had planted – and yet her domain easily wove itself from the searing red of the angry affinity.
+
+“Adaptable Mana,” she murmured. It was one of the big changes she had earned in her evolution – an update to Domain Mastery that she was only now beginning to appreciate.
+
+“What?” Calen asked.
+
+“I’m sorry, I think I’m likely to be an invalid for a few days,” she said resuming walking, belatedly noticing she had stopped again. She systematically scanned her domain, finding that her advancement in mana had applied to every corner of her dungeon. “I know you all wanted to discuss plans – and one of those is to get you guys your evolutions. You’re so close, I can’t wait!”
+
+Calen and Mato chuckled at her enthusiasm.
+
+“Too right, but before that, downtime would be good for me too,” Malika said. “I would like to heal up from the life and stamina drain before we tackle the mines again.”
+
+“When did you get drained?” Ali asked, shocked and ashamed that she hadn’t noticed her friend’s injuries.
+
+“When I healed Lyeneru,” Malika answered. “That black beam that took out your minions so quickly was a spell called Decrepify, it drains health and stamina and even attributes. That’s why Lyeneru is so messed up.”
+
+“Ok, rest time it is,” Ali said. She recalled Lyeneru mentioning the lich’s Decrepify spell, but she had not realized Malika had been hurt by it as well.
+
+“I’m going to take Lyeneru’s report to the Pathfinders Guild in Ciradyl, and make sure the council is warned about the danger,” Calen said.
+
+“Good idea,” Val’korr said.
+
+“Let me make you a copy of my notes before you go,” Ali answered. Despite the conversation, she was unable to keep her mind from roaming her domain, feeling out her new senses. Finally, she settled on the sewer entrance near the guild, so choked up with trash from her industrious Kobold rogues that the adventurers entering her domain were struggling to climb down the ladder.
+
+I may as well try it, she thought, activating her Deconstruction remotely. It felt a little odd, but as soon as she trusted her intuition, the pile of junk began collapsing from within. The sudden cloud of unbound mana motes billowing up and out of the rapidly shrinking pile startled the group on the ladder. Her Grimoire appeared automatically and began inscribing minor updates to her metal and wood imprints as she destroyed several days’ worth of the town’s discarded junk. I should send them to scour the other cities for a change, she decided. She had teleportation circles to Vertias and Volle, and perhaps she could gather something new from there.
+
+“I think I want to study a bit,” Mato said, getting a cough from Calen as he choked in surprise.
+
+“Study? You?” Calen asked, incredulity on his face, and Ali had to smile.
+
+“Yes, is that so hard to believe?” Mato asked, pretending he didn’t understand what the big deal was about. “I mean if that’s ok with you, Lira?”
+
+“You wish to meld with the tree again, young druid?” Lira asked, her eyes sparkling with suppressed mirth.
+
+“I thought it might be worth it before I reach my evolution,” he said.
+
+“You speak with wisdom,” Lira said, smiling in approval.
+
+Mato tried not to show it on his face, but Ali could tell Lira’s praise had touched the big Beastkin’s heart.
+
+“Maybe we can also check in with the crafters,” Ali suggested. “Mato, you could probably use a new set of armor by now, and I want to talk to Lydia about this Frostweave.”
+
+“I have a million things to sell, Weldin is probably going to flip,” Malika said, her eyes dancing with amusement.
+
+As Ali picked her way between the massive chunks of stone – the ruined remains of the library doors – she reached out with her new deconstruction and turned it all into mana. There. Much cleaner. She would need to come back and remake the doors, but that could wait till she felt better.
+
+You have entered the Grand Library Arcana. All Learning and Knowledge magic is enhanced by 10%
+
+As they all finally entered the Grand Library Arcana, to the curious stares of several adventurers who looked like they had been studying, the roaring howl of mana suddenly ceased as her shrine finally filled.
+
+“Wow, my shrine just finished filling two million mana,” Ali said, astonished at just how fast it was. It couldn’t have taken them more than fifteen minutes to reach the library on foot, and yet it was already done.
+
+Her notification chime interrupted her. What? What now?
+
+Requirements met for shrine advancement.You have unlocked Adaptable Mana.
+
+Sufficiently dense domain mana achieved.You have created three or more substantial domain regions containing different mana affinities. Shrine has been fully recharged. Shrine of the Ancient Grove gains Domain Affinity Biomes.(In addition to unlocking latent affinities, the shrine can assign any affinity that has a significant presence in the domain, if compatible with the recipient. Available: Arcane, Nature, Fire)Accept this advancement?
+
+“Oh, this looks amazing,” Ali said, studying the advancement quickly before accepting and sharing it. “My shrine can grant arcane, nature, and fire mana affinities now, even if they’re not latent.”
+
+“The guild is going to love that,” Malika said.
+
+“I can also add new ones if I plant enough of the affinity,” Ali said. Fire had been included because of the large number of fire-affinity plants she had grown near the entrance to the Emberforge Mines and in the Dal’mohra city entrance hall. But it seemed that her advancement would allow her to expand the choices relatively easily, provided she created areas with dense amounts of other affinities. Her mind instantly went to the ice affinity orchids she had learned.
+
+“I can help with that,” Mato offered immediately. “You could plant that blood moss. I’m sure the trolls will love that.”
+
+Val’korr stared at him in surprise.
+
+Ali pulled up the description of her shrine to check.
+
+Shrine of the Ancient GroveAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: Aliandra AmarielMana Siphon (Active).Mana: Unlock class experience.Mana: Assign latent or domain mana affinities. Mana: Unlock alternate classes.Mana: Class evolution.Owner’s Mana: Recharge the shrine’s mana reserve. 3,246,250/3,246,250Shrine – Artifact
+
+“You probably need to check in at the guild again,” Malika said. “I’m sure Vivian wants to send a few more candidates through the shrine by now.”
+
+“You share the shrine with the town?” Val’korr asked curiously.
+
+“Yes, it helps grow the town’s Adventurers Guild and the crafters and artisans too,” Ali answered. I wonder if I need to upgrade the defenses, too? It’s probably a good idea. She shook her head slowly. I’ll need to. The stronger it gets, the bigger a target it’ll be.
+
+“Would you offer the service to Aman Rak? We no longer have our shrine or home, and I believe Tarek was ready for his class,” Val’korr said, and Ali could see it pained him to have to ask.
+
+“Of course, Seeker, it would be an honor to help,” she said, grateful for the many ways to express respect in the trollish language.
+
+***
+
+Ali sat quietly at the table, copying books for Ryn while her friend sat reading. Malika hadn’t left her side for several hours, healing her constantly to refresh Touch of Clarity.
+
+Every ten to fifteen minutes she would attempt to face the full deluge of information from her passive perception skill, only to fail a few moments later and beg for Clarity again. But she was getting better – the shrine quietening down had helped a lot, and she had worked her way up to enduring it for a full thirty seconds by the time she realized she was receiving multiple sensations.
+
+She wasn’t certain, but it felt like Sage of Learning was working continuously in the background, but she wasn’t losing any mana to it. Is it consuming domain mana somehow? The sense was undeniable – once she had grown more accustomed to the much louder mana sense, she had begun to feel the prickle of information flowing and merging within her mind, only it seemed to be coming from all around her.
+
+“One more time?” Ali asked, preemptively bracing for the dreaded onslaught, but knowing she needed to expose herself to it otherwise she would be dependent on Malika forever. Her friend would need to sleep at some point. Clarity faded, and the full force of her domain crashed down on her, but this time she tried to focus on the sensation of information. She clung to it like a lifeline, trying to trace it to some sort of origin.
+
+It was filtering in from all around, but some directions seemed to be more noticeable than others. Beside her, Ryn turned the page and made a quiet exclamation at something written there, and the sense of information abruptly intensified. Suddenly stronger, she was able to pick it out from the background of dense domain mana, realizing that it was flowing from Ryn directly to her, making the golden lattice vibrate.
+
+Then, her notification chime surprised her.
+
+Reading has reached level 16.
+
+Huh? But I wasn’t reading… Momentarily confused, Ali glanced about, but when she saw Ryn smile, she put it all together.
+
+“Did you just get a skill advancement for Reading?” Ali asked.
+
+“Advanced Reading, yes,” Ryn said, still grinning. “How did you know?”
+
+“I just leveled Reading, too,” Ali said, suddenly realizing it must be the work of her unique Domain Tithe advancement. Sage of Learning established a tithe with everyone in the domain; a tithe affecting knowledge and mastery skills. Reading has the Knowledge trait. Ryn had just tithed enough experience to her from her skill up to trigger Ali’s skill to advance.
+
+She sat back, stunned by the revelation. She glanced about the library, taking in the half-dozen people now returned to their reading and studies. The whole dungeon… Every person in my domain is tithing little snippets of experience to me. Sure, it was limited to masteries and knowledge, but her mind boggled at the implications.
+
+“Hey, Calen,” she said, getting a sudden look from the half-elf. “Do you have any ideas to take advantage of this?” she said, sharing her tithe description with him.
+
+“What do you mean?”
+
+“I just got Reading experience from Ryn’s skill-up.”
+
+“I heard,” he said, but his face showed he didn’t quite get it yet.
+
+“I can see the tiny trickles of experience vibrating across the latticework of my domain from the adventurers down in the sewers, too,” she said, and suddenly, understanding ignited in his widening eyes.
+
+“Oh… oh, that’s incredible!” he exclaimed. “I have so many ideas!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

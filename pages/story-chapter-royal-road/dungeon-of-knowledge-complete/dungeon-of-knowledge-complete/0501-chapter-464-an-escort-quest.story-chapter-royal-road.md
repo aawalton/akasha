@@ -1,0 +1,211 @@
+---
+id: 0b99da26-54dd-5a31-a516-e4fc479f57ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 464: An Escort Quest"
+slug: 0501-chapter-464-an-escort-quest
+partOf: dungeon-of-knowledge-complete
+position: 501
+ownLength: 2984
+unit: words
+ownProgress: 2984
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2818126/chapter-464-an-escort-quest"
+royalRoadId: "2818126"
+markedReadAt: "2026-06-29T20:29:14.134Z"
+---
+
+Julian was going to die.
+
+He had been told some people saw their lives flash before their eyes in moments like this, but for him, he just felt an overwhelming sense of frustration. This was not how it was supposed to be. He had been so excited to finally reach bronze rank and earn his guild ring, and when Maddie and Hix had found this quest on the guild quest board, he had known for sure he was past the hump. He could earn money and help his dad pay off their debts, and one day, they would be able to afford a real house to live in. Finally. Joining the Adventurers Guild had been his only choice – a hard life fighting monsters for money, but an honest one.
+
+This is what I get for trying to pull my life out of the mud? Damn!
+
+He took another step backward as the three skeletons advanced upon him, clanking loudly as their rusted armor jiggled with their shuffling steps. Off to the side, Hix groaned in pain, a rusty spear impaled through his gut, and he hadn’t heard anything from Maddie since they had been ambushed.
+
+He tried to step again, but he found his retreat blocked, his back bumping against the cold marble of a cheap, crumbling mausoleum.
+
+With a shaking hand, he raised his sword and lunged forward at the nearest skeleton. The blade slipped between the ribs of the undead, screeching horrendously as it scraped along the metal remnants of decrepit armor, but then the handle of the rusty blade in the skeleton’s hand came down hard upon the flat edge, and his sword snapped.
+
+He stared at it in dismay, just a short stub remained in his grasp, while the broken pieces tinkled and clattered through the skeleton’s ribcage, falling around its feet. The flanking skeleton’s jawbone rattled as if mocking him, but it was the rusty war-pick swinging towards his head that had his entire attention.
+
+He ducked his head and raised his broken sword in one last futile attempt to defend himself from the heavy blow that never came.
+
+Instead, he heard a sudden, deep growl and a heavy crunch, followed by a twang and then several chimes.
+
+In trepidation, he raised his head, coming suddenly face to face with the largest Timber Wolf he had ever seen. He yelped in surprise. The wolf looked down on him, and then suddenly licked him across the face with a tongue the size of a washcloth.
+
+“Enough, Cami, leave him alone. Go find the others.”
+
+The woman’s voice was calm and confident, and the wolf bounded off, excited to do her bidding. Julian turned to find himself staring at a tall blonde woman, wearing forest-green troll-made leather armor that covered her from head to toe and sporting several daggers in sheaths at her belt. In her hand was a longbow, but it was pointed to the ground. He turned his head, only to find heaps of bone and rusty steel where the skeletons had once stood menacing him.
+
+“Um…” Julian began, having to restart to find his voice. “Thanks for saving me… but who are you?”
+
+“I’m Willow,” she said. “The Guildmaster sent me to keep an eye on you lot – she didn’t trust the quest giver, and you guys have just reached bronze rank. It’s a good thing I came; those are level forty skeletons.”
+
+“They killed Maddie and Hix too…” Julian choked down a sob as the crushing reality pressed down on him in a sudden rush.
+
+“Cami says your friends are fine,” Willow said. “Here, I have a couple of healing potions.”
+
+A few moments later, Hix was sitting up and cursing, and Maddie coughed and spluttered as she regained consciousness, all courtesy of their savior and a pair of undoubtedly exorbitantly expensive healing potions.
+
+“I don’t think I can afford to pay you back,” he said, unable to keep a tremble out of his voice. Maddie and Hix were going to be fine, but none of them had enough money to buy potions of their own level, much less whatever Willow had just fed to his friends, causing their injuries to heal nearly instantly.
+
+“Nonsense,” Willow said. “This is on the guild. Vivian Ross takes the safety of her guild members seriously. Especially when someone cheats the quest ranking to save a few coins.”
+
+“She… she does?” Julian remembered meeting her once, when he joined the guild. All he knew was the three marks meant the Guildmaster was above level one hundred, and she was so intimidating he had barely been able to stammer answers to her questions.
+
+“Yes, she does. She seems stern and intimidating, but she really cares about us,” Willow answered. “Come, collect your things, and we can go back to the guild using my Hearthstone.”
+
+“Things?”
+
+“Maybe those rusty swords? You can try selling them to Weldin for a few coppers.”
+
+“Oh,” he said. He had forgotten all about them in the chaos, and he still needed to buy a replacement for his broken sword. Without his weapon, he couldn’t take any more quests, and his life as an adventurer would grind to a halt. He didn’t even have another way to make money. Quickly, he collected the swords and then found his eyes drawn to the back of the Mausoleum.
+
+Grave Moss – Moss – level 11.
+
+He glanced back at Willow to find her sitting down, petting her wolf. Deciding she wouldn’t mind a few extra minutes, he collected the moss too, uncertain if it would be valuable, or even if any of this stuff would be enough to replace his sword.
+
+Herb Gathering has reached level 5.
+
+“Ok, I have everything,” he said.
+
+“Ok, gather around, I’ll take us all back the quick way.”
+
+He moved closer, remembering only now to Identify her.
+
+Ranger – Human – level ???
+
+She’s … Platinum? He was so surprised that the Guildmaster had sent a platinum rank to look out for them that he missed noticing the teleportation, suddenly finding himself in the guild hall once again, standing on the guild’s private locus.
+
+“I’ll go report to the Guildmaster. Weldin over here can buy your things,” Willow said, and she turned and walked off.
+
+“Hey… thank you!” he called out.
+
+“You’re welcome,” she called, waving over her shoulder as she went.
+
+“You have something to sell?” The gnome approaching him was wearing a tailored suit and had an eyepatch covering one eye.
+
+“Are you Weldin?”
+
+“Yes, indeed I am.”
+
+“I have some swords to sell,” he said, producing the four rusted blades and offering them hopefully.
+
+“Mmm,” Weldin said, inspecting them closely. “I can do four copper each.”
+
+Julian frowned. It was quite clear that the swords were of poor quality and not worth all that much, but there was no way he could buy a new sword, or even get his current one repaired with that little money. Then he remembered the moss.
+
+“Can you buy this?” he asked, pulling it out.
+
+“Grave Moss?” Weldin said. “Good specimens. Well collected. Death affinity. I can give you six copper for the lot.”
+
+Julian sighed. Why is this so hard? I almost died for a few copper pieces.
+
+“Here, young sir, let me show you something,” Weldin said, walking over to the quest board. “In this guild, you need to be aware of the standing collection quests. Moss like this isn’t worth much because it’s common, and it’s not particularly useful for alchemy as far as I’m aware. But Aliandra has standing orders for plants with magical affinities, and you should always check what she’s paying before you sell them anywhere else. Look.” He placed a finger on a quest notice.
+
+It was written in an elegant cursive hand.
+
+Moss Collection.Quest Giver: Aliandra Amariel.Rank: Any.Category: Gathering.Reward: Varies.
+
+The Dungeon of Knowledge can use any magical affinity moss. If you provide sufficient samples of a new, unknown moss, you will be rewarded. The bounty is 20 silver pieces for any affinity moss under level fifty. The bounty will be appropriately increased if the level is higher. Please check with Aliandra to make sure your samples aren’t already present in the dungeon.
+
+There were several other similar quests posted for trees, flowers, and a variety of other things.
+
+“That’s Aliandra over there,” Weldin said, pointing to a small Fae hovering on golden wings beside some very high-level platinum adventurers. “Go and ask her if she wants your moss before you sell it to me.”
+
+Everyone knew of the dungeon – he had even been in the sewers to level up. And many of the guild members said they had earned their classes by using the dungeon’s shrine, but he had already had his class when he arrived in Myrin’s Keep, so he had never met Aliandra. He didn’t want to disturb such important people, but Weldin simply nodded to him and pointed again.
+
+With trepidation, he walked over to the group. What do I say to her? Good morning, Miss Dungeon… no, that’s stupid. What if she doesn’t want to be disturbed? His mind ran in circles, creating half-constructed conversations and dismissing them at least a dozen times before he suddenly found himself staring into a pair of soft amber eyes.
+
+“Can I help you?”
+
+Her voice somehow sounded gentle, and he opened his mouth. “Um… aah… Aliandra?” he said.
+
+“That’s me.”
+
+“Do you… moss? Want?” Fuck. I’m an idiot, he thought. Stammering and stumbling over his words in front of a platinum-ranked dungeon and her friends. Several giggles and snorts broke the awkward silence.
+
+“You have some moss?” Aliandra asked, with just a hint of a smile on her face.
+
+Not trusting his voice, he simply produced the Grave Moss, offering it to her.
+
+“Ooh! Death affinity. I don’t have this one yet!” Gently, she reached out and placed a tiny hand on the black moss he was holding, and a strange magic prickled along his hands before the moss suddenly dissolved, leaving floating sparks of mana. A great book suddenly appeared in front of her, riffling its pages, and an explosion of green and gold magic erupted above it – a fountain of tiny glowing runes that spiraled in faster and faster until they imprinted upon the page, leaving long and extraordinarily complex lines of magic behind.
+
+“What’s your name?” Aliandra asked, as the book closed itself and the light faded.
+
+“Julian Hartley, Miss,” he answered, offering an awkward half-bow before he realized that probably wasn’t appropriate.
+
+“Thank you, Julian, I think I’ll put your moss in some of the sewer tunnels,” she said. “Here’s your bounty.” And she dropped several coins into his palm where the moss had once rested. Coins with the sparkle of silver.
+
+“I just so happen to have a few good swords that would fit in your new budget.”
+
+Julian turned to find Weldin waiting a few paces behind him.
+
+“I think you’ll find them to be quite excellent quality, a substantial upgrade over your last one,” he said. “And they just happen to be less than twenty silver.” He offered a friendly grin.
+
+He set this up? Julian’s mind was suffering whiplash from all that had happened to him today.
+
+“You can trust him, Julian. He will give you a fair deal, you’re a guild member after all,” Aliandra said. “Besides, Thuli’s work comes at a nice discount for bronze-ranked members, and you look like you could use a new sword.” She pointed at the broken stump buckled at his waist.
+
+“I do…” he said. And then suddenly he smiled, realizing it felt good to have people looking out for him. High-level people.
+
+Aiden stared at the bizarre undead flower sprouting from between two flagstones, anxiety rising within him.
+
+This isn’t a good sign.
+
+“Deathcaps over here, too,” Willow said, crouching down to examine a dinner-plate-sized black mushroom that was oozing ichor onto the ground. “The entire area is filled with death-affinity mana.”
+
+“Be alert,” Aiden said, but it wasn’t as if his raid group was slacking. Both his group and the visitor group they were escorting were experienced dungeon divers, but this entire area was new, and none of them had any idea what might be lurking in the ridiculous shadows. He hated the feeling of being unprepared.
+
+Well, that’s not exactly true. When Calen had approached him after the leadership meeting, asking him to take a platinum-ranked group and escort the visitors through Aliandra’s new area, he had given him only two pieces of advice. ‘Bring good scouts,’ and ‘bring a non-human tank.’
+
+Bring a non-human tank… Aiden glanced over at the happy-go-lucky goblin Paladin covered in burnished steel.
+
+Normally, they didn’t spoil encounters simply because the experience gained from an unknown encounter would be so much greater, so whatever was lurking down here in the shadows was dangerous enough to scare Calen.
+
+Something that scared Calen had to be dangerous indeed. They would need to be precise and sharp, and extremely cautious. He followed behind Willow and Cami as they took point, shivering involuntarily at the sudden touch of death in the air, appreciating the professionalism and focus of Moira Sangrey and her visiting team.
+
+They had fairly easily overcome the Carnage Berserker at the entrance to this level and used the restoration circle to top themselves up rapidly afterward, but the shadow mana filling the entire ringed ruins had clearly demonstrated Calen’s first tip. Almost everything they had encountered so far sported shadow magic spells, stealth, or ambush. Willow’s pet Cami had flushed out countless shadow rogues with her powerful sense of smell, and Kaitlyn’s eyes had picked out the rest. So far, they hadn’t been surprised – yet, he reminded himself.
+
+“Galeth, please be careful,” Aiden called out, cautioning the visiting tank who insisted on walking out front with the scout.
+
+“I know,” he said. “Anti-human skills. Still, I have plate armor, and none of them do. Whatever is dangerous for me would be deadly for them.” He was a hulk of a man, almost eight feet tall, with muscles that seemed to be made from rippling metal, matching his affinity.
+
+Havok reached out and fist-bumped the man who was almost three times his size, their steel gauntlets making a definitive ringing clang.
+
+The non-human tank requirement was strange, but although Galeth seemed to insist on ignoring Aiden’s cautions, he still couldn’t fault the man’s logic. It took a particular mindset to be a tank, deliberately choosing to step into harm’s way to take the hits so others didn’t have to.
+
+I just hope Havok can save us from whatever danger we’re walking into. Aiden followed quietly behind the scouts and the tanks, his mind racing with potential scenarios and worries as he studied the shadowed ruins, wishing again that his class had provided more powerful perception skills, so he didn’t have to rely quite so much on the others.
+
+Aiden took a step, and suddenly Cami growled, a deep rumbling with hackles raised and fangs bared. At the same instant, Kaitlyn shouted a warning, lightning shrouding her body in an instant as her bow appeared. And right before his eyes, something dark shimmered.
+
+A bone-white glint flickered through the air, and something long and sharp struck Galeth in the back. A deafening crack split the darkness as the huge tank was slammed into the ground with so much force that his plate armor dented and rock fragments burst into the air, leaving his body spraying blood at the bottom of a wide crater.
+
+“Hells!” someone swore.
+
+A tall, shadowy figure turned to regard Aiden, grinning from tusk to tusk. It had skin of pitch black, indistinct and blurred as it grasped deeper shadows about its form. Its face was painted with a stylized white skull that matched the two-foot-long bone dagger in its hand, its white, spiky mohawk, and white, gleaming tusks. The stench of undead rolled off it in waves, making Aiden gag.
+
+Fetish-Painted Assassin – Undead Troll – level 132.
+
+“Undead!”
+
+“Fuck me!” Belmar yelled, burning his recharges to try to save Galeth, but the assassin spun about, raising the dagger, and with uncanny speed and power, it stabbed downward at the stricken tank lying broken and bleeding at his feet.
+
+It felt like slow motion, and yet it was over in an instant. The dagger fell as Galeth struggled to raise his shield in time, but at the last instant, a flash of green skin shot past, and brilliant yellow-white magic shone out, pushing back the shadows as the bone dagger struck against a holy shield with a loud, gong-like ringing crash.
+
+“Havok!” Havok yelled, incongruously using his own name as a battle cry. Then he stabbed the undead troll with the brilliant holy light of his Smite skill wreathing his sword, drawing a howl of pain from the undead monster. Havok backed up, drawing the troll away from the stricken tank, giving the healers time to finish their strongest spells.
+
+“Holy shit,” Kaitlyn exclaimed. “That was Overpowering Strike and Human Slayer combined with Ambush!”
+
+“And Backstab,” the visiting rogue added. “And Adrenaline. Galeth is lucky to be alive.”
+
+As Galeth shakily got to his feet, Aiden could see the smaller hole punched through the back of his breastplate, and the much larger exit wound of bent fragments of enchanted steel ripped out of the front where the force of the blade-strike had exited, crushing the very ground beneath him. Even as he watched, the tortured metal bent outward, pressed by the tank’s rapidly healing body, his sheer endurance, and his affinity for metal.
+
+“Havok has him,” Aiden said. “Attack. Don’t let him re-stealth.”
+
+He took a deep breath, relieved that it had just been a very close call, and not a death he would need to report to the guild. Danger levels just spiked…
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

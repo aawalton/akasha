@@ -1,0 +1,153 @@
+---
+id: d771c2a8-55df-566b-8045-fea2d0b4481f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 452: Leveling Assist"
+slug: 0489-chapter-452-leveling-assist
+partOf: dungeon-of-knowledge-complete
+position: 489
+ownLength: 2636
+unit: words
+ownProgress: 2636
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2788698/chapter-452-leveling-assist"
+royalRoadId: "2788698"
+markedReadAt: "2026-06-29T20:28:47.756Z"
+---
+
+Calen’s eyes scanned the infestation of plants and monsters that crawled and crept within the broad expanse of the gloomy cavern. It was barely recognizable from the first time he had seen it, back when it had been the first chamber of Naia’s real dungeon below the fake one she had maintained to preserve her appearance as weak and subjugated.
+
+Wrapped in the twisted illusion of his Eclipse skill and blurred by Mirage Armor to conceal the traces of his mana, he shivered as the dampness of his soaked leathers pressed up against his skin. Getting here had been a chore. So many of the subterranean caverns were filled with water, and while they had been able to avoid most of them by following the trail of destruction wrought by the Sandwyrm as it had bored its way through the sheer rock following the shortest path to the surface, he had still been forced to swim through flooded tunnels and duck under spraying waterfalls more times than he could count.
+
+I need a bath. I needed one several hours ago.
+
+Fortunately, this chamber was not completely flooded. Below him, the surface of a gloomy lake swirled, choked with murky mud and piles of tree trunks and branches. A strangled inlet above and to the back trickled dark water where once there had been a powerful waterfall. Even the dripping sounded more like sludge splatting against rock and mud than a clean underground stream.
+
+Among the stalagmites and boulders, the ground seethed with rock beetles, lesser treants, and several varieties of Fungaloth and Braconids. It was such a dense horde that he could scarcely make out where the lake edge gave way to rocky banks.
+
+That’s a lot of monsters. He slipped away in silence, leaving no traces of his presence and retreating to the fresh raid group, eagerly awaiting his report in the prior chamber before taking over from where the tired previous group had left off. Raiding in shifts was becoming all too familiar now.
+
+“There’s a substantial horde in there,” Calen announced. “Too many to split. There’s a chokepoint just inside the entrance where we can fight them while all the ranged classes can shoot over the ridge using area attacks.”
+
+“Is it the same layout as Naia’s old cave?” Sabri asked.
+
+“Yes,” Calen said. “Although there’s a large Sandwyrm tunnel cutting diagonally through the ceiling on the far side. Most of the fresh monsters are spilling in from there and getting trapped here.” Structurally, the chamber hadn’t changed; he’d even noticed the near-perfect circle Ali had said she’d bored in the obsidian wall to free Naia. It just looked very different with the dark atmosphere now that the lake didn’t glow and was crawling with plants and beetles. For the purpose of tanking tactics, Sabri had more than enough experience to know the layout from their earlier delving of Naia’s dungeon.
+
+“Ok, got it,” Sabri said.
+
+“Whenever you’re ready,” Calen said.
+
+“Alright. Going in five,” Sabri said, counting the seconds off and then stepping through the hole and into the cavern with Belmar and Teagan following just close enough to keep her in range of their healing spells. Her powerful Soul Shout rang out through the cavern, rippling the surface of the lake and shaking the walls. An announcement and a challenge, attracting everything in range.
+
+Calen smiled as everyone rushed in behind her.
+
+He pulsed a tiny sliver of mana into his ring and switched to his new bow.
+
+Death’s Grasp, Spectral Bow. Time to see what you can do.
+
+It glowed darkly, and Calen could see his fingers through the curved ethereal material that whispered incessantly in the corners of his mind, a sight made far more disturbing by the spiky tendrils of mana that seemed to impale his skin. He took off, flying just a little above the others to give himself a clear shot, and then he summoned his arrows. Nine arrows of radiant light sprang into existence, nocked to his bowstring, brightly shining and yet bearing the malevolent darkness of death. He loosed them. The whispers howled in the back of his mind, like a chorus of undead spirits gathered to the power of the bow. Shadows darted away, fleeing up the walls as his arrows sped across the chamber. Still in flight, he fired a second and then a third volley, each skill activation tearing painfully as the parasitic enchant fed upon him. Maybe I should start packing more healing potions.
+
+Then his arrows struck, unleashing a series of deafening detonations that echoed in the large but enclosed space of the dark cavern. Shockwaves buffeted the walls, and water sprayed from the lake as spheres of light and dark flashed into existence before vanishing just as quickly. Calen gasped involuntarily as he was suddenly blasted with the recoiling rush of mana and health as his leech enchantments kicked in, filling him almost instantly. He reveled in the sheer destructive power as the bow whispered its song of death. Down among the horde of plants and beetles, the Death’s Grasp curse spread like wildfire, and a forest of grasping roots sprang up to contend with the crush of monsters. His damage skyrocketed as the curse took hold, and suddenly, a beetle collapsed, before immediately rising back to its feet.
+
+Zombie! Calen focused on it, but he found he was unable to direct it. That’s too bad. He had hoped they might summon under his control, however, it seemed clear that the zombie would attack anything nearby, which was mostly other monsters. It just meant he would need to be strategic when he used it in a big raid group.
+
+“Death’s Grasp!” Seth suddenly exclaimed. The air suddenly howled with the sound of his Volatile Wraiths tearing down into the mob below, wreaking havoc among the monsters now cursed to be vulnerable to his magic. “And a zombie! Calen, I love you!”
+
+Suddenly, the zombie rock beetle accelerated and began to flicker as it landed hits on the plants around it with flashes of void, holy, and light damage.
+
+“Wait, did you…” Calen said, staring at Seth.
+
+“Yes, I took it,” Seth said, grinning broadly. “Make me more!”
+
+“Is that the bow?” Willow gasped, her voice filled with awe.
+
+“Yup,” Calen said, smiling as the raid archers and rangers stopped briefly to stare – all of them knowing precisely, without needing any further elaboration, what ‘the bow’ was. All of them had been salivating over it since Ali shared the list of attributes with the guild.
+
+“How did you equip it?” Willow asked, eyeing him breathlessly. Well, she was eyeing his bow.
+
+“A couple of levels, and Giddy Clicksprocket’s genius,” Calen chuckled. “Next, it’s your turn. Time to get cracking!”
+
+“Yes,” Willow said. “Just you wait!”
+
+Ali flew down into the dark cavern, wrinkling her nose at the assault from the heavy, damp odor of growth and rot. So much of the cavern system had been wrecked by the Sandwyrm and the never-ending hordes of rock beetles that it was almost unrecognizable. The pristine glowing pool of mana-purified water and the raging waterfall that had been Naia’s domain were gone, and in their place was a sluggishly flowing stagnant murky pool of green and brown, clogged up with branches and sticks, and aggressive fungal growth. At least here, it looked like the water flow could be restored and the lake salvaged – although she had some advantages in restructuring spaces, courtesy of her class.
+
+“Sabri, shift them to the left,” Calen instructed. “Mages, fire over the top.”
+
+A ripple of fresh spells rose from the back line of the raid as the mages unleashed their best area magic into the thick of the plants.
+
+Ali resummoned her kobold arcane mage and her troll restoration shaman for the fiftieth time – both far too low-level to take even a single hit from the plant and fungal monsters that made this entire cavern crawl. But they were leveling up quickly. She hid them behind her barriers to hopefully let them last a little longer, but often it was miasma unleashed by Plague Treants, floating toxic spore clouds, or rot explosions, and against those, barriers were seldom perfectly effective. The mage immediately launched an arc of tiny golden bolts that curved up and over the barrier, flying down into the mass of monsters engaged with the guild raid group, while her shaman began to heal. Neither of them would turn the tide of the fight, obviously, but that wasn’t her plan.
+
+“Ali, you can send the berserker in now.”
+
+“Tol’brekk, you’re up,” Ali said. The giant troll leapt over half the raid group, crashing down in the midst of the fading artillery spells with a mighty roar and unleashing his blender of steel and blood on the remains.
+
+She had a full complement of appropriately leveled minions out there fighting the rift break monsters, but she had also summoned several minions she hoped to level up to become more useful additions to her army. However, it had been an excruciatingly frustrating task – many of the minions she wanted to explore: the Grim Stalker, several treant types, Fungaloths, and Sylvans, were all worthless down here. Either too large to fit, like the Malevolent Lirasian Oak, or unable to do damage because their affinity was for nature magic while most of the monsters spilling into the cavern were immune. Through much trial and error, she eventually settled on her arcane mage, restoration shaman, arcane brawler, forest guardian, a dark druid, and a sylvan archer equipped with a hellfire bow. Still, the forest guardian, druid, and archer were struggling.
+
+I need a better solution to this. There must be a faster way. Once her minions reached the mid-thirties, she could camp them in front of the spawning pools in the jungle to power level them, and once they were in the seventies or eighties, the abyssal realm would provide ample enemies to fight, but level one through thirty was a slog, and she anticipated the fifties and sixties to be similarly slow and frustrating.
+
+But the rings are amazing! Her two new rings filled the caverns with the rapid and subtle flickers of holy and void magic as every one of her minions’ hits triggered the enchantments inscribed into the Sacred Band of the Void Summoner. The stacked movement speed improvement, along with the health regeneration, dramatically improved the survivability of her minions. It did have a drawback, however. As she began to repopulate her dungeon, she was struggling to properly balance some of her lower-level minions – it would not be good to overwhelm the novices with powerful damage enchantments and minions they couldn’t keep up with.
+
+“Ok, move on up into the cavern,” Calen directed, and Ali followed along with the rearguard, directing her minions to help clean up any remaining monsters.
+
+A soft plop behind her told her that Naia had just dropped into the cavern, too.
+
+“Ali-friend?”
+
+“Yup, let’s go clean it up,” Ali said. By prior agreement, they had decided they would both claim the entire cavern system all the way down to the rift, and so, as she entered the cave, Ali summoned several trees and unleashed her small swarm of Moss Creepers, Spore Spreaders, and Floral Menaces to fill in the gaps with smaller plants. Given the size of the chamber, she took the time to teleport in a pair of Deep Woods Ents for the ability to summon higher-level plants.
+
+Naia shimmered as her magic began to pulse within her body, bubbling off several ooze-shaped blobs that began to condense into the more typical purple of arcane-affinity mana. Then she split off several Aetheric Slimes, all of which immediately converged on the murky pool, splashing down and vanishing into the water with trails of mana leaking behind them.
+
+The pool slowly stirred as Naia summoned more and more of them, and then suddenly the water shivered, as if a critical threshold had been reached. A ripple spread from the center, leaving crystal-clear water in its wake, and then it began to shine with the familiar blue radiance of mana-purified water. Visible through the now-perfectly clear water of the lake, armies of slimes aggressively swarmed about, consuming all the debris that choked up the lake, even crawling up the waterfall to unclog the dam of branches and fungal growth. In minutes, while the adventurers pushed back the remaining monsters, Naia’s cavern began to glow with the familiar pure blue light, and the waterfall returned to its former raging torrent.
+
+“Very nice, Naia!” Ali said.
+
+Naia bounced up and down cheerfully beside her.
+
+“I’d suggest a boss here when your domain is strong enough,” Ali said, wielding her Domain Mastery skill to fill in the holes and caved-in walls where the rock beetles and Sandwyrm had passed.
+
+Your Arcane Mage has reached level 20.
+
+Quickly, Ali searched through the skill options that came up for her kobold, but the choice was obvious as soon as she saw it – she selected Barrier for his second unlocked skill, knowing it would drastically increase his survivability down here, and in general.
+
+Beside her, Naia began summoning a small army of bigger and more powerful oozes, clearly regaining a lot of her former strength from claiming the full area of the lake and waterfall. Ali could tell her domain was much stronger just by the thickness and density of the mana ropes and trails her slimes were laying down in the water. It was abundantly clear that before long, when she had established a large enough domain, Naia probably wouldn’t even need the rest of the adventurer group to reclaim all this space. The cooperation seems to benefit everyone, though.
+
+Ali moved up the twenty or so meters the adventurer group had gained, summoning a new tree in the broken rocky ground, while her minions pushed forward. Somehow, Seth had accumulated a massive horde of zombies, and he was grinning widely as he launched Volatile Wraiths into the largest clumps of them.
+
+“Where’d all those come from?” Ali asked, eyeing the zombie plants.
+
+“Calen’s new bow raises them, and my class lets me command lesser undead if they’re not bound to someone else,” he said. “Well, I can take them from lesser necromancers, too. At least in theory. I haven’t tried that one yet for obvious reasons.”
+
+“Wow, that’s a nice skill!” Ali said.
+
+“A little overpowered, maybe,” Seth said. “But then, we’re summoners.”
+
+“Yep. Speaking of that, here, I have a present for you,” Ali said, retrieving the last ring and offering it to him.
+
+“Oh? What’s this?” Seth said, turning to examine it, and then his jaw dropped open and a few unintelligible syllables came out.
+
+“Yep, Giddy’s work is great, isn’t it?”
+
+“Wow,” Seth said, immediately removing a ring and putting the new one on in its place. At once, all his zombies began flickering with additional void and holy damage whenever they struck anything. “What did I do to deserve this? It’s amazing!”
+
+“Cooperation helps us all grow…” Ali said, and then trailed off as a thought suddenly struck her like a boulder to the back. “Hey, Seth…”
+
+“What?”
+
+“Do you think you could have some of your zombies attack my dungeon sometime later? Low-level zombies, like level one.”
+
+“What for?” he asked, a crease of puzzlement appearing on his brow.
+
+“I’m struggling to level up some of my newest minions. I just need help getting them to around thirty. Do you think it will work?”
+
+“Oh… that’s brilliant!” Seth exclaimed. “Yes, it should work. And you should ask Naia, too. I’m sure she has lots of slimes that need to grow.”
+
+“I can help!” Naia burbled from beside them. “Help, help!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

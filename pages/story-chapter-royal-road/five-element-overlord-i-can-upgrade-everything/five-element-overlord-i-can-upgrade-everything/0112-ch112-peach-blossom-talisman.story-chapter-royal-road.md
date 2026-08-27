@@ -1,0 +1,89 @@
+---
+id: 182ada0b-bb81-56f2-ae97-2dd4231d8920
+page-type-slug: story-chapter-royal-road
+title: "Ch112 Peach Blossom Talisman"
+slug: 0112-ch112-peach-blossom-talisman
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 112
+ownLength: 1355
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3770590/ch112-peach-blossom-talisman"
+royalRoadId: "3770590"
+---
+
+No more than an hour passes before I watch a dark flying vessel approach from afar, from the direction of Lingshi City, trailing faint yellow and orange flames.
+
+When Lan Xin arrives, her aura within my spiritual senses is as vibrant and swirling with vicious indecision as ever. As she steps off the vessel to come closer, a sweet scent hits my nose that I’ve never smelled before.
+
+She walks over with sharp eyes and a confident stride. “What you’ve asked for is done. I acquired 58 more inferior-grade veins. They’re two plots on either side of the original land. Though, I was only able to purchase 10 harvesting arrays. I still owe the Lin family 96,000 spirit stones for the other 48.”
+
+She tosses me the containment case, and I nod with approval while transferring the ten self-proclaimed perfect grade black flag arrays into my storage for safekeeping, but my eyebrows raise by the end.
+
+“This is a lot of spirit stones to be casually throwing around… Once may not raise any attention, but if it becomes a pattern, some may notice that this is far more than you should be able to produce as an outer sect disciple comfortably. Did the Lin family question its origins? Are you certain they will keep it confidential? What about the Mu and Wang families? Are their land transactions kept private too? It may only be your second major transaction… but these are important details…”
+
+She shrugs. “The Mu and Wang family are way too busy with wedding preparations to ask why I’m buying their wasteland. They’re just happy the financial strain was lifted a bit. If anything, they’ll believe I’m giving them an early wedding gift, to get on the good side of two mid-stage foundational clans merging. Others seeing it from the outside will assume the same.”
+
+Then she looks up to the sky. “The Lin Clan, on the other hand… They’re certainly curious and meticulous. However, their branch families have strict orders to stay out of the way of clan drama or make any unnecessary enemies. It would be impossible to pry information of their buyers out of them. I’m certain we’re safe on that front.”
+
+“Good. In that case, see you in a few days to head over and check it out,” I remark and start to turn away.
+
+At the same time, the inner fire in Lan Xin’s soul twists violently again, and a subtle vibration of a small pink talisman around her waist beneath her robes glows. The same sweet scent I noticed when she landed returns, this time many times stronger.
+
+When I breathe it in, a warm stirring sensation wells up in my body, reacting subtly with my physique, making her figure even more alluring.
+
+“Is that it? I haven’t delivered you your spirit stones, but I still did work for you. Will you not grant me a fire stone in return? I still need to cultivate.”
+
+I start to pull the stone I prepared from my storage, but a familiar sensation comes over me that causes me to stop.
+
+Lan Xin continues in a soothing voice while stepping closer, spreading the sweet scent my way even more. “Are you not going to ask anything of me today? No questions? No extra duties? I’ll do anything you ask,”
+
+Small pink particles are infused with this wave of aura, and a biological stir reacts to it, making my breathing heavier and my mind only focus on the curves of the woman approaching for a few seconds.
+
+Small portions of my souls heat up and try to rise to the surface, as they feel more sensitive than other parts of the whole.
+
+It is a completely intuitive reaction I do not have any control over.
+
+Sharp prickling pain forms in the back of my mind the more my souls twist and bend, but it doesn’t last for long.
+
+My perfected mortal-grade ring activates, and a ripple of stabilizing vibrations stops my physique from taking in any more of this subtle pink mist. It is almost as though a thin shield covers my body. Steady fluctuations push out the stray pink particles of mist that have made their way into me. I'm quickly reminded of the two other times I’ve seen such particles, in the misty forest and the red pine market.
+
+A system notification triggers in my mind.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[She has purchased a high grade peach blossom talisman with an initial stage mortal-grade enchantment to seduce the host. After weeks of contemplation, no foundational clan or offer from the sect has ever benefited her as much as heavenly-grade firestones. Her recent surge in strength has made her soul even more unstable, affecting her judgment and amplifying all of her emotions. She has become anxious that the host will soon not deem her useful and wishes to create a stronger bond to ensure this supply of resources does not go away.]
+
+As the particles leave the outer layer of my physique, and my mind becomes clear, I still hide the fact that I’ve picked up on this secret. “You know what? There is one thing I’d like…”
+
+Lan Xin stops in front of me and shows a knowing grin. “And what could that be?” bending over to show off more than her outer robes normally would.
+
+I reply with slow words, “Well, the Wang and Mu Clan’s wedding is near. Since union is in the air these days… I was thinking…”
+
+She leans in closer until I feel her breath.
+
+I pause, and show an outwardly dazed expression while leaning in too. I wrap an arm around her waist to reach into her loose robes while bringing my lips close to hers until they nearly touch.
+
+The greed in her soul shifts, turning into subtle embarrassment, and even excitement.
+
+Lan Xin gulps as her chest presses against mine, and my hand slides down her smooth back.
+
+When my fingers touch her skin, I feel my souls twisting violently under a strange pressure, but I push further until a small pink talisman falls into my palm.
+
+I squeeze, crushing it to dust, and sharpen my gaze. A smile forms as I speak again to abruptly cut through the moment of silence.
+
+“I was thinking… You could go off on another errand for me. Find something interesting to gift Wang Ming and Mu Shulan for their wedding. It needs to impress these foundational clans and show my sincerity. As you know, I’m not very aware of this county’s customs.”
+
+The pink particles of seductive aura vanish into thin air, and the expression of nervous anticipation on Lan Xin’s face freezes to shift into shocked disbelief.
+
+Even with the talisman’s aura dispersing, I still feel a dangerous sharp pressure while being near her. The weaker portions of my souls still twist and bend in her presence.
+
+She was trying to forcefully seduce me, but whatever this instinctual pressure is, she does not control it and does not desire to actually harm me. My best guess is it is just my weaker mind and body reacting to her physique, or something to do with my growing sensitivity to souls.
+
+I take a few steps back, and pull a fire stone from my storage to toss up and down in my hand a few times while she stares at me.
+
+“What? Did you think I wanted something else? I’m quite busy… and you delivered those healing elixirs perfectly last week, so you can do the same for this. Just bring it here in three days when we’re scheduled to head off to Lingshi City.”
+
+I let the firestone fall back into my system storage. “For using cheap tricks like whatever that talisman was, you’ll get this stone after you deliver the goods. I guess we have less trust in each other than I thought.” I scoff, turn around, and walk back through my courtyard to disappear into my dwelling without looking back.
+
+The sharp pressure in my mind disappears completely once we’re far enough apart.

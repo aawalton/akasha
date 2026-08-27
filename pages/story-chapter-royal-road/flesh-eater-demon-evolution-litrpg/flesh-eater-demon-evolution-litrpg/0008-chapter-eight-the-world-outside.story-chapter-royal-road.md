@@ -1,0 +1,117 @@
+---
+id: 6e2dae50-6ed8-55e6-ab51-0a3c840e0c5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eight: The World Outside"
+slug: 0008-chapter-eight-the-world-outside
+partOf: flesh-eater-demon-evolution-litrpg
+position: 8
+ownLength: 2831
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2534419/chapter-eight-the-world-outside"
+royalRoadId: "2534419"
+---
+
+Once the first bone made it through, it was significantly easier to force more bones into the existing hole. It just felt like carving into regular hard dirt, not the immovable wall of steel it had been before. Pyre suspected that whatever magic spell had kept the place intact had either been broken or weakened by the gap she’d created, kind of like an entire structure falling apart when one brick was removed. Something like that. She was pretty sure there was some game built around the concept, but she couldn’t remember what it was called.
+
+Using that first bone as a reference point, Pyre continued to grow more bones, continuously widening the gap a little at a time. She was half-tempted to just slam into the wall, confident that doing so would knock a good chunk of it down this time, but she didn’t want to risk caving herself in. That, and the injuries from her great big fall of faith still hurt like a bitch. Slow and steady it was, then.
+
+Finally, after a whole lot of patience, the hole was large enough that she could squeeze through if she stretched her body out. She did so now, eager to finally get out of the cavern. A giant ancient demon corpse with no eyes and a ripped open stomach, it turned out, didn’t make for great company. No offense to Fred.
+
+The first thing she registered when she finally made it outside was the wind. Crisp and cool, it gusted past the cavern, which Pyre could now see wasn’t really a cavern at all. Instead, it looked like a massive dirt hill had been constructed over Fred’s body, and she’d just dug out the side of it. No grasses, greenery, or any other signs of life touched the black and brown mound, a stark contrast to the rest of her surroundings. It was a lonely dark silhouette rising high above the canopy.
+
+The hill was located smack dab in the middle of a forest. Dense shrubs and tall, waving grasses decorated the forest floor. The trees, however, weren’t quite the same green-leafed things she found in her vague memory.
+
+Black trunks split into jagged, twisting branches housing bundles of glowing white lights nestled between the leaves like strange fruit. They looked like swarms of fireflies, their glow simultaneously eerie and soothing. If she’d had eyebrows, they would’ve risen.
+
+Once she got the [Hair] subtrait, she resolved to grow some first thing. Maybe it was the human in her, but expressing herself without them just didn’t feel the same.
+
+Directing her attention back to the scenery, Pyre shuffled closer to one of the trees nearby and squinted at the dark trunk. Below the black bark, she could make out the faintest traces of silver light pulsing in little lines like veins. That faint light seemed familiar, and she realized it was similar to that vague glow she’d seen on Fred’s dead body. Huh.
+
+She swiveled one of her eyes to look downward. It took a few minutes of staring, but she finally managed to detect the faintest silver glow below the grasses, too. It looked like there were thin streams of the stuff coursing below the earth, spreading around the forest and up the plants like a massive sprawling web.
+
+Pyre was willing to bet the glowing lights on the trees were because of this stuff. Was it life energy or something? That didn’t really explain why a corpse had it, though. It could’ve been blood—for all she knew demon blood was glowy and silver and apparently stayed fluid for thousands of years after death—but it was difficult to imagine Fred alone having enough blood to seep into the ground and spread all over the forest. Though the corpse was massive, so maybe it wasn’t as far-fetched an idea as she thought.
+
+Before she had the chance to investigate further, a rustling sound accompanied by a familiar mouth-watering scent broke her out of her thoughts. Her remaining three eyes twisted around in an attempt to locate the source of the sound, and sure enough, the bushes to her left parted and a small… thing bounded out.
+
+It looked like a rabbit. It had the ears, the soft white fur, and the same beady eyes that her locked memories instinctively associated with the creature.
+
+It also had a skeletal, whip-like tail where it should have been fluffy and round. Not to mention the giant blinking eyeball peering out from the center of its back. So it was still mostly a rabbit, but slightly fucked up.
+
+The fucked-up rabbit, to its credit, didn’t seem to be suffering at all from its odd appendages, and Pyre vaguely wondered if this was just what animals looked like in this world. It also, along with the nearby trees, thoroughly eased an ongoing fear the fiend had held that maybe Fred and the mound weren’t actually giant and she was just really tiny. She could see clearly now that she towered over the rabbit and even some of the shorter trees, so it was safe to say that this wasn’t the case. And thank god for that. Getting reborn as a microscopic lump of flesh didn’t sound too fun—she was perfectly happy being a normal-sized lump of flesh, thank you.
+
+In fact, her size seemed to be why the rabbit was ignoring her. In the shadows of the trees, if she stayed perfectly still, she looked an awful lot like a hill or something. Or maybe animals weren’t scared of demons. Or this one was just dumb.
+
+Either way, Pyre kept observing the creature for a bit, watching as it nibbled on some of the grasses before she finally stopped ignoring its delicious smell. How much time had passed since she’d last devoured something? “Too long,” was the answer she settled on.
+
+She shot out a sharp bone, skewering the animal in place before stretching a bit of flesh over to the rabbit with the intention of growing a mouth at the end of it.
+
+That didn’t end up happening.
+
+Mostly because the “mouth” she grew ended up being nothing more than a bunch of cracked, crooked teeth barely hanging onto warped, squashed flesh. Oh, and it also hurt way more than it should to grow the mouth in the first place.
+
+Hissing, Pyre quickly reabsorbed the mouth. After some consideration, she absorbed the undamaged one, too, and tried to regrow it at the end of her pseudo-limb. This time, it appeared exactly like she’d wanted it. Weird tail and extra eye aside, the rabbit didn’t stand a chance once her jaws clamped down. She easily tore into the creature.
+
+[You have devoured (1) Forest Rabbit Lvl 2][Experience earned!]
+
+[You have gained (1) [Ligaments] subtrait shard]
+
+[You have gained (1) [Skeleton] subtrait shard]
+
+[You have gained (1) [Hair] subtrait shard]
+
+[You have gained (1) [Taste] subtrait shard]
+
+[You have gained (1) [External Ears] subtrait shard]
+
+[Maximum number of subtrait shards acquired from a single creature reached. Remaining subtrait shards discarded.]
+
+Huh, interesting. It looked like she could only get 5 subtrait shards max from one kill, which might get annoying at some point, but for now she wasn’t too mad about it. Not when she’d gotten such a good haul.
+
+She probably hadn’t received much experience from the rabbit, but the subtrait shards made up for it in her opinion. At first the idea of getting “external ears” didn’t make much sense to her, seeing as she could already hear and could just sculpt a rough ear shape out of flesh if she ever felt like having ears for some reason, but she realized it would probably allow her to choose specific points to hear from, thus solving her current “where the fuck are the sounds coming from” problem. Yeah, it was probably a good idea to get more of those shards.
+
+Thankfully, the subtrait only needed four more, unlike [Taste] which needed 6 shards in total and [Hair] which needed 8 (Clearly the world didn’t want her to have eyebrows. Or to enjoy food). Assuming the area was filled with more animals like the rabbit, she could probably gain several subtraits by the time she got out of this forest.
+
+Because she did want to get out, Pyre realized. Not necessarily because there was anything wrong with the place—the trees seemed perfectly nice, weird glowing lights aside—but because she was curious about what the rest of the world looked like. Did all the animals actually have weird mutations like the rabbit, or was that one just special? Did humans? Would she find more of the glowing silver stuff outside? Was everyone born in the stomachs of giant dead demons?
+
+Well, the answer to the last one was probably a no, but that raised its own set of questions. Still, despite the unusual circumstances, Pyre found herself in a good mood as she spat out the chewed up rabbit bones and fur. This world was interesting, and all things considered, there were significantly worse, duller places she could’ve been reincarnated into.
+
+She couldn’t immediately prance off into the forest and explore, though, and not just because she didn’t have legs to prance with. In the rush to break the wall and study her surroundings, she’d been able to mostly ignore the lingering pain from her fall, but she now had to confront the fact that she still felt like shit. And if that extremely pitiful first mouth she’d tried to grow earlier was any indication, she was still dealing with the consequences of the fall.
+
+Even just moving the mouth to eat that rabbit had been way more taxing than it should’ve been. She figured she should probably assess the damage before she moved any further away from here, just to be safe.
+
+First things first, Pyre extended a bit of flesh away from her body and kept an eye on it, allowing her to look at herself. Visually at least, she didn’t look too different from before, minus the five squashed eyes (they were pretty much puddles of liquid barely hanging onto the rest of her body at this point) and a few pieces of broken bones that had gotten stuck to her.
+
+She shook the bone shards off and absorbed the damaged eyes back into her flesh, then attempted to grow them back. Yep, that definitely hurt more than normal. It was nothing compared to the fall, though, so she pushed on and pictured a new eye blooming out the center of her mass. Her vision didn’t change, though. Pyre frowned. The new eye was also damaged, exactly like the ones she’d just absorbed. It was the same thing that had happened with the mouth.
+
+She attempted to grow a few more to confirm it, and sure enough, all of them came out the same way no matter what size or shape she tried to make them. As a final test, she absorbed all the eyes as well as one of the remaining three working ones, then grew a new eye. This one was perfectly functional.
+
+Well then. It looked like damage stayed even after she reabsorbed things—she wouldn’t be able to grow more working eyes until the current ones had healed. It was a pretty good argument for not always having the maximum number of things active; if she was ever in a situation where all her current eyes were destroyed, for example, she’d be able to grow some “fresh” ones that way.
+
+It was kind of a shame to not be able to have all her eyes out at the same time, but it wasn’t like they’d actually been adding to her field of vision at that point. Mostly she’d just thought they looked funny. With some reluctance, she reabsorbed one of her uninjured darkvision eyes to keep it as backup, leaving just two active, then moved on to studying the rest of her injuries.
+
+She’d already tried to grow a mouth earlier, so it wasn’t a surprise when they ended up being in the same boat as the damaged eyes. The main difference was that she only had two max and was now stuck with just one undamaged one. Seeing as she was done devouring the rabbit, Pyre decided to absorb the mouth and only grow it when she actually needed it to devour something. It would suck if this one was also destroyed and she had to go back to absorbing things through her flesh. Somehow she didn’t think that would work very well with bones and animal fur and other shit tossed into the equation.
+
+Her flesh, meanwhile, wasn’t too different from before minus some extra dirt and a few scrapes along her new skin. She’d been expecting bruises or something, but now that she thought about it, she didn’t think she had blood right now. She certainly hadn’t bled at all since waking up as a flesh lump.
+
+Her two silver horns had stayed miraculously intact even though Pyre was fairly certain she’d landed on one of them. That made them stronger than all the bones she’d tried to break her fall with. It was a little disappointing that she couldn’t seem to manipulate them as easily; she could barely grow them any larger (though she could easily shrink and absorb them), and altering their shape took ages. She’d have to stay on the lookout for subtraits that gave her more freedom with those—they seemed like they’d make good weapons.
+
+Last but not least, Pyre used [Ossification]. Sprouting new bones also hurt way more than before, but she was glad to see that the new bones weren’t pre-shattered or anything like that. Probably because she hadn’t had the maximum number of bones grown during the fall. If she had, they would probably be in a similar situation to what was going on with her eyes and mouths.
+
+All in all, though, she’d made it out in surprisingly decent shape. It turned out that an amorphous body, really high constitution, and the impact absorption skill made for good fall survival chances.
+
+The question now, then, was how long she was going to have to wait for all this shit to heal. She was pretty sure humans couldn’t heal from their eyes going splat, but she felt an instinctive understanding that those rules didn’t apply to her. Pros of being a demon, she supposed.
+
+Too bad that intuition didn’t tell her how long healing took or if there was anything she could do to help it along. The little magic singes she’d gotten from her fights in the pit had already healed, but those were minor compared to this. She hoped her high constitution would also mean she healed faster, but who really knew at this point. Oh well. It looked like she’d just have to wait and see.
+
+Until then, Pyre was confident she was fine to move deeper into the forest. She still had bones to spear stuff with, and in a worst case scenario, there was always the good old “slam and crush into ground” tactic. Now that she had tangible proof of her durability, she was more than willing to test her chances on whatever other fucked up animals lived in the forest. There was still lots of shards and experience to be gained.
+
+What direction to go first, though? As large as her body was right now, she still wasn’t tall enough to see past the trees and definitely not Fred’s mini-mountain.
+
+Her gaze shifted over to the lights by the leaves, then down the faint lines in the bark to the same traces of silver glowing far below the grasses and earth. Following one of these “streams” seemed like a decent place to start. It wasn’t like she had any better ideas, and keeping to some kind of set path would make it easier to find her way back. She did still want to know what a giant dead demon corpse was doing in the middle of the forest and how it had created a bunch of sentient flesh lumps, after all, and she’d need to remember where Fred was located to come back and do more research later.
+
+For now, Pyre morphed her flesh into a slightly more compact shape and, after some testing, spread her two active eyes around to maximize her vision as much as possible. She paused briefly to listen for any other signs of life, but after that rabbit earlier, there’d been nothing but the whistling wind and the distant rustles of branches and leaves.
+
+Satisfied, Pyre dragged herself over to one of those faint streams—the brightest one she could make out. One end traveled back to the giant mound, as she already knew, but the other extended further into the trees beyond what she could see from her current position.
+
+With one final glance back at the lonely hill, Pyre turned away and headed deeper into the forest.

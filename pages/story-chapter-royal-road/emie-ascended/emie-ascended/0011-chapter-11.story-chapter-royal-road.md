@@ -1,0 +1,239 @@
+---
+id: bc0b3d3c-c511-5e33-a032-fdd8f729e684
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11"
+slug: 0011-chapter-11
+partOf: emie-ascended
+position: 11
+ownLength: 3026
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3466410/chapter-11"
+royalRoadId: "3466410"
+---
+
+The medical facility was technically a separate building connected to the rest of the Dungeon Complex by an enclosed walkway that led to the large staging area where the dungeon portal was located.
+
+The facility itself was separated into two distinct sections: a clinic that catered to the wounded coming out of the dungeon, and a hospital with a separate entrance that catered to the injuries and illnesses of everyone else.
+
+Most of the time, the hospital was the busier of the two since it supported the entire city, though there was always at least two Healers on duty in the clinic at any given time.
+
+I learned there were a couple of small, private clinics scattered throughout the city as well, but they did little to lighten the load for the hospital since each clinic generally only accommodated a single true Healer.
+
+With a city of nearly fifty thousand before the dungeon evolved, it was little wonder why the Dungeon Complex’s medical facility was always in need of new healers.
+
+In fact, the only reason the medical facility had the number of healers it had was because many clerics were blessed with healing skills. If they’d been reliant on core skills or skillbooks, I doubted there would have been enough healers to manage even a fraction of the demand.
+
+I spent the majority of my first shift in the hospital, becoming more familiar with my new composite healing skill. It wasn’t really a time-based healing skill anymore, though it certainly retained an aspect of time in its functioning.
+
+For now, I couldn’t regenerate lost limbs or completely revert significant damage, but it felt like the possibility was close. I suspected I would gain such a capability when the skill upgraded for the first time. At worst, I’d have to wait until my first evolution.
+
+“Can you go help out in the clinic?” Seraphine, the hospital’s Head Cleric Healer, asked about a half hour before my shift was over. “One of the healers scheduled couldn’t make it due to a family emergency. I normally wouldn’t ask an apprentice, but we both know you’re an Ascender. I’m sure you can handle it.”
+
+“Sure,” I responded. I didn’t care much about where I worked, as long as I got to practice my skill.
+
+The clinic Healer looked relieved to see me walk through the back entrance of the treatment area. The woman was visibly older, meaning she’d almost certainly reached the latter stages of stagnation.
+
+In this realm, if you didn’t progress quickly enough, you stagnated. Once stagnation started, it wouldn’t go away unless you managed to evolve. And the less one progressed, the more severe the stagnation would grow, until the person couldn’t progress at all.
+
+Aging only really occurred once stagnation set in, which meant that those who appeared older were approaching the end of their lifespan unless they somehow managed to evolve again.
+
+“Thank the goddess you decided to become an apprentice today,” the older woman said as she pulled me into a side room. “Seraphine mentioned that your healing is a step above most bronze rankers, so you should have no trouble dealing with most of what you might encounter. Does your skill allow you to regrow limbs?”
+
+“Not yet,” I replied. “I expect I’ll recover that ability when my skill upgrades.”
+
+“Good to know. I am Healer Leslie, by the way,” the elder healer said. “There are a few minor injuries waiting for treatment if you want to get started on those. I’ve got two healers out there right now, but one is an apprentice, and he looks like his focus is just about gone.”
+
+Nodding, I headed back into the treatment room to start helping. A few more serious injuries appeared sporadically, but none required Leslie to step in.
+
+While I hadn’t been approached in the hospital, a couple of my clinic patients asked me about joining their parties. There were signs posted explaining what the patches meant, but it seemed that some thought ‘not interested’ actually meant ‘open to joining your party, but I want you to work for it.’
+
+I politely, but firmly, turned down the offers. I didn’t give any justification for my declination, which frustrated one of the young delvers in particular.
+
+I tried not to smirk when the delver in question started acting a bit like an entitled young master, but he eventually understood that I wouldn’t be bought, and I really wasn’t interested in joining his party.
+
+“Thanks for helping out,” Healer Leslie said a few hours later. “I’m sorry you got roped into working for so long, but I really do appreciate your help.”
+
+“It’s no problem,” I said as I sent my healer’s vestments into storage.
+
+“Oh, how lucky. I wish I had a storage skill.”
+
+“You could get one from the dungeon,” I pointed out. “Even if you’re retired from delving, I bet someone will sell an Inventory skillbook sooner or later.”
+
+Leslie laughed. “Oh, I doubt that. Not unless they have no hope of unlocking a new skill slot any time soon.”
+
+“Well, if you’re interested in a storage bag, I’ll probably be able to craft one sooner or later,” I said before adding, “once I recover my Enchanting skill, that is.”
+
+“That’s a hard one to learn,” the healer said with a wince. “You were an Enchanter in your old realm?”
+
+I nodded. “A Grandmaster. I haven’t picked up an enchanting focus yet, but I plan to remedy that in the next day or two.”
+
+I had planned to go shopping after my shift, but having put in eight hours instead of the four I expected, I found myself a bit worn out. Actively using a skill for that long was tiring, even if it was a core skill.
+
+“Well, if you succeed, I’d be interested in picking up another storage bag. I have one already,” she said, patting her side where I assumed the bag was hidden. “But you can never have too many.”
+
+As an apprentice Healer, I wasn’t able to set a defined work schedule. I assumed it was because the people in charge wanted unevolved delvers to focus more on reaching that first major milestone instead of getting caught up with other things.
+
+Still, I promised to stop back by before I re-entered the dungeon, which I wanted to do in the next couple of days. I hoped to find a party in that time, but if not, I felt confident that I’d manage fine on my own.
+
+As long as I took breaks and started building relationships and connections, I could wait to find a party until more Ascenders showed up.
+
+From what I’d read, each new Ascender Dungeon usually introduced twelve to fifteen Ascenders upon evolving. This dungeon only had seven, including me, so far.
+
+Then again, I hadn’t checked to see if anyone new had exited the dungeon since my arrival, and that had been more than a day ago. It was possible that more Ascenders had arrived by now.
+
+Curious, I stopped by the registration desk and asked the clerk for an updated list of new Ascenders. I had to unhide my title to prove that I was also an Ascender before the clerk would share the information, which I found a bit odd since I knew that natives were able to get a copy of the list.
+
+Annoyed, I headed to the dining hall to grab some food and review the added entries. At a glance, I could see that a handful of additional Ascenders had been listed, placing the total number at twelve.
+
+The dungeon had been active for three full days, meaning about four and a half days had passed inside. It was possible that a few stragglers remained within its depths, but I wasn’t going to count on it.
+
+I figured that most had probably delved just long enough to gain a few levels and maybe recover a few skills before exiting the dungeon to learn more about the realm. I had a feeling that more than one of the new arrivals was likely kicking themselves at the missed loot after learning about the feature.
+
+I certainly wouldn’t have thought to try to loot my kills had I not learned it was possible in the simulation.
+
+I ate some pasta while I read over the list. The noodles were shaped like small squares instead of strands and had a vegetable sauce with bits of meat mixed in. It was better than the skewers I’d made in the dungeon, but not by much.
+
+“You one of the new Ascenders?”
+
+I looked up to see a pale man with metallic copper-colored hair and brown eyes standing across the table from me. A darker-skinned woman with hair that looked like flowing water stood beside him. Both were holding plates of food.
+
+I only then realized that my title was still displayed from my conversation with the clerk. Knowing it was pointless to lie, I nodded.
+
+“I am.”
+
+“You mind if we join you?”
+
+I used my newest skill, Identify, on both individuals, learning they were both Ascenders. The man was level four, and the woman was level five. Both showed up as yellow threat levels, which I felt reflected well on their capabilities.
+
+“I don’t mind,” I said, motioning toward the empty chairs.
+
+“Did you recently leave the dungeon?” the woman asked. “I don’t remember seeing you before.”
+
+“A couple of days ago. I’ve been spending most of my time trying to learn as much as I can about this new realm. It is very different from what I’m used to.”
+
+“For us, too,” the man said. “I’m Hothen of Selina.”
+
+“And I’m Aribella of Jorges.”
+
+“I’m Emie of Neohim,” I said, matching their style of introduction. “It’s nice to meet you both.”
+
+“And you as well. We met a few of the other Ascenders, as well as the new group that just left the dungeon a few hours ago,” Hothen said as he began eating.
+
+“They were… interesting,” Aribella said diplomatically.
+
+“How so?”
+
+The two exchanged a look before Aribella shrugged and said, “They seem to think their former statuses mean something now. The leader was apparently some kind of prince, and the rest of his party are his noble underlings. They make sure to let everyone know that not only are they Ascenders, but they are of high birth.”
+
+The last part she said with a sneer, making it clear what she thought of such people.
+
+“That sounds like fun,” I said sarcastically.
+
+“So much fun,” Aribella said, rolling her eyes. “They found out Hothen has a healing skill and started badgering him to join their party. Apparently, they lost their healer in the final push to ascend.”
+
+“I assume you weren’t interested?” I asked before taking a bite of my pasta.
+
+“No. I’d already agreed to partner up with Aribella. Besides, I didn’t like their attitude.”
+
+“Are you the tank who picked up a healing skill in the dungeon?”
+
+“That’s me. Bella is a Water Mage.”
+
+“Aribella,” the woman corrected. “And I am a Water Magi. Mages only use slotted skills, not those of their own making.”
+
+“Sorry,” Hothen said with a wince. “Anyway, I told them no, and they tried to flex their non-existent authority. Since they couldn’t really do anything, I brushed them off. They’ll probably try to make trouble later; people like that always do. But I didn’t become an Ascender by chance.”
+
+I nodded knowingly. There was no reason to point out that people who acted like that rarely accepted losing. It was actually a bit of a surprise that they’d managed to achieve what they had with that kind of attitude.
+
+Then again, if the leader really was a prince and the rest of his party were nobles, I could imagine the kind of support they would have had climbing through the levels. That wasn’t even taking into account the vast differences between realms.
+
+Maybe their home realm rewarded such a mentality?
+
+“What about you? You know a little bit about us. Which one are you on the list?” Hothen asked, glancing toward the paper I’d set aside when the pair had joined me.
+
+Feeling that it was only fair to share that much, I pointed at my name on the list. Both of my fellow Ascenders winced.
+
+“You probably want to hide your title before the prince notices you,” Aribella suggested. “I’m actually surprised he didn’t seek you out first, given your core healing skill.”
+
+“And Teleportation,” Hothen added. “It might not be useful to a party right away, but eventually…”
+
+“Hey, you two! Making new friends, I see,” said an unfamiliar woman with medium brown skin, steel blue eyes, and navy hair.
+
+Standing next to her was a man with rich brown skin, navy hair, and navy eyes. They looked similar enough that I would have expected them to be siblings had their body language not made it clear that they were a couple.
+
+They must be the Earth Magi and the Rogue.
+
+“Mind if we join you?”
+
+Hothen and Aribella looked at me questioningly, respecting the fact that I’d been there first.
+
+“Go ahead,” I said with what I hoped was a welcoming smile.
+
+After putting down her plate, the woman made a gesture that I assumed was a greeting. My assumption seemed likely when she followed the gesture with an introduction.
+
+“I am Coralyn, or ‘Cora’ for short. This is my husband, Mike,” she said, motioning toward the man. “We’re Ascenders from Arkenesis.”
+
+I introduced myself again before returning to my meal.
+
+“We were just telling Emie that she should probably hide her title unless she wants to get harassed by the new group of Ascenders,” Hothen said.
+
+The reminder was enough to have me change the settings, hiding my status as an Ascender once again.
+
+“Why is that?” Cora asked.
+
+“She’s the healer with the core healing skill,” Aribella said quietly.
+
+“That’s nice and all, but why would that be an issue?” the newcomer asked.
+
+Aribella and Hothen filled the couple in on the trouble they’d had with the newest Ascenders. Both had stopped eating to frown at the new group’s behavior.
+
+“You’d think someone who’s reached this level of achievement would be better than that,” Mike said with clear disapproval.
+
+Nodding, his wife asked, “You listed yourself as being interested in joining a party. Have you found one yet? I doubt they’d bother you if you’re already registered with another group.”
+
+“That didn’t stop them from bothering me,” Hothen grumbled.
+
+“Not yet, but I’d like to find a group that I can work with long-term,” I answered.
+
+“We’d ask you to join us, but we already have a healer, even if my skill isn’t a normal healing skill. It works great for healing injuries in the dungeon as long as I catch them early enough,” Hothen said.
+
+“We also already invited another damage dealer. He’s the name right after yours on the list,” Aribella added apologetically. “Andy focuses mostly on fire, but also has lightning magic. Having two lightning users would probably be redundant.”
+
+“Where is the firebug, anyway?” Mike asked with a chuckle.
+
+“I think he met a girl last night,” Hothen said with a sigh. “We haven’t seen him since then.”
+
+Cora laughed, “It’s a good thing none of us can get pregnant until the first evolution!”
+
+“You’re not wrong about that,” Aribella said, shaking her head. “I have a feeling there will be a lot of little Andys running around within a few years of his evolution.”
+
+“Well, we could use a healer if you’re serious about wanting to join a party,” Cora said, shifting the conversation back to the original topic. “Neither of us has a healing skill, so your ability would be welcome.”
+
+I wasn’t quite ready to jump right into a party just minutes after meeting someone, though I did get the sense that the four individuals sitting with me were friendly enough.
+
+‘I really wish I still had Sense Intent right about now.’
+
+That old skill would have been so helpful in determining whether or not they were trustworthy. But since I didn’t have such a skill, I could only rely on my own judgment.
+
+“I thought you were going to pick up a couple of natives and train them?” Aribella said.
+
+“We actually tried that yesterday,” Mike said tiredly. “We took three of the newest kids into the dungeon, and they weren’t that bad, really. But it was very obvious that we would always be their teachers and never their party members. The difference in experience is just too vast.”
+
+“We also barely got any essence since we were trying to help them get better,” Cora added. “Sure, we could have taken some of the essence cores to make up for it, but even considering it felt like stealing from children. It just… it felt wrong.
+
+“Maybe when we need a break from the grind, we can reconsider working as teachers. But our trip yesterday made it clear that we can’t train the natives and work on our own progression at the same time.”
+
+I could see that. And honestly, the fact that they’d even cared enough to try in the first place made me a bit more comfortable considering them as long-term party members.
+
+“Well, if you want to give delving together a shot, I don’t mind working together on a trial basis,” I said.
+
+I wasn’t ready to truly commit, but a trial run seemed perfectly reasonable.
+
+“Absolutely! Nobody would expect you to promise a long-term partnership without testing the waters first,” Cora said.
+
+“Speaking of waters,” Mike said, turning to Aribella. “Have you gotten a chance to work on the technique I showed you yesterday?”
+
+I listened for a minute as the two Magi discussed their craft. They had different elements, but it didn’t take long to realize that a lot of the same effects could be created by both.
+
+Obviously, not everything. But there was enough overlap that the two could share some of the discoveries they’d made about using their elements in this new realm.

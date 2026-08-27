@@ -1,0 +1,263 @@
+---
+id: 2940e1a2-a671-5eaf-a676-2335b7d87006
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Destructive Insights"
+slug: 0025-chapter-10-destructive-insights
+partOf: ends-of-magic
+position: 25
+ownLength: 3432
+unit: words
+ownProgress: 3432
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2499272/chapter-10-destructive-insights"
+royalRoadId: "2499272"
+markedReadAt: "2026-06-29T20:08:04.315Z"
+---
+
+Nathan and Sarah pulled back into the cover of the rock outcropping that blocked the view of the dungeon, as well as the party of ragtag fighters about to enter it.
+
+“What did you see?” Stella asked curiously.
+
+Nathan scowled before answering. “A bunch of badly equipped fighters about to get thrown into a dungeon, while three Esebus soldiers watch over the whole thing.”
+
+“My bones say they’re using them as fodder, to clear dungeons. Then the soldiers clean up anything that wakes up.” Sarah’s voice was similarly harsh, and the rest of the Heirs reacted in kind.
+
+“Slaves?” Khachi asked.
+
+Nathan shook his head, reaching out with his magical senses to confirm his suspicions. “No slavery enchantments I can feel. They’ve got some kind of identification enchantment, as well as a little bit of enchanted gear. Not much. A few healing potions, a few enchanted blades. Almost no armor, at least magical armor.”
+
+The wolfman’s face twisted up in a snarl. “It matters not. Indentured, forced to clear dungeons by any of a thousand tricks. They are slaves, and they are being forced to dangerous tasks by their overseers.” He jerked his head up to indicate the unseen soldiers hovering over the group, making their way towards the dungeon. “We must free them from these blasphemous shackles.” He wasn’t keeping his voice down, and only Stella’s hasty muffle spell kept the words from echoing through the valley.
+
+Nathan was slightly taken aback by how ready the Heirs were to jump to violence on this. But then he remembered that this was similar to how Gemore had been founded. It had been an outpost of Giantsrest, where they’d forced slaves to clear dungeons as a way to harvest all the artifacts left behind in Old Gemore. Eventually, some of the slaves accumulated enough levels to revolt as soon as Giantsrest made a mistake.
+
+It’s pretty much their founding myth. But I don’t think it lines up nearly as well as they think it does.
+
+Nathan held out a calming hand. “I don’t think it’s that simple. They’re not being magically compelled. What are we going to do, go in, take out the soldiers, tell them they’re free, and hope they don’t tell anybody about us?” He looked around in disbelief at the rest of the Heirs.
+
+“This is slavery,” Khachi replied in surprise. “You have spoken of its evil.”
+
+“It’s different,” Nathan replied quickly. “It may look similar, but these people have the freedom of their thoughts. They could choose to disobey, but there’s some kind of societal pressure keeping them in check. By killing their minders now, we don’t fix that. That would turn this mission from an assassination of Questors to babysitting a bunch of low-level adventurers in the middle of the wilderness. That’s not our mission, and it won’t change anything. Killing the Questors might be the best path to fixing this.”
+
+Sarah bit her lip before responding. “He’s right. This isn’t our purpose. Our Path is a higher one.”
+
+“So we leave them to die?” Khachi growled, golden light starting to shine from his fur. “We are faced with injustice, and we will turn away? There are thirty people there, with families. Some will die if we do not aid them!”
+
+Aarl grimaced, but he faced down Khachi’s anger alongside Nathan. “Hear me, I want to agree. Our enemy is before us, doing evil. But in Gemore, how was Giantsrest defeated? We defeated their army in the pass, but the war was only won when Nathan destroyed the Academy. Fighting the soldiers of Esebus in the wilderness is no tally of deeds. We must strike down the Questors.”
+
+Now Stella was nodding along. “We can't solve this by going out there. We hide for now, until we can strike the key targets.” Her expression was sympathetic. “This is your nemesis to slay, Khachi.”
+
+“Follow your light,” Sarah said, placing a calming hand on his pauldron. “But choose with wisdom, not judgment.”
+
+Khachi looked around at the rest of the Heirs before his gaze landed on Nathan. His eyes still shone with light, but it seemed to be shifting in tone, changing from a harsh sunlight to something dimmer but more lustrous. His voice was angry but thoughtful, like he was angry at himself and the words he was saying. “There are no perfect answers. Only deciding what is important, and becoming the person who will do what is right when faced with a choice.” His brows were furrowed in thought, but he was relaxed from his earlier tension. “Our target is a worthy one, but we must hold ourselves accountable for every evil we let pass. Our future deeds must justify our choice here.”
+
+Sarah seemed uncertain, so she clarified. “Do we go around? Are you satisfied?”
+
+The wolfman dipped his head. “My bones are settled.”
+
+It took them a few hours to backtrack and find another path through the mountains. It would have been easy except for the flying soldiers. The Heirs needed to stay low and follow the terrain to avoid silhouetting themselves against the sky, but there was a group of soldiers flying overwatch for larger ground-based groups in nearly every valley. Nathan’s skills indicated that they were seen a few times, but always from a distance and usually only for a short period. Each time, the watchers' attention drifted away as soon as it was obvious that the Heirs weren’t flying towards them.
+
+“They’re not very worried about trespassers out here,” he surmised. “Mostly they’re on the lookout for attacking monsters, or waking dungeons. I think they just assume that we're another group of soldiers."
+
+“They’re clearing the dungeons from the land,” Aarl said with some level of awe. “Killing every dungeon, that’s one tough ghoul uncle.”
+
+Khachi rumbled his response, low and grumpy. “Preparing for the Ending of History by spending blood over hundreds of years. The blood of the desperate.”
+
+“It should mean that our travel is easier once we get past them. No more soldiers, no dungeons. Just wilderness.” Nathan was trying to look on the bright side, but the Heirs looked uncertain about that idea.
+
+His prediction bore out, and that evening they passed into territory that had been recently cleared of dungeons. There were ruins and craters scattered across the landscape, each the site of the previous dungeon that had been looted or destroyed. They found several fields of rubble and glass that looked to have once been mountains. Stella gave Nathan a meaningful look when they discovered the first one of those, but didn’t say anything explicit.
+
+She’s getting excited by the prospect of learning new magic. Especially the magic I’ve kept from her.
+
+The more Nathan thought about it, the more he realized that the forces of Esebus possessing nuclear magic changed the game - and in favor of the Heirs. It was probably a grand Insight, one of the trump cards of Esebus. But from what he could tell, the spell was enchanted into the flying battlesuits, not cast by the soldiers themselves. But the very presence of the magic on the battlefield meant that it wouldn’t be quite as suspicious or surprising for Stella to start casting the same kind of spell. Merely a talented mage copying an enemy, instead of inventing stupendously dangerous magic from thin air.
+
+It does remove one of my objections to teaching her the spell. I’m still not convinced she’s responsible enough for it. Though she’s certainly better than she used to be.
+
+They did find one intact dungeon - a tower that was floating in midair. Judging from the architecture and the intense magic keeping it locked in space, it was a Kalis conclave relic. The tower was surrounded by ruins and devastation that had claimed the mountain it had once been standing on. They gave it a wide berth, even though Nathan was tempted to see how his antimagic fared against something that had bested the artifice of Esebus.
+
+That night, as they camped in another disguised cavern carved out of a field of rubble, Stella approached Nathan, a hopeful look in her eye. “Can we speak of the spells the Esebus soldiers used today?”
+
+Nathan eyed her for a moment. “They were using the Insights I didn’t want to teach you before. You’re a more powerful mage than you were, but do you remember what your father said about this kind of magic?”
+
+Stella returned his serious expression. “It is more dangerous than any other type of magic, and he nearly killed himself in learning it.”
+
+Nathan nodded slowly. “That’s because he doesn’t fully understand it. He only knew that compressing and heating air to an incredible degree creates immense and nearly uncontrollable power. He didn’t understand why. I could teach you why, but that understanding will let you cast even more powerful versions.”
+
+“It would also help me learn to use it safely,” she pointed out. Her words were calm, but there was a banked excitement behind them, the feeling that she was waiting with bated breath for an uncertain reward.
+
+Nathan frowned, still hesitating on the precipice. “Do you remember the first time you cast Hydrabane? You nearly destroyed Litcliff, a city full of people. These Insights would be like that, but worse. This fire won’t stop spreading. One slip, and we’ll be lucky if we just destroy the closest city.”
+
+She held up a finger to stop him, then spoke carefully. “That weight means I can’t blaze my own path. We need to discuss every spell I cast with these Insights. Any misconsidered application of these Insights could kill us all, and so we need to test them carefully, and with your approval.” Stella’s voice was deliberate, as if she were making a promise. But she wasn’t quite done yet. “I have many destructive spells, and I’ve learned to be more judicious with them. These spells will be reserved for the mightiest of foes, and I will be careful in casting them. I swear it on my magic.”
+
+Nathan nodded slowly, pursing his lips as Stella and the rest of the Heirs looked on, almost not breathing. Then he smiled, slowly. “Yes, alright. Are you ready to get started?”
+
+Stella exhaled slowly and grinned a Cheshire grin. “Hear me, yes.”
+
+The other Heirs slowly drifted closer as Nathan started talking. He wasn’t surprised - Nathan had been hinting at this Insight for a very long time, and now that he’d finally decided to share it, it made sense for them to be curious about it.
+
+He looked around at them. “You understand that this Insight can’t go any further. I don’t think any of you will be able to use it, but I’m not going to stop you from hearing it. Just don’t tell anybody else, or write it down anywhere.” He turned back to Stella. “I’ve told you before about the fundamental elements and the periodic table.”
+
+She nodded jerkily. “We wrote the Liber Physicae together. You drew it out multiple times, with numbers to represent charge and weight.”
+
+“Right, but have you ever wondered if you could change one element into another?” Nathan asked.
+
+She looked confused. “From your past words, that seems impossible.”
+
+Nathan shook his head. “Just very hard. Can I get something to draw with?” He quickly sketched out the first few rows of the periodic table, marking down numbers to represent the number of protons and neutrons. “This Insight is in multiple parts, and the first part is understanding that it is possible, but normally very hard, to change one element into another. That is why Dalo’s magic is so difficult, and he needs to put so much energy into it.”
+
+Off to the side, he marked a dot and sketched a circle around it. "I've explained something about atoms to you, to talk about how bonding works, right?" He waited for Stella to nod before continuing. He was planning on cutting through a lot of detail here, but he'd learned that for Insights you didn't need an incredible level of detail. It certainly helped if you wanted to build atop the Insight. But for a basic nuclear spell a simplistic explanation would be enough.
+
+He put a second dot on the page, making a positive mark next to it. "The core, the nucleus, is positively charged. So it's very hard to push two nuclei close together. That's the simple reason why this magic is hard. You need two nuclei to be moving fast enough that they overcome the electrostatic repulsion, so that they get close enough to combine. Of course, speed on the atomic level means heat. Any reaction like this is hot enough to be a plasma. That means the electrons are in a freefloating cloud." He scratched out the electron, then drew big arrows on each of the nuclei pointing towards each other to emphasize the speed.
+
+Then he moved back to the periodic table, circling hydrogen. "The simple version of this is combining two hydrogen nuclei to make a helium nucleus. They are fusing together, so we call that fusion. It just takes an extremely high-pressure and high-temperature plasma. But, there’s a problem. Because each hydrogen ion has a charge of one and a weight of one, but helium has a charge of two and a weight of four. So two normal hydrogen ions cannot make a normal helium.”
+
+Nathan raised a finger for emphasis. “But there are some very rare atoms that are different. One of every six thousand hydrogens has a charge of one and a weight of two, and we call these deuterium. If two of those run into each other, then you make a helium.”
+
+I think there’s also higher-level fusion reactions with carbon, nitrogen, and oxygen that might be the dominant reactions in something like Dalo's spell. But deuterium fusion is the one I know about, so it’s how I’m going to explain it.
+
+Stella was frowning at the periodic table and the numbers scribbled across it. “There are exceptions to the charge and weight numbers?”
+
+“Only the weight numbers. The charge of an atom determines what element it is. The weight numbers on the table are the most common versions of each element. But these other versions exist and are important for fusion. What’s happening in Dalo’s spell is that a deuterium is combining with a normal hydrogen to make a helium with a weight of 3, instead of the normal weight of 4.”
+
+She was following, but still uncertain. “Why can’t two normal hydrogens form a helium of weight 2?”
+
+Nathan shrugged. “That doesn’t exist. There are rules that define what atoms can exist, and I don't understand them. I could talk about what causes the charge and weight - we call them protons and neutrons - but I don’t understand why only some versions of each element are stable and others aren’t. But helium-3 and helium-4 are stable, and none of the other variants of helium are.”
+
+“And if you combine two helium-4, you make...” She squinted down at the table. “Beryllium-8?”
+
+“I don’t think that’s one of the stable ones,” Nathan replied uncertainly. “But you can fuse three heliums together into carbon-12, which is definitely stable. But I think it’s hard to make that happen because then you need three nuclei to run into each other at the same time. It will happen less frequently, so the plasma needs to be hotter and at higher pressure.”
+
+Her brows knitted together, scanning over the periodic table for other good combinations. Then she looked up at Nathan. “Why does making bigger elements make power?”
+
+His lip quirked at the question. “That’s the second half of the Insight.” He paused, trying to figure out how to explain the next part. “One of the greatest truths of the universe is that matter and energy are interchangeable. They’re the same fundamental thing, just in different states.”
+
+Stella squinted at him, the rest of the Heirs similarly confused by the non-sequitur. “What does that mean?”
+
+“That means that you can interconvert energy and matter.” Nathan waved the periodic table. “We can get there from the equations of light. We'll go through the math later, but the short version is that photons have momentum but not mass. The only way that works is if energy can stand in for mass, and it does. The higher the energy of a photon, the higher the momentum, and we can calculate out the exact amount."
+
+“How is that the same Insight as fusing atoms?” Stella asked.
+
+“Because,” Nathan replied, stroking his chin and holding back a grin. “The conversion is incredibly unequal. When we were talking about lasers, I told you that light has a speed, but it’s ridiculously fast. Each piece of matter contains a ridiculous amount of energy. To calculate how much, you square the speed of light and multiply it by the mass.”
+
+Stella frowned for a moment, then grabbed the pencil and drew out one of the most famous equations on earth, though she didn’t use the same letters that would be familiar to somebody from Earth. “This?”
+
+Nathan felt a moment of nostalgia for his time on Earth, where this kind of knowledge was a birthright to catalyze excitement, and not a dangerous secret that could unleash mass destruction.
+
+Well, it can still release mass destruction back on Earth, but there are a lot more steps involved and protections that mean a single person has a much harder time causing nuclear explosions.
+
+Instead, he simply replied. “Yes, and I'll show you the simple derivation later from light momentum. The final piece of the puzzle is that the true mass of the elements doesn’t scale exactly. We write the mass out as whole numbers because it’s close to correct, but it’s not precisely true. A helium-4 atom weighs less than two deuterium atoms, and a carbon-12 atom weighs less than three helium-4’s. The reason behind it is complicated and not something I understand; it has to do with things called the weak and strong nuclear forces, but that's the general idea."
+
+Stella waved aside the explanation, focusing on what she could understand. “When you fuse atoms, you destroy mass.” She pointed to the E=MC-squared equation. “And that produces energy. A lot of energy.”
+
+“Yes!” He replied triumphantly. "The change is minuscule, but even a tiny change in mass produces incredible energy."
+
+“Does it go on forever? You can keep fusing atoms?” She traced the periodic table, finger sliding towards the heavier elements.
+
+Nathan shook his head and tapped a specific spot on the table. “No. Iron is the center. Everything above iron starts to increase in weight again. You can tell if a nuclear reaction produces energy by whether it moves towards iron or away from it.”
+
+Stella’s eyebrows went up. “Oh. And what’s it called to make a big atom smaller, to go towards iron that way?” She slid her finger from the heavier elements back towards iron.
+
+“Fission. It’s easier than fusion in most cases, but the ingredients for it are less abundant. That’s the spell the Esebus soldiers were casting. It was making small amounts of fission happen with rare heavy metals in the rocks the spell hit.”
+
+The mage traced the table back, landing on iron. “Let’s talk about how to kindle that flame.”
+
+Congratulations, you have developed the [Tutoring] utility skill into [Veracity].
+
+Utility skill: [Veracity]
+
+Your explanations now carry the weight of truth. Listeners will understand your explanations and feel that what you say must be accurate, even when they would normally not be persuaded.
+
+I don’t think I like how that’s worded. It seems like a more devious skill than [Tutoring] was. I wonder if it's because I skipped so many details in explaining the nuclear insight.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84400/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 572
+
+Regenerative Focus: 5721/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 4
+
+Forewarning 4
+
+Arcane Insight 6
+
+Evasion 2
+
+Mental Vault 5
+
+Veracity 1
+
+Parkour 10
+
+Visibility Control 6
+
+High-tier Disguise 7
+
+High-tier Battle Cry 3
+
+Aura Control 5

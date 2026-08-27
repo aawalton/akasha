@@ -1,0 +1,159 @@
+---
+id: 438c71c5-6bcf-5a03-82db-96cf4f7a7468
+page-type-slug: story-chapter-royal-road
+title: "Chapter 363: Sparkly Ink"
+slug: 0400-chapter-363-sparkly-ink
+partOf: dungeon-of-knowledge-complete
+position: 400
+ownLength: 2612
+unit: words
+ownProgress: 2612
+publishedAt: 2025-08-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2562713/chapter-363-sparkly-ink"
+royalRoadId: "2562713"
+markedReadAt: "2026-06-29T20:25:33.020Z"
+---
+
+“Ilantha, dear? Would you mind setting a fire? These old bones are feeling the chill tonight,” Teharissa said, clutching the shawl closer about her shoulders. Their living space was far more comfortable now that they had the money to afford some of the essentials, but they would need to renovate if they wanted to eliminate the draft that blew in from under the door or through the poorly fitted windows.
+
+“Of course,” Ilantha said immediately. “Would you like me to get a blanket, too?”
+
+“No, I think just a nice warm fire would be perfect,” she answered, smiling in the direction she had heard Ilantha’s movement rustling as she rose from her seat. What would I ever do without her? she wondered. Her apprentice had almost perished when they had fled from the destruction of Ciradyl, and the thought of losing her had been terrifying, even for one with so much life on the path at her back.
+
+Losing her glasses merely meant she couldn’t see. Losing Ilantha would have crushed her heart, but such considerations were merely a vanity against the enormity of losing all of Ciradyl. Will the Elves ever recover from this disaster? She could not say, but it was clear they faced the darkest of times. They had lost family and friends, their precious library, and the irreplaceable soul trees in which they’d made their homes since before history was even recorded in their books.
+
+The old Elf sighed, pushing aside the dark thoughts for another day. Nothing good would come of wallowing in sadness, and she had work to keep her busy. She reached out across the desk, gently searching until she found the correct vials, identifying everything by touch and smell, arranging her work carefully before she continued. Little puffs of mana here and there to prepare the tincture, bind the essences, and stir the mixture.
+
+Life had a funny way of flipping everything upside down. It was one lesson that she hadn’t been able to teach Ilantha yet, but she was patient. The girl would learn it eventually, with or without her input.
+
+Creating ink had always been her passion, but it was a poor choice of profession if she had wanted a life of luxury and ease; not many people needed magical ink. Most of her business had been with high-level scholars, and there weren’t many of those, nor did they generally have much money. Crafters could often get by with the lower-level stuff. But she loved her work. Many of her best moments had come from seeing what people made with her ink.
+
+But now, as one of the few crafters past her evolution that had even survived the destruction of Ciradyl, she found her skills in high demand – not because people needed her inks, but because she was able to make a little coin on the auction house and support the remnants of her people. If that Fae girl, Aliandra, had not given her that generous advance on her order…
+
+A sudden, sharp knocking at the door made her start and set her heart racing. Who could it be? It was late, and there were not too many people who even knew of her house. They disbanded the Town Watch, she thought, trying to settle her racing heart as she listened anxiously to the passage of Ilantha’s steps across the living room as she went to investigate their early evening caller. I wish this town had a better way of ensuring security.
+
+She caught the sounds of murmured words from the entrance hall, muffled by the baffles created by the walls and doors, and then Ilantha returned.
+
+“Who is it?”
+
+“It’s Aliandra. The dungeon,” Ilantha said. Even though the dungeon had been their temporary home for a little while, and Aliandra had been polite with them, her apprentice was unable to keep a little quaver from her voice.
+
+But Teharissa’s heart slowed, and the tension drained from her neck and shoulders where she hadn’t realized she was clenching her muscles. Aliandra may be a dungeon, but this old Elf had learned a few things about judging people’s intentions over the course of her long life. “You did let her in, didn’t you?”
+
+“Er… sorry?”
+
+“Hurry along, dear. Let’s see what she wants.”
+
+Ali stepped into the modest room to find Teharissa sitting at a work desk with a confusing array of vials and reagents spread before her, some bubbling, others chilling, while one or two even floated gently above the surface, bobbing slightly in the air.
+
+There was a small fire set in the hearth, but it must have just been lit because it hadn’t been able to chase away the chill that she felt rising from the bare stone floor.
+
+Their little house, however, had seen a number of dramatic changes since Ali had last visited; the spread of reagents for one, but there were also a few pieces of serviceable furniture, a stack of wood for the fire, and other small details and comforts that made it seem, if not quite a home, but certainly in danger of becoming one.
+
+“Hi again, Teharissa,” Ali said, she and Mato both taking seats near the table as Ali studied the work in progress with interest. She left Joraa, the champion Blood Shaman, guarding the door with a few hidden minions patrolling outside. She didn’t expect any threats inside an ink alchemist’s workshop, but then again, she hadn’t expected to be attacked in broad daylight outside of Lydia’s Allure in the middle of the afternoon.
+
+“What can I do for you, dear?” the venerable elf asked.
+
+“I was wondering if you could help me out with something personal?” Ali asked. “May I borrow an empty vial?” Val’korr and Rezan had both suggested that her race, bloodline, and even her old Magical aptitude strongly suggested that her blood may be useful as a magical reagent. Previously, she hadn’t been that interested, but now, with the discovery of her bloodline, she was suddenly much more curious.
+
+“Can you help me quickly?” Ali asked, using Trollish to speak with her blood shaman as she accepted the vial Ilantha had handed to her. She rolled up her sleeve and offered her bare arm to her shaman.
+
+“Yes, Seeker,” Joraa said, and he gently sliced a sizeable gash in her forearm. Amber blood sprayed into the air, and Ali gasped, but the shaman caught it with his blood manipulation skill without spilling a drop, spiraling it down into the vial till it was filled. Then he pulsed Blood Siphon to heal her wound.
+
+“Thanks,” Ali said, rolling her sleeve back down.
+
+Ilantha sat with her hand over her mouth and a shocked expression on her face, but Teharissa simply waited, head cocked a little to the side as Ali placed the vial in front of her.
+
+“Is there something you can make with this?” Ali asked. On the surface, it sounded like an absurd request, but troll blood had been a moderately good reagent for ink, so Ali didn’t think it was quite that unreasonable. “Val’korr suggested it may have value as a reagent.”
+
+“That grumpy old troll is in town?” Teharissa asked, but it was amusement in her voice rather than the annoyance her words might have otherwise implied. “Perhaps I should invite him over for tea sometime.”  Her hands explored the table surface before finding the vial. “Mmm, what is this?” Then, to Ali’s horror, she dipped a finger into the blood and put it in her mouth.
+
+“That’s blood!” Mato exclaimed.
+
+Ilantha seemed to be choking.
+
+“Indeed,” Teharissa answered, looking for all the world like she was sampling some dish in the kitchen instead of tasting blood.
+
+“But you put it in your mouth?” Ali asked.
+
+“It tastes… sparkly,” the old elf said, setting the vial aside for a moment and reaching quickly for other reagents and containers, her hands moving with absolute certainty.
+
+“Why?” Ali fought off a wave of queasiness at the idea, still rather grossed out.
+
+“My analysis and perception skills require me to sense the reagent,” she said, not pausing her deft movements as she began mixing reagents and mana. “And I’m blind. I can’t do it with my eyes like most folks.”
+
+Ali’s disgust faded into curiosity. Obviously, the blind crafter would need to sample the reagent in some way, and that would mean either touch, taste, or smell, unless she possessed some alternative magical perception skills. The glasses that had given her mana-sight were presumably still broken because she wasn’t wearing them. The magical formations that flickered in and out of existence would have been way too complex and ephemeral for her if she had not had Arcane Recall, but analyzing the alchemy gave her a rather crude overview of the process, and it was surprisingly similar to the process of her own rune crafting of a wand, or tattoo inscriptions.
+
+“Here you go, dear,” Teharissa said, finishing up and offering the vial back to her, now with a simple cork stopper preventing it from spilling.
+
+Fae Blood Ink – Ink – level 118 (Arcane)
+
+“Oh, arcane-affinity ink!” Ali said, suddenly excited. She had a lot of arcane magic, and it was not exactly surprising that anything made with her blood would have arcane affinity, but still, she hadn’t exactly expected anything to come of this experiment at all.
+
+“Looks like your barrier magic, only liquid,” Mato said regarding the vial with interest. Indeed, the distillation process had taken Ali’s normally amber blood and rendered it into a transparent golden color, complete with swirling gold sparkles; Mato’s description was most apt.
+
+“How difficult would it be to make water-affinity ink?” Ali asked. At her request, Ryn had tracked down a case study written by a terminally dry researcher who had perfected a technique for inscribing runes on a living water sprite. If it hadn’t been a spirit realm echo of a book, Ali was certain it would have been covered in dust and cobwebs – it was that riveting. Still, there seemed to be no reason she couldn’t adapt the technique to her tattoos – and the membrane of an Ooze was not all that different from the body of a sprite, at least in theory. She just hoped Naia would like one as a gift.
+
+“If you can find me similarly magical blood with the right affinity, it would be just as easy,” Teharissa said. “Failing that, I would need some essences of water and a few other simple ingredients. Unfortunately, the essences are in great demand and hard to find.”
+
+“I see. How much do I owe you for this?” Ali asked, holding up the vial, and then realizing that, of course, Teharissa could not see her gesture.
+
+“Oh, that’s alright,” she said, “I like interesting experiments.”
+
+“Surely there must be something?” Ali insisted; after all, she had burned several expensive-looking reagents to craft the small vial.
+
+“Perhaps a few more vials of your blood?” Teharissa said, her voice sounding a little tentative. “If you trust me, that is.”
+
+“Trust?” Ali asked, suddenly caught up by the way she had said it.
+
+“Blood can be used in many rituals, not all of them beneficial,” the Elf answered. “You must promise me you will be careful who you give it to. The ink, though, that can be safely used and sold – it has already been bound to its purpose and can no longer be tied to your experience, life, or mana.”
+
+“Um, what are you going to use it for?” The Elf’s warning sounded ominous, but Ali was inclined to trust her.
+
+“I want some of that arcane ink,” Teharissa said. “I can make it while you watch if that sets your mind at ease.”
+
+“Ok,” Ali said. As she went through the painful process of filling up several more vials, she asked, “Were you able to repair your glasses?” It seemed telling that she wasn’t using them.
+
+“Giddy Clicksprocket said she would need to level up a little more before she could work on something with skills inscribed,” Teharissa said.
+
+Ali glanced at the arcane ink in her hand for a second, an idea springing to mind immediately. “Mato, would you mind showing her your face?”
+
+“Sure,” he said, getting up and walking over to the desk. He gently guided her seeking hands to his face, placing them on the left side, clearly already understanding what Ali had wanted to show. The gentle Elven fingers traced his eyes, nose, and the curve of his jaw.
+
+“You have a strong face, young man,” Teharissa said as she studied him. “Limited Telepathy? In a tattoo? This is beautiful work, Aliandra.”
+
+“Thank you,” she said, flattered at her praise. “Would you like one? I could enchant mana sight like your old glasses.” It would be a remarkably easy tattoo to make, she could simply lift the skill from her arcane affinity-librarian Kobold imprint. Up-ranked many times, for sure – not a difficult task given that she had similar skill herself.
+
+“Are you sure?” Teharissa asked. She sounded calm and a little aloof, but Ali could detect a powerful undercurrent of excitement in how she sat, suddenly more upright, her body inclined forward.
+
+“It would be my pleasure,” Ali said. “And a tattoo will be much harder to break in the future.”
+
+Teharissa chuckled. “I’m glad we’re making allowances for my life of adventure.”
+
+“Of course,” Ali said, smiling. Then she retrieved her bloodsteel needle and dipped it into the vial of newly minted golden arcane ink and began to craft her runes.
+
+You have lost experience.Runic Script has reached level 60.Calligraphy has reached level 10 (+2).Arcane Sigil of Alchemy – level 118A delicate artistic tracery of golden arcane runes tattooed on the face to provide enhanced perception and proficiency to the wearer. +69 Perception.+55 Intelligence.+27 Wisdom.+1 to skill level of Alchemy skills.Grants level 39 Mana Sight skill.Requirements: Intelligence 413.Reserve: 472 mana.Created by Aliandra Amariel.Head – Runic Tattoo
+
+The instant the runes activated, Teharissa’s gaze sharpened, fixing on Ali. The vague, unfocused look vanished. “Well, now. This is a priceless gift. Thank you, Aliandra.”
+
+“You’re welcome,” Ali smiled.
+
+***
+
+Ali was in high spirits as she walked back to the guild. There was even a bounce in her step, which Mato teased her about. He and Joraa walked along beside her, accommodating her shorter legs without complaint, and several Abyssal Stalkers crawled along the walls of the nearby houses, keeping watch. In her storage ring, she had several vials of potent arcane ink and a new understanding of at least one aspect of her mysterious bloodline, but the gift that most warmed her heart was the joyful smile on the old Elf’s face as she completed the runic tattoo, and she was suddenly able to see mana once more.
+
+And she won’t have to taste everything now. Ick!
+
+Ali stopped at the guild jobs board on the way, pausing just long enough to put in a request.
+
+Magical Ink (Water)Quest Giver: Aliandra AmarielRank: Gold+Category: Crafting.Reward: 100 gold plus materials costs and crafter fees.A large vial of water-affinity magical ink of at least level 75 is requested. The primary ingredient is Essence of Water, sourced from appropriately leveled water elementals or spirits. Contact Teharissa Evensong in town for access to a specialist ink crafter for a list of any additional required material components.
+
+There, that should do it. Satisfied that she was finally delegating some of the more time-consuming items on her list, Ali headed back down to the dungeon. My ever-undiminished list. Should I start different lists? And then have a list of my lists?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

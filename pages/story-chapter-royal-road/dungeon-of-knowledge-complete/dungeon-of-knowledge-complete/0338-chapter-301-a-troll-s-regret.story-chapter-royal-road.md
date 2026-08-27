@@ -1,0 +1,209 @@
+---
+id: e7639bf1-e6ff-5693-8f17-142444d8c4d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 301: A Troll’s Regret"
+slug: 0338-chapter-301-a-troll-s-regret
+partOf: dungeon-of-knowledge-complete
+position: 338
+ownLength: 2918
+unit: words
+ownProgress: 2918
+publishedAt: 2025-07-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2411227/chapter-301-a-trolls-regret"
+royalRoadId: "2411227"
+markedReadAt: "2026-06-29T20:22:00.538Z"
+---
+
+Ali pushed open the door to Thuli’s smithy and recoiled as the bedlam from within washed over her body in palpable waves of noise so loud she couldn’t even hear the entrance chime. “Whoa,” she said, hesitating on the threshold. She glanced worriedly at her companion, meeting his eye before taking a brave step forward into the antechamber.
+
+“Seems like a spot of… unseasonal activity,” Weldin suggested, his eyebrows quivering as he attempted to maintain his poise in the face of the din.
+
+“So it would seem,” Ali said, stepping over a few lost or forgotten chunks of coal discarded in whatever haste had the normally productive smithy in its grasp, and gazed about in bewilderment. Boxes of ore were stacked in the middle of the entryway, almost blocking passage into the back rooms. Hammers and half-finished armor pieces lay strewn across the heavy wooden table and the counter that Thuli used for completing his business with his customers. The normal din of a functioning smithy was gone, replaced by muffled shouts from the back, the sounds of scrambling feet, and the crashing of dropped things further inside.
+
+She hadn’t taken two steps into the room before she decided that it would be prudent to levitate herself and Weldin up on her barrier, above the mess. If she hadn’t recognized Thuli’s bellowing and Kavé responding somewhere in the background, she would have believed the place was being looted.
+
+“Where’s my hammer?” The thunderous dwarven roar rose from the forge area, battling with the rest of the noise to produce an overwhelming clamor.
+
+“In the forge!” Kavé shouted, her normally higher-pitched tone taking on some of the undertones of a draconic roar. Mana flickered through the half-finished armor pieces, dancing in time with her voice.
+
+Wow, Kavé!
+
+“No, not that one. The big one!” Thuli yelled.
+
+Suddenly Tarek, Thuli’s newest troll apprentice appeared, staggering out of a storage area with a huge box of ingots clutched in his arms, muttering quiet curses in his native tongue. He glanced at Ali and rolled his eyes before turning wordlessly and squeezing his way past the stacked boxes into the forge room, dumping them on the ground and returning for more.
+
+“Aliandra!” Thuli yelled, his voice booming through the room. “There you are! You took so long I thought you weren’t coming!”
+
+Blacksmith – Dwarf – level 99 (Ember)
+
+“Hi, Thuli,” she greeted him. “What… what’s all this? What’s going on?”
+
+“We’re gettin’ ready!” he roared, windmilling his arms in an attempt to include all the chaotic mess while he beamed with the broadest grin. Then, as if a horrific thought had just occurred to him, he stared at her, “Don’t tell me ya broke it? The anvil? We all heard the message, and I just thought… Baldin’s Ale, it was too good ta be true.” The dwarf’s face fell as he ran the full gamut of emotional range from joy to despair in mere moments.
+
+“Oh, no the anvil is still there. I came to get you, that’s why I brought Mr. Thriftpenny here.”
+
+Weldin puffed up his chest inside his waistcoat and said, “Good morning, sir. How about…”
+
+“No offense, but he looks a bit small ta carry all the stuff I need. Where’s Mato? That boy can carry a load,” Thuli said, interrupting the Gnome as the beaming grin returned to his face. “Now, where’s my hammer?”
+
+“It’s on the forge!” Kavé yelled from the back, her voice beginning to leak annoyance at having to repeat herself. “Right where you left it.”
+
+“Mato and Malika are testing their new evolutions,” Ali answered. She could easily keep tabs on her friends through the many eyes she had down there in the Challenge Arena. Right now, Mato was in Bear Form, sparring with a troll bone warrior while Malika and Calen offered their opinions. There was a surprisingly large crowd watching the match.
+
+“Excuse me, sir, I can…” Weldin tried again.
+
+“I see. I just don’t know how I’m going ta bring all my stuff,” the Dwarven smith said, finally slowing down a little and surveying the mess, a rueful expression crawling across his face as he once again interrupted the Gnome merchant.
+
+“That’s what Mr. Thriftpenny is here for,” Ali said, gesturing to the increasingly exasperated Gnome. “He volunteered to help you carry your stuff. He’s a Porter, Thuli, he has a spatial enchantment.”
+
+“I have a storage ring too,” Thuli declared. “For all the good it will do. Blacksmithing equipment is heavy!”
+
+“I can carry twenty thousand pounds, good sir,” Weldin said, tucking a thumb into his waistcoat pocket and striking a rakish pose that looked entirely accidental.
+
+Thuli froze, and then slowly his head swiveled to stare at the elegantly dressed Gnome standing beside her on her barrier. “Ya what an’ how much?”
+
+“Just show me what you want, and I’ll carry it for you,” Weldin said, nodding firmly.
+
+“Well, isn’t that a neat trick,” Thuli exclaimed, gesturing for Weldin to follow him, pointing out items that he wanted when he got to the anvil, all the while chatting away like they were already long-lost friends. The mess in the smithy began to vanish with magical speed.
+
+Much better. One might almost think Thuli was excited about this trip.
+
+***
+
+“Here you go,” Ali said, arriving in the final chamber of what had once been the ancient Emberforge Mines dungeon. She did not even need to point out the anvil to Thuli, whose eyes had been riveted upon it from the moment she had flown them into the room. Carefully, she set them down on the dais, so they would not be burned by the fire grass, although with an Ember mana affinity, she could probably assume Thuli was more or less fireproof.
+
+And after all the excitement and bustle, Thuli froze, hesitating on the edge of the dais.
+
+“Go ahead,” Ali said. “It really is the anvil of Thovir Emberforge.”
+
+He reached out with a trembling hand and touched it, and Ali instantly felt her skills prickle, a little like the feeling of Sabri fighting one of her monsters in the challenge ring, but this time the sense of knowledge that filtered through the Domain Tithe was much denser, more developed, as might be expected from a serious crafter on the cusp of his evolution.
+
+Thuli paused for a moment, clearly overawed and fighting tears, before he collected himself with visible effort, brushing the back of his hand across his eyes.
+
+“So, it is true,” he said, choking up at finally finding the object of his lifelong search.
+
+“Take your time,” Ali said. “I’ll leave a few trolls to guard you guys. I’ll be back later, I have a few things to take care of at the shrine. Just have Tarek ask one of the trolls if you need anything, I can hear through them.”
+
+Thuli nodded, and then straightened up, slapping his thighs with his powerful hands. “Right. Let’s get started!” he declared. “Mister Thriftpenny, my hammer?”
+
+“Certainly, here you go,” Weldin said, as the two of them began unloading and arranging blacksmithing tools and supplies onto the dais beside the forge and anvil.
+
+Thuli would likely be lost to the world for quite some time, so Ali turned to leave, but then paused, glancing over at Kavé for a moment.
+
+“I have something for you to play with while he’s busy,” she said, using draconic to get the Dragonkin’s attention. Using her Grimoire, Ali quickly summoned a pile of Bloodsteel ore and several bars of the metal itself. “I don’t know how it’s made, but if anyone can figure it out, it’s you.”
+
+“This one is grateful for your gift,” Kavé said, bowing, but her fangs were bared in an excited grin – something she usually never let slip.
+
+Then, Ali teleported back to her shrine.
+
+***
+
+Ali appeared on the stone path leading to her shrine. It was quiet now, her friends all finished with their evolutions and off training to explore the changes and advancements. Mana flowed idly through her fingertips as she restored a stone that had been missed earlier, erasing the void slashes of Mato’s claws.
+
+Under the soft light of the mushrooms and the elusive nature wisps, Ali gathered a group of minions to guard her, using a mix of back-and-forth teleportation across her domain and summoning new trolls from her Grimoire.
+
+That should do it, she decided. She didn’t anticipate problems, but it didn’t hurt to be cautious when dealing with the unknown. Besides, the presence of her monsters was reassuring, especially considering what she needed to do. She scanned her surroundings once again, ranging broadly with her senses, but nothing unexpected moved. Her monsters patrolled. Her teleportation trap flickered, and a skeleton splashed down into the lake, vanishing in a sudden burst of lightning. Besides that, nothing stirred – she was alone in the Forest Cavern.
+
+It was not as if she was about to attempt something wrong or evil. Still, it would be hard to explain if someone like Lyeneru got wind of what she had planned. She shivered and clutched her robe tighter around her neck and then flipped her Grimoire open to the troll imprint. Enough procrastinating, Ali. Time to get this over with. Her book began to shine as she fed it her mana.
+
+Ever since she had made her discovery and summoned Joraa and the other Aman Rak troll champions, she had known she would need to face this moment. Her mana surged through the imprint, growing darker and more twisted as it spewed an uncountable fountain of tiny runes out into the grove.
+
+And suddenly he stood there. Towering and dark, standing nearly as tall as the shrine itself. The most massive Troll she had ever seen. Ali’s heart froze as she stared into the eyes of the Death Knight.
+
+Tol’brekk.
+
+The frozen moment of dread shattered as several tons of giant Troll Death Knight toppled over and crashed to the ground, making it shake beneath Ali’s feet. Right. Of course. She couldn’t summon the undead.
+
+Ali took a deep breath and studied the corpse – the unanimated dead. After taking a few moments to settle her heart and summon her courage, she reached out and deconstructed him.
+
+Ok, let’s see if this works, she thought, wielding her Grimoire again. This time, as she resummoned him, she fed mana into her Customization, trying to force his level to be lower. If I can summon him before his ascension…
+
+Lowering his level to one hundred was easy, but try as she might, she couldn’t force her Grimoire to go any lower. It was as if there was a wall – a hole of missing information that it couldn’t bridge. She repeated the experiment several times, but each time, she summoned a level one hundred death knight that manifested just as inanimate as a rock.
+
+“Ugh,” Ali muttered after the fourth try. It made sense – she had regular Blood Berserkers recorded in her Grimoire, but Tol’brekk had been deconstructed as a Death Knight. She could even read the separation directly from the pages in her Grimoire. If she wanted to summon him, specifically, she couldn’t regress him past his own evolution.
+
+She glanced at the shrine through the haze of unbound mana billowing up from the deconstructed remains of her fourth failed attempt. And I can’t even have him use the Revert feature. I need him alive for that. Well… this was a big nothing.
+
+Ali turned to gather her minions and send them back to the library when she suddenly froze. Wait… can I…
+
+Her experiments with the fire elementals in the Landing using her Adaptable Mana sprang into her mind. And, as usual, once an idea had been thought, it could not be unthought. Uh… Lyeneru is going to kill me.
+
+Ali turned, opening her Grimoire and then she carpeted most of the grove in the ethereal blue Soulshade Blossoms. The glow of the pretty flowers merged into a dense pool of soul-affinity mana that wove itself into the crystalline lattice of the arcane-affinity backbone of her domain.
+
+So pretty.
+
+“Come over here,” Ali said.
+
+“What is your wish, Seeker?” her trolls asked as they gathered closer.
+
+“Flatten the field of flowers,” she instructed. “Kill them all.”
+
+“At once, Seeker.” With stomping feet, the trolls waded into the beautiful field of blue, leaving crushed stems and smashed petals in their wake.
+
+Like a wave of blackness blotting out the sun, Spectral Wraithroses sprouted from the ruin. Threads of midnight-black mana spiraled up from the flowers, insinuating themselves into the domain mana, supplanting the pretty blue from the soul-affinity flowers that had just occupied the field.
+
+Ali studied the phenomenon closely. She had half hoped that it wouldn’t work, but there was no reason for it not to, and in moments the grove was carpeted in an ominous black glow far darker and denser than what had once been emitted by the dungeon she had found here after she had awoken.
+
+“Ok,” Ali whispered. She summoned Tol’brekk once again, drawing up the dense blackness of her local domain, and fed it into her spell as she made him.
+
+Tol’brekk [The Crimson Blade of Carnage] – Giant Undead Troll – level 102 (Blood)Domain Respawn applied to Tol’brekk.Your reserved mana has increased by +307
+
+Fuck… it’s alive… Ali stared aghast at the thing she had wrought. His head turned slowly, and the glowing red eyes fixed her with a gaze that raised the hair on the back of her neck.
+
+“Seeker…” he said, the voice triggering an outbreak of cold sweat as memories of the terrifying battle rushed back as fresh as if she had been transported back to the Temple of Aman Rak. “Release me…”
+
+“Release… what?” Ali said as the gravelly words he uttered percolated through her fear.
+
+“Release me,” he repeated, squatting down and reaching an imploring hand toward her – a hand that, balled up into a fist, would be larger than her entire body.
+
+Despite shivering like a leaf, she reached out and placed her palm in his. “You don’t want this?”
+
+“I never wanted any of it,” he said. “Undeath is an unimaginable agony – but knowing what has become of Aman Rak… end it. Please. I implore you.”
+
+Moved by the immense Troll’s pain, she still had to know. “Why did you do it?”
+
+Even in death, his face twisted into an angry snarl. “That snake, Joraa. He filled my heart with visions of power. The promise of immortality,” he said.
+
+“But you’re a troll?” Ali asked. “Aren’t you virtually immortal already?”
+
+“No. We can still be killed,” Tol’brekk said, shaking his huge head. “A dark fate that has taken all Aman Rak. My people are extinct now. Let me go.”
+
+“Not all,” Ali said.
+
+“Do not torment me,” he begged.
+
+“Identify me,” Ali said.
+
+His glowing red eyes flickered briefly and then he gasped. “Is it… can it be… Savior of Aman Rak? How many survived? You must tell me!”
+
+“Not many,” Ali said soberly. “Val’korr, Zor’kan, Gara, Tarek, and a few families we rescued.”
+
+“Thank you, Seeker,” Tol’brekk said, and if Death Knights could shed tears, Ali knew he would be crying. “Please, allow me to serve you – I will endure this wretched existence; the continued agony of undeath. Anything to ensure their survival.”
+
+“Perhaps we can fix even that,” Ali said, tugging on his enormous hand and drawing him toward the shrine. “I have a new feature I need to test, and this is the perfect time.”
+
+“Very well,” he said, “What do you require of me?”
+
+“Use the shrine. Revert your evolution.”
+
+“I will do as you ask.” He placed a massive palm against the heavy black stone, and moments later, the shrine surged with power, runes flashing as all the remaining stored mana vanished. Immediately, the massive Death Knight shrank, and then Ali felt the death-affinity mana holding him in undead animation slipping as her connection suddenly failed. Her Grimoire appeared in a sudden storm of gold and green.
+
+“Thank you, Seeker…”  Tol’brekk toppled sideways and hit the ground like an uprooted mountain, lying still in the field of Spectral Wraithroses.
+
+Ali’s reservation snapped, but she could tell that her experiment had worked. The only reason he had collapsed was that he had transitioned from undeath and her trick with her local domain mana had not been able to keep up with the change. It was a simple matter of mana, and a minute later, she resummoned him without needing her domain to keep him alive.
+
+Tol’brekk [The Crimson Blade of Carnage] – Giant Troll – level 100 (Blood)Your reserved mana has increased by +706.A massive, healthy Giant Troll stood before her, intelligent eyes catching hers filled with far more than could be spoken. “Thank you,” he said, glancing over at his own undead corpse still lying by the shrine.
+
+With a glance, Ali confirmed his class had reverted to Blood Berserker. He was back to normal, if a giant berserker troll could ever be considered normal. He had lost an enormous amount of the power that had come from his evolution and forced class change to Death Knight, but he was smiling. And he was ready for his evolution, just as soon as the shrine mana was refilled.
+
+“What now, Seeker?” he asked.
+
+“I have something fun in mind,” she said, beckoning a witch doctor over.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

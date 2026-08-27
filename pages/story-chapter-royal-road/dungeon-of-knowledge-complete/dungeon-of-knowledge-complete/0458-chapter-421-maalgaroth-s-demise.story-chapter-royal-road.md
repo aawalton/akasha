@@ -1,0 +1,125 @@
+---
+id: 60611b7e-d577-551d-9d1a-d3a788b98207
+page-type-slug: story-chapter-royal-road
+title: "Chapter 421: Maalgaroth’s Demise"
+slug: 0458-chapter-421-maalgaroth-s-demise
+partOf: dungeon-of-knowledge-complete
+position: 458
+ownLength: 2588
+unit: words
+ownProgress: 2588
+publishedAt: 2025-10-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2706061/chapter-421-maalgaroths-demise"
+royalRoadId: "2706061"
+markedReadAt: "2026-06-29T20:27:40.457Z"
+---
+
+Ali staggered, dropping to her knees as she struggled with waves of nausea from the advanced stages of the corruption that kept mounting despite the valiant efforts of her kobold acolytes. Worse, she was now beset with the additional agony of dungeon rage as she tore at the domain with her newest skill advancement, battling, screaming, tearing herself apart in search of anything that might turn the tide. She needed an edge, but with a raid boss reinforcing the domain, she was making precious little progress, and the pain was making it hard to think.
+
+She checked in with Tol’brekk on the other side of the rift, intending to use him to flee Maalgaroth and this realm, but everywhere her giant troll looked, the air was densely laden with glittering blue spores. He roared and unleashed the blender of his pair of greataxes, shredding plant aberrations by the dozens. The familiar sight of Mato, Malika, and Calen fighting tooth and nail filled her heart with tightness and anxiety. Depriving them of Tol’brekk’s power in exchange for dropping herself, mana-depleted and powerless, into the midst of a frantic and dangerous battle would likely get them all killed.
+
+They came! They came… for me… Her throat constricted around an inexplicable lump.
+
+Catching it almost too late, she threw up a barrier to protect herself from a massive surge of hellfire that burst outward from a nearby Zone of Destruction patch, splashing up against her golden barrier and filling her mana pool in a rush. Her mana had been easy to recover after the spore clouds, but the same could not be said for her acolytes and mages.
+
+“Switch,” she said, absently disrupting another Rain of Fire and Blood while she summoned cheap mana potions, favoring the quickest to make over quality. Her kobolds rotated through her Inspiration circle in a well-practiced dance. It was barely enough to keep ahead of the corrupted blood that was afflicting her melee minions with every strike and slash, but to their credit, her determined kobolds had not let a single minion succumb to the corruption. But every minion was running low.
+
+Maalgaroth dropped another Panic, sending her entire melee force fleeing like fowl fleeing the snapping of a fox’s jaws, and in that instant, he launched a blurring rush across the blasted hellfire cavern and impaled her Armored Drake from behind with his giant glaive. Hellfire and blades of blood exploded from the impact as he ripped the powerful blade through the drake’s ribs and out through its chest. Before the beleaguered healers could react, the glaive blurred again, switching direction as it cleaved across the drake’s throat. Blood sprayed onto the wall dozens of meters away as the drake’s head went flying, bouncing across the ground.
+
+“Begone from my presence, weakling!” Maalgaroth roared, shaking the cavern with the power of his voice.
+
+Oh, no! Ali stared at the unmoving corpse in dismay. Her tank had just been beheaded, and now the Pit Lord was running free. Not that she had been very effective in controlling him so far, but the Armored Drake had been a huge buffer of dragonscale and health standing between the Pit Lord and her other minions. Her melee recovered, charging toward the giant Pit Lord, but the cleaving strikes of the glaive were now hitting her shamans’ shields and her Bone Champions’ armor – none of which were even remotely suited to take the unmitigated strikes of a Pit Lord raid boss. She scrambled, reaching for her Grimoire in the hope that she could summon another drake tank before Maalgaroth tore her tattered forces apart.
+
+A shimmer flickered beside her, and Kir’vella reappeared. “I have returned, Seeker. I bring gifts!” she said, offering strangely cloudy, blue potions to her acolytes, which they immediately downed. One of them turned bright pink, and another began breathing strange clouds of mana butterflies, but they resumed healing, much to Ali’s relief.
+
+“Die!” Maalgaroth roared, stamping his foot into the ground with enough force to shatter granite. He unleashed a powerful blast wave of hellfire that sent Ali’s trolls flying into the walls, and as usual, he blurred into a charge, slicing a flying Bone Champion clean through the middle, bisecting him. The two pieces hit the rocky wall with a wet slap, but as he slid to the ground, his body rapidly regrew its lower half under the powerful healing magic of her acolytes.
+
+“Get in the circle,” Ali commanded, finally giving her newest Wielder of the Sacred Flame holy mages a chance to regain the mana they had lost to the spores. Her ice mages were doing fine, regenerating with their chill skills and ice shields, but her holy mages needed all the help they could get, and she needed their magic if she wanted any chance of surviving this.
+
+An intense ball of holy fire formed between one of the kobold’s hands, talons trembling as it wielded the potent spell. The scaled kobold clenched his teeth in an expression of pure focus and unleashed the fireball. It shot across the cavern, detonating loudly against Maalgaroth’s thick hide. He roared in pain and fury as the sacred flames burned into him, leaving patches of yellow-white consecrated fire on the ground, and Ali breathed a sigh of relief as the explosion of holy magic began healing her warriors and shamans.
+
+But all was not safe. Maalgaroth was still wily and vicious, and out of nowhere, he launched himself into the sky, impaling her void dragon right as she was directing her healing magic to recover her melee. Taken off guard, the dragon’s void shields shattered, and the remains of the glaive pierced its throat. As the two of them fell from the sky, Ali screamed for healing, but Maalgaroth stomped down upon the void dragon’s head, filling the chamber with the gruesome sound of wet splatting and bones cracking, and then he triggered an explosive blast wave of hellfire within the dragon’s chest.
+
+The corpse exploded, littering the cavern with a rain of black scales, blood, and bloody chunks of flesh.
+
+She stared at the remains of her void dragon – her most powerful minion – torn to pieces just like that, and she felt despair. She was dying from the corruption, and she was losing badly. Maalgaroth’s continual laughter sent shivers down her spine as she wondered how she could have been so stupid to think she even stood a chance at defeating such a monster. Healer’s Sight showed him to be still at full health, even after she had tried everything.
+
+Why do I have to do this? Azryet had made her do this by herself. She wasn’t even supposed to be here in the Abyssal Realm in the first place. If only Lira were alive, Ali would still be sitting in her library, enjoying tea with her aunt, and maybe a good book. In that moment, something finally snapped inside her, and the walls she had erected to protect herself came tumbling down. What poured out was a torrential rush of anger, frustration, hate, and grief.
+
+Nevyn Eld. Never in her life had Ali wished for someone to die as much as she did right then. Loathing twisted in her heart. Everything came back to the Blind Lich and his callous disregard for life and liberty. But it was not his general evil that struck her, nor the oppression of the living across the lands and the ages; it was the image of her mother dying, and Lira with a hole of black necromantic decay burned through her torso that gripped her mind and heart. He was the reason for all this, and in her white-hot, burning rage, she vowed to make him pay.
+
+She turned to Maalgaroth and screamed at him. She liked to believe she was articulate and eloquent, stabbing at him with potent barbs of reason and logic, but what came out was incoherent, raw anger, and the depth of her grief.
+
+And from behind her, a roar answered in chorus. A deep roar that filled the chamber. A roar that she recognized. The huge form of a Dire Bear hurtled across the hellfire-stricken cavern, trailing sizzling streams of the blackest void, and crashed into Maalgaroth with a Swipe that tore strips from his heavy, gnarly demonic hide, answered by a roar of pain from the Pit Lord.
+
+Mato? What are you doing here?
+
+A form, glowing like a blue-white sun, flickered and blurred as it shot across the cavern, dancing above the flames. Ali blinked at the afterimages burned onto her retinas. It reached Maalgaroth, unleashing an unbelievable number of strikes in an eyeblink.
+
+Malika? How?
+
+“Hi, Ali. What’s the situation?” Calen said nonchalantly, and she turned to see him hovering beside her as Tol’brekk attempted to squeeze himself through a gap in the rift that was far too small for him, losing an arm to the infinitely thin tear in the fabric of the realms. Absently, Ali waved to one of her kobold acolytes to heal him.
+
+They came… I have no words! In an instant, all her anger, rage, and grief vanished, and like the sun coming out from behind the storm clouds, her heart was filled with sudden relief and happiness.
+
+“Um…” she said, his question suddenly catching up with her. In a voice riven by emotion, she heard herself report, “Zone of Destruction with hellfire. Panic. And he has Vitality and regeneration like Joraa.”
+
+“Malika, he has a fear bomb,” Calen yelled. Instantly, the blue-white sun that was Malika began pulsing with ripples of healing energy that expanded outward from her in shimmering spherical waves.
+
+“I have ten minutes left on the corruption,” Ali said, realizing the biggest danger was losing herself to the Pit Lord’s infernal aura. “I’m not sure I can make it much longer.”
+
+“Do you have Bloodlust?” Calen asked. “And is that an Inspiration circle?”
+
+“Yes,” she said, realizing that she still had the powerful melee bonus if she needed it. “And yes.”
+
+“Then we’re good. Use it now,” he said, and downed a mana potion. “Malika wanted you to have this,” he said, placing a small circle of twisted wood in her hand. “It’s good, but be careful. It will damage you.” Several motes of light shot out from him and into the chamber, and when he stepped into the runic circle, his mana ignited. The motes began to pulse, lighting the entire chamber with their pure glow, and his arrows began to fly.
+
+Ali glanced at him in surprise, but he seemed fully focused and serious. With the surprise of her friends’ sudden appearance, and the mounting disorientation of the corruption, she glanced down in a bit of a daze at the strange ring nestled on her palm, pulsing with a dark glow.
+
+Twisted Band of the Sylvan Summoner – level 107A band of oak, grown or carved into a twisted wreath. The muted pulsing glow of mana hearkens to the malignant gloom of a dark and forgotten twisted forest. +63 Wisdom.+12% to Nature damage. +15% to Minion movement speed.Minions gain additional Nature damage on hit.Minions gain additional Death damage on hit.+120% to Minion health regeneration.Requirements: Wisdom 375Ring – Oak
+
+Malika found this for me? Even in her dizziness and disorientation, she could still tell the ring would be incredible for her. She slipped it on her finger and the glow deepened, but she barely registered the pain of spikes stabbing into her skin over the Pit Lord’s overwhelming aura.
+
+“Bloodlust!” she shouted, and Joraa reacted instantly, spending his life for the powerful blood enhancement. Across the battlefield, all her minions accelerated, their attacks flickering with more potent nature magic, and now the black flickers the death enchantment on her ring.
+
+To her astonishment, the fight suddenly stabilized. Mato pulled Maalgaroth to the edge of the cavern until his back was against a wall. Every blast wave was efficiently tanked, bouncing him into the wall and back. Every Zone of Destruction that dropped hellfire was avoided. And none of her minions ran. She could see the Panic in the formation of the domain mana, but nothing happened every time it was used, completely negated by Malika’s extraordinary Touch of Clarity.
+
+And Malika…
+
+Her friend darted around Maalgaroth’s head like a blazing incandescent ball attached to the demon by an elastic band. But every time she struck, the cavern shook. Bones cracked like tree limbs ripped free in a storm, and the demon’s thick hide buckled as uncountable lances of soul magic blasted through his body, ripping through the cavern floor below him. Dark blood ran in rivers, and the giant Pit Lord howled in pain as Malika’s relentless, unstoppable torrent knocked him to his knees again and again.
+
+“How is she doing that?” Ali asked, staring in awe at Malika’s transcendent form.
+
+“Malika? She’s been fighting nonstop for more than four hours,” Calen answered, unleashing an uninterrupted stream of arrows from his bow. “She’s very powerful right now – just her and Bloodlust should be half of this fight.”
+
+Ali wouldn’t have believed it, but for the evidence before her eyes. Malika struck again, and Maalgaroth stumbled as the shattering impact crushed him to the ground while his health took a substantial dive.
+
+Every time Ali’s Bone Champions were sent flying by the blast wave, they used Bone Rush to return, laying their Mortal Wounds on the huge demon. By now, they were alternating – one remaining at a distance, attacking with thrown axes, ready to rush in at a moment’s notice. With the uninterrupted Mortal Wounds and the ability to keep him out of the fire, Maalgaroth’s health was steadily dropping. Not exactly quickly, but it was falling continuously.
+
+“Don’t forget to heal yourself, Ali,” Calen said. “That ring...”
+
+She glanced at the ring, seeing the pulsing of mana within it and a tiny smear of her amber blood where the wood had pierced her skin, but her healers had already anointed her with a holy restoration spell that was keeping her topped up.
+
+“I missed you guys,” Ali said, trying to avoid choking up and failing miserably.
+
+“Missed you, too, Ali,” Calen said, giving her a quick smile. He had to pause to give his eyes an ineffectual swipe with the back of his hand. “I mean, not me. Mostly Mato.”
+
+She snorted. “Right.”
+
+Oddly, his terrible joke was the moment that most settled her heart. All the pain, the constant struggle, the desperate clawing for survival in this endless dungeon, seemed to suck away from her awareness, receding into the past. This was now. This was what truly mattered.
+
+Ali pulled out her wand and emptied it, granting spell haste to all her mages – holy and ice. The space around Maalgaroth became a riotous, continuous flickering explosion of mana and magic as holy fire detonated with heavy thumps, accented by soul magic, ice, void implosions, and ribbons and blades of blood. Then Kir’vella cast Ritual Infusion on Malika, and the air around Maalgaroth was suddenly suffused with an explosion of chaotic magic, lightning arcs, and mana butterflies, and the roaring of her ceaseless attacks rose to a deafening thunder.
+
+It was a tense couple of minutes after Bloodlust expired while Ali’s kobolds struggled with the corruption, but Maalgaroth never recovered. When Malika finally finished it, the demon roared in disbelief just before crashing to the ground.
+
+Oh, thank goodness, Ali thought the instant she heard the chime.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

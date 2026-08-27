@@ -1,0 +1,135 @@
+---
+id: 0d473c34-8097-5855-85b1-666ae66b464f
+page-type-slug: story-chapter-royal-road
+title: "Ch82 Lan Xin’s Deal"
+slug: 0082-ch82-lan-xin-s-deal
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 82
+ownLength: 1977
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3581712/ch82-lan-xins-deal"
+royalRoadId: "3581712"
+---
+
+“What are you doing here…?” I reply, while activating a defensive talisman.
+
+To the average cultivator, this spirit vein is completely hidden. Her immediate conclusion that it is being overstrained puts me on alert.
+
+The Tier 2 concealment gathering array tethered to it does not let a single gaseous particle of qi out into the air during the overstrain process.
+
+Yet, without being anywhere near the array flags or touching my control disk, somehow this woman can tell exactly what I’m doing. My mind races, and I quickly come to a possible answer.
+
+While my array would trick initial-stage, mid-stage, and probably even late-stage qi refining cultivators, even while they’re standing right on top of it, this woman is different.
+
+She’s at the 11th level of qi refinement with an innate spirit-grade physique. Her spiritual senses are most likely at least double the strength of mine, piercing her mental gaze deep underground and capable of picking up minute shifts in the earth.
+
+While my array can conceal the qi presence of a vein, the large holes in the ground it’s carved and the physical, semi-translucent crystal entity beneath the surface do not simply disappear. They still displace physical space.
+
+After a few minutes of observation, she could easily see the ground’s subtle changes.
+
+Additionally, she’s witnessed me use strange artifacts and pull out rare, unknown items. The fact that not a single particle of qi escapes this hill is even more suspicious, making her claim a logical deduction.
+
+She may be stuck-up and self-centered, but clearly, she is not dumb.
+
+I pull my Azure Lightning Attack Talisman from my storage next, just to be safe.
+
+Lan Xin confidently smiles at my reaction, and a yellow and orange snake slithers out from her skin flickering with fire, coiling around her neck. “What? A named disciple of the Beast Mastery Peak can’t check in on one of the Outer Sect’s newest recruits?”
+
+Her footsteps echo through the silence of the night as she comes closer to the edge of the warm pool.
+
+“No, actually, you can’t. A named disciple can only appear unannounced at another disciple’s abode if their quota is overdue. You’re breaking sect protocol in being here.” I remark through gritted teeth while azure lightning residue crackles around my hand.
+
+Lan Xin rolls her eyes, “Since when do you care about rules? I watched you steal a tier 2 black iron core on our first mission together, and now my first day back in the Outer Sect you’re harvesting a spirit vein.”
+
+My gaze tightens in curiosity as I don’t feel any killing intent coming off of her.
+
+“Then what do you want? We’re even. I gave you a fire stone, and even saved your life. I could have left you to die in that mountain to save myself the trouble.”
+
+She stops a few meters away, and looks down at me.
+
+Her eyes glow bright yellow-orange, filled with an unruly profit hungry look I recognize from many clients in my past life. “It’s about that stone… you said it was perfect grade, but I’ve never refined a perfect grade stone like that before… Even the ones gifted directly from the Sect have never been this strong.”
+
+A glint of confusion, and even fear passes through her eyes.
+
+“What family do you really come from? I read your file, and it says you're nothing but an orphan with 9th grade 5 element roots… I even checked the public historical records sent over from Nine Rivers City, and there is no Li family in the Hidden Mist County. There is not even a mention of it in the entire Verdant Prefecture. Is Li Hao even your real name, or is your backing from somewhere else?”
+
+Silence follows between us, and with every passing second I can feel the uncertainty building up in her soul. The arrogant haughty expression on her face and in her posture doesn't budge, but there is an inner turmoil shifting inside her too strong to hide.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[She always believed that the 10th level of qi refinement was the peak before foundation establishment, but the fire stone gifted by the host held the power necessary for a breakthrough. Given her unique bottleneck, and innate affinity for fire, it was enough to cause a breakthrough into the 11th level, setting her off on a rare path of cultivation.]
+
+My eyebrows raise, and a grin creeps onto my face as I find an angle to gain leverage in our conversation. “I see what this is about. The Sect still lies to valuable assets like you? They never told you about the 11th or 12th level of qi refining, have they?”
+
+Lan Xin’s pupils constrict. “There’s a 12th level too?”
+
+I nod calmly now that I fully understand her coming here has nothing to do with the Black Iron Mountain mission, or even the vein being overstrained beneath us. It’s entirely because she wants another upgraded fire stone to help her own cultivation.
+
+“I think it’s best you don’t ask any more questions you know I can’t give you the answers to.” I reply, reinforcing the false mysterious backing she’s conjured up in her mind to be true. It is always beneficial to create more psychological advantages if given the opportunity.
+
+Lan Xin takes a step back, and I speak again to fill the silence, “So tell me, what have you come to my humble abode unannounced in the middle of the night to do?”
+
+She gulps and pauses for a moment, but once a little further away, her stature straightens up again.
+
+“I’ve come to ask if you have any more perfect grade fire stones. It did help me with my cultivation a bit… I’m willing to pay any price.”
+
+She sways her hips, moving her green robes to the sides to show off more of her shoulders, and stares down at me in the bath.
+
+I look straight through her alluring performance, and watch her soul within erratically twist with indecision with my spiritual senses. My body in this world may only be that of a 16 year old boy, but my mind has experienced decades of far more manipulative women than this.
+
+She may be more beautiful than any I’ve witnessed in my past life, but her seductive antics are far from enough to get what she wants from me so easily without proper value in return.
+
+This allure however, does work well on others.
+
+I vividly recall the reactions of late stage qi refining squad captains that bowed in her presence and feared her name at Black Iron Mountain. Stewards worshipped her like a goddess that until then only existed in their magazines. It appears she has used this flamboyant personality to make a name for herself and rise the ranks in the Outer Sect, and I can make use of this influence if played correctly.
+
+After a long pause, I stand up out of the bath, and start walking away toward my clothes. The defensive talisman I wasted has used up all of its time, leaving me open to the elements again. However, I don’t activate another. I even stow away the attack talisman, leaving myself completely bare.
+
+“How rich are you?” I question while grabbing a towel and drying off.
+
+My abruptness, and tone of voice dismissing her advances catches her off guard. “W-What do you mean?”
+
+“I mean exactly what I said. How rich are you? Ten thousand spirit stones? A hundred thousand? A million? More? What kind of wealth would the sect not bat an eye at if you made a public purchase?”
+
+I turn around fully nude while drying off, then slowly get dressed.
+
+Her face subtly reddens for a second before answering, but this natural reaction is quickly covered up as she keeps her overly arrogant posture and tone steady. “I don’t know why you’re asking this. Do you truly only want spirit stones? I can pay you double the market price, five thousand for a single perfect grade fire stone. And- if you have more than one, I’ll buy three. No, I can buy five even….”
+
+“So you can easily come up with twenty five thousand spirit stones?” I pull my robe fully on, and walk around the edge of the pool.
+
+She nods. “Yes, on hand that’s what I can pay. In a few months, I can get double or triple that if I sell a few artifacts and apply for more sect quests.”
+
+I shake my head, “There’s no need. I just want to use your influence and name to purchase something.”
+
+“Purchase what?”
+
+“Spirit veins. I need inferior grade veins, as many as I can get. I’ll provide you with the spirit stones, and you buy them under your name. The sect wouldn’t mind selling off a few servant camps for a decent price, right?”
+
+Her expression shifts. “The property rights of the Outer Sect are far above anything I can make deals with. Even inferior grade veins are worth far more to the sect to build up loyal stewards and servants that might one day join their true ranks. It would not be in their best interest to sell off land to random outer sect cultivators or allied clans. The closest place to own veins privately would be Lingshi City. The Wang, Mu, and Jiang families own almost all of those spirit veins.”
+
+Her tone shifts to a lower serious voice. “They’re in quite the feud right now… the Jiang family is openly oppressing the other two families, and squeezing them dry. If you really want inferior quality spirit veins, I’m sure any of the three families would be happy to offload their useless property for cheap.”
+
+I think for a moment, then nod. “I’ll be right back.”
+
+I walk out of the back courtyard, into the main rooms, and then far into the front out of Lan Xin’s spiritual senses. Then, pull out 100,000 spirit stones, and use an upgrade card on a low quality storage ring to expand its size to make sure there is enough room inside to even hold this many stones.
+
+The massive pile of small white crystals barely fits in this ring, it’s at its limit.
+
+I stare up at the moon in the night sky for a few seconds, then walk back inside and throw Lan Xin the ring.
+
+“Buy as many inferior grade veins as you can, from only the Wang or Mu family. Do not try and strike any deals for low grade veins, or even ones that seemingly produce a lot of spirit fragments. The worse the vein quality, the better. I just want as many individual veins as possible…”
+
+She catches the ring, and breaks the imprint to look inside.
+
+As her eyes shift from suspicious confusion to widened shock I comment again, “I want no mention of my name in these deals, and I don’t want you to pressure their families too badly. If the extra spirit stones can be a nuisance to the Jiang family then that’s a bonus for me.”
+
+I smirk, and start to walk away.
+
+“A-And once I’ve done this…” she states with a hesitant tone.
+
+“Once you do this, and grant me access to the locations you manage to buy with my spirit stones, I’ll give you the five perfect grade fire stones you wanted to buy, all free of charge.”
+
+I wave her goodbye without turning around again, but watch through my spiritual senses filled with amusement as her small mouth hangs open in disbelief at the vast amount of spirit stones in her grasp.
+
+After a few seconds, I hear “Deal. I’ll get it done.” from afar. She disappears from my abode in a blur of fiery orange and yellow light.

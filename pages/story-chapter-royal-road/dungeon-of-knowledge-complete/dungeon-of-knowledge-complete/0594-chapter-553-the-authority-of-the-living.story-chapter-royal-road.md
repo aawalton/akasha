@@ -1,0 +1,183 @@
+---
+id: a75256dd-2314-5b29-bca1-4685fd7ba50c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 553: The Authority of the Living"
+slug: 0594-chapter-553-the-authority-of-the-living
+partOf: dungeon-of-knowledge-complete
+position: 594
+ownLength: 3246
+unit: words
+ownProgress: 3246
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3108226/chapter-553-the-authority-of-the-living"
+royalRoadId: "3108226"
+markedReadAt: "2026-06-29T20:32:36.795Z"
+---
+
+Ali downed a Wind Resistance elixir and stepped through the Gate, appearing beside the Well of Divinity on that windswept scrap of flying rock in the middle of the most potent magical storm in existence. She glanced about, taking in howling reeds whipping back and forth in the lashing winds, filling her ears with their mournful, discordant song. Overhead, flowers circled on giant sail-like leaves, spilling her mana into the currents as they soared.
+
+Her domain was firmly established here, and elsewhere, on distant floating islands, her Treants and other minions were hard at work putting the finishing touches on her plants.
+
+The first thing Ali did was to unsummon the Divine Archon guarding the Well. She studied the area closely while her loyal Troll bodyguards fanned out in defensive formations, but she decided her earlier choices were perfect. She resummoned the Divine Archon with the same champion rank abilities, but this time, she spent one of her four precious points of Authority on it. She could have invested all her points in the archon, but Azryet’s advice had been to spread her points out until she had a surplus. The initial point spent substantially outweighed any incremental benefit. The sense of power emanating from her Celestial as her domain enhancement took was nothing like before. A sense of purpose and strength radiated from the champion, far more powerful than she’d ever experienced before – a weight that might even have been a match for what she experienced from Kryostria lurking deep within the Crypt of Kings. No. This is more.
+
+“The dead are coming,” Ali told her minion. “Guard the Well and kill all who come to claim it.”
+
+The Archon drew her sword and simply nodded solemnly.
+
+Right, Ali thought, and turned her eyes to the skies. Her domain writhed up there, a tangled ball of wind affinity that reminded her of the densest knots of Naia’s domain. With her greatly improved spell haste, it was a matter of no more than half an hour to summon several of Azryet’s third-tier dragons, distributing them in a defensive shield formation around the island, all within striking distance. She did not have the Authority to elevate any of them, but they were still powerful bosses in their own right.
+
+She left several second-tier Trolls and Kobolds to hide behind the powerhouse – healers and support casters capable of dispelling curses and buffing her bosses. With the immense cost reductions her class and level now afforded her, she had filled her dungeon with thousands of low-second-tier defenders, many even boosted to Elite or designated as regular bosses, and still hadn’t even begun to strain her mana pool. Sure, none were likely to provide substantial resistance to the likes of what the Blind Lich could muster, but her dungeon had never been so well defended. Still, it was the third-tier monsters, like the ones she’d just summoned here, that provided a credible defense and demanded steep mana reservations. They were the defenders that would matter in the coming clash, and she keenly understood Azryet’s advice to spend her Authority strategically.
+
+Before she left the Sea of Fractured Dreams, Ali summoned strong guardian bosses for the network of Gates she had made to link the islands floating in the storm.
+
+That should be good, she decided. At least for here. So far.
+
+With a puff of mana, she teleported herself to the heart of Ciradyl, calling Nendir as she did. The summoned simulacrum of the legendary archer met her at the Well of Souls.
+
+“The Lich is coming,” Ali said. “I need a powerful defender for the Well, and for the city of Ciradyl.”
+
+“I will serve,” Nendir said, his eyes narrowing at the mention of the Lich. “Let him taste my arrows.”
+
+“Let him, indeed,” Ali said, and then unsummoned Nendir, before resummoning him again, but this time using a point of Authority.
+
+“You have made me stronger,” Nendir stated, staring at her with curiosity. “You have a touch of divine ascension in you.”
+
+“I hope you will use it well,” Ali said, inclining her head. Then she attached him to the domain by the Well and elevated him to a champion boss.
+
+“Will I be the sole defender of Ciradyl?” Nendir asked as threads of domain mana as thick as hawsers flowed through him.
+
+“You will be our last line of defense,” Ali said. “How far can your bow reach?”
+
+“As far as I can see,” he said, and fired an emerald-green glowing arrow off into the distance. It flew so far that Ali had to follow it with her mana sight using the domain, and still the arrow vanished as it exited her domain.
+
+“Good,” Ali said, impressed despite herself. “Then, I will make you guardians under your command.” She had only two points of Authority left after raising Nendir and the Divine Archon to their elevated power, so she gathered the remaining Soul Archons and placed them in a strategic ring around Ciradyl, granting each a champion enhancement. Not satisfied to leave it as that, she summoned a holy and void Scion of Azryet to flank the Well, and upgraded them to champions, too.
+
+“That should do it,” Ali said, after seeding numerous support classes between the bosses – second-tier Troll Blood Shamans for healing and Bloodlust, witch doctors for decursing, and several kobold priests. With Nendir’s incredible eyes and range, anyone who attacked Ciradyl would be facing the outer ring of supported bosses while simultaneously being subjected to the withering hail of Nendir’s arrows.
+
+Ali returned Nendir’s solemn bow before heading off to her next destination.
+
+Ali appeared high above the ground, flying beside one of Lira’s immense World Tree branches. The first thing she noticed was that, even though she was half a mile up, she was bathed in her own domain. It took a moment before she understood why. The tree trunk itself was a blazing pillar of mana so intense, it was hard to look at, and just like with her own trees, only on a much grander scale, the World Tree was drawing up immense quantities of mana from its roots, pumping it up through the trunk, and dispersing it from its leaves. Roots that were inextricably entwined in every region and biome of Ali’s domain. Mana of every single type billowed from the tree in a pillar, the size of which staggered the mind.
+
+The density of it was beyond imagination, every single affinity Ali had sown through her dungeon, blended into a seamless stream of energy and life. I can summon anything here, she realized with a start. She circled downward, savoring the exhilarating sensation of Lira’s supporting aura and the unparalleled mana phenomenon. It wouldn’t take long before pilgrimages to Lira’s tree became highly popular among the scholarly circles of magic research.
+
+When Ali finally touched down on the soft moss between house-high roots, Lira stepped out of the tree.
+
+“Aliandra, what a delightful surprise,” Lira said.
+
+“I came to offer you some bosses for defense,” Ali said, happily accepting her aunt’s hug. “What do you need?”
+
+“Trees would be ideal, or your nature elementals,” Lira said, surprisingly not even trying to reject the offer to help. Perhaps the planning meeting with Azryet and her own death at the hands of Nevyn Eld were weighing heavily on the once dryad, even though she was now a four-mark being. Even so, without combat abilities and having such a narrow nature and plant theme, Ali was worried the Lich’s cunning might still find a way to hurt her.
+
+Without much ado, Ali summoned a ring of Treants to circle Lira’s roots – modified from the Malevolent Oaks to be of pure nature affinity. After raising all of them to champion, she supplemented them with Sylvans of every kind and even seeded the ground with Forest Guardians. Unfortunately, all of them were second-tier, and that was not enough to let Ali rest easily.
+
+“What else can I summon?” Ali asked. “Something in the third tier that can really make an impact. What about some of Azryet’s dragons?”
+
+“The holy ones would be agreeable, and the Wood Elves of Ciradyl would not disrupt my mana,” Lira said.
+
+“Ok,” Ali said. She summoned several Soul Archons in place of the requested elves and spent one of her remaining points of Authority on a holy Scion of Azryet, upgrading each to champion bosses.
+
+“That looks lovely, dear,” Lira said.
+
+But Ali had one more surprise for her, the result of her slaving away at the shrine for hours, trying every single combination she was able. In a bit of inspired research, courtesy of Clarence, Ali had successfully managed to regress a holy-affinity Scion of Azryet and re-evolve it back to third-tier with a nature-affinity instead. She summoned her first Sylvaron Wyrm among Lira’s branches, spending her final point of Authority on the stunning emerald-scaled, gleaming dragon that immediately perched upon a broad branch and almost faded from view with a subtle camouflage skill.
+
+“Oh, Aliandra!” Lira exclaimed. “What an exquisite creature!”
+
+“Thanks,” Ali grinned, and got to work summoning a flight of them to give away before her aunt even thought to ask.
+
+I only hope this is enough.
+
+***
+
+After taking care of the bulk of her most urgent defensive goals, Ali felt a lot more accomplished, and certainly it took a load off her mind. With Lira’s tree guarded to the best of her abilities, she felt ready to take on the next thing on her list, but her excitement to advance her troll and kobold was interrupted by Vivian Ross the instant she set foot in the guild hall.
+
+“Aliandra,” the Guildmaster said, advancing on her with the look of someone bearing chores. “Do you have time now?”
+
+“I might have a little,” Ali said warily.
+
+Vivian glanced at a small notebook and said, “There is a visiting team looking for evolutions, but I had to tell them not to risk clearing the shrine guardian because of your rank up. I also have a group of Thorel Moldur hopefuls looking for crafting classes and a fresh set of guild recruits that could also use the shrine. Have you had a chance to restore the dungeon to normal?”
+
+“I see,” Ali said. With her advancement, everything about the dungeon was now off kilter. Her new abilities propagated to her minions, pushing them far beyond the realm of the novice and lower-level adventurers who badly needed training or even the group at level one hundred waiting to unlock their second-tier evolution. The problem stemmed mainly from the Eye of the Lich ring and its incredible enchantment, Summon Supremacy.
+
+With some careful study in the library earlier, she had learned how to withhold the benefits from specific minions, but it would take a fair bit of effort to roll it out to the entire dungeon, especially with the number of new bosses she had made. It would most certainly be unfair to have her first raid boss – the kobold warrior party – suddenly begin casting healing and fireballs nearly ten times faster against level eight and nine adventurers. It was going to take several hours to recalibrate the dungeon’s training areas.
+
+“I was planning to take two minions to the shrine in a few minutes. I can escort everyone through the dungeon,” Ali suggested, earning a flash of a smile from the overworked Guildmaster.
+
+Ali ranged out, touching her minions with her awareness, beginning the chore even before Vivian Ross had rounded up the hopefuls. Only the training areas, she decided. It was impossible to know when or where the eldritch eyes might show up, nor if there would be sudden portals like the attack on the Well of Divinity after she had restored it. She had been diligent in filling her domain with freshly designed bosses and minions, and scaling them back was not an option – she needed an early warning system, and a quick retaliation against any incursions.
+
+In surprisingly short order, Ali was flying slowly across the Forest Cavern toward the glowing shrine, leading the subdued group of Thorel Moldur dwarves who had petitioned the guild for shrine services. Additionally, keeping a little to themselves was the visiting adventurer group seeking their first class evolutions that Vivian had mentioned, and bringing up the rear with the Guildmaster were several guild novices bearing a noticeable air of anxious excitement, seeking their class unlocks.
+
+This might technically be a chore, but it was one Ali had never grown tired of. Some of the guild hopefuls wore obvious hand-me-downs, worn leather armor, and carried scuffed and battered weapons that were obviously loaned to them from the guild. Still, it was the hungry hope that leaked from their guarded eyes and soot-stained faces that told the story of a hard life, or poverty, before they had desperately reached for the promise of the guild. Others in the group were obviously from wealthier families, and yet they all stood shoulder-to-shoulder, hoping for a future they could believe in. Any time Ali needed an emotional reminder of her impact on other people’s lives, she merely had to watch the transformation they would undergo when their doubts and reservations were blown away by the fact of a real, powerful class, and the rush of the implications that would mean a life transformed.
+
+All the more reason to deal with the Lich once and for all.
+
+“Here we go,” she said as Ali reached the shrine and turned to face the small group. “I will unlock the shrine for each of you in turn, and you may process your class choices. I encourage you to take your time and ask questions if you’re unsure. For the novices looking to gain a class, I encourage you to choose a compatible mana affinity first, if one is available. It radically improves your choices.”
+
+She surveyed the attentive faces, observing an entire range of emotions that ran from anxiety and uncertainty to hope, excitement, or even stoic guardedness. “How about we start with everyone looking to choose their first class?”
+
+Several people shuffled awkwardly, uncertain about approaching, but Ali had done this so many times now, she was easily able to put them at ease, and soon she had a group of people clustered around the shrine choosing classes for the first time.
+
+“I got a Miner class!” one dwarf exclaimed, proudly sporting a freshly acquired earth affinity.
+
+Ali smiled and was about to congratulate her when her chime sounded.
+
+You have gained Reputation.+1 Authority.
+
+Wait, what? I got reputation for a mining class?
+
+“Aye, I am a Stonesmith!” another dwarf bellowed.
+
+“Excellent, Galdor, I have work for you already!” his companion said, slapping him on the shoulder.
+
+Again, Ali’s chime sounded in concert with the declaration.
+
+You have gained Reputation.+1 Authority.
+
+Do I get reputation for every class? But Ali’s skepticism vanished as every single applicant – both the guild combat class hopefuls, and the dwarven crafters – added a little reputation and another point to her Authority total. Oh, my! Azryet never mentioned this!
+
+With mounting curiosity, Ali invited the visiting adventurers – hopefuls to ascend to the second tier. It didn’t take long to explain the shrine and the paths to them, especially considering Ali had spied several copies of Val’korr’s reference manual in their hands – manuals that she had copied and put on display in the guild store for precisely this occasion.
+
+The black-clad assassin went first, triggering a potent surge of ice mana, which had many of the spectators gasping in amazement, but even though Ali invited the rest of them in, they waited patiently for their leader to finish with uncertainty or wariness worn unconcealed upon their faces.
+
+Moments later, the zone notification resounded, and Ali’s chimes went off like a soft mental echo.
+
+[Zone] Assassin of the Frozen Wastes has advanced to the second tier.You have gained Reputation.+2 Authority.
+
+Two this time? Second tier?
+
+“It worked…” the assassin said, her voice hoarse with surprise and relief.
+
+Ali had gotten used to such reactions. At first, the implication that she would offer a fake service annoyed her, but she had seen numerous groups with the same reaction as months or years of accumulated hoaxes, scams, or traps creating calcified distrust were suddenly unwound in the face of their sudden breakthrough.
+
+The assassin nodded at her teammates, and they all approached the shrine, eyes now shining with eagerness.
+
+[Zone] Blazing Spear of Righteousness has advanced to the second tier.You have gained Reputation.+2 Authority.
+
+With each zone message, Ali’s Authority was replenished by two. Is it for the second tier? Or the message? Or both? Ali had no way to be sure, but as soon as she had finished with everyone, she gathered Tol’brekk and her kobold priest. The eyes of the onlookers widened at the sight of powerful minions they no doubt couldn’t identify approaching the shrine. Ali saw their curiosity and allowed them to watch, not that the process itself would reveal any secrets.
+
+It had been Azryet’s opinion that she should evolve her priest herself instead of taking his imprint, especially given how close they were to the third tier. The theory, as he’d articulated it, was that she would likely unlock something unique, and they would be able to trade later, perhaps to mutual benefit. The kobold in her pristine robes placed her claws upon the shrine and unlocked several fantastic path choices centered around the ideas of holy power and spell haste, presumably earned by taking advantage of Ali’s unique abilities. There was even an impressive new instantaneous heal that required the use of a consecrated holy focus; something she was certain Havok could help her with. As usual, Ali let her pick, eagerly awaiting the result and the notification.
+
+[Zone] Priest of Azryet has advanced to the third tier.You have gained Reputation.+3 Authority.
+
+Three? It must be tier-related, then! While she had expected it, the confirmation was no less of a jolt of excitement. Three Authority was nothing short of amazing, and Azryet’s theory had just been proven correct – she now had a spell-haste-based priest that not even Azryet could offer. She couldn’t wait to show him.
+
+“Ok, your turn,” Ali said.
+
+“Power to the worthy,” Tol’brekk said, bowing his massive head over the haft of an axe the size of a small tree.
+
+“You have earned it,” Ali said, inviting him to the shrine. A few moments later, she was staring at a proud Giant Troll who had grown visibly larger and denser.
+
+[Zone] The Rage of Aman Rak has advanced to the third tier.You have gained Reputation.+3 Authority.
+
+Another three! With all this new Authority, she had the means to drastically boost the power of the guardians she had placed to watch over Ciradyl, Lira, and the Well of Divinity in the fractured ruins of Aalion.
+
+“Wield me, Seeker,” Tol’brekk grumbled, his voice coming out even deeper and more resonant than before as if his lungs had been replaced by a vast rocky cavern. “The Rage of Aman Rak is yours to command.”
+
+“Our enemies are coming,” Ali nodded soberly. “You will have your fill.”
+
+“Excellent!” he declared, smashing his two weapons together in a salute. “Time to show that prissy paladin who’s the strongest!”
+
+It took Ali a moment to realize he was talking about her Divine Archon, and then she grinned.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

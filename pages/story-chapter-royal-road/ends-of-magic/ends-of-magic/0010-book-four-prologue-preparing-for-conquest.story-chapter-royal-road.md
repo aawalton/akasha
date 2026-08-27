@@ -1,0 +1,91 @@
+---
+id: a36c206e-0450-55c4-8ccd-624f0d7fedbc
+page-type-slug: story-chapter-royal-road
+title: "Book Four Prologue: Preparing for Conquest"
+slug: 0010-book-four-prologue-preparing-for-conquest
+partOf: ends-of-magic
+position: 10
+ownLength: 2064
+unit: words
+ownProgress: 2064
+publishedAt: 2024-05-15
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1637196/book-four-prologue-preparing-for-conquest"
+royalRoadId: "1637196"
+markedReadAt: "2026-06-29T20:07:35.206Z"
+---
+
+“My friends and I will bombard their trenches with elemental fury, sure as the Giant’s fist!” proclaimed Bazan dho Humal, spittle flying from the war mage’s mouth with the force of his enthusiasm. He watched Badud with beady eyes, trying to gauge the impact of his passion.
+
+Badud let the moment stretch, then gave a shallow nod. “Indeed. You are proof of the strength of the Ascendent Academy. Tomorrow we will conquer Halsmet, and I will look for the flare of your magic.” Then he held the tent flap open, gesturing the war mage out of his tent and trying not to appear too annoyed.
+
+“Praise to the founder,” Bazan replied, clasping his hands together in a Giantsrest salute before giving the tent one last glance around to see if he could find an excuse to stay longer.
+
+Badud exhaled in frustration as soon as the fabric swung closed behind the man, and he debated magically sealing the tent to prevent interruptions. But that would send a message to the mages of Giantsrest that Badud did not wish to speak to them. Though it would protect him from distraction by fools trying to curry favor, it would also weaken his strategy.
+
+Many of the mages in this army were here to curry favor with him - and for the promised share of slaves and riches once Gemore was conquered. He needed an army powerful enough to quickly and easily conquer Halsmet and then continue on to Gemore and beyond without a pause.
+
+That was the secret of conquest. Give an army the taste for easy victory, and the desire for more would seize them. The factional politics of Giantsrest would vanish before the glory of a conquest and the man who led them would be worshiped far beyond the wary ambition that greeted a Founder. Badud would forge these bickering mages into an army to conquer the continent.
+
+But that plan required that he play the role of the invincible leader who cared deeply for those under his command. He needed to cultivate a cult of personality, and that was built of both overwhelming magical puissance and a thousand smaller demonstrations - such as allowing mages to come to him with concerns on the eve of battle.
+
+He eyed the flap, waiting for another intrusion as he took a seat behind the single desk in the room. When none was forthcoming, Badud reached into his sleeve, pulling out a map to spread over the table that occupied the small tent. He traced his fingers over it, mapping out the planned march to Gemore before tapping his fingers on the northern Mountains and the city of Litcliff on the southern coast. Then he ran his fingers to the far West, where Agmon dominated that end of the continent.
+
+That was the true challenge. Ushuaia was a worthy foe, and Badud needed to build his forces before he set himself and his army against the Seer and her military. He had wanted to develop the [Teleport] Insight broadly among the Ascendent Academy before beginning the conquest. That Insight provided incredible logistical and strategic flexibility. Then he could have quickly pivoted after taking Gemore, moving south to take Litcliff and establish communication and support treaties with his other holdings.
+
+But the fall of Halsmet had been the perfect rallying cry for Giantsrest. Not only had it delivered Exea into his grasp, but the other Archmages had been eager to unite for the purpose of punishing Gemore. The mages of Giantsrest had not seen Gemore as a true threat, merely as a prize to be conquered by whatever Archmage was brave enough and mustered the political capital to do so. But now that Haslmet had fallen, they had decided to squash the city of upstart slaves while they were overextended.
+
+It was acceptable. Armies that moved from battle to battle leveled quickly, and soon every mage that followed him would be capable of casting [Teleport]. But first, they needed to take Halsmet, and then Gemore.
+
+Badud frowned, tapping his finger atop the circular symbol that depicted the ruin of Old Gemore. Gemore had been left to develop for too long, and were on the verge of creating dangerous traditions with their adventurers and assassins. It would have happened already if any other Questor had taken the city in hand. But Brox - Brox was never one to guide his holdings. He would fight for them, but not lead them.
+
+The thought of Brox made Badud relax slightly. He could beat Brox. The two of them had fought several times. If Brox caught him by surprise, he could land a decisive blow, but Badud often won the long game. Their battles usually ended in a draw since neither of them were eager to fight to the death, and they found each other frustrating to fight. But in this case, a draw would be equivalent to a victory for Badud because of the overwhelming strength of his army.
+
+Regardless, Badud had a plan. He walked over to the tent flap and peeked through, looking at the huge, brightly lit tent a short way away. Anybody approaching the camp would believe that the leader was there - but all they would find were illusions and a magical trap.
+
+Even if that didn’t suffice, Badud had a new trump card. Magic that he expected would certainly take Brox by surprise. He nodded to himself, looking forward to a rematch before considering other variables that could affect the battle. He desired a short, victorious war to set the stage for further conquest, and did not want a missed variable to muddy the glory.
+
+First - Cala dha Drex. The archmage of the Nails had left on a scouting mission, and had not reported back. She had planned to scout and sabotage, but it had been days since the woman’s last [Message]. She was either dead or preparing to betray Badud, and he liked neither option. The most likely scenario is that she’d been too ambitious and been detected and killed by Brox.
+
+Second, the Gemore adventurers who had been harassing his army ever since they entered the mountains. They knew no magic of consequence, merely Insights of illusion and stealth. The casualties had been low and mostly among the replaceable slave-soldier regiments. It was possible that they would appear again tonight, but Badud refused to show his powers. They probed for information, and he would not give it to them by striking at illusions.
+
+Third, there was Nathan Lark, the antimage. He could be the start of a dangerous trend. Badud had expected him to sharpen Taeol dho Droxol, to force the gifted dimensional archmage to break through to the next realm of magic to overcome Nathan. But instead, Nathan had killed Taeol and gone on to liberate the slaves of Halsmet.
+
+Badud was determined to cut off the development of Gemore before the Antimagic Insights spread. Antimagic was a known path, though he had never heard of it originating without Questor involvement. But while it was effective against early-stage mages, antimages could not progress to challenge true masters of magic. Badud could fly, manipulate the world at a thought, and call upon true Wizardry. No antimage could stand against him - or any other true archmage.
+
+The tent opened again, and Badud looked up with a sigh, ready to placate another mage and their basic worries. But it was no average mage who had come to him, but archmage Exea dha Humal. The old woman stumped into the tent like a crone of the fey, back bent and gaze cruel. She bowed her head fractionally in a display of bare respect, before nearly glaring when she raised her eyes once more. “I greet you, Founder of Giantsrest.”
+
+He did not reply immediately, letting the silence stretch to make a point. Exea was a proud woman, one of the few to rise in power and glory among the Ascendent Academy. She was one of the richest and most powerful archmages, with hoards of artifacts, thousands of slaves and some small grasp of wizardry. Mere weeks ago she’d also been one of the most autonomous archmages, with an independent base of power that left her relatively unconstrained by Giantsrest politics.
+
+But now her city was in the grasp of rebels, and she had spent mountains of influence and wealth to motivate the mages of the Academy to retake it in her name. Then Badud had stepped in, making the reclaiming of Halsmet a matter of pride for Giantsrest as a whole. The army had tripled, but it was no longer under her command.
+
+Eventually, she broke the silence with her reason for being here. “Tomorrow we will march on Halsmet, my city.” She watched for his reaction, probing to see if he would dispute her claim over Halsmet. “After that, you mean to march to Gemore?”
+
+Badud did not answer for a second longer, but then he gestured for Exea to sit in the chair before the desk and indicated the map spread over its surface. “After that, I march on the rest of the continent.”
+
+She frowned at the map, pursing her lips like she’d just eaten something sour. “Do you ask me to join you?”
+
+“I do.” He said simply, then held up a hand to indicate he wasn’t done speaking. “But not without reward.” He traced a finger from Giantsrest, through Halsmet and towards Gemore. “You wish to amass power and secure your legacy? March with me and you shall have Gemore and the claim to all of the treasures of those ruins.”
+
+Badud indicated the camp outside the tent. “And when we march onwards, every mage that joins me will earn levels and Insights that will rival the Kalis Conclave. Follow me in this, and your ambitions to power will be fulfilled.”
+
+He paused, waiting for her response, though her general acceptance was clear. The gleam of avarice in her eyes meant he had her.
+
+It was only a third-rate recruitment speech. But the most important part of recruiting a minion is always choosing the right person.
+
+“An enticing offer, Founder Badud,” the old woman said quickly. “If it were sweeter, I could not resist. Do you have any Insights I might learn, to better aid in your conquest?”
+
+Badud’s smile twisted slightly. He had recruited her for her ambition, but he had not expected her to push for magical secrets so quickly. But then again, she was one of the more powerful archmages of Giantsrest. It could be that she was worthy of his lessons.
+
+“Demonstrate your magic for me. Not the most powerful magic you have, but the deepest. I would see magic that changes Davrar on a fundamental level, that reaches past the grasp of mere mana.” Badud’s eyes were hard as he laid this test upon Exea.
+
+She was caught off-guard by his demand, but quickly rallied, reaching into a dimensional bag to retrieve a misshapen fragment of metal that shone with a golden inner glow. “This is adamant. I will destroy it.”
+
+Badud watched with interest as she channeled the energy of a [Disintegrate] spell into the tiny piece of metal. He couldn’t have come up with a better test if he’d tried, and that she’d had it ready indicated that she’d been practicing.
+
+Sussu probably left behind some hints along the path to wizardry. She loves burying Insights in ancient tomes for bookworms to find later. If Exea turns out to be worth anything, I’ll let her know.
+
+After a few seconds, the fragment of lustrous metal fell to dust in Exea’s hands. Badud gave an approving sound. “Impressive, for a beginner. I will only teach you a single Insight tonight, for we both must be rested for the battle tomorrow.”
+
+The smile looked out of place on Exea’s face, but then it was replaced by her habitual pucker. “Do you truly expect conquering Halsmet to be so simple? I was driven out by a man who could… who was immune to my magic.”
+
+Badud put on his best comforting smile. “It will be well. I know of the antimage, and if he is not slain by the legions of slave-soldier and slave-elites, then I will be able to slay him. And if you learn these lessons well, you will also gain that ability.”

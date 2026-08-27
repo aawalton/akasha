@@ -1,0 +1,101 @@
+---
+id: 2ec9c474-d42c-5626-aecf-e3aed142a2f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 574: Dragonsworn (Part 1)"
+slug: 0618-chapter-574-dragonsworn-part-1
+partOf: dungeon-of-knowledge-complete
+position: 618
+ownLength: 1738
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3173086/chapter-574-dragonsworn-part-1"
+royalRoadId: "3173086"
+---
+
+Naia wobbled happily as she slowly made her way through the Forest. She hadn’t felt Ali-friend’s word vibrations in far too long, and she had so many new things to share. Ali will love the Shadow Slime, she decided. Or maybe the Wobbling Wormhole I got from those two unsplit brothers.
+
+Ali’s brothers.
+
+She bobbed a bit as she went, her membrane sampling the ground and the soothing nature and arcane mana that pervaded Ali’s domain. Distant explosions transmitted heavy vibrations through the rock beneath her membrane, but that was normal for the dungeon. Ali’s and hers.
+
+She knew that now.
+
+Azryet had been right. All she had to do was use her skills, and she had grown far smarter. Ali-friend too – now that she could understand better, it was obvious how her friend had been helping her along all the time. Maybe one day, she could help Ali, too. She wobbled happily. The idea made her membrane quiver with joy.
+
+Ali wants oozes, she reminded herself. It was one of the interests they shared, and she had so many to share now. A ripple trilled across her membrane as she shifted briefly into the shape of the surrounding grasses, but she didn’t retain it long, squishing her way partially through a crevice in a rock, taking on the rock’s characteristics on the way, and then mimicking the roots of a tree as she poured out the other side.
+
+Suddenly, she recoiled, tasting something on the ground. Something foul. Something that should not be there. Tentatively, she reached out a small blue pseudopod and poked at the ground before her, discovering charred remains of wood and ash.
+
+And mingled within was the powerful essence of undeath.
+
+Ali? Ali-friend? A thump rocked the ground beneath her, and it occurred to her that perhaps there were far more explosions than normal today. She shivered, her membrane rippling as she assumed the nature of a rock and sat there, safe. Hidden.
+
+But it’s not me that’s in danger, she realized. It’s Ali-friend. Too much danger!
+
+She shivered off the aspect of the rock, forcing herself to go against all her instincts, and resumed her natural form. The tang of danger hung heavily all around her, and she was in the open.
+
+Where? Where is the danger?
+
+Gathering this unfamiliar thinking, she pushed back against her instincts and squished a portion of herself down into the porous earth, trying not to recoil at the thick taste of undeath that assailed her membrane. A second blast detonated, sending powerful quakes through the cavern and up into her body, but she was concentrating on it now, and the layout formed within her mind. The shape of the cavern beyond. The strange trees, rocks, and walls. The streams – all reconstructed from the echoes of the sound waves that had her full focus.
+
+Danger should be fled. This was truth. And the danger up ahead was immense, but she could feel Ali-friend and the danger together in the cavern beyond, and her friend was not fleeing from the danger. Her membrane shivered.
+
+What if Ali-friend could not run from the danger?
+
+What if she were… stuck? That was possible for the stiff-limbed people, wasn’t it? What if she needed help?
+
+Naia moved. Not away from danger, as her instincts screamed; no, she headed toward it. With a pulsing urgency that suffused her fluid, she pressed herself through the tiny pores in the veil separating her from the other place. The Spirit Realm.
+
+As soon as she entered the strange realm, the mana changed. Ali-friend’s domain still seeped through into this world, and there were strange trees with crystalline bodies that pumped more of it into the surroundings, but it was overlaid with the space and arcane affinity of Cael and Gage. And the vibrations from the explosions vanished, but they were not gone. She knew that now.
+
+She knew where she needed to go, and this was by far the shortest way there. With a surge of her own mana, she began summoning Oozes, keeping them within her own body to expand the reach of her pseudopods, and she began to crawl. Faster and faster as she grew larger and larger.
+
+Hold on Ali-friend! Naia is coming!
+
+“Ali! Ali, are you ok?” Calen shouted as the fading echoes of the realm’s gong blended into the battle’s unceasing din. The Mote of Light he’d been using to assist her and Malika had been gobbled up by some foul spell the instant he’d fired up Righteous Fury, and his remaining remote mote was still hovering above the battlements. Fuck! Did she just die again?
+
+Spells whistled through the air, a sharp, piercing, rising shriek to the strained grunting from the melee fighters and the crash of steel against plate armor. The worst thing about it was that, without his mote, he could no longer see her. For several long, agonizing moments, Calen hovered frozen in indecision, and then finally, Ali’s kobold, Mirianth, glanced up at him.
+
+“I’m alive, Calen. For now,” she said.
+
+“What can we do?”
+
+“Kill these guys quickly. We’re struggling,” she said.
+
+Sheesh. Talk about understatement! Even through the secondhand connection, that was clear as crystal. A little of the tension drained from his shoulders and jaw as Calen surveyed the sparking remains of Thaldorien Stormshaper, still slowly drifting down toward the ground like motes of dust in a sunbeam ever since they’d killed him. Already there was a rather tidy pile of ash upon the carpet below. He rolled his shoulders to ease them up a bit, knowing that every bit of extra tension would sap power from his bow.
+
+She’s alive! If she and Malika were alive, they could still fight, and that set his heart on a slightly steadier course. Struggling was bad, but it was better than what he’d feared when he heard that realm notification. And if she could still fight, so could he.
+
+He spun about to face Bragni Doomhammer again. The once Dwarven King, now Death Knight, wore heavy armor that gleamed in the dark throne room. That mithril plate, at least a half a foot thick over his chest and shoulders, now bore the scorch marks and scratches of intense battle. The short-handled hammer he wielded blazed with holy energy and blurred before his enhanced gaze, taking large chunks out of the stone wall beside him as easily as scooping butter with a hot knife. He could not even imagine taking a hit like that. He would be pulverized.
+
+Calen zipped into range, refreshing all his mirror images and reclaiming his invisibility. Ali needs us to kill them quickly!
+
+You have been afflicted with Holy Amplification.
+
+He set his shoulders, raised his bow, and fired, but as he summoned the next volley, a pulse of energy flickered out across the silvery runes inlaid into the walls, and several Dark Souls appeared, shimmering into view as his True Sight revealed them despite their innate invisibility.
+
+He pressed his lips together, but he didn’t let his annoyance affect his aim. Presumably, it was too much to hope that the lightning-affinity ghosts would cease spawning into the throne room upon the death of Thaldorien, but such was apparently not the case.
+
+At least nobody has any Lightning Amplification anymore. There was no need to stand anywhere near the still-sparking corpse of the wraith, and the random bolts of black lightning discharged from Bragni and Artur seldom struck the same person twice, allowing any Lightning Amplification plenty of time to expire on its own. Which meant all the Dark Souls were reduced to merely insane levels of damage. Reluctantly, he ignored Bragni Doomhammer’s broad back for a moment and focused on the ceiling, unleashing rapid volleys spread broadly to exterminate the undead that only he could see. At least until his explosive arrows detonated and revealed the light-chained ghosts to the entire raid.
+
+You have gained Onslaught.
+
+And that was the silver lining in the distraction of the Dark Souls; Onslaught was an on-hit trigger, and the more targets he had, the more frequently it procced. Calen reacted in typical form, pivoting every mirror image in unison and unleashing a fully charged Power Shot into Bragni Doomhammer using every damage boost at his disposal. He puffed out his cheeks and took a ragged breath, taking some measure of assurance from the sight of Ali’s kobold continuing to heal steadily that she was doing ok.
+
+Beneath his wings, the raid continued to work, a chaotic dance as each member moved through the auras according to their own needs. The Divine Archon, so dominant while tanking Thaldorien, could barely damage Bragni with its holy damage. And so, it was fighting Artur and backing out of the aura periodically to take on a supporting healer role.
+
+On the other hand, all the Fire Mages were trying their best to avoid Artur entirely, pushing their luck against Bragni, and sometimes even taking a break when they needed to let the amplification drop.
+
+The Fractured Archon and its Celestial Mirror Images simply blasted both Death Knights with equal prejudice from beyond the throne itself. It was one of the few members of the raid with enough range to entirely avoid both auras, and he tried not to dwell on just how unfair that was.
+
+Calen could do that, too, but he would have to spend one of his three arrow enchantments on enhanced range instead of Armor Piercing, and that would be less than ideal against the heavily armored Knights. Right now, they needed every drop of extra damage he could squeeze out.
+
+It was hardly the ideal strategy. They were splitting their damage among the remaining bosses, which would mean both could dish out damage for longer, and anyone with any experience knew that drawing out battles longer than necessary was a great way to court disaster. Unfortunately, Calen could hardly fault the decisions of the raid in this matter – splitting the damage was way better than dealing no damage at all.
+
+The last of the Dark Souls expired, drifting down to the ground as soot, just like Thaldorien himself, and he turned once more to Bragni, refreshing Eclipse with a resummon of his Mirror Image, and from the relative safety of his invisibility, he unleashed another Power Shot and Ambush combo.
+
+Ali, hang in there. We’re… crawling your way.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,317 @@
+---
+id: 094aa68b-1ad3-5e9d-93b9-da67cdf7c896
+page-type-slug: story-chapter-royal-road
+title: "Chapter 533: The Archmage"
+slug: 0573-chapter-533-the-archmage
+partOf: dungeon-of-knowledge-complete
+position: 573
+ownLength: 5129
+unit: words
+ownProgress: 5129
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3033111/chapter-533-the-archmage"
+royalRoadId: "3033111"
+markedReadAt: "2026-06-29T20:31:50.592Z"
+---
+
+Malika sat cross-legged in quiet meditation, hovering just over two feet above the carpeted stone floor beside one of the great tree’s reaching branches. The library had quickly become one of her favorite spots for meditation – it wasn’t still, but the air of studiousness and quiet activity paired well with her steady, clear stream of awareness.
+
+Hovering was a trick she had discovered a while ago, and channeling just a tiny trickle of stamina slowly and continuously into Divine Step had, for quite a while, been a marvelous aid to honing her focus. But by far, the bulk of her excess stamina and mana regeneration flowed into Healing Mantra, creating a soft, pulsing aura of healing magic that spanned nearly one hundred and twenty feet in diameter around her.
+
+Slowly, the tension in her body and the bone-deep weariness of endless raiding, followed by the hours she and Mato had invested, pouring their soul and nature mana into Nendir’s soul fragment in Morwynne’s lab, began to melt away, like ice cubes of rigid clenching softening in the warmth of her meditation.
+
+People regularly stepped into her light; most respected her silence, but many bowed or murmured thanks for her skill’s granted blessing, regeneration, or free healing. The hardest to ignore were the wide-eyed novices who whispered in awe at the edges of her magic like she were a tourist attraction they had made a long trip to see. Many, she knew, would go on to inquire at the guild, and if her meditation provided them with the inspiration to take the first few steps along the path to greater strength, she would be happy for them. Malika took it all in, expanding her mind and practicing being aware of as much as she could manage without disrupting the stillness of her mind.
+
+The entire day had been a relentless sequence of failures. Before their grueling session with Morwynne, they had returned to the corrupted Well of Souls. The wight archer, Nendir, had respawned overnight, and killing him a second time had been almost as challenging as the first time. To her surprise, he had dropped the legendary bow again, along with identical gear, which had been the one highlight for the guild raiders. Even though there were no other archers able to wield it yet, the strategic implications of adding Lunaré’s Lament to Ali’s repertoire had been lost on no one.
+
+But after that, they had failed to even engage the dark Wraith of Nathaniel Sunstrider in combat, and that had left bruises on the guild’s pride. As soon as Ali opened the final barrier, their group was overrun by waves of slavering undead and summoned raid bosses, most rendered invincible by the constant healing and resource regeneration fueled by the corrupted Well of Souls that beat like an ugly, twisted heart at the core of the dungeon. It required Mato’s powerful Sanctuary aura and the best elixirs they could find to merely stand there without being washed away, and even so, they were rapidly weakened by the loss of attributes to the relentlessly pulsing Decrepify and forced to flee soon after.
+
+Malika had tried to bypass the hordes of undead once and landed a punch on the wraith waiting at the edge of the Well, but ten feet from him, she had found her very essence fraying and dissolving under the overwhelming pressure of the corruption aura. The power of the Well was immense, and she had lost over a thousand attribute points in seconds, while sustaining far more damage and drain than all her defenses, regeneration, and healing could mitigate.
+
+If she couldn’t even get close to him, with all her defense-focused abilities, what hope did any of the others have? Perhaps one of the tanks might endure it as long as she did, but without her damage reduction skills, she doubted even Mato would survive long.
+
+The one silver lining was that her attributes had healed quickly once they had fled the aura, but even though she had healed fully after every attempt, an entire day of struggling in that oppressive aura had left her bone-weary and mentally exhausted. She rarely required sleep since Clarity had passed fifty, able to sustain herself with a few hours of deep meditation, but she could tell she would need some rest before attempting it all over again tomorrow.
+
+The tendrils of despair and frustration were not just affecting her – at a table nearby, Ali worked furiously, studying the books piled up around her. Calen scribbled notes equally furiously, and the mound of crumpled paper around his table told the story of just how little success he was finding. Mato was outside, planted in the forest, which she understood as a need similar to her meditation, even if the battle junkie did not see it as such.
+
+All of them probably needed sleep. And a little glimmer of hope. A sign of a way forward. Ancestors, if there’s any…
+
+Suddenly, a resonant chime filled the air, making her magic dance.
+
+[Zone] A Soul Jewel, Nendir’s Sacrifice, has been forged.
+
+Morwynne!
+
+Malika’s eyes snapped open, ignoring the gasps of startlement all around. In moments, she was through the runic teleportation circle and rushing out of the guild hall, ignoring the delayed reactions and stares as she left eyes struggling to catch up with her full speed trailing in her wake.
+
+She burst into Pretty Powerful Potions.
+
+The scene laid out before her was one of chaos and destruction. It was like a bomb of black and purple shrapnel had been detonated in the middle of the previously pristine alchemy lab. Still-smoldering crystal shards and fragments lay embedded in the walls and the ceiling, sizzling as they slowly dissolved the masonry. Nearly half of the tables were bent or shattered, glass fragments littering the floor in the spaces between chunks of twisted chrome.
+
+In the epicenter, a small sphere bobbed softly, hovering above the wreckage and radiating an immense aura of dense nature and soul mana. Malika glanced downward as something tiny and pink stirred, and the bleary-eyed, awestruck gaze of the master Alchemist locked onto the orb she had created.
+
+Malika stepped across the room, arriving beside her in an instant, her healing magic flowing from her pores even before she arrived.
+
+“Thanks,” Morwynne muttered as she carefully clambered to her feet. “I think… I got it.” The diminutive gnome reached out and grasped the floating orb, her eyes widening in astonishment the moment she touched it. Wordlessly, she passed it to Malika.
+
+Nendir’s SacrificeA single-use consumable, crafted from a Soul Fragment forged in an act of extraordinary sacrifice and purity, steeped in soul mana and purified by nature. Use Nendir’s Sacrifice to cleanse the most heinous of corruption or impurity. Charge: Cast level 270 True Purification. Charges: 1/1.Quality: Legendary.Value: unknown/priceless.Created by Morwynne Fizzlebang. “Out, damned spot!”Soul Jewel – Consumable
+
+What? This is… Malika studied the Soul Jewel. Nestled comfortably in her palm, it still radiated a sense of extreme power. Single use?
+
+“It worked, see?” Morwynne croaked, her limbs still visibly trembling.
+
+Virtually speechless, Malika fixated on the only thing she could easily wrap her mind around. She said, “You put a joke in your mana signature? For your first legendary creation?”
+
+“Sorry. Habit,” Morwynne muttered, but her eyes were dancing with glee or excitement. Perhaps both. “Isn’t it incredible! I got fifteen levels for making that! And a title! You are in the presence of the world’s only Soul Alchemist!”
+
+“Isn’t it a bit underwhelming?” Malika asked. At the sight of Morwynne’s joy crumbling, she hastily explained, “Not your title. That’s amazing! This Soul Jewel: it can cure only one person, and then it’s gone?”
+
+“Oh. That,” Morwynne said, her smile returning as she lifted the shattered goggles from her eyes and wiped some of the soot off her face. “I guess you could use it like that, but that would be a waste.”
+
+“What do you mean?”
+
+“Well, it’s legendary. You can probably cure a kingdom with it.”
+
+“The whole kingdom?” Malika stared incredulously at the tiny gnome, her mind stumbling over the implications of what she’d just casually uttered.
+
+“Yep,” Morwynne confirmed, nodding emphatically.
+
+“Can we rid the kingdom of the Blind Lich’s taint and corruption?” Malika asked, returning her attention to the powerful jewel, now with new respect.
+
+“Yes… but,” Morwynne said. “It would remove all the corruption, blight, and such, but not kill the monsters creating it. They would just generate new problems and then we’d be right back where we started.”
+
+“Aah, hmm.” That was indeed a problem.
+
+Malika frowned in thought, but then she was interrupted by a soft rush of countless wings and tiny screeches, and a flight of golden dragonets swooped in through the open doorway. Not a moment later, Ali appeared with a pop of sparkly mana.
+
+“What is that?” the Fae exclaimed, rushing over. She used her wings to avoid stepping on the broken debris littering the floor, but the trolls barging in after her simply smashed everything they stepped on.
+
+“Morwynne made this,” Malika said, showing her the soul jewel as Mato, Calen, and several others burst into the shop, drawn by the commotion.
+
+“True Purification?” Ali gasped. “Malika, that’s world magic! Legendary!”
+
+“World magic?” Malika asked, her thoughts immediately turning to the pit spewing corruption at the heart of the dungeon that had once been the beautiful Wood Elf city of Ciradyl.
+
+“Well,” Ali said. “It’s at least a third-tier purification spell. That has significance. Weight.”
+
+“We should throw that in the Well,” Mato said, echoing Malika’s thoughts.
+
+“Yes, we should,” Malika said. “But how?” Getting close enough to the Well of Souls to use this item at all would mean avoiding the sea of undead guarding it. Not an easy undertaking. And she was the only one who had experienced the soul-flaying pressure of the Well up close. This was no ordinary challenge. Still, having a glimmer of a real possibility was far better than none.
+
+“One-shot item, though,” Morwynne noted.
+
+“About that,” Malika said, reaching into her storage enchantment. She retrieved the Crystallized Soul Fragment she had looted from the respawned wight’s corpse after their second kill this morning and held it up while counter-healing the corruption searing into her palm.
+
+“You have another!” Morwynne exclaimed with equal measures of shock and astonishment warring for dominance on her face.
+
+“Yes, our second kill. Can you try to craft another of these Soul Jewels?” Malika asked, wincing at the knowledge of how much mana and effort that undertaking would demand from herself and Mato: forging the Soul Jewel required the corruption and taint to be eradicated, and few had the right skills for it. She met the soft warmth in Mato’s gaze and nodded. Insurance never hurt, and if the dungeon was going to oblige by respawning legendary reagents for them, she intended to extract the full value out of them.
+
+“Yes!” Morwynne said, enthusiastically. “I’ll get started right away!”
+
+“Though, perhaps don’t blow yourself up this time?” Malika chided.
+
+“Aww, come on, where’s the fun in that?” Morwynne joked. At least, Malika hoped it was a joke.
+
+Calen hovered in the air beside Lyeneru, surveying the blasted, smoking landscape. The aftermath of their third successful kill of the dungeon’s wight archer. He still refused to call it Nendir out of respect for his teacher, even though Explorer named him such. It was too much to bear.
+
+The glowing purple dome protecting the corrupted well – and powering the ludicrous spawn size of this dungeon by siphoning a near-infinite source of mana, if Ali had analyzed it correctly – had respawned overnight along with the wight. So had the dense miasma of roiling black clouds and the horde of undead monsters that they had failed to kill on every prior attempt.
+
+Once unleashed from the restraints of the barrier, the Soul Well Corruption aura was so potent that even the full force of their entire group focused on a single banshee, had not been able to put it down. The aura regenerated hundreds of health per second for every undead within its grasp, and every time they began to make progress, the regular triggering of Complete Heal would reset the monster back to full health.
+
+“Everyone, take your positions,” Lyeneru instructed.
+
+“Ready,” Ali said.
+
+“Ready,” Seth echoed.
+
+“Tanks are ready,” Sabri announced.
+
+“Ok, Aliandra. Please begin,” Lyeneru said. Her words were met with a ripple of tensing muscles and frowns throughout the raid group.
+
+This time, it will be different. It must be. Calen summoned his bow. Nendir’s bow. It rested comfortably in his palm. With unkillable undead monsters, he had not been able to really understand what it was capable of, but he had still conducted as many tests as he had been able. Hopefully, with their new plan, things would improve.
+
+Golden darts shot forth from Ali’s fingertips, and the barrier dome disintegrated, spilling the foul corruption into the world. Calen braced himself against the wall of mana and miasma rushing toward them.
+
+You have been afflicted with Soul Well Corruption.
+
+Zombies, ghouls, skeletons, and all kinds of ghosts spilled forth from behind the collapsing barrier, a wave of darkness that completely blotted out the ground. Calen flew lower, aligning himself with the onrushing horde, and unleashed a rippling wave of explosions through the undead delivered by the sorrowfully humming string of Lunaré’s Lament.
+
+You have been afflicted with Decrepify. -4 to Dexterity.Corruption – Aura – Count: 1
+
+He knew he wasn’t going to do any damage to them – at least none that mattered. But he gained the attention of nearly the entire horde. With a burst of mana to his wings, he dodged sideways, flying fast and low across the fractured landscape, weaving between the remnants of shattered barriers and upturned boulders. A great howl followed him as the undead turned en masse and gave chase.
+
+Come, follow me.
+
+He shot past the shining mithril-clad figures of Sabri and Havok, slowing as soon as he reached a safe distance, and turned to watch. Like a wave of blackness filled with clawing hands and blighted teeth, the undead fell upon the two stalwart tanks. An impossible, inexorable weight of undead that threatened to wash them away.
+
+And yet, they stood unbowed as the wave broke against their unyielding armor and skills.
+
+A shout of rippling soul magic impacted the dense crowd of rotting bodies, launching zombies and skeletons into the air from the sheer force of Sabri’s presence. A shout that declared its challenge to the world. A shout that embodied the principle of unyielding resilience. She would not be moved.
+
+Havok stood radiant against the onrushing undead, girded with gleaming mithril and the light of his Holy Shield. Shining hope against the tides of darkness. White flames sprang from the ground, and holy fire was greeted with unholy screams.
+
+The tide of undead Calen had trained onto them broke against their shields.
+
+You have been afflicted with Decrepify. -6 to Intelligence.Corruption – Aura – Count: 2
+
+Of course, both tanks were literally shining from the immense volume of healing magic landing upon them, and throughout the horde, dense thickets of Mato’s summoned thorns and brambles sprang from the dirt, twisting, tearing, ripping, and impeding progress. A volley of his arrows, ripping through the horde with Grappling Shot and Explosive Shot, ensured that most of the undead were at least pinned down.
+
+With the horde safely rooted and chained in place, secured by the tanks and the vast reach of Mato’s roots and vines, Calen saw the path to the Well finally opening.
+
+“Now, Seth!” Calen yelled.
+
+The quiet, unassuming necromancer, now decked out in a rather dramatic set of macabre bone armor – bone-white with black stains that emphasized the wicked-looking spikes – produced the small, intensely shining sphere and offered it to an enormous Skeletal Frost Dragon waiting beside him.
+
+The Soul Jewel! All their hopes rode on this; all their planning had required it. If this approach failed, Calen had no idea what else they might even try. Even so, how could they even be certain what it would do? We need information.
+
+The instant the massive skeletal dragon grasped the powerful orb in its bony claws, Nathaniel Sunstrider snapped his shadowy head around and fixed it with a piercing glare. The betrayer summoned an enormous spellbook that hovered before him. It sprang open at once, flipping through pages with a sudden riffling sound that could be heard even over the moaning undead horde and the staccato thumps of spells going off. Then a single page burst into flame, crumpling into dust nearly instantaneously, and a massive fireball shot forth to strike the skeletal dragon squarely on its ribcage. Seth flew, cartwheeling across the ground as the corrupted sludge snuffed the flames clinging to his armor, but his Skeletal Frost Dragon roared its fury and took to the sky, trailing smoke from its still-burning, but rapidly healing bones.
+
+Apparently unperturbed, the betrayer’s eyes tracked the dragon and its precious cargo while he flipped through his immense book of spells.
+
+Calen drew back his bowstring with a speed borne of urgency, enchanting Speed of Light, Light Damage, and Explosive Shot. Oh, no you don’t! He released the string to the tune of a melodic but mournful sigh. He shivered at the sympathetic swell of soul magic, but his new bow leapt powerfully in his grasp, as if eager, the runes upon the ancient heartwood shining brightly with a sense of aligned purpose. A bolt of pure light and energy leaped from the bow, connecting with the distant wraith instantly, piercing clean through the glowing Mana Shield held around his body. An intense explosion detonated within the shield, blasting the incorporeal monster several feet backward and into the rim of the Well.
+
+Three rays of light shot from the wraith’s back, vanishing into the distance behind it. Normally, arrows would stop on impact, and the legendary bow’s arrow-forking enchantment would simply spawn two new ones that shot off to hit whatever might be behind it. However, any time the target was insubstantial, incorporeal, or if his arrows would otherwise pierce the target, he found he’d get the original and the two forked arrows. Given Calen’s unique skills, his arrows always pierced. That had been the first thing he had tested.
+
+The wraith howled, turning its fury upon Calen in the form of a long volley of ice bolts swishing their quiet, deadly path across the battlefield. Unashamed, Calen turned and fled, leading the volley across the sky in an arc that would fail to hit anyone as he dodged. As soon as it ended, he banked hard, taking a second shot at the boss from the opposite side of the field.
+
+From the corner of his eye, he glimpsed the Skeletal Frost Dragon diving for the Well. The jewel shone beams of radiant light like rays of hope eking their way past the clutching bony talons of the undead dragon. If he were a poet or a bard, he might have a few things to say about portents or fateful images.
+
+Nathaniel howled in fury, a rasping, hissing screech that sent shivers down Calen’s spine. Gushing from the wraith’s hand, a dense cone of flame engulfed the undead monster, but it was far too little, and already too late. As Seth had so brilliantly put it, since the corruption of the Well of Souls made undead monsters invincible, they should leverage that for their most dangerous endeavors. Bones dripping with sticky, persistent flames, the dragon splashed down into the dark, bubbling waters of the Well and vanished from sight.
+
+Please work. Please work. Please! With all his strength, Calen willed it to be so. It was fortunate they had Seth in the group; an undead monster was literally the only creature that could survive being so close to the center of the corrupting aura. By the time it had begun its dive, there was nothing Nathaniel could do that would have killed it.
+
+Silence reigned supreme.
+
+Nathaniel stared at the Well. Calen stared at the Well. Only in the distance did he register the continuing clash of battle and the chime of his notifications telling him he had lost more attribute points.
+
+“Oh, my!” Ali cried.
+
+A deafening gong rang out; a sound so powerful, he was forced to clap his hands to his ears, even though he knew it was magical. The ground shook, and nearly every being was knocked from their feet as if struck by an earthquake.
+
+[Realm] Skeletal Frost Dragon has cast the legendary spell: True Purification.
+
+A tiny spark of intense, forest-green light ignited deep within the seething black waters. It pulsed softly for a moment, and then slowly began to swell. Calen stared, holding his breath as the light rippled upward through the murk, accelerating in pace and growing power. It flashed outward in silent brilliance, and its wake, the water of the Well of Souls stilled. Blackness dissolved in an instant, and pristine clarity suddenly reasserted itself upon the waters.
+
+The gong sounded again.
+
+[Realm] The Well of Souls has been restored.
+
+A cheer went up from the entire raid group as Calen felt the debilitating aura of corruption fade and his attribute points come ticking back. He found himself cheering, too, grinning from ear to ear. Their daring plan had worked!
+
+“He’s corrupting it again!” Ali shouted, silencing the cheers in an instant.
+
+Then, all hell broke loose.
+
+Several new layers of spherical, purple bubble barriers sprang up around the wraith’s indistinct body. Hundreds of purple bolts of arcane magic burst forth in waves, raining down upon the entire raid group in deadly clumps.
+
+A near-imperceptible glitch rippled out across the battlefield, as if everything had suddenly frozen for the briefest instant of time, and suddenly, the immense form of a glittering purple Galdrone Tetrad was simply there.
+
+“Raid boss!” Calen screamed as his Explorer skill convulsed in the back of his mind. How… where did that come from? He had watched the wraith summon a raid boss while he and Mato struggled to escape, but this had appeared without warning, in an instant.
+
+Blazing crimson fire and massive shards of pale blue ice burst forth from Nathaniel as pages crisped and decayed within his spell book, the resulting spells detonating amongst the suddenly struggling healers. Glittering golden barriers snapped up to save them from the onslaught, but there was a boss loose among their raid.
+
+With a surge of domain mana, a great cloud of arcane elementals began to pour forth from the newly summoned Galdrone Tetrad, filling the air with clouds of arcane bolts and rippling bursts of explosive magic.
+
+But Calen could hardly remain idle while the raid was destroyed around him. “Tank the boss!” he yelled, drawing his bow and loosing a full volley of arrows skyward. He didn’t even bother to aim; the sky was blotted out by flying elementals. He enchanted Explosive Shot, Light Damage, and Grappling Shot, and let the arrows cascade through the swarming elementals. A cascade of Forking and Spectral Arrows propagated his Explosive Shot enchantment through the airborne monsters like a rippling stormfront of explosive energy. The sky filled with glowing light as anything struck by arrows or countless explosions sprouted thick, glowing chains, and as the monsters were blown backward by the force of his bow, they were suddenly recoiled as the luminous white chains snapped tight, catapulting them into the ground, where the rest of the mages unleashed fireballs and frost novas to decimate the suddenly pinned monsters.
+
+“Impressive,” Lyeneru said, not even looking at him. “Three ammunition enchantments?”
+
+“Yes, I reached the second tier in that skill,” he said, glowing inside at her compliment.
+
+“Now that’s a great advancement,” she said, and then Lyeneru unleashed a barrage of arrows into the towering elemental, giving off waves of heat from her flaming bow that scorched his skin even from where he had believed himself safe.
+
+Holy shit! How strong is her third-tier evolution?
+
+Calen clenched his teeth as he picked up the pace, his hands blurring as he set the sky afire in his mentor’s wake. I can’t wait for mine… but I’ve got a job to do first.
+
+The same horrific writhing tentacles of eldritch magic she had observed on Nathaniel so long ago burst from the wraith’s eyes, mouth, chest, and back, piercing the surface of the Well. Wherever they touched, black vortices and streamers of corruption marred the purity of the waters, and slowly, ever so slowly, the corruption and madness of the nightmarish magic began to spread from the writhing tentacles, turning the waters black once again.
+
+“He’s corrupting it again!” Ali screamed. Shocked gasps and shouts of alarm rippled across the raid group, replacing the cheers like the crash of the crystal decanter of jubilation dashed to the floor.
+
+A storm of complex mana arose within the wraith as dozens of spells manifested nearly simultaneously. Arcane Insight and Sage of Learning kicked in with a sudden drawing on her mana pool.
+
+Amplify Casting… Meta Magic? Ali recognized the formations from all her studies, her dungeon tithe, and the minions she had learned that could cast similar spell enhancements. How could the cleansing be so fragile? That’s just wrong!
+
+Empower Spell.
+
+Increased Duration.
+
+Whatever was coming was going to be empowered to the gills.
+
+A formation Ali had never seen before bore down on her Sage of Learning with the weight of a mountain crashing down. Mana vanished, gobbled up as her prodigious knowledge spell struggled to make sense of it.
+
+Time? Is it time-related? Time… Stop?
+
+Ali did not pause to think. Her understanding of the spell was not even remotely complete, and still she summoned her golden darts, her only chance of disrupting whatever was coming. She had to disrupt it. She, more than any other here, knew from personal experience what kind of devastation such a spell might unleash. There was absolutely no question in her mind as she flung her partial formation at Nathaniel Sunstrider and the immense formation reaching its climax.
+
+Darts flickered across the intervening space in an instant, but Nathaniel waved his staff lazily across the path of her spell. Ali’s golden darts diverted from the course she had set them upon. Drawn in by the rune-inscribed staff of the Archmage, her magic vanished, leaving the large jewel at the top glowing brightly with new golden radiance.
+
+“Thank you for your generous… gift.” The Wraith’s whisper sounded like an ancient, attenuated version of Nathaniel’s voice, but delivered right beside her, directly whispered into her ear. The intimacy of it sent shudders of disgust and revulsion coursing through her, but in that instant, his vast formation was completed.
+
+The world glitched briefly.
+
+Suddenly, a raid boss appeared, as if summoned without magic. It simply was not. And then it was. But that was not all: a fresh glittering radiance sparkled around Nathaniel Sunstrider – an array of a dozen new defensive magic spells. Spells that had not been there before.
+
+Fuck, he stole my Disrupt! It was the first intelligible thing that sprang to mind; the frustration of having spent her recharge for no effect. Worse, somehow Nathaniel had stolen it with his staff. She just knew that was going to come back to haunt her later.
+
+But worse – far worse – Nathaniel had at least three metamagic skills, and a Time Stop that seemed just as powerful as her own Arcane Recall. He had just summoned a Raid boss with it. She knew it had been summoned by domain magic, but she had not even seen the formation. Her mind raced. How could she begin to fight that?
+
+The Archmage’s giant spell book hovered before him, and under his deathly hands, the pages flipped with unnatural speed. Mana flared, pages burst into flame, or decayed into dust instantaneously, and an avalanche of devastating spells burst forth.
+
+Maximize Damage.
+
+Increased Area.
+
+Meteor Storm.
+
+Ali screamed a warning, desperately casting barriers into the air, trying to intercept the sudden hailstorm of burning boulders.
+
+Nathaniel thrust his staff forward, and her own golden darts shot out from the crowning jewel to shatter against her barrier, but, while she flinched, the barrier did not vanish. Nathaniel hissed in frustration, but it was no surprise. Ali’s disruption required a specifically tailored formation for every use, and the one that he had stolen with his staff was still partially configured to target his Time Stop spell. It would not affect anything else.
+
+“Take that, you transparent… wraith,” Ali muttered, before wincing at her weak challenge. Perhaps I need to take insult lessons from Morwynne. Or Tol’brekk.
+
+Ali must have let her thoughts leak into her connection to her minion because Tol’brekk roared, “Mighty Archmage? You cast like a novice!” Spoken in Trollish, it had an excellent cadence and a double meaning involving goats. The next fireball hit him squarely in the chest.
+
+“Thanks,” Ali sent, getting an impression of a chuckle back from the enormous Troll.
+
+The mana storm within Nathaniel’s body did not abate.
+
+Instantaneous Casting.
+
+Greater Mass Dispel Magic.
+
+Instantly, every single barrier she had cast vanished, and the falling meteors began to rain down upon the raid group as Ali scrambled to recreate them.
+
+Increased Area.
+
+Mana Drain.
+
+In desperation, Ali withdrew a barrier from the sky, folding it around herself as the enormous purple cone of deadly magic draped across her like a cut curtain. Her barrier dissolved, and she instantly teleported away, leaving a manaless Blood Shaman behind.
+
+Nathaniel was like a storm unleashed, casting with devastating speed.
+
+Increased Area.
+
+Accelerated Casting.
+
+Earthquake.
+
+In the air, Ali was immune to the violently shaking ground, but not many of the raiders flew. Many were knocked off their feet and tossed about while the tanks struggled to contain the raid boss and its rampaging spawns.
+
+“Get interrupted casting on him!” Ali shouted as she racked her brains for any way to get some semblance of stability imposed in the fight before it rapidly unraveled before her eyes.
+
+The Eye of Agnor, lurking at the back, cast its curse, but Nathaniel responded with a wave of his dark fingers shrouded within an insubstantial voluminous sleeve.
+
+Disrupt.
+
+Spell Cascade?
+
+Nathaniel’s Disruption tore the curse to shreds, but as it shot outward, it repeated seven times, targeting other spells being cast in that moment. Ali couldn’t believe her eyes. All the targeted spells vanished under the unbelievable domain-enhanced disruption. In that moment, she realized that the Archmage had simply been toying with them.
+
+How can we even… that’s ridiculous!
+
+“Retreat!” Lyeneru shouted.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

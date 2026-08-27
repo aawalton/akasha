@@ -1,0 +1,137 @@
+---
+id: ee2f5c1b-ec63-581b-9826-c2d619911b64
+page-type-slug: story-chapter-royal-road
+title: "Chapter 572: Malika’s Vision"
+slug: 0616-chapter-572-malika-s-vision
+partOf: dungeon-of-knowledge-complete
+position: 616
+ownLength: 2406
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3165559/chapter-572-malikas-vision"
+royalRoadId: "3165559"
+---
+
+“Malika, he’s coming,” Ali said. Her brow was furrowed with concentration as she drew cascading fountains of runic magic from her glowing Grimoire, and Malika could tell it was not just the challenges she was dealing with here in the dungeon. Ali was fighting a battle on multiple fronts, the strain was showing.
+
+“I’ll buy you some time to finish,” Malika said, blasting a pulse of Soul Strike through the stray Banshee’s head from two paces away and releasing the pending damage she’d left growing within the spirit. Its howl echoed eerily as the essence of the ghostly being was torn free in glowing ectoplasmic spray.
+
+Your group has defeated Ancient Banshee – Undead Spirit – level 221 (Death / Sound)
+
+Malika dismissed the chime, her focus entirely on the perceptions of her Soul Sight, leveraging the far greater extent of her more than three-hundred-yard radius to scour the whole clearing and parts of the surrounding forest, on high alert for any signs of the Blind Lich. He’d be coming. Their little charade had seen to that.
+
+I only hope we can keep him guessing. Nevyn Eld is no fool!
+
+Ali stood out as a blazing pillar of flickering gold and green as she waged an unseen magical war against the Lich for territory and access to her domain. Spells and mana flashed within her, often as fast as Malika could punch, no doubt directing the battle aboveground at the walls, deep in the heart of Naia’s caverns, in the Crypt of Kings, and here in her ancient caverns. Hovering brightly in the background, Ali had brought forth an array of arcane elementals, demons, sylvans, celestials, powerful dragons, and anything she thought might bring them advantage against the endless hordes of undead spread throughout the forested cavern – and every minion was one that Malika recalled winning bitterly fought battles to claim.
+
+But Malika’s vigilance was short-lived. Within a sudden blast of strangely twisted magic, the Lich appeared on the opposite side of the gently rolling verdant clearing. Grass and flowers instantly withered in his presence. The darkly blighted teleportation spell rippled again, and the rest of his foul, summoned army stepped out onto the blackened ground. The unmistakable magical fear auras projected by the Death Knights mingled with the sheer weight of the Lich’s presence, while ice clawed its way across the ground, contending with arcs of lightning and shadows of death.
+
+“Ali…”
+
+“I see him, Malika,” Ali answered.
+
+The hair on the back of Malika’s neck prickled despite the calm of her inner Clarity. Nevyn Eld’s army had been drastically reduced by Ali’s holy apocalypse back in the tunnel, and the subsequent gauntlet of bosses she had summoned, leaving only the strongest of the Death Knights and other undead, but it was the Blind Lich himself that sent shivers of unease through her body – the lack of the slightest visible emotion, the realization that nothing he ever did seemed uncontrolled or hasty. Except when Ali had destroyed his portals. That had provoked a reaction, if only for a moment.
+
+How can we draw him out? Maybe even force a mistake?
+
+Fresh skeletons spilled from his shadows like water, but he stood there in a void of emptiness: a spherical gap through which Malika’s Soul Sight failed to see. Neither Infinite Perception – the eye magic she had not disabled since Rezan had explained its importance – nor its evolution into Ancestral Visions could pierce the veil of his glittering dark shield.
+
+Aegis of Absolution.
+
+The Ninefold Way.
+
+When Rezan Jin had revealed Nevyn Eld had been an Ahn Khen elder, her heart had refused to believe, but to see him here, using one of the Ninefold Way: one of the lost legendary skills of her ancestors, of the heroes in her childhood stories? What a bitter pill to swallow!
+
+She crossed the clearing in a single step, vanishing and reappearing in the midst of the undead army, fists, elbows, knees, and feet all flying. Ali needed a little more time, and she would get it. But her knuckles slammed against that dark, glittering barrier with a painful crack, and the magic of her Soul Strike shattered against it, not penetrating even an inch.
+
+Within his bubble, the Lich resumed his summoning magic, manifesting bones and rotting flesh and spinning fresh abominations into existence, supremely indifferent to her best efforts to reach him. Dark bolts blasted out in all directions, met with flickers of Ali’s golden darts and barriers as the two of them immediately set to a vicious, high-speed magical duel.
+
+Malika lashed out again, dodging and darting as she danced among the dead, but while she had the attention of his minions, the Blind Lich remained supremely out of reach. A howling whistle cut through the noise, and Calen’s storm of arrows descended, ringing loudly as they bounced off the barrier or clanging as they pierced through mithril plate and dead flesh. Amid the detonations, Malika dodged and undead fell.
+
+A bolt of writhing dark energy, more potent than the rest, shot out of the ensuing explosions, and Malika’s eyes widened as it consumed Calen’s floating Mote of Light, extinguishing it without a trace.
+
+Shit! Her knuckles cracked against the impenetrable barrier once more as she directed her healing magic to begin to dismantle the attribute damage she had sustained from being too close to the dangerous necromancy.
+
+I could use a little help, she offered into the silence of her mental calm.
+
+She shifted and flowed along the adaptable sequence of her defensive formation, pouring far more stamina into the punches and footwork than she had been able to earlier. Ali had been right. Her evolution had left her far more powerful than before, worth even losing her hours of combat, boosting her abilities. But in the time while they delayed the Lich, her skill had been growing once more, and her power was beginning to light up the cavern.
+
+As her kick sequence ended, when she had all but decided she would not be answered, something quivered deep inside her heart.
+
+You should always study your opponents, Malika. What have you learned?
+
+Rezan’s calm voice flickered across her soul, and this time, she saw a ghostly outline of his smiling face.
+
+I have learned to observe, she thought. But I can’t see through his Aegis of Absolution.
+
+It is simple, came the strangely resonant echo. Look a little closer.
+
+His Ancestral Image, she decided, was just as frustrating as the real thing. What do you think I’m trying to do? she grumbled, but she quickly schooled herself to calmness as he had taught.
+
+An amused chuckle echoed within. Perhaps I might offer a little insight, then? After all, it’s not every day that you get the chance to study the Ninefold Way in person. This is a gift.
+
+Malika’s chimes resonated through her soul.
+
+You have gained Ancestral Memory: A Gift of Insight+244 to Perception.+63 to Intelligence.+12 to skill level of Perception skills.+20% to spell power of Bloodline skills. Blessing – Duration: 2 hours.
+
+Holy shit! Is this an Ancestral Vision? A sudden surge passed through her mind, like a cold breeze on her face, drawing her awareness into sharp perspective. The world around her snapped into exquisite focus as Soul Sight dramatically clarified and expanded. She could see insects scurrying through the rapidly decaying grass, the stamina flickering within them in perfect clarity as they tried to escape. Ali’s domain shifted into focus, like someone had removed a blindfold from her eyes. Gorgeous green and gold in an intricate, tightly woven pattern of crystalline structure that she had never even known was there.
+
+In the background of her mind, she heard Rezan Jin’s soft chuckle.
+
+Detail and tone revealed the secrets of the skills the Death Knights were wielding, but Malika’s attention was fixed on the radiant perfection of the Lich’s skill.
+
+The Aegis of Absolution, I can see it!
+
+The dark power of the Lich seemed muted within the legendary skill of the Ahn Khen’s Ninefold Way, but she could see him through it and see the magic he wielded. It was the flow of soul mana and stamina he used to power the shield that she needed to understand. With enough study, could she defeat it?
+
+She punched again, unleashing her Soul Strike to splash against the barrier, taking in the crazy interaction of the two skills.
+
+Then, with a great roar, several tons of domain-enhanced giant troll landed to her left, Tol’brekk’s sheer weight and power knocking Death Knights stumbling back as his greataxes whirled, dripping with blood.
+
+“Melee?” Malika asked, not letting the surprise affect her rhythm. Damage Reflection was a hard counter to an enraged berserker.
+
+“Immune to death,” Ali whispered in her mind, spending a spell to avoid giving away her secrets to the enemy.
+
+Now that’s a smart idea! Malika grinned as she dodged, laying into the monsters with her full power, intent on taking advantage of the distraction to unravel the secrets of the Lich’s barrier.
+
+Ali grimaced as the dark, rippling torrent of Nevyn Eld’s Decrepify tore life from her Fractured Archon. Bursts of glacial blue ice exploded among the Celestial Mirror Images, launched as lances by the last remaining Devastation Knight. The mirror copies of the archon winked out one at a time in an accelerating cascade of destruction as the powerful defensive bonuses were stripped away. A pall of darkness descended upon the embattled forest as their radiance was brutally extinguished, and the final remaining celestial corpse fell to the ground with a heavy thump.
+
+“Arise!” Nevyn Eld intoned, the sepulchral, raspy sound of his voice somehow easily heard above the crack of arrows striking his shield. A deep resonance accompanied his ritual incantation, vibrating through the threads of his necromancy.
+
+This was one of the few spells Ali could not afford to let him have, not when targeting a third-tier celestial. Facing those light beams from behind her transparent barrier would be suicide. From her outthrust fingers, she flung her golden darts, burying them into his formation and rewriting the target. A dead bat lying drained on the ground, caught in the crossfire forever ago, twitched and rose to unlife as a tiny wraith.
+
+At once, an Authority-empowered bolt of death magic blasted from within his impervious black shield, perfectly aimed at the Soul Archon despite its ghostly shroud.
+
+Ali’s mind twitched, reflexively reaching for her disruption spell, but catching herself just in the nick of time. No. I can’t afford to spend that, she reminded herself. Enhanced by several powerful metamagic and support skills, the blast took the heart out of her minion, and Ali winced at the painful snap of her reservation being forcibly severed.
+
+“Arise!” he repeated, the same spell formation appearing before him, this time targeting the Soul Archon.
+
+Fuck! And, in that moment, she knew he had her measure. That spell’s supposed to be recharging! How did he… somehow he had circumvented that. It would be an incredible risk, leaving herself without a counter, and she had barely a fraction of a second to make the decision. She grimaced, but fired off her golden darts before her face could even complete the expression, this time directly disrupting the necromantic ritual.
+
+She was now defenseless until her counter-magic recharged. She still had her barrier and her teleport, but she had promised herself to keep one of her disruption spells and a point of Authority available at all times to ensure he couldn’t outright kill herself or Malika. The trouble was, she could barely detect her own Soul Archons through her Martial Insight; if he raised one, she was as good as dead. She just hoped he didn’t notice.
+
+Sweat trickled down her back as the recharge ticked down with painful slowness, but Nevyn Eld was no novice. The moment her disrupt, deflect, and her staff’s spell steal were all on recharge, he began to unleash an unrelenting storm of death-magic bolts and Decrepify.
+
+Ali gasped, throwing up barriers in desperation, and Malika pulsed her healing, but she lost three minions to the barrage, as he rapidly unraveled her defenses.
+
+Ali eyed the fresh corpses on the ground with a shiver. He’s going to keep luring me with Raise Dead, she thought. Unless…
+
+She cast her awareness in a far wider net. Far behind her, near the entrance to the Grand Library Arcana, she still had a Malevolent Oak – a champion boss made to guard the library and a source for her vitality enchantment if she ever needed it. It was woefully under-leveled in this fight, and against a monster like Nevyn Eld and his minions, its rot-magic would be worse than useless.
+
+But it had something she needed.
+
+Still frantically flinging barriers in the way of a rain of death, she reached out to her Treant and called. It creaked and groaned as it slowly moved toward another oak, and then it vanished in a flicker of dark green mana, appearing far closer – at the outer reaches of its domain-anchored range.
+
+Just close enough to reach her with its roots.
+
+“Eat the corpses,” she ordered. Quickly.
+
+Ali narrowed her eyes and focused on Nevyn Eld, throwing barriers at him as a distraction, and even bending space to deflect some of his attacks using manually cast space magic, leveraging the presence of the affinity filtering through from the Spirit Realm into this cavern. The black roots shoved their way through the damp, mossy ground, reaching and impaling each corpse, one by one. In moments, the bodies sagged and blackened, turning to mulch under the influence of the Treant’s Compost skill, and then she fed herself and her remaining minions the recovered mana from a whopping four hundred meters away. Ali fed the mana immediately to Empowered Summoner, making the Calhedron overhead blaze with golden light as it continued its ceaseless barrage.
+
+Nevyn Eld reached out with his clawed fingers as if to cast a spell, and although his withered, blindfolded face could not frown, Ali could almost see it in his posture.
+
+Nothing to raise here! Ali crowed, but she kept her minor triumph to herself. The time for gloating – if there would be such a time – would come after she had deconstructed his phylactery and rechecked the death notification at least three times, not a moment before.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

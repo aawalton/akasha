@@ -1,0 +1,315 @@
+---
+id: e22b5cdb-42b8-583e-97f3-88f3c263e7f4
+page-type-slug: story-chapter-royal-road
+title: "4 - Love at First Sight (Apparently)"
+slug: 0004-4-love-at-first-sight-apparently
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 4
+ownLength: 1815
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387771/4-love-at-first-sight-apparently"
+royalRoadId: "3387771"
+---
+
+The man kneeling in front of me had shiny, golden-blond hair. Slightly messy but, admittedly, perfectly messy. His eyes were bright blue, and his face was clean, fully shaven, with a sharp jawline. He kept his head low.
+
+His polished armor somehow had no scratches—as if he had never been in battle before—and the sunlight reflecting off of it scorched my eyes.
+
+“My lady…” he said. His voice sounded exactly like what you’d expect. Young. Smooth. All that good stuff.
+
+I didn’t want to admit it at first, but he was glowing. Like literally glowing. Was it the armor? The knightly aura?
+
+“You…” I began. “I…”
+
+I was at a loss for words, not because of him, but because of how stupid this whole interaction was.
+
+Reina and I stepped aside, continuing our way to the Adventurer’s Guild. But the man was relentless. I blinked, and he appeared in front of me again—that same kneeling position, one hand over his chest, a flower in the other, shoved into my face.
+
+“My lady…” he said again.
+
+Okay. What the hell was going on?
+
+“Could you at least make the effort to say something different?” I asked.
+
+He briefly glanced at me before bowing down again.
+
+“My beautiful lady…” he muttered, less confident than the last attempts.
+
+Reina stepped in. “Sorry, but we’re in a hurry. We’re just trying to get to the Adventurer’s Guild.”
+
+Why do things keep getting in my way? The Tree Sentinel, the demonic sapling, the guards… and now this guy?
+
+He turned to Reina, offering her the same gesture and flower.
+
+“My… slightly less beautiful lady…”
+
+Her smile twitched. She took my hand and forced us away.
+
+The man stood, scratched his head, and the flower fell to his side. He walked directly beside us as if it was supposed to be normal.
+
+“Hm…” he muttered.
+
+I shot him a look. “Could you get away from us?”
+
+He shook his head. “No, because now you’ve got me curious. Usually, the ladies just slap me across the face, but you…? You’re different.”
+
+[TROPE COMPLETED: YOU’RE NOT LIKE THE OTHER GIRLS]
+
+[REWARD: Pending…]
+
+I raised my brows. A pending reward again? This was probably a part of a chain quest then.
+
+[TROPE IN PROGRESS: LOVE AT FIRST SIGHT]
+
+Description: A commonly misinterpreted trope. True love doesn’t occur at first sight. What’s usually meant is strong initial interest, not love.
+
+Completion criteria: Receive a confession within ten minutes. Authenticity affects rewards.
+
+Status: Target is interested, but not yet in love.
+
+So right now he’s only interested in me, huh? That’s expected. Although I’m pretty curious what the rewards are—
+
+I stopped myself. What am I thinking? Have I already gotten used to being bombarded with tropes?
+
+I looked at the man.
+
+“So I’m different because I haven’t slapped you yet? I could change that if you’d like.”
+
+He took a slight step away. “My lady, please don’t force yourself to act like the others. I’m in love with you because you’re different from them!”
+
+“You’re not in love with me.”
+
+“But I am, I swear!”
+
+I looked at the System message again.
+
+Status: Target is interested, but not yet in love.
+
+“...Right,” I said. “Then tell me—what do you like so much about me?”
+
+I noticed him slowing down a bit as the three of us continued walking, almost like he was deep in thought. Reina glared at him.
+
+“I uh… your hair,” he began.
+
+“My hair?”
+
+“It’s a gorgeous white… like one of those thousand-year-old elf archmages.”
+
+“...who?”
+
+“And your golden eyes. They’re as gorgeous as the sun itself.”
+
+“I see…”
+
+“I love how short and cute you are, and… I don’t even know why. I just do. When I saw you, something just felt right.”
+
+“Okay, that’s enough,” I cut in. “So, pretty much you just like my appearance. I think love is a bit deeper than that.”
+
+He blinked. “It is?”
+
+I gave him a strange look. “...Yes? What kind of question is that? Have you never been in love before?”
+
+He scratched the bottom of his chin.
+
+“So anyways, my name’s Leon—”
+
+“Don’t just change the topic!” I yelled, running out of patience.
+
+I looked over at Reina with desperate eyes. “Please help me,” I whispered.
+
+Before she could even say anything, Leon suddenly burst out,
+
+“I’ll prove it to you! I love you! Please go out with me!”
+
+…
+
+[TROPE COMPLETED: LOVE AT FIRST SIGHT]
+
+[REWARD: Processing…]
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- LOVE AT FIRST SIGHT (COMPLETED)
+
+- YOU’RE NOT LIKE THE OTHER GIRLS (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+Note: Due to heavy sincerity, the rewards are greatly multiplied.
+
+What? Heavy sincerity?
+
+He actually meant it?
+
+[ITEM ACQUIRED: EXTREME LOVE POTION]
+
+Effects:
+
+- Induces overwhelming romantic feelings toward the user
+
+- Effectiveness scales with dosage and target body mass
+
+- No exceptions
+
+- Lasts for an eternity
+
+This item will now appear in your [INVENTORY]
+
+Note: Do not drink this yourself. Seriously.
+
+I looked at Leon, more dumbfounded than anything. Was he so inexperienced with love that he really thinks he’s in love with me?
+
+“You’ve got to be kidding me,” I muttered.
+
+Reina grabbed my arm. Hard.
+
+“We’re leaving,” she said through clenched teeth, as if the confession was the thing that really tipped her off.
+
+“Wait, my lady—!” he called after us.
+
+“Run,” Reina said.
+
+We ran as fast as we could.
+
+I had a strange feeling he’d come back again pretty soon. He was too much of a trope not to.
+
+***
+
+There was a giant knight in the corner, an elf mage in another, a gnome playing a flute like his life depended on it, and everything else you’d imagine in a guild. And to top it all off, a mug flew past my head the moment we walked in.
+
+Yup. This was definitely the Adventurer’s Guild.
+
+As Reina and I walked in, my System flickered.
+
+[TROPE INITIATED: EVERYONE STARES]
+
+Completion criteria: Have all the guild members stare at you as you walk by.
+
+I gulped as we walked to the front desk.
+
+…
+
+Nothing.
+
+Not a single reaction to our entrance.
+
+[TROPE FAILED: EVERYONE STARES]
+
+Reason: Nobody stared at you. Not even one.
+
+Punishment: You realize nobody cares about you.
+
+Behind the counter stood a catgirl—or, I’m sorry, a beastfolk, as this world calls them. Her ears flicked as she flipped through a stack of papers, and her tail was completely still. The other workers were all sorts of races, though mainly humans, elves, and other beastfolk.
+
+She didn’t look up as we approached.
+
+“Hi!” Reina said enthusiastically. “We’d like to register for this guild.”
+
+She sighed and gently set aside the papers, pulling another slip of paper from behind the counter.
+
+“Name, race, role, origin, experience level,” she said, completely uninterested. “Each of you has thirty seconds to fill this out before I let the folks behind you in. Time starts now.”
+
+We looked at her.
+
+“Uh…” Reina said. “We need something to write with.”
+
+“Ah.” She reached to her left and handed over a quill and ink.
+
+And so we filled it out. Reina’s profile was just as expected: human, knight, came from a village, beginner. As for me…Well, I just copied pretty much everything she put—except I listed myself as a mage rather than a knight.
+
+She didn’t even bother reading what we wrote. She reached under the counter again, pulling out some kind of crystal ball with a stand.
+
+[TROPE INITIATED: APPRAISAL CRYSTAL TEST]
+
+Completion criteria: Gauge your rank with the crystal. Your appraised starting rank affects rewards.
+
+Reina was the first one to go. She began to take a deep breath—though it was cut short as the receptionist eyed her for taking too long. She put her hand on the crystal, and it shimmered faintly.
+
+“D,” the receptionist said right away.
+
+I wasn’t sure whether to be impressed by how quickly she judged Reina’s rank or feel bad that she was a D-ranked adventurer.
+
+Reina’s eyes lit up. “Yes!”
+
+“Is that good?” I asked.
+
+She nodded. “F means useless, E means very weak, so D must be… well, I don’t know, but it’s better than the other two!”
+
+I looked at the receptionist.
+
+“Is that true?”
+
+She nodded once. “Somewhat.”
+
+I was up next. Honestly, with all the tropes I’ve experienced so far, I had no idea what to expect. I could end up F-rank. Maybe even S. Maybe the crystal would shatter. Who knows.
+
+I mean, I was an overpowered protagonist, wasn’t I?
+
+I just had a very strange feeling that I wouldn’t get an S.
+
+I hovered my hand over the crystal ball. Normally, this is where I’d start talking about having sweaty palms, a racing heart, dramatic buildup, blah blah blah, but that’s boring.
+
+And I didn’t want the receptionist giving me the same look she gave Reina.
+
+So I just went for it.
+
+The crystal lit up with my touch. It was the same as Reina’s at first, but this time, something was different. Even the receptionist noticed it.
+
+“Hold it steady,” she said.
+
+The light flickered. Then it flickered again. The glow changed into all sorts of colors, and the pulse became uneven. It dimmed, brightened, then dimmed again.
+
+The receptionist frowned. “That’s strange…”
+
+The ball continued to do all sorts of weird stuff until it eventually settled down. I heard whispers from the people waiting in line behind me, but that was about the extent of it—the others all around the guild didn’t seem to care.
+
+“C,” the receptionist concluded. “Possibly high C.”
+
+I blinked. That was it? Not high, not low, but… C? Average?
+
+I checked my stats, remembering I had sixty unallocated stat points. Honestly, that was kind of my fault.
+
+[TROPE COMPLETED: APPRAISAL CRYSTAL TEST]
+
+[REWARD: 12 silver]
+
+Silver
+
+[0 → 12]
+
+The silver will now appear in your [INVENTORY]
+
+Note: Average results yield average rewards. Congratulations. You’re normal.
+
+“That was underwhelming,” I muttered.
+
+The receptionist heard me.
+
+“Not really,” she said, her tail wagging once. “Actually, a beginner starting at C rank is fairly rare. You should be proud of yourself.”
+
+A compliment coming from somebody as deadpan as her actually felt pretty good.
+
+“Thanks,” I said. But I knew she was just trying to comfort me.
+
+Well, it is what it is. Looks like I’m just average after all. So much for the overpowered protagonist trope.
+
+Just as I was about to walk away, Reina placed something on the counter.
+
+My eyes widened.
+
+The demonic sapling. She had pulled it out of her bag.
+
+It brushed against the crystal ball, and…
+
+The ball exploded. The sound was so loud that everybody in the guild turned toward it.
+
+I facepalmed.
+
+[TROPE REDEEMED: EVERYONE STARES]
+
+[REWARD: Pending…]
+
+[TROPE INITIATED: HANDING OVER A SUPER RARE ITEM TO THE GUILD]
+
+Completion criteria: Turn in the item without causing a scene, losing it, or getting arrested.

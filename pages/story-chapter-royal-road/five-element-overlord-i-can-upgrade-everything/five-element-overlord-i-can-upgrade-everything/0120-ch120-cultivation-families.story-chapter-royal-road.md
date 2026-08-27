@@ -1,0 +1,139 @@
+---
+id: 51253dc0-e182-5d05-bc04-7c5c9448e0f7
+page-type-slug: story-chapter-royal-road
+title: "Ch120 Cultivation Families"
+slug: 0120-ch120-cultivation-families
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 120
+ownLength: 1879
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3815351/ch120-cultivation-families"
+royalRoadId: "3815351"
+---
+
+When I start walking into this wide open apple orchard, the qi infused gravel pathway begins to grow warmer. The air becomes far more saturated with qi, nearing that of the density of being right on top of a high-grade tier 1 vein.
+
+Many of the trees I pass by are already picked this season, but there are a few larger and older ones that still have bright green fruits on them.
+
+They remind me of the spiritual green apples I bought from Wang Ming the first day I met him. Though, the ones on these trees are much larger and filled with more qi.
+
+I walk over a small hill, following other families that walk down the path through the orchard, and quickly see the stage Wang Ruze mentioned.
+
+There is a large uplifted portion of white marble in its center, left empty, with over a hundred people already sat up on its sides, set aside for the direct family and honorary guests.
+
+In front of it, directly facing this stage, there is seating for easily a thousand or more to watch.
+
+The minor qi refining families follow the direction of their stone tokens, and leave the main path off to open air seats.
+
+Almost all of them are filled already, and I scan everything with great interest, mentally noting the faces of some skilled mid-stage qi refiners that have Azure Cloud Sect robes on, coming from different peaks than myself.
+
+The Beast Mastery, Forging, and Alchemy peaks have many practitioners here, but they all sit with their families. It is a common trend to see that those in the sect have the greatest root-grade talent in their clans. It appears sending offspring with the highest potential to the sect is a strategy every family follows.
+
+Others in Azure Cloud Sect Robes are here solo, mainly named disciples.
+
+There are three I spot with my system scans just walking through, all at the 10th level of qi refinement, and with identical system secrets.
+
+[Sent by their vice peak master to show support of strong allied clans as proxies for their own support. Direct alignment and favoritism in the Lingshi City feud is not allowed by elders of the Azure Cloud Sect.]
+
+The only peak that has no representatives here is the Combat Peak.
+
+Old words from Bao Zhan play back in my mind about how this peak was very strict with most of its disciples, and they were far more focused on training. Sending out a named disciple for a day or two to celebrate must be considered a waste.
+
+It is not only system scans I observe; it’s the general sentiment of the surrounding souls and expressions on cultivators’ faces.
+
+A majority of the initial-stage and mid-stage clans are happy and carefree, looking ahead to the stage with smiles on their faces, sharing light conversation.
+
+However, the few late-stage patriarchs I’m able to sense are in a far more stressed and anxious mood.
+
+The more important the clan, the more private their seating is away from the main walkway.
+
+Minor clans are sat out in the open air. All of the seating appears to be made of very unique wood, handcrafted by some technique, infused with enough qi to classify each seat as a low-grade artifact at least.
+
+For the late-stage clans, each one has a private area below one of the few spiritual apple trees in this clearing. There are intricate walls made of mid grade vines, and privacy curtains inside to section them off into small rooms with more cushioned comfortable seating.
+
+Even further, blocked off from view, the foundational clans have more elaborate privacy, with structures built out of the same white marble as the stage. High-grade arrays block all spiritual senses from peering inside.
+
+There are no markings, but there is a subtle vibration that comes off a few of these structures that can only be the aura of extremely strong physiques.
+
+One of which, being the largest, I recognize as the exact same aura I felt when walking into the center of Lingshi City a month ago. It was the presence of a blood demon in the Jiang Family Pavillion, and now it is not just one I sense, but at least three others, all coming from a single structure.
+
+The five other large structures must be for the Wei, Lin, Fu, Tang, and Meng clans.
+
+I don’t keep my attention on this too long, as they are too far out of range. I settle with only my system scans of the mid- and late-stage clans as I approach the stage.
+
+One of which makes me turn my head when I recognize the name, Feng Minshun.
+
+Him, and half a dozen other men are seated together close to the stage. This is the 7th-level qi refiner I tripped in a duel in order to win a slot to the Misty Forest.
+
+I pushed this nuisance to the back of my mind, planning to collect what is owed to me once I had more influence in the sect. However, when I see him smirking at me as I walk by, it’s clear he hasn’t forgotten about me at all.
+
+A notification sounds in my inner ear.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[Has been avoiding the Quest Hall of the Beast Mastery Peak to not run into the Host for many weeks after losing his family shop in a bet. He is no longer worried about this; he has hired his brother to burn down the Host’s spirit fields to open up a new slot in the sect’s outer peak.]
+
+I almost stop walking forward at this discovery, but my eyes track to the old man beside him instead.
+
+It’s a 9th-level qi refiner, 87 years old, with 7th-grade roots.
+
+His name is Feng Baishan, the Feng clan’s patriarch. The anxious swirling in his soul, and the secret beneath his status, finally gives me a definitive answer to what all the tension in the late-stage clans is linked to.
+
+[Plans to follow the lead of the Jiang Patriarch when he arrives, helping to eliminate the Wang and Mu Clans once and for all.]
+
+My heart begins to beat louder in my ears, and I quickly look away, back up to the raised portion of the stage at the end of this path.
+
+There are almost two hundred cultivators seated in these uplifted portions on either side of the stage. It is where the Mu and Wang families are seated.
+
+My system shows scans of over a hundred readings of 9th-grade roots, over fifty with 8th-grade roots, and dozens more with 7th-grade roots.
+
+The cultivation levels range from 1st-level qi refiners up to 9th-level qi refiners, and their ages from as low as 10 years old up to some nearing 110.
+
+The amount of 7th-grade roots in these seatings is far higher than any of the qi refining clans in the open air audience.
+
+However, there is an even more interesting detail I focus on.
+
+Not a single one of them has 5 spirit roots; they all have 4 at the most, and a large majority have 3, classifying them as true spiritual roots. This leads to a much higher proportion of the older men and women in these crowds to be late-stage qi refiners compared to the lesser clans.
+
+They are split up into half a dozen small groups with a strong man at the late stage of qi refinement at the center of each. They’re with multiple mid- to initial-stage concubines, along with dozens of their children. Every single one of them on the right side of the stage holds the surname Wang, while on the left side of the stage everyone holds the surname Mu.
+
+The heat and pure qi emanating off of them is intense. It is the highest number of cultivators I’ve ever seen in such a small place.
+
+At the very forefront of the Mu family’s section, I spot three women sitting on golden wooden seats closest to the elevated stage. One is an unknown 52-year-old 9th-level qi refiner with 6th-grade roots, with a system secret detailing that she is Mu Shulan’s older sister, Mu Yuchen.
+
+The woman next to her is that young heiress of the Meng clan, who presented high- and perfect-grade talismans as gifts ahead of me in line.
+
+Both of these mature women stare off at the qi refining families below with jaded gazes, as though this ceremony is just one of many they have seen in their lives.
+
+However, the last chair is where many wandering eyes in the crowds of people settle on the stage.
+
+That is because Lan Xin’s body radiates an underlying invisible enigmatic aura of a 12th level qi refiner. It creates a bright presence that can’t be ignored. She keeps her chin to the sky, and only gives attention occasionally to Meng Ruo, who makes comments beside her.
+
+When I take a sharp right turn at the center stage, all of their system scans disappear out of range, and I walk toward one of the golden chairs of the Wang family’s honorary guests set aside for me.
+
+Two of them are still empty, but one of them has a young kid sat in it.
+
+[Automatic Inspect Function Activated…][Wang Tengru] [Age: 14][3rd Level Qi Refiner][Fire, Earth, Metal Spiritual Roots][6th Grade][Acquired Beast Mastery Physique][Initial Stage - Mortal Grade][No Innate Physique][Son of Wang Ruze. Only second to Wang Ming in talent, he is another future foundational seed of the Wang Clan. Is soul-bound to a rare 6th-grade steel crab spirit beast.]
+
+With a polite smile, I make my way over and sit one seat away from him.
+
+Immediately, the young kid turns his head away from the crowd, and right toward me with enthusiastic eyes.
+
+“I’m Wang Tengru. I heard a young Azure Cloud Sect disciple was coming as brother Wang Ming’s honorary friend, Li Hao, right? Are you strong?”
+
+The kid looks me up and down, not lacking confidence at all. His 3rd level of qi refinement strength is completely unrestrained. The beast mastery physique is a hybrid between a physical and technical physique, adding a small amount of raw strength to his body and aura.
+
+I shrug. “That’s right. Maybe not as strong as you. I’m only a 3rd-level qi refiner.”
+
+He squints his eyes and leans in closer. “Hmm. I think that’s a lie. I’m a 3rd level qi refiner too. Brother wouldn’t invite you if you were really weaker than me.”
+
+A thin grin shows on my face. “Maybe I have a few tricks. My Martial Elite Physique adds to my combat strength a bit.”
+
+The young kid thinks harder, but there is an intelligent curiosity behind his eyes that clearly sees there’s more to me than I’m putting on. Though, he leans back and mimics my shrug.
+
+“Okay, whatever. Once brother Ming and sister Mu Shulan get married, we should spar. I’m going to be an elder of the Wang clan one day, so I need to know how strong Wang Ming’s friends are.”
+
+He crosses his arms and looks out over the crowd again, pretending to analyze everyone.
+
+I chuckle. “Sure, we can spar after if you’d like.”

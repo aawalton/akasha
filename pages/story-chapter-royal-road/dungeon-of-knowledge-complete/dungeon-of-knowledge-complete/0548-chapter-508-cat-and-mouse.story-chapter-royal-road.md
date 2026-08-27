@@ -1,0 +1,167 @@
+---
+id: 92cae25f-2698-5051-aa28-f18b3e08a722
+page-type-slug: story-chapter-royal-road
+title: "Chapter 508: Cat and Mouse"
+slug: 0548-chapter-508-cat-and-mouse
+partOf: dungeon-of-knowledge-complete
+position: 548
+ownLength: 2882
+unit: words
+ownProgress: 2882
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2948770/chapter-508-cat-and-mouse"
+royalRoadId: "2948770"
+markedReadAt: "2026-06-29T20:30:54.706Z"
+---
+
+“You made it,” Devan said, helping him up from the icy floor of the tunnel. “Fix your invisibility; it dropped.”
+
+“The other two got out safely,” he told her, quickly reactivating Eclipse and restoring his invisibility. Without his ability to see the remains of their teleportation spells, there would have been no way to know Hadlis and Brielle had escaped to safety – his communication artifact had an unfortunately tiny range. “Come, we need to take advantage of the opportunity they made for us.”
+
+“For sure,” Devan said, her mental voice spilling excitement into his mind.
+
+But it was not an unwelcome feeling, as excitement and anticipation bubbled up from within his own heart, too. This had always been his dream: exploring the ancient lost ruins of the legendary Mi’ir Valdanis, skipping boldly past epic terrors, bosses that would take the entire guild and more to defeat, uncovering clues and the location of powerful artifacts. Yes, most of the excitement was his own. Of course, those ‘epic terrors’ had been a lot less epic and terrifying when he had been younger, much more of a conceptual abstraction than the reality of the Frozen Scourge he’d just barely avoided.
+
+He flipped a coin into the air, taking the brief window of opportunity to safely refresh his Blessing of the Wanderer, and then took off down the dark tunnel to discover what secrets lay beyond.
+
+Patches of strange death and ice affinity poppies grew more and more frequent as the aura of death magic in the air deepened dramatically, rapidly overtaking the frozen tendrils of ice affinity. Despite all his protective wards and elixirs, he felt a shiver of fear running down his spine, mingling with his excitement to create a turbulent, bubbling discomfort in his chest.
+
+Surprisingly, given the power of the Dracolich that guarded the rift and the illusion protecting this tunnel, he found himself forced to step over more than a few frozen Dragonkin corpses nestled among the poppies. He studied one for a moment, surprised by how high-level it was. Last time they had been here, there had been no time to do more than run. But this time, he had a job to do, so he stashed as many corpses as he could fit in his ring in case Ali or Seth could learn something from them.
+
+Strange lines of silvery runes began appearing along the walls, brimming with so much lightning mana that the excess spilled from them as sparks cascading to the ground. Calen made certain to stay as far from them as he could within the dark, icy confines of the tunnel, shivering as the temperature dropped sharply.
+
+Whatever waited for them up ahead, it was radiating such a vast aura of oppressive power that he could sense it even from here. The poppies waved under the influence of eddies and swirls of dark mana, rather than wind, and the crypt-like stench of death and ozone invaded his nostrils, threatening to overwhelm his sense of smell.
+
+“Stinks of death knights,” Devan sent.
+
+“Death Knights, or something worse,” he responded. “But where are they?” Everywhere else in this dungeon, there had been patrols carefully scouring the tunnels and passages, monsters that needed to be defeated or avoided. Here, there were only poppies. No tracks marred the ground beneath his feet.
+
+“I don’t see anything,” Devan answered.
+
+“Me neither. Be on your guard.” Calen advanced, his feet coming down on smooth, flat stone instead of rock and ice. The tunnel widened as the rough-hewn walls gave way to the softly curving black stone architecture of Mi’ir Valdanis once more. The silvery runes adorning the walls grew more prevalent, taking the shape of complex designs where earlier there had been murals.
+
+Finally, the tunnel opened out into a vast chamber filled with beautifully crafted stone arches and columns, with trusses supporting a vast domed cathedral-like ceiling. Every available surface glowed with the soft, silvery radiance of mana-imbued mithril runes that dripped crackling sparks in the softly floating snow.
+
+A long runner of perfectly preserved crimson carpet led all the way from two massive, sealed doors to an imposing throne at the opposite end of the chamber that was wrought in pitch-black stone and adorned with heavy bones that could only be from dragons. Whatever had been chained within it, the throne radiated a dark malevolence into the chamber that seemed to form an almost tangible wall.
+
+Beside the throne stood an altar, devoid of decorations other than the black prism that floated in the air about ten feet above it, slowly rotating as the magical energy shining from its surface runes bathed the room in shifting light and shadow.
+
+“The dungeon artifact!” Calen sent, excitement filling his thoughts.
+
+“Yes, this is it, let’s find the phylactery,” Devan returned.
+
+“Whispers… Whispers in the darkness…”
+
+An eerie, sepulchral voice grated through his skull, creating a reverberation that echoed strangely from the chamber walls, prickling the hair on the back of Calen’s neck and causing it to stand on end. He sent yet another quiet thank-you to Basil and Ali as the aura of dread sluiced off the Mental Fortitude ward protecting his mind.
+
+From on high, a dark figure descended slowly. Strange, half-translucent, black tattered robes shifted, swirling in the air. There were no legs or feet, just indistinct wisps of darkness, but as his eyes took in the apparition, Calen found the dark, cowled head and arms brimming with intense mana. Trails of silvery lightning arced along its gaunt, bony fingers, illuminating the inside of its long, flowing sleeves.
+
+Thaldorien Stormshaper [The Inscrutable] – Greater Elven Wraith – level ??? (Lightning)[Explorer]The once-benevolent Elven King of Ancient Dal’mohra, respected throughout the realm as one of the foremost archmages in history and the architect of the Grand Library Arcana. The soul of Thaldorien Stormshaper has been raised as a wraith and bound in eternal servitude to the Crypt of Kings.Category: Dungeon Boss.Threat Level: Champion.Monster Type: Greater Wraith.Damage: Lightning.Known Abilities: Despair Aura, Incorporeal.
+
+It paused, hovering several feet above the ground, turning its head this way and that as it slowly scanned the room.
+
+“Artur, we have intruders,” the Wraith hissed, his voice echoing ominously within the throne room.
+
+“Someone dares disturb our vigil?” A deep voice answered.
+
+“So it would seem. Let us be done with them quickly. The master is not known for his patience,” another answered.
+
+Calen stiffened. Oh no, of course there’s more than one! Through their link, he sensed Devan’s similar response.
+
+Two dark, armored figures emerged from behind the throne, revealing the speakers, both flanking it in the casual expert formation of masters of combat. Two Death Knights, one tall and the other broad, both decked in glittering dark steel that bore blazing runes. The twisted revenants of a tall human and a powerful dwarf.
+
+Bragni Doomhammer [The Hammer of Justice] – Undead Dwarf – level ??? (Holy)[Explorer]The Hammer of Justice, Bragni Doomhammer, once ruled over the nations of the Dwarves before the unification that led to the formation of Ancient Dal’mohra. A holy warrior, cleric, and paladin known for his even-handed fairness and prowess in battle, now raised as a Death Knight. Category: Dungeon Boss.Threat Level: Champion.Monster Type: Death Knight.Damage: Holy, Physical.Known Abilities: Healing.
+
+Artur Dragonsworn [The Rule of Law] – Undead Human – level ??? (Fire)[Explorer]Artur Dragonsworn, known as the grand unifier, was the only human to earn the fealty of the Red Dragonflight. It was under his command that the third wave of the Demon Hordes was banished from the realm, and a new age of prosperity was ushered in. Even raised as a Death Knight, the flames of dragon fire still blaze in his eyes.Taken from Royal Road, this narrative should be reported if found on Amazon.Category: Dungeon Boss.Threat Level: Champion.Monster Type: Death Knight.Damage: Fire, Physical.Known Abilities: --
+
+The Three Kings of Ancient Dal’mohra! Calen’s breath caught in his throat as Explorer screamed danger into his heart. He instantly recognized them by their names and the descriptions Ali had given while telling the story of her home. Three ancient and wise kings, one dwarf, one human, and one elf, all turned unwillingly and forced to serve the Blind Lich beyond death. All three so far beyond his ability to identify that he shivered inside.
+
+The grim form that had once been Artur Dragonsworn took a step forward into the throne room, and a blaze rippled outward, beginning with his heavy footfall. A second step, and it amplified, a searing aura of pure crimson flame that filled half the chamber. The ringing of steel echoed through the room as he unsheathed a fiery greatsword that made the very air shimmer from pure radiant heat. As the searing aura washed over his exposed skin, Calen received a notification.
+
+You have been afflicted with Fire Amplification.+1% to Fire damage taken.Duration refreshes on reapplication.Magic – Domain – Duration: 30 seconds. Count: 1.
+
+This… is domain magic? It was like nothing he’d ever seen.
+
+Bragni Doomhammer stepped forward, too, his heavy boots crunching against the stone floor along the opposite side of the crimson carpet. He produced a short-handled war hammer with an imbued head larger than Calen’s own chest. Even with the withered flesh of an undead knight, his shoulders bulged from wielding its weight. It burst into yellow-white magical flame, shining with a radiant intensity as he shifted the immense instrument of war to his right hand. As if in response, a brilliant white aura of holy fire burst forth, spreading out through the chamber just like Artur’s aura of flame.
+
+You have been afflicted with Holy Amplification.+1% to Holy damage taken.Duration refreshes on reapplication.Magic – Domain – Duration: 30 seconds. Count: 1.
+
+Completing the trio of kings, coruscant light ignited within the wraith of Thaldorien Stormshaper and ripples of lightning surged outward, tendrils of hungry magic seeking and searching.
+
+You have been afflicted with Lightning Amplification.+1% to Lightning damage taken.Duration refreshes on reapplication.Magic – Domain – Duration: 30 seconds. Count: 1.
+
+A bolt of incandescent lightning, the thickness of Calen’s arm, suddenly arced between the floating wraith and a shrouded figure halfway across the chamber, blasting deadly shards of stone in all directions. Devan’s scream echoed in the chamber as her stealth was shattered, but she still dodged the second bolt, throwing a brace of spelled daggers at the undead flying king.
+
+Artur Dragonsworn and Bragni Doomhammer blurred into motion, ripping the carpet to shreds as they closed the distance to Devan’s unveiled form in an instant.
+
+Without a second thought, Calen fired a three-way shot that pierced each undead king, binding them with his chains of light. Howls of fury shattered the room as Artur’s greatsword missed decapitating Devan by a whisker, his body and therefore his reach briefly arrested by Calen’s control magic.
+
+But his binding spell shattered instantly, and worse, he still had no idea where the phylactery was hidden.
+
+Artur and Bragni chased after Devan along the far side of the room, and she met his gaze with desperation widening her eyes.
+
+“Find it,” she screamed into his mind, but the shock of Thaldorien’s aura still reached him with a muscle-spasming jolt.
+
+Your Lightning Amplification has increased to 2.
+
+Shit, it stacks!
+
+A powerful surge of magic rippled through Devan’s body, and she vanished from sight, but Thaldorien Stormshaper had her measure, unleashing an almighty barrage of lightning which scored a second hit upon her as she fled, unable to dodge everything.
+
+She’s buying me time. Mere seconds, to be sure, but time, nonetheless. He would have to make the most of it; there was no way she could last against such power.
+
+Calen unleashed every single decoy at his disposal, using the spell to re-engage his Eclipse and reclaim invisibility. Surging as much power through his wings as he could, he shot off in the opposite direction, scattering his decoys as a distraction to buy Devan just a little more time.
+
+“Hurry!” Devan’s voice echoed in his mind. “I can’t … much longer.” Her lithe body blurred with sudden speed as she fled, sprinting straight up a column, assisted by a gust of wind, while tossing more knives with deadly accuracy, their only purpose seemingly to annoy her attackers. But the continuous arcing bolts of lightning spewing from Thaldorien’s transparent bony fingers followed hot on her heels, scoring thick grooves in the black stone walls and unleashing a deadly hail of shrapnel.
+
+Calen ignored the blood spraying from her and summoned all his Motes of Light, filling the chamber with a sudden brilliant radiance. Where is it? His eyes scoured the edges of the chamber, urgently searching for an illusory doorway that had to be hiding the phylactery chamber, but there was nothing.
+
+It’s… not here?
+
+Behind him, a great ripping crash tore through the room as Bragni Doomhammer’s strike demolished an entire column of stone. Boulders flew, one of them taking Devan in the back and knocking her flying head over heels. She crashed into the wall with a wet splat and a pained groan, leaving a crimson stain on the wall as she slid down to the ground.
+
+Fuck. He couldn’t find it. It wasn’t there, and Artur Dragonsworn was bearing down on Devan with murder in his blazing eyes. His eyes flickered to the throne and the empty altar beside it, and with sudden inspiration, or perhaps a little divine luck, he sensed the subtle wrongness that rested there, a kind of wrongness that clenched his soul like the icy grip of a Death Knight. That must be it!
+
+He summoned a new mote of light right above it, causing one of his existing ones to dissipate, and suddenly he saw the truth of it. Right beneath the slowly rotating dungeon artifact, sitting in plain sight upon the altar, was a tall urn of pure alabaster, inscribed with myriad radiant mithril runes.
+
+[Explorer]The Blind Lich’s RequiemAn exquisitely constructed container that crosses the veil between this world and the spirit realm to house the soul of its soul-bound owner. Soulbound (This artifact is bound to a soul)Quality: Mythic, Unique.Soul Phylactery
+
+Calen shuddered as if he’d taken one of those lightning bolts straight to the chest. For a long, long moment, he could not breathe.
+
+Despite the lack of ability to identify items, Explorer knew exactly what this was. A barrier dome of glittering diamond encircled the altar, conducting pure domain mana within its surface. Hovering in the air were runic wards the likes of which he had never seen, humming with immense power. All of which had been spelled invisible; revealed to him only under his True Sight.
+
+“I found it! Run!” he shouted, firing a volley of arrows at the urn, only to have them shatter upon the wards.
+
+Devan vanished right as Artur Dragonsworn’s flaming greatsword flashed downward, passing through the space she had occupied and burying the blade deep into the stone.
+
+The Death Knight growled in fury, whipping his head around to glare directly at Calen. Singlehandedly, he drew the sword from the now-burning stone and advanced. “Let’s dance, boy!”
+
+No way he was waiting around to see what dark power or skill Artur was summoning to the fray. Calen teleported instantly, grabbing onto the traces of Devan’s escape spell, and he suddenly found himself back at the Novaspark Academy locus. Hadlis and Brielle shot up out of their seats at the sight of his arrival, their faces brimming with expectation and hope, while beside him, a laughing Devan lay bleeding on the cold stone, still quivering from the aftereffects of the adrenaline.
+
+“You got it?” she asked.
+
+“It’s right there in the chamber,” he said. “On the altar. But we will need Ali to dismantle the wards, or some other way to retrieve it.” To prove it, he shared what Explorer had uncovered with them.
+
+“Oh, shit! I just leveled,” Brielle yelped.
+
+“Me too,” Hadlis echoed.
+
+“Come, let’s go to report to Lyeneru and Vivian,” he said, offering Devan a hand. “And find you a healer.”
+
+“I have potions,” she said, but she leaned on his arm as she limped along with them.
+
+Eagerly, Calen directed his thoughts inward.
+
+You have greatly increased the reputation of your patron. Realm Hunter has reached level 172 (+2).+20 attribute points.Motes of Light has reached level 67 (+2).Explorer has reached level 102 (+5).Blessing of the Dawn has reached level 71.Eclipse has reached level 49 (+3).Eyes of the Archon has reached level 71 (+4).Azrael's Wings has reached level 44.Mirage Armor has reached level 67 (+2).Cartography has reached level 37 (+2).Explorer has reached a base skill level of 100.Explorer has advanced to tier two.
+
+He sucked in a breath at the sight, suddenly understanding how it had happened. Explorer had reached tier two. That must have been what had allowed him to identify the phylactery deep in the core chamber of the Crypt of Kings.
+
+Well, now… that’s something else, isn’t it? He could tell it wouldn’t allow him to appraise normal items, but mythic relics of great significance? Perhaps he would have an advantage!
+
+His racing heart was beginning to calm down as he carefully allocated seven points each to dexterity and perception and then put six into intelligence.
+
+I can’t wait to tell the others!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

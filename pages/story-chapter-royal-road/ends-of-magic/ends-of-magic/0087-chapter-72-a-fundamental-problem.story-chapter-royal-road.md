@@ -1,0 +1,223 @@
+---
+id: 0aa000d5-88d2-5170-a9e5-a4f70b4b27ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72: A Fundamental Problem"
+slug: 0087-chapter-72-a-fundamental-problem
+partOf: ends-of-magic
+position: 87
+ownLength: 2863
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3267703/chapter-72-a-fundamental-problem"
+royalRoadId: "3267703"
+---
+
+“I shall explain the problem without the scintillating words which the proponents of this plan seem so fond of,” Evesor said, gesturing around. “The validated truth of the matter is that the full implications of this plan requires moral decisions beyond the scope of Davrar.”
+
+Nathan sighed, already entering his challenge. “I’ll take him. Shouldn't be too hard.”
+
+“He seems like bait for you. I bet stalker teeth to dragon bones he’s got a rod of annihilation,” Sarah said warningly.
+
+“I think I can deal with that,” Nathan answered with a sly smile.
+
+Nathan turned back to Evesor, folding his arms and only half-listening. “... plan requires constant decision-making to support their lofty dreams of making the world a more moral place. Davrar will not support it. This Charter asks Davrar to do more than follow rules and run the mechanisms that support this world. These rusted idiots have forgotten what a smart system is, and what it is capable of. This charter is not a clear set of guidelines for it to follow. It requires judgment, and opinionated decision-making. It asks Davrar to adjudicate messy conflicts.”
+
+Evesor’s voice was annoyed, like a frustrated man explaining something to a child. “Colborn claimed that the only barrier remaining was details. I say that it is more than details. Where is the barrier of mental magic? Is it illusion, or healing? Kalis showed that healing magic can snarl a human brain to unthinking loyalty just as well as a spell of domination.”
+
+He scoffed. “Imagine Davrar deciding when to spawn dungeons based on the situation of the world around, instead of the statistical guidelines of the current system. Does it judge the morale of the populace and decide whether their level of advancement is fast enough? What of presiding over the laws of war? This proposal would have a regulation of intent, and that is where you leave the world of thresholds and enter the world of opinions.”
+
+Evesor glared around, again seeming disgusted with his audience. “Davrar does not have opinions.” He pitched his head upwards. “Davrar, I call for a simple validation. By the statutes of smart systems, you are barred from making moral decisions. You cannot make value judgments.”
+
+Evesor threw up his hands as a man who had demonstrated an obvious fact. “A fact every Questor should know! The Distal Expansion is built on smart systems. They run every aspect of our infrastructure. We build them from the basic layer up as tools, barred in a hundred essential ways from ever becoming people. We create artificial life aplenty, but we will not risk our infrastructure becoming intelligent, not after the events of the Expansion itself, ancient history though it is.”
+
+He shook his head and sighed in disgust. “This entire conclave is replaying the past failures of our society on a smaller scale. Thank the laws of the universe that the barriers are in place to prevent such idiocy, and they cannot be overturned by this gathering. This proposal, as written, requires Davrar to become sapient. That is not an outcome that is desired or even possible.”
+
+He raised a hand, as if to forestall an objection. “To demonstrate. Davrar, does the Continuance Charter, as proposed, require you to make moral decisions?”
+
+“The process of moving the proposal from conditional validation to full validation would require delineating guidelines for all such decisions?”
+
+Nathan turned to Sarya, whose lips were pressed together so tightly they’d become almost bloodless. “Is he right?” He could already see Questors near and far reacting in ways that made the question rhetorical. But his current impression was that his allies were idiots, and he wanted to be proven wrong.
+
+Her jaw was set and angry. "He's extending our position beyond our intentions. The moral decisions are in topics we intended to remove as the proposal developed. The plan was to end with a tight replacement around the Endings, with guidelines that would fully validate. But he's pouncing on this weakness before we've done so." She dove into her interface, likely trying to message Colborn to ask how to respond. "This is the consequence of so little time to draft a proposal."
+
+Her frantic anxiety did not give Nathan much hope, and he ruthlessly crushed a feeling of growing panic. Was this how the conclave failed? Not because Nathan and his friends died or made a mistake, or even because the Questors betrayed him. But because they had rushed their proposal and left a gaping weakness that their opponents were now exploiting. He had trusted them to get the politics right, and they'd fucked it up.
+
+Evesor had paused to let his words hang in the air, but now he resumed speaking. “My words validate, and failure of this proposal is not my opinion. It is Davrar’s truth that to implement the Continuance Charter, in matters small or large, would require encoding a full code of morality into the system.” He crossed his arms sternly. “Such codes exist, as in the Golden Rules of Severthorn. But I do not believe we wish to implement such a sleepless tyranny here. Davrar is not an omniopticon."
+
+He pointed towards the Ashen Accord in accusation. “Face the requirements of this plan plainly. Either you encode an ironclad code of morals within Davrar, one that punishes the smallest theft, or you enshrine living judges to control the world. State who you would trust in such a position, and see if the conclave agrees.” His tone left no doubt as to his expectations there.
+
+“Nathan, what…” Stella began, looking back and forth between him and Evesor while wringing her hands together.
+
+“We’ll figure this out,” he replied, casting his mind forward and backwards as he hunted for a path through this new obstacle. It felt like they were so close to success, but judging from the audience reaction, any chance they had was slipping away.
+
+This is just another obstacle. How can I solve it?
+
+Evesor turned away from the Accord, speaking to the crowd at large. “Davrar is a framework, a system and world for us to exist within. I understand the purpose of this proposal, and I hold no ill will for the passion of mortals trying to improve the structure of their universe. But this path is impossible, and so I instruct them to make their changes within Davrar, instead of trying to change it into something it can never be.”
+
+He shrugged. “I call for a nonbinding poll. How many wish to call for an end to the conclave, now that its goals and means are laid bare?”
+
+Evesor waited on the podium, hands clasped gently together. He wasn’t tense, just waiting for an expected outcome. It didn’t take long to return, and Sarya hissed as she saw the result.
+
+“How bad?” Nathan asked.
+
+“Entropy-cursed awful,” she replied sharply. “They have the votes to cancel the conclave as it stands. I am sure they will call for it as quickly as possible. With these numbers, it will pass."
+
+Nathan felt his teeth grind together, ideas bouncing around in his head and assembling into some semblance of a plan. He wanted to curse out the Ashen accord in particular and the Questors in general for being fickle idiots ready to quit the moment the going got hard. “Will I still be able to challenge him?”
+
+She nodded hesitantly. “Yes, but killing him will not revoke this result. You will get a few words, but I do not see a prophecy where you shift the Questor’s minds.” She met Nathan’s eyes, gaze sorrowful. “I am sorry. We have failed you at a critical issue. We’ll help Gemore…”
+
+Nathan shook his head to cut her off, eyes landing on Evesor. “We'll talk more later after this.” Then he took a deep breath and did a few things in order. First, he turned to Aarl and spoke obliquely. “You have something of mine in that bag of yours. Chuck it towards the arena if the moment seems right.”
+
+He set off for the center of the arena without waiting for a response, feeling the wind blowing in his hair. He asked Davrar a question and received an answer, delivered just to him.
+
+Nathan felt a smile blossom across his face. It was time to put everything on the line once again, to bet his life and his goals on a series of untested ideas and hope he could make it work just one more time.
+
+Davrar rewards risk, and I think this is the biggest risk of all.
+
+That thought brought Nathan onto the stage, where Evesor saw him and smiled, spreading his arms apologetically. “No harsh words, my boy. It is my desire to keep Davrar intact, not to spite your dreams.” The expression didn’t reach his eyes.
+
+Nathan smiled grimly. “An easy statement to make when you think you’ve won. But the conclave isn’t over just yet.”
+
+Evesor paused, frowning at Nathan’s smile. But then he shrugged nonchalantly. “If you insist on continuing this debacle, then you shall receive due consequences.” He reached into his robes as the arena flashed to indicate the start of the duel and drew out a thin rod that contained utter annihilation.
+
+Nathan leapt forward and drove his aura towards Evesor, though he knew it was a hopeless endeavor. He couldn't let his aura near the rod of annihilation, and his only hope was drilling into the Questor’s mana pool and incapacitating him by breaking his magic. But that would take at least a few seconds, and he didn't have that much time.
+
+But Evesor didn't snap the rod. Instead, he cast a quick force spell to hold the rod of annihilation and then a second spell to shift himself into the aether. He became a translucent ghost of himself, holding the rod with his magic because he lacked a physical body.
+
+He doesn’t want to just kill me, he wants to actually win.
+
+Nathan’s antimagic reached for the force construct. It would be delicate, but if he could destroy the spell without touching the rod, he could avoid the detonation. Then he could snarl Evesor’s aetheric body in antimagic, and the victory would be his. But a doubt niggled in his mind, since the bare plan he had required more than simply winning the duel.
+
+He never got the chance to find out. Less than two seconds after the start of the duel, the force construct activated with Nathan's aura mere feet away. He didn’t even see it snap the rod, or didn’t even feel the force of the explosion tear apart his body. He was suddenly inside his mind palace, his connection back to the real world more tentative than ever before.
+
+Davrar tried to cut that tether to prevent his person from crossing the boundary of the dueling arena. But all of Nathan’s antimagic was concentrated in that one speck of being. He passed through the crystal barrier as a disembodied mind with a single point of connection to the real world. Nathan funneled his Stamina into that connection, the severed hand that had been held in stasis in one of Aarl's dimensional bags since Kaelis had cut it off. It was a confusing experience to start as a hand. He’d radically changed position from just seconds ago, and it took a disorienting moment to adjust himself to the new position outside of the dome.
+
+In the past, it had taken Nathan several seconds to regrow his body. This time, he directed his healing to go straight for the brain and only then work his way back down his body.
+
+He returned to the physical world as a mere fraction of his former self, just a head, neck, shoulder, and arm. It was still enough to control his flight. Aarl had given the hand a fair amount of starting velocity, and he soared towards the hollow sphere where Nathan had been just a moment before. It was still full of shining light, the raging plasma filling it entirely and making it look like an enormous lightbulb even through Davrar's protective shielding.
+
+Nathan slowed his regeneration, moderating it to a more efficient pace. He didn’t think that most of the Questors had seen him yet, since they were focused on the dueling arena and not elsewhere in the vast sphere. Davrar normally regulated this airspace, and the only people allowed close to the center were those actively speaking or engaged in duels.
+
+There was a flash of power from inside the arena as Davrar clamped down on the lingering energy from the antimatter explosion, revealing Evesor floating in the middle of the space, completely untouched on the other side of the aether. He phased back to reality and brushed off his robes melodramatically, looking around the arena with an air of supreme satisfaction.
+
+“Now then. Let us end this. I call a formal binding vote to bring this conclave to a close without a resolution, as the only proposal on the table…”
+
+“Oh Evesor!” Nathan interrupted gleefully, closing the distance to the edge of the dueling space and banging a regrown fist against the crystal. “The conclave isn’t quite done yet!” Davrar didn’t seem to object to Nathan being outside of the arena, but it definitely didn't want him yelling to the entire arena. It wasn’t his turn to speak, and so it tried to dampen his voice with a localized stilling of the air. Nathan used his aura to override it, suppressing the deep magic to let his voice ring loud and true throughout the vast space. The crowd of Questors certainly noticed him now, people calling out in disbelief, anger, and gratification.
+
+The Questor turned and stared at him in disbelief. Then he shook his head and looked again, as if he'd expected Nathan to vanish in the intervening moment. “I vaporized you entirely. Your survival beggars imagination. Is this an illusion? Put on some clothes.” He was babbling, mouth running while he tried to process Nathan’s survival, as well as his presence outside of the dueling arena. It was supposed to be impossible for anybody to cross the crystal barrier by any means.
+
+Nathan grinned back, feeling entirely unselfconscious about his current state of undress. But his words were reconciliatory. “Let me speak. We can still talk about this and come to an agreement that satisfies everybody.”
+
+Evesor’s expression firmed, and his lips curled in a superior sneer. “No. You are outside the arena. You lost your duel; it is not your turn to speak. This conclave is over.”
+
+Nathan huffed in satisfaction. His biggest priority right now was to be reasonable. He needed to present himself in the best possible light for what was to come. “Davrar doesn’t seem to think so.” He strode right into the crystal barrier, using his aura to dissolve himself a hole in the wall. “Davrar has allowed me back into the arena, and I’m still alive. I think that means the duel is still ongoing.” He raised a fist. “Shall we continue? Or will you agree to talk this out? The Continuance Charter can be salvaged if you're willing to compromise.”
+
+If he agrees, then we do it Sarya's way; if he doesn't, then it's my way.
+
+Evesor gaped at Nathan again, eyes flicking between him and the crystal barrier he'd just walked through. "This changes nothing."
+
+The hole wasn't sealing shut, and Nathan didn’t want to give him time to think about it too hard. Besides, he had his answer. He attacked, lashing out with his aura and moving to close the distance to Evesor.
+
+The Questor retreated, jetting backward with supreme control as his flight spell brought him backward. He spun up a half-dozen attack spells, beams of disintegration, snarling distortions of space, and a spray of razored shards of force lashing out towards Nathan.
+
+They accomplished nothing. Nathan latched onto Evesor with his aura, killing all of the man's active spellwork and moving to catch him as he fell from the air. He grabbed the Questor by the collar of his robes and held him aloft, smiling a victorious smile into Evesor’s distraught face. “A rod of annihilation seems like a cheap trick. But it seems that you didn’t stand a chance without it. Now, let's have a chat."
+
+Permanent Talent 1: Magical Destruction 10
+
+Permanent Talent 2: Distributed Immortality 3
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1337
+
+Bottomless Stamina: 120192/134700
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 951
+
+Limitless Focus: 5082/9610
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 7
+
+Forewarning 10
+
+The Truth of Magic 8
+
+Evasion 5
+
+Wizard’s Palace 8
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 2
+
+High-tier Battle Cry 8
+
+Aura Mastery 6

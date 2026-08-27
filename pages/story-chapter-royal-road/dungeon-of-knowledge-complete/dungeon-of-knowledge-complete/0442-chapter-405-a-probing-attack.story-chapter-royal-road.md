@@ -1,0 +1,189 @@
+---
+id: 5f15e56f-4e34-5bdc-92a3-d69c814881bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 405: A Probing Attack "
+slug: 0442-chapter-405-a-probing-attack
+partOf: dungeon-of-knowledge-complete
+position: 442
+ownLength: 3317
+unit: words
+ownProgress: 3317
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2665795/chapter-405-a-probing-attack"
+royalRoadId: "2665795"
+markedReadAt: "2026-06-29T20:27:01.769Z"
+---
+
+Ali lowered her flightless minions to the chasm floor, the graveyard of the gods, and flew down under her own power, alighting beside them on the ground. The vast chasm shook with the distant detonations signifying Azryet’s broadscale assault. Down here, though, the flashes and shockwaves did not penetrate the mountains of decaying corpses and the channel her Devouring Consumption had carved through it, however, all along the wall bordering Azryet’s domain, corpses rapidly disintegrated, turning into clouds of billowing mana motes as his dungeon strove to recoup some small measure of the incalculable cost of this conflict.
+
+The stench of dead demons and decaying dragons assaulted her nostrils, almost distracting her entirely from the gore and the rivers of congealing blood.
+
+“Which way?” Ali asked.
+
+“This way. Follow me,” Azryet’s kobold tracker said. The guide had a polite and well-spoken manner, his Draconic flawless and clearly trained, and he immediately directed her out across the vast battlefield. “The flying units have scouted a suitable entrance on the far side.”
+
+“Ok,” Ali said, following the elegant kobold while she drew her minion army up into a cautiously defensive formation around them.
+
+Huge shadows drifted far above, but none of them had eyes for her and her insignificant party creeping along the ground. Ali just hoped it would stay that way – some of the behemoths above were so vast, she could feel the pressure waves of mana as they passed by far above. She slipped her awareness into her Devouring Consumption and simply piloted it in the proper direction, making sure it continued to eat regularly.
+
+Something soared close by, and the now-giant tentacles of her slime shot out, snapping the monster out of the air with a wet slap and a choked-off screech.
+
+Your group has defeated Blood Imp – Demon – level 83 (Blood).
+
+Ali watched as her Devouring Consumption ingested its snack, studying the strange magic closely. It was a truly terrifying monster when unleashed in a place such as this. It had already passed level one hundred and, even though most of its levels were temporary, its real level was increasing steadily with every kill it made. And there were effectively infinite corpses for her to feed it.
+
+But as she followed along, a little mesmerized by the soft, unfamiliar buzzing of her wings, she suddenly realized just what kind of resource she found herself in. The Devouring Consumption was not the only thing that could benefit from all the corpses piled up in mountains, and suddenly, the gruesome sight became a goldmine for her. Her Grimoire flared into life as she took every pause her slime made to kill something as an opportunity to deconstruct whatever the freshest corpse at hand was. Imps, Wargs, Dragonets, Kobolds, it didn’t matter; she consumed them all, her only limitation being the urgency of their quest and the desire not to delay their progress. Much of what she found was too high-level or varied for her to learn anything, but if she had the opportunity to come back when she was stronger, she was definitely taking it.
+
+Scanning the mounds with her minions’ eyes, she spied something familiar – a powerful black dragon corpse lying twisted and broken among the mangled remains of many demons. She deconstructed it. The pile collapsed, raining demon pieces down upon her hastily erected barrier, and she found herself face to face with a dead Baelok Descrier. She deconstructed it, too.
+
+Wait… she thought, finding something else poking through the pile; a huge taloned claw clutching a massive spear. She deconstructed the spear and the remains of the Pit Lord that had wielded it. These were monsters she understood, and if there were any chance…
+
+The more powerful demons or dragons seemed much harder to find, especially the duplicates she required to complete the variants for her Grimoire, but the lesser demons, dragons, and kobolds she got in droves. Despite the limited time, her Grimoire tallied up variants quickly as she made her way across the chasm.
+
+“It is in there, Miss,” her guide said, pointing a taloned claw that leaked wisps of void at a dark hole in the sheer cliffside. Indeed, Ali could clearly see the potent domain of the Demon God’s hellfire and blood billowing forth from the dark cave. Just like on the other side, any corpses that fell near the wall, landing within the reach of the domain mana, were immediately dissolved into mana. This side, however, stank.
+
+“Ancient Mistress, there.”
+
+Ali turned to find her acolyte pointing down at something she hadn’t noticed. A black-scaled tail protruding from beneath a pile of imps and pieces of Descriers. It was covered in ichor and black blood, but it was unmistakably a dragon.
+
+“The master would approve,” the guide said, nodding.
+
+Quickly, Ali ran to it and deconstructed it.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+She didn’t hesitate to select a precious blank chapter and add it to her Dragon Imprint.
+
+Variant: Scion of Azryet added to Imprint: Dragon.
+
+“Ok, got it. Let’s go,” Ali said, approaching the tunnel entrance. But as she eyed the dark and foreboding tunnel she was about to enter, she realized that it was far too small to bring something as massive as a Scion of Azryet. Even her Devouring Consumption was now much larger than the tunnel – but it was an Ooze. They specialized in small gaps. It didn’t even slow down; it simply squished itself into the hole and crawled down the tunnel, consuming everything along the way.
+
+Hmm, it makes a nice cleaner.
+
+Malika studied the oversized Sylvan Elf archer that stood in the center of the old Myrin’s Keep marketplace. Many of the buildings that had once surrounded it were now creep-covered rubble, and the dungeon had turned the whole area into a foreboding forest of dark and ominously twisted trees that sprouted from beneath the shattered stone cobbles.
+
+“Raid boss,” Calen said, squinting his eyes.
+
+“Definitely,” Lyeneru said. “Engage carefully, and don’t be afraid to call the retreat.”
+
+Retreat will be tricky, Malika thought – their recall potions no longer had a valid destination. Still, they had exercised the proper caution, taking the time to clear all the monsters in the area before engaging the boss.
+
+“What level is it?” Malika asked.
+
+“One forty-one,” Calen said.
+
+Malika gulped. They were probably the only members of Myrin’s Keep who could stand here and even witness such a powerful monster without being instantly wiped out. The Sylvan archer stood almost twelve feet tall, his lean body covered with thick, blackened bark and dark green leaves that sprouted like fur from most surfaces. His dark hazel eyes glowed with feral cunning, and ears that rose to a thin delicate point harkened back to his Elven heritage. But four gnarled, branch-like arms sprouted from his shoulders, and in each left hand he held a different bow.
+
+The upper arm held a thick, gnarled branch of wood with a span of almost six feet, strung with a barely visible line. Instead of leaves, this branch sprouted spore pods that leaked dark green spores into the air like a hazy miasma that followed it around.
+
+The second bow, the one held in the lower hand, exuded a palpable malevolence. It was a dark blue, but indistinct, partially translucent, and her eyes slipped away from the edges as if struggling to grasp the concept of something that was not quite there. It shifted like a shadow granted an unnatural awareness, and every time her gaze settled on the bow, barely audible whispers seemed to fill the air around her, clawing at her mind.
+
+“Ok, Mato. Go when you’re ready,” Calen said. “Kill it if we can, but the primary goal is to learn as much as we can of its abilities and then escape.”
+
+Mato shifted, and Malika readied herself, retrieving a handful of dark, twisted rings she had looted from the many Sylvan monsters.
+
+Twisted Band of the Sylvan Summoner – level 107A band of oak, grown or carved into a twisted wreath. The muted pulsing glow of mana hearkens to the malignant gloom of a dark and forgotten twisted forest. +63 Wisdom.+12% to Nature damage. +15% to Minion movement speed.Minions gain additional Nature damage on hit.Minions gain additional Death damage on hit.+120% to Minion health regeneration.Parasitic: +5 Nature damage to wielder on activation of a skill or ability. Requires 750 Wisdom to unequip.Requirements: Wisdom 375Quality: Rare.Value: 238 gold.Ring – Oak
+
+Oh! Ali will love this, she thought, glancing at the unusual wreath-shaped ring she had just looted from one of the druids, but then her worries for her friend crashed in. If we ever see her again.
+
+When we see her again, she thought, fighting off the sudden guilt as her thoughts betrayed her fears. She stored it, deliberately making a mental note to give it to Ali when they rescued her. Quickly, she searched through the rings till she found one more suited to herself.
+
+Ironwood Band of the Sylvan Warrior – level 94A dark, polished band of durable ironwood.+57 Endurance.+45 Strength.+23 Dexterity.Mana: Store or retrieve an item. Capacity: 432 / 3000 lbs.Parasitic: +12 Nature damage per second. Requires 656 Wisdom to unequip.Requirements: Endurance 329Quality: Uncommon.Value: 127 gold. Ring – Ironwood
+
+Carefully, she double-checked the enchantments before firming her resolve and slipping it onto her finger in place of her woefully underleveled Seal of the Quartermaster.
+
+She had more than enough wisdom to remove it, but the sense of the parasitic enchantment invading her body throbbed with a wrongness that made her skin crawl. Still, the extra attributes were too good to pass up, especially for an entirely untested boss fight – and the strength would be needed for her sketchy contingency plan, should they be forced to flee.
+
+The ring still contained dozens of the strange, virulent green potions the Sylvan monsters had been using to heal themselves, but she wasn’t about to try them out without a professional herbalist or alchemist’s appraisal – especially not when the monsters all had nature absorption and could happily drink poisons to heal. Instead, she had just transferred everything she might conceivably need during a fight from the Seal of the Quartermaster to the new ring.
+
+She trickled a little stamina into Healing Mantra, topping herself off, erasing the constant tick of parasitic damage, and letting the overheal wash over Mato as his transformation completed, and then took off at a sprint, following him as he charged out into the sparsely wooded marketplace. His heavy paws made squelching splats, sinking a foot and a half deep into the fungal creep, while hers danced along the surface, barely touching it.
+
+Instantly, the dark, glowing eyes snapped to their intrusion, and the tall Sylvan Elf blurred as he ran sideways on too many wriggling roots. She followed his disconcertingly smooth movement, barely – his speed required a surprising amount of her accelerated awareness to track. Both bows lifted simultaneously, and a pair of brown wooden arrows appeared on the wooden bow, and a pair of glowing black arrows appeared on the ethereal death bow.
+
+The arrows flew before they were even close, one of each heading unerringly toward her, while the other pair slammed into Mato. Malika sidestepped with a sudden burst of speed, making certain to dodge the cloud of billowing spores that trailed from the wooden arrows that were leaving a poisonous cloud in their wake. But both arrows slammed into Mato, great roots ripping through the ground about him as they entwined his huge, bulky form, but it was the glowing dark mana that settled upon his body that worried her more, and the massive detonation of necrotic energy as the glowing black arrow exploded on impact.
+
+Mato barely slowed down, ripping himself free of the giant roots as she caught up to him and poured her healing through him, reversing the putrid rot that consumed his flesh, but the dark mana within him continued to pulse away, draining his health.
+
+“Curse.”
+
+His disembodied voice appeared in her mind, followed immediately by a shared notification from Mato, and as usual, Malika sent a silent thank-you to Ali for solving his battle communication difficulties so efficiently.
+
+Death’s Grasp+34 Death damage per second.Death Vulnerability (+25% more damage from Death).Level 56 Raise Zombie cast on death.Curse – Duration: 30 seconds.
+
+More arrows whistled toward their team, filling the air with billowing clouds of spores and detonations of necrotic damage wherever they struck. Malika dodged furiously while studying the delicate interplay of stamina and mana within the boss, healing Mato as her vastly less dexterous friend simply tanked the damage, continuing his charge toward the trees. And then something moved. From within the spore clouds, shapes coalesced and then charged outward, intercepting them.
+
+Creep Spores!
+
+Malika dodged, but she couldn’t dodge all the explosions, taking several hits as she vaulted over Mato, using his body for cover while healing him. They rushed past several piles of rubble and around a tree to finally confront the monster, but a sudden surge of stamina preceded an instantaneous bow-strike that cracked like a peal of thunder, bathing them both in poison and an explosion of dark rot.
+
+You have been stunned.You have been afflicted with Poison.You have been afflicted with Grasping Roots.You have been cursed with Death’s Grasp.
+
+The stun wore off in a second, but the monster was gone, leaving only rotting wounds behind. She glanced around but only found the monster hiding behind a wall when she used Soul Sight. She ducked, dodging another volley of arrows, healing herself and Mato as he recovered, all the while struggling against the heavy roots that threatened to crush her.
+
+“He’s using domain magic,” Calen announced, but Malika would not have mistaken the surge of mana that came from behind the remains of the shop from which the arrows had come.
+
+A strange, unreadable formation appeared on the ground, but the monster that appeared within it was instantly recognizable.
+
+“Zombie Treant,” Calen yelled.
+
+The tree resembled the dark and twisted oaks that had claimed the marketplace, but the leaves were wilted, and it was covered with rotted bark and branches and infested with blackened fungal growth. But it certainly moved, charging toward them with a creaking moan that sent shivers down her spine.
+
+“Mato, get the tree zombie, Malika, put pressure on the boss,” Calen said, calling out a change in strategy.
+
+Taking only the moment needed to top Mato up, Malika vanished, stepping through space and teleported right behind the Sylvan Elf in his half-destroyed shop. She lashed out with a kick, pushing herself to full speed with Divine Step. Her strike connected solidly, cracking loudly, much like kicking a tree trunk. She followed up with two Soul Strike empowered punches, and then she saw the same surge of stamina flare within it, and recognized the stunning blast attack. She felt her eyes pulse from the activation of Soul Sight as she grasped the rippling flow of monstrous energy with Martial Disruption and shattered it.
+
+Instead of the stunning bolt, the monster vanished from sight, a second formation surging through it in reaction to her disruption.
+
+He was completely invisible, but she could still see the mana and stamina within his body. But he left her behind as he suddenly rushed past, heading toward a different ruined building with an unbelievable burst of speed. She sprinted after him, dodging the arrows that flew her way, but there was no way she could keep up, and, by the time she reached him in his new spot, four more Creep Spores and a second Zombie Dark Ent appeared.
+
+“Another domain magic.”
+
+The mana surge this time was darker, more menacing, and around her feet, the ground suddenly turned into a bubbling puddle as the creep and even the rubble within it rotted away in seconds. She hopped up into the air, but quickly had to run away as the toxic vapors emitted by the puddle began to choke her.
+
+You have been afflicted with Poison.
+
+Gaah, that’s foul! She teleported again, pressing her attack, getting in only two kicks this time before the boss vanished, sprinting away at that same ridiculous pace. Evolved monsters were on a whole different level. She had to push herself to the limit just to keep up. But both Calen and Lyeneru’s arrows didn’t let up in the slightest, tracking the invisible monster wherever he went with a stream of mana-enhanced arrows that ripped the creep at his roots to shreds, each strike filling the air with flying scorched fungal bits and the stench of ozone.
+
+Malika sprinted, pushing herself to go even faster as her costs grew slowly cheaper, dodging arrows from both directions, and hopping clean over a second puddle of rot as she landed upon a fallen half-wall and unleashed her kicks upon the bark-like armor, allowing Soul Strike to do most of the damage as it pulsed and flickered right through the monster’s torso.
+
+This guy is annoying, she thought. Not only could Mato not catch him, but she was continually chasing him, unable to do any sustained damage. The two domain magic abilities he had shown so far seemed rather manageable, quick reactions allowed the rot pools to be avoided, and the zombie treants were all gathered up on Mato. All she needed to do was check in on him every now and then and heal his cumulative wounds. The spore clouds, on the other hand, were much more annoying. They seemed to be summoning Creep Spores, which ran around chaotically, exploding on anything that moved, and they lingered long enough to be frustrating to navigate.
+
+Suddenly, movement and mana shimmered out of the corner of her eye, and she barely dodged as three new sylvan monsters appeared, swords flashing as they tried to decapitate her.
+
+Another summon? But she hadn’t seen the mana surge within the boss, it had come from the area to her left and behind her. Then, it suddenly clicked. “Respawns!’
+
+“What? That’s not possible,” Calen snapped.
+
+Malika ignored him, instead rushing toward Mato, dragging the warrior respawns with her. She took the opportunity to heal him, finding him surprisingly hurt considering he was actually using Brutal Restoration. Must be the poisons and the curse.
+
+And then a second shimmer rippled through the domain, and a second group of humanoid plants respawned.
+
+“Fuck,” Calen said. “Retreat. Retreat!”
+
+Malika had considered the retreat plan, worrying incessantly about it all the way through the dungeon, but she had eventually settled on a rather unconventional strategy. It just hinged on whether her moderate hundred and seventy-odd strength would be enough to handle Mato’s vastly increased weight. She hadn’t had the opportunity to test it, but she squatted, wrapping her arms around his shoulder and across his back, and heaved, burning stamina like crazy to run up into the air with the massive bear.
+
+Somehow, it worked, and she found herself struggling to dodge arrows flying from the ground while manhandling an oversized Dire Bear.
+
+You have been afflicted with Poison.You have been cursed with Death’s Grasp.
+
+But neither of these two afflictions did enough damage to hurt her through the damage reduction her Soul Armor provided. “Stop wriggling,” she said, trying to shift her grasp on Mato.
+
+But it seemed he wasn’t exactly wriggling, because moments later the weight all but vanished and she found herself carrying a Beastkin with a mace and shield stuck to his hands, and a grumpy, annoyed look on his face.
+
+“I hate flying,” Mato groused.
+
+“Let’s return to the camp,” Lyeneru said. “We have learned more than enough for tonight.”
+
+“That was not pretty,” Mato growled.
+
+Malika grinned inwardly. And you sound like a grumpy bear. Exactly how I feel.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

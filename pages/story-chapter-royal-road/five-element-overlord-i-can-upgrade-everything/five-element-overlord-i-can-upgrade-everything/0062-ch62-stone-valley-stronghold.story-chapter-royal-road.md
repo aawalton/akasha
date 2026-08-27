@@ -1,0 +1,175 @@
+---
+id: 058df29f-2eda-5ecd-95b8-be0ce81bc08b
+page-type-slug: story-chapter-royal-road
+title: "Ch62 Stone Valley Stronghold"
+slug: 0062-ch62-stone-valley-stronghold
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 62
+ownLength: 2253
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3451053/ch62-stone-valley-stronghold"
+royalRoadId: "3451053"
+---
+
+“Squad 414! We have a new mission ahead of us, we’ll be leaving Green Rock Lake in less than one hour! Get ready to move out!” Bao Zhan’s voice calls out through the cool morning air after almost a week camping out in one place.
+
+As a few new squads wander into this camp, the Green Rock Lake authority position is handed over to an 8th level qi refiner and his squad that have been staying here for the last two days.
+
+We start our trek out to the north west, deeper into the undeveloped wilderness.
+
+Even though we’re just tasked with securing a low grade vein 15 kilometers away, it is in the direction of the Stone Valley Stronghold I’ve been hearing about constantly.
+
+–
+
+Another 10 full days go by.
+
+Our missions are smooth, exterminating hidden groups of illusory demons, securing 5 low grade veins and 4 mid grade veins.
+
+The trekking path is not a straight line, as we’ve had to cross over wide streams and walk around large mountains. We go multiple days without seeing other squads and often get ambushed by illusory demons that do not even stay in strongholds, they hide high up in trees.
+
+I’m able to feel them out, but when their numbers are over twenty, the battles are still filled with some risk.
+
+Two more stewards are killed in a bloody battle deep within a swamp.
+
+Their bodies were recovered and sent back for a proper burial.
+
+However, considering the hundreds of kills our squad has amassed, these are sacrifices that are well worth being made.
+
+Old Liu and Old Chu have shed their carefree jovial and cowardly demeanors and have become serious battle hardened old men.
+
+I’ve saved the lives of these two and the five other remaining stewards many times over. My shot with a bow has become even more precise, even getting Yun Renshu out of tight situations a few times. The nickname Heavenly Archer was playful at first, but every steward left alive calls me it with complete seriousness in their tones and faces.
+
+The low quality bow and black iron arrows are now ingrained in their psyches forever.
+
+During this time, I have not had to use any of my upgraded talismans since the lake.
+
+I’ve just been stacking upgrade cards and biding my time.
+
+On our off hours, I sometimes pull out a few bottles of inferior grade spiritual wine, but even this supply runs dry.
+
+We go entire days without talking and get into a rhythm of following orders and securing camps.
+
+“Looks like we’re being rewarded. Our only orders today are to trek 35 kilometers north and hand in the collected demonic bodies and pills we’ve amassed. Squad 414 is going to be stationed at Stone Valley Stronghold for the foreseeable future.”
+
+After many nights of mindless guard duty, I perk up at this name.
+
+Other stewards chatter and celebrate for the chance to rest, but my smile grows because I’ll finally get the chance to train again.
+
+We set off as soon as a new squad takes over our base and hike through heavy rocky forest all day until the sun starts setting. The presence of other Azure Cloud Sect cultivators starts to become more common.
+
+On the path we take, as we’re less than a kilometer out, two other squads join us toward the same location.
+
+It appears inconspicuous at first, like we’re headed through another unpopulated valley between two mountains, but we’re each stopped one by one and storage pouches are searched.
+
+There are four late stage qi refiners all standing in a line between two massive grey boulders.
+
+Bao Zhan talks with them and verifies our squad number first and hands over his storage ring. A jade tablet is brought out, and a series of numbers are tallied up.
+
+Yun Renshu hands his demons in after.
+
+While the other stewards line up and hand in their kills, I mentally check to make sure no valuables are mixed in with what I’ll hand in. It’s just the storage rings of three mid stage demons and 162 initial stage demons. What’s left of their bodies are inside too, but most of the proof of their deaths are from the thousands of blood qi pills.
+
+When I hand these storage rings in that don’t even fit in my normal steward’s pouch, the late stage qi refiner’s eyes widen slightly, but he collects them without question.
+
+“Five points for the mid stages and one point for the initial stage demons. That’s 177 points added to your ledger. Just show your steward’s token at the trade-in stall, it’s all accounted for. Next!”
+
+I nod and continue walking past him.
+
+A warm pressure envelops me, and I feel like I’m walking through a heavy blanket.
+
+Other stewards in front of me react the same way, but a moment later the empty desolate stone valley in front of us reveals its true nature.
+
+The dirt path in front of us splits off into many directions, and the sight of thatched huts, large tents, market stalls, and hundreds of cultivators meets my eyes.
+
+“This way! Once you make it through the concealment array, follow me, I’ll be bringing you to our squad station!” Bao Zhan yells over the noise of the bustling scene.
+
+As we walk through the chaos, I realize that most of these stalls are really just the camps of squads that have been here for a few days. Many have just begun openly trading with other cultivators that are walking through.
+
+At the major turn points of every dirt road, there is a larger more permanent storefront with the Azure Cloud Sect’s logo on its side. A late stage qi refiner hands out provisions provided by the sect in exchange for points at every stall.
+
+We make it to our small area, it’s clear a squad just left it, but I make do and claim a small thatched hut for myself. The residual energy from two high grade spiritual veins deep within the two mountains on either side of this valley flows into the market, keeping the qi in the air quite dense despite so many cultivators feeding on it.
+
+“Make yourselves comfortable. We’re going to be stationed here for at least a few days. So, stock up on whatever you need. I’ll be meeting up with the other squad captains to trade information in the restricted areas of the market, so Yun Renshu is in charge until I return.”
+
+Everyone heads off into the market on their own.
+
+I stroll by a few of the sect run provision stations and check to make sure all their prices are the same before making a mental tally of everything.
+
+[5 Spirit Stones] [1 point][1 Low Quality Qi Gathering Pill] [1 point][1 Low Quality Healing Elixir] [2 points][1 Stack Low Quality Talismans] [5 points][1 Low Quality Weapon] [10 points][1 Stack Mid Quality Talismans] [15 points][1 Mid Quality Weapon] [25 points][1 Low Quality Qi Nourishing Pill] [50 points][1 Stack High Quality Talismans] [75 points][1 Low Quality Marrow Cleansing Pill] [85 points][1 High Quality Weapon] [100 points][1 Low Quality Barrier Breaking Pill] [150 points]
+
+When I listen in on many of the sales, the majority of cultivators are actually trading in points for raw spirit stones.
+
+Then, these stones are brought to the black markets out in the open all around. Considering I have almost a quarter million spirit stones in my storage, trading in these points for stones would be useless.
+
+Pretty much every single item in the sect's stalls is sold in this black market too.
+
+I stock up on a few dozen vials of low quality healing elixirs, but don’t bother buying qi gathering pills. Even in their heavenly grade state, they do not stimulate me anymore.
+
+There are a few rare sellers that offer Qi nourishing pills for over 400 spirit stones a piece, way over the usual market price. Though they’re extremely rare, I only find 7 pills total after a few circles of the market.
+
+More commonly, I find white Jiao fruits and a few smaller lower quality plums and red apple shaped fruits for 50 to 200 spirit stones a piece.
+
+Buying a hefty sample of each runs me over five thousand spirit stones. I keep my head down and never buy too much from any one seller, spacing out my purchases an hour or so between each one. The prices don’t matter to me, being noticed for my unnatural wealth is my main concern.
+
+After the larger items, I purchase various stacks of cheap low and mid grade talismans too, not bothering to haggle much. They range from the stone bullet talismans I already like using, to low grade water bullets, a few mid grade pine needle barrage talismans, along with restocks of defensive talismans and ember papers.
+
+I stock up on a few dozen more low quality black iron arrows, as well as a bundle of sleek light silver mid quality steel arrows with white feathers, but no stalls have had a sturdy enough bow for me to change to.
+
+So, I stop in front of a sect-run store and show my steward’s token.
+
+“Do you have any mid grade bows available?”
+
+“Of course we do, one moment.” an elderly 7th stage qi refiner missing an arm replies, searching through a pile of storage rings on his counter one by one.
+
+He pulls one out made of sleek white bone. I grab it and pull back the string just slightly to feel the resistance without releasing my full aura.
+
+“This will do, and give me a healing elixir and a barrier breaking pill as well. Clear out my points.”
+
+The old man's eyes widen. “Barrier Breaking pills are commonly used by 6th level qi refiners to break into the 7th stage you know… a 2nd level qi refiner like yourself wouldn’t have any use-”
+
+“They’re my points, does it matter how I spend them?” I reply, cutting him off.
+
+While walking around the black market, I did not see a single seller with one of these pills. Even thinking back to the Red Pine market, I do not recall seeing this pill in any shop.
+
+“No, of course not. Anyone with enough points can trade them in for any provisions on this list.”
+
+He quickly starts sorting through his storage rings.
+
+“Could I purchase more points, handing in spirit stones at the market rate?”
+
+He shakes his head while pulling out a ring. “No, that is why we allow the black market to operate as it does. The Sect has forbidden the direct purchase of points, as our quality guaranteed supplies can only be bought with war merit. The Barrier Breaking pill is a rare limited item, meant as an incentive for squad captains to hand in more late stage demons, but there is not a rule that states stewards can’t purchase it with enough points.”
+
+He hands me an inferior quality spatial pouch with the three items inside.
+
+“What if I get a few of my squad mates to pool their points together? Can I transfer their points to my token if they’re willing?”
+
+He shakes his head again. “That will not be possible either. The sect-run stalls will only trade with the points you’ve collected yourself.”
+
+“Understood, thank you, Senior.” I walk away from the stall, satisfied with my haul, but still on the hunt for what I really need.
+
+Instead of the mid stage sellers, or even well off 3rd level stewards, I make my way toward the outer edge of this camp where many lower level stewards stay. They appear to have been staying here for weeks, without a squad captain to guide them.
+
+There are some 1st and 2nd level qi refiners here, but I don’t turn heads, as this is the exact level of aura I put out too.
+
+Yet, my spiritual senses still scan everyone to find any clues.
+
+I murmur, “I’ll trade spirit stones for Martial Root Pills” while moving by every stall.
+
+Many sell inferior grade weapons, inferior quality talismans, and a few even some spirit wine and cigarettes.
+
+Though, it takes me passing by almost every stall another hour later before I finally get a response.
+
+“Really, kid? You want Martial Root Pills? I’ll sell you this whole lot for a single spirit stone.” an 89 year old 1st level qi refiner with rotted teeth replies with a laugh.
+
+I turn my head as he pulls out a steward’s storage pouch and tosses it to me.
+
+Breaking the imprint takes less than a second, and the mental image of over 300 dark brown inferior quality Martial Root pills fills my mind. I transfer the pills into my system storage and place a spirit stone into the pouch before tossing it back.
+
+“Throw in a smoke for free, and we have a deal.”
+
+He looks inside, then nods with a wide grin of disbelief, and I grab a single rolled cigarette off his small stand, then start walking away. While lighting it up with an ember paper, the old man laughs with joy and runs off toward a stand nearby selling inferior spirit wines.
+
+I take a deep breath in and blow out a victorious cloud of smoke while looking up at the stars.
+
+The cold head rush makes the image of that beautiful icy woman’s face creep back into my mind. I begin to wonder if she’s fighting in this war too.

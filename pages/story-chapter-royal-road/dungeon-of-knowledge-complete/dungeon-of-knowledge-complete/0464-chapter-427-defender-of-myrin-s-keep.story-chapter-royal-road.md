@@ -1,0 +1,141 @@
+---
+id: 6b3bb457-385e-54c8-bd27-9219f6d485f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 427: Defender of Myrin’s Keep"
+slug: 0464-chapter-427-defender-of-myrin-s-keep
+partOf: dungeon-of-knowledge-complete
+position: 464
+ownLength: 2739
+unit: words
+ownProgress: 2739
+publishedAt: 2025-11-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2722877/chapter-427-defender-of-myrins-keep"
+royalRoadId: "2722877"
+markedReadAt: "2026-06-29T20:27:54.260Z"
+---
+
+Ali’s wings hummed softly as she followed her friends across the once green and flourishing fields and farmland that had stretched out to the south of Myrin’s Keep. Now, however, it was an endless expanse of destruction and churned to mud with large scars and scorch marks to mark evidence of a battle on a much grander scale than the Goblin horde they had once fought on this very field. Everywhere she turned, she found broken bodies, shattered branches, or mounds of fungal remnants, sometimes even piled up in macabre drifts and clumps.
+
+The further she flew from the lower entrance to her Forest Cavern along the remains of the ancient riverbed, now a bubbling stream of murky sludge, the more the full extent of the destruction of Myrin’s Keep became apparent. From the vantage point halfway across the fields, it was clear that the once-proud battlements had been shattered, reduced to rubble in several places and mostly covered in dripping fungal growths or sprouting twisted creepers that seemed to be trying to consume the thick granite remnants. A dense green mana hung about the ruined city, infected with ugly pulsing black – a powerful necrotic festering cloud that hung over everything like a rotting miasma. Like a corruption upon the very land itself, the fungal creep had begun spilling out over the ruins and was encroaching upon the Myrin River and the surrounding fields – a plague inexorably consuming everything in its path.
+
+Nature, she knew from her discussions with Mato and Lira, required balance, and death and decay were simply a part of the cycle of life. This, however, was a glorification of pestilence and rot in the same way as a zombie was an abominable perversion of natural death. Lira would have been horrified to see it, let alone be forced to create it. It was perhaps a blessing that she was no longer alive to understand the horror she was being made to wreak upon the world.
+
+Ali checked on her minions, spreading them out in a defensive formation around them as they crossed the fields heading for the tree line in the distance, but before they even reached their goal, Ali saw the adventurers and guards locked in combat with giant treants, the strange Braconid branch spiders, and all manner of twisted sylvan humanoid monsters dressed in leaves and bark, but wielding deadly weapons that trailed poison and spores.
+
+“Go help them!” she commanded, and her minions charged off to join the fray, followed closely by her three friends and the entire group of newly evolved adventurers eager to test out their new skills and abilities. Ali brought up the rear, encased in her golden glowing barrier. The battle – a skirmish, really – was brutal and short. The double raid group tore through the much lower-level monsters with ferocity and power, but this seemed to be only one isolated clash in a much larger war. Ali could see the battlefield stretching all along the tree line, along with more and more monsters spilling from the ruins of the city.
+
+“I’m glad you could make it.”
+
+At the sound of the voice, Ali glanced down, seeing Vivian sheathing her flame-wreathed swords as she offered a tight-lipped smile. Quickly, Ali floated down and joined her. Vivian may be happy, but it was nothing to the joy and relief Ali experienced just being here, saved from the Abyssal Realm by her friends and the adventurers who had risked themselves in her rescue. Even the dire straits the town was in paled in comparison to the scale of the war between Azryet and Destraggoth over the Graveyard of the Gods. “I recovered the shrine.”
+
+“I could tell,” Vivian answered, and for a brief moment her guard dropped and Ali caught a glimpse of profound relief on the Guildmaster’s face. “Thank you for unlocking their evolutions. I was beginning to worry.” Vivian hesitated for a bit. “How long till you can do the rest, do you think?”
+
+“It’s drained right now, but I can do six at a time, and it should be ready again in a couple of hours,” Ali said. “More if I can capture more of this dungeon.”
+
+“Capture?” Vivian asked. “Never mind, tell me later. I’ll make sure the most urgent classes are ready to go.”
+
+“What is going on here?” Ali asked, indicating the battlefield. “Something triggered a dungeon break?”
+
+“This dungeon does this constantly,” Vivian said with a grimace. “We have not had a moment’s respite; the guild and the guard have been fighting it in shifts since Myrin’s Keep was evacuated.”
+
+“Oh.” Ali was honestly shocked by the scope of the battle. Two full raid groups were engaged, spread out across the forest, and perhaps a hundred guards with various combat classes hunkered down among the trees or engaged in skirmishes with strange plant aberrations as far as she could see. She turned to Mato, Malika, and Calen, just finishing up from the quick scrap. “Can I get some help? I need to do something about this.”
+
+Ali ignored Vivian’s raised eyebrow and led her friends back to the entrance to the Forest Cavern below the sewer outlet, bringing her minions along for additional protection. Her plan was quite straightforward; she could see where the dungeon’s domain was beginning to encroach on the fields, and she would need something big to bring her new domain skill into play.
+
+Good thing I can do big.
+
+She opened her Grimoire and channeled her mana, creating the largest Ciradyl tree she could manage. This close to the cliffside, she was standing in the outer reaches of her domain that spilled out from the forest cavern she had just reclaimed. It took minutes of focus and concentration while her friends fended off several frenzied plant monsters, but suddenly the majestic Ciradyl tree snapped into existence, rooted in the shadow of the city battlements, but soaring into the sky, dwarfing everything in sight. It stood so tall that its very existence confused the eyes, warping depth perception and the intuition of size, as if the mind rejected the reality of what it saw as fundamentally impossible.
+
+“That’s a big tree,” Mato said, gazing up at it in amazement.
+
+“Look, it’s Mister Obvious here,” Calen teased.
+
+In the jungle area, Ali hadn’t been able to create the full-sized tree, and even its reduced size hadn’t been fully apparent, with many of its higher branches obscured by the dark and the second layer of the ruined city. But out here, its full glory could likely be seen for many kilometers in every direction.
+
+“Ok, next one,” she said. As the giant tree drew in her mana, rapidly emitting her domain in all directions, she flew onward, and by the time she had planted seven of them spread out across the entire battlefield, she could tell she had the eyes of every single Wood Elf as they lined the edge of the forest, staring at her. Elves who had lost their homes and their trees in the dreadful battle of Ciradyl.
+
+Her domain spread rapidly, borne on the backs of these giant trees, bringing to her the now-familiar pain of the dungeon rage clashing all along the border of the ruined town battlements. But she let it sit for now, allowing her minions free rein to attack the monsters that swarmed out continuously from the shattered remains of Myrin’s Keep. The dungeon rage was nothing compared to what Azryet had endured for millennia, nor the agony of her training under his watchful eye. She could endure this for a while. Scanning her domain with a critical eye, she augmented it by creating a few Lirasian Oaks among the huge trunks of the soul magic trees and then headed back toward the forest and all the staring elf eyes.
+
+“That’s stupid. Why did you make cover for the monsters?”
+
+“Mind your own business,” Mato snapped.
+
+The familiar voice of Jax Hawkhurst grated on Ali’s ears, but she ignored him, searching among the curious or surprised faces until she found the person she was looking for.
+
+“Commander Brand,” she said. “Where would you like your battlements?”
+
+“Battlements?” he asked, his carefully controlled face betraying some cracks of surprise.
+
+“This,” Ali said, deciding a demonstration would be fastest. She waved her hand, causing a forty-meter-long wall of glittering golden magic to suddenly appear between them and the battlefield.
+
+“Aah,” he said, “Those battlements. How much of that can you make?” To his credit, he showed none of the surprise that registered on the faces of the other onlookers as they both studiously ignored the sudden commotion of exclamations and chatter.
+
+“Now that I have the trees, I can make as much as you need.”
+
+“Excellent.” He produced a simple notebook and a pencil, and began rapidly sketching, crouching down to give her a clear view of his work. “This is the extent of the refugee town. This is the forest, and this is the battlefield,” he said, gesturing with the pencil along his drawing. “If you can block off the border here, and all the way to the south road. Perhaps leave a passage here and here for the garrison to pass in and out. Then close off this section near the Myrin River, I think we should have a much more secure perimeter.” He glanced at her, pausing his sketch. “Is this… too much?”
+
+“No, I can do this,” she answered. Commander Brand was no artist or cartographer like Calen, that was for certain, but his simple diagram was easy to understand, and in seconds, she created the almost one-kilometer-long battlement he was hoping for, easily supported by the enormous domain that her Ciradyl trees projected. With small flourishes, she topped the battlements with walkways and floating stairs so that the archers and mages would have places to stand and shoot. She made sure to include narrow passages for the fighters to enter and leave, and by the time she was done, she had the full attention of the entire town, many of them cheering at the sight of the walls. Particularly the rather tired and battered-looking people in their tattered guard uniforms.
+
+“That will improve our chances,” Commander Brand said, but she could tell his understated comment was intended as high praise.
+
+“Ok, one more detail before we’re done,” Ali said. “What kind of bosses do you want?”
+
+“Bosses?” he said, a momentary struggle of confusion flickering across his impassive face. She had clearly caught him unprepared yet again.
+
+“The domain is big enough to support maybe two or three raid bosses out there, depending on level,” she said. “I can do big burly berserker trolls like him,” she pointed at Tol’brekk, towering over everyone nearby. “Or maybe an ice mage? I have void or frost dragons with ranged breath attacks and a couple of different kinds of demons. What do you think would be best, strategically?”
+
+He stared dumbfounded at her, his mouth working without sound coming out – clearly unprepared to be designing dungeon bosses. Fortunately for him, Calen immediately suggested a few possible options, followed by several deviously inventive ideas from none other than Lyeneru, and in short order, Ali created three bosses to defend the encampment.
+
+Brand had been particularly excited about the idea of the Wielder of the Sacred Flame as soon as she mentioned her kobold mage’s holy fire would heal allies while damaging enemies. So, her first boss was a kobold placed on the new glittering transparent battlements right next to the entrance, where it could hit the defending guards with holy splash damage. Her second boss was a troll ice mage, Calen’s idea, designed to lock down the area with frost nova and an ice aura. She placed it in easy reach of the South Gate and road, where a steady stream of monsters appeared. But it was Lyeneru’s suggestion of the void dragon that captured the imagination of the survivors – an effect she was beginning to suspect Lyeneru had intended – a Scion of Azryet grown even more immense by the power of her domain, circling above the battlefield, serving as a beacon of hope to all who saw its might and power.
+
+“Scion of… Azryet?” Commander Brand asked as he and everyone else stared up at the stupendously large black dragon.
+
+“Azryet good. Havok bless,” Havok declared in a loud voice, and proceeded to invoke Azryet’s blessing on the raid boss.
+
+“He’s going to get so many new converts with that show,” Malika whispered.
+
+“Azryet will love that,” Ali answered.
+
+“Vivian.”
+
+Vivian dragged her eyes from the battlefield and the sight of the tiny Fae darting around with her glowing Grimoire, summoning all manner of monsters – including demons – to shore up the ranks of defenders, to find the source of the voice, Commander Gerald Brand, standing nearby with Lyeneru Silverleaf beside him.
+
+“Commander Brand?” Vivian said, her eyes flickering toward Lyeneru for a moment. She nodded respectfully toward the Night Elf, who returned her greeting by inclining her head briefly toward her and Mieriel and then returned her attention to the Garrison Commander.
+
+“You didn’t tell us she was this powerful,” he said, walking up to join her at the ridiculous golden barrier that had been erected in seconds – a wall more robust than the reinforced stone battlements that lay in ruins in the town on the other side. It sounded like an accusation, but there was no heat in his voice.
+
+“I knew she was powerful,” Vivian said, turning her gaze back to the field, clearly visible through the barrier. Every guard and adventurer besides the three that were escorting Aliandra were back in camp, finally taking a much-needed break. And the tiny Fae was holding off the might of the dungeon break by herself, using three raid bosses, one of which was at the limits of her ability to Identify. “But I had no idea she was this strong.”
+
+“It’s a good thing she’s on our side, then, isn’t it?” Brand said wryly.
+
+“You don’t even know the half of it,” Vivian said. “Aiden told me how she tore the very domain out from under the Blooming Rot dungeon, ensuring that the bosses could not respawn. She left a Pit Lord down in the mines to deal with the dungeon break she provoked when she shredded the domain.”
+
+“She has changed,” Lyeneru said, her eyes tracking the golden globe flitting about on the fields.
+
+“How so?” Vivian could tell Aliandra had been somehow changed by her experience in the Abyssal Realm, but she still wasn’t quite certain what exactly she was sensing.
+
+“She’s harder, more focused,” Lyeneru said. “When I first met her, she was soft, kind, and wanted everyone around to be her friends. I raised my bow at her, and she made flowers and invited me for tea. I do not know if it was the Abyssal Realm or if it was watching Lirasia murdered and raised by Nevyn Eld, but that soft girl is gone now.”
+
+“She is grieving, and she is angry,” Mieriel said quietly from beside her. “I think she needs our support.”
+
+“That seems accurate,” Lyeneru said, her mouth pressing into a firm line.
+
+I should talk with her soon, she thought. Mieriel was never wrong when it came to stuff like this, and she had learned to always take her opinions seriously. Certainly, what Aliandra had been through just recently might take a while for her to process, and just being available to support her would probably be the best thing she could offer. Maybe it’s better to have Mieriel talk to her friends. She’s very close to them.
+
+Vivian said, “While the two of you are here, I’m collecting the names of everyone who has reached level one hundred and needs the shrine. If either of you has anyone, Aliandra is going to take a group down in a few hours.”
+
+“None of my guards yet, unfortunately,” Commander Brand answered. “But I will soon.”
+
+“I have a few elves that are not your adventurers that need the shrine,” Lyeneru said. “I will get them for you.”
+
+“Good,” Vivian said. “I’ll organize a raid group to support the run.” It would be so much easier to free up a raid group now that Aliandra was handling the bulk of the dungeon break.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

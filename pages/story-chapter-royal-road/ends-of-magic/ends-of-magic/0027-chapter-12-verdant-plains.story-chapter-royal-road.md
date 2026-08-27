@@ -1,0 +1,221 @@
+---
+id: a3c16ebb-7cb9-5646-944b-412c08aeced5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Verdant Plains"
+slug: 0027-chapter-12-verdant-plains
+partOf: ends-of-magic
+position: 27
+ownLength: 2858
+unit: words
+ownProgress: 2858
+publishedAt: 2025-08-14
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2517516/chapter-12-verdant-plains"
+royalRoadId: "2517516"
+markedReadAt: "2026-06-29T20:08:08.299Z"
+---
+
+Stella frowned down at the still-glowing mountainside where her first nuclear spell had detonated. “I have need for a lot of enriched hydrogen. I won’t be able to reuse it like I do for the lasers.”
+
+“You don’t need much,” Nathan replied. “That was, what, a twentieth as much gas as you use for one of the lasers.”
+
+Her reply was thoughtful. “Less. But harder to make.”
+
+“Hear me, that’s blasphemously good news,” Aarl said wryly. “If that spell were easy, it’d be a real ghoul uncle.” He gestured towards the crater and looked towards his sister. “Maybe we should go home, leave the grand deeds to this magic.”
+
+Sarah rolled her eyes at her brother, not deigning to give him a response. “My bones say we should move. There shouldn’t be anybody near, but if there is they’ll think that was an awakening dungeon.”
+
+Stella seemed poised to object, but couldn’t come up with an argument for why they should stay, beyond her desire to bask in the glory of her new magic. So they left, flying low through the rugged mountains towards their destination.
+
+Nathan steered his run to be a little closer to Stella. “Did you get a new mana type?”
+
+She shook her head, eyes on the terrain ahead. “No. I got some developments, including for [Conduit of Mana] - my unique version of the [Mana Shaping] Talent. I’m not sure this spell is enough for a new mana type. I don't know that the Insight is deep enough.” She could have made that sound mean, but it was thoughtful instead.
+
+“We’ll keep talking about it.” Nathan tried to sound reassuring, but he was starting to suspect that his earlier guess had been correct. Stella wouldn’t get magic that could directly trigger fusion, not the same way she had with electricity and light.
+
+I’m not sure it’s a catastrophe that she won’t get easy access to that kind of power. These spells are never going to be her bread-and-butter.
+
+They continued travelling through the seemingly empty mountains, only spotting the occasional monster or herd of wildlife. Eventually, they made camp, and Stella once more dragged Nathan into a discussion of the different ways to use her newly acquired magic.
+
+After a few hours of that, she summarized their conclusions. “I foresee two paths, both valid and true. In the first, I use a fusion spell much like my father, sending forth a spear of plasma fit to pierce any defense. In the second, I hurl the spell and allow it to detonate without shielding.” She nodded and leaned back.
+
+Nathan knew it was a lost argument at this point, but he couldn’t help himself from reiterating his points one more time. “I agree on the first. I think the second is too much. It’s so much destruction and completely unshielded. You’ll be damning anybody nearby to a slow death, and poisoning the land for generations. This spell isn’t just a fireball. It’s an insidious poison. Every innocent who sees it will die afterward.”
+
+Even if the yield is lower than most earth nukes, it’s a strategic weapon, not a tactical one.
+
+“To raise the past, there are times that a blasphemous explosion is a necessary solution. Dungeons and grave tangles require excessive force.”
+
+Nodding, Nathan sighed. He wasn’t going to win this argument, and it was out of his hands at this point anyway. “Okay. You’re going to work on refining the spellwork down to something you can cast quickly, yeah? Make sure you can also hurl the straight explosion spell a long way. I mean far. Like miles.”
+
+Stella bit her lip as she considered that problem. “There are Insights of wind magic that can help…” she trailed off as she started considering the problem, already spinning up variations of the nuclear spell, though without the fuel that would make them dangerous.
+
+Nathan went to sit near Khachi, taking over the watch. “I’m worried.”
+
+The wolfman gave a low chuckle. “Our eyes follow the same light. But hold faith in your heart. Stella has long had power, and she has never perpetrated evil with it.”
+
+“Only recklessness,” Nathan retorted, but there wasn’t any heat in it. He twisted to watch Stella engrossed in her magic. “I think I’m more just worried that we’ll need it. I don’t want to be forced to choose between our mission and a city of innocents.”
+
+Khachi’s expression firmed. “That is no choice. You told me that everything matters. If we cannot win without destroying a city, we should not win.” His tone was unshaken, certainty laced through every word.
+
+“We destroyed Giantsrest,” Nathan countered.
+
+“You toppled the Ascendent Academy,” Khachi replied patiently. “We saved the city from its overlords, set its population free of their shackles, then aided them to stand on their feet.” He got to his own feet, brushing some dust off his armor as he did. “Even should I walk a divine path across the surface of Davrar, I will never hold a deed so dear as our accomplishments in Giantsrest.”
+
+Nathan didn’t have a response to that, so all he could do was smile up at Khachi as the wolfman retired to his own bedrolls. His blessings meant that he didn’t sleep anymore, but he did meditate while glowing slightly. It was a somewhat disconcerting nightlight. But they didn’t have the light of the world above in the cave, and Nathan appreciated that they weren’t plunged into complete darkness after Stella extinguished her light spells.
+
+Over the next day of travel, the mountains got smaller until they were more appropriately called foothills. The terrain was still speckled with the remnants of wrecked dungeons, but wildlife was more frequent than it had been in the deep mountains. They hunted to extend their food supplies and learned the tricks of the local monsters. There were some dangerous creatures here, but nothing that could pose a threat to the Heirs so long as they weren’t caught unawares. Flying solved most of the problems, and they had a range of offensive and defensive options for anything else.
+
+Before long, they started to see the first signs of civilization. A crew of workers were digging a long trench across flat ground. The Heirs took cover behind a hill while Nathan and Sarah crawled to the crest to see what was going on.
+
+After a moment Nathan identified it as a road foundation. “They’re putting in effort to make a road that'll last for a long time.” He pointed into the distance, where a second crew was following behind and filling in the bottom of the pit with rocks off of something that looked a lot like a truck.
+
+“What is that?” Sarah asked, squinting at the conveyance.
+
+Nathan shrugged. “Probably an enchanted transport vehicle of some kind. Interesting, they’re using magic to transport the stone, but not to do any of the work laying the road. I wonder if that truck has a dimensional enchantment on it.”
+
+“A road-building team. What a prophecy of death,” Stella’s voice was deadpan, and her tapping foot gave away her impatience at their delay.
+
+Nathan turned and crawled back down the hill. “Knowing your enemy. We heard what they were like from Sarya, but it’s good to confirm now that we’re here.”
+
+“Knowing how they build roads will help with that?” Stella’s question held some genuine curiosity.
+
+“They’re putting a lot of effort into building proper foundations for it, which means they want it to last for a long time. At least until the next Ending, and maybe beyond. The building is happening in stages, with specialized supplies coming in for each. That means it isn’t haphazard or a local effort, but part of a long-term, competent, and serious development plan. Also, one most likely enacted over a large area. They’re probably planning to colonize the mountains we just saw that are now cleared of dungeons. Finally, they’re using normal workers for the building, but there’s an enchanted transport carrying the stones. They’ve got good logistics, but either labor is cheap enough or magic is expensive enough that they’re not using golems or something for the actual construction.” He raised his eyebrows at Stella, as if to ask if she was satisfied with his response.
+
+She nodded reluctantly. “Asking you questions like that is like asking a mage to light a fire. Can we go?”
+
+There wasn’t much reason to stick around, so they left, traveling wide to avoid the path of the road. The ground smoothed out until they reached low hills and rolling plains, crisscrossed by streams flowing out of the mountains. Farming villages became common, usually a collection of houses clustered behind a crude palisade wall. They looked like they hadn’t existed for more than a single generation.
+
+The Heirs flew lower to the ground and stuck to what cover existed, especially the trees and the streams. That got more and more challenging as they proceeded deeper into the continent. The villages became towns, and hardscrabble farms started being replaced by fortified estates rich with enchantments. The Heirs stopped moving during the day and travelled only at night, camping during the day in underground burrows carved out by Stella’s earth magic.
+
+The farmland was rich, and the terrain got denser and denser with active agriculture until the Heirs were having difficulty finding unpopulated areas to camp where they wouldn’t be discovered. After some analysis, Nathan realized that the richest and most magical estates were quite lacking in people. Enchanted constructs tended the fields, and nobody lived in the cropland. With that understanding, he steered the Heirs into the richest and most magical estates.
+
+They were universally warded and shielded from trespassing, but Nathan didn't find that magic to be any significant barrier. He adapted himself to the types of wards, getting used to squirming through the logical and rigorous frameworks that Esebus seemed to favor.
+
+On some of the largest estates, there were no people for miles in any direction. The Heirs snagged fresh food from the agricultural assembly line that surrounded them, then camped out in the fields for the day, enjoying the feel of the sun on their faces.
+
+“What do you think Esebus is like?” Aarl asked, leaning back and looking up. He gestured around at the surrounding fields, which hummed with the unending grind of enchanted constructs harvesting crops and sowing new ones.
+
+Nathan’s mouth twisted up. “Rich, but unequal. They’ve got enough wealth for estates like this, where unthinking machines produce a bounty of food. But just a few days away are farms where people don’t even have draft animals, much less basic enchanted tools. They use the debt-ridden instead of constructs to clear dungeons and do bulk labor.” He paused and thought, nodding to himself as if he’d solved a puzzle. “They care more about capital - material wealth - than they do about people. A lot more.”
+
+“Does that make them evil?” Aarl asked, leaning back and looking at the clouds above. The sly smile on his face said that he was baiting Nathan intentionally and not being subtle about it. “Are we only fighting them because of who their leaders are, or is the society itself a dungeon to be cleared?”
+
+That wasn’t a hook Nathan could resist, so he gave Aarl what he wanted. “We’re here because they’re ruled by the Questors we need to kill, and I’m not inclined to look favorably on a society built by an ally of Badud. But that alone doesn’t make them evil.”
+
+He lay down next to Aarl on the soft grass, picking up a loose stone and tossing it up and down absently as he spoke. “But I don’t think we’d have to dig very deep here to find some atrocities of oppression. Societies like this are divided into the haves and the have-nots, and the haves usually keep their position with violence, or at least the threat of it. We’ve seen hints already, in the way the soldiers watched the indentures clearing the dungeons. In the defenses on these estates.”
+
+Nathan palmed the stone, feeling at the nicks and chips where it had been cracked by the blades of a harvester. “Maybe they’ve found a way to make a society with this much inequality without violence of one form or another. Maybe it’s all built on striving, where the poor can honestly become rich through effort and will. But I doubt it. I think they’re all held in place by fear of what will happen if they stand out.”
+
+He sat up and cocked his arm back, looking for a target. “I think that if we take out the very top of the system, then it’s going to tear itself apart. If we show that the people at the top aren’t as strong as they pretend, and that the system can be beaten, then everybody who dreams of a better tomorrow for themselves and their children will stop accepting it as it is. Especially if we blast a big enough hole in their military elite along the way.” Nathan gave up looking for a good target and just hurled the rock as hard as he could, sending it hurtling off into the distance. “It’s usually not the slums that set the riot off, it’s the rank-and-file military who see a chance for something better.”
+
+Aarl watched the rock vanish into the distance, speaking softly. “Is your path so clear?”
+
+Nathan sighed, then flopped back down with a shrug. “No. I want them to be evil because it justifies my actions. Everything I’ve seen so far here suggests that this place is overdue for some change, but I don't have any proof. Just suppositions. Unlike Giantsrest, we won’t be sticking around after we kick over the castle. But thanks to their efforts to clear the continent, they won’t be at imminent risk of death by monster, and we’ve got other fish to fry.”
+
+“I wish we had fish to fry,” Aarl retorted with an amused tone. “The fresh produce is nice, but preserved rations are a tiring meal.”
+
+Nathan let the topic drop. It was time to stop thinking heavy thoughts about their plans to attack Esebus. He’d been worried that they’d be sacrificing their morality to accomplish the conclave and have a shot at changing Davrar for the better.
+
+I’m not sure what I’ll do if that’s necessary. I don’t want to make a bunch of sacrifices to try and improve Davrar, then fail at the end and have it all be for nothing. I’d much rather that every individual step be worth doing on its own.
+
+But with every mile they traveled closer to Esebus, he became increasingly convinced that Esebus wasn’t very different from Giantsrest, that it just had a different veneer. It was founded by the same people according to a similar ideology and deserved to be likewise thrown down and replaced with something new.
+
+The Heirs traveled onwards that night, skirting around a settlement that toed the line between a town and a city and had security patrols and protective magic to match. Then they detoured again to avoid paralleling a major road that buzzed with enchanted conveyances carrying people and goods towards the city of Esebus. The density of human habitation decreased after that, with fewer and fewer settlements dotting the windswept plains until they cut off at a sudden line.
+
+It was reminiscent of the eerily deserted mountains, except even the monsters were gone. There were just barren moors as far as the eye could see, without any sign of human habitation. It was hard to believe they were approaching the undisputed capital of the continent. The presence of patrols of soldiers flying high above the plains reassured them they were on the right path. The patrols' eyes and magical sensors played across the terrain to find anybody trying to approach the city along an unsecured path.
+
+Nathan’s antimagic was more than up for the task of keeping them hidden, and they continued to travel carefully and at night to avoid being spotted with more mundane senses. They were pretty sure the soldiers had night vision enchantments, but the simple truth of it was that they didn’t patrol at night.
+
+Finally, after a couple of weeks of travel, the Heirs sighted the city of Esebus on the horizon.
+
+Permanent Talent 1: Arcane Nullfield 8
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 834
+
+Bottomless Stamina : 84192/84400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 572
+
+Regenerative Focus: 5740/5740
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 5
+
+Forewarning 4
+
+Arcane Insight 6
+
+Evasion 2
+
+Mental Vault 5
+
+Veracity 2
+
+Parkour 10
+
+Visibility Control 6
+
+High-tier Disguise 7
+
+High-tier Battle Cry 3
+
+Aura Control 5

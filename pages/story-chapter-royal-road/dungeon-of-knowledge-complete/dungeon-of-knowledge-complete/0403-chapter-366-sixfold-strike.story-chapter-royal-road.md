@@ -1,0 +1,105 @@
+---
+id: c59b21d8-85d7-5245-a9b9-f82f43dba65c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 366: Sixfold Strike"
+slug: 0403-chapter-366-sixfold-strike
+partOf: dungeon-of-knowledge-complete
+position: 403
+ownLength: 2206
+unit: words
+ownProgress: 2206
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2571053/chapter-366-sixfold-strike"
+royalRoadId: "2571053"
+markedReadAt: "2026-06-29T20:25:39.691Z"
+---
+
+Chilling pressure caused a ripple of prickling goosebumps to pass over her skin as Malika dove through the veil, chasing the assassin back into the mortal realm like a trainee leaping through the waterfall at Rezan’s favorite meditation spot high in the icy mountains above Kezda.
+
+The world about her seemed sedate and still from within the calmness of her Clarity, all her excess stamina overspent to push her Divine Step well past the normal realm of mere haste. She was growing accustomed to the strangely heavy sensation of momentum in her limbs as she pushed herself to move faster and faster, but her mind and reflexes were faster still. Muscles rippled under the leathery, midnight-black painted skin of the undead assassin as it reacted to her sudden appearance less than two feet away from where it reemerged in the real Temple of Blood.
+
+Instantaneous Strike. The visualization sprang easily to her mind. Four attacks held in perfect detail by the grip of diamond-hard intent, each muscle primed, each target clear, every path understood completely. Just as Rezan had instructed. More… She had not yet achieved the full potential of this skill, but relentless practice and the sense of ease with which she summoned it made her bolder. A small smile curled her lips upward as she recalled her mentor’s uniquely direct training technique, the bruises and cracked ribs of the experience he had dispensed to her. Training in combat was his way – he would approve.
+
+She added a fifth attack.
+
+Before the Painted Assassin could roll to the side, she unleashed Instantaneous Strike. Her body blurred, even to her own hasted perception, and her right arm split into five separate images, accelerating from the power of her punch along five entirely different trajectories. The weight and pressure of all the simultaneous strikes slammed through the muscles in her arm, a wave of pain that tore her triceps and deltoids. Soul Strike ignited her fist with the intense glow of overpowered soul mana as her strikes reached their mark.
+
+The undead assassin twisted his white-painted body in a desperate response to her attack, fast enough to avoid two of her strikes, but the other three landed simultaneously, blasting through his unnaturally ebon flesh with lancing bolts of soul magic that punched clean through his solar plexus, left hip, and right shoulder, shattering rubble on the ground behind him, such was the force conducted through his flesh and bone.
+
+She healed her arm, instantly bringing herself up to full health and triggering an expanding ripple of blue-white around her. Using the five simultaneous strikes gave her a fifteen-second recharge, but it was worth it – she was using the skill as often as it became available. Against a hasted opponent with extreme dexterity and dodging abilities, Instantaneous Strike was the attack most certain to land – at least, it tipped the percentages firmly in her favor.
+
+Mato’s roar impinged distantly on her ears, and he lumbered forward as if swimming through molasses. The assassin spun, the deadly, white, polished dagger blurring toward Malika as he ignored the slower bear.
+
+Bad move, Malika chided. From behind the assassin, a brilliant surge of stamina energy erupted. Mato struck in an instant, his paw suddenly moving with uncanny speed as he unleashed his retaliation. Malevolent trails of hungry black void mana ignited along his claws, while within his body, the emerald-green blaze of nature mana empowered his muscles. Those vicious claws ripped through undead flesh, slamming downward into the ground as roots began to sprout.
+
+The ground rippled, turning into treacherous liquid as Ali’s beetle minion supplemented the roots, pinning the boss in place. Malika danced across the top of it like a pond skater tiptoeing across water. Kir’mogan charged in, bone spikes jutting up from the ground in his wake. He grunted as his axe found its mark and the energy of Mortal Wounds flowed from his arms and through his weapon to settle within the assassin.
+
+Malika struck again, teleporting around the boss to block his path, soul magic punching through his body, rocking him back against the roots that were pinning him down.
+
+Blade Flurry! Malika instantly recognized the energy rising within the undead monster as the dagger shimmered, and he unleashed a storm of hasted attacks. As Rezan had instructed, she had not dropped her Infinite Perception even for a moment. His blade blurred, striking everything around him. Malika blocked three slashes and deflected several of the ones intended for Kir’mogan and Mato. Blood flew from the Bone Warrior and Mato’s flanks, but she poured her excess stamina into Healing Mantra, triggering cascading pulses of her area overheal into the surrounding melee group.
+
+Blood Vortex. She recognized his next move – the berserker skill he had somehow stolen by slaying Ali’s gigantic Carnage Berserker. It was not the blades that bothered her; her healing and damage reduction were more than enough to survive, but this skill had repeatedly broken him out of both Mato’s roots and the grasping earth. The instant the assassin broke free, his form blurred in a complex interplay of shadow and soul magic, and he vanished into the spirit realm again.
+
+This was a dance, and unfortunately for him, Malika knew all the steps. She pulsed stamina into her runic tattoo, hounding the boss as she chased the image of his energy into the spirit realm. She arrived in the gray silence and, relying entirely on the sight of his energy, lashed out and punched him in the kidneys before he could finish vanishing into the shadows. Light blazed around them as soon as Calen arrived, his radiance banishing stealth as he unleashed a storm of arrows. Fighting this monster was frustrating, though – she missed almost two-thirds of her strikes simply due to his extreme speed and skill at dodging – but then again, she was dodging many of his attacks, so it was probably fair. Malika grinned at the thought of how frustrating she must seem to him.
+
+Within her, she felt her skills grow just a little more efficient. It was a subtle sense of easing – and one she had grown to recognize instantly. She shifted all her skills, expanding her reservations back to their normal percentages, pushing her buffs to new heights. With the remaining stamina, she flooded Divine Step, feeling fresh weight in her limbs as she darted around the hasted Assassin as if she were a viper and he a snail. All she had to do was hold him here until…
+
+Malika’s ears rang with the deafening crack of Calen’s Power Shot, and a brilliant flash of light slammed into the Assassin’s back, knocking him flying. She teleported, reaching him before his first cartwheel had even landed, keeping up the pressure with the relentless blows of the eighth form. It was too much for the Assassin, and his body blurred as he fled across the veil to the mortal realm.
+
+Again, Malika gave chase, appearing amid the twisting shadows of his shroud. Again, she used Soul Sight to aim, punching until Calen revealed him to the others by breaking stealth with his Motes. It was a deadly game of cat and mouse, and she could tell they were winning. It was just a matter of time, now. They acted out the same play, Mato striking with his retaliation, locking the assassin in place as the subterranean rock beetle added even more control with the fluidly flowing earth beneath their feet and an endless assault of flying boulders. Malika unleashed Instantaneous Strike again, this time five precision kicks: one to the left knee, an elbow, the throat, and two to the head, each attack leaving brief shockwaves rippling through the air in their wake.
+
+Malika grinned as she easily managed to pull off the fifth attack again. He blocked the throat strike as soul mana blasted through him, block and all. Time to add the sixth? Is speed all it takes? But she could tell it was more than just speed – there was a subtle intuition that had infused her, an understanding wrought from relentless practice. She took a deep breath, waited for the instant her recharge expired, and then unleashed her fist along six crystal-clear paths of potential.
+
+Then, Calen’s arrow struck, blasting through the exposed sternum, a target she had made sure to leave open to his line of fire. The arrow detonated with light and flame, and she finished with her strangely decoherent fist impacting heavily, six times simultaneously across the troll’s torso and the side of his face. His head rocked backward as her soul strike blasted out the other side, leaving eddies and ripples of turbulence through the remnants of Calen’s explosive magic.
+
+And the painted undead troll collapsed to the echoing sound of his laughter.
+
+“Creepy fellow,” she said, eyes flickering across the sudden slew of notifications.
+
+Your group has defeated Fetish-Painted Assassin – Undead Troll – level 132.Eyes of the Soul has reached level 107 (+4).+40 attribute points.
+
+Not bad! Malika quickly allocated her points, reserving ten for dexterity and seven each for endurance and wisdom. She split the rest evenly, spending four on each of her remaining attributes.
+
+Martial Artist has reached level 56 (+3)Soul Strike has reached level 57 (+2).Healing Mantra has reached level 69.Perfect Body has reached level 38.Soul Armor has reached level 49 (+2).Enlightened Evasion has reached level 47 (+3).Divine Step has reached level 53.Second Wind has reached level 35 (+2).Clarity has reached level 39.Soul Sight has reached level 36.Calligraphy has reached level 9 (+3).
+
+Even her Calligraphy practice while waiting for Ali to finish making the Gate had been fruitful.
+
+“You can say that again,” Mato said, transforming his body to glare at the downed monster.
+
+Weight and power slowly bled from Malika’s body as the world sped back up to normal. “Good fight, though,” she said, grinning at the bear.
+
+“Hmph,” he grunted.
+
+Mato huffed, glaring down at the motionless body of the Fetish-Painted Assassin for several long moments, his void claws slicing into the ground as he stood there. But the notification chime and the fact that the shadow mana began to dissipate as the dungeon’s domain receded told him that the unmoving undead corpse was really and truly dead.
+
+“Creepy fellow,” Malika said, blazing with the radiance of the sun.
+
+She’s gotten so strong. I have work to do if I want to catch up.
+
+He shifted back to Beastkin, still glaring down at the undead corpse. “You can say that again.” This Temple of Blood had been the site of one of their hardest battles – and he most certainly remembered Tol’brekk getting up after they had killed him the first time. The giant troll lay dead in the temple once again, slain this time by something stronger and nastier.
+
+Can’t ever trust undead to stay dead.
+
+He made a sour face, still not taking his eyes off the gaunt, white-painted assassin’s body. This one had been fast and deadly with that oversized white dagger. On his own, the assassin would have taken him apart – slowly perhaps, his armor was quite strong – but he struggled to even hit something so fast.
+
+With Calen’s motes to dispel stealth, and him and Malika being able to chase the boss down even into the spirit realm, and Ali’s ability to use earth magic as a control skill and to suppress healing, their teamwork had been too great for their foe. But Mato was not satisfied – his role had been too small. I couldn’t protect anyone. How am I supposed to tank a creature that’s dancing rings around me?
+
+This fight was Malika and Calen’s show. Malika had truly mastered the ability to abuse his Battlemaster in combat, waiting just long enough for his charge to attract the boss’s attention before hitting it with that crazy glowing power of hers. As she pulled it off him, she would trigger Battlemaster for him, and then his hasted instant retaliation would be fast enough to land.
+
+Your group has defeated Fetish-Painted Assassin – Undead Troll – level 132.Elemental Shapeshifter has reached level 106 (+3).+30 attribute points.
+
+Figures, everyone else got more than me. Even Ali, and she has more of a penalty for being higher level. He frowned, but he would still benefit from the thirty points. He spent ten on vitality, and then seven each on strength and endurance. Three points went to wisdom and one each to the rest. I wonder if Morwynne can make haste potions for fights like this…
+
+Swipe has reached level 60 (+3).Brutal Restoration has reached level 59 (+2).Bear Form has reached level 56 (+2).Rampant Growth has reached level 26.Bestial Combat has reached level 46.Natural Prowess has reached level 44.Battle Trance has reached level 39 (+2).
+
+“Good fight, though,” Malika said, smiling happily. No sign of her radiant power remained; she had returned to normal.
+
+“Hmph,” he grunted, hoping his disgruntlement didn’t show too obviously. Sure, they’d won, and he even appreciated that Malika had enjoyed it, but how could he enjoy a fight if he was reduced to no more than a dagger for her to wield whenever she needed?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

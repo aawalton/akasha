@@ -1,0 +1,265 @@
+---
+id: 668777e3-a560-5a63-be1c-eb914a2e6bd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 489: Forging a Plan"
+slug: 0528-chapter-489-forging-a-plan
+partOf: dungeon-of-knowledge-complete
+position: 528
+ownLength: 3468
+unit: words
+ownProgress: 3468
+publishedAt: 2025-12-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2887317/chapter-489-forging-a-plan"
+royalRoadId: "2887317"
+markedReadAt: "2026-06-29T20:30:11.577Z"
+---
+
+Ali stared aghast as the gigantic runic greatsword tore Malika’s body in two. Crimson blood sprayed into the air, falling to the ground with the clatter of frozen red hail.
+
+Way too much blood.
+
+“Malika!” she screamed, her voice tearing at her throat with its rawness.
+
+Ice mana bit into the broken remains of Malika’s body, forming the shape of the Frozen Doom curse, and Ali dispelled it while mentally screaming for healing. Priests ignited their Devotion, her shamans sacrificed their blood, pouring it into ribbons of magic that arced into the air. But it was Malika’s own Healing Mantra that surged through her body first.
+
+“Not today,” Malika repeated.
+
+The words were spoken with quiet, calm fury, a promise backed up by a bottomless well of a will that refused to be bowed.
+
+But it was joy, and the sheer rush of relief that burst through Ali’s heart at the sound of her friend’s voice.
+
+She’s alive!
+
+Her healers landed their powerful spells, and Ali summoned golden barriers – barriers which regained much of their effectiveness as Haverron returned once more to substantial solidity, and she no longer had to cast them straddling the spirit realm.
+
+The swords of ice and the one of mithril crashed against her spells while Malika dodged around them, unleashing blurring attacks of speed.
+
+“Get over here!” Ali commanded. Her troll’s responses were to leap into the air or rush across the ground to reach their foe. Tol’brekk landed squarely on the Death Knight’s back with a deafening crash of steel against armor, and the shuddering thumps of several tons of bone and flesh flung at an obstacle from over ten meters away.
+
+With the trolls came the desolate cold of the blizzard, and the charging horde of skeletons and wraiths; all finally catching up with Haverron and blotting him out of her mundane sight. Ali raised a barrier to block the wind and hurtling chunks of ice while she backed away, retreating to a safer distance.
+
+“Freeze.”
+
+The command shook the storm with inexorable glacial power, and a kernel of purest sapphire light shone from the middle of the storm, its sudden brightness overwhelming all other magic, searing Ali’s mana sight with its intensity.
+
+Her eyes widened as she recognized the domain magic instantly.
+
+“Elemental Storm! Hide!” Ali screamed, but her voice was effortlessly snatched from her lips by the howling winds and tossed away.
+
+The mana within the heart of the storm built to a rapid, pulsating crescendo, several times more powerful than Ali had even dared to imagine.
+
+They won’t make it!
+
+In a last-ditch attempt to stymie the attack, she summoned her barrier magic, fashioning four bubbles. Two normal-sized ones snapped into existence around Malika and Calen, while the magic she saved on her smaller barrier went to making one large enough for Mato’s larger dire bear body.
+
+No sooner had she summoned her barriers than the entire world froze. Ice crackled as it shot across the ground. Snow spontaneously formed within her bubble as the outside was instantly covered in a thick layer of frozen white. Still, the explosion of domain magic ripped through the entire plaza, a shockwave that grew ever wider.
+
+Ali winced at the sudden mass-release of her mana reservations as her minions died in droves. Ice mana hammered continually against her barriers, absorbed into her mana pool in a drowning flood of power so intense it scoured her body and mind from the inside out.
+
+You have been afflicted by Mana Saturation.
+
+Golden bolts of arcane energy discharged continuously within her bubble as she battled to bleed the mana off into Empowered Summoner fast enough, but she had no minions left to absorb the excess.
+
+She might have screamed then; she would never know. All she knew was that the Elemental Storm was an eternity of agony as her mana tore her body apart in an overwhelming deluge to escape from the prison of her far too tiny mana pool.
+
+Her only saving grace was the comparatively minuscule drain of mana it took to instantaneously repair the cracks her barrier sustained under the onslaught of ice as boulders the size of houses shattered upon her golden spheres.
+
+And then suddenly, it all ceased.
+
+Quietness descended upon the battlefield, silent only by comparison to the enormity of the angry howling from before. The blizzard still raged around Haverron, and her mana still crackled and sparked, leaving her body, but sounds like that were insignificant in comparison to what she had just endured.
+
+“Ali! Are you ok?”
+
+“Run!”
+
+The dim sounds of her friends’ screaming danced and skittered off the slowly dissipating agony of her mind, and then, suddenly, Malika was right outside her bubble, and she felt the distant, tearing surge of soul magic repairing her body and mind.
+
+You have gained Clarity.
+
+“Save them,” Malika said.
+
+Ali did not hear her through the still-ringing deafness that plagued her ears and mind – auditory afterimages of violent noise – but she could read her face and her lips. She didn’t need more.
+
+With a mighty heave of her will, she hoisted Mato’s glittering, golden globe right out of the center of the storm and shot it off into the darkness of the ruins, while simultaneously dragging herself and Calen clear of the domain of ice Haverron was projecting. Then, she released them both and allowed them to flee.
+
+***
+
+“Well, that went swimmingly,” Malika said.
+
+“I assume that’s you being sarcastic?” Mato said. “What you really meant was that it was an unmitigated disaster. Right?”
+
+“Well, we’re alive,” Calen said. “And we have lots of real information, now.” He seemed rather pleased by the last part.
+
+“We are alive,” Ali agreed, considering the events they had just experienced.
+
+But it was far too close. Likely, she was going to be haunted by nightmares of Malika being sliced in half right in front of her. Only slightly less terrifying would be the nightmares of an unstoppable Death Knight that ignored her barrier to impale her in an instant with a giant glowing sword.
+
+“Can we even defeat this monster?” she asked. In truth, Grim Spark had been insanely challenging, and she had just assumed he was an anomaly. Especially considering Calen’s theory that the bone fetish boss had been something he’d called a ‘Sleeper’. But Haverron was far deadlier and wielded such enormous power with contemptuous ease.
+
+“Well, let’s start with what we know,” Calen said, retrieving his notebook. “Clearly, he has a lot of ice magic. That blizzard is annoying.”
+
+“Bit of an understatement right there,” Mato chipped in.
+
+“It’s a domain,” Ali said, reviewing the feel and the look of the mana. “It’s like your Sanctuary, Mato. It follows him around, and he has near-perfect ice magic control within its extent.” Knowing what it was did nothing to help her overcome it – it was passive, and therefore she couldn’t Disrupt it or Dismantle it. At least, not with her current skill set.
+
+“And an aura curse of Life Tap?” Calen said. “Is that part of his domain, too?”
+
+“No, that’s death magic,” Ali said, “but I couldn’t see him casting the curses.”
+
+“That one is eye magic,” Malika said. “I can read it with Infinite Perception. It curses everything he can see.”
+
+“That must mean he can see through the blizzard,” Calen mused.
+
+“So unfair,” Mato groused.
+
+“So, what? We can avoid it by standing behind him?” Ali asked.
+
+“Yes, I think so,” Malika answered.
+
+“So, maybe we should spread out in a circle, then?” Calen said, making a note.
+
+“What about the thing that nearly killed Malika?” Ali asked. It was the most important ability in the fight. Without a solution, they were just asking to die.
+
+“It’s a simple rush skill, with a sword impale,” Malika said.
+
+“That was not a simple attack,” Ali disagreed. “It was barely even in this realm.”
+
+“Well, it was empowered by two domain abilities – one seemed like a combat mastery, and the other was a physical power increase similar to Overpowering Strike. It also travels the boundary between the spirit realm and the normal realm, so it works like Calen’s arrows. It ignores armor and barriers.”
+
+“Why me, though?” Ali asked. Haverron had picked her out, and she was not convinced it was random.
+
+“You have the lowest health,” Malika said. “He was using his perception skill at the time, and I can tell it allows him to see health.”
+
+“How can you see all of this?” Calen asked.
+
+“They’re all martial skills using stamina. With Infinite Perception, I just need to see them once or twice before I can figure out generally what they do,” Malika said.
+
+“Can you use Martial Disruption then?” Ali asked. Malika’s ability to see stamina was similar to her mana sight and Sage of Learning combination, and her Martial Disruption was similar to her Arcane Insight’s ability to disrupt spells.
+
+“I believe so,” Malika said, “but it’s chaos in there, so we need a backup plan in case I miss.”
+
+“How about making a spawner, Ali?” Calen asked. “Something like those oozes that make little oozes. If it goes for the lowest health, it should attack them, and we won’t lose much.”
+
+“I can do that,” Ali said, making a mental note of it. A Toxic Spitter would probably do the trick, or a Sacred Ooze, or even one of her Dark Druid Sylvans. Some of those could summon plants or beasts. Or I could just summon a bunch of lower-level kobolds.
+
+“So, then we just need to solve the ridiculous undead spawn rate, keep those two skeletal frost dragons out of the way, and figure out how to survive the ice apocalypse,” Calen said.
+
+“I can make two Scions of Azryet to tank the Frost Dragons,” Ali said. Haveron hadn’t bothered calling them down when she had been wasting minions on him to learn some of his abilities. I should probably have summoned a pair of dragons from the start, regardless. That was the easy part, but it had given her the inkling of an idea. Her barrier had blocked the Elemental Storm well enough; she just didn’t have enough barrier surface area to protect her entire army of minions and her friends.
+
+But the Scions have Void Forcefields and Void Nullification. And my ice trolls have Ice Barrier. Quickly, she flipped through her Grimoire to the ice trolls and read the specific details of their Ice Shield skill.
+
+Ice Shield – level 117+300% mana regeneration while chilled.Mana: Create a shield of ice protecting you from damage. Melee attacks against the Ice Shield chill the attacker. Ice Shield will absorb a fixed amount of damage proportional to level and intelligence before shattering. Ice shield chills you.Mana: Enhance your Ice Shield, freezing yourself solid. Regenerate 30% of your maximum mana over the duration. You are immune to damage while shielded in this way. Duration: 15 seconds. Recharge: 1.5 minutes. Ice, Defense, Intelligence
+
+Aah, this might just do the trick, she thought as she scanned through the details. Ice Shield had not updated much when her Telim Gor ice trolls had evolved, but the duration it could freeze itself had gone up from five seconds to fifteen.
+
+Also, the size of the shield the mages could manage had grown substantially – just about enough to hide several minions behind. Better yet, the ice barrier would be immune to ice damage. She didn’t like bringing an otherwise worthless minion to a fight, but if the shield worked, it might mean the difference between winning and losing. And they can see through ice storms. Yes, this could be good.
+
+“If we’re going to spread out around the plaza, I can bring some ice mages with ice shields to hide behind,” Ali said. “And the Scions should be able to block the ice with their void shields, too.”
+
+“Ice mages?” Calen said, raising his eyebrow.
+
+“Yes, they won’t be able to do any damage of their own, but their shield is immune to ice damage.” She shared the evolved version of the skill.
+
+“Aah, that might work,” Calen said. “Now, what about the spawns?”
+
+“I was thinking of going with fire,” Ali said, grinning.
+
+“Pyro,” Mato teased. “I think you love fireballs way too much. Ever since you saw those kobolds way, way, back…”
+
+“Oi,” Ali retorted, displaying dizzying eloquence. Ali took that as a definitive win.
+
+He held up his fingers to illustrate, “Back when you were just a really, really little –”
+
+“Mato!” Great. Now she was blushing, and the others were laughing. Oddly, however, she sensed that the release of tension also released something within her mind – something indefinable, but important. She smiled sweetly at him. “Bet you were one cute cub.”
+
+“Oi!” he snorted, matching her earlier eloquence.
+
+“So, besides the terrible jokes, what are you thinking, Ali?” Calen asked, glancing up from his notes.
+
+“Do you guys remember those warlocks in the Emberforge Mines? Or the Phoenix?” she asked.
+
+“Oh! You want to use that curse?” Calen asked.
+
+“Yes, but not with the warlocks. My Eye of Agnor can cast the Explosive Conflagration at a much higher level – and that has Curse Proliferation built in,” she said. With such a huge density of undead in such a small space, the self-proliferating curse would be nigh unstoppable. Also, if she were recalling Weldin’s display correctly, she should be able to get her hands on several wands of Fire Vulnerability. Watching the glee with which Seth distributed similar curses and abused his Curse Proliferation rod had given Ali a fresh appreciation for this kind of strategy.
+
+The plan quickly coalesced in her mind. She could use hellfire imps and wargs as her primary source of area damage, targeting the endlessly spawning undead. Given they would heal from their own damage and the hellfire explosions of the curse, they should be almost unkillable. Maybe I should make a few fire drake tanks for good measure.
+
+“Bring a bunch of those holy Fire Mages,” Malika said. “I like those for wiping out the undead.”
+
+“I can do that,” Ali said. Oh, wait! Holy damage? The scene of Kavé putting the finishing touches on her Holy Avenger sword at the anvil suddenly popped back into her mind. She would need Mortal Wounds on Haverron to counter the effects of Life Tap. And Kir’mogan can use swords.
+
+Suddenly filled with excitement, Ali began flipping through her Grimoire with a purpose, summoning furiously.
+
+“I would hate to be her opponent when she gets like this,” Mato said.
+
+Ali threw a glare at him, but she was too busy working to deal with jokers. Unlike some others! Eh, maybe I should try not being part of the problem, then?
+
+Naia slipped into the large chamber of smooth rock, only after the people who had been making so much noise had left. She had waited there, pretending to be a rock until the monster within the chamber had been resummoned.
+
+Now, finally alone, she released her rock formation disguise and carefully slithered up the walls, high enough to avoid the flames that crackled below, sending continuous vibration through the stone and making her membrane quiver. She was much higher-level than the kobold below her, but she was not here to eat it. Not directly.
+
+Collect. That is what the big dragon had told her. She could feel his mana nestled deep within her, just like Ali-friend.
+
+Collect fire, she thought, pausing at the top of the chamber. Quickly, she summoned a Lava Lurker and dropped it into the chamber from above. Immediately, she resumed her rock-form disguise and observed.
+
+Explosions shook the walls as the kobold tried to kill her lava ooze. She waited. Fire crackled, sending more vibrations running through the rocks, while the air heated up around her. The tang of soot and smoke impacted her membrane, and Naia checked her notifications, but there was nothing yet. She waited some more.
+
+She clung to the rocky roof with the patience of a rock. But after a while, a thought crossed her mind.
+
+Something is wrong.
+
+She checked on her Lava Lurker, but it was still fine. It was simply sitting there as she wanted, while the kobold’s fireballs blasted it.
+
+A wrinkle rippled across her rocky surface as she struggled with the difficult challenge. Her Lava Lurker could sit there all day, and it would be fine. It wasn’t even taking damage from the fireballs…
+
+Damage?
+
+It needs damage? She wondered about that for a while, her shape morphing into a rock riddled with furrows as she concentrated. I don’t know? She wanted to ask Ali-friend, but she was not here.
+
+Maybe I should try something else? she decided. In the throes of inspiration, Naia summoned a Brine Ooze and dropped it down on top of the kobold instead. A screech filled the chamber, echoing through the rock she was clinging to, and more fire magic rippled below her.
+
+Better idea. Satisfied, she returned to her vigil, waiting.
+
+Your Brine Ooze has died.
+
+Hmm. That didn’t work. The dragon had told her to collect, but why was it so hard? She considered the problem again, but this time, she knew the answer. So, she summoned new oozes. This time, a Sacred Ooze and another Brine Ooze. When she dropped the Brine Ooze into the fire, hitting the kobold on the head a second time, she also made the Sacred Ooze drip oozelings down on top of it, making sure it would stay alive.
+
+Clever! she thought, congratulating herself on knowing the answer to the difficult problem. She settled in to wait yet again. Fire blossomed, vibrating the rock, heating the air, and releasing all kinds of pretty mana patterns. Her Brine Ooze burnt, but the dripping of the Sacred Ooze on top of it kept healing the damage. She waited patiently. And eventually, the happy sound vibrated across her membrane.
+
+Slime Mutation has altered your Brine Ooze.
+
+Yay! She wobbled a little to celebrate, but then she studied her new ooze, realizing something was still wrong.
+
+Scalding Slime – Ooze – level 51 (Steam).
+
+Way back, before she had even met Ali-friend, in her little old cavern, she had made a Scalding Slime from the hot vents at the bottom of the cavern. This mutation was not going to help her; she already had it.
+
+She shifted around on the roof, searching for a solution, and, bit by bit, she pieced it together. She had used a Brine Ooze the first time – she hadn’t had much else back then. The heat vents had mana patterns that looked the same as the room below her.
+
+Fire and Brine Ooze… always makes a Scalding Slime?
+
+She didn’t know. But it sounded right to her. What did Ali-friend call it? Logical? She puzzled over it for a few moments longer before she realized she could try something else. But not Lava. Or Brine. Or Scalding. So many problems. Does Ali-friend have to think this much?
+
+Carefully, she considered her options, but she finally settled on a strange slime she had had since the beginning – the one which had helped purify the water. She swelled as she produced the little slime and dropped it into the fires, scoring yet another hit on the annoyed kobold below.
+
+Aetheric Slime – Ooze – level 15 (Arcane)
+
+She studied it carefully as the angry kobold unleashed his fire, quickly increasing the flow of holy droplets as its health began to fall. This time, she didn’t wait patiently; instead, she kept her focus, hoping for a change. Nothing she had ever done had required so much problem-solving.
+
+The one-sided fight drew on and on, and Naia began to twist and fidget, even ruining the illusion of her rock. But then, the happy sound came again.
+
+Slime Mutation has altered your Aetheric Slime. Imprint: Blaze completed.Blaze – Ooze – level 14 (Fire)
+
+Suddenly, something surged within her. Her mana grew dramatically larger, and her mind cleared, like the Aetheric Slime purifying water. And with it, the struggles of the last couple of hours became far clearer to her.
+
+Am I stupid?
+
+No. I was, she realized, as the words of the big dragon came back to her. He had said this would happen – he had told her, if she worked on her skills, she would get smarter.
+
+She clung to the roof for a long time as the implications of what had just happened sank in. Then, stilling her membrane, she deliberately crossed the chamber and entered the dark ruins beyond, her success lending new purpose and uncharacteristic speed to her pseudopods.
+
+More… what else does Ali-friend have for me to learn? This is fun!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

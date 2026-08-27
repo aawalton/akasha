@@ -1,0 +1,111 @@
+---
+id: 8a7ec330-fee5-5951-b244-b98f546e2355
+page-type-slug: story-chapter-royal-road
+title: "Chapter 583: Vigil"
+slug: 0627-chapter-583-vigil
+partOf: dungeon-of-knowledge-complete
+position: 627
+ownLength: 1916
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183732/chapter-583-vigil"
+royalRoadId: "3183732"
+---
+
+Vivian stepped up to the crenel and stared out over the blasted plains lying below and to the south of Myrin’s Keep’s severely battered battlements. The endless sea of the dead was finally beginning to visibly thin out, the sun blazing brightly down on their dark bobbing heads as if supremely indifferent to the struggles of those below.
+
+Beautiful day. Almost painfully beautiful. Yet it was a welcome break from the Lich’s horrific darkness, and the frenzied power it had bestowed upon all his minions. She saw that.
+
+Measured footsteps on stone alerted her to someone approaching and she turned to find Moira Sangrey wearing a grim expression as her eyes flickered across the remaining dead. In the background, the relentless assault of Aliandra’s bosses continued unabated, drowning out even the low moaning of never-ending streams of shambling zombies.
+
+“I suppose you’re all heading out, then?” Vivian asked. It was abundantly clear that Myrin’s Keep would not still be standing without the aid of all the Southport defenders, and Moira had been instrumental in mustering them, and commanding them from the battlefield. Still, the world outside was marching on, and there was always work for high-level adventurers. Losing them meant drawing out the cleanup, though.
+
+“No,” Moira said, coming to join her at the battlements and gazing out over the plains. “We will see this through to the end. Besides, we’ve almost reached the threshold, and we were hoping to prevail on Aliandra for the use of her shrine once again.”
+
+“Appreciated,” Vivian said, nodding and turning to study the deployment of the disorganized remnants of the Lich’s armies. Without their master’s whip and immense aura driving them, the dead had become a moaning rabble attempting to crush and eat whatever living creature appeared within reach. Still dangerous, but not like before. There was much work still to be done.
+
+They shared a significant moment of silence and then Vivian said, “I’m sorry for the loss of your friend.”
+
+Moira nodded and said, “Galeth died doing what he loved – sticking his face into the breach.” She allowed a wry chuckle that ended on a melancholy smile.
+
+“If he hadn’t stepped in, we would have lost the wall,” Vivian said. It had been a nasty surprise, learning that the Blind Lich had crafted his siege abominations with a second-tier Corpse Explosion spell. When one of those behemoths had finally reached the battlements, bristling with ghouls and worse, she had mustered the defenders to repel the attackers.
+
+Vivian swallowed uncomfortably. She should have known. The Lich cared not a whit for his minions.
+
+The image of that immense explosion splitting the wall wide open and wreaking terrible losses upon the defenders would haunt her until the end of her days. She had ordered them up onto that battlement. If only… No. There will be time for grief after these monsters are all gone. After it’s over.
+
+If Galeth had not stepped into the breach, waving that shining Holy Avenger like one of the legends from the second age and held it against the hordes of the dead, long enough for the defenders to recover, they would all doubtless be dead, now. Raised in service of the Lich and his armies. Soberly, Vivian said, “He was a true hero.”
+
+“He was an idiot,” Moira said. “But he was also a hero. He would have loved the stories that will be told of his last stand. He always said, if he was to go, instead of mourning him, to raise a pint of ale for him in the afterlife.”
+
+“I would be glad to,” Vivian said. “They’re struggling, you know? The bards. They can’t find words that mean honor and valor that rhyme well with his name.”
+
+“He would have enjoyed that,” Moira chuckled, but then she cleared her throat. “I came to report, we found the last of the Crypt Spawners, they won’t be bothering us anymore.”
+
+“That’s a relief,” Vivian said. They’d only discovered the Crypt Spawners – abominations that could spawn Wights, which could in turn spawn zombies and skeletons – planted deep in the forest because Lirasia had requested assistance in wiping out the last few.
+
+“Vivian…”
+
+“Yes?”
+
+“Can she do it?” Moira asked, fixing her with a pointed stare. “Can she really kill him once and for all? I heard she was injured in the fight.”
+
+“Aliandra?”
+
+“Yes,” Moira said.
+
+“Yes. She is recovering well,” Vivian said. “And as to dealing with the Blind Lich, I believe in her. Aliandra will see it through.”
+
+“Then, all the sacrifices have not been in vain,” Moira said.
+
+Vivian nodded, thinking of all the bodies they were still pulling out of the wreckage. A beautiful day, but so, so hard.
+
+“It’s just about time,” Calen said.
+
+The death vigil for Nevyn Eld had flown by surprisingly peacefully, and Ali finally glanced up from the glowing pages Clarence was showing her to find Calen slowly leading the somber group back into the chamber. She had chosen to wait it out in person, keeping watch over the floating urn and the spirit of the Lich trapped in the Spirit Realm despite the presence of armies of the dead still pressing against the gates of Myrin’s Keep. However, without their commander, the dead proved disorganized, and she had let her bosses and minions take care of it along with those of the town who wished to sharpen their blades and hone their skills.
+
+She reflected that she would have preferred to conduct all this where it had begun, in her Grove, and allow the spirits of her parents to keep vigil with her, but practicality had trumped her sentimentality; having Azryet keeping watch with her was well worth it, and she needed to see this done properly.
+
+Malika hovered slightly above the ground, her eyes slowly opening as she emerged from her meditation to acknowledge Calen. Beside them, Mato grew tall, his branches spreading as a canopy over their heads. He had been practicing the entire ten-day vigil, getting more and more used to siphoning her corruption and neutralizing it: if they kept it down to fifteen minutes twice a day, it was far less overwhelming for him, but he was quickly growing more resilient to it. Every time he took the corruption from her, Malika healed her bloodline, leaving it pristine and sparkly – her words – only for her cursed runes to slowly begin the corruption process anew.
+
+Lira assured her that this would be sustainable indefinitely – and if it proved not to be, she would be able to brew another elixir, provided she still had access to all three Wells. Calen had immediately zipped by each of them and stocked up on dozens of vials, just in case.
+
+Ali hated being a burden on her friends, but Malika and Mato both seemed to be in high spirits, so she let it rest. For her part, she had been passing the time by studying. While Azryet had declared that the only way to be free of the corruption would be for her to evolve, probably twice, she wasn’t exactly about to just take him at his word. After all, what did a fifth-tier Dragon God really know about magic anyway?
+
+She grinned at her audacity, but nonetheless, her stubborn refusal to leave it at that had led her on a deep dive through Clarence’s dense pages, and she had already learned a great deal about magic. Nothing immediately applicable, but this was just the beginning.
+
+“He seems quiet,” Val’korr observed, staring at the translucent soul trapped in the golden cylinder.
+
+“He’s probably not even aware of what’s going on,” Ali said. After all, her own experience within this containment spell had been dramatically truncated. She would probably have gone mad quickly if she’d been forced to endure three thousand years without the ability to act in any way.
+
+“He deserves to suffer,” Val’korr snarled savagely. “For what he’s done.”
+
+“Probably,” she said. “But I will not be the one to inflict it. Would you?” Ali had been mortified by Nevyn Eld’s comparing her to himself as if she should be flattered. There was no way she was intentionally dipping her toes into his stagnant pond by willingly inflicting suffering on another being, no matter how deserved it might be.
+
+“You’re right,” Val’korr said, falling silent and looking strangely chastised until Lira took his hand. For just a moment, Ali had the pleasure of seeing the old troll blush bright purple all the way up to the tips of his ears.
+
+Ali allowed her gaze to fall upon the alabaster urn as a sense of somber anticipation gripped the group, but her feelings were hard to even process. As she watched, something suddenly stirred. Mana swirled about the urn, creating a small vortex, and, from within, a strangely attenuated scream filled the air. With a thought, Ali encased the entire thing with a sphere of barrier magic, just in case, but the mana just swirled about for a while, and then it slowed.
+
+Suddenly, there was a loud crack, and the urn shattered into several large fragments that spilled out across the stone floor. A stark sound that rang out through the chamber, startling everybody. An ethereal light glowed there for a few moments, and then the scream and the light both faded.
+
+Ali’s notification chime sang out, and with trepidation and hope warring within her heart, she opened them.
+
+[Realm] A Guardian of the Realm has fallen.Your group has defeated Nevyn Eld [The Blind Lich] – Elder Lich – level 418 (Death / Soul)
+
+At the sight of the notification glittering there in the purest of gold the weight of the world fell from her shoulders. She let out a low sigh of relief. Finally. Finally, it’s over. As joy and relief began to bubble up, Ali read on eagerly.
+
+You have gained Reputation.+46 Authority.Dungeon of Knowledge has reached level 279 (+27).+270 attribute points.Arcane Insight has reached level 156 (+8).Arcane Recall has reached level 94 (+6).Barrier has reached level 139 (+7).Grimoire of Summoning has reached level 99 (+10)Runic Script has reached level 117 (+7).Sage of Learning has reached level 118 (+5).Martial Insight has reached level 139 (+4).Empowered Summoner has reached level 136 (+6).Domain Mastery has reached level 96 (+11).Minion Teleport has reached level 94 (+5).Identify has reached level 49 (+3).Sculpting has reached level 19.Inspiration has reached level 55 (+3).Calligraphy has reached level 21 (+5).
+
+Several of Ali’s levels had clearly come from the runic tattoo she had cobbled together and the powerful spells she had crafted, but the rest had come from the challenge of destroying the ancient Lich responsible for the Breaking, a Guardian of the Realm, a dungeon boss, his armies, and his entire domain. There were more than a few gasps as her friends took in their own notifications.
+
+Ali turned her awareness outward once again as soft white flames rose from the ground and the shards of Nevyn Eld’s phylactery vanished.
+
+“You were right, little one,” Azryet said softly. “Mana Siphon as a domain skill… I have never seen its like. I will share it with you – I’m sure it will be most useful with your World Walker skill.”
+
+“Thanks,” Ali said, and then she dismissed her mother’s spell, causing it to burst into motes of golden light and drift away.
+
+“It’s done,” she said softly as her friends gathered about her to bear witness the end of an age.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,207 @@
+---
+id: 4063d125-e026-5baf-a1e7-c9ac8ffbd282
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: A Headless City"
+slug: 0035-chapter-20-a-headless-city
+partOf: ends-of-magic
+position: 35
+ownLength: 2588
+unit: words
+ownProgress: 2588
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2592354/chapter-20-a-headless-city"
+royalRoadId: "2592354"
+markedReadAt: "2026-06-29T20:08:23.716Z"
+---
+
+Nathan approached his friends with nervous steps. It felt like they’d all just dodged a monumental bullet, but it was a fragile feeling, like something that could be snatched away at any moment. Throughout all of their battles, Nathan had been worried about his friends, but in an abstract sort of way.
+
+But something about seeing Stella’s headless body had driven home their mortality. They’d managed to kill each of the Questors, but it hadn’t been a one-sided fight. The Heirs had nearly lost multiple times, especially early on. If Badud had been at his full power and capable of throwing more than one of his crazy spells every thirty seconds, then they almost certainly would have lost. The Questor had thought about how to fight Nathan, and had settled on a few approaches that likely would have worked if he’d had more attempts.
+
+That had worked, given Stella’s near-death experience. She was still lying in Aarl's arms. Khachi stood nearby, though he looked like he was about to fall out of the sky himself.
+
+“You killed Badud?” Nathan asked Sarah as he approached, not sure how to address the elephant in the room.
+
+“Hear me, it was a dim shot,” she replied. “He was hiding in a half-abandoned market across the city, surrounded by people confused by his announcement.” She shook her head, releasing a long breath full of tension. “But I saw him, and he had few magical protections. To avoid shining a light in your eye, I presume. I was not expecting the shot to strike its target, but the notifications do not lie.”
+
+Nathan gave a slow nod, putting together the pieces of the fight. Badud had decided to shuck as much magic as he could to avoid Nathan’s notice, and it had backfired when Sarah had put a bullet in his head. He exhaled a long sigh and looked around. The city around them was damaged, but it wasn’t that bad. The most significant damage was where the Heirs had punched up through the ground in the plaza around the central tower, and the cratered hole blasted by Badud's supersonic projectile. But none of the large towers had been destroyed or even seriously damaged in the fight.
+
+The whole area was deserted. The military had taken over and evacuated most people from the public areas, then routed themselves before the Questors had arrived. There were people holed up in the surrounding buildings, but there was nobody they needed to deal with at the moment. “Let’s get out of the sky,” Nathan suggested, and jerked his head downwards.
+
+Aarl took the lead, still carrying Stella as he gently descended towards the cobbles below. Khachi nearly fell out of the sky, landing hard on the street. His knees trembled, and then he fell to his butt with a clank of metal. The Heirs settled to the ground around him, with Stella complaining halfheartedly that she could stand. Aarl set her down, and she staggered before grimly standing tall and beginning to recast a few passive spells and set up some basic shields.
+
+Aarl’s helmet retracted down into his armor, his eyes wide and faintly bloodshot. “We won. Four Questors and a city. What do we do now?” His body seemed to contradict his motions, movements jerky and full of adrenaline.
+
+“We wait for Sarya and her grid to arrive,” Sarah answered, her eyes calmly scanning the surrounding buildings for threats. “They said that once we won, they would come to us.”
+
+Aarl nodded jerkily as Stella finished her spellwork and collapsed to the cobbles. “What if they fail to arrive?”
+
+“Then we leave,” Nathan replied. He gestured at the city around them. “We aren’t here to destroy this place, and they don’t need saving. We killed their leaders and took their loot. Our business here is done.”
+
+That caused Khachi to give a low and ragged chuckle. “I speak of valor and honor, you speak of assassination and theft, yet we name the same deeds. Careful, else you damage my Faith.”
+
+Nathan chuckled. “Evil deeds for good causes. We weren’t the ones implanting civilians with magic to turn them into monsters. You were the one to save them from that fate.” One of the victims of that spell was lying on the ground not too far away, apparently unconscious. They probably needed medical attention, but neither of the Heirs who could cast healing magic was in good enough shape to be dispensing healing at the moment.
+
+The city-wide announcement system activated again, and Garna’s voice sounded across the city. She spoke authoritatively, with a slow cadence that was more effective at convincing people not to panic than any words could be. “The violence is ended. Esebus stands. We are a city built from stone and will, so calm your hearts, help your neighbors, and stand united. This moment is when we show the world what it means to endure any hardship, and strike back against our foes manyfold.”
+
+“It seems like they’re already here,” Nathan said, looking around before realizing that there was no way he’d be able to see the Questors with his own eyes. “We’re probably not what they’re worried about right now. They’re busy taking over the city.”
+
+Aarl looked troubled, as if he couldn’t believe what he’d just heard. “Are they going to attack us? We’re the foes.”
+
+“They’re keeping everybody calm. Nothing unites people like a common enemy.” Sarah’s voice was dry, and she was glancing around warily. “We should be somewhere with fewer eyes. If we’re publicly visible, then they’ll need to do something against us or be shown as liars.” She walked over to where Khachi had collapsed and offered a hand to the fallen wolfman.
+
+He took her hand with a groan, rising slowly to his feet. “I dislike hiding from our deeds. We have freed this city from Sussu and her compatriots.” He took a few unsteady steps before leaning on Aarl’s offered shoulder.
+
+“Tell the citizens that,” Stella said, her tone matching Sarah’s. “These people think the Questors are a guiding light.” She muffled a yawn as she rose to her own feet, then set off towards the central tower that the Heirs had broken into a few hours earlier. Her shields moved with her, and the Heirs followed as she led the way across the cracked cobbles.
+
+Night fell just before they reached the lobby, and there was a moment of blackness before the monumental towers all around started glowing with internal light. Intricate patterns of shifting gears and rippling color were revealed just beneath the skin of each tower, though several of the mechanisms were dim or malfunctioning from battle damage.
+
+The Heirs stopped and stared for a moment before Nathan chivied them forward. He’d been blocking scrying attempts from the start, but the number of spells was redoubling with every minute. It wasn’t that he was worried about the viewing spells breaking through his aura as much as the indication that people were starting to come out from hiding. More people were likely to be out and about soon, and he wanted to avoid their eyes to avoid any public confrontations. They’d succeeded in their mission, and more violence wouldn’t accomplish anything.
+
+He didn’t think that any of Sarya or her grid would seriously attack them to back up their claim on Esebus, but there was no reason to put anybody in that situation. Nathan steered the Heirs to the abandoned security room on this level. It was just a few doors off the lobby and would let the Heirs keep an eye on things while being protected from the public eye. All of the soldiers who’d manned the room had been part of the fight outside, and they’d either died or run away, so it was abandoned.
+
+Everybody crashed hard, with Khachi slamming to the floor once he understood that this was a place to rest. His tone was exhausted but serious. “Did we all achieve 729?”
+
+“Yes!” Stella cried out, pumping her arms into the air. She looked around with bated breath to a series of nods from Sarah and Aarl, only growing more energetic with each confirmation.
+
+“In my second class, yeah,” Nathan confirmed with a crooked grin.
+
+Stella rolled her eyes at him, excitement unabated. “We made it! The territory of true power!”
+
+Khachi’s snore rose in response, and Stella gaped down at him, then sighed. “I thought he didn’t sleep! But I suppose his deeds justify some rest. But I want to hear of his choices!”
+
+“Now our target is patience?” Aarl asked. He was busy pouring out some of the dwindling supply of drinks they’d stockpiled back in Gemore. He poured five, leaving one untouched for Khachi as he handed the rest around.
+
+“I think so,” Nathan replied. “I’ll keep an eye out, but I think we can chill here for a little while until it’s clearer what’s happening. Probably a good time to look over our class options. Maybe we’ll get a chance to strategize with Sarya’s grid before we make our choices.”
+
+“Hear me, that’s an easy argument.” Stella had calmed down, but she was still thrilled by the prospect of her class development. She flopped onto a comfortable chair and pulled up her class options before diving in.
+
+Nathan leaned against the door, keeping a portion of his attention on tracking the magical goings-on outside. He was about to pull up his class development options when he looked down at himself and snorted in amusement. His clothes had been ripped up badly when Amoh had stabbed him, then again when he'd impacted the ground hard enough to embed him in the rubble. “Aarl, can I get some clothes?” Only once he’d made himself presentable once again did Nathan read over the notifications he’d skipped past earlier.
+
+There were ones notifying him of each Questor they’d killed, and that they’d be able to claim and verify those kills to other Questors. But the notifications he was looking for were his new class options.
+
+He read over the options once and then sighed. Three was fewer options than he’d hoped for, and at first glance, they didn’t seem as powerful as those for his antimage class. But that wasn’t especially surprising. He’d had his assassin class for the least time, and it wasn’t as central to his build or actions as his antimagic. He hadn't been acting like an assassin, and this was the reward.
+
+Still, there was an obvious choice among the options presented to him. Between these potential classes and the ones he’d been offered for his antimage class, it seemed like the level 729 class unlocks depended on the great deeds you’d performed. Just judging on that metric, there was a standout among ‘killed legendary enemies,’ ‘travelled a long way to kill somebody,’ and ‘can pierce magical barriers.’
+
+But there was no reason to make his choice immediately. Khachi had woken up again, and judging from the expressions on their faces the rest of the Heirs had more difficult decisions ahead of them. But the city was still quiet aside from the occasional person checking to see what was going on. They had time to think, but not infinite time. Everybody should have had long enough to read their class offerings. “So what did everybody get? Class names first!”
+
+Aarl stood up and raised his hands dramatically. “I have received a dragon’s hoard! Five classes. Duelbound, Impenetrable Aegis, Master of Adamant, Relicmaster, and Slayer of Giants!” He took a slight bow.
+
+“I also have Slayer of Giants.” Sarah’s voice was much more laconic, though it could have been disappointment. “As well as Unseen Death, Edge of the Horizon, and Line-Ender.” She gestured towards Stella, who was nearly vibrating with excitement.
+
+“Heir of Wizardry, Mage of Destruction, Mana Incarnate, Citybreaker,” she reeled out quickly. “So many powerful things, Mana Incarnate has…” Then she closed her mouth and took a steadying breath, turning to Khachi. “Let us hear your options.”
+
+He smiled back. “My class options are Prophet Ascendent, the Hand of Resurrection, Voice of the Purifying Flame, Light of Judgement, Saint of the Last Light, and Nascent Divine.” He spoke the last class option somewhat tentatively, as if trying it on for size.
+
+Nathan blinked at the names of Khachi’s class. “Those all sound pretty meaningful. Are you going to take Nascent Divine? It seems like it is the best path towards apotheosis.”
+
+Khachi blew air out of his mouth in an exaggerated sigh. “My eyes are clouded. The description for Nascent Divine is vague, speaking of fostering worship and sparking the accumulation of Faith. I believe Saint of the Last Light may be the class most suited for my role in combat, but I wish I could speak to my mother. This is a choice that will ripple beyond my sight.”
+
+Aarl chuckled. “Not a statement I can make about myself. My choices are between being better at dueling, being able to protect teammates better, impenetrable armor, increasing the power of every magical item I use, and ‘inheriting the lost strength and majesty of the giants.’” He shook his head as if in disbelief. “Powerful classes, but not ‘start to become a god’ or ‘turn into mana.’” He gestured at Khachi and Stella respectively. “Assuming that’s what those classes do.”
+
+Stella wore a beatific smile in return. “Close! It will make me a creature of mana and unshackle my limitations on casting. More spells, bigger spells!”
+
+“Weighted against wizardry,” Sarah reminded her.
+
+Nathan felt a familiar presence appear within range of his magical senses, closer than she should have been able to get without detection. But he’d never assumed he would be able to track Sarya perfectly. She was a thief; there was no way she didn’t have an absolute truckload of stealth abilities. He held out a hand to get his teammates’ attention. “Sarya’s coming. I think she let me notice her.”
+
+The Heirs didn’t prepare for battle, but they certainly levered themselves up to standing positions. Nathan stayed closest to the door while Stella and Sarah stepped to the back of the room. Sarya entered the building at an unhurried walk and made her way directly to the security room where the Heirs were holed up. Nathan opened the door as she approached, beckoning her inside.
+
+She stepped into the room and swept her eyes across the Heirs, seeming to count them all and nodding to herself in satisfaction at finding them all present. She spoke quickly, pressed for time. “Congratulations on a victory beyond calculation. Your tale takes flight. There have been some difficulties. There's another Questor in the city, contesting our takeover.”
+
+Nathan exhaled a frustrated breath. "We're not done yet?"
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 995
+
+Bottomless Stamina : 86012/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 729
+
+Regenerative Focus: 3639/7390
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

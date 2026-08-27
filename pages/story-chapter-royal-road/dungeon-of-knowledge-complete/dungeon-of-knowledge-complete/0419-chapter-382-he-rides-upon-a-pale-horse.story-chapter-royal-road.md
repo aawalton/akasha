@@ -1,0 +1,239 @@
+---
+id: fa6bbab5-5fe3-5606-be3b-fbec303c7c5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 382: He Rides Upon a Pale Horse"
+slug: 0419-chapter-382-he-rides-upon-a-pale-horse
+partOf: dungeon-of-knowledge-complete
+position: 419
+ownLength: 3957
+unit: words
+ownProgress: 3957
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2612692/chapter-382-he-rides-upon-a-pale-horse"
+royalRoadId: "2612692"
+markedReadAt: "2026-06-29T20:26:13.456Z"
+---
+
+Ali stumbled on the polished marble of the Novaspark Academy of Magic teleportation locus, her nerves still jangling and her body trembling from the aftereffects of the Blind Lich’s debilitating fear. How am I still so helpless? I have an evolved class, but… She took a shuddering breath, mercifully free of poisonous spores, rot, or death magic of any kind. Gentle hands reached out to steady her, and she looked up to find concern in Malika’s gaze. Behind her, Mato and Calen looked to be safe, and beneath their feet, the glow from the recently upgraded teleportation locus runes began to slowly fade.
+
+The official said something in the background, but Ali barely heard him.
+
+“Are you ok, Ali?” Malika asked, helping her to her feet.
+
+“That… Why was he there?” Ali managed, trying to steady herself. They had fought Nevyn Eld’s dungeons before, and she had been prepared to recover the artificial shrine artifact on extremely short notice after the boss had been defeated. It had prevented him from using his teleportation loci to retrieve the shrines every time so far. He had never appeared before they defeated the dungeon itself with the sole exception of the Temple of Aman Rak, but that one didn’t count because he had been present before they even started, facing off against Lyeneru while they cleared it. In both the Ruins of Dal’mohra and the Lyton Ruins, the artifact had only activated after the final boss had been killed.
+
+“I don’t know, Ali,” Malika said. “But we got out safely. You can breathe. He’s on the other side of the continent.”
+
+Ali stood up slowly, feeling the aftereffects of the fear and adrenaline ebbing slowly away. She had been so helpless. Again. She had seen the magical formation coming. She had stood there while he pointed it at her, but she had been utterly unable to act. All her attribute growth, her evolution, her advanced skills – all of it had been like chaff in a hurricane. She would have undoubtedly died, just like Nendir, if it hadn’t been for the Rotting Slime that had fallen on him, disrupting his spell…
+
+Slime…
+
+Naia!
+
+“We have to rescue Naia!” Ali gasped. Her friend was down there, alone with the most powerful evil necromancer the world had ever known. “She didn’t get out!”
+
+“Easy, Ali,” Malika said, pulsing a little healing into her, and she regained a little calmness from her Clarity. “We’ll go rescue her, but we need a plan.”
+
+“Naia is good at hiding,” Mato said. “She won’t let herself get caught.”
+
+“She teleported away the moment we said to run,” Calen added. “I saw the trail of her spell.”
+
+“Ok,” Ali said, taking a deep breath to steady herself. It was still an urgent situation, but her friends were right. Naia was a master at hiding; it was the very nature of a Mimic. At least they could take their time to make a good rescue plan, rather than charging back in there to face the Lich unprepared. Or… could they? What tracking skills might the Blind Lich have at his disposal?
+
+In the desolate northeastern realm of Toria, far below the ground, the mana tether to one of Ali’s abandoned minions snapped. She never even saw what hit it.
+
+“How do we fight something like that?” Calen said, the subtle quaver in his voice betraying the lingering reaction to the terrifying aura of fear. “I couldn’t even move.”
+
+“Well, my Touch of Clarity seems to work against his fear,” Malika said, pressing knuckles to her chin.
+
+A second mana tether recoiled painfully as it snapped. The distant cavern, which had once held the Mana Eater, seemed shrouded in impenetrable darkness – none of Ali’s remaining minions could see a thing. Her heart skipped a beat.
+
+“Did he seem stronger to you?” Calen said.
+
+“Definitely stronger,” Mato declared. “A lot stronger.”
+
+With increasing pace, all the distant minions remaining in that distant cave winked out one by one as if a dark cloud passed across the sky, blotting out the stars.
+
+“Do you think Morwynne has a recipe for a fear ward potion?” Malika asked.
+
+“She does. I have a couple in my ring, but you can’t use them if you get surprised by the fear,” Calen said, pulling out his notebook and twisting his lips into the rueful line of someone who had learned an important detail the hard way. “Also, we’re still not sure if we can damage him yet; even Lyeneru struggled.”
+
+Ali’s breath caught in her throat.
+
+The Gate!
+
+Instantly, her mind rushed back through the tunnel to the pristine white ring linking Northern Toria and Naia’s dungeon to her own. She tore it down with Deconstruction, but as her spell surged through her domain, a tendril of inky blackness reached out and blocked her. Time seemed to freeze.
+
+“Calen, when does Lyeneru get back?” Malika asked meantime. “We need to ask her to go over the details for next time. Maybe she has some tips for surviving an encounter with the Lich?”
+
+“That’s a good idea,” Calen said. “The search party is due back from Ciradyl sometime today. We can ask her then.” He jotted something down in his notebook.
+
+“Go get her!” Ali gasped, forcing her magic against the thickening ropes of death-affinity mana in the tunnel so far away. She had grown so much stronger since Ciradyl, but Nevyn Eld’s denial was nothing like before. His power was overwhelming.
+
+“What’s got you so worked up, little one?” Mato asked, his head snapping around to stare at her.
+
+“I… I can’t deconstruct the Gate!”
+
+In the deafening silence, a wide-eyed Calen dumped a tray of dark purple potions in her hands and then vanished, his body replaced with a bobbing Mote of Light.
+
+Ali paused just long enough to glance at his parting gift before downing one and passing them on. “We have to get them out! There are people down there!”
+
+You have gained Fear Ward.
+
+“Go,” Malika said. “We’ll be right behind you.”
+
+***
+
+“Everyone, leave! The Blind Lich is coming!” Ali yelled. When her voice was not enough to get an immediate reaction, she made all her minions yell it simultaneously – or screech or roar if those were all the vocalizations they had. Across her entire domain, her monsters charged at adventurer groups, brandishing weapons menacingly and screaming the same message until the stunned adventurers began to react. Immediate pandemonium broke out across the entire Challenge Arena as people suddenly realized the danger and began to flee, many activating escape skills to teleport directly out of the dungeon. The remaining Elves still residing in the partially restored ruins of Dal’mohra mobbed the teleportation runic circles she had thankfully had the foresight to place after the unfortunate incident with the Heroes of the Crimson Blade.
+
+With a simple call, she roused every minion not tied to her domain, making them converge on the library and the dense pressure she felt surging toward the far side of the Gate. He’s coming. She switched to deconstructing her side of the Gate down below on the second level near Tol’brekk, but she wrestled with the dark magic of the Lich to no avail.
+
+In moments, the entire upper plaza and the library were deserted, save for the monsters she had made for the arenas. Litter and abandoned possessions lay scattered about, and Ali had a sudden recollection of that fateful first day in the library. The day Dal’mohra fell to the Lich.
+
+She banished the image. He was coming, and she was running out of time.
+
+All that remained was for her to escape. She opened her storage, finding her recall potions right on top, as easily accessible as she could make them, and she reached with her mind to summon one to her hand.
+
+But then she hesitated, gritting her teeth in frustration.
+
+I’m always running away. He’s coming for me, and all I can do is run.
+
+She quickly encased the near side of the Gate in a thick, domain-enhanced barrier. Then she encased everything in a suddenly sprouted vault of Adamant Onyx. She squinted at her work uneasily through the eyes of Tol’brekk. Will it be enough? Then she bound all of it with thick bands of Mithril.
+
+The Blind Lich had no interest in Myrin’s Keep, her friends, nor any of the elves and adventurers that were rapidly fleeing her dungeon. He was here precisely because she was a dungeon and he had learned she was alive, presumably remembering her from that fateful day three thousand years ago. That much was certain. If she ran to Myrin’s Keep, she would be bringing doom down upon the entire town.
+
+But she couldn’t face him on her own. He was far too strong.
+
+Mom managed, somehow. Ali remembered how her mother had resisted his fear, his death magic, and his taunts. But she had also died in the end. She hesitated, doubt and fear writhing like a pair of serpents on hot coals inside her. She couldn’t flee, but she couldn’t imagine standing up to him on her own, with so few powerful minions remaining. Tol’brekk should be able to hold him off for a bit…
+
+A heavy malignant darkness burned through her barrier, making the Adamant Onyx crumble and the Mithril bands wither like dead branches scorched by the sun. Tol’brekk leapt to his feet, raising his axes. A titanic weight entered her domain, like the footstep of a malevolent god. Ali’s mind was suddenly stormed by an incredible rage, and her view of the second-floor plaza vanished.
+
+Your Carnage Berserker has been defeated.
+
+He’s here!
+
+Wait, Lira’s still up there! Ali spun and stared up at the roof of the library in dismay, not that her eyes mattered, but her mana sense picked out Lira’s mana silhouette somewhere in the forest cavern far above the library. In a flash, she teleported into the forest, leaving a surprised Glitter Dragonet behind on the plaza.
+
+“Lira!” she called, not finding her aunt anywhere. She had to be here somewhere; her mana was diffused everywhere among the grand oaks. “Lira! You need to get out of here! Nevyn Eld is in the dungeon!”
+
+A heavy thump shook the branches, making the leaves rustle unnaturally. A second thump and Ali swiveled her head in dread, staring back the way she had come; toward the library entrance and the elder tree that towered up out of the center, spreading its great boughs far above the forest canopy.
+
+Emerging from the ancient stone staircase was the gigantic form of a bone-white giant troll. Two heavy greataxes were gripped in withered fingers while the taut muscles in his arms had been reduced to writhing heavy cables under chalky skin. His lips were pulled back from his tusks and teeth in a rictus of death.
+
+Ali reached for Minion Teleport immediately, but a flicker of darkness tore through her spell formation before she could even select her target.
+
+A towering surge of dark mana appeared behind the Wight of Tol’brekk, and the gaunt, robed figure of the Blind Lich appeared from behind the troll, floating inches above the moss and dirt as he approached. His crimson blindfold sparkled brightly with the delicate formations of soul mana runes stitched into his face. The oppressive wave of despair surged outward effortlessly from his mere presence, asserting his will and magic on her domain like a millstone.
+
+Ali gasped, involuntarily shrinking backward until her back found the thick trunk of a Lirasian Oak, heavy bark and knots pressing into her skin. His aura tore at her heart and mind like a ravenous wraith, and the Fear Ward suddenly felt flimsy and weak, like she was trying to hide from a torrential storm behind a single sheet of tissue paper. But somehow, impossibly, it seemed to hold – enough that she could at least force thoughts past the icy dread threatening to engulf her being.
+
+“Nice toy, but he was better as a Death Knight,” Nevyn Eld rasped in a voice more suited for the underworld. Uncanny echoes sent chills down Ali’s spine – chills that had nothing to do with his magical aura of dread and everything to do with a field mouse staring at the diving hawk. “You shouldn’t have meddled.”
+
+Ali opened her mouth and then shut it again. What could she even say to a menace like him?
+
+“Kill her.”
+
+“I… I’m… sorry…” Tol’brekk grated in a voice that seemed to come from the far side of the grave, and then he leaped into the air, axes whistling.
+
+Golden barriers flickered into existence, deflecting powerful axes with the crack of heavy bloodsteel on impervious glass.
+
+“You know, I could have left you alone,” Nevyn Eld said, continuing in an incongruously conversational tone while Ali fought for her life against the whistling axes and ominous silence of the bone-white undead troll. “But you had to go and poke your overly inquisitive nose where it didn’t belong. Just like your mother. You have no idea what you’re messing with – no idea how the realms really work, nor the forces that exist out there.”
+
+Ali encased herself in a dense bubble as Tol’brekk unleashed a powerful double cleaving strike, and she triggered Minion Teleport. But those black tendrils of death mana shot out from the Lich again, and her spell evaporated before she could finish it.
+
+“Where do you think you are going? Just like your mother, defiance to the end. Futile! At least you have reached a high enough level to be of some limited use to me.” Nevyn Eld raised his hand once more. The wide sleeves of his robe fell to reveal his withered hands, no more than blackened talons, but filled with fearsome unlife.
+
+Ali recognized the formation forming within his body. She recognized the horrific Sacrifice skill even before it was fully completed. In that moment, she understood the depth of the contempt he held for her. How insignificant he believed her to be. He did not even plan on fighting her, he intended only to rip her soul from her fear-incapacitated body.
+
+But she would not go down without a fight. Cornered, unable to flee to the town, she did the only thing she could think of; in a fraction of a heartbeat, she created the anti-formation and unleashed her Disruption. The golden needles of her arcane spell lanced outward, zipping under Tol’brekk’s whirling axes and puncturing the Lich’s dark spell formation as it coalesced, ripping it to shreds.
+
+An annoyed hiss echoed from the trees. “You! You will regret that,” he roared, forming a dark roiling ball of death magic instead – the same spell he had used to attack her mother – and launched it directly at her heart.
+
+Her glittering barrier sprang into place before her, more than enough to cover her entire body in a thick layer of transparent gold. The bolt of necromantic death magic slammed into it, detonating with a bang, and whizzing off to the side in a shower of black sparks and knocking Tol’brekk’s feet out from under him. The undead monster rolled, springing back up in a ring of dark, withered moss – not visibly harmed in the slightest.
+
+How did that… work? Despite her dire situation, the surprise at seeing her intact barrier holding against the overwhelming force of his potent death magic kindled a tiny spark in her chest. I am… stronger? What changed? Maybe I can get out of here? She had been convinced it would shatter, and the consequences of finding her magic to be insufficient did not bear contemplation. But she was still alive.
+
+“Annoying pest! Just like your mother,” the Lich spat, unintentionally triggering a surge of pride in Ali’s heart. But he continued with ice-cold anger lacing his unnatural intonation, “And like her, you will surely perish.”
+
+Ali gritted her teeth, but a different formation sprang up within the darkness of his form.
+
+The sheer power of the new rush of mana surging within him staggered Ali, pressing down on her with nothing more than the intensity of what he was about to wield. It was a spell far more potent than most domain-empowered spells she had studied. The very same skill that had taken Nendir’s life right before her eyes. The same skill that had incapacitated Lyeneru in the final battle for Aman Rak. Yet this working was far stronger than either of those.
+
+Decrepify!
+
+Ali threw her mana into her barrier, gathering all the surrounding domain mana as well. She thickened and fortified the shield with all the power she could muster while staring aghast through the golden wall at the impending doom that mounted within him. The dark bolt of energy shot forth from his hand in a stream as thick as her torso, smashing into her barrier with a force that shook the very ground. Had her back not been braced against solid oak, she might have found herself smashed into the next realm.
+
+Despite her resistance, he didn’t relent. Magic poured from the Blind Lich like a torrent drawn straight from an underworld ocean. Her pool filled instantly from mana reclaimed by her barrier, blasting out in all directions as a cascade of sparks, but it wasn’t her mana she was worried about.
+
+Crack!
+
+The sound she had been dreading pierced through her soul. A distinctly loud crack. Right down the center of the strongest barrier she had ever wrought. Decrepify fractured her barrier.
+
+Crack! Crack!
+
+Another crack shot out from the epicenter of his spell. Then, another.
+
+In an act of pure desperation, Ali reached for her Life Channeling. From deep within the core of her being, she felt her soul being shredded as she fed her life essence as kindling to fuel her magic. A tiny golden speck floated up from her hands and pressed up against her barrier. Another speck drifted away, her life spent to power her barrier. More and more in number, they began to float up and her barrier grew rapidly denser, projecting a shimmering, thrumming aura as the force of her mana pushed several meters of moss and dirt away. The cracks vanished as she poured more of herself into opposing the Lich.
+
+“I don’t think so,” Nevyn Eld declared. “That will not work on me a second time.”
+
+A bolt of his Sacrifice spell shot off to the side, and the Greater Wight of Tol’brekk collapsed like a marionette with its strings severed by a reaper’s scythe. The immense energy within Blind Lich suddenly multiplied, growing several-fold stronger in an instant. The oppressive aura of despair crashed down on Ali, driving her to her knees as his dominating power ripped her Fear Ward asunder like a giant troll crashing through a spiderweb.
+
+Ali’s scream echoed silently in the shattered halls of her mind. Her will, her grit, and her life channeling snuffed out.
+
+It cracked. In an eyeblink, her barrier shattered into a thousand shards. She stared helplessly down the oncoming bolt of death framed picturesquely by the cloud of sparkling gold barrier fragments, flying slowly end over end. A tiny spark of her mind contemplated her death with the aid of her drastically enhanced mental speed.
+
+I tried. Mom… I tried.
+
+She had given everything, and in the end, she wasn’t enough. She didn’t know who she was trying to reassure. Herself? Her mother? Her friends? She was going to die, and with it, Nevyn Eld would raise a fearsome death knight from her corpse to serve him. Inwardly, she quailed at the anguish she had heard in Tol’brekk’s voice as he was forced to attack her. That will be my fate. She just hoped that with her death, and him getting what he wanted, he would leave her friends and the town alone. Not much chance, the tiny spark of her that was unburdened by the aura of despair answered. She stared at the roiling ball of oncoming death.
+
+A gust of wind blew a cloud of leaves across her field of view, dancing and fluttering. Leaves that glowed bright green with nature mana. Leaves that she could see right through. A dense cloud of verdant wisps spontaneously manifested from the air as a ripple of dense nature-affinity mana rippled outward.
+
+Suddenly, Lira stood there, kind eyes smiling down at her, and the despair seemed to fade.
+
+“Aunt Lira?” Ali stared at her in bewildered surprise.
+
+“Aliandra, dear. Please run.”
+
+A bone-shattering explosion rocked the forest, flattening trees in a detonation of splinters and sap. Yet miraculously, she still knelt there looking up at Lira.
+
+Ali froze, her lungs seizing as Aunt Lira jerked in front of her, a shock of darkness ripping straight through her chest. A wheezing gasp escaped her lips. For an instant, Ali saw only the gaping hole where her aunt's heart should’ve been, an impossible emptiness framed by the scorched edges of her leaves and flesh. Her mind bucked violently against the sight, refusing it, denying the sudden collapse of Lira's body onto the scorched and withered moss beside her.
+
+She crawled forward without feeling the ground on her knees, breath caught somewhere deep inside, her throat tight enough to choke. Hands shaking wildly, she reached out, fingertips brushing her aunt’s skin – still warm, impossibly warm – but Lira’s eyes stared past her, blank and glassy. Ali pressed both palms desperately against the wound, but her hands were too tiny to block the warm, sticky sap that pulsed weakly between her fingers.
+
+“No –” she rasped, voice cracking, breaking under disbelief and terror. “No, no…please –” The words dissolved, smothered beneath a thickening silence. Ali clung harder, as if holding on tightly enough might keep Lira there, might make the nightmare disappear. But already, beneath her trembling fingers, her aunt's vibrance and life stilled into nothingness, taking every trace of warmth with it.
+
+A hissing cackle echoed in the silence.
+
+A strange rushing noise swept through the dungeon as every last shred of Lira’s mana was suddenly drawn into her body, forming an intense glowing kernel of green within her breast. And then it winked out, leaving only the soft echo of Lira’s fading voice in her mind, “… run …”
+
+“A… Aunt Lira?”
+
+“Oh, my. What a lovely surprise,” Nevyn Eld drawled. “The Great Mother of the Deep Woods herself.”
+
+Ali looked up in a daze, not comprehending what he was saying.
+
+“I came for a pest, and I caught the prize.”
+
+What… what is he saying?
+
+“Arise!” the Lich intoned.
+
+Under Ali’s desperate embrace, Lira stirred. Against all odds, she moved.
+
+She’s alive! For a brief moment, hope surged in Ali’s heart.
+
+But the thing that stood up was no longer her aunt. The kind person who looked out for her, offered emotional support when she was down, made tea for her, and listened to her problems and worries was nowhere in sight.
+
+A shiver of dread took Ali, and she recoiled as the… thing… shook off her hold.
+
+It got up wearing Lira’s shattered body and walked calmly over to the Blind Lich without even a backward glance. When it arrived, it placed its hand upon a floating pyramid of black stone. Runes flared to life, and suddenly Ali was driven back down by the oppressive force of dungeon rage that tore into her mind with the power of a thousand daggers. It was like nothing she had ever felt before, dwarfing even the dungeon rage she had been forced to endure from Alexander Gray’s Lyton Ruins.
+
+Ali’s mind was swept away in the onslaught of power and pain.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

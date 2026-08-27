@@ -1,0 +1,79 @@
+---
+id: d26c061c-f3d7-56e8-9f41-8538f1ad91f5
+page-type-slug: story-chapter-royal-road
+title: "Ch32 Tension Rising"
+slug: 0032-ch32-tension-rising
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 32
+ownLength: 834
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3274537/ch32-tension-rising"
+royalRoadId: "3274537"
+---
+
+The sun rises, and many flying vessels leave the Red Pine Market.
+
+Groups of independent rogue cultivators trade out their stalls for new arrivals, and Azure Cloud Sect members swap out with other disciples, heading back to the sect.
+
+In this world, many cultivators do not sleep every day. Some naturally stay up for many days at a time, so the concept of resting when there is no light in the sky only applies to mortals or weaklings.
+
+A jovial fat man and his late-stage qi refining brown bear make their way out of the back entrance of the market.
+
+“Every fruit sold out. That was my cut of the Wang Family’s yearly low-end stock. It’s just enough to buy a Barrier Breaking Pill and try for the late stage of qi refinement again. Mantou, I won’t let you down!”
+
+He affectionately scratches the brown bear's side, then sets off toward the small flying vessel rented out to him by the Azure Cloud’s Beast Mastery Peak.
+
+Meanwhile, still beneath the Red Pine, there is another stall in the market that is going through a change of staff. It is the Mu Family General Store.
+
+“Niece, how was the night shift? Did you meet the selling quota?”
+
+“Senior Uncle, I did meet the set selling quota.” Mu Shulan bows with clasped hands to her father’s brother.
+
+“But…” she starts to continue while pulling out a storage bag with the Mu Family character on it.
+
+“But what?” Mu Zhiheng murmurs, taking the bag.
+
+“I did buy an expensive item from a customer today. It cost me a thousand spirit stones, along with a low quality bow, some arrows, and two stacks of mid-grade talismans.”
+
+“A thousand stones? For one item? And all that?” the tall, bearded senior raises his voice and begins to get angry, but breaks the imprint seal on the storage bag in the same instant.
+
+He freezes in place, staring at Mu Shulan as she bows her head.
+
+“Who… who was the buyer? Was it a fellow known foundational clan? Or was it an inner disciple of the Azure Cloud Sect passing by?”
+
+His expression twists in confusion, trying to think of any allies and why they would sell such a treasure to them.
+
+“I don’t think so…” Mu Shulan responds.
+
+“Did you get their name? Cultivation level? Any clues or distinguishing factors?”
+
+The timid woman wracks her brain, trying to remember what cultivation level this seller had. Then, realizes they had no cultivation level at all… it was like she was talking with a mortal.
+
+The Red Pine concealment talismans do not hide a cultivator’s aura, and mortals cannot imprint storage pouches, so the only logical conclusion that comes to mind is that they are far stronger than her, unable to be seen through.
+
+She gulps, remembering his last words, stating that if she wants to buy more of these perfected items, she cannot have anyone coming to look for him.
+
+“No… nothing. It was truly an anonymous transaction.”
+
+Mu Zhiheng clicks his tongue and thinks to himself for a while, but ultimately praises his niece, lets her leave the market, and takes hold of the dagger to present to the clan himself once he returns.
+
+–
+
+Over 1,500 kilometers away, deep within the Ravine outside the servant camps, a meeting is taking place.
+
+A dark-robed old man with burning red eyes sits on top of a black stone chair. He speaks in a raspy, low tone to many other black-cloaked figures kneeling in front of him.
+
+“Our scout has not reported back in over a week now. Mo Cheng is not the type to desert, but he also practices the Illusory Demon’s Concealment Art. It is unlikely he would ever be caught unless he deliberately showed himself. There must be a strong unknown entity among the servants, one that used perfected poison arrows…”
+
+The dark-cloaked old man raises a hand, holding a purple and black arrow, letting a small amount of poison mist enter the underground room they’re in, then allows it to fall back into his storage ring.
+
+“Considering our stronghold has not been raided yet, they must be working alone. We must find out who this disguised servant or steward may be, and eliminate the threat before the Azure Cloud Sect gets any information.”
+
+A few of the kneeling Blood Sword Sect members raise their hands to volunteer, and quickly a new scouting team is formed.
+
+Above ground, the sun has fully risen, nearing noon. A flying vessel returns on the horizon, slowly making its way toward the closest steward quarters.
+
+Yet, just as it does, an overwhelming pressure pulses outward from one of the thatched huts deep within the log-cutting forest.
+
+The sky above turns a deep purple hue, and the imagery of a warrior woman 5 kilometers tall, like a massive holographic display, can be seen from every single servant camp. It lets out an ancient battle cry and radiates an eerie killing intent throughout the forest.

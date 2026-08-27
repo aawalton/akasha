@@ -1,0 +1,103 @@
+---
+id: ed9d7775-7a34-5223-9234-165b1acca5ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 296: Anvil of the Emberforge"
+slug: 0331-chapter-296-anvil-of-the-emberforge
+partOf: dungeon-of-knowledge-complete
+position: 331
+ownLength: 2031
+unit: words
+ownProgress: 2031
+publishedAt: 2025-06-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2397233/chapter-296-anvil-of-the-emberforge"
+royalRoadId: "2397233"
+markedReadAt: "2026-06-29T20:22:33.194Z"
+---
+
+Ali’s chime sounded again halfway through the final scalding chamber, but she ignored it until she and her small army of minions were done seeding her domain throughout.
+
+Grimoire of Summoning has reached level 40 (+3).
+
+This will have to do, for now, Ali thought, surveying her work and deciding she was happy. It had taken substantially longer to claim the entirety of the Emberforge Mines than it had to wipe it out on their last delve, but she finally stood on the stone dais before the great lava pool in the final chamber of the drake wing, feeling the soothing caress of her own domain mana playing across her skin instead of the hungry flames of the previous occupant.
+
+Three giant oaks towered in the open space where the Corrupted Fire Drake had once slumbered, and Flame Lashers graced the walls around the giant lake of lava, creating a beautiful sea of fire flowers across the entire back wall of the chamber. Several of her Moss Creepers got too close to the lava and had caught on fire, but their flames were hastily put out by the observant Acolyte patrolling the chamber like a herder. A couple of Creepers had leveled up just from the environmental damage, but it would take some concerted effort before they were high enough level to access the full extent of her Grimoire imprints. Still, they saved so much time Ali was just grateful she could make so many. Finally, she turned to the cracked and worn ancient artifact that remained.
+
+Anvil of the EmberforgeThe once legendary anvil of Thovir Emberforge, now cracked and shattered, the light of its magic runes long faded.Quality: Legendary (Broken).Anvil – Artifact
+
+Thuli will be so sad that it’s broken. Can anything be done about it, or learned here? There must be something.
+
+The anvil and the forge seemed to have originally been hewn from a single enormous block of Adamant Onyx and imbued with inlaid runes made from various kinds of silvery metals, runes which were now quite dead, lacking the mana that once gave them energy and power.
+
+Ali was no blacksmith, but she had visited Thuli’s Steelworks often enough to recognize some of the pieces. A semicircle of massive blocks of that same heavy black stone had been built into the dais forming the basis for the forge, presumably with some affordance for using the great pool of lava as a source of fire-affinity mana and heat. But it was the centerpiece – the giant anvil of Adamant Onyx that captured her eye.
+
+Once, she believed the dense stone to be indestructible, but with the shattering of the Shrine of Aman Rak, Ali had to revise her opinion. Here too, the surface of the artifact was marred by cracks and what appeared to be large claw marks, severing the delicate runework and turning a masterpiece of dwarven craftsmanship into so much heavy rock.
+
+As was her habit whenever presented with new magic, and having sufficient time to study it, Ali pulled out her notebook and began to transcribe whatever she could of the incredible runic formations that had once powered the legendary anvil of Thovir Emberforge. Given that so many sections of the construction had been broken, some to the point that she couldn’t even make out the original runes, Ali found herself frustrated in a way that not even the Blind Lich’s array had evoked. Time and again, she found herself speculating, guessing what must have been inscribed, deducing the original structure from what she understood of rune circuit theory and what still remained.
+
+A distant pulse of divination and arcane mana prickled in her awareness and Ali glanced up from her work as she searched out the unmistakable signature of Ryn returning from the library in Ciradyl. I hope she found it, Ali thought, immediately teleporting back to see what her friend had unearthed. Ali had taken several trips to the library, hunting down reference books to try to infer what the missing runes might have been.
+
+“Did Ciradyl have it?” Ali asked, eyes glued to the heavy brown book Ryn had clutched under her arm.
+
+“Nope,” she said, grinning. “But Thorel Moldur’s library had it! It has been lying forgotten under a pile of broken shelves in a storage room for centuries. I had to use my Seeker skill to even find it. The Dwarves very nearly didn’t let me leave – I had to promise you’d make them a second copy.”
+
+“Thorel Moldur? You have a library locus in the Dwarven city?” Ali asked. “How… when did you get that?”
+
+“Yup!” Ryn said, grinning smugly. “I paid for transport from Ciradyl while you guys were off in Aman Rak. They have a lot of references in their library that Thuli wanted. Here you go, will this work?” She held out the well-worn book she had found.
+
+Ali inspected it, hope blooming within her at the sight of the title in the angular script of the Dwarves.
+
+Advanced Smithing Enchantments for the Fire-Affinities. Thovir Emberforge.
+
+“Thuli is going to have a heart attack when he sees this,” Ali said, quickly duplicating the priceless tome twice and handing the original and one copy back to Ryn.
+
+“Thanks,” Ryn said. “I’ll be back!” And she vanished in a puff of purple and gold.
+
+Those Dwarves must have been really anxious, Ali thought, eyeing the motes of Ryn’s abrupt departure. “Come, Clarence, I need your expertise,” she said, coaxing the recalcitrant book who was lurking on the table nearby.
+
+Clarence shook back and forth and then bumped his ball forward a little.
+
+Ali sighed, “Sure, I will play with you for a bit, but only if you come with me and let me study a few things down at the anvil, ok?”
+
+Clarence perked up immediately and took to the air, circling Ali’s head.
+
+“Ok, let’s go.”
+
+Time passed unnoticed in the deep mine cavern, but with Thovir’s ancient tome, and the insights from her mother’s work, Ali slowly peeled back the layers of mystery and pieced together the clues, allowing her to finally interpolate most of the missing runes – at least to her satisfaction.
+
+But what should I do with it? It was a hunk of rock – a once-beautiful, legendary rock, but scrap, nonetheless. I couldn’t deconstruct it. It was far too important a historical artifact to simply sweep away and put in the trash, and she knew at least one Dwarf who would be dying to visit it.
+
+Maybe I can spruce it up a bit? She could make adamant onyx, and she knew how to inlay metal runes to take the magic of Runic Script. But her scholarly imagination soared with the possibilities as her notes and intuited runic forms swirled in her mind. Could I fix this part? she wondered, her fingers tracing a crack that split an ember-affinity rune she had just found in Thovir’s manual.
+
+Maybe just a few pieces, she decided, unable to restrain her curiosity or the swelling of hope. No, that’s just silly. Start with the simpler parts.
+
+Ali conjured a barrier to sit on and summoned her Grimoire to hover on her left. She placed her notebook on her lap, open to the notes she had made. Thovir’s heavy tome rested on her barrier beside her, open to the rune she wanted. Excited by the activity, Clarence swooped down to hover beside her, as if scrutinizing the project, even his precious ball forgotten. Ali stretched the fingers of one hand against the palm of the other and then switched to stretch the other hand. She made two fists and then wiggled her fingers to limber them up, and then she began to create Adamant Onyx, filling the gaps and knitting the wounds in the ancient artifact just like Malika would repair the horrific slashes in Mato’s hide. Metal flowed, created by Domain Mastery and shaped by a duet of Runic Script and Sculpting. Her mana resonated through the senses of her Arcane Insight and Sage of Learning roared within her mind.
+
+Several hours later, Ali stopped to examine her work. The anvil was in far better shape than before, now a gleaming, polished edifice of stone, sporting thousands of runes that filled every surface with their delicate inlaid tracery. To her surprise, most of the runes were crafted in fire, ember, and arcane affinities, but there were several subtle sections of soul magic in there, too – knowledge she had earned from her studies of the Lich’s work. Bridging the gaps of the larger missing sections, Ali had spun the green and golden runes of her own arcane and nature magic; clearly not the original design, but her best attempt at solving the problem without having any of the original blueprints to work from.
+
+She lowered herself to the ground and then grew Peacebloom and Soulshade Blossoms around the entire dais supporting the anvil and the forge, surprised that the delicate flowers seemed to thrive even in the intense heat of being right next to the lava. But they were essential for the final step in her plan.
+
+As soon as she saw the domain drawing in the soul magic from the white and blue flowers, twining them all together with the affinities of nature, arcane, and fire magic, she bent her domain. Nothing to it; just like that Rune of Living Flame down in the Landing, she thought. Only a billion times more complex. And with that, she infused the anvil with her domain.
+
+As if a great blazing ball of light and mana had kindled within, the ancient stone artifact shone. Rays of light shot out into the subterranean chamber through the intensely glowing runes that covered its surface. Metal melted, and stone flowed together, smoothing out the last blemishes as the magic within built to an intense shining crescendo.
+
+Her breath snagged in her throat. Could it be?
+
+[Zone] The Anvil of the Emberforge has been restored. Arcane Insight has reached level 56.Grimoire of Summoning has reached level 42 (+2).Runic Script has reached level 49 (+3).Sage of Learning has reached level 45.Domain Mastery has reached level 32 (+2).Anvil of the EmberforgeThe legendary black anvil of Thovir Emberforge. It shows heavy use and appears to have a network of cracks that emit a powerful heat and red glow from within, while delicate runes trace the surface, imbued with power. This anvil has been restored by the Dungeon of Knowledge. Owner: Aliandra Amariel.Requirements: Smithing class. +10 to all Smith skills.+43 to Perception.+50% to Fire resistance.+50% to stamina regeneration.Grants level 41 Metal Sense skill.Grants level 38 Mana Sight skill.Domain Tithe: The Anvil of the Emberforge draws heavily upon the mana of the domain, granting a 50% reduction to the mana cost of Smith skills. Experience earned toward Knowledge and Mastery traits is greatly increased while using the anvil. A portion of this knowledge and experience, and the imprints for items crafted and repaired upon the anvil, is tithed to the owner. Quality: Legendary.Anvil – Artifact
+
+Oh. Oh, my…
+
+Ali had had a basic idea of what the anvil had been capable of, just from studying and working on the runic structure for so long, but she hadn’t expected to fully restore it. She had just wanted to see if she could figure out the complete runic structure, and if she could learn something in the process. And had hoped to pretty it up a little for when she showed it off for Thuli. Apparently, she had gotten carried away. She could not wait to see that Dwarf’s face!
+
+Heart racing from the aftereffects of hearing that zone gong, Ali stood frozen in amazement, staring at what she had just wrought. The attachment to her domain and the influence of her skills had created something new – an anvil artifact that was a part of her dungeon, imbued with the effects of her Domain Tithe skill. A feature she could scarcely believe.
+
+Clarence bounced into the air and swooped around the anvil, returning to her and landing in her lap.
+
+“Yes, Clarence,” she said, patting the excitable book. “You did great, too!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,210 @@
+---
+id: 443944a9-c029-5426-b170-411ce4a01494
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62: A Full House"
+slug: 0077-chapter-62-a-full-house
+partOf: ends-of-magic
+position: 77
+ownLength: 2700
+unit: words
+ownProgress: 302
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3134265/chapter-62-a-full-house"
+royalRoadId: "3134265"
+---
+
+That night, the Heirs gathered in their suite once more. After they’d returned to the Golden Respite they had all split up to their own tasks. Aarl had gone to see Slick to prepare to fight a variety of different Questor builds, while Stella and Sarah had found Kaelis to discuss their planned speeches. Khachi had joined the broader Questor discussion on planning out the future of Davrar, and spent some time cloistered with Phryne.
+
+Nathan, meanwhile, had stayed in their suite and worked on his Insights. He had some ideas for what might save him against his most likely counters, but they were not simple concepts. Early Insights could be fairly basic as long as they were profound, but most of the critical abilities he was thinking about were Developed enough that it was getting difficult to come up with sufficiently insightful ideas to trigger further advancements. Some of his abilities were built on whole fields of knowledge from Earth, and writing them down would have required a textbook. That had worked for him in the past — most notably for the Regeneration Talent — but at this point, he could only make Developments while under significant threat.
+
+The requirement for deep, complex ideas inherently conflicted with the stipulation for mortal danger. But Nathan had a solution to that in his mind palace skill. He could wrap up the Insights in his mental construct and have them ready to pull out when in the middle of a fight for his life. He had started to get a sense for when he was on the right track, and spent the entire afternoon and into the evening chasing that elusive feeling and optimizing the Insights until they fairly hummed with potential.
+
+Dinner gave lie to Evesor’s words, with quite a bit of flavor and not the faintest hint of poison. But it was getting late, and Nathan was starting to get antsy about the Heirs coming back. He almost spread his senses through the building to locate them, but then he relaxed when he felt them coming down the hall in a group. They’d all had busy and productive afternoons, but it was time to turn in for the night to be sure they’d be in top form for tomorrow.
+
+“How’s everybody feeling?” Nathan asked. “Any last-minute concerns?”
+
+“Just reconciling with the prophecy of death,” Aarl replied dryly. “And that this is a worthy cause for it.”
+
+Stella fidgeted. “Not to smother our fire, but I have a request. If I die, I want somebody to go back to Gemore and tell my parents…” she trailed off, having trouble putting her thoughts into words. The rest of the Heirs waited, giving her the chance to order her thoughts. “I want them to know that there’s more beyond Gemore, and I hope that the Archive and the Insights mean they can leave their posts. We’ve done so many things that were impossible in Gemore. Seen magic unknown to our home continent, and learned deep secrets of Davrar. Freed a second nation, one even more powerful than Giantsrest. Humbled the Questors on their own battlefield. There’s so much more to do. I want to see the underworld. To find a dragon. Cross the sky. But the conclave is a worthy task, and I am free of regret if it should be my last one.”
+
+“It’s our oath,” Sarah said simply. “We swore to do this or die in the attempt. Now we’re here.”
+
+Khachi chuckled, and it sounded like the crackle of a divine flame. “We did not swear upon our deaths.” He quoted from memory. "'I vow to fight the Endings themselves. I will prevent them from happening at all. May my class be stripped from me if I forswear. I will protect the people of Gemore from that which would assail them, be it monster, person, or Ending.’ That is the oath we swore. Now we are here, fulfilling the pledge we made long ago. This is right. We have been on that Path since we swore on the Seal of Gemore, on the very power of Davrar itself.”
+
+Divine power swelled in the room, terribly potent. Nathan retreated a step to avoid interfering with the ritual that Khachi was assembling. It had a new cadence, and the divine mana that usually flowed free and strong obeyed the cleric’s words like an eager hound. Nathan couldn’t help but wonder if he’d learned something new from Phryne.
+
+“By Oath, we will not turn aside. Scorn, fear, and lies shall not hinder our path.” The air rang with the words, as if the aether itself were a brass bell. “We will press onwards until the Questors hear our words over their pride.”
+
+“By Deed, we will not yield. Blood and violence will not bar our way.” His radiance sharpened at the edges, a steady blaze held firmly in hand. “If words fail, then steel and spell will speak in our stead, with Davrar as our true witness.”
+
+“By Death, we will not end. Our pledge is not broken so easily.” The light condensed around him and the other Heirs, shepherded into a form of Khachi’s choosing. He poured his own power into it, leashing it to form and function. “Our vow sustains us beyond the power of our bodies, anchoring our will to Davrar until it is fulfilled.”
+
+The magic settled into the Heirs, imbuing them with the strongest blessing Nathan had yet felt. He wasn’t quite sure what it would do. But based on the words of the prayer, he had his guess. “Will that work?”
+
+Khachi clapped his hands, the mundane gesture contrasting with the fading glow of divine power. “Only prophecy can say. Now, let us rest, for we fight for the world tomorrow.”
+
+Aarl chuckled, moving his arms around and watching the shimmering magic sink into his skin. “Hear me, it’s worth being bold. We’re as ready as mortals can be to challenge a society of immortals.”
+
+Nathan found sleep easier than the night before. Engaging with the preparations for the day had helped center him on the details of what needed to be done, rather than the terrible weight of responsibility for the task before him. He didn’t feel fully ready for what was to come, but he had enough pieces he could assemble on the fly. That was likely the best it was going to get.
+
+The Golden Respite was notably busier the following morning, and the Heirs breakfasted in a room bustling with Questors getting ready to go to the conclave. The Heirs were an object of fascination to most, and though Nathan recognized some from the Ashen Accord and the war, most of the newcomers had come for the fine food and a chance to gawk at the mortals who’d managed to get a conclave organized.
+
+“They’re talking about you,” Sarya said, eyes sweeping around the room. She’d been hovering ever since the Heirs had emerged from their suite in the morning, and was testing nearly all of the food being served to the Heirs with the same mixture that had outed Nierna as a traitor.
+
+“I can hear them,” Nathan replied calmly, returning the gaze of a table of Questors as they stared at him. “It’s like they’ve never seen a mortal before. Or at least one they had to care about.” He relented at Sarya’s frown. “It’s not that bad. But I still feel like an animal at a zoo.”
+
+“An apt description, from your description of zoos,” Khachi replied. “But now it is time for the animals to speak and protest their enclosures.”
+
+Nathan nearly coughed up the fruit juice he was drinking. “That’s one way to put it.” He couldn’t help but wonder what would have happened back on Earth if the elephants had asked for better conditions. Though the current situation was closer to what would happen if a chicken appeared on the American State of the Union address and politely requested a stop to factory farming.
+
+He noticed the empty plate in front of him and how everybody else was just picking at their food. “Is everything ready? Where are we meeting Kaelis?”
+
+“We’ll collect him,” Sarya replied, standing to lead the Heirs out of the room, a hundred pairs of eyes following them. “He’s been busy playing the game of politics up until the penultimate hour.” She shuddered. “I’m glad to have given up that task.” Nathan gave her a meaningful look and she corrected herself. "Mostly gave up politics. I am no longer a major player in the game."
+
+Kaelis was walking and talking to a trio of Questors wearing clothes in a riot of colors. He made a show of checking the time and apologizing, saying he needed to prepare for the conclave. They didn’t seem to want to let him go, pushing for firm assurances that the upcoming conclave wouldn’t touch illusion magic. He commiserated but didn't give firm commitments either way before joining the Heirs. The six of them left the Golden Respite to find the five elder Questors waiting in the lobby under a surprisingly powerful look-away spell made of divine mana.
+
+Nathan raised a hand towards the Questors. “Coming?”
+
+Colborn cackled and jumped to his feet, holding out his hand towards Phryne with a gleeful expression on his face. “I told you!” The attention-deflection spell crumbled at his sudden motion.
+
+Phryne grumbled but reached into a pocket and withdrew a crystalline sword, slapping it blade-first into the short Questor’s hand. It reeked of both wizardry and divinity, but not the offensive kind. It felt more like a key? But before Nathan had the chance to do more than speculate, Colborn stuffed the object into dimensional storage.
+
+“Here to escort us?” Kaelis asked, looking around the crowded lobby and the dozens of Questors surprised at the sudden appearance of living legends. “Is it necessary?”
+
+“I don’t trust Evesor a planck length,” Mirus said grumpily. “We know he’s hired assassins already. Let’s dare them to die.” Once they got outside, she wrapped them in a subtle barrier of wizardry that displaced the group from the world outside. It was like one of Badud’s spatial barriers, but both less obvious and more powerful.
+
+They flew towards the Arena of the Concord, avoiding the crowds on the ground. Thousands of Questors were converging on the giant building on foot, but a similar number were flying in, entering through new openings in the sides of the sphere. Nathan expected them to split up, but instead, the entire party flew directly towards the stage. It was currently in the form of a hollow crystal sphere, still floating in the dead center of the arena.
+
+The arena wasn’t full of Questors yet, but there were already tens of thousands present. Threads of magic in the air muffled the chatter coming from the audience, but it still picked up audibly as the Heirs and Questors approached the central platform. Nathan was wondering if they were going to land on top, but right as they were about to reach it, the stage reverted to a flat platform.
+
+The eleven of them landed and stood there, gazing out at the mass of Questors surrounding them from every angle. More filed in with every moment, some flying in from outside and others lifted to their seats by floating platforms ascending from the entrances below. As Questors approached their seats they flipped around, adjusting to the altered gravity which ensured everybody had a comfortable viewing angle.
+
+“Are we just waiting for the appropriate time?” Nathan asked, feeling the nerves he’d previously conquered starting to rise up again. He had tens of thousands of Questors watching him at that very moment. They sounded impatient. It was not doing wonders for his nerves, so he deliberately stabilized his mind.
+
+“Indeed,” Kaelis answered, sounding a bit nervous himself as he gazed around at the crowds. “For this moment, stay straight and don’t look bothered.”
+
+“Easy enough,” Aarl said, stretching slightly. “We stand here, we look heroic, and then we either talk them into it or hit them until they agree. That perfectly matches our skills.”
+
+Nathan glowered at Aarl. “Except you aren’t the one doing the talking.”
+
+Aarl shrugged, as if he didn’t see the problem. “I said our skillset. You and Khachi talk, the rest of us hit things." He tilted a hand towards Stella. "Or blow them up."
+
+"Thank you," she replied in a tone that feigned indignation.
+
+Nathan rolled his eyes, but even forced levity helped him feel better. He looked around, using his magical senses and enhanced vision to pick a few familiar faces from the crowd. There was a clear section off to the side that was guarded by Slick and other Questors of the Ashen Accords, and Nathan figured that was where they’d be sitting when they weren’t talking or fighting. It was just slightly below the stage level, so the seats were aligned with normal gravity. That was good, because it meant Nathan would be able to sit down properly instead of floating on his skills.
+
+The Aleph Grid and their allies were on the opposite side of the arena from the Ashen Accord and their own allies. Evesor was the centerpiece, with a court of Questors spread around him. There were others there as well, including the speedster who had recently sliced Nathan into pieces. He had replaced his resplendent armor with another set that looked made from adamantium, but it didn’t have the divine golden glow of his previous gear. Nathan swore that the man met his eyes and glared hatred across the distance separating them.
+
+Well. I knew I was going to have to fight a bad matchup. Good to have confirmation.
+
+Then Nathan fell into inspecting the rest of the Questors. He’d met quite a number at the post-war party and across the battlefield, though they paled in comparison to the numbers that were on display here. He hadn’t expected the attendance to fill the Arena of the Concord, but it was looking more and more likely as people kept appearing. “Are conclaves usually this well-attended?”
+
+“No,” Kaelis said. “But you have captured our interest. A few moments from the battle have been viewed widely. The words ‘could have fooled me’ have become a rather common insult.”
+
+“Ah,” Nathan said, wetting his lips and remembering the moment he’d retorted to Kamus after ripping the man’s spine out. “I suppose that makes sense.”
+
+“More are watching remotely!” Colborn said gleefully. “Though I won’t say how many.” Then he cocked a bushy eyebrow at Kaelis. “It’s time.”
+
+A tiered platform rose from the center of the stage, a half-dozen steps up to a bare area twenty feet across. Kaelis steeled himself, then climbed up. The crowd hushed as he ascended, and he seemed dazzled for a second before speaking. His words were clear and direct, some aspect of the arena carrying them clearly through the entire space without making them boom or echo.
+
+“Questors of Davrar. By right of calling this conclave, I cede the opening statement to Nathan of Gemore. Mortal, End of Magic, and proven in deed against Questor, blight, and war!” He glanced down at Nathan and beckoned him up. “Hear him fairly, for he sets before us the question of the age.”
+
+Permanent Talent 1: Magical Destruction 7
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 6
+
+Forewarning 10
+
+The Truth of Magic 7
+
+Evasion 5
+
+Wizard’s Palace 6
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

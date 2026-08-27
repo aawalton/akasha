@@ -1,0 +1,199 @@
+---
+id: bcb1db20-4acc-51af-b8c9-c946450d6f7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 507: Into the Danger Zone"
+slug: 0547-chapter-507-into-the-danger-zone
+partOf: dungeon-of-knowledge-complete
+position: 547
+ownLength: 5342
+unit: words
+ownProgress: 5342
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2945535/chapter-507-into-the-danger-zone"
+royalRoadId: "2945535"
+markedReadAt: "2026-06-29T20:30:52.383Z"
+---
+
+Finding herself, surprisingly, with a little free time on her hands, Ali gathered her minion escort and headed for the Abyssal Realm armed with a plan, a few fresh imprints, and a half dozen brilliant ideas just begging for a proving ground. She had awoken to the sight of four fat frost dragons laid out neatly beside her shrine: a gift from the nocturnal efforts of her favorite necromancer.
+
+Seth always kept an eye out for her whenever he went hunting, and his favorite method was to leave the corpses for her to find when she woke in the morning. Mato had taken to comparing him to a cat that brought dead mice home, but what cat could deliver four three-mark dragon corpses with barely a scratch on them? Her protégé would, of course, gain substantially from Ali’s ability to provide him with endless bodies for his army, but she already had plenty of ideas for how best to use them herself.
+
+Ali waved at Mok’freja in the rift chamber and deconstructed all the dead demons before she stepped through into the Abyssal Realm, eyeing the pristine realm of her Devouring Consumption. Not a single corpse in sight. The massive ooze kept a tidy shop. While she was happy with her Devouring Consumption and the Mage of Piercing Frost as guardians for either side of the abyssal rift, there had been several incursions from demons with evasion abilities that had bypassed them entirely: stealth, flying, or illusion skills mostly. A few had even forced their way into the jungle under the ruins of Dal’mohra – a challenge she couldn’t afford if she wanted to ensure the safety of the library. Especially with the Grand Library’s skyrocketing reputation among the premier academic circles across the continent. All it would take was a single accident, and the influx of unique books and fresh knowledge brought by the non-combat visitors would evaporate.
+
+So far, she had maintained a healthy distance between her domain and the Lair of the Demon God everywhere except under Azryet’s direct protection. Long winding passageways and many large caves separated them, but all that space could be far better used as an early warning system, and a way of flushing out incursions, whittling them down by attrition so that when they finally challenged the powerful guardians, they would be weakened. Narrow tunnels restricted flying monsters and increased the distance traveled, providing chokepoints for ambushing, and she had a few new tools in her repertoire.
+
+Landing near the edge of her domain, she wrestled her feelings back under control as she stepped out into the tunnel where she had first met Maalgaroth. Once, this had all been the Demon God’s domain, but killing Maalgaroth and her difficult lessons with Azryet had pushed the dungeon back dramatically, leaving all this space just waiting to be claimed.
+
+“Keep your eyes open,” Ali said, but her minions were already on alert.
+
+“Yes, Seeker.”
+
+Satisfied that she had sufficient protection, Ali opened her Grimoire and began to summon plants.
+
+The ubiquitous, springy Verdant Moss spilled out across the ground beneath her feet in waves, providing a backbone for her nature-affinity mana to seep into the rocks. But here, she deviated from her usual structure. With a wave of her hand, Crypt Poppies sprang up, swaying slightly as they filled the tunnels. Death magic was not exactly her favorite affinity, but she had fought against so much undeath and necromancy that it took up a substantial portion of her Grimoire, now. To ignore her advantages out of icky feelings wasn’t smart if she wanted to survive; a principle she was only now learning to fully embrace.
+
+Her wings hummed cheerfully as she pushed further into the labyrinth, claiming tunnels and filling countless chambers and caverns with her poppy field. In the larger spaces, she mixed in Deathcap Mushrooms, Grave Moss, and the occasional tree.
+
+She didn’t have to wait long before her domain steadied, pulsing with the power of ice and death affinities. This should be strong enough, she decided, scrutinizing the flows of mana closely. Flipping through her Grimoire, she summoned several Frozen Skull Sentries, the cornerstone of her plan. She bound them immediately to her domain so that the ice elementals would be properly supported. In several of the larger caverns, she augmented them with a Malevolent Oak or two, doubling down on the True Sight perception skill. She nodded with satisfaction: nothing was coming through these tunnels without her noticing.
+
+All she needed now was some power to defend the area. She grimaced a little, but regardless of her feelings, she knew this was the right choice. Lyeneru will just have to deal, she decided. With her mind made up, Ali began summoning enough Devastation Knights to protect the entire new range of tunnels and caverns she had claimed, mixing up the three affinity styles she knew for better versatility.
+
+With the area now flush with her domain, she leveraged her Domain Mastery to do a bit of remodeling. She removed some tunnels, widened others, and redirected a few, creating a far longer path connecting her domain to the domain of the demon god. Nothing like a few good bottlenecks to improve her strategic advantages. Obviously, if he sent something as powerful as Maalgaroth, walls might only slow it down a little, but for the rank and file, the discards of the demon god that she had to contend with, it would be perfect. Right in the middle of the connecting path, she merged several caverns to make a far larger one, and then she really got stuck into her task. Her theme for this area was death and ice, obviously, and she had disturbingly many choices.
+
+Firstly, she removed all the Abyssal Bloodstone and extra rock and rubble, deconstructing it all in moments, and earning herself a few more mundane variants for her stone imprint. Then she replaced all of it with chunks of ice-affinity magicite and lined the giant cavern walls with Azure Ice Queen orchids. Nestled among the poppies, she planted patches of the tiny blue Alpine Forget-me-nots.
+
+This looks pretty, she decided, surveying the cavern. Snow was already drifting down from the walls and overhead crags now covered with orchids, and the magicite embedded into the walls glittered with blue radiance in the otherwise pitch black of the cavern.
+
+Leaning into the wealth and weight of ice and death mana in this zone, Ali carved out a large lair in the back wall of the cavern and summoned a Crypt of Kings Skeletal Frost Dragon. With a glance through her options, she gave it an amplified breath attack, an ice-affinity aura, and the ability to summon any draconic imprint in her Grimoire that possessed an ice affinity. That included her old Frost Dragonets, but also her brand new – and far more powerful – Frost Dragons, courtesy of Seth, making it the raid boss protector of the chamber of ice and death.
+
+And poppies and orchids, she thought, still surprised at just how beautiful and whimsical a landscape she had made. She spent almost an hour backtracking through the new winding passages and caverns, inscribing Frost Nova traps at most of the tight turns, entrances, and exits. She was so enjoying her work that she barely even glanced up when her minions took care of the occasional eldritch eye summoned to spy on her.
+
+Ice and death were a great counter to the demonic blood and hellfire of the powerful dungeon, but although she had many choices, she had fewer that were high enough level to really make an impact. However, if she played her cards right, this might become a phenomenal location to level them all up. With some care to create proper crevices and cracks for them to hide in, Ali summoned a whole colony of Frost Weavers. She imagined the ice-affinity spiders filling the tunnels with webs to slow down invading demons when their skill grew high enough. She trusted that the enterprising scouts in the guild would quickly discover her changes and that higher-level ice web would become a lucrative trade item. In places with enough space to fly, she summoned hordes of her low-level swarm Icicle Bats and beefed up their power with several Frost Dragons. The ones she had found flying about the icy spires of the Fangs of the Frost Wyrm had been intimidating, and that was precisely what she wanted to create here.
+
+Taking a quick break, she reviewed everything in her mind, just to make sure she hadn’t missed anything obvious.
+
+“What do you think?” she asked.
+
+“Needs more axes,” Tol’brekk rumbled.
+
+“More bats, and a haunting!” Kir’vella offered. “Insanity!” She waved a suddenly conjured, smoking concoction in the air, leaving trails of smoke that made Ali cough.
+
+“Oh, right. The Spirit Realm,” Ali said. She had made a point of populating the spirit realm with her domain-propagating plants, creating a robust redundancy to hopefully avoid a disaster like the one that had wiped out her entire dungeon and stranded her in this abyssal realm. But the spirit realm was far more than just that.
+
+With her witch doctor’s help, she cursed herself over into the spirit realm and retraced her steps, planting arcane trees, ghost mushrooms, and enough Crypt Poppies to ensure that anything wiping out her plants would not also take out the monsters that relied on her death and ice affinities. But then, an idea popped into her head. They had faced monsters back in the Temple of Aman Rak that she had committed to her Grimoire and then mostly forgotten because she couldn’t summon them back then.
+
+But now… She summoned an assortment of Spectral Mages and Warriors from her troll imprint, attaching the specters of the Telim Gor delegation to her domain. Both the mages and the warriors used ice affinity, making them an ideal fit for this space. To round it off, she supplemented them with Dark Souls.
+
+Ghosts and specters could freely travel to and from the spirit realm, making them ideal ambush monsters in these narrow caverns, and while she didn’t really want to pollute the theme with too much lightning, a couple of lightning affinity Devastation Knights and the Dark Souls would provide a much-needed alternate affinity, just in case there were ice or death immune demons.
+
+Besides, the Dark Souls’ damage output was simply insane.
+
+Finally happy, she dropped in on her Skeletal Frost Dragon boss.
+
+“I want you to summon a few dragons right now, and send them into the domain out there,” she said, articulating the draconic syllables carefully with vocal cords ill-suited to the harsh language. The skeletal frost dragon simply cocked its giant bony head, clearly listening to her instructions. “Whenever you are healthy and not busy, I want you to find a few demons and lure them into our defenses. Draw them in here and wipe them out. Just make sure they do not get past your lair.”
+
+The Skeletal Frost Dragon let out a deep rumble of acknowledgement, a sound that was all the more surprising since Ali could see through its hollow ribcage and knew it had nothing even closely resembling lungs. It immediately wielded its domain magic for summoning. An azure, blue-scaled Frost Dragon appeared in mid-air, let out a roar, and sailed off down the tunnel with lazy beats of its huge wings.
+
+Wow, that’s magnificent, Ali thought, watching as the dim light gleamed off those gorgeous blue scales. Seth, you’re awesome!
+
+Ali hollowed out a nook behind the Skeletal Frost Dragon, blocked it off with a strong barrier, and hunkered down to observe, tapping into the perception skills of the entire cavern system she had just built. She did not have Naia’s hive mind, but with her prodigious intelligence attribute making light of the thousand-way attention split, she could fake it well enough. Her mind aggregated the deluge of information, sorting and correlating it, until a sense of the entire area gelled into a seamless composite; a single living, breathing whole. She didn’t have to wait long before the majestic Frost Dragon came swooping back with glittering droplets of black blood frozen to the corners of its mouth like jewels and several imps and wargs hot on its heels. She studied the reactions of her minions to the invasion like a commander overseeing a battle from a distant vantage point. Not a whole lot happened along the first stretch of winding tunnels. The wargs breathed hellfire to try to set her domain alight, but as they rounded the first bend, one of them tripped her first Frost Nova circle.
+
+A loud crackling pop rang out through the tunnel; not the popping of a bubble, but the popping of a glacier shifting. The narrow tunnel was instantly filled with a vicious squall of ice, freezing several imps in mid-air and locking two of the wargs in place. Taking full advantage of the sudden incapacitation of their foes, a half dozen Frost Weavers crawled out of their crevices, casting thick blue nets of ice magic and moving in to bite their prey. It was all over too soon, and Ali’s pretty spiders retreated into their hidey-holes again.
+
+Well, that just proves the power of Frost Nova in enclosed spaces, Ali decided. Not that it had ever been in doubt. None of the invaders had even bypassed the first corner and reached her stronger defenders, but right as she had that thought, something deeper into the cavern ripped an arm off one of her Devastation Knights. It happened just like that. One moment her undead Knight was patrolling the edge of the cavern, and the next, a mithril-armored arm hit the ground with a clank.
+
+Ali glanced down at the fallen arm a second time, but it stubbornly and inexplicably remained on the ground. There was no blood, of course, but the Devastation Knight was already searching for his unseen attacker with his sword grasped in his left hand while his other arm lay on the floor, incomprehensibly severed with an exquisitely clean cut that sliced through both the undead flesh and the mithril plate armor.
+
+What just happened?
+
+A leg suddenly went flying, bouncing off the wall, and the Devastation Knight fell to the ground, seemingly unable to defend itself against the unseen monster. Then, with a loud crunch, its head went flying to roll down the tunnel, clanking loudly as it went. But it rolled right beneath one of her Frozen Skull Sentries.
+
+As the sentry spun to see, Ali borrowed its elemental sight. The entire tunnel lit up, clear as day, mana and mundane objects all standing out brightly in the monster’s True Sight eye beams. Crouched there in the tunnel, nearly the size of one of her berserker trolls, was a monster of truly demonic proportions.
+
+Heavy armored plates grew across its hunched back like the segmented carapace of a beetle, glistening from the slimy ichor secreted from hidden pores. It had four giant arms, the top pair ending in powerful, crab-like pincers with glittering, interlocking serrated blades that looked wickedly sharp. Strong enough to slice through mithril with the ease of a butcher carving up his favorite fillet. The second pair of arms was only marginally smaller, ending in gently curving, scythe-like blades. Its broad, angular face was split by a t-shaped maw, already opened into a wide, triangular pit of razor-sharp teeth, seeking to feed on the downed Devastation Knight. Waving antennae sprouted from its forehead, and three pairs of vertically aligned, savage-looking red eyes were fixed upon its prey.
+
+Ali wasn’t even in the same cavern, and she shivered. She had never seen anything like it, nor had she expected a monster that could take out a level one hundred and sixty Death Knight in three strikes. And, it’s invisible! What the heck is this thing? The monster was still invisible; it hadn’t revealed itself even after attacking.
+
+In the eyeblink of her hesitation, the Frozen Skull Sentry reacted according to its instincts. It immediately cast both Frozen Doom and Mark of Frost upon the intruder and then vanished, teleporting three nearby Devastation Knights and a Spectral Warrior in to take its place. While the great demon clearly resisted being frozen, a scintillating aura of frost appeared, outlining its invisible form.
+
+Ali had a dozen eyes fixed on the monster, and still, she failed to see when it moved. It vanished from where it stood, and the next moment, its sword-arms had passed through the space occupied by the incorporeal spectral warrior, leaving eddies and ripples in its form, and impaled the death-affinity Devastation Knight through the chest. There was no magic for her to see; the monster was just that fast.
+
+But viscous gouts of black demonic blood shot into the air in a spray that splashed against the ceiling, and Ali suddenly realized her Devastation Knight had succeeded in casting its Damage Reflection curse. The unwounded incorporeal Spectral Warrior managed to stab it in the back, its ghostly sword piercing through the heavy, natural armor plates as if they were not even present, leaving an ice-encrusted gash behind.
+
+Then, two Dark Souls drifted across the boundary from the spirit realm and unleashed their lightning bolts, striking from their own invisibility with Ambush. It still took far longer than expected, revealing the hulking demon assassin’s enormous health, but eventually it succumbed to the combined mob of Ali’s minions, collapsing to the floor with a great crash. Only when it died, did its invisibility flicker and fade, and the shimmering outline of Mark of Frost filled in with the sight of the black, demonic armored corpse.
+
+Your minions have defeated Agraxx Assassin [Blooded] – Greater Demon – level 223 (Blood).
+
+Blood magic! All her blood magic users had ridiculous health values by virtue of them using their wisdom attribute to power health instead of mana, and this demon was well over level two hundred. It made sense, too; the demon god had blood and hellfire as primary affinities. But the combination of health, speed, and an invisibility that persisted through combat was rather terrifying, especially given her prejudice against stealth and assassins coming to kill her.
+
+I need one of those, she thought, reaching through her domain and deconstructing the corpse. More than one. She cleaned up the remains of the earlier battle, too. But first, I need more sentries! She had known there to be true monsters lurking in the demon god’s domain, and although her minions had performed admirably, without the combination of True Sight and Mark of Frost, this one assassin would have been able to wipe out her entire area, and she would never have seen it coming. Especially considering how high a level it was. Needs a new design. First, she doubled the number of Frozen Skull Sentries. Then, she added dozens of her highest-level bats – Spirit Nightwings – primarily for their echolocation skill, and, still not fully satisfied, she summoned a glut of Rot and Slush Oozes. The nature-death and ice-water dual-affinity oozes would thrive in this area, bringing their singular tremor sense to the table and ensuring that nothing like that demon could sneak through the passageway undetected.
+
+Unless it flies. But that’s what the bats were for.
+
+Quickly verifying that her domain had respawned her dead Devastation Knight with appropriate armor and gear, she decided it was time to head back. She still had an unfortunately long to-do list to take care of. But right then, her chime sounded again as the slow, background trickle of experience earned through her domain and diverse minions tipped her over the threshold.
+
+Dungeon of Knowledge has reached level 186.+10 attribute points.Arcane Insight has reached level 111 (+2).Martial Insight has reached level 116 (+2).Empowered Summoner has reached level 96 (+2).Domain Mastery has reached level 60.
+
+Oh, nice timing. It was rare for her class to outright level up from the distributed efforts of her minions and tithe, but the steady accumulation definitely added up. She split her points the same way as last time, three each to wisdom and perception, with the remaining four going to intelligence. As she finished distributing her earned attributes, her class reacted one more time.
+
+You have learned a new Domain Magic: Natural RestorationNatural RestorationRequirements: Nature affinity. Domain Mastery has reached at least level 60. Source: Class.The boss, any minions, and summons gain Natural Restoration – a nature-affinity buff that provides healing over time. If the buff is dispelled or removed, it is automatically recast. Skill – Domain Magic
+
+Oh, I haven’t had one of these in a while! Allowing her minions to fight for her within her domain was presumably the normal way dungeons earned experience. A rare few probably did it with dungeon breaks. It was a great way to level up, provided the invaders were not too strong. She didn’t have to risk herself, and her dungeon minions respawned in hours, but it was terribly slow.
+
+Worse, Ali had never been able to control the level of monsters or people wanting to wipe out her dungeon. Every time they had been of high enough level, Ali had been hurt, wiped out, stranded, or worse.
+
+No. I still need to become stronger. She pressed her lips together firmly and refused to rescind her orders to her Skeletal Frost Dragon. Sometimes, risks needed to be taken, and if she was able to learn to make a monster like the Agraxx Assassin, it would prove to be worth it. Already, her spectral troll warrior and one of the Dark Souls had leveled up, improving the quality of her imprint.
+
+“This is it. Kryostria’s cavern,” Calen sent, pushing his thoughts into the short-range telepathic communication amulet hanging around his neck, one procured from the auction house at extreme cost. It turned out that having a large-scale war wracking the southern half of the continent meant that the demand for certain items had skyrocketed. He’d had to pay nearly ten times what Giddy Clicksprocket had said it was worth. Although the Gnomish jeweler had rubbed her hands and let out an actual, honest-to-goodness cackle when he’d promised to let her study all the items he’d purchased after the mission. He sighed inwardly. Call it an investment, I suppose.
+
+“Looks like a walk in the park,” Devan sent back. The demon hunter assassin had been his first pick for this mission, her competence and stealth skills already well known to him.
+
+Calen stood on the threshold of the dark, icy tunnel, studying the way the strange poppies moved back and forth on the repeating chilly gusts that wafted up from below, a rhythm uncomfortably like that of the dragon herself breathing. Standing beside him were three of the guild’s best scouts, sporting multiple cloaking, stealth, or illusion skills.
+
+His second pick was a mage named Brielle, an extremely introverted girl who was such a prodigy with illusion magic that she had been banished to the Adventurers Guild at level twenty as a punishment by her family when she had been caught breaking into the bank, circumventing guards more than three times her level. She hovered silently beside Calen, even her mana cloaked to most forms of mana-sight.
+
+“Third tier, you said? This will be a challenge,” Hadlis said. He stood beside Calen, his form indistinct, shimmering for a moment before shadows wreathed his leather-clad body, hiding him and his bow as effectively as any assassin. The Shadow Hunter was one of the most successful trackers in the Pathfinders guild, and Calen had picked him on nothing more than Lyeneru’s confident recommendation. His passives were already incredible, but he saved his most potent and resource-hungry skill for critical moments like this.
+
+Illuminated as he was by the soft glow spilling from his wings, all three of them were visible to Calen, but only thanks to his recent True Sight advancement – before that, he doubted he would have known they were there, let alone seen the nods of acknowledgement they gave him. Every single one of them had been chosen for their advanced stealth and scouting abilities; they were here for a single purpose, and that was to gather intelligence. To learn what lay beyond the cavern and attempt to locate the Blind Lich’s phylactery.
+
+Maybe even steal it. But he kept that thought to himself; it wouldn’t do to be greedy, given that whatever lay beyond would likely be the Blind Lich’s most powerful underling. Besides, the Lich might just decide to come fetch it – with all his force. We aren’t ready for that.
+
+But first, they would have to successfully navigate the lair of Kryostria, The Frozen Scourge, a legendary Dracolich that had survived the Breaking, now serving as the Lich’s rift guardian. A third-tier monster.
+
+It was hard to convey the sheer immensity of the presence that lurked in the cavern before them. He just hoped his companions did not break. He hoped he did not break. “Keep your eyes and ears open. Even the smallest detail may prove to be the key.”
+
+“Right,” Devan answered.
+
+Calen took a deep breath. “Let’s go,” he said, stowing his wings to make his invisibility harder to break, and then he led them down the tunnel on silent feet, sharing his location through their connection via the amulets.
+
+The cavern, when it came into view, seemed pitch-dark and silent, lit only by the soft glow of the rift itself. Only his dark vision and his mana sight provided any clues as to what lay beyond the tunnel. Quiet though it was, powerful waves of unbound mana billowed around the rift as if torn from the very air by the infinitely sharp wound in the fabric of the realm. In the lair behind it, a vast abyss of ice mana condensed with a concentration and density that threatened to overwhelm his vision.
+
+Kryostria. He winced at the impact of her presence as he entered her lair.
+
+The four of them entered the cavern at the same time and immediately fanned out. Without any light magic to activate his True Sight, he felt like he was entering Kryostria’s lair entirely blind and alone, but he knew where the others were and trusted them to follow the plan.
+
+He padded across the ice, carefully controlling his breathing to minimize any visible condensation in the frigid air, his feet not even disturbing the snow or the poppies. Relying entirely on his memory of the cavern, he angled straight for the plain expanse of ice and rock at the far end of the chamber, and the powerful work of illusion that he knew was there, obscuring the exit.
+
+“Sneaky pests. I smell you.”
+
+Crap! Calen froze as the vast mass of ice mana lurking in the lair behind the rift stirred, rising above the glittering rip in the fabric of the realm as an oppressive aura of ice and fear billowed out into the cavern.
+
+“Fuck, it’s me,” Brielle’s frightened thoughts trickled through his communication artifact. “She’s looking right at me!” The thoughts bore a distinct feeling of panic, even though all of them were using the powerful mental fortitude elixirs that had allowed them to bypass the mind-warping effects of Baaoht Yll’shuum. Still, the Dracolich’s aura was immense and pressed down upon him like a mountain of ice.
+
+“Remember the plan,” Calen said, putting as much calm into his words as he could, a task not nearly so easy in thought as obscuring his spoken voice.
+
+Kryostria roared, suddenly unleashing a focused cone of pure ice that rocked the cavern, blasting into the opposite wall like an avalanche unleashed. Near the edge of the storm of ice, a flash of light sparkled briefly; the flickering flash of unbound mana as an illusion failed. Brielle appeared, floating high above the ground, her body visibly shaking from the near miss as she turned to face the terrifying maw of the undead dragon.
+
+“F… fuck you… bitch,” she stammered, her entire body wracked with palpable fear. From the palm of her outstretched right hand, she fired a beam of blinding light, a pitiful defiance against the might of a third-tier champion-level boss. The beam struck Kryostria on the cheekbone under an eye socket, and a small wisp of smoke rose from the inconsequential scorch mark.
+
+Suddenly, a thousand copies of Brielle appeared, spread across the back half of the giant cavern, a feat of magic Calen couldn’t even hope to match. The ice dracolich let out a splitting roar, and the vibrating pressure from her aura burst the illusions in a rippling cascade of popping mana.
+
+“Enough tricks.”
+
+That entire side of the chamber was flash frozen as she breathed on it. A thousand tons of ice shattered and fell, a great rumbling crash, unable to find enough purchase upon the wall to defy gravity. As the powdered ice and snow settled, Calen could find no sign of Brielle. For several long moments, Calen feared the worst, his eyes frantically searching the rubble, but then he caught sight of the wisps of her mana – the remnants of her teleportation spell – and sighed softly in relief.
+
+“Now, where are the rest of you?”
+
+“You guys go, I’ll draw her off,” Hadlis sent.
+
+“Ok,” Calen said, agreeing immediately. “Be careful.” It was a smart plan, one of multiple backups they had already discussed. If Kryostria was certain there were more of them, then sacrificing one as a distraction to allow the others to proceed was a good strategy. There was only one problem, though.
+
+An arrow trailing shadows slammed into Kryostria’s gaunt ribs, warping the light around it. The great Dracolich roared in fury, smashing the ground with the great bulk of a single paw, causing it to buck and crack as Calen was forced to rely on his exceptional dexterity just to stay upright. Blue radiance kindled deep within Kryostria’s throat, signaling a powerful gathering of dragon breath.
+
+A shadow-wreathed elven form sprinted frantically across the ice, zigzagging around boulders and leaping across crevices, looking for all the world like an insect scurrying away from a predator. Something shimmered, and his form grew blurry. Another spell flickered with dark mana, and the shadows twisted around him, growing deeper, perhaps even ominous.
+
+An immense breath of ice shot out from the throat of the dragon, rapidly overtaking the sprinting Shadow Hunter as he almost hurled a potion down his throat. Calen had studied his abilities extensively before the mission, and he knew Hadlis had an evasion skill similar to Malika’s, and he had a way of combining gear, potions, and his own skills to push his dodge chance to almost perfect. However, that only worked when the monster was the same level as he was; here, he was taking an extraordinary risk.
+
+Calen sprinted for the exit, but he did not breathe until Kryostria’s icy apocalypse faded, and he saw the dark, shadowy form emerge from the aftermath of the breath weapon, still sprinting. Another arrow snapped off, clipping the Dracolich on the snout. Mosquito bite! he thought inanely. Yes. No way we’re ready to fight this beast toe-to-toe.
+
+An incoherent roar of fury was followed by a vast swarm of summoned skulls that shot off toward Hadlis, all screeching and trailing ice crystals. An uncountable array of ice lances materialized in the air, launching after the skulls, and then the angry dracolich took a deep breath to unleash her breath weapon, yet again.
+
+Hadlis simply vanished, finally taking the smarter approach and using his escape skill. The sheer volume of ice that smashed into the far side of the cavern would have buried Myrin’s Keep from the western battlements to the river.
+
+Calen dove for the wall, trusting his memory, but he still flinched right before his head passed through the illusion, dumping him instantly into a dark, icy tunnel.
+
+Ouch! Still, I rather fancy being alive. Time to make the most of this.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

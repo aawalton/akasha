@@ -1,0 +1,201 @@
+---
+id: 4c68708c-8f62-5162-b932-f8fb754a37b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Six: Days at the Garrison"
+slug: 0047-chapter-forty-six-days-at-the-garrison
+partOf: flesh-eater-demon-evolution-litrpg
+position: 47
+ownLength: 2876
+unit: words
+publishedAt: 2025-11-29
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2802668/chapter-forty-six-days-at-the-garrison"
+royalRoadId: "2802668"
+---
+
+The good news was that the pain quickly faded after the initial burst. The fatigue, however, lingered for much longer.
+
+Pyre tugged on her bandages, checking to make sure they were tight enough while mentally going over what Callan had said about the curse. The weariness, she guessed, was probably a sign of the mark starting to drain her.
+
+Based on how far the branches had stretched and how long it had taken the mark to start growing in the first place, she figured she had about a month left before it covered her whole body. Plenty of time, theoretically, but it would get harder to get shit done the further along the curse was. Right now she just felt vaguely more tired than usual—honestly it was probably the average level of tiredness for any being that actually needed to sleep—but if this became severe enough, it could seriously affect her day-to-day. Or kill her outright, if she didn’t find the horn and remove the curse fast enough.
+
+Pyre committed the mark’s current appearance to memory, then finished tugging on her shirt and coat.
+
+The timer started now.
+
+The next day began much the same as the previous one, minus the introductory speech. Edna had them do warmup exercises, then began running drills. The cadets were noticeably more focused today, the extra punishment laps they’d had to run a looming promise of what was to come if they didn’t fall in line. Literally, in this case, since Edna was capping off the morning session by making them redo their failed icebreaker from the first day.
+
+Near the front of the line of cadets, Declan shuffled nervously as the other recruits found their places. Things were moving a lot faster than before since most of them knew each other’s names now. Pyre didn’t, but she figured she’d end up somewhere near Merrick, so she stepped over to where the man in question was currently standing.
+
+“Hey,” she said bluntly. “Where am I supposed to go?”
+
+The man raised an eyebrow. He inclined his head. “I believe you’re two places down.”
+
+Pyre glanced back. There was that kid who’d sparred with Declan—ah, right, Noris—and the girl who’d asked about the window last night. “What’s your name?” she asked.
+
+The other cadet looked like she wanted to be anywhere but here, but she did end up answering in a quiet whisper. “Penelope,” she said nervously.
+
+“Cool.” Pyre slid behind her. That was easy. Thanks to her height, she had a clear view of the rest of the line. It looked like the last few recruits were finding their spots. All except for one—that noble kid. He hadn’t moved an inch since the exercise started, and he was watching the line with something like disdain. This should be fun, the demon thought.
+
+“Get in line already,” the girl in front of Declan hissed. “We’re all gonna get laps because of you!”
+
+The other cadet sniffed. “We didn’t establish what names to use. I see you’ve all lined up by first name with no prior discussion.”
+
+The girl narrowed her eyes. “There’s no discussion. You’re the only one arguing.”
+
+“Well, I can’t help it if I’m the only one with a family worth mentioning.”
+
+“Excuse me?”
+
+Beside her, Declan laughed nervously. “Uh, guys, please calm down?” His eyes briefly darted over to where Edna was watching off to the side, then back. He turned to face the noble kid. “Please just stand in line,” he pleaded. “It’ll just be for a second.”
+
+The teenager narrowed his eyes. “You ought to have more pride too,” he accused the older cadet. “Your parents are dead and you won’t even honor their surname? They must be rolling in their graves.”
+
+Declan winced, and judging from the reactions of the other cadets, Pyre sensed the kid had crossed a line. Interesting. It had been pretty clear from day one that a lot of the recruits knew or knew of each other beforehand, and it looked like Declan was one of the more “well known” members of group A. His family being some kind of nobility would also explain his prior training.
+
+“That’s enough, cadet.” Edna’s voice, crisp and heavy, rang over the training grounds. The sergeant strode forward. Cold, icy blue eyes fixed the noble boy with a hard look.
+
+“Cadet Weston, you seem to have an issue with the social standing of your peers. Is that correct?”
+
+The cadet in question instinctively straightened at Edna’s commanding tone. Even then, the indignance didn’t leave his face. “Once training is done, I’ll have a higher rank than all of them.” He gestured vaguely at the line. “Why should I have to listen to them?”
+
+“I see.” Edna remained stone-faced. “Are you aware, cadet, that I myself come from a family of village bakers?” A few whispers rippled throughout the line, but they quickly hushed when the woman continued. “Compared to your family’s noble history, I’m sure my background would seem like a speck of dirt in comparison. And yet, here I am your superior. Given your inability to work with those you deem beneath you, should I expect you to disobey direct orders in the future, cadet?”
+
+His eyes widened, and he sputtered. “That’s not what I—”
+
+“Here in the garrison,” Edna interrupted, “we adhere strictly to the chain of command. You will move up in rank when you earn it. Family influence and bloodline mean nothing without the skill to back them up.” She leaned closer. “You would do well to remember that.”
+
+With those final words, Edna straightened and turned away as if nothing had happened. Her eyes moved quickly down the alphabetical line of cadets, who had all gone quiet. Once she’d confirmed that they were standing in the right places, she nodded.
+
+“Well done,” she said. “You are now dismissed for break. I’ll see you again in ten minutes sharp.”
+
+The moment Edna was out of earshot, the cadets erupted into chatter. The noble kid—Weston, apparently—still looked shellshocked. He hadn’t moved at all from his spot, Pyre noted with a snort.
+
+She raised her glass of water from the refreshments table (nice of the garrison to provide, though it was probably for the practical reason of ensuring none of the cadets collapsed). Pyre had learned that she was, in fact, able to drink water without any issues. Well, “drink” wasn’t quite the right word for it. It was more accurate to say that her flesh simply absorbed the liquid—it wasn’t as if she had an actual throat, after all.
+
+As the demon sipped her water, casually leaning against what was becoming her favorite tree, her eyes roamed over the other cadets. Besides the very obvious blank space around Weston and Merrick standing off to the side as he always did, the others seemed to be happily chatting away. Minus Declan, who sat a bit awkwardly away from the rest of the group with his back to the demon. He hadn’t even approached the table of water, much less the other cadets.
+
+“Not talking with the others, kid?”
+
+Declan yelped and spun around, only to exhale in relief when he saw Pyre. Off to the side, Merrick glanced in their direction.
+
+“Sorry, I didn’t see you,” Declan said. He cleared his throat. “I, uh, I just didn’t feel like talking today.”
+
+Pyre finished draining her cup of water, noting the nervous energy that seemed to be lingering around the cadet. “Didn’t know you were a noble,” she said.
+
+He laughed sheepishly. “My family’s a branch family of a minor house. It’s really just a technicality.” His eyes darted briefly over to Weston, then back. “I’ve seen Weston a few times at some events, but that’s it. Both of my parents were military.”
+
+His voice got quieter at the last part. His demeanor reminded Pyre a bit of Callan whenever Winrow and his own parents were brought up. In Declan’s case, his hesitance around the subject was probably even more severe, considering his parents were actually dead, it sounded like.
+
+Pyre gave him a long look. Finally, she tossed her empty glass at Declan, who scrambled to catch it.
+
+“Do me a favor and refill that,” the demon drawled. She cocked her head. “Get yourself a cup too, or you’ll collapse before lunch.”
+
+Declan blinked a few times. Some sort of emotion passed over his face, but Pyre couldn’t tell what it was. He nodded and rose to his feet, pausing for just a second to glance back at the demon before hurrying over to the refreshments table.
+
+After the cadet was gone from view, Pyre noted Merrick was still glancing in her direction. She raised an eyebrow.
+
+“Something wrong?”
+
+The man shook his head, quiet as always, but Pyre thought she caught the corners of his mouth tilting upwards slightly.
+
+Later at lunch, Declan hesitantly stepped over to the table the two older cadets sat at. From then on, the trio became a permanent fixture at that table during meal times.
+
+“So, it looks like you’re my permanent sparring buddy.”
+
+Across from her, Merrick’s eyebrow rose even as he moved into the stance that Edna had demonstrated. After the “test spars” of the previous day, they’d begun proper instruction, and the sergeant had once again paired them up for the practice portion of the lesson. Today they were working on basic punches and blocks, which seemed easy enough to the demon. She wasn’t sure yet if her instincts would respond the same way they had yesterday, but it was something she was watching out for.
+
+“It’s logical,” Merrick said solemnly. Pyre snorted and raised her arms herself.
+
+“Okay, who’s going first?”
+
+The man narrowed his eyes, thinking. “I can practice blocking first,” he finally said after some consideration. The demon tossed him a thumbs up and got ready.
+
+As it turned out, her muscle memory did, in fact, also apply to basic punches.
+
+“I wish I was as strong as you,” Declan said after swallowing a mouthful of leafy greens dipped in some kind of dark sauce. Based on the reactions of vague disgust and judgement from the tables around them, this was not a standard food combination.
+
+“Eh, I’m sure you’ll get there one day.” Pyre swirled around her glass and drank some more water. She’d discovered that fake-chewing between sips somewhat diluted the taste of the food. Not a ton, mind you, but every bit counted.
+
+“You still haven’t told me your training regimen,” Declan said, sounding a little put out. The demon raised an eyebrow.
+
+“I don’t know what to tell you, kid. I just do normal shit.” Normal by demon standards, anyway. Probably.
+
+“That can’t be all there is,” he insisted. He gestured at her. “I mean, I’ve never seen someone so tall before!”
+
+Pyre set down her cup and reached for her fork to begin more fake-eating. “I dunno, I guess I drank a lot of milk growing up.”
+
+Declan furrowed his brows. “I didn’t know there were cows in Drovna.”
+
+“You’ve never heard of the famous ice cows of the north? They’re like a national symbol,” Pyre drawled. Across the table, Merrick choked on his next bite and hastily masked it with a cough. Declan looked awed.
+
+“Really? What do they look like?”
+
+“Well—”
+
+“You said what about cows?”
+
+“Ice cows,” Pyre corrected. “And chill out. The kid completely bought it.”
+
+Callan didn’t look impressed. “That other guy definitely didn’t.”
+
+“Pretty sure he just thinks I’m a troll.”
+
+“A troll?”
+
+A few more weapon training sessions revealed that, hand-to-hand combat instincts aside, Pyre’s past self hadn’t been particularly amazing with swords. Sure, she picked up on the weapon quicker than the other cadets (minus Merrick) and was about in line with Declan’s abilities, but it wasn’t at an unreasonable level. She could easily chalk it up to her general combat experience as a demon and the fact that her bones were a little like blades if you squinted hard enough.
+
+Either way, it eased some of the what-the-fuck factor of the sparring incident. Being good with swords would’ve been harder to explain than being good at throwing punches and tossing people around. Not impossible, but more eyebrow-raising. For once, it looked like the mysteries surrounding her reincarnation and past life were not going to become more complicated.
+
+So of course, when their introduction to swords was done and the instructor moved on to the next weapon—axes—the demon quickly discovered that she was really, really good at swinging those things around.
+
+Being good with swords would’ve made more sense.
+
+Pyre eyed the wooden target across the training grounds. It had been painted with a bullseye that shone under the bright sunlight, identical to the ones neighboring it. Around her, other cadets attempted to throw their axes at the targets, some managing to hit around the edges while others missed entirely.
+
+Taking a step back, Pyre raised her throwing axe over her head, eyed the bullseye, then hurled the weapon forward in one smooth motion. It soared across the sky, spinning around and around with deadly speed before its blade slammed straight into the center of the target.
+
+She could feel the eyes of the other cadets on her. A few whispered murmurs passed through the group while Edna stood watching silently from the sidelines. Practicing beside her, Declan’s jaw dropped.
+
+“How did you do that?” His voice was equal parts awe and eagerness to learn.
+
+Pyre straightened and stared at the target, the axe blade dug perfectly into its center. She hadn’t needed to think before doing that—there’d been no hesitation. And even with her foggy memories of her past world, she had a distinct feeling that proficiency fighting with axes had been a decidedly uncommon skill.
+
+“Wish I knew, kid.”
+
+“Lord Bellhein should be at the garrison tomorrow.”
+
+Pyre raised an eyebrow. It was a chilly night, the wind crisp as it whistled past the trees and rustled the canopy. She was once again in her “snake” form, but she was purposely keeping the eyebrows this time. Sue her, they made up 90% of her ability to make expressions.
+
+Callan, at least, seemed to have already gotten used to this form. That was what happened when you spent most of your time around a flesh-warping demon, she supposed.
+
+“You sure? I haven’t heard anything.”
+
+“Well, I doubt they’d broadcast it.” The ghost shifted to the side as another breeze passed. Wind had no effect on him, but old habits died hard, it seemed. “I was watching the manor to see if there’s a way around the wards, and I saw a carriage on the grounds. The coachman was talking to a servant, and he pointed at the garrison. I think they’re planning a visit soon.”
+
+Pyre hummed in acknowledgement. “Alright, thanks for the heads up, kid.” She’d be surprised if the Bellheins selected people this early on in their “observations,” but maybe she’d get lucky. At the very least, she could stand out enough that she’d be the first on their list the next time they came around.
+
+Callan hesitated. “You’re, uh, not going to blow your cover, are you?”
+
+The demon snorted. “I’ve been fine this whole time. I’m not going to fuck it up now.”
+
+The ghost nodded slowly, but Pyre could tell there was more on his mind. “What?” she asked, voice blunt.
+
+“Sorry, it’s just, I wish I could do more.” He sounded frustrated. “I still haven’t found those floor plans.”
+
+“To be fair, they probably don’t leave those hanging out in the open.” Especially not a family as paranoid as the Bellheins. “Anyway, you’re studying magic and shit, right? Call it a learning opportunity.”
+
+“I guess…” Callan scowled. “I still can’t get into the sanctum, though.”
+
+Ever since that first night, the ghost hadn’t failed to bring up the sanctum every meeting. To be fair, a waterfall of ichor did sound pretty cool, though it looked like neither of them would be able to see it anytime soon. Its wards were apparently just as specific and detailed as the ones around the manor, and as long as construction was ongoing, no one was allowed inside. Pyre could see parts of the sanctum’s exterior from the garrison, and it certainly looked magnitudes larger than the one in Winrow. Which she also hadn’t been able to see inside, come to think of it.
+
+“Tell you what, after I get that guard position, I’ll see if I can get in. We can drop by after we grab the horn.”
+
+Callan looked up, expression hopeful. “Really?”
+
+“Might as well try.” She was starting to get curious herself. Heck, maybe the amount of ichor in the sanctum would make it easier to transfer the curse to the horn since ichor powered magic and all. It made sense in her head, at least.
+
+“Okay, but you need to get in the manor first,” Callan said.
+
+And there was the kicker, wasn’t it? Pyre swiveled her tail, tilting the eye on its end up towards the inky black sky above them. The moon’s silver light was soft and luminous. It reminded her a little of the glow of ichor, actually.
+
+“Guess we’ll see if the Bellheins show up tomorrow.”

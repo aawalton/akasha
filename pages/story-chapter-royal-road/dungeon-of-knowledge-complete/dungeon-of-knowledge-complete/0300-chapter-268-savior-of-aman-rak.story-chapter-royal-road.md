@@ -1,0 +1,139 @@
+---
+id: 856d196f-1d3e-53d4-9d92-3dd493a84b55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 268: Savior of Aman Rak"
+slug: 0300-chapter-268-savior-of-aman-rak
+partOf: dungeon-of-knowledge-complete
+position: 300
+ownLength: 2099
+unit: words
+ownProgress: 2099
+publishedAt: 2025-06-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2329774/chapter-268-savior-of-aman-rak"
+royalRoadId: "2329774"
+markedReadAt: "2026-06-29T20:21:26.252Z"
+---
+
+You have entered the Grand Library Arcana. All Learning and Knowledge magic is enhanced by 10%
+
+Ali popped into the atrium of the grand library and floated down to the habitable wing of the upper floor, Ryn’s constant efforts to improve it were clearly visible in the new tables and chairs, and the rugs covering the cold stone floor. There were dozens of people studying or reading, many who she did not personally recognize. Several glanced up at her arrival, but she ignored them, making her way toward the familiar figure below.
+
+“Hi, Aunt Lira,” she said, as she alighted beside the ancient dryad, who was already busy warming the kettle at the tea stand.
+
+“Welcome back, Aliandra, would you and your friends like some tea?” she asked, her voice melodious and resonant as always.
+
+“Yes please,” Ali answered, not bothering to ask how she knew her friends were on their way. “I have a few guests from out of town coming, too.”
+
+“That will be lovely,” Lira said and then fell silent while she set out several new white porcelain teacups decorated with delicate pink cherry blossoms, allowing Ali time to sit on the couch and just be for a moment.
+
+Home. I’m finally home.
+
+She sat in silence, enjoying the beautiful aroma of the new tea Ryn and Lira had organized, finally relaxing as the soothing familiarity of her domain washed through her tired body. The muted sounds of the library faded into the background, and for a few glorious moments, she allowed all the accumulated stress and the worries of the last several days to fade with it. Nevyn Eld and his evil plans would keep for now.
+
+Malika had taken charge immediately on arrival, perceptive enough to notice Ali was anxious to get back to her domain. She took it upon herself to situate the trolls while Mato and Calen delivered Lyeneru to the Temple of Lunaré and into Lamyndra Duskwind’s care. They would join her soon enough.
+
+She passed time with Lira, sitting on the comfortable couch, sharing her experiences in Aman Rak, and, by the time she felt the twist of mana from the teleportation circle down below she felt far more centered and calmer. I underestimated how much that took out of me.
+
+“Looks like they’re here,” Ali said, observing her friends and the two highest-level trolls, Zor’kan and Val’korr, ascending the stairs.
+
+“I’ll get some more water going,” Lira said, rising gracefully.
+
+A few minutes later, they all reached the top.
+
+“What a dump,” Val’korr grumbled. “Stairs? No respect for my knees.” The aged troll limped with irritable energy and a scowl on his face, hobbling along with his gnarled staff clacking against the stone floor, but then he froze, glancing around the library with an entirely different energy.
+
+He pulled himself up taller, cradling the staff comfortably in his hands and he walked over with a spring in his spry steps – all signs of his limp magically vanished.
+
+I knew it! Faker.
+
+“Lirasia, what a pleasant surprise!” Val’korr exclaimed, and to Ali’s amazement, his words were in Elvish.
+
+“I see you haven’t kicked the bucket yet, you grumpy old windbag,” Lira answered with uncharacteristically casual familiarity.
+
+“What is that delightful aroma? Is that an elvish tea?” he asked, walking over to the tea stand with a swagger in his step.
+
+“Here, let me help you,” Lira said, intercepting him with perfect elegance and grace and cutting him off from meddling with her preparation. “I wouldn’t want you breaking Ryn’s favorite tea set with your clumsiness.”
+
+Val’korr chuckled and stepped back offering a flourish and allowing Lira to serve him.
+
+Is he… flirting with Lira? The change in the ancient troll’s demeanor was just as dramatic as it was surprising, and Ali was left momentarily speechless. With a broad grin, Val’korr took a seat on the next couch, followed by a scrambling Zor’kan.
+
+“Hi, Ali,” Malika said, plopping herself down on the couch beside her. “Lyeneru is in Lamyndra’s hands and Eliyen is going to pop in and check on her. The trolls are all recovering – I got them temporary accommodations.”
+
+“Aah, Aliandra,” Val’korr said, regarding her with a suddenly serious look in his eyes. “I must offer the tribute of my grateful heart.”
+
+“For what?” Ali asked. The grumpy old troll was certainly not her favorite person, but as the prior owner of the Shrine of Aman Rak, he was the leading expert on how the class evolution process actually worked. It had been an incredible feeling to reach level one hundred, but now that she confronted the reality of processing a class evolution, Ali was worried. She had heard horrific rumors of random evolution choices breaking people’s classes permanently – something she was convinced had happened to Vivian. At least the old troll was treating Lira with respect.
+
+“Zor’kan shared with me the quest he laid upon you and your friends. That was a heavy burden, far beyond what was his place to ask, and as outsiders, one you shouldn’t have had to deal with,” Val’korr said.
+
+“I am sorry,” Zor’kan said, hanging his head.
+
+“The responsibility is mine alone,” Val’korr said, patting Zor’kan’s shoulder. “I was aware of Joraa's feelings, but I never imagined he was capable of betraying his own bloodline to the Lich. Nor did I predict that Kir’mogan, Kir’vella, and even Tol’brekk would be taken in by his lies. This was an Aman Rak problem, we should not have involved you. We are trolls.”
+
+“It was the right thing to do,” Ali said firmly, and Zor’kan’s head snapped up to stare at her with a look of profound respect and relief. “I could not have sat back and watched while the Lich tore the souls from every innocent Aman Rak troll. No, his evil needed to be stopped.” While she put on a brave face, speaking with conviction in front of the trolls, she couldn’t hold back the icy bite of fear grasping like dark claws for her heart. They had bloodied the nose of the Blind Lich himself, and she had no idea what he was going to do once he revived.
+
+“I regret only that we were not strong enough to save more of your people,” Malika said, to which both Mato and Calen nodded firmly.
+
+“Well,” Val’korr said. “You four have saved the bloodline of Aman Rak from the hands of the Blind Lich. Zor’kan said you refused his life debt but know that you have my eternal gratitude for what you have done for us. If there is anything you need, all you have to do is ask.”
+
+Ali opened her mouth to reply, but suddenly her chime sounded. And by the startled looks on her friends’ faces, theirs had chimed too.
+
+You have earned the Title: Savior of Aman Rak. You have saved the bloodline of Aman Rak from extinction.Allied trolls gain +10% to intelligence [your highest attribute]. Range: 200 [class level x 2] meters.The Identify of a Troll will always reveal this title.Title
+
+“Did you guys…” Mato began.
+
+“I think we all did,” Calen said, glancing at Ali and then at Malika.
+
+“Well, now…” Val’korr said, rubbing his chin. “That is a high honor indeed – and one well earned. Every troll you meet will see that and know your worth. I meant what I said. Is there anything you need?”
+
+Ali glanced at her friends.
+
+“You should ask, dear,” Lira suggested.
+
+“Val’korr, my class just reached the threshold for evolution, and I was wondering if you had any advice?” Ali asked. “I understand you used to own and administer the Shrine of Aman Rak.”
+
+Val’korr glanced upward, as if studying something invisible. “By the looks of this domain, you are… a dungeon, are you not? Were you able to save the shrine’s evolution?”
+
+“I am. And I did; my shrine is located above in the forest cavern.” Ali hadn’t checked on it yet, but she had no reason to believe that it wasn’t exactly as her notifications had shown.
+
+“Well, that’s a relief,” he said. “Do you have any idea how much of a chore it is to drain enough mana from an entire tribe to power a single evolution? Good riddance. I can finally pass that duty to you.”
+
+“Duty?” Ali coughed.
+
+Val’korr’s casual, grumpy demeanor vanished as if a veil had been dropped, revealing the piercing focus and unassailable steel will of the Seeker of the First Age. “In the coming war against the Lich, an evolution-capable shrine backed by the full power of a domain’s mana regeneration may very well be the most potent weapon we can wield. Guard it well.”
+
+“I will, Seeker,” Ali managed, taken aback by his sudden intensity.
+
+“Tsk,” Lira said. “Do you have to be so scary, old troll? They’ve had a trying day.”
+
+“Aah. Sorry, dear,” he said, winking sideways at Ali, the veil of the bumbling old troll rematerializing as if it had never slipped. “As to your question, there was a book among those recovered from Aman Rak that you should read.” He glanced at Malika who promptly unloaded all the troll books onto a nearby table, stacking them up neatly, although not quite as neatly as Ryn would have done. “Aah, here it is,” he said, pulling a small tome out and handing it to her. “Read this, then we will talk.”
+
+***
+
+Ali closed the small troll book with a shudder and looked up at Val’korr. Did they really need to write it in Troll blood? Even knowing that Aman Rak Trolls regularly used their own blood as a base for magically potent inks did not make her stomach any less queasy.
+
+I still need to look into finding an ink crafter. Malika must know if there is a local one. It would be far better on her conscience if she didn’t have to bleed her minions just to practice runework.
+
+All that hadn’t helped her nerves very much, but the content of the book was an entirely different matter.
+
+“So, all I have to do is go to the shrine and select some of these ‘path’ things and my evolution will complete?” Ali asked. It all sounded pretty mundane, but the idea of permanently choosing her class evolution was something that filled her with a fair amount of anxiety – she didn’t exactly want to make any mistakes, and presumably, the challenges would be in the details.
+
+“Your experience will be sorted by the shrine and paths will be created based on your most influential or successful Traits. You will be awarded a number of points based on your achievements, reputation, and influence, and you must spend them all – they cannot be saved,” Val’korr explained. All of this had been spelled out in the book in great detail, too. “The first paths offered will be the closest to your current class, but also likely the most powerful because they have the most experience devoted to their traits. Later ones will be less aligned with your current class, and often less potent, but offer more opportunities to steer your growth.”
+
+“So, experience really is influenced by your skill traits?” Ali asked, excited to confirm her favorite theory as to why classes worked the way they did.
+
+“There are many theories,” Val’korr said, taking on the tone and demeanor of a lecturer, “but what you suggest is my belief also. Experience is the quantity and the magical trait can be thought of as a color or flavor.”
+
+“I see,” Ali said. She felt an extraordinary pull to dig in and discuss the details with the aged sage, but there would be time enough for that later.
+
+“You should also be aware that there are many different kinds of paths offered for evolution – the simpler ones are trait-based or affinity-based. Be careful of paths that remove aptitudes, affinities, or skills, or morph them into something different – these are not inherently bad, but most broken classes come from removing something important. The most influential of the typical path types is called a Keystone path – these have an inordinate influence on your future growth and often provide skills, advancements, or class-defining changes. Choose those only if you see yourself following the idea of that path for a long time.”
+
+Ali nodded, taking it all in. There were so many details and unknowns, and the only way to resolve them would be to go down to the shrine and see for herself. She puffed out her cheeks. It was time.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

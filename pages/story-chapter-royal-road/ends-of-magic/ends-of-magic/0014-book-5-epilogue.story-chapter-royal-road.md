@@ -1,0 +1,125 @@
+---
+id: faf1a000-7c67-5a89-9734-bc733dd28dc7
+page-type-slug: story-chapter-royal-road
+title: "Book 5 Epilogue"
+slug: 0014-book-5-epilogue
+partOf: ends-of-magic
+position: 14
+ownLength: 2322
+unit: words
+ownProgress: 2322
+publishedAt: 2025-01-01
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1986003/book-5-epilogue"
+royalRoadId: "1986003"
+markedReadAt: "2026-06-29T20:07:43.100Z"
+---
+
+Brox pulled out the buzzing rock. Many years ago he'd had it carved with a remarkable likeness of Sarya’s scowl. It vibrated aggressively, and he watched it carefully to see how long it would buzz for. The Elothian Rangers he was with looked back at him with tight faces, each concerned by the noise but unwilling to tell him to his face to be quiet.
+
+After all, they were hunting dangerous prey. Brox had asked for something exciting, and they’d taken him to hunt dragonwolves. The rangers wanted to surprise the fire-breathing predators, but Brox knew that wouldn’t work. Catching creatures like this by surprise was a fool’s game. Besides, he didn’t really feel like lying still for hours in the attempt.
+
+That being said, he didn’t much feel like abandoning Elothia right now. He’d been looking forward to hunting the dangerous wildlife that abounded on this continent. He’d start small, with prey like the dragonwolves, then ramp up to bigger game. He’d been looking forward to going up against one of the hillboars. But the rock in his hand continued to vibrate, and after the fifth pulse he looked up at the rangers who’d accompanied him and swore.
+
+“Quenfi’s flaming teats. You’ll have to finish this hunt without me. Stalk silently and all that.” He didn’t wait for a response before he turned and dashed away, the brush of the forest crackling with the speed of his movement. As soon as he was out of sight he activated his teleport and appeared in the conference hall Sarya preferred for important chats amongst her grid. The room was made of enchanted glass and lay far beneath her palace, protruding out into the waters of the ocean. Monsters swam around them, lured to the life of the port but unable to breach the enchantments that kept them below the surface. Similar enchantments protected this room, giving Brox a close-up view of several monsters he’d love to fight.
+
+Then he breathed out and turned towards the table in the center of the room. Only Sarya was present, and she gestured him towards his place, where an enchanted goblet filled with opalescent liquid waited for him.
+
+Brox’s eyebrows rose. “You opened a bottle of the Sungold?” He walked over and picked up the chalice, letting the vapors waft up and caress his skin like fingers of sunlight.
+
+“I did,” Sarya replied. She took a careless gulp of the millennia-old and utterly irreplaceable liquor, then gave him an irritated look. “Because of your mistake.”
+
+He took a gentle sip, letting the effervescent light move up into his sinuses before evaporating into his brain. “By Edes, what’s got you upset now? Was it what I did in Itonia? Those seers exist to be used, and look at where it took me! It can’t be Gemore. I know the prizes that bout earned.” He waggled his finger at her. “We’re winning this conflict now! Is that what this is about? How to capitalize on that victory? My victory?”
+
+Sarya shook her head and sighed. “No - but we should wait for our companions before discussing it.”
+
+Garna appeared next, and Brox saluted the androgynous woman with his glass, noting the sheaf of organized papers she carried.
+
+She hurried over to the table and plopped them down, brandishing an enchanted quill at the other questors like a weapon and speaking in a clipped tone. “We must be as fast as the dawn. Since the deal with Sussu I am overwhelmed in my attempt to consolidate Estefar and move it onto the correct path.” She noticed the chalice waiting beside her and blinked at it, then looked up at Sarya. “Is this a celebration of our victory? We have not led a continent through the Ending yet.”
+
+Sarya glowered around at the gathering over her goblet. “No. There’s something more important than that.”
+
+That comment made Garna shoot Sarya a suspicious look. "What could be more important? This is our chance to win a lasting victory."
+
+A deep chuckle rolled through the room as their fourth member arrived, Ushia's massive frame striding into view. She pulled out her oversized and heavily padded chair and settled into it delicately, idly picking up the chalice of Sungold and sipping at it with relish. “I have been anticipating this taste gladly.”
+
+“Tell us why I’ve stoked your anger, before Ushia spills it,” Brox demanded jokingly with a smile on his face.
+
+I’d like to see you yell at me, after the victory I delivered.
+
+“The man from Gemore, the one who killed Badud,” Sarya prompted him.
+
+Brox nodded. “Nathan. A good fighter, and a good counter to mages. He seemed hesitant to me, but I cannot call him a fool. He did kill Badud. You planned to recruit him into your stable of agents, yeah. Did you fail?”
+
+Sarya rolled her eyes in his direction. “What you failed to report for us is that he’s not from Davrar at all, but a world from the universe beyond. They sound like they’re on the cusp of being contacted.”
+
+Brox blinked a few times. “Truly?” He leaned back and blew a raspberry. “I knew he wasn’t of Gemore. For a time I thought he could be a new questor, recently come to Davrar. But he’s from another world entirely? A place beyond the Distal Expansion?” He leaned forward and rested his elbows on the table. “That must be a tale. To arrive, alone and confused, and rise to such power.” He clenched one fist. “What a man! His hesitance is revealed for wisdom, as it must be born of caution won from experience! Is he here? I should congratulate him anew on his accomplishment. I wonder if he has any of my gear.”
+
+Sarya frowned at the man. “He’s above, but you won’t be speaking with him. I don’t think they’re enamored with you. I would prefer you stayed away from Nathan Lark and his friends.”
+
+“They all survived? Even the twins?” Brox seemed surprised by this, then shrugged. “Then they’re truly blessed by Olita. How’s the mage? She seemed to have a true spark of magic.”
+
+Garna interrupted, blinking owlishly at the two of them. “Please pause the prattle. Why are we here, Sarya? This Nathan has Insights from the universe beyond, the kind that are restricted from our lips. Do you wish to discuss how best to spread those Insights further, in a deniable manner?”
+
+Ushia’s chuckle started low and rose to a delighted laugh, rattling the room. “It cannot be so simple, for I cannot see the future. Davrar itself is unable to predict the outcomes here, and so my Talents are useless.” She looked truly pleased by this outcome, green lips stretched wide over impressive teeth. “Please, wise leader, tell us how this man will change all of Davrar?”
+
+“He figured out the truth,” Sarya said casually. “What Davrar is. Why this megastructure exists. Who we are, and the basics of the Distal Expansion.” She waved her hand towards Brox. “I know you didn’t speak of it. You are careless, but not even you would speak those truths and Davrar would sanction you if you did.”
+
+Brox frowned. “I did not. How did he learn?”
+
+Sarya shrugged. “Knowledge of the true universe, deduction and the rule of simplicity. Your attitude and revelations of the rules of questors sped his journey, but all true powers know those details.”
+
+Garna had lowered her quill to the table and was giving the conversation her full attention now. “What is the importance? So he knows the nature of Davrar. What does he want, to become a questor himself?”
+
+“No,” Ushia said, studying Sarya. “He wishes to change Davrar to his will.”
+
+Sarya nodded towards the big orc. “He does. He wants to banish the Endings, as well as remove mind magic.”
+
+Brox snorted. “That vote was held after the Ending of Magic, when we first saw true slaughter. It failed.” His lip rose in derision, and his voice was bitter. “Our peers decided that some costs were worthwhile for their fun.”
+
+“Mind magic is popular,” Ushia replied with her own sense of exasparation. “Truth-telling spells alone - most questors support it. Despite those who abuse mind mana.”
+
+“But think of the argument,” Sarya said. “Recall the conclaves, where we argued for changes to Davrar. Think of how moralistic the arguments are, how self-righteous. All those who oppose humanitarian changes need do is mock the do-gooders, and the apathetic majority agrees.”
+
+Garna gave an aggravated sigh, picking up the tale from Sarya as if reciting a long-repeated argument. “Then it devolves to meaningless duels that sway no votes, for there is no true risk, no real stakes. Just empty entertainment and pole-swinging.” She cut her eyes towards Brox.
+
+“The duels are fun!” He said defensively. “It’s rare to fight other questors so easily. There’s usually such a game of position and knowledge first. I enjoy a true fight without needing to engage in posturing first.”
+
+Sarya interrupted the byplay. “But imagine the same argument being made by one who is not a questor. If Nathan stands in the conclave and declares Davrar as evil, he can condemn us without being one of us. It would carry weight. We could win the vote that followed.”
+
+“He is a thoughtful little prick, isn’t he.” Brox’s voice was fond, but contemplative. “He’d be challenged to the duels, and he doesn’t respawn. That would draw attention. Somebody not a questor fighting in the conclave ring.”
+
+He thought about it a moment, then nodded decisively. “I’d back that. But how do we get him there? Even after our victory we don’t have the influence to speak at a conclave, much less call one. And to bring a non-questor into the conclave…” He trailed off, frowning as he considered the obstacles to what Sarya was proposing.
+
+“We reach out to our political allies.” Ushia nearly spat the word. “The Ashen Accord to start. They may have replaced their spines and skulls with neutronium, but they’re well-connected. If we can convince Kaelis then he could make it happen.”
+
+Garna’s brow furrowed as she turned her considerable intellect to this new problem. “This plan is a promising proposal. But Kaelis wouldn’t move without agreement from the rest of the Ashen Accord. They’ll need demonstration, and he’ll need proof to convince others to spend their influence on this. It is the rarest of our resources.”
+
+“His deeds must be undeniable,” Ushia said slowly. “Killing Badud was a beginning, but each victory must be greater than the last, for this to be a valid path. We may not aid him overmuch either.” Her expression remained troubled. “What is his build? It must counter foresight in some way, since I have never been able to see him.”
+
+Brox chuckled. “Antimagic, combined with a potent healing Talent and flight.” He held his hands up defensively as the other two gave him confused looks. “He’s taken the Insight further than any I’ve heard of. He retained memories through Badud’s [Reverse Time], so it can combat wizardry. And that was before slaying Badud and conquering the Ascendent Academy. A Grand Dungeon. So his class quality must be astronomical.”
+
+“My agent said he never truly committed to the fights she saw,” Sarya said next. “Even against the Maelstrom he supplied the kills to his allies so they would level.”
+
+Ushia waved a hand as if to brush that away. “We shall assume he can win against any foe.” Then she snorted at the ridiculousness of her own words. “What deeds would serve for this purpose?”
+
+“Conquer Esebus,” Brox said grumpily, taking another sip of his drink.
+
+Garna shook her head shortly. “That would be repeating a deed already done. If he - and his allies - were to defeat Badud’s entire grid, then that would be a victory.”
+
+“Or clear a corrupted seal.” Sarya said slowly. “That would be a deed that would raise his status in many questor's eyes.”
+
+Garna rolled her eyes. “Opportunities for formidable deeds abound, for this is Davrar and that is what it was built for. But he will still die, either in attempting these deeds or in the duels. Will you trick him to his death? Will he break from this purpose once he understands the risks?”
+
+Sarya snorted and replied evenly. “If I tell Nathan that this will kill him, I expect he’ll smile and thank me for the opportunity. My skills tell me he will never stop attempting to reach his goal. His purpose is to fix Davrar into a way that he likes better, and if we show him the path he will walk it regardless of the danger.”
+
+Ushia pursed her lips and nodded. “Then we shall do this. I wish to meet him, and speak to his allies. If they are to truly do this, then they must become masters of their Paths.”
+
+“I agree,” Garna said. “This is an idiotic idea. But if it’s a chance to improve Davrar, to make our will known, then it is worth seizing the slightest chance of success.”
+
+Brox snorted once more, waggling his finger at her. “But it’s not our will that would be implemented. It’s his.”
+
+The gathered questors considered that for a moment. Then Sarya shrugged. “That’s probably better. Do you want to be known as the one who curtailed the freedom of the questors? Better that it be Nathan and the Heirs.”
+
+“It would be a tale as potent as the deicide.” Ushia’s voice was quiet and deep, nearly shaking the table. “Figments of Davrar itself rising up to ask us to refine our natures. Fitting, for that is its purpose, is it not?”
+
+None of them had a good response to that, and they sat and finished their Sungold in silence, watching the beasts of the deep swim through the waters around them and considering their mad plan.

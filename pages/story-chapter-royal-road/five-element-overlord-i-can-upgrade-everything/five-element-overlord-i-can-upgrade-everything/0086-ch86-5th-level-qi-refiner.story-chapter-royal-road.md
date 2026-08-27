@@ -1,0 +1,177 @@
+---
+id: eb061990-d96c-5f7b-a55a-d4955507d11b
+page-type-slug: story-chapter-royal-road
+title: "Ch86 5th Level Qi Refiner"
+slug: 0086-ch86-5th-level-qi-refiner
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 86
+ownLength: 2389
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3609806/ch86-5th-level-qi-refiner"
+royalRoadId: "3609806"
+---
+
+“I’m sorry Senior… I paid the named disciple all of the spirit stones you sent, but he failed many of his alchemy attempts, leaving nothing but a broken furnace for half of the trials. The three alchemy attempts that succeeded did not amount to a single low quality pill, only three blackened poisonous inferior grade pills each time. I’ve failed to procure even a single usable pill.”
+
+This is the only message that is recorded on the talisman, and 9 dark black deformed pills are stored inside the puppet’s storage compartment with it.
+
+I turn away from the spirit fields at once, and pull out an upgrade card to touch one of these horrific smelling creations.
+
+In a flash of white light, the one in my palm shifts into a perfectly round sphere, and turns bright violet in color. Three golden vine patterns wrap around it, and the scent that fills my nose makes my dantian shiver with yearning.
+
+One by one, I upgrade every single one of the black pills into a perfect purple and golden processed treasure.
+
+“Junior Chen, this is exactly what I asked for. Do not think you have failed me when you have delivered perfectly. Enjoy this reward, and use it well to continue learning, and rising through the ranks in the alchemy peak. You will hear from me again once I need assistance.”
+
+I nod, and toss in the entire vial of high quality Qi Nourishing Pills. Then, a single high quality Marrow Cleansing Pill, and three thousand spirit stones.
+
+This should be more than enough for him to continue his cultivation, and possibly bribe his way into even more favorable positions with other disciples that have been at the peak longer than he has.
+
+The emerald swallow flies off into the sky.
+
+Nine shimmering Barrier Breaking Pills float in my storage, almost calling for me to devour them, but I calmly walk through this desolate valley and upgrade 7 more spirit veins, activating the array flags Lan Xin bought for me earlier.
+
+I mark the flag poles, so that I can see which ones are being harvested from a distance.
+
+However, it’s not entirely necessary…
+
+Unlike the Tier 2 array flags I obtained from the minor lottery die, these black flags do not perfectly conceal every vein.
+
+The equivalent pressure of a healthy low grade spirit vein pours out from all 7 of them, flooding this valley with a thin layer of qi. The majority is still being captured by the flags. I’ll have to double check once more time passes, but my guess is it’s collecting over 97% of all of the natural qi that pours out.
+
+To upgrade the remaining 23 untapped inferior grade veins, I’ll need to wait 6 more days to stack the necessary upgrade cards.
+
+There could be a way to speed the process up just slightly.
+
+I think about my hidden realm, and the bronze door in my mind shudders, then opens wide. All of my senses of the world outside fade, and I’m right back where I was when I left, in the center of the 5 element cultivation array.
+
+I sit down in its center, pull out a purple and golden pill, and begin circulating my Jade Purity Soul Scripture to prepare.
+
+The multicolored elemental auras, raw qi, soothing soul pressure, and an invisible rhythm vibrating through me guide me into a perfect meditative state in seconds. I swallow the pill, and get ready for a long anticipated breakthrough.
+
+Last time I ate one of these in the Stone Valley Stronghold, I broke through into the mid stage then late stage of a level 4 qi refiner in a single sitting.
+
+The same sweet purple aura fills my body, and the bottleneck I couldn’t even feel before floats up to the forefront of my mind. It begins to dissolve, becoming thinner and thinner as my cultivation technique recycles the violet aura over and over.
+
+After about 15 minutes the intensity diminishes.
+
+The bottleneck doesn’t break, so I pull out another pill, and swallow it whole.
+
+An instant crisp clicking sensation ripples through my body as I reach the perfected stage of level 4, and the remaining sweet purple and golden aura from this pill starts dissolving an enormous bottleneck that holds me back from the next level of qi refining.
+
+I’m in a perfect headspace, with a far better cultivation environment than even a perfect grade tier 1 vein.
+
+Even though my 9th grade roots cannot naturally saturate with enough qi to allow for a breakthrough into the 5th level of qi refining, I have momentum on my side.
+
+These purple pills are meant for cultivators to break into the late stage of qi refining.
+
+I have heavenly grade variants, and I’m using them for a minor level breakthrough in the mid stage of qi refining. My natural talent may be that of a wastrel, but I will always find a way to continue progressing.
+
+My gaze becomes resolute, and I pull all 7 of my remaining golden pattern Barrier Breaking Pills out. I begin eating them one by one.
+
+A sweet purple aura floods into my mind, and begins eating away at an invisible shield holding me back. It feels as vast as the sky above me, as though there is no natural way for me to ever strive so high and break through this mysterious barrier.
+
+Yet, as I swallow another pill, and then another, it’s like acid is slowly trickling down the outer edges of this vast expanse. I cannot fully sense what it’s doing, but I know it’s working.
+
+The momentum is building, so I swallow the rest of the pills in my mouth, and fall into a natural state of total concentration into recirculating this purple energy. My skin feels like it’s melting, and my mind is only kept focused by the constant rhythmic humming that floods up from the array beneath me.
+
+I feel flickering fire, sharp metal, solid stone, flowing water, and vibrant wood energy intertwining and fueling the process inside me without even having to use my active mind.
+
+All of the golden patterns from these pills flood out, and my soul is enveloped in their nourishing aura. This heavenly presence resonates with the neutral soul strength pouring out of the array.
+
+Most importantly, the sweet purple energy dissolves the bottleneck in my cultivation, and allows the raw qi in this cultivation array to flood through my meridians, saturate my spirit roots, and find a final resting place in my dantian as it expands in size.
+
+The transition is almost seamless.
+
+I reach the 5th level of qi refining less than an hour after swallowing all 9 pills.
+
+The reservoir of purple energy fades away as my new realm is solidified, and white hot qi fills my enlarged dantian.
+
+My spiritual senses expand outward to over 35 meters, and I feel a drastic increase in strength.
+
+My eyes open and I take a satisfying gasp of air.
+
+The qi particles that float around me are like a foreign substance.
+
+I’ve truly pushed my potential to the limits using artificial means. There’s no longer any natural way for my qi cultivation to progress… I can pull it into my meridians, and use my spirit roots as sturdy unchanging pathways into my dantian to replenish any qi I use up.
+
+However, they do not take in any new qi to saturate themselves further. It’s as though they’re completely locked into place, signifying that this is the maximum size they’ll grow to, and the maximum level of qi refining they’ll allow my dantian to achieve.
+
+I don’t dwell on this feeling long, instead I stand up and excitedly make my way toward the staircase leading up to the rematch simulator island.
+
+The fresh vibrant strength flowing through me needs to be tested. Five thousand spirit stones are spent in an instant, and I’m pulled into the sandy arena against a 5th level qi refining blood demon with a mid stage physique.
+
+This is one that killed me before, but I dodge its first advance without a single scratch this time.
+
+The second hit is a heavy red fist to my face, but the raw strength is manageable.
+
+I throw a fist back and hear an equally heavy crack against this demon’s skull.
+
+Knowing full well that this is all an illusion, and the damage my body withstands in this place is not real… my fighting style becomes vulgar and ruthless.
+
+I don’t care if my ribs are broken, or teeth are sent flying out, as long as I can land a shot back at this blood demon in its vitals to hurt it worse.
+
+Less than 3 minutes pass, and I let out a victorious yell, sitting on top of the mangled flesh of a deceased blood demon. There are claw marks in my chest and face, and I’m missing a left arm, but a wide smile beams through the pool of crimson staining this sandy floor.
+
+The golden clouds drift in and bring me back in full health to the platform in the sky.
+
+I spend another 5,000 spirit stones and dive back in against the same blood demon.
+
+The small horns, and bulging muscles below his skin form, heating up the air around his body as he charges forward, and I tighten both of my fists in excitement.
+
+Far less of this blood demon’s punches land.
+
+A lot of the initial fear and instincts to protect myself fall away even more, now that I already won the first fight. I go in for lethal hits even faster, killing this blood demon with my bare hands in less than 2 minutes.
+
+In the next round, I finish the job in under a minute and a half.
+
+My punches fly faster and more confidently.
+
+I spend 50,000 more spirit stones, and go 10 more rounds, practicing my footwork, and landing more accurate blows. Hitting this blood demon directly in the chin, and in certain spots in his chest, I can knock the demonic man down in a single blow and pummel him to bones and blood in under a minute.
+
+During these fights, I watch this man transform into a grotesque demon over and over again. Though, I’m usually focused on trying to find his weaker spots and finish the job as fast as I can.
+
+Instead of going in straight for the kill, I decide to jump back, and watch every bit of this transformation with my spiritual senses. I dodge a few blows while listening to his bones crack and skin tear, but there is also an interesting phenomenon I missed before.
+
+The soul inside this blood demon is at a semi-calm resting state when the battle starts, but it’s strained and stretched out the moment blood energy floods through him. At the same time, a sharp vibration of what I always believed to be killing intent triggers in that same instance.
+
+I throw a few punches and blocks, but mostly just dodge and keep the demon at bay during this fight.
+
+After a minute passes, he becomes far more erratic and fierce. This is around the time we would normally be on the ground, tearing each other’s faces off and organs out, but I stall more.
+
+Another two full minutes pass, and I start to hear bones cracking in places where I’ve never hit this demon.
+
+The blood energy surrounding him grows in potency. This is just like what happens outside, when they eat blood qi pills. Yet, no additional items are allowed into this simulation. It seems he’s using up his own flesh and soul energy to power this transformation.
+
+Muscle mass is eaten away, blood is drained from his body, bone mass is crushed to dust, and I even watch fractured portions of his own soul be siphoned into holding this acquired physique’s active form.
+
+It is fascinating.
+
+Two more minutes pass, and all of this man’s bone mass, muscle tissue, and blood are drained for power.
+
+He falls to the floor as a corpse without me even having to send the finishing blow.
+
+His soul is torn to shreds… yet… it’s fighting against the invisible sharp aura in his physique.
+
+I’ve seen this happen before, when I had a moment to look at Wang Ming close up after his battle within Black Iron Mountain.
+
+The man’s soul is completely destroyed, and the invisible aura floods in to take over his body. The golden clouds of this construct flood in next.
+
+I stop myself from entering the arena again, and take a look deep inside my own body.
+
+For some reason, my acquired physique acts much differently than this. I can feel the perfectly human shaped invisible aura of my Martial Elite Body, making all of my movements heavier and stronger. Yet, there is no direct tethered connection to my silky smooth souls.
+
+I walk down the steps, back to the center of the 5 element cultivation array to think about what I just saw.
+
+While fresh in my mind, I pull out the booklet on my own acquired physique, and try to find if there are any pages that detail this phenomenon.
+
+I see vague descriptions of what is referred to as the martial path, and others that detail how the physiques operate without the use of qi, that is why this physique is so often used by mortals. There are some detached excerpts that show the soul as an anchor that can be used if the physique is ever unstable, but there is no mention of it within the actual real technique’s true movements.
+
+Almost half of this booklet makes my head hurt looking at the pages. They are meant only for the higher stages of the physique to read.
+
+When I think about the martial root pills still left in my storage, they make me feel quite limited… They do not have enough extract in them to efficiently attempt the next movements toward becoming a Martial Master.
+
+However, with my spirit roots also at a natural potential limit, focusing on my acquired physique next seems like my only option.
+
+“Maybe there is something I’m missing…” I murmur, then pull out the enlightenment talisman I bought for 100,000 spirit stones earlier today.

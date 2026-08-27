@@ -1,0 +1,209 @@
+---
+id: aecc8690-ed87-5a27-bfb1-60337cffa33d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 523: Poking the Hornet’s Nest"
+slug: 0563-chapter-523-poking-the-hornet-s-nest
+partOf: dungeon-of-knowledge-complete
+position: 563
+ownLength: 3425
+unit: words
+ownProgress: 3425
+publishedAt: 2026-01-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2998585/chapter-523-poking-the-hornets-nest"
+royalRoadId: "2998585"
+markedReadAt: "2026-06-29T20:31:27.342Z"
+---
+
+Awareness came for her as it often did, suddenly, and without warning. Ali’s eyes flicked open to see the plain canvas of her little tent stretching out overhead. It was the same tent her friends had bought for her the first day she joined the Adventurers Guild, but her sight was not limited by something so plain and simple as enchanted canvas; Mato’s enormous Sanctuary aura pulsed with vibrant life, seeping into the air all around her and Malika sat keeping vigil outside her tent, legs crossed, and eyes closed in a pose of simple tranquility. But Ali wasn’t fooled by the outward signs; she knew her friends had been taking turns watching over her while she slept.
+
+She sighed. Am I ever going to get rid of this cursed title?
+
+She ranged further out, using her dungeon senses, as well as those of her minions, to explore the state of her domain. It was a ritual she did regularly, and its familiarity was soothing. With a thought as easy as moving her finger, she deconstructed the eldritch eyes dotted around their campsite and the corpses of all the incursions her monsters had repelled while she slept.
+
+She browsed quickly through all the notifications that had happened during the night, noting with satisfaction several minion level-ups, a few new item variants from the anvil, and a new metal variant: Adamantium, which she had learned late yesterday afternoon. She stopped there, happy that nothing serious had happened while she slept – not that she would have missed it anyway, all her sentient monsters had been instructed to wake her if something urgent entered the dungeon.
+
+Slowly, she got up, emerging from the tent into the dark greens of what had once been Lira’s Forest. If I have my way, it will be again.
+
+“Morning, Ali,” Malika said, greeting her with her eyes still closed. “Done cleaning house?”
+
+“Hi, Malika,” she answered, smiling at her friend. “Yup. Nothing too crazy happened, I hope?”
+
+“Not really, a couple of those creepy eyeballs showed up, but that’s it,” she answered.
+
+“Breakfast?” Mato asked.
+
+Ali’s gaze found Mato’s huge branches spreading out above them. “Maybe in a bit. I need to do some research,” she answered. “I’ll be in the library.” She had put off upgrading his and Malika’s tattoos for far too long, and the last fight had been quite challenging. While a single extra enchant on their gear probably wouldn’t make much of a difference either way, it was an unnecessary risk, and it could no longer wait.
+
+“I’ll come find you,” Mato answered, using his real voice as he shifted back to normal. He ambled over to the cold campfire to give it a critical glare before pulling out his cooking gear.
+
+Malika simply got to her feet and fell in beside Ali as she descended into the library atrium on her golden wings.
+
+“Hey, Clarence? Where are you?” Ali called, searching the bookshelves as she reached the study area, and in a few moments, the errant tome suddenly popped into existence before her, flipping his pages excitedly.
+
+“Sorry, I can’t play right now,” she told him. “But I wonder if you can help me with some spell research? That’ll be fun too, won’t it?”
+
+The riffling of pages paused for a moment in what passed for thought before the book snapped shut, circled her a few times, and then gently alighted upon the study desk and opened somewhere in the middle. Having grown accustomed to the strange book’s idiosyncrasies, Ali immediately peered down, taking the specific choice of chapter and page he had offered her seriously. It took only a few sentences before she drew up her chair and summoned her Grimoire.
+
+Seriously, how does he always know?
+
+She shook her head, slowly reaching for her notes and a pen, baffled as always, but his way certainly saved a lot of time.
+
+It took perhaps an hour to finish before she looked up. The table was covered with notes, now, and there was an empty bowl of what smelled like it might have been oatmeal and fruit, but she hardly even remembered eating it. Make that two hours, she decided. Mato, thanks for the damage – to my waistline.
+
+She fished around in her storage ring, retrieving her bottles of ink and the enchanted needle she needed for her work. “Hey, Mato? I’m ready for you,” she called.
+
+“Sure,” he answered, tossing the ball for Clarence to fetch, now that she was done with her research, and walking over to sit on the ground beside her.
+
+“You only have the one mastery, right?” she asked him. With limited enchant space, it was important to get the right combinations.
+
+His eyes crinkled as he joined her and answered, “Yep, but Bestial Combat is a critical skill; it’s worth it.”
+
+“What if I do the melee trait instead?”
+
+“Oh, you can do that?”
+
+“Yes, that’s actually easier,” she answered. She had learned a lot from studying the runic tattoos she had found on Grim Spark and the other Bone Fetish monsters they had defeated in their foray into the Blind Lich’s dungeon. Unraveling the curse had been a nightmare, but that’s what Clarence was so great at.
+
+“Bestial Combat is a Melee skill, and so are three others,” Mato said, thoughtfully. “Not including my bear skills and the melee attacks I can make with roots.”
+
+“Definitely the better choice then,” she said, dipping her needle in the nature-affinity ink and using her mana to draw it in. Then she got to work, expanding the tattoo that wreathed the side of his face.
+
+You have lost experience.
+
+She felt the sharp bite of experience lost as she completed the final rune, but she could easily tell it was substantially less than the first time she had inscribed this – apparently, the cost of the edits was proportional to how much she changed.
+
+Good to know.
+
+Sigil of Natural Wrath – level 187An intricate formation of green runic tattoos empowered by nature magic.+103 Strength.+82 Endurance.+41 Vitality.+20% faster recharge for Critical Block.Grants level 62 [level / 3] Limited Telepathy skill.+4 [1 + level / 50] to skill level of Melee skills.Reserve: 748 mana.Requirements: Strength 655.Created by Aliandra Amariel.Head – Runic Tattoo
+
+“Thanks, Ali!” he said, a big grin lighting his face when she finished it. “You’re the best.”
+
+“I know,” she said, punching his shoulder affectionately.
+
+“Hey, that’s my line!” he declared, “You can’t steal it!”
+
+“Of course I can,” she said, puffing herself up to her nearly full meter of height. “I just did!”
+
+Mato just chuckled, and Ali turned back to find Malika already waiting. Ali nodded to her and said, “I thought I’d do spell power for your sixth slot. What do you think?”
+
+“That’s perfect,” Malika answered, “That will benefit both my healing and my damage.”
+
+“Ok,” Ali said, swapping inks and making the needle flicker and dart across the dark skin of Malika’s back, augmenting the already glowing runes she had previously inscribed. Hmm, I should update her skill enchant, too, she decided. The formation for the skill bonus Grim Spark had used would grow as the class level did, and Malika currently had only a single point skill bonus. It took a fair bit of work to remove the obsolete rune structure, but she’d already inscribed something similar for Mato, so the redesign wasn’t particularly difficult.
+
+When she had first inscribed this tattoo, it had been pushing the limits of what she was capable of making, and yet, here she was, creating something substantially more challenging.
+
+You have lost experience.
+
+Sigil of The Tranquil Soul – level 189An ancestral tattoo, woven from active soul magic.+104 Wisdom.+83 Endurance.+41 Vitality.+47% [level / 4] spell power to Soul skills.+4 [1 + level / 50] to skill level of Soul skills.Grants level 63 [level / 3] Spirit Walk skill.Reserve: 756 stamina.Requirements: Wisdom 662.Created by Aliandra Amariel.Body – Runic Tattoo.
+
+“Oh, wow, Ali,” Malika exclaimed softly as she examined her tattoo using a mirror. “You got me more skill levels to Soul skills? I thought you couldn’t do my affinity?”
+
+“It’s amazing what a little studying can achieve,” she said, grinning. Truth be told, the transmutation of the formation into soul affinity was always difficult. It was a rare affinity with not much reference material available, but this was where Clarence’s knowledge relating to the theoretical underpinnings of magic and the nature of affinities had really come in handy. She had felt like she was deriving half of mathematics from first principles – the difficult half – but she was certain the experience was going to come in very handy at some point down the road. Perhaps even enough to make some breakthroughs on affinity modifications to dragons that Azryet might be able to use. That’ll make the terrifying old dragon smile for a change, she thought.
+
+“What are we doing out here?” Calen asked. His wings floated and shimmered above the corrupted ground of the dungeon, a sharp contrast to the crackling lightning and the waves of heat rolling off his mentor’s wings.
+
+“Scouting the next boss, of course,” Lyeneru answered, her voice calm and relaxed, like she had just suggested a walk down beside the river, rather than a solo incursion into a champion-level dungeon.
+
+Archer [Pathfinder of Legends] – Night Elf – level 239 (Fire / Lightning)
+
+She’s still so far ahead, he thought. The sheer density of power and mana he had experienced facing the dracolich, Kryostria, was missing from his mentor; clearly, the difference of having reached the second evolution. Lyeneru had always been vague about her level whenever he had asked her about it, but with his skills, he’d been able to identify her for a while now. At two hundred and thirty-nine, she was close to needing the shrine, and once she evolved her class, they would finally have a powerful counter to the Blind Lich and his stronger minions. Hopefully. He hadn’t forgotten that Kryostria was a powerful dungeon-enhanced monster and would require a strong raid to overcome. It’s not just about individuals. We all need to grow stronger.
+
+“Where do you think they are?” Lyeneru asked, pausing above the threshold into the denser domain Ali had revealed when she had destroyed the barrier.
+
+He scanned the desolate landscape, his eyes automatically identifying and dismissing the hordes of trash mobs that crawled along the ground or hovered about in the air. “I don’t think this ring is the same as the last,” he said finally. As he followed the lines of the inner dome, his eyes caught sight of something dense and powerful on the far side of the corrupted well, barely visible through the giant geyser of dark and warped mana and purple glittering central barriers. “I think there’s a single boss on the opposite side.”
+
+“Let’s go,” Lyeneru said, her form shimmering and vanishing as her stealth skill took hold.
+
+Taking her lead, he activated Eclipse and followed her closely, using his mana sight and tracking to keep up with her, but even so, it was difficult to keep track of the legendary pathfinder – and he was certain she wasn’t even going all out.
+
+It took ten minutes of flying for them to approach the other side, but as they did, his eyes immediately confirmed his guess. Floating there, beside the dense barrier, was their next target. A towering form of purple geometric prisms, each rotating independently. Oddly shaped blocks, spikes, and cylindrical protrusions emerged from the featureless facets, rotating about with the core until they receded and vanished as if they had never been. The monster hovered above a glowing concentric array of immensely complex runic circles that shone with purple and black magic burning through the corrupted ground, and four smaller replicas of itself slowly shifted in orbit around it. The density of mana compressed into its twisting shape left no doubt in his mind that this monster easily surpassed the two of them.
+
+Four glittering purple disks flew above the monsters, barriers much like Ali’s magic, only these were covered with powerful runes of black and radiant purple, each having a diamond-shaped pulsating crystal about ten feet above it, somehow invisibly attached to the barrier disks themselves.
+
+Avatar of Annihilation – Elemental – level 247 (Arcane)Theuronic Crystal – Elemental – level 245 (Arcane) x4.[Explorer]Category: Dungeon BossThreat Level: ChampionMonster Type: ElementalDamage: Arcane
+
+“What does your skill see?” Lyeneru asked quietly from beside him.
+
+“Level two hundred and forty-five for the smaller ones,” he answered, his tier two Explorer giving a far more precise read on the danger they were facing. “Two hundred and forty-seven for the big one.”
+
+“Not past the second evolution then?” she asked.
+
+“No,” he answered. Of this, he was quite certain. “Those smaller ones are minions, and there is something off about them. Like they’re not quite as real as the boss.”
+
+“What about the runic formation on the ground?” Lyeneru asked. “And those floating constructs up above?” She was eyeing the floating platforms with a rather worried look in her eyes.
+
+“I will need to see it in action to learn much more,” he said. All he could tell at this point was that the runic magic was potent and dangerous. No doubt Ali would be able to read them, but they would need to get her close enough for that.
+
+“Ok,” Lyeneru said, coming to a conclusion that was clearly not sitting well with her. “Let’s poke it. Keep your eyes open.”
+
+Calen nodded grimly. “Let’s do this.”
+
+A blaze of magical flames erupted in the shape of a bow, radiating oppressive waves of heat in all directions. Lightning sparked within the flames like a miniature thunderstorm.
+
+Calen rapidly downed two protection elixirs and summoned his bow, just in time to see Lyeneru’s Power Shot unleashed. A bolt of lightning and flame as thick as his arm shot forth from the blazing bow, crossing the distance between the flying elf and the elemental below in a fraction of a heartbeat. The deafening sound of the thunderclap echoed back at him from the impervious barrier behind the monster as the shot struck it dead center in the middle prism.
+
+An instantaneous cascade of purple flashes of an enormous Arcane Blast burst from each of the elementals; high-speed shockwaves rippling outward in spherical concussion blasts that kicked up sprays of dirt and muck, smashing it all into a thin layer of black that was blasted far beyond them by the insane reach of the magical detonations.
+
+You have been afflicted with Arcane Amplification.Your Arcane Amplification has increased to 5 (+4).Arcane Amplification+1% to Arcane damage taken.Duration refreshes on reapplication.Magic – Domain – Duration: 30 seconds. Count: 5.You have gained Fade.
+
+Calen used the sudden burst of speed to dodge the strange crystal platforms that shot off on high-speed, unpredictable trajectories, buzzing like giant hornets, and instead raised his bow and unleashed a multishot Ambush at all four of the elemental minions. If Lyeneru planned on kiting the boss until it revealed some of its abilities, he could only help by reducing the load on her.
+
+The boss took off at an angle to him, chasing after his flying mentor, while the four smaller copies of it did an instant about-face as soon as his arrows struck, zooming across the runic inscriptions to close with him. He backed up, critically aware that the limited range of the domain-enhancing magic empowering these monsters may be his biggest tool to manage the danger. The loud reports of Arcane Blast echoed behind him as he abused the few seconds of extra speed from Fade to get some distance, but the shock fronts of spell damage overtook him in less than a second, pushing the count of Arcane Amplification higher with each blast.
+
+Suddenly, the massive runic circle pulsed once, right at the instant the elementals passed the outer edge. The intense purple light darkened dramatically, becoming ominously black. Deep inside each elemental, visible through their transparent exteriors, a dark kernel of blackness rippled outward, warping and shifting their magic and form. They darkened to pitch black, creating amorphous quasi-humanoid shapes with featureless faces of smooth inky blackness, a vague hint of a shroud, two shapeless arms, and below the waist was simply a pillar of gaseous darkness that billowed and boiled. By contrast to the strange shapelessness of the monsters’ new forms, the giant scythes they carried seemed all too real.
+
+Avatar of Annihilation – Elemental – level 247 (Death)Reaper of Ruin – Elemental – level 245 (Death) x4.
+
+A huge surge of mana rippled through the giant Avatar of Annihilation, and suddenly four new Reapers of Ruin spawned beside it. And four more platforms shot up into the air, buzzing loudly from their crystals.
+
+Form change? He registered the magic as he scrambled to avoid the sudden storm of black energy bolts that filled the air.
+
+You have been afflicted with Death Amplification.Your Death Amplification has increased to 3 (+2).Death Amplification+1% to Death damage taken.Duration refreshes on reapplication.Magic – Domain – Duration: 30 seconds. Count: 3.You have gained Fade.
+
+He dove, free-falling for a moment before catching himself with his wings and darting sideways, trying to avoid the sudden storm of magic. But even with his speed, he was struggling, the bolts curving around as if seeking his energy, ignoring the fact that he was supposed to be invisible. The air filled with the sizzling crackle of magic, the stench of death, and the sudden, deafening buzzing as one of the platforms shot up behind him.
+
+***
+
+Calen opened his eyes.
+
+It was strangely quiet wherever here was, and he had a splitting headache. He groaned, struggling to lift the weight of his head. The ground was polished black stone, and there were glowing runes in the floor.
+
+Novaspark Academy? He thought he recognized the locus. Why…
+
+“You’re awake?” a voice spoke – directly into his ear.
+
+He jolted upright, startled by its shocking closeness, finding himself cradled in Lyeneru’s arms in the center of the locus. In a spasm of panic and flailing limbs that had somehow turned to jelly, he tried to extricate himself, but all he succeeded in doing was stumbling and tripping.
+
+She caught him again. To his horror, one of his expensive enchanted mithril arrows seemed to be embedded deep in the back of her shoulder.
+
+“What… what happened?”
+
+Her face twisted into a dark scowl. “Mind control.”
+
+She did not need to say any more. Mind control was one of the most dangerous spells to encounter in a dungeon; every text, tome, or lecture advised running and never coming back.
+
+He shifted his thoughts, replaying his last recollections of the fight.
+
+It had been a named arcane elemental, Avatar of Annihilation, a domain-enhanced Theuronic Crystal that had radiated power. He and Lyeneru had pulled it to see what it could do, and despite all his avoidance, he had still been hit several times by the immensely wide blasts of arcane energy. Each hit had come with a stacking vulnerability debuff, too. He remembered that clearly.
+
+And death bolts. He suddenly remembered the storm of black energy bolts with arcing curved trajectories that homed in on him with unerring accuracy as he tried to dodge. He remembered the giant scythes and the featureless black masks of death magic.
+
+“Form change,” he managed, “right when they exit the rune circle?”
+
+Lyeneru nodded.
+
+“More minions at the same time.” There had been a loud buzzing right then as he dodged the bolts of death magic.
+
+“The platforms with the crystal…” he said, the mechanism finally clicking in his mind. “Those have mind control?”
+
+“Yes,” she answered. “And it’s a domain ability.”
+
+Domain ability? That did not bode well for them. Domain abilities were almost impossible to disrupt, resist, or guard against. “Can we even defeat something like that?” The fact that they were even talking about it was unbelievable – the only answer was to leave. Forget about reclaiming Ciradyl. But she was Lyeneru Silverleaf, the legendary pathfinder. If anyone could think of a way, it would be her.
+
+“Maybe,” she answered grimly. “But it’s going to be difficult. Come, we need to share this intelligence with the guild.” She fixed him with an unreadable gaze. “I could use a few of your inspired strategy ideas right now.”
+
+Me? he thought, as her shocking words hung in the air, incomprehensible, unimaginable. He simply stared at her back as she turned to leave.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

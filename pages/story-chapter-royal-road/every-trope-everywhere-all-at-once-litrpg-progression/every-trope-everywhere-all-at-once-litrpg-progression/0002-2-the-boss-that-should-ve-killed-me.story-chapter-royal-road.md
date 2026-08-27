@@ -1,0 +1,391 @@
+---
+id: 5591782a-7cbe-5560-b02b-1dca96e65cd7
+page-type-slug: story-chapter-royal-road
+title: "2 - The Boss That Should’ve Killed Me"
+slug: 0002-2-the-boss-that-should-ve-killed-me
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 2
+ownLength: 2609
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387389/2-the-boss-that-shouldve-killed-me"
+royalRoadId: "3387389"
+---
+
+Okay, we’ll get to Lyndale Castle soon, I promise. But I swear—things just keep getting in my damn way for no reason.
+
+[TROPE INITIATED: THE FIRST BOSS THAT SHOULD’VE KILLED YOU]
+
+Completion criteria: Defeat a first boss most beginners would avoid or die to.
+
+Right. So this “boss” standing in front of Reina and me was clearly a reference to a video game I played in the other world. Due to copyright reasons, it looked a bit different from the original one I was imagining with that same name, but whatever. All you had to know was that there was a big horse with a big knight on top of it. That was pretty much it.
+
+[BOSS: TREE SENTINEL]
+
+Level: 26
+
+HP: 100%
+
+Description:
+
+Unarmored knights riding large steeds and wielding spears. They appear where baby trees are most abundant. In other words, they guard saplings.
+
+Assessment:
+
+New adventurers often leave it be at first and only return once they’re more powerful.
+
+As I read over its stats, I realized there were some slight differences compared to the slime I inspected earlier.
+
+For one, the Tree Sentinel was classified as a [BOSS] as opposed to a [MONSTER]. And two, the boss’s HP was in percentages instead of a flat number like the slime. Which meant that the only way I could tell how much HP it had was by attacking it once first and seeing how much damage I did.
+
+I reached for my waist, pulling out a legendary sword—
+
+Only to remember that I didn’t have anything on me.
+
+I turned to Reina, who had been frozen still ever since we saw the Tree Sentinel.
+
+“You alright?” I asked.
+
+“Shhh!” She covered my mouth.
+
+“Mmh mmm mh?” I asked. That roughly translated to, “What’s wrong?”
+
+She leaned in close. “We… we have to run!” she whispered. “We can’t beat that thing!”
+
+She released my mouth.
+
+“So you’re saying we should just run away from it?” I asked. “But it’s in our way.”
+
+“That doesn’t matter! We’ll take a detour. Just… we just need to get away from it.”
+
+Judging from how shaky her legs were, she meant every single word.
+
+“I think we can defeat it,” I said.
+
+“Are you crazy?!”
+
+“I mean, I’m Level 117. The Tree Sentinel’s only 26.”
+
+She looked me dead in the eye. “There you go again with these Levels… I don’t know what you’re on about, but I’m not gonna let you get us killed!”
+
+Reina spoke louder than anticipated. Her eyes widened as she heard a stomp and a neigh. When we turned, we saw the Tree Sentinel charging right at us.
+
+I sighed, putting out a hand.
+
+“That knife. Could I borrow it for a second?”
+
+“Huh?”
+
+I took it before she could react.
+
+I stepped in front of her, standing in the Tree Sentinel’s path. As it charged toward me with its spear pointed at my head, I aimed the tiny knife at it. Under normal circumstances, this would practically be suicide. But this was no normal situation. I was Level 117, and the Sentinel was only Level 26—
+
+The Sentinel knocked me away, sending me flying through the air until I landed on a patch of grass. That spear should’ve torn through me right then and there, but it didn’t—just to keep things PG. Instead, it just knocked me back a long distance. A very, very long distance.
+
+“Agh…” I groaned.
+
+I saw Reina running in the distance, coming to my side.
+
+I blinked. A blink of utter confusion.
+
+How did I not one-shot the Tree Sentinel right then and there? I had way more levels than it.
+
+The Tree Sentinel charged at me again, shoving Reina away with the side of its spear as though she were an insect. It wanted to kill me, not her.
+
+It had to be a fluke, right? The Sentinel must’ve gotten lucky.
+
+I stood, readying my knife again. As it came close, I tried to side-step its attack, but I was too slow.
+
+It knocked me again—this time even further. Was it because of how small I was?
+
+I landed inside of a tree, tumbling through the leaves and branches before falling to the earth again. In the world I came from, this surely would’ve been a fatal injury, but maybe things worked differently in this world. Was it because of my Levels?
+
+“Allene!” Reina cried.
+
+Before she could reach me, she noticed the Tree Sentinel getting ready to charge again. This time, she stood directly in its path, using herself as a distraction.
+
+“Run!” she yelled. “I’ll handle this, so get out of here!”
+
+Her? Handling that? That definitely wasn’t possible, but it was nice of her to try to protect me.
+
+[TROPE INITIATED: COMPANION SACRIFICES THEMSELVES FOR YOUR ESCAPE]
+
+Completion criteria: Escape while they hold the enemy off.
+
+I sighed. Yeah—no, nobody’s dying today. I’m literally Level 117. There’s no way Reina would die now.
+
+I shook my head and called [INSPECT] on myself. Admittedly, I should’ve done that a lot earlier, but the thought never came to me.
+
+[PROTAGONIST: Allene]
+
+Level: 117
+
+HP: 100
+
+STAMINA: 50
+
+MANA: 50
+
+Strength: 1
+
+Agility: 1
+
+Vitality: 1
+
+Endurance: 1
+
+Intelligence: -1
+
+Wisdom: 1
+
+[WARNING: Some values are kept hidden]
+
+Unallocated Stats: 117
+
+Wait… unallocated?
+
+Ignoring the fact that my Intelligence was somehow negative, the unallocated stats told me everything. As it stood, I was basically only Level 1.
+
+Which begged the question.
+
+Then how did I kill that slime earlier just from trying to pet it? Was it because of my Levels alone?
+
+Even without allocating any stats, Level 117 wasn’t something a Level 1 creature could possibly survive against. That had to be it.
+
+So then why hadn’t the same thing happened to the Tree Sentinel when it was only Level 26? Why was I having such a hard time with it? Maybe because it was a [BOSS]?
+
+I clicked my tongue and shook my head. Whatever. That was something to figure out later.
+
+I quickly dumped a few points into Strength, Agility, and Vitality. Not all of it—in case I needed to save them for something better—but enough to kill the Tree Sentinel.
+
+[Strength]
+
+[1 → 20]
+
+[Agility]
+
+[1 → 20]
+
+[Vitality]
+
+[1 → 20]
+
+Unallocated Stats: 60
+
+I rose to my feet, facing the boss. It was chasing Reina around in circles.
+
+“Hey!” I called out.
+
+Both Reina and the Sentinel turned to me. For some reason, the Sentinel seemed especially agitated at the sound of my voice, so it completely ignored Reina and charged right at me.
+
+But this time, I was much faster than before.
+
+When the Sentinel got close, I quickly stepped to the side, avoiding the horse and spear attack. I landed a quick knife jab at the Sentinel’s side, causing it to jolt violently.
+
+I called [INSPECT] on it, keeping only its HP stat in front of me.
+
+HP: 87%
+
+Good. Not a crazy amount of damage, but certainly enough.
+
+The horse twisted and resumed its charge at me. It was far faster than anything I would’ve expected to move at that size. The spear came in with a sweeping arc. I ducked, the tip cutting through a bit of my hair, and pushed off the ground for distance.
+
+It was much easier to move now that I had some stats in Agility.
+
+“RAAAH!” Reina screamed.
+
+It wasn’t a scream of pain. It was the kind of scream you would hear from a warrior charging headfirst into battle.
+
+Since the Tree Sentinel was distracted by me, she managed to land a clean hit with a… punch.
+
+Right.
+
+She didn’t have any weapons since she’d given her knife to me.
+
+HP: 86.5%
+
+Wow. Her attack did half a percentage. It was so little that the Sentinel didn’t even bother turning to her—it just kept its gaze on me.
+
+I exhaled slowly. From everything I had seen so far, I noticed there was a clean opening whenever the horse charged at me. I turned around, patted my butt, and taunted, “Come at me!”
+
+I had no idea if it could even understand me, but it began charging at me anyway.
+
+When it got close, I sidestepped again. It predicted I would do that move again—seeing that its spear was just a blink away from hitting my face—but I deflected its spear away with my knife, staggering it ever so slightly. I used the opening to climb on top of the horse, sitting just behind the knight.
+
+“Hey there,” I said as I slashed the rider’s neck.
+
+The attack seemed to instantly kill him. He fell from the horse, and his body started to dissolve into the air. I guess that was how things worked in this world—once someone was dead, all their remnants just… disappeared.
+
+[TROPE COMPLETED: THE FIRST BOSS THAT SHOULD’VE KILLED YOU]
+
+[REWARD: Pending…]
+
+[TROPE SUBVERTED: COMPANION SACRIFICES THEMSELVES FOR YOUR ESCAPE]
+
+[REWARD: Pending…]
+
+Pending…? Why were the rewards pending? Not even that, but I could also subvert tropes?
+
+Judging from how it was trying to reward me, the System seems to differentiate between subverting a trope and failing one.
+
+But that wasn’t even the weirdest part.
+
+Even after I killed the rider, the boss wasn’t entirely dead.
+
+HP: 10%
+
+The remaining HP must have been because the horse was still alive.
+
+But the horse didn’t attack me anymore. It trotted to the place where the knight died, lying next to it, wailing. Why was the trope completed if the horse was still alive?
+
+Reina ran over to me.
+
+“You're stronger than I thought! I didn’t think you’d be able to do it!” she cried.
+
+I turned to her, smiling. “See? That wasn’t so bad after all. Never judge a book by its cover.”
+
+“Well, that’s exactly what I did to you! Honestly, I thought you were just a teenager since you’re so small, so I—”
+
+I glared at her, and she zipped her mouth shut.
+
+We walked over to the horse. It continued its cry, paying no mind to us at all. It had been so focused on killing us earlier… So why was it acting like this now?
+
+“Is this normal?” I asked.
+
+Reina shrugged. “I don’t know. I’ve never fought a Tree Sentinel before.”
+
+“Well, is it normal for monsters to… I don’t know… cry like this?”
+
+She shook her head. “Not really.”
+
+Its cries made my heart drop.
+
+Oh god.
+
+Not again.
+
+This was the same incident as the slime. What’s wrong with me? These are monsters, damn it! Why am I feeling emotional towards monsters?
+
+I reached out a hand, gently touching the side of its body. It flinched away from my touch. That was understandable. I was the one who killed its rider, after all.
+
+“I’m starting to feel bad for it,” Reina said, her expression low. “Should we just leave it?”
+
+“How does that even work?” I asked. “The horse and its rider count as one monster, don’t they? So if the knight dies, what happens to the horse?”
+
+Reina shrugged. “I have no idea. I think most people usually kill both at the same time.”
+
+I slowly walked closer to it, making sure not to startle it. The horse was curled up beside where the knight had fallen.
+
+…I think I understand it now.
+
+The System only showed one HP bar, but that didn’t mean the horse and rider were one entity. They were separate, just grouped together as one boss. Killing the rider was the win condition, since it was the one controlling the horse.
+
+But now that the rider was gone, the horse wasn’t an enemy anymore.
+
+“Hey, look,” Reina pointed. “The knight dropped some things.”
+
+I didn’t notice until now, but there were several items on top of the patch of grass where the knight had died. I looked at them, calling [INSPECT].
+
+[ITEM: TREE SENTINEL’S SPEAR]
+
+Rarity: Rare
+
+Description:
+
+A weathered spear once wielded by a guardian of saplings. Despite its simple construction, it carries a surprising weight to it.
+
+Effects:
+
+- Slightly increased damage against earth-related enemies
+
+- Bonus impact when striking from a charge or horseback
+
+[ITEM: GOLDEN CARROT]
+
+Rarity: Rare
+
+Description:
+
+A golden carrot grown near sacred saplings. Its glow hasn’t faded even after being pulled from the soil.
+
+Effects:
+
+- Restores stamina over time when consumed
+
+- Highly favored by mounts
+
+Note: Please don’t eat this. Give it to the horse.
+
+I picked them up, carrot in one hand, spear in the other. Despite its size and description, the spear was… surprisingly light? It must’ve been because of the stats I had in strength.
+
+The horse looked at the golden carrot in my hand, its eyes sparkling as it salivated. Just like that, it was done mourning. All it took was one carrot. And why the hell was the carrot golden, anyway?
+
+“Do horses usually eat this?” I asked, although the System message already gave me the answer.
+
+“They don’t just eat it, they absolutely love it,” Reina said. “A golden carrot is super rare. We could probably tame this horse right away.”
+
+“Really?”
+
+She nodded, taking the carrot from me. She walked up to the horse, and it ate the carrot without hesitation, almost chomping her hand off. She flinched back as the horse devoured its meal.
+
+It neighed. I didn’t speak the horse's language, but I could tell from its body language that it was satisfied.
+
+It walked over to us, rubbing its head against our cheeks.
+
+“That was… surprisingly easy?” I muttered.
+
+“That’s the power of a golden carrot,” Reina said. “Hey, let’s give it a name!”
+
+I looked at the horse. It was brown, and… well, that was pretty much it. It looked about as ordinary as any horse you could think of, which was quite surprising, considering it was a [BOSS] just a second ago.
+
+“Doesn’t something look off?” I began. “I feel like it's supposed to be bigger. Did it shrink to a normal size after we defeated the Sentinel?
+
+Reina looked the horse up and down.
+
+“Huh. I think you’re right.”
+
+How strange.
+
+Curious, I looked at its underbelly and…
+
+Yup. That's a male.
+
+“Let’s call him Roach,” I said.
+
+She raised an eyebrow. “Roach? That's… an interesting name.”
+
+“It fits perfectly, don’t you think?”
+
+She looked at him from every direction. “I guess?”
+
+She didn’t seem fully convinced, but whatever. It was just a name anyway.
+
+The two of us got on the horse. I sat in the front, grabbing onto the reins, while she sat behind me.
+
+“Alright,” I said. “Off to the castle we go—”
+
+The horse galloped away at an unimaginable speed, the harsh winds nearly throwing Reina and me off. She grabbed onto me tight, while I grabbed onto the reins tight. Actually, it didn’t even matter. We were just grabbing whatever the hell we could!
+
+But then he stopped. Roach just… suddenly stopped.
+
+We were launched through the air. I landed on my face—as always—and Reina landed on top of me, almost breaking all my bones.
+
+“Aghhh!” I screamed. My life in a new world was not looking good so far. “Roach! Bad boy! Bad—”
+
+My eyes widened as I realized why he suddenly stopped.
+
+“This…” Reina began, standing up from me. “I almost forgot about it. Tree Sentinels only exist to guard saplings. I guess this is where it is, huh?”
+
+There was a sapling on the ground. A sapling that emitted a… demonic aura.
+
+I had a bad feeling about this.
+
+[TROPE COMPLETED: THE “I HAVE A BAD FEELING ABOUT THIS” ENDING]
+
+[REWARD: +1 HP]
+
+[PROTAGONIST: Allene]
+
+HP: 575 → 576
+
+…Really?

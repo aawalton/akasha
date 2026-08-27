@@ -1,0 +1,117 @@
+---
+id: f4d25281-4831-5489-8e6f-ff6b24494d63
+page-type-slug: story-chapter-royal-road
+title: "Ch21 Slaughter"
+slug: 0021-ch21-slaughter
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 21
+ownLength: 1245
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211971/ch21-slaughter"
+royalRoadId: "3211971"
+---
+
+Zhou Kang and two other old men in grey steward robes come out of the woods.
+
+One of them is extremely overweight, but his neck and arms look bulky and muscular.
+
+The other is lanky and carries two axes. They look just like the ones servants use to chop wood.
+
+From this distance, I can’t feel their aura. However, the fact that they’re stewards and managed to evade my sight for a week means they must be at least level 2 qi refiners.
+
+My heartbeat quickens, not out of fear, but of excitement.
+
+We’re far from any servant camps, so no one will witness or hear their screams…
+
+I can finally test out my new strength and set my first major plan to move up this sect’s power hierarchy into action.
+
+To play the role of a scared and weak servant, I quickly stow away my spirit stones and try to move the slate rock back into place.
+
+“Bring him here, I’ll kill him myself, and we’ll split the spoils!” Zhou Kang yells, and laughs out to himself.
+
+When I turn back around, the lanky and fat man both charge my way.
+
+They are certainly not slow… I’m not sure if I could move any faster if I went all out.
+
+Taking on two at once will be difficult, unless I use my copper bell talisman. With limited uses, I don’t really want to waste its power… so I’ll have to use the art of surprise to try and even the playing field.
+
+I take a few deep breaths but stare forward with wide eyes, looking like a shocked child that just got caught stealing.
+
+The grins of the two men charging my way turn up as they realize how easy this is going to be. I feel the sharpness of their hatred once they get within my 3-meter spiritual sense’s range.
+
+As predicted, they’re both 2nd level qi refiners and over 60 years old, wastrels that work children to death for a living.
+
+When the lanky man gets close enough, he points an axe down at me, but his stance is completely relaxed and off guard.
+
+The steward is about to speak, but I don’t let either of them get a step closer.
+
+I plant my back foot, filling it with qi, and launch myself forward at the closest axe pointed my way.
+
+Centimeters before my fist collides with its sharp edge, I pull my silver and white dagger from my storage. The blades collide, but there is no metallic clashing sound.
+
+Instead, my dagger slices through the metal axe face like butter.
+
+Next, it slices through the wielder’s unguarded neck.
+
+Crimson blood gushes out, and my gaze sharpens, looking toward the fat man that yells out in fury less than 2 meters to my side.
+
+His fists are hairy and meaty like sledgehammers.
+
+I can’t fully react in time, as I’m still up in the air. He lands a punch in the center of my chest before I can twist out of the way or dodge.
+
+I cough up blood and get sent flying backward into the stream behind me.
+
+He jumps in after, slightly slowed by the current of the shin-high water. This is enough time for me to stand up and focus after the wind was just knocked out of me.
+
+When another punch comes hurling toward my face, I raise my dagger to block.
+
+He changes the trajectory of his blow and uppercuts me with his other hand from my blind spot.
+
+I feel a heavy sledgehammer of a punch hit my chin, but my eyes are completely focused on his first fist. It’s the hand I just slashed my dagger at, chopping it clean off at the wrist.
+
+I’m sent flying backward in a blur from being punched, but the fat man yells out in anguish, holding his stump spurting crimson into the crystal-clear stream.
+
+Everything around me becomes slightly blurry as I stand up soaking wet again, but this time the fat man’s eyes show fear.
+
+He hesitates to move forward, even looking back to the shore where his axe-wielding partner has already bled out from his neck, staining the grass.
+
+Zhou Kang yells out in horror from even further away, not believing what is before him. “What is the meaning of this? You have the strength of a 2nd level qi refiner. You were a pitiful waste! This is impossible!” He then shouts at the fat man to kill me, no longer needing me alive, but he is frozen in fear, trying to stop the bleeding on his stump.
+
+Without a response from his one remaining grunt, reality starts to sink in. Zhou Kang shivers, takes a step back, and his tone completely changes. “No… How could you betray the Azure Cloud Sect? Killing a Steward in broad daylight, how… How could you? I’ll call the Law Enforcement Hall!”
+
+Finally, I show my own smile, looking past the fat man and toward the old steward that has beaten and exploited me for months.
+
+“That’s your angle now? Pathetic. I never provoked you. I would have given you plenty more spirit stones for your stolen pills from the alchemy peak and moved on with my life like it never happened…”
+
+His eyes widen, and he stops moving back any further in shock. “How do you know about that?”
+
+I smirk and let my bow and arrows materialize into thin air from my storage space. “A dead man has no use for that knowledge.”
+
+As soon as I draw an arrow back, Zhou Kang turns to run away.
+
+I shift my stance, pull an upgrade card from my storage, and let my arrow fly the moment a flash of light covers my hands.
+
+A streak of black blurs through the air.
+
+First, it collides with the fatty forehead of the one-handed brute, making a perfectly clean hole in his skull.
+
+The arrow hardly loses any speed, only dipping downward slightly as it travels over the dead body in the grass and hits Zhou Kang’s back as he’s running away just before he makes it to the tree line.
+
+I let out a laugh as both of them fall to the ground at the same time.
+
+Then, I slowly walk forward, grabbing the two brutes’ dead bodies first, allowing them to fall into my storage space.
+
+I feel broken bones in my chest and ribs scraping against each other as I make the walk toward the tree line, and even a light ringing in my ear from being uppercutted so hard.
+
+I feel my jaw and let out a groan while bending down and letting Zhou Kang’s corpse disappear into my storage. Touching his body sends prickling pain through my fingers for a few seconds, just being near the poison residue from my arrow lodged in his back. Once it is in my storage, I no longer feel its effects.
+
+There are still bloodstains all over the grass here, and even some polluting the stream.
+
+However, as I turn around and think about solutions for cleaning this up, my pupils constrict and every hair on my body stands upright.
+
+A fear ripples deep in the depths of my soul, something far more dangerous has just set its sights on me.
+
+Sensing imminent death, my copper bell talisman automatically activates.
+
+A long black sword, centimeters from my neck, collides with the explosive copper colored aura of qi erupting from my pendant.

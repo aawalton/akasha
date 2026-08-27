@@ -1,0 +1,141 @@
+---
+id: 3b212d77-9c76-5dad-a491-23e670a13266
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36"
+slug: 0036-chapter-36
+partOf: emie-ascended
+position: 36
+ownLength: 1884
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3595470/chapter-36"
+royalRoadId: "3595470"
+---
+
+Stephen sighed heavily as he folded his fourteenth response letter. Sending letters to each person or organization that had given us invitations or letters of congratulations was something Cora had insisted on, claiming that doing otherwise would be considered rude.
+
+I vaguely recalled seeing my mom send thank-you cards after receiving gifts, so even though it wasn’t something I’d ever done before, the concept wasn’t foreign to me.
+
+“I guess it serves me right for being lazy,” he muttered. “I should have just walked to the shop instead of teleporting there.”
+
+“What was that?”
+
+Stephen put down his pen and shook his hand. It wasn’t a pen like what I’d used during my childhood on Earth, but it functioned similarly enough.
+
+“I was just grumbling about how my laziness caused me to get all of these invitations,” Stephen replied. “If I hadn’t gotten caught teleporting into the shop by a couple of my fellow Leatherworkers, I doubt I’d be doing this right now.”
+
+“You never mentioned getting caught teleporting. I thought someone with a super advanced identification skill must have scanned us.”
+
+“I thought I told you?” he said, tilting his head. “It happened a couple of months ago when I was focusing on pushing my Leatherworking skill. You remember when I was spending basically all of my free time in the shop?”
+
+I nodded. I remembered the month or so he’d spent focused on Leatherworking before we’d entered the dungeon to evolve. Anytime we weren’t delving, he’d been in the shop trying to get the system to recognize his skill.
+
+Eventually, he’d given up when the system refused to upgrade his Leatherworking skill from (Rare) to (Epic).
+
+“I got careless one day and just teleported to my workstation, thinking nobody would notice.”
+
+“I guess they did?”
+
+With a sigh, Stephen said, “Yes. I asked them to keep it quiet, but obviously, they didn’t.”
+
+“So maybe nobody but the clergy has scanned us, then.”
+
+That was comforting, even if there was no real guarantee that nobody in the church would sell such information. They shouldn’t, but that didn’t necessarily mean anything when it came to people.
+
+“Are you going to meet with any of them?” Stephen asked, motioning toward my own pile of invitations.
+
+“Aside from the guilds, probably not,” I said, grabbing the next invitation from the top of the pile. Giving it a scan, I shook my head and said, “Most just ask to meet, but a few, like this one, actually mention specific compensation they’d be willing to offer.”
+
+I held up the fancy card, embossed with gold filigree, marking it as coming from a household with a gold-ranked backer.
+
+“The Gorshen family is offering a steel-ranked set of armor in exchange for a twenty-year contract where I basically become their slave,” I said with a sneer.
+
+“Of course, they don’t phrase it that way,” I continued, “but it’s basically the same thing. The flowery talk about supporting my progression and guaranteeing I do not enter stagnation during my time of service just means they plan to force me to delve with their teams to take advantage of my status as an Ascender to get a tax break.”
+
+I scoffed and shook my head. “That kind of deal might work with natives, but I don’t know why they would offer a lopsided deal like that to an Ascender. They have to know we’re not naïve children.”
+
+The offer was really quite offensive when I thought about it.
+
+Still, I planned to pen a polite letter thanking them for their interest but declining their offer. I’d already updated my membership with both the Enchanter Guild and the Healer Guild, and I had no intention of joining any other groups or organizations beyond that.
+
+Even a contract with the City Lord probably had all sorts of hidden pitfalls. People didn’t get into positions of power like that without being at least a little ruthless.
+
+No matter how nice and friendly he and his wife seemed, there was no way I was going to trust that they wanted to help out of the goodness of their hearts. While it was possible, I’d learned long ago that very few people were genuinely altruistic.
+
+Even my former master hadn’t recruited me purely out of altruism.
+
+“I received a few like that, too,” Stephen said. “Actually, I’m pretty sure I got the exact same offer from the same family.”
+
+After flipping through the pile of invitations that he’d already addressed, he pulled out an invitation that looked almost identical to the one in my hand. Placing them side by side, it was clear they’d merely replaced one name with another, not bothering to personalize the invitations beyond that.
+
+Though they looked high-quality and fancy, the fact that so little actual care was given only lowered my impression of this particular family.
+
+“They should fire whoever they have in charge of sending these,” I said, as I started writing out a brief response. I still had quite a few to get through, and it was already getting late.
+
+“Emie! Congratulations on your evolution!” Illia said as she pulled open the door. “Come on in. You have good timing. The kits are playing in the sunroom right now.”
+
+Though not an asolade breeder by trade, Illia’s home was set up with the rambunctious creatures in mind. Having been there a few times before, I knew the way to the sunroom and eagerly made my way there.
+
+Laughing, Illia followed. “I’m starting to think you might love asolades as much as I do.”
+
+“I really do,” I agreed.
+
+Illia didn’t know about my status as an Ascender since I made sure to keep my title hidden most of the time. She’d never asked about my background, and I hadn’t told her anything other than that I’d had a pet asolade years before and missed her dearly.
+
+Given my apparent age, she probably assumed that I meant I’d had one as a child. It wasn’t an unreasonable assumption.
+
+“Have you picked up a companion skill yet?” Illia asked when I stopped at the door to observe the young asolades play.
+
+My favorite so far was one of the females who was currently attempting to climb a thick rope mounted to the ceiling in front of the window. Her coloring was nothing like Coco, the asolade pet I’d had in the simulation, but that was fine. I wasn’t trying to replace one with another.
+
+“No,” I replied, smiling at the small asolade’s efforts. “But I plan to go by the pet shop over by the entertainment district later. They had the best selection the last time I was looking around.”
+
+“There are a few shops in that area that tend to have a good selection without being too overpriced. Ares’ Place tends to cater more to actual Tamers than those wanting companions, but his prices are a lot lower than most of the others…”
+
+As Illia shared what she knew about the various shops related to pets or beast companions, I watched as three tiny asolades seemed to notice the one on the rope and decided to chase her.
+
+Their bodies were only about three inches long, though their fluffy tails were at least double that.
+
+Illia had set up the space specifically for the agile creatures, providing ample little hidey-holes, climbing poles, platforms, and even a living vine wall for their enjoyment.
+
+I probably wouldn’t go to the same extremes – at least not right away. But I couldn’t help but consider a few ideas for making a space that would feel welcoming to my future pet companion.
+
+My current favorite asolade leaped from the rope to the vine wall and disappeared behind the verdant leaves. Her pursuers seemed to forget her as soon as she was out of sight, opting to fight amongst themselves over who controlled the rope.
+
+“Have any of them shown any signs of manifesting elemental abilities yet?” I asked.
+
+“No, not yet. I expect to start seeing signs in the next week or so,” Illia replied. “Like we talked about before, they’ll most likely become Air Asolades since that’s what their mom is. There is a small chance one or two might develop into Shadow Asolades since their father and maternal grandfather both shared the element, but the mother’s abilities matter a lot more.”
+
+“That’s fine. The element doesn’t really matter all that much.”
+
+It really didn’t.
+
+Coco had been an Air Asolade, which was by far the most common type as far as I knew. But I wasn’t opposed to getting one of a different element. And shadow would certainly be a neat option – especially if it could do half of the things that some of the shadow-based creatures I’d come across could do.
+
+A week and a half passed before the elemental inclination of the young asolades could be fully determined. I’d been over twice since my first visit post-evolution, and while there had been early signs on my last visit, Illia had been hesitant to declare their nature without the full manifestation being revealed.
+
+“They’re all Air Asolades, just like I suspected,” Illia said through the communicator, or ‘com’ for short. It was this realm’s version of a phone, though the range was limited to the city, and it could only send and receive audio and text messages.
+
+Coms were actually a bit more like advanced walkie-talkies with texting capabilities than actual phones since there wasn’t an open channel between the two devices. But effectively, it worked about the same as a basic phone.
+
+There were ways to communicate with other states, I was sure, but they were far more costly than the basic com device I had.
+
+“So, I can come pick up Aerie?” I asked hopefully.
+
+Illia laughed. “I can’t believe you’re really going to name her that. But yes, you can come pick her up any time. Have you already slotted the skill you bought?”
+
+“No. I didn’t want to risk accidentally activating it when I was visiting. Should I do that before I come over, or after?”
+
+I’d purchased Beast Companion – the most basic and versatile of the companion-type skills. It had been expensive since the local dungeon didn’t produce the skillbooks, and they had to be imported.
+
+At least, none had been sold to the Association, yet. Considering Stephen’s former affinity, it was possible that Sorenguard’s dungeon might actually produce them now, just not in any significant quantity.
+
+I hadn’t used any kind of pet bonding skill in the simulation, so this was completely new ground for me.
+
+“Just bring it with you, and I’ll give you a private space to learn it while you’re with Aerie. That way, there definitely won’t be any issues.” Before she could end the call, she added, “Oh! Don’t forget to bring some kind of carrier. Even after using Beast Companion, it’ll still take time to train her so she won’t run off and get hurt.”
+
+“I picked one up at the shop where I got the skillbook.”
+
+Though I could just put her in my demesne, I’d actually purchased a comfortable carrier to allow Aerie to accompany me around town instead of forcing her to stay inside the dimensional space.
+
+“Sounds good. Then I guess I’ll see you soon.”

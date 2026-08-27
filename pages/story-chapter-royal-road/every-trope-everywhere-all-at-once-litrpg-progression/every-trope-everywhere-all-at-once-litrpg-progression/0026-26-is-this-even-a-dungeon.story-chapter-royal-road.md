@@ -1,0 +1,187 @@
+---
+id: 134db208-3d01-5b93-8d5c-7b4b090d8e98
+page-type-slug: story-chapter-royal-road
+title: "26 - Is this even a Dungeon?"
+slug: 0026-26-is-this-even-a-dungeon
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 26
+ownLength: 1631
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3450752/26-is-this-even-a-dungeon"
+royalRoadId: "3450752"
+---
+
+When someone says the word, “Dungeon”, what do most people think of?
+
+Underground stone halls? Prison cells? Skeletons? Treasure chests? Torches?
+
+That was exactly what I expected too, even for a dungeon on a floating island. I assumed it would lead downward into the island itself. But oh boy was I completely wrong. I should’ve known what to expect, especially after Talon said we’d need to be good at flying to get through the dungeon.
+
+The five of us stood in front of a large gateway on a small island. It was in a relatively secluded area of Whale Isles, so we didn’t see many other islands, creatures, or people nearby.
+
+Kaelor leaned against his griffin, rubbing his temples. He still had an overwhelming headache after last night. Meriel had cast a spell on the three of us to alleviate the infamous curse of a hangover, but Kaelor still had it the worst. His soldiers had been worried for him, but he insisted they leave him alone, even now as he was about to tackle the dungeon.
+
+Talon and Reina were standing on top of Tuna. We initially planned to have four people riding with Tuna, but Meriel insisted on riding a griffin instead, with Noodle hiding inside her robes. Goes to show how much she hated whales.
+
+I was also planning to ride with Tuna as well, but then I remembered I had a skill that would benefit me far more if I chose a griffin instead.
+
+[SKILL: GRIFFIN’S CALL]
+
+Type: Active
+
+Effect:
+
+- Lets out an oddly majestic call that causes nearby griffins to fly faster
+
+In case I needed to use it, this skill should help me. As for the people riding with Tuna… well, she was unreasonably fast for a whale, anyway. They’ll be fine.
+
+“Is everyone ready?” Kaelor asked, climbing on his griffin and standing on top of it. Again, I had no clue why he insisted on doing that every time instead of just sitting like a regular person.
+
+I looked ahead at the gate. It was large enough to fit five whales going through at once, sealed off with some kind of magic. The rules were simple: We had ten revives as a party to get through to the end. The death of our mounts also counted as one. There were several checkpoints throughout the dungeon where we would respawn if we died. Our main goal was to reach the dungeon warden.
+
+“I don’t mean to be that person, but what happened to worrying so much about finding your ‘brother’?” I asked, glancing at Kaelor. “His name was Kthal, right?”
+
+Kaelor laughed, rubbing the back of his neck. “Ah… well, it’s as I said. He’s already been missing for years. He can wait another day.”
+
+So much for urgency.
+
+“Keep saying that, and he’ll end up waiting another year,” Meriel said.
+
+“No, I promised myself I’d go back to the Aethereal Kingdom after this. I don’t break my own promises. Usually.”
+
+“Aethereal Kingdom?” I asked. “Is that where you’re from?”
+
+“Yes.”
+
+I was half-expecting some lore-dump about the kingdom, but I guess not. The name alone sounded ridiculously important. He was probably thinking I already knew about it, like the rest of the people from this world.
+
+I walked over to Meriel, nudging her. She sighed.
+
+“Thanks,” I whispered before she even said anything.
+
+“It’s the largest sky kingdom—a holy city full of angels and other celestial beings,” she said.
+
+Before she could explain any further, Reina called us from Tuna’s head.
+
+“Hey, can we start now?”
+
+We nodded and climbed our griffins. With that, we walked closer to the gates. Well, at least the griffins did. Tuna didn’t really have legs, so she just kind of wriggled a bit closer.
+
+We stood there, watching the glowing magic that sealed the gate. After a moment, I realized no one was even moving.
+
+“Uh… guys?” I said.
+
+Everyone’s expression was completely blank.
+
+No one knew how to open the gate.
+
+“I’m pretty sure one of the angels was supposed to tell us how to get through, but I think they forgot,” Talon said. “Oh well! Let’s just follow what the rumors say!”
+
+Rumors? Really? We’re depending on a rumor?
+
+“If I remember correctly, step one is to make sure no one is stepping on the island, so we all have to fly up a little bit.”
+
+We did just that, the griffins gently flapping their wings and hovering just above the ground. Tuna levitated into the air.
+
+“Alright, let’s see,” Talon muttered, scratching his head. “Next, we have to show our runes.”
+
+Talon, Reina, and Meriel pulled out their runes, which they had received after winning the race.
+
+“Now what?” Meriel asked.
+
+Talon scratched his head. “Uh…”
+
+Their runes began to glow, reacting to the gate just in front of us. They flew out of their hands and combined mid-air into one bigger rune before flying to the top of the gate, where it engraved itself into the stone. The magic barrier began to shimmer before fading away.
+
+While the magic barrier was active, we couldn’t see what was actually inside. The gate simply projected an illusion of the rest of the island behind it. But now that the barrier had vanished, it revealed what it had truly been hiding.
+
+Our mounts slowly flew over, and we poked our heads through. The gate led to… another sky?
+
+We saw floating ruins and islands in the far distance, many of them inverted. The sky had a beautiful orange tint, like a sunset of flames, and there were several broken statues, temples, and inverted waterfalls.
+
+But that wasn’t all. Each of these massive structures drifted through the sky at alarming speeds. If we went through, we’d have to constantly dive, ascend, and maneuver just to get to the other side. Even then, the end was nowhere in sight.
+
+I squinted, leaning closer. I realized there was a gigantic upside-down city in the distance, far past all the islands and other objects. That looked like the end of a dungeon if I’d ever seen one.
+
+But honestly, the space beyond the gate didn’t look like anything that belonged to a dungeon.
+
+It looked like an entirely different world.
+
+“The Inverted Sky is the first part,” Talon said. “That’s what the past participants have said.”
+
+I gave him a horrified look. “Wait, what? First part? There’s more?”
+
+He nodded. “But that’s about all we know. The next parts are completely randomized. One party had a pitch-black sky for their second part of the dungeon, while another had their gravity constantly switching directions.”
+
+Oh god. What did I get myself into? That did not sound like fun.
+
+“Let’s go!” Reina shouted, patting Tuna’s head.
+
+“Hold on, we have to get ready!” I cried. “Let’s prepare first and map out our routes.”
+
+But Kaelor had other plans.
+
+“I was born ready!” he shouted as he and his griffin flew through the gate, entering the new dimension. “What are you waiting for? Let’s—AGHHH!”
+
+His griffin screeched as they suddenly shot downward, rapidly descending.
+
+“What the…?” Meriel muttered.
+
+[TROPE COMPLETED: THE FEARLESS ENTRY]
+
+Completion criteria: Witness a companion make a proud declaration right before immediately regretting it.
+
+[REWARD: +1 COURAGE]
+
+[COURAGE]
+
+[-999 → -998]
+
+Note: This stat doesn’t actually exist.
+
+I blinked. Are you kidding me?
+
+Talon laughed. “Ah, I forgot to mention, but the gravity is really heavy for the first three seconds of stepping through the gate. I’m not too sure why, but the dungeon just does that.”
+
+“You should’ve said that sooner!” I yelled.
+
+“Well, I didn’t expect Kaelor to just suddenly go through.”
+
+Tuna flew through with Talon and Reina, seemingly unafraid despite witnessing what had happened to Kaelor. Just as expected, they dropped at extreme speeds. They let out a scream—though it sounded like the kind of scream you’d have from a roller coaster rather than Kaelor’s scream of genuine fear.
+
+Meriel was the next to go through. When she fell through the sky, she didn’t let out a single noise. Her griffin, on the other hand, let out a strange squeal despite knowing what would happen. I didn’t think griffins were even capable of making such a noise.
+
+My griffin started flying toward the gate on his own.
+
+“Hold on, hold on!” I cried.
+
+The griffin tilted its head, clicking its beak twice.
+
+I didn’t know how to speak griffin, but from the experience I had with Roach the horse back at the Lyndale Kingdom, he was probably wondering why I was acting so scared.
+
+Speaking of which, how was Roach doing anyway? I’m sure the stable workers were keeping him alive and well, but I should probably get back to him soon.
+
+“Listen,” I said, leaning into my griffin’s ear. “Don’t tell anyone, but I hate sudden drops, alright? I really don’t like that feeling in my stomach. So please, I’m begging you. When we fly through, do your best to fight against the gravity. Fall slowly, alright?”
+
+He rapidly clicked his beak. Again—not too sure what it meant, but it sounded good to me.
+
+“Alright, let’s go, boy,” I said.
+
+He flew through, and for a moment, we hovered completely still in the air. I took in the sight. The air and sky felt completely different here in this dimension than outside. For some reason, it was—
+
+“AGHHHH!” I involuntarily let out as we shot downward like a meteor. I clutched my griffin tightly, tears falling from my eyes. I already felt like vomiting.
+
+[TROPE COMPLETED: THE TRAPPED DUNGEON ENTRANCE]
+
+Completion criteria: Trigger the dungeon’s entrance trap within five seconds of entering.
+
+[REWARD: +1 FALL RESISTANCE]
+
+[FALL RESISTANCE]
+
+[-999 → -998]
+
+Note: This stat doesn’t actually exist. Again.
+
+Stop giving me fake stats, damn it!

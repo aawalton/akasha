@@ -1,0 +1,183 @@
+---
+id: 633c5cda-ab9f-5fbf-a6e9-34df52bcbd7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7"
+slug: 0007-chapter-7
+partOf: emie-ascended
+position: 7
+ownLength: 2851
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3461629/chapter-7"
+royalRoadId: "3461629"
+---
+
+I appeared inside a well-organized staging room between two pillars. The blurry portal I’d just exited was behind me, and there was a significant crowd gathered on the opposite side of the dungeon entrance.
+
+I suspected the portal worked like the ones in my previous realm, where groups could enter on one side of the portal, while those exiting came out the other.
+
+A guard stood nearby, though he didn’t seem threatening so much as merely present. Beyond the guard were a couple of counters that had to be passed to get to the exit. The farthest one appeared to have a customer, while a group of four waited nearby.
+
+The entire area was enclosed, and two additional armored individuals stood guard by the exit.
+
+“I’ll take this one,” a man said, drawing my attention as he approached from a shrouded alcove I hadn’t noticed.
+
+The man wore the vestments of a priest – flowing silver robes, marked with metallic blue symbols representing Dia, this realm’s goddess. I was glad to see that much hadn’t changed.
+
+The symbols were significantly more stylized than I recalled from the simulation, but that made sense if the symbols I was familiar with were an older version of what I was seeing now.
+
+The priest stood almost a full head taller than me, which put him at a bit over eight feet tall. He wasn’t the tallest person in the vicinity, but he was close.
+
+His skin was a silvery blue, marking him as having at least undergone his second evolution since I didn’t think skin changes were an option before that point. The man’s hair was also silver, though without the blueish hue that his skin carried, while his eyes were remarkably similar to Rho’s.
+
+“Welcome, Ascender,” the priest greeted me before motioning toward a side door. “I am Priest Zeth. If you would please follow me, I’d be happy to help you get situated.”
+
+I followed Priest Zeth down the winding hallway, not bothering to use my newest skill to learn more since I could sense the man’s power far eclipsed my own.
+
+The building we were in appeared to have been newly constructed and looked far more elaborate than the one I’d arrived in for the simulation.
+
+That made sense considering the Dungeon Complex in the simulation was only supposed to be connected to a third evolution dungeon as opposed to an Ascender Dungeon.
+
+It also made sense if the old Dungeon Complex, including the temple and Delver Association buildings, was renovated or rebuilt during the dungeon’s evolution.
+
+“Are travelers or transmigrators a real thing in this realm?” I asked, thinking back to how the simulation had labeled me as a traveler.
+
+“Such individuals are not unheard of, though they are rare.”
+
+Priest Zeth paused in front of an unmarked door and pressed his hand against a panel next to it. As if drawn by an unseen hand, the marking ‘A7’ appeared on the door.
+
+He stepped back and motioned for me to place my hand on the panel. When I did, the marking on the door pulsed twice, and the door slid open.
+
+“As far as I’m aware, the same should apply to the lower realms,” the man said as he followed me inside the small apartment. “Were such visitors common in your previous realm?”
+
+I shook my head as the door slid closed behind us. The living room was small, but provided plenty of space for a couch, chair, and a few small tables. There was also a coffee table that looked like it contained some type of storage as well.
+
+The décor was all done in shades of silver and blue, which made sense, given the goddess’s colors.
+
+Attached to the living room was a bedroom and a bathroom, though I didn’t see a kitchen anywhere.
+
+“No. I had the opportunity to experience a simulation of Dia prior to ascending,” I explained. “I was given the role of ‘Traveler’ in the simulation. I just wondered if that was something that really happened here.”
+
+“You were one of the few lucky ones. Most ascend with little to no knowledge of what to expect when they arrive,” the priest informed me. “I must warn you, though. Much has changed in the twelve thousand years since the demons began invading our realm.”
+
+“There wasn’t anything about demon invasions in the simulation,” I said, mentally glossing over the amount of time that had passed.
+
+Was that one of the changes that Rho was alluding to?
+
+“Unfortunately, the incursions by the demons have changed Dian culture somewhat. Much of the realm’s technology regressed or was lost altogether due to the death and destruction that the initial wave of incursions caused.
+
+“Some territories were completely lost, while others organized together to form states. You should expect that much of what you experienced in the simulation might no longer be applicable,” the priest said consolingly.
+
+I frowned. I’d expected something significant to have changed, but demons were outside of my expectations.
+
+Zeth motioned for me to take a seat on the couch, taking the chair for himself.
+
+Folding his pale hands in his lap, he said, “Let me fill you in on the basics. As you know, this realm is named Dia, named such after our goddess. The realm is comprised of a single large world named Vasillios.
+
+“There is only one star, which serves as our sun. The rest of the vast space around our world is empty. No matter how far one might travel, they will never encounter anything beyond this system.
+
+“However, the world is vast and has many places to explore. It also holds many secrets, some of which have yet to be discovered,” the priest said, pausing to let the information settle.
+
+“12,473 years ago,” he continued a moment later, “the first incursion from the Demon Realm into Dia occurred, marking the beginning of our new calendar. While progression has always been important to Dia and her people, the appearance of demons and the upheaval that they caused necessitated a change in how society functioned.
+
+“Where youths used to be free to travel as they transitioned from child to adult – a milestone that has always occurred with the first evolution at level 200 – such freedoms were deemed too dangerous in modern times since the weakest demons attacking our realm are typically well into their first evolution.
+
+“Because of this, nearly all youths remain in the city of their birth until they reach adulthood. Upon gaining access to the system at age fifteen, youths enter the Dungeon Complex, which consists of the temple, a medical facility, housing for certain delvers and the clergy, the local Delver Association, and, of course, the entrance to the dungeon itself.
+
+“There, they are provided room and board, as well as any training and support they might need to become successful adults capable of at least facing the weakest threats facing our realm.
+
+“Every transitioning youth is required to delve so they may progress to the first evolution. Beyond that is a matter of personal choice, but most understand the threat we face and opt to continue gaining strength so they may protect themselves and others.”
+
+“This is mandatory?” I asked.
+
+“It is, by necessity. Those who refuse the laws of society are granted their freedom from such restrictions through exile,” the priest said casually. His words weren’t expressed with any sort of threat, only a statement of fact. “While perhaps considered unfair by some, it is a harsh truth that the people of Dia, new and native, must acknowledge.
+
+“Those who have not yet reached their first evolution are functionally incapable of protecting themselves against even the weakest of the threats facing our realm. Their skills are too weak, and they cannot use higher-evolution weaponry to make up the difference since the strain of using such weapons could cause permanent harm.
+
+“Because they rely on the efforts of others for their safety, such measures were deemed appropriate to ensure a sufficient number of citizens remain capable of fighting the ongoing incursions.
+
+“I feel it is worth pointing out that very few natives object to the mandate. The only ones who generally voice any objection to the rule – a rule based on our merciful goddess’s very own decree, I might add – are Ascenders coming from lower realms where peace reigns and few ever manage to step beyond the realm of their birth.”
+
+I could see that. It was certainly a different cultural expectation than what I was used to; that was for sure.
+
+“What about Ascenders who wish to rest now that they’ve reached their goal?” I asked.
+
+While I didn’t necessarily mind spending a few years gaining enough strength to protect myself and others from potential incursions, I didn’t like being forced to do it. I’d had enough of that in my previous realm.
+
+“You are free to settle down and abstain from progressing after reaching adulthood,” Zeth said with a tense smile. “Until then, the laws of the realm make such aspirations all but impossible.
+
+“I know that may not be what you want to hear, but I am sure that someone who managed such accomplishments in your last realm will have no issue reaching the first evolution swiftly.
+
+“Most natives, even those less martially inclined who prefer to take on a noncom, or non-combat role, manage to reach their goal in three to five years. Ascenders like yourself tend to manage it in closer to one once they get acclimated to the changes.”
+
+A year didn’t seem too bad. Even three to five years seemed pretty minor considering how much longer the life expectancy was for those who reached the first evolution.
+
+Provided that hadn’t also changed, the first evolution would take the normal, baseline life expectancy of a hundred years and extend it to about 250 years. Reaching the second evolution would raise one’s life expectancy to something like 600 years, with the number only growing from there.
+
+I remembered hearing about people who were well over 5000 years old in the simulation, so a year or five really didn’t seem all that significant in the grand scheme of things.
+
+“Just to verify, there are only four evolutions, right?” I asked.
+
+“Correct, and the distinction applies to all creatures in Dia, as well as dungeons. Until the first evolution, which, as I mentioned earlier, occurs at level 200, one is considered ‘unevolved.’ Dungeons are called ‘beginner’ dungeons instead, or sometimes ranked by the type of coins they produce.
+
+“The first hundred levels mostly produce copper coins, and as such, are sometimes referred to as ‘copper levels’, or copper-ranked floors. After that is iron. Bronze covers all of the first evolution, and steel, the second. Silver and gold encompass the third evolution, while platinum and mithril are reserved for the fourth.
+
+“Those designations carry over to delvers, beasts, and even equipment, so don’t be surprised if you are sometimes referred to as a copper-ranker due to your levels. It’s considered more polite than calling someone unevolved, though neither is incorrect.
+
+“And to clarify, the second evolution occurs at level 400, the third at level 600, and the fourth at level 800. Each evolution brings with it a significant increase in life expectancy, as well. Some mithril delvers are reported to have lived as long as 10,000 years.
+
+“However, I want to point out that the only way for a dungeon to reach the fourth evolution is to become an Ascender Dungeon, like this one. Ascendance occurs at level 1000. However, as far as I know, that height is only attainable by sapient beings.”
+
+“So, what’s after ascendance? Do I just start all over again?” I asked, not caring much for the idea.
+
+“No. In this case, ascending is the first step toward true immortality. Unfortunately, that’s all the goddess has seen fit to share.”
+
+When I seemed to accept Zeth’s statements thus far, the priest continued his briefing.
+
+“Due to having the highest-rated dungeon in the territory of Abiscar, which is the name of the state in which you’ve arrived, Sorenguard has always been a desirable city in which to live.
+
+“However, with your ascension causing the local dungeon’s evolution into an Ascender Dungeon, we’ve already seen an increase in petitions for relocation. I expect to see our fair city growing quite a bit in the coming years.”
+
+“You already realized it was me?” I asked sheepishly.
+
+Rho had mentioned members of the clergy would know about my involvement with the dungeon’s evolution, but she hadn’t mentioned how they’d know.
+
+Zeth smiled, as if amused by my question.
+
+“I did. It’s why you were granted this specific set of accommodations. It is not as large as those granted to Ascended couples or parties wishing to cohabitate, but it is the largest single-occupancy apartment we have available.”
+
+“Thank you.”
+
+“You are welcome.” Reaching over to a small tile mounted to the wall next to his chair, Zeth said, “You may make changes to the apartment with this. Everything you see can be modified with this controller, including the physical size of the suite, up to a point. You can also manifest an information tablet.”
+
+He pressed something on the tile, and a larger slate appeared.
+
+“It is a relatively small luxury,” he said, setting the tablet aside. “But it is one that is not typically seen in homes of those below the second evolution. The other Ascender apartments have a slightly inferior version of the technology, but it is not so extreme that yours would likely garner any unwanted attention.”
+
+Moving on, Priest Zeth said, “As an Ascender, the normal tax on dungeon loot is also reduced to just ten percent as opposed to the natives’ twenty-five percent. This discounted rate also applies to anyone delving with you as a party member.
+
+“This understandably makes Ascenders highly sought-after party members by natives, though many Ascenders prefer to stick with other Ascenders due to the natural advantages they have over those born in Dia, on top of the centuries or more of experience they have to draw on.
+
+“I would like to point out that the discount on loot tax only applies to Ascender Dungeons. Should you decide to challenge a lower-rated dungeon, you would naturally be subject to the same taxes as any other delver.”
+
+“Are the rates on those still really high?” I asked with a frown. I’d always hated how some local lords seemed to gouge delvers, especially new ones.
+
+“No,” he replied immediately. “I’m not sure what you experienced, but since the incursions began, no entity can tax more than a combined twenty-five percent of the materials or items removed from a dungeon, regardless of the dungeon’s rating.
+
+“There is an exception for healing fees, but those are not taxes. They are a way for beginning delvers to pay for healing services without going into debt before they’ve even gotten started.”
+
+“How does the whole taxing process work?” I asked. “The simulation had an artifact that compared what someone had when they entered the dungeon with what they left with. Since pretty much everything I have came from the dungeon, do I just pay ten percent of the value?”
+
+“For new Ascenders, the initial tax is waived. That exemption only applies to the delve that you’ve already completed, though. Anything earned in subsequent delves will be taxed like normal,” Priest Zeth replied.
+
+“To clarify,” he continued, “anything removed from the dungeon from this point forward is subject to tax. If you were to use a skillbook or consume materials to craft new items made by your own hand, those things would not be factored into the tax. Also, while I cannot see your exact core skills, I can tell that you have a storage skill.”
+
+Considering his role as a Priest of Dia, I was only a little surprised that he’d been able to sense my dimensional space. Rho had mentioned that the priests would know more than others, and I knew there were advanced skills that could pick up such things.
+
+“We still use artifacts, just like those you described,” Zeth added. “Those artifacts will easily be able to see into your storage, though rest assured, the details of what they sense are not recorded or disclosed – not even to the appraisers involved in collecting the taxes.”
+
+I wondered just how effective the artifacts would be after I obtained a few storage devices. While I had no doubt they might be able to see into inventories and storage devices, I wondered how well they’d be able to peek into storage items within the stasis section of my inventory.
+
+Further, would the artifacts be able to perceive spaces isolated from the rest of the dimensional space if I used Divide Space to nestle one space within another?
+
+I had no plans to cheat the temple out of its tax, especially given how reasonable it seemed compared to the services provided, but it was something to ponder. I’d have to test things at some point in the future.

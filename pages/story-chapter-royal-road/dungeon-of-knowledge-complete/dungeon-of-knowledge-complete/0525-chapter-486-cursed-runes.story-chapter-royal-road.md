@@ -1,0 +1,131 @@
+---
+id: 2663f52d-8995-52d0-a454-3ef1ab9d586c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 486: Cursed Runes"
+slug: 0525-chapter-486-cursed-runes
+partOf: dungeon-of-knowledge-complete
+position: 525
+ownLength: 2224
+unit: words
+ownProgress: 2224
+publishedAt: 2025-12-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2879277/chapter-486-cursed-runes"
+royalRoadId: "2879277"
+markedReadAt: "2026-06-29T20:30:04.843Z"
+---
+
+Lem, Ist, IoCarve runes upon your headSpin thrice aroundRise now, you’re undead!- Delirious murmurings of a deranged Sage shortly before death, discovered on a scrap of parchment in the Crypt of Kings.
+
+Ali looked up at Malika with more than a little surprise. Her friend tended to be overly cautious about risk and danger, and honestly, Ali could see her point of view – Grim Spark had been way deadlier than any of them had imagined.
+
+But with the Well of Eternity so close, Ali had been ready to fight through the dungeon by herself, if necessary, just for the chance to retrieve a vial for the elixir that might save Lira’s soul. And so, she was surprised that Malika had relented so quickly.
+
+She knows what it is like to lose someone, Ali realized, connecting the dots in a moment of insight. I misjudged her.
+
+“Thanks, Malika,” she said, letting the softness of her reply frame an unspoken apology, before deconstructing the plants Mato offered and then bending down to finally take a look at the corpse and the magic she had been asked to help identify.
+
+Variant: Sparking Runner added to Imprint: Creeper.
+
+In the center of the Bone Fetish’s twisted skull, etched deep into the bone with what looked like inlaid mithril, was a line of runic script that was still pulsing with death-affinity mana. It ran from the top of the skull, between the stubby horns, straight down the forehead, ending at the brow-line right above the now darkened eye sockets.
+
+“This… is a runic tattoo…” she murmured, recognizing the techniques in surprise, even though the script was death magic and the creator had substituted mithril for ink.
+
+Sigil of the Lich: Delirium – level 204A gleaming mithril runic inscription of exquisite intricacy etched into the skull of this monster blazes forth with intense death affinity mana.+112 Dexterity.+89 Vitality.+44 Wisdom.+15% chance to cast level 173 Confuse when hit. +11% chance to cast level 159 Panic on hit.+5 to skill level of Mastery skills.Cursed: Your body is polymorphed into an undead Bone Fetish.Requirements: Undead, Intelligence 714.Reserve: 816 mana.Created by Nevyn Eld.Head – Runic Tattoo
+
+Oh wow, she thought as she saw the runic tattoo, and without a word, she shared it with her friends. Now that she saw the mana signature, she recognized Nevyn Eld’s disturbing genius in the runic crafting: brilliant, but darkly twisted. The curse, woven through the runic structure, was decorated with the runic symbol for death, and as she studied it, she began to unravel the true horror of this inscription.
+
+Likely, this tattoo had been inscribed directly into the skull of something living. The polymorph curse did not just turn the body into the form of a Bone Fetish – it also killed its host before raising it, turning it into the undead creature they had just fought.
+
+The rest of the item was a sequence of exquisite efficiency and brilliance, weaving an enormous skill boost for masteries with two devastating mind attack procs. Without Malika’s incredible shareable Clarity ward against mind-affecting magic, she was certain this boss would have been undefeatable.
+
+“That’s… well, it’s pretty ridiculous,” Malika said after a long moment of silence.
+
+“A cursed runic tattoo? Is there anything you can learn from it?” Calen asked.
+
+“It’s a death curse, I really don’t want to learn that,” Ali said. “I think I can unravel the mastery skills and the two procs, but I think I will have to test it on a summoned creature to make sure it’s safe. Nevyn Eld is a master at making every part of the runic formation serve multiple purposes.”
+
+It was again with mixed feelings that she pulled out her notebook and carefully copied every detail of the evil Lich’s work. She hated that she admired his brilliance with runic magic, even a work with such a nefarious purpose had been crafted with elegance and sheer mastery. And yet, Malika had once told her that learning from one’s enemies was an essential part of growing stronger – a thought that she now clutched to her heart like a lifeline.
+
+As soon as she had finished her transcription, she reached out and deconstructed Grim Spark’s remains, rendering the Lich’s evil construct into its constituent motes of mana.
+
+[Sage of Learning]Domain Magic analyzed: Retaliation Trigger (Lightning Nova)Domain Magic analyzed: Spell Cascade (Lightning Nova)
+
+Lightning Nova is a nice addition, she thought, but she didn’t exactly have many lightning-affinity monsters able to use it. For just a moment, she regretted giving up her Goblin imprint so long ago, and the storm shaman she had once considered to be a powerhouse back when level eighteen was scary.
+
+Perhaps I should work on that, she thought. Just like Calen had said, access to a variety of affinities was a huge advantage when dealing with immunity, absorption, and various other defensive techniques and aptitudes. As it stood, her dungeon was rather anemic when it came to lightning – fire, nature, arcane, and ice were quite well represented, and if she wanted to, she could probably manage to create substantial challenges in bone, blood, or even death. But her options for lightning were just the Arc Lily that Basil had grown for her in the little flower garden, this new corpse-grown Sparking Runner, and one variation of her Eye of Agnor sentinel demon.
+
+I could go hunt Goblin shamans again, she thought, or explicitly quest for more lightning affinity plants. She glanced about, wondering if there would be any lightning affinity resources to be found in the Crypt of Kings, although she wasn’t particularly excited about learning to make lightning affinity undead, regardless of how powerful the Bone Fetish and the Death Knight’s were.
+
+Maybe I can transmute some lightning elementals? Certainly, the chapter on transmuting affinities contained somewhere within Clarence’s pages required a whole lot more study. But the most practical approach would probably be to offer a bounty on the guild quest board. She did have lightning-affinity magicite that she could link to her domain. That way, she could make a lightning-affinity biome somewhere in her dungeon and see if she could give lightning affinity to a kobold or a troll and then simply level them up; slow, for sure, but reliable and far more useful than collecting a random monster and hoping its class would be good.
+
+At least everyone is up for continuing, she thought, pulling her attention back to the present. Sneaking into Nevyn Eld’s lair and stealing the vial out from under his nose while he was distracted in the siege of Southport was reckless and dangerous, but if it had a chance to save Lira, she wasn’t going to let anything stand in her way.
+
+Quickly, she sorted through her notifications, happy to find her most powerful minions had all leveled up during the fight. I’m going to need to talk to Thuli about upgrading armor and weapons soon.
+
+Dungeon of Knowledge has reached level 167 (+5).+50 attribute points.Arcane Insight has reached level 99 (+2).Arcane Recall has reached level 50.Barrier has reached level 89.Grimoire of Summoning has reached level 67 (+3).Runic Script has reached level 72.Sage of Learning has reached level 75.Martial Insight has reached level 106 (+2).Empowered Summoner has reached level 82 (+2).Minion Teleport has reached level 53 (+2).Identify has reached level 36.Inspiration has reached level 30.
+
+Just then, the hair stood up on the back of her neck as a prickling sensation shot through her, and the sense of a vast presence descended upon her domain like a warhammer pulverizing stone.
+
+She staggered, knocked off balance by the pressure, but it vanished as soon as it had come, leaving the surging roar of knowledge sluicing into her mind as Sage of Learning and her domain tithe vibrated like a subterranean tremor.
+
+The Anvil! Alarm bells rang in her mind, filling her with urgency. A vastly powerful presence had just touched her domain, somewhere in the vicinity of the Anvil of the Emberforge – a presence far stronger than even the Heroes of the Crimson Blade.
+
+Her mind flickered, surging out into the domain, seeking her closest minions, and suddenly she turned her tiny golden draconic head with its swirling reptilian eyes and beheld the Anvil.
+
+But what she found was not the scene of carnage she had feared. No bodies lay broken and bleeding on the chamber floor. Instead, she found a group of six adventurers gathered around the anvil where Havok was kneeling before a sword. Light gathered to the dark steel blade, leaving dancing white flame within, and finally Thuli reached out to pick it up from where it lay upon the surface of the anvil.
+
+“Congratulations, Kavé,” he said. “You are no longer my apprentice.”
+
+“What…?” Kavé said, a look of sudden shock and dismay crossing the normally stoic dragonkin’s face.
+
+“Don’t be silly, lass, I’m graduating you, not kicking you out,” Thuli said, grinning widely. “You have created a masterpiece that surpasses my skills. To continue calling you an apprentice would be inappropriate. You are now a master blacksmith.”
+
+“This one thanks you, Master,” Kavé said, bowing deeply to the dwarf.
+
+“Oi, I’m not your master anymore,” Thuli chuckled.
+
+Variant: Azryet’s Wrath, Holy Avenger added to Imprint: Sword.
+
+The notification came with a flurry of activity from her Grimoire, suddenly inscribing Kavé’s creation upon its pages.
+
+Congratulations, Kavé, Ali thought with a smile – she would need to go congratulate her in person as soon as she returned. And as she watched, Kavé swung her hammer with a surge of mana to put the finishing touches on a second sword.
+
+“Havok?” she said, turning her eyes to the kneeling Goblin.
+
+“Havok, pray,” the little Goblin said, bowing his head. Holy mana flared within him as he spoke the words of his prayer, and the presence suddenly returned, shaking her domain and descending upon him with power. His expensive armor ignited with pure white flame and flickers of void. His leathery green head was suddenly wreathed with a burning crown of holy fire, and as he reached to touch the sword, the magic arced out to imbue the metal with the flickering aura of holy power.
+
+And Ali finally recognized it.
+
+Azryet. He was here.
+
+***
+
+Ali stared out across the broad plaza of black stone and shining mithril runes from behind the cover of the conveniently twisted architecture of the final row of buildings before the passageway leading deeper into the darkness of the Crypt of Kings. Deeper, and closer to the Well of Eternity.
+
+Honestly, she was beginning to hate this dungeon, and not just because it was the personal lair of Nevyn Eld. For the last several hours, they had slashed, exploded, and torn their way through a veritable army of Bone Fetishes, Death Knights, and their more powerful Devastation Knight kin. If Ali never had to hear that scampering of tiny bone feet on stone, or the awful cracking of creeping ice and dread, it would be far too soon.
+
+She was tired.
+
+And it didn’t exactly help that her Grimoire had happily picked up all the amazing new imprint variants that she was so eager to try out.
+
+Variant: Death Knight added to Imprint: Greater Undead.Variant: Devastation Knight added to Imprint: Greater Undead.Variant: Bone Fetish added to Imprint: Greater Undead.
+
+At least, without the lightning retaliation domain magic, the regular Bone Fetish monsters had fallen after merely challenging fights, rather than the insanity that had been Grim Spark.
+
+If I keep this up, I’m going to get a reputation as a necromancer. That, in and of itself, didn’t bother her nearly as much as the chance of disrupting her Path choices for her next evolution. At least it happened here, and not in front of Lyeneru, she thought. The legendary Night Elf seemed allergic to her summoning undead for her dungeon, let alone something as terrifying as a Death Knight.
+
+At least it wasn’t all bad. She had gained a level over the last several hours of killing trash mobs.
+
+Dungeon of Knowledge has reached level 168.+10 attribute points.Arcane Recall has reached level 51.Runic Script has reached level 73.Sage of Learning has reached level 76.Minion Teleport has reached level 54.
+
+It wasn’t all doom and gloom, with undead invading her Grimoire and taking over: she had learned several particularly useful imprints from their commitment to being conservative and wiping out every monster they could find on the way toward the Well.
+
+Variant: Charged Band of Electrocution added to Imprint: Ring.Variant: Dragonbone Carver added to Imprint: Dagger.
+
+Much to his excitement, the moment Ali had learned the ring imprint, she had downleveled it and made one Calen could use immediately. She had also added several different variants of Runic Plate armor from the Death Knights, along with their weapons, which she was certain Thuli would take advantage of at the Anvil, and she had a brand-new, and frankly rather terrifying, new runic tattoo to study.
+
+Maybe I can extract that plus five high-level masteries enchantment from it and add it to Mato’s tattoo, she thought, briefly, recalling that she had only been able to put five enchantments on his head-tattoo at the time. The modification shouldn’t be all that difficult once she learned the runic structure. And thoroughly checked it for safety. Mato will like that.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

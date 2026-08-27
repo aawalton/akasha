@@ -1,0 +1,171 @@
+---
+id: 4e38bb30-5f71-5734-9d9e-9fc35fff30c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-Eight: On the Road"
+slug: 0091-chapter-eighty-eight-on-the-road
+partOf: flesh-eater-demon-evolution-litrpg
+position: 91
+ownLength: 2706
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3481370/chapter-eighty-eight-on-the-road"
+royalRoadId: "3481370"
+---
+
+They set out first thing in the morning. Daphne was up the second the first rays of light touched the canopy, the human quickly rolling her bed roll and smoothing out her clothes. After they’d made their “plans” the previous night, Callan had continued pacing-floating between the trees, muttering under his breath about terrible ideas or something like that.
+
+Pyre, meanwhile, remained seated by the tree the entire time, taking full advantage of [Regeneration]’s sloth bonus. It ended up being worth it, because by the time Daphne was standing and grabbing her bag, her arm had mostly regrown. The flesh was still a bit tender, but it was more than fine enough to travel with.
+
+They didn’t actually hit the road right away, though. Mostly because, as Daphne bluntly pointed out, “You look like you just killed someone.”
+
+The demon raised an eyebrow at that. “Yeah, that tracks.”
+
+The noble frowned and gestured at her ripped and bloodied clothes. “There’s no way we’ll be able to travel like this. We need to get cleaned up first, or we won’t be going anywhere without the nearest person calling the guards on us.” Beside her, Callan nodded vigorously in agreement.
+
+“How many people’re we supposed to run into in the middle of the forest anyway?”
+
+“About that,” Callan began. “The healer is supposed to be in Serindell—that’s the capital of Galen,” the ghost added. Pyre vaguely recalled seeing a dot on the map somewhere with that name. “If we want to get there quickly, I think we should take the Pale Road. It runs parallel to the river, and a lot of caravans use that route. It shouldn’t be hard to find a ride to Serindell.”
+
+A wagon would, probably, be faster than traveling by foot. It wasn’t like Pyre knew the best roads or directions herself, so she just shrugged.
+
+“Okay, sure. Let’s find a stream or something.”
+
+With their travel path decided, the group continued south.
+
+It wasn’t long before they reached a small town sitting in the forest near a shallow river. Daphne gave clear instructions to the two monsters to “stay put” while she went to the village to buy supplies. Pyre was surprised there were still supplies she needed, considering the amount of stuff she was already carrying, but such was the way for traveling humans, she supposed.
+
+Now, the demon waited in the woods by the stream with Callan. She’d released her half-humanoid form, flesh sinking and settling into a giant amorphous mound, while her clothes sat on the riverbank drying. She’d tried (albeit not very hard) to clean the blood and dirt off of them, but they were pretty far gone. There were way too many rips to patch. The coat, especially, was practically in tatters.
+
+While the demon waited for her clothes to dry and for Daphne to return, she reached into her bag to pull out Pax’s map.
+
+Ever since evolving, it had become remarkably easy to grow a human hand from her body whenever she needed to grab something. She’d thought she was pretty good before, but now, she could do it without a second thought. Disguising herself, at least, would be much easier, though a part of her would miss the bandages. They added character.
+
+Reabsorbing the hand back into the rest of her flesh, Pyre peered down at the map. She quickly spotted Galen just south of Auren, and after some scanning, her eyes landed on a dot positioned between the Seraphine Woods and the coast. Serindell. This was the capital of Galen, according to Callan, and reportedly where that healer was.
+
+Speaking of Callan, the ghost was hovering a few feet away, anxiously watching the trees for passersby. His eyes kept darting around like he was expecting someone to jump out of the woods.
+
+“Do you think Daphne’s okay? Should we check on her?” he asked. Pyre snorted and folded the map back up.
+
+“Kid, calm down. It hasn’t been that long.” Her own [Far Sight] eye remained trained on the little village the noble had gone to, and it looked exactly as still and unremarkable as before. Her gaze shifted to Callan again. “And stop worrying about someone seeing us. I’ve got a fuck ton of perception traits.”
+
+The ghost frowned at that. “I know,” he said, but the anxiety was still there. He glanced at the demon, then at the drying clothes, then at the demon again. He shifted, visibly hesitating.
+
+“…What happened to the soul piece?” he finally asked, tentative.
+
+Beeping horns, the rushing wind, and a sea of city lights rose to the front of her mind. Pyre stayed quiet for a moment. She’d never told Callan her suspicions about being reincarnated multiple times. Hell, she’d never even brought up the fact that her past self was from Earth.
+
+Based on what he’d said so far and what she’d heard herself during her time at the garrison, the idea of a whole other world would be completely foreign. The lore on reincarnation was well-known and clear, and the demon didn’t fit the tales.
+
+Pyre gave the ghost a long look. It wasn’t like she had a problem with telling him. Callan would probably freak out at first, then go on a research-quest to try and figure out what was going on. The fact that one of her past lives had actually been from here would help soften the blow, too. At least some of the reincarnator lore matched.
+
+On the other hand, some instinctive part of her kept repeating that she shouldn’t tell anyone. It was more of a gut feeling, really—an intrinsic sense that her past life was something to be avoided. Not the Earth one, but the one that had lived in this world. The one that had known Pax.
+
+And so, after some consideration, Pyre decided to leave out a few details. It wasn’t like there was a time limit on telling people about her reincarnation situation. She wanted to know more about what she was dealing with, first, before deciding to spill the beans.
+
+Maybe the next soul piece she found would have memories from this world’s past life. Then she could figure out if that gut feeling was correct or a load of bullshit.
+
+“I absorbed it,” the demon said simply. Callan’s eyes widened.
+
+“Did—Did anything happen? Did you get your memories back? What about your magic?” The words came out in an eager rush, and Pyre snorted.
+
+“It was just one piece, kid. No magic.” She paused for a second, then added, “And I got a memory back, but it was vague as hell. Still an amnesiac.”
+
+“Oh.” The ghost’s shoulders slumped in disappointment. “Well, maybe you’ll get more memories if we find more pieces?”
+
+“Probably.” Pyre hummed, thinking back to the sanctum. “If these things’re being used as power sources everywhere, they probably won’t be that hard to find.”
+
+Complicated feelings about her memories and past lives aside, she wasn’t particularly keen on some randos using her soul shards to fuel whatever fucked-up spells they were doing. If anyone was going to use them to do weird shit, it should be her and only her.
+
+Callan frowned at that, a disturbed look crossing his face as he undoubtedly thought back to the ritual circle in the sanctum. “Hopefully there’s not too many,” he muttered, and the demon nodded in agreement. If there were hundreds, then they were probably screwed.
+
+Below, the vibrations in the ground shifted. Pyre slid an eye in the direction of the approaching figure, and sure enough, Daphne soon stepped into view. The noble was carrying a whole new bag of items (in addition to her existing one), and she looked quite pleased with herself.
+
+The mage came to an abrupt stop when she saw the two monsters. Her eyes snapped to Pyre, casually plopped by the river in all her flesh-blob glory. She opened her mouth, then closed it again. She squinted.
+
+“You know,” she began, “when you said your true form was a giant mound of flesh, I thought you were exaggerating.”
+
+“Me? Exaggerate? Never,” the demon drawled. She rippled her flesh for emphasis, extending one end towards her drying clothes. Daphne seemed to realize what she was doing, because she immediately stepped forward.
+
+“Nope, not those.” She opened the new bag, revealing a pile of clothes inside. She pulled a few items out, including a dark blue coat, a plain shirt, and a pair of pants. “Here,” she said. She eyed the tattered clothes drying on the riverbank critically. “Those are way too damaged.”
+
+Callan squinted at the new clothing. “Those’re expensive,” he muttered. Daphne waved him off.
+
+“I have money,” she said breezily. The mage tossed the outfit at the demon, and they landed in front of her. “Those have automatic sizing runes, so they should fit fine.” She reached into the bag and pulled out another set of clothes. She nodded at Callan. The ghost stared.
+
+“Me too?” His surprise was evident.
+
+“I mean, yeah.” Daphne raised the clothing. “You can turn solid, so I figured you can probably change in solid form, then they’ll stay when you’re incorporeal again, right?”
+
+Callan blinked. “Uh, probably? I’ve never tried it, so…”
+
+Daphne looked horrified at the admission. “You’re wearing the same clothes you died in?”
+
+“It’s not like they’re real!” the ghost said defensively. He did look a little disturbed at the thought, though, and quickly blinked into his solid form. He carefully took the offered clothing, then shuffled off into the woods to change. Pyre watched in amusement before turning back to the river.
+
+Warping back into her human disguise was remarkably easy. [Skeletal Recall] took care of the bones, and now that her flesh was more malleable and easier to condense, she had no issue forming the surrounding muscle and flesh. The fact that she’d maintained her human form for so long in Magrath probably helped. She was pretty used to this exact series of flesh warping by now.
+
+The demon tugged on the new clothes, which did, indeed, automatically size themselves with the power of the magic runes sewn into them. She kept her old guard boots, which had survived the fight mostly intact, and also grabbed some of the armor pieces—namely the pauldrons, bracers, and tassets. No point in wasting them when they just had a few scratches and dents.
+
+When she was done, Pyre did a final check in the river to make sure her horns weren’t showing (and that she hadn’t somehow fucked up her face), then tied her hair back into her usual low ponytail.
+
+Disguise complete, she turned and found Daphne staring at her intently. She raised an eyebrow.
+
+“Something wrong?”
+
+The human shifted uncomfortably. “I guess… I didn’t realize how easy it is for you to shapeshift,” she said slowly. “Are all demons like that?”
+
+Ah, that was the problem. “Eh, maybe.” Pyre shrugged. “It’s not like I know that many demons.” She reached a hand up, tapping the silver cuff earring from Pax that completed the disguise. “Detection spells and shit can still tell we’re monsters, though. If I didn’t have this, I couldn’t’ve stepped foot in Magrath.”
+
+Daphne squinted at the earring with obvious curiosity. “Is that a talisman? Where did you get it?”
+
+The demon snorted. “It’s the original reason we summoned Pax. Callan’s got one too.”
+
+Daphne nodded slowly, thinking. “His bracelet,” she muttered. Of course she’d noticed it. “Those have to be extremely strong if they made it past the manor wards,” she continued. “How did Pax get them? Did she make them?”
+
+“Beats me. I don’t really care as long as they work. Anyway, these things’re why we’re heading to Pereth.” Pyre paused. “After Galen,” she corrected. Serindell, specifically, since they would’ve needed to cross through the country to reach that mysterious X on the map anyway.
+
+Daphne hummed consideringly. Before she could speak, however, a familiar ghost floated out of the forest and joined them at the stream.
+
+Callan was back in his translucent form, but his clothes were, indeed, different now. Daphne smiled a little smugly.
+
+“See? I told you it’d work.”
+
+The ghost rolled his eyes. “Yeah yeah,” he muttered. He inhaled, and the silvery mist forming his body gave way to ordinary colors. He lightly drifted down to the grass, still incorporeal, but now appearing solid.
+
+“We should go,” Callan said. “We’re almost at the Pale Road. Once we’re there, we can find a wagon to Serindell.”
+
+Nodding in agreement, Daphne closed the bag from the village and moved to tighten the straps on her original one. Before she could, however, Pyre reached over and plucked it off the mage. In one smooth motion, she hoisted it over her own shoulder. The human frowned.
+
+“I can carry it myself,” she said stubbornly.
+
+“I’m blending in.” It would probably look weird if someone saw them and Daphne alone was carrying two giant bags. “And I’ve got a fuck ton of strength.”
+
+Before the noble could protest again, the demon nodded at Callan.
+
+“Lead the way.”
+
+Finding a ride was, it turned out, quite easy. Since it was a major city, a number of people were already heading there. It only took a bit of asking around before they found a covered wagon carrying other passengers to Serindell.
+
+A magical one at that, considering there were no horses attached to said wagon. There was just a driver holding reins linked to seemingly nothing, but based on the faint glow around the wheels, there was probably some sort of spell that made the vehicle move when the driver wanted.
+
+Pyre stood back and let Callan and Daphne do the talking. The noble handed the driver a few coins that he carefully counted. The demon had caught him side-eyeing her a few times, but the weight of the money in his hand seemed to be enough to get over whatever misgivings he had.
+
+Even without the bandages, her human form still stood out. She could make herself shorter if she wanted, given her heightened flesh-compressing abilities, but Pyre didn’t really feel like it. She was used to this form—moving with it, fighting with it. Relearning her balance would be a pain. Plus, she quite enjoyed towering over everyone.
+
+A minute later, the driver waved at the three of them to get in the wagon box. Looked like the conversation had gone well.
+
+Tugging aside the canvas top, Pyre hoisted Daphne up, then Callan, who had temporarily turned corporeal for the sake of pretending to climb in.
+
+The demon entered last, needing to hunch down to squeeze through the narrow gap. The wagon lurched a little as she stepped into the box. The driver glanced back, but it soon righted itself. She’d forgotten that she was significantly heavier than she looked. Thankfully, it seemed the wagon (and the spells on the wheels) were able to handle her weight.
+
+The inside of the vehicle was bigger than expected. Curious eyes immediately landed on the trio. A family of four sat in one corner while a man who looked like some kind of merchant sat on the other side. The entire back half of the wagon bed was stuffed with boxes, crates, and whatever other cargo was being transported.
+
+Given the lack of available space, they ended up settling down just behind the merchant, who shot a scowl at them and muttered something probably nasty under his breath.
+
+The moment they sat down, the wagon lurched. Whatever spells had been cast on it activated, and they sped forward at an impressive speed. The benefits of using magic and not actual horses, Pyre supposed. Like this, they’d reach Serindell way faster than expected.
+
+The demon leaned back against one of the wooden crates, enjoying the rhythmic up-down movements of the wagon. She could hear the family quietly talking amongst themselves, and every now and then the merchant would grumble something while he flipped through his ledger. All things considered, this was probably the most peaceful stretch of traveling she’d had since waking up in Fred’s stomach.
+
+And so, naturally, it didn’t last.
+
+An hour after they’d climbed in, the wagon suddenly came to an abrupt halt.

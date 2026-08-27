@@ -1,0 +1,129 @@
+---
+id: 57b19dce-0e3d-5be1-a4d0-fee7440b88ab
+page-type-slug: story-chapter-royal-road
+title: "Ch3 Spirit Roots"
+slug: 0003-ch3-spirit-roots
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 3
+ownLength: 1291
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211499/ch3-spirit-roots"
+royalRoadId: "3211499"
+---
+
+A final cloud of smoke escapes my lungs.
+
+I try to savor it, but my mind is filled with too many emotions.
+
+The first is a little bit of fear, as this woman moved so fast I couldn't even see or hear her coming.
+
+The second is irritation, as she just destroyed my cigarette.
+
+"Hey, who are you to tell me how to walk my path?" I snort out instinctively, crossing my arms and staring into the deep blue eyes that gaze through me.
+
+The third emotion is pure awe and even infatuation.
+
+As a marketing team leader in a big city, I've been to plenty of fancy banquets, and an equal amount of down-and-out bars and clubs to appease clients. I've experienced almost every kind of woman Earth had to offer, but the one before me is truly a Celestial above them all.
+
+There is an incredible aura around her that I have never felt before.
+
+The depth of her gaze, the contrast of her crimson lips to her fair skin, the flow and perfect length of her icy white hair, and the exaggerated tight curves that subtly show through the long royal blue ancient-style robe she wears.
+
+It is unlike anything I've ever seen before.
+
+My pupils constrict, and my heart speeds up, but she is the first to break eye contact, shifting her gaze over to the flashing disk in her hand.
+
+"Five Mixed Element Roots. All Ninth Grade..." she whispers under her breath, then the corner of her lip turns up.
+
+She grabs me by the shirt and yells over to the man still testing other kids.
+
+"I got one. Roots of a wastrel, but he'll do as a servant for the outer sect. That fills my duty quota. Register him under my name, I'll be heading to the Nine Rivers City for an auction before returning."
+
+I feel a gust of cold air surround me, and I'm lifted off my feet.
+
+The momentum is strong enough to send me flying, and I quickly piece together where I'm going.
+
+I reach up to try and hold onto something, and grab the delicate white hand holding me for some stability. Yet, I'm quickly thrust upward even faster, away from her.
+
+The ground gets further away, and so does the icy beauty below me, but familiar text does materialize in front of my eyes.
+
+[Automatic Inspect Function Activated...][Qin Yue] [Age: 22][12th Level Qi Refiner][Mutated Water Spiritual Root] [2nd Grade][Innate Lunar Yin Body] [Initial Stage - Ancient Grade][The sole living member of the Qin Bloodline. The 18th Hidden Family.]
+
+All of this text fades away the moment I lose physical contact, but none of it makes any sense.
+
+I only hear the man testing other kids' spiritual roots respond.
+
+"Yes, Senior Qin, understood. It will be done."
+
+She tosses him a small white stone and a glass vial. Then, there is a flash of blue light, and the woman disappears faster than my eyes can track.
+
+Next thing I know, the weightlessness of my flight upward stops, and I land on the flat deck of the flying ship high above the ground.
+
+I feel dizzy, confused, and still thinking of the image of that woman ingrained deep in my mind.
+
+As the nicotine wears off, so does the absurdness of this situation.
+
+My arms start to burn again, as the pain from crawling through broken glass on the floor of my burning home comes back to me.
+
+I take the bow off my back and lie flat on the wooden deck of this ship, staring up at the sky, remembering the arrow I shot through the head of another human being.
+
+I don't know if I'm in shock, or can't believe the fact that my soul has transmigrated to another world, or the fact that magic and immortals are real is holding my emotions back. But I feel nothing... If anything, I feel better than I ever have.
+
+I feel free.
+
+A loud laugh escapes my lips, and I let it all out, staring up at the blue sky with clouds moving by, letting the absurdity of everything that has just happened sink in.
+
+Eventually I'm interrupted by a knocking sound, and I'm lifted from the deck of the ship again.
+
+I feel a firm hand grab my arm, and another loud series of system sounds echo in my mind.
+
+[Automatic Inspect Function Activated...][Gu Shan] [Age: 59][6th Level Qi Refiner][Water, Earth, Metal, and Wood Spiritual Roots] [7th Grade][No Innate Physique][No Valuable Secrets Detected.]
+
+"You're the only one in your village with spiritual roots. What's your name, kid?" the square-jawed man asks me.
+
+When I stand to my feet and look him up and down, I scrunch my eyebrows. He looks like he's 30 years old, maybe 35 at most, and in extremely good health.
+
+Yet, the system has read out that he's on the verge of elderly.
+
+My mind races so much that I don't even respond.
+
+He waves in front of my eyes, then pulls out the vial Qin Yue threw to him.
+
+"Maybe you're just like the rest, too paralyzed with fear to speak. Miss Qin has been gracious enough to give you a low-quality healing elixir, but her only request is that you eat it here in front of me."
+
+He hands me the small glass vial, and I see that it has one small white pill resting at its bottom.
+
+I uncork the top, and a medicinal scent fills the air, rushing into my lungs and throughout my whole body. I feel the pain in my forearms, and the burns on my back and legs instantly recede just from a sniff.
+
+My hands move on their own, and I swallow the small white pill whole.
+
+A warm white light takes over my vision, and a hot sensation like my body is being filled with boiling water washes through me.
+
+It is only intense for a moment; slowly the intensity fades to the temperature of a warm bath, like my entire body is filled with a magic medicinal gel that has nowhere to flow out.
+
+When I look down at my arms, all of the cuts are gone.
+
+The burns all over me have completely closed up and faded to only red spots.
+
+The square-jawed man clicks his tongue.
+
+"That pill could have been sold for at least ten spirit stones. Enjoy it while you can. I don't know why she'd waste an elixir on you, but orders must be followed."
+
+I look toward him and nod. "Li Hao. That's my name."
+
+He pulls out a light green jade tablet, and it glows a dim white light while a stone is pressed against it.
+
+He tosses me the white stone, now with black characters spelling my name on its front. It has the character for Servant on the other side.
+
+"I'm Gu Shan. An Overseer of the Outer Sect's Recruitment Branch. You will refer to me as Senior Gu from now on."
+
+I catch the stone, but stay silent.
+
+He smirks and points behind me. There are a dozen other kids in rags with sunken faces sitting and standing together at the back of the boat, none of which came from my village.
+
+"Join the others. You're all 8th and 9th Grade Roots. No one here is making it to the Outer Sect, so there's no point in explaining anything further. You have officially become a Servant of the Azure Cloud Sect. You'll understand your fate sooner or later."
+
+The man turns around and walks toward the only structure on the deck with windows.
+
+In a matter of seconds, the ground below starts moving by. This airship speeds away, leaving the only survivors of Donghe Village behind.

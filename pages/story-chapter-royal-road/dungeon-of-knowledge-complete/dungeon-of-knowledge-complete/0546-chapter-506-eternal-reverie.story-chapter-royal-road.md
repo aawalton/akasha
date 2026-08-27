@@ -1,0 +1,335 @@
+---
+id: 1f4a6d66-a8d3-5b53-b816-926a9e5ecf81
+page-type-slug: story-chapter-royal-road
+title: "Chapter 506: Eternal Reverie"
+slug: 0546-chapter-506-eternal-reverie
+partOf: dungeon-of-knowledge-complete
+position: 546
+ownLength: 5883
+unit: words
+ownProgress: 5883
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2942182/chapter-506-eternal-reverie"
+royalRoadId: "2942182"
+markedReadAt: "2026-06-29T20:30:50.252Z"
+---
+
+Seth stepped confidently into the center of the runic circle, and his body was yanked away far more firmly than he was expecting. Perhaps it was a sense of the great distance it took him, or maybe that was just in his mind. After all, he knew roughly where it would dump him out after his last conversation with Ali. The Fangs of the Frost Wyrm.
+
+He shivered, drawing his cloak close around his shoulders to ward off the sudden blast of frigid air, and glanced about, finding himself virtually entombed in a small ice cavern with faint blue light percolating through the darkly translucent walls. Only a narrow crack let out to somewhere beyond. Stepping carefully on the treacherous ground, he made his way forward and slipped through the jagged opening.
+
+He emerged into a howling, icy gale that drove sleet sideways across a hazy alpine snowscape. Towering peaks of fang-like jagged mountains rose up on all sides. It was about as inhospitable a place as he had ever seen, and he had experienced some nasty dungeons firsthand. A tiny trace of mana drew his attention to an inconspicuous stretch of ice-encrusted cliffside.
+
+Death affinity.
+
+It was not just any kind of death mana. Instead, it was the kind that always hovered around the undead. He should know. Still, Death Knights were not the reason he was here, surprisingly enough. He downed his elixir, warding himself against the bitter cold, and made his way down the steep slope leading away from the hidden entrance Ali had cautioned him to avoid. Only when he was far enough from the deadly Crypt of Kings did he spill the bones and corpses from his storage ring out onto the soft snow.
+
+“Ok, my pretties,” he murmured, surveying the remains of the best flying monster corpses Ali could provide. “Time to get to work.”
+
+“Arise,” he commanded, waving his fingers in a vaguely menacing flourish. Devan enjoyed teasing him about how ‘chill’ he was, something she claimed was unfitting for a necromancer. So, he’d commissioned a horrific-looking bone chest plate from Tarek, Thuli’s bone smith apprentice. It had ribs protruding from the sides, for goodness’ sake. He’d also practiced several monologues, stances, and gestures to make him look more like a stereotypical necromancer from some of the less realistic stories. It had all been worth it for the laughs he’d provoked.
+
+The bones strewn across the snow shivered, drawing together like a twitching pile of sticks. The corpses jerked, convulsing before slowly rising.
+
+“Now, where are those Frost Dragons?” he murmured, turning his eyes toward the highest peaks as the icy wind snatched his words from his lips. A good necromancer always had his ear to the ground for powerful new minions with interesting abilities or affinities, and he had the advantage of a dungeon for a mentor. Ali would happily manufacture as many as he needed. All he needed to do was collect them.
+
+Ali knew the Eternal Reverie would be an incredible herbal reagent, probably sought after by any herbalist or alchemist of high enough level to work with it. Unprocessed, its nectar had granted her a powerful mind-warding effect, and she could only imagine what someone like Morwynne or Eliyen could achieve with access to a steady supply. Besides, she had never heard of a mind-magic plant, much less one that was over level two hundred – not that she could make them that high, yet.
+
+Soon, though. She was getting closer.
+
+Ali took a deep breath and examined her work carefully, searching for any way she might improve it. Hovering in the air above her jungle trees, she couldn’t see anything she wanted to change. The spirit realm typically had very little color, but many of her more esoteric plants grew quite well, able to thrive here in full color, thanks to her mana and its ability to cross realms. Her eyes scanned the cavern walls with satisfaction, enjoying the burning sea of steady azure fire wherever she’d planted clumps of the Eternal Reverie flowers. They soaked her domain mana up like sponges, but she studied them closely until they had their fill, and finally she saw what she was hoping for.
+
+First one patch and then the rest in a rippling cascade that felt like a sigh, each filled flower began to emit a soft, clear haze of mind mana.
+
+There we go. The mana filtered back into her domain, joining the complex weave as the flowers contributed their affinity to her dungeon.
+
+I wonder how long it will take for someone to find these? She had hidden them away in the spirit realm on purpose, and with the higher-level bosses she’d left in the jungle, it would be quite a challenge. But if the adventurers were able to fly and reach the spirit realm, they would be greeted with the incredible sight of these rare flowers flourishing in abundance.
+
+She hadn’t been completely mean, though. She had planted a single Eternal Reverie flower in Basil’s flower garden in the forest cavern, anchored in plain sight in the real world. That had taken some doing, given that the phantasmal flower very much preferred to fade over to the spirit realm if left to its own devices, but a simple runic array to anchor it and binding it to her domain had done the trick. She smiled at the thought of Basil finding it and what he was going to think.
+
+Now I just need to leave him a note to come get it.
+
+“She said it should be in here,” Basil said, glancing at Aiden as he pulled his ice-enchanted blade from the corpse of a fungus monster. “Somewhere.”
+
+His eyes glanced once again at the note Ali had left for him with the Guild Administrator. Mieriel had been smiling when she handed him the note, so he had been certain she had inside knowledge, but no amount of questioning had revealed any more details.
+
+The note was written in Aliandra’s elegantly flowing handwriting, with an ink that sparkled gold and green upon the parchment.
+
+Hi, Basil,I hope you’re doing well. I left a little something for you in your favorite flower garden – I hope you like it.-- Ali
+
+There was a tiny, hand-drawn picture of a smiling face under Ali’s name. There was no mana signature; the ink was more than sufficient to prove her identity.
+
+He smiled at the note and turned his attention finally to the flower garden. It was now substantially larger than when he had first made it, and featured an enormous variety of exotic flowers, all elegantly arranged, if he did say so himself. Even though the garden had been greatly expanded, his initial influence on its arrangement was still clearly visible.
+
+Despite that, he saw it instantly.
+
+Nestled up against a rock, surrounded by a sea of Arc Lilies in full bloom, a blossom of azure flame blazed forth. It was a flower of such striking beauty that he was left speechless for several long moments.
+
+“Basil?” Aiden said, poking him in the ribs.
+
+“Uh, yes,” he grunted, wincing at the impact while collecting his wits. “Ali did something ridiculous again, I can tell.”
+
+“Well, of course,” Aiden said. “But what kind of ridiculous this time? Should I assemble the guild?”
+
+“I don’t think that will be necessary,” he said, carefully approaching and crouching down to examine the flower. “Now… what are you?”
+
+Eternal Reverie – Phantom, Wildflower – level 185 (Mind)
+
+“What the heck is that?” Aiden asked, as the rest of his group gathered around to gawk at the blazing flower. “And what level is it?”
+
+“That flower is a higher level than you,” Devan chuckled.
+
+“A mind magic flower,” Basil said. It gave off no heat, but it was most definitely flame, and the phantom nature of the flower meant it was incorporeal, a fact made obvious by his ability to see through its leaves and petals. Deep within the center of the azure bloom nestled a small drop of nectar, but he didn’t dare touch it, much less taste it, especially given the ridiculously high level of the flower. “Its level is one eighty-five.”
+
+His comment earned several gasps.
+
+“A lot higher than you,” Devan said, elbowing Aiden in the ribs, and Basil was gratified to note that the warrior flinched slightly.
+
+The Eternal Reverie flower was almost too high level for him to harvest, and it was only with his dungeon herbalism skills that he was even able to identify it. I should be able to manage it. Careful to avoid disturbing the obscure runic lattice around the flower, he retrieved his tools and set out a spelled sample bag, and began to work. Immediately, several notifications blossomed in his mind:
+
+Domain Cultivation has reached level 49 (+2).Dungeon Flora has reached level 73 (+4).Adventurous Collector has reached level 81 (+3).
+
+Wow, that’s a lot, he thought as he stored the bag in his ring. It wasn’t that much of a surprise, he guessed. It was his first time working with such a high-level flower, by quite a large margin. I hope Eliyen knows what this is, because I sure don’t.
+
+Ali sat quietly at her favorite library table beside Ryn, watching the rapid interplay of mana in her eyes as she carefully scanned through the modest pile of age-worn books retrieved from the Spellsage’s hidden library in the Crypt of Kings. Clarence rested quietly beside her on the table, for once not trying to convince her to play fetch.
+
+Two nights spent sleeping under the watchful boughs of Mato’s Tree Form had done wonders for her peace of mind. Resting in her own bed for a change, while the flickering holy fire of his Sanctuary aura had permeated her modest apartment in the residential district of Dal’mohra’s upper level, had worked wonders to accelerate the recovery of her maximum health. Health spent to power her barrier against the destructive power of Kryostria’s breath and save her friends.
+
+It had grown much quieter in the underground residential district since most of the elves had moved above ground and into the grove of Ciradyl trees nestled beside the town’s southern walls, but there were still some stubborn folks who preferred to live deeper in the protection offered by her dungeon. From speaking with them, many were still recovering from deep trauma, and Mieriel had agreed to offer her services to those who wished for help of a magical sort.
+
+It didn’t help that she was woken without fail by one of those eerie crimson eldritch eyes, spawned even deep within her domain somehow through the conduit of her cursed title. So far, none of the nearby residents had been exposed to one, but it may be a matter of time. At least, the constant presence of at least one of her friends and a pair of evolved ice trolls she had following her around everywhere made short work of the eyes.
+
+Another Death Knight had breached the town walls yesterday, but her newly summoned Elite guards had easily repelled the attack. Those, she reflected, had been an interesting choice. Aiden had requested she skip summoning some of the nastier demons, or monsters with substantial area attacks, if possible, and so she had summoned Sallis and Vernon Bell’s imprints. She was well past freaking the townsfolk out with her monsters, and the half-elf archer and human shadow priest, formerly of the Heroes of the Crimson Blade, had proven to be exceptional guards and early-warning scouts for the northwestern quarter of the town. She still had several Sentinel demons atop the walls, a compromise Aiden had agreed to after the second incursion.
+
+I just hope they don’t attack in a bigger group. She frowned. That was always a possibility, but she would deal with that when it happened. With monsters as powerful as Devastation Knights, there was no way to guarantee there would be no fallout, no matter what she did.
+
+Ryn gently shut the final book and looked up with sparkles in her eyes – the literal sparkles of her arcane and divination magic, and also the sparkles that told of excitement bursting out from within her. “Ali, this is incredible! There is so much of the lost history in here! You have no idea how important a find this is! This is a seismic shift in the understanding of the events surrounding the Breaking and the Necromancer wars. And, these are not just peripheral observers either, so much is written with the peerless authority of Eldorien Spellsage himself!”
+
+Ali smiled at Ryn’s obvious excitement.
+
+At the next table over, Val’korr’s weathered ears twitched, and his grizzly troll face turned to stare, not even bothering to hide his eavesdropping. The aged Seeker had had a few suggestions regarding her affliction, but so far, nothing had succeeded in fending off her eldritch haunting.
+
+“Anything we can use to help find the last of the ancient wells?” Ali asked, her thoughts immediately turning practical rather than dwelling upon the great boon the books represented to the world’s historians. The furthering of historical accuracy was something that could be had simply by duplicating the tomes and adding them to the soaring shelves of her rapidly growing library.
+
+“Yes!” Ryn exclaimed. “There are hints about ancient customs, and recorded observations of the disturbance in the ambient mana when Mi’ir Valdanis and Aalion were lost.”
+
+Ali’s nascent hope dissipated like mist in a morning breeze. The hints were nice and all, but she really needed something much more concrete – like, how to purify the Well of Souls after it had been corrupted by Nevyn Eld. Or directions – preferably a map – to the lost Well of Divinity in the vanished city of Aalion.
+
+Ryn’s excitement faded as she saw Ali’s reaction. “We should visit Tiraza. If I cross-reference this information with Azryet’s library, I think we might be able to come up with something more practical. How does that sound, Ali?”
+
+“Actually, that’s a great idea,” Ali said. “Are you free to go now?” She had several outstanding questions for Azryet, and she didn’t want to put it off for much longer.
+
+With a muffled pop of Ryn’s beautiful magic, she traded her Grand Library Arcana for Azryet’s Draconic Sanctum. Surrounded by the massive book-laden shelves and the majestic white stone pillars and soaring vaulted ceilings, Ali was astounded yet again at how different a library could look simply because it was designed for dragons. She was certain that Azryet himself could easily fly down some of these passages without his wings even coming close to clipping the bookshelves on either side.
+
+“Greetings, Ryn. Welcome back, Aliandra.” The melodious sounds of Tiraza’s voice rumbled through the chamber, greeting them with warmth and power.
+
+“Hi, Tiraza,” Ryn said, zipping over with a buzz of wings and mana to hover before the giant golden dragon. “Look at this! Ali found these books, and they cover the details of the Breaking! Isn’t it incredible, see here…” She already had three of the books open and floating in the air as she gestured excitedly for the dragoness to read the passage she had found.
+
+Ali met Tiraza’s gaze over the headlong dash Ryn had made to share the books, seeing a spark of amusement kindled in the great draconic eyes. She had the impression that the aged creature saw them more as impulsive children, as a source of amusement and no small delight. “Azryet will be along shortly, Aliandra. Make yourself at home.”
+
+Ali nodded her thanks to Tiraza and picked out a nearby book at random, paging through it with moderate curiosity while she waited. Surprisingly, it was written in some form of infernal demonic language, but her Sage of Learning helpfully taught her the language in real time.
+
+As she began to read, the familiar touch of eldritch insanity wormed its way inside her mind; the chilling knowing that something horrifying was watching her. She shuddered, snapping around to find a dark eldritch orb floating high above her. Instantly, she summoned a golden barrier. With a wet ripping sound, the lids peeled back to reveal the glowing red eye within, and as its eldritch gaze locked onto her, her mind was filled with whispers that clawed and grasped, hunting for her secrets and dreams.
+
+A marble of utter darkness suddenly appeared like a hole to a dimension that had never known light. It expanded rapidly, sizzling briefly as it consumed the eye, and the library was filled with mind screams of twisted hate and frustration before they were suddenly silenced. The void hole vanished with a bright pop, leaving only the brief flickering of holy fire and a little smoke.
+
+“You bring strange visitors, Aliandra.”
+
+Ali turned around to regard the giant form of Azryet, his head lowering as he peered down at her.
+
+“Not by choice,” she said. “In fact, that was one of the reasons I wished to talk to you.”
+
+He glanced over at Tiraza and the books floating around Ryn, now ignored as they both stared at the aftermath of the unexpected explosion.
+
+“It seems much has transpired,” Azryet rumbled. “Why don’t you start at the beginning?”
+
+“Calen tracked Nevyn Eld’s soul to his phylactery,” Ali said. Azryet’s enormous eyes narrowed at the blithe statement of an achievement of such significance, but he withheld comment for now. “When we went there, we found not only his dungeon, the Crypt of Kings, but also the lost ruins of the great Night Elf city, Mi’ir Valdanis. We failed to retrieve his phylactery because the way was blocked by a dracolich named Kryostria.”
+
+“Kryostria is a dracolich now?” Azryet growled, wisps of void spilling from his bared fangs. Ali briefly winced at the enormous pressure of his rage, but he mastered his emotions before any harm ensued.
+
+“You know her?”
+
+“Yes, she was always a haughty, arrogant whelp. It does not surprise me that she sought the Lich’s transformation, although I am surprised that she allowed herself to become the servant of another. That is not the way of the dragonkind.”
+
+“She is a third-tier champion boss in his dungeon, and quite difficult to beat,” Ali said. Even with her pair of second-tier skills, her high level, and her advanced minions, she had been no match for the dracolich. She would need significantly more growth before she could consider a rematch. “Not all was lost, though. Mi’ir Valdanis still contains the Well of Eternity, and we were able to gain access to it.”
+
+Saying this, she summoned one of the vials to her hand and held it out to Azryet.
+
+“Aah, excellent. That is indeed a worthy achievement, you and your friends have done well,” he exclaimed, eyes swirling with enigmatic patterns of black and white mana that seemed to bore right into her. “But that doesn’t explain the taint of eldritch magic I see upon you, nor that foul intruder.”
+
+“The well has an eldritch guardian. Baaoht Yll’shuum. We successfully defeated it, even though its mind and death magic were challenging,” Ali said. She didn’t exactly want to admit her mistake, but she didn’t have much choice, not if she wanted his help. “I made the mistake of deconstructing it.”
+
+“Aah,” Azryet said. A syllable laden with meaning. “What kind of affliction is it that you come seeking my aid?”
+
+Ali simply shared it.
+
+The Eternal NightmareY̴͎̕ơ̶̛̺͇͖̓u̵͇̇̎̐ ̷̦̤͍͌̈a̴̫̔͂ͅr̵̘̃͌̚e̴͔͌ ̵̢̹͛̀̚b̶̥̩̊̓͘͜e̷̘̜̹͂̾i̶̺̲̎͋n̸̻͖͑̄͝g̴̫̉ ̷̟̎̑w̴͕̿̏͝a̷̤̤̓̋͝t̴̛̮̓͆c̸̳̦̀͗͠ĥ̵̻̼ȅ̴͍̜̥d̴͇̤͕̽͠.̴͔͎̀͜Cursed Title
+
+Azryet remained silent for longer than Ali could comfortably bear, but eventually he took a deep breath, letting out a thin stream of void that curled up from his nostrils like a wisp of smoke. “I hope you claimed more than one vial from the Well of Eternity.”
+
+“Of course,” Ali said, producing two others.
+
+“Good, because the only way I know of to cure that, for certain, is by using the same potion you’re going to need for the Acorn.”
+
+“Ok,” Ali answered, her heart sinking into her slippers. Surely, there had to be something a little easier? More immediate? Something like his breath of True Healing that had restored her wings, but she had also feared that there might be no cure, and she would be forced to bear this terrible title forever. At least now she knew that she could heal herself with the wells, too, a quest she was already committed to.
+
+“I only suggest the Elixir because you are committed to making it for Lirasia already. It is a shame because it is to her that I would have turned for advice on your affliction. For someone like you, however, there might be an easier option,” Azryet said.
+
+“I’m all ears,” Ali said, trying to tamp down on the hope that threatened to bubble up.
+
+“I have never seen anything like this cursed title before, but incomprehensible magic is hardly unusual for eldritch beings. Nevyn Eld must have scoured the depths to find a creature like that. However, I can see the tendrils of its nature woven into the formation, and if you were to destroy this Baaoht Yll’shuum permanently, I am certain that the title would be unusable. It may even unravel on its own in time.”
+
+“You’re saying I just need to get strong enough to wipe out the Crypt of Kings and I can rest easy once more?” Ali asked, trying and failing to keep a touch of irony out of her voice.
+
+“Yes,” Azryet said, eyes blazing fiercely. Clearly, he meant his response as a challenge. Perhaps Dragons knew no other way?
+
+“Oh, right. I thought it would be a difficult task. I guess I have no excuses, now,” Ali grumbled.
+
+“You jest, little one. However, is this not the path you have chosen?”
+
+“It is,” Ali said, sighing.
+
+“Do not forget that you have friends and allies, Aliandra,” Azryet rumbled, his eyes, despite burning upon her, appearing unexpectedly gentle. So many centuries of life. It must be a lonely existence, she felt – having outlived perhaps most creatures he had known. She herself had lost everything and everyone she knew, but at least her millennia in stasis had spared her this. “I find myself in your debt once more.”
+
+“What do you mean?” she asked, racking her brains for something she might have accidentally done for him.
+
+“For looking after my dearest paladin,” he said. “And for building the church and permitting him to consecrate it within your domain. The reputation gained from that has already nearly matched that of Kavé, the smith, and her Holy Avenger swords. I finally have enough to begin developing new minions again.”
+
+“How does it work?” Ali asked, curiosity getting the better of her. “Consecrating the church, I mean. What exactly did I agree to?” It had been done in a moment of dire peril, and she had sort of glossed over the fine print, so to speak.
+
+“Consecration is a way to channel a deity’s power into an area, through the conduit of a follower. It confers certain persistent benefits to the patron and the followers while within the area,” he explained. The words all made sense, but somehow conveyed very little.
+
+“And it requires permission?” Ali asked. She recalled her surprise when Lamyndra asked permission, too.
+
+“Yes,” he said. “Havok believed you owned the church you had built, and your domain provided a real claim to the land. It was sufficient to create the conduit for my power.”
+
+“Is it anything like the Consecration spell Havok and Mato both have?” Ali asked.
+
+“It is based on similar principles. The spell is a fixed, simpler version that channels only holy fire. Consecrating the church is far more flexible.”
+
+“What does that mean in practical terms? I felt the dungeon rage when you blessed Havok. Is that part of your dungeon now?” Ali asked. She could feel the blazing power of his mana like a bonfire in the center of her domain. “And why did consecrating the temple of Lunaré not cause dungeon rage?”
+
+“In a way, yes,” Azryet answered. “Lunaré is not a dungeon; her consecration does not work the same way. That church you built now contains a portion of my domain that is limited by the conduit used to create it.”
+
+“Havok?”
+
+“Yes, his level and power,” Azryet said. “The conduit can be grown like a living thing. As his level grows and the number of followers who congregate there expands, it will become denser and more powerful. Mato is of a higher level, and if he performs an important action to contribute to the consecration, it will also grow. Several rituals can help, and I can teach them to those who show aptitude.”
+
+“What does it allow you to do?” Ali asked. She had unwittingly invited a four-mark creature to set down permanent roots in the center of town. She trusted Azryet, but it seemed rather important that she should understand what exactly might happen.
+
+“It remains of insufficient power for me to manifest there, personally, nor can I summon monsters great enough to intimidate the local population into following me. However, it was sufficient to allow me to spend Authority to grant a small buff to help Havok.”
+
+A small buff? He thinks a world boss is a small buff? But she didn’t say anything; it was clear that deities had extraordinary abilities, especially when powered by Authority. If this was a small thing to him, it was no wonder he was so grateful for even the tiny amounts he received for their actions.
+
+Still, it seemed he had some misguided ideas about people that she needed to address. “How long have you been out of touch with the mortal realm?” Ali asked, attempting to be diplomatic.
+
+“More centuries than I care to recall,” Azryet said.
+
+“I think you’ve lost touch with the workings of the mortal minds,” Ali said, her diplomatic approach cracking already.
+
+“That… is a possibility,” Azryet admitted, much to her surprise.
+
+“Would you be open to a suggestion?” Ali asked.
+
+He inclined his great head magnanimously.
+
+“Instead of intimidating people with terrifying monsters, do you have any minions like these?” she asked, holding up a hand and calling one of the Glitter Dragonets she’d brought along with her. It swooped down and alighted on her forearm.
+
+“I’ve not summoned anything so weak since I was a dragonet myself,” Azryet said, eyeing it dubiously. “It’s barely a dragon.”
+
+“But you can?”
+
+He waved a talon perfunctorily, and a flight of black-scaled dragonets appeared, the spitting images of Scions of Azryet, only these were the same size as her Glitter Dragonet. They screeched and burst into swooping rolls and dives to avoid each other.
+
+“Perfect!” she exclaimed. Trust someone like Azryet to summon tiny, cute dragonets that could disintegrate your fingers without thinking. However, they were delightful, which was what she needed, and Ali grinned happily at the sight of their antics.
+
+“I fail to see how something so weak could intimidate anyone, or dispense my wrath,” Azryet said with a profound look of puzzlement crossing his brow.
+
+“It’s about showing your softer side,” Ali said. “These dragonets are cute. People will love them.”
+
+“Cute?” he snorted.
+
+“Yes,” Ali said, having begun to duck but realizing belatedly that he had restrained his power very carefully. He could probably sneeze Myrin’s Keep out of existence, after all. “Trust me, make some of these for the church, and maybe a few holy ones. People will come by just to see them. You might even find kids trying to feed them. Reserve your true power for when they’re strong enough to understand it.”
+
+“I… see,” he said. “I will consider your words.” But Ali could already see the tiny holy and void dragons appearing in the cathedral back in Myrin’s Keep and taking off to circle inside the huge domed area.
+
+“I’ll make them some spots to roost,” she said, grinning at the face he made at being found out so quickly. Right then, an idea sprang fully formed into her mind. It was not a big thing, but it was at least a thing.
+
+“Would you like a Gate?” Ali asked.
+
+“A Gate?” he asked, glancing at her with a little surprise.
+
+“I could make a Gate linking the church in Myrin’s Keep with, say, the cathedral area where I first met you. It would leak my domain into your dungeon, but if you’re ok with that, it would allow visitors to your church to come visit your domain directly. That might add some legitimacy to the church and convince more people that you’re a powerful deity worth following. You could put some more… intimidating guardians there. Impressive ones.”
+
+His eyes whirled with sparks of mana for a while, and she realized she had rendered him momentarily speechless again. You can’t keep doing this, Ali, she told herself, he is a god after all.
+
+“It seems I will be going deeper into your debt, Aliandra. That is a most excellent idea, I would definitely like a Gate to Havok’s church.”
+
+“No problem,” she said, noting that she would need to go thank Cael again soon. “I can make one right now.”
+
+I can’t wait to let Havok know…
+
+“Morning, Mister Thriftpenny,” Basil said, walking up to the elegantly dressed Weldin, who seemed to be busy dusting the already gleaming and glowing swords on display at the front of his store. He had no idea if these were good swords, only that they looked rather impressive.
+
+“Aah, Basil,” Weldin said, immediately looking up and giving him all his attention. “What can I do for you today?”
+
+“Can I get an appraisal for this?” he asked, producing a flask of his new azure concoction, the making of which had earned him three class levels under the strict tutelage of Eliyen and several consultations with Morwynne Fizzlebang. Everything related to that Eternal Reverie flower had produced obscene amounts of experience for him, and Eliyen assured him that there were endless other possibilities to make from the essences and tinctures she’d shown him, should he be able to secure just a few more samples.
+
+He puffed out his cheeks and sighed. Calm down already. “Please?”
+
+“Elixir of Mental Fortitude?” Weldin said, squinting his good eye at the small crate of flasks. “Well, now, there’s a thing. I do hope you’re going to tell me you have more, Basil?”
+
+For the reserved Gnome to make a comment like that, it had to be impressive. “I have six. I just need to know how much to list them for,” he grinned. Eliyen had said they should be worth at least six or seven gold, which, for a single potion, was rather ridiculous.
+
+“The normal price for something of this rarity and level is in the range of thirty to thirty-three gold,” Weldin said, his tone entirely serious.
+
+“Thirty-three gold for six elixirs?” he gasped, trying not to redden too badly. He failed.
+
+“Each,” Weldin corrected, making him gasp second time. “These are of extraordinarily high quality, but the most marketable feature is how high the level is. I’ve never seen elixirs quite this good, but adventurers seek out protection like this when hunting high-level mind flayers, banshees, and mind demons.”
+
+“I see.” But his mind was reeling from the sheer amount of gold Weldin was talking about.
+
+“They are also effective against the fear auras from many greater undead. Given the current situation at Southport, you could probably get about fifty for them,” Weldin finished.
+
+Basil picked his jaw up off the floor. Fifty gold? Each?
+
+“If I may be so bold, where did you get these?” Weldin asked, his eyes glittering at the prospect of a profitable deal.
+
+“I made them,” Basil managed, pointing at his mana signature with a shaking finger.
+
+“You can make this?” Weldin said, grinning from ear to ear. Apparently, he and Weldin were about to become the very best of friends, Basil deduced.
+
+“Yes, Ali found a new flower,” he said. “Although, I only know the location of a single spawn.” The nectar gathered from the single flower, and the extraction process used on the petals had produced a surprisingly large yield, even by his standards.
+
+“Aah, Aliandra,” Weldin said, nodding knowingly. “Very resourceful, that girl. There is absolutely no way she planted just one. I suggest you ask her where she planted the rest.”
+
+“I can do that,” Basil said, still feeling more than a little shellshocked.
+
+“Please don’t!”
+
+Both he and Weldin spun about to find Willow staring at them with an intense expression in her eyes, while her wolf, Cami, flopped beside her with her tongue lolling out as if grinning.
+
+“Why… why not?” Basil asked. She looked a little mad. Upset-mad, not insane. He felt like the clarification was warranted, given the nature of the potions he was holding.
+
+“Sorry for eavesdropping,” Willow said, a touch of red rising in her cheeks. “But if you have found an important flower in Ali’s dungeon and need someone to find it, please make a quest and I will take it.” She paused, glancing about a little awkwardly. “I didn’t have good enough stealth skills to be picked for Calen’s critical scouting mission, and I really need the chance to level my tracking and scouting skills. I also have Herb Gathering leveled up – uh, quite high. Hopefully high enough?”
+
+“Um, ok,” Basil said. “But I don’t have much gold.” He had just spent most of his savings on the supplies and specialized equipment he needed to work with the incorporeal mind magic flower, and he was rather broke. Posting a quest would require him to front the gold to the guild in escrow.
+
+“How about I take these off your hands for forty-five gold each,” Weldin offered, tapping one of the elixirs with a finger. “I’ll display them for a few days and advertise for you, and then sell them on the Auction House if nobody buys them. You can use the gold to put up your quest. I believe we should be able to drum up some healthy interest in purchasing any that you decide to make, and –” he winked broadly, “– I sense that prices may exhibit continued healthiness if you build a reputation for producing potions of such quality and rarity.”
+
+“Uh, ok,” Basil said.
+
+It took barely a few minutes sitting down with Ryn to post his quest, and he left a hundred and fifty gold as a deposit for the guild to collect the flowers on his behalf.
+
+Eternal ReverieQuest Giver: Basil.Rank: Platinum.Category: Gathering.Reward: 5 gold per flower.Aliandra has planted a new flower called Eternal Reverie somewhere in her dungeon. It is an incorporeal flower which blazes with azure flame petals and has the mind-affinity.
+
+“Perfect!” Willow said, touching her guild ring to the mana signature on his quest the instant it appeared on the board, transferring the details to her quest tracker. Before he could even say a word, she was dashing off toward the stairs in the direction of the dungeon teleporter.
+
+“She seems eager,” Basil muttered.
+
+“Told you there would be a strong demand,” Weldin said. “Nice girl, eh?”
+
+Basil bolted out the door, calling hastily, “Things to do!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

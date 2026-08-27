@@ -1,0 +1,161 @@
+---
+id: 508ad1df-1f25-5387-90a7-872fa4b48799
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37"
+slug: 0037-chapter-37
+partOf: emie-ascended
+position: 37
+ownLength: 2321
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3609442/chapter-37"
+royalRoadId: "3609442"
+---
+
+The kits were napping when I arrived at Illia’s house. Seeing Aerie snuggled up with her siblings made me feel a little bad about separating her from them, but I suppressed the sentiment since I knew that Illia had no intention of keeping any of the kits.
+
+Even if I didn’t take her, she would eventually be sold to someone else. At least this way, I could ensure Aerie got a good life.
+
+“They wore themselves out a few minutes ago,” Illia whispered as she tiptoed over to the pile of asolade kits.
+
+The momma asolade watched from her perch a few feet away as Illia gently lifted the kit I’d grown fond of from the pile. The momma’s eyes showed mild interest, but nothing beyond that.
+
+“Here,” Illia said, handing me the small white and gray ball of fur. “Once we settle the balance, I’ll take you somewhere private to bond with her.”
+
+Understanding her intent completely, I handed her the agreed-upon amount. With a satisfied nod, Illia guided me to another room and gave me a few moments to bond with my new companion.
+
+Putting the still-sleeping kit in my lap, I opened the small Beast Companion skillbook and quietly learned the skill.
+
+Though it was my first time slotting such a skill, I instinctively understood how to use it. I knew that, for now, the skill would be limited to a single companion. But with time and intention, it could expand to include others.
+
+However, I had little intention of taking the skill in that direction. Instead, I planned to deepen the skill, allowing a closer connection between Aerie and me. But that wasn’t anything I needed to worry about right away. It would likely be a long time before the skill was ready to grow.
+
+Following my instincts, I focused on Aerie, willing a bond to form between the two of us as I held her in my hands. Her cute, kitten-like eyes lazily opened as she yawned.
+
+“Hey, Aerie. Do you want to be my friend?” I whispered.
+
+Words weren’t strictly necessary to form the bond, but it felt right. Less than a breath later, a distinct connection between me and the kit in my hands formed.
+
+As if the new connection between us wasn’t anything remarkable at all, Aerie lowered her head and promptly fell back asleep.
+
+“This is Aerie,” I said, introducing my new companion to the rest of the party later that evening.
+
+Stephen wasn’t there, but he’d already met her. He had accompanied me to Illia’s house to visit once before, but this was the first time Mike or Cora were seeing her.
+
+“She is so much smaller than I imagined,” Cora exclaimed as she extended a single finger to rub the kit’s tiny head. “She’s practically the opposite of Wally. He was such a big boy! I’m a little worried about accidentally stepping on her when we’re all in the sanctuary, to be honest.”
+
+“I wouldn’t worry too much. Asolades like to nap in elevated or enclosed spaces, so it’s unlikely she’ll be lying somewhere you might step on her. I was actually thinking about adding a little access door to let her go out into the garden whenever she wants, so she’ll probably spend more time out there than in the part we use as a house.”
+
+It wouldn’t be hard, even without making any suspicious changes. The door leading to the garden was a sliding door, so adding a small panel with a flap wouldn’t be all that difficult.
+
+Of course, I could easily just add a little door for Aerie directly, but that would likely draw too many questions that I still didn’t quite feel comfortable answering.
+
+“Can I hold her?” Cora asked.
+
+Though I was still feeling a little clingy because of the newness of the bond, I handed the ball of fur to my friend. Aerie needed to get used to the rest of my party sooner rather than later, after all.
+
+“She is so cute,” the rogue murmured when Aerie noticed she was no longer in my hands and started looking around curiously.
+
+I sent warm feelings through our nascent bond, trying to impress upon the young asolade that the person holding her was a friend. She must have understood my intent, because she immediately rolled onto her back and exposed her pure white belly to get more pets.
+
+Seeing the way his wife was reacting to the tiny asolade, Mike raised a brow and said, “You wanted to wait to get a pet, remember?”
+
+“Oh, I remember,” Cora replied. “That doesn’t mean I can’t love on this little cutie,” she added in a tone reserved for very small children and pets.
+
+“I have a bed for her already, but I was thinking about picking up a few more things to keep her entertained. Stephen is still working on the commission he accepted yesterday. You wanna go shopping with me?”
+
+The question was more for Cora since Mike had never expressed much interest in shopping. However, I made sure to look at both of them when I asked.
+
+“You two can go without me. I have some stuff I want to take care of,” Mike replied.
+
+Hearing his comment, Cora shrugged and agreed to join me. The sun was already hanging low in the sky, but that didn’t mean very much, especially near the Dungeon Complex, where businesses tended to remain open quite late.
+
+Some that catered specifically to delvers stayed open all the time since those leaving the dungeon often did so at random times.
+
+The streets were somewhat crowded as we made our way to the pet store. By their low levels, I could tell immediately that most were people who’d decided against progressing beyond the first evolution, opting instead to live relatively mundane lives instead of risking their lives chasing more power.
+
+I could see the desire for such a life in a lot of the unevolved delvers who were still grinding through the requisite levels to become official adults. They lacked a certain spark that was obvious in many of their counterparts. It was like they’d given up and were simply going through the motions until they reached the end.
+
+The majority still hoped to one day ascend since doing so was considered the height of accomplishment within the realm, but I estimated about forty percent of the iron rankers had already given up such dreams and were merely trying to survive until they could walk away from the dungeon forever.
+
+Of course, that wouldn’t actually make them any safer.
+
+Sure, they would no longer be entering the dungeon and fighting beasts to earn wealth and power, but they would still have to face any demons who attacked the city. And the truth was, more people died to demon attacks than in the dungeon, by a significant margin.
+
+In the dungeon, delvers could progress slowly. Nearly all encounters fell within expected parameters, and rarely did anything unexpected occur on previously explored floors.
+
+The dungeon’s evolution had added a bit more danger, specifically because some aspect of the dungeon had changed. But once those changes were recognized and shared, the danger diminished significantly.
+
+As long as a group was prepared and didn’t push farther than they could handle, the dungeon really wasn’t excessively dangerous.
+
+The same did not apply to demon attacks.
+
+“Are you going to get something that lets her climb up the wall? Those wall-mazes look like they would be fun,” Cora said, pointing at a large display that reminded me a bit of large, wooden hamster tunnels.
+
+They were meant for much larger creatures than asolades, but the concept could be adapted easily enough.
+
+“Maybe not something enclosed like that. I could see that being a pain to keep clean. I might incorporate a few small cubbies, but I’d like most of it to be open.”
+
+We looked through the displays, eventually making our way to a section that was designed with small climbing creatures like Aerie in mind.
+
+The asolade in question was sleeping in her little carrier, which I was carrying like a purse. If it wasn’t against the rules, I would have woken her up and let her pick which of the climbing walls she wanted. But since it wasn’t allowed, I let her sleep.
+
+I eventually picked one with plenty of hiding spaces and swinging hammocks, along with a large potted vine similar to the one Illia had in her sunroom.
+
+It would take a while for the plant to grow enough to cover a large section of the wall, but that was fine. I expected Aerie’s lifespan would expand significantly once she evolved once or twice.
+
+“Where are you even going to put that?” Cora asked when I went to pay for my purchases.
+
+“Probably along the back wall where the exit to the garden is.”
+
+The comment reminded me to pick up an insert that would work with the sliding door I’d built into the wall. After adding one to my purchase, I sent everything into storage.
+
+“Oh, hey!” Cora suddenly exclaimed. “I heard a rumor earlier today when I was at the Alchemist Guild. Did you know the Porter Guild is planning to open a branch here in Sorenguard?”
+
+“Are they? I thought the Association hadn’t finished its assessment yet.”
+
+“Well, apparently, someone decided that enough space-based skillbooks were being dropped in this dungeon to justify a new branch. From what I heard, there is only one other branch in the whole realm, and it’s located nearly on the opposite side of Vasillios.”
+
+Given my skills, I’d obviously looked into the Porter Guild. It was quite famous, even with its complete lack of branches beyond the headquarters.
+
+I’d planned to eventually make my way to the Porter Guild. However, I hadn’t expected to manage such a feat any time soon. Given the size of the world and the distance involved, it had been more of a ‘someday’ than any kind of an actual plan.
+
+Hearing that they were actually considering opening a second branch here in Sorenguard was a pleasant surprise. If it was true, it would potentially grant me access to parts of the world that might have otherwise been out of reach.
+
+“Master Lothan was really excited about the news since having a local branch of the Porter Guild would likely bring a lot more trade and access to rare herbs and beast parts that we don’t currently have access to.
+
+“He thinks it’s pretty much a guarantee at this point that the dungeon will be classified as space-aligned. Well, space and time, to be specific,” Cora said, giving me a pointed look.
+
+“Yeah?” I said, suppressing a smile.
+
+The dungeon’s alignment was never really a question, given my status as the Originator. My only real question was whether or not my much weaker third affinity would manifest in a recognizable way.
+
+My old realm’s Arcane affinity was basically just a neutral affinity that could emulate any of the other affinities at an increased cost. That was a somewhat simplistic explanation, but it roughly captured the gist of what the affinity could do.
+
+“Any word on when they plan to announce their findings?” I asked.
+
+“Master Lothan just said that it should be soon. He’s got a friend who is pretty high in the local Delver Association, but I don’t think they told him much more than that.”
+
+It made sense that a high-level Alchemist would likely know the higher-ranking members of the Association. In fact, I wouldn’t be surprised if the local leaders of Enchanter Guild and Healer Guild were similarly aware of what was happening in the city.
+
+I should probably interact with the members of my own guilds a little more often.
+
+To be fair, I did interact with my fellow Healers during my shifts at the medical facility, but we were usually too busy to gossip much. And most of the Healers were also Clerics, and they weren’t known for gossiping.
+
+There were always people in need of healing, and now that I’d evolved my healing skill and could regrow limbs, the demand for my services was even higher.
+
+I’d thought that I was busy before my evolution, but I was wrong. I’d gone from taking whatever patients came in that I could handle to now having a waiting list of people in need of regeneration.
+
+There was only one other Healer capable of regrowing significant body parts, and he was a silver ranker who focused primarily on high evolution patients.
+
+Since the number of third or fourth-evolution patients in need of his services was enough to fill his schedule completely, the steel-ranked patients and below had been forced to deal with their dismemberment or pay the cost of a restorative potion.
+
+Not only were such medicines extremely expensive, but full healing usually required multiple doses – something that even higher evolution patients could rarely afford without going into debt.
+
+Consequently, the number of lower evolution patients who still suffered from some kind of dismemberment was quite high. So much so that even if I worked all day, every day for a month, I still wouldn’t be able to fully clear the backlog of potential patients.
+
+Part of that was because regrowing a limb or an organ was extremely time and energy-intensive. It wasn’t something that I could do constantly, even with the skill being a core skill. At best, I might get through two or three patients in a shift.
+
+That would change as I grew stronger, but it would take time. And as selfish as it might be, I had no intention of spending all of my time healing.
+
+Work-life balance applied to more than just the constant grind to grow stronger. It meant I wasn’t going to allow myself to focus solely on one or two things to the exclusion of everything else.

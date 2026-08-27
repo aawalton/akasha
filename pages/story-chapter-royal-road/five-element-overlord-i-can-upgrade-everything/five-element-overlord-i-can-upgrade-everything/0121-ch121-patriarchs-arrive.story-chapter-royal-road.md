@@ -1,0 +1,133 @@
+---
+id: c985b353-e1ed-580a-97d5-1e310c3e78df
+page-type-slug: story-chapter-royal-road
+title: "Ch121 Patriarchs Arrive"
+slug: 0121-ch121-patriarchs-arrive
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 121
+ownLength: 2034
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3827695/ch121-patriarchs-arrive"
+royalRoadId: "3827695"
+---
+
+The new families arriving start to slow their trickle in, and eventually they stop.
+
+I spot Mu Zhiheng and Wang Ruze both making their way down the center path, away from the welcoming entrance, and up to the main stage.
+
+Mu Shulan’s uncle steps behind the maids of honor, into a group of many wives and children, making up his own branch of the Mu Clan.
+
+Wang Ruze walks straight toward me and sits in between me and Wang Tengru, smiling and overlooking the crowd as more people settle.
+
+There is no sign of either of the Wang or Mu Family Patriarchs, nor the actual main spectacles of this marriage event. Only whispers fill the air as the crowds of over a thousand cultivators start to become restless.
+
+From my current view, I can feel the pressure coming off of every foundational clan’s private seating areas. Even outside of my spiritual senses, the Wei and Lin families both have fluctuations of pressure that could only come from strong physiques.
+
+The Jiang, Fu, and Tang clans all have strong vibrations coming off them too, but the longer I sit here, the more I can tell with certainty that these three clans in particular all have blood demons present.
+
+It’s as clear as day to me, yet no one else seems to notice.
+
+I turn to Wang Ruze and murmur under my breath, “If you don’t mind me asking, what kind of acquired physiques do the foundational clans of this city commonly hold?”
+
+He keeps a steady expression for a moment, but a genuine happy grin grows on his face as he replies.
+
+“Well, I cultivate the beast mastery physique. Many in our Wang Family practice it to progress faster, and gain beneficial battle strength through our spirit beast’s soul bonds. It’s a hybrid physique, but it leans much closer to a technical classification, so I can’t always sense who has physical-type physiques present. Though, it’s well known the Jiang Family grants their young the flaming mountain physique. The Fu and Tang clans both use a more simplified acquired physique called the heavy mountain physique. The Wei and Lin clans do not tell us much; they usually practice rare physiques from the capital Nine Rivers City.”
+
+He pauses for a moment and looks to the far side of the stage.
+
+“The Mu Clan is known for their unique Acquired Verdant Wood physique. It is most known for spirit herb farming, the foundational pillars don’t often show off its other abilities… The only time I see it in use is when Mu Zhiheng comes by to help attend to some of the Wang Patriarch's Perfect Grade Green Apple Trees.”
+
+Wang Ruze shifts his gaze in the seating area to where Meng Ruo sits.
+
+“Then of course the Meng Clan’s Foundational Patriarch has a perfected copy of a Mortal Grade Talisman Mastery physique legacy, so that is what most of them practice, including their heiress who showed up today. Still, other than the patriarch, none of them have mastered it fully.” He turns to me. “Why do you ask?”
+
+I make sure not to stare at anyone in the crowds for too long. “No reason, I just wonder if there are any other physiques practiced. I don’t know if Wang Ming mentioned it to you, but I’m quite new here. Learning about the daily life of clans in Lingshi City is still interesting to me.”
+
+He shrugs. “Not that I know of. Even if there were, it’s not like they’d tell us, and there’s no way anyone can sense the exact kind of physique someone else has without physically seeing its known unique traits while active. Hiding secrets is always beneficial.”
+
+My hair stands up on end at these words, as everything strange about this event clicks into place.
+
+I instinctively glance over to Lan Xin, as I remember our conversation about souls and how she said it’s impossible for anyone to view another’s from a long distance.
+
+This must be another side effect of my Jade Purity Soul Scripture.
+
+I can feel the anchor points and types of fluctuations in others’ physiques, linking them to the ones I’ve felt in blood demons before.
+
+To others, all physical-type physiques feel exactly the same. They have to see the physical manifestations to be certain of its exact name.
+
+“Understood…” I respond, staring straight ahead, but now focusing on the tier 2 defensive and offensive items in my system storage.
+
+This wedding ceremony has far more tension than anyone in this crowd realizes right now.
+
+Not only are there extremely strong blood demons present, but the system secret on my scan of the Feng family confirms that the Jiang family patriarch plans to show up.
+
+As all these thoughts race through my mind, a sweet green scent of spiritual apples comes in with a gust of wind. The shadow of a brown bear and a white moose appear at the back of the crowd, as some of the cultivators starring at the main event have finally decided to enter the orchard.
+
+The entire temperature of the orchard changes, becoming warm and invigorating.
+
+An old man in a white robe with green and black accents stands atop the back of a massive white moose. Everyone he passes stands to their feet and bows.
+
+Silence fills the seats, and the air quivers in their presence. The old man is bald, with a long white beard, and he stands over two meters tall with a muscular frame. It is impossible to sense his true aura, but there is something mystical about this Foundation Establishment that makes him appear as a different lifeform entirely from all of the Qi Refiners he passes in the crowd.
+
+Behind him, the plump and jovial Wang Ming rides Mantou, both him and the brown bear smiling wide. Everyone bows a second time to show him respect.
+
+A system scan triggers once they get close enough to the stage.
+
+[Automatic Inspect Function Activated…][Wang Yang] [Age: 226][6th Level Foundation Establishment][Fire, Earth, Metal Spiritual Roots][5th Grade][Acquired Beast Mastery Physique][Mid Stage - Spirit Grade][No Innate Physique][Patriarch of the Wang Clan, Wang Ming’s direct bloodline grandfather. Suffering from countless old and new soul fractures. Soul-bound to a rare Lesser Yang Spirit Moose, rescued as a cub over 150 years ago deep in the Black Marsh County during a major Blood Sword Sect War.]
+
+My gaze shifts to the moose, and I see it is a 5th-grade dual metal and fire spiritual root spirit beast, with an innate physique [Lesser Yang Innate Physique][Mid Stage - Spirit Grade].
+
+Hot white particles radiate off this moose; it is clear it is holding back its aura.
+
+However, when I sense its soul, and the old man he’s bound to, both of them look like shattered vases held together with pure willpower alone.
+
+The old man’s sharp gaze turns my way with white qi flashing in his eyes, and I follow the lead of everyone else in the Wang Clan and Mu Clan, standing up and lowering my head in respect.
+
+The enormous moose steps up onto the stage, and Mantou follows behind.
+
+Wang Yang waits patiently, watching everyone’s movements as they keep their heads bowed, and Wang Ming hops off his bear, standing alone in the center of the stage in front of his grandfather.
+
+“Please, raise your heads. I accept your greetings,” he calls out in a deep tone, loud enough to reach the back of the orchard with ease.
+
+The ground beneath the stage quivers, and fluctuations of pressure ripple off of him.
+
+They do not feel harmful, but they are extremely dense and profound.
+
+“I’d like to thank everyone for coming out today, the first day after the Verdant Prefecture’s first New Moon of the year. It has been over a century since my family settled here, and many of you in the audience today settled at this same time. Others have come here more recently, but you are all now a part of the next era in this city’s history. I will save my lessons for after the ceremony, once the banquet begins, so until then I hope you can all pour your attention toward my grandson on his special day.”
+
+The old man looks down to his grandson, then his white moose steps back to make more room at the front of the stage.
+
+Wang Ming smiles, looking out at the crowd as all eyes stop on him.
+
+At the same time, another unique warm pressure enters from the back of the seated crowd.
+
+Another old man approaches. He wears similar robes, but his entire body glows with a very subtle invisible vibrating aura to keep his presence contained. His eyes glimmer green, and his grey beard is trimmed short. He too stands at over two meters tall, but has a slimmer build than the Wang Patriarch.
+
+All of the wooden seats vibrate with his footsteps, and the branches of the green apple trees instinctively curve toward him as he makes his way to the stage.
+
+Everyone bows again, and he silently makes his way to the raised platform on the other side of Wang Ming.
+
+[Automatic Inspect Function Activated…][Mu Shouxin] [Age: 224][6th Level Foundation Establishment][Water, Earth, Wood Spiritual Roots][5th Grade][Acquired Verdant Wood Physique][Initial Stage - Spirit Grade][No Innate Physique][Mu Clan’s Patriarch. Direct blood grandfather of Mu Shulan. He has mastered his family's acquired physique to its pinnacle, passing it on to his two strongest sons with 6th-grade roots; Mu Zhiheng and Mu Zhimu. He holds forbidden knowledge of the Verdant Prefecture’s origins, tied directly to his clan’s physique.]
+
+As his system scan triggers in my mind, I see deep fractures in his soul too, but they are not as catastrophic as the other old man.
+
+Mu Shouxin raises a hand.
+
+“Please, I thank you all for the respect as well. But, it is not my day for attention either. Usually, the clan of a daughter being married off would not hold so much prestige in a ceremony like this, but this is no minor alliance. Neither the Mu nor Wang Clan has birthed heirs that surpass 5th-grade roots since our great ancestors, long before my time. Yet in this generation, we have both been blessed by the heavens to not fall into obscurity. I share a strong bond with Wang Yang, as we survived one of the deadliest Blood Sword Sect Wars there ever was together over a century and a half ago. We agreed that our clans would be allies forever after, and there is no better way to ensure this pact carries than to create an even stronger main bloodline, merging our clans as one.”
+
+There is a moment of pause, and the fluctuations of the white moose take the attention from the Mu Patriarch as Wang Yang speaks out in an echoing tone.
+
+“Indeed. With our pooled resources from over a century of saving, we purchased 4th-grade beasts from the capital, and have paved a path for two future late-stage foundation establishment cultivators to be major powerhouses in Lingshi City. For this reason, neither clan shall lose their family name, but instead to respect these new heirs, today we shall unite Mu Shulan and Wang Ming as the strongest new merged main bloodline of both of our clans. Their offspring shall be the first generation of the Wang-Mu Clan, bringing us all another three centuries of peace.”
+
+There is only silence following these words.
+
+Many of the qi refining families stare up at the stage with wide eyes, as words filled with such power from a foundational cultivator are something they are witnessing for the first time in their lives.
+
+The late-stage qi refining clans and private booths of the foundational clans stay silent, but their physique fluctuations of heightened emotions cannot be missed.
+
+A loud, echoing caw of a spirit bird breaks the silence, and a bright green eagle dives down from the sky.
+
+“Please, welcome my granddaughter, future Matriarch of the Lingshi City Wang-Mu Clan.”
+
+The old man steps back, settling next to Wang Yang and his moose as the green-feathered eagle lands right beside Wang Ming and Mantou, carrying a young woman on its back.

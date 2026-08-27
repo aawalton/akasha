@@ -1,0 +1,159 @@
+---
+id: ccc19a39-68dc-5be3-a710-94a888b5a57c
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-Three: Demons"
+slug: 0084-chapter-eighty-three-demons
+partOf: flesh-eater-demon-evolution-litrpg
+position: 84
+ownLength: 2586
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3416686/chapter-eighty-three-demons"
+royalRoadId: "3416686"
+---
+
+Declan stood in front of them, clothes covered in dirt and blood. The cadet had a few cuts and bruises visible beneath his uniform, but he otherwise seemed mostly uninjured, if frazzled. One hand clutched a long spear, fingers squeezing tightly around it, and he was staring straight at Pyre with wide eyes.
+
+More footsteps sounded. Merrick stepped out from behind the stone as well, coming to a stop just behind Declan. The older cadet was in a similar condition—obviously tired, but with mostly minor injuries—though he did a much better job at controlling his expression when he saw them. His face remained stoic, dark eyes sharpening when they landed on the group. He was holding a bloody sword in one hand.
+
+Something faint and distant stirred in Pyre’s chest at the sight of them alive and (mostly) well. She hadn’t given much thought as to what had happened to the two cadets after she’d left the garrison, too focused on dealing with the invasion and ritual spell, but it looked like they’d made it through the fighting.
+
+Declan’s eyes flitted about the group without pause. They probably made for a wild sight, Pyre thought. Callan still looked solid, so he could pass as a regular human, but she was very obviously not. The blood and gore probably didn’t help. Combined with Daphne’s decidedly recognizable face, and it was no surprise that the cadet’s mind seemed to be short-circuiting.
+
+“You—Lady Daphne?” Declan’s voice was faint. He kept staring at them, head moving back and forth as he tried to make sense of the situation. “What’re you—And you—”
+
+“They’re with me,” Daphne interrupted. She took a step forward, small enough that she was still hidden from the rest of the field behind the rubble, but the message was clear. The mage’s posture had straightened, shoulders squaring into that effortless aristocratic confidence. She briefly glanced at Pyre’s very demonic form before focusing back on the two cadets. “I’m aware of how this looks, but I can assure you—”
+
+“You’re Pyre, right?”
+
+Declan’s words came out in a blurted rush. Pyre felt her eyebrows raise. She hadn’t thought anyone would recognize her in this form, especially not now after the wyvern fight and crash landing.
+
+The cadet let out a shaky, somewhat hysterical laugh. His hands shook around his spear. “I saw you on the wyvern. Saw you crash. I thought—I thought I was going crazy, so I came here to check. But it really is you, isn’t it?”
+
+He swallowed, eyes wide and wild-looking. Through the storm of emotions, something like desperation rose to the surface. “How’re you…?” His voice trailed, as if he couldn’t bring himself to say the words. Pyre gave him a long look.
+
+“I’m a demon.” Her words were blunt, but not cruel. “I always have been.”
+
+Declan flinched back, and the shaking started again. Beside him, Merrick placed a steadying hand on the younger cadet’s shoulder. His own gaze remained fixed on Pyre, still and unreadable. She could practically hear the calculations happening in the man’s mind, the steady sifting of memories as new information was added. Whatever conclusion he came to, he gave away nothing.
+
+“We’re not helping the Empire,” Callan added in a rush. Daphne nodded in affirmation.
+
+“They helped stop the invasion,” she said, but none of the explanations seemed to be helping Declan, who looked close to hyperventilating.
+
+“You’re a demon. You’ve been a demon this whole time,” he whispered half to himself. He shook his head. “Why did you… Why did you even join the garrison? Why do any of this?”
+
+“I’m also rather curious.”
+
+Behind Declan and Merrick, a familiar sergeant strode into view. Pyre heard Callan suck in a breath, and Daphne tensed. She didn’t know if they knew or remembered Edna from the garrison qualification exam, but it was clear that they did recognize the additional insignias on her uniform and what they meant.
+
+The demon half expected there to be an entire squad behind the sergeant, ready to attack, but when she scanned with her [Thermal Vision] eye, she found that Edna was alone. Merrick saluted as she stepped in front of him, and it was testament to how out of it Declan was that he barely reacted.
+
+Finally, the woman came to a stop across from Pyre. Hard, icy blue eyes met steel grey, unflinching. She jerked her head at the demon as if to say, “Well?” She wasn’t attacking yet, but she probably would if they didn’t start talking soon.
+
+Pyre exchanged a glance with Callan and Daphne, an unspoken conversation passing between them. Finally, Callan slowly stepped forward, launching into a carefully edited, abbreviated version of events.
+
+He didn’t mention the fact that he was a ghost—probably to avoid adding to the confusion—and deliberately steered clear of anything related to the soul piece. His explanation was brief and concise. They’d come to Magrath to find a cure for a curse, joining the garrison to get closer to the Bellheins. After working as a guard there and building a rapport with Daphne, they’d discovered the ritual spell in the sanctum and done everything they could to stop it.
+
+It was neat, tidy, and made Pyre sound significantly more heroic than she was. Daphne cut in a few times to corroborate the story, especially once he got to the start of the invasion itself.
+
+By the time the ghost was done, silence had fallen over the group.
+
+Pyre’s eyes landed on Declan, who was still staring at the ground looking shell-shocked. Merrick had remained stoic while Callan spoke, only briefly reacting to a few revelations, while Edna’s face stayed a stone mask throughout it all.
+
+The demon shifted her weight, muscles flexing as she waited for them to process everything. She was fully expecting the worst. Daphne’s own reaction back in the sanctum had been a clear reminder of how demons were viewed in this world, and the whole situation was, objectively, insane. She wouldn’t blame them for not believing a word.
+
+Callan seemed to be bracing himself too, while Daphne maintained a carefully composed demeanor. Pyre was a little surprised that the mage was defending them, to be honest. Now that the invasion was stopped, this would’ve been a great opportunity to fully separate herself from the two monsters. And yet, here she was, standing with them and watching the three soldiers with equal trepidation.
+
+Finally, after the silence had dragged long enough for the distant murmurs of the main field to filter by in the breeze, Edna opened her mouth to speak.
+
+“I mentioned,” she began, tone perfectly even, “that I’m not from Magrath, correct?”
+
+Pyre’s eyebrow rose. That wasn’t at all what she’d expected to come out of the human’s mouth, and the sergeant’s expression didn’t give anything away either. “You might’ve mentioned it,” the demon said. She did recall Edna saying something like that during those early garrison days when she was yelling at that noble kid.
+
+The woman nodded, face still stoic. “I was born in a small village near the Gravestones. As soon as I was old enough, I left for Magrath to enlist—it caused quite the argument at the time.” The corners of her mouth twitched with faint amusement at the memory.
+
+“A few months into training, I received a letter from my brother. He’d stayed behind to take over our family bakery.” Pale blue eyes remained fixed on the demon, unblinking.
+
+“The letter said,” Edna continued, “that he’d fallen in love with a woman he’d met, and that he was almost certain this woman was a demon.”
+
+Images rose to the surface of Pyre’s mind, flashes of memories so vivid that they’d seemed tangible. Even now, Tivona’s memories remained the clearest that she’d seen with [Memories of the Flesh]. They’d been brief, but Edna’s words brought them back with startling clarity.
+
+A small village. A man covered in flour. The events that would eventually lead to the loss of the demon’s horn—the same horn that Pyre now held encased in her arm—and send her fleeing into the mountains.
+
+“I returned to the village at once, of course,” Edna said. She chuckled darkly. “Of course I did. Anyone would, hearing something like that.” She shook her head. “I was prepared to find his dead body, but he was there living normally with a stranger. The demon.” She frowned. “If not for that letter, I never would’ve guessed what she was. They looked like two ordinary humans.” Her voice quieted. “They looked in love.”
+
+Beside Pyre, Callan had stilled, recognition flashing in his eyes. It took a little longer for the pieces to fall into place, the ghost only having secondhand knowledge of Tivona’s memories.
+
+Daphne studied Edna closely, still wary, while both Merrick and Declan had turned towards the sergeant. The younger cadet had finally raised his gaze from the ground, but the angle made it hard to see his expression. It was a little disconcerting to see him so quiet.
+
+Edna adjusted her stance, eyes briefly clouding with memories. “I argued, of course. I told him how stupid he was being, but you could never change that boy’s mind about anything once it was made. He made me promise not to tell anyone. In the end, I left them there and returned to Magrath.”
+
+Based on the way the sergeant’s shoulders tensed, Pyre could tell she wasn’t done. She was quickly proven right.
+
+“Some time after that, when I was no longer a cadet, I heard word from the village. Monster attacks.” Her voice lowered, something dark flashing in her eyes. “My brother was one of the victims. They’d received a tip about a demon hiding in the village and were going to ambush her. They asked for my help.”
+
+Edna’s gaze snapped to Pyre then, and her jaw clenched. “I was furious. Blamed myself for walking away that day. I returned to the village the next morning.”
+
+The demon already knew how the rest of the story went. Tivona’s memories, while brief, had made it easy to piece together. Edna didn’t elaborate on what had happened to that demon, but her silence said enough. Daphne stiffened, while Callan shifted uncomfortably.
+
+When Edna finally spoke again, her words were slower.
+
+“Some time after that, we found a goblin den on the village outskirts. There were human remains inside, trinkets, things belonging to the people who’d disappeared. All the goblins inside had been slaughtered.”
+
+Declan sucked in a breath, the first sound he’d made since the start of the story. Understanding flashed in Merrick’s gaze, and Pyre could see Daphne’s eyes widen slightly.
+
+“The other villagers wrote it off, but I kept thinking of that demon’s face when we attacked. I was too angry to see it at the time, too blinded by grief, but she looked devastated. Didn’t even fight back. And then I remembered how happy she and my brother looked, and I—” Edna’s voice caught. Fingers clenching into a fist, she shook her head. “It’s been nearly two decades,” she said lowly, “but I still remember.”
+
+The sergeant paused, taking a moment to compose herself, before meeting Pyre’s gaze again.
+
+“I made a mistake that day, cadet.” Her voice was steady and clear. “A mistake I’ve regretted for years now.”
+
+Pale blue eyes studied the demon, then moved to Daphne, Callan, the destroyed sanctum, the forest housing the dead wyvern, then back.
+
+“I hope,” she said slowly, “that I am not making another one today.”
+
+Callan’s head snapped up as the words processed, and his jaw dropped. Pyre felt her own eyebrows raise. Still, Edna’s gaze remained steady.
+
+With one final nod at the demon, the sergeant turned to Daphne.
+
+“Lady Daphne”—her voice returned to the clipped, controlled tone she normally used, as if nothing unusual had happened at all—“Lord Edmund’s carriage arrived in Magrath several minutes ago. He will likely be here soon.”
+
+Daphne’s eyes widened at the mention of her cousin. She didn’t have a chance to ask any follow-up questions, though, before Edna was already turning away, posture perfectly straight, pace even. She didn’t look at Pyre or Callan once. She was pretending, the demon realized, like they didn’t exist. Like she hadn’t seen them.
+
+It was only after she was about to step onto the field proper that she paused briefly. Neither Declan nor Merrick had moved. She glanced back at them with an assessing look.
+
+“I expect to see you at the debrief, cadets,” she finally said. With that, she continued forward without another word. Soon, the sergeant was nothing more than another distant figure dotting the clearing.
+
+Now alone amidst the rubble, Pyre studied Declan and Merrick. Compared to before, Declan seemed to have calmed down slightly, but his grip was still tight around his spear. The demon couldn’t even begin to parse the complicated web of emotions on his face. This would’ve been a lot to process on a regular day, much less immediately after a sudden invasion.
+
+In the end, the cadet took a deep breath and spoke first. “Where… Where’re you going after this?” His voice was hesitant.
+
+“South,” came Pyre’s easy answer. She gestured around them. “Wasn’t supposed to stay here so long.”
+
+Declan’s brows furrowed at that. He shifted his weight, muscles still coiled with nerves. “I just—I wasn’t expecting this at all. I mean, you’re a demon, but you’re also…” His voice trailed, and he made a frustrated noise. “It just doesn’t make sense,” he said helplessly. He looked like his whole worldview was crumbling before him, and maybe, in a way, it was.
+
+Pyre was quiet for a moment. Her mind wandered back to that day in the mess hall, when Declan had spoken of his parents, their deaths, and the Empire with uncharacteristic venom.
+
+She took a step forward. Declan immediately flinched, and she stopped in place.
+
+“Shit doesn’t always make sense, kid,” she said slowly.
+
+Beside Declan, Merrick placed a careful, steadying hand on the younger cadet’s shoulder. He met the demon’s gaze, a silent conversation passing between them the same way it had back in the garrison. This, at least, had stayed the same.
+
+Declan glanced back at the older man. His presence seemed to anchor him somewhat, and he took a deep breath. He turned back to Pyre.
+
+“Thank you,” he suddenly blurted. Pyre’s eyebrows rose. The human shifted his weight. “For stopping that wyvern,” he clarified. “And—for helping me at the garrison. I… I learned a lot from you.”
+
+In a slow, careful movement, the cadet dipped down into a bow. He straightened again and swallowed.
+
+“Take care,” he said.
+
+With those two words, the cadet turned away, Merrick still gently supporting his shoulder with his hand. The man nodded at Pyre, dark eyes saying what he didn’t aloud. The demon recognized both of their gestures for what they were—goodbyes.
+
+That last farewell hanging between them, the two cadets turned and strode away, melding into the distant crowd of soldiers. Pyre, Callan, and Daphne were once again alone among the sanctum ruins.
+
+“Those were… your garrison friends, right?” Callan said tentatively. Pyre watched the field a little longer, eyes tracing the two figures as they rejoined their squad and approached a waiting Edna. Finally, she tore her eyes away and turned to the two mages.
+
+“Yeah,” she replied simply. She didn’t say anything else. Instead, the demon adjusted her grip on the horn and soul piece, then turned towards the forest.
+
+“Let’s go,” she said.

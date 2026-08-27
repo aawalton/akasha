@@ -1,0 +1,197 @@
+---
+id: 98399a37-b7d5-5a89-a43a-d0288c5fdc87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: A Complicated Situation"
+slug: 0032-chapter-17-a-complicated-situation
+partOf: ends-of-magic
+position: 32
+ownLength: 2830
+unit: words
+ownProgress: 2830
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2565177/chapter-17-a-complicated-situation"
+royalRoadId: "2565177"
+markedReadAt: "2026-06-29T20:08:17.906Z"
+---
+
+As soon as he was through the barrier of adamant, Nathan could feel the magic. The magical environment inside Sussu’s vault was intense, a cacophony of powerful artifacts. Trying to examine them with his magical senses felt like staring into aggressive concert lighting. Something about the adamant shell had completely blocked the magical signatures until this moment. Nathan looked around, trying to tune out the magical background to feel for traps. His first pass didn’t find any.
+
+He stepped forward, running his eyes over the galleria that took up most of the space inside the shell. All around were plinths and display cases in a regular grid, carefully labelled and sorted according to some kind of higher-level scheme. The place looked like a museum. One of the light fixtures flared brightly and fired a [Disintegration] spell his way. Nathan ate the spell and killed the enchantment before spreading out his aura to take out every light fixture in the room. Each one of them had held a similar spell, though there was some divergence in the exact magical payload.
+
+If I’m understanding them right, the triggers are optical, not magical. Tricky.
+
+He nodded to himself and took another step. A blade of the dark metal emerged from between two floor tiles to slice him from groin to crown. He managed to get his head out of the path of the blade and flopped to the ground in a puddle of blood while his two halves knit back together.
+
+Rude.
+
+He reached his antimagic into the tiles under the floor and felt for a triggering mechanism, finding only the faintest elements of magic. It hadn’t felt like a trap to him because the trap was mostly mechanical, and the enchantments were of the kind of preservation enchantment that kept mechanical parts pristine over a long period.
+
+He scanned the rest of the room, and now that he knew what to look for, he found a half-dozen more of the floor traps. With the larger sample size, he could feel the faint threads of wizardry that connected them. It was some kind of disarming mechanism that would disable all of the traps if the right magical authentication was given. He tried to figure out how to hack the system, but it was built on Esebus principles, and he couldn’t immediately figure it out. They didn't have time for him to puzzle over it, so he followed the threads back out to find a series of magical explosives hidden in the plinths. They were using the signatures of the artifacts as cover and would detonate if any of the artifacts were picked up.
+
+He disabled the bombs with his aura, careful to keep away from the artifacts. He didn’t want to know what would happen if he broke something like the [Last Arrow of Olita] with his antimagic, but it seemed like a bad idea. He worked quickly, burning focus to rapidly work through every trap he found.
+
+He couldn't disable the floor blades with his aura, so he walked a quick circuit of the room, using his mana senses to navigate in the darkness. He poked the triggers of each of the floor traps with his toes, staying away from the blades as they scythed through the air. The resetting mechanism was magical, and he'd disabled them, so once they'd fired they were done. It only took a couple of minutes, during which he tried to ignore the items surrounding him. They blazed in his mind’s eye, dozens of magical effects powerful enough to wipe out cities - or save them. Of particular note was the Shield of Solemnance, which looked like a fancy vase with a couple of buttons on it. The Heirs would grab it later, and Nathan didn’t have time to investigate its secrets just yet.
+
+After he finished his loop without any sign of more traps, he called out to the Heirs. “I think we’re good! I triggered a few traps, so keep an eye out, but I think we’re set for the looting.”
+
+The Heirs piled through the hole in just a few seconds, blinking in the darkness. Khachi’s armor started glowing brightly, illuminating the entire room in a warm glow. That was enough to see by, so the Heirs split up. They were like kids in a candy store, excited about their haul and each approaching it in a different way. Sarah read each description with a clinical eye, carefully taking each item after understanding what it did. Aarl was more excitable, barely skimming before tossing the items into his bags. Khachi strode around with calm certainty, beelining for certain items that were infused with the taste of divinity. Stella seemed almost nervous, cautiously approaching the cases that held casting tools, reading their descriptions before working up the courage to grab each one individually.
+
+Nathan turned away, keeping his attention focused on the jagged entrance into the vault. He was nearly certain that the shell of metal would block any kind of teleportation, and the hole they’d cut seemed to be the only entryway. So long as nothing got through this hole, they had time. But by the same token, if they gave their enemies too much time to prepare, then they’d be trapped inside. Nathan wasn’t sure if the authorities of Esebus would try to trap them, but yielding the initiative was generally a bad strategy.
+
+Though Sussu’s intervention and death will probably slow them down. I doubt she expected to die like that, and I bet everybody's waiting for her orders before doing anything involving the vault.
+
+The bigger problem was the other Questors. By now, they probably knew about Sussu’s death and were getting their butts in gear. They would know more about what was in the vault than the locals. That could either make them more aggressive or more cautious.
+
+Nathan shot occasional looks over his shoulder as he kept watch near the entrance. He wanted to tell the Heirs to move quickly, but they didn’t need him reminding them. Anything he said would distract them from looting the place bare. He caught a quiet sound from outside the vault and flattened himself against the wall, poking the edge of his senses around the corner to get an idea of what was going down.
+
+It felt like a squad of Esebus soldiers, a dozen strong, and wearing stronger versions of the close-combat armor that the interior guards had been wearing. They were advancing cautiously down the hall, taking their time to check corners and ensure that there wasn’t an ambush waiting for them. They were moving slowly enough that Nathan could take the time to delve into the magic on their armor and understand what it did.
+
+Each suit was made of thick metal plate, enchanted to the gills with every kind of enchantment there was and with a touch of wizardry on top. The armor was nearly indestructible and contained a full life support system, as well as dimensional bags for food and waste. It could tear its way through a stone wall, jump over a building in a single leap, and even engage a limited flight capability. It could shoot fireballs from the wrists or electrocute an entire crowd with its fingertips. There even seemed to be a thin layer of adamant on the inside that would protect the wearer from damage in the face of an overwhelming attack. It was the kind of armor that turned a single soldier into a force to be reckoned with on any battlefield.
+
+Nathan scratched the back of his head awkwardly. He could entirely disarm this group without even coming into their line of sight. Their armor was powerfully enchanted, and he wouldn’t be able to get through it with his bare hands - but he didn’t need to. If he disabled the motive enchantments, the armor would turn into a constrictive prison. If he disabled the air enchantments, they would become coffins in short order.
+
+Did they even pay attention to what happened to the guards upstairs? It’s only been about ten minutes, maybe they didn’t have time to check.
+
+One of the Questors might have been using this as a way to bait out the Heirs. If they had removed all magical items, then Nathan wouldn’t be able to feel them. Except every one of the enemy Questors was supposed to be a mage, and he could feel the mana pools of each of the people wearing the armor, and no others.
+
+Out of an abundance of caution, Nathan called out to the Heirs. “Approaching strike team of soldiers. If I don’t come back in a few seconds, it’s a bigger problem.” The group of armored soldiers froze as they heard his words, then rushed forward in unison.
+
+They ran face-first into Nathan’s aura. He didn’t blast them with it, instead precisely targeting the limbs. He started with those in front and moved towards the back, precisely stabbing tendrils of antimagic into the arms and legs of the armor. Each limb fell dead and lifeless, causing the rush of soldiers to turn into a jangle of crashing metal as the first ones fell and the ones behind crashed over the top of them as the suits failed in a cascade.
+
+It took only a few seconds to completely disable the attack. Then Nathan vaulted through the hole, gashing his hands on the jagged adamant as he rushed into the guard room. It was as he’d left it, with a new feature of a chaotic pile of elaborately adorned metal armor in the center of the room. He could hear faint yelling from the fallen guards, and there were constant attempts at magical communication. But his jamming skill blocked them all automatically.
+
+He looked around frantically, straining his senses to see if there was anything else, or if this attack was precisely as dumb as it looked. But there was nothing. Nathan looked down at the faintly squirming enemies locked into their armor and frowned as he considered what to do with them.
+
+There’s no real reason to kill them. They are so powerless that I have the luxury of mercy. I don’t even need to prevent them from learning much about us. They've seen nothing, and this should all be over before they get rescued and have a chance to talk.
+
+With a thought, he deactivated the escape enchantments that would unlatch the armor, right before one of the soldiers tried to use it. Then he jumped back inside the vault, waving the all-clear to his friends. Aarl gave him a solid nod and turned back to stripping an elaborate display of weapons that looked like they’d been made from rainbow-hued glass.
+
+Nathan spent the next several minutes leaning against the interior of the vault, using his aura to strip out every function of the fallen armor that wasn’t essential for life support. He disabled the enchantments that let the guards see first, then took apart the communications before moving on to auxiliary functions. He left them food, air, and toiletry functions, but beyond that, the armor was little more than several hundred pounds of dead weight.
+
+He wrapped up about the time that the Heirs finished looting the vault. They grabbed the Shield of Solemnance last, the gigantic aura switching off instantaneously as Aarl poked the correct button and stuffed it into one of his dimensional bags. Soon enough, they’d all joined him at the entrance. Nathan looked over them, noting a few new accoutrements. “Is this the right time for new gear?”
+
+Stella brandished her new staff, which was a series of silvery cubes joined at the corners. It looked like a piece of modern art and blazed with powerful wizardry to Nathan’s senses. “This is a wizard-staff of Kalis. It makes all spells I cast better in every way. I don't understand all of it, but I understand the part that duplicates my spells.”
+
+“This is an endless pouch,” Sarah followed up, tapping a small pouch strapped securely to her bandolier. “It replicates any ammunition I put inside, including enchantments.” She pulled a penetrator round from within and loaded it into her rifle, then pulled out another one and waved it around.
+
+Khachi opened his mouth next as he held up a faintly glowing amulet, and Aarl gestured down towards a new belt, but Nathan held out both hands. “Ok - ok. I get it. Let’s go. I don’t want to get trapped in here. Let’s get out into the city, then see if we can go to ground. After this heist, they’ll tear apart the city to find us. I want to see if we can pull off another ambush when the Questors show themselves.”
+
+They slipped out of the vault without a backward glance. The entryway was still quiet, though the Heirs gave sidelong looks at the pile of armor Nathan had left on the floor. They stepped over them and moved towards the hallway, but didn’t go all the way to the gaping hole that led into the elevator shaft.
+
+Nathan probed his magical senses upwards, feeling a growing contingent of guards overhead. The zombies they’d left behind had been dealt with, and the ground floor of the building was swarming with soldiers and golems. More orbited the building in their flying suits. He didn’t feel any particularly notable signatures that could have belonged to Questors, but it was a lot of enemies.
+
+“We can’t get out the top without a big fight,” Nathan summarized. “Maybe we tunnel out?” He jerked a thumb sideways, towards the wall.
+
+Stella shrugged. “We can try. Anybody with a groundsense skill or the right spell will be able to tell what we’re doing.”
+
+Sarah set her mouth in a firm line. “Better than feeding ourselves to prepared defenses.”
+
+“Nathan would just turn them all off first,” Aarl replied wryly, gesturing back towards the mound of inactive armor and the trapped soldiers inside.
+
+“I need this wall covering gone,” Stella said, rapping her knuckles against one of the exterior walls. It was covered with enchanted metal plates that were in part to prevent anybody from tunneling in, though the foundations of the building were enchanted with much more comprehensive anti-tunneling spells.
+
+Aarl made short work of the panel, muttering about how he had been demoted to lock-breaker. Meanwhile, Nathan took out the anti-tunneling enchantments, then gestured Stella towards the bedrock revealed when Aarl yanked aside the panel he’d cut apart.
+
+The mage spun up an earth mana spell that worked like a giant drill, scooping out chunks of rock and depositing them behind. The corridor quickly filled with loose debris, and the Heirs stepped into the cavity carved out of the rock. More rock flowed around them to enlarge the front of the tunnel while being packed into the back. Soon enough, they all stood in a little bubble of air that slowly migrated through the rock. It wasn’t a quiet or fast way of transportation, but it seemed to be working.
+
+As far as Nathan could tell, nobody had noticed them. No sensor spells were being directed down towards them, and nobody overhead was reacting in especially notable ways. Then a unit of flyers in bulky armor landed and did something that he had trouble resolving at this depth. A wave of earth mana rolled through the ground, propagating outwards with the Heirs squarely in the center of the effect.
+
+“Incoming!” Nathan called out. He tried to absorb the spell, succeeding in blocking most of it. But he couldn’t do anything about the wave of pressure transmitted through the earth like the blast of a depth charge.
+
+Stella’s tunneling spell fell apart, and Khachi raised his shield and shouted a wordless cry of defiance. A bubble of light surrounded the entire party as the stone around them cracked and roiled. Rocks clashed together, and their pocket of air would have been crushed and collapsed if not for the magical shield.
+
+“Going up,” Stella said, her face white from the close call. She started channeling a spell, imbuing aspects of force and wizardry into an earth blast, then supercharging it. “Get ready to fly.”
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 6
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 872
+
+Bottomless Stamina: 88200/88200
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 644
+
+Regenerative Focus: 4916/6540
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 3
+
+Inspiration 8
+
+Impulse 4
+
+Mystical Discernment 6
+
+Forewarning 5
+
+Arcane Insight 8
+
+Evasion 2
+
+Mental Vault 6
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 3
+
+Aura Control 7

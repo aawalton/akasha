@@ -1,0 +1,215 @@
+---
+id: 08aa1183-c3e1-5049-97cc-dc51ffd3c28c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Future Tasks"
+slug: 0037-chapter-22-future-tasks
+partOf: ends-of-magic
+position: 37
+ownLength: 2782
+unit: words
+ownProgress: 2782
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2680792/chapter-22-future-tasks"
+royalRoadId: "2680792"
+markedReadAt: "2026-06-29T20:08:27.289Z"
+---
+
+Nathan turned back to Sarya. “Which kind of blight, undead or the other one?”
+
+“A wise question. We call it arcane, though some name it chaos. But we will set you against an undead blight, for it is the one that Questors hate most.” She shrugged. “Dangerous, and it becomes boring to trudge a hundred miles while slaughtering undead using limited magic.” She met Nathan’s eyes. “I haven't committed you to this task. We'll discuss the requirements before we part. I am limited in what I can say, but at least we'll ascertain if this deed suits you as I expect it to.”
+
+“We can also discuss our class choices,” Stella said. “We all have level 729 class choices.”
+
+Sarya paused at that, then clasped her hands together. "Truly a moment of celebration. We won't lack for topics of conversation. But perhaps first a moment of pause. Allow yourselves a moment of respite in recognition of your victory.” She ushered them away from the center of the cargo area and in moments had a table set up and warm food out on it.
+
+The scent of the warm food finished waking the Heirs up from their post-battle exhaustion, and they all realized they were ravenous. Sarya steered the conversation away from the battle and infiltration, asking about their trip across the ocean and zeroing in on the maps and things they’d found in Eolinne’s library. She was trying to distance them from recent events, and terrifying fights. Nathan, for one, appreciated it.
+
+Once the meal was done and they’d all had a bit of time in the minimal privacy available, they started talking about class choices. Sarya was happy to provide advice, and the Heirs were pleased to take it.
+
+Aarl’s choice was subtle. Duelbound, Impenetrable Aegis, and Master of Adamant were all focused on specializations in melee combat. Relicmaster would enhance any items he used and let him work around curses and restrictions that would prevent him from using magical items. Finally, Slayer of Giants was a similar class to when Nathan had first been offered it, which would boost Aarl’s strength and nobility.
+
+“Slayer of Giants is a strong class,” Sarya explained with a shrug. “Not specialized, but a prime choice for an inspiring leader without discarding combat ability. If you were keen on establishing a city, it would strike the right chime. But you’re not, are you?”
+
+Aarl shook his head. “Is Relicmaster worth the weight of consideration?”
+
+Sarya nodded. “It is the best choice. Classes that enhance items are often as strong as the items they possess. Your armament was good, and now you have robbed the vault of a Questor. Anything to enhance that bounty is a strong contender.” She held up a single finger for emphasis, grinning with sudden realization. “And it may allow you to use the equipment Sussu made for herself. You defeated a grand dungeon, and that victory will pay out in this Development.”
+
+Aarl furrowed his brow in thought. “It seems a powerful choice, but I’m going to restrain myself for now until the decision settles. I'm already on the path of relics, but I'm not sure I want to follow it to the end.”
+
+Next, they moved on to Sarah, whose class choices were a bit simpler. She also had Slayer of Giants, though it named ease of motion as a bonus instead of strength the way it had for her brother. Still, it wasn’t any better a fit for her than it had been for Aarl. Her other options were Unseen Death, Edge of the Horizon, and Line-Ender, which focused on stealth, range, and power, respectively.
+
+“Did you fight with your team during the battle?” Sarya asked, considering the options.
+
+“I did,” came the response, though Sarah seemed a bit sheepish about it. “There was no time to find a secluded vantage. The Questors attacked when...”
+
+Sarya waved her off, looking around at the other Heirs. “A sensible situation. But considering future challenges, your choice should survive the test of fighting with your teammates, not depend on a perfect situation. Stealth is useless if your entire team isn’t stealthy, and your range is already immense.”
+
+“Or I could reduce our weaknesses,” Sarah offered in counterpoint. “Nathan’s antimagic is effective at incredible distances, but we cannot take advantage of that unless Stella’s view is clear.”
+
+“True enough. Either choice is decent, but choose with an eye to how you work with your team. Do you need to strike from incredible distances, or is it better to have enough power to destroy defended targets?” She raised a finger for emphasis. “Another consideration is your next task. If you do attempt the blight, then your class should be suited for that. The undead are numerous and hard to kill.” With that last opinion delivered, she turned to Stella.
+
+The differentiation between Stella’s classes was a bit harder, with the descriptions of Mage of Destruction and Citybreaker sounding similar. The primary difference was that Citybreaker talked about defeating the defenses of a city. Sarya’s interpretation was that while Mage of Destruction would be better for large-scale area effects, Citybreaker would help Stella destroy hardened defenses, both magical and otherwise. Heir of Wizardry wasn’t hard to figure out, enhancing Stella’s wizardly capabilities and letting her imbue wizardry into all of her magic. Mana Incarnate was weird, and it would convert Stella’s body into mana.
+
+Hearing that made Nathan wince. “I’m not sure I won’t kill you by accident if you do that.” Stella looked at him with an exaggerated expression of betrayal, and he shrugged. “I’ve gotten pretty good at allowing specific people’s magic, but I’m not sure I won’t make the smallest mistake and give you a stroke or something. I also can’t avoid breaking the magic on anything I physically touch, so we’d need to be careful about that too.”
+
+Sarya shot a wary glance between the two of them. “It is a powerful class, and rare among the true powers. Questors are not offered transformative classes such as those, for they can come with a change in perspective that we do not welcome. But long ago, I knew some with a similar development, though for a different resource. They would not die until their resource was depleted.”
+
+“Oh,” Stella said simply, reaching up a hand to touch her neck. “I like that. And it will make my spells larger, faster, and more powerful. I have the staff for wizardry. Is there any wizardry defense that can defeat sufficiently powerful mana-based spells?”
+
+Sarya held up a calming hand. “To my understanding, even pristine wizardry will struggle against sufficient power, though it can be very efficient. But this class will likely make you vulnerable to wizardly manipulation. A wizard could deconstruct your body directly.”
+
+“But Nathan can kill that problem,” Stella said. She sounded increasingly certain.
+
+Nathan was worried she was going to choose the class purely because of her recent brush with mortality. “Let’s hold off on making any final choices for now. We’ve got time, and we should discuss all of the classes together. We also should hear more about what the blight is like.”
+
+“But Heir of Wizardry and Mana Incarnate are the gems among the glass,” Sarah summarized, before gesturing to Khachi.
+
+He wasn’t entirely forthcoming with his class descriptions, speaking in broad terms of the different classes he had access to. Nascent Divine seemed like it had the most direct path towards apotheosis, but it would change Khachi’s resource from Faith to worship. As soon as Sarya heard that, she started shaking her head.
+
+“That is a cursed treasure. Worship is powerful, but it requires genuine belief from followers to replenish. I do not doubt the reward will be worthwhile, but it is not a class for a travelling adventurer. You would take such a class to defend your temple against all attacks.”
+
+Prophet Ascendent had a similar vibe but didn’t go quite as far. It would provide skills to help Khachi preach and spread his own faith, with hints that it would serve as the foundation for a future option for Ascendency.
+
+Most of the other options seemed more like direct upgrades of Khachi’s current Shield of Hope class. Hand of Resurrection focused on healing and reviving the recently-dead, Saint of the Last Light improved the protective capabilities of Khachi's magic, Voice of the Purifying Flame improved his blessings and gave him new fire-themed combat capabilities, and Light of Judgement would enhance his offensive capabilities and allow the light he gave off to hurt enemies directly.
+
+“All powerful choices,” Sarya agreed after Khachi was done describing them in vague terms. “If you leave aside the improvements of Divinity,” she gave him a significant look, “Then it depends on your team. Do you need more offensive magic? More protection? Or the ability to more easily revise a death? Resurrection is a powerful ability, though I recall that the limitations are many.”
+
+“It seems incredibly good.” Nathan’s voice was thoughtful, trying to think of the limitations it could have. “The ability to bring somebody back after they’ve died? That seems like the sort of thing that would catch every single Questor’s attention?”
+
+“It will, but the requirements are truly serious,” Sarya said. Then she gestured for Khachi, who’d had a stern expression on his face and had opened his mouth to speak.
+
+“The act is not one that can be done without the appropriate weight of deed and action.” His voice was passionate, and he leaned forward and stabbed his finger towards Nathan. “A resurrection is a prayer of the most potent kind, one that must be supported with proper significance. A heroic sacrifice, a victorious battle against a terrible foe. These are the deeds that allow for that magic. Even if I should become the Hand of Resurrection, that burden will remain heavy.” He seemed to realize the aggression of his posture, leaning back and dropping the hand. But he also nodded firmly, as if that was the last word on the topic.
+
+Nathan held his hands up defensively. “Still, it’s worth keeping in mind.”
+
+The argument looked like it was going to continue, but Sarya intervened to change the subject. “The backdrop to these decisions are the deeds you plan to undertake. If you aim to challenge an undead blight, you should take classes that will allow calculated victory against a landscape of the dead.”
+
+“This choice is likely the last significant decision left in our builds,” Aarl protested. “We can’t make it with only the next battle on the horizon. This will shape our powers for as long as we fight.” He looked around for support from the rest of the Heirs, and got it. “What other targets should we hit?”
+
+Sarya’s face tightened as she looked around at them. “It is not verified truth yet, but I believe the final task will be to win a war. A war of Questors, where hundreds of us battle on each side. The feat you accomplished today, repeated manyfold.”
+
+“Ah,” Aarl said, deflating slightly. He glanced to the side, his eyes flicking back and forth as he read his class options again.
+
+“But if you misjudge the blight, it will burn you.” Sarya’s voice was animated. “In truth, it is best to model it as a dungeon the size of the continent. As if there was a single dungeon that stretched from Giantsrest to Agmon. To defeat it, you must fight your way to the center and enact a rite of wizardry atop the Seal.”
+
+“We have killed undead,” Khachi replied calmly. “They are a foe that we can defeat.”
+
+The Questor shook her head. “A blight is different. The very land is corrupted, the mana poisoned. It is a place that requires special protections and preparations. I am limited from speaking the full extent of the dangers.”
+
+“I’ve got a skill for that,” Nathan spoke up, pulling up the last skill he had under End of Magic. He’d had very little need to pay attention to it before now. He was pretty sure he’d gotten it because he’d discovered the secret of the Seals and that had pushed his class over level 729. “The Living World. It says that ‘Your antimagic enforces neutrality on the world around it, draining corruption and cleansing blight of every form. Where you pass, life can thrive once more.’ Does that cover it?” He raised an eyebrow at Sarya, who wore an expression that was split between pleased and aghast.
+
+She swallowed to get a moment to think. “Indeed. It seems this will be an easier challenge than expected. You would be -” She cut herself off, shaking her head. “Even so, the blight is dangerous. You’ve fought Grave Tangles, but there are worse things in the deep Blight, the obelisks of bone, the flesh tyrants, the shadows.” She shivered slightly. “You have fought undead, but you have not fought a blight. It will require destructive potential beyond what you have shown.”
+
+Stella smirked. “Teach a mage to light a fire.”
+
+Nobody laughed at her joke, and they fell into a thoughtful silence. Everybody had some new information to process, and it was late enough that it was probably best for everybody to get some sleep beyond the naps they'd had already. Nathan ended up splitting the watch with Khachi. The Wolfman wasn’t totally recovered, but he thought he just needed a few hours of prayer to recover fully.
+
+Nathan opened the cargo door as quietly as he could, slipping out onto the bare top of the cargo transport they were riding in. He could keep watch with his magical senses alone, but he just wanted out of the metal box for a chance to calm his mind. It was a chilly night, with a few other transports on the road but no one else in sight. The sky overhead was clear. The blue-white glory of the world above spread out overhead, and Nathan couldn’t help but look at one of the hundreds of black spots overhead.
+
+Soon, there will be one fewer.
+
+He closed his eyes and tried to calm his thoughts. He didn’t need to try to plan out an assault on a continent-sized dungeon at the moment. But his imagination was threatening to run away with him, imagining things that made a Grave Tangle look like a moderate threat. That wasn’t what he needed right now. They had defeated Badud’s grid, and freed the nation of Esebus from their control. Garna and Ushia were taking over, and it was likely that the country would soon change for the better. He didn’t know their exact plans, but he hoped they’d do better than the system Sussu had set up, which had seemed designed for maximum extraction efficiency.
+
+His thoughts drifted, thinking about nothing in particular as he finally released the tension he’d been holding since they landed on this continent. They’d come to challenge a civilization, and they had won, leaving it changed in their wake. He’d probably helped more people today than freeing Giantsrest of its masters had done.
+
+He felt Sarya phase through the ceiling of the container and land soundlessly beside him. There was no indication she was there to any mundane sense, but her magical signature stood out distinctly in his mind’s eye. She sat down across from him and waited for him to acknowledge her. She might have been trying to scare him, but Nathan kept his eyes closed for a minute. He tried not to focus on the Questor before him, to capture a sense of calm that would help him make the decisions he needed to make.
+
+When he did open his eyes, he saw Sarya waiting before him, looking up at the world overhead. Her gaze dropped to meet his.
+
+“Did you want to talk about anything?” he asked.
+
+“Just trying to understand you,” she replied easily.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 92903/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Spellslayer level 729
+
+Regenerative Focus: 7390/7390
+
+Catastrophic Blows
+
+Battle Stealth
+
+Mage Infiltration
+
+Forgettable
+
+Sneaky Blow
+
+Antimagic Stealth
+
+Magical Manipulation
+
+Lethal Index
+
+Wizard Resistance
+
+Magic Jammer
+
+Controlled Failure
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 7
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 7

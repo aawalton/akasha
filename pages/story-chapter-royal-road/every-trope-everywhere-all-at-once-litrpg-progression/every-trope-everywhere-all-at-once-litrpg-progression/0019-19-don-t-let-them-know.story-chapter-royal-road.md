@@ -1,0 +1,253 @@
+---
+id: 2dfd2adc-82de-5f54-9929-da7220028592
+page-type-slug: story-chapter-royal-road
+title: "19 - Don't Let Them Know"
+slug: 0019-19-don-t-let-them-know
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 19
+ownLength: 1524
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3429784/19-dont-let-them-know"
+royalRoadId: "3429784"
+---
+
+Imagine a fantasy amusement park minus the rollercoasters, except it was on a huge floating island above the clouds. That was the best way I could describe what I was seeing.
+
+There were so many people that we bumped into somebody every five steps or so. Banners hung around all the buildings, advertising all sorts of activities and where to find them. Many bridges were overhead, connecting one building to the next as harpies flew between them. The festival didn’t just take place on ground level, but above us as well.
+
+Food, games, performers, shopping, music—there was something for everyone. It was honestly kind of overwhelming, but in a good way.
+
+“Cloud candy coming through! Cloud candy coming through!” a female harpy said as she pushed through the crowd with a food cart.
+
+“Cloud candy?” I muttered, looking closer. It looked a lot like cotton candy.
+
+“Could we get four?” Talon asked without hesitation.
+
+The harpy nodded. “Sure thing! What flavors would you like?”
+
+“Hm… how about one of each?”
+
+The harpy smiled and handed over four cloud candies. They were a mix of pink, blue, red, and purple. “That’ll be eight copper,” she said.
+
+Talon nodded and reached into his pocket, pulling out a coin pouch.
+
+I looked at him. “Hey, you don’t have to—”
+
+The boy paid the copper, grabbed the candies, and handed them over to Reina, Meriel, and me.
+
+“It’s okay! I work at my parents’ inn, so I’ve got a bunch of money saved up. Think of it as my treat to welcome you to Whale Isles!”
+
+We accepted his gift, thanking him.
+
+Reina bit in immediately. “Mmh! This is amazing!”
+
+Judging from the pink color, it probably tasted like bubblegum.
+
+Meriel stared at it suspiciously. “I’ve heard of these before,” she muttered. “Apparently, they really are made of clouds.”
+
+Talon tilted his head. “Huh? No, it’s just sugar.”
+
+“Oh.”
+
+Meriel bit in. She tried hiding a smile, but I saw it slipping through just a little.
+
+“It’s good,” she said.
+
+“Right?”
+
+I tried mine next. I had the purple one, and it tasted just as expected—like a sweet grape candy.
+
+“I—hic!”
+
+The others turned to me. What was that about?
+
+“It tastes pre—hic!—pretty goo—hic!—good!”
+
+Huh?
+
+“What’s wrong?” Reina asked. Her voice sounded super squeaky. “Oh my god! My voice! This… this is awesome!”
+
+“Ah, I forgot to mention, but cloud candies always have some weird side effects,” Talon said, tiny clouds spilling out from his mouth with each word.
+
+Meriel sneezed.
+
+Then she sneezed again.
+
+And again.
+
+…
+
+“Ugh…” she muttered. Looks like her candy gave her allergies.
+
+[TROPE COMPLETED: EATING THE WEIRD FESTIVAL FOOD]
+
+[SKILL ACQUIRED: GOURMET ANALYSIS]
+
+Type: Active
+
+Effect:
+
+- Identifies unusual side effects of edible items
+
+That was certainly a useful skill for such a random trope.
+
+“Everyone, look!” Reina said. I couldn’t take her seriously with how squeaky her voice sounded right now, but I looked anyway.
+
+She pointed at a sign that read, Sky Spear Toss. It had an arrow pointing toward the edge of the island.
+
+“Ooh, you wanna try that?” Talon asked. “I think you guys will love it!”
+
+“Sounds—hic—good,” I said.
+
+We looked at Meriel and… well, she didn’t say much since she couldn’t stop sneezing.
+
+We dragged her along anyway.
+
+***
+
+Thankfully, the cotton candies’ side effects had already worn off.
+
+Just like the rest of the island, the outer edges were packed with people, too. A group of harpies passed by holding stuffed animals of whales and manta rays. An angel walked by with a giant plush cloud serpent nearly twice his size, struggling to carry it through the crowd.
+
+Reina’s eyes sparkled at the sight of the plushies.
+
+“There are plenty of games here, but we can try Sky Spear Toss first,” Talon said.
+
+“Where can I get that cloud serpent plush?” Reina asked, pointing.
+
+He pointed down the path. “I think that’s from the stall with the red and orange—”
+
+She ran off before he could finish his sentence.
+
+“She’s faster than I thought,” Talon said.
+
+Meriel sighed. “I’ve never seen her run that fast before.”
+
+“To be fair, that plush was pretty cute,” I said.
+
+We stood in line for the Sky Spear Toss game. It would be a while before it was our turn to go.
+
+“I’ll go use the restroom. Could you guys stay in line for us?” Talon asked.
+
+We nodded, and he headed off.
+
+Now, it was just Meriel and me together. It felt strangely awkward, probably because she wasn’t very good at small talk.
+
+“So uh—”
+
+“Don’t forget, we’re here to train,” Meriel began, cutting me off. “I think this game can help.”
+
+With how serious she looked, I couldn’t help but laugh. “Hey, we’re just here to have fun. It has nothing to do with training.”
+
+I looked around. There were several other humans and elves, just like us. Meriel and her white robes didn’t stand out all too much, considering there were other mages here as well. And with how huge the giants in the line were, they definitely stuck out a lot more than us.
+
+“How much does it usually cost to come up to the sky islands the normal way?” I asked.
+
+“It depends on how far you have to teleport. From the Lyndale Kingdom to here would be about thirty silver one-way, and fifty silver round trip.”
+
+“Distance matters? How come?”
+
+She looked at me like I had asked something obvious.
+
+“The farther the destination, the more mana is required to use the portal safely. If they used a cheap mana crystal, the portal could end up like the teleportation spell we had cast back in Glacinus that randomly sent us here. Chances are, it would teleport someone to a completely random location instead of the portal it was actually connected to.”
+
+“I see.”
+
+…
+
+More silence. Thankfully, the loud festival and chattering around us made it a lot less awkward.
+
+“You seem to like magic a lot,” I said. “Every time we talk about it, you seem a lot more enthusiastic.”
+
+Her elven ears twitched as she turned to me. I was expecting her to brush the conversation aside, but surprisingly, she didn’t.
+
+“Yes. Because magic is infinite.”
+
+“What do you mean?”
+
+“There’s always something new to learn. No spell is ever truly complete and can always be improved upon—even basic ones like Fireball.” She smiled. “For someone as awkward as I am, it’s the best way to express myself.”
+
+Interesting. So she was aware of her own personality.
+
+“The other mages you saw back at the guild,” she continued, “are my first friends. They’re also the only friends I’ve ever had.”
+
+“How did you meet them?”
+
+“We attended the same magic academy. The same one that we all want to become professors at. But they’re doing a lot better than me. All of them have already trained their mentees, while I’ve been struggling to train even one.”
+
+If I remembered correctly, Meriel had tried training several mentees before Reina and me, but they all ran away from her. That wasn’t too surprising.
+
+“But, you’ve got me now,” I said. “And Reina, too.”
+
+She frowned at me.
+
+“Hey, what’s with that look?” I pouted.
+
+I was about to make fun of what she said last night about being proud of us, but she laughed before I did.
+
+“I’m just kidding,” she said. “The two of you are doing very well so far. Reina is keeping up surprisingly well, considering she’s a knight. And you…”
+
+She put a hand under her chin.
+
+“What? Are you about to make fun of me?” I asked.
+
+She shook her head. “No, it’s not that. It’s just… from the way you act and the things you don’t know about… It’s a bit strange. Almost like you’re not from this world.”
+
+…
+
+My heart skipped a beat.
+
+“…What’s that supposed to mean?”
+
+“You ask strange questions sometimes, almost as if you don’t know how this world works.”
+
+[TROPE INITIATED: THE OTHERWORLDER’S SECRET]
+
+[...]
+
+[...]
+
+[...]
+
+The System messages flickered for a bit. That was the first time it’s ever done that.
+
+Completion criteria: Do not let anybody find out you’re from another world until the day you die.
+
+[...]
+
+[...]
+
+[...]
+
+Punishment: You will no longer be recognized as the protagonist.
+
+My eyes widened.
+
+This punishment…
+
+At that moment, I turned, noticing Talon and Reina coming back to us. When I looked back at the System message, it had already disappeared.
+
+“Whoa, Reina! That was quick!” Talon exclaimed.
+
+She held a large plush cloud serpent in her arms, smiling ear to ear. “This is amazing!”
+
+“What game did you even play to earn that?” Meriel asked.
+
+“They had this giant hammer thing where you hit a platform as hard as you can,” Reina explained. “They told me I broke the measuring crystal.”
+
+“...that’s impressive.”
+
+They turned to me, noticing how quiet I was.
+
+“Allene?” Reina asked.
+
+Her voice broke my trance.
+
+“Huh? What?”
+
+Meriel looked at me. “Is something wrong?”
+
+My eyes darted between the three of them. I gulped and shook my head.
+
+“No,” I said. “It’s nothing.”

@@ -1,0 +1,149 @@
+---
+id: 7ceca471-f15f-508d-9f13-df923c069ec6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47"
+slug: 0048-chapter-47
+partOf: emie-ascended
+position: 48
+ownLength: 1883
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3788343/chapter-47"
+royalRoadId: "3788343"
+---
+
+I looked down at the sparkling dress, admiring how it clung to my body in just the right way. The clothing of Portal was nothing like the practical wear of Sorenguard, but that was somewhat to be expected, given that the massive city was surrounded on all sides by overlapping auras of protection from outlying cities.
+
+While the occasional demon might sneak through the perimeter and approach the city, Portal’s defenses were strong enough to prevent most from reaching the city itself.
+
+However, that didn’t mean the locals never fought off demon attacks.
+
+Part of the city’s defenses included having a standby force ready to deploy at any moment to support outlying cities around Portal’s perimeter. And with so many Porters present, transporting defenders between cities was a relatively minor issue.
+
+As result, people could walk freely within the city without worrying about impending demon attacks, which allowed a completely different style of clothing to rise to prominence.
+
+The only other places I’d seen people wearing similar clothing styles were in cities with little to no risk of being attacked by demons. Even the people of Bounty predominantly wore functional clothing that wouldn’t interfere in combat.
+
+“Well? How does it look?” Heaven asked from outside the fitting room.
+
+I opened the door and stepped out.
+
+I’d already put Aerie in the sanctuary since the volume of sparkles seemed to be too much for the young kit to handle. I wasn’t sure if it was the light reflecting and refracting off of the clothing or just too much stimulation in general, but Aerie had practically lost her mind when we entered the store. Putting her away seemed like a better option than letting her potentially damage the very expensive clothing.
+
+“It’s beautiful, but I don’t think I’d get to wear something like this very often. I’m not sure it’s worth the cost.”
+
+Heaven’s eyes lit up when she saw me, and she immediately said, “Oh, it’s definitely worth the cost. Even if you only wear it when you visit Portal, it would still be worth buying. And if you start managing portal transfers, you’ll certainly be able to afford it.”
+
+I didn’t argue that the dress was too fancy for normal wear since I’d seen several women wearing similar garments within the city. Even so, it felt far too formal for everyday wear. But that didn’t mean I couldn’t save it for a special occasion.
+
+“The fabric is one of the city’s premier products,” Heaven continued. “While you can probably find similar items in other cities, buying them here would be far cheaper since the fabric can only be purchased locally.”
+
+While I could technically afford the dress already, I just couldn’t bring myself to spend what amounted to a month of rent on a single dress. I’d been raised to be far too frugal for such expenditures.
+
+“Maybe after I reach steel rank,” I said, slipping back into the fitting room to change back into my original clothing.
+
+After spending more than an hour window-shopping while we waited for Stephen to finish setting his waypoints, Heaven had come to realize that I wasn’t one to carelessly spend money on unnecessary things.
+
+That wasn’t to say I hadn’t purchased anything. I had, but my purchases had been modest and mostly for the other members of the party.
+
+“Ah, Jace and your partner just returned,” Heaven informed me as I returned the dress to its hanger.
+
+“Good. I’m so ready to sleep.”
+
+“You’re going to meet with that Glasser later?”
+
+I nodded, though she couldn’t see me through the door. “Yes. I promised to take him to Sorenguard in exchange for a full set of glass dishes. He can embed some neat effects into his products, and I’m actually pretty excited to see how the set turned out.”
+
+I handed the dress to the attendant as I exited the fitting room.
+
+“Make sure you don’t wear your circlet when you pick him up since it’s a private agreement not done through the guild,” she reminded me.
+
+While such agreements weren’t outright forbidden since it was pretty much impossible to control such things, private arrangements for transportation in exchange for direct compensation were heavily frowned upon.
+
+“I won’t.”
+
+“Well, it was very nice meeting you, Emie,” Heaven said after a moment. “If I don’t see you before then, I’ll definitely catch up with you on Founder’s Day.”
+
+Founder’s Day, in this case, referred to a day of celebration marking the anniversary of the guild’s founding. It was a really big deal in Portal, though it wasn’t really celebrated anywhere else as far as I was aware.
+
+From what I’d gathered, the day included a big meeting, then a public celebration of some sort, followed by a ball for guild members and their plus ones. The next one wasn’t for several months.
+
+After saying goodbye to my temporary mentor, I teleported back to the guildhall and found a comfortable-looking chair to relax in with Aerie while Stephen and his mentor finished their paperwork.
+
+The sun was bright in the sky outside, but that didn’t diminish my fatigue in the slightest. If anything, it just made me want to close my eyes even more.
+
+About ten minutes after I settled in the chair with Aerie, Stephen exited the back office area alone and immediately headed in my direction.
+
+“Have you been waiting long?” he asked when he saw how quickly I got to my feet.
+
+“No. I’m just ready to crash. It’s been a very long week.”
+
+“Right. Let’s go to the house, then,” Stephen said, indicating he wanted me to transport us into the sanctuary.
+
+Since we couldn’t talk about it openly, Stephen and I had decided to call the sanctuary ‘the house’, not to be confused with ‘the apartment’.
+
+As soon as we appeared in the isolated space, Stephen pulled me into a hug and said, “I’m glad that’s over. It feels like I hardly saw you at all this past week.”
+
+I felt the same way, even though we’d gotten to spend most nights together.
+
+“We should spend the whole day together tomorrow,” I said. “Maybe we can take turns taking each other to the most interesting locations we discovered over the last week?”
+
+“That could be fun,” Stephen said before adding, “Staying home and completely vegging out could also be fun.”
+
+I laughed lightly without pulling away. The warmth of his chest was comforting.
+
+“Alright. We can stay in tomorrow. Want me to drop you off at the apartment before I pick up Glen, or would you rather sleep in?”
+
+“Let’s call it by ear in the morning,” he replied, pulling me toward the bedroom.
+
+We both slept in, but because I’d manipulated the time dilation, it wasn’t too disruptive. We still weren’t fully adjusted back to our normal time zone, but with a bit of time within my demesne, I’d get us there.
+
+We spent the partial day relaxing and taking things easy before heading to bed early that night. The next morning, I got up early and teleported to Bloom. I left Aerie behind even though I wasn’t officially performing duties as a Porter.
+
+“Good, you’re here,” I said when I noticed the orange-haired Glasser waiting right next to the platform. However, it only took a second to realize that Glen was not the only familiar face present.
+
+Looking a bit awkward, Glen said, “I hope you don’t mind too much. I have a few acquaintances who wanted to come express their thanks to you in person.”
+
+Slightly behind and to the side of the Glasser stood a small family of five. Surprisingly, I recognized two of the people gathered – the mother and the daughter, both with pale pink hair. Though I didn’t know either of their names, their faces were unforgettable.
+
+Stepping forward, the mother dropped to her knees and said, “Thank you for saving my daughter and me. Our family doesn’t have much, but if there is ever anything we can do to repay you, please let us know.”
+
+Kneeling beside his wife, the husband said, “Without your intervention, Zinnia would have died at the wall.” His voice was shaking with emotion. “Not only did you take her to the hospital, but we’re told you did most of the healing yourself.
+
+“We only later learned that you had also saved our daughter, Aspen, and her friend when they were caught outside of the shelters when the first wave started.”
+
+By this point, all three of the children had also gone to their knees and were bowing deeply. The girl was flanked on either side by identical twin boys with fiery red hair.
+
+“Thank you for saving me,” a small voice said, followed by a pair of identical voices saying, “Thank you for saving our sister and mother.”
+
+I wasn’t used to this kind of interaction, so it took a few moments before I came to my senses and said, “Please don’t kneel. I’m glad to have been able to help. It was just luck that I happened to be in the city when the attack occurred.”
+
+Recognizing my discomfort and the growing crowd, the family of five slowly climbed to their feet.
+
+“I’m very happy to see you’re doing better,” I added, focusing on the mother. “Were you able to get fully healed?”
+
+Given the number of people injured during the attack, I wouldn’t be surprised if the healers hadn’t been able to completely heal everyone. Thankfully, the woman smiled and nodded.
+
+With tears still in her eyes, she said, “Yes. I’m fine now. Thank you for asking.”
+
+“We know that you are probably very busy,” the husband said, reaching for his wife’s hand, “so we won’t take up any more of your time. We just wanted to express our thanks in person. Truly, if there is ever anything we can do for you, please, don’t hesitate to ask.”
+
+I found it touching that the family had come to express their thanks, though I wished they hadn’t drawn so much attention.
+
+Knowing that it would be rude to outright dismiss their gratitude, I said, “I will keep that in mind. Perhaps we’ll see each other again when I visit Bloom in the future.”
+
+After meeting each one of their eyes, I turned to the Glasser and said, “Are you ready?”
+
+Glen nodded, tugging on the straps of a large backpack. It reminded me of my dad’s old army rucksack from way back in the day.
+
+Once it was settled, he leaned to the side and picked up a large decorative box and held it out. “Here. The glassware I promised you.”
+
+“Thank you,” I said, accepting the package.
+
+I opted to store the item without opening it, figuring I could look through everything after I got Glen settled in Sorenguard. Besides, it felt a little uncomfortable to look through everything with the family still standing nearby, watching.
+
+Glen’s eyes widened slightly when the box disappeared, but he didn’t say anything. While true storage devices were rare in this realm, they weren’t unheard of, especially in the areas near the city of Portal.
+
+Nor were Porters with storage skills.
+
+“Shall we?” I asked. When Glen nodded and stepped closer, I nodded toward the family and said, “Until we meet again.”

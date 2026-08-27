@@ -1,0 +1,291 @@
+---
+id: e0e0da64-cfe1-59e8-9bb8-b320278808dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 546: Fruit of the World Tree"
+slug: 0586-chapter-546-fruit-of-the-world-tree
+partOf: dungeon-of-knowledge-complete
+position: 586
+ownLength: 4672
+unit: words
+ownProgress: 4672
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3083968/chapter-546-fruit-of-the-world-tree"
+royalRoadId: "3083968"
+markedReadAt: "2026-06-29T20:32:19.071Z"
+---
+
+Darkness cradled him as his soul slept. It swirled around and through him, sustaining, regenerating, repairing, and yet his slumber was not restful. Not as it should be.
+
+There had been a shuddering echo, a ripple through the darkness that had disturbed his rest. Sluggishly, he cast about, but there was nothing to see other than the rippling ball of soul entwined in death.
+
+Wasn’t… there… something…
+
+He might have sighed if he had drawn breath, but it had been so long, he hardly remembered what it was like. Time passed slowly in darkness’s embrace, and his worries eased as he sank once again under the surface toward blissful oblivion.
+
+His peaceful slumber was rudely shattered by the sound of a gong reverberating through the foundations of the realm.
+
+[Realm] Lirasia [Great Mother of the Deep Woods] has achieved divine ascension.
+
+His mind snapped to wakefulness with the kindling of a dark, implacable fury, and in the coldness of his towering rage, he reached out to his general.
+
+“Haverron…”
+
+“Yes, Master?”
+
+“Our plans… have changed… Gather the armies…”
+
+“It will be as you command, Master.”
+
+With her extraordinary wisdom and prior exposure, Ali was merely staggered, her perceptions reeling as the world warped, but many of the lower-level guild members were knocked unconscious outright or reduced to gibbering wrecks as the presence of high-level eldritch magic tore at their minds.
+
+“Tsk,” Lira said, and with the sound, her presence was unleashed upon the grove. Mana burst forth from her in a wave so dense that even Ali could barely breathe. All along the shock front of the blast, tens of thousands of nature wisps sparked into existence, bathing the entire forest in a sudden ethereal green shimmering constellation that shifted and flowed in the wake of the blast. Ali’s mind steadied as if she had suddenly put down giant roots into the bedrock.
+
+As the whole group of adventurers steadied, arrows shot upward, bolts of every imaginable kind of magic lanced into the skies. Malika flickered, weaving a devastating dance through the air, leaving eldritch eyes raining down in her wake. Ali’s minions went on the offensive while the normally placid nature wisps tore into the eyes with uncanny fury. Then the explosions detonated, a brief assault on Ali’s ears, before silence reigned once more – a silence, broken only by the splattering rain of black orbs hitting the ground.
+
+Lira’s presence eased up, and all the unconscious guild members began to stir, slowly clambering back to their feet and blinking in surprise, but seeming none the worse for wear despite the surprise encounter with the eldritch magic.
+
+Malika landed lightly, handing several arrows she had outrun to the Pathfinders who had fired them as she checked on the injured.
+
+“I’m so sorry,” Ali cried. “I can’t prevent them from following me.” With the realm notification, Nevyn Eld’s eldritch guardian must have sent them to spy on her yet again, and now it knew where Lira was planted. And if that monstrosity knew, the instant the Blind Lich revived, he would know too. Lira was a tree and rooted to this spot, and she had never possessed the combat skills needed to defend herself. Her way had ever been that of seclusion, and the embrace of a dense, magical forest and her domain. They had just barely revived her, and without the time to establish herself, she was now set squarely in the sights of the Blind Lich and his underlings.
+
+“That’s one nasty curse, Aliandra,” Lira said, nature mana flickering with subtle intricacy in her eyes as she studied the remains splattered about the ground. “You should probably take care of that soon.”
+
+“I… I don’t know how to,” Ali answered. Her voice didn’t quite come out as a wail, but holding it steady had not been easy. She set her shoulders and raised her chin. “I’m not strong enough to face Kryostria and the three kings he keeps in his dungeon.”
+
+“Aah, but perhaps that is something we can fix?” Lira answered enigmatically. She turned and walked back to her tree, placing one palm on the sheer wall of its trunk, and then released an exquisitely complex surge of mana. From one of the lower branches, cream-colored buds appeared, their lifecycle radically accelerated as they bloomed and immediately faded, swelling into shiny green fruit that rapidly ripened into a rich mottled red and orange.
+
+“For the four of you,” Lira said, meeting their gazes. “Azryet was extraordinarily generous with his authority and experience when he created your quest, and he has generously offered me the opportunity to add something of my own to your rewards.”
+
+Lira reached up, and the four fruits detached from the branch, floating down toward her hands.
+
+“Calen. Young Pathfinder,” she said, smiling softly. “Your passion for exploration and discovery does great credit to your mentors. May you always find your path and continue to light the way for your friends. Thank you with all of my heart.” Lira inclined her head and offered him the first of the fruit.
+
+“Thank you,” Calen said, accepting the gift and glancing at it quizzically.
+
+Lira turned, and Malika’s eyes widened as the dryad addressed her. “Malika. You tread the Nine Paths with integrity and conviction, honoring your ancestors. Your steadfast will is a bulwark against the forces that threaten to overwhelm the hearts, minds, and souls of your friends. I have watched your passion for the arts grow while training under Rezan Jin, and I believe you know your own heart. You would make him very proud if you continued to pass on his knowledge. Thank you from the depths of my being.”
+
+Lira offered the second fruit to her, and she accepted it with a look of profound astonishment on her face.
+
+“Mato. Young druid,” Lira said, turning to the big Beastkin. “Your faith has saved my life. I owe you an eternal debt of gratitude for your gift of service. I know how much pain bearing my corrupted mentorship has brought you. While I struggled, you endured. When the curse of the Lich became too much, I was saved by your persistence in cleansing the corruption night after night.”
+
+Lira smiled at him and offered the third fruit.
+
+“That’s a lot of words,” Mato mumbled, accepting his gift. “I’m just glad you’re ok.”
+
+“And you, Aliandra,” Lira said, turning finally to her. “Ali. You have grown so much since I last saw you. I am deeply sorry for the anguish of asking you to kill me after all you had to endure, and for the destruction of your domain. I hope one day you will forgive me,” Lira said, handing her the last fruit. “I love you so much.”
+
+Gingerly, Ali accepted the fruit, words failing as she choked up, but Lira’s kind eyes were smiling at her.
+
+“Go ahead, you should eat them,” Lira suggested, making an encouraging gesture with her hands.
+
+Ali glanced down. A large peach-like fruit sat cradled in the palms of her hands, a soft velvety texture against her skin, and she might have mistaken it for a mundane peach save for the intensity of mana blazing out from within it. Gingerly, she took a tiny bite, exquisitely conscious of the intense scrutiny she was under, the gaze of every eye, but the moment the juice hit her tongue, she forgot everything. For just a moment, nothing mattered beside the exquisite flood of sweetness and the overpowering surge of mana rushing through her body.
+
+She blinked an instant later, only to discover she had devoured the entire fruit, leaving only a small hard pit in her hand. Huh?
+
+Ali’s chime sounded softly in the back of her mind.
+
+You have completed Azryet’s Quest.
+
+You have earned the Title: God Maker.As a direct result of your actions, a being has achieved their divine ascension.The Identify of a divine or celestial being will always reveal this title. If you die, the mythic spell: Cycle of Rebirth is automatically cast, healing you fully and removing most ailments, including poison, disease, and corruption. Trigger (Death). Recharge: 65 days.TitleDungeon of Knowledge has reached level 250 (+13).+130 attribute points.Requirements met for class evolution. Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+What the – how? Ali wobbled at the rush that coursed through her body and mind. “But I’m not ready – I… wow!” she blurted out.
+
+Lira caught her shoulder with a steadying hand and a chuckle. “It is Azryet who is responsible for granting your quest experience. I am too new to have earned any reputation, so the title is the best I could offer,” she said. “It is my sincerest hope that it will keep you safe, but I pray you will never need it.”
+
+“Thank you,” Ali said, finding no more words even remotely able to describe how she felt. Mato was already displaying the new title with astonishment and awe written clearly on his face, and Calen and Malika had that distant-eyed look that said they were studying their statuses and changes.
+
+“It is you who deserves thanks,” Lira said with a smile. “Please let dear Ryn know I have a little something for her, too. Her contribution has not gone unnoticed.” Then she turned to address the rest of the spectators. “For the guild, and the people of Myrin’s Keep, I offer this. Simply visit me any time you need it.”
+
+The chime sounded again as a ripple of blessings spread through the crowd.
+
+You have gained the Blessing of the World Tree.+20% health gained from Nature Healing spells.Blessing – Duration: 8 hours.
+
+Amid the sudden commotion and hubbub, Ali’s mind slowly returned to the present and the very real problems of Lira’s dramatically public ascension. Nevyn Eld knows. This was an irrefutable fact. He might still be stuffed in his Phylactery for a little while longer, but there was no way he’d miss such momentous events.
+
+“Lira,” Ali said. “Nevyn Eld has been flooding Myrin’s Keep with Death Knights via your forest. I don’t know how much time we have before he realizes your ascension.”
+
+“Oh, he already knows,” Lira said.
+
+“Even in his Phylactery?”
+
+“Even in my Acorn, I felt every realm notification when you cleansed the Well of Souls. The fabric resonated the moment you restored the Well of Divinity. He knows.”
+
+“Aunt Lira… I don’t want to lose you again,” Ali said.
+
+“Aah, yes. While I have no combat spells, I do have a few tricks up my sleeve,” Lira answered. Beyond her massive tree, lurking in the shadows of the suddenly rejuvenated forest, Ali caught sight of giant shadowy shapes moving. “You should find that the Death Knights will not be able to approach from my forest. But still, I wonder if I could prevail upon you once again to make me some of your father’s Forest Guardians, and maybe a few of the Sylvans I see guarding your group?”
+
+“Of course!” Ali said, excited that she could help. Her Grimoire was out in a flash. “The Forest Guardians reached the second tier already,” she said. “Can I put a boss here to guard your tree?”
+
+“That would be lovely, dear.”
+
+While Ali began summoning guardians, a figure approached hesitantly.
+
+“Um… excuse me?”
+
+Ali glanced up from her work to find Teagan standing awkwardly nearby, still barefoot, just like the first time she had seen her down in her sewers. There was a clear moat of space separating the adventurer group from Lira and her tree, but the shaman had ventured across the divide, approaching with tentative steps.
+
+“What is it, young Shaman?” Lira asked, a wreath of glowing wisps circling her brow like a crown.
+
+“Um, Lirasia. Your godship… holiness… div… err,” Teagan trailed off into awkward shuffling.
+
+“Just Lirasia is fine, dear. I’m quite new to all this, as you can see,” Lira said.
+
+“Lirasia,” she said, looking like she had to stop herself from adding more. “I was wondering… about the divinity. Are… would you… maybe be accepting followers?”
+
+“Oh! I believe I am,” Lira answered. “Do you feel we would be a good match for each other?”
+
+“Your mana, it resonates with me here,” Teagan answered, suddenly full of confidence and touching her breastbone right above her heart.
+
+“Very well,” Lira said, an enigmatic smile touching her lips.
+
+Teagan’s eyes suddenly widened, and she exclaimed, “Thank you! I will work hard to be worthy. If there is anything you need, I will do it.”
+
+“If you could, would you mind getting some tea? Ryn should know what’s needed. Then join me, I would like to learn more about you.”
+
+Teagan stood momentarily speechless, clearly stunned by the invitation to tea with her patron deity.
+
+“Is there a level limit for being a follower?” a fresh voice interjected. It was a bronze-ranked guild druid who had drawn in closer, perhaps emboldened by Teagan’s request.
+
+“No, I will accept all who treasure nature and respect the balance of the forests,” Lira answered. “What is your name, young druid?”
+
+Not even level twenty yet. Ali hid a smile at her sudden nervousness the instant Lira turned to address her.
+
+“Kerrin,” she said, bowing so low before Lira she almost toppled over, catching herself with a quick hand and a gasp of embarrassment. Then she stiffened up and snapped upright with a startled look upon her face that rapidly dissolved into awe as she just as clearly accepted Lira’s patronage. As if that were the signal, from the ranks of adventurers, many wood elves, various druids, and shamans all began to approach.
+
+A Gate, then, Ali decided. Lira was definitely going to want regular visitors, tea, and conversation. It would make visiting her far easier and, just as importantly, Ali would be able to guard her grove and tree far more effectively.
+
+As Ali began to summon her Gate and more guardians, someone approached.
+
+“Congratulations, Aliandra,” Vivian said. “Are you going to visit the shrine today?”
+
+“Shrine?” Ali echoed faintly. They had just done a guild run to the shrine the day before she had left to find the Well of Divinity. “You have more people who need classes already?”
+
+“She means you, silly,” Mato said, nudging her in the shoulder.
+
+“Me?”
+
+“You hit two fifty. Did you miss it?”
+
+“Oh… oh!” In the emotional rollercoaster ride, she had indeed missed the significance of that detail, if not the notifications themselves. Thirteen levels for completing the quest had brought her to the tier breakpoint, and she had not even noticed.
+
+My Second Evolution. This changes everything. Can I earn something… strong enough for what is to come?
+
+“Elton, where did we put that spool of arcanite thread?” Lydia asked. For some reason, it was not on the shelves where she expected it, and she hadn’t stuffed it into her storage enchantment by accident this time. That was never great, especially with Elton being advanced enough to need it now. She studied the shelves in the workroom, shelves stacked with thousands of gold worth of bolts of cloth, thread, buttons, laces, ribbons, and clasps. Many were so powerful, they had to be stored in specially warded containers lest they destroy the things around them.
+
+“It’s beside the bolts of Frostweave that Hilda dropped off in the workroom, Ms. Avery,” Elton answered, in his usual blend of polite, formal manners.
+
+She would probably have talked him out of it long ago, but she couldn’t deny it had made him a hit with many of their noble clientele. Especially with so many coming from out of town to sample their showroom in person. There had been a time when she had felt claustrophobia, constrained to Myrin’s Keep by rules, obscurity, and criminal syndicates, but that was something of the distant past now. Her ballgowns made waves at many of the most important events across the continent.
+
+She turned toward the workroom when suddenly the entire building reverberated like a gong.
+
+[Realm] Lirasia [Great Mother of the Deep Woods] has achieved divine ascension.
+
+Lydia gasped.
+
+“Would that be Miss Aliandra’s doings again, do you think?” Elton asked, hardly batting an eyelid at the momentous notification.
+
+“Probably,” Lydia sighed, realizing her mouth had been dangling open and shutting it with a quiet click. She could hardly fault his blasé attitude; there had been many realm notifications lately, and Calen, and therefore Aliandra, had been involved in all of them. I wonder how people get any sleep? At least Elton’s nonchalant attitude had immediately calmed down several skittish customers who sheepishly returned to browsing the displays as if they’d been caught doing something slightly improper.
+
+“Lirasia?” Elton asked. “She’s the Dryad, right?”
+
+“Yes. Aliandra’s Aunt. She had always been kind and generous to me,” Lydia said. She prided herself as a halfway decent judge of character, and Lirasia had resonated well with her. Very level-headed and well-grounded. She had been saddened to hear of her death in that business with the rot dungeon, but Calen had explained the quest to restore her.
+
+This is probably something to do with that. She finally stepped toward the momentarily forgotten workroom, and just as before, she was interrupted. This time, by a series of chimes and a dizzyingly potent surge of mana that nearly dropped her to her knees.
+
+Grand Tailor of Refulgent Elegance has reached level 238 (+11).+110 attribute points.
+
+She caught herself on the counter before she fell, but Elton noticed her misstep. “Are you ok, Ms. Avery?” he asked, rushing around the counter to check on her.
+
+“Yes, I’m fine,” she said, collecting herself. “At least now we know it was definitely Aliandra’s doing. Why don’t you fetch me that Frostweave and the Arcanite thread – that’s been far too many levels for her in the last few days. She is going to need some upgrades. Also, bring my sketchbook, as this will probably take some time. Oh, and please send for Hilda, I’m going to need more of that higher-level fabric she was working on, and I need to know how much she has ready to go.”
+
+“At once, Ms. Avery.”
+
+His manners were as impeccable as ever, but her eyes dipped to catch just the tiniest skip in his step as Elton turned away. Aha! she chuckled privately. Got you.
+
+Seth stepped over the strangely painted Troll corpse and reached for the prism of black stone that slowly rotated as it floated in the now-empty temple, right above the ancient altar.
+
+Bind yourself as owner of the Meere Kada shrine? This action is irrevocable.
+
+He shivered at the implications, but Ali had prepared him well. He dismissed the notification and immediately stored the shrine in his ring’s storage enchantment. In all, only about three seconds had passed since the final boss had been defeated, and he had stored the shrine.
+
+To the best of their knowledge, the Blind Lich was still stuck in his Phylactery, courtesy of Azryet himself, but it was not something anyone wanted to take a chance on.
+
+He let out a held breath and then pronounced his best verdict, “It’s safe.”
+
+“Ok, good. Everyone, listen up. Distribute your points and make any last-minute preparations you need, and then let’s meet outside. Weldin will make a Town Portal to get home,” Lyeneru said. “I need to check in with the other team.”
+
+All in all, this had proved to be an extraordinarily profitable excursion – particularly for him. In addition to all the class levels for fully clearing a raid dungeon, they had permanently removed one of the Blind Lich’s inexhaustible sources of undead monsters. Just as Ali had predicted, this dungeon had been turned into a Death Knight factory, and with forewarning, they’d been able to avoid the clutches of a most insidious trap.
+
+He personally had gained enormously. The giant patchwork abominations they’d discovered in the lower levels had already proved their worth as tanks or shock troops – a gruesome undead created from a mutant form of two-headed Giant Troll. In addition, he had added a new kind of banshee, two ghouls, and he had several specter candidates in storage, which he intended to donate to Ali so she could manufacture them for him. I guess she’s going to benefit a lot, too. At least, his Eye of the Lich storage enchantment was filled to the brim with new Troll variants.
+
+He stepped outside, one of the first to leave the temple, joining Lyeneru, who was studying the courtyards and fields below, many still filled with ranks of undead.
+
+“Should we kill them?” he asked quietly.
+
+“I don’t know if we would prevail,” she answered after considering their foe for a moment. “There are so many. Even with our strength, I think we might need battlements and support mages just to make a dent in all of that. See those bigger Wights at the back? Those are well into the second tier.”
+
+“I can make five Death Knights now,” Seth answered, studying the forces arrayed below. His skill advancements had been good to him. “And several hundred undead all over level one hundred.”
+
+Lyeneru turned, giving him an unreadable look for several long moments before she finally sighed. “Necromancers. No, Seth, even with that, I still believe we would perish. There are thousands down there. I think we should be satisfied that there will be no more coming after those, and allow Southport’s armies to whittle them down.”
+
+“Fair enough,” Seth answered, unable to iron a touch of disappointment out of his voice.
+
+Hopefully, Southport and the surrounding besieged cities would be able to weather this final surge. A better approach might be to lure these away from the beleaguered human settlements and break them against the wall of Ali’s bosses somewhere they could do no more harm, but before he could utter a word, a deafeningly loud gong reverberated through the entire temple, making the trees below shiver.
+
+[Realm] Lirasia [Great Mother of the Deep Woods] has achieved divine ascension.
+
+“Lirasia?” Seth exclaimed, his heart leaping within his chest.
+
+“The Great Mother…” Lyeneru breathed at the same time.
+
+“Ali succeeded!” he cheered. He had heard the notification for the Well of Divinity, as had the entire realm, and he assumed she would have returned to get the potion made. The notification seemed far more than he had expected, but it was clear the potion had worked.
+
+An ominous moaning rose from the dormant undead army, and, as one, every monster in the courtyards and fields below turned their heads – if they had them – toward the north. An awful noise – the combination of roars, howls, groaning shrieking rose from the horde, and every last abomination that had spawned within the pit of Meere Kada’s desecration set off at full speed heading north.
+
+“Um,” Seth said. “That can’t be good.”
+
+When he glanced at Lyeneru, however, it was to see her wiping the corners of her eyes. She said, “Yes. We have work to do.”
+
+He frowned at her strange expression for a moment before understanding finally dawned. That’s hope. She had denied it for so long, it was almost as if something had snapped within her.
+
+[Realm] Lirasia [Great Mother of the Deep Woods] has achieved divine ascension.
+
+Ryn yelped and jerked so hard, the pile of books laid on the desk before her toppled before she could catch it, spilling hours of work everywhere and sending her kobold helpers yipping and scrambling in surprise. That was – surely, a realm notification. She checked it a second time, then a third, shivering in disbelief. Lirasia! Oh, Lirasia! They did it!
+
+It had been such a difficult quest, and she had only been involved in the research part of it. Her part had been hard enough; she quailed at the thought of what Ali had had to do to even reach the Wells, let alone fight the monsters along the way.
+
+She pushed her chair back and got to her feet slowly, knees and back crackling from several hours of sitting in one position. Despite the pain, she found herself grinning like a maniac. Those friends of mine! Wow! Shaking some feeling back into her legs and ignoring the desecration of her precious books heaped on the floor, she slowly shambled across the carpet, approaching the small tea stand that had been sitting there for months, waiting for just this moment.
+
+Now, what kind of tea will Lira want for her resurrection party? she wondered.
+
+Byron sat staring morosely at his map, like he did most evenings these days. The fall of Thorel Moldur had cost them far more than he was willing to admit. At least, in public. Despite doing everything in his power, he had still lost both passes, but it had been the loss of Khuldar’s Span that had finally brought the full weight of the third undead army down on Southport.
+
+It was just a matter of time, now. There was no way the battered battlements would be able to hold, not against that many. The mages were spent, and the shields had failed twice already today. And that was the brutal truth of fighting a Lich. Undead troops were always fresh, day or night – or even missing limbs – and they never stopped coming. Not just swarms of them. Torrents. Floods of deadly monsters. The Blind Lich thought nothing of spending thousands of dead to reap a single life.
+
+How could flesh hope to stand against that?
+
+Helios, please deliver us. He rarely prayed. Especially these last few weeks, but the forces arrayed on the map spelled their doom as clearly as if someone had sent him a letter by courier. He was out of time and options. He’d spent his forces well, but they were never sufficient, not for this. But as always, Helios retained his mystery. It wasn’t as if he had an actual prayer skill anyway – he would need to consult with a priest, and that would mean admitting there was no hope, completely destroying the morale of the entire beleaguered city.
+
+Not that it will matter in a few hours. By morning, this will all be over.
+
+Suddenly, an immense sound rang out, like a city full of bells had all been struck at precisely the same instant.
+
+[Realm] Lirasia [Great Mother of the Deep Woods] has achieved divine ascension.
+
+He bit his tongue in shock and then cursed at the pain.
+
+Not exactly what I expected, he thought, wryly, but in the aftermath of the notification, silence fell. A silence he had not experienced since the beginning of the siege. The artillery magic rocking the foundations of the battlements ceased. The strange, sizzling cracking of the city shields repelling arrows and boulders was silenced.
+
+Out of the silence, a strange swelling sound rose. A vulnerable but growing cry. Cheering!
+
+Beyond curious, Byron sprang up out of his chair and rushed up the narrow stairwell, two or three steps at a time, hastily strapping his sword on at his waist. But when he emerged atop the battlements, his heart leapt with hope and joy.
+
+The entire plains surrounding the city walls – so densely packed with undead for the last month that it couldn’t be seen from the battlements – was now, shockingly empty. All he could see was the rearguard of the Blind Lich’s armies vanishing over the northern hills, heading off to who knew where.
+
+Thank you, Lirasia, whoever you are, he prayed, beyond grateful that he might sleep tonight with some confidence he might see the sun again tomorrow.
+
+A strange peace settled in around him, high up there on the battlements. The chill breeze faltered and stilled. And then, out of nothing, a tiny glowing green wisp spontaneously manifested, flitting around his head a few times as if struck by a playful thought, before darting away.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

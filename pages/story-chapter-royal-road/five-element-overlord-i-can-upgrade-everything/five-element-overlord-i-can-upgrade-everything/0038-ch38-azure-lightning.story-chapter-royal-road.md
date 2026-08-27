@@ -1,0 +1,115 @@
+---
+id: 2eecc0da-cb54-58ed-bd5b-b908dffaf278
+page-type-slug: story-chapter-royal-road
+title: "Ch38 Azure Lightning"
+slug: 0038-ch38-azure-lightning
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 38
+ownLength: 1330
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3306952/ch38-azure-lightning"
+royalRoadId: "3306952"
+---
+
+The fastest 6th-level qi refiner makes a blitz straight toward me.
+
+Our demonic auras resonate, singling me out despite the purple glowing woman with me.
+
+His sword is nothing but a red and black blur, aimed toward my chest. My instincts battle; half of me wanting to activate my defensive talisman, while the other half looks toward the dark open cave entrance.
+
+A metal-on-metal crunch echoes through the air as this longsword collides with Xu Hong’s axe.
+
+The axe, saturated in purple aura, sinks halfway through the black demonic blade’s base, ruining its perfect sleek figure. Surprisingly, it was not sliced in two… this cultivator is using a high-quality weapon, just one minor rank below the perfect grade.
+
+My eyes widen, as I can still see all of the tunnels beneath this cave, and the imagery of an elderly man standing above a blood-red spinning array of energy.
+
+I run past the collision of axe and sword without thinking and disappear into the open mouth of the cave.
+
+More metal-on-metal sounds ring through the air behind, but all my senses strain to remember the fading imagery of the ground below. Only my footsteps, heavy breathing, and heartbeat accompany me as I sprint through these passageways.
+
+Some slope down at steep angles, while others open up to create small rooms. Wooden crates, clothing, and the belongings of all of the scouts outside can be found here.
+
+I don’t stop to check for valuables at all.
+
+There is a growing aura of bloodlust beneath me, and every hole in the dirt I jump through or slope in the cave I slide down, it becomes stronger.
+
+After almost half a minute, the entire pathway becomes filled with a crimson glow. The killing intent makes me sweat and gives me a headache just being in its presence.
+
+I bear it as long as I can, finally dropping down to the lowest level of the cave I remember scanning, then activating my sole defensive talisman as I run through the final stretch. The red aura in the air becomes multiple times thicker, sending faint cracks through the black wood, but its source comes into view when I turn a final cave corner.
+
+A wide open natural black cave with stalactites and stalagmites comes into view. Yet at its center, a 10-meter wide flat space has been artificially cleared out, and symbols etched into the ground.
+
+Dark red liquid fills the carvings, and an extremely old man sits at its center. His hair and beard are equally long, almost down to his waist, and his eyes are so sunken in, I wouldn’t even be able to see them if they didn’t glow red.
+
+When he sees me, he smiles, yet there are no teeth in his mouth.
+
+“You! A little boy? At the 3rd level of qi refining, this is who the Azure Cloud Sect has sent to deal with us?” He begins to laugh hysterically and swallows a handful of red pills, too many to count.
+
+The deep crimson glow around his body becomes darker, and his hair starts to flow in the air like there is wind. His skin bulges, as it looks like something is growing beneath it.
+
+“I’ll at least take you down before I leave! The fact that they couldn’t even send a Foundation Establishment to deal with me is all the information I need. The Blood Sword Sect will soon rule over the Verdant Prefecture.”
+
+Despite the grotesque scene before me, I don’t stop running forward. He may be a late-stage qi refiner, but I have a perfected-grade defensive talisman protecting me.
+
+Not only that, but I pull out an ember paper and hold it up high. Once less than 3 meters away, when I am in range, I throw it forward and channel a small pulse of qi into the talisman.
+
+Since last time, I’ve learned my lesson. I jump backwards the moment it’s activated, and watch the wave of crimson fire explode directly onto the old man.
+
+A flash of brightness illuminates the dark cave, and a horrific scream of agony fills the air.
+
+However, the fact that I can hear him at all makes my heart skip a beat. I pull out a bright glowing Azure talisman on the spot.
+
+A manic cackling echoes through the cave, as an elderly man covered in burns head to toe jumps out of the perfected 1st-tier flames.
+
+His whole body is saturated with a bloody aura, and his muscles are growing at a rapid rate. They tear through his skin and bulge through the burn marks. The deep red and black demonic muscle fibers give off a potent iron smell.
+
+Two small horns grow out of his forehead, and sharp teeth start to push through his gums.
+
+A crimson longsword made of pure blood energy materializes in his hands, and he swings it across his body.
+
+Everything is happening too fast for me to react in time.
+
+I’m hit across the chest by his blade and feel my defensive artifact shatter into pieces.
+
+The overwhelming pressure of rabid killing intent floods into my mind and body once the talisman is no longer protecting me.
+
+I start to pass out as I’m sent flying backward through the air.
+
+As sharp pain invades all my senses, I send a wisp of qi into the talisman in my grasp.
+
+It crackles with a flicker of electricity around my hand, then, my vision begins to fade to black from the pressure.
+
+The last images I see are of an enormous Azure Lightning Bolt escaping the smooth jade artifact.
+
+The manic blood demon’s red eyes pop out in fear, and he is struck in the chest.
+
+The aura saturating his body boils, and the smell of burnt flesh and blood explodes outward. The massive form of this half-human, half-beast turns bright azure for a moment, covered in crackling static, then burns to nothing but black ash the next.
+
+My back slams into the cave wall, and I black out.
+
+–
+
+On the surface, two headless 5th-level qi refiners lay dead on the ground.
+
+Enormous craters litter the ground, and dozens of trees have been blown to pieces.
+
+A black and red aura pulses from the 6th-level demonic cultivator, who swings half of a sword with axe marks all over it relentlessly. Small budding horns peek out of his forehead, and his muscles are larger than they were before.
+
+“How is this possible?! A first-level qi refiner cannot be this strong! Your physique does not make any sense! I’ve even seen the boss’s perfected physique activate before… but it does not elevate his strength by this much…”
+
+Fear creeps into his eyes.
+
+Large gash wounds cover the demonic cultivator's body, but there are also brand new bright red gashes in Xu Hong’s figure as well. The two are almost evenly matched.
+
+The Blood Sword Sect’s weapon may be destroyed, but he continues swallowing crimson pills to rejuvenate his power.
+
+His eyes become crazier, and so do his movements. He no longer cares about getting hit, the swordsman’s only desire transforms into killing the opponent in front of him by any means necessary.
+
+By the time he devours over 12 pills, his eyes become blank like a ravenous beast, and he loses every bit of sanity remaining. The red aura around him becomes brighter, and his muscles start to tear through his skin.
+
+Xu Hong’s eyes remain sharp, even as she runs out of energy, consuming the entire 150 spirit stones left behind. In their next brutal exchange, both axe and sword collide. Xu Hong breaks through the sword’s final strong point, shattering its hilt and slicing through the cultivator’s arm.
+
+Shards of his sword land in her shoulder, but the full perfect grade blade of her axe lands right between his eyes, cracking his skull between two small horns.
+
+The battle of the Blood Sword Sect stronghold is over, and silence fills the Ravine once again.

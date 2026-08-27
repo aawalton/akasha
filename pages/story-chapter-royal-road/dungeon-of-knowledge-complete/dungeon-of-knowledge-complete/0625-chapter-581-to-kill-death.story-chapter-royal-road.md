@@ -1,0 +1,255 @@
+---
+id: e6b9b61e-2e50-5809-88e2-47791847c753
+page-type-slug: story-chapter-royal-road
+title: "Chapter 581: To Kill Death"
+slug: 0625-chapter-581-to-kill-death
+partOf: dungeon-of-knowledge-complete
+position: 625
+ownLength: 3532
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183617/chapter-581-to-kill-death"
+royalRoadId: "3183617"
+---
+
+Malika groaned, spitting the moss and dirt from her mouth. Slowly, she raised her head. She found her throat was dry and raw from screaming, and somehow it wouldn’t heal or resolve even with her healing magic still trickling through her body.
+
+Ugh, I feel like I crawled out of my own crypt and fell on my head. Her arms trembled as she pushed herself up with the last remnants of her strength. More than ninety-five percent of her stamina was reserved for Perfect Body, boosting her attributes many times higher than her usual, and yet it was barely enough to keep her alive.
+
+The drain from the Blind Lich’s empowered Decrepify spell had left her horrifically enfeebled, and she finally understood how Lyeneru had felt facing him during the Tol’brekk fight.
+
+She was alive, entirely due to the hours she had been fighting and the ludicrous reduction in stamina cost provided by Abiding Perseverance, but that would fade after battle. And then she would die.
+
+And that was only if Ali had killed him.
+
+Malika fed stamina into Mantra of the Ancestors, willing the powerful healing spell of the Nine Paths to begin to loosen the Lich’s grip on her vitality attribute. It was slow. Painfully slow.
+
+She opened her eyes as the sound of a gale of mana tearing through the cavern reached a crescendo. Trees nearby splintered into kindling from the force, but not even that could be heard above the deafening roar.
+
+Right before her, Ali hovered in a cloud of floating golden lights, channeling all that force through an arm that pulsed with an ominously dark red and black energy. A power that leaked demonic corruption into her Soul Sight.
+
+But Nevyn Eld was screaming, almost unheard over the howling magic. For the first time in this accursed battle, they had reached him. Ali had somehow delivered a blow that bypassed his guard. He was hurting. And that motivated her like nothing else.
+
+Malika rolled over and levered herself up onto all fours, struggling to move her body.
+
+Ali! She needs me!
+
+She channeled what little stamina wasn’t already tied up in keeping herself alive, trickling it into Divine Step, and she managed to get her feet under her body. Unsteadily, she rose, driving herself to move by sheer force of willpower, and then she took a tottering step forward.
+
+More and more lights were bubbling up out of Ali’s body, lending urgency and desperation to her efforts. She had seen this magic before. Come on! Need to… need more… She shoved more stamina through her tiny remaining conduit, forcing herself to move. She stumbled but managed to catch herself before she ended up with another face full of dirt.
+
+“Ali,” she croaked, but her throat barely made a sound. She’s drawing too much!
+
+The effort to use Divine Step suddenly eased just a little. Still thinks I’m in the fight, eh? Abiding Perseverance clearly still recognized her as being in combat, and everything got just a little cheaper. She expanded the reservation for Perfect Body back to its former amount, and her body felt suddenly lighter and stronger as her attributes grew just a bit more. Stamina flowed through her legs, and she took another step forward.
+
+With the sliver of extra mana she regenerated, she pulsed Mantra of the Ancestors. The effect upon her body was negligible, but even so, her magic pushed back the drain by just a tiny bit, and she recovered a few points of endurance and wisdom. Every scrap counts. The tension in her back and neck eased off just a fraction as her stamina and mana pools grew just a tiny fraction larger, and she took a ragged breath.
+
+But just then, the howling mana abruptly ceased, and in the sudden silence, Ali murmured something from within the cloud of golden lights. Through her friend’s strangely transparent body, Malika saw Nevyn Eld lying on the ground.
+
+Ali toppled over and collapsed beside him, still leaking golden lights into the air.
+
+Fuck!
+
+“Ali!” Malika yelled, a hoarse shout of desperation that echoed in the silent, shattered forest. Then she was there, holding Ali in her arms as her friend slowly faded. She blasted her with Mantra of the Ancients, using every ounce of her energy, but apart from healing her bleeding arm, her magic had no effect.
+
+“She is mine.”
+
+Malika’s head snapped around to find the Blind Lich rising from the crater where he’d fallen. His robes hung in tatters about his body, and he seemed horribly withered, even for a Lich. But fury raged in his glowing eye sockets, and his bony fingers reached, grasping for Ali’s body.
+
+“Aris…”
+
+Malika punched him in the mouth. It was a pathetic punch, barely rocking his head. But she found the stamina to use Soul Strike, and the blast through his head was enough to distract him from his evil spell.
+
+“She’s not dead!” Malika shouted, but it came out as a barely audible hoarse rasp.
+
+“A…”
+
+She punched him again, this one connecting with an audible crack, and the bright glow of mana from his left ring faded as his spell shattered. Focus, Malika, she thought, instinctively calling on Rezan’s teaching in the face of her weakness. A tiny spark kindled in the center of Nevyn Eld’s chest, and as she watched it rapidly began to grow. He rose, growing visibly as he began to recover the mantle of his power.
+
+That’s his mana, Malika thought, suddenly realizing what it was that Ali had done. She didn’t kill him. She broke his magic and burned his mana.
+
+All of it.
+
+And Malika knew what she must do.
+
+She lurched into action with a groan that seemed torn from the very marrow of her bones, unleashing a flurry of punches, forcing her battered body to move again. She forced her strained stamina to flow. Soul Strike burst through every punch, and every single one tore at that spark of his mana. It cost nearly nothing to power Soul Strike now, but she had so very little capacity left. Still, the forms came to her like old friends, and her fists and feet moved like they were always meant to.
+
+With every bit of mana she stole, she poured it into Mantra of the Ancestors, filling the clearing with her healing as she anxiously watched the tiny flickering life force upon the ground beside her, stubbornly refusing to go out.
+
+She punched him and stole his mana. Over and over. Trancelike, she flowed from form to form, barely noticing when her body was reinforced by the continuous healing. Or when her abilities grew stronger from Abiding Perseverance. She ignored the appearance of a blue beam of magic that joined her in draining the Lich. All she could focus on was Ali’s life, and the mana of the Lich.
+
+But she was losing ground. Ali, stay with me! You can’t die!
+
+His regeneration was unreal. Her punches flew unrelentingly, but still his mana pool swelled like a raging bottomless fountain lived within his chest. A dark bolt of death magic shot out, and she was forced to dodge. Then another. And even under her assault, the Lich began to recover his power.
+
+In moments, Malika found herself desperately dodging a hail of dark spells aimed at ending her. Worse, in such a weakened state, she couldn’t afford to get hit even once, but the more she dodged, the less she could punch, and his mana began to grow quicker. She used every single new ability she had earned, eking out the maximum damage, and yet he still grew stronger.
+
+Where is it coming from?
+
+Trailing outward from the Lich’s back were several thick, ghostly tendrils that pulsed with energy, but they faded out after a few yards, as if crossing out of sight and into a realm beyond. Malika had assumed this was simply her Soul Sight showing her his connection to the Phylactery, but it was a channel filled with power. And that power was coursing into him. She knew it with absolute certainty – as soon as he had recovered enough mana for his Decrepify spell, she would die.
+
+Abiding Perseverance ticked up again, and again she adjusted her abilities to increase her strength and speed, and for a moment, the war for the Lich’s mana stabilized, but then he fired a new volley of death, pushing her back, and then he gained more mana. Visibly.
+
+The stalemate went on, cycle after cycle, as his mana grew, and Abiding Perseverance allowed her to barely hang on.
+
+But it couldn’t last forever. A surge of dark energy billowed up within the Blind Lich, and Malika’s blood ran cold at the sight of the dread magic spell, Decrepify.
+
+As a spell, she could not use Martial Disruption on it, but she knew she had to do something. If his spell succeeded, none of it would matter. She would die in seconds, and then he would raise Ali as a specter or a wraith.
+
+Not while I still breathe!
+
+Second Wind surged as she converted her entire mana pool into Stamina, channeling it into her eyes.
+
+[Realm] Malika Yu [God Maker] has used The Ninefold Way: Gaze of the Shattered Soul.
+
+A buzzing crackle filled the clearing as her eyes burned with power, but her stamina and mana were still so diminished from the drain that her most powerful new technique failed almost as soon as it began.
+
+But the resulting stutter in Nevyn Eld’s mana shattered his spell.
+
+Malika stood, gasping from the effort it had taken to cast, staring in dismay as his mana pool surged in the absence of her mana-draining punches, but from somewhere behind her, her mystery ally resumed their blue beam attack, and the Lich’s incessant mana regeneration dipped once more.
+
+She forced herself to move, unleashing punches that cracked with power, blasting soul energy through the Lich’s body, and ripping into the ground all about him. She delayed her damage as long as she could, letting it mount to prodigious proportions, sowing tongues of soul-flame that burned within him. Dirt and shattered stone exploded all around them, filling the air with dust and suspended pebbles as the drone of her continuous high-speed assault carved a crater all around them.
+
+Mana surged within him again, but she had nothing left.
+
+Sometimes you fight your best fight, and you still lose.
+
+One of Rezan’s lessons.
+
+She rejected it. I cannot lose. Ali needs me.
+
+She threw everything she had into her attacks, accelerating faster than she had ever moved in her life. Every punch thrown cracked loudly as she began to create cavitation bubbles of vacuum in the wake of her fists’ passage through the air. The pulses of healing she was running through her body so that they would cascade outward and heal Ali were now needed to keep her own body intact as the sheer force of her strikes tore at her own muscles and ligaments. The very air around her grew searing hot from the friction of her body.
+
+And still the spell of death blossomed.
+
+But then, something happened that she did not expect.
+
+The dark, pulsing conduit feeding him power and mana simply… exploded.
+
+Malika’s eyes widened in shock as the backlash tore through the Lich, shredding his formation, leaving crackles of dark lightning discharging into the scorching hot crater beneath them. Golden mana shot through with black flecks of void and ominously pulsating demonic energy ripped through that thread, spilling out into the shattered clearing and seeping into the ground. Oozes blasted away in all directions, landing with distant splats, and from the wreckage rose a single golden butterfly made from pure mana.
+
+Malika recognized that mana butterfly instantly. She did not understand, but she knew good fortune when she saw it, and she pressed her attack. And for the first time ever, his mana pool began to shrink.
+
+A tentative glimmer of hope kindled within her heart, but it was only when she heard him hissing in frustration that she allowed it to grow. Punch after punch she threw with manic intensity, blasting energy through him and ripping the remaining mana from the ancient Lich – mana which she repurposed into healing and speed.
+
+Her sheer focus suddenly rippled with surprise as her punch returned empty. No more bolts flew as the Lich desperately summoned a flurry of potions and talismans from his storage. She denied them all, punching or kicking them out of his hands, dominating him with her superior speed now that he had no spells.
+
+She stubbornly refused to let up. As she fought, she switched up more and more strikes to attack his stamina. The Lich had an enormous health pool, but by the time she had drained his stamina, she had recovered enough of her attributes through healing or rising Abiding Perseverance that the remainder of his life vanished in minutes.
+
+When he finally collapsed to the ground, landing twisted and broken in the crater, she simply stared at him for a long moment, afraid it was all an illusion, and he would rise anew with fresh strength.
+
+But he did not.
+
+She wiped her brow dazedly. Where’s the notification? What am I missing?
+
+Then, she remembered.
+
+“Ali?” Malika croaked. She spun about and landed beside Ali, shocked that she could see the ground through her now-transparent body. The spark of life within her was so ephemeral that she almost missed it. She reached out a hand and pulsed her Mantra of the Ancestors through her friend, but to her dismay, that tiny spark of life merely fluttered weakly, refusing to budge, to be fanned into life.
+
+She did it again, but once again, nothing seemed to budge. Incomprehensibly, it felt like there was nothing to heal.
+
+Again and again, she burned her stamina to heal Ali, but to no avail. Her chest constricted as confusion turned to panic, and she drained herself again, pouring her magic into Ali’s frail and horrifyingly still body.
+
+She glanced up through tear-blurred eyes as something drew near.
+
+“Why doesn’t it work?” she gasped, recognizing Lira and Val’korr. “My healing isn’t working. Help me!”
+
+“She has no health,” Val’korr said, squatting down beside them.
+
+“What?” Malika gasped. The troll seemed to be speaking in riddles as he examined her. Of course Ali had no health, that’s why she was trying to heal her.
+
+“She spent it all on that Life Channeling of hers,” he said, shaking his head.
+
+“Spent it all…” Malika’s eyes widened suddenly as the meaning burst into her mind, a devastating detonation of understanding. Immediately, she began healing Ali, trying to force her skill to target the damage to her vitality, but it was like trying to push a rock up a mountain. “How…”
+
+“I donated her some temporary health using Ritual Infusion,” Val’korr answered her unfinished question. “But she has less than a minute left.”
+
+“Give… give her some more then!” Malika yelled.
+
+“I was draining the Lich for health,” Val’korr said. “I can’t keep up with my own. Nor even Lirasia’s, though hers was much higher.”
+
+Suddenly, Malika saw the truth – both Lira and Val’korr had critically low health already.
+
+“Take it from me,” Malika said. “Give it to Ali. Give her all of it!”
+
+“Malika…” Lira said, her eyes sorrowful.
+
+“Are you sure you can handle it?” Val’korr said, staring at her with doubt she felt in the pit of her stomach. “You’re pretty badly drained yourself.”
+
+“I can regenerate,” Malika said instantly. “Faster than anything you can take.”
+
+“Ok,” Val’korr said, nodding his head.
+
+The blue beam flickered out, prickling as it danced along her skin. But it felt little more than a tickle. “Nothing is happening?”
+
+“Your defenses are too powerful,” Val’korr answered.
+
+Immediately, Malika removed her reservations for Soul Armor and Enlightened Evasion – she wouldn’t need them now – spending the free capacity to boost Perfect Body instead, and the blue beam began to burn as it tore her life energy and mana away to feed the troll. She had to force herself to allow it; several times she almost balked. It was like the instinct to breathe.
+
+“This is good,” he said, the potent magic of his Ritual Infusion blossoming within him, and Ali’s fluttering life steadied, brightening a touch.
+
+The hope within Malika’s heart roared into a raging fire as she assumed her meditation posture and began to feed stamina to her Mantra of the Ancients in a continuous wave that rippled out from her to cover everyone.
+
+“This is stable,” Val’korr said.
+
+“Yes, but we are stuck,” Lirasia said. “She isn’t dying now, but she’s not getting better either.”
+
+“I just need time,” Malika said. “I’ll get stronger, and my healing can fix her.”
+
+“I’m not sure you’ll last long enough,” Lira said. Malika felt the truth of it as she uttered the words. Although Val’korr was draining her, she could feel Abiding Perseverance beginning to fade now that she was no longer fighting.
+
+“Lirasia,” Val’korr said, his voice sounding heavy and creaky, like the weight of every single one of his countless years was bearing down on him. “I’m worried about this.” He gestured toward Ali’s left arm, conspicuously not quite touching it.
+
+It seemed to be pulsing in the dim light of the ruined forest, a twisted energy leaking from it and spilling into the domain, coloring everything with hues of dark crimson and black. Acrid brimstone and the metallic stench of blood filled the air, and everywhere the miasma seeped, plants warped, growing larger, with darker, twisted leaves, and beginning to pulse in time with Ali’s arm.
+
+She nodded slowly. “That’s the root of it, yes.”
+
+“What can we do?” Malika prompted.
+
+“We must take her to the Dragon God,” Lira said, her voice low and somber, filled with worry.
+
+“Help Ali-friend?”
+
+Malika’s eyes sprang open as a rock beside them warped, becoming a small blue blob. “Naia?” she said.
+
+“Take Ali-friend through the flicker-place,” Naia said, wobbling toward them. “It’s the fastest way to reach the grumpy dragon. Use the twins.”
+
+“Right,” Val’korr said, rising quickly to his feet without any apparent pain from his supposedly arthritic knees.
+
+“I’ve got her,” Malika said, stooping.
+
+“Carefully,” the troll admonished.
+
+A short jaunt through the Spirit Realm with Cael’s assistance brought their little group to the Abyssal Realm in short order. Then it was Lira’s Tree Stride that took them to the edge of Azryet’s domain.
+
+Through it all, Malika held Ali’s body on her lap while she sat in her cross-legged meditation pose, hovering above the ground as they went. To her immense relief, Val’korr’s Spirit Drain kept her Abiding Perseverance limping along, and a few minutes later, they found themselves in the presence of the Dragon God himself.
+
+“Oh, my fires. What has she done?” Azryet said, his great eyes whirling with conflicting energies.
+
+“Something desperate,” Lira answered. “Can you help us?”
+
+“Of course,” Azryet said, his voice quieting.
+
+The great dragon inhaled, drawing mana and air into his lungs with such a rush of force that the books of the library fluttered, some falling from their shelves until Tiraza caught them with telekinesis.
+
+Then he exhaled with curious gentleness.
+
+As if an inferno had somehow been tamed and harnessed, a controlled stream of holy fire roared out from his maw, enveloping Malika – but, to her shock, this inferno failed to burn. Instead, she felt the rush of healing coursing through her like a raging river.
+
+You have received Azryet’s True Healing.Your Decrepify affliction has been removed.
+
+Wow, that’s – something! For all that it felt like facing down The Calamity himself, this healing reminded her of the gentle touch of Havok’s consecration. Raised to a godly power. Malika reeled as her body blazed with sudden power. The rush of restored attributes and the need to push herself so hard for so long caused her amplified Mantra of the Ancestors to rip through the room like a detonating sun.
+
+Azryet’s breath faded, and he regarded her for a moment. “You may rest now, Malika. It seems you needed my healing nearly as much as young Aliandra.”
+
+“Is she… will she be ok?” Malika dared to ask. Ali still lay unmoving on her lap, but she was no longer transparent. She was not the only curious one; a tiny, blue pseudopod reached out and prodded Ali’s body gently.
+
+“Ali-friend?” Naia asked querulously.
+
+“I have removed the life drain. She will not die immediately. But my magic cannot undo the curse she has inscribed onto her soul with that abomination on her arm,” Azryet said. The Dragon God, for all his majesty and power, looked miserable as he regarded Ali lying there. “That demonic corruption will continue to infiltrate her until it kills her. Or turns her into a demon.”
+
+Malika put her arms around Ali as if to ward off the dragon god’s proclamation of doom. “No, I refuse to believe it,” she said. “To come so far, just to lose her now? That is not fair. There must be a way!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

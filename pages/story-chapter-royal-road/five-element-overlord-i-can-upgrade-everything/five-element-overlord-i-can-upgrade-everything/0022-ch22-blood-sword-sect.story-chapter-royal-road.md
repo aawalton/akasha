@@ -1,0 +1,127 @@
+---
+id: 8c58f713-9428-5405-9457-798f06e2766a
+page-type-slug: story-chapter-royal-road
+title: "Ch22 Blood Sword Sect"
+slug: 0022-ch22-blood-sword-sect
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 22
+ownLength: 1490
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3216129/ch22-blood-sword-sect"
+royalRoadId: "3216129"
+---
+
+[Automatic Inspect Function Activated…][Mo Cheng] [Age: 31][4th Level Qi Refiner][Water, Earth, Metal, Fire Spiritual Roots][7th Grade][No Innate Physique][Member of the Demonic Blood Sword Sect. Has been hiding out in a hidden stronghold above a Mid Grade 1st Tier Spiritual Vein at the bottom of the nearby backmountain Ravine.]
+
+As my vision turns brownish orange from the massive copper bell forming around me, I see golden text hovering in front of the black-robed figure that just swooped down from the trees to try and kill me.
+
+“What kind of Servant wears a 2nd Tier defensive artifact?” a raspy voice grunts to himself.
+
+I manage to see a small red sword emblem on the inner fold of his robe and swallow hard.
+
+My head is already pounding, and my mobility after breaking a few ribs is dreadful too.
+
+“A 4th level qi refiner…” I murmur back.
+
+I’m able to stay in place, but the black-robed cultivator gets blown flying backward from the talisman’s reflective energy blast.
+
+I could feel the danger resonating from his black glossy longsword. It was hot… full of qi… completely different from the ordinary axes I faced moments ago.
+
+This man is extremely dangerous, far more lethal than even the black-scaled serpent I killed weeks back.
+
+He slides across the forest floor, balancing his footing, then disappears in a blur of black shadows too far for me to see.
+
+A loud copper bell’s ring echoes through the forest as he tries attacking me from behind.
+
+The sword wielder flies backward to slam into a tree, snapping it and causing a few other trees behind it to fall.
+
+More loud ringing bells sound out over and over. This cultivator does not give up.
+
+“Come on! This thing has to have some kind of breakpoint or time limit on it!” he yells, slamming his blade against the copper shield again.
+
+Over two dozen trees have collapsed, and feet marks show up all over the flat clearing by the stream’s edge.
+
+The landscape of the terrain is completely destroyed.
+
+My eyes ache from trying to track his movement.
+
+After ten full seconds pass, I finally get in the rhythm, watching a blur shift through the air when he starts to move. Yet, this is while I’m controlling my breathing, completely still, and undistracted. Once this defensive bell falls, it will be impossible to strike and watch his movements at the same time.
+
+So, I pull a fresh arrow back in my bow as the 15-second counter in my head gets closer and closer to its end. Another bronze upgrade card materializes, turning this ordinary arrow into one stronger than steel and filled with enough poison to kill one hundred of me.
+
+I grit my teeth, watching the black-cloaked man bounce off the copper bell as it begins to deactivate in my mind. The arrow flies the instant I know I have a clear shot at his chest.
+
+The range is less than 10 meters away, and he’s still bracing himself from the impact of this artifact’s reflection damage.
+
+Even if he is a mid-stage qi refiner, this should be a deadly hit…
+
+At least, that is what I hope.
+
+The instant the dark arrow exits my bow, I finally see a pair of red eyes open beneath this cultivator’s hood.
+
+His whole body glows with a crimson aura, and I watch him kick off the open air with his foot.
+
+I’ve never seen anything like it…
+
+My eyes are open in both awe and fear as he twists away from the fatal shot that should have hit his chest. Instead, it only nicks his left arm, tearing off a portion of his black cloak.
+
+The man yells out with rage, but before his feet even touch the ground, he slices off his own arm at the shoulder.
+
+Two loud thuds echo through the woods, one being an arm shriveling up with a deadly poison. The other is an angry mid-stage qi refiner pointing his blade my way and disappearing in a blur of black mist.
+
+Another loud bell sound chimes through the forest.
+
+I feel cracks spreading in the amulet on my chest grow larger and larger as the bronze light pulses out of it again, activating its 3rd and final use automatically.
+
+It is right before this cultivator’s black sword would have sliced through my head.
+
+The sharp aura I felt again, like death was near, still lingers in my soul.
+
+There is a sharp pressure emanating out from this man that feels just like the serpent and the three stewards that were attacking me. As the last copper bell barrier forms around me, I realize what it is, killing intent. This is a real pressure I can sense when someone has ill will toward me.
+
+The 15-second counter falls quickly again, and loud bell chimes fill the forest as craters start to form all over the clearing. Almost every tree within 30 meters has fallen, so they are no longer being destroyed.
+
+I try to aim my bow and get ready to shoot him again, but the red eyes beneath his hood track it like a hawk.
+
+My best chance of catching him off guard has passed. He’s too fast and alert to shoot at long range with this bow. I’m hesitant to upgrade the bow itself, because if it truly becomes a perfected 1st Tier item, I may not be strong enough to pull the string back…
+
+If I try to challenge him at close range with my dagger, his longsword has a far better reach. Even if I had the same length blade, with his speed advantage, I’d never even land a hit.
+
+One possibility comes to mind as the bell counter falls down past 7 seconds remaining. I put my bow and arrow away, pulling an upgrade card from my storage and use it on one of the axes I picked up from the stewards moments earlier. It flashes with a bright light, becoming heavier in my hand, and darker-colored metal. I let it fall into my storage again, and yell out, beginning my last resort strategy for the only way out of this alive I can think of.
+
+“Why do you want to kill me? Do you work for those stewards?”
+
+He slams against the bell a few more times, then grunts out. “I’ll use your own words, a dead man has no use for that information…”
+
+Thanks to my system, I know exactly who he is, but the reason he was spying on me and decided to sneak attack me still doesn’t make sense.
+
+More seconds tick down, and my mind races, adding together every piece of information I can think of.
+
+“The Ravine… that is the only place you could have seen me! You must have seen me kill that Serpent,” I murmur loud enough for him to hear.
+
+The red eyes beneath the cloak widen in surprise, but he doesn't say anything more.
+
+In this small moment of time, he froze up, allowing me to see his movements. I inwardly grin and take a deep breath, watching the copper bell’s final countdown hit its end.
+
+Just as the talisman on my neck cracks into pieces and the barrier starts to fade, I lunge forward at the incoming blur of darkness.
+
+“Why does the Blood Sword Sect care so badly about a servant? Is it because you don’t want this Sect to find your hidden stronghold?”
+
+The bronze light barrier fades away completely, and I see the full visage of disbelief on my attacker’s face. The pause gives me just enough time to see all of his movements clearly, but nowhere near enough time to fully dodge.
+
+I jump in the air and feel the sharp end of his blade stab me in the gut, below my heart and dantian where he was initially aiming. I attempt to stab him in the neck with one hand holding a dagger, but he reacts far too fast.
+
+Without hesitating, the cultivator headbutts my arm, fracturing almost every bone in it, forcing me to drop the blade aimed to kill.
+
+In the free hand closest to his exposed neck, a heavy grey metallic axe materializes from my storage.
+
+With a simple thrust, using mostly gravity, the perfect grade axe chops his head clean off.
+
+His widened eyes filled with fear and confusion hit the ground at the same time as I do, impaled by a glossy black longsword.
+
+I can feel the blood gushing out of my stomach, and my vision growing blurrier and blurrier. Yet, I still have enough strength to reach forward and pull this cultivator’s corpse into my storage.
+
+As my mind spins trying to come up with another solution to this problem, I see a pair of violet eyes staring at me from deep in the forest.
+
+Xu Hong peeks her head out from behind a boulder and starts running my way.

@@ -1,0 +1,183 @@
+---
+id: 30bc9b99-8f9b-5aac-8905-9900faaa7288
+page-type-slug: story-chapter-royal-road
+title: "89 - The Ultimate Flex Off"
+slug: 0090-89-the-ultimate-flex-off
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 90
+ownLength: 1519
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3815547/89-the-ultimate-flex-off"
+royalRoadId: "3815547"
+---
+
+When the girls and I came back to the bathhouse’s main area, where both men and women were allowed, we noticed Kaelor giving Talon a piggy-back ride. Sparrow and Noodle tagged along beside them. Some of the other guests walked up to them for a quick conversation, but the moment Kaelor spotted us and waved at us, the guests quickly bowed and left the area.
+
+“How was it?” Talon asked, leaning forward from Kaelor’s shoulders. Kaelor nearly fell over, losing his balance.
+
+“The bath was quite nice,” Meriel said. “We went to the mana pool.”
+
+“Hah! That’s about what I expected from you,” Kaelor said. “We went to a rather… unique pool. It was as red as crimson, and apparently it had the blood of monsters. At least, that was what the sign said. When I asked one of the attendants whether or not it was actually true, he just started laughing, so I wasn’t so sure what to believe anymore.”
+
+“Wrr!” Noodle said.
+
+I smiled at him. “Did you enjoy the bath?”
+
+“Wrr wrr! Wrrrrrr!”
+
+I wasn’t too sure what that meant, but it sounded like a yes.
+
+He flew over to Meriel, settling on her head. She gently patted his body.
+
+Reina ran up to Kaelor, her eyes wide. “Hey, you’ve got abs, too?!”
+
+He tilted his head. “Too?”
+
+Like the rest of the men here, Kaelor, Talon, and Sparrow wore their towels only around their waists, while the women had theirs covering the entire front of their bodies. Even Sparrow had abs, though that wasn’t too surprising considering how much muscle dwarves typically had.
+
+“Let me show you my abs!” Reina said, grabbing one end of her towel.
+
+“Stop, stop, stop!” I yelled, pulling away her hand.
+
+I looked around the bathhouse, noticing several people gazing in our direction. If she had actually pulled her towel off—well, let’s just say she would’ve been going to jail for indecent exposure.
+
+“I’m surprised all of you are so relaxed seeing each other like this,” Aeris said, her tail wiggling. “We’ve got nothing but skin under these towels. Is nobody even a bit embarrassed about that? Or have you already shown each other your skin before?”
+
+I gave her a strange look. “Showing each other our skin…? Who do you think we are? Exhibitionists?”
+
+Aeris put a hand under her chin. “I don’t know. You seem like the type.”
+
+“The type to do what?”
+
+“To show off your body to your friends.”
+
+“There’s no type for that!”
+
+She giggled. “Oh? Then why do you sound so defensive? That’s awfully suspicious.”
+
+I sighed. At this point, it didn’t even matter what I said. She’d just continue making up all sorts of stories in her mind.
+
+“Why’s your tail wiggling so much?” I asked.
+
+She looked behind. “Is it really? Oh my, I haven’t even noticed! Perhaps the thought of seeing you without that towel is—”
+
+I shot my hand toward her mouth, shutting her up before the passerby would think of us as weirdos rather than heroes. Hey, that rhymes.
+
+“We have got to dispel the love potion’s effects,” I said to Meriel. “She’s saying weirder and weirder things by the day.”
+
+Meriel shrugged. “You just have to cope with it for now.”
+
+Somewhere along our conversation, Kaelor and Reina had run off to the side to compare their muscles. Kaelor was lean yet muscular, while Reina straight-up had incredible muscles for a human. If bodybuilding competitions existed in this world, she had a fair shot at winning one. If she actually won one, I’d probably start calling her Reina Schwarzenegger.
+
+Speaking of which, Talon and Sparrow were with them, too. It looked like they were the judges.
+
+We walked over to them.
+
+“I think my bicep is bigger,” Kaelor said. “You’re lucky I’ve only got one arm, otherwise it’d be really obvious my muscles are bigger!”
+
+“Are you… sure about that?!” Reina said, straining with all her might. Her face became as red as her hair.
+
+Talon and Sparrow leaned in.
+
+“It’s definitely a close one, I’ll tell ya that!” Sparrow said.
+
+“I think Reina’s triceps are slightly bigger,” Talon muttered. “But wait… Kaelor’s bicep looks bigger. Actually, are biceps the top one or the bottom one? Gah, I don’t even know!”
+
+About a dozen guests had already gathered around. Half of them cheered for Kaelor, while the other half cheered for Reina. Why does it feel like we’re always getting all sorts of attention today, for the wrong reasons?
+
+“Wow. I’ll admit, she’s got some serious muscles,” Aeris said, biting her nails.
+
+“What’s with the nervous look?” Meriel asked.
+
+“I don’t like losing to Reina. Hell, I usually don’t. But in a competition of muscles? I’ll admit—she’s got me beat!”
+
+My eyes widened as an idea popped in my head.
+
+“I actually like people who are muscular,” I said. “And it looks like you’re losing to both Reina and Kaelor in that department. How do you expect me to fall in love with you if you don’t even have more muscles than those two? Even Sparrow’s muscles are nothing to laugh about, either.”
+
+Aeris gasped, and her tail froze.
+
+“You… like muscular people?”
+
+“Mhm.”
+
+“Is that why you’re not in love with me yet?”
+
+I nodded again. “Uh… yup. Definitely.”
+
+Her jaw dropped. After taking a moment to gather herself, she pointed at Meriel.
+
+“It’s about time you use it!” she said.
+
+“Use what?” Meriel asked.
+
+“You have a secret spell that instantly makes a person’s muscles bigger, right? It’s time to show it.”
+
+Meriel blinked. “Huh? I don’t make miracles happen. Maybe a spell like that exists somewhere, but it’s definitely not with me.”
+
+Hearing that, Aeris fell to her knees. Was it really that shocking?
+
+“Oh, dear… it’s over… it’s all over!” she cried, covering her eyes.
+
+“Hey, it’s not that big of a deal,” I said, patting her head. “Maybe you should spend less time making weird jokes and flirting with me and more time focusing on yourself first, alright?”
+
+Aeris began to bawl her eyes out, and the nearby folks looked at us strangely.
+
+“I can’t!” she cried. “I hate training! I don’t like lifting heavy things!”
+
+Hearing a dragon say that was certainly something, considering they had to carry their massive bodies just to fly. Though I guess it sounded less outrageous coming from her human form.
+
+“Ah!” I said as another idea popped in my head. “I don’t like lazy people, either. I guess you tick off two boxes for reasons I can’t love you, huh? Not only are you not muscular, but you’re also not willing to put in the effort to gain—”
+
+Before I could finish my sentence, she sprinted off, bursting through Kaelor and Reina in the middle of their muscle showoff. Kaelor spun in a circle like something you’d see in a cartoon, while Reina fell back, nearly falling into the nearby pool if the crowd wasn’t there to hold her up.
+
+“Aeris?!” I called.
+
+She didn’t look back. Her arms were covering her face.
+
+Was she… crying?
+
+[TROPE INITIATED: RUNNING AWAY IN TEARS]
+
+Completion criteria: Make Aeris stop crying.
+
+Note: It is considered a failure if she stops crying on her own or if someone else comforts her instead.
+
+“Oi, what the hell did ya do?!” Sparrow yelled, looking in our direction. “We were in the middle of casting a vote to see whether Kaelor or Reina’s got the more impressive figure! Ya ruined it!”
+
+Meriel, who was the only one right beside me, facepalmed. “You’re always making trouble, Allene. What were you even thinking?”
+
+My face fell. “I… I thought that saying those things would make her give up on trying to make me fall in love with her.”
+
+She sighed. “Did you really think that was going to work? A potent love potion would make someone fall in love with you even if they hate you. How do you think Aeris feels after hearing all of that? It’s not like she can just magically erase the potion’s effects.”
+
+I looked at the ground. “I was too harsh, wasn’t I?”
+
+“Harsh isn’t the problem. There are some things that just shouldn’t be said.”
+
+“Are you mad at me…?”
+
+“Not really,” Meriel said. “Mistakes happen. But a part of being a great mage is knowing how to learn from them.”
+
+Noodle floated away from her head, snuggling below my chin to comfort me.
+
+Just then, Talon pointed in the direction Aeris had run toward, shouting, “Someone get her! She ran into the men’s section!”
+
+“What?!” I yelled.
+
+Kaelor laughed. “Looks like it’s about time I come to the rescue—”
+
+I sprinted past him, pushing him away and heading toward the men’s section of the bathhouse myself.
+
+“Allene?!” Meriel called after me.
+
+[TROPE COMPLETED: RUNNING AFTER THE CRYING FRIEND]
+
+[REWARD: Pending…]
+
+I didn’t say anything. I just kept running in that direction.
+
+This was my problem to solve. I was the one who made her cry, so I had to be the one to save her.
+
+Even if it meant going into the men’s section of the bathhouse.

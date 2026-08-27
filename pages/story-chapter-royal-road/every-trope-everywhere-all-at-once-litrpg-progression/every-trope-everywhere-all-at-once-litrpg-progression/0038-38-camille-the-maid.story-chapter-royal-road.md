@@ -1,0 +1,271 @@
+---
+id: cc816540-3299-5ada-b32b-0ae6e31266f5
+page-type-slug: story-chapter-royal-road
+title: "38 - Camille the Maid"
+slug: 0038-38-camille-the-maid
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 38
+ownLength: 1737
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3503180/38-camille-the-maid"
+royalRoadId: "3503180"
+---
+
+“Go ahead,” Reina said as we stepped into the manor.
+
+I looked at her. “Hm?”
+
+“Do your narration thing or whatever. The thing you like to do whenever you see something cool.”
+
+“Ah, sure, thanks.”
+
+The manor’s interior was—how do I say it—less extravagant than I expected. A long red carpet stretched from the front door all the way down through the entrance hall, and there were two stairs at the end, leading up to the second floor. Every piece of wooden furniture was coated in dust, almost as if the manor had been abandoned for decades.
+
+But of course, this was just a manor inside of a dungeon. It didn’t look like anybody lived here. We didn’t see any danger from where we stood, but I’m sure there are some traps waiting around the corner. Either that, or there was a group of monsters waiting to ambush us.
+
+I looked up, noticing the dimly lit chandeliers gently swaying. But how? I didn’t feel any wind inside the building.
+
+What a ghostly sight.
+
+“Done?” Reina asked.
+
+“Yup.”
+
+How nice of her to wait for me to finish.
+
+The door slammed shut behind us, causing us to turn around. When we faced back to the front, a woman appeared before us, bowing.
+
+Reina and I yelped.
+
+We quickly backed up, holding onto each other like two frightened children. Her knockback stick was suspiciously too close to me, but there was a much bigger problem in front of us.
+
+“Welcome,” the woman said, looking up. She was wearing a black and white maid outfit. “Would either of you like some tea?”
+
+Reina let go of me. “Tea? Sure, why n—”
+
+“No!” I yelled, stepping forward and drawing my sword. “You’re a monster, aren’t you? You can’t trick us!”
+
+The maid tilted her head. “A monster? Why would I be a monster?”
+
+“...Huh? Then what are you?” I asked.
+
+She bowed down again. “My name is Camille, a servant of this manor.”
+
+“You’re not a monster?”
+
+“Of course not.”
+
+Reina and I exchanged glances.
+
+“There’s another human inside of a dungeon besides us?” I whispered to her.
+
+“That’s normal,” Reina replied. “Not every living thing has to be a monster.”
+
+I returned the sword to the harness on my back that Reina had lent me.
+
+“I see. So you’re an NPC, Camille?”
+
+“N-P-C? What’s that?”
+
+“Never mind,” I said. “Anyways, we’re here for a lever. Do you happen to know where it is?”
+
+She shook her head. “Everyone who enters this manor is only ever here to find the lever. If you wish to proceed, then you may take a look around for as long as you’d like. The original owner always welcomes his guests.”
+
+“Original owner?” Reina said. “What happened to him?”
+
+“He disappeared a long time ago.”
+
+“Then why are you still here as a maid?”
+
+She looked at the ground. “I am unsure. I just feel obligated to. My soul is attached to this very manor, and I feel as though I am nothing without it.”
+
+“You don’t ever feel like escaping?” I asked.
+
+“I do not.”
+
+“So you’d rather be stuck in this dungeon forever?”
+
+“I am unsure what the word ‘dungeon’ means. Also, there is no need to explain it to me. The past visitors have tried doing exactly that, but my mind always seems to forget about it just moments later.”
+
+The dungeon must have its own rules to keep her imprisoned here. She likely wasn’t a real person with a soul, but rather a byproduct of the dungeon’s creation. Maybe she was made of mana.
+
+“Before the two of you begin your search for the lever, please do follow me,” she said, walking down the left hallway.
+
+“Where are we going?” Reina asked.
+
+The maid didn’t turn back.
+
+“The dining room.”
+
+I didn’t know what it was, but something about her felt off.
+
+Was she even human?
+
+***
+
+Unlike the dusty entrance hall, this room was surprisingly well-maintained. The furniture was spotless, and the overhead chandelier wasn’t swaying like the ones at the entrance.
+
+Platters of roasted meat, steaming soup, buttered bread, and strange fruits covered the entire table, enough to feed three families at once. The only problem was that there weren’t any families at the table. It was just Reina and me, sitting on opposite ends.
+
+Though I guess I would consider her family. I didn’t really have anything like that in this world.
+
+…
+
+Don’t you dare tell Reina I said that, alright?
+
+I looked at her, noticing her eyes sparkling.
+
+“This… this smells amazing!” Reina said.
+
+“Don’t touch anything!” I yelled immediately.
+
+Exploding meat? Poisoned drinks? Anything could happen, especially when the food came from the dungeon itself.
+
+I cast [GOURMET ANALYSIS], the skill I received as a trope reward after trying the cloud candy at the festival. After a split second, the results came back. Somehow, everything was perfectly fine.
+
+“Huh,” I said. “Never mind…? I guess it’s all edible?”
+
+The moment I said that, Reina dug into the closest meat. That crazy girl… I can’t believe she’s so willing to eat food served from this abandoned manor.
+
+I looked around the table, gulping. I’d be lying if I said it didn’t look appetizing—though from the way I was drooling, it seemed my body was more honest than I was. The food that Kaelor had brought us was fine considering they were just rations, but these? These looked and smelled as good as dishes from a restaurant.
+
+“Please enjoy,” the maid said, standing beside me.
+
+I’d almost forgotten she was there.
+
+I stood up from my original seat and walked over to the one just beside Reina. Magically, the seat scooted backward by itself, and I sat in it. I wasn’t sure why the maid had seated us so far apart in the first place, but it didn’t look like she cared about me moving.
+
+She followed right behind me.
+
+“So,” I began, looking at the maid. “Are you just going to be staying here with us?”
+
+She nodded. “Yes. As this manor’s guests, I must attend to any of your requests.”
+
+Her posture was unnaturally stiff.
+
+“It feels kind of weird to have you watch us eat like that,” I said.
+
+“Shall I leave the room then?”
+
+I shook my head. “No, that’s not what I mean. How about you come eat with us?”
+
+The maid’s eyes widened slightly. “Eat with you? I can’t do that…”
+
+“Just do it!” Reina said, her mouth full of food. “The more the merrier.”
+
+The maid thought about it for a second. “I suppose I may, if that’s what you really want, I shall simply think of it as my guests’ request.”
+
+She took the seat beside me. Unlike her standing posture, her sitting posture was rather… unsightly. She was hunched over as if she had the back pain of an old grandma, and she held her utensils like a toddler would for the first time.
+
+She noticed my gaze, quickly turning away, ashamed.
+
+“I deeply apologize. I… this is my first time eating. Everything is foreign to me.”
+
+I didn’t know if I heard that right. “Your first time eating…?”
+
+“That’s awful!” Reina cried.
+
+I turned to her. She had already cleaned her plate, and yet, she was reaching out for more.
+
+“Reina, your mouth,” I said.
+
+“Hm?”
+
+I picked up a piece of paper and handed it to her.
+
+“Wipe it. Your mouth’s completely covered with sauce.”
+
+She grinned, sitting on her hands. “Clean it for me!”
+
+“Huh? Why would I do that?”
+
+[TROPE INITIATED: MESSY EATER]
+
+Completion criteria: Clean Reina’s mouth.
+
+I sighed. Really?
+
+Reina sat there, leaning her face in. She always acted like a complete child in moments like these—way different from how she normally acted while wielding a weapon.
+
+I wiped her mouth, convincing myself I was only doing it because of the trope message. She smiled, giving me her thanks.
+
+[TROPE COMPLETED: MESSY EATER]
+
+[REWARD: +1 STRENGTH]
+
+[STRENGTH]
+
+[20 → 21]
+
+With that out of the way, we returned our attention to the maid.
+
+“You said this is your first time eating,” I began. “I don’t understand. Was that a joke?”
+
+The maid took a sip of water. With how she was holding the cup, it looked like it was her first time drinking anything, too.
+
+“It isn’t,” she said. “Unlike visitors such as yourselves, I do not possess the desire to consume the food or drinks before us.”
+
+“So you can survive without eating or drinking anything?”
+
+She nodded.
+
+“Then what do you usually do every day?” Reina asked. “This manor feels a bit lonely.”
+
+“Oh, don’t worry, I’m not the only one here,” the maid said. “As for what I do every day…”
+
+“Okay, hold on, back up for a second,” I said. “You mean there’s more people here? Now I’m getting creeped out. I bet this manor’s filled with all sorts of weird monsters.”
+
+She shook her head. “Weird? I don’t think so. Everyone here is quite lovable. But outside of that, I typically just wait at the entrance until the next set of visitors come.”
+
+So the dungeon forces her to stay idle until adventurers enter the manor? That’s some NPC behavior if I’ve ever seen one.
+
+“What else do you do?” I asked.
+
+“That’s it.”
+
+“You don’t do anything else? Cleaning the manor, walking around, using the bathroom…”
+
+She shook her head. “No. My sole purpose is to greet the guests.”
+
+So she doesn’t need nourishment, and she also doesn’t need to use the bathroom. Was she even a human?
+
+I doubt it.
+
+Growing suspicious, I reached my hand toward her. And when I tried to touch her shoulder…
+
+My hand phased right through her.
+
+Reina dropped her utensils in utter shock, but I wasn’t too surprised.
+
+“Oh my god!” Reina cried. “Allene, what have you done to her?”
+
+“I’m just confirming things,” I said. “Looks like she’s a ghost after all.”
+
+“No, not that! Look at her face!”
+
+I looked at the maid’s expression.
+
+She had completely passed out.
+
+“Camille…?” I said.
+
+No response.
+
+Did I accidentally kill her?
+
+I called [INSPECT].
+
+[GHOST HUMAN: Camille]
+
+Level: 17
+
+HP: ???
+
+Description:
+
+A ghost whose sole purpose is to greet guests at the entrance hall of her manor. Unlike most other ghosts, she goes unconscious the moment anything passes through her body.
+
+Assessment:
+
+Incapable of harm. Proceed with zero caution.

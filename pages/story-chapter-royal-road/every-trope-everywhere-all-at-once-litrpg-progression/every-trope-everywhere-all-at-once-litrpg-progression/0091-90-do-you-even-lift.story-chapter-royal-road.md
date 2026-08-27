@@ -1,0 +1,225 @@
+---
+id: fac5f97f-002f-5290-b5e1-2338044fb8be
+page-type-slug: story-chapter-royal-road
+title: "90 - Do You Even Lift?"
+slug: 0091-90-do-you-even-lift
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 91
+ownLength: 1836
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3831448/90-do-you-even-lift"
+royalRoadId: "3831448"
+---
+
+The men’s side of the bathhouse had a similar layout to the women’s, so I didn’t have too much difficulty navigating through. Having no idea where Aeris went, I had to poke my head inside of each section.
+
+One had a pool with so much steam that it was nearly impossible to see anything. Another had water that was crimson red, just like Kaelor had told us about earlier. There was even a bath so cold that ice formed along the edges. I wasn’t so sure who would even subject themselves to such torture, but there were actually more people inside of that one than I thought.
+
+The men within the pools looked surprised to see a woman like me on their side of the bathhouse, and for good reason. If we had seen a man poking his head through the baths on the woman’s side, Meriel would’ve tossed him away with a wind spell without hesitation.
+
+Soon, several attendants stood in my path.
+
+“Hey, what do you think you’re—wait a minute, aren’t you…?”
+
+“Allene…? The dragonrider?” one of them said.
+
+I stopped, bowing for forgiveness. “Sorry, but I have a good reason for this, I promise!”
+
+The attendants glanced at each other. The moment one of them shrugged, the others parted away from the path.
+
+“Don’t go causing any trouble, alright?” one of them said. “Most of the men should have their towels on anyway, though it’s not required since they’re inside the men’s section. If you’re okay with potentially seeing some—”
+
+“It’s fine, thanks!” I said as I sprinted past them. He was better off not finishing that sentence, anyway.
+
+[TROPE COMPLETED: THE HEROES GET SPECIAL TREATMENT]
+
+[REWARD: Pending…]
+
+I continued sprinting through the area, poking my head into one pool after the other. It was known as a luxurious bathhouse for a reason. It was outrageously huge, and there was nearly a type of pool for any kind of person.
+
+Still, I didn’t see Aeris anywhere. No matter which pool I looked at, all I saw were men staring back at me with confused looks. Just as one of the attendants warned, I saw several sights that I would rather not describe. I’ve gotta keep it PG here.
+
+With that said, didn’t Kaelor tell me last night that it was extremely uncommon for people to bathe together? It sure didn’t look like it, given that the entire purpose of a public bathhouse was for people to socialize.
+
+Looking around, I started to wonder if I had kept my search too tightly scoped. What if Aeris wasn’t in any of the pools at all?
+
+My eyes settled on a door that led to one of the steam rooms. Several more doors lined up against the same wall, but judging from how one of them had several people running out of them and screaming, “What’s a woman doing here?!”, I would assume that one had something to do with Aeris.
+
+As I ran toward it and peeked inside, I saw…
+
+Well, nothing. There was way too much steam.
+
+I opened the door and entered, and the door closed on its own. I began walking through the steam, probing my hand around like a zombie.
+
+“Aeris?” I called out. “Aeris, are you here?”
+
+No response.
+
+Now, I don’t know about you, but there’s only a few things that can happen from here. Either she really isn’t here, or she’s just keeping quiet and hiding in a corner.
+
+I was starting to get anxious with my hands poking around at a place I couldn’t even see through. I’ve seen enough stories to know what’ll happen next. If Aeris was really here, then I wouldn’t be surprised if my hands accidentally touched a part of her body I shouldn’t have, all because I couldn’t see where I was going.
+
+But listen. I’m tired of all these dirty gags and jokes lately. I’ll do everything in my power to make this a wholesome encounter.
+
+I dropped my hands to my side, taking slow steps. The steam room was incredibly spacious, much like the rest of the bathhouse. I continued calling after Aeris’s name, but I stopped after hearing the sound of sniffing at the corner.
+
+“Aeris…?” I said a final time as a silhouette appeared through the steam.
+
+I walked closer, and the colors began to reveal themselves. Sure enough, there she was, her face buried into her knees as her tail wrapped around her body.
+
+“Hey,” I said, taking a seat beside her. “I uh… I’m sorry for what I said earlier…”
+
+She continued sniffing through her buried face. Seeing her like this made my heart ache, especially since I never would’ve imagined I’d make her cry.
+
+“Aeris,” I muttered, scooting closer. “I’m sorry, I mean it. I was just kidding earlier, you know? That whole thing about liking more muscular people and all… it was just a joke.”
+
+She briefly lifted her head, looking my way. “Is that all I am to you?” she said, her voice low. “A joke?”
+
+“Wha—? I… no! No, not at all!”
+
+Sweat fell from my forehead from how hot the steam room was.
+
+“Then prove it,” Aeris said through a sniff. “If I’m not a joke, then prove it…”
+
+I opened my mouth, but she stopped me before I could say anything.
+
+“No, not with words. Prove it like this.”
+
+She opened her arms, inviting me for a hug. If this was all it took to calm her down, I’d be more than happy to do something like this.
+
+I leaned in and embraced her. She held me tight, and even her tail wrapped around me.
+
+“Tie my hair,” she said. “You have a pair of black hair ties, don’t you?”
+
+Black hair ties…?
+
+Ah. She must be talking about the black ones I had gotten as a trope reward long ago.
+
+“How do you know about them?” I asked.
+
+“Reina always bragged about how the two of you had matching hair ties because she knew how upset it made me. She brought it up all the time.”
+
+I could definitely imagine Reina doing something like that.
+
+I pulled away from our hug, calling my [INVENTORY] and pulling out the two hair ties.
+
+[ITEM: MATCHING HAIR TIES]
+
+Description:
+
+A pair of soft black hair ties decorated with small silver star charms. Meant to symbolize friendship.
+
+She looked at it with a smile before turning around.
+
+“Can you?” she asked, pointing at the back of her head.
+
+“Will you accept my apology if I do?”
+
+She shrugged. “It depends how good you are at tying my hair. And whether or not you give me another hug afterward.”
+
+I thought about making her hair into a bun, but I realized I had done the same for Reina back then. I should probably give Aeris a different one.
+
+I decided on a ponytail, which actually fit her rather… nicely.
+
+…
+
+Okay, I take that back. I honestly don’t think it suited her that well. Maybe I should’ve gone for the bun after all.
+
+She flipped around with a grin, opening her arms again.
+
+“One last thing,” she said. “Give me the biggest hug you can.”
+
+And so I did.
+
+Wait a minute. Doesn’t this entire ordeal seem awfully familiar with the interaction I had with Reina back at the cave?
+
+Looks like the two of them were more similar than they would admit.
+
+“Heh,” Aeris chuckled.
+
+I didn’t think anything of it at first.
+
+“Hehehe…” Aeris chuckled again.
+
+I tried to pull back, but she kept her embrace tight.
+
+“Um…” I muttered. “Could you let go now, or…?”
+
+“HAHAHAHAHA!” she burst out, nearly making me go deaf. “You really believed me, huh?! Come on, Allene! I thought you were better than this! You think a dragon like me would cry over some muscles?!”
+
+“I… wha…?”
+
+My face flushed red from embarrassment. After a few more seconds, Aeris finally let me go.
+
+“You… you weren’t actually crying?!” I said.
+
+“Oh, no, I definitely was,” Aeris said. “Though I was just crying from anticipation at how hilarious all of this was going to be. I’m glad you proved me correct! You’ve got a soft heart, Allene. That’s what I love about you!”
+
+I raised a clenched fist. “Damn it, Aeris! I was worried that I… that I…”
+
+“Worried about what?” she teased, leaning forward. “That you actually made me upset? Hah! You’re always pushing me away, saying I’m too clingy, and even then, you’re still willing to hug me and tie my hair up. Oh, Allene. You’re just too adorable.”
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- RUNNING AWAY IN TEARS (COMPLETED)
+
+- RUNNING AFTER THE CRYING FRIEND (COMPLETED)
+
+- THE HEROES GET SPECIAL TREATMENT (COMPLETED)
+
+- SIKE, I WASN’T CRYING! (COMPLETED)
+
+[ITEM ACQUIRED: DRAGON’S DUMBBELLS]
+
+Description: A pair of plain iron dumbbells that feel weightless to everyone… except a certain dragon who's madly in love.
+
+Effects:
+
+- While held by Aeris, every workout is more effective and Strength growth is accelerated
+
+- Will deal negligible damage if used as a weapon
+
+- The weight is dynamically adjusted based on Aeris’s current strength levels
+
+- This item cannot be stored in your [INVENTORY]
+
+- This item cannot be held for more than three seconds by someone who isn’t Aeris
+
+This item will now appear in Aeris’s hands.
+
+Note: Do dragons even lift? At least the one in front of you can.
+
+Just like that, a flash of light appeared in Aeris’s hands.
+
+“What’s this…?” she muttered.
+
+“Ah,” I said. “That’s uh… a gift from me to you.”
+
+“A gift…?”
+
+As soon as the pair of iron dumbbells fully formed, she fell forward, slamming the weights into the marble floor—which surprisingly didn’t crack. It was a lot sturdier than I expected.
+
+“Gah!” she yelled, letting go of them. “Allene, what are these?!”
+
+“Weights,” I said. “You know, to get stronger.”
+
+She raised an eyebrow. “Weights…? I’ve never seen any that look like these. Where did you get them?”
+
+Truth be told, these weights looked exactly like the ones from the world I came from. I’m sure the weights in this world looked way different from these ones.
+
+“These came from the village I’m from,” I lied. “They’re actually one of a kind. Treat them kindly, alright?”
+
+“But why are you giving me these? Didn’t you say all that about liking muscular people was a joke?”
+
+I scratched my head, scrambling for an excuse. “That… was another lie! I have a slight preference for muscular people. If you don’t like them, you could just leave them here.”
+
+Aeris grabbed the dumbbells, straining as she stood. “Absolutely not! I won’t leave behind a gift from my darling! I’ll bring them with me wherever I go!”
+
+“You don’t have to do that…”
+
+“I’ll cherish this gift for the rest of my life!”
+
+Just like that, she walked over to the steam room’s door and kicked it open, taking her exit.
+
+I guess the System decided that dragons should also hit the gym?

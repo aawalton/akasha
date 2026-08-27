@@ -1,0 +1,199 @@
+---
+id: 719167f5-5ed8-521a-9a97-a0e73b941ba9
+page-type-slug: story-chapter-royal-road
+title: "63 - Detection"
+slug: 0063-63-detection
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 63
+ownLength: 1448
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3619803/63-detection"
+royalRoadId: "3619803"
+---
+
+“You believe that Aurelius is one of the people who flew Gabriel’s body away?” Meriel asked.
+
+I nodded. “It makes sense, doesn’t it?”
+
+“It does,” Reina said. “But then what do we do about the ones in front of us?”
+
+She had a good point. The six ring wielders hovering in the air before us were not entirely free of suspicion, either.
+
+“I’ll stay here with them,” Kaelor said. “If anything happens, I’ll shout. I trust that you’re all fast enough to come back in time, yes?”
+
+“Tuna and I will stay here with you,” Talon said.
+
+“So will I,” Meriel said. “It’s not guaranteed that Aurelius isn’t one of these six. I’ll stick with Kaelor in case anything happens.”
+
+I nodded, turning to Reina and Aeris. “Then will the two of you come with me?”
+
+Aeris nodded. “Sure thing, darling.”
+
+“Of course,” Reina said.
+
+Before we moved, one of the ring wielders flew toward us.
+
+“I’m not wasting my time staying here,” she said. “I don’t know what you’re all planning to do with us, but we have no reason to listen to any of you.”
+
+Kaelor smiled. “Is that so?”
+
+He drew his dagger, pointing it toward her.
+
+Everybody gasped.
+
+“Y…You—!” she stammered.
+
+But he kept it steady. Even with one arm, he was as fearsome as he had been with two.
+
+“Each of you knows my name,” Kaelor said. “Then you would also know what this means, correct?”
+
+She gritted her teeth, slowly turning and flying back to her spot.
+
+“I’m sorry that I have to do this,” Kaelor continued, “but we can’t take any risks. Not now. He could be among any of you.”
+
+One of them tilted their head. “What do you mean?”
+
+“Aurelius—the one who had led the entire dungeon outbreak—isn’t any ordinary being,” he explained. “The angel that we saw wasn’t his body. It had belonged to a man named Gabriel, and Aurelius stole that body from him.”
+
+“Stealing a body…?” one of them said.
+
+“It’s a bit of a complicated situation,” Kaelor continued. “But all you need to know is that Aurelius is capable of stealing a person’s body. Those rings on your fingers make it likely that he’s within one of you. Do you understand what I mean now?”
+
+The six of them looked at each other, slowly creating distance. One of them had his hand on his sword. Another readied her staff. A third had his eyes darting between everybody as he took a stance.
+
+Good thing we followed our gut and didn’t tell everyone else about Aurelius while we were all together. Otherwise, they’d all point their weapons toward anyone with a ring on their finger.
+
+“Quit looking at me weird,” one of them warned.
+
+“Me? You’re one to talk. Why do you keep twitching like that?”
+
+“I can’t help it. Hearing all of this is making me nervous.”
+
+“...Is that so? Or maybe you’re nervous because you’re Aurelius!”
+
+Kaelor looked at us. “Well that’s not good. Now they’re all one step away from killing each other.”
+
+I facepalmed. “This is why we shouldn’t give out too much information.”
+
+As we were trying to figure out what to do next, Reina’s eyes lit up.
+
+“Oh! I have an idea!” she said. “Allene, remember what I told you earlier? That Aurelius is weak to Dawn Sunderer?”
+
+I nodded. “What about it?”
+
+“Why don’t we try pressing that sword against them? Maybe he’ll show some kind of reaction if he really is one of them.”
+
+I thought about it for a second. “Would that even work?”
+
+“That’s not a bad idea,” Meriel said. “I think it’s worth giving it a try.”
+
+“Sure.”
+
+I cast my [INVENTORY], reaching in and pulling out Dawn Sunderer. It really was strange for me to have so many weapons. Having Dawn Sunderer, Giant Slayer, and Starcaller all in one place was honestly starting to become overwhelming. Not to mention the Tree Sentinel’s Spear, too, but it didn’t really count since its tip was broken.
+
+Having an [INVENTORY] basically made me a damned treasure chest.
+
+“Take this,” I said to Reina as I handed her Giant Slayer.
+
+“What’s this?” Reina asked.
+
+“A greatsword that specializes in taking down huge monsters,” I said. “I think it suits you well.”
+
+She put her iron sword away, holding Giant Slayer with sparkling eyes. “Thanks, Allene!”
+
+With Dawn Sunderer in my hand, I flew over to the ring wielders, raising my sword at them one at a time. They backed away at first, but seeing Kaelor’s glare only reinforced the need for them to stay still. It was nice to have such a prominent Firstborn on our side. Otherwise, nobody would take a small girl like me seriously.
+
+When I raised my sword at the first man, nothing happened. I scanned him from top to bottom, but it wasn’t until the sword hovered beside his ring did it glow brighter.
+
+“See?” Reina said. “It’s reacting to Aurelius’s ring.”
+
+“Whoa…” Talon said. “That sword’s awesome!”
+
+Meriel moved beside me, taking a closer look.
+
+“Which implies that the sword does indeed react to Aurelius’s presence if it’s close enough,” she said. “But there’s still a chance it only reacts to his ring and not his soul.”
+
+I scanned the rest of them, including Talon. By the end of it all, nothing came up. The only reaction was the sword glowing brighter whenever it passed over their rings.
+
+“We should hurry over to the ones that had already left,” Kaelor said.
+
+“All of us?” I asked.
+
+He shook his head. “We’ll do the same as we planned initially. We haven’t guaranteed that your divine sword would detect him without fail. Meriel, Talon, and Tuna—stay with me. The rest of you should go.”
+
+With that, I headed away alongside Aeris and Reina. Since Aeris and I were the only two with wings, we had to figure out what to do with Reina.
+
+We went with the simplest solution: carrying her through the air. After putting our weapons away, I held onto one of Reina’s arms, while Aeris held onto the other, lifting her off of Tuna’s back.
+
+“This is kind of scary…” Reina said. “You guys won’t let go, right…?”
+
+I smirked. “Wanna bet?”
+
+I loosened my grip—not enough for her to slip through, but enough for her to yelp.
+
+“Allene, stop!” she cried.
+
+Aeris laughed. “That’s fun. Let me try that—”
+
+“Don’t you dare, you lizard!”
+
+She tilted her head. “Lizard? Now that’s an insult I’ve never heard of before. Can I let her go, darling?”
+
+“Absolutely not,” I said.
+
+We moved toward the islands, where the rest of our allies went. We didn’t know exactly where they had brought Gabriel’s body, so we’d have to look around for a while.
+
+As we flew through the air, Reina kept sneaking glances at Aeris and me. I ignored it at first, but for some reason, she just wouldn’t stop.
+
+“Reina?” I called. “What are you doing?”
+
+“Nothing.”
+
+“You keep looking at us funny.”
+
+Aeris laughed. “I know what it is. You’re jealous, aren’t you?”
+
+Reina shot her head toward her. “Jealous…? No I’m not!”
+
+“Don’t worry,” Aeris continued. “I’m willing to share my darling’s love with you as well. But at the end of the day, most of that love will be for me.”
+
+What the hell was she even talking about?
+
+“That’s… that’s not fair!” Reina cried. “I met Allene first! She’s my best friend!”
+
+“Best friend?” Aeris burst out into laughter. “That’s not what I’m talking about at all. Allene is my darling and my lover. I’m willing to do anything for her.”
+
+I opened my mouth, but Aeris reached across, putting a hand over it.
+
+“Hold on, darling. Let this puny human speak.”
+
+“Puny…?” Reina echoed.
+
+“Yes. Puny.”
+
+“You think you’re better than me just because you’re a dragon?”
+
+“Objectively speaking, yes. And I’m not really biased. I used to be a human before Aurelius put my soul into this body, remember?”
+
+Reina looked ahead. “That’s a good point. Wait no—that’s not the point! I don’t like how you’re talking to Allene!”
+
+“So you are jealous,” Aeris said.
+
+“I’m not!”
+
+“Yes you are. But listen, I’ll make a proposal for you. You can be Allene’s best friend all you want. I’ll even let you be her groomswoman on the day of our wedding.”
+
+I frowned. “Uh… can I say something about all of this?”
+
+“No!” they both shouted at the same time.
+
+[TROPE COMPLETED: THE SIMULTANEOUS “NO!”]
+
+[REWARD: Reina and Aeris will be unable to talk until the three of you land on an island.]
+
+Wow… thank goodness.
+
+“Mmmh! Mrghhh mhhh!” they tried.
+
+Looks like it worked like a charm.

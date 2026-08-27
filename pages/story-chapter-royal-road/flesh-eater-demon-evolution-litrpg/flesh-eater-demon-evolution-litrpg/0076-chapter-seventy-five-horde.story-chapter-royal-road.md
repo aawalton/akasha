@@ -1,0 +1,131 @@
+---
+id: 212cb153-179e-52dc-8775-9fd1a63b7704
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Five: Horde"
+slug: 0076-chapter-seventy-five-horde
+partOf: flesh-eater-demon-evolution-litrpg
+position: 76
+ownLength: 2137
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3198516/chapter-seventy-five-horde"
+royalRoadId: "3198516"
+---
+
+By the time Pyre was back outside the manor, more Empire forces had made it into the Bellhein grounds. Someone had expanded the hole, stripping away stone and widening the gap that creatures now streamed through. The entire eastern wall would probably be torn down within the next several minutes.
+
+The troops spilling out of the sanctum had split into two distinct streams. One mass made its way towards Magrath, where Pyre could see a row of guards had gathered behind a makeshift fortress of wooden planks and stone slabs. The garrison had also managed to gather itself, it seemed, and a squadron was hurrying over to aid the city guards.
+
+The second, smaller stream filtered through the broken wall to attack the manor. Considering its advantageous location, sitting between the sanctum, garrison, and the city, the Empire was probably hoping to take it over first to use as a stronghold.
+
+As Pyre studied the approaching monsters, she was vaguely aware of voices yelling and commands being shouted from the front of the manor. More guards and servants had gathered, and it looked like they were starting to come up with a proper plan to defend the place while they waited for support from the garrison. The demon didn’t pay them much attention. Her gaze remained focused on the monsters currently exiting the forest, now flooding the open grassy grounds.
+
+Bending her legs, Pyre shot forwards, boots pounding against the earth on a straight collision course with the approaching Empire invaders.
+
+The first monster that reached her was a hellhound. Jet black fur gleamed in the light, and glowing red eyes narrowed in on her as the other demon snarled and bore its fangs. It was nearly as tall as she was in her current form. It bounded forward, pouncing towards Pyre with its jaw wide open.
+
+The sloth fiend braced, raising an arm and converting it into solid bone a second before those razor-sharp teeth clamped around the limb.
+
+A dull thud rang out, teeth colliding with hardened bone. The hellhound made a whimpering noise, but before it could let go, Pyre’s other arm contorted. She converted muscle to fat, allowing the flesh to expand and break through the wound bandages like a strange, fleshy wing. The tip of the warped appendage quivered briefly before splitting open into a gaping maw.
+
+The teeth closed over the hellhound’s head before it could even think about escaping.
+
+[You have devoured (1) Hellhound Lvl 11][Experience earned!]
+
+[You have gained (1) [Scent Tracking] subtrait shard]
+
+The notifications flashed across Pyre’s vision, but at that point, her attention was already on the next wave of monsters approaching.
+
+Focusing, the surface of her skin rippled as she formed plates of bone armor all across her body. Based on the hellhound’s stats, she suspected most of the invading force was relatively low level, but there’d definitely be some harder hitters there. Best be prepared for anything.
+
+Movement flashed in the corner of her eye. Pyre ducked down, narrowly avoiding a swipe from a small, imp-like creature with long, curling nails. The thing shrieked, darting back to safety as a lumbering ogre reached the front lines next. It gripped a large, heavy wooden club in one hand that it now swung down on the demon.
+
+Pyre reached up and blocked it with her bone arm. Thud. She felt herself sink a little deeper into the earth from the impact, but she held her ground.
+
+Shoving the club aside, the sloth fiend lunged, extending her excess flesh and chomping down in the center of the creature’s chest where the thought the heart might be.
+
+[You have devoured (1) Forest Ogre Lvl 9][Experience earned!]
+
+Pyre snorted at the lack of subtrait shards. By now, the Bellhein grounds were growing crowded with invading troops, grasses covered in moving bodies. She heard another hellhound snarl and warped the flesh on her back without looking. The newly formed third mouth chomped down on the creature before it could even attack.
+
+A humanoid creature with rotting flesh swung a melting limb at the demon that bounced right off her bone armor. Concentrating, Pyre warped her bone arm next, sculpting it into that oddly familiar axe shape that she’d practiced with.
+
+The demon allowed those old, buried instincts to take over, swinging the blade in a clean arc that sliced straight through the monster’s torso. She wouldn’t get species experience since she hadn’t devoured it, but she didn’t feel like testing if she could eat undead creatures right now.
+
+Pyre clicked her tongue. Her other, fleshier appendage twisted around the arm of another vaguely humanoid, vaguely animal-like creature before it could attack. Muscles flexing, she squeezed and heard bones crack. With one great heave, she lifted the creature up and hurled it at an approaching wave with as much strength as she could.
+
+The body barrelled straight into the approaching monsters, knocking several flat to the ground before finally landing atop an imp with a wet-sounding splat. Now that more space had been opened up, Pyre surged forward.
+
+It soon became clear, between the sheer numbers, that the demon didn’t have time to devour every creature she came across. She had a maximum of three mouths she could grow, and they were slower than simply slicing and stabbing things to death. Her main goal was to clear a path to the sanctum, so she didn’t feel too bad about “wasting” experience. Most of these things were low level and had few subtrait shards anyway.
+
+Pyre maintained the bone-axe on her right arm, the other still spread out in a wing of flesh that she could easily warp and stretch. She could feel that her horns had popped out again at some point, but she did keep the rest of her body relatively humanoid in shape, save for the occasional warping and the bone armor. She hadn’t tested if her axe-fighting instincts would carry over to a different form yet, and she was quite happy with the mobility that having legs granted her.
+
+Ducking down, Pyre curled her back and let the excess flesh there quiver. When she could feel the monsters behind her closing in, she shot out a sea of bone spikes, spearing the creatures and halting them in place. More blood spilled onto the ground, the grass so thoroughly stained by now that it was hard to tell what color it was originally. She spun around and clamped her second mouth over an approaching hellhound, chewing rapidly and spitting out the fur.
+
+[You have devoured (1) Hellhound Lvl 10][Experience earned!]
+
+[You have gained (1) [Scent Tracking] subtrait shard]
+
+Something flashed in the corner of her vision—closer than the pillar of light still beaming out of the sanctum.
+
+The smell of the air turned acidic. Suddenly, a red orb of light was flying in Pyre’s direction. She yanked a nearby monster up and raised it in front of her, using it as a shield to block the blast. It released a piercing shriek followed by a gurgling noise, and she dropped its limp body to the ground. She remembered that spell.
+
+Grey eyes landed on the eastern wall. There. Trudging in front of more broken stone and debris, a creature that looked identical to the golems in the sanctum straightened to its full height. The red gem in its chest gleamed in the light, a bit of smoke rising from it.
+
+Pyre slammed her axe-arm down into a goblin’s skull, ignoring the spray of warm blood as she assessed the situation.
+
+At some point since she’d started fighting, garrison troops had arrived at the manor. She grew an eye on the back of her skull, allowing her to easily view the soldiers struggling to push back the horde. They were further back from her, closer to the manor building itself, and she could hear the clang of weapons and shouted orders even where she stood. It was a slow process, but it looked like they were managing to deal with the monsters, slowly but surely inching forward towards the sanctum.
+
+Pyre focused on that golem again, quickly coming to a conclusion.
+
+Best to deal with the bigger threats first.
+
+The demon was moving before the golem’s crystal could glow again. She shoved aside an ogre so hard that she heard bones crack, then raised her axe and swung it in a wide arch, decapitating three monsters in one motion. All the while, she kept pushing forward towards the approaching golem, occasionally jumping back or growing a bone shield when a new blast shot towards her.
+
+The moment she was close enough, Pyre shot a bone spike straight at the golem. It didn’t do much damage on its own, only nicking the side of one of the creature’s thick arms, but it did draw its attention. It reeled its arm back, readying a punch, but Pyre was already prepared for it.
+
+She surged forward, left arm already contorting, flesh thinning and stretching out until the mouth at its end could close around the glowing red crystal sitting in the golem’s chest.
+
+[You have devoured (1) Stone Golem Lvl 15][Experience earned!]
+
+[You have gained (1) [Far Sight] subtrait shard]
+
+[You have gained (1) [Immutable] subtrait shard]
+
+[You have gained (1) [Psychic Resistance] subtrait shard]
+
+[Required amount of [Psychic Resistance] subtrait shards collected][Apply subtrait shards to [Regeneration] trait?]
+
+Pyre yanked her arm back, teeth still crunching around the red stone, and jumped away before the golem’s collapsing body could land on her. Now that she knew what these things’ weakness was, they were quick to deal with.
+
+She barely had the chance to straighten before her back eye picked up on movement.
+
+Lightning quick, a jet black spear of energy collided straight into that eye before the demon could react.
+
+Pyre’s visioned narrowed back down to her front eyes, a brief stinging sensation bursting from the point of contact as the eye melted away into a grey sludge. The demon spun around to face the source of the attack, already growing a new eye to replace the destroyed one.
+
+There, just beside the destroyed eastern wall, was a human in the same billowing dark robes that the Empire mage had worn. Her palm was still glowing a dark, inky black. Pyre recognized her as the mage who had blasted the initial hole into the Bellhein manor’s wards.
+
+The demon’s eyes narrowed, assessing. She must be strong, if she was able to break through the wards so easily. If she was controlling any of the monsters with her magic, it would be fastest to take her down first.
+
+Decision made, Pyre sprinted towards the Empire mage. The woman jolted, an alarmed look crossing her face as the rapidly approaching demon sliced through a troll standing in the way like it was nothing. Her palm glowed again, but this time, the demon was prepared. She converted her fleshy left appendage to solid bone, extending it into a shield in front of her.
+
+The spell exploded against the bone shield. Pyre could feel the vibrations from the impact running down her limbs. The surface softened slightly, but the bone otherwise remained intact. For now.
+
+The mage cursed, fingers moving in a rapid series of gestures as she began casting a new spell. Not wanting to give her a chance to finish, Pyre shot out a bone spike aimed straight towards the woman’s head.
+
+At the last second, the bone crashed into something hard and invisible. Pyre thought she caught a faint shimmer in the air before it was gone again. Some kind of barrier?
+
+The mage’s palm flashed. Pyre dove to the side, barely dodging in time. She heard the spell crackling in her ears, felt the air shift as it whizzed past her.
+
+Instead, the spell landed smack dab into an ogre’s exposed back. Almost immediately, its skin began to melt off, falling to the earth in a thick, viscous slime. The monster let out a blood curdling scream, crumpling to the ground as the magic burned away its body. Pyre stabbed a nearby imp, eyes never leaving the mage.
+
+“You’re a demon.”
+
+The words sounded equal parts baffled and accusatory. Pyre couldn’t help but snort. Considering the Empire was working with demons and other monsters, the mage might’ve thought Pyre was on their side at first.
+
+“Yeah, I am.” Her voice was blunt, almost bored-sounding. She was closer now, the waves of monsters less dense here as more of them focused their attention on the manor and city. Pyre could feel the weight of her silver horns curling along her head, her warped flesh rippling as she approached.
+
+The mage frowned, a bit of wariness entering her gaze for the first time since she’d spotted the demon. She raised her arm.
+
+Pyre surged forward.

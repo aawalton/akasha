@@ -1,0 +1,121 @@
+---
+id: 73f6aa6d-4e21-58d1-ab45-4974d796f829
+page-type-slug: story-chapter-royal-road
+title: "Chapter 402: The Battlefront"
+slug: 0439-chapter-402-the-battlefront
+partOf: dungeon-of-knowledge-complete
+position: 439
+ownLength: 2446
+unit: words
+ownProgress: 2446
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2658250/chapter-402-the-battlefront"
+royalRoadId: "2658250"
+markedReadAt: "2026-06-29T20:26:55.329Z"
+---
+
+Ali stumbled as she appeared somewhere new, but it was not the disorientation of the teleportation spell that caused her to be unbalanced. Dense mana slammed into her like an ocean wave breaking over her head, pressing down and searing her lungs. Her ears and mana sight were assaulted on all sides by the roaring crash of battle on an unimaginable scale. The subtle holy pulse of restoration settled upon her as her acolyte reacted to the damage from the environment; she was much stronger now, but this felt just like the time she had descended into the cracked remains of the mana condenser to retrieve her first piece of magicite.
+
+“This is the minor battlefront in this outlying region,” Azryet said, turning his head to study something behind her.
+
+Ali turned to see what he was looking at, and her brain simply froze. Before her was a chasm – an immense crack in the underground realm as wide as a mountain and extending far beyond her ability to even perceive. Along its entire length, dense clouds of holy and void mana spilled out into the chasm, exploding and unraveling in an incredible display of chaotic and violent magical destruction. On the far side of the chasm, many kilometers distant, the same phenomenon manifested, only with hellfire and blood-affinity mana, each striving to fill and consume the space, and yet being unraveled in stupendous displays of explosive destruction as they annihilated each other continuously.
+
+Dungeon rage. Yet it was on a scale that staggered the imagination.
+
+Ali peered out of the tiny cavern, a mere pockmark on the immense wall on their side of the battlefield – and yet large enough to comfortably house Azryet himself.
+
+Filling the chasm were countless hordes of monsters. Demons fighting dragons as far as the eye could see. Lining the bottom of the chasm in heaps and mounds was an endless sea of bodies as the two god-tier dungeons threw their might at one another in a battle that must have raged for centuries.
+
+Ali’s mind shuddered as it grappled with the sheer magnitude of what she was witnessing, eventually latching onto anything, something specific, just to focus and stabilize her attention.
+
+“What… what is that?” she asked, pointing at a scaled, wingless monster that seemed to be lazily flying in the distance, surrounded by the dark specks of smaller demons. Without anything relatively normal to measure it against, she struggled to grasp its size, but it was definitely many times larger than Azryet. In fact, she was certain it was larger than the entirety of her old dungeon, more than a kilometer long with black scales and an enormous open maw filled with fangs and reality-warping shimmers of midnight blackness, simply scooping up demon imps as it flew by.
+
+“Dreadnought of the Void,” Azryet said. “A Leviathan. I made that with the last of my authority a few thousand years ago. Very expensive, but it has proved to be the best answer against some of the more powerful demons Destraggoth has created.”
+
+“Couldn’t you, you know, just have it bite the immune monster you want me to kill?” Ali asked, still stupefied by how something so large could even exist. Is it a dragon? It must be.
+
+“I can, but I must take it through his dungeon to the correct location. As you might imagine, a Dreadnought is not subtle. Destraggoth always reacts by sending matching reinforcements.” Azryet rumbled, somehow still easily heard and felt above the chaotic din of battle. “I can kill his immune monsters. Physical damage works just fine, but when he can use a first or second-tier monster to draw the resources of a Dreadnought, I am losing. He uses the distraction to attack me elsewhere, and he grows progressively stronger as I am forced to feed him more and more of my monsters to deal with his immunity. It’s a battle of attrition that I am slowly losing.”
+
+“But… assuming I can kill it, will it even matter?” Ali asked. One boss monster – and a relatively low-tier one at that – seemed like a drop of water against the ocean of combat before her. And, if Azryet was being honest with her, this wasn’t even a fraction of what was going on. “How big are you guys anyway?”
+
+“My domain covers about forty percent of this continent,” Azryet answered. “He has the rest. You are right, killing one monster will not make any difference in the power balance. However, he will know I possess a new tool, and that will make him far more cautious, allocating more resources to defense and allowing me breathing room to catch up in growth.”
+
+“I see.” And, surprisingly, she did. Even though the scale was mind-blowing, the principle was simple. He wanted to use her as a threat, a piece of psychological warfare to delay his opponent’s progress. “You don’t even need me to succeed, do you?”
+
+“No,” he answered. The giant eye turned to regard her carefully. “To be fair, while my request is not a suicide mission, I do not believe you will have good odds of winning. Even with your… unexpectedly powerful mana.”
+
+She met his gaze, surprised by his candor.
+
+“Do not misunderstand our relationship,” he said. “I will not force you to do this, but I am not overflowing with unconditional generosity like some other gods you may have met. I will not help you if you do not help me. But I believe in fairness, and I will keep my bargain should you succeed. What do you say? Will you do it?”
+
+Somehow, Ali felt her trust in the enormous dragon growing, even though he did not favor her chances of success. His blunt honesty about his motives fit with what she had learned of his personality, and she entirely trusted his commitment to fairness. Knowing that he was seeking an advantage that she was uniquely positioned to provide allowed for a kind of trust she wasn’t certain she could have found in the face of unexplained one-sided generosity. This would be hard, but it was a deal, not a favor.
+
+“Tell me more about this demon you want me to kill,” she said.
+
+Besides, she was of a mind to surprise him.
+
+“We have warriors incoming,” Calen said, calling out the incoming monsters. They had pushed quite a bit further into the ruins and were approaching the former market. While they had been beset on all sides by various plant monsters bursting out of the rotting jungle that sprouted from the shattered ruins of buildings, between the four of them, nothing had made it past their senses and surprised them so far.
+
+Mato shifted to Bear Form, triggering a sharp twist of pain from his parasitic mace and shield, as his eyes searched out the well-camouflaged sylvan monsters among the dark, twisted trees and heavy undergrowth choking the ruined remains of houses and shops. The weapons twisted along with his transformation, the bulwark incorporated into the thicker hide along his shoulders and forelegs, reinforcing his natural armor. The mace disappeared, to be found as extra weight and heft in his paws.
+
+At least this gear has fantastic enchantments. He could feel the impressive new strength already. The cost of progress coupled with stupidity.
+
+Angrily, he pushed the matter out of his thoughts. Time to fight.
+
+Warrior – Sylvan Dwarf / Plant – level 93 x2.Warrior – Sylvan Human / Plant – level 97.
+
+As soon as he made them out, he charged, ignoring the second pang of pain as he activated his ability. His void claws ripped broad gashes in the Fungal Creep underfoot, and he slammed his heavy body into the strange plant-humanoid hybrid monsters. The feral emotions, common among dungeon spawn, at least from the plants and beasts he could understand, trickled clearly to his mind as the sylvan monsters reacted to his presence. There would be no reasoning with them.
+
+He swiped his paw in a sweeping horizontal arc, letting his void-enhanced claws rip through the heavy bark skin and dark green leaves that sprouted from the two squat, heavyset Sylvan Dwarves. This time, the pain came only from his mace, but the unfamiliar weight in his attack spoke to the new power of his gear. Neither monster reacted to the damage of his strike in the slightest, answering his attack with heavy overhead blows of their massive, gnarled, and knotty mauls. He blocked the first, feeling the solid crack against his forepaw as his new bulwark bolstered his defenses, but the second came down with a crushing impact on the point of his left shoulder. He staggered under the unexpected weight of the maul, taking a double dose of damage from his parasitic shield for both block attempts, even though the second missed.
+
+He still felt embarrassed for being fooled by the cursed items, but the amount of damage he was suffering from his parasitic enchantments was not all that large. He regularly spent far more to power his Brutal Combat: Living Rend. Also, they didn’t seem to damage him with every activation all the time – only the ones that were appropriate to the item. Attack skills and their support skills triggered the mace multiple times, one for each skill and activation he applied. Blocking caused pain and damage from his shield. Of course, the ring kept hurting him continuously – it was not a triggered curse. Over time, it would cause a lot of damage because he used abilities continuously, but it was never a huge spike, so it would be manageable.
+
+Still, he had to withhold his Brutal Restoration unless he wanted to heal his enemies, relying entirely on Malika to keep him alive.
+
+The taller Sylvan Human at the back blurred into action, and Mato’s eyes widened as he suddenly registered that this monster had four arms, each wielding gleaming blades that flickered in the dim light. They were slender and curved, and somehow seemed to be made of dense wood, but they certainly were ridiculously sharp. He almost didn’t feel the blades as they sliced through his flank, leaving three wounds suddenly bleeding, and a strange sense of wrongness invading his body.
+
+You have been infected with Mutagenic Corruption.Infused with warped nature magic, your body struggles to heal.-10% to healing received.Corruption – Duration: 15 seconds. Count: 1
+
+Fuck. Mutagenic Corruption was incredibly nasty, as he had discovered when he fought the strange Mana Eater plant. Let it build for a little too long, and suddenly, not even your healer could save your life. For him, it was particularly frustrating because he could cure the corruption in his Tree Form, but he needed to be in Bear Form to tank.
+
+“Mutagenic Corruption,” he sent quickly to Malika, knowing she would understand, and he flexed his Rampant Growth, causing brambles and roots to erupt from the ground, coiling and twisting around the root-legs of these sylvan monsters, trying to slow them down and allow him time for the corruption to drop.
+
+The sylvan warrior shook off his roots with ease, unleashing another flurry of blows from the four wickedly sharp swords, and this time he blocked. He almost faltered in surprise as he easily blocked all four strikes, letting through far less damage than he was expecting. Is this the advantage of a shield? The parasitic items he was wearing increased his block chance, the amount of damage blocked, and gave him more armor along with much more strength, which again improved the amount of damage he could block. He might be taking damage from every activation of his skills, but the sheer amount of damage he was blocking had to be far outweighing the parasitic curse on his gear.
+
+He lashed out again, this time with knockback, bashing the sylvan blade wielder sprawling several yards backward, leaving it with a parting slap from battlemaster’s retaliation.
+
+“Mutagenic Corruption,” Malika echoed as she topped him up, letting the two archers know they had limited time to tank it.
+
+“Got it,” Calen said, and suddenly the air was filled with powerful arrows glowing with flame, lightning, and light magic as he and Lyeneru unleashed their power.
+
+He unleashed his swipe again, avoiding his Brutal Restoration skill, but spending a chunk of the health Malika had restored to tear great rends through their armor, while pushing more of his mana into the roots and brambles that grasped at them. The strange root-like legs seemed to slip through the grasp of his magic with relative ease, but he still kept at it; every little bit would be needed to avoid the Mutagenic Corruption. He threw his weight behind his next swipe again.
+
+A triple volley of fire and lightning enchanted arrows ripped past his ears with a deafening clap of thunder, piercing deeply into the three monsters, and suddenly, they were downing potions that appeared from nowhere.
+
+“They have storage rings,” Calen said, suddenly releasing his Righteous Fury.
+
+Mato roared furiously, his borrowed light magic damage suddenly surging with Calen’s mana going crazy, but the power increase from Calen’s arrows dwarfed anything he could do. Arrows rained down in a relentless torrent, delivering explosive detonations of light and flame as Malika’s healing burned through his body in response to the devastating power unleashed around them.
+
+But it all washed over him, vanishing into his giant health pool, supported by Malika’s timely healing. He glanced at her, marveling at the serenity of her expression. She seemed utterly unstressed, focusing on her martial arts, punching and kicking without pause, relying on her overheal pulses to keep him topped up. With more than thirteen-and-a-half thousand health, he had more than enough to take the excess from his floating sage whenever it got too close to the detonating magic.
+
+Your group has defeated Warrior – Sylvan Dwarf / Plant – level 93 x2.Your group has defeated Warrior – Sylvan Human / Plant – level 97.
+
+Down they go. He shifted back to normal, studying the three collapsed monsters in front of him. They were wearing dark bands of wood on their fingers – presumably the rings with the storage enchantments – and the mauls and swords lay beside them, still attached to their arms even in death.
+
+But he had learned his lesson well enough, so he let Malika inspect the items.
+
+“Sword’s cursed… this one too.” Malika said, sorting through the gear. “Shields also. No good. Perhaps one of the crafters can adjust them?”
+
+“Maybe,” Calen nodded. “Good idea.”
+
+“At least we’re making progress,” Mato said, hefting his mace and glancing at Calen. “Which way?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

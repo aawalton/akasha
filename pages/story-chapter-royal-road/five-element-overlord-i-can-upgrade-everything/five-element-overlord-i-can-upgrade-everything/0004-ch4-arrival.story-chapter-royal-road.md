@@ -1,0 +1,117 @@
+---
+id: 6b663e4d-2fa6-5528-9aef-ed21827dcffa
+page-type-slug: story-chapter-royal-road
+title: "Ch4 Arrival"
+slug: 0004-ch4-arrival
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 4
+ownLength: 1210
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211537/ch4-arrival"
+royalRoadId: "3211537"
+---
+
+Two full days pass.
+
+The farming village I grew up in as a slave is left far behind, and this flying boat travels hundreds of kilometers an hour through vast areas of open plains, heavy forests, even past cities with large stone walls around them. This whole world looks like ancient China, at least, from the little I've read in history books.
+
+Gu Shan doesn't keep us from looking over the edge. In fact, he pretty much ignores us. There is some kind of invisible force keeping the fast moving air from flowing in.
+
+The old cultivator only stops every hour or so above small towns and villages.
+
+The majority are peaceful encounters. He floats down into the center of each village and demands to test the spiritual roots of every child between 10 and 17.
+
+Some families are even gifted large ingots of silver in exchange for their children.
+
+Out of the few dozen stops, only one other is being raided by bandits. The attack is far less violent, no homes are being burned. However, Gu Shan floats down and slaughters all the attackers with ease before testing the kids of this village.
+
+There are plenty of villages where not a single child has spiritual roots.
+
+Only seven more are added to our group, all trembling and confused like the rest of us.
+
+Night and day pass by twice, bread and water are provided sporadically, but no explanations are given.
+
+It becomes clear the end of our journey is near once over 10 hours of straight flying through a mountainous region without stopping comes to a slow halt.
+
+The distance we've traveled is absurd. I try to mentally keep track of it, yet if my guess is correct, we've already covered the distance of traveling around the entire Earth three times. It makes no sense at all.
+
+Then again, humans flying on swords and elixirs that can heal all physical injuries in an instant do not add up to the beliefs I had in my past world either.
+
+We descend down into a valley between two small mountain peaks.
+
+There seems to be a very large crowd of people standing down where we're headed, and three other massive wooden ships parked beside them.
+
+We hit the ground with a light thud, and the square-jawed cultivator guides us all down to stand alongside the rest of the crowd.
+
+Some kids have small backpacks, others have knives or half-eaten loaves of bread. Some even have bows and arrows on their back similar to mine.
+
+There's over a hundred of us, and stood up on a raised platform are a dozen men wearing grey robes with the character for 'Steward' on their chests.
+
+Gu Shan hands over the green jade tablet he collected our information on to one of the Stewards, then leaves the main gathering, joining a group of other men in matching green robes far away.
+
+The next few minutes pass by in a blur.
+
+Grey-robed men step forward, pointing to the crowd of kids one by one, and taking them away.
+
+A wrinkled, and sun-tanned old man with a scruffy mustache chooses me and half a dozen others.
+
+We're all led off down a mountain trail in silence until we reach what looks like a campsite. There are thatched huts built in areas of cleared-out forest about half a kilometer apart.
+
+Each kid is dropped off at each hut and given a small bag.
+
+I'm the last in line. I only overhear the conversation going on once the second to last is dropped off at his hut, a frail blond kid that can't be more than 12 years old.
+
+The old man hits him across the face, and the kid curls up in a ball, crying.
+
+"Get used to it! You're here now, so you better earn your keep!"
+
+The steward sounds mad, but there is a sadistic smile on his face. He's enjoying himself and isn't trying to hide it.
+
+He's already walked off on the dirt path toward the last hut.
+
+"Come on! Hurry up Li Hao, I don't have all day!"
+
+I glance at the crying kid, then hurry on after the old man without another sound, arriving in front of the last hut just out of sight in the woods a few moments later.
+
+"Here's your food rations, five spirit fragments, and basic cultivation technique provided by the sect. For water, go drink from the stream out back."
+
+He tosses me the same bag he gave everyone else.
+
+Then, he points to a large metal bin that looks like a small dumpster behind the back of this hut. There's an axe lying up against it, and a single small piece of firewood perfectly chopped about the size of a brick.
+
+"Your new life is going to consist of chopping down trees in this forest one by one, and filling that bin up to the brim every day with perfect-sized wood blocks before sunset."
+
+My eyes widen, and his sadistic grin comes back, slapping me across the face just like he did the kid before me.
+
+The impact feels like a metal baseball bat just slammed into me at full force, throwing me to the ground.
+
+Before I can even cry out in pain, golden text shimmers in my eyes.
+
+[Automatic Inspect Function Activated...][Zhou Kang] [Age: 65][2nd Level Qi Refiner][Water, Earth, Metal, Wood, Fire Spiritual Roots] [9th Grade][No Innate Physique][Frequently steals Inferior Quality elixirs from the Outer Sect Alchemy Peak.]
+
+My eyes widen as I listen to the notifications in my head in a daze.
+
+Yet, I still stand up and give a polite bow.
+
+"Understood, Senior. It will be done."
+
+His smile grows even more.
+
+"Good. You can call me Senior Zhou. You're much smarter than that Tang Min, you know your place. Get to work. The first filled bin is due tomorrow. You'll be rewarded for your efforts."
+
+He laughs to himself while turning and walking alone down the dirt path away from my hut.
+
+I wait long enough to be certain he can't see me before letting my polite smile turn into pure anger and hatred.
+
+I've worked under plenty of unreasonable bosses and managers before, but this is going to be the task with the most obstacles and worst working conditions so far. Having my home village raided, then being trafficked as a slave off to a sect filled with immortals, is not the perfect fresh start in a new world I would have desired.
+
+Though, at least I've finally found some stability. I can work my way out of this mess from here.
+
+I grit my teeth and pull the small cloth bag with me while I enter the hut I've been given.
+
+It's dimly lit by the light of day shining in through the windows, that is it. There is a thin wire-framed bed, a stool, a brass mirror on the wall, and a simple wooden chest open and empty.
+
+I drop my bow, arrows, and rations onto the ground and let out a long sigh while looking in the mirror.
+
+The fair skin, short black hair, and equally dark eyes stare back at me as I truly take in the sight of my new body in this strange world.

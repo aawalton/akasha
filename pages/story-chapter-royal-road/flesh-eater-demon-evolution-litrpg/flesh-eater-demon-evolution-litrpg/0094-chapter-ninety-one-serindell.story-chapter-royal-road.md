@@ -1,0 +1,191 @@
+---
+id: 9a6b1199-4871-5124-b9e6-316c74ece33c
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-One: Serindell"
+slug: 0094-chapter-ninety-one-serindell
+partOf: flesh-eater-demon-evolution-litrpg
+position: 94
+ownLength: 2932
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3511468/chapter-ninety-one-serindell"
+royalRoadId: "3511468"
+---
+
+The wagon drove away, wheels squeaking as it continued down the road towards another one of the city entrances to drop off the merchant’s wares. The family had departed with a nod before hurrying down the bustling street, apparently here to visit family.
+
+The thought of the driver and merchant now alone in the wagon might’ve brought Pyre some amusement, but she was still staring at the dead titan. Daphne and Callan didn’t seem to be faring much better on that front.
+
+The clop of horse hooves sounded as another carriage pulled up to the entrance. There’d been a steady stream of people coming in and out of the gates, which consisted of an engraved white stone archway (there were definitely wards on that thing) with metal doors currently hanging wide open. They should probably start moving soon, especially since they were getting some curious looks.
+
+“Guess that’s an angel, then,” the demon said conversationally. She forced her eyes away, but that weird feeling in her chest didn’t go away. She ignored it. “How many beams you think they’ve got holding that thing up?”
+
+The mention of construction logistics successfully triggered Callan’s fact-loving brain. “A lot,” he muttered. “There’s an entire frame holding the body up, and every beam has magic wards engraved on them. There’s supposed to be smaller pipes inserted under the skin, too, to control the draining of ichor. I’ve read about it before, but seeing it…” His voice trailed, and he shifted. “I mean, it’s uncanny how alive it looks.”
+
+“Definitely different standing than lying down,” Pyre noted. Daphne turned to her at that, eyes sharpening.
+
+“You’ve seen a titan before?” The curiosity in her voice was obvious.
+
+The demon and ghost exchanged a glance. Streams of people were still moving past them, but Pyre could see a guard glancing their way now.
+
+“Let’s go in first,” she said. “We can chat while we walk.”
+
+The inside of the city was somehow even more crowded than it appeared from the outside. The uneven ground resulted in sharp elevation changes, and curved, winding paths snaked between the buildings. The lighter-colored stones favored by Serindell’s architects reflected the bright sunlight, casting the whole area in a hazy sort of glow.
+
+Since Serindell was a port city, there were a lot of travelers around. The traditional clothing of Galen was noticeably lighter than the stuff worn in Auren or Ravarn, consisting of airier fabrics and looser fits. The home residents of the city, however, only made up part of the population. Pyre spotted tons of people wearing northern-style clothing and other fashions from different parts of the continent.
+
+Because of this, once they started walking, they didn’t actually stick out that much. Pyre even spotted a few people who were around her height. People still looked, of course, but it was in more of a “huh, that person is really tall” way than an actively suspicious one.
+
+“Maybe it was a delayed spell,” Daphne was saying as they made their way down the winding street. The smell of salt was strong in the air, and if Pyre focused, she could hear the ocean waves crashing in the distance. “I mean, it sounds crazy, but the titans should’ve been able to pull something like that off. They were called living gods for a reason.”
+
+“I think so too,” Callan said. He’d returned to a fully-solid form after realizing that it was much too crowded to get away with staying incorporeal. According to him, the amount of time he could stay solid was quite a bit longer now anyway, so it wasn’t a huge loss. “I just can’t figure out why the spell would suddenly stop working now.”
+
+“It could’ve worn off,” Daphne suggested. “Or, you said there was a hole in the cavern, right? Maybe someone broke in and messed with the preservation spell.”
+
+“Yeah, but who’s strong enough to break through titan magic? And why would they break through the ward just to leave the body?”
+
+The two mages had been going back and forth on this for a while now. After explaining the whole “reincarnated as a flesh lump in an ancient demon’s stomach” situation, Daphne had immediately jumped to theorizing after her initial shock had worn off. Thankfully, the constant chatter around them meant no one paid attention to their conversation.
+
+The noble sighed, brushing her hair back. The fiery curls had gotten noticeably more frizzy in the humidity. “I wish I could’ve seen it,” she murmured. “It’d be easier to talk about.”
+
+“If we ever go back to Ravarn, I’ll take you to see Fred,” Pyre said breezily. She dodged past a fruit stand, shoulders knocking into a passerby, who she waved casually at when they yelled at her in annoyance.
+
+“I still can’t believe you named the titan Fred,” Callan muttered.
+
+“What? It’s a great name.”
+
+The ghost gave her a thoroughly unimpressed look. Daphne laughed.
+
+“Where’s this healer guy supposed to be, anyway?” Pyre asked, glancing around. Considering just how many people were jam-packed into the city, finding this dude without directions would be a pain.
+
+Callan’s shoulders slumped. “I don’t know,” he admitted. “The rumors just said he was in Serindell, nothing else.”
+
+“We can ask around,” Daphne suggested. “If he’s a big enough deal for you to have heard about him in Magrath, then the people here probably know where he lives, right?”
+
+That did make sense, though it would also make them more memorable should they go through with the kidnap-the-healer plan.
+
+Eh, they’d figure it out. They probably wouldn’t be the only ones asking about the guy, anyway. They could always blame it on another patient, and they still needed to verify that he was actually as skilled as the rumors said first.
+
+Callan frowned. “Should we just stop someone on the street?” He sounded nervous at the prospect.
+
+Daphne snorted. “No, silly. We’ll ask in there. Two birds with one stone.” She pointed at something, and Pyre followed the line of her finger to a shop across the street. It was nestled between two other buildings, not as tiny as some of the other storefronts they’d passed, but not huge either. The demon raised an eyebrow.
+
+“You really need more stuff?”
+
+“Class crystals,” Daphne said bluntly. She raised an eyebrow. “We’ll all need them at some point. It doesn’t hurt to stock up while we’re in a city.”
+
+That was a good point. Pyre still had one evolution crystal left from the chimera, but 0 class crystals. It didn’t hurt to buy some more, lest they end up needing them while they were in the middle of a desert or something.
+
+Decision made, the trio wove through the crowd towards the store, Pyre leading the way. It paid to have height and broad shoulders when you were trying to get through a bunch of people.
+
+They soon reached the door, and a glance through the large glass window revealed that it was some sort of general store that was a lot bigger than it looked from the outside. The demon grabbed the handle and swung it open.
+
+The moment they stepped indoors, the constant dull roar of the crowded street disappeared. Instead, it was replaced with quieter, more isolated chatter as various customers strolled about the store, chatting casually or asking questions to the employees. It looked like this was mostly a local store, with the customers primarily being from the city. A few curious glances landed on them, but there was no outright malice or hostility.
+
+Pyre casually scanned the interior. A few different sections had been laid out for various wares. Clothing racks sat in one corner, tables of dried goods lined the left side, and shelves filled with books stood tall in the back. Callan’s eyes immediately moved to them, much to the demon’s amusement. All that time in the Magrath library hadn’t been enough, apparently.
+
+Daphne strode forward confidently, making her way towards the counter in the back of the room without a shred of hesitation. There was already someone there, chatting and waving his arms at the storeowner, who looked exasperated. The trio settled behind the customer and waited for him to finish.
+
+“—telling you, it was bubbling! Bubbling! Like a damn pot of soup!”
+
+“Lots of wind on the coast,” the shopkeeper said wryly. She was an older woman with graying hair and a no-nonsense expression. Based on the way she was talking to the current customer, she was already deeply familiar with his antics.
+
+“The wind don’t make bubbles like that,” the man insisted. A few shelves down, another customer snorted. “I’ve been fishing in that ocean since I could walk! You think I don’t know what waves look like?”
+
+As they continued to talk, Pyre’s eyes wandered to a stack of newspapers lying on the table beside her. She picked one up, quickly scanning the headline.
+
+LOCAL FISHERMAN REPORTED MISSING, it read. Just below the title was a picture of the man in question. Middle-aged, dark-haired, and unassuming.
+
+When she flipped to the second half of the article, she found an entire grid of photos taking up the third page. According to the caption, all of the people pictured had been reported missing in the past month.
+
+Her eyebrows rose. Huh. Those rumors the wagon driver was talking about seemed to have some substance, after all.
+
+“ —got customers waiting,” the shopkeeper was saying. Pyre put the newspaper back down and looked over to see the woman waving the man away. “If you don’t have something to buy, get out of line.”
+
+The man frowned, but he did step aside—even if he was grumbling under his breath while he did so. The storeowner shook her head, then visibly smoothed her expression and turned to face them.
+
+“How can I help you?” she asked.
+
+“We’d like to purchase five class crystals, please,” Daphne said with an amicable smile. The shopkeeper’s eyebrows rose slightly while Callan muttered something about “rich nobles” under his breath.
+
+“I can do that. Just give me one second.” She turned and ducked below a curtain to the back of the store. Pyre heard some rummaging, and soon, the woman returned with five boxes in hand. They looked remarkably similar to the ones the demon had purchased in Winrow. She guessed it was standard class crystal packaging.
+
+The shopkeeper listed a price that made Callan’s eyes bug out, but Daphne didn’t even react as she reached for her coin purse. Pyre vaguely wondered just how much money she’d taken on her way out of the manor.
+
+Eh. The Bellheins could probably afford it.
+
+“You folks traveling? I don’t get a lot of travelers stopping by my store,” the storeowner said as she began placing the class crystals into a bag. Daphne saw the opportunity and jumped on it.
+
+“We are,” she said. “Actually, we’re looking for someone.” She turned expectantly to Callan, who cleared his throat.
+
+“We heard about a healer who lives here. A really powerful one.” He shifted his weight nervously. “We were wondering if you knew where to find him. We could really use his help,” he added, completely earnest.
+
+Almost immediately, the shopkeeper’s eyes sharpened.
+
+“Llyr? You’re talking about Llyr?” She leaned closer over the counter. “You heard about him? Where?”
+
+The second she said the name, practically every eye in the store snapped towards them. The quiet conversations died down, and a new silence hung heavily over the building. No one seemed actively hostile yet, but there was a clear protective aura around them.
+
+“Uh, Magrath.” Callan glanced around nervously, clearly taken aback by the sudden shift in tone. “In Auren,” he added helpfully.
+
+The shopkeeper cursed. She rubbed her forehead and groaned. “They’re talking about him up in Auren?”
+
+“Is that… bad?”
+
+The woman frowned down at the ghost, but her gaze softened slightly. It was pretty hard to stay mad at Callan when he looked like a kicked puppy. If he and Daphne hadn’t been here and Pyre had entered the store by herself, there’d probably be weapons drawn the second she mentioned the healer—Llyr, apparently.
+
+“Not bad, per se,” the shopkeeper said, though she was still frowning. “There’s just been a lot of people bothering him lately. Trying to get him to work for them, acting rude, harassing him…” Her voice trailed, eyes darkening a little as she undoubtedly thought about all the incidents that had occurred.
+
+“So he’s genuine, then?” Something like hope was starting to creep into Daphne’s voice, but the noble remained carefully cautious. “We weren’t sure if the rumors were exaggerating.”
+
+“Oh, he’s the real deal alright.” The woman gestured behind her, a fond look entering her gaze for the first time since they’d started speaking. “Back when my daughter caught Sea Fever, none of the local healers could do anything. I couldn’t afford the ones in the Inner Ring,” she murmured, eyes clouding with memories. “If not for Llyr, she wouldn’t have survived. And he didn’t charge me a single coin.”
+
+Her gaze hardened again, dark eyes moving between the three of them. They lingered particularly long on Pyre.
+
+“If you’re really sick or hurt, he’ll help you,” she said lowly. “But I’m warning you. Don’t you dare even think of messing with him. Damn near half the Outer Ring owes him their life, and I’d wager a good chunk of the Inner Ring, too. Llyr’s too nice for his own good, but that doesn’t mean the rest of us are.”
+
+The shopkeeper was staring directly at Pyre now, the threat clear in her voice. The demon met her gaze evenly.
+
+“We’ll keep that in mind.”
+
+The area near the eastern gate was noticeably quieter than the rest of the city.
+
+Serindell was structured into two distinct sectors. The nobility lived in the taller buildings in the center while the outer perimeter held everyone else. The area by the main gate was one of the wealthier parts of the Outer Ring, so it was quite busy, but the same couldn’t be said for everywhere else.
+
+The group made their way past short wooden huts scattered about the city outskirts. This area lay just outside the bounds of the titan’s curling wings, literally and figuratively cutting it off from the more affluent parts. Significantly less people traveled along the road here, and a lot more eyes followed them as they moved.
+
+They ignored the gazes and proceeded through the eastern gate, exiting Serindell proper and instead making their way towards the coastline. According to the shopkeeper, Llyr lived somewhere on the shore just outside of the city.
+
+Pyre scanned the coast, eyes falling on the vast ocean beyond. The smell of salt was at its strongest here, and the wind danced along the jagged rocks. The ground sloped downwards, soft grasses giving way to boulders and sand. She turned, but she didn’t see any buildings. The uneven ground and bluffs made it hard to see everything, though.
+
+“Think that shopkeeper lied?” the demon said, squinting under the sunlight. It wouldn’t surprise her. The woman had been very reluctant to tell them the healer’s location, after all.
+
+“Maybe.” Callan looked hesitant.
+
+Slowly, the ghost descended closer to the water. He’d slipped back into his solid-color incorporeal form again, allowing him to float past the rocks and boulders. Pyre and Daphne had to be a lot more careful navigating past them. Their surfaces were still wet and slippery.
+
+“I feel like we’re doing something wrong,” the ghost muttered. It wasn’t the first time he’d said something similar since they’d exited the store with the class crystals in tow.
+
+“Technically we are patients,” Pyre drawled. She glanced at Daphne. “Or, one of us is. We’ll be fine, kid.”
+
+The demon hopped down from a particularly large boulder, landing on the soft strip of sand sloping down to kiss the waves. The ocean spray added a pleasant coolness to the otherwise hot day.
+
+She paused for a moment just to breathe in the crisp air. From here, she could see the city port further south, the ships at the docks dark silhouettes against the clear blue sky.
+
+“It’s beautiful here,” Daphne murmured, her own eyes fixed on the sparkling waters. One of her hands drifted close to her chest before dropping down again. She’d avoided explicitly mentioning her ichor poisoning since learning about the healer, as if she was scared to get her hopes up.
+
+“Still no houses, though,” Callan said. His brows furrowed. “Maybe she really did lie.”
+
+Below them, the vibrations shifted slightly.
+
+It was faint—the loose sand made it significantly more difficult to pick up on differences. Still, Pyre immediately spun around. Daphne and Callan quickly followed suit.
+
+There, several feet away, a man stood at the water’s edge. He was dressed in plain, flowing robes that covered most of his body, and his arms were wrapped around a basket filled with various plants and herbs.
+
+His hair was so black that it appeared blue in the light. It was short in the front, wavy bangs falling into his eyes, and long in the back. Dark strands billowed like rippling water in the wind behind him.
+
+Pyre spotted two glassy teardrop-shaped earrings swaying slightly, the sole bits of ornamentation to his otherwise simple attire. They were the same clear blue shade as his eyes, which were now watching the three of them with mild curiosity.
+
+The man smiled when he noticed them staring. He tilted his head. His voice was soft, serene, and perfectly calm.
+
+“Are you looking for me?”

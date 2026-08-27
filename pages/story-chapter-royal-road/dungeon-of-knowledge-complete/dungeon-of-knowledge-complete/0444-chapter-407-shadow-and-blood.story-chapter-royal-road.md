@@ -1,0 +1,253 @@
+---
+id: 1664ba04-4f0f-5d7d-aacf-d43cd329a797
+page-type-slug: story-chapter-royal-road
+title: "Chapter 407: Shadow and Blood"
+slug: 0444-chapter-407-shadow-and-blood
+partOf: dungeon-of-knowledge-complete
+position: 444
+ownLength: 4342
+unit: words
+ownProgress: 4342
+publishedAt: 2025-10-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2670674/chapter-407-shadow-and-blood"
+royalRoadId: "2670674"
+markedReadAt: "2026-06-29T20:27:10.973Z"
+---
+
+“I’ll get dinner ready,” Mato said, walking over to the campfire and summoning his pots from his storage ring.
+
+“And how, exactly, are you going to do that?” Calen asked, just as the pot materialized in front of him and the stupid mace got in the way, knocking it right out of his hands. Everyone stared as the pot clanged against the ground.
+
+“Ugh, this is stupid.” He stared morosely at the pot on the ground, knocking it out of reach with the mace or the shield, and trying in vain to collect it.
+
+“So, cursed items,” Lyeneru said.
+
+“I see,” Vivian answered. “I’ll let the guild know to bring items back for proper appraisal before equipping them.”
+
+“You might want to let Commander Brand know, just in case,” Malika added.
+
+Mato finally managed to get his left hand on the handle of the pot and stood triumphant in the pose of a mighty conqueror. His wry smile spoiled it, however.
+
+“I’ll get Tabitha after we finish debriefing,” Calen said, and Mato’s face fell.
+
+It was not his friend’s betrayal that hurt – he even understood – they all were hungry, and he was stuck with a stupid weapon and shield glued to his arms. But he loved cooking, and it was embarrassing to have to rely on someone else to feed him.
+
+Wait, I hope I can use a fork? Or this stupid shield for a food shovel? “Wait… Malika! Can you cut my arm off and heal it back?”
+
+“That might free you of the weapon, but it’s unlikely to remove the curse,” Lyeneru interjected, puncturing his brilliant plan. “You’d still be taking damage.”
+
+“Might be worth it,” he muttered, cringing at the indignity of asking one of his friends to feed him if he couldn’t figure out how to wield a spoon.
+
+“What about the dungeon itself?” Vivian asked.
+
+“We encountered three main variants of the Sylvan humanoids: archers, warriors, and druids,” Lyeneru said. “The archers seem to be the most dangerous; they have two strong disengage skills and can use Ambush multiple times per fight. The druids are shapeshifters. They can summon monsters and have strong heals. The warriors can inflict Mutagenic Corruption, so they have to be killed quickly, or rotated off the tanks.”
+
+“The dungeon also has an accelerated respawn time,” Calen said. “About fifteen minutes for normal monsters.”
+
+“Don’t forget to tell her about the Creep Spawners,” Mato said, sitting down grumpily, not quite knowing what to do with his hands.
+
+“Creep Spawners?” Vivian asked, an eyebrow arching.
+
+“Oh, yes. The creep creates spawning pods, and they spawn several of the more common dungeon mobs every few minutes. They’re the reason the dungeon is in a continual dungeon break. They can probably be killed, but I think the dungeon will just respawn them again in fifteen minutes,” Calen explained. “They identify as monsters.”
+
+“We would need more people to defeat the raid boss in the marketplace, but we probably can’t afford to take them off guard duty,” Lyeneru continued. “I recommend we try entering from a different entrance tomorrow – maybe the sewer or the forest cavern – and explore further.”
+
+“That sounds reasonable,” Vivian said. “And Mato, I’ll show you where the crafters have set up. You can ask them for some wisdom gear tomorrow when they wake up.”
+
+“Thanks,” he said with a frown. He was going to have to endure the embarrassment of asking Thuli to make him some pure wisdom plate or something, and who knew if it would even be enough.
+
+“Also, check your regeneration before you go to sleep with that ring on. Malika has been healing you every few minutes,” Vivian said before getting up to leave.
+
+“Aah…” Shit. He hadn’t even considered that. The ring did twelve damage per second to him continually, and with his resistance, he could see himself taking only ten damage per second. It was a little better in Bear Form because his evolved Elemental Shapeshifter forms granted a nice bonus to resistance. He pulled up his status sheet, frowning as he tried to work out the numbers.
+
+“Need a hand?” Calen asked, getting a snicker from Malika.
+
+Mato frowned at the joke but shared his numbers anyway. Math was not his strong suit, certainly not quickly.
+
+Health RegenerationPercentage of maximum health regenerated per hour.+190.6% Sanctuary.Total: +190.6%
+
+Health: 4893/7082
+
+“That’s three-point-seven health per second,” Calen said, after a pause of just a couple of seconds. “Perhaps try your Bear Form?”
+
+Mato obliged, swapping to his Bear Form and sharing the numbers a second time. It was complicated to work out without shifting, mainly because Natural Prowess shifted which attributes it enhanced based on his form, and while Bear Form had a whole lot more health, his wisdom had actually dropped.
+
+Health RegenerationPercentage of maximum health regenerated per hour.+169.3% Sanctuary.Total: +169.3%
+
+Health: 9996/14538
+
+“Six-point-eight and change,” Calen said, pursing his lips.
+
+“So, I need healing all night, or some more resistance gear?” Mato asked. The prospect of dying in his sleep to the parasitic ring he couldn’t remove was moderately terrifying – and worse, extremely embarrassing.
+
+“Looks like it,” Calen said.
+
+“I don’t mind,” Malika said suddenly. “I can just meditate nearby.”
+
+“Wait, let me try Tree Form first,” Mato said. “Arboreal Sanctuary gets a big bonus to regeneration in that form.”
+
+Health RegenerationPercentage of maximum health regenerated per hour.+325.6% Sanctuary.+500% Tree Form.Total: +825.6%
+
+Health: 25637/36765
+
+“Seriously? You have thirty-six thousand health?” Malika exclaimed in surprise.
+
+“Yes,” he sent. Normally, he didn’t use his Tree Form much, but lately he had been sleeping in it every night to cleanse the corruption that kept seeping through. Hearing Malika’s surprise was at least a little soothing to his bruised ego.
+
+“That’s a winner,” Calen said. “Eighty-four-point-three health per second. Mato, you’re officially a beast.”
+
+“Thanks,” Mato said, shifting back from his tree form. At least he wouldn’t have to sleep with the indignity of relying on Malika to keep him alive.
+
+As if on cue, Calen got up. “I’ll go see if Tabitha has any food left over.”
+
+Mato grumbled. Food would be very welcome after a long evening of fighting through creep and Sylvan monsters, although technically it might be possible for him to survive just on mana like Lira had done, provided he spent enough time in his Tree Form. Still, the fact that he couldn’t cook made him sad.
+
+Ali struggled onward, enduring the uncomfortable heat of the strange hellfire-affinity plants that hung off the walls and the stench of the blood that dripped and leaked into the passages, seemingly emanating from everywhere and forming warm, dark puddles and rivulets in the deepening darkness. Azryet’s kobold scout continued picking out what were presumably the optimal paths without hesitation from the myriad turns and twisting caverns and tunnels, but Ali was well and truly lost.
+
+It was not just that she was lost. As they crept deeper into the dungeon’s maze-like tunnels, the domain grew denser, pressing down on her like a smothering blanket of pea soup, and the shadows grew deeper and darker. She knew she had to keep alert but the exhaustion and constant need for hyper-alertness made her thoughts feel like sludge, as if her physical stumbling was a manifestation of her frayed mental state. Initially, it was just harder to see behind boulders and into alcoves, but now the shadows seemed thick enough to cut, reaching ominously out into the passageway as if to clutch at her.
+
+She kept a constant connection with all her minions, relying more and more on their diverse perception skills as her eyes grew progressively more worthless in the deepening shadows. She followed her vanguard out into a broader cavern, but without her Devouring Consumption and her Sacred Ooze, she would never have known how large it was because she simply couldn’t see all the way to the edges. That was how dense the shadows were. She was beginning to suspect they were not of natural origin.
+
+A strange ripple flickered through the shadows, and her chime sounded as the magic prickled against her skin.
+
+You have been cursed with Vampiric Hex+31 Blood damage per second.+25% vulnerability to bleeding.Attackers gain health on hit.Duration refreshed on hit with Blood damage.Curse – Duration: 30 seconds.You have been cursed with BlindnessYou cannot see.Curse – Duration: 2 minutes.
+
+What little Ali could see of the cavern plunged into pitch darkness as she was hit with two simultaneous curses.
+
+Shit, something is in here! How she had missed it, she didn’t know, but she frantically scanned all her available senses while she surrounded herself with a preemptive bubble of barrier magic. Her Oozes couldn’t feel any vibrations, and her blood-affinity minions were almost worthless, being assaulted with an overwhelming sensory overload from the rivers of blood that flowed through the shadow-shrouded chamber.
+
+There! Ali suddenly saw dark tendrils of mana rapidly forming into shapes. Shadow magic! A volley of six perfectly silent shadow bolts flew out in all directions, followed immediately by another volley and then another, spreading out through the cavern and striking her minions.
+
+“Attack!” Ali called out, directing her minions to where she had seen the mana formations, quickly checking in with her mages to see if they had seen it, too.
+
+Her monsters charged forward blindly, and the formations of mana flickered again. Teleport… and… Is that Blood Siphon?
+
+She struggled to pinpoint the monster, but moments later, her Devouring Consumption struck something solid, and she caught it through the Ooze’s sensitive sense of vibration.
+
+Sentinel – Demon – level ??? (Shadow / Blood).
+
+An Eye of Agnor! She couldn’t exactly count the eyes this time, but it had to be. This one, however, was an entirely different beast. Somehow, it was filling the whole chamber with a cloying shroud of shadow magic, and with its Blindness curse, half her minions couldn’t see a thing. The eye demon may as well have been invisible to her and her entire minion army, and if it wasn’t for mana sight and the constant stream of shadow bolts and teleportation magic, Ali might have waltzed right into its hungry maw.
+
+But the bigger problem was – most of her minions couldn’t see whatever it was that had just been summoned into the room either.
+
+Did it summon stealthed demons? Are they invisible?
+
+But the cackle and detonation of fresh hellfire fireballs, and the familiar howls of wargs, told her it wasn’t just teleporting in Abyssal Stalkers or other stealthy demons; somehow, the eye demon had cast a blanket of shadows across the room, concealing everything from view.
+
+“Remove the Blind curse with higher priority,” Ali said, knowing her witch doctor was standing right beside her. “Focus on the melee.” Then she fragmented her barrier magic into several dozen tiny shards and blasted them through the room in a swirling maelstrom while she settled her awareness into her Devouring Consumption to see if it could feel the vibrations of anything she hit.
+
+“Yes, Seeker,” Kir’vella cackled. She would need to be on decursing duty full-time, at least until Ali somehow gained a handle on the fight. She and her mages could see the Eye of Agnor, or at least its magic. Her melee monsters could barely see anything. I’ll have to guide them manually.
+
+Through the sliver of awareness that she used to guide her Devouring Consumption, Ali encouraged it to go after the vibrations of whatever monsters in the room were not hovering above the ground. She could tell there was a blindness curse on her ooze already, but oozes did not have vision; as soon as there were demons running around the chamber, in contact with the ground, her gigantic ooze could see them just fine, regardless of whatever the shadow magic was doing to conceal their presence. The massive blob of slime the Devouring Consumption had become was her best choice for cleanup duty.
+
+Mana surged from the back of the cavern, and a flicker of blood-red magic tore outward, a storm of blades that ripped into her melee creatures, tearing large chunks of health from them in an instant. Her healers instantly reacted, chaining Blood Siphon and holy Restoration magic. Ali’s awareness split a second time, settling into one of her acolytes. It wasn’t exactly the best sense for this, but Healer’s Sight at least told her the approximate whereabouts of any monster with health; it was ideally suited for healing, but in this situation, it was likely her best demon detector.
+
+What it told her chilled her to the bone. The Eye of Agnor was constantly firing off beams of blood magic into the crowded melee fighters before it, and it was healing rapidly from the damage it dished out.
+
+“Kir’mogan! Use Mortal Wounds on the Eye,” she shouted, loud enough for her Bone Warriors to hear. The healing rate she was seeing on the demon was phenomenal – she wasn’t even sure the fifty percent healing reduction would be enough – but without it, she stood no chance.
+
+Then she saw something new: a meta-magic formation that she was almost certain would greatly increase the area of effect of another spell, coupled with a powerful shadow magic formation that must have been the monster’s primary attack. Shockingly, it did absolutely no damage. Puzzled for a few moments, Ali let her awareness spread out, sharing the mana sight of her mages, and finally, she recognized it.
+
+Shroud of Darkness. Or something like that. Ali wasn’t exactly certain of the name, given how much it diverged in structure from the spell she had studied in her library’s magical tomes, but it was an area shadow magic that obscured the light, enhancing any stealth effects within its range, just like the traditional Shroud of Darkness spell. It still didn’t fully explain the stealth shroud granted to all the ordinary demons being teleported in, nor did it explain how the Eye was continually thwarting her efforts to ambush it, but at least she now knew how it controlled the darkness of the cavern. That’s the one to target.
+
+Ali waited patiently while the monster unleashed unseen destruction upon her minions, a continuous stream of blood blades, shadow bolt volleys, and blood siphon, forcing her shamans and acolytes to scramble to keep up with the healing. Come on!
+
+She allowed the teleports to continue, waiting for her moment. Out of nowhere, it suddenly appeared. The same meta-magic formation that enhanced area of effect, and then the Shroud of Darkness formation appeared, flickering black strands of mana against the shadowy backdrop. She pounced; the anti-formation already prepared within her mind. She ignored the meta magic – disrupting that would simply lower the effect of the spell, not cancel it – but as any competent mage knew, if you disrupted the main spell, all support and meta magic would fizzle without a proper target to enhance, granting a much more potent denial effect.
+
+Her golden needles lanced out, brilliant streaks of gold against the darkness, puncturing the shadow formation. It hovered for several moments with large chunks dissolving from within before it collapsed into motes of unbound mana. The Eye of Agnor let out a furious screech, a disconcertingly high-pitched noise for such a large monster, and the first sound it had made so far.
+
+Suddenly, Ali could see again. She blinked at the abrupt return of her vision, taking in the full extent of the cavern at a glance – all the hostile demonic monsters, the Eye, her forces, and the horde of tiny little sacred healing slimes crawling about.
+
+“Bloodlust!” Ali yelled. At her command, the blood runes erupted from Joraa’s chest, and her melee monsters roared with renewed battle fury. Tol’brekk’s axes blurred with speed, the Armored Drake’s fire struck dead center on the Eye of Agnor, causing it to wail and screech in pain, and the flurry of bone tonfas tore into its flesh, applying Mortal Wounds.
+
+The only shame was that her Devouring Consumption had no blood to benefit from bloodlust, though it seemed to be doing quite well enough with an imp struggling inside of it and a struggling Hellfire Warg raised high into the air in the firm grasp of a giant coiling tentacle.
+
+It’s getting really big.
+
+It took substantially more effort to kill this Eye of Agnor than the last one, but Ali bore down on its magic, completely denying the shroud of shadows. She kept Kir’mogan and her other Bone Warrior on it at all times, maintaining Mortal Wounds, and the rest of her forces applied continuous pressure, eventually out-damaging the Eye of Agnor’s ludicrous blood healing ability. It was remarkable what being able to see could do.
+
+Your group has defeated Eye of Agnor – Demon – level 138 (Shadow / Blood).Your Devouring Consumption has reached level 314 (+3, 214 temporary).Your Devouring Consumption has met the requirements for class evolution.
+
+It hit one hundred! I need my shrine, Ali thought as she watched her Grimoire inscribe the final level gain for her Devouring Consumption onto its glowing parchment pages. Even if it lost all two hundred and fourteen temporary levels, her slime was still a three-mark monster now, having joined the ranks of her most powerful minions. Her idea of using her slime through the chasm had been an astonishing success – the temporary levels granting way more than enough attributes for her monster to continue consistently killing demons far above its actual level, and this was her reward. If nothing else, she would have an evolved ooze when she finally returned home.
+
+She quickly deconstructed the demons, earning another Demon Core from the Eye of Agnor. Do all second-tier evolved demons have them?
+
+Demon Core.Greater Shadow Essence x2.
+
+“Miss, we should press on,” the scout kobold said. “With this much of a ruckus, Destraggoth is sure to send reinforcements soon.”
+
+“Right, lead the way.” Ali’s job was not nearly done.
+
+“East of your position, five hundred yards, three-mark Fungaloth.”
+
+The telepathic communication from Commander Brand’s aide prickled in his mind, and Aiden sprang to his feet and stared toward the east. In the dim, predawn light, he saw some huge shapes moving around, and the sounds of frenetic battle suddenly carried, reaching his ears.
+
+“We’re up!” he shouted, sprinting toward the sounds of crashing and the screams of the guards stationed up ahead.
+
+Devan vanished from sight in a sudden gust of wind and shadows, while Havok lit up like a beacon of blazing holy light and charged. His low chanting sounded as if he were praying. Not a bad idea, although he was not sure if Azryet could have done anything to help them now. Take whatever help we can get, he thought grimly.
+
+Following close behind him as he ran, Aiden could already feel the gathering storm of Kaitlyn’s lightning by the way the hairs on the back of his neck and arms felt like they wanted to crawl out of his skin. Out of the corner of his eye, he saw Flynn floating above and behind him on a chunk of rock while a several-ton boulder hovered in the air above his head.
+
+His group was nothing if not reliable. He focused on the task at hand, sprinting along behind the radiantly incandescent Goblin and channeling his ice mana into his swords. Thin streamers of fine ice crystals and snowflakes trailed in his wake.
+
+The scene of the battle was a disaster. A small grassy hillock, now covered with mud and deep grooves. Guards lay strewn about, moaning in pain or lying broken in unconscious heaps while the shattered remnants of their squad valiantly tried to hold off the giant, misshapen fungal aberration. A level-fifty guard raised his shield, but the Fungaloth bit right through it, shattering the shield and taking the man’s arm in a scream and a spray of blood. The stricken guard fell to his knees before the giant monster, but at the moment it tried to eat his head, Havok’s shield suddenly appeared between the massive, slavering maw and the poor guard.
+
+“Havok help!”
+
+Nice timing, Havok.
+
+A huge grinding crack rang out as the Fungaloth broke its teeth on the heavy shield reinforced with radiant holy magic, and then Havok stabbed under it with his glowing shortsword, unleashing his Holy Smite into the monster. His spell flashed spectacularly, and the ground at his feet erupted into holy flame.
+
+Aiden ignored the stricken guard at Havok’s feet, knowing the consecrated flames spreading across the ground would begin healing him while he dashed forward using Ice Dance. The freezing mana within him blended with his stamina, accelerating his body with such speed that he crossed the last couple of yards in a flash, his swords whirling and slicing as vortices of ice trailed the path of his blades. The sharp swords, custom-crafted by Thuli out of pure mithril, channeled his mana into two great slicing gashes on the hindquarters of the Fungaloth, and then the ice vortices his magic had spawned smashed into it for secondary damage, simultaneously inflicting his signature ailment, Chill.
+
+He wasn’t a particularly high-damage melee class, even though that had been his hope at the outset. But there was no way he could compare to the monsters Devan or Kaitlyn had become in sheer offensive power, or to Flynn in general versatility. But his Chill affliction dramatically improved their control of any fight, slowing the monster down, both in terms of movement and melee attack speed. As long as he kept hitting, the monster would be much easier to tank and do far less damage to his teammates. He struck again, refreshing the ice affliction, ensuring that his magic seeped deeper into the giant monster.
+
+Suck on that, you freak!
+
+Havok shifted, drawing the creature away from the fallen guardsmen and women, leaving his signature consecrated holy flame blazing on the ground around them, and then the entire battle erupted with the violence of Kaitlyn’s incandescent lightning assault. Enchanted arrows rained down on the monster, exploding with deafening thunderclaps and the continuous blinding flashes of her signature lightning magic barrage.
+
+A sudden gust of wind by his side told him Devan’s silent Ambush had just struck, and just in case there was any doubt, he was suddenly showered with rain of slimy ichor and bits of fungal flesh. Then, a massive boulder fell from on high, crushing the back leg of the monster as it released an unearthly screech of pain.
+
+But, as they’d come to learn over the long slog against this dungeon, the monster was incredibly durable. Even crippled by the crushing boulder, it still held out for more than five minutes under their most intense assault before it finally succumbed to their attacks. Several chimes sounded in the back of his mind as the giant monster collapsed to the ground with a shuddering thump.
+
+“Havok, check the wounded,” he ordered, following the protocol. “Kaitlyn and Devan, eyes on the perimeter.”
+
+He studied the guard squad, frowning as he failed to find a healer on their team, but under the influence of Havok’s consecration and his healing spell, they all seemed to be recovering quickly. If it were up to him, every squad of ten or fewer would have at least one healer. Havok was nowhere near as strong a healer as, say, Belmar or Teagan, but his area healing skills meant they could survive encounters like this one without problems. Just having one’s health ticking up constantly was a huge boon and a boost to morale.
+
+I guess healers are scarce in the guard, too. It was surprising just how rare healers were, given how important they were – even among the guild teams, the balance of damage classes to healers was likely worse than ten-to-one. The lower-level groups were often forced to share healers, meaning the healers disproportionately outleveled the damage classes, causing all kinds of imbalances in the group structure.
+
+Vivian’s problem, I guess, he thought, sighing. Maybe Havok’s fledgling church could help to make paladin classes more exciting to the new adventurers, but without Aliandra and her shrine, choosing such a class became almost impossible.
+
+“Congratulations, Aiden.” Flynn’s soft interjection interrupted his restless mind frantically solving guild and the guard’s problems.
+
+“For?” he asked, glancing around.
+
+“Platinum.”
+
+The heck? Platinum? Oh… Quickly, he opened his notifications.
+
+Your group has defeated Fungaloth – Fungal Aberration – level 108.Ice Spellsword has reached level 100.+10 attribute points.Requirements met for class evolution. Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+Dammit! The timing could be better… He stared at the notifications with a sudden onset of trepidation. This was precisely what Vivian Ross had been worried about – he had reached platinum rank out here on the field, because of course he had, and an event that should have been felt as an achievement was now fraught with anxiety and worry.
+
+Again, without Aliandra and her shrine, his class evolution would be whatever his natural path selected for him. Maybe something powerful, but also potentially a broken path combination that would leave his class unusable.
+
+He frowned as he looked over his companions.
+
+Rogue – Human – level 99Mage – Human – level 98Archer – Human – level 100Paladin – Goblin – level 100
+
+Kaitlyn and Havok, too. If his class was wrecked by his natural evolution, that would be a disaster for him, and likely, he would need to retire from active raiding like the Guildmaster had. But if Havok’s class was butchered by the process, the guild would be in dire straits, losing both a healer and a tank in one fell swoop.
+
+He took the time to ensure the guard squad was fully recovered before he led his group back to the center, to wait for another call for aid, his thoughts in turmoil.
+
+I need to find the Guildmaster.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

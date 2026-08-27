@@ -1,0 +1,131 @@
+---
+id: 6f3a9442-256f-5c39-9d7b-c8ab1db6f290
+page-type-slug: story-chapter-royal-road
+title: "Chapter 423: Return to the Blooming Rot"
+slug: 0460-chapter-423-return-to-the-blooming-rot
+partOf: dungeon-of-knowledge-complete
+position: 460
+ownLength: 2085
+unit: words
+ownProgress: 2085
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2711444/chapter-423-return-to-the-blooming-rot"
+royalRoadId: "2711444"
+markedReadAt: "2026-06-29T20:27:45.682Z"
+---
+
+Ali stepped through the rift and into a scene of utter destruction. The walls, ceiling, and presumably the floor too, were all covered with the putrid Fungal Creep, and she could sense her dungeon rage growing as her domain mana began to spill through the rift itself. The floor was covered with a deep layer of broken and smashed corpses, branches, shards of wood, fungus, and worse – victims of Tol’brekk’s timely brutality.
+
+Malika stepped through the rift, joining her in the silent chamber, dripping with slimy ichor and filled with the stench of rot.
+
+“It’s pleasant, isn’t it?” Mato said as he and Calen ducked through the rift.
+
+“It’s nasty, is what it is,” Ali answered, hesitating a little.
+
+“Are you ok, Ali?” Malika asked, somehow still conveying a clear concerned expression in eyes that were blazing with blue-white radiance.
+
+Am I ok? Ali considered it carefully, patting herself down and buzzing her wings. On the one hand, she was healthy and whole after the awful battle with the Pit Lord. On the other hand, she was standing here sampling the foulness of the Blooming Rot dungeon’s domain.
+
+Lira’s dungeon.
+
+She forced herself to say it, even if just in her mind, tasting the grief and sorrow. While it wasn’t taking over her emotions, she felt the flicker of white-hot anger somewhere deep within her heart as she recalled the sight of Nevyn Eld brutally murdering Lira in front of her. However, something had changed somewhere along the way during her stay in the Abyssal Realm. Something about her experience with Azryet or the struggle to survive on her own; her rage was tempered with a kind of determination and a powerful desire to put things right. At least as right as she could manage with her power. “We need to destroy this dungeon, and I want to put Lira to rest,” she said.
+
+“We’re with you,” Mato said. His reassuring words and the fact that she was finally standing in her own realm tempered her feelings with a quiet and much-needed sense of relief.
+
+Malika flickered toward the entrance, punching something before Ali could even register what it was.
+
+Still, there’s much to do. Ali twisted the thin tendrils of her domain using the Domain Architect advancement she had learned from the dragon god and wielded them like scalpels. She knew Lira’s domain intimately, having transformed hers to be compatible such a long time ago. She had lived with their overlapping domains for long enough to understand exactly how they worked. Even with the addition of the flavor of rot and the affinity of death, it was still Lira’s magic. She’s dead. Gone. Ali gritted her teeth and then wielded her domain, not to destroy, but to consume.
+
+Tendrils of her mana lanced outward from the rift and into the room, heedless of the pain, grasping, infiltrating, absorbing, slicing it into chunks. They surged through the creep, wresting it from the grasp of the Blooming Rot, and her magic subverted the fungal growth to her own domain. A rush of rotten, putrid mana surged into her as she stole the domain in the room, making her Grimoire burst into life and light as it cataloged all the new fungal variants, but her skills twisted the barely compatible mana, altering it, purifying it, and repurposing it as her own.
+
+You have been afflicted by Mana Saturation.Your mana pool is overloaded with excess mana.Your magic will be violently unpredictable and chaotic until your mana pool recovers.Magic – Affliction
+
+Ali stumbled as the excess mana surged through her, spilling out of her as it sought any path to escape from her still-too-small mana pool. It manifested as an explosion of mossy growth, random mushrooms, twisted flowers, and gnarled trees sprouting from the walls and the floor. Golden bolts of arcane magic discharged into the ground while she leaked bursts of death and nature mana, venting them into the writhing and twisting domains around her.
+
+“Ali?” Mato said, steadying her with a firm grip on her shoulder.
+
+“Excess mana,” she ground out, gritting her teeth at the new pain. “It will subside in a moment.” But the fastest way for it to subside would be for her to use it, so she began summoning.
+
+***
+
+Within the giant cavern on the abyssal side of the rift – Maalgaroth’s former stomping grounds – the intense hellfire, remnants of the Pit Lord’s wrath, slowly burned out, and the dense, choking smoke drifted away on the slight air currents brushing past Ali’s Devouring Consumption’s sensitive membrane.
+
+The only thing that moved in the cavern was the slow, lazy wingbeats of the circling Scion of Azryet. It was almost entirely invisible to the Great Ooze as it hovered in the air on giant wings, only the slow rippling pulses in the air pressure impinging on the Ooze’s Tremor Sense. The void dragon had been far too large to fit through the slowly recovering Rift, so Ali had set it to guard the cavern from the demons, supporting her newest raid boss, the Devouring Consumption that was currently hanging from the rocky ceiling.
+
+Amongst the moss and trees below, the strangely misshapen three-legged fungal monsters, the Spore Spreaders, stood among the Violet Dreamcloud mushrooms, like dark green and gray statues with tiny purple glowing mushrooms sprouting along their caps. With the black fire fading, their purple glow lent a strange, mystical cast to the dim lighting in the cavern.
+
+Rhythmic vibrations travelled through the rock, perturbing the stillness of the Great Ooze’s membrane, a simple thudding impact of footfalls on stone. Then more vibrations; claws scraping. A howl and a demonic cackling arose from the dark, distant exit tunnel, and moments later, a scampering imp appeared, wreathed in black flame, followed shortly by a four-legged, two-headed demonic wolf with flickers of dark flame trailing from its two half-open mouths.
+
+The Devouring Consumption rippled, gathering its mass together into a roughly spherical form before falling to the ground in the center of the cavern. The loud plop instantly attracted the attention of the two invading demons. The warg howled and the imp released a roiling ball of hellfire, and before the Great Ooze could even take an action, the fireball detonated against its side, sending cascading bursts of pain searing through its simple mind.
+
+It reached and took, wielding the domain mana instinctively. Sacrifice ripped the life force from the nearest Spore Spreader.
+
+You have Sacrificed Spore Spreader – Fungus – level 20.You have gained Melee Haste.You have gained Melee Power.You have Headhunted the skill: Spore Explosion.
+
+Reaching pseudopods burst from the Ooze, enveloping the sacrificed Spore Spreader, and in moments, it was completely enveloped.
+
+You have gained +1 temporary level.
+
+The Hellfire Imp suddenly appeared next to the Devouring Consumption, waves of flame searing into the Ooze’s blobby flesh, but its single-minded purpose could not be interrupted by such mundane sensations. Its pseudopods shot downward into the ground, and it channeled its mana. All around the Ooze, violet mushrooms shivered, sprouting hungrily, glowing brighter and brighter until they all detonated simultaneously in a soft cloud of purple.
+
+The cackling imp suddenly began to choke, and in seconds, it collapsed. Again, the Ooze wielded its granted domain magic.
+
+You have Sacrificed Hellfire Imp – Demon – level 67.You have gained additional Melee Haste.You have gained additional Melee Power.You have Headhunted the skill: Accelerated Casting.You have gained +3 temporary levels.
+
+The Ooze slithered its way toward the surprised Hellfire Warg when a blast of void magic from overhead sliced the demon in two. The ooze didn’t even slow down, enveloping the corpse and consuming it as it sensed the vibrations of more intruders reaching the cavern.
+
+You have gained +2 temporary levels.
+
+Domain mana surged again from within the ooze, and half a dozen Poison Wyverns appeared in midair, swooping down to engage the new arrivals, instinctively falling into formation with the enormous Scion of Azryet.
+
+Then, Ali saw the Devouring Consumption trigger Accelerated Casting and Spore Explosion simultaneously, causing a virtually instantaneous explosion of purple soporific spores to burst among the new arrivals. Three of the new demons collapsed, along with one of the poison wyverns, which had flown too low, but the inexorable ooze sacrificed everything with a single-minded focus, headhunting more skills seemingly at random, and proceeded to consume everything in its way.
+
+You have Headhunted the skill: Fireball.You have Headhunted the skill: Bite.You have headhunted the skill: Poison Breath.
+
+Bite? Ali just watched, stunned by the sheer destructive force of the slow and stupid juggernaut she had created. It may not have understood what it was doing, but it seemed so ridiculously overpowered that she let it steamroll the hapless demons that bumbled into its lair without attempting to direct it.
+
+At least the Scion is super smart, she thought, realizing it would likely learn how to take advantage of the dumb force of nature and death below it. Leaving them to defend the rift with just a thin strand of her awareness, Ali returned her focus to the task at hand.
+
+***
+
+With mana literally leaking from her ears, Ali quickly summoned a large Lirasian Oak in the center of the rift chamber. While her domain was rapidly subsuming all the fungal creep in the area, it just didn’t feel right to rely entirely on the rotten and putrid plants for her domain. Too much death mana. She curled her lips in disgust.
+
+She reached for the magic of her Grimoire, but to her surprise, she found her former rift boss, Mok’freja, finally available for resummoning. I didn’t lose her after all? Ali had deconstructed the corrupted corpse, convinced that she had been lost forever, but she had the joy of resummoning the Ice Queen to her rift chamber. The powerful Troll appeared and instantly fell to the ground, prostrating herself before Ali.
+
+“Seeker, I do not deserve to stand before you,” she wailed.
+
+“What are you talking about?” Ali asked. Is she trembling?
+
+“I attacked you. I helped the demons,” she said, her voice trailing off in abject horror.
+
+She remembers all that? Ali considered the poor troll on the ground before her, getting creep slime and muck all over her tusks. “Please stand,” Ali said. “None of that was your fault.” She couldn’t imagine what it must be like to be corrupted by the Pit Lord and attack your former friends and allies – and then remember it afterward.
+
+The Troll slowly raised her head in trepidation, scarcely believing she was getting a reprieve.
+
+“Seriously, I’m offering you your old job back – if you want it,” Ali said.
+
+“To guard this chamber?”
+
+“Yes.” Ali didn’t exactly trust the Devouring Consumption to be that thorough, and having a second raid boss guarding the rift from this side sounded prudent, especially after all the trouble she had just gone through to reclaim it.
+
+“You are too kind,” she said, slowly getting to her feet and reclaiming some measure of her tattered dignity. “It would be an honor to serve once more, but perhaps one of the others? I could clean out the sewers or something more appropriate.”
+
+“I’m sorry you had to go through that,” Ali said, laying her hand on Mok’freja’s knee. “But I require your skills right here.” Ali summoned her domain mana and reinstated her to her former raid boss power. The room itself would require substantial work to restore the ice biome it had once boasted, but for now, this would be enough. With a thought, Ali deconstructed the entire roomful of monster corpses that carpeted the floor, several layers deep, resulting in an explosion of pain and mana discharges from her body, and a sudden fresh cascade of Grimoire notifications as all the variants were added to her imprints.
+
+[Sage of Learning]Domain Magic analyzed: Amplify Skill (Mana Spores).Domain Magic analyzed: Amplify Skill (Giant Growth).Domain Magic analyzed: Mass Summoning (Plant).Greater Living Essence.Greater Death Essence x2.Essence of Rot x6.
+
+Malika danced through the cloud of mana to scoop up the essences – an act that was so familiar Ali never used to pay it much heed, but seeing it now, her mind latched onto it as if afraid she would immediately lose it again.
+
+Finally satisfied that she wasn’t going to give up the Rift without a serious fight, Ali flew up to the doorway where the others were waiting. “Ok, I’m ready.”
+
+“Let’s go,” Calen said, flaring his wings.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

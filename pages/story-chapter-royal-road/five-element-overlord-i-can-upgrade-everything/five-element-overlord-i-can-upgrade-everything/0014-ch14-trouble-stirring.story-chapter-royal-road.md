@@ -1,0 +1,65 @@
+---
+id: a3f96901-83f9-5e94-a949-86a541b9b106
+page-type-slug: story-chapter-royal-road
+title: "Ch14 Trouble Stirring"
+slug: 0014-ch14-trouble-stirring
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 14
+ownLength: 801
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211874/ch14-trouble-stirring"
+royalRoadId: "3211874"
+---
+
+Meanwhile, as the sun rises, a full mountain peak away in a large building where many Outer Sect Disciples meet, two individuals in green robes look up and down a quest board before choosing a simple task.
+
+“Lan’er, this one should be easy enough to get our monthly task quota out of the way. Remember when we surveyed the back mountain where the new servant camps were built? They need it surveyed again, all the way up to the Ravine this time,” a chubby man with dark black hair points to the sign board.
+
+“Brother Ming, this quest looks quite good. It says here they’re going to be building even more space for servant camps, and need to make sure no spiritual beasts above the first level of qi refinement are lurking in the forest,” a woman with brown hair and green eyes, but a very different thin and compact stature, nods and smiles.
+
+Wang Ming and Mu Shulan accept the task and head out of the Outer Sect’s quest hall.
+
+The younger woman taps a small pouch at her waist and a large light green-feathered eagle with a 7-meter wingspan appears before them. Mu Shulan hops onto its back, ruffles its feathers near its neck, and points forward.
+
+Wang Ming taps his waist too, and a brown bear even larger than the eagle stands on two legs next to him, letting out a roar.
+
+The fat man pulls out a small green fruit that looks like a head-sized apple and tosses it up to the bear before pointing off in the direction of the back mountain.
+
+The two of them run side by side, and the girl and her eagle take to the skies above.
+
+–
+
+For the entire morning, the two use recording crystals granted by the quest for this task and take their own notes, outlining the habitats of many 1st and 2nd level qi refining beasts.
+
+New pools of water and streams are located, and the terrain is marked down for the best places to farm spiritual rice. Other places are marked that need to be systematically cleared out by servants chopping trees, also places to avoid that are too swampy to be of any use to the sect.
+
+“This was no ordinary brawl. I remember this cave, it’s where that 3rd level qi refining black serpent was nurturing its life plum last time we surveyed this land.”
+
+“Really? You think an initial stage qi refiner could make this much of a mess?” Mu Shulan replies, swinging her legs while sitting on a tree cracked in half, leaning against another.
+
+Her eagle circles above, while Wang Ming’s brown bear sniffs the ground in circles without finding any definitive clues.
+
+“Obviously not… That serpent must have broken through to the 4th level, and whatever challenged it, they were no weakling either. If it was a beast, they’re semi-intelligent and covered their tracks… If they’re a human, they must have been using some kind of high-grade cloaking artifact. Mantou is especially sensitive to human scents, he would have found something by now.”
+
+Wang Ming pats his bear's head with a grin, then clicks his tongue.
+
+“Well, we’re only here to survey, not solve mysteries. I’ll put this all in the report,” Mu Shulan replies while holding up a pale green jade tablet to add this strange anomaly to their findings.
+
+The bear sniffs around for a few more minutes, stopping at the cave entrance a few times, but ultimately turns away and moves on with the rest of the task.
+
+The man and woman glance at each other affectionately, but keep a distance apart while making their way further into the back mountains, away from the Ravine.
+
+–
+
+Across the 5-kilometer-wide crack in the earth, a pair of dark red eyes watch the two Outer Sect members leave.
+
+He’s hidden behind piles of dead leaves, wearing a dark black mask concealing his face. The rest of his body is covered in a black cloak as well, with a red sword logo on its back showing his affiliation to the Blood Sword Sect.
+
+With the tap of a small ring on his index finger, a poison arrow materializes in his grasp, the purple tip letting out fumes that make it hard to breathe for long in its presence.
+
+The man’s crimson gaze tightens.
+
+“So it wasn’t a coincidence. There is more than just that one servant boy. Even the Outer Sect is surveying the land by the ravine. If they dare to cross, they may find our stronghold too soon. I must report back and make a plan to delay them,” he murmurs to himself.
+
+A raspy laugh echoes through the forest as the arrow disappears into his spatial ring, and the cloaked man slips away down into the Ravine.

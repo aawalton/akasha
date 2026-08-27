@@ -1,0 +1,127 @@
+---
+id: 504cfd11-6d5f-5717-89d3-2e63e2cfb1bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 570: Aegis and Authority"
+slug: 0614-chapter-570-aegis-and-authority
+partOf: dungeon-of-knowledge-complete
+position: 614
+ownLength: 2677
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3161942/chapter-570-aegis-and-authority"
+royalRoadId: "3161942"
+---
+
+Without Malika, Ali would have died so many times.
+
+The pretty, gurgling stream that normally flowed through this peaceful clearing just inside the cavern Lira had once inhabited was broken and churned up by the armored boots of the Death Knights and ran dark with ichor that blighted the plants downstream. That was, the parts of the stream not frozen entirely solid by the auras of ice.
+
+The Divine Archon champion was gone, but she had made Nevyn Eld pay dearly. His army of undead now numbered fewer than two dozen, but those that remained were the strongest of his minions, most of them well into the third tier.
+
+At least, Ali thought, they had made him struggle through that tunnel for over an hour – enough time for Malika to start shining, and the distant raid group to complete several attempts at taking down the three kings. All it had taken was a wall of powerful minions and an hour of pure focus to disrupt every single one of the Blind Lich’s teleports. Of course, it had just been a matter of time before he ran out of patience and spent Authority to ram it through, but Ali still counted that as a win.
+
+Like a vengeful sun dispensing blinding wrath, Malika danced among the dead with the speed of liquid moonlight and exquisite grace. The sound of her punches and kicks blurred into a rhythmic roar that synchronized with the flickering and flashing of her soul magic. Whenever one of the Death Knights turned toward Ali, hiding behind one of a long succession of golden domes, Malika was there in an instant, delivering the relentless assault of her fists and offering respite.
+
+Ali’s mana flickered, runes appearing to circle briefly around her wrist, and she cast Breath of the Azure Zephyr on Malika – an incredibly useful nature-affinity dexterity buff that played to her friend’s strengths.
+
+But it was the arrogant form of the Blind Lich hovering among the blackening trees in his billowing crimson robes, aloof and invulnerable within the glittering black shield, that consumed the bulk of her attention. A shield that had blocked every single thing she and Malika had thrown at him. He had not taken a single scratch since he had cast it.
+
+The Aegis of Absolution.
+
+Her Grimoire flickered with magic, and from behind the protective bulwark of her barrier, she studied the Lich’s defenses. She could see the pristine flow of Authority through the sphere, but the bulk of his shield had been created with a martial technique, not a spell – a formation of stamina which had been invisible to her. What she could see was an exquisitely complex structure of death magic, reinforced by the brilliant blue and white sparkles of interlaced soul magic. It was, she was forced to conclude, a legendary-grade spell – or technique – enhanced with Authority. Breaking it might well be beyond her current strength.
+
+She may not be able to perceive much of the ancient technique, but what she saw revealed critical similarities with the Mana Shield spell. An advanced, nearly incomprehensible structure, but a Mana Shield nonetheless.
+
+And mana shields always have the same weakness. It was precisely the reason she had chosen to grow her own barrier along a different path. Mana Shields were strong, and many mages favored them, but their strength was also their greatest weakness. The shield would divert damage from one’s health to one’s mana pool, staving off death until mana ran out. Many mages had enormous mana pools and regeneration, relative to their health. Ali was no exception with her extreme divergence, but if a mage wielding a Mana Shield took enough damage, they would find themselves drained of mana and helpless. It was, after all, how Malika had defeated Alexander Gray.
+
+Just like when I was stuck in the Abyssal Realm, she thought, recalling how disastrous it had been to find herself stranded in the other realm with all her mana drained, all her reservations wiped out, and without even enough power to use her ring’s storage enchantment.
+
+We just have to hit him enough. She firmed her lips in determination. It would be challenging, but if she knew anything about advanced magic, no legendary shield as powerful as this one was free to maintain.
+
+Malika, as reliable as ever, had bought her more than enough time. Ali fed a point of Authority into her Grimoire, bringing her precious total down to four. Her spellbook flared with the radiance of her powerful summoning, and suddenly her unique third-tier Carnage Berserker manifested beside her in all his massive glory.
+
+Tol’brekk [The Crimson Blade of Carnage] – Giant Troll – level 252 (Blood).
+
+“I see the undead, Seeker…” Tol’brekk said, his massive chest rumbling like a subterranean quake.
+
+“You may fight them shortly,” Ali said, snapping off a brace of golden darts to disrupt one of Nevyn Eld’s nastier spells before he could unleash it on Malika. She reached a hand to touch her giant troll and filled him with an infusion of her domain. “First, I need to make you much stronger.”
+
+Tol’brekk had been with her since the early days after Aman Rak, and he was one of her most reliable warriors. Among the most skilled fighters, too, blending instinct, intuition, and extraordinary experience. Unfortunately, Devastation Knights were a deadly foil to his power, but Ali grinned at him, knowing that she had a plan.
+
+Domain Respawn applied to The Rage of Aman Rak.Champion Domain Enhancement applied to The Rage of Aman Rak.Amplify Skill (Blood Rage) applied.Slayer (Undead) applied.Overpowering Strike (Blood-soaked Slash) applied.Immunity (Death) applied.Domain Enhancement complete.Your reserved mana has increased by +2129.
+
+“Alright, you may attack. Kill as many of the dead as you want, but break the Lich’s shield for me,” Ali said, runic formations flickering rapidly around her arms as she unleashed a slew of memorized nature and arcane buffs on him.
+
+Tol’brekk’s nemesis was the Devastation Knights’ signature Damage Reflection curse. In the midst of a Blood Vortex, the curse was instantaneous death. However, Ali had traded Immunity to Azryet as part of her bargain, and he had, in turn, extracted the death affinity by abusing the Lich’s dungeon artifact and traded that back. The death-affinity curse would bounce off him, and even if they somehow managed to smuggle it onto him, the retaliation damage was all death-affinity – an affinity to which he was now immune. Sure, the healers would still need to watch his health – there was plenty of ice, lightning, soul, and physical damage to go around, but instant death was no longer on the cards.
+
+“It will be my pleasure, Seeker,” Tol’brekk rumbled. A feral grin flashed white teeth between his meter-long tusks adorned with their ceremonial braids. He crouched. Gigantic muscles bunched like rolling boulders, and then he took off, soaring across the clearing with two axes held aloft. Blood poured from self-inflicted wounds along his forearms, swirling around his body as his axes seemed to drink it up with voracious hunger.
+
+Ali didn’t bother to warn Malika, knowing that she would have already seen his ridiculous Leap from the sheer amount of stamina it burned, and sure enough, the radiant monk flickered in the midst of the Death Knights, effortlessly dodging the descending mountain of trollish fury.
+
+He crashed down with a sweeping strike of his axes, knocking four Death Knights to the ground, and sending the remaining Ghouls and Wights flying. Axes drew back, and blood exploded from him in a great cloud of angry, pulsing red mist as he sacrificed a truly ridiculous amount of health to power his attack. Ali couldn’t even see the strike when he unleashed it. Axes crashed into the glittering black shield with so much ground-shaking force that Ali was thrown off her feet all the way on the opposite side of the clearing.
+
+The transparent black shield shimmered, darkening dramatically from the immense impact.
+
+Ali scrambled to her feet to find the Blind Lich turned to face the furious berserker. He reached a gaunt hand forward and blasted him with Decrepify.
+
+Oh no you don’t! Ali fired off her golden darts, this time Deflecting the deadly spell to one of Nevyn Eld’s own ice-affinity Death Knights. She had buffed her giant troll with all the vitality boosts she could manage so that he could have a far greater health pool for his blood magic, and a much higher cap on his rage – there was no way she was letting Nevyn Eld steal his attributes.
+
+The Decrepify immediately ceased as Nevyn Eld cancelled his magic. Mana surged from within the Lich, and Ali experienced a moment of brief biting pain.
+
+Dungeon rage? How?
+
+But the Lich’s spell had been completed, which meant Ali did not have to worry about it for a bit until it recharged. Which gave her enough room to Disrupt whatever he did next.
+
+A dark formation flickered within the Aegis of Absolution.
+
+Death bolts. Ali identified the magic easily – and seeing no sign of Authority enhancement, she let him have it, saving her Disrupt for something worse. Dark bolts of seething black magic burst outward from the Lich, hitting all her minions. One shattered upon her golden barrier, making her flinch back involuntarily, but despite the extreme damage, this was one of his less potent spells – she simply let her nearby kobold priest handle the healing.
+
+Out in the thick of things, Tol’brekk unleashed his Blood Vortex, ripping into the momentarily stunned undead monsters, and his blades crashed again against the Lich’s shield. Ali instructed her witch doctor to keep a close eye on the curses, just in case, but she wasn’t nearly done yet. Brute force was not the only way she had to defeat his shield – she needed to try everything. From behind her, soul-affinity arrows whistled by, delivering devastating blasts against the Aegis with uncanny accuracy.
+
+The more damage, the better, she thought. The mages, elementals, and archers on her back line all opened up, and she fed mana to Empowered Summoner, making the Calhedron and the arcane-affinity Eye of Agnor blaze with power.
+
+She opened her Grimoire once again and began summoning more trolls, without authority. It was as much a numbers game now as a contest of power. Other than as shields against Haverron and Kryostria, she had barely had the opportunity to use her ice mages against the Death Knights, mainly because many of them were of ice affinity. However, their Spectral Ice skill was by far her most potent tool against impenetrable defenses. And the Blind Lich was death- and soul-affinity, not ice.
+
+She didn’t hesitate to spend another precious point of Authority on her newest Mage of Piercing Frost.
+
+Down to three, she thought, frowning. But there was little she could do – earning more Authority was a priority, but she had no idea how to make it happen without defeating the three kings.
+
+Just as her troll mage appeared, she caught sight of that telltale pristine power – a certain tell that Authority had been spent. From the eyes of a dozen minions, Ali studied the roiling intensity of the ball of darkness rocketing across the clearing, heading directly for her and her bubble of golden magic.
+
+Given how the last one of these had turned out, she did not hesitate. Instantly, she found a nearby Icicle Bat and switched places using Minion Teleport. But the instant she appeared, she felt the very same surge of power.
+
+Another!
+
+But it was far worse than she imagined. This was no dark bolt spell; it was an Authority-empowered Decrepify, and the Lich was already aiming his gaunt fingers in her direction, black miasma spilling from the glowing rings upon his fingers. Without hesitation, Ali burned another point of Authority, firing her golden darts with the incredible haste granted by her class evolution. Searing needles of golden energy that left visible trails across her mana sight punched into the Lich’s formation right at the cusp of completion, tearing it to shreds.
+
+Ali’s heart thundered in her throat as a prickle of sweat beaded all the way down her back at the sudden realization of how close she had just come to dying again, but the angry hiss from Nevyn Eld as his spell evaporated around his bony fingers sounded like music to her ears.
+
+That’s the fourth time I’ve used Authority in front of him, she suddenly realized. Not once did he react, giving any indication he had noticed. Can he not see it?
+
+Ali’s ecstatic mood was short-lived, though, and she rapidly sobered up as she realized the implications of what had just happened – Nevyn Eld had just burned a point of Authority to fake her out. That was a luxury she could never afford.
+
+Ali slammed a fresh domain-empowered barrier around herself as the Blind Lich unleashed a barrage of death bolts at her, but she detected no Authority in these, so she let them shatter harmlessly on her spherical shield, feeding herself with the mana reclaimed by her advanced spell.
+
+Two can play this game, she thought, unleashing a whispering barrage of ice bolts from her newly summoned mage. Pure white shards of ice flitted across the chaos of the battlefield, ignoring the blasts of death magic and the whirling maelstrom of blood and steel, to slam into the glittering black sphere of the Aegis of Absolution.
+
+Ali stared incredulously as the ice shattered impotently upon the black shield, adding a spray of white slush to the soul magic detonations of her hidden archon, Malika’s fists, and the blood and steel of her Carnage Berserker. It was the first thing she had ever seen that the Spectral Ice could not pierce.
+
+The strange interaction between the spectral ice and the shield prickled her Sage of Learning, drawing a little mana from her pool, but no particular insights suddenly manifested to enlighten her.
+
+She pressed her lips firmly together and reached again for her Grimoire. If Spectral Ice doesn’t work, I’ll just have to use Light. The Aegis of Absolution was mostly transparent after all. She poured her mana into her imprint, overwhelmingly grateful for the ridiculously overpowered nature of spell haste and summoned a Fractured Archon, wincing as she spent yet another of her rapidly dwindling Authority points, but she was out of good options. Nothing she’d tried without Authority worked, and now she was reduced to guessing what might work if enhanced – at the cost of her most powerful resource.
+
+The Archon appeared, hovering in the air on wings of light. An alabaster being of radiance. It hovered before her, head turning to regard the battlefield with detached curiosity and eyes that shone with a painful brilliance.
+
+Ali boosted the celestial to a raid boss, finding they were still too close to Tol’brekk to do more, but it would hopefully be enough. She invested fully in the power of the eye beam magic.
+
+The Celestial being shimmered, and suddenly there were twelve of them. Then it cloned itself. All eyes blazed with radiant power, and then, seventy-two blinding beams of light shot forth, all concentrated upon the Lich in his bubble, but as the blinding afterimages faded, Ali found herself blinking at a pristine Lich within his glittering barrier. The ground around him was glowing molten slag, and the very air shimmered from the waves of heat – but the Lich himself was unscathed.
+
+She ground her teeth together, muttering a few choice curses she had learned from Morwynne Fizzlebang, but the Lich surged with dark mana, and Ali winced as the daggers of pain slammed into her for a moment, before passing like a reflection in glass.
+
+Ali raised her head as Nevyn Eld unleashed a barrage of death magic attacks in all directions, and she found herself suddenly scrambling to protect her minions with barriers and disruption.
+
+How the… how does he still have mana? And what is that pain?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

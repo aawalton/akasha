@@ -1,0 +1,103 @@
+---
+id: f30a7100-f214-5061-b03a-e895cce44de0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 309: The Mark"
+slug: 0346-chapter-309-the-mark
+partOf: dungeon-of-knowledge-complete
+position: 346
+ownLength: 1495
+unit: words
+ownProgress: 1495
+publishedAt: 2025-07-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2431789/chapter-309-the-mark"
+royalRoadId: "2431789"
+markedReadAt: "2026-06-29T20:22:17.754Z"
+---
+
+“Aah, here it is, Hilda,” Lydia said, gesturing toward the newly renovated store in the market district sporting a shiny sign with the motif of a silvery, gear-like contraption.
+
+“Silver Cog,” Hilda said, her voice filled with excitement. “So, they really did come!”
+
+Lydia smiled and pushed open the door to the sound of an expensive enchantment welcoming them to the offices of the Silver Cog Trading Company in a professionally soothing female voice.
+
+Nice. Very nice.
+
+The room was spartanly furnished, with just a few chairs arranged in a waiting area and a half-dozen semi-private alcoves at the far side. A couple of portraits were hung on the walls, Gnomes – presumably important members of the company. Several well-tended potted plants had been artfully arranged to create a more relaxing ambiance.
+
+To Lydia’s practiced eye, everything was quite expensive, although intentionally understated, unlike most of the nobles she worked with. Seated behind an impressive wooden desk wearing an exquisitely tailored, trendy lavender and navy business suit was Worthington Glimmerbuckle – Myrin’s Keep’s new representative.
+
+“Aah, what a pleasure to see you again, Ms. Avery,” Worthington said, looking up from his paperwork. “And… ?”
+
+“Hi again, Mr. Glimmerbuckle, this is Hilda Stormthread,” she said, introducing Hilda.
+
+“I’m so glad to meet you,” he said, getting up and coming forward to shake both of their hands. “Please call me Worthington. What can I do for Myrin’s Keep’s two finest artisans today?”
+
+He must be desperate for business, Lydia thought. He was laying on the charm so thick it was getting difficult to breathe in here, and that could only mean he was having a hard time getting customers. Either people did not trust the new trading company yet, or Jax Hawkhurst was putting pressure on them by threatening people. Either way, it was the perfect opportunity for them to establish their business.
+
+“We thought we’d bring a few things and see if you wanted to buy them,” Lydia said.
+
+“Perfect, perfect!” Worthington exclaimed. “I don’t have a lot of free cash on hand right now, everything is currently tied up with other investments, but I can show you how to use the auction house outlet. What is it that you wish to sell?”
+
+He was robbed, Lydia realized. It was the only explanation for why a wealthy representative from one of the top trading companies on the continent would find himself too cash-strapped to make a deal. There was no way Silver Cog would have sent someone without the means to succeed. Not only had he been robbed, but she was certain he didn’t want to admit the embarrassing truth to his superiors. It was a rare opportunity to make a deal and Lydia’s business senses were buzzing.
+
+Can’t take too much advantage, though, she reminded herself. Their plan required Silver Cog to thrive. Something of mutual benefit then. Life is never short of excitement, I suppose.
+
+Lydia retrieved four items from her storage – two pairs of her signature Fire Silk slippers, a Frostweave robe for a fashion-conscious ice mage, and a ballgown made from Shimmerweb silk that she was particularly proud of. Hilda glanced at her and then produced several bolts of Frostweave and Fire Silk cloth, laying them on the tabletop beside her items.
+
+“Nice, nice! This is exquisite work,” Worthington said, inspecting the cloth and the crafted clothing with a practiced eye, and no doubt several skills.
+
+“How does it work?” Lydia asked. “The auction house?”
+
+“Aah, yes, let me explain,” Worthington said. “Think of the auction outlet as a two-way storage enchantment. We place your item into the enchantment, allowing it to be viewed by anyone at any auction outlet. If they deposit the winning bid, the outlet exchanges the bid and the item.”
+
+“Like a teleporter?” Hilda asked, fascinated.
+
+“Yes, sort of. But it’s really similar to a storage enchantment that you can reach into from anywhere to retrieve your item. We keep it locked until the fee is paid,” Worthington said.
+
+“That’s clever,” Lydia said, not above a little flattery of her own.
+
+“You can list your items with an initial price, and people will bid on them, and after the auction is complete, the winning bid is retrieved. I can hold it for you, minus Silver Cog’s fee, of course, so you don’t have to wait around for several days. You may also set a buyout price if you would rather get a fixed sale.”
+
+“I see,” Lydia said. It seemed like a pretty simple auction system, but the value was not in the mechanism, it would be in the reach. “How many outlets are there? And what is the fee?”
+
+“Silver Cog takes a six percent fee for operating the auction house, and that covers the service of connecting you with over fifty major cities across the continent, in twenty different kingdoms, and thousands of smaller towns,” Worthington said, beaming proudly.
+
+“Six percent?” Hilda asked, glancing at her.
+
+“Six percent seems reasonable,” Lydia said, thoughtfully. Certainly, if the reach was that broad – but there was little doubt in her mind. She had researched the company extensively before committing to their little plan – and so far, Worthington hadn’t said anything that deviated from the information she had gathered.
+
+“Why don’t you take a look for yourselves?” Worthington said. “You may browse as long as you like.” He gestured to one of several booths placed around the room.
+
+Curious, Lydia sat and placed her hand on the orb in front of her at Worthington’s direction, and immediately she felt the enchantment blooming within her mind. Just as he had said, it felt like a storage enchantment – but one with an infinite number of chambers. With a thought, she shifted the chambers to the side and saw a dagger hovering before her, while a reflection of the mental image appeared within the orb. She could inspect it, identify it, and even touch it, but she couldn’t remove it – the enchantment informing her that the buyout price was set at fifty gold, the current bid was twenty-seven, and that she would need to make a bid if she wanted the item.
+
+The search features were quite intuitive, and it took only a few moments for her to find something impressive.
+
+Burning Vestments of Flame – level 84Expertly crafted robes with simple clean lines, exuding a powerful flame aura.Resistance: 1209+49 Intelligence+1 to skill level of Fire skills.+23% spell damage to Fire skills. +12% chance to ignite on dealing Fire damage.Requirements: Intelligence 294Body – Fire Imbued Cotton
+
+Fire skills enchantment! There were three of them, and she was momentarily surprised to notice that the mana signature was hidden from her. It was there, just blurry and shimmery as the Auction House enchantment obscured it. She immediately bid thirty gold on each piece before releasing the interface and returning to the Silver Cog room.
+
+“I see you’re a quick study,” Worthington said, smiling graciously at her.
+
+“I saw that the mana signature was obscured,” Lydia said, curious to know why that might have been done.
+
+“Oh, that is a service we offer for a small fee,” he answered. “Some people prefer anonymity, but if you truly do not wish to be known, you will need to make items without signing them. The cloaked signature only works while the item is on display – whoever purchases it can obviously see it.”
+
+“I see,” she said, considering the implications. “So, a guard against casual inspection.” Cloaking the signature from casual scrutiny might be worth it for her, but leaving the signature off defeated the purpose of using her craft to earn experience. It took a few minutes to discuss the best options with Worthington, but they quickly got their items listed.
+
+“They will remain listed for three days, or until someone chooses your buyout price,” Worthington said, and then he tipped his head to the side with a surprised expression. “Oh, your ballgown sold already.”
+
+“Oh! That was quick,” Lydia said.
+
+“You might want to try a larger buyout price if the demand remains high,” Worthington said, retrieving her gold for her. Lydia couldn’t miss the tiny sigh of relief as the Gnome took the Silver Cog percentage. “Anyway, feel free to browse more if you want, and I will have your gold for you when the other auctions expire, or return your items if, for whatever reason, they don’t sell.”
+
+“Thank you,” Lydia said.
+
+“Can ya show me how ta use it?” Hilda asked as Worthington left them to their own devices.
+
+“Sure,” Lydia said. “It’s pretty easy. Sit here.”
+
+But as Lydia helped her friend get situated in front of the sophisticated device, somehow the ground tilted sideways and her vision blurred, shrinking to a small circle in a shimmering gloom as if she had suddenly slipped down a deep well. A distant scream echoed in the back of her mind and the world faded quickly to blackness.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

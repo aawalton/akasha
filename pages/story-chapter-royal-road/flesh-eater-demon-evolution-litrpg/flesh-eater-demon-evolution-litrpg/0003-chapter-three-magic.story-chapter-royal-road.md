@@ -1,0 +1,161 @@
+---
+id: b121c618-6a85-55e8-a24d-1bd5032b1466
+page-type-slug: story-chapter-royal-road
+title: "Chapter Three: Magic"
+slug: 0003-chapter-three-magic
+partOf: flesh-eater-demon-evolution-litrpg
+position: 3
+ownLength: 2848
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525485/chapter-three-magic"
+royalRoadId: "2525485"
+---
+
+Maybe throwing a few points into magic resistance would’ve been a good idea, Pyre thought as she narrowly dodged the next ball of light. Thankfully the lump didn’t seem very smart, and it wasn’t particularly good at aiming, either. She could mostly avoid the spheres just by contorting around their paths.
+
+In her defense, she hadn’t thought she’d run into magic so soon. Hell, she didn’t even have a magic stat, just strength, and she’d (wrongly) assumed the others were the same. Apparently not all flesh lumps were created equal. Not that she would complain—she’d been given an initial advantage herself, after all.
+
+Another glowing orb fired off, and she contorted her body to the side. She focused on her damaged eye, absorbing then regrowing it. She was pleased when it blinked open again, its sight fully functioning.
+
+So far, aside from getting straight up swallowed, it was hard to tell what would and wouldn’t do permanent damage to her body. She suspected she probably had a core or something, or maybe her flesh could absorb a certain number of impacts before it felt the effects. Though, to be fair, the magic ball had only hit the edge of her eye. If the entire thing had melted, she’d probably have a harder time regrowing it. Regardless, she didn’t feel like messing with mysterious magic right now. Best to take care of the creature quickly.
+
+Focusing, Pyre imagined her body thinning out into a single long, worm-like tube. She hadn’t needed to stretch so much since raising her constitution, but she was pleased to see that her increased size didn’t seem to affect her body’s morphability.
+
+[The trait [Amorphous] has leveled up! Lvl 2 —> 3]
+
+Now lengthened, Pyre shifted around some of the eyes on her body to make sure she still had every angle covered. Then, she focused on slithering forward, purposefully weaving around other lumps and using them as shields against incoming attacks.
+
+Another lump nearby got hit, this one large enough to only half-melt away. A second orb melted the rest, and she noted that it lost its delicious smell. Looked like that scent was only present when the things were alive. Speaking of smell, the magic lump wasn’t even eating the things it hit, unless it had an invisible long-distance devouring mechanism. It seemed like it was just throwing shit around and generally being kind of stupid. Very mindless flesh lump-like behavior, indeed.
+
+As Pyre crawled closer to the lump, she took the opportunity to devour some of the smaller lumps along the way. She still hadn’t gotten another level, though; these non-sentient, level 1 lumps weren’t giving her nearly as much experience now, but they’d add to her quest bonus, so she kept at it.
+
+After six more kills, she finally got another level.
+
+[Your species has leveled up! Lvl 3 —> 4][Strength +2, Agility +2, Constitution +3, Magic Resistance +2, Intelligence +1]
+
+[You have earned 10 points]
+
+[You have gained the [Basic Flesh Sculpting] skill!]
+
+And her first skill, by the sounds of it.
+
+First thing’s first, she added 5 points to her magic resistance since she’d really rather not get insta-melted, then 3 to constitution and finally 2 to agility. While she was still set on her “stand still and do as little as possible” strategy, in the case of this particular flesh lump, she’d like a little more speed to dodge those magic attacks.
+
+Another sphere flew towards her, but in her elongated form, it was fairly easy to slither out of range. She was getting closer now, and she noted that the lump seemed to have a set pause time between each new glowy orb that was fired off. As Pyre neared, she hung back, mentally counting how long it took before the lump’s body lit up again and the next shot was thrown into the pit. About thirty seconds, give or take. Not bad at all.
+
+Pyre devoured another nearby flesh lump, then settled at a distance where she could reach the other lump if she fully stretched forward. Now, she waited.
+
+The moment the lump began to glow, she tensed. The orb of light grew in size before it finally exited the creature’s skin, hovering in front of it for just a moment before it jetted forward in her direction.
+
+Pyre sprung to action, not at all deterred by the ball of magic flying straight at her. She tugged her body more, urging the flesh to thin out further as the front half of her body extended to its full range, exactly in reach of the lump.
+
+She felt a burn as the magic flew past, singeing the edge of her flesh, but it didn’t fully melt like the edge of her eye had when she’d been hit earlier. The flesh softened and warped slightly, a few droplets falling further down into the pit, but it managed to somewhat retain its shape. That was the increased magic resistance kicking in, she guessed.
+
+She wound the end of her body around the other lump. She could feel it squirming in her grasp, but it was unable to do anything in the face of her higher strength. Before it could pull any other tricks out, she drew the rest of her body in as well until she was securely wrapped around the creature.
+
+This one even smelled a little different from the other lumps, she realized. Maybe it was her increased [Scent] level that allowed her to notice it, but there was a slightly acidic note beneath the usual delicious smell. Perhaps that was the scent of magic. It was something she’d have to look out for in the future.
+
+Instead of waiting for her body to naturally digest the flesh, she focused on the [Flesh Eater] trait, picturing activating it like she had the first time she’d used [Amorphous]. A ripple passed through grey flesh, then she immediately felt the flesh lump in her grasp begin to dissolve. Her body soon absorbed it at record speed, and by the end, she felt more full and satiated than ever before.
+
+[You have devoured (1) Flesh Lump Lvl 5][Experience earned!]
+
+[Your species has leveled up! Lvl 4 —> 5][Strength +2, Agility +2, Constitution +2, Magic Resistance +2, Intelligence +2]
+
+[You have earned 10 points]
+
+[You have gained (1) new trait!]
+
+Please select from the following options:[Ossification], [Sound Perception], [Mana Core], [Tendrils]
+
+Pyre internally whistled. That level up had come way quicker than she’d thought, probably because the lump seemed to have actually been a higher level than her. The stat distribution this time was also even. Maybe it was less about the way she’d previously distributed her points and more about what stats she’d been using to reach the next level? She decided not to worry too much about it. However the system decided to distribute things, she always had additional points to spend freely anyway if a stat was starting to lag behind.
+
+Before proceeding, she first double-checked that there were no other flesh lumps in her immediate vicinity that would be a problem. Obviously it wasn’t an exact science, but she didn’t spot any bigger creatures or anything with new appendages or features. She’d ended up climbing higher up the pit during the fight, shoving past other lumps more easily than ever thanks to her size. If she focused her eyes upwards, she could make out the faintest hints of light in the gaps between lumps high up above. It looked like the surface was closer than she’d originally thought.
+
+Satisfied, Pyre put 4 points into constitution, 3 in strength, 2 in magic resistance, and the last point in agility. She then focused on the skill she’d gotten during the fight since she hadn’t had a chance to look at it or test it yet. Focusing on the skill pulled up a screen similar to the ones that showed the description of traits.
+
+Skill: Basic Flesh Sculpting Level 1This skill allows the user to sculpt their own flesh into defined, structured forms that can be passively maintained for a maximum duration equal to the skill’s level x 1 hour. Once the maximum duration has passed, user must wait for this skill’s cooldown to pass before using it again. If the skill is not used for the maximum duration, cooldown decreases. Detail of sculpting increases with level. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 12 hours. Cooldown decreases with skill level.
+
+Pyre read over the skill a few times. At a glance, it didn’t seem all that different from [Amorphous], but she suspected the differences lay in the details. “Defined, structured forms” made her think sculpting would cause the affected regions to firm up a bit, maybe to something closer to human-flesh levels of squishiness rather than their current near jelly-like consistency. Being passively able to maintain forms was also different. It was a skill she’d need to experiment with when she had more time, but for now she decided to pick a trait before another slightly more advanced flesh lump decided to try and attack her.
+
+Trait: OssificationAllows user to convert flesh into bone. These bone growths must originate from the body, and they can vary in size and shape. These bones can be retracted and converted back into flesh. The hardness of the bones and their maximum size increases with this trait’s level.Subtrait Slots: 4
+
+Trait: Sound PerceptionAllows user to perceive sounds from their main flesh body within a set frequency range. The maximum distance that the user can hear increases with this trait’s level.Subtrait Slots: 3
+
+Trait: Mana CoreProvides user with a unique mana core. This mana core unlocks the use of magic. The user will receive a starting magic stat that will be treated the same as other stats in the future for the purposes of level ups and point use. This trait will also unlock a set number of spell slots and the ability to learn spells.Subtrait Slots: 5
+
+Trait: TendrilsAllows user to grow extra appendages from their main body. These appendages are able to function as limbs and extend beyond the body’s usual range. The strength of the appendages increases with level. The maximum number of tendrils that the user may maintain on the body at a time is equal to this trait’s level x3.Subtrait Slots: 5
+
+[Tendrils] was probably the trait that lump with the arms had, Pyre thought. Anyway, she couldn’t help but chuckle internally as she read through the options. [Mana Core] seemed like the clear winner here, which wasn’t to say that the other options were bad. She’d probably have trouble picking between [Ossification] and [Sound Perception] in another scenario where [Mana Core] didn’t stick out like a giant flashing neon sign.
+
+It wasn’t even that Pyre was especially interested in magic. She was quite happy with her current attack methods, actually, and adding a magic stat would inevitably mean more stats to distribute points over. She liked how things were currently.
+
+Rather, it was the fact that not at least giving herself the option to use magic would be such an obvious oversight that the trait seemed practically mandatory. If she didn’t take the trait now, she might never be able to use magic in the future, and that didn’t sit right with her even if she still had some reservations on how much she actually wanted to bother with spells. Worst case scenario, she took the trait, didn’t like magic, and went back to her current methods. She’d still have spells as a backup if they ever became necessary.
+
+She looked mournfully at [Ossification] and [Sound Perception], but selected [Mana Core]. Choices choices.
+
+[You have selected the [Mana Core] trait]
+
+Pyre waited for the telltale wave of warmth that signalled the trait’s implementation, but there was nothing of the sort. She felt exactly the same temperature as before. Did this trait take longer to work or something?
+
+That was when a new string of messages suddenly flashed across her vision.
+
+[ERROR: No soul data found]
+
+[Potential obstruction identified]
+
+[System attempting to break through blockage]
+
+[ERROR: System unable to access soul data]
+
+[You do not meet the requirements for [Mana Core]]
+
+If Pyre had eyebrows, they would’ve shot upwards. She gave the messages another read just to make sure she wasn’t hallucinating, but they were exactly what she’d read the first time. Soul data? Blockage? Last time she’d checked, the only blockage was the one giving her amnesia. Was that the same thing making her “soul” unreadable or whatever? What even was a soul? Did she just not have one?
+
+Before she could think more on the matter, a familiar voice filled her mind. It was the same voice she’d heard during the system’s welcome message, but its previous calming tone now had a slightly harried note to it.
+
+Good evening, we hope you are enjoying your reincarnation thus far. The system sincerely apologizes for the errors related to your trait selection. We are working to investigate the issue, but it is likely that you will not be able to select the [Mana Core] trait for the foreseeable future.
+
+Despite the situation at hand, Pyre felt herself smile internally. Nice to hear from you again, funny voice. So, is that blockage the same one blocking my memories? And what’s a soul, exactly? How does magic work?
+
+Due to system restrictions, we are unable to share information with you on the nature of souls and magic. We hope you will find the answers to these questions yourself throughout your journey.
+
+As for the blockage, the system cannot say anything with certainty, but it is possible that they are related. Should our investigation yield results, we will inform you. Please rest assured that we are doing our best to resolve this issue. Until then, we recommend you select a different trait from the other three options.
+
+Once again, the system sincerely apologizes.
+
+Pyre digested the words, absorbing the information. So, the mysterious blockage that she thought was just blocking her memories was probably actually blocking her entire soul out. And whatever was causing it was apparently so unusual that the all-important, possibly-omnipotent system didn’t know what to do about it.
+
+She should probably be more mad that she’d essentially lost the chance to use magic, but on the contrary, Pyre didn’t feel particularly upset about it at all. Maybe it was because she hadn’t been all that interested in magic to begin with and was just selecting [Mana Core] to avoid seriously fucking up her future options, and this gave her an excuse to not use magic without feeling like an idiot. Maybe it was that the whole mystery surrounding her past life and that “blockage” had suddenly gotten so much more interesting. There was clearly something going on here, something more.
+
+It occurred to her that the system was probably waiting for a response, so she directed her attention back to that ever-so-polite voice. She hummed internally as she considered what to do. The ends of her body curled up in mimicry of a grin.
+
+Hey, since I can’t get my first choice, how about you let me pick two traits?
+
+The voice sputtered.
+
+That would be extremely unorthodox. We do not typica—
+
+Come on, throw me a bone why don’t you? This is a pretty big deal. I could seriously be shooting myself in the foot here without magic, you know.
+
+The voice paused, and Pyre could hear the hesitation in its next words. They were noticeably less practiced than usual.
+
+Well… it is true that you have exceptionally unique circumstances…
+
+Pyre waited patiently. A few more moments of silence passed, though she suspected there was more going on behind the scenes. Finally, she heard the voice sigh before it spoke again, its former formality returned.
+
+As an apology for the error with [Mana Core], you may select two traits from the current selection.
+
+[Ossification] and [Sound Perception]. Pyre didn’t even have to think about it. There was another pause, then she felt two waves of warmth pass through her, one after the other. After the last wave had faded, she smiled internally. If she had a head, she would’ve cocked it in amusement.
+
+You know, for an all-encompassing magical voice with god powers or whatever, you’re kind of a pushover. She’d thought she’d have to do a whole lot more convincing.
+
+The system steadfastly ignored her.
+
+We will resume contact if we discover any new information regarding the blockage. Until then, we apologize again, and we wish you a fruitful reincarnation.
+
+With that, the voice fizzled out, leaving just Pyre, the other flesh lumps, her two new traits, and the knowledge of everything that had just transpired.
+
+Well, she thought, this was certainly shaping up to be an interesting second life. And she hadn’t even escaped the flesh pit yet. Pyre’s eyes tilted upwards towards that distant, thin speck of light from above. With the latest revelations, she felt a greater curiosity about the surface than ever before.
+
+Soon, she thought. Soon.

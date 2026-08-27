@@ -1,0 +1,151 @@
+---
+id: 59efed4d-5162-52d3-bdd6-c631b2d30902
+page-type-slug: story-chapter-royal-road
+title: "Chapter 555: Stealth Army"
+slug: 0596-chapter-555-stealth-army
+partOf: dungeon-of-knowledge-complete
+position: 596
+ownLength: 3419
+unit: words
+ownProgress: 3419
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3115682/chapter-555-stealth-army"
+royalRoadId: "3115682"
+markedReadAt: "2026-06-29T20:31:14.402Z"
+---
+
+The undead are a scourge upon the face of the world. It’s by the providence of the gods that we can smell them coming and smash their skulls with our hammers.
+
+- Bragni Doomhammer [The Hammer of Justice], Dwarven King of Dal’mohra.
+
+Ali hovered near the South Gate, well behind the battlements, keeping her eyes glued to the road. The gray strip of flagstones was plain and well-worn, and someone had thoughtfully repaired it in a few places, but it remained stubbornly empty. Nothing moved. Not even a bird or a rat disturbed the stillness before her. It was uncanny. But that may have just been her mind reacting to Calen’s report.
+
+The towering battlements Ali had rebuilt after the destruction of Myrin’s Keep kept silent watch over what had once been a large stretch of farmland nestled below the cliffs to the south of the town – farms that had been destroyed so long ago during the goblin siege, and never fully recovered since. Now the land was dotted with towering Ciradyl trees, watered by the meandering stream that sparkled in the sunlight with the runoff from her lake of mana-purified water. Many of the great trees were still inhabited by Wood Elves even though their home beside the Well of Souls had been restored to them, but the land between the giant roots still bore the scars of blight and the incessant raids by the dead.
+
+An overly large black crow let out a desolate cry and took to the air, flying off into the distance.
+
+The problem was, she expected to see something.
+
+Unfortunately, Calen and Mato were both down at the Shrine, the Beastkin having eked out his last level several minutes before the demon hunting expedition had been recalled. Every scout’s eyes were scouring the emptiness of the road or the skies and forests, searching, but Ali would have appreciated Calen’s perceptive gaze – her half-elf friend had the Eyes of the Archon, True Sight, and a keen instinct for looking in the right spot. Not even the hundreds of trap rune-circles she’d scattered along the road were reacting.
+
+Down on the battlements, Gerald Brand directed his garrison guards, many of them having recently reached the second tier, setting them up in defensive teams with ranged damage users paired up with the rarer perception-focused classes, support mages, and healers. Grim faces and white-knuckled fists told the story of a town battening down the hatches and warding the walls against an incoming avalanche of evil. Every single defender had been sent to Lira’s tree and the Church of Azryet for long-duration buffs that would undoubtedly save lives.
+
+All along the perimeter of Myrin’s Keep, stretching as far south as Lira’s World Tree, the bosses Ali had placed to guard everyone stirred restlessly, perhaps reacting to the uneasiness of their summoner. More than three hundred thousand mana had been tied up in defenses, along with all her remaining Authority. Champions and raid bosses of all kinds were carefully designed, drawing from every available resource and her considerable experience, and yet, she had been caught flatfooted.
+
+Ali pursed her lips. Too stretched. Too… we lacked information and insight. That was what Calen had said, and he was right.
+
+The Blind Lich had been supposed to attack Lira, Ciradyl, and the Well of Divinity – everyone had agreed on this. His strategy had not been questioned, and so, Ali had spent most of her Authority locking down those strategic resources. Sure, he’d launched an offensive at the Well of Divinity, but he’d ignored the others, instead attacking via Naia’s dungeon and directly advancing on Myrin’s Keep – where her defenses were weakest, as if he smelled or tasted that weakness somehow. Here, on these walls, she must rely on monsters without the benefits of Authority until she could earn more.
+
+“I sense intruders, Master.”
+
+Ali blinked, turning to regard the dark, spherical demon that hovered in the air nearby, bristling with far too many fangs and eyes. Focusing afresh, she broadened her perception of the Psychomancer’s senses, and instantly, she could ‘see’ what it saw. Dotting the South Road was a river of sparkling and shimmering lights – the disembodied perception of thought, the rippling pressure of intent, and, outshining them all with a cold, implacable focus, she saw the steady radiance of malevolence judging all it beheld.
+
+Despite the sunlight, Ali shivered at the sight. He’s here.
+
+When she had heard Calen’s news, a small part of her had desperately, vehemently wanted to deny it. To insist he must be mistaken. That such a misfortune could not – would not – come for her. It was a selfish, childish part of herself, she recognized, and one that did not respond well to the cold necessity of reason. Calen had no cause to make it up. Nor was he prone to anything less than being completely thorough. Besides, Ali had personally experienced the Blind Lich targeting her directly.
+
+Still, she couldn’t see them. She couldn’t even see the mana that projected the incredible illusion, so skillfully was it fashioned. Nor could anyone else. Her blood magic wielders – Trolls and demons – could not sniff them out. Her oozes couldn’t feel them, nor could her bats hear them. It was only through the mind magic of her Psychomancer and Calen’s True Sight that they had any warning whatsoever.
+
+She shuddered at the implications of what might have been.
+
+Down there, on the otherwise desolate and empty road, strangely fuzzy and indistinct blobs marched relentlessly onward with a bold pace and certainty of victory. Visible only to the eyes of her Psychomancer demon, Ali studied these oddly shaped wisps of thought; tiaras or anointments that wreathed the heads of the invisible greater undead – all the monsters capable of independent thought – among an otherwise undetectable army.
+
+It was, she reflected, a brilliant strategy; one that betrayed intimate knowledge of herself and Myrin’s Keep’s defenses. She had been attacked by powerful forces in two very separate locations – a perfect distraction from the vast horde of undead sneaking in under the cover of illusion. Undoubtedly, they were supposed to send all the most powerful adventurers to remote locations, leaving the town itself relatively undefended, granting Nevyn Eld an easy victory.
+
+She frowned. Not if she had anything to do with it.
+
+This is for my parents. She paused, remembering what she had been through. And for me, and all these people. I will not let them down.
+
+Ali pursed her lips again and gathered her concentration, allowing the vanguard of the dead a few more minutes to approach. When she judged them to be too committed to easily escape, and yet just far enough away to be unable to launch their ranged attacks, she began.
+
+Mana surged through her body, an upwelling from her heart and pouring down her outthrust left arm till it blossomed into golden rune circles gathered about her wrist. Bangles of third-tier runic formations. She held them hovering there, pulsing with potency on the brink of completion as she augmented them. Nathaniel Sunstrider’s Greater Dispel glittered in all its glorious complexity, a formation of stunning beauty and form. It felt almost sacrilegious to augment such a masterpiece, but she did so anyway, slamming in another trio of circles for the metamagic spells of Increased Range, Empowered Spell, and Obfuscated Casting, spartan spells of pragmatic efficiency that looked almost crass beside the golden masterpiece. But Ali wasn’t here to make art. The formations buzzed and hummed with a low thrumming of rising power as she fed thousands of points of mana into the array, and then she released her spell.
+
+Empowered by all her enhancements, the golden orb resulting from her work blasted out over the silent road like a signal flare. At once, all the thought auras intensified – the greater undead, capable of independent thought – suddenly alerted. But her spell flew with the speed of one of Calen’s arrows, closing the distance between her and the hidden army in the blink of an eye.
+
+It seemed to hover above them for an endless instant, and then it popped, raining golden flares down onto the road and surrounding turf like a soft sprinkling of unusual snow. For a few seconds, nothing much happened, but then, as gasps and shouts echoed up from the battlements nearby, the road below them shimmered and warped. One by one, the dark forms of the undead began to materialize, like nightmarish soldiers emerging from an impenetrable fog. The keening moan of zombies and the stench of rotting flesh rose on the morning air to greet the defenders of Myrin’s Keep.
+
+Death Knights, ghouls, and zombies formed a seething mass that blotted out the ground. The eerily chilling hisses of specters and the bone-scraping howls of the banshees echoed eerily across the battlements. Further in, near the center of the vast, dark, seething sea, giants loomed – patchwork abominations that towered above their undead brethren, breathing out clouds of foul grey miasma while towering, ice-encrusted trolls from the conquest of Telim Gor crushed insignificant skeletons underfoot with every ground-shaking step.
+
+Ali froze.
+
+The air above the undead army shimmered like a gossamer veil being drawn back, revealing the immense bones of a gigantic skeletal dragon. Bony wings stretched wider than districts, beating a slow, lazy cadence against the rapidly dissipating fog. The fang-filled maw opened within a skull larger than a house, making the ancient, blackened steel armor bolted to bone inflict a tortured scream upon the living that chilled the spine and dredged up childhood terror from barely recalled nightmares.
+
+Sitting astride the ancient bone dragon upon a leather saddle the color of midnight was the imposing, gaunt figure of the Blind Lich himself, like a nightmare ripped untimely from some ancient crypt of evil that by its very presence sullied the light of day with the miasma of unspeakable corruption. In his right hand he grasped reins of shadow and in his left, he wielded a twisted skull that blazed with eldritch power. His crimson blindfold shone with a silver radiance fit to challenge the sun itself, and his grave-wrought robes rippled out behind him on an unfelt breeze like a baleful shroud already prepared to bind all the death to come.
+
+“Commence fire!” Gerald Brand commanded, his parade ground voice carrying easily across the battlements. Every ranged garrison guard and the adventurers who were serving as reserve defenders all unleashed their magic, arrows, and skills. Buffs flared, potions were downed, and the air suddenly ripped with the chaos of detonating mana and deafening thunder.
+
+The mounted Lich waved a gaunt hand, and the undead armies returned fire.
+
+Every trap circle Ali had inscribed chose that precise moment to trigger. A ripple of golden Arcane Explosions cascaded through the dead as thick roots sprang from the ground to entwine them. A series of whistling pops echoed through the shambling forces as Ali’s latest ‘Tamryn’s Translocation’ – a spell that teleported anyone stepping on it twenty meters in a chosen direction – spell circles fired. Ali had chosen ‘up’ as her direction. It had been her second choice, and she’d been incredibly disappointed that down didn’t work, due to the interference of solid matter. Ghouls and zombies popped up into the air, flailing as they fell back to the ground to smash into their allies. The horde poured over her circles without the slightest hesitation, crushing their fallen brethren underfoot.
+
+Still hovering above the seething horde, the Blind Lich raised his left hand. Shadows spilled from the strange skull cradled in his bony grasp as his hissing laughter echoed from every corner of Myrin’s Keep, and then he plunged the world into darkness.
+
+As the unseemly night gripped the land, frenzied howling rose from the undead as every monster seemed to swell with an infusion of unholy power, their eyes glinting with malice and a ravenous hunger for flesh.
+
+Screams rose above the deafening bombardment as the panicked guards dove for cover. Ali’s bosses unleashed their power, but it was immediately clear they were a net trying to hold water. Too widely distributed due to the restrictions of the domain, and not powerful enough to dent the immense tide of undead that crashed against the battlements with the power of the Lich’s oppressive darkness seething in their withered veins.
+
+The moment her first boss fell, Ali knew they were in trouble. As the abominations and giant troll wights tore through her second boss, she realized the stark truth: without Authority and third-tier defenders, they were doomed to be overrun. Her bosses were having some effect – their immensely powerful domain magic spells were tearing undead monsters to bits, filling the air with smoke and flying pieces, but the undead surging forward below were as endless as the sea and empowered by their master’s eldritch night.
+
+Ali’s blood ran cold at the sight of immense rivers of dark mana coalescing within the Lich’s dreadful weapon. The faltering sun seemed to dim even further. An instant later, a deafening hum shook the land. A reality-bending Umbral Lance shot forth from his grasp, and in a cataclysmic explosion, a section of battlement the size of the South Gate was obliterated and every defender who manned that section was vaporized in an instant.
+
+The dead surged forward.
+
+“Hold!” Lyeneru screamed. “Hold your ground!” But not even the incandescent sun of fire and lightning could shore up their defenses everywhere they were being pressed.
+
+Ali scrambled to respond, flinging hastily summoned barriers into the breach as the dead poured through in waves. Suddenly, just as she was about to despair, two loud zone-wide gongs rang out, followed by several softer echoes in the back of her mind.
+
+[Zone] Realmstrider Ascendant has advanced to the third tier. You have gained Reputation.+3 Authority.[Zone] Dire Aegis of the Wilds has advanced to the third tier. You have gained Reputation.+3 Authority.
+
+Far above the seething battlefield, a fountain of shining orbs of light burst forth, each floating down toward the battlements like blazing beacons of hope to drive back the unholy darkness. Gasps rose from the beleaguered defenders as Calen’s familiar spell began to boost their damage but, as Ali immediately noticed, by far more than her minions were used to.
+
+A shimmer flickered above, and a radiant figure stepped out from the Spirit Realm. It was Calen, but… more. Where the half-elf’s complexion had once been pale, it now shone with an ethereal inner radiance, like his alabaster skin was the veil to an otherworldly realm of starlight. Jagged lines of blazing light adorned his skin like cracks through which the radiant heart of the sun was escaping. His eyes shone, his silvery hair floated unbound behind him, and his wings were so intense that Ali could hardly look. In his hand, his bow buzzed with barely repressed power.
+
+“Calen?” Ali whispered, staring at the radiant form of her friend.
+
+Archer [Realm Traveler] – Celestial Half-Elf – level 250 (Light)
+
+Celestial? Did he become an Archon? Her mind immediately leapt to the implications. Nice!
+
+A second figure stepped out beside him. A colossal, ruddy-brown, shaggy bear that loomed over the already-tall shining archer. He had been large before, but now he loomed over Calen, larger even than a Forest Guardian. Gathered about the bear were half a dozen sizzling shields the color of nothing, the shades of disintegration, the very absence of existence which was the essence of the void. Shields the size of dinner plates that hung effortlessly in the air, each in the shape of a dragon’s scale. He walked upon shields buzzing beneath his feet, high above the battlefield.
+
+Ali identified him, too.
+
+Druid [Incorruptible] – Beastkin – level 250 (Nature / Void)
+
+“Mato? You’re… flying!” Ali gasped. “And you’re so much bigger!”
+
+“I’m not big, you’re just little,” Mato whispered into her mind from far above the enemy with a mental tone that bubbled with mirth. Then he raised his head and unleashed a roar that split the skies like thunder, and the entire undead army seemed to shiver as thousands of undead eyes and empty sockets locked their gaze upon him. The void shields beneath his paws winked out and what had to be several tons of fur, muscle, and armor plummeted to the ground like an apocalyptic meteor. The ground crumpled in several concentric rings from the shattering force of his impact, tossing dirt and monsters into the air. Out of the dust-filled crater he surged in a blur of fury, charging through the dead like an unstoppable, snarling juggernaut and laying into them with furious paw swipes that sent even the mithril-clad Death Knights flying.
+
+Calen turned and met her gaze of stunned disbelief, and even at this distance, she could see the cheeky wink. Then he vanished, and in his place, nine of him appeared. All nine raised their bows and unleashed a storm of shining arrows into the dead, the individual detonations blending into a rolling peal of continuous thunder in the wake of his arrows.
+
+That’s Mirror Image! Ali would recognize that spell anywhere – she had stolen it from every Fractured Archon she had faced. Wait, Calen! Have you been secretly sneaking sips from the Wells? Rascal.
+
+Hope, fresh and poignant, seared into her breast.
+
+Instantly, Ali realized what she had to do. She teleported to the nearest boss on the battlements and unsummoned it to make room. Using one of her freshly earned points of Authority and the Quicken Spell from Velis’ Final Word – her onyx choker – she summoned her favorite undead killer, boosted to tier-three courtesy of Azryet.
+
+Blazka [Bane of the Dead] – Kobold – level 250 (Holy)
+
+The petite, white-robed kobold manifested in a cloud of golden motes. She blinked reptilian eyes and swiveled her head from left to right as she surveyed the sea of undead arrayed before the walls. Then she grinned wickedly, baring glinting fangs and summoning dancing tongues of holy flame to her talons.
+
+Working as rapidly as she could, Ali applied her champion enhancements to the veteran Wielder of the Sacred Flame, who had earned her name and title destroying banshees and worse by the score in their conquest of the Well of Corruption dungeon at Ciradyl.
+
+“Let’s put that title of yours to work,” Ali said, getting a solemn nod from the freshly summoned kobold mage that was effectively a bow.
+
+She saw no reason to improvise on a formula that had proven so successful, offering her minion the same enhancements: Amplify Skill and Spell Cascade for Holy Fireball, a holy Affinity Aura, and Clone. Blazka wasted no time duplicating herself and distributing her overlapping holy auras, to much cheering from the nearby guards, and then she immediately went to work, lobbing a rain of blazing, white-flame holy fireballs into the fray in volleys of twenty at a time. Down below, Ali could hear howls and sizzling as the resulting fires of consecration triggered the Bane of the Dead title’s Turn Undead spell.
+
+Then, the guild’s platinum adventurers charged through the splintering South Gate behind a shining, mithril-clad Goblin and a petite Ahn Khen girl wielding a heavy shield that likely weighed more than a horse, and a gleaming shortsword.
+
+Sabri shouted, and the clutching undead recoiled backward from the shimmering shockwave of her Soul Shout.
+
+“For Azryet!” Havok screamed with glee, rushing into the gap and smacking a ghoul in the face with his Holy Shield. “Thanks for the damage! Mighty damage!”
+
+They’re all maniacs, Ali thought as the rest of the adventurers barreled into the undead with whoops and hollers, and no small measure of damage dished out.
+
+Ali had five more points of Authority to spend, thanks to Calen and Mato’s timely advancements – and there was an endless expanse of golden, domain-reinforced battlements to protect. She launched herself at her task with her Grimoire blazing beside her, and the undead army’s advance ground to a halt.
+
+The Lich’s hiss of displeasure rippled through his army like a shudder of exquisite pain, and with a sharp wave of his gaunt hand, unspeakable horrors – spirits from a forsaken underworld – began to claw their way forth from the shadows beneath his rippling robes. Eyes burning with malevolence turned their ravenous gazes upon the living, and a spine-chilling howl rose to shatter the already fraying will of the beleaguered defenders.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,281 @@
+---
+id: e47e646e-7646-57b4-a51d-6936b736d4b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 545: Ascension"
+slug: 0585-chapter-545-ascension
+partOf: dungeon-of-knowledge-complete
+position: 585
+ownLength: 4720
+unit: words
+ownProgress: 4720
+publishedAt: 2026-02-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3080698/chapter-545-ascension"
+royalRoadId: "3080698"
+markedReadAt: "2026-06-29T20:32:16.975Z"
+---
+
+“How should we proceed?” Calen asked, glancing at his friends who were sitting sprawled out on the long grass. The winds howled unrelentingly above, but Ali had erected a domain-empowered barrier wall to shelter them from the storm. Thankfully, the surprising, pitched battle against Haverron and the denizens of the Crypt of Kings was over, leaving all of them exhausted, given that it had been forced upon them after a long day of hunting down every last island in the Sea of Fractured Dreams.
+
+“We should go get the elixir made,” Mato declared. “As soon as we catch our breath.”
+
+“I want to also…” Ali said, but then she trailed off with a mournful glance at the radiant Well of Divinity and its attendant guardian behind them.
+
+“What’s wrong, Ali?” he asked. If anything, he’d expected her to be the most relieved or joyful of the group.
+
+“I drew the undead here with my cursed title. Now they know where the Well of Divinity is,” she said. “This was just the beginning. When Nevyn Eld emerges from his Phylactery again, he will lay siege to the Well and claim it for his own.”
+
+“They probably already knew where it was, Ali. Remember, Nevyn Eld is older than the Breaking,” Calen said. His heart clenched in sympathy for the worries she bore, even in the face of their impossible success. Certainly, the realm-wide notification had let everyone know that the well had been restored, and they’d recovered the vials required for the elixir, but Ali had always carried immense guilt for the consequences of her cursed title. Still, this one was not her fault. There was no way to keep the secret of the Well, regardless of her title.
+
+“I need to stay and make sure the Well is protected,” Ali said, her gaze firming as she seemed to steady herself. “Even if they were already aware of the location, it was always out of their reach. Now that it’s restored, his minions can corrupt it and turn it to his evil purposes. We all saw the horror he inflicted with the corruption of the Well of Souls. I can’t let that happen again.”
+
+“I will stay with you,” Calen said. “Mato and Malika can go find Morwynne and get everything ready for the elixir. We can join them when you’re done making defenses.”
+
+“Are you sure?” Ali asked, glancing at him in surprise.
+
+You don’t have to be surprised your friends want to help, Calen thought, but he kept those words to himself and instead pretended he’d misunderstood just a little. “Yes. My arrows are probably the best at taking out any of those eyes. I’ll cover you while you work.”
+
+“I’m sorry you have to do this,” Ali said, looking down at the grass by her feet.
+
+“It’s no problem,” Calen reassured her. “There are more than enough unbound elementals floating around that I won’t get bored. I’ve been meaning to practice my archery skills for a while, and this is a great opportunity. Do your thing.”
+
+“Ok, perfect. You keep her safe, you hear?” Malika said, getting to her feet.
+
+“For sure,” Calen said.
+
+Malika shared a meaningful look with him and then turned and said, “Come on, slowpoke.” She poked Mato, who just growled at her, but he sprang to his feet with eagerness, and the two of them vanished through the Gate.
+
+Calen kept watch while Ali summoned her monsters, his arrows seeking out and slaying every eldritch eye that spawned with extreme prejudice. While she summoned large Treants with plant skills and set them to work seeding every one of her claimed islands with trees and flowers, Calen amused himself by hunting roving wind elementals, drawing them in toward the Divine Archon to be slain.
+
+With a grim set to her lips and an intensity of focus to her eyes that was beginning to worry Calen, Ali began to churn out Storm Bloom flowers by the hundreds, setting them adrift in the howling winds, and as he watched, he witnessed the transformation as the magic of the Dungeon of Knowledge laced the storm itself with thickening ropes of wind-affinity mana and claimed it.
+
+“Will it work?” Ali asked, her question coming out of the blue as he hovered nearby.
+
+“Claiming the storm?” he asked, not entirely sure of her meaning. “It seems to work.” Even without her incredible sensitivity and perceptions, he could see the mana spreading overhead and below.
+
+“The elixir,” she said, her voice barely a whisper.
+
+“Azryet has always been fair and honest in his dealings with us. You can trust him on this,” Calen said, catching her eye. “We finished the quest, Ali. Instead of worrying, perhaps you should be planning what you’d like to say to her?”
+
+“I… Thank you,” Ali said, and then she turned to study her work for a moment. “I have a bit more to do, and then we can go back and join the others.”
+
+Calen followed along as Ali visited each island in turn, protecting her as she chose bosses or various patrolling minions to set as guardians. She was, he noticed, making heavy usage of her new imprints. Divine Archons, Fractured Archons, and even a few of the wind elementals here and there, bound to the strange wind-affinity plants adrift on the currents. Still, she bolstered the defenses with her staples – dragons, kobolds, and trolls. She even populated the Spirit Realm with ghostly beasts and spiders, allowing them to phase across as ambush patrols.
+
+“Pretty comprehensive,” Calen offered. He had made many suggestions as he saw ways to improve the defenses, but by and large, Ali had mastered the strategy of defending her domain. At least in many ways, past his own skill level, so he just let her work while he cleared any stray monsters that wandered into range. Despite Ali’s fears that she was an eldritch or undead beacon with her cursed title, no more portals appeared, nor did many of those prying eyes.
+
+Finding a lull in the action, he pulled up his notifications for the fight earlier.
+
+Realm Hunter has reached level 229 (+5).+50 attribute points.Radiant Archery has reached level 123 (+2).Arrows of Brilliance has reached level 120 (+3).Motes of Light has reached level 87 (+2).Explorer has reached level 126.Blessing of the Dawn has reached level 96 (+3).Eclipse has reached level 66 (+2).Eyes of the Archon has reached level 94 (+2).Righteous Fury has reached level 77 (+3).Azrael's Wings has reached level 67 (+4).Mirage Armor has reached level 100 (+5).Cartography has reached level 42.Mirage Armor has reached a base skill level of 100.Mirage Armor has advanced to tier two.
+
+Oh! Tier two! Sure, he had needed to be burned and blasted by beams of light from an angry Fractured Archon to earn it, but reaching level one hundred in Mirage Armor would be a fantastic improvement to his survival skills.
+
+Following his usual progression, he assigned two points each to vitality and endurance, four each to wisdom and strength, twelve to dexterity, and finally, thirteen each to intelligence and perception.
+
+There, that should do it. Now to test out Mirage Armor!
+
+He spent his remaining time on the islands experimenting with his decoys and illusions, intent on figuring out every detail of the tier-two change. The first thing he noticed was that his decoys lasted longer. A lot longer. And the blur wreathing his body was wider and more elusive.
+
+He could not resist rubbing his hands together. A true step change.
+
+Malika stepped out of the guild onto the gorgeous honey-gold, precision-cut sandstone slabs paving the main street, taking in a deep breath of the cool early night air. No city in the kingdom, she was sure, had such beautiful stone for a mere road. During the chaos of the last fight, something significant had happened – an insight perhaps – but with all that had been going on, Malika hadn’t had the time to introspect and figure out the answer. She knew precisely when it had happened – her balance had been close to tipping as she had ducked under Haverron’s exquisitely aimed blade, but she hadn’t slipped. Instead, she had arched back up in the wake of its passage and turned the momentum into a perfect uppercut – one she knew would have made Rezan proud. She smiled to herself, but her deep inhalation of evening air brought with it the unreasonably delicious aroma of frying meat, making her stomach grumble. It had been far too long since she had eaten, and with the events of the busy day, it had somehow entirely escaped her notice.
+
+An omission to be remedied at once.
+
+Without even a word passing between them, she and Mato found themselves at Tabitha’s gourmet street-food cart, buying some freshly cooked Bristletusk Boar skewers. Malika dropped a silver coin in the old woman’s hand and collected a few extra skewers for Calen, along with a shiny apple for Ali, since she sometimes preferred fruit.
+
+The heavenly flavors of spice and sauce mingled with meat that had been grilled to perfection, and by the time they were approaching Pretty Powerful Potions, the urgent pangs emanating from her stomach had been suitably appeased.
+
+“Congratulations, Malika. You have taken the first steps along a road few ever find, let alone walk. I’m truly proud of you.”
+
+Malika started, glancing up to find a ghostly image of Rezan Jin strolling along beside her. He just smiled as his image faded away, waving with a ghostly skewer in his hand. Malika blinked and turned back to stare at Tabitha, but the old woman only cackled at her from down the street.
+
+What was that? That had most certainly been her Ancestral Memory, but it was no direct memory of a past event. Curious, she opened her notifications, knowing she would not be able to put it off any longer.
+
+Eyes of the Soul has reached level 230 (+6).+60 attribute points.Martial Artist has reached level 104 (+4).Soul Strike has reached level 111 (+4).Healing Mantra has reached level 129 (+3).Perfect Body has reached level 82 (+3).Soul Armor has reached level 97 (+4).Enlightened Evasion has reached level 80 (+2).Divine Step has reached level 94 (+2).Second Wind has reached level 69 (+3).Clarity has reached level 81 (+2).Soul Sight has reached level 98 (+3).Dancing has reached level 25.Martial Artist has reached a base skill level of 100.Martial Artist has advanced to tier two.
+
+Martial Artist. There it is…
+
+Malika gazed at the notifications, allowing the implications time to settle in.
+
+It had long been her dream to be a martial artist like her parents and even her ancestors before them, but her life had taken a wildly different path, leading to her forsaking the ancient ways of the ancestors, and not entirely by choice.
+
+But on that fateful day, she had made her decision to save Ali and finally took a step towards her dream. She’d never looked back. Now, here she was, staring at a second-tier Martial Artist skill. No wonder something had changed. Even just running through the forms in her mind felt far more sure, more powerful, more graceful. Beneath the superficial sensation, she could sense an infinitely deep well of understanding awaited, ripe for her to discover.
+
+Thank you, she offered, both to Rezan, who had been her mentor, and her parents, who had shown her the joy of the Nine Paths as a child. And another thank-you burned deep in her heart for Ali and her friends. You’ve all been amazing!
+
+She raised her hand to the door of Morwynne Fizzlebang’s alchemy shop and pushed it open, only to be forced to dodge an enormous explosion that sent glass shards flying through the air where her face had just been.
+
+Huh. Thanks for the reactions… or there would have been damage!
+
+“Ok, this time it’s good,” Morwynne said, pushing her goggles up on her soot-stained face till they pressed against her forehead, revealing her sparkling eyes.
+
+It’s a good thing Ali got more than one vial, Mato thought, staring at the burn marks on the alabaster stone floor of Azryet’s library.
+
+“Bring the acorn over,” Morwynne continued, triumphantly raising a remarkably tiny vial in one hand.
+
+“Are you really sure it won’t blow up this time?” Mato asked, shielding Lira’s Acorn from the vagaries of unstable gnomish alchemy with the palm of his hand.
+
+“It is the Elixir of Ages,” Azryet said, his voice rumbling through the vast open room.
+
+“So, it won’t hurt her?” Mato asked. Everyone was looking at him like he was crazy, especially considering the gong that had sounded when the elixir was completed, but he wasn’t taking any chances.
+
+“An elixir of mythic quality is bound to have some lasting effects upon Lirasia’s soul, but I can guarantee it won’t be harmful, nor affect the essence of who she is,” Azryet declared sagely.
+
+Mato glanced at Ali, who was staring wide-eyed at the dragon god, her face unnaturally pale.
+
+“She will still be our Lira afterward?” he asked, pushing Azryet, more for Ali’s benefit than his own.
+
+“I promise,” he rumbled, taking Mato’s admittedly persistent questioning with evident forbearance.
+
+“Ok.” Mato stepped forward and opened his hand, exposing the Acorn he had been guarding for so long.
+
+“Here goes,” Morwynne said, approaching with the tiny vial in hand. She tipped it over, and a single viscous droplet of liquid slowly emerged, hanging over the acorn for a second. It glittered with an indefinable light, as if an uncountable number of sparkling stars had somehow been confined into such a tiny space.
+
+Then it fell, hitting the acorn without a sound.
+
+At once it sizzled, but in preternatural silence, and a dense cloud of black smoke swirled up from the acorn, filling his nostrils with an acrid stench of brimstone and the inside of a freshly opened sepulcher. Ali screamed somewhere behind him. Mato choked, clutching the acorn to his chest to protect it from whatever was happening, but the smoke continued billowing out from between his fingers.
+
+“Peace, Mato,” Azryet rumbled, raising his paw in a calming gesture. “That is the curse. It cannot abide the elixir and is being unmade.”
+
+Still a little uncertain, even with the dragon’s reassurance, he cracked open his fingers to see. The palm of his hand was stained with black soot, but the smoke slowly cleared, leaving a healthy-looking acorn resting on his hand, glowing with that signature viridian-green mana that shone brightly, even through his fingers.
+
+Acorn of RebirthAn acorn that glows with an intense viridian green inner light. Soulbound (This artifact is bound to a soul)Quality: Mythic, Unique.Soul Phylactery
+
+Suddenly, Mato was hit by a surge of relief and release so potent that he stumbled forward a step, barely stopping himself from crashing down to one knee. Confused, he glanced around as if he could find a tangible cause, but the change had come from within. That spot near his heart where Lira’s mana touched him, a spot that had been clenched so tight for so long it had become background for him, had finally released. The soft pulse of gentle magic he remembered from the first time he’d taken her mentorship suffused him from within, no longer warped and corrupted by death.
+
+He breathed in, marveling at the new ease.
+
+“It’s gone,” he whispered, lowering his hand for Ali to see. “The curse is gone.”
+
+Her eyes widened, glistening with tears that threatened to spill over.
+
+Then sensations began to spill in, in the language of the oaks. A desire for soil and water. Sun and wind. The image of a still, beautiful forest and a powerful desire to grow.
+
+“I can hear her. She wants to be planted,” he said, the awe from within spilling over into his voice.
+
+Ali flew along with the procession as they headed deeper and deeper into the blighted forest that had once been Lira’s home.
+
+Half the guild’s gold and silver ranks had turned out for the occasion, kicking up such a fuss that Vivian had finally relented and let them come, despite the constant threat of Death Knights. Many of the guild’s platinum ranks were still off in the Dol Kerriadh peninsula, clearing out the dungeons of Meere Kada and Telim Gor, and so Ali had brought a full complement of her most powerful minions to help guard the procession.
+
+Even Val’korr was there, grumbling as he stumped along, relying on his staff to walk as usual, even though he definitely did not need it. He had complained loudly about the walk, but Ali could tell a thousand horses couldn’t have dragged him away.
+
+Up at the head of the line, Mato led the way, responding directly to Lira’s guidance. It was unfair of her to be jealous of him, but Ali couldn’t deny the pangs that gnawed at her heart. Lira was her aunt; she had known her since childhood. Why was she talking to Mato and not her?
+
+She pushed the invasive thoughts down. Lira’s Acorn had been purified, and now they were looking for a spot to plant her. Deep in the heart of the blighted forest would hardly have been Ali’s choice, though, and so, she had brought a veritable army of Sylvans and creaking Treants that plodded along behind the procession, leaving a green swathe of freshly spawned trees and sowing flowers like confetti in their wake. And expanding Ali’s domain, just in case she needed a champion defender again.
+
+They finally crested a hill and slowly descended into what had once been a beautiful grove. A murky, polluted stream trickled through it, while the blackened husks of blight-rotted trees lay collapsed on the ground. The stench of rot and death reminded Ali of Blooming Rot, and she wondered why Lira had wanted to come all the way out here. They were already several kilometers south of Myrin’s Keep.
+
+Mato stopped by the stream and transformed back into his Beastkin form. “Here,” he said. “She likes this spot.”
+
+“Are you sure?” Ali asked, unable to help herself. She couldn’t think of a more miserable-looking spot in the world. It was a grave of trees.
+
+“I’m certain.”
+
+“Let me at least clean up a little so it doesn’t look so morbid,” Ali said, and Mato just nodded and waited while her minions sprouted a circle of Lirasian Oaks like sentinels around the grove. As her domain washed through the area, she sprouted grasses and deconstructed the blighted trees, purifying the river and soil in the process.
+
+There. I wish it could be a nicer welcome, but that’s going to have to be good enough. She glanced over at Mato, letting him know she was as ready as she could be. It’s a tiny island of hope in a sea of death… is this hope I’m feeling? Hope laced with nothing short of terror.
+
+Without much ceremony, Mato produced a small trowel and dug a little hole, and gently laid the acorn inside. Then he heaped the dirt back on top, burying it.
+
+Ali inched closer, watching without daring to blink.
+
+Basil produced a small watering can and sprinkled some water over the freshly turned earth while his gentle mana reached out and wove the magic of Ali’s domain into the ground.
+
+For a long time, nothing happened. Long enough that dread and worry gnawed deeply into the roots of her soul, but then, a tiny flicker of green sparked beneath the ground, and something moved. A minuscule tug on her domain. A small shoot pushed upward, breaking through the freshly watered dirt, and a tiny green leaf unfurled. It stretched a little longer under Basil’s gentle care, and then a second leaf unfurled, both rotating slightly to catch the sun.
+
+Ali gasped. Lira!
+
+Ali stared at the tree. How tiny and fragile it seemed, sprouting in the middle of a blighted graveyard filled with monstrous undead. How am I going to keep her safe?
+
+Her worries were interrupted by a tiny spark of green mana flaring around the minute sapling. A spark that reminded her of the smallest spark of her domain that had been all she had left after being stranded in the Abyssal Realm. A spark that burned with a tiny prickle of dungeon rage.
+
+Instantly, Ali bent her domain, shifting it to match Lira’s fledgling domain, and the rage dissipated. As if in response, the green glow of Lira’s mana pulsed slowly, as if waiting for something.
+
+What do you need, Aunt Lira? Her memories of Lira’s kind face flickered through her mind. The way she had always seemed to understand Ali’s pain without even needing to pry. The way she never pushed, even when she was right, always allowing Ali to discover the truth of her wisdom on her own if she needed. Ever since Ali was a child.
+
+She’s waiting for me. How she knew, Ali couldn’t tell. Perhaps Lira really was communicating with her, too. But she knew it for certain. The tiny sapling was asking for permission. With a minute and subtle adjustment to her mana, offering a trickle to the seedling, Ali granted it.
+
+The sapling began drawing on her domain.
+
+It was the tiniest trickle at first. Almost too small to be noticed, but then another leaf sprouted, and the stem grew a little taller. More mana soaked into the tree, and the tiny pulsing domain stretched, just a little – almost as large, now, as a New Darian silver penny.
+
+Mato crouched closer and whispered, “She’s so small…”
+
+But the sapling began to draw more hungrily on Ali’s mana, growing up past her knees, sprouting leaves, and splitting off branches. The folks clustered around began murmuring and pointing, but the tree continued growing – and so too, her hunger. A minute passed, and it was as tall as Ali, the distinctive leaves of the Lirasian Oak already easy to identify. Roots shifted beneath the soil, and the dryad’s domain stretched further out into the clearing.
+
+Then, as if reaching a new threshold, the trickle drawing upon her domain turned into a flood. Wood creaked with a sound so lifelike that Ali had to stifle a cry of her own, and the ground split as roots dug deep and the trunk stretched upward, growing rapidly into the sky. Ali stepped backward cautiously, and, as if the tree had been waiting for her to move to safety, the growth exploded. The trunk and branches shot upward into the air until the tree towered above even the other Lirasian Oaks.
+
+Mana whistled across the full expanse of Ali’s domain. In the far reaches of Ciradyl and Aalion, both Wells suddenly pulsed with fervent energy, and their mana gushed out into the domain, drawn across hundreds of miles, through Gates and twisting tunnels to burst forth into the forest and drawn into the rapidly growing tree. Branches reached for the skies, already thicker than Tol’brekk’s torso as the trunk thickened.
+
+The soil shifted, shoved aside by the sheer immensity of the roots digging downward. The stream twisted, flowing free as the trunk, now expanded well past the size of a building, pushed it out of its banks. High overhead, the towering tree reached the lowest clouds, and entire branches vanished within.
+
+Lira, oh Aunt Lira! You’re beautiful!
+
+Through Ali’s domain, the domain of the dryad Lirasia poured, and with it came the roots of the tree. Already she could feel them reaching past Myrin’s Keep, digging down through the forest cavern and into the mines far below. They sprouted from walls, pushing downward through rock and boulders, always seeking, searching for the sources of mana. Through the central portal they burst, flooding out into Ciradyl, and entwining with the giant soul magic trees there while circling the Well of Souls. Another rush, and the roots wreathed the underground Gate to Aalion, sprouting through to cross the entire continent to reach the Well of Divinity. Roots pushed through the rift and into the Abyssal Realm and into the strange realm of nature and earth below Naia’s dungeon: Zulkora.
+
+When the roots finally reached Azryet’s domain, it seemed like the very realms paused.
+
+Ali held her breath, but a few moments later, mana surged down through the roots, a torrent of mana so powerful and so dense she could scarcely look at it. Holy and Void, a donation from vast treasuries of the Dragon God.
+
+The giant tree, already large enough to boggle the mind, underwent a sudden explosive surge of growth. The trunk tripled in width, and the branches thrust up through the clouds far higher than Ali could even see, a vast surge of creaking and groaning from the wood, and cracking and buckling of earth and rock.
+
+And finally, everything stopped.
+
+The mana quietened down, and the clearing grew still. The branches that hung there in defiance of reason were wide enough to build an entire town on. Leaves waved softly in the breeze.
+
+Then a gentle pulse of nature mana burst forth from the trunk as Lira asserted her domain. It rushed through the land like a ripple, passing beyond Ali’s sight in an instant, and behind the tsunami of mana, everything grew. Grass sprouted in waves. Trees burst up from the ground, going from sapling to maturity in less than a minute, and as far as the eye could see, the forest was reborn.
+
+A loud chime sounded throughout the newly verdant clearing.
+
+[Zone] Lirasia [Great Mother of the Deep Woods] has advanced to the fifth tier.
+
+“Fifth tier!”
+
+“The heck?”
+
+“What’s that?”
+
+“Wow!”
+
+But the commotion among the adventurers was interrupted by the deafening gong of the realm notification.
+
+[Realm] Lirasia [Great Mother of the Deep Woods] has achieved divine ascension.
+
+The silence that filled the grove as the gong faded was filled by a serene and familiar voice.
+
+“I’m so glad to see you, Ali,” Lira said.
+
+Ali nearly fainted. No! She would not, but that voice, oh – oh, her voice was the most beautiful sound in the whole world. It filled the forest with resonance and Ali’s heart with warmth and kindness. To say nothing of the sparkling green mana leaves and wisps that spontaneously manifested from the power thrumming through her voice.
+
+Ali looked up to find Lira emerging from the trunk of the tree exactly the way she remembered her aunt, and yet, somehow more.
+
+Lirasia [Great Mother of the Deep Woods] – Spirit of the World Tree – level ???? (Nature).
+
+“Aunt Lira!” Ali flew across the clearing, her wings buzzing like a hummingbird, and wrapped her arms around Lira’s neck like she was afraid of losing her.
+
+Losing her again.
+
+Ali couldn’t bear the thought, but Lira was real, and she was hugging her back. And laughing.
+
+“Ali, Ali, you’re going to choke me,” she said.
+
+“How?” Ali managed, but she loosened her hug just a little and sniffed back the tears. “Aren’t you, like, level a million now?”
+
+“Oh no, dear, I’m barely over a thousand,” Lira said serenely.
+
+“That’s still four times my level,” Ali complained. “I couldn’t possibly strangle you with a hug.”
+
+“We can still have tea.”
+
+“Tea? You’re talking about tea, Aunt – and oh, you’re really, really here!” Should I be giggling? Or screaming? I’m so, so happy…
+
+“I am.”
+
+“But what’s this ‘divine ascension’ thing all about?”
+
+“I guess I’m a deity-class now,” Lira answered, her focus shifting, briefly internal, before reconnecting. “And it’s thanks to you all.” By her own admission, Lira had not been even close to the fourth tier, let alone the fifth. How she had achieved emerging from her Acorn as an ascended four-mark class was something Ali was keenly interested in. Was it due to the mythic spell she had wrought? Or was it the Elixir made from the ancient waters of the Wells? Regardless, she realized dazedly, this was a subject best kept for later discussions, when they were not surrounded by half the guild.
+
+Ali opened her mouth to respond, but her knees gave out as the unexpected weight of mind-rending insanity bore down upon her from the hundreds of black orbs that popped into existence above them, eyelids tearing open to reveal the disturbing gaze of eldritch crimson.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

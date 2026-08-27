@@ -1,0 +1,173 @@
+---
+id: c5604f4a-7849-5a4b-87f8-539719ee28e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 341: Kings and Emperors (Part 1)"
+slug: 0378-chapter-341-kings-and-emperors-part-1
+partOf: dungeon-of-knowledge-complete
+position: 378
+ownLength: 2559
+unit: words
+ownProgress: 2559
+publishedAt: 2025-08-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2504699/chapter-341-kings-and-emperors-part-1"
+royalRoadId: "2504699"
+markedReadAt: "2026-06-29T20:23:25.552Z"
+---
+
+The bulk of Ali’s attention returned to her body as the raid fights in the Lyton Ruins dungeon wound down. It had been touch-and-go for a few moments, but she had been happy to see that the adventurers had not cracked under the pressure as things had begun to go wrong, instead relying heavily on their teamwork to recover. And they had pulled it off – the team would advance further into the dungeon, and Aunt Lira would be securing much more of her once-beautiful forest. Her heart felt so heavy for her aunt. She had truly suffered.
+
+She opened her eyes and surveyed the puzzle room. Although technically, it was anything but a room. Ali sat cross-legged on the small, white, nearly featureless stone platform hovering high above the mountains. From this dizzying vantage point, she could see the entire expanse of the mountain range, the river below, and the vast dense forest to the south, all picked out in muted shades of gray; a familiar map – Dal’mohra before it had been destroyed.
+
+She closed her eyes for a moment, steeling her will before they flicked open once again.
+
+“Are you ready now?” The whiny undertone in Cael’s voice gave the impression of a petulant child.
+
+“Yes,” she said. Ready to slap you, that is. It seemed there was no reason to put it off any longer. While she had considered waiting it out, she had no idea how her friends might find her, nor what they would be able to do, even if they did. Her best option seemed to be to defeat Cael and Gage at their warped games and win her freedom that way. Or at least draw it out long enough to give her friends time.
+
+“Step through the Gate, then,” Cael answered, a distinct thread of excitement returning to his voice.
+
+Ali stepped through and found herself immediately elsewhere. A new island. This one floated by itself, nothing visible for miles in any direction save a strange platform off to the side and above, casting oddly colorful shadows across the pristine marble under her feet.
+
+She glanced upward to study the floating construct. It was a giant platform made from squares of alternating arcane and space magic, laid out in a nine-by-nine grid. Above the platform hovered a transparent, half-golden, half-white hourglass the size of a house.
+
+“Use the portal to begin,” Cael instructed.
+
+Ali glanced about, finding a familiar-looking portal construct etched into the stone a few meters in front of her. Not having much choice, she stepped up into the magic circle and suddenly she was teleported up to the platform, finding herself on the middle square of a row right next to the edge. There was no railing to protect her from the dizzying drop behind her, and even the platform below her feet was transparent. The wind gusted past her briefly, chilling her ears and fingers with its icy grasp.
+
+She gritted her teeth and tried to ignore the vertigo that threatened to upset her balance. “What are we doing?”
+
+“The game is called Kings and Emperors,” Cael declared, triumphantly.
+
+“To the death,” Gage added with his predictable grim attitude.
+
+“It’s my favorite game in the whole world!” Cael continued, ignoring his brother. “I’ll have you know, I’m the highest-ranked player that has ever lived.”
+
+A little full of ourselves, aren’t we? All around Ali, space-affinity mana swirled as shapes began appearing, teleporting in from elsewhere. Semi-transparent golden figures appeared all around her, styled in the shapes of the pieces from the game: the Mage, the Scouts in the front, the Warriors, the Acolytes, and the Rogues. On the far side of the board, shimmering constructs of space mana, mirroring the forces arrayed on her side of the board.
+
+Kings and Emperors. It was one of the oldest strategy games she knew, and even though she had never been an avid player, she had spent some very happy hours playing with Ryn.
+
+“The rules are simple,” Cael explained. “You are the emperor of Arcane, and we will play Space. If you win, you can proceed. Time works differently here in the Spirit Realm. There are twenty minutes stored in each side of the hourglass. It will flip every time someone moves, and if you run out of sand, you will lose something important.”
+
+Simple enough, she thought, although the bit about losing something sounded ominous. “Who goes first?” she asked.
+
+“You can. That can be your handicap,” Cael said.
+
+“Cael…” Gage grumbled.
+
+“Don’t worry, Gage. I’ve got this. I’ve never been beaten,” Cael said.
+
+The huge hourglass above the board suddenly flipped from horizontal to vertical, causing the glowing golden sand within to slowly filter down into the bottom reservoir, pouring from the gold bulb into the white.
+
+Quickly, Ali walked forward between her ranks, and to her surprise, she found her form splitting into herself and a gray echo that remained in its spot as the Emperor piece. While the effect puzzled her, she ignored it for now, approaching the center Scout, which stood more than half a meter taller than her. She touched it and it began to glow.
+
+“If you touch it, you have to move it,” Cael reminded her.
+
+Seems intuitive, she thought, walking out onto the board, and touching the square she wanted. In response, her Scout piece stepped forward, a golden animated statue of arcane magic that strode confidently across the board to the spot she had indicated. In response, the giant hourglass flipped upside down and the sand began to drain from the white reservoir.
+
+On the far side of the board, an opposing Scout piece suddenly animated, walking forward to challenge hers, and the hourglass flipped again.
+
+Ali walked back and touched a second Scout, moving it up to support the first one, and then as Cael responded instantly she began to realize how the hourglass worked. It’s measuring cumulative time difference, she realized. The player who was consistently faster would eventually accumulate all the sand. Given that she had to walk to her pieces, she would be at a slight time disadvantage, but she could move closer during Cael’s turn.
+
+She watched as Cael developed his position by bringing out his Mage into the center with a long diagonal move, threatening her Scout. She moved another Scout out to reinforce her command of the center, freeing up space to develop her Warrior next.
+
+Cael responded with his Rogue and suddenly Ali paused as she gained an inkling of the strategy he was using. With two higher-ranked pieces already in play, her position in the center was vulnerable. Quickly, she double-checked her Empowered Summoner, but she was still benefiting from the intelligence boost from Mok’freja. She responded by moving her Warrior up as she had planned, hoping to secure her forces with a higher-ranked piece of her own.
+
+But Cael advanced with his Scout, making a direct attack on her Scout, but right as she was about to move it, she saw the advancement of the Scout had cleared the way for another attack on her second Scout by his Warrior.
+
+She hesitated, realizing she was about to lose a piece in the exchange.
+
+“You won’t be able to beat me,” Cael said, as she struggled to think her way out of the trap.
+
+“Brother is very strong at Kings and Emperors,” Gage added in support. “You don’t stand a chance.”
+
+Oh, the psychological warfare, she thought, growing annoyed despite her determination not to. They want to get under my skin. I need to focus. Win this.
+
+Now that the position was set, there was nothing for her to do. Quickly, she touched her Scout, the one threatened by Cael’s Scout, and set it to capture the piece attacking it. The square under Cael’s Scout suddenly flickered and vanished, and the hapless piece fell through the board, tumbling head over heels as it dwindled away toward the distant mountains below. Suddenly, Ali had a dark premonition of what she might lose if her Emperor was captured.
+
+After it had vanished beyond her ability to see it, a Scout piece materialized off the back of the board, hovering behind the image of herself as her Emperor, available for her to use, if she chose to drop it on the board as her move.
+
+The square flickered back into existence and her Scout moved to take the spot, shimmering and pulsing with light to indicate the capture had gained it enough ‘experience’ for her to promote it to an Archer, which she immediately did.
+
+Unfortunately, it was directly threatened by the Mage Cael had cleverly placed earlier, leaving her to fall into his trap. But to her surprise, he moved his Warrior instead, capturing her other Scout, sending it tumbling to its doom.
+
+Her delight at being able to keep her promoted Archer evaporated as she was suddenly confronted with the dominant position Cael had manifested in the center.
+
+Shit. Cael had been one step ahead of her in everything. He had even offered a challenging choice of an uneven exchange simply to develop his pieces and now, even though she had a promoted piece on the board, and he didn’t, she was still at a substantial disadvantage due to his superior development. She gritted her teeth as she was forced to fall yet another move behind as she withdrew her promoted Archer to safety.
+
+Cael chuckled, developing yet another piece as his dominance in the center of the board grew.
+
+I wish Ryn was here, Ali thought, dropping her captured Scout onto the board as her next move, trying to shore up her beleaguered and rapidly disintegrating offense.
+
+“My turn,” Gage said.
+
+“Ok,” Cael answered, and in response, an entire column of squares appeared along the right-hand side of the board, along with two new Scouts that appeared in the reserve area for each side. Then Gage moved the Mage to the edge of the board, threatening Ali’s Rogue via the gap created by the new column of empty board squares.
+
+“Hey! That’s not fair,” Ali objected. He had created an opportunity by simply expanding the size of the board – something she was certain had never been part of any game she had ever heard of.
+
+“Yes, it is,” Cael said. “It’s in the rule book.”
+
+“What rule book?” Ali said.
+
+“This one,” he answered.
+
+To Ali’s astonishment, and no small measure of annoyance, a strangely large book appeared amid a puff of mana, floating above the board, flipping open to a page.
+
+Cael continued, “Here it says that Gage can add squares on his turn. Feel free to read it if you like, but your sand is running out.”
+
+Ali ground her teeth and moved her Rogue to safety, snatching up the book and trying to read as much as she could in the few moments it took for Cael to make his next move. She continued in this way as they exchanged several rapid moves, but her position was crumbling as Cael continued to press his advantage.
+
+In despair, Ali connected her awareness with a small Glitter Dragonet hovering in the library, looking down on Ryn who was buried deep in some book with copious notes arranged neatly beside her. I wish I could ask her, she thought, but the dragonet couldn’t exactly speak, and all her trolls had been wiped out by the Heroes of the Crimson Blade.
+
+Wait, not all of them. The obvious one was still alive – Tol’brekk. And I taught him Common. The only problem was that he sat tethered to her domain outside on the second floor of the ruined city. Ignoring the hourglass sand draining steadily away, she sent her dragonet swooping down to land squarely on the book Ryn was studying, eliciting a startled yelp, and a screech from her familiar, Bookwyrm who reared up on her shoulder trying to defend her from the sudden rival.
+
+But Ali was undeterred, reaching with the dragonet’s mouth to grab Ryn’s sleeve and tug.
+
+“Ali? Is that you?” Ryn asked.
+
+Relief flooded through her as her intuitive friend figured out the reason for the dragonet’s bizarre behavior in an instant. She made the dragonet bob her head up and down, flapping her wings urgently.
+
+Ryn’s wings suddenly appeared from her back, shimmering violet and golden. “What is it? Show me,” she said.
+
+Ali took off toward the atrium, checking backward, but finding Ryn flying close behind her. So, she dove downward, soaring through the vast open space, dodging the massive branches of the elder tree. She swooped across the unrestored second library level heading straight out of the doorway. Here, Ryn froze, shocked by the sight of her giant berserker Troll. And presumably the blood stains.
+
+“Ryn?” Ali spoke, using the booming gravelly voice of her Carnage Berserker.
+
+“Ali?” she answered, shaking herself out of the dazed shock.
+
+“I’m in trouble,” she said.
+
+“What do you need?” Ryn said, her voice serious. “I think the others are still out fighting, but I can try to find them.”
+
+“I need you,” Ali answered. “I’m stuck in the Spirit Realm playing Kings and Emperors with two psychopath brothers.”
+
+“You’re playing a game?” Ryn asked, her voice rising in surprise.
+
+“Yes,” Ali said, and then echoing Gage she added, “To the death. I’m losing. It’s a puzzle dungeon.”
+
+Instantly, Ryn’s demeanor flipped, her face grew suddenly serious and she strode confidently across the runic restoration circle and sat down before the giant berserker. Her favorite board and a box of pieces appeared before her. “Show me.”
+
+Ali quickly dictated the board to Ryn and then added “There’s another column of squares.”
+
+“Wait, what?” Ryn exclaimed in surprise.
+
+Ali recounted the game so far, including the rule book, the hourglass, and the strangely cheating move Gage had made. Ryn was by far the best player Ali knew, but she had no idea if she would be able to handle the bizarre alteration to the board or Cael’s brilliantly aggressive play.
+
+“You’re in a bit of a predicament,” Ryn said.
+
+It was a rather impressive understatement for the disaster that was unfolding on the board.
+
+“He says he’s the highest-ranked player to have ever lived, and he’s never lost a game,” Ali said, struggling to keep her despair from leaking through her connection into her minion’s voice.
+
+“Oh… really?” Ryn said, arching an eyebrow.
+
+“You stuck?” Cael prodded from the Spirit Realm, presumably wondering why she hadn’t moved yet. “Scared of losing?”
+
+Ali ignored him. Instead, she asked Ryn the question burning her up inside, “What are we going to do?” She was not a master by any stretch of the imagination. She had just enough skill with the game to know how badly she had screwed up the opening.
+
+“First, we’re going to introduce this arrogant ass to the idea that he’s going to lose,” Ryn said absently. “Now hush for a moment and let me study the board. You keep an eye on that hourglass and get us an accurate estimate of the time left.”
+
+How can she be so confident? But Ali held her words as Ryn had asked. Seconds ticked by as Ryn examined the layout carefully, marked by the soft quiet sound of the golden sand filtering down through the hourglass.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

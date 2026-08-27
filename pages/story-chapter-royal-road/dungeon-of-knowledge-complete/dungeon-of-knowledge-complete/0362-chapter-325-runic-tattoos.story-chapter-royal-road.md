@@ -1,0 +1,123 @@
+---
+id: a580a710-7c13-52d8-a604-6284137a46eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 325: Runic Tattoos"
+slug: 0362-chapter-325-runic-tattoos
+partOf: dungeon-of-knowledge-complete
+position: 362
+ownLength: 1835
+unit: words
+ownProgress: 1835
+publishedAt: 2025-07-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2470379/chapter-325-runic-tattoos"
+royalRoadId: "2470379"
+markedReadAt: "2026-06-29T20:22:51.255Z"
+---
+
+Ali sat poring over her notes carefully. Resting on the table beside her were two vials of ink, one soul-affinity, and the other nature-affinity, the second made from an extract Eliyen was able to produce from a sliver of Living Essence.
+
+Teharissa had been as good as her word, and when Ali had returned from the auction house with the crafting components she had requested, she had sat down at the rough table and crafted the inks – a fascinating process to watch, carried out entirely by touch and the flickers of mana that seemed to be an analysis perception skill. About halfway through the process, Ilantha had returned with a small bag of groceries and a few household essentials that had been conspicuously lacking in their rundown home.
+
+Ali paged through the chapters Clarence had opened for her, searching for the appropriate translations for various runes she needed.
+
+“I recommend a skill enchantment,” Val’korr said, the aged Troll peering unashamedly over her shoulder at her notes.
+
+“But where do I find one?” Ali asked, a little of her frustration creeping into her voice despite her efforts to remain polite. She had searched every possible lead Ryn had provided for appropriate soul magic skills, but it was a rare affinity, and she had not found anything remotely useful.
+
+“You have witch doctors,” Val’korr said as if it was obvious.
+
+“Yes, but I still don’t know the runes for their skills.”
+
+“Why don’t you look in your book?”
+
+Ali looked at Clarence, lying open on the table before she suddenly realized she was being an idiot. With a thought she summoned her Grimoire and opened it to the Witchdoctor variant in the troll imprint, slowing down and paging through the thousands of tiny spell runes inscribed on the pages.
+
+“How do I even…”
+
+“This here,” Val’korr interrupted, pointing a large, weathered finger at a section of the runic imprint. “This is the Soul Drain skill.”
+
+Ali stared in fascination as he traced it out, choosing not to mention the fact that all the runes in her Grimoire were in ancient Dal’mohran, rather than the troll script, and yet Val’korr seemed to have no trouble reading them.
+
+“Would Soul Drain be a good choice?” Ali asked. One of the major advantages of Soul Drain was that the drained health and mana could be donated with Ritual Infusion. But if she was making a tattoo and she could only choose one skill, would it be useful enough on its own?
+
+“Can you do any of the witch doctor skills?” Malika asked, looking on curiously from where she sat nearby.
+
+“I think so, yes,” Ali answered.
+
+“Everything except the racial or bloodline skills,” Val’korr confirmed, eliminating the Ancestral Spirit Runes, and Soul Drain skills from her options.
+
+“Can I have Spirit Walk?” Malika asked.
+
+“Spirit Walk?” Ali asked, more than a little surprised at her choice. “Why that one? Are you sure?”
+
+“Yes, I don’t have a good escape skill, other than running away or using a potion. My teleport is a short-range combat skill. Spirit Walk is a very strong escape skill, and it also has mana regeneration as a nice side benefit.”
+
+“Because you need more mana?” Ali muttered, but Malika’s reasoning made sense.
+
+“That’s a very strong choice,” Rezan said approvingly. “It compensates for a weakness in your class and will be useful in many fights.”
+
+“Ok,” Ali said. She had been leaning toward Hex or Ritual Infusion for Malika given her healing and regeneration, but she hadn’t considered the strategic implications of Spirit Walk for Malika’s class in particular, and it seemed like it might be a simpler skill to inscribe anyway. She watched carefully as Val’korr pointed out the relevant runes in the sea of the full Witchdoctor imprint, memorizing the location and making sure to interrogate him later to discover how he was interpreting the markers to find the skill boundaries among all the runes.
+
+“I’m ready,” Ali said, turning to Malika, who unwrapped her robe partway, exposing the athletic muscles of her back. Ali gave her notes a last review and then unstopped the vial of soul-affinity ink and charged her needle, moving her hand to outline the first rune on Malika’s back.
+
+The process took several hours of pure focus as the runic construct grew down Malika’s back, across her shoulders, and even required elegantly swirling tendrils that encircled her lower ribs, abs, and collarbones. With each intricate, tiny rune, Ali stitched it into Malika’s own softly flowing soul-affinity mana, and as she completed the final rune, the entire creation lit up in a bluish-white flare of light before fading slowly to a soft glow.
+
+Suddenly, Ali’s body spasmed with a profound paroxysm of pain, as if a thousand tiny needles had just jabbed into her, taking something essential, something vital from her.
+
+You have lost experience.Runic Script has reached level 54 (+2).Calligraphy has reached level 8 (+3).
+
+“Ugh,” Ali managed, eloquently.
+
+“The first time is always the worst,” Val’korr observed sagely, however, Ali detected a surprising degree of sympathy in his eyes.
+
+The strange pain of losing experience was mercifully brief, vanishing in an instant. Feeling a sense of trepidation and anxiety, Ali identified her work to see how it had turned out.
+
+Sigil of the Tranquil Soul – level 103 Intricate runic tattoos, flowing with active soul magic.+61 Wisdom.+48 Endurance.+24 Vitality.+1 skill level to Soul skills.Grants level 34 Spirit Walk skill.Requirements: Wisdom 361.Reserve: 412 mana.Created by Aliandra Amariel.Body – Runic Tattoo
+
+Ali stared at her runic creation in amazement. Everything she had tried to capture had come out perfectly. She had specifically chosen attribute enhancements that would benefit Malika’s resilient, durable combat style, picked and adapted from the many armor imprints in her Grimoire while taking extreme care to avoid adding armor, resistance, or evasion enchants to ensure it would work with Malika’s monk armor restrictions.
+
+She had lifted the soul skill enchantment from Kir’vella’s runic tattoo, inserting it intact into her work. The Spirit Walk skill had transferred with only minor modifications into the final formation. It was a unique construct, mainly fashioned from the ancient Dal’mohran runes she was most familiar with, but it included a fair number of Troll or Ahn Khen runes woven into the final tapestry. Places where Val’korr or Rezan had helped her to work around various subtle issues of the construction or she had copied whole sections from the irascible Troll’s inspired work.
+
+“Ali… this is incredible!” Malika said, gently touching the softly glowing runes that now adorned her skin.
+
+“Congratulations,” Val’korr said. “Your first tattoo is a masterpiece.”
+
+“Thank you, Seeker,” Ali said, bowing her head to him. In all honesty, it wasn’t anywhere near her first attempt. She had been practicing endlessly on her blood shaman and witch doctor, honing her technique and working through the mistakes and inefficiencies in the strangely complex skill, all to produce a magical construct that would help keep Malika safe, and enhance her skills and power in combat.
+
+“Ok, now it’s your turn, mister bear,” Ali said, taking a deep breath and calling Mato over. She was tired after her first tattoo, but she knew she could manage one more – and for Mato, she had something special prepared.
+
+“Hey, I’m also a tree,” he said, dropping heavily into the chair Malika offered.
+
+Calen chuckled from his spot on the couch where he was paging through an atlas of the northern kingdoms.
+
+Ali smiled at the burly Beastkin and then glanced at her notes to refresh her memories. I hope he likes this. Ryn had searched tirelessly to come up with the skill she asked for, and then she had spent even more time translating it into nature affinity using the cryptic explanations of mana written on Clarence’s pages. After many more hours of practice, she finally believed she had the perfect item for him.
+
+“Give me your face,” Ali instructed, earning a raised eyebrow from the big Beastkin, but he turned his face toward her. One particularly interesting feature of runic tattoos, at least according to Rezan, was that shapeshifting wouldn’t affect them in the slightest. Opening the second unreasonably expensive vial of ink, nature affinity this time, she got to work.
+
+Mato’s runic tattoo was an entirely different set of runes, tuned to their shared affinity, and carefully stitched into his mana as she slowly inscribed the delicate formation down the left side of his face, along the cheek, around the outside of the eye, and spidering down his neck and throat until it touched the upper reaches of his chest. At last, she puffed out her cheeks and drew back to examine the completed rune construct in its entirety.
+
+Sigil of Natural Wrath – level 103 An intricate formation of green runic tattoos empowered by nature magic.+61 Strength.+48 Endurance.+24 Vitality.+20% faster recharge for Critical Block.Grants level 34 Limited Telepathy skill. Requirements: Strength 361.Reserve: 412 mana.Created by Aliandra Amariel.Head – Runic Tattoo
+
+As the final rune complex was completed and the pain and intense green flare of mana subsided, Ali inspected her work critically. Not bad.
+
+“Wow, little one. That’s… amazing,” Mato said as he examined her work in a mirror Calen whipped out from storage suspiciously quickly.
+
+Tailor’s son, or…
+
+Ali even let the ‘little’ thing slide without comment. This time. The gratitude shining softly in Mato’s eyes told the real story. He had never complained about his attributes falling behind, but she knew the restriction of only using gear with the shapeshifter enchantment had held him back quite dramatically. He had never found a compatible item for his head slot, so she had chosen that for his tattoo.
+
+Limited Telepathy was the base skill used to make Sending scrolls, a spell that sent mental messages to a known recipient within a fairly short range – all for the cost of a small amount of mana. Not a particularly profound spell, but this was Mato’s most glaring limitation in combat – in his shapeshifted forms, he was unable to communicate strategy or danger to his teammates and had to rely on someone else noticing. At least, unless he was fighting with one of her beast minions. Now, he would be able to send telepathic messages in emergencies, and his teammates could simply speak their responses.
+
+For the second adaptation she had applied to his tattoo, she had studied the Painted Tusk Braids used by the giant berserker trolls, pulling the movement skill recharge enchantment and reworking it to affect Mato’s Critical Block skill – one of his most potent defensive skills. Now he would be able to use it just a little sooner, an improvement that may turn the tide of a difficult battle.
+
+“Thank you, Ali,” Mato said, speaking directly into her mind. And then to her surprise, he hugged her, all the while grinning from ear to ear. “Come here!”
+
+“Ugh, you’re crushing me!”
+
+“Oh, I was just worried all that knowledge might start spilling out.”
+
+“Mato!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

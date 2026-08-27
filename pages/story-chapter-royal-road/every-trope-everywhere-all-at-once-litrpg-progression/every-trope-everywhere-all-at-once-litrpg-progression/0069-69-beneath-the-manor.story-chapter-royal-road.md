@@ -1,0 +1,125 @@
+---
+id: 9d7a0ddf-af6e-540f-a7f4-13e6d57da28e
+page-type-slug: story-chapter-royal-road
+title: "69 - Beneath the Manor"
+slug: 0069-69-beneath-the-manor
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 69
+ownLength: 1736
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3655630/69-beneath-the-manor"
+royalRoadId: "3655630"
+---
+
+I continued to read Aurelius’s journal.
+
+“It truly is strange. Usually, prisoners of dungeons are completely unaware that they’re even trapped in one, yet here I am. Had the archmage made a mistake? Was this dungeon defective?”
+
+The next several pages were torn, so I read the next line I could.
+
+“I’m losing my mind. How much time has passed? Years? Decades? Centuries? Time flows differently in dungeons, doesn’t it? But no matter how much time has passed, my body remains unaged. At least, what’s left of my body.
+
+As the warden, I am fully aware of who and how many people enter the dungeon. My plan had been set from the start: steal somebody’s body and use it to escape this prison.
+
+Yet, no matter how many people take on this dungeon, the results are the same. They die again and again until they can no longer revive. The unfortunate ones die even after they’ve run out of revives, forever perishing from this world.
+
+I was beginning to lose hope. At this rate, no one would ever reach me.
+
+All I had with me was this journal. Nothing else. Being the dungeon warden was lonely.
+
+I can sense where Aeris and the twin-souled beast are. Both of them are in the second section of this dungeon, but it is strange. There seem to be multiple instances of the second section. I’m not too sure how to describe it, but I believe the archmage designed it in such a way that the second part of the dungeon is completely randomized.”
+
+More torn pages.
+
+“Where are they…? Camille and the others… their souls are not in my rings anymore. Did their souls escape as soon as I became a dungeon warden? How long ago was that? Or did their souls only escape just recently? I can’t tell. This dungeon has distorted my senses gravely. I can’t believe I forgot to check for their souls until now.
+
+These chains latched onto my body make it nearly impossible to move. Why would a dungeon warden be held by chains? How would I fight against the ones who eventually make it to me? What was the archmage thinking?
+
+Although it would appear as though I would never have to worry about such a thing. Nobody can make it to the end of this dungeon.”
+
+As the others kept Aurelius pinned down, Meriel walked over to me.
+
+“Tired of reading?” she asked. “Here. Let me take over.”
+
+“Sure, why not,” I said as I handed her the book. Her voice was objectively more pleasant to listen to than mine. I wasn’t one of those people who hated the sound of their own voice, but I could admit that much.
+
+She continued where I left off.
+
+“This is it. The angel who had just entered the dungeon is the strongest adventurer I have seen yet. Not only has he cleared the entire first section of the dungeon in record time, but he came here alone. How could one man be so much stronger than entire parties?
+
+He’s getting closer. He’s the first to get this far. I should prepare for our encounter.”
+
+Before Meriel could read the next line, Aurelius began to laugh.
+
+“Is something funny?” Kaelor asked.
+
+“Many things are,” he said. “Go on. Keep reading.”
+
+And so Meriel did.
+
+“Before our battle—if you could even call it such—we gave each other our names. He told me he was Gabriel, but something about him was strange. He didn’t harbor any hostility, desire, or anything else. I asked him why he decided to take on this dungeon. Most would say it was because of the loot and rewards, but him? He gave me an answer I never expected.
+
+He told me it was to deliver his body to me.
+
+I asked him why, but he never gave a clear answer. If I remember correctly, he said something along the lines of this being his life’s purpose. But what did that even mean? Was he saying he was born to bring his body to me? How did that even make sense? This was the first time we had seen each other.
+
+But I didn’t question it. He simply let me dispel his soul and take his body without a fight. It really was strange. I had expected a grand battle, but I didn’t get any of that. Still, I could tell that he was powerful. His strength was likely on par with mine. Perhaps even greater.
+
+And something about his soul was strange. When I look at somebody’s soul, there is always a recognizable consistency to it. But his soul is a bit different from the others. I can’t describe it. It’s almost as if he’s not from this world. Or rather… he wasn’t supposed to be in this world. At least, that is what my instincts tell me.”
+
+My eyes widened slightly. Meriel gave me a quick glance.
+
+“He… delivered his body to you?” I asked. “Why would he do that?”
+
+“Everything that’s written in that journal is everything I know about him,” Aurelius said.
+
+I looked down at him. “You wrote that his soul was different from everyone else’s. You said the same thing to me, didn’t you? Not just me, but Meriel too.”
+
+“Let me stand, and I’ll talk,” he said. “I won’t try anything. You have my word.”
+
+We looked at each other and nodded.
+
+Reina pulled out Dawn Sunderer, which had been pierced through his hand. He winced, but only briefly. I was surprised he was still able to stand even with those heavy injuries and blood loss.
+
+“Tell me. Was Gabriel’s soul similar to mine?” I asked.
+
+Aurelius shook his head. “In a sense, yes. But that’s not the entire picture.”
+
+“What do you mean?”
+
+“The soul is a complex thing. Describing it with words is nearly impossible. What I can say is this: Your soul and Meriel’s are more similar to each other than Gabriel’s was to either of yours. But you should continue reading the rest of the journal. There isn’t much left.”
+
+With him standing now, the rest of us heeded extra caution. Kaelor and Reina were beside him, while Aeris stood behind him. Talon was—actually, I’m not too sure what he was doing now. He was just flying around like he was bored from staying still for so long.
+
+Meriel brought her gaze back to the journal, reading,
+
+“Gabriel’s body is a fascinating one. Although I am able to take any body I wish with near-ideal compatibility, his body is the one that suits me the most. Strangely enough, it seems to fit me far more than the body I was born in, almost as if this was meant to be my vessel all along. That makes me wonder: is it possible that the body that someone is born with isn’t necessarily the one that suits them the best? Or is something else at play here? It’s equally a fascinating and horrifying thought.
+
+After taking the angel’s body, a portal appeared to take me out of the dungeon. However, I had to do something first.
+
+I had to get to my manor.
+
+As I was wondering how to get there, my body moved on its own, casting some kind of spell to form another portal that connected me to the first section of the dungeon. I tried casting another portal out of curiosity, but that was the extent of it. I could only connect the first and third sections. Nothing else. That means I cannot see Aeris or the twin-souled beast, both of whom are in the second section.
+
+I stepped into the portal, and I saw a familiar sight. It was the city I had lived in before I was imprisoned in this dungeon. Of course, since I was still inside the dungeon, I knew right away that it was just a replica. It wasn’t a perfect one, but it was good enough for me to recognize it in an instant.
+
+I eventually came across my manor. Somehow, it was a much closer copy than the rest of the city. The gates were wide open, and pieces of stone statues lay everywhere across the courtyard. The angel Gabriel must have caused this devastation as he progressed through this dungeon.
+
+When I entered the manor, my heart sank. The woman who greeted me was, without a doubt, Camille. Her soul was there, and she looked similar to the real Camille, except she was in a strange ghostly form.
+
+But the longer we spoke, the more upset I became. This dungeon was mocking me. It knows how much I love her. It knows. But it’s almost as if it is taunting me, showing me her soul and face in a body that acted nothing like her. She didn’t mention my name once. She didn’t know who I was. She addressed me as Gabriel—only because I was in his body. He must’ve told her his name while he was here.
+
+I forced myself to contain my anger.
+
+I will bring you back, Camille. I promise.
+
+I broke down into tears as I remembered everything that had happened. The other servants… my family… We were supposed to tell everyone the truth about our love. We were supposed to cry in each other’s arms as my family rejected such love, and as the other servants treated you like an outcast. We were supposed to bear the pain of a love that was forbidden between a servant and their master.
+
+And yet there I was, crying alone in a replica of the manor where you and the others were killed in the outside world. The fake Camille tried to comfort me, but I pushed her away. She only made things worse.
+
+I explored the rest of the manor, and sure enough, the rest of their souls were there. Like Camille, they took the form of ghosts, though all of them seemed to be stuck inside their rooms on the second floor.
+
+But I wasn’t here just to visit the manor. I certainly didn’t expect Camille’s and the others’ souls to be here, either. I was also here to retrieve one of my most prized possessions: the Soul Anchor Ring. I must take it before anyone else can. If this dungeon replicated everything to an extent, then that ring must also be in the same place.
+
+Beneath the manor.”

@@ -1,0 +1,115 @@
+---
+id: e5bafb25-4a15-57ac-a009-2641f3c47065
+page-type-slug: story-chapter-royal-road
+title: "Ch72 Escape"
+slug: 0072-ch72-escape
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 72
+ownLength: 1529
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3516537/ch72-escape"
+royalRoadId: "3516537"
+---
+
+I almost can’t believe what she’s just said.
+
+The mountain above us is collapsing, after I just saved all of their lives, and she is somehow convinced I’ve come solely to recruit her to the Inner Sect.
+
+“What are you talking about? I’m just a steward… not even from the Outer Sect. Come on, not everything is about you! We’re about to be crushed to death here!” I yell back, pointing to my grey robe, then turn to run at the last cave opening.
+
+“A steward? You think I’ll believe that? You must be sent by the Wang family then! That’s right, to bring him glory for capturing Black Iron Mountain instead of me!”
+
+A wave of hot Yellow and Orange Flames erupts behind me, causing the ground to shake even more.
+
+“I’ve been sent by no one!” I yell back, but Lan Xin appears in front of me with her innate spirit grade physique crackling with fire.
+
+She strikes me in the chest, obliterating a defensive talisman.
+
+Yet, she coughs up blood from moving so fast with her level of injuries.
+
+“This mountain was meant to be mine! Don’t think I didn’t see you steal that Black Iron Core, I’ll tell the Sect you’re a traitor!”
+
+I stand to my feet and activate another defensive talisman, “Screw the Sect… Are you too dull to realize they sent us all here to kill us off anyway? The troublesome feud in Lingshi City can be calmed down for longer if all their heirs just die in a mission, and the resource draining 10th level qi refiner with trash 7th grade roots, she can die a war hero and they can move on to support someone more profitable!”
+
+Lan Xin tries to reply, but a violent ripple of flames forces her to deactivate her physique and cough up more blood.
+
+“How- no… that can’t be true….”
+
+I try to ignore her, and change direction to run toward the last exit again, but the same fluctuations that I just felt in Wang Ming’s soul start to stir inside her.
+
+They’re far more extreme, and react with the cave around us. I watch as the shaking ground causes a wall to collapse, covering up the final cave exit where there was a simple way out.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[Due to a minor soul fracture caused by the Phantom Lord, her emotions affect the stability of her Innate physique to a far greater degree. Learning that she will not be the face of the Black Iron Mountain raid’s victory has plunged her into turmoil. The only way to save her from a catastrophic total fracture resulting in the implosion of her innate physique destroying all of Black Iron Mountain, is to give her a path toward repairing her pride. Strong fire infused artifacts can aid in soothing her physique afterward.]
+
+The ground below her cracks open, and the injured serpent wrapped around her neck and arm writhes in pain.
+
+Lan Xin falls to the ground, and struggles to stand up multiple times. Her soul violently twists and flickers. She no longer looks like just an insufferable woman in my eyes, she’s a ticking time bomb that could kill both of us if I don’t act fast.
+
+“You want credit for capturing this mountain? Take it! I don’t care!”
+
+A glimpse of consciousness shows in her eyes, and she coughs out more blood, “Return the Black Iron Core too…”
+
+I walk over and lift her by her tattered and burnt robes. “Are you kidding me? Even this close to a soul fracture, you’re this shameless?”
+
+The greed in her eyes doesn’t fade, and a pulse of hot fire ripples out, breaking my defensive talisman and collapsing the ceiling above us.
+
+I lunge forward, tossing her over my shoulder, and lighting up a pine spear explosion talisman above our heads to destroy enough of the debris from this minor collapse to escape uninjured.
+
+Then, I pull out the perfect grade fire stone that’s been sitting in my storage since Little Red refused it.
+
+Both Lan Xin and her serpent's eyes move toward it, “You captured the mountain, but the demons ran away with its tier 2 core. This stone is all yours if we agree on this story.”
+
+The serpent around her neck slithers onto my arm and swallows the stone whole. It slithers back, and sinks into Lan Xin’s skin like a tattoo, then disappears deep into her soul.
+
+The woman’s eyes start to become cloudy, but she nods with a last glimmer of clarity, “Deal.” and passes out, limp in my left arm.
+
+“That’s just great…” I murmur through a sigh, activating one of my last defensive talismans and scanning the room.
+
+There is no longer any way to escape through the ways we came, but high above in the ceiling, I see one small glimpse of light. It’s where the black lotus flame fragment from Little Red pierced through the cave.
+
+It’s over two hundred meters in the air, impossible to reach without the ability to fly.
+
+There’s no way for me to do that. However, after completing two side quests inside this mountain, I have 6 more bronze cards and a minor lottery die sitting in my storage.
+
+While I could roll the die and rely on luck, another way out starts to piece itself together in my mind. I run forward, positioning myself right below the small hole of sunlight, then pull out my bronze cards one by one.
+
+I use them on low quality earth mound talismans, turning them into perfect grade earth mountain talismans.
+
+I use one on the ground beneath my feet, and watch as every bit of dark black rock in a 20 meter diameter slowly rises. It unsettles the ground around it, cracking off more debris and creating even more chaos. However, I begin rising upward at a rapid rate.
+
+The moment we slow, I trigger another one, forcing the small mountain below me to grow.
+
+One after another, I use all 6 perfect grade talismans to rise up into the air. The entire central cave below is filled with black stone, as many more walls and hidden passageways collapse and bury this cavern hideout for good.
+
+I use up all of my defensive talismans, and burn through the majority of my incineration and pine spear explosion bursts to deflect falling rubble.
+
+The mound below me is still growing by the time I jump through the only exposed hole in the ceiling.
+
+I get a breath of fresh outside air, and run as fast as I can with this woman on my shoulder without looking back. The unnatural sight of a pointed rock mound breaking through the side of the mountain from within, causing avalanches and even more disasters as I leave is all left behind.
+
+It’s not until I’m on flat ground, near the small forest riverbed base kilometers away that I finally stop running, completely out of breath, and sit back against the trunk of a tree, throwing Lan Xin’s unconscious body to the ground beside me.
+
+–
+
+At the same time, in the sky above Black Iron Mountain, after an explosion of black lotus flames erupted out of its side a minute earlier, chaos has broken loose.
+
+Over a dozen late stage blood demons escape from the collapsing passageways, and hundreds of illusory demons hidden inside the mountain and in the surrounding forests all attack the Azure Cloud Sect cultivators that try to escape this death trap.
+
+Every single remaining late stage squad captain is overwhelmed and outnumbered.
+
+The majority are killed within Black Iron Mountain, but the stragglers are picked off around the base.
+
+Even the survey squads sending in information from outside are ambushed and slaughtered.
+
+The only survivors are those in Mu Shulan’s aerial squad that watched the black lotus flame explode out from the side of one of the main cliffs. Just moments after, they all saw a miniature mountain break through from within, collapsing half of this landmark due to its sheer size and force. There is only a single squad with a Black Iron Battle Physique squad captain that made it out with their vice captain and four 3rd level qi refining stewards.
+
+Bao Zhan battles off multiple late stage blood demons at once. From being exposed to high quality and perfect quality black iron ore deep within the mountain in the midst of multiple life or death battles, he has forcefully broken through from the mid stage to late stage of his acquired physique.
+
+He leads his squad to safety outside, then systematically circles the mountain’s base, looking for more blood demons that have managed to survive.
+
+There are about a dozen scattered stewards from various obliterated squads that he leads to safety, and a brown bear carrying an unconscious man that leaves the mountain too.
+
+Even though this battle for Black Iron Mountain has ended in victory for the Azure Cloud Sect, it has also come with brutal losses, and multiple full squad wipes, making the communication reports sent back solemn and bitter in nature.

@@ -1,0 +1,213 @@
+---
+id: 15191ad8-f0de-5ed5-9d7e-131dbc84fd24
+page-type-slug: story-chapter-royal-road
+title: "Chapter 377: Crafting Resources"
+slug: 0414-chapter-377-crafting-resources
+partOf: dungeon-of-knowledge-complete
+position: 414
+ownLength: 3009
+unit: words
+ownProgress: 3009
+publishedAt: 2025-09-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2599721/chapter-377-crafting-resources"
+royalRoadId: "2599721"
+markedReadAt: "2026-06-29T20:26:02.838Z"
+---
+
+Mieriel stared openly at Vivian across the table, her brain suddenly glitching to a screeching halt. Vivian’s mouth carried on moving but Mieriel didn’t register anything further.
+
+“Wait… how many?” she stammered.
+
+“How many what?” Vivian asked, surprised by her interruption.
+
+“How many rings do you want commissioned?” Mieriel asked. She had heard the number, it just didn’t make any sense. “How many of them reached gold?”
+
+“All of them, Mieriel. All of them,” Vivian said, beaming broadly.
+
+“You took forty raiders with you. Thirty-five silver ranks. You must mean ten for a single raid group, right?” Mieriel asked. Surely, she couldn’t mean…
+
+“All thirty-five,” Vivian said. “They all hit gold at the same time. It was incredible! I’m so proud of all of them.”
+
+Mieriel sighed, dropping her face into her hands. How was she going to…
+
+“It’s not that bad, Mieriel. Giddy Clicksprocket finally got back to me. She’s in. We can afford it now,” Vivian said, completely missing the point.
+
+“It’s not the money,” Mieriel sighed, not looking up. “Do you know how long it will take to register them all with the crown? Then there will be the inevitable follow-up queries for information about the classes and skills balance. They will want transcripts of everyone’s job experience, and then the inevitable flood of job requests ranging from the trivial to the insane. What will we do for the more… challenging classes? Like Seth? Guess who will have to deal with all of that?”
+
+“Oh,” Vivian said, the joy fading from her face suddenly enough that Mieriel felt a small pang of guilt. “Can I help?”
+
+“Hell no. I’ve seen how you handle paperwork.”
+
+“Excuse me?” Vivian snorted, reacting with an instant blend of horror and amusement at her acid response.
+
+Mieriel waved a hand in her direction. “Go polish your swords or… something. I’ll take care of it.”
+
+“Maybe I can find you an assistant?” Vivian asked.
+
+“That… that would be nice,” Mieriel admitted. It wouldn’t help her right now, but it was a thoughtful gesture. Especially considering that the new crop of adventurers coming up through silver was even larger. She offered a small smile. “Would you mind getting me some coffee? It’s going to be a long night.”
+
+“How tall should he be?” Vivian asked, waggling her eyebrows suggestively.
+
+“Don’t you dare,” Mieriel gasped feeling the intense burn of a blush rising to her cheeks. How does she always get to me like this?
+
+Vivian just chuckled, grinning at her.
+
+“Heya, Aliandra. Thank ya fer coming.” Thuli’s booming voice carried over the clanging and sizzling noises of his apprentices hard at work in the intense heat and hazy smog of the forge room.
+
+“Of course,” Ali said. “Mieriel said you have a request for me?”
+
+“Aye, that I do,” Thuli said. “Do ya recognize this?” And with that, he made a long, slender, silvery spear appear, laying it carefully on the scarred and seared wooden table that he kept for guests in the lobby of his smithy.
+
+“Kieran Mori’s spear?” Ali asked. It was an unmistakable weapon. She had only ever seen it twice, but both times it had been wielded against her and her friends with overpowering force and prejudice. Yet, now, as it lay there, she recognized the silvery gleam and the distinctive radiant shine of mithril.
+
+“Yup. Commander Gerald Brand waltzed in here and dropped this on my lap,” Thuli said. But his expression wasn’t one of exasperation, or worry – no, it seemed a thin veneer of uncertainty was holding back his bubbling excitement. “He snapped it up from Weldin before anyone else could get their grubby paws on it. He wants me ta duplicate it. Well, more specifically, he has a powerful interest in mass producing lower-level items with some o’ these enchantments.” Thuli indicated the spear with a wave of his broad, calloused hand.
+
+“Hmm,” she checked the weapon’s stats.
+
+Extinction, Spear That Pierces the Heavens – level 115A masterwork of dwarven craftsmanship, this perfectly balanced mithril spear is tainted with a potent demonic energy.Damage: Piercing, Physical.+150% Physical damage with this weapon.Attacks ignore 20% of target Armor.+60% increased attack speed.+120% accuracy.+10% to maximum health.+45% improved effectiveness of Stealth skills. Requirements: Dexterity 403, Strength 198.Created by Agnor Maledict.Two-Handed – Spear – Mithril
+
+Wow! “That’s a lot of damage on a spear,” Ali observed, studying the enchantments carefully. The unique spear was inscribed with intricate lines of runes in what she recognized as a demonic script, something she had been trying, unsuccessfully so far, to learn. Unsurprisingly, Ryn was having a difficult time tracking down any reputable books for her to study. The spear oozed a sense of malevolent power in dramatic contrast to the bright silvery gleam of the mithril from which it had been fashioned. Seeing it now, suddenly brought home just how lucky she had been to survive that first Ambush strike.
+
+“It is,” Thuli said. “It’s a masterpiece, created in the forges of the infernal smith, Agnor Maledict. How some hack like Kieran Mori got his hands on it, I have no idea, but it is certainly the reason he rose ta such a high level.”
+
+“Agnor Maledict?”
+
+“A half-breed – an unholy cross between a Dark Dwarf and a demon. He was prolific during the second age, and the fact that his mana signature is still on this item is… worrying.” Thuli’s expression became shadowed and dark for a moment before he looked up at her again. “Will ya help me?”
+
+She filed the information with an internal sigh. Just one more problem. “What do you need?”
+
+“There are several enchantments on this weapon that are stronger than any I’ve ever seen. The physical damage enchantment, the attack speed one, and even the accuracy one. The maximum health and armor avoidance are exceptional. If we can duplicate any one of those, Gerald Brand will be overjoyed. And so will I.”
+
+“But this looks like a unique weapon,” Ali said. “Don’t you need to destroy several just for a chance to learn it?” From what Ali had learned working with Lydia, it was not that different than her own Grimoire.
+
+“I do,” Thuli said. “But that’s where ya come in, lassie.”
+
+“I need a minimum of three samples to learn something, too,” she said. “Not to mention, I would need probably fifteen of them because I don’t have a spear imprint yet.”
+
+“But it can be fifteen of any kind of spear for the imprint, right?” he asked.
+
+“True, but that doesn’t solve the fact that we only have one of these spears.” Ali pointed to the dangerous weapon lying on the table, her fingertips stopping just short of touching it.
+
+“Kavé, Tarek! Bring the spears!” Thuli roared, cutting through the din of ringing hammers like the head chef announcing the next course at a rowdy banquet. A few moments later, his two apprentices came scurrying in through the doorway, bearing an armload of different spears and polearms each.
+
+Ali raised an eyebrow.
+
+“These are prototypes for the mass production base model,” he explained. “See, my scheme is to have you learn the spear imprint from these, and then I will take Mori’s spear down to yer anvil and repair it.”
+
+“Oh,” Ali said. “Oh! Interesting idea.” She hadn’t considered the anvil. She had not experienced its abilities often enough to take them into account automatically. It had granted her new imprints when he had worked on the anvil before, and there was a reasonable expectation that his idea might be enough to trigger the anvil’s ability. He had certainly put in a lot of thought into this scheme of his. “Actually, that might work.”
+
+“Can we at least try?” he snapped, then apologized in the same breath. “Sorry, lass. Dinna get much sleep the last couple o’ days.”
+
+“No problem.”
+
+There goes my priority list, Ali thought. She simply couldn’t say no to the excitement and hope she saw in his earnest face. She had an imprint free, and she had been planning all sorts of important things for it, but this seemed to be a worthy experiment. If it paid off, it seemed she would be able to learn many more powerful weapons as Thuli transferred the enchantments to other weapons. A long-term investment, then, she decided.
+
+“Ok, let me see these spears,” Ali said, turning to Kavé and Tarek to examine their heavy burdens carefully. There were spears and various assorted polearms wrought from dragon bone, bloodsteel, Eimuuran steel, and even mithril. “Are you sure?” she asked. “This all seems very expensive.”
+
+“Not half as expensive as what we will achieve if we succeed, lass,” Thuli grinned. “Not a tenth.”
+
+“Ok,” she said. She didn’t need more convincing and burned through the pile of spears, polearms, glaives, and halberds in a couple of minutes while the smiths watched wearing mixed emotions clearly displayed on their faces as their hard work vanished in literal puffs of mana.
+
+Imprint: Polearm completed.
+
+“I got it,” Ali said, but everyone present already knew what her suddenly glowing Grimoire meant.
+
+Willow stepped through the runic circle and appeared in the grand library. The dark stone flagstones had been replaced with warm wooden floors, and clear illumination shone from hundreds of light sources of every kind. Willow was most partial to the golden sparkles of the tiny dragonets and the green glow of the wisps.
+
+Cami jostled her during the transfer, knocking her sideways.
+
+“Oi! Perhaps you need to lay off the snacks Tabitha keeps feeding you,” she chided, earning a reproachful gaze from the enormous Timber Wolf. But truly, Cami easily outweighed her now – useful in combat but growing increasingly inconvenient around town.
+
+Cami just nuzzled against her hand, sending affectionate feelings through their shared connection.
+
+“Oh, alright, you big softie,” she laughed, scratching Cami behind the ears. “Can you find Ryn for me?”
+
+Cami immediately perked up, sniffing at the air briefly before heading directly for a set of bookshelves over on the far side of the atrium. Right behind them, Willow found Ryn hovering in the air, sorting through dozens of heavy volumes and tomes that floated around beside her like a flock of birds.
+
+“Hi, Ryn. Do you have a moment?” Willow asked.
+
+“Sure, what’s up?” Ryn said, beaming broadly as she reached over to pet Cami.
+
+“I need to find some ingredients for a quest, and I was hoping you could help me find them.” Willow retrieved the short list Teharissa’s assistant had written for her and offered it to the flying librarian.
+
+“Hmm,” Ryn said, scanning the list quickly. “I assume you can’t find these in the auction house?”
+
+“I already bought the crossed-out items,” Willow said. “But there are no essences or cores for sale anywhere.”
+
+“This is for making ink?” Ryn asked, cocking her head sideways as she examined the list.
+
+“Aliandra put up a quest on the board,” Willow said. It was by far the most valuable job on the guild’s board, offering a hundred gold and expenses. It had created quite a stir. She had been certain Aliandra was wealthy already, being a dungeon and all, but the amount had raised quite a few eyebrows and provoked a ton of speculation among the adventurers. Especially the newer ones who hadn’t been around for so long.
+
+But the gold would go to good use – Cami needed some new armor, and Willow had her eye on a new bow upgrade which Weldin had kindly agreed to hold for her for a few days. Besides, Aliandra had been good to her – it would be nice to help her out with something so clearly important to her.
+
+“Wait here,” Ryn suggested, and then she flew off to retrieve a book from several layers higher up, flying back down as she opened it and flipped through the chapters. “Aah, here we go,” she said, turning it around to show the contents of the revealed page.
+
+“This… isn’t this in Toria?” Willow asked. Far away in the northeastern part of Toria, if she wasn’t mistaken – and the Torians were not all that welcoming to people from New Daria.
+
+“This is deep in Ahn Khen territory,” Ryn agreed. “There is a river here that is supposed to be home to several kinds of water elementals. Water serpents, sprites, and some reports of hydras. They’re listed as being a little higher level than you – and right about the range to drop lesser water essences.”
+
+“That sounds perfect, but how do I get there?” Purchasing teleportation to northern Toria that far away would cost a large chunk of the potential rewards.
+
+“See here?” Ryn said, pointing to a section on a map she produced from her ring. “This is Volle, right near Naia’s dungeon. Remember, Ali made a runic circle to teleport there. If you exit here, it shouldn’t take too long to travel up into the mountains.”
+
+“Oh! That will save a lot of time,” Willow said.
+
+It would still be a dangerous passage, given that there was a rogue dungeon down there, but she would be headed up to the surface exit instead of going down, so it shouldn’t be a problem.
+
+“Oh, and I believe Mieriel said there are several kill quests listed at the local chapter of the guild in Volle. You should stop by and check on that – you might be able to kill two birds with one stone.”
+
+“Oh, good idea!” Willow said. “Thanks, Ryn, you’ve been a great help.”
+
+***
+
+The stars were out in all their brilliance, shining in the moonless night when Willow finally reached the river, but the darkness didn’t bother her and Cami anymore. Not since her perception skill had advanced. She picked her way across the steep, rock-strewn banks, meandering around the small, hardy pine trees that sprouted from the inhospitable ground and approaching the water carefully.
+
+The banks of the rocky river were overflowing with icy snowmelt, nearly twenty yards across, and it roared loudly as the water crashed over rapids and small falls, filling the air with a haze of spray that shimmered beautifully in the starlight.
+
+Cami’s hackles suddenly bristled as she growled softly at the water and out in the middle of a stretch of white water, something shifted. Something big.
+
+River Serpent – Elemental – level 89 (Water).
+
+“I see him,” Willow whispered, her hand resting on Cami’s shoulder. Carefully, she retrieved her bow and nocked an arrow. Mana flowed along the shaft, condensing in the arrowhead as she imbued it with her most powerful enchantments and support skills. Then, she released it.
+
+Glowing softly with her nature magic, her arrow arced across the raging waters with a soft swishing noise, only audible over the rushing water because she was sharing Cami’s uncanny hearing. It flew true, punching into the side of the river serpent with a sudden splash. The roiling river exploded with sudden churning as the monster reacted with fury. Large coils of what looked like water erupted out of the river and surged toward her. A triangular-shaped serpent head rose above, fangs gleaming, and eyes sparkling.
+
+Magnificent! “Go get it, Cami!”
+
+Several bolts of high-speed water jetted from the serpent’s mouth, and Cami dodged sideways to protect her, taking one of them on her chest. Willow channeled a little mana into Beast Restoration, sharing a healing buff with Cami, and then nocked a second arrow with the fluid action Coria had taught her.
+
+This time, she spent the stamina for Rapid Fire and unleashed a stream of arrows at the water-bolt-spewing mouth. The monstrous serpent reared up and crashed into the bank of the river, emerging fully from the water. Wow, that’s huge!
+
+“Take it!” she yelled, but the massive Timber Wolf was already charging forward, crashing into the exposed elemental water snake without hesitation, even though she was dwarfed by its sheer size.
+
+Willow buffed them both with Grace of Air and unleashed another stream of arrows into the monster’s flank while Cami tangled with it over by the water’s edge. From the furious snarling and snapping, and the hissing amid the violent sprays of water, she would have been terrified for her friend. But, through their shared connection, she knew exactly when to refresh the Beast Restoration buff and where to shoot.
+
+Willow skipped backward, careful to maintain her distance, and fired again. And again.
+
+The River Serpent was not particularly smart, fully engaged in snapping at the wolf directly in front of it with forearm-length fangs while blasting water bolts in every direction, never seeming to notice that Willow was standing at a distance healing Cami. She downed a mana potion and continued her precision bombardment.
+
+It took several minutes before the giant River Serpent finally collapsed, drenching Cami with a great splash of water.
+
+“Simple, right?” Willow said, approaching the corpse. It would have taken a lot less time if she had brought more people, but with her ability to heal Cami, it seemed these River Serpents would be a slow but easy grind.
+
+Cami chuffed softly, keeping her eyes on the churning river, sending her satisfaction with the hunt via their connection.
+
+Lesser Water Essence
+
+Elemental Core (Water)
+
+“Hmm, didn’t Aliandra put up a quest for elementals, too?” Willow asked, mostly speaking to herself because she was certain Cami hadn’t read the quest board. She reached down and retrieved the core – a strange floating torus of spinning water. This looks interesting. She examined it carefully before storing it. Perhaps Aliandra would want to buy it when she returned. The water essence, on the other hand, seemed to be a particularly dense, oversized raindrop that refused to splash onto the ground.
+
+Going to need quite a few of these. The recipe called for several essences, none of them lesser. She would need to combine them to satisfy the requirements.
+
+“Come, let’s find another one,” Willow said, and Cami immediately began searching up the river.
+
+She’s such a good girl. Time to hunt.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

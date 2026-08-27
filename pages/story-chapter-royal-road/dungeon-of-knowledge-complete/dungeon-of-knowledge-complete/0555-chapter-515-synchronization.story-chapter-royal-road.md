@@ -1,0 +1,141 @@
+---
+id: beff0baa-b274-54cb-a1ea-b133ce7355f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 515: Synchronization"
+slug: 0555-chapter-515-synchronization
+partOf: dungeon-of-knowledge-complete
+position: 555
+ownLength: 2841
+unit: words
+ownProgress: 2841
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2971264/chapter-515-synchronization"
+royalRoadId: "2971264"
+markedReadAt: "2026-06-29T20:31:10.334Z"
+---
+
+It was hard to believe this place had once been the pride and home of the Wood Elves. Even the ground slowly drifting by below, illuminated by the radiance of his ethereal light-magic wings, was infested with corrupted mana, twisting and writhing in the strange realm-crossing sight he had earned for his class evolution. Whatever it was, this evil ran deeper than the mundane; dark, blindly reaching tendrils of corruption seemed to bore their way past the veil, hungrily consuming even the echoes of Ciradyl, the memories preserved in the spirit realm.
+
+He had seen the blackness, the corruption, the blind, hungrily reaching tendrils of mana before. Whatever had happened here, the Blind Lich had infected the Well of Souls with the same Eldritch Monstrosity that had taken the Well of Eternity. It was the only downside of his True Sight advancement; looking at the mind-wrenching eldritch magic required one of the expensive Mental Fortitude elixirs. Fortunately, they were easily available now that Ali was growing Eternal Reverie flowers in her domain.
+
+At least we have a good plan, he thought, reviewing it thoroughly in his mind as they approached the Calhedron once again. It had been a good fight – at least considering the experience they had earned for the first kill. And even though facing it again would likely not level him a second time, it was still worth it for the practice and the opportunity to hone his skills.
+
+He glanced again at the skills and levels he’d earned from the first kill.
+
+Realm Hunter has reached level 179 (+7).+70 attribute points.Radiant Archery has reached level 96 (+4).Arrows of Brilliance has reached level 89 (+4).Motes of Light has reached level 69 (+2).Explorer has reached level 104 (+2).Blessing of the Dawn has reached level 74 (+3).Eclipse has reached level 50.Eyes of the Archon has reached level 74 (+3).Righteous Fury has reached level 62 (+2).Azrael's Wings has reached level 46 (+2).Mirage Armor has reached level 71 (+4).
+
+Not even close to Ali. However, he felt no stress over the fact. Ali was a force of nature, and she had earned substantial growth beyond what would even be reasonable by being sequestered in the Abyssal Realm, squashed between two god-tier dungeons, and forced to survive by herself. Besides, the stronger she grew, the safer they would all be. His attribute distribution was pretty close to his optimal calculations, now. For this set of seventy, he’d allocated twenty to dexterity, nineteen to perception, and eighteen to intelligence. For his secondary attributes, he spent five on strength, four on vitality, and two each on endurance and wisdom.
+
+Hmm. Can’t wait for Radiant Archery to tier up!
+
+Below him, Mato stopped, his massive bulk cresting a rise and overlooking their target with several of Ali’s massive melee trolls flanking him. Calen ran through the plan once again, but really, it was rather simple – they merely had to coordinate their kills. The hardest part would be controlling his own damage.
+
+“Is everyone in position?” Lyeneru’s voice echoed in his mind, relayed by the Sending Stone he carried in his hand.
+
+“Yes.” He sent the confirmation. Even though he could not hear the other group leaders’ responses, Lyeneru’s next message told him everything he needed to know.
+
+“Begin.”
+
+“Mato, start it,” he announced, summoning his ethereal bow to his hand and one of the arrows he had commissioned for just this purpose. His illusory decoys shot outward along with all his Motes of Light as he charged his arrow with Power Shot.
+
+Mato Swiped, and his claws tore long parallel slashes that flickered with lingering tongues of black void magic across the glowing transparent pane of the arcane elemental. The thrumming vibration that filled his sensitive ears and rattled his bones rose to a sudden, angry crescendo, and the glass-like pane twisted away, replaced by another in a perversion of geometry and magic. He ignored the arcane sleight of hand, familiar enough with the monster to know that the damage he had inflicted was merely hidden, not gone as he had initially feared. One of the several disconnected orbiting crystal shards whistled past his ear, aimed for his head, but he shifted his shoulder, blocking and dissipating much of the force with his armor and four-legged stance – forewarned by his precognitive Survival Instinct.
+
+“Ten percent remaining,” Ali said, her delicate voice carrying easily to his sensitive ears above the drone and crash of battle.
+
+“Stop,” Calen announced.
+
+Inwardly, Mato grimaced and reinforced his grasping vines and roots that conspired with Calen’s chain of light to keep the Calhedron firmly grounded. He wanted to strike it, to kill his foe, but if they did not achieve a near-simultaneous kill, their overall objective would be lost, and the fight would be for nothing.
+
+Another shard whipped around, shifting directions suddenly in a bewildering trajectory, but Survival Instinct guided his awareness, and he blocked it. A normal block. Critical Block sat there, ready for him, but he forced himself to ignore the powerful defensive skill, knowing it would retaliate with a substantial amount of damage, and that was not something they could afford. In the background, detonations and blasts of heat continued unabated as the others took care of another swarm of shards.
+
+The Calhedron pulsed again, and three streams of arcane bolts hammered into his face and chest, ripping through his life as the magic bypassed his physical defenses. Above him, more arcane bolts hammered into his hovering Lirasian Sage, and he reflexively redirected its damage to himself, but without the continuous stream of his own damage, his Brutal Restoration was rapidly fading.
+
+“How long?” he asked. Who was that joker talking about a holiday, last night? That’s what I’m doing right now – in the middle of a boss battle!
+
+“Aiden’s group is on twenty percent,” Calen answered amid a hail of purple glowing bolts and detonating arrows that filled the sky as his friend contended with another wave of the flying spawn of this boss.
+
+Twenty. It would be several minutes at least. Several minutes while his magical resistance was tested by the rapid-fire stream of arcane energy blasting out from the elemental, while he remained unable to respond or even block.
+
+“Zone,” Ali said, her voice calm, but he would not even have needed her warning. Within the extent of his Sanctuary, he could see the gathering of domain mana welling up inside the monster, the sudden bubbling of arcane power as brilliant balls of energy were born within and ejected upward into the air in rapid succession. Angry purple soap bubbles.
+
+The purple glowing bubbles cascaded up high into the air to come floating downward like a demented mockery of a Harvest Festival light show, and he braced himself for the inevitable explosions. Survival Instinct screamed at him in the back of his mind, but he had no tools for this, no way of evading the deadly attacks that floated down like heavy purple snow.
+
+A ripple of detonations cascaded through the glowing bubbles, following no rhyme or reason. Some hit the ground, bouncing several times before exploding. Some detonated in the air with brilliant flashes of purple energy blasting out in waves. Many, caught up in the detonating blast waves, triggered their own explosive release; however, enough simply floated down through the arcane explosions, unaffected, to buffet him with a devastating onslaught of concussive blasts. His health plummeted as waves of continuous rippling explosions shook his body, ignoring the physical protection of his thick hide and heavy armor.
+
+A searing rush filled his body, and from the corner of his eye, he saw Malika’s face bearing a calm expression of total focus, even while she too held her punches. Her form simply blurred now and then, the only sign of her entirely unfair ability to dodge the explosive magical onslaught.
+
+“Banshees,” she said.
+
+With a glance to the side, he saw them. Two transparent, incorporeal undead drifting rapidly toward them, the fading edges of their tattered robes barely caressing the ground, their eyes and mouths twisted in their eternal grimaces of hatred for the living. And he saw his chance.
+
+“Bring them past me,” he asked Malika and backed up just a little, taking care to keep himself in range of the Calhedron lest it switch to trying to hit someone else, and rotated about it. His maneuver placed himself directly in the path of the angry wailing Banshees as Malika fired blasts of soul magic in their direction.
+
+The first drifted past him, close enough to feel the shiver of the undead’s horrific presence. The prickle of readiness appeared in the back of his mind, and he unleashed his retaliatory Battle Master strike the instant it triggered. His claws flared with black trailing wisps of void, but in the moment of striking, flickers of pure white flame joined the black of the void, and his strike tore through the undead monster with incredible power. His chime sounded in the back of his mind.
+
+You have gained Azryet’s Wrath.
+
+Mato grinned fiercely at the sight of Azryet’s boon triggering right as he struck, the additional holy damage tearing through the vulnerable undead’s form.
+
+Thanks for the damage, he thought wryly. It was a cheesy offering to the Calamity, but he felt it fit. From the ground, roots burst forth, encircling the Banshee, but they passed right through the incorporeal monster without finding traction.
+
+However, the critical damage of his strike triggered his Brutal Restoration. A pulse of reactive nature energy rippled outward from him, healing all his nearby allies, and he felt the powerful healing buff settle into his body, already working to counter the arcane damage of the bolts that were slamming into him unabated. He ignored them, shifting to line himself up with the second Banshee.
+
+“They’re ready. Kill it,” Calen announced.
+
+Yes! Mato spun, adding power to his strike, and tore through the Calhedron with his claws, sending tiny shards of glittering purple dust spraying into the air. One of the orbiting shards slashed down at him, but he met it with Critical Block. The shock of the impact sent dust and dirt exploding outward from where his paws crushed into the ground, but the damage reflected into the Calhedron was far greater, leaving visible cracks spiderwebbing across the facets of the monster’s body.
+
+Then, flying over his shoulder came a storm of fire and ice and every other kind of magic he could imagine as Ali’s minions opened fire. He caught the soft, gentle smile that appeared on Malika’s calm face, and she moved, unleashing punches faster than he could even count. It didn’t take long before the monster shivered, shattering into a million tiny shards.
+
+Your group has defeated Calhedron – Elemental – level 209 (Arcane)
+
+The sound of the notification chime triggered an uncharacteristic tension in him as he studied the fallen heap of shattered purple shards and splinters, slowly dissolving into the air. They had done their part, but would the other teams come through? After a few moments, he checked in on his notifications for the Calhedron fight. If he included both this one and the first kill, he had earned a whopping seven levels: six for the first, and this last one pushing him over the edge for one more.
+
+Elemental Shapeshifter has reached level 178 (+7).+70 attribute points.Arboreal Sanctuary has reached level 75 (+2).Swipe has reached level 94 (+4).Brutal Restoration has reached level 87 (+4).Bear Form has reached level 87 (+3).Rampant Growth has reached level 46 (+2).Bestial Combat has reached level 75 (+3).Natural Prowess has reached level 72 (+2).Survival Instinct has reached level 88 (+2).Battle Trance has reached level 67 (+3).Identify has reached level 25.Herb Gathering has reached level 32.Your actions have increased the reputation of your patron.
+
+Including both the points he spent from the last fight and the new points from this seventh level, it totaled sixteen points in each of vitality, strength, and endurance. Nine for perception, seven for wisdom, and three each for intelligence and dexterity. The more balanced distribution was not how he had started out, but as his experience broadened, he was appreciating it more and more.
+
+And I earned more reputation for Azryet. A good day indeed!
+
+The bustle and murmuring washed over Jax in cloying waves as the elite clientele conducted mid-afternoon business in the main room of the Princess’s Petticoats Lounge. He had once frequented this place, enjoying the opportunities to mingle with wealthy merchants and the nobility, but more recently, he found it increasingly challenging to swallow its exclusive prices.
+
+He’s late. If there was anything Jax hated, it was tardiness. Especially when he had so much going on.
+
+Markus de Voss. Myrin’s Keep’s new banker, appointed by the crown, and just arrived two days ago, by extremely expensive direct teleportation. An unknown quantity to be sure, but this was what Jax did best. The banker would no doubt be incredibly busy establishing himself in the town, but Jax had insisted on this meeting, only earning agreement when he had pointed out that his position on the town council might offer a mutually profitable business arrangement.
+
+Movement from the side approaching his table caught his eye, but it was just the waitress on her way to try to get him to part with some of his remaining coin. He dismissed her with a scowl over his unreasonably expensive drink, taking a sip to show he was still busy.
+
+At least the drinks are still good.
+
+“Mr. Hawkhurst?”
+
+Jax turned away from the annoyingly persistent waitress to find a short, slight man peering at him through round spectacles mounted upon the bridge of a hawkish nose. He had perfectly arranged red hair and sported a conservatively cut navy business suit that seemed to be a natural extension of his demeanor – every inch the successful banker.
+
+“Markus de Voss,” Jax said, rising to his feet and extending a hand. He plastered his best smile on his face and said, “I’m so glad you could make time to meet me. Please call me Jax.”
+
+Markus’s eyes dropped to the hand, as if inspecting it for several seconds, before he took it with a limp grip and briefly shook it before taking a seat. “I’m a busy man, Mr. Hawkhurst. I have another meeting in fifteen minutes; you have my attention until then.”
+
+“Thank you,” Jax said, sitting down and eating his scowl. It would not do to annoy this man who would quickly become the central figure in returning his company to its former wealth and power.
+
+The loss of Kieran Mori and the Town Watch had been hard to bear, but it was the sudden arrival of Silver Cog and their infernal Auction House that had really gutted his trade business. That and the closure of the road to Southport. War was afoot – always an exceptional opportunity for enterprising businesses like his – and yet he found himself unable to turn a single coin of profit from it. Nobles and merchants alike – long loyal to him – had turned in droves to the auction house, throwing their money at the annoying Silver Cog representative like confetti at a wedding. If it had been any lesser merchant company, he would simply have paid someone to take care of him.
+
+“I have a proposal for your consideration that I believe you will find quite profitable,” Jax said, retrieving the folder with his notes and placing it on the table between them.
+
+“I hope you’re not trying to bribe me, Mr. Hawkhurst,” Markus said with a frown on his face as he ignored the papers. “I don’t believe I need to remind you that bribing a crown official is a serious offense.”
+
+“Oh, no, it’s nothing like that,” Jax said. “It’s merely an opportunity to build a good business arrangement. I’m certain you will find everything to be perfectly in order.” He nudged the folder further across the surface of the table toward him.
+
+“Would you like a drink, sir?”
+
+Jax scowled daggers at the waitress, annoyed at her timing, but Markus smiled at her, so he swallowed his words and identified her instead, imagining he was some fire mage casting an incinerating spell.
+
+Waitress – Sun Elf – level 18
+
+A moment of dizziness struck him as he studied her, the lounge tilting like the deck of a boat in a storm as the background murmurs grew briefly louder, but then it passed as suddenly as it had come. He dropped his eyes suspiciously to his drink for a moment, but then Markus spoke.
+
+“I’ll have the White Lotus tea, please,” the banker said, dragging Jax’s attention back into focus. Quickly, he tucked that tidbit away in his memory for later. Knowing the man’s preferences would come in handy later.
+
+“At once,” the waitress said, bowing and disappearing. Jax immediately put her out of his mind as Markus finally reached for the folder and opened it. Please take the deal.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

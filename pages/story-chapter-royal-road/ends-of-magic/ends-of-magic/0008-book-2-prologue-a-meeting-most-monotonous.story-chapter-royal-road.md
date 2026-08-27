@@ -1,0 +1,107 @@
+---
+id: a2e0ab60-8d9a-5953-a581-bbd29fd4ada2
+page-type-slug: story-chapter-royal-road
+title: "Book 2 Prologue: A meeting most monotonous "
+slug: 0008-book-2-prologue-a-meeting-most-monotonous
+partOf: ends-of-magic
+position: 8
+ownLength: 1785
+unit: words
+ownProgress: 1785
+publishedAt: 2023-01-01
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/1076253/book-2-prologue-a-meeting-most-monotonous"
+royalRoadId: "1076253"
+markedReadAt: "2026-06-29T20:07:31.379Z"
+---
+
+Archmage Taeol dho Droxol, Ninth Finger and Fourth Researcher of Giantsrest, slumped back in his chair. He looked up at the ceiling far, far above. Archmage Exea just kept talking. Increased production this, greater slave reproduction rate that. He did not care.
+
+His gaze meandered over the room, eyes lingering on the lines of architecture that were rigid, yet elegant. They were at the top of the obelisk-spire of Drozahn. It was the tallest tower of Giantsrest, a space that was sized for Giants, not men. This room was the pinnacle of Giantsrest, the place all of the thousands of toiling students below his feet fought and schemed to have a barest chance of entering. It stretched hundreds of feet in all directions and was decorated and protected with grand magics. And what did they use it for? Meetings.
+
+Yes, there were magics to prevent echoing and ensure that every word spoken within this space was clearly audible. Enchantments to let them see anything in view of the tower, conjure accurate maps of the surrounding terrain and access information stored in archives below.
+
+By the fingers of a fist, the Ascendent Council of Giantsrest was composed of the very top Archmages of the Ascendent Academy. They were the most proficient mages on Davrar, and this arcane wonder of a room was theirs to do with as they pleased.
+
+But if Taeol had to listen to the prune-faced woman down the table talk about how well her governorship of Halsmet was going for five more minutes, he was going to start disintegrating serving slaves to make a point.
+
+Instead, he raised a hand and twiddled his fingers. A young man and woman wearing nearly nothing hurried to his elbow, lowering their heads and presenting trays of delicacies. Taeol snatched a sweet bread and a small handful of olives before being distracted by the slave. His other hand drifted lower, thinking about what he might do after the meeting.
+
+Assuming Exea ever shut up. Taeol popped an olive into his mouth with one hand, continuing to feel up the slave with the other.
+
+That’s something the Ascendent Academy really does have though. The creature comforts. Proper privacy is impossible, and so is proper research. But you can't beat the luxuries. I should start planning to head back to my tower. But without materials…
+
+Taeol sighed, eyes drifting along the mages sitting along the table. More than a dozen archmages, all sitting with various degrees of attentiveness. Archmage Dennar was sitting at the head of the table today, having negotiated the chairman position for the meeting. Taeol didn’t know why the old bat wasn’t telling Exea to move on. Probably some political bribe of some kind or another. Or maybe they were fucking. Taeol didn’t care. He was only here to make another request for materials to let him resume his research.
+
+But Taeol was down at the end of the table, denoting his current favor. Or lack thereof. Next time, he’d ensure that whoever he brought across dimensions was properly managed.
+
+Taoel ate another olive, pushing the slave away. He was about to slump further down and resume examining the room when a crackling orb of lightning appeared at the end of the table next to Taeol. The empty end of the table, reserved for the honored founders. Taeol flinched away from it, and didn’t even notice that Exea had stopped talking.
+
+The ominous orb only lasted for a few seconds before it popped, replaced by a man sitting in a chair.
+
+But this room is more warded against teleportation than my own butthole.
+
+The man didn’t look anything like the others sitting around the table. He was thin and ascetic, compared to their fat and pampered. His robes were simple and black instead of their elaborately colorful and heavily enchanted draperies. And his eyes.
+
+Taeol took pride in his eyes. Their color and glow indicated the heights of Magic which Taeol had achieved. He loved seeing the orange illumination cast by his gaze when he cast a spell. But this man’s eyes… They were spirals of multicolored lights, shining spots of light on everything this man looked at.
+
+And that was what it took for Taeol to recognize the man. Taeol’s head slammed against the table as he prostrated himself from his sitting position.“Founder Badud! Praise to the Giant!”
+
+He was echoed by the other mages around the table, though none showed quite the same total subservience as Taeol had. That was good, it meant all the other archmages were fools. If Badud was back, then that meant everything was about to change. And Taeol could ride that change to get what he needed.
+
+After a moment, Badud’s deep voice rolled around the table, grating like a distant avalanche. “Well, it is time to see how Giantsrest has been doing since my last visit…”
+
+—
+
+“Enter!”
+
+Taeol nervously walked through the door, which swung shut behind him. Badud had taken over Archmage Dennar’s office, which held a prestigious place just beneath the spire chamber. It was a large, sumptuously decorated room. Taeol noted that some of Dennar’s singing sculptures were cracked and broken, with the rest encased in a silence spell.
+
+He’s not going to be happy about that. I doubt he’s happy about Badud taking over at all. Though I’m certainly not happy about how long I had to wait. Did Badud really have to talk to nearly everybody else before me?
+
+Taeol gingerly took a seat in the chair that Badud waved him to. It wasn’t a well-cushioned one. After a second the honored Founder looked up from the stack of papers and raised an eyebrow. “How is my dimensional protege doing? Cracked the [Mass Teleport] problem yet?”
+
+Taeol leaned forward, grinning. “No, but by my own thumb I finished the dimensional work I proposed when I was a student.”
+
+Badud’s other eyebrow went up. “Did you now. The project I told you to forget about?”
+
+A drop of sweat rolled down Taeol’s forehead.
+
+Did he? I… honestly can’t remember.
+
+Taeol held up a shaky hand. “But I achieved tangible results! I brought a member of another world here to Davrar, to learn his secrets! They had flight without magic, and towers as tall as this one, built of steel and glass!”
+
+Badud’s mouth changed into a thoughtful expression. “Interesting. That must have been expensive for Davrar, I will need to check on…” He waved the thought away, refocusing on Taeol. “Impressive magic, which is reason enough on its own. Have you started disseminating the knowledge gained, or are you holding it while you determine the best way to proceed? I am surprised you told me of it, since I am tempted to take this person.”
+
+Several more drops of sweat rolled down Taeol’s face. “Well. The man I brought here. He escaped. He decided he’d rather keep the secrets that could change Davrar, and had some way to resist my spells. He broke out, and went to Gemore. I gave him every chance to return, and hired a team of Gemore Adventurers to kidnap him and bring him back here, but he’s still there.”
+
+Taeol knew he was whining. But this was something he got to whine about. He’d had his triumph with magic! Why hadn’t everything followed from that?
+
+“He isn’t even spreading the knowledge in Gemore! He’s just happy being an idiot adventurer, running around punching things! Who does that? Who turns down the chance to learn magic from an Archmage to go fight with their fists?” Taeol scrubbed at his sweaty face, uncaring how it looked.
+
+He looked back up, and Badud’s eyes were intent and focused, pinning Taeol in place. “What is this man’s name?”
+
+“Nathan Lark. I summoned one who was pushing the boundaries of knowledge, to teach me of all secrets of that world.”
+
+Badud’s gaze did not waver. “Is he a Questor?”
+
+Taeol blinked in confusion. “What? No. He’s just a man. I blew his arm off with a [Disintegrate], even if he got it healed later. That doesn’t happen in the first place with a Questor.”
+
+Badud frowned, looking concerned. “Did he say anything strange about Davrar? What you are describing - it sounds like the start of a Questor. Was there nothing else?”
+
+More sweat popped to life on Taeol’s face. Was Nathan a Questor? That would be… bad. Probably. Maybe Taeol shouldn’t try to capture him anymore. He opened his mouth uncertainly, trying to remember those unhappy memories. “He left a strange drawing on the wall of his cell. And a short piece of text carved into the table. I didn’t know the language, and [Translate] returned gibberish. I have copies of them.”
+
+Taeol reached into one of his dimensional pockets, flicking through notebooks until he found the right one. He pulled it out and flipped to the page where he’d copied the markings he’d found in Nathan’s cell.
+
+Badud looked them over, eyebrows furrowed. “Hmm. I cannot tell. Maybe…” He looked back at Taeol. “Capture him. You have made a regrettable mistake here. Succeed, and I will grant you more Insights into [Mass Teleport]. It is a useful spell that I wish Giantsrest knew of, and you are well positioned to spread it.”
+
+Taeol spluttered. “But… but I don’t have any funds! Or retainers! Just my tower. I need something more.”
+
+The corner of Badud’s mouth curled up. “You have Insights. Teach. Make promises. Gather a following, and use them to capture Nathan. You have power. Use it yourself, with no more handouts. Learn this lesson well, Taeol. However smart you are, you must be willing to put your shoulders behind an effort for it to succeed. You cannot just plan and rely on others. You must manage actively. Be willing to stir your hands in your enemies’ guts.”
+
+With that, Badud made a flicking gesture and the door opened. Taeol was dismissed. He left, sweating even harder.
+
+Badud watched the enchanted door close behind the overweight mage, then rubbed his chin thoughtfully as a grin spread slowly across his face.
+
+“I hope he is a Questor. It would be nice to have a rival. Kingdom-building is boring. Giantsrest has its creature comforts, but it’s at that interminable phase where the numbers need to come up before it can truly start expanding. And it’s always more fun if there’s some resistance to the expansion phase.”
+
+Badud shrugged. There was nothing for it but to wait. And occasionally intervene. He bent down to examine the reports on slave numbers. It looked like some of the archmages were prioritizing their preferred physical traits over everything else, leading to an unfortunate slowdown in growth rate.

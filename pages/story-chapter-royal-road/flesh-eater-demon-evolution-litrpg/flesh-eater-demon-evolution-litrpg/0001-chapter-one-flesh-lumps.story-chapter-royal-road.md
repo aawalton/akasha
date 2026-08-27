@@ -1,0 +1,165 @@
+---
+id: 90c6e0d0-7aab-540e-be6c-32d9b8d6661a
+page-type-slug: story-chapter-royal-road
+title: "Chapter One: Flesh Lumps"
+slug: 0001-chapter-one-flesh-lumps
+partOf: flesh-eater-demon-evolution-litrpg
+position: 1
+ownLength: 2633
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525466/chapter-one-flesh-lumps"
+royalRoadId: "2525466"
+---
+
+The first thing she noticed was the smell. It was heavy, sharp, and everywhere. “Rotting cabbage,” “sour milk,” and “sewage” came to mind as good descriptions, but she didn’t know where she’d learned the words from. It probably should’ve bothered her more, to have this random knowledge swimming around in her brain, but she found she didn’t really care. She did know those words were usually considered negatives, but that was pretty ridiculous if you asked her.
+
+It smelled fucking delicious.
+
+The second thing she noticed was the sheer amount of stuff around her. Below her, to the sides, piled on top. Now, she couldn’t actually tell what any of it was since she couldn’t see or hear anything, but she could feel them—little soft lumps that were slightly warm to the touch, all of them stuffed together in one massive heap.
+
+She tried to move, and the result was a slight wiggle that sent the other lumps around her quivering as well. She waited for another random phrase to rise, something to make sense of her current situation, but she got nothing. There was just her, the darkness, and the soft little blobs that may-or-may-not be the source of that mouth-watering aroma. And speaking of which, what the hell was a mouth? Why did she know it could water?
+
+Something must’ve taken pity on her, or maybe she just had very good timing, because in the next moment a soft, soothing voice cut through the silence. It sounded like it was speaking directly into her mind.
+
+Welcome! Congratulations, you are one of the lucky few selected for reincarnation. The system has assigned you a new species based on your past life experiences and the circumstances surrounding your death.
+
+As you are new to this world, this welcome message will provide you with the information you need to get started.
+
+There was more after that, but she didn’t pay much attention to the voice because of one very important fact.
+
+She couldn’t understand a goddamn word.
+
+What the fuck are you saying? she interrupted. And wasn’t that neat? She didn’t have a mouth or ears, but she had a distinct voice in her mind that could convey general feelings. The more she discovered, the more interesting this whole situation was becoming.
+
+We apologize, the welcome message for reincarnators is typically presented to individuals with a minimum intelligence of 10. The system provided you with above-average intelligence in anticipation of this issue, but it seems the amount was insufficient.
+
+Given the extraordinary circumstances surrounding your reincarnation, we will make additional adjustments accordin—
+
+No offense, but you know I still can’t understand you, right. You’re kind of wasting your own time here.
+
+…
+
+A second later, a sudden warmth flowed through her body. Her body, which she could now definitively say was exactly like the things piled around her. Soft, amorphous, and fleshy. She hadn’t been far off with the “lump” description. She had no limbs and no face, and when she tried to move, her body wiggled in one great big mound. This, she now knew, was a novel and decidedly extraordinary situation, but she still couldn’t determine why it was so strange for her.
+
+That unconscious knowledge rose again, different phrases accompanied by brief flashes of memories that were far too faint and scattered to make real sense of. “Human” was the word that eventually floated to the top. She’d been human, once. Probably.
+
+Well, she definitely wasn’t anymore.
+
+A string of words and numbers suddenly appeared in her mind, cutting through her thoughts.
+
+Name: ??? [Tier 0]Species: [Flesh Lump, Lvl 1]Class: [Locked]Titles: Reincarnator, Amnesia, Above-Average SentienceStatsStrength: 2Agility: 2Constitution: 2Magic Resistance: 2Intelligence: 10Points: 0Traits: [Amorphous 1], [Flesh Eater 1], [Scent 1]Skills [0/5]: None
+
+Well, she thought, at least that explained the delicious smell. She was a flesh lump, the things around her were flesh lumps, and she was also a flesh eater. She didn’t need 10 intelligence to piece that puzzle together.
+
+Pity about the lack of arms and, well, everything else. While she couldn’t remember being human very well, probably because of that all-important amnesia title, she distinctly recalled the general convenience of legs. It was more of a sensation, something intrinsic and ingrained, than an actual hard memory. She probably didn’t have any of the latter, if that title was to be believed.
+
+…Can you understand me now?
+
+Maybe it was her imagination or her newly-developed mind jumping to conclusions, but the voice sounded hesitant. She snorted, or at least she would’ve if she had a nose or mouth to speak of. In her current state, all she could do was feel faintly amused.
+
+Actually, she wasn’t sure how she was smelling things in the first place considering the entire surface of her body was smooth. She had some kind of trait called [Scent], but no nose to go with it. Was she smelling through her pores or some shit? Then again, considering her other option was to have no other senses except touch, maybe she shouldn’t look a gift horse in the mouth. Smelling things via skin was cool, actually.
+
+Yeah, you’re good. Thanks.
+
+You’re very welcome. Continuing with standard procedure, you are one of the lucky few selected for reincarnation.
+
+We understand that your current species may be rather shocking and distressing. We recommend taking a few moments to accept your new state of life and to understand that there are positives in every outcome. Please know that the system assigned you the species deemed most appropriate based on your past life and death. Though it may not seem like it now, this was the ideal outcome for you.
+
+The voice paused as if expecting a response or some sort of rebuttal. She raised an eyebrow. Mentally. This flesh lump thing would take some getting used to.
+
+What? It’s not like I can remember what my past life was. I’ve got no reason to be mad. That would just be silly and a waste of time.
+
+Of course… Regarding that, we apologize for your current amnesia. During the reincarnation process, the system was unable to retain your past memories due to an unexpected blockage. Given enough time, they may return on their own, but we advise you not to hold out hope.
+
+She hummed internally in acknowledgement, then shifted again. Now that she had more awareness of her body, it was slightly easier, but still difficult, to move. The problem was that there wasn’t a lot of space to work with. She and all the other lumps were crammed together, and if her body wasn’t so soft and malleable, she likely would’ve gotten crushed under the sheer weight of everything. There was probably about a hundred—maybe more—flesh lumps in total, and she couldn’t exactly see where the top of the pile was.
+
+Moving on, then, the system welcomes you to your new life. We hope you take advantage of this second chance.
+
+You can now access your stat sheet at any time. By completing certain tasks, you will gain experience, levels, traits, and skills. Every level will provide you with points to be distributed among your stats. Once you meet the necessary requirements, you will be able to evolve into a higher tier species.
+
+This concludes the—
+
+Hold up, she interrupted, studying her stat sheet again. Why don’t I have a name?
+
+Due to your amnesia, the system was not able to assign you one. You are welcome to choose your own.
+
+Great, what’s the maximum character limit.
+
+…within reason.
+
+She thought about it for a moment. Obviously she didn’t remember whatever her name used to be, and even if she did she probably wouldn’t use it. This was supposed to be a second chance, after all, and a human was quite different from a blob of flesh. That she was certain of. No reason to pretend like things were the same, especially not with her apparent amnesia giving her a clean slate to work with. She was half tempted to pick “zombie” or something similar since, well, she was technically dead, but she figured that might come back to bite her later on.
+
+After some more consideration, she finally decided on one.
+
+Pyre.
+
+There was a pause, then another wave of warmth flowed through her. When she glanced at her stat sheet again, her new name had taken the place of the question marks.
+
+Your name has been changed.
+
+This concludes the welcome message. Later, you will receive your starter quest. We advise you to take it seriously.
+
+Welcome again. May you live long and fruitfully.
+
+As suddenly as it had appeared, the voice vanished again, leaving only Pyre and the other lumps surrounding her. She wondered if they’d gotten the same message. The system made it sound like reincarnation was rare, and she guessed most people didn’t reincarnate into flesh lumps if the little intelligence mixup was any indication. She was willing to bet most—if not all—of the others didn’t have past lives, so they wouldn’t have gotten the welcome message or the system’s pity upgrade to intelligence. They probably had a 2 or something in that stat. That sounded about right for a living blob.
+
+That was good. It gave her more time to figure things out while the other creatures (beings? monsters?) battled for sentience. For example: what to do about that delicious smell.
+
+It was starting to get hard to ignore. It didn’t feel like hunger, per se, at least not the way she was used to. She didn’t think she had anything close to a human stomach, so there were no growls or hunger pangs. It was more like a primal need, an instinctive awareness that if she didn’t feed soon, she could wish her second life poof. The question was how she was supposed to eat her fellow flesh lumps. Without a mouth, she couldn’t exactly bite them like she would’ve as a human.
+
+A human, because that’s what she used to be. Life sure was wild.
+
+Pyre attempted to shift again. The movement was a little stronger this time, and she found that if she concentrated, she could stretch and squish specific parts of her body. That was the [Amorphous] trait kicking in, she guessed. It didn’t feel quite the same as moving a limb, but after some more attempts, she was starting to get the hang of it.
+
+The system voice or whatever had mentioned a starter quest, but “later” was an awfully vague term, and she didn’t feel like sitting around waiting for it. Might as well see if she could figure some of this shit out on her own first.
+
+Based on the weight, it looked like a particularly large flesh lump was sitting right on top of her. Pyre concentrated and imagined herself stretching. She felt her body contort in response, the flesh thinning out as one end of her body rose to slip into the gap between the lump on top of her and the one next to that. She mentally grinned. It looked like she had a way out of this pit after all.
+
+She paused. Hold up, she could stretch around the other lumps, right? If that was the case, then maybe she had a solution to the “no mouth” thing after all.
+
+Focusing all her 10 intelligence mind power, Pyre imagined herself wrapping around the lump above her. Her body trembled slightly. She could feel the flesh continuing to thin out until it was less than an inch thick. She hadn’t really noticed it before, but now she was starting to feel a bit of resistance. It reminded her of an elastic band nearing its maximum range, which, if her vague knowledge was right, usually resulted in the thing breaking. Thanks for the tidbit, mysterious pre-reincarnation self.
+
+Now that was a thought. If she stretched beyond her limit, would she be able to snap in half? That was probably something to avoid. Then again, maybe the two halves would split and gain their own separate consciousnesses like a worm or something. Worms did that, right?
+
+Now she was curious, but as fun of a thought experiment as this was, she figured she should probably stay on the safe side. For now. She could feel herself curling around the other lump already, anyway. It was close, but she didn’t think she’d need to go past her “maximum length” to wrap all the way around it.
+
+Pyre imagined squeezing nonexistent muscles, straining to pull across the final section. She felt the other lump start to wiggle around, maybe finally noticing what she was doing. Woah there, buddy, she thought. Chill out. I’m just trying to eat you. Nothing to write home about here.
+
+She might have to reassess the whole “no voice or other means of communication” thing, because the other lump immediately began spasming. Violently.
+
+She cursed and forced herself to stretch further. She felt the other creature bump into her, and she realized it was attempting to stretch past what she had already covered. Possibly so it could absorb her instead. The faint warmth of the other lump began morphing faster. Maybe that should’ve annoyed her, but instead, she felt a distinct thrill rise in her amorphous heart.
+
+She pushed herself further. Her body stretched past its previous thinnest point, extending rapidly to close in around the other lump. A wave of warmth flowed through her and something flashed in her vision, but she ignored it in her growing glee.
+
+She was almost there.
+
+[The trait [Amorphous] has leveled up! Lvl 1 —> 2]
+
+The other flesh lump collided into her, but it was too late. Her body made the final reach, and she felt the ends of her form meet. Pyre pictured a droplet of water getting absorbed into a larger pond, then attempted to mimic that sensation. The soft flesh quivered, then melded together like butter. Or whipped cream. Or caramel. God damn did it smell good right now.
+
+She could feel the other lump still thrashing about, but the connection point stayed firm. She respected the effort. Now if she could just figure out how to eat the thing, everything would be perfect.
+
+It didn’t end up requiring nearly as much brain power as she thought it would. Once she had the other flesh lump fully encased, its surface began to soften beyond its already squishy state. Slowly, it melted into a fluid, viscous in texture. She felt her body begin to absorb the substance, steadily digesting the creature until there was only her and all the other lumps around her remaining.
+
+There was no real taste to it, certainly nothing that compared to the beautiful beautiful smell, but she felt satiated afterwards. At peace. If she could sigh, she would.
+
+[You have devoured (1) Flesh Lump Lvl 1]
+
+[Experience earned!]
+
+[Your species has leveled up! Lvl 1 —> 2][Strength +2, Agility +2, Constitution +2, Magic Resistance +2, Intelligence +2]
+
+[You have earned 10 points]
+
+[Starter Quest unlocked! 10 bonus welcome points earned]
+
+Starter Quest: Escape the Flesh PitEscape the Flesh Pit and devour at least (30) other Flesh Lumps.Reward: Experience, 30 points, initial Tier 1 species evolutionBonus: You will receive (1) extra point for every additional Flesh Lump devoured beyond the quest minimum.
+
+[You have gained (1) new trait!]
+
+Please select from the following options:[Eye Growth], [Crawling Fingers], [Voice Projection], [Chameleon]
+
+Pyre slowly read through the string of notifications, taking her time to enjoy the satisfaction of her first meal. The ends of her body finally separated again, and the flesh curled upwards like a smile.
+
+The system had made it sound like getting reincarnated as a flesh lump was a bad thing, but if you asked her, this was shaping up to be a whole lot of fun.

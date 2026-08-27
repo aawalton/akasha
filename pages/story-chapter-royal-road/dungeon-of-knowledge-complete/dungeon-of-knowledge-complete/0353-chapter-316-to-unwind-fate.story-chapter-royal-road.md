@@ -1,0 +1,165 @@
+---
+id: b6a70fcb-f76c-5093-9fe0-7acbd1ba9727
+page-type-slug: story-chapter-royal-road
+title: "Chapter 316: To Unwind Fate"
+slug: 0353-chapter-316-to-unwind-fate
+partOf: dungeon-of-knowledge-complete
+position: 353
+ownLength: 2006
+unit: words
+ownProgress: 2006
+publishedAt: 2025-07-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2448788/chapter-316-to-unwind-fate"
+royalRoadId: "2448788"
+markedReadAt: "2026-06-29T20:22:32.687Z"
+---
+
+The torrent of information and combat mastery knowledge pounding into her mind subsided as the battle drew to a close. It was a shock just how powerfully her domain tithe had reacted to what was just a sparring match, but Ali had instantly recognized what was going on; Rezan was undeniably a combat master with an unimaginable depth of knowledge – and he was teaching.
+
+Perhaps he had a skill similar to her Teaching Sage, but the intent to transfer knowledge and understanding to his students had resonated powerfully with her domain skills.
+
+Much like Ali had noticed with combat experience after passing the second-tier threshold, the domain tithe contributions from unevolved classes felt like a seeping trickle, while the sparring between evolved classes as Rezan took on Tol’brekk and Malika had felt like a flood.
+
+Sage of Learning has reached level 51 (+4).Martial Insight has reached level 71 (+4).
+
+Ali could tell instantly when Malika had unlocked her skill advancement – and she hadn’t even needed to see her simultaneous blocks – just the rush of knowledge and understanding that had flooded into her mind had been enough. It was too bad she couldn’t learn actual skill advancements for her minions this way, but it was more than enough. This single session had dramatically improved her ability to register and react to combat abilities, understanding them substantially better – and she had learned dramatic improvements for her form and balance that she was certain would increase combat potential for all her humanoid minions.
+
+“Thank you, Elder,” Ali said, copying Malika’s bow from the end of her bout. As he retrieved his robe from one of his students, her eyes lingered on the weathered skin and wiry muscle of the aged Ahn Khen master, studying the delicate artistic runes tattooed across his back and shoulders visible only via mana sight.
+
+“I would like to invite others from the scattered Ahn Khen villages,” Rezan said. “If Nevyn Eld is making his move, training here would be extremely advantageous to our people.”
+
+“Of course,” Ali said. “If it helps keep your people safe from Nevyn Eld and his undead, I’m all for it.” It went without saying that such an offer would be extremely beneficial for herself, and by extension the guild as they continued to train in her dungeon – but it was obvious Rezan already understood the implications. Her eyes continued tracing the runes on his body as Sage of Learning drew from her mana to help her understand. They were quite different in style and structure from the aggressive body tattoos of the Aman Rak trolls, but the purpose was the same – Rezan was a Monk of exceptionally high level, and he employed runic tattoos in lieu of normal body armor.
+
+“Ahn Khen body tattoos,” Rezan said, turning slowly, clearly aware of her fixation.
+
+“Sorry,” Ali said sheepishly, but she didn’t fail to take advantage of his offer to let her study them. “They seem similar to the Aman Rak tattoos,” she said finally, “but I can’t figure them out exactly.”
+
+“The Trolls invented the technique,” Rezan said, drawing an affirmative grunt from Val’korr who had emerged from the library to watch sometime during the bout. “But the Ahn Khen perfected it,” he finished, and Val’korr’s approval turned into a choking, wheezing cough. Rezan’s deadpan was broken only by the smallest crinkling around the corners of his eyes. “If you’re interested, I can give you some instruction later – it is, unfortunately, a dying art.”
+
+“Perhaps she should get instruction from the source?” Val’korr interjected, obviously intending himself.
+
+“I would love to study with both of you,” Ali said, “But I promised to fix Vivian and Tabitha’s classes. Perhaps I can prevail upon you after that?”
+
+“Fix?” Rezan asked, eyebrows infinitesimally raised in surprise.
+
+“I learned how to revert class advancements with my shrine,” she answered, and then led the way to the beginner section of the challenge arena where Vivian had returned to teaching the recruits.
+
+To her surprise, she found Sabri standing beside Mato and the old woman who liked to cook outside the guild while they all spectated a bout.
+
+Ali glanced into the ring.
+
+Farmer – Human – level 26
+
+Is that Seyah? She had only briefly met Sabri’s mother, but the woman was trouncing a level eight kobold with nothing more than a hoe. Under typical circumstances, a level twenty-six should easily beat a level eight monster, but she was a farmer. Farmers had no combat skills whatsoever, and yet Ali instantly recognized the classical footwork of an Ahn Khen warrior despite the farm implement she was using instead of a real weapon.
+
+Seyah hopped out of the ring after knocking the kobold warrior down and rejoined her daughter with a grin on her face. “I still haven’t lost it!” she exclaimed happily.
+
+“How is it you can fight?” Ali asked, curious to understand her secret.
+
+“Oh, I have a basic polearm proficiency as a general skill,” she said, and then her smile vanished as she continued, “I wanted to be a warrior when I was younger – I thought I would be good with a spear.”
+
+“What happened?” Ali asked before she registered that it might be a difficult question. And then she realized she already knew the answer.
+
+“She suffered the fate of so many of our people,” Rezan answered for her. “We are too poor to afford access to shrines and so most of our people must live with the class that fate, or the Ancestors, hand to them. We train all our youth aggressively, but all too often, they come away with unwanted or limited classes.”
+
+“It is why I relented and allowed Sabri to journey here to meet with the dungeon,” Seyah said. “I didn’t want her to suffer the same fate as I did.” Then she looked at Ali sheepishly. “I didn’t know you would take care of her so well.”
+
+“I’m sorry if it was an uncomfortable question,” Ali said.
+
+“No, it’s ok,” Seyah said. “I’ve long made peace with it, and Sabri can once again carry the proud combat tradition of our family.”
+
+“Would you like to try again?” Ali asked. She was about to head to the shrine anyway, and there would be more than enough mana even considering the cost of Vivian’s possible evolution.
+
+“Try again?” Seyah asked, frowning in confusion. “What do you mean?”
+
+“I can wipe out your class with my shrine, and you can pick a new one,” Ali answered. “You would have to start over at level one, though.”
+
+“Mom!” Sabri exclaimed, suddenly excited.
+
+“I don’t know,” Seyah said, her emotions guarded. “I’m probably too old for that now.”
+
+“I was over three thousand years old when I got my class,” Ali answered, although that was something of a technicality. She gestured to the cook standing nearby, “Tabitha is going to try it today.”
+
+“Who would look after the farm?” Seyah asked.
+
+“I have enough money to look after both of us,” Sabri said. “Please, Mom, you could wield Grandpa’s spear – it’s what you’ve always wanted.”
+
+“I’m just not sure,” Seyah said, the frown deepening.
+
+“Well, I’m going to take them down to the shrine, and you’re welcome to come along and watch. If you change your mind, my offer remains open,” Ali said. “Think about it. Please.”
+
+***
+
+“Here you go, Tabitha,” Ali said, identifying her quickly. “The shrine is ready for you.”
+
+Laborer – Human – level 17.
+
+“Thank you, dearie,” the old woman said, shuffling over to the shrine muttering about her back and how she was too old to be crawling about in dungeons. She touched the surface of the shrine, and a few moments later there was a burst of mana, and her identification changed.
+
+Human.
+
+Tabitha looked at her in surprise. “What now?” she asked.
+
+“Try to see if there are any class options for you,” Ali suggested. “Also, you could try seeing if there are any compatible mana affinities that you like.”
+
+Tabitha turned to the shrine and several moments passed, when suddenly she lit up, wreathed in flame as the shrine imparted fire affinity to her, and then she released the shrine and turned back to Ali.
+
+Cook – Human – level 1 (Fire).
+
+“Oh, my,” she said. “Tabitha the Crone is now a Gourmet Chef! I can’t wait to try this out on those poor adventurers,” she cackled happily as she shuffled away from the giant obelisk of stone.
+
+“It’s all yours,” Ali said, glancing up at Vivian Ross standing quietly beside her.
+
+Warrior – Human – level 100.
+
+“I can’t believe you actually learned that ability,” Vivian said slowly. “I dreamed of finding it so many times.” She stepped forward and placed her hand on the shrine.
+
+Ali saw the surge of mana when she wiped out her evolution, and then moments later, Vivian flared with dancing tongues of flame that flickered about her. But the rest of her use of the shrine took way longer as she worked her way through the paths she was being offered.
+
+Then, all of a sudden, the chime reverberated through the entire dungeon as two million mana was suddenly consumed.
+
+[Zone] Blade Master of Dancing Flame has advanced to the second tier.
+
+Yes! Ali barely stifled the shout, keeping her reaction inside her mind.
+
+Vivian stepped away from the shrine with an unreadable expression on her face and slowly drew both her curved blades. Heat rolled out as she wreathed her entire body in an intense silvery flame and her swords began to dance and flicker as she moved through the sequence of a combat drill.
+
+Warrior – Human – level 100 (Fire).
+
+“Thank you, Aliandra,” Vivian said. “I think I will need to practice a little to get rid of the rust on my skills.”
+
+“I can resummon the Troll Rezan killed, if you want to try facing something strong,” Ali said.
+
+“Let me work my way through a few easier challenges first,” Vivian said, grimacing as if the admission pained her. “That level eighty troll warrior might be a good start.”
+
+Ali turned to look at the small cluster of people watching; Seyah was standing with Rezan and Sabri, looking from Tabitha to Vivian, obviously still uncertain. Had she lost so much confidence? Ali decided not to push her, it was after all a huge change.
+
+“Um,” Seyah said, surprising Ali. “I think I would like to try to get a class. If that’s still ok?”
+
+“Are you sure? I don’t mind if you want to think about it for a bit more before you decide,” Ali said.
+
+“I’m sure,” she answered, and Ali saw a little of the same resolute firmness in her that she saw from Sabri when she was determined.
+
+“Ok,” Ali said, and unlocked the shrine for her.
+
+It took all of a minute for her to switch her class.
+
+Warrior – Human – level 1 (Soul)
+
+“Yay!” Sabri cheered. Normally quiet and introverted, the girl ran across the moss and stone and threw her hands around her mother in delight. “What did you choose?”
+
+“I chose Soul Spear,” Seyah said, and the beaming smile of happiness on her face was all the confirmation Ali needed that this was definitely the right choice for her. “I just… what do I do now? I can’t stay like this. I’m weaker than a kitten.”
+
+“Join the guild!” Sabri exclaimed.
+
+“Aliandra,” Rezan said, joining her on the sidelines, observing Sabri and Seyah’s unrestrained joy.
+
+“Mm?” she said looking up at the serious elder.
+
+“There are many just like her throughout the Ahn Khen villages. Would it be too much to ask you to do the same for some of them?” Rezan asked.
+
+His eyes were dancing with an emotion she hadn’t seen on his face before. It looked a lot like hope. “Of course,” Ali said, smiling up at him. “Just maybe… try not to bring the whole nation all at once?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

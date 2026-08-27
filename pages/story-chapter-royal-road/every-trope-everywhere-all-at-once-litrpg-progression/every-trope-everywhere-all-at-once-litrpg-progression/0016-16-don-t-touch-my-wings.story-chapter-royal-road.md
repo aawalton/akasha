@@ -1,0 +1,337 @@
+---
+id: e797d264-a597-51cf-890a-0ce3870733ad
+page-type-slug: story-chapter-royal-road
+title: "16 - Don't Touch My Wings!"
+slug: 0016-16-don-t-touch-my-wings
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 16
+ownLength: 2432
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3419651/16-dont-touch-my-wings"
+royalRoadId: "3419651"
+---
+
+Apparently, the harpy-boy had already planned on taking us to one of the most famous restaurants up here in the skies. The commotion we had caused earlier with the mystery meat only encouraged him to fly the ship a bit faster.
+
+To summarize how I survived Tuna’s assassination attempt… Well, it’s because I’m the protagonist.
+
+…
+
+Okay, so what actually happened was that I landed on another whale. The whale let out a moo when I landed—yes, a moo. I don’t know what's up with all the flying whales in this world, but I guess they like making all kinds of animal noises for whatever reason.
+
+Long story short, that whale brought me back to the ship. As a reward, I gave it the mystery meat. Unlike Tuna, it gulped it down without any issues. Everybody has different tastes, I guess.
+
+But now we were in a restaurant on the edge of a floating island—one much larger than the one we had initially teleported in. The restaurant overlooked the endless sea of clouds. Dozens of airships and giant flying creatures floated nearby, and I even heard a group of harpies arguing loudly over who killed a wyvern first.
+
+Speaking of wyverns, the restaurant itself specialized in making their meat actually edible. From what I heard, wyverns were unusually tough and dry.
+
+The four of us sat at a table near the center, and I could feel the other customers’ gazes behind my neck.
+
+“It’s pretty rare for humans to come to a restaurant like this,” the harpy-boy said. “You’d usually have to fly or take a portal to come to these islands. Or, I guess in your case, use a teleport spell.”
+
+I looked around, noting that most of the customers and waiters were mainly harpies. There were the occasional angels here and there, but the harpies seemed to be the most prominent—almost like the human equivalent of a race above the clouds.
+
+“Do you guys ever come down to the ground?” I asked.
+
+Harpy-boy shook his head. “What for? It’s claustrophobic down there.”
+
+Reina leaned in. “Claustrophobic?”
+
+“Compared to the skies, yes,” Meriel said. She had already drunk three refills' worth of water. The teleport spell must’ve taken all the energy out of her.
+
+“Exactly,” harpy-boy said. “In the skies, I could go wherever I want, whenever I want! You know what they say—the sky is the limit. Could you imagine a whale like Tuna being down there?”
+
+An image came to my head of a whale lying within the walls of Lyndale Castle.
+
+…Yeah, that wouldn’t work.
+
+“I’ve always been so jealous of harpies,” Reina said. “I wish I could fly, too.”
+
+Meriel’s ears perked up just a bit.
+
+“I can make that happen.”
+
+“What? How?”
+
+Meriel pulled the front of her robes slightly, revealing her staff.
+
+“You have a spell that can make us fly?” I asked.
+
+She nodded. “Though it does come with a catch. When I cast the spell, you will grow wings made of light. But… the effectiveness of the wings depends on the user.”
+
+“What do you mean?”
+
+Before she could respond, a few waiters stopped by, laying the wyvern dishes in front of us. Harpy-boy got one with a creamy white sauce. Reina’s had a bone sticking out. Meriel’s was a soup. While mine…
+
+“How the hell am I supposed to finish this?”
+
+The plate was absurdly massive. Like… absurdly. It was larger than my torso, and there was a mountain of meat stacked on top of each other, reaching for the sun itself. There was even an entire wyvern leg sticking out on the side.
+
+[TROPE INITIATED: THE SMALL GIRL EATS AN IMPOSSIBLE AMOUNT]
+
+Completion criteria: Defeat the beast (eat it).
+
+The others looked at it, jaws dropped.
+
+“Huh. That’s interesting,” the harpy-boy said. “I didn’t even know this was on the menu.”
+
+“This was not what I ordered,” I said.
+
+He stared at it a little longer, coming to a realization.
+
+“Ah! That must be the Devourer’s Banquet! You accidentally ordered the challenge version of the dish!”
+
+I blinked.
+
+“The what…?”
+
+…
+
+About half an hour later, I completed the trope.
+
+[TROPE FAILED: THE SMALL GIRL EATS AN IMPOSSIBLE AMOUNT]
+
+[PUNISHMENT: None]
+
+Okay, maybe not. Thank goodness there wasn’t a punishment.
+
+I tried my best, alright?
+
+***
+
+There were countless inns, taverns, and sky-hotels spread all over the floating islands. So where did we decide to stay?
+
+Well, the harpy-boy insisted we come to his place. The thing is, it’s pretty much impossible for people who can’t fly to get to.
+
+“Why is your home hanging beneath an island?” I asked.
+
+It was placed in such a way that ships couldn’t reach. Otherwise, they’d just crash into the island itself.
+
+The four of us stood near the island’s edge. This very edge was where harpy-boy usually entered his home from. Meriel and I weren’t the best with heights, so we stayed a fair distance back. For some reason, Reina didn’t seem to mind at all and peeked over the island as if she didn’t realize she’d die if she slipped off.
+
+“Rent’s cheap,” the boy said, shrugging. “And besides, it’s pretty cool, isn’t it?”
+
+“It absolutely is!” Reina said, completely amazed. “Meriel, can you make us fly now?”
+
+Meriel took the staff from beneath her robes. “Sure.”
+
+She pointed it at Reina. Her back began to glow, and the light morphed into the shape of wings. They resembled the wings from the angels we saw earlier, rather than a harpy’s. They matched the same brownish-red color as her hair.
+
+“Whoa!” Reina let out.
+
+The boy looked at it, blown away. “That’s… totally awesome! Witch-lady, can you do the same for me?”
+
+She frowned at the name. “You already have wings.”
+
+“I know, but aren’t you curious what happens if you cast it on somebody who already has wings?”
+
+Meriel thought about it for a second. Like, literally just a second. As if curiosity got the best of her, she cast the spell on the harpy-boy without further hesitation.
+
+Light glowed on his back. But it didn’t stop there. That same light spread to his shoulders, his head, the back of his legs, and everywhere on his body.
+
+Wings burst from them. All of them.
+
+“...Witch-lady?”
+
+He had too many wings to count.
+
+Meriel stared. “Fascinating.”
+
+“Witch-lady, what did you do to me?!” he cried.
+
+As if the wings had a mind of their own, he took to the skies, spinning uncontrollably. He was moving so quickly that I could’ve sworn some kind of hurricane was starting to form, but maybe I was just imagining it. I hope.
+
+“That’s awesome!” Reina said.
+
+“No, it’s not!” he screamed. His voice was distorted by how quickly he was moving everywhere. “Witch-lady! Do something!”
+
+She shrugged, ignoring him and turning to me. “You’re next.”
+
+I felt a hint of warmth grazing my back as she pointed her staff at me.
+
+As much as I didn’t want to admit it, I was honestly pretty excited. I’ve always wanted to see what it was like to fly.
+
+But when the spell was done, I saw Meriel and Reina putting their hands over their mouths, trying to hide their laughter.
+
+“What’s so funny…?” I asked.
+
+I tried peeking behind my back, but I couldn’t see anything.
+
+“Huh? Did the spell not work on me?”
+
+Meriel shook her head. “No, it did, but remember what I said back at the restaurant? That the effectiveness of the spell depend on the user?”
+
+I nodded.
+
+Oh no.
+
+Reina stepped behind me, bursting out into laughter. “Your wings are so cute and tiny!”
+
+I facepalmed. Really?
+
+“Great. So my wings are so small that I can’t even see them myself. Hell, I can’t even tell if they’re there!”
+
+Reina grabbed my wings.
+
+“Eep!” I cried, turning around.
+
+“Whoa, sorry!” she said, stepping back. “What’s wrong? I barely even touched it.”
+
+“Barely touched it…?”
+
+It felt like she had squeezed them with all her might. Could it just be that my wings were sensitive?
+
+I made the mistake of having my back turned toward Meriel. Seeing the reaction I had made just now, I thought she would leave my wings alone.
+
+But I was wrong.
+
+“Kyaah!” I yelped, feeling her touch.
+
+I collapsed to the ground, tears in my eyes. That hurt!
+
+I looked back at Meriel, my face flushed red.
+
+She smiled at me. “Heh.”
+
+Heh…? Heh?! What does she mean by that?!
+
+“This is good for both of us,” she said, standing over me. “A mentor must have a way to discipline their mentee. This seems like a reasonable way to do that.”
+
+She made a creepy motion with her hand, reaching for my wings again.
+
+“Stop!” I yelled.
+
+Thankfully, before Meriel could tickle me to death, the harpy-boy struck down from above, landing on top of her and taking the two of them out together. He had been so quiet while he was spinning everywhere in the sky that we’d all almost forgotten what happened to him.
+
+Now, he and Meriel lay on top of each other, completely knocked out. That was pretty good timing, considering what she was planning to do to me.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE MAGE’S DANGEROUS EXPERIMENT (COMPLETED)
+
+- THE PROTAGONIST GETS THE EMBARRASSING VERSION (COMPLETED)
+
+- THE ACCIDENTAL CRASH LANDING (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[SKILL ACQUIRED: HOVER]
+
+Type: Active
+
+Effects:
+
+- Temporarily float a short distance above the ground
+
+- Your body becomes sensitive to touch
+
+***
+
+The house hung beneath the island with several thick iron chains and wooden supports, and the winds caused it to sway now and then. I’m not too sure what the others think, but a house should not be moving side to side.
+
+I was beginning to regret my choice. We should’ve just taken one of the inns or taverns instead.
+
+With the power of our wings, we flew inside the harpy-boy's house—thankfully, without flapping out of control and spiraling to our deaths. Somehow, the tiny wings I had on my back didn’t pose much of a problem at all. I was able to fly just fine, but maybe it was because I was also rather small myself. But if those same wings had been on Reina instead…
+
+That would’ve been a different story.
+
+Believe it or not, the inside was actually pretty cozy. It didn’t really match the boy’s personality at all.
+
+The walls and floor were made of wood. Lanterns hung around the ceiling, glowing soft, orange lights. The windows were completely open, allowing the cool breeze to flow through. I didn’t realize how dark it had gotten outside until now.
+
+But the most obvious thing of them all? There were feathers everywhere.
+
+The floor, the tables, the couch, the shelves—even on Meriel’s head.
+
+“How did that get there?” Meriel said as she picked the feather off her hair.
+
+We looked up. Why were there feathers on the ceiling? And how were they even stuck up there? Judging by their colors, they were undoubtedly the boy’s feathers.
+
+“Are these many feathers normal?” I asked.
+
+“Yup!” he said. “Harpies constantly molt. It was even worse when I lived with my parents.”
+
+“You live by yourself even though you’re just a little boy? How come?”
+
+“Most harpies move out pretty early,” he said. “Flying species and all that. We like having our own space. Also, my mom kept threatening to throw my whale off the island.”
+
+As if his words had summoned her, we heard a loud meow outside the house. Reina ran toward one of the windows, looking around before finding the whale right below us.
+
+“Tuna!” she called out.
+
+It meowed again. A happy one. Don’t ask me how I can tell.
+
+“Where does Tuna usually sleep?” I asked.
+
+“The same place all the other giant sky creatures sleep.”
+
+I looked at Meriel.
+
+“The clouds,” she said.
+
+I blinked. “The clouds?”
+
+“Yes. The clouds.”
+
+I looked back at the boy, and he nodded.
+
+“How does something that huge sleep on clouds?” I asked.
+
+“You’re thinking of it the wrong way around,” he said. “It’s because she’s huge that she has to sleep on the clouds. It’s the only thing that can support those creatures’ weights.”
+
+I clutched my head, trying to fathom what they were telling me.
+
+“So you’re telling me people can sleep on the clouds?”
+
+He shook his head. “No, not people. Just those creatures. Everyone else would just fall right through.”
+
+Right. Of course, flying whales slept on clouds in this world. Why wouldn’t they?
+
+Meriel sat on the couch without even asking if she could. The boy didn’t seem to mind.
+
+“Where are we sleeping?” she asked.
+
+The boy pointed down the hallway. There were two doors on either side.
+
+“I’m on the left. You three are on the right.”
+
+Meriel’s eyes widened slightly. “...three? The three of us are sleeping together in one room?” She leaned back, laughing at the thought. “I see. There must be three beds in there, right?”
+
+“Nope. Just one.”
+
+…
+
+[TROPE INITIATED: THERE'S ONLY ONE BED]
+
+Completion criteria: Get a full night’s rest with Reina and Meriel on the same bed.
+
+I facepalmed. Oh god.
+
+Meriel shot up, taking out her staff and tapping it on the ground. The entire area began to light up. The sight was too familiar—she was casting her teleport spell.
+
+“Meriel, wait!” Reina called, pushing her back down on the couch. The spell dissipated.
+
+“The tour is over,” Meriel said. “It’s time to go home. I don’t want to sleep in the same bed as the two of you.”
+
+Meriel turned to me. “Say something. You want to go back home, don’t you?”
+
+I scratched the back of my head. “Uh… technically I don’t even have a home, but—”
+
+“You want to go back to Lyndale Castle, don’t you?” she tried again. “The guild?”
+
+“I mean, I did at first, but I don’t know anymore. Look at how excited Reina is to be here. I think everything up here is pretty cool anyway, so…”
+
+Meriel facepalmed, sighing. She sank into the couch. After a few seconds, she decided,
+
+“Fine. But our training isn’t over. We’ll continue up here.”
+
+“Then that settles it!” the boy clapped, smiling. “Rest up! We’ve got a big day tomorrow!”
+
+I looked at him. “What’s tomorrow?”
+
+“The Skycurrent Festival!” he said. “It's where all the islands gather for food, games, sports, and all that good stuff. In fact, Tuna’s going to be participating in the grand race.”
+
+Reina’s eyes lit up. “Grand race? Like… that grand race?”
+
+“Yup!”

@@ -1,0 +1,239 @@
+---
+id: 44621645-1236-548b-964a-a14c45c89bbe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 502: A Crimson Eye"
+slug: 0542-chapter-502-a-crimson-eye
+partOf: dungeon-of-knowledge-complete
+position: 542
+ownLength: 3423
+unit: words
+ownProgress: 3423
+publishedAt: 2026-01-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2929994/chapter-502-a-crimson-eye"
+royalRoadId: "2929994"
+markedReadAt: "2026-06-29T20:30:42.003Z"
+---
+
+Have I seen a Dracolich? Yes, once, deep in the bowels of the Elorthian Labyrinth before it was destroyed. What did I do? I ran, you fool, and you should too, if you ever find yourself facing one. An evil dragon that has ascended to become a Lich is not something mortals should ever face. - Lyeneru Silverleaf, lecture to Pathfinder initiates.
+
+Ali could only stare in shock and awe as the entire back half of the cavern was buried in a seething rush of blinding blue light that threatened to overwhelm even her mana sight.
+
+“Mass summoning,” she choked out, holding a hand up in a vain attempt to shield her eyes – an instinct she hadn’t been able to shed, even though she was well aware Arcane Insight had nothing to do with eyes.
+
+From beneath the unfurled wings of the Dracolich, a raging blizzard lashed against the cavern walls. The storm swallowed the rift in an instant. Like a demented, howling tide, a sea of flying skulls burst forth from the winds, their choir of screeches and chattering melding into a rising roar that shook the ground beneath their feet.
+
+Unstable Arctic Skull – Elemental – level 191-198 (Ice) x1513.
+
+Ali gasped at the script delivered into her mind by her Identify skill, shocked at how fast the number was climbing. She understood Mass Summoning. She faced it again and again. She had made bosses with the skill many times. Nothing had prepared her for the scale of this spell.
+
+A vast draconic maw appeared from within the impenetrable storm, an outline visible only by the intensity of the radiance that lit it from within. It was a frozen light that pierced through the storm, a crystal-clear intensity that mounted as it drew gathered power by the second. Then the dracolich’s maw widened, and she breathed out.
+
+A tsunami of ice and frigid mana burst forth from the roaring gullet, passing through wicked fangs as long as giants, and leapt across the great distance separating them like a hungering avalanche of cold that left nothing but shattered, frozen mountains and sudden icebergs in its wake.
+
+Ali screamed, tossing up a hastily summoned barrier and stretching it so broad her mind creaked before the deluge swept them all away. In an instant, half her minions vanished into the howling storm of ice, lost forever. Their mana reservations snapped like a cloud of fireflies caught in a fireball. Still, she could spare nothing for the painful backlash as she suddenly found herself fighting to empty her mana pool just to keep her barriers from shattering. Mana seared through her veins, pouring into the barrier spell as she shunted oceans of it into her remaining minions via Empowered Summoner. Still, she discharged massive bolts of excess mana into everything around her, unable to stem the tide.
+
+You have been afflicted by Mana Saturation.
+
+Her friends shouted and screamed by her side, but nothing reached her ears.
+
+“Here they come,” Mato said, only his telepathy bypassing the all-consuming roar.
+
+Then, the skulls arrived in a thundering wave, battering her golden wall like a demented hailstorm of cackling head-sized boulders, exploding on impact to devastating effect. Her barrier spell cracked with a sound she felt in her bones, and instantly it began leaking jets of ice and mana as the Dracolich’s unending breath weapon bore down upon them with relentless pressure. Calen and Malika stood helpless beside her, staring at the onslaught with shock written openly across their faces.
+
+Ali gritted her teeth, but despite her utmost efforts, her barriers were rapidly disintegrating before her eyes. She shoved more and more mana into the spell, but she knew they had only seconds before it disintegrated entirely under the onslaught.
+
+“Run!” she shouted, reaching for her magic of last resort, but her words were torn from her lips, vanishing into the howling winds. She gasped at the sudden pinch as she fed her life energy into salvaging her barriers, a last-ditch effort to give her friends the time to flee. Golden motes drifted up out of her arms and face, drifting over to merge with her spell.
+
+Malika turned, but her eyes widened as her gaze locked onto the golden motes drifting from Ali’s arms and shoulders.
+
+“Run! I can’t hold this!” Ali screamed, but nothing seemed to register. She can’t hear me.
+
+“Time to go! Hop to it!” Mato said, his clear mental voice finally triggering recognition on Calen and Malika’s faces. An instant later, the familiar smoky vials of their Recall Potions appeared in their hands, and the near-simultaneous puffs of black smoke sheltered from the storm by her barrier spell told her they’d both escaped. A dark, gourd-like vial suitable for biting appeared in Mato’s mouth and he clamped his jaws shut on it.
+
+“Quickly, Ali,” he said as he vanished in his own cloud of smoke.
+
+Only then did Ali drop her own.
+
+The vast maw of blackened fangs loomed suddenly out of the storm, snapping shut upon her barriers, shattering the weakened construct into a million golden shards and splinters. The undead dragon’s harsh gaze of cerulean flame burned as they seared into Ali’s brain from eye sockets larger than she was tall. The vast maw opened once more, reaching for her, but as those house-sized fangs descended upon her, Ali’s stomach lurched, and the magic of her recall potion yanked her away. Heart pounding, she sprawled on her butt on polished marble. Breathing loudly in the sudden absence of overwhelming noise, Ali glanced about frantically, but her widened eyes saw no further danger, and she sighed in relief as she took in the sight of the familiar receiving room and its locus at the Novaspark Academy of Magic.
+
+But that vast draconic voice reached her still, across thousands of miles, echoing softly in her mind as if diminished by the vast distance, and yet no less terrifying.
+
+“You have been marked, little one. You can run, but there is no escaping him now.”
+
+Ali yelped, discharging three wrist-thick bolts of golden lightning into the walls of the Academy receiving room. A sudden detonation of excess nature mana burst from her, instantly carpeting the marble surface with thick layers of moss and glowing mushrooms.
+
+Ali shivered.
+
+***
+
+“What the heck was that… thing?” Mato demanded, wrinkling his nose in disgust as the four of them slowly made their way across town, heading to the guild hall. “It smelled foul. Worse than the Death Knight.”
+
+“A Dracolich,” Calen said, soberly. “Well past its second evolution.”
+
+“And what exactly is that?”
+
+“A dragon that turned itself into an undead monster through some nefarious necromancy, just like the Blind Lich himself,” Calen answered.
+
+“Like a dragon – with extra everything,” Malika explained, earning a scowl from the Beastkin and a dry chuckle from Ali. That’s one way of putting it.
+
+“So, how do we kill that abomination?” Mato asked, reinforcing his commitment to a singular focus in Ali’s mind when it came to his position on the undead.
+
+“With a lot more people,” Calen said. “It’s a champion boss. We would probably need half the guild to kill it.”
+
+“Only if they all level up substantially,” Malika countered. “We would need a double raid of solidly platinum adventurers with at least some of them at… well, at least Lyeneru’s power level, if not more.”
+
+“Does it have a phylactery, then?” Ali asked. Liches were made by stuffing their souls into a bottle and binding them together, leaving the monster free to roam as a self-respawning undead. Still, Ali’s senses had not lied; it was clearly bound to the dungeon’s domain, too.
+
+“Probably, but I think the dungeon respawn is likely quicker,” Calen said, immediately grasping the situation.
+
+“Ali, how’s your health?” Malika asked, drawing closer to touch her shoulder and trickle a little healing mana into her body. “I don’t like it when you do that, but… thanks.”
+
+Huh. Her not-very-huggy friend seemed to think a hug was in order. Was Malika shaken?
+
+You have gained Clarity.
+
+Quickly, Ali checked her status and said, “I spent only eleven percent holding the barrier.” It had felt like an eternity in that moment, and yet it had been for just a few seconds. Likely, she could have held it for much longer had she started with a pristine barrier, especially considering her Defiance of the Meek title that she had earned from facing Azryet, but she hadn’t had the time to repair the spell formation under the sustained onslaught, and it had shattered from within when Kryostria had eventually bitten it.
+
+What could I have done? Even replaying the events in her mind and with the benefit of hindsight, she couldn’t think of anything. The assault had all been too fast, and she had been unprepared. Perhaps if she had the time to summon a second barrier, but she had been using her full capacity just to hold that first one.
+
+“Oh, that’s a relief, I thought you had to spend a lot more life,” Malika said.
+
+Calen nodded. “Thanks for getting us out of there, Ali. Perfect timing, as always.”
+
+“Thank Mato,” Ali said. “He’s the only one who was able to be heard.” Still, Malika noticing her efforts was like a salve on the burns of her futility, and she reached up a hand to squeeze Malika’s where it still rested on her shoulder.
+
+“Yes, thanks,” Malika nodded.
+
+“No problem,” the burly Beastkin said. “It was a team effort.”
+
+Ali turned inward as the others began discussing the devastating Kryostria, once a contemporary of Azryet and now turned into an undead rift guardian for the Blind Lich. She had so hoped to find Nevyn Eld’s phylactery in there and bring his evil reign to an end, but instead, she had encountered something that had stopped her cold, and it was not just the icy fury of the Dracolich.
+
+A Death Knight Factory. It was a work of such immense scope that it spelled certain doom for the kingdom, if not the entire continent. She had personally witnessed the birth of nearly a hundred death knights from the corpses of dragonkin swarming out of the rift to be sent off to battle against the mortal kingdoms. This must be what he was building in Aman Rak. Call it ambition, call it hubris… we need to stop it or we’ll be annihilated.
+
+The entire dungeon began to make a horrific sort of sense. Kryostria lorded over the Death Knight matrix, killing everything that entered the rift and feeding the raised remnants to Nevyn Eld’s armies. Haverron directed and operated the teleportation array, sending the troops wherever the Blind Lich decreed. Southport was doomed.
+
+And the Well of Eternity provided the power source that made all this possible, guarded by a fearsome eldritch monster. She shuddered involuntarily at the mere memories of its Nightmare Exile and the insidious creeping insanity of its mere existence.
+
+Still, one question remained. More than one, she corrected. Still, this question bothered her more than most. Undoubtedly, Nevyn Eld’s array was ancient; he had been harvesting that Dragonkin rift for centuries and more, which meant he could have wiped out the mortal kingdoms any time he wanted. So, why didn’t he? And where did all those Death Knights go? Why is he attacking now? These, and many other questions, would need to go unanswered until she could consult with Lyeneru. And probably Azryet, too. Who else could even hazard a guess as to the mindset or motives of an immortal Lich?
+
+Suddenly, Ali stumbled as the eldritch weight of Baaoht Yll’shuum’s gaze bore down upon her, flaying her mind, filling it with insidious whispers and the yawning abyss of insanity until she felt she would burst.
+
+She groaned in agony, clawing at her temples with her fingernails in a futile effort to dig its twisted evil from her mind, only vaguely aware of an external commotion, and Calen drawing his bow and firing a rapid succession of arrows.
+
+“Ali? What’s wrong?” Malika shouted, her arms wrapping around her, catching her before she fell. The searing surge of healing mana tore through her, pushing back the force bearing down upon her mind.
+
+A soft chime sounded, and abruptly, the presence vanished entirely. Ali glanced around in surprise.
+
+“This thing just appeared,” Mato said, kicking something black and leathery that lay on the ground. It looked like a head-sized pincushion filled with Calen’s slowly fading arrows of light.
+
+Your group has defeated Eye of Baaoht Yll’shuum – Eldritch Horror – level 200 (Mind)
+
+Ali shuddered at the sight of the horror, so far removed from the Crypt of Kings. “How did… how did it get here?” she asked, swallowing uncomfortably.
+
+“I don’t know,” Mato said. “It died easily, though.”
+
+But there could only be one answer. The cursed title had drawn them to her, and she had already seen the reach of that monster’s tentacles when she had first met Nathaniel Sunstrider and seen his projection in the Spirit Realm. “Calen?” she called.
+
+“Yes?”
+
+“How long since we killed the eldritch thing? Baaoht Yll’shuum?”
+
+“Three hours? Why…” he began, but then surprise flickered across his eyes. “Three hours, exactly. It just respawned…”
+
+“It can track you down with that cursed title?” Malika asked.
+
+“I believe so.” All the horror of that nightmare came crashing back down upon her. She had been so happy when they had killed it, and even when they had fled from Kryostria, her heart had been filled with joy at leaving that dungeon and the terrifying memories of the eldritch encounter. First, Kryostria’s voice had found her, and now, the respawned eldritch horror had reached out across the realm and touched her with its insanity. She shuddered at the thought of being unable to escape all those horrific eyes, the monsters of nightmare.
+
+“We’ll look after you, Ali,” Malika announced firmly. “One of us will stay with you at all times.”
+
+“What about… what about when I have to sleep?” she asked, her voice shaking with the dread that seeped into her heart. What’s the matter with me? Has that thing poisoned my mind somehow?
+
+“I will sit by you and meditate,” Malika said firmly. “Or Mato will do his tree thing.”
+
+“Thank you,” Ali whispered. She hated being a burden on her friends, but this was something truly terrifying.
+
+“We’ll figure it out, Ali,” Malika said. “If Lyeneru or Val’korr don’t know how to cure this affliction, I’ll personally go ask Azryet.”
+
+“Yes, we’ve got your back, my friend,” Mato agreed. “These ugly eyes are squishy, we’ll just keep poking him in them until he looks somewhere else. Not a problem. Extra experience. A shame we can’t turn them into crunchy snacks or something.”
+
+They all yelled at him for that.
+
+Naia squished her way into the Grand Library Arcana through a small gap in the second-floor doors, probing with her senses, cautiously searching. She had scoured the entirety of Ali-friend’s dungeon and challenged every monster with all the affinity combinations she could think of, even going back to retry certain bosses as more complex ideas began popping into her thoughts. She had achieved a certain amount of success, but the influx of new intelligence had made her hungrier for more options.
+
+In the second layer of the underground ruins, the part she had just left, she had encountered death magic. It had worried her terribly, but she had made herself enter – at least she had made some oozes to enter the area with. Was that what Ali-friend calls ‘fear’? Still, if Ali-friend could make death affinity, then so could she. Her reward was a Zombie Puddle that could fire death magic bolts while resembling an ordinary mud puddle. A nice companion to her Rot Ooze.
+
+She had augmented her fire-affinity oozes with a Living Flame Ooze and a Hellfire Jelly down in the hot caves, a place she was sure Ali-friend called the ‘mines.’
+
+She had even managed a strange combination of light and nature by dropping a Luminous Slime into the pool of liquid nature mana in the jungle, resulting in a Burgeoning Ooze which grew flowers and plants wherever it went. She liked that one. It was big and squishy, and it had a calming scent.
+
+But she was stuck.
+
+Naia hovered on the threshold, her membrane quivering. She could feel them inside the library, talking. The stone she clung to vibrated with their complex sounds. What would they say if she… asked? Would they get angry? The dragon had told her what to do, but they didn’t know that.
+
+Maybe they will find out I’m not that smart?
+
+Will they laugh at me?
+
+These, and many new and unfamiliar thoughts had been plaguing her mind lately, and she wished they would go away. She never had to deal with this before. Had Azryet known this would happen? If so, why had he suggested it?
+
+“Hi, Naia, how’re you doing?”
+
+The voice came to her out of nowhere, and she snapped into the form of a rock before she could even think.
+
+“I’m not going to hurt you,” the voice said.
+
+Malika?
+
+“I… I couldn’t see you,” Naia said, slowly releasing the rock formation, embarrassment burning inside her. Even her mana sense struggled to make out Malika’s skill patterns. Did she not use any mana?
+
+“Oh, I’m sorry,” Malika said, and then her foot touched the ground, and suddenly Naia could feel her presence. “I was floating. You see with Tremor Sense, right?”
+
+“Yes,” Naia answered, surprised. But being able to see Malika soothed her, and her membrane stopped vibrating. “And mana.”
+
+Malika paused for a moment and then asked, “What are you doing? Did you need something in the library?”
+
+“I’m looking for oozes,” Naia said. But confusion rippled through the vibrations in the ground, and she added, “New affinities for my oozes.” She didn’t know when it had started, but she was beginning to understand some of the ‘emotions’ of the stiff-bodies – the humans, elves, and dwarves.
+
+“New affinities?” Malika asked.
+
+“I can learn the affinity of any damage that hits my oozes,” Naia answered. “But I can’t find anything new in the dungeon.” It had been a few days since her last Slime Mutation.
+
+“Do you have soul affinity yet?” Malika asked.
+
+“No? What is soul affinity?”
+
+“This,” she said, and then a pulse of strange, prickly magic rippled through her body, and Naia realized she had experienced it before.
+
+“I see it,” Naia exclaimed. “Why didn’t I see it before?”
+
+“I was using stamina to move through the air,” Malika said. “How does your skill work? Do I just have to punch your ooze for a while?”
+
+“Yes,” Naia said, her membrane rippling with fresh excitement. “I have to make a healer slime, so it doesn’t die.”
+
+“I can heal and hit,” Malika said. “Make me a punching bag.”
+
+Punching bag? But Malika’s intent was clear enough, so she spawned a higher-level Sacred Ooze.
+
+Magic ripples suddenly buzzed across her membrane as Malika exploded into rapid movements nearly too fast to even track. Her Sacred Ooze took hundreds of punches in a scant few seconds, but each attack, Naia saw, was laced with powerful healing magic. A few moments later, her notification rippled across her membrane.
+
+Slime Mutation has altered your Sacred Ooze.Imprint: Amorphous Animus completed.Amorphous Animus – Ooze – level 91 (Soul).
+
+“There you go,” Malika said, as she settled back onto the ground.
+
+“Yay!” Naia exclaimed, bouncing up and down, her excitement overriding her earlier worries.
+
+“You should consider asking Calen if he knows of any nearby slimes. He’s a great tracker.”
+
+“Calen? Ask?” she warbled. That tremble of anxiety at the thought of asking intensified. Now she was having thoughts about being anxious, being so worried about being worried and it was only getting worse, she realized. How did thinking people manage this? Why wouldn’t the noise inside her just go away? Could she ask–
+
+“Don’t worry, he’s nice. He won’t bite,” Malika said meantime, doing that strange breathing thing that was meant to show amusement. The ripples of air across her membrane and through the stone felt nice.
+
+“I can try,” she offered. After all, it had worked today. Malika had been nice to her. She hadn’t laughed.
+
+“Come on, friend, let’s go ask him together,” Malika said.
+
+Feeling how her words vibrated her membranes, Naia paused. Friend… together. Is this what ‘friend’ means?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,205 @@
+---
+id: fce79dd9-3c12-5b20-880e-707828122800
+page-type-slug: story-chapter-royal-road
+title: "79 - Can't Sleep Either?"
+slug: 0080-79-cant-sleep-either
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 80
+ownLength: 2032
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3739456/79-cant-sleep-either"
+royalRoadId: "3739456"
+---
+
+After rerolling some of my skills, Meriel and I decided it was time for bed. With the help of her wind spell covering her ears, she was able to block out Aeris’s and Reina’s snores, but only for herself. Unfortunately, I didn’t have the same luxury, so I lay wide awake for about half an hour before giving up.
+
+Now I was sitting on the couch in the living room, immersed in the darkness. Finally, I could have some peace and quiet to myself.
+
+Or so I thought.
+
+“What brings you here?” Kaelor asked. “Can’t sleep either?”
+
+He sat on the other side of the couch. For some reason, he was here even before I had left my room.
+
+“I’m sleep deprived,” I said, sinking into the couch. “Reina and Aeris are unfortunately the noisiest roommates ever.”
+
+He laughed. “They snore a lot?”
+
+“A lot is an understatement,” I said, turning to him. “What about you? Why are you out here instead of sleeping?”
+
+“No reason in particular. I just felt like I needed this night to myself. Talon’s sound asleep in our room, but I just thought it would be better to stay out here for a little while.”
+
+“Ah,” I said. “Should I just leave you to it then?”
+
+“No, no, a little bit of company is fine. I think it’ll be more enjoyable with you around.”
+
+He yawned, causing me to do the same. I guess that’s one thing this world has in common with the one I’m from. Yawning never fails to be one of the most contagious things ever.
+
+“You know, I’ve been thinking…” Kaelor began. “You’re a lot stronger than you look.”
+
+“Why? Because I’m half your height?”
+
+“I’d be lying if I said that wasn’t the main reason.”
+
+I frowned. “Why do I feel like you’re always making fun of me for that?”
+
+He chuckled, leaning back into the couch. “Alright, alright, I’ll stop. But I really do mean it. You’re quite talented in combat. Where did you learn how to fight?”
+
+“Well, Meriel taught me how to use magic, while Reina showed me how to swing a sword, though it’s something I’m still getting used to. I never received much training beyond that.”
+
+He raised his brows. “Really? That’s impressive.”
+
+To be honest, I was just as surprised at how well I held my own during the battle. My stats and Levels definitely played a large role in it.
+
+“What about you?” I asked. “You’re a lot faster and stronger than anyone I’ve seen before.”
+
+He smiled. “Thanks, Allene. Though I’m sure it’s because I’m a Firstborn more than anything. Our kind are both stronger and naturally more attuned to magic than most. Though I suppose now with only one arm, my strength has been cut in half. It’s become a lot harder to do anything, really.”
+
+Living with only one arm would be troublesome for anyone. At least the arm he still had was his dominant one.
+
+“I think your strength comes from a lot more than just because you’re a Firstborn,” I said. “Your techniques and the way you approach fights aren’t just things that naturally gifted people can do. Those things are learned.”
+
+Though, to be fair, he was the only Firstborn I’d seen in this world so far. I didn’t have anyone else to compare him to. Even then, I couldn’t remember everything Meriel had told me about them. The last thing I recalled was that Firstborns could be born with the appearance of any other species, with the only difference being their blood. In Kaelor’s case, he was a human Firstborn, though elf and harpy Firstborns also existed somewhere in this world.
+
+“Well, I think you’re partially right about that,” Kaelor said. He leaned forward from the couch, resting his elbows on his legs. “Growing up, I spent most of my time with my family’s army. I trained alongside the rest of the soldiers, ate with them, slept with them, and bathed with them.”
+
+I blinked. “Uh… bathed with them…? Like without clothes?”
+
+“Yes…? I would imagine it would be quite difficult to clean yourself with them on.”
+
+He noticed my expression through the living room’s darkness. Though all the lights were off, the faint moonlight spilling through the windows was enough for us to see our faces.
+
+He chuckled. “I don’t blame you for making such an expression. Bathing together is uncommon in many parts of the world, but the army believes there’s no better way to strengthen bonds. That’s when people are most vulnerable, after all.” He smiled at the thought. “I grew attached to them, you know? As a child, they were all I knew. They were my friends, and the difference in age didn’t bother me.”
+
+“Did they ever treat you differently?” I asked.
+
+“Of course they did. As the son of the family they serve, they gave me extra care every second they could. Bringing me more food, washing my clothes, buying me gifts—anything you could think of. But it upset me. I didn’t enjoy the special treatment at all. I told them exactly that, but they still continued to treat me differently anyway. So you know what I did? I told my father to punish anyone who gave me special treatment. He was opposed at first because of how harsh the training was, but he eventually caved in.”
+
+“I see where this is going.”
+
+Kaelor nodded. “From that moment on, they treated me like everyone else. I was punished for every mistake, yelled at for talking out of line, and was given the same grueling training as everyone else. But all of that made me happy.”
+
+I gave him a strange look. “What are you, some kind of masochist?”
+
+He laughed. “Yeah, actually.”
+
+I blinked. “...Huh?”
+
+“I’m just kidding. But really, it was nice to be treated like the rest of them.”
+
+I let out a sigh of relief. I wouldn’t have known what to say if he was actually serious.
+
+Kaelor continued, “My bond with each of them only grew stronger from that moment forward. I was shaped by each of them. One taught me how to cook. Another taught me how to wield a sword. A captain showed me how to be a leader. When you look at me now, Allene, you’re not just seeing me. You’re seeing a culmination of everything I’ve learned from the people I’ve surrounded myself with.”
+
+I guess I could say the same thing about myself. Reina, Meriel, Talon, Kaelor, Aeris… they’re all people I’m constantly learning from, whether consciously or not.
+
+“Do you think you would’ve been an entirely different person without the army?” I asked.
+
+He nodded right away. “Without a doubt. I’m truly blessed to have met all of them. Despite our harsh training, we treat our soldiers like family. In return, they treat us the same, doing everything they can to protect us.”
+
+He suddenly stopped talking, staring off into the corner of the living room. His expression became dark, and I noticed right away that something was wrong.
+
+“Kaelor?”
+
+He stood, stretching. “I think we should call it a night. It’s getting late. We have big plans tomorrow, don’t we?”
+
+He started walking toward the hallway.
+
+“If you still want to talk, I’m open to it,” I said, staring at him. “Unless you’re too tired.”
+
+Kaelor slowly turned back.
+
+“There are a few more things I’d like to say, but… I think they’ll only sour your night.”
+
+I shook my head. “It’ll feel worse to keep them to yourself, won’t it?”
+
+“Sure, but what about your sleep deprivation?”
+
+“It’s one of those nights when I’m too exhausted to sleep.”
+
+Before you say anything about that—yes, that’s actually a real phenomenon.
+
+Kaelor thought about it for a moment, then nodded, walking back to the couch. He took a seat closer to me than before and folded his hands on his lap, staring off at the wall in front of us.
+
+“You know, there’s a reason why most people don’t treat their soldiers like family,” he began, his voice softer. “The issues that come with it far outweigh the benefits. One of which is forming a personal connection that can be short-lived.”
+
+“Short-lived?” I tilted my head.
+
+“Many of the warriors who taught me while growing up are no longer alive.”
+
+So that was why he was making such a face earlier. Talking about all of this must’ve reminded him of it.
+
+“The captain who died trying to close the dungeon gate with you was one of the captains I was closest to,” Kaelor said.
+
+My eyes widened. “What…? Why are you only telling me this now? When I had told you the news about his death back then, you didn’t—”
+
+“Didn’t cry? Didn’t react?” he said. “I said this before, and I’ll say it again. Don’t mistake my lack of words for a lack of empathy. Showing such emotions in the middle of a battle would’ve benefited no one.”
+
+“But—”
+
+“I’ve lost many people throughout my life, Allene. I can’t dwell on every one of them. I used to, but not anymore. Cessia’s death was the last.”
+
+I stopped. “...Cessia?”
+
+He lowered his head.
+
+“The woman I once loved—and the one who Kthal killed.”
+
+He smiled at me.
+
+But why?
+
+How could someone smile after saying such a thing?
+
+No… he was just putting up a front, wasn’t he? He was hurting far more than I could possibly imagine beneath that expression.
+
+“Kaelor…” I said.
+
+He began to laugh. “Don’t worry about me, Allene. I’m fine, I promise.” The laughter didn’t last longer than a second. “Admittedly, there are many days and nights when I think about her, just like I am now. Her voice… her warmth… her scent.”
+
+He stopped for a moment before continuing, “She was born blind. She didn’t know what colors looked like, let alone what I looked like. But I was happy with that. I was happy changing her clothes, putting on her shoes and her necklace, and brushing her hair every morning. She was able to do many of those things herself, but… I never minded doing them for her.”
+
+His voice didn’t quiver, and there wasn’t a tear in his eyes.
+
+He wasn’t pouring out his emotions, nor was he dwelling on them. He was just… telling me exactly what had happened.
+
+I moved closer and gave him a hug.
+
+“Allene?” he muttered.
+
+I didn’t say anything. We stayed like this for a moment.
+
+He sighed, patting me on the back. “Thanks.”
+
+I let go and moved away. “A hug always makes things better. That’s why I made Reina and Aeris hug earlier when they wouldn’t stop arguing.”
+
+He laughed. “Judging from how quiet it is in your room, it seems to have worked perfectly.”
+
+Kaelor leaned back, letting his arms settle on the couch. He opened his mouth briefly, but didn’t say anything else.
+
+“So were you right?” I asked. “Would you have preferred having this night to yourself, or did having company make things better?”
+
+He turned to me. “I think I was right. I feel a lot better now that I’ve spoken to you about all of this.”
+
+I smiled. “That’s good. Don’t think of this as a one-time thing, okay? I’d be happy to talk with you like this whenever you want.”
+
+Kaelor nodded. “Then I’ll take you on that offer. Thank you, Allene.”
+
+I sank deeper into the couch until it practically swallowed my entire body. Either I was too small, or the couch was just that soft. I couldn’t tell. I just knew that I felt way too comfortable to give this up now. Maybe I should’ve slept here all this time instead of a bed with three other people on it.
+
+“I’ll stay here for a bit…” I said. “You should head back to your room…”
+
+I didn’t hear a response after that. Before I knew it, my eyes began to drift, and everything became black.
+
+[TROPE COMPLETED: CAN'T SLEEP EITHER?]
+
+Completion criteria: Have a conversation with an ally late at night.
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[156 → 157]
+
+Note: The deepest conversations typically happen in the dark.

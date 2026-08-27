@@ -1,0 +1,343 @@
+---
+id: 71b08e79-09c4-51c3-b4cf-d57c9ce492b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 548: Dungeons and Demigods"
+slug: 0588-chapter-548-dungeons-and-demigods
+partOf: dungeon-of-knowledge-complete
+position: 588
+ownLength: 4998
+unit: words
+ownProgress: 4998
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3091175/chapter-548-dungeons-and-demigods"
+royalRoadId: "3091175"
+markedReadAt: "2026-06-29T20:32:23.749Z"
+---
+
+Ali took a deep breath, pushing down her uncertainty and listening quietly while her friends discussed the options she had unlocked.
+
+This is going to change everything, she thought. Even though she had chosen carefully from the paths presented, and even though she quite liked the advancements she had unlocked so far, disrupting the sense of comfort she had developed with her class was filling her with a strange, melancholic unease.
+
+“It will be alright, dear,” Lira said softly.
+
+Ali started, glancing up to find Lira’s kind brown eyes staring at her with a look of understanding.
+
+“Did you get an empath skill with your ascension?” she asked, jokingly.
+
+“No, I just know you well enough to tell this is all very unsettling. It was for me, too. To be honest, I’m sure it will take a while to get used to it still.”
+
+Ali gazed at her Aunt, realizing in that moment the full depth of how much she’d missed those kind words and her uncanny insight.
+
+“I just never imagined I would reach the third tier,” Ali said. Well, obviously, she had dreamed of it in her childhood, just like everybody else, but to actually believe it enough to process how it might feel? No, that she had never done.
+
+“Well, you should be proud of your achievements,” Lira said. “I know everyone here is.”
+
+“Thanks,” she said, and while her words didn’t say much on the surface, it was her abiding sense of caring that moved Ali’s heart. With renewed energy and fresh calmness, she turned her attention back to the shrine and the remaining paths she had been offered. Ok, time to see what Azryet’s mentorship has unlocked.
+
+Maker, Breaker, or Destroyer? She reread the descriptions, studying every word and detail.
+
+“Maker looks a lot like the Infinite Maze,” Ali said, eager to redirect the conversation back to a more productive mood. Certainly, Cael and Gage loved puzzles – deadly ones when she had first met them – and they had proved remarkably effective. Still, there seemed to be far more to it than that. It appeared to be a way to facilitate the kind of grand array Nevyn Eld had built inside Aman Rak, or the domain-spanning suppression aura Cael and Gage had crafted. Moreso, her links to the Wells and the Anvil would become greater, and her facility with traps would become much more prominent. Provided the path didn’t remove her standard options of using monsters, she would be willing to consider it.
+
+“It has potential, but the other two seem far more useful for what we have to do,” Calen answered. “Breaker would probably allow you to fight Nevyn Eld’s armies far better. He must be using something like that to get his armies to leave the dungeons. And Destroyer looks like the ideal path to kill the Crypt of Kings.”
+
+“Those are good points,” Ali said. Trust Calen to read between the lines, ignoring the aggressive wording and strip it down to just the core potential in what was offered. It was why Ali loved consulting with him – his mind was so sharp and perceptive.
+
+Destroyer had been unlocked by destroying so many dungeons. Specializing in dungeon rage seemed absolutely horrible to her – she hated the dungeon rage at the best of times – but Calen was exactly right, they needed to destroy the Crypt of Kings to wipe out the Blind Lich for good. And she, more than most, if she wanted to free herself from the cursed title and permanently eradicate the watching eyes of Baaoht Yll’shuum. Azryet himself leveraged dungeon rage as a weapon, and she had been taught the first steps toward wielding it. This, then, would be the natural development of that path.
+
+“Breaker is surprising,” Lyeneru said. “When did you trigger so many dungeon breaks?”
+
+Ali stopped, puzzled when she read the requirements for Breaker closer. More than a hundred? There’s no way…
+
+But then it came to her in a flash. Of course. Every time I go outside. She always took minions with her when she left the dungeon, no matter what. Malika and Mato had drilled it into her relentlessly – don’t go outside without protection. Technically, every single trip into Myrin’s Keep had been a dungeon break with dungeon minions leaving the dungeon – at least until she’d claimed the entire town. The words ‘dungeon break’ inspired fear across the continent for the vast potential for destruction, and yet, she’d often used them to stroll through town.
+
+But it was true, each time she set out with her friends to fight, she was technically at the head of a dungeon break. Which means… She carefully reread the description in the light of her new perspective, and then her decision was made.
+
+“Breaker,” she announced. “I’ll be taking Breaker.”
+
+“Care to explain your sudden insight?” Calen asked, arching his eyebrows.
+
+“Every time I take my minions out of the dungeon, it’s a dungeon break. I do that a lot, so getting bonuses for something I’m already doing would seem smart, right?”
+
+“That’s a good way to look at it,” he admitted.
+
+The only problem was, each choice was a keystone, but a random one. And whichever choice she picked would undoubtedly influence the end result of the path. Her only certainty was that this path would undoubtedly improve the strength of her minions, which was what she desperately needed.
+
+What do I need most, though? Defensive maybe? Or Survival? What’s the difference? She definitely did not like it when her minions died, but was it better to endure damage, or to deal more of it with Aggression?
+
+After agonizing over it for a while, she finally decided she just had to pick without much to go on. Survival seemed the most reliable, so she put her first points of Authority into that one, knowing that at least she could unwind the whole process if something went catastrophically wrong.
+
+[Breaker 1/6] Martial Insight gains Minion Survival(Minions gain +[skill / 2]% regeneration during a dungeon break)
+
+“Is that all regeneration?” Malika asked as soon as Ali shared it.
+
+“I believe so,” Ali said. Given that her Martial Insight was currently at one hundred and thirty-five, it was a very respectable bonus.
+
+“That’s going to help with your healer mana a lot,” Malika said, pursing her lips and nodding her head in approval.
+
+“Yes,” Ali said. It was a surprisingly good bonus awarded for a single node. It was almost seventy percent more regeneration for mana, stamina, and health – a bonus that would be multiplied across the number of minions she had in her party.
+
+Very good indeed. Good enough that she decided to buy it again when she saw that her node options hadn’t changed.
+
+[Breaker 2/6] Martial Insight gains Minion Survival(Minions gain +[skill / 2]% movement speed during a dungeon break)
+
+“Oh, movement speed,” Ali said, surprised to find the bonus was different this time.
+
+“Makes sense,” Calen said. “Movement speed is a great survival skill. Gets me out of a lot of tough spots.”
+
+“It’s not bad at all,” Ali said, her anxiety over the random nature of the decisions subsiding. Still, she was two nodes in and the options hadn’t changed. Should she continue to specialize in survival, or should she change it up? “What do you guys think I should get next?”
+
+“Aggression,” Mato said without hesitation. No surprises there.
+
+“I agree,” Calen said, making Ali’s eyebrows go up on their own.
+
+“Not more survival?”
+
+“You took two good abilities,” Calen said. “But your minions are the bulk of our team’s damage. Killing stuff faster is survival, too.”
+
+“That’s not a bad reason, Ali,” Malika said.
+
+“Well, I am looking for ways to become more powerful,” Ali said, her mind easily conjuring images of Death Knights pouring through portals in waves. Aggression probably implied more attack-focused improvements, and the faster her minions destroyed the monsters or bosses, the less chance there was for her friends to die or mistakes to happen. If picking some damage-focused improvements directed her paths in ways that could defeat undead hordes, she was all for it.
+
+[Breaker 3/6] Martial Insight gains Minion Aggression(Minions gain +[skill / 2]% damage during a dungeon break)
+
+“That’s very good, Ali,” Calen said, nodding approvingly.
+
+“Told ya,” Mato said, grinning.
+
+“Should I reset and take all Aggression?” Ali asked. It would be a massive waste of time, but if it were that good, it might be worth it. The only issue was that she had no idea how Authority was assigned and whether she’d have the same amount on her second try.
+
+“The damage boost only affects your attacking minions,” Lyeneru offered. “The survival ones will help your healers, too. They’re all very strong.”
+
+“Ok,” Ali said, and decided to roll the dice one more time on Aggression.
+
+[4/6] Martial Insight gains Minion Aggression(minions gain +[skill/2]% attack speed during a dungeon break)
+
+“Attack speed,” Ali announced.
+
+“Yes, that’s very strong,” Lyeneru said.
+
+She returned to her choices eagerly, but this time, in addition to the three random selections, she had a keystone waiting for her.
+
+Martial Insight gains Outside Knowledge. Cost: 12(Your minions gain bonus experience during a dungeon break).
+
+A boost to Minion Ego? Her minions already gained experience from combat, but now she would be able to level her minions faster if she took them outside with her. Or even sent them out on their own. Long term, this was likely to be extraordinary, especially given her style. Ali didn’t hesitate, spending the points immediately.
+
+[Breaker 5/6] Martial Insight gains Outside Knowledge.
+
+Ali was about to share her new gain with her friends when the chime sounded a second time.
+
+[Breaker 5/6] Your Domain aptitude gains +100% domain mana.
+
+“Huh? What does this mean?” Ali asked as she shared the two conflicting notifications.
+
+“You got a hidden bonus,” Val’korr said, straightening himself up to lecture. “It happens occasionally. My theory is that the Authority spent to gain the ability is a little too much, but it has to be rounded up to the next whole amount of Authority. The leftover is applied to something else you’ve bought before.”
+
+“So, I didn’t lose the keystone?” Ali asked.
+
+“No, you definitely got both,” Val’korr reassured her. “And you didn’t lose any additional Authority.”
+
+“Phew,” Ali said. She was sure she didn’t need to admit it out loud, but she had been extremely worried for a moment, there. Well, more mana means more minions, she thought, deciding it was good and moved on.
+
+With her anticipation rising, Ali studied her reachable nodes, but when she saw what awaited, she gasped.
+
+Domain Mastery gains World Walker. Cost: 16(You can empower [skill / 10] minions with untethered Domain Enhancement three ranks below your maximum [Elite]).
+
+Oh. That’s… Ali reread it just to make sure the words weren’t an illusion. It was a single-sentence summary, but what it implied was enormous. Untethered domain magic? Did that mean… world bosses? Even if she could currently only make eight Elite bosses, it would allow bringing Domain Magic spells to their dungeon dives, and the ability would grow. Ali purchased it before she even shared it.
+
+[Breaker 6/6] Domain Mastery gains World Walker
+
+“You’re growing truly terrifying, Aliandra,” Lyeneru said, her mouth forming a grim line, but then, to Ali’s surprise, the dour Pathfinder grinned fiercely. “I’m so glad you’re on our side in this war against the Blind Lich.”
+
+“I just want to prevent his armies from killing everyone,” Ali said, surprised by the Night Elf’s apparent change of heart regarding her dungeon nature.
+
+“This is the first time I feel hope since Nathaniel betrayed us all,” Lyeneru said, her eyes glittering in the light of Ali’s magical forest. “With skills and abilities as powerful as what you’ve just unlocked, we might even be able to take the battle to him!”
+
+Before Ali could reply, her chimes sounded, reminding her that she still had more Authority left.
+
+Breaker path completed.117 Authority remaining.Maker path removed.Destroyer path removed. 4 new paths found.
+
+“Four new paths,” Ali said. I just hope whatever remains is nearly as good. I was worried for a while there.
+
+As the path details appeared, she shared and studied them – and was immediately distracted by a yelp from Malika and a gruff, heartfelt, “Oh, crap!” from Mato as she read the first description.
+
+It That Lurks Within the NightmareRequirements: Experienced the Nightmare. Tainted by an eldritch touch. Opened your mind to the true nature of the eldritch and survived.The ancient, nameless eldritch gods are the one true power. Submit yourself to the inevitability of your doom, or rail against it; it matters not. Taking on the mantle of insanity, wield the nightmare. Cultivate your knowledge of eldritch mysteries, growing in understanding and power until you lose yourself within the darkness, and one day, you, too, may ascend to the ranks of true power. With this path, your race is upgraded to Eldritch Monstrosity, and your magic is imbued with true power.Traits: +Eldritch, -Fae, ???, Insanity, Intelligence, Magic, Mind.Path Length: 13Reachable Nodes:Upgrade your race to Eldritch Monstrosity. Cost: 35Quality: LegendaryPath – Race
+
+Ali shuddered at the sight of her first path option, all the terror of being trapped in Baaoht Yll’shuum’s nightmare crashing back in. Even from the relative safety of memories, her mind quavered at the recollection of all that twisted and terrible knowledge flooding into her, the horrific understanding as her deconstruction tried to make sense of an existence that embodied insanity.
+
+Even the text of the option seemed to writhe under scrutiny, and Ali nearly threw up as her entire being rebelled.
+
+“Ugh. The first one is a no, obviously,” Ali managed. The responses from her friends ranged from frowns and pursed lips to gasps of horror and disgust.
+
+“That’s fucking awful,” Mato grumbled after visibly collecting himself.
+
+Calen patted his friend’s arm. “Already rejected.”
+
+“It’s ok, dear,” Lira said, putting a comforting hand on her shoulder. “You don’t need to accept anything like that.”
+
+Ali swallowed and pressed on, hoping for something a little more reasonable, but fearing the worst.
+
+The Flight of Draconic MajestyRequirements: Title (Defiance of the Meek), Mentor (Azryet).You have faced the pinnacle of dragon-kind with defiance and rage, demonstrating the true essence of draconic nature. You have studied with dragons and taken as a mentor a dragon god. You summon dragons and count dragonkin among your friends. The path to the peak of ascension is the path of a dragon. Now take your first steps to reach your destiny. Your race will become dragonkin, and you will gain access to draconic magic and a breath weapon. Traits: Draconic, Intelligence, Wisdom, Strength.Path Length: 12Reachable Nodes:Upgrade your race to Dragonkin. Cost: 20Quality: UniquePath – Race
+
+Ali breathed a big sigh of relief at the sight of a more normal path. “Azryet’s influence,” she said, sharing the details. This path was obviously strongly influenced by her interaction with such a powerful being. From accepting his mentorship enchantment and mingling her mana with just a little of his, she had allowed it to guide her growth. It was a vaguely described path, certain to be or become powerful.
+
+But do I want to be a dragon?
+
+“That’s better, Ali,” Malika said, smiling reassuringly at her.
+
+“Anything would be better than that nightmare,” she said, uncertain about her draconic path. Am I just that unsettled by the first one?
+
+She read on.
+
+The Nature of MagicRequirements: Fae bloodline. Mentorship by a Fae essence of at least the fifth tier. Sage of Learning (tier two)You are of an ancient Fae bloodline. Stand proud in your heritage. This straight path develops your bloodline and your attunement to your magic. Deepen your roots and spread your wings. Erase your weaknesses and distill your strengths, and step forth to face the unknown with confidence.Traits: Fae, Bloodline, Magic, Nature, Arcane.Path Length: 7Reachable Nodes:Strengthen your Bloodline. (Increase the effectiveness of any attribute by 50% or affinity by 150%). Cost: 7Quality: UniquePath – Bloodline
+
+“Clarence?” Ali said, and her heart immediately melted at the sight of her delightfully playful mentor, textbook, and remembrance of her mother popping into existence beside her and zooming around her head. “This is your path?” she asked, sharing the details. The excitable book did several flips and loops in the air. So, you’re actually in the fifth tier, just like Azryet and Lira? Getting a good read on the shy book’s power had always been impossible. In fact, her biggest clue had been Azryet’s inability to identify him.
+
+And yet here she was, presented with a path that was Clarence’s namesake – his title, and her mother’s magnum opus: The Nature of Magic. A path representing the Fae bloodline.
+
+“Elowynn,” Lira murmured, and Ali caught her eyes and smiled.
+
+One more, Ali thought, pressing onward so that she could make her decision.
+
+Celestial Sovereign AscendantRequirements: Title (God Maker). Restored the Well of Divinity and the Well of Souls. Crafted the Elixir of Ages. Earned the gift of celestial knowledge from the ancient wells.The strength of your being is not yet sufficient for divine ascension, but your achievements are exemplary. Cast off the weakness of your current vessel and take up the mantle of a Celestial, taking the first steps towards becoming a deity. Go forth and conquer, Celestial Sovereign Ascendant!Traits: +Celestial, -Fae, Magic, Demigod, Reputation, Tithe.Path Length: 9Reachable Nodes:Upgrade your race to Celestial. Cost: 25Quality: LegendaryPath – Race, Demigod
+
+“Demigod?” Ali gasped and stared at her final path choice, absolutely speechless for a long time. Long enough for Malika and Mato to begin sending worried glances her way. If only to head off their worries, she collected herself and shared it.
+
+As soon as she did, the entire grove fell into a stunned silence.
+
+“Well…” Calen said.
+
+“I didn’t expect that,” Val’korr said.
+
+“Congrats, your little celestialness,” Mato chuckled.
+
+“Oi,” Ali said. “I’m not little.” It seemed everyone was just as surprised by the Celestial Sovereign Ascendant path as she was. But, besides the awkwardness, something else was bothering her. “Why does everything want to change my race? What’s wrong with just being Fae?”
+
+“It has to do with magic and how much the mortal races can handle,” Val’korr said, immediately assuming his favorite distinguished professorial tone, only moderately undermined by the soot stain on his left cheek. “On the path to a divine ascension, most races cannot handle the sheer density of the magical power required. So, the paths are offering you upgrades so that your vessel is more suitable for what you will have to bear.”
+
+“The grumpy troll is right,” Lira said, “A dryad would not have been able to bear the magic I now hold. Instead, I chose to advance to the World Tree.”
+
+Val’korr grumbled under his breath, but Lira simply smiled at him, and he suddenly grew strangely awkward.
+
+“But… I want to stay… well, me,” Ali said. “I don’t want to be something else.”
+
+“I am still Lirasia. But now I am also a World Tree.”
+
+“You can’t be saying I would still be me if I chose that awful Eldritch path,” Ali said, suppressing the shudder that seemed to rise every time she considered it.
+
+“No matter what you choose, it will change you,” Lira explained, waving her hand as if she wished to swat that option into oblivion. Ali approved. “But some more than others. The Draconic one may come with a little more arrogance, for example, and I most certainly don’t recommend the Eldritch one, but I think you would never pick that even if it was your only choice.”
+
+“Why is it even there?” Ali knew what events had precipitated it, but if it was against her nature to pick it, why was it being offered at all?
+
+“Paths like that are for those who wish power above all else,” Val’korr said. “The Eldritch path is the most powerful of your choices, but it comes with a high cost.”
+
+“More powerful than the Celestial Sovereign Ascendant? The demigod path?” Ali asked, surprised by his assessment.
+
+“Yes, It That Lurks Within the Nightmare would likely have power equivalent to a full ascension. This is the nature of Eldritch might. You would undoubtedly lose your sanity; you have nowhere near the wisdom to withstand it. Perhaps Lirasia might…”
+
+“I doubt it,” Lira answered soberly, shaking her head. “And to me it would not be worth the risk, even if I did.”
+
+“What is your assessment of the other paths?” Ali asked, curious to have a scholarly take on her options, and interested to know where her favorite would rank.
+
+“Celestial Sovereign Ascendant is clearly the second strongest – unlocking reputation and followers early is an enormous boon. The Flight of Draconic Majesty is the next strongest, setting you up for an early ascension and a great deal of power. Surely the result of Azryet’s influence.”
+
+“How do you rank The Nature of Magic?” she asked, feeling her heart squeezing just a little in her breast.
+
+“It’s easily the weakest choice,” he said. “While Fae are one of the elder races, they have always been the weakest of them, and it is the only path choice that doesn’t explicitly mention ascension.”
+
+“Is remaining Fae really that limiting?” Ali’s heart seemed to have fallen down between her feet. She didn’t want to be a dragon, and even the idea of becoming a celestial didn’t entirely appeal to her. She liked her Archons, but she didn’t necessarily want to become one. Still, if she needed to take it, that would probably be her most practical choice given what they faced.
+
+“You can ascend by developing your bloodline, Ali,” Lira said. “Strength doesn’t have to come from race. It might be a little more roundabout, but it is a viable path. And, while Val’korr’s assessment is accurate to my mind, I should point out that even the weakest of your paths is unreasonably strong. I don’t think your heart will lead you astray.”
+
+“I really want to pick The Nature of Magic. It feels like me. It reminds me of mom, and I love Clarence,” Ali said. The book bumped her shoulder softly, almost shyly, and she reached up to scratch along his spine.
+
+“Then you should choose that, dear,” Lira said, smiling serenely.
+
+Val’korr choked and then coughed, trying to make amends. “That might be the most… unconventional reason for choosing a path I have yet heard, but Lirasia is right, you should feel like it’s the best path, no matter the logic or reasons.”
+
+Mato and Calen smiled at her, and Malika gave her hand an encouraging squeeze. “I think you know what’s right for you, Ali.”
+
+“Thanks, Malika.” Ali turned to the shrine and picked her path. The path was seven nodes long, and it was not a keystone path, so she expected it would be quite focused. She just needed to organize her priorities.
+
+Intelligence and Wisdom, she thought immediately. An easy choice. But then a thought occurred to her, and she immediately turned to Calen, seeking his opinion.
+
+“What do you think?” she asked, sharing the path choice.
+
+“Intelligence and wisdom obviously,” he said. “But you’re asking because you’re considering the ring, right?”
+
+“Yes, is it worth it?” she asked. His observation about losing her Tiny aptitude had stuck with her. And here, her Fae bloodline path was offering her a different way out of her limits. Still, she barely used strength, and her vitality wasn’t nearly her most important attribute – spending two path nodes on them might not be the smartest choice.
+
+“Picking your path around your gear is not usually a smart plan,” Calen said, deep in thought. “But that ring is a ridiculous power boost for you. I’m certain you can get Giddy to duplicate that enchantment simply because you can make enough of them that she cannot fail to learn it eventually, and that’s only if you don’t learn to manufacture better rings when you’re at a far higher level. I think the Summon Supremacy far outweighs even doubling down on intelligence for you.”
+
+“Ok,” she said, hoping he was right. At least the vitality boost would have a direct survival benefit for her. Still, nobody was arguing.
+
+“Save some for perception, too; it will help all your counter magic,” Calen added.
+
+Ali nodded and then summoned her will. Feeling much like she was committing a horrible sacrilege, she spent her first point on strength. For the berserkers, she thought, trying to console herself.
+
+[The Nature of Magic 1/7] The effects of Strength are increased by 50%[The Nature of Magic 2/7] The effects of Vitality are increased by 50% [The Nature of Magic 3/7] The effects of Perception are increased by 50% [The Nature of Magic 4/7] The effects of Wisdom are increased by 50% [The Nature of Magic 5/7] The effects of Intelligence are increased by 50%
+
+Two more. With a little thought, she decided to spread her options, raising her affinities too.
+
+[The Nature of Magic 6/7] +150% spell power to Arcane magic.[The Nature of Magic 7/7] +150% spell power to Nature magic. The Nature of Magic path completed.68 Authority remaining.It That Lurks Within the Nightmare path removed.The Flight of Draconic Majesty path removed.Celestial Sovereign Ascendant path removed. The increased strength of your bloodline and the amount of Authority remaining have unlocked a hidden path.
+
+She bit her lip in shock. What? What – a hidden path?
+
+Feeling as if she’d been thumped over the head by a flying Sandwyrm, she quickly read on, her heart trembling right up in her throat.
+
+The Authority of the FaeTraits: Magic, Reputation, Bloodline.Requirements: Fae Bloodline. Title (God Maker). Title (Defiance of the Meek). Reached the third tier with at least 250 Authority.Your Fae bloodline runs rich with magic, hearkening back to the ancient bloodlines of old. You have befriended and seek the advice of deities and powers far beyond your level, and you have accomplished feats and achievements considered impossible even for those tiers above yourself. Unlock your reputation and the Authority that goes with it, and take your first step upon the path to ascension. Path Length: 3Reachable Nodes:Strengthen your Bloodline. (Increase the effectiveness of any attribute by 50% or affinity by 150%). Cost: 7Quality: MythicPath – Demigod
+
+Ali very nearly yelped when she saw the path. She would never have been able to live down the embarrassment, but who could have predicted a Mythic path? She froze in the act of sharing her path, the thought ‘what if it’s not real’ sneaking into her brain.
+
+“Ali? Are you ok?” Malika asked.
+
+“I…” she squeaked, finding herself unable to articulate the jumble of complex feelings pulling her in every direction. Before the silence grew awkward, she simply shared the path.
+
+“Holy shit!” Mato yelled, on his feet and jumping about.
+
+“Mythic…” Calen whispered. “That’s… a mythic path!”
+
+Malika squeezed her shoulder, and Val’korr burst into a fit of choking coughs as if he’d swallowed a bug.
+
+Ali glanced up to find Lira gazing at her. “Your title… it unlocked a hidden path for me,” Ali said, letting the path description do the rest of the explanations.
+
+“Now there’s something special. I didn’t expect you to unlock it quite so quickly,” Lira said.
+
+Ali tried to respond, but Lira just nodded encouragingly, so she read through the description for The Authority of the Fae again, but there was no reason to shy away and every reason to take it. The first two nodes were just the same as her previous path, so she split the two nodes between her arcane and nature affinities.
+
+[The Authority of the Fae 1/3] +150% spell power to Arcane magic.[The Authority of the Fae 2/3] +150% spell power to Nature magic.
+
+When she reached the final node, she froze, staring at it for some time. The reachable node read:
+
+Demigod (Unlock reputation gain and access to Authority). Cost: 50
+
+It’s real, isn’t it?
+
+Even though she hadn’t shared the newly revealed node yet, Lira still squeezed her hand and whispered, “Your heart will lead you true.”
+
+She glanced up and met her aunt’s eyes, and then spent her points.
+
+[The Authority of the Fae 3/3] Reputation gain and Authority unlocked.The Authority of the Fae path completed.4 Authority remaining.
+
+When no new paths presented themselves, Ali finished up by spending her final four points buying forty intelligence.
+
+Class evolution completed.You have lost the aptitude: Tiny.You have gained the aptitude: Demigod.You have gained the ability to earn Reputation.You have gained the resource: Authority.
+
+Then, her class reacted with several new notifications of its own.
+
+You have learned a new Domain Magic: Greater Attribute Enhancement (Wisdom)Class experience has resumed.Dungeon of Knowledge has reached level 252 (+2).+20 attribute points.
+
+Mana surged out through her, a vast wave of density and increased potency. Her domain sang like a vast harp as the ripples of her new magical power shot outward to the farthest corners of her dungeon.
+
+Her eyes sharpened as every single sense she had at her disposal suddenly became far more acute, far more sensitive, and she sensed something else filtering through the lattice of her domain – an indefinable essence of new potency within her mana.
+
+Mana rushed into her, filling the void created by her giant mana pool, while the world hung perfectly still as if caught in the middle of a sigh. Her mind sharpened with diamond clarity, suddenly taking in vast quantities of input, sorting and analyzing them with unbelievable precision and speed. It felt like her entire dungeon was moving in slow motion.
+
+In the distance, the Well of Souls rippled. The Well of Divinity surged. Azryet’s domain roared triumphantly, and the World Tree shone serenely.
+
+“Well, now,” Lira said, her eyes widening in surprise but then she smiled, “See? That’s what you get for following your heart.”
+
+[Zone] Dungeon of Knowledge has advanced to the third tier.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,251 @@
+---
+id: 85dcd997-0835-5ac5-bea0-d59fc2ead334
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32:  Thoughts of Flight"
+slug: 0047-chapter-32-thoughts-of-flight
+partOf: ends-of-magic
+position: 47
+ownLength: 2688
+unit: words
+ownProgress: 2688
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2777432/chapter-32-thoughts-of-flight"
+royalRoadId: "2777432"
+markedReadAt: "2026-06-29T20:08:46.285Z"
+---
+
+They flew for hours, alert for the next attack. Nathan spent much of the time feeling out the corruption inherent in the blight. He’d assumed it would make anybody exposed to it wither and rot away like some death spells would. But the more he examined the nature of it, the more he thought that was wrong. It wouldn’t be good for anybody exposed to it, but he guessed that the physical reaction would be more like allergies. Inflammation, runny nose, itchy eyes, hives on exposed skin, and phlegm in the lungs.
+
+But that wasn’t the only effect laced through the gloomy miasma. There was also a mental aspect to it, something that would infiltrate the mind and bring the darkness inside. Depression and anger would do quite well at breaking apart any group that wasn’t prepared for it.
+
+He couldn’t help but ruminate on how hostile the blight was, and how much his antimagic invalidated the challenge. It would certainly be possible to replicate everything he was doing in other ways, but nothing would cover all the bases as well as he did. Khachi could probably keep back the physical and mental effects of the blight, but he couldn’t cleanse the mana to let Stella recharge her mana pool. She might be able to make a construct of wizardry to convert the corrupted mana into something she could use. But Nathan suspected that was outside of her current capabilities.
+
+Instead, all of those problems were just dealt with by his antimagic. He could singlehandedly guide an army into the blight in ways that even powerful wizards couldn’t replicate.
+
+Maybe I just counter the blight and that’s all there is to it. I haven’t even used my powers fully, but I think I’ll be able to handle everything this place throws.
+
+He swallowed, damping down the feeling of pride that came from the thought. Overconfidence would kill you the same way a lack of knowledge could, and you'd have less of an excuse. There was a lot about the blight they didn’t know, and no reason to assume that Nathan could beat everything. There was an intelligence of some kind directing everything, and it would keep trying to kill them until it found a strategy that worked.
+
+The next attack came not long after, and was presaged by Sarah pointing upwards. “It’s… a giant rock? But it’s flying, not falling. Coming towards us.”
+
+“A rock? How big?” Aarl asked curiously.
+
+Sarah looked through her rifle, then scanned downwards. “Big. The size of a hill.”
+
+“Is it tracking us?” Nathan said, pointing off at an angle. The Heirs hadn’t stopped moving, and they followed his direction, diverting from their path.
+
+“Yes,” Sarah said. “It's not fast, but we have less than a minute.”
+
+“My light does not harm rock,” Khachi observed, coming to a halt and raising a conjured shield of golden light.
+
+And my antimagic.
+
+“Stella,” Nathan said. “Wizardry? I don’t think we want the newer Insights here.”
+
+She was already spooling up a purple-laced spell, the familiar matrix of the hydrabane spell forming between her palms. It came together in a third of the time it used to, then doubled and quadrupled. She was using the staff and some other casting tools to boost her spellcasting, and weaving the hydrabane spell into a grander whole, much like how a grand fireball was composed of many smaller fireballs detonating at once.
+
+Nathan reached his senses up, finding the rock without difficulty. Or rather, he found the monster behind it. The rock itself was inert, and he could only detect it by how it displaced the miasma-laden air. But the monster behind it was enormous, like a Grave Tangle given flight. It had a long body that carried hundreds of grafted wings, each exerting a force on the ambient magic to keep the ridiculous weight aloft.
+
+Stella released her spell a moment before the rock broke through the cloud cover above. “Shields,” she said simply, summoning multi-layer force spells infused with wizardry in front of them. Khachi followed suit, spreading out divine mana into a solid wall of light in front of them. It was almost enough to block the flash when Stella’s spell collided with the giant rock head-on.
+
+The fire spread out to encompass the entire object like a net hurled around a charging animal. The purple-hued flame burned the stone away like it was a cloud of sawdust. It still hurtled down at them in a conflagration of roiling flame, and there was little that Nathan could do except watch the colored fire fall towards them. He might be able to dodge it, but the flying monster was still guiding itself straight for them.
+
+The rest of the Heirs braced themselves in midair against the collision. Even if the wizardry-enhanced flame burnt through the rock, it wouldn’t be able to completely vaporize the bulky creature behind it. The stone started to crack and break apart under the fire, the stress of heat and magic causing it to shatter into pieces. Khachi had been waiting for that moment, not even giving the rock pieces the chance to fall away before shouting a few quick words. “The light casts you aside!”
+
+He flared with brilliant light that seemed to reach out and seize the monster through the gaps in the rock, diverting its course. The giant undead roared and whipped the tentacles it had been using to hold onto the back of the rock. They burned away in Khachi’s light, along with most of the protruding wings.
+
+The deflection wasn’t enough to cause the creature to miss the Heirs entirely. But the bubble of shields and holy magic around them burnt a long gash along the creature’s flank as it swiped by them, tearing off dozens of the wings that had been supporting it. It tried to pull up, but the combination of the face being burnt off and the lost wings made the giant undead crash into the ground behind them with a sound like a collapsing mountain.
+
+The Heirs looked down to see a field of wreckage as the flesh of the giant creature disintegrated from the violence of the crash. Khachi’s radiance dimmed, allowing dust and darkness to obscure the ground. It was quickly replaced by purple flame that lit the landscape from beneath, though the flames were licked with black.
+
+“We need to move,” Nathan spoke, feeling the faintest brush of heat from the magical fire below. It was spreading unnaturally fast, consuming the enormous corpse and the landscape surrounding it. It made the whole place look a bit like a Christian depiction of hell viewed through an amethyst filter.
+
+The Heirs moved, though they all took at least one look down to see the inferno raging below them. The flames seemed to push back the blight a bit, burning even the corrupted death mana. It was a bit shocking to see a single spell cause so much destruction so rapidly.
+
+That wasn’t even her most powerful spell. Not anymore.
+
+They left the raging fire behind them quickly enough. It was visible for some time, the wizardry-enhanced flames consuming rock and flesh alike as it pushed back the darkness of the blight. Eventually, the blight succeeded in swallowing the fire, and Nathan wondered what was coming for them next.
+
+He was left wondering for some time. Nothing attacked them for several hours, and the only traces Nathan caught of undead were a few furtive creatures keeping an eye on them from a long distance away. The Heirs flew quickly, wanting to make up as much distance as possible in the time they had.
+
+While they moved, Nathan reflected on the nature of his airwalking compared to the more normal flight of his friends. The Talent had been a constant companion of his, and he thought he might have spent more time airborne since he’d gotten the skill than not. He hadn’t touched the ground in over a day, and that felt like a natural development. In this place, the ground was inimical to life, and the sky was a more hospitable place to be.
+
+But it was also true in a larger sense. Nathan had genuinely discarded all of the anxiety he’d once felt at leaving the ground far below. The open sky had become a place of comfort. He felt no more anxiety looking down.
+
+The rank-up came as a surprise, but a welcome one. Nathan had been working on Airwalking ever since Kia had kicked him off the mountain that contained the Seal back in Gemore. It was only fitting that he’d finish that long climb as they approached another Seal. Though this one was in much worse shape.
+
+I’m very glad I didn’t flip the Gemore seal to a different setting to see what it did. That would have been a dumb way to kill everybody I cared about.
+
+“Aarl, I’m in need of an Insight for my rank 10 Airwalking Development. Got anything juicy that Brox told you?” He asked, keeping his voice light.
+
+The swordsman grunted as the rest of the Heirs made congratulatory noises. “Your light blinds me. Another unique Talent at rank 10 for Nathan.”
+
+“It’s the slowest one. My other Talents have already had a couple of unique Developments.”
+
+That comment didn’t make Aarl any less grumpy, but he relented. “Brox told me of a broad movement Insight that seems weighty enough. He described it as a core Insight for movement, but one that is difficult to understand, let alone apply. I used it to develop quick feet into rapid reposition, though it took days of training.”
+
+Nathan nodded, curious and a little bit impatient.
+
+Aarl was warming up to the explanation, enjoying being the one to lecture about an Insight. “The core is to understand that movement is dependent on your sight. You can be passing through a door, or the door can be passing by you.”
+
+“Oh,” Nathan interjected, interrupting Aarl. “It’s about perspective. Movement is relative. So I could either imagine myself moving through the world, or myself as stationary and the world as moving around me, and both are equally valid understandings of things.”
+
+“... yes,” Aarl agreed, a bit annoyed by Nathan jumping ahead. “But it is not enough to simply understand. You must feel that you are stationary, that the world is moving around you. For truest weight, it must seem that both are moving, to create a speed greater than either could move alone.”
+
+“Ah, that makes sense,” Nathan replied. His mind was already far away, trying to wrap his head around the concept. It seemed similar to the core idea of relativity - that the laws of nature are the same in different frames of reference.
+
+All frames of reference are valid. The speed of light is the same for everybody, even if they’re each moving at half the speed of light towards each other from a third person’s viewpoint. In each of their own viewpoints, they’re stationary, and the other person is moving towards them at eighty percent of the speed of light, while the third person is moving towards them at half the speed of light. But a beam of light moves at the same speed for all of them.
+
+He could feel the potential for Development arrive suddenly and stopped in midair, pushing it down and closing his eyes. He understood this concept better than that, and wanted to milk it for all he was worth.
+
+The Heirs stopped just ahead of him, alertness ramping up to maximum. Stella established shields. Sarah probed, “What is it?”
+
+Nathan barely managed to get out a single word. “Development.”
+
+Aarl scoffed, but it was more in annoyance than disbelief.
+
+Nathan had never gone beyond special relativity, but he didn’t need to. Not for this. Most of the tricks of special relativity were about reference frames, and all of the paradoxes caused by the ideas of length and time contraction that nonetheless converged on the idea that there was no “correct” frame of reference. Nathan could be moving through Davrar, or Davrar could be moving past him, and there was no fundamental difference between those two situations. Trying to distinguish between them was meaningless.
+
+Furthermore, a third party that saw them both moving towards each other would think that the speeds were higher than they would look to either Nathan or Davrar. The difference was infinitesimal unless the speeds involved were relativistic, but it was still real.
+
+But the thing that united human intuition and special relativity was acceleration. Perspective was only completely arbitrary when neither viewpoint was actively changing its inertia. The moment somebody changed their velocity, that broke the symmetry. Velocity wasn’t special; acceleration was.
+
+With that thought, he let the Insight go, and could feel his steps become lighter, his motions faster.
+
+Congratulations, you have developed the [Airwalking] Talent into [Skystride]
+
+Talent: [Skystride]
+
+You may spend Stamina to push off the air with any part of your body, gaining more speed than pure physical force would entail. You will also maintain velocity longer than inertia would imply.
+
+He grinned around at the Heirs. “Got it.”
+
+“Congratulations,” Stella replied. “I’m close to the development of Conduit of Mana. Got any tips?”
+
+He bit his lip in thought, “It’ll probably lie in wizardry. I could explain some more of what Badud was doing to enhance his spellcasting capabilities. It let him string together complex spells in an instant.”
+
+She shook her head in resigned amusement. “That was not a true target. This is not the place for discussion of Insights, or Developments,” She gestured at the bleak landscape around them.
+
+Nathan opened his mouth to object. “Davrar rewards risk." But he had been completely focused on his Development for a moment there. If they’d been attacked in that moment, he would have been slow to react. He’d just been so excited about finally developing Airwalking. He dipped his head in acknowledgement. "But it was a risk.”
+
+“Let’s move,” Sarah said, glancing ahead. “We’re close.”
+
+They resumed their forward travel, the complete lack of enemies becoming more disturbing. Nathan glanced over towards Sarah every time she panned around, especially when she focused down her rifle towards their destination. “Anything changed?”
+
+She shook her head. “Still the same city. It seems unmoving.” She quirked a lip. “Dead.”
+
+He nodded, reflecting on the description she’d already given before frowning. “Wait. Did you say that it was surrounded by forest?”
+
+Sarah furrowed her brow. “I did?”
+
+Nathan gestured around them. “I haven’t seen a living plant for days. This land is dead and barren. Any plant that did grow could only be sustained by dark magic. What kind of trees are in that forest?”
+
+Sarah cursed. “Harpy’s tits.” She signalled them to stop so she could look down the barrel, intently focusing. “Those aren’t trees. They’re flesh.”
+
+Talent Airwalking:
+
+This Talent will allow you to use Stamina to push off of air with any part of your body. The greater the force exerted, the greater the Stamina required.
+
+Talent Skystride:
+
+You may spend Stamina to push off the air with any part of your body, gaining more speed than pure physical force would entail. You will also maintain velocity longer than inertia would imply.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 1
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 9
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 9
+
+Veracity 4
+
+Whiplash 2
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Control 9

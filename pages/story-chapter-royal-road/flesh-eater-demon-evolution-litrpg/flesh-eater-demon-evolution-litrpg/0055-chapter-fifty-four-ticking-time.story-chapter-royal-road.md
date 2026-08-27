@@ -1,0 +1,149 @@
+---
+id: faf9eb8a-2b5b-5dcc-8e1a-9bb80c261237
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-Four: Ticking Time"
+slug: 0055-chapter-fifty-four-ticking-time
+partOf: flesh-eater-demon-evolution-litrpg
+position: 55
+ownLength: 2476
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2921684/chapter-fifty-four-ticking-time"
+royalRoadId: "2921684"
+---
+
+Torchlight illuminated the manor hallway, the flickering flames casting long shadows against the walls. Pyre stepped carefully along the soft, carpeted floors. The plush rug made it infinitely easier to move without making a noise.
+
+The rest of the sanctum shift had passed uneventfully. It probably would’ve been even duller than the evening watch from the previous night (considering that at least involved some walking), if not for the nagging sensation that remained present. It hadn’t gone away at all throughout the shift, though it hadn’t gotten stronger either, per se. It was just there, like a constant itch that couldn’t be scratched.
+
+By the time the shift was up, she was no closer to figuring out what the fuck the feeling was. She probably wouldn’t figure it out until she broke into the building itself. Harris, of course, was set on returning to the servant’s quarters with her, so that couldn’t happen tonight.
+
+The key was another story. Once they’d reached the manor proper, it wasn’t hard for Pyre to make an excuse about using the washroom to get away from the other guard. She actually did need to empty out her food pocket, so it wasn’t even a complete lie.
+
+She bid Harris adieu, dumped out the chewed-up food from dinner, then made her way over to the main wing of the building.
+
+The manor looked distinctly different at night. All the brighter, more luxurious decorations became nothing more than shadowy blobs, and the halls were notably silent without servants bustling around. There were a few guard patrols wandering about, but Pyre had glanced at the schedule earlier and had a decent idea of when they’d be where. Between that and her [Darkvision] and [Vibration Sense] traits, she was able to make her way through the corridors without running into anyone else.
+
+First, Pyre passed by the gallery just to check if anything was different about it. It was still locked. It would’ve been both very funny and very convenient if someone had accidentally left it open, but alas, some things weren’t meant to be.
+
+She peered up at the runes, making sure she hadn’t totally fucked up in relaying them to Callan. They looked how she remembered, so she was going to operate on the assumption that there weren’t any random ward runes she’d forgotten to show the ghost.
+
+With that out of the way, Pyre turned the corner to make her way towards her main destination: the office. The only two people Pyre could see having access to all the keys in this place were the head butler, John, and Lord Bellhein himself. Considering how paranoid the latter seemed, she was almost positive he wouldn’t trust the gallery key with anyone but himself. That meant his office was the first place on her list to check.
+
+It didn’t take long to reach the room. There were noticeably less windows down this hall, so it was even darker than the rest of the manor. Pyre slowed her steps just in case there were any squeaky floorboards hidden below the carpet. The guard patrols should all be in other wings of the building right now, but it didn’t hurt to be careful. Callan would be so proud if he could see her, she thought amusedly.
+
+Finally, the demon came to a stop in front of her destination. She raised a hand and pressed it against the closed office door, growing an ear in the center of her palm to hear for anything inside. From what she could tell, it was dead silent. She reabsorbed the ear and squinted down at the doorknob.
+
+Carefully, she placed her hand on it and twisted. To her surprise, the door was unlocked.
+
+Pyre’s eyebrows rose. Huh. That felt distinctly off considering how paranoid Lord Bellhein seemed. She pressed her ear against the door again, and nope, there was still nobody inside. Even her thermal vision didn’t catch any signs of warmth. The demon opened the door a crack. Still nothing.
+
+Fuck it. Pyre swung open the door and shut it behind her. Maybe Lord Bellhein didn’t care as much about his office, or maybe he’d forgotten to lock it tonight. Or maybe there was some super secret spell protecting the place. Either way, she wasn’t going to waste time standing outside debating what to do. If this was some kind of a trap, it was still in her best interest to get in and out as fast as possible. She’d deal with the consequences later.
+
+The moment the door clicked shut, the demon’s eyes swept across the room. It was, indeed, empty. Silver moonlight streamed in through the window. It was open just a crack, and the curtains billowed slightly in the night breeze.
+
+The desk and bookshelves looked the same as yesterday, save for a few papers that had been moved around and a wooden bucket of water placed near the door. Pyre strode forward and began yanking open the drawers, moving as quickly as she could get away with while also staying quiet.
+
+Nothing. The demon moved onto the closet, which turned out to be filled with old guard uniforms, cleaning supplies, and some boxes of even older books that apparently weren’t good enough to make it to the shelves. It looked like the closet was primarily for the servants to use. There were no keys anywhere that Pyre could see.
+
+She checked the bookshelves, pressing her hands against the spines in case there was a random secret compartment somewhere. It was looking increasingly like the key wasn’t here, though.
+
+After searching through the shelves, Pyre did another sweep of the place in case she’d missed anything, but once again she came up empty. The key wasn’t here.
+
+It figured it wouldn’t be that easy. The demon straightened and shut the drawer she’d been rummaging through. Maybe Lord Bellhein kept the keys in his bedroom. She hadn’t actually seen said room, but she did know what wing it was in. That would be her next stop to search.
+
+Pyre turned towards the door, ready to leave, when a sharp pain suddenly burst from her chest. She cursed and grabbed at the spot, hunching over as waves and waves of a burning sensation coursed through her. It felt like Tivona’s lightning all over again—all of it emanating from one specific location.
+
+Through the cloud of pain, the demon felt the vibrations in the floor shift.
+
+Someone was walking towards the office.
+
+Gritting her teeth, Pyre heaved herself over to the open closet, stumbled in, and swung the door shut, still clutching her chest with one hand.
+
+A second later, the office door swung open.
+
+Through the thin slit in the closet door, Pyre could make out a certain familiar butler stepping inside with a washcloth in hand. If she wasn’t still dealing with the lingering pain in her chest and trying to hide, she would’ve laughed. Of course the Bellhein’s head butler had decided to clean the office at ass o’clock at night. That explained the bucket and the fact that the door had been unlocked—John had probably just stepped away for a moment to grab the cloth.
+
+As if to confirm her theory, the man promptly dipped the washcloth into the bucket of water and began wiping down the shelves, face as stern and focused as ever. The one positive was that he didn’t seem to have noticed her, hidden away in the closet as she was, and was completely absorbed in his task. She was, however, effectively stuck here until he left.
+
+Slowly, Pyre removed her hand from her chest. That sharp pain had faded after the initial burst, softening into a persistent dull ache. She felt distinctly more sluggish than before, and she didn’t need to check to know that the curse mark had probably moved again.
+
+Inside the main office, John dipped the cloth into the bucket again and moved on to wiping down the desk—the last of his tasks, most likely.
+
+It occurred to Pyre that the butler could very well open the closet once he was done to store the bucket. There were a few cleaning supplies in here, after all. The demon cursed internally and began moving further back, careful not to make a noise. If she could get behind the old uniforms, it would probably be dark enough for her to stay hidden.
+
+If it wasn’t, well, she didn’t think it’d be that hard to kill and devour John. Explaining his disappearance would be much more difficult, so for both of their sakes, it was best that the butler didn’t notice her.
+
+Pyre’s back hit the wall of the closet just as she heard the splash of the washcloth getting wrung out. She shifted a few of the uniforms around as extra insurance, then settled in to wait.
+
+A few seconds later, the closet door creaked open. The demon couldn’t see much with all the uniforms hanging in front of her, but she could hear a light thud as John placed the now-empty bucket down. She waited, silent, as the man adjusted the position of some of the brooms. The rustling sound echoed in the confined space.
+
+After another few minutes had passed, the closet door finally clicked shut. It was soon followed by the sound of the office door swinging open and closed.
+
+Pyre waited until she could no longer feel the tremor of footsteps in the vicinity. Through her thermal vision eye, the room was colored in cool gradients—no reds or living beings in sight. John was gone.
+
+Alone in the room, Pyre yanked open her uniform and peered down at her chest. Sure enough, the inky black lines of the curse mark had extended further out, nearly reaching her collarbones. She poked at them, but there was no textural difference between the lines and the rest of her flesh. It was just a dark splotch marking down the curse’s constant, creeping progress.
+
+The demon buttoned her shirt up again and rose.
+
+Time was ticking.
+
+Compared to the first time the mark had moved, the lingering weariness had increased enough that Pyre could actually feel it in her day-to-day movements. Her whole body was just a little heavier, a little more sluggish. It wasn’t bad enough to seriously hamper her or anything, but it was noticeable. Visible, too.
+
+At least, that was what Daphne seemed to think.
+
+“Are you okay?”
+
+Pyre glanced towards the table. She’d waited outside Daphne’s door again that morning, though this time the noble had been significantly less surprised to see her. She’d opened the door looking positively cheery, only pausing and frowning when she actually laid eyes on the demon. She hadn’t said the reason for the reaction, though, so Pyre had just stayed silent as she escorted the human to the dining hall for breakfast.
+
+Now, halfway through her meal, Daphne had finally decided to say what was bothering her.
+
+Pyre raised an eyebrow, casually shifting her weight where she currently stood by the table. “Fine and dandy. Why?”
+
+The noble’s frown deepened. “You look tired,” she said bluntly. Her eyes were narrowed in suspicion.
+
+Pyre paused at that. When she’d glanced at her reflection that morning—mostly to make sure that her horns hadn’t sprouted up and she wasn’t randomly melting somewhere—she’d thought she looked the same as usual. Her face certainly looked the same. She literally sculpted it to make sure of that.
+
+Daphne seemed to sense her unspoken question, because she elaborated.
+
+“You’re moving differently,” she explained. She stabbed her fork into a piece of some kind of orange melon. “It’s not super noticeable or anything, but you’re walking more carefully than before.”
+
+Damn. Pyre whistled internally. She’d underestimated how observant the human was. She was being more cautious, mostly to make sure there weren’t any secret curse side effects she was missing. No one else had noticed it, though, not even the ever finicky John. The butler had simply greeted her with the same stern scowl that morning, giving no indication that he knew she’d been in the office the previous night. She’d counted it as a win.
+
+Apparently, John wasn’t the one she should’ve been worried about.
+
+The demon shrugged. “I didn’t sleep well last night,” she said. She kept her voice casual and lax.
+
+Daphne hummed, but she didn’t look convinced. “Is your bed not comfortable? You didn’t seem to have a problem that first night,” she pointed out.
+
+The noble was more persistent than Pyre had expected. She gave Daphne a long look, mentally debating the best way to go about this. She could probably give a few more excuses about sleeping poorly until the noble relented, but the suspicion would never really go away. Daphne already seemed convinced that she was hiding something, after all.
+
+A new idea popped into her head. She did have an excuse readily available, one that might even garner some sympathy.
+
+The demon attempted to mimic a defeated sigh—or at least to look like she was relenting.
+
+“Okay, you got me. Some of my ichor-poisoning symptoms got worse. It’s not a big deal. I’ll be fine tomorrow.”
+
+Bringing up her (supposed) ichor-poisoning successfully grabbed the noble’s attention. Daphne’s eyes widened, and she jumped up from her seat.
+
+“You should rest,” she insisted. “Take a break today.”
+
+Pyre raised an eyebrow. “I think John would kill me if I took my second official day off,” she drawled. Daphne huffed and rolled her eyes.
+
+“He doesn’t have to find out about it.”
+
+“The guy practically haunts the manor. He’s gonna know in five seconds if I’m in the servant’s wing before nighttime.”
+
+Daphne frowned, considering this. She looked like she wanted to argue, but apparently the head butler had quite the reputation for being everywhere all the time. Nice to confirm that her biggest obstacle in finding the key was going to be “avoiding John.”
+
+Pyre thought the human had finally given up, but after a few more moments of silence, Daphne suddenly straightened.
+
+“I’m feeling sick today,” she announced. “I think I’d like to spend the rest of the day in my bedroom.” Brown eyes darted deliberately over to the demon. “Seeing as it’s your duty to protect me, I expect you’ll accompany me to my quarters.”
+
+Pyre barked out a laugh. “A little on the nose, don’t you think?”
+
+Daphne looked smug. “I don’t hear a no,” she said. She raised a hand primly, but it was clear from the mischievous glint in her eyes that she was playing it up on purpose. “Now then, Sir Pyre, would you please escort me to my chambers?”
+
+The demon snorted, but she stepped forward and grabbed Daphne’s extended hand. She promptly dipped down in an overexaggerated bow that made the noble laugh out loud.
+
+“But of course, my lady,” Pyre joked.

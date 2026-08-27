@@ -1,0 +1,211 @@
+---
+id: 83cd58ba-6e72-56c9-97a6-402e03ddecc4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 479: Devastation Knight"
+slug: 0517-chapter-479-devastation-knight
+partOf: dungeon-of-knowledge-complete
+position: 517
+ownLength: 3557
+unit: words
+ownProgress: 3557
+publishedAt: 2025-12-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2858877/chapter-479-devastation-knight"
+royalRoadId: "2858877"
+markedReadAt: "2026-06-29T20:29:47.736Z"
+---
+
+Malika waited for Mato’s transformation, watching the bear step out into the center of the shimmering rune circle and vanish. She didn’t even let the swirling vortices of mana subside before she followed. As her feet reached the center of the circle, the long-range teleportation magic took hold of her, yanking her body immediately elsewhere. Her awareness was stretched, as if resisting the pull of the formation. Still, the power of the teleportation magic was inexorable, and but a fraction of an instant later, her awareness recoiled, snapping back into her body in its new location, leaving her energy vibrating within her like water slammed into a teacup with altogether too much force.
+
+She knew what to expect, and yet the glacial cold slammed into her like a wall, and she involuntarily shivered. Soul Armor’s magical damage reduction rendered her practically immune to all but the most unreasonable environmental damage, but that didn’t mean she couldn’t feel it. The cold invaded with remorseless purpose, reaching her core and chilling her very bones in seconds.
+
+Rezan would probably have loved this. Something to focus the mind, no doubt.
+
+“This way,” Calen said. “Ali is already inside setting up.”
+
+She glanced around at the walls of the dimly lit cavern, finding only ice and the occasional frozen rock. The athletic, fair form of Calen slipped through a jagged crack into the outside world. Malika waited for Mato to transform again, his dire bear form far too large to fit through the crack, and then she followed him out into the arctic cold beyond.
+
+Calen led the way along an almost invisible path toward a sheer cliff of ice and rock, ignoring the lake and the pair of wheeling frost dragons fighting far overhead. But to her surprise, he didn’t stop, simply walking through the ice wall and vanishing.
+
+Illusion?
+
+It was not as if she was blind – Soul Sight still revealed Calen’s energy somewhere within, but her mundane vision was utterly fooled. Mato stepped in, and she studied his energy as it was transported through the illusion in fascination before she too stepped into the wall. Despite knowing it was an illusion, she still almost flinched as her face passed through the ice, the illusion so complete that she felt a tingle and the pressure of the cold passing through her before she suddenly found herself standing beside Mato and Calen in a dark and surprisingly large tunnel hewn from solid ice.
+
+She followed Calen for a few minutes and then, rounding a corner, she saw it. Filling the dark tunnel was a wall of mana, like an enormous wave about to break down upon them, yet somehow frozen in place, as if waiting for the opportune moment to strike. The dense black cloud shifted and swirled, filling her with an uneasy anxiety that settled within her bones, but it was shot through with sparks of brilliant white and waves of deep blue that emanated a cold that even at this distance overpowered the icy environment, seeping in through her pores.
+
+“Dungeon?”
+
+“Yes, this is our target,” Calen said.
+
+The Crypt of Kings. Somehow, incredibly, Calen had tracked down the Blind Lich’s lair, and she was about to set foot in it. I just hope he’s not home.
+
+“It’s the first triple-affinity dungeon I’ve seen,” Calen added. “Death is the strongest, but it has lightning and ice too.”
+
+“Only makes it more exciting,” Mato growled, shifting his head back and forth as he softly sniffed at the darkness.
+
+Malika nodded slowly, biting her lip. They had stepped into mortal danger before, but somehow, the stakes felt higher. This was his lair, a place where evil had bred for untold aeons. This was their only chance to strike down an immortal foe.
+
+Settle down, Malika. Focus.
+
+She focused for a moment on the warmth of Infinite Perception that condensed within her eyes, augmenting Soul Sight. A fleeting sensation of approval reminded her of Rezan Jin, and she paused, surprised, not entirely certain if it originated from her memories or her recently acquired Ancestral Memory of him. Infinite Perception was not exactly a cheap reservation; however, her mentor had never approved of laziness, and her powerful eye magic had most certainly saved her and her friends more times than she liked to admit.
+
+Getting used to her new Ancestral Memories would take some time, but she was just glad she had the connection. Right now, however, she had a lethally dangerous, high-level dungeon to explore. With a renewed sense of purpose and all her perception skills vigilant, she stepped into the wall of mana, shuddering at the sense of death and cold permeating her body.
+
+She was about to ask Calen how much further, when she saw the familiar form of Ali’s energy up ahead, surrounded by the unusual spiderweb network of mana connections to her nearby minions, and a few moments later, she found herself stepping out onto a black stone road surrounded by the strange architecture of the ancient night elves.
+
+“Hi, guys,” Ali said, her voice hushed.
+
+“You ready, Ali?” Calen asked.
+
+“Yup.”
+
+“So, this is the Lich’s hideout?” Malika asked, studying the deserted street and the strangely clean, empty-looking buildings all around. A city without even the slightest bit of dust or litter, contriving somehow to feel more ominous than one filled with thugs and monsters.
+
+“I’m almost certain,” Calen said. “And the Well of Eternity is here.”
+
+“Let’s find the Phylactery and put an end to that stupid Lich once and for all,” Mato said. As usual, he looked ready to go without much obvious consideration for the consequences.
+
+“I think we should be careful,” Malika said. “We don’t want to alert him to our presence. What if he’s here?” That, at least, got a worried look from the eager Beastkin.
+
+“I’m reasonably certain he’s with his undead army at Southport,” Calen said. “At least, Lyeneru had several reports of him being sighted.”
+
+“Those might be fear-dreams from the defenders,” Malika noted. “Wouldn’t it have fallen already if he were present?”
+
+Calen nodded soberly.
+
+“I have studied his dungeon artifacts,” Ali said. “He doesn’t have any dungeon perception skills built into it, so he can’t see what’s going on in the dungeon until we disrupt the domain itself and kill the final boss. I’m pretty certain we’re safe – as safe as we can be, from him.”
+
+Safe… They were about to take on the most dangerous dungeon they had ever seen, and Ali thought they were safe. But Malika knew what she meant – Nevyn Eld was a vastly more dangerous foe than any dungeon. Ancient malice, high intelligence and overwhelming power made for a horrific trifecta of qualities; it made him nigh unbeatable. She trusted Ali’s analysis of the dungeon artifact, but still, a thread of anxiety refused to let go of her. They were, after all, sneaking into the Lich’s domain and about to steal his stuff. Street Rat, she thought wryly, but, if the Phylactery was actually hidden here, like Mato so casually suggested, they really might have a chance to end the war once and for all.
+
+“This way,” Calen said, leading their group off into the strangely tilted city of black stone.
+
+Malika kept her eyes peeled, studying the silent, deserted streets, but it was her broad awareness of her surroundings through Soul Sight that she focused on the most. Her vision, enhanced by her eye-magic, had a range as far as she could see – which wasn’t particularly far in this city of curving streets and tall buildings. But Soul Sight, even with its limited range, could see through walls, and would likely be the first warning they had of any enemies.
+
+Provided it isn’t some blood-magic monster without stamina, she thought. Not that she had ever seen anything like that before, but she didn’t want to rule it out. Tol’brekk had become a blood-magic undead Death Knight, and that had been bizarre enough to confuse her energy perception already.
+
+They turned the corner, and she picked up the familiar intricate mana intensity of active runework.
+
+“What’s that…” she began.
+
+“Don’t step on the…” Calen said, at precisely the same time.
+
+Crack!
+
+Lightning magic flashed through the street as Mato’s paw came down heavily on the runic formation, and in an instant, two dark, shrouded forms materialized like coalescing smoke in their midst.
+
+The first Death Knight drew a heavy, black greatsword inscribed with glacial-blue glowing runes. Worn full-plate armor was scarred with the wear of countless conflicts. Piercing blue light shone from sunken eye sockets, drilling into her with icy cruelty.
+
+The second Death Knight was a foot taller and broader across the shoulders. Scales could still be seen on the skin of its withered face. Its heavy, darksteel gauntleted fists grasped a battle-scythe inscribed with runes of inky blackness.
+
+A specialized Death Knight variant? The twin auras of despair smashed into her, rebounding off her wall of Clarity, but most of Ali’s minions instantly began cowering, and even Mato, with his high wisdom, looked uncharacteristically hesitant, trembling beside her.
+
+“Invaders.”
+
+“Kill them all.”
+
+The sepulchral hiss of the ancient undead sounded like the tearing of dry parchment echoing off into the distance. Skeletal hands rose from the stone pavement at the sound of their voices, clutching and grasping, while an aura of frost began to spread outward from the ice Death Knight, freezing feet and stone alike.
+
+“Move,” Calen snapped.
+
+Malika launched herself into action, stepping above the grasping, bony hands and their swirling inky-black mana, charging forward into the fray. As she darted across the craven, cowering minions, she pulsed Healing Mantra, overhealing herself in rapid short pulses and sweeping the burst of area healing across as many of Ali’s minions and her friends as she could reach.
+
+A ripple of readiness pulsed through their forces as Clarity settled in, and everyone recovered their wits, their minds buffered now against the leeching auras of fear.
+
+She sensed the two pairs of eyes boring into her, one of pure blackness, and the other of intense, icy-blue cold. Mana flared within the two Death Knights, and she instinctively dodged. Some profane work of intense black magic shot past her shoulder, while a bolt of ice barely missed her legs.
+
+Mato’s charge was announced by a loud roar, his battle-ready confidence completely restored. His massive bulk slammed into the pair of Death Knights, pushing both back several feet to the unnerving sound of metal screeching upon stone.
+
+She reached the greater undead monsters with Mato, ahead of all the others, and she unleashed the first form her father had taught her, one Rezan had helped her to perfect. Punches flickered with the magic of her Soul Strike, her energy blasting through the black armor of the scaled Devastation Knight and even piercing the icy plates of the Death Knight behind it. She struck upward with an elbow, deflecting the accelerated, curving strike of the battle-scythe, noting the shape and formation of the stamina energy that had powered it.
+
+Ali’s minions arrived, Kir’mogan and the other Bone Warriors rushing in with their bone weapons flying despite the grasping, creeping chill. Tol’brekk and another Berserker landed heavily, crashing down from above, and immediately triggered their Blood Vortices, axes swirling with blades of blood. The energy of Mato’s Swipe rippled through his massive body, as a familiar formation of stamina culminated in his great bear-claws and swiped across the two Death Knights, trailing streamers of dangerous void magic.
+
+An instant pulse of spiky black mana burst forth from the death-affinity Devastation Knight, blasting through the entire melee group.
+
+You have been cursed with Damage Reflection.You are condemned to endure the pain inflicted upon others returned to you with interest. 430% of the Physical damage you deal is reflected back to you as Death.Curse – Duration: 2 minutes.
+
+Her mind still processing the notification, Malika had no time to pull her punches. The practiced forms unfolded with unconscious precision and speed, her blows landing as she released her soul magic into the Death Knights. Several rapid gut-punches smashed into her body with the chilling edge of death damage. While her Soul Armor and resistance did mitigate the damage, she was still doubled over in shock at the sheer magnitude of the backlash.
+
+The Carnage Berserkers were not so lucky. The sheer speed and power of their greataxes spinning about within their Blood Vortex was so great that the curse simply vaporized them instantly, axes and armor clattering to the ground amid the gruesome raining chunks of their remains. Several of Ali’s minions – kobold rogues and the strange spider demons – also died instantly.
+
+Ali yelped loudly in the background.
+
+Fuck!
+
+“Curse! Get the curse!” Malika yelled, while a dry, rasping cackle of laughter from the Devastation Knight cut across the battlefield. She had zero thoughts of attacking, simply dodging the flying rune sword, bolts of death, and ice, while she scrambled about in desperate urgency, dancing rapidly among the minions trying to heal the remnants of their instantly decimated melee group.
+
+“Retreat,” Calen said, his calm steadiness carrying clearly over the din of battle.
+
+Smart choice, Malika thought, as the sheer magnitude of the devastation began to catch up with her. Half of their melee forces were dead in an instant, and most of the rest were struggling with the skeletal grasping hands. Normally, they would be using Free Action totems, but the Blood Shamans stood like statues, frozen by the creeping spell of the ice Death Knight. Running might be the painful choice, but Calen’s strength was in not losing his cool and making decent choices under pressure or surprise. She trusted him implicitly, certain that his choice would be obvious in hindsight.
+
+“Pay attention, Malika. What do you see?”
+
+The memory of Rezan’s voice echoed through her mind, coupled with the remembered weight of his fists as he punctuated his words with a characteristic, brutally practical demonstration.
+
+Before the might of the Devastation Knight, she saw Mato stumble, blood pouring from grievous wounds. He appeared stunned and shaken.
+
+At precisely that moment, she witnessed the powerful surge of stamina bursting up through the gaunt, desiccated Devastation Knight. She saw the attack. Instantly, she understood it. A devastating Cleave, empowered with several support skills and at least one powerful combat mastery with that battle scythe that would reap Mato’s life, and probably the rest of Ali’s trolls along the way.
+
+She teleported. As she stepped between spaces, she pulsed stamina into her eyes and stepped out into the path of the great scythe. She raised her arm in a block as her eyes burned with the power of Martial Disruption. Her energy shimmered in the air between her and the Devastation Knight, rippling outward as a palpable gaze and crossing the distance between them in an instant. It burst through the powerful undead, impacting the almost complete energy formation at the instant it would be unleashed, shredding it. The battle scythe swung, but the ominous black runes guttered, flickering out as her eye-magic ripped the guts out of the attack. The heavy weapon slammed into her block with barely enough force to draw blood.
+
+“Run!” she urged, slapping Mato on the shoulder and draining a substantial amount of her stamina into Healing Mantra. In an instant, his wounds knit shut, and the spraying arterial blood subsided, and Mato began to withdraw. She shadowed him, ducking and dodging around as she batted a hail of ice bolts and death magic spells to the sides, allowing Mato enough room to conduct a running retreat even while the Death Knights pressed their advantage.
+
+Thanks for your wisdom, Elder, she thought, ruefully recalling the bruises that had accompanied the dispensing of said wisdom. She did not know exactly how her Ancestral Memories worked, but she was determined to show her gratitude for whatever benefits they may provide. If it were not for Rezan’s discipline, she would likely not have kept reserving the mana required to maintain Infinite Perception, and she would not have been ready and able to read and disrupt that attack.
+
+It was only when they crossed the line of Ali’s remaining minions that the pressure of the attacks abated, and she and Mato sprinted toward the exit.
+
+Not the start we wanted, but we’ll be back, stronger and wiser.
+
+She had, of course, seen the curse being cast, but, in the chaotic storm of ice and death magic being blasted about by the two Death Knights, Ali had missed its significance. She shouldn’t have – with her potent knowledge skills, understanding of magic, and the incredible mana perception she had via Arcane Insight – but she had. She had been too focused on trying to break Joraa out of the grips of the ice aura at the time. It didn’t help that the damage reflection curse’s range limited its targets to the melee, and hence she hadn’t seen the effects until it was too late.
+
+The sight of her most powerful melee monsters turned into puree and strewn across the black stone pavement in pieces, shredded by the sudden power of the retaliatory backlash, had shocked her to the core. Tol’brekk was a juggernaut of power in her army, and yet even the giant Carnage Berserkers with their enormous health had been felled in less time than it took to blink. They had both been pouring health into fueling their Blood Vortex skill at the time, accelerating the power and speed of their giant, spinning greataxes, and dozens of simultaneous strikes had been reflected back to them, multiplied many times over. To add insult to injury, the death of her minions had somehow healed the Death Knight back to full health with a skill that seemed reminiscent of Nevyn Eld’s horrifying Sacrifice.
+
+“Being forced to run from trash mobs is just embarrassing,” Mato said, kicking broodily at a frozen rock in the tunnel where they had finally shaken the pursuing Death Knights. To be fair, Ali agreed with him – they were all well beyond platinum-ranked, and yet they had been forced to run from non-empowered monsters – nothing more than a low-level patrol for the Crypt of Kings.
+
+“You’re the one who walked into the trap,” Malika said, a little annoyance seeping into her voice. “You can see mana, right?”
+
+“I didn’t realize it was a trap,” Mato said, morosely.
+
+“And how did you get so hurt by the curse? Don’t you have Survival Instinct?” Malika said, frustration and annoyance finally bubbling over, no longer held back.
+
+“It was confusing,” Mato said.
+
+“Confusing?”
+
+“My instincts told me I was going to hurt myself,” he said. “I didn’t understand what it was trying to tell me.”
+
+That sort of makes sense, Ali thought. Given the nature of the curse, it even said it was reflecting damage, so the source might be perceived as self-inflicted to a skill like Mato’s Survival Instinct.
+
+“You nearly died,” Malika said.
+
+“Yes,” he said, pausing for a moment to meet her eyes. “Thank you for saving me.”
+
+Malika sighed, the frustration visibly dissipating as her shoulders relaxed and she grimaced. “You’re welcome. Sorry.”
+
+“Yeah. Me too.”
+
+Ali’s attention was diverted from the two of them by the sight of a shimmer of mana down the tunnel, and Calen appeared as if from the shadows, running toward them in complete silence.
+
+“They’re still there, guarding the street,” he said. “We can’t get past without fighting them.”
+
+“We’re definitely going to go kill them, right?” Mato said.
+
+“They’re very dangerous,” Malika answered. “I’m not sure we should.”
+
+“I think we can do it,” Ali said, for once agreeing with Mato over Malika’s cautious advice. But, for her, the reasons were probably a little different – if they couldn’t defeat these Death Knights, they wouldn’t be able to push further into the Crypt of Kings, and she needed the Well of Eternity to save Lira. “I need to see it once or twice more, but I can learn to Disrupt that curse.”
+
+“Are you sure, Ali?” Malika asked.
+
+“Yes. It’s an advanced, high-level spell, but it doesn’t seem unreasonably complex. If you guys can hold your attacks, I can make some witch doctors to remove the curses until I learn to counter them.”
+
+“Well, that should make it much safer,” Calen said. “Can you guys stop in time?”
+
+“Yes,” Mato said. “Now that I know what it feels like.”
+
+“Same,” Malika answered. “But we need a solution for Ali’s minions, too.”
+
+“I’ll just keep the berserkers and rogues back until I can stop it,” Ali said, deciding that it was still worth resummoning them. She could send in the blood shamans because their skills were more focused on support than damage, and they wouldn’t risk killing themselves instantly. She could probably control her minions sufficiently to avoid them killing themselves, but she would rather keep all her focus to learn the counter to the curse. With that decided, she flipped open her Grimoire and began to resummon her minion army – this time focusing on having more witch doctors for decursing, and a little more holy damage by adding a kobold holy mage and a Sacred Ooze.
+
+She grimaced. This is going to be a little tricky.
+
+-------------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

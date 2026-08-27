@@ -1,0 +1,117 @@
+---
+id: 2c599fc3-88bc-5fd5-b2fd-109934621949
+page-type-slug: story-chapter-royal-road
+title: "Chapter 343: Spirit Library Runes (Part 1)"
+slug: 0380-chapter-343-spirit-library-runes-part-1
+partOf: dungeon-of-knowledge-complete
+position: 380
+ownLength: 1906
+unit: words
+ownProgress: 1906
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2509382/chapter-343-spirit-library-runes-part-1"
+royalRoadId: "2509382"
+markedReadAt: "2026-06-29T20:23:29.885Z"
+---
+
+“What the fuck do you mean, dead?” Jax yelled, his face red as he strode back and forth in front of his desk, visibly struggling to keep a lid on his fury and rage.
+
+Kieran sat calmly on the guest chair in his so-called boss’s office, simply watching as his report worked its way through Jax’s emotions. It had been a fantastic plan, in his opinion, and when Jax had proposed it, he had wholeheartedly agreed, organizing the details personally. He had arranged the private auction for the shrine artifact in exchange for their dungeon extermination job, and he had accepted the Heroes of the Crimson Blade’s prompt bid.
+
+“How in the name of all that is holy did that Fae runt eliminate an entire platinum group? She’s nowhere near that strong,” Jax said, his voice barely below a yell as he rounded on Kieran. “How?”
+
+“I don’t know,” Kieran admitted. Jax was certainly not devout, nor did he respect much – not even those holy entities he was invoking – but his perception was correct. The ‘runt,’ Aliandra, had clearly become much stronger than they had calculated. He understood why Jax was pissed off – the value of the shrine artifact required to secure the Heroes of the Crimson Blade was enough to bankrupt most companies, and it was already gone. Not much in Myrin’s Keep could interest the Shadow Council, but that shrine had been squarely in that tiny set.
+
+“They entered the dungeon, and then all those dirty Elven refugees poured out like a tidal wave of scum. And then, nothing.”
+
+Everything had quietly gone back to normal, and while he was unable to verify what exactly had happened because nobody had witnessed the actual fight, what he did know was that Aliandra had cleared the library and then faced the Heroes of the Crimson Blade by herself. After that, there had been no sign of the royal exterminators. He had waited more than long enough, but the dungeon’s mana was still obviously present, which meant, as inconceivable as it seemed, that the premier dungeon group in all the kingdoms had failed.
+
+Perhaps I should forgive Tala for dying, then, he thought, a grimace showing briefly on his face. If Aliandra had been able to kill a group of five platinum adventurers – who, by all accounts, exceeded level one-fifty – then Tala probably never stood a chance of assassinating her. Although it still annoyed him immensely – his pet assassin had been extraordinarily convenient.
+
+“What are you going to do about this?” Jax demanded.
+
+As usual for Jax, failure was always the responsibility of others. By now, Kieran was quite used to it, and he had prepared for this moment thoroughly.
+
+“Have you had time to consider my proposal?” Kieran asked, keeping his voice calm and relaxed.
+
+“You want to take matters into your own hands?” Jax asked, finally coming down to a more reasonable level of rage. “You do remember why you don’t normally get involved, right?”
+
+“I do, but the circumstances are getting out of control,” Kieran answered. As usual, if he or Jax personally intervened, a lot of their deniability evaporated, and they risked Southport sending a group to investigate. But the group had already come, and it had been wiped out, so in this case it was unlikely they would send anyone else. Most likely, it would take time for them to investigate and discuss the risk, before which he intended to have a lid on the situation in Myrin’s Keep.
+
+But if a platinum-ranked adventurer group could not wipe out the infernally frustrating dungeon in a direct conflict, he would need to move against softer targets, progressively eliminating the support structures first, and only then could he target the guild itself. Once he dismantled Aliandra’s support structure, it would be easy to find a way of picking her off.
+
+“Very well, take care of it in whatever way you want,” Jax finally said. “But I won’t tolerate any more failures.”
+
+“Thank you,” he answered, allowing a small smile to cross his face. He knew exactly who his first target would be. Myrin’s Keep was in for a wave of terror which would make them clamor at his door for the protection of the Town Watch.
+
+I might even get a promotion out of this.
+
+“What is she doing?”
+
+“I think she’s sleeping.”
+
+“Is she allowed to do that?”
+
+Ali groaned as the voices dragged her out of her unfortunately brief rest. She glanced about in confusion at the white stone walls of the small room before her situation reasserted itself in a crash of memories.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 1
+
+The familiar pain slammed into Ali’s mind, a rude and violent reminder that she was not at home in her beautiful dungeon. Ugh, I never miss this.
+
+“I think she’s waking up!”
+
+Why can’t they leave me alone for even one moment?
+
+Cael and Gage, her continuous unwanted companions in this strange realm, had not left her alone for even a single moment. After escaping the culmination of the strange high-elevation game of Kings and Emperors through the magically appearing Gate, she had found herself in a small chamber and had simply curled up in the corner and passed out. In her defense, she had had an extraordinarily long and trying day, fighting platinum-ranked adventurers, and then being whisked off to a hostile dungeon filled with deadly space and arcane magic puzzles. She had earned some rest.
+
+She wanted nothing so much as to simply ignore the brothers, but when she had last tried that, they had become so panicked and paranoid that she had worried they would dismantle the floor and send her plunging to her death, just to hear her scream. Still, so far, the brothers seemed to have some strange sense of honor or responsibility to keeping a reasonable set of rules, and not simply taking the easy way out to killing her.
+
+She tested her injured ankle on the ground and immediately hissed at the lance of pain that shot up from her leg. It would be a long time before she could use it properly.
+
+And then Gage said something that completely floored her.
+
+“Um… I’m sorry we laughed at you,” Gage said, his voice contrite and remorseful. “It wasn’t very kind.”
+
+An apology? And it was Gage, not Cael, the one who was most rabid about having her die. He was the one who was remorseful for lack of kindness? She sat, stunned and speechless, for quite a while as she searched through his words and tone, but she could find no hint of insincerity. He truly seemed to mean what he had just said.
+
+“Uh, thank you,” Ali said, not finding it within her to ignore the apology. “What is next?” Near the end of the crazy board game, Calen and Malika had shared that they were struggling to find her and were going to get help. Ali would have to play along for a little longer, at least until she figured out how to escape this place. Slowly, she sat up and examined the room, but it was entirely empty, an active Gate showing the empty air where the game had been played. On the other side of the room, a plain corridor led off to somewhere else.
+
+“Follow the path and find out,” Gage said, sounding relieved.
+
+Another deception? One thing’s for certain, I can’t take anything either of them says at face value, anymore. If nothing else, it’s self-defense.
+
+Ali got to her feet and slowly followed the strangely curving corridor, idly running her fingertips along the smooth polished surface of the walls as she limped along. The entire thing seemed to be created out of a single enormous chunk of stone, no blemishes or seams visible to her senses, and through it all ran a thrumming powerful current of mana, visible only because her mana sight had not been denied to her by the strange magical suppression that pervaded this entire dungeon, all the while in the background her Sage of Learning continued to prickle, drawing quietly from her mana as it worked to unravel the mysteries of this place.
+
+As she walked, she spent two of her free points on vitality, and one more on dexterity and endurance – boosting her physical capabilities again. She had a strong feeling she was going to need whatever she could get. With her remaining points, she spent five each on perception and wisdom, and the last six on intelligence. It was a bit of a compromise, shoring up her immediate weakness with a moderate investment, hoping she didn’t come to regret it later.
+
+“Can you tell me about the next puzzle?” Ali asked. She assumed it would be a puzzle, and she had yet to see an actual monster in this place – she didn’t count the strange drones that moved things or the crystal trees. It was by far the most bizarre dungeon she had ever heard of – and she was familiar with the idea of dungeons that preferred traps or puzzles over monsters.
+
+“Sure,” Cael’s disembodied voice answered, echoing strangely in the corridors. “Are you familiar with rune magic?”
+
+“I have dabbled a little,” Ali answered carefully. It wouldn’t hurt to hide her proficiency, perhaps they would make the puzzle less tricky.
+
+“Well, the puzzle involves connecting runes to create a working formation.”
+
+“I can’t write any runes in here,” Ali asked, wondering how the puzzle would work if she had no magic.
+
+“Don’t worry, runes will appear for you to use,” he answered.
+
+“Um, there’s a time limit too,” Gage said, his voice sounding strangely apologetic. “And, well… you die if you fail.”
+
+“Ok,” Ali said. It wasn’t that surprising that there was a potentially fatal catch – that seemed to be the brothers’ theme. But something felt rather off to her – both of them were being way too nice to her – and after the last two puzzles, the change in attitude was setting alarm bells off in her mind. Did something happen while I was sleeping? She half expected to find some trap or danger that they were hiding along the way, but it never materialized, and Ali found herself walking out of the corridor into a large open space.
+
+She stopped, staring out into the giant space, her mouth falling open, but no words came to her. She had come out high above the floor, walking on a typically transparent layer of arcane barrier magic. But below her was a familiar giant atrium, and surrounding her on all sides were towering bookshelves that rose up, layer after layer, fading out of sight into the darkness above.
+
+The Grand Library Arcana!
+
+It was full of books.
+
+“Impressive, isn’t it?” Cael asked.
+
+Ali just stared. She was in the ancient library, but as it was as it had been when she was a student here. Everything was present, all the books, shelves, desks, and tables, all in pristine-looking condition, only gray and washed out due to the nature of the spirit realm. Occasional images moved about, vanishing as soon as they appeared, echoes, the ancient memories of the people who had worked and studied within these grand walls.
+
+How? Why? Could I use this… somehow?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

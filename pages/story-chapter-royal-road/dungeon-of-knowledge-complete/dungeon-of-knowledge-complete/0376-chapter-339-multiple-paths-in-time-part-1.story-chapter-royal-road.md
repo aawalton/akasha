@@ -1,0 +1,157 @@
+---
+id: 646e8f7a-0ad1-549b-8cc6-a12a37a18e27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 339: Multiple Paths in Time (Part 1)"
+slug: 0376-chapter-339-multiple-paths-in-time-part-1
+partOf: dungeon-of-knowledge-complete
+position: 376
+ownLength: 2560
+unit: words
+ownProgress: 2560
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2499432/chapter-339-multiple-paths-in-time-part-1"
+royalRoadId: "2499432"
+markedReadAt: "2026-06-29T20:23:21.371Z"
+---
+
+Ali tuned the brothers out while they continued to bicker, considering her situation carefully while she waited. Her two captors were most certainly eccentric, and Gage at least would be rather gratified to have her serve up dead. As soon as Gage began to suspect her of being interested in their story, both of them had clammed up. Try as she might, she hadn’t been able to coax them into revealing more details, neither about the maze nor their history with Nevyn Eld.
+
+Could this be another time stasis event? Ali considered the question. She knew so little about her mother’s signature magic, but it had saved her neck on multiple occasions. Is this actual time travel? Or is that even possible? No time for that. Her lips quirked briefly at the pun. Escape now. Philosophical conundrums later.
+
+She was still trapped here without any magic, but she had figured out this puzzle quickly enough. Now, it was a simple matter of exploring all the islands to find the runic circles and activating them on subsequent iterations so that she could leave. So simple. Nothing to it. So… where’s the catch? Shortly after learning her metal imprint, Ali had taken the time to restore the broken and rusted railings in the Grand Library so that the yawning depth of the atrium didn’t feel quite so terrifying. Here, there were no railings – and she didn’t have her barrier to save her if she fell. That can’t possibly be all there is to it, right?
+
+As soon as the spirit realm echo flickered, transporting her back to the beginning platform, she headed out again, following her previous echo closely. On the first island, she immediately deviated from the previous path, heading directly to the disorienting portal, where she dropped herself headfirst through the magic circle, popping out the other side, facing the right way up. She smiled, happy to have figured out a less queasy way to use the space magic spell. Quickly, she headed over to the barrier circle and activated it, sitting down to wait out the timer while Gage’s whining grew more and more petulant.
+
+“So, you really did figure it out,” Cael said brightly. “Now we can have some real fun!” Unlike his brother, Cael seemed genuinely excited by her progress.
+
+“Yes,” Ali said, deciding to see if she could entice him to talk a little more. “This puzzle was interesting, but it seems pretty straightforward once you see it.”
+
+“Don’t worry, the next one will be much more interesting,” Cael answered.
+
+So, there is a next one, she thought. She had, perhaps irrationally, been holding out hope that once she walked across that final bridge to the Gate, she would be allowed to leave this strange place. He did say there were ten puzzles. The last remnants of her hope for an easy resolution unraveled as the depressing reality settled in. She was going to be here for quite some time.
+
+Wait, how long? She had a hard limit to worry about – if there were ten puzzles that took this long, she was going to be racking up domain withdrawal in this dungeon. She shuddered at the memory. Still, she couldn’t let the brothers know she was in a hurry. Malika, please find me quickly.
+
+“Cael, why is your brother so grumpy?” Ali asked, trying a different tack. “It seems he doesn’t like having fun.” The differences between the two brothers were stark, and she was certain that without Cael, Gage would probably be trying to kill her at every turn.
+
+If I can turn them against each other… She didn’t know exactly how, but if she had to ally with either of them it would have to be Cael. Gage seemed like a lost cause – she had been worried he would turn off the barriers while she walked on them, but Cael seemed to be able to keep him in check.
+
+“Yes, he’s always been like that,” Cael answered.
+
+“Cael, why are you being mean to me?” Gage answered, his voice filled with the shock of betrayal, so much so that Ali actually felt guilty for calling out their differences.
+
+But they trapped me here, she thought, hardening her heart to the more deranged and scarier brother’s plight.
+
+The world around her flickered again, and she found herself once more atop the starting platform. As she headed out to the stairs yet again, she found herself running beside the two self-echoes from the previous two iterations. She took a glance at the winding path of island stepping stones connecting the starting platform and the final gate, deciding there must be at least five barriers to be found.
+
+She descended the stairs again and stepped onto the rising barrier platform as it reached the bottom of the staircase and began the descent to the island below.
+
+“Cael is this an arcane elemental?” she asked, pointing down at the strange inverted glowing pyramid visible through the transparent golden barrier beneath her feet.
+
+“Indeed, it is,” Cael said. “That is one of Gage’s creatures. Very useful for projecting barriers.”
+
+“Cael!” Gage interjected. “Stop telling her stuff, I don’t trust her.”
+
+“Don’t worry brother, there is no harm. What could she possibly do?” Cael said.
+
+What can I do? Ali thought. Honestly, she was not sure she really could do anything without her magic. She really was at their mercy.
+
+“Do you have creatures, too?” she asked, trying to keep Cael talking, and hopefully learn something useful.
+
+“I can make space elementals that can teleport,” he answered, seeming happy to share his abilities. “You’ll see them later.”
+
+“If you make it that far,” Gage added, sullenly.
+
+Space elementals? Ali clamped down on any visible reaction, certain the brothers could see her face even if she couldn’t see them. What could I do with one of those? Even if she couldn’t find a source of space-affinity mana for her domain, just studying them would likely be at least as beneficial as the runic formations of the Gate she had managed to memorize so far.
+
+Heart beating with out of place excitement, Ali quickly followed the familiar path to the portal and dropped herself to the second island below, keeping her eyes scanning every direction, but she had run to the edge of her explored area and everything beyond was new. The second island was smaller, with only one arcane tree, and even the crystal outgrowths were smaller. She quickly exhausted the entire area without finding another runic circle.
+
+Maybe that’s everything on this side? She glanced upward seeing the two barriers she had solved so far hovering suspended between the islands above, glowing a brilliant gold against the gray of the sky. She studied the unexplored island spiral that headed to the left of the starting point, having already decided that some portion of the remaining barrier controls must be in that section, when Cael suddenly spoke again.
+
+“There are more islands below,” he said.
+
+“Cael!” Gage yelled; his voice filled with anger.
+
+Is it working? Ali wasn’t quite certain, but it sounded like Cael had just tried to help her, and it was driving Gage mad. The bigger the wedge she drove between the two of them, the more likely she would be able to find a way to turn them against each other. “Thank you, Cael,” Ali said in her sweetest voice, and then she walked over to the edge of the island and peered down. Right below her, less than five meters away, another island hovered. A tiny island with a single runic portal visible on the featureless white stone surface.
+
+Gage made some incoherent half-words that sounded more like furious grumbling than speech.
+
+Ali picked up a broken crystal fragment and hefted it in her hand considering the normally insurmountable problem of a five-meter drop onto solid rock. She aimed carefully and dropped the crystal fragment, watching as it fell to the lower island and through the portal etched into the stone surface below. Instantly, it passed through the boundary and shot up out of another, more distant island nearby.
+
+“Seems easy enough,” Ali said. A little too easy perhaps? But if there was something concealed in the magic of the portal, she couldn’t immediately see it.
+
+“Simple, isn’t it?” Cael agreed quickly.
+
+Unfortunately, waiting wasn’t unearthing the answers she needed. Suppressing her nerves and the primal instincts begging her not to do it, Ali mustered her courage and stepped off the edge of her island. She fell. Her stomach lurched up into her throat as her brain screamed that the white stone surface was going to splatter her. But she fell through the portal with only the brief prickle of magic playing across her skin and shot up from the exit on the far island.
+
+Oh shit! Ali realized her mistake instantly.
+
+She hadn’t accounted for gravity and her own momentum. When she dropped the test crystal, she had held it out over empty space and dropped it straight down – but she had jumped out.
+
+There was none of the easy, queasy bobbing up and down from the first portal. Instead, her five-meter plunge to enter the portal caused her to shoot high up above the destination island. She let out a positively embarrassing squeak as she windmilled her arms in a futile effort to adjust her trajectory, her eyes fixed on the shrinking portal below her as she reached her apex.
+
+Her poor stomach lurched again as gravity clutched her body in its claws, dragging her back down. She held her breath to keep from screaming as she accelerated back down to the portal and shot back up on the entrance side, almost reaching the lip of the higher island from which she had jumped. She stretched her arms, but to her dismay, safety was barely a hand’s width beyond her fingertips. She began to fall again.
+
+But the drift was problematic.
+
+“Having trouble?” Gage inquired, letting out a peal of unkind laughter.
+
+She ignored him, waving her arms to try and redirect her unpowered flight, but as her body fell, she knew she wasn’t making a difference. She landed hard on the unforgiving white stone surface beside the portal ring, her ankle making a sickening crunch as it twisted painfully beneath her body. Her body ran cold with the shock of pain, and she heard herself screaming to a chorus of maniacal laughter.
+
+Wait… Through the haze of pain, she suddenly realized that it was Cael who was laughing.
+
+“Gage, did you see that?” Cael gloated. “That was fun! Let’s do it again!”
+
+“Yes! That was awesome,” Gage crowed. “Did you hear her squeak?”
+
+Ali clenched her teeth, biting down on her anger and embarrassment. Slowly she rolled over and clambered to her feet. He played me. And I fell for it. This would be the last time she trusted Cael. His deception suddenly elevated him to the more dangerous brother in her mind.
+
+Gingerly, she put weight on her foot, but her ankle buckled painfully, and she gasped as the blood drained from her face. Shit. Is it broken? I hope the reset reverts this, too. She gritted her teeth and limped across the surface of the remote island, grateful that the golden barrier circle was right there in plain sight.
+
+Accept creation of Barrier Platform Two?
+
+The missing platform, she thought as she sat in the circle to wait out the time till the echo reset, deliberately ignoring Cael’s joyful gloating and pestering and the shameful burning flush in her cheeks that had nothing to do with her ankle.
+
+The realm finally flickered as the echo shifted her back to the starting spot, but as she took her first step, she hissed in pain as her ankle bent painfully, too weak to fully accept her weight.
+
+“Aww, is it sore still?” Cael mocked.
+
+Ali gritted her teeth and ignored his comment and subsequent laughter, this time hobbling off toward the left spiral of islands at the slow pace of a painful limp. When I get out of here…
+
+“Good morning, old crone,” Mato said, letting a smile out as he teased the old cook behind the food cart.
+
+“Aah, it’s the young whippersnapper who tricked me into cooking for an entire guild of starving brats,” Tabitha said, her voice still as scratchy and rough as he remembered, although she seemed to have a little more spark in her, a bounce to her step and the wrinkles of a smile around her eyes.
+
+Cook – Human – level 11 (Fire)
+
+“How’s business?” Mato asked. Something must be going well if she was leveling so quickly, and he was certain he knew what. Sitting outside the guild, dispensing tasty snacks that enhanced vitality would certainly generate an enormous amount of experience for her, and it seemed everyone enjoyed her cooking.
+
+“I can’t complain,” she answered. “Especially when everyone seems to insist on shelling out silver to buy my expensive skewers instead of the much more reasonable chef’s choice stew.” She gave an evil cackle. “Right, boy?”
+
+“I wonder why?” Mato said, filling his voice with sarcasm.
+
+“No idea, I swear,” Tabitha said. “Did you come to sell me some more dragon meat? Or are you here just to keep an old crone company?”
+
+“Actually, I have a favor to ask,” he answered.
+
+“Oh? The big strong boy needs little old me?” Tabitha said, batting her eyelashes at him, clearly not done with teasing.
+
+“I was hoping to teach you a recipe for these?” he said, pulling out a fried ghost mushroom from his storage and offering it to her.
+
+“What is this?” she asked, taking the savory crispy chip, and sniffing at it suspiciously before biting off a small corner. Her face suddenly twisted in surprise and then delight as the taste registered. “This is good!” she exclaimed. “I’m not sure about the spirit realm, or if I can cook something so high level, but I like it.”
+
+“That’s ok,” he said, retrieving a small basket of much lower-level ghost mushrooms. When Malika had come to him explaining that Ali was trapped in the spirit realm, he knew they would need all the help they could get. It hadn’t taken long to organize all the guild groups training in the dungeon to hit every single location Ali had planted ghost mushrooms, harvesting the few that didn’t fade over to the spirit realm every time they spawned.
+
+He would still need to lead his raid group out in the Lyton Ruins dungeon, but while he was out, the guild novices could sell the mushrooms they collected to Tabitha to cook up, and then he could buy them when he got back. Malika and Calen were the only two who could cross the veil into the spirit realm and search for Ali, but he wasn’t about to stand by without doing absolutely everything he could to help find her.
+
+“Let me show you the recipe,” Mato said, stepping behind the food cart to join her at the fire. “It’s really simple but it certainly doesn’t skimp on the flavor.”
+
+“Nor do you skimp on meals, clearly.”
+
+“Hey, adventuring is hard work, let me tell you.”
+
+She cackled again, brandishing a potato peeler, “Slice and dice, I say! Slice and dice!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

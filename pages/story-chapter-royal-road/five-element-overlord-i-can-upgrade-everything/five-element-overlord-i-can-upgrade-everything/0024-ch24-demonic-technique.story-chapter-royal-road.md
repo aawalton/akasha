@@ -1,0 +1,129 @@
+---
+id: 32590b71-8188-5251-bfc4-93b2b251b3cb
+page-type-slug: story-chapter-royal-road
+title: "Ch24 Demonic Technique"
+slug: 0024-ch24-demonic-technique
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 24
+ownLength: 1374
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3224246/ch24-demonic-technique"
+royalRoadId: "3224246"
+---
+
+My eyes widen with a mix of exhilaration and fear.
+
+The first emotion is because my assumption of the system was correct. The lottery draw did not grant me a concealment art because I already had one in my possession. I just didn’t know it yet.
+
+The fear comes from the fact that the word Demon is on its cover.
+
+It has extremely negative connotations in my mind. Even the name of that cultivator’s backing, the Blood Sword Sect… it doesn’t seem very inviting. Nor do the four crimson pills I found beside this technique.
+
+When I examine them in my storage, they give off a dangerous sensation and smell of blood.
+
+Consuming them would certainly be detrimental to me. Yet, when I look at this battered black booklet, the same sensation does not manifest in my heart.
+
+Sure, it feels eerie, but for some reason, my instincts do not reject its existence like it does these blood-red pills.
+
+I open its cover and start to flip through the pages.
+
+Hardly any of the drawings or techniques are fully written. However, I can grasp simple meanings and piece together a partial breathing technique from the first few pages. The further in I flip, the more profound and impossible to comprehend most of the words become.
+
+Eventually, there are parts where entire pages are scribbled over, and large multi-page sections completely ripped out.
+
+I can tell that if I study this booklet long enough, I’ll be able to piece together a partial technique, similar to the aura concealment this Blood Sword Sect member used to hide his presence from me while watching my battle with the stewards.
+
+However, I pull out a bronze upgrade card and place it against the booklet’s front. If I can already grasp portions of the technique in its current state, maybe I can enhance it further.
+
+A flash of white light covers my hands, and I watch the cover of the [Illusory Demon’s Concealment Art] lose its signs of aging.
+
+It fully forms back together, becoming heavier and more sturdy in my grasp.
+
+I flip through its pages once again with widened eyes.
+
+Every missing word has come back into existence, and every scribbled-out section has been restored… There are even diagrams and pictures added to sections to elaborate and give more context than the original text ever did.
+
+Instantly, all of the missing pieces of my mental imagery of this technique are filled in.
+
+Its detailed connection to the soul was never even illustrated so clearly in the old, aged text, and the methods to safely activate, maintain, and deactivate its uses with breathing techniques are explored in far greater detail.
+
+This technique allows a qi refiner to suppress their own aura, to appear as any level they wish below their own, even appearing as a mortal if they desire.
+
+I even flip past the initial stages of this technique and begin to deep dive into a section that was never here in the original text at all.
+
+It is a technique for late stage qi refiners. I can’t tell exactly what it does. It looks like some kind of illusion technique to mimic another's aura, or maybe to create a false illusion of the caster themselves, but the more I try to comprehend it, the more my head starts to ache. The movements and characters used to show its breathing methods are too complex to keep together with my current knowledge.
+
+Before the ringing in my ears gets too bad, I decide to stop trying to read this section and move on.
+
+Yet, when I flip further, I find that many of the later pages in this booklet are still missing.
+
+The ones that are left are frail and aged, just as they were before I used the upgrade card.
+
+At first, I’m confused, and even disappointed…
+
+However, I pick up on a few words that haven’t been covered up or torn away. One page details something about foundation establishment, and the last page of the booklet has a diagram of a golden core.
+
+Both of these pieces of knowledge are from the 2nd and 3rd tiers of cultivation…
+
+My bronze upgrade cards only bring items to the peak of the 1st tier.
+
+I flip back to the first page of this booklet that is now printed with pristine white pages and black ink, and a grin widens on my face ear to ear. This is a far more valuable treasure than anything I’ve found before…
+
+–
+
+“Come on back in!” I yell to Xu Hong.
+
+As she returns, I get up and put my pants and shirt back on, despite them still being damp.
+
+We stand eye to eye in the middle of this hut in silence as the door closes, but I break the tension.
+
+“First of all, I would like to thank you for bringing me to a safe place away from the battlefield.”
+
+She nods, but still stares at me, waiting for more.
+
+“However, I do wish to know what your motives are… not only in helping me, but in sneaking into this sect. It’s not like you meet the usual servant requirements, being over 18 years old, and even a Martial Warrior…”
+
+Both of our gazes tighten, but she lets out her held breath first and turns around to walk to the far side of the hut.
+
+“Does that really matter?”
+
+“It does. Knowing your purpose would allow me to decide if we have a goal in common or not,” I reply in a stern tone.
+
+“A common goal? What’s your goal then?” she mischievously asks, turning around with a grin.
+
+I grit my teeth and rush forward, grabbing her by the neck with the full power of a level 2 qi refiner and lifting her into the air.
+
+“This is serious. No games. I need to know what you’re after, and if you’re going to be a help or a hindrance to me. Don’t make this more difficult than it has to be.”
+
+A tremor of fear pulses through her body and reflects in her eyes. Yet, a resolute stare returns after, and she coughs out through my grip.
+
+“Revenge… I came to this sect to get stronger. For revenge…”
+
+“Good. Now we’re getting somewhere.” I release her, and choked coughs fill the room.
+
+“Revenge against who? Why?”
+
+She grimaces, but stands up and looks me in the eyes again without any restraint.
+
+“You wouldn't know them. They’re a power with karmic ties too strong for me to utter their name and remain unseen. It is a secret that I cannot tell even if I wanted to.”
+
+At this range, my spiritual senses can see every bit of Xu Hong’s body and energy flows.
+
+“I planned on getting the resources I needed, then escaping this sect to become a rogue cultivator. Though, the conditions here are far worse than I thought. At this rate, I’ll be stuck here another decade.”
+
+Despite her not being a qi refiner, I feel an air of sharpness in her presence, but no ill will or deceit directed at me.
+
+I summon the system notification that lingers in the back of my mind and look at her feed one more time, focusing on the section where a person’s most valuable secret is laid bare to me.
+
+[Holds a trace of the Void Era’s Tyrant Bloodline. Upon achieving the 1st level of qi refinement, she will unseal the first layer of her Dormant Innate Physique. Is not as naive as she seems, is playing dumb.]
+
+She is cunning and schemes to get what she wants… similar to me.
+
+The real motive behind saving me was probably because she deemed I have spare resources to help her gain strength.
+
+She is offering herself as a tool, but has too much pride to say it outright.
+
+I let out a sigh and nod.
+
+“Okay. Let’s make a deal… Once higher-ups from the sect arrive for questioning, you say exactly what I tell you to. My goal is to become the next steward of this servant camp. You help me achieve that, and I’ll get you the resources you need to become a 1st level qi refiner in under a month.”

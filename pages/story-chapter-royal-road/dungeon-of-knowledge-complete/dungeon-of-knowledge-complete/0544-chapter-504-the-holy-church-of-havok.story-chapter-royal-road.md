@@ -1,0 +1,297 @@
+---
+id: c98ad10f-4a97-58b3-8f9e-73da64c9e478
+page-type-slug: story-chapter-royal-road
+title: "Chapter 504: The Holy Church of Havok"
+slug: 0544-chapter-504-the-holy-church-of-havok
+partOf: dungeon-of-knowledge-complete
+position: 544
+ownLength: 4488
+unit: words
+ownProgress: 4488
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2935512/chapter-504-the-holy-church-of-havok"
+royalRoadId: "2935512"
+markedReadAt: "2026-06-29T20:30:46.187Z"
+---
+
+Ali felt the weight of their unholy mana the moment they set foot in her domain. The sudden glacial chill of ice, and the decrepit malevolence of undeath; the stench of unwholesomeness, a foul odor and the sharp, visceral tang of fear that permeated even the mana that rolled off them like a miasma. Her domain groaned under the strain of keeping her plants from just withering and dying from their presence. Five of them, and by the time she found them with her senses, they were already halfway across town like deadly arrows of destruction heading for her heart, leaving a wake of exploding buildings and frozen rubble.
+
+“Havok! Death Knights!” Ali yelled. They were already tearing across the main street, almost at the cathedral.
+
+With out-of-place serenity gracing his leathery green face, Havok knelt in the center of the wide-open alabaster floor and bowed his head.
+
+“Havok, we need to run!” she urged. There was no time for praying. The Death Knights would be upon them in mere seconds, and already she could feel the prickle of unnatural fear growing from their auras of despair.
+
+“Oh, Azryet, please accept church!” Havok declared loudly, offering his Prayer. “Miss Aliandra made it good.”
+
+What is he doing? But it was too late. Palpable waves of dread washed over her, no longer powerful enough to incapacitate her, but her knees still trembled with sudden weakness. Ice crystals crackled as they spread across the newly built cathedral’s white stone pillars and floor like an ominous and desolate welcoming carpet that preceded their presence. Plate armor boots crunched loudly as they approached the arched entryways.
+
+They’re here.
+
+Imposing figures darkened the archway, wearing age-stained mithril plate, their eyes blazing through their visors. Dark, hooded cloaks billowed upon an unnatural draught of wind.
+
+The first Devastation Knight, a head taller than the others, turned and fixed her with a piercing gaze that sent shivers down her spine. “Aliandra Amariel,” it said, sepulchral echoes following the deep voice. “Surrender your body for the Master’s glory.”
+
+“Yeah, not happening,” Ali said in a thankfully steady voice, but deep in her heart, she despaired. She had tried everything to avoid the dark reach of Nevyn Eld or the eyes of his underlings, but, in the end, he had come for her anyway and sent an overwhelming force. Even with her enormous resistance and wisdom, she was still struggling, five auras of dread and fear bearing down upon her relentlessly. She readied her teleportation, but hesitated, her eyes flickering to the carefree Goblin, kneeling with his back to the monsters.
+
+A spark of light danced across the crown of his green head, and Ali felt the sudden sharp stabbing daggers of dungeon rage. Before she could even blink, an immense voice filled her mind, grating and ancient.
+
+“My First Paladin is requesting consecration for this temple,” Azryet said. “May I have your permission?”
+
+A thousand thoughts collided in Ali’s mind, but one stood out above all. Consecration of the temple could wait, whatever that meant. The danger was clear and present; they were here to reap their lives. She could teleport away, but Havok possessed no such skill. “The Death Knights are here. I need to save him first!”
+
+Havok lifted his bowed head and turned eyes blazing with radiant holy magic, fixing them upon the Death Knight intruders. He rose to his feet, drawing his sword and shield, and stepped in front of Ali. “Azryet says you leave!” he declared loudly.
+
+“We fear not your puny god, whoever he may be,” the Death Knight said, the voice echoing with icy contempt.
+
+“Havok, what are you doing? We need to run!” Ali began, but the voice of Azryet spoke into her mind again.
+
+“Allow me to help,” he ordered.
+
+“What? How?” Ali said, her eyes still seeking exits.
+
+“A portion of my domain will infuse any ground consecrated to me,” he said. “I just need your permission. And if you would, please adjust your domain.”
+
+“Do it!” Ali gasped. The questions of how or why fled from the urgent need that gripped her heart. Havok looked so small standing between her and the Lich’s undead monsters.
+
+An immense pillar of blazing light appeared, shining down upon Havok, and holy fire burst forth from the little Goblin, swelling to fill the entire cathedral. Sudden pain lanced into Ali’s mind, but she forced it down.
+
+You are on consecrated ground.
+
+The Death Knights hissed as the holy flames licked against their greaves, all five drawing their runed swords and axes in unison.
+
+“You will die for this.”
+
+Ali couldn’t help the thought that popped into her mind: Not much of a threat if you were always coming for my corpse. But although she feared for their lives, her heart clung to the hope that Azryet had planted there. A gong echoed loudly through the Cathedral.
+
+[Zone] First Paladin of Azryet has gained Divine Favor.
+
+You have gained Fear Ward.
+
+Immediately, the Death Knights reacted, raising their swords and lunging forward.
+
+No! Havok! Be careful!
+
+“Heal him!” Ali shouted, as she felt sudden calmness and her return to easy rationality as the Fear Ward settled like a mithril breastplate around her mind. All five Priests of Azryet she had made for the Cathedral flared with holy light as they began casting their spells.
+
+Dense radiant mana erupted from Havok like a dam bursting. He raised a voice that echoed with incongruous lightness and joy throughout the cathedral, ringing with uncanny resonance as if backed by a choir of nearly identical voices.
+
+“Thanks for the damage!” he roared as he sprang forward. He blurred, his armor, shield, and sword suddenly blazing with the intensity of a sun, and in an instant, he reached the Death Knights with his sword slashing and shield smashing.
+
+“Don’t die! I’ll get help!” Ali yelled, and then she vanished, finding a Glitter Dragonet in the guild hall.
+
+“Havok! Death Knights!” When he had heard Miss Aliandra’s shout, Havok’s mind had filled with a sudden, surprising calm. He knew what he must do. The gift she had made for him, and for Azryet, was not yet completed. And so, he bowed his head and asked Azryet to consecrate the new church.
+
+“Consecration requires permission, freely given,” Azryet said, his voice echoing in Havok’s mind.
+
+“What means?” Havok asked.
+
+“Who owns this ground?” Azryet asked.
+
+“Miss Aliandra!” Havok said, happy that he knew the answer.
+
+“That is not what I meant…” Azryet began, but then his voice trailed off. Havok waited patiently, and after a pause, Azryet continued with a note of surprise in his voice, “Now, this is intriguing. I believe you to be correct; this may be sufficient for our purpose. More than sufficient. After all, what is a domain, other than a claim to own ground? I will petition her, then.”
+
+Havok glanced between the rapidly approaching undead and Aliandra. If Azryet needed to talk to her, he would need some time. “Havok tank, protect Aliandra. Death Knights come. Can have extra damage?” Havok asked. He would need lots of damage to protect Aliandra.
+
+Azryet’s voice remained silent, but Havok was undeterred. He rose to his feet and raised his shield, stepping forward to take the hits like he always did. “Azryet says you leave!” he declared.
+
+“We fear not your puny god, whoever he may be,” the Death Knight declared. Havok couldn’t even tell which one had spoken, but it did not matter. Whenever Azryet was ready, he would show them his wrath.
+
+“Havok, what are you doing? We need to run!” Ali shouted, but Havok merely took his stance and glared at the monsters.
+
+Suddenly, his notifications spoke in his mind.
+
+You have consecrated a new church in Azryet’s name.Your actions have greatly increased the reputation of your Patron.
+
+“I am sorry that this meager portion of damage is all I can manage through this conduit,” Azryet said. “I hope it is enough.”
+
+“Azryet, not worry. Azryet has Havok!” Havok answered, waving his sword.
+
+“Indeed,” Azryet rumbled contentedly. “Then, show this chaff the meaning of my wrath!”
+
+A loud gong resonated through Havok’s helm, but it did not hurt his ears.
+
+Your prayer has been answered.[Zone] First Paladin of Azryet has gained Divine Favor.You have gained Azryet’s Divine FavorRequirements: Paladin. Azryet’s divine patronage. Stand upon holy ground.x10 to Health, Stamina, and Mana.x2.5 damage multiplier.Holy Power (Holy damage and spell power are increased by +350%).Stalwart Defender (+250% to block speed and blocked damage).Blessing Aura (Fear Ward) (You project a holy aura that grants your blessing to all allies).Blessing – Duration: 5 minutes.
+
+“Thanks for the damage!” he shouted. Havok did not bother listening to the words that echoed in his mind; he knew Azryet. He charged the Death Knights, activating Holy Shield and Smite simultaneously, trusting in the blessing Azryet had bestowed upon him. Behind him, Aliandra vanished, but she was just going to get help. He grinned at the surge of power that rushed through him as the Holy Avenger sword bit deep into the first Death Knight’s side, leaving a searing gash that flickered with holy fire and sizzled with void. Magic pulsed into his body as the kobolds healed him, and he knew all was right with the world.
+
+After all, what could be more righteous than defending Azryet’s cathedral against the undead?
+
+“Yo, Havok! Leave some of them for us,” Devan called as she charged through the doorway with the speed of a Wind Falcon.
+
+“Havok smite!” he yelled, awash with joy.
+
+He was golden. Everything was just golden!
+
+A second later, Miss Aliandra reappeared, bringing a group of roaring trolls, kobolds, and a dragon.
+
+Havok blocked a heavy greatsword with ease and parried an axe, all the while grinning as all his friends began to arrive.
+
+Ali teleported.
+
+“Death Knights! In the church of Azryet,” she yelled, her words bursting through the crowded guild hall like an empowered fireball. All across the hall, adventurers scrambled into action, like an aftershock of frenzied activity.
+
+A discordant choir of magical skills and spells echoed through the room as people reacted. Ali ignored them as soon as she was certain her message had been understood. The throbbing, ripping pain in the back of her mind surged through her, twisting out of her grasp and all attempts at suppressing it.
+
+She stumbled. What the heck was that?
+
+“Ali? Are you ok?” Malika was beside her, concern written across her face, her healing magic already pulsing to ease her mind.
+
+“I’m fine,” she managed through clenched teeth. “We must help Havok, he is fighting five Death Knights by himself!”
+
+“Ok,” Malika said, and she vanished.
+
+Mere seconds had passed, but her recharge still had a few more to go before she could return, and in the sudden window of forced inaction, her mind finally caught up.
+
+Dungeon rage? Why is there dungeon rage? The pain and the sensations of invading mana were so powerful, it overrode even the twisted unholy presence of the Death Knights themselves, and in those few seconds, Azryet’s words caught up to her.
+
+Consecration…
+
+The dungeon rage screamed incessantly in Ali’s mind, and she reached out and twisted her domain, warping it in the same way she had the first time she had encountered Azryet’s dungeon in the Abyssal Realm. But this time, it was her mana filling the cathedral she warped, and the rage faded immediately. Somehow, Havok’s actions to consecrate the church had opened a window for Azryet’s mana to invade, even across realms. She would need to consider the ramifications of that, but later. Her recharge had just expired.
+
+She chose the same Glitter Dragonet, now hiding behind the dais within the brand-new cathedral, and teleported. As her spell formation appeared, she also reached out and grabbed her five strongest free monsters, grateful that within her domain, her teleportation skill had no range limits. With a lurch, she appeared back within the cathedral, bringing five monsters with her, right as the first of the adventurers burst through the archways and into the fight.
+
+“Kill the undead!” she commanded.
+
+“As you wish, Ancient Mistress,” her holy mage said, already preparing a powerful fireball. From her berserker and scion, she got nothing more than roars of glee and fury as they sprang into action, while ribbon-like beams of blue and red arced out from Kir’vella and Joraa.
+
+“Kir’vella, your highest priority is the damage reflection curse,” Ali said. It wouldn’t do to have her friends killing themselves.
+
+“Yes, yes,” the witch doctor said, performing a surprisingly graceful pirouette as she lashed another Death Knight with her Soul Drain.
+
+“He’s a raid boss?” Calen gasped as he appeared in a flash, flying above the clashing melee.
+
+Only when she heard his incredulity did Ali truly look.
+
+Havok shone with the blinding inner light of holy mana that surged out from the surroundings, filling his body till Ali was certain he would burst. He was larger than normal – substantially larger – and his spells were delivered with a potency she could barely fathom. Dreadful rune-inscribed swords, glowing with undeath and ice, crashed against his holy shield, but he rebuffed them again and again. Even when the giant axe cleaved through his guard, drawing blood from the Goblin’s chest in a dramatic spray of red, she was shocked at how little his health moved.
+
+Ali was astonished to find that Havok was on more than three-quarters health after the ten seconds of her Minion Teleport recharge, but he was alive. Four of her five kobold priests were still alive, healing furiously, and through their Healer’s Sight she beheld something unbelievable.
+
+“How much health does he have?” she asked in shock.
+
+“Havok, are you ok tanking all of them?” Calen asked.
+
+“Azryet help!” Havok shouted back. And then Ali received a notification shared from the Goblin.
+
+Azryet’s Divine FavorRequirements: Paladin. Azryet’s divine patronage. Stand upon holy ground.x10 to Health, Stamina, and Mana.x2.5 damage multiplier.Holy Power (Holy damage and spell power are increased by +350%).Stalwart Defender (+250% to block speed and blocked damage).Blessing Aura (Fear Ward) (You project a holy aura that grants your blessing to all allies).Blessing – Duration: 4 minutes, 45 seconds.
+
+“We have less than five minutes, people!” Calen shouted. “All out, my target. Hold group buffs till I call for it.”
+
+Ali read the buff in astonishment, only now understanding what Calen had said. The torrent of mana coursing through Havok, the size increase, the dramatic power enhancement, and the enormous health pool were all connected. He is a raid boss, she thought, completely amazed. For five minutes, her mind instantly cautioned.
+
+He looks… amazing! Thanks for the damage!
+
+The instant Ali felt her recharge expire, she teleported again, switching places with the mage beside her, using her as a target simply to bring another five monsters from the far reaches of her domain. She had free ice mages in her domain, but they would be a poor choice against the ice affinity Death Knights, so she grabbed a Sacred Ooze, another holy mage, a Fungaloth Ravager, a Hellfire Imp, and an Eye of Agnor.
+
+The impromptu pitched battle was furious and vicious. Every few seconds, aura blasts of ice magic exploded out from the Death Knights, freezing and chilling everything in melee range. The priests, mages, and her witch doctor instantly rushed to dispel the powerful control magic, freeing the trapped adventurers one at a time until Joraa was able to drop a Free Action totem.
+
+Adventurers continued to pour in through the entry arches, coming as fast as they could run, teleport, or fly from the nearby guild, and as soon as there were enough, Calen’s command rang out through the room.
+
+“Bloodlust, all buffs, go!”
+
+A cascade of notifications sounded in her mind, but Ali simply ignored them, focused intently on the fight. A formation of offensive ice magic appeared, and she disrupted it – easily learned given its similarity to Frost Nova, and how frequently the Death Knights were using it, and most importantly, her extensive experience against Haverron and all his minions.
+
+“Two minutes left,” Calen announced calmly. And then the first Death Knight collapsed, a strangely echoing wail fading out as its soul left the prison of its undead body.
+
+Two minutes. At this rate, they were not going to make it. She teleported again, drawing in even the lower-level minions she had left grinding experience at the spawning pools. Every little bit mattered.
+
+Magic howled and exploded through the cathedral, swords whistled, and axes crashed as the entire guild unleashed its power. She could even see Seth’s zombies and skeletons charging into the fray, lit on fire by the holy consecration, and collapsing in waves, only able to do a paltry few seconds of damage, and yet still they came.
+
+“Thirty seconds,” Calen called right as the second Death Knight fell to the ground, crashing in a heap.
+
+Ali urged her minions on, burning more and more of her own mana to increase their damage with Empowered Summoner, but they were already giving everything.
+
+“Ten.”
+
+“Five.”
+
+“Three… Two… One…”
+
+“Please don’t let him die,” Azryet said.
+
+The blinding sun of holy magic empowering Havok faded as his blessing expired. His body shrank back to its normal size, and the glow of his sword and shield dimmed, reverting to its former glory.
+
+But Havok did not flinch; he simply raised his shield to block yet again.
+
+A powerful shout reverberated through the chamber, shimmering through the air with empowered soul magic, and simultaneously, the roar of a bear hammered into the Death Knights, Mato’s bass accompaniment to Sabri’s shout. Hours of practice working together knitted into a seamless transition of tanking. One Death Knight turned, delivering a vast overhead strike that collided with Sabri’s shield. Another Death Knight staggered backward as its glowing rune-axe found Mato’s Critical Block, leaving just a single Death Knight to hammer at Havok’s Holy Shield.
+
+Calen called the strategy change calmly for all to hear, “Tanks switched. Kill Havok’s first.”
+
+Ali released her held breath in relief as the red ribbons of her blood shaman’s Blood Siphon began threading through all three of the tanks, matching the similar green ribbons of Teagan’s nature magic. She shifted her minions to the chosen Death Knight, still burning mana to empower them, while Disrupting every major curse she could, but she could see the outcome. Even though Azryet’s enormous boon had faded, it had tided them through the most dangerous part of the battle, allowing Havok to tank five Death Knights solo while the guild raid assembled. Now that they had separated the monsters, everyone settled into the familiar rhythm of a raid fight, and the Death Knights burned rapidly under the onslaught and the holy flames of the cathedral’s consecration.
+
+“Good work, everyone,” Vivian said, as the last Death Knight collapsed. Cheers rose from the throats of most of the guild. “I want patrols checking for more incursions, and don’t forget to turn in your quest credits – it’s good money and you can improve your gear.”
+
+Ali sank to the floor, ignoring the details as Lyeneru coordinated scouts to check on the perimeter of the town, the adventurers discussing the fight or the rewards in the heady rush of the aftermath. But a few moments later, she glanced up to find Malika standing beside her, concern flickering again in her softly glowing blue eyes.
+
+“Mind if I join you?” Malika asked.
+
+Ali nodded, and Malika sat beside her, folding her legs into her favorite meditation position. They sat together in silence for a while, Ali wrestling with her thoughts and emotions. Havok had stepped up to protect her from the Death Knights without hesitation, and somehow, he had survived. It was thanks mainly to the insane buff Azryet had managed to grant him. Over in the center of the chamber, she could see the little Goblin helping to drag the Death Knight corpses into a pile, along with the remains of the skeletons and zombies Seth had lost to the consecrated flames.
+
+“They came for me,” Ali said finally. There could be no other interpretation: the Death Knight’s words, and the fact that they had known exactly where she was and cut through the town on a direct line to reach her, ignoring everything in their paths. Her cursed title and the many eyes of the eldritch monster upon her meant she was endangering her friends simply by being here.
+
+“You can’t just keep thwarting the plans of a Lich,” Malika said. “Sooner or later, he’s going to notice.”
+
+Ali’s eyes snapped upward at the offhand and surprisingly flippant response.
+
+“It’s not like it changes much,” Malika said, shrugging. “He was always going to be a problem. We must still get stronger to face him or his forces. But, Ali, we just defeated five Death Knights easily, and that’s ignoring the ones we took out in the dungeon – do you remember the first one we faced?”
+
+She did. She remembered it vividly – the chilling terror of being frozen in place by ice and fear as the monstrous undead casually tore through her entire minion army after they had just defeated Alexander Gray. She understood what Malika was getting at – worry would not make it better. They were stronger now. Those fears might still reach out to claw at her present, but she resolved to no longer give them any purchase. I will be stronger. My friends are relying on me.
+
+Still, the knowledge that Nevyn Eld was looking for her, specifically, clawed like icy talons at her heart. “I just wanted time to find the wells, and destroy the phylactery…”
+
+“We have the vial from the Well of Eternity,” Malika said, her voice still calm and relaxed. “We know where the Well of Souls is, and I’m sure we’ll find the phylactery once we figure out that ice dragon.”
+
+“But the Well of Divinity is destroyed,” Ali said, not quite able to shake the dark mood that had her in its grasp.
+
+“We won’t know until we go look,” Malika said. “Maybe something survived – it is an ancient artifact after all.”
+
+“I…” Ali said, but then she paused. Malika’s opinion sounded unreasonably optimistic, and she was certain her friend was simply trying to cheer her up, but it was Malika. She never exaggerated stuff like this for trivial purposes like cheering people up. Being level-headed and cautious was a fundamental part of her very nature. If she said it, she truly believed it. “Thanks, Malika,” she said, deciding she would simply have to trust her friend. It was not like her worries were making her any safer. “Is Mato rubbing off on you?”
+
+Malika shot her a sharp glance but then chuckled, “I guess so. I think we should all level up a lot more, though. We have that in common.”
+
+“Speaking of leveling,” Ali said, and turned her mind inward to the more immediate practicalities.
+
+Your group has defeated Devastation Knight – Undead Dragonkin – level 208-221 (Ice) (x5)Dungeon of Knowledge has reached level 185.+10 attribute points.Arcane Insight has reached level 110 (+2).Barrier has reached level 99.Martial Insight has reached level 114.Empowered Summoner has reached level 94 (+2).Minion Teleport has reached level 62 (+3).
+
+“I got a level for killing death knights?” Ali said.
+
+“Nice,” Malika smiled.
+
+It seemed to be a good one, too. Minion Teleport had passed sixty, which meant she could now transport six additional minions instead of five – something that would make future pitched battles like this one a lot easier.
+
+Ali spent three points each on wisdom and perception and added the remaining four to her intelligence attribute. Then, she rose to her feet and walked over to the pile of Death Knights with Malika accompanying her in companionable silence.
+
+“There’s a straight line of destruction right through the town, from the battlements all the way to this temple,” Lyeneru growled. “The Auction House was destroyed, along with several other important buildings.”
+
+“I was afraid of that,” Aiden said, his frown deepening. “I don’t know how I’m going to keep the anti-dungeon faction quiet now. They’ve been itching for an upset like this, continually petitioning the town council over trivial details. An incursion of Death Knights is going to spark their fury.”
+
+Anti-dungeon faction? Ali had not been aware of anything like that, but she should have guessed. Not everyone would be that enamored with a dungeon filling their town with its mana. Still, it bothered her more than she expected. After all I’ve done to put this town back on its feet?
+
+“The crafters estimate another week to repair the damage,” Lyeneru said.
+
+“That will push back the construction of everything on the high-priority list. People are getting unhappy about living in tents,” Aiden said.
+
+“The buildings will respawn,” Ali said as she reached the pile of Death Knights and began deconstructing them.
+
+“Respawn?”
+
+“Dungeon shenanigans,” Ali said. There were too many people who appreciated her for this anti-dungeon faction to get her down. There couldn’t be that many of them, or she would have heard of it before. “I attached all the completed buildings to my domain; they should all respawn within a couple of hours. It makes renovations and adjustments a little more complicated, but I thought it would be better this way. The battlements, too.”
+
+“Oh,” Aiden said, a surprising amount of relief crossing his face. “Well! That will make my job a lot easier. I can’t wait to see those grumpy faces when the buildings magically reappear.”
+
+“No problem,” Ali said. She didn’t particularly care for the grumpy faces, but Aiden’s happiness made her feel a whole lot better.
+
+She quickly deconstructed all the remaining corpses of the Devastation Knights, but she ignored the armor and equipment, having already added everything to her Grimoire while in the Crypt of Kings. It would be far more useful for the guild to divvy up the equipment among themselves.
+
+She caught a frown on Lyeneru’s face when she deconstructed the last Devastation Knight, and her Grimoire failed to react, presumably the elf deducing that she already had the imprint.
+
+Yes, she could make Death Knights now; something Lyeneru had once been staunchly opposed to. But if Lyeneru did not see that she was trustworthy by now, then that was not her problem anymore – and although she got a look, the powerful Night Elf did not comment.
+
+Ali smiled sweetly in her direction, and to her surprise, got a tired but genuine smile back. Perhaps I don’t give her enough credit. She pursed her lips and then quietly said, “Hey, Lyeneru, you should ask Calen about Mi’ir Valdanis.”
+
+The sudden widening of the normally stoic Pathfinder’s eyes and the speed with which she scrambled to find her apprentice were worth more than gold.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

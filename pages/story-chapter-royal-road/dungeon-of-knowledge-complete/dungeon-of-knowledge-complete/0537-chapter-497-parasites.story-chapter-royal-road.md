@@ -1,0 +1,243 @@
+---
+id: 4b697914-5fc3-5a95-ae6e-e01d15592628
+page-type-slug: story-chapter-royal-road
+title: "Chapter 497: Parasites"
+slug: 0537-chapter-497-parasites
+partOf: dungeon-of-knowledge-complete
+position: 537
+ownLength: 4387
+unit: words
+ownProgress: 4387
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2913851/chapter-497-parasites"
+royalRoadId: "2913851"
+markedReadAt: "2026-06-29T20:30:30.749Z"
+---
+
+The monster could not be. It simply defied reason. It took reality by the throat and impaled it on the fact of its own existence, leaving it broken and whimpering in the corner.
+
+Ali’s Sage of Learning punched her in the stomach with the force of an avalanche behind it. Her mind twisted, sprained by the impossible contradictions it was forced to endure, leaving her stunned and reeling.
+
+Dimly, in the dark recesses of her mind, she realized just how mistaken they had been. Relying on Malika’s buff had become a crutch, leaving them overconfident and vulnerable. As the world exploded into dark tentacles, eldritch eyes, and slavering mouths that oozed out to bite from every available surface, Ali quailed in fear. Terror that knew no reason rose within her as the sheer pressure of the monster’s force of presence dominated her mind.
+
+“Ali!”
+
+Something was screaming in her mind, but the uncanny whispers drowned it out. She struggled against it desperately, but she had no idea who or what she was even fighting. Or why.
+
+“Ali!”
+
+She struggled some more, but she was drowning in the nightmare. Somehow, she clung to that voice, like a lifeline. She did not understand, but she knew she must. Moving at a level barely above instinct, she reached out and grabbed at understanding in the only way she knew how.
+
+Her mind reeled as Sage of Learning continued to surge like waves crashing over her helplessly drowning psyche; a deluge of impossible, forbidden understanding cascaded into her, threatening to wash away her very self, but she clung on, clutching to the sound of that voice, the only semblance of stability in a world of disintegrating reality.
+
+“Ali, come back. I can’t do this by myself.”
+
+Malika.
+
+Slowly, she opened her eyes, her mind still feeling brittle and fragile after the enormity of that assault, dropping her study trance. She lay on the floor in a fetal ball, her barrier glowing brightly around her. The borders of her vision still swam, walls swaying and bending like willow branches in a storm. An enormous battle raged, but Ali couldn’t tell the difference between reality and the nightmare.
+
+But Malika was crouched beside her, looking on with deep concern etched upon her face.
+
+“What… what’s happening?”
+
+“Don’t look at it,” Malika said. “It causes some kind of insanity.”
+
+In the corner of her eye, dark tentacles reached out and lashed at something, and the world suddenly lurched, the whispers rising to a howling crescendo. Immediately, she squeezed her eyes shut, and a few moments later, the insidious voices in her head began to fade, and the world stabilized once again.
+
+Slowly, Ali stood, trying hard not to look. What she could do, though, was see her minions. Half of them were already dead, bodies strewn about like chaff. The other half were locked in a furious battle against each other, and somewhere in the depths of the chaos, a bear roared, and an archer of light darted. All the while, Dark Souls rained lightning down upon everything.
+
+What a disaster.
+
+Frantically, Ali searched through her notifications, desperate for any information. She needed information – without it, she could not act. But nothing in there helped in the slightest.
+
+“What’s causing all this?” she asked, frustration and urgency leaking out in her voice. Something powerful was messing with their minds.
+
+“I don’t know,” Malika said. “But you and I are the only ones who resisted it.”
+
+I’m not sure this counts as resisting, she thought, wincing at the throbbing pain behind her right eye. Still, if there was nothing useful in her notifications, there had to be something she could find. Focusing her mind, she activated Study Trance a second time and went inward with Arcane Insight, searching for anything that might give her a clue.
+
+Malika and I both possess high wisdom, so it must have a profound mind-altering effect. One powerful enough to overcome her Clarity. What did Mieriel say? You can’t defend against mind magic if you don’t know it’s there. She redoubled her efforts, searching for anything, any tell, sight, or abnormality.
+
+Suddenly, she saw it. A faint hint of mana, a twisted shadow of a formation. Something she might never have noticed without her immense investment in perception, Arcane Insight, and countless hours of practice trying to see through all manner of concealment, stealth, and illusions. The moment she saw the first signs, Sage of Learning pulsed with new insight and knowledge began to unfurl almost reluctantly, yielding itself to her intellect. Her chime sounded moments later.
+
+You have been cursed with The Creeping Nightmare.You are plagued by confusion, nightmares, hallucinations, and insanity.Stealth (This curse is hidden from perception and awareness).You are insane, proportional to the count of The Creeping Nightmare.Resistance to mind-altering effects is reduced by 5% (per count).When the count reaches 100, your mind’s defenses are overwhelmed by The Creeping Nightmare, and you become permanently trapped within it, thrall to its caster.Curse – Count: 15
+
+“Malika! It’s a stealth curse!” Ali gasped.
+
+“A what? Can you get rid of it?”
+
+“I’ll try.” Armed with new knowledge and a powerful, desperate urgency, Ali immediately began dismantling the curse on Malika. She glanced about, searching for help, discovering Kir’vella staring at her with strangely alert eyes.
+
+“Does it not affect you?” Ali asked.
+
+“It’s fresh and bracing,” the troll said, giggling as she wiggled her fingers in an obscure gesture.
+
+“Never mind,” Ali said, ignoring yet another quirk from the crazy witch doctor. “Here, help me remove these. This is how to unravel it.” It took a few moments to teach her how to recognize the curse, but with the heightened mental connection to her minion, she was able to get it done in short order.
+
+Then she removed most of the curses from herself and surveyed the battlefield with new clarity in her eyes. What she saw almost made her wish she hadn’t.
+
+“M…Malika, is that thing eating Calen?” A black writhing mass about the size of his head had latched onto the back of the tall half-elf’s neck. Tentacles gripped him around his throat, shoulders, and neck, some even piercing into his back. Several fanged mouths opened, moving as if they were speaking, but without sound.
+
+“I don’t know, but we need to get rid of it, immediately,” Malika said, vanishing and reappearing behind Calen, fists flashing. Calen dodged, drawing his bow to attack her. In seconds, they were engaged in a furious flurry of fists and dodges, so fast Ali could barely track them.
+
+But Ali had eyes only for his curse, a writhing mass of dark formations that preyed upon his mind like a suppurating infection. When she realized his count was already approaching sixty-five, she began frantically dismantling them one by one, struggling as the curse kept trying to grow.
+
+She fought the curse to a standstill for a moment, and then Malika finally outfoxed Calen, reaching out to tear the parasitic monster off his back and neck with hands that pulsated with blue-white mana. The monster’s screech stabbed into her mind like a rusty dagger. Only then did Ali begin to make headway against the curse, but before she could register relief, a second crawling, black mass caught her attention as it lashed out and slithered up onto Mato’s back. Tendrils lashed out, stabbing into his hide while a large mouth appeared and bit down on the side of his neck. It was only then that she saw three others already feasting upon him.
+
+Parasitic Nightmare – Eldritch Monstrosity – level 154-157 (Mind) x4
+
+“Mato’s badly infected!” she shouted. Struggling as she was trying to keep up with Calen’s curse, there was no way she could save Mato, too. Unless…
+
+The fight paused, color fading to gray as her Arcane Recall shifted her into the Spirit Realm. Although she could move, she could somehow sense the presence of the monster and the Well just behind her. Too scared to turn around and take the risk of accidentally meeting its gaze, she hastily manifested her Grimoire and began summoning a witch doctor. The book glowed with her magic, and the unseen searching presence instantly froze in a state of sudden alertness.
+
+Ali’s heart stopped, or would have if it were beating here, and she held her breath, willing her summoning spell to finish faster. Instead, it felt like she was dragging her mana through sticky tar. Out of the corner of her eye, she sensed movement where there should be none. A dark tendril of blackness reached past her, seeking blindly, and in sudden shock, she recognized it. Here in the spirit realm, the monstrous tendrils looked identical to those which had infested Nathaniel Sunstrider when she had first met him in her dungeon. Back when Clarence had saved her from their touch.
+
+But there was no Clarence to help her this time. She closed her eyes, but not before she sensed her curse tick up from the sight of it. Another presence passed her on the other side, still seeking, searching, but she refused to open her eyes.
+
+Then, to her intense relief, her Grimoire surged, completing the summon, and she dropped back into the mortal realm with her new minion.
+
+“Decurse Mato,” she commanded.
+
+As soon as she finished removing Calen’s curse, his mind returned to sanity.
+
+“Ugh, what happened?” he gasped, bending over and retching.
+
+“You got chomped by a parasite,” Ali told him. “Those black things are eating Mato. Shoot them.”
+
+“Oh… shit! What are those things? I had one on me?” Calen yelped, but his bow steadied in his hands and conjured arrows that lit the room as he unleashed his onslaught.
+
+Mato had far more wisdom than Calen, but the parasites were carriers for the curse, and it took both him and Malika to rip them off the Bear’s back before Ali could get his curse down to a manageable level. As soon as she did, he stopped lashing out whenever Malika got close, and she was able to heal him and grant him Clarity.
+
+Arrows of light shot skyward, trailing glowing chains to drag Dark Souls to Mato’s waiting claws, as Calen smoothly transitioned to trying to exert some sort of control over the rest of the disaster, but Ali ignored that chaos, devoting all her attention to freeing her remaining minions from the Creeping Nightmare curse. With so many of them, it was impossible to keep everyone clean, even with the help of her two witch doctors, but as soon as she got the count low enough, her minions were fortunately functional. For her remaining healers, she just turned them to face away from the Well of Eternity.
+
+That’s a start. She bit her lip hard, letting the pain help her concentrate. What’s next?
+
+Finally, with her minions no longer trying their best to kill each other, she could focus on the primary goal. Armed with Clarity and the aura of her Baelok Descrier, she gritted her teeth and turned to face it. She’d never hated Mieriel’s advice as much as she did right now, but there was wisdom in being able to see what was coming.
+
+The monster spilling from the Well of Eternity was truly a thing of nightmares. As her eyes beheld it, Ali’s mind quaked and trembled, even supported by all her buffs and prodigious wisdom. Insidious whispers rose within her, promising impossible powers and insane delights, and the curse immediately ticked up. Then, it ticked up again. And again. It was all she could do to hang onto her sanity. Just from looking at it.
+
+Sprawled up and out of the well, it was a being of twisted darkness. Slimy black tentacles waved in the air, lashing out to deliver pain in all directions. Slavering mouths filled with too many teeth opened and shut at random, spread out all over the shifting surface of its body. Parts of it shifted in and out of existence, warping her perceptions in dangerous ways, and, hovering in the air above it, flew a dozen crimson, glowing eyes, surveying the battle while shooting beams of pure black death magic.
+
+Gulping, she cast Identify – and immediately wished she hadn’t.
+
+B̴͈̟͒ạ̵̾̀̄̚a̷̪͚̙̎ͅo̸̯̞͖̓̌͘h̷̻̃͑͌͠t̵͙̮͂͆̍͜ ̵̤͛͐̇̋Y̷̥̙̎͆̒͝l̶̗͆̀̈́ͅl̵̤͖̼̞̈͆́̿'̵̤̲̟̫̇̐̊̔s̴̘͕̊̈́͑̃h̸̦͚̼͋̐̈́́u̵̱͚͂̃̕u̶̡̙̗̩͑m̷̢̛̟͋̓ [Devourer of Dreams] – Undead Eldritch Monstrosity – level ??? (Death / Mind)
+
+The golden text appeared in her mind with an unearthly screech, a mind-shuddering blend between an unravelling banshee’s wail and bleeding fingernails scraping grooves into a chalkboard. The name shivered and twisted under her gaze as if writhing its way into her mind, and the golden color darkened to festering blackness as the monster’s essence seeped into it from elsewhere. Heart hammering like a stampede of Bristletusk Boars, Ali dismissed it as fast as she was able, breathing heavily only when the pain in her mind began to fade.
+
+Holy shit! She shuddered as her guts tied themselves into knots trying to get away. What the heck was that?
+
+As she stared, a mouth stretched wider, and it vomited up a black mass that hit the floor with a splat. It quivered briefly and then writhed, tentacles slapping the ground wetly before it crawled off into the battle.
+
+Parasitic Nightmare – Eldritch Monstrosity – level 156 (Mind).
+
+“You got this, Ali?” Malika asked.
+
+You have gained Clarity.
+
+“Yes, I think so.” Ali’s mind failed to buckle, even under such enormous pressure. Still, she reminded herself that her curse was building rapidly and quickly began to dismantle the insidious formations while refusing to take her eyes off the monstrosity. She had a job to do, and there was no excuse for missing spells just because it might be difficult. Someone had to keep eyes on the boss, even if the mere act of looking risked insanity.
+
+Another mouth opened, and the domain mana surged. But it surged in a recognizable, familiar pattern. “Summoning,” she called, sharing the spell with the others. The mouth widened, and it vomited out a dark, burning ghost.
+
+That looks like two summoning abilities, she thought. The Dark Soul was definitely a domain-granted skill, but the mind parasites were not. At that moment, a black orb shot up out of the dark well and opened, revealing another eye. Three summoning abilities, she amended, verifying that it too was an eldritch monster. Are those all part of it? Or is it using them like I use my minions?
+
+Domain mana surged again, and this time, all the eyes suddenly turned to face her. A formation she had never seen appeared, etched with barbs of eldritch mana that glowed intensely within the body of Baaoht Yll’shuum. Before she could even yelp, the formation descended upon her like a thousand freezing wet blankets, and the entire world vanished as she was plunged into a nightmare.
+
+The huge dire bear roared his challenge, flecks of froth spraying from his mouth toward the giant double-greataxe-wielding troll so far into his rage that the red mist about him was pulsing with palpable fury.
+
+The axes swung, whistling through the air as they smashed into the flagstones, carving slices through the dense hide of the deranged bear before him. From behind, another troll shot forward, leaving trails of bone spikes in his wake, cutting low and ruthlessly across the giant troll berserker’s hamstrings, eliciting a furious howl and an angry pulse from the red mist of rage.
+
+It was into this chaos of blood and steel that Malika willingly leapt. She shot in from the side, sprinting faster than the twin axes could react, stepping on the haft of one and vaulting over the Holy Avenger that swept upward to meet her. She floated past the troll’s face, taking in the lips curled back to bare clenched teeth in a smile that had nothing to do with joy, the bloodshot, unnaturally wide eyes that echoed the eldritch orbs floating above.
+
+“Come on, Ali, we need this curse gone,” Malika yelled. For a moment, they had stabilized, but more parasites had come, and they’d lost Mato again. “Ali!”
+
+Her foot came down on the blood-slicked fur of Mato’s back, taking all her dexterity and balance just to catch her weight, but she caught herself with a fistful of sticky fur and a pulse from Divine Step. She punched downward, releasing Soul Strike into the writhing tumorous mass of black flesh that was digging tentacles into Mato’s neck. The instant her fist connected with the parasitic monster, a backlash of dark, incomprehensible energy ripped at her health, triggering a nauseating bout of vertigo. She gripped harder as Mato bucked like a warhorse to throw her off, but he was pinned down by the trolls, the ones that were not already insane, and all she had to do was dodge the flying swords and axes.
+
+Right below her hand, the flesh ripped apart, revealing ichor-stained teeth that snapped at her, drawing blood and triggering yet another rush of dizziness as the world lurched. Malika gritted her teeth, shoved her hand deeper into the mouth, grabbing a fistful of slimy flesh and sharp teeth.
+
+“I bet Rezan never thought of this when he counseled investing in strength,” Malika muttered.
+
+As if in response, she saw his enigmatic half smile in her memories and recalled his words: “When the moment comes, the light of understanding will illuminate your path.”
+
+“No. No, you can’t claim you foresaw this shit,” Malika grunted as she yanked hard. Soul Strike flickered and flashed as she unleashed burst after burst into the grotesque writhing mass while it struggled to free itself. Teeth bit down, tentacles thrashed, slapping her with freakishly uncanny strength, but she persevered, tearing the monster bodily from Mato’s back. Tentacles more than three feet long ripped out of his flesh with a stomach-turning wet sucking sound, while the shrieks of the parasite mingled with Mato’s furious roars of pain.
+
+“Got you, you ugly pest!” Malika crowed. “Calen! Heads up!”
+
+With the monster firmly gripped in her fist, she held it up overhead while ducking down, never faltering in the onslaught of Soul Strike blasts she delivered through the nauseating touch. Tentacles squirmed, trying to find purchase through her Soul Armor-reinforced skin. Mouths formed and vanished as the thing struggled to bite her, and then it exploded with a violent detonation of radiant light and flame as Calen’s arrow picked it off right out of her hand.
+
+A dark pool of tar-like sludge suddenly appeared under Mato and the trolls, releasing hissing discharges of toxic necrotic steam.
+
+You have been poisoned.+49 death damage per second.Duration: Area.
+
+“Zone of destruction,” Calen shouted.
+
+“Move, you big lug!” Malika yelled, but Mato was too far gone to be taking any of her advice. Instead, she reached down along his ribs, finding another squishy tentacle embedded in Mato’s flesh. She grabbed it and yanked. She ignored the waves of dizziness and the ground rippling in waves. She ignored the pumping sensation within the tentacle she grasped, focusing her entire attention on tearing it out of the bear and burning it with soul magic.
+
+With a slurping, wet suction and a spray of his blood as the teeth ripped out, she parted the parasite from Mato’s flesh and offered it to the wrath of Calen’s bow.
+
+“Ali! Any time now!” Malika yelled. Even before the monster had been consumed by fire and light, she poured her stamina into healing the bear she rode. A shudder rippled through his body, and he grunted.
+
+“Malika?” His mind-voice sounded weary and confused, but she was just happy he was sane enough to recognize her.
+
+“Move out of the poison zone, Mato,” she told him, a little more gently this time. As soon as he did, his health began to stabilize, and with her Clarity and the furious decursing by Ali’s witch doctors, he seemed to be recovering. She hopped off his back, landed on the ground, and sized up the massive berserker bearing down on them with glowing red eyes, a writhing mass of tentacles on his shoulder, and axes winding up to strike.
+
+This… this is not going to be easy.
+
+Calen raised his bow, risking a glance in the direction of the Well of Eternity. Or more accurately, the air far above it – he wasn’t nearly brave enough to attempt to look at whatever it was that had emerged from the well.
+
+But even the mere sight of the dozen floating red eyes was enough to stagger his mind. Seductive whispers echoed in his ears, shifting suddenly to the terrifying screeches, only to come crawling back with vague offers of rest, relief, and power.
+
+He ignored them as best he could, but knowing they were false did little to help him shut them out, and he finally understood the scrawling of the deranged scribe, sharing the experience of madness from ages past.
+
+Cinderstrike smoked in his hands as he drew the bowstring, firing multiple volleys up at the dreadful eyes glaring down at them. He managed three volleys of fire and light before his arrows ripped through the eyes, leaving explosive detonations every time they struck.
+
+But the instant he hit, the whispers screamed with anger deep within his mind, the sound like claws rending steel. The battlefield vanished as his vision blacked out, and when he came to, he was facing the other way, shooting at Parasitic Nightmares and Dark Souls. Something skewered him with a searing lance of pain, and he whirled about to find two fewer eyes hovering in the air, but most of them were attempting to impale him with their unblinking stares while shooting unerring beams of pure blackness in his direction.
+
+He launched two decoys, ducking sideways as he engaged Eclipse, folding light around him like a shroud and welcoming the invisibility it provided. But the eyes still tracked him, their beams continuing to shoot at his shrouded form, entirely ignoring the illusory decoys he had deployed. He found himself frantically dodging, but when he raised his bow, he found an irresistible compulsion to aim the other way. The parasites grabbed his attention with an unnatural fascination that sent creeping chills down his spine, and the Dark Souls suddenly felt far more important.
+
+Is it still in my mind? Beginning to doubt his sanity once again, he raised his bow, forcing himself to shoot at the eyes. Instantly, the whispers rose to a new crescendo, and his mind blacked out a second time.
+
+It couldn’t have been for more than a second, but once again, when he came around, he was facing away from the eyes, and he found his hands shooting at the parasites.
+
+Reverse Taunt. The realization dawned upon him in a flash of insight. Taunt skills were mind-altering attacks that forced or encouraged enemies to attack the source of the Taunt. Reverse Taunts were far rarer, but not entirely unheard of. They were used to force enemies to attack literally anything else.
+
+And with the Creeping Nightmare curse, my resistance is low.
+
+He teleported through one of his motes, dropping himself right beside Malika.
+
+“I can’t shoot the thing behind us,” he said. “It has a reverse taunt.”
+
+Without a word, she obligingly let out a spherical rippling pulse of healing magic.
+
+You have gained Clarity.
+
+He spun about, aiming at the eyes once more, and again they had shifted to track him, regardless of his illusions, stealth, or teleportation, beams of death blasting down from on high. He returned fire, taking full advantage of Malika’s buff to resist the rising screams and whispers. Despite the pain causing flashes of light behind his eyes, each a stabbing migraine in its own right, he forced himself to push through.
+
+A massive black tentacle lashed out, smashing into the terraced stone steps of the amphitheater and pulverizing rock several feet away and leaving a crater where it had impacted.
+
+It missed? The tentacles were hard to see, shifting in and out of the spirit realm and elsewhere, but he had not needed to dodge this time. He glanced up at the smaller cloud of eyes, his mind calculating the possibilities.
+
+It sees through everything I have, he thought. Then a fierce grin lit his face. But it can’t see if the eyes are dead. He fired volley after volley, filling the sky with explosions.
+
+“Ali’s in trouble!” Malika yelled.
+
+Calen snapped his head around to find Ali slumped over in the middle of a dark cloud. Her eyes were fluttering and her limbs twitching. Every single Parasitic Nightmare suddenly stopped, quivering, and then let out a chorus of squeals and shrieks, and as one, they all charged her.
+
+He reacted, his hands blurring with the speed of desperation. With a single thought and a puff of mana, he traded bows, retrieving The Scourge of Deadly Creep.
+
+The twisted Darkwood branch, infested with spore pods, was heavier than Cinderstrike and far more powerful. A dusting of toxic spores blasted outward as needle-sharp thorns sprang from the wood, piercing his forearm and hands, drawing energy from his body.
+
+But he welcomed it; he needed the power of nature this bow possessed. He drew and fired, arrows conjured and flying in mere fractions of a second. Each arrow trailed clouds of deadly spores that drifted to the ground behind them, to be stirred up by the next volley, and the next in small toxic vortices that scampered around the battlefield like tiny wind sprites. Undead were typically immune to poisons, which was why he had been using Cinderstrike; however, the Parasitic Nightmares were not undead.
+
+Let’s see how you like poison!
+
+The arrows struck true, and to his relief, the sudden abundant growth of Grasping Roots blossomed across the dark amphitheater, arresting the parasites in their tracks. And for the ones that hadn’t procced his bow’s powerful crowd control skill, he unleashed the light chains of his Grappling Shot.
+
+From the spores lying on the ground, small spherical blobs of familiar fungus formed, warping and twisting as they grew larger until they broke off and scampered around.
+
+Oh yes, this thing summons Creep Spores.
+
+But he had no control over his unwittingly summoned monsters, and they simply scattered, blowing themselves up on whatever was nearest. Almost all of which were trapped parasites.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

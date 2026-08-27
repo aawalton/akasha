@@ -1,0 +1,221 @@
+---
+id: 1861fe58-4a9d-587f-8d0c-aaa4a4c94f46
+page-type-slug: story-chapter-royal-road
+title: "50 - The Hollow Body"
+slug: 0050-50-the-hollow-body
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 50
+ownLength: 1912
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3559014/50-the-hollow-body"
+royalRoadId: "3559014"
+---
+
+As soon as we went through the portal, it closed without making a sound. On one hand, that meant that all the harpies that had attacked us earlier wouldn’t be able to follow us through. On the other hand…
+
+“Kaelor…” Talon muttered under his breath.
+
+He wouldn’t be able to get through either.
+
+Outside the floating island before us, the surrounding area was completely black, enveloped in some kind of shadow. Thousands of hands surrounding the island wriggled silently, as though they were welcoming us. Light from above spilled onto the island at the center, yet its illumination had no effect on the surrounding shadow.
+
+Tuna flew us toward the island. As soon as we landed and jumped off, a floating blue lantern lit up beside us. It was the same as the one we had seen back at the inverted city. Another checkpoint.
+
+Suddenly, shadowy hands emerged from below, grabbing onto Tuna’s flippers. She tried to wriggle free, but couldn’t. The hands held her completely still. Why did they only take her instead of the rest of us?
+
+“Tuna!” Reina cried.
+
+She took Dawn Sunderer from me and tried to cut the hands free, but the sword bounced off them. If even a legendary sword of divinity couldn’t pierce those hands, nothing else could.
+
+Talon patted the side of her body. From the way she was meowing, it didn’t look like she was in pain.
+
+“A restriction for the dungeon warden fight,” Meriel said. “The dungeon likely intends for us to fight without a mount, which is why the hands have incapacitated only Tuna.”
+
+Aeris pointed at herself. “What about me?”
+
+“Maybe you don’t count,” Meriel said. “At least not in your humanoid form. It might be safer for you to stay like this for now.”
+
+“She might be an exception,” I said. “She’s a monster from this dungeon, isn’t she? Maybe the rules don’t apply to her.”
+
+“It’s better not to risk it.”
+
+I glanced at Aeris before leaning toward Meriel, whispering,
+
+“Say, how unusual is it to tame a dungeon monster anyway? Did my love potion just do some world-defining feat?”
+
+“It’s been done before, but it isn’t common since most dungeon monsters are just mindless husks. Aeris, however, is a sentient monster.”
+
+“Sentient…?” I asked.
+
+“Dungeon monsters that originally came from the outside world before they were imprisoned in a dungeon,” Meriel explained. “Things like Porcelain Harpies or gargoyles are non-sentient and are mere creations from the dungeon, while Aeris and the Borrowed One are sentient.”
+
+Hearing that, Reina leaned in.
+
+“Allene and I encountered a ghost maid in the manor that was able to speak like we do,” she began. “Does that mean she’s sentient as well?”
+
+Meriel shook her head. “Not necessarily. Speech has nothing to do with whether a dungeon monster is considered sentient. The only thing that matters is whether or not they’re originally from the outside world.”
+
+The image of Aurelius killing her flashed into my mind. She should be able to respawn like the other monsters, right?
+
+But what really stood out to me was that she didn’t understand that she was trapped inside of a dungeon.
+
+I turned to Aeris, wondering if it was the same for her.
+
+“Hey, Aeris?” I called.
+
+“Yes, darling?”
+
+Okay. She has to stop calling me that. But whatever.
+
+“Do you understand what the word ‘dungeon’ means?” I asked.
+
+She shook her head. “What’s that?”
+
+Meriel continued,
+
+“She’s the same as every other sentient monster. One of the main ways dungeons keep sentient monsters imprisoned within is by making them think that the dungeon is their entire world. This ensures they have no desire to break free. If you and I were imprisoned in a dungeon as sentient monsters, we would retain our same personality and appearance, just without the understanding that we were trapped in a dungeon. We’ll also have an innate desire to kill everyone who enters it.”
+
+I put a hand under my chin. “Reina told me that every dungeon revolves around the dungeon warden. So everything we’ve seen so far—the Porcelain Harpies, gargoyles, the inverted island, and the manor—it all depicts Aurelius’ life in some way, right?”
+
+Meriel nodded.
+
+“Then even Aeris…?”
+
+We turned to her.
+
+“Lord Aurelius was my master,” Aeris explained. “However, I love Allene far more than I love him, so none of you should have to worry about me taking his side.”
+
+Thank god the love potion was so potent. I don’t even know if we’d be able to survive being chased by a dragon.
+
+Aeris pointed at the shadowed body at the center of the island we were on. The body had no flesh, no skin, no color. It was faceless and hollow, with chains latched onto several of its limbs.
+
+“That is Aurelius's original form,” she continued, slowly walking toward it. “He abandoned his own flesh long ago, so now his body looks like this. Under normal circumstances, he would be in this very body, but now…”
+
+“Now, he’s taken an angel’s body,” Meriel said. “No warden has ever been able to escape their dungeon before. Not until now. To think that he had the ability to steal someone’s body and use it to leave this dungeon—he could be a far larger threat than we think.”
+
+We surrounded the hollow body. It didn’t move, didn’t breathe, didn’t do anything. It just… existed.
+
+I cast [INSPECT].
+
+…
+
+But nothing came. The body wasn’t even recognized as anything living anymore. It was just a shell.
+
+“How do we escape this dungeon?” Talon asked. “We would have to defeat the dungeon warden, right? But he isn’t even here anymore.”
+
+Reina pointed Dawn Sunderer at the hollow body. “Maybe killing this would be enough.”
+
+“I don’t know,” I said. “Something about this feels off. Can’t you just teleport us out of here, Meriel?”
+
+“If that was possible, I would’ve done so already,” she replied. “Dungeons have rules. Being able to teleport out of them is one of the things all dungeons prohibit. The spell would just explode and kill us all.”
+
+She pointed at the body. “Give your idea a try, Reina. It’s the only solution I can think of.”
+
+Reina nodded, and we all took a step back. She drew back her sword, then stabbed it through the hollow body’s chest.
+
+Now, if any of you are familiar with video games, you should know that this was basically guaranteed to activate something—whether it’s a trap or a boss fight. But here’s the thing: the boss isn’t even here. Not only did the warden already manage to escape, but he’s back in the other part of this dungeon, fighting against Kaelor. So honestly, I didn’t even know what to expect.
+
+The ground below us began to rumble, and the shadowy hands surrounding the island slowly reached toward us. We turned around, realizing that the hands that had kept Tuna chained to the ground were no longer there. She wriggled toward us.
+
+“What’s happening?” Talon asked.
+
+“The dungeon thinks we defeated the warden,” Meriel said, pointing on the opposite end of where we stood. “Look.”
+
+A light emerged at the end of the island, morphing into a portal.
+
+“That’s it?” I said. “I mean, I’m glad, but I was expecting something a bit more than this.”
+
+“Everything must be messed up since the dungeon warden isn’t even here,” Reina said.
+
+Another light appeared just in front of the portal. When it dimmed, it revealed a golden chest.
+
+From how much the island was shaking, it didn’t look like we had much time to idle around. We all ran toward it.
+
+Talon wriggled his fingers with excitement. “So who’s going to do the honors and open it, hm? I’d love to do it myself…”
+
+I pushed him aside, kicking it open. “We don’t have time for that.”
+
+A golden glow spilled from the chest. I reached in and pulled out the item.
+
+“Whoa!” Reina said.
+
+“How beautiful,” Aeris said.
+
+Just as we were told, it was a pair of wings—the final reward for this entire dungeon.
+
+Right when I was about to cast [INSPECT] on it, another bright light appeared just beside us.
+
+It was another portal.
+
+We turned to it, but none of us had the chance to speak before Kaelor shot out from it, skidding across the ground before crashing into Tuna.
+
+“Kaelor!” Talon cried.
+
+He started to run toward him, but stopped as he realized what had happened.
+
+Blood.
+
+There was blood trailing from the portal to where Kaelor had crashed. His side was severely injured.
+
+Meriel sprinted toward him, pulling out her grimoire and healing him without any question.
+
+But it wasn’t just Kaelor coming from that portal.
+
+Aurelius emerged from that same portal, stepping through completely unscathed. The portal closed behind him. His wings flapped as he took to the skies, looking down on all of us.
+
+“Damn it,” Kaelor said weakly, coughing out blood. “I didn’t think all those monsters would join in on the fight.”
+
+From above, Aurelius pointed his fingers at us, his rings shooting toward us. Despite his injury, Kaelor gathered his mana and used the winds to knock the rings out of their path, stopping them from hitting us.
+
+We all stood in front of Kaelor as Meriel healed him, pointing our weapons at Aurelius.
+
+The angel laughed.
+
+“I’m not here to kill any of you,” he said. “But having a Firstborn’s body may prove to be incredibly useful. This angelic body of mine is already fantastic, but Kaelor… I think yours would grant me strength unlike any other.”
+
+He eyed me, smiling. “And you, Allene. I’d like to have yours as well.”
+
+I frowned. “Me…? There’s no need for that. I’m nothing special.”
+
+“But you are special,” he said. “Because something about your soul is… strange. It’s not like any soul I’ve seen before. It makes me curious about why you’re different from the others.”
+
+I placed the wings I received from the chest on my back, and it latched on perfectly. I flew high into the air, facing Aurelius.
+
+“Leave us alone,” I said, pulling out Moonweaver and pointing it at him.
+
+“I can’t do that,” he said. “You and Kaelor are too valuable to let go.”
+
+Reina climbed Tuna and flew up to me alongside the others, leaving Meriel and Kaelor on the ground.
+
+“Aeris,” Aurelius said, looking at her. “What are you doing on their side?”
+
+“Allene is my new master,” she said, her wings flapping gently. “I don’t want to hurt you, but I can’t let you have Allene. I’m sorry, but this is how things have to be.”
+
+He glanced at me. “What did you do to her?”
+
+“I made her fall in love with me.”
+
+“...Huh?”
+
+With that, Aeris’s entire body glowed brightly. Winds gathered around her as her form grew in size, taking the shape of a dragon.
+
+She roared, the entire dungeon shaking. I flew onto her back, pulling out Dragonrider’s Saddle from my [INVENTORY] and placing it on her.
+
+[ITEM: DRAGONRIDER’S SADDLE]
+
+Effects:
+
+- The dragon becomes easier to control and understand
+
+- Some mana is shared between the rider and dragon
+
+- Gain an instinctive understanding of a dragon’s emotions
+
+- The strength of all effects increases with the mutual trust between rider and dragon
+
+- The above effects only work when the saddle is placed on tamed dragons
+
+Mana surged through my body.
+
+We all charged toward the Borrowed One.

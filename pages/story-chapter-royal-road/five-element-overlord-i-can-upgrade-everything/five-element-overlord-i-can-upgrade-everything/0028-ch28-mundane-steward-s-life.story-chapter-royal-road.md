@@ -1,0 +1,143 @@
+---
+id: 6dd5ec94-b8b1-5c13-952e-fd360707e72c
+page-type-slug: story-chapter-royal-road
+title: "Ch28 Mundane Steward’s Life"
+slug: 0028-ch28-mundane-steward-s-life
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 28
+ownLength: 1693
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3249694/ch28-mundane-stewards-life"
+royalRoadId: "3249694"
+---
+
+I follow the map I was given by Gu Shan and head to the dropoff route.
+
+It is over 6 kilometers in a new direction in these woods I haven’t traveled, both away from the Stewards Quarters and the ravine.
+
+Once I’m 500 or so meters within range, the air around this dropoff point grows hot.
+
+There are no trees in sight, and the ground is blackened and charred.
+
+I stop in front of a heavy black iron gate and see a few fellow stewards lining up in front of me and behind.
+
+Once about ten of us show up, the gate slowly opens, and another old steward greets us.
+
+He is a level 3 qi refiner, with no notable secrets, at the old age of 77.
+
+With a smile, he takes the storage pouch of the first steward in line, nods, then hands it back to him within half a minute.
+
+Every steward in line does exactly the same thing.
+
+My gaze wanders as the small crowd slowly moves forward.
+
+I see three enormous fire pits in the distance. They have large custom-built metal contraptions over them, letting out thick smoke that smells like burning wood.
+
+Yet, there is a 4th pit that is not burning wood at the moment. I see a group of child servants shoveling out perfectly shaped charcoal blocks and wheeling them away in metal bins.
+
+It appears this is a large operation for turning the trees chopped into charcoal. My mind spins, trying to think if this is sold to the Alchemy Peak nearby or possibly the Forging Peak much further away. However, I don’t come to a solid conclusion by the time I hand in my pouch.
+
+The old steward nods and hands my pouch back to me.
+
+There is no longer any wood inside, but there are 84 spirit fragments present, and a small receipt and reference number confirming that my 42 stacks of wood collected are added to my ledger.
+
+I walk away, back to the Stewards Quarters, now that the sky is dark and the middle of the night is nearing.
+
+Instead of going straight back to my cave, I stop by the bathhouse.
+
+There are a dozen private stalls for relieving yourself and cleaning up, using quite high-quality soap. It is almost as good as the bars I have used in my previous life. In Donghe Village in this world, everyone was far too poor to afford goods like these.
+
+Past these stalls are two wide open areas, split into sections for men and women, but the men’s area is almost three times larger.
+
+A bubbling hot spring is built into the foundation of this structure.
+
+It doesn't appear to be natural. There are fluctuations of qi coming from its bottom, and an unnaturally hot source of heat purifying the water.
+
+A few stewards relax as mist fills the room like a sauna, and a few chatter back and forth.
+
+It’s quite late, so there is plenty of free room for me to sit alone, close my eyes, and relax with the water up to my neck.
+
+There is a natural flowing current of qi in the pool, making it even more comfortable.
+
+–
+
+I have the best night of sleep since arriving at this sect once I return to my cave.
+
+My morning routine is almost identical to what it was yesterday: collecting two upgrade cards at the crack of dawn, cultivating with a perfected qi pill, heading to the dining hall for food, then returning to cultivate in my cave with a second until the sun starts to set.
+
+A long walk down the dirt path follows, collecting wood from servants one by one. Many are grateful for the new payout system. They will actually get paid a higher amount if they chop more wood, not just a set figure that punishes overworking like before.
+
+I collect 48 bins from the first 26 servants.
+
+A few that I thought would be slackers actually finished filling their bins today, but an equal amount did not chop a single tree. I don’t pressure them to change their habits, it doesn’t feel like it’s worth the hassle right now.
+
+My mind is far more consumed with the last hut that I come across at the end of my route.
+
+The wood bin is full, but there is no one outside.
+
+My heart beats quicker as I approach. I remember clearly how brutal consuming that marrow cleansing pill was, it nearly killed me. It really doesn't matter if she lived or died… but considering the investment I’ve made, and the plans I have that need more than one person to fulfill in the future… I’d much rather if she was alive.
+
+I knock on the front door of her hut and release my spiritual awareness, quickly letting out a sigh of relief.
+
+The purple-haired woman sits on the floor of her hut cultivating. The smell of impurities is still faint in the air, and the white-hot qi I sense flowing through her now pristine cleansed meridians is sharp in my senses.
+
+Her violet eyes stare up at the door as she gets up. “It’s that time already?”
+
+It creaks open, and I nod, pulling out a full spirit stone from my storage.
+
+“Your payment for the wood today.”
+
+When it falls into her hand, her eyes open wide in shock.
+
+“First you give me a heavenly grade pill, and now a full spirit stone before I even hit the first level of qi refinement… who are you really?”
+
+I raise an eyebrow, disregarding her question to pose my own.
+
+“Heavenly grade? What is that?”
+
+She closes her hand and accepts the stone, but tightens her gaze in suspicion.
+
+“Those three golden patterns… I don’t know why they appear, but I recall elders from my homeland calling them that. It is not something a servant should ever get their hands on… nor a steward, or even an outer sect disciple.”
+
+My eyes widen back, but I quickly close them and nod.
+
+“Interesting. I will keep that in mind. Though, who I am still doesn’t matter, just like who you are does not matter to me. This is another secret that must remain between us.”
+
+I look toward the spirit stone in her grasp.
+
+“Cultivate with that. I will provide you with more once it has faded to dust. I want you to reach the first level of qi refinement as fast as possible. There is an important task I’ll need your help with once you do.”
+
+–
+
+Over a week passes by.
+
+Every day I collect wood and pay out spirit fragments, I make double back.
+
+However, I’m actually losing resources quite quickly.
+
+The 3 additional spirit stones I granted Xu Hong this week hardly matter to me.
+
+It is the fact that my pill supply is falling fast. Instead of the usual 2 qi gathering pills per day, I cut down to only 1. It allows me to stack well over a dozen unused upgrade cards, and maintain the dwindling supply of waste pills from Zhou Kang a little longer.
+
+In total, I’ve eaten over ten of these perfected qi gathering pills since my advancement to a 2nd level qi refiner. I feel my dantian filling up, and my spirit roots slowly saturating. I’m starting to feel a small bottleneck at the initial stage of this level. By the time I finish all of the pills in my possession, I may be able to break through to the mid-stage of level 2. Each perfect pill grants me roughly 20 spirit stones’ worth of focused cultivation, and yet my progress is still extremely slow.
+
+Once I run out, I fear progress with the natural qi in the air and spirit stones alone, it would take many long years to even reach the peak of level 2.
+
+Some of the older stewards have the same secret as Zhou Kang on their status. Every few days they make a hike up to the Alchemy Peak to steal from the waste reserves before they’re safely disposed of.
+
+I contemplate asking to tag along, but decide against it. I even decide not to offer to buy the stolen pills off them. If they were aware I knew their secret, it may lead to animosity later on, or an attempted robbery on my mysterious wealth like before. Almost everyone in this camp is old, sour, and bitter. They have all lost hope in their paths of cultivation, and will backstab anyone perceived as an easy target. These aren't the stewards I want to get involved with.
+
+While collecting food rations from the dining hall to grant to my servants, I’m given a small grey pill as my own ration.
+
+It is exactly the same as the many strange grey pills I found in the storage pouches of the stewards before. It is a fasting pill. Eating one will satiate my hunger for weeks at a time, but I decide not to partake, I still enjoy eating my daily meal quite a lot.
+
+My new routine is relaxing, but there is an anxiety eating away at the back of my mind as every day passes and I cannot find any new paths toward progress.
+
+I sit in the artificial hot spring at midnight, letting out a long sigh and a groan as the boiling water calms my nerves.
+
+There are still two side quests I can take on, taking over that stronghold in the ravine, and killing four more spiritual beasts. However, traveling out deep in that forest is far too risky to pull off without more strength and a solid plan. Doing so won’t fix my dwindling resource problem.
+
+Just as I think about which of the pill thieves would be the safest bet to ask, the loud bellowing voice of Gu Shan, our Outer Sect Overseer, rings through the hot spring.
+
+“Attention Stewards! I will be making a trip down to the Red Pine Market tonight. If you’re interested in hitching a ride, prepare 100 spirit fragments and meet me in front of the dining hall in 20 minutes!”

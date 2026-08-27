@@ -1,0 +1,149 @@
+---
+id: 9237828d-c935-5908-9ece-8b5724a60c21
+page-type-slug: story-chapter-royal-road
+title: "Chapter 314: Training in the Arena"
+slug: 0351-chapter-314-training-in-the-arena
+partOf: dungeon-of-knowledge-complete
+position: 351
+ownLength: 2597
+unit: words
+ownProgress: 2597
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2442765/chapter-314-training-in-the-arena"
+royalRoadId: "2442765"
+markedReadAt: "2026-06-29T20:22:28.551Z"
+---
+
+Rezan allowed the magic of the circle to teleport his body away. The bright sunlight and the surroundings of Kezda vanished, replaced by the quiet dimness of ancient stone and the heavy pressure of dense mana.
+
+Aliandra’s domain. The dungeon. The quality of the domain was incomparable to that of the dungeon that had granted Sabri her class not too long ago, and Rezan focused his calm lest he allow it to disrupt the rhythm of his breathing. This growth is not normal. Then again, neither was Malika’s. He glanced around, taking in the spartan emptiness of the library, the several shining inlaid runic circles on the ground, and the giant tree that filled the vast chamber, circulating the dense mana in smooth flows.
+
+The eyes of his soul flickered with blue text as a notification chime sounded.
+
+You have entered the Dungeon of Knowledge.Experience earned towards Knowledge and Mastery traits is increased.A portion of this increased experience is tithed to the dungeon.You have entered the Grand Library Arcana. All Learning and Knowledge magic is enhanced by 10%
+
+So that part is true, Rezan thought, inspecting the notifications as they proceeded up the winding staircase and through a more populated library area on the top floor.
+
+He stepped out through a giant stone archway and onto a broad plaza – into a scene of controlled chaos. It was not that he hadn’t believed Malika; it was simply that her claim was so momentous that he had to witness it personally to fully grasp its significance.
+
+“This is the challenge arena,” Aliandra announced, but then her energy rippled with what seemed to be discomfort and her voice grew a touch less confident. “I’m still working on it.”
+
+Rezan glanced sharply at the living dungeon before turning his attention to the training area she had set up. Spread out before him, taking up a broad swathe of what appeared to be a recently renovated plaza, he found several dozen challenge arenas – raised rings of stone filled with hard-packed dirt. Each housed a single monster, spider, Kobold, or Troll. A couple of the rings even held restlessly pacing demons – thankfully, confined to their arenas by the power of the dungeon. Each ring was circled in magic runes, and although he was not an expert in the runic script, he knew a restoration aura when he saw it, just by the quality and flow of the mana.
+
+“What do you think, Elder?” Malika asked, her energy controlled, but his senses deduced the obvious desire for his approval lurking just under the surface of her thoughts.
+
+“Interesting,” he said. Many of the arenas were occupied with trainees, challenging the monsters, and between them roamed a small army of Kobold acolytes, dressed in elegant white robes, occasionally healing the unlucky. At the far end of the plaza, the monsters were extremely low-level, and he recognized the local Guildmaster, Vivian Ross, instructing a small group of unclassed people, many of whom were barefoot and dressed in rags. It seems the Guildmaster isn’t just one for pretty words. He most certainly approved; everybody deserved the opportunity to train. Along the back, near a line of apparently restored stone houses, he spied several archery ranges, seemingly favored by Wood Elves. The tiered stone benches behind the archery ranges, favored by resting trainees and spectators, had prudently been protected by glittering transparent golden walls. As his eyes swept across the arenas, he nodded to himself in approval, observing how the level and difficulty of the challenges scaled progressively higher.
+
+As Aliandra hovered nearby, Rezan listened while she pointed out the details – but almost everything she mentioned was easy to see with his own eyes. He even noticed one challenger overextending herself and taking an unblocked critical hit – the runic magic inscribed into the arena flared, instantly teleporting the unfortunate contender from her ring to a healing station.
+
+“The challenger can choose if they want the restoration magic or not,” Aliandra finished. “If they opt to turn it off, they can kill the monster and earn a little experience, and even take whatever items it has. But most people have been preferring the restoration effect for continuous training so far.”
+
+An aura of expectant silence fell over the little group as they studiously avoided staring at him while waiting for his response.
+
+“I would like to observe a higher-level challenge in action,” Rezan decided. Initially, he had been skeptical, but the challenge arenas looked to be well thought out, and from the traditional size of the arena rings, he was certain Malika had played an important part in the design. “May I have one of my students try it?”
+
+“Of course. How about these?” Aliandra said, indicating two arenas, one containing a thickset flightless drake, and another with a restless, wiry Troll warrior. “The drake has heavy armor, strong cleave, and a fire breath, and the troll has bone axes and blades.”
+
+“I would challenge the drake,” Basir said, a grin already appearing on his normally serious face.
+
+“I can take the troll,” Hala said, hopping up and down on one foot and then the other. Her master’s slight scowl put a stop to that.
+
+“Use the restoration magic, I want to watch how it works,” Rezan said, giving permission and then folding his arms across his chest as he settled in to watch with all his senses and skills enabled. Hala and Basir eagerly vaulted into the rings.
+
+Basir immediately Earth Traveled, passing through the ground to emerge covered with his rock armor beside the huge drake. Their battle commenced with a resounding crash. The Cleave was truly powerful, ripping rock from Basir’s armor and staggering him. Rezan tilted his head an inch to the left as a sharp shard of stone whizzed by his ear. A fraction of a second later, the entire arena was surrounded by a glittering wall of golden barrier magic. Rezan nodded, but even though Aliandra’s eyes were glued to the fight, she still smiled in response.
+
+Rezan focused on the fight. This was a great match-up; Basir was an incredibly durable tank wearing his earth magic armor, and the drake was the kind of monster that groups would require an experienced tank to control. An intense blast of orange dragon fire burst forth, engulfing him, but Rezan’s senses revealed just how much of the heat and flames Basir’s rock armor was deflecting. Good. Except that when he wheels about, his balance is too far toward his heels. He could improve that.
+
+In the second ring, Hala instantly went on the offensive, tackling the Troll warrior, but the warrior charged sideways, dodging her lightning and fists, and then threw two axes he had grown out of his own forearms. Axes whistled as they flew end over end through the air, ending in a violent explosion of bone shards when they neared Hala.
+
+Aman Rak? Strong with both melee and mid-range, Rezan thought, approving of the matchup. It would be a great match for Hala, whose major challenges thus far had consisted only of fighting Basir and occasionally Malika. But it was the Troll that captured his attention – more specifically, the Troll’s technique. The more he studied it, the more he saw both Malika and Sabri’s styles woven into its movements. Fascinating!
+
+He glanced over at Aliandra, seeing that she too was intensely focused on both matches, tiny little wisps of mana floating up from the fighters and gathering around her. He glanced back at Hala’s arena and then he saw it happen. The Troll warrior suddenly blocked Hala with a defensive technique from the Path of the Earth – one of the moves Basir favored. Even without the use of earth magic, the move was effective – something he taught all his students.
+
+Rezan continued to study the matches in silence for about half an hour before both combatants finally took a break, and by the end he was certain – Aliandra had already learned several adaptations from both Hala and Basir and was able to effectively incorporate them into the fighting style of her monsters. The drake was a little harder to use, but the Troll was certainly improving rapidly.
+
+“I earned two levels in my defensive mastery,” Basir said, still breathing heavily from his extended bout.
+
+“My martial arts gained a level too,” Hala said, with barely suppressed excitement.
+
+“Excellent work,” Rezan said. Gaining levels in masteries took a lot of effort and usually a substantial amount of time, unless one was often engaged in risky mortal combat. For them to have gained skill levels so quickly from a training exercise was not just excellent – it was incredible.
+
+“Do you have anything of a higher level?” Rezan asked, glancing at Aliandra.
+
+“I don’t think they should face anything much higher; I don’t know if I can keep the matches safe,” she replied.
+
+“It is not for my students,” Rezan answered, getting sudden shocked looks from most of the group.
+
+Aliandra simply vanished, and in her place, an incredible hulk of a giant troll appeared wielding a pair of brutal greataxes.
+
+Tol’brekk [The Crimson Blade of Carnage] – Giant Troll – level 100 (Blood)
+
+Tol’brekk? What sorcery is this? The monster towering before him was clearly evolved, confirmed by the intensity of the stamina that flowed within him – and just as clearly, the Tol of Aman Rak. Not a single shred of mana showed within his enormous body, save for the strange glittering gold and green knot in the center of his chest.
+
+Enslaved by the dungeon? No… that’s not…
+
+A few moments later, a flying golden dragon vanished, replaced with Aliandra once more.
+
+“This is my strongest melee fighter,” Aliandra said. “I’m sorry I can’t provide anything closer to your level.”
+
+“How have you captured Tol’brekk?” Rezan asked, his entire body poised, and his energy held in check by the knife-edge of his will.
+
+“Tol’brekk died in the betrayal that destroyed Aman Rak,” Aliandra said, meeting his gaze with an uncanny calmness. “This is a copy of his body, memories and skills, that I can summon. One of the advancements I earned upon reaching the second tier.”
+
+“That is an… impressive ability,” Rezan offered, studying the knot of Aliandra’s mana that glittered in Tol’brekk’s core. If he focused closely, he could see the wisps and strands that pulsed like magical arteries connecting the Fae to her monster. Terrifying.
+
+“The Temple of Aman Rak dungeon had the ability to enslave people, binding them to the dungeon, but it requires consent,” Aliandra said, obviously reading his hesitation accurately. “It was by Joraa’s deception that the champions of Aman Rak willingly submitted to the Lich’s dungeon. When we destroyed it, Tol’brekk had been raised as a Death Knight.”
+
+“You can do this, too?” Rezan asked, scrutinizing her energy with his Eyes of the Soul.
+
+“I cannot,” Aliandra said, with not even the slightest ripple marring her mana or stamina. “Nor do I wish for such an ability – I have no desire to enslave anyone, willing or otherwise.”
+
+“Very well,” Rezan said, and turned to face the monstrous Troll. “Shall we fight?”
+
+“It would be an honor to test my blades against the skills of an Ahn Khen Elder,” Tol’brekk said, inclining his head and then leaping up into the nearby ring.
+
+“Good,” he said, stepping into the ring to join the giant berserker. “Hala, Basir, Malika, watch closely.”
+
+“Sabri! Rezan is fighting!” Hala yelled.
+
+He had to grin as Sabri squealed in delight and charged across the plaza from the other side of the challenge arena, dragging Seyah with her.
+
+He turned to look at his opponent, but to his surprise, the troll took a moment to make a formal introduction. I had heard the Trolls of Aman Rak were honorable.
+
+“Well met, Elder,” he said, the deep voice resonating with the harsh trollish syllables. “I am Tol’brekk, once leader of Aman Rak. Once a Death Knight. It is an honor to fight one as strong as you.”
+
+Surprised at being honorably addressed by a dungeon monster, Rezan bowed briefly to the troll. “I am Rezan Jin, Elder of Ahn Khen.”
+
+“This is to be an exhibition match for your disciples?” Tol’brekk asked.
+
+“Yes,” Rezan said. “But you may fight without holding back.”
+
+“Excellent!” the troll boomed.
+
+At once, Rezan took his stance, beckoning, inviting the monster to begin.
+
+Instead of charging, he saw the leap forming in the troll’s legs and he sidestepped as the giant troll took to the air, coming down on his hastily vacated spot with a great crash. He dodged again as the troll swung one of his axes with a casual backhand sweep of incredible speed, aimed to take out his legs.
+
+Then he began, darting in and out, striking rapidly, working his way through the forms. There were several flaws in Sabri’s fundamentals that he wanted to fix, and he simply began teaching them. The dungeon would learn them if Sabri didn’t pick up the changes immediately by watching, and she would be able to train as much as she wanted later.
+
+Aliandra clearly understood what he was doing, because she told him when she had learned it by the simple expedient of having the berserker echo the techniques back to him in order.
+
+Basir next. Rezan switched gears, moving on to the blocking arts and the inefficiencies Basir had been struggling with. Of course, he was blocking increasingly powerful bloody greataxes as the berserker gained incredible power under his strikes, but Rezan hadn’t bothered with the regeneration aura precisely because he needed to evaluate Aliandra’s capabilities, too.
+
+He shifted to the offensive arts, offering something for each of his students – this time mostly aimed at honing Hala’s technique and balance in her high-speed strikes – although Malika would most certainly gain a great deal from studying this also. His body blurred as he charged through the air, rapidly executing the strikes with perfect form. Finally, he stopped, standing a little apart from the now half-health berserker as it stood in a mist of rage, blood pooling beneath its massive weapons. It shot forward with its Blood Vortex attack and he simply stood his ground, blocking everything until it expired.
+
+“Malika, this last one is for you. Make sure you’re using Infinite Perception.” It was time, and Malika was ready to receive it.
+
+Her eyes widened and her heartbeat, and the energy within her, quickened as her magic collected around her eyes.
+
+Six should suffice. She’s seen this once before. He held his intent for his strikes, hovering bright and clear in the calmness of his mind. Different paths to the goal. Different possibilities. Then, he struck. Stamina surged, filling his muscles with power and his body shifted in six directions at the same time. He felt the blurring decoherence in his soul. His punches all landed simultaneously, striking six different critical regions on the giant troll, each one of them dealing critical damage, and then his body coalesced again as the six-way potential expired, and he once again resumed his single complete form. Instantaneous Strike. Six different attacks, executed as one.
+
+The giant troll rocked back on its heels, a huge smile appearing on his face, and slowly toppled over, falling to the hard-packed dirt with a crash.
+
+As the dungeon evaporated the corpse of Tol’brekk, returning it to mana, Rezan turned, finding not only his students but the entire challenge arena spectating his match.
+
+His eyes found Malika’s and he beckoned. “Your turn.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

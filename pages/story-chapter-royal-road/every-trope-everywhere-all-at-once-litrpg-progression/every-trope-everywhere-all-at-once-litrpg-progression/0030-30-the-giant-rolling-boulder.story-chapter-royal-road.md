@@ -1,0 +1,215 @@
+---
+id: 4a0e4368-18aa-5276-a1f7-1c8de4eebaa7
+page-type-slug: story-chapter-royal-road
+title: "30 - The Giant Rolling Boulder"
+slug: 0030-30-the-giant-rolling-boulder
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 30
+ownLength: 1727
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3467787/30-the-giant-rolling-boulder"
+royalRoadId: "3467787"
+---
+
+The boulder crashed down into the front of the city, covering the entire entrance. It was several times the size of Tuna herself. We all ran as fast as we could, but the boulder rolled just behind us, threatening to crush us to death. There was no chance of dodging to the side, since the boulder was wide enough to crush anyone who slowed down for even a moment.
+
+We had to keep moving forward.
+
+[TROPE INITIATED: RUNNING AWAY FROM THE BOULDER INSTEAD OF SIDEWAYS]
+
+Completion criteria: Escape from the boulder.
+
+Our griffins, Tuna, and Talon tried to take flight, but for whatever reason, they couldn’t.
+
+“What’s wrong?” Kaelor asked his griffins.
+
+They made all kinds of worried screeches as we all ran for our lives.
+
+“We can’t fly! The gravity gets way worse the moment we do!” Talon cried. “I was flying just fine earlier but I don’t know whats happening right now!”
+
+“Huh? How come?” I let out, nearly out of breath after only running for maybe ten seconds. This body was too damn unathletic!
+
+Unable to use her flight magic, Tuna did her best to wriggle through. Of course, she moved much more slowly than she would’ve if she were able to fly instead, but she was able to keep up with the pace of the boulder.
+
+Kaelor was completely relaxed, hands on the back of his head as he ran through. He couldn’t use wind magic to fly away from the boulder since the gravity would push him down. Still, he had cast some kind of other spell that made it much easier for him to run without any effort.
+
+I looked at Reina. Judging from the smile on her face, she seemed just as fine, running along with the legendary glowing sword in her hand as if this were just another day of training.
+
+As for me, Talon, and Meriel?
+
+“This is it…” Meriel said, wheezing. “We’re… dead here.”
+
+Her stamina was just as bad as mine. Talon, on the other hand, ran with the most awkward posture I’ve ever seen. Harpies weren’t built for sprinting.
+
+“You don’t have some kind of magic to help us?!” I cried.
+
+“I do, but… I’m so out of breath right now… I can’t cast it…” Meriel wheezed.
+
+I facepalmed. Looks like I’ll have to use my secret weapon.
+
+[PROTAGONIST: Allene]
+
+Agility: 22
+
+Endurance: 3
+
+Unallocated Stats: 44
+
+I stared at the numbers while running for my life. I don’t know why, but I always have this weird guilt whenever I spend them.
+
+What if I ruined my build? What if I dumped too many points into the wrong stats? What if I needed those points later for something even worse?
+
+…
+
+Then again, I did say the same thing last time. I’ll probably regret it more if I don’t use them.
+
+I glanced behind me. The boulder was getting closer, rolling faster than I could run.
+
+Fine. I’ll do it.
+
+I dumped points into Agility and Endurance—of course, making sure to round up to a perfect number.
+
+[AGILITY]
+
+[22 → 30]
+
+[ENDURANCE]
+
+[3 → 30]
+
+Unallocated Stats: 9
+
+Another System notification popped up right after.
+
+[TROPE COMPLETED: THE PERFECT STAT NUMBERS]
+
+Description: Some prefer a flat number in stats, even if it means that excess points go unused.
+
+[REWARD: +1 LEVEL]
+
+[LEVEL]
+
+[122 → 123]
+
+With my Endurance and Agility now, it became much easier to run. It wasn’t even close. Hell, I was even able to keep up with Reina at the pace I was going.
+
+“What the… how are you so quick all of a sudden?!” Talon cried.
+
+I turned to him, seeing how much he and Meriel were struggling.
+
+“Don’t worry about it. Here, let me help you two out.”
+
+I waved my staff toward them. I’d never used any supportive magic before. The most I’ve ever done was offensive fire and wind attacks, but even so, magic was flexible in this world. As long as I had the imagination, I could make this work.
+
+I hope.
+
+I visualized gusts of wind surrounding Meriel and Talon, pushing them forward instead of letting the air resist them. I wasn’t trying to make them fly since this city apparently hated that, but I was trying to make it easier for them to run.
+
+Mana rushed through my staff…
+
+Then exploded in my face.
+
+“GAH!”
+
+The burst of wind nearly ripped my hair off.
+
+“What was THAT?!” Talon cried. He wasn’t breathing as hard as Meriel, but his harpy legs made it impossible for him to keep up. “Do it quickly, Allene! Or else we’re really going to die!”
+
+“Stop panicking! You’re making me nervous!” I yelled. “And besides, we’ve still got ten revives!”
+
+The boulder continued rolling toward us, and I couldn’t help but notice it picking up speed. I didn’t have the heart to tell them.
+
+I tightened my grip on my staff and focused even harder this time. Kaelor and Meriel used wind magic all the time. I’d seen it enough to roughly understand the idea behind it. I just didn’t expect supportive spells to be so much more difficult to cast.
+
+Wind pushes things. Push, push, push. That’s all.
+
+I imagined the air flowing alongside their bodies. Less resistance. More momentum. Just forward.
+
+I felt my mana stabilizing, slowly coursing through my staff.
+
+Then, streams of wind wrapped around Meriel and Talon.
+
+Their faces of anguish started to relax. Meriel was still out of breath from all the running, but she seemed to be having a much easier time now.
+
+“Oh,” she let out, panting. “It actually worked.”
+
+Talon stumbled forward several extra steps, surprised by how much easier it was to move. “WOAH!”
+
+“Sorry! Too much wind!”
+
+“No, keep doing it!” he yelled. “I feel super fast now!”
+
+The two of them ran much more smoothly. Not nearly as effortlessly as Kaelor, but at least it didn’t look like the boulder was about to crush them.
+
+After running deeper into the city, we passed between two large structures. The moment we did, they rumbled and collapsed onto the ground, dust blowing everywhere, separating the boulder from us. Thankfully, the debris stopped the boulder entirely.
+
+We somehow got through everything without using a single revive.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- THE GIANT ROLLING BOULDER (COMPLETED)
+
+- RUNNING AWAY FROM THE BOULDER INSTEAD OF SIDEWAYS (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[REWARDS: +2 AGILITY AND +2 ENDURANCE]
+
+[AGILITY]
+
+[30 → 32]
+
+[ENDURANCE]
+
+[30 → 32]
+
+All of us except Kaelor took the time to gather our breath, even the griffins and Tuna.
+
+“Well done, everybody,” Kaelor said, going around and patting everyone on the back. “This dungeon doesn’t seem too bad at all.”
+
+I glared at him. “You consider this not bad?! And don’t you dare jinx it for us!”
+
+I looked around, wondering if there was another trap. Everything has been so unpredictable so far that I can’t help but stay on my toes at all times. I wouldn’t even be surprised if we were ambushed by another horde of mobs right about now.
+
+But thankfully, even after some time passed, nothing happened. We fully gathered ourselves and took in the sight before us.
+
+The lights were much brighter here in this part of the city now that we were further away from the edge. Several buildings made of white stone stood everywhere around us, many of which were connected by bridges and stairways that twisted in every way imaginable. Parts of the city looked ancient and broken, while others were clean and smooth.
+
+To be honest, it looked more like a labyrinth than a city.
+
+“And here we are,” Talon said, stepping forward. “Again, I’m just following the rumors, but there should be a checkpoint somewhere around here. Actually, that blue light in front of us might be it.”
+
+Compared to the rest of the golden lanterns hanging around the city, the one in front of us emitted a dark blue hue. Not just that, but it was hanging off of nothing. It was just… floating.
+
+We walked up to it, and the moment Talon touched it, the blue took a lighter shade. I immediately felt my energy and mana rushing back to me, replenishing. From the look on the others’ faces, they must’ve experienced the same thing. Even Tuna and the griffins.
+
+Exhausted, we sat around the blue lantern. The griffins cuddled up together in one spot, while Tuna took the other. Her size made it difficult to fit in here with the rest of us, but it seems that as long as even a tiny part of her body was exposed to the blue light, she could feel its regenerative effects, as well.
+
+Kaelor walked over to one of the griffins, opening up a saddlebag and pulling out several supplies wrapped in cloth. He put them on the floor and opened them, revealing dried meat, hard bread, dried fruit, nuts—nearly everything we could ask for. He walked over to another griffin and pulled out several canteens and flasks of water.
+
+“Enjoy,” he said, smiling. “You all deserve it. Good work so far.”
+
+We looked at it, taken aback.
+
+“We had these all along?” I asked.
+
+“Of course. We wouldn’t want to die from hunger or thirst and waste a revive, would we?”
+
+Reina and Talon began eating right away. “Thanks!” they both said.
+
+Kaelor grabbed a few and fed the griffins.
+
+“What will Tuna eat?” Meriel asked.
+
+Mid-bite into a piece of jerky, Talon shook his head. “Oh, don’t worry about that. I already fed her lots before entering the dungeon. She’s got a really slow metabolism, so she’ll be fine.”
+
+She meowed, agreeing. It felt like I was starting to understand her a lot easier the more time I spent with her.
+
+Meriel and I went for the water first. Using so much mana made us far more thirsty than hungry, but I was definitely eyeing the food, too.
+
+As we rested alongside the blue lantern, I looked deeper into the city. It was awfully peaceful. Suspiciously so. But since we were at a checkpoint, we wouldn’t get attacked, right?
+
+Oh well. There wasn’t much point in worrying about all that now. After everything we’ve been through in this dungeon so far, I trusted my party.
+
+Whatever comes our way next, I’m sure we’ll be able to handle it together.

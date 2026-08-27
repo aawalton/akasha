@@ -1,0 +1,147 @@
+---
+id: 79f7e1a3-5a8e-5a50-a115-15c1101b15f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 447: Obsidian Sandwyrm"
+slug: 0484-chapter-447-obsidian-sandwyrm
+partOf: dungeon-of-knowledge-complete
+position: 484
+ownLength: 2326
+unit: words
+ownProgress: 2326
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2774732/chapter-447-obsidian-sandwyrm"
+royalRoadId: "2774732"
+markedReadAt: "2026-06-29T20:28:37.292Z"
+---
+
+Getting eaten by a giant Sandwyrm was not high on the list of experiences Mato wanted to repeat ever again. He had felt the attack with Survival Instinct, but the danger had seemed to come from every direction, and he had hesitated, not understanding how to react. He had never expected a giant wyrm to attack from below, and his snap judgement had been woefully inadequate when it came to the reality of the size of the monster’s maw.
+
+The fangs snapped shut high above, cutting off the sunlight in an instant, and Mato found himself being crushed by an oppressive sense of weight. All around him, he could sense the struggles of monsters and his guildmates. Darkness and an unnatural sense of profound heaviness pressed down on him, and a convulsive movement the size of a devastating earthquake shook his surroundings, and suddenly, he was being shoved downward. Swallowed. I guess this wasn’t exactly the plan!
+
+The pressure was immense, crushing his body slowly, but it was the rogues, shamans, and some of the warriors who were struggling the most. He took the damage from Vivian, Devan, and several of the others who were worst off, and then the crushing walls around him vanished, and he fell, landing with a heavy thump on something hard. Where is this? The inky blackness was absolute. He got up, all four paws braced against the oppressive weight that pressed in on him – some kind of magic that made everything heavier.
+
+“Ugh,” Vivian groaned.
+
+“What the fuck?” Devan said.
+
+The rogues were still dying, so he transferred even more damage to himself, keeping them and Ali’s blood shaman alive.
+
+You have gained Clarity.
+
+Blue-white light flashed in the darkness, and the intense surge of Malika’s healing pulsed within him. In that moment, he got his first glimpse of his surroundings. Fearful faces, crushed trees, and piles of sand and rock, all of which had fallen into a huge black rocky cavern.
+
+“Sandwyrm,” Vivian growled, struggling to speak against the weight pressing down on them. “We must find some way out, or we’ll be crushed and digested.”
+
+The clinking of steel on rock rang out loudly in the darkness. “I can’t do any damage to this thing,” Devan said.
+
+“It’s obsidian,” Basir answered. “Imbued with powerful mana. I can sense it. Not much can damage it.”
+
+Flames flared in the darkness as Vivian lit her swords on fire. A streak of red and the clink of metal hitting stone, but even in the dim light of her magic, Mato could see she had barely made a scratch.
+
+“Let me try,” Malika said, and her fists flared with light as she punched, and immediately the wall shuddered, knocking them all off their feet.
+
+Well, that did something.
+
+“We can’t get out,” Teagan said. Her voice had an edge of panic to it.
+
+But Mato got up, shaking his big head against the uncomfortable weight, and lashed out with his claws. The rock was dense and unreasonably hard, but nothing he had ever encountered could stand up to the sheer destructive power of void magic. The walls rippled and shuddered as his claws tore great slashes through the black stone. He empowered his second strike with Bestial Combat’s Living Rend and Brutal Restoration, adding armor piercing and his restoration and nature magic to the mix.
+
+Shards of rock flew in all directions as his claws quarried into the convulsing wall.
+
+“Let’s stay calm. Mato will dig us out with his void magic,” Vivian said, lighting her swords in the darkness. “Everyone else, those of us who can still move, there are still live monsters in here. Keep them off him.”
+
+Mato shifted more damage from the others to himself while Malika restored him with her healing, frowning as the rock wall began to regenerate before his eyes. Should have seen that coming! He doubled down, attacking quicker, trying to outpace it.
+
+“Inside the monster, clawing my way out. Save some of the fighting for me,” Mato sent, targeting Ali.
+
+“I heard you, Mato. I’ll organize some help from the outside.” The voice of Ali’s blood shaman speaking trollish behind him was a bit of a surprise, but he had learned to expect clever tricks from her.
+
+It was more than ten minutes before he began to feel a rumbling vibration, and his sensitive ears heard the telltale sizzle through the nearly impervious rock wall. He was crammed in a tunnel barely larger than his body, biting and clawing at the dense obsidian and covered with caustic dragon’s blood, but with his own restoration pulsing continuously, and Malika’s powerful healing lighting the way, he bore down upon it, slashing furiously with his void claws.
+
+“Basir, it’s closing here,” Malika said.
+
+“On it,” the earth-affinity tank said, his voice sounding strained as he contended with the wyrm’s regenerative earth magic.
+
+The sizzling sounds and vibrations grew louder and louder until suddenly, the rock before Mato gave way, and a dense black beam tore through, slicing into his chest. Malika healed him in an instant, and the beams stopped. Sunlight streamed in through the tiny hole, and Mato could make out two black dragons hovering above, void magic flickering about them in ever-shifting defensive surfaces.
+
+“Ali, you’re the best!” he sent, and smashed his way through the last remnants of the obsidian barrier, widening the gap until he could squeeze his entire body through the tunnel. He emerged into the glorious sunlight, tumbling to the sandy ground, a sizzling, soggy bear, covered with black blood and rock chips, but free!
+
+Malika emerged from behind him, followed by Basir and Vivian, dragging several incapacitated rogues, tossing them out of the quickly regenerating tunnel. Mato turned, staring at the leviathan of black scales as it snapped its maw shut, erasing an entire forest of struggling treants. It thundered a challenge, a ground-shaking sound of unbelievable immensity, and a jet of super-accelerated sand blasted from its mouth, slicing through everything in its path. But the torrent never ceased, turning into a giant sandstorm filled with powerful vortices, strange whirling beings of earth and gravity that shot out in all directions to implode with devastating explosions among the remaining raid members, and an endless stream of abrasive pebbles and grit.
+
+Excitement fizzed in his chest. Now, this is a worthy foe!
+
+“World boss!” Lyeneru shouted, but Ali could only stare at the monstrosity that had erupted from the ground and eaten Mato, Malika, and half the melee.
+
+“It’s immune to damage!” someone else yelled.
+
+“Fire and lightning work!” Lyeneru shouted back.
+
+But Ali could already tell that all the remaining melee monsters she had were struggling to do anything against the heavy obsidian scales.
+
+The maw of the beast began to sparkle with growing gravity magic, and she had just enough time to snap a bubble of barrier magic around herself before ‘down’ lurched sideways and she fell heavily against the inside edge of her barrier. Outside, her minions, friends, and guildmates tumbled wildly out of control, falling sideways across the dunes, drawn in by the irresistible pull of the Obsidian Sandwyrm’s gravity spell.
+
+Ali struggled to breathe, crushed as she was under the debilitating weight and the oppressive terror of the dragon fear that washed over her in waves. Before she could even react, the air darkened, filled with whirling sand that flowed against her barrier with a loud hissing rush.
+
+She struggled more, but she couldn’t even lift her head; her strength was insufficient to even allow her to function under the influence of the wyrm’s magic. There’s no choice, she thought, and swapped her Empowered Summoner target from the Eye of Agnor to her Carnage Berserker boss on the second floor outside the library. At once, her strength multiplied by a couple of orders of magnitude, and she finally sat up.
+
+I can’t see a thing.
+
+A shadow flashed to her left, and an enormous boulder shattered against her barrier, making her flinch, but it broke her out of the funk and indecision forced upon her by the fear aura.
+
+I’ve faced Azryet. This is nothing. With a flicker of her magic, she switched places with her Subterranean Brood Queen all the way back in the Abyssal Realm, abusing the fact that her own domain was spilling out around her from the Gate to make a ‘local’ teleportation. If she couldn’t use eyes because the world was filled with sand, she would use her best alternatives. Ten seconds later, when her skill recharged, she swapped herself back, replacing a kobold rogue who was worse than useless against such a behemoth, and then she opened her mind to the senses of the giant rock beetle queen.
+
+Earth Sense.
+
+She had to admit it was a rather bizarre experience of the senses, perhaps akin to a subtle blend of touch or taste, but propagated through the medium of stone and rock. Her new senses ranged out, finding purchase in the sandstorm, and suddenly she could ‘see’. The Sandwyrm was a force of nature, raging in the middle of the storm and continually summoning swarms of elementals while spraying immense volumes of new sand in all directions. Within the confines of the giant cloud of sand, heavy rocks levitated, speeding around and crashing to the ground wherever something moved. A giant boulder smashed down near her healers, and her reservation for one of her priests snapped instantly, but Naia’s Sacred Ooze blithely seeped out from under the massive boulder, entirely unharmed. She linked her awareness with one of her oozes, too – a second mode of sensory input that worked in a world turned to sand.
+
+The elemental dragon wyrm itself seemed to be largely formed from animated rock and stone. Even its scales were Aether-fused obsidian, one of the hardest stone variants in Ali’s repertoire, and it was adorned with gems, minerals, and ores much like her Subterranean Brood Queen’s scavenged rock armor. In fact, she detected a distinct sense of jealousy from her rock beetle as she regarded the armor of the Sandwyrm.
+
+“Inside the monster, clawing my way out. Save some of the fighting for me!”
+
+Mato! For the first time since the fight started, Ali experienced a giant rush of relief at hearing his voice appearing suddenly in her head. Hastily, she crafted a response, switching to the still-alive blood shaman she found within the monster’s stomach. She could smell his blood, and that of several other adventurers, and by the flickering light of Malika’s healing spells and Vivian’s flaming swords, she saw Mato ripping giant chunks from the monster’s ultra-dense, stony flesh with his claws of void magic. It gave her hope. Hope… and a fresh idea.
+
+Void. I have void. Of course!
+
+“Calen! Mato and Malika are inside the monster, fighting their way out!” she screamed, trying to be heard over the howling sandstorm.
+
+“Seriously?” he shouted, his voice nearly ripped away from his lips as he uttered the word.
+
+I really need to make more items with Limited Telepathy. Talking in this storm is insane. Ali’s mind flitted outward to her two Scions of Azryet flying high above the storm, and she gave them her orders. Immediately, their beam breath weapons of disintegration began firing in precisely the direction she commanded; right at where she sensed her blood shaman within the belly of the beast. If Mato was going to claw his way out, she would meet him halfway.
+
+By the time Mato’s soggy head popped out of the Sandwyrm’s scales, Ali had recovered at least her wits. Void worked. Physical damage did not. At least, her Carnage Berserkers seemed to be able to do a little physical damage when they went all out with their greataxes. Ice magic seemed better than fire, but she was certain that was mainly because her mages had Spectral Ice, and it penetrated through the scales as if they weren’t even there.
+
+The storm suddenly ceased, thousands of tons of airborne sand falling to the ground with a loud swooshing sound, and she just caught sight of the flicker of black scales as the giant monster dove beneath the ground, leaving an unblemished surface of sand behind. No wonder Volle is buried. What’s happening? She reached out with her senses, frowning. Gathering strength?
+
+“Is he gone?” Calen asked hopefully.
+
+“No,” Ali said. “He’s swimming around below.” Quickly, she directed a Scion of Azryet to fly matching where she saw the behemoth via Tremor and Earth Sense. “Stay away from the dragon.”
+
+“How the hell do we fight that?” Devan grumbled, waving her daggers impotently at the sand. She was still drenched in dark, slimy ichor and reeked; a foul-enough stench to peel paint from a house across the street.
+
+“It’s immune to physical damage,” Willow said.
+
+“Not quite immune,” Ali said. “Very large hits seem to get through.”
+
+“Physical damage reduction skill, then,” Calen said.
+
+“Practically immune,” Lyeneru countered. “We should rely on magic.”
+
+“I can’t see shit under all that sand,” Aiden complained.
+
+“I can,” Basir said. “Earth Sense works well. I can direct us.”
+
+“Me too,” Ali said.
+
+“Can it be tanked?” Lyeneru asked.
+
+“It’ll probably just eat me again,” Mato said.
+
+Ali studied the battlefield, worried about what the monster was planning. It didn’t seem to be leaving, it was just circling them like a hungry shark. A shark that would have dwarfed a dozen ships, swimming as easily through the sand as if it were water. Strewn across the shaking dunes were dozens of stunned, groaning adventurers, digging themselves out of piles of sand, or heaving rocks off their crushed limbs, or simply waiting for help and healers.
+
+What the heck can we even do? If only I could make it my minion – she found herself grinning with a frankly hysterical glee – and I’ve gone completely, stark raving mad.
+
+Still, she could not shake the wild thought.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,107 @@
+---
+id: 6e47b2cd-bd7b-5f90-9176-d440d08bd656
+page-type-slug: story-chapter-royal-road
+title: "Chapter 436: Ringing The Doorbell (Part 1)"
+slug: 0473-chapter-436-ringing-the-doorbell-part-1
+partOf: dungeon-of-knowledge-complete
+position: 473
+ownLength: 1672
+unit: words
+ownProgress: 1672
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2748648/chapter-436-ringing-the-doorbell-part-1"
+royalRoadId: "2748648"
+markedReadAt: "2026-06-29T20:28:13.658Z"
+---
+
+Finally freed up from the endless, unproductive strategy brainstorming meetings, Calen found himself a quiet spot on top of one of the battlements. It had been quite disconcerting to sit on top of huge protective wall that was transparent and glittered, but he had gotten used to it quickly, and now that the majority of the dungeon encounters had been pushed underground, it served as a fantastic spot to get some quiet time while still allowing him to keep an eye on the ruins of Myrin’s Keep.
+
+He sighed. The Malevolent Oak battle had him completely stumped. Lyeneru had warned him that some dungeons were smart, but the design of the Fungaloth Ravager, with its healing suppression field, had been hard enough. Now this.
+
+Still, it was not all bad news. He had gained some substantial growth just with the previous boss kill and defending the town, and with a little downtime, it was time to review the changes and calculate his optimal attribute levels. The familiar text appeared, floating in the air in the middle of a large but indistinct clearing in the middle of a giant forest – an area that was slowly growing to remind him of the lessons he had taken with Nendir at Ciradyl. Or perhaps the field where he had first encountered the Wanderer’s shrine? Interesting.
+
+But the trees, and even the brilliant white text, seemed to flicker and shimmer as if it was not entirely anchored in this realm.
+
+Realm Hunter has reached level 129 (+5).+50 attribute points.Radiant Archery has reached level 74 (+3).Arrows of Brilliance has reached level 69.Motes of Light has reached level 50 (+2).Explorer has reached level 70 (+2).Blessing of the Dawn has reached level 51 (+2).Eyes of the Archon has reached level 47.Righteous Fury has reached level 45.Azrael's Wings has reached level 33.Mirage Armor has reached level 48 (+2).Cartography has reached level 24.Basic Daggers has reached level 5.
+
+Not bad. Most of his gains seemed to have come from the Fungaloth Ravager kill; not enough progress had been made on the Malevolent Oaks to realize any gains. Except for his Basic Daggers skill, which had happened when he had tried to stab one of the trees. That was how frustrated he had become in his search for answers.
+
+He shook his head and pulled out his notebook, taking the time to recalculate his progression curves and tweak his formulae. Hmm, yes, I think this will work nicely. Starting with the least leveraged attributes, he put two points each into endurance and vitality first. Technically, endurance wasn’t poorly leveraged for him, but Blessing of the Dawn provided a substantial stamina cost reduction, and it was in his primary skill set – he never let it drop. Also, Power Shot cared about stamina percentage, so it didn’t necessarily improve from increased endurance. Yes, two is good for those.
+
+Next on his list, he invested four each into wisdom and strength. Wisdom and mana helped him keep pace with the slowly growing costs of summoning arrows and enchanting them as his skills reached higher levels. Strength, of course, was his ticket to more powerful bows.
+
+Finally, he spent twelve points on dexterity, and thirteen each on perception and intelligence. Just as he felt his senses sharpening from the new investment, he caught sight of a little golden flicker. He shifted his gaze and tracked the sleek, golden-scaled dragonet swooping in toward him.
+
+Ali?
+
+A second later, the dragonet flickered again, and Ali appeared on the wall beside him.
+
+“Calen! I need your help!” she declared breathlessly, as if she’d been running.
+
+He sat bolt-upright. “Emergency? Or just excited?”
+
+***
+
+“Why from here?” Calen asked, touching down inside the regeneration ring surrounding the giant Carnage Berserker boss on the second level of the ruins. He could have walked, but he didn’t want to be cleaning fungal creep off his boots yet again, and the inside of the runic circle had been cleared. Malika, he noted, walked about two inches above the ground at all times, but Mato seemed to be uncaring of the creep, crushing it underfoot at every opportunity.
+
+The enormous troll sat cross-legged in the center of the ring, her pair of greataxes lying across her lap while she watched them with curious eyes.
+
+Ali landed, giving the berserker a little wave, which got a giant smile in return. “I know how to get to the Infinite Maze from the library, but we don’t have access to that yet,” she said. “This is the only other way I know to get in – I’m hoping you all remember how you found it.”
+
+“And you want to visit the mad twins why, exactly?” Malika asked.
+
+“Well, I got to thinking,” Ali said. “Cael is a space-affinity mage, and his specialty is a domain-wide teleportation suppression spell. I was hoping we could find him and ask him to help us with the Treants. Besides, I’m a little worried about them – what happens if Blooming Rot can cross the boundary into the Spirit Realm?”
+
+“That’s… a very good idea, Ali,” Calen said. In fact, it was the first idea he’d heard that actually had potential, even given how insane it sounded.
+
+“Last time, we struggled to get in,” Malika said. “The boundary was hidden from us until you broke it from the inside, and it’s not like we can simply show up at the door and knock, can we?”
+
+“In a manner of speaking, I think we can,” Ali said. But she didn’t elaborate.
+
+“Ok, let’s do it,” Calen said, retrieving a fried ghost mushroom, which he promptly ate. Since his evolution, the mushroom snacks were no longer necessary for him to function in the Spirit Realm, but it had become something of a comforting ritual whenever he traveled there, and they did help to ward off the strange feelings of insubstantiality. He waited until Ali cursed herself and Mato across to the Spirit Realm and studied the wisps of energy and magic as Malika and Kir’vella used their Spirit Walk skills. Then, he copied one of the Spirit Walks, shimmering as his body was drawn across the veil into the strange, colorless world of the Spirit Realm.
+
+He flipped a coin into the air, pulsing a little mana into it, and it vanished, exploding into a cascade of brilliant golden sparks.
+
+You have gained the Blessing of the Wanderer.
+
+He scanned the terrain, his eyes quickly taking in the familiar ruined buildings and strange trees, but he quickly noticed that none of the creep seemed to have made it over to the spirit realm yet, and it seemed like the image imprinted on this space was more like the ruins when they had first delved down here.
+
+But even now, weeks later, he could still see the remnants of their tracks from when they had come searching for Ali. “This way,” he said, picking up the trail, and just like before, the world around him flickered and shimmered, and suddenly they were elsewhere. Or elsewhen? It was hard to know with this realm – they hadn’t moved, but it seemed like everything around them had changed. All he knew was that his skills were still picking up their earlier tracks, faint scuffmarks on the ground, overturned pebbles, and faint traces of mana. Particularly, the traces of Val’korr and Rezan, both high-level soul magic users. He glanced at Malika but chose not to mention what exactly he was tracking – she had a hard enough time coming to terms with Rezan’s death at the hands of the Lich, and it was a detail that seemed innocuous enough that not sharing it wouldn’t hurt.
+
+“Do you see anything?” Mato asked.
+
+“Yep, I have a trail.” Calen kept his eyes peeled, noting the furtive movements beyond the trees, but nothing came close enough to bother them.
+
+“Something tracking us?” Mato said, clearly picking up something with his sensitive nose or ears. “Wolf?”
+
+“Yes, if a wolf can glow blue and be semi-transparent,” Calen said. “I caught sight of it a few minutes ago, but it seems content to keep its distance.”
+
+“Spectral beast?” Ali asked.
+
+“Most likely,” he said. They had most certainly had run-ins with such monsters, but without some force guiding them to attack, they seemed content just to watch. That, and they were now four evolved classes, and probably represented a significant threat for most of the denizens haunting this space.
+
+“Kir’vella can ask them to grant us passage,” Ali said. “Or you could do it too, right, Mato?”
+
+“Yes, if they get close enough.”
+
+The terrain shifted again, and Calen recognized the forest of gray trees with the barely visible game trail and the precise spot where their prior tracks simply vanished. “Here it is,” he said, carefully reaching out with a hand. He missed it several times, but after he got the precise position and angle correct, his hand suddenly hit something flexible, which gave under the pressure of his touch. The forest beyond warped; an image seen through a wave in a mirror as the fabric of the world rippled outward from his touch.
+
+“So, how do we get in?” Mato said. “Should I Swipe it with void magic?”
+
+“I don’t think that will work, Mato,” Calen said. The first time they’d attempted to find a way in, they had tried everything they could think of to breach the barrier, but it had only yielded once Ali had damaged the magic supporting the boundary from within.
+
+“I’ll just ring the doorbell, shall I?” Ali said, summoning her Grimoire. Spell runes flickered, cascading from her book as she worked her summoning, and soon enough, a golden crystal tree sprouted from the ground, its colorful branches standing in stark contrast to the gray surroundings. From the tree, Calen could see the golden mana of her domain beginning to spread.
+
+“Wait, this is how you’re going to knock?”
+
+“Yes,” Ali said. “Dungeon rage. It will certainly get their attention.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

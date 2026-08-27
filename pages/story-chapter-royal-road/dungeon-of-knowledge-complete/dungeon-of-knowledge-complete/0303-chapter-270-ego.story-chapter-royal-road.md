@@ -1,0 +1,175 @@
+---
+id: a675900a-4751-5ced-89b7-70e82c9d03d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 270: Ego"
+slug: 0303-chapter-270-ego
+partOf: dungeon-of-knowledge-complete
+position: 303
+ownLength: 2450
+unit: words
+ownProgress: 2450
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2335139/chapter-270-ego"
+royalRoadId: "2335139"
+markedReadAt: "2026-06-29T20:21:32.843Z"
+---
+
+Her notifications remained silent, so she returned to the list of paths and picked her second one. She tried to balance them out carefully, weighing up the pros and cons, and how much she used each trait, but it was a challenging balancing act, and in the end, she went with Arcanist. Her golden arcane mana was special somehow – notable to the powerful: Val’korr, Nevyn Eld, and even Nathaniel Sunstrider had all commented on it – but even aside from that, it was personally important to her, a small part of her mother that lived on through her. Once she picked Arcanist, she systematically spent four points observing how the amount increased by an additional five percent with each step.
+
+[Arcanist 1/4] +5% spell power to Arcane magic.[Arcanist 2/4] +10% spell power to Arcane magic.[Arcanist 3/4] +15% spell power to Arcane magic.[Arcanist 4/4] +20% spell power to Arcane magic.Arcanist path completed.43 Authority remaining.Arcane Scholar path removed.
+
+Fifty percent more arcane spell power. Even for a supposedly normal path, this was a surprisingly powerful increase. Taking the Arcanist path seemed to be contradictory with the Arcane Scholar, and the shrine had simply removed it.
+
+I guess it makes sense, she thought. They were both paths of arcane magic, but they diverged; one being for combat and the other for non-combat – and she had just made a clear choice in favor of combat. Ok, Summoner next. Or should I do Rune Sage?
+
+Suddenly, her notification chime sounded again, interrupting her.
+
+New path found.Ancient ArcanaThe unique combination of your Magical heritage, having been steeped in potent arcane mana for millennia, your mentor, and your own studies of magic have revealed this path to you. Use it to unlock the mysteries of the very nature of magic itself.Traits: Arcane, Intelligence, Perception, Knowledge.Path Length: 5Reachable Nodes:+25% spell power to Arcane magic. Cost: 1Quality: RarePath – Keystone
+
+“Oh! A keystone!” Ali exclaimed – and if she wasn’t very much mistaken, there was nothing generic about this one at all. This path seemed to be uniquely tailored for her. Immediately, she shared it with her friends.
+
+“Rare. That looks very strong,” Calen said. “Twenty-five percent for your first point when Arcanist only offered five percent.”
+
+“I agree with the half-elf,” Val’korr answered, not realizing he had just let on that he really could understand Common. “See how many traits it incorporates?”
+
+“I do,” Ali said. “It also seems to be a continuation of the Arcanist path.” Several other paths waited for her, but this one was by far the most immediate and important priority – and it was the first Keystone path she could justify taking.
+
+[Ancient Arcana 1/5] +25% spell power to Arcane magic.
+
+Following Val’korr’s advice, she immediately pulled up the description, discovering that the reachable nodes had indeed been updated.
+
+Reachable Nodes:+25% spell power to Arcane magic. Cost: 1+25% to mana control. Cost: 1
+
+“What does this mean?” Ali asked, sharing the update.
+
+“Keystones usually influence or unlock skills,” Val’korr said. “And with the more important paths, what is unlocked is dependent on the path you take along the way. It looks like you’re being asked to make a choice between specializing in power or branching out.”
+
+“I see,” Ali said. If she were a damage-focused mage, blasting away from the back, she could double down on spell power, gain an enormous increase in damage, and maybe unlock something suitable. But she was not that kind of mage. “I guess I’ll take control.”
+
+[Ancient Arcana 2/5] +25% mana control.
+
+Mana control was what had helped her adjust her domain to accommodate Lira, and had helped her learn how to bend her barriers into spheres and shards. Ok, let’s check if anything changed.
+
+Reachable Nodes:+25% spell power to Arcane magic. Cost: 1+25% to mana control. Cost: 1+25% spell haste to Arcane magic. Cost: 1Unlock the skill: Amplify Spell. Cost: 2
+
+“It added two nodes, this time,” Ali said in a hushed voice as she studied the choices.
+
+“That there is the power of a Keystone path,” Val’korr said. “If you choose that last one, you will unlock a new skill.”
+
+“I would have to give up one of my current skills to use it, though,” Ali said, frowning. It was a metamagic skill she was quite familiar with; her Hellfire Imps used it to great effect.
+
+“New options can be powerful,” Calen offered, but he too was frowning. “Although you’re not at the end of the path yet, perhaps there could be something else? Or you could pick it up later.”
+
+“Haste has been helpful,” Ali said. It accelerated her summoning, occasionally allowing her to pull off summoning new minions mid-battle – and she liked the idea of investing in general aptitudes for this one. It would also benefit Runic Script and help move her barriers quicker.
+
+[Ancient Arcana 3/5] +25% spell haste to Arcane magic.
+
+She opened the path description again:
+
+Reachable Nodes:+25% spell power to Arcane magic. Cost: 1+25% to mana control. Cost: 1+25% spell haste to Arcane magic. Cost: 1+25% mental reaction speed. Cost: 1Unlock the skill: Accelerate Spell. Cost: 2
+
+“Oh, it changed,” Ali said, examining the options. For some reason, this path kept giving her the option of increasing her investment in the prior options, but it also fed her desire to boost her magic more broadly. Accelerate Spell was a far more impressive metamagic than Amplify Spell, in her opinion, and had presumably updated because of her choice to invest in haste, however, mental reaction speed was crucial to the way she fought. It was not a difficult tradeoff.
+
+[Ancient Arcana 4/5] +25% mental reaction speed.
+
+The investment in mental reaction speed was an instant and visceral sensation, like the world around her suddenly grew sharper and she could take in much more detail all at the same time. It would affect most of what she did – the ability to direct her minions quicker and react with her barriers and teleportation. Even her primary perception role of watching the mana and spells of their enemies would benefit greatly.
+
+Exceptionally happy with her investments so far, she checked the final step of the path.
+
+Reachable Nodes:+25% spell power to Arcane magic. Cost: 1+25% to mana control. Cost: 1Find this and other great novels on the author's preferred platform. Support original creators!+25% spell haste to Arcane magic. Cost: 1+25% mental reaction speed. Cost: 1Arcane Insight gains Disruption (If you understand a spell, you can disrupt the casting of it.) Cost: 3
+
+She still had the option to spend her points to gain more of the primary aptitudes for this path, but the final option had her catching her breath in her throat. Disruption!
+
+She spent the three points in an instant.
+
+[Ancient Arcana 5/5] Arcane Insight gains Disruption.Ancient Arcana path completed. 36 Authority remaining.
+
+“That’s… uh… I got a skill advancement,” Ali managed. With her first two paths, she had enjoyed the incremental improvements to her aptitudes – all of them would make a big impact on her class. While Val’korr had stressed the importance of keystone paths and the power of a properly conducted class evolution, only now did she truly understand what he had meant.
+
+“What did you get, dear?” Lira asked.
+
+“Disruption.” She shared the details with them.
+
+Unless she was horribly mistaken, Disruption was the very same ability that had been used to prevent her from casting her barriers and teleports, and now she would have that ability, too – for the mere cost of three Authority points. She could think of numerous occasions where she would have been able to use such a powerful skill to dramatically shift the balance of a fight – she would need to test it out to see how it worked – but if she could have disrupted Mok’freja’s Winter’s Desolate Celerity or Tol’brekk’s Blood Vortex, those fights would have been dramatically different.
+
+“Oh wow, Ali!” Malika exclaimed.
+
+“That’s crazy,” Calen added.
+
+“Good job getting stronger,” Mato grinned.
+
+Ok, next path. Ali brought her attention back and studied the remaining paths, trying to decide between Summoner and Rune Sage; both were important to her, and she didn’t want to lose either of them. Runic magic gave her so much freedom and joy, but it also formed a cornerstone of her domain defenses. Without her traps, she would need to rely entirely on minions and the mana it cost to reserve them. On the other hand, her minions were by far the most important part of her combat strategy – both inside and outside her domain. Both paths would make her stronger against the foes they were sure to face.
+
+I hope I can take them both. Without any way to reasonably decide between them, she picked Rune Sage because it was higher on the list of offered paths, and Val’korr had suggested that was significant. She brought up the description quickly:
+
+Rune SageKnowledge is power – and you are ever hungry to learn more. Increase your proficiency in scholarly endeavors, knowledge skills, and runic magic. Traits: Intelligence, Knowledge.Path Length: 5Reachable Nodes:+10% spell power to Knowledge magic. Cost: 1Quality: UncommonPath – Trait
+
+This will be useful, she thought. She had four skills bearing the Knowledge trait: Arcane Insight, Runic Script, Sage of Learning, and Grimoire of Summoning, and all of them would be enhanced by this path. One at a time, she placed the points, discovering that, much like her first two paths, this one did not diverge at all.
+
+[Rune Sage 1/5] +10% spell power to Knowledge skills.[Rune Sage 2/5] +10% spell power to Knowledge skills.[Rune Sage 3/5] +10% spell power to Knowledge skills.[Rune Sage 4/5] +10% spell power to Knowledge skills.[Rune Sage 5/5] +10% spell power to Knowledge skills.
+
+It was no wonder evolved classes were so much more powerful; she had just boosted four of her skills by fifty percent spell power! Then, her chime sounded.
+
+Rune Sage path completed.31 Authority remaining.Summoner path removed.Necromancer path removed.
+
+“Oh no!” Ali exclaimed at the sight of the notifications.
+
+“What happened?” Malika asked.
+
+“I wanted to get the Summoner path, but it just got removed,” Ali groaned. She wasn’t sorry to see the Necromancer path go, but she did want to invest in her minions, and without the Summoner path there was nothing else that matched the Minion trait. “I should have taken it first.” But not having any knowledge of how the paths related, she had no way of knowing if swapping the order and taking Summoner first would have wiped out her Rune Sage path.
+
+But her chime was not done.
+
+New path found.Natural Dungeon SageUnlocked by taking the Domain Efficiency and Rune Sage paths, the path of the Natural Dungeon Sage will elevate you to the pinnacle of dungeon management.Traits: Arcane, Nature, Domain, Perception.Path Length: 8Reachable Nodes:+10% spell power to Nature magic. Cost: 1+25% domain mana. Cost: 1Quality: UncommonPath – Keystone
+
+“This has a lot of important traits,” Ali said, somewhat mollified by what seemed to be a very strong offering. She shared the new path.
+
+“Another Keystone,” Calen said, nodding his head in approval.
+
+“Still nothing for my minions,” Ali said, but Natural Dungeon Sage was by far the best path on offer, so she decided to follow it and see if she got something good. Can’t keep my points anyway.
+
+Having already expanded her domain mana, she decided to follow the spell power to Nature nodes, discovering that she could pick them multiple times.
+
+[Natural Dungeon Sage 1/8] +10% spell power to Nature magic.[Natural Dungeon Sage 2/8] +10% spell power to Nature magic.[Natural Dungeon Sage 3/8] +10% spell power to Nature magic.[Natural Dungeon Sage 4/8] +10% spell power to Nature magic.
+
+After spending four points, her reachable paths suddenly updated:
+
+Reachable Nodes:+10% spell power to Nature magic. Cost: 1+25% domain mana. Cost: 1Deconstruction gains Range: Domain. Cost: 2Nature-affinity monsters respawn 25% faster. Cost: 3
+
+“Oh, this is nice,” Ali said, sharing her two keystone choices.
+
+“Faster respawn is nice,” Calen said.
+
+“I mean the other one,” Ali said. While the respawn improvement was indeed nice, it seemed severely limited. Only nature-affinity monsters would be affected, and the percentage was fixed. It did indicate how some dungeons could become very terrifying – Ali could only imagine if she could unlock a few more of those at some point. Or if the majority of her summons were nature elementals.
+
+“You want domain-wide deconstruction?” Calen asked.
+
+“I’m willing to give up another 10% spell power to get it,” Ali answered. Sure, it wasn’t anything she couldn’t do manually, but like her respawning monsters, it would be an incredible time saver. Ali spent the points and the moment she did, both options were removed.
+
+[Natural Dungeon Sage 5/8] Deconstruction gains Range: Domain.
+
+Perhaps more mana? It was a persistent problem, and more domain mana was probably more useful now than a little more spell power.
+
+[Natural Dungeon Sage 6/8] Your Domain aptitude gains +25% domain mana.[Natural Dungeon Sage 7/8] Your Domain aptitude gains +25% domain mana.
+
+Right before she reached the end, her path nodes updated a second time.
+
+Reachable Nodes:+10% spell power to Nature magic. Cost: 1+25% domain mana. Cost: 1Arcane Insight gains Range: Domain. Cost: 2
+
+Now, that’s going to be phenomenal, she thought. The ability to see mana throughout her domain would virtually solve her most persistent problem: seeing what was going on in her dungeon at all times. She would still rely heavily on her minions’ perception skills, but being able to see what the mana was doing everywhere – that was something she couldn’t afford to pass up.
+
+[Natural Dungeon Sage 8/8] Arcane Insight gains Range: Domain.Natural Dungeon Sage path completed. 21 Authority remaining.Arcane Mage path removed.
+
+I guess that makes sense, Ali thought as she saw the path removed. The Arcane Mage path was a choice for arcane affinity over nature, and she had just taken a path that seemed to enhance her nature magic substantially.
+
+New path found.Minion EgoYou have a potent affinity for nature magic, and although you eschew the path of a scholar, you still highly value knowledge. Your combat style focuses on minions, and you have invested in training your protégés to advance their minion skills also. Follow the path of Minion Ego to enhance the agency and power of your minions. Traits: Minions, Knowledge, Intelligence, Nature, Mastery, Perception.Path Length: 5Reachable Nodes:+15% to Minion attack damage. Cost: 1+15% to Minion spell damage. Cost: 1+15% to Minion regeneration. Cost: 1+15% to Minion movement speed. Cost: 1Quality: RarePath – Keystone
+
+“Oh, I got a minions path!” Ali exclaimed. She almost took it immediately, but it was smarter to get an opinion. “What do you guys think?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,159 @@
+---
+id: b591fe45-e409-540a-a4a6-8f4d3405239e
+page-type-slug: story-chapter-royal-road
+title: "Ch114 Immense Wealth"
+slug: 0114-ch114-immense-wealth
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 114
+ownLength: 2017
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3779624/ch114-immense-wealth"
+royalRoadId: "3779624"
+---
+
+With no spare spirit stones left to continue my training with the simulation exploit, I slip out of my hidden realm and take a long bath, followed by a nap.
+
+I’m woken up by a woman’s voice, but she lacks a bit of her usual shameless pride while intruding on my minor peak.
+
+“Hey Li Hao… Are you going to sleep all day? We have a wedding to get to! I already checked you out at the Quest Hall!”
+
+I stretch and roll out of bed.
+
+After resting, my mind and body feel even more refreshed. The two days of constant technical training have cemented further in my subconscious, making my fingers itch to perform it again here in the open air.
+
+The fireballs I’m able to make are no stronger than low-grade talismans, only capable of doing any real damage to initial stage cultivators. However, with major bottlenecks in my qi cultivation and my physique's perfect-grade stagnation, it is satisfying to feel some form of progress.
+
+I’m nowhere near this technique’s limit. If I can train it further, it can act as another trump card if I ever run out of talismans again in battle. The fear of having no tools at my disposal that one time in the pit still lingers in the back of my mind.
+
+“Do you have my fire stones ready? I’ve been stuck using the sect-provided high-grade vein these past three days, and it’s been almost 10 since the last fire stone,” Lan Xin remarks when I come within range.
+
+She doesn't look me in the eyes, and from the swirling fire building up in her soul, I can tell she’s still self conscious about a few days ago. Her skin is slightly paler than usual, and her uncomfortable stance doesn’t appear to be fake.
+
+There is no new peach blossom talisman tied around her waist. I sense no other deceptive measures, and it puts a smile on my face.
+
+I’m not resentful about her past attempt, more so disappointed in her lack of long-term thinking. My harsh rejection was mostly about setting a precedent. Trying to alter my mental state and take advantage of me will not be rewarded.
+
+Truthfully, she is gorgeous. Sharing a bed with this woman would bring us much closer together, and make our dealings less combative for a while, but starting such an intimate relationship with so many angles of deception is bound to crash and burn.
+
+From a logical standpoint, it is in my best interest to wear down her false confidence further, and allow her cultivation to stabilize to a state where she is thinking clearly and we can truly negotiate on equal footing.
+
+Even having a public union could benefit my own influence, but I’d need far more strength and time to prepare before considering this.
+
+Pure logic is not the only reason I wish to keep my distance. There are more stakes and hidden factors at play in this world.
+
+The sharp pressure that tugged at my souls when we made contact was something I’ve never felt so strongly before.
+
+Ever since the moment we met within Black Iron Mountain, there has been an instinctual sensation of repulsion that grows in my two souls every time I get too close to her. I’m quite sure it comes from the same senses that allow me to read other cultivators' emotions so accurately, linked to the side effects of my Jade Purity Soul Scripture.
+
+I’ve carried her unconscious body away from that collapsing peak in the war before, and even touched hands during past transactions, but it's never been so intense. The only link I can think of is that intimacy and intentions affect this instinctual defence mechanism.
+
+Even contemplating making a true bond with that chaotic fire twists my souls in a strange direction, almost like a natural reaction of shielding my psyche from killing intent.
+
+For now, this version of her on edge is equally beneficial. She’ll be far more likely to try proving her worth to me, rather than shamelessly trying to squeeze me out of every benefit with no fear.
+
+I take out the fire stone from my storage while stopping in front of her flying vessel.
+
+“Do you have what I asked for?”
+
+She tosses me a small vial made of semi-translucent green jade. Inside, there is no more than a spoonful of pale yellow liquid. The entire vial gives off a white misty glow, warm to the touch.
+
+“I got you a vial of Perfect Grade Rock Bee Honey. Enough for two late-stage qi refiners to use multiple times. It’s one of the highest offerings of respect to give to the newly betrothed. Especially for spirit beast masters, I used a vial this size myself during my 10th level breakthrough last year.”
+
+I raise an eyebrow, nod, then stow away the vial.
+
+Then I stare at Lan Xin in silence, watching tension build in her soul, and her yellow flames start flickering on her skin, vibrating outward with an uncomfortable aura.
+
+She breaks the silence first.
+
+“No thank you? I went through a lot to find that, you know. It’s not a normal perfect grade item. Level 10 rock bees had to pollinate a very specific field of flowers with a unique initial stage soul based physique to give it that enchantment. There is only one named disciple capable of farming them, it's the vice peak master’s brother, Kang Yejing. I used up all my favors to get it on such short notice, and it still cost fifteen thousand spirit stones. I bought it with my own savings, not using any stones from your veins.”
+
+She fidgets and clenches her jaw, clearly trying to get back on my good side, but doesn't have the confidence to say she was in the wrong outloud. I shrug and toss her the firestone.
+
+“Yes, it’s good enough. This is what I asked for, after all.”
+
+I hop onto the vessel, and she turns my way.
+
+“What about the others? You said 5- no, 10- as much as I needed to break through, right?”
+
+“Bring me to the veins. I want to get the new harvesting arrays too. Then I’ll keep my end of the deal.”
+
+–
+
+We fly off.
+
+Once out of range of the spirit fields, Lan Xin automates her vessel’s flight course and begins to digest the fire stone I just granted her.
+
+Her complexion returns to a rosier state after a few hours, and the constant stirring anxiety in her soul calms down a bit.
+
+I stay silent and watch the landscape fly by below us, mentally repeating the minor fireball technique over and over in my mind.
+
+When we arrive, the sun is already starting to set. Lan Xin collects the built-up stones from the last three and a half days from the arrays, amounting to over a hundred thousand spirit stones.
+
+She then proceeds to fly me in a wide circle above the first plot, pointing out the illusion array she set up weeks ago, making the qi leakage unnoticeable from the sky.
+
+Next, she points out the two new plots to the east and west of the valley, bordering the original plot, increasing the size of the total land by a significant amount. Though it still all looks like worthless wasteland from afar. She mentions that she’ll have to buy more for the new plots once their qi begins to build up.
+
+There are no structures or connecting dirt roads to other plots in sight, they have all been abandoned completely.
+
+Lan Xin leaves to Lingshi City to purchase the remaining harvesting arrays.
+
+With the ten I have on me now, I begin upgrading a new batch of veins on the furthest side of one of the new plots.
+
+I set them to manual harvesting, to pull the maximum natural qi of roughly 970 spirit stones a day, accounting for the 30-stone overflow that these arrays cannot capture.
+
+Afterward, 10 more upgrade cards are used on inferior-grade fire stones, creating fist-sized semi-translucent rocks, flickering with red flames and glimmering with heavenly aura in their centers.
+
+There are 45 cards left in my storage. I patiently wait for Lan Xin’s return before deciding what to do next.
+
+–
+
+In the dead of night, a sleek black vessel floats down to me in the most eastern patch of land on these three plots.
+
+There is a small stream that passes through here, and the natural greenery isn’t completely dead like on the other side of this valley in the new westernmost plot.
+
+Lan Xin throws me the containment case, and I happily pull the 48 black flag harvesting arrays and an additional few thousand leftover spirit stones into my storage.
+
+In exchange, I toss the containment case back with all ten fire stones inside.
+
+“Will that be enough for you to break through?”
+
+Her eyes widen and glow bright yellow and orange in the night.
+
+“Yes. This will be enough.” She looks me in the eyes for the first time today. “Thank you. I’ll be in the center plot. It would be best if you do not disturb me until the process is complete.”
+
+Lan Xin flies away, and I continue my work, walking from vein to vein.
+
+Each one is marked by massive flag poles, and the leftover evidence of small mines and even cultivation caves around each one of these veins can still be seen, even though they were all overstrained years ago.
+
+Out in the undeveloped wilderness during the war, I came across quite a few natural veins. Even in the outer sect or steward camps, it’s not too uncommon to have one or two veins within a five or ten kilometer radius.
+
+However, having dozens of them in such close proximity is very strange.
+
+I recall Lan Xin’s description of the middle plot of this land. It is a lifeless valley now, but hundreds of years ago, it was once two mountains with tier 2 spiritual veins beneath each one.
+
+There must have been some kind of catastrophic vein fracture, or maybe it was a controlled and calculated procedure.
+
+My guess is that all of these scattered veins came from an original, much stronger source.
+
+Over time, they must have settled into individual lesser entities.
+
+However, it is impossible to know for sure. This process is a mystery to me; it is just the only one that makes any sense as I watch vein after vein grow from a light, flickering white worm in the ground, some less than a meter long, to be a thousand times the size, even moving the earth beneath it.
+
+A few of the veins in these new fields overlap, creating momentary violent bursts of qi into the air. Eerie creaking noises sound out in the night as the two veins wrestle for positioning. Some even crack the earth open, leaving new scars in the land. However, once harvesting arrays are placed on all of their centers, they calm down into submission.
+
+Morning comes, and another five upgrade cards appear in my storage space.
+
+It is enough to upgrade every single vein and still have two cards leftover.
+
+Though instead of allowing them to all be added to my passive spirit stone income, I activate the overstrain function on one of the perfect-grade veins at the very edge of the western plot.
+
+This function is not as fast and clean as it is when I used it many times on my system-granted tier 2 gathering array, but it gets the job done.
+
+Within a few hours, this vein is completely overstrained, leaving a far more noticeable scar in the earth from the violent, crude process.
+
+A bit over 200,000 spirit stones have now been collected into my storage, enough for what I need.
+
+I’ve completely depleted the natural potential of these veins, but I’ve left 87 behind in these plots to continue their natural, safe harvesting.
+
+I slip away into my hidden realm and walk straight toward the Enlightenment Island to begin my next stage of training.

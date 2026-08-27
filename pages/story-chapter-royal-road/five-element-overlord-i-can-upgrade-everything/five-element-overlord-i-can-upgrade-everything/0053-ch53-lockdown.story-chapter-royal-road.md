@@ -1,0 +1,127 @@
+---
+id: 306321d6-3bc1-5239-9519-b91a0dbc18a2
+page-type-slug: story-chapter-royal-road
+title: "Ch53 Lockdown"
+slug: 0053-ch53-lockdown
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 53
+ownLength: 1588
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3392569/ch53-lockdown"
+royalRoadId: "3392569"
+---
+
+I return to my steward’s cave abode and let out a shiver releasing built-up stress.
+
+That was much harder than I thought it would be, but I’ve gained far more than I thought I would.
+
+Due to external circumstances, my return has been captured under a bigger microscope than necessary. It does come with a positive, as the fake reveal of my breakthrough to the second level of qi refinement is nothing interesting compared to a demonic invasion or celestial events appearing in the sky.
+
+I’ve tiptoed right under the radar and managed to get the presence of my flame toad written into an official report. If this were any other time, I might be under far more scrutiny.
+
+Thankfully, my cave is isolated, or my laughs would be waking people up in the middle of the night.
+
+My eyesight is extremely sharp, almost instantly catching my changed appearance in the bronze mirror provided by the sect. I’m already certain of the fact that I’ve grown much stronger, and all of my senses have drastically improved, but so has my physique.
+
+I take off my robes and stare at myself in the mirror, admiring the deeper ab insertions, a few extra centimeters of height, and slightly bulkier arms and legs. The most unexpected shift is above the neck. I look like I’ve matured a year or two, out of this slightly childish 16 year old body, and into a slightly more efficient and symmetrical frame. My jaw line is more pronounced, and my hair looks thicker and healthier too.
+
+A thin smile grows on my face as I continue to inspect myself all over.
+
+“Little Red. I don’t think they would have let me off if I couldn’t use you as an excuse.” I mumble, and point to the back of the room on the cultivation mat where he still sleeps, then toss the low-grade fire stone over. “Here, this is the gift from the Law Enforcement Hall Vice Captain."
+
+It rolls to a stop nearby, but the toad doesn't even react.
+
+I pull out a few hundred spirit stones, a perfect grade qi gathering pill, and slowly cultivate just for the sake of maintenance for the rest of the night in this low-quality qi environment.
+
+–
+
+In the morning, I check in at the dining hall, have a hot meal, then venture out to the servant camps early to reclaim my duties as a steward. Little Red refuses to wake up and stays behind in my cave.
+
+When I arrive in front of Wei Ping’s hut, I hear the noise of wood being chopped, despite the fact that he’s not required to do so. Once close enough, the unrestrained aura of a 1st level qi refiner hits my senses.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[Has become more in tune with his mutated earth spirit root. Feels a stronger connection to the rocks, dirt, and the natural world around him; but cannot yet understand why.]
+
+My eyebrows raise while reading this new message, but I let it fade away as the young boy greets me with a vigor-filled gaze.
+
+“Senior Li, do you notice anything different about me today?” he bows and smiles up at me.
+
+This kid is only one year younger than me in this world, but I have decades of life experience on him from my previous life. On top of that, after my most recent breakthrough, our physical appearances have grown even further apart too. This is what a true young boy in the cultivation world acts like. The naive and proud expression he gives off is infectious; it is quite nice to watch someone accomplish something big for the first time in their life.
+
+“I do… It looks like you managed to break through into the 1st level of qi refinement while I was away. Your aura feels extremely stable for an 8th grade spirit root. You're the first servant under my watch that has managed to do so!”
+
+His meridians are filled with impurities still, and his aura is not stable at all. However, the widening grin on his face tells me I’ve said the right thing to continue boosting his confidence.
+
+He congratulates me on my breakthrough next, and for the next half hour, he asks basic questions about cultivation and cycling qi. My own cultivation knowledge is far more profound after practicing the Jade Purity Soul Scripture, so all of his questions are easily answered.
+
+Wei Ping returns the temporary steward token, and I give him another low-quality qi gathering pill as a thank you for stepping in.
+
+–
+
+Daily life returns to normal over the next few days, almost.
+
+Even with the lockdown check-ins at the dining hall, I’m able to sneak away at night to visit the Ravine and collect the daily refined spirit stones in the array flags.
+
+My total in storage surpasses twenty thousand, as there is not much need to use any.
+
+I upgrade a single qi gathering pill per day to continue stimulating my soul with the golden heavenly aura.
+
+However, the actual qi content in these pills is inadequate. I can hardly feel a difference in my dantian after refining one. It is far easier to just spend a few hours at night using the ambient qi above the perfect grade vein to cultivate.
+
+I feel almost no progress at all, so I try to think of other methods of gaining skills or power during this time.
+
+The side quest to kill 5 late stage qi refiners is still active, sitting at 1/5 complete. There are two more side quests on my list now after reaching level 4 and killing 5 spirit beasts. They seem to automatically regenerate every time one is completed, always leaving me three running side quests.
+
+I glance at the two new side quests.
+
+[Kill 5 Mid-Stage Spirit Beasts, (0/5 complete).][Reach the 7th Level of Qi Refinement, becoming a Late-Stage qi refiner.]
+
+Neither are easily achievable options right now.
+
+It appears my cultivation is going to stagnate at the initial stage of level 4, with no signs of moving at all.
+
+My five 9th grade roots are incapable of maintaining the saturation of qi. It is like they have been artificially lifted to this level and are resolute on halting my potential here.
+
+One night, just as I’m about to leave the steward camps, there is a fluctuating knock at the front of my cave abode.
+
+When I walk out to answer it, an unfamiliar man in black Law Enforcement Hall robes greets me.
+
+“Good evening, Steward Li Hao, this is a routine search. Moving forward, we will be doing far more of these, at random increments throughout the week.”
+
+I raise both eyebrows as this 5th level qi refiner walks right past me into the cave.
+
+I have nothing laying out of importance, and the straight-faced man leaves after searching my storage pouch and patting me down.
+
+He moves on to the cave right next door, but passing this surprise exam does not bring me any relief.
+
+Instead, as more days pass, I leave the steward’s camps less and less.
+
+I only visit the Ravine right after my wood collection route and do not stay for more than half an hour, only collecting refined spirit stones.
+
+The searches start to happen once a day at completely random times, and security along the dirt paths increases a lot.
+
+Little Red only groggily opens his eyes when I poke him, and he wants nothing to do with the fire stone that was gifted. One day, I bring him with me to the Ravine again and spend an upgrade card to bring it from low grade to perfect grade, creating an extremely hot semi-translucent rock that burns through the cave floor wherever I place it. I have to use a perfect grade defensive talisman just to get close enough to pick it up and place it back in my storage.
+
+There is still no reaction.
+
+Little Red even refuses to cultivate the spirit stones I give him. Ambient qi in the air seems to glide right around this lazy toad.
+
+–
+
+After the random searches increase to twice a day, I stop sneaking out to the Ravine altogether.
+
+My spirit pet’s attitude, combined with my own stagnant qi cultivation, and now a forced change in lifestyle to confine me to this low-grade spirit vein is starting to make me restless. My last bottleneck took an absurd amount of resources and special opportunities to break through, and now my progress has slowed to a halt all over again.
+
+I let out an unsatisfied groan while looking up at the dark black ceiling of my cave.
+
+“Another day without progress, and another night without sleep…” I murmur, sifting through my storage past over 50 unused upgrade cards, various low-grade weapons, mid-grade talismans, perfect grade items I've stockpiled recently, and even some 2nd tier items from past lotteries.
+
+The only thing that sticks out is a small booklet and 100 dark brown pills.
+
+‘Basic Guide to Becoming a Martial Warrior’ is printed on its cover.
+
+This is a discarded Mortal Grade Acquired Physique that most cultivators laugh at for its inefficiency. However, these same cultivators say a 9th grade spirit root waste like me could never hit the 4th level of qi refinement in their entire lives.
+
+Curiously, I open up the booklet in one hand and pull out a bronze upgrade card in the other.

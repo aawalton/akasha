@@ -1,0 +1,237 @@
+---
+id: eadaccf0-e865-54b1-aaa9-1652ee0e978e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 361: A Spot of Shade for Ali"
+slug: 0398-chapter-361-a-spot-of-shade-for-ali
+partOf: dungeon-of-knowledge-complete
+position: 398
+ownLength: 2688
+unit: words
+ownProgress: 2688
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2557666/chapter-361-a-spot-of-shade-for-ali"
+royalRoadId: "2557666"
+markedReadAt: "2026-06-29T20:25:28.591Z"
+---
+
+At once, Calen identified the huge, surging shadow.
+
+Shadow Dragon – Dragon, Shade – level 109 (Shadow).
+
+“Second tier,” he announced. A bowstring twanged from right beside him as Coria beat him to the draw, her arrow shooting unerringly through the dragon’s blurry, shadowed chest.
+
+“Immune to Wing Clip!” Coria said, shock filling her voice. Her arrow had passed clean through the monster as it swooped downward, its maw opening wide.
+
+“Incorporeal,” Calen said, the problem instantly obvious to him. “Use magic arrows.”
+
+From beside him, Ali’s imp and troll unleashed hellfire and ice into the onrushing monster’s maw. Taking his own advice, Calen released his shot. A shining, radiant arrow, glowing with flames punched into the dragon’s throat, trailing a chain of light to bind it.
+
+The monster unleashed an unnerving marriage of a thundering roar and an ethereal screech that set the shadows pulsing and shivering in response. It crashed to the ground, right as Mato reached the spot.
+
+There was a roar and a sizzle as Mato’s void mana burned into shadow. An ethereal roar of pain rang out and sudden darkness gripped the world as the dragon breathed.
+
+Your Creeping Shadows has increased to 12 (+11).
+
+Shit. Calen leapt backward, wings flaring as he took off to create distance while he ignited his mana. Light flared, driving back the shadows as Righteous Fury burned within him. The dragon flinched, coiling in place as it fought the tether. His arrows flew unerringly, detonating with a chain of explosions that drowned out the hissing and roars.
+
+Shadows grew darker, drawing themselves up around the dragon like a blanket or shield, but Malika waded in, landing a devastating flurry of blows as her eyes shone with power, causing the gathering shadows to scatter. Then Devan materialized with the incredible power of her Ambush, ripping ragged ribbons of shadow from the monster with her gleaming dark daggers.
+
+The monster screamed in pain and rage, spraying shadow-breath in all directions as it lashed out with barely visible claw strikes and bites.
+
+Your Creeping Shadows has reached 20 (+8).
+
+It can hit me even this far back?
+
+“Watch out,” Calen cautioned, backing up further. “That breath has a long range.” But if he flew too far, he risked attracting more attention to them. Instead, he simply doubled down on his barrage, trying to make the most of his Righteous Fury.
+
+Ali’s imp cackled beside him, unleashing a steady stream of hellfire, but her ice mage backed up at his warning.
+
+The Blood Shaman waded into the melee, and then Seth’s army struck, a horde of dark shadowed skeletons, zombies, specters, and shades, all of which flickered and flashed with every strike enhanced by the light damage his Motes were granting them. The necromancer retreated slowly, summoning something from his storage.
+
+“Arise!” he intoned, and a specter of a Radiant Brawler appeared beside him. It flickered with afterimages and suddenly the world brightened from the intensity of the monster’s beams of light.
+
+The dragon screamed and Seth grinned. “Vulnerable to light. I knew it.”
+
+“Well, that will help,” Calen said. Summoners are ridiculous. Even Necromancers. He would have mentioned it if he’d known Seth still had one of those in storage.
+
+“Amplify Damage is up,” Seth added.
+
+“Perfect timing,” Calen said. The dragon of shadows did not last long against the coordinated fury of their mob.
+
+Your group has defeated Shadow Dragon – Dragon, Shade – level 109 (Shadow).
+
+“That was dangerous,” Calen said, glancing around. With the dragon’s shadow breath, he had gained twenty new applications of the Creeping Shadows corruption. “Mato, count?”
+
+“Forty-nine.”
+
+“We should leave,” Calen said, frowning. As much as he wanted to explore, they couldn’t take many encounters like that one. “This is too dangerous.”
+
+“Can we stay and kill a couple more of these dragons?” Seth said.
+
+“You think a couple of minions is worth it?” Calen asked, surprised.
+
+“Mato can use his tree to reduce the count,” Seth said. “If we’re patient. I have a few more Elixir of Shadow Resistance he can use in place of his armor elixir – that should help.”
+
+“I don’t think having a couple of specters for a few fights is worth the danger,” Calen said.
+
+“It’s not for a few fights,” Seth said. “Ali promised to be my specter bank. The corpses are for her, and then she can make them whenever we need shadow damage – either alive or undead.”
+
+“These dragons would make very good minions,” Ali added, speaking through her troll. “The dragons don’t seem to do much damage on their own – it’s really just the Creeping Shadows.”
+
+Calen had been about to override Seth, but it was such a compelling idea; smart in a way that would enhance his own power and Ali’s strength at the same time. Shadow damage would be an incredibly useful addition to the guild’s repertoire, and Seth’s plan would benefit both his and Ali’s versatility too.
+
+“What do you guys think?” he asked, not wanting to make such a risky decision on their behalf. But already Explorer was telling him precisely where to look for another Shadow Dragon.
+
+“As long as we wait out the debuff in Mato’s aura, I think it’s safe,” Malika said.
+
+“Gaah, Malika, you’re such a battle junkie.”
+
+“Right after you, Calen,” she shot back.
+
+***
+
+Calen couldn’t help smiling as he and their little group returned to the relative safety of the Infinite Maze. “Well, that was a successful exploration!”
+
+“You can say that again,” Seth said. “Let’s get these corpses over to Ali.”
+
+“I’m at the shrine,” the troll Blood Shaman said. “I think I’m going to hop back in the rift. I really want to see what that Shade transform does to a minion.”
+
+“Oh, that’s a cool idea,” Seth said. “I think I might leave a few specters, too.”
+
+“Summoners,” Calen muttered.
+
+“Something wrong with summoners?” Ali’s shaman asked.
+
+“No… nothing,” Calen said. “Come, let’s head back.”
+
+As they made their way back, Calen reviewed the notifications from their brief but exciting jaunt into the shadow realm.
+
+Realm Hunter has reached level 107.+10 attribute points.Radiant Archery has reached level 60.Arrows of Brilliance has reached level 60.Motes of Light has reached level 42 (+2).Explorer has reached level 58 (+3).Eclipse has reached level 36.Eyes of the Archon has reached level 38.Righteous Fury has reached level 39.Mirage Armor has reached level 41.Cartography has reached level 19.
+
+Not bad for a few hours’ work. He opted to spend five points each on dexterity and intelligence. Now, let’s see what Ali can do with these shadow dragons. Huh, wait. Did she just send me shopping for minions?
+
+Ali smiled as she waved goodbye to the freshly classed novices as they returned to town one by one through a temporary teleportation circle she had inscribed on the stone pathway. Somehow, the feeling of progress, of making a difference never diminished – no matter how many of these shrine ceremonies she conducted. Several of those whose classes she had reverted, granting them the second chance they never believed they’d get, had left with tears in their eyes.
+
+As the last person left and she released the circle, she wiped the moisture from her eyes with the back of her hand and turned to regard the trolls standing beside her.
+
+Calen’s group had fled the shadow realm before the Creeping Shadows realm debuff caught up with them, but Ali had access to tools they did not and was driven by a burning curiosity. She had instructed her minions to remain behind in the shadow realm and now, all she had to do was wait. As she prepared the shrine, her remote senses registered another notification from her Hellfire Imp.
+
+Your Creeping Shadows has reached 94 (+2).
+
+Initially, the debuff had accumulated slowly, mainly from combat against the shades. However, as the shadow damage from the debuff mounted, it began to fuel its own growth, and it was that acceleration that had finally forced Calen to call off the expedition. Sure, with Mato’s aura, they might have endured it potentially indefinitely – but it was a lot of time waiting.
+
+Any moment now, Ali thought, instructing her Blood Shaman to keep healing against the heavy shadow damage.
+
+Your Creeping Shadows has reached 95.
+
+“Ok, let’s make you stronger while we wait,” Ali said, beckoning Mok’freja to the shrine and activating it for her. She had had to unsummon, and then resummon, the Ice Queen to bring her down here, but she had replaced the raid boss with a temporary rift guardian, not willing to risk a dangerous incursion from the abyssal realm.
+
+“As you wish, Seeker,” Mok’freja said, inclining her head. “I look forward to unleashing a new power upon those infernal demons.”
+
+“So do I,” Ali admitted and gestured to the shrine. “Go ahead.”
+
+Mok’freja placed a hand upon the shrine and initiated her evolution. After a pause, she announced, “Several paths have appeared, which shall I choose?”
+
+“Why don’t you choose whatever you think is best?” Ali suggested. “After all, you know your class better than I do.”
+
+“As you wish, Seeker,” Mok’freja repeated, but this time there was a predatory gleam in her eyes. The ice troll sliced through the choices of paths, picking rapidly and with absolute certainty. Ali grinned and followed along, memorizing the mage’s choices. Her second level one hundred Ice Mage waited patiently for his turn – the one who had helped wipe out sixteen thousand shades, defending her while she spent her life to save Cael and Gage – and she would have plenty of opportunities to explore all the potential paths.
+
+[Zone] Mage of Piercing Frost has advanced to the second tier.
+
+“Thank you, Seeker,” Mok’freja said, bowing low to the ground before standing up again, perhaps a little taller, a little prouder. “It’s good to grow more powerful, isn’t it?”
+
+“The second tier suits you. You picked well,” Ali approved, studying the changes. Mok’freja was her second evolved minion after Tol’brekk, and she was quite proud of her. The Ice Queen had heavily specialized in critical damage paths, building on her ability to chill and freeze targets – an approach Ali was quite eager to see in action.
+
+Your Creeping Shadows has reached 97 (+2).
+
+“I see you’ve been busy,” Calen said, as he and her friends joined her at the shrine. There were no signs of their tricky excursion via the spirit realm, other than a few new shadowy specters following after Seth like billowing black sheets.
+
+Calen, Mato, and Malika looked to be perfectly at home here, and Ali might not even have taken note except for the contrast between them and the cautious vigilance from Seth, Coria, Devan, and Willow – as if they expected something to leap out and bite them at any moment. On second thought, Ali decided those were probably good reflexes for adventurers in a dungeon – even a friendly one.
+
+“Yup,” Ali said, as her Grimoire reacted to Mok’freja’s new class.
+
+Variant: Mage of Piercing Frost added to Imprint: Troll.
+
+“We brought a few gifts for you,” Mato announced and then he, Malika, and Seth began unloading shadows that piled up around the shrine, quickly reaching heights that dwarfed Ali.
+
+“Yay!” Ali cheered. She had been waiting for this. Quickly, she set to the task of deconstructing all the shades, making the large piles of shadow monsters collapse inward on themselves.
+
+“How close?” Malika asked, gesturing vaguely up and backward.
+
+“Ninety-seven. Any moment now,” Ali said, still keeping an eye on her minions in the shadow realm while she turned the piles of shadows down here into motes of mana.
+
+Variant: Shadow Dragon added to Imprint: Dragon.
+
+“Got the dragon,” Ali announced, but her Grimoire put on a light show that would have been hard to miss. She finished the remaining corpses, filling out her imprint with minor variations.
+
+“You were excited about the Shadow Dragon in the shadow realm, I could tell,” Calen said. “Got a plan for it?”
+
+“Second level of the ruins,” Ali said. “Mostly, it’s quite dark in there.” Indeed, she may have been a little obvious about wanting the dragon, certainly if Calen was able to tell from her minions, but it was quite magnificent. Its shadow affinity gave it a stealth effect that made it tricky to see in the dark, and hard to hit, and its shadow breath was devastating.
+
+“You might need to plant some more loot in there to make it worthwhile,” Calen observed.
+
+“I haven’t created a boss that drops Phoenix Tears yet, I was thinking of Phoenix Rebirth,” Ali said.
+
+“Oh, that’ll do it!” Malika said.
+
+“Get these next,” Mato announced, laying out a pile of flowers and moss at her feet. “You can make some shadow aura for it to hide in.”
+
+“Thanks, Mato!” She had been so disappointed that she couldn’t be there in person to collect these, but her friends had been looking out for her. With a flare of her domain deconstruction, all the shadow plants vanished, and her Grimoire shone with fresh light.
+
+Variant: Penumbra Poppy added to Imprint: Wildflower.Variant: Gloom Moss added to Imprint: Moss.
+
+“Now I just need…” Ali began, but she was interrupted by a notification from the shadow realm
+
+Your Creeping Shadows has reached 100 (+3).
+
+Your Hellfire Imp has gained the Shade trait.
+
+Immediately, her cackling Hellfire Imp faded into obscurity to the eyes of her trolls. She tried to heal it, but Blood Siphon failed. The tiny demon had always been wreathed in black, but now it appeared to be made entirely from shadows.
+
+Ali’s Grimoire suddenly flared.
+
+“It worked?” Calen asked, his eyes glued to the Grimoire.
+
+Variant: Shade Imp added to Imprint: Demon
+
+“I think so!” Ali quickly summoned one and identified it.
+
+Shade Imp – Demonic Shade – level 64 (Shadow)
+
+“Oh, that’s so cool,” Mato said, peering closer. “Wait, Shade Imp? Not Shadow Imp?”
+
+“Its race type changed to a Demonic Shade, but it’s almost identical to the original Hellfire Imp,” Ali said, scrutinizing the skills and attributes. “It just transmuted the affinity from hellfire to shadow. It’s also partially incorporeal and has semi-stealth in the dark now.”
+
+“It almost looks like a Specter,” Seth pointed out.
+
+“Is it any good, do you think?” Mato asked.
+
+“I think the hellfire one will do more damage,” Ali admitted, earning a look of disappointment from the huge Beastkin, but then she added, “But it’s immune to shadow damage, and a new affinity is always useful.”
+
+“So, you’ll be able to explore the shadow rift with imps?” Calen asked.
+
+“Looks like it,” Ali said. “And maybe more…”
+
+At that moment her notifications chimed again, and her Grimoire added two new shades.
+
+Variant: Shade Shaman added to Imprint: TrollVariant: Shade Mage added to Imprint: Troll
+
+“I got the Shade Trolls!”
+
+“Congrats,” Malika smiled.
+
+“Hmm… Though, I don’t think the shade transformation works with blood magic,” Ali said, examining the result for the Shade Shaman critically. The Shade Mage seemed like it might work – not quite as effective as the Ice Mage under most circumstances, however, transforming the Blood Shaman into a Shade had completely broken its class. It had no mana, retaining the ability to accrue health from wisdom as before, but it had lost the ability to cast with health, requiring mana instead for what were now shadow-affinity spells.
+
+“Aww, that’s too bad,” Mato said, patting her on the shoulder gently.
+
+“I guess I still get a nice repository of affinity-transmuted spells to study,” Ali said.
+
+“That’s it! Look on the bright side,” Malika said.
+
+“Yup,” Ali said, nodding in agreement. “I have a lot of minions I can try this Shade transform on. I’m sure to find some good ones. I can also make a shadow biome with these flowers and offer the guild a new affinity – it might be attractive for some of the rogues. Also, we didn’t unleash a realm break and nearly wipe out the town. How’s that for looking on the bright side?”
+
+“Err,” Malika said. “Yes… exactly.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

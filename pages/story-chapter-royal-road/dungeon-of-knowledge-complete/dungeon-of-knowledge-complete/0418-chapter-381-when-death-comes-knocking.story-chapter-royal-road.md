@@ -1,0 +1,211 @@
+---
+id: eb444540-2dd3-5b9f-b63c-b02367a093f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 381: When Death Comes Knocking"
+slug: 0418-chapter-381-when-death-comes-knocking
+partOf: dungeon-of-knowledge-complete
+position: 418
+ownLength: 3391
+unit: words
+ownProgress: 3391
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2610018/chapter-381-when-death-comes-knocking"
+royalRoadId: "2610018"
+markedReadAt: "2026-06-29T20:26:11.310Z"
+---
+
+Calen teleported, switching places with one of his motes, and launched a continuous stream of glowing arrows down into the crawling creep spores, his magic detonating in powerful explosions of fire and light.
+
+All across the blighted creep, the battle raged. Ali circled the giant Mana Eater, carpet bombing the terrain like a demented pyromaniac. At the same time, her minions scurried about after her, keeping to the areas scoured clean of rotting vegetation, carnivorous flowers, and twisted trees.
+
+The Mana Eater lashed out with brambles and writhed and twisted in the center of an ominously glowing blue cloud of mana-leeching spores.
+
+“Elemental Storm! Hide!”
+
+Ali’s shout caused his heart to skip a beat. Calen knew he had just used his teleport, and even if he had it available, his frantic searching turned up nothing that could be used for cover. There was no doubt the fury of whatever was coming would overwhelm the flimsy, gnarled, decaying trees.
+
+The mana gathering within the monstrous plant rose to a ringing crescendo, and he still had no idea what to do. The ground below him was mostly flat, carpeted with Corpse Flowers, the caps of the pitcher plants, gnarled trees, and sprawling fungal creep. There was literally nowhere to hide. No chance. Nowhere to run.
+
+All I have is my Recall Potion.
+
+His eyes suddenly fixed on the camouflaged, modified leaf cap of a pitcher plant.
+
+This is a terrible idea.
+
+He was out of time. Calen flared his wings and dove as the storm exploded behind him. An arrow appeared on his bow, and he loosed it straight down the throat of the pitcher plant. It hissed, shrinking back, retreating deeper into its hole. He fired another arrow and then another.
+
+Open up, you stupid plant!
+
+A howling wind rose above him, and black streams of rot clogged the air. He plummeted straight downward, accelerating his fall with powerful beats of his wings, and unleashed another arrow. As it struck, the monster finally opened its mouth, baring sharp spines that resembled fangs, and Calen shot straight through the twelve-foot-wide maw, landing in the stomach of the plant right as the storm of rot magic swept past the surface, blotting out all sight and drowning all sound in the roar of devastation.
+
+Calen winced as the downward-pointing spines in the dark cylindrical body of the pitcher plant stabbed into his skin. He slipped a little further downward, inching closer to the bottom and the murky dark pool of liquid that lay waiting for him.
+
+You have been afflicted with Poison.
+
+Definitely the second worst idea, he thought. Right behind staying outside in that… storm. He struggled against the spines, but every movement caused him to slip a little further down. Holding still wasn’t helping much either, as gravity wasn’t exactly on his side. He risked retrieving a health potion to counter the poison and flared his wings inside the belly of this monster, using them to pull him upward against everything conspiring to dump him in the digestive juices waiting for him at the bottom.
+
+Your poison has increased to 2.
+
+He winced as another spine stabbed into his leg.
+
+Shit. He wasn’t sure the potion would be enough, and if he got poisoned a few more times, it would all be over even before the storm abated. It was so cramped, he couldn’t even draw his bow if he wanted to use his leech enchantments. The muffled howling of rot magic raged above ground, beyond the now-firmly closed maw of the pitcher plant. He did pause for a moment to admire the tenacity of these plants – able to weather the storm of this terrible boss simply by hiding within their burrows. Likely, these would be the only monsters that survived the storm.
+
+He just hoped his friends would be safe.
+
+Suddenly, the howling ceased, and silence descended on his claustrophobic hiding spot. Calen twisted to look upward, anxious to see if the storm had really stopped, but his movement against the spines caused him to slip several feet downward. Immediately, he took the risk. His body lurched, and he appeared high above the surface in a popping flash of light. He flared his wings to catch himself. Directly below him was the pitcher plant, glowing from within as it struggled to figure out what to do with the mote of light that had somehow stolen the meal right out of its stomach.
+
+Calen’s sharp eyes scoured the cavern. Everywhere around himself, he found a scene of incredible devastation; the entire landscape was wiped clean of everything except the brightly glowing barrier Ali had summoned to protect herself and her minions, and the still-fighting forms of Malika and Mato.
+
+They’re alive! But we’re in trouble, aren’t we?
+
+Naia’s minions fell from the cavern roof like rotten fruit to engage with freshly spawning monsters below, and somehow there were remnants of travel skills indicating that someone had escaped to the spirit realm.
+
+He took a deep breath, relief surging through his entire body. Next time, I’m hopping on one of those trails. He scowled down at the pitcher plant. Never again. His immediate response to the traumatic experience of being eaten for his own safety was to summon a mote of light. He lobbed it into the distance, sending it to go hang out with Ali, resolving to make certain he was always close enough or had his teleportation recharge available for the next storm.
+
+Surprisingly, he found there was little for him to do besides shoot the boss itself. In the aftermath of the elemental storm, none of the spawns had survived, with the notable exception of the canny buried pitcher plants. Still, he didn’t really want to think about them right now, so he flew over to Ali, dodging a few lashing vines on the way.
+
+“How’re you doing?” he asked.
+
+“I lost half my melee, and I’m getting the rest back from the spirit realm,” she answered. “I can continue, but we’re going to be dealing a lot less damage.”
+
+Calen nodded. They had been doing quite well before the storm, but now the fight had just gotten substantially longer. If they lost many more minions, or the boss pulled any nasty surprises, they would have to retreat and try again later.
+
+“How did you survive the storm?” Ali asked, frowning up at him. “And what is that awful smelling yellow… stuff all over you?”
+
+“I got eaten,” he answered with a grimace.
+
+“By Naia’s slime?” Ali asked, suddenly staring at him in surprise.
+
+“No… a pitcher plant,” he said. But he stared at Ali as the implications of what she had said suddenly made sense to both of them.
+
+“We could just hide behind the oozes!”
+
+“Argh!” Calen wiped acidic digestive juices from his hair. “Why didn’t I think of that?”
+
+“Naia?”
+
+Ali-friend?
+
+Naia shivered in the depths of her crevice as she heard the voice coming to her from far down below, in the loud chaos of explosions and magic. This Mana Eater was strong, and it made Naia’s membrane quiver whenever she got close. Here, in her hole, she was comfortable. It was nice and cool, and the rock pressed in on her squashed body, conveying the reassuring comfort of weight and solidity. She much preferred relying on her minions to fight on her behalf down below, but Ali needed her.
+
+She shifted her attention to a Sacred Ooze clinging to the ceiling above the fight and collected her body together into a round ball before releasing her hold. She fell, landing with a sudden holy splat on the ground, not far from her friend and her strange stiff minions. Ali, she knew, was rather smart, but Naia didn’t know why she insisted on making all these strange creatures when she could make slimes.
+
+Slimes are best!
+
+As a Sacred Ooze, she crawled along the creep, approaching the group and, when she was close enough, she teleported herself into the Sacred Ooze’s body, quickly separating and reaching outward with her senses. She was nervous to be so close to the aggressive monster, and she hated the feeling of the curse slowing her down. But none of her slimes could speak, except for her.
+
+“Ali-friend? What do you need?” she asked.
+
+“A change of strategy, Naia,” Ali said. “I want you to leave the spawns to Calen and my mages and send most of your slimes to attack the boss. When it unleashes another elemental storm, can you use your rotting slimes to block the magic for Malika, Mato, and my minions? They’re immune, aren’t they?”
+
+“This is what I suggested the first time, right?” Naia asked. She had wanted to attack the boss itself, but Ali had suggested she take care of the spawns because she could climb.
+
+“Yes. You were right, Naia,” Ali admitted. “Can you do it?”
+
+“Yes,” Naia answered, bobbing up and down to express her excitement at her new job. Her slimes would kill the horrid plant, and then she would finally be free of this nasty dungeon.
+
+“Maybe make a few lava oozes, too,” Ali said. “This plant is vulnerable to fire.”
+
+“Ok,” Naia said, and immediately began summoning her new minions: three Lava Lurkers. Her thoughts spread out among her forces, and all the remaining slimes began raining down on the battlefield, converging on the center. But she didn’t send everything – she kept a few slimes back, hanging out on the ceiling to eat the Devouring Consumptions when they came. They were easy when they were still at a low level, but they grew so fast when they ate. I wish there were more corpses. Her own Devouring Consumptions had not been able to grow much.
+
+Malika unleashed her punches, all of them striking the dense woody trunk simultaneously and dislodging a sudden puff of blue glowing spores. With Soul Strike, she had found she only had to pay the cost once, and Instantaneous Strike would trigger it simultaneously on every hit, multiplying the damage without increasing the cost. So, she had simply worked her powerful attack into her rotation, burning as much stamina as she could just to keep room free for the mana regeneration that she kept converting to stamina so the boss couldn’t steal any more of it.
+
+“Shift the heads to the left,” she suggested.
+
+“Got it,” Mato answered, shuffling a little to the left immediately and drawing several lashing bites his way. Malika winced at the incoming damage, but he answered with the intense crack of Critical Block, spraying black ichor in all directions and clearing a large swath of creep from the ground.
+
+Malika struck again, a rapid flurry of fist and elbow strikes that sent bark and wood chips flying, while pulsing flashing spears of soul magic through the core of the plant monster. Her skills were cheap enough that she had to overspend substantially on Divine Step and Healing Mantra just to keep up with the enormous regeneration she enjoyed from fighting side-by-side with Mato.
+
+“Still haven’t reached the bottom,” she muttered.
+
+“Keep at it. We must be getting close,” Mato answered.
+
+Malika punched again and dodged low to the ground, avoiding the rapid lashes of the whip-vines. She ignored the blue flower spores and kept hitting, pulsing her healing to cover most of Naia’s slimes and Ali’s remaining minions. Her magic sipped at the monster’s stamina, blow by blow, but it seemed to be endless. Still, she had agreed it was a far better choice than trying to steal mana from a plant that would simply replenish it by taking theirs.
+
+Patience, Malika. Do you think success will come so quickly? she thought, mimicking Rezan’s dry lecturing tone in her mind.
+
+She continued working her way through her forms, her mind calm and in the zone as she contemplated Rezan’s teaching, and all the subtleties of the art. Even the sudden growth phase of the plant came and went without creating a ripple on the calm that had settled into her mind. She reacted to it, of course; Mato required substantially more healing, but with her abilities growing progressively cheaper, she had a whole lot more stamina to spend on each heal.
+
+“Elemental Storm!”
+
+At the sound of Ali’s shouted warning, Malika shifted her skills, overspending on both Soul Armor and Enlightened Evasion, expanding their reservation costs substantially. All around her, the minions shifted, rotting oozes glomming together to form large piles. Ali’s remaining minions hunkered down behind them.
+
+Then, it hit. The howling torrent of muddy brown and black jets of rot ripped forth from the plant monster, lashing past her body as she stood facing the full wrath of the monster’s domain-enhanced power. Her skin began to decay, rotted away by the powerful magic, but it was not nearly as much as the first time. She placed a hand on Mato’s shoulder and unleashed the full power of Healing Mantra. Her soul magic rushed into him, repairing the grievous damage caused by the rot, healing his wounds, and restoring life to his muscles. When he reached full health, the overflow spilled out in a pulsing, expanding sphere, taking care of her own relatively minor wounds.
+
+Damage reduction is so good. The fact that she could stand there and weather the storm relatively unscathed was a testament to just how powerful her Soul Armor skill had grown.
+
+Elemental Storm delivered a devastating avalanche of continuous damage, but her damage reduction applied continuously, too. So, the little magic damage she failed to dodge barely hurt her at all. It was the enormous volume and duration of the storm that caused any lasting damage – and the excess overheal from keeping the furry bear alive was more than enough to take care of herself.
+
+She kept pulsing it into Mato, relying on the excess to take care of any damage to the cowering minions hiding behind walls of rotting slime, and topping up the berserker who was not about to hide behind anything. As a side effect, she took care of any physical damage the slimes had sustained.
+
+Then, Joraa fired his bouncing scarlet beam of Blood Siphon through the Berserker and took care of the rest.
+
+This could work. We’re back on track now.
+
+Ali began to breathe a little easier after the third Elemental Storm. She had lost many of her melee forces on the first one due to surprise and lack of decent strategy, but with Naia providing walls of rot-immune slime, and Kir’vella saving any stragglers with the Spirit Banishment curse, she hadn’t lost a single minion since.
+
+“It’s slow, but steady,” she said, mostly to herself, but her nearby kobold nodded. All she had to do was circle the boss at range, keeping up her barrier while her fire minions occasionally blasted a new area clear of corpse flowers and poison clouds.
+
+The summons kept coming, but they were relatively easy to keep on top of. And if she timed it well, she could allow them to build up a little before the Elemental Storm, and let the boss take care of them for her. Good strategy! She loved it when her ideas worked out.
+
+“He’s below thirty percent,” Ali announced, knowing Calen would want the update. Thirty percent of its original health was a substantial marker and one that was important to their strategy. Most enrage or low-health abilities triggered at twenty percent remaining health or lower, and if Calen wanted to make any adjustments in preparation, this was the time.
+
+“Good,” Calen said. “Bloodlust.”
+
+“Or that works,” Ali said, relaying the command to Joraa, her only surviving shaman. As usual, Calen synchronized his Righteous Fury with the sudden surge of blood magic that erupted from the center.
+
+“Kir’vella, get to the shrine and be ready to stash it the instant the boss dies,” she instructed.
+
+“Yes, Seeker,” she coughed, turning and darting away. The shrine could not be captured while it was still owned, but the moment the boss died it would be free to claim.
+
+Ali retrieved a wand and fired Winter’s Desolate Celerity at her ice trolls, still impressed by the sheer surge of speed they gained from the ice magic buff and the self-chill from their ice shields. Their ice bolt streams accelerated to unreasonable speeds, firing through her protective barrier as if it didn’t even exist and into the upper reaches of the giant plant monster.
+
+Ice crystals rained down on Mato and Malika, but the giant plant itself slowed from the chilling effect of the dangerous magic.
+
+“Twenty percent,” she announced, happy to realize there was no Enrage.
+
+An oddly familiar sensation prickled along her skin, a strange twisting of mana, but she ignored it, focused as she was on directing her minions. Then, it suddenly intensified, and she snapped her head around to look. What is that?
+
+“Seeker!” Kir’vella shouted, and for once, the cracked witch doctor seemed afraid, gesturing urgently.
+
+For a few moments, Ali didn’t see anything out of the ordinary, but she was looking with her eyes. Arcane Insight caught the wave of thrumming mana flowing through the artificial shrine, the bright, suddenly glowing runes, and the projection of the locus on the ground below it.
+
+Her eyes widened as she suddenly realized what it was. That’s… impossible! We haven’t even killed the boss yet!
+
+“Incoming! Lich!” she screamed, her voice raw with sudden terror. Over by the humming shrine, the complex mana formation unfolded. A dark, gaunt, and horrifyingly familiar form appeared – his eyes bound by a scarlet blindfold.
+
+Her heart froze. Her knees gave out. The crippling aura of dread bore down on the very core of her being, crushing her to the ground and staggering her mind.
+
+The Blind Lich laughed, his harsh hissing voice echoing strangely within the cavern, cutting through the sounds of battle with ease.
+
+Ali struggled with all her might to push herself up from the ground, just to look at him. To her surprise, she managed.
+
+A gaunt skeletal hand emerged from within the wide sleeve of his robe. He raised it to point to the center of the room, and a horrific and familiar magic shot out, dark and hungry. It crossed the cavern in an instant and sank into the core of the Mana Eater, ripping something ethereal and glowing from it. An incongruous chime sounded in Ali’s mind as the giant plant collapsed, and she barely registered the release of the curse aura.
+
+“I have need of this,” the Lich said, reaching out his other hand, and making the artificial shrine vanish. In response, the entire remaining domain of the Blooming Rot dungeon collapsed. Then his head turned and fixed its blind gaze on her, and Ali knew he was somehow peering into her soul. She felt violated despite that nothing physically happened.
+
+Move, Ali! she screamed silently within her mind, but it was a small voice yelling against the torrent of fear and dread. She was stuck there as certainly as a bug impaled by a pin. Not quite. With the sounds of her teeth grinding inside her head, she forced herself to rise.
+
+“As for you,” the Lich remarked idly, with the air of deciding on a pleasant stroll somewhere. “I think it’s time to be rid of a pest. You will make a great servant in undeath.” His hand reached toward her, suddenly seething with dark magic as he channeled a potent spell.
+
+But still, she couldn’t flee. Under the oppressive weight of his aura, her muscles were like jelly.
+
+At that very moment, something dark and wobbly fell from the ceiling, splatting heavily onto his outstretched hand. His dark magic blasted forth from withered fingers and into the slime, which simply absorbed it entirely. Someone appeared beside Ali, and suddenly the fear vanished as she felt Malika’s Touch of Clarity steadying her mind.
+
+You have gained Clarity.
+
+“Run!” Malika screamed, grabbing her hand and slapping a Recall Potion into it.
+
+“Wait! Where’s Naia?” Ali asked, her eyes scanning the battle and finding no sign of her friends.
+
+“She teleported away,” Malika said. “We have to go. Now.”
+
+Ali needed no further encouragement, throwing the potion at her feet and feeling the sudden lurch as she vanished.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,221 @@
+---
+id: 00556d0b-24a3-5877-bd61-afd0be0f5336
+page-type-slug: story-chapter-royal-road
+title: "22 - Too Cool to Sit Down"
+slug: 0022-22-too-cool-to-sit-down
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 22
+ownLength: 1756
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3438074/22-too-cool-to-sit-down"
+royalRoadId: "3438074"
+---
+
+The four of us sat around a table within Kaelor’s airship. Even while it slowly flew through the skies alongside the other ships and griffins for the festival’s parade, I didn’t notice any sign of movement at all from within. The ride was unnaturally smooth.
+
+We were still able to hear all the cheering and voices of the people on the island below us. They were so loud that the noise seemed to pass right through the plank floor.
+
+Kaelor had his arms on the table and his hands against his forehead, leaning forward. Meriel, Reina, and I exchanged glances, but we didn’t say anything.
+
+Eventually, he looked up.
+
+“Though I may call Kthal my brother, we’re not truly related,” he began. “But he’s one of my closest companions. We may share the same blood, but…well, that doesn’t mean much for a lineage as vast as mine.”
+
+I was curious what the Firstborn lineage was, but I didn’t really know how to ask about it without making it look like I didn’t come from this world. It was just as Meriel said—even children knew about them.
+
+“Since I can still smell his frost, you must’ve encountered him very recently,” Kaelor continued. “When did you all visit Glacinus?”
+
+“Yesterday,” Meriel said.
+
+He raised his brows. “Yesterday? And now you’re here in Whale Isles? Are there portals in Glacinus?”
+
+She shook her head. “I teleported us here. We encountered one of the Guardians and, as expected, had to flee.”
+
+He leaned back in the chair. “One of the Guardians… I see. Which one?”
+
+“The Ice Wo—”
+
+“Skoll,” I said.
+
+Everyone turned to me.
+
+“Skoll…?” Kaelor muttered.
+
+I nodded. But with their expressions, I could tell something was wrong.
+
+“How do you know that name?” he asked.
+
+Shoot. I should’ve kept my mouth shut. I only knew about it because of the [INSPECT] skill, but I couldn’t let anyone know about that.
+
+“I used the Analyze spell,” I said, reminded of how the pink-robed mage back at the guild had used it on me.
+
+But Meriel shook her head. “I tried casting Analyze on it during our battle, but the spell didn’t reveal its name. Why did it show you the name? And how do you know how to cast Analyze? That isn’t a beginner spell.”
+
+“Uh…”
+
+Kaelor stood, bringing all the attention back to him.
+
+“Skoll was the name of Kthal’s pet wolf long ago. And if what you’re saying is true, then it seems that his pet had become one of Glacinus’ Guardians.”
+
+“Is that even possible?” Reina asked. “But the other Guardians have always lived there, haven’t they?”
+
+He nodded. “Yes. That means that when brother Kthal went missing long ago, he likely took Skoll with him to Glacinus. Sometime since then, Skoll had somehow become one of the Guardians.”
+
+I raised my hand. “Just to make sure we’re on the same page, could somebody tell me who Kthal is?”
+
+I was bracing myself for another System warning about not to reveal that I was from another world, but it never came.
+
+“He was a member of one of the Firstborn lineage’s public families,” Meriel said, looking at me. “Again, even a child should know this, but I guess I was wrong to expect anything from you.”
+
+I frowned. “C’mon, you didn’t have to say it like that…”
+
+She continued, “He’s known for his affinity for frost-related magic. He has killed countless mythical beasts over his lifetime, and when he went missing years ago, word spread across most parts of the world about it. His family said they would pay a fortune to whoever finds him. Again, even a child should know—”
+
+“Okay, I get it, stop.”
+
+Reina’s ears perked at the sound of money. “Wait, is his family still willing to pay the people who find him?”
+
+“I believe so,” Meriel said.
+
+Reina stood, slamming her hand on the table. “Then that settles it. Meriel, teleport us back to Glacinus! We’re finding him as soon as possible!”
+
+We all gave her a blank stare.
+
+“You basically just said you wanted us to die,” I said, shaking my head. “That wolf almost killed us. And that blizzard… I don’t ever want to go back there.”
+
+But Kaelor had different plans.
+
+“It won’t just be you three. I’ll come along, as well as my family’s army. I will gather as many warriors as I can. My family is close to Kthal’s, so they should be willing to lend me their strength.”
+
+Meriel shook her head. “We have no reason to do this.”
+
+“As I said, you’ll all be rewarded handsomely.”
+
+“What good is money if we’re dead?”
+
+Kaelor shrugged. “A good point. But I never said the reward will just be money. Don’t you realize how much influence and recognition you can get by having a Firstborn lineage family branch publicly acknowledge you? Whether it's money, land, or connections, we can give it to you. What is it that you want?”
+
+“To become a professor at a magic academy,” she said.
+
+“Which one?”
+
+“Arcstar Academy.”
+
+“That can be done. My family knows the ones who own it.”
+
+Meriel’s ears perked up. “Deal,” she said. “Then let’s go right away.”
+
+…What the hell? It barely took anything to convince her! Just one mention of the academy and she’s already become his dog!
+
+“Not yet,” Kaelor said, his expression dark. “There is one more thing we must do. I came here for one reason alone.”
+
+We looked at him, quiet. I felt the air around me growing still.
+
+“I’ll be participating in the Grand Skycurrent Race!” he shouted out, putting his foot on the table and puffing his chest out.
+
+…
+
+What?
+
+“Huh? But your brother…” I began.
+
+“He’s been missing for years. The three of you confirming that he’s still alive is enough for me. I’m sure he’ll be fine with us being a little late. And besides, it will still take time to gather an army.”
+
+I was going to question his lack of urgency for his brother, but you know what? This was probably a trope.
+
+[TROPE COMPLETED: THE EASILY DISTRACTED HERO]
+
+[REWARD: +1 AGILITY]
+
+[AGILITY]
+
+[21 → 22]
+
+See? I’m not even surprised.
+
+“Then it’s settled,” he said. “The four of us will be participating in the race!”
+
+“Four…?” Reina said, her eyes lighting up. “All of us?”
+
+“Of course.”
+
+“But we just came here to watch the race. We don’t have anything to race on.”
+
+Kaelor smiled. “No worries at all, my friends. I will provide you with some griffins. The ones under my command are among the fastest and strongest of their kind.”
+
+***
+
+And just like that, all of us somehow ended up participating in the race.
+
+There were hundreds of racers lined across the skies beside the island. Whales, jellyfish, wyverns—we saw them all. There was even an angel who was riding what looked to be a flying bathtub. Was that even allowed?
+
+The four of us were the only ones with griffins. Griffins weren’t native to the Whale Isles, so we stood out more than the others.
+
+Talon and Tuna were just beside us. Noodle the serpent floated beside Meriel. I wasn’t so sure how he’d be able to keep up with us while we flew through the air, but maybe he had a way of hanging onto Meriel.
+
+The entire island watched us, roaring. But the audience wasn’t just those on the island. Several airships surrounded us, spectating us from afar. I could barely hear anything other than their cheering.
+
+The race’s path was made extremely clear. There were colorful trails of magic all over the skies, telling riders where to go. They twisted around other islands, through the clouds, and high into the skies, forcing riders to do all sorts of maneuvers.
+
+How did I even get here? I’ve never done any kind of race before, especially not with a griffin!
+
+I looked down at the one I was riding. He was a bit larger than the other griffins. It didn’t really make sense why Kaelor insisted I take this one, but maybe he knew we would be a good match. Either that, or he just thought it’d be funny to have the smallest person on the largest one.
+
+I turned to my side. Reina wouldn’t stop trembling from excitement. Meriel on the other hand, looked like she regretted every single life decision that brought her here.
+
+Instead of sitting down, Kaelor stood tall on the griffin’s back. His arms were crossed in front of his body as his hair flowed from the wind. I had no idea why he was doing that, but even I could admit it looked pretty cool.
+
+[TROPE INITIATED: TOO COOL TO SIT DOWN ON A MOUNT]
+
+Completion criteria: Do the same pose as Kaelor for five seconds before the race begins.
+
+What…? There’s no way I’m doing that!
+
+[TROPE IN PROGRESS: TOO COOL TO SIT DOWN ON A MOUNT]
+
+Status: Avoidance detected.
+
+Punishment: You will be forced to strike a cool pose for twenty seconds during the next boss encounter.
+
+Twenty seconds?! Twenty?!
+
+There was no way I could let that happen. I’ll die!
+
+I looked around me. The number of participants and the size of the crowd… There were too many people.
+
+I felt my face getting red. That’s too damn embarrassing! I can’t do it!
+
+…
+
+[TROPE IN PRO—]
+
+I swiped the message away.
+
+Fine, I get it! I’d rather be embarrassed than get myself killed.
+
+I gulped and quickly gathered myself, standing on top of my griffin. Thankfully, he remained completely still, otherwise my nervousness would’ve made me fall off.
+
+“Allene…?” Reina called from beside me.
+
+I could feel all the eyes on me. All the attention made my heart begin to race. I never liked big crowds.
+
+I crossed my arms in front of my body, and just like it had for Kaelor, the winds brushed against me, flowing through my hair. Since mine were so much longer than his, it made the pose look so much more dramatic.
+
+The crowd went silent. I could feel tears forming in my eyes from the embarrassment.
+
+“A wonderful pose, if I do say so myself,” Kaelor said, keeping the exact same pose as me.
+
+Oh. My. Goodness.
+
+[TROPE COMPLETED: TOO COOL TO SIT DOWN ON A MOUNT]
+
+[REWARD: +1 WISDOM]
+
+[WISDOM]
+
+[33 → 34]
+
+I immediately sat down, burying my face in the back of my griffin’s neck. I didn’t want to look at anybody.
+
+I hate this damn System.

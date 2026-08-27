@@ -1,0 +1,231 @@
+---
+id: 66ab0f18-77ac-56a6-af8c-296024ffcd30
+page-type-slug: story-chapter-royal-road
+title: "18 - Welcome to the Skycurrent Festival"
+slug: 0018-18-welcome-to-the-skycurrent-festival
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 18
+ownLength: 1747
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3425263/18-welcome-to-the-skycurrent-festival"
+royalRoadId: "3425263"
+---
+
+[TROPE COMPLETED: THERE’S ONLY ONE BED]
+
+[SKILL ACQUIRED: BAD SLEEP IMMUNITY]
+
+Type: Passive
+
+Effects:
+
+- Falling off beds no longer interrupts sleep
+
+- Reduces neck pain from sleeping positions
+
+- Falling and staying asleep is slightly easier
+
+Just like back at the cave, I was still seeing the System messages even in my sleep.
+
+“Rise and shine, ursine!” the harpy-boy said from outside our room, knocking on our door. “We’ve got some time before the festival, but don’t take too long!”
+
+His footsteps faded away.
+
+My eyes shot open. Reina lay on my left—somehow still asleep despite all the noise—while Meriel sat up straight on my right. She rubbed her eyes and yawned, likely waking up only seconds before I did.
+
+“Morning,” I said. Somehow, I was still alive after almost getting suffocated by them last night.
+
+She looked at me, said nothing, and got out of bed.
+
+“After everything you said yesterday about being thankful for us and proud of us, you can’t just act like that.”
+
+She flinched and looked back at me, her face red with embarrassment.
+
+“Shut it.”
+
+I gave her a mischievous smile. “I didn’t know you liked us so much,” I said, wriggling side to side, teasing her. “I’m proud of you guys,” I said in her voice. “I’m proud of you guys,” I said again.
+
+She picked up her staff—which had been lying next to the bed—and aimed it at me. I thought it was just an empty threat like usual, but I felt magical heat stirring up at its tip.
+
+“It’s just a joke!” I cried. Waking up to a Fireball was the last thing I wanted.
+
+As if sensing the danger, Reina shot straight up, her eyes wide. She looked around the room, noticing Meriel’s staff pointed at us.
+
+“What the…? Is she trying to kill us? I knew it! Our mentor’s an assassin!”
+
+Meriel put the weapon away, sighing. She began changing into her usual clothes and robes, which were propped over the chair.
+
+Reina and I got out of bed and did the same.
+
+“I’m so excited for the festival!” Reina said, not realizing that her shirt was put the wrong way around. She put her chestplate over it anyway.
+
+“You seem to know a lot about it,” I said. “Actually, you’ve been pretty excited about everything ever since we teleported here.”
+
+She nodded. “I’ve heard all kinds of things about the sky islands from the village I’m from. And judging from all the whales we’ve seen so far, I think we’re in the Whale Isles.”
+
+Whale Isles, huh? Was it because of all the whales?
+
+I must be a genius for figuring that out.
+
+“Why does your village know so much about the sky islands?” I asked.
+
+“Our chief is married to a harpy, so he always tells us stories about all the fun stuff up here. I’ve dreamt of visiting this place ever since I was a kid, but it’s usually really expensive to come up here through the normal way with the portals.”
+
+I looked at Meriel. Looks like her teleportation spell saved us quite a bit of money by bringing us here, even if it was unintentional.
+
+“A human and a harpy? What do their kids look like?”
+
+I wasn’t sure if that was appropriate to ask, but why not? I was curious.
+
+“It depends,” Meriel said after she was done changing into her white robes. “The boys come out as babies, while the girls come out as eggs.”
+
+I looked at Reina. “Really?”
+
+She nodded. “But when they grow up, they both have feathers and wings. The boys are usually smaller and look a bit more like humans, while the girls look a bit more like the harpies we’ve been seeing.”
+
+“...Interesting.”
+
+We heard a knock.
+
+“Eh? What’s that about harpies?” the harpy-boy said from outside the room. “If you guys are done, then come on out! I can’t wait anymore!”
+
+Meriel walked to the door. “Ready?” she asked us.
+
+We nodded.
+
+***
+
+Instead of taking harpy-boy’s pirate ship, we took something better.
+
+Tuna the whale.
+
+Apparently, she enjoyed letting people stand on top of her while she flew through the sky. Guess it made her feel useful.
+
+While harpy-boy and Reina were near the edge of Tuna’s head, taking in the view, Meriel was… not having a very great time.
+
+“I hate whales,” she muttered, covering her face like she was about to throw up. Her body had been shivering ever since we stepped onto Tuna.
+
+Flying beside us were several other giant sea animals and pirate ships, all heading in the same direction as we were. The harpies and angels on the other ships waved at us, and we waved back. Some of the flying animals had riders on top of them, too. I guess it was pretty common for sky-folks to tame them.
+
+But surprisingly, most of the nearby giant creatures didn’t have any riders. They were all just moving toward the direction of the festival, as if they knew what was about to take place. It was a fascinating sight to see all sorts of whales, manta rays, jellyfish, turtles, and even wyverns and cloud serpents flying side by side. For creatures that looked so fierce, they seemed unusually comfortable around each other.
+
+Oh, and of course, the whales were making all sorts of meows, barks, neighs, moos, and oinks. Somehow, I was starting to get used to it after a while.
+
+“Hey harpy-boy, what’s your name, anyways?” I asked.
+
+The four of us had spent the entire afternoon and evening together yesterday, and yet we didn’t even know his name. Calling him harpy-boy was starting to get old.
+
+He turned to me, flapping his wings as if to make his name sound more spectacular.
+
+“Talon!” he exclaimed, puffing out his chest.
+
+With how hard he was trying to look cool, I thought he would give some totally lame name, but Talon wasn’t even that bad.
+
+“You’ve got any friends coming to the festival?”
+
+He nodded. “Sure do, but I think most of them are coming a bit later. They’re not really early-birds like me. No pun intended.”
+
+I smiled. “Ah. Then you’re doing better than me.”
+
+He tilted his head. “What do you mean? You’ve got friends, too.”
+
+I looked at Reina and Meriel. “Yeah. Funnily enough, I’ve only met them just yesterday.”
+
+“Really? But you guys seem so close.”
+
+I shrugged. “Who knows? Maybe we just happen to suit each other.”
+
+A moment later, the island on which the festival was taking place came into view. It was the largest island we’d seen so far during our time here, and it wasn’t even close.
+
+Countless ships were docked all around at specific ports. Giant creatures flew above and below, chasing one another and playing around. Dozens of bridges expanded from this central island, connecting to the nearby smaller islands.
+
+There wasn’t a single patch of visible grass on the island. Everything was occupied by roads, buildings, and structures of every kind, packed with harpies, angels, humans, and pretty much every other race imaginable. Unlike the outer edges of Whale Isles, there was much more variation in races here, likely because they were at the heart of the sky kingdom.
+
+“Welcome,” Talon began, sprinting to the edge of Tuna’s head and throwing his arms out, “to the Skycurrent Festival!”
+
+Tuna meowed, just as excited as he was.
+
+Reina gathered Meriel and me together, pointing at the island.
+
+“We’re going to have so much fun!” she said.
+
+Meriel looked like she was about to die.
+
+“Finally… I can get off of this whale…”
+
+***
+
+The central island had two kinds of docks: one for ships and one for living creatures like Tuna. Alongside normal ports, there were massive creature landing platforms all over the island, with gigantic suspended platforms and handlers directing the sky creatures with all sorts of flags, whistles, and magic.
+
+“Blue whale incoming from the east current!” one of the workers yelled.
+
+“Make room for the jellyfish!” another yelled.
+
+When we got near the platform, Talon casually jumped off of Tuna, flapping his wings just before hitting the ground to soften the landing. He looked up at us, wondering why we weren’t moving.
+
+“Come down, guys! What are you waiting for?”
+
+I looked down at the platform from Tuna’s head. “I’m pretty sure we’ll die if we jump down.”
+
+An idea came to my head. If I remembered correctly, I had a skill that could help with this.
+
+[SKILL: HOVER]
+
+Type: Active
+
+Effects:
+
+- Temporarily float a short distance above the ground
+
+- Your body becomes sensitive to touch
+
+If I use it just before hitting the ground, I should be just fine. I hope.
+
+Welp, there’s only one way to find out.
+
+“Here I go!” I yelled as I jumped off.
+
+“What the—Allene?!” Reina cried.
+
+Just before I hit the ground, I used [HOVER].
+
+…
+
+SPLAT!
+
+…
+
+Just kidding.
+
+Just as expected, a gust of wind quickly gathered at my feet, slowing down my fall until I floated right above the ground.
+
+I looked up at Reina and Meriel, who were still on Tuna’s head.
+
+“See that? It was totally awesome, wasn’t it?” I called out.
+
+“Since when did you know how to use wind magic?” Meriel asked.
+
+“Uh…” I scratched my head, scrambling for an excuse. “Remember when we fought that giant ice wolf and it started making crystal spikes pop up from the ground? You used wind magic to lift us high, right? I kinda just copied that idea from you.”
+
+Talon walked over to me, slapping me in the back. “That was amazing!”
+
+“YAH!” I cried. The wind below me disappeared, and I stumbled forward as I landed. “That hurts!”
+
+Everyone near the landing platform looked at me. Even the workers. I hid my face in embarrassment.
+
+Damn it. What kind of floating skill makes the caster more sensitive to touch? How does that even make sense?
+
+Reina and Meriel floated down soon after with the help of Meriel’s wind spell.
+
+“Nice reaction,” Meriel said in her monotonous voice.
+
+“Shut up.”
+
+As soon as the four of us were together, a thunderous horn echoed all across the island. Everybody turned toward the sound. I wasn’t sure if I was imagining it, but I felt the island rumbling faintly.
+
+“THE GRAND SKYCURRENT RACE WILL BEGIN IN TWO HOURS!”
+
+Talon’s eyes lit up.
+
+Reina grabbed my shoulders. “Let’s go explore the festival!”

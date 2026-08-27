@@ -1,0 +1,215 @@
+---
+id: bdebceb1-ca54-552f-a3cc-5cffeda89bb3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 527: Siege of the Dead"
+slug: 0567-chapter-527-siege-of-the-dead
+partOf: dungeon-of-knowledge-complete
+position: 567
+ownLength: 3781
+unit: words
+ownProgress: 3781
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3011838/chapter-527-siege-of-the-dead"
+royalRoadId: "3011838"
+markedReadAt: "2026-06-29T20:31:36.838Z"
+---
+
+Seyah leveled her spear and charged. Her bare feet blurred as she shot across the smoldering carpet in the center of the guild hall, her ancestors’ footwork pushing her Spear Rush to incredible speed. She lurched to a sudden jarring stop, her arms absorbing the impact, burying her spear up to her grip through a decrepit zombie elf’s chest. Black ichor sprayed across Bronwyn’s unconscious form, where she lay face down on the ruined carpet, across her light leather armor, and the once-pristine guild hall furniture, drenching all in the foul stench of undeath and decay.
+
+Somehow, these zombies had snuck around and entered through the back of Myrin’s Keep, but the dreadful wound through the monster’s sternum seemed to inconvenience it not at all. Withered and rotting arms reached for her, trying to scratch off her face with blackened fingernails. She lurched backward, dodging the clumsy strike and kicked it in the stomach – what was left of it anyway – with enough power to dislodge it from her spear. Again, the creature advanced on her, moaning hideously.
+
+I can’t let it get past, she thought, glancing back briefly at the terrified recruits and novices huddled at the back, and the poor level three paladin trying in vain to heal their rapidly dying defenders.
+
+Yshara stepped out of a shifting shadow and swung her dagger, grinning fiercely at the explosion of rotting flesh that answered her Ambush. The zombie crumpled slowly to the ground, half its head missing, but already several more were shambling through the shattered doorway and entering the guild.
+
+But Seyah’s heart dropped into her boots at the sight of what followed them. Half again taller than she was, the bone-white monster wielded a pair of dark, gleaming, curved swords. Clad in strange gray plate armor bound with leather straps, its movements oozed power and grace.
+
+A Wight! Her heart filled with hopeless dread at the sight of the Greater Undead monster. Grimly, she leveled her spear, knowing full well just how futile it would be.
+
+Malika’s stomach lurched as she appeared in the center of the Guild Locus. She stored her Hearthstone, teleporting up the steps and sprinting off at top speed, Soul Sight already revealing the disaster unfolding in the guild hall above.
+
+Sabri had somehow beaten her here, and she was charging across the guild hall, avoiding the debris and bodies strewn about.
+
+Seyah stood alone, her spear leveled at a Bone Wight that was licking the blood from its gleaming blades. Cast aside like refuse was the still-bleeding body of a rogue. Yshara, Malika recalled – a promising new adventurer who had been a regular in her classes.
+
+Malika took in the scene, grasping the flow of the battle in an instant. Faint signs of life glimmered in most of the bodies while an exhausted low-level paladin desperately tried to keep them from flickering out. Seyah could not stand against a Wight. Neither could Sabri, not without a healer, but the Ahn Khen tank was durable; she could last a while with her shield and armor.
+
+Malika sprinted across the room, pouring stamina through her Holy Mantra into her own body and immediately expelling a brilliant, radiant pulse of continuous healing into the shattered hall. Health stabilized, life signs steadied, and previously motionless bodies stirred.
+
+“What…” The bewildered paladin glanced up in surprise, and then her face lit with such relief and hope she almost shone.
+
+Then Malika tore into the Wight with the vengeful wrath of the Ancestors coursing through her veins like liquid power. Second Wind’s Abiding Perseverance had about a thirty-second grace period before it reset, and it had been less than ten seconds since they had killed the Avatar of Annihilation. Her fists shone brilliantly with the intensity of her Soul Magic, and the monster’s incredible dexterity and speed felt sluggish and slow in the face of the immense boost of speed Divine Step was creating as she overloaded it with excess stamina.
+
+Rezan, I could use your strength now, she thought. Even though she had hoped, it still surprised her when her notification chime sounded. What?
+
+You have gained the Ancestral Memory: A Gift of Power+24 to Strength.+20 to Endurance.+20% to Armor. Blessing – Duration: 2 hours.
+
+She bowed to her mentor deep in her spirit even as she let fly, her strikes increasing in power yet again and leaving the intense ghostly flames of her Soul Mark burning within the Wight. Beside her, Sabri’s voice shattered the very air. As the bone-white monster turned to her, she met its fury with a shield slam that shone with soul magic.
+
+You have gained Soul Shout.+6 to skill level of Mastery skills. Blessing – Duration: 30 seconds.
+
+By the time the rest of the adventurers spilled out of the stairwell, she and Sabri, and a few brave novices shooting from the back of the room, had beaten the Wight down to half. The rest of its unholy vitality vanished under the combined onslaught of almost two full raid groups bursting from downstairs.
+
+“Ok, let’s go,” Malika said. “There are undead all over.” She could see them already, milling about in the streets outside. But as she turned to the doorway, a voice cut across the crowd.
+
+“Sabri?” Seyah called out. “You can’t go out there, it’s dangerous.”
+
+“Mom?” Sabri seemed horrified, her face already burning with embarrassment. “I’m the main tank. I have to go.”
+
+“And I’m your mother,” Seyah said, clearly not noticing or caring about the snickers and chuckles from the rest of the adventurers.
+
+“It’s ok, Seyah,” Malika said, trying to hide a grin. “I’ll keep her alive. Besides, didn’t I just see you facing down a Bone Wight by yourself?”
+
+Seyah looked away, vaguely awkward for just a moment. “Just be careful then,” she grumbled. “And stay away from the dangerous monsters – do you hear me, young lady?”
+
+Sabri hugged her without saying a word and then sprinted out of the doors and into the undead-infested street. As she rushed past, Malika heard her mumbling, “…avoid monsters… seriously? That’s literally the opposite of my job!”
+
+Malika just laughed as she followed her out, dodging the undead that converged upon Sabri at the sound of her shout. Compared to the raid boss they had just defeated in the corrupted dungeon at Ciradyl, this was nothing. Malika glanced at her notifications while impaling a pack of level sixty zombies with her Soul Strike and simultaneously topping up at least six raid members beside her.
+
+With a second to breathe, she rapidly checked her notifications.
+
+Eyes of the Soul has reached level 198 (+9).+90 attribute points.Healing Mantra has reached level 116 (+2).Perfect Body has reached level 71 (+3).Soul Armor has reached level 86 (+2).Divine Step has reached level 85 (+4).Second Wind has reached level 56 (+3).Clarity has reached level 71 (+3).Soul Sight has reached level 85 (+3).
+
+Malika fed twenty points to wisdom, twenty-four to dexterity, nineteen to endurance, and fifteen to perception, feeling her body accelerate with fresh power while still under the influence of her Abiding Perseverance. She dropped eight into vitality and split the remaining four evenly among strength and intelligence.
+
+“Now, where did Ali go?” she asked.
+
+“I can hear her berserker over that way,” Devan answered. “Near the south gate.”
+
+Mato spat out shards of glass, which fell tinkling and shattering on the polished stone floor of the academy locus. He’d miscalculated his potion supply and he had run out of the special potion gourds Morwynne had designed for him, leaving him only a handful of ordinary glass recall potions, but the cuts and bleeding in his mouth healed near-instantly from the residual Brutal Restoration magic left over from the boss fight.
+
+The platinum guild ring, having the Shapeshifter enchantment, granted the sheer versatility of his storage ring while in his Dire Bear Form, but it was not perfect. If he forgot to resupply, it couldn’t save him, and eating potions by crushing the vials with his teeth was not ideal, nor was the taste of the vile smoke that lingered in his lungs after cracking a recall potion in his mouth.
+
+But he grinned, nonetheless.
+
+The Avatar of Annihilation had been one of the best fights he had ever had; not quite as good as Haverron, but close. The Devastator’s skill had been peerless, but finally winning after so many attempts at the elemental of arcane and death had put him in a fantastic mood.
+
+As long as we clean up this mess quickly, Ali can go make sure it doesn’t respawn.
+
+He stepped out of the Locus to make room for the rapidly arriving guild raiders, quickly checking his gains from the rushed fight. The heady rush of new strength and power never got old.
+
+Elemental Shapeshifter has reached level 196 (+9).+90 attribute points.Arboreal Sanctuary has reached level 80 (+2).Swipe has reached level 106 (+2).Brutal Restoration has reached level 100 (+5).Bear Form has reached level 97 (+6).Rampant Growth has reached level 53 (+4).Bestial Combat has reached level 92 (+3).Natural Prowess has reached level 79 (+4).Survival Instinct has reached level 94 (+4).Battle Trance has reached level 74 (+3).Last Stand has reached level 40 (+3).Cooking has reached level 29 (+3).
+
+Cooking? Huh. As in, I cooked that boss? Mato grinned to himself. Brutal Restoration was showing a level of one hundred with buffs, now. It wouldn’t be long – only four more levels – before he racked up another second-tier skill.
+
+He assigned twenty-one points to vitality, twenty to strength, and nineteen to endurance. He glanced left and right in the meantime, scanning the street in search of enemies. Seventeen points went to wisdom, granting a substantial boost to most of his attributes through Natural Prowess. Finally, he spent seven on perception and three each on intelligence and dexterity.
+
+“Where is Ali?” he asked as soon as Calen appeared.
+
+Ali had left in a frantic rush the second the boss had died. He knew her well enough to know she had probably leapt right into the thick of it to save someone – probably without enough concern for her own safety. It was a sentiment that resonated well with him, but, powerful as she was, he wouldn’t be a good friend if he wasn’t there to help her. Besides, she was a lightning rod attracting the most powerful undead, and he was itching for another good fight.
+
+“Near the south gate,” Calen answered.
+
+“Ok, lead the way,” Mato replied, stepping out into the street beside the Novaspark Academy. The normally bustling street was deserted, and he could sense the presence of the townsfolk hunkered down behind the dubious safety of barred doors and mundane walls. If anything stronger than a low-level zombie showed up, these people would certainly die.
+
+He raised his head, sniffing at the air as his nose caught the pungent scent of ozone. Distant crackles and crashes hinted at lightning magic and, beneath those sharper sounds, the desperate, bloody struggle of battle seethed and rumbled like a storm threatening to break in all its fury.
+
+We should have returned earlier. And by the expression on Lyeneru’s face, she had to be feeling the same way.
+
+Quickly turning in the direction Calen pointed, he charged down the street, and soon his Challenging Roar was dragging a broad wake of moaning zombies and rotting ghouls from several blocks in every direction. Trailing along behind him, half the raid followed, ploughing through the weaker monsters like an avalanche and sweeping the town clean of their filth and stench.
+
+Feels good. But his teeth gritted painfully hard. When will this ever end?
+
+Ali teleported in place, swapping with the shaman standing beside her and retrieving the last group of her minion army from the far-flung borders of her domain encircling the Well of Corruption dungeon. Well, not all, she left several to keep an eye on the dungeon and to provide an easy way to return.
+
+But minions with affinities and skills hand-picked to fight a two-phase elemental boss were not ideal against the tide of undead advancing through the grove of giant trees she had planted just south of the town.
+
+Especially the giant Malevolent Lirasian Oak towering behind her, with its otherwise devastating rot bolt swarm, it would be a disaster if she allowed it to unleash in the middle of town. At least she had arcane, nature, and lightning damage – not nearly as good as a half-dozen holy Fire Mages would have been, but still, something practical.
+
+“Everyone, attack the Horror,” she commanded, watching as Mieriel and Raya vanished down the street, guiding the freshly healed, but still dazed guards to safer territory.
+
+Out beyond the battlements, more banshees were coming, their screams sending shivers down Ali’s spine and sending nearby garrison guards fleeing or cowering in terror. As if the Horror wasn’t already enough to drive normal people insane. Still, with Mieriel around, and with the incredible skills her evolution paths had provided, Ali didn’t fear for their minds. At least, not for long.
+
+But the screams of the banshees reminded her of the last stand she had witnessed upon this very battlement earlier.
+
+Donella Novaspark…
+
+Turning toward the giant rot tree, she gave it orders, “Fill up the mana of the defenders on the wall.”
+
+And then she flew over to the mostly intact building that her Sylvan Storm archers were using to rain down their magical arrows. Carefully, she laid a hand on the shoulder of the highest-level one and activated her magic.
+
+Domain Respawn applied to Sylvan Storm.Champion Domain Enhancement applied to Sylvan Storm.
+
+She considered her options carefully, studying the large hole blasted in the battlements and the rubble-strewn street in which her minions tangled with the Eldritch Horror and the Death Knights.
+
+Lightning, she decided. And she needed some area denial.
+
+Zone of Destruction (Lightning) applied.
+
+She briefly considered a few curses, but the area was filled with allies struggling to reach a safe distance, or worse, trying to help and getting their minds fried.
+
+Malika, where are you?
+
+But then a bizarre idea occurred to her. She had a minion that was immune to death magic and used lightning. It also happened to be immune to physical damage and used invisibility and ambush.
+
+Summon (Dark Soul) applied.
+
+She half expected it wouldn’t be compatible, but the skill seemed to apply just fine. Maybe because the original had the death affinity, and it’s a natural match?
+
+Ignoring the impulse of curiosity urging her to study the anomaly, she gave her newly elevated Sylvan some raw power.
+
+Overpowering Strike (Archery of the Woods) applied.Amplify Skill (Self Haste) applied.Domain Enhancement complete.Your reserved mana has increased by +3203.
+
+“Finish off that Eldritch Horror,” she commanded, handing it two level-reduced Bands of Electrocution to accompany its parasitic rings.
+
+“Yes, Ancient One,” her newly minted champion boss answered, speaking the soft, strange Sylvan language of sentient plants.
+
+Then, Ali turned to the hovering Eye of Agnor that seemed to be shadowing her, “Lightning Vulnerability.”
+
+“Yes, Master. At once!”
+
+A great, crackling surge of magical energy burst outward from the strange Sylvan creature, drenching the ruined street in lingering patches of lightning. Four arms raised, wielding a matched pair of Scourge of Deadly Creep bows, and Ali’s vision overloaded as it used Self Haste, Overpowering Shot, and filled the air with a devastating hail of lightning arrows. Without the onslaught even abating for a second, it summoned several Dark Souls, all of which faded away to invisibility before turning even the darkest crevices under the rubble into blinding, radiant strobe flashes.
+
+From the battlements above, a Gnome took to the air, looking awfully disheveled and more than a little furious. With soot-stained cheeks and hair awry, she gestured with hands like a conductor and filled the air with so much lightning magic that sparks fell from her like rain.
+
+Thankfully, Ali still had her mana sight and the vastly more battle-ready eyes of her demons.
+
+Lightning strobed and crashed, assaulting her ears and blinding her eyes with intensity and afterimages. Struggling to make out anything below, she switched entirely to mana sight and the array of powerful demonic eyes floating beside her. Instantly, the details on the battlefield clarified; images distilled out of the chaos of magic, and yet again, the Eye of Agnor proved why it was the premier sentinel in her entire repertoire.
+
+Large patches of lightning magic crackled, covering the rubble and the shattered street like deadly throw-rugs. Chain lightning ripped through the Horror to arc into the Death Knights and the lesser undead that scrambled through the breach. Arrows thumped and crackled, raining down around the giant berserker troll spinning through the undead like a demented top. A several-ton top, roaring angrily and leaking a dense crimson mist of blood and fury.
+
+Ali pushed back against the assault on her mind, resisting with the full weight of her wisdom and the Mental Fortitude elixir as the Horror learned of her presence. Barbs of mind magic clawed at her defenses, screeching and grinding against the wards, ripping and tearing as they gained purchase. She gritted her teeth against the pain, pushing her monsters onward in full knowledge of the consequences.
+
+If she couldn’t stop the Eldritch Horror – this Dream Eater – here, the town was doomed, but her fear of the thing of nightmares was more from her horrific memories than the claws seeking purchase in her mind.
+
+The barriers protecting her body sparked and shimmered as powerful bolts of ice and death crashed into it, only to be dispersed and shattered by her unyielding spell, but she couldn’t release it for even one second, not even to patch the breach in the walls. I will not yield! Gritting her teeth, she made that her mantra. Never yield. Not while I draw breath. Scenes of Ciradyl’s unthinkable fate played through her mind, despair that somehow tempered the steel, the defiance, foremost in her mind. Fragmented thoughts battered her soul like invisible hammers. If we cannot stand, none will – many stand with me – I will honor them – I will honor those who have already sacrificed for me – Mom, Dad – Aunt Lira…
+
+Suddenly, a pure note from her chime sounded in the back of her mind, and the rending claws of mind magic suddenly vanished. The assault abated, leaving her contending only with the relatively benign oppressive auras of dread from the Death Knights.
+
+Phew! That’s a crazy thought, she exclaimed internally, amazed at herself. There had been a time when the auras and pressure from the Death Knights would have crippled her with fear – had crippled her mind, and now, she was familiar with something that made even that feel like a relief.
+
+You have defeated D̷͙͝r̸̡͇̓͐ę̴̣̎a̵̬̬̫̓m̵̨̞̩̓̔͠ ̵̳̉Ẽ̶̟̇ä̵͓̌̊t̵̹̖̃͠é̸̼̗́͑ȓ̶͎̻̯̃͗ – Eldritch Horror – level 204 (Mind).
+
+Ali ignored the notification and the few cheers of those guards with enough presence of mind left to understand, swooping down toward the breached wall as the giant dark and twisted eldritch horror crumpled and crashed to the ground with the intent to patch it up. But as she approached, three more Death Knights stepped through the gap. Suddenly, she found herself retreating, rapidly blocking a fresh assault of death and ice. Despite that she was hard-pressed, Ali found a measure of control as she gave ground begrudgingly, her mind whirring as she processed option after option.
+
+The first Death Knight raised a gleaming mithril shield, projecting a dense barrier of ice that hovered in the air before them and stepped forward. The continuous hail of nature and lightning arrows shattered and exploded against the powerful shield, but the Death Knights advanced, returning fire with a heavy magical assault that tore great chunks of life from her Berserker.
+
+Despite his size, plate armor, and enormous health, Tol’brekk was no tank, and he was forced backward steadily under the Death Knights’ inexorable advance.
+
+Death magic formations flickered within the shrouded form at the back, and Ali’s golden darts flitted out from her fingertips without so much as a thought, her reactions honed through grueling hours fighting these undead in the Crypt of Kings. The Damage Reflection curse unraveled, shredded by her Disruption.
+
+But she couldn’t stop the second one.
+
+Yet another Death Knight emerged from the rubble, casting the death curse on the Carnage Berserker as it spun through the attacking formation in a maelstrom of blood and axes.
+
+“Stop!” Ali screamed through her connection with the berserker, but the giant troll’s death was instantaneous as his own immense damage was multiplied and reflected back at him.
+
+As if that death was of no consequence, the squad of Death Knights advanced under the heavy, creaking shields of ice and death magic. They stepped around the enormous, bleeding troll corpse and into the town, no longer hampered by anything that might slow them down. Finally casting as a means to slow them down while she figured out a better solution, Ali threw up several domain-enhanced barriers to block them, but they systematically shattered each obstacle in their way, ignoring the hail of arrows and bolts of lightning that crashed against their heavy shields. She needed help but there was none in sight. All she could do was continue to step backward, throwing barriers into their faces.
+
+From a ways up the ruined street, a great roar tore through the din of battle, and Ali’s eyes snapped up to the sight of an enormous Dire Bear trailing ribbons of void magic and dragging a train of zombies and ghouls along behind him. Fire and arrows were tearing through his dogged pursuers, but he ignored them, charging toward the Death Knight formation without a moment’s hesitation.
+
+Mato!
+
+The death formation flickered once more, inflicting the Damage Reflection curse on him like a blooming corpse flower right as Mato charged. “Mato! Watch out!” she screamed. But somehow, he held his powerful strike, as if he could sense the danger. More figures appeared, sprinting down the street, and someone dispelled the curse. Mato attacked instantly, claws ripping through shields of ice as his void magic tore through the formations.
+
+“Did you miss us?” Mato called over, abusing his Limited Telepathy to tease her over the deafening roar and crash of battle.
+
+The sheer grip of tension and urgency suddenly melted within her. There was Calen, flying high overhead, and from a different street entirely, Malika led a second group of adventurers toward her.
+
+“I did,” she said quietly, even though she doubted her words would carry to him.
+
+In the ringing crash of steel and void, Mato chuffed softly.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,287 @@
+---
+id: cfbac041-04bd-51ee-9216-a7dcc6457e11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14"
+slug: 0014-chapter-14
+partOf: emie-ascended
+position: 14
+ownLength: 3830
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3479743/chapter-14"
+royalRoadId: "3479743"
+---
+
+Morning came quickly, and I found myself standing outside the dungeon portal soon enough.
+
+I let Mike take the lead since Cora had mentioned that he was technically the party leader. Since I hadn’t officially joined their party yet, I figured it would be a good idea to observe how the two of them operated instead of interjecting myself right away.
+
+I didn’t care too much about being in charge, anyway. As far as I was concerned, as long as Mike was competent, he could keep the role.
+
+“Ready?” Mike asked as we stepped through the sensor arch and up to the Association representative standing in front of the dungeon portal.
+
+Only Cora was wearing armor, and hers was the thin, light armor that one would expect a rogue to wear.
+
+Mike was dressed in sturdy, but unarmored clothing, though he had a stone longsword attached to his back. I assumed that he planned to use his earth magic as a form of armor and realized that we should have probably discussed our skills in a bit more depth before entering the dungeon.
+
+It was fine, though. We could have that conversation in the safe zone when we got there.
+
+Unlike the colorful swirled mana of rift portals, those leading into the dungeons of this realm were hazy and indistinct. In fact, they were quite easy to overlook if you weren’t specifically seeking them.
+
+I imagined it was part of what made finding new dungeons so difficult.
+
+“I’m good,” Cora replied before glancing my way.
+
+“Ready.”
+
+“Alright. Let’s get to it.”
+
+“Names and estimated duration?” the Association representative asked. He eyed our lacking gear with something close to worry, but said nothing.
+
+Mike provided the requisite information, estimating our stay within the dungeon to be a day or two. It was going to be a short run, mostly to earn enough funds for me to buy the enchanting focus while also allowing us to gauge how well we worked together.
+
+Once the representative obtained the necessary information, they motioned us forward, and my two provisional party members and I stepped through the hazy portal.
+
+To my surprise, we appeared on the second floor. Though we hadn’t discussed it, I’d assumed, based on their lower levels and the fact that they’d mentioned bringing some brand-new delvers into the dungeon, that they hadn’t yet completed the first floor.
+
+“Surprised?” Cora asked with a chuckle when she saw my expression. I’d never had a very good poker face.
+
+I shook my head ruefully. “I shouldn’t be. Obviously, the two of you would be capable of completing the first floor as Ascenders. You could probably do it at level one.”
+
+“To be fair, we spent almost all of our time on level one,” Mike said. “We wanted to be as familiar with it as possible if we were going to bring inexperienced delvers back with us.”
+
+“So, that was something you intended from the start?”
+
+The couple nodded.
+
+“We ran a school back home,” Cora explained. “It just seemed normal to do something similar here.”
+
+“Once we actually brought them into the dungeon, though, it became clear that we weren’t going to be able to progress in any sort of reasonable timeframe if we went that route,” Mike added.
+
+“And since we aren’t willing to give up our own future to help out a bunch of kids we have no real connection to…” Cora shrugged. “Maybe it’s cold of us, but we’ve worked too hard to just give up on any hope of progression right at the beginning.”
+
+“I don’t think that’s cold of you,” I said. “I think it was sweet that you thought to help the kids in the first place. But you have to take care of yourselves before you can take care of others.”
+
+The comment made me think back to the briefings that every commercial airline passenger had to experience each time they flew back before magic became a thing.
+
+The mental image of a flight attendant holding an oxygen mask to their face to demonstrate the idea popped into my mind unexpectedly, making my lips twitch.
+
+“Yes, we realized that,” Mike said with a small grimace. “Perhaps in the future we can find a balance.”
+
+I glanced around the safe zone. I hadn’t spent more than a few seconds here the first time that I came, so I hadn’t had enough time to see if there were any significant differences from the first safe zone.
+
+It didn’t take long to see they were basically the same.
+
+“Let’s discuss our roles and abilities before we head into the floor,” Mike suggested, saving me from having to bring the topic up. “We don’t need to know the specifics of your skills, but a general idea of what you are capable of would be helpful.”
+
+I appreciated the lack of demand for detailed information. I wasn’t sure what I would have done if the pair had suddenly demanded to know the details of every skill I had slotted.
+
+Probably left and found another party to work with.
+
+I didn’t mind sharing most things, but I didn’t want it to be a requirement for working together. Knowing someone’s build to such a degree required trust, and we’d only just met.
+
+“As I mentioned, I have an inventory skill and a healing skill. I also have a core lightning skill, the ability to teleport short distances, and Identify. All of those are listed on my profile with the Association.”
+
+Deciding to share a little extra since it was relevant and I really didn’t want to have to lie about how I was keeping herbs fresh, I added, “But I didn’t mention that my inventory is one of the rare kinds that prevent anything inside from changing. Hot food stays hot, cold food stays cold, that kind of thing.”
+
+“That’s… amazing, Emie. Really,” Cora said, seemingly shocked by my openness.
+
+I nodded in thanks. “I can also speed my movements by twenty-five percent, though it takes a lot of focus to use. Similarly, I can move small objects with considerable effort.
+
+“The last thing I’ll mention isn’t really an ability. I have the Herbalism skill. It lets me know more about the plants I encounter, which, aside from ensuring our diet will be a bit more balanced, allows me to know what is worth foraging.”
+
+It was a lot to share – almost my entire status sheet, really. But I felt it was important to share as much as I could without touching on things better kept to myself.
+
+I didn’t share the information about my Repulsion Aura since its effects could be explained by Telekinesis. I also didn’t mention the auxiliary skills, since I didn’t want to draw attention to them.
+
+Still, I’d shared most of my skills, and I hoped that Cora and Mike appreciated the trust that had been extended.
+
+“I imagine you have more capabilities beyond what skills are slotted. As an Ascender, you can probably fight at least passingly well,” Mike said. “Are you comfortable fighting in melee, or are you strictly a ranged fighter?”
+
+That was a very relevant question, even if my only true ranged offensive skill was Lightning Bolt.
+
+“I am proficient with most weapons, though I prefer staves and batons. I’m hoping to get an elemental blade skill similar to Cora’s Arcane Blade so I can turn my blunt weapons into bladed weapons as needed.”
+
+“It’s good to know you aren’t one of those ‘true mages’ who can only fight from a distance,” Cora said. “Being able to heal is great. Honestly, that alone would make it worth finding a way to make this work. But it’s nice to know you don’t need to be protected like most mages and healers would.”
+
+“I thought that was implied by my status as an Ascender?”
+
+“You’d think that,” Mike laughed. “But Cora and I have met a few who have gone on to ascend who haven’t been able to function on their own.”
+
+“They usually ascend with others, so it isn’t that big of a deal. But I’ve known one or two who ascended on their own,” Cora said, exchanging a meaningful look with her husband. “But enough of that. Let us share our abilities with you so there are no surprises.”
+
+Unsurprisingly, the rogue had a stealth skill, though the minor teleportation skill through shadows was a bit of a surprise. She also had Blade Mastery as a core skill, which allowed her to use nearly any bladed weapon with ease.
+
+That included her Arcane Blade skill, which she’d augmented to create Pierce, a skill that magically extends the tip of any blade, including her Arcane Blade, to pierce deeper. The skill also allowed her to bypass minor armor.
+
+The last skill she mentioned was a bit of a surprise. It certainly wasn’t mentioned on the information sheet.
+
+“Compressed Space Bolt?” I asked when she’d simply referred to it as a Space Bolt.
+
+“Yeah. You know it?”
+
+“I do. It was a pretty common space-based offensive skill in my old realm.”
+
+“There were maybe a handful of people in our entire realm with access to space magic. The cores for those were rare, and no rift ever consistently produced them,” Cora said. “The skill is really good, though it’s more draining than the others.”
+
+“That’s probably because your other skills are either core skills or related to your core skills,” I theorized. “Compressed Space Bolt was the only one you mentioned that was really different.”
+
+“Maybe.”
+
+Aside from Earth Manipulation, which was the only skill he’d reported to the Association, Mike claimed Create Stone Weapon, which made manifesting weapons easier and gave them a level of permanence that his regular constructs didn’t have.
+
+He also picked up two skillbooks in the short time they were in the dungeon: Arcane Armor and Sharpen.
+
+He accepted Arcane Armor because making armor out of his manipulation skill was cumbersome, especially with the amount of material being controlled. While his skill was strong enough to support such use, that was all he’d be able to do with it until he grew stronger.
+
+Sharpen worked with the manifestations he created, making them more effective.
+
+With the number of skills they claimed to have obtained via skillbooks, I couldn’t help but think I’d messed up by initially storing most of the mobs I’d killed on the first floor.
+
+It seemed logical that the first floor would have a significantly higher rate of skillbook drops for brand-new delvers, so even if I went back and redid the whole floor, it probably wouldn’t make a difference.
+
+In fact, now that I out-leveled the floor, I probably wouldn’t get very good loot if I were to rerun the first floor.
+
+“I also have a second core skill. It’s a new one,” Mike said. “It’s called Enflame, and it allows me to set any object that I control on fire. The being who guided me through the transition recommended it after I mentioned wanting to learn another element.
+
+“It works really well in conjunction with my Earth Manipulation skill. I can create stone shards and set them on fire before launching them as an attack, or enflame my longsword to cause additional damage. But since I’m not immune to the flames, I have to be careful. I’ve burnt myself a couple of times experimenting with the skill.”
+
+“That’s one of the reasons we were so eager to have a healer join the party,” Cora added.
+
+They’d each only listed a handful or so of skills, with at least two for each of them having been obtained via skillbook. If most of Mike’s old skills were wrapped into Earth Manipulation, and Cora was having trouble recovering her old skills, they were probably being pretty forthcoming about their skills.
+
+Still, I somehow expected them to have more than what they mentioned. Maybe my perception was simply skewed? Hopefully, the number of skills I shared wouldn’t seem unusual.
+
+“Alright. If we’ve covered everything, I’ll plan on doing my normal Mage Tank thing, and Cora will be our Rogue,” Mike said with a playful grin toward his wife that implied some kind of shared joke.
+
+“Emie, I’d appreciate it if you could make sure nothing sneaks up on me,” he continued, turning to me. “Feel free to fight however you like, just be cautious about friendly fire. I’ll warn you if I’m going to enflame my sword.”
+
+Cora said, “I’ll go ahead and scout our path. We didn’t explore the second floor beyond the safe zone, and the information available about most of the dungeon isn’t consistent since the dungeon evolved.”
+
+I’d noticed that, too.
+
+The dungeon hadn’t completely changed, but certain things were reported as being different from before – like the increase in resources, particularly ones that I would personally be inclined to collect.
+
+I wondered if my being the Originator of the dungeon had anything to do with it.
+
+There still hadn’t been enough time for the Association to do a full survey of every floor, but the forums had been pretty clear that the old information couldn’t fully be trusted.
+
+Cora’s form grew slightly blurry, and she almost completely disappeared when she stepped into the shadows of the trees lining the short hallway leading to the first room.
+
+Like the first floor, it was basically set up as a forest, but with distinct borders that limited delvers from going beyond the intended space.
+
+It was better than walls, I thought, even if some of the other delvers seemed to disagree. There had been several complaints about the floors’ rooms changing from what they used to be to something that felt unnatural.
+
+Like a dungeon was supposed to seem natural. The thought made me want to roll my eyes as I followed Mike along the path.
+
+I stopped occasionally to collect valuable flora along the way, including a few small sections that I dug out entirely. Mike raised a brow at my actions, but didn’t say anything.
+
+“I’m trying to keep them alive to see if I can grow them outside of the dungeon,” I explained after the third small clump of dirt and plants disappeared into storage.
+
+“Won’t putting them in your inventory kill them?”
+
+I shrugged. “Maybe not. If it does, I can always just sell them. It can’t be worse than harvesting them normally.”
+
+“What’s taking so long?” Cora asked, appearing next to us from the nearby shadows. The hallway really wasn’t very long, but it was absolutely packed with valuable plants.
+
+“Emie is foraging,” Mike said, leaving out my attempts to transplant whole clusters of herbs.
+
+“That’ll slow us down.”
+
+“It’ll also make us money,” I countered.
+
+“True. We’ll have to find a balance if we’re going to work together long-term,” Cora replied with a slight frown.
+
+Knowing she was right, I passed the remaining few clusters of forageable items without stopping. Since we’d already made it most of the way through the short hallway, I didn’t miss much.
+
+“Well?” Mike asked his wife.
+
+“Snakes hiding in the shadows, just like the original. I suspect at least ten,” Cora answered. “They aren’t very big, but they are supposed to be fast. They show up as green threats, so they’re probably still not venomous. They’ll be more annoying than anything, I think.”
+
+That tracked with what I’d read on the forums. Aside from one mention of an extra spawn that showed up after the party cleared the room, this particular room was reportedly the same as it had always been.
+
+The extra spawn was only reported by one party, and it apparently showed up when they’d been pushing it close to the nightly reset and rushed back to the safe zone.
+
+Most commenters said the party must have either missed something or been mistaken, but the original poster was adamant that it was a new spawn. It also supposedly could fly, which did not match the room’s mobs at all.
+
+I figured it was worth looking into if the timing worked out.
+
+“Alright. Cora, make sure nothing sneaks up on us. Feel free to take out any stragglers, but try to keep your distance from the main fight so Emie can use her lightning freely.
+
+“If things haven’t changed too much from before, the snakes should try to swarm us. If that happens, I’ll start off with an Earth Wave to knock them off-balance. Emie, I’ll want you to follow that up with a few bolts of lightning, if you can manage. Once they are stunned, we can move in and kill whatever is still alive.
+
+“If for some reason they don’t swarm,” Mike continued, “We’ll handle them as they come. Any questions?”
+
+Neither Cora nor I had anything to say, so we moved forward. The rogue slipped into the shadows and mostly disappeared into the surrounding trees while her husband and I remained on the path.
+
+We made it about halfway across the room before the berry bushes along the path started shaking lightly.
+
+“Get ready,” Mike whispered.
+
+As non-venomous, low-level snakes, the mobs were no real threat unless we did nothing to defend ourselves and allowed them to whittle us down. In many ways, this room was safer and easier than most of the rooms on the first floor.
+
+However, I doubted most of the brand-new delvers would see it that way. If they were anything like I was when starting out, the thought of a dozen or so snakes attacking would likely leave many of them shaking in fear.
+
+I’d obviously gotten over my fear in the centuries I’d spent facing such creatures. That didn’t mean I enjoyed fighting the unsettling serpents, though.
+
+The encounter went much as Mike guessed. He started by stepping toward the swarming snakes, causing a ripple of earth to rise and move outward like a wave.
+
+It was more than just a wave, though. The stones churning along the crest seemed to almost grind anything that they came in contact with, making the wave particularly dangerous for small creatures incapable of escaping.
+
+Though it was probably overkill, I targeted the largest clusters of injured snakes with a channeled Lightning Bolt before releasing the skill.
+
+Mike and I didn’t move in immediately since there didn’t seem to be much to target, but Cora was quick to flit from one bloody pile to the next, ensuring every mob was dead.
+
+The essence gains were negligible, which was about what I expected when defeating much weaker mobs and splitting the essence between three people.
+
+“That wasn’t too bad,” Mike said, appearing pleased. “Let’s get these things looted, and we’ll take a break to absorb the cores.”
+
+I felt a strange impulse to explore the room. I wasn’t sure why, but I felt like there was something there that I needed to find.
+
+“Why don’t the two of you absorb all of the cores while I forage the room?” I suggested as I looted the nearest pile of bloody meat, turning something useless into a couple of cores, a set of needle-like fangs, and a copper bit.
+
+“Are you sure?” Cora asked, looking uncomfortable with the idea.
+
+“Yeah. You said we needed to find a balance between my foraging for materials and our progress. I’m already a few levels higher than the two of you, so this will give you both a chance to catch up a little while I see if there’s anything worth harvesting in the room.”
+
+It seemed like a pretty good idea, I thought, even if I was getting shortchanged a little.
+
+“I won’t say no to a bit more progress, but we’ll give you more of the loot to offset things,” Cora said. “We’d rather not feel indebted to you, if it’s all the same.”
+
+I shrugged and handed them the cores I’d collected, accepting the non-core loot from each of them in exchange.
+
+“I’ll keep an eye out, just in case,” I said. “The room isn’t very big, and I doubt Cora missed anything, but that way you don’t have to worry about something sneaking up on you while you’re focused on absorbing the essence.”
+
+It wouldn’t take them long, so I quickly headed away from the path, cutting through the middle of the room, and started looking for anything that might be worth harvesting.
+
+While there was plenty of flora, nothing stood out as particularly valuable. There was some grass that could be mixed with beast food to aid in digestion, but it wasn’t rare enough to bother harvesting. In fact, such plants were commonly found even outside of dungeons.
+
+I moved on. There had been something to harvest in every room so far, so I wondered what this room had to offer.
+
+I didn’t remember reading about any resources in the room, but just because they hadn’t been listed, it did not mean they didn’t exist.
+
+I’d made it all the way around the room and was about to give up when something caught my eye. Among the fallen leaves that littered the floor of the dungeon, I could see several small, shiny objects.
+
+“Is this…”
+
+I crouched down, picking up the closest one.
+
+“No way,” I whispered before my head jerked upward, allowing me to see what had been hidden in plain sight. “A Golden Oak. There’s a Golden Oak in the dungeon.”
+
+Chills ran down my spine as I realized how lucky a find this was.
+
+I quickly collected all of the golden acorns that had fallen from the tree. I didn’t bother trying to harvest anything from the tree itself since only the acorns that had fallen would be of use.
+
+Golden Oaks were insanely rare, and almost every part of the plant could be used for one purpose or another. The acorns and wood were the most valuable parts, of course, but the bark, roots, and leaves had value as well.
+
+I wanted it.
+
+Though it was very clearly a young tree, I wasn’t sure it would fit inside the small area I’d allocated for the garden. I quickly shifted the layout of my demesne, making it so the space was no longer ‘Y’ shaped, but instead made one single line.
+
+The proportions were all messed up, but I needed to hurry unless I wanted my new party members to see what I was doing and start asking questions.
+
+Giving the center area more height to accommodate the tree, I put my hands on the trunk and pulled the large object and as much dirt as I could retain around the enormous root bed into my garden.
+
+I quickly shaped the floor to create a bowl capable of holding the roots and dirt, aligning the tree itself so it looked like it was naturally growing out of the floor.
+
+Not having time to adjust things further, I put the whole thing into stasis before rushing back to the path. Hopefully, nobody saw the hole before the dungeon reset.

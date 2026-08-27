@@ -1,0 +1,129 @@
+---
+id: 261a06cf-5297-5e8f-be2c-ff52dd08b7b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 385: From the Brink (Part 2)"
+slug: 0422-chapter-385-from-the-brink-part-2
+partOf: dungeon-of-knowledge-complete
+position: 422
+ownLength: 2370
+unit: words
+ownProgress: 2370
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2615358/chapter-385-from-the-brink-part-2"
+royalRoadId: "2615358"
+markedReadAt: "2026-06-29T20:26:20.076Z"
+---
+
+As soon as Inspiration had regenerated enough mana for her to use her ring, Ali retrieved a mana potion and downed it, reactivating Inspiration afterward while shifting her barrier constantly to counter the dodging and maneuvering of the warg. But the warg was not stupid, and after a few rounds of this, it simply sat back and howled with both heads, harmonizing eerily with itself. From the distant tunnel, two more wargs answered the call.
+
+The rift shut with an audible, creaking click, and the tiny tendrils of the last dregs of her once-beautiful domain vanished as if they had never been. The moss below her remained still, dormant, mundane, not reacting to propagate her domain.
+
+Ali’s eyes snapped up at the chorus of howls and the charging run of demonic paws. I need a minion. But she also needed three barriers to block the wargs, and she barely had enough mana for one choice. As the wargs rushed toward her, she made her decision.
+
+Two more disk barriers appeared, moving to intercept the newcomers. She didn’t have enough mana for a minion powerful enough to deal with three wargs simultaneously while they healed each other with their hellfire, so all she could do was fend them off and hope they didn’t call more to overwhelm her. Her mana ticked up slowly, both Inspiration and the mana potion giving her mana faster than her regeneration, but her minions were expensive. At least, the important ones. Worse, she would have to lock up big chunks of her mana as reserves in addition to the cost to summon them.
+
+She parried and blocked the increasingly frustrated wargs as she cast about for something nearby. She deconstructed a couple of rocks, but the amount of mana returned was hardly significant. If she had been able to find something more magical or denser, like the abyssal bloodstone, she might have been able to get more, but there was nothing like that within sight. She dumped a few items – expensive rings, miscellaneous potions, whatever she could find – from her storage ring on the ground and deconstructed those instead.
+
+Variant: Fear Ward Elixir added to Imprint: Potion.
+
+Perfect, just what I needed right now. She immediately turned around and drained her mana into her Grimoire.
+
+Rogue – Kobold – level 50.
+
+Your reserved mana has increased by 37.
+
+She winced at the suddenly inaccessible reserved mana and the loss of the entire rest of her painstakingly earned mana pool to summon a lowly kobold Dagger Rogue armed with nothing more than basic leather armor, a pair of non-magical steel daggers, and a minor health potion.
+
+“Kill that warg,” she told it, speaking draconic to the lean, scaled kobold. She indicated the demon on the far side, which seemed to be holding further behind the others, and she hoped to be able to keep them separated with her barriers. She didn’t relish killing them twice.
+
+“At once, Ancient Mistress.” Her kobold bowed deeply to her and vanished from sight. A few seconds later, he appeared upon the back of the warg, stabbing his daggers deep into its ribs behind the monster’s shoulder blades.
+
+The howl of pain alerted the others, and immediately Ali found herself struggling to keep them apart. She shifted her barriers this way and that, but she was forced to summon a fourth barrier to prevent the wargs from breathing on their injured packmate. But her barrier recovered enough mana from the hellfire breath attack to pay for itself, so she set them in place, eking a few more moments to regenerate mana with her Inspiration.
+
+Her kobold was nothing if not enthusiastic, fighting with a fervor and passion that bordered on fanatical as if he knew he was her only minion – her last line of defense – and was determined to protect her at all costs. The warg bled profusely from being stabbed over and over again as it struggled to shake the tenacious creature clinging to its back.
+
+Ali watched carefully as her mana slowly ticked up, shifting and blocking with her barriers to protect her only monster. One of her barriers cracked, and she immediately spent the mana required to repair it, setting her back substantially. But she wasn’t quick enough, and the canny wargs blasted hellfire breath through the crack, engulfing her kobold and the warg he was fighting in a cloud of black flame. Her mana ticked up again as her potion finally expired, and she made the decision.
+
+Again, she dumped all her remaining mana into her Grimoire.
+
+Acolyte of Azryet – Kobold – level 58 (Holy)
+
+Your reserved mana has increased by +55.
+
+She had hoped to hold out for a higher-level acolyte, but her rogue was badly burnt. He had lost one of his daggers and the side of his face looked like melted cheese, but still he clung on with one scorched arm and made his dagger glint and flash in the strange ruddy light of the Abyssal Realm. Ali didn’t even have to say anything; her acolyte immediately began to heal him, but it was nothing more than a stop-gap measure – she hadn’t even had enough mana to summon robes for her acolyte, instead choosing to get one more class level for her mana.
+
+A telltale whistling sizzle caught her attention, and she snapped her head up just in time to see a massive roiling ball of black fire detonate right on top of her kobold warg-rider, a fully empowered fireball that blasted her little minion to the ground. A second accelerated fireball slammed into him, detonating amid the wargs and healing them all. Two golden barriers instantly shattered from the blast.
+
+Your Kobold Rogue has been defeated.
+
+Over on an out-of-reach boulder, a Hellfire Imp bounced up and down, cackling wildly. Ali’s mana surged from the blasts of powerful hellfire area magic, but she immediately spent most of it resummoning her barriers, trying to make them as strong as possible with what little she had remaining. Another hellfire fireball flew, but this seemed to be aimed a little to the side. Ali glanced that way, and to her amazement, she saw a tiny spark, a miniscule kernel of deep vibrant green mana, kindle into existence within the tiny carpet of Verdant Moss she had created.
+
+And the fireball was flying right at it. Seriously?
+
+She didn’t count the cost, instantly throwing up a fresh barrier to protect her moss. Her mana hit zero again, but with the buffer of mana reserved for her acolyte, she didn’t experience the sudden onset of dizziness and confusion this time. A huge detonation rocked the area, spraying hellfire across the angry wargs, healing them all to full. But her barrier remained, and so did her moss.
+
+To her astonishment, deep within the moss, her domain finally bloomed. Mana spilled out from that tiny green patch like the hope and joy that surged within her heart.
+
+A distant howl yanked her away from her domain in time to see five new wargs charging toward her from the cursed tunnel. She stared at them in dismay. How are there so many? But she knew the answer to that. Even with all her barriers, she and her acolyte had no hope of fending off so many. They were the discarded minions of a dungeon – there would never be an end. She needed a monster, and she needed something strong.
+
+Desperately, she searched through her storage ring, pulling out all the items she had stashed for later. Potential candidates for adding to her Grimoire, and even the beautiful higher-level rings she had commissioned from Giddy Clicksprocket. She deconstructed all of it, wincing at the sight of some of the rarer and more valuable items vanishing into puffs of mana. Her Grimoire was out, and she needed to make her choice.
+
+Tuning out the hungry howls and the acrid stench of hellfire, Ali flipped the pages, her eyes settling on something that might just work. Mana surged through her Grimoire, causing fountains of glowing runes to burst forth into her creation. Every demon in range howled or shrieked at the sudden surge in mana density, growing frenzied in their need.
+
+Armored Drake – Dragon – level 78 (Fire).
+
+Your reserved mana has increased by +136.
+
+This better work, she thought as her mana pool hit empty once again. But the drake was magnificent, red scales gleaming in the light of flickering hellfire. Its huge maw opened wide to let out a challenging roar, and then it charged, causing the ground to shake beneath its massive paws.
+
+Ali hastily whisked her barriers out of its way. It had been a long time since she had used these, and she had forgotten the sheer awe of standing in the shadow of a monstrous dragon like this. It slammed into the wargs with unmatched fury and power, claws cleaving and fangs biting as it ripped great slashes across their faces and chests. Every single warg turned to face the predator. Every one of them howled and charged.
+
+He's magnificent. And… he’s immune to fire!
+
+For the incidental damage from fangs and claws, her acolyte was already standing by.
+
+With a few moments to finally breathe, Ali sat with Inspiration and studied the monsters. The drake stood proudly amid a sea of wargs, all of which were trying to eat him, but with fire immunity and his tough dragon scale armor, he was extremely durable. Every now and then, her acolyte pulsed with a fresh surge of holy mana, and the rejuvenation spell was replenished on him. Unfortunately, aside from the first warg who had died in the initial confrontation, none of them were dying – and the dead one had been resurrected already amid the intense surge of continuous hellfire.
+
+It was a standoff. Figures that nothing’s going to come easy, is it? Living isn’t easy after… that.
+
+Unfortunately, there was a steady trickle of new demons crawling into the cavern, clearly drawn to the mana of her nascent domain or the crashes and roars of battle. But with her barriers in the middle of the hellfire, and her freedom to spend time with Inspiration, her mana was regenerating nicely. Soon she would recover the enormous cost of the Armored Drake.
+
+She studied the problem carefully, wrestling with a decision. Has it been long enough? She glanced at the potion imprint, weighing up the factors. On one hand, a recall potion was relatively cheap, but she had no idea who was on the other side of the locus, or whether she would need to fuel the lion’s share of the mana cost herself. If that were the case, she would just fail again and be stuck here without mana again. Not yet. She twisted her lips, but the safest choice was patience. Another drake? She dismissed that idea quickly. While her drake was sturdy, he wasn’t nearly sufficient to wipe out the rapidly healing demons. She needed a damage dealer. The obvious choice was one of her evolved ice mages, but there was no way she could afford something that expensive right now.
+
+She glanced over at her fledgling domain and the smoking corpse of her kobold that lay nearby, and an idea occurred to her. With some of her precious mana, she summoned a Common Glowcap, a mushroom that would imbue her domain with arcane mana, completing the structure properly. A mushroom she hadn’t needed to summon herself in ages. Then she summoned a Forest Amanita. The pretty red and white toadstool sprouted near the edge of her domain, adding poison-affinity mana – but that wasn’t her final purpose for it.
+
+She deconstructed the dead kobold and then flipped through her Grimoire and resummoned him.
+
+“Welcome back,” Ali said, and pointed at the scorched outline of his previous incarnation on the rocky ground. “Please equip yourself.”
+
+“As you wish, Ancient Mistress,” the kobold said, bowing and immediately grabbing the dagger, and buckling the scavenged leather armor to his body. It was sadly in rather poor shape, but it would have to do.
+
+“What is your command?” The kobold was bowing to her, but she could see his eyes sneaking glances at the raging fight going on behind him. Clearly, he wanted a rematch.
+
+But he would need to wait for a minute. “Do you have Deadly Poisons?” she asked. It would have been simpler for her to check herself, but for some reason, it felt appropriate to ask.
+
+“Yes.”
+
+“Use that,” she said, pointing at the poisonous mushroom she had grown.
+
+“Perfect,” he grinned wickedly. Immediately, he began mashing it with a rock, thin trickles of his mana merging with the paste as he wielded his skill. Then he smeared a thick coating of it across the dagger’s blade and stood up.
+
+“Go kill demons,” she said. And with a grin, he vanished.
+
+It wasn’t a particularly strong poison, but she had summoned the highest-level mushroom she could, and hopefully it would be enough. Once the rogue had enough applications of poison up, she hoped that his ambush or the drake’s cleave would be sufficient to kill a warg before the others could heal it.
+
+She watched carefully as her rogue made the dagger flicker and stab. For a long while, nothing much happened, but slowly the warg’s health began to decline, dipping a little before it was healed back up by hellfire. The next time it dipped a little further. And further. Until eventually it dipped and the drake bit down on its head, shaking it back and forth before discarding the body to the side, where it lay unmoving. Less than a second later, it was hit by a hellfire fireball, and a cackling imp appeared on its back as it slowly got back to its feet.
+
+I need to do something about the imps next, she thought, but her plan had worked. The hellfire warg may have been resurrected, but they could only do that once, and she could make more mushrooms and more rogues.
+
+All I need is time. Time and mana.
+
+Ali opened her Grimoire again and got to work.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

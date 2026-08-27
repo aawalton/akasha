@@ -1,0 +1,75 @@
+---
+id: a0b0adfa-b3ce-57f7-9acb-03e5b1e01f47
+page-type-slug: story-chapter-royal-road
+title: "Books 1-4 on Amazon!"
+slug: 0007-books-1-4-on-amazon
+partOf: ends-of-magic
+position: 7
+ownLength: 645
+unit: words
+ownProgress: 645
+publishedAt: 2022-08-20
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/975954/books-1-4-on-amazon"
+royalRoadId: "975954"
+markedReadAt: "2026-06-29T20:07:29.467Z"
+---
+
+Ends of Magic Book One: Antimage released on Amazon (KU) & audible on October 10th 2023
+
+Ebook: https://www.royalroad.com/amazon/B0CJBL9RXV
+
+Audio: https://www.royalroad.com/amazon/B0CJW5H8QW
+
+A scientist from another world. A mage seeking deadly knowledge. A power that could topple an empire.
+
+Nathan's life was defined by labs and lectures until an Archmage yanked him into Davrar and made him a tantalizing offer: master magic in exchange for Earth's scientific secrets. Yet, Nathan can't shake off the feeling that darker truths lurk beneath such promises.
+
+The world of Davrar is a dangerous place teeming with dungeons and monsters – ruled by levels, Talents, and a near-infinite progression of power. Nathan will need to rely on himself to survive, forging alliances and taking every advantage he can get against those that seek to control him.
+
+His unique capacity to counteract magic gives him an unprecedented edge, making him a beacon of resistance against those who wield magic as a weapon of control.
+
+Armed with intellect and an emerging power that could dismantle the very foundations of Davrar's society, Nathan emerges not as a mere student of magic, but as its ultimate adversary: the Antimage.
+
+Ends of Magic Book Two: Adventurer released on Amazon (KU) & audible on January 30th 2024:
+
+Ebook: https://www.royalroad.com/amazon/B0CKF8FS4Q
+
+Audio:  https://www.audible.com/pd/B0CSKRDKVK
+
+The magical world of Davrar is inhospitable and strange. Terrible monsters roam, ancient dungeons lurk over every hill, and the prophesied Endings promise doom.
+
+But it’s Nathan Lark’s new home. He’s developed his antimagic and found friends in the most powerful Adventurers of his generation. They’ve sworn an oath to defend the city of Gemore and defeat the Endings.
+
+On the horizon is the enslaving mage-empire of Giantsrest, and Archmage Taeol dho Droxol hasn’t forgotten that Nathan holds secrets of Earth. Conflict is certain. There is only one path forward. Nathan and his friends must advance.
+
+Ends of Magic Book Three: Assassin released on Amazon (KU) on May 15, 2024. Audible is delayed until July 30th.
+
+Book 3 on Amazon: https://www.royalroad.com/amazon/B0CTCCKYGQ
+
+Audible: https://www.audible.com/pd/Assassin-Audiobook/B0D98LK2MF
+
+Nathan and his companions are free. For now. They're trapped inside the fortress-city of Halsmet, and every mage of Giantsrest is hunting for them.
+
+Luckily enough, they've been found by Faline, the shapeshifting leader of the Assassins of Gemore. She's pledged to teach Nathan her deadly trade. How far will he go to fight the empire of slavers? How much murder is justified?
+
+Even if they manage to win this fight against Giantsrest, it won't be the end of the conflict. A Questor from ages past lurks in the heart of the Ascendent Academy, and he won't allow Giantsrest to suffer a defeat.
+
+It is time for Nathan to face his sworn enemy, to stand against the Ascendent Academy. But how can one person fight an empire of thousands?
+
+Ends of Magic Book Four: Anarchist released on Amazon (KU)
+
+Book 4 on Amazon: https://www.royalroad.com/amazon/B0D47TCCBW
+
+Audible delayed an unknown amount of time...
+
+The Empire of Giantsrest must fall.
+
+With an army marching on the liberated city of Halsmet, Nathan and his allies are prepared to fight to the death. Giantsrest may have overwhelming magical might, helmed by the nearly immortal archmage Badud – but Nathan has a few tricks of his own.
+
+To win the war that will follow, Nathan must risk it all. With his skills as an antimage and assassin, he will disguise himself behind enemy lines, attacking where Giantsrest least expects it , in the capital – the political heart of their power, where mages jockey for status. But one wrong move would spell failure and place Gemore in the crosshairs. Striking from the shadows, he must defeat his targets and uncover the secrets of the Academy before his time runs out.
+
+Even if he fails, Nathan is sure of one thing.
+
+His enemies will learn to fear the antimage.
+
+Also - here's the map (and a link to the big version)

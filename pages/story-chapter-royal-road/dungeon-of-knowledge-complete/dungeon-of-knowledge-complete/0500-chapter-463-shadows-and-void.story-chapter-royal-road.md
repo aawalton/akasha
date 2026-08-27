@@ -1,0 +1,119 @@
+---
+id: af3e257f-9d1d-53af-b0e7-af4fe3df5834
+page-type-slug: story-chapter-royal-road
+title: "Chapter 463: Shadows and Void"
+slug: 0500-chapter-463-shadows-and-void
+partOf: dungeon-of-knowledge-complete
+position: 500
+ownLength: 2710
+unit: words
+ownProgress: 2710
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2815169/chapter-463-shadows-and-void"
+royalRoadId: "2815169"
+markedReadAt: "2026-06-29T20:29:12.100Z"
+---
+
+“I lost.” The gigantic Carnage Berserker hung her head in shame, kneeling before Ali in the center of the large arena and restoration runic circle. She was much stronger than Tol’brekk had been when he had defeated the Crimson Blade in this very spot, but Ali had high hopes for her even after watching her defeat. “I don’t deserve to be your minion.”
+
+In the darkness beyond the giant troll, two Gates stood, glowing with white space-affinity runes that contrasted sharply against the ruined buildings of ancient Dal’mohra.
+
+“It’s ok,” Ali said, reaching out to place a hand on the boulder-like muscles of her enormous shoulder. “You made them work for it. I learned a lot of magic while watching your fight. And, you are helping me – the Guild – to achieve important goals. Crucial goals. Our people must grow stronger.”
+
+“I wish to win,” the troll said morosely.
+
+The giant Berserker’s reaction still surprised her. The honor of the Trolls went so deep, it transcended death, even carrying into this new state of being, whatever it might be called. How could she address this? Did she even need to if she was ‘just’ a minion? She frowned to herself, biting her lip. Her thoughts raced. Moira’s group had been the first adventurer group to defeat her Carnage Berserker in this incarnation – she wasn’t going to count Nevyn Eld nor the troll-slayer Fetish-Painted Assassin Tol’brekk had lost to. The two prior groups had opted out quickly after testing her a few times.
+
+However, it seemed that without her personal intervention, this boss wasn’t unreasonably challenging for a properly equipped and well-prepared raid group. Their tank had excellent physical mitigation and knew how to shift the fight so that he always had his back up against a solid wall, entirely avoiding the knockback which had so quickly unraveled the Heroes of the Crimson Blade.
+
+That, and Moira had actually brought two groups as a raid to fight a raid boss; widely regarded as the bare minimum. Preparation had easily overcome the substantial level gap, pushing Moira and her group up to one-hundred-and-twenty before they decided to call it good. And to be honest, the Heroes of the Crimson Blade had been blinded by their own arrogance.
+
+“I will help you level up,” Ali offered, getting a sudden glance of surprise and a tentative smile.
+
+Ali smiled at her berserker as she looked up, surprised that she wasn’t being chastised for failure. Vivian is going to be happy. Lyeneru too. Faelon’s gold-ranked group that Moira had recruited had all hit platinum on this fight, and Ali had immediately offered to unlock their classes for them. After verifying the time, that was. Most of Myrin’s Keep was growing blasé about the regular zone-wide notifications from the shrine, but after that one incident last week, Aiden had sheepishly asked her to try to restrict her advancements to the daylight hours. Unless it was an emergency, of course.
+
+The visitors had been thorough, working their way through all the available bosses at their level, driven by a hunger to grow, constantly talking about strategy, and their plans to join the fight at Southport and test themselves against the Blind Lich’s Death Knights.
+
+And the experience had shown Ali the limitations of her dungeon. If they are representative of what is coming… She had hoped for, and to some extent, expected interest in her shrine services, but she had not expected so many groups so quickly, catching her more than a little underprepared. It left her feeling restive and irritated.
+
+So, what should I do with this space?
+
+Among many other lessons, the Heroes of the Crimson Blade had taught her that high-level delvers and treasure-seekers would value this level of her dungeon greatly – and that was something she could certainly build upon. Certainly, scouts possessing various forms of Treasure Sense would be drawn to the massive stockpile of magicite in the outer ring Mana Condenser.
+
+Shadow. That’s appropriate for here. There were several affinities she wanted to seed within her domain, unlocking more options for her shrine, and shadow was one she hadn’t explored much at all.
+
+“Let’s make you some friends,” Ali said to her giant berserker. Having her be the only monster on the entire level wasn’t a good use of space or resources. She perked up at that and finally smiled fully.
+
+Ali opened her Grimoire and summoned a small army of Moss Creepers and Floral Menaces. And two of her Ents. “Shadow plants,” she instructed, and the elemental creatures scrambled to do her bidding with the higher-level Ents plodding along behind them. Gloom Moss and Penumbra Poppies sprang up from the ruined cobbles and flagstones as she wielded her Domain Mastery to restore the buildings to a more useful state.
+
+Mana shifted like changing currents as plants sprang up, and her domain began to darken. Shadows crawled from the ruined buildings, weighing heavily upon the stone, almost alive and seeming to flicker and shift at the edges of her vision. Onward she pressed, extending the shadows across the bridges and into the second ring of the ruins. It had always been dark here, at least since the fall of Dal’mohra, but now the darkness seemed thicker, even oppressive.
+
+When she reached the outer ring, she switched strategies. The two dead mana condensers she filled with voidstone, binding it all to her domain. Then she dotted smaller chunks of voidstone across about half the ring, spilling over back into the second ring in a few places to break up the shadow with the pure black of void, somehow contrasting with the shifting darkness of shadow. Perhaps it was the sound, more than the sight; void sizzled as it disintegrated even the air, while the shadow-filled areas sounded muted and apprehensive. For her final piece, she planted radiant larches around the one remaining cracked light-affinity Mana Condenser, creating a beacon of light that would be visible across the entire level, a lighthouse calling to the adventurers who delved down here, providing a bright invitation to cross the stormy seas of shadow.
+
+Ali bound the magicite to her domain, leaving it as a treasure to be discovered, and then filled the remaining third of the outer ring with glowing light affinity trees and mushrooms, including several new variants that she had created with her continued experimentation into customizing her imprints.
+
+She quickly populated her light-affinity outpost with Luminous and Sparkling oozes, Radiant Brawlers, and Luminous and Glitter Dragonets. It was a shame she hadn’t found a way to level up the Glitter Dragonets yet, but she had achieved something almost as good. In her studies of affinity transcription, she had finally succeeded in rewriting the Poison Wyvern imprint into light affinity. It had required the inspiration of replacing the poison breath with the highly corrosive light-affinity acid from the Lux Drifters, but her Radiant Wyverns were creatures of glorious magnificence. They weren’t nearly at the level she needed for this area, but she had a few stationed below around the nature spawning pool to level up, and Seth and Naia had both promised her time and monsters to help with leveling her minions.
+
+For her void area, she summoned Scions of Azryet. Paging back through her Grimoire, she found something she had learned from Azryet’s domain before meeting him.
+
+Void Mage.
+
+The little kobolds she summoned crackled with void energy, black wisps of mana leaking from their eyes, turning the normally cute reptilian creatures into nightmare apparitions of disintegration.
+
+I need to level them up a bit, she thought. Her highest level was in the sixties, and this was supposed to be an early platinum-ranked challenge area. But she didn’t mind working on it; void seemed to be a powerful, destructive force. Maybe I can station a few in the Abyssal Realm? Or by the new Zulkora Rift to help Naia? I guess I could just ask Azryet for higher levels, but that seems too trivial a request. I can make this work.
+
+Working backward, Ali filled the shadow biome with Dark Shades and Shadow Dragons – gifts from Calen and Seth’s expedition into the Realm of Creeping Shadows behind the Infinite Maze. Then, flipping back through her Grimoire, she added several of the trolls and kobolds she had subjected to the shade transformation in that strange realm, adding some much-needed skill diversity for this area.
+
+So far, so good, she decided. The voidstone and light magicite would provide a powerful incentive for the treasure-seekers, but that was all on the outer ring, guarded by Scions of Azryet. Flying quickly through the second ring, she located the Vault and the Armory.
+
+Within the armory, previously stripped bare by herself and her friends, she summoned all sorts of assorted Eimuuran Steel weapons and armor, hanging them on the racks, just like it had been when they had first found it, only this time, with substantially higher-level gear. Then she attached it all to her domain so it could respawn.
+
+She couldn’t make official coins anymore, but she fashioned several piles of ingots: gold, silver, electrum, platinum, and even a couple of mithril bars, all embossed with ‘Dungeon of Knowledge’ in draconic runes. Doesn’t hurt to advertise, she thought, summoning a Shadow Dragon within the vault and upgrading it to a raid boss.
+
+Dragon guarding her hoard. She decided she liked the traditional theming.
+
+Then she popped over to her shrine, verifying that both shadow and void were now available. Perfect! Immediately, she got to work.
+
+[Zone] Dagger of Deep Shadows has advanced to the second tier.
+
+[Zone] Void Assassin has advanced to the second tier.
+
+Both kobolds had inherited the black scales of their unevolved rogue predecessors, but the Void Assassin was all sharp edges and absolute black, with a faint odor of ozone accompanying a soft sizzling of continuous disintegration, while the Dagger of Deep Shadows was indistinct, blurred by shifting shadows that seemed to fall across it regardless of the light.
+
+Both rogues looked at her expectantly.
+
+“Good,” she said. “Come with me.” Ali teleported back to the second-level ruins, bringing them with her. A realm of darkness was the perfect place for stealth, and so she seeded the entire area with her own personal nightmare – rogues and assassins that would stalk in the shadows, appearing from nowhere with ambushing daggers.
+
+She surveyed her work, but something still seemed lacking. Her minions did not have enough variety, for sure, and many of the light-affinity monsters required some serious power leveling. There were a few spots for bosses, which she quickly rectified.
+
+It would be nice to have some shadow priests, she thought, recalling Vernon, and the strange woman who had mind-controlled her Kobold Fire Mage and then tried to attack her shrine ceremony with her group. I’ll have to experiment with the shrine some more. Though she did have options. She could send kobolds through the shadow rift to force a shade transformation, or she could try her hand at editing the imprint directly, although the humanoid races were among the most complex she had recorded.
+
+But it was something deeper, gnawing away in the back of her mind, so she sat for a moment and considered her work. The shades and shadow dragons had come from the Realm of Creeping Shadows rift in the spirit realm, and her void monsters had come from Azryet in the Abyssal Realm – something which she wouldn’t have had if she hadn’t been stranded there, almost wiped out by Lira’s dungeon of Blooming Rot.
+
+And then it hit her. I’m vulnerable here. Still. Her domain was her weakness, even with her new Domain Architect skill. As she had reasoned before, if something new came along and wiped her domain out again, none of her preparation mattered. But there were advantages she was not making sufficient use of. Other than Naia, no dungeon she had ever encountered was able to cross the realm boundaries, either to the spirit realm or through rifts. But her mana leaked across the boundary naturally – otherwise, she wouldn’t have been able to implement the suppression array in the spirit realm.
+
+Nevyn Eld could cross it, she thought, suddenly recalling the potent formations of runic magic he had constructed within the Temple of Aman Rak. But the dungeon itself hadn’t been able to expand there.
+
+Either way, if she expanded her domain plants into the spirit realm, something wiping out her domain in the real world wouldn’t take her out, and she could simply respawn from the domain in the overlapping realm. It wasn’t a complete solution, but it would be far more robust. Of course, it was going to be a lot of work.
+
+Quickly, she switched to the Spirit Realm and got started. Here, she planted Arcanite Birch trees, Ghost Mushrooms, and carpets of Peacebloom and Soulshade Blossoms, all of which seemed to grow perfectly well, filling the gray world with the color of her mana as they began reinforcing her domain across the veil. While she completed her work, she finally realized the answer to the challenge she had felt was lacking. Smiling happily, she began summoning Ghostly Spiders, Ghost Stalkers, and every monster she had in her Spirit Beast imprint. While any adventurers would need to deal with the stealth of the kobolds, they would now also have to contend with Spirit Beasts shifting over from the spirit realm to haunt the ruins.
+
+Now, if I could just make that Fetish-Painted Assassin, she thought. Placing the Headhunter boss somewhere in her new challenge area would be a perfect way to round it out. However, she had only ever deconstructed the one, and he had been undead. She would need to travel to Meere Kada to learn his class for her trolls.
+
+She was about to pack it in and return to the library when the thought hit her. I can learn to make him. In the chaos of fighting Nevyn Eld and losing her domain, she had never gotten around to exploring the Lyton Ruins dungeon shrine, which was taking up a rather large chunk of space in her storage enchantment. Normally, she wouldn’t have bothered because it was entirely filled with undead monster imprints, but she had the Greater Undead imprint, now, and – at least in theory – she should be able to make them with the same technique she used for summoning off-affinity elementals.
+
+It took less than an hour and a quick visit to Cael and Gage, and she had inscribed all the greater undead imprints into her Grimoire and dramatically increased the level for the Death Cap mushrooms she could summon. Her Grimoire had a distinct lack of death-affinity plants to choose from, but she made do by choosing an area in the middle of the second ring and filling it with death-affinity mushrooms, Spectral Wraithroses, and dozens of chunks of death-affinity magicite. Then, she recreated the Fetish-Painted Assassin.
+
+Fetish-Painted Assassin – Undead Troll – level 132 (Shadow)Slayer (Human) applied.Overpowering Strike applied.Headhunter applied. Your reserved mana has increased by +767.
+
+Wow, my bosses are getting cheap now! She remembered when this monster had been a peak challenge for her and her friends, and now it was seven hundred and sixty-seven mana to make her own. Her only change to his skill set was to switch Slayer to Human instead of Troll, but otherwise, the monster was identical to the terrifying assassin she had faced when Alexander Gray’s Lyton Ruins had tried to overrun the Temple of Aman Rak.
+
+Hmm, she thought, watching the skull-motif undead troll fade into the surrounding shadows with the uncanny silence of the dead. She was certainly pleased with her newest creation, but she couldn’t shake the gnawing worry that perhaps she had overdone it. Again. She recalled the terror she had felt as one-shot after one-shot had systematically wiped out her trolls, stealing their abilities one after another.
+
+She knew her paranoia was warping her perceptions, but a raid-boss shadow-assassin that did more than double damage to humans and could stack Overpowering Strike with Ambush just might be a little too much to handle.
+
+Perhaps I should run this one by Calen.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

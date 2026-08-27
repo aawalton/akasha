@@ -1,0 +1,317 @@
+---
+id: 3b8067c3-952a-5ec8-82a6-91bc27d80f75
+page-type-slug: story-chapter-royal-road
+title: "17 - There's Only One Bed"
+slug: 0017-17-there-s-only-one-bed
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 17
+ownLength: 2075
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3420627/17-theres-only-one-bed"
+royalRoadId: "3420627"
+---
+
+The room that harpy-boy gave us was smaller than expected. It was fine enough for one person, but for three?
+
+That’s when things got a bit too cramped.
+
+Apparently, the boy’s sister would sleep in this very room every now and then whenever she needed a place to stay. She worked as a courier, and her job often paid for the inns she stayed at during her deliveries. On occasion, she would return to these sky islands and either sleep here with her brother or with their parents.
+
+We borrowed her clothes. We had a choice of either loose, sleeveless tunics or soft wraps. Fortunately, they fit Meriel and me just fine, but not so much for Reina.
+
+Meriel was sitting on the table at the corner of the room, jotting down notes in her journal—a typical pastime for mages like herself. Reina was doing stretches and pushups on the other side of the room. With how small the space was and the fact that they were occupying either side, I was forced to lay on the bed.
+
+Not that I was complaining. It was honestly pretty comfortable.
+
+“Training before bed?” I asked Reina.
+
+She lifted her arm over her head, reaching for the ceiling.
+
+“It’s good for the muscles.”
+
+I chuckled. “That’s very knightly of you.”
+
+[TROPE COMPLETED: THE KNIGHT WHO TAKES TRAINING TOO SERIOUSLY]
+
+Completion criteria: Witness a knight somehow turning bedtime into training time.
+
+[REWARD: +1 AGILITY]
+
+[Agility]
+
+[20 → 21]
+
+I called [INSPECT].
+
+[PROTAGONIST: Allene]
+
+Level: 119 (+1)
+
+HP: 576
+
+STAMINA: 50
+
+MANA: 550
+
+Strength: 20
+
+Agility: 21
+
+Vitality: 20
+
+Endurance: 1
+
+Intelligence: 19 (+1)
+
+Wisdom: 33
+
+A part of me expected to gain a level or two after the battle with Skoll, but I didn’t get anything. It made sense, considering we couldn’t even defeat it. I likely didn’t gain anything from killing the other Ice Wolves either because my level was so much higher than theirs.
+
+“Meriel?” I called.
+
+She didn’t look up from her journal.
+
+“Yes?”
+
+“What are you writing down?”
+
+She paused. “Why?”
+
+“I mean, I’m just curious. You seem especially focused.”
+
+She briefly glanced at me before turning back to her journal. Seeing her without her white robes was an odd sight. They were slightly oversized, so they made her look a bit bigger than she really was.
+
+“I’m writing about everything that happened today,” she said. “Especially our encounter with the beast.”
+
+Reina stopped stretching after being reminded of something so horrifying.
+
+“You said it was a Guardian,” Reina said. “What did that mean?”
+
+Meriel continued writing for a few more seconds before closing her book and standing.
+
+“It’s time for bed.” She walked over and lay next to me, turning away from us.
+
+“Meriel, I would appreciate it if you tell us,” I said. “I’ve been curious, too.”
+
+She took a deep breath.
+
+“Do you want the long story or the short one?”
+
+I yawned. “Either one works. If I get bored, I’ll just fall asleep.”
+
+Reina laid down on my other side.
+
+Wait, a minute—who decided I had to sleep in the middle?
+
+“Glacinus,” Meriel continued. “That’s the name of the region I brought you in. As you can tell, it’s… uninhabitable for people like ourselves. Only beasts ever live there. The cabin we were in was one of many.”
+
+“There were more cabins out there?” I asked.
+
+“Yes. Their locations have been mapped out long ago, before the region was engulfed in an endless blizzard. Mages like myself like to use it for training. There’s no better way to strengthen your fire spells than using them under a blizzard.”
+
+That was true, but did she really have to bring beginners like us to such a dangerous place?
+
+“And the Guardian?” I asked.
+
+“That beast was one of many. They are the ones who control the blizzard.”
+
+“How many of them are there?”
+
+“No one has an exact number,” Meriel said. “Because most people die the moment they find one.”
+
+I gulped. “Then how did we survive?”
+
+“Either because we were lucky, or the Ice Wolf was one of the weaker ones.”
+
+I turned to Reina to look at her reaction to all of this, only to see that her eyes were closed.
+
+“Fell asleep already, huh?” I whispered.
+
+“No, I’m still listening,” she replied.
+
+I nearly jumped.
+
+“But either way, I’m thankful for the two of you,” Meriel continued.
+
+Reina opened her eyes. She was just as surprised to hear that as I was. Gratitude felt a lot more sincere coming from someone with a personality like Meriel.
+
+“For what?” Reina asked.
+
+“For helping me. Allene did well using her spells to attack the Guardian and lending me enough mana to teleport us away. And Reina… you defended against it well, too. You’re quite skilled with the spear. I was also surprised to see you using magic right after you’d learned it.”
+
+Reina smiled. “It’s because you’re a good mentor!”
+
+Meriel’s ears twitched. That was debatable, but maybe Reina saw something in her that I didn’t.
+
+“I’m proud of you guys,” she said. She still had her back turned towards us, but I had a feeling she was smiling.
+
+[TROPE COMPLETED: THE STERN MENTOR ADMITS THEY’RE PROUD]
+
+[SKILL ACQUIRED: MERIEL’S ACKNOWLEDGEMENT]
+
+Type: Passive
+
+Effect:
+
+Whoa. Now that’s what I call a useful skill. I need more of those instead of something like [UNDERSTANDING ROACH]. I’d rather not be able to hear a horse cuss me out. If I could remove that skill, I absolutely would.
+
+Meriel continued, “I never thought I would say this, but you two truly do have a shot at beating the other mages’ students.”
+
+“Don’t doubt the amazing Allene,” I said. “Oh, and Reina, too. Anyways, what’s that about exactly? Are we going to fight against them or something?”
+
+She stayed quiet for a moment. “You’ll see when the time comes. I don’t want you getting distracted from our training.”
+
+She snapped her fingers, and the lantern dimmed. From the way she was breathing, she seemed to have fallen asleep almost immediately. With those dark eye bags, she must’ve been chronically sleep-deprived.
+
+I closed my eyes.
+
+…
+
+But I couldn’t sleep. You know that feeling when you can just tell someone’s staring at you?
+
+Well, I had a very, very strange feeling that Reina was staring at the back of my head.
+
+“What?” I whispered, not even bothering to look at her. I was that confident.
+
+“Can I get closer?” she asked.
+
+“Huh? Is that even possible? Your entire body’s already up against me.”
+
+Somehow, she still managed to get closer, putting her arms over me.
+
+“Ah… that’s a lot better,” she whispered. “I was about to fall off the bed.”
+
+I thought of pushing her away for a second, but she was right. The bed was way too small to fit three people. My arms were in an awkward position with Reina and Meriel at my sides. If I wanted to sleep comfortably, I’d have to put my arms over one of them.
+
+I sighed.
+
+“What’s wrong?” she asked. “Are you feeling shy? We’ve already slept together in that cave.”
+
+“Okay, hold on—don’t say it like that. And yes, that’s true, but that’s because it was an emergency. You were about to freeze to death.”
+
+She chuckled softly. “Thanks, Allene. I mean it.”
+
+“No prob—”
+
+She pulled me even closer, to the point where I was suffocating in her chest.
+
+“MMh! Hhhm!” I cried, barely managing to pop my head up. “What are you doing?!”
+
+Realizing I’d accidentally raised my voice, I glanced back at Meriel. She was still asleep.
+
+“What’s wrong? I do this with my little sister all the time,” she said.
+
+“I’m not your little sister.”
+
+“You’re the same height as her though.”
+
+…
+
+“And how old is she?” I asked.
+
+“She’s fourteen years ol—”
+
+“Okay, stop.” I didn’t want to lose my dignity.
+
+[TROPE COMPLETED: THE CLINGY COMPANION]
+
+[ITEM ACQUIRED: CRUSHED PILLOW]
+
+Description:
+
+A pillow flattened to oblivion by excessive affection between two angels.
+
+Effect:
+
+- Slightly improves sleep recovery during use
+
+This item will now appear in your [INVENTORY]
+
+I considered using the pillow immediately, but there were already three pillows for all of us on this bed. They were actually pretty comfortable, too.
+
+After a while, Reina fell asleep. I assumed she was the type to snore loudly whenever she slept, and it seems I was right. I took that opportunity to slowly get her arms off of me while making sure she didn’t wake up. I shoved her arms off a little too hard, but thankfully she was a deep sleeper.
+
+Success.
+
+I stared at the ceiling. The moonlight spilled through the window, and for the first time since I came to this world, I could finally take the time to think to myself.
+
+Just as I began to wonder about the System and its tropes, a message popped up.
+
+[If you would like to view your in-progress tropes, cast the following]
+
+[TROPE STATUS]
+
+Hm. Sure, why not?
+
+[IN PROGRESS TROPES]
+
+Of those five tropes, the first and fourth were the strangest ones. The other ones had clear completion criteria: expand my inventory, have me survive Meriel’s training, sleep through the night on this bed—things like that.
+
+But the first and fourth were different from the rest.
+
+[TROPE IN PROGRESS: YOU ARE THE ONLY ONE WITH A SYSTEM]
+
+Completion criteria: ???
+
+Punishment: ???
+
+Everything about it was completely hidden, even the completion criteria. But how does that make sense? How was I supposed to complete the trope if I didn’t even know how to?
+
+And the fourth trope was just as strange.
+
+[TROPE IN PROGRESS: THE MAGIC KNIGHT’S PATH]
+
+Completion criteria: Reina survives the training.
+
+Failure: She dies.
+
+This one completely revolved around Reina instead of me. It didn’t ask for me to help Reina or for me to witness her surviving the training or anything like that. It was just her alone.
+
+Now, was I being a narcissist for thinking of such a thing? Maybe… but I had every right to be suspicious.
+
+Feeling frustrated, I turned to my side, staring at Meriel’s back. Maybe staring at a mage while I was thinking would help me borrow some intellect.
+
+I tried my best to remember all the tropes I’ve done so far, from the moment I came to this world, to the Tree Sentinel, to the guild, and to everything that’s recently happened during our training.
+
+There were a few clear rules.
+
+First of all, a trope doesn’t need to be initiated to be completed. There were times when a trope I didn’t even know existed was completed simply because I fulfilled the completion criteria. The System seems to choose what to initiate and what not to.
+
+Second, I’m able to subvert a trope. I’m still not too sure what that means, especially since it only happened once. The System had wanted Reina to sacrifice her life for me to run away from the Tree Sentinel back then, but we managed to defeat it with her staying alive. The trope was then subverted, giving me a reward anyway.
+
+But why wasn’t it considered a failure? Technically, it should’ve been considered one, since Reina never sacrificed herself. Was it because I managed to have a better outcome?
+
+If I remembered correctly, the entire trope message was:
+
+[TROPE INITIATED: COMPANION SACRIFICES THEMSELVES FOR YOUR ESCAPE]
+
+Completion criteria: Escape while they hold the enemy off.
+
+I thought about it for a moment. The criteria never did specify that Reina had to sacrifice herself… I just had to somehow escape the Tree Sentinel. But even then, I never escaped it. I killed it. Or was that considered escaping it?
+
+I vigorously rubbed my hair in frustration.
+
+Nothing makes any damn sense!
+
+At that moment, Meriel turned, catching me by surprise.
+
+“Oh—sorry, did I wake you?” I whispered.
+
+But her eyes were closed, and she didn’t move any further. Looks like she was still asleep.
+
+Just as I was about to finally go to sleep myself, Meriel suddenly rolled on me, crushing me. I struggled and gasped for air, only for Reina to also roll on me. Why were the two of them moving so much in their sleep?!
+
+[TROPE COMPLETED: CRUSHED BY SLEEPING COMPANIONS]
+
+[REWARD: You will now pass out.]
+
+How the hell is that a reward?!
+
+I felt my vision fading.
+
+Goodbye, oxygen.
+
+Goodbye, world.
+
+Before I knew it, everything went black.

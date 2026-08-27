@@ -1,0 +1,207 @@
+---
+id: b70e0812-fc28-5fe3-af47-dbe2df78b5a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19"
+slug: 0019-chapter-19
+partOf: emie-ascended
+position: 19
+ownLength: 2309
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3502399/chapter-19"
+royalRoadId: "3502399"
+---
+
+The Golden Oak was gone.
+
+‘It’s a good thing I took the last one. I just hope that’s not why the dungeon didn’t replace it. Now I just need to figure out how to ensure it survives.’
+
+To start, I needed to do some more research. It was times like this that I really missed Lisa’s presence. My AI assistant was so helpful with things like this.
+
+“Should we search the rest of the floor?” Cora asked.
+
+“It’s up to the two of you,” I said with a disappointed sigh. “I doubt the dungeon would have moved it, but I guess it’s possible.”
+
+Clearing the second floor was faster the second time. The longest part was showing Mike and Cora what was worth harvesting and how to do so correctly. Of course, that time was dramatically reduced when Mike decided to accept the offered Herbalism skill.
+
+I was a bit surprised when he decided to slot the skill, but I understood when he explained that they didn’t want to be reliant on me for everything. If we were ever to delve separately, at least one of them needed the skill to know what was worth harvesting, especially if we were in an unfamiliar environment.
+
+“That didn’t take as long as I expected,” Mike said once the floor boss fell and the portal appeared.
+
+“That’s because Emie kept stunning everything with Lightning Bolts. It’s hardly a challenge when your opponents can’t fight back, you know.”
+
+“Hey, I’m pretty sure you ended up getting more kills than I did,” I said, alluding to the fact that both she and Mike had gained another level while I hadn’t. “I can stop if you want.”
+
+To be fair, it took a bit more essence for me to gain another level than it did for them since I was a few levels ahead, but I was trying to limit my contributions to just stunning creatures so my teammates could catch up a bit.
+
+Of course, they knew exactly what I was doing.
+
+“No, it’s fine,” Cora said, shaking her head. “We’ve already defeated these mobs before. They weren’t really much of a challenge to begin with.”
+
+“Did you still want to manually harvest this thing?” Mike asked, motioning toward the dead hearth deer.
+
+“No, it’s okay,” I said. “I could have used some of the parts, but we looted enough that I’ll have plenty to work with for a while.” I paused and then added, “That is, if you two don’t mind me keeping some of the materials to create enchantments with?”
+
+“Not at all,” Mike said. “It’ll all even out over time.”
+
+Cora looted the body. There was no skillbook this time. In fact, we hadn’t received a single skillbook for our entire second run.
+
+“Huh. I would have thought at least the boss would have given us one,” Cora said. “We should have just let you process it.”
+
+“Hindsight and all that,” I said dismissively.
+
+“What does that mean?”
+
+“It’s from a saying from my old homeworld. ‘Hindsight is 20/20.’ It means you can see things better after the fact.”
+
+“Well, hopefully, the dungeon is more generous on the next floor.”
+
+“Actually, I was thinking we should walk back to the safe zone instead of going to the next floor,” I said.
+
+“Why is that?” Mike asked.
+
+“Something I read in the forum keeps bothering me.”
+
+“Oh, you mean the crazy claim of a new mob that only comes out under the night’s aurora?” Cora laughed.
+
+“Exactly,” I said. “Everyone just chalked it up to the party being mistaken—”
+
+“No. They weren’t mistaken,” Mike interjected. “Another party posted something about it as well. It seems they went in search of the mysterious mob and discovered that the room actually does spawn a special flying creature if you’re in the room as the light begins to fade. It’s something called a Twilight Owl.”
+
+“Look at you, being all scholarly!” Cora cooed as she wrapped her arms around her husband. “It looks like Emie’s rubbing off on you.”
+
+Mike rolled his eyes at his wife’s antics before saying, “I’m just pointing out that there is an extra mob and they weren’t wrong. If we want to fight it, we have to time things just right so we’re in the room right as the light starts fading.”
+
+Since the mobs wouldn’t start respawning until the light had fully faded, it wouldn’t pose much of a risk as long as we were able to defeat the owl quickly. If the creature flew away and dragged things out, however… the respawn feature might pose a problem.
+
+“Even if the mobs start spawning, it’s the first room of the floor. We can always retreat into the safe zone. They can’t follow us there,” Mike pointed out. “Honestly, I wouldn’t mind fighting the special mob. It’s something different, and I bet the loot would be worthwhile.”
+
+“You make a very compelling argument,” Cora said.
+
+Since it was my idea in the first place, I had no qualms about challenging the creature, and we slowly made our way back to the start of the floor.
+
+“Did we miss it?” Cora asked when we stood in the dimming room, and nothing attacked.
+
+“I don’t know. We should have made it on time,” Mike answered.
+
+“Unless it was all a hoax,” Cora countered with a frown.
+
+We waited for a few moments longer before I shrugged.
+
+“Well, we might as well head back to the safe zone.”
+
+As soon as the words left my mouth, a shadow passed overhead. Without thinking, I teleported several feet away before searching the sky.
+
+I probably wouldn’t have been in any real danger from a lower-level mob, but I wasn’t willing to take that chance when avoiding damage was an option.
+
+“Looks like they weren’t wrong,” Mike said with an excited grin. “Don’t hit it with your lightning, Emie. That would ruin the fight.”
+
+“Want me to use the bow instead?”
+
+“No! Let me hit it with a Space Bolt,” Cora exclaimed.
+
+“That’ll probably destroy it.”
+
+“Does it matter? The dungeon will still give us the loot, no matter what kind of condition the body is in.”
+
+She made a good point, so I waved her on.
+
+“You missed!” Mike joked when the owl dodged the projectile.
+
+“I’d like to see you do better.”
+
+“Easy!” The Earth Magi manifested a fist-sized ball of stone with a grin.
+
+“Shrapnel is cheating!” Cora complained when the ball exploded, knocking the flying mob from the sky. Her comment didn’t stop her from darting forward and putting a knife in the bird’s chest, though.
+
+“You call it cheating only because I won.” Mike looked at me with a grin. “My wife is a bit of a sore loser. You can’t take it personally.”
+
+“I am not a sore loser! You just don’t fight fair!”
+
+“Says the rogue.”
+
+I chuckled at their banter. It was nice seeing a couple who’d been together for so long who were still playful like that. It gave me hope that I might someday find something similar.
+
+The Twilight Owl’s loot was nothing special – likely because it wasn’t our first time challenging the floor. It was disappointing, but also served as a good lesson in this dungeon’s dynamics.
+
+We spent three days in the dungeon before leaving. In that time, I leveled twice, reaching level twelve, while Cora and Mike each gained three levels, reaching level ten.
+
+Mike and Cora really enjoyed the security of my sanctuary, and Cora started making a list of things she planned to buy to make the space even more comfortable for them.
+
+I was a little nervous when we left since I hadn’t reinforced my demesne to hide the golden Oak this time. But since I’d entered the dungeon with the tree, I didn’t think the artifact would react to its presence.
+
+Thankfully, my theory was correct, and the tax quote was not obscenely high.
+
+It was still high – higher than before, even. But that was to be expected when we’d brought back loot from deeper floors.
+
+“So, what do you plan to do after we reach our first evolution and officially gain the freedom to do whatever we want?” Cora asked as we soaked together in the bathhouse an hour or so after leaving the dungeon.
+
+We’d run into Aribella on the way, and she had been quick to join us when she learned where we were going. It seemed the Water Magi also had a thing about hot baths.
+
+“I’d really like to travel the realm and see how different the various territories are. I read about an entire state somewhere in the South Beta-Seven zone where they focus on invention and artifice heavily. The pictures looked very steampunk, and I’d love to see it in person.”
+
+At roughly 1.3 times the size of Jupiter, the single-world realm in which we now lived was absolutely massive compared to the inhabited planets I’d encountered in Neohim.
+
+It was worth noting that even with the presence of magic and technology, it was still extremely difficult to travel throughout the realm. It wasn’t so bad within the same state, though even that could be extremely dangerous.
+
+However, attempting to travel to a different state, or, goddess forbid, another continent… That was a whole different matter.
+
+Part of the reason was the sheer distance involved, especially between the two dozen or so supercontinents scattered around the surface. The other factor that made traveling difficult was the roving demons that tended to gather in the wilds between the settled territories.
+
+It was part of the reason there was such a high demand for Space Magi and those with space-related movement skills.
+
+“What is steampunk?” Aribella asked, pulling my attention from its wanderings.
+
+“It’s a genre of science fiction from my home world that mixes 19th-century aesthetics with advanced technology. A lot of the technology was based around steam, maybe with a bit of magic mixed in. Obviously, the real world has a lot more magic and not as much steam, but the aesthetics were what really drew my attention.”
+
+“You’ll have to show us what you’re talking about later,” Cora said.
+
+“Okay. I can show you after we leave here, if you want.”
+
+“I wouldn’t mind seeing something like that,” Aribella said.
+
+“I wouldn’t mind either. My old realm used steam a lot, too, but I’m not sure what you mean by 19th-century aesthetics. Surely, your old world’s history was longer than nineteen centuries?”
+
+“Sure. That was just the most recent era. The world itself was supposed to be billions of years old or something. I’m not sure how mana might have altered those calculations, but that’s what I was always taught.”
+
+We chatted for a while longer as the heat from the pools soaked into our tired bodies. I casually mentioned getting a bathtub for the sanctuary before realizing that Aribella didn’t know about it. Thankfully, she didn’t seem to catch my slip.
+
+Both women followed me back to my room once our time in the bathhouse was up. Along the way, we passed an unfamiliar Ascender with dusky skin and dark green hair. His leather armor appeared well-made and well cared for, and seemed much higher quality than what all but the richest copper rankers wore.
+
+It was certainly better than what my party wore, most of which were dungeon rewards or cheap items made by low-ranked crafters.
+
+That would change once we could afford better base materials, since I fully intended to add basic enchantments to all of our gear. But even with that in mind, the obvious experience involved in the construction of the man’s armor, combined with the relatively low-quality materials, made me wonder if he’d crafted everything himself.
+
+I was tempted to ask, but didn’t want to come off as rude. Instead, I settled for a smile and a nod of acknowledgment as we passed.
+
+“That was Stephen, the archer and number three on the list,” Aribella informed us after he disappeared around the corner. “He’s nice enough, but set on delving alone for whatever reason. He was probably betrayed by his last party or something.”
+
+“Why do you think that?” I asked.
+
+Aribella shrugged. “Just a feeling I get. He doesn’t seem like he trusts easily. That usually implies some kind of betrayal.”
+
+I pressed my hand on my door, and it slid open.
+
+“Welcome to my temporary home,” I said, leading them inside.
+
+“This looks bigger than it should,” Aribella said with a small frown.
+
+“That’s what I said, too!”
+
+“It’s what they gave me,” I commented with a shrug.
+
+Grabbing the information tablet already manifested on the table, I pulled up the data I’d found on the steampunk state, Sagewright – a state known best for its metal-based inventions. In particular, I focused on the city of Goldwood, home to the Goldwood Ascender Dungeon.
+
+“Oh! This looks a lot like the pictures of the capital city of my homeworld back during the Quimbly dynasty!” Cora exclaimed as she looked through the pictures. “It’s obviously not quite the same, but I can definitely see the influence.”
+
+“That makes sense now that I’m looking for a connection,” I replied, noting the surname of the Ascender responsible for the dungeon’s evolution was listed as Arkenesis. “It looks like the founder came from your former realm.”
+
+“How ironic.”
+
+After sharing what I’d found on the quirky state, the three of us looked through the information available on several other prominent states.
+
+Some weren’t truly states so much as they were independent territories, often supported by one or more particularly powerful individuals.
+
+There were several interesting places that I hoped to someday visit, but before that was possible, I needed to reach the first evolution.
+
+Like my new friends, I was more than ready to get started.

@@ -1,0 +1,115 @@
+---
+id: a346ec1a-f327-5d1d-96b3-0aee84b3acb2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 367: Dungeon Travel"
+slug: 0404-chapter-367-dungeon-travel
+partOf: dungeon-of-knowledge-complete
+position: 404
+ownLength: 1767
+unit: words
+ownProgress: 1767
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2573701/chapter-367-dungeon-travel"
+royalRoadId: "2573701"
+markedReadAt: "2026-06-29T20:25:41.893Z"
+---
+
+As the Fetish-Painted Assassin collapsed and the chimes rang out in her mind, the death mana of the Lyton Ruins domain receded, abruptly retreating to the forest below and taking the ever-present miasma with it.
+
+Did he move the domain? Ali thought, staring at the strange phenomenon and then at the bizarrely painted troll. She had never seen anything like it and had no answers to that question, but she was grateful that the dungeon rage had finally subsided.
+
+She turned and stared at the Gate. It shone with the light of the space-affinity mana powering its runes, and a mirror-like surface gleamed in the center, displaying Dal’mohra’s second ruined level on the other side. But it was the dense domain mana rushing outward from that hole in space that grabbed all her attention. No longer subject to the mutual destruction of dungeon rage, her domain poured out, filling the area around the Gate, building up in density and power. It was impossible. Even within the Infinite Maze, mana was blocked by Gates and Portals. She had personally observed mana being unable to permeate through the rifts or to cross the boundary between the real world and the spirit realm.
+
+But mine crosses realms now, she mused, trying to wrap her mind around the very real phenomenon that unfolded before her eyes. Realm Affinity supposedly granted her mana an affinity with all realms, but she had already experienced one unmentioned side effect. The moment she had unlocked it, her domain mana had spilled across from the library into the spirit realm. Even here, as her mana flowed into the courtyard, it allowed her to see through the veil into the nearby spirit realm as it flooded both realms on this side of the Gate.
+
+That must be it, she thought, deciding that it was the only explanation that made sense. Realm affinity meant her mana was able to traverse the Gate itself.
+
+But that means…
+
+Once the thought entered her head, she could not unthink it. Holding her breath, she flipped open her Grimoire and planted a Lirasian Oak right there in the center of the courtyard, buffeted by the roiling mana of her domain. The elder tree snapped into being, towering majestically over them and the Gate, its branches shading much of the courtyard of the Temple of Blood. In seconds, the roiling flow of her domain mana spilling from the Gate quietened, calming down as the tree stabilized it. Her domain spread, quickly expanding to fill the entire courtyard.
+
+Well, that’s something!
+
+The implications were stunning. Ali approached the Gate with her breath caught in her throat and attached it and the magicite to her newly established domain on this side, and the fading glow from the crystals immediately brightened, stabilizing into a steady shine. She would no longer need to replace or recharge the crystals. This Gate would remain permanently open, sustained by her domain from both ends. And that was the most mundane implication of what she had just unlocked.
+
+She had just created an extension of her dungeon here in Aman Rak, separated by hundreds of kilometers from her main dungeon, and, unless she was very much mistaken, it seemed to be stable.
+
+“What is it, Ali?” Malika asked, coming to stand beside her as she studied the Gate.
+
+“My dungeon can travel,” she said.
+
+“Your dungeon can… oh!” Malika said, her eyes widening in realization.
+
+Ali hadn’t tested it yet, but… Minion Teleport had no range restrictions, provided both endpoints were within her domain. Her spell would be supported, provided there was an unbroken line of her domain connecting both ends. She was in her domain here in Aman Rak, and just from the feel of her skill, she knew she could make a local teleport jump to any Glitter Dragon in her library half a continent away. “Be right back,” she said, and without triggering her long-range recharge, she did just that. As she appeared in the library, she studied the notifications quickly.
+
+Your group has defeated Fetish-Painted Assassin – Undead Troll – level 132 (Shadow)Dungeon of Knowledge has reached level 122 (+4).+40 attribute points.Arcane Insight has reached level 67.Arcane Recall has reached level 34.Barrier has reached level 69.Grimoire of Summoning has reached level 46 (+2).Runic Script has reached level 61.Martial Insight has reached level 77 (+2).Empowered Summoner has reached level 57 (+2).Domain Mastery has reached level 37.Inspiration has reached level 20.Your Bone Warrior has reached level 97 (+5).Your Sacred Ooze has reached level 66 (+3).Your Subterranean Brood Queen has reached level 87 (+3).
+
+Ali nodded to herself, satisfied with the growth. The fight had been scary at the beginning when she had been caught by surprise, but they had rapidly stabilized it, avoiding the need to flee.
+
+Ten seconds later, Ali teleported back to the temple. Well, that’s going to be useful. Phenomenally useful! Although, I’ll need more bosses to protect any Gates I make. I’ll need to be careful. She eyed Tol’brekk’s massive corpse warily.
+
+Slowly, she walked over to the insane troll assassin and stared down at it. As she had seen from the one or two glimpses through its shadow shroud, its entire undead body was black like tar, painted with bones and a skull to appear as a stylized skeleton. Remnants of mana flowed through the paint, not entirely unlike the war paint skill some of the Aman Rak trolls had used.
+
+“Meere Kada assassin,” Calen said.
+
+“Well, that’s bad news,” Malika said.
+
+Indeed, it was. More than a little worried, Ali asked, “Does that mean Lyton Ruins consumed Meere Kada?”
+
+“Or Meere Kada allied with the Lich?” Calen suggested, an option that was altogether more terrifying.
+
+“All the more reason to wipe out this dungeon before the rest of Nevyn Eld’s forces make their appearance,” Mato said. “We need to stabilize this region somehow. Return the forest to Lira.”
+
+“Agreed,” Ali said, but that was a longer-term project. She reached toward the undead Troll’s corpse, grimacing at the cold, leathery texture of his skin, and deconstructed him.
+
+Imprint: Greater Undead completed.
+
+She almost dismissed the imprint automatically, but at the last moment, she recalled Val’korr’s insight. The undead had always been impossible for her to summon, and she had dismissed similar undead imprints several times before, but that was likely no longer true due to her advancements. If she planted enough death-affinity mana in her dungeon somewhere, there was a distinct possibility the undead would summon just fine.
+
+She still had no desire to summon them – but keeping the imprints for the ability to access skills for her tattoo crafting was smart, and she had the imprint space right now. Monster imprints had very little skill variety, but sentient, classed races contained a wealth of options for her to choose from. She would likely get nothing from skeletons, zombies, abominations, and the like, but this was an imprint for a Greater Undead. Monsters like this assassin that had fully functional classes: specters, wights, wraiths, and likely even Death Knights.
+
+She liked to go with her feelings most of the time, but this time, it was her rational mind that overrode her heart and made her ignore the sense of wrongness as she committed the imprint of her enemies to her own Grimoire. Somehow, it felt like writing undeath into her soul, but she knew that was just her irrational fear of the undead coming back to haunt her.
+
+“You’re keeping that imprint?” Malika asked in surprise. Her magic seemed to have calmed down, and her body reverted to normal.
+
+“Yes. For research purposes,” Ali said, feeling a strong need to state her intention explicitly. Just like the human imprint, her Grimoire had taken two chapters to encode much of the partial information, again dramatically pushing back her prepared agenda for her Grimoire chapters.
+
+Her imprint contained several completed variants: specters, ghouls, and a skeletal wyvern, but much of the bulk of the chapters were filled with a wealth of partial variants: Wights, this Fetish-Painted Assassin, and the Death Knight, Tol’brekk. Monsters she would need to deconstruct more of to flesh out her understanding.
+
+“Also, undead slayer,” Ali said, glancing at Calen to acknowledge his wisdom. She had not forgotten his suggestion, and now that her dungeon bordered on Lyton Ruins, she was certain Slayer would be a critical element of her defense strategy.
+
+Her chime sounded several more times as Sage of Learning calmed down.
+
+[Sage of Learning]Domain Magic analyzed: Slayer (Troll).Domain Magic analyzed: Overpowering Strike.Domain Magic analyzed: Headhunter.
+
+“This thing had Troll Slayer,” Ali announced.
+
+“That explains the berserker dying,” Mato said, gesturing with a casual handwave at the mountainous corpse of Tol’brekk lying face down, partially submerged in the dirt. “Must have been the life of the party at Troll gatherings, huh?”
+
+“Yes…” Ali said, with a shiver. It certainly explained a lot. Like that one-shot kill of her witch doctor when she had been busy preparing the Gate, and how it had killed Joraa in two strikes. And yes, it also made the defeat of her Carnage Berserker much more believable – the Slayer skill granted an enormous damage bonus to attacks against the target race or monster type. On top of Ambush and Overpowering Strike, this monster had been a disaster for her trolls.
+
+I’m going to need Undead Slayer, Ali decided, and she pulled up the domain magic skill she most needed to understand.
+
+HeadhunterSource: Fetish-Painted Assassin.If you make the killing blow, you may claim a skill, aptitude, or domain magic from your kill that lasts until the end of combat.Skill – Domain Magic
+
+Shit. Ali wordlessly shared the Headhunter ability with her friends. Nothing needed to be said; it explained the craziness of the entire battle. It also explained everything she had done wrong.
+
+“Wow, can you imagine if you had that when we faced the demon hordes?” Calen said, and suddenly, Ali’s imagination ignited.
+
+“So, his buffs drop when combat ends?” Malika asked, immediately sitting up straighter. “Ali, do you think you will recognize the formation of this skill in the future?”
+
+“Yes,” Ali answered, immediately realizing what she meant.
+
+“Aah, yes,” Calen said, catching the drift too. “Next time, we should back off and let the buffs drop if it steals something dangerous.”
+
+Mato clapped a hand theatrically to his forehead. “I love hindsight, don’t you?”
+
+“For sure,” Ali said, smiling at his obvious attempt to cheer her up. They had prevailed and overcome the deadly Headhunter, but with just this tiny insight, they could have made the fight drastically easier.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

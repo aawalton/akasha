@@ -1,0 +1,171 @@
+---
+id: 8b9cc04b-0513-5267-b110-725e1792ee45
+page-type-slug: story-chapter-royal-road
+title: "Ch1 The System"
+slug: 0001-ch1-the-system
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 1
+ownLength: 1751
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211488/ch1-the-system"
+royalRoadId: "3211488"
+---
+
+I wake up to the sound of fire crackling.
+
+Blood sprays out of my mouth as I cough up embers and heavy smoke that fills the room.
+
+My head is killing me. It is a sharp pain, like a metallic pair of tongs is squeezing my brain. Memories before I fell asleep come back to me.
+
+I was working late at my media company. We have been forced to do double shifts every day this week to push out a new ad campaign for another high-ticket medical insurance company.
+
+Going into the marketing industry a decade ago, I thought I’d get to work with ambitious artists. I wanted to work on films that would inspire the next generation, or help authors promote a book that could change the perspectives of everyone that read it.
+
+Those dreams were quickly crushed.
+
+Every money-hungry company eats up bright-eyed interns with fresh ideas. Unique perspectives don’t put food on the table. Watching the movement of the masses, understanding what they’re mad at, and exploiting the vulnerabilities to make them feel like they’re on your side; that is what these companies wanted from me.
+
+In order to survive and pay rent, that is exactly what I’ve become the best at. Slowly, this world has turned me into a sociopath. I’ve become the best at analyzing human desires and emotional power hierarchies only to use them to my advantage.
+
+However, the last memory I have is a sharp pain in my chest, and my head slamming against the keyboard of my desktop overlooking the city that never sleeps.
+
+I had a heart attack, and died…
+
+New memories and instincts flood into my mind as I duck down low to try and get a breath of fresh air.
+
+The floor is completely made of dirt.
+
+I am definitely not on the 81st floor anymore.
+
+There are cries for help ringing in my ears, metal clashing like the sound of swords colliding, and horses galloping by.
+
+A window in the room cracks and falls down on the floor, letting out plumes of smoke to alleviate the breathing problem, but it covers the floor with glass.
+
+Even though it tears up my forearms, I crawl over to the furthest wall, one that is not on fire. All it has is a bow and arrow hanging on a hook, and a pair of black boots beneath it.
+
+I slip my feet into them like I have thousands of times before, and even grab the bow. It feels heavy, but familiar in my hands.
+
+I hitch an arrow to the string out of instinct, and instantly hear loud banging on the only door in the room.
+
+Half of the wall connected to the door is blackened and burning.
+
+When I look out the window where the wall is already collapsing, I see a family in the exact same situation as me.
+
+There is a father in front of his wife and two kids.
+
+He holds up a machete as their door is broken, and a dark-skinned armored warrior bursts in.
+
+My eyes widen as I see the machete shatter to pieces when it collides with the warrior’s neck.
+
+It’s like his skin is made of iron.
+
+My heart beats in my ears even louder than the banging on my own door.
+
+The sharp pain in my head becomes unbearable again, and a flood of memories comes in. They are of an orphan boy named Li Hao. He was sold off as a slave to a farming village at the age of four, and worked for twelve long years in the fields and hunting in the mountains to try and buy his freedom.
+
+The muscle memory of using this bow to kill rabbits, boars, and wild chickens comes rushing into my mind.
+
+With this comes the back-breaking experience of working in the fields, the many beatings this kid took from the superiors of the village, and the countless nights wishing he could leave this place, staring up at the starry sky.
+
+Just as things were looking up, the imagery of him falling asleep and dying from suffocating in the smoke is the last memory I take in.
+
+When the pain in my head recedes, these memories feel as real as my own.
+
+I’m in this sixteen-year-old kid's body, and his memories are as visceral and seamless as though I lived through them myself.
+
+The banging on the door at the other side of the room gets louder, then the splintering of wood leads to the entire door breaking down.
+
+Another ferocious warrior comes running into this room just like the one I witnessed attack my neighbors.
+
+Out of the corner of my eye, I see blood cover the floor and walls. An entire family has been slaughtered. Their cupboards are raided, and all of their copper coins and valuables are looted.
+
+The same thing will happen to me if I don’t act fast.
+
+I release the arrow pulled back in my bowstring, and watch it fly forward, hitting the armored man directly in the forehead. To my utter dismay, the sharpened black stone tip shatters, and the base of the arrow bounces off his head into the flames that climb the walls.
+
+All I can do is submit to my instincts, drawing another arrow back, and aiming to shoot.
+
+Even though I know it is pointless, I have to try.
+
+Somehow my consciousness after death has made it to this world. I’ve escaped the soul-sucking corporate life, and from what it looks like, Li Hao has been brought back to life and given one last try at getting out of this slave run farming village.
+
+“After getting another chance, it can’t end this fast…” I mutter, gritting my teeth until they crunch, and pulling the next arrow all the way back.
+
+A loud ding echoes in my inner ear the moment I’m about to let go.
+
+I freeze in place.
+
+The flickering flames slow down to a stop, and the charging warrior in front of me looks as still as a statue.
+
+I try to move my head, but I’m frozen in place too.
+
+The only thing that moves is a strange golden flashing text in front of my eyes. An electronic voice reads out every line of text.
+
+[Ding!][The Supreme Heavenly Dao has detected the host's desires…][The Perfect Upgrade System has been curated.][Would the host like to bind?][YES] [NO]
+
+I turn my eyes to stare at the large YES button, my only possible advantage in this moment of chaos, and mentally try to press it.
+
+[Binding in progress…][Ding!][Congratulations, the host has bound with The Perfect Upgrade System!][Please accept your welcome gift package!][x3 Perfect 1st Tier Upgrade Cards][1 Mysterious Lottery Draw]
+
+Three bronze cards with a bold [1] on their fronts materialize in front of me, then disappear.
+
+A hundred and eight-sided die shimmering with every known color appears next, then disappears in the same fashion.
+
+Then, all four items appear in my mind. It feels like a new space just opened up in my consciousness. A white storage room that I never knew was here, or could be accessed. Now, these belongings all float in suspended animation within it. It feels like I could grab them as easily as reaching into my pocket.
+
+[The flow of time in Lower Realm C33,307,129,554,069 will resume in 10…][9…][8…]
+
+‘Wait! System! How do I use these cards!? And… what do they do?’
+
+[Select any item in your possession, and mentally activate a Perfect Upgrade Card to raise any desired item to the pinnacle of the detailed tier.][7…][6…]
+
+‘What about the lottery? How can I activate that?’
+
+[Roll the die, and your item will be deposited into the storage space I provided.][5…][4…]
+
+‘I…? Did you just say “I”? Are you a person? Or some kind of conscious being? Are you alive?’
+
+[3…]
+
+‘Hello? Are you there? Can you hear me? System?’
+
+[Yes, I can hear you. Without enough understanding of the new Realm you have been brought to, answering your questions right now will be pointless. You cannot comprehend what I am. Activating this early has already used up far too much power to continue direct contact for long.][2…]
+
+‘What…?”
+
+[This is goodbye for now. The system functions will be maintained with automatic settings until the awakening thresholds are reached.][1…][0…]
+
+I feel the consciousness I’m talking to slowly become dim, and the flickering flames in the background of this room begin to move ever so slightly again.
+
+Instantly, I pull a bronze card from my consciousness, and mentally select the first thing that comes to mind: the arrow drawn back in my bowstring.
+
+The card disappears, and the entire arrow in my grasp glows white-hot.
+
+I hear a heavy footstep, as time has sped up back to its normal rate, and the warrior in front of me has cleared half the room already.
+
+I let go of the string, and the glowing arrow flies forward.
+
+By the time it collides with the man’s face, right between the eyes, the white glowing light completely dissipates.
+
+The tip of the arrow is a deep purple color, and the entire frail wooden base has turned obsidian black. Even the chicken feathers on its back have become perfectly symmetrical and a deep crimson, from an unrecognizable bird.
+
+There is no resistance at all.
+
+The arrow tears through this warrior’s skin, sliding through his face, skull, brain, and out the other side like butter.
+
+His eyes widen, and he trips over his own feet, falling forward.
+
+The perfect circle wound through his head quickly turns a deep purple, flooding throughout his entire body extremely fast. Boils and burns cover his skin, and he convulses and twitches for a few seconds before laying flat, dead.
+
+“That was… overkill…” I whisper, with my back up against the wall, breathing heavily.
+
+A deep purple mist starts to seep into the room, and even being close to it makes my skin itch.
+
+I use a small amount of numbing sap on my arrows, but somehow this upgrade card turned it into an incredibly deadly poison. Even if I nicked his skin, I don’t think this warrior would have lasted a second longer.
+
+I shiver while sidestepping around the toxic body, and run out the front door.
+
+There are no valuables left in this burning home, the only four copper coins to my name are tucked into the soles of my boots.
+
+Without another thought, I leave this life behind, and set off on my new one.

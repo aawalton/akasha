@@ -1,0 +1,99 @@
+---
+id: 2ef0e7e3-f66c-50e4-8607-efd1331f3d6b
+page-type-slug: story-chapter-royal-road
+title: "Ch81 Investment"
+slug: 0081-ch81-investment
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 81
+ownLength: 1364
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3577226/ch81-investment"
+royalRoadId: "3577226"
+---
+
+Over the past five days here in the Outer Sect, I have sent emerald swallow messages to the Alchemy Peak multiple times.
+
+The first message is a description of the Violet Dusk Orchid petals possibly being sold off to named disciples, and my desire for Barrier Breaking Pills.
+
+Chen Yilin is a 40 year old 4th level qi refiner with 8th grade roots. Out of the many promising disciples of Alchemy Peak, he is overlooked as someone barely touching on ordinary.
+
+After paying off the cost of resources, selling back the qi gathering pills that he concocts, he profits a single digit amount of spirit stones on a good day. Catching the attention of a named disciple is not very easy.
+
+However, I send him a storage ring with a full thousand spirit stones, meant for bribes and favors in order to get close enough to someone with influence. Finally, one morning, I get a message back with good news.
+
+“Senior, I have used all of the spirit stones you sent me and managed to have a short talk with my named disciple master. He said the leftover provisions of inferior quality petals were granted to the peak. There are six petals in the Alchemy Peak inventory. A sample to make a single batch of pills would cost over three thousand spirit stones, most of the auxiliary ingredients are negligible in cost. Though, he says even with high quality auxiliary ingredients, best case scenario would be low quality pills. The most likely outcome would be inferior pills, most burnt or deformed and unusable.”
+
+A grin grows wide across my face.
+
+Lately, I’ve experimented with Martial Root pills, practicing the new movements toward becoming a Martial Master.
+
+The first actual day took me over 16 hours of focused movements to fully assimilate the 4 perfect grade pills.
+
+Something is fundamentally different about moving from the mid stage to the late stage of this common acquired physique.
+
+After just one trial day, the fatigue leftover made me sleep through the entire next day, and I purposefully only ate 2 pills in my next movement practice. Even this did not feel quite right, like I’m not absorbing enough of the core ingredient at once. It even feels like it’s doing more harm than good…
+
+So, instead of forcing myself through risky and harmful movements, I’ve stopped and begun saving up my upgrade cards instead.
+
+I’ve had no leads on this front for the full 5 days here in the Outer Sect, but now finally I’m hearing good news on the possibility of leveling up my qi cultivation instead. Full of excitement, I pull 25,000 spirit stones out of my system storage and activate my communication talisman.
+
+“I’ve placed 18,000 stones in here to buy the petals necessary. Pay off this named disciple the extra 7,000 to make sure he’s satisfied and keeps your agreement quiet too. I do not care if the pills are deformed or charred to a blackened poisonous state. Have him concoct as many as possible and send them back. You will be rewarded handsomely.”
+
+The emerald swallow flies off into the air.
+
+I make my morning round of checking the array flags on my spiritual vein I’m overstraining. It is currently on the verge of shifting from a high quality vein down to a medium quality vein. The process is nearing its end.
+
+It’s been 5 days out of the 7 I limited it to, and just about 215,000 spirit stones have been harvested.
+
+This is equal to the full amount I managed to farm from the vein in the Ravine.
+
+By the time the full overstrain process is complete, I will have harvested another 85,000 spirit stones, give or take a few thousand, making the total around 300,000.
+
+It’s slightly more than the 1 hour extreme mode of overstraining, but not an excessive amount compared to a full week. Even if I moved the overstrain counter out to a month instead, I don’t believe it would be enough to hit the million mark.
+
+I need to overstrain another two full perfected grade spirit veins at the very least once this one is done.
+
+When I look down at the small valley of crop fields I oversee, there is a single low quality vein at its center.
+
+This is where most of the ambient qi in this valley comes from. It is where the stewards’ caves are dug out, and is essential for the ecosystem of the spirit fields.
+
+The servant huts are all built in the outer limits of this plot, on the edges of the spirit rice fields.
+
+In my free time these past few days, I’ve explored every corner of this 122 acre plot, and have not found another vein. Even if I were to evacuate the stewards from their quarters for an hour, or even a week to overstrain this one, I would still fall short of my goal.
+
+I stare up at the sky, watching the old spirit crane activate its minor rain technique, as it does once a day to spread water over the fields. My mind wanders as I think about how I’ll manage to get my hands on 600,000 more spirit stones to achieve my goal of 1 million.
+
+The communication talisman connected to Wang Ming has gone dark. After refusing his offer to travel to Lingshi City, he’s been out of range. I think about contacting Mu Shulan, as she’d buy perfect grade weapons from me, but even this method would require hundreds of them sold to profit enough spirit stones.
+
+That would flood the market with a product far too exquisite to be mass produced normally, and too many eyes from stronger forces may start searching for the source.
+
+The system is the one secret in this world that I cannot share with a single other living being.
+
+My ability to procure perfect grade items or heavenly grade pills is one thing. Showing small perceived secrets like this actually builds trust between allies, and makes asking for favors easier.
+
+However, if enemies that are not benefitting from these secrets catch wind, they will grow bitter, and destroy everything in their path to find the source.
+
+I may be quite advanced in my knowledge of the way people think, but there are still a lot of problems in this cultivation world that are solved by pure strength and violence alone. Without Little Red, I'm basically done for if anyone above the rank of foundation establishment has it out for me. When dealing with enormous amounts of spirit stones like this, it would be quite easy to run into one of these enemies if I take a single wrong step.
+
+The entire day passes by as I contemplate my next move.
+
+There is no word back from the emerald swallow.
+
+I assume Chen Yilin received my spirit stones, and is waiting on the named disciple to finish his craft to send back the product, but the truth is still unclear.
+
+My nightly routine passes by, and I wind down by soaking in the hot bath behind my abode.
+
+Even though my cultivation progress is stagnant, after so long grinding in the steward camps, and fighting for my life every day in the undeveloped wilderness, a few days of rest does me well.
+
+My eyes are closed, and I feel the spirit vein connected to my array shift down from a high grade vein, to a mid grade vein. It has about 24 hours left before it will be right back to where it was, an average mid grade spiritual vein below this peak.
+
+I let out a long relaxed sigh, but my hair reflexively stands on end when a familiar aura ripples through my senses.
+
+Lan Xin’s voice echoes through my ears, “Overstraining a spirit vein that is property of the Azure Cloud Sect, are you?”
+
+My eyes shoot open, and I turn my head to see the fiery woman standing in my back courtyard, right outside my spiritual senses.
+
+When she takes a single step forward, an automatic scan appears and my expression shifts even more.
+
+She’s achieved the 11th level of qi refinement.

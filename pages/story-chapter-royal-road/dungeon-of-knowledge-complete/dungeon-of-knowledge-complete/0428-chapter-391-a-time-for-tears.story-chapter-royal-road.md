@@ -1,0 +1,163 @@
+---
+id: b8e201d6-febd-5428-aaf6-2d5f8270162b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 391: A Time for Tears"
+slug: 0428-chapter-391-a-time-for-tears
+partOf: dungeon-of-knowledge-complete
+position: 428
+ownLength: 2498
+unit: words
+ownProgress: 2498
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2630492/chapter-391-a-time-for-tears"
+royalRoadId: "2630492"
+markedReadAt: "2026-06-29T20:26:32.040Z"
+---
+
+“This is the last of them! Fall back.”
+
+The voice came to Malika from high up and behind her as she unleashed her radiant punches and kicks into the woody flesh of the Sylvan monster before her. She shifted onto her left foot, dodging the whistling dagger strike and lashing out with her right, her foot taking two divergent paths, simultaneously striking the monster’s head and ribs with cracking blows as she completed the fourth form.
+
+Your group has defeated Sylvan Assassin – Sylvan Elf / Plant – level 87.
+
+To be fair, she didn’t even know if this monster had ribs – it was a humanoid plant. Maybe roots? It had clear elvish features, the characteristic long ears, the tall, lithe body, but all resemblance to the elegant race ended there. Its body was hard and fibrous, formed from a dense kind of wood, and it was covered with green leaves and gnarled blackened spiky branches that sprouted from its head, shoulders, and back. In fact, it looked like the unholy fusion of a Dryad and an Elf – one that seemed to have no need of a nearby tree to ensure its continued survival.
+
+Malika teleported to the ruins of the house, appearing on the roof beside the second monster and unleashing her Soul Strike in a measured sequence of high-speed punches, all the while dodging and weaving around the steady stream of flaming arrows pouring from Calen’s bow. Cinderstrike. It was a fortuitous coincidence that his powerful bow’s primary element was fire – it seemed to work so well against these ambulatory tree-people. The four-armed Sylvan monster flickered, teleporting further down to the street, but Mato lay in wait to greet it with his void-shrouded claws and fangs.
+
+She sprinted through the air, dodging the hail of green-and-black magical arrows fired from her adversary’s twin bows, easily reaching it before the recharge on her teleportation skill expired. She unleashed the ninth form, bursting through the multiple attacks in less than a second. Wood splintered and bark buckled beneath her knuckles and elbows.
+
+Your group has defeated Sylvan Hunter – Sylvan Elf / Plant – level 92.
+
+Quickly, she touched down and looted the bows and daggers from the several monsters they had defeated, leaving the corpses – she had more than enough stored already. Then she rejoined Mato as they began to fall back toward the south gate, keeping an eye on Calen for signals of danger as he scouted high above.
+
+Behind her, the dungeon consumed the corpses of their foes, turning them all into small sparkles of mana, just like Ali used to do. Her worries for Ali crashed back into her heart with just as much force the moment she was no longer fighting.
+
+Ali never liked summoning people, she thought as the motes slowly dissipated into the air. This dungeon, made from the undead corpse of Lira, had no such qualms. As soon as the dungeon had reached the town, it had begun making these humanoid plants – Sylvan monsters – and it was clear it had learned them from consuming elves, humans, dwarves, and other races from the townsfolk it had massacred, somehow crossing them with dryadic attributes and racial features.
+
+As she sprinted out of the remains of the south gate – now more plant-covered ruins than an actual gate – Malika found progressively more and more ranged spells and arrows raining down into the fungal creep and the relentless creep spores as they came into range of the waiting raid group.
+
+“No more survivors,” Calen said as he landed beside Aiden and Vivian.
+
+“About one third of the town died, then,” Aiden said, frowning.
+
+“One third?” Malika had expected it to be worse. Much worse, in fact. Especially given the power and numbers of monsters this dungeon was continually spitting up. It was highly aggressive, even ejecting monsters into the surrounding area to hunt down the fleeing townsfolk.
+
+“Yes, we were fortunate the raid groups were all about to do delves and were ready,” Vivian said. “It could have been far worse.”
+
+Although Malika had to admit it was difficult to see the true magnitude of the destruction; there were no bodies. The resurrected Blooming Rot dungeon had consumed everything, leaving only the empty stone husks of buildings and battlements to mark the once-busy town of Myrin’s Keep and its inhabitants.
+
+“Let’s fall back to the camp,” Vivian said after several long moments studying the ruins. “It will be easier to set up shifts to take care of the continuous dungeon break.”
+
+Malika followed, and as her Relentless began to fade, the exhaustion hit her hard. It was not physical exhaustion; she was full on stamina, but she had been fighting in the ruins of Myrin’s Keep, killing monsters and searching for survivors for hour after hour. Her mind and heart were filled with a bone-deep weariness, and she simply followed along in silence, allowing the fresh raid group to handle the monsters while all the thoughts and worries she had been ignoring began to weigh on her once more.
+
+Before long, she entered the reclaimed southern forest, leaving Aiden and his raid group behind to defend against the never-ending stream of Fungaloths, Sylvans, and Braconids, and the sounds of battle faded to a muted shadow of what she had endured all day.
+
+She walked silently, her heart heavy.
+
+“You ok?” Mato asked, falling in beside her.
+
+Am I ok? It was such an incongruous question that she almost laughed, but she suppressed the urge, knowing that if she let it out, the fragile emotional defenses she had erected around her heart would shatter, and then she would probably lose control to the dark void in her heart.
+
+“No,” she answered. “No, I’m really not.”
+
+Mato just walked beside her, sharing her silence for a while as they made their way under the new oak trees that he and Lira had regrown to reclaim this space. It was, she thought, what Lira had truly wanted – and a stark contrast to the twisted abomination of plant growth that was now consuming Ali’s dungeon and the whole town.
+
+“Rezan is dead,” she said, finally putting voice to her grief. The elder had been an incredible mentor to her, even saving her life when her bloodline had gone awry. He had taught her so much, even helping her to reclaim much of the respect she had lost for her people and culture. But that was not all that weighed on her. “And I think Ali…” she choked up, unable to say it. The idea that her friend might be gone was too hard to bear. Ali had always believed in her, seen her with her deepest fears exposed, and still accepted her without question.
+
+She couldn’t be gone.
+
+“Ali is stronger than you think,” Mato said with a quiet seriousness that somehow caught along the edges of Malika’s heart.
+
+I… I want to believe.
+
+She entered the clearing to find the refugee camp completely changed. No longer a sprawling mess of uprooted and injured people, the wood elf artisans – nature and wood mages they had rescued from Ciradyl – had transformed the clearing and the surrounding forest into a miniature town, building shelter and accommodation for all the displaced residents.
+
+But Malika just couldn’t shake the feeling that she should have leapt through that rift and made sure Ali had come back. If only…
+
+“Go find Seth and give him the corpses,” Mato said. “I’ll have some dinner ready when you get back.” He was already setting up his cooking gear beside an already lit fire.
+
+“Ok,” Malika said, grateful to have something simple and constructive to do. She knew she was being a downer, and that the people around her had their own very real problems, but she simply couldn’t help it. Perhaps the walk will be good for me. She got up to search for Seth. The necromancer had asked her earlier to help him collect corpses because the dungeon was aggressive about deconstructing everything, and she had agreed to help him. Her rings were full.
+
+It didn’t take too long for her to find him, even sitting by himself at the edge of the forest, watching the ongoing battle on the open plain between them and the ruined town. He was a necromancer; everyone knew who he was. It had been a simple matter to ask around, and many people had pointed her in the right direction.
+
+“Hey, Seth,” Malika said, greeting him before she approached, trying not to startle him, but from the skeletons standing around, she was certain he could already tell it was her.
+
+“Hi, Malika,” he said, turning around. “How was the search?”
+
+“We rescued almost two-thirds of the town, but that was the last, I think.”
+
+He nodded, turning to study the battle for a bit more.
+
+“I got you some corpses,” she said, and proceeded to empty both her rings. There was a large assortment of monsters that she, Mato, and Calen had killed over the course of the day. Everything from the massive fungal aberrations to several dozen Sylvan monsters with various classes. She dumped out bows and daggers, and whatever other weapons she had collected, too.
+
+“Wow, thank you!” Seth exclaimed, leaping to his feet to examine the rapidly growing mountain of dead plant and fungus monsters she had collected. “Thanks for collecting the weapons. I think having Ali’s dungeon around to make whatever monsters and gear I wanted has spoiled me a bit. Well, a lot.”
+
+The world suddenly grew blurry, and her throat closed, choking back the sob that had been threatening to break through all day.
+
+“Uh, what did I say?” Seth asked, looking up from his corpses.
+
+“Aah…” she took a deep breath, trying to collect herself and wiping her eyes. “Ali didn’t make it back.”
+
+He stared at her in surprise.
+
+“We were chased to the end of the rift chamber by the new dungeon,” she said, still gathering her wits to make a coherent explanation. Not many people knew yet, but it would soon be common knowledge. “There was a Mana Eater. Ali and Calen were knocked through the rift, and it closed. Mato and I fled.” She swallowed. “Calen was sent back unconscious, and then a second teleport appeared, but it failed because the locus was out of mana. Ali never came back.”
+
+She was breathing hard, harder than after the day-long fighting.
+
+“I… I think she’s dead.” As she finally said the dreaded words, a sense of finality and certainty came crashing down on her, crushing her heart under a mountain of pain. Her friend was gone, forever. If only she had tried harder to save her, there must have been something she could have done.
+
+“Don’t worry, she’s alive.”
+
+“Don’t try to cheer me up,” Malika snapped, finally losing her temper. “I’m not in the mood for it.”
+
+“I’m not. She’s alive.”
+
+“You can’t know that.”
+
+“I have her mentorship enchantment. It’s still working,” Seth said.
+
+Malika stared at him as her heart was hit first by grief as she was reminded of how she had learned of Rezan’s sacrifice, and then the sudden relief and hope that his comment kindled within her.
+
+Ali’s alive! How?
+
+Then, the tears came, a flood like the bursting of a dam, and she was helpless to hold it back. Seth, bless his heart, simply waited beside her in silent companionship and let her cry it out.
+
+Finally, she sniffed and wiped her eyes again. “Sorry, I’m being a crybaby.”
+
+“I would have cried too, if Ali had died,” Seth said soberly.
+
+She glanced up at him, but he seemed serious. “Now you’re just trying to make me feel better.”
+
+“I’m serious. She was the one who believed a necromancer could be a good person.”
+
+It was certainly true, without Ali, likely Seth would have been killed or, at best, exiled from the town. Not even the Guildmaster had been excited about having a necromancer. “But cry? You?”
+
+“I cried when we killed Alexander Gray,” Seth admitted, staring off into the distance with a weight to his expression that she instinctively understood.
+
+“You did?” she asked softly. Seth always seemed to be so in control of his emotions; she simply couldn’t see him breaking down. Although I did, even with Clarity.
+
+“He killed my only family. I was forced to watch my gran’s skeleton rip itself out of her dead body, and I guess I bottled all of that up inside me somehow. When we finally defeated him in Lyton, it all came rushing out,” Seth said, poking one of the corpses with his foot and shifting about awkwardly. “I’m a very ugly crier.”
+
+“Thank you for confirming she’s alive, and for understanding,” Malika said. Even as surprising as it was, she felt better for him sharing his confession with her.
+
+“If she’s stuck on the other side of the rift, then all we have to do is destroy this dungeon and go there and rescue her,” Seth said. “With these corpses, I can begin fighting. Although we might have to get stronger, if the levels of these are anything to go by.” With that, he waved his hand dramatically, and the corpses began to stir.
+
+Just like that? Kill the dungeon and rescue her? It sounded like the kind of plan Mato would come up with. Charge! But, as difficult as it would be, the simplicity of his plan lent her the glow of hope.
+
+“It’s not your shift to fight, though?” Malika said. Aiden’s raid group was struggling a little with the horde of monsters, but they needed to use shifts, so the raiders didn’t get too tired and make fatal mistakes.
+
+“I couldn’t fight effectively until I got some high-level corpses,” Seth said. “But now that you brought these, I can probably be self-sustaining, replenishing any losses by killing what the dungeon spits out. These Sylvan archers will make good specters, and the Fungaloth aberrations will be great tanks. And of course, I don’t need to sleep anymore with my Life Drain, so I will just fight until we are strong enough to wipe out the whole dungeon.”
+
+Necromancers… Malika was a little jealous of his class; summoners had so many advantages. Minions did not tire from battle. He could even heal them, and fighting against a dungeon break like this, he would have an infinite supply of replacement minions. Although it did seem incredibly hard for him to get started without help.
+
+“Ok, I’m ready,” he said, storing the remainder of the corpses and gear she had collected. “Come and find me when you’re ready to go and rescue Ali. I’ll be out there.” With that, he turned toward the battlefield, stepping out of the trees and into the nighttime battle in the middle of an entire army of zombie monsters and glowing specters.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

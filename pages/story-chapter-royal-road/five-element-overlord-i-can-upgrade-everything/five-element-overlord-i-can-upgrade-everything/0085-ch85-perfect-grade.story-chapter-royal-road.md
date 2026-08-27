@@ -1,0 +1,149 @@
+---
+id: 33cde1f9-9415-55a4-8a98-e9b204d31a09
+page-type-slug: story-chapter-royal-road
+title: "Ch85 Perfect Grade"
+slug: 0085-ch85-perfect-grade
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 85
+ownLength: 1957
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3596423/ch85-perfect-grade"
+royalRoadId: "3596423"
+---
+
+There is a constant intuitive awareness in the back of my mind that if I wish to leave this place, it will be just as easy as taking a single step on these floating stairs.
+
+I take a look over at Little Red, deep inside the meter high crimson flames that flow out from the floor of this disk at its most intense point near the edge. The toad looks content, and fully focused.
+
+I’ve watched him sleeping by my bed many times in the past, and have never seen any ambient qi in the air ever enter his body.
+
+However, right now, I watch the flames of this array flow through him, seeping into his single mutated special grade spirit root.
+
+“I’ll leave you be…” I murmur, then simply imagine myself leaving this place.
+
+In a motion as quick as a blink, the golden clouds around me disappear. The three floating islands are gone from my senses as well.
+
+My feet leave the hard jade floor, and fall back onto the uneven rocky dirt of the wasteland valley between two abandoned mountains.
+
+I make my trek toward the nearest spirit vein, and use another upgrade card on the spot to turn the frail white glowing inferior grade vein the size of my arm into a kilometer long behemoth that moves the very earth it rests beneath.
+
+An interesting phenomenon occurs with this vein, just like the other 4 I overstrained before.
+
+The displaced earth mostly falls back into place, settling like the wasteland was barely altered. I didn’t sense it before, but after the Black Iron Mountain incident, and Lan Xin’s recount of it, I do get a strange sensation after draining the power out of these entities.
+
+If the ambient qi was allowed to flow out into this valley, over time, it would certainly turn it into a completely different environment.
+
+As I stow away just over 215,000 spirit stones along with my array flags, I think about what to do with the remaining 31 spirit veins.
+
+Overstraining every last one of them would bring me millions of spirit stones, however that may not necessarily be what I need most right now…
+
+The plan was to upgrade all of the veins, overstraining the ones I need to unlock this door, and set the rest on manual collection to max them out at 1,000 spirit stones a day each. It would make for a large long-term source of income. I wasn’t expecting there to be more functions inside this hidden realm that cost spirit stones. So, both short and long term profits are necessary.
+
+I upgrade another vein regardless, set up the concealment array, and get ready to press the overstrain function again, but a small black dot comes into my vision in the sky.
+
+Instead, I just set it to maintain its gathering function, and step away from the vicinity of this vein’s center.
+
+The black dot grows, and it turns into the shape of a flying vessel.
+
+It descends down toward me, and Lan Xin’s figure hops off its front to throw me my spatial ring back.
+
+“The arrays you asked for, and the pills. I didn’t know what quality you wanted, so I just bought the best they had in stock. A full vial of Qi Nourishing Pills wasn’t hard to find, but I only managed to find three Marrow Cleansing Pills in the whole city.”
+
+I raise an eyebrow, and break the ring’s imprint to look inside.
+
+There are thirty sets of dark black glossy flags.
+
+I pull one of them out, and find that they are tier 1 versions of the white jade flags I already use. Each flag is capable of holding about 10,000 spirit stones, and the instruction manual that comes with the set says it’s capable of collecting the full natural released qi of a perfect grade spirit vein.
+
+The black stone flags I hold do feel sturdy, far better quality than anything I’ve seen in the Red Pine Market. However, they do not have the same perfect grade feel that items altered by my system’s cards do.
+
+They are at best extremely well made high grade artifacts. Still, they will do just fine. I nod happily and stow them away, then pull out the two vials of pills.
+
+One has 10 lush green jade elixirs, while the other has 3 brown milky elixirs inside.
+
+I uncork both, and the potent scent of Qi Nourishing Pills and Marrow Cleansing Pills wafts out.
+
+They do not smell anything like the low quality elixirs I’ve seen sold in the Stone Valley Stronghold and Red Pine Market, but they’re certainly not up to par with heavenly grade pills.
+
+My eyebrows scrunch, “What quality pills are these? Is this what Lingshi City considers perfect grade?”
+
+Lan Xin shakes her head, “No, of course not. Not in Lingshi City. You think we could get patterned pills this far away from the Nine Rivers City Capital? Those are still high grade pills, the best in the city. I still almost used the full 15,000 spirit stones extra to procure them for you, even with my special discounts. Marrow Cleansing Pills of that quality were the toughest to find.”
+
+A thin smile shows on her face, and just from the unease in her eyes I can tell she wants to ask me something, but I interject instead.
+
+“You said patterned pills? Like the three golden vine patterns? Heavenly grade pills can be found in Nine Rivers City?”
+
+Lan Xin’s indecisive gaze shifts to one of confusion, “No… Heavenly Grade? Three golden patterns? I’ve never heard of such a pill. I’m talking about perfect grade pills, when a single white outline of a vine pattern wraps around an elixir. They’re extremely rare, and only appear in special circumstances when a master of alchemy at least a full tier above the elixir’s crafting level creates a flawless pill devoid of nearly all impurities.”
+
+I stow away the vials, and mentally note this fact.
+
+The only reason I know my upgrade pills are Heavenly Grade is because Xu Hong told me so… She said that three golden vines like this appear when the item in hand is recognized for its perfection within a realm.
+
+Lan Xin’s description makes me believe maybe there are different levels of recognition, but I have not seen this single white vine pattern she speaks of for myself so I don’t know.
+
+The fiery woman’s gaze shifts back to unease once I don’t respond, and even her fingers start fidgeting.
+
+She forces out a light cough to make me look up, and murmurs, “I uhm- I was wondering if you had any more spirit stones to spare, that you could loan out to me. I could pay you back with interest once we return to the Sect.”
+
+My gaze tightens, “How much do you need… and why?”
+
+“Just 30 thousand… It's to rent out a perfect grade vein for a month. I tried to concentrate over the high grade vein I have rights to use in Lingshi City, but the qi quality is too thin. Ever since I reached level 11, I can feel the disparity far more. Even being out here in the wastelands is quite painful, it’s drying up my meridians as we speak.”
+
+“No.” I shrug.
+
+“What- what do you mean no…?”
+
+“I mean no, I don’t want to loan you spirit stones. Follow me, I have a better option.”
+
+I turn around and walk back toward the spirit vein I upgraded before she touched down.
+
+“Follow you where? What are you talking about?”
+
+“This property is held under your name. You’d find out what I’m doing on it eventually with your spiritual senses, so I might as well bring you in on one important secret without holding back.” I wave for her to follow, and don’t say another word.
+
+The young woman looks completely offended that I told her no, but after a minute passes and I leave off into the distance, her dismissive expression slowly cracks and she follows after me.
+
+We both stop about 30 meters in front of the center of this perfect grade vein, right outside the gathering array.
+
+“Here. You can use this perfect grade vein to cultivate all you want. When I return to the sect, someone is going to need to look after this property. I mean in both defending it from intruders, and also collecting the spirit stones the other veins produce.”
+
+I step forward, and Lan Xin hesitantly tiptoes after.
+
+Her expression turns from distrust and resentment to one of awe and confusion.
+
+The full unconcealed aura of a tier 1 perfect grade spiritual vein radiates out of the ground.
+
+It comes out of a dirt pit that was already dug by the previous miners here, but now the bottom of the pit is a thin layer of dirt covering a 10 meter wide white crystalline spirit vein.
+
+“This… was not here when I bought this plot.” she runs forward to the center of the vein, feeling the particles in the air with raised hands, and wide eyes staring back at me.
+
+“Indeed, it was not, and I plan to keep it that way in the eyes of the public. So, will you watch over this plot in exchange for unlimited access to this vein?”
+
+“How? Tell me, how did you rejuvenate a spirit vein? It shouldn’t even be possible. Spiritual entities can only degrade over time, that's a common law of nature. I- I’ve never seen anything like this-”
+
+I cut her off abruptly. “It is a complicated process, one that is not of your concern. I would be happy to find someone else to watch over another plot that does not pry into my secrets.”
+
+She goes silent, and her soul fires up with indecision. However, it quickly settles as her bonded serpent wakes up, and a glint of greed passes through both of their gazes.
+
+“I want another five perfect grade fire stones. I won’t ask anything of your secrets as long as the benefits are good enough.”
+
+“Don’t you think that’s a bit much? I’ve already far exceeded the value in fire stones any of your help has been so far.”
+
+“What? Did you run out or something?” she snorts out with a grin.
+
+“No. I just don’t like overpaying a second time because of my kindness. You haven't even touched the other 4 stones yet, and you’re already asking for more.” I cross my arms, and look deep into her soul.
+
+The erratic fluctuations are not fully controlled. It’s extremely unpleasant to be in the vicinity of, like indecision, anxiety, and greed are all fighting to be held back by her facade of arrogant confidence on the surface.
+
+I turn to leave, “How about this. I’ll continuously supply you with fire stones as long as you continue to watch over this property for me and collect the spirit stones from every vein. Plus, unlimited access to cultivate on this perfect grade vein.”
+
+She opens her mouth to answer with something snarky as I walk out of the array, but only “Okay, deal.” comes out in a slightly more subdued tone.
+
+I smile, and quickly leave out of her sight toward the nearest tall flagpole in the distance.
+
+Once over a kilometer away, certain that I’m alone standing above another inferior grade spirit vein, I pull out an upgrade card ready to use the 16 left on a few veins to begin this operation.
+
+Yet, the sensation of an emerald swallow swooping into my spiritual senses stops me.
+
+Finally, a message coming all the way from the Alchemy Peak 2000 kilometers away in the sect has arrived.

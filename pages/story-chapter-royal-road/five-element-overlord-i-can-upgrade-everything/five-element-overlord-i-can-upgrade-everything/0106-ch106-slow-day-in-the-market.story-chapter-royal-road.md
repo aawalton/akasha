@@ -1,0 +1,161 @@
+---
+id: 8fe91472-4027-5fdc-a17b-4479d05f0649
+page-type-slug: story-chapter-royal-road
+title: "Ch106 Slow Day In The Market"
+slug: 0106-ch106-slow-day-in-the-market
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 106
+ownLength: 2618
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3734888/ch106-slow-day-in-the-market"
+royalRoadId: "3734888"
+---
+
+The Red Pine market is still within close range of many nearby Outer Sect peaks. It does have access roads connecting to weak qi refining clans and smaller towns, making it out of the direct control and private property of the Azure Cloud Sect. However, it is close enough to allow disciples some freedom to visit.
+
+As an outer sect member of the Beast Mastery Peak, more specifically a spirit rice farmer, I am not obligated to notify the sect to travel here, or apply for leave like I did when traveling further away to Lingshi City with Lan Xin.
+
+The rush of cold air flies by my face as I make my way out of the collection of spirit field plots. I fly a few hundred kilometers away from any outer sect peaks and toward the market, but a tingling sensation in my system storage guides me to pull out a communication talisman.
+
+It is a much higher grade one than the others in my storage. When I click it on, a jovial fat man’s voice rings through.
+
+“It is Wang Ming! I’ve come back from my family matters in Lingshi City, but I have something important to ask- or to tell you. Is it alright if I come to your spirit fields?”
+
+The wind whistles by as I try to make sense of this message.
+
+He doesn’t sound like he’s in trouble or like he’s going to ask for anything valuable.
+
+Wang Ming seems excited, but about what…?
+
+“I’m not home at the moment. I’ve actually just left for the Red Pine Market. If you want to wait until I return tonight, come over any time. If there’s no time to wait, come meet me there,” I reply back, then focus on flying again.
+
+A light buzz replies back a few minutes later with an enthusiastic, “Great! I’m on my way now! See you soon!” Then silence follows for the rest of the ride to the market.
+
+When I begin to descend toward the massive red pine tree, I see that there are far fewer flying vessels and cultivators here today than the two times I’ve been here in the past.
+
+From above, I can even see there are less than half the normal number of stalls set up.
+
+There must be agreed-upon busy times when it’s known that large groups of buyers are coming in. Still, the market looks lively enough.
+
+I land right in front of the gate where two outer sect green-robed cultivators are greeting people in and out of the market.
+
+At the exact same time, another flying vessel lands in the parking area, and a fat man with his bear hops off. The enthusiastic yell of Wang Ming echoes out.
+
+“I’ve gotta admit, that crane is a fast one for only being at level 5, I thought I would have beaten you here!”
+
+When he comes into my spiritual senses, the strong, confident qi of two perfected stage 7th-level Qi Refiners hits me. Both Wang Ming and his spirit beast have progressed quite fast since the war.
+
+He’s put back on all the weight he’s lost, and even more, it seems. The faint ripple of intent flowing through his soul looks very satisfied and calm about this fact.
+
+“Good to see you’re doing well,” I comment with a polite bow and a smile.
+
+“Good to see you’re settling in at the Beast Mastery Peak. Though, I did hear you got into a fight the other day.” A mischievous grin grows on his face.
+
+“I didn’t know word would get around so fast… seems like everyone somehow knows. But that’s not important. This couldn’t be why you’re so adamant about talking to me, is it?”
+
+He shakes his head, then points toward the two mid-stage Qi Refining guards in Azure Cloud Sect robes at the front gate of the market watching us.
+
+“No, no… it’s something far more interesting. Let’s talk while you shop in the market. I don’t want to take up too much of your time.”
+
+We both hand in our identity tokens, and they’re scanned and tossed back.
+
+“Would either of you like to purchase a Red Pine concealment talisman?” one of the guards asks, but we both decline and walk into the market with a bear and a crane following behind.
+
+At the entrance, I watch as a random rogue cultivator activates their concealment talisman, creating a warm, fuzzy glow around them, concealing their voice and appearance.
+
+It triggers a familiar memory, and once we walk past a few stalls with others wearing this talisman, I’m certain my senses aren’t playing tricks on me.
+
+Every time my spiritual senses try to look at any concealed cultivators in this market, a subtle field of vibrations bounces back at me to block my attempts. I wouldn’t have noticed it so clearly if my mortal grade ring didn’t react to it and stabilize the strange waves of energy trying to subtly meld with my physique.
+
+It is the presence of a far stronger physique blocking my attempts. I look up to the sky, seeing the underside of the red pine tree that towers over this market.
+
+There is a very subtle crimson aura that fills the air, acting as a light source for this market at night, and also a medium for concealment talismans to activate in. In the past, I accepted this fact as though it was something far out of my understanding. Now, it is far less mysterious.
+
+The minuscule red particles in the air vibrate and look like a much weaker version of what I witnessed in the Misty Forest. They are in a passive, almost dormant state, just like the free flowing white mist was.
+
+However, when the Reaper Crow consumed corpses and laid eggs, the subtle fluctuations are very similar to the fluctuations around cultivators using these concealment talismans.
+
+I quickly come to the conclusion that this Red Pine tree is not as simple as it seems. It is a living Tier 2 lifeform, and the red mist in the air is some kind of manifestation of its physique… if that’s even what it’s called on a plant.
+
+My mind wanders, as this conclusion means that there is something in the Misty Forest powerful enough to create a similar aura spanning hundreds, even thousands of kilometers.
+
+I contemplate this heavily for a while, but a far more interesting, and less ominous mystery walks right beside me. Wang Ming’s excitement and anticipation grows with every step we take, and I don’t know why he hasn’t mentioned why he’s here yet.
+
+To break the silence, I ask something simple first. “Why is the market so lifeless today? The two times I came before, there were way more people here…”
+
+Wang Ming nods. “This is what the market looks like on an average day. There are only major crowds like that once or twice a month. That’s usually when I come to buy or sell. Otherwise, I’m better off just flying back to Lingshi City. The closest Azure Cloud Sect peaks usually send out notifications when they’re offloading some of their extra materials. It brings in large amounts of new buyers and out-of-sect sellers. If the market was always that popular, there would be another city built around this place by now.”
+
+“Interesting…” I nod in understanding as my suspicions are confirmed.
+
+Some of the sellers on this row of stalls watch Wang Ming walk by with eyes of respect or anticipation, as he’s a moderately well-known figure. At least today in the market, he’s the strongest and most wealthy. No other late-stage Qi Refiners are present. The nearby stalls I’ve guided us to are only selling low-grade talismans from rogue cultivators, weaker families, and some mid-stage Qi Refiners from the sect.
+
+I toss him a storage ring filled with spirit stones and begin pointing to stacks of talismans I’d like to restock.
+
+“They’re better off believing your Wang family is supporting their business. I don’t have any good excuse for my wealth to be flaunted yet,” I murmur, and the fat man agrees to be my cover.
+
+Next, we buy out multiple stalls selling low-quality Qi Gathering Pills, collecting a few dozen vials. There are only a few shops selling Qi Nourishing Pills, and none even have a full vial on hand. I still manage to pick up 16 low-quality pills for a decent price.
+
+One of these stalls has 5 burnt inferior quality marrow cleansing pills for sale too. They’re all cracked and borderline poisonous, sold at a hefty discount. The elderly 6th level qi refiner from the alchemy peak bows many times, thanking Wang Ming over and over, remarking that once he masters this pill recipe he’ll pay back the kindness.
+
+There is a small stand selling spirit fruits and assorted inferior quality element stones. I just clear out their whole stall, not just for the fruits and stones, but for the stack of over 50 low-grade spirit contracts for sale too, suitable for the lizard eggs I plan to give to my stewards and some of their servants. There is a small booklet on raising earth lizards, so I take that along with me too.
+
+The Mu Family store is closed today, and so are many of the other larger-scale sellers.
+
+So, there aren’t any weapons over mid-grade for sale. Through Wang Ming, I buy interesting low-grade swords, axes, and daggers that catch my eye, even stocking up on over a hundred more arrows. Compared to my physical prowess, they’re all quite useless, but they can be upgraded into suitable weapons.
+
+I’m almost fully stocked up on what I need, so I start to relax, turning to Wang Ming while we walk near the edge of the final stretch of the market.
+
+“All I need now are some recording crystals. I want to set up a simple surveillance system around my fields…”
+
+A few minutes after I say this, we walk through another very slow portion of the market with mostly inferior-grade goods. A small wooden stand comes into sight, covered in red and blue stacks of talismans, and behind them, a few poorly put-together booklets. At the side of the stand, a small basket of transparent crystals and jade disks is stacked up too.
+
+Wang Ming walks over and starts to haggle. “Hey! Recording crystals, here they are. How much for the whole lot? How long do they record for, and what kind of range do they get? I’m looking to set up a long-term surveillance system.”
+
+He asks while stopping before an elderly mid-stage Qi Refiner.
+
+“There’s 60 left here. I’ll give you the whole lot for a special deal, 500 spirit stones. The range for recordings is a hundred meters in every direction. It will store a perfect visual imprint of its surroundings. The recording length depends on how much you charge them.”
+
+Wang Ming pulls one of the crystals from the basket and tosses it to me.
+
+It feels far more human-made when resting in my palm. It is like a large piece of quartz, with small carvings on every one of its flat faces. I can see the same markings and qi infusions that talismans carry.
+
+“They have to be manually activated. If you’re trying to use them for surveillance, you’ll need to charge each one up with a spirit stone every day… That is quite the costly venture.”
+
+I shrug. “That’s fine.” And Wang Ming trades for the stones on the spot.
+
+My spirit vein mine generates almost 30,000 spirit stones a day. Sixty stones to keep my fields secure and stay on good terms with the sect is nothing.
+
+After pulling the whole basket into my storage, I look at one of the stacks of talismans on the table. They are a dull blue and labeled Minor Rain.
+
+Behind the stacks, there are a few booklets with the same title.
+
+I was given this exact same technique in my intro to farming guide by the outer sect, so it’s basically worthless to me.
+
+Right next to these, there are stacks of dull red talismans and booklets labeled Minor Rain behind them.
+
+“How much for a stack of talismans and a copy of each booklet?”
+
+He waves at me with a sycophantic smile. “Please, take them free of charge. Any friend of the Wang family is a friend of mine. They usually sell for less than a spirit stone each, and I have to sell a stack of inferior-grade talismans with them. I copied these booklets myself by hand, and I’m still working on drawing my first low-grade talisman, everything I’ve managed so far just barely reach inferior grade. Learning the spells themselves took me over a decade, but translating them to working artifacts is even harder. Even though these techniques are of the lowest grade, it is still essential that a Qi Refiner reaches level 4 before attempting them. Be careful not to injure yourself.”
+
+He pauses, looking at me while I pick up a stack of each of his inferior talismans and each booklet too, then shakes his head and reaches under his stall to pull out an old red booklet that still appears thin, with not many pages.
+
+“Please, take this one instead… It’s my personal copy of the Minor Fireball. It’s the simplest spell to learn, as fire qi is destructive without having to transmute it into any strict form. I’ve added some useful notes to it, making the whole process easier, and even a few things I’ve heard about other higher-level techniques in the back section. For an old 8th-grade spirit root like me, at the perfect stage of level 4, learning spells is the only way I can progress my strength further in my old age.”
+
+He bows politely, taking a few glances at Wang Ming to see if he’s gotten any admiration. I accept the personal booklet instead of the generic one, and his words stir in the back of my mind, opening up a new avenue of curiosity.
+
+“Is that so… Very well, I’ll accept this personal copy, but I do not accept acts of kindness without paying them back quickly, and with greater generosity.”
+
+I toss him a low-grade spatial ring with my last high-grade marrow cleansing pill. It is certainly an unbalanced deal, but this conversation has drawn me in a new direction of thought. Those that help me with my own epiphanies should be rewarded, no matter how simple their input.
+
+On top of this outward display of goodwill, it is also to make sure I’m not indebting myself to random cultivators. I am not sure how strings of fate, and the rules of karma actually work in this world. While they may just be made up cultural superstitions, almost every superior I’ve met has taken equal value trades more seriously than anyone did in my past life. There must be another force at play that I cannot yet comprehend.
+
+We begin walking away before he can open it up.
+
+Wang Ming’s smile grows even wider, and his footsteps almost look like skips as we continue walking. Once out of sight, he tosses me the storage ring filled with everything bought in the market today.
+
+As we approach the gate to leave, I call out to him, “You can barely keep it in anymore. Come on, tell me, what are you so riled up about? Split it out already.”
+
+He turns, stopping in the middle of the road with a beaming smile.
+
+“Li Hao, I’m finally getting married to Mu Shulan! I wanted to invite you to come and attend as one of the honorary Wang family guests.”

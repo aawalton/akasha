@@ -1,0 +1,145 @@
+---
+id: e4b226d9-1759-51cf-ab7e-ded61421ce37
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44"
+slug: 0044-chapter-44
+partOf: emie-ascended
+position: 44
+ownLength: 2074
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3717259/chapter-44"
+royalRoadId: "3717259"
+---
+
+Heaven’s part in handing off the last group of Seabed youths to the Portal Delver Association only took a few minutes.
+
+She also made sure to update the local Association branch regarding my membership in the Porter Guild since it was likely I’d be called upon to shuttle Seabed youths at some point in the future.
+
+The next three cities we visited were painfully unremarkable, just like most of the cities the day before. Establishing waypoints in those cities was much more difficult than the memorable city of Seabed, but my circlet gave me confidence that I’d be able to find my way back should I ever need to return.
+
+Aerie didn’t seem to mind the mundanity of the cities, though. She seemed to find every new location interesting enough to want to explore.
+
+Expecting yet another ordinary city at our fifth location of the day, I was shocked to see a Dungeon Complex that was startlingly different from what I’d encountered thus far.
+
+“Welcome to Bloom!” Heaven said with a cheesy grin. “What do you think? Is it sufficiently memorable?”
+
+I gasped lightly at how overtly different my surrounds were compared to our previous stops. Aside from Seabed, this was by far the most memorable arrival location thus far.
+
+I certainly wasn’t going to have a hard time remembering the feel of this city, that was for sure.
+
+“Are the walls made out of plants?” I asked before looking up to see a ceiling made of glass or something very similar. Aerie went to launch herself off of my shoulder, but I grabbed her before she could get away. “How does this type of architecture even work? Does it not get cold here or something?”
+
+Heaven shook her head and eyed the asolade in my hands. “No. We’re in zone NB1, right at the equator. The natural flow of essence combined with the world’s rotation keeps this area in perpetual summer, so it’s always very temperate.”
+
+Motioning for me to follow, Heaven headed toward an opening in the wall and said, “The walls aren’t just made out of plants, by the way. The city makes a special type of glass used in most of the construction. It’s usually frosted or decorated in some way, but the arrival platform is different.”
+
+As she passed through the opening, Heaven leaned closer to the flowers that served as both foundation and decor and breathed in deeply.
+
+With a sigh, she said, “Bloom is home to a somewhat unique Ascender Dungeon specializing in Nature and Glass. The dungeon’s Originator was from a realm called Marinok. Are you familiar with it?”
+
+Though I’d casually read some literature about the myriad lower realms that fed into Dia, I couldn’t say with certainty that I was familiar with Marinok. I might have seen the name at some point, but nothing in particular stood out.
+
+I shook my head. “I’m not.”
+
+Seeming to expect my response, Heaven said, “I’m not all that surprised. It is one of the lost realms.”
+
+“Lost realms?” I echoed questioningly before promptly forgetting the topic altogether when we stepped through the last set of glass doors – these were frosted, making them nearly opaque – and into what I could only describe as a gardener’s wonderland.
+
+Or perhaps calling it an elf’s wonderland would be more accurate.
+
+The Dungeon Complex was the only noticeable set of structures located on the ground. Every other visible structure was either contained within the trunks of the massive trees or nestled within their canopies.
+
+What little was visible within the branches appeared to be almost free-floating due to their glass construction.
+
+It was surreal.
+
+While the ground was covered in dense foliage aside from a few narrow paths, everything had a manicured feel to it. It was obvious at a glance that the growth was not random or wild at all, but carefully planned and tended to make the city feel like it was one with nature.
+
+Seeing the look on my face, Heaven laughed and said, “I reacted the same way the first time I visited. Bloom’s dungeon is one of the oldest Ascender Dungeons on Vasillios, and the city is likewise as old.
+
+“The skillbooks that can be acquired within are different from what you’ll find in most other dungeons. If you get the chance, I recommend you delve the dungeon here sometime. Even if you don’t end up slotting any of the skills, the experience is unique enough to make it worth doing.
+
+“In fact, most of the requests I have for trips to Bloom are from wealthy delvers wanting to experience the unique dungeon here, though few elites ever slot any of the skillbooks aside from the nature-based healing or crowd control skills.”
+
+“What makes it so unique?” I asked, stepping toward a strange bush that looked like a hybrid between several different types of plants.
+
+I had no idea how someone had managed to create a single plant with such drastically different characteristics. Not only was there significant variation in the types of flowers, but even the leaves were markedly inconsistent.
+
+I checked the trunk of the plant to verify that it wasn’t multiple different plants intertwined together, and could only shake my head when I saw that it truly was just a single odd specimen.
+
+Aerie struggled against my grip, but I was worried about letting her run loose in such a unique environment. Instead, I held her out, letting her bat at the leaves and flowers.
+
+“Aside from a ton of weird flora like that,” she said, pointing at the bush Aerie was playing with, “this dungeon doesn’t have a wide variety of ecosystems represented like most dungeons do. Instead, the entire thing is based on plants, plant-type mobs, and glass.
+
+“A lot of people consider the lack of variation to be boring, which means most only ever visit instead of settling here. The exception is mostly with those who came from high-nature realms or those who were formerly races that were very nature-oriented.”
+
+“So, like elves?”
+
+“Yes. I’ve heard that term being used for many of the Ascenders who choose to relocate here. I believe the Originator was also an elf.”
+
+“But I thought Ascender Dungeons reflected all of the Ascenders who appeared within to some degree?” I questioned. “Why aren’t more elements or aspects represented?”
+
+Heaven shrugged. “I have no idea. Like I said, it’s one of the oldest Ascender Dungeons in the realm. Maybe it has something to do with the Originator’s home realm being lost.”
+
+Remembering that she’d never actually explained what that meant, Heaven added, “From what the clergy has shared, the term ‘lost realm’ refers to one that has been abandoned by their governing deity. Nobody knows why or how, but it happens sometimes. And once a realm is lost, its inhabitants’ path to ascension is severed. Nobody has ever ascended from a lost realm.”
+
+I couldn’t help but shiver at her words.
+
+“I think something like that happened in my old realm,” I said before quickly clarifying, “Not to my realm, but to another that was assimilated into my old realm.”
+
+Basically, my realm deity had absorbed an abandoned realm and incorporated it into his own. It had caused a lot of issues since the races of the two realms were vastly different, but it was clearly a better option than the alternative.
+
+“That’s very strange,” Heaven commented.
+
+Before she could say more, a loud warning alarm sounded, causing the senior Porter to tense and Aerie’s claws to dig into my hand.
+
+“Ugh. What horrible timing,” Heaven grumbled before removing a communicator from a hidden storage device. “I guess I might as well cover this now since there’s no getting around it. I’d hoped to simply tell you about it later instead of having you experience it firsthand.”
+
+“Demon attack?” I asked, sending Aerie to safety inside the sanctuary after sending reassuring vibes through our bond. I also immediately placed the space into stasis to prevent her from being alone and worried.
+
+Heaven nodded, putting away her communicator and rushing back inside.
+
+“Yes. When a demon attack alarm sounds in a city we are visiting, we are almost always required to stay and render aid. You’ll need to notify the guild, which I just took care of for both of us. After that, we are required to provide what aid we can until the attack has concluded.”
+
+Giving me a serious look, Heaven said, “No matter what, you should never try to leave, hoping nobody knows you were here. A lot of the larger cities can track such things, and abandoning a city under attack is hugely frowned upon.
+
+“Even if they can’t track your movement, if it’s discovered that you left after a warning alarm was sounded, there will be serious consequences. At best, you’ll be banned from that particular city, though it can also extend to other cities as well.
+
+“The last thing you want,” Heaven continued, “is to develop a reputation as someone who will run at the first sign of trouble. It also reflects poorly on the guild, which can result in your guild membership being revoked, along with a few other punitive measures.”
+
+We paused behind a crowd that had gathered in the Delver Association lobby.
+
+“Bottom line, just don’t do it. Even if it means you’re going to miss appointments and obligations, stay and assist as if this were your home city.”
+
+Having made her point, Heaven teleported to the other side of the room to speak with one of several clerks who’d just rushed to manage the counter. I immediately followed.
+
+“We’re from the Porter Guild,” Heaven announced. She didn’t need to tell them our ranks since they were clearly visible via our circlets.
+
+The clerk she addressed was clearly happy to see another platinum ranker present, though I could tell that there was some uncertainty about just how effective the Porter might be in defending the city.
+
+As far as I knew, Porters weren’t really known for their combat abilities. Of course, I knew that Heaven was a capable fighter since she and Norm were the combatants of their party, but I got the feeling they weren’t the standard for combat capability among Porters.
+
+“We’re glad to have you both. I don’t think we’re going to have as much time as usual before the first wave hits. If the two of you can focus on transporting the children spread throughout the city to the shelter here in the Dungeon Complex, we’d be grateful.”
+
+“Would you rather I continue doing that, or fight when the first wave comes?” I asked quickly, not wanting to take up more time than necessary.
+
+In Sorenguard, I was supposed to fight unless I happened upon someone who needed saving. Once the first wave was over, I was supposed to fall back to the medical facility and serve as a healer.
+
+Of course, the demons hadn’t attacked the city since I’d evolved, so this would be my first time actually participating in a meaningful way in a city’s defense.
+
+“I don’t mean to be disrespectful, but can you fight?” the clerk asked.
+
+I tried, and failed, to suppress the smirk when I said, “Well, I am an Ascender.”
+
+I realized just how cringy my statement was after I said it, but my comment was sufficient to make my point.
+
+The clerk’s eyes brightened, and he quickly said, “Excellent! Yes, fight if you can once the demons start attacking, and save people if you have the opportunity.”
+
+I nodded. “Okay. I’ll head to the medical facility after the first wave since I’m also a healer.”
+
+I probably didn’t need to tell him that, but I didn’t want anyone to think that I just disappeared after my wave was finished, either.
+
+“Come on, let’s get to it,” Heaven said, pulling me away from the counter without waiting for the clerk’s response. “I’ll find you when it’s all done. Keep yourself safe. I’d hate to have to report that my star mentee got herself hurt during our initial tour.”
+
+The last part was added with a playful grin, though I could tell there was some truth to her comment. I imagined it would reflect poorly on Heaven if I were to get seriously injured or killed during my waypoint tour, though I couldn’t see how anyone could realistically blame her if something happened during a demon attack.

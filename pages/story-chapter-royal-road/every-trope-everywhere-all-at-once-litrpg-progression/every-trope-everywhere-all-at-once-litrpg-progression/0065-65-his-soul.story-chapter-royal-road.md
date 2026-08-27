@@ -1,0 +1,215 @@
+---
+id: b95d90c5-b3c5-5f42-80ed-b5e81cf02bb0
+page-type-slug: story-chapter-royal-road
+title: "65 - His Soul"
+slug: 0065-65-his-soul
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 65
+ownLength: 1825
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3629399/65-his-soul"
+royalRoadId: "3629399"
+---
+
+As soon as we heard the screams, Aeris and I rushed into the tent, prepared for the worst.
+
+Blood. Deaths. Anything.
+
+But we didn’t see any of those.
+
+The injured warriors were still on the camp beds. The mages and healers continued to do everything they could to heal the wounded, but we could tell that something was off. They were all staring toward the back of the tent, where most of the people had gathered.
+
+“What’s going on?” I asked as Aeris and I pushed through.
+
+Reina and the others were still there, completely unharmed. But if that was the case, then what were those screams?
+
+“It… it moved!” Reina cried, pointing at Gabriel’s body.
+
+“A dead man can’t move. Quit horsin’ around,” another said.
+
+“No, she’s right. I saw it moving,” a different person said.
+
+Everybody was arguing over the same thing. About half believed that Gabriel’s body had moved, while the other half believed they were just seeing things.
+
+“Everybody, calm down,” Aeris said. “We’ll get nowhere at this rate.”
+
+But they continued to argue.
+
+“STOP!” she shouted, letting out a harsh flap of her wings.
+
+A gust of wind enveloped the entire tent, causing everybody to stumble and the walls to flutter. Her eyes glowed bright as she gathered her mana. The quarrel died down right away.
+
+“Reina, tell us exactly what you saw,” I said. Out of anybody there, she was the only one we could trust.
+
+She pointed at Gabriel’s body. “I was just keeping watch of him like you told me to. Everybody was talking about what to do with the body and the ring on his finger, and at some point, his fingers began to twitch.”
+
+I turned to the others. “For those of you who believed he moved, is that what you saw as well?”
+
+They nodded.
+
+Aeris leaned into me, whispering, “That could only mean one thing.”
+
+“He’s nearby, right?” I whispered back. “Assuming they’re telling the truth. But there’s no reason for them to lie about something like this.”
+
+She nodded. “He must’ve taken control of Gabriel’s body again. That’s the only explanation for why the body moved.”
+
+“Why would he do that?”
+
+Our eyes scanned the tent. We looked at everybody’s hands, trying to figure out who had Aurelius’s ring on their finger. We only saw one man who had a ring, but it was the same man that Aeris and I had already talked to just outside the tent. From the way Dawn Sunderer reacted to him, he couldn’t have been Aurelius.
+
+Reina walked to us. “We should tell everybody the truth,” she whispered. “About Aurelius and the fact that he’s able to steal bodies.”
+
+“Shouldn’t we try and corner him first?” I replied. “Telling everybody about him could put Talon in danger. They’ll attack anybody with Aurelius’s ring, including him. This is what he would want us to do.”
+
+“As long as Talon stays away from the island, I think it’s worth the risk,” Aeris argued. “At this point, we’re putting the others in danger and giving Aurelius the advantage. Now’s a good time to tell everyone to be wary of the ring wielders.”
+
+“No, don’t do that,” a man’s voice suddenly cut in.
+
+The three of us turned. It was the man with Aurelius’s ring that had said that. How long had he been listening to us?
+
+“I have a family,” he begged. “A wife… three children… you can’t do this to me. They’ll kill me!”
+
+He was loud enough to turn heads.
+
+“We have to,” Aeris said. “Otherwise he’ll catch all of us by surprise.”
+
+“But he isn’t in my body! If you tell everyone about him, then I’ll… I’ll…”
+
+He erupted into tears as he collapsed onto the floor. Murmurs spread around the entire tent, and even the wounded couldn’t help but stare at the commotion.
+
+I kneeled beside him. “I’m sorry, but this is the right decision.”
+
+His tears continued on. He stretched his arms wide, hugging me.
+
+Then, something strange happened.
+
+With Dawn Sunderer hoisted on my back, the embrace made the sword go near his face. The moment it did, the light shone brighter, reacting to something.
+
+“That’s…” Aeris began. “Allene, get away from—!”
+
+The man quickly pulled out a dagger and aimed it at the side of my head.
+
+“Allene!” Aeris and Reina yelled.
+
+I grabbed his wrist, barely stopping the attack. The man pulled out another knife with his other hand, thrusting it toward my face.
+
+But the man let go of his weapons before the blade could go through me.
+
+A nearby soldier in the tent had delivered a swift blow with a sword, killing him instantly. I stumbled back.
+
+“Are you hurt?!” Reina cried.
+
+“No… I… I’m fine! But the sword… doesn’t that mean…?”
+
+Mist spilled from the dead man’s mouth. It was pitch black, and the air in the tent grew heavier.
+
+No… that wasn’t just mist. From the way Dawn Sunderer reacted to that man…
+
+That must’ve been Aurelius’s soul.
+
+But how…? My sword didn’t react to that man before. Did Aurelius only enter his body just earlier?
+
+The soul flew past everyone and exited the tent. Reina and Aeris sprinted after it. I stood and followed them, leaving behind everybody without another word. They must’ve had no idea what was happening, but I couldn’t afford to stop and give them an explanation.
+
+The three of us sprinted through the island, chasing after the soul. Heads turned as we sprinted past them. None of them had any clue what we were running after, nor what the soul was. From their eyes, it was just a moving ball of black mist.
+
+Aeris shot out a quick fire breath at Aurelius’s soul. The fire was much smaller and more contained than it would’ve been if she was in her dragon form, but this actually benefitted her since it meant she wouldn’t accidentally attack an ally.
+
+The soul swerved away from the fire, heading straight into a crowd. Nearby onlookers pointed at Aeris, wondering why she had suddenly attacked a ball of mist. We charged straight into the crowd, pushing through everybody.
+
+“Argh! Quit shoving!” a woman yelled at us.
+
+Everybody on this island had participated in the battle. The rest of Whale Isle’s inhabitants had already returned home once the bells had rung, which meant that nearly all the people here were soldiers equipped with weapons.
+
+With the commotion we were causing, the crowd was beginning to close in on us, threatening us to stop. But we didn’t. We kept pushing through, and when we emerged on the other side…
+
+It was gone. The ball of mist… Aurelius’s soul… was gone.
+
+The crowd surrounded the three of us.
+
+“Hey, what the hell do you guys think you’re doing?!” a harpy yelled. “You think you could just go around shoving everybody?”
+
+“I…” Reina began. “We were chasing after the enemy! It was heading this way, so…”
+
+“An enemy?” he raised an eyebrow. “Where? What kind of excuse is that?”
+
+Yeah… that was just about the reaction I expected.
+
+“I’m telling the truth! That thing we were chasing after… it's an enemy! A monster! Right guys?” She looked at Aeris and me.
+
+“Don’t say anything,” Aeris whispered to me. “It’ll only complicate things. Let’s just bow and apologize.”
+
+Before we could, somebody dashed from the crowd in the blink of an eye.
+
+We heard a scream.
+
+Reina.
+
+Another woman held her with a sword pointed at her neck.
+
+“Get too close, and she’s dead,” the woman said.
+
+We all gasped and backed away. Reina had both of her hands up, somehow staying calm as she gestured for everyone to listen to her and back away.
+
+The woman wasn’t just any ordinary woman. She had a ring on the same hand she held her blade in. That could only mean one thing.
+
+Aurelius’s soul must’ve gone into her body and taken it.
+
+The woman—no, Aurelius—looked at us, motioning for only Aeris and me to walk a bit closer. We did just that.
+
+“Missed me?” he said in a woman’s voice, smiling at us.
+
+“That man back at the tent… When did you take his body?” I began. “You didn’t control him when I first checked.”
+
+“Because he wasn’t the only one with my ring,” Aurelius said. “One of the wounded had one as well.”
+
+“You were hiding in the body of the wounded?”
+
+He nodded. “I did. Once that man came back into the tent after you and Aeris checked if I was him, I transferred my soul from the wounded soldier to his body. I was hoping to catch you off guard and take you hostage, but I didn’t expect such a small girl to be so strong. And I certainly didn’t expect for that body to get killed that quickly.”
+
+The surrounding crowd whispered among one another.
+
+“Silence!” he shouted.
+
+They stopped at once. With Reina in his arms and the sword at her neck, we had no choice but to listen to everything he said.
+
+His eyes went back to us. “You’re wondering what my plan is, aren’t you? Wondering why I ordered the monsters to retreat?”
+
+We didn’t say anything. We didn’t have to.
+
+“Of course you are,” he continued. “And I presume you also already know the limitations of my abilities?”
+
+“You’re only able to take a person’s body if your ring is on them, or if you dispel their soul,” Aeris said. “Am I missing anything?”
+
+“As expected from my beloved dragon. You know me well.”
+
+“I’m not your dragon,” she said.
+
+“But you owe me your life. You wouldn’t be here if I didn’t save you back then. And besides… We were trapped in that despicable dungeon for so many years together.”
+
+“None of that means anything.”
+
+He burst out into laughter.
+
+“I guess it would be better if I tell you my intentions now,” Aurelius continued. “I was hoping to catch you all off guard. Now that I have your friend in my arms, I can finally bargain. Go bring Kaelor and your other friends here. Tell them to also bring the rest of the people with my rings on them. What do you say?”
+
+“You bastard…” Aeris said.
+
+I put a hand on her, stopping her from lashing out.
+
+“Get them,” I said. “Kaelor, Meriel, Talon, and all the others… bring them here.”
+
+She looked at me. “Are you sure?”
+
+Reina stayed quiet the entire time, but the look in her eyes said it all. Everybody watching would easily mistake her for being calm even as she was being held hostage. I did at first, too.
+
+But that look in her eyes… I’ve been with her long enough to know the truth. She was just too afraid to talk.
+
+“We have to,” I said. “Do whatever he says, or he’ll hurt Reina. Go.”
+
+Aeris began to fly away.
+
+[TROPE INITIATED: THE HOSTAGE]
+
+Completion criteria: ???

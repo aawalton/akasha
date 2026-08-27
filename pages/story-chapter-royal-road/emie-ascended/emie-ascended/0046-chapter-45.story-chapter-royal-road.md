@@ -1,0 +1,121 @@
+---
+id: 333938ed-38ef-5275-b7d6-a1c230dbcc45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45"
+slug: 0046-chapter-45
+partOf: emie-ascended
+position: 46
+ownLength: 1605
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3748833/chapter-45"
+royalRoadId: "3748833"
+---
+
+I handed off the injured woman as soon as I healed her enough that regular, non-regenerative healers would be able to finish the work. Since the first wave was not yet over, I made sure not to linger before heading back into the fray.
+
+I didn’t stay in any one location very long, opting to teleport around the city and provide assistance as needed instead of focusing on a single location.
+
+As I flitted from one location to another, I found myself missing the manatech weapons and offensive talismans of my old realm.
+
+I planned to eventually craft some weapons similar to what I’d used in my old realm, if only to have them in reserve for emergencies. But for now, I didn’t see the need to dedicate my limited time to such endeavors.
+
+While having them would be nice, I was already more than capable of handling anything I’d encountered thus far with the skills at my command.
+
+Further, using technology to fight in this realm wouldn’t help push my skills to evolve at all. Aside from minor gains in Enchanting, that approach to combat would actually be counterproductive when it came to skill development.
+
+And with skill development being so important for evolutions, it just didn’t seem worth the effort.
+
+Aside from maybe a life-saving artifact or two.
+
+Eventually, the sound of a siren blared twice, marking the start of the second wave. In the distance, I could see larger, stronger demons rushing the city, as if eager for their turn to die.
+
+Knowing that I stood little chance against such strong opponents, I shifted my efforts toward search and rescue and started looking for anyone who might be too injured to easily withdraw.
+
+“Excuse me, Miss Ascender?”
+
+I opened my eyes tiredly and saw a man I’d met early in the day standing awkwardly in front of me. Aerie shifted from beneath my chin, curious about the new arrival.
+
+‘The Glasser,’ I remembered as I forced myself to sit up, bracing Aerie so she didn’t fall. “That’s right. I told him I’d take him to Sorenguard.’
+
+“Sorry to bother you while you’re resting, miss. Or, umm, Lady Healer? Or—”
+
+I could tell he was getting flustered, so I interrupted his stammering with, “It’s Emie. Just Emie is fine.”
+
+“Uh, okay, Miss Emie,” he said, not making eye contact and distinctly not staring at the small ball of fur nestled under my chin.
+
+I wasn’t sure why he was suddenly acting so uncomfortable. He seemed fine when we were on the wall.
+
+I abruptly recalled how I’d impulsively shown off my Shrapnel/Lighting Bolt combination, and felt a wave of embarrassment of my own. I had no idea what possessed me to act like that.
+
+Excitement from finally being able to take part in a city defense against demons, perhaps?
+
+I really need to socialize with people outside my immediate circle more.
+
+“My name is Glen. I realized I never told you, just now,” the Glasser stammered, still obviously uncomfortable.
+
+I wasn’t sure if it was because I’d dropped the bomb on him that I was an Ascender before disappearing, or if it had something to do with the fact that he’d found me half-napping on a bench outside of the hospital and felt bad about interrupting my rest.
+
+Either way, my rest had already been interrupted, so his feeling weird about it was pretty pointless.
+
+I immediately recognized that my grumpy thoughts were likely due to how much focus I’d expended over the last few hours. Between fighting and healing, I was feeling absolutely wrung out.
+
+When I didn’t respond, Glen continued, “Um, you said I should come talk to you once everything was over, and I know the fourth wave is still going on, but I thought maybe you’d be free?”
+
+I had asked him to find me later, and it would be rude to send him away without talking to him since I’d already agreed to transport him in exchange for some of his work.
+
+After meeting Glen, I’d seen several fighters using glass-based abilities, so his skills weren’t quite as novel now as they’d been just a few short hours ago. However, I was still excited to see what kind of products he could create.
+
+“Yeah. It’s fine,” I said. “I’m basically done for the day. The others can handle what’s left. You said you want to move to Sorenguard, right?”
+
+Meeting my eyes for the first time, Glen said, “Yes. Whenever is convenient for you, I will be ready. I’ll need a few days to make everything, especially if you want a specific design or effect in the dishes, but I can always finish after we get there if that works better for you.”
+
+“Don’t you have a party?” I asked, recalling that I hadn’t seen anyone with the Glasser when I’d encountered him on the wall.
+
+“Not anymore,” the man replied. “My old party broke up when two of the members decided to start a family. Me and the other member didn’t really get along that well, so we decided to go our own ways afterward. I mostly just join temporary groups when I want to enter the dungeon.”
+
+Well, that was convenient.
+
+“What about family?” I asked, shifting Aerie to my shoulder.
+
+“They’ll be fine with it,” Glen assured me. His eyes darted to the asolade curiously. “They know that I’ve been wanting to head out and find my own place for a while. In fact, they’ll likely be happy for me.”
+
+I nodded lightly as I examined the man more closely. He appeared to be relatively young, but that didn’t really mean much in a magical world where nobody aged beyond their prime unless they hit stagnation.
+
+His orange hair was messy, like he had a habit of running his hands through his hair without thought. His eyes were an unusual silver-blue that looked like strange, liquid metal.
+
+He wore no jewelry that I could see, nor did I notice any storage bags. Since he also wasn’t carrying any other types of baggage, it seemed clear that he had no expectation of leaving with me immediately, which meant I’d definitely have to make a trip back to the city sometime soon.
+
+I’d told him I’d come back in a week or so, but after thinking about it a little longer, I realized that I really had no idea what my schedule would look like after the week with Heaven was over.
+
+I had a lot of work at the medical clinic and some enchanting to get done, not to mention everyone would probably want to head into the dungeon for a few days to earn some essence.
+
+“Is a week enough time for you to take care of everything?” I asked.
+
+“A week? That should be plenty!” he exclaimed, looking strangely relieved.
+
+Bobbing my head, I did a few quick calculations. Traveling across the massive world caused issues with making plans since I’d be crossing so many time zones, but it didn’t take long for me to figure out roughly when I’d be here if I left Sorenguard at dawn seven days from now – the morning after my ‘tour’ was sent to end.
+
+Even if the others wanted to go to the dungeon right away, we never entered until after breakfast on whatever day we chose to delve, so I’d have plenty of time to transport Glen if I picked him up before breakfast.
+
+It would be a bit late in the evening here, considering the time difference, but that would let him have an entire day to get settled once we returned.
+
+Most likely, I’d take that day off to rest. But even then, a quick trip was no big deal.
+
+After setting our plans to meet, I exchanged communicator contact info with Glen, just in case, and promised to send him a message when I arrived if he wasn’t already here waiting.
+
+Beaming, the Glasser showed me several samples of his work and asked which design I’d prefer. I was pleasantly surprised at the quality of glasswork he displayed, and after several moments of contemplation, I selected the design I liked best.
+
+The design created the illusion that a nebula had been captured within the glass of each piece, making each one unique while remaining part of a coherent whole. I was almost certain Glen had some kind of light-based skill that he used to create the effect.
+
+Aerie seemed quite taken with the effect too, if her reaction to the sample piece was any indication.
+
+“I’ll start working on everything right away!” Glen exclaimed. “I’ll be sure to have everything ready when we meet. Thank you again!”
+
+Once the Glasser left, I shifted Aerie back to my chest and lay back on the bench. I wasn’t worried about anyone bothering me since I was marked as both a Porter and a Healer. I was also technically inside the Dungeon Complex, so there wasn’t much risk of a demon reaching me, either.
+
+Sure, it would be safer to just go into my demesne, but I couldn’t do that with Heaven still around. The last thing I wanted was for her to look for me and not be able to find me. I didn’t want to have to explain how I hadn’t actually left the city, even if maybe the city wards might see it that way.
+
+No, it was far simpler to just close my eyes and rest here until the last wave finished and we were able to leave.
+
+I had a feeling tomorrow was going to be a very long day.

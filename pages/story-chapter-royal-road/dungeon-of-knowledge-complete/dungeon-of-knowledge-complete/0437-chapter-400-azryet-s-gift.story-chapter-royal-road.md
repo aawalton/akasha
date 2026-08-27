@@ -1,0 +1,129 @@
+---
+id: 35a4acc2-9d48-56f0-8615-00469d929e54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 400: Azryet’s Gift"
+slug: 0437-chapter-400-azryet-s-gift
+partOf: dungeon-of-knowledge-complete
+position: 437
+ownLength: 2284
+unit: words
+ownProgress: 2284
+publishedAt: 2025-10-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2653332/chapter-400-azryets-gift"
+royalRoadId: "2653332"
+markedReadAt: "2026-06-29T20:26:51.300Z"
+---
+
+“So, you have a quest for me?” Ali asked, staring up at the enormous, flaming eye of Azryet, the Calamity himself. She sat on the tiny spear of white stone that was all that was left of the cathedral floor, on the tiny patch of moss that was all that remained of her dungeon domain. She didn’t know exactly what he had in mind, but given his immunity issues, she could hazard a guess. Unfortunately, anything an ancient abyssal dragon god might need would likely be far beyond her capabilities. Just the thought of what it might be filled her with premonitions of dread and worry.
+
+But he was offering to help her get home.
+
+“I do,” he rumbled, wisps of void curling upward from his fangs. “Destraggoth is only able to maintain this incursion into what was previously my domain because he holds a chokepoint with a Sentinel demon that he has granted holy and void immunity to. I want you to kill it for me and use your deconstruction to sever his domain at that point.”
+
+It could have been a lot worse… Ali mentally bit off the thought. That Sentinel might be tougher than Mato and faster than Malika blurring around a battle. Fine. Go with it.
+
+“And for that, you will help me get back home?” Idly, she wondered how much the presence of her ‘Dungeon Ally’ title had influenced his decision to offer her this quest. It was a title she had always kept hidden, and she had frankly forgotten about it – but, of course, he was a dungeon, and so he could see it.
+
+Dungeon AllySaved a dungeon from certain death at extreme risk to yourself. You have freed a dungeon from imprisonment. You have contributed substantially to increasing the power of a dungeon.The Identify of a sentient dungeon will always reveal this title.+6 [class level / 20] to skill level of Knowledge skills when manipulating domain mana.Title
+
+“I will try,” Azryet said. “As I said, I am not certain I can help, but I will grant you some of the space you recover to place your domain until we discover the way.”
+
+“Very well,” Ali said, forcing herself to nod firmly. “I will attempt your task, but I’m gravely injured from our… disagreement. I will need a few weeks to recover my strength.”
+
+“Hmm, yes, you are,” Azryet said, tipping his head and studying her with his enormous glowing eyes. “The price of bravery, perhaps? Still, this is easier to repair than the misunderstanding. I will heal you.” His eyes flared with holy light, and he opened his mouth. Just like before, mana gathered there with incredible compressed power and density – only this time, pure white and incandescent. He lowered his head and breathed, and holy magic filled her vision, both mundane and magical, as the dragon’s breath washed over her in an immense wave of power.
+
+Ali gasped as the wave rushed through her, an infusion of power far beyond any she had ever imagined. Her skin prickled, as her muscles warmed like she’d been sunbathing on the gentle ocean’s shore on a coast that had never known a cloud. Her heart swelled to an inexorable rhythm as the mana rushed through her, infusing her with its power.
+
+You have received Azryet’s True Healing.
+
+Weakness fled as the holy light seeped in, replacing the motes that had been lost, and Ali felt her body rejuvenating as life and strength returned by the second.
+
+Your Life Channeling affliction has been removed.
+
+The infusion swept through her, coursing down her neck, into her back, and a deep warmth filled her, like she had her back to a hearth. Something… stretched. There was an unfurling, like a flower opening.
+
+You have gained the Flying aptitude.
+
+What? Her mental squeal was one thousand percent amazement. What the heck? And how?
+
+Her body already felt different, but something unexpected had happened. She twisted her neck to stare over her shoulder. When she saw the beautiful, gossamer, golden wings sprouting from her back, no longer stunted and weak, filled now with her mana, she gasped – a small, choked-up sob. Stunned, a thousand emotions careened around within her. She had always been told her wings were unhealable – deformity she had been born with. She had long made peace with it, but somehow, Azryet’s magic had performed a miracle. They were so similar to her mother’s wings; she wanted to cry and laugh all at the same time. All that came out was another strangely choking hiccup of surprise.
+
+“What is wrong, little one?” Azryet asked, a flicker of amusement crossing his great eye.
+
+“I… nothing, uh, nothing’s wrong,” Ali said, surprised to find that her health had been fully restored in an instant. Maximum health damage that should have taken weeks to heal had simply vanished, just like half the cathedral behind her. And… “I can fly?”
+
+“That is a good thing, is it not?” Azryet asked, flexing his immense wings.
+
+“I… I hope so,” Ali said. I really hope so… “I’m grateful, of course,” she spluttered, suddenly terrified that her reaction might be misinterpreted and the Dragon God might remove his gift.
+
+I have to try. Tentatively, she tried to channel a little mana into her wings. She had dreamed of this moment so many times, and now, with her wings restored, she hesitated. What if… what if they don’t work? What if… I hate it? She found herself shaking like a leaf.
+
+“Go on, give it a try,” Azryet encouraged. So gentle. Nurturing, even.
+
+Making him the most terrifying calamitous motherly presence in history? Ali gave herself a mental clip across the earhole. Surely she was utterly discombobulated, frazzled and thinking the most idiotic thoughts!
+
+She stared at him for a moment and then sent her energy to her wings. They buzzed against her back, just like they always had, but before her heart could drop, she suddenly found herself hovering a couple of feet above the ground, her perfectly formed wings making a soft golden blur and a quiet humming noise. She had learned to fly on her barrier, but this was something else; cautiously at first, she darted upward, flying closer to the giant dragon’s head, the how of flying coming to her as if she had been born to it.
+
+She squealed. It was so exhilarating, so much more than hanging onto a barrier and dragging herself around. She could dart back and forth, swoop, and soar. She did a roll, turning and twisting in the air before the dragon, her mind and her body singing in a moment of unfettered joy as her body and her magic did what it was made for. In a flash, she was joined by Clarence, swooping and darting to match her movements as they spun and whirled together, a glittering duo of dancing golden magic.
+
+Whoops! She nearly lost it with a violent wobble, but Clarence managed to bunt her in the hip, righting her… although, now she was flying upside-down? Eh?
+
+From that position, Ali saw the dark gleam of fangs appearing as Azryet’s massive maw cracked open; the narrowing of his eyes, and she darted back in fear. But as the room filled with the pressure waves of his rumbling laughter, she suddenly realized he was smiling.
+
+“How… how did you do that?” she asked, finally coming to a stop, hovering a respectable distance from his giant eye.
+
+“I just healed you,” he said.
+
+“But nobody can heal something you’re born with,” Ali said, incredulously. Let alone healing maximum health loss to drain or life channeling. Everyone knew magic had limits; you couldn’t heal problems like that, just like you couldn’t resurrect the dead. Besides, she had been certain her stunted wings had been a part of her bloodline somehow.
+
+“I am many more evolutions past you, and I ascended to godhood aeons before even you were born. Did you think magic stops growing at some point?” he asked, looking at her with something that resembled amused curiosity.
+
+“Can you…” she began, hesitating as the thought suddenly occurred to her.
+
+“I am sorry, little one. Even my power is not strong enough to bring the Great Mother back,” he said, intuitively guessing that which weighed heaviest on her heart.
+
+Ali bowed her head in a moment of sadness as her brief hope faded. But she had expected it; there were limits even to the powers of gods. If it were otherwise, then Azryet would have no need of her for his quest.
+
+“Come, fill this chamber with your plants so that your domain is not extinguished while you take on my quest, and then we should prepare. I will ensure it is protected,” he said, gesturing with a claw.
+
+Under the wave of his massive talons, most of the pristine white stone restored itself in a shimmering ripple of magnificent domain mastery that left Ali with her mouth hanging open. How many evolutions was that? She did note that he left the jutting spit of stone she had been perched on, the epicenter of their confrontation, unaltered.
+
+Ali nodded, descending to what remained of her pitiful domain. She popped open her Grimoire and summoned a Moss Creeper and a Spore Spreader. She had been desperate not to lose the thread of her domain as she struggled from the rift and her travels through this abyssal realm, never knowing for sure if she truly risked losing it. It was at once satisfying to have Azryet confirm her deduction, and simultaneously terrifying as she considered how close she had come to losing it so many times.
+
+Then, with a tremendous flourish of holy and void magic, Azryet teleported, bringing Ali, her now healed Carnage Berserker, and her acolyte along with him.
+
+Dusk was falling, and in the deepening twilight, Mato studied the ruins of the south gate into Myrin’s Keep. The once-strong battlements were shattered in several places, and the arch over the town gate had been reduced to a pile of rubble blocking the main street. Infecting everything like a malignant growth, was the ever-present fungal creep. The gray-green, slimy fungal growth stank with an unmistakable odor of rotting vegetation and decay, but not of the natural order, returning to the cycle of life, more like the encroaching undeath he felt from the slow corruption seeping into his heart from his mentor enchantment.
+
+It was not precisely undead, but it might as well have been.
+
+His sharp ears picked up a soft, crackling buzz, and then he caught the scent of Lyeneru Silverleaf – the strange, burning ozone of her flame and lightning wings to be more accurate – as she swooped down and alighted gracefully beside Calen.
+
+“Thanks for waiting,” she said.
+
+“Ok, Mato,” Calen said. “Lead the way.”
+
+“Cool,” he answered, transforming into the comforting weight of his Bear Form, now large enough that his shoulders were almost as high as Calen’s chest. He stretched, filling himself into the much larger body, and then he turned and ambled through the rubble-strewn, creep-covered south road and entered the shattered remains of Myrin’s Keep.
+
+His senses remained on high alert, tracking the occasional arrows flying from the two powerful bows behind him as they unerringly culled the Creep Spores drawn to their scent. The constant detonations of the Creep Spores and flashes of coruscant white and fiery red light and mana that accompanied the archery skills was certain to announce their presence to the dungeon itself, and so he didn’t bother much with any attempts at stealthiness, ambling along in the center of the street as he studied the ruins and the warped and twisted trees now growing everywhere, eyes, ears, and other senses peeled for any signs of more powerful monsters.
+
+“Incoming from three o’clock. Three druids,” Calen announced, and Mato turned immediately to look.
+
+Dark Druid – Sylvan Elf / Plant – level 93-97 (Nature / Death) x3.
+
+The three dark and twisted monsters froze momentarily as they emerged from within the shroud of thick, gnarled trees growing up through a ruined house on the side of the road. Each stood a little taller than himself, with strangely twisted elf-like features, however, they seemed to be far more tree than person. Their bodies were covered in thick, blackened bark with leaves sprouting from everywhere. They seemed wiry and strong, wielding various weapons that appeared grafted onto their arms, and their bodies were supported by a network of twisted, writhing roots rather than legs.
+
+Their frozen surprise lasted less than a moment, and all three of them warped and twisted: one vanished into the shadows, the second stepped into the nearest tree with a skill that reminded Mato painfully of his mentor, and the third warped and shifted, her body growing thicker and heavier, until it assumed a form that he was intimately familiar with. Then, the Dire Bear charged him.
+
+He shifted course immediately and charged to intercept, his massive bulk of flesh, hide, and void claws crashing into the dark bear of twisted heartwood, bark, and thorns. He roared his challenge, and the bear before him roared louder in answer, swiping with heavy claws in a powerful impact that ripped through his hide, drawing fresh blood in a bright crimson spray. He returned the favor with a heavy Swipe imbued with Brutal Restoration, void magic, and his armor-piercing rend. His claws ripped through bark and wood, spraying sap into the air, but while the void sizzled and tore, somehow the emerald-green glow of his Brutal Restoration seemed to bring life back to the wound.
+
+Huh, what is that?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

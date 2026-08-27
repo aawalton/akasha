@@ -1,0 +1,159 @@
+---
+id: a027f6c5-fdeb-5f15-81ed-9277700f2ea8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 456: A Visitor for Havok"
+slug: 0493-chapter-456-a-visitor-for-havok
+partOf: dungeon-of-knowledge-complete
+position: 493
+ownLength: 1653
+unit: words
+ownProgress: 1653
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2797680/chapter-456-a-visitor-for-havok"
+royalRoadId: "2797680"
+markedReadAt: "2026-06-29T20:28:56.182Z"
+---
+
+Gromm gathered the dark woolen cloak around his broad shoulders and raised the hood. It twisted and pulled uncomfortably, draped over the axes on his back, but hiding his face from casual notice was far more important.
+
+He stepped forward, approaching the guarded gate at the north end of Myrin’s Keep. His skin prickled strangely as he crossed an invisible threshold, but it was the unmistakable scent of dense mana that made him pause. Suddenly, his notification drums sounded.
+
+You have entered the Dungeon of Knowledge.Experience earned towards Knowledge and Mastery traits is increased.A portion of this increased experience is tithed to the dungeon.
+
+Dungeon? His hand instantly found his axe.
+
+“Hey, you! What business do you have with Myrin’s Keep?”
+
+The guard was wearing well-made steel plate armor and carried his spear with an air of competence. Soldier. And he wasn’t alone.
+
+“I am but a traveler seeking enlightenment,” Gromm said, releasing the grip on his weapon, unable to hide the distinctive gravelly tone in his voice.
+
+“I am going to need something more specific before I let you in,” the second guard said crisply. “Show your face, please.”
+
+Here it comes, he thought. Humans. Always afraid of anything bigger than themselves. He reached up for the cowl and drew it back. “I heard there was a temple of the new god Azryet here.”
+
+“Orc!” the first guard exclaimed, raising his spear instantly and triggering several defensive buffs.
+
+Iron Skin, Gromm thought, readying himself. But the other guard interrupted the imminent fight.
+
+“Relax, Karrick, he seems peaceful.”
+
+“But he’s from Toria. And he’s an Orc…”
+
+“And he kept his cool while you rattled your spear. Stand down.”
+
+Gromm nodded to the second guard, grateful – and more than a little surprised. At least one of them had a kernel of sense in his little head.
+
+“I will need your name for the log,” the reasonable guard said.
+
+“I am Gromm of Drak,” Gromm declared proudly.
+
+“Very well, Gromm of Drak. You can inquire about the temple of Azryet at the Adventurers Guild. Please do not cause any trouble while you’re visiting Myrin’s Keep. And, sorry for the state of the town.”
+
+“On my oath,” he said, and stepped through the gate, still feeling the hard glare of the first guard on his back and the prickle of the dense mana against his skin.
+
+What sort of place is this? People wandered about freely, seemingly indifferent to the fact that they were living inside a dungeon. He only made a few townsfolk flee in terror before he found someone willing to give him directions. Probably thinking they value their skin… he chuckled bleakly. I gave my oath. Still, if this is a dungeon…
+
+The Adventurers Guild was easy to find. Especially considering it was one of the few actual buildings left in a town strangely devoid of them. He couldn’t figure out what had happened here, but there were no ruins or remains, only wide-open spaces with brand-new roads and a few intact buildings that stood out as being brand-new. There were many tents and makeshift camps, though, and the marketplace seemed to be teeming with people.
+
+He reached the guild without scaring anything more than a black feline, which fled with a pitiful hiss, and paused before opening the door. He had not had good luck with guilds before – in fact, the mercenary guild was the only place that seemed to care less who he was, and just whether he would take difficult jobs.
+
+But he was still curious, and this was the place to get answers. The crusaders had spoken of a Goblin paladin and a dragon god of battle. And his instincts told him he would find something he would like – or need – through these doors.
+
+Not like I haven’t been run out of towns before, he thought, frowning. But he reached out and pushed open the door, stepping in before he could change his mind.
+
+“Good evening, how may I help you?”
+
+“Uh,” Gromm said, caught a little flatfooted by the uncommonly pleasant greeting from the skinny, well-dressed elf. “I’m looking for the temple of Azryet.”
+
+He glanced around the guild, his eyes widening at the sheer number of powerful adventurers, many well past his ability to identify. So many three marks. He was used to being feared for his high level and race, but this was something else. He scratched vigorously at an itch on his neck. Is this what it’s like to feel… small?
+
+“Havok, you have a visitor,” the Elf called out.
+
+“Visitor?”
+
+A small, green-skinned figure emerged from the throng. He had a weathered face with thick, pointed ears that jutted out sideways from his head, but he wore shining plate armor of the highest quality and carried a heavy shield that looked like it had seen intense battle. The parallel scoring across the shiny, well-buffed surface could only have come from a dragon with a paw larger than Gromm’s chest.
+
+Paladin – Goblin – level ??? (Holy)
+
+“Are you Azryet’s Paladin?” Gromm asked, inclining his head respectfully at the powerful Paladin. He might be two heads taller than most in this guild hall, but this one deserved that respect.
+
+“Havok is,” the Goblin said, nodding solemnly up at him without any of the usual discomfort or awe at his size.
+
+“How do I ask Azryet if he will be my patron?”
+
+“Easy. Havok ask.”
+
+To his immense surprise, the Goblin simply knelt, his armor clanking against the stone floor. And then he spoke.
+
+“Oh, Azryet. Havok have new one for you. You want?”
+
+Is this guy for real? Gromm thought.
+
+But then an aura of intense holy light edged with flecks of sizzling midnight black fell upon the kneeling Goblin, and Gromm felt the presence of something unimaginably immense descending upon him. For the first time in his life, he felt utterly insignificant in the presence of true power. Instantly, he fell to his knees beside the paladin.
+
+“I’m not much of a stickler for formality, Gromm. Do you wish for my patronage as Havok said?”
+
+The voice in his head was ancient and resonated with both strength and wisdom. It turned his bones to water yet did not crush him, nor his will. Any doubt he might have harbored about this Azryet vanished in an instant.
+
+“I do,” he answered firmly.
+
+“Very well. I have much use for a warrior of your caliber, either in battle against the hordes of demons, or as an ambassador to the Orcish tribes.”
+
+The Dragon God, Azryet, offers his patronage.Godly Patronage – AzryetTraits: Void, Holy, Domain, Deity, Minion, Draconic, Strength, Vitality, Endurance, Intelligence, Wisdom, Chaos, Combat, Healing, Knowledge.Reputation gained enhances the reputation of Azryet. As your patron’s reputation grows, boons and enhancements may increase.A small chance on hit to do additional Holy or Void damage. Enchantment – TitheAccept this patronage?
+
+Shaking just a little, Gromm unclipped his axe and held it firmly before him, bowing his head over it. “I…” He cleared his throat and steadied his voice. “I accept.”
+
+Immediately, his notification drums sounded: a call to battle.
+
+You have gained Azryet’s Favor. The Calamity smiles upon your actions.Your attacks gain additional Void damage on hit.Blessing – Duration: 1 second.
+
+Dark wisps of sizzling void mana crawled down his hands and the haft of his axe, coalescing along the blade for a moment before fading, leaving a strange pungent odor lingering in the air.
+
+Immediately, someone in the background intoned, “Thanks for the damage.”
+
+“Welcome,” the Goblin paladin said, getting to his feet and offering a hand in greeting. “I am Havok.”
+
+“Gromm of Drak,” he said, gripping wrists with the Goblin.
+
+“Nice axe, good damage,” Havok said, grinning at him. “Azryet like damage. We make you strong disciple.”
+
+“Gromm of Drak?” a husky female voice echoed. He turned to find himself eye-to-eye with a dark-skinned troll. He caught himself admiring the thick muscles of her neck and shoulders as she continued, “You look big. When you’re done with all this god stuff, we should fight!”
+
+He identified her immediately.
+
+Shaman – Troll – level ??? (Blood)
+
+He gulped and then pulled himself up a little taller. Tough fight.
+
+“Gara, at least invite him to join the guild first before you beat him up.” The comment from the crowd was met with raucous laughter.
+
+Who are these people? And yet, despite their bizarre behavior, none of the eyes watching him harbored any hostility. This one jests about beating me up? For the first time since he had left the tribe, every face seemed welcoming, every look curious. There were even friendly smiles. It was only then that he noticed the Beastkin chatting happily with the Night Elf and half-elf. Gnomes mingled with humans. There was even a Fae flying around on softly humming wings of golden glitter.
+
+Wait, is that a necromancer?
+
+“Just wait until you meet Naia,” the elf receptionist said, stepping up beside him with a magic panel and a ring. “She’s a slime. Would you like to join the guild?”
+
+“Uh, yes,” he managed. “If you accept…”
+
+“Orcs? Of course. I even have two up-and-coming gold-rank teams you could try out for,” the elf said, offering him the magic panel. “Just remember, I expect all members to follow the first rule of the guild, without question.”
+
+“What rule?”
+
+“No bleeding on the carpet.”
+
+“Or fire in the hall!” someone yelled from the back.
+
+“Or ectoplasm,” the necromancer called out from the other side of the hall. “Or zombie guts. She doesn’t like those either.” His pained shout was instantly greeted by a chorus of laughter.
+
+Head spinning now, Gromm lowered his gaze to the panel, rubbing his breastbone as he read through the text, while trying to work out what exactly this feeling was that caused his heart to expand. Huh. That’s weird. I’m happy?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

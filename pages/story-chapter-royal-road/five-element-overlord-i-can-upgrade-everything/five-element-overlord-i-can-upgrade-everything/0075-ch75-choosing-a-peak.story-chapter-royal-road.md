@@ -1,0 +1,133 @@
+---
+id: 7c14c547-c182-53ef-9b2b-0023b1d12725
+page-type-slug: story-chapter-royal-road
+title: "Ch75 Choosing A Peak"
+slug: 0075-ch75-choosing-a-peak
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 75
+ownLength: 1843
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3531687/ch75-choosing-a-peak"
+royalRoadId: "3531687"
+---
+
+“Now that was a stroke of luck!” The Law Enforcement Hall officer remarks while letting out a sigh of relief, flying out of the danger zone.
+
+Soon, we even make our way back over the Stone Valley Stronghold.
+
+Communication pings go off intermittently on the public channels of the squad captains’ talismans, and hundreds of flying vessels pass us by in the opposite direction, leaving the sect for the battlefield where we came from.
+
+A few of them are enormous ships, giving off fluctuations of aura from foundation establishment cultivators even multiple kilometers away when we pass. There are a few more rough patches where enemy demons still fire off blood aura into the sky, but it becomes less and less the closer inward to the sect we travel.
+
+Reports of strongholds being recaptured by Inner Sect squads ping occasionally in the squad leaders’ talismans as familiar landscapes appear on the horizon.
+
+“The first stop is the Combat Peak. Bao Zhan, Yun Renshu, prepare to unboard. Take along whichever stewards you wish. It has become common practice for most of the squads I return with to bring along loyal stewards they fought with.”
+
+The dark skinned warrior looks to Old Chu, Old Liu, and the other two 3rd level qi refining stewards that have survived from our squad. “I’m a man of my word. Even though I am not a named disciple, I run a small combat estate of my own, and could use the extra hands. I said if any of you survived this trial, I’d do my best to get you closer to the Outer Sect. The Combat Peak’s hierarchy is based solely on your strength and battle capability, so without any potential to become mid stage qi refiners, you’ll be quite limited in the long run. However, your perks will be much better than your old steward’s life.”
+
+He smiles as all four bow and agree to join instantly, then turns to me.
+
+“What about you, Li Hao?”
+
+The fast traveling airship approaches the peak quickly, but I’ve pondered this question ever since Green Rock Lake when I agreed to join him or pay him back with something just as good.
+
+“Will I be able to leave Combat Peak often? I do enjoy going to the Red Pine Market… and hope to visit other larger markets regularly.”
+
+Bao Zhan clicks his tongue, “Not exactly. Not until you gain the favor of our Peak Master. The common rules of Combat Peak are that if you’re not training, you have wasted the day. There are constant spars, battle rankings, and work to be done inside the confines of the peak. Even I don’t leave to visit the Red Pine Market very often. However, with your capabilities, it would be the perfect place to improve your battle tactics.”
+
+I sigh, and murmur, “I’m not much of a flashy fighter. I’d rather keep my abilities unknown to the public… Though, I would make an exception if you could get me into the Outer Sect as a formal disciple.”
+
+The dark skinned man shakes his head. “I do not have enough pull to make any guarantees like that. The only possible way an initial stage qi refiner could be accepted would be to win a high ranking spot in the annual combat peak tournament. It is open to every peak to send challengers of any status ranking, the next one should be in about 6 months.”
+
+“That is too long of a wait…” I turn to Wang Ming resting up against Mantou across the ship, “What about you? Is your Beast Mastery Peak looking for new outer sect disciples? I see you in the Red Pine Market quite often.”
+
+Wang Ming’s fatigued eyes widen, “Really? You’d join? I am a named disciple after all. My grandfather was the vice peak leader for a few years back in his prime, so I certainly could put in a good word.” he straightens his back and grins.
+
+“If the perks are good enough. I need access to markets, I don’t want to be confined to a peak.”
+
+Wang Ming shrugs, “That’s no problem. There are more relaxed outer disciple positions at the peak, like farming a food supply and breeding useful spirit beasts. They have unlimited access to the Red Pine Market. If you really need to travel further, I’m a named disciple, I can leave the peak whenever I want as long as I stay within the sect’s boundaries. I can even visit Lingshi City once a month if I need to, there is always an option to bring help along.”
+
+“That sounds much better…” I murmur.
+
+The flying vessel stops above the Combat Peak, then starts descending.
+
+I turn to Bao Zhan again, “What do you think your rewards for your efforts at Black Iron Mountain will be? Something to help you reach the perfected stage of your physique?”
+
+He raises a questioning eyebrow, then sighs. “Most likely it will be more focused around Qi cultivation, I’ll probably be granted longer unrestricted access to high grade veins. With it, maybe one of the perfect grade black iron ore specimens… Though, I already absorbed all I needed to reach the late stage of my physique while in the mountain. Those stones won’t be much help in perfecting my physique.”
+
+I grin and toss Bao Zhan a High Grade storage ring with a single item inside, the inferior quality tier 2 black iron core. “I’ll have to pass on your offer to join the Combat Peak then, Wang Ming’s offer is far too good to pass up. However, I am a man of my word too. Hopefully this is a bit more helpful to you than what the sect has to offer. If you think I’m overdelivering on our deal, consider the extra as me opening a positive string of fate. My time in this war would have gone much differently without you as a squad captain. Maybe I'll stop by that combat tournament once it comes around, we should both be much stronger by then.”
+
+He catches the ring, but looks at me with a strange expression at my cryptic ending remark.
+
+The flying vessel slowly hits the ground, and the imprint cracks at the same time.
+
+Bao Zhan’s whole body shivers and his pupils constrict. “This is…”
+
+I smile and wave while Yun Renshu walks the four stewards off the boat.
+
+“Indeed it is. You should probably wait for a more private setting to try it out.”
+
+Bao Zhan bows multiple times, then jumps off the boat.
+
+“Until next time, Heavenly Archer.”
+
+I nod back, as this is the first time he’s referred to me in a manner that puts me as his superior.
+
+The flying vessel floats upward, and flies away. Many of the stewards look at me in confusion, and even the ship captain can’t tell exactly what just happened.
+
+The only one to speak up is Mu Shulan.
+
+“You want to join the Beast Mastery Peak? Do you even have a spirit beast?”
+
+I turn to look at her curiously, and pull out the sleeping Little Red from my steward’s robe. There is quite literally no qi coming off him now. The small dark red creature looks and feels as ordinary as a normal toad.
+
+“He’s a little worn out, but I assure you, he’s a level 1 spirit beast. Didn’t Wang Ming tell you? I bought it from him.”
+
+Her eyebrows scrunch, and she looks at the pale man scratching Mantou’s neck.
+
+He only shrugs, and looks back to me. “You seem like the kind of guy to like your secrets kept.”
+
+I nod, gaining even more respect for the formerly fat man. He really hasn't said a word about me to anyone. I shift my gaze to Mu Shulan.
+
+“Your fiancé is right, I do like to keep my secrets. But we’ve already met a few times. I wonder how those two blades and spatial ring sold in Lingshi City, did you make a good profit?”
+
+Her gaze is filled with confusion at first, but slowly understanding connects and her eyes widen.
+
+“It- It’s you? Who are you…?”
+
+I let out a sigh and walk over to the edge of the boat, watching more mountains fly by below us.
+
+“I’m Li Hao. No one important, just an aspiring outer sect disciple of the Beast Mastery Peak.”
+
+–
+
+Communication talisman pings continue to go off as we venture back into the sect, confirming more and more victories.
+
+I calmly allow the alcohol in my system to be detoxified, and eventually watch the Alchemy Peak come into view nearby where I was a steward before this war.
+
+As we pass it, and move further inward toward the Beast Mastery Peak, I feel a talisman deep inside my system storage quiver. It is one that only triggers when within 100 kilometers of the other connected talismans. It’s the one given to a steward I met a long time ago in the Red Pine Market, who I bought my first batch of inferior grade qi gathering pills from.
+
+This sparks curiosity, as I told him only to contact me once he makes it into the Outer Sect.
+
+We fly away from the peak, and eventually start to descend down to an unfamiliar one.
+
+Surrounding this massive mountain, I already see large enclosures with cow and sheep-like spirit beasts fenced in. They have large grasslands in the valley between two smaller mountains to graze on, and rocky peaks to climb and explore.
+
+In the distance, I see some kind of crops being grown too, but my natural eyesight cannot see past it.
+
+There are dozens of smaller mountains around the central peak, all with their own ecosystems and business being conducted.
+
+We descend near the middle of the main peak, over 15 kilometers above the ground level where many stewards and servants live. When we land, our surroundings only consist of heavy trees, and a single stone staircase.
+
+It leads up the mountain even further, and all the way down too.
+
+“Wang Ming and Mu Shulan, this is your stop. Take the stewards you’d like with you. The rest I will bring back to the Recruitment Peak and have them returned to the camps they were pulled from.”
+
+Mu Shulan nods to the six stewards, and one vice captain that survived Black Iron Mountain with her. They get on the backs of multiple smaller flying spirit beasts that look like oversized cranes. She gives Wang Ming’s arm a tighter hug, then lets go and boards her green feathered eagle.
+
+“I’ll check my team in, and see what spirit food in the markets I can gather to restore your strength. See you at your peak once you’re done.” They all fly upward as Wang Ming, Mantou, and I step off the boat.
+
+It’s flown away by the Law Enforcement Hall officer without another word.
+
+Wang Ming climbs on Mantou’s back, and I walk beside him. We slowly climb up the steps of the Beast Mastery Peak together.

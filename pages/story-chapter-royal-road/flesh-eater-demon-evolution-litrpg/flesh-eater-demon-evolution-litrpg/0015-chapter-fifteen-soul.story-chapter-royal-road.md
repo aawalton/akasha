@@ -1,0 +1,177 @@
+---
+id: cefa7719-26d7-50a5-96d2-6beeb80639fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifteen: Soul"
+slug: 0015-chapter-fifteen-soul
+partOf: flesh-eater-demon-evolution-litrpg
+position: 15
+ownLength: 3025
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2577823/chapter-fifteen-soul"
+royalRoadId: "2577823"
+---
+
+Pyre snorted. “Very generous,” she drawled. “Funny how you still haven’t said what exactly the payment’s going to be.”
+
+“I like to let my clients give the first offer,” Pax said lightly. “It’s more interesting that way.”
+
+Pyre could practically feel Callan’s worried gaze burning into her. They’d discussed this when she’d first brought up the whole summoning a crossroads demon idea. Apparently—or at least, according to this world’s history books—they took a wide range of payments. The more powerful one was, the more random shit they could take. It didn’t even have to be a material good, which was great news for her, considering her meager possessions of herself and a bunch of corpses. There were stories, for example, of crossroads demons making deals in exchange for a future favor.
+
+Obviously she wasn’t going to do that. Promising some rando demon a “favor” already sounded like a bad idea, and it sounded extra bad when that rando demon was Pax, who Pyre already didn’t trust for shit. And they’d only known each other for, like, a few minutes at this point.
+
+No, she wasn’t going to offer some vague favor that could be cashed in whenever and for whatever. But what she could do was set some clear boundaries. If she limited what the favor could be used for down to a few specific tasks that were less likely to screw her over, then she could work with that.
+
+“Well,” she began, “as you can see, I don’t own much.” She rippled some of her flesh for emphasis. “But I happen to be pretty good at getting shit done, and I travel a lot.” Or she would be, anyway. No way was she going to get reincarnated into a magical land of dead ancient titans and not explore. “So, I was thinking if you’ve got anything that needs to be picked up, I can take care of it.”
+
+Pax’s eyebrows rose. “You’re offering to retrieve something for me?” The crossroads demon sounded amused, which was a good sign when the other options were “pissed off” and “not amused.”
+
+“Yep.” She purposely popped the ‘p’ for extra emphasis.
+
+All things considered, a fetch quest was pretty much a best case scenario for Pyre. She didn’t have a set destination in mind in the first place, so it wasn’t like she’d be veering off course or anything. Hell, it might even help add some direction to her travels. She didn’t even mind if it was some extremely hard-to-get object in a difficult-to-reach area; if anything, she was counting on it. The challenge would be fun. The only real cost to her would be time, and she currently had that in spades.
+
+Pax threw her head back and laughed, voice ringing throughout the clearing. Callan looked deeply disturbed at the sound. He inched a little further away.
+
+“And what makes you think,” the crossroads demon said between laughs, “that there’s anything you could retrieve for me that I can’t on my own?”
+
+Pyre morphed her flesh up and down in a movement resembling a shrug. “Hey, you said I could make the first offer.” That, and she didn’t completely buy Pax’s whole “didn’t want to let a body go to waste” excuse. There was a reason the crossroads demon was wearing a human corpse right now, and she was willing to bet she had more limitations than she was letting on. Limitations that a basic, generalist fiend might not share. It was a wild shot, but there was no reason not to try.
+
+Pax gave her a long look. Finally, after her laughter had died and the ensuing silence had stretched as long as it could hold, she opened her mouth again.
+
+“You’re very lucky,” she began. “Lucky I happen to have an object I want that fits your criteria, and lucky I like you enough to let you retrieve it as a price and not someone else.”
+
+Given her current impression of the crossroads demon, Pyre didn’t think being liked by Pax was actually a good thing, but hey, she’d take it.
+
+“Great. So? What’s the thing you want?”
+
+In response, Pax removed the grey glove from her right hand. She pointed her palm up to the sky, then with her other hand, proceeded to pull what looked like a weathered, rolled up piece of paper out from below her skin.
+
+Pyre’s eyebrows rose. Well then. She’d had a few guesses about what the other demon might be hiding under those gloves, but “infinite magic storage space” hadn’t been on the top of her list.
+
+“Here.” Pax grabbed one end of the paper, allowing the rest to unroll in a smooth motion.
+
+Inked in thin, swooping lines, was a map. Pyre squinted at it. Obviously she didn’t recognize any of the landforms, but it looked like a map of the entire continent. Possibly this whole world—she didn’t exactly know how many continents there were. She scanned it, taking in the sketched features. It didn’t look especially strange or fantastical like this, but then again it was literally lines on a page. Who knew what all those places would be like when she actually went to them.
+
+What caught her eye the most, however, was a little X drawn near the southern coast of the continent. It sat in the center of a long mountain range that stretched vertically across the entire landmass. The label beside it read, “The Spine.”
+
+“It’s here,” Pax said, tapping on the X. “Deep in the mountains. You’ll know it when you see it.” She began rolling the paper up again. “Given the distance, I’ll generously give you six months to retrieve it, but it really shouldn’t take that long.”
+
+“You still haven’t said what this thing is. How am I supposed to know when I’ve found it?” Pyre raised an eyebrow. “It’s not going to explode and kill me on contact, is it?”
+
+The other demon smiled. “No, it won’t hurt you. It’s not dangerous, and you’ll know it when you see it. There’s nothing else in those mountains it could be. If it helps, I’ll give you a more detailed description once you’re closer. I, unfortunately, am unable to retrieve it myself due to… personal issues.” She handed the rolled-up map over to Pyre, who had to take a second to figure out how she was supposed to hold onto it without hands or a bag or any clothes to speak of.
+
+In the end, she settled on stretching part of her body to wrap around the paper, then absorbed one end back into her main mass. Now, she had something resembling a pocket to carry things in, except the pocket was made of flesh and directly attached to her.
+
+“Okay, so now what? We need to shake on it? I don’t exactly have hands.”
+
+“Your word is enough on its own.” Pax cocked her head. “Lower crossroads demons use binding spells, but I don’t need them. If you don’t hold up your end of the deal, I can always find you.”
+
+The last part of her words echoed in clear threat. Callan shifted uncomfortably behind them while Pyre studied the other demon. That feeling of wrongness hadn’t disappeared at all since they’d begun talking. If anything, it was stronger than ever. The idea of the crossroads demon keeping tabs on her wasn’t a pleasant one, but she did want to know what was going on with her soul.
+
+Call it a hunch, but her gut told her that if she walked away from this deal, she’d never know. She didn’t know where this certainty came from, why her instincts were so convinced that this crossroads demon could do what the system hadn’t been able to, what seemingly no one else could, but it existed in the same space as the constant nagging that had pestered her since she’d first laid eyes on the other demon. It was illogical, she could find no source for the feeling, but it rang as true to her all the same.
+
+Fuck it, she decided. She’d been working off her instincts ever since waking up in Fred’s stomach—without her memories, they were all she really had. And now, she was going to trust them again.
+
+“Deal.”
+
+The moment she spoke the words, a faint chill coursed through her. It was the opposite of the warmth she felt whenever she got something new from the system, but it seemed to exist in the same vague category. The sensation faded quickly, just like the system waves did, and she raised an eyebrow.
+
+“Thought you said you weren’t gonna do any spell binding shit.”
+
+“That wasn’t a spell; that was simply the stream registering the deal.” Pax stepped forward. “Now then, the soul scan shouldn’t take long. I’ll just need you to stand still.”
+
+“Is it dangerous?” Callan suddenly piped up. Pyre swiveled an eye around to look at the ghost. His brows were furrowed, and she was surprised to find what looked like genuine worry there. Huh. Maybe this was a case of “enemy of my enemy,” with the current shared foe being Pax.
+
+Pax laughed. “Not at all. If I couldn’t do something as simple as this without putting the soul in jeopardy, I wouldn't have lived past my first century.” She began removing her left hand’s glove as well, Pyre noted. The crossroads demon must’ve noticed her staring, because she smiled and raised both hands.
+
+“Left is for souls, right is for everything else,” she said by way of explanation. She shoved both gloves into her right hand. Instead of smushing against her palm, the fabric simply passed through, disappearing into the flesh and whatever magical compartment the demon had there.
+
+Pax took a second to glance around the clearing, then nodded to herself, seemingly satisfied. “Stay still,” she instructed, raising her left hand. The crossroads demon closed her eyes.
+
+In the center of her bare hand, a silver light formed, its shade a perfect match for the ichor lights in the trees. The light glowed, first softly, before it started to expand. Soon, it burned so brightly that it hurt to look at.
+
+Around the clearing, the wind picked up. It whipped violently, kicking up stray leaves and grasses and rattling branches as it swirled around them like a barrier. Pyre heard Callan yelp, the ghost quickly hovering back to get out of the path of the wind. Throughout it all, neither of the two demons in the clearing moved.
+
+Pyre hadn’t known what to expect from this. It certainly wasn’t everyday that you had your soul inspected via crossroads demon magic. Maybe some more waves of cold or even warmth, a few stray memories, pain, something.
+
+But as she stood there, watching the light grow stronger and stronger, there was nothing at all. Nothing but the same hollowness.
+
+All at once, the winds stopped. Scattered leaves and branches fell to the earth with a clatter. The yielding grasses settled back into their original postures.
+
+In the center of Pax’s hand, the glow faded until there was no longer a trace of the silver light. The crossroads demon didn’t move immediately, her eyes still closed. Pyre waited patiently.
+
+Finally, after what felt like hours and seconds at once, Pax slowly lowered her arm and opened her eyes again. They were the same pale shade as before, but for a brief second, Pyre thought she caught a flash of something else there.
+
+“It’s a good thing you didn’t offer your soul for our deal, even partially,” the crossroads demon said conversationally. She proceeded to pull the gloves out of her hand and put the left one back on. Pyre wondered why she’d even bothered to store the gloves in the first place if she was just going to put them on again so soon, but she figured it was another one of the crossroads demon’s quirks.
+
+“I’m guessing that means you couldn’t have broken through the blockage.”
+
+“Yes and no.” Pax cocked her head. “Even if I’d managed to break through, it wouldn’t have mattered because there’s nothing there.” She paused. “Well, nothing much,” she corrected.
+
+Pyre gave her a long look. “You’re saying I don’t have a soul.”
+
+“Not all of one, no.” The demon smiled wryly. “It looks like your soul was shattered at some point, possibly during reincarnation. Most of it’s been scattered. Only a small portion remains now.”
+
+She shrugged. “The good news is that the pieces still seem to exist. That blockage isn’t external, either. It looks like it was a form of self defense that last piece of your soul created to protect itself. It should go away on its own once it’s no longer needed.”
+
+There was a lot of information spilling from the crossroads demon right now, but Pyre’s attention snapped to one particular detail.
+
+“I never told you I was reincarnated.”
+
+Pax raised an eyebrow. “You think I can’t recognize a reincarnated soul? You think too little of me.” She held out her right hand again, absently thrusting her left arm through the palm, where it disappeared from view as she rummaged around for something. “You seem to be taking this well,” she observed.
+
+“There were only so many options.” What else was she supposed to do? Freak out? It wasn’t like her actual situation had changed; she’d just learned more about it. Pyre paused, thinking.
+
+“Hey, you said the pieces’re still out there, right?”
+
+The other demon nodded. “Yes, though again, they’re scattered. The soul is quite resilient, though, so with enough time, they should return on their own.”
+
+“How long?”
+
+“Centuries, maybe, a few decades if you’re lucky.” Pax hummed. “It’s hard to say for sure. You can always try looking for the pieces yourself if you want to speed things up. Ah, there they are.” She stopped rummaging and drew her arm back.
+
+Clutched between her fingers were what looked like a long silver cuff earring and a plain bracelet consisting of a black cord tied around a green stone. She tossed the items at Pyre, who shot out a bone plate to catch them on. Yep, even up close, they looked like perfectly normal pieces of jewelry.
+
+“If you put those on, you’ll register as human to any detector spells. I’m assuming you won’t be walking into the village looking like that.”
+
+Pyre’s eyes flicked briefly over to Callan, then back. “Yeah? And I’m guessing you made them ghost-proof?”
+
+“The bracelet can be worn by incorporeal beings,” the demon said dismissively. She slipped on her right glove again. “Now, is that all?”
+
+Pyre thought for a moment. “Say I did want to find those pieces,” she began. “You happen to know where they are?” Or how many of them there were, was the unspoken second part of the question.
+
+Pax smiled. “That’s not part of our deal, I’m afraid. But, if you ever find yourself wanting to know, all you need to do is wish into the stream. I will hear you.”
+
+She took a step back and performed an exaggerated bow. Her silver earrings swayed slightly with the movement. “I trust you’ll remember your side of the deal.” She straightened.
+
+“Until then.”
+
+And then, with no flash or warning or sound, she was gone. Simply there one moment, then vanished the next.
+
+In the crossroads demon’s wake, the clearing felt significantly emptier than before. She hadn’t left any footprints or even a stray hair. The two pieces of jewelry sitting on the bone plate were the only evidence that she had ever been there at all.
+
+Behind Pyre, Callan hesitantly hovered closer. The ghost’s expression was a complicated mix of emotions that she couldn’t even begin to decipher. He kept looking like he wanted to say something, then decided against it. Pyre couldn’t really blame him. That had been. A lot.
+
+But they had their ticket into the village now, and those crystals were still waiting. She could think about everything else along the way. One thing at a time.
+
+Pyre retracted the bone plate, dropping the jewelry pieces into the flesh pocket she’d placed the map in. It spoke to how out of it Callan was that the ghost didn’t even react to the sight. The demon shifted her body into a longer shape more suited for travel, then flicked the end towards the forest.
+
+“Let’s go.”
+
+At night, the forest glowed with the light of ichor. The thin streams traveling below the ground, previously nearly imperceptible to the naked eye, became visible lines tracing jagged patterns across the earth. In the canopy, bundles of light nestled among the leaves stood out starkly against the darkness of the trees, between which animals—both ichor-warped and not—roamed.
+
+A lone hill stood in the center of the forest. Its surface was completely bare, untouched by all traces of life, and its dark silhouette cut a looming shadow against the sky. Unlike the quiet movements of the rest of the forest, the place was silent and still.
+
+In front of the mound, a monochrome-clad figure appeared. Walking with even steps, the crossroads demon didn’t stop until she was standing directly in front of the fresh hole that had recently been opened up on the side of the hill.
+
+She raised a gloved hand and pressed it into the gap. It passed through easily. She drew her arm back again.
+
+Throwing her head back, the crossroads demon laughed.
+
+It was a full-bodied laugh, the sort that rang crisp and clear and easily cut through the sound of the wind. The few animals nearby that hadn’t already hidden at the figure’s presence strayed away from the noise. The grasses themselves seemed to bend in retreat.
+
+Shoulders still shaking with laughter, the crossroads demon turned and pressed her back flat against the hill, leaning against it. She ran a gloved hand over her face and tilted her head back. Pale eyes stared up at the sky, practically clear in the silver moonlight.
+
+“Amnesia,” she muttered. Another wave of uncontrolled laughter overtook her, just bordering on the edge of hysteria. She shook her head.
+
+“What a mess.”

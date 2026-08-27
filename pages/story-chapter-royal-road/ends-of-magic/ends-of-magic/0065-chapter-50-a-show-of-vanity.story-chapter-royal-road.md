@@ -1,0 +1,241 @@
+---
+id: 4a8fbec2-ec25-500a-83e5-ac3a027d5b54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: A Show of Vanity"
+slug: 0065-chapter-50-a-show-of-vanity
+partOf: ends-of-magic
+position: 65
+ownLength: 3347
+unit: words
+ownProgress: 3347
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2967787/chapter-50-a-show-of-vanity"
+royalRoadId: "2967787"
+markedReadAt: "2026-06-29T20:09:20.990Z"
+---
+
+The Heirs awoke very early, Khachi making sure they all got up at the desired time. They ignored most of the luxuries of the suite, defaulting to the ritual of the trail as they got ready to fight.
+
+“Once more off to war,” Aarl joked as they did last-minute checks. “In truth, this time, instead of just in practice. Are we all ready?”
+
+“Ready. I’m worried about the other Questors,” Sarah admitted. “Too many unique powers. Battle between Questors is a matter of striking at weaknesses, and with enough enemies, they will find a weakness.”
+
+Stella grinned wide. “Tricks don’t matter if you never have the chance to use them. We only need to survive a little while, and after that, it won't matter. I’m set.”
+
+“All we need to do is keep Khachi alive,” Nathan said, mirroring Stella’s dark humor. “He can bring back anybody who dies. Ready, not that I’ve got much gear.”
+
+Khachi replied in a serious tone. “That is my power. It will be harder if your bodies are destroyed. Try to die cleanly. I am prepared.”
+
+Sarah sighed in resignation. “Let’s just ensure that the Aleph Grid does the dying. It won’t be permanent for them, but we'll still win our victory.” She shot a warning look at Nathan, not even speaking the next part aloud. But Nathan got the message. This wasn’t the time for him to experiment with his new Insight.
+
+Sarya was waiting outside the door, invisibly blended into a patch of shadow. Nathan could only tell she was there by detecting her oddly resonant magical items, and he waved towards her hiding spot. “Worried we’d leave you behind?”
+
+The rest of the Heirs jumped as she melted from the darkness with a slightly baffled expression. “In part. How did you detect me? Wizards of Kalis have walked right past me when I hide like that.”
+
+Nathan just shrugged. “Are we trading Insights now?”
+
+The Questor rolled her eyes, but it was accompanied by a smile. “You’ve learned. Let’s move fast. Few are awake, and we shouldn’t have much company.”
+
+They left the estate quickly, sneaking out with as little fanfare as possible. They bypassed a few Questors sparring out their nerves in the lower courtyard and slipped out the front gate, taking to the air quickly and hugging the wall of the crack as they left the Blinded Mountain by the most direct route possible. Nathan was on alert, looking for an ambush at every turn. But nothing happened.
+
+Maybe leaving a few hours early really was enough to avoid another assassination attempt. Or maybe I’m just paranoid and there never was going to be another attempt.
+
+He didn’t relax until Stella spun up her gigantic wind spell and sent the Heirs and Sarya whistling away from the Blinded Mountain. The sun wasn’t up, so the sudden greenery below was the only obvious indicator they’d crossed the invisible line that separated the land that saw sunlight from the mountain that didn’t. Nathan felt it, a wound in the aether that meant sunlight wasn’t welcome too close to the shattered temple. He could fix it, though it would mean scouring the aether around the mountain clean and waiting for it to renew from the local Seal, wherever that was.
+
+The sky over their journey was cloudy enough that only glimpses of the world above peeked through. That changed as Stella’s spell grew bigger and faster, accelerating them across the night sky at speed. It shredded the clouds above, illuminating the Heir’s path with the blue-green light of the far side of Davrar.
+
+“Not particularly stealthy,” Sarya said in Nathan’s ear. He'd felt some artifact in her possession reach tendrils of sound mana out to each of them, both delivering her words to them and listening for any response.
+
+Nathan spoke back, allowing the magic to transmit his voice to Sarya and the rest of the Heirs. “We banned stealth, didn’t we? Besides, everybody else is travelling by teleport, right?”
+
+“They will be,” Sarya acknowledged. “And they are unlikely to strike at us now. Any who die on the day of the War will not be able to participate."
+
+“Did you discover if Nierna is a traitor?” Khachi asked.
+
+Sarya huffed out a breath. “I did not make the attempt, because any investigation could be discovered, and without proof that could destroy our plans. I will keep her blind and watch for overt action until the war is won. After that, it won’t matter anymore.”
+
+“Right. Once we win, we can call the Conclave,” Nathan said. They had several hours of travel ahead, and Sarya’s artifact meant they could talk easily. He knew Sarya had her own objectives, but now felt like the time to learn more about the Conclave. “What happens then? Will we need to travel to a new location? What happens at the Conclave, and how do we drive through our agenda?”
+
+“Will you tell me your plan for the war?” Sarya countered, then winced and spoke apologetically. “I should not equate the two. There are some things I cannot say, for Davrar will not allow it. Remember that your goals for the war are not just to win, but to demonstrate that you are true powers. You should each be able to beat a Questor of my status.”
+
+“In a duel?” Aarl asked probingly.
+
+“Indeed,” Sarya answered, her tone pleased, like they’d just answered a question correctly. “You will also meet some other Questors before and after the battle. Those who are dissatisfied with Davrar, and lost the battle to keep it true to its original purpose.”
+
+“As a place for experimentation on people.” Khachi’s words were not a question and carried their own weight of judgment with them. “It seems only a small improvement over a game.”
+
+“There are as many opinions as there are Questors,” Sarya replied easily. “And Davrar will always be a game. That is what it has become. You must aim to make it more merciful, not to abolish that purpose entirely.”
+
+“It’s hard to plan out how to make this happen if we don’t know what our allies want. Or what kind of outcomes are on the table.” Nathan left an edge of caustic anger in his voice, hoping it got his point across. Sarya and her allies had enabled the Heirs at every turn, but they had steadfastly refused to give them more information on the conclave. Some of that was surely around Davrar’s rules about telling mortals Questor business, but they’d managed to hint about the blight and clue the Heirs into important details in other ways. There was more Sarya could say about the conclave.
+
+She took a minute to respond. “The conclave will be chaotic. You will have your chance to speak, and then to respond to those who disagree. If you repeat the structures from the past, then your words will be ignored. Mortals have never raised a point at a conclave before, and in doing so, you will attract the attention that we cannot grasp any other way. You must present a problem and then work with us to fix it. If you attempt to dictate terms, it will not proceed as you hope."
+
+“I’m not asking for a guide on how we should argue,” Nathan responded patiently. “I want to know how long we’ll have to prepare, and what kind of system of debate we’ll be working within.”
+
+“You won’t have long,” Sarya said breezily. “This war will be viewed across Davrar, and it will bring you fame. This is why I want to know your plans, to help improve how they are seen through the eyes of Questors. Your fame will drain away if not spent quickly, so we will hold the conclave shortly after the war is concluded. Then you will not be forgotten in the constant games of Questors. Dawn’s Concord is a good location.”
+
+Nathan knew that name from studying the map earlier. It was a port city on the northern coast of Ostren, and he thought it was probably the largest city on the continent. “We won’t have long to prepare, then. What kind of message do we need to deliver?"
+
+“That is the wrong question to ask. To stand a chance in the conclave, you need to gather a following before it even begins. The way to do that is to perform well in the war, and make the best entrance into the minds of the scattered Questors as you can."
+
+“Then how can we do that?” Aarl asked curiously, ignoring Nathan’s frustrated grumble.
+
+“You are mortals, and cannot escape that title,” Sarya replied quickly, pleased that she’d brought the conversation back to her planned course. “Questors are accustomed to seeing mortals as pieces on a board, amusing or perhaps important, but never larger than the Questors. To most, mortals are never truly in command of their own prophecy. You must break that conception. But there are ways to do it that will earn you allies instead of enemies. You must be viewed well by those whom you will never speak to.”
+
+“Branding,” Nathan said in resignation. "You’re saying we need good branding. To tell a clean story, and seem like heroes from a story, not people with all of the baggage that real people have,” he trailed off, struggling to wrap words around the concept that was bubbling up in his mind. “In my world, we had fictional characters called superheroes. They were designed to be easy to root for, with strong principles that defined them. They could operate outside of that, but they were more ideas than people.”
+
+Khachi grunted his disagreement. “There is a brightness there, but our purpose is to make the Questors see mortals as people worthy of respect. We cannot do that if we do not appear as people ourselves.” Night changed to day in accompaniment to his words, the sunlight sweeping across the surface of Davrar. The Blinded Mountain was visible as a dark triangle far behind them, but it shrank by the moment. Below were scattered villages, which were growing sparser as the Heirs travelled towards the wilds.
+
+Sarya picked the thread of conversation back up, sounding almost apologetic. “Nathan has struck the truth of the topic. This war will be your first exposure to Questors across Davrar, and they must form a picture of you with positive valence. Once that’s done, you can fill in the depths of your personality. If you make them curious, then they will beg to learn more of you.”
+
+“How can we do that?” Aarl asked again, mirroring his question from earlier in almost the same tone.
+
+“Overwhelming victory is the first requirement, but the second is presenting simple and understandable characters. You already embody known archetypes and builds, with just enough twists to encourage curiosity. But you can emphasize those roles and tweak your presentation to help gather Questors to your cause.” Sarya sounded hesitant, like she was about to suggest something she knew they wouldn’t like.
+
+“How do I do that? I already play the role of a proper mage.” Stella’s words were challenging, as if she were daring Sarya to criticize her.
+
+Sarya’s response was direct and honest. “You need to appear more mystical. The staff is good, but you don’t have enough shine to you. Channel mana to make your eyes glow for the whole of the battle. I will give you glowing jewelry and gems that float around your head. You should also take more pains to be attractive. Let your hair flow free, enhance your chest, and use a glamour enchantment I have for you. The charms of the flesh work as well on Questors as on mortals.” She indicated the rest of the Heirs, “That goes for all of you. You must embody physical perfection in every way possible. Sarah, you need to show more skin. The bandolier is good, but remove as much else as you can. Keep your weapon drawn so that people can understand your style. I also have glamours for all of you to touch up small details.”
+
+The Heirs gaped at her, but Sarya plowed onwards without slowing down. “Aarl, your outfit is confusing. You wear the best gear you have, but it looks like mage robes with a dandy’s bangles. You must seem a warrior, though it would be best if your armor hugged your body closely, especially around the shoulders, chest, and butt. Don't wear a helmet, grow your hair out some more, and carry a weapon at all times. You can swap it as necessary in combat.”
+
+Aarl’s response was sarcastic and more than a little bit gleeful. “You ask for a blasphemous sacrifice, but I will make it boldly. What of Khachi and Nathan?”
+
+“Khachi is already close,“ Sarya said. “A wolfman will carry an immediate audience, and his armor and style are distinctive enough already. Your fur needs combing, but the glamour will manage that. You should pray loudly as you fight, and emphasize divinity and justice in your words.”
+
+“Teach a mage to light a fire,” Khachi said, his tone mixing relief and annoyance.
+
+Sarya turned her attention to Nathan, flipping around in midair to study him. “Nathan is a more challenging problem. He fits no easy archetype, though a monk is closest. I suggest he play the role of your leader. More allowance is granted there, and his powers will be confusing to most, but in a way that inspires great interest. But he must strike down at least one powerful enemy Questor in direct combat with his fists. Preferably a mage, but any Questor would do.
+
+“The same is true for every one of you. There must be a moment where you all kill a Questor, personally, in a way that syncs with your presented archetype. Sarah and her gun, Aarl with a weapon in hand, Khachi with holy light. I’m sure Stella will slay enough with magic regardless.”
+
+“What is a glamour?” Sarah asked carefully.
+
+“These,” Sarya answered, slowing in the air. The Heirs slowed with her, and she distributed some minor pieces of jewelry that carried delicate enchantments. They weren’t especially powerful, but each combined a half-dozen complex healing, illusion, and manipulation spells together. “They're the good sort, that improves the base instead of simply covering it with an illusion. They will ensure your skin is clear, your coloration good, and your hair combed. I commissioned them while you were in Keihonia.” She handed out the necklaces to their intended recipients, leaving Nathan out for obvious reasons. “Put them on.”
+
+The Heirs complied, more curious than anything else. Nothing seemed to happen at first, but soon enough Nathan saw them begin to work their subtle magic. Sarah’s skin smoothed out, Stella’s blush deepened, and Khachi’s hair got wavier. “Huh, it’s like you’ve got a passive makeup effect.”
+
+Sarya fixed him with a stern look. “You can’t wear one, but you require the same treatment, even more than they do. Does your self-healing Talent allow for some modification?”
+
+“Yes,” Nathan admitted hesitantly, feeling slightly offended that he needed more work than the Heirs did. “But do we have time for that? We need to get to the battle. And don’t you need to help everybody else with their own styles?” He gestured to the rest of the Heirs, trying to deflect Sarya’s intensity.
+
+“We can discuss it while we fly,” Sarya answered, turning and leading them onwards in their journey. “To start, your brows are too heavy. You need to lighten the hair and angle the inside edge down more. Merge it with your nose, and make the flare of the nostrils more delicate.”
+
+Nathan swallowed his objections. He’d used his healing talent to modify his body before, but mostly to reinforce it in various ways. He’d also grown his hair out manually before, but hadn't dramatically altered the shape of his face. Sarya made him do all of that and more, adjusting his face and body in a dozen small cosmetic ways to appeal to the gaze of Questors.
+
+Sarya had some suggestions for using his Talent, and Nathan learned new ways to control his body. He didn’t like the process of being so nakedly objectified and optimizing for that objectification. The Heirs were intentionally molding themselves to fit the Questor’s preconceptions so that their voices would be heard.
+
+Which is part of the problem. We shouldn’t have to do this just to be listened to. But if it improves our chances of fixing Davrar, then we need to do it.
+
+His clothes were easy. Sarya approved of Nathan’s choices of loose and simple garments and commented that it wouldn’t be a disaster if he ended up without them at the end of the battle, especially if he wanted to make a few other modifications.
+
+At least Nathan didn’t feel singled out. The glamour enchantments continued to work their magic on the rest of the Heirs, making them look like they’d just stepped out of a multi-hour session with a whole team of makeup artists and stylists. Sarya improved on that, giving them the same kind of stylistic advice she’d given Nathan and helping them with the details she’d already mentioned.
+
+Aarl replaced the enchanted robes with his old metallic armor, morphing it to a more form-fitting style that emphasized his lean musculature. He kept Sussu’s bangles and several other trinkets that provided most of his real protection, but hid them beneath the tight covering. The armor looked like metallic spandex, and he really did remind Nathan of a superhero like this.
+
+For Stella, in addition to glowing jewelry and floating gemstones, Sarya provided some enchanted undergarments. Then she had Stella undo her long braid to let the glamour enchantment array it into wavy layers that looked effortless. With all of it, she looked like a mage from some imperial court, with rich colors and intricate details emphasizing her figure.
+
+Khachi didn’t require much beyond the glamour, since his armor was already polished to a mirror sheen by his magic. His divinity had also seen to the rest of his appearance, ensuring that his teeth were pearly white and that dirt never stuck to him. The glamour mostly made sure that his fur looked soft and freshly combed even when the Heirs were speeding through the air.
+
+Sarah seemed the least bothered by the whole situation, happily replacing much of her clothing with leather straps and belts. The bandolier of bullets was the largest piece of covering she kept, and with that and two holstered revolvers she looked like a femme fatale from a western movie, or the supervillain to complement Aarl’s superhero.
+
+They were down to fine details as they spotted the battlefield below. “There it is,” Sarya declared. The valley looked just like the map, with the addition of a couple of campfires burning towards the back of the Ashen Accord’s designated starting zone. About two dozen people sat around the fires on chairs and benches, and even from here, they were unique enough to obviously be Questors. Sarya led them down, straight towards the fire. “It’s time to meet some of the other original Questors.”
+
+Permanent Talent 1: Magical Destruction 4
+
+Permanent Talent 2: Immortal Body 8
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 9
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 8
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 4
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 4

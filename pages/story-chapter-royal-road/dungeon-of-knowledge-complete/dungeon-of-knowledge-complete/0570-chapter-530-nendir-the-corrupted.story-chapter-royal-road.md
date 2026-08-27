@@ -1,0 +1,209 @@
+---
+id: 7246e677-14e7-5cb9-b6fb-78ee972432c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 530: Nendir, The Corrupted"
+slug: 0570-chapter-530-nendir-the-corrupted
+partOf: dungeon-of-knowledge-complete
+position: 570
+ownLength: 4041
+unit: words
+ownProgress: 4041
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3022046/chapter-530-nendir-the-corrupted"
+royalRoadId: "3022046"
+markedReadAt: "2026-06-29T20:31:43.502Z"
+---
+
+Calen’s body trembled, a bone-deep, chilling shudder that gripped him from the shoulders and sank all the way into his boots. Yet, it was impossible to look away from the ghastly apparition that floated up from deep within the dense smoke. Transfixed, he found himself unable to tear his eyes away from the apparition, but it was not the waves of tangible power radiating from withered flesh, nor the ominously pulsing purple crystal impaled through his chest; it was the face:
+
+“Nendir…” he whispered.
+
+He stared in horror at the thing using his teacher’s corpse. Gone were the faint smile-lines from Calen’s fondest memories – lines that had appeared like the dawning of the sun whenever he mastered some crucial milestone in his lessons or grasped a subtle concept to make a breakthrough in understanding. Instead, the wise, mild-mannered master Elf’s face was sunken and gray, his eyes replaced by orbs that shone coldly with cunning, spilling borrowed power from the wraith’s domain, and lips pulled up into a rictus by the withering of the flesh on his face.
+
+Suddenly, a woman’s voice screamed out over the noise with soul-crushing grief and anguish.
+
+Coria. Her pain broke the spell over him, and his heart was torn afresh on her behalf. He had known Nendir for but a short time as a mentor and a teacher. But Coria, he knew, had been especially close to her father. To see him like this must be like a poisoned dagger driven into her heart.
+
+Nendir [The Corrupted] – Wight – level 261 (Nature)[Explorer]Category: Dungeon BossThreat Level: ChampionTier: ThreeMonster Type: WightDamage: Physical, Nature, Arcane, Soul, Death.Known Abilities: Lunaré’s Lament
+
+The monstrous wight gave him no time for thought. A sleek and deadly bow appeared in that grotesquely gaunt, gray hand. A bow he had never seen before. It gave him pause, somehow filling his heart with profound sorrow to merely behold it, as if the bow itself was making his soul weep. The instant he felt it, he recognized the bow from the legends: Lunaré’s Lament. Explorer updated immediately.
+
+A brilliantly glowing green mote of light popped into existence above Nendir, scintillating and pulsing with life. It circled about his head for a moment, joined by another, and then several more, before they dispersed into the air. Calen’s Explorer automatically provided their details.
+
+Woodland Sage – Wisp, Tree Spirit – level 207 (Nature) x6.
+
+Calen summoned his bow, but before he could draw the bowstring, the dark crystal piercing Nendir’s chest pulsed with ominous radiance. Gobs of death-tainted, darkly glowing purple energy burst forth from the crystal, arching high overhead to rain down like meteors upon the raid. Everywhere they fell, urgent shouts greeted dull thumps of detonating mana that rocked the landscape, blasting dirt and rock into the sky. From the smoky craters, hideously misshapen monsters rose; the massive, twisted offspring of the tainted crystal.
+
+Anarchic Atrocity – Elemental Aberration – level 220-226 (Arcane / Death) x 15
+
+Calen launched himself into the air to dodge spawned elemental aberrations, instantly releasing a full complement of decoys and barely avoiding a lumpy limb as thick as an old oak lashing out to crush him. Across the raid group, shuddering crashes and thumps mingled with strident shouts and scattering people as the lumbering atrocities – bigger and bulkier even than Ali’s berserkers – tore through their carefully organized formation with brutal blows.
+
+While the tanks scrambled to impose order upon chaos, Calen aimed from up aloft, waiting for the right moment to fire. But he never got it.
+
+Brilliant green and white flared from Nendir’s sorrowful bow, a light that evoked the serene beauty of the uncorrupted Well of Souls. The wight fired an incredible twenty-six shafts of light and magic across the battlefield in an exquisite demonstration of transcendent archery that defied all logic and reason.
+
+Calen gasped.
+
+Ignoring all his decoys and the shrouds of invisibility he’d wrapped himself in, one of the arrows slammed into his chest with the force of a giant boulder. All the breath burst from his lungs as his body was launched backward with neck-snapping force, and the enchantments imbued into the arrow ripped at his lifeforce like the ravening claws of a feral guardian beast from the darkest heart of the ancient Everwoods. The bolt, having punched through his armor as if it were paper, splitting in two within his chest, then exited from his back to fly off at great speed, seeking further targets.
+
+You have been afflicted with Wing Clip.You have been cursed with Life Tap.You have been cursed with Nature Vulnerability.
+
+Damn, he hits like a mountain… his body spiraled downward, plummeting to the ground as hungry vines and blossoms sprouted through his wings, sapping the magic of his flight. The ground rushed up to meet his headlong plummet. A small puff of mana flared as he stored his bow in his protective storage enchantment and tucked to meet the ground with a dexterous roll before springing back onto his feet and retrieving his bow once again. With a smooth draw, he released a full volley of eleven arrows, hitting as many of the Atrocities as he could, but the final arrow he’d aimed at Nendir’s wight whistled past his head, effortlessly dodged.
+
+“Form up! Hold the line!” Lyeneru roared.
+
+“Healers to me!” Ali shouted from behind a glittering golden barrier.
+
+Mana, stamina, and health rushed into Calen, ticking upward rapidly as his leech enchantments worked overtime to restore him from below half health. Frantically, he ducked sideways as Nendir’s arrows blasted into the group, sending adventurers cartwheeling away from the force of the impacts. Arrows tore through the fraying raid formation, ripping through armor and forking into those hiding behind the front lines. Barriers and defensive magic flickered into existence, only to shatter under the impact as their raid forces were bowled over, sent tumbling into ditches, and smashed against the jagged arcane debris that littered the landscape.
+
+No tanking that. He’s a force of nature!
+
+High overhead, Lyeneru – somehow still flying – ignited her intense flames and an eye-searing wreath of arcing lightning. Even from down below, the heat rolled off her like a furnace, and the lightning prickled along Calen’s skin. Thrumming power gathered to her drawn bow like an immense inhale of fire and lightning before the arrow lanced downward, and Nendir vanished in an inferno of erupting magic. But, from within the blaze, a vastly more potent bolt returned: an incandescent arrow of radiant emerald and white leapt across the distance in the blink of an eye. Enhanced by domain magic, it shattered the suddenly materializing golden barrier, impaling the right side of Lyeneru’s chest. The arrow burst from her back, emerging as two continuing arrows that seared off, etching comet-like trails into the sky.
+
+A cascade of emergency healing spells flickered through Lyeneru’s body as she returned fire, and in a fraction of a second, she and Nendir exchanged several bolts of escalating power.
+
+She can’t be heard. Someone needs to take charge!
+
+Amid the chaos of aerial explosions, whatever Lyeneru was saying was lost to the raid. A single glance across the battlefield showed the effects in stark clarity. Nendir’s devastating volleys continued unabated, raining volleys and forked arrows that tore through their group to wreak havoc as everyone scrambled to recover.
+
+Establish order, restore teamwork, and then gain information, Calen thought, his instincts honed over many chaotic encounters bubbling to the fore.
+
+“Flatten the formation!” Calen yelled. “Lyeneru is tanking the boss.” The biggest threats were Nendir’s forking arrows. Their normal formation of a front line protecting their backline mages and healers was actively harming them. By the time the volleys forked through the melee, there were at least four times as many arrows ripping through the cloth robes and tunics of the mages and priests. Without Ali and her powerful barriers, they would have lost most of their backline already.
+
+“Tank the Atrocities to the side!” he continued, sending a Mote of Light to mark the area. Struggling against the potent knockback effect of the hail of arrows, the raid reacted more slowly than usual, but as the formation flattened out, the chaos began to stabilize. Healers switched from a frenetic struggle to less panicky strategic healing of the unbelievable damage Lyeneru and the tanks were sustaining. Barriers flickered more often up above the raid, deflecting arrows away from Lyeneru, as Ali’s capacity freed up from mitigating the damage to the healers.
+
+Ok, now, what can we learn before we must retreat?
+
+His body was rammed backward yet again by the sheer force of the arrows splitting through the Anarchic Atrocities and smashing into Mato’s chest and face. He dropped down, digging his claws into the ground, arresting his backward flight and leaving deep furrows gouged into the ground and a spray of foul-scented, corrupt earth.
+
+He grimaced, charging forward to recover the distance, crashing headlong into the huge, hulking Atrocity. The monstrous elemental was far larger than him, and it leaked a persistent aura of twisted arcane fire and the insidious creep of undeath that leached into his flesh constantly like a single-minded blight that was bent on infecting him to the core. The roots and brambles he summoned to hamper his foe burned bright purple as they slowly withered in the mephitic aura.
+
+He blocked a powerful overhead strike from the vaguely humanoid monster, ignoring the searing burn as the hit left a large patch of lingering arcane flame on his shoulder, burning away flesh and hide.
+
+He glanced sideways, shifting his position relative to Sabri and Havok, trying to avoid overlapping the auras of damage, while still staying in range of Sabri’s shout and the incredible mastery skill bonus it granted. An arrow punched through one of Havok’s Atrocities, splitting as it passed through. One struck his shield, blocked skillfully, while the second pierced him in the thigh. The tiny Goblin paladin was instantly sent flying, far more vulnerable than he was to the knockback.
+
+“Mass Summon!”
+
+Ali’s shouted warning coincided with a surge of magical energy. The darkly glowing purple chunks flew from the Wight’s chest, rapidly growing into the boulder-like shapes of the Atrocities before they crashed down with heavy impacts, blasting explosive energies and shattering the ground where they landed.
+
+Mato charged, roaring loudly, and six of the newly spawned Atrocities immediately converged upon him. Sabri and Havok were right behind him, although a little later, recovering from knockbacks that severely hampered their mobility.
+
+Good, Mato observed, noting how the three of them had collected the bulk of the monsters quickly, and the stragglers were chasing Pathfinders who were kiting them over to the tanking area. Better than last time.
+
+He swiped with claws trailing void mana and struck heavily, slashing across four of the Atrocities.
+
+You have gained Onslaught.
+
+Reveling in the sudden boost of speed, he swung again, leaving deep gashes in their hardened elemental bodies. A vile black fluid sprayed outward, sparkling with purple energy, filling his nostrils with the stench of death and burning through his flesh wherever it struck like acid. To his immense surprise, he had discovered that these elemental aberrations could actually bleed. He struck again, triggering Bleed Proliferation, drenching himself in the corrosive blood in the process as his applied bleed ailment propagated to all nearby elementals. It sure helped lock them down, but he was just glad he had competent healers.
+
+Beside him, Sabri went flying again, gut-punched into the air by a double strike of split arrows.
+
+Mato frowned.
+
+“Turn them around,” he said, sending the message to Sabri as she charged back with her movement skill. “Put your back to the boss.”
+
+“What?” Sabri asked, her voice a little breathless from the exertion.
+
+“Fork the arrows into the elementals,” he said, shifting his own position to demonstrate. He simply rotated till he had presented his back to the insane Wight archer and then grew his brambles and vines up around himself, wrapping his torso and hind legs to bind himself into position. It was awkward, restricting his movement, and he needed to continuously regenerate his plants under the destructive power of the overlapping auras, but he was vindicated as soon as he got hit.
+
+The heavy strike of an arrow hit him in the back, tearing through his flesh. He could feel it splitting inside him, passing clean through his body. Healing magic pulsed within him, repairing the damage as the healers reacted to the strike. But the two arrows continued, smashing into the two nearest Anarchic Atrocities, sending them flying backward. But the arrows that hit them split again, slamming into the monstrous elementals crowded together at the back, sending them tumbling too.
+
+They all scrambled to their feet, charging back toward Mato, as if infuriated.
+
+“Oh,” Sabri said, instantly emulating his positioning. “Clever. Hey, Havok – do it like this.”
+
+“Havok!” Havok shouted, smashing a monster with his holy shield. But the canny Goblin paladin was remarkably quick on the uptake – certainly for anything combat related – and was already readjusting to implement the new strategy.
+
+With just a little more mana, Mato expanded his roots and brambles, growing them around his two companions to help mitigate the knockback. Havok cheered with his unique goblin flair.
+
+Now we just have to not kill them all at the same time, he thought, grimacing at the memory of them all simultaneously blowing up in his face as they died last time. A nearly deadly surprise.
+
+Ali’s feet squelched in the blackened muck, but her attention was consumed with magic. It was everywhere. Blazing fire and lightning hammered down upon the Wight while nature and soul magic tore into the airborne Lyeneru Silverleaf, making her health fluctuate wildly. A continuous storm of rapid-fire volleys of nature arrows ripped through the adventurers, blasting them backward with every impact. For most of them, it seemed like trying to walk the wrong way into a hurricane.
+
+Nothing could even approach Nendir and his legendary bow.
+
+Well, that’s not strictly true, she thought, noticing the blurring form of Malika beside the hulking form of Tol’brekk, both fighting within the inferno of flame and lightning Lyeneru was raining down upon them – one entirely immune to knockback, and the other simply dodging nearly everything with uncanny speed.
+
+She tracked the hail of arrows flying out of the inferno with her eyes. All her eyes. Her mind forked a hundred ways, tracking every single one of them. Estimating trajectories. Summoning fist-sized segments of barrier magic in their paths to slow or deflect them. A feat made possible only by her more than two thousand intelligence. And yet even so, tracking all the dangerous attacks, ensuring the arrows didn’t fork into the people she was trying to protect, tracking her minions, and watching the boss – the sheer intensity of it burned in her mind.
+
+Domain mana surged, but it was not the Mass Summoning of the Anarchic Atrocities. The formation eluded her. A deafening peal shook the battlefield, and a searing beam of green and white blasted upward from Nendir’s bow, smashing through Lyeneru and sending her body spinning wildly through the air. The legendary Night Elf’s health vanished, slashed instantly to the tiniest remaining sliver as a horrific explosion of dismembered bits and burning blood rained down upon the adventurers.
+
+Several spells flickered. Healers reacted with emergency spells. The remains of Lyeneru’s tumbling body reassembled itself nearly instantaneously, and she caught herself as her wings re-ignited. How she still had the presence of mind to do such a thing was beyond Ali, but there was no time to dwell on the near disaster.
+
+Another surge of domain mana grabbed her attention. Again, with no discernible spell formation for her to read. A powerful arrow – this one powered by the tainted magic of the pulsating crystal – shot through the center of her Berserker’s torso, splitting in two on the way out and striking a mage and a priest along the way.
+
+The berserker, the mage, and the priest all suddenly froze solid, abruptly encased in an explosive growth of towering jagged purple crystal which was shot through with the dark taint of death magic. It burst outward from within their own bodies to encase them entirely. Through the connection with her giant troll, Ali read the notification.
+
+You have been afflicted with Arcane CrystallizationA corrupt crystal of arcane and death magic has entirely encased your body. It pulses with energy, draining and disrupting your life and mana.+517 health siphoned per second.Mana Corruption (you cannot use mana).Immobilized (you cannot move).Physical Immunity.On death, your remaining mana summons an Anarchic Atrocity.Curse – Domain Magic – Duration: 2 minutes.
+
+Swirling death magic tore life from the victims of the Arcane Crystallization imprisonment, siphoning it away in a dark torrent to feed the Wight. Ali tore a portion of her attention away from her barriers, diverting it to time-critical healing of the imprisoned.
+
+Suddenly, the towering five-meter edifice of crystal trapping her berserker shattered, as her troll’s Blood Rage dispelled the movement-impairing crystal bindings.
+
+One less thing to worry about.
+
+But the domain magic surged again, the cycle repeating. Another dozen Anarchic Atrocities burst forth from the exploding meteors of magic. Moments later, another blast of incredible power vaporized one of Lyeneru’s legs, resulting in yet another mad scramble among the healers. Then, a fresh purple-and-black arrow sprouted an enormous growth of crystal from one of the rogues.
+
+This is insane. How can we even win? Ali had barely enough attention to study the curse, in the vain hope that she might be able to dismantle the crystalline domain magic spell. A brief moment of relief flared within her at the sight of the Legendary Pathfinder righting herself in mid-flight and resuming her artillery bombardment.
+
+Legendary…
+
+Wait. A sudden moment of inspiration struck her. A revelation of pure simplicity – two unrelated ideas connected by a single concept: Legendary.
+
+She reached into her storage enchantment and pulled out a ring.
+
+The Eye of the Lich – level 205The silvery runes etched into this twisted, gleaming band thrum with a dark, malevolent power. The ring is set with a faceted stone forged in the Well of Eternity and cut to resemble a dark eye that continuously leaks a dread energy surrounding the wearer in a noticeable shroud of darkness. +336 Intelligence.+25% spell power to all skills.+273% to Death damage.+200% to Health, Stamina, and Mana Regeneration.+25% to Movement Speed.11% chance to cast level 143 Summon Lesser Undead when hit.Summon Supremacy (percent increases and decreases that apply to you also affect your minions).Mana: Store or retrieve an item. Capacity: 0 / 15000 kg.Requirements: Intelligence 2154.Created by Nevyn Eld in the Well of Eternity.Ring – Nether-Forged Darksteel
+
+With only a moment of hesitation, she slipped the ominous ring onto her finger, replacing her guild ring. Instantly, the world darkened.
+
+Several things happened simultaneously. Every single one of her minions suddenly, inexplicably shrank dramatically, and then sped up. Her healers shone with radiant power, suddenly casting their spells nearly twice as fast. And, if her incredulous senses were to be believed, their spells were landing with vastly more potency. Her mages accelerated, burning from within with spell power and haste so intense it seemed like it would burst from their chests. And all her minions suddenly began regenerating far faster.
+
+Tol’brekk dropped to the ground with a crash, several arrows protruding from his neck. Dead. Gone so fast she couldn’t even react. What the heck? What was that? Moments later, Kir’mogan died. Then her rogues began keeling over like flies.
+
+Panicking a little at these unexpected setbacks, she racked her brains for an answer, but she was interrupted by Malika’s shout.
+
+“Hide! Everyone, take cover! Now!”
+
+The urgency in Malika’s voice was underscored by the sudden vast surge that rippled through the domain, igniting Nendir in a pyre of blazing magic that outshone the inferno of destruction Lyeneru was raining down upon him.
+
+Ali whipped her head around searching for something, anything, but the only cover nearby was Belmar, encased in a gigantic crystalline prison. She dove for it, throwing up barriers everywhere.
+
+The air exploded, filled with a storm of powerful arrows so dense they blotted out the sky. An immense whistling rush surged around the crystal barrier, magic, arrows, and the wind dragged along with them. The deafening roar of a thousand impacts per second blotted out all hope of hearing, an assault on the mind that did not abate in the slightest.
+
+Barriers shattered under the onslaught, and the few minions that didn’t make it to cover were obliterated, ground down, and disintegrated by the storm.
+
+Ali cowered behind the impervious crystal, glancing around at the others who had chosen the same cover, recalling the sheer weight of fear she had experienced under the rain of bone spears the first time she had faced a Skeletal Wyvern. This attack was incomparably more potent, and yet, while her body was shaking, her mind remained remarkably clear.
+
+She studied the curse, Arcane Crystallization. The giant crystalline growth had to weigh several tons and was by far the largest working of curse magic she had ever seen. Death and arcane mana, normally incompatible, blended in intricate formations made miscible by the subtle corruption of both. She could clearly see how it was holding both his life and his mana in a strange, fixed lattice of stasis, while rapidly siphoning his health away on insubstantial trails of mana that seemed to be drawn into the pulsating crystal in Nendir’s heart.
+
+I can’t get hit with this, she realized. She simply did not have enough health. It was a good thing Belmar had more because the healers were having to work hard to keep him stable. Despite the precarious situation and the roaring storm of arrows smashing themselves against the impervious crystal, she found herself fascinated by the subtle intricacies of the magic Nathaniel had wrought. It couldn’t have been Nendir, could it? No, this work smacks of the Archmage himself.
+
+As she studied it, a small portion of her awareness tracked the remaining duration on the other half-dozen crystallized people through the perceptions of her nearby minions, preparing for the worst. If the storm of arrows persisted much longer, she was going to need to save at least one person as the crystal curse expired, and she very much doubted her barriers would be enough.
+
+The last Anarchic Atrocity exploded violently nearby as Mato, with a virtuoso feat of tanking, contrived to keep himself behind a crystal while leaving his attacker exposed. The speed with which the arrow storm destroyed the giant corrupted elemental was terrifying.
+
+Quickly, she mustered extra healing for him and for the strangely weakened minions she had nearby. For a few moments, she puzzled over the novel sensation. Martial Insight and Empowered Summoner were both in the second tier now, and her sense of her minions was far more detailed.
+
+And something was wrong… Very wrong.
+
+In the unexpected downtime, hiding behind an impervious crystal curse with her mind mostly freed from the frenetic chaos, she considered the conundrum. Her minions felt both weaker and stronger somehow. It had all happened when she put on the legendary Eye of the Lich. She glanced down suspiciously at the silvery band on her finger, emitting a strange aura of darkness.
+
+And why did they shrink? Of all things, that was the most inexplicably bizarre.
+
+Then she had it. Realization and understanding crashed down in a deluge of certainty. It was obvious, in hindsight, and something she would never have missed if she hadn’t been so pressed by the demands of the fight. Afraid of being right, but certain she was, Ali examined the ring – specifically the legendary enchantment, Summon Supremacy.
+
+Summon Supremacy (percent increases and decreases that apply to you also affect your minions).
+
+Decreases…
+
+And there it was, in plain sight under the rest of her Aptitudes. Something she had seen all her life.
+
+Tiny (Racial): The effects of Strength and Vitality are reduced by 50%.
+
+Fuck.
+
+She ripped the ring off, inwardly cursing at her mistake.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

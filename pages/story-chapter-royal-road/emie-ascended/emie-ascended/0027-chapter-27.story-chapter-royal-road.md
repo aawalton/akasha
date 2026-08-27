@@ -1,0 +1,175 @@
+---
+id: 67a0f0b1-7584-563a-ac50-aa8fb4231fa6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27"
+slug: 0027-chapter-27
+partOf: emie-ascended
+position: 27
+ownLength: 2618
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3539582/chapter-27"
+royalRoadId: "3539582"
+---
+
+“I expected it to be later in the day,” Cora commented when we exited the dungeon and saw what passed as a clock within our current territory. “It’s not even midday yet.”
+
+Rerunning floors meant that our timing got thrown off a bit since it was always early morning whenever you entered a floor. Though we tried to keep track of how many days had passed outside of the dungeon, it was hard when our day/night schedule was so easily shifted.
+
+“Well, I’m going to take a shower and grab some food,” I said as we made our way to the tax assessor. “I’m hoping that the dining hall will be better now that their head Chef is back. Do you all want to come with?”
+
+“Mike and I have a date planned,” Cora said, shaking her head. “We haven’t really gotten any alone time for the past week, you know.”
+
+I grinned at her innuendo before shifting my gaze to Stephen. “What about you? Wanna join me for a meal?”
+
+“Sure. After we get cleaned up.”
+
+We had a tub in the sanctuary, but since we’d left the dungeon immediately after defeating the boss, none of us had gotten the chance to use it for the day. I’d personally added enchantments to heat and filter the water, so it was constantly available for anyone who wanted a soak.
+
+Eventually, I planned to get an even larger tub – something more like a jacuzzi or a hot tub. But for now, I was making do with the small travel tub since it was the only one we could afford out of materials capable of holding an enchantment without breaking down in a few months.
+
+Our longer delve resulted in a significantly larger payout once we sold the loot we’d collected from the dungeon. Having already given Stephen the storage bag I promised him in exchange for joining us on the delve, I was not the only one holding a portion of our party’s loot.
+
+I had more than enough room for everything, but given the volume we’d collected, it seemed smarter to spread the wealth instead of holding it all myself. There was no reason to call attention to the size of my storage space, after all.
+
+As we walked toward the exit of the secured area after selling our loot, Mike started handing out our shares of the spoils in small, unenchanted bags. We’d already absorbed the essence cores before leaving the dungeon to avoid having to pay taxes on them, so the only thing left to split was the proceeds from selling our loot.
+
+Though I carried most of the goods, Mike was technically the party leader, so he was the one who’d actually handled the exchange of loot for coins and distributed everything.
+
+“That’s okay,” Stephen said, shaking his head when Mike tried to give him several coins. “You three should split it between yourselves. I got the skillbook, so it doesn’t seem fair for me to get a share of the funds on top of that.”
+
+“I disagree,” Mike said. “And I’m sure Cora and Emie feel the same way. If you want the skillbook to count toward your share, that’s fine. But it’ll be done at the party rate, not the amount we could have sold it for.”
+
+“We should probably discuss this somewhere private,” Cora interjected before glancing pointedly around us.
+
+Though I didn’t notice anyone paying particular attention to our conversation, that didn’t mean that nobody was listening.
+
+“Why don’t we all clean up, and you two can meet us at our apartment in half an hour or so? That way, we’re all together for the discussion. Besides, we might as well talk about our future as a party now instead of leaving things up in the air. Lunch can wait a bit.”
+
+Though I could feel Stephen’s tension, he agreed to the suggestion, and we headed toward the housing building as a group.
+
+Thirty minutes later, the four of us sat comfortably in the living room of Mike and Cora’s apartment. I’d changed into something a little more dressy than I normally wore, and I was pleased to see my change in attire was having the effect I’d hoped for.
+
+More than once, I caught Stephen looking at me. Though it had been a long time since I indulged in anything that could even pretend to be romance, I wasn’t completely inexperienced in drawing the attention of the opposite sex.
+
+Clearing his throat, Mike said, “First off, Stephen, we enjoyed delving with you this last week. Speaking just for myself, I feel like having a fourth party member changes the party dynamic in a positive way.”
+
+“I agree,” Cora added. “Having another companion has been nice. And even if we take a small loss in essence per fight, we are able to loot and forage much faster with a fourth person, which makes up for it.”
+
+The couple looked toward me, so I shared my opinion on the matter.
+
+“I like not feeling like the third wheel,” I said. Seeing their expressions, I chuckled and added, “It’s an expression from my homeworld. It basically describes a situation where you have a couple and then an extra third person. No matter how much the couple tries to include the extra person, they tend to feel more like a tag-along, even if it’s not actually that way in reality.”
+
+“You are not a third wheel,” Cora told me.
+
+“I know. But like I said, knowing and feeling are often two different things.” Looking at Stephen, I said, “Regardless, I’ve really enjoyed having you with us this past week. I’d definitely support you joining us permanently if it is something you’re interested in.”
+
+“As would we,” Mike said supportively. “Ultimately, it’s your choice. If you’d rather go back to delving alone, there won’t be any hard feelings. And you don’t have to decide right away, either. I just thought it would be good for you to have a clear understanding of where we all stand on the matter.”
+
+Looking a bit awkward, Stephen said, “Thanks for that. I’ll admit, I was pleasantly surprised at how well the week went. Before now, I could count the number of people who reacted well to my shapeshifting ability on one hand. I guess, technically, that statement still applies, though I’m a lot closer to using all of my fingers, now.”
+
+I found his statement profoundly sad. If he’d only encountered a couple of people who’d reacted well to his ability, no wonder he was so skittish about telling anyone.
+
+“In any case,” Stephen continued, “I’d much rather spend my time in the dungeon amongst friends instead of alone.”
+
+The conversation about loot went easily after that, and we ironed out a more definitive plan on how to deal with loot distribution when one or more party members wanted a particular item.
+
+We also decided on how to distribute the rest of the profits while taking into consideration in-dungeon allotments, such as cores, skillbooks, and materials used for crafting. It was a lot more detailed than the original agreement I’d had with Mike and Cora, but the additional stipulations made sense.
+
+“I’m really glad you joined the party,” I said as we walked from the registration desk to the dining hall.
+
+We’d gone ahead and taken care of the paperwork right away, though it probably hadn’t really been necessary.
+
+“Me too. It’ll be a new experience, that’s for sure,” Stephen said with a hint of nervousness.
+
+We loaded our plates with a sampling of different types of food. Everything looked so much better than it had when I first arrived, and I was looking forward to seeing if the food’s taste held up to its improved appearance.
+
+“Not bad. Maybe I’ll start grabbing a few extra dishes to put away for our delves,” I said after trying everything.
+
+Though it felt strange to do, the Association allowed young delvers to take a little extra food for their dungeon runs, provided the food was not wasted. Most of the time, delvers were limited to things with a longer shelf life, and normal foods were reserved for meals in the dining hall.
+
+But nothing said that I couldn’t make a few extra plates and take them along with me.
+
+Realistically, for a party of four, a few extra plates here and there wouldn’t go very far. But it was still better than nothing.
+
+By the end of our delve, I’d had to start cooking with the dungeon camping set I’d purchased in my first week. Considering the resources we’d gathered, the meals that I was able to put together weren’t bad, but they weren’t nearly as good as what I could make with a proper kitchen.
+
+Slotting a Cooking skill would only improve what I could make, but I didn’t want to fill one of my limited skill slots with another utility skill just yet.
+
+Our week in the dungeon had pushed me to level twenty-one, while Mike and Cora had reached level nineteen.
+
+One of those extra levels I’d gotten had come from upgrading Lightning Bolt, which allowed me to make semi-controlled jumps to secondary and sometimes even tertiary targets with a single casting.
+
+Each jump reduced the damage dealt by about half, but it was still better than nothing. Best of all, I had some level of control over it, which allowed me to minimize the likelihood of accidentally hitting one of my party members with a stray bolt.
+
+The second extra level I figured was likely due, in part, to the five percent essence absorption boost I got as part of my Contender title.
+
+Stephen had reached level twenty-two during the delve, which he said wasn’t significantly different from the pace he’d been growing while delving alone. It was a little slower, he acknowledged, but we made up for it with loot and resources.
+
+“I need to pick up a few things from the crafters’ emporium. Do you want to walk with me, or do you have other plans?” I asked when our plates were nearly empty.
+
+I also needed to check in with the medical facility and let them know my availability over the next few days, but I didn’t want to risk being asked to work a shift right away, so I figured I’d put it off until later.
+
+“I can accompany you, if you’d like.”
+
+We walked in comfortable silence through the bustling streets. It was only a little after noon, so the streets were quite busy with people going about their days.
+
+I wondered how many of them had given up on progression completely, and how many still made time to delve regularly. I recognized a few individuals that I was fairly certain I’d seen in the dungeon complex at one point or another, but that didn’t mean much.
+
+My eyes were drawn to a colorful sign posted in the community square next to one of the many parks spread throughout the city.
+
+“A theater performance?” I said, veering toward the sign. “I read something about this one. It’s quite a famous story.”
+
+Performances of various types, be they religious, historical, or purely for entertainment, were not something exclusive to any one realm. In fact, I suspected that most, if not all, realms had some form of storytelling that eventually developed into a performance art.
+
+“What is it about?”
+
+“A young boy – the son of two Ascenders – was kidnapped the night before he turned fifteen by people hired by one of his childhood rivals. They took him into a hidden realm and… well, I don’t want to spoil the story.
+
+“If you’re really curious, I’d love to see the play. I only read a summary of the historical account when I was doing research on some of the more notable Ascenders. Erogos was mentioned, not because he was an Ascender himself, but because of his connection to two Ascenders and the fact that he traveled to another realm and eventually returned.”
+
+I could tell by his expression that he was interested, and truthfully, I was looking for an excuse to spend a little more time alone with the archer.
+
+We’d formed a connection during our time in the dungeon, but knowing how shy he was, especially regarding social interactions, I felt like the only way anything else would form was if I took the first step.
+
+I kind of liked being the one to make the first move, though.
+
+“Do you want to go see it?” I asked.  “The next performance starts in just under two hours. We should have plenty of time to grab tickets and pick up a few crafting supplies before then.”
+
+“Sure, why not? The story sounds interesting enough, and I never really got much time to enjoy such things in my old realm.”
+
+Smiling, I altered our route and headed toward the theater. Though I doubted seats would sell out for such an early showing, I didn’t want to leave things to chance.
+
+Thankfully, ticket charges were based on one’s level, so the price wasn’t too bad. As copper rankers, we had a choice between the economy seats – what we would call the ‘nosebleed section’ back on Earth – and basic seats, which were twice as expensive, but put us on the ground floor.
+
+Since we actually wanted to be able to enjoy the performance, we purchased basic seating and stored our tickets safely before heading over to the crafters’ emporium.
+
+“I wish I had known about this place before,” Stephen said after looking around. “I can buy most of the tools I use for what the guild charges in rental fees for a handful of uses.”
+
+“It’s usually that way,” I said with a nod. “Was it not like that in your old realm?”
+
+“I know I say this a lot, but I really wouldn’t know. Aside from the short period I spent focused on overthrowing those oppressing the people of my world, most of my life was spent in hidden realms.
+
+“The communities there were nothing like what I saw on the outside. Even with someone who remained very much an outsider, the people were far more welcoming and open with their knowledge than those in the outside worlds.”
+
+“Unless they discovered you could change forms,” I pointed out before silently admonishing myself for bringing up such a topic.
+
+Grimacing, Stephen ducked his head. “Yes. Then I was seen as a monster trying to infiltrate the community, not an actual person.”
+
+“Sorry for mentioning it,” I murmured.
+
+“It’s fine. They were ignorant, and there were monsters that could change forms, so their fears were not entirely unfounded.”
+
+I could see how the existence of such creatures could complicate things for someone with Stephen’s skills. It also helped me understand why so few of his former peers had trusted him after learning about his abilities.
+
+I shifted to light chatter about random topics as we made our purchases and headed back to the theater.
+
+On the way, I picked up a few small snacks from street vendors and put them in my storage. Amused, Stephen followed suit, creating his own little stockpile of ready-to-eat items.
+
+“I’m strangely looking forward to this,” Stephen said when we eventually made our way into the theater and found our seats.
+
+We were further away than I’d hoped to be, but I couldn’t really complain, given the cost of the tickets.
+
+“Me too,” I said, grabbing his hand and squeezing it excitedly. I didn’t let go, and I pretended not to notice the surprise on his face as he looked at our hands.
+
+He didn’t pull away, though.

@@ -1,0 +1,237 @@
+---
+id: c5011785-332f-5d0d-8bc3-67b76039e881
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-One: Flight"
+slug: 0082-chapter-eighty-one-flight
+partOf: flesh-eater-demon-evolution-litrpg
+position: 82
+ownLength: 3120
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3385453/chapter-eighty-one-flight"
+royalRoadId: "3385453"
+---
+
+Declan’s mind was a whirlwind of thoughts and sensations. Ever since that red light had burst out of the sanctum tower, there hadn’t been a moment’s rest.
+
+First there was the horde of monsters, signalling the start of a previously-thought impossible invasion. Then that wyvern circling overhead. Then the barked orders and commands, a frantic scramble for weapons, for bodies, for everything. All of it culminated in the ringing of metal and the pulsing rhythm of a city turned into a battlefield.
+
+Throughout it all, he hadn’t had a chance to really process what was happening—to even begin to untangle the web of emotions coursing through him like a river of ichor. He just kept going, using the adrenaline to keep himself moving.
+
+Twisting around, Declan thrust the end of his spear into an approaching imp. He yanked it out, barely registering the creature’s pained squeal. He very deliberately avoided looking at the ground, at the blood and bodies strewn about, and he especially didn’t look at any of the bodies’ faces. He just kept repeating forms and instructions in his head like a nonstop mantra.
+
+Left foot forward. Thrust. Pull back. Pivot. Block. Lunge. Swing.
+
+The rest of the world washed away, narrowing to just him, his spear, and whatever he was currently fighting. He wasn’t sure how much time passed this way, lost in the nerves of battle.
+
+A slight tremor in the earth was the first thing to interrupt the haze. Then, some minutes later, he snapped fully back to the present as an explosion illuminated the sanctum tower, lighting up the sky with a blinding burst of fire and smoke.
+
+And then, as debris and broken stone rained down from the destroyed building, that red pillar of light disappeared.
+
+Declan’s eyes widened. Murmurs rippled through the garrison troops like a tidal wave, and the cadet felt his heart race. This had to be good, right? That beam had only appeared when the invasion started, and now it was gone.
+
+“Advance to the sanctum!”
+
+The shouted command rang clearly over the fighting, amplified by a voice-projection skill. Declan wrenched his spear out from between a hellhound’s snarling teeth, trying to shove it away. The demon pressed forward, glowing red eyes focused in on him as its muscles tensed, and Declan braced himself.
+
+Just before the hellhound could pounce, a blade carved into it. The demon let out a whimper. It collapsed, a fresh gaping cut dripping red across its torso. Declan’s eyes snapped up to see Merrick standing behind the dead monster, bloodied sword in hand. Relief hit him like a ton of breaks.
+
+The man’s uniform was smeared with blood and grime, and he had a few small cuts and bruises here and there, but he seemed mostly unharmed. His expression was significantly more stoic than Declan’s probably was, though he thought he saw something soften in the man’s gaze as he studied the younger cadet.
+
+“Are you alright?” he asked. His eyes stopped on Declan’s hands, and he realized he was gripping his spear so hard that his arms were shaking. He swallowed down a hysterical laugh.
+
+“Yeah, I’m—I’m okay.” Declan took a deep breath.
+
+Around them, the other soldiers were starting to make their way forwards. The vast majority of the monsters in this area had been cleared out, leaving the remainder clustered near the sanctum. Once those were dealt with…
+
+He shook his head, not wanting to jinx it. There were still so many ways this could go wrong.
+
+“Let’s go,” he said. With a nod, he and Merrick moved with the rest of the troops towards the destroyed sanctum.
+
+They soon clashed with another wave of monsters, only these were less organized. They looked like they were running, scattering away from whatever had caused that explosion. Declan pushed past the growing weariness in his limbs, spear singing in his hands. He could hear Merrick fighting just behind him.
+
+The screech of the wyvern rang out above. Declan’s gaze snapped up just long enough to see the monster landing up ahead in front of the sanctum, and he tried not to think about the soldiers there. He just fought harder, twisting around and thrusting his spear into a ghoul trying to attack Merrick from behind. The idea of facing that wyvern filled him with so much dread that the mere thought was paralyzing, so he purposefully didn’t think about it.
+
+Some minutes later, it became impossible to ignore.
+
+Alarmed shouts rang all around him. Declan spun around, searching wildly for the threat, but the monster wave had thinned significantly. Then he saw several soldiers staring up at the sky, some pointing, mouths agape.
+
+“What the fuck is that?” someone yelled.
+
+Slowly, Declan looked up.
+
+There, circling above the sanctum and Bellhein grounds, was the wyvern. Compared to before, its flight was wild and violent, the creature thrashing and jerking in the air. Declan could see what looked like blood pouring from its left eye and several other cuts. It was injured.
+
+That wasn’t what got his attention, though.
+
+There, midair, climbing up the wyvern’s back, was some sort of creature.
+
+Amorphous, fleshy appendages wrapped around the wyvern’s tail and parts of its torso like a web or a parasite. The being was somewhat humanoid, with legs and pants and what looked like the tattered remains of what might’ve once been a coat. It was very obviously not human, though, because the rest of its torso was covered in white plates that ran all the way up to its face. Bone, Declan realized. The plates around the face resembled a skull-like mask.
+
+Where the left arm should’ve been was instead that mass of trembling flesh coiling around the wyvern. The other arm turned into an axe made of that same bony substance halfway down, and it was currently stabbed into the wyvern’s back. The gleaming silver horns on the creature’s head, however, were what gave away its nature.
+
+“Is—Is that a demon?”
+
+More murmurs and yells rang through the gathering crowd. Declan ignored the voices, unable to tear his eyes away from the sky. Beside him, he heard Merrick fall still as well.
+
+It should’ve been a crazy thought. Absurd, ridiculous, impossible.
+
+But somehow, the longer he stared at the demon riding on the thrashing wyvern’s back, the more he couldn’t shake the feeling that something about them was familiar.
+
+The movements, the casual slope of the shoulders, the confident swings of the axe. The long, thin dark ponytail streaming behind it, jutting out from below the bone mask. The more he stared, the more certain he was.
+
+Declan’s brows furrowed, gaze still fixed on the demon. His mouth opened, and a whispered name fell out.
+
+“…Pyre?”
+
+Callan muttered a chant under his breath, raising his palms and sending a blast of green light towards an incoming imp. It jumped away, the spell hitting the ground instead.
+
+The monster sneered at him, but its expression was quickly wiped away as thorny branches exploded up from where the spell had landed. They tangled around the creature, squeezing and dragging it down until it fell limp.
+
+The ghost exhaled and looked around. After Pyre had left, he’d moved a little ways back to help deal with the monsters fleeing into the forest. There were enough soldiers around that he had to focus on appearing solid, only stopping to drain things when he was absolutely sure no one was looking. Draining was necessary for the larger monsters—his regular spells weren’t strong enough to kill them.
+
+As if on cue, a troll came barrelling in the mage’s direction. He frowned, already chanting again, when a red beam whizzed past him. It hit the troll square in the chest, immediately causing it to burst into flames. Callan squinted hard at it as the creature flailed. He recognized that magic signature.
+
+Sure enough, when the ghost turned, a familiar noble stood at the edge of the woods, one hand still smoking from the lingering effects of the spell. Callan’s shoulders relaxed, and he felt a smile tug at the corners of his lips. The expression was mirrored by the other mage.
+
+“Thought you might need some help,” Daphne said, voice teasing. Callan rolled his eyes and waved at himself.
+
+“Incorporeal, remember?” He paused, frowning a little when he realized how tired Daphne looked. Despite her relaxed expression, her free hand was clutching at her chest, and she was lilting slightly to the side.
+
+He thought back to that explosion at the sanctum. Just how much ichor had that taken to pull off? Enough, he thought darkly, to worsen ichor poisoning.
+
+The ghost swallowed. “Are you… Are you okay?” he asked tentatively. Daphne huffed and strode forward, steps carefully steady, but he could see her jaw tightening a little with exertion.
+
+“I’ll be better when these monsters are gone,” she said. As if to prove her point, she raised her finger and fired a quick spell at something behind Callan. He heard the monster collapse with a wheeze.
+
+The noble’s eyes darted around, scrutinizing the surroundings. “Where’s Pyre?”
+
+Before Callan had a chance to answer, a loud shriek rang out above the clearing. He winced instinctively. The wyvern had been screeching for a while now, but he could never get used to that shrill, piercing sound. The noise was followed by the distinct sound of flapping wings, and he looked up. His eyes widened.
+
+Thrashing in the air, eye bleeding, was the wyvern.
+
+And there, on its back, was a very familiar demon.
+
+The ghost’s mouth dropped open. In the corner of his eye, Daphne had a similar expression.
+
+For a moment the two simply stood staring up at the sky, watching the flailing wyvern pass them in perfect silence.
+
+Finally, Callan forced his gaze back down. Green eyes met brown, both of their faces a mixture of shock, bewilderment, and something like awe. Daphne barked a breathless laugh that sounded more instinctive than intentional.
+
+“Well,” she said. “I guess that answers that.”
+
+Keeping balance on the back of an angry thrashing wyvern was, it turned out, quite difficult.
+
+Pyre tightened the grip on her flesh appendages, using them to tether her to the creature’s back. She was still low enough on flesh that the strands were thinner than she’d like, but they were doing a decent job of keeping her on the wyvern and not falling to her death.
+
+Carefully, the demon slowly climbed up the barbed tail, which hadn’t stopped flailing since the wyvern had taken flight. She’d nearly slipped more than a few times.
+
+Her muscles tensed. The crisp wind rushed past her ears, a strong and constant force. Above, high above the ground, everything felt sharper. Clearer.
+
+Reaching forward, she slammed the blade of her axe into the wyvern’s back. It roared, abruptly dropping down a few feet before managing to right itself. Pyre felt the rocking as a sharp spike of arenaline, and it occurred to her, not for the first time, that being in the air—falling, flying—didn’t feel unfamiliar at all.
+
+Digging the bone axe deeper into the wound, the demon used it as leverage to heave herself off the creature’s tail and onto its back proper. She quickly rewarped her left arm, securing the rope chains around the wyvern’s torso. Here, at least, was noticeably steadier than the tail had been, but that wasn’t saying much. The wyvern was still doing everything in its power to throw her off.
+
+Slowly rising to her feet, legs planted firmly along the monster’s scaly spine, Pyre drove her axe back down into its back. Blood gushed out from the wound. She gritted her teeth and twisted the blade a few times to widen the gash.
+
+Below, the creature roared. Pyre felt the world lurch as the wyvern twisted around in a violent spiral that nearly sent the demon flying off. She tightened her grip on the torso, just barely managing to stay upright, but the motion had knocked her axe loose. The wound, she could see, was barely a foot deep.
+
+The wyvern’s hide was too thick, the demon realized. If she could get to its front side, she could probably cut through it enough to devour its heart, but that would take time. She needed to wound the thing enough for her to be able to attack its heart without having to deal with its snapping and flailing, but that was easier said than done when its skin felt like she was cutting through metal.
+
+Pyre’s gaze shifted over to the creature’s wings. They’d been beating furiously the whole time, wind exploding outwards with each flap.
+
+She narrowed her eyes. Maybe, she thought, she didn’t need to cut into it to hurt the thing.
+
+Balancing on the wyvern’s back, the demon inched closer to one of those wings. Before she could hesitate, she activated [Slothful Field].
+
+All around her, an invisible bubble spread outwards, seeping everything within of color. She was soon surrounded by a sphere of grey temporarily cutting both her and the wyvern off from their skills. Almost immediately, she saw the wing closest to her quiver. She smiled.
+
+It looked like the wyvern had been using a skill to help it fly after all.
+
+[The skill [Basic Slothful Field] has leveled up! Lvl 1 —> 2]
+
+Not stopping, Pyre drew her arm back, then drove the axe down into the wing with as much force as she could muster.
+
+The wyvern convulsed, screeches deafening, but she kept going. She ignored the dull ache from the wyvern’s last hit on her, the slight tremor running through her body as her flesh continued to regenerate. She just kept bringing the axe down and down, hacking away at the wing with singleminded focus.
+
+The wyvern dipped. Everything lurched, but the demon kept going. She could feel the wind pressing against her skin, their surroundings speeding past as the monster began to descend. It couldn’t keep itself in the air like this.
+
+Once the wound was big enough, Pyre morphed the bone axe back into flesh. From that limb, she grew a wide, gaping mouth filled with gleaming teeth that promptly tore into the wing.
+
+The wyvern jerked to the side. Its thrashing tail whipped around blindly, one of its barbs cutting into the flesh the demon had wrapped around it.
+
+For a second, Pyre felt herself begin to fall off, suspended weightless in the air with nothing to anchor her.
+
+At the last second, she shot a bone spear straight into the monster’s body. It nearly slipped out, but she dug it deeper, drilling through muscle and hide. The wyvern shrieked, but she managed to stay on.
+
+They were truly falling now. Without its skills and with only one functioning wing, the wyvern was barrelling towards the ground much faster than it could control. It occurred to Pyre that it would be bad to land too far away from the sanctum. Using the wedged bone spear like a steering wheel, she wrenched her full weight to the side.
+
+The wyvern made a sharp turn, and it was now hurling towards the field in front of the sanctum.
+
+Everything was moving past them so quickly that Pyre barely had time to process what was happening. That thrill from earlier returned full force. For a moment, it was just her, the screeching wyvern, and the feeling of the wind rushing around her.
+
+And then, with a violent jerk, the wyvern slammed into the ground.
+
+Pyre was nearly thrown off by the force of the impact, dirt spraying all around them as the wyvern skidded against the earth. It didn’t slow down, colliding with the forest and knocking down entire rows of trees. The demon did fall off then, landing hard on the ground.
+
+She jumped to her feet almost immediately, ignoring the tell-tale softness in her flesh from sustaining too many injuries. She bolted towards the wyvern, which shuddered limply, blood spurting profusely from its wounds as it struggled to untangle itself from the mess of fallen trees and splinters.
+
+Ducking down to its torso, Pyre didn’t hesitate. The flesh of her right arm split into the largest mouth she could create. The teeth promptly sank into the wyvern’s chest.
+
+The creature let out another roar, but this one was noticeably weaker than before. It tried to move. Pyre ignored it, teeth still digging into flesh, searching. Blood gushed around her arm, forming a pool below that quickly soaked the grasses red. She kept pressing.
+
+The wyvern’s head shot forward, jaws snapping at the demon. She grew a bone shield and felt the teeth collide with it. It was already starting to crack, weak from her low amounts of flesh.
+
+The wyvern snapped again. She heard the bone shield break just as her own teeth bit into the creature’s pulsing heart.
+
+The monster shrieked. Its whole body reeled back, but Pyre didn’t pull away. One of its claws dug into the side of her torso, cutting between plates of bone armor, but she just kept going, solely focused on devouring that beating heart.
+
+And then, with a final snap of teeth, she felt the mouth bite all the way through.
+
+The wyvern froze. A tremor ran up its spine, spreading throughout its entire body. It began to pitch forwards.
+
+Pyre just barely managed to yank her bloody arm out and leap away before the creature crashed into the ground with a heavy thud.
+
+It didn’t move.
+
+[You have devoured (1) Wyvern Lvl 33][Experience earned!]
+
+[The trait [Ossification] has leveled up! Lvl 5 —> 6]
+
+[The trait [Sound Perception] has leveled up! Lvl 3 —> 4]
+
+[The trait [Amorphous] has leveled up! Lvl 5 —> 6]
+
+[The trait [Flesh Eater] has leveled up! Lvl 6 —> 7]
+
+[The trait [Regeneration (Sloth)] has leveled up! Lvl 6 —> 7]
+
+[Your species has leveled up! Lvl 25 —> 30][Strength +12, Agility +8, Constitution +15, Magic Resistance +10, Intelligence +5]
+
+[You have earned 50 points]
+
+[Your class has leveled up! Lvl 15 —> 20][Strength +7, Agility +3, Constitution +7, Magic Resistance +5, Intelligence +3]
+
+[You have earned 25 points]
+
+[You have gained (1) [Scales] subtrait shard]
+
+[You have gained (1) [Curse Resistance] subtrait shard]
+
+[You have gained (1) [Magic Perception] subtrait shard]
+
+[You have gained (1) [Elemental Resistance] subtrait shard]
+
+[You have gained (1) [Volant] subtrait shard]
+
+[Maximum number of subtrait shards acquired from a single creature reached. Remaining subtrait shards discarded.]
+
+[You have gained the [Wyvern Killer] title!]
+
+[You have gained the [Flight Aptitude] title!]
+
+[You have gained (1) new class skill!]
+
+Please select from the following options:[Shield Wall], [Devotion], [Smite]
+
+[Evolution Quest: Second Evolution completed!][Would you like to accept rewards?]

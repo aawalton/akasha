@@ -1,0 +1,135 @@
+---
+id: 0de830ec-2cdd-51bc-8528-0ea70afb1d55
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seven: Escape"
+slug: 0007-chapter-seven-escape
+partOf: flesh-eater-demon-evolution-litrpg
+position: 7
+ownLength: 2705
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525622/chapter-seven-escape"
+royalRoadId: "2525622"
+---
+
+A thorough search around the cavern revealed a lot of dirt, rocks, and not much else. The area was massive, so traveling around the perimeter took a decent amount of time. Pyre tried to stab some bones through the walls enclosing the space, but they got stuck after they reached about a foot deep. These walls were thick as hell.
+
+Hitting her body against the wall was just as ineffective. She didn’t manage more than getting a few smaller rocks to loosen and tumble down. The ground was even worse—even those little fissures and cracks didn’t budge at all when she dug into them.
+
+On closer inspection, all the soil and rocks around here had the same dull quality that Fred’s body did. She suspected the entire area had been fortified with magic, simultaneously preserving it and also making it hard as fuck to break into. Or maybe she was just saying that because she personally didn’t think 77 strength should do so little against a bunch of dirt.
+
+Without the ability to break through the walls or dig below, her only option left was to get out through that hole at the top. That, though, was a lot easier said than done.
+
+Firstly, the walls curved suspiciously smoothly. The dome was so perfect, in fact, that Pyre was confident her magic theory was correct. This made it difficult to get a proper grip on the walls, and the higher she went, the more she would be fighting against gravity. She was quite heavy, after all. Very much not built for agile activities like this.
+
+The second problem was just how high up the ceiling was. Climbing up to the hole would take a long time, and if she fucked up, well, she’d at least get to test how durable her body was. Assuming she didn’t die instantly.
+
+A little voice in her head, probably the one with her past life’s knowledge who had all the sensibleness that came from living and dying once before, told her what a bad idea this was. And logically, she agreed.
+
+The thing was, though, that she really didn’t have a choice. She couldn’t very well stay here forever. Pyre still didn’t feel “hunger” quite the same way as she had as a human, but she could feel her “satiation” dropping steadily. She knew, intuitively, that she could and would starve, and she couldn’t eat Fred. At some point she’d need to get out.
+
+Pyre peered up at the gap again, then back at the walls. They were practically identical wherever she stood, so she decided to just start climbing from the closest spot. Before she did, though, she pulled up the description for [Basic Impact Absorption] again. “The next impact that hits the user,” it said. It didn’t specify if the impact had to come from another living being or if it would also apply to other types of impacts—like falls. Well, she thought. She supposed she’d just have to find out if worse came to worst.
+
+First, Pyre morphed her body into a shape that was slightly better for climbing. [Flesh Sculpting] was still on cooldown, but she didn’t think it’d be especially helpful right now anyway. The walls had barely any places to grip, so pseudo limbs could only do so much. She already knew, though, that she could get her bones partially through the walls, so she’d just use those to make her way up like she had in the pit.
+
+Focusing, she grew a sharp bone and aimed it at the wall as far above her as she thought she could get away with. Too far and the bone wouldn’t be able to support her weight. Too close and she was wasting time.
+
+Pyre waited until she felt the bone stop, unable to press any further into the dirt, and gave it another tug to make sure it was secure. Once she was satisfied, she launched herself upwards, using the bone as a grip, then promptly grew a second bone that she stabbed up higher than the first.
+
+Like this, she made slow, but steady progress up the cavern walls. She was glad she’d dumped all those points into constitution. She could tell her bones were stronger and denser, but more importantly, she was able to climb without getting too tired. Then again, she wasn’t getting tired in general, she realized. Sleep was a vague concept from her old life, and she currently felt no desire to do it even though enough time had probably passed by now that a human would at least want a nap. As it was, she was able to keep chugging along with no sleepiness in sight.
+
+[The trait [Ossification] has leveled up! Lvl 2 —> 3]
+
+The bones strengthened further, and she kept going. The start of the climb wasn’t actually too difficult, and she made much faster progress than she’d expected. Around the time when the walls really started sloping, though, things got more complicated.
+
+At the top of the dome, the walls became a ceiling that was fully parallel to the ground. She’d have to stab her bones straight upwards, but that would also make it significantly easier for them to slip out. Gravity and all that.
+
+To get around this, Pyre focused on growing curved bones roughly similar to the shape of ribs. These took longer to screw into the walls, but they felt a lot more secure. She also had to move slower, not able to project her bones out as far as she now had to support her entire body’s weight on them. A vague memory rose from her past life; she felt a bit like she was doing the monkey bars, except the bars where her own bones and she probably weighed a fuck ton more than she had as a tiny child. Still, the thought was actually helpful, funnily enough. She started purposely swinging more, using her momentum to carry herself a little further.
+
+The opening was in sight. This high up, she could actually feel the warmth from what was presumably sunlight streaming in. She could also look down and get a full view of Fred’s collapsed corpse, sprawled out and staring up with those empty eye sockets. Its open stomach looked pretty gnarly like this, but considering a bunch of flesh lumps had fought to the death and ate each other inside, she wasn’t surprised. Good thing she apparently wasn’t scared of heights or bothered at the sight of a ripped-open stomach.
+
+Pyre kept going. The rocks forming the cavern walls and ceiling got looser the closer she went to the hole, which she supposed made sense. They would have to be for this gap to have formed in the first place, and gravity affected the walls, too. It did, however, make things a lot harder for her. She could feel the bones slipping more and more, and she had to grow them faster to compensate.
+
+Look at me, she thought, chuckling slightly. Hardest working sloth demon right here.
+
+She was directly over Fred’s open stomach now, and the opening was in sight. Just a little further.
+
+When she swung next, she heard a distinct clatter. Three of her eyes honed in on a few pebbles landing on the ground below her while the ones on top watched as her bones slipped out of the wall.
+
+Shit. Pyre quickly sprouted more bones, as many as she could with [Ossification]’s limit, and shot them into the ceiling above her. White dug into dark soil, sending more rocks tumbling downward. For a brief moment, as the first hold slipped, she felt herself begin to plummet down before the other bones slammed into the walls. Her entire body jerked, lurching from the sudden stop, but it didn’t matter. She’d managed to hang on.
+
+If she had a heart, it would surely be pounding right now. As it was, though, Pyre simply gave herself a few seconds to recover, then kept moving. After that close call, she was eager to get the fuck out as fast as possible, and the exit was in touching distance. She could probably reach it from where she was right now.
+
+Carefully, Pyre warped part of her flesh and urged it towards the gap in the ceiling, making sure to keep an eye on the bones the whole time in case they slipped. The flesh appendage inched forward. She could practically taste the fresh air.
+
+And then, as it crossed in front of the gap, it suddenly hit a wall.
+
+Pyre frowned. She retracted the flesh, then slammed it forward. Once again, the flesh froze as if hitting an invisible barrier. She tried to move it around, feeling around the gap to see if there was anywhere she could slip through, but it all resulted in the same thing happening.
+
+Realization quickly settled in.
+
+There was no way out. Whatever magic was preserving this place had cast a magic force field over that singular hole, and she’d just climbed all the way up here for nothing.
+
+Slowly, Pyre drew the extended flesh back into her main body. Her eyes swiveled around, rapidly scanning the massive cavern. The only changes from before were the holes along the walls that she’d made climbing up and a few scattered pebbles that had fallen below. No exits, no other signs of life, just her. And Fred.
+
+What the hell was she supposed to do now? The only possible way out hadn’t worked, and she couldn’t get through the walls. Even when she’d been climbing, she’d never felt a bone manage to pierce all the way through, not even when she’d thrown like eight of them into the ceiling at once to stop her fall.
+
+Pyre paused. Fall.
+
+Slowly, her eight eyes peered down below her.
+
+Hanging from the highest point on the dome, she could see how far down the ground was. Fred’s corpse lay perfectly still in the center, that gaping, hollow stomach exposed to the beam of light streaming through the false hole. Pyre silently pulled up the description for [Impact Absorption] again, reading it once, twice, and a third time for good measure. She closed the screen.
+
+If the skill worked for things like falls and it could absorb enough of the impact for her to survive the landing, the absorbed energy might just be enough for her to break through the walls of the cavern.
+
+Of course, there were a whole lot of variables at play. She could very well fall and die instantaneously, skill or no skill. The skill might not apply to falls at all. But the more Pyre thought about it, the more she decided she’d rather go out that way than waste away from eventual starvation. Fuck it, she had nothing to lose. Why raise her constitution to 100 if she wasn’t going to make full use of her durability? Why not test its limits? She’d already spent all that effort climbing this high up—might as well use her current position to her advantage.
+
+Carefully, Pyre adjusted her location on the ceiling until she was right over Fred’s chest. Because of how massive the most-likely-ancient-demon corpse was, landing on it would significantly decrease the fall distance compared to hitting the ground directly. That, and even though the last time she’d checked the corpse’s skin had been rock solid, surely it was still technically softer than actual hard rocks, right?
+
+“Sorry Fred,” Pyre remarked down at the dead demon with no real remorse. It was probably Fred’s fault that fuckass magic barrier was there in the first place. “Really putting you through the wringer here.”
+
+Once she was satisfied with her positioning, Pyre pulled her flesh together, drawing her body into the closest shape to a sphere as she could manage. More layers of flesh to soften the landing, she thought wryly.
+
+Full settled, she gave the distant ground one final look, braced herself, then retracted the bones.
+
+She plunged down to the cavern floor.
+
+Falling through the air, time seemed to slow down for a moment as gravity took hold. Distantly, it occurred to Pyre that this sensation of falling felt oddly familiar. An old memory beat on the blockage keeping her from accessing her old life, too faint to determine what it was, but she had the distinct feeling that this wasn’t the first time she’d fallen this far of a distance. It barely even fazed her. In fact, if she wasn’t concerned about surviving, she would find it kind of fun.
+
+In any case, she didn’t have time to think about that right now. As the ground—Fred—rapidly approached, Pyre sprouted more bones and shot them downwards. They snapped almost immediately, shattering into smaller pieces, but she didn’t really care as long as they helped break her fall.
+
+Then, just when she was about to land, she activated [Impact Absorption].
+
+Blinding pain coursed throughout her body. She closed her eyes and winced as the impact ripped through flesh. She felt the outer layers tremble and pulse, flattening out as she collided with the lifeless corpse below. It felt like slamming into a solid wall of steel at a hundred miles an hour. Worse than that. She hadn’t really felt much pain during those fights in the pit—part of her had assumed her flesh lump body dulled all touch-based sensations—but no, it turned out she’d just had a high pain tolerance, because she could definitely feel this.
+
+Finally, after what felt like hours, the waves of agony began to die down, dulling into a constant, persistent throb. Still painful, but not as sharp as before. Easier to ignore and work through.
+
+Pyre blinked her remaining eyes open. Five of them had been destroyed by the impact, squashed and melted away, and she could see broken pieces of bones scattered about the cavern floor. She groaned and shoved herself up off the corpse she’d landed on.
+
+“What the fuck are you made of?” she muttered. Fred’s chest hadn’t dented or even bruised from the impact. It was just as rock solid as before.
+
+Pyre shook herself and forced herself to keep moving past the constant waves of pain. She had 1 minute left before she could no longer reuse the energy [Impact Absorption] had gathered. She needed to get to a wall right now or this would’ve all been for nothing.
+
+Crawling away, Pyre tumbled off the dead giant demon and landed back on the ground with a splat. After the last fall she’d had, it barely even registered to her. She just kept going, pushing her body to move as quickly as possible while she counted in her head.
+
+Thirty-three, thirty-four, thirty-five—
+
+Pyre finally reached the closest wall, tall and looming far above her. She shifted, drawing as much of her body back as possible while preparing to use [Ossification]. It hurt. Maybe because her whole body hurt, or maybe because the last bones she’d grown had gotten demolished. She didn’t know and didn’t care.
+
+Forty-eight, forty-nine, fifty—
+
+Concentrating, Pyre imagined herself stretching like a rubber band. She pulled all the way back, activated [Impact Absorption] again, then shot a sharp bone straight into the wall while she slammed forward with the force of her entire body weight behind her.
+
+Fifty-three, fifty-four, fifty-five—
+
+The bone plunged through hardened earth, digging into rock and soil with the combined force of Pyre’s strength and the absorbed impact shoving it through. She felt the bone pass through the spot where it usually got stuck. It didn’t slow down.
+
+Fifty-eight, fifty-nine—
+
+The bone broke through to the other side.
+
+A blast of wind exploded through the narrow gap, whipping wildly past her. All the tension that had coiled up since she’d let go of the ceiling dissipated at once. She still felt like shit, and it would probably take some time before she fully recovered from that fall, but she’d done it. She’d survived the impact and broken through the cavern walls.
+
+Pyre shifted the bone, widening the gap, and felt her mouth—the only one remaining after she’d landed on the other one—curl up in a slow smile.
+
+“Well, Fred,” she murmured. “It looks like this is goodbye.”

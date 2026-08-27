@@ -1,0 +1,249 @@
+---
+id: f058a095-bda7-5557-83c4-c2dfa4197250
+page-type-slug: story-chapter-royal-road
+title: "Chapter 478: A Mighty Demon Slayer"
+slug: 0516-chapter-478-a-mighty-demon-slayer
+partOf: dungeon-of-knowledge-complete
+position: 516
+ownLength: 3989
+unit: words
+ownProgress: 3989
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2856023/chapter-478-a-mighty-demon-slayer"
+royalRoadId: "2856023"
+markedReadAt: "2026-06-29T20:29:45.608Z"
+---
+
+Ali sighed deeply and rolled her shoulders, earning several loud cracks and popping noises as a reward. Splitting her attention between her work and monitoring the progress of Calen and her Shadow Dragon was a trivial matter for someone who’d attained the rarified heights of over sixteen hundred intelligence; however, it was what they had found that kept distracting her. The Well of Eternity, Mi’ir Valdanis, the Crypt of Kings, Haverron, Dark Souls? And what was that terrifying monster that burst out of the well? Ali shivered at the fragmented recollection of the sight and the chilling presence she had caught right before one of her dragons had been vaporized.
+
+Well, it was just a minion, she told herself, grateful that Calen had escaped comfortably. I could never do a scout’s job. At least not in person.
+
+Still, it wasn’t as if her time here had gone to waste. She had finally purchased that lovely walnut dresser she’d spotted in the merchant district for her apartment, which had rounded out her bedroom nicely. The expansion of the Emberforge Mines and populating it with bosses and challenging elementals was finally completed. Her beetles had hollowed out an extensive cave system adjacent to her Forest Cavern, and she had fully claimed it for her silver-ranked challenges. Even the jungle level at the bottom of the library was finally fully claimed. Her outposts in Zulkora and the Abyssal Realm were reinforced with powerful bosses, and wherever her senses roamed, her domain was now anchored in both the normal and spirit realms.
+
+It's finally coming together.
+
+One project she was still interested in was expanding into the shadow realm at the heart of Cael and Gage’s Infinite Maze, but there were still some sizeable hurdles to overcome. For one thing, her domain required plants – or magicite – to propagate it, and the Infinite Maze was essentially a floating domain, made possible entirely due to space-affinity magic.
+
+For a while, she had been excited to use the floating Zulkora Baobab trees Basil had discovered to solve the issue of crossing vast open chasms of space; however, she hadn’t figured out how to get the gravity-affinity trees to stay put in the spirit realm. They kept phasing back over to the normal realm where she’d had to retrieve them from all sorts of random places. The twins’ domain tied the spirit realm into convoluted knots, which she had not yet unraveled.
+
+Maybe I should just ask them to build a bridge for me. She wrinkled her nose. It was such an inelegant solution – and quite fragile if she were being honest with herself. To say nothing of what the extra pathway would do to their delicate domain-scale runic formation.
+
+Still, her studies had proved fruitful. Very fruitful. Her eyes returned to the book-cluttered table surface, upon which sat two starkly different crystals. The first was a rounded, mottled-gray rock, the kind you might find at a beach or on a riverbed, worn smooth by the water. At first glance, it seemed dull, but there was something about it that drew the eye. A glint that manifested right when one was about to look away. Hints that promised something precious within. Of course, now that it was charged up, it positively shone with the sluggish swirls of brown and gray characteristic of earth-affinity mana.
+
+Along with the wealth of plants and fungi Basil had brought back from Zulkora, this Lithocite – earth-affinity magicite – provided Ali with precisely what she needed to summon the fascinating earth elementals the guild raiders kept bringing back for her from that strange realm. There were a few spots she had in mind in the Emberforge Mines where she could change things up and add an earth elemental or three. Yes, that should break the monotony of endless fire. Not that fire is bad…
+
+Ali’s eyes drifted to the second crystal. This one had been far harder to make, and it had taken an unexpected insight from a book Ryn uncovered in Azryet’s library to unlock her understanding of a passage Clarence had been showing her for ages. The gravity-affinity magicite was something out of this world; she hadn’t even known it was possible to make. The perfectly clear crystals were accreted in a symmetrical cluster around a single point, making a jagged ball that floated a hand’s breadth above the table under its own power. It had no discernible color, appearing faintly blue one moment, and then tinted with red as her gaze slipped across the glittering faceted stone. Light refracted through the crystal, making patterns that shifted across the table and the floor, but there seemed to be no rhyme or reason to their placement or color.
+
+She reached out and took it in her hand, and that was the other oddity about this crystal; it weighed nothing. Not less than expected. Precisely nothing. By the feeling of inertia, Ali deduced it had mass, but it was as if it were immune to gravity – any gravity other than its own. It remained wherever she put it, be that on a shelf, in a drawer, or hovering a meter above the ground.
+
+Now I can finally try to make that Sandwyrm and those Sand Vortices! Ali couldn’t wait. She just needed to find somewhere with a lot of room.
+
+“Hey, Ali…”
+
+Ali glanced up to find Mato approaching, with several other guild adventurers traipsing through the library beside him. Their party included a very imposing Orc that Ali had never met, who was carrying a pair of wicked-looking battle-axes strapped to his waist. He seemed to be made of muscle, slate gray, leathery skin, and scars. “Hey, Mato. What’s up?” She eyed the Orc warily, but he caught her gaze and inclined his head.
+
+Warrior – Orc – level 93
+
+Hmm, he seems polite. Ali caught the glint of a gold guild ring on his finger – a ring she could possibly have crammed three or four of her own fingers in, were she so inclined.
+
+“Ryn just posted new quests from Azryet. He wants a platinum raid group for a project in the Abyssal Realm. We’re going to head up there in a few minutes.”
+
+“The big fellow isn’t platinum, though,” Ali said, glancing at the Orc.
+
+“Aah, Ali, this is Gromm. He’s a new guild member and a disciple of Azryet. We were going to introduce him, and hopefully this job can boost him to one hundred.”
+
+“Pleased to meet you,” Gromm said, nodding to Ali again. His voice reminded her of a Boulder Elemental eating a handful of gravel.
+
+“Likewise,” Ali said, smiling at him. Despite his obvious physical prowess and reserved politeness, there was an eager gleam in his eyes, and Ali just knew he was about to have his world rocked.
+
+“Do you want to come with us?” Mato asked.
+
+“Sure, I need to speak with Azryet anyway,” Ali said. “Calen found Mi’ir Valdanis. Mato, the Well of Eternity is in there, I saw it!”
+
+“Holy shit! Seriously?” Mato exclaimed while the growing raid group erupted in gasps of surprise at the news.
+
+“Yes! But it’s well guarded in one of the Lich’s dungeons. We found Haverron, too. And… something else…”
+
+“One out of three!” Mato said, pumping his fist in delight. “What did I tell you? We’re going to find them all and save Lira.”
+
+Ali smiled. Ignoring all the obvious challenges that faced them, Mato’s confidence was refreshing. “Ok, give me a few moments, I’ll make a temporary teleportation circle.”
+
+***
+
+“You found it?” Azryet said, his voice rumbling through the vast chamber, making a few of the less dexterous adventurers assembled before him to stumble and catch their balance. “The Well of Eternity?”
+
+“Yes,” Ali said. “I saw it with my own eyes. Well, my Shadow Dragon’s eyes.”
+
+“You have done well!”
+
+“I was hoping to get your opinion on the monster that guards it.”
+
+“I do not know what it is that you have found,” Azryet said. “But I can hazard a guess. There are countless realms out there, many of which are home to incomprehensible monsters. Given what you’ve told me of the Blind Lich and the rifts you’ve found, and what I have learned from studying his artifact, I’m nearly certain he is making those rifts in search of something. I suspect he has tamed a monster of great power to serve as the guardian of the well.”
+
+“How do I beat it?” Ali asked.
+
+“You will need to be careful,” Azryet said. “However, it is fortunate that you came with these raiders today, for I have a proposal which might greatly improve your strength. Certainly, your versatility.”
+
+“What do you need?” Ali asked. It was hard to figure out what one as powerful as Azryet may need from her or this platinum-ranked raid group, but she could personally attest to the fact that it was possible.
+
+“Devan here has been hunting demons around your domain, cunningly drawing imps and wargs out and soloing them while leveraging your bosses for cover,” Azryet said, gesturing a massive talon toward the talented Demon Hunter. Devan immediately stood taller, a flush rising to her face, and Ali was sure she was about ready to burst with pride.
+
+Ali glanced up at the dragon god, not entirely sure where he was going with this.
+
+“I learned something important from her work. Every so often, I gain reputation from one of her kills. It happens because she is one of my followers, and she is slaying the minions of my sworn enemy,” Azryet said, and then he lowered his head, drawing closer. “Every time, I gain a point of Authority. I’m sure I don’t need to remind you how important that is?”
+
+“I see,” Ali said, staring into the swirling draconic eye that was larger than her entire body. “You want to see if you can accelerate it with a bigger group?”
+
+“I have set my eyes on a bigger prize,” Azryet said announced, drawing himself up self-importantly. “I wish to bite off a chunk of that chasm where you first showed me the power of your ooze, and grant it to you for your domain. We will make a staging area from which your guild can raid. It will be close enough to my domain that I can provide protection against higher-tier incursions while my followers can kill demons and earn reputation and Authority for me.”
+
+“I see,” Ali said. “And how does this make me stronger?”
+
+“You saw the floor of that chasm, did you not?” Azryet said, grinning at her. “Battle rages continuously overhead, and every corpse that falls is yours to deconstruct.”
+
+“I see,” Ali said, her eyes widening as she realized what his plan meant.
+
+“I suspect you do,” Azryet said, his rumbling laughter echoing through the chamber. “I crave the Authority you all will earn for me, but I believe in fairness and will offer commensurate reward for all who work toward my goals.”
+
+“You should see some of the items listed on the quest, Aliandra,” Devan said. “Unbelievable weapons, potions, and armor. He’s offering an experience-weighted kill quest for demons, with higher rewards for greater participation and spot-bounties for participating in killing the more challenging monsters.”
+
+“I guessed you’d prefer the imprints, Aliandra?” Azryet said.
+
+“I do,” she said. She recalled the thick layer of demon and dragon corpses that carpeted that chasm and felt her heart burning with a sudden need. She pushed the surprising sensation down, but it was clear that Azryet understood precisely what she needed. “Very well, I’m in.”
+
+“Perfect,” Azryet said, baring his fangs in a grin. “There is one more thing, before we get started. Gromm of Drak, step forward.”
+
+The towering Orc stepped to the front and bowed low toward the dragon god.
+
+“You have not yet achieved platinum rank and your second-tier evolution.”
+
+Gromm dropped to his knees like they’d been cut out from under him. “My humblest apologies, Azryet. I am weak.”
+
+“Hmm… you are weak,” Azryet said, his growl filling the air. Gromm pressed his head to the ground. “But weakness can be cured. All it requires is persistence. Stand, Gromm. I do not require groveling. You may bear my patronage with pride. I will grant you your first quest. You are to join the raid and kill five imps and five wargs by yourself. You may use your friends to ensure your fights are not interrupted, and they may heal you afterward. You will reach level one hundred before you leave this place. In return, I will grant you a path to great power when you evolve your class. Is this acceptable?”
+
+Gromm rose shakily to his feet, staring at Azryet in surprise for a few moments before he pulled himself together. He drew his axes and bowed to Azryet and said, “My axes are yours to command. Thanks for the damage!”
+
+Several echoes of their favorite chant rippled through the assembled raid group before Azryet himself led them off to battle.
+
+Ali was not quite sure, but was that a hint of a grin sneaking about the edges of the Dragon God’s vast maw? It seemed that the matter of having followers enthused him – most certainly, not merely for the Authority and reputation he had mentioned.
+
+He’ll be skipping into battle, next!
+
+Well, best he not overhear her irrelevant thoughts! Ali scooted after, murmuring, “Thanks for the damage. And the imprints. And all the knowledge. And… everything.”
+
+***
+
+“Is this a good spot?” Ali asked. She hovered above the corpse-strewn ground, staring out over the battlefield. The raid group was already in the thick of things, tackling all manner of demons as they pushed slowly forward, clawing their way over the mountains of slain demons and dragons piled up on the chasm floor to claim ground. Overhead, impossibly high-level dragons soared, keeping the skies clear of overwhelming threats.
+
+“Yes,” Azryet said. “Put your locus here, I will guard it.”
+
+“Right,” Ali said, inscribing the locus into a cleared spot right on the edge of the domain she had spent the last hour growing just to reach the battlefront. Azryet had been true to his word, offering a horde of kobolds and dragons to ‘take a bite’ out of the demon god’s domain, as he had described it. She placed only a locus, making a one-way teleportation destination the guild could use to access this site – they would need to use escape potions or purchase one of the Hearthstones she had learned to make right here in this dungeon to return. It was an inconvenience, but placing a two-way Gate on the border of a battle between two gods was taking far too much of a risk.
+
+“Now,” Azryet said. “Claim as much of this as you can. Place your strongest boss up front to protect it. I will place a champion dragon overhead.”
+
+“Ok,” Ali said, summoning her Grimoire. The only question was, what was her strongest boss? A Scion of Azryet? No, wait. She stared out at the vast chasm. I was looking for a big open space…
+
+Grimoire in hand, she immediately set about summoning trees to settle her domain; however, once she was done with the familiar Lirasian Oaks, she began to summon Zulkora Floating Baobab trees in batches of twos and threes and sent them floating toward the perimeter of her domain.
+
+“Gravity?” Azryet said.
+
+“Yup,” Ali answered. Her tone was somewhat smug, if she were being honest with herself, but she decided it was appropriate.
+
+“You plan on summoning that…”
+
+“I always wanted to know if I could grant it additional domain magic spells,” Ali said. “I thought you might approve.”
+
+“I do. And I suspect you will be pleasantly surprised,” Azryet said, chuckling so massively, her stomach wobbled in reaction.
+
+Ali summoned several of her Deep Woods Ents and sent them out into the fray with orders to expand her domain by sprouting carpets of the highest-level earth-affinity mushrooms Basil had recovered from Zulkora, and as her domain spilled out, she decided she was ready.
+
+Picking her spot, she created several boulders of gravity and earth affinity magicite to support her newest monster and then summoned it.
+
+Obsidian Sandwyrm – Elemental Dragon – level 162 (Earth / Gravity)
+
+She purposely made it the maximum level she could, and then immediately attached it to her still-growing domain, a maneuver she had grown exceptionally proficient in by now.
+
+Domain Respawn applied to Obsidian Sandwyrm.Champion Domain Enhancement applied to Obsidian Sandwyrm.
+
+To her surprise, she found Azryet was right, and she could indeed choose additional Domain Magic skills for her champion boss. It already came with robust endurance and strength enhancements, and the ability to summon Sand Vortices, so she doubled down on its strengths.
+
+Elemental Storm (Gravity) applied.Rain of Ruin (Earth) applied.Zone of Destruction (Gravity) applied. Amplify Skill (Maw of the Sandwyrm) applied.Domain Enhancement complete.Your reserved mana has increased by +5864.
+
+“Oh, my goodness, that’s expensive!” Ali exclaimed. It was almost double the cost she was reserving to support her other champion boss, Maalgaroth. But it made sense; she had just applied a champion domain enhancement to something that was already a world boss in its own right. It had an unprecedented seven domain-class spells: the four she had just granted it from her domain attachment, and the three that it possessed innately: endurance and strength enhancements, and the ability to summon the Sand Vortex elementals.
+
+Azryet’s laughter shook the rock under Ali’s feet as the gigantic Sandwyrm dove underground. “You never cease to impress,” he said.
+
+Ali just grinned. As she watched, her new boss breached under a pack of demons, with a surge of gravity magic coming from its mouth that warped reality and bent light.
+
+“You amplified that skill?” Azryet asked.
+
+“Maw of the Sandwyrm,” Ali said, nodding. “It traps monsters with the gravity well, drawing them in, empowers its bite attack, and it’s also a healing skill if it’s used to consume rock or sand.”
+
+As they watched, more and more demons were drawn into the gaping maw and sucked down into the dark, ravenous gullet. Then mana surged again, and a dozen Sand Vortices spawned as the monster began laying down dangerous gravity traps and summoned a heavy rain of boulders that came thundering down upon the demons.
+
+“This is going better than I envisioned,” Azryet said. “Already, they have earned me twenty Authority. I believe Gromm has just completed his quest, and this should be sufficient to grant him the perfect path.”
+
+“I’m glad,” Ali said, reveling in the sight of her now distant Obsidian Sandwyrm drawing on an extreme surge of mana. “Hide,” Ali whispered, but the simultaneous shouts and scrambling out of the way from the adventurers out in the chasm told her she had nothing to fear. Suddenly, an enormous sphere of space centered on the Sandwyrm simply folded in on itself, bending light so far that it seemed to turn inside out. There was a muffled whump, and then everything inverted, and all that was left in its wake was a massive crater filled with chunks of highly compressed Lithocite.
+
+“That was… impressive,” Azryet said.
+
+“Wow, the gravity Elemental Storm interacting with its earth affinity created earth affinity magicite?” Ali gasped. But it seemed that was not all, as several chunks of gravity magicite floated up out of the crater. Then sand billowed out from the wyrm as it dove again, and moments later, the crater was filled.
+
+“You might want to claim your reward before your wyrm destroys it all,” Azyret said.
+
+“My reward?” Ali said, glancing at him, and then out at the heaped corpses lying everywhere. “Oh, right!” With a gesture, she unleashed a wave of deconstruction that consumed every corpse in reach of her domain in a wave of erupting mana motes. Her Grimoire convulsed. Ali gasped at the deluge of information and runes that rushed into her mind as her vision dimmed ominously. Wow – bit off a bit much here…
+
+The book thickened in a rush of conjured pages, and a storm of runes settled into the Grimoire. Notifications rang out as variants were inscribed, but then it paused on three notifications, waiting for her.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.Variant completed, but the imprint is full. Make space or select a new chapter.Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Immediately, Ali selected three free chapters, and her kobold, demon, and dragon imprints grew as the notifications continued to sound off.
+
+“Get something you like?” Azryet asked, grinning wickedly.
+
+“Ugh, maybe I should have taken it a bit slower.”
+
+One thing was for sure: she wasn’t going to run out of interesting high-level kobolds, dragons, or demons any time soon. Hopefully, the headache would be worth it.
+
+“This should be a safe spot,” Calen said, entering the same ice cavern outside of the dungeon that he had used as his camp when scouting. He finally released his Eclipse skill and the rest of his concealment magic, watching as Ali’s remaining Shadow Dragon revealed itself, still shadowy and indistinct even without stealth.
+
+“This will work,” Ali said, the draconic syllables pronounced by the reptilian mouth still somehow conveying the sense that it was Ali who spoke. “I’m coming.”
+
+Mana surged within the cave, and the Shadow Dragon vanished, and then suddenly, the cave was crammed with large, menacing trolls, with Ali appearing inside a golden bubble in the center. Calen found himself shoved up against the icy wall by uncomfortably placed knees and elbows.
+
+“Err, maybe I should have brought smaller minions,” Ali said.
+
+“Urk,” Calen managed, untangling himself from a troll finger that had somehow managed to find its way into his mouth. “Ptoui.”
+
+With a little contortion and gymnastics, Ali managed to rearrange her trolls to free up a little space.
+
+“That’s better,” Calen said, breathing without his ribs being crushed again.
+
+“Give me a few moments to inscribe the locus, and then we can get Malika and Mato and start planning.”
+
+“Not going to make a Gate?” Calen asked, a little surprised when she started inscribing a runic circle instead.
+
+“I don’t want to risk alerting him by flooding the area with my domain mana,” Ali said, not interrupting the focus of her intricate mana inscriptions. “Besides, the Crypt of Kings’ domain seems hardened. It reminds me of the Demon God’s Lair in the Abyssal Realm. I’m certain I can cut it with my domain if I use a Gate, but it will take forever and most definitely trigger a dungeon rage.”
+
+“I see.”
+
+“Also, this way is one-way. Nobody can use a locus to get back to Myrin’s Keep,” Ali noted.
+
+“Aah, that’s good,” Calen said, waiting patiently while Ali completed her runic circle. What she said sounded prudent – they most certainly didn’t want to alert the Blind Lich if they could help it, and dungeon rage was an almost dead giveaway.
+
+A few moments later, Ali stood up, looking satisfied with her work. “There we go.”
+
+“We should consult with Lyeneru,” Calen said. Everything they had discovered inside the Crypt of Kings told him they needed careful preparation. At least with Ali’s locus, they could return whenever they were ready.
+
+“Right, let’s go home,” Ali said. “If you’re quick, you can even catch the tail end of the raid in the Abyssal Realm!”
+
+“The what?” Calen said.
+
+“Azryet asked for a raid group, and I made an Obsidian Sandwyrm champion.”
+
+Calen just stared at her as she grinned back, and then she pulled out her Hearthstone and vanished.
+
+“What craziness has she gotten up to this time?” Calen muttered, following a moment later with his own teleport home. “Making a Sandwyrm without me? The cheek of that Fae!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

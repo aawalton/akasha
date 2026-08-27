@@ -1,0 +1,169 @@
+---
+id: 8feb43b8-3c2d-58b3-9a88-6c535a96abeb
+page-type-slug: story-chapter-royal-road
+title: "Ch46 Mysterious Egg"
+slug: 0046-ch46-mysterious-egg
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 46
+ownLength: 2236
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3355677/ch46-mysterious-egg"
+royalRoadId: "3355677"
+---
+
+“Look who it is! Fatty Wang! You’re not selling any of your Wang Family’s specialty fruits tonight, did you sell out, or did you just eat them all yourself?”
+
+Laughter follows this remark, as three lackeys trail behind the tall and muscular ginger haired figure.
+
+Wang Ming murmurs, “I sold out… Jiang Ran…”
+
+A few slaps echo through the street, and many stall owners that recognize the young master of the Jiang family pack up their stalls and run away to not cause any trouble for themselves.
+
+Red marks form on Wang Ming’s fat cheeks, but he looks down and doesn’t fight back.
+
+“What a loser! I heard you tried breaking through to the late stage, but failed again! I broke through to the Late stage of Qi Refinement years ago, and have even reached the 8th level before 30. Even with 5th grade spiritual roots, all without the help of a Spirit Beast. You truly are a disappointment to the Wang Family. You were their only hope of adding a new Foundational heir to the bloodline, yet you’re squandering their resources.”
+
+He clicks his tongue, and slaps Wang Ming a few more times. Mantou starts to growl, and shows his teeth. The fat man puts up a hand.
+
+“Don’t provoke him. We can’t make enemies of the Jiang family.”
+
+“At least you’re not entirely stupid!” Jiang Ran laughs, crossing his arms while the fat man kneels with a grimace on his face.
+
+“Oh, I almost forgot the reason I came to this sorry side of the Red Pine Market. It was to tell you I’ll soon be taking that little girlfriend of yours. The Mu family has begun making more alliance requests recently in Lingshi City, I thought I’d take another concubine, to ease their young miss’s heart about the failure she’s been obligated to marry.”
+
+Wang Ming grits his teeth, then his face starts to grow red with rage.
+
+The Jiang Young Master laughs even louder, “There is nothing you can do about it. I hope you haven't tarnished that little piece of meat before I get to savor it. If you have, I’ll be sure to take out my disappointment on the Wang Family.”
+
+“That’s too far!” Wang Ming lets out through a clenched jaw.
+
+He stands to his feet with a straightened posture.
+
+“Mu Shulan has nothing to do with our disagreements. Take out whatever your problem is on me, don’t get an innocent girl involved!”
+
+Jiang Ran grins even wider, “Oh, so you do have some backbone. I thought all that blubber would have worn it away by now.”
+
+A loud smack echoes through the streets, sending Wang Ming flying back into Mantou. Both of them tumble backward over ten meters.
+
+“You took away the spotlight that was rightfully mine! Over a decade ago, becoming the first in our generation to break into the mid stage of qi refining, but you cheated by using your spirit beast to help you. I am the next heir of the Jiang Family, we have five foundational cultivators in our clan. Your weak Wang family is declining, riding on the coattails of your grandfather, the sole foundation establishment cultivator in your clan. You do not get to talk back to me. I will have my revenge, taking everything from you, slowly, and before your eyes!”
+
+Jiang Ran laughs even louder, and turns away. His lackeys chuckle along, and add snarky remarks about the fat man and his bear that lay injured and covered in dirt on the outskirts of the Red Pine Market.
+
+–
+
+The ginger haired man starts walking my way, getting within range of my spiritual senses.
+
+[Automatic Inspect Function Activated…][Jiang Ran] [Age: 30][8th Level Qi Refiner][Earth, Metal, Fire Spiritual Root][5th Grade][Acquired Flaming Mountain Physique][Late Stage - Mortal Grade][No Innate Physique][The heir of the Jiang Clan. To increase his cultivation speed, he often uses Blood Qi pills to expedite breakthroughs. Recently, to rid himself of the negative effects, he has stolen the Primal Yin Qi of many pure female cultivators.]
+
+Everyone backs down in the streets, parting ways.
+
+The ginger man still stares down random unsuspecting strangers. Some of whom faint on the spot or cough up blood as he releases his full killing intent and pressure of an 8th level qi refiner.
+
+One elderly rogue 1st level qi refiner coughs up chunks of organs, badly enough that without a healing elixir he might die on the road.
+
+The man laughs in the faces of those that fear him.
+
+However, I do not intend to receive an injury by chance just because he’s some kind of big shot.
+
+I step aside like everyone else, but pull a perfect grade defensive talisman out and activate it on the spot.
+
+At the same time, I get ready to pull out my fully charged Azure Lightning Attack Talisman. I already killed a demonic cultivator at the same cultivation level as him, and with an even higher ranked acquired physique.
+
+I feel no psychological disadvantage, confident I could kill him in an instant if necessary.
+
+When Jiang Ran passes by, his sharp spiritual sense passes through me. Unlike the crowds, I do not bow my head.
+
+“Did I not make myself clear? I am Jiang Ran! My grandfather was once the Elder of the Outer Sect’s combat peak, and now we are the strongest force in Lingshi City. Show me the respect I deserve!”
+
+The ground cracks beneath his feet as he turns my way, but I waste no time in pulling out my Tier 2 talisman, crackling with foundational lightning aura on the verge of activating.
+
+His pupils constrict once he realizes what’s in my grasp. A few probes of his spiritual senses try to push through me, but he cannot discern a thing.
+
+The young man’s arrogant laughs stop, and even his killing intent retracts. However, the sour expression on his face grows worse. Jiang Ran scoffs loudly, grits his teeth, then turns away, holding in his anger and embarrassment.
+
+A few mid stage cultivators look my way in confusion, but I stow away the weapon before too many lingering eyes can see. I walk right past the elderly man coughing up a lung, not giving him a second glance. This cultivation world is cruel, and my goodwill is better spent somewhere with a higher chance of returns.
+
+I stop in front of Wang Ming’s stall.
+
+The fat man is still holding his head in pain a few meters away, so I read the strange scans popping up in my vision.
+
+[Automatic Inspect Function Activated…][Unnamed Flame Toad] [Age: 0][No Qi Cultivation][Fire Spiritual Root][9th Grade][No Innate Physique][No valuable secrets.]
+
+Over and over, this is what I see. Covering one half of the table, palm sized eggs are lined up in an organized pattern. A ‘250 spirit stones each’ sign is placed up against the front of the display.
+
+Each one of them apparently holds an unborn flame toad. There are two stacks of talismans piled up on the opposite side of the stall. I try to figure out what they are, but there are no labels. Without imprinting them, my system won’t show any detailed scans.
+
+“Oh, a customer. I’ll be with you in a moment…” An earnest voice filled with pain calls out from the ground.
+
+[Ding!][A more valuable secret within the target has been located. Old data partially overwritten.]
+
+[Has failed to break through into the late stage of qi refinement again, severely damaging his dantian and leading to a minor soul fracture. Only a heavenly grade 1st tier healing elixir, or a low grade 2nd tier healing elixir consumed within the next few days can reverse the effects. He is unaware that his dormant gluttonous intent is on the cusp of awakening, and requires a large amount of energy.]
+
+Wang Ming looks pale and tired, like fatigue has built up on him for weeks. The beating he just took does not look like it’s helping.
+
+“I was wondering if you had any of those Spirit Apples left over, they were quite helpful.”
+
+His face lights up a bit, “Oh a return customer. With your concealment talisman it is hard to tell. Unfortunately, my Wang Family will not produce any more until next year. They are a seasonal product.”
+
+He scratches his head, and looks down at the ground nervously before pointing to the table.
+
+“But… we do have another product that sells well year round, flame toads. They’re the perfect spirit beast for young kids with lower than average roots just starting off on the path of cultivation. If you make a soul pact with them at age 10, oftentimes, breaking into the mid stage of cultivation can be achieved before turning 30.”
+
+When looking over these toads, I see every one of them is a 9th grade root.
+
+“What do you mean? They can help cultivators break through bottlenecks?”
+
+“Certainly. Well… only one major bottleneck actually. Flame toads are considered beginner spirit beasts because they naturally stop growing once they hit the 4th level of qi refinement around 20 years old, and have limited lifespans, dying soon after. However, using these, a cultivator can create a minor soul bond to become the spirit beast’s master, and experience their breakthroughs almost as their own. It's a proven way to loosen bottlenecks faster.”
+
+He points down toward small white talismans on the empty side of the table.
+
+Then, turns his finger up at the large brown bear sitting like a human on his butt a few meters away. “It’s similar to the pact I made with Mantou, making my breakthroughs in my earlier years much faster… The only difference is that my pact was made before I started on the path of cultivation, so we’re bound for life.”
+
+He points to the white talismans again, “These are only minor soul bonds, the cultivator can release the spirit beast without any backlash.”
+
+This catches my interest, as it appears it's a very unique way to surpass bottlenecks. However, I don’t have 20 years to wait for a Flame Toad to mature.
+
+I start pushing all of the scanning notifications to the back of my mind, but stop all of a sudden on one of the slightly darker eggs in the back row of the display.
+
+[Automatic Inspect Function Activated…][Unnamed Flame Toad] [Age: 0][No Qi Cultivation][Mutated Fire Spiritual Root][Special Grade][Dormant Innate Physique][Holds a trace of the Primordial Flame Swallowing Toad’s Bloodline. Will not awaken until a unique Spiritual Flame is presented for its rebirth.]
+
+“Could I see that egg?”
+
+Wang Ming’s expression shifts to one of unease.
+
+“How about another one… that egg is quite problematic…”
+
+“What do you mean problematic?”
+
+“This is a batch of eggs from my family’s business in Lingshi City. Though, that specific egg came from a batch that matured years ago. It’s been resold and returned multiple times, as no one has managed to awaken it.”
+
+I raise an eyebrow, as the information being shown in my system makes this all add up.
+
+“These are mid grade soothing flame talismans. They release a controlled fire strong enough to awaken the average flame toad within a week or two. Applying a minor soul contract talisman during this process is recommended, or else you will have a wild level 1 spirit beast awaken. These spirit beasts were raised from tadpoles, and have transitioned back into an egg-like crystallization state before breaking through onto the true path of qi cultivation. They are much harder to contract once they’re already hatched. If you buy an egg, one of each talisman will be thrown in for free.”
+
+My eyebrows rise in realization. This is an opportunity to complete one of my side quests.
+
+“If I buy four eggs, will you throw in that defective one for free?”
+
+“Really? You’re willing to buy that many?”
+
+I nod, pouring out a thousand spirit stones onto the table, almost draining the remainder of my supply.
+
+The brown bear behind Wang Ming perks up at the sight of all these stones. Nearby vendors in this less traveled portion of the market turn their heads too.
+
+“Deal.” Wang Ming nods, as a wide grin returns to his sullen face.
+
+I stow away five minor soul bond talismans and five mid grade soothing flame talismans, along with the 4 normal eggs and the special dark one.
+
+Wang Ming counts the stones and we shake on the deal, yet I pull out a low grade storage ring and set it on the table. I believe some goodwill should be given back, especially when he is in need.
+
+“Don’t take it out until you’re alone. It may help with your internal injuries. Next time you challenge the late stage of qi refinement, make sure to listen to your instincts.”
+
+He accepts the ring, but doesn't break the imprint to look inside yet. “What do you mean?”
+
+“You have an unawakened ability. It’s something called gluttonous intent. I wouldn’t tell anyone about it that you do not trust. Your clan’s elders would probably know more about it than me.”
+
+I shrug and make my way off into the crowd after this cryptic remark.
+
+The fat young man looks at me in confusion as I walk away. However, I do get to see his eyes widen in the edges of my spiritual senses as he breaks the imprint, and sees the heavenly grade healing elixir inside.

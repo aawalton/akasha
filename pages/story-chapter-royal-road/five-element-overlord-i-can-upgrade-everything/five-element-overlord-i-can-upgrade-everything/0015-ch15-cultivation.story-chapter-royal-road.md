@@ -1,0 +1,87 @@
+---
+id: 91799b75-ab9f-51e3-aa5b-09cce1d796d6
+page-type-slug: story-chapter-royal-road
+title: "Ch15 Cultivation"
+slug: 0015-ch15-cultivation
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 15
+ownLength: 1086
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211884/ch15-cultivation"
+royalRoadId: "3211884"
+---
+
+Back in the servant camps, I return to work with a smile right at the break of dawn, much earlier than I normally would if I actually slept the night before.
+
+The hot qi coursing through my body from last night is nowhere near dissipated.
+
+My meridians are still wide open, allowing me to even absorb some of the ambient qi in the air as I walk through the forest today.
+
+It feels like an aftereffect of eating part of that serpent's plum. My vision feels sharper, and my energy feels endless as I chop wood. It takes less than an hour to fill up the metal bin, and my heart rate doesn't even change by the time I’m done.
+
+I circle around to the empty hut where I disposed of a body last night to double-check on the rush job I did in the dark. Yet, the patch of grass and dirt I dug up is no different than the many tree stump holes all over the property.
+
+The inside of the hut is simple and organized. Everything is perfectly set.
+
+While leaving, I reach down to feel the pendant around my neck.
+
+Without it, I would be facing the same fate as Tang Min, most likely in the belly of a spiritual beast by now.
+
+Small cracks splinter all over its smooth surface, as 1 of the 3 uses has been exhausted. The passive perk of cloaking aura has not changed one bit.
+
+When I get back to my hut, the morning sun has finally risen over the horizon, around the natural time that I usually wake up.
+
+I stop the moment I open my front door.
+
+[Ding!][1st Level Qi Refiner Check-In Time threshold met.][Would you like to Check-In?][YES][NO]
+
+I vividly remember getting a notification just like this yesterday morning. Despite my confusion, I choose yes.
+
+[Ding!][Rewards have been deposited into your storage!][x1 Perfect 1st Tier Upgrade Card][Please wait 1 day to Check-In again.]
+
+As a brand-new bronze card falls into my storage, I remember one of the notifications I received while breaking through yesterday. It said my check-in time threshold was changed.
+
+Now, with a fresh upgrade card ready for use, I fully believe it to be true. I will now receive one of these every single day.
+
+I think about taking a spirit fragment out right now and upgrading it on the spot, but I already have something better in my storage to cultivate with, it’s the rest of that serpent's plum.
+
+Considering the toll it took on me last night, cultivating out in the middle of the day for hours at a time is not an option.
+
+Just as I begin contemplating how much of the remaining plum I’ll attempt to eat tonight, the faint sound of wood chopping from far off in the servant camps, where I have never ventured before, hits my senses like background noise. My perception was never this keen, but I can hear it now.
+
+Familiar sour laughter even echoes through the forest. A few minutes later, I see Zhou Kang, followed by half a dozen children behind him.
+
+He drops one off at Tang Min’s old hut, gives the muscular tan-skinned teen a rundown on their duties, and ends it with a heavy slap. The new neighbor gets up, shaking their head and crossing their arms, and receives another. Then another.
+
+After a dozen slaps, they stay down, holding their head, and the group continues walking up the dirt road. It is hard to fully make out what this new neighbor looks like, but their physique is far more robust. Even as a level 1 qi refiner, a dozen full-force slaps from Zhou Kang would have probably knocked me out cold too… The only thing I manage to see is their short bright purple hair as they get up from the ground mere minutes later and start chopping wood like nothing happened.
+
+–
+
+I still go on with my day and mind my own business.
+
+Filled with more energy than usual, I spend a few hours chopping wood, even storing extra fully chopped logs in my storage space just in case.
+
+At night, once the sun fully sets and the servant camp goes quiet, I take another large bite of the serpent's plum.
+
+The initial rush is just as intense as the first time, but I manage to overcome it in a matter of 5 hours, deep in the middle of the night. Without any hesitation, I devour the last third of the fruit, and suffer for another 4 hours until the sun rises in the sky.
+
+My meridians do not open up much further, but my dantian and 5 spirit roots all become more and more saturated with sharp qi refined hundreds of times by my Jade Purity Soul Scripture.
+
+I remember reading a small snippet in the booklet provided by the sect, and this is what it should feel like to be at the perfected stage of a level, ready to break through to qi refining level 2.
+
+Internally, I’m excited about my rapid strength increase.
+
+What usually takes normal qi refiners with my grade of roots decades, has been absorbed in a matter of days.
+
+However, I’m also slightly disappointed. I felt the qi in my meridians flow through my spiritual roots over and over. Only tiny gaseous qi particles managed to be left behind, saturating them slowly each time.
+
+If it wasn’t for my unique cultivation method granted by the system, I would have been nowhere close to the peak of this new level. Over 99% of the energy from this fruit would have flowed right back out into the ambient flowing qi in the atmosphere.
+
+Luckily, I have this method to cycle the energy back through. Yet even so, my blood, muscles, bones, and skin absorbed even larger amounts of qi than my dantian or spiritual roots did.
+
+The system said that this fruit was meant for a spiritual beast to break through into the mid level of qi refinement, meaning the 4th level of qi refinement. That enormous serpent would have eaten this fruit and broken through. That was even before it was elevated in quality using an upgrade card.
+
+Having 5 mixed 9th grade spiritual roots would be an unbreakable curse for most cultivators in this world.
+
+I fully understand how Zhou Kang, at his elderly age and only the 2nd level of qi refining, could become so angry and bitter. This world is cruel to the weak.

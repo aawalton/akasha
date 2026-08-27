@@ -1,0 +1,217 @@
+---
+id: 62911526-dafd-5457-bbd1-91b1f2b63561
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: Use of Weapons"
+slug: 0085-chapter-70-use-of-weapons
+partOf: ends-of-magic
+position: 85
+ownLength: 2916
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3238531/chapter-70-use-of-weapons"
+royalRoadId: "3238531"
+---
+
+The duels were over, so Davrar tried to teleport Nathan away from the arena. It failed again, but he was already moving towards the edge of the arena and the seats beyond. Nathan realized he could just hold the stage and refuse to let the next speaker talk. He wasn’t sure what would happen, but the most likely outcome was that a team of Questors would evict him. That seemed like something that would get very messy, very fast, and carry a number of unintended consequences.
+
+Instead, Nathan zipped across the arena and back towards the Heirs. He received a bunch of excited cheers from the surrounding Questors. The Heirs were more stoic in their congratulations, except for a mocking comment from Aarl. “Couldn’t resist displaying your goods to all of Davrar, could you?” Then he tossed Nathan another set of clothing.
+
+Nathan quickly pulled them on and responded in kind. “It’s a bit hard to argue that I did it intentionally. But I made sure the regeneration was complete.”
+
+“I am glad you overcame that challenge,” Khachi said, refusing to engage with the topic of Nathan running around nude in front of hundreds of thousands of Questors. “Your Insights are always impressive.”
+
+Stella darted a glance around and lowered her voice. “What did you do to Badud?” She seemed caught between hope and fear for the answer.
+
+Nathan shrugged. “Crippled his magic. He should be able to regain it with effort. But not anytime soon.” Stella pressed her lips together, not sure if she was relieved or disappointed in his answer.
+
+“Now it’s even harder to kill you,” Sarah said in a satisfied tone. “There aren’t many things that could hit that target.” She nodded towards her own dimensional pouch, where one of the annihilation rods was now stored.
+
+Sarya had been letting the Heirs talk to each other, but now she jumped in with her own congratulations and commentary. “Well struck in word and deed. Your speech was aggressive, but victory forgives many sins. And the fight against Kamus was a sublime sight. He acknowledged you as his equal! That stature will help when Colborn proposes the poll.”
+
+“Where is he, anyway?” Nathan asked.
+
+“Refining the proposal to survive validation,” Mirus said, leaning forward with a complicated expression on her face. “I would congratulate you on your victory over Kamus, but I must warn you that his attention is a caustic blessing.”
+
+“Maybe we should speak about her,” Aarl cut in, indicating the Questor taking the stage. “She’s my foe, and my bones say she's a dangerous one.”
+
+“Lyra Alys,” Garna replied promptly, reciting off the information. “Popular. Dangerous. She fights with many weapons, or unarmed, and is very hard to kill. She is known for an elegant style that weaves in illusions and deception. She is vaguely associated with Amoh’s Seminary of Assassins. I am not sure this is an opponent for Aarl to fight.”
+
+Aarl gritted his teeth into a rictus of a smile. “Too late. I already entered the challenge.”
+
+Nathan directed his attention to the center of the arena, where a Questor was talking. She was a slight woman with long hair dyed in alternating bands of blonde and black, wearing a tight golden dress that clung to her curves and left skin bare across her chest, thighs, and arms to reveal lithe musculature accentuated by abundant jewelry. She'd started talking just moments ago.
+
+“... am not ashamed of it.” Lyra was saying as she strutted around the podium, heels clicking against crystal and bracelets jangling. “Davrar is not a failure, it is a triumph.”
+
+Her gaze settled on Nathan, sharp and inquisitive. “You say your world cracked atoms, rewrote genomes, built the basics of smart systems. Tell me, did you reach those heights without blood and horror? How many cities did you reduce to ash before you learned restraint? Did you ever learn it? You lecture us on cruelty, but did your people ever do better?” The questions were rhetorical, but the tone was gentle, like a teacher guiding a student towards a correct answer.
+
+She turned away from Nathan. “He instructs us to consider mortality, to consider death, without knowing the history of the Expansion. But one thing is certain about the mortals he asks us to consider. It’s in the name.” The audience chuckled lightly, and Lyra flipped her hair back during the pause. “Mortals die. Of illness, of violence. Of ambition. And if they should survive all of that, they die of nothing but time. Seeking to protect them is a quick road to frustration.”
+
+Her tone didn’t sharpen, but it got steadily colder and more mocking. “We have not even seen the proposal yet, but where will it lead? If we remove the Endings, do we also remove monsters? Dungeons? Davrar will become an arena for wars beyond imagining, with destruction that will make the Kalis conclave look like a youthful tantrum.”
+
+She flicked her hand idly. “But then this conclave regulates war into civility, and the mortals will live in luxury, but for their own inevitable deaths. Eventually, we will be petitioned to remove the ravages of age and make Davrar another utopia, breeding endless new people. We will have simply created an extension of the Distal Expansion.”
+
+Lyra scrunched her nose in distaste. “The other way to solve this issue is to not have any mortals at all. If there are no mortals, then there can be no cruelty towards them, and we Questors are free to do what we want. I think that a preferable solution to creating a world of pampered pets. But when either happens, I’m out. I’ll flee Davrar and seek somewhere else with weight to it, where I can find any kind of permanence to savor.” She clasped her hands together.
+
+She pointed to Nathan and the other Heirs, her tone warming. “The mortals die, but they truly live first, in ways beyond what we can experience. They burn brightly, and love fiercely. They build to leave something behind. Do I envy them? A fraction, though not enough to become one. But their lives are worth living, and they exist at all because we can warm ourselves against that flame.”
+
+Nathan hated the whole condescending speech. He turned to Aarl. “You could tell her that our lives have purpose beyond her enjoyment."
+
+“Or that removing the Endings is a long way from a utopia,” Sarah said dryly.
+
+Lyra was still talking, seeming to address Nathan directly. “You imagine never-ending progress, a world where things must always improve. But sometimes, where we are is enough. Do not seek technological ascendency. There is enough of that in this universe. Enjoy a state where there are still victories to strive for, where knowledge carries power, and life can have meaning. That requires that you accept the End, but it is not such a harsh fate.”
+
+She looked back up, flipping her hair again as she directed her words towards the Questors. “Davrar is a place of dualities. We Questors may find something that has been lost from the outside universe, while the mortals live lives fully worth living. There is no responsibility owed to them, for without Davrar, they would not exist at all.”
+
+Lyra stepped back and bowed her head, looking towards the floor to indicate that she was done talking. Stella clapped Aarl on the back. “Go kill her.”
+
+He vanished, appearing on the arena floor opposite the attractive woman and drawing his first set of weapons, Brox’s black sword and a sturdy enchanted shield. Lyra braced herself into an elegant pose, one arm curled over her head as if preparing for a dance. She recognized her opponent and smiled brilliantly. Nathan worried that meant Aarl was her preferred opponent.
+
+The duel started, and her dress transformed, elongating and growing scales that looked like metallic feathers. It was still unmistakably a dress, swirling around her in mesmerising patterns while also providing good protection. Her bracelets transformed into a pair of hooked swords, and she jetted across the battlefield on her heels. The first blows were a chaotic cyclone of metal, with Lyra’s elegant pirouette splitting into multiple illusions that each spun in on a separate path to strike at Aarl with mesmerizing grace.
+
+He defended with shield and sword, keeping his feet in close and blocking every single flashing blade with minimal movement. She probed for openings with dozens of blows from all directions, but Aarl defended expertly. After a few seconds, she resolved into a single figure and flipped away, then started skating in a wide circle around him.
+
+“She’s a bit of a diva, isn’t she?” Nathan asked.
+
+“A dangerous one,” Brox commented from the next row back. “She is beyond my blade.”
+
+That comment sobered Nathan. Aarl was good, and he’d killed some very powerful Questors in the past. But none of those had been fair fights, since Nathan’s antimagic stripped enemies of their artifacts while leaving Aarl fully armed. Aarl was at a point where he could reliably hold his own against Brox, but if Brox couldn’t beat Lyra, that didn't bode well. Nathan deployed his aura towards the arena, sharpening a spike of antimagic to pierce through the crystal shell. He hadn’t let Khachi die to the Questors, so there was no reason to leave Aarl out to dry.
+
+Khachi turned his head towards Nathan and glared harshly. He kept his words low, but they were still intense. “In partaking in the duels, we agreed to their terms. Any dishonorable conduct will invalidate our honor, and my blessing with it.” He held Nathan’s gaze for a second to be sure the message got across.
+
+Nathan blinked and held off on sticking his antimagic into the arena. He hadn’t considered that Khachi’s magic would be the arbiter that would keep him from cheating. But if he understood the wolfman right, he wasn’t telling Nathan not to cheat. He was telling Nathan to wait on the cheating until the divine blessing was used up. Besides, Lyra’s magical items suddenly failing her in front of the entire audience would be rather suspicious.
+
+Still, he didn’t like how the fight was going. Lyra was probing Aarl further, her weapons transforming between one blink and the next. She struck Aarl’s shield with a hammer, then wrapped a whip around it to yank the enchanted protection from his hands so that a thrown dagger could slip through his guard. The glittering blade phased through Aarl’s magical protections and parted his armor like it wasn’t even there. It slammed home in his shoulder and threw him backwards like he’d been hit by a charging bull.
+
+Lyra didn’t press the attack, striking a pose as Aarl picked himself up. He drew out the dagger and dropped it to the ground before chugging a healing potion, eyes following Lyra’s every movement. She crossed her arms and tapped an impatient finger, waiting for him to be ready for the next round.
+
+Aarl rolled his shoulders around, then stowed the black sword. “You fight with elegance.”
+
+She dipped her head towards him. “You could as well. But you choose not to.”
+
+“Not every fight calls for it,” he replied, before drawing forth the shape-changing club he'd won in Litcliff. He swung it, and the weapon grew to absurd size, launching him forward in an unbalanced arc. The weapon came down towards Lyra like a meteor, but she was already sliding around it with blades reaching out. She met a mirrored greatsword even as the club vanished back into Aarl’s storage.
+
+What followed was a ferocious exchange. Aarl stayed close to Lyra and stayed on the attack to prevent her from breaking contact. Her trick of attacking from multiple directions was still working, but without distance, her angles of attack were limited. He was switching weapons every few seconds, greatsword to hammer to twin sabers to stabbing trident. But she was dancing around the blades, spinning and flipping through the hail of strikes and guiding the rest aside with light touches from her own weapons, which changed shapes nearly as often. It was a mismatch of styles, every blow from Aarl a lethal attack that Lyra turned aside with grace and vigor.
+
+“You need to match her,” Ushia said softly, watching the exchange with sad eyes.
+
+Brox snorted. “That’s the burn. Nobody can match her.”
+
+Nathan had to admit that his eyes were glued to Lyra, and it wasn’t just him following the battle. He didn’t understand everything she was doing, but it was such an obvious display of gorgeous mastery that he couldn’t look away. It wasn’t even a mental skill, since Davrar prevented those from acting on the audience.
+
+The battle shifted slowly as the Questor reclaimed the initiative. It started subtly, with more aggressive deflections that left Aarl slightly off-balance and let her close the distance. He parlayed those moves into more vicious attacks, swapping to lighter weapons to deny her any advantage from the shorter range. She closed anyways and the strikes got vicious, a close-range flurry of short blades that were blocked with armored forearms as often as with weapons.
+
+Aarl’s face was hidden behind his full-coverage helmet, but Lyra wore an expression of serene bliss, exultant at the exchange. She didn’t move any faster than Aarl, but her every move seemed choreographed as she threaded through the exchange of blades without taking a single cut. She knocked Aarl’s blades aside, and her other hand came up holding a rapier. She drove it through Aarl’s upper chest, and then followed up when he staggered back. He swept a saber of force towards her neck, but she ducked the attack, losing a chunk of hair in the process. Then she stabbed him again, and again, knocking away the healing potion and shattering the backup healing artifact he wore around his ankle.
+
+Then she rose into the air above his bleeding body, arms spread wide to accept the crowd’s adulation.
+
+Nathan winced and looked towards Khachi expectantly. The wolfman met his gaze calmly and redirected his gaze towards the arena. Nathan had no choice but to do the same. Lyra’s armor transformed back into an elegant dress, and her weapons back into jewelry. She gave an elegant spin and turned to bow towards the Heirs. The gesture made Nathan’s teeth grind together, and Stella swore viciously.
+
+Then golden light swelled from Aarl’s fallen body, and the Heirs all released a tense breath. The shade of magic was unquestionably Khachi's, and Aarl rose back into the air like the rapture was upon him. His helm peeled back to reveal eyes filled with divine fire, and he spoke with a reverberating voice. “You claim applause blasphemously early.” Then he attacked, his body empowered by divine light. He drew forth Brox’s black-bladed sword again, and it left behind trails of golden fire.
+
+The entire audience was shouting and yelling in excitement or denial as the fight resumed. Aarl moved like a man possessed, matching Lyra’s earlier grace as she stumbled into a combat stance, her armor only half-deployed and her two weapons struggling to match Aarl’s one. He kept one hand free, wielding the black blade like a fencing saber in rapid thrusts and twists. Lyra smacked it aside, and Aarl tossed the blade to his other hand, switching sides and pressing the attack without a pause.
+
+The moment Lyra regained her balance, she went on the attack again with a predatory smile on her face. Aarl responded by bringing his other hand around, wielding nothing but a golden shimmer of fire. Nathan could see the outline of the invisible axe, but Lyra almost didn’t and had to throw herself awkwardly backwards to dodge it. Then Aarl threw the necromantic weapon, and Lyra almost fell again dodging it. He followed up by throwing Brox’s black blade, which she caught on both of her weapons and deflected to the side. She ended up half-spun around, out of position.
+
+Aarl didn’t stop moving, pirouetting with both hands rising up in preparation. He came around with the disintegration-edged greatsword in a picture-perfect slash that cut through the Questor diagonally. She gasped at the blow and reached for him, but fell apart into two pieces. Aarl stepped forward to finish the job, the shape-changing club emerging to pulp Lyra and render any last-minute healing irrelevant.
+
+Then he looked up at the crowd, chest heaving and blood still dripping from the rents in his armor. The golden light bled away to reveal an angry snarl. Aarl spat blood and spoke commandingly. “Now celebrate my victory instead of my death.”
+
+Permanent Talent 1: Magical Destruction 10
+
+Permanent Talent 2: Distributed Immortality 2
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1337
+
+Bottomless Stamina: 115181/134700
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 951
+
+Limitless Focus: 5302/9610
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 3
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 7
+
+Forewarning 10
+
+The Truth of Magic 8
+
+Evasion 5
+
+Wizard’s Palace 7
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

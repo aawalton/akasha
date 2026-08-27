@@ -1,0 +1,217 @@
+---
+id: ae573ea1-f135-56ef-8f66-88388fbf3177
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: A long-distance chase"
+slug: 0041-chapter-26-a-long-distance-chase
+partOf: ends-of-magic
+position: 41
+ownLength: 2652
+unit: words
+ownProgress: 2652
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2716612/chapter-26-a-long-distance-chase"
+royalRoadId: "2716612"
+markedReadAt: "2026-06-29T20:08:35.126Z"
+---
+
+The most important part of Nathan’s build was his antimagic. He’d only done one or two things with his physical body during the big fight against the Questors. Most of his contribution had been the way his aura controlled the battlefield. He’d succeeded in denying them most of their magical arsenal, and that had probably won them the battle.
+
+But he could have done more. Nathan had the skills to keep up with the Questors in melee combat, but he’d simply been too focused on countering their magical effects to get much done. Going in for close combat with Amoh had been the tipping point of the battle, giving Aarl the chance to kill the Questor and swinging the advantage distinctly towards the Heirs. But it had taken Nathan too long to go on the offensive like that, time in which there’d been several close calls while the Questors tried to work around his aura.
+
+There were two primary reasons he’d delayed. The first was that he’d needed to keep track of everything that was happening to take full advantage of his antimagic. With eight combatants, it was impressive he’d achieved it at all, but he needed to do better. The second problem was that he’d been too slow to keep up with Amoh’s shadowdashing and Ogarius’ dream-based teleportation until they’d managed to mousetrap Amoh.
+
+Once he’d identified those two areas, Nathan got to work training them up. He joined Khachi in meditation, practicing tracking every single thing within range of his senses. Every swing of Aarl’s weapons, every twitch of Stella’s wizardry, Eolinne’s minute adjustments to sail and weather, the occasional flicker of magical creatures far below, Nathan tracked it all. He held it all in his head through his magical senses, then opened his eyes and observed all of the details again. He burned Focus to absorb everything, then stopped and tried to hold on to the full glut of information.
+
+He was trying to be fully aware of everything at once. All of the data was still there, but Nathan couldn’t process it all. But over time, and with practice, it became easier.
+
+With that skill rank under his belt, Nathan focused on the other parts of his sensory suite. His ability to understand magic had improved recently, but his magical sensory skills had fallen behind. Luckily, he had a whole suite of new magical examples to help train with. He had Aarl pull items out of his dimensional bag briefly and then put them back quickly, practicing identifying them in the split second they were exposed.
+
+Over time, he got better at identifying which item Aarl had pulled out and started trying to figure out what the enchantments did. It took daily practice for weeks, but eventually Nathan was rewarded for his effort with a pair of skill ranks.
+
+He also tried for another level of Mental Vault, but was unsuccessful. The skill provided a general improvement to his mental efforts, but it wasn’t focused on that anymore. As the name suggested, it had developed to protect him from mental effects and enhance his memory.
+
+That left his mobility to work on, and Nathan was figuring out practices that would work. He’d drilled airwalking before and didn’t expect the same regimen to provide much effect. But his previous practice had been focused on overall speed and efficiency, and what he needed now was faster acceleration. He already had skills that helped with his movement, including Galefoot, Momentum Mastery, Impulse, Evasion, and Parkour. It was almost too many effects, and Nathan found himself relying on a few skills at a time instead of integrating them all together.
+
+Galefoot synergized well with Airwalk, improving his ability to kick off of solid air. But Impulse gave him the ability to latch onto the aether with his antimagic and vault himself along without moving a muscle. He was bad at using all of the abilities in concert, though sometimes Evasion provided enough of a kick to make it all work. Then Momentum Mastery and Parkour were different ways to control his momentum, and once again, he wasn’t as efficient at using them together as he could have been. The only way to fix that was practice, practice, and more practice. Nathan needed to figure out how to do it while thinking about it, then drill it until it was second nature.
+
+One day, their training was interrupted by Sarah’s call. “We’re being hunted.” She sounded unbothered by the news, though the rest of the Heirs reacted with alarm. They gathered near the captain’s chair to hear Sarah explain. Eolinne had been idling away reading a book, but now she raised an inquisitive eyebrow towards Sarah. “I sense the chorus of two ships within range of my mists, but two ships are not a hunt.”
+
+Sarah responded with a slight shrug and pointed towards the bow of the ship. “There are at least six out there, and they are equal distances apart. My bones say they are searching for us.”
+
+Eolinne’s lips pursed in a delicate frown. “This is the spot for it. Our enemies cannot find us with magic, so they search with a more mundane melody. We cannot strike them down lest we reveal our position.”
+
+“What do you mean, this is the spot for it?” Nathan asked. “You would have thought they’d have tried to catch us closer to Esebus.”
+
+“This is a gap between the Hailian vortex and the nearest landmass. Many of the paths away from Esebus take us here, but to search physically upon the seas is the task of desperation.” She waved away the commentary, focusing back on Sarah. “Please, describe these ships.”
+
+“Another sleek ship like the Grace of the Mists, though of dark brown wood. Two small but fat-bellied caravels. Another galleon castle-ship from Sago. Then two men-of-war from Sangrad.”
+
+Eolinne’s frown deepened. “A chorus of might. Point them out, that I may steer us a path through them.”
+
+Sarah pointed off into the distance, naming the ships as she went. The men-of-war were both off to the side, with the Sago ship nearly directly ahead. Nathan squinted off into the distance. It was a mostly clear day, and he felt like he could see forever. But he couldn’t see the faintest trace of the ships that Sarah was pointing at.
+
+“How do you know what to call the ships?” Stella asked.
+
+“I borrowed a naval encyclopedia from the ship library,” Sarah answered shortly, pulling out a book from a pouch and waving it around. “To identify the other ships I’ve seen.”
+
+“Hear me, can you just shoot them?” Aarl asked. “Without giving away our position?”
+
+Eolinne made a dismissive gesture. “I will attempt to match the note before us. If I should fail, we can move to violence.”
+
+The Heirs waited with bated breath as the Grace of the Mists cut through the water at high speed. Sarah gave Eolinne occasional updates, though their captain had her own senses. Nathan and the other Heirs drifted back to their own training as it became evident that this was the kind of chase that would unfold over hours or days, not minutes.
+
+Eolinne summoned a low bank of fog around them to give them a bit more cover, but it meant Nathan felt even more in the dark. He stayed close to the aftercastle to listen in on the ongoing conversation between Sarah and Eolinne. Eventually, their captain cursed. “The Sago ship will have a shipseer, whose skills may penetrate mine. We need another note to complete this tune.”
+
+“I can hit them from here. A few explosive bullets would put the sun in their eyes,” Sarah said.
+
+Eolinne shook her head sharply. “And notify them of our location. The other ships would divert.”
+
+Sarah shrugged expressively. “Then I can shoot one of the Sangrad ships. They’re farther. Or the new Quilbor vessel.”
+
+Their captain thought about it for just a moment before replying. “The Sangrad vessels have a fearsome reputation. A successful attack on one of them would spook our enemies. Strike if you believe you can hide our origin.”
+
+After a moment of thought, Sarah unlimbered her rifle. She lay down on the decking, her rifle poked out through the railing. She pulled a few rounds from her pouches. Nathan could tell they were a mix of enchanted penetrator and explosive rounds. He watched, barely daring to breathe on the chance it would throw off his friend’s aim.
+
+Her class name really wasn’t kidding. Edge of the Horizon on a world with an upcurving horizon. What’s the distance on this shot - a hundred miles? Two? I don’t even know.
+
+Finally, Sarah fired. She worked the bolt smoothly, slipping the next cartridge into place and reacquiring the target before firing again. She sent a total of eight rounds downrange in twice as many seconds, then stopped and watched.
+
+After another minute, she stood with a slight smile on her face. “Captain dead, mage dead, one mast broken, two fires started. They’re not sinking, but they’re staring the ghoul in the eye.”
+
+Eolinne snorted indelicately, then covered her mouth as if to hide the sound. “That’s a chime of cracked bells. You alone could destroy all ships on this sea.”
+
+“But it would be a bad idea,” Nathan replied. “If they find out where we are, then we’ll be dealing with a full grid of Questors, and I doubt they’ll withhold the big guns this time. We won’t be fighting in the middle of one of their cities.”
+
+Aarl spoke up in disagreement. “But they won’t wish to lose their treasure to the depthless ocean.”
+
+“Still not a reason to draw their attention,” Nathan shot back. He turned to Eolinne. “Are they distracted?”
+
+She squinted off into the distance, and Nathan could vaguely feel tendrils of magic stretching out into the distance, using the water vapor in the air as a conduit. “Indeed. The shipseer is searching nearer to the ship that was attacked. We have caused a pause in their rhythm, and must exploit it.” She put her flute back to her mouth and blew a strong note. The wind responded, and the Grace of the Mists sped through the water.
+
+Nathan was sure the whole thing was riveting for the two people who had any idea what was going on, but to him and the rest of the Heirs it looked like they were sailing through a fogbank. Neat, certainly, but not very tense. Eolinne was locked in on her task, but Sarah seemed unworried. Nathan stayed alert. He didn’t want his first sign that something had gone wrong to be a wizard-conjured tsunami coming out of the fog.
+
+Hours passed, and nothing happened. Nathan turned it into yet another exercise, trying to maintain the same level of readiness for hours on end. Eventually, Eolinne called the all-clear. “We have left them to search for our wakes, but our actions must carry a note of caution for the rest of the trip.”
+
+The voyage continued much as it had before the spot of excitement, though they kept a close eye out for any further ships that could be hunting them. The oceans of Davrar were vast, and between Eolinne's ability to conjure banks of fog and Sarah’s incredible sight, they were easily able to evade any other ships that could have been hunting them.
+
+Nathan continued his practice. He’d made reasonable progress on his mental skills, so it was time to focus on mobility. He wanted to be able to keep up with people rapidly teleporting around, since that seemed to be a staple of higher-level combat. There wasn’t any way for him to learn to do that himself, so the only solution was to be able to make big movements in new directions without any setup. He had Stella conjure a ball of light and whip it through the air as he tried to catch it.
+
+It made him feel like a cat chasing a laser pointer, but it was invaluable practice. She kept trying to move the target erratically or into his blindspot to make him lose track of it. There was no chance of that with his magical senses, but it gave Nathan an excellent target to chase. He focused on using all of his skills in synergy, exercising every piece of kit to zip through the air. It was a matter of practice, and exposed a bit of a contradiction in Nathan’s skills. Several of them - like Galefoot and Parkour - were built around physical movements like pushing off the air, while others - like Impulse and Momentum Mastery - allowed Nathan to break the laws of physics and generate force from nothing.
+
+The restrictions on the various skills were frustrating. He could feel his Parkour skill helping him change direction when he kicked off the air, but not when he used Impulse to make the same movement. It was a strong effect, and part of the reason he didn’t use Impulse as much was that it wasn’t as heavily boosted as Airwalking was. He probed at that uncertainty like a loose tooth, feeling out the restrictions on Parkour that prevented it from applying more generally.
+
+Aarl offered some Insights he’d picked up from Brox, but Nathan waved him off. He’d prefer to save those for a more significant Development.
+
+Eventually, he got it, through stubbornness and more than a little bit of deep thought. The key Insight was understanding that Parkour particularly liked unconventional movements. It was especially effective for movements that were only possible when airborne, like spinning around in a flip and adjusting his trajectory in midair. With that in mind, he started using Impulse specifically to aid those kinds of strange acrobatics. He spun like an out-of-control whirligig, pushing off the air to spin in a constant whirling cartwheel. Parkour started to apply to every part of the new motion, and Nathan stopped kicking, maintaining the motion with Impulse alone.
+
+Congratulations, you have developed the Parkour skill into Whiplash!
+
+Utility skill: Whiplash
+
+You can easily change the direction of your movement.
+
+The new skill acted like a passive buff, making it easier for Nathan to change directions at the drop of a hat. It felt like he’d activated some kind of cheat button that freed him from the restrictions of inertia. It was easier than ever to integrate all of his movement abilities together, and he focused on moving as far as possible as fast as possible. He was basically running suicides, sprinting from the front of the ship to the back of it as fast as possible. His goal was to be able to cover the distance in the time it took somebody to reorient after a teleport.
+
+That wasn’t a very realistic goal, but in chasing it, Nathan pushed himself hard enough to earn the reward he was looking for.
+
+Finally, that Talent is damned hard to rank up. Only one more rank before I can start looking for bigger Insights for it.
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 9
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 5
+
+Inspiration 8
+
+Impulse 6
+
+Mystical Discernment 8
+
+Forewarning 6
+
+Arcane Insight 10
+
+Evasion 3
+
+Mental Vault 8
+
+Veracity 3
+
+Whiplash 1
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 8

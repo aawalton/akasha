@@ -1,0 +1,355 @@
+---
+id: 28b98e20-0fd1-51e0-ae86-fec9bead934f
+page-type-slug: story-chapter-royal-road
+title: "29 - Five People Five Chests"
+slug: 0029-29-five-people-five-chests
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 29
+ownLength: 2270
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3462759/29-five-people-five-chests"
+royalRoadId: "3462759"
+---
+
+We floated just before the inverted city, trying to figure out how to enter it.
+
+“From what I’ve heard, the gravity will flip once we get close enough,” Talon said.
+
+“Flipped?” I said. “So you’re saying we’ll just fall down—er, I mean, fall upward?”
+
+Kaelor nodded. “Which means that for a moment, the griffins will be the ones riding you. And as for Tuna…”
+
+She meowed softly.
+
+“Reina, you might be better off getting away from her,” Talon said. “I don’t think you’d want a whale falling on you.”
+
+She gave Tuna a gentle pat before taking a seat on Meriel’s griffin.
+
+“So, should we just fly through?” Meriel asked. “Or does anyone else have any better ideas?”
+
+We shrugged. What else was there to do?
+
+“Don’t worry, I’ll go first,” Kaelor said as he and his griffin floated ahead. “If I die, please tell my family I love them.”
+
+“We don’t even know your family. And also, we’ve still got ten revives,” I said.
+
+“That’s true. Though it’d be a shame to have to go through everything again.”
+
+He and his griffin flew ahead. Instead of riding it, Kaelor used wind magic to carry himself alongside the griffin. When the city was directly above them, gravity inverted, doing exactly what Talon had said.
+
+Kaelor and his griffin briefly lost control as they fell upward into the city. Just before crashing, they regained their senses and resumed flying normally, managing a soft landing onto the ground.
+
+Kaelor turned back to us and waved. It was strangely amusing to see him upside down like that.
+
+“Looks safe to me!” Reina said, tapping the side of Meriel’s griffin. Her griffin began to fly forward.
+
+I motioned for my griffin to do the same. We held on tight, preparing for what was to come.
+
+As soon as we reached the city, gravity flipped. For a moment, the four of us began to plunge headfirst into the ground. Our griffins performed a roll, bringing us back to the top before landing as smoothly as Kaelor and his griffin.
+
+“Wow, that was awesome!” Reina exclaimed, jumping off and patting her griffin’s head.
+
+It really was impressive. Kaelor wasn’t lying—these griffins were probably among the best-trained in existence. Not that I had seen any others in this world yet, but still, I wouldn’t have doubted him.
+
+As soon as we gathered ourselves, several bright lights appeared in front of us, forcing us to shield our eyes. When the light dimmed, five treasure chests stood before us, alongside a few floating lanterns. Each of the chests was about the same shape and size, though their colors varied.
+
+[TROPE COMPLETED: THE CONVENIENTLY PLACED TREASURE CHESTS]
+
+Description: What better reward is there after surviving a dangerous dungeon encounter than a chest?
+
+[REWARD: None]
+
+Note: Don’t be greedy. The chest IS the reward.
+
+You know what? The System had a point. I couldn’t even be upset at that.
+
+“This one’s mine!” Reina ran over to the red-tinted one, hugging it.
+
+“That’s the worst one,” Meriel said.
+
+“Huh? How do you know that?”
+
+“Because I’m a mage. I can see what’s inside it.”
+
+Hearing that, Reina backed off.
+
+“I’m just kidding,” Meriel said.
+
+The rest of us didn’t care nearly as much and just went to whichever one was closest.
+
+“Hold on, let’s go one by one,” I said. “It’s like opening our Christmas presents.”
+
+They gave me a look, having no idea what that meant.
+
+“C’mon, it’s just for fun,” I continued. “Let’s go from left to right.”
+
+Which meant Kaelor was up first.
+
+He shrugged and opened his chest. It wasn’t the kind that emitted an awesome ray of light from inside, but with how slowly he was opening it, it seemed just as dramatic.
+
+“Please go faster,” I said.
+
+After fully opening the lid, he reached in and pulled out a dagger. It was a dark gray color, and—eh, I don’t feel like describing it. I’ll just [INSPECT] it.
+
+[ITEM: FAULTSPLITTER]
+
+Rarity: Epic
+
+Description:
+
+A dark gray dagger forged from an unknown metal, with thin glowing lines running across the blade. Despite its rough appearance, its edge is incredibly sharp, able to cut through stone as if it were soft clay.
+
+Effects:
+
+- Increased damage against stone enemies
+
+- Attacks can expose structural weak points
+
+“Its name is Faultsplitter,” Meriel said. “It's a dagger that works well against stone enemies. It’ll be nice to have a weapon that covers its own weakness.”
+
+I looked at her, momentarily surprised, before remembering that mages in this world can cast the Analyze spell. It was so strange that Analyze and [INSPECT] were so similar. But then again, many of the System skills I had resembled some of the magic from this world. Even something like [HOVER] was really just wind magic. Fortunately, that does make it easier for me to blend in.
+
+Kaelor pulled out his own dagger, compared the two, and threw the old one away.
+
+“Why hello, darling,” he said to his new weapon.
+
+Why did a noble like him have such a shabby dagger, anyway?
+
+“Uh…” I muttered. “Okay, you’re next, Talon.”
+
+He nodded and flipped the chest open with an excited grin on his face. He reached in and held the item up.
+
+[ITEM: FEATHERSTEP ANKLET]
+
+Rarity: Rare
+
+Description:
+
+A lightweight silver anklet decorated with tiny sky-blue feathers. It feels almost weightless when worn, and faint currents of wind constantly swirl around it. It can be worn by both mounts and non-mounts.
+
+Effects:
+
+- Improves aerial maneuverability
+
+- Reduces fall momentum
+
+- Slightly increases flight speed
+
+Meriel quickly explained the effects to him. It was certainly useful for a party to have at least one mage capable of casting Analyze when taking on a dungeon.
+
+Talon put it on his right claw, taking flight and testing it out. He made all sorts of flips and turns before landing and giving a thumbs up.
+
+“Works as advertised!” he said.
+
+I looked at the chest in front of me, gulping. I was next.
+
+Listen, I’m the protagonist of this story, aren’t I? So what else could I expect other than a legendary sword like Excalibur?
+
+…
+
+Actually, no. With how things have turned out for me ever since entering this world, I absolutely cannot expect anything like that. I bet the chest would explode the moment I try to open it. Or even worse—it’s actually a mimic that’ll chomp my head off the moment I open it.
+
+I readied my staff.
+
+“What are you doing?” Meriel asked.
+
+“Preparing for the worst.”
+
+I kicked the chest open, immediately jumping back. The others looked at me like I was crazy. Somehow, nothing happened. The chest didn’t explode, nor did it have several rows of razor teeth.
+
+How strange.
+
+I walked back to it, peeking inside. There was just a brown pouch. A sad, lonely brown pouch.
+
+“Of course…”
+
+I picked it up with disappointment written all over my face, not even bothering to look at what was inside the pouch.
+
+“Alright, you’re next, Meriel.”
+
+But she just stared at the pouch in my hand, presumably casting Analyze.
+
+“That’ll be useful,” she said.
+
+“Useful? How can something like this be useful?”
+
+I looked at it, calling [INSPECT].
+
+[ITEM ACQUIRED: POUCH OF ENDLESS EXPLODING TALISMANS]
+
+Rarity: Epic
+
+Description:
+
+A small brown pouch filled with paper talismans covered in messy red markings. Each talisman explodes upon impact, producing violent bursts of light, sound, smoke, and heat.
+
+Effects:
+
+- Gradually replenishes exploding talismans over time
+
+- Explosions deal damage and disrupt enemies
+
+- Effective against flying creatures
+
+I raised a brow. Endless…? Really?
+
+I opened the pouch, noticing several paper talismans stuffed inside. I pulled one out and tossed it far ahead of us. The paper stiffened as soon as it left my hand, flying exactly where I had aimed it.
+
+BOOM!
+
+A loud explosion erupted, briefly covering the area in gray smoke.
+
+“Whoa,” I muttered.
+
+Maybe this world wasn’t trying to screw me over after all.
+
+“Good for you!” Reina said. “Hey, can I throw one, too?”
+
+Meriel stood between us, putting her hands out. “Let’s not waste any time. The sky’s already gone dark, and we still haven’t figured out where the checkpoint is in this city.”
+
+Noodle emerged from Meriel’s robes as she opened her chest, pulling out a book.
+
+“Wrrr!” he said, flying around it.
+
+[ITEM: AEGIS CODEX]
+
+Rarity: Epic
+
+Description:
+
+A silver-blue grimoire filled with pages of protective and restorative magic. The text rearranges itself constantly depending on the user’s mana and the current spell being cast.
+
+Effects:
+
+- Increases the potency of healing and barrier magic
+
+- Reduces mana consumption for supportive spells
+
+- Automatically records support-type spells witnessed by the user
+
+It could record spells? Did that mean Meriel could just see somebody casting a supportive spell and copy them?
+
+Meriel put away her staff and opened the grimoire, flipping through its pages.
+
+“Is anyone hurt?” she asked, looking around.
+
+“I am!” Reina exclaimed, sounding awfully excited about it.
+
+Meriel turned to her and cast some kind of bright green magic. Reina looked around her own body, smiling.
+
+“Feel better?” Meriel asked.
+
+“Yes… I think?”
+
+“Where were you even hurt anyway?”
+
+“My entire body was sore.”
+
+Meriel gave her a blank stare.
+
+“When I asked if you were hurt, I was talking about injuries,” Meriel said. “Not because you were sore.”
+
+Reina scratched the back of her head. “Oops. But hey, I think your spell did help.”
+
+I looked at Noodle, opening my palm and motioning for him to land on it. He did just that.
+
+“Wrrrr!”
+
+“Hey, Meriel?” I began. “Should I just put him in my [INVENTORY]? I think it’ll be safer for him than just having him cling onto you in your robes.”
+
+“Your inventory?”
+
+I cast it, and a void appeared in the air. She walked up to it, studying it from every angle. I had tried to hide it the last time I showed it to her so she wouldn’t be suspicious of me. Now that we were closer, I thought it’d be okay.
+
+Kaelor and Talon looked at it, surprised. Even Reina seemed surprised, too, which made no sense considering she’d seen it many times before.
+
+“Is that even safe for something to live in?” Kaelor asked.
+
+He walked over to it, suddenly poking his head through the void rift.
+
+I was completely taken aback. “What the—?!”
+
+After a moment, he popped his head back out.
+
+“Looks safe to me.”
+
+“What did you see?” Meriel asked.
+
+Before he could respond, Talon yelled out, “My turn!”
+
+I stopped him before he could get close.
+
+“No more poking your heads in,” I said.
+
+Meriel shrugged. “Whatever. If Kaelor says it’s fine, then I guess it is. Are you okay with that, Noodle?”
+
+He flew away from my palm and twirled in the air. Then, he shot into the rift without any hesitation. Curious, I called my [INVENTORY]’s list view.
+
+[INVENTORY LIST VIEW]
+
+I couldn’t help but laugh at the fact that the System listed him as if he were just a regular item. And who knows? Maybe it’ll be as comfortable for him as an expensive inn.
+
+We returned our gazes to the chests. Reina was the last to go. As soon as she lifted the lid, a yellow glow spilled out.
+
+A yellow, legendary glow.
+
+My eyes widened. “No way...”
+
+She reached in and pulled out a sword. We couldn’t help but stare at it, our jaws dropped to the ground. The griffins stumbled back, and Tuna let out a confused meow.
+
+Reina raised the blade to the sky. The dimension was nearly pitch-black by now since the sun was down, but with that sword in her hand? It was like the sun never left.
+
+[ITEM: DAWN SUNDERER]
+
+Rarity: Legendary
+
+Description:
+
+A radiant golden sword engraved with sun-shaped patterns along its blade. Warm light constantly flows throughout the weapon with the energy of sunlight, illuminating nearby areas with a golden glow. Simply holding it fills the wielder with overwhelming power and determination.
+
+Effects:
+
+- Greatly increases physical strength while wielded
+
+- Is permanently enchanted with holy magic
+
+- Deals massively increased damage against demonic and corrupted enemies
+
+- The blade grows stronger in response to the wielder’s determination
+
+- Emits light capable of dispelling darkness and fear effects
+
+…
+
+Yeah, you see those three dots at the end of the list of effects? That’s because there were more. Much, much more. To summarize it all into one sentence: Reina has a big, glowing, powerful sword.
+
+“This is amazing!” Reina said, moving it around as though it were the weight of a feather. “Here, you can have your spear back, Allene.”
+
+I grabbed it from her and put it in my [INVENTORY], at a complete loss for words.
+
+“I—Wow, I’m jealous,” I said.
+
+Kaelor laughed. “Well, that’s a pleasant surprise!”
+
+Coincidentally enough, everyone got an item that suited them perfectly. Well, I’m not too sure about my exploding talismans, but for the most part, we all got what we could make full use of. Was it just luck?
+
+Nah… probably not. It was definitely a trope.
+
+[TROPE COMPLETED: CONVENIENTLY SPECIALIZED REWARDS]
+
+[REWARD: None]
+
+Note: Again, don’t be greedy. Your loot is the reward.
+
+See?
+
+Before we could celebrate our loot, a loud GRRRRRK suddenly echoed from above. We looked up, gasping at the sight before us.
+
+I had literally predicted it back when we were fighting against that horde of mobs, too.
+
+[TROPE INITIATED: THE GIANT ROLLING BOULDER]
+
+Completion criteria: Escape from the boulder.
+
+Note: Somewhere out there, an archaeologist just felt very nervous.

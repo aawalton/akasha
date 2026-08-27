@@ -1,0 +1,123 @@
+---
+id: 7966fbba-c37a-595f-8621-6eb4809fe2aa
+page-type-slug: story-chapter-royal-road
+title: "Ch57 Betrayed"
+slug: 0057-ch57-betrayed
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 57
+ownLength: 1572
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3420160/ch57-betrayed"
+royalRoadId: "3420160"
+---
+
+I let go of a black iron arrow. It flies between the crowd of clueless stewards, far out of my range of spiritual senses, and toward a blurry sensation of the resonance with my demonic technique.
+
+The only ones fast enough to react to my actions are Yun Renshu and Bao Zhan at the front and back of our group.
+
+Their first reactions turn straight toward me, preparing to go on the offensive, but when the loud scream of a Blood Sword Sect Cultivator getting shot in the chest sounds out, their attention quickly shifts to the real danger.
+
+“Ambush! It’s Illusory Demons! Prepare to fight!” Bao Zhan yells, running faster than I can fully see.
+
+There is only a dark black blur, and he’s in between our group of stewards and the demon I just shot.
+
+At first only a few blurs reach my outer senses, but as they get closer and release their disguises, I feel the presence of over two dozen illusory demons. They’re approaching from almost all sides.
+
+Without hesitating, I begin shooting off arrows in every direction I’m certain I can get a clear shot.
+
+The first five arrows hit blind targets, but soon the black and red robed sword wielders all jump out close enough to see with my own eyes.
+
+Almost all of the stewards around me are frozen in fear, but Yun Renshu doesn’t flinch. He pulls out two shiny silver short swords. He runs forward to collide with a small group of charging illusory demons. Instantly, their long black blades are countered, shattered, and they’re killed on the spot with sliced necks.
+
+Over twenty initial stage qi refining illusory demons get close enough to be inside my spiritual senses and trigger system scans. However, Bao Zhan leaves my senses, running deeper into the forest in the direction my first arrow was shot.
+
+Strange qi fluctuations come from that direction of the forest, but I do not have the mental capacity to focus on anything that is not right in front of me.
+
+I watch a long sword swinging straight toward the backs of Old Liu and Old Chu frozen in shock. I shift my stance and let another arrow fly, piercing a hole straight through the level 3 qi refining demon’s forehead.
+
+The next moment, I turn and let two more consecutive arrows fly, saving other stewards frozen in fear.
+
+As bodies drop, some stewards stay frozen, unable to act, but others gain their resolve.
+
+The two 3rd level qi refining old men I shared drinks with look down at the dead Blood Sword Sect Demon in awe, then back toward me with wide eyes. They nod at each other, tightening their grasp on their inferior grade weapons, then run forward to confront another Blood Sword Sect demon alone.
+
+The clash of black iron against steel invigorates other stewards to step up and fight too.
+
+I do not move from my central position, only scanning the battlefield and shooting Blood Sword Sect cultivators in the head or chest every time I see stewards in danger. I’m not physically fast enough to watch out for 15 other stewards simultaneously, but for those that yell out or make an effort to fight back and give me openings, I can save almost everyone.
+
+The dual-wielding vice captain is extremely fast and skilled. He’s able to step into closer range battles where I can’t get a clear shot, killing half a dozen illusory demons in seconds.
+
+Even still, there are some lost causes of stewards that cannot overcome their instincts and stay frozen in fear. I watch as three helpless old men are slashed down for making themselves too easy of a target deeper into the battle. I can only hold off the charging Blood Sword Sect cultivators for so long.
+
+In less than thirty seconds, the battlefield is covered in dead black-robed swordsmen, and the majority of stewards who still stand are covered in blood that is not their own.
+
+The forest almost falls completely silent.
+
+The only sound left is that of a demonic half-human roar echoing through the woods. From the same direction, a ripple of blood aura and killing intent hits us from the way Bao Zhan ran.
+
+Trees collapse over 50 meters away, but a large boulder in the forest blocks our view of what is happening. I’m very familiar with this crimson aura, as I fought an old man using a blood demon transformation physique back in the Ravine.
+
+The one I’m feeling now is not as insidious and strong, but it's certainly much more powerful than this group of weak initial stage cultivators we just fought. As I turn its way, another sharp pressure fills the woods; it is dark and heavy, like nothing I’ve ever felt before.
+
+“That’s the Captain's Acquired Physique… If he had to activate it already he must have run into a late stage blood demon. If we approach now we’ll only be getting in the way.” Yun Renshu murmurs just loud enough for us to hear.
+
+He stares off into the woods, but does not give any orders.
+
+The explosions of black and red aura collide back and forth for less than ten seconds, but the shaking ground and sounds of metal and flesh colliding make it last far longer in my mind.
+
+When it stops, and the forest returns to true silence, not a single steward dares to let out a breath.
+
+The dark-skinned squad leader slowly returns from the way he came, now carrying a mangled corpse still flickering with red demonic aura. His eyes show no joy or excitement; he only scans the battlefield in front of him.
+
+“An ambush with only three casualties? Good… We weren’t wiped out before even completing our first task.”
+
+His eyes hover over all of the corpses with arrows sticking out of them, then back to me.
+
+“Looks like you’re the reason why, Li Hao wasn’t it? The Martial Warrior.”
+
+At his words, all of the stewards turn my way with wide eyes. One after another, they bow in gratitude and spew words of praise, many of them saying my name for the first time.
+
+Old Liu and Old Chu are the most in shock. “Junior, in our moment of distraction, you saved our lives.” “No. Not Junior… To think you already reached level 2 at this age, and have gained the Martial Warrior Physique. We must call you Senior Li. Your talent is beyond what we could see.”
+
+Many of the other stewards echo this remark. Having a crowd of old men call me senior is quite strange, but I don’t experience it for long. Bao Zhan interrupts.
+
+“This is a good lesson. Freeze up and you die. Fight back and you’ll have a chance at making it out alive.”
+
+He turns, and the mangled corpse over his shoulder disappears into a storage ring.
+
+“Also, be sure to collect as many corpses as you can. The Sect will definitely reward you once we get the chance to turn them in.”
+
+Many stewards don’t move, others offer me their kills, but I politely decline, only collecting the corpses with my low-quality black iron arrows stuck in them.
+
+Bao Zhan pulls out a small white crystal from his ring, and it floats up above his head while he walks over one of the dirt mounds where the mid stage qi refiner that betrayed the sect rests.
+
+I hold myself back from saying anything, but still grasp my bow and arrows tightly while watching.
+
+“You’re the one that cleared this check-in site with the sect, is that right?” he yells once he sees his fellow cultivator.
+
+“Y-Yes. I- Did-”
+
+“And you did not care to help your fellow sect members out when we were under a surprise ambush?”
+
+The group of stewards is led closer while his yells are heard, and my spiritual senses push much further past the single mound I scanned before.
+
+There are corpses of stewards, outer sect members, and signs of a horrific battle inside this base. It’s clear that the winners were not those of the Azure Cloud Sect.
+
+The last survivor stammers and does not give Bao Zhan any coherent response.
+
+“Did you betray the Azure Cloud Sect? Leading us into a death trap to save yourself?”
+
+He stutters and coughs as a heavy killing intent pours out of our squad leader. He picks up the cowardly traitor.
+
+“Tell me now, or this will only get worse!”
+
+With just one hand, the man’s shoulder is crushed, and he screams out in agony.
+
+“I did- I did! I betrayed the sect because-”
+
+Bao Zhan does not even give him the chance to finish his sentence, moving his hand to the man’s neck and snapping it on the spot. My eyes widen as I watch the cunning and ruthless team captain come to the same conclusion as my system did in mere seconds.
+
+With a thud, the traitor’s body falls to the ground, and the small white crystal above Bao Zhan’s head blinks and turns off. He then stows it away and pulls out a communication talisman.
+
+“Squad 414 has arrived at the designated first checkpoint. Only three initial stage casualties. The receptionist squad for our base has been wiped. Their squad captain has betrayed the sect, a recording crystal can be provided as proof. I’m requesting our material drop-off and next checkpoint coordinates.”

@@ -1,0 +1,89 @@
+---
+id: f42b09b2-3ddd-5b9d-929b-feae999dda68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 Putting the pieces together"
+slug: 0004-chapter-4-putting-the-pieces-together
+partOf: ends-of-magic
+position: 4
+ownLength: 1895
+unit: words
+ownProgress: 1895
+publishedAt: 2022-08-18
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/973952/chapter-4-putting-the-pieces-together"
+royalRoadId: "973952"
+markedReadAt: "2026-06-29T20:07:23.781Z"
+---
+
+Nathan woke up in an unfamiliar bed, his back itchy against the lumpy mattress. He shifted, and the heavy blanket twisted with him. Much heavier than his blanket. What was going on? He opened his eyes and looked around the room, waking up slowly. He had a bit of a headache and it felt like he’d had a particularly intense dream that he couldn’t quite grasp. The last thing he remembered was dropping his backpack on his carpet in his apartment.
+
+And what was up with this room? Seamless stone on all six faces, it looked like it had been carved out of raw rock and then smoothed to a soft gleam. All of the corners were slightly rounded. There was a light in the middle of the ceiling, and it looked like a… glowing rock. A table with two chairs sat in the center of the room, and it looked like there was a bowl of fruit on the table. On the other side of the room was a water trough underneath a… toilet seat? Gross. And a bad idea.
+
+Nathan got up and looked around the room. Nothing was manufactured, it all looked made by hand. This seemed like way too much effort for a prank, and who would put in this much effort to prank him? Unless he was on a weird reality TV show. But those required waivers and things unless they wanted to get sued out of existence. He recognized none of the fruit. Where was he? Something drifted up from his barely-remembered dream, a feeling of certainty.
+
+A different world.
+
+That must have been some dream he’d had. It was still bouncing around in his head, but nothing about it was clear, just an overwhelming sense of fear. But here he was, somewhere he couldn’t explain. Maybe he should give the dream more credit. Nathan realized he was parched, and looked in vain for another source of water than the toilet. But there was nothing other than a handy cup near the toilet trough. Dammit.
+
+He scooped up a cup of water and sat on the toilet seat to drink it, studying the wall from close-up. It was nice rock, well-polished, with a moderate grain to it. The sort of rock people paid a lot for in houses. The water was clean, and about as cold as you’d get from a tap. Right there, the rock was scratched, with a two-ring chemical structure Nathan recognized. Caffeine? What the hell? And a single tick mark next to it. For some reason that drawing filled him with anxiety, causing a yawning pit to open up in his gut. Nathan stared at the symbol of wakefulness and was afraid of what it meant.
+
+Wake up
+
+Nathan staggered back to the bed, sitting on the soft surface and breathing quickly, pinching himself. It felt like his chest was being crushed, like it was impossible to take a breath. He put his head in his hands, a foggy brain and tight chest threatening to make him pass out.
+
+No. Sit up straight, deep breaths. This is why you learned to meditate. You don’t have the app, but you can still clear your mind. Start by focusing on the breath. In through the nose, down the throat, into the lungs. Feel your lungs expand all the way out, the ribcage opening up. Then breathe out. Slowly. Again. Now focus on your body. It’s a cloud of sensations and your consciousness fills all of it. You're not asleep because you can feel your body so clearly.
+
+Minutes passed, and as Nathan’s mind emptied, his breath came deep and even. After a time, he broadened his thoughts beyond physical sensations.
+
+What now? I have clues. I’m somewhere weird, with all sorts of inexplicable things. A glowing rock, handmade furniture, weird fruit. And a weird toilet. I have a fragment of a dream in my head about being in a different world. And there’s a chemical structure I know well carved into the rock in my cell. That is the sort of message I would leave myself. Did I forget something? Was I made to forget something?
+
+Everything pointed back to the dream. He needed to try to remember what it was about before his sense of it faded entirely. Nathan shifted his entire focus to the hazy memory in the back of his head and he tried to call it up, to relive the dream. But it was slippery, passing through his fingers of concentration like a wispy cloud. No, like there was a wisp of something blocking him from it. He captured the sensation in his mind’s eye, it was like an angled piece of glass bouncing light to the side. Nathan pictured dispersing it like he did unwanted thoughts. There was a distinctly physical sensation like a skintight net around his head falling apart, and he remembered.
+
+Everything that had happened yesterday. Exposure to vacuum, Taeol’s summoning room, the messages from Davrar(!), the subsequent conversation with Taeol, and the mind wipe.
+
+Taeol is a rampaging asshole.
+
+He opened his eyes and saw three blue boxes waiting for him.
+
+Good. Ranking up that skill was almost certainly his path to survival and freedom.
+
+Pending utility skill: Low-tier Focused Mind
+
+You have used mental exercises to avoid panic and focus on what was necessary. This skill will help you attain a focused and undistracted state more easily when you need it. Requires you to be seated, unmoving and with eyes closed to use
+
+As far as Nathan could tell, that was only beneficial. And there didn’t seem to be a limit on the number of utility skills he could have. He accepted the skill.
+
+Then he turned to the third box.
+
+That was nice - it seemed like he didn’t have to kill anything, just overcome a difficult challenge to level up. Now what? It was time to plan, figure out his next steps. Nathan wished he had some scratch paper and a pencil to list what he knew and what options he had, the same way he planned experiments back home. But he hadn’t seen anything like that in the room, and he didn’t want to leave any evidence for Taeol to find next time he knocked him out and erased his memories.
+
+Speaking of, there was something else to do. Nathan looked around for an object he could use to mark the wall. The only metal object in the room aside from some nails holding the bed together was the dish the fruit came in. It wasn’t ideal, but it served to make another tick mark next to the caffeine molecule. Then Nathan put a hand on his forehead. He was being an idiot, using a complicated plan with many chances of failure when a simpler plan would be way better. Nathan could just write “You’ve been mindwiped” and as long as he saw it and Taeol didn’t he was set. Nathan was also pretty sure Taeol didn’t understand English. Unfortunately, he didn’t think the plate would be great for letters. Something to keep in mind.
+
+Regardless, it was time to use his new skill and see if it helped with planning. Nathan closed his eyes and focused again, finding it easier than ever to banish extraneous thoughts and focus on how to deal with Taeol and escape. First, should he try to catch Taeol by surprise and attack him as soon as possible? Upsides, he was unlikely to be expecting it after the mindwipe and would likely get more suspicious of Nathan as time went on. Also, staying here longer made it more likely Taeol would succeed at breaking him or decide to suck the secrets of technology out of him the hard way. Downsides, Nathan knew nothing about where he was, or any magical defenses Taeol had. He needed more information to develop a plan beyond “punch Taeol in the face and try to find an exit”. Also, if he could get Taeol to cast more spells on him, he could rank up his magical resistance. That Talent was his trump card, and Nathan wanted to wait as long as possible to play it.
+
+Ok, so if attacking Taeol was a bad idea, how about trying to sneak out? Well, it had most of the downsides of attacking Taeol except there was also a bar on the other side of the door. Maybe worth doing if Nathan saw an opening, but it would have to be a good one.
+
+If Nathan was going to stick around and talk to Taeol again, how would he handle it? Nathan knew he wasn’t great at lying, but it didn’t look like he had a choice. Well, the first step to manipulation was to look through the other person’s perspective. Taeol believed in his own superiority and the power of his magic. He’d wiped Nathan’s memories of their previous conversation and was probably taking time to plan out the perfect series of lies to get Nathan on his side. It would definitely have been smarter to not give Nathan any time after waking up to realize what had happened, but Taeol probably believed his mind magic was very good, and unlikely to be beaten by Nathan. Maybe he wanted Nathan to stew in an unfamiliar setting before swinging in to rescue him. Or maybe he simply had other things on his plate than a dimensional abductee with the secrets of industrial revolution.
+
+Well, if he wasn’t going to attack Taeol, Nathan should conform to his expectations as much as possible. He should act confused and be grateful to Taeol for any friendliness or explanation. But that had to have a limit - he had to have a justification for refusing to follow Taeol’s plans. Should he try to get Taeol to teach him magic? It would be tricky to do without giving up anything, but the possibility was right there.
+
+On the other hand, Nathan reminded himself there were some really good reasons not to learn magic. His magic resistance skill would interfere with it, and that could clue Taeol in. Also, there was a chance that if he picked up more skills or talents right now then his magic resistance skill would not rank up as quickly. Come to think of it, that would have been a good reason to hold off on accepting the focused mind skill. But it was already proving its value, letting him plan without being interrupted by gibbering fear about deciding to oppose an apparently genocidal city/kingdom/empire single handedly.
+
+But I want to learn maaagggiiic
+
+Tough. Magic didn’t have to be manipulating mana. Talents seemed like they could be a close approximation and that would have to be enough, at least for now. Should he try to pick up any other talents or skills immediately? Only something that could help him with the immediate situation. And unless he could figure out a Talent to burrow through solid rock, the only thing that made sense was being better at lying to Taeol and stringing him along.
+
+Nathan opened his eyes to yet another blue box.
+
+Nice. Now it was time to try lying to a wall for a while.
+
+Permanent Talent 1: High-Tier Magic Resistance 4
+
+Talent 2: None
+
+Talent 3: None
+
+Class: None, level 3
+
+Utility skills:
+
+Low-tier Focused Mind 2

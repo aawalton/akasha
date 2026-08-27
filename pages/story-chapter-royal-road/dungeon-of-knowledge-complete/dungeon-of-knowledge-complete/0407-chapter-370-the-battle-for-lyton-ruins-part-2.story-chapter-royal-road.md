@@ -1,0 +1,135 @@
+---
+id: e4af5557-468d-5c05-a4aa-488df85dd4d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 370: The Battle for Lyton Ruins (Part 2)"
+slug: 0407-chapter-370-the-battle-for-lyton-ruins-part-2
+partOf: dungeon-of-knowledge-complete
+position: 407
+ownLength: 2166
+unit: words
+ownProgress: 2166
+publishedAt: 2025-09-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2581532/chapter-370-the-battle-for-lyton-ruins-part-2"
+royalRoadId: "2581532"
+markedReadAt: "2026-06-29T20:25:48.355Z"
+---
+
+Mato charged down the hillside, reveling in the power of his Dire Bear Form, but for once, he was not the person in front. That honor belonged to Malika, this time.
+
+“This is the stupidest plan ever,” Malika muttered under her breath, glancing back at him as they sprinted down across the ruined cobblestones of the town square together, but with his skill-enhanced hearing, it was like she’d spoken directly into his ears.
+
+“Yes,” Mato sent, unable to keep the thrill and excitement from his mental ‘voice.’ “Good luck tanking.” They were already well within the enormous death-affinity aura projected out from the undead Alexander Gray as he raced toward them. Its mana tore at his body, slowly consuming his flesh.
+
+“Good luck healing,” she quipped. Despite her words, a huge grin appeared on her face as they teased each other over the switch-up of their familiar roles. Then, ironically, she pulsed her healing magic to top him up.
+
+As soon as the twisted form of the undead mage rounded the rubble of a ruined house, his blight pulsed outward, overpowering even his own death-affinity aura. It was on an entirely different level compared to what Alexander Gray had wielded in life. Mato’s muscles spasmed in pain as his hide began to decay and slough off with dismaying speed, and still the undead blight ripped into him with blind, ravenous hunger, triggering several chimes and a profound sense of weakness.
+
+Malika immediately lashed out at Alexander’s gut, but her fist cracked on something invisible, several inches from his gaunt body. A discolored dark surface radiated out from the impact, evidence that he still possessed his powerful mana shield, but even Mato’s mana sight tracked the lance of soul magic she unleashed, piercing through the barrier and impaling the undead mage within. Alexander’s unholy revenant hissed with something akin to pain.
+
+“What did I tell you? You’re the perfect tank for him,” Mato said, baring his fangs in a grin.
+
+Malika just grunted, wielding an intense focus that refused to be shaken.
+
+Mato left her to her job and selected a likely spot nearby. The pulses of blight were building to a crescendo as it doled out more and more decay, eating at his constitution with appalling speed. He didn’t have much time. But Alexander Gray wasn’t the only one who had grown. His claws plunged into the earth, stretching and digging, becoming roots that reached deep into the ground. His body warped, growing taller as he transformed directly from his Bear Form into the Elder Tree. His branches expanded upward and outward, sprouting leaves filled with life and mana, and his aura burst forth, a brilliant emerald-green wave that rushed across the ruins of the town, filling it with a sudden flurry of leaves and the scent of spring.
+
+Mato’s mana established itself. He pushed back at the oppressive blight, slowly and steadily dissolving the intense magic emitted by Alexander Gray. His awareness spread throughout the battlefield, observing, understanding, sensing.
+
+Calm suffused his mind as his mana pool overflowed with regeneration. With a thought, he turned it into the holy fire of Consecration, spreading warm, soothing white flames across the whole battlefield. A chorus of howls and screeches rose from the undead – those with voices left to scream their agony. Then, with a simple act of will, he summoned the tiny Lirasian Sage. The emerald-green, glowing spirit floated upward, hovering among his branches and infusing his Sanctuary with its powerful blessing. Within the dark necromantic magic of Alexander Gray’s auras, Mato channeled all the damage from his sage to himself, not wanting to risk the delicate spirit dying and losing the health bonus that was bolstering the entire raid.
+
+“Make sure you’re in the Consecration!” Calen shouted, his voice shivering through Mato’s branches and leaves like a faint breeze.
+
+Below his branches, Malika danced with death among his roots. Further out, Sabri struggled briefly with a prison of bone before dismantling it with the power of her voice. Havok mingled taunts with praise for their shared patron god in his unique way while laying his own Consecration at the feet of the Plague Ghoul. On the far edge of the town, barely within the perimeter of Sanctuary, Basir flung stone bullets at the flying Skeletal Wyvern, maneuvering it into position while his rock armor glowed orange with heat under the onslaught of the flame breath.
+
+“Tanks have it under control,” Mato said, speaking directly into Calen’s mind.
+
+“Places,” Calen announced immediately. “Begin damage.”
+
+The raid responded like an orchestra to their conductor.
+
+“Summoning from the Ghoul,” Ali called, and simultaneously, Mato observed the surge of domain mana through the monster. A half-dozen Plague Zombies immediately appeared.
+
+“Summoning again. Wight this time,” Ali called. This time, the spell surged through the Bone Wight, similar in appearance, but the differences were apparent to his calm attention. Two dozen skeletons manifested, all the loose monsters rushing about and attacking indiscriminately.
+
+While he was currently a giant vital oak, at his heart, Mato was a tank. Irritation rose and eroded his calm, disturbing the soft flow of his mana and sap. He took action. Vines, roots, and brambles burst forth through the cobblestones, grasping and entangling the ankles of the undead spawn. He held them in place, twining his grip through their bones as the ghostly flames of his holy Consecration ticked over slowly, melting rotten flesh and igniting stained bones. Not a single one reached a healer.
+
+But then, just as he’d restored calm to his inner world, everything went wrong.
+
+“Unknown domain spell from the Ghoul!” Ali shouted.
+
+Mato caught the dark surge of mana from the Plague Ghoul, and in an instant, nearly half the raid was cowering in fear, screaming incoherently, and fleeing in all directions. The Bone Wight and the Plague Ghoul immediately ignored their incapacitated tanks, rushing off to target the healers directly.
+
+“Shit! Domain magic from the Wyvern!” Ali screamed, and the sky began raining fire.
+
+A wickedly sharp dark gray bone blade blurred across his awareness. Survival Instinct yowled in the back of his mind, convinced that Belmar would die horribly, bisected by the Wight’s strike. Pain seared across his trunk as Mato took the slash meant for the priest. His bark split, and a gash opened down to his heartwood, spraying clear, viscous sap into the air.
+
+The Plague Ghoul champed down on the back of Teagan’s neck with a gaping maw filled with jagged, rotten teeth and tusks, but the bite tore chunks of wood from his branches instead of her.
+
+“The Ghoul has area fear,” Mato said, targeting Calen, who was flying high above the battlefield. Then, he leaned into his Arboreal Sanctuary and Survival Instinct, tanking the damage for the entire raid. This was what his health pool was for, of course – but he must not neglect to watch it closely.
+
+“Dispel the fear on the tanks,” Calen ordered, trying to keep his voice calm – a surprisingly challenging task when shouting over the chaos of the oversized raid, but the more the battle unraveled, the more people would respond to any uncertainty or fear from the raid leaders. He couldn’t afford to show the roiling emotions he kept bottled up inside.
+
+“On it,” Ali said.
+
+“Tanks, get them back under control. Somebody, heal Mato. He’s tanking all the damage right now,” Calen continued.
+
+Everything was falling apart. There were great pools of putrid, rotting magic left behind everywhere the Ghoul ran, and it was running amuck through the length and breadth of the raid. The Wyvern screeched from high in the air, raining fire and brimstone down on everyone. Disease and blight were spreading like wildfire.
+
+Prioritize. Calen took a breath to steady himself. The spawns and the literal rain of fire could wait. Mato would take care of the diseases. They needed to address that fear first. And as he watched, he saw Teagan drop a free action totem to release Sabri from the bone prison, and she charged over to intercept the rampaging Bone Wight.
+
+“I got heals on the tree,” Belmar shouted.
+
+And let them make the decisions they can make. They were all experienced raiders with many fights under their belts. Calen had to trust them to make good choices. Instead, he needed to focus on what only he could do. From his vantage point high above the battlefield, he had seen the fear rippling across the raid, but until Mato had sent his message, he hadn’t understood it. Now, he knew, and he had a good estimate for its range, too.
+
+That must be one of his domain magic skills, along with summoning zombies.
+
+He withheld his arrows while the tanks scrambled to regain control and carefully considered his choices. Their strategy had been to keep all the secondary raid monsters away from Alexander Gray, trying to minimize the amount of damage caused by overlapping loose minions, blight auras, and fire breath. But he hadn’t known about the fear beforehand. An untanked monster running rampant through their healers every time it cast the fear would rapidly devolve into a disaster. No, he couldn’t allow that.
+
+Their most reliable counter to mass fear was Malika. He glanced down at her, but she was still tied up, tanking Alexander Gray. The fear had not affected her in the slightest. Thank goodness for small mercies.
+
+“Havok! Move the Ghoul next to Malika,” Calen shouted. “Malika, it has an area fear attack.”
+
+“Got it,” Malika said, not even interrupting the rapid punch combination that beat a staccato rhythm across Alexander Gray’s mana shield.
+
+“Stupid undead!” Havok yelled, but he recovered the Plague Ghoul with a cunningly timed Holy Smite and began dragging it to the center. “Thanks for the damage!”
+
+Slowly, the battle seemed to stabilize. Miraculously, nobody had died in the chaos. Perhaps not so miraculous, he thought, watching the huge gashes and rents in Mato’s trunk slowly closing up under the influence of his immense regeneration, Belmar’s holy magic, and Malika’s nearby healing.
+
+Calen pulled out his Howling Hellfire Bow and leveled a split multishot across as many monsters as he could reach, loading up his stamina leech for the next thirty seconds. He swapped back to Cinderstrike and resumed his assault, slowly ramping back up to his full speed as he tested the hold the tanks had on their targets.
+
+Havok had managed to maneuver his way slowly across the battlefield, hampered by the Ghoul’s paralytic touch, until he was tanking beside Malika under the tree. Malika pulsed her healing magic through the cluster of melee fighters at regular intervals, a cadence that seemed designed to keep her Touch of Clarity on them permanently.
+
+“Healers and ranged damage dealers, maintain a forty-foot distance from the Ghoul,” he instructed. Keeping them out of range of the fear was the best setup. He unleashed another volley without any of the raid monsters budging.
+
+“Tanks have it locked in,” Mato sent.
+
+“Resume damage,” Calen instructed. With the fear taken care of, he hoped there would be no more surprises.
+
+But, to his dismay, Ali shouted, “Wyvern’s summoning something!” The ugly flying pile of bones surged with dark mana and began spawning clouds of zombie wyverns.
+
+Fuck. Another problem.
+
+“Archers!” Calen yelled and began unleashing his explosive arrows into the cloud of flying monsters. With only a few moments’ delay, arrows of flame and lightning began soaring into the sky, followed by all manner of ice bolts and fireballs as the raid responded to the urgent threat.
+
+You have gained Onslaught.
+
+Yes! Calen had been waiting eagerly for this moment. He reached into his storage and nocked an insanely expensive mithril arrow prototype Thuli had crafted. Without breaking his rhythm, he emptied his entire stamina pool and unleashed it at Alexander Gray. Three near-simultaneous detonations rocked the town with superimposed explosions of light and flame so bright that everything else went briefly black – the unleashed power of nearly forty seconds of Power Shot charging, triggered in an instant by his newest advancement.
+
+Alexander leapt back to his feet with a furious howl amid the dispersing smoke and flame. Scorch marks were barely visible across his torso and the tattered robes, and despite the arrow hole clearly visible against those gaunt, protruding ribs, he seemed more irritated than injured. Calen’s heart sank. Fuck, what is it going to take?
+
+“Shit, rogues back up a bit to your left before Calen levels half the continent again,” Malika yelled, pulsing her healing magic in a visible corona around her.
+
+“Nice toy,” Mato said.
+
+Cheered by Mato’s undisguised admiration, Calen grinned as he felt his remaining stamina leech tick up quickly. He switched bows and topped himself up before swapping back and unleashing Cinderstrike’s flame and slow curse into the cloud of zombies again.
+
+You have gained Onslaught.
+
+Ok, this is fantastic! He lined up another shot, feeling rising power coursing through his veins.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

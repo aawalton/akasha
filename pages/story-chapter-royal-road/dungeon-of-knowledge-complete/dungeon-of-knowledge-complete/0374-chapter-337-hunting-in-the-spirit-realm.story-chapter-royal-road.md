@@ -1,0 +1,241 @@
+---
+id: f6952449-b49f-583c-a861-1c841955db98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 337: Hunting in the Spirit Realm"
+slug: 0374-chapter-337-hunting-in-the-spirit-realm
+partOf: dungeon-of-knowledge-complete
+position: 374
+ownLength: 4259
+unit: words
+ownProgress: 4259
+publishedAt: 2025-08-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2493996/chapter-337-hunting-in-the-spirit-realm"
+royalRoadId: "2493996"
+markedReadAt: "2026-06-29T20:23:17.068Z"
+---
+
+Ali stood in awe before the Gate, staring at the area beyond the shimmering ripples of space magic. She had not forgotten the dire situation she found herself in, nor the active raids she was still engaged in. Mato’s group had just pulled a nasty-looking cloned Ghoul boss while Calen’s group was deep into a fight against a powerful abomination that looked like an undead Fleshcrafter’s needlework project. The group led by Vivian Ross tackled a Mana Eater, struggling more than a little with a rough fight that denied mana to most of the group.
+
+But the final raid group had just successfully defeated their Rock Beetle raid encounter. Malika sat beside Sabri, chatting quietly, so Ali approached them with her Kobold acolyte.
+
+Malika will find a way to save me.
+
+“Come on, it will be fun!” Cael said, dragging her attention back to the stark white polished marble of the room, and the incredible magic of the space-affinity Gate before her. She couldn’t activate her study trance, but she was most certainly memorizing every single rune she could see.
+
+“No, it won’t,” Gage replied, his voice sounding sullen. Somehow Cael did not seem bothered in the slightest by his brother’s denial.
+
+Who are these guys? Cael and Gage were not common names in this era. Definitely not Elvish or Gnomish – nor Dwarven for that matter. Given that they were speaking in Dal’mohran, they might even be Fae names from her bygone age, except they didn’t speak like any Fae she had ever known. Their manner of speech oscillated like a demented pendulum between the extremes of scholarly arrogance and petulant child, and she would almost certainly have heard of any space mage of this level of mastery if they’d lived anywhere near Dal’mohra. I guess I won’t be able to get out unless I go through.
+
+Other than the Gate itself, there were no entrances or exits to the stark white room she had been trapped in. She studied the flows of ambient mana washing up against the surface of the Gate, noting with curiosity how they were rebuffed by the surface of the gate itself. She took a step forward, stepping into the magic. A chill played over her body as her face plunged through the shimmering surface of space magic as if she had just dunked her head below water. A weird rippling sensation passed briefly across her skin, and she emerged from the other side entirely unharmed, but with the lingering sensation that she should somehow be wet and struggling to breathe. She pushed it away, deciding her mind was just trying to relate the inexplicable experience to something familiar, and if she had to say it felt like entering a pool of water when she had stepped into it, disconcertingly it felt like emerging from the pool of water on the other side as if she had somehow entirely skipped the submerging part.
+
+The experience only made her want to stop and study it more, but finding her way out was much more pressing.
+
+“There you go, that wasn’t so hard, was it?” the disembodied voice of Cael sneered.
+
+“No,” Ali answered quietly, finally relenting and acknowledging her captors’ comments. There were always more ways to wriggle out of a trap than what was presented to you, and the two brothers were clearly a part of the puzzle. Engaging them in conversation was the surest path to having them slip up and reveal a hint or a clue.
+
+“This is my favorite room,” Cael said. “I think you’re going to love it.”
+
+“I hate it,” Gage added. “Can you make her die quickly so I can harvest the experience?”
+
+Harvest? That’s just nasty.
+
+“What do I do?” Ali asked, pointedly ignoring Gage’s blatant bloodthirst as she studied the vista laid out before her. She stood on a platform of white stone with the still-active gate behind her. Several hundred meters away, another Gate floated above a similar platform, but the space in between was vast and empty. Ali’s eyes were drawn inexorably downward, struggling to make out the tiny features of the gray-cast land so far below that it looked like a map drawn with charcoal or pencil.
+
+Dotted throughout the empty space between the two platforms were islands; large chunks of rock and stone suspended in the air, held aloft by the thick weave of the space magic woven throughout the domain and suffusing the area with thrumming power and energy. Each floating island was topped by the ubiquitous polished white stone, crystal growths, and the glowing golden arcane trees that still defied easy explanation.
+
+“You must reach the Gate at the far end,” Cael said, confirming the obvious setup.
+
+“And how do I do that?” Ali asked, staring down at the yawning abyss below her feet while irrational dizziness made her knees wobbly.
+
+“You can walk along the islands, use the floating barriers, or be transported by the drones,” Cael explained.
+
+Ali studied the scene before her. Several of the islands were joined by arches, bridges, or stepping stones made of a golden barrier magic just like her own. Strangely shaped geodesic monsters of glowing golden arcane mana floated slowly about, some going up and down, while others drifted back and forth, each projecting small platform barriers above them.
+
+Arcane elementals, she identified them without the benefit of her Identify skill, judging their mana to be similar enough to Nathaniel’s Arcane Elementals. Although, these seemed substantially less powerful, intended to be mobile platforms, no doubt. Nice try, she thought, still very much worried about Gage’s blunt preferences for her death.
+
+“Cael! Stop giving her so many hints. She is our prey, remember?” Gage objected.
+
+“Obviously,” Cael said. “But we want her to have a good time.”
+
+“I don’t,” Gage retorted, sounding a little annoyed with his good-natured twin.
+
+Ali tuned their bickering out while she studied the scene. Linking her platform with the far Gate was a sinuous broken line of floating islands and suspended golden barriers – a softly curving path of steppingstones leading to the way out. However, the gaps between them were so wide that there seemed no way to cross without falling to her death. Still, Ali eyed the golden arcane mana with a deep sense of suspicion. Only Mom had my mana, she thought. And Ryn. How has it come to be here?
+
+To her left, the floating islands and barrier bridges hovered in a strangely evocative spiral shape with arcane elemental platforms lazily traversing the spaces between them.
+
+Something about this shape… Her Sage of Learning nibbled away at her mana as she studied it, but other than realizing there was something more to it than the obvious, no enlightening revelations came to her.
+
+To the right, the islands fell away in a dizzying terraced zigzag that shrank to a tiny, toy-like appearance in the distance. Arcane elementals carried barrier disks like elevators. Several floating barrier shapes were arranged into lazy staircases, much like the stairwell she had made to enter her forest cavern.
+
+This is crazy…
+
+Suddenly, the entire world flickered, reminding her that despite the color of the dungeon’s magic, she was still most definitely trapped within the spirit realm. Every moving platform reset with the spirit realm echo and began moving again from their new positions.
+
+“Well?” Cael asked. “What do you think? I spent a long time designing this and you have the honor of being the first to test it out.”
+
+“It’s impressive,” Ali admitted. “How do you make the Gates?”
+
+“Trade secret,” Cael said, his disembodied voice sounding far too smug.
+
+“That’s too bad,” Ali answered. She hadn’t exactly expected he would launch into a detailed explanation, but it was worth the attempt. Still, it wasn’t a waste. He obviously found her question flattering, which was what she needed to do to get him to open up.
+
+“Let’s all have fun!” Cael said, with an entirely inappropriate amount of enthusiasm and excitement as Ali stared dubiously at the terrifying drop below her.
+
+Gage growled grumpily in the background.
+
+“Calen, I need you.”
+
+Calen whipped his head around to find Malika rushing through Weldin’s Town Portal the instant the guild’s Gnomish storekeeper summoned it, linking the tiny outpost of green amid the blighted woods to the guild hall back in Myrin’s Keep.
+
+“What is it?” he asked, all details of the in-progress fight postmortem discussion with his raid group fleeing from his mind at the sight of her uncharacteristically flustered urgency. His gut clenched with a chilling premonition.
+
+Something very bad has happened.
+
+“It’s Ali,” Malika gasped, catching the momentum of her headlong dash with the disconcerting suddenness of her momentum control skill. “She’s trapped in the Spirit Realm!”
+
+“What? How?” Calen’s eyes flickered over to the demonic minions Ali had provided to assist his group amid further gasps of shock from the assembled raiders. Even though Ali had remained at home in her dungeon, she had been fighting all day using the demons as proxies, never missing a single beat.
+
+“The dungeon was attacked while we were out,” Malika said, already gesturing for him to follow. “Platinum group from Southport. During the fight, she tried to escape and was trapped… somehow.”
+
+“Is she ok?” Calen asked.
+
+“She said she’s fine…” Malika said, her brow furrowed in concern.
+
+“But?”
+
+Malika looked up to catch his gaze. “She had to kill them, and you know how she struggles with that. She’s holding it together – barely. We need to track her down and bring her back.”
+
+“How are we going to do that?” Calen asked, several ideas springing half-formed into his mind at the shocking news. Ali? Trapped? We must save her… but how do we even get there? The Spirit Realm presented many challenges, but he was a Realm Hunter now, surely some of these new, unique skills at his disposal would prove useful.
+
+“I can use Spirit Walk,” Malika answered, tapping the edges of the soul-affinity runic tattoos that peeked out from under the neck of her shirt. “And you can follow… can’t you?”
+
+“That’s a good idea. Wait for me,” he tossed back over his shoulder to his group as he darted through Weldin’s conjured shimmering portal, rushing after Malika as she shot downstairs to the guild’s runic circle. He flared his wings as he appeared on the ground floor of the Grand Library Arcana, causing several nature wisps to dart away to hide behind the elder tree’s enormous trunk. Malika was already sprinting up through the air and he leaped after her, his wings catapulting him across the atrium and out through the second-floor doorway, leaving a chorus of screeching Glitter Dragons scrambling in his wake.
+
+Calen froze. The dusty ruins were still encrusted with thick layers of bone, the scored flagstones, the ancient city rings, and the dark abyss over the edges – it was exactly like stepping back in time. This was a scene that had been burned into his soul by his own fear. The moment he emerged from the doorway, the view presented to his eyes was overlaid with the traumatic memory of falling from the high platform of the floating city rings, way back before he even had his wings. If Ali hadn’t thrown herself after me… He fed more mana to his wings, making them flare brightly, as to grant his past self the ability to fly. It was that desperate plummet and Ali’s subsequent spectacular rescue that had resulted in his being offered his Azrael’s Wings skill in the first place.
+
+Get a grip, Calen. That was then. Ali needs you at your best.
+
+He dispelled his memories and scanned the area. The Piercer Scorpion was long gone, as were all traces of the Ruins of Dal’mohra’s domain mana that had once infested these ruins. In its place squatted the largest giant troll berserker he had ever seen. Two greataxes lay propped up against a boulder within easy reach of his enormous hands and a heavy Eimuuran steel breastplate gleaming darkly on his chest. Tol’brekk. Calen would recognize him anywhere. Strewn about, staining the flagstones, were the mangled remains of what had once been people.
+
+Keeping a wary eye on the giant troll, Calen swooped closer and touched down outside the broad ring of glowing green swirling mana – magic he recognized as one of Ali’s runic healing circles.
+
+“Four?” he asked, glancing from the various corpses to Malika for confirmation. All the dead were extremely high-leveled. All of them wore – had been wearing – extremely expensive, high-level gear, by the looks of it, but the bodies were badly mangled. His eyes took in the tracks, scuff marks, and scorched remnants of magical attacks, rapidly piecing together the flow of the battle in his mind with the aid of his tracking skills.
+
+“Looks like it,” Malika answered.
+
+“Five.” The troll’s voice was deep and resonant, and Calen’s eyes snapped up to meet the intense gaze of the seated giant in a silent query.
+
+“I threw the first one over the side,” Tol’brekk added, gesturing backward over his shoulder with an enormous thumb. “It is also dead. Puny weakling.”
+
+“This doesn’t look very puny to me,” Malika suggested, poking half a witch with her toe.
+
+“That one was level one hundred and forty-three,” Calen said.
+
+“What? How did Ali kill her by herself?” Malika gasped.
+
+Calen locked eyes with the giant troll for a long moment. It was clearly one of Ali’s, but even though he had faced Tol’brekk as a Death Knight, this incarnation felt more powerful somehow. His mana sight was nowhere near as advanced as hers, but even he could see the potent flows of domain mana swirling up through the giant as he squatted there quietly observing them, ready to spring into action at a moment’s notice.
+
+“You killed them all?” Calen asked, finally deciding that if the boss was willing to talk, that would be the fastest way to the answers he needed. Certainly, if the troll berserker had dealt with the missing tank early in the fight, and the tracks and signs seemed to support that theory, it explained how the tremendously unbalanced fight had come out decidedly in Ali’s favor.
+
+“The Seeker and I faced them together. She gave them the chance to withdraw, but greed drove them and we were forced to fight,” Tol’brekk rumbled.
+
+“Greed for what?” Calen asked, looking around at the desolate ruins.
+
+“They wanted magicite,” he answered, turning and pointing a massive arm toward the outer ring where the distinctive glow of the pool of liquid light-affinity mana seeping from the ancient, cracked mana condenser broke the gloomy darkness.
+
+“I see,” he said. Clearly, the group had been driven by a desire to loot the artifact, but the troll had to have been leaving out a lot. Ali would not have been willing to kill them unless she had no other choice, even if she had to give up the magicite to a bunch of looters. “Where is she now?”
+
+“I was not strong enough to kill them all at once. The assassin and the archer finished me off,” the giant troll answered, pointing to a corpse that seemed to be more paste than body and hanging his great head in shame. “The Seeker was forced to use her magic to respawn me during the fight. She never returned.”
+
+“She threw the boss at them… twice? That’s nasty,” Malika said, surveying the scene thoughtfully. “Makes a little more sense, now.”
+
+“Thank you,” Calen said, inclining his head toward the Troll and scanning the remains once again.
+
+“Please find her,” Tol’brekk said, suddenly interrupting Calen’s return to focus on the remnants of the battle, a surprising depth of concern in his voice. “She is afraid, and I cannot defend her from here.”
+
+“We will,” Calen answered, nodding to the berserker. He had certainly not expected a summoned monster to express such concern over his summoner, but something had most definitely changed when Ali evolved her class. Something he would need to discuss with her later when they tracked her down.
+
+He turned to find Malika clearing the battlefield of corpses and items.
+
+“I’ll get the one that fell off later,” she said, glancing up from the corpse of what looked like it might once have been an archer – at least by the appearance of the remaining gear and the strange smoking bow she had in her hands. “Here, you should upgrade.”
+
+Malika tossed the bow at him, and he caught it easily, eyeing the blackened bow that immediately warmed the skin of his palm. He almost dropped it before sheepishly remembering that a little heat was neither here nor there, at his level. Not anymore. The sleek, sable surface reminded him of a Drake’s scales, almost mesmeric in its blacker-than-black perfection, but it was the sense of power thrumming at his fingertips that truly made him bite his tongue.
+
+A moment later, his chime sounded as Malika shared the details with him.
+
+Cinderstrike, Longbow of the Heretic – level 102An exquisitely wrought longbow of blackened ironwood, constantly emitting swirling wisps of dark smoke and perpetually warm to the touch.Damage: Ranged, Fire.+100% of Physical damage is converted to Fire.+23% to Magical damage with Ranged attacks.+35% chance to Ignite (+50% additional fire damage over 30 seconds).+61 Dexterity.+2 to skill level of Ranged skills.19% chance to inflict level 12 Slow curse on hit.Requirements: Dexterity 1071, Intelligence 357, Strength 97.
+
+Created by Draevan Blazewright.Two-Handed – Bow
+
+“Holy shit! Six enchants?” Calen exclaimed, profanity coming unbidden to his tongue. He read it again, unable to believe what he was seeing.
+
+“Nice, isn’t it?” Malika grinned.
+
+In that moment he felt a sudden rush of gratitude for his mentors’ insistence that he invest in strength – without that commitment, he wouldn’t even be able to hold this powerful bow. Cinderstrike… The amount of damage this bow was capable of, even without the ridiculous enchantments, was unbelievable. There was no comparison to his Howling Hellfire bow.
+
+No physical damage? he wondered. How exactly would that work with crafted arrows? Will it turn them into fire? There was a moderate percentage increase to magical damage, but if everything was fire damage, then that would translate into a substantial boost – far beyond its appearance.
+
+That magical damage enhancement should imbue all his light magic arrow enchants with Arrows of Brilliance or Motes of Light.
+
+The increase to dexterity was a top-of-the-line enchantment for his class, but his eyes widened in surprise as he considered the final two enchantments. A ranged skill enhancement was extraordinary – his primary damage skills would all be enhanced simply by using this bow. The final cherry on the top of the cake was an on-hit proc which would slow any enemies he hit with a curse.
+
+Given the way he had developed his class; multishot with magical arrows, and the enhancement of Spirit Arrows piercing through every target, any on-hit proc enchantment was multiplied in effect. He could very likely curse every single monster on the field with that slow, not to mention the potential of triggering the additional fire damage from Ignite on every strike as his arrows pierced through everything. Combined with something like his Grappling Shot, he would wield unprecedented control over any battlefield.
+
+“Well? You going to use it?” Malika said, and Calen realized he had been staring at it with his mouth hanging open in surprise. His teeth made a little audible click as he hastily shut it.
+
+“Yes,” he said, storing his old bow. “I will need to give up my stamina leech, though.” The one thing the Howling Hellfire Bow had over this one was an infinite well of stamina.
+
+“Stamina potions?” Malika suggested.
+
+“That’s one approach,” Calen admitted, twisting his mouth into a grimace. He did have a stamina cost reduction advancement, which should mitigate the cost, but then another idea occurred to him. With a little practice, he didn’t see why he couldn’t simply switch bows mid-combat to fill up his stamina and then swap back. Certainly, such a strategy would be a lot cheaper; he was still loath to return to the days when every fight would break the bank from the sheer cost of the mana potions he had needed. Even if Ali could just make them now – it was the principle. Besides, he’d much rather drink accuracy potions to increase his chances of critical damage.
+
+“Calen,” Malika said, catching his attention with a sudden turn of seriousness to her tone. She was bent over the corpse of what had once been a priest. Whatever had happened to him or her had been incredibly violent, and the body looked like it had been through a shredder. But Malika was handling an unfamiliar ring. Then, she retrieved something from its storage; a two-foot-tall artifact of black stone with unlit runes etched into its surface.
+
+The shrine.
+
+Not any shrine, the shrine. He didn’t even need her to appraise it to recognize it as the one William Turner had used when they had all set out on their first quest to unlock their classes.
+
+“We need to talk to Aiden,” he said, letting Malika know he understood the significance of her discovery. Its presence here on the body of a platinum-ranked dungeon exterminator from the capital had dire implications.
+
+“Definitely not looters,” Malika said soberly.
+
+“That’s for sure,” Calen said. Someone had used the shrine to purchase the services of this team to wipe out Ali’s dungeon – and that someone was linked to the assassination of the mayor, William Turner. There could be no doubt.
+
+We need to protect her better than this. It seemed like a game, before… no longer. I don’t care if she has to ride around on Tol’brekk’s shoulder!
+
+But first, they needed to find their friend.
+
+Calen’s attention returned to the scene of the recent battle. He spent a coin to boost his tracking and perception skills with a fresh Blessing of the Wanderer and then shifted his attention to the strange sight that had come with his class evolution. Staring into the Spirit Realm – a place that was always there, somehow just beyond reach – felt like squinting at something perched on the bridge of his nose while underwater. Mana swirled around, wispy and ethereal, as his perceptions showed him confusing blurry remnants of the movement skills used during the battle and the echoes of magic leaking through, hazily reflected to him from beyond the veil.
+
+“Here,” he said, finding himself in the center of the ring, standing beside the berserker. “This is the last sign of Ali.”
+
+Her trails and the remnants of her magic were clearly drawn to this point and then culminated in some powerful spell, after which her trail stopped.
+
+“That is where she was attacked,” the troll berserker confirmed.
+
+“Alright, let’s go,” Malika said, and her body shimmered and vanished – just like one of those slippery Aman Rak witchdoctors ducking in and out of battle. But this time, he saw her appearing as an ethereal shade, wispy and insubstantial, on the other side of the realm veil. Her ghost turned toward him and beckoned.
+
+He didn’t need to be asked twice; he activated Explorer immediately to trigger his Realm Hunter movement skill. His mana surged as his skill latched onto the fresh trail of soul magic Malika had just used and spun a spell-echo of it out of light. His body shimmered, becoming briefly insubstantial. The color leached from the world, draining away until he found himself standing there beside the only thing that had color in the entire area, Malika.
+
+Without needing to consider it, he retrieved a ghost mushroom and ate it as he knelt to observe the ground. As the light saltiness of Mato’s ghost mushroom snack filled his mouth, his skills activated, showing him that indeed Ali had been here, but she hadn’t actually moved anywhere. Rather, it seemed that she had been subjected to some external force that had whisked her away – his skills could tell some movement skill had been activated, but the traces remained murky and indistinct. Sense Prey could tell him that Ali was somewhere near, but the where of it confused his spatial perception, twisting everything he knew in ways that didn’t make sense.
+
+“Her presence is being obscured,” Calen observed, frowning at the sensation.
+
+“Can you follow her?” Malika asked, looking around too.
+
+“I’m not sure if I can, but I’ll try,” Calen said, getting to his feet, but several attempts later he was certain that whatever it was that had whisked Ali away had been skilled enough to conceal their tracks thoroughly – there was not enough of a trail left for Realm Hunter to follow.
+
+“Not working?” Malika asked.
+
+“No,” he growled, glaring at the dispersed remnants of mana as if he could cow them into submission with his eyes. “Whoever took her knew what they were doing. We’re going to have to do this the hard way.”
+
+He retrieved his notebook, carefully recording everything his senses could track while the trail was still fresh. Who knew how long it would take to find Ali, and the trail wasn’t going to get clearer over time.
+
+“As long as we find her,” Malika said, her lips drawn into a tight line.
+
+Before anything bad happens to her, Calen added, but he kept the thought to himself. Write faster. Think of a plan. Think!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

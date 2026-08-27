@@ -1,0 +1,109 @@
+---
+id: a2c5e8fd-db80-594b-9e55-44c53eec830e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 446: Everybody Needs a Friend"
+slug: 0483-chapter-446-everybody-needs-a-friend
+partOf: dungeon-of-knowledge-complete
+position: 483
+ownLength: 2454
+unit: words
+ownProgress: 2454
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2771813/chapter-446-everybody-needs-a-friend"
+royalRoadId: "2771813"
+markedReadAt: "2026-06-29T20:28:35.179Z"
+---
+
+A flock of tiny, violet-throated birds chirped incessantly in the branches overhead, trying their hardest to drown out Vivian’s voice as she addressed the fully assembled guild in the clearing beside the towering golden wall that had served as a temporary battlement. It was a small thing, the birds, but the sound of the song changed everything. Only a skeleton crew manned the defenses now, and not a single sound of battle could be heard – not even from the ruins of Myrin’s Keep on the opposite side of the scoured fields. Just the sweet sounds of nature. Aunt Lira would have loved this.
+
+Ali sat quietly, considering all that had happened. All through her domain, things were finally quiet, mostly. Nothing but the townsfolk and the cheerful birds stirred in the forest of Ciradyl trees. Her creep and twisted trees stood dormant in the ruins of Myrin’s Keep, with just the breeze and the river flow creating any tangible movement. Underground, from the sewers through the jungle, all was quiet, and for the first time in weeks, she knew the relief of being free from the continuous assault of dungeon rage.
+
+She had finally slept – a deep and restful sleep that had her waking late in the morning with her mind clear and sharp.
+
+Only out in the Abyssal Realm, near Azryet’s domain, was there any activity. But her Devouring Consumption and her Spirit Walker witch doctor seemed more than sufficient to comfortably contain the slow trickle of imps, wargs, and vampiric hornets that spilled out from the edges of the Lair of the Demon God, and the several hand-picked minions she had sent to join them had leveled nicely overnight.
+
+All around her, the energy of the adventurers was shifting as the realization slowly seeped in that the battle for Myrin’s Keep was over – at least, for a time. The world at large was still at war, drawn inexorably into the Blind Lich’s web of treachery, but among the guild members there was much to celebrate. The conversations and chats grew more animated, threatening to annoy Vivian, but she seemed to have a healthy dose of patience today. Maybe she slept well, too. As they finished processing their substantial level and skill growth, Vivian’s message, and the general situation switching from defense to rebuilding, they began to discuss the future.
+
+The future... Ali glanced over at Mato sitting nearby, and the intense green radiance of the acorn she could see clutched tightly in his hand. She had no idea what to do about it, but the fact that there might actually be something to do filled her with tenacious hope.
+
+Ali sighed as she turned her attention back to Vivian, but at that moment, an urgency prickled in the back of her mind, catching her attention and whisking it away to a strangely unfamiliar, distant land.
+
+She circled, wheeling far above the ground, feeling the warm updrafts beneath her outstretched wings. Her Poison Wyvern tilted her head, granting her a clear view of the ground far below.
+
+Where is this? She had sent her wyvern to find Naia several days ago, but she didn’t recognize anything that lay below. What she did find was a great wound in the landscape which spilled strange, warped vegetation like a green, verdant volcano had erupted in the midst of a vast desert of rocks, rubble, and sand dunes. Boulders the size of houses lay strewn about, like a shattered mountain, slowly sinking into the shifting sands.
+
+She circled lower, searching for anything that might help get her bearings, struggling to sort out the complex riot of mana she was seeing. The mountains to the north seemed familiar, and even the river flowing downward toward the endless sands. Wait… those boulders are houses! What happened here? Where the river met the sand and the intruding vegetation, she finally saw something that she recognized.
+
+That’s a water-affinity domain! The river sank into the sands without a trace, and at the junction, something shifted. As she descended, her borrowed draconic eyes locked onto a blackened Ooze the size of a house bearing cracks like paving shattered by a giant hammer blow and the sullen red glow of molten lava shining out from within. Is that a raid boss? Whatever it was, it was fighting. She could hear the cracking of rock as the lava pseudopods lashed out from the main Ooze body to strike against its attackers. The sizzling impacts were audible above the groaning of wood and heavy thumps of battle. Ali’s perspective suddenly switched as she realized the entire lush, green forest growing from the hole in the earth was moving. Hordes of treants, fungus monsters, rock beetles, and other plant aberrations spilled out from that ghastly maw, pouring down the rocky slopes to break against the raid ooze.
+
+Naia!
+
+Ali swept her gaze back and forth, but there was no sign of the Mimic Ooze. Still, it was not even a question, and Naia was struggling against the relentless tide of monsters. But how?
+
+Suddenly, it clicked. Ali’s borrowed draconic eyes surveyed the endless sands and rock, now picking out so many lumps and rocks that seemed to be a little too regular to be natural, all strewn about the desert where once there had stood the city of Volle. Instead of the city, there appeared to be a military or refugee camp pitched near the horizon. The hole in the ground directly below the wyvern must have been the shattered remains of the cavern entrance into Naia’s domain, and the little ooze seemed to be fighting a desperate retreat in the face of the overwhelming forces bubbling up from underground.
+
+The rift – it must be! The Blooming Rot dungeon had been planted on top of the rift deep underground, and that could not have been a coincidence. Ali had initially assumed it was placed there to gorge itself on the rift monsters to gain power and access to its mutated plants. But what if its purpose was to protect this realm? Nevyn Eld was a Guardian of the Realm somehow – but then an altogether more ominous thought occurred to her. What if the dungeons are weapons, and this is how they’re used? Once the dungeon had been harvested by the Blind Lich, it had left a massive vacuum in the power balance, resulting in a rift break of an unprecedented scale. Volle had been ploughed into the sands – there was no way Naia could hold back all this on her own.
+
+“Naia is dying!” she exclaimed. “Rift break. Volle is destroyed.” Her words caused a ripple of frantic energy through the adventurer group as her friends immediately sprang to their feet, and shouts erupted all around.
+
+“Can you get us there?” Malika said.
+
+“Yes!” Ali almost retrieved one of her Gates from her storage ring, but then she thought better of it. If she were to use a Gate to bring her domain to Naia’s aid, she needed to set it in a defensible location. “In my dungeon, next to my boss.” Quickly, she inscribed a teleportation circle to her locus and stepped through. Then she dropped the Gate on the ground where Lira’s shrine had once floated and rapidly worked to hook it up to her domain mana. Right in the center of where she could deploy the spirit realm teleportation suppression field at a moment’s notice. No uninvited guests this time.
+
+Out over the distant sands in Toria, she circled, swooping lower and lower until she landed her Poison Wyvern upon the banks of the river in the middle of the small, beleaguered patch that was Naia’s remaining domain. Then she teleported, switching places with the Wyvern. She almost forgot her Minion Teleport had advanced meantime, but at the last moment, she reached out and dragged four of her strongest minions with her.
+
+Ali’s stomach lurched from the sudden, disorienting translocation, but she didn’t have time for that. “Naia!” she shouted, as Tol’brekk and Joraa spread out into defensive positions, eyeing the oncoming horde of plants warily. Her Eye of Agnor and Scion of Azryet immediately took to the air. As quickly as she could, she retrieved the other half of the Gate and connected the already-charged space-affinity magicite. In less than thirty seconds, the Gate hummed to life, and the air within the standing ring of marble shimmered as the potent space-bending formation took shape.
+
+Her friends sprang through the Gate portal as soon as the shimmering air clarified, followed immediately by Lyeneru, her wings already crackling with fresh lightning. As the rest of the guild’s adventurers poured through, Mato charged, roaring loudly. He smashed his huge bulk into the oncoming treants, and in seconds, the whole guild was tearing into the horde of plants and beetles like an avenging wave, many with whoops and eagerly shouted battle cries.
+
+“Naia! Where are you?” Ali shouted, switching through her minions’ sight and perceptions, but she couldn’t find the little ooze anywhere.
+
+“Ali-friend?”
+
+She snapped her head around, finding nothing more than the river with a few rocks along its banks. Out of the corner of her eye, one of the rocks shivered, as if made from jelly, and it warped quickly, taking the shape of a small blue ooze.
+
+“Naia! You’re ok!”
+
+“Ali. Your friends are in danger. It’s coming!”
+
+“What?” Ali said. Naia was quivering violently in her efforts to tell her something important, but a stupendous surge of foreign mana ripped her attention away from her friend. She had only an instant to register the unprecedented quantity and density before the ground erupted upward as a cavern the size of the old guild building burst up and out through the sand and into the air. Treants, monsters, guild members, and tons of sand all went flying, but from the center of the rising cavern, mana blazed, an affinity she had never seen before, and everything was drawn toward it.
+
+Fangs as large as trees appeared as the rising cavern widened. Vast, polished black scales as tall as Calen emerged from under the sands, and the giant maw snapped shut with a crash and an earthquake before it fell back toward the ground, splashing beneath sudden piles of sand like a breaching whale returning to the depths.
+
+Just before it vanished, Ali snapped off a last moment Identify.
+
+Obsidian Sandwyrm – Elemental Dragon – level ??? (Earth / Gravity)
+
+Calen stared, stunned by the sheer enormity of the beast as waves of dragon fear washed over him, potent even from this distance. It was as if an entire mountain had erupted from the ground, spewing a fountain of sand in all directions. A deafening crash heralded the snapping shut of the giant maw, and before he could even gasp, Mato was gone.
+
+Obsidian Sandwyrm – Elemental Dragon – level 204 (Earth / Gravity)[Explorer]The Sandwyrm is a monstrous elemental dragon. With its gargantuan size, it is a challenge to pin down using typical tanking strategies. Watch out for trample, crushing, and devastating elemental attacks. This monster appears to be highly resistant to physical damage. Category: World Boss.Threat Level: Raid.Monster Type: Elemental, Dragon.Damage: Physical, Earth, Gravity.Known Abilities: Trample, Crush, Physical Damage Reduction.
+
+The massive head with swept-back spines turned slowly, and the lid of a giant eye glowing with purple and gray mana opened to regard them. Its body, still mostly underground, was covered with dragon-scales of pitch black, adorned with thousands of sparkling minerals and gems, and shiny metal ores. The maw, large enough to bite a town in two, opened, displaying dark, gleaming fangs and an empty obsidian-black gullet shrouded in shadow.
+
+“Mato!” he screamed, but there was no sign of his friend, nor any of the other adventurers who had been caught in the devastating surprise attack.
+
+The maw hinged wider and wider, past anything he would consider even remotely normal, and then the air within shimmered with a strange and powerful magic.
+
+His wings flared, struggling to keep him aloft as down ceased to be the ground and suddenly became the monster’s maw. Rock cracked and fell toward it, trees toppled, and people rolled along the ground, desperately struggling to free themselves from the overwhelming power drawing them toward the terrifying fangs. He fired a couple of volleys of Grappling Shot at several struggling healers and mages and wrapped one of the glowing magical chains twice around his wrist, and hung on for dear life. As he struggled, falling closer and closer, the waves of dread and terror grew rapidly stronger, gripping his heart and digging into the primitive regions of his brain.
+
+And then the dragon breathed.
+
+It began with a rumbling deep within, and suddenly an enormous jet of sand sprayed forth from the dragon’s mouth, and Calen found himself torn free of his chain and buffeted back and forth as he scrambled about like a maddened bat trying to dodge the stream, his wings working overtime. But it didn’t let up in the slightest, filling the air, blasting people hundreds of feet into the air, leaving them badly wounded by the velocity and sheer abrasiveness, sandblasted to within an inch of their lives.
+
+Rapidly, the air grew darker and darker around him, and soon he could see next to nothing within the magical sandstorm. A storm of sand that seemed to hover in the air with oppressive weight and ominous purpose.
+
+Deep within the dark cloud of flying sand, something shimmered. A whirling of sand that stood out as separate, filled with a strange purplish glow. As it grew closer, he saw several similar patches appearing from somewhere up ahead.
+
+Sand Vortex – Elemental – level 83-87 (Earth / Gravity)[Explorer]A whirling elemental of sand and gravity.Category: Summoned MonsterThreat Level: Normal.Monster Type: Elemental.Damage: Earth, Gravity.Known Abilities: --
+
+Right, of course it summons other monsters. Because a world-ending draconic wyrm isn’t enough.
+
+Like a tiny tornado, almost his height, the whirling elemental sandstorm came barreling toward him. Reflexively, he dodged, but he suddenly found himself penned in by three more of them, when the one right in front of him suddenly glowed brighter. The whirling condensed into a small ball, and before he could move, it detonated, spraying sand and rock chips in all directions. Mirage armor protected him from the bulk of the damage, but the shockwave and the thousands of high-speed, sharp rock projectiles left him rattled and bleeding.
+
+The three other vortices suddenly glowed and began rapidly shrinking, and Calen immediately used his teleport blind, switching with one of his unseen motes of light before shooting out decoys and vanishing from sight.
+
+Holy shit, this is a disaster!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

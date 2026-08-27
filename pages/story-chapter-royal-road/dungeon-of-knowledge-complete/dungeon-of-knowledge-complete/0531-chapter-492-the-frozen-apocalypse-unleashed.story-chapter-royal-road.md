@@ -1,0 +1,203 @@
+---
+id: 7c30ea7d-70cf-5bc5-bf91-41494e1451e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 492: The Frozen Apocalypse Unleashed"
+slug: 0531-chapter-492-the-frozen-apocalypse-unleashed
+partOf: dungeon-of-knowledge-complete
+position: 531
+ownLength: 3849
+unit: words
+ownProgress: 3849
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2895675/chapter-492-the-frozen-apocalypse-unleashed"
+royalRoadId: "2895675"
+markedReadAt: "2026-06-29T20:30:18.058Z"
+---
+
+Ali’s heart was still pounding from her desperately close call with Haverron’s Devastation Rush impaling attack. Without her treant boss and Mato’s incredible damage control skill, she would undoubtedly be dead right now, with a high likelihood of her corpse being raised as a horrifying, walking undead abomination to be wielded against her friends.
+
+Instead, she had survived, and Calen was now kiting him, leading him about by the nose, and using his own skill to do it. Both were afflicted by the same translucent incorporeality of the Spirit Realm, zipping back and forth like fox kits playing a deadly game of tag through the raging storm of ice and flame and leaving strangely ethereal vortices and swirls that threaded the boundary between realms.
+
+She forced herself to calm down, to refocus, as she looked on. Any second now…
+
+Haverron suddenly slowed, his dark armor returning once more to the familiar solid opacity of the mortal realm. Shields of ice magic instantly reformed across his broad shoulders and helm with a grinding and creaking of distressed ice.
+
+He did it! Ali grinned at the sight of Calen sliding to a halt and regarding the Death Knight from across the battlefield.
+
+Mana swirled in an amorphous, chaotic blend of ice and death, flaring up within the Death Knight while flame dominated the rest of the field, burning fiercely despite the storm and almost obscuring the small surge within him. Gah! Ali scrambled to respond, cobbling her arcane counter-formation together with a fresh helping of despairing haste, launching it barely completed but… yes, functional!
+
+I’ll take that for the win! Ali could not even pause to wipe her forehead. Later.
+
+Right as the Siphon Life reached completion within his undead limbs, her delicate golden darts tore through the spell construct, ripping it to shreds once more.
+
+Oh, goodness, she thought. She hadn’t realized just how much the significant loss of her perception buff would affect her ability to counter his magic. Where before the formations had been easily picked out against the backdrop of a full-scale battle, now the spells felt indistinct, muddled together, and she felt far slower. She didn’t have a choice, though; she would just have to make it work. Empowered Summoner was on recharge now and would only allow her to switch back to perception in an hour.
+
+“Refresh curses,” she directed, noting that the cat-and-mouse game of tag between Calen and Haverron had pulled much of the undead horde out of position, and some of the curses had failed to proliferate. Probably not enough to cease the roaring contagion of fire, but she didn’t want to take the chance to let it expire. They would be overwhelmed so quickly. She ignored the splintering crash of a stricken skeletal frost dragon, half disintegrated by void magic, plummeting headfirst into the dark stone behind her. Her golden barrier flickered into existence briefly, deflecting the razor-sharp, whirring splinters of shattered dragon bones that zipped past her ears.
+
+A supernova of ice magic ignited deep within the repositioned blizzard; a dense ball compressed to a pinpoint of intense brilliance by the crushing weight of the very domain itself, pulsing with so much constrained power that it overwhelmed all other magic. The temperature, already bitingly cold from the blizzard, suddenly plummeted dramatically, forming spontaneous bursts of ice to crystallize directly from the air. Ali’s breath caught in her throat as ice crystals began to cover her face, her barriers, and drilled their way deep into her bones.
+
+“Elemental Storm!” she screamed, borrowing the telepathy of her Baelok Descriers to pierce the howling ice and deafening explosions. She had been afraid her loss of perception would make it hard to see this spell, but, from the sheer amount of mana the domain was pouring into that compressed ball of ice, she was worried they’d see it all the way back in Myrin’s Keep.
+
+She thrust her hand forward toward the coming frozen apocalypse and summoned a curving wall of golden magic, wide enough to shield the monsters huddled beside her, and as dense as she could make it.
+
+“Time for you guys to earn your keep,” she sent to her troll ice mages. The only response she got was the sudden manifestation of thick walls of ice, one in front of each of the other ranged groups, and one in the middle of the howling blizzard, right beside Haverron. All her minions rushed for the barriers, clustering together behind them for the promise of deliverance. Even her ever-aggressive Carnage Berserker, Tol’brekk, ducked under cover, hunching over in an attempt to shrink his broad shoulders.
+
+Out in the center of the undead horde, two giant void dragons landed heavily, black claws crunching through thick ice. Black shields of void sprang up with sizzling pops to protect her tanks. She just hoped the Void Nullification running through their mana would prove sufficient in the face of a domain skill.
+
+“He’s not letting up,” Calen said, dropping breathlessly down behind her barrier.
+
+“I can keep Mato alive, as long as he’s the only one we need to heal,” Ali answered. It was a bit of a surprise that Haverron kept up his deadly onslaught of blades – especially since monsters like Inferno had frozen in place when using Elemental Storm – but she had prepared for this possibility.
+
+A sudden pulse rippled outward from the intense glowing blue star, warping mana like a ripple through a pond.
+
+Then, it exploded.
+
+A compression wave of force and ice blasted past her barrier, sweeping the battlefield clear of the driving sleet and howling flurries of snow, and snuffing out the raging fires in the briefest fraction of a second. Ice mana, compressed into liquid form by the sheer weight of the explosion, flowed sideways across her barrier in rivulets that formed enormous stalactites growing horizontally out from the edges of her magic, only to snap off and be instantly lost to the howling winds.
+
+Ali’s skin cracked as she trembled, flash frozen by the sudden, incomprehensible temperature drop, but her healers were on top of it, dispensing life-saving buffs and heals. Her barrier rang loudly, and for a fraction of a second, she saw the shattered outline of a skeleton against her golden wall, backlit by the overwhelming blue radiance, before it vanished, lost to the depths of the storm. But she had no time to dwell on that.
+
+You have been afflicted by Mana Saturation.
+
+With gritted teeth and arcane and nature discharging in painful mana-arcs from her body, she willed her mana into Empowered Summoner, pouring power into her minions as fast as she could. But it was not enough. Even with the small percentage of mana reclaimed from her shields, she was facing the deluge of a tidal wave. She forced more and more mana into her skill until she thought her mind would simply rupture from the pressure, but slowly, the mana saturation subsided.
+
+“Heal Mato,” she managed through gritted teeth.
+
+“Yes, Seeker,” the normally quiet restoration shaman said. “As you wish.”
+
+There was a reason she had chosen to bring the pre-evolved restoration shaman to this fight, and it was evident by the intense green glow that shone in her eyes, and the brilliant viridian halo of nature mana wisps spontaneously materializing around her, making her look like she stood in the middle of a tornado of glowing viridian leaves.
+
+Empowered Summoner boosted her minions’ arcane and nature spell power proportional to the mana she spent, and she was spending ungodly amounts of it just trying to shed the excess her barrier was harvesting from the Elemental Storm. For most of her minions, it merely boosted the flat arcane and nature damage they gained from her base Elemental Storm every time they hit something. But for minions whose natural affinity was nature or arcane, it was a vastly different story.
+
+An arcing ribbon of green, thicker than her berserker’s thigh, lanced out over the barrier and across the battlefield, searing afterimages into her retinas, transfixing Mato with a thunderclap of blazing green lightning where he stood alone against the might of the Crypt of Kings and Haverron, The Devastator. His health shimmered in the sight she borrowed from her priests as the vast magic of the domain contented with the superpowered beam of nature-affinity healing her troll shaman wielded. And her little shaman, in her soft robes of green, held back the sheer onslaught of the ravening ice and flickering swords.
+
+Behind her, rising above the shaman, two eye demons appeared, their eyes shedding sparks of searing golden light.
+
+Arcane affinity. And it was her golden arcane style, too.
+
+Both Eyes of Agnor unleashed their power, multiplied more times over than Ali could calculate, and from their peripheral eyes an intense storm of searing golden bolts exploded forth, lofted high into the air, scorching down like glowing meteorites of arcane mana. Ali had never seen arcane bolts exploding on impact before. Each strike staggered the Death Knight, leaving smoking burns peppered across his torso and shoulders, and melting his armor.
+
+Ali summoned her wand to her hand, still furiously channeling the vast torrent of mana, and gave both of them, and her shaman, a dose of Winter’s Desolate Celerity, suddenly accelerating their casting speed.
+
+The irony of using an ice magic buff to attack a boss like Haverron was not lost on her. Across the battlefield, mages, imps, and dragons began to retaliate against the storm, lofting fireballs over barriers to come crashing down upon the brilliant green and blue radiant figures fighting at the epicenter.
+
+“How’d you like that, you dead tin can?” Ali yelled, earning an incredulous look from Calen.
+
+“Elemental Storm!”
+
+Ali’s voice rang in his mind somehow, but with seriously demonic overtones that raised the hackles on his neck, but Survival Instinct did not trigger, at least not for that, and he simply accepted that his resourceful friend had found a new and efficient solution to communicating through the howling storm.
+
+Just then, an intense surge of blue kindled within the heart of the Death Knight. A raging torrent of mana whipped up a vortex of energy, feeding the kernel of cold, hard light that devoured the heat from everything around him.
+
+His domain froze. His fur instantly turned white, becoming brittle and shattering as he moved, and yet the cold clawed at him, seeping deeper and deeper into his bones. He shifted, blocking a powerful cleave with his shoulder and his hide, and the flesh beneath shattered, chunks flying like shards of reddish rock.
+
+He backed up slowly, his paws cracking on the frozen stone, aiming for the heavy wall of ice Ali’s mage had erected behind him where their small melee group had taken cover, but Haverron surged forward to engage him, pressing his attack with a deadly whirling storm of ice blades.
+
+He’s not going to let up? The plan had been for them to all hide behind the ice barrier, waiting out the Elemental Storm, but Haverron, demonstrating virtuoso skill, was somehow able to wield his sword and simultaneously unleash the devastating domain attack.
+
+Mato growled his frustration, hunkering down and blocking again. He was the tank, and if the boss was attacking, he needed to be out here, taking the damage. Hiding behind barriers was only possible when the boss wouldn’t be running around impaling soft targets with his giant sword. With a thought, he directed his tiny Lirasian Sage to hide behind the barrier with the others, letting out a small chuffing sigh of relief when he no longer needed to redirect the damage from it to himself.
+
+Ice continued clawing its way through his muscles, slowing him down, and he missed the next block, taking a deep slash to his flank. The healing magic was still pouring in, but the Elemental Storm was overwhelming, tearing him to pieces as chunks of his frozen flesh flew off, carried away by the howling storm.
+
+“Need a little help, he’s not disengaging,” he sent, directly into Calen’s mind. Unfortunately, there was no way for Calen to respond, so he could only hope his friend would manage to figure something out.
+
+He lashed out with his Swipe, trying to boost his Brutal Restoration healing, but his chilled and rapidly freezing paws moved painfully slowly, easily parried by the master swordsman before him. He saw the Riposte he had provoked with his sluggish attack; he felt the surge of urgency from Survival Instinct, but his body was simply far too slow to respond.
+
+The runic greatsword pierced him through the shoulder, running him through and digging deep into his chest. Two echoes of the sword sliced similarly deeply, a conduit of pain and icy cold that began to freeze him from within.
+
+He staggered, choking on frozen blood.
+
+Haverron kicked him in the chest, ripping the sword from his body with brutal efficiency, weaving the momentum of his draw into another devastating attack. Mato didn’t hesitate, flowing with the surge from his danger sense, he used Last Stand.
+
+But it was his last-ditch attempt at staving off the inevitable. Without Malika and Ali’s melee minions in range, Haverron turned all his floating ice blades upon Mato, and in seconds, the temporary health he had gained from his defensive skill had been ripped from him in a flurry of brutal, icy slashes.
+
+Mato stared at the descending blade, its dark, polished surface reflecting the ridiculous power of the ice storm, but his body was now so riddled with slashes and ice that he struggled to even move at all.
+
+But as he watched his doom descending from above, he suddenly saw a green light reflected in the blade. And then, like the great mother’s divine providence descending from above, a beam of viridian green shot down and impaled his body with a vast potency the likes of which he had never experienced.
+
+Healing. So much healing…
+
+Somehow, his friends had managed to unleash an enormous bolt of nature healing magic which seared through his body, banishing ice and wounds with equal prejudice. Enhanced by the nearly three times multiplier that Last Stand granted him to healing received, his enormous health pool topped off in a fraction of a second.
+
+He gasped from the sudden shock as his wounds vanished, and ice exploded outward from his hide. But he wasn’t one to question providence, nor the resourcefulness of his friends. He roared his challenge at Haverron, his taunt for once failing to attract a dozen skeletons, and he charged forward, his claws lashing out with all his might. The dark trails of void magic flickered, augmented with a yellow-white flame, and his claws bit deep through the armor and the dense undead flesh beneath.
+
+You have gained Azryet’s Favor.
+
+Thanks for the damage!
+
+Yet, somehow, the green beam of life continued to pour down into him with unceasing healing power. So, he struck again, and again, suddenly switching from his heavily defensive strategy to favor powerful attacks that bit deep into the Death Knight.
+
+An enormous ball of glowing white flame descended, detonating heavily between himself and the Death Knight, but while the holy fireball sustained him, the flames flickered with ravenous hunger upon the undead flesh of his adversary.
+
+More fire, he thought, considering asking Ali for it. But it was as if she had heard him anyway, when he glanced up and saw a veritable storm of hellfire, holy fire, arrows, and searing bolts of golden magic descending upon them.
+
+He hunkered down, readying his Critical Block for the next Mortal Cleave.
+
+That was the fourth elemental storm, Calen noted, as the fury of the ice storm beyond the barrier abated, retreating to a mere blizzard.
+
+“How’s he doing?” Calen asked.
+
+“Pretty close now,” Ali said, her brow furrowed in concentration.
+
+Out in the icy winds, the skeleton hordes began to rise once more, replenishing the ranks of undead blasted into oblivion by the devastating magic Haverron had unleashed.
+
+Glowing red and black bolts of magic flickered into the swirling ice, turning skeletons into shambling pyres loaded with Explosive Conflagration and Fire Vulnerability. Calen raised Cinderstrike and began his onslaught, not even bothering to wait for Ali to lower her barrier. Volley after volley, he loosed at them, flying a mere couple of feet off the ground for maximum effect. The shining magical arrows tore through the skeleton army, leaving a rippling wave of explosive power detonating behind them.
+
+All the while, he kept his eyes peeled for any signs that Haverron was coming for him, but this time, his vigilance was unneeded. Deep within the howling storm, magic detonated with a continuous, deafening roar, and the domain of ice suddenly faltered.
+
+“Impossible…”
+
+The Death Knight’s dread voice rang out across the battlefield, seemingly unbothered by the howling winds and crashing explosions, and then, the storm collapsed inward, raining ice down upon the black stone pavement.
+
+Calen’s chime sounded loudly in his mind, and the lines of text appeared like the breaking of the dawn sun.
+
+Your group has defeated Haverron [The Devastator] – Undead Dragonkin – level 215 (Death / Ice).Your group has defeated Skeletal Warrior – Undead – level 65-83 (Ice) x781.Your group has defeated Skeletal Mage – Undead – level 71-92 (Ice) x538.Your group has defeated Frozen Wraith – Undead – level 39-48 (Ice) x124.Your group has defeated Volatile Wraith – Undead – level 42-47 (Death) x287.
+
+“About time,” Ali mumbled.
+
+“You can say that again,” Calen said, agreeing with her sentiment wholeheartedly. He took a deep breath, snapping off a few arrows at the last of the stragglers; skeletons stumbling around still burning with the all-consuming hellfire conflagration. A few isolated detonations of void magic, holy and hellfire, and silence finally returned to the plaza.
+
+The ringing in his ears faded, leaving only the crunching of Mato’s paws upon the thick layers of rime that encrusted everything. “Well, that went a little better,” he said, trying to be nonchalant, but Malika’s raised eyebrow told him just how well that hadn’t landed.
+
+It was true, though, and he agreed with Malika’s unspoken opinion. Haverron, The Devastator, had unquestionably been the hardest monster they had ever faced, bar only the Blind Lich himself. Still, as deadly as he had been, Calen felt a pang of disappointment that the sheer adrenaline rush from stealing the boss’s Devastation Rush and kiting him through the storm, balanced upon the knife-edge of his wits and speed, was now over. He was even beginning to understand Malika and Mato’s love of fighting up close after disintegrating several skeletons with his dagger at the culmination of his stolen Impale attack.
+
+He smiled, dismissing several new situational skill offerings for kiting and ice resistance before turning his attention to his class notifications.
+
+Realm Hunter has reached level 160 (+7).+70 attribute points.Radiant Archery has reached level 90 (+4).Arrows of Brilliance has reached level 81 (+4).Motes of Light has reached level 61 (+2).Explorer has reached level 89 (+5).Blessing of the Dawn has reached level 65 (+3).Eclipse has reached level 43.Eyes of the Archon has reached level 60 (+2).Righteous Fury has reached level 57 (+3).Azrael's Wings has reached level 42 (+2).Mirage Armor has reached level 62 (+3).Cartography has reached level 30.Basic Daggers has reached level 13 (+7).
+
+Ha! Seven to Basic Daggers! It was a skill he barely used, taken under Nendir’s advice as a holdout weapon for when his bow was lost, broken, or otherwise unusable. It had only seen action in this fight because he saw the opportunity to stab a couple of skeletons with Haverron’s Devastation Rush.
+
+But to Calen’s surprise, his chimes continued to sound even as he scanned his more-than-welcome advances, offering an unexpected skill advancement.
+
+Requirements met for Skill advancement. Mentor: Lyeneru Silverleaf.Arrows of Brilliance has surpassed level 80.Dexterity has surpassed 2250.Intelligence has surpassed 1500.Defeated a raid-level threat that can move faster than your arrows.Outran your arrows using a movement skill.Achieved invisibility in combat.Arrows of Brilliance has gained a new enhancement.Blinding FlashMana: Cause an extremely bright flash when your arrow hits, blinding nearby targets. Range: 10 feet.Light, Area, Ranged, IntelligenceMote of LightMana: Attach a Mote of Light to your arrow, fixing it at the destination.Light, Ranged, IntelligenceEclipse ArrowMana: Your arrows are invisible. Light, Ranged, Illusion, IntelligenceLingering BlastMana: Your magical damage is increased, but it is applied over time instead of all at once. Duration: 30 seconds.Light, Ranged, IntelligenceSpeed of LightMana: Arrows conjured from your mana travel instantaneously.Light, Ranged, Haste, DexterityChoose one enhancement.
+
+Eagerly, he read through the offerings for the new one, but his eyes quickly found there were two he’d never seen before. He had already considered and discarded Mote of Light, Lingering Blast, and Blinding Flash, but his skill was now offering both Eclipse Arrow and Speed of Light as possible advancements.
+
+Hmm, invisible arrows. Eclipse arrow would make Ambush trivial against monsters with high visual perception. It was a problem he remembered struggling with, and it seemed this advancement would allow him to extend his stealth invisibility upgrade to his arrows. I wonder if it will let me avoid breaking stealth while shooting? That would be… great.
+
+Speed of Light, on the other hand, seemed far more generally useful – the only drawback being that he could only use it with conjured arrows. So, he couldn’t boost his damage with crafted enchantments. Well, I guess it takes one of my enchantment slots. But instantaneous arrows would be far harder to dodge without an advanced precognition skill, would increase his rate of fire, and allow him to outshoot monsters with skills like Haverron’s Devastation Rush. Additionally, it would not depend on whether the monster could see his arrows or not.
+
+Speed of Light, it is, then, he decided. It seemed he would get far more mileage out of the more reliable and versatile skill, at least in his opinion. He could always take Eclipse Arrow next time.
+
+Over at the far side of the battlefield, a slab of ice shifted, falling with a crash, and a half-crushed skeletal mage rose unsteadily to its feet, immediately conjuring ice magic from glowing bony hands. Well, its one remaining hand.
+
+Convenient, Calen thought, conjuring an arrow to Cinderstrike’s bowstring. He drew and fired, using both Explosive Shot and his new Speed of Light. As he released his bowstring, there was a flash as the arrow connected the monster and his bow with an eye-searing beam of light and a nigh-instantaneous detonation of fire and light.
+
+The monster crumpled onto the icy ground without a second shot, leaving only a pile of broken bones.
+
+You have defeated Skeletal Mage – Undead – level 75 (Ice).
+
+“Not so strong without all your master’s buffs, are you?” he chuckled.
+
+“New skill?” Mato asked.
+
+“Yes, Speed of Light,” he answered. He would need to experiment a little, but his imagination was already swirling with possibilities.
+
+“Ooh, details?” Malika asked. “Wait, let me just find my notebook…”
+
+“Malika!” he mock-snapped, before chuckling, “am I that bad? Don’t answer –”
+
+“Don’t need to.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

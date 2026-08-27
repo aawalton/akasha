@@ -1,0 +1,139 @@
+---
+id: 1b44e76c-7c49-52ea-bb98-7dfbcb9754a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 469: Anvil of the Emberforge"
+slug: 0506-chapter-469-anvil-of-the-emberforge
+partOf: dungeon-of-knowledge-complete
+position: 506
+ownLength: 2629
+unit: words
+ownProgress: 2629
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2829827/chapter-469-anvil-of-the-emberforge"
+royalRoadId: "2829827"
+markedReadAt: "2026-06-29T20:29:24.545Z"
+---
+
+“What do you mean, you don’t know?” Ali demanded, glaring at the ancient, stubborn troll with frustration. “You lived through it, didn’t you?”
+
+She pushed the giant scale-bound draconic tome away from her in frustration, and it bumped into a pile of precariously balanced books, making Ryn squeak as she caught them with a flare of her unique magic.
+
+“Sorry, Ryn,” Ali said. She had been searching for hours through the books Azryet had lent them, but useful information on the ancient wells and tips for how to find them were scarce and tenuous at best.
+
+“No problem,” Ryn offered.
+
+“Aliandra, contrary to what you may think, I’m not being opaque or difficult,” Val’korr said with a rueful smile on his face. “I may have lived through The Breaking, but I think you underestimate just how much damage it wrought upon the lands. The Lich had found some way to open rifts to other realms, unleashing a continent-wide realm break and spilling titanic monsters of incredible power into our realm. In the chaos, he unleashed devastating magic upon the cities and kingdoms that were woefully unprepared to even understand what was happening. Armies of undead marched across the plains like a plague of locusts. Thousands of heroes spent their lives to halt his evil plans, and cast the monsters aside, and the damage wrought by all that concentrated magic left the land unrecognizable.”
+
+“Unrecognizable?” Ali asked. But she had seen the maps, and she knew what he was saying – the familiar shape of the continent she had learned in her youth was nothing like the maps Calen and Ryn had shown her. Even so, it was hard to believe. And the rifts, too? Was he responsible for the rifts she was now guarding?
+
+“The Spine of the World and The Tempest did not exist before The Breaking. Aalion, once a city of light and air perched upon the Thousand Celestial Peaks, was at the epicenter of a cataclysmic World Magic that tore the continent asunder. None can now point at where the Thousand Celestial Peaks once were, let alone find Aalion itself. The Dol Kerriadh mountains were not a peninsula,” Val’korr said. “All I know of the whereabouts of Mi’ir Valdanis is that it used to be about halfway between Aalion and Ciradyl, which might be approximately where the Spine of the World is today, but I wouldn’t bet anything significant on that. If you give me an old map, I can point out where it used to reside.”
+
+“I’ll keep searching, Ali,” Ryn said. “Look, Tiraza gave us a lot of books to start with, but there are many more in her library. I’m sure we’ll find something.”
+
+“Thanks, Ryn,” Ali said. But that still didn’t help them solve the problem. Nathaniel Sunstrider had corrupted the Well of Souls, and she was certain they couldn’t use corrupted water for the elixir. Without figuring out a way to travel back in time till before The Breaking – a task she knew was impossible – there seemed to be no way to find the Well of Eternity, nor gain a vial from the destroyed Well of Divinity.
+
+The worst of it was, she was beginning to take her frustration out on her friends. She knew that wasn’t helping anyone, nor was it their fault, but unless they found a different way, Lira would remain trapped in the cursed acorn forever. Or worse, emerge changed. Ali grimaced, recalling Azryet’s warning.
+
+“Maybe I’ll take a break for a few minutes,” she said, finally admitting she needed to reset. Turning her back on the books for now, she walked over to the tea stand and charged the runes in the teapot with a few points of mana, making the water heat up rapidly, and only when the white steam began rising from the spout, did she measure the tea leaves.
+
+The simple act of following the ritual of brewing Lira’s favorite tea for all of them slowly settled her mind, and the frustration began to dissolve. The impossibility of finding the wells still remained, but somehow, she imagined she could hear the kind and gentle words that Lira would have spoken to her, counselling, understanding, and supportive.
+
+By the time she sat down with a hot cup of aromatic elven tea, her mind had quieted, and she found she could just enjoy the aroma and flavor. She would have approved, she thought, knowing Lira would probably have made the tea for her even before she had noticed her frustration.
+
+Val’korr nodded his thanks and took a sip while Ryn smiled.
+
+From the calm sanctuary of her tea and couch, Ali let her mind roam. Deep below, in the mines, a raid group prepared to face the drake boss she had created to protect the Anvil of the Emberforge. Throughout the sewers, groups of new adventurers awkwardly contended with their first monsters as they muddled their way through understanding teamwork and their skills and abilities. Far away, deep among the frozen peaks of the Fangs of the Frost Wyrm, she shadowed Calen as he searched the desolate, wind-swept ice and rock for signs of the Blind Lich himself.
+
+I’m doing everything I can. I just wish there was more I could do.
+
+Grelda was terrified. It was not often she could honestly say that. But the dragon, a real, bona fide dragon, was enormous, and the waves of flame and fire mana were powerful enough to make her sweat even from the hiding place she shared behind a huge boulder.
+
+She was in a dungeon. A real dungeon. She yelped at the roar and sizzle of the dragon’s flame and the sudden wave of heat, wondering how the bear could even stand being in that much fire. It was hotter than her forge at home.
+
+Suddenly, there was a loud hiss and a thump, followed by cheering.
+
+“It’s clear now,” Thuli said, offering a hand for her to stand. “Let’s show you the anvil. Is there any specific enchantment you wish to learn?”
+
+“Um, ice resistance?” she said, staring at the massive corpse of the dragon and the happy adventurers that were sitting around recovering, or harvesting the dragon’s scales. At Thuli’s raised eyebrows, she said, “Even a Flamebellows needs ice protection enchantments when Southport contends with Death Knights.”
+
+“Oh, hmm… That should be easy,” Thuli said. “Kavé, did you bring that frost-ward shield with you? The repair job?”
+
+“Yes,” the dragonkin apprentice said, producing a shield that seemed to radiate cold even in the heat of this chamber. To Grelda’s practiced eye, the damage to the shield was obvious – but not that difficult to fix.
+
+“Repair this while focusing on the shield with metal sense and the enchantments with mana sight, and the dungeon should be able to teach it to you pretty quickly,” Thuli said, collecting the heavy metal bulwark from his apprentice and offering it to her.
+
+“Oh,” Grelda frowned. “I don’t have mana sight.” It was in part what had led her to this predicament. “I can only see fire mana.” She couldn’t even learn other enchantments from studying items purchased from the auction house. Only fire. All the advantages that came with her specialization would be worthless here.
+
+“No matter,” Thuli said, stepping up on the dais and stopping before a great anvil. “The anvil has you covered. See? Use your Identify.”
+
+The anvil in front of her was enormous – a great big slab of black stone and metal, imbued with thousands of glowing runes. And the sense of power that radiated from the artifact could be felt simply by standing nearby.
+
+With a sense of profound awe, Grelda identified it. Every hair on the back of her neck prickled at once. It’s true!
+
+Anvil of the EmberforgeThe legendary black anvil of Thovir Emberforge. It shows heavy use and appears to have a network of cracks that emit a powerful heat and red glow from within, while delicate runes trace the surface, imbued with power. This anvil has been restored by the Dungeon of Knowledge.Owner: Aliandra Amariel.Requirements: Smithing class. +10 to all Smith skills.+43 to Perception.+50% to Fire resistance.+50% to stamina regeneration.Grants level 41 Metal Sense skill.Grants level 38 Mana Sight skill.Domain Tithe: The Anvil of the Emberforge draws heavily upon the mana of the domain, granting a 50% reduction to the mana cost of Smith skills. Experience earned toward Knowledge and Mastery traits is greatly increased while using the anvil. A portion of this knowledge and experience, and the imprints for items crafted and repaired upon the anvil, is tithed to the owner. Quality: Legendary, Unique.Anvil – Artifact
+
+“How do I use it?” she asked, simply stunned to be standing before the legendary anvil of Thovir Emberforge, all doubts about its authenticity banished in an instant.
+
+“Make something,” Thuli said, his thick beard failing to hide a smile. Grelda heard reverence in his voice and something inside of her chest seemed to unclench. “I recommend making your best work and using Metal Sense and Mana Sight continuously. It will help the anvil get to know ya.”
+
+“This one thinks that’s not how it works at all, Master,” Kavé said. “The anvil improves your perception and connects knowledge you already have in new ways, yielding new insights.”
+
+“How did ya learn to make those dungeon-dropped shields then?” Thuli countered.
+
+The dragonkin just fell silent.
+
+“As ya can see, we don’t fully know how it works,” Thuli admitted with a grin. “But it does.”
+
+“You can learn to make dungeon drops?” Grelda said. If that were true, then the value of this shrine was exponentially higher than even she had believed.
+
+“Oh yes,” Thuli said. “The easiest way is to buy something the adventurers dropped from the guild store and then repair it here.”
+
+Grelda approached the anvil with far more questions than she had originally started with, but the sight of an anvil and a forge before her steadied her mind.
+
+Am I really going to do this?
+
+It was her family’s secret technique, but she was its sole inheritor. If she went out of business, her techniques would be worthless. Perhaps it’s time to take a risk, she thought. And finally, a sense of peace settled within her heart as she recalled her grandfather telling her that blacksmithing was all about continuously learning. And how, once you stopped, you may as well hang up your hammer.
+
+With her heart finally at ease, she pulled out several steel ingots, slipped on the mana sight and metal sense of the anvil, and began to forge a shield. Time vanished for her, leaving only the strangely full sense of mana, heat, and the familiar ringing of the forge as she slipped into her blacksmith trance, pouring her mana, stamina, heart, and soul into the piece. She crafted her shield with the best of her knowledge, inscribing first the mana for her fire resistance enchantment, giving everything to make it the best she knew how. Then she inscribed Flame Wreath, studying the way her enchantment appeared under full mana sight. Then she rounded it out with strength and vitality – not the highest versions the shield could take – for she had never found the money to learn those. But as she crafted the enchantments, her mind twisted, shifting strangely as if unlocking hidden knowledge from behind concealed doors, imported from elsewhere – almost as if the spirit of Thovir were speaking to her through the anvil every time her hammer came down or her mana infused her work.
+
+Finally, she looked up, finding both Thuli and Kavé studying her work with interest.
+
+Flame Bulwark of Resistance – level 73A Fireforged steel bulwark suitable for the discerning tank. Perfect for blocking dragon flame or inflicting fire damage, this shield is enchanted with Flame Wreath and a high-level fire resistance enchantment. Armor: 525Block Chance: +30% (Blocked attacks cannot cause critical damage.)+615 Fire Resistance.+46 Strength.+36 Vitality.Flame Wreath (this shield is wreathed with flame, retaliating with Fire damage against the attacker on every block).Requirements: Strength 256.Created by Grelda Flamebellows in the Dungeon of Knowledge.Off Hand – Shield – Fireforged Steel.Blacksmith’s Precision has reached level 37.Imbued Enchanting has reached level 42 (+2).You have learned the Enchantment: Strength V (Armor).
+
+Strength… five? Wow!
+
+She stared speechless at her piece, but the forty-six-strength enchantment refused to go away. This is… impossible… She had dreamed of learning this enchantment, but her savings were ever eroded by her need to pay the bills, hunt for commissions, and in the end, she had never been able to afford to purchase the instruction or the books she required to learn it. But here it was, on a piece proudly holding her mana signature, and a notification to prove it.
+
+“Your work is beautiful,” Kavé nodded.
+
+“Aye, she is a master crafter, one who cares about the old ways and doing things right,” Thuli said, speaking to his apprentice. “Kavé, you will learn this Flame Wreath. I want you to be able to make it.”
+
+Did I just give away my skill for a strength enchantment? Grelda felt a sinking feeling in the pit of her stomach. Strength was an incredibly sought-after enchantment, but was it really worth her unique skill?
+
+“But first, we should see how much Grelda can learn from the anvil in exchange for her gift,” Thuli said, and grinning, he pulled out several weapons and armor pieces, including the ice resistance shield. “Here, repair these on the anvil.”
+
+Oh! Oh, I’m going to enjoy this! She squared up her shoulders. “Alright!”
+
+***
+
+Grelda mopped the sweat from her brow, her mind reeling from the experience. It was like a drug – a very powerful drug indeed – and she no longer had any regrets about taking the risk.
+
+You have learned the Enchantment: Strength V (Weapon).You have learned the Enchantment: Endurance V (Armor).You have learned the Enchantment: Sword Mastery (1).You have learned the Enchantment: Double Strike (Weapon).You have learned the Enchantment: Ice Resistance I-IV (Armor).You have learned the Enchantment: Death Resistance I-III (Armor).You have learned the Enchantment: Added Ice Damage I (Weapon).You can enchant a fifth enchantment onto shields and armor.You have learned to forge Eimuuran Steel. You have learned to forge Blood Steel.
+
+And these were just the enchantments and metals she had learned. Her blacksmithing skills had all skyrocketed under the influence of the Anvil and its tithe enchantment. She had mentioned in passing that she wanted enchantments that could help equip the forces fighting the Death Knights, and the adventurers that had come to kill the dragon for them had immediately offered suggestions and items to try out on the anvil. She had hoped for ice resistance, but nobody back home even knew about death resistance.
+
+And the enchantment to grant one skill level to all Sword Mastery skills was going to single-handedly change her entire business.
+
+“How can I ever thank you?” Grelda asked.
+
+“You already taught me something new,” Thuli said.
+
+“What about her? This… Aliandra Amariel,” she said, mouthing the unfamiliar name carefully. The anvil listed her as the owner.
+
+“I’m sure she will be happy with what she learned from you,” Thuli said. “But if you come across something interesting in the future, she would love it if you brought it here and taught it to the anvil. And maybe collect whatever new tricks we’ve learned here.”
+
+“I can do that,” Grelda said. She certainly planned to return, and regularly. As soon as she leveled up, in fact. And she would most certainly be keeping an eye on the auction house for enchantments she thought would be valuable. I should tell Dradur and Yair, she thought, knowing her friends would most certainly want to learn here, too.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

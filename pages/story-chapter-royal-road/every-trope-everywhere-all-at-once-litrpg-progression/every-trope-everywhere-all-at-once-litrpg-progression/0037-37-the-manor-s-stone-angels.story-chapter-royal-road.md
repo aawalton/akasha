@@ -1,0 +1,253 @@
+---
+id: aa13f6c0-d99a-595d-9112-3f2c58274a82
+page-type-slug: story-chapter-royal-road
+title: "37 - The Manor's Stone Angels"
+slug: 0037-37-the-manor-s-stone-angels
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 37
+ownLength: 1789
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3499133/37-the-manors-stone-angels"
+royalRoadId: "3499133"
+---
+
+I had one of three reactions after the stone angel gave me the scare of my life.
+
+Did I wet myself?
+
+Did I stain my pants brown?
+
+Or did I pass out?
+
+…
+
+Well, it was none of those. Instead, I grabbed Reina and threw her at the stone angel.
+
+“Gah!” she cried as she was forced to hug the monster. It didn’t move from her touch.
+
+“Don’t blink! I’m telling you right now Reina, we have to time our blinks together!”
+
+She looked at me. “Why did you—”
+
+“What the hell are you doing?! Keep your eyes on it!”
+
+“Why are you yelling at me?! First you tell me not to blink, and now I can’t even take my eyes off it?!”
+
+I forced myself to take a breath. “Okay, okay, calm down. Let’s calm down.”
+
+“You’re the one that’s not calm!”
+
+I held Reina’s head and gently tilted it toward the angel.
+
+“It moves when we’re not looking at it,” I explained softly. “If at least one of us looks at the angel, it can’t move. That also means that we cannot, under any circumstances, blink at the same time. They’re faster than any statue monster we’ve seen so far.”
+
+I looked at it, casting [INSPECT].
+
+[MONSTER: MANOR’S STONE ANGEL]
+
+Level: 31
+
+HP: 200/200
+
+Description:
+
+Unlike ordinary Stone Angels, this variation remains perfectly motionless until the manor’s doorbell is rung, disguising themselves as harmless decorations among the other statues. Their mouths conceal rows of jagged stone teeth, capable of tearing through flesh and armor alike.
+
+Assessment:
+
+Maintaining visual contact is mandatory at all times. Coordinating blinks between allies is highly recommended, as the angels may reposition or attack when out of sight. They are capable of moving at impossible speeds. These variations of Stone Angels are completely invulnerable while stationary on their original pedestals, but become vulnerable once they abandon their positions. Do not assume safety simply because an angel has stopped moving. If one disappears from its original location, it is already hunting you.
+
+They were invulnerable until the doorbell was pressed? That explained how they survived the Divine Fireball’s explosion.
+
+“Listen to me, Reina. We have to count down before blinking, alright?”
+
+She nodded.
+
+“I think there are about eight of them in total,” I continued, looking around after making sure Reina had her eyes on the one in front of us.
+
+“But where are they?” she asked.
+
+“That’s what I’m trying to figure out.”
+
+The last thing I wanted was for this dungeon to change genres and become a horror dungeon. These angels looked like they wanted to rip our limbs off, which sounded way too graphic for my liking.
+
+As I scanned the courtyard, timing my blinks with Reina, I heard stone scraping to our side. I turned.
+
+Another angel appeared.
+
+“AGH!” I cried. “God, I hate these guys!”
+
+Reina backed off to the front door, standing beside me. “Another one?! What do we do now?”
+
+Then, another one appeared on our side, making yet another loud scraping sound. Then another one. Our heads kept turning to each noise, over and over again until we were surrounded by all eight angels in front of the manor.
+
+My eyes grew teary.
+
+“I’m sorry, Reina,” I said, calling my [INVENTORY] and pulling out Dawn Sunderer. I pointed it at myself. “You’re on your own here. I’m using a revive to get out of here. Good luck.”
+
+She kept her eyes on the angels, shaking me.
+
+“Wait, stop, Allene! What are we so scared of? We’ve got weapons.”
+
+Ah.
+
+I looked at the divine sword in my hand.
+
+She was right. This was a fantasy world. A fantasy world. I’ve got a big, glowy sword in my hand and all sorts of magic at my disposal. Why was I even afraid? These guys are just like any other monsters.
+
+I swung my sword wide, chopping off four angel heads at once. Killing them off this easily was suspicious, so I inspected them. To my surprise, their HP had actually dropped to zero.
+
+I did the same thing to the last four. It was the same result.
+
+[TROPE COMPLETED: THE ANGELS WHO WEEP]
+
+[REWARD: Pending…]
+
+[TROPE COMPLETED: IT’S NOT HORROR ANYMORE WITH A WEAPON]
+
+[REWARD: Pending…]
+
+“That was kind of underwhelming,” Reina said. “They’re not as scary as I thought.”
+
+“Good,” I replied. “I never want to fight those things again. I don’t know why, but they really give me the creeps.”
+
+Just like the rest of the statues we defeated earlier, the eight angels dropped eight Stone Key Fragments. I picked them up, putting them in my [INVENTORY].
+
+“That makes twenty-eight,” I said. “We’re still missing two.”
+
+Along the courtyard’s path were a few more statues. We double-checked each one, making sure none of them were monsters. They were all just normal statues in the end.
+
+“Maybe there’s more behind the manor?” Reina asked. “I’ll go take a look right now.”
+
+She sprinted off.
+
+“Alright,” I muttered to myself, turning. “Where should I look next—”
+
+“I’m back,” Reina said.
+
+I looked at her.
+
+“What? Are you serious? That was quick.”
+
+She shook her head. “No, I just realized something halfway through while I was running. If each of these stone monsters drop a fragment whenever they die, what about the two gargoyles we defeated near the gate?”
+
+I scratched my head. Since it came from Reina, my first instinct was to doubt her words right away. I don’t mean to be so rude or anything, but could you blame me?
+
+“Hm,” I said. “You might be right.”
+
+We walked over to the gate, scanning the area where the gargoyles had died. Sure enough, we noticed two small glints on the ground. I picked them up.
+
+[TROPE COMPLETED: FORGETTING A MONSTER DROP]
+
+Description: Always double-check for anything shiny after killing a monster. You wouldn’t want to accidentally leave something important behind and spend hours stuck on a simple puzzle, would you?
+
+[REWARD: Pending…]
+
+…
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- NOT JUST DECORATIONS (COMPLETED)
+
+- FRIENDLY FIRE (COMPLETED)
+
+- THE ANGELS WHO WEEP (COMPLETED)
+
+- IT’S NOT HORROR ANYMORE WITH A WEAPON (COMPLETED)
+
+- FORGETTING A MONSTER DROP (COMPLETED)
+
+[CONSOLIDATING REWARDS…]
+
+[REWARD: +4 LEVELS]
+
+[123 → 127]
+
+Woah. I haven’t gained that many Levels since the first time I woke up in this world. Back then, I gained over a dozen in a span of minutes after completing several tropes back to back. I guess the System was just trying to give me a headstart back then. If they had kept up the same pace until now, I’d likely be Level 200 already.
+
+Of course, I don’t see a problem with that. As the protagonist—and supposedly an overpowered one—I deserved to be Level 200, but I guess the System disagrees.
+
+Oh well.
+
+I opened my [INVENTORY] and pulled out the remaining stone shards, placing all thirty of them on the ground. Based on the item description, it should turn into some kind of key if we put them all together. But how do we do that? Do we need a crafting table?
+
+Actually, no, that wouldn’t work. Thirty shards wouldn’t fit in a tiny three-by-three square.
+
+…
+
+You guys get the reference, right?
+
+…
+
+Anyways, before I could come up with another plan, the shards began to glow, rising into the air and combining together into one. The light then dimmed, revealing a floating stone key.
+
+I grabbed it. It was a lot smaller than the thirty stone shards, but whatever. We don’t need too much logic for these kinds of puzzles.
+
+“That’s for the front door?” Reina asked.
+
+“Yup.”
+
+We headed back to the manor’s entrance. Before putting the key in, I looked back. After everything that has happened so far, I was awfully paranoid. The stone angels were the worst out of the bunch. But not just that—the super creepy trope was still in progress.
+
+[TROPE IN PROGRESS: SOMEONE’S WATCHING]
+
+Status: Incomplete.
+
+Completion criteria: Find out who’s watching.
+
+Ugh. I was starting to hate this dungeon.
+
+I put the key into the keyhole and turned, unlocking the front door. Before opening it, I turned to Reina.
+
+“We need to make some rules before we go in,” I said. “No casting Fireball, and no throwing any exploding talismans. We’ll die if we use any of those inside the building, especially since I can’t cast barrier magic on more than one person at a time. I also can’t hold it up for too long.”
+
+I put out a hand, gesturing for her to give back the pouch of talismans. She did just that, and I stuffed it into my [INVENTORY].
+
+“Then what should I do?” she asked. “The spear’s broken, and you’re using the sword.”
+
+I shook my head, handing Dawn Sunderer back to her. “You can take it back. I should still be able to cast wind magic inside.”
+
+But still, fighting inside a cramped manor with magic alone could be dangerous for me.
+
+I reached into my [INVENTORY], pulling out a familiar weapon that I’d honestly forgotten about until now.
+
+[ITEM: Stick]
+
+Rarity: Rare
+
+Description:
+
+A knockback stick.
+
+Effects:
+
+- Deals negligible damage
+
+- Applies extreme knockback on contact
+
+- Has no effect against bosses and shatters immediately upon contact with them
+
+Note: Sometimes, all you need is a good push.
+
+As long as I don’t accidentally use it on a boss, I’ll be able to use it on anything else. Normal monsters should be fine. Sending them crashing through the walls would be fatal for them, yet an absolutely hilarious sight for me.
+
+Reina looked at the sword in her hand. “But I want to teach you how to use a sword,” she said.
+
+I shook my head. “We could do that another time. The others are depending on us to find the lever as soon as possible, and they’re working hard to find the other levers on their end.”
+
+At least, that was probably true for Meriel. I wouldn’t be too surprised if Kaelor and Talon were doing something else completely, but I’m sure they’ll find their lever in the end.
+
+“There’s no better time than now,” Reina argued. “Remember what Talon said about the next part of this dungeon? One party had to fly through a pitch-black sky while another had to deal with gravity constantly switching on them. We don’t know what to expect next. There’s no better time than now. I’ll make it fun for you, I promise!”
+
+I sighed. “You really want to teach me that badly?”
+
+She nodded enthusiastically.
+
+“Fine.”
+
+Just like that, we exchanged weapons.
+
+“Please use the knockback stick responsibly,” I said as I pulled open the front door. “Don’t accidentally hit me with it.”
+
+“Of course!”

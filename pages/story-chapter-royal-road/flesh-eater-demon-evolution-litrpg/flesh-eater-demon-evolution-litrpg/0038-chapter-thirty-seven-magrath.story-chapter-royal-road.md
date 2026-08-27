@@ -1,0 +1,183 @@
+---
+id: f1acbd73-8776-57fb-bcbf-f7db8d4724be
+page-type-slug: story-chapter-royal-road
+title: "Chapter Thirty-Seven: Magrath"
+slug: 0038-chapter-thirty-seven-magrath
+partOf: flesh-eater-demon-evolution-litrpg
+position: 38
+ownLength: 3221
+unit: words
+publishedAt: 2025-11-01
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2723759/chapter-thirty-seven-magrath"
+royalRoadId: "2723759"
+---
+
+Despite Pyre’s readiness to see the city and this supposedly extremely well-guarded manor, they couldn’t actually leave right away.
+
+Mostly because, while the dirt trick had been good in Winrow for temporarily masking the scent of blood, it turned out that leaving bloodstained, dirt-caked clothes stuffed at the bottom of a bag tended to result in them smelling. Strongly. To quote Callan, “Any civilized society would chase you out if you walked in smelling like that.”
+
+So, their first order of business was to find a stream. There ended up being one fairly close by, and it wasn’t too difficult to drop the clothes in and let some of the grime wash off in the waves. Considering how quickly the color of the water turned dark, Pyre figured the ghost had probably been right in this case. Honestly, she was mostly surprised that he could still smell things at all, incorporeal as he was.
+
+Now, Pyre was waiting for the clothes to finish drying in the sun. It was a decently warm day, so it shouldn’t take too long with them splayed out in the grassy clearing. In the meantime, she listened to Callan recount his previous night in Magrath.
+
+“—and there’s a lot of people, even at night,” the ghost was saying. His brows furrowed. “It’s probably going to be really crowded in the daytime.”
+
+“That’s why I’ve got a disguise,” Pyre said, completely unconcerned. If anything, the city having a higher population was probably a good thing for her—she wouldn’t stick out as much. When there were so many folks around, she figured at least some of them had to be even more visibly weird and suspicious than she was.
+
+Callan frowned. “Maybe it won’t be a problem for you, but I’ve only got ten more minutes of full corporeality today.”
+
+“I mean, you could just tell me where the manor is and wait here.”
+
+“Absolutely not.”
+
+Pyre snorted. They’d had the same “argument,” if you could call it that, a few times in the past hour. Apparently the ghost was convinced that leaving the demon to her own devices in the middle of a city was a bad idea. Not because he thought she’d randomly slaughter someone, but because he was certain she’d be found out.
+
+Personally, Pyre thought she’d done a pretty damn good job of blending in in Winrow, considering the circumstances, but ah well. There was no convincing the ghost once he had his mind set on something.
+
+“If you just stick by me, it should be fine,” Pyre said. “I can touch you, so I’ll shield you from the crowds or whatever. You might not need to go corporeal at all.”
+
+Callan looked dubious, but he nodded slowly. It wasn’t like they had a better option—other than the ghost not coming along at all, and that clearly wasn’t happening.
+
+Pyre poked the splayed-out cloak. It was still a little damp in some spots, but she figured it was good enough. [Flesh Sculpting] was ready and off cooldown, so she began growing her skeleton at a rapid pace while activating the skill. Usually she grew the bones first, then sculpted her flesh, but now that [Skeletal Recall] made the first part almost instantaneous, she wanted to see if she could do both at the same time.
+
+Callan yelped and quickly ducked behind a tree, much to the demon’s amusement. She finished forming the flesh around her fingers, then sculpted out her nose and reformed her eyes and mouth to look like human ones. Next was her hair, and finally she focused until she’d absorbed her silver horns back into her skull.
+
+There. That had to be a record speed for her. Or mostly, anyway.
+
+It turned out she’d forgotten about the whole “too much flesh to fit on a skeleton” issue. She actually had even more extra flesh now that her constitution was higher, but it looked like she could condense it down more as well thanks to her increased [Amorphous] and [Flesh Sculpting] levels. The two things ended up canceling each other out, and she had just slightly more flesh leftover now than she had the first time around, even with maximum muscle density.
+
+The demon was about to make an extra flesh backpack like she had last time, but she paused. She pulled up her stat screen again and squinted at her subtrait shards—specifically [Autotomy].
+
+Honestly, she wasn’t totally sure what that word meant. But somewhere in the recesses of her scattered memories, she thought it might help her current situation. Might as well try. She only needed one more subtrait shard for it anyway.
+
+With that in mind, the demon promptly peered down at her surroundings, located a nearby spider, and raised her hand over it. In a flash, she grew a mouth on her palm and devoured the creature before reabsorbing the mouth again, leaving only smooth skin behind. The whole process was quite seamless, if she did say so herself.
+
+[You have devoured (1) Forest Spider Lvl 3][Experience earned!]
+
+[You have gained (1) [Autotomy] subtrait shard]
+
+[You have gained (1) [Venom] subtrait shard]
+
+[You have gained (1) [Vibration Sense] subtrait shard]
+
+[Required amount of [Autotomy] subtrait shards collected][Apply subtrait shards to [Amorphous] trait?]
+
+[Required amount of [Vibration Sense] subtrait shards collected][Apply subtrait shards to [Amorphous] trait?]
+
+Not bad at all for a level 3 spider that had taken two seconds to digest. Pyre quickly applied the subtraits, then pulled up their descriptions.
+
+[Vibration Sense] was interesting in the sense that the demon was pretty sure she’d been feeling vibrations completely fine already up to this point. Apparently this subtrait just turned that up to eleven.
+
+The demon took a step forward and felt a slight tremor in the earth as she moved. She paused. It was hard to explain, but some part of her could just feel a difference between the random vibrations she sensed. Like she could pick up on their different frequencies and shit. It was a pretty wild experience, to be honest, and one she’d have to get used to if she ever wanted to use the subtrait effectively. As of right now, she could feel the difference between vibrations, but she couldn’t figure out what those differences actually signified about the object and its distance from her. It was way less intuitive than thermal vision had been.
+
+Pyre seriously doubted she’d gain all that knowledge in a day, so for now, she made a mental note to test her new perception out later and instead pulled up the description for [Autotomy].
+
+Subtrait: AutotomyAllows user to willingly detach parts of their body. Once detached, those body parts become non-functioning and cannot be reattached. Missing sections that have been removed via this subtrait will regenerate as if they were externally received wounds.Main Trait: [Amorphous]
+
+Bingo. It looked like her hazy old memories had come through after all. The fact that she had to regenerate those sections was a little annoying, but it sounded like this subtrait was mostly useful for escaping out of situations where she might be restrained. And, of course, for removing some extra flesh that might make her disguise less convincing.
+
+After some consideration, Pyre decided to still leave a little extra flesh gathered around her back. The fact that her flesh composition was pretty much at maximum muscle density right now meant she could convert to a higher fat percentage for more volume if she needed to grow an extra appendage or something, but she still wanted to keep some extra flesh on top of that just in case. So, after forming a little mass of flesh along her back, she focused on the subtrait and the bit of flesh remaining.
+
+In less than a second, the excess flesh plopped down to the ground in a motionless heap. She could practically hear the imaginary splat sound.
+
+Pyre raised an eyebrow and kicked at the flesh. It jiggled a little, but that was it. Well then. That was way easier to do than she’d thought, and she’d barely felt anything. The area the extra flesh had been detached from wasn’t melting at all like it would with a wound, and the demon could even feel it starting to regenerate. She decided to temporarily pause her [Regeneration] subtrait, just to make sure the detached section didn’t grow back while she was still in Magrath or something. That would be hard to explain.
+
+Satisfied, Pyre elected to grow an additional eye with thermal vision on her back, then reached down to put on her stolen clothes. Because of the thermal vision, that third eye could sort of see through things, which was better than not being able to see behind her at all. She did make sure her two “main” eyes on her face both had darkvision, though.
+
+After a few final adjustments, the demon glanced down at her reflection in the stream. Yep, she looked pretty damn human. Her face was maybe still a little uncanny, but in a human way and not in a “that’s obviously a monster in disguise” way.
+
+Satisfied, Pyre reached into her bag to grab a hair tie and pulled her hair into a low ponytail at the nape of her neck. She then grabbed the silver cuff earring from Pax and clipped it on. Couldn’t forget that.
+
+“Alright, kid, you can come out now.”
+
+A few moments later, the ghost peered out from behind a tree. He blinked. “You look… human.”
+
+“Yeah, that’s kind of the point,” Pyre said in amusement.
+
+Callan slid fully back into the clearing, only to stop abruptly when his eyes landed on the mound of flesh lying in the grass.
+
+“What the fuck is that?”
+
+“Flesh.”
+
+The ghost squinted at the demon. “Did you… cut it off?”
+
+“Nah, I’ve got a new subtrait. It lets me detach body parts.” She grinned and raised an arm. “Handshake?”
+
+Callan seemed to sense where this was going and very firmly shook his head. Pyre dropped her arm. Ah well, she could try the good old detach-the-arm-during-a-handshake trick some other time.
+
+“You’re still really tall,” Callan observed, which was true. Since Pyre had just corrected her old skeleton, she still had the same build and height as last time. She was more used to it anyway; it had taken her a bit to adjust to walking the first time around, and she really didn’t feel like going through that again for the sake of making her skeleton smaller or whatever. Plus, she liked being tall. She was tall as a demon, and she was damn well going to be tall as a human too.
+
+She waved dismissively. “Eh, it worked in Winrow. Anyway, we should head to the city now. I’ve got four hours before [Flesh Sculpting] wears off.” She grabbed her bag, yanked her cloak closer, then turned towards the city.
+
+“Wait!” Callan blurted. “You can’t just leave that there.”
+
+Pyre glanced back and realized the ghost was pointing at the pile of flesh. Ah, right, that might look a little suspicious if someone ran into it. There weren’t a lot of options for hiding it, though.
+
+The demon kicked the mound again, and it was noticeably softer than before. She squinted. If she looked closely, the detached flesh was starting to melt into that familiar grey substance, same as the flesh the chimera had bitten off had. It looked like the process took longer when the detaching was on purpose, but it was still happening.
+
+With that in mind, Pyre made the executive decision to chuck the mound of flesh into the stream, where it would eventually melt into the water. She could even see bits of grey rising up to the surface, so it seemed to be working. From a distance, it could easily be mistaken as odd dirt or maybe a weirdly shaped rock, so it wouldn’t attract much attention while it dissolved.
+
+“Okay, that’s that.”
+
+Callan looked vaguely grossed out, but the flesh was melting fast enough that this was technically not a terrible idea, so he just shook his head and turned towards the city.
+
+It was about time, too. Pyre was ready to see Magrath and the manor for herself.
+
+It turned out Callan’s descriptions of the city hadn’t been an exaggeration. The place was positively crammed with people roaming up and down the winding stone streets, and Pyre had been correct that it was easier to blend into the crowds here.
+
+Oh, she still got some odd looks here and there. Her height made her stand out even among the throngs of people, but unlike in Winrow, the people here seemed to think it was rude to stare for too long and mostly resorted to a few occasional quick glances. She got through the gates without trouble, and that was plenty for her.
+
+Her height and apparently intimidating build did mean people gave her a bit more space when walking, which was good, otherwise someone definitely would’ve crashed into Callan by now. The ghost kept inching closer and closer to the demon every time another carriage appeared or another group of people walked past. If he still had a solid body, his blood pressure would probably be off the charts. Pyre did have to yank him out of the way of a few kids playing tag who nearly crashed through the ghost, but so far, they’d avoided discovery.
+
+“Okay, you said the manor’s northeast, right?”
+
+Callan nodded. “It’s right at the edge of the city,” he explained. “By the mountains.”
+
+Pyre nodded and turned the next corner, landing on a wider road that climbed uphill. The Gravestones were indeed a looming presence behind Magrath, but the people here seemed completely used to it. She was curious about those arches and stuff built into the mountainside, though. They looked important. Doubly so since she could see little carved “veins” in the stone that seemed to have ichor in them. They almost looked like pipes, except they carried ichor and not water to the rest of the city.
+
+“Awful lot of soldiers around,” Pyre observed as they walked. She saw something red in her back eye and casually yanked Callan out of the way just before a dog bounded past. She was getting a lot of use out of her thermal vision. Vibration sense, too, or she would be if she was better at distinguishing vibration frequencies. There was so much stuff going on in the city that everything just felt like one big mess of tremors right now.
+
+Callan mumbled a thanks and began walking-floating even more carefully. “There’s a military base in Magrath,” he explained. “A lot of soldiers get trained here, then sent to the front. I think the guards also train there.”
+
+That made sense. It was also another reason to avoid discovery. Having an entire base of soldiers on their ass might not end well.
+
+Pyre turned down another road, and the street widened into what looked like the city square. Smooth stones lined the area, and she could see a number of stalls and street vendors along the edges of the square. A few people sat on benches, chatting or watching passersby, bushes and flowers adding pops of color to the area. In the very center of the space stood a large marble fountain that shone in the sunlight, and a number of people sat at tables near it. Below, etched into the ground, thin streams of ichor formed curling patterns under them. The demon whistled.
+
+“Damn, this place really is packed.” She glanced to the side.
+
+One of the streets branching off from the square led to the manor, and by now she was close enough to really see its size. While this part of the city was dense, the buildings abruptly stopped there, giving way to a lush lawn leading up to the manor itself. It looked quite picturesque, bordered by mountains and forest. And, of course, there were the distinctive silhouettes of guards all around the property.
+
+The demon moved closer, but she didn’t actually step onto the street leading to the manor. Mostly because there were a fuck ton of guards there, too.
+
+In fact, if she peered between the buildings around the square, she thought she could see the military base Callan had been referring to just west of the Bellhein property. At least, that’s what she assumed it was. The giant stone gates, flapping flags, and huge interior complete with its own separate sections of buildings would look a little excessive if it was anything else. Which meant the military base was right next to the manor they were trying to break into.
+
+“Yeah, I’m starting to see the problem.”
+
+Callan grunted in agreement. “It’s not just that. See those ichor lines in the street?”
+
+Pyre’s eyes moved downwards. Sure enough, the little ichor streams in the square continued down the road to the manor in deliberate patterns. If she squinted, she thought she could see some of that glowing silver lining the walls of the manor itself. There were even spheres placed around the building that she’d thought were decorations at first, but on a second glance, they also looked like they held ichor.
+
+“Those the wards you were talking about?”
+
+“Sort of? The ichor powers them,” Callan explained, frowning. His voice had dropped to a mutter. Thankfully, there were enough people in the square and enough noise that no one was paying them attention. “There’s magic flowing all around the manor. If you try to break one ward, it triggers another one. I’ve never seen this many alarm and barrier spells stacked together like this before. Some of them’re even connected directly to the garrison!”
+
+“Basically there’s no way to break in without having every guard in the city after you.”
+
+The ghost nodded solemnly. “Pretty much, yeah.” His brows furrowed. “I know the horn is in there somewhere. Maybe if it was moved out of the manor, but I don’t know how we’d get the family to do that,” he muttered, rapidly running through various plans in his head.
+
+Pyre’s attention, however, had shifted to the wooden notice board standing right by the fountain. There were a fuck ton of papers pinned to it, ranging from local news to missing pets to advertisements to bounties and random job offers. She stepped closer, Callan still mumbling behind her.
+
+“—maybe we could convince them to sell the horn, and then we could get it while it’s being transported. I could mess with the sale records, maybe make it look like the horn is fake so they want to get rid of it, but it’d be hard to make it look authentic—”
+
+“I know how we’re getting in.”
+
+Callan blinked, abruptly cut off from his rambling. He glanced up.
+
+In front of him, Pyre had ripped a page off from the notice board, which she now held up to the ghost with a grin.
+
+JOIN THE FIGHT!
+
+Generously sponsored by the Bellhein family, the garrison is offering free training and housing for prospective cadets who pass our qualification exam. We welcome all who have the courage and will to stand up to the Tavrell Empire. Together, we will defend our nation.
+
+Please view the back of this page for more information.

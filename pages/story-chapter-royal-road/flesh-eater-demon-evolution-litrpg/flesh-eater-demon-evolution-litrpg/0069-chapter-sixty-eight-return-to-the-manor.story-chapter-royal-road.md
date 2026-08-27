@@ -1,0 +1,157 @@
+---
+id: f906ebbe-3984-57d7-ae57-cc53594daa22
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Eight: Return to the Manor"
+slug: 0069-chapter-sixty-eight-return-to-the-manor
+partOf: flesh-eater-demon-evolution-litrpg
+position: 69
+ownLength: 2635
+unit: words
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3093567/chapter-sixty-eight-return-to-the-manor"
+royalRoadId: "3093567"
+---
+
+The forest leaves rustled around him. Callan looked around warily, carefully floating between the dark trees. It still felt odd to be able to see in the dark. Everything looked like it was illuminated with an extra glow, though the details and colors were noticeably more faded than they were during the daytime. He shook his head. Right now, at least, his darkvision was coming in handy.
+
+The ghost turned, floating past a large fallen tree. Daphne had gone somewhere in this direction, he was pretty sure. He frowned. He didn’t know the noble very well, but he couldn’t help but be worried. He knew from personal experience that Pax had a way of worming into your worst insecurities, and all the stuff she’d revealed had been… Well. Let’s just say he wouldn’t blame anyone for needing extra time to process it.
+
+Callan glanced back, but he was long past the point where he could see the clearing. He shook his head and kept floating forward. Pyre would be fine, he reminded himself. She was certainly more capable of handling the crossroads demon than either he or Daphne would be.
+
+With that in mind, he focused again on trying to locate the noble. She couldn’t have gotten that far.
+
+A distant rustling caught his attention. Callan spun around, carefully hovering a little closer to the source of the noise. There, through the trees, he saw Daphne seated at the edge of a small pond.
+
+Slowly, Callan floated through. On closer inspection, the pond was little more than a divot in the ground that had collected some rainwater—more of a puddle, really. Daphne was peering down at it absently, expression blank. It was a stark contrast to the blazing fury she’d shown earlier.
+
+“Uh, hello,” the ghost said tentatively. Daphne didn’t react or look up. He swallowed and drifted a little closer.
+
+It occurred to him, now that he’d actually found the noble, that he had no idea what to do or say. He barely knew Daphne. He probably shouldn’t have come here at all. But when he’d seen her run into the woods, his own parents’ faces had suddenly flashed in his mind, and he’d found himself following.
+
+Carefully, Callan floated down and brought his knees up, mimicking a seated position a few feet away from the noble. He figured it would be better to not say anything at all than to try (and probably fail) to come up with something. And so, he simply waited, letting the sounds of the forest wash over the area.
+
+Daphne tugged a blade of grass out from the ground. “I used to idolize them, you know,” she suddenly said. Callan turned to face her, but he otherwise stayed quiet. He had a feeling the noble just needed to get her thoughts out.
+
+Daphne continued, still staring into the puddle. “I’ve never gotten along with my uncle, not even before…” Her voice trailed, and she gestured vaguely. She swallowed. “Not even before all this. I mean, I appreciated him taking me in, raising me, but things were… complicated.”
+
+The ghost huffed a little. “Yeah,” he muttered. “I think I know what you mean.”
+
+The noble tossed the grass into the puddle, watching it float on the water’s surface. “I used to think, if my parents were still here, my life would be perfect. I had this whole image of them built up in my head. Everything good about me, about my life, was thanks to them.”
+
+She smiled crookedly. “That was stupid. They were just people, too. They’re not some perfect guardian angels watching over me.” One hand moved unconsciously to her chest. Callan briefly wondered how much the ichor-poisoning hurt, if it was a constant pain or if it came in waves. “I guess it’s just hitting now, is all,” Daphne finished.
+
+The ghost was quiet. He struggled to think of something to say, but he couldn’t come with anything. For a moment, he thought about the barrier around his own soul. The endless nights of frustration trying to force it down, to push ichor through, to destroy it entirely. It was hard to imagine what the opposite would be like.
+
+Daphne sighed and leaned back on her hands, letting the wind breeze past. Her red hair swayed behind her. “Well, I guess I’ve still got a lot of learning to do.” She smiled wanly, finally turning to face the ghost. “I mean, I couldn’t even tell Pyre was a demon,” she added, a hint of self deprecation in her tone.
+
+A slight smile grew on Callan’s face. “To be fair, it’s not the first thing anyone would think of.”
+
+The noble shrugged as if to say, “Fair enough.” She went quiet for a few moments before speaking again, expression serious.
+
+“Back at the sanctum,” she began, “Pyre protected you from that spell.”
+
+Callan blinked. “You mean from the Empire mage? Uh, yeah, I guess.” He scratched his head a little sheepishly. “It wouldn’t be the first time,” he muttered, recalling the fight against the chimera, then Tivona. At some point, he’d started instinctively trusting the demon to have his back, and he’d begun watching hers, too.
+
+Daphne frowned. “So… you trust her? Even knowing she’s a demon?” Some of her earlier skepticism had returned.
+
+“Yeah, I do.” Callan stared down at the puddle, the blade of grass still drifting atop its surface. “Don’t get me wrong, I definitely didn’t at first. Pyre wasn’t lying when she said I tried to kill her. I was really bad at it, too,” he added dryly, laughing a little to himself. “But now, yeah.”
+
+“What changed your mind?”
+
+That gave the ghost pause. He frowned. “It’s… I mean, it didn’t happen all at once. It was a lot of things.” His eyes darted in the direction of the clearing, hidden from view by layers of dense trees. “I guess the first time I started thinking differently was when we summoned Pax.”
+
+Daphne immediately scowled at the crossroads demon’s name. Callan couldn’t help but feel a little vindicated that he wasn’t the only one with an instinctive dislike for the demon now.
+
+“So she just seemed better in comparison,” Daphne said. The ghost smiled wryly.
+
+“Sort of, yeah. And that’s when I found out about the reincarnation and the whole soul thing.” He paused for a moment, thinking through his words.
+
+“I know we’ve lied a lot, and I don’t blame you for not trusting us,” he began. “Honestly, I wouldn’t trust us either. But we really will do everything we can to destroy the ritual. None of us want it to succeed.”
+
+Daphne gave him a long look, warm brown eyes unreadable. “You know,” she finally said, “you really are the least intimidating ghost ever.”
+
+Callan immediately scowled. “At least I’m not a mindless monster,” he countered with a huff. “What, should I start draining things for fun?”
+
+Daphne opened her mouth to respond, a smile tugging at the corners of her lips, but before the words could leave her mouth, a rustle sounded nearby. She immediately jumped to her feet, finger raised, and Callan wasn’t far behind.
+
+The rustle sounded again. A few seconds later, the bushes parted, and a familiar tall figure strode out.
+
+Callan relaxed at the sight of the demon. At a glance, Pyre’s demeanor was as casual as ever—not that he’d expected it not to be, but it was good to know that something hadn’t gone horribly wrong in that clearing. He still shuddered when he remembered how easily the crossroads demon had absorbed Daphne’s spell. He’d always known she was powerful, but actually seeing it was different.
+
+“Is Pax gone?” he asked.
+
+“Yep.” Pyre jerked her head in the clearing’s direction. “Fucked off a few minutes ago. She did leave us some info, though. She says there’s three smaller circles powering the main one in the sanctum, and they’re supposed to be close by.”
+
+Callan’s gaze sharpened, absorbing the information. Having a number was good, at least, and would make it easier to search. ‘Close’ was a very vague term, though. What was considered ‘close’ to an ancient crossroads demon who could seemingly poof in and out of existence whenever she wanted wasn’t necessarily the same as what they would consider ‘close.’ Still, it was better than nothing.
+
+Another thought suddenly occurred to him, and the ghost frowned. “Hang on, she said she wouldn’t tell us anything!”
+
+“Apparently your blast was good enough to get us another favor,” Pyre drawled. Her words were directed to Daphne. Callan stilled, a little nervous about how the human would react. She hadn’t exactly been friendly towards the demon before this.
+
+The noble, however, just nodded. “At least we got something,” she muttered. She didn’t quite meet the demon’s eyes as she spoke, and she still looked wary, but she didn’t seem as hostile as before.
+
+“Anyway, we should probably head back to the manor before the sun comes up,” Pyre said, nodding in the building’s direction. Callan hadn’t even realized how late it had gotten. Another side effect of no longer needing to sleep was that he was a lot worse at guessing what time it was.
+
+He nodded in agreement, turning carefully to Daphne. “Uh, do you mind leading us back?”
+
+The noble’s eyes swept over him, then Pyre. Assessing.
+
+“Follow me,” she finally said.
+
+The return to the manor was surprisingly easy. It looked like Pyre had been right about only a select few guards knowing what was really going on with the sanctum. They waited hidden in the trees for a patrol to pass, and the guards certainly didn’t seem to be panicking or on high alert. The chaos of the sanctum was contained there, safely outside the manor grounds.
+
+A few minutes after the patrol disappeared from view, Daphne hurried out of the forest and quickly moved towards the manor’s back entrance. Pyre and Callan followed behind. Once they actually made it inside the building, it was just a matter of navigating the darkened halls, waiting out the occasional guard patrol, and making their way back to the main wing.
+
+When they finally reached Daphne’s bedroom, the noble barely gave them a grunt before stepping inside and shutting the door in their faces. Through her thermal vision, Pyre could see her blurred red outline practically collapsing onto the bed. It was late, and Daphne had already had a mini ichor-poisoning attack earlier that night. Now that there was no more adrenaline keeping her going, she was probably drained.
+
+It was a good sign, at least, that the human didn’t seem to be worried about leaving the two monsters on their own in the manor. She’d probably wagered that if they were really trying to hurt anyone here, they would’ve already done it by now.
+
+Pyre and Callan returned to their own room, closing the door behind them and locking it. It was only after they’d settled inside that Callan breathed out a sigh.
+
+“That was… a lot,” he muttered. Pyre raised an eyebrow.
+
+“Don’t relax yet, kid. We’ve still got a lot of shit to do.”
+
+“I know.” His forehead creased. “I just… I know you told me about the invasion rumors, but I didn’t think it’d be something like this. That it’d happen right here.” His arms waved wildly around him. “And it’s only two weeks away!”
+
+Pyre hummed in acknowledgement. “Well, if things go well, it won’t happen at all. We’ll break the barrier, take the horn and soul piece, and the spell’ll be useless.”
+
+“Right,” Callan mumbled, a little bit of hope entering his voice.
+
+His gaze moved to the desk, and he floated over. In a blink, his silvery form turned solid, and he began flipping through the pages of the open book lying there with an intent look. “Maybe I can find a similar spell somewhere in here,” he muttered, half to himself. “It could give us a clue on where the other circles are.”
+
+While the ghost searched, Pyre leaned back against the bedframe. Now that things had calmed down some, she could think more closely about those brief memory flashes she’d gotten from the golem and necromancer. She’d barely registered them at first, considering the circumstances, but now she finally had the time.
+
+The former didn’t reveal much. Those golems had barely been sapient—if even that—and the only real image she got was a huge, open stone chamber covered in glyphs and large pots filled with some kind of sludge. Based on the familiar robes of the mages in those memories, that was probably where the Empire made its golems. It was interesting in its own way, but none of it revealed shit about the transportation ritual.
+
+Instead, Pyre focused on the necromancer. Most of his memories weren’t very helpful, either. She saw more mages and the same golem magic chamber. Vague overcast scenery that had to be the Empire.
+
+Sandwiched between those memories, however, she’d caught a brief glimpse of the sanctum and Lord Bellhein, further confirming his involvement. Just after that, she saw a wide table and a map in its center.
+
+The demon hummed. The memory had been too quick to see any actual details on the paper, but its existence meant that there might be plans somewhere in the manor with more information on those glyph circles. Lord Bellhein had apparently been the one in charge of constructing them, after all. The Empire would’ve needed to give him instructions.
+
+“I think there might be a map somewhere with the circles on it,” Pyre said. Callan turned to her, clearly not having had much luck himself. The demon tapped her head.
+
+“Back when I ate that necromancer, I saw something that looked like instructions for making the glyphs or whatever in his memories. I bet Lord Bellhein’s got them stashed somewhere.”
+
+“So we need to search the manor again,” Callan muttered. He nodded slowly. “Okay. We can ask Daphne if she knows where he’d keep something like that after she wakes up.”
+
+Pyre raised an eyebrow. “No looking before then? We’ve still got a few hours.”
+
+The ghost snorted. “I’d rather not risk it. Lord Bellhein will probably return to the manor at some point after they’re done searching around the sanctum.”
+
+The demon hummed. Fair enough. It remained to be seen if their staged story would be believed. The longer Lord Bellhein went without finding an intruder, the more likely he was to accept it. Best to lay low until sunrise.
+
+At the desk, Callan had shoved the book to the corner and pulled out a fresh piece of parchment. He rummaged around the drawers, finally picking up an ink pen and beginning to draw. He was trying to sketch out the ritual circles, Pyre realized.
+
+She rose and stepped over, watching as Callan carefully placed the lines. She tapped a spot where he was hesitating. “This part curves up, I think. Like this.” She mimicked the rough shape with her finger, and Callan’s eyes brightened in recognition. He drew it out and pointed to another blank spot in the drawing.
+
+“What about here?”
+
+Pyre frowned, wracking her memory. “Looked a little like a triangle,” she finally decided.
+
+Callan nodded and drew out a few different triangle variations, finally asking the demon to point to the one that looked right.
+
+Between the two of them, they managed to sketch out a pretty close replica of the main summoning circle on the sanctum floor. The one above on the mountainside was harder—the ichor waterfall had blocked half of it from view—but at least the glyphs on the ground were mostly accurate.
+
+By the time the sun rose and Daphne knocked on their door, they were ready to start hunting the other summoning circles down.

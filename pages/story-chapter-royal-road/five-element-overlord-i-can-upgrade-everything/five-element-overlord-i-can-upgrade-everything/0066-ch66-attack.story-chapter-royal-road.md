@@ -1,0 +1,127 @@
+---
+id: 24e1a190-7340-5a4e-9eb7-9b9cfdd96f7b
+page-type-slug: story-chapter-royal-road
+title: "Ch66 Attack"
+slug: 0066-ch66-attack
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 66
+ownLength: 1688
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3480516/ch66-attack"
+royalRoadId: "3480516"
+---
+
+As the night goes on, a few more communications come in.
+
+Some state their party size and strength in later transmissions.
+
+Out of the 13 squads that have surrounded Black Iron Mountain, there are 8 Late Stage Qi Refiners, 16 Mid Stage Qi Refiners, and over one hundred initial stage qi refining stewards surrounding the mountain.
+
+Just an hour before dawn, dark black blurs of small birds all dive down from the sky.
+
+"Squad 414's attack route orders have been received, moving out at sunrise." Bao Zhan communicates through his talisman, then distributes provisions to everyone standing by.
+
+I receive a brand new low quality black iron dagger and two stacks of assorted low grade attack talismans. It's the largest stock up we've received so far.
+
+Mine all fall into my storage, as I'll probably never use them, but the other stewards swap out their damaged daggers and examine the talismans with wide open eyes for the next half hour.
+
+Other squads report their received orders to either attack, or stand by, or survey the mountain while other teams follow through with their plans.
+
+We move out just as the morning sun begins to lighten up the night.
+
+Our formation is tight, fast, and direct, moving out of the riverbed forest and directly into a cave opening at the base of the mountain. Bao Zhan relays our progress, and other communications of squads entering this mountain from other sides come back.
+
+The instant we enter this dark cavern, the stirring sensation of illusory demons has already hit my senses from every direction. I do not waste any time, pulling out my cloak, medium quality bow, and even the white and silver matching arrows to go with it.
+
+Multiple perfect grade defensive talismans and various untested perfect grade attack talismans float to the forefront of my mind as I scan my surroundings.
+
+I pull back a black iron arrow in this pristine white bow.
+
+With my strength equivalent to that of a 6th level qi refiner, the 1000 kg bow string resistance is just strong enough for me to exert maximum effort and pull it back, but still have the energy left to aim and continue walking forward. Without my jump in two minor barriers within the 4th level, and my transition to a Martial Elite, it would be a struggle to handle this mid grade artifact.
+
+We venture into this deep cavern over 200 meters, taking a curving route downward beneath the mountain.
+
+For some reason, all of the illusory demon auras move with us. They are in different caverns, just close enough for me to sense, blipping in and out of range. Yet, they do not attack.
+
+More and more communication talisman pings go off, confirming that the 11 attack teams have entered the mountain, while the two survey teams have flown into the air and secured a complete view of Black Iron Mountain from the sky.
+
+One team is unfamiliar, but the voice of Mu Shulan confirming her eyes in the sky atop an eagle spirit beast is one that registers. Almost everyone on these survey teams has flying type beasts, giving constant updates on their sides of the mountain.
+
+Large chunks of Black Iron Ore screw with my Spiritual Senses. I can see past the low and mid quality chunks without interference, but the sheer amount of high quality Iron Ore chunks in the walls and floors make it tougher to concentrate.
+
+My senses become almost entirely full of a dark warm black mist.
+
+The positions of my fellow stewards mere meters away become fuzzy using qi as a sensory mechanism, I have to only rely on my vision to see them. Bao Zhan at the front of our group however shines brighter in my senses, as his Acquired Physique resonates with mine without any interference.
+
+In fact, unlike my physique, his disrupts the Black Iron energy around himself, even cycling and absorbing some from the high quality ores. I try to watch him closer to see if this is some passive ability of his Black Iron Battle Physique that needs this specific ore to activate. It seems to be beneficial in some way, but my attention jumps elsewhere before I can find out more.
+
+We step into a fork in the road of caves. Beneath it, a perfect quality chunk of Black Iron Ore rests. It is so potent that the air becomes thick like black blood.
+
+Bao Zhan checks his map and points in one direction, but I sense dozens of illusory demons taking advantage of our muddled senses and charging in from the opposite cave path.
+
+My fingers let go of an arrow, and it whistles down the empty dark cave where we've turned away from. Every head in our squad turns, and half a second later the frightened bloody cry of an illusory demon shot in the neck echoes through the cave.
+
+The speed of this shot is multiple times faster than my old bow. Both Bao Zhan and Yun Renshu's eyes widen at the speed, but I've already pulled multiple arrows back and sent them flying into the darkness at the blurry illusory demon resonance in my mind.
+
+For these initial stage demons, even at this distance, it is impossible for them to dodge.
+
+By the time they come into view, I've already killed ten. The stewards all run forward wielding their new talismans and daggers. Bright fist sized fireballs light up the dark cave, and the sound of metal on metal clashes chimes with the screams.
+
+Yun Renshu runs in to support the stewards, but Bao Zhan follows the direction of my bow, down toward an empty cave passage. It's faint, but the sensation of even more illusory demons comes from the deep inside.
+
+This strategy to sneak up on us and squeeze us with raw numbers alone would work on most steward parties, but having an illusory demon like myself on the opposing side completely destroys this strategy.
+
+I start firing off shots into the dark down deep cave sections, hitting targets over one hundred meters away once again.
+
+Bao Zhan's Acquired Physique partially activates, and he runs in the direction I shoot.
+
+Loud punches and exploding skulls fill the chaos in the air.
+
+I constantly turn back and forth, sniping illusory demons one by one. None even come within my spiritual senses.
+
+In less than two minutes, we obliterate over 50 illusory demons and are left in dark silence.
+
+This is no different than any other ambush we've had out in the undeveloped wilderness before...
+
+Though, the long string of communications that come in from other squads do not have as much success as us.
+
+Every single team was attacked on top of a perfect grade Black Iron Ore, slaughtering almost half of the stewards that entered this mountain.
+
+Through the constant ringing distress calls, Mu Shulan's voice echoes through, "Report from an aerial view. The central tip of the mountain has started glowing red... It is growing at a visible rate."
+
+Many of the other surrounding surveyors report the same thing, some even spotting an enormous crimson circle glowing around the base of this mountain.
+
+"There is an array activating, it's surrounding the entire mountain!" the second unknown surveyor yells through the talisman, as he's watching from much further away.
+
+All of a sudden, my hair stands up, and I sense the presence of a blood demon's physique fluctuating far down the cave path we've been ordered to venture through.
+
+The chaotic communication alerts begin yelling retreat, as they run into blood demons even before us. The sounds of battle are even communicated and cut off with no warning. The stewards all look to our Squad Captain, but he shakes his head.
+
+"No retreat. They've outsmarted us so far, running while we think we have a chance is exactly what they want."
+
+He turns to me, "Li Hao, follow me up ahead. You know what we're up against."
+
+He looks back, "Yun Renshu, collect the bodies and protect the stewards, and kill the demons that slip through the cracks."
+
+While we run forward, I swap out my black iron arrows for the strong set of silver and white mid grade arrows. As the pressure of an approaching blood demon grows, I activate a perfect grade defensive talisman and run forward without fear.
+
+In less than ten seconds of running, we pass three more patches of thick sensory suppressing Black Iron Ore, but neither of us loses track of the target.
+
+A red glow fills the darkness once we turn a cave bend, and I see an elderly 8th level qi refining blood demon. His mortal grade physique has hit the perfected stage, but he does not resort to attacking us on sight.
+
+The gruesome transformation of tearing skin, enlarged muscles, and dark horns growing from his head is almost complete.
+
+A manic laughter echoes through the dark narrow cave, "Even more have arrived, the Azure Cloud Sect will never learn. The Phantom Lord's army shall gain even more strength!"
+
+Below his feet, a circular crimson array starts to light up, made of the same exact blood energy as the sword in his grasp. Bao Zhan's body erupts with a dense black pressure, and the perfect grade Black Iron in the room twists and turns off his glossy skin.
+
+I pull out an incineration talisman, ready to fight too, but my head shifts down the only pathway further into the mountain. The sensation of multiple late stage blood demons and hundreds of illusory demons start to appear.
+
+"Go! You have long range capabilities, I'll hold this one off from annihilating our squad!"
+
+I nod and sprint by.
+
+A red streak of bloody energy comes flying my way as I try to jump toward the exit. The perfect grade defensive talisman is enough to protect me at this distance. It still shatters to pieces in a single hit, but I take no damage myself.
+
+I slip away, running deeper into this mountain. The collision of blood aura and the black iron battle physique shakes the ground behind me.

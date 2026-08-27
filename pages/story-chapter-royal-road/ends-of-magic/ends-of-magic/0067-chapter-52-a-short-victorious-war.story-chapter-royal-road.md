@@ -1,0 +1,199 @@
+---
+id: 883087fb-4245-574d-b183-ebed28fdabf7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: A Short, Victorious War "
+slug: 0067-chapter-52-a-short-victorious-war
+partOf: ends-of-magic
+position: 67
+ownLength: 3051
+unit: words
+ownProgress: 3051
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2990987/chapter-52-a-short-victorious-war"
+royalRoadId: "2990987"
+markedReadAt: "2026-06-29T20:09:24.832Z"
+---
+
+There was a brief scramble as everyone moved to their assigned positions. The Heirs ran forward, getting as close to the front of the starting zone as they could without crossing over the line that was marked out in front of them. The Aleph Grid starting location was ten miles in the distance, hidden beyond the bend of the valley.
+
+“Ready?” Nathan asked, standing a few steps back as Aarl limbered up his arms and swapped the black-bladed sword he’d been carrying for a heavy greatsword that could amplify the momentum of its swings.
+
+“After those prayers, blasphemously so!” replied the fighter, swinging the heavy metal through the air with a wooshing noise and setting his feet like a batter about to take a swing.
+
+Khachi’s eyes had wings of glowing fire that extended out past the bounds of his face. “We shall add to the tally of our deeds.”
+
+“By blowing up a dungeon of fools!” Stella crowed, her own mana signature flaring as she prepared to channel mana.
+
+The countdown hit zero, and Nathan moved. He sprinted forward and leapt into the air right before he passed Aarl, flooding his muscles with Stamina and pushing every one of his movement skills as hard as he could.
+
+The flat side of his friend’s greatsword impacted his butt like a bat striking a beach ball. Aarl’s skills had overloaded the momentum-imparting enchantments in the sword, and the force transfer broke Nathan’s tailbone and pelvis. Aarl’s sword snapped in half from the combined overload and contact with Nathan's antimagic, but it had already done its job.
+
+Nathan shot upwards like a home-run ball. He stabilized his flight and healed his wounds, then caught hold of the jetstream of wind Stella had sent after him to accelerate him forward and upwards even faster. The Heirs were following along behind him, but their ascent was slower and it would take longer to reach Nathan’s altitude.
+
+Nathan crested the curve of the valley that had blocked their view of the enemy position. He had a clear line of sight to where the Aleph grid had started this battle, mere seconds ago. Or at least he would have, if it hadn’t been blocked off by a giant disk of darkness that sat a few miles in front of the enemy position, reaching up to block a wide slice of the horizon.
+
+Instantaneous spells struck at him from behind the obscuring effect, lances of wizardly disintegration and other, stranger, spells that Nathan didn’t have time to pick apart and understand. Normally, that would have stressed his capabilities, as his antimagic was most effective when he understood the spellwork he was countering. But he’d already unleashed the full potential of his antimagic. It reached toward the enemy like the tentacles of an immaterial kaiju, draining the ambient mana from Davrar without room for compromise or control. This was why he was ahead of the Heirs, because he would have cancelled every spell and destroyed every magical item they possessed if he'd done it close to them.
+
+More spells flew in his direction, crossing the intervening miles slower than the initial strikes. Some were simple, merely grand fireballs that could blow up a building. Others were more complex, such as a fusing ball of plasma orbiting a black-hole spell similar to the one Badud had cast back in Giantsrest. They all entered Nathan’s domain of antimagic and vanished like stones cast into mist. More mundane projectiles came along for the ride, telephone-pole-sized arrows and balls of supersonic metal. From this distance, Nathan was able to dodge the larger missiles easily, and most of the smaller ones as well. He lost a leg and had a hole blown through his side, but neither was a problem for long.
+
+More spells flew towards him. A cloud of poisonous green mist manifested in the air and was dissolved by his aura. A nuclear spell significantly more elegant than Stella’s vanished without triggering. A beam of liquid light zig-zagged through the air, snaking around the tendrils of antimagic revealed by the green mists. It spiraled around, seeking to bypass Nathan and reach the Heirs. Then it ran into a protective umbrella of aura Nathan had thrown out and fizzled out.
+
+Wait, that was a Questor?
+
+Nathan put the notifications out of his mind, focusing on his objectives. It had been about twenty seconds, and he’d covered roughly a tenth of the distance to the Aleph Grid’s starting location, with his aura stretching more than a mile ahead of him and reaching further with every second. He’d probably only need another forty seconds before his antimagic reached the enemy, and he'd pop the obscuring black spell in half that time.
+
+Unfortunately, the enemy seemed to have realized that they couldn’t wear Nathan down by flooding him with more magic. Their spells and ranged weapons stopped going for him directly and retargeted towards the Heirs and the Ashen Accord farther back. Nathan stopped driving his aura ahead and snapped it wide instead, sweeping up the lethal spells hurled to circle past his guard.
+
+He couldn’t stop the mundane projectiles, though he could strip them of every bit of magic. That didn’t mean the multi-ton missiles weren’t dangerous, and he risked a glance backwards to see how the Heirs were handling them. Aarl was in front, and he swung the size-changing club like a golf club to deflect one of the massive tree-trunk projectiles away. A shield of magic manifested from his hidden bangles to deflect a smaller bullet, and another deflected from a golden orb of light emanating from Khachi. Sarah’s rifle was raised to her shoulder and firing continuously, while Stella dragged a whole set of spells behind her as she channeled power into them.
+
+Nathan turned his attention forward again, though his eyes were almost superfluous in this battle. His magical senses were doing the heavy lifting in tracking every spell the Aleph Grid cast in this direction. He burned Focus, catching them all with his aura like he was a hundred-armed immaterial giant of antimagic with a tiny fleshy core. The image caused him to chuckle, and he amplified it into a full-blown laugh, leaning on his skills to make his voice carry across the field to his foes. Stealth was banned, but most of the same skills still worked just fine for making him more visible when he wanted them to.
+
+“You can’t touch this!” He taunted them as he sprinted through the air. “You can’t run, you can’t hide. I’m coming for you, and all you can do is DIE!”
+
+That seemed to do the trick, and the enemies refocused on him. He could almost feel the panic on the other side of the obscuring black sheet. Some of the mages over there were just casting the same spell over and over again, jamming their finger onto the same button as if they'd get a different result this time. Others were getting creative and trying different approaches. Nonmagical rocks the size of buildings flew towards him, but they were easy to dodge around. At least the supersonic metal missiles seemed to have stopped. He probably had Sarah to thank for that.
+
+More spells struck out, flavored with different types of wizardry that were very likely specialized against antimagic. They probed for weaknesses in his aura, acting entirely through the aether or masquerading as helpful spells or ambient mana. He wiped them away indiscriminately, slamming through fake healing spells and other lateral attacks. Then there was a flash, and he went blind, and his body started burning all over. With his Talent, Nathan could feel his cells dying throughout his body.
+
+Likely some kind of directed beam of radiation. Strong enough to cook me alive in a second.
+
+He had Stamina to spare and used it to heal through the damage while continuing his mad sprint. But whoever was casting the spell wasn’t letting up. His eyes healed and died, and his attention stuttered as neurons died across his brain. It was a good thing his consciousness wasn’t solely hosted in his grey matter anymore.
+
+The biggest problem was that he couldn’t see very well. His eyes kept breaking down faster than he could heal them - or maybe that was his optic nerve. Still, it made it hard to dodge the rocks tossed in his direction, and Nathan found himself guessing which way to dodge more than once based on very little input.
+
+He focused his healing, trying not to outpace the damage but instead maintain function while the organ was in a constant state of damage and repair. It wasn’t the DNA damage that was the problem, but the oxidative stress to proteins and the ruptured membranes. He spent Stamina to hold his body together in the face of incredible damage, and felt the edge of an Insight there.
+
+His vision came back just in time to see a rock the size of a city block lofting in his direction. It was so large it looked weightless. Surely something that large didn’t just fly through the air? But it was flying towards him, so he made every effort to get out of the way, sweeping his aura through it as he did and finding a poison pill. A nuke spell had been buried in the heart of the rock, set to go off when it hit the ground in the middle of the Ashen Accord’s starting location. But now it was gone, and he hoped the Questors they’d left behind had the sense to get out of the way.
+
+The beam of radiation cut off a moment later, and Nathan used the moment of respite to keep his speed up and to lance a single spike of aura out as far as he possibly could. It strained his Focus to move his aura so quickly, but he managed to finally reach the giant disk of darkness. It had hung there since the start of the battle, blocking the Heirs’ view while not seeming to hinder their enemies in any way. But a quick swipe tore open a gash, and a second one caused the spell to unravel, revealing the hill that was the Aleph Grid's starting position.
+
+Or rather, what had once been a hill. Now it was a fortress of earth and stone, growing taller and thicker as he watched. Questors stood on parapets and battlements, casting spells solo or in groups. A few splashes of blood here and there revealed places where Sarah had made her presence known, but it was still a well-fortified castle that didn’t have any entry point from the ground.
+
+Nathan came under attack from another vector, mental skills lashing out at him and commanding him to kneel, or stop, or die, or be infatuated. But he’d been prepared for that since the battle started, and let the commands wash over his focus and mental defenses like water over rock.
+
+Nathan felt Khachi’s holy mana building behind him, and braced for what was next. His aura was spread across miles of distance, and it was not a simple thought to switch it from one form to another. But he needed to allow friendly magic for this next part. The change took a monumental effort on his part, the transition from absolute magical denial to a more restrained version of his antimagic rolling across the valley.
+
+He was just in time, as Khachi’s prayer resounded through the sky. “You stand before my gaze and underneath my influence. In my light, you are measured and found worthy of judgment. By the blaze upon my brow, I declare your sight forfeit!” The prayer was accompanied by a swell of radiant light that raced across the land with a flood of power. The divine mana struck the fortress and revealed a shield of wizardry that went opaque as it warred with the divinity at the core of Khachi’s attack.
+
+The protection was already cracked in places where Sarah’s bullets had penetrated, but it shed the broad-area divine attack better than Nathan would have expected. At this point, he’d gotten close enough to the enemy to intervene, and the shield was based on principles he’d encountered from both Badud and Sussu. He raked the leading edge of his aura across the protective bubble, and it parted like a balloon popping in slow motion.
+
+Khachi’s radiance poured over the castle like liquid daylight, coating the entire structure with a clean brilliance. Nathan felt the effect from here, a furious judgment that sought to blind and immobilize its targets so their fate could be properly decided.
+
+It probably hadn’t affected all of the enemy Questors, but Nathan was too preoccupied to study the enemies. Some of them had noticed the change in his aura, and used the brief moment of respite before the shield had fallen to launch another set of attacks. Another nuke spell went out, but it was a complicated spell and easy to sabotage. Nathan tried to use his antimagic to set it off close to the enemy fortress, but there was a failsafe in the spell that cancelled it before it could do so. A trio of wizardly disintegrate spells bored through his aura the long way, striking directly at him. Less than a thousandth of the effect reached him, but it was enough to dissolve his clothes like spattering acid and require spot healing of the skin beneath.
+
+I suppose Sarya’s getting her request earlier than expected.
+
+There was yet more magic in the air. Half of it propagated through the aether and stuttered out of its own accord, unable to survive in the magically dead space where Nathan’s true antimagic had smoothed the magic flat. More spells flew on longer arcs, including another sun and void combo. It was packed with power, and Nathan was sure he could disarm it the normal way if he spared the attention to do so. But at this moment, he couldn’t, and didn't need to. Khachi's spell was done, so he switched his aura back to the all-consuming void of true antimagic. It flowed out from him like the tide, and the oncoming spells vanished like snowflakes falling into a flame.
+
+At least the physical projectiles had stopped. A few people were still throwing stones at Nathan, but the huge arrows and supersonic missiles hadn't reappeared, probably due to some combination of Sarah’s sniping and Khachi’s massive spell of blindness. Nathan was happy to have fewer distractions. It was time for the Heirs to finish the opening act of the battle.
+
+Behind him, Stella fired off the first of her spells. She’d used the time since the battle started to cast thirteen of the magical constructs, reinforcing them with as much extra protective magic and wizardry as she could. Now they flew towards the Aleph Grid’s fortress like dumbfired rockets.
+
+Nathan had been prepared for it and opened a tunnel through his antimagic, making sure not to clip the delicate spellwork as it sailed past him. A second one followed the first down the same tunnel, and then a third. The enemy seemed to recognize the magical constructs for what they were, and their attention shifted from Nathan to the spells coming their way. The antimagic caught almost a hundred counterspells, some simple disruptive workings of force and others deeply meaningful wizardly constructs that could command any spellwork to cease.
+
+They didn’t work on his antimagic, and Stella’s spells flew onwards untouched. But with so many Questors on the field, there were other ways to disrupt magic, and the first of Stella’s spells died halfway to its target in a burst of shadow. Nathan traced it back to Amoh, standing atop one of the towers. In the next moment, he was struck by a spear of Khachi’s light, flinching and stumbling back. The next of Stella’s spells sputtered out under a shouted command from Evesor, who shimmered into view in front of the castle, looking regal and unbothered. Nathan disabled his shields and he took a bullet to the throat.
+
+Nathan didn’t know why Stella’s third spell failed, or the fourth. Hundreds of Questors were focused on them, and if it wasn’t magic, his antimagic wouldn’t stop it. But the fifth spell got farther than the others, and then the sixth spell reached the distance two-thirds of the way towards the enemy castle.
+
+It detonated in a flare of nuclear light, Stella’s new Insights letting her direct the force of the blast into an arc aimed towards the enemy. The explosion was still shielded by Nathan’s antimagic, but the purely physical energy flowed through without a care. Another emergency shield deployed over the castle, and Nathan promptly destroyed it to let the atomic blastwave strike the stone fortification. But the Aleph fortress had been built tough and reinforced with magic. Questors were blown off the walls, but the castle itself held.
+
+The blast did serve to distract the Questors who’d been countering the remainder of Stella’s nuke spells, and Nathan shepherded them the rest of the way in. The seventh spell detonated a half-mile closer to the enemy than the previous spell had, and the eighth closer still. Nuclear explosions marched their way across the battlefield until the thirteenth spell spent itself in the center of the enemy starting zone, reducing what had once been a formidable castle to ground zero of a hellish firestorm.
+
+Permanent Talent 1: Magical Destruction 5
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 113939/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 7963/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 10
+
+Inspiration 10
+
+Impulse 7
+
+The Sense of Magic 4
+
+Forewarning 9
+
+The Truth of Magic 5
+
+Evasion 4
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+High-tier Disguise 10
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

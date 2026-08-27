@@ -1,0 +1,185 @@
+---
+id: 00edd896-9e11-55b0-9e7a-fea68be967d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15"
+slug: 0015-chapter-15
+partOf: emie-ascended
+position: 15
+ownLength: 2490
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3484280/chapter-15"
+royalRoadId: "3484280"
+---
+
+My foraging slowed us down a bit, but Cora and Mike didn’t mention it again after my gift of cores. I didn’t give them all the cores I earned, but I did take less than I was entitled to due to the level disparity.
+
+We encountered more shadow snakes, thorn monkeys, and a new mob – the hearth deer – during our journey. Hearth deer weren’t any more dangerous than regular deer unless they happened to have access to fire or spent a long time in the sunlight.
+
+Their name came from the bucks’ ability to store heat in their antlers, which many liked using in their hearths. Tossing an antler from a hearth deer into a fire would ensure the fire burned much longer, and even after the fire burned out, the antler would remain fiery hot for a long time. How long depended on the amount of time the antler had spent soaking in the flames.
+
+To a lesser extent, the antlers could store heat from sunlight. With enough direct sunlight, the effect was similar to that of a cooler flame, making the beasts much more dangerous to fight during the day.
+
+Thankfully, the deer we encountered on the second floor were not empowered since the trees blocked enough of the light. With only indirect light, their antlers only grew uncomfortably warm instead of dangerously hot, negating the additional threat.
+
+After making our way through most of the floor, we decided to camp in one of the hallways just two rooms away from the boss room.
+
+As a set of hearth antlers were empowered by Mike’s Enflame skill in the last room we cleared, Mike constructed a domed shelter in the middle of the hallway. He was nice enough to partition a small section of the space so I could have a bit of privacy.
+
+We used the recently empowered hearth antlers as a replacement campfire since the space was too narrow and confined to build an actual fire. I didn’t feel comfortable trying to cook using the antlers as a source of heat, but the addition was enough to make the small campsite a bit more comfortable.
+
+Though it wasn’t technically required, we kept watch overnight after eating some cold rations we’d each purchased.
+
+We had collected a couple of decent skillbooks throughout the day, but they weren’t anything that any of us wanted to give up a slot for. I hoped that would change when we defeated the boss the following day.
+
+The boss was a hearth deer that had spent enough time in direct sunlight to make his antlers glow a dull red.
+
+“Don’t use your fire skill,” I warned Mike, though I was confident the warning wasn’t really necessary. “I won’t use my Lightning Bolt, either, since I bet it can absorb the heat from the skill as well.”
+
+“That’s a good point. I’ll try to use the ground to hold it in place. Since Lightning Bolt is still your only real ranged option, I’ll do what I can to handle him on my own.”
+
+“I have a bow,” I pointed out. “It’s just the beginner bow the dungeon provided, but it’s better than nothing.”
+
+I’d honestly forgotten about it until I looked into my storage to see which weapon would work the best. I wasn’t amazing with the bow by any means, but like most other weapons, I was competent.
+
+The news seemed welcome, and we quickly planned out our approach. We kept it simple and didn’t get too hung up on the details since plans rarely survived contact with the enemy, but it was enough that we all felt like we were on the same page.
+
+As I carefully placed my shots between Cora’s Compressed Space Bolts and Mike’s offensive use of Earth Manipulation, I realized that I really enjoyed working with the Arkenesis couple. Not only were they capable, but they seemed like genuinely nice people.
+
+I’d worked with worse, that was for sure.
+
+My mind drifted back to the war I’d inadvertently caused in the Realm Dungeon of my old realm. Working with a bunch of sect elites had been a struggle back then. Everyone wanted to be in charge to display how amazing they were.
+
+It was like trying to corral a bunch of peacocks who were constantly trying to outdo each other. It was lucky that the war hadn’t lasted but a few years.
+
+“Should we manually harvest it?” I asked when the boss finally fell.
+
+Mike hadn’t been able to hold it in place with his magic, but he’d been able to harry it pretty well with his primary skill. Between the three of us, it hadn’t taken long to defeat the higher-level floor boss.
+
+Before anyone could answer my question, the wave of essence hit me. The boss had been level ten, and I had only just reached level eight the evening before. It wasn’t enough to push me to level nine, but it was close.
+
+I noticed Cora’s expression going vacant for a moment and knew she must have just leveled. They’d both gained two levels the day before, so her newest gain put Cora even with her husband at level seven.
+
+“I’m not sure,” he said as he watched his wife come out of her momentary fugue. “The antlers look valuable, but I’m not sure they’d be more valuable than whatever the dungeon might give us.”
+
+“It’s not just the antlers,” I informed the couple. “The meat, pelt, and most of the organs are also valuable. Actually, most of the creature is worth something. If you want, I can store the whole thing and process it later. I’m sure I can extract most of the creature’s value.”
+
+I knew that I could, especially if I looted it inside my demesne.
+
+I wouldn’t have suggested it if I didn’t think fully harvesting the boss would provide more value than letting the dungeon handle looting it. Sure, the dungeon might provide a nice reward, but unless it was something truly amazing, I knew I could probably earn more fully processing the boss.
+
+“You sure you want to risk it?” Cora asked. “Our best skillbook came from the boss of the last floor.”
+
+Come to think of it, mine did too. And as much as I needed the funds to purchase an enchanting focus, I knew that would come in time.
+
+“That’s a good point. Alright. Let’s loot it,” I said, figuring I could always rerun the second floor again if the loot sucked. I wanted to check to see if another Golden Oak appeared in the first room, anyway.
+
+Seeing a bright red skillbook, my hopes soared that it might be something I could use.
+
+“Fire Blade,” Cora said, glancing at Mike before looking at me. “I know you said you wanted a fire skill. Is this one you’d be interested in?”
+
+I felt torn.
+
+While, yes, on the surface, Fire Blade seemed to check every box for a potential skill, I wouldn’t be able to use it to create bladed weapons without damaging whatever weapon the flaming blade was anchored to.
+
+If I didn’t want to use the skill in such a way, it would have been fine. But since my intention for a blade skill was to use it to modify my existing weapons, the skillbook didn’t really work for me.
+
+“I would, but I think a different type of fire skill might work better.”
+
+“If you’re sure,” Cora said with a shrug before handing it over anyway so I could store the skill.
+
+For a moment, I thought that Mike might be interested in learning the skill, then I remembered that he could get the same effect by using Enflame on his stone sword. He could also do roughly the same thing as the ranged effect by enflaming stone shards or something.
+
+Really, Enflame was a bit of a cheat for an Earth Magi. It made him way more versatile.
+
+Not that I had any room to complain.
+
+“Want to keep going, or leave?” Mike asked when the exit portal appeared.
+
+“I vote we continue after I cook up some of the meat and vegetables we’ve collected,” I said. The room would be safe until night, so there was no real reason to rush.
+
+“We might as well make the most out of the day,” Cora agreed. “We can do a few rooms and head back to the safe zone before the light starts fading.”
+
+It was always morning when you initially entered a dungeon or moved to a new floor unless the floor had some other theme that negated the normal day/night rotation. Some floors were like that, but it was supposed to be rare.
+
+I’d only encountered a few floors that remained in perpetual twilight or some variation of darkness during my time in the simulation. From what I’d read about this dungeon, there shouldn’t be anything like that on the beginner floors.
+
+The quirk didn’t apply to later floors where multiple parties might be within the same instance. In those cases, only the first party to enter any given floor was guaranteed to arrive at ‘early morning’. The rest just appeared based on how much time had passed since the first group entered.
+
+“You sure you don’t want to go ahead to the next floor before taking a break?” Mike asked. “No matter how long we stay, it’ll be morning when we arrive.”
+
+“All the more reason for us to take a break now instead of after we get there,” I replied.
+
+“Emie needs the money, remember?” Cora asked her husband. “She wants to buy a little wand that makes it easier for her to enchant.”
+
+“That’s right,” Mike said, having clearly forgotten. “Well, we’ll be giving you a larger share of the loot since you’ve been giving us most of the essence cores. Hopefully that’ll provide what you need for the wand.”
+
+“I appreciate it,” I said with a nod. It was nice working with people who weren’t greedy or stingy.
+
+I had Mike and Cora collect some firewood and stones while I did a quick sweep of the boss room. I found a few small clusters of berries, but other than that, there wasn’t much of interest.
+
+Using my new Dutch oven, I cooked a few steaks and then set them aside to rest while I threw in some onions, mushrooms, and garlic. They weren’t exactly the same as what we had in Neohim, but they were close enough.
+
+“That smells good,” Mike commented, moving closer.
+
+“Thanks. I forgot to pick up salt and butter, so it’ll probably be a little under-seasoned.”
+
+“I think one of my ration packs had a packet of salt.”
+
+I paused and checked the supplies I was carrying for the couple. Sure enough, there was a small bag containing ten packets of salt within one of the ration containers.
+
+“Do you care if I use some of it?” I asked after retrieving the salt.
+
+“Go ahead. We can buy more easily enough.”
+
+I sprinkled a little bit in, saving most of it for later. I was still missing butter, but at least with the salt, the food would have a bit more flavor.
+
+“It won’t take long for these to finish. I wish I’d thought to ask about the salt before I cooked the steaks,” I said with a frown.
+
+“It’s fine. I’m sure they’ll taste better than what they give us at the complex.”
+
+He wasn’t wrong.
+
+I served the steak topped with mushrooms and onions, with a salad of mixed greens on the side. Though they weren’t worth much, I’d collected several handfuls of edible greens as I foraged. Topped with nuts and a citrus dressing I’d made from foraged fruit, it made an acceptable side dish.
+
+“This is good. Much better than I thought you’d manage without a Cooking skill,” Cora said.
+
+“You know the people making our food at the Association probably have Cooking skills,” I pointed out.
+
+“Yeah, but I bet they’re all little more than children. Their skills are probably the only thing making their food edible.”
+
+“I’ve had a few good meals from the complex,” Mike said. “The other day, there was a cream pasta with red meat and mushrooms. It wasn’t bad.”
+
+We chatted about the various foods we’d eaten since our arrival in Dia, and I made sure to pay attention to the things they liked and disliked. If I were going to be cooking for the group regularly, it would be good information to have.
+
+With that thought in mind, I figured it was worth bringing up the possibility of making our temporary partnership more permanent.
+
+“So, how do you feel our teamwork is going so far?” I asked during a natural lull in the conversation.
+
+“I think it’s going well,” Cora said. “Your foraging slows us down a bit, but it’s really not so bad. If it helps, you can tell me what to do, and I can help you harvest rooms once we clear them.”
+
+Mike nodded. “I don’t mind helping, too. I can certainly see the value in foraging,” he said, holding up a piece of mushroom as if it were proof of his statement. “I feel a little bad that we’re eating through some of your profits, so contributing to that would help keep things fair.”
+
+I thought about it for a minute. I really didn’t mind showing them what and how to harvest the valuable flora of the dungeon.
+
+“I figured most of what I was harvesting would be added to the party’s loot,” I said.
+
+Some things, like the Golden Oak and the clusters of herbs I was transplanting into my garden, would obviously be mine alone, but everything else would be a party asset since it was gathered during a party delve.
+
+They’d helped clear the rooms, after all. It made sense to share the proceeds with them.
+
+“Uh, no?” Cora said, looking at me strangely. “Why would we get a share of the herbs and stuff you’ve harvested on your own?”
+
+“Because it’s a party effort?”
+
+“No. Killing mobs is a party effort. Regardless of who lands the killing blow or how much an individual contributes, killing mobs involves all of us. Your foraging is something you’ve done completely on your own. We have no claim to your efforts.”
+
+“Okay,” I said slowly. “If you feel that way, I’ll definitely teach you how to help then.”
+
+“And make sure you keep what we collect as a party separate from what you’ve already gotten on your own,” Mike said. “One of the easiest ways to destroy a party is for one person to feel cheated by the others.”
+
+“So, we’re a party now?” I asked.
+
+Mike and Cora exchanged a look before turning back to me and smiling.
+
+“Looks like it. We just need to register and make it official after we get back,” Mike answered.

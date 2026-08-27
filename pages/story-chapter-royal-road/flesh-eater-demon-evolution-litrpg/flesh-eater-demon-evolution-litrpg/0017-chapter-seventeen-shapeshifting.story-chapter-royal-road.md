@@ -1,0 +1,173 @@
+---
+id: 67d2a190-0d2d-51a4-9200-35712f1d3ba7
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventeen: Shapeshifting"
+slug: 0017-chapter-seventeen-shapeshifting
+partOf: flesh-eater-demon-evolution-litrpg
+position: 17
+ownLength: 3191
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2590922/chapter-seventeen-shapeshifting"
+royalRoadId: "2590922"
+---
+
+The morning light shone down on the forest clearing, highlighting the sprawled corpses scattered between the grasses. The bodies hadn’t started decomposing yet, which Pyre counted as a win. It wasn’t super hot here, which was probably the main reason, but she wondered if the ichor streams everywhere also had a preservative effect. Either way, it meant she’d only have to deal with the smell of dried blood and not also of rotting flesh.
+
+She squinted down at the bodies, trying to figure out which ones had the most usable pieces of clothing on. The long cloak from one of the rangers, a slightly bloodstained but otherwise intact shirt, pants, a coat. Any boots and bits of armor were also mostly fine save for a few scuffs and dents here and there. It was more than enough to put together a full wardrobe.
+
+To the edge of the clearing, Callan hovered around the trees, watching her. He coughed. “So, uh, you have a human form?”
+
+Pyre moved an eye over to face him. Overnight, the rest of her eyes and her damaged mouth had finished healing. [Regeneration] was already putting in work.
+
+Once she’d finished testing out [Weight Manipulation], she’d morphed herself into a fleshy boulder shape, then hunkered down to let the trait do its thing. To be fair, she’d already been pretty far along the healing process, so it was hard to say how much of a difference the trait had really made, but she was just happy to have all her eyes and mouths working again.
+
+Knowing what she did now about how her body took damage, she elected to keep four eyes active with four on reserve and one mouth active with two as backup. That seemed more than cautious enough for her.
+
+Of course, once she started shifting into a more humanoid form, she’d be down to just two eyes. It was an unfortunate but necessary sacrifice for her disguise to work.
+
+“Eh, it’s not really a full form.” She rippled some of her flesh for emphasis. Once again, Callan didn’t react. Ever since she’d returned that morning, the ghost had seemed noticeably calmer than the previous day. His eyes were a little sharper, his movements still cautious, but less skittish. Maybe all the trauma was starting to settle now. Good for the kid. She was practically proud of him.
+
+“I don’t have a ‘humanoid form’ trait or anything like that,” she continued, “but I can probably warp myself into a human shape. It’ll only last an hour, though.”
+
+Callan squinted at the demon. He looked dubious, and she didn’t really blame him. She did look decidedly not-human right now. Still, he nodded slowly, apparently deciding to take Pyre’s word for it.
+
+Turning back to the corpses, Pyre first grew a bone and added some joints to it, consciously making the end blunt instead of her usual sharp spike. Removing all the clothes and armor, it turned out, was an absolute pain without opposable thumbs, but she managed to succeed with minimal rips. The shoes, on the other hand, were straight up impossible, so she decided to deal with them after morphing herself into the right shape. Speaking of which…
+
+The demon squinted down at the leader from the first patrol. He was probably the most intact corpse here and also conveniently lying face up on his back. She absorbed her current bone back into her body, then grew a pointy one and promptly stabbed it down into the man’s corpse.
+
+“What the fuck!”
+
+Callan yelped, but Pyre ignored him. Instead, she twisted the bone, carefully using it like a knife to cut away the outer layers of flesh. “What’re you doing?” the ghost yelled.
+
+“Unless you happen to have a perfect memory of the human skeleton,” Pyre drawled, “I’m gonna need a reference. It’s not like he can feel it.”
+
+Callan opened his mouth and the demon readied herself for an argument about morals or the sanctity of corpses or whatever, but to her surprise, the words seemed to die down before they’d even left. The former human gave the demon a scrutinizing look, then after another moment, he released a shaky breath.
+
+“…Okay. I’ll just—I’ll go wait in the trees.” He gestured vaguely to the forest, then promptly turned and floated away until he’d disappeared into the shadows. Pyre’s eyebrows rose. Huh. Definitely something different about the kid.
+
+She directed her attention back to the corpse she was currently dissecting. Oh well, whatever it was, it probably had nothing to do with her. As long as he didn’t actively get in her way, she didn’t really care what he got up to.
+
+With that in mind, she pulled up the description for her [Flesh Sculpting] skill again, double checking to make sure it was off cooldown. To maximize her time, she’d sculpt the flesh itself last. First, she’d start by constructing the skeleton, then move onto the skin, hair, nails, facial features, and finally the sculpting. She could already tell this was going to take a long ass time, and the more bones she found in the skeleton, the more this rang true.
+
+Oh well. Time to get started.
+
+The first few tries were, as expected, total failures. The human skeleton, it turned out, was very complex, and taking shortcuts by removing a few bones here and there often resulted in the entire thing not moving right. This, unfortunately, meant she had to be properly thorough, but she supposed this was good practice. She figured it would only get easier from here.
+
+Pyre quickly discovered that she could grow bones and ligaments simultaneously, and this was the best way to form the skeleton without the whole thing immediately collapsing in on itself. It was tricky since she couldn’t actually see inside her flesh to look at her progress (an X-ray vision subtrait sure would be nice right about now), but she could roughly feel the bones as they grew. It wasn’t painful at all—more ticklish than anything.
+
+[The trait [Ossification] has leveled up! Lvl 3 —> 4]
+
+The next main issue she ran into was the sizing of the bones. It turned out that 113 constitution meant having a fuck ton of flesh, even with the system’s scaling in place. She kept having to size up the bones to accommodate her mass. Those clothes were about to look very funny on her, she thought in amusement. It was a good thing that ranger’s cloak was so long. She’d have to keep it fully wrapped around herself at all times.
+
+The skull actually ended up being one of the easiest parts of the skeleton to form. Its shape wasn’t perfect, but she was going to be using [Flesh Sculpting] over it anyway.
+
+For now, with great reluctance, she absorbed her eyes and grew two small, human-shaped ones around where the sockets were. Next was the mouth, which felt like an even greater sacrifice. It was weird not having sharp teeth or not being able to see behind herself.
+
+As Pyre continued warping, she vaguely wondered what Callan was up to. A good amount of time had passed by now, but she hadn’t seen a sign of the ghost. Maybe he’d gotten lost in the woods, or he’d finally decided to leave and free himself from the shackles of his mortal village. She snorted at the thought. Yeah right.
+
+After what felt like and probably was hours, the skeleton was mostly in place. The hands looked pretty fucked up, but she’d cover those up with the very convenient gloves she’d found on the patrol leader’s body, and she hadn’t even bothered to make toes. The boots would hide those anyway.
+
+Now, the demon quickly formed some hair on top of her head (weird to have an actual head now) along with those ever important eyebrows, then did a double check to make sure she had skin all around her and wasn’t, like, missing patches of it anywhere. She absorbed her horns while she was at it. Couldn’t have those giving her away, after all.
+
+Eventually, after some more finangling and adjusting bone shapes and adding in forgotten ligaments, she was left with a skeleton that mostly resembled a human one, a human face without a nose, hair, and some very squishy flesh that looked like it was five seconds away from melting off the bones. Which it probably was.
+
+But the framework was there. Now, it was time for the sculpting to bring it all together.
+
+“You’re way too tall.”
+
+Pyre snorted, but she very carefully didn’t move to avoid tearing the worn clothes more than they already were. At least the boots fit right. Apparently, it had been too much to hope that the humans of this world ran a wider range of average heights than the ones on Earth.
+
+Being in a humanoid shape felt different. Not necessarily better or worse, just different. It had taken her a bit to get used to the concept of legs again, and pulling on the clothes had also taken significantly more coordination than she’d thought would be needed.
+
+She was starting to get the hang of it, though, and now felt fairly confident she could walk around without looking too suspicious. She suspected her past life as a human was helping her significantly right now. If she’d shifted herself into, say, an elephant shape, she probably wouldn’t even be able to stand properly. Shoutout to muscle memory, she supposed.
+
+Hell, she was actually pretty proud of how well she’d done. After [Flesh Sculpting] and a big cloak to hide most of her body from view, on the surface she really could pass for a human. No one had to know her skeleton was weird or that she had no blood or organs.
+
+Unfortunately, despite her truly impressive flesh warping abilities (if she did say so herself), one very big thing still gave her away.
+
+Hovering a few inches above the forest floor, Callan gawked up at her. The ghost had been surrounded by a bunch of dead plants when she’d found him, but she hadn’t had a chance to ask him what he was doing because he’d immediately seen fit to oh-so-helpfully point out the literally big problem with her disguise.
+
+“What, you’ve never seen a human this tall before?”
+
+“No,” Callan emphasized. Pyre sighed.
+
+“Fine, fine. I’ll see what I can do.”
+
+The problem was that she had a set amount of flesh, and she couldn’t really change it. When she returned to the clearing, she broadened her frame as much as she thought she could get away with, then went ahead and adjusted her flesh composition to be almost entirely muscle. She was pretty sure humans needed some percentage of fat for basic bodily functions or whatever, but that didn’t apply to her. She needed to be as dense as possible if she was going to reduce her volume down.
+
+She was still too tall, though. When she adjusted her skeleton to get herself down to a more normal height, she was left with a pile of flesh trailing behind her like some fucked up tail. She couldn’t just pile it on as fat, either, when it was very obviously firm and dense muscle. It wouldn’t move right. And if she actually adjusted the extra flesh’s composition into mostly fat, there would once again be way too much of it.
+
+The demon’s eyes drifted over to the large ranger cloak she’d spread out on the grasses earlier. She hummed in thought.
+
+Well, if she had extra flesh, maybe she didn’t need to force it to fit onto her human frame. Maybe she could just… leave it there.
+
+It was worth a shot.
+
+A few minutes later, Pyre strode back over to where Callan was waiting, now a good two feet shorter than before. The ghost squinted at her.
+
+“…You’re still really tall,” he muttered, “but I guess it’s technically possible?” He frowned. “How’d you manage to shrink down so much anyway? Where’d all the extra flesh go?” he asked, genuine curiosity entering his voice.
+
+In response, Pyre spun around. There, on her back, a big mound of extra flesh sat in a flattened lump like some absurdly oversized pimple. Or a tumor. She’d even put an extra eyeball on it to give it some more character.
+
+Callan yelped and shot backwards, flinching when he passed straight through the tree behind him. He quickly floated forward again. The demon wondered if he could actually feel anything when that happened, or if it was more of a mental “this is weird” thing.
+
+“I’m covering it up with the cloak,” she said before the ghost could argue. She held it up for reference. “See? Plenty big enough.”
+
+Callan bit his lip. “What if someone sees below it?”
+
+“Then I’ll kill them,” Pyre said simply with a shrug. A shrug, which was an action she could do now that she had shoulders. Fun.
+
+“Look,” she continued, “it’s either”—she raised a hand above her for emphasis—“eight feet tall, or a little extra flesh hidden on the back. Pick your poison.”
+
+“…well when you put it like that…”
+
+The demon grinned. “See? It’ll be fine.” She wrapped the cloak firmly around herself, covering up her ill-fitting, bloodstained clothes. Careful not to rip the cloak, she extended some of the extra flesh on her back upwards and grew an eye on the end, using it to inspect herself.
+
+That was another benefit of the extra flesh mass. Technically she could warp her whole body whenever and however she wanted, but it would be annoying to get it back into a human shape if she ever had to do it while in disguise. The blob of flesh on her back, meanwhile, was perfectly amorphous and could easily be used for a few extra appendages if she happened to need them in the village.
+
+Focusing her vision through that eye, Pyre studied herself. She was indeed still quite tall for a human, but it was the kind of tall that would maybe get her an extra glance or two in a crowd, not “definitely not human” tall.
+
+She’d crafted a broad skeleton to maximize the amount of flesh she could pack on, and even through the cloak, she could see the outline of the muscles in her shoulders and upper arms. Those had been a lot of fun to sculpt. She’d had to force herself to keep them somewhat reasonably sized.
+
+The demon focused her attention on her face, which was where she’d probably be getting the most scrutiny. Her features were quite sharp and angular, which she’d found easier to craft. If she stared too hard, her face did look a little uncanny, but it wasn’t enough to arouse suspicion.
+
+Her hair, meanwhile, was long, wavy, and dark, though she’d tied it back in a low ponytail using a cord she’d found on one of the dead warriors. Now that she thought about it, she hadn’t been consciously thinking about what color or texture hair to grow. Maybe this was what her hair had looked like as a human? Staring at it didn’t bring up any memories or feelings of recognition, though.
+
+It occurred to her that Fred had also had hair like this. Considering she’d somehow been born from the ancient titan’s corpse, maybe it was a “bloodline” trait, same with the silver horns, she thought in amusement. Heck, if that was true, that meant Fred had probably had grey eyes, which seemed to be her own default eye color. Unfortunately the poor demon’s eyes were missing the last she’d checked, so she’d probably never know.
+
+Overall, Pyre was pretty happy with her disguise. Nothing was too obviously off. She practically looked presentable right now.
+
+The demon reabsorbed the extra appendage and fixed her cloak. The last order of business was to put on the pieces of jewelry she’d gotten from Pax. She pulled them out of the bag she’d swiped from one of the bodies. Said bag also contained all the coins and other random probably-useful items she’d looted. She didn’t know what this world’s monetary system was like, but between all the corpses, she had quite a big stash of coins.
+
+The silver earring cuff, she found, could be clipped onto the side of her ear, so she went ahead and did that. She didn’t feel remotely different afterward, so she’d just have to hope the crossroads demon was telling the truth about the thing working.
+
+“Here, kid.” Pyre raised the bracelet. “Put this on.” The ghost, however, looked at it hesitantly. She raised an eyebrow.
+
+“What?”
+
+Callan shook his head. “Nothing, sorry,” he muttered.
+
+Carefully, he raised an incorporeal hand. The demon dropped the bracelet onto it, half expecting it to fall straight through and for the whole thing to have been a hoax.
+
+Instead, it landed on that translucent palm and immediately adopted the same silvery, see-through quality. Callan stared at it for a second, almost in awe, before slipping it around his wrist.
+
+“What’ve you been doing here anyway?” Pyre asked, nodding at all the dead trees. “I’m guessing you’re not destroying ecosystems for fun.”
+
+“I was leveling,” he said carefully. The demon raised an eyebrow.
+
+“What, you mean you can get experience from draining plants and shit? Doesn’t sound very fair to me.” If she could do that, she’d probably be level forty or something by now.
+
+“It’s slow,” Callan admitted, shifting a little uncomfortably. “Slower than it would be if I drained living creatures. I think there’s a cap on how much experience I can get from plants everyday. But I just needed a few levels to get some traits.”
+
+He took a deep breath and squeezed his eyes shut. In the next second, the ghost completely disappeared from view.
+
+Pyre’s eyebrows rose. Her eyes swept the area for a sign of him, but there was none. He had, for all intents and purposes, become completely invisible.
+
+“Huh, not bad.” It would definitely make getting the ghost into the village easier. She did need him to lead her to the crystals, after all.
+
+“I can only stay invisible for an hour at a time,” Callan’s disembodied voice said. It was slightly more echoey than the kid’s usual voice, less focused and harder to pinpoint. The fact that ghosts didn’t have a distinct smell, too, made it effectively impossible for her to locate his exact position. Maybe when she got that [Thermal Vision] subtrait she’d be able to see him. Ghosts ran cold, right? It did feel a little chillier in front of her.
+
+“Same time frame as me, then,” she said. She glanced up. By now, the sun was starting to reach its peak in the sky. Damn, all that warping had taken even longer than she’d thought. Skeletons were way too complicated. “We’d better hurry up.”
+
+Callan didn’t say anything, but she assumed he agreed. Giving her cloak another tug to make sure it was fully covering her, Pyre turned, scanned the forest one last time, then began making her way towards the village.

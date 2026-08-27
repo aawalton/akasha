@@ -1,0 +1,285 @@
+---
+id: eb6bf985-daf1-5789-bd24-2050d9772aa4
+page-type-slug: story-chapter-royal-road
+title: "13 - Jack of All Trades Doesn't Work Here"
+slug: 0013-13-jack-of-all-trades-doesn-t-work-here
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 13
+ownLength: 1672
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3405824/13-jack-of-all-trades-doesnt-work-here"
+royalRoadId: "3405824"
+---
+
+=== BOSS ENCOUNTER  ===
+
+[SKOLL, BEAST OF THE ENDLESS BLIZZARD]
+
+None of us moved.
+
+Not me. Not Reina. Not Meriel.
+
+Not even the beast in front of us.
+
+The blizzard poured down on us, causing our Warmth Auras to flicker. I tried to keep my mana steady, helping Meriel maintain it, but I knew it wouldn’t last much longer.
+
+“What is this…?” Reina whispered.
+
+Skoll’s eyes briefly shot to Reina. Even from a distance, there was no doubt in my mind that the beast heard her voice. A wolf’s sense of hearing was keen.
+
+That was, if the monster in front of them was even still considered a wolf.
+
+“We can’t fight this,” Meriel said.
+
+We looked at her.
+
+“What? Are you sure?” I asked.
+
+“He’s Skoll. One of the guardians of this region.”
+
+Guardians…?
+
+She tapped her staff to the ground, and the area around us began to brighten with a light even whiter than snow. It was the same spell she had cast back at the guild to teleport us to this region.
+
+But Skoll didn’t let her.
+
+It shot forward, lunging at us. Its jaws gaped open, revealing its two rows of blade-like teeth. They weren’t the same kind of teeth we were used to seeing. Some of them were made of crystals.
+
+“Defend me!” Meriel yelled.
+
+Reina pointed her spear at the beast, aiming it at the neck. I cast Fireball.
+
+My Fireball shrank just before its face, extinguished from its frost breath alone.
+
+The beast then bit into Reina’s spear, and the two were locked in a struggle. Frost crystals exploded across the spear, spreading upward like living ice veins. Reina grunted, her face turning red as she tried to pull it away.
+
+She managed to yank free just in time before the ice veins could reach her hand. As soon as the spear left the beast’s jaws, it returned to normal, the veins retreating into nothingness.
+
+Skoll continued attacking us.
+
+“It’s done!” Meriel yelled.
+
+I felt her spell beginning to take us away.
+
+But as if Skoll knew exactly what was happening, it slammed its front paw into the ground. Everything shook. Cracks of jagged crystals burst across the ground, starting from its paw and heading toward us.
+
+The three of us were forced to dodge away. Meriel cancelled her teleportation spell.
+
+Skoll stood from a distance, observing us.
+
+“I won’t be able to do it,” she said. “It’ll take too long.”
+
+“You were a lot faster back at the guild,” I said.
+
+“I know. The blizzard is making my spells slower to cast.”
+
+…Could it be?
+
+I called [INSPECT] on her.
+
+[ELF: MERIEL]
+
+Status:
+
+[Authority of the Endless Blizzard]
+
+I inspected Reina and myself, as well. We all had the same status.
+
+[TROPE INITIATED: THE ICE BOSS HAS A STUPID SLOWING DEBUFF]
+
+Completion criteria: Dispel the status effect.
+
+I pushed the System message away.
+
+“Spells might not work,” I said. “Meriel, do you have any more weapons on you?”
+
+She shook her head. “I’m a mage, not a chest.”
+
+“...”
+
+For a moment, I thought of pulling out my knockback stick from my [INVENTORY], but I remembered that it wouldn’t work on any bosses. It would just instantly break on contact with one.
+
+Reina stepped forward. “I’ll keep it off! Try to cast the spell again, Meriel!”
+
+“You can’t hold it off on your own,” she said.
+
+“I have to try, or else we’re all going to die!”
+
+The people of this world didn’t understand the concept of Levels. If only she knew that the beast was an entire 60 Levels higher than her…
+
+What could we possibly do in this situation?
+
+Did I have to use more of my stat points?
+
+Unallocated Stats: 42
+
+Argh… I really don’t know. What if I needed to use them later for something else?
+
+[TROPE INITIATED: TOO AFRAID TO USE STAT POINTS]
+
+Description: A typical behavior for those striving toward the perfect build.
+
+Completion criteria: Have 10 or fewer unallocated stat points.
+
+This was a sign, wasn’t it? Even the System was pushing me to use them.
+
+My gamer instincts always made me realize how scarce resources were. I’ve always been afraid of somehow screwing myself up with the wrong stats. Hell, even the stats I had now were… questionable.
+
+Strength: 20
+
+Agility: 20
+
+Vitality: 20
+
+Endurance: 1
+
+Intelligence: -1 (+1)
+
+Wisdom: 21
+
+I didn’t even know what I was doing anymore. I had the strength for a knight, the speed of an assassin, the health of a tank, and the wisdom of a mage—all at a moderate level. We’ll just ignore endurance and intelligence for a second.
+
+In other words, I was a jack-of-all-trades and a master of none.
+
+But against a monster like this?
+
+That probably wasn’t enough. Me being Level 120 meant little if all my stats were spread apart.
+
+Screw it. I already signed myself up as a mage, anyway.
+
+[INTELLIGENCE]
+
+[0 → 20]
+
+[WISDOM]
+
+[21 → 33]
+
+Unallocated Stats: 10
+
+I felt my mana regenerating faster, even with the [Authority of the Endless Blizzard] status effect on me.
+
+[TROPE COMPLETED: TOO AFRAID TO USE STAT POINTS]
+
+[REWARD: MOMENTUM]
+
+Description: Recently allocated stats are temporarily more effective.
+
+Note: See? That wasn’t so hard.
+
+The beast lunged at us again.
+
+Reina stood in front of us, trying to defend from the attack with her spear. But I had already cast another Fireball.
+
+Skoll tried to do the same as last time. It was expecting the Fireball to extinguish just before it, but it didn’t. The Fireball hit its face, exploding and causing it to stagger back. It immediately dug its face into the snow to minimize the burn.
+
+The System was right. This beast was much smarter than the other wolves we had fought earlier.
+
+HP: 92%
+
+“Good hit!” Reina shouted.
+
+Meriel stepped beside me. “How did you manage that?”
+
+By dumping most of my skill points, of course. But I couldn’t tell her that.
+
+“We’ll fight it off,” she continued. “Time our attacks together.”
+
+“What happened to trying to escape?” I asked.
+
+“If my teleportation’s cast time is too slow, the next best thing is to do what you just did.”
+
+“Attack the beast?”
+
+She nodded. She waved her staff around Reina’s spear, and the entire weapon—apart from the handle—was engulfed in flames.
+
+“Whoa!” Reina yelped, almost throwing it away.
+
+I felt the Warmth Auras around us dimming.
+
+“Three minutes,” Meriel said. “That’s how long we have before the Warmth Auras dissipate.”
+
+We turned back to the beast. It was pacing around from left to right, observing us again. It seemed more cautious now since I landed an attack on it.
+
+“When I say go, cast Fireball again,” she said. “And Reina—charge at it from the right side. Stay far enough so you don’t get hit by our spells.
+
+We nodded and prepared our attacks.
+
+Meriel aimed her staff at the beast.
+
+For a moment, nobody moved. Time seemed to slow—a common phrase, I know, but it’s common for a reason.
+
+Then…
+
+“Go.”
+
+I shot a Fireball. Reina charged from the side.
+
+The beast dodged my attack, having learned from the last time. When Reina thrust her spear at it, Skoll slammed its paw on the ground, causing sharp ice to protrude up where she was. With her spear on fire, it knew better than to grab onto it with its jaw.
+
+Reina dodged the ice, continuing her sprint toward the beast. She jabbed.
+
+It fell back.
+
+But she was only a distraction.
+
+Somewhere during our attacks, Meriel had cast a fireball of her own. But not just any—it was a Guiding Fireball. Skoll caught sight of it, trying to dodge and avoid it, but the Fireball only followed wherever it went.
+
+It hit.
+
+HP: 81%
+
+The beast howled, causing all the snow to break apart. We stumbled. The blizzard grew even worse.
+
+Then, all at once, dozens upon dozens of crystals spiked up from the ground at a completely random pace. It was impossible to dodge something so unpredictable.
+
+Meriel waved her staff, and a gust of wind picked the three of us up, bringing us into the air. Several crystals stabbed up where we stood. Thank goodness she had such a useful spell. We would’ve died if it wasn’t for that.
+
+But the beast moved fast. Seeing the three of us grouped together on the wind platform, it knew we didn’t have much space to avoid his attack. It jumped at us.
+
+I cast Fireball, and it hit the beast.
+
+HP: 73%
+
+But Skoll didn’t falter. Even after the Fireball exploded in its face, it continued through the air, hitting the three of us off the platform.
+
+We landed on the ground, hard, barely avoiding the crystal spikes.
+
+My whole body shot with pain—not just from landing, but from Skoll hitting us while we were up there. Just one touch on its body was enough to give us symptoms of frostbite.
+
+I called [INSPECT] on myself.
+
+HP: 312/576
+
+Are you serious? That one attack did that much damage?
+
+“Allene! Meriel!” I heard Reina cry.
+
+I looked in the direction of her voice, but…
+
+She wasn’t there. Nothing was there. I couldn’t see anything.
+
+The blizzard was at its peak. The snowstorm erased all sight, and I couldn’t even see the spiky crystals, which had been just in front of me a moment ago.
+
+Skoll had entirely disappeared. I heard its growling. Its footsteps. It was somewhere… to my left… to my right… I couldn’t tell. It came from every direction, as if it were circling us.
+
+As if it were circling its prey.
+
+Then, the Warmth Aura around me burst. I was out of mana. And now that I was also split apart from Meriel, the Warmth Aura couldn’t be maintained any longer.
+
+I screamed as the blizzard burned me alive.
+
+It didn’t matter if I had the [FROST RESISTANCE] passive skill.
+
+It did nothing here.
+
+HP: 272/576
+
+HP: 248/576
+
+HP: 221/576
+
+[TROPE INITIATED: THE BOSS ENTERS PHASE TWO]
+
+Completion criteria: Survive.

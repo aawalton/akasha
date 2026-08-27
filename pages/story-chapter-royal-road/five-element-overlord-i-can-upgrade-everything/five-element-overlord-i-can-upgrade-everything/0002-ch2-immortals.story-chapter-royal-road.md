@@ -1,0 +1,149 @@
+---
+id: 2a9ce34f-0848-5ed3-950c-b127a0a36ec5
+page-type-slug: story-chapter-royal-road
+title: "Ch2 Immortals"
+slug: 0002-ch2-immortals
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 2
+ownLength: 1741
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211498/ch2-immortals"
+royalRoadId: "3211498"
+---
+
+Familiar faces of farming families, fellow slaves, and unknown villagers are all embroiled in the same chaos I am.
+
+Some have been lucky enough to leave their houses without running into warriors.
+
+Others lay in bloodied pieces, or burned to a crisp in their own homes as the fires grow higher and the warriors more violent.
+
+Bags of clothing, coins, food, young women, and anything of value are being dragged onto strong horses, or thrown in the back of carriages of this bandit caravan.
+
+Many are already leaving after plundering a few houses, while some stay to find more scraps.
+
+I follow the general crowd of fleeing villagers, it is away from the town's center, toward an unpopulated road leading through the forest I hunt.
+
+Out of the nearly 3,000 villagers, I see 300 heads left fleeing at most. Its population has been cut by at least 90%. The majority are bleeding, old men, or sickly kids.
+
+The Donghe Farming Town is no more. It has been absolutely slaughtered and raided for everything valuable.
+
+"Those Martial Warriors always choose the path of evil once they gain power. Don't mortals have a hard enough life as it is!" one old man yells to himself after collapsing due to a broken leg.
+
+Another, missing an arm, grunts while walking past him. "This is the way the world has always worked. The strong take from the weak. If you wanted to make a difference, you would have trained when you were young. That would have been the only way to stop them."
+
+Regret flashes in all the eyes of the elderly that overhear his words.
+
+The kids without their parents that have wandered out of the village just like me are mostly crying, coughing, or wandering with blank, horrified stares.
+
+My head aches with a sharp pain again, and memories of past conversations I've overheard in the farming fields over the years come back to me.
+
+Those so-called Martial Warriors are actually quite common in this world.
+
+With enough daily training, special elixirs, and a strong bone constitution, within 20 to 30 years any mortal can become a Martial Warrior.
+
+Their skin becomes as hard as iron, their muscles become as strong as a tiger, and their organs become efficient and tough enough to never become sick again. Even normal poisons can be neutralized by a Martial Warrior's blood.
+
+On average, 1 out of every 100 people manages to walk this path in their lifetime.
+
+A few get high-paying jobs as city guards, but many opt to work in major cities for wealthy families.
+
+The only Martial Warriors left in the countryside are ones that have strayed off the legal path. They are bandits that raid and loot weak mortal villages because they can.
+
+I feel a few shoulders brush past me as I stop in the middle of the thin dirt road and hunch over, holding my head.
+
+When I come back to the present, an old man stops beside me, smoking a long hand-rolled cigarette. His eyes are sunken in, and his skin is wrinkled, as though he's seen this fate play out many times before.
+
+My eyes shift to the other cigarettes in his front shirt pocket, then I reach into my boot to pull out a copper coin.
+
+"Will you spare a smoke?"
+
+Even though I can't even see his eyes, they grow darker as he hands one over and lights the end with his own lit smoke.
+
+"Keep the copper, kid. This must be your first raid. Mortals have to stick together in times like these."
+
+I smile and accept his kindness. A copper coin would have been overpaying by quite a bit anyway. As I pull in a long drag and start to follow the flow of moving villagers again, the old man stops in place and his sunken eyes widen in fear.
+
+The sweet sensation of a body that has never experienced nicotine once in his life rushes through me. It's the head rush I haven't felt for almost a decade since I joined a dead-end marketing job in my past life.
+
+It's so potent that I can't even walk forward without growing dizzy.
+
+At the same time, the crowd around me all stops moving at once. I halt my steps too as the cool rush wears off in a few seconds. Every person, young, old, crippled, or perfectly healthy stares up into the sky with wide eyes filled with fear and awe.
+
+My vision stays blurred longer than others, but I too look up to see an enormous flying boat drifting over the trees in the forest we are trying to escape through.
+
+A strong voice yells out, "Immortals! Immortal Cultivators have come!"
+
+I look around in confusion, and watch the 20-meter-long vessel stop levitating in the sky.
+
+A bright blue streak of light flies off its deck, moving through the forest in the opposite direction our small crowd is headed. It is back in the direction of Donghe Village.
+
+I squint to tighten my gaze, and realize the blue streak of light has the outline of a woman.
+
+Large ice spears materialize around her and begin to spin quickly.
+
+All she has to do is move a hand, and one of the massive shards crashes down on a small group of fleeing bandits.
+
+Three horses and five Martial Warriors are struck, impaled, and instantly exploded into blood mist by this woman's ruthless strike. All of the other icy attacks collide with other fleeing bandits, killing each of them instantly one by one.
+
+My widened eyes follow this beautiful scene play out until she flies away past the tree line, back toward the village itself.
+
+"All children between the ages of 10 and 17, step forward! All younger kids and elderly, step back!" A loud man's voice bellows out from above.
+
+It rings in my mind like a megaphone, impossible to avoid.
+
+The air around us starts to smell like iron, and it even heats up a few degrees, pushing a pressure down on us.
+
+Many elderly grab kids that are frozen in fear and run back away from the floating ship.
+
+Only a few dozen kids are left standing in place, many of them shaking, a few even peeing themselves on the spot, making the ground wet beneath them.
+
+The pressure that fills the air makes all my hairs that aren't burnt off stand up, and fills my skin with goosebumps. Instead of submitting to the fear, I take another drag of my cigarette and stare up at the ship that seems to be speaking to all of us.
+
+A middle-aged man in a light green robe jumps off the front of the boat, with a silver long sword beneath his feet. The blade glows bright white, and he uses it to slowly float down to the ground.
+
+He has a perfectly symmetrical square jaw, smooth skin, light brown earthy hair, and honest upright posture.
+
+When he looks over the 40 or so of us, I don't see any greed or malice in his eyes.
+
+It looks like he is just here to do a job.
+
+I've seen plenty of shareholder meetings and lower-level company reps looking over ad campaigns with the same indifferent gaze. He's here because he has to be. He has a job to do. He is looking for something and does not care if we're the ones to give it to him or not.
+
+When I let out the next puff of smoke, I feel completely calm.
+
+He pulls out a small black disk from inside his robe and presses it against the closest kid's forehead.
+
+A few seconds pass before he pulls it away and shakes his head. The robed man takes a step to the side and presses the disk up to another child.
+
+Loud explosions less than a mile away in the remnants of the farming village shake the ground. I even turn my head to see clouds of light blue mist drifting in the air. All of the sounds of galloping horses and celebrating bandits have ceased, and I can only imagine what that woman controlling ice has done to make them all quiet.
+
+My gaze turns back to the man that presses this black disk to the foreheads of every single child one by one.
+
+Some of them collapse to the ground after he's done, but I can tell it is not from this man's actions. They are only overwhelmed by everything that has happened.
+
+The majority of them just stand in silence and watch as the man moves past every child.
+
+It only takes a minute or two until he comes extremely close to me. I try to examine this enigmatic being. He really does look like an immortal. There is a subtle charm and presence he carries with him that no Martial Warrior has.
+
+I try to think back on the memories that came with this body, but there have only been rumors and folk tales of real immortals. They're said to rule this world, but never come down to actually meddle with mortals like us.
+
+With just the wave of a hand, they're able to kill half a dozen Martial Warriors. In just two minutes, a single one of them can kill an entire bandit army. With such overwhelming god-like power, the reason for them appearing here still eludes me. What do they want?
+
+Before I can think any longer, an extremely cold gust of wind hits my back.
+
+I turn around, and the outline of a woman flies past my senses.
+
+The cigarette in my hand disappears, and I feel a stone pressed to my forehead.
+
+My line of sight is limited, but I watch the burning cigarette fall to the ground completely frozen in ice.
+
+A smooth, melodic voice enters my ears, making every cell in my body fill with chills.
+
+"Even if your village was just destroyed, stress should be experienced raw in order to learn how to deal with worse situations in your future. Do not limit your path with a crutch before it has even started."
+
+The stone disk is lifted off my forehead, but it isn't black like the one I remember seeing from the middle-aged man.
+
+It shines with five dull-colored lights.
+
+My gaze tries to stay on the strange pulsing disk, but I can't rip my eyes away from the flawless icy woman holding it.

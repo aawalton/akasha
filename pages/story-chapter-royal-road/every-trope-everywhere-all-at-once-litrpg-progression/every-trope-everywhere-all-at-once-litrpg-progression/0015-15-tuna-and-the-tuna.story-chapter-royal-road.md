@@ -1,0 +1,277 @@
+---
+id: 71e73711-34ce-5ea3-9af5-4e12322953c4
+page-type-slug: story-chapter-royal-road
+title: "15 - Tuna and the tuna "
+slug: 0015-15-tuna-and-the-tuna
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 15
+ownLength: 1919
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3416466/15-tuna-and-the-tuna"
+royalRoadId: "3416466"
+---
+
+With how high up we were, I felt my stomach drop. If I had accidentally rolled off after we had teleported here… Well, that wouldn’t have been very good.
+
+The floating island we were on was one of the smaller ones. Around us were hundreds more, all over the skies. I saw all sorts of structures, from homes to mansions to statues to ruins.
+
+Of course, we weren’t the only ones here.
+
+In the distance, I noticed countless harpies, angels, and…
+
+Was that a wyvern?
+
+But that wasn’t even the most surprising thing.
+
+There were several giant sky creatures in the far distance, from blue flying whales to cloud serpents. You probably know what a whale looks like (I hope), but the cloud serpents were a longer, serpentine creature with whips for tails. They were a bit similar to the wyverns, except the wyverns had a thicker body—like a raptor’s—and their wings were more bat-like. There was even a giant pink jellyfish and a manta ray-like creature just beside our island. All of them were the size of entire homes.
+
+Wait a minute… Why were there so many sea creatures up here?
+
+To top it all off, there was even a pirate ship parked at our island. I had no clue how that thing would be able to fly through the air, but I guess anything could happen in a fantasy world.
+
+“Are you okay?” Meriel asked.
+
+I snapped out of my trance. “Hm? What?”
+
+“You’re just staring off into the distance, saying nothing. I thought you died of shock.”
+
+“Oh, I was just talking to myself in my head. Narrating kind of stuff.”
+
+Meriel frowned. “What does that even mean?”
+
+Reina laughed. “She does that a lot. You’ll get used to it. It’s actually really cute to see how concentrated she looks.”
+
+I shot her a look. “Cute? I think you’re just saying that because of the love potion.”
+
+She tilted her head. “No? You are a cute little thing. Right, Meriel?”
+
+…Little?
+
+Meriel smiled. “Yes. Like a puppy.”
+
+…Puppy?
+
+Her eyes bounced between the two of us, observing something.
+
+“I’m curious about the love potion’s effects,” Meriel went on. “Now I’m starting to think the two of you didn’t do anything in that cave after all. Reina doesn’t look particularly infatuated with you.”
+
+“It’s because she barely drank any,” I said.
+
+Meriel turned to Reina. “Is that so?”
+
+Reina nodded, scratching the back of her head with her free hand. She still had the Tree Sentinel’s Spear in her other hand. The flame Meriel had cast on it extinguished.
+
+I turned away.
+
+The moment I did, a winged figure suddenly landed in front of me.
+
+I stumbled back.
+
+“What the hell…?” I said.
+
+“Chirp chirp! Chirp chirp!” a white-colored boy harpy said in front of me. When did he even get here?
+
+Meriel shot him a look. “What are you doing…?”
+
+“Chirp chirp! Chir—”
+
+“I know male harpies are rare, but it’s common sense that you don’t just chirp like birds.”
+
+The boy laughed, flapping his wings excitedly. “You’d be surprised with how many people I get with that! Anyway, I saw a huge bright light and came over here. I assume the three of you teleported here?”
+
+I sighed. “It was a random teleport spell. We had no clue we’d end up here.”
+
+“Why would you ever use something like that?”
+
+The three of us exchanged glances.
+
+Skoll’s piercing gaze through the blizzard still lingered in the back of my mind, and I could tell the others were thinking the same.
+
+That beast… something felt off about it.
+
+And what did Meriel mean when she had called it a Guardian?
+
+“We came across a big icy wolf that was a little too cold for our liking,” I said. It was a bit of an understatement, but I didn’t want to tell someone we just met that we were seconds away from death.
+
+Surprisingly, the boy didn’t press us about it any further.
+
+“Well, now that you’re here, let me show you around!”
+
+I gave a blank stare. “Huh…?”
+
+Meriel shook her head. “No. We’ll be going now,” she said, readying her staff for another spell. She tapped it on the ground, but nothing happened. Her mana was exhausted.
+
+Before either of us could say anything, Reina took our hands and nodded in excitement.
+
+“Yes, please!”
+
+***
+
+So, remember that pirate ship parked near the floating island? And those gigantic flying blue whales?
+
+Yeah, so apparently, the harpy-boy owned that very ship, and he even had one of the blue whales as a pet. We were completely taken aback when he let us aboard.
+
+“What’s the point of a flying ship if you could just fly around yourself?” I asked.
+
+He looked at me as if I had asked the most obvious question in the world. “Groceries, friends, saving me energy—it’s a lot of things,” he said. “Plus, what looks cooler? Flying around with my wings or in a ship?”
+
+“A ship,” I said. Obviously.
+
+“Damn right.”
+
+His blue whale floated beside us, larger than the ship itself. For some reason, she seemed especially fascinated with Reina.
+
+“Look how cute she is!” Reina said with a smile. She reached out, trying to pet the whale, but the ship was too far.
+
+“You think that thing is cute?” Meriel said.
+
+We turned.
+
+She stood on the complete opposite side from where we were.
+
+“Don’t tell me… are you afraid of whales?” I asked.
+
+Meriel looked away.
+
+I burst out into laughter. I wasn’t so sure why I found that so funny. Maybe it was the look on her face. It was the most human emotion I had ever seen from her—even her expression during our near-death battle with Skoll had nothing compared to this.
+
+“Stop laughing, or I’ll blast a Fireball at you,” she warned me.
+
+I didn’t stop. “Hah! Is that all you know? For an advanced mage like yourself, you seem to be a one-trick pony. You didn’t have any cooler spells to help us against the ice wolf?”
+
+She frowned. “Fire is the most effective element on it. I wouldn’t waste my mana on anything else. But fine. If you’re so curious, I’ll use blood magic now. Cover your eyes, Reina and harpy-boy. She’s about to vomit all her blood out.”
+
+With how monotone her voice was, I couldn’t even tell if she was joking.
+
+“No fighting on my ship!” harpy-boy cried. “Tuna’s going to get mad!”
+
+I blinked. “Tuna?”
+
+I looked at the harpy-boy, and he looked at the blue whale.
+
+“There’s no way you named your pet whale Tuna,” I said.
+
+“What’s wrong with that?”
+
+“...”
+
+He scratched his head. “Tuna, show our guests a cool trick. They think your name is lame.”
+
+The whale meowed.
+
+…
+
+No, I did not mishear.
+
+I’ll say it again.
+
+The whale meowed.
+
+Then, it did something nobody expected—especially not at its size.
+
+In the world I’m from, some animals had something known as zoomies. You know that sudden burst of energy a dog gets after a bath?
+
+Yeah. Imagine that, but in the form of a whale.
+
+Tuna flew all over the sky at an impossible speed, doing circles, flips, spins, and everything in between. She went under our ship, over, and even flew through the air, belly-side up. Somehow, she didn’t touch the ship once during all of this. Otherwise, we surely would’ve crashed and died.
+
+[TROPE COMPLETED: THE GIANT CREATURE IS ACTUALLY ADORABLE]
+
+[ITEM ACQUIRED: TUNA]
+
+Description: Tuna really wants this.
+
+This item will now appear in your hand.
+
+Wait… what? My hand? Don’t the items usually go in my [INVENTORY]?
+
+There was a quick flash of white light in my hand. It took the shape of a fish before filling itself with the appropriate, tuna-like colors.
+
+Reina and the harpy-boy looked at me, wondering what that light was.
+
+Meriel walked up to me, brows raised.
+
+“What kind of spell is that?” she asked.
+
+I looked at the tuna in my hand. The moment we made eye contact, the fish began flopping around, wondering how the hell it even got here. Sorry buddy, but I don’t know, either.
+
+Tuna the whale eyed the tuna, meowing in rapid succession. Seeing how desperate she was to eat it, I tossed the tuna high up in the air. The fish was slimy as hell, and touching it felt disgusting.
+
+The whale opened its mouth and ate it in one go—not very impressive considering it was hundreds of times larger, but that’s what it did.
+
+Seeing that, an idea came to my head. I called my [INVENTORY].
+
+[INVENTORY LIST VIEW]
+
+I looked at the suspicious meat. If I remembered correctly, I received it as a trope reward after my stomach growled while I was arguing with Meriel.
+
+[ITEM: SUSPICIOUS MEAT]
+
+Description:
+
+It smells surprisingly good.
+
+Effect:
+
+I grinned ear-to-ear. The pocket void appeared, and I pulled out the meat.
+
+It was exactly as described. A chunk of red flesh that—even when raw—smells good to a human nose like mine.
+
+I brought it above my head and waved it around.
+
+“Here kitty, kitty!” I said in a high-pitched voice.
+
+“Oi! Where did you get that from?” the harpy asked. “Are you some kind of fridge-mage or something?”
+
+Reina and Meriel looked at the meat in my hand. Oddly enough, they didn’t question how I got it or why it was even in my inventory.
+
+What was even weirder was that they were drooling.
+
+“Um… guys?” I said, backing away as they approached me. They had a look in their eyes I’d never seen from them before.
+
+“Meat…” they muttered at the same time.
+
+Why were they acting like zombies?
+
+“Hey, get away from me!” I panicked as Reina grabbed my arm. “It’s for the whale, not you!”
+
+“Food…” Meriel groaned.
+
+Her stomach growled. Reina’s and mine growled at the exact same time.
+
+That’s right. I just remembered.
+
+The reason we even fought those ice wolves in the first place was that we were hungry. The three of us had completely forgotten about it ever since Skoll took us by surprise.
+
+The whale leaned in from the side of the ship, sniffing the meat in my hand. She didn’t even know how to react to it. She meowed and purred, much softer and quieter compared to when I held the tuna in my hand.
+
+Then, she ate it.
+
+But not just the meat.
+
+She ate me, too.
+
+“Aghhh! Somebody help!” I cried in her mouth.
+
+My legs were poking out as I still held onto the meat, my head inside of her mouth. I felt myself slipping slightly deeper into its abyssal stomach.
+
+“Tuna, open your mouth! You’re hurting her!” the harpy-boy yelled. “Wait—no, don’t open your mouth, you’ll accidentally swallow her! Just put her down!”
+
+But the whale didn’t listen to him. It was as if the suspicious meat had completely gotten rid of the whale’s sense of reasoning.
+
+“Reina! Meriel! Do something!” I cried.
+
+I couldn’t exactly tell what was happening since my entire head was in her mouth, but I heard Meriel casting a quick spell.
+
+I felt a sharp gust of wind shoot into the whale’s mouth, trying to eject me.
+
+But it failed.
+
+Instead, the wind only entered through the whale’s mouth, causing her to puff up like a balloon.
+
+“Mrrrrow?!”
+
+The whale sneezed me out like a cannonball, shooting me through the air. I looked below. There was nothing but the clouds.
+
+Uh oh.

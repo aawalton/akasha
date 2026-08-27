@@ -1,0 +1,163 @@
+---
+id: 75e0a61c-0e81-503a-9797-783b7590d1a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 330: Heroes of the Crimson Blade (Part 1)"
+slug: 0367-chapter-330-heroes-of-the-crimson-blade-part-1
+partOf: dungeon-of-knowledge-complete
+position: 367
+ownLength: 2193
+unit: words
+ownProgress: 2193
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2481143/chapter-330-heroes-of-the-crimson-blade-part-1"
+royalRoadId: "2481143"
+markedReadAt: "2026-06-29T20:23:02.606Z"
+---
+
+With the kind of haughty finger flick of a noble forced to deal with the dirt on their own boot, the Ice Witch cursed the kobold rogue before Ali could even begin to have him flee. Ice mana surged, crystalizing in his veins as the potent spell settled upon him, freezing him solid mid-stride. Trapped within the suddenly rigid kobold’s body, Ali struggled with all her strength, but it was to no avail – her rogue was unable to flex even the smallest muscle. All she could do was watch as the enormous Beastkin strode leisurely toward her.
+
+“Thanks, Lilian,” the massive warrior said.
+
+“I’m going to gut that wench,” the assassin growled, caressing a dagger that leaked dark shadowy mana into the domain.
+
+“We have a job to do, Beltz,” the Beastkin rumbled, drawing up to an even more impressive height in anticipation of a showdown.
+
+“Sorry, Bartak,” the assassin said, nodding in reluctant deference to the larger warrior.
+
+“Best you don’t forget,” Bartak said, eyes flashing for a moment. Then, he grinned, “Playtime after.”
+
+Ali caught a glimpse of the assassin’s wicked grin before the huge Beastkin flicked her kobold with a finger and it shattered into a shower of jagged ice shards spilling down the wall. It was only after her other minions caught sight of Seyah and her party fleeing down the dark tunnel that she breathed a sigh of relief.
+
+“Ryn, can you clear the library? We need to get everyone out,” Ali asked. She still didn’t know the intentions of the invaders, but if they were willing to pick on a level three, she didn’t want to take any chances.
+
+“What about the challenge arenas? And the elves?” Ryn asked.
+
+“Shit,” Ali exclaimed, realizing the enormity of the problem. She had upward of two-and-a-half-thousand elves living in her dungeon – she just hoped they were far enough out of the way in the ruins that there wouldn’t be any danger. “We have to try to warn everyone,” she said firmly. She had granted them hospitality – nobody was going to die in her dungeon because she failed to tell them something dangerous was coming.
+
+“I’ll get started on the library,” Ryn said, flaring her wings and zipping off toward the clusters of people studying.
+
+Up in the sewer, the Heroes of the Crimson Blade reached the kobold boss. Without even pausing, the Witch sauntered into the chamber alone and released an unusually slow-moving, swirling, dense blue ball of ice that warped the air around it and prickled Ali’s Sage of Learning skill. As soon as the strange spell reached the center, it detonated. In a flash, the chamber was covered in a layer of thick ice that coated the ceiling, walls, and floor. The kobolds froze like the icy statues of the defenders the Death Knight had left that night in Dal’mohra.
+
+Your Kobold Warrior has been defeated.
+
+Unholy crap! They needed to clear everyone out. Yesterday!
+
+“Efficient as always, Lilian,” the priest said, as the rest of the team waltzed through the chamber unopposed.
+
+The witch merely sniffed.
+
+It took only a minute for the invaders to reach the Timber Wolves, leaving a swathe of dead bodies in their wake. This time the Beastkin warrior drew his gleaming black sword. The moment it was unsheathed, the blade burst into flames, matching the badge emblazoned on their cloaks. He grunted and then charged into the wolves, whirling around several times with powerful slicing strikes and wolves fell left and right – more precisely, pieces of the wolves.
+
+Your Timber Wolf has been defeated.
+
+“Found it!” The assassin appeared in the Timber Wolf den, holding a small sliver of magicite overhead in triumph. “Treasure Sense strikes again!”
+
+“That’s not very big, is it?” the Witch said, frowning.
+
+“Oh, but Treasure Sense says there’s a lot more,” he said, pointing downward. “In that direction.”
+
+“Let’s go,” the half-elf archer said.
+
+“Job first,” Bartak growled, quenching his sword and sheathing it.
+
+Ali felt a moment of panic as they shot off in the direction of her shrine. It was not something she could replace, and after Aman Rak, she also knew they could be destroyed. But her Forest Guardian boss should buy her some time as she scrambled to assemble her troll minions, just in case.
+
+She studied her enemies closely as they approached. Her Forest Guardian might only be level forty, but it had over thirty-three thousand health, and healing magic.
+
+“Bind it,” the assassin said, vanishing into the shadows as they approached.
+
+“Sure thing, Beltz. Greater Binding this, and Greater Binding that, never a ‘please Vernon’,” the priest said, rolling his eyes. But he cast the spell, nonetheless. Instantly, huge chains of glowing holy and shadow magic sprang up out of the ground, rapidly encircling the massive Forest Guardian and dragging it to the ground with a crash while it roared in frustration.
+
+In less than a second, the assassin reappeared, dagger flashing down almost too fast for Ali to see, but leaving a dense trail of mana in its wake. With a burst of shadow mana, the ghostly outline of the dagger punched right through the helpless Forest Guardian’s torso, leaving a crater in the ground below it.
+
+Your Forest Guardian has been defeated.
+
+Ali stared at the notification in shock.
+
+One hit. Oh, that’s not good…
+
+They had killed her Forest Guardian raid boss in a single strike. She barely even noticed them casually mopping up the minions and moving onward as the fear she had experienced fleeing from Roderik came suddenly crashing back. How could she defend against so much power that they could casually dispatch her boss in a single dagger strike?
+
+Your Storm Shaman has been defeated.Your Brine Ooze has been defeated.
+
+“I thought this dungeon would be stronger,” the half-elf muttered, lowering his bow. “Isn’t it evolved?”
+
+“Just barely above one hundred, Sallis,” Beltz said, punching him on the shoulder. “Walk in the park.”
+
+In a panic, Ali opened her Grimoire to summon more monsters, but she paused, unable to think of anything that might be strong enough. Already the intruders were leaving the Forest Cavern, making a beeline for the ventilation shaft at the guidance of the rogue’s Treasure Sense, and it was clear she was running out of time.
+
+They’re coming. Fast. Why didn’t I build stronger defences? Why?
+
+Ali began frantically summoning trolls as the group vaporized her Abyssal Stalker with a hail of flaming arrows and ice bolts and flew down the shaft on a platform of ice. Blood Thralls detonated in a rolling peal of wet crimson blasts as they passed, but she couldn’t tell if she had done any meaningful damage. All she knew was that she had managed to piss off the Witch, who was complaining loudly about the bloodstains on her robe.
+
+***
+
+“What have we here?” the Witch said, flying low over the hurriedly refurbished ruins Ali had reconstructed for the refugees from Ciradyl.
+
+Elves spilled from their temporary dwellings, scrambling to get away from the weight of powerful unconcealed auras. Shouts of alarm rose from their throats as they caught sight of the three-mark intruders and Ali felt the pressure of guilt constricting her chest. She had not even had the time to get out of the library, let alone warn anyone.
+
+“Can I kill them?” the witch asked, somehow amplifying her voice and turning the shouts into screams of fear.
+
+Ali froze, unwilling to believe she had heard right. They’re people! Who the hells does she think she is?
+
+“We don’t have time for this,” the Beastkin said. “We’re on the clock, remember?”
+
+“It’ll only take a minute,” the witch said, her pleading voice sounding grotesque to Ali’s ears. “They are living in the dungeon, so they’re fair game. Please, Bartak?”
+
+“Fine, sate your lust,” the Beastkin relented. “But do it quickly.”
+
+The Ice Witch’s unrestrained laughter rose over the screams of fleeing elves as she summoned a storm of ice mana within her veins. Her hair began to rise on its own and snowflakes crystallized spontaneously about her levitating form. Several arrows and spells pinged against her ice barrier, but they were as effective as throwing pebbles against a granite battlement.
+
+“Always such a drama queen,” Vernon said, shifting his robes.
+
+“Yup,” Sallis agreed, his sharp eyes scanning the fleeing elves for threats, however unlikely, as he held his bow at the ready. “Want to bet on whether she breaks her one-shot kill count record?”
+
+Ali screamed out through her connection, calling on everything she had. All the Frost Dragonets in the ice biome she had made nearby, and the Frost Weavers too. Every single Icicle Bat, the Arcane Shards, Glitter Dragonets, everything that was close enough to act and free of a domain binding. She sent them all charging.
+
+The giant ball of ice formed once again between the palms of the witch’s hands. As she released it to descend upon the refugee camp, Ali’s minions rushed her. At the last instant, the dragonets screeched, spraying frost breath at the flying witch, some of them even colliding with her bodily, while Ali sent one to intercept the ball of ice.
+
+“What the fuck!” Lilian screeched as several nets of frost webbing hit her squarely in the face, and a squadron of level fifteen arcane shards slammed into her from the side. A half dozen Icicle Bats whipped around her head, flapping up a storm.
+
+Her companions just guffawed, seeing Ali’s minions flinging themselves bodily against her. But the slowly descending ball of icy doom collided with the intercepting Frost Dragonet, freezing it solid without even slowing down.
+
+“A little help? Sallis?” the witch demanded, clearly annoyed. She pulsed a Frost Nova in the air and landed a chilling effect on Ali’s frost minions, shattering the flight of arcane shards in an instant.
+
+“Aww, boo. Lowbies messing up your hair?” Sallis said, but he raised his bow. A sudden hail of flaming arrows flew skyward, as the archer responded to her plea, and Ali’s minions began to plummet to the ground, skewered by smoking bolts of fire mana.
+
+Run! Please run! Ali continued to stare, utterly helpless as the ball of ice descended upon the fleeing Elves, and she knew they wouldn’t be able to get far enough in time.
+
+A glimmer of gold streaked by. A flying book. It opened its pages wide and the golden barrier magic encasing its cover expanded dramatically like a ravenous Brast Rock Python unhinging its jaw to swallow its prey. The book snapped shut around the ball of ice mana. It chomped a few times, the jagged edges of the barrier magic acting like fangs before they receded back to a more normal size. Clarence belched once, letting out a cloud of snow, and then flew off on a lurching path like a drunken sailor the first night in port.
+
+“Uh… did you guys just see that?” Vernon asked, breaking the stunned silence.
+
+“It was a book,” Bartak said.
+
+“It was a level forty-seven book,” Sallis clarified, looking pointedly at the Beastkin.
+
+“Are you blind? It was level twelve,” Beltz snapped.
+
+“I don’t fucking care what level it was! That book just ate my Winter Orb,” Lilian screamed, fury making her voice shrill. “No level thirty book can fly and eat my fucking spell!”
+
+“What are you saying, Lilian? That it was cloaking its level?” Vernon asked. “Or are you seeing mimics again?”
+
+“Don’t be stupid, nothing in this dungeon can be high enough level to do that,” Beltz argued. “Come on, forget the stupid book, the treasure is this way.”
+
+“Forget the fucking treasure. Find me the core!” Bartak roared. The eyes of the others all widened noticeably as the Beastkin finally lost his temper.
+
+“That way,” Sallis said quietly, pointing toward the library. Grumbling and subdued, the group quickly reached the hastily deserted plaza before the library, stopping to survey the arenas and Ali’s challenge minions and kobold healers.
+
+I should run, too, she thought. There was technically nothing left in the dungeon she couldn’t replace or recover later, although the books, the shrine, and the anvil could be destroyed. If they wiped out her dungeon, nothing would be left to stop the demons from swarming out of the rift.
+
+Unfortunately, it was also Lira’s home which would be destroyed along with her dungeon. And that half-elf archer seemed to have a powerful tracking skill that could root her out. Ali frowned, studying the Trolls standing guard around her.
+
+I don’t want to be running all the time. What can I do, what can I do?
+
+“What is this?” Beltz said, surveying the arenas and all the minions she had created for training the adventurers. “This dungeon is a joke. Can we kill this, Bartak?”
+
+“Kill it all,” the Beastkin said through a toothy grin as he drew his flaming sword.
+
+It took the party a few minutes to wipe out everything. Most of her minions died instantly, but some of the higher-level challenges she had made lasted a bit longer, and all too soon, they entered her library.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

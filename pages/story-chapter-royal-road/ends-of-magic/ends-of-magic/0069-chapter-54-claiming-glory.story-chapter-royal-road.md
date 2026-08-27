@@ -1,0 +1,217 @@
+---
+id: 5c66bcc3-939d-5301-828a-35648ac3dfaa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: Claiming Glory"
+slug: 0069-chapter-54-claiming-glory
+partOf: ends-of-magic
+position: 69
+ownLength: 2894
+unit: words
+ownProgress: 2894
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3014942/chapter-54-claiming-glory"
+royalRoadId: "3014942"
+markedReadAt: "2026-06-29T20:09:28.671Z"
+---
+
+Nathan dropped his gory trophy and whirled around, checking on the Heirs again. He’d fought Kamus for less than thirty seconds, but that was an eternity in high-level combat. He’d also had to retract his aura, leaving the Heirs unprotected against magical attacks from this direction.
+
+He was just in time to catch a gigantic flash of light as Khachi raised his golden hammer to the heavens and blasted the entire battlefield with divine mana. The effect didn’t blind Nathan, but it burned away several patches of darkness that lurked in the air around them. Stella had blown the dust back at some point, and the air was clear for several miles around them.
+
+The visibility let Nathan see that their battle wasn’t the only one. More sparks of battle flashed for miles in both directions, as well as on the ground. More Aleph Questors had survived the battle than Nathan had expected, though a quick survey had them massively outnumbered by the Ashen Accord and its allied Questors.
+
+In the nearer distance, Aarl closed in for the kill on the same Questor who'd sliced Nathan into pieces. The man’s adamantium blade was chipped and dented, the wizardry present in Aarl’s still-intact weapon making the weapon superior to the nonmagical version. The Questor still blocked every blow in the rapid exchange, but on the twelfth blow in three seconds, Aarl’s black blade sheared straight through the adamant and then through the Questor’s exposed head. Aarl confirmed the kill quickly, slicing the man to pieces and then storing them in separate dimensional bags.
+
+The other Heirs were just as busy. Khachi hunted Amoh with spears of light and flashes of divine power, but the man jumped around the battlefield in flashes of shadow, never staying in one place and leaving behind clouds of darkness wherever he went. The shadow-themed Questor tried to jump in close a few times to attack, only to be forced away by Khachi’s quick reactions and smaller-scale bursts of golden light.
+
+Sarah was firing continuously at a woman who darted through the air with a series of short-range teleports. She was dressed in tight-fitting robes and seemed to phase out of existence for brief moments to dodge Sarah’s bullets. But the ability wasn’t perfect - as attested by a bleeding wound on her side. She was circling around and probing inwards, trying to dive in when Sarah paused to reload, only to be forced back when Sarah drew a revolver and emptied it toward the woman.
+
+Meanwhile, Stella dueled a pair of people made of pure mana. One had integrated themselves into the wind and could make themselves into a blade of air powerful enough to slice through shields of force. The other was an arc of lightning that dashed around the battlefield as fast as thought and tossed powerful bolts towards the Heirs. Stella had responded by summoning a miniature storm of air and magnetism around the Heirs under her own control, using it to rebuff the powerful elemental opponents.
+
+The other two of the elemental trio, I assume.
+
+The Questors farther afield seemed to be engaged in their own battles. A few members of the Ashen Accord could have come to the Heirs’ assistance, but they were instead angling for other conflicts. It looked like Sarya and her grid were fighting a gigantic golem of dirt and stone a few miles away. The massive statue tried to slap Brox and Ushia in vain while Sarya and Garna planted some kind of magical breaching charge on its chest.
+
+After his quick survey of the battlefield, Nathan chose to intervene in Stella’s battle. He lanced his aura out towards the animate wind while it prowled around the Heirs, looking for an opening in Stella’s defense. If they were anything like the previous elemental Questor, then simply touching Nathan’s aura would be enough to kill them. Besides, Nathan was low on resources, and absorbing the amount of mana tied up in that Questor would go a long way towards restoring his buffer.
+
+But his aura was sluggish in comparison to its earlier speed. Nathan’s Focus was only starting to tick back up from empty, and he didn’t want to spend it to enhance his aura like he normally did. He was keenly aware that he was eminently killable at the moment, if somebody else managed to destroy his brain. This was the first time he’d ever really run out of the resource, and he wanted to save it until he had enough to survive another lethal blow.
+
+The wind Questor was wary of Nathan’s aura and seemed able to detect it by how the air fell out of their control around them. They fled from him as only the wind could, giving up on attacking the Heirs to speed off across the battlefield, keeping just close enough to be able to dart back in if Nathan stopped chasing them.
+
+That was acceptable. Aarl joined his sister in engaging the teleporting woman, giving her yet another thing to dodge as he hurled the invisible throwing axe before stabbing towards her with a suddenly expanding rapier and a whip that cracked with thunder. The Questor stopped probing and started retreating, drawing Aarl out and away from the other Heirs.
+
+With a pop of shadow, Amoh manifested behind Aarl, driving daggers towards Aarl’s armored back while the Questor himself trailed protective shadow. Nathan felt a flash of worry and almost diverted, but he wouldn’t be able to make it in time. Aarl’s armor and protective gear were some of the best they’d ever found, and his build boosted it to further heights. But Amoh had founded a school of assassins. If anybody knew how to penetrate through that kind of defense, it was him.
+
+But Khachi had been waiting for Amoh to commit to his reappearance. He levelled his hammer at the Questor, the action drawing every eye by some trick of divine significance. He spoke, and the proclamation warped the aether. “By my word, you die.”
+
+Divine mana and divinity beset Amoh from all angles, called from the Aether by Khachi’s demand. The Questor tried to jump through the shadows and escape, but the burning golden light banished every shadow before it could form. He snarled and tore at the encroaching light with his blades, but the weapons themselves dissolved on contact with the holy light. Then the noose closed, and the Questor died in a puff of divine satisfaction.
+
+No longer distracted by two elemental Questors, Stella was free to focus on just the one she was perfectly suited to counter. The lightning Questor seemed able to seize control of any lightning mana in the area. But Stella wasn’t using lightning mana. After a moment of preparation, she cast out filaments of magnetism and lassoed him like somebody plucking a fish from a river with a net. The interaction of living lightning with an impromptu Faraday cage was bizarre and nonintuitive, but Stella seemed to have no trouble in keeping the Questor constrained.
+
+Meanwhile, Aarl and Sarah were working in concert to hem in the teleporter. She blipped around constantly, sometimes not even reappearing until the danger had passed, and only staying in one place long enough to strike at Aarl with bare hands and feet that struck hard enough to generate shockwaves. She used Aarl as cover, interposing him between her and Sarah. But then Aarl juked out of the way of Sarah’s shot, which cleared him by inches and struck the Questor in the forehead. She spun away limply, a healing charm activating. But Aarl followed up with a series of quick blows to ensure the kill and once more stored the Questor's body in a dimensional bag.
+
+Nathan’s quarry was the only prominent threat on the field, and the windbodied Questor had waited too long to make their move. Nathan might not have been able to move his aura as quickly as he had before, but he still had a lot of it, and he’d spooled it out wide to surround the Questor without tipping them off. They only noticed when the encirclement closed, and by that time, it was far too late. Nathan contracted his antimagic, compressing them in until they made a mad dash to drive their wind through his antimagic.
+
+The only Questor remaining on the field was the animate lightning held captive in Stella’s magic, squirming like a wild animal trying to escape a trap. Stella examined her prey with curiosity, more like a scientist puzzling out a surprising experiment than somebody intending harm.
+
+“Do you need a hand?” Nathan asked, floating up towards her. He gestured towards the Questor. “I could take care of that.”
+
+“No, no, I want to understand how they…” she trailed off, then channeled a bit of lightning mana into the cage. It was absorbed into the writhing mass of energy, which used the newfound energy to struggle all the harder. Stella frowned, then tried it again, this time threading magnetic mana into the electricity. The Questor sucked that down too, though not without difficulty. The magnetic mana stayed threaded throughout the lightning, hindering its easy flow inside the trap.
+
+“Ha,” Stella said. “It’s a passive absorbance, not active. They are the mana, and own any mana of the same kind in the area.” She fed more magnetism-infused lightning to the Questor, letting it absorb it and grow in size even as the magnetic mana was swirled into the mess. Then Stella seized control of the magnetism and used it to scramble up the order imposed on the electricity by the Questor’s mind. “There. Dead Questor.”
+
+Nathan almost objected to experimenting on enemy combatants in the middle of the battle. But he’d done the same thing before, and he expected it had likely resulted in some potent rank-ups and potentially even Developments for Stella.
+
+“Is the battle finished?” Aarl asked, studying the battleground. “I saw Ogarius and one other fall out of the sky. Are they dead?”
+
+Nathan shrugged. “I drained their mana and broke their gear. We could hunt them down, or we could leave them to the Ashen Accord.”
+
+“Found them,” Sarah said. She’d been scanning around with her magical rifle, and at her words she fired once, then again. “Harpy’s tits. The other Questor is dead, but Ogarius was just an illusion.”
+
+“I thought he couldn’t hide?” Stella complained. “Cheaters.”
+
+“I’m sure he’s just ‘regrouping,’” Nathan supplied with a frown.
+
+Khachi shook his head, speaking for the first time since his lethal proclamation. “The war is decided. We have played our role. Let the other Questors finish out this fight.”
+
+“It would be nice to know why none of the Ashen Accord came to help us,” Nathan grumbled.
+
+“To allow us a direct battle that shows our power to the watchers,” Sarah answered calmly. She pointed downwards towards another cloud of smoke and dust below. It was lit from inside by explosions, and Nathan could vaguely hear the sound of battle from inside. “There’s more to accomplish. Just normal Questors, not elders.”
+
+“I’m surprised any of the normal Questors survived my spells,” Stella said, sounding mildly offended.
+
+“They were probably protected by one of the people we just killed. Or one of the others, like over there.” He gestured off in the distance, where flickering lights darted through the air like missiles, only to vanish without a trace before they could reach their target. He squinted. “I think that’s Miruis.” A speck of black blurred through the air, closing in on the source of the lights. “And Vesh. I don’t think they need our help. They look like they’ve got their opponents outnumbered.”
+
+“I would not want to fight those monsters with any disadvantage in numbers,” Khachi said with a shudder. As if to punctuate his statement, a twisting ribbon of red-black divine energy smashed down from the sky to carve a glowing chasm through a hill as it chased down a speeding form. “Phyrne is with them too,” he added, entirely unnecessarily.
+
+Aarl’s voice was dry. “Let’s deal with the smaller issues. I’ve fought enough terrifying Questors for one day. Let’s go knock over some juniors instead. Maybe Nathan will even be able to keep his clothes this time.” He tossed Nathan another wad of clothing, and Nathan pulled it on with a long-suffering sigh, uncaring of how Kamus's blood stained one sleeve.
+
+The Heirs descended from the sky on a gust of Stella’s wind, blasting apart the cloud of dust to reveal a smaller battlefield. It was an uneven fight, with a dozen Questors of the Ashen Accord harrying half of their number of Aleph Questors across a lightly forested hillside. None of them could fly, and the only reason the Aleph Questors were holding their own was because one of them was yanking stone golems from the ground and sending them off to fight.
+
+The Ashen Accord Questors mostly fought with weapons, and they were expertly dismantling the golems and laughing as they chased down their enemies. Vira was among them, and she threw a knife that flew on a lazy arc before embedding itself in the back of one of the Alpeh Questors.
+
+The man spun and swore at her. “Your mind should be scrapped!” He then spent most of his remaining mana on a grand fireball spell that blasted most of the Ashen Accord Questors off their feet. Vira’s defensive enchantments failed under the blast, and her smoking corpse crashed into a tree and fell to the ground.
+
+Nathan descended from the sky and landed in a superman pose just up the hill, behind the enemy Questors. He extended his aura to encompass them all, causing the latest golem to freeze halfway out of the earth. Spells died, and equipment failed, and Nathan regarded them with a sour expression.
+
+They just looked terrified, glancing up towards him and then back down the hill towards where the Ashen Accord forces were getting back to their feet. As one, they turned and ran, reversing course to try and make it straight through their pursuers. The Accord Questors took advantage, quickly dispatching all but one of their enemies who used a short-range teleport to blink past the other Questors.
+
+A bullet from Sarah ended that brief-lived escape attempt, and the other Heirs landed more leisurely. Khachi landed next to Vira’s smoking body and regarded it with a frown. Then he shrugged and knelt, placing one hand on her bloody head. “Your valor was true, and you met the foe without turning aside. Our triumph today bears your mark, written in blood and courage. By the blessing you bear and the judgment we passed, I return you to the ranks of the living.”
+
+The prayer was not Khachi’s best, and he delivered it without much in the way of fervor or power. Aarl gave the wolfman a somewhat incredulous look, then glanced at Nathan as if seeking confirmation that it had been a real prayer.
+
+Nathan was following the divinity and magic, which had indeed reacted to Khachi’s bidding. But it had only done so sluggishly, like there wasn’t any great hurry. Still, divine mana flowed into Vira’s body, and her eyes flicked open with a start before she gasped. Her wounds weren’t fully healed, and they looked like they hurt quite a bit.
+
+“I - I died?” She gasped out, then winced from the pain.
+
+“Be healed,” Khachi said offhandedly, holding up a hand in benediction. Light poured forth, and her wounds closed.
+
+“Thank you,” she said, shivering and hugging herself. Then she looked around at all of the other Questors staring at her. “Ha! Nobody denies me the luxury of Ostren! We’re drinking deep tonight!"
+
+The gathered Questors cheered, and Vira sprang to her feet to join them. “Nice res you got there, stick around, and we’ll show you a good time, mister wolfman.” They all rushed off in the direction of the Aleph Grid starting location, not even waiting for a response.
+
+Khachi just blinked in response, then looked back at the rest of the Heirs. He did not look excited by the invitation. “Did she forget my name?"
+
+Aarl snorted in amusement. "Likely. What now?"
+
+A new voice responded to his question, a small translucent projection of Colborn floating in midair. “Join me in the starting area. The battle’s won, we can handle the cleanup. It’s time to discuss what comes after. And host one Ending of a party.”
+
+Permanent Talent 1: Magical Destruction 6
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 7282/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 829/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 2
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 5
+
+Forewarning 10
+
+The Truth of Magic 6
+
+Evasion 5
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+High-tier Disguise 10
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

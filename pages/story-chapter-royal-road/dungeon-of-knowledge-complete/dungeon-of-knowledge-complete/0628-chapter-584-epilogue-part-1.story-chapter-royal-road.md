@@ -1,0 +1,203 @@
+---
+id: bf80e120-d235-5ea2-88b1-819ae8d3283c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 584: Epilogue (Part 1)"
+slug: 0628-chapter-584-epilogue-part-1
+partOf: dungeon-of-knowledge-complete
+position: 628
+ownLength: 2917
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187702/chapter-584-epilogue-part-1"
+royalRoadId: "3187702"
+---
+
+From his vantage point high up on a rocky ridge, Calen surveyed the steaming jungle nestled in the valley below. Three days of slogging through muddy swamps and bubbling hot springs spewing sulfurous gas into the untamed verdant growth had left him drenched and eager to be done with his search, if for no other reason than he badly needed a bath.
+
+Sure, he could have popped back home with a quick teleport and taken care of it, but he would just have to dive right back in. He was on a job here, and the town that had filled the quest had been hastily evacuated after a tier-two Shade Wolf had waltzed through and turned the westside district into a desolate wasteland of flickering, shadowy rubble that was more comfortable floating than resting on the ground the way normal rubble usually did.
+
+At least the ridgeline peaked up out of the legendarily muggy and insect-infested forests of Koranuur, bestowing the relief of a cool breeze upon his face and drying out his tangled hair. Somewhat. He might just need Ali’s Cleanse circle to fix it afterward, and he was once again glad he’d had the inspiration to cut it shorter the first time he’d visited Ciradyl. The knots would have inspired an epic if there were any Bards or Poets around.
+
+But after three long days, he had finally found it. The forests blurred as his vision telescoped into the dark scar that marred the verdant greens. A dense cloud of foreign mana seeped up from some hidden location below the canopy, but the effects upon the now-twisted and warped growth were clear to see. Half of the trees had black leaves that appeared to warp whenever the lighting shifted.
+
+In the months following their decisive victory over the Blind Lich and his armies at what was now being called ‘The Battle of Myrin’s Keep’ – where were those Poets when you needed them? – the reports of strange and powerful monster incursions had begun to trickle in like water seeping through the cracks in a dam wall – a worrying premonition of rupture.
+
+Nevyn Eld, it seemed, had earned his Guardian of the Realm title in an entirely predictable and self-serving way. Behind the throne room in the ruins of Mi’ir Valdanis, they had uncovered a hidden library that the Lich had repurposed for his study. The stories Ryn had extracted from those ancient tomes, and the scrawled, spidery script scratched across thousands of scrolls, would certainly keep the historians up at night for centuries to come.
+
+The most urgent discovery had been the fact that, strewn across the lands, were ancient dungeons installed around rifts that led to dangerous and sometimes terrifying realms. Ali had hypothesized that Nevyn Eld had used them to collect mana, corpses, and souls, building his vast strength, and in the process had accidentally earned the title for protecting the realm from immense danger. After studying the tomes Ryn had collected from that library, Ali had further suggested that the Blind Lich may actually have been responsible for creating the rifts in the first place.
+
+Regardless, the guild had been receiving growing numbers of desperate pleas for help from across the continent as the Lich’s dungeons began to fail, spilling their denizens out into the world. The Trolls, Centaurs, and isolated groups of Wood Elves that called these inhospitable jungles their home had sent an urgent request to the guild network for help, and Calen had taken the job immediately.
+
+The defeat of the three kings, the Crypt of Kings, and Nevyn Eld’s armies had pushed the entire main raiding group over the threshold into the third tier, prompting the guild organization to finally ratify the new ‘Mithril’ rank for adventurers. As the only mithril-ranked guild, Myrin’s Keep was needed for most of the rift breaks, and Calen was now the highest-ranked scout, having finally surpassed Lyeneru by a couple of levels.
+
+Shadow, he thought, studying the twisted mana. At least the troll witch doctors had been accurate with their reports, and, if the rest was similarly accurate, he would find third-tier monsters roaming about down there.
+
+He flipped a gold royal crown coin into the air, making it vanish in a puff of sparkling mana.
+
+You have gained the Blessing of the Wanderer.
+
+Ten Mirror Images stepped out of him, and a cloud of Motes of Light billowed up into the air. With a small injection of mana, he activated Eclipse, extending the invisibility to all his motes and images, and then he spread out, splitting his awareness through all of them, greatly enhancing his perception and tracking.
+
+“Let’s go,” he whispered, knowing Ali’s Shadow Dragon could easily follow him with that insane mana perception she had that he still hadn’t figured out how to fully hide from. There were definitely times when he was certain she’d slipped a tracking rune into his pocket. A flicker in the shadows of a nearby tree told him she had heard. I suppose it’s fair, though. I can see through her stealth, too. I guess my training is never done.
+
+Less than ten minutes later, he found his first tier three.
+
+Penumbra Anaconda – Snake – level 261 (Shadow)
+
+Coiled up around an old-growth Kapok tree, broader than many of the bigger branches, the sheer weight of the snake bent the trunk and left at least half its body draped on the ground among the exposed roots. As large as it was, his eyes still slid off it, as if it was somehow slippery, difficult to focus on, or even recall. Only Explorer allowed him to maintain his attention on an immense monster that was clearly out of place in the forest.
+
+Still, Calen had faced the likes of Baaoht Yll’shuum, and he simply downed an Eternal Reverie elixir and his focus steadied.
+
+Focusing on maintaining his silence and invisibility, he slipped past and pressed onward, hoping to get eyes on the source of the mana. His images encountered several more monsters along the way, with progressively more frequency, until he finally found it. Fifty feet wide and with dark shadow spilling across from the other side, a tear hung suspended in the air between two enormous trees. It shimmered dangerously, cloaking the oppressively humid forest in darkness that seemed somehow alive, and the two trees on either side were already more than half transformed into shadows.
+
+The dungeon must be on the other side, he realized, studying the heaviness of the mana bunched up against the other side with his enhanced vision. Carefully, he retraced his steps, returning to a relatively quiet clearing he had happened upon a few minutes earlier.
+
+“I found it,” he whispered.
+
+His personal dark shadow flickered, circling his head for a moment before landing beside him. In a flash, the Shadow Dragon vanished, and in its place, Ali appeared, standing inside a glittering golden ball and flanked by four Trolls and two Archons.
+
+Calen nodded his approval. All her guardians were close to three hundred.
+
+“Good find,” Ali said brightly. “Give me a moment to get set up.”
+
+“I’ll keep watch,” Calen said, sending his flock of Mirror Images flying up to watch for intruders while Ali worked.
+
+A massive, white stone ring appeared, and in moments, Ali had established a floating Gate. The distinctive domain of her Dungeon of Knowledge spilled out, and monsters of all kinds scampered, crawled, or flew through the ring. Moss began to spread rapidly across the ground, and glowing mushrooms sprouted. Then the Treants came, their magic summoning fresh trees to sprout along the expanding perimeter of Ali’s domain.
+
+“Yo, Calen,” Mato said, stepping out of the Gate with his heavy Adamant Breaker and Fortress already in hand. “Tell me you found something fun to fight?”
+
+Malika popped out right behind him. “Battle junkie,” she muttered, having heard the request.
+
+“Malika, Mato,” Calen said. “Shadow beasts, mid to high two hundreds. Penumbra Snakes, Dimension Trapdoor Spiders, and Shade Wolves.”
+
+“I’m ready,” Ali said. “Let’s get started. The spiders seem like a fun monster. I want them.”
+
+“Yay!” Mato exclaimed, shifting into his Bear Form.
+
+Calen grinned and then led the way toward the Rift. It was good to hear Ali excited about new and interesting monsters again. If there was one thing he enjoyed most about scouting out these deadly Rift Breaks, it was watching Ali slowly recovering her insatiable curiosity and sense of enjoyment for all the new and unusual magic and monsters.
+
+You have increased the reputation of your Patron.
+
+Malika sat cross-legged in the shade of the giant soul-affinity peach tree Ali had grown in the center of Kezda’s town square, right beside the sparring ring. She kept her eyes closed and, focusing on stamina, she cycled through her body, breathing in the soul-affinity-heavy domain that now filled the ancient and quiet hometown of her mentor and let her awareness float high above the town.
+
+She had spent a lot of time in this very ring, under the rather blunt tutelage of Rezan Jin, but she had learned so much from him, and not just about martial arts: her ancient heritage, culture, and the pride of her people, too.
+
+She breathed deeply, almost a sigh.
+
+The noises of the energetic youths sparring in the ring washed over her without so much as a ripple disturbing the calmness of her mind. Normally, she would have preferred meditating up by the waterfall, just like Rezan had, but today she had promised to remain close to the Gate.
+
+Thank you, Elder. I haven’t always followed your wisdom, but I tried my best. I haven’t always understood your teaching, but I studied hard. And I have tried to pass on the ways of the ancestors to the next generation, as you did.
+
+She didn’t get an answer, but the soft impression of his eyes crinkling into a smile filled her mind, and it was enough.
+
+Mother. Father. I miss you both. Thank you for your guidance and your love.
+
+You’re welcome, Malika. Our memories will always be here for you.
+
+She smiled softly as the impression of a hug settled around her shoulders, but her meditation was suddenly interrupted.
+
+“Elder Malika! Elder Malika!”
+
+Malika’s eyes snapped open at the shouted words and sounds of running feet to find Inaya barreling toward her with a frantic Mazin hot on her heels. Blood streamed from Inaya’s freshly broken nose, staining the dirty white smock she wore.
+
+Oh, no! What did these kids do now?
+
+“Elder Malika!” Inaya shouted, somehow not even noticing she was already looking at her. The twelve-year-old girl skidded to a halt, raising a cloud of dust from her sandals.
+
+“It’s not my fault!” Mazin yelled as he barreled in behind her, flushed in the face and breathing hard. He was a bigger boy, having just come into one of his growth spurts, and his body still looked ungainly.
+
+“What happened?” Malika asked, sighing inwardly. Ever since she had been awarded the title of ‘elder,’ this kind of thing had been happening far too frequently. Or at least, it probably had happened all the time, but now it was her problem. She might have been inclined to pass on the title, but how was she to know it was conferred automatically upon mastering one of the Ninefold Way skills? Everyone had seen those realm messages.
+
+“Mazin punched me in the nose,” Inaya declared, with a defiant uptilt to her chin, the word ‘nose’ coming out closer to ‘doze’.
+
+“What did I tell you two about fighting?” Malika asked, channeling the patience of the ancient craggy mountains and wondering how often Rezan had done precisely the same thing. Maybe with her.
+
+“To learn how to block,” they both answered in chorus.
+
+“So, what happened?”
+
+“She called me a Sand Roach,” Mazin said.
+
+“Because you are!” Inaya answered, pouting, fists placed firmly on her hips.
+
+His entire body twitched.
+
+“And then?” Malika asked.
+
+“He punched me in the nose,” Inaya said.
+
+“Is that right, Mazin?” Malika asked.
+
+“Yes,” he said, looking down at his feet. And then he mumbled, “I’m sorry.”
+
+“Mazin, you need to learn to treat insults like punches. Aunt Ali has giant trolls that win fights by making up insulting poetry. It’s a valid form of fighting – if your opponent can taunt you into making a mistake, you lose.”
+
+“That’s not fair,” he said dejectedly, shoulders slumped forward.
+
+“Fighting isn’t supposed to be fair, remember?” Malika chided gently.
+
+“Yes, Elder Malika,” he said.
+
+“Ok. Now show me the punch you used on her. And Inaya, you’d better block it properly this time,” Malika said.
+
+“Ok,” they answered in chorus again. Then Mazin lashed out with a solid left hook that cracked painfully against Inaya’s nose, while the girl’s arms flailed wildly.
+
+“Ow!” she said, landing on her butt in the dirt. “I wasn’t ready!”
+
+“You were ready,” Malika said. Mazin’s punch had been delivered with a suitable level of skill. But Inaya’s block… “You just used the wrong block, and you didn’t even do that one correctly.”
+
+“I’m sorry,” she said forlornly. Slowly, she climbed back to her feet and wiped the blood from her nose on her ruined smock.
+
+“Show me the second form,” Malika said. “You too, Mazin.”
+
+The two kids dutifully went through the motions, and as Malika studied their technique, it became abundantly clear what the mistake was.
+
+“Here, let me show you something,” she said. “This second move is the block you want. This is how you’re doing it.” Malika demonstrated the pattern, copying the terrible footwork. “The block is supposed to come from the ground. It’s only with a solid foundation that you can move fast enough to make it work. Try it like this.” She demonstrated again, but this time with the correct technique, and made them both do it until it looked better.
+
+“Good,” Malika said, after their form was adequate. “Now, Mazin, punch her again.”
+
+He looked at her, clearly uncomfortable with his assigned role.
+
+“Go ahead,” Malika encouraged him. “She can block it properly now.” I hope, she thought. It wasn’t like she wanted to traumatize them, but a little pain now, when it was easy to heal, might very well save their lives later. She had hated Rezan many times for these very methods when she was his student, but as a teacher, she found herself becoming progressively more like him.
+
+Mazin’s fist lashed out, and there was a dull thud as it connected with Inaya’s forearm.
+
+The little girl stared at it with wide eyes for several long moments, and then she let out a whoop of joy, leaping about in excitement. “I did it! Did you see? Elder Malika, I did it!”
+
+“Yes, you did,” Malika said, grinning. “Now you punch Mazin and see if he can block it, too.”
+
+“Ooh!” Inaya exclaimed with sudden enthusiasm, and she lost absolutely no time in delivering an excellent punch that caught Mazin in the gut, winding him.
+
+Why do they always master the punches before the blocks?
+
+“Here, Mazin. Try it like this,” she offered, demonstrating a correction to his defense.
+
+“Ok,” he gasped, still recovering his breath, but he tried it, blocking the second punch well enough.
+
+“Why don’t you two go and practice a little now?” Malika said, and she pulsed the whole area with Mantra of the Ancestors, causing a grinding crunch as Inaya’s nose reset under the power of her healing.
+
+“Yes, Elder Malika,” they sang out, scampering off with far too much energy.
+
+“And this time, don’t neglect your defenses,” she yelled after them.
+
+Martial Instruction has reached level 31.
+
+Malika sat back down beside the peach tree and closed her eyes once more, looking forward to enjoying her restored peace. If those kids were anything to go on, her Martial Instruction was on track to become her highest-leveled skill soon.
+
+Kezda, she reflected, was a town transformed. When she had first visited, it had been a poor farming town, struggling on the border of poverty, scratching an existence out of the arid and dry rocks. Many of the townsfolk had been saddled with weak or worthless classes, and the few with proper combat classes had been overworked and often thrust into fights they were woefully ill-equipped to handle.
+
+But now, the town bustled with new activity, thriving on the orchards of fruit trees Ali had brought with her domain and the Gate. Nearly every single person had reset their class at her shrine. It was now a town full of fighters, monks, and martial artists, most of whom had joined the guild in Myrin’s Keep for access to the guild quest board, and an influx of fresh coin must be the cause of the burgeoning luxuries she could see all around.
+
+Houses sported fresh coats of paint, and the main road had even been paved with proper flagstones by hiring one of Thorel Moldur’s Dwarven stonemasons. Colorful pennants flew from houses and trees, but the biggest change, by far, was the wealth of uninhibited smiles upon most of their faces as they went about their daily activities.
+
+But Malika’s reverie was immediately interrupted again.
+
+“Malika, Calen found it. The Gate is up,” Ali said, her voice echoing in Malika’s mind from who knew where.
+
+“On my way,” she said, springing to her feet and sprinting through the Gate back to Myrin’s Keep.
+
+Another Rift. Time to earn my keep.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

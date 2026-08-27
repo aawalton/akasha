@@ -1,0 +1,189 @@
+---
+id: 5e5c81e9-437b-5c94-b2ba-0700e4ad4af4
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-Eight: Sprout"
+slug: 0079-chapter-seventy-eight-sprout
+partOf: flesh-eater-demon-evolution-litrpg
+position: 79
+ownLength: 2731
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3356516/chapter-seventy-eight-sprout"
+royalRoadId: "3356516"
+---
+
+Pyre slammed her axe down into a hellhound’s skull, then kicked it away and lunged for the next one. By now, she’d pushed past the Bellhein grounds, or at least she was pretty sure she had. The eastern wall was almost completely gone, so it was hard to tell, but there were noticeably more garrison soldiers here. She could even see the street connecting to both the sanctum and to Magrath.
+
+Wind whooshed behind her, and Pyre casually raised her arm to block the blow. Metal met solid bone with a dull clang, and the demon found herself staring down at the wide, terrified eyes of a familiar cadet. The one who’d stood in front of her in the alphabetical line—Penelope, she was pretty sure her name was.
+
+“Demon,” she half-whispered, fear nearly tangible. Pyre raised an eyebrow. It took no effort at all to shove the cadet back. The human stumbled, nearly tripping over herself.
+
+Between all the warping, her guard uniform shirt and coat were in tatters, and the pants and boots were generic enough that they wouldn’t spark any sort of recognition. Her left arm, meanwhile, was currently a pulsing blob of flesh still trying to regrow itself while her right arm turned into an axe made of bone halfway down.
+
+The rest of her body was thoroughly covered in bone plates, leaving only a few spots exposed for all her eyes to peer from. Her significantly more messy low ponytail still poked out from below the bone armor, streaming behind her in a dark stream, but the silver horns gleaming on her head drew way more attention. She looked quite demonic right now, and it wasn’t a surprise that the cadet hadn’t recognized her.
+
+Maybe that should’ve been a relief, but Pyre found she didn’t really care who recognized her or not right now. She was more worried about getting to the sanctum before it was time to break the barrier. Frankly, she was a little impressed that Penelope had actually tried to attack her despite how obviously scared she was.
+
+Turning away, Pyre didn’t give the human another glance. Instead, she punched straight through an ogre’s torso.
+
+Blood sprayed, adding to the layers of it already drying over her. She could see Penelope gawking at her from her back eye, clearly not knowing what to make of the “rogue demon” attacking Empire troops. She huffed in amusement.
+
+Before turning to her next target, the demon’s [Far Sight] eye caught a glimpse of fiery red hair. Further down the road, she spotted Daphne’s familiar form running down a side street, though she couldn’t tell where she was going. She was closer than expected.
+
+Pyre debated whether to go after her or not. The mage would need to be by the sanctum to blast through the barrier, after all.
+
+Before she could come to a decision, [Vibration Sense] picked up on something.
+
+It was faint and distant, but far below, the earth shook ever so slightly.
+
+Pyre turned just in time to see the pillar of light beaming above the sanctum flash.
+
+Callan squeezed his eyes shut as he pulled in more ichor. The trees rustled around him, the ground beneath his feet glowing slightly as he channeled into the seed. If he focused, he could hear yells in the distance, the occasional flap of wings. It was a constant reminder of what was at stake—of the time slipping away.
+
+As the ghost pulled in another silvery strand of ichor, a familiar warmth slowly seeped into his chest. Not the heart, but somewhere deeper and more fundamental.
+
+Just like every other ichor strand he’d pulled in, he felt the ichor meet resistance at his core. He gritted his teeth and attempted to thin the ichor out to weave it through the barrier protecting his soul.
+
+It didn’t work. Only some made it through, the rest hitting that solid ward around his soul before dissipating back into the atmosphere. Callan channeled the small amount of ichor that had made it into the spell, but it still wasn’t near enough.
+
+By now, his forced focus was starting to slip as panic and frustration took over. That pillar of light shone like a red beacon above the sanctum, mocking him. All of Magrath had become a battlefield, the people fighting for their lives and homes with no end in sight, and it was all because of his fucking weakness.
+
+He’d spent his whole living life fighting against his limitations. Then he’d gone and died and, by some insane stroke of chance, become a ghost.
+
+And yet, even in this new form, he was still every bit as pathetic as before.
+
+The ichor he’d pulled in settled within the seed, but it was still only halfway there. Callan panted, head dizzy, but forced himself to continue.
+
+As he raised his palms again, ready to pull more ichor, he realized the grasses below him had wilted. He’d been so focused on channeling ichor that he hadn’t even noticed himself draining the plants. It was entirely subconscious, an extension of the new, monstrous part of him that was instinctively trying to replenish itself after all the magic he was casting.
+
+That was when it hit him.
+
+Ghosts were, fundamentally, unmoored souls without a body. Lingering life in its absolute purest form. They needed to drain things to stay “alive,” to hold themselves together with their tether gone.
+
+And ichor, the blood of the titans, the thing that ran through the earth and sky and gave life to the world, was their best food source. Because it was the closest thing to what they were.
+
+Callan’s heart raced, the physical sensation more a memory than anything, but it still felt real.
+
+Maybe, he thought, he didn’t need to be able to channel more ichor. Not when his own ghostly form was essentially a big mass of it.
+
+Not allowing himself to hesitate, Callan took a deep breath, braced himself, then phased down into the ground.
+
+He was immediately surrounded by darkness. The earth pressed all around him, and the ghost felt like his lungs were caving in, like he was drowning. Still, he kept going, sinking deeper and deeper down until he saw a faint, glowing green light.
+
+The seed.
+
+Callan raised translucent hands. He was already starting to fade, he could tell. Black spots appeared in his vision as his mind grew dizzy. Still, he pressed on.
+
+Focusing, Callan recalled the sensation of draining things, the way warmth would flood into his soul, making him feel, for a moment, alive again. Brows furrowing, he wrapped his hands around the seed. He then attempted to do the opposite.
+
+Sharp pain immediately coursed through him. Stinging cold and burning flames seemed to envelop him at once. His vision blacked out entirely, and he could feel himself flicker and fade. He was suffocating, but he didn’t care, because it was working.
+
+Through the pain, through the unconscious threatening to pull him under, the seed was rapidly filling with power. A distant part of him was aware that if he kept this up, he would disappear entirely, but he ignored it. He’d drain the entire forest to replenish himself after this if he had to, and if he did vanish for good—
+
+Well. He’d make sure he activated the spell before that happened.
+
+With one final push, Callan felt himself flung violently backwards. The ghost exploded out of the ground, mind clearing like air rushing back into his lungs. He panted and attempted to float up, but he could barely move. His body was so faint that he could barely see himself at all. It was only when he really squinted that he could detect a faint, slightly foggier patch above the grass where his hand was. Any longer and he really would have faded.
+
+The ghost didn’t focus on that, though. Instead, his eyes were fixed on the ground.
+
+There, pulsing below layers and layers of earth, he felt the seed glowing with energy.
+
+The spell was ready.
+
+Callan lay transparent hands over the grass, the following chant practically instinct. Below him, the seed flared to life, the sensation mimicked by the two identical seeds planted below the other circles.
+
+Roots exploded out from them, digging and slamming into the buried stone glyphs with more power than he’d ever managed in a spell before.
+
+Far below, something cracked.
+
+The earth trembled. In the corner of his eye, the pillar of light flashed. Callan immediately spun around to face it.
+
+The light was still there, the ritual spell still active, but it was weaker now without the circles reinforcing it. A slow smile spread across the ghost’s face.
+
+Weak enough to destroy.
+
+It didn’t take long for the group to notice Daphne. One of the guards was arguing with a man she recognized as John, seemingly debating which direction to go, while her uncle’s eyes darted anxiously about the quiet street.
+
+In the end, he was the one who first saw her.
+
+Brown eyes met brown.
+
+Daphne could see the emotions flitting rapidly through his features. Shock, first, then something resembling panic. Guilt.
+
+Her eyes narrowed, and the man seemed to shake himself out of his stupor. He visibly collected himself until his expression had smoothed back into a stoic one. Daphne had already seen the truth, though.
+
+“Daphne,” Lord Bellhein said, halting the servants’ argument. Five other sets of eyes landed on the mage, and she couldn’t help but be disappointed as she recognized each of them. She’d known, of course, that there must be others who knew about her uncle’s plans, but it still hurt to confirm it. These were people she’d known and trusted for years. “What are you doing here?” her uncle continued. “You should take shelter.”
+
+There was a bit of caution in his voice, and Daphne realized that he still didn’t know she knew about his plans. Even now, with the Empire knocking on their doorsteps from the ritual spell he’d help build, he was still trying to pretend like he didn’t know anything.
+
+The thought infuriated her. She clenched her fingers into a fist and took a step closer, acutely aware of the ichor in the atmosphere buzzing around her.
+
+“I know what you did.” She practically spit the words out. Sharp eyes watched Lord Bellhein’s face go pale. He swallowed.
+
+“Daphne, what are you—”
+
+“You did this.” She did spit then, violently gesturing behind her at the same time. To the red light pouring from the sanctum, to the hordes of monsters, to the chaos and battlefield that Magrath had become. “How could you?” she demanded.
+
+Understanding flashed across her uncle’s face. He studied her more closely. “The dead golem in the sanctum… That was you, wasn’t it.”
+
+“Stop ignoring the question,” Daphne snapped. She shifted, pointing her raised hand towards her uncle. She began to pull ichor in, but she didn’t start chanting a spell. Not yet. “You betrayed your whole country, your family, just to what? To work with the Empire? How many people have already died because of you!”
+
+“It wasn’t supposed to be like this!” Something wild and frenzied flashed in the man’s eyes, and it made Daphne pause for a second. She didn’t think she’d ever seen her uncle look like this before.
+
+Lord Bellhein gestured frantically to the mayhem behind Daphne, this little street one of the last few quiet places in the area. “The plan wasn’t—this is too early!” he tried to explain. Daphne narrowed her eyes.
+
+“But the invasion was still supposed to happen.”
+
+Her uncle’s jaw tensed, confirming it. It looked like she’d been right about the Empire deciding to break ties with her uncle and launch their attack early. Yet another reason why working with them had been such a stupid idea.
+
+Beside Lord Bellhein, John tapped his arm, clearly trying to urge him away. They were running, Daphne realized. Now that the Empire had turned against them too, they were trying to escape the chaos they’d help create. Her jaw clenched. She would never let that happen.
+
+Taking another step forward, the tip of the mage’s finger began to glow red again. She saw her uncle and the guards freeze, watching her with a mixture of wariness and horror, but her own gaze remained determined.
+
+“Why did you do it?” she asked again, voice loud and ringing above the distant din of battle. “What did the Empire promise you? Money? Power?” A bitter laugh escaped her throat. “Well? Was it worth it?”
+
+“I was trying to protect you!” her uncle snapped. He gestured wildly around him, that frenzied look returning to his eyes. “You, Edmund, this family! They promised we’d be safe!”
+
+Hurt broke through Daphne’s mask of anger. She could feel her arm shaking and forced herself to keep it steady. “You could’ve done that without betraying Auren. We’ve been holding them off for years now! They wouldn’t have made it past the Spine if you hadn’t helped them!”
+
+“You don’t understand.” Lord Bellhein shook his head, eyes so wide with fear that she could barely recognize him. “We can’t win. No one can defeat the Emperor.” A strangled, hysterical laugh rose from his throat. “There was no other choice!”
+
+Ever since stepping into the sanctum and learning the truth that night, Daphne had nearly gone mad trying to figure out what could’ve driven her uncle to this.
+
+In the end, as she faced the man who’d raised her since she was a child, she was met with not greed, malice, or even ambition.
+
+Painted clear across her uncle’s face was raw, unadorned fear.
+
+The fear of a man who saw no other way to protect his family. The fear of a man too terrified to search for an alternative. The fear of a man who had already given up.
+
+Fight killed by cowardice. Loyalty smothered by terror.
+
+Before the full weight of everything could process, before she could think of something to say next, the earth beneath them shook slightly. Lord Bellhein yelled and leapt back, but Daphne’s focus was already pulling away towards the sanctum.
+
+The sanctum, where the pillar of light had flashed.
+
+Her eyes widened. Callan. He’d done it. The circles were gone, and now the barrier was weakened and vulnerable.
+
+As Daphne began to turn around, a sharp breeze followed by the beating of wings sounded overhead. She jerked her head up just in time to see the wyvern barrelling towards them.
+
+Her eyes widened. Acting purely on instinct, she leapt away, barely dodging the monster’s path as it jetted straight down the narrow road.
+
+She landed hard on the ground. She heard something crack behind her, yells and screams, and looked up to see that the wyvern had flown straight through the side of a building. Fallen stones and shattered glass now littered the road. John was sprawled unconscious a few feet away from the impact.
+
+And there, leg crushed below a chunk of debris, desperately trying to free himself as the wyvern circled above, was her uncle.
+
+For a split second, their eyes met. Raw terror met wide shock, the plea in those eyes visible even above the rest of the storm of emotions she couldn’t discern. A plea for help. For forgiveness, maybe.
+
+Above, the wyvern let out another blood-curdling screech as it readied to dive again. A scream sounded from the main street where the soldiers fought against the neverending waves of monsters.
+
+Daphne swallowed. She forced herself to tear her gaze away from her uncle and scrambled back to her feet, ignoring the fresh scrapes and bruises covering her hands and knees where she’d landed.
+
+Right now, she had a duty. A duty to the people of Magrath, to her promise with Callan and Pyre, and to herself. Callan had already done his part.
+
+Now, it was her turn.
+
+Stumbling a little, Daphne turned just as the wyvern dove again. She heard her uncle yelling after her, voice frantic and begging, but she didn’t turn back.
+
+Not when she heard the wyvern land, not when screams and a sickening squelch rang out behind her. She shoved down the image of her uncle trapped below the rubble, terrified and smaller than he’d ever looked in her life, and kept going.
+
+Daphne ducked her head and bolted towards the sanctum.

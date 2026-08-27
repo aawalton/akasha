@@ -1,0 +1,113 @@
+---
+id: 84c5f717-b691-54ec-8eb4-87f25cc1b4e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 280: The Crafters’ Conundrum"
+slug: 0314-chapter-280-the-crafters-conundrum
+partOf: dungeon-of-knowledge-complete
+position: 314
+ownLength: 1554
+unit: words
+ownProgress: 1554
+publishedAt: 2025-06-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2358420/chapter-280-the-crafters-conundrum"
+royalRoadId: "2358420"
+markedReadAt: "2026-06-29T20:21:56.666Z"
+---
+
+After helping to dispel the remaining frogs, Ali found herself wandering the guild hall with not much to do. Malika was stuck in the guild store bargaining at great volume with an overly animated Weldin, and Mato was sitting on the couch telling the troll youngsters a hopelessly exaggerated story that had the adults rolling their eyes, but he had the kids completely captivated.
+
+She drifted over to the jobs board, scanning the offerings.
+
+Defend Myrin’s KeepWanted: Mages or Archers to patrol the southern battlements and shoot undead. Quest Giver: The Office of Commander Brand.Rank: Bronze.Category: Combat.Reward: 50 copper per skeleton or zombie killed.Undead continue to encroach on Myrin’s Keep from the blighted forest, and the Garrison is offering a bounty of 50 copper per skeleton or zombie killed.
+
+Ali pursed her lips. Her defenders and traps were still killing regular undead incursions by the score, presumably drawn in by the allure of her dungeon mana, but she chose not to take the quest, leaving the purse for the bronze-ranked adventurers. Nothing on the board stood out as important enough for her to consider, and neither Mieriel nor Ryn was around to teach her how to use it properly. But with a few moments of tinkering and judicious use of her Sage of Learning skill, she taught herself how to post a quest – something that took her guild ring to unlock.
+
+Challenge ArenaNotice: The Dungeon of Knowledge Challenge Arena is now open.Quest Giver: Aliandra Amariel.Location: Plaza outside the first-floor entrance to the Grand Library Arcana.
+
+Rank: All.Category: Combat, Training.Reward: Variable.
+
+Pit your skills against a chosen dungeon-spawned monster in single combat.Enable the provided runic restoration circle to spar with your chosen monster for as long as you wish. Hone your skills and develop your Mastery.
+
+Disable the provided runic restoration circle to challenge the arena monster. Should you defeat the monster, any gear or items spawned in the arena are your reward.
+
+Each circle is provided with a failsafe that teleports you to safety upon reaching half health. This is considered a failure of the challenge. Heal up and try again!
+
+Disclaimer: While the teleportation failsafe and numerous healers are provided, all challenges are real. Please be responsible and choose an appropriate challenge level. As officially sanctioned guild training, be reminded that challenging the arena falls under the liability waiver you signed when you joined.
+
+Even as she wrote the quest notice, Ali still sensed the subtle trickle of knowledge and learning flowing through her Sage of Learning as Sabri practiced in the dungeon below. She made sure to keep a watchful eye on her, studying her techniques to improve the skills of her minions, but it didn’t take a whole lot of her focus to maintain the connection. With her chore done, she walked over to the guild store, intent on browsing, all the while wondering how much interest she would ultimately get for her arena.
+
+“…, not even I can get close to him,” Mieriel said, sounding rather exasperated.
+
+“He’s so close, and we can’t even show him our work,” Lydia answered, her voice filled with frustration.
+
+“There must be something we can do,” Weldin said.
+
+Ali identified the little group huddled around a small table in the store.
+
+Merchant – Gnome – level 45 (Space)Spy – Sun Elf – level 71 (Mind)Tailor – Human – level 98
+
+Wow, Lydia! Ali thought, shocked at the enormous jump in her level since the last time she had checked. Perhaps it wasn’t so surprising, considering her own level had made a similar jump. She wondered just how much of Lydia’s growth was due to her wearing the crafted slippers and robes to every fight in the Temple of Aman Rak. Particularly the final battle against Tol’brekk’s evolved Death Knight class, and Nevyn Eld flying overhead. Mieriel too, Ali realized. Intelligence work must be booming.
+
+“What’s going on?” Ali asked, deciding that she wouldn’t be able to pretend she hadn’t overheard their conversation anyway.
+
+“Well…” Lydia said, frowning.
+
+“We petitioned a representative of the Silver Cog Trading Company to come and visit Myrin’s Keep,” Weldin explained.
+
+“Why would we want that?” Ali asked, floating a little closer to join their circle.
+
+“As you’re aware, Jax Hawkhurst has a trade monopoly on anything that comes into or out of Myrin’s Keep,” Weldin said, adjusting his cane to rest against his legs.
+
+Ali breathed out between clenched teeth. “Ah.”
+
+“Yes. He abuses that leverage to keep the crafters and merchants under his thumb,” Lydia added.
+
+Weldin nodded toward her and said, “We sent a package of our wares to Silver Cog, hoping to entice them to add Myrin’s Keep to their trade route – and therefore open our town up to the free market across the continent. We need access to higher-level materials, and we need customers with deeper pockets and higher levels that are willing to buy more advanced items.”
+
+“And they sent someone?” Ali deduced based on what she had overheard. Presumably, something had gone horribly wrong, otherwise, they wouldn’t all be huddled around the table looking glum.
+
+“Yes, but Jax has him sequestered at his estate, and none of us can gain access to petition them. I just know he’s going to convince the representative that it was all a hoax and there’s nothing of value here for them, and then send him on his way none the wiser,” Mieriel added.
+
+“You’ve been a huge help, Aliandra, but there are only so many high-society social gatherings in Myrin’s Keep, and I’ve already sold to almost every single noble or wealthy merchant. If I can’t export my ballgowns, my business is going to stall – I need to be able to compete with the best fashion designers and sell my work in Southport and the other major cities. There’s no other way to earn royal patronage or foreign export,” Lydia explained. “I’ve already saturated the market for my adventurer gear, you’re the only person who still gives me experience anymore. Although it has been a lot lately, I do hope you’re being careful.”
+
+“I see,” Ali answered. It was a serious problem – one that had been entirely outside of her sphere of thinking till now. She glanced at the three worried faces, knowing it wouldn’t just be them. Morwynne, Eliyen, Giddy, and Thuli were all likely impacted, too. Lydia in particular was going to struggle as soon as she evolved her class – if crafters worked anything like combat classes, she would gain substantially less experience unless she made equipment or outfits for other evolved classes, much as Vivian had cautioned her.
+
+And she’s only two levels off. This is urgent.
+
+“I just don’t see what we can do,” Weldin said, sitting back and throwing his hands up into the air.
+
+Wait, two levels… Ali thought, an idea suddenly popping into her head. She glanced around the store finding Malika in the corner browsing some weapons in the aftermath of her sales negotiation with Weldin.
+
+“Hey, Malika,” Ali called out. Malika raised her head and came closer. “I know you wanted to recover from your drain, but if we had to, would you be able to fight the Corrupted Fire Drake in the Emberforge Mines?”
+
+“Sure, it’s not a whole lot of drain, and I’m way stronger than the first time we tried it,” Malika said. “Why? Is there some urgency?”
+
+“I’m thinking we can solve the merchant company problem with my shrine,” Ali said, getting some puzzled looks from all around.
+
+“Lydia, can you make me a new robe from something like this?” Ali asked, retrieving one of the Frostweave Robes of Ice she had recovered from a Troll Ice Mage.
+
+“Oh, Aliandra! Please tell me you know how to make these!” Lydia gasped as she ran her fingers over the shimmering fabric, causing tiny drifts of snow and ice crystals to float down to the floor.
+
+“I most certainly do,” Ali answered with a grin.
+
+“Those are amazing robes, but I fail to see how this solves the problem with Silver Cog,” Weldin put in doubtfully.
+
+“I think I get it,” Mieriel said. “Lydia is level ninety, right?”
+
+“Ninety-eight,” Lydia said, suddenly looking up and spearing Ali with a calculating stare. “My class evolution would trigger a zone message like yours, wouldn’t it? You want to force an evolution and reach the Silver Cog representative with the zone message, right?”
+
+“Yes, and then you can use my Shrine to choose a good class evolution path,” Ali said. “How long will he be in town?”
+
+“A couple of days at most,” Weldin answered, his eye widening as understanding took root. “He’ll leave just as soon as Jax can convince him to go – or finds another way to keep his monopoly.”
+
+“Calen gets back tomorrow, so we can clear the mines right after I run the recruits through the shrine,” Ali said, and then turned to Lydia, pulling out several more Frostweave robes and a whole bunch of the ice-affinity webbing from the Frost Weaver spiders. “Can you make a robe with that little time?”
+
+“I will definitely try,” Lydia said, her eyes lighting up as she collected all the ice-affinity thread and gear, determination oozing from the set of her shoulders and the energy in her hands.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

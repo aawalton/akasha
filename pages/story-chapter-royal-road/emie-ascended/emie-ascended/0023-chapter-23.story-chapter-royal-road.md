@@ -1,0 +1,165 @@
+---
+id: de7cbf77-f7e9-5f61-b4db-453c0dd906dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23"
+slug: 0023-chapter-23
+partOf: emie-ascended
+position: 23
+ownLength: 2522
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3521021/chapter-23"
+royalRoadId: "3521021"
+---
+
+I wiped my hands on a small towel before opening the door to my apartment. Cora stood on the other side, giving me a curious but playful look.
+
+“He said yes,” I told her as I turned back to my current task of preparing breakfast.
+
+I wasn’t just making breakfast for today, though. I was making enough food to cover multiple breakfasts for the entire party.
+
+“That’s good,” Cora replied before noticing the changes to my apartment’s floor plan. “What’s all this?”
+
+“I’m making breakfast, obviously,” I chuckled. “It’s a lot easier to cook in a real kitchen instead of bothering with trying to do everything in the dungeon.”
+
+“That’s true. Do you need help with anything? I’m not very good in a kitchen, but I can chop or slice meat easily enough.”
+
+“Sure,” I said, removing a large piece of pork belly harvested from one of the rock boars on the fourth floor. I’d alchemically cured it using a cheap but effective curing liquid I’d picked up during my last trip to the camping supply store.
+
+I’d cured about half of the supply that I’d kept from the beasts that I’d covertly harvested within my demesne during our last delve. I had no intention of sharing the beast looting secret with anyone, but I doubted anyone would notice a few mobs disappearing, especially when the loot gathered wasn’t diminished at all.
+
+“Slice that into bacon. Try to get some of it really thin, and some of it a little thicker.” After a moment of thought, I said, “Actually, let me show you.”
+
+I demonstrated three different cuts. One for the thin strips of bacon that I preferred, one a little bit thicker that I’d found most people liked, and a much thicker cut, meant to be eaten as Korean-style barbecue.
+
+I’d need to get all of the accompaniments to make the meal work, but that wouldn’t be too hard since this realm had most of the basic ingredients. Those that were missing could be substituted easily enough.
+
+The thought of galbi, which was what Korean barbecue was usually called, reminded me that I really needed to document the many recipes I’d memorized before ascending.
+
+It would have been nice to have been able to bring along a MealMaker, which was an artifact capable of transmuting any material into a meal based on the recipes stored in its memory crystal.
+
+Unfortunately, traveling between realms made such a feat impossible. And since Dia didn’t appear to allow transmutation, it wouldn’t be something I could recreate here.
+
+Once Cora understood what I needed her to do, I returned to my side of the kitchen, which had temporarily taken the place of the living room.
+
+“I really didn’t think you’d talk him into it. He seemed so intent on delving solo.”
+
+“He is only agreeing to a single delve, though he knows we plan to stay for three or four days.”
+
+“You’re going to show him your sanctuary?” Cora asked.
+
+“I don’t see why not. It’s not like we’re going to leave him to fend for himself at night.”
+
+Besides, I’d already shared the existence of the space with Cora and Mike. I didn’t think bringing Stephen in on the secret was much of a risk.
+
+Worst case, the fact that I had access to such a space might draw a bit of unwanted attention, especially once people realized that the Originator for the dungeon was a former Time/Space Mage. But I could honestly say that the space was created using a boon, and it was not something that I’d been involved in creating at all.
+
+Even in my old realm, my soulbound pocket dimension wasn’t something that I’d actively created. The original inventory had been more of a bound artifact than any kind of spell or skill. It had later become a soulbound dimensional space that I’d gained the ability to physically enter through a challenge rift reward.
+
+“Where is Mike right now, anyway?” I asked. “I figured he’d be with you.”
+
+“He’s talking to someone from the Builder Guild. They finally realized he was an Earth Magi and are trying to get him to help with the city’s expansion.”
+
+“I would have thought all of the relevant guilds would have been keeping track of what skills the new Ascenders reported,” I said with a frown as I removed a pair of perfectly done eggs from the small sauce pot on the cooktop.
+
+Those went into storage while a fresh pair took their place. While they cooked, I worked on my next batch of scrambled eggs. I still had a couple of dozen eggs to go through before I started on the bacon. I’d do bacon-fried eggs afterward, just for a bit of variety.
+
+I wondered why the Builder Guild was only just reaching out to Mike. It had been almost two weeks since he registered with the Delver Association, after all.
+
+“I guess they’ve been busy preparing for the big influx that is coming,” she said with a shrug. “Apparently, a large airship is scheduled to arrive the day after tomorrow, and they’ve only just realized that they aren’t going to have enough room to accommodate everyone.
+
+“Regardless, someone realized an Earth Magi was among the new Ascended, and they reached out to see if he would be willing to help. Mike’s been talking about heading over to the local branch and signing up. This just saves him a bit of time.”
+
+Priest Zeth had mentioned that the city would experience some growth with the arrival of the new Ascender Dungeon, but I hadn’t given much thought to how that would impact the city.
+
+It was obvious, now that I considered it. The people moving here would need places to live and the infrastructure to support them. That meant expanding the city, which required builders.
+
+“I’ll admit, I’m a little worried about how much time they will demand from him,” Cora said with a frown. “On top of the pittance they’ll offer as compensation due to his copper ranking – never mind the fact that he’s an Ascender – helping with the expansion is inevitably going to cut into our delving. They already expect him to spend the next two days working with them.”
+
+“I doubt it’ll interfere too much,” I countered. “The rules are pretty strict about stuff like that. The priority is for us to reach our first evolution. If they interfere with that too much, they’ll probably get into trouble.
+
+“I’d be willing to bet they’ll only ask him to work two or three days a week, at most. The rest, they’ll want him spending in the dungeon to reach his first evolution as quickly as possible.”
+
+“You think so?”
+
+I nodded. “Yes. The hospital suggested something similar to me during my last shift due to the increase in patients over the last week or so. From what Healer Seraphine said, it looks like they’re expecting the city’s population to double over the next year.”
+
+I’d been a little surprised at how quickly the city was expected to grow, especially considering how difficult and costly it was to move to a new city. That wasn’t even taking into consideration the bureaucratic side of things.
+
+While people were mostly free to travel as much as their finances and capabilities allowed, obtaining residency in a new city was not as simple as just moving somewhere and claiming yourself as a resident.
+
+It required approval, usually in advance. However, if someone managed to find long-term housing and a job after arriving, their petition for residency was usually approved. Active delvers were given an exception in many states and territories, but not everywhere.
+
+“You didn’t mention anything about the hospital wanting you to set a schedule. I thought you said that wasn’t allowed for apprentices. Don’t you just sign up for any open shift and work whenever?”
+
+“That’s how they normally do things since most apprentice healers need a full healer to watch over them. I’m a little different. Mike will be, too.”
+
+“Because you’re an Ascended Healer and he is an Ascended Earth Magi,” Cora surmised.
+
+“Pretty much,” I agreed. “My healing skill is stronger than most of the bronze-ranked healers, so I don’t need the same kind of oversight. It doesn’t help that the medical facility is perpetually understaffed due to how few people get healing skills. Likewise, Mike will probably be able to do a lot of things that some bronze, or even steel-ranked builders can’t manage.”
+
+“The part about the hospital’s understaffing really surprises me, given the number of new delvers I’ve heard claiming to have found healing skillbooks recently.”
+
+Cora’s comment reminded me that I hadn’t told her or Mike about my status as the Originator and what that meant for the dungeon. I’d need to explain it sooner or later.
+
+“From what I’ve seen of the new healers coming into the hospital to get some experience, there are two kinds of healing skillbooks being provided by the dungeon: one that reverts damage and is best used immediately after an injury—”
+
+“Like Hothen’s new skill,” Cora interjected.
+
+“Exactly. The other one speeds natural healing, which is actually quite useful in a hospital setting, especially for illnesses. It’s not as good with injuries unless the person actually has a little bit of medical knowledge to go along with it, but most of the new delvers don’t have that kind of training yet. That means they require a lot of oversight.”
+
+“Your healing skill is different?” Cora asked. Something about her tone made me wonder if she already suspected that I might be the one responsible for the dungeon’s evolution.
+
+“My skill is very different, though it incorporates aspects of both, I guess. How long it’s been since someone was injured isn’t a factor for me, though my skill still uses the body’s ‘memory’ of what it was like before the injury to guide the healing process.
+
+“I also have a ton of medical knowledge that I picked up in my previous realm. Obviously, not all of it is applicable since we’re a different race. But Dians are close enough to the races that I have healed in the past that the knowledge and experience still benefit me.”
+
+Cora hummed thoughtfully as she carefully sliced strips of pork belly and organized them by thickness.
+
+“I guess I need to find myself an apprenticeship of some type if the rest of you already have something,” she mused. “You said even Stephen has an apprenticeship?”
+
+“Yes. With the leatherworkers.”
+
+Cora’s hum grew deeper. “It’s too bad I don’t really have a non-combat skill that I enjoy like the rest of you.”
+
+“What have you tried?” I asked.
+
+“Lots of things. Woodworking, pottery, glassmaking, sculpting, painting, weaving, sewing, cooking, gardening… I’ve tried a little bit of everything, minus the fields that required you to have the right connections to even try. While I was better at some things than others, my interest never lasted with any of them for more than a handful of years.”
+
+“You don’t have to get an apprenticeship if none of the fields that offer one appeals to you,” I told her. “It isn’t like you need to waste a skill slot on a non-combat skill if you don’t want to.”
+
+“I know that. I just wish I had something that I enjoyed like the rest of you do.”
+
+My mind immediately drifted to Bell, my former sister-in-law and fellow Enchanter. I’d been the one to teach her about Enchanting initially, especially once it became something she could do in real life instead of a game.
+
+I’d also spent a few years teaching Enchanting to sect disciples during my short break from the dungeon. Though I still didn’t think that I’d enjoy teaching kids how to survive in a dungeon, I really didn’t mind teaching someone the basics of how to enchant.
+
+Further, having a fellow Enchanter in the party would significantly expand the types of artifacts we’d be able to make by working together, especially since we had access to very different magic types.
+
+“Have you ever considered Enchanting?”
+
+Cora laughed loudly at my suggestion.
+
+“Sure, I’ve considered it. But as far as actually hoping to learn?” She shook her head. “It was never even an option. Only those with the right connections, which were mostly just people living on Lomis, had a chance to learn skills like that.
+
+“I heard rumors of people living on other worlds who learned a rune or two from an old book or as part of a family inheritance, but if they existed, they were even more secretive about their skills than the snobs on Lomis.”
+
+“I understand,” I said, remembering what she’d said about how she and her husband wouldn’t have been welcome on Lomis due to their ‘mixed’ relationship. “Do you want to learn now? I imagine Enchanting in this realm is very different from what your old realm used, especially since you said the magic of your old realm relied on mana, just like my old realm.
+
+“The essence of this realm doesn’t follow the same rules. It makes Enchanting harder in some ways, but also easier since you don’t have to memorize a bunch of runes to get it to work.
+
+“You could also ask for training from the Association’s Enchanters if you’d prefer to learn from someone else,” I suggested, sensing a bit of resistance to my unspoken offer to teach her the skill. “I’m pretty sure they offer lessons to new delvers interested in the field.”
+
+“I honestly didn’t even consider that,” Cora admitted. “I can’t say for sure that I’d actually enjoy Enchanting, but I’m certainly willing to give it a try. I don’t really feel right asking you to teach me, though, given how much it seems like Mike and I are already taking advantage of you.”
+
+“I don’t see it that way at all,” I said. “We each contribute in our own ways. As long as you aren’t actually trying to take advantage of me, we’re good.”
+
+“Still, I think I’d rather ask the Association’s Enchanters to teach me if it’s all the same. You’re juggling enough things without adding another commitment into the mix.”
+
+“That’s fine,” I said easily. She wasn’t wrong, after all. “Why don’t we head over to the Association’s Enchanting Shop after I finish up here? I should probably sign up as an apprentice Enchanter anyway if I want to sell any of the items I’ve been making for practice.”
+
+“You haven’t already registered?”
+
+I shook my head as I poured the fluffy scrambled eggs into a container and put them into storage. “Not yet. I kept meaning to, but other things kept coming up.”
+
+Having cooked enough eggs to last for a while, I moved on to the thin slices of bacon. I only had a few pans to work with, and the cooktop wasn’t really large enough for me to make a lot at one time. I’d probably need to pick up a few more items if I planned to cook in bulk like this in the future.

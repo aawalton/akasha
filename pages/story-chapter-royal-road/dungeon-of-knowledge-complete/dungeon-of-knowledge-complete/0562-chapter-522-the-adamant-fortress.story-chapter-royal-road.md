@@ -1,0 +1,143 @@
+---
+id: 7f63b49f-5f3e-55a3-ada9-1c2eb9301bb9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 522: The Adamant Fortress"
+slug: 0562-chapter-522-the-adamant-fortress
+partOf: dungeon-of-knowledge-complete
+position: 562
+ownLength: 2799
+unit: words
+ownProgress: 2799
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2994818/chapter-522-the-adamant-fortress"
+royalRoadId: "2994818"
+markedReadAt: "2026-06-29T20:31:25.450Z"
+---
+
+I hope Thuli has a little time for us, Mato thought as he made his way across town toward the muffled clanging of anvils and the sooty stench of forge fires with his two smaller companions. The whole guild had the day off, according to Vivian, and most of them had fled the building, rushing to visit their favorite crafters or the auction house to scour it for upgrades.
+
+“What are you going to get, Mato?” Sabri asked, glancing up at him curiously.
+
+“Mato shield bad,” Havok declared. “Mace bad, too.” For as much as his Common was atrocious, Havok had a keen mind for gearing, and he was rather perceptive.
+
+“I have a lot of pieces that are falling behind,” Mato said, nodding toward the eager goblin. “I like the shields Thuli made for both of you – I think that will be my highest priority. Some of my items are in the low eighties.” He was over a hundred levels higher than that, and if their progress through the dungeon held, he was about to leave even that in the dust.
+
+“Why didn’t you just buy something at the auction house?” Sabri asked. “You know, to tide you over until Thuli can make something better. I’m sure you have enough money, right?”
+
+Even now, when most would consider a platinum-rank adventurer to be wealthy beyond belief, Sabri still thought like someone who had come from a poor Ahn Khen village. Thrifty with her coin and always concerned about giving offense by suggesting something that might be too expensive for others.
+
+“It’s nearly impossible to find good quality tanking plate with the shapeshifter enchantment,” Mato answered. Other than the druids they’d fought in the Blooming Rot dungeon, he had needed every single item to be custom-made for him.
+
+“Aah, ok,” Sabri said, nodding sagely. “Basir has a similar problem. Apparently, metal armor interferes with his earth-affinity skills, so he must use Zor’kan for leather tanking gear. He was hoping to get something made from Sandwyrm scales this time.”
+
+“What are you guys going to get?” Mato asked.
+
+“Havok need boots. Kick Death Knights,” Havok said, stamping down on a dead bug in the street.
+
+“Same,” Sabri said. “I liked some of the plate pieces Ali had made for her berserkers. Those were originally from the Devastation Knights you guys found in the Crypt of Kings, right?”
+
+“Yup, they had some really strong armor,” Mato answered, approaching the door to Thuli’s forge and pushing it open to let them enter. “I’m pretty sure Thuli knows how to customize those already.”
+
+“Oho! It’s three of my favorite customers!” Thuli shouted, his voice booming through the room. “I was expecting ta see ya all. What can I do for ya?”
+
+Mato listened idly with one ear while Sabri and Havok placed their orders, reviewing his gains from the long and arduous fight against the cloned Galdrone Tetrads.
+
+Elemental Shapeshifter has reached level 187 (+9).+90 attribute points.Arboreal Sanctuary has reached level 78 (+3).Swipe has reached level 104 (+6).Brutal Restoration has reached level 95 (+4).Bear Form has reached level 91 (+4).Rampant Growth has reached level 49 (+3).Bestial Combat has reached level 89 (+5).Natural Prowess has reached level 75 (+3).Survival Instinct has reached level 99 (+2).Last Stand has reached level 37 (+2).Swipe has reached a base skill level of 100.Swipe has advanced to tier two.
+
+He silently pumped a fist into the air at the sight of Swipe reaching the second tier. The others had already been talking about their tier-two skills and how awesome they were, far more than he felt was really necessary, but now that he had one of his own, he was excited to try it out. The only problem was that he would need to wait for an actual combat encounter. Well, not that it’s going to take very long, he decided. Certainly, not at the rate they were going. Plus, check out Survival Instinct and Brutal Restoration. Couple of others coming along right behind those, too. Huh. Not bad.
+
+“What about you Mato?” Thuli asked, breaking his distraction. “What can I do for you?”
+
+“Well,” he said, considering the sad state of his gear. It didn’t take a lot of thought, though. Havok had put his finger on the worst of it. Other than his mace and shield, his ring needed replacing, and that was a conversation for Giddy Clicksprocket. “Here’s what I’m currently using.” He quickly shared the details of his gear.
+
+Dark Heartwood Mace – level 90A deceptively heavy mace crafted from the dense heartwood of an Ironwood tree. Linked to your mana, this weapon will shapeshift with your changing forms. Damage: Blunt, Physical.Heavy (Added Physical damage on hit with this weapon.)+55 Strength.+12% increased attack speed.Mana: Shapeshift.Parasitic: +5 Nature damage to wielder on activation of a skill or ability. Requires 630 Wisdom to unequip.Requirements: Shapeshifter, Strength 315.One Hand – Mace – Ironwood.Rugged Heartwood Bulwark – level 93A rough-hewn heavy ironwood shield that appears to have been grown rather than fashioned into shape. Linked to your mana, this shield will shapeshift with your changing forms. Armor: 669Block Chance: +35% (Blocked attacks cannot cause critical damage.)+56 Strength.+45 Vitality.+22% increased amount of damage blocked.Mana: Shapeshift.Parasitic: +9 Nature damage to wielder on activation of a skill or ability. Requires 677 Wisdom to unequip.Requirements: Shapeshifter, Strength 326.Off Hand – Shield – Ironwood.
+
+He briefly considered leaving it at that, considering how busy the forge must be, but his bracers were even worse, so he included them too.
+
+Carnage Bindings of the Shifter – level 80+51 Strength.+29 Endurance.+8% chance for your Physical damage to inflict Bleed.Mana: Shapeshift.Requirements: Strength 280Created by Zor’kanHands – Leather / Bloodsteel
+
+“Ouch, lad,” Thuli said, screwing his face up in a frown of disgust. Mato winced. “Ya shoulda come to me earlier. I can burn that junk for you if you like – you do know it’s cursed, right?”
+
+“Ugh, don’t remind me,” he grumbled. It had taken an extraordinary amount of work to even unequip those items when he had first tried them on, and it had been endless embarrassment for days. “Can you –”
+
+“I can definitely do better than that,” Thuli said. And then he yelled across the forge in a powerful voice that cut through the loud banging and sizzling hiss of metal being quenched. “Kavé! Tarek! We’re going to the Anvil, pack whatever ya need!”
+
+It took about half an hour to get down to the anvil in the dungeon – they had to borrow a few bored guild adventurers because nobody wanted to wait all day for a group of tanks to clear the way down, regardless of how overleveled they were. A couple of pathfinders, an ice mage, and the dwarven priest, Belmar, made the entire trip a walk in the park.
+
+Mato had been rather surprised when Thuli hadn’t asked him what he wanted. But the dwarven smith had just waved him off with a vague assurance that he had a surprise in store, and he said he knew what Mato would like.
+
+I guess I can trust him by now, he thought, settling in to watch the smiths work. But he realized something was up when Thuli pulled out some strangely heavy ore, and Kavé gasped and stopped working to watch. “What’s that?” he asked.
+
+“Bloodsteel,” she whispered.
+
+Mato widened his eyes in response. I wonder what exactly he’s going for?
+
+Thuli worked tirelessly, with a vast well of pure stamina and energy, and yet, even with his apprentices helping him nonstop, it still took several hours to complete all their requested items.
+
+Mato wiled away the time by searching for elusive fire-affinity herbs and assigning his attribute points. He put twenty-one points in vitality, twenty in strength, and nineteen in endurance. Three went to shore up his dexterity, seven for perception to boost his precognition, and three for intelligence. The last seventeen went to boosting his wisdom.
+
+Mato was done long before the smiths were, but soon they were handing out the products of their labor. By the looks of delight on their faces, Mato knew Sabri and Havok were beyond pleased, but then Thuli turned to him.
+
+“This is the first piece,” he said, producing a thick set of arm bindings made from burnished bloodsteel. Abyssal Bloodstone had been somehow seamlessly wrought into inlaid runes inscribed across the heavy plate, and the clasps and fastenings were of such elegant simplicity that they belied the sheer ingenuity Thuli had wielded in their making.
+
+Blooded Bindings of Onslaught – level 177Darkly gleaming Bloodsteel bracers with potent spell-runes marked out in inlaid Abyssal Bloodstone.+98 Vitality.+78 Strength.+39 Endurance.20% chance to cast level 46 Onslaught on hit.58% chance for your Physical damage to inflict Bleed.Bleed Proliferation (Chance to proliferate bleeds to nearby enemies on hit).Mana: Shapeshift.Requirements: Strength 1240, Wisdom 708, Shapeshifter.Created by Thuli Emberforge in the Dungeon of Knowledge.Front Paws – Bracer – Bloodsteel and Bloodstone
+
+“I’m really proud of Tarek for this one,” Thuli admitted. “He has worked tirelessly to relearn the ancient Aman Rak craft of Bonesmithing. The blood enchants are the result of his studies under Zor’kan, and as soon as he learned them, he was able to teach them to the Anvil of the Emberforge, and now I can make you this.”
+
+Tarek, standing quietly by the forge, gave a quick bow, but Mato could clearly see the pride reflected in his face at Thuli’s praise. And perhaps a little shy embarrassment at being put in the spotlight.
+
+“Nice work, Tarek!” Mato said, echoing Thuli’s sentiment wholeheartedly and clapping him on the shoulder for good measure.
+
+He removed his old bracers and stored them, carefully fastening the new masterpiece upon his forearms, binding them closed with the ingeniously designed clasps. When he shifted, they would be absorbed into his shifted body, still providing their magical benefits but unfortunately obscuring the elegant beauty inherent in the exquisite craftsmanship. Still, he could show off when he went for drinks in the pub.
+
+“Why blood?” Mato asked curiously. The enchantments were incredible, perfect attribute spread, and Onslaught promised to be a fantastic addition if Calen’s ability was anything to go by. His old bracer set had had a small bleed, but it hadn’t really been significant for quite a long time. Although this enchantment is certainly a lot higher level.
+
+“Any good crafter takes into account the needs of his customers,” Thuli answered, casting significant glances to both Tarek and Kavé. “You have been with your group for quite some time, and so your gear needs to take into account the strengths of yourself and your teammates. Bleeds are proportional to your strength, and so they should provide substantial additional damage for you. But you are most often fighting alongside Aliandra and her troll minions. Bleed Proliferation will synergize incredibly well with those Blood Shamans and Berserkers.
+
+“Good point,” he admitted. One of the reasons he liked working with Thuli was his meticulous attention to detail. More damage would always be useful, but helping the true damage dealers and, more importantly, his healers, sat very well with him.
+
+“Now, on to the main event,” Thuli said. “One of the visitors ta the dungeon’s Anvil brought something very interesting with him. Adamantium ore and the knowledge of how ta forge it. It is incredibly heavy, but it can make some of the most powerful weapons in the hands of those strong enough to wield it.” Then he grinned broadly, “And I’ve learned so many new tricks from all that Death Knight armor you guys brought back from the Crypt of Kings.”
+
+Mato grinned. “Now you’re talking!”
+
+Thuli summoned a gleaming silvery mace from his storage, staggering a little under the sheer weight of it. Around the wickedly flanged head, tiny glowing green leaves floated – transparent and wisplike, they shifted and faded, only to be replaced again endlessly.
+
+Then he produced an enormous slab of Adamantium, a heavy shield crafted to resemble the shape of a broad leaf. It was so heavy that Thuli himself had to wrestle with it on the ground. But Mato could only stare, spellbound. The massive shield bore the embossed image of a Lirasian Oak, surrounded by fiercely glowing green runes.
+
+“This is my first set,” Thuli declared, clearly proud of his work.
+
+“He’s very happy with those,” Kavé observed sagely.
+
+“I…” Mato found himself lost for words, and perhaps that was exactly the compliment that Thuli most wanted, because the smith puffed out his cheeks and nodded slowly. With a sense of reverence, he checked through the stats.
+
+The Adamant Breaker – level 182A brutally heavy adamantium flanged mace gleaming in the light of the endlessly respawning ethereal green leaves that drift about it.Damage: Physical, Nature, Blunt, Piercing.+212% to Physical damage.Added Physical damage on hit.Attacks gain +85% additional damage as Nature.+101 Strength. +80 Endurance.+48% increased chance to inflict Crushing Blow.Mana: Shapeshift.The Adamant (2 piece): Spell Breaker (You can block magical damage).The Adamant (2 piece): Spell Piercer (Your magic damage ignores 20% of target's resistance).Requirements: Strength 1911, Endurance 1274, Wisdom 364, Shapeshifter.Created by Thuli Emberforge in the Dungeon of Knowledge.Main Hand – Mace – AdamantiumThe Adamant Fortress – level 180An impregnable wall of finely crafted adamantium, the sheer weight of which defies the imagination. Deeply glowing viridian runes of power circle an embossed image of a vast spreading oak.Armor: 1296.Resistance: 756.Block Chance: 42% (Blocked attacks cannot cause critical damage).+100 Strength.+80 Vitality.+68% to Blocked Damage.+5 to skill level of Defense skills.27% chance to inflict level 125 Nature Vulnerability curse when blocking.Mana: Shapeshift.The Adamant (2 piece): Spell Breaker (You can block magical damage).The Adamant (2 piece): Spell Piercer (Your magic damage ignores 20% of target's resistance).Requirements: Strength 1890, Endurance 1260, Wisdom 360, Shapeshifter.Created by Thuli Emberforge in the Dungeon of Knowledge.Off Hand – Shield – Adamantium
+
+“So good yer still speechless?” Thuli asked.
+
+“Uh, yes…” Mato answered as he suddenly realized he had been simply staring at the shield and mace pair. “Thuli… this is… I don’t even know what to say.” But then he grinned, experiencing a sudden, powerful need to hit something big and monstrous with that heavy mace.
+
+“Aye, thanks works,” Thuli said, releasing a contagious belly-laugh that filled the dungeon chamber with his mirth. “Let me give ya the tour. I designed both pieces with yer strength-focused tank build in mind. The weight of the adamantium should transfer with your shapeshifting, making you much harder to knock around, even by the big boys.”
+
+“Sounds good. Go on.”
+
+“The mace is focused on as much physical damage as I could cram on it, including the crushing blow. Then I gave it a little nature-magic boost – I think ya will like that. The damage is all designed to stack. For the shield, it’s obviously focused on defense skills, blocking, and I even got a little extra Resistance on there. Aliandra is going to love you for that Nature Vulnerability curse, but it should substantially benefit your Brutal Restoration, too.”
+
+Mato studied each enchantment as the smith waxed lyrical about them, still reaping the benefits of deciding to share the details of his class and skills with the dwarf so long ago. Certainly, the increase to defense skills would be an incredible boon, affecting Bestial Combat, Last Stand, and even his Critical Block skill. The Nature Vulnerability was most certainly a potent highlight, especially with the nature damage on the mace. “Wait, how did you get so many enchants on this thing?” he asked, looking a little closer.
+
+“The shapeshifter enchantment is very low-level, now, and with such advanced materials and reagents, it barely counts anymore. So that’s there as a freebie. Now, if you put the two items close together, you can see the set bonuses, which I think you’re really going to love.”
+
+Mato did as he suggested, and his eyes widened in astonishment.
+
+“Aye, that’s what I thought,” Thuli answered. “They don’t need much explanation.”
+
+What he said was true: Spell Breaker and Spell Piercer would change the way he tanked. I can block magic? And even without the powerful Nature Vulnerability curse, all his magic would ignore twenty percent of his target’s resistance. These were truly incredible upgrades.
+
+“Thuli, you are amazing!” he declared.
+
+“Aye, I know,” he said with a chuckle. “Maybe ya can say that a little louder around town, where the other blacksmiths might hear it!”
+
+Mato just laughed with him, adding, “I’m certain just walking around town with this massive shield is going to attract a lot of attention.” And with that, he took both items, testing their weight and heft, admiring the beautiful tree depicted on his shield, and he knew from the wise crinkling around his eyes that the dwarf knew precisely how much his thoughtful gesture of using Lirasia’s tree had touched his heart.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

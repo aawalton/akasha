@@ -1,0 +1,241 @@
+---
+id: 62b5bfdd-19a7-56ae-9bfb-963de56d9065
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Introductions to Questor Politics"
+slug: 0054-chapter-39-introductions-to-questor-politics
+partOf: ends-of-magic
+position: 54
+ownLength: 3009
+unit: words
+ownProgress: 3009
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2849779/chapter-39-introductions-to-questor-politics"
+royalRoadId: "2849779"
+markedReadAt: "2026-06-29T20:08:59.675Z"
+---
+
+“We’ll Travel to Ostren first,” Kaelis said. “The invitation is not yet issued, but the first pieces have been set. We can take you through the land and introduce you to my hopefuls before most of the combatants arrive. It will be good preparation.” He paused, seeing the hesitant looks on the faces around him. “What key am I missing?”
+
+“They can’t Travel,” Sarya said slowly, as if speaking to a child. “They aren’t Questors. That’s the key in question.”
+
+Kaelis looked at her in consternation. “Then Teleport them. Surely the mage…” he looked to Stella, then grimaced. “We banned spreading Insight. But they looted Sussu’s vault. Surely there are items of teleportation there? Gate? And Sarya, you’ve got some of those old Kalis Gate-stones, truth?"
+
+Sarya raised one finger as if about to make a declarative point, then inclined it towards Nathan. “It won’t work on Nathan. He is immune to magic. Of all kinds.”
+
+The older Questor turned to Nathan. He didn’t look angry so much as mystified. “You can’t modulate the antimagic? In any sense?" He stroked his chin, like he was contemplating a difficult puzzle. "That provides some sense to the healing Talent. How will you reach Ostren?”
+
+“The slow way,” Nathan answered simply. He felt an urge to defend the choices he had made in his build, but suppressed it. He didn’t owe this man any explanations. Besides, he had a pretty strong suspicion that taking any of the choices to allow friendly magic to affect him would have neutered his antimagic. Any gap in his defenses would have been a weakness, a way for magic to sneak in. He could choose to allow certain kinds of magic in his aura, but his body had been inviolate to mana since almost the very beginning of his time on Davrar.
+
+Henrish spoke up for the first time. He’d been content to watch Kaelis talk to the Heirs, but now he looked impatient. “Now that the blight is done, there are many tasks in Helmaris. I will be in Ostren, transmissions open.” He vanished without another word, accompanied by a whisper of energy beyond wizardry.
+
+Kaelis scrubbed his hand through his hair. “How long will that take? I don’t remember the distance to Ostren.” Then he shot another look at Nathan. “Are you going to fly there with your own strength?”
+
+Sarya rolled her eyes and clapped Kaelis on the shoulder. “You need to deal more with the mortals. Your focus on Questors has blinded you to the way that most of the people on Davrar operate. One of my agents is waiting in Helmaris, the fastest I have. They’ll be in Ostren in thirty-four days.”
+
+“Thirty-four-” He tilted his head back and groaned. “I just sent the first challenge.”
+
+“Your blame for being so aggressive," Brox said, grinning and not at all upset at this turn of events. “Less target for assassins this way. Or stupid young Questors. I remember that period for you.”
+
+“They would be safer than a vault of solace!” Kaelis protested. He pointed at Nathan. "Your deeds are impressive, but your presence is growing costly. You’d better cut through the line.”
+
+“He will,” Garna said with quiet confidence, meeting Nathan’s eyes and giving him a firm nod. “They all will.”
+
+“I could bring the others with me?” Kaelis said hopefully. “Introduce them and set them training with the Ashen Accord? I have ideas to encourage their Development.”
+
+Nathan opened his mouth to object, imagining the journey back through the Blight without the Heirs. It would be survivable, but awful. Unless one of the Questors chose to accompany him, he’d be forced to carry his own water and rations while he traveled alone across a desolate wasteland for days at a time. And even then, he wouldn't be able to relax with a Questor around.
+
+But Sarya beat him to it. “Separating allies from each other is a poor signal. They will arrive in time, though I can join you to help you beat the basics into your brand-new Questors.” She said it regretfully, as if it were a concession.
+
+Kaelis pounced on the offer. “Indeed!” He rubbed his hands together gleefully. “You can teach the hopefuls to fight like Questors. They might even listen to your lessons.”
+
+Sarya’s shoulders fell dramatically. “Go. I’ll follow you. Will you be in Godsfall?”
+
+The older Questor shook his head. “The Blinded Mountain. I thought to give a history lesson. But now you can guide the idiots through the history of ancient Endings.” He waved jovially and then vanished the same way Henrish had. One moment he was there, the next he was gone.
+
+Now the Heirs were alone with only the Questors they trusted. Or at least knew more about. “What is Travelling?” Stella asked, voice quiet.
+
+“A way for Questors to avoid the process of travelling the world properly,” Sarya replied, voice bitter. “Once, we had to walk or use magic as mortals do. But then it was decided that we should not be limited to such petty inconveniences. It is why there are fewer true mages among the Questors than there once were. Magic is hard, and what use is a Gate if you can simply Travel to any place where you belong?”
+
+Brox scoffed. “It’s a balm to us. We couldn’t hold near as many Seals as we do without it.”
+
+“Neither could our foes,” Garna replied, but it had the air of an old argument.
+
+“What are the limitations on Travelling?” Nathan asked, trying to be innocuous. But if he was going to be fighting Questors, then he wanted to know their limitations.
+
+The knowing grin on Sarya’s face told him that he’d failed to keep the question innocent. “Many. You cannot be in a fight, and the nearest Seal to both you and your destination must be uncorrupted. You must have a purpose in that place, an alliance or a claim. You killing Badud’s grid gave us enough of a claim to enter Esebus.”
+
+“You also can’t travel to somewhere you’ve been killed,” Nathan added. “Within living memory, however long that is.”
+
+“A normal mortal lifetime,” Brox added. “That’s the true victory of winning a war in Ostren. It’s a marketplace and home of luxuries for Questors. Dying in a war in Ostren means being denied access for a long time.”
+
+Khachi’s brows came down. “Our final deed will be a war on a battlefield where the gods fell. And the prize will be admittance to the market?”
+
+“It’s more about the theaters, restaurants, and libraries,” Garna said idly. “Ostren is a neutral territory, though polite wars are an occurrence, as now.”
+
+“I prefer the bordellos myself,” Brox said smugly. “Much more fun.”
+
+Nathan refused to get distracted. “Polite wars?”
+
+“Wars with constrained boundaries, unlike our feud with Badud,” Sarya replied. “We’ll learn the details and communicate them when you arrive. But first, you have not received proper congratulations for your success.” She looked up at the clearing sky, the black colosseum that was bench by bench being replaced by reddish stone. “To conquer a blight is not a small deed, and one rarely accomplished. If you were Questors, it would admit you to an elite club of those willing to brave difficulty and hardship to make a continent habitable and expand the reach of civilization.”
+
+In the game you set up. A vote of the Conclave could fix all of the blights.
+
+“They’re members in my eyes,” Brox said. “To take five against a blight and conquer it - not even on the solstice. That is a true deed.”
+
+Garna nodded regally. “Your conquest of Esebus showed that you are formidable. But this act shows that you are true players, not merely pieces. Any doubts that you belong in a Questor war are laid to rest. We will do all we can to get you before the conclave.”
+
+“What about more Insights?” Sarah asked cautiously, looking around as if somebody was watching them at that moment.
+
+Sarya shook her head. “Now that Kaelis has met you, any gifted Insights will be obvious. Besides, your builds are set.” She nodded around to them all. “Defeating a blight sharpens you. You are far enough down your own paths now that the best teacher is conflict and challenge. Better that you develop as yourselves than as poor copies of us.”
+
+She waited to see if there was anything else, then nodded decisively. “Be in The Blinded Mountain in thirty-four days. Eolinne knows the path. Or she will by the time you return to her.”
+
+With a final raised hand of farewell, Sarya, Brox, and Garna vanished, leaving the Heirs alone in the long-dead ruins of an ancient city.
+
+They were all silent for a moment. Then Aarl kicked the ground idly, sending up a small plume of reddish sand. “Hear me, it would be nice not to have to travel everywhere. To Travel instead.” His tone made it clear which version he meant for each word.
+
+Nathan shrugged. “I don’t feel like that was a very large revelation. Brox showed up from nowhere, and so did Sarya after we won the fight in Esebus. It’s really just a confirmation.” He raised a finger for emphasis. “But we’ve been introduced to the higher levels of Questor politics now. We’re making progress.”
+
+Khachi harrumphed, not disagreeing so much as registering his complaints. “They are no figures from myth. Their politics - the games of Questors so often invoked as the highest of battles. It is a petty fight, with petty rewards. Like access to restaurants and brothels." His lips curled in disgust.
+
+“There’s a saying from Earth,” Nathan said. “Familiarity breeds contempt. We’re getting into that now. They’re immortals, but they’re still just people. Their ambitions aren’t unfathomable, and amongst immortals, I’d expect petty goals to be pretty normal. But they hold the keys to Davrar, so we need to work with them to get what we want.”
+
+Sarah interrupted the conversation. “We can talk later. We have a date for the war, and there’s nothing left for us here.” She shepherded the Heirs into the air, pointing the way back towards Helmaris. Stella spun up a smaller version of her giant wind spell, carrying the Heirs along at several times the speed they could travel under their own power. The only downside was that the rushing wind made conversation somewhat difficult.
+
+The landscape outside of the central colosseum was still black and dreary, but the spell of the blight had broken. The clouds weren’t as oppressive anymore, and the land looked less like a hellscape and more like an old color-bleached photograph. There were still monsters around, a few grave tangles scattered across the city, a few flying undead, and hordes of various grounded monsters. But they had no direction. Most just stood there, while the fliers traced lazy circles. The ones that saw the Heirs came in for the attack, but they were uncoordinated and got easily swatted away by Stella’s wind spell.
+
+Soon enough, they were out of the ruined city and crossing the craters left behind by Stella’s nuke spells. The dust had settled, and Nathan marvelled at how much damage had been caused by the magical exchange. The craters were enormous and would likely become large lakes after the climate returned to normal.
+
+But all of the destruction paled against the valley left behind by the blight’s counterstrike to the nukes. It was a massive furrow carved from the earth, unnaturally straight and smooth for a geological feature. It also served as a handy guide to help the Heirs navigate back the way they'd come. All they had to do was follow the path of magical destruction.
+
+It continued on for miles and miles, through the rolling hills that surrounded the ruined city. Eventually, they reached the edge of the maze of jagged stone ridges that lay further beyond the city, and Stella called a halt. “I’m blasphemously tired. Can we camp?”
+
+The undead were dense on the ground, so they carved another hidden campsite. It came together quickly, bare rock, bedrolls, and the minimum of other necessities.
+
+“It doesn’t feel like it’s over,” Aarl said as he served out food just cooked enough to be edible. He’d made it as quickly as possible, fighting through drooping eyelids to get hot food handed out. “Feels like we’ve been moving and fighting for weeks.”
+
+“I’m looking forward to the Grace of the Winds.” Stella admitted, plumping up a pile of blankets. “Those are some proper beds.”
+
+“Feels the same to me,” Nathan said, then yawned loudly. “But I’m looking forward to about a week of sleep.”
+
+“We have thirty days,” Sarah said, already tossing her bowl towards the magic bag that would clean it. Then she flopped onto her own bed and started snoring within moments. Everybody else soon followed. Nathan bid Khachi goodnight and crawled into his own bedroll, feeling uncertain that he’d be able to sleep. But as soon as he took a few relaxing breaths, he was out.
+
+He woke up feeling refreshed and less anxious than at any point since they’d left Helmaris. Khachi was still meditating, and Nathan was otherwise the first to wake up. He joined the wolfman, sitting next to him and closing his eyes to reflect on their second deed.
+
+The blight had been everything it’d been chalked up to be, a challenge that had pushed them to their limits and forced the Heirs to grow and adapt. He didn’t have a full accounting of everybody's developments yet, but his own developments were incredibly strong. If theirs were anywhere in the same ballpark, then they would be at least on par with the Questors they’d faced so far.
+
+Which is good, because we’re being touted as a secret weapon to win a war between Questors.
+
+Nathan found he wasn’t worried about the coming war. He probably should be, but his abilities seemed uniquely suited to turn the tide of nearly any battle. Before the blight, there’d been counterplay to his abilities. He knew that there were Insights that allowed mages to counter antimagic - Stella had one, though she’d been more focused on developing other parts of her kit recently. Beyond that, Nathan had struggled against unfamiliar or overwhelming magic, even more so when it was augmented by wizardry.
+
+That was no longer the case. His aura could drain the background mana from the air and seal away wizardry in a way that didn’t seem to leave a lot of room for response. From what the Questors had said, he’d already taken his antimagic farther than anybody in Davrar before this most recent development. In a large-scale battle, he could spread his aura across one side of the field and shut down every spell, destroy every item, and then just let his allies cut down the helpless enemies. People with skills would still be able to use them, but they would be at an extreme disadvantage, devoid of magical support or any kind of enchanted items. It would be like a military with full air, sea, and space superiority fighting another that had none of those things.
+
+He tried to restrain his growing confidence. He could play a decisive role in the upcoming battle. But to think that it was guaranteed, that there was nothing the enemy could do, was hubris. They had to respect the enemy and prepare appropriately, or else the Heirs would die to some unknown trick from one of the hundreds of Questors on the other side of the field.
+
+And unlike them, we will stay dead. This is not a must-win fight for them the same way it is for us.
+
+Which led to another idea that deserved some thought. With his abilities, he was much more able to permanently cut any mage off from magic - even a wizard. It would be a way to inflict permanent consequences on enemies, ensuring they took him seriously. But on the other hand, it would shift the tone of the conflict in a way that might not be beneficial. If he started breaking mage-Questors, then they might refuse to face him and sabotage him politically instead. Or they might band together and rally enough support from across Davrar to crush Nathan regardless of his allies.
+
+The problem would be even worse if he followed up on his other idea and tried to figure out how to permanently kill Questors with his antimagic. He had no idea if it was possible, but the way he could feel the Questors as they used Davrar to travel indicated it might be. If it were, that would be a way he could bring the fear of mortality to the Questors. But that was an action that would totally change the political landscape, that would make him a bigger threat than every Ending, blight, and god on Davrar put together. It would be an act of desperation.
+
+Nathan ended his meditation when he heard Aarl making breakfast. He felt centered. Not calm, but steady. Whatever came next, he would think and plan and do his best to achieve his goals.
+
+Permanent Talent 1: Magical Destruction 2
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1274
+
+Bottomless Stamina : 128400/128400
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 9
+
+Impulse 6
+
+The Sense of Magic 2
+
+Forewarning 7
+
+The Truth of Magic 2
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 3

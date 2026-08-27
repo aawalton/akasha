@@ -1,0 +1,181 @@
+---
+id: ec25a3bb-114a-50e7-8294-5a8562fd9b7f
+page-type-slug: story-chapter-royal-road
+title: "Ch37 The Stronghold"
+slug: 0037-ch37-the-stronghold
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 37
+ownLength: 2115
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3302568/ch37-the-stronghold"
+royalRoadId: "3302568"
+---
+
+A flickering purple woman’s hand moves to tear the storage ring off her enemy.
+
+Pulses of erratic qi crack open its imprint seals, and a pile of dozens of spirit stones falls out all around Xu Hong and the headless cultivator.
+
+There is a vortex of qi that saturates her body again, allowing the potent purple killing intent to subside. The thin fractures in the air flicker into nothingness too.
+
+I watch from afar, grabbing the storage rings of both of the other cultivators that I killed. I retrieve the perfect-grade black iron arrow, as well as the corpse of the first man I shot. Then stand a safe distance away from the pulsing white, black, and purple glow around this woman.
+
+She lets out a long sigh about half a minute later, with her aura restrained back to appearing as nothing but a Martial Warrior, and looks up at me.
+
+“Would you mind telling me who those people were, and why they wanted to kill us?”
+
+She swings her axe playfully and gets up to her feet, pulling the corpse below her into her storage ring.
+
+I crack the imprints on both of my new rings. There are just over 150 spirit stones total in them, along with dozens of blood-red pills, and a few useless pages of the Illusory Demon’s Concealment Art similar to the pages of the full booklet I have before I upgraded it.
+
+There are a few red page scraps held together by threads in one of their rings; the words on it are impossible to make out, but the entire clump of papers gives off an ominous aura, just like the red pills.
+
+The only thing of significance that stands out to me is a small smooth black stone.
+
+When I pull it out into the open air, it feels warm to the touch, and has the Illusory Demon’s aura stirring around in its center.
+
+“They were members of the Blood Sword Sect… and I doubt they were here to kill you, they were only after me. I’m the one that killed their last scout, you should remember that quite clearly,” I respond, not looking at her long, returning to the smooth stone in my grasp.
+
+“Well, they’re after me now. The one I was fighting used some kind of talisman to share his location to their boss.” She points the axe I gave her at me. “So tell me, what’s a reason demonic cultivators risked entering a sect like this just to kill you?”
+
+I don’t reply for a few more seconds.
+
+The Illusory Demon’s technique has begun to seep into the small stone I’m holding, and I feel the warmth within it shift, like it’s pointing directly toward the Ravine. I look up in its direction, realizing it’s some kind of mapping artifact, only usable by wielders of this demonic technique. My gaze shifts back to Xu Hong, whose eyes are starting to flare up with purple energy again.
+
+“It’s because I know where their stronghold is. There are most likely more of them camping out in the Ravine…”
+
+She doesn’t seem to fully believe me, so I add more information I gained from the system when fighting the first demonic cultivator weeks ago, “Their stronghold happens to be placed over a mid grade tier 1 spiritual vein.”
+
+The grip on her axe tightens, but understanding flashes in her eyes and the purple glow dims.
+
+“So that’s what you wanted help with? You were going to drag me into this even if they didn’t attack now. Considering there are still rogues like this able to attack us at will, I assume the Azure Cloud Sect does not know of this spiritual vein.”
+
+I slowly nod, “The servant camps are slowly moving westward toward the Ravine, so it was bound to be found soon. Though, I thought I would have a little more time to prepare.”
+
+I pause to think.
+
+There was already a distress message sent back to someone. The odds that they’re in this stronghold are high, but it’s possible the message has gone elsewhere.
+
+If I wait too long, the possibility of more demonic cultivators, and stronger ones, coming heightens.
+
+If I go back to the stewards' quarters and tell the sect about this, my cover as a weak 1st-level cultivator will be blown, and worst of all, the potential gains of a spirit vein, and also a system side quest, will be lost.
+
+I have no upgrade cards remaining, but in my storage, there are enough resources to the point where this risk is worth taking.
+
+“We have a small window of time to pull this off… I say we act now.”
+
+The stone in my hand lightly pulses with heat, and I turn toward the Ravine.
+
+“Are you trying to get me killed? I’m not just a disposable tool now that you can throw at your problems.” Xu Hong remarks.
+
+I smirk, “That physique of yours may be powerful, but it doesn't last long… I saw the way your eyes lit up at the mention of a spiritual vein. You want to get your hands on this stronghold as badly as I do.”
+
+Xu Hong is silent, then sighs, “I help you, and we split the loot. Afterward, I don’t owe you anything.”
+
+“Deal.”
+
+–
+
+Dusk fades, and the pitch-black night rolls in.
+
+We walk together through the forest, both concealing our auras to be as inconspicuous as mortals while crossing the small stream and walking to the edge of the Ravine.
+
+The smooth stone in my hand becomes hotter. I push small pulses of qi into it, and it pulses back with the same signal every time.
+
+Depending on the direction I point, the stirring aura inside becomes slightly hotter or less intense. It can only show me a direction; the exact distance of where it’s pointing is impossible to tell. This could be leading us to the stronghold, or directly into a trap…
+
+I crouch down behind a small boulder, and Xu Hong does the same, gripping her axe while looking at me with a complex expression.
+
+To make sure enemies aren't lurking nearby watching us now, the Spirit Eye Jade is activated once more, and another pulse of perception expands my range of vision by over tenfold.
+
+All of the concealed wildlife down in the Ravine for about 180 meters is revealed to me.
+
+In this calm state, without any urgent danger, I’m capable of letting far more senses sink in during this 2-second scan. The first point of relief is that not a single other human being is nearby. They are not watching or following us.
+
+The second major detail I notice is the different qi density in the air. The woods up on level ground where we stand are nowhere near as saturated with raw qi as the land deeper into the Ravine.
+
+Even the dirt, plants, and trees are more saturated with energy. Some of the bugs are larger than average, and a few small mice look plump enough to be rabbits, like they’re on the verge of becoming spiritual beasts.
+
+“We’re all clear,” I whisper, putting away the Spirit Eye Jade, and begin walking down the steep slope of the Ravine.
+
+–
+
+The flat land we left completely leaves our sight as we slowly make our way down, far past the edge of my last scan.
+
+The smooth rock I carry gets hotter and hotter.
+
+We don’t change direction much, but sometimes have to when there are large rock cliffs or drop-offs that need to be avoided.
+
+Once we’re over a kilometer and a half down into the Ravine, I activate my Spirit Eye Jade again.
+
+The raw qi in the air is at least double that of what it was above on the surface. It feels warm and comforting to my senses. It is the first time since hitting level 3 of qi refinement that I do not feel like the air around me is squeezing me for my energy.
+
+However, testing the air quality is not why I’ve triggered another valuable scan. It is because my natural senses while using the Illusory Demon’s Concealment Art begin to fluctuate.
+
+After being paranoid and stalked for days, this instinct has become extremely sharp.
+
+When the imagery of multiple cultivators shows up in my 2-second scan, so do the system notifications outlining their secrets and their strengths.
+
+“There are eight initial-stage cultivators about a hundred meters away,” I whisper, pointing ahead, then pulling out my bow and low-grade black iron arrows.
+
+All of them use the Illusory Demon’s Concealment Art, but they are not very talented. Some are at the 1st level of qi refinement. The strongest I can see is at the 3rd level.
+
+Slowly, Xu Hong and I creep down into the Ravine even further, until finding a partially flat ledge.
+
+We have a great line of sight on them, so I slowly release my aura and pull back an arrow.
+
+In the dead of night, black shadows whiz through the trees.
+
+There are grunts, muffled coughs, and an occasional scream of agony.
+
+By the time five of them are dead and the other three try to run, I’ve already locked in on them. I left the weakest for last.
+
+Shooting slow-moving 1st-level qi refiners from 30 meters away is as easy as taking my next breath. After the last thud, the woods fall silent again.
+
+When I compare the direction to the heat that this hot stone points, they match exactly.
+
+“This way,” I point, and we stealthily make our way past all of the fallen corpses, not touching a thing.
+
+The stone in my grasp starts to shake, and it becomes almost hot in my hand once we make our way down the next slope. The sensation of more demonic technique users itches at the back of my mind.
+
+I use the Spirit Eye Jade again, and a barrage of notifications echoes through my mind. The imagery of a cave entrance down the next slope is where most of them appear. Another seven initial-stage qi refiners, just like the ones I killed, huddle around its entrance.
+
+Deep underground, within the cave, three mid-stage qi refiners, just like the ones we fought around Xu Hong’s hut, appear in my senses.
+
+They are not standing still. In fact, they’re running up through pathways to the surface, speaking to one another using communication talismans.
+
+“We’re under attack! The one that killed our scouts, they found the stronghold! We need to hold them off and give the boss enough time to prepare.”
+
+Before I can hear any replies, my 2-second scan runs out.
+
+“They know we’re here! The strongest I see are two 5th-level qi refiners, and a single 6th,” I remark to Xu Hong, and start running down this final slope toward the unsuspecting group of guards.
+
+Their locations are perfectly mapped out in my mind, so I let arrows fly before I can even physically see them.
+
+Loud cries echo out through the trees and rocks. By the time I’m close enough for them to see my position, it’s too late. Bowstring twangs are followed by the thuds of bodies, until there is only silence.
+
+My Illusory Demon’s Concealment Art stirs wildly, as a deep crimson glow erupts out from the cave entrance. A burning purple light begins to glow and exert pressure on my back next.
+
+Three mid-level qi refining demonic Blood Sword Sect cultivators burst out of the cave, and Xu Hong’s Void Tyrant Physique illuminates the night with color as she flies by my side to collide with them first.
+
+Instead of fighting back or activating a defensive talisman, my instincts stir with unease.
+
+It is partially because my enhanced spiritual senses overheard one of them talk about their boss, but mostly because I too sense the presence of another demonic figure nearby.
+
+I activate the fifth and final use of my Spirit Eye Jade. The small green artifact crumbles to dust on my forehead, but my eyes widen with shock once the pulse of qi digs deep underground.
+
+About a hundred meters down, further than my senses could see in the last scan, there is another cultivator.
+
+[Automatic Inspect Function Activated…]
+
+[He Shouzhi] [Age: 95]
+
+[8th Level Qi Refiner]
+
+[Water, Metal, Earth, and Fire Spiritual Roots][7th Grade]
+
+[Acquired Blood Demon Physique][Perfected Stage - Mortal Grade]
+
+[No Innate Physique]
+
+[One of many squad leaders sent out by the Blood Sword Sect to collect intel on neighboring Sects. Preparing to utilize a fragment of a 2nd Tier Blood Sacrifice Array in order to escape and bring what he’s discovered back to the Sect.]

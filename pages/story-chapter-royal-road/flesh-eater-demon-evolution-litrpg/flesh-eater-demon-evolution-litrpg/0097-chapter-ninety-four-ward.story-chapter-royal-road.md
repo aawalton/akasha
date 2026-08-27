@@ -1,0 +1,213 @@
+---
+id: 3c77ec27-40d0-519a-a13e-2e0b17ea1574
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-Four: Ward"
+slug: 0097-chapter-ninety-four-ward
+partOf: flesh-eater-demon-evolution-litrpg
+position: 97
+ownLength: 3069
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3542579/chapter-ninety-four-ward"
+royalRoadId: "3542579"
+---
+
+Llyr was silent for a moment. The more Pyre observed the healer, the more she noticed how careful he was about everything. Every reaction, smile, and movement was thought through first, then executed in a way that was designed to look reflexive.
+
+Ironically enough, while talking to Llyr seemed to have eased Daphne and Callan’s suspicions, the demon was more convinced than ever that he was hiding something.
+
+Then again, maybe this was what it took to remain calm when dealing with rando patients springing weird shit on him. No one could actually be that nice all the time.
+
+Case in point, Llyr’s face was very deliberately blank right now.
+
+“Are you also ichor-poisoned?” he finally asked in an even voice.
+
+“Nah.” The demon strode over to the cot and plopped down, lounging casually. “I’ve got something else going on, you could say. Wanted to get a second opinion on it.”
+
+It had occurred to her that the only real confirmation she had about her soul’s state was from Pax. She didn’t think the crossroads demon was lying, per se—her inability to use magic and the literal soul piece she’d found proved she wasn’t—but she also wouldn’t be surprised if Pax had left out some details.
+
+Either way, it was probably worth it to get a second pair of eyes on it. Llyr was apparently skilled enough to see exactly how damaged Daphne’s soul had been, so peering into the demon’s soul shouldn’t be too difficult.
+
+Based on Callan’s (very enthusiastic) ramblings about Llyr’s “soul scan” spell after they’d left the infirmary, it sounded like the soul was a bit different from a regular organ. Pyre had assumed it was a physical thing considering the shard she’d found, but apparently, a soul properly within a body existed more like invisible atmospheric ichor.
+
+That was why it was rare for someone to be able to peer into them—they effectively needed a special soul sight or, more commonly, super advanced ichor perception to do it. Pax probably had the first while the healer most likely used the second.
+
+Either way, she likely wouldn’t get a chance like this again unless she contacted another crossroads demon or something. Hell, maybe the healer would even be able to tell what had caused the shattering in the first place. She wasn’t banking on that part, though.
+
+Llyr was still studying the demon, parsing through her words. She’d been vague on purpose, and it frankly wouldn’t surprise her if the healer said no or asked for some more context. This had to be suspicious, even for someone who apparently had no qualms about inviting strangers into his house.
+
+Instead, Llyr nodded slowly. “Alright,” he said, rising from his seat. “I can take a look.”
+
+He stepped forward, coming to a stop on the other side of the water basin. Pyre raised an eyebrow.
+
+“Not gonna tell me to lie back?”
+
+He smiled wryly. “I believe you may be a bit too tall for that.” He nodded at her and raised a hand, palm beginning to glow. “Please stay where you are; this shouldn’t take long.”
+
+The water in the basin rippled. Pyre watched a stream flow out, the liquid coiling around Llyr’s extended hand to form that glove from before. Now that she knew what to expect, the demon studied the exact movements more closely.
+
+The healer drew the shape of the runes with his hands, and the water followed the movement. The motions were smoother than the ones Daphne used, flowing and endless, whereas the noble’s hand gestures included harsher stops and starts. That was probably due to the spell types, but it did make Pyre wonder what exactly the difference was between “healing” magic and “regular” magic.
+
+Could a normal mage not cast healing spells? Could a healer shoot fireballs? Callan had made it sound like powerful healers were really rare, so maybe healing was locked to certain classes. Or, maybe those classes had built-in buffs that made healing magic stronger.
+
+Before the demon could think on it more, Llyr’s hand fell still. In front of the cot, floating streams of water formed the same glyph circle that Pyre had seen earlier.
+
+“Please hold still,” Llyr said. He then carefully nudged the circle forward until it was floating right in front of the demon’s torso. He muttered a final chant, and his eyes began to glow.
+
+A brief wave of cool washed over the demon, but it quickly dissipated as the floating water streams glowed brighter. Pyre sat patiently, eyeing the magic as it worked.
+
+About ten seconds after the runes had begun to glow, Llyr’s brows furrowed. His hand, still raised to guide the glyphs, shook slightly.
+
+The demon’s eyes narrowed. That definitely hadn’t happened before. Was it because of her [Empyrean] trait? It was easy to forget that the magic resistance would apply to “good” spells, too. Just in case, she turned the subtrait off.
+
+It didn’t help.
+
+The blue light flared brighter. Llyr’s jaw tensed, and he grabbed his raised arm with his other one to steady it. Pyre could see beads of sweat forming on his forehead. He winced, and the demon was about to stand up when the rune circle suddenly flashed.
+
+Silver light exploded outwards, filling the room and temporarily blinding her. The demon felt splashes of water hit her as the floating glyphs collapsed, stray droplets spraying everywhere. Someone gasped. The sound was followed by a dull thud.
+
+When the light died back down, the floating rune circle was gone, puddles of water now pooled along the wooden floor, and Llyr had collapsed.
+
+The healer coughed violently, one shaking hand steadying himself on the ground while the other gripped at his heaving chest. He hacked, and Pyre saw blood land on the floor.
+
+Oh shit, was he dying? The demon got up from the cot and strode over. She had no idea what that blast had been. Backlash from the spell? Magic recoil? She hadn’t felt a damn thing.
+
+Pyre crouched down beside Llyr’s shaking form and wondered if she should get Daphne and Callan. The healer spit out more blood. Was he bleeding internally? That could be bad. He hadn’t even started healing Daphne yet—he couldn’t just die right now.
+
+“Hey,” the demon said, but it didn’t look like Llyr heard her. He was still trying to get his breathing under control. Pyre reached out a hand to grab his shoulder.
+
+The second her fingers brushed against him, the healer spun around lightning-quick. A hand shot straight for Pyre’s neck, and it was on pure instinct that the demon caught it just before it could close around her throat.
+
+For a moment, neither one moved.
+
+Llyr remained on the ground, hand held in place, chest still heaving. Those blue eyes had narrowed, fixed on the demon with a sharpness that made him look like an entirely different person.
+
+Pyre, meanwhile, remained where she was, fingers still firmly gripping the healer’s wrist. He’d used a surprising amount of force just now, and she actually had to use some effort to keep his hand still.
+
+Steady grey eyes met blue. She squeezed her fingers, increasing the pressure just slightly in an unspoken threat. Pyre raised an eyebrow.
+
+“Really, Doc? Right for the neck?” she drawled. Llyr’s eye twitched, but the demon’s words were enough to break the tension that had settled over the room.
+
+Slowly, the healer lowered his hand, and Pyre released his wrist as well. Llyr’s breathing was still heavier than usual, movements slow as he carefully shifted positions until he was sitting. He wiped away some of the blood staining his chin.
+
+“…My apologies,” he finally said. That brief flash of intensity faded just as quickly as it had appeared, cooling down to his usual calm demeanor. “I didn’t mean to react like that. I’m afraid my reflexes got the better of me.”
+
+That had looked like a little more than just “reflexes,” but the demon didn’t comment on it. Not yet, anyway. She just hummed contemplatively, adding it to her growing mental file of information on the healer. Definitely not easy to kidnap.
+
+“For the record, I didn’t know that would happen either,” Pyre said, gesturing to the water scattered about the room from the sigil exploding. She cocked her head, studying the man. “You okay?”
+
+“I’ll be fine.” Llyr’s breathing was starting to steady again, and he wiped away the last of the blood on his chin. He exhaled. “I was just… surprised.”
+
+“Hm, good. ‘Cause I’d hate to tell Daphne you died before getting a chance to heal her.”
+
+He barked a laugh at that, the sound abrupt and harsh, but it quickly faded. Quiet settled back over the infirmary.
+
+“So,” Pyre began. “What’d you see?”
+
+Llyr’s jaw tensed. He studied the demon carefully, and she could practically see him mentally debating what to say.
+
+“Your soul,” he said slowly. “What—” He cut himself off, took a deep breath, then restarted. “Your soul is… badly damaged. Fractured. Most of it is missing entirely.”
+
+So, he’d managed to see that much before that light had flared—whatever it was. “Anything else?”
+
+Llyr’s mouth thinned. “No. There’s… some sort of spell protecting your soul. A ward—and a very powerful one at that. When I tried to look more closely, it lashed out.” He shook his head. “I’ve never seen anything like it.”
+
+This was news to the demon. Based on the healer’s words, this wasn’t the usual soul barrier that mages lowered for their spells, but something else entirely. Something external “guarding” the soul.
+
+Something Pax had never mentioned.
+
+“I’m guessing you can’t tell what put it there,” Pyre said, and the healer shook his head.
+
+“I couldn’t make out much before the ward retaliated.” He paused, frowning. “I was able to see the indentations of the soul. It leaves a shadow behind,” he explained, “even when parts of it are missing. If it’s helpful to you, I believe I saw cracks forming eight separate pieces.”
+
+If Llyr was right, that meant her soul had been shattered into eight fragments. She’d just absorbed a shard from the Magrath sanctum, so that would leave her with seven still missing. Or was it six? Had she started out with a piece?
+
+It was a lot to process. That ward, especially, nagged at her. The fact that she hadn’t had any idea it existed until now bothered her more than expected. She would’ve thought she’d be able to feel it or something, but no. Even now, she felt the same as usual.
+
+Except there was apparently a spell around her soul, placed there by someone she didn’t know for reasons she was equally oblivious to. And she was almost certain Pax was involved, somehow.
+
+The crossroads demon really was the “gift” that kept on giving.
+
+For now, Pyre filed the information away for later. There wasn’t much that could be done about it right now anyway, especially not when that ward apparently lashed out at anything that got too close to her soul. It didn’t seem to be doing active harm, so she’d have to live with its existence until she figured out its purpose.
+
+Speaking of which, Llyr was still watching her. The demon could practically see the storm of questions swirling in his mind, but he didn’t voice any of them despite clearly wanting to. She raised an eyebrow at him.
+
+“Not gonna ask?”
+
+The healer opened his mouth, then closed it again. Finally, he shook his head.
+
+“My patients place a lot of trust in me,” he said slowly. “It’s not my place to ask questions, no matter how curious I may be.”
+
+Pyre gave him a long look at that. “Very noble,” she said. She cocked her head. “Or do you do that so no one asks you any questions back?”
+
+Llyr’s lips thinned. He didn’t say anything in response. Instead, the two simply sat there at an impasse, the ghost of what had just happened hanging over them.
+
+From the hallway, footsteps sounded.
+
+Pyre turned just in time to see Daphne and Callan hesitantly step into the infirmary’s doorway. The noble was frowning, eyes roaming about the room warily.
+
+“Are you okay?” she asked. “We thought we heard something fall.”
+
+They probably made for a sight, the demon thought. The floor was covered in water puddles, both of them were sitting on the ground, and Llyr still looked visibly shaken from whatever that ward’s recoil had done.
+
+Both of the mages frowned. Callan, in particular, was looking at Pyre with a mixture of suspicion and exasperation, as if he’d already decided that whatever had happened was definitely her fault.
+
+Which the demon didn’t think was very fair. She hadn’t actually done anything this time, unless you counted the ward around her soul going haywire as her own doing, but she could hardly be faulted for that.
+
+Carefully, Llyr rose back to his feet. The demon followed suit. The healer’s movements were still a little shaky, but he looked impressively composed considering he’d been hacking up blood a few minutes ago.
+
+“Just a small accident,” he said smoothly. He smiled, the expression perfectly serene. “It’s getting late,” he said, nodding at all three of them. “You must be getting hungry. I’ll prepare some food.”
+
+It was a fairly obvious change of subject, but the two mages nodded. Based on the curious looks they shot Pyre’s way, though, it was clear this wasn’t the end of it.
+
+There was something funny about a supper where only one half of the participants actually needed to consume food.
+
+The four of them sat in the mansion’s dining room, which, in contrast to the Bellhein manor, contained tall windows lining the walls that flooded the space with light. They had a perfect view of the ocean as they ate, and the nobles of Galen apparently favored circular tables over rectangular ones.
+
+Pyre munched down on a leaf, which she recognized as one of the plants Llyr had gathered earlier. The healer had made a stew and a salad of some sort, apologizing that he “wasn’t the greatest cook,” but it wasn’t like she could taste shit. The [Omnivorous] subtrait hadn’t cared about that part.
+
+Callan also probably couldn’t taste anything. The ghost sat beside Pyre, quietly eating his stew. He was in solid form, and the demon vaguely wondered what happened to all the food he ate when he turned incorporeal again. Did it just disappear? Absorb into his soul? Food for thought.
+
+Daphne, in contrast, ate with much more enthusiasm. After surviving off cold, stale food in the caravan, a warm meal of any kind was a bright spot, it seemed.
+
+“Do you have any plans after this?” Llyr asked, eating his own stew. He seemed to have fully recovered from whatever damage that ward had done, which was good. Clearly hiding shit or not, the healer’s abilities were currently needed. As long as he actually healed Daphne and didn’t try to mess with them, Pyre frankly didn’t care what he got up to.
+
+Daphne took a second to finish chewing, then glanced at Pyre and Callan.
+
+“Well, I was thinking we could explore Serindell,” she said. The ghost immediately nodded, and Pyre snorted in amusement at his obvious eagerness.
+
+“It’s a lovely city,” Llyr agreed. “I haven’t found another place quite like it.”
+
+“You’re not from here?”
+
+The healer shook his head. “I moved to Serindell about a year ago,” he explained. “The people here have been incredibly kind.”
+
+“Probably helps that you heal people for free,” Pyre drawled, shoving another leaf into her mouth. Callan kicked her under the table, but Llyr just chuckled.
+
+“That is true,” he said. He glanced out the window at the rolling waves. It was still bright out, the temperature reaching its peak before it would cool down after the sun began to set. Llyr turned back to the table, expression becoming serious.
+
+“If you’re visiting the city,” he began, “I do recommend you return before nightfall.”
+
+Daphne and Callan exchanged looks. “Is this about the disappearances?” Callan asked tentatively, thinking back to the driver’s words. “So it’s not just rumors?”
+
+Llyr’s eyes darkened. He set his fork down and rose from his chair, stepping over to a small dresser sitting in the corner and sliding open the drawer. There were some rummaging sounds, then he returned to the dining table, a stack of papers in hand. He set them down.
+
+They were newspapers, Pyre saw, all of them containing similar headlines to the one she’d seen in the store. “Local X gone missing.” “Person mysteriously vanished.” A quick scan of the articles revealed that the dates went back to a few months ago.
+
+That made the demon pause. Her eyes narrowed, eyeing the dates again consideringly.
+
+Daphne, meanwhile, was staring intently at the newspapers, memorizing the faces of all the missing people. It was a lot, considering how relatively recently the disappearances had begun. “No one has any idea what’s going on?” she asked.
+
+The healer shook his head. “No. None of the victims have been found, and there are no leads. The only real connection is that all of the people missing are from the Outer Ring.” He frowned, gaze shifting to the three of them. “Considering how little is known right now, I’d advise you to be cautious.”
+
+Daphne and Callan both nodded seriously while Pyre continued scanning the articles.
+
+Maybe it was the revelation of the ward around her soul still being at the front of her mind, but she couldn’t help but notice that the dates on the newspapers would put the disappearances as beginning around when construction first started on Magrath’s sanctum.
+
+It wasn’t a 1:1 timeline, and both dates were before she’d woken up in Fred’s stomach, but they were all in close enough succession to give her pause.
+
+Pyre didn’t actually know when her soul had been shattered, after all. It could’ve happened a while before she’d woken up. It could’ve happened right after.
+
+The demon picked up the earliest newspaper. The article on this one was much smaller than the others, the writer not yet knowing what that single disappearance would turn into. Her eyes narrowed.
+
+Well, she thought. Since they were going to be staying here for a bit anyway, she supposed it wouldn’t hurt to look into things.

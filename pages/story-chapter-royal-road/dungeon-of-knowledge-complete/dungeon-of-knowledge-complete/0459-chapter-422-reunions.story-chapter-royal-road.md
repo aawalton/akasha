@@ -1,0 +1,141 @@
+---
+id: bd8fa89e-2bc7-5483-b673-dc7750071512
+page-type-slug: story-chapter-royal-road
+title: "Chapter 422: Reunions"
+slug: 0459-chapter-422-reunions
+partOf: dungeon-of-knowledge-complete
+position: 459
+ownLength: 2819
+unit: words
+ownProgress: 2819
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2708636/chapter-422-reunions"
+royalRoadId: "2708636"
+markedReadAt: "2026-06-29T20:27:43.521Z"
+---
+
+“Impossible!” Maalgaroth roared, crashing to his knees and landing in the giant crater caused by thousands upon thousands of Malika’s strikes. The impact of his huge body shook the entire chamber, setting boulders falling from the roof, bouncing away as they shattered on the ground.
+
+A soft chime sounded in the back of Ali’s mind as the chamber suddenly fell silent. Holy magic filtered into aching muscles, gently flowing along her veins and nerves, filling her with warmth from within. The magic of her healers mingled with the sudden rush of Mato’s sanctuary aura bursting forth through the entire chamber as he shifted to Tree Form, and the dizziness and disorientation of the corruption began to slowly fade.
+
+Close, she thought. She guessed that there couldn’t have been more than a couple of minutes left before the corruption aura would have claimed her, but it was hard to tell for certain, given how diligent her acolytes had been in trying to cure it. But now? Now she was finally safe.
+
+But first things first. Ali took off, flying at top speed across the chamber and collided with Malika, wrapping her arms around her friend.
+
+“I…” she tried, but her throat choked up and her eyes filled with tears, tears of joy this time, rather than tears of blood.
+
+“Ali…” Malika said, but she seemed to be struggling to speak, too.
+
+Then Calen was there with more hugs. Ali found herself unable to speak. Tears flowed freely down her cheeks, but she didn’t care one bit.
+
+“Nice wings, little one,” Mato said, still enfolding them all in the embrace of his Sanctuary aura, and just that was enough to make Ali laugh as she looked over fondly at his branches, infused with his holy and nature mana, pumping regeneration into the air.
+
+“I’m not little, you’re just huge!” she chided, but her heart was bubbling over with happiness, and she couldn’t keep a brilliant smile from her face as she finally relaxed.
+
+Of course, a cackling Hellfire Imp scampering in from the far tunnel chose exactly that moment to shoot at them with an amplified and accelerated ball of explosive hellfire. A massive shield of glittering gold appeared at Ali’s call, large enough to protect all her friends, and the detonation rocked the cavern, visible through the transparent barrier.
+
+“Go kill that imp,” she commanded, deploying her battered minions to secure the cavern – something she should have done immediately after Maalgaroth died. After all, she was still standing within the Lair of the Demon God.
+
+“This guy is really ugly up close,” Calen said, poking the corpse of the Pit Lord with his boot and firing a few shots off at the distant demons trickling into the cavern. “Supremely ugly.”
+
+“We should get back and help the guild raid group soon,” Malika said. “And you should be careful with that ring, by the way.”
+
+Calen had warned her about the ring, too, so she studied it properly now that she had more time and one fewer angry Pit Lord trying to kill her. Parasitic? To her surprise, she found a hidden enchantment had suddenly appeared, now that she was wearing it.
+
+Parasitic: +5 Nature damage to wielder on activation of a skill or ability. Requires 750 Wisdom to unequip.
+
+“That’s a nasty trap,” Ali said. Five damage per activation wasn’t a lot, but many times she triggered her barriers with extremely high frequency, high enough that she would need to watch out even with her resistances against magical damage.
+
+“Yeah, tell me about it,” Mato said, his voice echoing in her mind. There was some story there, she was sure, but Ali decided to follow up later. She grasped the ring and twisted, feeling a resistance within her mind. Physically, it released its grip on her easily, but she felt its sinister compulsion on her mind, playing with her desire, her willpower, trying to force her to keep it. But her wisdom proved much stronger than the ring, and it came off quickly, leaving only a trickle of blood on her hand, the wounds closing up rapidly in Mato’s regeneration aura.
+
+“Raid group?” Ali asked, returning to Malika’s concerns while still weighing up the strange ring. It had undoubtedly helped – that much was not even remotely in doubt. The ring, which granted all her minions additional movement speed and damage, had undoubtedly swayed the battle, allowing them to kill Maalgaroth fast enough for her to survive. I should probably keep using it. While she didn’t exactly love the idea of the parasitic ring, it was far too strong for her to ignore. Wincing a little, now that she could truly feel its thorny grip, she slipped it back on.
+
+“We left the guild group fighting a boss they cannot kill so that we could bypass it,” Malika said. “They’re still waiting for us to come relieve them.”
+
+“Tank boss. Nearest we can determine is it requires evolved skills to defeat it,” Calen added. “We didn’t have enough.”
+
+“Do we have a little time?” Ali asked, suddenly sorting through priorities in her mind. Introducing them to Azryet would have to wait, but she was nervous about having everyone here in the Abyssal Realm without any minions on the other side. Immediately, she sent her Sacred Oozes crawling through the rift while they talked. “I need to secure my domain before we go; if I lose it, I will die.”
+
+“You die if your domain is destroyed?” Malika asked, sudden concern filling her voice. “How…”
+
+“Yes, Azryet confirmed that,” she answered, a frown creasing her brow as she recalled how close it had been.
+
+“Azryet?” Mato asked in surprise. “Like the actual god, Azryet?”
+
+“Yes. That’s a story.” Ali reached out with her domain and bore down on the mana within the chamber, gritting her teeth at the agony of the dungeon rage. But Azryet’s teachings had made all the difference, and the now-unsupported domain began to unravel, filling her mana pool to overflowing as her skill began to consume it now that Maalgaroth had fallen.
+
+“It sounds like we all have some stories to share,” Calen said. The catch in his voice said more than a thousand words could have. They really, really care, she realized. I know that, of course… “We can take a little time to secure your domain and summon more monsters. What do you have in mind?”
+
+“I’ll go punch some demons in the face to keep my buff,” Malika said, teleporting to the far side of the cavern and obliterating a low-level warg with a single incandescent blow. “Huh. That was easy.”
+
+“I’m not sure yet,” Ali said, blocking out the pain of her domain mana clashing with the demonic domain. Drawing the rest of her attention to herself like a cloak, she walked up to Maalgaroth, and the huge glaive impaled into the ground. Deep breath.
+
+Pit Lord’s War Glaive – level 150A heavy, single-edged bloodsteel blade mounted on the end of a long pole, this slashing weapon embodies the demonic cruelty of its wielder. Needle-sharp steel spikes protrude from the haft, and the leather-bound grip is permanently stained with blood.Damage: Slashing, Physical, Reach.Added Physical damage on hit with this weapon.+255% to Physical damage with this weapon.+20% increased attack speed.+20% armor piercing.+4 to skill level of Melee skills.Blood Repair (The Pit Lord’s War Glaive will feed on its wielder’s blood to repair itself when damaged).Requirements: Strength 1575, Dexterity 250Two-Handed – Glaive – Bloodsteel
+
+“Is that as bad as I think it is?” Calen asked, eyeing it.
+
+Ali wordlessly shared the stats with him.
+
+“Oh. That’s monstrous.”
+
+“Yeah,” Ali said, and deconstructed it and its demonic wielder.
+
+Variant: Pit Lord added to Imprint: Demon.Variant: Pit Lord’s War Glaive added to Imprint: Polearm.
+
+While she had not had any intention of explicitly seeking out Pit Lords to add them to her Grimoire, Maalgaroth was the third she had deconstructed, and her spell had decided that was sufficient, reacting with an explosion of new runic information in response.
+
+[Sage of Learning]Domain Magic analyzed: Zone of Destruction (Hellfire).Domain Magic analyzed: Panic.Domain Magic analyzed: Attribute Enhancement (Vitality)Demon Core.Greater Hellfire Essence x3.Crystallized Pit Lord Blood x5.
+
+Ali made a point of circling the entire room, deconstructing every single corpse to deny them to the Demon God while her domain magic slowly ate through the remains of the domain in this chamber. She took the time to plant several large trees in the chamber, further enhancing her domain, and by the time she was done, she had pushed the Demon God’s now-weakened domain back to the tunnel entrance where Malika, the void dragon, and berserkers were having little trouble holding back the trickle of lower-level demons, and most of the dungeon rage had finally abated.
+
+It took a few moments of consideration to decide what she wanted, but a glance at her Devouring Consumption had given her a pretty good idea. She walked over to the center of the chamber and touched the membrane of her Devouring Consumption – her only Great Ooze.
+
+Devouring Consumption – Great Ooze – level 105 (Nature / Death)Domain Respawn applied to Devouring Consumption.Raid Domain Enhancement applied to Devouring Consumption.
+
+For its abilities, she chose one Domain Magic that she had thought she would never use. A spell she had learned from killing Tol’brekk and had seen Nevyn Eld and Alexander Gray use for evil purposes. Still, she had to admit, Sacrifice was the ideal skill for a Devouring Consumption.
+
+Sacrifice applied.Headhunter applied.Mass Summoning (Any) applied.Domain Enhancement complete.Your reserved mana has increased by +629.
+
+“Sacrifice, Headhunter, and unrestricted Mass Summoning,” she said, answering Calen’s unspoken curiosity.
+
+“Oh, heck, that’s nasty!”
+
+It was strange not to choose Slayer for a monster designed to guard exclusively against demons, but she was certain this combination would prove to be ridiculously strong. Her Devouring Consumption swelled to more than twice its usual size as the domain mana empowered it, and she was suddenly certain her new creation could likely stand alone against a Pit Lord.
+
+It could summon any compatible monster in her Grimoire, and the combination of Sacrifice and Headhunter meant that it could steal any ability from any monster it summoned, gaining the Sacrifice bonus to melee and the stolen ability from the monster it killed. Then it could Consume the corpse to gain temporary levels. In any fight where it was given time to develop, it would rapidly become insanely strong.
+
+But she wasn’t quite done yet. Instead of moss, she filled the area among the copse of trees she had planted with Violet Dreamcloud mushrooms and then summoned several Spore Spreaders, attaching everything to her domain respawn using the remains of her domain capacity to support the much lower-level monsters.
+
+“Oh, that’s worse than nasty,” Calen said, as he put the pieces together in his mind. “Now you’re being downright evil.”
+
+Ali smiled grimly at him. “I sure hope so – been learning from demons, you know.” Calen appeared to shiver, and she immediately regretted the joke. “And learning what I never want to be.”
+
+He simply reached out and squeezed her shoulder briefly. “That’s the Ali I know.”
+
+Her eyes prickled sharply. I know…
+
+Turning away to hide her emotions, she instead approached the rift, which was still not fully reopened, but slowly growing to its former size. “I’m ready.”
+
+She called her minions to her and then stepped through the rift, taking a glance at her notifications.
+
+Your group has defeated Mana Eater – Plant Aberration – level 165 (Nature / Death)Your group has defeated Maalgaroth [The Corrupter] – Pit Lord – level 183 (Blood / Hellfire).Dungeon of Knowledge has reached level 141 (+5).+50 attribute points.Arcane Insight has reached level 79 (+2).Arcane Recall has reached level 41.Barrier has reached level 77 (+2).Grimoire of Summoning has reached level 55 (+2).Runic Script has reached level 64.Martial Insight has reached level 87.Empowered Summoner has reached level 65.Domain Mastery has reached level 43.Minion Teleport has reached level 38 (+2).Inspiration has reached level 26 (+2).
+
+Ali felt utterly wrung out in every possible way, but there was still work to be done, it seemed. At least she could console herself with the fact that she had more than satisfied Azryet’s desires for this battle and come out of it stronger than before. She glanced over the imprint in her Grimoire to form a picture of Maalgaroth’s abilities as a raid boss while she allocated her new attribute points. She had just learned the imprint, so she needed to understand what she was dealing with. She spent seven points on vitality and three on endurance, sighing as the influx eased the aching of her bones. She spent twelve points on perception, fifteen on intelligence, and the final thirteen on wisdom.
+
+Right. Now to take on another dungeon – this time, with my friends at my side.
+
+She sent her minions ahead of her and then stepped through the rift. Lightly.
+
+***
+
+Name: MaalgarothRace: DemonTitles: The CorrupterActive Buffs: Pit Lord's Brutality, Raid, RespawnClass: Pit Lord – level 183- Mortal Cleave – level 98Stamina: Melee attack for weapon damage +2661% [skill + strength].Stamina: A cleaving strike which does weapon damage +5224% [skill + strength x 2] and reduces target healing by 50%. Recharge: 30 seconds.Physical, Melee, Area, Strength- Impale – level 96Stamina: charge forward, impaling your foe with your weapon. Recharge: 30 seconds. Range: 116.4 meters.Impale does +96% [skill] extra critical damage and does not require contact with the ground.Stamina: A master at battlefield control, you take advantage of your enemy’s distraction. Whenever you are in range of a creature and it attacks someone else, or tries to leave your range, you can instantaneously retaliate with a free use of Impale that ignores recharge. +20% chance to do critical damage and trigger a free Blast Wave on hit. Conditional Trigger.Physical, Movement, Ranged, Strength- Blood Corruption – level 115You gain 5% of your Blood damage as health over 30 seconds.Your blood is a powerful, corrupting agent, turning foes into demons under your control.You automatically apply your blood corruption to all nearby creatures. Range: 66.75 meters.The bloodline of the Demon God compels obedience in all allied demons affected by your blood. Instead of corruption, allied demons gain Frenzy and Onslaught.Blood, Bloodline, Area, Vitality- Brutal Combat – level 102You are proficient with a Glaive or Polearm. You gain Onslaught and Frenzy on critical damage. In addition to your normal critical strike chance, your enormous strength grants a chance to do critical damage on a crushing blow.Health: Empower a Physical, Melee attack to do weapon damage +2665% [skill + strength]. Empowered attacks rend your opponent’s armor, applying a 5% reduction per hit. Duration: 30 seconds.Physical, Melee, Mastery, Strength- Pit Lord's Brutality – level 78Stamina: Your Vitality, Strength, and Endurance are increased by +202.7% [40 + skill + base strength / 10]. Reserve: 20%Physical, Buff, Strength- Blast Wave – level 65Health: Stamp the ground, triggering a shockwave of hellfire to blast outward from you, damaging and knocking back your enemies. Recharge: 1 minute. Range: 29.5 meters.Hellfire, Area, Strength, Intelligence- Scent of Blood – level 85You can smell the blood of creatures nearby.You can sense weakness and injuries by the scent of blood, increasing your chance of landing a critical strike.Mana: You can track your prey by the residual scent of their blood.Blood, Tracking, Perception- Infernal Flame – level 80You can manipulate nearby hellfire. Your hellfire gains +400% [skill x 5] spell power and duration.Mana: Imbue any physical attack to do additional Hellfire damage.Hellfire, Mastery, Intelligence- Blood Concussion – level 69Health: Enhance a Physical attack to do an additional +2672% [40 + skill + strength] Blood damage. Blades of your blood explode from each successful hit, doing additional blood damage to all nearby targets.Blood, Melee, Area, Strength- Rain of Fire and Blood – level 70Health: Rain meteors of Hellfire and blades of blood down upon the ground around you. Channeled. Range: 108.5 meters.Blood, Area, VitalityDomain Magic- Damage Multiplier: x2.5 to all attack and spell damage.- Enhanced Attribute (Vitality): +50% to base Vitality.- Panic: Area fear pulse.- Zone of Destruction (Hellfire): You may drop persistent areas of Hellfire at will.Aptitudes- Blood (Affinity): +125% spell power to Blood magic.- Hellfire (Affinity): +100% spell power to Hellfire magic.- Languages: Demonic, Draconic.- Damage Absorption (Racial): Hellfire damage is absorbed as healing.- Vulnerabilities (Racial): +50% extra damage from Holy.- Bloodline (Demon God): The blood of the Demon God flows in your veins.- Regeneration (Blood): +550% health regeneration. Can regenerate mortal injuries.- Blood Magic (Class): You can use health to pay for any mana costs. You have no mana. Instead, you gain 10 health per point of Wisdom.Attributes       - Vitality: 3205 (+2146)- Strength: 2563 (+1716)- Endurance: 1819 (+1218)- Dexterity: 319- Perception: 353- Intelligence: 480- Wisdom: 494Equipment- Two Handed: Pit Lord's War Glaive, Glaive – level 150Armor: 2635Physical Damage Reduction: 33.96%Resistance: 2635Magical Damage Reduction: 33.96%Health: 369900/369900Stamina: 145520/181900 (36380 Reserved)
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

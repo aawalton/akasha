@@ -1,0 +1,233 @@
+---
+id: 00a98381-cf4a-5d01-a563-14c51fe8a415
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Five: Revelations"
+slug: 0066-chapter-sixty-five-revelations
+partOf: flesh-eater-demon-evolution-litrpg
+position: 66
+ownLength: 3307
+unit: words
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3062122/chapter-sixty-five-revelations"
+royalRoadId: "3062122"
+---
+
+[You have devoured (1) Human Necromancer Lvl 25][Experience earned!]
+
+[Your species has leveled up! Lvl 22 —> 23][Strength +3, Agility +2, Constitution +3, Magic Resistance +1, Intelligence +1]
+
+[You have earned 10 points]
+
+[Your class has leveled up! Lvl 12 —> 13][Strength +2, Agility +1, Constitution +1, Magic Resistance +1]
+
+[You have earned 5 points]
+
+[The trait [Amorphous] has leveled up! Lvl 4 —> 5]
+
+[The trait [Flesh Eater] has leveled up! Lvl 5 —> 6]
+
+[You have gained (1) [Omnivorous] subtrait shard]
+
+[You have gained (1) [Psychic Resistance] subtrait shard]
+
+[You have gained (1) [Curse Resistance] subtrait shard]
+
+[You have gained (1) [Life Drain] subtrait shard]
+
+[You have gained (1) [Magic Perception] subtrait shard]
+
+[Maximum number of subtrait shards acquired from a single creature reached. Remaining subtrait shards discarded.]
+
+[Required amount of [Omnivorous] subtrait shards collected][Apply subtrait shards to [Flesh Eater] trait?]
+
+The flood of notifications swarmed Pyre’s vision, but she barely noticed them. Instead, the demon’s eyes remained steadily fixed on Daphne.
+
+It had been pure instinct. She’d turned just in time to see the Empire mage struggle to his feat, fingers crackling with magic. Without thinking, her flesh had rippled. It didn’t take much effort to adjust her flesh composition, increasing the fat percentage and allowing her extra flesh to balloon out until it could stretch across the sanctum and block Callan. She warped her right arm next, and that was enough to reach the mage. A snap of teeth, jumbled memories of mages in dark robes, an overcast sky, marching armies, and red ritual circles, and it was over.
+
+Now, Pyre stood atop the dead golem, body half-warped, waiting.
+
+She could see the exact moment when Daphne realized what she was.
+
+Red light flashed. Pyre retracted her flesh, forming a thick shield of bone in front of her seconds before a streak of fire shot across the chamber. The spell exploded against the bone, engulfing the area in a thick wave of heat that dried all the moisture in the air. The flames continued blazing like they were trying to burn straight through the shield to reach the demon.
+
+Pyre could feel some of the bone beginning to melt. Narrowing her eyes, she dumped 10 of her newly earned points into magic resistance. The burning sensation dulled, and the flames finally fizzled out. When she straightened, she could see a clear dip in the bone where the fire had melted through. She almost laughed. That Empire mage wasn’t the only one who’d underestimated Daphne, it seemed.
+
+Chanting sounded from across the sanctum. Streams of silvery ichor coalesced around Daphne as she prepared another spell.
+
+This time, Pyre dodged the attack entirely, leaping off the golem and landing on the floor with a thud as red light streaked past. The golem burst into flames, its flesh sizzling in the heat. Daphne didn’t miss a beat, hands already moving to cast another spell. Pyre’s flesh rippled in preparation.
+
+“Stop it!”
+
+A silvery blur darted past her vision just as Daphne reeled her arm back.
+
+In front of Pyre, Callan floated with his arms spread defensively. He was so much shorter than the demon that he barely blocked her at all, but he didn’t seem to care. The ghost remained in place, back to Pyre, facing Daphne determinedly.
+
+The noble narrowed her eyes. “Out of the way,” she said, voice low and dangerous. Ichor swirled around her, her bright red hair waving like a living flame.
+
+Callan grit his teeth. “Not until you calm down,” he said stubbornly.
+
+“She’s a demon!” Daphne snapped. “Hell, I wouldn’t be surprised if she’s working for the Empire too!”
+
+“I do love killing my allies,” Pyre drawled, gesturing to the Empire necromancer’s headless corpse in the corner. The light in Daphne’s hand flared.
+
+“Pyre you’re not helping,” Callan hissed. He quickly turned back to the human. “I promise you we have nothing to do with the Empire. We just came to Magrath to find something. We haven’t hurt anyone, I swear.”
+
+“And why the hell should I believe you?” Daphne took a step forward, the sound echoing in the enclosed sanctum. Her eyes remained fixed on Pyre. “You lied about Callan’s existence. You lied about your level, your abilities, your entire reason for being here! You lied about being human.” Her other hand clenched into a fist, fingers squeezing so tightly that her knuckles turned white. “Tell me, was any fucking thing true?”
+
+Furious eyes turned to Callan next, and the ghost flinched a little. “And you, you used to be human! How could you work with a demon? Unless, what, you’re one too? Was that whole story about your death a lie?”
+
+“She’s a reincarnator!” Callan suddenly blurted.
+
+Daphne stopped, taken off guard for the first time since seeing Pyre’s true form. “You—What?”
+
+“She’s a reincarnator,” the ghost repeated, the words coming out in a rush. “I’m sorry for lying, but we had to to stay safe.” He swallowed. “I really am a ghost, and the story Pyre told you about how I—how I died was true. I mean, we’re not related, but she did transfer me points. That’s how we met.”
+
+“So, what, a demon gives you points one time so you decide to betray all of humanity?”
+
+Callan winced at that. A guilty expression crossed his face, and he stared down at the floor. Pyre decided to use the opening to speak up.
+
+“He tried to get me killed multiple times,” she pointed out. She raised an eyebrow, and the ghost looked embarrassed. “Didn’t work, of course, but the attempt was there.”
+
+Daphne frowned, brown eyes darting over to Callan. “Then why…?”
+
+“I told you, she’s a reincarnator.” The ghost lowered his arms, but he continued hovering  in front of the demon, physically separating her and Daphne. “She isn’t—she’s a demon, but she’s not malicious or anything. Not like other demons. She used to be a human, too.” He took a deep breath.
+
+“Look, you just saw how strong Pyre is. If she wanted to, she could probably kill everyone in the manor without batting an eye. But she hasn’t, because that’s not what we came here to do.” His brows furrowed, eyes pleading. “We’re telling the truth, I swear.”
+
+Daphne frowned. Pyre could practically see the storm of thoughts churning in her mind as she took in the information. While she seemed a little less likely to fire another spell, the line of her shoulders remained tense.
+
+“I’ve never heard of a human reincarnating as a demon before,” she finally said. Her eyes narrowed. “Prove it.”
+
+Callan sputtered. “How’re we supposed to do that? You can’t see other people’s system screens!”
+
+“I don’t know, find a way!” The light at Daphne’s fingertip flared again, pointed accusingly at the two monsters. “I don’t have any reason to believe a word you say! You already lied about Callan, but I was willing to give you a second chance because I thought it was for a good reason!” She laughed bitterly. “Well, fool me twice.”
+
+Pyre gave the noble a long look. She was still standing in the same spot, face a stormy mix of anger, betrayal, hurt, and other emotions she couldn’t discern. After the revelations about her uncle, the ritual circle, and the Empire’s upcoming invasion, this was probably the final straw.
+
+Slowly, the demon raised her human arm and pulled away the loosened bandages around her neck. Daphne stiffened, ready to shoot her spell, but she stopped when the demon tugged down her shirt collar. Below, the inky black curse mark sat like a stain.
+
+“What is…?”
+
+“It’s a curse,” Pyre said bluntly. She pulled her collar back up. “You want the truth, right? Well, I did go through the Lightning Pass, but I had a run-in with another demon there. The same one causing the lightning.” She tapped her chest. “This was her going-away present.”
+
+Pyre’s arm rippled and Daphne jumped, but the demon simply pointed up at the platform holding the gleaming black horn beside her glowing soul shard. “I need that to remove the curse. That’s what we came here for. I didn’t know shit about this.” She gestured to the red ritual circle for emphasis.
+
+“We’ll leave afterwards,” Callan added. “Once we have the horn, we’ll leave Magrath and never come back. I promise.”
+
+Daphne narrowed her eyes at them. She was silent for a few moments, gaze shifting between the two monsters, the ritual circle, the Empire mage’s corpse, and the platform.
+
+“…I wish I could believe you,” she muttered under her breath, so quiet that Pyre almost didn’t hear her. Louder, she said, “If you’re really just here for the horn, go ahead and take it. It’s right there. Then maybe you can prove you’re telling the truth about leaving.”
+
+Callan bit his lip at that, clearly unhappy with the situation. He exchanged looks with Pyre before turning back to the noble and slowly nodding. Daphne still hadn’t lowered her arm, and while her palm no longer glowed, she was clearly ready to fire a spell the second either of them stepped a foot out of place. Wary brown eyes followed Pyre as she moved over to the stairs.
+
+The demon took a second to assess the distance. Considering how high up the second summoning circle was, she elected to stretch her flesh out, using it like a rope that she could retract to move quickly between platforms. Her cover was already blown. There was no reason to limit her abilities.
+
+As Pyre climbed, she was aware of Daphne following her every move. Callan was still hovering below, and the ghost’s gaze kept darting at the noble like he was debating how quickly he could get to her if she did decide to attack. Pyre snorted internally. She could appreciate the sentiment, even if it was probably unnecessary. Despite Daphne’s threats, she wasn’t stupid. She had to know that she couldn’t actually win a fight against the demon.
+
+Finally, Pyre managed to swing herself up onto the bridge that held the platform. She landed with a thud on the white stone.
+
+This high up, Daphne and Callan looked more like dots below, and the roar of the waterfall was louder than ever. She could feel the spray of the ichor against her skin, which was somewhat surprising. She hadn’t expected it to be so cold.
+
+It also became clear just how large the second ritual circle was. Red lines carved deep into the mountainside, spanning nearly the entire length of the wall. That wasn’t what Pyre was focused on, though. In the center of the arching bridge, right at its highest point, sat the platform displaying the horn and soul piece.
+
+The tugging sensation was the strongest it had ever been. The fragment looked even more alive like this, its silvery mist swirling around and around in a nonstop storm. The whole thing pulsed slightly, reminding the demon of a heartbeat or breaths.
+
+Pyre narrowed her eyes. She hadn’t been able to see it from below, but a spherical, translucent barrier wrapped all the way around both the ritual circle and the platform.
+
+She grew a bone and tapped it experimentally. Solid. The barrier shimmered when she made contact, but she didn’t feel any negative effects from it. It seemed to act primarily as a wall.
+
+Mind set, Pyre reeled an arm back. Muscle and flesh rippled under her clothing as she focused on that shield. She tensed, readying.
+
+In one explosive movement, the demon threw her full weight into the barrier, activating [Weight Manipulation] as she did so.
+
+[The skill [Basic Weight Manipulation] has leveled up! Lvl 2 —> 3]
+
+A loud boom reverberated throughout the sanctum as the shield and ritual circle lit up a bright white. Pyre felt the bridge shake a little from the force, the resulting shockwave chipping some of the pillars circling the chamber.
+
+The light, however, quickly faded, revealing the barrier still firmly in place. When Pyre retracted her flesh, she could see some of the ends beginning to melt, damaged. She clicked her tongue.
+
+With one great leap, she jumped down from the bridge, ignoring Callan’s shocked yelp below. She extended extra flesh from her back, using it to latch onto the bridges as she fell past them, which slowed her descent just enough that she wouldn’t take any damage.
+
+Pyre landed heavily on the sanctum floor. A loud crack rang throughout the chamber as fissures bloomed across the stone below her. She ignored it and rose to her full height.
+
+“There’s a barrier. I can’t break through.”
+
+Callan blinked. “What?” He quickly turned to the barrier in question, squinting at it. Pyre could practically see his mind churning as he studied the runes in the glyph circle, then the ones on the floor.
+
+Daphne, meanwhile, narrowed her eyes. “Stand back,” she muttered, and the ichor around her glowed. The human began chanting, moving her arms in wide, sweeping gestures as more and more strands of ichor were pulled in. Bright red light beamed from the center of her palm, its intensity strengthening with each passing second.
+
+Finally, when the light had become so bright that it was nearly blinding, she threw her hands forward. A jet of fire exploded outwards, rocketing up towards the bridge and slamming straight into the barrier.
+
+White light flashed, sparks flying out while coiling smoke rose from where the spell scorched the unshielded parts of the bridge. The light flickered.
+
+When the smoke cleared, the barrier remained in place. Unaffected.
+
+Daphne made a frustrated noise. “What the hell?”
+
+“It’s multilayered,” Callan muttered, eyes moving rapidly as he studied the glyphs. “I think—it looks like the barrier’s being strengthened by multiple power sources. Separate ones outside the sanctum. I don’t think we can break through unless we can get rid of those.”
+
+Daphne opened her mouth to respond, but before the words could leave her mouth, Pyre felt the vibrations in the earth shift.
+
+She spun around, immediately shooting a bone through the sanctum’s double-door handles. She then activated [Autotomy], detaching the bone so that it kept the doors firmly shut.
+
+Just as she finished removing the bone, the doors rattled. Daphne jumped, and Callan darted backwards.
+
+“The mage said he was waiting for Lord Bellhein,” the ghost muttered. His eyes darted around the area rapidly. “We need to go. They’ll find us if we stay here.”
+
+For a moment, Pyre debated the merits of just letting the door bust down, grabbing Lord Bellhein and whatever guards were with him, and forcing him to tell them how to break the barrier.
+
+She had a feeling, though, that he wouldn’t actually know. Based on the necromancer’s words, there wasn’t a whole lot of trust between them, and the ritual circle was clearly the Empire’s work. It might be worth it to try and figure out how to break the ward themselves first, lest they fail to get the horn, then have to deal with the entire garrison after them for killing the lord. That would make it significantly harder to come back to the sanctum.
+
+Daphne, meanwhile, was staring at the rattling door. Her gaze was dark with simmering anger, fist clenched tightly. Considering what she’d just learned from the Empire mage and who was on the other side of those doors, it wasn’t hard to tell what she was thinking.
+
+“You know you’ll just get memory-wiped if you try to confront him,” Pyre said bluntly. Daphne spun around to face her, eyes blazing.
+
+“So, what, I should trust you instead?”
+
+At that, the demon gave her a long look, flat grey meeting stormy brown. Finally, she jerked her head at the summoning circle.
+
+“We’ve both got unfinished business here,” she began, “and it’s in our best interest to not get caught. Stick around and you’re not gonna be able to do shit about anything.” She raised an eyebrow. “Trust’s got nothing to do with it.”
+
+Daphne’s lips thinned, but she hesitated. “…They’ll know someone was here,” she finally said.
+
+Pyre’s eyes swept over the sanctum. The two dead golems were impossible to miss, and the Empire mage’s headless corpse remained slumped on one side of the room. While the sanctum’s magic wards were beginning to repair some of the shattered pillars and cracked floor, it wouldn’t be done by the time the doors came down. She hummed.
+
+Extending a bit of flesh, the demon dipped it into the dead necromancer’s blood, then promptly smeared it on the teeth of the closest golem. Daphne frowned.
+
+“What’re you—”
+
+“Melt the other golem’s crystal,” Pyre interrupted. She cocked her head. “Unfortunately for the Empire, the mage lost control of his golems right before his demo and got himself killed. Put up a hell of a fight, though,” she drawled.
+
+Understanding flashed through Daphne’s eyes. She hurried over to the other fallen golem. Red light glowed in the corner of the demon’s vision, though she was currently more preoccupied with making their fake story look as believable as possible. It was far from ideal, but it was better than nothing.
+
+The doors continued to rattle. If not for the silencing wards around the place, they’d probably hear shouts coming from the other side.
+
+“Hurry!” Callan was hovering by the hidden entrance, eyeing the doors nervously. Satisfied, Pyre retracted her flesh, then condensed it back down into a human shape so it wouldn’t get stuck in the tunnels. She headed over to the secret door, Daphne following right behind.
+
+Once they’d stepped into the tunnels, the noble slammed her hand against the stone, and those lights coursed up the etchings again. The door began to close on its own behind them.
+
+When only a small gap to the sanctum was left, Daphne quickly muttered a chant under her breath. A small beam of light shot out of her finger, colliding with the bone holding the doors in place. The magic began burning through it, and Pyre saw it reach the end just before the hidden door closed all the way.
+
+“Destroying the evidence,” Daphne muttered. She turned and began sprinting down the passage, Callan and Pyre following behind. The demon heard the doors to the sanctum burst open through the walls, accompanied by the sounds of yells and footsteps, but the noise quickly faded as they ran deeper into the tunnels.
+
+About halfway through, Daphne stumbled.
+
+The noble suddenly doubled over, one hand gripping onto the dirt walls while the other flew to her chest. Her breaths were sharp and ragged.
+
+“Shit shit shit,” Callan repeated. “It’s the ichor-poisoning!” His eyes darted frantically behind them. No one had come after them yet, but there’d definitely be an investigation. Even if no one discovered this place, the outside entrance could get blocked off if enough guards were called over. They had to move quickly.
+
+“I’m fine,” Daphne wheezed. She grit her teeth and attempted to stand, legs visibly shaking. “I can—”
+
+Before she had a chance to finish, Pyre bent down and scooped her up. The noble yelped, aiming a punch at the demon that did absolutely nothing.
+
+“Put me down, demon,” she hissed. Pyre ignored her and kept running.
+
+“You can yell all you want later,” she drawled. “We’ve got bigger things to worry about right now.”
+
+She moved rapidly through the tunnel, feet pounding against the earth as Callan floated in front. “There!” he called.
+
+Up ahead, Pyre could see those etchings on the walls that had marked the passage’s entrance. They were almost out.
+
+“This isn’t over,” Daphne muttered as they finally approached the exit. Pyre snorted and dropped her, the noble stumbling to her feet and quickly putting more distance between them. Those eyes still burned with anger and suspicion, but the demon met her gaze evenly.
+
+“I know.”

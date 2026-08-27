@@ -1,0 +1,207 @@
+---
+id: 99e22ca2-325c-5b6e-a87d-d737eeeae1d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 433: Creep Spores"
+slug: 0470-chapter-433-creep-spores
+partOf: dungeon-of-knowledge-complete
+position: 470
+ownLength: 3726
+unit: words
+ownProgress: 3726
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2740393/chapter-433-creep-spores"
+royalRoadId: "2740393"
+markedReadAt: "2026-06-29T20:28:07.621Z"
+---
+
+Malika’s strikes came fast as she boosted her speed yet again. Her health was at maximum, and she was certain it would be at maximum even without the rot elixir. The rot miasma the boss was emitting was simply not powerful enough to damage her through the damage reduction provided by Soul Armor. The real problem was doing enough cumulative damage.
+
+Her fists struck the tough fungal monster, trickling health back into her from the Vampiric Hex and the Life Tap that were working to heal them every time anyone hit it. But her attention, through it all, remained on Sabri.
+
+She’s gotten even better, she thought, watching her form carefully. And as if her attention was a trigger, Sabri took a deep breath and shouted, her voice amplified by the rippling shimmer of soul magic that ripped through the giant monster.
+
+You gain +5 to the skill level of all Mastery skills.
+
+And that too. Sabri’s evolution had been nothing short of spectacular. She had taken several powerful tanking paths, but this one in particular was exceptional. Everyone in range of her shout had their Mastery skills boosted for thirty seconds. She had said the Path had called out her extensive training in the Dungeon of Knowledge, and so far, Sabri hadn’t missed a single shout, keeping the potent buff running unbroken for every single melee adventurer.
+
+For Malika, that meant her Martial Arts skill, and that made many things stronger. Her attacks were noticeably more refined, more efficient, and her damage increased substantially. Right now, the extra five skill levels pushed her up a threshold to an eighth simultaneous attack with Instantaneous Strike. A skill that was almost ready again.
+
+Suddenly, the creep on the wall behind Sabri warped, bubbling up into misshapen lumps. “Creep Spores! Sabri, move the boss!” she shouted. It had spawned right beside the boss, and there was no time to wait for the archers to whittle it down. It needed to be tanked, despite the extra damage.
+
+Sabri reacted in an instant by charging away. The giant Fungaloth Ravager screeched and charged after her, it’s heavy root-steps shaking the area.
+
+Malika sprinted to the wall right as Mato’s brambles and roots burst up from the ground, twining around the suddenly appearing Creep Spore.
+
+Frenzied Creep Spore – Fungus – level 102 (Nature / Death).
+
+Malika didn’t hold back, unleashing all eight strikes of her Instantaneous Strike into the evolved creep spore, her fist crushing the spongy, porous spherical fungus. It popped loudly, a little damage getting through her Soul Armor, and spraying her with spores that made her cough and splutter. But it wasn’t poison she got a notification for.
+
+You have gained Frenzy.+150% melee and ranged haste for all your stamina-based abilities. Duration: 30 seconds.Magic Buff
+
+What is this? Malika blinked in surprise, but she caught herself in time, teleporting right next to Sabri exactly on time, and unleashing a full complement of Healing Mantra into her, letting it overflow to give the melee group some extra healing.
+
+You have been afflicted with Suppression.
+
+“Healed. Teagan, you’re next,” she called out, maintaining their verbal confirmation of the healing rotation.
+
+Then she turned and unleashed her attacks on the monster, boosted to incredible speed by the combination of Divine Step and Frenzy. “Calen, minor change of strategy,” she yelled. “If you get hit when the Creep Spores die, you get Frenzy.” She shared the buff with the entire raid.
+
+“Ok, archers, leave the spores if they’re close to the melee fighters. Try to get the spore buff if you’re close enough, but don’t do it if you’re low on health, they still explode,” Calen called. “Use your judgment.”
+
+Seth refreshed his Life Tap curse, casting it again on the boss to make sure everyone hitting it could heal themselves a little, and then he turned to face his army of undead, shooting them with his much-upgraded Volatile Wraith. It howled across the short distance, detonating among them and healing them all back up to full.
+
+Evolving his class had been extraordinary. He could summon so many specters now, and all of them gained enhanced spell power and damage to match whatever he equipped himself with. Which meant he could boost their power by choosing good equipment to wear.
+
+It was the only reason he was wearing the percentage increase to ice and fire damage enchantments.
+
+The three spectral ice trolls stood tall at the back, firing their powerful streams of ice bolts over the heads of the half dozen spectral kobold Fire Mages he had raised with Ali’s help. The firebolts in particular were extremely effective against the Fungaloth Ravager, and he could see smoking holes wherever they hit. Around the rim of his small force were twelve undead Sylvan Archers, each wielding a howling hellfire bow Ali had made for him. The bows were only level sixty, but the extra hellfire damage was what he had been counting on. That could do with an upgrade. Everything needs an upgrade! I just need breathing-room…
+
+He smiled grimly. Not that breathing’s too much of an issue anymore.
+
+“Calen, minor change of strategy,” Malika yelled. “If you get hit by the spores when the creep spores die, you get Frenzy.”
+
+And his notification chimed as Malika shared the buff.
+
+Frenzy.+150% melee and ranged haste for all your stamina-based abilities. Duration: 30 seconds.Magic Buff
+
+Stamina abilities? He glanced over, immediately eyeing his four-armed undead Sylvan Archers drawing and firing with their Rapid Fire as their bows howled with an unholy din. Hmm…
+
+“Arise,” he intoned, activating his Raise Greater Undead – the skill his Raise Zombie had evolved into. The punctured Frenzied Creep Spore twitched, its body pulling itself back together. It quivered for a moment as his mana restored it to pristine condition, and then it bounced across the way, heading straight for his army. Then he Sacrificed it for health, causing it to explode among his minions, giving all of them Frenzy.
+
+It didn’t do anything for the casters, but the arms of the archers blurred into frenzied movements as their arrows whizzed through the air.
+
+Oh, that’s so cool! he thought as he saw his crazy idea actually working. Now, if I can just get Amplify Damage or Vulnerability on a Creep Spore and proliferate it to the boss, that will be awesome! He wielded his obsidian rod and scanned the creep in anticipation of the next spawn.
+
+Ali frowned in concentration, tracking more things simultaneously than she felt strictly was comfortable. The biggest problem for her was not the crazy healing rotation, nor even the spores – the others were taking care of those. Surprisingly enough, it was the fact that she had a highly specialized complement of unfamiliar summoned minions, and she wasn’t used to them all.
+
+“Spore to the right!” Calen yelled, spotting the grotesquely bubbling fungal creep as an evolved creep spore sprouted right out of the sickly fungal outgrowth dripping down the cavern walls.
+
+The problem is healing, she thought, considering the incredible constraints on this fight. Her normal solution to hard fights was to summon more acolytes and just overwhelm them with numbers, but against the combination of the rot aura and the healing suppression, the more minions she made, the more healing was needed, putting untenable stress on an already struggling healing rotation. Making more vulnerable healers turned out to be decidedly counterproductive. It reminded her of the Corrupted Fire Drake at the end of the mines – a numbers-restricted fight which placed too many limits on her abilities as a summoner.
+
+“Go,” she said, pushing her will out to her melee forces.
+
+All her melee minions charged the spore, gathering around it without attacking for the few seconds it took for the rest of the melee attackers to arrive. Even a few guild archers teleported in to pick up the Frenzy, frantically downing murky green vials of absorption potions. Ali sympathized viscerally with the grimaces on their faces; she, too, had tasted those vile concoctions.
+
+“Kill it,” she said, and Tol’brekk crushed it with an overhead sweep of his giant greataxe. The spore popped, blasting everyone around it with a detonation of rot and a cloud of spores. But only her Berserker, Bloodwielder of Aman Rak, and Bone Champion took any damage – the rest of her melee forces were comprised of Sylvan Warriors, chosen for their innate nature absorption.
+
+Connected to her minions’ senses, she heard the chime as they received the potent spore buff.
+
+You have gained Frenzy.
+
+Tol’brekk earned his place in the raid simply because of the enormous damage he was capable of generating on command. Kir’mogan was required for Mortal Wounds to reduce the Fungaloth Ravager’s regeneration, and Joraa had earned his spot simply for Vampiric Hex and the constant health trickle from his Blood Restoration totem. Combining the regeneration auras from Mato’s tree Sanctuary and her Forest Guardian with their native troll regeneration, all three trolls seldom required healing. At least, now that Mato was taking care of the rampant escalation of damage due to the Creeping Rot.
+
+But the Sylvan Warriors were something else entirely. Their health never dropped by even a fraction, continually refreshed by the powerful rot aura. She had equipped them with Thuli’s Flame Blade of Mastery – a pair of the fire affinity swords Thuli had created, and she had learned via her Anvil of the Emberforge. They were so good that the moment she realized the extent of it, she started spending every free moment summoning more of them.
+
+All her melee forces turned and rushed the Ravager, their attacks blurring with incredible newfound speed under the influence of the Frenzy buff. Flickers of flame trailed from their blades as they slashed into the vulnerable Fungal Aberration; plant-like echoes of Vivian’s flaming blade dancer skills.
+
+“Arise!”
+
+Ali glanced sideways at the low, resonant ritual intonation to find Seth raising the spore as an undead specter. Puzzled, she watched as he made it run all the way to his group of undead monsters before she realized he intended to try to use the monster to gain Frenzy for his minions.
+
+The second pop and cloud of spores, and his grin, told her instantly he had been successful.
+
+“You should get this for your archers next time,” Seth called over. “It’s incredible!”
+
+She smiled at him and nodded.
+
+Fire. Most of this fight revolved around fire. The unfortunate part was that all her regular fire minions were less than ideal. Her Hellfire Imps and Wargs could heal from fire, but they could only do area damage – and in a fight where they were limited by healing, hitting your allies was not smart. Her kobold Fire Mages had Firebolt, but then they would require healing, and so, she glanced enviously at Seth’s squad of undead Fire Mages, which she had provided. He could heal his minions with damage, while she could not.
+
+Instead, she had a full complement of Sylvan Archers wielding Howling Hellfire bows. The din was horrific, but their rapid-fire arrows delivered a howling torrent of hellfire into the Ravager, and, like her warriors, they were self-healing in the rot aura.
+
+She listened carefully as the healers called out their healing rotation. There had been a few mistakes – obscure healing-trait spells or abilities people had cast without thinking, which had messed up their spot in the rotation, but they seemed to have hit their stride now. It was a surprisingly easy mistake to make, given that healing potions and gear enchantments with healing traits also triggered the suppression. “Ok, fire,” Ali said, and the glowing golden kobold beside her summoned a brilliant yellow-white ball of flame.
+
+The holy fireball shot off, joining the hail of dark-flame-wreathed arrows, detonating dramatically on the murky green hide of the Ravager, splashing white flame across almost the entire melee group and healing them. She had compromised, bringing two of the Wielders of the Sacred Flame kobolds, managing their healing with two Sylvan Dark Druids. She was glad she had – a fireball of healing every thirty seconds had taken a lot of pressure off, keeping the melee in a much healthier state.
+
+She downed her fifth Rot Absorption potion, having decided early on that it was more efficient than an actual healing potion, especially with the amount of regeneration filling the room. I just hope we brought enough potions. They were not easy to source and make, and Eliyen and Morwynne had been working long hours to fill their requests, and although she could summon them with her Grimoire, now, her time was already taken for more urgent tasks.
+
+“Spore!”
+
+Ali reacted at once, shifting her melee forces again as they all took a brief timeout from hitting the Ravager to gain the spore buff.
+
+“Arise!”
+
+Ali glanced over at Seth to find the newly raised Creep Spore scrambling over toward his undead.
+
+“Quickly, Ali! Now!” he yelled.
+
+With a thought, she directed her archers to use Fade. All of them vanished instantly and charged over to join Seth’s undead with the incredible movement speed boost granted by their skill – to the mundane senses, they all appeared to materialize rapidly beside the undead, right as the spore popped.
+
+You have gained Frenzy.
+
+Quickly, she backed her archers up, giving Seth room to detonate his Volatile Wraiths again, and then her archers unleashed their arrows with Rapid Fire now more than twice as fast, and the Fungaloth Ravager’s health began to fall rapidly.
+
+“Calen! I smuggled an Amplify Damage onto the boss!” Seth yelled, waving his rod of Curse Proliferation above his head, inordinately excited about his achievement at stacking the boss with more curses than his usual quota.
+
+Without hesitation, Calen shouted, “Bloodlust, now! Everyone, go all out!” Then he ignited with the intense radiance of Righteous Fury, spilling his light through his beacons across the raid.
+
+“Bloodlust!” Ali commanded. Joraa instantly burned nearly half his health on the potent power-up, triggering a sympathetic roar from the other melee Trolls. Before the Bloodlust expired, the frenzied, powered-up raid tore through the remainder of the Fungaloth Ravager’s health in an avalanche of strikes, and it finally crashed to the damp moss and creep with a sickening squelch.
+
+A second later, the notification they all wanted chimed in her mind and she checked it immediately.
+
+Your group has defeated Fungaloth Ravager – Fungal Aberration – level 180 (Nature / Death)Dungeon of Knowledge has reached level 150 (+4).+40 attribute points.Arcane Insight has reached level 85 (+3).Arcane Recall has reached level 44.Barrier has reached level 81.Sage of Learning has reached level 66.Martial Insight has reached level 91 (+2).Empowered Summoner has reached level 70 (+2).Domain Mastery has reached level 49 (+2).Minion Teleport has reached level 42 (+2).Inspiration has reached level 28.
+
+There we go. Ali smiled at the cheers that erupted in response to the Fungaloth Ravager collapsing while she dismissed several level-up notifications for her new minions. And indeed, it had been well earned. Although stressful and difficult, this fight had most certainly been won in the planning room – the complete overhaul of strategy, minion breakdown, gear, potions, and even the particular selection of which adventurers to bring and which to leave behind had all been crucial to the success of the raid.
+
+It was dead, and she had no desire to do this particular fight again, and as she flew forward to deconstruct the corpse, she brought her hungry domain with her, ripping through the fungal creep as she consumed the entire area, preventing the monster from ever respawning.
+
+[Sage of Learning]Domain Magic analyzed: Trait Suppression Aura (Healing).Domain Magic analyzed: Affinity Aura (Rot).Domain Magic analyzed: Attribute Enhancement (Vitality).
+
+“Did you get it?” Calen asked. He didn’t specify what he was talking about, but Ali knew exactly what he was referring to. So, she simply shared the domain magic, choosing to include the rest of the raid group, too. She didn’t mind sharing with them as they had worked hard for the fight, and she was benefiting from their efforts.
+
+Trait Suppression AuraRequirements: Choose a known trait.Source: Fungaloth RavagerTraits: Healing, Minion, Knowledge, Nature, Arcane.Project an aura that inflicts an additional recharge on any skill with the chosen trait. The imposed recharge time is dependent on class level and the breadth of the trait chosen.Skill – Domain Magic
+
+Calen looked rather surprised. “Not just healing?”
+
+“My class often adds its own affinities to any Domain Magic I learn. I think it is the same here, it added some of my more common traits as options,” she said. By the description, suppressing an entire mana affinity would likely only increase the recharge by a much smaller amount, but a Minion or Knowledge suppression would probably hurt her far more, seeming almost tailored to disrupt her class.
+
+“I don’t want to face a Minion Suppression boss,” Seth said, grimacing.
+
+“Yeah, me neither,” Ali said, wondering if it would suppress the abilities of her minions in addition to her skills that bore the minion trait.
+
+“Shouldn’t we press on quickly?” Aiden asked. “We don’t get much time in this dungeon, and we need to see what’s left.” There were several exhausted groans from adventurers sitting on the ground trying to recover.
+
+“No rush,” Ali said. “I own everything up to the tunnel into the next cavern. The Ravager won’t be respawning.”
+
+“Oh, that’s a relief,” Aiden said, plopping himself down and getting a drink of water.
+
+Ali sat down also, considering her attribute points. Her class was generally fairly focused on her three primary attributes, but her actions occasionally required investments in the others. Given what she had been facing recently, she spent five points on vitality, three on endurance, and two more on dexterity. There, that should help, she thought as the new points of endurance took a little of the edge off the continual dungeon rage. She split the remaining thirty points evenly among wisdom, intelligence, and perception, but just then her notification chime sounded again.
+
+Aha, I wondered if level one-fifty – no, nothing to do with that. Quickly, she re-read the notification.
+
+Requirements met for skill advancement. Mentor: Azryet.Survived being afflicted with Mana Saturation multiple times.Mentors two protégés with primary Minion traits. Empowered Summoner has reached at least 70.Maximum mana has surpassed 60,000.Empowered Summoner gains Power Infusion.(+Third target. Channel mana for a proportional increase in minion Arcane and Nature spell power and damage.)Empowered Summoner gains Mana Battery.(+Third target. You can channel mana, donating it to your minions.)Choose one advancement.
+
+Oh, this looks amazing! she thought, studying the advancement for one of the most consistently used skills in her repertoire. Already, her skill granted her two attribute boosts, and this would finally provide a third. She didn’t even have to wonder what she might choose; the clear winner was to always keep an Eye of Agnor and boost her perception attribute, improving Martial Insight, Arcane Insight, and Sage of Learning. But both of the choices offered provided this improvement, and so that did not help her make a decision.
+
+Empowered Summoner already granted her minions additional nature and arcane damage on hit, regardless of whether the hit was melee, ranged, or a spell. Now, she would be able to channel mana to increase this damage with Power Infusion – and it looked to be bound only by the limits of her mana pool. Mana Battery, on the other hand, would ensure her healers would never run out of mana as she could simply donate her own and then use Inspiration or Deconstruction to replenish.
+
+Hmm. She didn’t quite know which to pick. “Hey, can I get your opinions on this?” she asked, turning to her friends and sharing the choices she had been offered.
+
+“Mana Battery seems a little like my Second Wind,” Malika said. “But if you ask me, I think I’d favor the damage option.”
+
+“Definitely,” Calen said.
+
+“You sound so sure?”
+
+“How often are you in a situation where you have too much mana, but your minions do not?” Calen asked. “You’ve already given all your healers storage rings and mana potions. Mana Battery is nice, but if your mages or healers are not running out of mana, it does nothing for you. The other way is not the same; you can always stack damage. I think Power Infusion will be useful in many more situations, especially as you don’t mind spending gold for elixirs or specialized gear, and you can make potions before the fights. Think about how it will stack with Bloodlust, for example.”
+
+“That’s a good way to look at it,” Ali said. Trust Calen to come up with an articulate and clear description of the tradeoff. And he was right, as soon as Morwynne and Eliyen had succeeded, she had committed the elixirs and absorption potions against rot to her Grimoire imprint and spent ridiculous amounts of money funding special gear orders from the crafters for all her minions.
+
+“Also, Power Infusion seems to boost all arcane and nature spell power and damage, not just the added damage from your Empowered Summoner.”
+
+“Oh!” Ali quickly rechecked the description, verifying Calen’s observation. “That changes a lot.” She didn’t have many arcane affinity minions, but she most certainly had a lot of nature ones – particularly after destroying half of Blooming Rot – and if he was right, that meant all their spells would benefit from the improvement. Basically, she would be able to spike their damage dramatically any time she needed it.
+
+Now convinced, she committed her choice and studied her updated skill.
+
+Empowered Summoner – level 70Mana: Your minions gain added nature and arcane damage on hit.Choose up to three Minions. You gain 198.8% [40 + skill + base intelligence x 0.15] of their highest base attribute. Range: 46.5 meters. Reserve: 10%0: Replace a minion target for your attribute enhancement. Minions with at least Boss Domain Enhancement may be used as a target regardless of range. Recharge: 1 hour.Mana: Your minions gain increased nature and arcane spell power proportional to mana spent. Channeled.Nature, Arcane, Minion, Buff, Intelligence
+
+Right. Now to see how it all works. She began summoning an Eye of Agnor, eager to discover how much her Perception attribute would increase, and start to experiment with boosting her demon’s arcane spell power.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

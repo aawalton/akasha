@@ -1,0 +1,223 @@
+---
+id: 866bf9fc-1629-5c5f-8332-ab11c52a569a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 425: Recovering the Shrine"
+slug: 0462-chapter-425-recovering-the-shrine
+partOf: dungeon-of-knowledge-complete
+position: 462
+ownLength: 3855
+unit: words
+ownProgress: 3855
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2716809/chapter-425-recovering-the-shrine"
+royalRoadId: "2716809"
+markedReadAt: "2026-06-29T20:27:50.097Z"
+---
+
+Ali stood as everyone prepared to continue, their mood light and excited now that they were heading toward the shrine. “Ok, everyone out, I need to protect the Landing.” She needed them to vacate the area for what she was about to do.
+
+The two raid groups of adventurers filed out, readying their weapons. The sounds of sporadic explosions and steel could immediately be heard echoing from the tunnel as they tackled the respawning monsters. She tuned it out and turned to her Pit Lord – a monster far too large to fit through the tunnel. A monster that she had only just recently faced down by herself in the Abyssal Realm. She wasn’t about to babysit it through the dungeon with Minion Teleport, and besides, she hadn’t cleared out most of the mines yet. A tidal wave of screeches and roars could already be heard as the remainder of the other two wings she had severed from the domain stampeded toward the Landing. So, she promoted Maalgaroth to a raid boss right on the spot.
+
+Domain Respawn applied to Maalgaroth.Raid Domain Enhancement applied to Maalgaroth.
+
+She didn’t feel particularly imaginative with his abilities, but then, to lock down the major chokepoint in the mines, all she needed was brute force. And what better tool than a Pit Lord for that?
+
+Why was she dithering?
+
+Biting her lip, Ali thought, To heck with this! He’s already got all the advantages he needs. Time to scale them up. Way up.
+
+Affinity Aura (Hellfire) applied.Overpowering Strike (Mortal Cleave) applied.Amplify Skill (Blood Concussion) applied.Domain Enhancement complete.Your reserved mana has increased by +2527.
+
+Ali hastily bubbled herself with her barrier magic as the domain mana filled the Pit Lord and the entire Landing erupted with a dense aura of black flame. Ali stared for a moment, shocked by just how much more powerful the hellfire aura was compared to the one emitted by the Hellfire Imp she had placed here the first time around. But then, her Pit Lord was more than twice its level, evolved, and had Infernal Flame, which drastically empowered his hellfire. Even the stone beneath her feet was beginning to melt.
+
+Hopefully, there was nothing left in the mines strong enough to out-damage his hellfire absorption healing while he fought within the intense flames. At least, with Blood Concussion and Mortal Cleave enhanced, he wouldn’t be surprised by any unexpected immunities.
+
+“Guard this area,” Ali said. She had high expectations for such an expensive summon. “Many monsters are coming from those tunnels. Kill them all.”
+
+“I live for destruction, master,” Maalgaroth growled, brandishing his glaive like a parade baton, and for some reason, his immediate compliance gave Ali a sudden rush of satisfaction. This was a terrifyingly powerful monster, and she had earned his imprint by sheer grit and determination, and some timely help from her friends.
+
+It was getting uncomfortably warm inside her barrier by the time she flew out of the Landing, and she was once again grateful for Lydia’s frostweave creations keeping her body nice and cool.
+
+Flanked by her three friends, Ali brought up the rear of their rush through the mines, her mana surging down the tunnels, consuming plants and mana indiscriminately, expanding her domain by wresting it away from the dungeon that had consumed hers. And the turnabout felt unreasonably satisfying.
+
+Her mana burst out into the jungle level, but here she found her first real barrier. Gone was the humid jungle of trees, butterflies, cavorting dragonets, and mossy overgrowth. Instead, she faced a murky swamp. Blackened, gnarled, and twisted trees grew out of festering bogs and bubbling puddles of rotting, murky sludge. It was still oppressively hot and humid in this cavern, but she feared she was going to catch some horrific pestilence simply by breathing the air infected with rot and the gagging stench of decay.
+
+Even the dense mana of the nature spawning pool seemed contaminated with murky rot, a fact that became even clearer as the adventurers fanned out, tearing into an oversized Devouring Consumption raid boss lurking on the banks. Absently, Ali summoned a barrier in the air as it began to rain gobs of rot magic, her focus on the domain itself.
+
+Anywhere within several hundred meters of the library, her domain expansion ground to a halt, encountering mana that was denser than a granite wall. Warily, she asked, “What’s in the Library?”
+
+“Lira,” Malika answered.
+
+Her heart seemed to cramp inside her chest. I should have known.
+
+“We came down from above, the Grand Library was impossible for us to even enter,” Calen added, pointing upward at the distant outline of the ruins of Dal’mohra suspended overhead.
+
+“I see,” she answered, trying to conceal her visceral despair, and instead looked upward. Somehow, she would need to have her domain jump hundreds of meters into the air, passing through the second and first levels of the ruined city. She considered simply consuming the outer rim of the jungle, but it looked like the Blooming Rot hadn’t completely scaled the cavern walls with creep yet.
+
+Then, she had a sudden burst of inspiration. There was a tree she had never made, imprinted in her Grimoire. A tree that was very likely now extinct everywhere else in the entire realm. She glanced up, moving to line up the floating rings far above, and summoned her chosen tree.
+
+Ciradyl Tree – Elder Tree – level 137 (Soul).
+
+It took a surprisingly long time to create, and when it suddenly manifested into reality, it was clear why. Its sudden enormity startled the entire group, even those engaged in fighting the boss, as the trunk, wider than several large buildings, soared into the sky, with giant branches reaching out in all directions. A tree to rival the enormous Lirasian Oak within the Library. A tree that had been used for millennia as a home for the Wood Elves of Ciradyl.
+
+Not a small number of their Pathfinder adventurers gasped and stared, making reverent signs or offering prayers to their deities.
+
+Ali summoned two more.
+
+As soon as the raid groups had taken care of the Devouring Consumption haunting the nature spawning pool, Aiden walked over, trying to wipe the ooze out of his hair. “I hate how fast this dungeon respawns. We’re just going to have to fight that thing again later.”
+
+“Not if I have anything to say about it,” Ali said, waving her hand and immediately consuming all the domain in the area, converting it all over to her own. Then she reached out with a hand that was sparking with excess mana and touched the haunch of her nearest Scion of Azryet.
+
+Domain Respawn applied to Scion of Azryet.Raid Domain Enhancement applied to Scion of Azryet.Zone of Destruction (Void) applied.Panic applied.Spell Cascade (Black Hole) applied.Domain Enhancement complete.Your reserved mana has increased by +2434.
+
+Mmm, that should do. But, just in case, she applied Domain Respawn to the giant Ciradyl trees, the huge chunk of nature magicite – the remains of the ancient mana condenser that was continuously filling the spawning pool – and several of the larger trees she had claimed in the area. She had seen what Void could do, and she didn’t want her dragon disintegrating her domain.
+
+“Hold this area till I come back,” Ali told her dragon. And thanks for the damage, she thought, wryly recalling Havok’s favorite line.
+
+With every boss they defeated, and every new one she created, her mana surged through the foreign domain, subverting and capturing it, claiming it for her own. Rot mana hung everywhere like the noxious fumes above a midden heap, held in place by her impervious golden lattice and the vibrant, emerald-green of her pure nature affinity.
+
+Good. This should hold, Ali thought, and then she flew up, hauling the remainder of her forces on a large barrier disk and following the adventurers who all downed flight potions, or activated individual flying skills. Their party made a tiny cloud of sparkling magic that circled the vast trunk of the tree like wisps traveling all the way to the second level of the ruins. As they left, Ali reached through her domain and deconstructed the discarded remnants of the boss battle at the spawning pool, dismissing the notifications for later.
+
+Ali crested the rim of the floating city rings, her gaze taking in the radical change in scenery. There were no ruins visible. Instead, all three rings had been claimed by a towering overgrowth of black and gray fungus, crawling with fungal aberrations and Devouring Consumption slimes. Battle had already been joined as the tired adventurers displayed a surprising resurgence of eager energy, but Ali focused on unloading her minions onto the outer edge of the central ring. It took a few moments to get her bearings by matching misshapen lumps to buildings in her memories, but eventually she found it. Entirely covered by slimy fungal growth, her Gates still stood – unpowered now, lacking a paired Gate on the opposite side.
+
+“I can guard this space again, if it is your wish, Seeker.” Ali turned at the sound of Tol’brekk’s deep rumbling voice and looked him up and down.
+
+“That’s a good idea,” Ali said, pursing her lips as she realized that his old spot was just outside of the range of whatever was within the library. The spot where they had defeated the Heroes of the Crimson Blade. “However, I think I’d prefer to keep you in my personal guard. I’ll use her for this spot,” Ali said, calling over her other berserker.
+
+“As you wish, Seeker,” Tol’brekk said, hefting his axes restlessly.
+
+Ali tore the domain to shreds around her and uncovered her old Runic Circle with a burst of deconstruction that vaporized the creep, and in a few minutes, she had her second Carnage Berserker restored to Tol’brekk’s old haunt. Then she gave her a couple of nearby kobold Fire Mages to help pull surrounding monsters into her arena.
+
+She flew her minions up to the top layer, using the giant hole Nevyn Eld’s forces had blasted through the city’s foundations, and by the time she arrived, the two groups of adventurers had already cleared an easy path to the broad boulevard that split the circular city in two. She flew down the center, taking only the time she needed to claim the creep and plants along the way as she followed the group all the way to the city entryway. She met Mato’s eyes as she entered the shattered chamber, but nothing needed to be said; the first boss they had faced together was long gone, and the chamber had been efficiently emptied by the combined might of all the adventurers as they made their way up into the forest cavern above.
+
+She reclaimed it all.
+
+The group emerged from the broad tunnel and into the dark remains of Ali’s old Forest Cavern, and she was greeted by the sounds of battle as the eager but battered adventurers tore into a twisted mutation that must once have been a Forest Guardian. Then, she finally saw it. Glowing softly among the fungal growth and twisted trees that had replaced her forest, rose a huge black obelisk of stone.
+
+Wow! Was it really that large, or is my memory just that bad?
+
+Ali’s mana reached out, almost as if it yearned to touch it, and she let the diamond-hard golden strands entwined with emerald-green flows consume the foreign domain, shredding the sludge and rot that covered the little stone pathway, clearing it away from the base of the shrine. As her mana touched it, a mighty wind rose through the cavern, howling up through the tunnel they had just passed through; a wind formed not of air, but glowing aurorae and streamers of mana. Her shrine suddenly came ablaze with brilliant radiance, lighting up the rotting forest like a new dawn.
+
+It was as if she saw everything afresh for the first time. She had to wipe her eyes. Mom, Dad… I’m back.
+
+Shrine of the Ancient GroveAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: Aliandra AmarielMana Siphon (Active).Mana: Unlock class experience.Mana: Assign latent or domain mana affinities. Mana: Unlock alternate classes.Mana: Class evolution.Mana: Revert a class or evolution.Owner’s Mana: Recharge the shrine’s mana reserve. 6,171,250/10,731,298Shrine – Artifact
+
+She gasped in amazement as the shrine drew in vast amounts of mana, filling itself to the brim in seconds, and then the howling wind died as suddenly as it had risen, leaving just the muffled sounds of combat on the outskirts of what remained of the grove. For the first time on their reckless, headlong rush through the Dungeon of Blooming Rot, she felt her Mana Saturation ease substantially.
+
+“Ok, who is first?” Ali asked as Aiden stepped up beside her, staring at the shrine in awe. Sensing Calen’s concerned gaze, she turned to smile at him. “I’m ready. More than ready.”
+
+He bowed, smiling back. “So it seems. Aiden?”
+
+“Um, well, my group hit their evolution earliest, so I think we should start with Havok,” Aiden said. “He has a little more than a day left before his evolution is chosen automatically.”
+
+“Ok, Havok. Are you ready?” Ali asked, calling the little green Goblin over. The scruffy Goblin she had first met in this very spot wearing scrappy leather and lacking a weapon to defend himself seemed to be long gone. Instead, she found herself looking at a quietly confident adventurer, standing proudly among his friends with curious eyes and an excited grin. He was wearing what looked like several hundred golds’ worth of Thuli’s best plate, and he looked every inch the paladin.
+
+“It’s two million mana per evolution, right?” Aiden asked. “How long before it recharges?”
+
+“I have ten million mana in there right now, so I can do five people at least.” She didn’t quite know how fast the shrine would recharge, but she had at least some idea that she would be able to do more than five. She was still overfilled and leaking mana discharges, and her domain felt just as strained, but she didn’t want to get their hopes up. At least her shrine’s Living Mana advancement was coming into its own now – ten million mana had to be the result of all the evolved trees she was planting, and the expansive area in the Abyssal Realm she had been gifted for helping Azryet.
+
+“Five?” A big grin suddenly appeared on Aiden’s face as if this were the best news he had heard in ages. “Then we should add Devan, Flynn, Kaitlyn… and Teagan.” The adventurers he had called out stepped forward, some of them looking rather awkward at being chosen to be first.
+
+“Your evolution is more urgent than mine,” Teagan said, frowning at Aiden.
+
+“You’re a healer,” he said. “A messed-up evolution for a tank or healer will do much more damage to the guild than a broken Ice Spellsword. Now that we have the shrine back, I could just revert later if it breaks, right?”
+
+“Yes, but I’m not sure what that will do to your choice of paths,” Ali answered. But Aiden was adamant about letting Teagan go first.
+
+“Havok first?” he asked.
+
+“I think you can all go at the same time,” Ali answered and unlocked the shrine for the five of them. “And Havok, perhaps you should let Azryet know before you choose?”
+
+The little Goblin snapped a startled look at her, but he abruptly fell to his knees and delivered a solemn prayer.
+
+Azryet brooded in his library, studying the Rift through the eyes of his kobold scout, a thin but unbreakable thread of worry worming its way through his gut.
+
+He had promised Aliandra that after she recovered the Rift from Maalgaroth, he would study it with her and together they would figure out how to reopen the way for her to return home – and he had fully intended to make her promise to keep the rift open and remind her about her bargain to share knowledge.
+
+But when he had returned from the diversionary maneuvers, he found that the resourceful Fae had somehow figured out how to open the Rift on her own, and she was gone. Gone where he could not follow.
+
+“She better remember our bargain,” he grumbled to himself, for about the eleventh time.
+
+“She seemed honest,” Tiraza answered. “Perhaps you should trust her?”
+
+“Yes,” he said, just like every previous time. But the worry would not leave; it gnawed at him, reminding him that he should have made it more secure, or bound her to him with something a lot more certain than just a mentor enchantment. He couldn’t shake the fact that he had her here, within his domain, and now she was beyond his control, and he could not make her do anything.
+
+“Gann,” he said, through his link to his kobold scout.
+
+“Yes, master?”
+
+“Go find her,” he said. “But do not interfere, just observe,” he added after glancing at Tiraza guiltily. Sending a scout was not an act of trust, but he could not shake the fear of betrayal that his imagination kept throwing at him. This was important – the first time he had made contact with something or someone from outside his stagnant, aeons-long defeat in this isolated realm. As slim of an advantage as it might provide, he could not afford to let this opportunity slip through his talons.
+
+“She will keep her word,” Tiraza said, as if she had heard his mental conversation.
+
+“How do you know that?”
+
+“She left her domain here. It passes right through the Rift, and she even created a defender in that chamber.”
+
+“But…” But right at that moment, Azryet felt the tingling prickle in the back of his mind. A sensation he craved, the sense of a prayer.
+
+“Oh, mighty Azryet. Havok evolve class now. Thanks for the damage!” The voice of his Goblin paladin came to him borne upon the tendrils of his mana he had imprinted into the lowly creature.
+
+Evolve? Wait… now?
+
+A soft chime sounded in the back of his mind.
+
+Your follower Sneeze “Havok” is undergoing Class Evolution.Do you wish to offer a Path?
+
+The question hung in the air, a potential, a fleeting opportunity waiting for his response.
+
+“Oh… Oh! Tiraza! Quickly! He’s doing his evolution! Do we have a paladin path?” He couldn’t remember ever having had a paladin before, even thousands of years ago at the height of his power. In the days before he had gotten stuck in this realm, he had prepared and maintained several standard Paths to offer in case people tried to evolve their classes, but besides Mato, he had not done one in thousands of years.
+
+“Of course,” Tiraza said, with a soft amusement in her voice. “I assume you want to invest a lot in this one again?”
+
+“Yes. Something special for my first paladin.”
+
+Tiraza vanished and reappeared with a stack of magical tomes, opening the top one to an appropriate page. “How about offering him the First Paladin of Azryet?” she asked.
+
+He quickly scanned the runic formation, matching the options with what he had learned of his first follower in several ages, and the more he studied it, the bigger his smile grew.
+
+“Oh, this is perfect,” he said, and channeled his mana, twisting the formation, refining the details, and adding embellishments to make it perfect for Havok, his Goblin paladin.
+
+Another chime sounded, interrupting his thoughts.
+
+Your follower Devan Owens is undergoing Class Evolution.Do you wish to provide a Path?
+
+“Devan too?” he asked in surprise. He had so few followers now that he knew every single one of them by name. He had memorized the details of their personalities and preferences, the sense of their mana, and the richness of their traits and experience shared with him through their bond, all seeking to understand and influence them to draw out their best potential.
+
+“She is the rogue, correct?” Tiraza asked, pulling out a second book from her pile, opening it to a new and different formation. “How about a Demon Hunter Path for her? I think she might like that.”
+
+“How did you know to get that book?” he asked, but already he was studying the shape of the prepared Path, adjusting it to be a better fit for Devan. His followers deserved his best work.
+
+“I trusted Aliandra,” she said, giving him a significant look.
+
+He frowned at her, but it was not with anger. He summoned his mana, powering the Path choices he had crafted for his followers. His magic surged as he spent mana, experience, and every last drop of his precious Authority, hoarded now for thousands of years. The library shook, sending Tiraza into a frenzy of teleportation, trying to catch falling books.
+
+He shifted his awareness, finding himself hovering above a crowd of adventurers clustered about a shrine, glowing with so much mana it looked about to explode, in the middle of a dark, depressing forest of rotting trees and fungal growth. The group looked haggard and dirt-splattered, but there was an undercurrent of excitement running through them that even he could sense in his astral form.
+
+His two followers were present, front and center, eyes closed, with their hands resting upon the glowing shrine. He directed his delicate magical formations, sending them along the pathway to his patron enchantment that rested within both of them, infusing them with his offer and his hopes that they would find it worthy of choosing. Then, he looked on with mounting anxiety as they did not immediately respond.
+
+“It takes mortals a while,” Tiraza offered gently.
+
+Azryet hated how vulnerable he felt. He was a god after all, and an ancient dragon at that. He was The Calamity. He was above mundane emotions like anxiety and vulnerability. And yet, he paced back and forth in the library while his followers contemplated their paths, making Tiraza dodge the flips of his tail. He had drained himself of his last Authority for a mere chance at helping his followers.
+
+And then his astral vision caught sight of the tiny Fae with her golden wings, sitting quietly by herself beside the shrine. Her amber eyes met his, staring directly at his incorporeal awareness. Then she waved a little hand and smiled, and in that moment, he understood Tiraza’s trust for Aliandra.
+
+The moment was broken by the sound of a chime.
+
+Your follower Sneeze “Havok” has advanced to First Paladin of Azryet.Your Authority has increased by +178.
+
+Your follower Devan Owens has advanced to Demon Hunter of the Winds.Your Authority has increased by +163.
+
+Despite his stature and his dignity as an ancient dragon, he gasped at the glorious, near-forgotten rush of fresh reputation and Authority that ignited his senses with an ineffable sweetness, like molten ambrosia welling up from the deepest, most secret places of his dragon soul.
+
+“Aah, that’s what I remember,” he purred, unleashing a triumphant roar that shook the library.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

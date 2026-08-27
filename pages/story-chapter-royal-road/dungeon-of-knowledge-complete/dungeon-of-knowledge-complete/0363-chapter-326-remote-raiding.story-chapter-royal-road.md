@@ -1,0 +1,123 @@
+---
+id: 0b39bef1-b6d2-5694-87e8-e7c1d091785c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 326: Remote Raiding"
+slug: 0363-chapter-326-remote-raiding
+partOf: dungeon-of-knowledge-complete
+position: 363
+ownLength: 3133
+unit: words
+ownProgress: 3133
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2472839/chapter-326-remote-raiding"
+royalRoadId: "2472839"
+markedReadAt: "2026-06-29T20:22:53.609Z"
+---
+
+It took three days before the first group graduated from Ali’s gauntlet. As predicted, the Hellfire Imp boss took the longest for them to understand and defeat, but rather than being frustrated and annoyed as she had feared, the group took it as a badge of honor, an achievement they had won. More importantly, the experience had gelled the team from a hodgepodge mix of adventurers and pathfinders into a functioning raid group – albeit a new one.
+
+Once it had fallen, the other groups quickly followed their example. All the teams only succeeded once they had defeated each of the three prior bosses at least once, and they still had to use fire resistance gear and elixirs to manage the oppressive roomful of black flame. Ali herself had been terrified to face the imp as a healer; every time it synchronized its accelerated and amplified casting metamagic with the five-way fireball blast, her heart felt like it stopped as she had to scramble to desperately heal the raid and prevent people from dying to the hellfire aura and stray fireballs from the summoned imps.
+
+Why do I do this to myself? she thought, recalling just how stressful it had been in that furnace. But the teams all took it incredibly seriously, and by the time they were done, all the adventurers had surpassed level fifty, and there had thankfully been no casualties. Now, if I was a truly evil dungeon, I’d switch it up and surprise them… sigh.
+
+It was strange to be fighting remotely from the grand library, a true armchair warrior, but she was quickly getting used to splitting her attention across simultaneous raid fights. It did help that the most mentally taxing exercise was healing – a similar role across all the groups – but she quickly found she had more than enough room in her mind to handle her minions and study, provided she didn’t try to use something like her Study Trance in addition, as that required her entire focus.
+
+The biggest limit to her plan had been the fact that her acolytes could not level in her own dungeon, and so they had been left behind by the sudden surge in progress and level growth across the entire guild.
+
+A ten-level deficit. I’ve managed with worse.
+
+Ali studied the dead Glimmer Shard lying on the desk in front of her, her Grimoire open and floating off to her left side while she had Clarence propped open to a chapter on mana transmutation. This little side project had occurred to her after reflecting on the incredible sight of the powerful arcane elementals Nathaniel Sunstrider had summoned – at least, after the shock of that whole situation had faded a little. Something had been visible in the mana flows that she was certain she could duplicate using Adaptable Mana, but the Glimmer Shard she was working on stubbornly refused to have its mana transmuted from light to arcane – and it was, unfortunately, the simplest elemental imprint she had.
+
+While continuing to tease apart the mana flows and runic structure, she tapped into her concurrent awareness of the minions she had loaned to the remote raiding groups. Far to the south, deep in the heart of the blighted forest, the two raid groups halted their advance. She bubbled off several dozen tiny Sacred Oozes, sending them out among the members of the raid groups, popping against those most damaged by the persistent blight, while she refreshed restoration with her acolyte. Even just hiking through the blighted forest was a challenge with the debilitating black miasma seeping into every pore.
+
+Mato shifted, planting himself in the center of a small clearing, and the only respite from the miasma and blight, his sanctuary aura, exploded outward from his trunk, growing from a small circle to several hundred meters in all directions. Holy magic surged, flowing outward on the backbone of his potent aura of nature mana, filling the forest with holy consecrated fire that voraciously consumed the blight wherever it was found; from the trees, the adventurers, Ali’s minions, and even the very ground itself.
+
+“Thank you, young Druid,” Lira said, her hand gently resting on the bark of his trunk. She seemed like royalty with her elegant, graceful bearing, the aching sadness in her face contrasted by glimmers of new hope within her soft brown eyes and the retinue of hopeful followers she had brought. Eliyen Mistwood helped dispel the blight with her potent herbalism while Weldin Thriftpenny took care of supplying the group and providing transport to and from town when necessary. Fanning out through the flickering holy flames, the Forest Guardians, Moss Creepers, Floral Menaces, and Spore Spreaders Ali had gifted to her aunt made strangely shifting silhouettes. With a gentle wave of her hand, her minions summoned their magic, bringing an explosion of new life to the newly cleansed section of the forest, supported by the powerful tide of Lira’s magic that grew only stronger as she reclaimed more of her ancient home.
+
+“Incoming. Zombies,” Aiden called out, his voice calm. The undead in the forest were too low-level now to provide the group with any real challenge, and the raiders paired up without any fuss, making short work of the monsters.
+
+A flash of brilliant white glowing wings signaled the arrival of Calen from scouting.
+
+“The first two raid bosses are up ahead,” Calen announced. “A Plague Ghoul in a box canyon over that way, and a Skeletal Wyvern guarding that hill. I suggest we split up and take them both using this spot as a fallback if we need to regroup. Mato, which one do you want?”
+
+The giant flame-wreathed tree shifted, and Mato stepped out of the fading consecration. “I think we should take the ghoul,” he answered.
+
+“Because you don’t like fliers?” Calen asked, a hint of amusement appearing on his face.
+
+“No. Well, yes,” he said. “But the Plague Ghoul probably has paralysis and disease or corruption, which I can heal.”
+
+“That’s a good enough reason,” Calen answered.
+
+“Also, you’re the most powerful ranged attacker,” Mato added, nodding a little too eagerly. “Good against Wyverns.”
+
+“Right,” Calen said. “Lira, can you oversee the support crew camp in this area?”
+
+“We’ll take care of it,” Lira said, offering him a gentle smile.
+
+“Thank you,” Calen said, nodding respectfully. “Ok, let’s go. We’ll all meet back here when we’re done.”
+
+Ali split her minions and her attention, following raid group one and Calen toward the hill with a Hellfire Warg, Imp, and a Sacred Ooze. The Skeletal Wyvern in the library had been an unforgettable and terrifying fight at the time and promised to be a huge challenge for the enthusiastic raiders traipsing through the miasmatic dead trees, but it was a full raid group assisted by Calen and her minions, and every one of them had studied Calen’s written account of the fight or attended his strategy workshops. Knowledge was a powerful boon in these situations.
+
+At the head of their column, the shining plate-clad form of Havok strode among the trees with jaunty confidence, waving his heavy shield and kicking random clods of dirt out of his way as he chattered excitedly with his friends. A little further back, nearer to the middle of the pack, Ali made out the squat, broad-shouldered form of Belmar, clad in the austere brown robes of his priesthood.
+
+Vivian had assigned both of them to this group, meaning healing power should be well-covered, so she chose to trial her untested Sacred Ooze in combat, reasoning that at worst, the extra Holy damage would be welcome against the undead wyvern. Her two demons were chosen because fire was always effective – at least, anywhere that wasn’t deep in the Emberforge Mines.
+
+At the same time, she followed Mato and his group toward the Plague Ghoul with a hand-picked kobold support party; a Dagger Rogue, a Fire Mage, and an Acolyte of Azryet. This was a somewhat lower-level group, but she was extremely familiar with her kobolds, and she was already excited for the opportunity to gain extra levels for some of her long-time favorite minions.
+
+As they reached the box canyon, all three sets of sharp kobold eyes caught sight of the giant Ghoul pacing restlessly below. Its flesh was the color of rotting meat, and a heavy soup of toxic purple miasma billowed out from its ragged mouth – in quantities dense enough to partially obscure its form. Even up on the ridge, her sharp senses recoiled from the noisome reek seeping up from the undead monster. All around her, the adventurers with higher perception attributes began to turn green as they wrestled with the stench while trying not to retch and give away their position.
+
+Ali quietly retrieved a small vial of glowing white liquid from the storage ring she had purchased for her rogue. Morwynne Fizzlebang had evidently gotten wind of the guild’s raid – no doubt from the enormous surge in demand for her consumables – and she had tracked Ali down to ask her to test this brand-new concoction on something undead.
+
+Tears of the Goddess. A fancy name for a poison. Carefully, Ali smeared her Darksteel daggers with a generous coat of the holy-affinity paste – the serendipitous collaboration between Morwynne’s alchemical know-how and Basil’s cultivation of the Lunaré’s Tears flowers in her dungeon, feeling the wicked, predatory grin crease her scaly lips and baring her fangs. If this poison worked as she expected, the entire guild would want some. The moment she had identified their creation, Ali had made Morwynne create enough vials for her to add it to her potion imprint.
+
+Watch out, mister ghoul, my daggers are coming for you.
+
+***
+
+“Hide!” Calen shouted, and Ali retreated, sending her two hellfire demons to hide behind a giant boulder she had picked out prior – one without any adventurers that might be burned by her imp’s flame aura. Her Sacred Ooze poured itself down a surprisingly deep crack she had found in the ground and as it retreated, she felt the heavy impacts of bone spears rattling the ground above.
+
+It was weird to have Calen doing her job, but since his evolution, he could now see mana, too, and without her physical presence in the raid it would be much harder for her to do it anyway. Unless I bring a minion with a good mana sight skill, she thought. When the raid groups leveled up to seventy or eighty, she could switch in her Troll Ice Mages. That’ll be perfect. But that was a good way off, still.
+
+While the thunderous roar of bone spears smashing into the ground reigned through the world above, she remained in her hole underground, spawning a continuous stream of tiny little sacred oozelings, sending them outward, searching out any of the group that was injured. About half the spawns were smashed into oblivion by the tremendous rain of spears, but the strange, auto-guided healing potion style of her Sacred Ooze was growing more and more familiar to her as she experimented with it.
+
+It's too bad I can’t attack much, she thought. Only her Hellfire Imp was effective in an aerial battle. The warg and the ooze required the Skeletal Wyvern to be reachable for them to attack, which was too bad because both the hellfire breath attack and the ooze’s holy damage could be exceptional against the skeletal undead monster.
+
+“He’s landing! Havok, grab him,” Calen shouted, as the strange flickering needles of Coria’s Wing Clip clustered on its bony wings, interfering with the undead Wyvern’s flight magic.
+
+“Havok smash,” the Goblin confirmed, charging out across the bare, shattered ground of the hilltop, trailing a line of sacred oozelings behind him as he caught the giant Skeletal Wyvern right as it touched down.
+
+“Go,” Ali commanded, sending her warg and Sacred Ooze out into battle. The raid group’s teamwork was improving dramatically, especially the Pathfinders who seemed to be exceptionally well-trained with their personal skills and taking to raiding like fish to water. The melee fighters charged into battle like a pack of hungry wolves released into a chicken coop, unleashing their swords and fists to smash against heavily armored bone.
+
+A broad circle of holy flame flickered on the ground around Havok, but Ali avoided it – as much as the holy consecration helped their allies, the demons were allergic to it.
+
+“Missed,” Coria said, and it looked like the boss had broken Calen’s grappling shot too.
+
+“It’s taking off again,” Calen announced, as if he had just discovered what was for dinner. Was he hiding a grin, the rascal? “Melee, back off and prepare for the spears.”
+
+Ali withdrew her minions, but as the wyvern’s wings beat down and its bony claws left the ground, a crazy idea occurred to her. Quickly, she lashed out with a holy pseudopod, wrapping it several times around the wyvern’s ankle. With all the powerful climbing tenacity of an ooze, she hauled herself up, slithering and crawling her way through the giant bones of its legs, and squashed herself between its broad ribs.
+
+It was high in the air now, subjected to a veritable rain of fire, ice, and arrows from the ground, but within the chest cavity of the skeletal undead boss, her Sacred Ooze was protected by its heavy armor. It didn’t matter that she was so high up for healing; she spawned the little oozes continually, raining them down onto the raid group gathered below. From deep inside the undead monster, she began to unleash her holy magic, dissolving bone like she was made of acid.
+
+Naia clung to the craggy rock near the ceiling of the expansive, echoing cavern, spread out between two stalactites and an outcropping of the strange crystal that buzzed from the powerful ambient discharge of destructive magic raging below. She was disguised as a patch of the fungal creep, certain that none of the beetles or trees would spare her a second glance as they concentrated on the assault from her lava slimes crawling among the ridges and cracks below.
+
+She sampled the air with her membrane, monitoring the strange tastes and smells of the scorched fungal creep and burning wood as the forces clashed below. Up above, her Blood Thralls crept steadily forward; new oozes that Naia had pressed into action immediately, courtesy of Ali-friend’s last visit. She waited patiently, studying the positions below. The three giant Juggernaut Rock Beetles shoved their way inexorably through her forces, tearing gaps through her line to be filled by the much more agile Dark Treants and exploding Creep Spores. The water bolts and steam from her oozes bounced off their heavily reinforced, rock-hard shells, but despite their potent earth magic, she had learned how to crack them.
+
+Her forces crumbled slowly as her foes pressed their advantage, pitting the Rock Beetles against her Lava Lurkers, preventing her from getting to the more vulnerable plant and fungus monsters behind them. The Rock Beetles ground through her oozes with their enormous strength and their powerful mana twisting the stalagmites and ridges into spikes and sudden crevasses to stab or entomb. She squished her way out of each new trap as they formed, countering the powerful magic with the amorphous bodies of her oozes, recognizing now that this would be a vastly more challenging foe for Ali-friend with her unfortunately disadvantaged rigid body.
+
+She crawled her Blood Thralls a little further along the craggy roof, triangulating by the scent of the earth mana impinging on every membrane, and then suddenly dropped; each thrall falling in rapid succession, raining their heavy forms down on the rock beetles. She hit the ground and bounced off thick rock carapaces with splatting thumps, reacting by flattening all her bodies and slipping beneath the beetles’ carapaces. All at once, she detonated them. Each Blood Thrall mustered all their energy and mana into a single powerful explosion – she hadn’t found a way to use their strange healing ability yet – besides the Blood Thralls, oozes didn’t have this strange ‘blood’ that flowed in the tubes of those stiff-bodies – but, short of a boss, these explosions were her most powerful offensive ability.
+
+The thumps and cracks of the explosive release of power shook the rock she clung to, followed a fraction of a second later by the rippling shock of the sound waves reaching her membrane through the air. Shattered bits of rock armor shredded the Dark Treants and her oozes indiscriminately as her multiple bombs dismantled the Juggernaut Rock Beetles in an instant. Naia twisted her form, dodging the whistling shriek of a wayward granite missile, briefly compromising her disguise, but she rapidly assumed the color and texture of her new location. Quickly, she bubbled out a wave of sacred oozelings to swarm or rain down from the walls to heal her damaged forces and pushed up her highest-level Scalding Slimes to tear up the remains of the beetles from the inside.
+
+She sampled the rock vibrations, studying the mana distribution and evaluating the impact of her destructive move. The three Juggernauts were dead or dying, twitching and flailing on the ground as her remaining slimes and oozes swarmed them. She had lost almost half her forces in the clash and her Sacred Oozes were working hard to restore the remainder, but past experience had taught her that the aberrant plant monsters swarming the cavern would be as endless as the waterfall in the upper chamber.
+
+Not much time. It was a tiny window of opportunity, but she was going to take full advantage of it.
+
+A sudden vibration caught her attention as a large chunk of the side wall crumbled and collapsed. To her dismay, three new Juggernaut Rock Beetles appeared, but this time, they escorted a Subterranean Brood Queen. Naia’s membrane froze at the wave of earth-mana that flooded the chamber. The Brood Queen was giant – more than twice the weight of even the Juggernauts – and Naia had yet to kill one of this size. It wasn’t that the Brood Queen was particularly strong, it had thicker rock armor than the juggernauts, but it was their ability to summon swarms that made them so devastating.
+
+She had been so close to capturing enough of the cavern to establish a new raid boss and finally make a breakthrough progressing on this level – but the instant the Brood Queen appeared, Naia knew she had lost. Her membrane drooped as the craggy cavern shook under the heavy footsteps of the queen.
+
+Without waiting for the first swarm, Naia squeezed herself through her mana connection, fleeing to her previous boss room where she prepared to defend herself once more.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

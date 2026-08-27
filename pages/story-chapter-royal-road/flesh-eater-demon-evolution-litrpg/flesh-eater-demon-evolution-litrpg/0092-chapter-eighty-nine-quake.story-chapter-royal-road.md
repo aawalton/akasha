@@ -1,0 +1,145 @@
+---
+id: 7efae3c4-b97a-5f0c-92c6-c96d22a3b629
+page-type-slug: story-chapter-royal-road
+title: "Chapter Eighty-Nine: Quake"
+slug: 0092-chapter-eighty-nine-quake
+partOf: flesh-eater-demon-evolution-litrpg
+position: 92
+ownLength: 2030
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3490416/chapter-eighty-nine-quake"
+royalRoadId: "3490416"
+---
+
+“What the hell?” The merchant cursed, dropping his ledger as he was flung forward from the sudden stop. The family in the corner yelped as well, gripping onto the wagon box’s rim for support.
+
+Pyre casually reached out and grabbed Daphne and Callan, holding them steady before they could fall forward. The demon’s eyes remained fixed on the small gap in the canvas ahead. Through it, she could just barely see the driver’s back.
+
+Below, the wheels stopped moving entirely. Pyre pulled aside part of the wagon cover, but a quick sweep of the outside revealed nothing out of the ordinary. There was just the road and the forest lining it. Whatever had caused the driver to stop must be in the front.
+
+“What the fuck was that!” the merchant yelled once he’d righted himself again. Beside Pyre, Daphne had tensed, sharp eyes already moving about the wagon, while Callan eyed the narrow gap in the canvas warily.
+
+When the driver didn’t respond to the merchant’s increasingly furious curses, Pyre rose. She had to hunch over quite a bit to move around in the confined space, but she didn’t hesitate to shove past the man, ignoring his disgruntled yell. Once she was at the front of the box, she gripped the canvas and shoved it aside.
+
+The cloth gave way to a light breeze and the wide, expansive blue sky above. The driver was still seated, hands gripped around the reins, and Pyre couldn’t see anything but road and forest for the next mile.
+
+She was starting to wonder if something had happened to the magic spell powering the wheels when a faint tremor suddenly ran through the earth, shaking the wagon slightly. Her gaze shifted.
+
+Up ahead, a faint, thin line had formed in the center of the road. As the demon stared at it, it kept growing longer and longer, cutting clean across from the left treeline to the forest on the right.
+
+“What the hell is that?” Daphne murmured.
+
+As if it had heard her, that thin fissure began to widen.
+
+In front of their eyes, the ground split apart. It looked like a knife had been cut into the earth, and now, the sliced sides were slowly falling away from each other. The wagon jolted, shaking violently as the fissure kept widening. Pyre heard someone scream, and the merchant fell over again from the rocking.
+
+That thin crack now resembled a canyon. Their side of the road was separated from the other by a gap of about thirty feet. A few thin bridges of land connected the two halves of the divide, and from where Pyre currently sat, she couldn’t see the bottom of the newly-formed ravine. There was nothing but sharp, jagged earth and stone as far down as she could see.
+
+Finally, the vibrations stopped. Just as suddenly as the fissure had formed, the earth fell still again.
+
+Only now, the road ahead was interrupted by a deep chasm where there hadn’t been one before.
+
+The wagon had gone silent. The driver released the reins and rubbed his eyes like he couldn’t believe what he was seeing. That seemed to be a shared sentiment among the passengers.
+
+Gripping onto the edge of the wagon box, Pyre swung her legs over and promptly jumped out, ignoring Callan’s startled protest. Without hesitating, she strode forward towards the chasm.
+
+As she’d seen from the wagon, the ground came to a sharp corner at the edge of the ravine. It dipped straight down, and through her [Far Sight] eye, she could see it was a long fall before the two sides of the chasm came together again.
+
+Those “bridges,” meanwhile, actually extended all the way down to wherever the bottom of the ravine was. They were more like raised, jagged walkways connecting the two sides of the gap like fibrous muscles. Pyre crouched down to get a closer look at the stone.
+
+Huh, she thought. Interesting.
+
+It was faint, but she could see thin, vein-like cracks running along the walls of the chasm as well. She had no idea what the ground was supposed to look like in this world—maybe that’s just what the underground looked like—but she got the distinct impression that something was missing.
+
+“What is this?” Callan breathed. The demon glanced over to see the ghost carefully approaching the edge of the ravine as well. She raised an eyebrow.
+
+“Guessing this isn’t a normal earthquake, then.” That was her first assumption, but she would’ve expected a little more shaking as a warning before the whole ground split open. This fissure seemed way too big for the amount of tremors they got. Of course, she was no earthquake expert and only working on hazy information, so she was happy to be proven wrong.
+
+Slowly, the ghost shook his head. “No, it’s—” He stopped, taking a moment to consider the best way to explain it. “I mean, it is an earthquake, but not the usual kind.”
+
+“It’s an ichor quake.”
+
+Pyre turned to see Daphne standing a foot back, brown eyes fixed on the chasm. She was frowning. The noble nodded at the fissure. “See those lines in the earth? They’re underground ichor veins.”
+
+The demon studied the cracks again. There wasn’t a trace of silver in sight.
+
+“Looks pretty ichor-less to me,” she said. Daphne smiled wryly.
+
+“Yeah, that’s the problem.”
+
+“Ichor quakes happen when there isn’t enough ichor in the land,” Callan explained. “Since ichor anchors the world, without it, any plants in the area will die, and the ground will sometimes… split open like that. You usually see this happen around ichor mines where the earth’s been wrung dry. They can be really dangerous—we’re lucky the wagon stopped in time.”
+
+Based on the furrow in the ghost’s brow, Pyre suspected there was more to it. He and Daphne both looked too tense for this to be a “normal,” if rare and sudden, occurrence.
+
+“There any ichor mines around here?” the demon asked.
+
+Slowly, Callan shook his head. “Not in this part of Galen,” he muttered.
+
+“Maybe some of the mines nearby dug into this area,” Daphne said, but she didn’t sound like she particularly believed the theory. Callan made a noncommittal noise.
+
+“Maybe.”
+
+Pyre’s eyes settled on the chasm again. She remembered Merrick had lived in an ichor-mining town in Galen, but it didn’t sound like there were any around here. Which meant either a mine had gotten really over-zealous, to the point of fucking up the ichor concentration here as well, or there was something else going on.
+
+Even with all her perception traits active, the demon couldn’t find anything unusual around except for the fissure itself. There was something vaguely uncanny about it when she stared at it for too long, and she wondered if this was some subconscious awareness of the missing ichor there. Empyrean demons were supposed to be extra sensitive to it, after all, so it made sense that a significant lack of it would be unsettling.
+
+Before Pyre could think on it further, the sound of yelling quickly pulled her attention away.
+
+She turned, grey eyes immediately landing on the driver—now standing on the ground with the family anxiously watching him from a few feet away—arguing with the merchant, who had yet to get off the wagon.
+
+“ —paid good money! I need these wares in Serindell by the end of the week!” the merchant was yelling. The driver waved his arms frustratedly.
+
+“It’s an ichor quake, for crying out loud! I can’t control the fucking ground!”
+
+“Yo, everything good?”
+
+The driver jumped, spinning around to find the demon watching him with a raised eyebrow. He eyed her warily for a moment, then released a heavy sigh.
+
+“I’m letting you all off here,” he said, pinching his nosebridge tiredly. “Those bridges’re wide enough to walk across. If you keep heading down the road, you can find someone else to hitch a ride with. But there’s no way this thing’s making it over.”
+
+“Or we could go around,” the merchant snarked.
+
+“You think my wagon’ll fit through the forest? You see how dense those fucking trees are?” the driver snapped back. That only seemed to further incense the other man, and soon the two were yelling again.
+
+As they argued, Pyre took a moment to peer down the road. She couldn’t see another wagon close by with her [Far Sight] eye, and with this chasm here, it wasn’t like there’d be any more wagons passing for a while. Unless a wagon up ahead stopped long enough for them to catch up to it, realistically they’d be traveling the rest of the way on foot. No more magic-powered wagons to make the trip shorter.
+
+The family seemed to realize this too, if the worried whispers exchanged between them was any indication. They’d already moved all their stuff off the wagon, and Pyre saw her own bags sitting next to Daphne’s on the ground beside the mage.
+
+The demon eyed the chasm again. Striding forward, she carefully placed a foot down on one of those land “bridges.” It was firm below her feet. She put more weight onto it until she was standing completely on the land, and yep, it remained sturdy. Which made sense, considering it was basically a giant, extra-long column extending up from the bottom of the chasm.
+
+The demon turned back to the wagon, where the merchant, still stubbornly seated in the box, was gesturing angrily at the driver. She strode forward, uncaring of their argument, and came to a stop in front of the vehicle.
+
+“Hey, get off.” Her voice was blunt. The merchant’s head snapped furiously to her.
+
+“Who do you think you are to tell me what to do?” he sneered. “I’m not moving a damn inch without my wares!”
+
+“Don’t bother,” the driver muttered between gritted teeth. “Fucker doesn’t listen.”
+
+Pyre, however, just stared at the man with flat grey eyes. Slowly, she raised an eyebrow.
+
+“Okay,” she said simply. “Hang on, then.”
+
+That seemed to finally take the merchant off guard. His brows furrowed.
+
+Before he had a chance to process what the demon said, Pyre stepped forward, gripped the wagon box, then proceeded to lift it straight into the air.
+
+Someone gasped and another voice shouted in alarm, but it was drowned out by the merchant’s piercing shriek as he was suddenly raised up with the wagon and all its contents. He scrambled, desperately clinging to the edge of the wagon box for dear life.
+
+“What are you doing, you barbarian! Put me down!” he yelled, but his voice was so shrill that it sounded more like a squeak.
+
+Pyre ignored the man. She strode forward, casually carrying the wagon over her shoulder. It weighed nothing to her, given her strength stat, though it was a little tricky to keep it balanced. She didn’t want to accidentally damage the wheels and whatever spell let this thing run.
+
+With steady, even strides, the demon approached the chasm. The merchant’s terrified yells grew louder when she placed a foot down on the landbridge. She waited, pressing more weight into it. It stayed rock solid below her.
+
+Confident now, Pyre hoisted the wagon higher and began walking. The pseudo-walkway was about as wide as a hallway, if significantly more jagged, and she easily made it across without stopping.
+
+Once she was safely on the other side, the demon lowered her arms and set the wagon back down onto the ground as lightly as she could manage. It rocked a little, but she was pretty sure the wheels were fine.
+
+Meanwhile, still gripping tightly onto the wagon box, the merchant’s face had gone white. He made a gagging sound and hunched over, but Pyre was already turning around.
+
+On the other side of the ravine, the driver and family were staring at her with wide, dumbfounded eyes. Daphne was grinning, while Callan looked like he was stuck between being impressed and grabbing his head in horror.
+
+The demon raised an eyebrow and nodded at the driver, whose mouth was still hanging open. Her voice was completely casual when she spoke.
+
+“You still good to drive?”

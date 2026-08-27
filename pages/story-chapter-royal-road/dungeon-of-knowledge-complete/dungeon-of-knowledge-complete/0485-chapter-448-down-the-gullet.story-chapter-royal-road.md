@@ -1,0 +1,165 @@
+---
+id: b36b399b-a6c7-51d4-a89c-9902b6cb2ad7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 448: Down The Gullet"
+slug: 0485-chapter-448-down-the-gullet
+partOf: dungeon-of-knowledge-complete
+position: 485
+ownLength: 2972
+unit: words
+ownProgress: 2972
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2777588/chapter-448-down-the-gullet"
+royalRoadId: "2777588"
+markedReadAt: "2026-06-29T20:28:39.438Z"
+---
+
+If void magic doesn’t solve your problem immediately, you’re not using enough.- Azryet, Dragon God, Harbinger of Chaos, Herald of Havoc, The Calamity.
+
+“This is a disaster,” Vivian said. “We should leave.”
+
+“It is a world boss,” Lyeneru said. “I, at least, have an obligation to kill it so it doesn’t wipe out another town.”
+
+“What exactly is a world boss?” Ali asked.
+
+“A monster strong enough to match the most powerful dungeon bosses. They usually come from other planes, so I have no idea why this is even here.”
+
+“Aah,” Ali said, finally understanding the situation. “Blooming Rot was originally deployed in front of a rift deep underground. Somewhere down in that hole.” She pointed at the cavernous sinkhole that seemed to still be erupting strange plants. The remains of Naia’s old cavern. “I guess it came through.”
+
+“I still have no idea how to fight it,” Vivian said, frowning.
+
+“I have an idea,” Ali said. It was more accurate to say she had an inkling of an idea, a kernel of something that might work, although her rational mind shied away from the implications. “I need a little time, so when it comes back, perhaps just… delay it a little?”
+
+“I’ll just dangle a piece of string in front of its nose and hope it wants to play, shall I?” Vivian said, her tone part-sarcastic and part-serious.
+
+“Sure, if it works,” Ali said, too busy thinking to take the bait. Ignoring their confusion, she got to work, opening her Grimoire and dropping down to the site of the now-half-buried Gate. She would need an extensive domain for this idea, and the fresh domain mana billowing out from the Gate – while enough for her teleportation trick – wasn’t nearly enough for what she had in mind.
+
+She summoned trees. Big ones. Hopefully, they will be strong enough to resist the gravity spell. As she worked, the monster breached again, launching its entire limbless body clear of the ground, hanging suspended in the air by the sheer power of its magic. Even as terrifying as it was, she had to admit it was majestic. Almost three hundred meters long, it would likely have wiped out the city of Volle in minutes. The only thing she had ever seen that beat this monster for sheer weight and size had to be the Leviathans Azryet had made.
+
+Well, and Azryet himself. He was literally a Calamity. Need some of that damage, she thought, grinning to herself. Time to warm Havok up on the prayer front. Azryet would love this!
+
+She worked faster, trusting her friends to handle the beast as the sandstorm rose and rocks began thumping into the ground with painful screams whenever they struck. It took several minutes, but she eventually stopped herself. That will have to be enough. She had planted three enormous Ciradyl trees, spread out wide, and interspersed among them, she made several Lirasian Oaks. As her domain began to spread throughout the area, she gained a third method for seeing: Arcane Insight, as propagated by her own domain mana.
+
+I just hope this works, she thought. Her plan was simple, hinging on two observations: void was effective against this monster, and its armor resembled her own Subterranean Brood Queen’s. If the rock beetle’s attitude as a fanatic collector was also common, and she hoped it was, then she was sure she could bait the monster.
+
+Ali switched to her stone imprint and began summoning. She poured her mana continuously into forming a boulder, causing it to swell to gigantic proportions. Even when the Sandwyrm’s minions began detonating all around her, she just barricaded herself and pressed on. She continued even after it dove into the ground yet again, and the sand fell.
+
+“Ali? What are you doing?” Calen asked in a lull as the sandstorm quietened while the wyrm swam underground. “Will this take long?”
+
+“I’m making bait,” Ali muttered, pouring more mana into the several tons of mithril ore she had crafted so far. Larger and larger she grew the boulder, until her Subterranean Brood Queen was literally quivering with barely suppressed desire.
+
+Below the ground, she felt the monster circling, drawing closer and closer as it homed in on her offering. “Back off!” she shouted, waving the others away. “It’s coming!”
+
+The Obsidian Sandwyrm had taken the bait too early – Ali wasn’t quite done yet. I guess I’ll have to do it the hard way. She halted her summoning magic, stowed her Grimoire, and encased herself in the densest barrier bubble she could make while hunkering down beside her pure mithril boulder. How to spend a kingdom’s treasury in one breath… The ground all around her burst upward. Geysers of sand rocketed into the air from the impact as giant rock walls rose around her. Walls with fangs. It felt strangely like being inside a large dome that was rapidly being constructed around her. Then it snapped shut with a heavy boom.
+
+“Ali?” Mato sent, worry filling his mental voice.
+
+“I’m ok,” she said, speaking through the voice of one of her troll mages. “Try to keep it up on the surface.” She would need access to her domain for the next part.
+
+Gravity mana swelled around her, crushing her against the walls of her barrier as the Sandwyrm swallowed her, the mithril boulder, and several thousand tons of sand simultaneously. This must be what Mato felt, she thought, struggling against the terrible weight, but her vastly increased strength still allowed her to move.
+
+Down she went, falling further and further, until she slammed to a stop at the bottom of what had to be its gullet or stomach, somewhere very dark and deep. But Ali didn’t need to see much to execute the next part of her plan; she just cast Arcane Recall, and the darkness faded to gray, leaving her suddenly unburdened by the Sandwyrm’s magic in the Spirit Realm. Then she got to work, rapidly inscribing runes upon her boulder of mithril ore.
+
+It took about fifteen minutes to get it right. Fifteen minutes of subjective time, but it was a well-understood pattern, and she created it without too much fuss. Mana Siphon. She had modified it, of course, adding the power conduit couplings she had made ages ago to attach the Grand Library rune circle to her domain instead of the power converters, but this time, she wanted to attach the mana channel from her domain to the rock.
+
+The gray of the spirit realm faded as her rune circle snapped into existence, and she linked it properly to her domain. Mana rushed through the channels, drawn in by the siphon, and poured into the several-ton boulder of mithril ore, but of course, mithril ore couldn’t hold nearly that much mana, so it spilled out, returning to the ambient mana within the monster’s belly.
+
+Void works, she thought, reiterating the final part of her crazy idea. Wielding Domain Mastery with the ease of long practice, she touched the mithril ore that had so enamored the Sandwyrm, and then she transmuted it directly into Voidstone, snatching her fingers away at the last moment. Yowch! That was close.
+
+Several tons of void-attuned magicite hummed loudly as her domain mana gushed into it, drawn in by the rune array she had crafted. Hungrily, it guzzled more and more mana, filling rapidly as the massive wyrm circled, and then it began to glow and spark as the mana continued cramming its way in.
+
+It filled far faster than she had expected. Is my domain that dense now?
+
+With a sudden urgency, she reached out with her mind, connecting with her chosen minion, and swapped places, dumping a Scion of Azryet in the Sandwyrm’s cavernous belly beside her void-affinity bomb that was rapidly approaching critical mana overload.
+
+“Get clear!” Ali yelled as she appeared overhead where the Scion of Azryet had been flying.
+
+“What did you do?” Calen asked, flying up to join her.
+
+“Turned that mithril into voidstone and slapped a mana siphon on it.”
+
+“You… what?” Calen exclaimed, his face twisting comically through multiple conflicting expressions as he processed her words. Then he yelled, “Everyone, move!”
+
+People started scrambling out of the way, dodging sand vortex elementals, flying rock, and abrasive sand. Ali shifted her awareness into the Sandwyrm’s stomach, guiding her Scion of Azryet to the precise position she wanted, and then coaching it carefully on how exactly to construct the placement of its void barriers.
+
+A loud crack ripped through the Voidstone, drowning out the humming and sizzling of overloaded void mana, and then the entire several-ton magicite boulder shattered in a deafening blast of pure blackness. Voidstone shrapnel ripped through the center of the monster, tearing it to shreds from the inside out and raining down pieces over a wide area. The shockwave of detonation slammed into the Scion of Azryet’s forcefield barriers, turning it into a draconic void cannonball that blasted through the full length of the Sandwyrm’s body, shredding everything in its path as its infinitely sharp void magic barriers ripped through stone, flesh, and scales. It blasted off hundreds of meters into the air from the giant maw, trailing thick black ribbons of sizzling mana and a cloud of blood and partially-disintegrated stone.
+
+The huge monster screamed in pain and collapsed, hitting the ground hard enough to trigger an earthquake. But to her surprise, the monster refused to die immediately. It began summoning stone and sand, trying to bury itself.
+
+“Go!” Calen yelled, triggering his Righteous Fury as the entire raid responded with magic and offensive skills.
+
+It took another fifteen minutes of frantic blasting, quarrying and battling to finally overwhelm the monster’s regeneration that seemed to be tied to the sand it kept summoning, but finally, Ali’s chime sounded, and the monster expired with a last cataclysmic spasm.
+
+Your group has defeated Obsidian Sandwyrm – Elemental Dragon – level 204 (Earth / Gravity)Your group has defeated Sand Vortex – Elemental – level 83-91 (Earth / Gravity) Swarm x143
+
+Ali sighed with relief at the sound of the notification chimes. “Oh, thank goodness. That really was a beast.”
+
+Calen grinned wryly at her. “Dare you to say that to Mato.”
+
+“He’d just blush,” she snorted, merely for the pleasure of seeing Calen crack up in relieved laughter. Quickly, she checked her notifications.
+
+Dungeon of Knowledge has reached level 160 (+3).+30 attribute points.Arcane Insight has reached level 91 (+2).Arcane Recall has reached level 48 (+2).Barrier has reached level 86.Grimoire of Summoning has reached level 60 (+3).Runic Script has reached level 71 (+4).Sage of Learning has reached level 70.Martial Insight has reached level 95 (+2).Empowered Summoner has reached level 75.Domain Mastery has reached level 51 (+2).Minion Teleport has reached level 46.
+
+Ali quickly spent ten points each on wisdom, intelligence, and perception, and then read on.
+
+Requirements met for skill advancement.Mentor: ClarenceSage of Learning has reached at least level 70.Intelligence has surpassed 1700.Ten or more languages known.You have successfully taught languages to more than 30 people.You have successfully taught languages to your minions.Sage of Learning gains Universal Translator.(You can understand all languages spoken or written by sentient beings.)Accept this advancement?
+
+Not even a question. Ali quickly accepted her advancement offer for Sage of Learning and then flew down to deconstruct everything, but she started with the elementals, letting the guild gatherers salvage what dragon scales, teeth, and bones they wanted before taking out the giant Sandwyrm itself.
+
+As she touched them, each Sand Vortex dissolved into mana, leaving a strange floating knot of energy that shimmered and twisted the region around it out to almost a meter from where it hovered.
+
+Variant: Sand Vortex added to Imprint: Elemental.
+
+Gravity Core? Identify didn’t tell her much more, other than the remnants seemed to be similar to the typical essence drop that was common from monsters with extremely concentrated mana affinities, like elementals. Whatever it was, it would require Malika’s skills to understand what it might be useful for. She reached for the twisting anomaly, finding its pull on her arm growing stronger and stronger the closer she got, but she was still easily able to store it. She flew around collecting the strange essences from each Sand Vortex.
+
+“I want one,” Seth said, standing there staring up at the great wall of obsidian scales as Ali approached the corpse of the Obsidian Sandwyrm. “I will call him ‘Cuddles’.” He turned, and Ali caught sight of an uncharacteristically avaricious gleam in the otherwise unassuming boy’s eyes.
+
+“You can… raise that?” Ali asked, shocked at the implications.
+
+“No,” he said, turning back to stare wistfully at the gargantuan corpse. “I tried. I don’t have nearly enough mana yet…”
+
+As his words trailed off, the final ‘yet’ stuck in Ali’s mind as having far more than just aspirational significance, as if Seth were making some kind of ritual vow that he would one day achieve this monumental goal. No wonder people fear dungeons and necromancers… “Do you mind if I deconstruct it?”
+
+Seth sighed, “Go ahead, I need to get stronger.”
+
+With a slow, almost reluctant sigh, the giant corpse exploded into a beautiful cascade of mana motes that filled the air with an audible rushing sound, as if a sudden breeze of magical wind had picked up a cloud of sparkling dust, and in its wake, a wealth of larger and more powerful essences was suddenly revealed.
+
+Greater Earth Essence x12.Greater Gravity Core x9.Lesser Earth Essence x21Lesser Gravity Core x43.
+
+She quickly stored them all in her ring and walked over to where the other adventurers were gathering.
+
+“How are we handling loot?” Calen asked, dumping his collection of enormous obsidian scales on the already huge pile collected by the other skinners. “It’s going to be hard to just share items out like normal.” How a skill like Skinning worked on enormous mineral-based scales, Ali had no idea, but at least one person with a mining skill had added to the loot pile.
+
+“The guild will buy it all for the store, and we can share the gold among everyone who participated,” Vivian said, causing a cascade of excited murmurs to ripple through the adventurers.
+
+“Well, I hope the guild has a lot of money, then,” Ali said, and dumped all the essences and gravity cores out.
+
+“Aah, did you have to, Aliandra?” Vivian said, eloquently, amid louder exclamations of surprise from those watching. “We might need to take a loan until Weldin can move all this.”
+
+Ali chuckled. She wasn’t particularly worried – she knew just how eager her favorite crafters would be to get their hands on these high-quality, novel reagents. As the group broke into smaller cliques discussing loot and strategy, she brought up the details of the Sand Vortex she had just inscribed – knowledge, after all, was how she grew fastest.
+
+Name: Sand VortexRace: ElementalClass: Sand Vortex – level 90Abrasive Vortex – level 63Requires: Sandy or similar environment.You project a gravity well that continuously draws sand into your vortex. Larger rock fragments may be drawn in and pulverized to create your vortex.Mana: Create a continuous whirling vortex of sand. Your gravity magic adds weight and speed to the sand particles drawn into your vortex. The vortex does continuous Earth and Physical damage to everything caught within it. Range: 14.45 meters. Reserve: 100%Earth, Gravity, Area, WisdomGravity Implosion – level 47Mana, Stamina: Create a dense gravity well that violently draws in all your matter and anything around you. All your remaining mana and stamina are consumed in a big explosion, dealing Gravity and Earth magic damage to everything around you. Range: 19.28 meters. Trigger: Death.Earth, Gravity, Area, Trigger, WisdomGravity's Pull – level 59You are attuned to the gravity field; you can feel the slight fluctuations in gravity caused by nearby mass.Gravity, PerceptionAptitudes- Mana (Affinity): Earth, Gravity. - Incorporeal (Racial): Immune to physical damage, attacks ignore armor. - Amorphous (Racial): Immune to attacks that change your shape. - Unstable: Dies after 1 minute. - Flying (Racial): You can fly. - Swarm Spawn (Racial): Spawns in groups of 3.Attributes- Vitality: 152- Strength: 97- Endurance: 36- Dexterity: 155- Perception: 161- Intelligence: 40- Wisdom: 259Health: 1520/1520Stamina: 360/360Mana: 0/0 (+2590 Reserved)
+
+Hmm, an unstable elemental that explodes after one minute, she thought, examining the runic inscriptions on the pages of her Grimoire.
+
+“Is it any good?” Calen asked, intuiting what she was looking at.
+
+“Not too bad,” Ali said, sharing it with him and the others.
+
+“So, a self-guided, delayed fireball, but with gravity and earth?” Calen said.
+
+“Also does damage just flying around,” Ali said. It had definitely behaved like a swarm monster, and it reminded her of Seth’s Volatile Wraith – but while his summon was instant, hers would take time, and require a domain biome with gravity and earth-affinity mana, neither of which she could make yet.
+
+“That perception skill looks amazing,” Calen said.
+
+“Yes, I just have to figure out how to summon them,” Ali nodded. Maybe I can figure something out with a couple of those gravity cores? Sensing mass directly via the effect it had on the gravitational field; how hard would that be to avoid? Solving the limitations of this strange summon would most certainly gain her a powerful tool for detecting stealth intruders.
+
+Out in the freshly conjured sandy desert, treants and other plants continued to spill forth from the hole, and the adventurers began readying their weapons and spells now that the massive Sandwyrm was no longer gobbling them up by the forestful. A broad patch of otherwise white sand began to smoke and blacken, and the tentacles of the raid lava ooze hauled itself out from where it had been buried.
+
+There was just one thing missing.
+
+“Naia?” Ali called. “Has anyone seen Naia? She’s a little blue ooze, about this high.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

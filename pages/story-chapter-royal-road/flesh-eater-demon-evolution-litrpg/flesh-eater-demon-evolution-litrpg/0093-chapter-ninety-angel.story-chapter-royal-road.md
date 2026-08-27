@@ -1,0 +1,147 @@
+---
+id: 292724df-ad88-5174-9f03-00d570dc40da
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety: Angel"
+slug: 0093-chapter-ninety-angel
+partOf: flesh-eater-demon-evolution-litrpg
+position: 93
+ownLength: 2193
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3499773/chapter-ninety-angel"
+royalRoadId: "3499773"
+---
+
+After they climbed back into the wagon and the wheels began spinning again, it was quiet. The driver opted to leave the canvas cover off this time, giving all the passengers an open view of the sky and passing trees as they flitted by. Seated at the front of the box, Pyre eyed the surroundings with casual interest.
+
+Daphne and Callan sat just beside her while the family had returned to their original spots in the wagon. Pyre caught them staring at her more than once, whispering in hushed tones in a way that reminded her of all the rumors that had followed her around the garrison. Nobody was subtle, it seemed. It was almost nostalgic.
+
+The merchant, on the other hand, seemed to be making an active effort to avoid looking at the demon at all costs. Pyre had found a puddle of vomit just outside the wagon when she’d hopped back on, and the merchant’s face still looked incredibly pale. He hadn’t said a single word since the wagon had started moving again, eyes staring listlessly at the road behind them.
+
+In front of Pyre, the driver glanced back at the merchant, snorted, then faced forward again. He was gripping the reins again, which the demon could now see glowed slightly with magic. This thing really did move fast, she thought. This world might not have cars and shit, but spells could get you pretty close.
+
+“Nothing to say now, eh?” the driver muttered, clearly still worked up about the argument with the merchant earlier. Pyre could see him grinning. “You shut him up real good.” That was directed at the demon.
+
+She shrugged, leaning casually back against the rim of the wagon box. “Figured it was the easiest way across,” she said breezily. She gave the wooden frame a pat. “This thing moves quick. Beats walking the rest of the way, that’s for sure.”
+
+“Damn right it does,” the driver said proudly. He glanced back. “Who are you folks, anyway? Don’t get many passengers at your level.”
+
+Pyre, Callan, and Daphne exchanged looks. They hadn’t actually decided on a cover story, but it wasn’t like they needed to be that detailed about it. Right now, it sounded like the driver assumed Pyre was just a “regular” high-level human.
+
+In the end, Daphne spoke up first. “Pyre is my guard,” she explained, smoothing out some of the creases in her clothes. “I do apologize for the, ah, surprise just now.”
+
+The driver hummed. “Nothing to worry ‘bout, you got us out of a pinch. I guess you’re a noble, then? Thought you might be. You don’t act like your everyday peasant.”
+
+Callan snorted, muttering something under his breath that was too quiet for Pyre to hear. Daphne shot him a scowl, but she quickly smoothed her expression back out when she turned to the driver again. Her smile was perfectly pleasant as she responded.
+
+“You’d be right about that, though it’s only a minor house. I’m quite far removed from the line of succession. I wanted to visit Serindell, and my guard and servant are accompanying me.”
+
+It was Callan’s turn to scowl now. Daphne kept going, the corners of her lips twitching slightly in amusement.
+
+“I do hope you’ll keep this under wraps,” she continued. “I don’t want to make a big fuss of it.”
+
+The driver waved casually, clearly not one to care much about titles or nobility. “No worries, I’ll keep my trap shut. You’re paying me good money, after all.” He adjusted his grip on the reins, tugging them to the side to avoid a boulder jutting out of the road up ahead. “You ever been to Serindell before?”
+
+The scare of the ichor quake followed by Pyre’s display seemed to have loosened the man’s tongue quite a bit. The merchant shutting up was also probably part of it. Ever since they’d gotten back into the wagon, the driver had been in downright high spirits.
+
+Daphne and Callan glanced at each other, an unspoken conversation passing between them as they probably debated how much to tell the man.
+
+“We haven’t,” Callan finally said “Do you know the city well?”
+
+Still facing the road, the driver made a so-so gesture with one hand. “Eh, a bit. Don’t live there or anything, but I’ve passed through enough times. Get lots of folks heading there. Great place for business.”
+
+Pyre could practically see Callan mentally debating if he should bring up the rumors about the healer or not. Before he could come to a decision, however, the driver continued, voice a little slower and more careful.
+
+“Since you’ve never been there before, I should warn you. There’s been some… odd happenings lately.”
+
+The trio exchanged looks. “What do you mean?” Daphne asked.
+
+“Well, I don’t mean to scare you, but there’s been some rumors going around lately. Disappearances, weird sightings in the Serin Sea, stuff like that.” He shrugged. “You’ve always got something happening in a city big as this one. Urban legends and the like. But there’s been enough buzz about the disappearances that I figured I should warn you folks. No need to panic about it or anything, but since you’re new to the city, you should be careful where you go. It can be dangerous.”
+
+Pyre’s eyes sharpened as she listened to the man speak. Based on the way Callan stiffened, the ghost probably hadn’t heard these rumors when he’d first learned about that healer. He would’ve mentioned them if he had.
+
+“Thank you for the warning,” Daphne said, meeting the two monsters’ eyes. It was clear that they were all thinking the same thing.
+
+Depending on how true those rumors were, this little detour might not be as simple as they’d thought.
+
+The rest of the trip passed uneventfully. The wagon continued forward with magic-powered speed, making excellent time across the long, wide road.
+
+Eventually, the trees surrounding them gave way to flat plains and tall fields of grasses after they finally exited the Aurelia Woods. The Gravestone Mountains disappeared from view behind them, but instead, another, taller mountain range became visible in the distance.
+
+“The Spine,” Callan whispered when he noticed the demon staring. Pyre hummed in acknowledgement.
+
+So that was the mountain range that had given the Empire so much trouble. Based on the map, it cut clean across the continent, and she could tell even from this distance that they were, indeed, massive.
+
+The X on Pax’s map was in those mountains. Eventually, they’d need to enter the Spine themselves after they reached Pereth, and she had a feeling that it would be its own ordeal. For now, the demon kept an eye on the shifting landscape around them.
+
+After they crossed into Galen proper, another massive forest soon appeared on their right. This road ran parallel to the Emerald Forest, though they wouldn’t actually be entering it on the way to Serindell. The city itself sat between the Seraphine Forest and the coast, nestled in a small bay. The closer they got to it, the more visibly excited the mood in the wagon became.
+
+“How much strength’ve you got?” the little boy from the traveling family was asking while his parents looked on. His eyes were wide as he stared up at Pyre, as if he couldn’t quite believe her height.
+
+His parents, meanwhile, were still watching the demon somewhat warily, but extended time spent traveling in the same wagon had severely reduced any misgivings they might’ve had. She couldn’t tell if the wagon-lifting stunt had helped or hurt their opinion of her.
+
+“A lot,” Pyre drawled.
+
+“Can I get that strong?”
+
+The demon raised an eyebrow at that. “Probably.” The boy looked starry-eyed.
+
+“What’s your class? How many levels’ve you got? Did you put all your points in strength, or did you—”
+
+“Kevin, I think that’s enough,” the boy’s mother interrupted. She gave Pyre a look that was simultaneously apologetic and wary. “Why don’t you tell this nice lady thank you for answering your questions, then come take a nap?”
+
+The boy—Kevin, apparently—nodded solemnly.
+
+“Thank you,” he said. “When I’m big, I’m gonna be strong enough to lift two wagons.”
+
+Pyre snorted in amusement. “You do that, kid.”
+
+“Heads up!” the driver suddenly called from the front. The demon turned to see the man pointing at a growing silhouette in the distance. “Serindell up ahead!”
+
+Beside Pyre, Daphne immediately shuffled forward to lean closer, not bothering to hide her enthusiasm. Callan was right behind her, though he was significantly quieter since he was in his incorporeal-but-looks-solid form.
+
+Despite their misgivings on the place after the driver had mentioned those rumors (and Callan’s general disapproval of the whole “kidnap the healer” plan), it was clear that they were both excited to see the city.
+
+Pyre could admit she was rather curious, too. It was supposed to be orders of magnitudes larger than even Magrath had been—there’d probably be a ton of interesting stuff in there. What would the sanctum for a place like this look like?
+
+Below them, the wagon wheels slowed slightly, the magic settling into more of a “standard” wagon speed. The road widened further, stray dirt and rocks kicked up with each movement of the wheels. They’d started passing by more and more other travelers the further south they’d gone, and now, Pyre could see multiple other wagons, horses, and people traveling by foot towards that looming city on the horizon.
+
+They’d be there soon.
+
+The salty smell of the ocean was the first thing Pyre noticed. She could see the coastline from here, the waters a vast, sparkling surface below the bright sunlight. Waves crashed into the rocky shore, spraying droplets and foam into the air. The wind was stronger here, but it was still noticeably warmer than Ravarn or Auren had been.
+
+Serindell was massive. Towering buildings rose like pillars into the clear blue sky, their white stone walls shining in the light. Compared to Magrath, the architecture here seemed to favor sweeping arches and rounded pillars. Ornate, curling details were carved directly into the buildings’ stone surfaces, and Pyre spotted several statues placed within the city confines.
+
+The streets twisted and curved, lined with blooming flowers and greenery breaking up the dense clusters of buildings. Even from the gates, Pyre could see the thick throngs of people walking along the bustling roads. The whole place was bright, vibrant, and alive with energy.
+
+That wasn’t what got the demon’s attention, though.
+
+No, that honor belonged to the massive figure looming over the city like a protective guardian.
+
+On the other side of Serindell, a titan stood facing the gate with its eyes closed, perfectly still, head angled slightly downwards. Pyre could see long, pale hair falling down from the creature’s head like a cascading waterfall, the strands swaying in the wind. Its hands were raised, stretched to the sides in a welcoming gesture. It didn’t move an inch.
+
+From its back, two massive wings fanned outwards, casting shadows over the city below. The feathers appeared pure white at a glance, but when Pyre looked again, she realized their colors shifted when she tilted her head. The mix of hues resembled swirling galaxies nestled within the feathers, as if the wings held a universe within them.
+
+The titan didn’t move. Those eyes remained shut, pale eyelashes brushing against smooth cheekbones. Only the being’s hair and clothes billowing in the wind provided any sense of movement.
+
+At first, Pyre thought it was a statue, but it seemed far too life-like for that. The wings, especially, were clearly not made of stone. She didn’t know what kind of material could create that effect—that delicate mixture of colors that shifted as easily as breathing.
+
+Then she saw the thin lines of silver light running all across the giant’s skin, barely visible below the surface, and she realized that this was the city’s sanctum.
+
+Serindell drew its ichor directly from a dead titan, and somehow, through magic or hidden construction supports or a mix of both, they’d maneuvered the corpse so that it stood upright over the city. A literal and figurative guardian.
+
+This was a dead titan, much like Fred had been.
+
+An angel.
+
+Daphne and Callan had gone quiet, mouths hanging open as they gaped at the display. Pyre heard the driver chuckle, but she didn’t move her eyes away from the titan.
+
+“Don’t see this in Auren, do ya? They do things different down here. This is how they show respect. I think it’s a little blasphemous, but different strokes for different folks, as they say.”
+
+Callan said something back, but the demon barely noticed it. She kept staring at those wings, the way the light caught the feathers and altered their surface into a bright array of hues. At the face, perfectly preserved, that looked so serene that the titan simply appeared to be sleeping.
+
+Something stirred in her chest at the sight, something old and buried, but she didn’t know what.
+
+“This is where I drop you off,” the driver was saying. He gestured to the city shining above them with a grandiose gesture.
+
+“Welcome to Serindell.”

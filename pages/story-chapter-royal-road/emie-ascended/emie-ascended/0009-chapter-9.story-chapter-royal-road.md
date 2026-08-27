@@ -1,0 +1,105 @@
+---
+id: 874eaad2-7e93-509c-9a5d-79d832f175bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9"
+slug: 0009-chapter-9
+partOf: emie-ascended
+position: 9
+ownLength: 1701
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3461702/chapter-9"
+royalRoadId: "3461702"
+---
+
+After thanking the clerk for his time, I made my way to the Association’s exchange counter near the dungeon exit and traded in the excess loot that I had no use for. The counter conveniently had two sides, allowing me to make the exchange without needing to enter the secured area just outside the dungeon portal.
+
+This realm used two sizes of regular metal coins as currency, with copper coins being the lowest, followed by iron, then bronze, steel, silver, gold, platinum, and finally mithril – just like delver and equipment ranks.
+
+The smaller version of each coin was called a ‘bit’, while the larger version was called a ‘dime’. Dimes were worth ten bits of the same metal, and each sequential metal was worth ten dimes of the previous denomination.
+
+So, one hundred copper bits were worth ten copper dimes or one iron bit.
+
+With that, my loot earned me forty iron bits and thirteen copper bits – or four iron dimes, one copper dimes, and three copper bits. That meant I’d earned the equivalent of 4,013 copper bits from my first delve, with most of that coming from the herbs I’d collected.
+
+It sounded like a lot, but I knew it wouldn’t last long. Thankfully, I didn’t have to pay any taxes this time.
+
+Once my transaction was complete, I made my way to the dining hall, where all the beginning delvers of the city could eat for free. The ‘adult’ delvers had their own separate dining facility.
+
+The large hall was busy, but not overly so, given the number of delvers I’d noticed crowded around the entrance to the dungeon. I figured most were still waiting to re-enter the dungeon after it closed for evolution.
+
+Having only been reopened for a day, it was no surprise that there were still a lot of groups waiting to enter. That left few to fill the dining hall.
+
+After filling my plate with a variety of mediocre food retrieved from the buffet provided, I placed the whole thing in storage and headed back to my room. Though I was eager to meet other Ascenders and potentially join a party, I felt grossly underprepared to make any long-term decisions.
+
+For now, I’d retreat to the apartment granted to me by the temple and research what I could through the local libraries. Considering virtual libraries had existed more than twelve thousand years earlier, I figured something similar would still be available now.
+
+If not, it probably wouldn’t be hard to find someone willing to take me to a physical library. I was sure the temple or the Association had one.
+
+The food was not much better than what I’d managed to cook in the dungeon. In fact, the skewers I’d made the first night were arguably better than what the dining hall provided.
+
+But it was food, and I was hungry.
+
+Happily, I found that the information tablet Priest Zeth had manifested provided access to this realm’s version of the internet.
+
+While it was extremely limited – more so than the version from before the incursions – it did include a virtual library and a local forum where community members could share information or discuss various topics. I was glad since it was more convenient than having to dig through a physical library to find information.
+
+I spent the rest of the night researching the realm and its history, but barely seemed to scratch the surface of what was available.
+
+I learned about the appearance of demons and how the first few waves had nearly decimated the residents of Dia. It was estimated that nearly half of the realm’s population was killed within the first year. By the time the natives managed to truly push back the invasion, only about twenty-five percent remained.
+
+It would have been even lower had the demons been capable of remaining within Dia long-term. Thankfully, their bodies were not compatible with this realm, and they were only able to remain for short periods without growing too weak to pose a threat.
+
+There were records of a few brave explorers who managed to cross through the incursion breaches and into the demons’ home realm shortly after the invasion began. They discovered that the energy present was largely incompatible with Dians, though it would not outright kill them.
+
+However, their bodies grew weaker the longer they stayed since there was no ambient essence to restore them. They also couldn’t use magical skills without drawing from their own bodies, weakening themselves with every casting.
+
+However, killing a demon restored them to some degree, providing more essence than killing a normal beast would, though not quite as much as absorbing a core might.
+
+And since they were not in a dungeon, demons did not manifest a core upon their deaths, making hunting them less productive than killing a similarly leveled creature in a dungeon.
+
+After sharing their discoveries, the scholars of this realm were able to surmise that the demons experienced something similar when they came to this realm. They gained strength through slaughter – something they seemed to relish above all else.
+
+I learned that dungeons naturally provided a buffer zone in which demon incursions could not appear. The distance was based on the strength or evolution of the dungeon, and it was as if the dungeons stabilized the realm itself, making it harder for the demons to gain entry.
+
+Unfortunately, once the demons entered the realm, the presence of dungeons didn’t really limit them in any meaningful way. That meant they were able to enter areas protected by dungeons, where they would try everything in their power to both slaughter the population and destroy any dungeons present.
+
+Since young dungeons could be moved with the right preparation, new dungeons became a hot commodity as soon as their reinforcing nature was discovered. States formed by allied territories began appearing, with young, beginner dungeons used to secure as much of the space as possible from demonic incursions.
+
+They couldn’t put them too close to each other since dungeons wouldn’t grow if their territory overlapped with another dungeon. And since they couldn’t be moved once they evolved the first time, placing beginner dungeons too close together would forever limit their growth.
+
+That inevitably left large gaps where demon incursions might appear, but those areas were monitored as closely as possible.
+
+Often, beginner dungeons would be used to fill in the space until the more mature dungeons were ready to evolve, but there was always a risk that one of the young dungeons might spontaneously evolve before it could be moved, effectively locking it in place unless the state was willing to destroy the dungeon to make way for another dungeon’s expansion.
+
+Obviously, that was a huge taboo, as destroying the very things that protect the realm from invasion was considered blasphemous, at best. But that didn’t mean it didn’t happen.
+
+After a few regimes became the target of divine elimination quests after engaging in such actions, few were inclined to engage in such acts.
+
+Aside from history, I learned that Ascender Dungeons were heavily influenced by the previous affinities and skills of the Originator, which was technically what I was, since my arrival had sparked the evolution of the newest Ascender Dungeon.
+
+The skills of the other Ascenders who arrived through a particular dungeon also influenced the skillbooks produced, but to a much lesser extent. That meant there would probably be quite a few space and time skillbooks being looted from the realm’s newest Ascender Dungeon.
+
+This wasn’t the only dungeon that provided either type of skillbook, though it was the only one that would be focused on both rare forms of magic.
+
+There was at least one other Ascender Dungeon known for producing Teleportation and Portal skillbooks – two skills that were highly sought after due to their usefulness for traveling between territories.
+
+Permanent portals were even rarer now than they had been in the time of the simulation, mostly because the material and essence requirements were so high, and the materials that could be used for such artifacts were better used for storage artifacts.
+
+A few permanent portals still existed, but they were rarely used. Most had been dismantled and their materials repurposed.
+
+That meant that those with space-based movement skills were in very high demand – far more than I had expected. However, with the added context of demonic incursions and the difficulty they caused to regular travel, the demand for such skills made sense.
+
+Since I’d admitted to having a Teleportation skill, I’d likely find myself being wooed by the rich and powerful. It would only get worse if anyone found out that I was the Originator for this dungeon. That was probably why Rho had recommended I keep the information to myself.
+
+While they couldn’t force me to do their bidding before I reached the first evolution without potentially drawing the ire of the goddess, any protection I might have as a ‘youth’ would be gone as soon as I evolved.
+
+Out of everything I’d learned, one thing was certain: I did not want to be known as a Space Magi. At least, not without finding my way to the other side of the world, where I could join the Porter Guild for protection.
+
+The guild hadn’t existed in the simulation, but information about it wasn’t hard to find. It was just too bad I had no real way of traveling across the world.
+
+Considering Vasillios had a surface area equivalent to about 150 Earths, it would take decades of dedicated travel to make it there. Even with Teleportation in the mix, the distance and dangers involved made getting there an arduous task.
+
+The size should have caused gravity to be significantly stronger than what it was on Earth. But whether a matter of altered physics or some other magical effect, I couldn’t really tell the difference.
+
+Thankfully, I shouldn’t have to worry about drawing too much attention since the Delver Association believed I only had healing and Lightning Bolt as core skills. Once it became clear that the dungeon was going to favor space and time skills, nobody should be looking my way as the potential Originator.

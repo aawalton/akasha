@@ -1,0 +1,197 @@
+---
+id: d2f17a18-d776-53ec-9665-f366d69e5764
+page-type-slug: story-chapter-royal-road
+title: "Chapter 360: A Jaunt Through the Shadows"
+slug: 0397-chapter-360-a-jaunt-through-the-shadows
+partOf: dungeon-of-knowledge-complete
+position: 397
+ownLength: 2990
+unit: words
+ownProgress: 2990
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2555019/chapter-360-a-jaunt-through-the-shadows"
+royalRoadId: "2555019"
+markedReadAt: "2026-06-29T20:25:26.289Z"
+---
+
+Calen stared out over the mind-bending expanse of the Infinite Maze. White islands of stone floated in the sky connected by all manner of stairways, walkways, floating stepping stones, and bridges of golden magic that twisted in every possible direction and a few more besides. Magic that was the spitting image of Ali’s golden barriers.
+
+“Well, there’s a sight,” Willow said, squinting as she tilted her head sideways.
+
+“Is that it?” Devan asked, pointing toward what might be the center.
+
+“Yes,” Calen said, allowing his gaze to bypass the incomprehensible architecture of the maze which he was almost certain bent space far enough to wrap around on itself, making it truly infinite for those stuck within. He ignored the portals and the crawling Dark Shades, homing in instead on the goal: the shadow rift itself. A giant black tear hung like a claw-slash ripped through the fabric of the spirit realm. Shadows billowed outward from the rift like questing fingers of smoke. Every so often, a wraith would fly out of the rift only to be slammed onto the golden walkway below as the suppression aura immediately stripped it of its ability to fly, but even with his realm sight, he could only sense twisting darkness from within.
+
+“Is everyone ready?” Calen asked. “Mental resilience elixirs? Escape potions? Defensive abilities active?” As a member of the only group to have stepped through a rift, they were all looking to him for guidance. He winced inwardly – if only their first experience hadn’t been such an embarrassing failure. We have better tools now. He reassured himself with a glance at Malika that he wouldn’t be caught singing and dancing this time.
+
+The small group of volunteers all nodded or acknowledged him verbally before he took the first step onto the golden path, immediately rotating as the sense of where down was twisted with the path itself. Ugh, that’s so weird.
+
+Mato followed right behind him, already shifted to his Bear Form, and then Malika stepped lightly across the path with her typical grace.
+
+It was weird to be exploring without Ali, but she still hadn’t fully recovered from her injuries, so she had elected to stay behind and run another group through the shrine today. She was present in a sense, though. Calen nodded to the pair of trolls she had sent, and the Hellfire Imp cackling away at his feet.
+
+Instead, they had several guild volunteers: Seth, with his small army of undead monsters, Coria, Willow and Cami, and Devan, all of whom had scouting or exploration skills.
+
+“Here you go,” Gage’s disembodied voice said, and a small arcane drone materialized in front of them crawling along the path. “Follow it, I’ll guide you through the maze.”
+
+“Thanks,” Calen said. The last time he had been here, Ali had damaged the suppression array, and he had simply flown across the maze. Navigating it without flight would have been an absolute nightmare, even with his skills. Especially considering Ali had learned that the portals were not even fixed, they shifted destinations with the flickering spirit realm echoes.
+
+On the other hand, it made shooting the shades a lot easier, especially with three archers and Ali’s minions. Without the flight suppression, he knew every single shade would take to the air and they would be forced to make a stand and fight them all at once. Not a great proposition.
+
+They pressed on, pausing only when Seth wanted to raise a specter. Calen followed the drone while he made note of their surroundings for future reference, but this was far more challenging than his usual cartography. The platform they were traversing right now was one they had traversed just a few minutes ago, but along the underside.
+
+“Wait,” Gage said.
+
+Calen froze, coming to a halt right before entering the glittering portal in front of him. A few seconds later, the entire world flickered, and the distant ground beyond the maze, visible somewhere above and to his left, switched to a completely different terrain. Rivers vanished, mountains shifted, and plains became forests.
+
+“Ok, the rift is through that portal,” Gage said.
+
+Calen stepped through, and suddenly he found himself staring up into a giant tear in the fabric of the realm. Up close, it was far larger than he had imagined. The edges sparkled along the infinitely sharp blade of the veil and substance poured out, shifting lazily, unpredictably, layers of darkness upon darkness swirling and ebbing, only to resurge once again. A dark sliver of shadow emerged from the middle of the rift, quickly materializing into a Shade before it fell at his feet with a heavy thud.
+
+It made no sound as his arrow pierced its indistinct form, but with a few punches from Malika and a dagger Ambush from Devan, it expired.
+
+“Ok, remember, be careful,” Calen said, and then felt foolish about stating the obvious. Instead, he flipped a coin into the air, making it vanish with his mana.
+
+You have gained the Blessing of the Wanderer.
+
+“Arise!” Seth intoned, claiming the Dark Shade’s corpse for his army.
+
+Calen reflexively reached for the shadows through Eclipse, intending to gather them to himself and hide, but instead of the familiar stealth, the light bent around him, warping his view of the world as if he had suddenly discovered he was looking into a mirror when someone bent it. Then, he vanished.
+
+Oh, wow, he thought, giving himself a once-over, and examining the effects of his latest advancement. He was entirely invisible to even his own eyes, only the mana circulating within his body revealing itself to his perceptions.
+
+Fully prepared, he stepped into the rift.
+
+[Explorer] You have discovered the Realm of Creeping Shadow.Explorer has reached level 55.Your actions have greatly increased the reputation of your patron.You have been afflicted with Creeping Shadows.Flickering shadows seem to dance along your skin.+1 Shadow damage per second.Creeping Shadows has a small chance to grow whenever you take Shadow damage.When Creeping Shadows reaches a count of 100 or more, your race gains the Shade trait permanently.Corruption – Realm Aura – Count: 1
+
+“Oh, nasty,” Coria whispered as she followed him through the rift.
+
+“Looks delightful,” Willow said as she scanned the new world beyond the rift.
+
+Calen found he was inclined to agree. He glanced over the unexpected Creeping Shadows corruption aura, but his eyes quickly returned to his surroundings, searching for danger. In all directions, a desolate cracked landscape lay shrouded under shifting shadows thick enough to seem almost tangible one moment, and then fading to wisps and smoke the next. Even his powerful perception-enhanced vision struggled to pierce the shadow magic veils that shifted furtively, concealing crevices, dark boulders, and more distant hills.
+
+Quickly, the others joined him, Devan, Coria, and Willow employing decent stealth skills, while Malika shone like a beacon with her brilliant mana in this dark world. Mato growled.
+
+“Oh, this corruption aura is going to be a problem,” Seth said.
+
+“Depends on the probability of it growing,” Calen said. “Give me a second. I need to check something.” He quickly hopped back out through the rift and made sure the corruption vanished. “The corruption is tied to the realm,” he said as he returned.
+
+“Yes, but it looks like it will accelerate – it can trigger itself to grow,” Seth observed.
+
+“Well, let’s see how much we can explore before it does,” Calen suggested, but what Seth had seen was definitely going to put a hard time limit on this operation.
+
+“Which way?” Malika asked.
+
+“This way,” Calen suggested, picking a likely direction leaning into the intuition that he had learned to trust, coming either from his blessing or his Explorer skill. However, he didn’t move without marking the location of the Rift carefully – fortunately, from this side, it appeared as a towering cloud of ominous roiling energy, likely visible for miles. “We’ll stay within view of the rift, just in case.”
+
+As he picked out a path across the blasted landscape, he summoned his Motes of Light, giving up on the benefits of easy stealth in favor of being able to see where they were going. It was not as huge a loss as he had imagined, especially with Mato’s massive bulk and the bright flashes of Malika pulsing her overheal bubble through all of them as periodic healing to offset the slow trickle of shadow damage.
+
+He led them cautiously upward through a narrow crack in the ground, shadowed cliffs rising up on either side, craggy and rough for a moment, and then shifting to shrouded and veiled as the shadows warped and bent around the edges. Nothing seemed as it was, everything shifted, and he was beginning to get a headache as his eyes worked hard to pierce the darkness. It was as if someone was lighting the way with a tremulous flickering candle, but a candle that shone with darkness instead of light.
+
+Your Creeping Shadows has reached 2.
+
+“Two,” Calen whispered. Seth glanced over at him, pressing his lips together grimly, but he said nothing further.
+
+The narrow ravine led upward over treacherously loose rubble that threatened to twist and slip underfoot until it spat them up out of a crevice and onto a strange, dark plateau. Tall, shadowed basalt spires thrust up into the bleak sky, like a silent branchless forest. Nestled among the pillars, the shadows curled thicker and darker, shifting eerily like a living miasma.
+
+With a thought, Calen shifted one of his motes of light, sending it out between the spires to banish the darkness. As he brought illumination to the darkness, the shadows began to crawl. A chorus of screeching and hissing rose to greet the invading mote as dozens of shadowy shapes scrambled and skittered as if in pain, desperate to avoid the light.
+
+Dark Shade – Shade – level 59-83 (Shadow) Swarm x72.
+
+“Shades!” he said, conjuring arrows, but Mato was already charging in.
+
+He launched his remaining motes of light at them, a flight of brilliance that brought light to the shadowed corners and the shades attempting to conceal their presence as they scaled the spires like a swarm of shifting, indistinct ants. With their stealth broken by his light, they leapt from their perches, flying down like a great cloud, shadows merging to make each individual that much more difficult to pick out.
+
+“Fliers from the left,” Coria announced, her voice calm and her bow steady.
+
+“Bring them down,” Calen said, releasing all his illusory decoys at once. He fired, unleashing a volley of brilliantly glowing arrows that ripped through the cloud of shades with devastating effect. The hungry red glow of Cinderstrike’s flame pierced through the swarming horde and left a rippling cascade of detonations and explosions in its wake. Dozens of glowing magical chains materialized, binding the shades to the ground and then drawing taut, bringing them crashing down to the waiting arms of Devan, Mato, and Seth’s zombies and skeletons.
+
+Coria and Willow joined in the assault, nature magic flickering in a soothing accompaniment to his fire as the Shades he had missed were efficiently picked off with multishot and Wing Clip, causing them to spiral down into the melee with audible thumps and crashes.
+
+Then the shades began to detonate; muffled explosions that blasted everyone with shadow.
+
+Your Creeping Shadows has reached 6 (+4).
+
+Ugh, that’s going to be a problem. Calen gritted his teeth. By itself, the Creeping Shadows didn’t do much damage, and the progression of the corruption seemed slow, but it appeared that combat with exploding shades accelerated it dramatically. If he had gained another four out here on the outskirts, Mato would certainly be much worse off down there in the thick of things.
+
+The fight against the weak shades subsided quickly, with Seth leaving his specters to mop up the stragglers.
+
+“Corruption check?” he asked. “I’m at six.”
+
+“Four.”
+
+“Three.”
+
+“Five.”
+
+“Six.”
+
+“One.”
+
+“Twelve.”
+
+“Shit, Mato. Twelve?”
+
+“Yup,” Mato said, retaining his Bear Form and using his Limited Telepathy as he glanced warily around for any missed monsters.
+
+It was as Calen had feared – Mato’s corruption naturally built the fastest. On the other hand, it seemed like Malika hadn’t even been hit yet, or at least hadn’t taken any damage. But there was one tool that should work, and he needed to test it before they ventured too far.
+
+“Mato, can we check if your Tree Form counters the corruption? Otherwise, I’m going to recommend we leave sooner rather than later.” Being turned into a shade was almost certainly an awful fate, and even without knowing the exact effects, Calen had no desire to risk it.
+
+Mato grunted, shifting directly from his bear into his tree, sprouting living branches and leaves in stark contrast to the lifeless spires of darkness. His roots dug into the craggy rock and crevices below, and moments later his aura pressed outward, infusing the plateau with his mana. Distant shrieks and hisses, and the flickering of shadows told him that they had missed some shades in the darker corners and holes.
+
+And now we wait. Calen fixed his eyes on his Creeping Shadows, watching intently. The prickling of the shadows dancing on his skin like black flames damaged him continuously, up to about six damage a second if he discounted his resistance, but the damage was immediately reversed by the potency of Mato’s shared regeneration aura.
+
+But the Creeping Shadows debuff stubbornly stuck at six.
+
+“It’s not curing,” Seth said.
+
+“Same,” Coria added.
+
+Calen frowned, but he waited, seconds lengthening to minutes until the count finally dropped to five after about that many minutes.
+
+“It’s very stubborn,” Mato sent to him. “I’m down to ten now.”
+
+“Ok, it’s subsiding. Let’s wait until everyone is back down to one before continuing,” he decided. It would take some time, but it was better to be safe. Mato wouldn’t be able to clear the corruption entirely until they left this place, after all, it was showing as a Realm Aura – somehow an intrinsic property of the realm itself.
+
+Mato finally shifted out of his tree form and appeared as Beastkin holding a small trowel in his hand.
+
+“Find something?” he asked.
+
+“Yes, they’re well hidden in the shadows, but they can’t hide from my Sanctuary aura,” he said, strolling casually over to the base of a spire and poking around for a bit. “Here, Ali, I’m sure you’ll love these.”
+
+“What is it?” Ali asked, using the voice of her Blood Shaman troll, and Mato offered a bouquet of dark flowers, sharing the details.
+
+Penumbra Poppy – Wildflower – level 107 (Shadow).Gloom Moss – Moss – level 63 (Shadow).
+
+“Ooh! Are there more?” the shaman squealed with Ali’s excitement, an odd sound coming from a Troll’s lips. Calen was almost certain Val’korr or Gara would have died from embarrassment.
+
+The poppies in Mato’s hands were pitch black with petals that seemed to be made from pure shadow. The light from his magic seemed to vanish, eaten up by the shadows. And there were many more, they sprouted from a corner covered in a dark mossy growth that resembled the fur of a shade beast more than a plant.
+
+“Calen, there’s something bigger up ahead,” Coria said, pointing to where a dense set of spires stood taller and darker than most. He squinted, but somehow her perception skill seemed to be better at handling the shadows than his. “Should we investigate?”
+
+“Of course,” Calen said, his Explorer senses prickling in the back of his head. “Obviously, be careful and stay alert.” There was no way he was leaving here without a thorough investigation – he needed to know as much about this strange, shadowed realm as he could learn. The more they learned, the better they would be prepared for further excursions or defending themselves, and so far, the danger seemed manageable. Besides, we can always run if we need to. He still had the location of the rift firmly held in his mind.
+
+Waiting only until everyone was ready, Calen pressed onward, eyes relentlessly scanning the shadows, leading them along a winding path among the spires and shattered stone. The shadows grew thicker, darker, and somehow more alive, twisting and shifting, darting and creeping, always just at the edge of his vision putting him more and more on edge.
+
+A furtive darting, something small diving for the shadows, snagged his attention and he snapped his head to the side, but whatever it was evaded his eyes. But, by their sudden looks and searching eyes, Coria and Willow had both seen it, too.
+
+There is definitely something lurking in the shadows.
+
+He led them on, moving more slowly now, keeping his motes of light ranging ahead, scouting out the dark corners and hollows. He flushed out several smaller groups of Shades before he finally saw it. As his mote of light passed over a large boulder, it illuminated an indistinct something of pure black – a shadow, taken form and manifested with shape.
+
+Shadow.
+
+“It’s pretty weak,” Malika said. “Looks like one of those wisps.”
+
+“A wisp?” Ali’s troll mage immediately perked up.
+
+A whole lot of things suddenly made sense to Calen. The strange environment, the almost alive shadows creeping everywhere – the shadow mana in this realm was so dense and potent that it was spontaneously spawning wisps of pure shadow, probably thriving in the energy of the realm aura.
+
+A rumbling vibration from up ahead snatched his eyes from the wisps, drawing his attention toward a large cluster of black spires. The shadows wreathing the craggy spikes of black stone twisted, stretching outward until a dense black form detached from it, spreading large wings that appeared to be at once insubstantial and trailing billowing clouds of black shadow – but the reptilian eyes gleaming crimson within the blurred face were instantly recognizable.
+
+“Dragon!” Coria gasped.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

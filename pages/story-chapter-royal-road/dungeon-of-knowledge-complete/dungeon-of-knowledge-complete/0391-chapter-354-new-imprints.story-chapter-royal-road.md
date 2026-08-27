@@ -1,0 +1,173 @@
+---
+id: ce5383ce-0c41-5899-80f1-813eb2bbebe4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 354: New Imprints"
+slug: 0391-chapter-354-new-imprints
+partOf: dungeon-of-knowledge-complete
+position: 391
+ownLength: 3300
+unit: words
+ownProgress: 3300
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2538643/chapter-354-new-imprints"
+royalRoadId: "2538643"
+markedReadAt: "2026-06-29T20:25:12.720Z"
+---
+
+Ali returned to her list and put a line through the top item. She didn’t have a full understanding of her awakened bloodline, but at least she had some solid clues. The next item on the list made her sigh, though. Having been disconnected from her magic for even just the few days she had been trapped in Cael and Gage’s Infinite Maze, it was surprising how many chores had piled up.
+
+Spreading her awareness throughout her domain, she deconstructed all the corpses and litter strewn everywhere. My dungeon kills a lot of intruders, she thought, evaporating the zombies and skeletons that had piled up at the forest and cavern entrances, clogging up her traps. Demon corpses piled several layers deep around the rift chamber dissipated into a rush of mana, and she made note of the fact that Mok’freja had also hit her evolution threshold. Even though she wasn’t gaining much from it anymore, her rogues still collected whatever they could lay their scaly talons on every night, and the piles had backed up enough to block several sewer entrances. But it wasn’t just that; word seemed to have gotten out in Myrin’s Keep, and people used the sewer entrances as garbage disposal now. It wasn’t a big chore, but it quickly got out of hand if she didn’t keep on top of it – and occasionally, she did pick up a gem here and there. Today, a new kind of pine for her wood imprint and a brass alloy from some discarded engineering trinket.
+
+Then there were the gifts. Basil was the most consistent, adding many mundane plants to the imprints he knew she had – new grasses, flowers, and occasionally a new tree or moss. Sometimes, even a new magical variant. He would always leave them stacked neatly beside the shrine unless he was able to sprout them somewhere and make them grow with his mana. But he was not the only one. A number of the guild adventurers had started collecting corpses for her, and some of the elves had taken to leaving offerings.
+
+She deconstructed it all, happy to discover a few different color varieties of flowers she already had, new grass and mushroom varieties, and several new fruit trees.
+
+But not all the chores were fun. The Heroes of the Crimson Blade had wreaked an unbelievable amount of damage on her dungeon, and there was a rather substantial amount of repair work to do. Fortunately, most of her domain mastery and deconstruction now worked anywhere in her domain, so she ranged out with her awareness through her mana and restored the temporary houses that had been flattened, reconstructed the destroyed arenas, and sent various minions out to repopulate the locations her domain didn’t automatically respawn.
+
+But something was missing as she traversed her dungeon – something she very much did not want to bring up, even though it was necessary.
+
+“Malika?”
+
+“Mm? What’s up, Ali?”
+
+“What happened to the bodies?”
+
+“Aah,” Malika said, grimacing. “I stored them so that nobody stumbled upon the corpses of platinum-ranked crown mercenaries by accident. I was hoping you’d deconstruct them for me.”
+
+“I can do that,” Ali answered. Carrying corpses around in her storage ring sounded disgusting; Malika was not a necromancer, and it probably wasn’t that smart to hand the crown’s top adventuring group to Seth to use as zombies. Someone would surely notice.
+
+Ali braced herself as Malika came over, vividly recalling just how mangled they were after their encounter with Tol’brekk. But her preparation wasn’t nearly sufficient, and as Malika produced the corpses, she felt her gorge rising.
+
+“You alright?” Malika asked.
+
+“I… uh, yes, that’s just gross,” she managed, staring at the pulp that had once been Beltz Fellworth and the pieces of priest that were all that remained of Vernon Bell. This time, she didn’t give in to her habit of touching her targets and took advantage of her domain to deconstruct all five of them at the same time.
+
+Imprint: Human completed.
+
+In spite of herself, she let out a strangled croak at the sight of the cursed imprint. This had happened once before, and it meant she had killed – or at least deconstructed – enough dead people that her Grimoire wanted to record it again.
+
+“What’s wrong?”
+
+“I got the human imprint again,” she said, sighing heavily before she moved to dismiss it.
+
+“I’d counsel you to keep that one,” Val’korr said, interrupting her. “If you have the space, that is.”
+
+“I don’t want to make humans,” Ali said. It had always filled her with revulsion, something about making summons of races that were her friends never settled well with her. But to her surprise, the feeling felt muted, and she stared at the imprint notification for some time.
+
+What if it looks like Malika?
+
+She shuddered then, but she knew she wasn’t being rational. Summoning an evolved priest like Vernon Bell would be an enormous upgrade over her acolytes, but she still didn’t like the idea. However, her time in Aman Rak and her reliance on Trolls must have altered her feelings on the subject more than she expected. Still, she had a priority list for her valuable chapters, and humans were not on it.
+
+“I understand your feelings,” Val’korr said. “I wouldn’t make them if I were you. You have trolls; they are superior in every way.”
+
+Somehow, Val’korr’s arrogant misunderstanding of her reluctance actually helped. He was so far off the mark that she found it incongruously comical.
+
+“No, you should record the human imprint because you are a dungeon, and you will get many human kills in the future. For all their puny weakness, humans have by far the largest variety and diversity of classes and skills. Now that you can transcribe them for your runic tattoos, the imprint will be a growing library of skills you can leverage.”
+
+“Oh, that’s a… great idea,” Ali said quietly. Even though his certain assessment of future human killings made her shudder when she considered it, she knew he had to be right. But she didn’t need to summon humans to use the imprint as a resource. Or if she did, it could be a decision held for later.
+
+It was with a rush of conflicting thoughts and emotions that she committed the imprint to her Grimoire. The Grimoire flared to life, channeling a huge storm of runes into the pages of the chapter, filling it as page after page appeared to take the runes. It paused only briefly to ask her for another chapter before continuing the torrent, and when it was finished, she studied it dubiously. She hadn’t wanted the imprint, and now it was taking two precious chapters. But even though she didn’t have a huge range of variants – yet – she could see much of the partially included information that had come from the platinum-ranked adventurers already recorded within its pages – a wealth of information that she could begin to build on to generate more powerful skills with her runic magic. She just hoped that spending two chapters on this would prove more valuable than the items and monsters she had been considering for those spots. She would know for sure once she exhausted the possibilities with her shrine.
+
+What’s next? She really wanted to distract herself with something not icky and nasty, so she glanced at the third item on her list, satisfied at least that her domain was back in tip-top shape, fully recovered in the aftermath of what had transpired.
+
+Oh, making some more space for the library.
+
+She had been putting off the library expansion for the longest time, and now that Ryn was aggressively acquiring an entire library from the echoes of the past, she would need to do something about the lack of prepared space. At least she didn’t have to move from the comfort of her couch and the delicious cup of tea and assortment of tiny sandwiches Lira had spontaneously provided. The ancient dryad wandered among the library patrons, offering her snacks to anyone who wanted with a serene smile and gentle words as glowing wisps circled her head like a spontaneous crown of nature.
+
+What should I do? Ali followed the weave of her domain, letting her awareness seep into the structured mana, sampling the library as a whole. To her surprise, her awareness seeped across into the spirit realm, borne by her newly realm-compatible mana ignoring the separation of the veil, and she saw the Kings and Emperors board overlaid across the atrium. Ryn was once again crushing Cael’s attack, although, by the number of cascading sub-boards and captured pieces, Cael seemed to be putting up a much better fight. In hindsight, it wasn’t that surprising she could see it, though – her elder tree was putting out an enormous gusher of domain mana – mana which now spilled across into the overlapping space of the spirit realm.
+
+Something about the image of the past snagged her attention – something that she had entirely forgotten. The library had once had wooden floors. She glanced down at the cold stone beneath her feet and realized that the wood must have rotted away over the ages or been ripped up by the skeletal wyvern’s minions or the dungeon itself when they moved in.
+
+A test for my new abilities, she decided, and reached for Domain Mastery. Summoning her will, she twisted her domain, and the floor beneath her feet effortlessly transmuted into a rich, dark walnut wood with a beautiful swirling grain that stood out under the polished surface she created. As her mana flowed, the wood spread beneath the tables and chairs and rapidly expanded across the entire top floor of the library, eliciting several exclamations of surprise from those studying or searching for books. Elves leapt to their feet in alarm, but then many of them bent down to touch the wood with murmurs and looks of approval as they saw what she had done.
+
+Ali smiled at them and flexed her skills again. Benches and tables sprouted from her mana, filling the empty areas with serviceable furniture for those sitting uncomfortably on the floor. Metal sprouted from the edge of the atrium, growing the guard rails into intricate silver sculptures of vines and trees. At a gesture of her fingers, a ring of marble planters surrounded the atrium and sprouted Arcanite Birch trees, shedding golden light all around and hooking into the fabric of her domain, providing a potent arcane counterpoint to the nature magic of the elder tree. Ali loved them for the look of their crystalline golden branches, but the exclamations of awe surprised her until she realized how much trees made of pure arcanite were probably worth.
+
+As the inhabitants of the library began to explore, and murmurs of conversation sprang up in the wake of her changes, Ali focused her attention downward. The second floor lay still ruined and unused, filled with debris and broken bone. After a few moments of consideration, Ali deconstructed everything that remained on that floor, replenishing her entire mana pool in the process. As usual, she dismissed the bone imprint as soon as it popped up.
+
+Cherry, she decided. At the thought, the whole second floor transmuted from cold gray stone into a beautifully polished cherry wood. She also refurbished all the bookshelves attached to the walls and transmuted the pillars and support structures into the beautiful white marble she had just learned from the Infinite Maze. With a thought, she added decorative capitals to the pillars and added a hand carved vines-and-leaves detail to the edges of the bookshelves, following the library’s original design. She finished up by sculpting benches and tables for the inevitable library guests that would fill the floor as soon as Ryn began filling the shelves with books.
+
+For the bottom floor, she did much the same, deconstructing all the debris and rubble, and reflooring the entire library section with her favorite wood, Lirasian Oak. She left the center circle of the atrium in stone, changing it to a broad expanse of polished white marble, a color that looked striking beside the wood, the elder tree, and inlaid with the electrum runes of her teleportation circles.
+
+There, I think Ryn will be happy with this. Ali crossed off the item on her list, making a note to mention it to Ryn as soon as she was done with her match.
+
+While it had turned out well in the end, Cael and Gage had exposed a substantial flaw in her defenses – a way for her to be attacked from the spirit realm directly. Now that her mana was able to cross the veil, there had to be a way to shore up that weakness, but nothing that immediately sprang to mind. Perhaps she could use witch doctors to patrol across the realm boundary? Or maybe she could anchor spirit beasts on the other side?
+
+“Ali, do you have a moment?”
+
+Ali turned to find Seth standing a polite distance from her chair, flanked by two skeletal mages wearing tattered robes. She nodded in approval. At least here in the dungeon, he didn’t feel like he had to hide who he was.
+
+“Sure, Seth. What do you need?” she asked. Her protégé seldom asked for anything, so it was either very important or would be interesting.
+
+“Can we go somewhere a little more… outside?” he asked.
+
+“Outside, outside? Or just not in the library?” she asked. She didn’t particularly want to leave the dungeon right now, but she would if it was for something important.
+
+“Perhaps the jungle? I just don’t want to ruin your new floor.”
+
+It was a matter of a few moments to fly him and his two skeletons down to the ground floor as she considered how limited not being able to fly must be. Should I counsel him to consider flying skills? Or perhaps I can make him a wand or something? Advice for the more personal choices of class development was rather tricky to give. Unfortunately, it was the kind of thing she felt a good mentor should know.
+
+“This is good,” Seth said when they were barely into the jungle itself, still in sight of the giant doorway leading into the library. The damp earth squished beneath the bony feet of his skeletons. A moment later, he proceeded to dump a small mountain of what looked like giant boulders onto the grass. It just so happened to be exactly the same spot where the huge piles of demons had landed up after the abyssal rift break, and these were almost as large.
+
+“This gift is as much for me as it is for you,” he said, having the decency to look a little sheepish.
+
+Ali eyed them again, and suddenly realized what he had retrieved from storage – a whole pile of giant Rock Beetles. Advanced varieties. “Seth, how the heck did you fit all this in your ring? That must weigh several tons!”
+
+“I spent a lot of money on a better storage item,” he said. “Giddy Clicksprocket made it for me with some help from the Novaspark Academy.”
+
+She arched an eyebrow at him.
+
+“A lot of money,” he said, shuffling awkwardly.
+
+“Aah. For carrying corpses you can raise?” she asked, realizing the reason he would need it. Certainly, since he had learned specters, the ability to carry some large monsters would unquestionably enhance his power. In fact, the more carrying capacity he had, the stronger he would be. His class would gain an enormous advantage if he could keep specific corpses available for all situations. And I just learned space-affinity magicite. I should have a chat with Giddy soon. Here was a real opportunity to help her protégé out while simultaneously providing a fresh project for the Jewelcrafter to stretch her skills.
+
+“Yup,” he answered, and then gestured at the rock beetles behind him. “You have no idea how hard I had to argue to get these. The queen in particular – there was only one raid boss, so we had to wait for it to respawn twice to get these three.” He gestured at the three largest boulders, all encrusted with jewels. “All the miners and earth mages wanted to fight me to the death for the corpses.”
+
+“Why is that?” Ali studied the corpses – little more than a huge pile of rock to her eyes.
+
+“The queens collect ore, minerals, and crystals and incorporate it into their armor. Each of those queens is probably worth several thousand gold just in raw materials,” Seth said, running his hand over the crystals protruding from the granite carapace nearest him. “They only let me take the corpses when I told them that you could make one in your dungeon and that it would respawn every few hours for them to farm.”
+
+“I see. I don’t mind doing that,” Ali said, seeing the rocks with fresh eyes. The Emberforge Mines, in particular, would be a fantastic spot for an earth-affinity Rock Beetle that liked ore and stone. “I assume you want a reliable source of specter corpses?”
+
+“Yup, exactly,” he said, flashing a conspiratorial grin. “It’s handy having you as a specter bank.”
+
+“A… specter bank? Is that all I am to you?”
+
+“Do you need more?” he asked, his eyes sparkling with mirth.
+
+He’s really getting comfortable with his class and his role here, she thought, realizing just what a transformation he had gone through. Hearing him teasing and joking made her inordinately happy.
+
+Ali reached out her hand, a gesture more of habit now than necessity, and deconstructed all the beetles, releasing a beautifully scintillant cloud of mana motes to rise high up above the jungle canopy and into the darkness above. Her domain and monsters would absorb it eventually.
+
+Her Grimoire appeared in a sparkle of light.
+
+Variant: Stone Juggernaut added to Imprint: Beetle.
+
+Variant: Subterranean Brood Queen added to Imprint: Beetle.
+
+“Um, can I watch you make them?” Seth asked.
+
+“Sure,” Ali answered. She hadn’t considered when she might use these, but now was as good a time as any. “At least Malika won’t yell at me for going somewhere without someone to protect me.”
+
+Seth chuckled.
+
+It took all of a few minutes for her to gather a small group of troll bodyguards to accompany them, and then she led him toward the Emberforge Mines.
+
+“Oh, before I forget,” Seth said. “Vivian said to tell you, Zor’kan put up a request for demonic or dragon hide. Nobody seems to be able to source high-quality leather, and he can’t do much for the guild without a steady supply. She was wondering if you could make something? Maybe a few of those wargs or whatever you call them?”
+
+“I think I can manage that,” Ali said. It was a perfect opportunity to implement one of the design ideas she and Calen had been discussing recently. She had learned one thing from the Heroes of the Crimson Blade: there was always someone stronger looking to take your stuff. Now that the word was out, she had work to do to make her dungeon stronger. Much stronger.
+
+The best time is probably now. It wasn’t like the next attacker would politely wait till she was prepared.
+
+“Here we are,” she said, setting them down on the cracked and scorched ground outside the tunnel bored through the fallen rock directly into the Emberforge Mines.
+
+She pulled out her Grimoire and began to summon her newest monster.
+
+Subterranean Brood Queen – Rock Beetle – level 81 (Earth)Your reserved mana has increased by +293.
+
+“Ready?” Ali asked.
+
+“Let’s do it!” Seth said. His eyes reflected the excitement in his voice.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,117 @@
+---
+id: 777f830e-22e9-5a6f-b3ff-c73d448152e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 286: Corrupted Fire Drake (Part 2)"
+slug: 0320-chapter-286-corrupted-fire-drake-part-2
+partOf: dungeon-of-knowledge-complete
+position: 320
+ownLength: 2378
+unit: words
+ownProgress: 2378
+publishedAt: 2025-06-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2371460/chapter-286-corrupted-fire-drake-part-2"
+royalRoadId: "2371460"
+markedReadAt: "2026-06-29T20:22:09.927Z"
+---
+
+Malika ignored the strangely energizing flames that enveloped everything, unleashing a flurry of rapid punches into the drake’s resilient scales. This was ironically a somewhat difficult fight for her. She had so many abilities focused on resource management and defensiveness that, in a fight where she wasn’t being hit and she literally couldn’t run out of mana or stamina if she tried, she found herself less effective than she hoped. Second Wind and Clarity were both worthless in this fight. Only the resistance and damage reduction portion of Soul Armor was helping her – although that meant she was taking next to no damage from the fire – and Enlightened Evasion actively hindered her. She had to focus on not accidentally dodging the flame pulses twice in a row otherwise, the entire fight would be wrecked as her curse would drop and heal the boss. It was something she had learned the hard way in their prior attempts.
+
+She unleashed the rapid staccato burst of the third form, going all out and pushing her speed to the maximum with Divine Step. Her stamina never budged from full. She didn’t bother with mana or stamina drain because the boss clearly gained the same resource replenishment bonuses from the Living Flame as they did. Instead, she burned stamina continually on healing herself, pushing her skill past her maximum to make the excess spill outward in continuous ripples, healing all the melee. With her overheal, the shaman totems, and the vampiric curse, nobody, save for Mato and the berserkers, needed any direct healing, both actively spending health to power their attacks.
+
+“One minute, fifteen seconds. Bloodlust now,” Calen announced, his calm voice filtering down from above and behind.
+
+He’s going early? They had discussed their options at length, and the use of Bloodlust was one of the trickier strategic elements. If they survived the full two minutes, using it for the last thirty seconds made the most sense – especially given Calen’s worries about a potential Enrage ability. But given their damage, that may mean they killed the boss before the full use of their bonus damage and haste, exposing them to unnecessary risk as their maximum health slowly dwindled. Calen had decided they would use it earlier if it looked like things were going well and hopefully end the fight just a bit sooner – however, they had no idea if this boss had any last-stretch damage enhancements. If it did, and they misjudged the timing, they could very well find themselves facing a powered-up boss for longer than planned right when they were at their most vulnerable.
+
+“Bloodlust!” Ali echoed immediately, provoking a crimson fountain from the shaman fighting alongside Malika.
+
+Malika grinned, slapping a quick heal on the shaman as she felt Calen’s Righteous Fury shine out in the chamber followed by the surge of Bloodlust coursing through her veins.
+
+Here we go!
+
+She downed a very expensive Claws of The Frost Drake potion that Calen had purchased from the Pathfinders Guild store and felt the chill of ice mana adding a small but fixed amount of damage to her fists and feet with every impact. With her speed, procs on hit or flat damage boosts like this potion and Calen’s Motes of Light circling the chamber were incredible enhancements.
+
+Malika reveled in the sudden boost of power and speed and lashed out with a potent kick combination. Each strike left a slowly thawing patch of frozen scales in addition to the flickers and flashes of Soul Strike and Calen’s light damage boost. Her feet flew. All around her, she sensed the surge of stamina from the most potent skills of the berserkers and warriors as they raised their voices in roars and shouts filled with fury and rage.
+
+“Fifty percent… I think,” Ali said. She couldn’t tell exactly how well they were doing, frustrated now by the little taste she had had of her acolyte’s Healer’s Sight, only to lose it again for the fight in which it mattered the most. But by the Scent of Blood, she could easily tell they were doing far better than any previous attempt.
+
+“One minute, fifteen seconds. Bloodlust now,” Calen called out.
+
+He’s early? But Ali knew him well enough to know this wasn’t a mistake – his sense of timing and strategy was superior to everyone she knew.
+
+“Bloodlust!” she commanded, and the female shaman reacted immediately, erupting with blood and dramatic health loss to power the potent spell. Blood flew, sizzling in the scorching air and flame, sustained by the blood magic and anointing the heads of every single melee attacker in their group with potent floating runes.
+
+“Ritual Infusion,” she said, speaking in Trollish to the witch doctor beside her. Bringing the witch doctor over another ice mage had been a tricky choice, but ultimately, she had decided it would be worth it – his Soul Drain wasn’t nearly as much damage as a mage or berserker, but he had spent a more than a minute draining health from the Corrupted Fire Drake, and now he fired out his Ritual Infusion, boosting the health of her two berserkers and Mato. He was her wildcard. Instantly, one of the berserkers turned bright green, and the other burped a cloud of harmless sparks, but that was the nature of the chaotic soul magic ritual.
+
+She had one more play to make. She turned to her three Ice Mages and zapped each of them with her Winter’s Desolate Celerity wand. Under the chilling influence of their ice shields, each of them gained an incredible one hundred and seventy percent additional spell haste. Ice bolts accelerated from them, flying nearly three times faster as they burned their infinite mana supply at the drake. She checked her storage, making sure she had the remaining charged wands lined up. She fully intended to spend a charge on each of them every ten seconds until the Corrupted Fire Drake died.
+
+They had only one shot at this.
+
+Mato floated in the calm, smooth alertness of his Battle Trance. His body, however, was not. He was on fire – not again – still. He had been on fire since the commencement of the fight due to the combination of the outward ripples of Living Flame pulsing through the domain, and the Corrupted Fire Drake’s hellfire breath. He was really beginning to hate fire. Especially hellfire.
+
+You have gained Clarity.
+
+Survival Instinct warned him, and he blocked the powerful cleaving talons, followed by rebuffing the snapping fangs on the heavy plate armor protecting his shoulder. The sharp dragon fangs screeched across the steel and bit into his flesh sending his blood spraying into the air, instantly sizzling as it caught alight in the dragon’s flame. Even while burning, it still spiraled out and into the brutal axes of the massive berserkers on either side.
+
+He didn’t hear Calen calling for Bloodlust over the roaring and clashing of steel, but he sensed the instant it was used. His heart accelerated and his instincts screamed for battle.
+
+Not that I need any help with that, he thought, wryly. Between his Battle Trance and Malika’s Clarity, he had full control of his mind. He summoned a fresh Greater Stonecap Armor Potion to his mouth and bit down on the custom container, filling his mouth with that gritty surge of earthy oil. Mhm… dirt flavor! Yum.
+
+You have gained Greater Stonecap Armor.
+
+He lashed crosswise with his Swipe, each strike powered with health and mana to boost his damage as much as possible – he had so much stamina and mana from the Living Flame that there was no possible way for him to use it all.
+
+He spent health again, enhancing his strikes with Bestial Combat, but he kept a careful eye on his health – the temporary reduction in his maximum health from the curse did nothing to reduce the health cost of his skill, but the armor reduction he applied to the tough dragon-scale hide was more than worth the risk – at least for now.
+
+You have gained Azryet’s Wrath.Azryet’s Blessing triggered again, wreathing his claws in the yellow-white glow of holy damage and his Swipe found a weakness, triggering critical damage. Brutal Restoration pulsed, healing even more as his damage spiked for a moment.
+
+Yo, Azryet! Thanks for the damage.
+
+He attacked faster and more furiously under the influence of Bloodlust, but he was also blocking quicker, and that made him even happier. He carefully watched his health, reserving his Critical Block for now, just in case of an emergency. The cleaving talons bit into his hide simultaneously with the wave of fresh dragon’s hellfire searing his face. It was getting more and more dangerous, but he still had a little room before he needed to act.
+
+“Twenty percent… ish,” Ali called out.
+
+Suddenly, the Corrupted Fire Drake roared, and its body swelled at an alarming rate, filling with potent mana. Dark black-and-red flames flickered across its scales as Survival Instinct screamed in panic. Mato didn’t hesitate for a single moment; he instantly triggered Last Stand as the enraged dragon’s devastating fire breath attack tore into his flesh.
+
+“Enrage!” Calen and Ali both yelled in chorus.
+
+Malika appeared beside him, moving so fast he hadn’t even seen her, pulsing a powerful heal through his body before vanishing in the instant before the drake’s talons cleaved through his chest from both the left and the right. His health dropped below twenty percent for the first time before his Brutal Restoration and the Blood Siphon ribbons from the two shamans restored him to safer territory.
+
+He retaliated with several hasted attacks before triggering his regular block to defend against another cleaving strike.
+
+Ten percent, he thought. It’s getting close. I can’t take another of those. The drake exhaled without pause for breath, filling the area around him with angry, roaring black flames. His restoration magic struggled to counter the precipitous drop in his health. Everything struck far harder from the brutally enraged monster, but Malika was there again in the nick of time, ignoring the searing flames while she dumped vast quantities of searing, healing magic into his body until even he began to emit her strange pulsing heal.
+
+Cleave! His Survival Instinct warned him that he was about to die at the same instant that Malika vanished. He used Critical Block in an instant, lowering his center of gravity to brace his body, and fueling his skill with a potent surge of stamina. The shockwave of the collision of his Critical Block and the Corrupted Fire Drake’s Cleave attack unleashed a shimmering spherical vacuum bubble, a momentary void without flame around him and the drake before all the fire rushed back in with a whoomph of implosion. But he had taken no damage – and he had empowered the block with all his abilities, even taking the risk of spending health on his Bestial Combat, earning an enormous retributive strike in addition to an empowered restoration boost.
+
+The flame breath washed over him once more, but his restoration kept up this time, ensuring he would remain healthy at least for now. Suddenly, his muscles slowed and his hunger for battle eased, leaving a lingering sense of withdrawal as Bloodlust expired and returned his body to normal.
+
+“Bloodlust is down,” Calen said.
+
+“We’re so close!” Ali shouted.
+
+Shit. We need to kill it now! Only a few seconds remained on his Last Stand when Survival Instinct warned him of the powerful Cleave. Desperately, he reached again for his Critical Block, but to his dismay he found himself denied by the recharge. Malika yelled dimly in the background, but Mato had eyes only for the vanishing blur of gleaming drake talons.
+
+A wall of golden magic materialized before him, rupturing in a sudden burst of golden shards and sparkles as the empowered talons tore a perfectly horizontal arc through Ali’s magic in an insane display of power. The wicked, glittering talons found his throat, slicing deep and drawing a fountain of crimson. Dimly, he saw the blood curling and rising as it flowed away on the magic of the blood shamans while his vision began to fade.
+
+You have gained Clarity.
+
+His mind snapped back to full alertness in the middle of a raging conflagration of hellfire with the surge of invigorating power and potent healing burning through his body. Malika stood beside him, her hand on his throat, pouring a torrent of magic into the remnants of his wound. Survival Instinct screamed again, and he shoved her out of the way, pushing forward at the last moment and taking the slashing fangs of the drake deep to his right shoulder. As he shielded Malika, she continued healing him against the onslaught of flame and fangs.
+
+A frenzied roar thundered through the chamber, and the Corrupted Fire drake reared high into the air. Mato felt the instant Battlemaster triggered, and he retaliated immediately, tearing great gashes through the belly scales of the monster as his claws left sizzling trails of black energy in their wake.
+
+You have gained Azryet’s Favor.The sound of the chime seemed to shimmer, hanging in the air while the huge drake slowly toppled to the side with an enormous crash. The flame pulse rippled out slower and smaller, like a fading heartbeat, and then ceased as the flame filling the entire chamber subsided.
+
+Notifications drifted before his gaze.
+
+Your group has defeated Corrupted Fire Drake – Demonic Dragon – level 99.Druidic Shapeshifter has reached level 100 (+2).+20 attribute points.Arboreal Sanctuary has reached level 46.Swipe has reached level 56 (+5).Brutal Restoration has reached level 56 (+4).Bear Form has reached level 52 (+4).Natural Prowess has reached level 41 (+2).Survival Instinct has reached level 50 (+4).Battle Trance has reached level 36 (+3).Last Stand has reached level 18 (+2).Requirements met for class evolution. Class evolution options will be automatically assigned in one week.Additional class options may be available at a shrine.Class experience is paused until your class evolution is complete.
+
+Mato sank to the ground, badly shaken from the close call.
+
+We… we did it! I did it, damn, there’s that 100… Tol’brekk had certainly been harder, but this fight… What a rush! Yes!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

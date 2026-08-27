@@ -1,0 +1,199 @@
+---
+id: 95c61543-4b79-5494-8d9f-6775580033b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter Fifty-One: Midnight Meetings"
+slug: 0052-chapter-fifty-one-midnight-meetings
+partOf: flesh-eater-demon-evolution-litrpg
+position: 52
+ownLength: 3112
+unit: words
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2896912/chapter-fifty-one-midnight-meetings"
+royalRoadId: "2896912"
+---
+
+Lord Bellhein’s office was located at the end of the hall, and it looked about how Pyre expected a noble’s office to look. Lots of tall mahogany bookshelves filled with fancy bound books surrounding a large desk placed directly in front of a window overlooking the manor grounds. The night sky was crystal clear through the glass, and silvery moonlight illuminated the room with a soft glow. A few candles and torches were the only other sources of light in the space.
+
+Seated behind the desk, Lord Bellhein remained silent as he observed the demon standing by the door. He hadn’t spoken a word since Pyre had entered the room. She was in no rush, though, so she remained quiet as well, simply meeting the man’s gaze unflinchingly. She had all the time in the world.
+
+Finally, after probably a full minute of silence, the noble cleared his throat.
+
+“Welcome to the Bellhein manor,” he began. The words sounded rehearsed, which they probably were. “I’d like to thank you again for taking this position.”
+
+Pyre kept the amusement from showing on her face. The sentiment rang a little hollow knowing that the cadets pulled away for guard duty weren’t actually given a choice in the matter. It had worked out in her case, but if someone like Declan had been selected for this position, he’d probably be feeling pretty depressed right now, patriotic as he was.
+
+“The honor is mine,” she said. She remembered to do a little bow, which Lord Bellhein nodded approvingly at. He shifted in his seat.
+
+“How are you enjoying the manor so far?”
+
+The demon did raise her eyebrow at that. “It’s been fine. You have a lovely home.” A very large home with a lot of antiques, specifically. The noble nodded somewhat distractedly.
+
+“And what about Daphne? You two spoke, correct? How do you feel about my niece?”
+
+“She seems nice.” Pyre didn’t bring up the fact that Daphne was convinced that her uncle was spying on her. Considering the amount of tension she’d seen between them in the dining hall, she figured the man probably already knew.
+
+“So you’ll be able to perform your role without issue?” Lord Bellhein stressed.
+
+The demon gave the man a long look. He still had that faint, anxious energy hanging around him, but it was hard to say if that was just his usual state or if he was actually more nervous right now.
+
+“I don’t see why not,” she finally said, deliberately drawing out the words in an unspoken question. She was here for the horn and didn’t really care about whatever shady business the Bellheins were up to, but she wouldn’t say no to more information if she could get it.
+
+Lord Bellhein sagged in his seat, a slight furrow appearing between his brows. Pyre could practically see his mind churning as he debated something with himself. She stayed quiet. She was quickly learning that the easiest way to get people to talk was to shut up and let them fill the silence themselves. It probably helped that she was apparently quite intimidating when she was just standing there.
+
+Her theory once again proved successful, because after another brief pause, Lord Bellhein opened his mouth again.
+
+“This is highly confidential information,” he began carefully, and he definitely had the demon’s attention now. She straightened and did her best to look serious and trustworthy. It must have worked, because the noble continued.
+
+“Auren has been able to fend off the Tavrell Empire thus far, but we have reason to believe that the current stalemate will not hold.” The corners of his mouth twisted down in a frown. “I suspect the empire will cross the Spine within the month.”
+
+Pyre carefully kept her face blank even as her eyebrows rose internally. That wasn’t at all what she’d been expecting to hear. Callan would probably lose his shit if he heard about this. The ghost had made it sound like the Spine was basically the great barrier protecting the eastern half of the continent from the empire, but clearly it wasn’t as impenetrable as first thought.
+
+The timing, though, did make her pause. She didn’t know much about this world’s politics beyond the stuff Callan had mentioned in his crash course and the bits and pieces she’d picked up on in the garrison, but a possible invasion in a month seemed like a wild thing to not warn your citizens about. Frankly she was surprised there weren’t already rumors everywhere, but it sounded like this was a pretty recent development.
+
+“It’s entirely possible that Magrath will be embroiled in the war soon,” Lord Bellhein said gravely. His fingers clenched. “When—if that comes to pass, I want you to vow that you will guard my niece and defend the Bellhein family at all costs. No matter what happens.”
+
+Maybe this was the reason for the rushed guard path. The noble seemed convinced that this war was happening, so he was beefing up the manor defences as much as possible beforehand. It did seem a little excessive, if you asked her, considering Magrath was as far from the empire as a city could get in Auren. Pyre’s eyes narrowed slightly. There was definitely more going on here—more that the man wasn’t saying.
+
+In the end, though, she had her own goal, and she would probably be long gone before any war made it here anyway.
+
+“I swear.”
+
+The demon’s voice echoed slightly in the enclosed room, a low, solemn rumble in the quiet night. It seemed to be enough for Lord Bellhein, because his shoulders relaxed. He cleared his throat, effectively ending the conversation.
+
+“Once again, I welcome you to the Bellhein manor. I expect excellent work from you.” He nodded at her. “Your duties will officially begin tomorrow morning. John will give you more details then. For now, you are dismissed.”
+
+Quick, curt, and straight to the point. Pyre took a step back and remembered to do another bow, then swung open the office door and exited the room. It closed with a quiet click behind her.
+
+Getting onto the manor grounds at night was a lot easier than Pyre had thought it would be. After her meeting with Lord Bellhein, she made her way over to the servant’s hall where Harris stood waiting for her. Her meal had been left on the table, which she pretended to eat with probably a bit more speed than ideal.
+
+Sue her, fake-eating was harder than it looked. A slightly-off bite rhythm would instantly drop her into the uncanny valley. Might as well be quick with it.
+
+After she was done, Harris handed her a sheet of paper with blocks of time and other notes written in the margins. This must be her weekly schedule. She could already see that pretty much all of her days were going to be dedicated to following Daphne around. There were a few blank spots in the mornings and evenings, though.
+
+“The guards rotate between night and morning watches,” Harris explained. “I’m making this week’s schedule right now. I wanted to ask if you had any shift preferences. I know you’ll be busy learning the ropes this first week, and I wouldn’t want to overwhelm you with work.”
+
+That was awfully nice of the guy. She wouldn’t have blamed him for hoisting all the worst shifts onto the newbie. This did present a good opportunity for her, though.
+
+“There an open slot tonight? I wouldn’t mind taking it.” She grinned. “Might as well get it out of the way.”
+
+Harris blinked in surprise. “Are you sure? You must be tired. You should rest early for tomorrow.”
+
+Pyre just shrugged. “I’m used to staying up late. Did it a lot when I was traveling.” That sounded like a decent enough excuse to her, and it seemed to work for Harris. The guard nodded slowly.
+
+“Alright,” he finally said, “but I’ll only schedule you for four hours tonight. You’ll be paired with one of the other guards until the end of your shift. After it’s done, you can return to the guard quarters to rest.”
+
+“Sounds good to me.”
+
+Guard duty, it turned out, was pretty boring. Pyre ended up getting paired with an older guard who spoke a total of three words throughout the entire shift. For the most part, he just ignored her, which suited her just fine. She spent the whole time walking in slow circles around the (very large) manor grounds while glancing around for anything suspicious or whatever. Pretty easy work—doubly so since she didn’t feel any of the pesky sleepiness that probably plagued the human guards at night.
+
+The end of the shift, though, was what she’d been waiting for. The servant’s wing was located at the back of the manor, so when she said goodbye to her silent guard buddy, she was able to walk in that direction without drawing attention to herself. Once she was out of sight, she simply stepped into the dense forest covering much of the grounds, then made her way towards the back wall. As long as she made sure to only meet Callan on nights she had guard duty, it was even easier to slip away than it had been at the garrison.
+
+The closer she got to her destination, the bigger the mountains grew. She also had a much clearer view of the white arches and other structures jutting out from the cliff face where the sanctum must be. She couldn’t see the actual entrance beyond the wall, though.
+
+As Pyre walked, she extended a bit of the excess flesh on her back up like some kind of squishy antenna. She grew a small eyeball at the end and swiveled the thing around to maintain a 360° view of her surroundings. She could do a full shift, but since she’d have to be back in humanoid form when she returned to the guard quarters, she figured this was easier. Plus, if someone did happen to spot her, looking human would make it infinitely easier to explain away than if she was a full demon flesh blob.
+
+Soon the demon approached the massive wall enclosing the Bellhein’s land. Even at her height, it still extended a good few feet above her, and she could see more of those runes and etchings on its surface. Pyre glanced around and swiveled the antenna-limb. No other guards were around right now that she could see.
+
+In general, it looked like most of the guards were concentrated near the main gate, which made sense if the magic wards were the main manor defence. As long as those spells were active, the gate was the only place someone could theoretically break in from.
+
+“Yo, Callan, you there?”
+
+Pyre kept her voice low, but still loud enough to hopefully pass through the thick wall.
+
+There was no response. The demon was about to keep walking to try another spot when a familiar voice suddenly sounded from the other side.
+
+“What took you so long? I thought something happened!” came a muffled hiss. Yep, that was Callan alright. Pyre snorted.
+
+“I had a whole guard shift to get through, you know. What, don’t tell me you’ve been waiting here the whole time?”
+
+The silence on the other end was answer enough. The demon raised an eyebrow.
+
+“Damn, kid. You could’ve come back later or something.”
+
+“I didn’t want to miss you,” the ghost said sullenly. He coughed. “Anyway, is everything okay? Has anyone suspected anything? Did you find the horn?”
+
+The questions came out rapid-fire, the anxiety practically dripping off the words. Clearly he’d been worried about this for a long time. Pyre’s own response was far more lax.
+
+“It’s been good. Not that I know of. And yeah, I think I might’ve.”
+
+“Really?” Callan’s eagerness was obvious even through the wall. The demon chuckled.
+
+“They’ve got a showroom in the manor for all their special antiques or whatever. I didn’t actually see inside, but I figure the horn’s probably in there.” She cocked her head, thinking back to the heavy doors and the patterns etched into them. “The doors were locked last I saw. There were some runes on them, too.”
+
+“Do you remember what they look like?”
+
+“Kind of.” Pyre swiveled her antenna-limb around again to make sure the coast was clear. She didn’t feel any vibration shifts either, so it was probably safe.
+
+The demon focused on that excess flesh again, only this time, she grew a series of long, thin bones from the mound. She concentrated, attempting to mimic the same curves and bends she’d seen in the runes on the door, recreating them in 3D with her bones. Once she was satisfied, she tilted the base bone the others were branching off of so that they could be seen at an angle.
+
+“Turn invisible and float up,” she said. She could practically hear Callan’s frown, but through her thermal vision eye, she saw a splotch of blue slowly drift upwards. Once the colder gradient was high enough to see over the wall, Callan’s voice rang out from that spot.
+
+“You could’ve just drawn them with a stick or something, you know.” Pyre grinned.
+
+“Can’t leave any evidence. ‘Sides, this is easier than sketching them out.”
+
+“Really.” Callan’s voice was flat and thoroughly unimpressed.
+
+The demon waved dismissively. “Don’t worry about it.” She twisted the bones again so that the ghost could get a good look at their shape. “Anyway, you recognize these?”
+
+The blue gradient representing Callan moved a little closer, but he was careful to stay behind the boundary created by the wall. It looked like the wards formed a giant sphere around the manor property.
+
+“They protect against forced entry and lockpicking,” Callan finally said. “If you have the key and open the lock normally, the spells shouldn’t activate. They’re a lot less complicated than the wall wards. I could probably float through the doors if I could get in.”
+
+That made sense to Pyre. There was less of a need to go ham with your manor wards when the entire premise was already cloaked in spells. The demon reabsorbed the bones, letting them melt back into her flesh without a trace. “Alright, so if I can find the key, I should be good.”
+
+“I think so? I wish I could help.” The ghost sounded frustrated.
+
+“Eh, don’t sweat it. I’ll look around for the key and keep you updated.”
+
+“Okay.” Callan didn’t sound totally happy with that, but there wasn’t much more he could do while those “intangible being” wards were still active around the manor. “Just be careful.”
+
+“Will do,” Pyre said, amused. She could practically hear the ghost roll his eyes on the other side of the wall.
+
+Around them, a cool breeze gusted past, rustling the trees and sending a few stray leaves scattering in the wind. The moonlight still shone brightly above, and Pyre figured it must be pretty late by now. Callan seemed to realize this too, because he asked, “Did you find anything else?”
+
+The demon’s mind wandered back to the meeting she’d just had with Lord Bellhein—if it could be called that. “Yeah, actually,” she said, then began to relay what she’d heard. Mostly the stuff about the war and the Tavrell Empire possibly crossing the Spine soon.
+
+By the time she was done, Callan hadn’t spoken a word. The other side of the wall was silent, and she might’ve thought the ghost had left if she couldn’t still see that blue splotch where he was.
+
+Finally, after nearly a full minute of silence, he spoke.
+
+“…What?” Callan’s voice was faint and even more muffled than before. “Are—Are you sure that’s what he said?”
+
+“Pretty sure, yeah.”
+
+Behind the wall, the blue gradient began hovering back and forth, pacing.
+
+“I can’t believe it,” Callan muttered. “They figured out how to cross the Spine? Now?”
+
+“I mean, there’s magic and shit. Wouldn’t surprise me if they found some spell to make it through.” Hell, they might even be able to fly over or something. That seemed like the least that magic could do in this world.
+
+“They’ve tried before,” Callan said. “The Empire’s managed to get a few smaller squads over, but they don’t have the power to transport an entire army across. Plus, Auren’s been focusing all their efforts on shooting down anyone trying to fly or teleport over.”
+
+“I don’t know what’s changed,” the ghost continued. “I haven’t heard anything about this at all.”
+
+“Lord Bellhein did make it sound like the nobles’re keeping it a secret,” the demon pointed out. Callan made a disgruntled noise.
+
+“I’ll bet. And—” He cut himself off as a new thought suddenly occurred to him. “Wait, you said he said they’d invade this month? Magrath specifically?” He sounded incredulous. “The border’s on the other side of the country!”
+
+“He said he suspected they would. To be fair, he does seem like a bit of a paranoid fucker, so it might not happen.”
+
+“That’s still really weird,” Callan muttered. Pyre couldn’t say she disagreed. The whole thing was pretty strange.
+
+“Well, at least we’ll be gone before any invasion happens,” she joked. The ghost just made a noncommittal sound, clearly still preoccupied thinking about the empire and the impending conflict. She couldn’t really blame him. For people who’d grown up with this war going on, this was probably pretty earth-shattering news. There wasn’t anything they could do about it, though.
+
+Pyre glanced at the sky, peering up at the silvery moon. It was still dark out, but she thought she could make out the faintest traces of light near the horizon. Her schedule started pretty early, if she remembered right. It was probably time to return to the manor.
+
+“I should head back soon,” she said. “I can meet you here again in two nights, same time. I’ll let you know if I find the key.”
+
+The blue gradient bobbed in a nod. “Okay,” Callan said. “Tomorrow’s your first official day, right?”
+
+“Yep.” She popped the ‘p’ for emphasis.
+
+Pyre thought back to that brief meeting she’d had with Daphne. Guarding the noble didn’t seem like it’d be too bad, but she’d have to wait and see how things turned out, she supposed. One conversation wasn’t enough to say for sure how well they’d actually be able to work together. Worst case scenario, she’d just stay silent and follow the noble around.
+
+“I’ll try not to burn the manor down,” the demon added jokingly.
+
+“Please don’t,” Callan said, but there was a hint of exasperated amusement in his voice. “Take care.”
+
+“You too.”

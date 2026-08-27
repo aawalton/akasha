@@ -1,0 +1,271 @@
+---
+id: a290ace0-1d61-56f4-b7ee-32fe18728bfc
+page-type-slug: story-chapter-royal-road
+title: "81 - A Taste Of Your Own Medicine"
+slug: 0082-81-a-taste-of-your-own-medicine
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 82
+ownLength: 2032
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3752940/81-a-taste-of-your-own-medicine"
+royalRoadId: "3752940"
+---
+
+After a rather eventful morning, we flew to the top of the island that Talon’s house was built under, where a ship had been waiting for us. Meriel had cast a spell on Reina and herself to grow wings and fly up there, while Kaelor did the usual and used the winds to carry himself.
+
+Aeris had asked me if she could pick me up in a princess carry, but I respectfully declined. There wasn’t really any need for that anyway. I’ve already gotten used to using the dungeon’s wings.
+
+Now that all of us were on top of the island—including Noodle, who seemed awfully fascinated with slithering around Aeris’s horns—a man popped his head from the ship, waving at us.
+
+“Oi! Come on aboard!” he yelled. “Do ya need any planks to get up ‘ere?”
+
+The ship was one of the largest I’d seen in Whale Isles, so the man had to talk extra loud for us to hear him all the way up there.
+
+“We’ll be fine! We’ll just fly to you,” Talon yelled back.
+
+The others began flying up and boarding the ship, leaving Talon and I behind on the grass.
+
+“What’s this for?” I asked him.
+
+“The ship we’ll be using for the entire day,” he said. “The Chief said we could use any of them for free, remember?”
+
+“Yeah, but what about Tuna?”
+
+“Oh, she’s just hanging out with her friends right now.”
+
+Hanging out with her friends, huh?
+
+No matter how I imagined it, I didn’t really know what the giant sky creatures did in their free time. From what I’ve seen during the Skycurrent Festival and post-war celebration, it seems like they liked to dance a lot, but I’m sure that wasn’t all. Maybe they played some kind of sport among themselves. Who knows.
+
+Talon and I flew to the top of the ship. Now that I got a closer look at the Captain, I have to say… he was much smaller than I expected. It was hilarious to see someone his size handling such a large ship.
+
+…
+
+What?
+
+You think I sound like a hypocrite poking someone about their size?
+
+[TROPE COMPLETED: THE CAPTAIN OF THIS MASSIVE SHIP IS… TINY?]
+
+[REWARD: None]
+
+Note: Hypocrites shouldn’t be rewarded.
+
+…Really?
+
+The man walked up to me and placed both hands on his hips. “Hah! It’s nice to have another dwarf on this ship. Our kind are limited here in Whale Isles, though I do tend to see more of us wherever there’s alcohol! I’m Captain Sparrow, nice to meet ya!”
+
+“Dwarf…?” I said. “I’m not a—”
+
+He walked away before I could say anything else.
+
+“He’s just messing with you,” Talon said, laughing.
+
+I glanced down at my body. “Do I really look like a dwarf…?”
+
+As Talon was comforting me, the Captain went around to introduce himself to the others. Once that was done, the Captain took the flight of stairs up to the quarterdeck, where the steering wheel and the other controls were. Unlike typical ships, all the sails could be controlled in one place, which made it possible to fly it with just one person.
+
+We took to the air, leaving Talon’s home behind. Once the ship was set on the right path, Sparrow walked back to me.
+
+“Is it safe to leave the wheel like that?” I asked.
+
+“Not really,” he said.
+
+“Huh?”
+
+He laughed. “We’ll be alright! We’re just flying in a straight line after all.”
+
+I turned to the side, expecting Talon to be there, but he wasn’t. He had already run off to the others, leaving me alone with the Captain at the corner of the deck.
+
+“For your information, I’m not a dwarf,” I said.
+
+His eyes widened. “Oi, you’re just messing with me, aren’t ya?”
+
+“So you were serious about it?!”
+
+He stood completely silent for a moment before bursting out into laughter. “I’m just messin’ with ya. Ya look nothing like a dwarf anyway. Well, aside from your stature, of course.”
+
+Was he trying to pick a fight with me or something?
+
+“What’s a dwarf like you flying an airship anyway? What if you fall off and die?” I asked.
+
+I peeked over the edge of the ship. After being up here in Whale Isles for so long, I’ve practically become acclimated to being so high up. Once in a while, I remember that these islands are actually above the clouds themselves, reminding me exactly of how high up we actually were. Thinking about that always makes my stomach feel uneasy.
+
+“What’s wrong with little ‘ol me? It’s not like a captain boards a ship thinking they’ll fall off,” he said.
+
+“That’s true, but isn’t it hard to live in Whale Isles as a dwarf? I feel like being able to fly is so important on the sky islands.”
+
+“Who says I can’t fly?”
+
+“Huh?”
+
+He leaned over the edge of the ship, one mistake away from falling off. “Are ya ready to see the impossible? I bet ya’ve never seen a dwarf fly before, ay?”
+
+I studied his body. There was literally nothing that could possibly make him fly. He had no wings, and the amount of mana I sensed from his body was too minimal for any flying spells.
+
+“Uh… are you sure about this?” I asked.
+
+I heard Reina and Aeris arguing behind me, but I was all too used to it. I didn’t think much of it at first. I was completely focused on Sparrow since he was either one misstep away from death or one moment away from blowing my mind by showing me the impossible.
+
+Sparrow leaned against the railing even further, and his arms began to quiver, struggling to hold his body.
+
+“Are ya ready?” he asked.
+
+I rolled my eyes. “Why are you trying to make this so dramatic? If you can fly, just show me already.”
+
+He stared at me for a moment. Then, he laughed, shaking his head. “Alright, I’ll admit—I was just messing with ya. I’ve never seen a dwarf fly before, and I sure as hell ain’t the exception!”
+
+He tried pushing himself back up with his hands, but he slipped, letting out a yelp. I caught him just before he could fall off the ship.
+
+“Careful!” I yelled.
+
+“Whew! That was cl—”
+
+“Allene!” Aeris cried.
+
+Before I could even look back, something slammed into my side.
+
+“Oof!”
+
+Reina stumbled straight into me, sending both the Captain and I lurching forward. My grip on the Captain slipped.
+
+“WAIT, WAIT, WAIT—!” he cried.
+
+The dwarf thrashed through the air, trying to cling to anything before falling over the edge and crashing through the sky.
+
+“Sparrow!” I shouted, rushing to the railing.
+
+We all leaned over just in time to see him plummeting through the sea of clouds below.
+
+“…”
+
+Reina slowly raised her hand. “I—In my defense,” she began, “Aeris started it…”
+
+I glared at them. “We’ll have a very long talk later. All three of us.”
+
+I jumped over the edge of the ship, diving toward the part of the cloud the dwarf had fallen through. The cloud pricked my skin as I dove through, but I kept my wings tucked tightly against my body, which should help me catch up to him.
+
+As I emerged through the clouds, I saw the ground far beneath me. When was the last time I saw the ground? The sight would’ve normally been beautiful enough to stop for, but unfortunately, there was also a dwarf falling to his death. Not to mention how loudly he was screaming, too.
+
+“HELP! HELP! SOMEONE, PLEASE HELP!”
+
+I swept by and picked him up by his hand. He gasped, realizing he was saved.
+
+“Now, what lesson did we learn here?” I asked. “I dunno… maybe don’t show off about things you can’t do?!”
+
+He nodded rapidly. “Yes! Yes, I agree, so please bring me back to the ship, quickly!”
+
+I sighed as I took him through the clouds. The ship moved fast, so I didn’t see it right away after bursting from the clouds, but it didn’t take too long to find it again. I flew to it and landed on the deck. The dwarf lay on the planks with his body spread out, gasping for air.
+
+“Ah… oh man! Ah… You’re bloody right,” he began, looking at me. “It’s a whole lot easier to live up here if you could fly!”
+
+Kaelor, Meriel, and Talon walked up to us.
+
+“I heard what happened from the two troublemakers,” Kaelor said, laughing. “How typical of them!”
+
+Meriel frowned. “They almost killed someone. That’s not a laughing matter.”
+
+Kaelor zipped his mouth shut.
+
+“Where are they?” I asked, my voice stern.
+
+“I saw them running inside the ship,” Talon said.
+
+Meriel waved a hand, forming a portal just beside us. “I’ll bring them out.”
+
+Reina and Aeris tumbled out of it, landing on top of each other. Ever since her awakening, her spells seemed much easier and quicker for her to cast. Not to mention that she didn’t need to use a staff or grimoire anymore, either.
+
+“Ow, get off of me!” Aeris cried.
+
+“Your horns!” Reina said. “They’re poking my… my…”
+
+“Shut up,” I said.
+
+They froze, slowly turning toward me.
+
+“D—Darling?” Aeris said. “What’s with that scary look on your face?”
+
+I took Reina’s hand, forcing her to stand.
+
+“Um…” she began.
+
+I walked her to the edge of the ship, pointing at the clouds below.
+
+“Jump,” I said.
+
+“What…?”
+
+“Jump.”
+
+She gulped, shaking her head. “I can’t—”
+
+I shoved her off. She let out a scream of terror as she plummeted through the air.
+
+I turned to Aeris. “Your turn. Go and catch her. That is, unless you want her to die. You two keep arguing every damn second and I’m getting sick of it. That is, unless you hate her enough that you’ll just let her fall to her death.”
+
+She shook her head. “No!”
+
+“Then go get her. Oh—and your dragon form isn’t allowed.”
+
+Before it was too late, Aeris jumped off the edge of the ship, diving after Reina. Noodle flew off her head and hovered around Meriel.
+
+For some reason, Kaelor and Talon both found the entire ordeal incredibly amusing and couldn’t stop laughing.
+
+“You know, you would be a pretty good mentor,” Meriel said. “I was planning on making them do the exact same thing.”
+
+The Captain peeked over the edge of the ship. “Are ya sure this is fine? What if ya accidentally kill ‘em?”
+
+I shook my head. “They’ll be fine. We’ve been through worse.”
+
+Soon after, Aeris and Reina returned to the ship, exhausted. Just before either of them could say a word, I pointed at the edge of the ship.
+
+“Again,” I said.
+
+“No!” Reina cried. “That’s too much!”
+
+Meriel put a hand on her shoulder. “Nearly killing an innocent man is too much. Would you rather voluntarily jump off the ship or have me blast you off with a gust of wind?”
+
+The answer was obvious.
+
+And so Reina jumped off the ship again.
+
+And Aeris dove after her again.
+
+The process repeated until I told them to stop. Reina had to deal with the fear of falling to her death, while Aeris struggled with the extreme exhaustion of having to save her each time.
+
+Surely they’ll learn their lesson after this. Surely.
+
+[NOTICE: CHAIN TROPES DETECTED]
+
+- ACCIDENTALLY PUSHING SOMEONE OFF TO THEIR DEATH (COMPLETED)
+
+- A TASTE OF YOUR OWN MEDICINE (COMPLETED)
+
+[CONSOLIDATING REWARDS...]
+
+[The reward has been kept hidden]
+
+Oh…? A hidden reward?
+
+The same thing happened when Meriel completed her own tropes, didn’t it?
+
+[...]
+
+[NOTICE: REQUIREMENT FULFILLED]
+
+Because an ally has already awakened, future rewards of this type will no longer be concealed.
+
+[HIDDEN REWARD: NARRATIVE RESONANCE]
+
+[TARGET: REINA]
+
+My eyes widened.
+
+Narrative Resonance...? So that was the reward Meriel had also received whenever she completed tropes assigned to her? That was the reward the System had kept hidden from me all this time?
+
+Then that meant…
+
+I waited until Aeris and Reina flew back onto the ship, both panting heavily from exhaustion. My eyes settled on Reina.
+
+Was this how an Awakening began?

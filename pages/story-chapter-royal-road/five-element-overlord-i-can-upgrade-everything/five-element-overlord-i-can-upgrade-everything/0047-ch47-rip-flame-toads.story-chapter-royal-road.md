@@ -1,0 +1,147 @@
+---
+id: 028b03ce-86e6-5755-9e53-05a3f8fe3bcb
+page-type-slug: story-chapter-royal-road
+title: "Ch47 RIP Flame Toads"
+slug: 0047-ch47-rip-flame-toads
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 47
+ownLength: 1851
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3359903/ch47-rip-flame-toads"
+royalRoadId: "3359903"
+---
+
+On my way to the market exit, I buy 5 bottles of plain inferior quality spiritual rice wine. At the same stall, I see a peach variety, and an apple wine as well. I buy 5 bottles of each of these too, and grab a few stacks of ember papers with it. The total only costs me 2 spirit stones.
+
+I decide against getting a smoke today. It doesn't feel like the right occasion.
+
+A familiar system reading, Chen Yilin, selling a big pile of burnt qi gathering pills comes into view.
+
+There are a few more with signs of white, and fewer bumps than last time. However, they're still all inferior grade, not worth even a spirit stone each.
+
+A stall right beside him catches my eye, selling inferior grade communication talismans. One stack of 10 for 2 spirit stones, with a guaranteed range of 100 kilometers, and 5 uses each. I buy them without haggling, and turn to Chen Yilin’s stall.
+
+While I don’t have much use for qi gathering pills right now, I do have a use for him.
+
+Last time I was here, I did not have the same spiritual sense that I do now to feel that he’s exuding the aura at the perfected stage of level 3.
+
+“How many Qi Nourishing pills would it take for you to break into the 4th level of qi refinement?” I ask bluntly.
+
+The already anxious man’s eyes dart back and forth faster, “Why…?”
+
+“If I buy all of your pills again for 40 stones, will you answer me without needing to know why?”
+
+He freezes and looks up at me. “It’s you again… Who are you?”
+
+I shrug, “Too many questions, I’ll find someone else.” and start to walk away.
+
+“Three pills. Three Qi Nourishing pills and I think I could break through. Now, will you buy my inferior qi gathering pills?”
+
+A grin surfaces on my face as I move items around inside my system storage.
+
+I throw a low quality ring into his hand containing a communication talisman, three low quality qi nourishing pills, a single white jiao fruit, and 40 spirit stones. Then scoop up the pile of burnt pills.
+
+“Break into the 4th level of qi refining, and join the alchemy peak. Send me a signal using that talisman once this task is complete, I’ll need someone to buy different kinds of cheap goods from in the future, not just these qi gathering pills.”
+
+I walk away, leaving him with no room to negotiate terms. However, I feel excitement and relief brimming from his usually anxious aura in my spiritual senses.
+
+–
+
+The sun rises eventually, and the ride back with Gu Shan as the vessel captain goes off without any delays.
+
+I do notice that he is far less talkative, and his facial expressions are far more serious and filled with a distinct resolve. As a steward it is not my place to ask why, yet a notification rings in my inner ear as I step off the vessel.
+
+[Ding!][A more valuable secret within the target has been located. Old data overwritten.]
+
+[His great grandfather Gu Lou, an Elder of the Outer Sect’s Recruitment Peak, has been sent out on a mission to the West, 2,000 kilometers away from the servant camps. Suspicious reports of the Blood Sword Sect’s forces have been coming back from this undeveloped region.]
+
+While the morning sun fully rises, and I receive three brand new upgrade cards in the dining hall, I think deeply about this message.
+
+No official notices have been given to the stewards at all about this. Either this is a normal occurrence that the sect deals with often, or the sect does not value the stewards and servants enough to bother telling us.
+
+Another question that has been floating in the back of my mind has now been answered.
+
+Most of the flying vessels at the Red Pine Market are flown by late stage qi refiners, and oftentimes more than one.
+
+Gu Shan, an ordinary 59 year old 7th grade spiritual root cultivator, at the mid stage of qi refining holding this much power in the sect did not add up. However, this explains everything. In my previous life, many unworthy sons of board members would gain positions on my team without working for it. Gu Shan seems as though he does not exploit his position too much, he has been nothing but kind to me.
+
+After a hot meal, I rest in my cave abode for the remainder of the day and afternoon before completing my wood collecting route.
+
+It isn't until late at night that I make my way into the Ravine to finally use what I bought in the market.
+
+In 4 small cave compartments, where Blood Sword Sect cultivators used to live, I pull out mid grade soothing flame talismans, and prop flame toad eggs above them. I place a small amount of spirit stones beneath each one for additional energy and stabilization, then light the talismans and watch the red flames slowly engulf each egg.
+
+I do not use the minor soul bonding talismans like recommended, as I do not plan to keep any of these as pets.
+
+The 5th egg however, I give special treatment.
+
+I find a cave hole closer to the main room, and empty out the array flags of almost a thousand freshly refined spirit stones to lay beneath the darker colored egg.
+
+I use an upgrade card on the soothing flame talisman to turn it into a bright orange piece of wood, and another card on the minor soul contract to turn it into a thumb sized piece of jade.
+
+A small wisp of qi is enough for me to start the imprint of the soul jade. It pulses back into my meridians, and I feel a light tickle against my soul, as though now I am in full control of whatever links to this contract.
+
+It is far different than a minor soul bond. It is also not the same as the permanent life and death soul bond that Wang Ming talked of with his beast. Instead, it is a unique mix of the two with a cloud of golden heavenly aura watching over it.
+
+I press the jade against the blackened egg, and within a few seconds, the white stone disappears. Golden patterns start to form all over the outside of this flame toad’s shell.
+
+I imprint the perfect grade soothing flame talisman next, step backward as it slowly ignites, and watch the entire room be engulfed in bright orange flames.
+
+Wang Ming said it would take a week or two for a normal flame toad to awaken, so I don’t expect anything to happen in an instant. I walk back to the main room of this stronghold, and sit down on the center of the vein.
+
+I pull out a pale green Qi Nourishing pill, and use my last upgrade card on it.
+
+The pill shifts to a deeper color of green, and three pristine golden vine patterns wrap around it. The entire room fills with a potent alluring scent, but I hold myself back from consuming it. I place the pill into my storage next to the 26 remaining low quality ones, and 9 white jiao fruits.
+
+–
+
+Two full weeks pass.
+
+Day by day, I upgrade every single one of my qi nourishing pills and jiao fruits.
+
+With the extra few cards, I upgrade more healing elixirs, my two marrow cleansing pills, defensive talismans, ember papers, and a stone bullet talisman as well.
+
+Life in the steward quarters has not changed at all.
+
+Despite the tension in the market, and the secret I learned from Gu Shan, none of it makes its way back into the servant camps. Another half a vial of low quality qi gathering pills are handed out to my best working servants.
+
+The four 9th grade roots that accept make very little progress even with the pill. Their meridians are so thin and filled with impurities, that the best among them has only saturated qi a quarter way to his spirit roots.
+
+My sole 8th grade root servant, Wei Ping on the other hand, breaks through his clogged meridians and channels qi through his four spirit roots using this 3rd pill, only 1 month into his servant life.
+
+For a few days following this breakthrough, I watch his dantian fill faster and faster with the ambient qi from the air, and the 5 to 6 spirit fragments he earns from chopping double the wood he could before. With sheer will power alone, and the leftover residual qi in his meridians from his last pill, he could break through to the first level of qi refining soon.
+
+In the meantime, I have not just been sitting around either.
+
+I’ve been diligently collecting the refined spirit stones from the array flags, bringing my wealth to over 14,000 spirit stones in my storage.
+
+Every day, I check on my Flame Toads.
+
+The first one hatched on the 7th day, and I promptly used a black iron arrow to shoot it through the forehead.
+
+[Kill 5 Spirit Beasts, (2/5 complete).] is what updates in the back of my mind.
+
+[Kill 5 Spirit Beasts, (3/5 complete).] shows on the 8th day. I use a mid grade stone bullet talisman to kill this one just to test it out. A powerful fist sized brown rock infused with 20 or so spirit stones’ worth of qi is hurled through the air almost as fast as I can shoot an arrow with my low grade bow. It is not sharp, but the sheer force alone sends chunks of flame toad all over the cave walls.
+
+Then, [Kill 5 Spirit Beasts, (4/5 complete).] shows on the 11th. I return to a simple arrow for less clean up.
+
+By the end of these two weeks, the soothing flame talismans start to sputter out.
+
+Even the perfect grade one I used to try and hatch the special egg has begun to dim and show signs of deactivating.
+
+The difference is, the ordinary egg over the mid grade talisman is covered in cracks, and there is constant movement inside.
+
+When both of the flame talismans finally flicker out into just smoke, one of the eggs cracks wide open and a generic level 1 flame toad hops out.
+
+The dark egg with golden patterns over its shell does not have a single crack. Even the spirit stones I placed around it have not been touched. It’s a very confusing problem.
+
+With a sigh, I pull out my bow again, and kill the weak hatched toad before it can even make its first croak.
+
+[Ding!][Congratulations! Side Quest Complete: Kill 5 Spirit Beasts, (5/5 complete).][Collect Your Rewards!][YES][NO]
+
+I choose yes, and a spark of intrigue starts to form.
+
+[Ding!][Rewards have been deposited into your storage!][x3 Perfect 1st Tier Upgrade Card][x1 Minor Lottery Draw]
+
+I pull out the red and black minor lottery die, and roll it onto the cave floor in front of the final egg that refuses to hatch.

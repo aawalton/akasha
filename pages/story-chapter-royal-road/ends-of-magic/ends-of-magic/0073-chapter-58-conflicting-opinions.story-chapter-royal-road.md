@@ -1,0 +1,241 @@
+---
+id: 15790706-70d8-5330-9841-5d02d45ff0d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: Conflicting Opinions "
+slug: 0073-chapter-58-conflicting-opinions
+partOf: ends-of-magic
+position: 73
+ownLength: 2924
+unit: words
+ownProgress: 2924
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3083720/chapter-58-conflicting-opinions"
+royalRoadId: "3083720"
+markedReadAt: "2026-06-29T20:09:36.356Z"
+---
+
+The Heirs flew over the wilds with Sarya and Colborn, contemplating what they’d just learned. They’d each need to fight against Questors, and it was entirely possible they’d die in the doing.
+
+“What is the format of these duels?” Khachi asked. “Is it possible to fight as a team, against another team?”
+
+Sarya was already shaking her head. “You can extend challenges for exhibition matches, but there is no pressure to accept those challenges. It may be wise to do so for the purpose of prestige, but after the war, your fame is already a rising light.”
+
+“Can we take out the people who would be bad matchups early?” Nathan asked, thinking hard about how to deal with this sudden issue. “Or set up some kind of negative incentive that makes people think twice about fighting the Heirs?” Then he gave it another thought. “No, they don’t fear losing, and if I threaten them, that will just make people want to call my bluff. There are probably thousands of Questors that could be bribed to fight us.”
+
+Colborn scoffed. “There are many fewer who could pose a challenge against you. Most of the Questors of Davrar are like those you saw fighting on the ground. There are only a few hundred at the tier of Vesh or Kamus. But if we are clever in our ordering, we can lure out the dangerous ones in favorable matchups.”
+
+Sarah blew out a long breath. “What of resurrection? If we lose our duels, can Khachi bring us back?”
+
+“Perhaps?” Sarya said, looking askance at Colborn. “Even when the gods granted that blessing it wasn’t common during the conclave for reasons I never understood..”
+
+“Is my path so unique?” Khachi asked in surprise.
+
+“Not entirely,” Sarya replied, though her voice was hesitant. “Divinity has become exceedingly rare since the Ending of Deicide, and not all who cling to that power are public with their methods. Phryne holds to the old gods, but accounts for the shallowness of power with a multitude of worship. Others may follow a similar path to yours, but only a few gods offered resurrection, and none of their powers have been unlocked deeply. Except for Deiman.” She gestured to Khachi.
+
+Colborn was thinking deeply. “Resurrection has been done during a Conclave. But rarely. It’s not a fitting theme?” He sounded like he was trying to remember an ancient conversation.
+
+Khachi hummed thoughtfully. “I believe I understand. To change the outcome of a match is a heavy weight, especially in a context divorced from the tides of meaning that grant purpose to the divine.”
+
+“Can you do it?” Aarl asked nervously.
+
+“Perhaps,” Khachi answered, looking genuinely unsure. “In such a prepared match, the outcomes are supposed to be final. To undo the outcome of a duel is not the same as undoing a tragic death. Making a battle already won more perfect is different than changing the outcome entirely.”
+
+Nathan had been distracted by his own thoughts for some time, and now he spoke up. “Ok, it sounds like there are a few things we need to figure out before we get to Dawn’s Concord. There’s our strategy for speaking and dueling. We’ll work on that later. But I want to get back to what our actual goal is for the Conclave. Before we can figure out our arguments, we need to know what we’re arguing for.” He shot a significant look towards the other Heirs, and they nodded back.
+
+Colborn caught the byplay, and his expression smoothed. “Agreed. You do not seem pleased with our suggestions of easier Endings, or variable ones. A few hundred years ago, we lost a greater demand and instead won the proposal for staggered Endings, whereby the Endings can be shifted in time to allow evacuation from one continent to another.”
+
+“Which is how Badud was able to move the Ending up for Gemore,” Sarah said acidly.
+
+“It was,” Sarya said apologetically. “In return for significant concessions. That bargain is part of why we’re able to call the conclave.”
+
+Nathan stroked his chin, trying to decide how to proceed. He didn’t want to be unnecessarily antagonistic towards these two, but he didn’t want to be railroaded. “What is your advice? Push for easier Endings now, then try again in a hundred years for something else?”
+
+“Indeed,” Sarya replied, her tone just barely loud enough to be heard over the wind. “It is not the grand victory I know you wish for, but if we stack enough victories up, we will make Davrar better.”
+
+“Hear me, right now you have an advantage beyond your past plans,” Sarah said, sounding frustrated. “We are mortals, and that carries weight beyond mere popularity! We can reflect the light of your terror back into your eyes. Make the Questors understand the implications of Davrar.”
+
+Nathan was nodding along with her. “Yeah. If we can make the other Questors respect us, see us mortals as real people, then we can make them feel the evil of Davrar on a level you can’t. We can say that the whole system needs to change, while the same argument would get you dismissed.”
+
+Sarya’s expression was tight. “If you accuse the Questors, they will ignore you. I’d put godly treasures on the balance.”
+
+“Or they’d try to crush you, to stop your accusations,” Colborn pointed out.
+
+“And when they can’t?” Nathan replied, voice low and dangerous. “By trying to kill us, they’ll be giving us a platform to talk to everybody. If we get enough people to listen, if we explain what Davrar is to mortals in a way that makes the Questors understand, then is there a chance that we can convince them to change everything?”
+
+Colborn and Sarya shared a long look. The older man was the first to speak, a hand coming up to caress his beard. “It’s an uncertain chime. You would need to appeal to their hearts, and after thousands of years, our hearts are not easily reached.”
+
+“This whole blasphemous conclave is only happening because of us,” Stella added in, keeping her tone light and thoughtful. “We’re happy to accept your advice, but this is our dungeon, and we think it’s worth being bold.”
+
+Colborn spread his hands wide and dipped his head towards them. “Then we will help you in your attempt to steal the fire of the gods. I fear for the calculated outcome, but I hope for the greatest of victories.” He looked up, and his mouth was pursed. “But this makes our time short. We had the proposal for easier endings, definitions, and arguments ready to present. We will need to have a solid plan.”
+
+“Can’t we just ask that the Endings stop?” Nathan asked.
+
+Sarya shook her head sharply. “The Endings clean the board to allow for new civilizations to rise, prevent overpopulation of Davrar, and enable new powers and species to be integrated. If you eliminate the Endings, these functions need to be replaced. How?”
+
+Nathan took a deep breath. The Questors had agreed to help him, but now it seemed like they were dumping the entire load into his lap. He thought for a second. “Well, why do each of those things need to happen? Why do civilizations need to be replaced on a regular cycle?”
+
+“Many reasons,” Sarya said with the air of somebody who was trying to explain a very complex topic quickly and in small words. “Because to leave them to grow is to create a conquering menace, poisoning all of the other cultures nearby. Some amount of trade is good, but full-fledged empires are not conducive to attempts to create new societies.”
+
+“Or they will ossify and collapse, leading to strife and carnage.” Colborn’s voice was dour. “The Endings prevent both outcomes, focusing the strong on their own survival instead of their neighbors and ensuring that they cannot grow stagnant and lazy.”
+
+“At the cost of all the cultures that die along the way,” Nathan replied. He was forcing himself to treat this like an academic exercise so he could think logically about it. But there was something that didn’t quite match up for Nathan. “Are you still trying to experiment with new societies? Even now?”
+
+“It is what Davrar was created for,” Colborn said, as if it were self-evident. “We hold to that vision. Even now, with so many Questors without the same motives. But every continent that holds onto its culture through an Ending is another crowning gem of our efforts.”
+
+Nathan pursed his lips, trying to organize his thoughts. The first people he needed to convince here were his allies, and he wouldn’t be able to do that if he didn’t understand their viewpoint. “You’re trying to come up with and build societies that can survive the Endings. Both because then you have another community that doesn’t die out, and because you’ve gathered useful data on how to do it. So for you, victory isn’t when the Endings are gone, because then the societies will grow out of control and come into conflict with one another. You want every continent to have a strong civilization that’s focused on protecting itself from the Endings, and too busy with that to wage war on each other.”
+
+Sarya nodded. “The Endings are too powerful as of this moment. Creating a culture that can survive is a caustic burn. Even my Keihonia isn’t guaranteed to survive the Ending of History.”
+
+“What if instead of trying to make societies that could survive the Endings, you tried to make societies that could play nicely with each other?” Nathan asked. “Angle for stable, satisfied cultures that don’t need to fight for their existence on a regular basis, and don’t try to conquer their neighbors."
+
+Colborn didn’t seem to disagree, but his response was summed up in a small shrug. “A worthy goal, but that is not the premise or environment of Davrar.”
+
+“But it could be,” Khachi said. “Nathan proposes to you a new challenge, a replacement for the Endings. Instead of fighting the summoned horrors of Davrar, you could guide your cultures toward prosperity and peace. Instead of your people being experimental subjects to extract knowledge from, they will be your flock, to nourish and protect.”
+
+Sarya raised an eyebrow and replied sarcastically. “Do you think the masses of Questors will appreciate such an outcome? They are not here to govern.”
+
+“But you are,” Nathan said. “I’m trying to convince you right now, not them. We can give them whatever. Wars will never completely end, and monsters and dungeons can still exist, as it’s necessary to placate them. Davrar is the size of a thousand planets, and how many Questors are there in total?”
+
+“Seven hundred thousand,” Colborn said in consideration, seeming to genuinely engage with Nathan’s argument. “Designing a culture that tends towards stability internally and externally is a novel challenge.” He chuckled and shook his head. “It is also one of the things we were hoping to discover from Davrar, back when it was first proposed. But that isn’t the premise we started with, was it?”
+
+“What about introducing new magics and species?” Sarya asked. “Davrar must change, or else it will grow boring. The Questors are used to such change being dramatic and grand, so I am not sure how you could replace them.”
+
+Nathan almost snapped back, but instead, he took a moment to respond calmly, “I’m not too worried about that one. There are a lot of ways for it to work. Maybe we stage it as a special event, or tell everybody that there’s new magic available and let them compete to find it first.” He shrugged. “Kamus certainly seemed excited to discover the secrets of antimagic. If we change it up every time, then it'll be more interesting."
+
+“What about mind magic?” Stella asked, speaking for the first time in a while. “We were going to see if we could hit that target. It’s a blasphemous power.”
+
+“Having many levers over people is important to designing new societies,” Colborn said, but it was a halfhearted objection. “But the verified truth of it is that there are many who love mind magic. If you sought to ban it, you would be making enemies.”
+
+Aarl spoke dryly. “Seeing the light of Badud, we’ll have those enemies anyway. But I would settle for the Endings, and leave mind magic to another conclave.”
+
+Sarya had been deep in thought since Nathan had last spoken, and her tone was concerned. “We’ll need specific proposals to placate all parties. This is nearly a full rework of Davrar, which we haven’t seen since the dissolution of the council of eighty-nine when it became obvious that the veto system was broken.” She turned towards Colborn. “That took us two years to plot. Can we develop this in two days?”
+
+The short Questor’s expression matched Sarya’s. “We may have to delay the Conclave, or piece together a dozen different proposals from across the years and submit them to Davrar for verification.”
+
+Nathan drilled down on that. “Davrar verifies the plans?”
+
+Sarya answered. “Of course. It implements the will of the conclave. If it did not confirm that a policy would work, it would be invalid and ineligible for the conclave to vote on. During the conclave, you can call out for any statement to be verified, though Davrar interprets statements literally and does not provide nuance."
+
+“Delaying the conclave would break our momentum,” Colborn said. “The Heirs have broken into the minds of the Questors with the recent war. They have the weight of prestige in a way they never will again.”
+
+Nathan was still stuck on Davrar needing to validate any instructions. “How detailed do the instructions need to be? Can we leave the instructions fairly vague and have Davrar fill in the blanks and make decisions on what actions to take?”
+
+“Davrar does not possess consciousness,” Colborn answered distractedly. “It can interpolate novel decisions based on instruction and past decisions, but smart systems are not allowed to guess for new conditions. We need to provide it with an extensive plan, and building that plan to pass validation in time is likely beyond us.”
+
+“What about drafting the plan at the conclave?” Nathan asked. “If you let more people have input, it would be a way to get them on board and make it more popular.”
+
+Colborn scrunched up his nose in disgust. “That politicking happens before the conclave, not during it. The speeches and duels aren’t conducive to building out a plan.”
+
+Nathan shook his head. “It wouldn’t be happening during the speeches. But don’t tell me there aren’t private meetings and dealings to swing the votes of Questors around. Draft the plan during those meetings. It'll be a good way to bring people on board.”
+
+“If we don’t have a plan, then what can we speak about in the conclave itself?” Sarya asked. “We won’t be able to provide the details and reasoning behind our proposal, because we won’t have one!”
+
+“We don’t need a plan. Not at the start,” Nathan replied. “We just need to convince them that Davrar needs to change. That it’s time for something new, and that they can help decide what that is.”
+
+Colborn stroked his beard, the wind flicking the hair through his fingers. “You will stoke their sentiments in the open while we deal with the details behind closed doors.”
+
+“Yes,” Nathan agreed, though not without some reservations. He hadn’t wanted to trust the Questors to manage the Conclave, and he’d been right to doubt them. They would have tried to use the Heirs to push a canned agenda that would make the Endings easier. At least they’d tried to persuade the Heirs that it was the right decision first, and been flexible when they pushed back. He'd been afraid that they wouldn't be able to budge from their plan, but was pleasantly surprised by the direction things had gone.
+
+But now they’d agreed to follow the Heirs’ proposal somewhat more easily than Nathan had expected, and he wasn’t sure if he trusted it. The current setup was tailor-made for the Heirs to be the figureheads while Sarya, Colborn, and their friends made the backroom deals that determined what actually happened. He wasn’t sure that he trusted them not to go through all of that and end up with what they’d originally intended. But he also didn’t know if the Heirs had a choice - they certainly didn’t have the knowledge or connections necessary to do the backroom dealings.
+
+“We just want the Endings to stop,” he said, turning to meet the Questor’s eyes and help them see how serious he was. “That’s all.”
+
+Permanent Talent 1: Magical Destruction 6
+
+Permanent Talent 2: Immortal Body 9
+
+Permanent Talent 3: Skystride 5
+
+Class: End of Magic level 1281
+
+Bottomless Stamina: 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 897
+
+Limitless Focus: 9070/9070
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Perfected Mind 2
+
+Inspiration 10
+
+Impulse 8
+
+The Sense of Magic 5
+
+Forewarning 10
+
+The Truth of Magic 6
+
+Evasion 5
+
+Wizard’s Palace 5
+
+Veracity 4
+
+Whiplash 5
+
+Visibility Control 8
+
+Blending 1
+
+High-tier Battle Cry 7
+
+Aura Mastery 6

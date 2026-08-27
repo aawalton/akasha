@@ -1,0 +1,171 @@
+---
+id: edc3ee92-f239-5d6d-b112-d22fa1afcecb
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Nine: The Library"
+slug: 0070-chapter-sixty-nine-the-library
+partOf: flesh-eater-demon-evolution-litrpg
+position: 70
+ownLength: 2775
+unit: words
+publishedAt: 2026-02-28
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3101031/chapter-sixty-nine-the-library"
+royalRoadId: "3101031"
+---
+
+When Pyre opened the door, she was greeted by the sight of Daphne on the other side. The noble stood with her usual poise, hair and clothing perfectly done, but the area below her eyes was noticeably darker than usual. She clearly hadn’t slept well, which wasn’t a surprise given the circumstances.
+
+Daphne gave Pyre a long, scrutinizing look, gaze lingering briefly on the fresh bandages the demon had wrapped around herself half an hour ago. Something flashed in her eyes, but the emotion was gone too quickly to decipher. She nodded. “Good morning,” Daphne said.
+
+Pyre just raised an eyebrow. “Morning.” She stepped to the side, opening the door all the way so Daphne could enter, then shutting and locking it behind them.
+
+Callan immediately spun around when Daphne stepped into the room, bobbing his head and muttering a “morning” himself. He looked nervous—not fearful or wary, but uncertain about how to proceed. Now that they’d all had time to process everything that had happened last night, there were still a lot of questions hanging in the air. Questions about the ritual, the sanctum, how to proceed, and even about how they were supposed to interact now. It felt like they’d just established a new status quo after the ghost reveal only for that to get thrown out the door in less than a week.
+
+On her part, Pyre kept an eye on Daphne, but was otherwise content to lean casually against the wall and observe for now. The two mages were the magic experts here anyway.
+
+In the end, Daphne was the one to start the conversation. Her eyes immediately landed on the paper lying on the desk.
+
+“Is that the ritual circle?”
+
+Straight to business, it looked like. No mention of the demon reveal. That was probably the easiest way to go about things, all things considered.
+
+Callan’s gaze shifted to the paper in question. “Uh, yeah. What we could remember, at least.” He floated closer, pointing to the two major glyph circles that they’d sketched out. “I think the main one should be right, but the one behind the waterfall’s still missing a lot of details. I wanted to see if I could figure out more about how the ritual works.”
+
+Daphne nodded, gaze tracing the lines. She reached over and grabbed the pen, adding a few new runes to the waterfall glyph circle. “I remember these,” she muttered, “but I didn’t see the ones in the middle either.” She frowned and took a step back. “Knowing how the spell works won’t matter if we can’t find the other circles, though.”
+
+“About that…” Callan turned to Pyre, who’d been silently watching the interaction while listening for sounds in the hallway. They hadn’t heard any major commotions throughout the rest of the night, so either Lord Bellhein hadn’t returned to the manor yet, or he had and just hadn’t made a big deal of it for the sake of keeping the ritual a secret. Either way, it didn’t hurt to keep an eye on anyone who approached the room.
+
+The demon nodded at Daphne. “I think your uncle’s got plans somewhere with all the circles and shit drawn out. I saw something like that in the necromancer’s memories.”
+
+Daphne frowned. “Memories?”
+
+Ah, right, she didn’t know. “I’ve got a subtrait that lets me see the memories of things I eat,” Pyre explained. “Just quick flashes, though. And I can’t pick what I see.”
+
+Daphne opened her mouth, then closed it again. Finally, she shook her head. “You know what? I can’t even be surprised anymore.” She turned back to the two. “So he probably has plans and maps for all the glyphs,” she said. She hummed. “That makes sense. The Empire would’ve sent instructions.”
+
+“Have you seen any construction plans or anything like that?” Callan asked, a bit of hope entering his voice.
+
+Daphne was quiet for a moment, thinking. Finally, she raised her head and nodded.
+
+“No, but I think I know where they are.”
+
+Pyre strode down the hallway, eyes casually scanning their surroundings. One pace ahead of her, Daphne walked with her head held high. They’d already passed by several servants and other guards, and the noble was always sure to greet them with a nod and a smile. No one had stopped them so far.
+
+“Just around the corner,” Daphne muttered through the corner of her mouth. Sure enough, the corridor split up ahead, four marble statues decorating each branch in the intersection.
+
+Daphne turned to the right, and Pyre followed behind. A new hallway continued onward, and at the end, the demon could see two large, mahogany doors. That was apparently the entrance to the manor library. According to Daphne, her uncle had a second, separate office in there, and she was almost positive that was where the glyph plans were. His “main office” was where he met people, but the one in the library was his private space. Pyre wouldn’t be surprised if those gallery keys she’d been trying to find were in there, too.
+
+After some discussion, the group had agreed that it would be easiest for Daphne and Pyre to search the place since Daphne was often in there anyway. Callan had looked more than a little disappointed that he wouldn’t get to look through the library himself, but he’d begrudgingly agreed to stay in the room until they got back. He still had the other magic books in there as consolation.
+
+Just as Daphne was beginning to step forward towards their destination, however, a familiar butler walked past.
+
+“Good morning, Lady Daphne,” John said. The butler looked the same as usual—back rigidly straight, white hair meticulously combed back. Pyre’s gaze sharpened when she noted one of his fingers tapping, seemingly absently, against his leg. It would be nothing more than a standard fidget on other people, but she’d never seen the head butler do that before. The way Daphne’s eyes quickly darted to the motion, then back, further proved her point.
+
+“Good morning, John,” Daphne said with a perfectly pleasant smile.
+
+“You’re up early,” the man observed. “I believe the kitchen is still cooking your breakfast.”
+
+Daphne laughed. “Yes, I was planning on doing some reading until they’re done. I don’t want to rush them,” she said smoothly. Before John could comment on that, she asked, “Would you happen to know where my uncle is? I haven’t seen him all morning.” Her tone was perfectly innocent and curious.
+
+The man froze very slightly before smoothing his expression back down. Pyre hummed internally. He was definitely one of the ones who knew about the ritual.
+
+“He left earlier this morning,” the butler said, face stern and unreadable as ever. “He had some business to attend to.”
+
+Daphne nodded, gaze sharp. “Hm, alright. If you see him, please tell him to take it easy. He’s been so busy lately.”
+
+John’s lips thinned. “I will do that, Lady Daphne. Have a pleasant read.” He bowed, form impeccable, and gave Pyre a brief nod before turning away and continuing down the hallway. It was only after he’d vanished from view that the smile dropped from Daphne’s face.
+
+“He definitely knows,” she muttered darkly. Pyre grunted in agreement.
+
+Shaking her head, the noble continued onward, and they soon reached the library entrance. Daphne didn’t hesitate to push the doors open, revealing a wide, expansive space that was many times larger than it appeared from the outside. Considering what the rest of the manor looked like, Pyre probably should’ve expected that they’d have a giant private library too, but she still raised an eyebrow at the scale. Poor Callan. He’d probably love this place.
+
+“It’s over here,” Daphne said, gesturing for the demon to follow. Between the tall bookshelves filled with leatherbound volumes, there were a few tables set out for reading. They wove around them, making their way towards the back of the library where Pyre could see a few different doors that probably led to other sections and private rooms. It was the one all the way to the right that Daphne stopped in front of.
+
+She grabbed the doorknob, but it didn’t budge. The mage clicked her tongue. “Locked,” she muttered. One hand moved up to her hair, but she didn’t have any pins in that day. She frowned and turned to Pyre.
+
+“Do you have anything we could use to open the lock?”
+
+The demon took a second to study the door. It looked pretty standard to her, but just in case, she asked, “This thing got any wards on it?”
+
+Daphne shook her head. “Just the lock,” she confirmed. “The main library doors have wards, but since I’m a Bellhein, they open when I touch them.”
+
+Alright, that wasn’t hard then. Pyre stepped forward, first scanning the area to confirm that they were the only ones in the library. When she was sure there were no hidden red splotches in her thermal vision, she turned to the doorknob, raised one finger, and tugged back the bandages around her hand.
+
+Before Daphne could ask what she was doing, she promptly released the warping around her index finger. The bones inside melded back into flesh, and she further adjusted the composition to be mostly fat. The result was a soft, quivering mass in place of where her finger usually was.
+
+Without pausing, the demon guided the flesh into the keyhole, fiddling around a little to get it thin enough to fit. She was pretty sure there were supposed to be slots or buttons or something in there that had to be triggered. She could feel grooves, so she activated [Ossification] and converted the molded flesh to solid bone after pressing firmly down on those sections. From there, she simply turned her finger, and the lock clicked.
+
+When Pyre yanked her hand back again, Daphne was staring at her. The wariness was still there, but she could also see an almost morbid fascination.
+
+“Can you just shapeshift into anything?” Daphne blurted out as Pyre warped the bone key back into a human finger.
+
+The demon raised an eyebrow. “Pretty much, yeah, if it’s got bones and flesh. I can’t turn into a plant or something.” Pyre slid the bandages back down and gave them an extra tug to make sure they were secure. She shrugged. “I need to actively shape stuff, though. I can’t just snap my finger and turn into something if I don’t know what the skeleton and stuff looks like.”
+
+Daphne nodded slowly. “So your current form… Was that what you looked like as a human?”
+
+“Wouldn’t know. Amnesia.”
+
+The noble frowned. “How’d you pick it, then? I mean, if you’re trying to blend in, you’re really… tall.”
+
+Pyre snorted at that. “Yeah, Callan said the same thing.” She pushed the door open after making sure no one was inside, revealing an office that, at a glance, didn’t look too different from the “main” one in the manor. There were no windows, though, the whole place illuminated with torches and lamps, and the books on these shelves actually looked like they saw use instead of being purely decorative. She stepped inside, Daphne right behind her. “I can’t compress my flesh forever,” she continued. “This is about as far as it goes.”
+
+Daphne glanced over at her, though she didn’t stop walking towards the large desk sitting in the center of the room. “So your true form is really big, then? What’s it look like?”
+
+“A mountain of flesh,” Pyre said bluntly. Daphne stilled, squinting at the demon like she wasn’t sure if she was joking or not. In the end, she just shook her head and stepped behind the desk, muttering under her breath.
+
+Pyre glanced at the bookshelves, idly scanning the titles while Daphne rummaged around the desk drawers. There were a lot of history books here, she noted, and some magic books that looked super complicated. Lord Bellhein also apparently had a thing for gardening, if the book on plant lifecycles and growing seasons was any indication.
+
+Over at the desk, Daphne made a triumphant noise. Pyre turned around to see her bent over an open folder on the desk, a whole stack of papers nestled inside. A few pages had been pulled out, and Daphne now held them up.
+
+Sure enough, Pyre saw three familiar-looking glyph circles drawn above three separate maps.
+
+“So they really were here,” Daphne murmured, eyes quickly scanning the pages. Her brows were furrowed, eyes darkening a little the longer she stared at them. Here was even more irrefutable evidence of her uncle’s betrayal
+
+The noble shook her head and shut the folder, carefully placing it back inside the desk and double-checking that nothing was out of place.
+
+“You find any plans for the sanctum?” Pyre asked. If they had those, they could fill out that upper circle.
+
+Daphne shook her head. “He probably moved those somewhere,” she said. “I think these should be enough, though. We can reconstruct the circle behind the waterfall by using these smaller ones as a reference.”
+
+Pyre had no idea how that worked, but she figured that between Daphne and Callan, they’d manage. They both seemed well-versed in magic shit.
+
+“Okay, let’s head back then.” Pyre turned, about to exit the office, but paused when she saw that Daphne wasn’t following. She glanced back, eyebrow raised, only to find the noble staring at her.
+
+“What?”
+
+Daphne didn’t say anything for a bit, simply scrutinizing the demon. Finally, she opened her mouth. The words that came out weren’t what she’d expected.
+
+“Thank you. For blocking the golem and carrying me out of the tunnels.”
+
+Pyre’s eyebrows rose, but Daphne was already stepping past her, papers folded and concealed in her dress’s skirt. Her expression didn’t betray anything, red hair swaying behind her as she moved.
+
+The demon watched her for a moment before finally shutting the office door and following behind.
+
+When they returned to the room, Callan was hover-pacing back and forth. He jumped a little when the door opened, but immediately spun around to face the two of them.
+
+“Did you find them?”
+
+In response, Daphne strode forward, pulled out the papers, and laid them out on the bed. Callan immediately floated higher so that he could see them all at once. He frowned.
+
+“These are… close,” he finally said. Daphne snorted and sat down on the edge of the bed. Pyre used the opportunity to take a closer look at the maps herself, and some of them did indeed look very familiar.
+
+“One in the forest, one in the garrison, one on the manor grounds.” Daphne looked disgusted, and she shook her head. “I can’t believe I didn’t notice,” she muttered. Her eyes were dark. “How many people have known about this?”
+
+Callan looked equally disturbed, but he kept reading. “This is good, though, it means we won’t have to go far to destroy them.” Despite his words, his voice was hesitant, and it wasn’t hard to see why.
+
+The papers each held a drawing of the full glyph circle, then a map with an X marking their location, and finally a diagram of what the circle actually looked like. And Pyre might not understand magic shit, but it was quite clear that those ritual circles were one, massive, two, made of solid stone and not just drawings, and three, underground.
+
+Well. That explained how no one had noticed them.
+
+Pyre picked up one of the pages, inspecting it more closely. “We need to pull these things out of the ground or what?”
+
+Callan shook his head. “Based on the types of runes they’re using, I think it’s enough to break a few sections on them. Just enough to disrupt the glyph chain.” He frowned, eyes tracing the diagrams and the notes scribbled around the pages. “With them so far underground, they’ll be hard to reach,” he muttered. “And they’re stone, too. Even if we dig a hole, that’ll only reach one section of the glyph, and we’ll definitely need to break more than that.”
+
+“Not just that,” Daphne interrupted. She leaned forward, tapping a specific rune around the edge of the glyph circle diagram. “Look.”
+
+Callan’s eyes widened. “Shit,” he cursed. “I didn’t even notice that.”
+
+Pyre looked between the two mages, raising an eyebrow. “Care to explain?”
+
+The human and ghost exchanged looks, both of their expressions grim. Finally, Daphne turned to the demon and spoke.
+
+“The circles are linked. They channel magic to the main barrier, but also to each other. We’d have to break all three of them at the same time to destroy them.”

@@ -1,0 +1,211 @@
+---
+id: 78344cf9-e24a-59f6-bfc8-fc2122a992a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Bevy of Power"
+slug: 0040-chapter-25-bevy-of-power
+partOf: ends-of-magic
+position: 40
+ownLength: 2719
+unit: words
+ownProgress: 2719
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2708442/chapter-25-bevy-of-power"
+royalRoadId: "2708442"
+markedReadAt: "2026-06-29T20:08:33.331Z"
+---
+
+“It is time for a final decision,” Sarya said as they summited the last hill before the city of Kankus. “The blight. Will you bear the weight of that challenge?”
+
+“Yes, we will,” Nathan replied firmly, not needing to look to his teammates for confirmation. They’d discussed this over the past few days, both around Sarya and not. They were never going to answer differently, and Nathan was looking forward to the new foe. It was going to be nice to fight something that wasn’t as conniving or cunning as the Questors.
+
+Sarya beamed back at them. “I’ll send an immediate message to Henrish that you have begun your voyage. You need to convince him you can steal the fire of the gods, so he will speak in your favor to the rest of the Ashen Accord...” She waved down at the city below. “It appears your transport has arrived.”
+
+Below them, the city of Kankus stretched across a peninsula projecting out into the ocean. The city itself looked dirty from this angle, disorganized houses spreading like growths over a series of hills with the occasional taller building standing out like stakes shoved into mounds of compost. Huge seawalls of rough stone protected the city from the pounding waves of the ocean on all sides. At the far end of the peninsula was a harbor, where the waves slammed against shimmering magic that kept the water out but allowed people and ships to pass through. A cloud of unnaturally low and fast-moving mist was approaching from the sea, making its way towards the city.
+
+The Heirs followed Sarya into the city aboard their faithful cargo transport. There were guards at the gate, but Sarya waved an enchanted token, and they parted. The gate behind them opened in response to Sarya's gesture as the control magic responded to her token. Two squads of soldiers joined them on the far side of the gate, clearing a path directly down the main boulevard to the docks without a word. It seemed they’d been expected.
+
+“Did Garna set this up?” Nathan asked Sarya quietly, watching the guards shove people aside who didn’t move quickly enough.
+
+The Questor gave a quick nod. “She did. Sending you on the way is more important than anything else on this continent. Especially as you bear the entire vault of Esebus in your pockets.”
+
+Nathan let the conversation lapse as he studied the soldiers escorting them. They weren’t armed with flying armor or weapons capable of leveling mountains, but their armor was enchanted for basic durability, and their weapons were designed for crowd control, to push and shock their way through crowds. That was demonstrated as they forced a path through the dense crowds.
+
+The crowds themselves were a far cry from the clean and rich populace of Esebus. Kankus was a crowded city, and at least half of the people were filthy and seemed like they’d missed more than a few meals. It made Nathan glad he was leaving this place, so he didn’t have to look around at the suffering and feel responsible for fixing it. Then he felt guilty at that thought. He sighed and looked over to where Sarya was frowning as she watched the crowd from her perch at the driver’s seat. “Is this place going to change, now that you’re in charge?”
+
+She gave a tentative nod. “We will try, but it’s not of greatest urgency. There are other priorities…” she trailed off as she saw his expression. “If you prefer, I will ensure that this city is made better.”
+
+Nathan looked back at her and couldn’t help but think how silly it would be to ask for that. There was nothing special about Kankus compared to the other cities that Esebus dominated. Similar conditions likely played out in each of them. But just being here and seeing the suffering made him feel responsible. He was extremely tempted to seize on Sarya’s offer, but the only reason to do it would be to assuage his own guilt.
+
+If she wouldn’t do it normally, it’s probably because she has more important things to do.
+
+“I’ll do it anyway,” she said, interrupting his prolonged silence with a wave of her hand. “It is not a grand challenge, and your balance is important. The effort that we are making is more important than any scheme in centuries, but we will make Esebus ours, and that means improving it." The smirk slid off her face. “Don’t fail, and don’t give Henrish reason to doubt. He will meet you and probe you for faults."
+
+They arrived at the docks in short order, where the Grace of the Mists was pulling up to a conveniently empty section of docks. Eolinne appeared out of the fog that surrounded her ship and gave an elegant curtsy, the mist mimicking her gestures. “Mistress.”
+
+Sarya rolled her eyes at the display, leaping off the carriage and landing in front of Eolinne with weightless grace. She hugged the other woman, hauling the slim captain up from a near-bow. “I never give you the appreciation you are due, and I regret the distance of our meetings. But, as always, duty is paramount.” She held the hug a moment longer, positioning herself for a kiss. But when Eolinne didn’t reciprocate, Sarya stepped back with a crooked smile. “Carry this cargo safely. It’s the most important mission I’ve ever given you.”
+
+Eolinne was a little flushed, a slight tinge of red on her ivory cheeks. But that didn’t stop an edge of sarcasm from creeping into her voice. “I’ve carried them with harmony twice before. Are you journeying with us?” A delicately arched eyebrow suggested a deeper meaning to the question.
+
+The Questor shook her head regretfully, hopping lightly off the edge of the ship and onto the dock. “To my sorrow, I cannot. Esebus is ours now, and our tasks are unending.” She waved jauntily, then vanished through the screen of soldiers.
+
+Eolinne watched her go with an air of disappointment, then turned her attention to the Heirs. “Come aboard, I would be pleased with a fast exit. I have a harsh history with Kankus.” She turned and stalked back towards the throne-like captain’s chair like a frustrated tigress.
+
+“I think they have more history than she told us,” Khachi said.
+
+Sarah shot him a disbelieving glance and a sarcastic reply. “What a brilliant Insight.” She led the way aboard the Grace of the Mists, immediately heading belowdecks to claim her preferred room.
+
+Nathan stayed above deck as they left port. He didn’t have anything to drop off down below, and would never get tired of riding a ship over the massive waves close to shore. Kankus didn’t have a wizardly artifact to suppress the waves and was instead protected by a giant, enchanted seawall that kept the breakers at bay. To exit, they navigated through a curved channel that held enchantments to suppress the enormous waves and eventually let out into the sea proper. There was magic in place to help ships pass through, but it remained inactive as the Grace of the Mists passed.
+
+Bad history indeed. I think the harbormasters are hoping that Eolinne crashes.
+
+She didn’t, adroitly navigating them into the open ocean with a now-familiar flute performance. Before long, they’d made it into deep water and were cloaked in the obscuring mist that gave their vessel its name. Eolinne stood from her throne and stretched, then ambled over to where Nathan leaned against the railing. “It seems you’ve won yet another victory worthy of legend.” Her voice was dry, traces of disappointment left over from her interactions with Sarya.
+
+He shrugged in response, deciding to leave her relationship with Sarya alone. “We killed Questors. They’re not so bad if you can shut down their tricks. We got some good loot, and I’m sure there’s something you’d want.”
+
+She raised an eyebrow at that. “I am Sarya’s agent, and she provides me with recompense for my missions.”
+
+“But we’re not agents of Sarya,” Nathan replied, meeting her eyes. “Think about it. You’ve provided us more aid than you needed to. We want to show some appreciation for it.”
+
+She pursed her lips but dipped her head demurely, staying silent.
+
+“How long is it going to take to reach Helmaris?” Nathan asked, realizing he didn’t know the first thing about their destination, just that it was claimed by Henrish and close to a blight.
+
+“Beyond a month,” came Eolinne’s easy reply. “Beyond my normal bounds of travel. But there are few other ways for you to navigate such a distance.”
+
+“Do you think we’ll get attacked on the voyage?”
+
+She made an equivocating gesture. “I cannot foretell. Any of the Questors you just slayed may desire revenge. They have many capabilities.” She hesitated. “You said you took loot. Valuable things?”
+
+Nathan nodded shallowly, feeling like he was understating it. The vault they'd cleared out was a combination of backup armory, treasure chest, curio cabinet, and strategic arsenal. Badud’s Grid was probably hopping mad and willing to go to extreme lengths to retrieve their lost treasures.
+
+Her lips firmed. “I have skills dissonant to scrying, but they cannot stop four Questors and all their capabilities. Even now, the scry-covens of Quilbor are hearing your names.”
+
+“I think we’ll be ok,” Nathan replied with a smirk. “I’ve got a pretty strong anti-scrying skill that’s tied into my antimagic. Aarl’s got a ring that he says will harm any spellcaster who views him. If you’re still nervous, we picked up some kind of ancient stone obelisk that’s supposed to prevent anybody from using divination anywhere nearby, including skills.”
+
+“A worthy treasure,” Eolinne replied thoughtfully. “Would you be willing to bestow that upon me as your gift?”
+
+“I’d need to chat with the rest of the Heirs, but probably,” Nathan replied with a shrug. “It’s living in extradimensional space, and we’re pretty well protected already.”
+
+The conversation left Eolinne troubled. Nathan had to admit that the thought of multiple Questors gunning for them was a bit disconcerting, given their abilities and the resources they had at their disposal. But they were better suited to deal with it now than ever before, especially with the number and power of artifacts they’d taken from the vault of Esebus.
+
+The Heirs took a few days to rest after their extended mission, then settled into a training routine that gradually ramped up in intensity. Each of them had new abilities to master and a veritable arsenal of items to select from. Aarl scheduled a block of time each day where he would just try out new items, ranging from a set of blades that sent out crescent slashes of cutting force when swung to a torc that made him go ethereal when an attack struck him or a whip that left lines of burning divine magic in its wake.
+
+With the upgrade from the Grand Dungeon, Aarl was faster and more agile, even if not enough to match Brox’s raw speed. But if Nathan had to put money on a duel between the two, he’d favor Aarl. His friend had a Questor’s armory of weapons at his fingertips and could swap between them with a thought, and his skills made him expertly proficient with every one of them. He looked a bit like an overaccessorized cosplayer, wearing robes over armor festooned with torcs, bangles, and other jewelry. But Nathan couldn’t argue with the effect as Aarl blinked through the sky using a couple of short-range teleport effects while slashing out with a panoply of different weapons.
+
+Sarah’s practice was more boring and mostly consisted of her lying perfectly still and aiming down the scope of her rifle. Her new skills gave her unlimited vision, and synergized with the upgraded skill that let her see what she aimed at better. Combined with the upcurving horizon of Davrar and the skills to make her bullets go farther, she could see - and hit - things from beyond the range where atmospheric distortion scrambled even a telescope's sight.
+
+Every hour or so, she’d squeeze off a round. After the fifth time, she stopped explaining what she was shooting at, since the answer was mostly “a monster,” or “a distinctive rock.” That last one was disconcerting when Nathan could see no trace of land anywhere in sight.
+
+Khachi spent much of the trip meditating and exploring the limits of his new power. At times, he became weightless and required a tether to avoid floating away, and at other times, he became a one-man lightshow. The light carried divine mana and an aura that pressed out as far as the light travelled. It carried Khachi’s will and senses, and let him bless and burn from a distance as he saw fit. With practice, he learned to use it as a physical force, and he set to stacking and unstacking weights while floating in midair with his eyes closed.
+
+In addition to his new amulet and bracers, the cleric had picked out a few other things that resonated with his divinity. The most significant of those was a jagged shard of fitfully glowing crystal that had merely been labelled as a “shard of divinity.” It was one of the few items that Aarl hadn’t been able to make heads or tails of, but in Khachi’s hands, the sullen glow flickered a little brighter, and he spent long hours carefully feeling it out with his magical capabilities.
+
+Stella’s magical efforts were confined to the smaller scale. Eolinne had politely reminded her that the more destructive spells were off-limits while aboard the Grace of the Mists, and Nathan had a tendency to agree. Not only could a slight mistake with one of Stella’s spells vaporize the ship, but a successful cast might leave enough of a magical signature that a scrying spell could trace it, and then the Heirs would be facing down everything that Badud's grid could throw at them.
+
+Even with that limitation, she still had more than enough to work on. Her staff and a few other casting tools required quite a bit of finesse to use to their fullest extent, though the staff in particular was capable of nearly autonomous copying and targeting of spells. But the biggest category of work Stella had was in the realm of wizardry. All three of her new class skills pertained to it in some way or another. It granted a new dimension to her spellcasting, but it wasn’t like she had a detailed book of instructions, since the wizard's journal skipped over all of the basics. Ushia’s explanations helped, but they were more guidelines than spell diagrams.
+
+Nathan found himself guiding her through it, helping Stella feel her wizardry and giving feedback on it based on what he’d felt from Badud’s grid. All of them had used wizardry in one way or another, and he remembered everything he could of their spellcasting and tried to communicate it to Stella. She likened learning the new magic to learning to write with her other hand, but made rapid progress incorporating it into her spells. With Nathan’s memory skills and intimate familiarity with Badud’s wizardry, it wasn’t dissimilar to her being tutored by the Questor himself.
+
+Nathan’s own practice was less obvious. He didn’t have any new items beyond the adamantium dagger, and his new skills were hard to practice without a Questor-level target to point them at.
+
+How can I improve?
+
+Permanent Talent 1: Arcane Nullfield 9
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Airwalking 8
+
+Class: End of Magic level 995
+
+Bottomless Stamina: 100500/100500
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 763
+
+Limitless Focus: 7630/7730
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 4
+
+Inspiration 8
+
+Impulse 5
+
+Mystical Discernment 7
+
+Forewarning 6
+
+Arcane Insight 9
+
+Evasion 3
+
+Mental Vault 8
+
+Veracity 3
+
+Parkour 10
+
+Visibility Control 7
+
+High-tier Disguise 9
+
+High-tier Battle Cry 4
+
+Aura Control 7

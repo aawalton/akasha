@@ -1,0 +1,159 @@
+---
+id: b99edd84-937d-5096-b125-053438c8c916
+page-type-slug: story-chapter-royal-road
+title: "Ch36 Xu Hong’s Strength"
+slug: 0036-ch36-xu-hong-s-strength
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 36
+ownLength: 2056
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3298559/ch36-xu-hongs-strength"
+royalRoadId: "3298559"
+---
+
+I knock on Xu Hong’s front door and watch it swing open.
+
+Instead of waiting for her to walk out like usual, I walk straight in, closing the door behind me.
+
+With tight lips, I only speak with my eyes, darting around the room in silence.
+
+There is a faint glimmer of purple that flickers in her eyes, as the only thing making noise through this tension is our breath and heartbeats.
+
+Even the illusory figures in my mind stop moving. Without the fluctuations, it’s like they’ve turned invisible.
+
+I swallow hard, tap my storage pouch, and pull out the old perfected-tier axe I used to kill the last Blood Sword Sect member.
+
+Xu Hong takes a step back at the sight, but I point its handle toward her, and put a finger over my lips, then point to the walls of her hut.
+
+One of the invisible auras starts moving all of a sudden. It feels like it is coming closer, but it’s too blurry and confusing for me to really tell.
+
+When she grabs the axe, I pull out a light green piece of jade in the shape of an eye. Without hesitating, I place the artifact on my forehead and send a pulse of qi into it.
+
+This is the [Spirit Eye Jade] I obtained from a minor lottery after becoming a steward. It has 5 uses, allowing me to have the perception of a mid-stage Foundation Establishment cultivator for 2 full seconds. I use one of the uses and close my eyes, allowing the pulse of light green energy to expand my vision.
+
+In an instant, my minuscule 12-meter spiritual senses multiply by over a factor of 10.
+
+The small hut we stand in, and the metal bin outside, are no longer the only things within my mental view. Now, every blade of grass and tree stump in the clearing around becomes crystal clear.
+
+The worms, beetles, and mice in the ground cannot escape my sight.
+
+It does not gradually pulse outward, to the mind of a 3rd-level qi refiner at least, it feels instant.
+
+For over 150 meters in every direction, I can see it all. Even into the forest where Xu Hong has not chopped trees yet, as squirrels scurry on branches, small rabbits hop through heavy brush, and even small black snakes coil up in a rotting log at the far edge of my senses.
+
+It is slightly overwhelming at first, but after a full second passes, I dial in on a figure about 40 meters away. That is where the closest cultivator is, running out of the treeline under the stealth of dusk.
+
+I pull out my low-quality spiritual black iron bow and my perfected-grade arrow from my storage and point it in the direction of the approaching enemy.
+
+Even with his Illusory Demon’s Concealment Art, I can still make out the figure’s exact movements now that he’s within my spiritual senses. My system chimes in my inner ear, showing me the stats of this 5th-level qi refiner.
+
+The only message on the status screen I look at is the secret at the bottom:
+
+[He is a member of the scouting team sent by the Blood Sword Sect to find out where their lost scout went. Two other 5th-level qi refiners have narrowed down their search after sensing the Illusory Demon’s Concealment Art in your aura, and have agreed to kill you and refine your blood into pills.]
+
+The arrow feels sharp and heavy in my grasp. The 250kg resistance bowstring is pulled back with ease. At level 2, it was slightly tough to pull, but now, it feels perfectly balanced.
+
+My pupils constrict as he gets closer, less than 20 meters away. It is the perfect imagery of a middle-aged man carrying a black glossy longsword running in the direction of the back wall. I wait another second and begin to feel my artificial spirit senses fade.
+
+It appears as though I’m pointing this arrow at Xu Hong’s head, but I shift my stance and release the arrow at the same instant that I release my aura at the 3rd level of qi refining.
+
+A burst of pure white-hot aura erupts off my body, my bow, and the jet-black arrow.
+
+Xu Hong’s scars all flash with a purple aura, and fractions of a second later, a thick purple film of energy expands to cover her body.
+
+The arrow flies by her head, and she turns to watch it fly over her shoulder.
+
+A hole is blasted through the back of her hut, and the scream of a man struck in the chest by an arrow echoes out in the air.
+
+“There’s two more!” I yell out, pointing in their directions through the wall as the Spirit Eye Jade wears off, and I rely on the blurred sensations of the Illusory Demon’s Concealment Art again.
+
+I turn for the door, but Xu Hong wastes no time and uses the perfect-grade axe I handed her to break through the wall I already shot a hole through.
+
+We escape from the hut on opposite sides.
+
+The sharp purple pressure of killing intent fills the entire clearing around her hut.
+
+It makes my movements freeze up, like hundreds of heavy daggers are pinning me down.
+
+With a quick mental swap, the low-grade bow disappears, and a thick black talisman appears in its place.
+
+After upgrading the mid-grade talismans, the paper they were drawn on becomes almost as thick as a finger. It is impossible to bend, and the characters filled with qi are no longer just painted on; they are engraved into the thick wood-like artifact.
+
+When I press it to my chest and activate it, a dark defensive aura forms around me. It is thick, like a malleable layer of steel has been stretched over my skin.
+
+The thirty-second timer counts down in my mind linked to the item, and the oppressive purple aura in the air no longer affects me. I focus only on the black-cloaked cultivator’s faded outline running my way.
+
+Even though my senses have drastically increased since I battled that 4th-level qi refiner before, this Blood Sword Sect member is even stronger than him.
+
+I can barely see where he’s coming from. It’s only when he comes within range of my spiritual senses that I see his full visage, staring me down with red eyes full of bloodlust and hatred.
+
+“It was you, you killed our scout! There is no way you could wield our technique otherwise… Now you killed my brother! I will not let you go, even if it kills me too!”
+
+While my spiritual senses can transmit perfect images into my mind, it does not mean I’m physically fast enough to act upon what I see. I can only react to the blur that swings its glossy black longsword at me.
+
+I pull my Verdant Steel green blade from my storage and blindly strike in the direction in front of my vitals that aligns with the blur.
+
+A horrific crunching metal sound escapes the collision.
+
+My short sword slices the black blade in half, but he still follows through with his swing. The sharp edge still strikes my chest, but the black defensive talisman surrounding me takes the brunt of the blow.
+
+The swordsman jumps backward with only half his blade left. It is more so out of fear, as there is no repulsive shockwave like the ones I remember from my old copper bell talisman. Instead, it is like he is trying to slice into a sponge. Neither of us takes any damage.
+
+He grits his teeth and stops in front of me for a moment to swallow three bright red pills.
+
+A crimson mist floods out of his body, and his eyes glow brighter red. The smell of iron fills the air, and the blurring light that comes at me is no longer only black. There are streaks of red in his aura.
+
+He’s even faster, landing hits on my back, neck, and stomach over and over. Yet, the defensive talisman I carry blocks them all.
+
+Over a dozen landed hits, and there are only tiny cracks in the black piece of wood. The timer will run out long before he can break through it by force.
+
+My counterattacks are easy to read, now that he knows my blade is sharper than his own. The art of surprise with this weapon is lost. However, I’m effectively untouchable for the next few seconds.
+
+I have an ultimate move in my storage, the Azure Lightning Attack Talisman. It is a special reward from a lottery draw capable of killing Foundation Establishment cultivators. Using it up if I do not have to would be a waste.
+
+Instead, I try one of my other options as he lunges in at my chest again. I pull out an upgraded ember paper.
+
+These are the tiny translucent talismans given out for free, that made tiny sparks capable of lighting a cigarette. They have turned into the same thickness of a finger like a crimson piece of wood.
+
+There is only a single character on it now: Incinerate.
+
+When I push a tiny amount of qi into the perfect-grade 1st Tier Incineration Talisman, there isn’t even a moment of lag.
+
+It explodes forward in the direction I point, and a bright burst of red flames erupts outward over five meters in height and width.
+
+The broken sword aimed toward me melts, and the person wielding it burns to ashes before his eyes can even fully widen in shock.
+
+His vocal cords could not even move fast enough to scream.
+
+Some of the backlash of the enormous ball of fire hits me too, sending deep cracks into the defensive talisman on my chest. Over half of its aura is depleted in an instant, and the massive ball of fire dissipates into the air just as fast.
+
+Only a tiny storage ring falls to the blackened ground.
+
+–
+
+I turn my head toward the other flashing lights about 40 meters away, where another Blood Sword Sect practitioner eats a single red pill, just like the one I faced.
+
+His body glows a faint red, and he runs forward at a bright purple-glowing warrior.
+
+Armor made of pure energy covers Xu Hong’s body. The axe in her hand is completely enveloped in her aura, and it is like I’m looking at a miniature version of the manifestation I saw in the sky a few days ago, but before me in the flesh.
+
+Her speed creates blurs in my vision. It just looks like red and purple lights are spinning and almost colliding over and over.
+
+The long black blade of this cultivator misses over and over, slicing thin slits through the ground. Xu Hong’s axe swings create small craters too.
+
+“Whether I kill you or not, this will not be in vain! I have found the killers, boss! Their location has been marked!” he yells out, crushing a small red and white talisman in his hand next. It sends out a light imperceptible pulse, then dissolves to ash.
+
+The man’s head turns to his two fallen cultivators’ death sites nearby. The last Blood Sword Sect member swallows another three pills at once. The crimson aura around him surges outward in an erratic and demonic nature. Just as I think the battle is about to ramp up, Xu Hong’s aura starts to pulse erratically too.
+
+Her face and muscles constrict. Black mirror-like cracks begin fracturing the air around her. All of the external energy she absorbed to stabilize her physique before has already been used up. She’s experiencing what I can only assume is qi deprivation again.
+
+When the next sword swing comes her way, she does not try to dodge.
+
+Instead, the purple glowing woman lets out a yell and catches the longsword with her bare palm. Another strong surge of killing intent bursts out, coming straight from her strained physique.
+
+A metallic echo rings through the forest as it stops against her purple aura.
+
+Then, a single swift axe swing takes off the Blood Sword Sect cultivator’s head.
+
+Her purple manifested armor and aura of killing intent shatter to mist a moment later. Both her and the headless body of her enemy fall to the ground at the same time.

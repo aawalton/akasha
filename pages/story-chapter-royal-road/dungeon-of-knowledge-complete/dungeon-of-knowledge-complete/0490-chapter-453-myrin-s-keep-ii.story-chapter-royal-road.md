@@ -1,0 +1,119 @@
+---
+id: ff61f271-1138-5b7d-833c-358e381e27c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 453: Myrin’s Keep II"
+slug: 0490-chapter-453-myrin-s-keep-ii
+partOf: dungeon-of-knowledge-complete
+position: 490
+ownLength: 1433
+unit: words
+ownProgress: 1433
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2791940/chapter-453-myrins-keep-ii"
+royalRoadId: "2791940"
+markedReadAt: "2026-06-29T20:28:49.839Z"
+---
+
+“Halt! Switch out.”
+
+Lyeneru’s commanding voice cut clearly through the din of combat, and Ali was quite honestly relieved to hear it. Her minions were tireless, fueled by her reserved mana, but she most certainly was not. It was with a profound sense of relief, and a small twinge of envy, that she watched the raid group of fresh adventurers charging past to engage the swarm of monsters with an abundance of energy and vigor. Lucky them.
+
+“Aliandra?”
+
+Ali turned to find Aiden standing politely nearby. “What’s up, Aiden?”
+
+“Murgrid and Belra want to talk to you when you go back.”
+
+“Who?” The names sounded familiar for some reason.
+
+“The stone smiths. Earth crafters – they cannot begin restoring Myrin’s Keep because it’s full of your trees and monsters,” Aiden said, wearing what looked like an apologetic expression.
+
+“Oh, I remember them,” Ali said, recalling the two good-natured Dwarven women who had built almost all of the new guild hall from scratch. The ‘new’ guild hall that was now gone, turned into rubble along with most of the town. “I’ll go find them.”
+
+“Will you be taking your minions with you?” he asked, eyeing the kobold arcane mage who was firing off a continuous stream of arcane bolts without any sign of slowing down, now already level fifty and wearing some upgraded robes Ali had just finished summoning.
+
+“I will instruct them to follow your orders,” she said. “They don’t get tired.”
+
+“I appreciate it,” Aiden said, his face immediately relaxing when she assured him that they could still count on her minions for help.
+
+“Naia and Seth are going to stay, too,” Ali pointed out. “So, you’ll have lots of summoned monsters to work with.”
+
+“I’m honestly jealous of Seth,” Aiden admitted.
+
+“Yup,” Ali agreed, knowing he was referring to Seth’s downright unfair ability to rejuvenate himself with his magic and never get exhausted or need sleep. She took just a few moments to relay her commands to her minions and then summoned several wings of Glitter Dragonets to serve as teleportation targets should she need them. I need to level them up, too. An evolved light-affinity dragon could be quite a force to be reckoned with, but she didn’t quite know what would happen if she leveled a swarm monster. With those thoughts buzzing in her mind, Ali teleported up to the new Gate and returned to the now-dense mana of the domain she had established.
+
+She could easily have just teleported straight to Myrin’s Keep, but she had almost been wiped out by an irresponsibly unguarded Gate, allowing her enemies – the Blind Lich, specifically – to gain access to her domain and attack innocent people through them.
+
+I need to be more careful in the future. Much more careful. It was a matter of about fifteen minutes of runework for her to implement a simple failsafe trigger which would disconnect the Gate remotely should she wish it, and then she left several more minions behind to guard it or at least provide an early warning of intrusion. And I still have the suppression field in Lira’s Forest. She still referred to the cavern above the grand library as Lira’s, and it was there that she had placed the other end of this Gate. In a location she could shut down with Cael’s advanced suppression formation – she just had to ensure she kept the space-affinity magicite charged and ready for use.
+
+Only once she was satisfied did she teleport back up to Myrin’s Keep, having already scouted the two dwarf stone smiths.
+
+“Hi,” Ali said, arriving with a soft popping noise, floating a handsbreadth above a broken stone wall.
+
+“Waah!” Belra yelled, startled nearly out of her skin as Ali appeared seemingly from nowhere.
+
+“Uh, sorry,” Ali said. “Aiden told me you wanted my help?”
+
+“Aye,” Murgrid said. “Any plants we cut just come back, and any stone we clear reappears after about an hour. Aiden said it was dungeon business, so we were hoping you could remove the ‘dungeon stuff’ so we can get started?”
+
+“I see,” Ali said. She surveyed the ruins of Myrin’s Keep, noticing that almost everything was domain-attached. She had inherited all of it by capturing the domain, wresting it from the grasp of the Blooming Rot with the strength of her superior Domain Architect skill, and she hadn’t really paid much attention to it. With it all being attached to the domain, that meant everything was set to respawn automatically. However, that was creating headaches for the dwarves’ magic and their diligent restoration efforts.
+
+While she could just remove the domain, a different idea occurred to her. “How long will it take to rebuild?”
+
+“Probably… several months of hard work,” Belra said, eyeing Murgrid, who nodded solemnly. “There’s just the two of us, really. Some of the elves do wood shaping, but the biggest time cost will be clearing everything and then creating all the stone needed to remake the buildings.”
+
+“Why does that take the most time?” Ali asked.
+
+“Mana, lassie. Making stone takes a lot of mana, and we will spend a lot of time regenerating. Nobody is making us crates of mana potions for free,” Belra said, chuckling at her own joke.
+
+“Can I help?”
+
+“What can ya do, lass?”
+
+“For a start, how about this?” Ali said and extended her magic through the mana of her domain and triggered Deconstruction. Immediately, the entire expanse of Myrin’s Keep shimmered, disintegrating into motes of mana and evaporating, leaving only the few trees she had chosen to keep, and in less than thirty seconds, all of Myrin’s Keep was a plain, open, sparse forest with just a river running through the middle of it.
+
+“Beldin’s Bollocks! How did ya do that?” Belra exclaimed.
+
+“Dungeon stuff,” Ali said with a smile. “I can make rock and stone too, what do you need, and where?”
+
+“Roads, and battlements first,” Murgrid said, clearly recovering from her amazement much faster than her partner. She pulled several large sheets of paper from her storage-enchanted ring and spread them out on the ground, revealing a well-drawn architectural map of the city. “Here, and here,” she said, tracing a finger along the outer line of the old city map and then pointing to the cliffside.
+
+“Granite?”
+
+“That would be perfect.”
+
+“Ok,” Ali said, manifesting her Grimoire beside her. Then she began summoning tons of rock, while the two dwarves followed along behind her, using their magic to shape and place the raw materials.
+
+“Does it have to be boring stone?” Ali asked after a few minutes.
+
+“What do ya mean?”
+
+“Stone isn’t boring, dear.”
+
+“Well, granite is nice and all,” Ali said, “But there are so many other options. What if we make the walls out of this instead?” She summoned a small amount of pitch-black Aether-Fused Obsidian and then a chunk of Adamant Onyx.
+
+“Oh, well now. I didn’t know we be all fancy-like,” Belra said, an expression of awe on her face as she reached out to touch the Adamant Onyx.
+
+“Here,” Ali said, and instead of explaining, she simply summoned fist-sized chunks of every stone variant she had, including the magicite flavors. “Just tell me whatever you need.” It was surprising even to her just how many variants she had collected over time. All neatly packaged in her Grimoire as pages and pages of dense glowing runic script, it didn’t convey the breadth of options nearly as well as the array she had just created.
+
+“Ooh, Belra! Isn’t this white marble exquisite?” Murgrid said, caressing the beautiful white stone from Cael and Gage’s Infinite Maze.
+
+“Can ya imagine the market in this extraordinary green?” Belra exclaimed, holding up the sample of the beautifully rich, green-veined marble she had taken from the Armory and Vault in the Ruins of Dal’mohra. “Look at the vein patterns!”
+
+Sparks of excitement and near-palpable energy exuded from the two crafters as they sprang into action. Sure, Ali may have been tired after a long day of fighting underground, but creating energized her in a way that destruction never would. Soon, she was entirely engaged in the massive project, feeding off the dauntless energy of the two Dwarven master crafters with way too many fun new toys to play with.
+
+“When you two are done up here, I have an entire ruined Dwarven city down below that could use your skills,” Ali said.
+
+“Ooh!” Murgrid and Belra exclaimed in chorus.
+
+Ugh. I kind of walked myself into that one. Maybe on my day off, whenever that is?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

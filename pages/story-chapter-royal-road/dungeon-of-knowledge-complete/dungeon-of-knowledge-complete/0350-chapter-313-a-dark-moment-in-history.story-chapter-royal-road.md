@@ -1,0 +1,135 @@
+---
+id: 8dff79e3-7f0d-52be-a8e1-ac96a02b6012
+page-type-slug: story-chapter-royal-road
+title: "Chapter 313: A Dark Moment in History"
+slug: 0350-chapter-313-a-dark-moment-in-history
+partOf: dungeon-of-knowledge-complete
+position: 350
+ownLength: 2045
+unit: words
+ownProgress: 2045
+publishedAt: 2025-07-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2439797/chapter-313-a-dark-moment-in-history"
+royalRoadId: "2439797"
+markedReadAt: "2026-06-29T20:22:26.475Z"
+---
+
+Malika touched down lightly on the stone shelf overlooking the waterfall north of Kezda and bowed to the weather-beaten old man sitting in meditation, ignoring the light dusting of snow that was gently falling onto his bare shoulders and head.
+
+She held her bow patiently, waiting for him to acknowledge her, calming her mind with familiar breathing exercises.
+
+“You came,” he said. She could easily see the intense white of his stamina and the brilliant blue of his mana circulating calmly throughout his body and projecting out several feet in all directions about him, making it seem like he was glowing from within.
+
+“I have evolved my class, Elder,” she said.
+
+“I can see that,” he answered, opening his piercing ice-blue eyes. “And your bloodline seems to have remained healthy this time.”
+
+“I was worried, and I said I would return when I grew stronger,” she said.
+
+“It is good that you listen to your elders,” he said, a hint of a grin appearing on his face before he rose to his feet.
+
+“Elder,” she said. “Ciradyl has fallen. It was taken by the Blind Lich.”
+
+“I see,” was all he said, but the expression on his face underscored the magnitude of the catastrophe that would alter the course of the entire continent, if not the world.
+
+“Come, let’s rescue Basir and Hala from this cold.” He summoned an old robe from somewhere and put it on as he led her down the mountain. “You will need more training for what is to come. A lot more.”
+
+He sat quietly beside the ring, his eyes closed and his breathing slow and regular while his students fought, but Rezan was by no means indifferent to their struggles, studying the flow of mana and stamina through their bodies with the sight of his bloodline.
+
+She has grown strong.
+
+It had quickly become apparent that Malika had not merely surpassed Basir and Hala in class levels, but her choice of paths in her evolution had amplified her skills well beyond what even he had dared to hope for her. After just a few seconds in the first bout with Basir, he had sent Hala in to help him, and even against both of them, Malika was dominant.
+
+She had shared her abilities freely with him, the reasoning behind her choices, and how she had combined them in the battle of Ciradyl against the Blind Lich.
+
+Nevyn Eld. Rezan’s mouth twisted as his mind filled with troubling thoughts. The Blind Lich was a dark shameful blot – a stain on the history of the Ahn Khen – and a permanent insult to the very ancestors.
+
+She should know.
+
+But for now, he was content to observe the steadily growing power that leaked from Malika’s body and soul as the combat drew on longer and longer. Her Relentless aptitude and her growing ability to push past the limits of her skills for more speed and strength were extraordinary, but it was her investment in the magic of her Soul Sight that truly set her apart.
+
+He knew she wasn’t fully understanding the implications of what she had chosen. Martial Disruption was extraordinary, and he had observed her interrupting Basir and Hala’s stamina attacks several times to great effect. But it was Infinite Perception that sent chills down his spine – an ability that presaged the development of powerful eye magic – it had the capacity to teach her extraordinary techniques and push her magic beyond even his imagination. She would need to learn the tools required to control it if she was to even survive the experience. This time, though, Rezan was not worried. Not about her, at least.
+
+“Stop,” he said, halting the battle. Hala and Basir’s chance, if they had even had one, would have been in the first several seconds of the match. Once Malika’s stamina cost reduction kicked in, she rapidly became unreachable for his other two students. “Come sit, I need to share some ancient history with you.”
+
+He waited till the three of them joined him, grimacing inwardly at their naïve curiosity and excitement before beginning his story.
+
+“Before Nevyn Eld became the Blind Lich, he was an elder of the Ahn Khen,” Rezan began, his blunt revelation drawing gasps and expressions of shock from his students.
+
+“Are you serious?” Malika asked.
+
+“It is our darkest shame,” Rezan said, and truly, admitting it out loud felt like a dagger twisting in his gut. “He was a powerful mage, steeped in all our traditions and arts, with powerful bloodline skills. He was sent to help Dal’mohra, becoming a Guardian of the Realm, but something happened which only he can now tell. He fell from the path of honor and service, succumbing to the lure of darkness. Then, he discovered how to ascend to the form of a Lich, granting himself a twisted form of immortality, and he betrayed the city of Dal’mohra, his own people, and the world. He is the sole reason for the decline of the Ahn Khen; for the longest time, he feared a convergence in our bloodlines – the birth of one so gifted they would surpass him and undo his desperate grasp on power. He sent Haverron and his armies of Death Knights to reap our strongest heroes and elders and then drove the remnants of our people into exile and poisoned the minds of the kingdoms against us, leaving us broken and dishonored.”
+
+“I hate him,” Malika said. Within her breast, energy roiled angrily. “I have met him several times now and he has always been bent on the path of evil.”
+
+“Hate is normal,” Rezan said, worried by what he saw brewing inside her. “Perhaps even appropriate. But I would counsel calm. Hate is the path that led him to what he has become. Being calm and rational, and cultivating a pure heart is the path of Ahn Khen and it is the only way to counter his evil.” To his relief, he saw her frenetic energy slow, gradually returning to a powerful but smooth flow.
+
+“Elder, I can’t sit aside, hiding in obscurity like our people have done all these years,” Malika said. “I think we need to make things right.”
+
+“Perhaps it is time,” Rezan said, nodding. “But you will need to be much stronger.”
+
+“If I may make a suggestion?” Malika asked, reaching up and retrieving the strange golden dragonet that had been perched upon her shoulders. “This is Ali’s minion. I asked her for a favor.”
+
+“A favor?”
+
+“If you agree, she will come here to Kezda and place a teleportation link to her dungeon.”
+
+“For what possible reason would we want such a thing?” Rezan asked. Autonomy and isolation had long been their shield, and a direct gate into a dungeon below Myrin’s Keep, in a kingdom they were technically at war with, would reconnect them to the world.
+
+“Ali also evolved – her dungeon now grants a tithe upon entry, improving mastery and knowledge trait skill growth, and tithing the knowledge to her and her monsters,” Malika explained.
+
+“That’s… terrifying,” Rezan said. Honestly, a dungeon that offered skill growth as a means to enhance the skills of its monsters would rapidly become an unstoppable force. “Why would we choose to feed a monster like that? The Nine Paths of Ahn Khen were created for honorable combat and defending the rights of those weaker than us.”
+
+But Rezan knew he’d overstepped calling Malika’s friend a monster just by the sudden stillness in her energy and the firmness in her eyes. However, Malika answered calmly.
+
+“She made a challenge arena. Monsters have been placed in arenas filled with restoration magic and a teleportation failsafe. Every martial skill she learns through the dungeon tithe, she recycles back to the challenge arena monsters,” she said.
+
+“That’s…” Rezan found himself speechless. What she had just described was unheard of, and if it worked like that, it had to be the most powerful training tool he could imagine. Unlimited skill training against opponents who learned every martial arts technique that was shown to them. Despite severe misgivings, his heart leapt, sending ripples through his energy flows.
+
+I need to see it, he realized. It was not an opportunity he could afford to just let bypass his people. If it works, maybe it could even restore… Immediately, he clamped down on that thought. His hopes had been crushed too many times to count. One single dungeon, barely past one hundred, could not possibly restore an entire people to their former glory. Still… training Hala and Basir in something like that environment could accelerate their growth a hundredfold.
+
+“Bring her,” he said, finally. While he hated the idea of working with a dungeon, he had made an exception for Aliandra before, and she had proved to be honorable, keeping her word. His instincts suggested he could trust the Fae. He regularly checked in on Sabri’s aura from the vantage of his waterfall, and he had observed her stellar growth, much like he had kept the eyes of his soul upon Malika herself.
+
+Malika spoke a single word in Draconic, and the little dragon screeched, taking to the air momentarily. A flare of mana rippled around it and suddenly it was gone, and in its place the tiny green-haired, golden-eyed Fae appeared, perched upon a disk of golden magic.
+
+“Hi, Elder,” she said, smiling at him, speaking Ahn Khen like one born to it. “I’m glad you accepted my offer.” But it was the seriousness deep in her eyes that caught his attention, and the vastly stronger aura of mana that lurked within her.
+
+Sabri waited nervously by the locus in the library. She had not seen her mother since she had left home in search of a shrine that might offer her a combat class. And now she was a silver-ranked adventurer, even surpassing level forty. She shifted uncomfortably from one foot to the other, creaking and clanking.
+
+I should have worn a dress. She glanced down at her well-used plate armor, covered with dents and scratches, and the faint remains of scorch marks she had been unable to fully buff out. Her mother had never approved of the grazes and scrapes she always seemed to earn with her practices, and now the things she tangled with were vastly stronger and more deadly. She didn’t even own a dress.
+
+“Nervous, child?”
+
+She looked up, startled to find the ancient dryad standing beside the gigantic roots of the library tree, several nature wisps circling her head. But her eyes were gentle, and her smile soft.
+
+“Yes, I haven’t seen my mother in a long time,” she admitted. When Aliandra had said she was making a circle to travel to Kezda, she had immediately asked if she could use it to return home. Aliandra’s only condition was that she wait until she returned so that the connection would be complete.
+
+But she hated the waiting.
+
+Suddenly, there was a shimmer, and Aliandra appeared in the center of the runic circle, then a few more shimmers, and Malika appeared, followed closely by Hala and Basir, and then finally Rezan Jin himself.
+
+“Elder,” she said, bowing her head in deep respect.
+
+“Sabri?”
+
+But it was not the elder’s voice that called out her name. Her head snapped up to find her mother standing there staring at her. “Mom?” All her anxious nerves vanished as she ran over and threw her arms around her mom.
+
+“Sabri, easy,” her mom gasped. “You’ve gotten so strong, and your armor is poking me.”
+
+She hurriedly released her grip in chagrin, but her mom took both her hands, not wanting to let her go.
+
+“Look at you!” she exclaimed, with a huge smile. “You’ve grown so much!”
+
+“I missed you, Mom,” she said, somehow losing all the words she had meant to say.
+
+“Me too, Sabri,” her mom said. “Come, why don’t you show me around?”
+
+“Let me show you my favorite place,” she said.
+
+“Where you’re staying?”
+
+“No, the challenge arena!” She grinned and grabbed her mom’s hand leading her to the stairs, and as she passed, she caught the gentle smile of the dryad and returned it with a big beaming grin from her heart.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

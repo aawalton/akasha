@@ -1,0 +1,149 @@
+---
+id: 6843f18f-77e2-58db-b556-777402589d60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 537: Staff of the Archmage"
+slug: 0577-chapter-537-staff-of-the-archmage
+partOf: dungeon-of-knowledge-complete
+position: 577
+ownLength: 2967
+unit: words
+ownProgress: 2967
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3053694/chapter-537-staff-of-the-archmage"
+royalRoadId: "3053694"
+markedReadAt: "2026-06-29T20:31:59.401Z"
+---
+
+Malika sat comfortably on the springy grass surrounding the Well of Souls, grateful for how quickly Ali had taken care of all the foul corruption that had spilled forth from the Well. She smiled as she glanced over at her friend, who seemed to be wearing a slightly lost and dazed expression in the wake of what had been a week of intense, never-ending battle. It was amazing what a little well-placed dungeon magic could achieve.
+
+She glanced over at the items beside her.
+
+As an Archmage of formerly peerless repute, Nathaniel Sunstrider had evidently spared no expense on his equipment. Every single item he had been wearing was of rare quality or better, and several pieces were far better. His robes had been damaged; either the result of their fight, or his traumatic turning into an undead wraith by the Blind Lich. Nevertheless, she could immediately tell that defeating him had most certainly netted the guild a dramatic increase in power. At least for the mages – and that was not even considering the substantial level growth across the entire raid.
+
+“What do you think, Malika?” Vivian asked. Normally, Lyeneru would be involved in the loot decisions. Still, most of the Elves were standing around in awe of the Well of Souls, discussing the dramatic revelation of Nendir as a Soul Archon, or the restoration of the giant grove of Ciradyl trees Ali had performed. Ciradyl, as a city, would rise quickly from the ashes if all their faces were anything to go by.
+
+“A little damaged,” Malika said, holding up a rune-embroidered pair of silken gloves. “But nothing Lydia can’t mend.”
+
+“Will it be useful though? We don’t have many arcane mages other than Aliandra.”
+
+Vivian was clearly concerned about spreading their windfall effectively, boosting the overall strength of the guild’s raiders, and Malika wholeheartedly agreed. In the absence of any overriding reason – such as a set bonus – spreading the items out to as many people as possible was almost always the strongest choice. Who knew when one person might not be available, or their skills rendered worthless by a unique combination of boss abilities?
+
+Fortunately, there would be no problems here. While the generally high-level requirements for Nathaniel’s gear would limit their options somewhat, the guild mages had leveled up a lot already. Her only regret was that only one set of items was available for distribution. Although after the wringer they had just endured, Malika had no desire to kill him a second time, even if they could. “Most of his gear is of general use to any pure mage,” Malika said, sharing the Appraisal of the items one by one with the entire raid.
+
+This was another thing Malika had come to appreciate about the Guildmaster. All loot decisions were made publicly, and with full information. Anyone was welcome to make suggestions, argue for themselves, or argue on behalf of someone else. Good ideas that benefited the group were often implemented immediately.
+
+“Congrats, mages,” Devan said, wearing a tired smile.
+
+By now, the group was quite familiar with the process. As she shared each item, the mages quickly reached consensus on who would benefit most from each piece, and the items were distributed with little fuss or argument. Even those who scored nothing from the final win congratulated those who did, knowing that their friends and teammates would use those upgrades to help them all earn something from whatever challenges they faced next.
+
+Malika picked up the next item, a smooth wooden staff of extraordinary craftsmanship. A gem rotated in the air, physically detached from the end of the staff, and yet, never straying from its place as part of the item.
+
+This would be amazing for Ali, she thought, but she kept her opinion to herself. She was not a mage and would only get involved if she really believed the others were making a mistake.
+
+“Two-handed mage staff,” she said, sharing the details and noting a few minor enchantments that were not present in the main description, revealed to her through the impressions granted by Appraise.
+
+Arcane Staff of the Archmage – level 225A dark wooden staff inscribed with intricate runes. A detached glowing gem rotates slowly at the head of the staff, somehow connected through an unseen power.+244 Intelligence.+195 Perception.+225% spell power to Arcane skills.+50% to spell haste.+5 to skill level of Arcane skills.Grants the level 225 Spell Steal skill.Requirements: Intelligence 1576, Perception 900.Quality: Unique.Value: 1570 gold.Two-Handed – Staff – Celestial Oak
+
+Silence reigned among the small group of interested mages, sorcerers, and other related classes as they studied the details.
+
+“Isn’t Ali still using some sub-hundred junk?” Seth asked, drawing a few wry smiles and even snorts of laughter from the group.
+
+Trust Seth to be looking out for her, too, Malika thought. Ali had outdone herself in the battle, and she was certain every mage would agree with her; however, Ali had never put herself forward in discussions like this. From the mages came a chorus of assent:
+
+“Aliandra for sure.”
+
+“Agreed.”
+
+“Give her that Spell Steal so that she can counter more Archmages!”
+
+“More Archmages? Are you mad?”
+
+Nods and agreement passed through the crowd, and even though the item would probably have been incredible for most of them, it was obviously far better for Ali, given the focus on arcane and the disruption of enemy spells.
+
+“Here you go, Ali,” Malika said, handing her the giant staff that was at least twice her height.
+
+“Oh… but it’s so huge?” the Fae said, looking up at it dubiously. “I’m not sure I’m strong enough to carry it.”
+
+“Try it,” Malika said, grinning. Of course, she had the advantage of Appraise, and so she knew exactly what would happen.
+
+As soon as Ali’s small hand grasped the wooden staff and Malika let go, the powerful artifact shrunk, growing rapidly shorter and more slender as it matched itself to its new owner.
+
+“Oh!” Ali exclaimed, a delighted smile finally appearing on her exhausted face. “Thank you! Thank you, everyone!”
+
+Malika smiled to herself as Ali made a point of doing the rounds, thanking all the mages who had passed on the staff so she could take it.
+
+“This is the last item,” Malika said, slowly picking up the white, leather-bound spellbook covered with glowing purple arcane runes. It was still smoking slightly, and several sections were clearly missing quite a few pages.
+
+The Tome of Endless Magic – level 260Nathaniel Sunstrider’s epic book of magic spells. Each page is a single spell inscription that can be cast with the infusion of mana like a scroll. Using a spell destroys the page, and it requires a Runic Sage to recreate the page. Spell Pages: 373 / 540.Quality: Unique.Value: 23,780 gold.Book – Artifact – Spellbook
+
+Any mage who wasn’t an absolute idiot wanted this book. Spellbooks like this were extremely rare, but not unheard of. The problem was that they required a high-level rune crafter and a dragon’s hoard worth of resources to make. Using any of the spells burned the pages, but anyone with mana could make use of it. Even with so many of the best spells burned up during the fight, it was likely to be a hard decision.
+
+But then, to everyone’s surprise, Ali spoke up, “Why don’t we put it in the library and make it available for everyone to study?”
+
+“That might be a good long-term approach, but with so many Death Knights on our doorstep, we really need all the strength we can get right now,” Vivian countered.
+
+“I have the dungeon shrine, and when we get back, I plan on examining it in Azryet’s domain,” Ali said.
+
+“What does that have to do with this, Ali?” Malika asked, gesturing to the large spellbook still in her hand.
+
+“Every time we fought Nathaniel, his spellbook was full,” Ali explained.
+
+“Wait, what?” Malika said, but the answer was obvious. “You think…”
+
+“Yes. Dungeon nonsense,” Ali said. “In life, Nathaniel was perhaps the most accomplished Rune Sage of this age and would have likely spent enormous amounts of money on reagents and time inscribing the spells to restore his book after each use. Once he became a dungeon, he could just respawn it.”
+
+“You think that’s in the shrine?”
+
+“I’m almost certain of it,” Ali answered. “If I can learn the imprint, I can make one for everyone here.” That certainly got everyone speaking excitedly all at once.
+
+Malika handed the spellbook to Vivian to give to Ryn later. As usual, Ali’s skills broke the rules. She was convinced that Ali was partially the reason why the guild’s looting decisions were so drama-free compared to what she had read about other guilds and groups. If someone had to pass up an item they really wanted, chances were that they could wait until Ali learned it and then just get a group together to go find it in the Dungeon of Knowledge and earn some experience in the process. It was only when they killed a boss too few times, like the Archmage, and she could not duplicate them, that things became really scarce.
+
+Like the legendary ring they had looted from Haverron, although technically, they could always go back and kill him again. Malika winced, though – that was not a pleasant thought. Far more recently, they had killed Nendir so many times that every archer had a legendary bow in storage for when they reached the proper level, and Ali had already distributed it to the Sylvan archers defending Myrin’s Keep, greatly increasing the security of the town.
+
+Finally, Malika sat down to examine her own levels gained.
+
+Eyes of the Soul has reached level 223 (+13).+130 attribute points.Martial Artist has reached level 100 (+5).Soul Strike has reached level 107 (+6).Healing Mantra has reached level 126 (+4).Perfect Body has reached level 79 (+4).Soul Armor has reached level 93 (+3).Enlightened Evasion has reached level 78 (+3).Divine Step has reached level 92 (+2).Second Wind has reached level 66 (+5).Clarity has reached level 79 (+4).Soul Sight has reached level 95 (+5).Dancing has reached level 24 (+2).Appraise has reached level 41 (+2).Soul Strike has reached a base skill level of 100.Soul Strike has advanced to tier two.
+
+Well, that’s an impressive haul. The system sure rewards punching up a tier! She was sure, even without asking, that Ali would have done better, but against a mage of Nathaniel Sunstrider’s power, she was satisfied that she had held her own against the best of the guild. Especially with the amount of damage she had been dealing near the end of the fight.
+
+She had predominantly used Soul Strike to steal Nathaniel Sunstrider’s mana through his impressive shields. Mana denial was her most reliable strategy against mages, at least those without powerful leech or recovery abilities, and she had clearly been rewarded for her efforts with an impressive increase of six skill levels. But her eyes lingered longer on the notification of her skill tier-up. At tier two, her ability would no doubt drastically improve the power of her skill for future fights. Flashing stamina into her fingertips and studying the result with Infinite Perception told her that her damage increase would be modest at best, but the amount that her skill would leech from her target would be incomparably greater. She couldn’t wait to try it out.
+
+Smiling happily, she set about spending her enormous haul of attribute points. In keeping with her long-standing strategy, she kept a small portion of the points for her least-used attributes. Keeping them ticking up ensured that she wouldn’t become an unbalanced fighter. She spent eight points improving her vitality, and three each on strength and intelligence. Then she spent thirty-four on dexterity, thirty on wisdom, twenty-eight on endurance, and twenty-four on perception.
+
+Immediately, her Soul Sight sharpened, and she smiled inwardly at the sensation of putting her hard-earned points to good use.
+
+The strategy post-mortem would take place when the guild returned to the guild hall, and while Malika and the mages were discussing the distribution of the loot, Calen carefully studied his notifications.
+
+Realm Hunter has reached level 222 (+13).+130 attribute points.Radiant Archery has reached level 113 (+7).Arrows of Brilliance has reached level 110 (+6).Motes of Light has reached level 84 (+4).Explorer has reached level 119 (+3).Blessing of the Dawn has reached level 91 (+6).Eclipse has reached level 61 (+4).Eyes of the Archon has reached level 88 (+5).Righteous Fury has reached level 73 (+4).Azrael's Wings has reached level 60 (+4).Mirage Armor has reached level 91 (+6).Bowcraft has reached level 18.Cartography has reached level 40.Basic Daggers has reached level 15.
+
+Thirteen levels were a lot for a single fight, and he was certainly happy with the growth he’d earned. His performance in the fight had been solid, but with the benefit of hindsight, he could already think of several tweaks to his strategy that would have improved things for him. Just a glance at his friends told him Ali and Mato had earned more than he had, but his growth was similar to Malika’s.
+
+Not bad, but I could do better. I should do better next time.
+
+His class was growing incredibly fast by any measure, but it had felt like a slog. Reclaiming Ciradyl had been bitter fighting for weeks, but these rewards were worth it. Especially seeing the Well of Souls and the grove of Ciradyl trees restored – that was more than he could ever have hoped for.
+
+And the betrayer was defeated.
+
+Finally, things could begin to go back to normal for the thousands of displaced Wood Elves. During the disaster, Elves had scattered to the four winds, and even now they’d been trickling back in by the handful every day. Not unlike many of the Trolls displaced from the conflicts at Meere Kada and Telim Gor. At least with the realm notifications, those the search parties had been unable to reach would know that the Well of Souls was restored, and maybe they would venture out from hiding.
+
+He hadn’t earned any major advancements this time, other than the impressive thirteen levels in his class. His skills had also grown, but the ratio between his skill level total and his class level had dropped below the threshold Nendir had used to evaluate him the first time he had shown up for instruction. A clear sign that he had been progressing too fast and needed to refocus on some training.
+
+Calen summoned his bow to his hand once again and examined it closely, but there was no maintenance needed. He was still honestly astounded by how effective Lunaré’s Lament was. Especially with Malika and Mato now both providing Soul and Nature vulnerability debuffs on everything they were focused on. The sheer amount of damage the bow could unleash, paired with his second-tier Arrows of Brilliance and those vulnerability curses, was mind-blowing.
+
+And after so many kills, most of the archers in the raid had one of the bows, at least stored away for when they reached the right level to use it. And I guess the rest of the guild will get them eventually, too, he thought, given that they’d fed three bows to Ali to add to her imprint, and now every archer boss over two hundred was using it. Of course, the exhausting number of wight kills had worked in his favor, earning him two phenomenal upgrades.
+
+He just wished the final two bosses hadn’t been Nathaniel and Nendir. He scanned the descriptions for his two new items written in his notebook.
+
+Precision Bracers of Endless Striking – level 220Finely tooled bracer made from the leather of a Highlands Raptor. It sports potent enchantments suitable for a master with the bow.+120 Dexterity.+96 Perception.+48 Intelligence.+220% to Accuracy.+5 to skill level of Ranged skills.11% chance to cast level 157 Double Shot on hit.Requirements: Dexterity 770, Intelligence 440.Quality: Rare.Hands – Bracer – Heavy Leather.Forest Ranger's Dragonscale Tunic of Heavy Striking – level 222This supple scale armor is crafted from the hide of a Forest Dragon. The mottled green scales blend exceptionally well in forest settings.Evasion: 3196.Resistance: 1864.+55% to Evasion.+43% to Resistance.+121 Dexterity.+96 Intelligence.+48 Perception.+245% to Critical Damage.Stealth skills are 15% more effective in forested environments.Requirements: Dexterity 777, Intelligence 444.Quality: Unique.Body – Dragonscale
+
+Wearing Nendir’s armor was bittersweet. Obviously, it was phenomenal equipment, but Malika had had to remind him that wearing a fallen ally’s gear into battle was a significant way to honor their memory and skills. It was an Ahn Khen custom, of course, but he found it resonated powerfully with him. Nendir would want him to be stronger and to slay the enemies of Ciradyl. The enemies of all living beings.
+
+He studied his skills, noting the breakpoints and balancing the numbers. His most significant gain would certainly be the twelfth arrow he could now summon for Multishot. He wasn’t nearly at Nendir’s level, nor even Lyeneru’s; however, with some more training in the Arena, he was sure he could push his archery up another several levels.
+
+He ran a few more calculations, and then, satisfied, he put away the notebook and began assigning his points. He had divided his attributes into three tier sets. His lowest tier was endurance and wisdom, and he spent six points on each. For his second tier, he allocated nine points each to vitality and strength. He needed strength for any bow upgrades, although what could be better than Lunaré’s Lament? Vitality, of course, would help keep him alive. The bulk of his points went to his top-tier attributes. Thirty-four to dexterity, and thirty-three each to perception and intelligence.
+
+There, all squared away. Calen got to his feet and joined the raiders returning to town through a brand-new Gate Ali had placed beside the Well of Souls.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

@@ -1,0 +1,99 @@
+---
+id: 01274ecc-a59f-516d-bfd2-cf7cc0dab92b
+page-type-slug: story-chapter-royal-road
+title: "Ch11 Dirty Work"
+slug: 0011-ch11-dirty-work
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 11
+ownLength: 1127
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211852/ch11-dirty-work"
+royalRoadId: "3211852"
+---
+
+“Why do you think we allow you to live here? This isn’t a free ride! You worthless runt!”
+
+“Mortals dream for the opportunity to work for immortals! I have given you an opportunity, a way to earn spirit fragments, but you have thrown it all away!”
+
+“Tang Min! If you will not even chop a single log, then you are no longer useful!”
+
+Loud yells come from the hut half a kilometer away, mixed with the sounds of loud slaps and cries for help.
+
+Today, Zhou Kang was in a horrible mood when he collected my chopped wood.
+
+He didn’t glance at me more than once, confirming the copper bell talisman around my neck really does have an aura-cloaking passive ability.
+
+With my new perspective, I could vividly feel the presence of the 2nd Level Qi Refiner near me today. His whole body lit up bright white in my consciousness, filled with far more qi than I currently have in my body.
+
+This sensation made my hair stand up when he was less than a meter away from me, but the feeling of danger disappeared the further away he got. Over 10 meters away, I couldn’t even tell that he was a cultivator. Neither my senses nor instincts can see that far.
+
+Now, I hear the sounds of bones cracking and a child’s whimpers, the release of the pent-up anger Zhou Kang was holding.
+
+Today, it doesn’t stop when the child falls unconscious.
+
+“Today, you’ll stay down! We have a new batch of replacements coming in tomorrow morning anyway!”
+
+An extremely loud crash comes after, a punch down at the ground of an unconscious boy. The trees block out most of the view, but the laughter that echoes out after makes me shiver.
+
+Silence fills the air for a few seconds, then another loud yell calls out in my direction.
+
+“Hey, Li Hao! Come over here!”
+
+I grit my teeth and look through the window of my hut to see the bow and arrow sitting up against the wall inside, but shake my head and decide against it.
+
+His voice is no longer angry; in fact, there is a calmness about it.
+
+I walk through the woods with slow and steady strides, stopping before the hut’s clearing.
+
+Zhou Kang stands over the headless body of a young servant boy. A punch mark, shattered skull, and pool of blood indent the earth where it once was. He wipes off his hands with the child’s shirt, then throws it onto the body.
+
+“I want you to clean this up. Far off past the stream, there’s a ravine where no servant camps are built yet. Throw this body and any identifiers off the edge; the wild beasts will take care of it.”
+
+He smirks and points a thumb back to the now-empty hut.
+
+“Then clean that place up. There will be a newcomer tomorrow. Whatever valuables this kid had are yours for the taking as payment for your dirty work.”
+
+A warm pressure fills the air as he looks me dead in the eyes.
+
+“Not a word about this to anyone. Just like our last little deal. If I hear a peep about this getting out, you’re next.”
+
+His eyes dart down to the dead child, then back to me, and a sadistic grin creeps onto his face.
+
+Without another word, the old man walks off down the dirt road toward the next hut further down the mountain, out of sight.
+
+–
+
+I look down at the mutilated corpse in disbelief for half a minute, but circulate my breathing and emotions to the point where they do not matter.
+
+In my past life, separating empathy from the equation when creating worldwide marketing campaigns that would destroy lives but make bigger profits was a necessity. It was a skill slowly learned over a decade in a world desensitized by flashing lights and provocative media.
+
+I can easily do the same thing in this life.
+
+Without another thought, I walk inside Tang Min’s hut and begin going through his belongings.
+
+There is a small piece of bread, two spirit fragments, a servant identification token, and a dirty change of clothes.
+
+The food and spirit fragments I throw into my storage space; the clothing I take out with me to wrap up his dead body so I can carry it easier. I shove the identity token into his pants pocket.
+
+Quickly, I pat him down and find a rusty knife at his waist, one that has rounded edges, almost like a butter knife. Yet, it feels heavier than steel; it is probably a family heirloom from whatever village he was taken from.
+
+I let it disappear into my storage, then bend his body into a pair of pants and two shirts tied together. With the axe he rarely chopped wood with, I carve out the ground that was stained with blood and flesh and pile it into the makeshift cloth basket too.
+
+I stop by my hut and grab my bow and arrow, placing them both on my back. I feel most comfortable walking through the woods with it. With cloth and bloodstained dirt combined, it is barely 50 kg, making my walk through the forest quite easy.
+
+I pass right by the stream, walking on top of a fallen tree that lets me cross it, and head further down the mountain toward the ravine Zhou Kang mentioned.
+
+Dusk has passed, and the sun begins to fully set, shedding a veil of darkness throughout the entire forest.
+
+With the dim moon rising and the increased perception that my breakthrough into the 1st level of qi refinement grants, I’m able to see quite clearly up to 100 meters or so in every direction.
+
+It takes no more than half an hour until the sound of whistling wind below hits my ears, and I spot a steep drop-off in the forest. I make my way to the edge and look down to see a cliff that falls at an intense slope further than I can see. Left and right, the ravine goes on indefinitely, and the howling sound traveling through it makes it seem at least a kilometer deep.
+
+When I throw the evidence of Zhou Kang’s murder over the edge, it takes a number of seconds before I hear an echoing thud. I let out a sigh of relief, then turn around and begin making my way back to the servant camps.
+
+However, after less than 10 paces, another gust of wind rushes through the ravine.
+
+My nostrils flare up, and I can’t help but turn my head in the direction a sweet scent comes from.
+
+It makes my meridians quiver and warm up. There is something valuable in this untraveled patch of forest.

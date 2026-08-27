@@ -1,0 +1,159 @@
+---
+id: 331c5a2a-f602-5957-bbad-78b28ca07ebd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 393: A Drop-In Visit"
+slug: 0430-chapter-393-a-drop-in-visit
+partOf: dungeon-of-knowledge-complete
+position: 430
+ownLength: 3368
+unit: words
+ownProgress: 3368
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2635323/chapter-393-a-drop-in-visit"
+royalRoadId: "2635323"
+markedReadAt: "2026-06-29T20:26:36.183Z"
+---
+
+Ali peeked through the tiny crack in the rock, peering down into the gloomy passage below. To say that she looked was a little incorrect – she was looking, but using the enhanced dark vision of her kobolds rather than her own natural but much weaker vision.
+
+The sounds of talons clinking off rock and the draconic chirping of unfamiliar kobolds carried to her ears, strangely distorted by the echoes of the tunnel through which they walked. She held her breath, hiding far back enough that her scent should not carry to the patrolling monsters.
+
+Three of them came into view, feral and stooped, even more so than normal kobolds. Demonic. She was beginning to form a theory that connected a lot of unanswered questions for her. Kobolds, it seemed, had likely originated on her side of the rift, perhaps being passed from the Ruins of Dal’mohra to the Emberforge Mines, and thereafter into the rift. Her reason for concluding this was the Pit Lord, Maalgaroth – or more precisely, his Pit Lord’s Corrupted Blood. He seemed to act as a gatekeeper for the rift, and any kobold that encountered that monster would have been killed or turned into a corrupted thrall. Either way, the dungeon had probably learned to make the corrupted kobolds that way.
+
+The Corrupted Fire Drakes, though, threw a bit of a wrinkle into her theory. Clearly, the final boss of the Emberforge Mines must have come from this dungeon, somehow stranded in the other realm, or discarded as a dungeon break to form a new dungeon in the mines. But where the original drakes had come from was still an open question, as was the presence of uncorrupted Armored Drakes and dragonets in the mines.
+
+She listened intently to the chirping and clicking of talons as they faded away into the distance. She had uncovered an almost infinite warren of tunnels and small caverns down here, but her explorations had been constantly foiled by the presence of patrols like this one, and now she was growing desperate. Her current strategy of hiding was providing her with absolutely no information, and no clues on how she might even begin to figure out how to return home.
+
+But corrupted demonic kobolds were not the most terrifying things patrolling the passages.
+
+Hiding in her hole up through the roof, she waited, but it wasn’t long before she felt the prickle inside her head. She quietened her mind, trying desperately not to think anything just in case the monster lurking in the darkness below had a way of detecting her thoughts.
+
+Observer – Demon – level 87 (Mind).
+
+“Go,” she whispered in her mind. There was a soft rustle as her Abyssal Stalkers and rogues moved, swarming out of the hole and into the tunnel below, bringing Ali a close-up view of the mind magic demon. Its thick leather hide gleamed in the powerful vision of her kobolds, broken here and there by bony protrusions and horns, and in its mouth, long, wicked fangs dripped with some kind of dark ichor. The smaller eyes arrayed around its orb – Ali couldn’t decide if it was the head or the whole body – darted this way and that, restlessly searching. It reeked; a strange caustic odor that reminded her of ammonia.
+
+Her minions crept up on the unwitting horror, but suddenly its many eyes snapped around and it let out the horrendous screech as it somehow detected her forces. The intricate forms of curses rippled outward from the demon, but she clamped down on the mind of the Abyssal Stalker on the roof above, and it fell, landing on the Observer with a powerful scything strike and the unleashing of Blood Shock. The screech abruptly cut off as her stalker’s attack stunned it, and then the rest of her attackers struck with blurring blows, simultaneous strikes of Blood Shock, and Deadly Poisons from the barely seen Darksteel Daggers she had made.
+
+Ali held her breath while dark blood splattered against the walls of the tunnel, the gruesome results of her minions carrying out her orders. Chaining Blood Shock was her strategy for dealing with the psychic scream and its terrifying ability to call all nearby demons. Daggers flickered in the gloom, trailing shadow magic. Scythe-like spider limbs sliced, and blood continued to pool on the ground as the almost silent assault drew out longer and longer.
+
+How tough is this thing?
+
+Somehow it freed itself from the stunning attacks and screeched loudly, assaulting Ali’s mental defenses with the mind-magic-laden attack once more and making her stumble. With reactions as quick as lightning, her kobold rogue drove his dagger home into the thing’s large central eye, and the sound cut off as suddenly as it had begun.
+
+“Hide,” she commanded. There was nothing she could do about the corpse and blood, at least with the bare few seconds she had, but all her minions vanished into the shadows as the chirping cries of alarm and the scratching of taloned feet on rock echoed through the tunnel as the patrol rushed back.
+
+As soon as the demonic kobolds charged around the corner, they slid to a sudden halt, chittering and pointing at the corpse lying on the ground; a perfect opportunity for her little assassins to strike. It was over in a few minutes, fresh blood dripping from the walls and corpses falling to the ground. To Ali’s intense relief, she heard no more demons answering the sudden but aborted screech from the observer.
+
+Your group has defeated Baelok Descrier – Demon – level 87 (Mind).You have defeated Infernal Mage – Demonic Kobold – level 84 (Hellfire).You have defeated Infernal Warrior – Demonic Kobold – level 79-81 (Blood) x2.Your Dagger Rogue has reached level 86.
+
+She hid there in the tunnel for quite a while, but nothing else seemed to have heard the commotion, so eventually she lowered herself into the tunnel, growing a trail of moss along the wall as she went. Carefully, she deconstructed all the corpses and the blood, just in case, and then sent her minions fanning out to scout out both directions.
+
+Now, where did you all come from?
+
+The tunnel continued, winding around protruding mineral deposits and denser black stone, broad in most places, but some areas were narrow enough that she was glad she had only made smaller minions. Well, except for her, she thought, eyeing her Subterranean Brood Queen who crested through the floor, surfing the rock with her earth-affinity movement skill. She followed the tunnel, keeping the thread of moss and her domain alive as she went, until she began to see some light up ahead. A strange dry heat wafted through the tunnel. She slowed her advance, sending her stealthy rogues and stalkers out ahead.
+
+She gasped as it came into view; a cavern so large it staggered her mind. Her imagination came to a grinding halt. Her entire forest cavern – no, her entire dungeon – could have fit into a small corner of what she found herself staring down at. Her minions crawled out of the tunnel, emerging onto a broad ledge carved high up into the cavern wall. She stared down at a floor that must have been almost a kilometer below, at a scene of bustling activity. Everywhere, rivers of what looked like dark blood flowed, falling from cracks and holes in the walls and cascading down into pools below, enormous waterfalls that roared faintly in the distance. Black fires that had to be the size of small towns blazed below, and among it all, the rocks crawled with demons of every kind – many of them entirely unknown to her. Observers hovered everywhere, imps darted in and out of the fires, while strange bat-like demons soared on the currents and updrafts.
+
+Her eyes caught something huge crawling around below. Is that Maalgaroth? But although it was definitely a Pit Lord, this one was more purple instead of gray, and it carried two giant blades instead of a glaive. Maalgaroth’s ugly older brother?
+
+Everything in Ali’s being screamed at her to run. It was an effort of sheer willpower to do it silently. She fled, leaving the way she came, hastily tearing up her moss as she fled. She launched herself upward and into the hole she had made, waiting only long enough to let her minions join her before she had her Brood Queen block it up again. Only then did she allow herself a moment to breathe, trying to still the trembling in her hands.
+
+Holy shit. She had not imagined the immensity of the demon dungeon. Even having seen it, she could scarcely comprehend the scale of what she had just witnessed. It was so vast it would probably have taken her days just to count all the visible monsters, and if she alerted one of the observers, … well, she didn’t want to imagine that at all. Not one bit.
+
+A swirling gust of mana in the tunnel behind her caught her attention, and she snapped her head around to find herself staring directly into a huge, cloudy eye as the mouth below it cracked open to reveal dripping fangs.
+
+Aah! In the confines of the tunnel, the screech was deafening, and Ali barely managed to summon a barrier to protect her from the lunging snap of its maw before the potent mind magic drove her to her knees.
+
+“Dig! Get us out of here!” she yelled, summoning a second barrier as the grinding of powerful teeth turned to the splintering crunch of her barrier giving way. She didn’t even have to say anything; her rogues and stalkers attacked with raw fury, leaping to her defense in an instant. The screech cut out suddenly as a Blood Shock and Ambush combination stunned the Baelok Descrier, but, unable to perfectly set up the ambush, the stun didn’t last long enough to lock the demon down. Mana flickered and swirled in the close confines of the tunnel.
+
+That’s… a teleport spell! She identified the magic instinctively and her heart raced with renewed panic. The floor caved in behind her, and she managed to throw herself down the hole her Brood Queen had just excavated, barely in time as angry demons began appearing in the tunnel with roars and flickering hellfire, answering the Descrier’s call.
+
+Ali’s back hit rock on the way down and she bounced, leaving an expanding patch of moss where she had struck. Disoriented from falling, the sudden impact, and the lingering effects of the mind-magic attack, she hit another protruding rock with a leg, hearing a loud snap. Another patch of moss bloomed, but she felt nothing. She struggled to get her bearings and realized she was falling faster than she had imagined. Somehow, the Brood Queen had understood her urgency and had raced ahead, leaving an entirely too steep winding tunnel that spiraled and twisted down into the depths.
+
+She summoned a barrier, but she bounced off that and careened into the wall, and then smacked into the second barrier, briefly blacking out from the impact. She came to in a daze before her head smacked an outcropping that zipped by and knocked her spinning into the curved wall of the tunnel, lit only by the glow of her Grimoire that was trailing her headlong, crashing, tumbling fall down into the darkness. Another barrier, another impact. She struggled to breathe, but she had to slow herself down, so she desperately hung onto her consciousness and summoned more barriers ahead of her in the tunnel while she searched forward for her Brood Queen using her connection.
+
+Your group has defeated Baelok Descrier – Demon – level 93 (Mind).
+
+She bounced back and forth off the angled barriers, but her precipitous pace began to slow, one painful impact after another. With a glance, she noted the dead observer in her domain-filled tunnel above, but her forces were being rapidly decimated by a horde of demons that were beginning to leap down the tunnel to pour after her in a living flood.
+
+Desperate now, she teleported, switching places with her Brood Queen. “Fill it!” she shouted. But her teleport had swapped her to the bottom of the deep hole, and the enormous rock beetle hung suspended in the air right where she had been, directly overhead.
+
+With all the digging, the Subterranean Brood Queen had proudly filled her armor with tons of rock and ores, and it was that entire mass that suddenly fell toward Ali.
+
+Shit! She summoned a barrier above herself and curled herself up into a ball, arms wrapped around her head in a futile effort to make herself even smaller. The impact was deafening as the beetle crashed through her barrier, but to her stupefied astonishment, it managed to deflect the enormous crushing impact, shifting the Brood Queen to the side, where it smashed into the rocky floor beside her. Ali took one breath, staring dumbfounded at the shards of her barrier and the still rock beetle. It twitched an armored antenna and then its legs reached out, raising its enormous bulk slowly. A loud crack echoed through the tunnel as the rock beneath her shivered and trembled. Another crack, and then a roar of falling rock as the entire floor fell out beneath her.
+
+She summoned a full sphere of barrier magic around her as her body slammed up against the bottom of her egg-shaped protection. Rocks clattered off the golden magic, falling into the darkness below her, and finally everything fell silent, save for the soft swish and plink of sand and pebbles raining down from above.
+
+Her Brood Queen rose, shaking off rubble and dirt below her, and began scaling the wall, bristling with the intent of carrying out Ali’s last order still firmly embedded in her mind. Even though the wall was perfectly sheer, as if cut cleanly by an overly perfectionist earth mage, the beetle queen had no trouble scaling it. In seconds, she vanished up into the hole above, but Ali immediately noticed two very important facts.
+
+Firstly, her domain was rapidly expanding down into the tunnel, skipping from mossy patch to mossy patch that she had accidentally summoned upon every impact and contact with the walls.
+
+Also rushing down in its wake, she caught sight of a horde of gleaming malevolent red eyes.
+
+But it was the tunnel she found herself in that truly caused her to panic. It was perfectly carved with a neat square cross section, cut from the rock by some immense magic and leading off in a perfectly straight line in both directions till it reached distant intersections. Filling the tunnel was a dense mana, as thick as soup. Perfectly arranged into a dense crystalline lattice, she recognized the softly lambent glow of holy magic delicately entwined around geometrically arranged formations of pure black that, after studying Mato’s claws, she immediately recognized as void mana.
+
+Another dungeon! What the heck?
+
+The demons were tearing down the tunnel – her only escape route – and she had only her Brood Queen left. Worse, she could still see her domain flowing down the tunnel on an imminent collision course for this powerful new dungeon’s domain.
+
+She had no choice. It was either lose everything or press onward. Against her better judgment, she reached for her domain and twisted, bending her mana aggressively, forcing it to match the domain she had unwittingly fallen into. She wrestled with it until it finally snapped into place, and not a moment too soon. Her mana poured down into the tunnel, glowing in her mana sight, and right as it passed, the Brood Queen closed the tunnel on the shrieking horde of demons clawing their way down toward her.
+
+Ali waited breathlessly while the seconds ticked by. Nothing teleported past the barrier. No sudden dungeon rage crashed into her mind. After she had waited for more than enough time, she reached her awareness up into the tunnel to the remnants of her domain that had been cut off by the hastily summoned rock blockage. On the other side, she found none of the observer demons remaining, and the horde had dispersed. Mostly, they seemed to be eating her mana-rich plants. She flexed her skills and deconstructed everything beyond the blockage, corpses, moss, mushrooms – everything her skill would allow. The demons milled about in the tunnel for a while, and as her domain faded, she saw them slowly beginning to leave.
+
+Her Grimoire flared with energy and light, and then she heard a chime.
+
+Variant: Baelok Descrier added to Imprint: Demon.
+
+Ooh, interesting!
+
+Mato gathered up all the pots and pans, the aftermath from making dinner for so many people. He made sure each was properly cleaned before he stored them, and then he carefully placed another log on the small cookfire to keep it going. It promised to be a cold night out in the forest.
+
+The dull ache that had begun in his chest a few hours ago had grown to be quite an uncomfortable throbbing, and for some reason, he couldn’t get the stench of undeath out of his nostrils.
+
+“Goodnight, Mato,” Malika said. “Don’t forget to call me for the second watch.”
+
+“Nite,” he said, rubbing at the ache, but it was far too deep for him to reach.
+
+“Mato? Are you ok?” Malika asked, suddenly pausing halfway into her tent.
+
+“I’m fine,” he said, removing his hand and smiling at her.
+
+“Ok,” she said, hesitating for a moment before shaking her head and dropping her tent-flap behind her.
+
+He took a deep breath, finishing his work, but the throbbing ache continued to grow.
+
+What is it?
+
+But nothing unexpected showed on his sheet.
+
+Must be heartburn, he decided. Although nothing he had eaten should have disagreed with him so strongly.
+
+At that moment, the soft sound of his chime went off in the back of his mind.
+
+You have been afflicted by Touch of Undeath+1 Death damage per minute.-1 Mana per minute. Corruption
+
+Suddenly, he knew what it was.
+
+He had hesitated when he had first discovered the corruption, unwilling to remove his mentorship with Lira even after her death and subsequent raising as an undead. He had even ignored the slow trickle of mana loss that came with it. But tithe enchantments like his mentorship involved a two-way mingling of mana, and the exposure to her mana was corrupting him from within.
+
+He stared at the enchantment, hesitating even now. Mentorships, like godly patronages, were almost always one-time things. Rescinding them was a permanent separation, which was why he had hesitated thus far. That, and he still grieved her loss.
+
+Why is it even still there?
+
+It was the question he should have asked first. Malika’s mentorship with Rezan had vanished as soon as the Elder had died – she had told him it was how she knew. Yet Lira’s mana still infected him, corrupted now, spilling over into his own mana and tainting him with the essence of undeath. Still, he couldn’t bring himself to remove it – he burned with the desire to know why it hadn’t vanished with her death like it should have.
+
+He struggled with it, gripped by profound indecision, wavering back and forth like he was swinging from a hook, hovering between his revulsion for the undeath and the corruption spilling over into him, and his commitment to Lira, and the powerful desire to uncover what was really going on.
+
+Maybe I’ll ask Calen about it tomorrow. He always has good ideas, he decided, pressing at the ache in his chest in a futile attempt to relieve the pain. It wasn’t like the corruption was life-threatening – at least, not yet. Finally, when he was done with his cleanup, he found an open spot of earth close enough to the camp for his aura to do some good and transformed into his Tree Form. Inwardly, he sighed in relief as the encroaching undead corruption immediately began dissolving away under the purifying influence of his Sanctuary.
+
+I’ll find some answers tomorrow. I owe her that at the very least.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg
+
+https://topwebfiction.com/listings/dungeon-of-knowledge/

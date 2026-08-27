@@ -1,0 +1,139 @@
+---
+id: 02257c31-c9b9-5a1f-83a5-929fc6c5f33f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 273: Perspectives (Part 2)"
+slug: 0307-chapter-273-perspectives-part-2
+partOf: dungeon-of-knowledge-complete
+position: 307
+ownLength: 2017
+unit: words
+ownProgress: 2017
+publishedAt: 2025-06-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2339990/chapter-273-perspectives-part-2"
+royalRoadId: "2339990"
+markedReadAt: "2026-06-29T20:21:41.271Z"
+---
+
+Naia’s membrane shivered with the frustration of being forced to feel her entire array of slimes slowly crumbling against the onslaught of the plants. Sadness soaked through her being. For days, she had struggled to defend the passages and caverns below her dungeon, and every time she made new inroads, the strange fungus monsters, mutated trees, and aberrant flowers like the Mana Eater would slash and eat her slimes and oozes.
+
+If only I could heal.
+
+Ali-friend could do it, and it made her strong. Naia’s oozes always died to cumulative damage, and then, without fail, she would be pushed back, all the way to her Lava Lurker boss which Ali-friend and Furry-bear had helped her to make.
+
+It was here that she always made her stand, the searing heat from the aura of lava magic always managed to hold back the hordes, burning them to cinders before the damage could kill her boss. So many times she tried, but she was never able to establish her domain further down in the caverns – she was always crushed as soon as she made progress. The Slush Ali’s trolls had taught her had been incredibly useful, slowing and freezing the plants, but it was never enough.
+
+Naia slipped through the mana-crevice and spilled out of the Brine Ooze boss in the upper reaches of her cavern system. The cavern with the enormous lake and waterfall, not the real upper cavern which she still maintained as a fake low-level dungeon to fool the humans. When she had switched it back from the Slush, she had also taken the opportunity to make it a level higher.
+
+Smarting from her endless losses, she crawled up the wall and snuck into one of her favorite hiding spots on the roof, and twisted her shape and composition to match the rock. She liked to come here to think, although she was beginning to like Ali’s library as a place to think almost as much. She watched the plants dying to her lava chamber as they tried to push the boundary back, but they had been doing that ever since her boss had been created, and it hadn’t died yet.
+
+As the waves of plants came and burned, Naia switched her attention to the oozes she had left in the library and noticed a sizeable gathering near the teleportation circle. She struggled to recognize the humans, but she knew the Goblin with the hard, metallic-tasting clothes and shield – and the strange one who commanded the dead.
+
+She squashed herself deeper into her hiding hole. More losing…
+
+Then they all stepped through, appearing in the cavern below her.
+
+“Ok, remember the strategy,” one of the humans said, the one whose mana reminded Naia of trees. “Aiden isn’t here today, but we’re higher level now. Let’s show him we can do it.”
+
+Naia held as still as she could, mimicking the rock while she observed. Ali had asked her not to swarm these people, to help them train, and so she would. But she was fed up with losing and huddled morosely in her hollow desperately hoping her Brine Ooze would send them packing.
+
+But from the start, she knew her Brine Ooze would lose. They were simply too organized. Too prepared. Too strong. The Goblin stood in front, surrounded by holy fire while her oozes attacked him, but instead of dying, the shaman standing in the back kept healing him. She shivered again with frustration, but fortunately, nobody saw her hiding spot.
+
+Healing. It’s always the healing…
+
+The rest of them attacked, along with a horde of undead monsters and some giant spectral thing, and she knew her Brine Ooze was doomed. If it was down in the depths against the plants, she would have thrown every available slime at them in the hopes of winning, but she had promised.
+
+She watched in silence and inaction for several minutes while they whittled away at her Brine Ooze. She had been so happy when she made it. She had felt strong. Powerful. But the reality was different. She was weak. If she couldn’t find a hole to hide in, everything would kill her.
+
+Maybe I shouldn’t have followed Ali-friend through that hole. The world outside is hard.
+
+Suddenly, the sound of her chime rippled across her membrane.
+
+Slime Mutation has altered your Brine Ooze.Imprint: Sacred Ooze completed.
+
+Naia froze in surprise as her Brine Ooze, now almost half dead under the onslaught of the adventurers, began to glow from within with a beautiful new mana – mana just like the fire the Goblin wielded.
+
+Sacred Ooze – Ooze – level 52 (Holy / Water)
+
+A rush of new knowledge filled her mind, accompanying the sudden increase in wisdom and intelligence, and she knew everything about her newest ooze. Immediately, she launched an area spray of bolts of holy water that struck all the attackers at once, sizzling and burning as they drenched the skeletons and the giant specter.
+
+“Watch out!”
+
+“It changed!”
+
+“Holy affinity!”
+
+Yells rang out, rippling through the air and Naia experienced a rush of excitement as they seemed to be panicking at the sight of her beautiful new ooze.
+
+But it had more abilities.
+
+It’s healing!
+
+Naia couldn’t believe it. She could feel it filling up with health as the new holy-affinity mana surged.
+
+And… what’s this? Examining her new ooze as she settled into it, she bubbled off several protrusions, dropping tiny slimes into the holy fire that still burned around the Goblin’s feet.
+
+Sacred Ooze – Ooze – level 2 (Holy / Water) Swarm x4.
+
+She extended her awareness into the tiny bubbles blobbing on the ground, sending them crawling outward, perfectly camouflaged in the holy fire until they reached the nearly dead minion Brine Oozes. On contact, the tiny sacred oozes popped, severing contact with her mind. But their essence was absorbed through the membranes of the Brine Oozes, and she quivered in excitement as their health skyrocketed.
+
+I can heal! Naia immediately spawned off four large Sacred Oozes.
+
+She froze, on the brink of raining a deluge of healing down upon her boss to save it. I promised Ali-friend, she thought, watching sadly as the adventurers regrouped and slowly began overwhelming her boss even under the new power of her healing. She trusted Ali-friend, and now she had her beautiful Sacred Oozes with their healing magic, and although she hated losing, she must continue to trust her.
+
+Suddenly, a powerful message slammed into her mind, causing her to quiver helplessly for a few seconds before she recovered.
+
+Your mentor has advanced to Dungeon of Knowledge.
+
+Ali-friend got stronger! she thought, excited for the surprise notification and what it meant.
+
+I’m stronger, too! Her mind shifted down to the lava chamber, still under assault, and she forgot about the adventurers. They could have their win; she had bigger things to kill.
+
+She squeezed her body through the mana crevice again, appearing on the ceiling above the lava chamber. She sensed the vibrations of the stomping, crawling plants. The beetles. The aberrations. I can heal! Naia began spawning oozes, summoning the remnants of her scattered forces, and sending them slither-crawling down the walls to attack the plants. Along the ceiling of the incoming tunnel, she drew up her new Sacred Oozes, dripping tiny slimes down onto her attack slimes, tracking the holy mana as they unerringly sought out the most damaged slimes and oozes to heal. Under the constant onslaught of Creep Spore explosions and plant attacks, her oozes endured. Against all expectations, they did not die. And all it took were the tiny little holy bubbles.
+
+No more losing. Naia spawned a Devouring Consumption, unleashing it on the corpses of the tiny, spent Sacred Ooze heal-spawn and the remains of the Creep Spores and cheered as it grew rapidly larger while her roof-bound oozes dumped a healing rain on it from above. Ali-friend is best!
+
+Tala sat, basking in the sunshine in one of her favorite spots – on the roof across from the Town Watch headquarters, studying the people scurrying about like insects in the streets below from the comforting safety of her stealth skills.
+
+She had grown.
+
+Her half-baked plan – she could admit that now; see it for what it was – had worked. She had earned an apprenticeship with Indacus Argyle. She grimaced.
+
+Indacus Argyle.
+
+She had believed Kieran Mori to be a harsh master, but Indacus Argyle had nearly killed her three times – in the first twenty minutes of his brutal training. And that was just his warmup. He kept her on a relentless schedule of jobs that were far past her abilities, and it was only her exceptional wit and cunning that had kept her alive. But the results… So worth it.
+
+Her eyes dropped back to the object held in her hands. It had been fashioned by the archmagus himself from polished black stone. The glow of the runes etched on its surface had dimmed when its owner, William Turner, had breathed his last gurgling breath around the blade of her dagger in his back.
+
+Returning to Myrin’s Keep after Southport and the work of the Shadow Council was like returning to the kiddy pool after learning to free dive in the Leviathan Depths. But it was William Turner’s death that had pushed her the last way past level eighty.
+
+The shrine was a handsome prize, rare enough that it had no price on any market she knew. She had almost been tempted to take ownership of it, but Mori had given her strict instructions to deliver it to Jax Hawkhurst’s residence while the town council was in session – a silly precaution to ensure that all the most powerful members of the town were out of the way.
+
+As if they could catch me now.
+
+She stored the shrine, the heavy stone taking up quite a lot more space than it should have in her ring enchantment, and sprinted across the roof in utter silence, taking the ‘thieves highway’ across town to the Hawkhurst estate. The council should be in session by now, and she had a delivery to make, and then a handsome pile of gold to pick up from Mori.
+
+She twisted her mouth into a scowl. For all her progress, she had still not been able to identify Kieran’s level. I’ll just have to keep playing the nice apprentice for now. However, there was one personal task she was looking forward to, and that was taking care of Aliandra and Malika. For so long, she had lost sleep over the possibility of them letting her secret slip. She had agonized over ways to silence them. She had failed to have them assassinated. Having leaked her own identity to manipulate Mori, she no longer worried about any of that. Still, it was personal – unfinished business. She grinned in anticipation of sliding her dagger between that Ahn Khen girl’s ribs and unleashing Mutilate with Ambush to the sweet rush of blood while her friends screamed. Then she would cut down that annoying Fae and baptize her new daggers in her golden blood. They wouldn’t even see her coming.
+
+[Zone] Dungeon of Knowledge has advanced to the second tier.
+
+Tala stumbled, losing her footing on the shingles at the deafening sound of a gong that reverberated through her mind and shook her bones. She shot out a hand, barely catching herself from slipping further and falling from the roof.
+
+What the fuck?
+
+Then she read the zone notification.
+
+How the fuck?
+
+She pulled herself up, and her mood instantly soured. How the hell did she reach one hundred and evolve already? I should have killed her down in the dungeon that first day, she thought, wishing for the thousandth time that she hadn’t left it to the wolves. A simple dagger to the ribs would have saved her from so much frustration and the humiliation of chasing someone who always seemed to be one step ahead.
+
+I need to level up.
+
+Argh! Fuck. Stupid! FUCK!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

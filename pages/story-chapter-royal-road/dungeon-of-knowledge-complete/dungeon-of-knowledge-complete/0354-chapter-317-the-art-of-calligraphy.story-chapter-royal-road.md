@@ -1,0 +1,111 @@
+---
+id: 41669e28-40ac-57d6-b702-a7f62f3f1d90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 317: The Art of Calligraphy"
+slug: 0354-chapter-317-the-art-of-calligraphy
+partOf: dungeon-of-knowledge-complete
+position: 354
+ownLength: 2265
+unit: words
+ownProgress: 2265
+publishedAt: 2025-07-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2451426/chapter-317-the-art-of-calligraphy"
+royalRoadId: "2451426"
+markedReadAt: "2026-06-29T20:22:34.858Z"
+---
+
+Malika glanced up from the volume of the Nine Paths she was studying to find Ali floating nearby, looking at her as if trying to decide if she should interrupt or not.
+
+“What’s up, Ali?” she asked, smiling.
+
+“I was wondering if I could get you to teach me some calligraphy?” Ali asked.
+
+“Why do you want to learn that?” Malika asked. It was a skill she had learned early on, a way to practice discipline and focus, but one which honestly found little synergy with her skills and current lifestyle. She did enjoy practicing, though.
+
+“Donella said that it would help me learn to inscribe scrolls, and both Rezan and Val’korr recommended it if I want to learn their runic tattoos,” Ali answered. “I can come back later if you’re busy, I don’t want to interrupt your studies.”
+
+“It’s fine, I don’t mind,” Malika answered, rummaging through her storage ring in the back of her mind and retrieving her pens and ink, and some blank practice notebooks. Carefully, she laid the materials out on the table, and then, consulting with Ryn briefly, she found a couple of introductory books on the shelves of the library and added them to the spread.
+
+“I’m not particularly skilled at it, but Calligraphy is easy to learn,” Malika explained. “It is both writing and art, and it just takes a lot of practice to get any good at it.” She smiled as she saw Ali leaning forward across the table with a look of excitement and fascination on her face.
+
+She opened one of the books to the example letters and uncorked the ink well, handing Ali one of her pens. “Here, try this pen. When you get good, we will need to buy some magically imbued ink, but for now, this is good for practice.”
+
+Then she began to demonstrate, showing the correct way to hold the pen, how to use the ink to avoid smudges, and settled into the simple relaxing flow of inking the ornate letters on the practice parchment.
+
+An hour later, when they were cleaning up after Ali had unlocked the skill, her chime sounded.
+
+Calligraphy has reached level 9 (+3).
+
+Wow, three levels? Is that the effect of the dungeon? Or the library? Who would have thought making decorative squiggles could be such fun? We should do that again.
+
+After the stress and panic of the battle at Ciradyl and the soul-weary gloom that pervaded the guild and the refugees camping in her ruins in the aftermath, Ali found herself instantly entranced by the simple pleasure of sitting safely in the library, learning something new. Gone were the desperate struggles of saving lives, barely surviving the attacks of immensely powerful elementals or undead. For a precious few moments, she put down the wearying task of comforting the grieving and relegated the sight of unimaginable destruction to her memories – something to take up again later, once she had a little time to herself to recover. Instead, she felt the pulse of her mana responding to the simple but effective instruction Malika provided.
+
+Ali had set herself up with every advantage at her disposal: her dungeon tithe, helping with knowledge; the runic enchantment, boosting all learning within the library; and her own Study Trance skill, so it was no wonder that it took her less than half an hour to unlock the new skill.
+
+You have learned a new general skill: Calligraphy.Calligraphy has reached level 1.Calligraphy – level 1You are proficient with artistic and precision rendering of letters, script, and words. Art, Knowledge, Mastery, Dexterity, Intelligence
+
+She smiled inwardly at the sight. Obviously, the word ‘proficient’ spanned an enormous range of skill, and she would need to practice diligently to grow her abilities. Still, it felt like a sizable achievement to finally take this important step toward her runic magic goals.
+
+Instead of stopping Malika, Ali simply returned to her practice, listening carefully to her friend’s instruction and corrections. With this new skill, she was certain she would be able to unlock the secrets of inscribing scrolls, and maybe even get Val’korr or Rezan to teach her the beautifully artistic runic tattoos they both displayed.
+
+Calligraphy has reached level 3 (+2).
+
+***
+
+Ali cut off her mana sharply, completing the final delicate rune, and etching it into the short, finger-thick crystal rod resting on the table in front of her. “Done,” she said, and leaned back, stretching her neck. She was rewarded with several audible pops. She turned the finished piece over in her hands a few times examining it, but she could find no obvious flaws.
+
+Novice’s Wand of Arcane Bolt – level 5 (Arcane)A plain quartz wand, crafted for reliability and function.+12 Intelligence.Charge: Cast level 5 Arcane Bolt in a ten-second channeled burst per charge. Charges: 0/11.Requirements: Intelligence 18.Created by Aliandra Amariel.Main Hand – Wand – Quartz
+
+“Not bad,” she said, holding it up to the light, earning several impressed-sounding chirps from the half dozen Glitter Dragonets perched on the table or on top of the piles of books, belching up little balls of light every few minutes. Sure, she could have planted a few light-affinity trees, but the dragonets made good study companions.
+
+She set the wand aside on a small stand to bathe in the dense domain mana of the library, next to all the others she had made. Obviously, it would be much easier to just learn the imprint for the wands and then create them with her Grimoire, but she found she enjoyed the process of creating: sculpting the wand out of her materials, fitting the tiny sliver of magicite, and inscribing the runes herself. Also, crafting the wands manually saved her a precious Grimoire imprint.
+
+Although, I probably want the imprint at some point. When she had learned the potion imprint, her domain had begun resummoning all her humanoid monsters with a small semi-random assortment of potions. Presumably, learning a wand imprint meant her monsters who were capable of using them might be respawned with whatever variants she knew.
+
+Still, her current approach was great practice for her skills, particularly getting used to the unique and subtle synergy between her new Calligraphy skill and her Runic Script, and she was sure the novices and recruits in the guild would appreciate the option to buy something useful. She knew she would have loved to have any one of these wands when she was just starting out.
+
+Clarence shuffled on the table, startling the dragonet that had chosen him as a perch, and the little golden creature took to the air with an upset squawk.
+
+Ali ignored their antics, surveying her creations. The first row was a set of differently colored sparkling quartz rods with a glow coming from the handle where she had inserted tiny slivers of arcane-affinity magicite. The runes for Arcane Bolt or Inspiration remained visible under mana sight, etched along the length of the wands. Beside them, she had crafted several wands more appropriate for bronze-ranked adventurers; Grasping Roots or Restoration spells worked into the polished wooden surfaces she had sculpted from Lirasian Oak using Domain Mastery and her wood imprint. Lirasian Oak, she had discovered, held her nature-affinity runes particularly well, and she had finally come up with the best configuration of materials and rune structures, distributing Restoration wands to all her Kobold acolytes.
+
+Restoration worked much like a potion when cast on a person, but it had the substantial advantage that, unlike trying to take two potions and having one replace the other, restoration could work simultaneously with a mana or health potion without interfering. Better yet, in the dense mana of her domain, the arcane or nature magicite powering these bronze-ranked wands was recovering a charge every half hour or so – which would make them extremely useful for most of the lower-level groups trying to grind experience against her monsters. The level five wands she had made earlier were almost fully charged already.
+
+A sudden prickle of combat magic far from the challenge arena caught her attention, and she sent her awareness soaring across the Forest Cavern, jumping from monster to monster until she reached the disturbance.
+
+Again?
+
+Below her, at least from the perspective of the bat she was using to see, an unfamiliar raid group was tackling her Timber Wolves. The trail of corpses leading through the river’s ravine-like outlet proved that they had entered the dungeon from outside the south wall of Myrin’s Keep, skipping the entire sewer – perhaps even skipping entering Myrin’s Keep.
+
+She studied the strangers carefully. They were nine in number, all wearing matching expensive gear they could not have found in Myrin’s Keep, and all of them were above level thirty. Silver-ranked adventurers? But from where? They all wore similar guild tabards, but the embroidered emblem of a flaming sword across a kite shield was not one she recognized.
+
+This was the third time in the last several days that she had encountered an unfamiliar group in her dungeon – and this one was completely new, and much higher level than the groups she had found competing for the low-level bosses in her sewers. This group, at least, seemed well-equipped and decently trained, and she could already tell they would likely defeat her Timber Wolf raid boss. If not now, then in the next few attempts.
+
+She dearly wished she could ask Calen where they were from, but he and Lyeneru had been off scouting Ciradyl, making use of the teleportation circles she had left at Aman Rak. Perhaps I can ask Mieriel to do some research?
+
+She returned the majority of her focus to her wands and crafting, but she kept an active sliver of her awareness on the foreign adventurers, flying in a level forty Poison Wyvern and several larger Giant Bats to keep a closer eye on them. They were not causing trouble – yet – but the presence of unknown groups in her dungeon made her nervous. She was by no means finished securing her new areas, and many of the Elven refugees were still housed within her domain as the town’s builders and crafters struggled to absorb the sudden influx of people. This group seemed like normal adventurers, but she couldn’t forget the assassins and mercenaries that had been sent to kill her and her friends several times in the past, and she felt a keen responsibility to protect the Elves she had granted refuge within her domain.
+
+Calen circled high above the ground, his eyes taking in all the details of the devastation below. Had he not seen Ciradyl himself, he would never have believed such beauty could have once stood here.
+
+The ground below him was a bubbling tarpit of blackened corruption, filling his nostrils with a putrid stench that made him gag even flying far above. Everywhere he looked, the black was punctured by the deep purple of glowing crystals that thrust up from beneath, combining with the sickly green light emitted by the uncountable number of patrolling ghosts and banshees to cast an unholy pallor across the land. This was no longer a place for the living.
+
+“What is he doing?” Lyeneru asked – a redundant question because neither of them would be able to tell for certain.
+
+In the shattered epicenter of what had once been Ciradyl, nothing but black corruption and glowing arcane magic remained. Massive elementals guarded the dark pulsing hole in the ground that had once been the ancient Well of Souls, and it was not like they could just knock and ask the wraith at the heart of those glittering purple barrier domes what his plans might be.
+
+The arcane elementals and shrieking ethereal undead had inexplicably ceased their expansion at almost a mile’s radius around the Well. Most of the land had fallen to the dark corruption and the strange glowing crystals that had replaced the serene, beautiful forest of Ciradyl. Of the majestic trees, nothing remained.
+
+“He must be waiting for something,” Calen suggested. It was the only explanation for the dungeon halting his expansion so obviously. Either that or Nevyn Eld was preparing for a new offensive by consolidating his forces here – a possibility supported by the constant stream of undead trolls that trickled in, presumably from the shattered remnants of either Telim Gor or Meere Kada.
+
+“Calen, to your left,” Lyeneru said suddenly.
+
+Calen swiveled his head and scanned in the direction she called out. Far below, on the outer edge of the arcane and death dungeon of the Elder Wraith – Calen refused to call him Nathaniel anymore – he saw a small defiant pulse of light, and the flight of arrows, like a candle of hope shining against a mountain of gloom. And there, trapped in a box canyon, three bedraggled and exhausted Elves stood against the might of the dungeon, desperately trying to protect a group of wounded companions.
+
+“We must save them,” Calen said.
+
+“Get the left flank,” Lyeneru said, turning and swooping into a deep dive toward the beleaguered defenders, her bow already firing from a distance far greater than his maximum range.
+
+Calen shot after her, summoning his second set of wings to keep up, mentally readying the extra recall potions in his storage that he had acquired for just this scenario. At worst, he had enough to send them all back to Myrin’s Keep with a few well-placed throws. As he flew along, he kept a sharp eye on their surroundings. Both of them knew that this might be a trap for the unwary.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

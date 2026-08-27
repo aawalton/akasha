@@ -1,0 +1,157 @@
+---
+id: dec17169-1e00-5ace-a3ac-23859a09f617
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3"
+slug: 0003-chapter-3
+partOf: emie-ascended
+position: 3
+ownLength: 2424
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3454881/chapter-3"
+royalRoadId: "3454881"
+---
+
+I could feel that both Demesne and Divide Space had improved by a decent amount due to my changes. The sense of growth pleased me, even if it wasn’t enough to push either skill to upgrade or evolve.
+
+It would have been nice if Dia’s system tracked such data through the status screen, but it wasn’t truly necessary since the understanding was quite instinctual.
+
+As I worked my way through the rest of my skills, I soon discovered an oddity about two of them.
+
+Stasis and Divide Space were both marked as (Unique/Common) skills, which I hadn’t understood when I first saw the label. After a bit of testing, I discovered that the first rating applied to the skills’ use within my pocket dimension, while the second pertained to the skills' functionality outside the space.
+
+Rho hadn’t been exaggerating when she said that both skills would be limited outside of my demesne.
+
+While they both worked almost like passives inside the soulbound dimension, having next to no real effort associated with their use, the opposite applied when I tried to use either skill outside of my demesne.
+
+Even Stasis, which was a core skill, was extremely limited and took an unusually large amount of focus to use on anything outside of my demesne.
+
+It was almost like the goddess had intentionally made the skills harder to use to balance the scales. Considering how absolutely broken Demesne was with the boon making it possible for me to physically enter, I couldn’t even be mad about it.
+
+After testing, I determined that neither skill was all that useful outside my soulbound pocket space, even if I could technically use them both. Stasis didn’t work on anything alive, including rooted plants.
+
+A harvested plant could be placed into stasis, but the amount of focus required to do so was far too high to make it worthwhile.
+
+I still planned to do it, if only to push the skill to help it grow. But functionally, the skill was useless outside of my demesne without the ability to impact living creatures.
+
+Divide Space was even more limited and was basically only useful for making temporary walls outside of the space. I could change their size, shape, and thickness, but they were a heavy drain on my focus.
+
+Unlike Stasis, I doubted I’d put much effort into upgrading Divide Space, especially since Rho had mentioned it would likely be merged with Demesne during my first evolution. And while the skill could probably work as a barrier in a pinch, I knew I could create something better.
+
+I decided to wait on testing Restorative Healing until my first hunt. Though it might be a bit cruel to test healing on a dungeon mob that I eventually planned to kill, I figured it was better than using myself as a test subject.
+
+I also held off on testing Lightning Bolt since I knew I’d get sidetracked once I started experimenting with my new magic. Sure, I’d crafted with lightning before and used lightning effects in a lot of my weapons, but actually having the magic felt completely different.
+
+When I moved on to testing Dimensional Anchor, I could sense an anchor nearby from when I’d entered my demesne. I knew that the anchor would disappear if I entered my demesne from any other location, but for now, it remained.
+
+Focusing on the spot where the anchor hovered just under the surface of reality, I utilized the connection that I already had with space magic to fold the space between my current location and the anchor.
+
+It was almost an instinctive action, though it took a second or two to actually manifest.
+
+Teleportation was something I was deeply familiar with from the centuries I’d spent as a Space Mage. Even without the time spent training specifically to recover my most important skills, I would have likely had no trouble recovering the skill.
+
+Therefore, it was no surprise when, after just a second or two more of focused effort, I managed to shift myself from my current location to the Dimensional Anchor.
+
+[You have learned the skill: Teleportation (Common)!Would you like to slot Teleportation (Common)?]
+
+With a grin, I accepted the offered skill. It was the first of my primary skills I hoped to recover, and I felt pleased at how quickly I’d managed it.
+
+I spent the next half hour or so testing the limits of my newest skill, learning that I could only teleport to an existing anchor or to a location in my line of sight.
+
+On the bright side, slotting the skill made using it nearly instantaneous, which was a significant improvement over the three or so seconds it had taken to manually teleport myself from one location to another.
+
+Once I felt confident that I understood the new version of my old skill sufficiently, I decided to finally focus on my new elemental seed skill.
+
+I was pleased to discover that Lightning Bolt was an easy skill to use. I hadn’t expected it to be hard since it was literally imprinted on the core of my soul, but I was genuinely amazed at how instinctive the spell-turned-skill was to use.
+
+The bolts themselves weren’t all that strong, but it was just a Common skill. I was sure it would improve with time, practice, and upgrades.
+
+Even as weak as they were, a single bolt was enough to stun the low-level mobs that resided in the first room of the dungeon. A bit of channeling changed the stun into a fatal attack, which would be useful when I wanted to keep my distance.
+
+Most of the nearby mobs were arbor squirrels, which looked very similar to the plain old gray squirrels I remembered seeing on Earth. However, these squirrels actively took care of the trees in their territory, often dealing with invasive vines or other plants that might harm their homes.
+
+Outside of dungeons, arbor squirrels were prey animals, just like most squirrels on Earth. However, inside the dungeon, every mob was a predator as far as delvers were concerned.
+
+The weak creatures weren’t really a threat to me – a fact supported by the system’s built-in threat rating, which tagged them in blue.
+
+The system’s basic identification feature only provided a very limited amount of information about the items and entities targeted. For creatures (including Dians), it included the common name of their species, any titles they might have visible, and a rough estimate of how much of a threat they are to the person using the feature. Functionally, that resulted in a short tag that was color-coded by individual threat level.
+
+Blue implied that whatever was being inspected was a negligible threat to the person doing the inspection. Green meant they posed a slight threat but shouldn’t be much of a problem. Yellow indicated that fighting the creature would pose a modest challenge.
+
+Orange was where things started to get dangerous. An orange tag suggested the target in question would be a significant challenge, while red warned that the user would struggle in a direct confrontation.
+
+And black… a black tag meant that the user should probably run because it would take a miracle for them to survive the encounter if it turned violent.
+
+Of course, the colors were based on a one-on-one confrontation with only that creature (or person), and didn’t take numbers into consideration.
+
+It was entirely possible for someone to be defeated by a swarm of creatures that the system considered a negligible threat. That was one of the reasons that I considered acquiring a real inspection Skill so important.
+
+The threat ratings were also relative to the user, so something that registered as blue for me, like the arbor squirrels, might be yellow or even orange to a brand-new delver, depending on their background and ‘soft’ or unslotted skills.
+
+I used my new healing skill a few times while experimenting with my new lightning skill. It didn’t take long to discover that Restorative Healing worked quite differently from Restore.
+
+Where my old skill focused mainly on reverting damage using time, my new skill actually healed the body as close to its prime as possible. It still used time magic to read what the prime state was, but the actual healing part was done by life magic.
+
+That was a huge difference, and I wasn’t quite sure it was an improvement.
+
+It would certainly work better for healing older injuries or sickness, but for instant healing inside the dungeon, my old spell would have probably been better.
+
+I’d have to push the skill a bit and see if I could incorporate more of the time aspects into the healing skill later. Hopefully, I’d be able to upgrade or evolve the skill in that direction while retaining the ability to actually heal as opposed to merely reverting damage.
+
+Once I felt that I had a good grasp of both my new healing skill and Lightning Bolt, I killed the squirrels and put their bodies into storage before heading back to the safe zone.
+
+Now that I’d regained Teleportation, I had eleven slots left to fill. Haste, Barrier, and Enchanting would take up three of those, reducing my remaining slots to eight.
+
+I also needed to keep a slot open for an inspection skill of some sort, though that wasn’t one that I’d be able to recover on my own. Hopefully, the dungeon would provide a skillbook. If not, I’d have to buy one, which would undoubtedly be expensive.
+
+That dropped me down to seven open slots.
+
+Telekinesis, Portal, Pause, Slow, Compressed Space Bolt, Gravity Bomb, Phase, and Restrain were all good time/space options. However, I obviously couldn’t fill the entirety of my slots with time and space-based options.
+
+In fact, I felt it best that I save at least four or five for new elemental seed skills.
+
+Seed skills were critical if I wanted to expand my capabilities with Enchanting. Unlike my old realm, this realm only allowed someone to enchant effects using magics that they personally had access to.
+
+Technically, my old realm was the same, but we were able to use elemental cores to get around the limitation.
+
+Since this realm did not produce a comparable energy source, Enchanters were limited to neutral effects and those for which they had a seed skill granting access. It wasn’t as limiting as it sounded, though, since a lot of what Enchanters did relied on neutral essence.
+
+If I earmarked four of the remaining seven slots for seed skills, one each for fire, ice, air, and earth, that left three available slots to fill with alternate skills. I felt like I should keep two slots in reserve, just in case I came upon a particularly good skill, which left me with a single slot to fill with one of my old skills.
+
+Telekinesis was an obvious option based on its sheer versatility. It could be used for offense, defense, and support.
+
+Portal was a consideration for a similar reason, though I doubted I’d use it as often as Telekinesis. And when I did use it, I’d probably have plenty of time to cast the skill manually. If I needed a quick exit, I already had Teleportation.
+
+It would be harder to manually use the skill, for sure, but I was confident that I would manage. It wasn’t a skill that I really used often enough to justify slotting it, even if it would likely make using it easier.
+
+Pause and Slow would likely come in time via Stasis… unless the skill evolved in a different direction. Since I already planned to recover Haste, neither was critical, so writing them off was easy enough.
+
+Compressed Space Bolt and Gravity Bomb were two of my favorite offensive attacks, usually cast in conjunction with one another. I’d check to make sure, but I felt pretty confident I’d be able to use both with just a few seconds of effort.
+
+They’d never be as strong or as fast to cast as a system-enabled skill would be, but I’d still be able to use them. Really, that applied to every space or time skill that I’d trained with over the last century or so.
+
+It wasn’t a question of whether I’d lose access; slotting a skill was really more about making it instantaneous to use.
+
+Of the two, Compressed Space Bolt was the more appealing option. But considering I already had access to Lightning Bolt, I couldn’t justify choosing it over Telekinesis.
+
+Dismissing the skill as an option, I moved on to Phase. I really only used this skill to enhance my teleportation abilities in the previous realm. While it could be used in combat, I’d never used it that way. And since it wouldn’t enhance teleportation in this realm, I dismissed the skill as an option.
+
+Restrain was another good skill that could be accomplished with a different element. Grasping Vines, Stone Fingers, Quicksand, Bands of Iron… those were just a few off the top of my head that I could think of that could accomplish the same thing.
+
+After going through my options, it seemed clear that Telekinesis was the best choice. It was just too versatile to give up without something amazing to take its place.
+
+Besides, it wasn’t like I’d never get additional skill slots. Most Ascenders earned a new slot every fifty or so levels. It might take a while, but if I really regretted my choices, I’d eventually earn new slots.
+
+So, if everything worked out the way I planned, my future skill listing would look something like this:
+
+Core Skills: Demesne (Rare)Stasis (Unique/Common)Restorative Healing (Rare)Lightning Bolt (Common)
+
+Skill Slots (14/14):Divide Space (Unique/Common)Dimensional Anchor (Uncommon)Teleportation (Common)Haste (Common)Barrier (Common)Enchanting (Common)Identify (Common)Telekinesis (Common)Fire Skill (Common)Ice Skill (Common)Air Skill (Common)Earth Skill (Common)ExtraExtra
+
+Though I didn’t plan out the details, I felt it was important to have a variety of different effects, not just a variety of different elements. That was mostly because having a skill of one type made it easier to recreate with another element.
+
+By that, I meant that having Ice Blade slotted would make it easier to manually create Fire Blade, or Stone Blade, or a blade of any other elemental type I had access to.
+
+My stomach rumbled, distracting me and serving as a reminder that I no longer had a pinnacle body capable of ignoring food, water, and sleep indefinitely. It needed fuel and rest to function properly.
+
+Thankfully, I’d noticed a few edible plants along the path leading out of the safe zone.

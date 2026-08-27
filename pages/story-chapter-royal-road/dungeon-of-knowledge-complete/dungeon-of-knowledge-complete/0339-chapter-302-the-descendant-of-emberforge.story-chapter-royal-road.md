@@ -1,0 +1,179 @@
+---
+id: 3b360290-c4d0-58dc-9acc-df2599bed323
+page-type-slug: story-chapter-royal-road
+title: "Chapter 302: The Descendant of Emberforge"
+slug: 0339-chapter-302-the-descendant-of-emberforge
+partOf: dungeon-of-knowledge-complete
+position: 339
+ownLength: 2385
+unit: words
+ownProgress: 2385
+publishedAt: 2025-07-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2413532/chapter-302-the-descendant-of-emberforge"
+royalRoadId: "2413532"
+markedReadAt: "2026-06-29T20:22:02.760Z"
+---
+
+“Hi, Morwynne,” Ali called out after the entry chime faded. Her friends and her witch doctor and shaman entered behind her.
+
+There was a muffled thump from the back, and splinters of glass and clouds of smoke billowed up from under a table. The soot-stained face of the Gnomish alchemist appeared, announced by a long and inventive sequence of dwarven profanity.
+
+Alchemist – Gnome – level 89
+
+Even she is getting close to her class evolution. Ali carefully cradled the small green frog in her hands, not wanting to drop it or have it jump in response to the noise. Not that she could physically hurt him, he was far too durable for that.
+
+“Hi, Aliandra,” Morwynne said, as she untangled herself and decided she had appropriately conveyed how she felt about the accident in the back. She left the debris with a kick and a parting word of particularly scathing intent and then her gaze flickered across Malika, Mato, and Calen. “What can I do for you all?”
+
+“Well, they want to restock some of the higher-level potions, but I have something else I want to show you,” Ali said, searching the alchemy lab for a clear spot of sufficient size. She glanced up to check if the ceiling would be high enough before placing the tiny frog on the ground.
+
+“What is that?” Morwynne said, peering closer.
+
+“Maybe step back a bit,” Ali suggested.
+
+Morwynne glanced at her in surprise and backed away uncertainly. “Why does that frog identify as a level one hun…”
+
+Ali dispelled the frog hex her witch doctor had been maintaining on Tol’brekk. The giant troll was suddenly present, his full magnitude revealed in an instant. He bowed his head to avoid the ceiling that was clearly not made with giant trolls in mind.
+
+Morwynne yelped and then covered up her startled embarrassment with a second long string of profanity. The enormous troll stood frozen, entirely entranced by the proportionally tiny Gnome with her pink pigtails and prodigious vocabulary.
+
+Mato let out a hearty chuckle.
+
+“Why is that… thing… in my store?” Morwynne finally demanded, rounding on Ali, her face red.
+
+“I want you to listen to him,” Ali said, grinning. Then she switched to trollish and looked up at the giant, “I’d like you to practice your poetry on her.”
+
+“Yes, Seeker,” Tol’brekk grinned, the mere power of his voice rattling a few precariously balanced glass vials. Then he launched into a powerful stream of impassioned oration, complete with gestures, aimed at the tiny Gnome.
+
+But rather than be intimidated, Morwynne stared at the monster, her eyes growing wider and rounder by the second.
+
+“That was incredible! Do another one!” Morwynne exclaimed the moment he finished, hopping up and down in delight and clapping her hands. “Aliandra, you must teach me this exquisite language!”
+
+***
+
+Ali’s awareness drifted again, shifting to the end of the Emberforge Mines, observing the scene around the anvil and the forge through the eyes of the troll she had left to guard them, and the mana sight of her Arcane Insight. Thuli was working the forge, his brow and forearms glistening with beads of sweat that rapidly evaporated from the heat of his magic. Kavé assisted with a skill of shining quicksilver mana while Tarek supplied more and more ore and materials for the blacksmith to combine. The sense of progress and understanding through her Sage of Learning was electrifying, climbing rapidly toward a crescendo.
+
+Suddenly, Thuli froze, and from the expression on his soot-stained face, she knew he had finally made a breakthrough. A moment later, Sage of Learning clenched, filling her mind with a burst of sudden pressure as it rearranged the experience.
+
+Variant: Eimuuran Steel added to Imprint: Metal.
+
+To her surprise, her Grimoire manifested on its own, and her notification chimed as Thuli pulled the glowing ingot from the forge.
+
+I learned it, too? Ali’s surprise did not last long, however – the explanation was easy to come by. The Anvil was imbued with her Domain Tithe, and it explicitly mentioned that part of what was tithed to her would be the imprints of whatever was made or repaired on the anvil itself. And the anvil and forge components were part of the same artifact.
+
+But Thuli wasn’t done, he heated the metal once again and then began wielding his great hammer to forge it into shape.
+
+Good luck, she thought, sending him silent encouragement, excited to see what he would make.
+
+***
+
+“Seeker?” Tol’brekk’s deep voice rumbled through his massive chest, somehow soft and gentle, questioning, and yet it made Ali’s bones shiver. Half of the library patrons froze, glancing over in apprehension.
+
+“Yes?” Ali said, glancing over at the massive berserker troll who had been sitting quietly on the floor for the duration of Morwynne’s language lessons. They had relocated from the alchemy lab up in town to take advantage of the Grand Library Arcana’s grand circle, the domain tithe, and Ali’s Teaching Sage – the result of which had Morwynne cursing fluently in Trollish after a little more than half an hour.
+
+“I wish to learn the language of the humans,” Tol’brekk said.
+
+Ali closed her book and stared up at the enormous troll who towered over her even while sitting on the stone floor. “You want to learn Common?”
+
+“You taught the Gnome to speak. I saw Gara speaking in their language. I am but a summoned memory of myself, but if Aman Rak is to remain among the humans, I wish to be understood, also.”
+
+About to dismiss his request, Ali was brought up short by the earnest look on his face. “Ok, I don’t mind,” Ali answered. Although it was a request she would never have imagined coming from a summoned monster, and one of her minions. Something profound had changed when she had unlocked Minion Ego, and she wasn’t exactly certain she understood all the implications. Could this newfound independence of theirs cause unforeseen mischief as they interacted with others? Might it mean that her control of these minions could be disrupted or even usurped by a powerful mage? The idea of her minion army being turned against her was faintly nauseating, but not impossible, was it?
+
+It's a simple enough request, Ali thought, studying the giant troll more closely. And it will help me explore the extent of Minion Ego. Besides, after learning what ‘poetry’ meant to the trolls of Aman Rak, she guessed she knew what the giant berserker would use it for – and, if nothing else, it might be amusing. She turned on her Teaching Sage and began the familiar task of teaching the language.
+
+***
+
+The sound of a sudden chime snapped Ali out of her studies, and she instantly checked.
+
+Variant: Flame Blade of Mastery added to Imprint: Sword.
+
+Getting twitchy, aren’t I? Ali thought as she stared in amazement at the happy news. Her Grimoire popped out, reacting once again to Thuli completing his work upon the anvil. I could never be a stealth class, could I? she mused as she found a Glitter Dragonet circling the forge down below and teleported there.
+
+“Hi, Thuli,” Ali said, greeting the soot-stained Dwarf.
+
+Thuli turned to her, wearing a weary but radiant smile. “Perfect timing, lass,” he said, holding up an exquisitely crafted shortsword bearing the characteristic black steel that glinted with undertones of dark red when the light caught it just right.
+
+Eimuuran steel.
+
+Ali probably would never know the depth of what he must be feeling at this moment, but she knew he held in his hand the crowning achievement of his life-long quest.
+
+Blacksmith – Dwarf – level 100 (Ember)
+
+“I did it,” he said, his normally loud voice quiet and filled with emotion.
+
+“It’s beautiful, Thuli,” Ali said as his apprentices gathered around, craning their necks to sneak a glimpse of his work.
+
+Flame Blade of Mastery – level 93A perfectly balanced shortsword made from Eimuuran steel, enchanted with flame.Damage: Slashing, Physical, FireAdded Fire damage on hit with this weapon.+2 to skill level of Sword Mastery skills.+22% increased attack speed.+12% chance to trigger level 57 Double Strike on hit.+17% to Fire damage.Requirements: Strength 654.Created by Thuli Emberforge in The Dungeon of Knowledge.One Hand – Sword
+
+The sword was truly a masterpiece, but it was the mana signature that immediately drew Ali’s attention. It was the first time she had seen a full name for him, and her own domain mana was present in the signature, appearing as an accent in the background.
+
+“Congratulations!” Ali said. “You earned your name.”
+
+“I… what?” Thuli said, looking at her in confusion.
+
+“Your mana signature,” Ali said. “You earned the last name of your ancestor, Thovir Emberforge.”
+
+Jaw sagging like a thousand-year-old trapdoor, he gaped at the sword in his hands and then wiped his eyes with the back of a dirty hand, smearing soot across his brow.
+
+“Master! This one offers congratulations!” Kavé said, staring at the sword with awe gleaming in her eyes.
+
+“Master, we must celebrate your naming,” Tarek said.
+
+It took a few moments for Thuli to collect himself. “Oi, none o’ that master stuff…” he said, but he still looked a little dazed as he caught Ali’s eyes.
+
+“This anvil, the enchantment on it…” he began, and then glanced back at his apprentices. “Show her the things ya learned.”
+
+Obliging, Kavé presented an ingot of Bloodsteel and one of Eimuuran steel, and a beautifully crafted shield made from Eimuuran steel which Ali instantly recognized from the armory they had looted in the Ruins of Dal’mohra. The shield bore the mana signature of Kavé Steelscale.
+
+Then, Tarek presented a pair of bone daggers he had learned, identical to the ones Ali had committed to her Grimoire, taken from Kobold rogues in the library so long ago.
+
+“Kavé learned Eimuuran steel immediately, and that shield is clearly of Dal’mohran design,” Thuli said, pausing significantly before continuing. “The anvil teaches them what you know in that book of yours, doesn’t it? And it taught ya what I made.”
+
+“Yes,” Ali answered. While she hadn’t put it all together quite as succinctly as he just had, she was certain he was right. “I learned Eimuuran steel when you completed it, and I can make a copy of that sword now too. These things Tarek and Kavé learned, I took from the dungeon that we defeated in the Ruins of Dal’mohra.”
+
+He simply stared at her for a long time.
+
+“Lass, I don’t think ya quite know just how powerful and disruptive this here anvil will be,” he said finally.
+
+“What do you mean?” Ali asked, surprised at the seriousness of his tone.
+
+“Most crafters guard their techniques obsessively, doling them out piecemeal and slowly only ta their best apprentices. For many, the only reason they teach is because the techniques would be lost after they die. This anvil is a tool that can exponentially accelerate teaching, but they will have ta give up their secrets to the anvil ta take advantage of it, making them available to you and everyone who uses the anvil after them,” he said.
+
+“So, most blacksmiths will just avoid it?” Ali asked.
+
+“Many will, I’m certain,” he said, his nodding making his beard shake. “But ya have created a powerful lure. I gained seven levels of mastery.”
+
+“I’m just worried you’ll lose business if I can copy what you make,” Ali admitted. “Won’t everyone think that?”
+
+“Aah, not exactly,” Thuli said. “Kavé and Tarek both learned how ta craft dungeon dropped items. It is unheard of. Ya see, the problem with dungeon drops is they are often poorly balanced with enchantments that do not match yer class perfectly. Ya gotta be happy with whatever ya get. On the other hand, they often have powerful and difficult ta learn enchants – things that have been lost ta time, like the making of Eimuuran steel. This here anvil solves both of those problems. Kavé can make that Dal’mohran shield with any configuration of enchantments she knows. And learning the item taught her a new enchantment.”
+
+“I see,” Ali said. “So this becomes a versatile tool for spreading knowledge?”
+
+“Yep. And recovering ancient techniques, too,” Thuli said. “But perhaps you don’t see the danger. As more people use the anvil, the wealth of techniques, enchantments, and patterns will become progressively more irresistible. Ya should be prepared to defend this room vigorously because I’m serious when I say the anvil may start wars. When Thorel Moldur gets wind of this, you’ll have a Dwarven army on yer doorstep, mark my words.”
+
+“I think there will be time enough for that before it becomes common knowledge,” Ali said. She appreciated his feedback, but she was certain he was being a bit dramatic about the anvil causing war.
+
+“I’d like ta stay for a while,” Thuli said. “I want to learn all the steel patterns ya know, and I’d like Tarek and Kavé to learn everything they can. I don’t have hang-ups about teaching you my craft, but it will take a while, and I think Weldin would prefer to return to his store.”
+
+“Sure,” Ali said. “I can make a temporary teleportation circle from here back to town, and one from the library to here so you can come and go as you like.” And then she pulled out a notebook, writing down a list of her metal imprints, and all her steel and bone weapon and armor variants, tearing it out and handing it to Thuli. With the list, he should be able to guide his apprentices to learn each of the specific patterns and enchants, although many of them – like the Heavy Bone Greataxe of Carnage – would be well beyond Tarek’s reach for a while still.
+
+“Aah, this’ll be helpful, thanks lass,” Thuli said, his bushy eyebrows pushing up into his forehead as he studied the list.
+
+“I can come back for you tomorrow,” Ali said.
+
+“Tomorrow?” Thuli asked.
+
+“You reached level one hundred – your evolution, right?” she asked. “The shrine will be recharged by tomorrow and you can choose your paths.”
+
+“I… oh! Right! Lass, I… I have no words.”
+
+Ali could only nod, then she bowed, hands clasped before her heart. “Thuli Emberforge.”
+
+“Aliandra Amariel.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

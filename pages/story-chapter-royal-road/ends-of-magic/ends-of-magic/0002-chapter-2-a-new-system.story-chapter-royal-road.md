@@ -1,0 +1,163 @@
+---
+id: 44a47f9f-335f-555f-87cb-6625b1c8c7ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 A new system"
+slug: 0002-chapter-2-a-new-system
+partOf: ends-of-magic
+position: 2
+ownLength: 2359
+unit: words
+ownProgress: 2359
+publishedAt: 2022-08-16
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/972968/chapter-2-a-new-system"
+royalRoadId: "972968"
+markedReadAt: "2026-06-29T20:07:19.991Z"
+---
+
+Nathan shared a grin with Taeol, excitement flooding through every part of him. He’d wanted to do magic ever since he was little, his parents reading fantasy stories to him in bed. The wish had only grown stronger as Nathan grew older and started reading on his own. Every birthday when he blew out the candles, his wish had been the same.
+
+I wish I could do magic.
+
+Then - nothing fantastic had ever happened to him. No magic had appeared. Nathan had turned to the closest thing available - Science. If you couldn’t discover arcane secrets and bend reality around you with magic words, then at least you could discover secrets of the natural world and bend it around you with normal tools.
+
+That motivation had gotten harder to rely on over the years. It could be hard to convince yourself that understanding the signaling pathways of stem cell differentiation was plumbing the deep secrets of reality. Especially if your last few experiments had failed to even let you know if you were on the right track.
+
+But none of that matters now! Wherever I am, magic is real and I can learn it!
+
+Taeol leaned back in his chair, adjusting his bulk and steepling his fingers. “I am glad you will be a willing helper in this. It is easier than if you were unwilling, and presents fewer knots to slice. But ah, here, food and clothes have arrived. I will allow you some time to dress and eat, soon I shall return to discuss what you will tell me.”
+
+As he spoke, the door opened and the golem of pale stone walked through, holding a steaming bowl. It placed the bowl in front of Nathan on the table, then put a spoon next to it and laid a folded robe of gray cloth and a pair of slippers on the bed. Taeol pushed himself up from the table and followed the golem out of the door. Then there came the thud of a bar being placed across the door.
+
+I should probably be worried about that.
+
+Nathan just sat in the chair for a moment, too many thoughts crowding his mind. His excitement was warring with his worry and anxiety about everything that was going on here.
+
+What are my priorities? Figure that out. Clothes first, I’m cold.
+
+He picked up the robe and put it on with only a bit of fumbling. It seemed to consist of a sort of t-shirt-like outfit that fell past Nathan’s hips, attached around the neck, back and sleeves to an enveloping robe that touched the floor. There was a separate pair of underwear, like thick boxers with a drawstring. All of the material was soft and warm against his bare skin. Had his body changed at all? Nothing obvious. Pale, tall, a little bit more fat than he’d prefer. He eyed a lock of lanky blonde hair.
+
+Wish I’d gotten that cut last week. Hard to plan for portal shenanigans.
+
+Then he put on the slippers and looked at the bowl. He’d been about to eat back on Earth, but food was at the bottom of his list after the events of the last… hour? Half hour? Nathan had no idea.
+
+It’s possible to eat and think. You don’t want to be distracted by hunger when it’s time to learn magic!
+
+So, Nathan sat and started to mechanically eat. It was bland, but that was ok. He was excited about magic, obviously. But he couldn’t let that overwhelm everything else. And he was being overwhelmed. Nathan took a minute to just sit, close his eyes and breathe, blanking his mind for a moment so he could focus on one thing at a time.
+
+What had happened, and what did it mean? Taeol had summoned him here intentionally… what had he said? He wanted knowledge, science and technology? But where was here? Another reality? A parallel dimension or universe? Another world in the same universe as Earth, but far away and with magic? It probably didn’t matter - likely the only way to get back would be magic, the same way he’d arrived.
+
+Something to think about. I’m not raring to go back immediately. There’s magic here!
+
+The magic was an opportunity he’d only dreamed of. Nathan didn’t have people waiting for him that trumped that - he definitely didn’t want to see his ex-girlfriend again. His parents were distant and divorced, and he’d drifted apart from most of his friends over the last few years of intensive research. Nathan wondered if his labmates would notice he had stopped coming into work before his few friends noticed he hadn’t scheduled the next D&D session.
+
+I don’t want to forget about the idea of going home, but I definitely want to learn more about this place. Is the world called Davrar? That’s how the… box thing identified it, and Taeol said it too.
+
+Why were the people here humans? Taeol certainly looked human. That suggested either a parallel universe or… something else going on. Magic or something that makes everybody look like what he expected, to put him at ease. Nathan had read a sci-fi short story like that.
+
+Don’t jump to conclusions. What do you know?
+
+Nathan grimaced. Taeol had mental magic, didn’t he? That spell had taught Nathan a language. If you could add something to a brain, you could probably take something away.
+
+Would Taeol use mental magic on somebody without their consent? He kind of already had, and hadn’t made a good first impression on Nathan. Taeol reminded Nathan of some really arrogant professors he’d met, the ones who thought their positions and authority made them unquestionable beacons of knowledge, and god help the poor grad student who disagreed with their ideas.
+
+He also implied that if I didn’t cooperate it would just make things harder. ‘More knots to slice’. I don’t like that phrasing at all.
+
+Nathan had finished the porridge and he looked down at the empty bowl, and the metal spoon he was holding. With a flash of inspiration, he looked around the room, for somewhere inconspicuous. The corner of the room with a trough of running water looked best.
+
+On closer inspection, the chair was almost exactly like a toilet seat, with waste intended to fall into the shallow trough of running water. It also seemed intended as a source of drinking water - there was an empty stone cup next to the seat. Mixing sewage and drinking water was a terrible idea, but maybe they relied on the water to sweep away everything?
+
+Maybe cleaning or healing magic makes that a non-issue. I wouldn’t want to tempt fate with that, I bet bacteria can evolve magic resistance. They can figure out how to resist about everything else, after all.
+
+Regardless, it was the perfect spot for Nathan’s plan. An inconspicuous part of the room that he would often return to, even if he got his mind messed with. Using the base of the metal spoon he’d used to eat, Nathan scratched a symbol into the stone wall next to the toilet. It was something he was confident he would recognize as coming from himself - nobody else here should know the chemical structure of caffeine. Then, after another moment of thought, he added a single tick mark next to it.
+
+Ok. Maybe if he got mind-wiped this would help him realize what had happened. What was next? That weird blue box?
+
+As if summoned by the thought, a larger blue box popped up.
+
+Davrar has recognized you, Nathan Lark.
+
+You have become fully integrated into Davrar, and are ready to begin!
+
+As you have no Talents, classes or skills despite being of mature age, Davrar has deemed you to be at a Disadvantage.
+
+Therefore, Davrar will provide more explanations than usual, and your class, Talent and skill gain and progression will be accelerated until you are no longer at a Disadvantage.
+
+Davrar is here to help you survive and prosper. It will offer you Talents and utility skills according to your innate talents and abilities, and allow you to choose a class to suit your deeds.
+
+Talents and utility skills can develop every 10 ranks, but require Insight to do so.
+
+Each class will grant different and unique class skills according to the theme of the class.
+
+To unlock classes, reach level 9 and choose from the presented list. Classes develop at levels 27, 81, 243 and so on. There are ways to acquire more than one class; good luck discovering them!
+
+To level up, overcome challenges. The more dire the challenge, the more you will be rewarded.
+
+Davrar hopes you will survive and prosper.
+
+Nathan understood what the box said without fully reading it, as if pulling it from memory. He still took his time to read it over entirely. This was bizarre, and he felt anxiety build in the pit of his stomach. Davrar knowing his name was the first of his concerns, but it certainly wasn’t the last.
+
+Davrar - the world and the origin of the boxes? - seemed to be offering him an RPG-like progression system. The overuse of the ‘survive and prosper’ phrase made him suspicious. And how was it appearing to him? More mental magic? Nathan turned his head, and the box turned with him. He wished it would move to the corner of his vision, and it did.
+
+It’s definitely integrated with my thoughts somehow. Don’t like not knowing anything about that.
+
+He closed the box with another thought, and tried to open it up again. It took a second, and only opened when Nathan prompted it with the first sentence of the box.
+
+I gotta figure out what’s going on with these things. Toss it on the pile of stuff to figure out.
+
+Honestly, it seemed like something he should just ask Taeol about. Was there any reason to hide it from the mage? Maybe Nathan should ask about it circumspectly. Nathan was mulling it over when another box opened up.
+
+Status of Nathan Lark
+
+Talent 1: Pending
+
+Talent 2: None
+
+Talent 3: None
+
+Class: None, level 1
+
+Utility skills: None
+
+That was pretty bare-bones. The Pending talent was listed underneath the status.
+
+Pending Talent: High-tier Magic Resistance
+
+Your body has no magic inside it, and magic-resistant alchemical ingredients permeate your bones and brain, making you difficult to affect with magic. This Talent will turn a temporary quirk into a personal Talent. You will be able to resist and interfere with spells, and will have great difficulty casting magic of your own. Less effect on higher-tier spells. Magical items will have less effect on you, and weaker magical items degrade when in prolonged contact with you
+
+Again, Nathan didn’t have to read the description to understand what it said. Wait, magic-resistant alchemical ingredients? Earth had no magic, which was probably why he didn’t have magic, but the magic-resistant alchemical ingredients didn’t sound good. Maybe something common on Earth that wasn’t common here?
+
+And High-Tier magic resistance? He read the description again with the eye of an RPG player. It sounded good, but it depended on how common magic was. The talent would do better resisting minor spells than big ones, which is where you would need it most. And it prevented both beneficial spells and personal magic, which made it a big no-no for Nathan.
+
+Maybe this was the basic Talent and he could develop it to be better, like not preventing his own magic? Being immune to his own magic would probably let him do all sorts of risky magical experiments. But the name suggested it was already a high-tier talent because of the alchemical ingredients thing. The lower-tier versions must be awful.
+
+Nathan could feel the Talent waiting for his approval and almost declined it on the spot. Magic! But it didn’t seem like there was time pressure, so he held off on making the decision. With another thought, all of the boxes vanished again. What now?
+
+Well, I’m locked in a cell. It’s not the worst cell, but it’s still a windowless box with a door barred from the outside.
+
+Nathan realized he was ratcheting up his anxiety about the lack of control he had. He was being held in captivity by a man who didn’t strike him as entirely trustworthy. But Nathan was not as anxious as he probably should be.
+
+Either I’m just really excited about learning magic, or…
+
+Nathan slapped himself in the forehead and started checking his thought processes, seeing if he could notice anything weird. He checked around the rest of the room for other messages he might have left himself.
+
+There was nothing, just smooth stone that looked like it had melted and cooled in the shape of a room. The bed was somewhat crudely carved, and the mattress felt like it was stuffed with grass.
+
+At least I don’t have to worry about that fellowship application. Or my experiments. Though my experiment is totally shot unless this is all a really convincing dream. But that’s ok! I can learn magic! Then if I go home, I demonstrate magic and become a celebrity. Maybe get shuffled off to a black site. But hey, then I get to confuse government agents, build up a rapport with the scientists studying me and save the world or something. It would be a welcome change from the daily grind.
+
+None of that seemed likely, but it felt good to think about. Maybe that’s why he wasn’t feeling very anxious. His standard day-to-day worries of the last few months were gone. No more worrying about research, funding, lab politics or budgeting to cover the rent on an expensive studio apartment he’d originally planned on splitting with his ex.
+
+And while there were definitely new things to worry about, they were exciting things to worry about. The sort of things that came with the territory of hopping between worlds and learning magic was real. And he could learn it!
+
+Status:
+
+Status of Nathan Lark
+
+Talent 1: Pending
+
+Talent 2: None
+
+Talent 3: None
+
+Class: None, level 1
+
+Utility skills: None

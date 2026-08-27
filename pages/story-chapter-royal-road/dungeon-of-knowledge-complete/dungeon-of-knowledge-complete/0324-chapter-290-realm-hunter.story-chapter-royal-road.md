@@ -1,0 +1,215 @@
+---
+id: 35b5d160-b360-574f-b223-097b4d148354
+page-type-slug: story-chapter-royal-road
+title: "Chapter 290: Realm Hunter"
+slug: 0324-chapter-290-realm-hunter
+partOf: dungeon-of-knowledge-complete
+position: 324
+ownLength: 2839
+unit: words
+ownProgress: 2839
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2381761/chapter-290-realm-hunter"
+royalRoadId: "2381761"
+markedReadAt: "2026-06-29T20:22:18.556Z"
+---
+
+Calen shared the remaining paths. “Looks like a choice between Realm Hunter and Brilliant Assassin,” he said.
+
+“Wow, your patron loves you,” Malika said.
+
+“Yes, she’s pulling out all the stops, that’s a rare class path!” Ali said.
+
+Calen went back and forth, trading up the advantages and disadvantages again and again, but he kept coming back to the same conclusion: he wanted Realm Hunter, but he felt he should take the damage path. He frowned. What if I pick Realm Hunter and choose the damage node? Twenty percent is nothing to sniff at. But… will it be enough? If it wasn’t, he might find himself stuck without options when the shrine decided he didn’t want any damage increases.
+
+“Follow your heart,” Mato said suddenly, entirely out of the blue.
+
+Calen glanced over at his long-time friend, a person who lived their life by their heart rather than their mind. But Mato had grasped the essential conflict of his choice intuitively without even needing to debate the options. Calen knew he would regret passing up Realm Hunter if he went with the Brilliant Assassin. He would regret taking the easy damage path that everyone with his style of class typically took – and so, with more than a little trepidation, he picked Realm Hunter.
+
+His only consolation was that his first choice of nodes actually did offer a good damage option. The only issue was he was trading off against movement speed – a fantastic boost for his class.
+
+[Realm Hunter 1/5] +20% Light magic damage.
+
+When he looked at the reachable nodes, he found he still faced the same choice. Deciding not to tempt fate, he switched, picking movement speed next.
+
+[Realm Hunter 2/5] +20% to Movement speed.
+
+This time, however, he found himself facing an entirely different choice.
+
+Reachable Nodes: +20% spell power to Tracking skills. Cost: 1+20% spell power to Perception skills. Cost: 1
+
+He already had something for perception skills, so he chose tracking.
+
+[Realm Hunter 3/5] +20% spell power to Tracking skills.
+
+When his path offered him the same two nodes – a choice between doubling down on tracking or branching out to take perception, he opted for breadth.
+
+[Realm Hunter 4/5] +20% spell power to Perception skills.
+
+This time all prior nodes were gone, and a single option remained.
+
+Reachable Nodes: Explorer gains Inexorable Pursuit (Track and follow the fading mana remnants of movement skills wherever they go. Even across realms). Cost: 4
+
+Holy shit, what is this? Not just tracking, but following the fading movement skills? Is this a movement skill of some kind? His mind bursting with questions, he spent the points to take it.
+
+[Realm Hunter 5/5] Explorer gains Inexorable Pursuit.Realm Hunter path completed.16 Authority remaining.
+
+Realm Hunter was surely a powerful path, and it had even improved his damage potential, but its strength was undoubtedly the broad versatility applied to his non-combat tracking, perception, and movement. Again, the keystone ability seemed powerful, but he wouldn’t know how to use it unless he experimented a lot – it sure felt powerful.
+
+Hunter path removed.Brilliant Assassin path removed. New paths found.Spirit ArrowsYou have been trained by a master and mentored by a legend. You are a Realm Hunter and Rift Warden, proficient at hunting in the Spirit Realm. Your peerless archery pierces all, clearing the battlefield before you.Traits: Intelligence, Mastery, Light, Critical Damage, Archery, Area.Path Length: 6Reachable Nodes: +25% to Critical Damage. Cost: 1+15 to intelligence. Cost: 1Quality: UncommonPath – KeystoneSudden DeathYou have trained at the peerless Pathfinders Guild and mentored by Lyeneru Silverleaf herself. By having achieved a one-shot kill on a monster higher than your own level, you have unlocked the path of Sudden Death. Deepen your understanding of Power Shot, Ambush, and Stealth, delivering devastating unseen destruction with your bow.Traits: Dexterity, Archery, Critical Damage, Ambush, Stealth.Path Length: 7Reachable Nodes: +25% to Critical Damage. Cost: 1+15 to dexterity. Cost: 1Quality: UncommonPath – Keystone
+
+“Ok, these are nice,” Calen said, trying not to show his relief as both newly materialized paths appeared to be highly damage-focused.
+
+“Lyeneru this time,” Malika observed. “And all the Pathfinder Guild training you’ve been doing.”
+
+“When did you kill a higher-level monster with one shot?” Mato exclaimed.
+
+“Before they manifest their bone armor, I can kill the Troll Bone Warriors if I line up my Ambush just right,” Calen explained. Nendir will enjoy that story!
+
+“So, what’s your preference?” Ali asked. “They both look good.”
+
+“Spirit Arrows, for sure,” Calen said with conviction. He knew it the moment they’d appeared. The paths were making him choose between a single-target-focused assassination build – the conventional approach with his kind of class – and a sustained damage build that leaned heavily into area damage and broad battlefield control through multishot.
+
+With his vampiric bracer – and more importantly, a favorable relationship with Zor’kan – his version of Lyeneru’s drain build was far stronger. If he preferred a solo style, picking individual monsters off from the cover of stealth, it would be a different story – but that was not his chosen path. He placed his first point in Spirit Arrows.
+
+[Spirit Arrows 1/6] +25% to Critical Damage.
+
+After placing the first point, the reachable nodes updated to add a new option:
+
+Reachable Nodes: +25% to Critical Damage. Cost: 1+25% to Critical Strike rating. Cost: 1+15 to intelligence. Cost: 1
+
+Calen ran a few calculations. Critical damage increased the power of his most damaging critical hits, including Ambush. Critical strike rating improved his accuracy and chances of hitting vulnerable points. Both were important and fed on each other. Critical damage is still better right now. It didn’t hurt that both critical damage and critical strike rating were only uncommon enchantments for bows, and rare for armor so he could make up for gaps later with gear choices.
+
+[Spirit Arrows 2/6] +25% to Critical Damage.
+
+With his second choice, he had moved beyond reaching attribute improvements, but his eyes widened at the other change.
+
+Reachable Nodes: +25% to Critical Damage. Cost: 1+50% to Critical Strike rating. Cost: 1
+
+Fifty percent is amazing! Excited, he reran his calculations and discovered his intuition had been correct. This pushed the critical strike rating option ahead of damage.
+
+[Spirit Arrows 3/6] +50% to Critical Strike rating.
+
+Seemingly firmly committed to the path of high damage, his nodes did not change, but having a higher rating meant the calculation had flipped back to damage, so he chose that twice more.
+
+[Spirit Arrows 4/6] +25% to Critical Damage.[Spirit Arrows 5/6] +25% to Critical Damage.
+
+When he pulled up the reachable nodes, he found his keystone advancement.
+
+Reachable Nodes: Radiant Archery gains Piercing Spirit Arrows. (+Mastery, +Area traits. Your arrows become partially anchored in the spirit realm, granting incorporeality and the ability to penetrate most physical objects and barriers.) Cost: 5Radiant Archery gains Abundant Spirit Arrows (+Mastery, +Area traits. Spirit echoes enhance your bow: You can conjure +3 arrows with multishot.)+50% to Critical Strike rating. Cost: 4
+
+“Those look amazing, Calen,” Ali said.
+
+“They are,” he answered. A flat increase of three more arrows per volley would multiply all his damage enchantments, delivering more explosions, more light damage, and more grappling shot chains. Piercing Spirit Arrows had identical wording to the Spectral Ice support skill that Mok’freja and all Ai’s Ice Mages had – it was a skill that allowed them to shoot through nearly anything.
+
+“Get the expensive one!” Mato said.
+
+“You know it doesn’t always work like that, Mato?” he chided. However, in this instance, he might just be right. He couldn’t know for certain until they faced a new dungeon, but against swarms of monsters, piercing them to hit the ones behind would be far greater damage than just increasing his multishot arrow count. Clear the battlefield indeed!
+
+[6/6] Radiant Archery gains Piercing Spirit Arrows.
+
+Against groups of monsters like the mass summons of Shards of Inferno, this was going to be a game changer.
+
+Spirit Arrows path completed.6 Authority remaining.Sudden Death path removed.
+
+He had six points left, but no more paths. He had gained some enormously powerful upgrades, but it seemed wasteful to end with leftover points and only have attributes left to purchase, but then the shrine reacted one more time.
+
+New path found.Overwhelming OnslaughtYou have steadfastly eschewed the easy path to damage. Your persistence and commitment to your ideals have opened a path to follow your mentor. Let the rain of your arrows become an overwhelming onslaught, sweeping your foes asunder. Traits: Haste, Light, Intelligence, Dexterity, Perception, Ranged.Path Length: 3Reachable Nodes: +1 Intelligence per class level above 100. Cost: 1+1 Dexterity per class level above 100. Cost: 1+1 Perception per class level above 100. Cost: 1Quality: UncommonPath – Keystone
+
+One path left and only six points. Will it be enough to finish it? It seemed too much of a coincidence – this path must have been discovered because of his choices and the remaining points he had available, but that was a leap of faith. Still, attributes per level above one hundred were better in the long term than buying attributes directly, so he didn’t mind spending the points on the initial nodes.
+
+Dexterity first? No, intelligence, then dexterity. Perception if there’s nothing better. With his priorities set, he spent the first two points before something changed.
+
+[Overwhelming Onslaught 1/3] +1 Intelligence per class level above 100.[Overwhelming Onslaught 2/3] +1 Dexterity per class level above 100.Reachable Nodes: +1 Intelligence per class level above 100. Cost: 1+1 Dexterity per class level above 100. Cost: 1+1 Perception per class level above 100. Cost: 1Righteous Fury gains Onslaught (+Haste trait. +3% (normal), +5% (boss), or +7% (raid boss) chance per hit to gain Onslaught for [skill / 5] seconds. Onslaught: + [skill] % Ranged haste.) Cost: 4
+
+Easy choice, he thought, double-checking quickly to make sure he had the points for it. Huh, look at that – it worked out exactly.
+
+[Overwhelming Onslaught 3/3] Righteous Fury gains Onslaught.Overwhelming Onslaught path completed. Class evolution completed.Your class has become Realm Hunter.You have greatly increased the reputation of your patron. [Zone] Realm Hunter has advanced to the second tier.
+
+Calen let his hand drop from the shrine as his ears filled with the sonorous sound of the zone notification and his eyes reeled from the sudden brilliance of the intense mana shining in all directions.
+
+“You ok, Calen?” Ali asked.
+
+“One moment, I got mana sight,” he said, closing his eyes to shut it out for now, knowing that Ali at least would understand the dramatic change. But it was more than just the mana sight – everywhere he looked, strange gray ghostly outlines swirled about everything like slightly delayed echoes of whatever he saw. They gave him an instant headache.
+
+“Realm Hunter,” Mato said. “Very impressive!”
+
+“What all did you get at the end?” Malika asked, placing a hand on his forearm.
+
+You have gained Clarity.
+
+“Thanks,” he said, cracking an eyelid and smiling at her as the headache faded into bearable territory.
+
+“You were awfully quiet,” Ali said.
+
+“Sorry,” Calen said. “I didn’t mean to leave you guys out, but most of the decisions were pretty obvious.” He opened his eyes a little more, finding he could manage for a bit. “Ali, can you make me a target, please?”
+
+“Sure.” Instantly a large circular disk of golden magic appeared about fifty yards away.
+
+“Can you make a couple stacked back-to-back?” he asked.
+
+Ali just cocked an eyebrow at him, but two more barriers appeared, about a foot behind each other. “How’s that?”
+
+“Perfect.” Calen pulled out his bow, conjured five arrows, enchanted Explosive Shot, and fired. To everyone’s surprise – himself included even though he was expecting it – the flight of five arrows struck the barrier and then detonated in three waves in rapid succession as they pierced through the barrier stack. Half a second later, another spread of detonations tore into the moss and trees behind as the arrows flew right through all the barriers.
+
+Ali squeaked.
+
+“Uh, sorry,” Calen said.
+
+“That’s impressive,” Malika said. “Is that like Mok’freja’s ice?”
+
+“Yes, I believe so,” Calen said, impressed despite having had forewarning. “The wording is almost identical.” However, there was a world of difference between reading the notification and actually seeing his arrows passing through Ali’s powerful barrier magic and striking the trees beyond – and as he’d hoped, his enchantments triggered on every subsequent strike.
+
+“That was a lot of explosions,” Mato said, pursing his lips and nodding in approval.
+
+“Multiple hits per arrow,” Calen explained.
+
+“Why is everyone shooting through my barriers now?” Ali grumbled. “It’s a barrier, it’s supposed to stop things!” But she grinned at him, showing she wasn’t really grumpy.
+
+Many of his gains would require combat to explore, but there was one other thing he wanted to try out immediately. With a wave of his hand, he summoned Motes of Light and sent them shooting up and outward.
+
+“Your teleport?” Ali asked, her voice filled with eagerness.
+
+Calen grinned back at her. When they were sufficiently far, he activated his new movement advancement. The Forest Cavern flickered – and he was suddenly twenty feet above the shrine looking down at a mote of light that floated beside his friends.
+
+“Yay!” Ali shrieked, clapping her hands together in glee.
+
+Calen flared his wings, catching himself, and slowly glided back down to the mossy grove.
+
+“Teleport works,” he said, explaining. “Ali, can I try something else?”
+
+“What do you need?”
+
+“Can you send a witch doctor to the Spirit Realm quickly? I got a new tracking thingy.”
+
+“Oh, good idea. For your Realm Hunter who-knows-whatsit?” Ali asked drolly, relaying his request to the witch doctor beside her.
+
+His lips twitched at her instant comeback. “Yep. Inexorable Pursuit.”
+
+The air shimmered around the troll, filled with a new richness as his eyes beheld the magic of the witch doctor’s spell directly for the first time. He didn’t see colors like Ali described her skill – his skill was more like what Malika had – flickers and wispy tendrils of light that swirled in response to the spell formation.
+
+The Troll vanished. In his wake, he left glowing trails – remnants of the mana that had powered his spell behind him. Mana that Calen could now see, lit up like tracks for Explorer to follow. He knew precisely where the witch doctor had gone – in fact, he could actually see the ghostly swimming outline of the witch doctor looking back at him from the Spirit Realm. But there was something more from his skill – the part he hadn’t truly understood when he had read his Explorer advancement. If I’m right about this… He reached toward the magical trail left by the witch doctor’s Spirit Walk movement skill, and suddenly he was there.
+
+The gray world of the Spirit Realm descended like a flickering and shifting veil. The now-solid witch doctor stood calmly gazing at him, but he was not the only source of color this time. Calen’s own body seemed to be perfectly normal here. A hidden benefit of Realm Hunter? He could immediately tell he would no longer need Ghost Mushrooms to operate here, and with a thought, he teleported back, switching places with a Mote of Light on the other side.
+
+“How did you do that?” Ali exclaimed when he returned. “It’s like you made an echo of the Spirit Walk skill? With the wrong mana affinity. And you don’t even have the skill.”
+
+“I can hook into the remnants of the movement skill, and somehow Explorer lets me duplicate it again later. I’m not sure how long the trail remains fresh enough to use, but it seems very useful,” Calen explained. It would take a lot of getting used to, but it was most certainly a powerful upgrade for his tracking skill. A lot of testing, too. I’m going to need Ali’s help – and probably the Guild. It was fortunate he had access to so many different movement skills to experiment on.
+
+“That’s impressive,” Ali said, looking at him with naked hunger in her mana-filled eyes.
+
+“Yes,” Calen said, grinning back. “How about you provide all the different movement skills you can make, and I’ll let you study it as much as you want?”
+
+“Yay!” Ali whooped, jumping up and down, a mannerism that looked surprisingly Naia-like.
+
+“So, that was a bit intense,” Calen said, sitting down. He still felt nauseated by the strange gray shifting haloes – the echoes that overlaid reality from the Spirit Realm. Echoes that he could now see. That was another thing that would take some adjustment, but his friends were curious right now, so he began to share all the changes.
+
+Malika glanced at him inquiringly as he knuckled his temples, and then she pulsed a glowing sphere of soul mana that rippled outward from the center of her chest.
+
+You have gained Clarity.
+
+Yeah, quite the day. Smiling gratefully at her, he said, “Ok, here’s all my changes.” Then he shared his extended status sheet.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

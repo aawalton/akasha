@@ -1,0 +1,95 @@
+---
+id: b76a38bf-e534-5f61-a693-a275f893897b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 303: Vacationing in Ciradyl"
+slug: 0340-chapter-303-vacationing-in-ciradyl
+partOf: dungeon-of-knowledge-complete
+position: 340
+ownLength: 2216
+unit: words
+ownProgress: 2216
+publishedAt: 2025-07-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2416073/chapter-303-vacationing-in-ciradyl"
+royalRoadId: "2416073"
+markedReadAt: "2026-06-29T20:22:04.852Z"
+---
+
+“Come in.”
+
+Calen entered the small, spartanly furnished office to find the Night Elf priestess of Lunaré sitting at the desk, working her way through a stack of paperwork with a worn quill pen. While the desk and chair were of simple craftsmanship, and the only other furniture was a low bookshelf, the mural painted on the wall behind her had been done with loving care and an inordinate amount of skill. The deific face stared down upon him with kind, compassionate eyes – clearly the artist’s attempt to capture the magnificence of Lunaré’s benevolence.
+
+“Good morning, Priestess,” Calen said, greeting Lamyndra Duskwind with a respectful bow. “How is she doing?”
+
+“Lyeneru Silverleaf? She is a grumpy invalid,” the Night Elf priestess said, glancing up at him, but her face remained serene, showing none of the frustration he might have expected from her words. “But she is healthy enough to recover the rest of the way on her own. You may take her.”
+
+“Thank you for your care,” Calen said, dropping a pair of gold coins into the offering bowl where they gleamed brightly among the copper coins and other change the temple had collected so far today. All the elixirs and treatment had of course been paid for by the Pathfinders Guild, but Lamyndra had given generously of her own time to care for Lyeneru throughout her convalescence, and he knew the temple was always in need of more funds to care for those who couldn’t afford to pay.
+
+She bowed gracefully, thanking him for his offering, and then he left to find Lyeneru in her room already dressed and pacing back and forth with restless energy.
+
+“What took you so long?” she asked with a frown.
+
+“Just getting supplies,” Calen said, catching a hint of the restless, caged energy that Lamyndra must have been complaining about. The two weeks since they had returned from the Aman Rak had flown by with a different kind of hectic activity: evolutions, training, supplies, crafters, and even a new trading house in town. It was abundantly clear that Myrin’s Keep would never be the same, but it seemed too early to tell if it would be a change for the better. All of those zone notifications couldn’t have been good for her frustration at being stuck in here.
+
+“Let’s go get Aliandra,” Lyeneru said with brusque energy, snatching up a few things scattered about her tiny room and making them vanish. “We need to speak with Nathaniel Sunstrider immediately. He needs to tease apart the secrets of that artifact – it’s an unprecedented opportunity to unravel the Blind Lich’s plots and machinations, and the sooner we get it underway, the sooner we can drive him out of Dol Kerriadh.”
+
+“Right,” Calen said, turning and leading the way to the Adventurers Guild and the teleportation circle that would carry them to the grand library deep underground. There she is, he thought, hearing the steely determination and call to action he had come to associate with his legendary mentor returning to her voice and manner.
+
+Ali woke up feeling greatly refreshed, having slowly acclimated to sleeping through the constant trickle of notification chimes and the sense of mana and magic being wielded unceasingly throughout her domain. The training arena had not seen much downtime since Ali had advertised it with the guild and, while it was quieter at night, some adventurers preferred to study when the library was empty. Both activities provided a steady but small prickle of understanding, feeding her Sage of Learning and masteries via the domain tithe – an influx that promised incredible growth over the long term.
+
+Her dungeon defended itself around the clock against the adventurers now raiding her bosses in shifts, and from the constant stream of monster incursions. Several dozen zombies had found their way in from the blighted forest, killed by her wolves and traps; a couple of large spiders had crept in through the endless cave system, only to be burnt to cinders by her Fire Mage; and there was always the never-ending stream of demons flowing through the rift to be frozen and shattered by Mok’freja’s piercing ice.
+
+She deconstructed all the corpses and trash as she scanned through the full extent of her dungeon, searching for danger or problems, a chore that took little more than a few seconds with her new domain-wide perception. She took a little more time going through the list of kill notifications, and the occasional level-up of her defenders, but besides the normal stuff, not a lot had happened.
+
+Ok. Time to face the day. Chores first! Ali got up and made her way over to the table and the large pile of books Ryn had left for her. This was a chore that grew taller and taller the more Ryn advanced, but it had never bothered Ali in the slightest.
+
+Hmm, what do we have here? Ali popped the top book off the pile and flipped it over and then froze as she took in the cover.
+
+Caedryn’s Compendium of Curses.
+
+Death magic? Ali touched the glowing black runes etched into the black leather, sampling the familiar, chilling affinity through her fingertips. Did they deliberately try to make this book look as ominous as possible? There were embossed patterns along the edges of the cover that looked distinctly like teeth. So tacky. Ali flipped it open to the first chapter.
+
+Something for Seth, perhaps? she decided as she found a detailed description of his favorite Amplify Damage curse as the first case study in a section titled ‘Essential Curses for the Discerning Necromancer.’ She paged through several following curses before she made the connection to something Seth had suggested almost a week before they had left for Aman Rak.
+
+That feels so long ago. She turned the page again.
+
+Seth had the idea that Ali’s traps could become far more versatile if she could figure out how to make them cast area curses – or even just curses on anyone who stepped inside the runic circle. She had agreed, in principle, that it was a fantastic idea, however, her arcane and nature affinities were generally lacking in decent curses.
+
+But… that’s not a problem anymore! Her experience with Tol’brekk had taught her that even death magic could be at her disposal, should she require it. By the time she had figured out how to inscribe an Amplify Damage runic circle and attached it to a temporary planter full of Spectral Wraithroses, her head was buzzing with new ideas. There were almost as many good curses in fire as in death – both Explosive Conflagration and Agony of Flame were available to her. If I ever figure out how to extract the formation from my Grimoire imprint for those warlocks. Wait, I should be able to make them now! Explosive Conflagration had a built-in Curse Proliferation, and Agony of Flame was an advanced fire vulnerability curse that also burned its victim. There was also the Phoenix Conflagration curse which did area damage over time. It was just a shame she had removed the Storm Shamans, or she might have been able to use the Lightning Vulnerability curse for her lake boss. Worst case, she could just summon the monsters using fire-affinity mana and study the curses directly.
+
+Vulnerability curses have to be common, right? she thought, and that prompted a diversion that had Ali unearthing several basic vulnerability curses for lightning, fire, and ice affinities from among the many magical tomes Ryn had gathered for the library.
+
+By the time Ali got around to finishing off the large pile of books Ryn had left for her, Calen returned with Lyeneru.
+
+“Hi, Ali,” Calen said. “Are you ready?”
+
+“Yup. How are you feeling, Lyeneru?” Ali asked. The Night Elf had been haggard and frail after the fight – no surprise, given her opponent had been the Blind Lich himself – but she appeared to have mostly recovered her energy and vitality. The expert care of the priestess of Lunaré, Lamyndra Duskwind, along with a healthy dosage of Eliyen’s curative elixirs, had clearly worked wonders for her.
+
+“I’m about half recovered from the drains,” Lyeneru admitted, “but that annoying priestess said I’m healthy enough to go now, as long as I don’t get into any fights.” Her momentary sullen expression before she schooled her face looked precisely how Ali remembered feeling when her mother had confined her to bed for recovery in her youth. “I think she was eager to get rid of me finally.”
+
+“I can’t imagine why,” Lira said, her face oozing a serene calm that got a double take from nearly everyone.
+
+Ooh, Aunt Lira! Careful with that burn vulnerability curse! Calen had mentioned just how grumpy Lyeneru had been during her convalescence, and perhaps it was better for everyone that she was up and around now.
+
+“Well, we’re not going to fight anything, just visiting Ciradyl,” Ali said, grinning at her aunt. The only time she had visited the fabled city of the Wood Elves, she had arrived and left under frantic urgency on her way to Aman Rak and hadn’t had nearly enough time to explore even the tiniest fraction of the tree city. There was a vast library in the Elven city that Ryn always waxed lyrical about, and she very much wanted to see the ancient Well of Souls and the magic that supposedly protected the city. Of course, she needed to study the unique trees; the only trees she knew of that were larger than her evolved Lirasian Oaks.
+
+“Do you have the artifact?” Lyeneru asked, a near-feverish intensity in her gaze. “It is imperative that we get it to Nathaniel Sunstrider and the Council of Archmages for study.”
+
+“Are you sure this is a good idea?” Ali asked. Nathaniel still gave her an unsettling feeling… and there was that scary Spirit Realm enchantment upon him.
+
+“I understand your misgivings,” Lyeneru said. “The Archmage’s wards are inscrutable and incomprehensible, but as I said last time, I trust him with my life. Lirasia and Tol’zerath investigated your worries, and they concluded it was safe. The dungeon artifact represents the first significant breakthrough in combating the Lich’s power in millennia and Nathaniel Sunstrider is the only scholar with the knowledge to extract its secrets.”
+
+“Yes, I know. I will bring it,” Ali said. They had had this conversation more than once, and it always ended the same way. Tol’zerath’s divinations had proved inconclusive – he had not been able to see any obvious danger related to the Archmage himself. And Lyeneru was right, learning the shrine’s secrets to combat the Lich was crucial to defending the realm against his evil. Still, the memory of those dark, leech-like tendrils feasting on him made her skin crawl. Was that really a ward?
+
+While she was reluctant to part with something so fascinating, she had already exhausted her ability to study the shrine and the artificial dungeon it produced. It was still far beyond her ability to duplicate – not that she necessarily wanted to duplicate the artificial dungeon – but she was certain that unraveling its deeper secrets could teach her a great deal about her shrine and dungeon, and perhaps even lead to the construction of artifacts similar to the Anvil of the Emberforge. Still, she had taken copious notes which would give her study material for a while – and she fully appreciated the strategic advantage the Lich’s artifact would bring in the struggle against the encroaching armies of the dead should Nathaniel Sunstrider succeed in uncovering its weakness. Besides, there was not a lot else she could glean from the device without setting up a more permanent dungeon and cultivating it – and by now, she was certain the Lich had summoned a new avatar. She had no desire to invite his attention any more than she already had – and she had some personal experience with the impressive wards Nathaniel had at his disposal.
+
+Yes. It’s better this way. I can always ask the Elves what they learned when they’re done with it, she decided. Nathaniel owed her a favor, and Lyeneru had offered to ensure she was kept in the loop. Ali was the one providing the artifact and the entire set of the Death Knight creation array blueprints from Aman Rak, after all; she was certain she could convince the council to share some of what they learned with her later.
+
+“Everyone ready to go?” Lyeneru asked.
+
+“Yes,” Ali said. “I’ve inscribed a new teleportation circle on the ground floor that will take us directly to Ciradyl.” She had been very proud of herself for memorizing the Ciradyl Locus in such a short time on their last visit, and today it was going to prove quite handy because everyone had agreed to accompany them to Ciradyl – ostensibly to answer any questions about Nevyn Eld or their experiences in Aman Rak – but Ali was certain they all just wanted a little time for sightseeing and relaxation.
+
+Maybe it’s time to let the high-level people handle the problems. A relaxing visit would be very welcome. It was with an air of excitement that she, Lyeneru, and her friends all stepped into the teleportation circle.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,173 @@
+---
+id: 73817733-e8be-5679-b801-ed3c4a76c981
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seventy-One: The Second Circle"
+slug: 0072-chapter-seventy-one-the-second-circle
+partOf: flesh-eater-demon-evolution-litrpg
+position: 72
+ownLength: 3101
+unit: words
+publishedAt: 2026-03-14
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3150446/chapter-seventy-one-the-second-circle"
+royalRoadId: "3150446"
+---
+
+Daphne cursed as her brush caught in her hair. She attempted to untangle the red strands with her fingers, but it was about as effective as trying to put out a wildfire with a washcloth. She ended up extracting the brush from the knot, then smoothing that spot out as much as she could. Her eyes shifted over to the mirror in front of her.
+
+She looked like shit. Dark circles sat below her eyes like bruises, and a weariness seemed to linger over every feature. She looked like she’d aged five years in the span of a day.
+
+The noble took a deep breath and forced herself to straighten, posture returning to her usual poise. She reached for some concealer to hide the circles as best as she could. She couldn’t risk giving anything away, and looking so obviously tired would inevitably arouse suspicion.
+
+Daphne hadn’t been able to sleep properly since discovering that ritual circle in the sanctum, red lines painted over the white stone like a bleeding wound. She lay awake at night replaying that Empire mage’s words over and over again in her head, thinking back to every past interaction she’d had with her uncle for the last year. She felt like she should’ve noticed something, like there should’ve been signs. Maybe there had been. Maybe she’d just been too stupid to pick them up. Or maybe he’d really given nothing away at all, all too comfortable lying to his family. Daphne wasn’t sure which one felt worse.
+
+Sighing, the noble patted on a bit of powder to set the concealer, then rose from her chair and smoothed out her dress. She hadn’t wanted to leave the room last night, anxious to see if the seeds were planted successfully, but Callan had pointed out that Pyre wouldn’t return until her guard shift was over anyway. The third time she almost fell asleep, she’d begrudgingly conceded and returned to her own room for another fitful night’s rest.
+
+Now, the sun beamed through the gaps in the curtains. Daphne could see a few guards mulling about outdoors. No signs of panic. That was good, at least. It meant Pyre hadn’t been caught.
+
+The mage’s lips thinned at the thought of the demon. That was yet another major revelation weighing on her mind. Pyre had been acting exactly the same as before, which made it easier to slip into their old tentative friendship. After she’d had some time to process things, she knew, logically, that the demon was most likely telling the truth. If she was here to hurt people, she’d had multiple opportunities to do so already. She’d protected Callan, protected Daphne, and was now helping to stop the invasion—even if it was for her own goals.
+
+Still, a part of her couldn’t bring herself to fully trust the demon again. Not after she’d been so clearly wrong so many times already. Not when, apparently, it was the easiest thing in the world to lie to her, if even her uncle had managed it. She couldn’t help but feel like she was betraying her parents, somehow, by siding with a demon.
+
+Daphne’s hand instinctively moved to her chest. Since her last attack in the tunnels, there’d been a persistent, dull ache there. Nothing like the sharp pain she was used to and pretty easy to ignore, all things considered, but its constant permanence was what bothered her. She could practically feel her life draining away with every slight ache.
+
+She frowned, remembering what that crossroads demon had said. Her fingers clenched, and she forced herself to shove the memory down. Not now, she thought. Right now, she needed her full attention on stopping the invasion.
+
+Daphne turned away from the window, squared her shoulders, and opened her bedroom door, stepping out into the hallway.
+
+A maid holding a feather duster stepped past, and Daphne gave her a smile and a nod. She bowed, not seeming to notice Daphne looking more tired than usual, so she’d count that as a success. The noble turned and made her way down the hall towards Pyre and Callan’s room.
+
+Around the corner, footsteps approached. Her pace slowed. She was expecting another maid or butler, maybe some guards on morning patrol, but instead, she was met with the sight of Lord Bellhein himself.
+
+Daphne froze. Her uncle was wearing his outdoors cloak, probably preparing to leave the manor, and in the middle of speaking to one of the guards escorting him out.
+
+If Daphne had thought she looked bad, her uncle was far worse. There was a frazzled look to his eyes, the usually concealed paranoia now more visible than ever before. He looked like he was arguing something, low voice carrying down the hall as he and the guards approached. It was only when he looked up and saw Daphne that he cut himself off.
+
+“Daphne. Good morning,” he said. That weariness was still there, but he smiled.
+
+Daphne’s fingers clenched into a fist, jaw tightening. It took every ounce of self-control she had to force her features to remain calm even though all she wanted to do was to grab the man and ask how he could work with the Empire, how he could betray his country, his son, his dead sister like this.
+
+But she couldn’t say that, and she couldn’t risk giving anything away. So instead, she plastered on a pleasant smile and curtseyed.
+
+“Good morning, Uncle. Heading out already?”
+
+He nodded. “I have some business to attend to,” he said. Daphne resisted the urge to roll her eyes. That was what he always said. Now that she knew exactly what that “business” was, the words were even more aggravating.
+
+“You look tired,” she said, purposely furrowing her brows a little in concern. “Is everything okay?”
+
+The man stilled for a second, but the moment passed quickly. “I’m alright,” he said, a new terseness in his tone. “I’m… having a bit of an argument with one of the other council members. You needn’t concern yourself with it.”
+
+Daphne’s eyes narrowed slightly. She was guessing the Empire wasn’t too happy to find one of their mages and two of their golems dead in the middle of the sanctum, especially when Lord Bellhein wouldn’t have much of an explanation for it. Even if they accepted the cover-up story that the mage had lost control of the golems, they were probably still pretty unhappy with the lord. She couldn’t say she felt bad about it.
+
+“Well, I hope things calm down soon,” she said, still in that amicable voice. “Have a good day,” she forced herself to add.
+
+Her uncle just nodded at her, and with a final gesture to the guards, he soon disappeared down the hall. Daphne watched his back get smaller and smaller until he turned the corner and disappeared entirely from view. A growing lump sat heavy in her throat.
+
+She shook her head, took a deep breath, and continued down the corridor.
+
+When Daphne entered Pyre and Callan’s room, she was immediately greeted by the sight of ritual circles and open books scattered everywhere. A sigil had been drawn on a large paper sitting atop the floor, and she could still see the pile of failed seeds from the previous day lying in a heap in the corner.
+
+Hover-pacing on the other side of the room, Callan spun around when he heard the door open and close. The ghost had been staring down at the books, and Daphne remembered that he could actually turn solid to flip the pages. He probably didn’t need to, though, since Pyre was lounging at the desk chair, completely solid and able to grab whatever the ghost needed. The noble stepped forward.
+
+“Did it work?”
+
+Daphne cut right to the chase. Running into her uncle had only made her even more eager to stop the invasion as soon as possible.
+
+Callan blinked, but quickly righted himself. He cleared his throat, and Daphne wondered if that was actually necessary for a ghost to do or if it was just a habit from when he was still alive.
+
+“Pyre planted the seed in the garden,” he said, floating over to the main sigil paper on the floor. His brows furrowed. “I can feel its presence—I’ve been channeling ichor into it all morning. Nothing feels wrong, but…” His voice trailed. Across the room, Pyre snorted.
+
+“I’m telling you, it’s fine, kid,” the demon drawled. She glanced over at Daphne and raised an eyebrow. “He’s always worried about something.”
+
+Daphne snorted despite herself even as Callan grumbled, “Someone has to be.” Yeah, she’d noticed that. It was almost scary how quickly she’d gotten a grasp on the two’s respective personalities. They seemed like polar opposites.
+
+“No one saw you plant the seeds, right?” Daphne turned to Pyre next. The demon looked over at her, those steel grey eyes assessing in that unreadable way of hers.
+
+“Nah,” she finally said. She still had the bag of seeds attached to her belt, Daphne noted. “Whole thing went smooth.”
+
+The noble nodded slowly. “Okay,” she said, then repeated it more confidently. Some of the coiled tension in her stomach loosened, but it was far from disappearing. She knew it wouldn’t until they’d destroyed the barrier and ritual circles once and for all. “We just have to plant two more, then. The one in the forest and the one in the garrison.”
+
+Callan hummed in agreement. He hadn’t moved from the sigil, and the center of his palms glowed slightly as he continued to channel ichor into the seed. The string of connecting runes and spells they’d set up seemed to be working so far.
+
+“The one in the woods shouldn’t be too hard,” the ghost said, brows furrowed both in thought and probably exertion. “If you open up the wall, I could plant it and come back without anyone noticing. The one in the garrison…” His voice trailed.
+
+Out of all the circles, the garrison one would be hardest to access. The whole place was well protected, so sneaking in wasn’t possible, and Daphne didn’t have much of an excuse to visit, either. She still could—they wouldn’t tell her no, and she could find a reasonable enough explanation—but it wasn’t ideal if there was a better, less suspicious way.
+
+Callan’s gaze shifted over to Pyre, probably thinking the same thing. “You’re supposed to head back to the garrison soon for extra training, right?” he asked. Daphne’s eyebrows rose. Huh. That made sense, given how fast Pyre’s “promotion” to a guard had been. That would certainly make things easier.
+
+The demon nodded. “Yeah, first session’s tomorrow. I can plant them when I’m over there.”
+
+Daphne’s heart raced with anticipation. “Then we take care of the one in the forest today,” she said. Admittedly she’d been a little doubtful of this plan before, but to be fair, she was pretty sure all of them were. Things were working out much more smoothly than she’d hoped. This could really work. They were going to stop the invasion.
+
+“Okay, we can head to the forest after breakfast.” The noble spoke with finality. As much as she wanted to just plant the seed right now, it would look suspicious if she didn’t show up in the dining hall. Callan and Pyre both nodded.
+
+“Sounds like a plan.”
+
+Dear Daphne,
+
+How are you? It’s started raining in the capital, but I believe the skies will clear up later today. Weather willing, the roads should be safe to travel on by the time I leave.
+
+Daphne’s eyes scanned the letter in her hands, taking in the words.
+
+Breakfast had been a quick affair. After mentioning to John that she was going on a stroll, she’d moved outdoors and wandered around the garden for a bit before stepping into the trees.
+
+From there, she’d made her way over to the wall and carefully opened it, allowing an invisible Callan to slip outside the manor grounds. He’d had to turn solid before leaving, mostly so he could grab the seed bag that Pyre had been holding. No one had seen them, and Daphne and Pyre returned to the manor with no one the wiser. They were supposed to head back in an hour to let Callan back in.
+
+While they waited in Daphne’s room, she’d taken the opportunity to read the latest letter Edmund had sent. She’d thought it would help take her mind off things, calm her nerves. Her anxiety only returned, however, as she continued to read.
+
+“What’s it say?”
+
+Across the room, Pyre leaned casually against the wall, her tall form standing out starkly in the room. Compared to Daphne, she didn’t look worried at all, but she couldn’t tell if that was because the demon actually didn’t have any concerns or if she was just better at hiding it.
+
+Daphne swallowed and set the letter back down on her desk. “It’s from Edmund. He said the council meeting wrapped up early. He’s coming back.”
+
+Pyre raised an eyebrow. “Is that a bad thing?”
+
+The mage shook her head. “No, it’s just—” She made a vague gesture with her hand. “I was just hoping he wouldn’t come back before we’re done destroying the ritual circle.”
+
+Even if things were going smoothly right now, there was still a chance that their plan would fail, and if that happened, she didn’t want Edmund anywhere near Magrath.
+
+Daphne swallowed. She still hadn’t thought about what to tell her cousin about the ritual, about his father. The truth would crush him, but he also deserved to know what was happening. He’d end up finding out, anyway, since Daphne had no intention of letting her uncle walk away free after the invasion was stopped.
+
+There had been a brief moment, when she’d been sitting in the forest thinking about everything that had happened, the crossroad demon’s words about her parents and her condition still ringing in her ears, that she’d wondered if maybe Edmund was in on the plan as well.
+
+She’d quickly dismissed the thought. Even in her most paranoid, self-deprecating state, she was sure she’d notice if he’d been involved. Lord Bellhein’s constant avoidance of his son only gave credence to that.
+
+“Well, the seeds’ll probably be planted before he gets back,” Pyre said, voice still languid and casual. Daphne didn’t know how the demon stayed so calm. Even if she didn’t care about the invasion itself, her life and soul were literally on the line here.
+
+“That’s true,” she said slowly. Speaking of the seeds, she glanced up at the clock. Callan should be heading back soon. Daphne rose from her seat and made her way towards the door, Pyre following a step behind.
+
+The walk down the hall and towards the manor exit was quiet. Daphne forced herself to step evenly with her head high, even pausing to chat with Harris just to keep up the pretense. Finally, after a nod at the guards standing on either side of the door, she stepped back outdoors and made her way towards the trees.
+
+It was a bit of a trek to reach the western wall. The Bellhein property was ridiculously large, after all, but in this case the distance made it easier to move without anyone noticing them.
+
+As Daphne walked, she kept glancing over at Pyre, the demon’s presence a silent constant. She looked exactly the same as she had the first day she’d arrived at the manor, bandages wrapped tightly around her flesh, broad shoulders and hulking height making her impossible to miss. She remembered the demon mentioning her true form in the library. A giant mound of flesh, she’d said. It was hard to imagine, considering how human Pyre looked right now, but then Daphne thought back to the mass of flesh her arm had turned into in the sanctum.
+
+The demon glanced over and raised an eyebrow, noticing the mage’s staring. “What?” She sounded amused, but it was a mild thing. All of her emotions were like that—mild at most, always a little detached. Daphne wondered if it was her personality or a result of her missing soul. Or maybe it was a demon thing.
+
+“Nothing,” she muttered.
+
+The mage faced forward again, not slowing her pace until she could make out the stone wall beyond the trees. She didn’t see any guards swarming the area, which was already a good sign. Daphne moved more quickly, half-running over to the wall and pressing her ear against it.
+
+“Coast’s clear,” a low voice said behind her.
+
+Daphne glanced over and saw an… arm? Limb? It looked like an extra blob of flesh had been extended up from the center of Pyre’s palm, sticking up through the canopy like some kind of fucked up watchtower. At its tip, she could see what looked like a round eye.
+
+A laugh rose, unbidden, in Daphne’s chest. She shook her head. She probably shouldn’t be surprised, after the library office key debacle.
+
+Turning back to the wall, the mage carefully pressed her hand against it. She waited, shoulders tense, for the stone to unfurl and open. It was only when Callan’s familiar form floated forward that she relaxed a little.
+
+“They’re planted,” the ghost rushed to say. He was vibrating a little in the air, either from nerves or excitement. “No one saw me, I don’t think, and I can feel the ichor connection, so there’s probably nothing wrong with the spell. At least, not yet.”
+
+“Nice job, kid,” Pyre said. Callan smiled, pleased. Daphne couldn’t help but return the look. The two’s interactions really did seem so… normal, despite them both being monsters.
+
+Former human monsters, she corrected in her head. The distinction was important—or at least, it was to her.
+
+Turning to the wall again, the noble pressed her hand against the stone to close the gap back up. After a minute, the wall was back in place, perfectly solid, the guards and her uncle none the wiser.
+
+She glanced up. Through the leaves, she could see that the sun was still high in the sky.
+
+“Let’s head back,” she said. She nodded at Callan. “You can start channeling more ichor into the seeds, then tomorrow…” Her gaze moved to Pyre then, brown meeting steady grey. “Tomorrow, you plant the one in the garrison.”
+
+After that, all three circles would be ready. Callan would just need to channel more ichor into the seeds, then they’d be ready to destroy the barrier and stop the invasion once and for all. Daphne took a deep breath.
+
+One more circle.

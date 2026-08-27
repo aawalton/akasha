@@ -1,0 +1,185 @@
+---
+id: 23381305-6b15-5935-9149-0662a47ffb60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 444: The Weight of an Acorn"
+slug: 0481-chapter-444-the-weight-of-an-acorn
+partOf: dungeon-of-knowledge-complete
+position: 481
+ownLength: 3377
+unit: words
+ownProgress: 3377
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2766057/chapter-444-the-weight-of-an-acorn"
+royalRoadId: "2766057"
+markedReadAt: "2026-06-29T20:28:30.983Z"
+---
+
+Calen picked himself up from where the final blast of Lira’s explosive spell had thrown him and let out a deep sigh. The massive dark boughs of the Malevolent Lirasian Oaks finally lay still, and the near-constant whistling of hundreds of rot bolts was gone, leaving the dark and twisted grove in relative silence.
+
+Unwilling to believe that it was over, he looked about, searching for threats, but nothing sprang from the darkness to challenge them. Ali sat quietly among Mato’s roots, clutching an acorn to her chest as the remains of the dark corruption infecting his trunk and branches quickly faded.
+
+We won. We really did it and Ali got something more precious than life itself. Deliberately, he pinched his own arm. Damn, that’s going to take more than a minute to sink in. Oddly enough, what he wanted most right now was to hear the ancient dryad’s gentle voice offering a cup of tea. What he wouldn’t give for that!
+
+Shaking his head and just to quell any lingering doubts, he opened his notifications to find the brightly shining text indeed floating there, confirming that, yes, the monstrous trees were dead.
+
+Your group has defeated Malevolent Lirasian Oak – Ancient Treant – level 207 (Nature / Death) x4
+
+Realm Hunter has reached level 138 (+9).+90 attribute points.Radiant Archery has reached level 77 (+3).Arrows of Brilliance has reached level 72 (+3).Motes of Light has reached level 52 (+2).Explorer has reached level 71.Blessing of the Dawn has reached level 55 (+4).Eclipse has reached level 40.Eyes of the Archon has reached level 49 (+2).Righteous Fury has reached level 48 (+3).Azrael's Wings has reached level 35 (+2).Mirage Armor has reached level 52 (+4).
+
+Nine levels. That’s… a lot. Calen simply sat and let it soak in for a minute. It was not the number, so much as what it represented – a Champion-level boss defeated. Traditionally, dungeon delvers and adventurers organized in groups of about five members, covering the essentials of tanking, healing, and damage dealing, with a healthy side of various perception, movement, stealth, and other useful techniques and skills. This fight had taken more than nine disparate groups and help from a dungeon in the Spirit Realm, not to mention the legendary archer, Lyeneru Silverleaf herself.
+
+And we nearly failed again.
+
+As impossible as it had seemed, it had perhaps been unnecessarily more difficult than it might have been. His skills were lagging behind, and his gear was even worse off. It always seemed as if there was never enough time for proper training and gathering, questing for materials to have the crafters tailor gear for each encounter, like every adventuring guide recommended.
+
+At least I have something in the works, he thought, allocating six points each to strength and wisdom before considering how to distribute the rest among his usual attributes. Hopefully, Giddy Clicksprocket could make what he had commissioned, and then he would have a bit of an upgrade.
+
+Hmm… Considering his remaining points for a moment, he added four to vitality and two to endurance. Then he assigned twenty-two to dexterity and twenty-five points each to perception and intelligence. That should do it, at least for now.
+
+But his notifications suddenly chimed again, radiant text unfolding across his mind.
+
+Requirements met for skill advancement.Patron deity: The Wanderer.Mirage Armor has reached at least level 50.Synergy: Eclipse has reached at least level 40.Intelligence has surpassed 1200.Perception has surpassed 900.Defeated a Champion-level dungeon boss.Defeated an Ambush with a decoy.Entered stealth multiple times during a battle. Mirage Armor gains Vanish.(Whenever you create a decoy, you can use any Stealth or Illusion skill affecting yourself, even if you are being observed. Recharge: 2 minutes.)Mirage Armor gains Double Decoy.(You can deploy twice as many decoys, and they last twice as long. Each decoy deployed increases your evasion).Choose an advancement.
+
+Calen did not even need to ask Lyeneru or his friends for advice. Double Decoy was an incredible defensive skill, and depending on how much additional evasion he gained, he may become as unhittable as Malika. However, his role in battle was rarely to get hit – if anything, he would rather be unseen.
+
+Vanish was simply an extraordinary advancement. There was only one use for it, and that was to make himself disappear under the very noses of his enemies – he had three stealth tools: Eclipse to make himself invisible, Explorer to cloak his passage and sounds, and Mirage Armor to conceal his mana. If he was able to make himself disappear mid-combat, he would gain repeated access to his Ambush – and that was far more than he had ever hoped for the skill.
+
+Initially, he would have been hesitant to pick it, but ever since he had earned his advancement that allowed instant Power Shot whenever he triggered Onslaught, he knew this would dramatically increase his power. The ability to unleash a full Power Shot and Ambush combo multiple times during battle would be too good to pass up. Especially given he would be able to combine it with explosive shot, multishot, and his spectral arrows. He couldn’t wait.
+
+He accepted the advancement and got to his feet, and then walked over to the others, triggering his new Vanish advancement along the way.
+
+It was, he decided, a thing of beauty. Mid-stride, his decoy appeared, seamlessly finishing the step as his real body disappeared under the cloak of warped and twisted light, a transition so flawless that even his own eyes wished to follow the decoy as it continued to walk onward.
+
+A little frown creased Lyeneru’s brow as she followed the decoy momentarily before her eyes flicked back, searching intently where he stood, silent and invisible. It took a moment, but she finally latched onto his position. “Now, that’s an impressive trick,” she said.
+
+He just grinned at her, happy for the compliment even though he had seen her use something similar.
+
+Malika paced out the perimeter of the clearing where the rest of the guild adventurers sat, bleeding off her excess power as Abiding Perseverance slowly faded. It was a strange feeling, coming down off a long battle after having her abilities overcharged for so long; she felt sluggish, and her body seemed to grow heavier.
+
+Mythic. What the heck was that? It was no secret that the fight had weighed hard on Ali’s spirit; how could it not? They had been fighting against the undead specter of her aunt. Yet, right at the end, the servant of the Lich had unleashed something unimaginable: The Cycle of Rebirth. A mythic-class world magic spell. As to what it might have accomplished, Malika had no clue, but she could feel the sense of hope rising in her like bubbles in sparkling water. And she could also Appraise that knot of overwhelmingly intense green mana Ali still clutched tightly to her breast.
+
+It was a good thing that Mato and Ali didn’t seem to need immediate aid, and that the urgency around the realm notification seemed to have abated. They would definitely talk later. It had been a grueling fight, but it was won through clever planning, hard work, persistence, a couple of tactical regroupings – she grinned inwardly at the generous euphemism – and sheer grit.
+
+In the back of her mind, the glowing blue-white text hovered in the wood-paneled training room, waiting for her attention. By now, she had concluded that the initially indistinct spirit dojo that had appeared right after her evolution was connected with her growth, her ancestry, and her memories. It had become nearly fully-realized in her mind now, and to her surprise, it resembled the training room Ali had created for her just as much as her parents’ dojo from her memories.
+
+It definitely bore further meditation. For now, she walked off her slowly diminishing power while checking on her growth.
+
+Eyes of the Soul has reached level 139 (+9).+90 attribute points.Martial Artist has reached level 70 (+3).Soul Strike has reached level 73 (+4).Healing Mantra has reached level 83 (+2).Perfect Body has reached level 49 (+2).Soul Armor has reached level 61 (+2).Enlightened Evasion has reached level 54 (+2).Divine Step has reached level 65 (+3).Second Wind has reached level 41.Clarity has reached level 47.Soul Sight has reached level 49 (+4).
+
+Some good numbers this time. Malika smiled, happy to finally see Soul Sight earning substantial growth from a fight. While she loved her class and all the skills she had chosen, eye magic had always been close to her heart, ever since she could remember.
+
+The sensation of focus, and the burning of power within her eyes as she wielded Martial Disruption to interrupt the Treants’ Compost skill time and again, and the near-instantaneous understanding of the ability from her Infinite Perception advancement had given her a taste of what it must have been like for those heroes and legendary ancestors of old that strode across the pages of her childhood stories, igniting her imagination and filling her with dreams.
+
+It had been a challenging fight for sure, and even her role of controlling the monstrous Treants’ mana pools was necessarily a team effort, but her efforts had clearly been crucial, at least if the reward of four levels in both Soul Strike and Soul Sight was properly considered.
+
+With ninety new unspent attribute points, she had some calculations to run. After several moments and a couple of laps around the clearing, she spent seventeen points on vitality, twenty on wisdom and endurance, and twenty-one on dexterity. That left her with enough to put two into intelligence, three in strength, and her last seven points, which she reserved for perception.
+
+Rezan, you were right. She had been excited by her Martial Disruption and Infinite Perception advances at the time, but Rezan had casually introduced her to the idea that mere excitement was vastly underestimating the potential of what she had unlocked. Both skills synergized to give her an incredible martial skill denial – a phenomenal disruption against the backdrop of her slow and steady resource denial strategy.
+
+Her reverie was suddenly snapped by a subtle pulling shift in the ambient mana around her, a sluggish growing and rippling drawn toward the center of the clearing as if by invisible claws. The center, where her eyes took in the still-slowly spinning dark artifact of the Blind Lich.
+
+Speaking of the realm notifications… oh, shit!
+
+“Ali? Ali!” Malika’s voice sounded insistent, like she had been trying to get Ali’s attention for a while.
+
+Ali glanced up at her friend.
+
+“Ali, can you take care of the dungeon?” Malika said, and Ali found an unexpected worry flickering across her friend’s face.
+
+“What?” she asked. Didn’t we win?
+
+“That was a realm-wide notification. There is no way Nevyn Eld missed it,” Malika insisted.
+
+“Oh,” Ali said, and then turned to glance at the still-floating dark artifact that had powered the Blooming Rot dungeon, enslaving Lira’s specter. As she turned, mana began collecting within the slowly spinning black stone. “Oh, shit!”
+
+Instantly, she triggered Minion Teleport to reach it, but in her haste, she had forgotten about the domain-empowered suppression aura that was even now smothering the fitful pulses of mana in the artifact, and her reflexive action was blocked. But then she understood why the Lich hadn’t instantly appeared with Lira’s death. The domain artifact was trying to project its locus, but teleportation into this area was similarly suppressed, and now, it seemed to be gathering more and more mana as if to probe the limits of the array.
+
+Quickly, Ali tried to store Lira’s acorn, but the storage enchantment failed to accept it.
+
+Ali had no desire to wait and see if the Blind Lich could overpower the formation like Lira had. She flew over to it as fast as her wings could carry her, slowed down by the unnatural weight of the acorn she refused to part with. As she struggled forward, she tore into the remaining domain mana of the Blooming Rot dungeon with her own domain and stretched out a desperate hand to touch the cold black stone as the runes began to brighten.
+
+Bind yourself as owner of the Blooming Rot shrine? This action is irrevocable.
+
+Ali quickly dismissed the offer, instead storing the artifact in her ring. A ripple pulsed through the domain, and she slammed a barrier around herself just in time to catch the mana implosion caused by the sudden vacancy of the black stone artifact. But, in moments, her domain rushed in with the force of a tidal wave, consuming mana and reclaiming the cavern and all the plants growing within it. She didn’t stop there, pouring her domain down into the Grand Library Arcana like a raging torrent cascading over a cliff, and suddenly everything stilled, and the Blooming Rot was no more.
+
+“Got it,” she said. “I think Cael’s teleport suppression formation saved us. Just barely.”
+
+“Thanks, Ali,” Malika said, sighing a visible sigh of relief.
+
+It was only then that Ali actually looked around. The battlefield was the scene of an incredible disaster. Everywhere she looked, fungal creep had been scoured from the rocky ground, and in many places, it had been scorched or incinerated by hellfire or void. Adventurers sat around in stunned groups processing the aftermath of the incredibly intense fight or by themselves, staring off into the distance for a while. The whole clearing was strewn with piles of the burnt and smashed treant corpses – the ones they had neglected to destroy in the final stages of the fight.
+
+Ali’s two black dragons glided down from above to land beside her as her friends drew closer.
+
+“Holy shit, I got fifteen levels for that!” someone exclaimed, and as if it were a signal, the sounds of excited chatter began to rise as the adventurers stirred from their stunned silence.
+
+“Do you want any of these corpses?” Ali asked.
+
+“I have enough,” Seth answered. “I stored a lot of them during the fight; it was faster than trying to raise them all.”
+
+“Oh, clever,” she said. With her domain filling the area, Ali deconstructed all the remains simultaneously with a wave of her hand. Every single corpse, shattered branch, or broken trunk evaporated into a giant cloud of mana motes that returned to her domain.
+
+Amid the gasps of surprised adventurers, Ali’s chime sounded.
+
+[Sage of Learning]Domain Magic analyzed: Retaliation Trigger (Tree Stride).Domain Magic analyzed: Elemental Storm (Death).Domain Magic analyzed: Clone.Domain Magic analyzed: Mass Summon (Treant).
+
+Only four? There had definitely been five domain magic skills on display throughout the battle, but the one Lira had been using to possess the treants with her avatar was conspicuously missing from her notifications. Was that her ability? It seemed to be the only explanation.
+
+“Four domain abilities,” Ali announced, listing them for Calen to write in his notebook. Retaliation Trigger was expected, but simultaneously, the most interesting. She had expected the domain magic skill to be affinity-based like so many of her other skills, but this one had given her a skill-based retaliation. Interesting. Glancing through the description, she confirmed that it would only work if her chosen minion had the Tree Stride skill, so she wasn’t learning anything new. Still, so many new possibilities.
+
+“Lira’s specter must have been a separate boss, then,” Calen mused.
+
+“I guess so.” It was a simple explanation for the missing domain magic skill, but it fit well with Ali’s observations of the fight. Lira had always said she did not have a combat class, and so, she had likely not picked a boss enhancement for herself, or it had manifested unusually, leaving the Treants as the final boss in the dungeon. Either that or Lira’s legendary world magic had ended the fight by ripping her soul out and depositing it into the acorn phylactery.
+
+That probably counts as dying, Ali concluded, but they had not gained a notification for her death either, just like when Lyeneru had killed Nevyn Eld above the Temple of Aman Rak.
+
+Variant: Malevolent Lirasian Oak added to Imprint: Tree.
+
+The tree imprint was very welcome – she wasn’t certain if she would use it yet, but she knew someone with a pen and notebook who would be itching to hear about its skills.
+
+New Domain Enhancement level (Champion) learned.Champion+4 Domain Magic skills. x15 to Health, Stamina, and Mana.x15 to mana reservation cost.x3 damage multiplier.Domain area restriction.Respawn capable. Domain Enhancement
+
+“Oh, this is nice, would you look at those multipliers?” Ali murmured as she took in the new enhancement. She studied the Champion level Domain Enhancement skill for a few moments before sharing it with Calen and the others.
+
+“Your skill is ridiculous,” Lyeneru said.
+
+“What do you mean?”
+
+“My entire life has been devoted to prying secrets from dead dungeons and the dusty pages of old tomes and scrolls. I can’t tell you how many ancient trolls or hermit elves I’ve tracked down in forgotten caves and ruins just to pick their brains for information that might save lives. And then you show up and just read off the monster skills and dungeon abilities like it’s the easiest thing in the world.”
+
+“You’re annoyed that she can read the skills, Lyeneru?” Vivian said, raising an eyebrow. “You realize that notification means she can make Champion bosses now?”
+
+“It’s unfair,” Lyeneru grumbled.
+
+“Wait till you meet Azryet,” Ali said, getting a completely unreadable expression from the night elf. She was a dungeon, and yet even she was still processing the long-term implications of some of the things she had learned from her short encounter with the dragon god.
+
+“Is it safe now?” Mato asked, walking up to join them, having reverted from his tree form after ensuring the corruption had been eradicated.
+
+“Yes,” Ali said, holding the acorn out to him. “Can I ask you to look after this? It’s heavy, and I can’t store it.” If anyone understood how precious the tiny acorn was to her, it was Mato.
+
+“Of course,” he said, taking the acorn carefully, his eyes filled with reverent sadness and what looked like a tiny defiant spark of hope. A spark Ali resonated with at the deepest core of her soul. The tiny thing vanished from her mundane sight in his large, gentle hands, but even with it hidden from view, she could still see the intensity of the mana burning within it.
+
+“And the dungeon?” Vivian asked.
+
+“The Blooming Rot dungeon is gone,” Ali said. “I have absorbed all its mana. There won’t be any more monsters and dungeon breaks, so we can begin restoring the town.”
+
+“Thank goodness for that,” Vivian said. “Ok, everyone. Let’s pack it up and get some rest.”
+
+“Malika, can you let Cael know we’re done?” Ali asked.
+
+“Sure thing,” Malika said, shimmering and vanishing as she stepped off into the Spirit Realm, and a few seconds later, Ali felt the release of the cloying pressure of the suppression array.
+
+As Weldin resummoned his Town Portal closer and the adventurers started slowly trickling through the shimmering dislocation in space to be whisked above ground for some much-needed recovery, Ali opened her notifications, quickly skipping past the slew of kill messages for summoned monsters, until she reached the important one.
+
+Your group has defeated Malevolent Lirasian Oak – Ancient Treant – level 207 (Nature / Death) x4Dungeon of Knowledge has reached level 157 (+7).+70 attribute points.
+
+Only seven. Malika and the others had earned nine, and some of the adventurers were boasting upward of fifteen levels for the ridiculous fight, but Ali had started at a significantly higher level. Likely, her gain was appropriate for her level. She scanned through the skill increases with tired eyes.
+
+Arcane Insight has reached level 89 (+4).Arcane Recall has reached level 46 (+2).Barrier has reached level 85 (+4).Grimoire of Summoning has reached level 57 (+2).Sage of Learning has reached level 69.Martial Insight has reached level 93 (+2).Empowered Summoner has reached level 74 (+4).Identify has reached level 30.
+
+She didn’t have the energy to do anything fancy. She spent five points on vitality, three on endurance, and two on dexterity. For her core attributes, she allocated eighteen to perception, twenty-two to intelligence, and twenty to wisdom.
+
+That should do it. What a day. Tomorrow… the acorn…
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

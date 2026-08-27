@@ -1,0 +1,131 @@
+---
+id: 7bf1ef63-b071-56e3-8e4a-d769fb2156cf
+page-type-slug: story-chapter-royal-road
+title: "Ch56 Off to Battle"
+slug: 0056-ch56-off-to-battle
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 56
+ownLength: 1934
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3416047/ch56-off-to-battle"
+royalRoadId: "3416047"
+---
+
+I return to the dining hall to see many stewards sweating, passed out, or nervously pacing back and forth. Not a single one looks to be in good shape.
+
+My inner smile is actively suppressed so as not to stand out. I am the only one calm, and even slightly excited that this is happening. The constant daily surveillance and lack of information on what is going on outside the camps has been very eerie. My only outlet for resources has been the Red Pine Market, and there hasn't been any mention of returning there.
+
+“Line up in front of your squad captains! We’re heading out now!” a commanding voice rings out as the sun just barely starts to rise over the horizon.
+
+–
+
+Along with 15 other stewards, I board Bao Zhan’s flying vessel, and we drift off away from the steward’s quarters in silence. The dirt road, hundreds of huts, and the visual of the Ravine off in the distance all recede out of sight.
+
+“I’m your squad captain, Bao Zhan. That is your vice captain, Yun Renshu.” The late stage qi refiner points to a 5th level qi refiner at the back of the vessel. He’s short and blond, dressed in a green outer sect robe, slowly turning the boat.
+
+I quickly read the system scan, but he has the same secret as Bao Zhan and holds no acquired or innate physique. This vice captain is a 35-year-old with three 7th grade spiritual roots. He seems quite average, but his eyes are extremely sharp and alert.
+
+The other two flying vessels head off in the same direction at first, but soon they veer off to their own specified locations.
+
+We’re flying quite fast, clearing at least 200 km per hour, maybe half the speed of the only other flying vessel I’ve been on before. Many of the stewards here are pale and shaking old men I only see in the dining hall every few days, but there are two I recognize, and they seem to be struggling with their own mental battles.
+
+“Li Hao, we have to look out for each other once we’re out there… If they’re calling old men like us out on such short notice, this is not going to be pretty…” Old Chu mumbles out.
+
+Old Liu lets out a sigh, watching the fast-moving unfamiliar trees and mountains pass by below us.
+
+“I finally reach my potential after a lifetime of work, and I’m sent off to die…”
+
+His hands shake even as he tries to steady himself against the side of the boat.
+
+I only nod, staring out at the same passing mountains, trying to mentally map everything I see to get a good idea of what the border of this sect is like.
+
+So far, as a few hours pass and the sun fully rises, there have been three major mountains that have visible structures on them. From what I hear in the whispers, they are the Alchemy Peak, Beast Mastery Peak, and Combat Peak.
+
+Seeing these peaks in the daylight, and at a much higher altitude than I’ve been before, gives me a better idea of their scale. They are ten to twenty kilometers high, far larger than any natural mountains back on Earth. Many of the smaller peaks a kilometer or so high are just considered hills at best and are managed by countless stewards or even left abandoned.
+
+These three major mountains are in the complete opposite direction of the Red Pine Market, that was further to the east, deep within the Sect’s territory.
+
+Soon, we shift our flight path further and further away from these mountains and deeper into the Western Territory. Just as I finally piece everything together, Bao Zhan stands up and points off the front of the boat.
+
+“We’ll be leaving the safe zones of the sect’s Outer Peaks very soon, meaning we will have to descend. The airspace in this undeveloped region is being monitored by our enemy. The coordinates for our touchdown camp are less than 100 kilometers away…”
+
+All of the chatter in the vessel stops.
+
+The dark-skinned team leader turns our way and slowly makes eye contact with every one of us.
+
+“I can only report to you what I know… All of the Foundation Establishment Elders from the surrounding peaks have left to venture toward the true center of this conflict. There was an unknown anomaly called the Purple Armored Warrior that destroyed the majority of the Blood Sword Sect’s base camps in the south edge of the western border. That’s right across from the Ravine your own servant camps were pushing toward. The demonic cultivators reacted and concentrated their attacks here in the weaker north edge of the western border. You should consider yourselves lucky, fate is on your side. I read reports of over 50 steward camps completely destroyed without a single survivor up here where the demons attacked.”
+
+He pauses as the mid stage qi refiner in the back of the vessel starts shifting its controls, sending us on a course closer to the ground.
+
+“All of the nearby Outer Sect peaks have mobilized their disciples, splitting them into squads and pulling over ten thousand stewards from their camps so that we can cover more ground.”
+
+An angry voice interrupts, “So what you’re saying is all the main fighters from the sect were sent to the battlefield, and we’re being used as the glue to fill the cracks in the border because of our vast numbers?”
+
+Bao Zhan nods with a solemn look.
+
+“The Blood Sword Sect has been meticulously planning this attack and have hidden strongholds littered all throughout the undeveloped wilderness. I won’t lie to you and say this is not a death sentence, but at the same time, it is an opportunity.”
+
+Another scared voice replies from the crowd, “Opportunity for what? We’ve wasted away for decades on poor quality rations and have never gotten any proper combat experience. We’re meat shields… don’t sugarcoat this! We’re not official disciples that get pampered like you!”
+
+Bao Zhan grits his teeth and lets out a small wisp of his 7th level qi refining aura. “I am here with you, aren’t I…? You don’t think I fear death too? Having my usual combat squad split up and made to lead stewards that have never killed before into battle? The Sect gives you what you give it in return. You may all feel as though you have wasted your lives as stewards, but this is your last chance to change it. Prove yourself and survive this ordeal, and I will personally bring you to the Combat Peak and vouch for you to become honorary stewards working in one of the halls of the main mountain.”
+
+The tension in the flying boat grows extremely complex after these words.
+
+Some eyes still show anger, but others understand this squad leader's position.
+
+“That means daily contact with Outer Sect Disciples. Far better pay and working conditions than the dead end servant camps you all just left.”
+
+Bao Zhan is silent after these words, and everyone replays them in their minds.
+
+The flying boat descends below the tree line and eventually comes to a halt down in a small clearing in the forest.
+
+Bao Zhan takes out a small jade slip as we all walk off and stows the vessel away in a storage ring.
+
+“Come on, stop thinking about the future and focus on what’s in front of you now. If you don’t survive, none of it will matter anyway. We’ll have to move out on foot from here. Our first camp is 10 kilometers this way. A team arrived here two hours ago to clear out the Demons… but be alert, we’re no longer in the Azure Cloud Sect’s territory. Anything can happen, and you’re all permitted to kill anything that moves on sight.”
+
+Yun Renshu takes the rear of the pack, while Bao Zhan leads our trek up front.
+
+Many stewards pull out common axes, and others hold inferior grade weapons I’ve seen sold in the market for a few spirit stones at most. I calmly walk without taking anything out.
+
+Once we start moving, one of the stewards closest to Bao Zhan asks with a shaky voice, “What are Demons…? Are they monsters or spirit beasts? Or…?”
+
+His words get weaker the more he speaks, and Bao Zhan eventually shakes his head to cut him off.
+
+“I only call them Demons because of the techniques they practice… They’re humans just like us, most likely all servants and outer sect underlings sent out on a similar mission from the Blood Sword Sect.”
+
+We walk further into a thicker portion of the forest, with more trees and bushes as cover before he continues.
+
+“There are only two kinds of Demonic Cultivators you need to look out for. Illusory Demons take advantage of environments like this… they can hide their auras and sneak up on you before you even see it coming. Then there are Blood Transformation Demons… They’re far more flashy, if one is nearby you’ll know it. They can fight one or two levels above their cultivation with brute strength.”
+
+Then he murmurs under his breath, “I guess there is a third type… Phantoms, but there is no point in explaining. If we run into one of those, we’re all as good as dead."
+
+The next few hours go by in silence.
+
+Some stewards calm down, while others nearly sweat away all their liquids.
+
+The smell of iron starts to fill the air as we walk into a slightly rockier region of the forest, but my spiritual senses pick up on faint amounts of qi-infused blood splattered on trees and rocks in our path.
+
+“Slow down! We’re approaching the camp,” comes from the front of the group.
+
+I pull out my low grade bow and secure the sheath of black iron arrows on my back. I get ready to pull out talismans if I need to and slowly make my way forward.
+
+The signs of gruesome battle start to reveal themselves as we move further in.
+
+Fallen trees, broken boulders, and large pits in the ground that look like sword strikes.
+
+However, the blood isn’t entirely fresh. The more of it I sense, the more I realize a lot of it is dried, from hours ago at least.
+
+Soon, the presence of a single mid stage qi refiner hits my senses, yet they are wearing a green Azure Cloud Sect robe. My eyes can’t pick up on him, as he’s hiding behind large mounds of dirt, but the pings in my inner ear confirm they are really there.
+
+Bao Zhan stops moving forward. “Halt. This is our checkpoint, but the mission prompt said there would be men here greeting us…”
+
+His sharp eyes scan the clearing between us and these mounds of dirt, but he doesn’t say a word.
+
+My heart starts beating faster as a stirring sensation within my Illusory Demon’s Concealment Art returns. I haven’t felt the presence of another demonic cultivator like this since I fought alongside Xu Hong in the Ravine.
+
+I pull back an arrow in my bow and shift my stance to point it through the crowd of stewards, back in the direction we just came.
+
+The mid stage Azure Cloud Sect cultivator's valuable secret is the only one left hovering at the forefront of my mind.
+
+[He has betrayed his sect, planning an ambush on the next arriving squad in exchange for his life to be spared by a team of Blood Sword Sect Cultivators.]

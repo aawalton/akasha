@@ -1,0 +1,99 @@
+---
+id: ad2944ec-9299-542b-9c8f-8444e36b0ff8
+page-type-slug: story-chapter-royal-road
+title: "Ch7 Spirit Stone"
+slug: 0007-ch7-spirit-stone
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 7
+ownLength: 971
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211620/ch7-spirit-stone"
+royalRoadId: "3211620"
+---
+
+"Wait 10 days...? Will I get another one then?" I murmur, sitting up in bed, now with a brand new bronze upgrade card floating in my storage space.
+
+I pull it out into my hand, then get out of bed to sift through the chest on the other side of the room.
+
+I pull out a spirit fragment and press the card against it, mentally allowing the system to activate.
+
+This is what I've been thinking about doing all week, but I was too hesitant to waste an upgrade card without proof that I could get more.
+
+Now, after the curiosity has been eating away at me for this long, I have to try.
+
+A bright white flash of light fills the room.
+
+It is far less intense compared to the mysterious lottery draw I claimed before, but it is still bright enough to close my eyes for a second.
+
+When they open again, a bright white semi-translucent stone half the size of my thumb rests in my palm. It's heavy and hot. The light wisps of energy flowing off it make me feel the same way that healing elixir did the first time I smelled it.
+
+Without waiting any longer, I sit on the ground and try to cultivate with this enormous spirit fragment.
+
+I feel warm white energy seeping into my hands as I hold it, but even after half an hour, I can't get the energy to flow through my wrists and down my meridians.
+
+"It's blocked up... this is the curse of 9th grade roots..." I murmur, pulling the large crystal into my system space.
+
+My head hurts, and my limbs all tingle with sharp pain, but I still walk out the door with a smile on my face.
+
+I may not be able to cultivate yet, but my experiment was a success. Using an upgrade card on a spirit fragment has created something of greater value, and it can be used to set a new plan in motion.
+
+—
+
+I chop wood with extra vigor today, filling the bin to its brim well before the sun sets.
+
+Overworking can be just as bad as underworking. If I were to show off now and overfill this bin, it would set a higher standard for my future. Giving just enough to satisfy and not burn myself out is the perfect balance.
+
+When the sun comes down and the familiar outline of Zhou Kang comes into view, I bow and go through the usual motions with him.
+
+Yet, after taking the wood pile away and giving me my daily fragment, I stop him from leaving while still in a polite bow.
+
+"Senior Zhou, this humble servant has a request."
+
+He is already wearing a sick grin, as he's mentally preparing to beat Tang Min. However, a sharp glint shows in his eyes when he turns back to me, looking for a reason to vent his anger on another servant if he can.
+
+"I thought you were smart, but I guess I was wrong about you."
+
+A hard slap hits the side of my head, bringing me to the ground in a dazed state.
+
+Yet, I mentally and physically braced myself for a response like this already.
+
+Coughing out blood, I reach into my pants pocket and pull out half a dozen spirit fragments. It is almost every fragment he has ever given me.
+
+"Senior, this servant would like to pay for a single word of cultivation advice. That is all."
+
+The fragments in my hands disappear as he snatches them, then laughs.
+
+"Fine, you may be dumber than I thought, but at least you're not an idiot. Ask your question."
+
+I smile inwardly, but don't show it on my face.
+
+"Senior, is there a pill that can help cleanse my meridians? I'm willing to pay any price."
+
+I pause for long enough to hear Zhou Kang's heavy breathing quicken, then stop.
+
+"There is one. It is called the Marrow Cleansing Pill. It is an expensive pill for Qi Refiners. They usually use them to attempt breakthroughs into the perfected stage. An elixir that a servant like you could never afford," he replies in a snort and turns away.
+
+"Senior, wait-" I call out, shoving my hand into my pocket again, but reaching into my storage space to pull out the massive spirit fragment.
+
+"Please, find me a Marrow Cleansing Pill. Even if it's cracked, or poor quality. Anything will be worth an attempt to change my fate."
+
+I hold up my offering with my eyes closed, bracing myself for another slap, but it never comes.
+
+The heavy breathing of Zhou Kang returns, and the rock is snatched out of my hand.
+
+"Where did you get your hands on a spirit stone? These are worth a thousand spirit fragments... They should not even exist in the servants' abodes of the outer sect."
+
+When I look up at him again, his eyes are filled with awe and greed.
+
+I gulp, then think of a plausible response. Apparently, this is not categorized as a spirit fragment anymore... it's something else entirely, and worth almost three years of my woodchopping work.
+
+"I... I found it in the stream out back when I was drinking water today. I thought it was just a big spirit fragment... I had no idea-"
+
+A strong, wrinkled hand grabs my neck, and the greed-filled eyes of Zhou Kang stare into mine.
+
+"You will not speak of this to another soul, and in exchange, I will bring you a Marrow Cleansing Pill. Are we clear?"
+
+I nod as best I can until he releases me from his iron grip.
+
+I fall to the ground coughing as he turns his back to me and walks off, down the dirt road again with far more energy in his steps than usual.

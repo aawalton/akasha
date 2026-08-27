@@ -1,0 +1,61 @@
+---
+id: 4b5c73be-e782-5328-b62b-ea9da8fac306
+page-type-slug: story-chapter-royal-road
+title: "Chapter 335: Curse Proliferation"
+slug: 0372-chapter-335-curse-proliferation
+partOf: dungeon-of-knowledge-complete
+position: 372
+ownLength: 1403
+unit: words
+ownProgress: 1403
+publishedAt: 2025-08-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2488707/chapter-335-curse-proliferation"
+royalRoadId: "2488707"
+markedReadAt: "2026-06-29T20:23:13.061Z"
+---
+
+“Attack,” Seth commanded, sending his three heavyset specters into the chaos of spawning beetles. He missed having Willow and Teagan on his team, but he was much more useful down here where most of the monsters were living and not immune to his death magic.
+
+The Subterranean Brood Queen was insane – technically an insect, but one of the most massive monsters he had ever seen. He had absolutely no idea how something so huge was able to even be in this underground cavern, although with an earth magic affinity, anything was possible. The giant beetle raid boss was covered with thick plates of rock, decorated with minerals and crystals of all kinds, and had three Juggernaut variants as minions, and some kind of amplified summoning skill that was pumping out hordes of Borer Beetles that tore into the raid group in waves.
+
+I must have her. What he couldn’t achieve with such a magnificent specter! Still, that meant they needed to win this fight.
+
+His three Spectral Radiant Brawlers shimmered, vanishing into lines of afterimages as they tore through the freshly spawned pack of earth affinity beetles. He was quite familiar by now with just how mindlessly stupid zombies and skeletons were; he would have to craft explicit and very literal commands for them to do what he wanted.
+
+The same was most definitely not true of his specters.
+
+The room lit up with an intense, shifting radiance as they sliced through the horde with their powerful light magic beams, explicitly avoiding hitting allies and the larger rock beetles tanked over by the far wall. Seth had been there for every single raid group’s kill of Ali’s Radiant Brawler boss, and he had collected every corpse. His skill’s current limit was three simultaneous specter minions, and so he had used three of his Radiant Brawler corpses, but the remaining two were stored in his ring, just in case he lost one and needed to resummon it. They were by far the most powerful specter he had found so far, and they were proving their worth here in this ridiculous, gloomy cavern fight.
+
+The sweeping beams of intense light played out over the horde of borer beetles still spilling out from under the Brood Queen’s rock shell, making them hiss in pain as they sliced through their heavy carapaces. At the last possible minute, he used his new Convoke ability to summon every one of his undead minions to himself. A substantial amount of his mana vanished into his potent minion teleport skill and suddenly he was surrounded by a creaking press of undead. While his new skill was brimming with fresh subtleties, he had learned one thing the hard way. He immediately stepped back behind the shield of his minions as the beetles poured forth from the Brood Queen toward his suddenly teleported specters.
+
+“Perfect pull,” Brena said, standing nearby.
+
+“Thanks,” Seth said, watching the beetles smash into his undead wall, isolated and out of the way of the rest of the raid.
+
+His hand tightened around the brand-new smooth, polished obsidian rod clutched his right hand as he waited for the perfect moment to strike. Just as the beetles crashed into his waiting undead, he cast Slow and Amplify Damage in quick succession and then leveled the rod and channeled for all he was worth. It consumed a substantial amount of his mana pool, but the spell it could cast was unreasonably powerful for his class.
+
+When he had first discovered Ali could make wands, he had been so excited, wanting to commission the perfect wand for his class. He had naively thought he might get something like Firebolt for a supplemental attack, or a handy buff skill. But Ali had suggested he search instead for Curse Proliferation – an obscure spell she said she had encountered in a battle against a phoenix. It had taken him and Ryn several days to track down the runic structure in a rare tome on death-affinity curse magic focused on witchcraft and rituals, but find it they had, and Ali had been true to her word, fashioning him, not a wand, but a rod.
+
+Rod of Curse Proliferation – level 41 (Death)A heavy, black rod of Aether-Fused Obsidian etched with dark runes.+30 Intelligence.+5 Endurance.Mana: Your target gains Curse Proliferation (Whenever they damage a cursed target, it has a chance to refresh the curse duration or proliferate it to nearby targets). Duration: 15 seconds. Recharge: 30 seconds.Requirements: Intelligence 144.Created by Aliandra Amariel.Main Hand – Rod
+
+According to the book, it was an obscure and mostly uninspiring skill, but for his class, it couldn’t be more perfect. There were no charges, just a fairly steep mana cost for each use – but his main mana consumption was summoning monsters before the fight, so he could easily fuel the spell. The black formation shot forth from the rod, striking the foremost Spectral Radiant Brawler, imbuing it with its dark energy. As his minion struck with hasted blows, almost too fast for his perception skills to resolve, the black energy rippled outward, spreading the Slow and Amplify Damage curses through the beetles like wildfire through dry grass. While Curse Proliferation was in effect, every single enemy would remain cursed, and even the current curses would be refreshed.
+
+“Go,” he said, indicating that he was ready.
+
+“Time for fried beetle,” Brenna said, her hands crackling with lightning energy.
+
+A storm of chain lightning, fireballs, and blizzards rained down upon the beetles, his skeletons, zombies, and the specters. Seth fired off a fresh, howling Volatile Wraith, adding its explosive death magic to the mix. Along with Ali’s Kobold acolyte’s death blast, there was more than enough death magic to keep his minions fully healed under the onslaught of damage that ripped the Rock Beetle hordes to shreds.
+
+Over by the main raid group, mana twisted and surged within the Subterranean Brood Queen and Seth recognized the blinding flare of the domain magic ability from the now-familiar formation.
+
+“Earthquake!” he yelled, just seconds before the Brood Queen unleashed her devastating, domain-enhanced earth magic on the cavern. He dropped to the ground as the quake gripped the floor, unreasonably powerful in this underground cavern. Rock split with ear-shattering reports, and the ground bucked and kicked while boulders bounced, falling from the ceiling overhead. He rolled to the side, avoiding a rapidly widening crack in the ground as people scrambled to avoid the devastation, downing potions, or activating defensive enchantments and skills. A few of the mages even took to the air with flight skills, making colorful shields appear to protect themselves.
+
+Seconds rolled by with heavy rocks pelting him painfully from above, but he didn’t let up, casting Volatile Wraith whenever he could, relying on the Life Drain to keep him healed. Finally, the quake ceased, and he clambered to his feet, allowing his specters to finish off the few remnants of the beetle horde. He leveled his rod, aiming at Sabri, and cast Curse Proliferation on her, following up by refreshing Amplify Damage and Life Tap on the Brood Queen.
+
+Sabri smashed it in the face with a powerful shield slam, and the formations of all the curses duplicated, spreading out onto the surrounding Juggernaut beetles she was tanking simultaneously. One curiosity he noticed – the Vampiric Hex cast by the troll shaman, Gara, proliferated too. A curse that was supposedly refreshed only by blood magic damage was also susceptible to the spell cast by Ali’s potent gift.
+
+Note to self, Curse Proliferation on the main tank is ridiculous. Now, I just need to figure out how to time it so that the Vampiric Hex proliferates to the summoned hordes. While his mind filled with strategy ideas, he turned his attention to raising several beetles as zombies and sending them into the fray, remembering to keep them away from the Sacred Oozes Naia was using on the opposite side of the battlefield. Undead and holy magic mixed just about as well as Saber Rats took to being stuffed in a collector’s sack. When this fight was done, he was definitely going to store some of the bigger beetle corpses for Ali to learn. How awesome would it be if he had access to a reliable source of juggernaut corpses for high-level specter tanks whenever he needed them? I just hope there are a few more Brood Queens down here…
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

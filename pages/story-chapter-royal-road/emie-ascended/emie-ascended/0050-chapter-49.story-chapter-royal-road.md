@@ -1,0 +1,175 @@
+---
+id: 90e24381-82d4-55f9-aa3f-bf17890b90bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49"
+slug: 0050-chapter-49
+partOf: emie-ascended
+position: 50
+ownLength: 2240
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3832903/chapter-49"
+royalRoadId: "3832903"
+---
+
+“Do you think you can fit one more in?” Healer Seraphine asked when my last scheduled patient of the day left the room, newly made whole.
+
+I glanced at the clock. There really wasn’t enough time to regrow a whole limb, but I still felt a bit bad about disappearing for a week and leaving injured people waiting.
+
+“What kind of regrowth?” I asked, knowing that the Head Cleric of the hospital wouldn’t have asked me unless it was something the other Healers couldn’t handle.
+
+“Skin,” she replied. “It’s a new patient who was just brought in an hour ago, suffering from significant burns along the right side of his body. With another healer, they’d be forced to slowly heal the injury, leaving horrible scars. But I suspect you will be able to just remove the damaged skin and regrow it.”
+
+I sighed and nodded in agreement. Recent burns held a higher priority than old wounds, and I didn’t want to cause someone undue suffering if I could help it.
+
+Besides, that kind of regeneration was actually much easier for me than fully regrowing a limb. Skin, while technically an organ, was much simpler in comparison.
+
+I pulled Aerie from the sanctuary and spent a few minutes playing with her while the patient was being prepped. Since I was in the small employee lounge, the kit’s appearance drew the attention of several of my fellow hospital workers.
+
+“Sorry, we can’t play longer, little one,” I said softly as I rubbed Aerie’s small head with a fingertip. “I’ll bring you back out when I finish my shift, though, okay?”
+
+The white and gray kit seemed to understand my words and leaned into my finger. After a few more pets, I sent Aerie back into stasis and washed my hands before heading to my last patient of the day’s room.
+
+I glanced at the unconscious delver’s face as I walked inside and froze.
+
+“Healer Emie?” one of the nurses asked. “Are you okay? Do you know him?”
+
+“I do. He’s an acquaintance. I’ve healed him before,” I said, shaking off my surprise.
+
+I remembered that the man on the table was named Jed, and I’d regrown his hand shortly after my skill evolved. He’d joined a new party and started delving again after that, but I hadn’t run into him again aside from the one time in the dungeon.
+
+“Man, I hope the rest of your party is doing better than you are,” I murmured before getting started on the healing.
+
+I had the nurses remove the old, burned skin while I followed behind them, regrowing fresh skin. We took things slow, which wasn’t strictly necessary given the magic involved. But since I was already a bit fatigued from having spent an entire shift using my skill, it seemed like the smarter option.
+
+“Alright. That should be everything,” I said after doing a final scan of the patient’s body.
+
+I’d noticed a few additional injuries that hadn’t been addressed by the hospital yet, and went ahead and healed them since it wouldn’t take much more effort.
+
+“Thank you, Healer Emie. We’ll take care of everything from here,” the nurse said.
+
+“Is his party in the waiting room?”
+
+“I believe so,” she commented before checking her datapad. “Yes. It looks like he has people waiting for news.”
+
+She handed me the pad, and I skimmed over the information. Normally, I didn’t get involved with anything beyond actually healing, but I decided to make an exception to brief Jed’s party since I was familiar with them.
+
+“I’ll inform them of his status,” I said, returning the item.
+
+Now that he was fully healed, he would be released as soon as he woke up.
+
+I made my way to the waiting room and immediately noticed three of the four party members I’d met in the dungeon.
+
+“Healer Emie!” the redheaded woman said, noticing me as soon as I opened the door. She was the fire specialist named Stacy, if I remembered correctly. “Did you see Jed? He’s going to be okay, right?”
+
+I could tell that she was feeling deeply guilty, and knowing her element of choice, I instantly guessed that she probably had something to do with Jed’s injury.
+
+“He’ll be fine. I was able to heal everything and regrow his skin. He will be released as soon as he wakes up.”
+
+Stacy looked like she was about to collapse in relief at the news.
+
+“Thank you, Healer Emie,” the lone man of the trio said solemnly. “The nurses said a specialist had agreed to help him, but we didn’t know it was you.”
+
+The other woman echoed his thanks as she soothed their crying party member.
+
+“I’m glad to have been able to help,” I said. “Well, it’s the end of my shift, so I’m going to head out. Tell Jed I said hello when he wakes up.”
+
+I started to head back into the bowels of the hospital when Stacy suddenly jumped up and grabbed for my arm, crying, “Wait!”
+
+Since Repulsion Aura was a passive skill and the move was unexpected, her grasp was deflected, causing her to lose balance.
+
+“Ah, sorry about that,” I said sheepishly. “It’s a passive defensive skill.”
+
+Picking herself up off the floor, the redhead shook her head and said, “No. It was my fault. I just wanted to… I don’t know. I feel like just saying ‘thank you’ isn’t enough. Is there anything—”
+
+“Just saying ‘thank you’ is plenty. Really,” I insisted.
+
+“Can we at least buy you a meal after Jed is released?” she asked earnestly.
+
+Seeing how open and hopeful the three were, I reluctantly agreed, and we made plans to meet the following day for lunch at a nearby café. It was one I hadn’t visited yet, but they all swore it was definitely worth trying.
+
+My first job as a member of the Porter Guild was scheduled for the late afternoon the next day, so I figured meeting them for lunch would prevent the visit from dragging on too long.
+
+Since I had the Portal skill, I’d been tasked with setting up a portal between Iron Fortress and Sorenguard once per month.
+
+Opening Portals paid significantly more than teleporting individuals or small groups between locations, so I didn’t mind the assignment. I also appreciated that it was a regular gig.
+
+As soon as I closed the door behind me, I directly entered the sanctuary and freed Aerie from stasis. Since obtaining our new communicators, Stephen and I had learned that they did, in fact, allow us to communicate while one of us was within my demesne.
+
+We couldn’t contact anyone who didn’t have one of the special communicators themselves, but it at least let Stephen and me coordinate when he wanted to enter or exit the space.
+
+With this new freedom, I didn’t bother stopping by the apartment first. I had no particular urge to access the network, which was the only real reason we spent time there in the first place.
+
+“Hey there, cute girl. Wanna go play in the garden?”
+
+The asolade kit immediately ran to the small door that led ‘outside’. From her perspective, I’d only just promised to play more later, and now here I was ready to play.
+
+Chuckling, I followed the small kit to the garden. I pretended not to see where she hid as I looked over the recent growth. I harvested a few bits, sending everything into storage to keep it fresh.
+
+The Golden Oak still hadn’t fully recovered from being transplanted, but it was looking better than it was before.
+
+It was also Aerie’s favorite place to climb.
+
+We played our own version of ‘hide and seek’, except the goal was for me to capture her using non-spatial (and non-telekinetic) magic. The game forced me to push my new skills in different ways, and I wasn’t ashamed to admit that I still hadn’t managed to successfully capture the sneaky asolade after the very first time.
+
+Really, aside from Minor Illusion and Gust, the rest of my elemental skills were too dangerous to use directly in such a game. I was still trying to figure out how to use the various elements I had access to in different ways, potentially creating my own skills in the process.
+
+So far, I hadn’t had much success.
+
+However, I’d recently had the epiphany that if I approached skill crafting like I did Enchanting, I would probably have a lot more luck.
+
+The thought made my lips pull downward as I considered the skill that had once been central to both my identity and my fighting style.
+
+I’d based most of my previous life around Enchanting, and had fallen right back into that habit after ascending, even though I’d already decided to do things differently this time around.
+
+It wasn’t that I was any less capable with the skill; it was that I didn’t necessarily need to rely on the skill so heavily anymore.
+
+At least, not for combat.
+
+Before I ascended, I needed enchantments to cast spells using anything other than Time or Space. Eventually, I acquired an Arcane affinity, which opened up more options, but using them took a lot of mana, and the spells were harder to use than just relying on enchanted items.
+
+But now, that wasn’t the case at all.
+
+I didn’t need to craft special weapons or items to create spell effects with various elements. While I didn’t have access to every offensive skill that I was familiar with using via enchanted weaponry, my arsenal was good enough to handle most of what I might encounter.
+
+I also still had several open skill slots, which meant that I could acquire those skills in the future.
+
+The more I thought about it, the less I wanted to spend all of my free time Enchanting items meant to simulate skills.
+
+And on a more general note, it made far more sense to craft a few preservation spatial items, then use the funds I earned to purchase anything else I might want, instead of spending far more time muddling through crafting everything myself.
+
+It wasn’t just the time that was saved. Financially, it just made more sense.
+
+My skill might not grow quite as fast that way, but honestly, my Enchanting skill was already at (Rare). The likelihood of pushing it further in the next decade or two was low unless I focused on it to the detriment of everything else.
+
+Instead, I’d use the skill to make money and entertain myself. If I needed something that I couldn’t get another way, I’d muddle through figuring it out. Otherwise, I’d probably just stick to making things that interested me and only really bothering with selling storage devices.
+
+“You wanna play catch?” I asked when Aerie launched herself from one of the low branches and glided in my direction.
+
+Unable to suppress my smile, I caught the little furball and tossed her back toward the tree. She immediately sent controlled blasts of air to propel herself forward, instinctively guiding her movement.
+
+She let out a cute sound that was a mix between a meow and a chirp as she landed, as if warning me of her intent to return. Sure enough, the small kit barely planted her paws before reversing her direction.
+
+We continued our new game for several minutes, only pausing when my communicator released its own chirp notifying me of a message.
+
+“It looks like Stephen is going out with a few of his Leatherworking buddies,” I said after reading the message.
+
+I put the communicator away and thought back to the last time I’d spent any time with friends outside of the party.
+
+I’d met with Aribella for a trip to the bathhouse a couple of weeks earlier, but she’d been spending a lot of time in the dungeon with her party in hopes of reaching bronze rank a bit earlier.
+
+Her party gained essence a bit slower than ours, mostly because she and Hothen had picked up a couple of natives after things didn’t work out with Andy. From what I’d gathered, he’d chosen to split off from the party to form his own little group.
+
+I suspected he was hoping to set himself up with a harem since all of his new party members were female. Considering the impression he’d given everyone early on, his actions weren’t really a surprise.
+
+Since neither Aribella nor Hothen were comfortable working as just a duo, they’d picked up a couple of decent native delvers to complete their party. That had been months ago, and the party seemed to be working well together.
+
+I guessed that, given another month or so, the Water Magi and her party would join us as bronze rankers.
+
+Aside from Aribella, I had a few casual friends who I worked with at the hospital, but there was nobody that I truly clicked with. Maybe it was a difference in perspective between an Ascender and natives. I was much older than the vast majority of local healers, after all.
+
+That would probably change as more platinum and mithril healers moved into the city for the dungeon, but I’d likely be gone by then.
+
+Still, I made it a point to be friendly and sociable with most of the people I worked with.
+
+‘At least I won’t be leaving a lot of people behind when I eventually move on,’ I thought.

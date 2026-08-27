@@ -1,0 +1,119 @@
+---
+id: 8d4c1dbc-35de-5aa4-9446-2001901b99f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter Five: Beyond the Pit"
+slug: 0005-chapter-five-beyond-the-pit
+partOf: flesh-eater-demon-evolution-litrpg
+position: 5
+ownLength: 2830
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525500/chapter-five-beyond-the-pit"
+royalRoadId: "2525500"
+---
+
+Pyre mentally raised an eyebrow at that last notification. A title. She’d consumed an awful lot of her fellow flesh lumps already, but killing this last one was the system’s final straw? Maybe it was because it had been more intelligent than the others, but there’d still been a pretty big gap between them. That lump probably hadn’t had more than the “standard” 10 intelligence, if even that.
+
+If she really thought about it, she could feel something resembling sympathy for the lump. Aside from her, it had been the most sentient of its brethren, but the limitations of its species had kept it from truly communicating effectively. It had been locked in that amorphous form, desperately seeking others like it but never finding a response. The word “loneliness” floated to the top of Pyre’s mind, a relic of her past life’s knowledge. Something indistinct stirred in her chest, but the emotion was too vague for her to bother making sense of it. Oh well. What was done was done, and she certainly didn’t regret the kill. She’d gotten a lot of experience and some nice subtrait shards out of it.
+
+Focusing on the rest of the notifications, she first put 3 points into agility, rounding it out to 30. Next she dumped 2 points into strength and constitution each, then the last 3 went to magic resistance.
+
+Once that was done, she applied the [Darkvision] shards to her [Eye Growth] trait. After the wave of warmth passed, she reabsorbed her current eyes, then attempted to make new ones with the subtrait. She quickly discovered she could only make 2 eyes with [Darkvision] right now, and a quick read of its description confirmed that she could only create a number of eyes with darkvision equal to [Eye Growth]’s current level. Still, that was more than enough. She put one on either side of her body, then scattered the other six around to cover any blindspots. Of course, at this point the pit had been cleared out and she could see even without the darkvision, but hey, better late than never.
+
+Pyre pulled up her full stat sheet next. She whistled internally when she saw the new subtrait shards.
+
+Name: Pyre [Tier 0]Species: [Flesh Lump, Lvl 8]Class: [Locked]Titles: Reincarnator, Amnesia, Above-Average Sentience, Cold BloodedStatsStrength: 45Agility: 30Constitution: 55Magic Resistance: 35Intelligence: 23Points: 0Traits: [Amorphous 3], [Flesh Eater 4], [Scent 3], [Eye Growth 2], [Ossification 2], [Sound Perception 2]Skills [2/5]: [Basic Flesh Sculpting 1], [Basic Impact Absorption 1]Subtrait Shards: [Thermal Vision 1/3], [Species Scent 1/4], [Ligaments 1/8], [Skeleton 1/10]
+
+It looked like she hadn’t been wrong about the other flesh lump’s advanced [Ossification] abilities, but damn, she’d need a good amount of shards before she could gain those subtraits. Then again, she guessed that once she got out of this pit and started encountering non-flesh lump creatures, it’d be a lot easier to find those subtrait shards. That was, of course, assuming animals in this world a) existed, and b) generally had bones. If it turned out she’d been reincarnated into a world of worms, she’d reassess.
+
+Next, Pyre focused on her new skill. A descriptive window quickly flashed across her vision.
+
+Skill: Basic Impact Absorption Level 1This skill, once activated, allows the user to absorb the next impact that hits the user. Once absorbed, the user is able to store this energy away for a maximum time equal to this skill’s level x 1 minute. After the maximum time has passed, the energy will be harmlessly absorbed into the user’s body. Before the duration has passed, if the user activates this skill again, they can choose to power their next attack with the energy from the stored blow. At Basic proficiency, only one impact can be stored at a time. The total amount of energy that can be absorbed from an impact increases with level. Any excess energy not absorbed will hit the user as normal. Once this skill reaches level 10, it can be upgraded to Intermediate.Cooldown: 6 hours. Cooldown begins after the initial impact is absorbed. The redirection of the impact is not counted for cooldown. Cooldown decreases with skill level.
+
+Now that was a veritable wall of text, Pyre thought in amusement. The skill sounded damn fun though, so she didn’t mind. She’d have to remember to test this one out the next fight she got into, figure out exactly how much of a blow this could absorb. Either way, it was an excellent addition to her “stand still and do as little as possible” strategy.
+
+Pyre dispersed the screens, ready to finally get the hell out of the pit, when her attention flicked back to that new title. Her eyes narrowed slightly. She hadn’t actually figured out what titles did, yet. She focused on them, and in the next moment, a new series of screens appeared in her mind—one for each title that she’d received so far.
+
+Title: ReincarnatorThis is not the first life you have lived. Empowered by the knowledge of your past self, you receive a starting advantage.+1 to each initial base stat.
+
+Pyre would’ve snorted if she had a nose. So she’d had an extra +1 to everything to start with? And all her stats, excluding intelligence, had been a 2? There were no flesh lumps left in the pit besides her, but she pictured herself staring mournfully at their remains. Goddamn, those poor little bastards.
+
+Title: AmnesiaDue to an unexpected blockage, you do not have access to your past memories.Because the system cannot access your soul, you cannot use magic.
+
+This one didn’t even come with a bonus effect. That confirmed, at least, that not all titles affected stats. Some were just fancy labels the system decided to slap you with.
+
+The second line, though, sounded like it had probably been added after trying to take [Mana Core] had caused an error. Either that meant titles could be updated, or this one was just special.
+
+Title: Above-Average Sentience+5 to intelligence.
+
+This one, on the other hand, had an effect but no description. Probably because the system was still embarrassed about that little initial mishap. Good to know an omnipotent all-powerful magic voice could also feel shame.
+
+Finally, Pyre directed her attention to her most recently gained title.
+
+Title: Cold BloodedYou exhibit little sympathy for your fellow species and display a callous disregard for life. Your apathetic nature allows you to navigate the world more shrewdly.You are less susceptible to charm effects.
+
+Wow, judgemental much? She’d take that extra resistance to charm effects, though—whatever those were. She figured she’d probably run into a creature with that ability at some point in the future. Or maybe not. Who really knew at this point.
+
+Now that she’d fully read through everything, Pyre mentally wiped the notifications away and focused her attention back on her surroundings. In the time she’d spent reading through her stat screen, no new lumps or signs of movement had appeared. The scent of flesh was gone now, too. There were a few traces and remnants of it, but it no longer smelled delicious. Safe to say she was the only living thing left in that pit.
+
+Pyre lumbered over to the walls of the pit, assessing how far the climb was to the top. Because of her increased size, it wasn’t too bad, but she quickly found that it was harder to get a grip on those weirdly bouncy walls than she’d thought. A giant amorphous blob of flesh, it turned out, was not the best at holding onto things. Some kind of limb would probably be helpful here.
+
+Pyre silently pulled up the description for [Basic Flesh Sculpting] again. She hadn’t gotten a chance to test the skill out amidst all the battles. Now seemed like a good opportunity.
+
+Concentrating, she first stretched out part of her body, then attempted to activate the skill. It was supposed to make flesh more “rigid,” so she imagined a piece of soft clay slowly drying out and becoming firmer with time. It wasn’t too bad of a comparison, and sure enough, she felt a brief tingling sensation pass through the pseudo limb. When she shifted it, the flesh no longer jiggled quite as much as before, and she didn’t need to actively concentrate on it to maintain its current shape. Her two mouths curled up in smiles. Not too bad.
+
+She did a little more testing around to see how detailed she could get, which turned out to be more detailed than she’d thought. She was actually able to sculpt a rough nose shape out of flesh, though she quickly reabsorbed it. No point in having a fake nose when she was smelling in all directions all the time.
+
+The amount of flesh she could manipulate, though, was limited. She suspected if her constitution wasn’t so high, she’d probably be able to sculpt most of her body. But alas, currently she could only maintain about a fifth at once. Oh well. For now, she sculpted out a few more “limbs” before shifting her body into a slightly longer and less lumbering form. Then, she began to climb.
+
+Pyre ended up having to grow a few bones to stab into the walls along the way. While [Flesh Sculpting] did make those parts more rigid, they still didn’t have anywhere near the level of strength and general durability that an actual skeleton would. Still, slowly but surely, she made her way out of the pit.
+
+As she neared the top, the light grew stronger, beaming down on her like a beacon. Because of its glare, she couldn’t make out what lay beyond. She could smell it, though, new scents entering her awareness the higher up she went. There was something dry and earthy. Another one was a bit metallic. And finally, the last scent that she couldn’t place, but it smelled very very old.
+
+Pyre stuck another bone into the wall and pulled herself further up. Finally, she managed to grab onto the edge of the pit and heave herself over.
+
+When Pyre pictured the “outside world,” her mind was automatically filled with various images that had probably come from her past life. A vast, unending blue sky that could shift into fiery hues and inky black. The warm sunlight shining down from above. Rippling green grasses and tall trees scattering leaves in the wind. Colorful flowers. Bugs. Rocks. Animal poop. There were a lot of things to be found in nature.
+
+What she was met with, however, matched none of that.
+
+There was no bright sky to greet her above. Instead, what appeared to be walls of jagged stones met together high over the pit to form a ceiling. Only a single circular gap allowed access to the outside world, and it was from this hole that light streamed down directly onto the pit.
+
+There was no grass, either, just the bare, hard ground and the occasional grey boulder. At least she hadn’t been wrong about the rocks. She suspected this entire area was a massive cave or something of that nature, because despite the lack of open sky, it was massive. The ceilings arched extremely high up. If you weren’t paying attention, you might not even realize you were in an enclosed area at all.
+
+Pyre’s eyes shifted down to the ground again, noting the darker lines that pooled away from the center of the floor in a splatter pattern. Its shape was the only thing vaguely resembling flowers here, and even then it was imperfect. The ground was so dry that it had cracked in several places, and these crevices formed jagged paths for that dried dark substance to travel through.
+
+And of course, the biggest difference between Pyre’s imaginings and her actual surroundings was the pit itself. Which, it turned out, was not really a pit.
+
+Instead, when Pyre pulled the rest of her body out and looked down, she found herself crawling on top of a massive, collapsed creature. The “pit” had been the thing’s stomach—or what was left of it anyway. Flat on its back, pale white bones protruded upwards from flesh that looked like it had begun to decay before it then hardened as the surrounding earth had. In its current state, it resembled stone more than anything.
+
+The being was so huge that if she stood on the ground, even lying on its back it would easily tower over her. She could see sprawled limbs and stringy, dark hair fanned around the giant’s head. Massive curling silver horns sprouted from its skull. Pyre registered the shape as rather humanoid, and her eyes instinctively wandered over to the thing’s face. Hollow eye sockets peered listlessly above at the thin light filtering down from above. Compared to the rest of the body, which seemed fairly well preserved, it looked like the eyes hadn’t survived.
+
+Demon. The word sprang to mind unprompted, but she didn’t know if it was accurate or where it had come from.
+
+Pyre carefully climbed off the body and landed on the ground proper. She ended up falling a longer distance than she’d expected, but she was able to shift back her sculpted flesh so that she could spread the impact around her amorphous body. The corpse was even more massive from this angle, and she couldn’t help but stare at it, fascinated.
+
+What was it? How long had it been dead? And more importantly, why had she come out of its stomach? She was pretty sure birth didn’t work like that. Maybe she and the other flesh lumps had once been the creature’s food, and they’d gained sentience after the thing had died. Maybe this was how all monsters were born in this world. The possibilities were endless.
+
+For a second Pyre wondered what would happen if she ate its flesh. It looked tough, but she had mouths and teeth now to chew through. Its smell and the general state of its body, though, confirmed that it was dead—probably had been for a very long time—and would just make her sick.
+
+Shifting her eyes around, Pyre made her way around the corpse, inspecting the area at the same time. She couldn’t find any footprints, and there were no gaps in the surrounding walls, either. Wherever this was, there clearly hadn’t been anything living around in a long time. The lack of an entrance, even a blocked one, was weird, though. How the hell had a creature this giant gotten inside this cavern in the first place? Maybe the chamber had been constructed around it, she thought, or magic. She had a feeling “magic” was going to be the answer to a lot of weird shit in the future.
+
+Don’t suppose you know what’s going on, Pyre thought absently at the corpse. She decided to call it Fred just because referring to it as “the corpse” or “the thing” all the time was getting repetitive. You’re dead, after all.
+
+She paused. For a second there, she thought she’d seen something move beneath the creature’s skin. Pyre squinted and moved closer. Fred’s flesh was a dark grey, but she couldn’t tell if it had always been that color or if whatever was preserving the body had caused it to turn into that rock-like shade.
+
+As she stood directly in front of Fred’s collapsed arm, however, she saw movement again. It was faint, but just beneath the creature’s skin, some sort of silver light seemed to travel down its body. But just as suddenly as it had appeared, it was gone again. Was that Fred’s blood? The light had seemed to be traveling down the general path of veins, but surely any blood would long be dried out by now.
+
+Pyre grew a long, sharp bone, then promptly stabbed it into the corpse. Fred was dead, it wasn’t like it would feel it. It ended up not doing anything, though, because the bone wasn’t able to pierce through that hardened flesh. Pyre clicked her tongue in disappointment and retracted the bone. Oh well, another mystery to add to the pile.
+
+She glanced around again. It didn’t look like there was anything more she could accomplish here. She couldn’t even find a proper exit, save for that hole in the very high up ceiling. Finding a way out would be fun.
+
+For now, though, she decided to direct her attention to the one thing she actually could do right now.
+
+Starter Quest: Escape the Flesh PitEscape the Flesh Pit and devour at least (30) other Flesh Lumps.Reward: Experience, 30 points, initial Tier 1 species evolutionBonus: You will receive (1) extra point for every additional Flesh Lump killed beyond the quest minimum.
+
+[Starter Quest: Escape the Flesh Pit completed!][Would you like to accept rewards?]
+
+Well, this was it, Pyre thought. Time to see what that evolution was all about.
+
+She gave her surroundings one final sweep to make sure she hadn’t missed anything, then focused back on the notification and mentally selected yes.

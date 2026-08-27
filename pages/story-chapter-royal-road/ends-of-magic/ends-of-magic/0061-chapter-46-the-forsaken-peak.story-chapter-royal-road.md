@@ -1,0 +1,239 @@
+---
+id: 80e13b19-d1ab-5de7-a4a9-bfa3c98bb685
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46:  The Forsaken Peak "
+slug: 0061-chapter-46-the-forsaken-peak
+partOf: ends-of-magic
+position: 61
+ownLength: 2919
+unit: words
+ownProgress: 2919
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/2920067/chapter-46-the-forsaken-peak"
+royalRoadId: "2920067"
+markedReadAt: "2026-06-29T20:09:13.299Z"
+---
+
+Their carriage took a turn off the main thoroughfare, but the ambushers shifted to match. Half of them were out of the picture, on the other side of the original route and unable to reposition in time. But the others moved to a new balcony that was above the new street and in a position to fire on the Heirs' carriage.
+
+“They’re overhead,” Nathan said. “But not taking action. Somebody’s using a message-stone. It’s heavily encrypted, and I can’t trace the source.” It was a pretty impressive piece of enchantment in his opinion. The messaging device bounced its magical signal around in different directions at random, and all or none of them could have been the true destination.
+
+The Heirs were calm and ready for battle, but their Quester guides were having a difficult time. Vira’s knuckles were white on the controls of the carriage, and Liren looked like he was about to pop from pure anxiety. He tried to look up through the windows before Aarl pulled him back.
+
+After a tense moment, the attackers filed back into their building without ever showing themselves. “All clear,” Nathan reported. “They must have gotten orders to stand down and pretend they were never there, but now we know there's a team of assassins after us. How long until we get to the Ashen Accord estate? I’ll be a lot more comfortable inside a secure perimeter.”
+
+“Not long. It’s in the crack,” Vira answered. She hadn’t relaxed much and shot out rapid-fire questions. “So you can sense resources? But how did you divine all that about the message stone? And their weapons. You can also sense and drain enchantments?”
+
+“That would clarify the carriage failure before we entered the dimensional road,” Liren said haltingly, looking intently at Nathan.
+
+He raised his hands defensively. “You’re onto something, but I won’t confirm anything. If those ambushers had known exactly what I could do, their ambush might have been a lot more successful, so you can understand why I keep that information close."
+
+Liren’s mouth twisted in a frown, but he didn’t dispute Nathan’s claim. He kept his eyes focused out of the carriage as it moved farther into the city, scanning the crowds as if one of them would suddenly pull out a weapon and attack. At least he was trying to be subtle about it.
+
+Nathan extended his own senses, on the lookout for more ambushes. He found a lot of potential threats ahead, but none of them seemed like they were set up in ambush. Still, the number of people ahead with powerful enchantments and large mana pools was a bit worrying.
+
+“Hear me, that’s a lot of Questors,” Sarah said, her eyes sweeping the crowds.
+
+“Yeah, it is,” Nathan agreed. There were dozens of Questors in sight, and that was just on this side street. Most of them were in small groups, enjoying themselves in streetfront cafes or casually walking along the road. Unlike the mortal populace of the city, they didn’t seem to care much about staying out of the center of the road, and Vira swore more than once as people ambled across the street right in front of her.
+
+“Are there usually this many Questors here?” Nathan asked, suddenly wary that the Heirs were about to be attacked from all sides by overwhelming force.
+
+Liren didn’t seem to share his worry. “Within epsilon? I don’t know the Blinded Mountain, but Questors have come from across Davrar to both watch and participate in the war.” He pointed out of the window. “Oh, that’s Binga! She’s part of the Ashen Accords. If you’re worried, we could grab her? I don’t know who she’s with, though.”
+
+That comment made Nathan relax. This was just a normal crowd of Questors, and in fact was probably a good protection. Anybody starting a fight would do so in front of a lot of witnesses who wouldn't hesitate to get involved. Though given some of the glares being thrown around, it seemed more likely that any fights would escalate into full-on brawls of one side against the other. Given the amount of power present, that kind of thing could easily wipe out the whole neighborhood.
+
+“We need to get off the streets,” Nathan reiterated. He knew he was probably being paranoid here. The city didn’t look like it was regularly rebuilt, which meant the kind of fight he was worried about was either uncommon or unknown. But he and the Heirs were mortals stepping into a world of immortals. They were moving in circles where death was only an inconvenience, and that probably meant that lethal incidents weren’t considered to be a big deal.
+
+But they’ll be a big deal for us. We need to be on our toes about everything.
+
+“There it is,” Vira said, pointing out their destination. It was a gate set into the stone wall just inside the crack, leading straight into the bulk of the mountain. The rock around it was heavily reinforced with magic, and the gate itself positively glowed with protective enchantments. There were no windows or other doors. Two people in heavily enchanted armor stood outside.
+
+That confused Nathan for a moment before he realized they almost certainly weren’t Questors. He'd never seen any two Questors with identical gear and patient behavior. One of the ways that you could tell Questors apart from mortals was their nonstandard mix of enchantments and builds, as well as a certain lack of discipline. Standing out and being unique were important to nearly every Questor Nathan had run into.
+
+That probably makes it pretty hard to run a military campaign with Questors. I’m curious how they manage to get them all pointed in the same direction, much less doing something like standing on guard duty.
+
+Vira drove the carriage up to the guards. She didn’t get out, simply waiting for something to happen. Liren also seemed unconcerned, and after a minute or two, the gate opened of its own accord, revealing a well-lit passage that led straight into the rock. Nathan felt various scanning magics run over them as their carriage drove into the side of the mountain. The spells passed over Nathan without reacting at all, but they lingered on the Heirs and especially around their dimensional bags. The passage was several hundred feet long, and there were additional magical gates at intervals. Nathan kept expecting them to snap shut and trap them.
+
+But his paranoia was misplaced. They emerged into a huge room, decorated like a hotel lobby, well lit by an illusion of a daytime sky a few hundred feet above. There was a small crowd of people waiting, and Vira pulled the carriage to a halt and hurried down the steps. Kaelis was at the front of the crowd, and she gave him a sloppy salute with her hand against her forehead. “We’ve fetched the mortals, sir!” Liren bolted after her, throwing a much more formal version of the same gesture.
+
+Kaelis chuckled and returned the salute, making it both casual and precise at the same time. “Thank you, Vira, Liren. How were they?”
+
+She swallowed. “Well, there was an… incident at the Crater of Fallen Gods.” She gestured helplessly back towards where Khachi was emerging, fur aglow with divine power. “He said he communed with his god.”
+
+The leader of the Ashen Accord cracked a broad smile and stepped up to Khachi, offering his hand. “Congratulations! I had hoped for such an outcome, though it seemed a low probability. But the best do find a way to claim their prize.”
+
+Khachi shook the offered hand, speaking in his reverb voice. “Thank you. It was a mighty step on my path.”
+
+“Indeed, indeed,” Kaelis said, releasing Khachi’s hand and stepping back, still grinning. He waved backwards towards the others. “The leaders and the curious. Henrish should be familiar, but there are other faces to know. The important one for this moment is Slick, our master-at-arms,” he pointed out an orcish man with wiry muscles and no weapons.
+
+“Happy to know your faces,” the orc said amiably, before his eyes landed on Vira and Liren. “Were you able to discern their powers?” It sounded like a question he already knew the answer to.
+
+Vira shrugged, pointing from Stella to Aarl to Sarah to Khachi to Nathan. “Mage, fighter, fighter, cleric, monk. He can drain resources and hinder enchantments.” The last was directed at Nathan.
+
+“Elemental mage,” Liren corrected, indicating Stella. His gaze moved onto Sarah and Aarl. “And generalist fighters, I think. Both of them. But he prefers melee, and she prefers ranged.”
+
+Slick did not look impressed. “What are the cleric’s powers?”
+
+“Flight and blessings,” Vira answered. “Light? Healing?” The latter words sounded like guesses. She looked to Liren for help. He shook his head.
+
+“And a monk?” Slick asked, pointing at Nathan. “Truly, that is your report?”
+
+Both of them studied Nathan for a moment, as if hoping for a last-minute inspiration. “Magical senses, but no magic,” Liren said hesitantly. “Can sense and suppress enchantments, and drain mana. We didn’t verify any other resources.” He had a small realization. “Antimagic? I thought that was a short path? Does it work from a distance?”
+
+Slick nodded, his derisive expression falling away. “Paths stretch as far as you can walk them. Some builds are easier, but the greatest reward lies at the end of the most difficult journey.” He said it like a quote, and from the way several people in the crowd rolled their eyes, it was one often repeated. There was more muttering and speculative looks landing on Nathan. He felt a couple of magical senses get directed his way and did his best to be a hole in the mana.
+
+“If your lesson is complete, we have more significant matters to discuss,” Henrish said abrasively. “The terms meeting is soon, and we must discuss our parameters now that our guests of honor have arrived.”
+
+“Easily done,” Sarya said, entering the conversation as she descended a staircase from an upper level of the cavern. “Complete victory. No points, no captures, no respawns, just total army death, with the prestige of Ostren in the balance.” The other Questors of her grid followed along behind her, and they gave the Heirs encouraging nods.
+
+Henrish spun angrily, but then he hesitated, looking back at the Heirs and stroking his chin. “Perhaps. But this is not a matter to be decided in public.”
+
+“We’re hardly in public,” Kaelis countered, gesturing around. “We are in the heart of our territory. But there are things that must be said.” He jerked his head to the side. “Let’s show you your rooms, then do some planning for the terms meeting.”
+
+He led them away from the gawking crowd, accompanied by Henrish, Slick, Sarya, and a few other Questors. They took an elegant lift-platform that rose on an extremely well-made enchantment. It took them up through the illusion of daylight and into another cavern directly above the previous one. This space was darker, with the ceiling showing an illusion of a cloudless nighttime sky that showcased the glory of the world above in impressive detail.
+
+He led them up another staircase, pointing around the various areas. “Spa through there. No masseuses, we sent them off for security purposes. Same for the canteen, but there are self-heating meals on the shelves that won't disappoint. The bar is open access, but stay combat-ready.”
+
+The Heirs looked at him like he was crazy. He saw their skepticism and chuckled. “Of course, you have carried true power across Davrar under the threat of assassination. You know the dangers and the risks. I should not act as though you are new Questors.” He brought them to a set of doors halfway up the cavern. “Your suite. Enchanted keys are inside, but we must act soon. Henrish is right, that we must lay the goals for the terms meeting.”
+
+The Heirs stepped inside, looking around at the sumptuous set of rooms. It reminded Nathan of Sarya’s palace in Keihonia, but a little more elaborate. There was a full bar against one wall and a fountain tinkling in the corner that looked big enough to swim in. Aarl snagged the set of enchanted passkeys that were resting on the central table, passing one to each of the Heirs other than Nathan. “Let’s go stare the ghoul in the eye.”
+
+Sarya caught up to them on the walk to their next destination. “Don’t assign this pre-meeting meeting much weight. The reason you’re going to the terms meeting is to see the leaders of the Aleph grid, so you know who to kill. Their leader is a mage named Evesor, and he should be your first target."
+
+Kaelis overheard the words and shot an annoyed look back at Sarya. “Truth, but poorly spoken.”
+
+He brought them into a spacious meeting room that already had about twenty occupants. With the Heirs and their entourage, that number jumped up to about thirty, which was still less than half of the room’s capacity.
+
+Kaelis kicked the meeting off. "We're here to discuss the term meeting and our negotiation priorities. I will be the person speaking to Evesor, so that we present a united face."
+
+"Then we must be a united force," said one of the Questors Nathan didn't know. She gestured to the Heirs. “We must discuss the reason this war is happening at all. These mortals. Henrish, you remain satisfied?”
+
+“I do, Nierna,” the Questor said to her. “Garna’s words are verified. They defeated Badud’s grid and a blight easily enough. Now they can deliver us victory here.”
+
+“I hope so,” the same woman grumbled. “Aleph has pulled in more elders. We think it’s all favors from Sussu. She’s being free with her influence, and seems to hold a true grudge against these mortals.” The woman speaking seemed disgusted by the very idea of bothering to notice mortals. “The Maestro arrived this morning.”
+
+“The Maestro left his watery pit?” Slick asked in disbelief. “He hasn’t done that in an Ending and a half.”
+
+“The challenge is evolving. We should seek mild terms, such that a loss is not punishing,” the woman said, nodding to herself as if that was already decided. Nathan noted that she’d ignored the Heirs since that first acknowledgement when she came in.
+
+“If the terms are not punishing, then victory will be incomplete,” Garna said, staring down the other Questor. “This could be the end of the Aleph grid. If all of their members are barred from Ostren for a generation, they will lose vast influence and miss an entire cohort of new recruits.”
+
+“If we lose, the same applies to us,” Slick pointed out.
+
+Sarya chuckled, slouching in her chair and rolling a knife between her fingers. “You won’t lose, Nierna. These mortals you fail to acknowledge will win the day for you.”
+
+“And if they fail and die?” She spat the words like a curse. “They won’t be able to recompense us for the loss. Will you?”
+
+Sarya shrugged nonchalantly. “The greatest loss will be opportunity.” She smiled sardonically over at the Heirs. “But I’ll pay standard blood price for your losses.”
+
+Kaelis had been letting the discussion play out but at Sarya's comment he raised a hand to stifle any other responses. “Total elimination, then? Would they be receptive to a war to the last man?”
+
+“If Sussu’s calling in the elders, they will be,” Garna said. “The Aleph grid may want to humiliate you, but Sussu wants to kill these five. She still knows where all the backdoors are in the Aleph grid, and to kill them she will use them."
+
+Henrish scowled. “Like you with us. The truth is revealed. There isn’t just one game of Questors, but two. Now we are the pieces being played on the grander board. I would say I appreciate it, but that would be lying.”
+
+“There’s more than two games of Questors,” Sarya replied with a snort. “This isn’t just another war like those you've fought before, a simple game of politics and status. This fight is a resurrection of the deepest and oldest conflict of Davrar. You will see more elders and more magics than any of you have seen before. It’s revisiting the very pillars of Davrar, and in a thousand years, they will speak of it as we speak of the Ending of Deicide. Even if we do lose, this will be a story you tell for as long as Davrar exists.”
+
+The room was very quiet for a moment in the wake of Sarya’s words.
+
+“No restrictions on magic, then?” Kaelis asked.
+
+Permanent Talent 1: Magical Destruction 4
+
+Permanent Talent 2: Immortal Body 7
+
+Permanent Talent 3: Skystride 4
+
+Class: End of Magic level 1281
+
+Bottomless Stamina : 129100/129100
+
+Indomitable
+
+The Undeniable Strike of the Antimage
+
+Stamina Burn
+
+Momentum Mastery
+
+Stoneflesh
+
+Arcane Nullification
+
+Galefoot
+
+Close Quarters Mastery
+
+Boundless Aura
+
+Denial of Mysticism
+
+The Ending of Magic
+
+Aura Projection
+
+Selective Dispel
+
+The Living World
+
+Class: Death of Legends level 891
+
+Limitless Focus: 9010/9010
+
+Legendary Blows
+
+Out of Sight
+
+Magical Mimicry
+
+Antimemetic
+
+The Hidden Strike
+
+Nondetection
+
+Mana Control
+
+Lethality Prediction
+
+Wizardly Immunity
+
+Communication Countermeasures
+
+Sorcerous Sabotage
+
+Legendkiller
+
+Bane of Myth
+
+To the Ends of Davrar
+
+Utility skills:
+
+Tranquility 8
+
+Inspiration 10
+
+Impulse 6
+
+The Sense of Magic 4
+
+Forewarning 7
+
+The Truth of Magic 4
+
+Evasion 3
+
+Wizard’s Palace 3
+
+Veracity 4
+
+Whiplash 3
+
+Visibility Control 7
+
+High-tier Disguise 10
+
+High-tier Battle Cry 5
+
+Aura Mastery 4

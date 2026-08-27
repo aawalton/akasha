@@ -1,0 +1,191 @@
+---
+id: 52052ba6-f897-5024-856a-964f114bc8cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-Seven: Human"
+slug: 0100-chapter-ninety-seven-human
+partOf: flesh-eater-demon-evolution-litrpg
+position: 100
+ownLength: 2540
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3576005/chapter-ninety-seven-human"
+royalRoadId: "3576005"
+---
+
+Llyr was frowning by the time Callan finished his story. He rose from his chair, stepping closer to the ghost. “Are you alright? Are you injured anywhere?” he asked, concerned. Callan quickly shook his head.
+
+“Oh no, I’m fine!” he insisted. He’d left out the whole “turned invisible and incorporeal” part, so it was no wonder the healer was worried. “He ran when I started casting a spell. I, uh, I don’t think he expected me to know magic.”
+
+Llyr nodded slowly. He didn’t look like he was totally convinced, but he didn’t press further.
+
+If he had insisted on a checkup or something, he probably would’ve figured out that Callan wasn’t human. The ghost in question seemed visibly relieved when Llyr dropped the subject, instead focusing on the rest of his recounting.
+
+“You say he was wearing a cloak?” he clarified. Callan nodded.
+
+“Yeah, I… I couldn’t see much.” He shifted his weight. “Do you have any idea who that could’ve been?”
+
+Llyr hummed. “Well, there’s isn’t much to go on, unfortunately.”
+
+“What about the tattoos?” Daphne cut in. “Those seem pretty unique.”
+
+The healer paused, brows furrowing as he considered this. “Could you draw what you remember?” he asked Callan. “It doesn’t need to be especially detailed. Any visual would be helpful.”
+
+The ghost nodded, and Llyr stepped over to the drawer to grab a paper and a pen. He set them down on the table. Callan shuffled over and slowly began sketching. His brows were creased the entire time, clearly trying his best to remember, but the magical darkness meant he hadn’t seen much to begin with.
+
+Pyre peered over at the drawing. Bold, dark lines climbed up the page in a pattern that was both vine-like and serpentine at once. She committed it to memory. She might not know shit about runes, but those were distinctive enough that she’d definitely recognize them if she saw them on someone.
+
+Finished, Callan set his pencil down. Llyr studied the sketch carefully.
+
+“This is indeed a teleportation rune,” the healer began slowly, “and I believe you’re correct that it’s one directional.” His eyes shifted to the markings around the main one, which were significantly less detailed. He frowned.
+
+“I may be wrong,” he began, “but based on the surrounding marks, I believe this tattoo may be designed to aid spell formation. It forces channeled ichor through a pre-set pathway to create the desired effect.”
+
+“But… wouldn’t that mean you couldn’t cast any other spell?” Callan asked. Llyr smiled wryly.
+
+“Indeed. I would assume this man is not a particularly skilled mage. That tattoo allows him to cast a significantly more advanced spell than he would normally be able to. He would only need to pull in ichor, then the embedded runes would take care of the rest. But yes, it does prevent him from shaping ichor in any other way.”
+
+“That’s crazy,” Daphne muttered. “I’ve never heard of anything like that before.”
+
+Callan made a frustrated sound. “So he probably wasn’t a very skilled mage. That narrows things down less.” Llyr gave him a sympathetic look.
+
+“I’m glad you were able to escape,” he told Callan, voice serious, “and I’m sorry that this was your introduction to Serindell. This is a… difficult time for the city. It may be wise to remain close to the mansion for the rest of your stay.”
+
+Daphne immediately shook her head at that. “We appreciate it, but believe me, we’ll be fine. I mean, Callan already got away once.”
+
+She leaned back, crossing her arms contemplatively. “We might not look like it, but we’re pretty strong.” She paused. “Well, Pyre looks strong. But we’re not weak either,” she said, gesturing between herself and Callan. The ghost blinked. He looked both surprised and touched that he’d been included in the mage’s assessment.
+
+“So if there’s anything we can do to help,” Daphne continued, voice earnest, “just let us know.” From the way her eyes briefly darted back to the door, Pyre had a feeling she was talking about more than just the disappearances. None of them had gotten a very good impression of Lord Alardice, it seemed.
+
+Llyr nodded slowly. “Thank you, I will keep that in mind. But I do feel bad for involving you when you’re guests.”
+
+Daphne waved the concern off. “You’re healing me for free,” she pointed out bluntly. “This is the least we can do.”
+
+The healer smiled a little at that, but he didn’t comment. Instead, Llyr rose from his seat, turning towards the kitchen.
+
+“There’s still some soup left. If you’re all alright with it for dinner, I can heat it up for you. Once you’re done eating, I recommend retiring early tonight.” Daphne opened her mouth to argue, but he continued before she could. “I prepared a preliminary spell that I’d like to test tomorrow. It would be best for you to be well-rested before then.”
+
+The noble’s eyes widened as the words sank in. “You have something already?”
+
+“The spell is quite rough, and I need to make a few final adjustments before attempting it, but yes.” Llyr tilted his head. “It is, however, entirely possible that it will not work at all. If that is the case, I will try a different direction,” he added gently.
+
+Daphne nodded, though Pyre didn’t think the noble really needed the reminder to not get her hopes up. She’d already been avoiding that this whole time.
+
+Still, the fact that the healer was making progress visibly lifted both her and Callan’s mood, especially after the alley attack. Pyre had to admit that she was fairly impressed herself. Llyr worked fast.
+
+Even as they settled to eat dinner, however, the sketch of the tattoos remained on the corner of the table, constant and lingering.
+
+After scrounging the whole mansion, Callan and Daphne had apparently selected rooms on the second floor for all of them. Callan had chosen a room near the end of the hallway, Daphne had taken one by the stairs, and they’d selected one in the middle for Pyre.
+
+The demon was a little amused at how seriously they’d taken this, considering a brief glance into the rooms revealed that they all looked the same. She didn’t care either way, though, so she stepped into the room they pointed to without a fuss. It wasn’t like she actually slept, anyway.
+
+Much like the rest of the mansion, the bedrooms were pre-furnished, complete with a large oil painting of a random seaside landscape. Pyre did appreciate the giant window. With the curtains drawn, she had a clear view of the shoreline and the moonlight shining down onto it.
+
+Dropping her bag to the ground, the demon sat down on the desk chair and decided to test out [Intermediate Flesh Sculpting]. She rolled up a sleeve, reabsorbed the bones in her forearm and hand so they were nothing but flesh, and promptly detached her lower arm using [Autotomy].
+
+Just like before, she didn’t feel any pain. The forearm fell right off, plopping down onto the desk as a fleshy mound. She grew a new arm, and thanks to the amount of extra mass she’d gained during her evolution, she barely felt the loss of flesh.
+
+Settling down, Pyre activated [Flesh Sculpting] and attempted to warp the detached lump. It was trickier than using it on her main body. She had to actively visualize what she wanted the thing to end up as instead of relying solely on feeling.
+
+It ended up working, though, because soon the lump trembled. Its smooth surface undulated, separating into little tendrils that Pyre extended as high as she could. [Flesh Sculpting] ultimately resulted in a “stable” form, but she found that if she took her time with the sculpting itself, it allowed her to achieve some movement.
+
+Case in point, one of the tendrils slapped the desk as it extended. Oh yeah, the demon thought. This could be very useful.
+
+Eventually, the flesh was as spread out as it could be, and it froze into its current abstract shape. She released the skill and let the flesh fall back into a blob. Once she’d gotten more skill levels, she’d test her control again.
+
+The demon picked up the lump. It would probably start melting soon, so she should find a place to get rid of it.
+
+Pyre turned, fully intent on chucking it out the window so it could absorb into the sand, when she paused.
+
+Outside, standing against the night sky at the water’s edge, was Llyr.
+
+His back was turned to the mansion, but he was still wearing the same clothes as before. His dark hair shone behind him in the silver moonlight, and he seemed to be staring at the waves. He didn’t move. Pyre’s eyes narrowed.
+
+It was late. Daphne would be asleep, and Callan’s room faced the opposite side of the mansion. The ghost was probably reading one of the books he’d borrowed from Llyr earlier.
+
+She turned to the window again. The healer was still standing there.
+
+Coming to a decision, Pyre rose and headed for the door.
+
+Pyre tossed the flesh lump into some grasses on the way out the mansion. It was already starting to melt by then, and she was confident that it would be fully liquid by the time anyone saw it.
+
+The moment she stepped outside, the crisp night wind hit her full force. It was pretty chilly out, though temperature fluctuations had never affected the demon as much as they did humans.
+
+She strode forward without hesitation, heading straight towards where Llyr still stood on the shore. She didn’t bother hiding her footsteps as she stepped down the rocks and onto the smooth sandy strip.
+
+The demon came to a stop right beside the healer. They were close enough to the water that she could feel the ocean spray on her face. She’d thought the moonlight bouncing off the waves was bright before, but up close, it was nearly blinding.
+
+Llyr didn’t react as Pyre approached. His eyes remained fixed on the waters, flowing robes billowing behind him. He didn’t seem to be staring at anything in particular that the demon could see. He was simply watching the ocean as a whole.
+
+For a moment, no one said anything. Pyre kept an eye on Llyr, waiting for him to speak first. That usually netted the best results, she’d found, and it wasn’t like she was in a rush.
+
+Finally, after the silence had stretched for nearly a full minute, the healer opened his mouth.
+
+“You’re up quite late.” His voice was its usual calm, even tone. He didn’t take his eyes off the waves.
+
+“You are too,” Pyre pointed out. She turned to the ocean as well, but she still couldn’t tell what he was looking at. “This your hobby? Staring at the water at ass o’clock?”
+
+Llyr smiled. “Something like that,” he murmured. His gaze shifted to Pyre, blue eyes assessing. “Are Callan and Daphne still inside?”
+
+“Yep.” She pronounced the ‘p’ with a pop. The healer hummed.
+
+“That’s good. It’s been a difficult day for them; they should be resting.”
+
+The demon raised an eyebrow. “Not gonna include me in that?”
+
+Llyr laughed lightly. The sound seemed clearer outside, away from the mansion walls. “Well, I always recommend resting when possible.” He tilted his head. Something in his eyes sharpened, and Pyre was immediately on alert. “But I don’t think sleep would be very helpful for you.”
+
+The demon didn’t react. She just gave him a long look, watching the healer steadily as she waited for him to continue. To say what both of them knew he was thinking.
+
+“You’re not human, are you?”
+
+It sounded more like a statement than a question.
+
+Llyr remained where he was, the picture of calm as he faced the demon. Beside them, the ocean waves continued to crash into the shore, loud in the quiet night. Neither one of them looked away.
+
+Slowly, a sharp smile spread across Pyre’s face.
+
+“Neither are you.”
+
+Llyr didn’t react to that, but his silence was answer enough.
+
+The demon huffed a laugh. So that was how it was going to be. She turned to face the ocean again, the picture of casual ease.
+
+“So? What gave it away?” she drawled.
+
+Llyr hummed. “A few different things,” he said lightly, “but I suspected it from the start.” His eyes briefly darted downwards. “You sink too far into the sand.”
+
+Pyre glanced down. Sure enough, she left noticeably deeper footprints than she should. That was what happened when you were essentially a super dense humanoid mountain of flesh, she supposed. She snorted and looked up again. Fair enough. She’d have to watch out for stuff like this in the future.
+
+“What about you?” Llyr asked, sounding genuinely curious. “How did you know about me?”
+
+The demon shrugged. “Eh, it was more a gut feeling than anything. Lots of different things,” she parrotted.
+
+The healer seemed to accept this and turned to face the ocean again. His earrings swayed with the movement, and Pyre found herself focusing on them. They looked fairly innocuous at a glance, but she had a feeling that they were what was masking the man’s scent.
+
+Maybe he’d even gotten them from the same person she’d gotten her own earring from.
+
+For a moment, neither one of them spoke. They simply stood there under the inky sky, the wind gusting past them.
+
+“…Aren’t you curious?”
+
+Pyre raised an eyebrow at the healer. “You’re gonna need to be more specific.”
+
+“About what I am,” Llyr clarified. “You’re not curious at all?”
+
+The demon shrugged. “A little, yeah, but it’s not really my business.”
+
+It was pretty clear that Llyr wasn’t keen on revealing his species, and pushing him on it would probably just cause the healer to pull away. She did want to know more about his abilities, just to know what to expect, but the same could be said of a regular human, too. They still needed Llyr to heal Daphne. Ultimately, Pyre didn’t think pressing the topic was worth the risk.
+
+She turned to face Llyr fully. “As long as you heal Daphne and don’t try to fuck with us, I don’t care who you are.” Her grey eyes gleamed like metal in the moonlight, and she cocked her head. “Now, if you do try something, then we’ll have a problem. But unless that happens, I’m not gonna pry if you don’t either. Sound good?”
+
+Llyr was quiet for a moment, likely thinking back to the incident in the infirmary. It had been brief, but it would give him some sense of the demon’s strength. He hummed.
+
+“Hm, yes,” he finally said. “That sounds quite fair.”
+
+Some of the heaviness in the air dissipated. The two settled back into a comfortable silence—the sort of silence that came from the mutual understanding of two monsters with their own secrets.
+
+That was when Pyre saw it.
+
+Movement flashed in the corner of her eye. She turned her head towards a section of the ocean lying far beyond the shore. Llyr’s eyes were already trained on it, face still and unreadable.
+
+The surface of the water bubbled.

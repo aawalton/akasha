@@ -1,0 +1,219 @@
+---
+id: 57ad4925-8f39-5269-806e-6eb8a9dab212
+page-type-slug: story-chapter-royal-road
+title: "47 - The Second Sun"
+slug: 0047-47-the-second-sun
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 47
+ownLength: 1768
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3545116/47-the-second-sun"
+royalRoadId: "3545116"
+---
+
+Reina. Kaelor. Talon. Meriel. Tuna. Me.
+
+We faced the Borrowed One, not moving a muscle.
+
+A monster like him borrowing a celestial body was an unfortunate contrast. He was a demon disguised as an angel.
+
+“So that’s the dungeon warden?” Meriel whispered.
+
+I nodded.
+
+“I’ve never seen this before,” she continued. “A warden being able to escape their dungeon... he must be far more of a threat than any of us realize.”
+
+You’ve got one thing wrong, Meriel. I fully understand how much of a threat this man is. His Level alone is enough to tell me.
+
+“We have zero revives left, don’t we? What happens if we die?” I asked.
+
+“Then we die without coming back,” Meriel replied.
+
+“So we actually die.”
+
+“Yes. Adventurers typically retreat after their revives run low, but it doesn’t look like we have the luxury for that.”
+
+The boss music continued playing in my ears, but thankfully, it was quiet enough for me to hear what was happening. If it had stayed as loud as it was during the first few seconds, I would’ve died from blood pouring out my ears before even facing Aurelius.
+
+Unlike the rest of us, Kaelor had the courage to move, standing between us and the angel. Aurelius waved his fingers, flaunting the deadly rings on each of them.
+
+“Kaelor the Firstborn,” he began. “I was curious about what someone like you is doing with the likes of them.”
+
+“It’s nothing you need to know about,” Kaelor replied. “From what I’ve heard through Allene, you’re capable of dispelling souls and stealing bodies. How much of this is true?”
+
+“All of it is true.”
+
+Kaelor narrowed his eyes. “The ability to toy with souls isn’t something to take lightly. That magic is ancient. How did someone as powerful as yourself manage to become imprisoned in a dungeon? Which archmage did this to you?”
+
+“That doesn’t matter. I’m sure they’re long gone by now.”
+
+Meriel stepped forward. “How long have you been a warden for?”
+
+He looked at her. “I don’t know exactly. All I know is that it’s been a long, long time.”
+
+The island began to tremble.
+
+“Enough questions,” Aurelius said, raising a hand.
+
+The Soul Anchor Ring he had picked up from the manor’s underground alcove rested on his finger, emanating a purple glow.
+
+Kaelor briefly turned to us.
+
+“All of you—run while you can.”
+
+I frowned. “What are you talking about? We can’t leave you. We’ll help you fight him.”
+
+“Don’t. You’ll only get in my way. He’s far too powerful for any of you.”
+
+“I know that, but—”
+
+“Allene,” Kaelor said, his expression soft. “Go.”
+
+The Borrowed One was Level 231. Was Kaelor even capable of taking him on?
+
+I called [INSPECT] for the first time since I met him.
+
+[FIRSTBORN: Kaelor]
+
+[WARNING: Some values are kept hidden]
+
+And that was all it showed. No Levels. No stats. No description.
+
+Nothing.
+
+Yet he had the same warning as I did whenever I inspected myself. Why did the System keep his stats hidden?
+
+Before I could question it any longer, Reina took my hand and began to sprint away.
+
+“You got this, Kaelor! We’ll be rooting for you… uh… while we’re escaping!”
+
+Talon, Meriel, and Tuna followed behind us.
+
+“Stay safe, Kaelor!” Talon shouted.
+
+Tuna let out a loud meow.
+
+Kaelor nodded and returned his gaze to Aurelius. The last thing I saw was the two of them facing one another before I looked ahead, leaving them behind.
+
+“Follow me!” Talon said, running up ahead. “We’re not too far from the portal, so—”
+
+We heard familiar loud screeches.
+
+We looked up.
+
+“Porcelain Harpies,” I said, recognizing them right away.
+
+There were too many of them above us to count. Looks like the no-flying rule in the inverted city doesn’t affect them. How was that even fair?
+
+“Just ignore them,” Meriel said as we continued through the city. She had cast supportive wind magic to help all of us run faster.
+
+“Ignore them?!” Reina yelled. “How are we supposed to do that with how loud they are? They’ll come down and scoop us up!”
+
+As soon as she said that, a group of harpies dove toward us, aiming at Tuna first since she was the largest target. Before they could reach her, Meriel quickly cast a fire spell, taking them out of the air. Tuna meowed, thanking her.
+
+“Allene, Reina—help me keep them away,” Meriel said. “Now’s the time to take full advantage of all the learning the two of you have gone through. Accuracy is of utmost importance now. We can’t spare a single miss, otherwise we’ll risk having their claws through our heads.”
+
+We nodded. I threw Dawn Sunderer to Reina, then reached inside my [INVENTORY] and pulled out Moonweaver—the staff Meriel had given me. I would’ve liked to keep Dawn Sunderer for myself, but that meant Reina would have to use my staff instead, which wouldn’t have been ideal, since she was only capable of a limited number of spells.
+
+Seeing that Talon’s only weapon was a slingshot, I also pulled out the Pouch of Endless Exploding Talismans.
+
+“Talon, here!” I called, throwing it.
+
+He turned and caught it, his eyes lighting up. “Thanks!”
+
+The harpies dove and continued their screeches. This would’ve normally caused us to end up confused and start missing our spells, but because of how far they were, their screeches were far less effective. The only problem was keeping them that distance.
+
+The battle between us and them was a constant back-and-forth between diving and casting spells. Meriel and I used all sorts of fire and wind magic, while Reina swung her sword through the air, letting it shoot out arcs of light that passed through and killed several harpies at a time.
+
+Talon’s attacks were a bit messier than ours. He simply threw as many talismans as he could into the air, hoping they would explode and kill the harpies. Somehow, it worked out just fine. I didn’t want to blame him for such a strange fighting method, since he also had to focus on navigating us through the city.
+
+“The sun!” Reina suddenly cried. “The sun’s going back up!”
+
+I looked beyond the buildings of the city, seeing the horizon. She was right. The sun was coming back up. Time flowed differently in this dungeon, so it was impossible to predict how long the day and night cycle was.
+
+“We have to hurry,” Meriel said as she continued to cast her spells against the harpies. “Talon, didn’t you mention something about the monsters becoming stronger once the sun comes back up?”
+
+He nodded as we turned a corner. “The sun we saw when we first entered the dungeon was the normal one, but the second sun has some weird magic that makes all the monsters more aggressive and powerful.”
+
+“How bad is it?” I asked.
+
+“Bad enough that a party of ten came out of the dungeon with three people after it happened. Not even all the revives they had could save them.”
+
+“That’s bad bad!” Reina cried.
+
+After a final turn, we finally came across the gate that would take us out of here. Its doors were wide open since we managed to pull all the levers that were hidden around the city, and it was barely large enough to fit someone as large as Tuna.
+
+“Go, and don’t look back!” Talon cried, jumping through it. The portal was pitch-black, hiding whatever was on the other side.
+
+Tuna went through next, then Meriel, then Reina.
+
+Even though Talon told me not to look back, I couldn’t help but hesitate. The harpies were closing in on me, their claws threatening to tear my face off. I quickly cast fire spells to hold them off.
+
+Kaelor… will he be alright? I know that he’s the most powerful out of all of us, but still. Was having the blood of a Firstborn truly enough to fight against something as powerful as the Borrowed One?
+
+…
+
+No. I had no other choice but to believe in him. He was doing this for us to escape.
+
+I won’t let it go to waste.
+
+I stepped through the portal.
+
+But there was one tiny problem.
+
+As soon as I passed through the portal, I fell through the air on the other side.
+
+I screamed, closing my eyes. Again, I absolutely hated that feeling in my stomach when dropping from a high place.
+
+Plop.
+
+I opened my eyes.
+
+We had all landed on Tuna. Well, everyone except Talon. He had gone through the portal first, but it didn’t matter since he had wings of his own.
+
+“This isn’t over,” Meriel said from beside me.
+
+“This…” Talon began, flying over to us.
+
+The second part of this dungeon—the section we were now in—was completely randomized for every dungeon run, making it impossible to predict what came next.
+
+We were in the sky. An empty, pink sky with a large rainbow in the distance. It was a far more whimsical sight than the sky from the previous section of this dungeon.
+
+We let out a sigh of relief.
+
+What’s next? Was I about to see some unicorns? I’d gladly take that. Anything would be better than Porcelain Harpies.
+
+But the relief was short-lived.
+
+We heard the same screeches as before. We looked up, realizing that the portal was still wide open.
+
+“Is this supposed to happen…?” I asked.
+
+“It’s because Kaelor hasn’t gone through it yet,” Meriel said. “The dungeon keeps all portals open until every member of the party passes through.”
+
+“Are you kidding me?!”
+
+Countless Porcelain Harpies poured out from the same portal we had entered from, filling the sky.
+
+As if things couldn’t get any worse, a loud roar came. It didn’t come from the harpies. It was behind us.
+
+We turned.
+
+The beast before us was larger than any monster I’ve encountered since entering this world. Its scales were rough and white, while its serpentine eyes burned blue. Its wings gently flapped as it floated through the air.
+
+Its head stayed motionless, locked onto us.
+
+[BOSS: CLOUD DRAGON]
+
+Level: 179
+
+HP: 100%
+
+Description:
+
+A dragon born from the skies themselves. Cloud Dragons spend most of their lives drifting through the upper currents, rarely descending unless provoked or hungry. They are able to remain airborne for months at a time without landing. Their scales are said to contain traces of ancient wind magic, granting them the ability to float more effortlessly than other dragons.
+
+Assessment:
+
+Don’t be dumb. They’re nothing like Cloud Serpents. No other advice can be given at this time.

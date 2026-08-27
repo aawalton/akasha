@@ -1,0 +1,169 @@
+---
+id: 9b00be07-fb68-57f2-b1a8-f67a1d34f93e
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Two: Secrets"
+slug: 0063-chapter-sixty-two-secrets
+partOf: flesh-eater-demon-evolution-litrpg
+position: 63
+ownLength: 3075
+unit: words
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3021124/chapter-sixty-two-secrets"
+royalRoadId: "3021124"
+---
+
+The night was quiet. Pyre glanced idly around as she made her way through the forest, shoving branches and bushes out of her path. Callan drifted beside her in his translucent form, jaw tense. Daphne still didn’t know he could turn invisible, so he was keeping up the charade, but Pyre could tell it was killing him to not be taking advantage of his invisibility right now.
+
+Speaking of Daphne, the noble strode forward a few paces in front of them, her bright red hair swaying behind her. Ever since they’d snuck out of the manor, she hadn’t said a word beyond telling them to follow. She also hadn’t slowed down at all since they’d made it into the forest, moving towards the back of the manor grounds with a steadfast determination. Daphne joining them on their sanctum trip wasn’t ideal, but as long as they made it inside, they could figure things out. The horn might not even be in there at all.
+
+Up ahead, Daphne suddenly slowed down. Pyre could see the wall between the gaps in the trees, and she silently scanned the area for any passing guard patrols. Daphne was doing the same thing, but it didn’t hurt to be extra cautious—especially since she had [Vibration Sense] and [Darkvision] to work with.
+
+Finally, the noble seemed satisfied. “Wait here,” she said. She didn’t even stop to verify that they’d heard her before striding out of the trees. She placed a hand on the wall, and the stone began to split apart like it had two nights ago.
+
+Beside Pyre, Callan leaned forward, watching with rapt attention. The demon gave him an amused look. The kid was probably barely holding back all his questions right now.
+
+Soon, a new opening had appeared in the wall. Daphne turned around and gestured at them. Pyre rose, gave her surroundings a quick scan, then made her way through while Callan floated behind her. Daphne was the last to follow, and once she’d stepped past the manor bounds, she turned around and placed her hand on the stone again. With a faint glow, the rocks rippled and folded back together, moving as easily as a curling ribbon or a wave of water.
+
+The seam in the wall disappeared, and the three were left standing outside the Bellhein property. The Gravestone Mountains loomed above them, casting a long shadow below. Now that Pyre looked closer, it seemed like this part of the mountain had been carved away to make room for the manor grounds. The steep, nearly vertical cliff sides didn’t look wholly natural.
+
+If she turned her head, the white arches of the sanctum were visible to their right. They’d exited the manor grounds through the northwest corner—as far away from the sanctum entrance as possible. Even now, Daphne didn’t turn towards it. Instead, she began moving to the left, keeping one hand on the mountain side as she did so.
+
+“Um, isn’t the sanctum that way?” Callan asked.
+
+“Shhh.” Daphne leaned a little closer to the cliff face, brows furrowed in concentration. “It should be here somewhere…” she muttered.
+
+Pyre didn’t get much of a chance to speculate on what “it” was before the noble shot back with an “Ah ha!” Daphne grinned triumphantly. “Right here,” she said.
+
+Pyre and Callan moved closer, but the spot she was pointing to looked like regular old rock to the demon. Daphne noted their total lack of reaction and snorted.
+
+“Here.”
+
+Carefully, she placed a hand down on a small divot in the cliff side. For a moment, nothing happened. And then, from below her palm, silver light began to ripple outwards. The stone shimmered, and when Daphne pressed her hand in again, it passed straight through. Callan’s jaw dropped.
+
+“Is—Is that an illusion spell? Transmutation? A ward? I don’t see any runes.” He could barely contain the excitement in his voice, much to Pyre’s amusement.
+
+“Little bit of everything,” was Daphne’s response. She jerked her head at the cliff, where her hand was currently sinking half-way through the stone. “Hurry, the opening’ll close soon.” With that, she strode forward, walking straight into the side of the mountain and promptly disappearing from view.
+
+Pyre raised an eyebrow. She could see from her heatmap that Daphne was, indeed, waiting inside. Huh. It looked like there was a whole set of hidden tunnels here, which maybe shouldn’t be a surprise considering they’d traveled through a different set of tunnels in this very mountain range to reach Auren. She focused on the vibrations around them. It was hard to tell considering the general lack of movement right now, but the other side of the rocks did seem more “hollow” than the surrounding areas.
+
+The demon strode forward, only pausing when she saw that Callan wasn’t following. The ghost was still staring at the rock like it held all the secrets in the world. She snorted.
+
+“Hurry up, kid.”
+
+Callan blinked. “Huh? Oh, right.” He drifted forward, and soon the two were stepping straight through the supposedly solid mountain.
+
+Pyre didn’t feel anything when they passed; it really was just like walking through regular air. Only the rippling silver light gave any indication that the rock wasn’t perfectly solid and that there was something magical going on here. She wondered if it was always like this for Callan when he ghosted through objects. Maybe not—he’d made it sound like he could actually feel himself moving through things.
+
+Pyre stepped down onto solid stone and looked around. As she’d thought, there was a narrow passageway here that seemed to extend further into the mountain. It was just tall enough for her to not need to hunch down, and it could fit maybe two people walking side by side tops. She tapped the walls. These ones, at least, were normal. The glyphs Callan had been looking for were here, too, etched just inside the entrance.
+
+Experimentally, the demon turned and tapped the wall she’d just passed through. Her knuckles hit solid rock. Huh, interesting. There was definitely some kind of illusion going on, but it looked like another spell actually physically formed and removed the stones when it was triggered. “Little bit of everything” indeed.
+
+Up ahead, Daphne grabbed a torch off the wall and lit it with a snap of her fingers. “Okay, this tunnel goes straight to the sanctum. It’s a bit of a walk, but I’m guessing you don’t mind.”
+
+“Who made this?” Callan blurted out, unable to hold his questions back any longer. He gestured around them. “I mean, did Lord Bellhein do this?”
+
+Daphne smiled a little smugly. “He doesn’t know about this place,” she said. She stepped forward, beginning to make her way down the dark passageway. “These tunnels were created back when the sanctum was being built. The old Bellheins wanted their own entrance in.”
+
+Callan frowned at that. Pyre could practically hear him mentally outlining all the problems with a singular family owning a sanctum and having private access to it. He’d said as much during his many rants about the construction. It was pretty interesting to listen to, to be honest. There was a lot going on in this world.
+
+The demon strode forward, following Daphne deeper into the tunnel at a casual pace. Because of the enclosed walls, their footsteps echoed loudly, and she could hear water dripping in the distance.
+
+“So, if your uncle doesn’t know about it, how’d you find the place?” she asked casually. Daphne hummed.
+
+“I was exploring.” She shrugged. “My uncle doesn’t let me inside the sanctum, so I decided to find my own way in.” She smiled wryly. “It took a lot of searching, but I found it. I haven’t used this tunnel in a while, though.”
+
+Callan frowned at that. “Why aren’t you allowed in the sanctum?”
+
+Daphne glanced back at him, then turned forward again to continue walking. “My ichor-poisoning,” she said bluntly. “Wouldn’t want to be exposed to too much ichor.”
+
+“Oh.” The ghost looked embarrassed. “Uh, sorry.”
+
+“It’s fine. I don’t mind talking about it.”
+
+Pyre thought back to that day in the noble’s room, the bitterness in her voice when she’d talked about how people treated her like glass. Not being allowed into places probably played pretty heavily into that.
+
+The three continued walking in silence. The tunnels curved east towards the sanctum, and while they still had a ways to go, Pyre thought she could hear the distant roar of the ichor waterfall. The sound was simultaneously loud and muffled at once. It gave the entire area an odd, liminal feeling.
+
+Beside the demon, Callan looked hesitant. “If you don’t mind me asking,” he began slowly, “how did you—I mean, how did you get ichor-poisoned to begin with? There aren’t any ichor mines here, and the ichor concentration around Magrath is pretty standard for a city. Unless there’re denser atmospheric deposits, but I haven’t noticed anything like that. And there’d probably be more people ichor-poisoned if that was the case. I just—I don’t know how you could be exposed to enough ichor to be…” His voice trailed, and he ducked his head down when Daphne turned around to face him. “You don’t have to answer if you don’t want to,” he added hurriedly. “I was just rambling.”
+
+For a moment, Daphne didn’t say anything. The noble’s face was blank and unreadable. Then, slowly, a small smile spread across her features.
+
+“You’re kind of a nerd, huh?”
+
+Callan opened his mouth, then closed it again. Whatever he’d wanted to say died in his throat, and Daphne laughed.
+
+“Seriously, it’s fine. And you’re not the first person to ask.” The noble hummed and faced forward again, the torch flickering in her hand. “My core doesn’t have a barrier.”
+
+The ghost’s eyes widened. Daphne kept talking. “Don’t get me wrong, it’s great for magic. I can pull in all the ichor I need without any limits, and that’s not an exaggeration.” She paused, steps slowing a little. “It’s just, it means even normal concentrations of ichor are like getting dropped into an ichor well for me.” She laughed humorlessly. “It doesn’t matter how much I try to avoid it. There’s no shield.”
+
+Pyre silently digested the information. If she was remembering right, the “core” was the thing mages used to cast spells. It had sounded like it was basically a different word for the soul, hence why the demon couldn’t use magic right now.
+
+According to Callan, there was some kind of a natural barrier around the core that kept ichor out, and mages had to learn how to lower it in order to pull in the ichor needed for their spells. How much they could and couldn’t lower said barrier was innate, and the ghost himself had mentioned that he could only draw in a very limited amount of ichor.
+
+Daphne, it sounded like, had the opposite problem.
+
+“Have you—I mean, is there a way to fix it? I didn’t even know that was possible. I’ve never heard of something like that happening before,” Callan tried to say.
+
+Daphne chuckled darkly. “Of course not; it’s a birth defect. A freak accident, really.” She shook her head. “My uncle’s called all the most powerful mages in Auren, and none of them know what to do. I’ve tried everything. I tried not using magic at all for a year, but it didn’t stop the poisoning. I tried forcibly raising the barrier in case it’s really thin or blocked somehow, but there just isn’t one. I’ve even—” She cut herself off, lips thinning. “—I even tried contacting a crossroads demon.”
+
+Pyre and Callan exchanged looks. “And they couldn’t do anything,” Pyre guessed, finishing the unspoken thought. Daphne shook her head.
+
+“No one showed up.”
+
+That made the demon pause. Beside her, Callan looked flabbergasted. “No one showed up? At all?”
+
+Daphne shook her head again, and Pyre’s eyebrows rose. Huh. Based on what Callan had said about summoning crossroads demons and her own (brief) experience, it really didn’t seem like it took much effort for one to appear. They made deals for a living, so it made sense that they’d jump on any opportunity they got. The summoning process was stupidly easy for a reason.
+
+The fact that apparently no crossroads demon had ever even answered Daphne was… weird, to say the least. The only thing she could think of was that the noble’s condition was actually incurable, hence no one responding. Either way, it was certainly an oddity.
+
+Based on Callan’s silence, he was thinking the same thing. She could practically see the wheels turning in the ghost’s mind, but just as he opened his mouth to ask a follow-up question, Daphne stopped walking.
+
+“We’re here,” she said.
+
+“Here,” it turned out, was in front of a massive stone door that stretched all the way from the tunnel ceiling to the ground. Pyre scanned it, slightly impressed at the scale of the thing. Compared to the crude tunnel walls, the fine etchings on the door looked a lot more like the stuff she’d seen on the sanctum. It looked old, too—the surface slightly cracked and caked with a layer of dust.
+
+Beyond, the roar of the ichor waterfall echoed loudly throughout the tunnel. The door was fairly flush to the wall, but Pyre could see just the faintest traces of silver light seeping in through the seams. And then there was that familiar pull, exactly like she remembered. This was definitely the sanctum. The question, then, was if the horn was on the other side.
+
+Daphne pressed her ear to the door, brows furrowing in concentration. She nodded, satisfied.
+
+“I don’t hear anyone inside,” she said. That tracked with the whole “no guards allowed within” thing that Harris had mentioned. The noble turned to Pyre and Callan.
+
+“There’s sound-proofing wards and other alarm protections inside,” she explained. Her eyes flitted to Callan. “So you can… eat or whatever without worrying about someone walking in.”
+
+The ghost pulled his eyes away from the door and blinked. “Uh, right. Yeah.”
+
+Pyre could see Daphne’s eyes starting to narrow, so she strode forward and tapped the door before the noble could start suspecting anything. “We just shove it open? Looks a little fragile.”
+
+In response, Daphne placed her hand on a small circle on the left side of the door. In seconds, silver light beamed around her fingertips, the line traveling throughout the door until every curl and angle of the engraved runes had lit up with a soft glow. The faint sound of scraping stone rang out throughout the tunnels as the door slowly swung open.
+
+Pyre had known, just from seeing it on the outside, that the sanctum was big. It was quite literally designed to cover a waterfall, after all. That still didn’t compare to actually standing inside the place.
+
+The moment they stepped through the doors, the space opened into a wide chamber. On one side, rounded tower walls stretched high above, ending in an intricate glass window near what had to be the top of the mountain. Silver moonlight beamed directly down through that opening, illuminating the space with a bluish tint. Curling stairs ran along the walls, a few arched bridges occasionally connecting various platforms in a spiraling ascent upwards.
+
+The walls themselves were carved with swirling patterns and designs. The door they’d stepped in from, when closed, sat flush with the etchings in the walls, indistinguishable from everything else. Pyre could see how it had remained hidden so well.
+
+The floor, meanwhile, was decorated with a carefully laid mosaic. Thin streams of silver ichor ran along the glass pieces, outlining an image of sprawling wings. Tall white marble pillars encircled the expansive space, casting long shadows under the light of the flickering torches. Combined with the ichor glow, the sanctum was brightly illuminated. Only the small glimpse outside through the skylight gave any indication that it was night.
+
+Slowly, Pyre stepped deeper into the sanctum. Her footsteps echoed throughout the chamber, but the sound was nothing compared to the roar of the waterfall.
+
+A deep well of pure, silver ichor sat in the center of the sanctum, its surface so bright that it hurt to look at it for long. It was fed by the waterfall pouring down the side of the mountain, and Callan’s description hadn’t been an exaggeration. It really was a waterfall of pure ichor. It looked almost ghostly, more like a mist than a liquid as it cascaded down into the perfectly circular pool. She couldn’t see them, but the demon guessed that a series of pipes below ground distributed the ichor throughout Magrath.
+
+While the ichor waterfall was even more impressive than she’d imagined, Pyre found she couldn’t focus on it for long. Because despite the pristine beauty of the place, a few jarring details stuck out like a sore thumb.
+
+Around the ichor-pool, red lines had been painted over the floor, marring the mosaic. A circle of runes and glyphs covered everything inside.
+
+High above near the top of the waterfall, a second matching circle had been drawn into the side of the mountain, half obscured by the falling ichor. Below it, a platform had been set up in the center of one of those arching bridges. It held a distinct array of objects that were carefully arranged like an offering.
+
+One of them was a curling black demon horn that gleamed in the light of the ichor.
+
+Pyre barely paid attention to it, though, because ever since she’d stepped into the sanctum, that pulling sensation had returned stronger than ever before.
+
+Now, steel grey eyes peered up at the object in the very center of the display—a silvery, mist-like sphere that rippled and swirled like a coiling storm. Alive. Contained. The demon had never seen it before, but she knew instinctively what it was.
+
+That was a fragment of her soul.
+
+“…What the hell is this?” someone breathed. Pyre was vaguely aware of Daphne taking a tentative step closer to the red circle drawn around the ichor pool. “This isn’t—this can’t—”
+
+Whatever the noble had wanted to say was abruptly cut off when Callan yelled and darted back. The sound was enough for Pyre to finally tear her eyes away from the soul fragment and look down again.
+
+Sprawled across the center of the sanctum floor, the lines of the rune circle began to glow.

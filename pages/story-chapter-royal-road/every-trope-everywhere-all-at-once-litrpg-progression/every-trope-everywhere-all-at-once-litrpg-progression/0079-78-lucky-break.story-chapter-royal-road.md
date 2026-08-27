@@ -1,0 +1,247 @@
+---
+id: 3f2686f1-3a96-5cf7-9535-4a25933a307b
+page-type-slug: story-chapter-royal-road
+title: "78 - Lucky Break"
+slug: 0079-78-lucky-break
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 79
+ownLength: 1897
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3734589/78-lucky-break"
+royalRoadId: "3734589"
+---
+
+Reina and Aeris were the first to fall asleep, covering nearly the entire bed with only the two of them. Noodle had settled into a comfortable position between Aeris’s horns and was also sound asleep.
+
+Could this really be the first night where I could get my full hours of sleep?
+
+“They look quite endearing together when they’re not noisy,” Meriel said, still sitting at the desk.
+
+“Which is pretty much never, unless they’re asleep like they are now,” I said, hovering over her like an annoying flea to read all the things she was writing down. “I guess all that sparring and arguing really did wear them out.”
+
+Still, they weren’t entirely quiet even while they were asleep. I thought Reina’s snores were bad, but Aeris’s were just as horrible. Though to be fair, that could’ve just been something dragons couldn’t control, but I wouldn’t doubt it if something so annoying was unique to Aeris. What was really strange was how Noodle managed to fall asleep despite the snoring.
+
+“You know, I’m almost having an existential crisis right now,” Meriel said, chuckling.
+
+Hearing something so sudden completely caught me by surprise.
+
+“Huh…?”
+
+“I’m having an existential—”
+
+I put a hand out, stopping her. “Yes, I heard you the first time. I was just expecting that saying something like that would require some build-up.”
+
+“Is that so?” She leaned back into her chair. “I was saying that because after writing everything down in my journal, I realized I know a lot less about the world than I thought. People deeply connected to magic are often said to understand the world well, but now I’m starting to question that. Tropes and the Narrative are things even magic can’t explain. That’s something I never thought I’d say.”
+
+Could I really blame her after everything that has happened?
+
+“I wonder… how much of you is still you?” I asked. “If your awakening made you aware of tropes and your purpose in this world, do you feel like you changed a lot from the person you were?”
+
+She frowned. “I already said I was having an existential crisis. Your questions certainly aren’t helping.”
+
+“Ah—”
+
+“Kidding,” she said. “Want to take a seat? You’ve been standing for a while.”
+
+“Sure.”
+
+We changed spots, careful not to make too much noise and wake up the others. But with the snores filling the room, I doubt that anything Meriel and I did would ever be louder.
+
+“It doesn’t feel like I’ve changed significantly,” she said, stretching her hips and legs. “I’m still the same person, just… with a different interpretation of reality. It makes me wonder why things happen in this world. Why do some people die while others live? Why do some people become powerful, while others remain weak despite their best efforts? Is it because of what the world has planned for them? Did the Narrative decide that their only purpose in life was to stay weak so that others can thrive?”
+
+She looked at me. “Why did I feel so compelled to teach you back then, Allene? How did we survive so many deadly situations? And how did I survive a fatal attack from Aurelius? If we take all the evidence into account, it feels as though the Narrative made all of this happen.”
+
+I picked up the quill, doodling in her journal. She looked at it as if she was expecting me to draw some kind of diagram, only to be disappointed with the horrible drawing of a whale.
+
+“You’re saying everything was predetermined?” I asked.
+
+“Maybe,” Meriel said. “But it doesn’t have to be. Maybe the Narrative simply influences our decisions without knowing the future.”
+
+“Both theories seem just as likely, but the first one’s scary. If our actions are predetermined, then nothing matters.”
+
+“And all of this also means the act of us discussing the Narrative right now could also be because of itself,” Meriel said. “It’s hard to tell whether that’s a bad thing. We don’t even know what the Narrative’s goal is. Do you have any guesses?”
+
+I put the quill back in the ink jar.
+
+“Maybe a happily-ever-after ending,” I said. “The world becomes free of monsters… everybody becomes friends… no more wars…”
+
+I stopped as I saw the expression Meriel gave me.
+
+“What?” I said.
+
+“That sounds too optimistic.”
+
+“Well it’s not like anything rules it out. And besides, completing tropes gives me all sorts of rewards. The Narrative seems to be on my side. Well, most of the time.”
+
+“But it isn’t. Remember what Aurelius said? The Narrative controlled him so that he would cross paths with us. Why would the Narrative do that if it were on your side?”
+
+“Maybe there was a good reason.”
+
+“Aurelius’s only goal was to take our bodies,” Meriel said. “I highly doubt meeting him could ever have been good for us. You’re thinking it’s one of those situations where bad things happen now so that better things can happen later, aren’t you?”
+
+I nodded. “But maybe we’re defining good and bad the wrong way. From our perspective, that battle brought countless casualties, and Kaelor even lost an arm. But maybe from the Narrative’s perspective, meeting Aurelius made us much stronger. We learned to fight better as a team, you awakened, and we gained a ton of Levels. Those are all things that benefited us. And besides…”
+
+Saying all of that reminded me of something I had received after killing Aurelius.
+
+[MECHANIC: SKILLS REROLL]
+
+- You may select three skills to discard and replace with a random skill
+
+- This can be used for both passive and active skills
+
+- You are now limited to a total of ten passive skills
+
+Warning: The number of available passive skills exceeds the limit. You will be given a temporary grace period. Please use this time to discard your skills to stay within the limit.
+
+I quickly explained the mechanic to Meriel.
+
+“How peculiar,” she said. “Have you tried it yet?”
+
+“I haven’t, but I’ll test it out now.”
+
+I called [SKILLS REROLL] like it was just another System skill, which worked. A window appeared. Instead of the usual trope message, it displayed three boxes and a list of all the skills I had on the side, separated by passive and active ones.
+
+I guess the problem now was deciding which skills to sacrifice.
+
+Passive Skills
+
+Active Skills
+
+There were several skills that were either too situational to be worth keeping, or just straight-up useless. I’m looking at you, [UNDERSTANDING ROACH].
+
+[SKILL: UNDERSTANDING ROACH]
+
+Type: Passive
+
+Effect:
+
+- You can understand Roach… selectively
+
+- Usually only works when Roach cusses you out
+
+- Works for no other horse besides Roach
+
+Reminded of my fellow brown companion, I asked,
+
+“How much time do we have before the academy entrance exam?”
+
+“Quite a bit,” Meriel said. “Why?”
+
+“No reason. I was just thinking of heading back to Lyndale for a while. Reina and I actually tamed a horse before we met you, but we left him at the stables in front of the castle walls.”
+
+She frowned. “That poor thing… being tamed by two of the world’s most annoying girls, only to be abandoned soon after…”
+
+“Okay, but it’s not our fault that you randomly teleported us away to Glacinus. If anything, you’re the one to blame for that.”
+
+We spent the next few minutes going over each of my skills. Together, we made a list of the ones I could comfortably discard, writing each one down in her journal alongside a short explanation. Nearly all of them were passive skills.
+
+SKILLS TO DISCARD AND REASONINGS:
+
+Passive Skills
+
+Active Skills
+
+Meriel seemed proud with the list we created. However, I noticed a very big mistake.
+
+“Now hold your horses,” I said. “You want me to discard [BAD SLEEP IMMUNITY]? I’m already sleeping terribly because of Aeris and Reina, and that’s with the skill. I might just die of sleep deprivation without it.”
+
+She shrugged. “Fine, we can take it off. That makes the total number perfect anyway. You’ll be able to reroll twice with six skills to discard.”
+
+I played around with the System window, dragging the skills into the three boxes. Another button saying, “Confirm?” appeared.
+
+“You really can’t see any of this?” I asked. “No status window… no words… nothing?”
+
+She shook her head. “Through my eyes, you’re just poking the air. You should probably refrain from doing this in front of someone else if you don’t want to look stupid.”
+
+It was strange that even after her awakening, Meriel became aware of tropes without being able to see the System messages. Even Aurelius was able to see them, wasn’t he? Even so, how did that make any sense?
+
+I cast [TROPE STATUS].
+
+[IN PROGRESS TROPES]
+
+I took a closer look at the first one.
+
+[TROPE IN PROGRESS: YOU ARE THE ONLY ONE WITH A SYSTEM]
+
+Completion criteria: ???
+
+Punishment: ???
+
+Of course, it never changed from last time. Question marks for literally everything wasn’t helpful.
+
+Still, how could Aurelius see System messages when this trope clearly stated that I was the only one with a System? Could the trope title just be misleading? Or was Aurelius not seeing System messages after all?
+
+He told us he saw a floating message that read, “The Narrative does not permit you to take this action at the moment.” He even described it as glowing and floating in front of him. If that didn't sound like a System message, I didn’t know what did.
+
+Then again, maybe the completion criteria didn’t match the trope title entirely. I had no idea how I was even supposed to complete this trope when the criteria were completely hidden.
+
+“Allene?” Meriel called.
+
+“Ah, sorry.”
+
+I brushed the thought aside. I should just focus on the things at hand first.
+
+I pushed the button that confirmed the skill reroll, and the boxes containing the three skills began to glow. Then, the System window disappeared.
+
+“What the—? Did I just get scammed?” I muttered.
+
+Fortunately, that wasn’t the case. Another message appeared soon after.
+
+[SKILL ACQUIRED: SNEAKY SNEEZE]
+
+Type: Passive
+
+Effect:
+
+- Your sneezes are quieter
+
+Note: You will now sneeze ten times. This is a one-time occurrence
+
+“You have got to be kidding—achoo…”
+
+“Bless you,” Meriel said.
+
+“Achoo.”
+
+“Bless you.”
+
+“Achoo.”
+
+“Bles—”
+
+“Stop. I’m just sneezing because of this useless—achoo.”
+
+I continued sneezing quietly several more times.
+
+“Is that the skill you got from rerolling?” Meriel asked.
+
+I sighed. “A passive skill that lets me sneeze quietly.”
+
+“That could actually be useful. If there’s ever a time we need absolute silence, a sneeze could get us killed. Imagine trying to sneak past a sleeping dragon and—”
+
+“Are you trying to make me feel better? When would we ever get in that situation?” I said.
+
+Meriel pointed behind me, where Aeris was sleeping. “Right now.”
+
+“Well, if the rest of the dragons are like Aeris, then they’ll be deep sleepers. A sneeze won’t wake them up.”
+
+I opened the System window again and selected three more skills. After confirming my choices, the boxes began to glow once again. When the light faded…
+
+[SKILL ACQUIRED: LUCKY BREAK]
+
+Type: Active
+
+Effect:
+
+- Cause one unlikely but believable coincidence
+
+Cooldown: Once per day.
+
+I blinked. “Whoa.”
+
+“What happened?”
+
+I told her about the skill I had just received.
+
+“Whoa indeed,” she said.

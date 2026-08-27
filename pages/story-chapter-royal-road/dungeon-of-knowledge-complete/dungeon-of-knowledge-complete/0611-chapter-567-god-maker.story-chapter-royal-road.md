@@ -1,0 +1,157 @@
+---
+id: 0d2366c9-04e3-5f74-b5e3-5a197ed0a5ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 567: God Maker"
+slug: 0611-chapter-567-god-maker
+partOf: dungeon-of-knowledge-complete
+position: 611
+ownLength: 2956
+unit: words
+publishedAt: 2026-03-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3154391/chapter-567-god-maker"
+royalRoadId: "3154391"
+---
+
+A clinking tide of shining, mithril-clad Knights spilled through the still-widening portal into the Forest Cavern, spreading out while their curses and magic crackled through the air and coated the trees with thick layers of ice. Massive abominations clawed their way through, mountains of stitched, zombified flesh forcing their way into the Grove. Howls and wails filled the air as the undead minions of the Blind Lich unerringly turned toward the remaining demons, brandishing dark, spelled swords or blackened claws.
+
+But, Dekarradon, Ali’s most powerful Pit Lord, lay withered and dead upon the blackened moss, spewing toxic demonic blood from the grievous wounds inflicted by the countless Rune Blades raining down on his still-twitching corpse.
+
+Ali had grown immeasurably more powerful than she had once been. No longer was she the helpless Fae who’d trembled in fear, nearly insensate merely for being in the Blind Lich’s presence, but as she stared at the drained corpse, she knew with dread certainty that she was still not able to take the Lich’s measure. He’d slaughtered Dekarradon in an instant.
+
+Nevyn Eld’s withered hand rose, his clawed fingers pointing, and he intoned:
+
+“Arise!”
+
+The spine-chilling words of power rolled out across the Grove, imbued with such potent necromancy that Ali’s skin crawled and she lost focus on the magic weave holding the dark portal open, her eyes instead drawn inexorably to the horrific sight of a withered Pit Lord standing up and bowing to the Lich.
+
+Ali swallowed uncomfortably. The once-corpulent demon now appeared utterly emaciated, like a herald of Famine. Stringy muscles and taut sinew gripped protruding bones like the roots of ancient trees forced to claw deep into rocky soils for sustenance. Hordes of summoned demons still tore ferociously into the undead vanguard, but it would just be a matter of time before the awful monster he’d raised from the corpse of Dekarradon would wipe them all out. Its gaunt fist closed around the haft of its massive polearm like a reaper raising a scythe.
+
+But Nevyn Eld had other thoughts. On the opposite side of the Grove, under a rapidly dying oak, a tiny flicker of spatial magic warped the air with a transient ripple, and suddenly, a heavy prism of obsidian stone appeared before him, hovering in the air and slowly rotating in place.
+
+“Bind yourself to the Artifact,” the Lich commanded.
+
+“Yes, Master,” the revenant of Dekarradon rumbled, bowing deeply.
+
+Instantly, the runes glittering upon the facets of the dungeon artifact flared to light, and familiar claws of pain sliced deeply into her mind. Domain mana surged, spilling forth from the artifact as dungeon rage gripped her.
+
+Ali gasped as she scrambled to fortify her mind with all she had learned from Azryet, but the undead Pit Lord grew larger by the second, swelling with the blossoming power granted to him by his new master. Gritting her teeth at the pain, Ali immediately bolstered her defenses and narrowed her focus as the lesser summoned demons began to wither and die in droves, fodder before the might of the Lich’s aura.
+
+A prickle of sudden urgency and a sense of rising anticipation spilled over from the fragments of awareness Ali had distributed among her minions. Flickering rapidly through points of view and touching the minds of minions deployed across the world like riffling through the pages of a book, she paused in the body of her kobold priest and looked. As Mirianth channeled a constant stream of holy magic, all around her, in the frozen heart of distant mountains, dozens of grim-faced adventurers wielded their spells and swords in a furious crescendo, and an ancient monster roared her last.
+
+Your group has defeated Kryostria [The Frozen Scourge] – Dracolich – level 285 (Ice)
+
+A chorus of notification chimes greeted the momentous event, spilling across the surface of her awareness, marking the progress of all her remote minions’ leveling up. Ali froze, locking her expression in her mask of pain in a last-ditch bid to conceal her surprise, for once grateful for the dungeon rage. Nevyn Eld must not know.
+
+You have gained Reputation.+3 Authority.
+
+Her awareness fractured for a moment, exultation bubbling up in her heart as she took in the cheers and jubilant celebration of her friends in that frozen cavern far to the north. Then, she returned to her Grove with an idea.
+
+The fight raged on unabated around her, but for the moment, she was free to act, protected behind her barrier. Malika was out there punching everything that moved with hands that flew as fast as a hummingbird’s wings, while the horde of demons spent themselves against the undead, desperately trying to reach Nevyn Eld and the Pit Lord in the center with the fledgling dungeon he had just created. And the Lich was fully focused on his newest minion.
+
+He’s using the same strategy, she thought. It was clear Nevyn Eld intended to wipe her out the same way he had with the Blooming Rot dungeon – and why shouldn’t he? It had proved so effective last time. Using her own minion as the dungeon owner was just a mockery of the time he had used Lira’s corpse to destroy her. That’s… a mistake. She bit down on a moment’s self-doubt. Yes! Ali had explicitly withheld her domain abilities from attacking the Crypt of Kings, especially while the Lich was confined to his Phylactery. Unless he had found a method of sensing domains through his artifacts while she had been consuming the Well of Corruption dungeon, Ali was certain he’d never experienced her upgraded domain skills.
+
+He had no reason to believe Ali had any defenses against a dungeon spawned within her domain, but Ali had trained with the Dragon God – The Calamity himself – and she no longer feared a dungeon rage. While the Lich prepared his attack, Ali opened her Grimoire instead, using the opportunity to summon a Soul Archon. She immediately burned one of her freshly earned points of Authority to enhance it. She did not have many points, just those earned from Malika’s evolution, and the ones she’d received from participating in slaying Kryostria in her lair, but she intended to spend as many as she could before he realized his error.
+
+Right, let’s do this.
+
+Domain Respawn applied to Soul Archon.Champion Domain Enhancement applied to Soul Archon.Deadshot (Soul Archery) applied.Slayer (Undead) applied.Amplify Skill (Ambush) applied.Annihilation Arrow Storm applied.Domain Enhancement complete.Your reserved mana has increased by +2129.
+
+“Kill the Pit Lord,” Ali ordered, wasting no time to command her newest champion boss. In the ten-odd seconds she had spent summoning the Archon, she had agonized over her strategy. On one hand, she could strike at the Lich directly, but she had no confidence that it would be a killing blow given his powerful mana shield. For all the damage Malika had been unleashing upon that shield, she had yet to see his mana so much as quiver. Worse, she wouldn’t be able to attack the center of the new domain while the boss was still standing. A domain that would firmly establish a beachhead in the middle of her dungeon.
+
+“As you wish,” the Soul Archon replied, her soft voice echoing in Ali’s mind.
+
+With a shimmer, the Soul Archon raised her Soul Shroud, vanishing from most perception skills while standing in plain sight. Ali felt the sensation of the champion’s bow gathering immense power from the heavy draw on her domain. Ali slowly counted to ten in her mind, while she continued summoning her next minion, and then, the Soul Archon fired.
+
+Ali’s heart quivered from the force of the silent explosion that rocked her to the core. A searing bolt of soul energy shot from the bow and crossed the span of the Grove in the blink of an eye. Moss and dirt leapt from the ground and branches were ripped clean off the trees in the wake of the path that connected the Soul Archon’s arrow and the undead Pit Lord still kneeling before Nevyn Eld.
+
+The arrow, empowered by a trifecta of domain magic skills, Ambush, and all the undead slaying aptitudes and support skills of the third-tier Archon, punched right through the heart of the Pit Lord’s chest, leaving a hole Ali could have walked through without even stooping.
+
+For the second time in barely a minute, Dekarradon crashed to the ground and lay still.
+
+Nevyn Eld’s head snapped around, and Ali felt the hateful glare despite his crimson blindfold.
+
+But Ali wasn’t done. Speaking aloud this time, she ordered her Soul Archon, “Kill the Lich next.”
+
+The Soul Archon unleashed a storm of arrows in a surge of domain power: the same devastating attack she had faced from Nendir in the heart of the Lich’s dungeon that had corrupted Well of Souls. While she shoved more mana into the summoning of her next Fractured Archon, Ali glanced at Malika, but her friend was already dodging the storm.
+
+As the shining soul arrows fell from the sky, the sound of an immense gong rang out.
+
+[Realm] Nevyn Eld [The Blind Lich] has used The Ninefold Way: Aegis of Absolution.
+
+The mana shield encasing the Lich suddenly glittered with soul energy right at the very instant the storm of arrows struck, a transformation so profound, Ali gasped at the sight. Gone was the near-invisible soap bubble of his ordinary mana shield. In its place stood a sphere of transparent darkness so profound it seemed to be carved into reality in strokes of weight and significance that could only come from a legendary spell or Authority itself. Even her mana sight dimmed, struggling to penetrate his Aegis. An unimaginable crack rocked the Grove as the onslaught of power unleashed by the Soul Archon met the unyielding shield of the Blind Lich and was repelled.
+
+A trickle of warmth spilled from her ears, running down her neck, but Ali ignored it. It wasn’t like the pain could hold even a candle to the grating agony of the dungeon rage. Her eyes narrowed in focus and, while her minions rained down the full fury of their Authority-enhanced power, she wielded her domain. She had honed Domain Architect on the Lair of the Demon God under the watchful eyes of Azryet. The fledgling, now-unprotected domain emitted by Nevyn Eld’s artifact evaporated like a thimbleful of water in a volcano.
+
+In an instant, the domain mana was gone, and the glittering golden tendrils of her deconstruction ability tore into the artifact itself, turning it into glittering motes of light and the soft, familiar flow of knowledge.
+
+Shrine of the Ancient Grove has increased in capacity.
+
+Despite the flow of new knowledge she could now see streaming into her shrine, Ali ignored the irrelevant shrine advancement, reaching out further with her magic. She would examine the memories later. Within her domain, knowledge came quicker, and she had seen enough of the core structural magic of the Lich’s portal. With a flicker of golden claws rippling up and out of her own domain, she remotely dismantled the portal, causing it to snap shut, bursting with an audible pop.
+
+The din subsided, and her hearing returned to normal with a soft pulse of holy healing mana.
+
+Out in the middle of the Grove, Nevyn Eld stood unbowed, yet such was the dark rage radiating from his stark figure, the very air seemed to tremble in anticipation of his response. All around the Blind Lich, for nearly fifty meters in every direction, nothing but devastation remained. The ground was scoured, trees had vanished, and even the corpses of undead and demons caught in the Annihilation Arrow Storm had been nearly erased from existence. Yet, he stood unscathed.
+
+Ali smoothly shifted into Nendir’s awareness at the back of the raid formation deep inside the Crypt of Kings beside all the other archers. “Hey, Calen,” she called. “Can I get an artillery strike?”
+
+In that faraway cavern, deep beneath the Fangs of the Frost Wyrm, Calen glanced off into the distance and snapped off a shot. With a howling whistle that Ali heard simultaneously on opposite ends of the continent, his storm of shining arrows of light appeared out of nowhere and slammed down upon the Lich’s shield. For two heartbeats, the sharp arrowheads buzzed and rattled against the impervious shield as the arrows sought the Lich like a nest of vipers snapping at their prey.
+
+A moment later, the entire Grove bucked like a spooked horse as all the arrows exploded at once.
+
+“You impudent whelp!” Nevyn hissed, fury lending power to his chilling voice.
+
+Ali’s heart missed a beat as the dark sphere emerged from the slowly dissipating magic and smoke.
+
+Within his shield, Nevyn Eld thrust out a hand toward another corpse and intoned, “Arise!”
+
+Ali wasted not a single instant, activating Spell Steal at once and causing the gem floating at the apex of Nathaniel’s staff to darken dramatically. The Arcane Staff of the Archmage began leaking a foul, dark mist, but Ali unleashed the captured spell immediately, raising one of her own witch doctors that his Devastation Knights had slain earlier. Against all expectations, the witch doctor rose as a greater undead rather than simply collapsing due to incompatible mana affinities.
+
+She could hear the gnashing of blackened teeth from across the Grove.
+
+Later, she thought, filing the curiosity away for another time as yet another magical formation burst forth from Nevyn Eld’s twisted claws.
+
+“Ali?” Malika called.
+
+“I got it,” Ali managed, wielding her Grimoire as she attempted another summon. “I’ll take care of his spells. Help me clean up.”
+
+Portal. Ali identified the new spell instantly, having seen its like many times before. Her golden darts flickered across the intervening distance, shredding his attempt to recast the portal.
+
+“Arise!” the Lich declared through clenched teeth, pointing at another corpse.
+
+Ali responded instantly. Her Disruption was on recharge, but she had something very nearly as good. Her golden darts flickered out, this time rewriting a portion of his spell on the fly, and the dark formation of black energy twisted with the addition of a few glowing, golden, arcane runes.
+
+The spell completed. But instead of the monster he had intended to raise, Ali had redirected it to the corpse of a level two Glitter Dragonet that had been caught in the crossfire and yet had somehow not been entirely vaporized in the ensuing destruction. The black bolt veered off to the side, and the Lich found himself with a tiny draconic zombie.
+
+“You…” The shouted words came out as a hoarse, strangled rasping.
+
+Did that get under your skin? Hurriedly she gave herself a mental smack across the earhole. Stay alert, Ali! But that was fun…
+
+But Ali scarcely had a moment to gloat before a ball of roiling necromancy kindled within the depths of his dark shield. Ali reinforced her barrier as the image of her mother facing exactly this attack slammed into her mind like a ten-ton boulder, but she clung to her focus and continued summoning. No matter what the Lich pulled out, she was a dungeon, and she was in the heart of her domain. Her strength was in her minions. The death magic spell shot across the Grove, discharging violent bursts of crackling lightning that hungrily devoured the very light itself.
+
+“Watch out!” Malika screamed, but Ali tuned her out for a moment, drawing her skills and knowledge into a perfect focus. From gossamer threads of arcane mana, she spun the counter-formation perfectly and fired.
+
+The Lich’s spell was well known to her by now, but it hurtled toward her, a ball of magic, saturated with primal energy and power. Power beyond anything Ali had ever seen, with a formation that blazed with that uncanny perfection. The golden darts of her Disruption spell struck it dead on, but, shockingly, everything fizzled into an impotent cascade of golden sparks.
+
+Authority…
+
+Like a heavy cannonball fired through a mirror, the dense wall of glittering, domain-reinforced magic shattered into a deadly blast of spinning shrapnel shards and golden splinters before Ali’s eyes. The tinkling of broken glass accompanied the constellation of a thousand painful cuts, and Ali reached instinctively for her teleport. A momentary flicker of darkness shot out from beneath the Lich’s crimson blindfold, and Ali’s escape spell turned to dust on her fingertips.
+
+Then, his dark, hurtling ball of death ripped clean through Ali’s heart, leaving a dripping, wet hole in her chest. She glanced down at it; her mind and body numb, and saw the shards of her barrier showering onto the ground behind her through the hole in her middle. Amber blood spilled down her body, running down her legs and into her slippers.
+
+“Ali!” But Malika’s scream was so far away.
+
+Her vision darkened as the world tilted drunkenly to the side.
+
+You have died.[Realm] Aliandra Amariel [God Maker] has cast the mythic spell: Cycle of Rebirth.You have gained Reputation.+5 Authority.
+
+Her body steadied somehow, and Ali blinked. She stared uncomprehending at the rapidly spreading growth of vibrant green that cradled her entire body, and the gaping hole in her chest that was shrinking before her disbelieving eyes. She coughed.
+
+Something grabbed her then, and the world lurched into a confusing rush of movement. There was a flash of blinding light and a distant, howling roar.
+
+Yet her mind refused to work. Vaguely, she registered someone, a voice, shouting at her while she was carried off elsewhere. A blurred impression of trees whipping past, and the sensation of wind on her face. But she felt nothing – like something inside had broken, leaving her as helpless as a disconnected marionette with her strings severed.
+
+I… died?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://topwebfiction.com/listings/dungeon-of-knowledge/

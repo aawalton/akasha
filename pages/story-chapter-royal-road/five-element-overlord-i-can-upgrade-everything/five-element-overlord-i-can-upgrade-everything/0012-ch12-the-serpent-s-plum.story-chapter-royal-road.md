@@ -1,0 +1,123 @@
+---
+id: 1f619b3d-2294-5dff-b0b8-cba79470b7ca
+page-type-slug: story-chapter-royal-road
+title: "Ch12 The Serpent’s Plum"
+slug: 0012-ch12-the-serpent-s-plum
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 12
+ownLength: 1160
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211857/ch12-the-serpents-plum"
+royalRoadId: "3211857"
+---
+
+I start walking toward the sweet smell.
+
+My feet move on their own.
+
+Every time a gust of wind comes through, no matter how small, I get another whiff and shift my direction.
+
+I make my way through heavy brush, downed trees, and thick muddy patches where it looks like no human has ever walked before.
+
+Yet, the closer I get, the stronger the scent becomes.
+
+Eventually, I don’t even have to wait for the wind. The strong scent fills the air.
+
+Bugs and small creatures all around me shift and move in the same direction that I head, making me more vigilant, but it does not slow my steps.
+
+That is, until a very faint orange glow hits my peripherals.
+
+I squint my eyes and try to focus, but the darkness of the night shields my vision.
+
+I hold my breath and keep my head down, walking slower despite all of the insects and even birds that would normally be sleeping at this hour all moving toward the light.
+
+After passing a few more trees and stepping up over a large decaying log, I finally get a good look at the glow.
+
+It comes from beneath a large slate boulder, where a long branch sticks out. It looks like a miniature fruit bush, but there is only a single fist-sized orange plum hanging from it. There is a visible aura radiating off it, and the scent is so potent that even 40 meters away my mouth waters.
+
+I watch a rabbit make a break for the cave, hopping 5 meters every stride, with its eyes locked on the same fruit as me.
+
+Yet, once it jumps in the air for its last stride, a wide-open serpent maw clamps down on its body.
+
+In a single ground-shaking chomp, the rabbit is split in two.
+
+Instead of devouring its prey, the dark-scaled creature spits out the bloodied rabbit head and front legs and retracts its head back into the darkness of the cave.
+
+Half a minute later, an owl swoops down from a tree above and falls victim to the same fate.
+
+It is instantly killed by the serpent in a single chomp. The dark brown eyes of this beast flash when it attacks, but blend in with the darkness once again just seconds later.
+
+My breathing slows as I sit and watch animal after animal die trying to get their hands on this orange plum.
+
+Almost half an hour passes, and the bloody wall before the cave becomes an eerie omen.
+
+Thousands of bugs and insects die before getting anywhere near the cave, like an invisible forcefield is stopping them from entering. Even small animals like mice and squirrels pass out before getting within a meter of the serpent.
+
+There was a very short section in the booklet given to me by the sect, mentioning that if an animal walks the path of cultivation, they can ascend the tiers of qi refinement just like humans.
+
+They are called spiritual beasts…
+
+This is definitely one of them.
+
+From this distance, it is impossible for me to tell how strong it is, or how many other creatures may be lurking in this forest.
+
+I almost want to turn around and run away from the danger.
+
+Yet, as soon as this thought crosses my mind, the aura around the orange plum completely changes.
+
+There is a mass shifting of all the eyes in the forest at once. A wave of an even stronger scent bursts out of the fruit as it fully ripens.
+
+The shock makes my whole body tingle, and a resolve builds in my heart.
+
+I see the serpent’s head peek out of the cave again, and it opens its mouth wide. This time, not to fend off any other creatures, but to eat the ripened fruit itself.
+
+Over a dozen fluctuations of energy hit my senses coming from all directions.
+
+Robust birds, an enormous spider, a green lizard, and a red fox are the ones that catch my eye. All of them have a light white aura surrounding their bodies, showing that they too are spiritual beasts.
+
+I didn’t even sense their presence when they were hiding less than 20 meters away from me.
+
+The next moment, a long black-scaled tail of the serpent whips out and slams into every single one of these creatures, breaking them in half and spewing blood all over the forest.
+
+My heartbeat quickens, and I pull an arrow off my back and load it into my bow.
+
+I pull a bronze upgrade card from my storage and instantly upgrade an arrow, then let it fly.
+
+The arrow shimmers with qi and transforms into the same black, purple, and red poison arrow that killed a martial warrior with ease.
+
+If the serpent moves its head any closer to this orange plum, I’m certain I’ll hit its head.
+
+The full 10-meter-long body of the beast is outside of the cave now, and the heart pounding in my chest skips a beat when I watch its eyes shift toward me.
+
+“Impossible…” I whisper. This talisman should have cloaked my aura entirely.
+
+Yet, when the serpent’s head moves just as the arrow whizzes by, I realize it sensed the arrow itself, and not me.
+
+The serpent’s sharp eyes dart around the forest, looking in the direction that every other beast just attacked it from, then lands on me, the exact direction the arrow was shot from.
+
+I reach back for another, but curse under my breath at the fact that I just wasted another upgrade card even when I had the advantage of a sneak attack. Now, trying anything long-range again would be futile.
+
+I slowly start backing away, but keep my eyes forward so as not to lose sight of the elusive snake.
+
+Its gaze tightens and starts moving mounds of earth with its tail on top of the plum plant, sealing the odor beneath the soil and within the small cave.
+
+The serpent itself doesn’t fall back inside; instead, it lunges forward at the only thing that threatened its life, me.
+
+In less than 3 seconds, the 40-meter gap between us is completely closed.
+
+The enormous serpent’s open mouth stretches wide, threatening to break me in half like every other intruder trying to steal this fruit.
+
+I freeze up…
+
+I have never faced anything in my life this terrifying.
+
+Even waking up in a burning building, seeing a martial warrior charging at me, it still felt human, within the reasonable realm of possibilities to overcome.
+
+Yet, the aura of this monster up close is hot and intimidating. I’m certain it’s killed hundreds of beings my strength. A dozen of them I even witnessed with my own eyes.
+
+There is nothing I can do with the fractions of a second I have left to live.
+
+I watch the serpent’s jaw closing around my upper body.
+
+When it clamps down, a loud metallic bell chimes through the forest.

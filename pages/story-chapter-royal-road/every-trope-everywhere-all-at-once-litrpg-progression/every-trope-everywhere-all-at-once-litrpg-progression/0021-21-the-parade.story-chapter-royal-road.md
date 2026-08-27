@@ -1,0 +1,287 @@
+---
+id: 528baf8c-34e4-52ad-94eb-2c1825e151c2
+page-type-slug: story-chapter-royal-road
+title: "21 - The Parade"
+slug: 0021-21-the-parade
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 21
+ownLength: 1945
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3434455/21-the-parade"
+royalRoadId: "3434455"
+---
+
+We played several more games after the Sky Spear Toss stall, from ring tosses to a dart game where the magic-enchanted balloons made a random noise whenever they burst. There was even a haunted maze somewhere on the island.
+
+But I was spaced out through the majority of this. For some reason, the System keeping the reward hidden really bothered me. I wasn’t sure what it meant, but it was unusual.
+
+I hid my worried expression enough that Reina and Talon didn’t notice anything strange, but I could tell that Meriel was starting to realize something was off about me.
+
+The cloud serpent she had chosen floated by her side, surprisingly very well-behaved. He was quiet, calm, and seemed accustomed to all the loud noises and the crowd at the festival. I was starting to get curious about what he looked like while he was still giant. Considering he had a torn wing, he’d stand out a lot compared to the other serpents. Was it even possible to undo the spell that made him smaller?
+
+He floated around Meriel and went next to me, rubbing his body against my cheek. This sensation felt oddly familiar.
+
+…
+
+Wait a minute. Didn’t Reina and I leave our horse at the stable in front of Lyndale Castle?
+
+Uh oh. We’ve totally forgotten about Roach. He should be fine, right? With the [UNDERSTANDING ROACH] passive skill I had, I’ll definitely hear him cussing us out after we come back to get him.
+
+The serpent went back to Meriel’s side.
+
+“Hm…” she began, hand under her chin. “We need to give him a name. I’m struggling to think of one.”
+
+Talon and Reina were walking in front of us.
+
+“How about Screech? Or Harpy? Or Wing?” Talon asked. “Maybe even Beak.”
+
+“Those are horrible names,” I said. “And you’re literally just describing yourself.”
+
+Reina opened her mouth. “How about—”
+
+“No,” Meriel and I said at the same time.
+
+“But I haven’t even—”
+
+“No.”
+
+Meriel turned to me. “What’s your suggestion? I hope it’ll be better than theirs.”
+
+I shrugged. “He’s your pet, isn’t he? What kind of names are you thinking of?”
+
+She opened her palm, and the cloud serpent rested on it. She looked at him from a few different angles.
+
+“Azrath,” she said.
+
+I laughed. “What’s with such a cool-sounding name?”
+
+“Does it not fit? What were you thinking of?”
+
+“Something like Noodle.”
+
+Meriel looked at me in silence.
+
+“We are not naming him Noodle.”
+
+The serpent flew off her hand and went over to me, rubbing itself against my cheek again.
+
+“Traitor,” Meriel muttered.
+
+“See? He likes it.”
+
+With how happy he seemed with the name, she couldn’t possibly take it away from him. Not unless she was evil.
+
+“...Fine,” she sighed. “But Azrath will be his last name.”
+
+“And Noodle as the first?”
+
+The serpent spun in circles, making all kinds of cute little noises.
+
+“So be it,” Meriel said.
+
+A thunderous horn came from all over the island. Everybody stopped what they were doing and poked their heads up.
+
+“The Grand Skycurrent Race will begin in twenty minutes!” a voice said, loud enough for the entire island to hear. “But before that, we have a special parade taking place. The Grand Race’s start time will adjust should the parade exceed the intended time. With that being said, look above you, and welcome our guests!”
+
+A ball of light appeared over the island, almost as bright as the sun itself. Then, in a blink, huge airships emerged. Their shadows covered nearly the entire island. Every conversation immediately died down.
+
+The ships’ undersides glowed bright with some kind of magical blue runes. Long lights trailed behind them as the winds fluttered their sails. Accompanying them were several creatures—giant birds circling these ships in some kind of formation, with armored riders guiding them through the air. Or were those lions?
+
+No… they were both. They were griffins.
+
+The crowd erupted into cheers. For somebody like me who couldn’t tell whether or not we were about to die, I was about to wet my pants. This looked more like an attack rather than a parade, but seeing how calm the other three were made me feel a bit better.
+
+“Whoa…” Talon muttered.
+
+At the center of all the ships was the largest vessel. This one in particular was coated in not just runes, but all sorts of gold and diamonds.
+
+A lone figure stood in front of the long, pointy tip of the ship, having no fear of falling off. A long coat fluttered behind him in the wind. Even from this far away, I could tell he was young. Probably not much older than us.
+
+I turned to Meriel. Actually, I take that back. She was an elf. She could be over a thousand years old for all I know. I’ve been too afraid to ask.
+
+I looked at the skies once again. My eyes naturally gravitated toward the man.
+
+He had several silver ornaments decorating parts of his clothing, but compared to the gold and diamonds on the ship beneath him, his attire was relatively simple. It only made him stand out more.
+
+He didn’t have a crown.
+
+He didn’t have a giant glowing weapon.
+
+He wore nothing but a humble attire. And by humble, I just meant relative to the other wealthy people in these kinds of fantasy worlds.
+
+“Is he a noble?” I asked.
+
+The others looked at me. Meriel had the biggest frown on her face I’d ever seen.
+
+[TROPE IN PROGRESS: THE OTHERWORLDER’S SECRET]
+
+Completion criteria: Do not let anybody find out you’re from another world until the day you die.
+
+Punishment: You will no longer be recognized as the protagonist.
+
+The System flashed its message as if to emphasize that I was screwing up big time.
+
+“Or uh… haha. I’m just kidding,” I said quickly. “Of course, he’s a noble! Just look at him!”
+
+“Not just any noble,” Reina said. “He’s a Firstborn.”
+
+Whew. Thank goodness she answered without questioning me. That’s what I love about you, Reina!
+
+But Meriel’s suspicion didn’t go away.
+
+“Even children know of the Firstborn,” she said.
+
+“Hey, I said I was just kidding,” I said, even as I had absolutely no clue what a Firstborn was.
+
+We returned our gazes to the ships above.
+
+The crowd gasped.
+
+“He’s…” Meriel began. “Where did he—?”
+
+A voice came from just in front of us while we were too busy looking up at the sky.
+
+“You three.”
+
+We looked in front of us.
+
+The man was right there.
+
+That man who was just on the ship high above had appeared in front of us without making a noise. The crowd didn’t even realize he was on the same ground as them until whispers started to spread.
+
+How did he get here so quickly? Was it magic?
+
+He went up to us, one by one.
+
+Meriel.
+
+Reina.
+
+Me.
+
+But not Talon.
+
+He looked at us with his pale gold eyes. His dark brown hair was slightly messy from the wind.
+
+“The three of you smell like… Kthal.”
+
+His eyes lingered on me the longest.
+
+“What…? Kthal? Who—no, wait. Why the hell are you smelling us?”
+
+The winds brushed by us. It didn’t feel natural. With how many people there were around us at the festival, they should’ve blocked most of it.
+
+But it didn’t feel like that at all. It was like the winds came from the man himself.
+
+Nobody moved. Not Meriel, not Reina, not Talon. Not anyone in the crowd. Even Noodle Azrath was hiding behind Meriel.
+
+“That’s impossible,” the man muttered, narrowing his eyes.
+
+The air itself began to whistle.
+
+“You met him. You saw him.”
+
+He didn’t ask us a question. He spoke as if every word were the truth.
+
+“I… what? We don’t know what you’re talking about.”
+
+He shook his head. “Maybe. Then I’ll tell you. Come with me.”
+
+The winds gathered beneath our feet and swept us into the air. He flew along with us.
+
+Talon didn’t get picked up, and neither did Noodle the cloud serpent. He tried to fly up to us, but his damaged wings didn’t give him much height, so he was forced to stay by Talon’s side.
+
+“What are you doing?” Meriel asked.
+
+We flew toward the ships.
+
+“We’ll talk where there are fewer people,” he said.
+
+We landed on the man’s ship.
+
+The other airships surrounded us, each with several soldiers in armor and weapons. The griffins that were flying through the air settled onto these ships, staring at us.
+
+For a moment, none of us spoke. Not even Reina—which was impressive, considering she usually couldn’t survive thirty seconds without saying something stupid.
+
+The winds around the ship were much colder and sharper than on the island below. Whether it was because of this man alone or because we were higher up in the air, I couldn’t tell.
+
+Standing between us were rows of armored soldiers. As he passed by them, they lowered their heads.
+
+…Yeah.
+
+This was definitely not just “some noble.”
+
+I didn’t know what the Firstborn were, but such an awesome title must’ve meant something, right?
+
+“Please tell me the truth,” he began. “Kthal… how is he doing?”
+
+I shook my head. “I’m telling you, I don’t know who Kthal is! None of us do!”
+
+Meriel put out a hand, stopping me.
+
+“We know who Kthal is,” she said. “But we never met him. Are you confident we have?”
+
+“I am.”
+
+“But he’s been missing for years, hasn’t he?” Reina asked. She had a serious look on her face for once.
+
+“Yes,” the man said. “But his smell… his frost… it lingers on you.”
+
+The three of us looked at each other.
+
+“Frost…?” Meriel muttered. “From Glacinus?”
+
+That was the name of the frosty region she had teleported us to during our first training.
+
+The man raised his brows. “Glacinus, huh? So my assumption was right all along. He’s there.”
+
+Meriel shook her head. “But we never saw him. We would know if we did.”
+
+“I know. But the region is covered in an endless blizzard. Perhaps he came close to you three, but kept himself hidden in the blizzard.”
+
+The man leaned in. “What were you doing in Glacinus?”
+
+“Training,” I said. “I’m a mage, and she’s a knight.” I pointed to Reina. “Well, a magic-knight.”
+
+He looked at Reina, then at Meriel.
+
+“And the elf?”
+
+“I’m their mentor,” she said.
+
+After a moment, he looked up at the soldiers surrounding us on their ships.
+
+“Begin the parade as usual,” he said. “I’ll be talking to the three of them myself.”
+
+All the soldiers nodded, and the ships began to move. The griffins and their riders took off, resuming their flight.
+
+“I’m sorry for disturbing you at this festival,” he went on, bowing slightly. “I would like to formally introduce myself. My name is Kaelor, a proud member of the Firstborn lineage. For taking your time, I will reward you all handsomely. With that being said, could you all please make your way to the cabin? I would like to ask more questions about brother Kthal.”
+
+We never even accepted, yet he spoke as though we already did.
+
+Meriel and Reina nodded and started walking toward where he pointed, obeying him entirely.
+
+I had a feeling I should probably do the same.
+
+[TROPE INITIATED: THE LOST BROTHER]
+
+Completion criteria: Locate the man Kaelor calls his brother.
+
+[TROPE COMPLETED: THE POWERFUL FIGURE TAKES NOTICE]
+
+[REWARD: +1 WIS—
+
+Wait, wait! Could you please give me a stat in endurance? It’s my lowest one…
+
+[...]
+
+Pretty please?
+
+[REWARD CHANGED: +1 ENDURANCE]
+
+[ENDURANCE]
+
+[1 → 2]
+
+Thanks!

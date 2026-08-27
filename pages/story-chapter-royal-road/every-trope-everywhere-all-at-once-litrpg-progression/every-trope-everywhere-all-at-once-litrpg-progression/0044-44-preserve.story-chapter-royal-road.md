@@ -1,0 +1,239 @@
+---
+id: 071854b7-3d9d-5296-8f63-5821712ef43f
+page-type-slug: story-chapter-royal-road
+title: "44 - Preserve"
+slug: 0044-44-preserve
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 44
+ownLength: 2043
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3531975/44-preserve"
+royalRoadId: "3531975"
+---
+
+The four of us peeked into the cell that Reina’s flame was illuminating.
+
+A beastman was lying on the cold, stone floor, unbreathing.
+
+“Hello?” Reina called.
+
+No reaction.
+
+Dust had gathered around the body. He must’ve been lying still like this for a long time. His clothes were tattered, and the chains around his wrists were rusted.
+
+“He’s not the only one who’s dead,” Gabriel said, looking around the hallway.
+
+We moved forward, visiting one cell after the other. Most contained a body, whether that be humans, elves, angels, beastfolk, or harpies. There wasn’t any species in particular that appeared more often than the others.
+
+“Lord Aurelius experimented on a variety of people,” Camille said. “Since a person’s soul was distinctly separate from the body they were born in, he believed any soul could inhabit any body.”
+
+Seeing all of this, I realized that something was off about the bodies.
+
+“They don’t have anything noticeable like blood, bruises, or injuries,” I said. “And from how nourished they appear, I don’t think any of them died from starvation, either.”
+
+“But they’ve been left here for a long time, right? What else would they die from if it’s not starvation?” Reina asked.
+
+Gabriel studied the body in the cell closest to us.
+
+“This is the work of a spell,” he said. “If the Borrowed One’s goal is to find a suitable body for his soul to inhabit, then it would make sense for him to preserve these bodies.”
+
+“Like a spell that prevents them from starving?” Reina asked.
+
+“Yes. Or at least, something similar to that. It’s likely a spell that slows their metabolism. Their hearts would still need to beat, and the rest of their organs would still have to function, so we can assume the spell just slows those processes down instead of stopping them completely.”
+
+I crossed my arms. “But that would mean they can’t really move, right? I’d imagine it would be difficult to do anything at all while your entire body is slowed. It would feel like they’re trapped in their own bodies.”
+
+Camille shook her head. “Lord Aurelius wouldn’t do something like that. I’m sure that prior to casting such a spell, he would’ve already separated their soul from their body. He wouldn’t make them suffer for no reason.”
+
+Gabriel looked at her. “Are you sure about that?”
+
+“I’m sure,” she said. “He was a kind man.”
+
+We continued walking down the hallway, passing by several more cells. When we reached the end, there was nothing but a stone wall in front of us.
+
+“Hm…” Reina said. “That’s weird. My senses are tingling.”
+
+“What do you mean?” I asked.
+
+“This can’t be the end,” she said. “I think there’s more that we haven’t seen yet.”
+
+I shrugged. “There’s only one way to find out.”
+
+I cast [HIDDEN PATH DETECTION], and a specific stone brick on the wall began to glow. I pointed at it, but the others only looked at me, confused. I was the only one who could see it.
+
+I walked up to it and pressed the brick. There was a loud sound—a moving contraption of some sort, and the wall before us began to slide to the side, dust flying everywhere. It revealed a set of spiraling stairs heading deeper.
+
+“Looks like you were right,” I said.
+
+Reina smiled. “See? My spidey senses never lie.”
+
+Woah. How’d she even know that reference?
+
+Gabriel turned to me. “How did you…?”
+
+“I used a spell that reveals hidden paths. Honestly, this place is bigger than I thought.”
+
+Camille studied the stone walls. “Strange,” she said. “I’m aware of the bodies and cells down here, but I never knew there was more underneath.”
+
+Reina ran up to me and hugged me. “Allene, I’m scared! I have a weird feeling about this!”
+
+I pushed her away. “Nothing’s scarier than having you hug me out of nowhere. And besides, you have that knockback stick, don’t you?”
+
+“Knockback stick?” Gabriel wondered.
+
+“It’s some dumb thing we got from our Adventurers Guild,” I said. “It does exactly what it sounds like.”
+
+“...Interesting. Can you try hitting me with it?”
+
+“Sure!” Reina said.
+
+I put an arm between them. “Absolutely not.”
+
+My gaze went to the stairs before us, then back at the others. Honestly, I was waiting for someone to go first. Not to be that person, but I’d rather not be the one getting killed from a trap.
+
+“Go ahead,” I said.
+
+But no one moved.
+
+“You should go first, my lady,” Gabriel said.
+
+“As a servant, it is only right for me to go after you do,” Camille said, bowing.
+
+Seriously? We have an angel who was strong enough to clear this dungeon by himself, and a ghost who’s already dead, yet they want me to go first?
+
+“Just admit that you’re both scared,” I said.
+
+Reina laughed. “It’s fine. I’m scared too, so let’s do this together, Allene!”
+
+She grabbed my arm and took me down the spiraling stairs, leaving the other two behind.
+
+“Reina, wait!” I cried.
+
+She kept dragging me down.
+
+“Reina, what if there’s a trap?! And not just that…”
+
+I pulled her, forcing her to stop.
+
+“We’re supposed to stay behind them, remember?” I whispered.
+
+“Why?”
+
+“Because of Gabriel. I still think there’s something strange about him.”
+
+“Oh,” Reina said, lifting her brows. “I completely forgot about that.”
+
+Seconds later, we heard footsteps from behind. Gabriel and Camille appeared from the stairs.
+
+“What’s that about me?” Gabriel asked.
+
+“What? Oh, no, it’s nothing,” I said right away.
+
+He smiled at me. “Then let’s keep going. Of course—with you in front of us.”
+
+“What if there’s a trap?” I asked.
+
+“All the more reason why you should be ahead of me.”
+
+Reina and I looked at each other. We would be the ones who looked suspicious if we forced anything now.
+
+We reluctantly descended the stairs.
+
+When we reached the bottom, we were met with the sight of a large room rather than another set of hallways or cells like what we saw above. There was a desk at the center covered in old notes, and shelves lining the side of the room, packed with jars of varying sizes. The jars had all sorts of strange specimens within them. Thankfully, the strange smell from earlier was completely gone down here. And best of all…
+
+“That’s it!” Reina said, running toward the back.
+
+There was a lever—the very thing that we had been looking for ever since we entered the manor. Kaelor, Talon, and Meriel must’ve already found their levers by now considering how much time Reina and I had spent in this manor. I’m glad we finally found it.
+
+If I remembered correctly, Camille mentioned that the manor’s lever changed locations each time. In theory, this meant it could've appeared anywhere within the manor. Even down here.
+
+Yet, it was kind of strange considering most parties would never find this place. The only reason we had reached the underground area at all was because Gabriel brought the key from his previous dungeon clear. Without it, we would've spent hours searching the manor, all for the lever to be down here all along.
+
+This could mean one of two things.
+
+Either the dungeon knew Gabriel had the key and allowed the lever to spawn in the manor's underground area, or there was another way to reach this place that we hadn't discovered.
+
+Whatever it was, it didn’t really matter now since we’d managed to find it.
+
+Reina ran up to it, pulling the lever. Then…
+
+Nothing happened.
+
+I was expecting some kind of spectacle or sound, but there was literally nothing. Reina looked just as confused. She tried lifting the lever back up, but it wouldn’t budge. Once it had been pulled, it was locked to stay that way.
+
+With that out of the way, we explored every corner of the room. Reina and Camille were looking at the jars on the shelves, while I stood near the table, reading over some of the papers. All of them were just nonsense research about immortality and souls—the kind of research you’d find from a mad scientist.
+
+For some reason, Gabriel didn’t seem nearly as curious as the rest of us. He hung by the front entrance, near the stairs we had come from.
+
+I walked up to him.
+
+“You know, I still would’ve preferred it if you had revealed yourself sooner,” I said. “I don’t see why you had to sneak into this dungeon with us. If you had just outright said that you wanted to come with us to use the key and enter the manor’s underground layers, the rest of the party would’ve been fine to let you tag along.”
+
+He eyed me, shrugging. “Well, Kaelor and Meriel are a bit of a scarier bunch. I’m not too sure they’d let me go along without being skeptical.”
+
+“They’re nice people,” I said. “And there’s nothing wrong with them being skeptical of someone they just met. That is, unless you’re hiding something.”
+
+I watched his expression, looking for any subtle clues. From up close, angels looked even more beautiful than I initially thought. Gabriel himself had white hair, and even his eyelashes and brows followed the same color. His golden eyes made for the iconic celestial look you’d expect from an angel race.
+
+“Hiding something?” he said. “You don’t have to worry about that. I’m not a very interesting person in the first place, so I don’t have many secrets to hide.”
+
+Not many, huh? That still meant he had some, though I guess that was normal considering everyone had some kind of secret. I’d be a hypocrite if I said otherwise. I came from an entirely different world, after all.
+
+“What do you usually do in your free time?” I asked.
+
+“What’s with such a random question?”
+
+“I’d like to know more about the people tagging along with me.”
+
+He thought about it for a moment.
+
+“I enjoy reading.”
+
+“Reading? Well, I didn’t expect that.”
+
+He frowned. “What’s that supposed to mean?”
+
+“Well, during our first encounter at the Grand Skycurrent Race, I thought you were one of the crazier angels from the way you were talking to me and spinning your rings. I’m glad to see you’re not as crazy as I originally thought.”
+
+He laughed. “Oh, people do tend to call me crazy. I’m just not in the mood for it right now. This entire underground area is keeping me on my toes.”
+
+“I guess that’s true. But you’re strong enough to clear this entire dungeon by yourself. From what I heard, nobody has ever cleared this dungeon before. The fact that you did it solo… I don’t think anything in this dungeon could hurt you.”
+
+He laughed, his wings fluttering for a moment. “Well, I think there is one thing that could hurt me. Everyone has a weakness, after all. But with that aside, I certainly do appreciate the praise!”
+
+I looked around, seeing that Reina and Camille were still fascinated by all the jars and specimens on the shelves.
+
+“Isn’t this kind of underwhelming?” I asked. “I don’t see anything especially interesting here, unless you want to read through all the papers on the desk.”
+
+“Maybe we haven’t explored enough,” he suggested.
+
+He pointed across the room, nodding toward it.
+
+“Follow me.”
+
+Gabriel and I walked to the back wall. His hands traced over it, as if looking for some kind of secret button like the stone brick I had pressed earlier.
+
+“Looking for another secret room?” I asked.
+
+“Maybe.”
+
+“Here, let me just use the path detection spell from earlier.”
+
+But before I could do that, his fingers stopped.
+
+There was a click.
+
+A rumble echoed, and the back wall slid open. Hearing that, Reina and Camille stopped what they were doing and regrouped with us.
+
+Behind the open wall was a small alcove, hidden from the main room. Inside, there was a chest and a stone pedestal with a journal on top.
+
+[TROPE COMPLETED: A SECRET ROOM INSIDE OF A SECRET ROOM]
+
+[SKILL UPGRADED: HIDDEN PATH DETECTION]
+
+The range of this skill has increased.
+
+I looked at Gabriel. “How’d you know that was there?”
+
+He took a step forward. “Lucky guess.”

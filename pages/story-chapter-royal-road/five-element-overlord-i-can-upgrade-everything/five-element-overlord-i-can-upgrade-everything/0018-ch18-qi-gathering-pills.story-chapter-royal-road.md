@@ -1,0 +1,129 @@
+---
+id: 32c56a04-e4ef-5757-a507-f712ad9aa35e
+page-type-slug: story-chapter-royal-road
+title: "Ch18 Qi Gathering Pills"
+slug: 0018-ch18-qi-gathering-pills
+partOf: five-element-overlord-i-can-upgrade-everything
+position: 18
+ownLength: 1405
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211920/ch18-qi-gathering-pills"
+royalRoadId: "3211920"
+---
+
+The wood chopping once the sun rises again is far slower than usual. When Zhou Kang appears walking up the mountain trail, she has only two piles of wood to present at dusk.
+
+–
+
+“I don’t care if he didn't chop wood all day, worry about your own work! Just because you made Li Hao work harder doesn't mean you get to slack off! Whiny servants like you are the worst!” Zhou Kang yells, slapping Xu Hong across the face many times over for only chopping two full bins' worth of firewood today.
+
+When he comes up the dirt road to me, he collects my two piles and looks at my sweat-covered shirt with a satisfied grin.
+
+“Good work today. You’re humble and smart enough to know your place.” He tosses me a spirit fragment and walks off, already having vented enough of his pent-up anger on my neighbor.
+
+I hear the sound of wood slowly being chopped nearby as the sun sets and make my way through the forest, cracking my own knuckles to make sure that doesn't happen.
+
+“I challenge you to another duel! You still have the nerve to rat on me? So, I don’t think our rematch was enough to settle the winner. Best out of three is only fair, right?” I call out while approaching.
+
+Then, proceed to give Xu Hong another beating as the sun fully sets.
+
+–
+
+Over the next few days, this cycle repeats.
+
+I collect spirit fragments, upgrade them to spirit stones, and store them away in my system storage.
+
+Finally, after five beatings in a row, one from Zhou Kang, followed by an even worse one from me after he leaves, this brute finally hesitates to speak when our steward arrives.
+
+She does not say anything about my lack of chopping wood all day. She only apologizes for not meeting the three-and-a-half-bin quota.
+
+In response, I do not visit her hut today.
+
+The next few days are very peaceful.
+
+Xu Hong meets her quota and avoids a beating. I meet my own newly raised quota and appease our steward’s wishes as well, gaining my neutral favor back. He even smiles at me a few times as he leaves.
+
+During this time of repairing my reputation, I’ve only cultivated with a few spirit stones. I’ve managed to save up five full stones and devised the exact words I’ll say to get what I need.
+
+My meridians have constricted back to their completely natural thin state, and the bottleneck at the peak of the first level of qi refining has become more and more daunting.
+
+So, just as Zhou Kang turns to leave after collecting slightly more than average wood from me, I take a deep breath and clasp my hands.
+
+“Senior Zhou, this humble servant has a request.”
+
+He stops in place and turns back around with a sadistic grin. “Don’t think your little stunt, beating your fellow servant to gain my favor back, wasn’t noticed. You must have lucked out with that pill I granted you to be able to wield any qi at all. Speak carefully, young one.”
+
+My heart beats loud in my ears, and I shove my hands in my pockets to shield the fact that I’m pulling five full spirit stones out of my storage.
+
+I raise them above my head and kneel.
+
+“This servant has stumbled upon another blessing in the back mountain stream. I wish for as many pills as you will grant me. Anything to progress my cultivation. For indeed, the marrow-cleansing pill you previously granted has loosened the shackles of my poor meridians, yet circulating any qi through them is still difficult…”
+
+I keep my head bowed, lying through my teeth, then feel the stones snatched from my hands.
+
+There is a long moment of silence between us, but finally Zhou Kang speaks.
+
+“I’ll get you a batch of Qi Gathering Pills, but it’s going to take a few days. It’s what helped me break into the first level of qi refining when I was young. You remind me of myself when I was a servant. You will do anything to survive in this world. I respect it.”
+
+Despite his kind words, my senses pick up a sharp aura emanating from the old man, one I have not felt from anything but the serpent when it was trying to kill me mid-battle…
+
+My stomach churns with an ominous premonition, but I do not react to it.
+
+“Thank you, senior. You are the only starlight in this servant’s dark sky.”
+
+He grunts and turns away, laughing while disappearing up the dirt path of the mountain.
+
+I collapse onto my back in the grass once he’s gone and let out a laugh of my own.
+
+–
+
+The next day, I get back to chopping wood like usual, but an eerie sensation, like someone is watching me, creeps into the back of my mind.
+
+I don’t pull out my new upgrade card, and I even fake my effort for wood chopping all day long.
+
+The feeling of a pair of eyes on my back doesn't go away.
+
+When I leave my clearing to drink water from the stream midday, there are even shadows that lurk in my peripherals, and the sounds of leaves moving in the trees I pick up.
+
+This confirms someone is monitoring me, but I don’t react.
+
+I just hand in my wood at the end of the day like usual, and Zhou Kang collects it.
+
+He remarks that it will still take a few more days to get my pills, and the sharp aura in his gaze still eats into me when we speak. It’s like he’s eyeing me as prey.
+
+This goes on for almost a full week. I save up seven upgrade cards, as I don’t know how many pills a batch will be, but I hope for the best.
+
+From the moment I wake up to when I go to sleep, I feel eyes on me.
+
+I start to doubt if I’m ever going to get the pills, but one evening, Zhou Kang arrives with a paranoid look on his face before handing me a familiar cloth bag.
+
+“Our trade is done. One pill per stone. I can get more where that came from, if you provide the spirit stones,” he murmurs, but doesn’t linger at my place long.
+
+When he walks away, I quickly return to my hut too, and examine what he managed to get for me.
+
+Five slightly charred pills sit clumped together.
+
+They glow with faint white light, and I can feel the heat emanating off them like I’m holding a spirit stone. Yet, the pungent burnt smell makes my skin crawl and my nose turn away. If I ate these in their current state, they’d most likely poison me horribly.
+
+Some of them are ovals, while others have strange textures and lumps sticking out of them. These are horribly inferior-quality pills.
+
+There are small white spots and streaks in all of them. From these, a rich fragrance flows out. If I had to deal with these pills alone, I would most likely break them apart and try to only eat the small portions that actually remain intact.
+
+Yet, this is not my fate.
+
+I pull out five bronze upgrade cards resting unused in my storage from the passing days and select every one of the pills in this cloth.
+
+A flash of light bursts throughout my hut, and I quickly store everything in my grasp inside my storage before anything irregular happens.
+
+There are still mysterious figures watching me outside, so I mentally view what has transpired in my storage rather than outside.
+
+Within the cloth, five pristine white pills now rest without a single charred marking or flaw on them.
+
+They are perfectly round and each have three golden vine patterns wrapping around them.
+
+The contrast is like night and day. Viewing them now reminds me of the brown marrow-cleansing pill that completely cleared out my meridians. My heart beats faster, and my mouth waters as I sit down and prepare for what is next.
+
+I start circulating my Jade Purity Soul Scripture and relax into a calm state ready for cultivation using the ambient mana in the air.
+
+Then, I quickly pull one of the perfect Qi Gathering Pills from my storage space and swallow it whole before its white glow can shine for too long.
